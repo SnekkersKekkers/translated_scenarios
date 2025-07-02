@@ -1,0 +1,15 @@
+BGOpen("tr100",0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("B030620000_06_000");
+MsgDisp("Himuro","It's sunny......");
+MsgDispSksp(0);
+MsgClose();
+ScrFadeOut(0,0);
+MsgClose();
+ChClose(6,0,0);
+ChOpen(6,32,0,0,0,-1,-1,0,0,0,0);

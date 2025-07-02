@@ -1,0 +1,14 @@
+BGOpen("wf200",0);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,0,1);
+ScrFadeIn(0);
+MsgDisp("主人公","Want to walk on the brick road?");
+MsgDispSksp(1,0);
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0);
+VoicePlay("B030102000_01_000");
+MsgDisp("Kazama","Sounds good, let's go.");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

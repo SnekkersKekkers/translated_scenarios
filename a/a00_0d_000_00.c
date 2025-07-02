@@ -1,0 +1,21 @@
+VoicePlay("A000D00000_21_000");
+MsgDisp("Michiru","Welcome. Please enter the first and last
+name you want to display.");
+VoicePlay("A000D00000_22_000");
+MsgDisp("Hikaru","Enter your birthday and blood type!▼");
+VoicePlay("A000D00000_21_010");
+MsgDisp("Michiru","Which room do you like?");
+VoicePlay("A000D00000_22_010");
+MsgDisp("Hikaru","Please enter how to say your last name.▼");
+VoicePlay("A000D00000_22_020");
+MsgDisp("Hikaru","Please enter how to say your first name.▼");
+VoicePlay("A000D00000_21_020");
+MsgDisp("Michiru","Is this correct?");
+VoicePlay("A000D00000_21_030");
+MsgDisp("Michiru","Let's meet later!");
+VoicePlay("A000D00000_22_030");
+MsgDisp("Hikaru","See you later～▼");
+VoicePlay("A000D00000_21_040");
+MsgDisp("Michiru","Haha, did you make a mistake?");
+VoicePlay("A000D00000_22_040");
+MsgDisp("Hikaru","Let's fix it one at a time～▼");

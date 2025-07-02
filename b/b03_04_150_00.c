@@ -1,0 +1,10 @@
+BGOpen("ne300",0);
+BGMPlay("BGM_PLACE_SKI_SKAT",0.01);
+ChEye(4,0);
+ChMouth(4,0);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("B030404000_04_000");
+MsgDisp("Nanatsumori","Let's go.");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

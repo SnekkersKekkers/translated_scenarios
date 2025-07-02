@@ -1,0 +1,45 @@
+BGMStop();
+BGDateAfterOpen();
+ChLayout(2);
+ChCheek(1,0);
+ChCheek(3,0);
+ChCheek(4,0);
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,0,1);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,0,1);
+ChEye(4,0);
+ChMouth(4,3);
+ChMotion(4,0,1);
+ScrFadeIn(0);
+MsgDisp("主人公","Haa, that was fun!
+Thanks for inviting me today!");
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,3,1);
+ChEyeOpenLevel(3,0);
+VoicePlay("B340B00001_03_000");
+MsgDisp("Honda","Yep yep.
+I still haven't had enough fun!");
+ChEye(4,2);
+ChMouth(4,3);
+ChMotion(4,1,1);
+VoicePlay("B340B00001_04_000");
+MsgDisp("Nanatsumori","You sure are energetic.");
+ChEye(1,4);
+ChMouth(1,3);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,0);
+VoicePlay("B340B00001_01_000");
+MsgDisp("Kazama","Well, good work.");
+ChEye(1,0);
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,1,1);
+VoicePlay("B340B00001_03_010");
+MsgDisp("Honda","Right right, four times the fun!
+Then, I'll see you all at school!");
+MsgClose();
+SEPlay("EV_SE_856",0,0.6);

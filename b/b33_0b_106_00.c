@@ -1,0 +1,170 @@
+BGOpen("ne600",0);
+ChLayout(2);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,0);
+ChPosition(1,3);
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,4);
+ChPosition(3,3);
+ChNanaType(0);
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,0);
+ChPosition(4,3);
+ScrFadeIn(0);
+VoicePlay("B330B10600_03_000");
+MsgDisp("Honda","\"The Road to First Love\"
+The title makes you wonder 
+how the story will unfold.");
+ChEye(4,0);
+ChMouth(4,3);
+VoicePlay("B330B10600_04_000");
+MsgDisp("Nanatsumori","Yeah.
+No matter how it goes.");
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0);
+ChEyeOpenLevel(1,0);
+VoicePlay("B330B10600_01_000");
+MsgDisp("Kazama","Well, it's probably more enjoyable
+for actual couples to
+watch it together.");
+ChMouth(1,2);
+ChEyeOpenLevel(1,-1);
+ChEye(4,3);
+ChMouth(4,3);
+ChMotion(4,1,1);
+VoicePlay("B330B10600_04_010");
+MsgDisp("Nanatsumori","Then, I'll be a stand in.");
+ChEye(1,2);
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,3,1);
+VoicePlay("B330B10600_03_010");
+MsgDisp("Honda","Me too.
+Let's have it so we're 
+Ryo-kun's lovers.");
+ChEye(1,2);
+ChMouth(1,2);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,0);
+VoicePlay("B330B10600_01_010");
+MsgDisp("Kazama","Stop it...");
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,0,1);
+MsgDisp("主人公","Hehe!");
+ChEye(1,2);
+ChMouth(1,2);
+ChMotion(1,3);
+VoicePlay("B330B10600_01_020");
+MsgDisp("Kazama","Oi, instead of laughing, 
+you should help me out here. ");
+MsgDisp("主人公","Eh, me∋");
+MsgClose();
+ScrFadeOut(0);
+ChClose(1,0,0);
+ChClose(3,0,0);
+ChClose(4,0,0);
+BGOpen("ne625",0);
+BGMPlay("BGM_CINEMA_LOVE",0.01);
+ScrFadeIn(0);
+Wait(300,1);
+BGMStop();
+MsgClose();
+ScrFadeOut(0);
+MsgDisp("","　　　　　　　　　　 ・
+　　　　　　　　　　 ・
+　　　　　　　　　　 ・");
+MsgClose();
+BGOpen("ne600",0);
+ChOpen(1,255,0,4,2,-1,-1,0,3);
+ChOpen(3,255,0,4,0,-1,-1,0,3);
+ChNanaType(0);
+ChOpen(4,255,0,0,3,-1,-1,0,3);
+ScrFadeIn(0);
+ChMouthOpenLevel(1,0);
+VoicePlay("B330B10600_01_030");
+MsgDisp("Kazama","…………");
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,4,1);
+ChEyeOpenLevel(3,0);
+VoicePlay("B330B10600_03_020");
+MsgDisp("Honda","Haa...");
+ChEye(4,1);
+ChMouth(4,3);
+ChMouthOpenLevel(4,0);
+VoicePlay("B330B10600_04_020");
+MsgDisp("Nanatsumori","…………");
+MsgDisp("主人公","...It was super good wasn't it?");
+ChEye(4,3);
+ChMouth(4,3);
+ChMotion(4,0,1);
+VoicePlay("B330B10600_04_030");
+MsgDisp("Nanatsumori","Yeah, it was.");
+ChEye(1,4);
+ChMouth(1,0);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,0);
+VoicePlay("B330B10600_01_040");
+MsgDisp("Kazama","Somehow... 
+my chest kinda hurts.");
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,0,1);
+VoicePlay("B330B10600_03_030");
+MsgDisp("Honda","You've been moved.
+Ryo-kun, your eyes are a little red.");
+ChEye(1,0);
+ChMouth(1,2);
+ChMotion(1,1);
+ChEyeOpenLevel(1,8);
+ChCheek(1,5);
+VoicePlay("B330B10600_01_050");
+MsgDisp("Kazama","Ha?
+What are you saying.");
+ChEye(4,0);
+ChMouth(4,3);
+ChMotion(4,1,1);
+VoicePlay("B330B10600_04_040");
+MsgDisp("Nanatsumori","That's fine.
+I'm relieved to see that 
+there's a pure side to you.");
+ChEye(1,0);
+ChMouth(1,2);
+ChMotion(1,0);
+ChEyeOpenLevel(1,0);
+VoicePlay("B330B10600_01_060");
+MsgDisp("Kazama","Shut up.");
+MsgDisp("主人公","Hehe!");
+ChEye(1,0);
+ChMouth(1,1);
+ChMotion(1,3);
+ChEyeOpenLevel(1,8);
+VoicePlay("B330B10600_01_070");
+MsgDisp("Kazama","Don't laugh.
+Your eyes are as red as mine.");
+MsgDisp("主人公","(Hehe!)");
+MsgClose();
+ScrFadeOut(0,0);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,7);
+ChEyeOpenLevel(1,-1);
+ChMouthOpenLevel(1,-1);
+ChCheek(1,0);
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,7);
+ChEyeOpenLevel(3,-1);
+ChMouthOpenLevel(3,-1);
+ChCheek(3,0);
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,7);
+ChEyeOpenLevel(4,-1);
+ChMouthOpenLevel(4,-1);
+ChCheek(4,0);

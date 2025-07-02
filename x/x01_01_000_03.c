@@ -1,0 +1,12 @@
+BGOpen("sc200",0);
+ChLayout(1);
+MsgClose();
+ScrFadeIn(0);
+MsgDisp("主人公","(I did my absolute
+best this week!)");
+ChOpen(1,30,3,0,3,8,-1,0,0);
+VoicePlay("X010100003_01_000");
+MsgDisp("Kazama","Your movements are pretty limber.");
+MsgDisp("主人公","(Yay!)");
+MsgClose();
+ScrFadeOut(0,0);

@@ -1,0 +1,64 @@
+ChEyeOpenLevel(6,-1);
+ChCheek(6,0);
+ChEye(6,3);
+ChMouth(6,1);
+ChMotion(6,5);
+ChCheek(6,10);
+VoicePlay("T020601000_06_180");
+MsgDisp("Himuro","∋");
+VoicePlay("T020601000_06_190");
+ChEye(6,3);
+ChMouth(6,1);
+ChMotion(6,5);
+MsgDisp("Himuro","Wh......What......");
+MsgDisp("主人公","I too, have always liked
+｛氷室＊＊｝.");
+VoicePlay("T020601000_06_200");
+ChEye(6,0);
+ChMouth(6,1);
+ChMotion(6,0);
+MsgDisp("Himuro","That's fine! But still, why did you kiss
+me?——");
+VoicePlay("T020601000_06_210");
+ChEye(6,0);
+ChMouth(6,1);
+ChMotion(6,0);
+ChEyeOpenLevel(6,7);
+MsgDisp("Himuro","…………");
+VoicePlay("T020601000_06_220");
+ChEye(6,2);
+ChMouth(6,0);
+ChMotion(6,2);
+ChEyeOpenLevel(6,0);
+ChCheek(6,0);
+MsgDisp("Himuro","Haa......
+you'll betray me even at the very end.");
+MsgDisp("主人公","Hehe.");
+VoicePlay("T020601000_06_230");
+ChEye(6,4);
+ChMouth(6,3);
+ChMotion(6,0);
+MsgDisp("Himuro","But, I need you. 
+From now on too......");
+BGMStop(2.8);
+MsgClear();
+ScrFadeOut(0,1);
+ChClose(6,0,0);
+Wait(120,0);
+StlOpen("ev_06_16");
+ScrFadeIn(0);
+VoiceEVSPlay(6);
+VoicePlay("T020601000_06_240");
+MsgDisp("Himuro","｛主人公｝, 
+always be by my side.");
+MsgClear();
+StlEffect(1,1,60);
+Wait(60,0);
+SEPlay("EV_SE_695");
+Wait(120,0);
+MsgClose();
+ScrFadeOut(0,1,120);
+StlClose();
+Wait(160,0);
+SEStop("EV_SE_695",3.5);
+Wait(220,0);

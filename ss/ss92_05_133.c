@@ -1,0 +1,6 @@
+ChEye(5,0);
+ChMouth(5,4);
+ChMotion(5,0);
+VoicePlay("SS9205133_05_000");
+MsgDisp("Hiiragi","Let's enjoy the view now, shall we?");
+MsgClose();

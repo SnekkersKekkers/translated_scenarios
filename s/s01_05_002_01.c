@@ -1,0 +1,3 @@
+MsgDisp("主人公","This is ｛柊＊＊＊｝
+This looks like a template card......
+You really are the Chairman, huh?");

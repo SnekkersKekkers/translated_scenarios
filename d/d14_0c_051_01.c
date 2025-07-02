@@ -1,0 +1,106 @@
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,7);
+ChCheek(6,0);
+ChEye(5,0);
+ChMouth(5,4);
+ChMotion(5,0);
+ChCheek(5,0);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,0);
+ChCheek(7,0);
+VoicePlay("D140C05101_42_000");
+MsgDisp("Male Student A","We're even giving away 
+a glass of Habataki 
+Mixed juice for free!");
+ChEye(5,0);
+ChMouth(5,2);
+ChMotion(5,4);
+VoicePlay("D140C05101_41_010");
+MsgDisp("Male Student B","Oh, seriously∋");
+SEPlay("EV_SE_815");
+Wait(50,1);
+SEPlay("EV_SE_FOOT_RUN_AWAY_MANY");
+Wait(70,1);
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0);
+VoiceEVSPlay(6);
+VoicePlay("D140C05101_06_000");
+MsgDisp("Himuro","｛主人公｝,
+You like Habataki mixed juice right?
+...Do you want it?");
+ChMouth(5,4);
+MsgDisp("主人公","Is that okay?");
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,2);
+VoicePlay("D140C05101_07_000");
+MsgDisp("Mikage","Ooh, can you get some for me too?
+Thank you.");
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,1);
+VoicePlay("D140C05101_06_010");
+MsgDisp("Himuro","...Understood.
+I'll also bring one for Yanosuke-senpai 
+and Kojiro-sensei.");
+MsgClose();
+SEPlay("EV_SE_621");
+Wait(10,0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
+ChClose(6);
+ChEye(5,4);
+ChMouth(5,4);
+ChMotion(5,0);
+VoicePlay("D140C05101_05_000");
+MsgDisp("Hiiragi","Inori-kun is kind isn't he.");
+MsgDisp("主人公","Yes.");
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,1);
+VoicePlay("D140C05101_07_010");
+MsgDisp("Mikage","We're just a 
+side thought though.");
+ChEye(5,0);
+ChMouth(5,4);
+ChMotion(5,4);
+VoicePlay("D140C05101_05_010");
+MsgDisp("Hiiragi","Inori-kun is so kind that 
+he gave me that impression. That he would 
+surely bring me one 
+without me having to ask.");
+VoicePlay("D140C05101_06_020");
+MsgDisp("Himuro","Sorry, this was the last one.
+So, I'm giving it to you.");
+ChEye(5,4);
+MsgDisp("主人公","T-thank you...");
+SEPlay("EV_SE_713",0.1,0.5);
+Wait(30,1);
+MsgClose();
+ChOpen(6,254,2,0,0,0,-1,0,0);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,0);
+VoicePlay("D140C05101_07_020");
+MsgDisp("Mikage","Well, that's
+fine isn't it.");
+ChEye(5,4);
+ChMouth(5,4);
+ChMotion(5,4);
+ChEyeOpenLevel(5,0);
+VoicePlay("D140C05101_05_020");
+MsgDisp("Hiiragi","It cannot be helped.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("D140C05101_06_030");
+MsgDisp("Himuro","？");
+MsgDisp("主人公","(I-it's kind of hard to drink...)");
+BGMStop();
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(5,0,0);
+ChClose(6,0,0);
+ChClose(7,0,0);

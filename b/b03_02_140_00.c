@@ -1,0 +1,38 @@
+BGOpen("ne200",0);
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("B030214000_02_000");
+MsgDisp("Sassa","It's dark ahead, so watch your step.");
+MsgClose();
+ScrFadeOut(0);
+BGOpen("ne210",0);
+ChEye(2,0);
+ChMouth(2,4);
+ChMotion(2,3);
+ChLayout(1);
+Wait(40);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("B030214000_02_010");
+MsgDisp("Sassa","I'm getting so excited!
+Waiting for it to start is just
+an indescribable feeling, right?");
+MsgDispSksp(0);
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(2,0,0);
+VoicePlay("B030214000_02_020");
+MsgDisp("Sassa","Oh, here it comes!");
+MsgClose();
+BGOpen("ne220",0);
+SEPlay("EV_SE_GAYA_003");
+ScrFadeIn(0);
+Wait(300,1);
+SEStop("EV_SE_GAYA_003",1);
+MsgClose();
+ScrFadeOut(0,0);
+MsgClose();
+ChOpen(2,255,0,0,0,-1,-1,0,0,0,0);

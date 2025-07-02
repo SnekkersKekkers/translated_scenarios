@@ -1,0 +1,13 @@
+MsgClose();
+ChClose(1,0,0);
+ChClose(2,0,0);
+ChClose(3,0,0);
+ChClose(4,0,0);
+ChClose(5,0,0);
+ChClose(6,0,0);
+ChClose(7,0,0);
+ChClose(21,0,0);
+ChClose(22,0,0);
+BGOpen("ex080",0);
+ScrFadeIn(0);
+MsgDisp("主人公","(What should I eat today?)");

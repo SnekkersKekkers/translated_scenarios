@@ -1,0 +1,11 @@
+ChEye(3,0);
+ChMouth(3,3);
+ChEye(4,0);
+ChMouth(4,3);
+ChEye(1,4);
+ChMouth(1,3);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,0);
+VoicePlay("J140110001_01_000");
+MsgDisp("Kazama","Well, they're coming.");
+ChEye(1,0);

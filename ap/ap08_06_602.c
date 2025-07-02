@@ -1,0 +1,8 @@
+NSSCheek(6,0);
+NSSEye(6,1);
+NSSMouth(6,0);
+NSSCheek(6,10);
+MsgDispHide();
+VoicePlay("AP0806602_06_000");
+MsgDisp("Himuro","That. Stop.");
+MsgClose();

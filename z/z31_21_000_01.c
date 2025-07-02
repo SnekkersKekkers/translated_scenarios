@@ -1,0 +1,3 @@
+MsgDisp("主人公","I wanted to ask for advice, but......
+If you're free right now,
+do you want to hang out?");

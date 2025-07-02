@@ -1,0 +1,11 @@
+BGOpen("fp400",0);
+ChEye(4,2);
+ChMouth(4,2);
+ChMotion(4,2,1);
+ChEyeOpenLevel(4,8);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("B030410000_04_000");
+MsgDisp("Nanatsumori","Let's go.");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

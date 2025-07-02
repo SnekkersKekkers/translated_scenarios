@@ -1,0 +1,55 @@
+BGOpen("ho100",2);
+ChLayout(1);
+ScrFadeIn(0);
+SEPlay("EV_SE_DOOR_001");
+SEWait();
+MsgDisp("主人公","Coming!");
+SEPlay("EV_SE_DOOR_022");
+SEWait();
+SEPlay("EV_SE_DOOR_023",0,0.5);
+MsgClose();
+BGMPlay("BGM_C06_INORI_A");
+ChOpen(6,255,0,0,0,-1,-1,0,0);
+VoicePlay("K020600001_06_000");
+MsgDisp("Himuro","Are you free?");
+MsgDisp("主人公","Oh, ｛氷室＊＊｝!
+What is it?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("K020600001_06_010");
+MsgDisp("Himuro","It was your birthday recently, right?
+I missed it on the actual day, so here.");
+SEPlay("EV_SE_665");
+SEWait();
+MsgDisp("主人公","Oh, a present?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("K020600001_06_020");
+MsgDisp("Himuro","Yeah.
+Take it.");
+MsgDisp("主人公","Thank you!");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,4);
+ChCheek(6,5);
+VoicePlay("K020600001_06_030");
+MsgDisp("Himuro","Don't mention it.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,1);
+VoicePlay("K020600001_06_040");
+MsgDisp("Himuro","That's all.
+See you.");
+MsgClose();
+SEPlay("EV_SE_DOOR_022");
+SEWait();
+SEPlay("EV_SE_DOOR_023",0,0.3);
+BGMStop();
+MsgClose();
+ChClose(6);
+Wait(30);
+MsgDisp("主人公","(I got a present from ｛氷室＊＊｝!)");
+MsgClose();
+ScrFadeOut(0,0);

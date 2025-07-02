@@ -1,0 +1,62 @@
+MsgClose();
+BGOpen("ho000",2);
+ChLayout(1);
+ChOpen(8,255,0,2,1,-1,-1,4,0);
+ScrFadeIn(0);
+ChMotion(8,4,1);
+VoicePlay("B150800300_08_000");
+MsgDisp("Shirahane","Aah～, 
+It's completely no good..");
+ChEye(8,2);
+ChMouth(8,4);
+VoicePlay("B150800300_08_010");
+MsgDisp("Shirahane","I thought it was ticklish, 
+but it's not.");
+MsgDisp("主人公","Eh?");
+ChEye(8,3);
+ChMouth(8,4);
+ChMotion(8,0,1);
+ChEyeOpenLevel(8,10);
+ChCheek(8,6);
+VoicePlay("B150800300_08_020");
+MsgDisp("Shirahane","I can't really say it but...
+I like that about you.");
+MsgDisp("主人公","！");
+ChEye(8,2);
+ChMouth(8,0);
+ChMotion(8,4,1);
+VoicePlay("B150800300_08_030");
+MsgDisp("Shirahane","But, it's no good, 
+I can't endure this.");
+ChMouth(8,4);
+VoicePlay("B150800300_08_040");
+MsgDisp("Shirahane","If we don't stop this now——");
+ChMotion(8,0,1);
+ChCheek(8,8);
+VoicePlay("B150800300_08_050");
+MsgDisp("Shirahane","I might... do something
+indecent to you. ");
+MsgDisp("主人公","Eh...?");
+ChEye(8,4);
+ChMouth(8,4);
+ChEyeOpenLevel(8,10);
+VoicePlay("B150800300_08_060");
+MsgDisp("Shirahane","It's easier to understand 
+if I'm blunt right?");
+ChMotion(8,0,1);
+VoicePlay("B150800300_08_070");
+MsgDisp("Shirahane","I don't want to do that, 
+so I'm telling you directly.");
+ChEye(8,3);
+ChMouth(8,3);
+ChMotion(8,4,1);
+ChEyeOpenLevel(8,0);
+VoicePlay("B150800300_08_080");
+MsgDisp("Shirahane","Hehe!
+Well then, goodnight!");
+MsgClose();
+SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
+ChClose(8,0,30);
+MsgDisp("主人公","（｛大地＊＊｝……）");
+MsgClose();
+ScrFadeOut(0,0);

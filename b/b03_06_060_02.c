@@ -1,0 +1,10 @@
+BGOpen("wf620",0);
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("B030606002_06_000");
+MsgDisp("Himuro","Yeah, it's calming here.");
+MsgDispSksp(0);

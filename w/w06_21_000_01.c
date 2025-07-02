@@ -1,0 +1,13 @@
+BGOpen("tr410",0);
+BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
+ChLayout(1);
+MsgClose();
+ChOpen(21,255,0,0,0,-1,-1,0,0,0,0);
+ScrFadeIn(0);
+VoicePlay("W062100001_21_000");
+MsgDisp("Michiru","Let's go to the tea cups next.");
+MsgClose();
+ScrFadeOut(0,0);
+ChEyeOpenLevel(21,-1);
+ChMouthOpenLevel(21,-1);
+ChCheek(21,0);

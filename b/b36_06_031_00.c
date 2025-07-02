@@ -1,0 +1,82 @@
+MsgDisp("","　　　　　　　　　　 ・
+　　　　　　　　　　 ・
+　　　　　　　　　　 ・");
+MsgClose();
+BGOpen("wf310",0);
+BGMPlay("BGM_PLACE_MUSE_AQUA_GARDEN",0.01);
+ChLayout(1);
+MsgClose();
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0,1);
+ScrFadeIn(0);
+VoicePlay("B360603100_06_000");
+MsgDisp("Himuro","Did you enjoy the aquarium?");
+MsgDisp("主人公","Yeah!");
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0);
+VoicePlay("B360603100_06_010");
+MsgDisp("Himuro","I see.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B360603100_06_020");
+MsgDisp("Himuro","………………");
+MsgDisp("主人公","｛氷室＊＊｝?");
+ChEye(6,2);
+ChMouth(6,0);
+ChMotion(6,2);
+VoicePlay("B360603100_06_030");
+MsgDisp("Himuro","Ah, nothing......");
+ChEye(6,2);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B360603100_06_040");
+MsgDisp("Himuro","When it's just us two
+I don't know what to talk about......");
+ChEye(6,2);
+ChMouth(6,0);
+ChMotion(6,2);
+ChEyeOpenLevel(6,0);
+VoicePlay("B360603100_06_050");
+MsgDisp("Himuro","When I was feeling anxious, I
+had a lot of things I wanted to say.");
+MsgDisp("主人公","Really?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B360603100_06_060");
+MsgDisp("Himuro","Well, yeah.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,4);
+VoicePlay("B360603100_06_070");
+MsgDisp("Himuro","Please stay with me until
+I think of something to talk about.");
+MsgDisp("主人公","Yeah, I will.");
+ChEye(6,0);
+ChMouth(6,3);
+ChMotion(6,0);
+VoicePlay("B360603100_06_080");
+MsgDisp("Himuro","......Even if it takes until tomorrow?");
+MsgDisp("主人公","Eehhhh∋");
+ChEye(6,0);
+ChMouth(6,3);
+ChMotion(6,0);
+VoicePlay("B360603100_06_090");
+MsgDisp("Himuro","I'm joking.");
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0);
+VoicePlay("B360603100_06_100");
+MsgDisp("Himuro","Well, even if it's late I'll let
+you know if I think of something.
+We can take it slow.");
+BGMStop();
+MsgClose();
+ScrFadeOut(0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+ChCheek(6,0);

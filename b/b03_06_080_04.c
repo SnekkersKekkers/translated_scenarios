@@ -1,0 +1,17 @@
+BGOpen("fp000",0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("B030608004_06_000");
+MsgDisp("Himuro","Try not to catch a cold.");
+MsgDisp("主人公","Okay!");
+MsgDispSksp(1,0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,1);
+VoicePlay("B030608004_06_010");
+MsgDisp("Himuro","Okay, let's go.");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

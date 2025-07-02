@@ -1,0 +1,105 @@
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,0,1);
+ChCheek(3,0);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,0,1);
+ChCheek(1,0);
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,0,1);
+ChCheek(4,0);
+ChEye(1,4);
+ChEyeOpenLevel(1,0);
+VoicePlay("D140B05000_01_000");
+MsgDisp("Kazama","This is delicious...");
+MsgDisp("主人公","eh, which one?");
+ChEye(4,1);
+ChMouth(4,3);
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0,1);
+VoicePlay("D140B05000_01_010");
+MsgDisp("Kazama","Yeah, it's just that this one...");
+ChMouthOpenLevel(4,0);
+VoicePlay("D140B05000_04_000");
+MsgDisp("Nanatsumori","…………");
+ChEye(1,0);
+ChMouth(1,2);
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,0,1);
+VoicePlay("D140B05000_03_000");
+MsgDisp("Honda","How lovey-dovey.");
+ChEye(1,0);
+ChMouth(1,1);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,8);
+ChCheek(1,7);
+VoicePlay("D140B05000_01_020");
+MsgDisp("Kazama","Haa?");
+ChMouth(4,3);
+ChMotion(4,1,1);
+VoicePlay("D140B05000_04_010");
+MsgDisp("Nanatsumori","Did you not hear him?
+Lovey dovey");
+ChEye(3,1);
+ChMouth(3,3);
+ChMotion(3,1,1);
+VoicePlay("D140B05000_03_010");
+MsgDisp("Honda","Madly in love!");
+ChEye(1,0);
+ChMouth(1,1);
+ChMotion(1,3);
+VoicePlay("D140B05000_01_030");
+MsgDisp("Kazama","Shut up, 
+quicklu eat.");
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,1,1);
+VoicePlay("D140B05000_03_020");
+MsgDisp("Honda","Yeah, quietly observe.");
+ChEye(4,0);
+ChMouth(4,3);
+ChMotion(4,2,1);
+VoicePlay("D140B05000_04_020");
+MsgDisp("Nanatsumori","Let's do that then.");
+ChEye(1,0);
+ChMouth(1,2);
+ChMotion(1,0);
+ChEyeOpenLevel(1,8);
+VoicePlay("D140B05000_01_040");
+MsgDisp("Kazama","They're watching us.
+Geez... don't let it
+bother you okay?");
+MsgDisp("主人公","Umm...
+o-okay.");
+ChEye(4,1);
+ChMouth(4,3);
+ChMotion(4,0,1);
+VoicePlay("D140B05000_04_030");
+MsgDisp("Nanatsumori","Go ahead.
+Don't worry about us.");
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,3,1);
+ChEyeOpenLevel(3,0);
+VoicePlay("D140B05000_03_030");
+MsgDisp("Honda","This is a fun 
+lunch time, isn't it♪");
+ChEye(1,0);
+ChMouth(1,2);
+ChMotion(1,3,1);
+ChCheek(1,0);
+VoicePlay("D140B05000_01_050");
+MsgDisp("Kazama","Yeah, it's fun.
+Right?");
+MsgDisp("主人公","(Even if you tell me to 
+not mind them... I can't...)");
+BGMStop();
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(1,0,0);
+ChClose(3,0,0);
+ChClose(4,0,0);

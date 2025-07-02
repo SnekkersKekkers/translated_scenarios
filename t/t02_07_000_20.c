@@ -1,0 +1,49 @@
+MsgDisp("主人公","I also love ｛御影＊＊｝.");
+ChEye(7,2);
+ChMouth(7,0);
+ChMotion(7,2);
+ChCheek(7,6);
+VoicePlay("T020700020_07_000");
+MsgDisp("Mikage","Really......
+thank you.
+......That's all that comes out.");
+MsgDisp("主人公","Thank you for always looking out for me.");
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,1);
+ChEyeOpenLevel(7,10);
+ChCheek(7,0);
+VoicePlay("T020700020_07_010");
+MsgDisp("Mikage","There it is,
+my precious serious girl.");
+MsgDisp("主人公","That......if you call me that——");
+ChEye(7,2);
+ChMouth(7,3);
+ChMotion(7,0);
+VoicePlay("T020700020_07_020");
+MsgDisp("Mikage","What, is it no good?");
+BGMStop(2.8);
+MsgClear();
+ScrFadeOut(0,1);
+ChClose(7,0,0);
+Wait(120,0);
+StlOpen("ev_07_16");
+ScrFadeIn(0);
+VoicePlay("T020700020_07_030");
+MsgDisp("Mikage","Well then, my prized beauty.
+Let me see your face properly.");
+MsgDisp("主人公","Yes......");
+VoiceEVSPlay(7);
+VoicePlay("T020700020_07_040");
+MsgDisp("Mikage","｛主人公｝, I love you.");
+MsgClear();
+StlEffect(1,1,60);
+Wait(60,0);
+SEPlay("EV_SE_695");
+Wait(120,0);
+MsgClose();
+ScrFadeOut(0,1,120);
+StlClose();
+Wait(160,0);
+SEStop("EV_SE_695",3.5);
+Wait(220,0);

@@ -1,0 +1,32 @@
+BGOpen("sc230",0);
+MsgClose();
+BGMPlay("BGM_C03_HONDA_A");
+ChOpen(3,254,5,0,0,-1,-1,0,0);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("L060300000_03_000");
+MsgDisp("Honda","Ah, I found you.");
+MsgDisp("主人公","｛本多＊＊｝, what's up?");
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,0);
+VoicePlay("L060300000_03_010");
+MsgDisp("Honda","The return gift for Valentines.
+Here!");
+SEPlay("EV_SE_664");
+SEWait();
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,1);
+VoicePlay("L060300000_03_020");
+MsgDisp("Honda","See you!");
+MsgClose();
+SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
+BGMStop();
+MsgClose();
+ChClose(3,0,30);
+Wait(60);
+MsgDisp("主人公","(Hm......
+This is obligatory.)");
+MsgClose();
+ScrFadeOut(0);

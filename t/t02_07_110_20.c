@@ -1,0 +1,50 @@
+MsgDisp("主人公","I also......
+like you.");
+ChEye(7,2);
+ChMouth(7,0);
+ChMotion(7,2);
+ChCheek(7,6);
+VoicePlay("T020711020_07_000");
+MsgDisp("Mikage","I see......
+thank you.");
+ChEye(7,0);
+ChMouth(7,4);
+ChMotion(7,2);
+ChCheek(7,0);
+VoicePlay("T020711020_07_010");
+MsgDisp("Mikage","Is that okay??");
+MsgDisp("主人公","Eh......
+What's wrong?");
+ChEye(7,1);
+ChMouth(7,0);
+ChMotion(7,0);
+ChEyeOpenLevel(7,0);
+VoicePlay("T020711020_07_020");
+MsgDisp("Mikage","No, it's okay. Now I can really
+graduate.......");
+ChEye(7,4);
+ChMouth(7,4);
+ChMotion(7,1);
+ChEyeOpenLevel(7,10);
+VoicePlay("T020711020_07_030");
+MsgDisp("Mikage","There's no returning now.");
+MsgDisp("主人公","Yes.");
+BGMStop(2.8);
+MsgClear();
+ScrFadeOut(0,1);
+ChClose(7,0,0);
+Wait(120,0);
+StlOpen("ev_07_17");
+ScrFadeIn(0);
+VoicePlay("T020711020_07_040");
+MsgDisp("Mikage","You filled all of the void within me.");
+VoicePlay("T020711020_07_050");
+MsgDisp("Mikage","Now it's my turn.
+Be prepared.");
+MsgClear();
+StlEffect(1,1,60);
+Wait(300,0);
+MsgClose();
+ScrFadeOut(0,1,120);
+StlClose();
+Wait(300,0);

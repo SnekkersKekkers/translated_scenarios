@@ -1,0 +1,15 @@
+BGOpen("wf200",0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+MsgDisp("主人公","Want to walk along the brick road?");
+MsgDispSksp(1,0);
+VoicePlay("B030602000_06_000");
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0);
+MsgDisp("Himuro","What other options are there?");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

@@ -1,0 +1,27 @@
+BGOpen("ne600",0);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,0,1);
+ScrFadeIn(0);
+VoicePlay("B030118000_01_000");
+MsgDisp("Kazama","Do you want some popcorn?
+I'll buy.");
+MsgDisp("主人公","Yeah, thank you.");
+MsgClose();
+ScrFadeOut(0,0);
+Wait(40,0);
+BGOpen("ne610",0);
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,8);
+ScrFadeIn(0);
+VoicePlay("B030118000_01_010");
+MsgDisp("Kazama","You don't need to go to the bathroom?");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Jeez, I'm not a kid anymore.");
+MsgDispSksp(0);
+MsgClose();
+MsgClose();
+ScrFadeOut(0);
+ChClose(1,0,0);

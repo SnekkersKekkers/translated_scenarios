@@ -1,0 +1,129 @@
+BGOpen("fp200",0);
+ChLayout(2);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,2,1);
+ChEye(5,0);
+ChMouth(5,4);
+ChMotion(5,0,1);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0,1);
+ScrFadeIn(0);
+VoicePlay("B330C30400_07_000");
+MsgDisp("Mikage","Let's go to the gazebo too.");
+MsgDisp("主人公","Ah, there's people in there.");
+ChMouth(5,2);
+ChMotion(5,4);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,4);
+VoicePlay("B330C30400_06_000");
+MsgDisp("Himuro","They're totally in their
+own world, aren't they.");
+ChMouth(5,4);
+ChEye(7,0);
+ChMouth(7,3);
+ChMotion(7,2);
+VoicePlay("B330C30400_07_010");
+MsgDisp("Mikage","...What's that, Inori.
+Are you interested in that
+\"two-person\" world? ");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,1);
+ChEyeOpenLevel(6,8);
+VoicePlay("B330C30400_06_010");
+MsgDisp("Himuro","What are you talking about.");
+ChEye(5,4);
+ChMouth(5,4);
+ChMotion(5,4);
+ChEyeOpenLevel(5,0);
+VoicePlay("B330C30400_05_000");
+MsgDisp("Hiiragi","That's how it is in those
+situations. You only see your partner,
+and can't hear the noises of the
+world around you.");
+MsgDisp("主人公","(That's why that place is special...)");
+ChEyeOpenLevel(5,-1);
+ChEye(7,0);
+ChMouth(7,3);
+ChMotion(7,1);
+VoiceEVSPlay(7);
+VoicePlay("B330C30400_07_020");
+MsgDisp("Mikage","｛主人公｝, 
+you look like you're interested too.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B330C30400_06_020");
+MsgDisp("Himuro","Hmm, so that's how it is.");
+ChEye(5,0);
+ChMouth(5,4);
+ChMotion(5,0);
+VoicePlay("B330C30400_05_010");
+MsgDisp("Hiiragi","Sounds good.
+Then, let's go.");
+ChEye(7,0);
+ChMouth(7,3);
+ChMotion(7,1);
+VoicePlay("B330C30400_07_030");
+MsgDisp("Mikage","Since we're going anyways, 
+Shall we get a boy-girl pair?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B330C30400_06_030");
+MsgDisp("Himuro","Ahem... sure.");
+ChEye(5,4);
+ChMouth(5,4);
+ChMotion(5,0,1);
+VoicePlay("B330C30400_05_020");
+MsgDisp("Hiiragi","Yes... let's do that.");
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,2);
+VoiceEVSPlay(7);
+VoicePlay("B330C30400_07_040");
+MsgDisp("Mikage","｛主人公｝,
+you have three choices of fate.");
+ChEye(5,3);
+ChMouth(5,2);
+ChMotion(5,4);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,4);
+ChEyeOpenLevel(6,8);
+VoicePlay("B330C30400_06_040");
+MsgDisp("Himuro","Three?
+That means, Kojiro-sensei...");
+VoicePlay("B330C30400_05_030");
+MsgDisp("Hiiragi","Is also included?");
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,1);
+VoicePlay("B330C30400_07_050");
+MsgDisp("Mikage","It's only natural.");
+MsgDisp("主人公","(Ehhh∋
+Even if you say that so suddenly...!)");
+BGMStop();
+MsgClose();
+ScrFadeOut(0,0);
+ChEye(5,0);
+ChMouth(5,0);
+ChMotion(5,7);
+ChEyeOpenLevel(5,-1);
+ChMouthOpenLevel(5,-1);
+ChCheek(5,0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,7);
+ChEyeOpenLevel(6,-1);
+ChMouthOpenLevel(6,-1);
+ChCheek(6,0);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,7);
+ChEyeOpenLevel(7,-1);
+ChMouthOpenLevel(7,-1);
+ChCheek(7,0);

@@ -1,0 +1,78 @@
+BGOpen("sc510",0);
+ChLayout(2);
+MsgClose();
+BGMPlay("BGM_HANYOU_A",0.01);
+ChOpen(6,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(7,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(5,254,0,4,4,-1,-1,0,0);
+ScrFadeIn(0);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,1);
+VoicePlay("D130C00000_07_000");
+MsgDisp("Mikage","Oh, she's coming-.");
+MsgDisp("主人公","What's up?");
+ChEye(7,0);
+ChMouth(7,4);
+ChMotion(7,1);
+VoicePlay("D130C00000_07_010");
+MsgDisp("Mikage","Hm?
+That opener is a little unsettling...");
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0);
+VoicePlay("D130C00000_06_000");
+MsgDisp("Himuro","Well, it feels 
+like usual to me.");
+MsgDisp("主人公","Umm, what are you talking about?");
+ChEye(5,4);
+ChMouth(5,4);
+ChMotion(5,2);
+ChCheek(5,3);
+VoiceEVSPlay(5);
+VoicePlay("D130C00000_05_000");
+MsgDisp("Hiiragi","｛主人公｝, good afternoon...");
+MsgDisp("主人公","Yeah, good afternoon.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,4);
+ChEyeOpenLevel(6,8);
+VoicePlay("D130C00000_06_010");
+MsgDisp("Himuro","Eh... have you really forgotten,  
+and you don't have anything?");
+MsgDisp("主人公","Ah, you're talking
+about Valentine's day?");
+ChMotion(5,0);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,0);
+VoicePlay("D130C00000_07_020");
+MsgDisp("Mikage","Yanosuke, that's great right?
+We'll leave you two to it.");
+MsgClose();
+SEPlay("EV_SE_856");
+ChClose(7,0,30);
+ChClose(6,0,30);
+ChClose(5,0,30);
+ChLayout(1);
+MsgClose();
+ChOpen(5,254,4,2,4,0,-1,0,0,0,30);
+VoicePlay("D130C00000_05_010");
+MsgDisp("Hiiragi","Those two have been like 
+that since this morning.");
+MsgDisp("主人公","Hehe, that's 
+how they're like.");
+ChEye(5,0);
+ChMouth(5,4);
+ChMotion(5,0);
+VoicePlay("D130C00000_05_020");
+MsgDisp("Hiiragi","Then I shall also
+return to my classroom.");
+MsgClose();
+SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
+BGMStop();
+ChClose(5);
+MsgDisp("主人公","(...It's Valentine's day, is that what
+everyone is so worried about?)");
+MsgClose();
+ScrFadeOut(0,0);

@@ -1,0 +1,133 @@
+ChClose(1,0,0);
+ChClose(3,0,0);
+ChClose(4,0,0);
+BGOpen("tr200",0);
+ScrFadeIn(0);
+Wait(40,1);
+ScrFadeOut(1,0,40);
+BGOpen("tr210",0);
+BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
+ChLayout(2);
+ChOpen(3,253,0,0,0,-1,-1,0,3);
+ChOpen(1,253,0,0,0,-1,-1,0,3);
+ChNanaType(0);
+ChOpen(4,253,2,0,3,-1,-1,0,3);
+ScrFadeIn(0);
+MsgDisp("主人公","The bunnies are so cute aren't they?");
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,1,1);
+ChEyeOpenLevel(3,0);
+VoicePlay("B330B20700_03_000");
+MsgDisp("Honda","Yep yep!
+The petting corner is awesome!");
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,8);
+VoicePlay("B330B20700_01_000");
+MsgDisp("Kazama","Nanatsumori is surrounded by baby goats.
+They're not eating the tickets right?");
+ChEye(4,3);
+ChMouth(4,3);
+ChMotion(4,0,1);
+VoicePlay("B330B20700_04_000");
+MsgDisp("Nanatsumori","They're no——");
+ChEye(4,0);
+ChMouth(4,2);
+VoicePlay("B330B20700_04_010");
+MsgDisp("Nanatsumori","...Not here.");
+ChEye(1,0);
+ChMouth(1,2);
+MsgDisp("主人公","Eh?
+Maybe you've dropped it somewhere?");
+ChEye(4,2);
+ChMotion(4,2,1);
+ChEye(1,2);
+ChMouth(1,2);
+ChMotion(1,0,1);
+VoicePlay("B330B20700_01_010");
+MsgDisp("Kazama","Seriously, 
+I'll go back and look for it? ");
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,0,1);
+VoicePlay("B330B20700_03_010");
+MsgDisp("Honda","Nope.
+Mii-kun's ticket is already gone.");
+ChEye(1,0);
+ChEye(4,2);
+ChMouth(4,2);
+ChMotion(4,0,1);
+VoicePlay("B330B20700_04_020");
+MsgDisp("Nanatsumori","Why?");
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,5,1);
+VoicePlay("B330B20700_03_020");
+MsgDisp("Honda","Because it's been eaten 
+by the black goat!");
+ChEye(4,0);
+ChMouth(4,1);
+ChMotion(4,1,1);
+VoicePlay("B330B20700_04_030");
+MsgDisp("Nanatsumori","You should've said!");
+ChEye(1,3);
+ChMouth(1,3);
+ChMotion(1,3);
+VoicePlay("B330B20700_01_020");
+MsgDisp("Kazama","It's seriously been eaten huh.");
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,0,1);
+VoicePlay("B330B20700_03_030");
+MsgDisp("Honda","But it's fine.
+Because this zoo uses plant-derived
+inks on their tickets.");
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0);
+VoicePlay("B330B20700_01_030");
+MsgDisp("Kazama","That's good. 
+The goat will be alright.");
+ChEye(4,2);
+ChMouth(4,0);
+ChMotion(4,0,1);
+VoicePlay("B330B20700_04_040");
+MsgDisp("Nanatsumori","No no, 
+Dahon instead of watching, 
+you should have told me.");
+ChEye(1,2);
+ChEyeOpenLevel(1,0);
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,1,1);
+ChEyeOpenLevel(3,0);
+VoicePlay("B330B20700_03_040");
+MsgDisp("Honda","But the way he stuck his nose
+into Mii-kun's pocket whilst 
+eating was so cute!");
+ChMotion(4,2,1);
+MsgDisp("主人公","(Hehe!
+I wish I saw it too)");
+BGMStop();
+MsgClose();
+ScrFadeOut(0,0);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,7);
+ChEyeOpenLevel(1,-1);
+ChMouthOpenLevel(1,-1);
+ChCheek(1,0);
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,7);
+ChEyeOpenLevel(3,-1);
+ChMouthOpenLevel(3,-1);
+ChCheek(3,0);
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,7);
+ChEyeOpenLevel(4,-1);
+ChMouthOpenLevel(4,-1);
+ChCheek(4,0);

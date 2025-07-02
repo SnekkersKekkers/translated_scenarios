@@ -1,0 +1,25 @@
+BGOpen("ho000",2);
+ChLayout(1);
+MsgClose();
+ChOpen(5,255,0,0,4,9,-1,0,0);
+ScrFadeIn(0);
+VoicePlay("B150510000_05_000");
+MsgDisp("Hiiragi","I told you.
+We're switching roles.");
+MsgDisp("主人公","Ah... that was an accident.");
+ChEye(5,0);
+ChMouth(5,4);
+ChMotion(5,4);
+ChEyeOpenLevel(5,0);
+VoicePlay("B150510000_05_010");
+MsgDisp("Hiiragi","Hey, that won't work anymore.");
+ChEye(5,0);
+ChMouth(5,3);
+ChMotion(5,0);
+ChEyeOpenLevel(5,9);
+VoicePlay("B150510000_05_020");
+MsgDisp("Hiiragi","Come on, come here.");
+MsgDisp("主人公","(Ehh,｛柊＊＊＊｝...?)");
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(5,0,0);

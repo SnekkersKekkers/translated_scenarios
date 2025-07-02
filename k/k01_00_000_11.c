@@ -1,0 +1,3 @@
+MsgDisp("主人公","Ah, I'm out of money, so I can't buy
+anything......
+What bad timing!");

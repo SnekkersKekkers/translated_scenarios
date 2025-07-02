@@ -1,0 +1,59 @@
+ChMotion(5,5,1);
+ChEyeOpenLevel(5,0);
+Wait(10,0);
+ChEye(5,2);
+ChMouth(5,2);
+VoicePlay("T020501022_05_000");
+MsgDisp("Hiiragi","......!
+What does this mean?");
+ChEyeOpenLevel(5,0);
+Wait(8,0);
+ChEye(5,3);
+MsgDisp("主人公","I also like ｛柊＊＊＊｝.");
+ChEye(5,2);
+ChMotion(5,4);
+ChEyeOpenLevel(5,0);
+Wait(16,0);
+ChMouth(5,4);
+ChEyeOpenLevel(5,0);
+ChCheek(5,5);
+VoicePlay("T020501022_05_010");
+MsgDisp("Hiiragi","That's a typical response from you, isn't
+it?");
+MsgDisp("主人公","Is it?");
+ChEyeOpenLevel(5,9);
+VoicePlay("T020501022_05_020");
+MsgDisp("Hiiragi","There's no point in playing dumb. 
+I've been bested by you so many times. ");
+MsgDisp("主人公","Umm......");
+ChEye(5,0);
+ChMotion(5,0);
+ChEyeOpenLevel(5,0);
+Wait(12,0);
+ChMouth(5,3);
+ChEyeOpenLevel(5,10);
+ChCheek(5,0);
+VoicePlay("T020501022_05_030");
+MsgDisp("Hiiragi","Come on. 
+It's my turn now.");
+BGMStop(2.8);
+MsgClear();
+ScrFadeOut(0,1);
+ChClose(5,0,0);
+Wait(120,0);
+StlOpen("ev_05_17");
+ScrFadeIn(0);
+VoicePlay("T020501022_05_040");
+MsgDisp("Hiiragi","From now on, 
+I will definitely get payback.");
+MsgClear();
+StlEffect(1,1,60);
+Wait(60,0);
+SEPlay("EV_SE_695");
+Wait(120,0);
+MsgClose();
+ScrFadeOut(0,1,120);
+StlClose();
+Wait(160,0);
+SEStop("EV_SE_695",3.5);
+Wait(220,0);

@@ -1,0 +1,42 @@
+MsgDisp("主人公","Hey,｛氷室＊＊｝, 
+what were you like in middle school?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B070600000_06_300");
+MsgDisp("Himuro","I haven't changed much now.");
+MsgDisp("主人公","I see.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B070600000_06_310");
+MsgDisp("Himuro","Just to preface, that doesn't 
+mean I haven't grown up.");
+MsgDisp("主人公","Hehe, yeah.");
+ChEye(6,1);
+ChMouth(6,0);
+ChMotion(6,1);
+VoicePlay("B070600000_06_320");
+MsgDisp("Himuro","What, you're laughing at that?");
+MsgDisp("主人公","I was just imagining  what kind of 
+middle schooler you were like...");
+ChEye(6,1);
+ChMouth(6,0);
+ChMotion(6,2);
+ChEyeOpenLevel(6,0);
+VoicePlay("B070600000_06_330");
+MsgDisp("Himuro","Anyway, I wasn't cute.");
+MsgDisp("主人公","That's just ｛氷室＊＊｝ though?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,4);
+ChEyeOpenLevel(6,7);
+VoicePlay("B070600000_06_340");
+MsgDisp("Himuro","...What does that mean?");
+MsgDisp("主人公","(Do I want him to change or not?)");
+BGMStop();
+MsgClose();
+ScrFadeOut(0);
+ChEyeOpenLevel(6,-1);
+ChMouthOpenLevel(6,-1);
+ChCheek(6,0);

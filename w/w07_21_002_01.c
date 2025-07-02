@@ -1,0 +1,10 @@
+ChEye(21,0);
+ChMouth(21,0);
+ChMotion(21,3);
+VoicePlay("W072100002_21_010");
+MsgDisp("Michiru","Got it, let's go then.");
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(21,0,0);
+MsgClose();
+ChOpen(21,255,7,0,0,-1,-1,0,2,0,0);

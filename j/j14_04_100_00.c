@@ -1,0 +1,9 @@
+ChEye(1,0);
+ChMouth(1,3);
+ChEye(3,0);
+ChMouth(3,3);
+ChEye(4,0);
+ChMouth(4,3);
+ChMotion(4,1);
+VoicePlay("J140410000_04_000");
+MsgDisp("Nanatsumori","Fu......");

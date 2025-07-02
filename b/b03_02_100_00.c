@@ -1,0 +1,13 @@
+BGOpen("fp400",0);
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,2,1);
+ChEyeOpenLevel(2,7);
+ChLayout(1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+ChEyeOpenLevel(2,7);
+VoicePlay("B030210000_02_000");
+MsgDisp("Sassa","It's like extra credit...");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

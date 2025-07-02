@@ -1,0 +1,17 @@
+BGOpen("ne300",0);
+BGMPlay("BGM_PLACE_SKI_SKAT",0.01);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,0,1);
+MsgDispSksp(1,0);
+ScrFadeIn(0);
+VoicePlay("B030715000_07_000");
+MsgDisp("Mikage","Alright, I'm not gonna lose.");
+MsgDisp("主人公","I won't either.");
+ChEye(7,0);
+ChMouth(7,3);
+ChMotion(7,3);
+VoicePlay("B030715000_07_010");
+MsgDisp("Mikage","Hehe, shall we go?");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

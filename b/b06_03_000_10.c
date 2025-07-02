@@ -1,0 +1,10 @@
+BGDateAfterOpen();
+ChLayout(1);
+MsgDispSksp(1,-1);
+ChEye(3,2);
+ChMouth(3,4);
+ChMotion(3,2,1);
+ScrFadeIn(0);
+VoicePlay("B060300010_03_000");
+MsgDisp("Honda","I really thought you would enjoy it.");
+MsgDispSksp(0);

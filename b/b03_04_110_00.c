@@ -1,0 +1,16 @@
+BGOpen("fp500",0);
+ChNanaType(-1);
+ChEye(4,1);
+ChMouth(4,5);
+ChMotion(4,1,1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("B030411000_04_000");
+MsgDisp("Nanatsumori","Haa...");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
+MsgClose();
+ScrFadeOut(0);
+ChClose(4,0,0);
+MsgClose();
+ChOpen(4,31,0,0,0,-1,-1,0,0,0,0);

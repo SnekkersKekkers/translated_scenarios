@@ -1,0 +1,60 @@
+ChEyeOpenLevel(6,-1);
+ChCheek(6,0);
+VoicePlay("T020600000_06_260");
+ChEye(6,3);
+ChMouth(6,1);
+ChMotion(6,5);
+ChCheek(6,7);
+MsgDisp("Himuro","∋");
+MsgDisp("主人公","Well, that's my answer!");
+VoicePlay("T020600000_06_270");
+ChEye(6,1);
+ChMouth(6,1);
+ChMotion(6,4);
+ChCheek(6,10);
+MsgDisp("Himuro","Hu... huh?");
+MsgDisp("主人公","I like you too.");
+VoicePlay("T020600000_06_280");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+MsgDisp("Himuro","!");
+VoicePlay("T020600000_06_290");
+ChEye(6,4);
+ChMouth(6,1);
+ChMotion(6,1);
+ChEyeOpenLevel(6,0);
+MsgDisp("Himuro","...Well, right. I guess if you did that
+and it turns out that you don't like me, 
+it'd be kind of embarassing.");
+MsgDisp("主人公","Hehe, that's right.");
+VoicePlay("T020600000_06_300");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,3);
+ChEyeOpenLevel(6,9);
+MsgDisp("Himuro","What's with that grin?
+Just letting you know, I won't hold back
+anymore.");
+BGMStop(2.8);
+MsgClear();
+ScrFadeOut(0,1);
+ChClose(6,0,0);
+Wait(120,0);
+StlOpen("ev_06_16");
+ScrFadeIn(0);
+VoiceEVSPlay(6);
+VoicePlay("T020600000_06_310");
+MsgDisp("Himuro","｛主人公｝...
+I'm never letting you go, ever.");
+MsgClear();
+StlEffect(1,1,60);
+Wait(60,0);
+SEPlay("EV_SE_695");
+Wait(120,0);
+MsgClose();
+ScrFadeOut(0,1,120);
+StlClose();
+Wait(160,0);
+SEStop("EV_SE_695",3.5);
+Wait(220,0);

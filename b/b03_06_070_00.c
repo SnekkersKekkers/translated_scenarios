@@ -1,0 +1,12 @@
+BGOpen("fp100",0);
+BGMPlay("BGM_PLACE_SHOP",0.01);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("B030607000_06_000");
+MsgDisp("Himuro","What do you want to look at today?");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Uhm......");
+MsgDispSksp(0);

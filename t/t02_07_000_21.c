@@ -1,0 +1,58 @@
+ChEye(7,5);
+ChMouth(7,1);
+ChMotion(7,5);
+VoicePlay("T020700021_07_000");
+MsgDisp("Mikage","Y-y......you∋");
+MsgDisp("主人公","Ah,sorry.
+but......");
+ChEye(7,4);
+ChMouth(7,4);
+ChMotion(7,0,1);
+VoicePlay("T020700021_07_010");
+MsgDisp("Mikage","So does that mean you're accepting my
+feelings?");
+MsgDisp("主人公","Yes.
+I don't think I can express it in words.");
+ChEye(7,2);
+ChMouth(7,3);
+ChMotion(7,2);
+ChCheek(7,6);
+VoicePlay("T020700021_07_020");
+MsgDisp("Mikage","Yeah, that was pretty clear.");
+ChEye(7,0);
+VoicePlay("T020700021_07_030");
+MsgDisp("Mikage","Thank you,
+my precious serious girl.");
+MsgDisp("主人公","Hey!
+If you call me that——");
+ChEye(7,2);
+ChMouth(7,3);
+ChMotion(7,3);
+ChCheek(7,0);
+VoicePlay("T020700021_07_040");
+MsgDisp("Mikage","What, is it no good?");
+BGMStop(2.8);
+MsgClear();
+ScrFadeOut(0,1);
+ChClose(7,0,0);
+Wait(120,0);
+StlOpen("ev_07_16");
+ScrFadeIn(0);
+VoicePlay("T020700021_07_050");
+MsgDisp("Mikage","Well then, my prized beauty.
+Let me see your face properly.");
+MsgDisp("主人公","Yes......");
+VoiceEVSPlay(7);
+VoicePlay("T020700021_07_060");
+MsgDisp("Mikage","｛主人公｝, I love you.");
+MsgClear();
+StlEffect(1,1,60);
+Wait(60,0);
+SEPlay("EV_SE_695");
+Wait(120,0);
+MsgClose();
+ScrFadeOut(0,1,120);
+StlClose();
+Wait(160,0);
+SEStop("EV_SE_695",3.5);
+Wait(220,0);

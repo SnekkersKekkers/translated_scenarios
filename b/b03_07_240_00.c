@@ -1,0 +1,13 @@
+BGOpen("tr500",0);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,0);
+ScrFadeIn(0);
+ChEye(7,0);
+ChMouth(7,0);
+ChMotion(7,0);
+VoicePlay("B030724000_07_000");
+MsgDisp("Mikage","This is nice and relaxing.");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Yeah, it really is.");
+MsgDispSksp(0);

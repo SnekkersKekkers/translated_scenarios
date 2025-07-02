@@ -1,0 +1,30 @@
+BGMStop();
+MsgClose();
+ScrFadeOut(0);
+BGOpen("sc740",0);
+ScrFadeIn(0);
+MsgDisp("主人公","(Haa... what a huge failure...)");
+MsgClose();
+SEPlay("EV_SE_544",0,0.6);
+ChOpen(6,254,0,0,0,-1,-1,0,0);
+VoiceEVSPlay(6);
+VoicePlay("P540600001_06_000");
+MsgDisp("Himuro","｛主人公｝.");
+MsgDisp("主人公","Ah,｛氷室＊＊｝...");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("P540600001_06_010");
+MsgDisp("Himuro","Seems like even in such a state, 
+you can evaluate yourself properly.");
+MsgDisp("主人公","Y...yeah.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,3);
+VoicePlay("P540600001_06_020");
+MsgDisp("Himuro","It's simply a lack of practice.
+Well, this is a good experience.");
+MsgDisp("主人公","(I should have practiced more...)");
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(6,0,0);

@@ -1,0 +1,126 @@
+ChEye(1,0);
+ChMouth(1,2);
+ChMotion(1,0,1);
+ChCheek(1,0);
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,0,1);
+ChCheek(3,0);
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,0,1);
+ChCheek(4,0);
+VoicePlay("D140B05101_04_000");
+MsgDisp("Nanatsumori","Dahon.
+I'll get straight to the point.");
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,1,1);
+VoicePlay("D140B05101_03_000");
+MsgDisp("Honda","What, what?");
+ChEye(1,2);
+ChMouth(1,2);
+ChMotion(1,0);
+VoicePlay("D140B05101_01_000");
+MsgDisp("Kazama","Oi...");
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,1,1);
+VoicePlay("D140B05101_04_010");
+MsgDisp("Nanatsumori","Kazama.
+You actually want to know
+don't you?");
+ChEyeOpenLevel(1,0);
+MsgDisp("主人公","？");
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,1,1);
+VoicePlay("D140B05101_03_010");
+MsgDisp("Honda","Go ahead.
+Ask me anything.");
+ChEye(4,5);
+ChMouth(4,0);
+ChMotion(4,2,1);
+VoicePlay("D140B05101_04_020");
+MsgDisp("Nanatsumori","That's... you know.
+Are you two getting to
+a good place?");
+ChEye(1,2);
+ChMouth(1,2);
+ChMotion(1,0);
+VoicePlay("D140B05101_01_010");
+MsgDisp("Kazama","Actually, Nanatsumori, 
+I don't want to hear 
+it after all.");
+ChEye(3,0);
+ChMouth(3,4);
+ChMotion(3,0,1);
+VoicePlay("D140B05101_03_020");
+MsgDisp("Honda","You two...?");
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,4,1);
+VoicePlay("D140B05101_03_030");
+MsgDisp("Honda","Ahh, us two?");
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,0,1);
+ChEye(1,0);
+ChMouth(1,2);
+ChMotion(1,3);
+ChEyeOpenLevel(1,8);
+VoicePlay("D140B05101_01_020");
+MsgDisp("Kazama","∈");
+ChEye(4,2);
+ChMouth(4,3);
+VoicePlay("D140B05101_04_030");
+MsgDisp("Nanatsumori","Ah, yeah.");
+ChMotion(1,0);
+ChEye(3,0);
+ChMouth(3,4);
+ChMotion(3,2,1);
+VoicePlay("D140B05101_03_040");
+MsgDisp("Honda","Our relationship...
+that's right...");
+MsgDisp("主人公","Hey,｛本多＊＊｝...");
+ChEye(1,2);
+ChMouth(1,2);
+ChMotion(1,3);
+ChEyeOpenLevel(1,11);
+ChEye(4,5);
+ChMouth(4,2);
+ChMotion(4,0,1);
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,1,1);
+ChEyeOpenLevel(3,0);
+VoicePlay("D140B05101_03_050");
+MsgDisp("Honda","We're... getting along really well!
+So close that you  guys are 
+getting jealous!");
+ChEye(1,2);
+ChMouth(1,2);
+ChMotion(1,1);
+ChEyeOpenLevel(1,0);
+VoicePlay("D140B05101_01_030");
+MsgDisp("Kazama","I want to splash water on him.");
+ChEye(4,2);
+ChMouth(4,0);
+ChMotion(4,2,1);
+VoicePlay("D140B05101_04_040");
+MsgDisp("Nanatsumori","Kazama, endure it.
+Dahon is this sort of person...");
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,3,1);
+VoicePlay("D140B05101_03_060");
+MsgDisp("Honda","Haha!
+So are you both jelly?");
+MsgDisp("主人公","(｛風真＊＊｝ and ｛七ツ森＊｝
+are worried about us...?)");
+BGMStop();
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(1,0,0);
+ChClose(3,0,0);
+ChClose(4,0,0);

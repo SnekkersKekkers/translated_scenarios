@@ -1,0 +1,10 @@
+ChCheek(6,0);
+ChEye(6,1);
+ChMouth(6,0);
+ChMotion(6,0);
+ChEyeOpenLevel(6,0);
+ChCheek(6,10);
+VoicePlay("SS0106338_06_000");
+MsgDisp("Himuro","Why don't you do what you want?");
+MsgClose();
+ChCheek(6,0);

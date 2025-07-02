@@ -1,0 +1,64 @@
+ChEyeOpenLevel(6,-1);
+ChCheek(6,0);
+ChEye(6,3);
+ChMouth(6,1);
+ChMotion(6,5);
+VoicePlay("T020620000_06_170");
+MsgDisp("Himuro","……∋");
+MsgDisp("主人公","That......is my answer");
+VoicePlay("T020620000_06_180");
+ChEye(6,1);
+ChMouth(6,1);
+ChMotion(6,4);
+ChCheek(6,10);
+MsgDisp("Himuro","Haa?
+What is that......");
+VoicePlay("T020620000_06_190");
+ChEye(6,0);
+ChMouth(6,2);
+ChEyeOpenLevel(6,8);
+MsgDisp("Himuro","Normally, I wouldn't do that......");
+MsgDisp("主人公","......Did you dislike it?");
+VoicePlay("T020620000_06_200");
+ChEye(6,1);
+ChMouth(6,1);
+ChMotion(6,5);
+ChEyeOpenLevel(6,0);
+MsgDisp("Himuro","I didn't dislike it!");
+VoicePlay("T020620000_06_210");
+ChEye(6,2);
+ChMouth(6,0);
+ChMotion(6,2);
+ChCheek(6,0);
+MsgDisp("Himuro","Seriously, being with you makes me feel
+all out of sorts... If those guys knew, I
+wonder how much teasing I'd get......");
+MsgDisp("主人公","Hehe.");
+VoicePlay("T020620000_06_220");
+ChEye(6,0);
+ChMouth(6,1);
+ChMotion(6,1);
+ChEyeOpenLevel(6,8);
+MsgDisp("Himuro","What are you laughing at?
+Come here.");
+BGMStop(2.8);
+MsgClear();
+ScrFadeOut(0,1);
+ChClose(6,0,0);
+Wait(120,0);
+StlOpen("ev_06_16");
+ScrFadeIn(0);
+VoicePlay("T020620000_06_230");
+VoiceEVSPlay(6);
+MsgDisp("Himuro","I like you.
+I love you,｛主人公｝.");
+StlEffect(1,1,60);
+Wait(60,0);
+SEPlay("EV_SE_695");
+Wait(120,0);
+MsgClose();
+ScrFadeOut(0,1,120);
+StlClose();
+Wait(160,0);
+SEStop("EV_SE_695",3.5);
+Wait(220,0);

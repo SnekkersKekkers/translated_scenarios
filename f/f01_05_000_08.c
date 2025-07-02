@@ -1,0 +1,14 @@
+ChLayout(1);
+ScrFadeIn(0);
+MsgDisp("主人公","Oh, ｛柊＊＊＊｝.");
+MsgClose();
+SEPlay("EV_SE_544",0,0.6);
+ChOpen(5,254,4,1,0,0,0,0,0);
+VoicePlay("F010500008_05_000");
+MsgDisp("Hiiragi","......");
+MsgClose();
+SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
+ChClose(5);
+SEWait();
+MsgDisp("主人公","(｛柊＊＊＊｝
+looked angry...)");

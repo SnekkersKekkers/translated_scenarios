@@ -1,0 +1,217 @@
+ChClose(1,0,0);
+ChClose(2,0,0);
+ChClose(6,0,0);
+BGOpen("tr400",0);
+ScrFadeIn(0);
+Wait(40,1);
+ScrFadeOut(1,0,40);
+BGOpen("tr460",0);
+BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
+ChLayout(2);
+ChOpen(1,255,0,0,3,-1,-1,0,3);
+ChOpen(2,255,0,0,4,-1,-1,0,3);
+ChOpen(6,255,0,0,0,-1,-1,0,3);
+ScrFadeIn(0);
+VoicePlay("B330A10801_06_000");
+MsgDisp("Himuro","Ryota-senpai, you really 
+like haunted houses don't you...");
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,0);
+VoicePlay("B330A10801_01_000");
+MsgDisp("Kazama","Really? It's not that unusual.");
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,4);
+VoicePlay("B330A10801_02_000");
+MsgDisp("Sassa","Unexpectedly, it looks fun.");
+MsgDisp("主人公","Y-yeah.");
+ChEye(1,4);
+ChMouth(1,3);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,0);
+VoicePlay("B330A10801_01_010");
+MsgDisp("Kazama","Well in summer, there's normally
+a lot of people who have
+good reactions.");
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,3);
+VoicePlay("B330A10801_06_010");
+MsgDisp("Himuro","I get that.");
+ChEye(2,2);
+ChMouth(2,0);
+ChMotion(2,0);
+ChEyeOpenLevel(2,0);
+VoicePlay("B330A10801_02_010");
+MsgDisp("Sassa","Yes yes.
+Let's get going already.");
+ChEye(1,0);
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0);
+VoicePlay("B330A10801_06_020");
+MsgDisp("Himuro","By all means, you first.");
+ChMotion(1,1);
+ChEye(2,2);
+ChMouth(2,0);
+ChMotion(2,5);
+VoicePlay("B330A10801_02_020");
+MsgDisp("Sassa","Why do I have to be 
+in the lead?");
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0,1);
+VoicePlay("B330A10801_01_020");
+MsgDisp("Kazama","It can't be helped, I'll go first.
+You come too.");
+MsgClose();
+SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
+ChClose(1);
+MsgDisp("主人公","Eh, me?
+...Y-yeah.");
+SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0.3,0.6);
+BGMStop();
+MsgClose();
+ScrFadeOut(0);
+EnvPlay("SE_ENV_BG_TR460_CO0",0.1,0.5);
+MsgClose();
+ChClose(2,0,0);
+ChClose(6,0,0);
+SEWait();
+VoicePlay("B330A10801_06_030");
+MsgDisp("Himuro","Then, I'll go first.");
+VoicePlay("B330A10801_02_030");
+MsgDisp("Sassa","Wait up!
+It's scary to be at the end too∋");
+SEPlay("EV_SE_AMUSE_008",0,0.9);
+SEPlay("EV_SE_708",0,0.3);
+Wait(100,0);
+SEStop("EV_SE_708",1);
+MsgDisp("","　　　　　　　　　　 ・
+　　　　　　　　　　 ・
+　　　　　　　　　　 ・");
+MsgClose();
+SEStop("EV_SE_AMUSE_008",2);
+ChLayout(1);
+MsgClose();
+ChOpen(1,255,0,0,2,-1,-1,0,0,0,0);
+Wait(80,0);
+BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
+ScrFadeIn(0);
+ChMouthOpenLevel(1,0);
+VoicePlay("B330A10801_01_030");
+MsgDisp("Kazama","…………");
+MsgDisp("主人公","They both sure are slow huh?");
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,1);
+VoicePlay("B330A10801_01_040");
+MsgDisp("Kazama","Yeah, 
+we got split up along the way.");
+VoicePlay("B330A10801_06_040");
+MsgDisp("Himuro","What, why are you saying it 
+as if it was some divine 
+force at plaY?");
+ChMouth(1,2);
+ChMotion(1,0);
+ChEyeOpenLevel(1,8);
+SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
+ChClose(1,0,30);
+MsgClose();
+ChOpen(1,255,0,0,2,8,-1,0,3,0,30);
+SEPlay("EV_SE_544",0,0.5);
+ChOpen(6,255,2,0,0,0,-1,0,3,0,30);
+VoicePlay("B330A10801_06_050");
+MsgDisp("Himuro","You and Ryota-senpai were clearly
+just trying to be alone right?");
+MsgDisp("主人公","Ehh?
+It was scary... so I just wanted
+to get out quickly?");
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,3);
+VoicePlay("B330A10801_01_050");
+MsgDisp("Kazama","Yeah, me too, me too.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B330A10801_06_060");
+MsgDisp("Himuro","...I don't believe Ryota-senpai.");
+ChMouth(1,2);
+ChEyeOpenLevel(1,8);
+MsgClose();
+SEPlay("EV_SE_FOOT_025",1.2,0.8);
+ChClose(1,0,30);
+ChClose(6,0,30);
+ChLayout(2);
+MsgClose();
+ChOpen(1,255,0,0,2,8,-1,0,3,0,30);
+ChOpen(2,255,4,2,0,-1,-1,0,3,0,30);
+ChOpen(6,255,0,0,0,-1,-1,0,3,0,30);
+VoicePlay("B330A10801_02_040");
+MsgDisp("Sassa","Inori, why did you 
+just go on ahead....");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B330A10801_06_070");
+MsgDisp("Himuro","I thought her and Ryota-senpai 
+would just vanish, so I hurried.");
+ChEye(2,1);
+ChMouth(2,0);
+ChMotion(2,2);
+VoicePlay("B330A10801_02_050");
+MsgDisp("Sassa","Seriously, Ryota.
+What a cruel guy.");
+MsgDisp("主人公","We were just waiting here?
+Right,｛風真＊＊｝?");
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,3);
+ChEyeOpenLevel(1,0);
+VoicePlay("B330A10801_01_060");
+MsgDisp("Kazama","Ohh, of course.
+I didn't think about getting seperated 
+on purpose and things like that at all.");
+ChEye(2,2);
+ChMouth(2,0);
+ChMotion(2,4);
+ChEyeOpenLevel(2,0);
+VoicePlay("B330A10801_02_060");
+MsgDisp("Sassa","...You're so easy to read.");
+ChEye(6,2);
+ChMouth(6,0);
+ChMotion(6,2);
+ChEyeOpenLevel(6,0);
+VoicePlay("B330A10801_06_080");
+MsgDisp("Himuro","Yeah, we have to stay on guard.");
+ChEye(1,2);
+ChMouth(1,3);
+ChMotion(1,0);
+VoicePlay("B330A10801_01_070");
+MsgDisp("Kazama","And why is that?
+Hey?");
+MsgDisp("主人公","(｛風真＊＊｝, you were thinking
+of something like that...)");
+BGMStop();
+MsgClose();
+ScrFadeOut(0,0);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,7);
+ChEyeOpenLevel(1,-1);
+ChMouthOpenLevel(1,-1);
+ChCheek(1,0);
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,7);
+ChEyeOpenLevel(2,-1);
+ChMouthOpenLevel(2,-1);
+ChCheek(2,0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,7);
+ChEyeOpenLevel(6,-1);
+ChMouthOpenLevel(6,-1);
+ChCheek(6,0);

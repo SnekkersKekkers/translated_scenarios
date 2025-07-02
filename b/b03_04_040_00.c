@@ -1,0 +1,28 @@
+BGOpen("wf400",0);
+ScrFadeIn(0);
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,0);
+VoicePlay("B030404000_04_000");
+MsgDisp("Nanatsumori","Let's head out.");
+MsgClose();
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
+MsgClose();
+ScrFadeOut(0,0);
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,0,1);
+Wait(40,0);
+BGOpen("wf410",0);
+ScrFadeIn(0);
+VoicePlay("B030404000_04_010");
+MsgDisp("Nanatsumori","Did you turn off your cell phone?");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Yeah, it's all good.
+Ah, it's starting!");
+MsgDispSksp(0);
+SEPlay("EV_SE_038");
+SEWait();
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(4,0,0);

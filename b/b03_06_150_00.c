@@ -1,0 +1,11 @@
+BGOpen("ne300",0);
+BGMPlay("BGM_PLACE_SKI_SKAT",0.01);
+ChEye(6,0);
+ChMouth(6,0);
+ChLayout(1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("O030601000_06_060");
+MsgDisp("Himuro","Let's go.");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

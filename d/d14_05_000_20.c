@@ -1,0 +1,23 @@
+ChEye(1,2);
+ChMouth(1,3);
+ChMotion(1,0,1);
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,4);
+ChEye(3,4);
+ChMouth(3,4);
+ChMotion(3,0,1);
+ChMotion(4,0,1);
+ChMouth(6,2);
+ChMotion(6,0,1);
+ChEye(7,2);
+ChMouth(7,0);
+ChMotion(7,2);
+ChEye(5,2);
+ChMouth(5,4);
+VoicePlay("D140500000_05_040");
+MsgDisp("Hiiragi","I see.
+See you later, then.");
+SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.7);
+BGMStop();
+ChClose(5,0,30);

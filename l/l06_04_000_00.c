@@ -1,0 +1,30 @@
+MsgClose();
+BGOpen("sc310",0);
+ChLayout(1);
+BGMPlay("BGM_C04_NANA_A");
+ChNanaType(0);
+ChOpen(4,254,0,0,0,-1,-1,0,0);
+ScrFadeIn(0);
+VoiceEVSPlay(4);
+VoicePlay("L060400000_04_000");
+MsgDisp("Nanatsumori","｛主人公｝.");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+SEPlay("EV_SE_664");
+SEWait();
+VoicePlay("L060400000_04_010");
+MsgDisp("Nanatsumori","In return for Valentine's.
+It was good.");
+MsgDisp("主人公","Thanks to you too.");
+ChMotion(4,1);
+VoicePlay("L060400000_04_020");
+MsgDisp("Nanatsumori","No prob.");
+MsgClose();
+SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
+BGMStop();
+MsgClose();
+ChClose(4,0,30);
+Wait(60);
+MsgDisp("主人公","(Hm......
+This is obligatory.)");
+MsgClose();
+ScrFadeOut(0,0);

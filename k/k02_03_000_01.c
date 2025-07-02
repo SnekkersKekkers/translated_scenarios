@@ -1,0 +1,57 @@
+BGOpen("ho100",2);
+ScrFadeIn(0);
+SEPlay("EV_SE_DOOR_001");
+SEWait();
+MsgDisp("主人公","Coming.");
+MsgClose();
+SEPlay("EV_SE_DOOR_022");
+SEWait();
+SEPlay("EV_SE_DOOR_023",0,0.5);
+BGMPlay("BGM_C03_HONDA_A");
+ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,1);
+SEPlay("EV_SE_665");
+SEWait();
+Wait(30,0);
+VoicePlay("K020300001_03_000");
+MsgDisp("Honda","Here's your present!");
+MsgDisp("主人公","Oh, this is......");
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,3);
+VoicePlay("K020300001_03_010");
+MsgDisp("Honda","It was your birthday, right?
+I wanted to give this to you that day,
+but I missed it.");
+ChEye(3,4);
+ChMouth(3,4);
+ChMotion(3,1);
+VoicePlay("K020300001_03_020");
+MsgDisp("Honda","Sorry about that!");
+MsgDisp("主人公","No,
+I'm happy you remembered my birthday.
+Thank you!");
+ChEye(3,3);
+ChMouth(3,3);
+ChMotion(3,3);
+VoicePlay("K020300001_03_030");
+MsgDisp("Honda","You're welcome!");
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,1);
+VoicePlay("K020300001_03_040");
+MsgDisp("Honda","Well, I'll get going.
+Happy birthday again!");
+MsgClose();
+SEPlay("EV_SE_DOOR_022");
+SEWait();
+SEPlay("EV_SE_DOOR_023",0,0.3);
+BGMStop();
+MsgClose();
+ChClose(3);
+Wait(30);
+MsgDisp("主人公","(I got a present from ｛本多＊＊｝!)");
+MsgClose();
+ScrFadeOut(0,0);

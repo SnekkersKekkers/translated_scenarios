@@ -1,0 +1,15 @@
+BGMPlay("BGM_HANYOU_A");
+ChLayout(2);
+ScrFadeIn(0);
+ChEye(2,0);
+ChMouth(2,4);
+ChMotion(2,3);
+VoiceEVSPlay(2);
+VoicePlay("J140200000_02_000");
+MsgDisp("Sassa","｛主人公｝.");
+MsgDisp("主人公","Hmm, what?");
+ChEye(2,0);
+ChMouth(2,4);
+ChMotion(2,3);
+VoicePlay("J140200000_02_010");
+MsgDisp("Sassa","Are you free next Sunday?");

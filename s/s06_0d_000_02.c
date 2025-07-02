@@ -1,0 +1,13 @@
+ChEye(21,0);
+ChMouth(21,0);
+ChMotion(21,3);
+VoicePlay("S060D00002_21_000");
+MsgDisp("Michiru","Well then, let's go.");
+ChEye(22,3);
+ChMouth(22,3);
+ChMotion(22,5,1);
+ChEyeOpenLevel(22,0);
+VoicePlay("S060D00002_22_000");
+MsgDisp("Hikaru","Let's go!");
+MsgClose();
+ScrFadeOut(0,0);

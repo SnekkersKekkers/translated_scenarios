@@ -1,0 +1,17 @@
+BGOpen("fp500",0);
+ChEye(2,0);
+ChMouth(2,3);
+ChMotion(2,3,1);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("B030211000_02_000");
+MsgDisp("Sassa","Let's swim until we're beat!");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Hehe, yeah!");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
+MsgClose();
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(2,0,0);
+ChOpen(2,31,0,0,0,-1,-1,0,0,0,0);

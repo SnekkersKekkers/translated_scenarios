@@ -1,0 +1,62 @@
+MsgClose();
+ChEye(4,2);
+ChMouth(4,1);
+ChMotion(4,2);
+VoicePlay("G020410200_04_000");
+MsgDisp("Nanatsumori","Sigh～...");
+MsgDisp("主人公","What's wrong?
+That was a pretty big sigh.");
+ChMouth(4,4);
+ChMotion(4,0,1);
+VoicePlay("G020410200_04_010");
+MsgDisp("Nanatsumori","Ah... sorry.");
+ChMouth(4,0);
+VoicePlay("G020410200_04_020");
+MsgDisp("Nanatsumori","I just feel kind of worthless.");
+MsgDisp("主人公","How come?");
+ChMotion(4,2,1);
+ChEyeOpenLevel(4,0);
+ChMouthOpenLevel(4,0);
+VoicePlay("G020410200_04_030");
+MsgDisp("Nanatsumori","…………");
+ChMotion(4,0,1);
+ChEyeOpenLevel(4,-1);
+ChMouthOpenLevel(4,-1);
+VoicePlay("G020410200_04_040");
+MsgDisp("Nanatsumori","Hey. We're on a date 
+now, right?");
+MsgDisp("主人公","Y-Yeah.");
+ChMotion(4,1,1);
+VoicePlay("G020410200_04_050");
+MsgDisp("Nanatsumori","Like, dating each other I mean.");
+ChMouthOpenLevel(4,0);
+VoicePlay("G020410200_04_060");
+MsgDisp("Nanatsumori","…………");
+ChEye(4,2);
+ChMouth(4,4);
+ChMotion(4,0,1);
+VoicePlay("G020410200_04_070");
+MsgDisp("Nanatsumori","Forget it. That was kind of
+girly of me to say.");
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,1,1);
+VoicePlay("G020410200_04_080");
+MsgDisp("Nanatsumori","I should taken better initiative.
+Right?");
+MsgDisp("主人公","？？？");
+ChEye(4,0);
+ChMouth(4,3);
+ChMotion(4,0,1);
+VoicePlay("G020410200_04_090");
+MsgDisp("Nanatsumori","Shall we go on more dates in
+the future?");
+MsgDisp("主人公","(｛七ツ森＊｝, you're being pretty
+direct...)");
+BGMStop();
+MsgClose();
+ScrFadeOut(0,0);
+ChLayout(1);
+ChEyeOpenLevel(4,-1);
+ChMouthOpenLevel(4,-1);
+ChCheek(4,0);

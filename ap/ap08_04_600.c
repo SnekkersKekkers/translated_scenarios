@@ -1,0 +1,9 @@
+NSSEye(4,4);
+NSSMouth(4,4);
+NSSEyeOpenLevel(4,0);
+NSSMouthOpenLevel(4,0);
+NSSCheek(4,10);
+MsgDispHide();
+VoicePlay("AP0804600_04_000");
+MsgDisp("Nanatsumori","Nn......");
+MsgClose();

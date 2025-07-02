@@ -1,0 +1,12 @@
+BGOpen("ne300",0);
+BGMPlay("BGM_PLACE_SKI_SKAT",0.01);
+ChEye(5,0);
+ChMouth(5,0);
+ChMotion(5,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("S060500002_05_000");
+MsgDisp("Hiiragi","Alright then, shall we go?");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

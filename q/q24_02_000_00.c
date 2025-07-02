@@ -1,0 +1,32 @@
+EnvAutoSet(1);
+MsgDisp("主人公","......What's this?");
+ChEye(2,0);
+ChMouth(2,3);
+ChMotion(2,3);
+VoicePlay("Q240200000_02_000");
+MsgDisp("Sassa","No one can stop it now.
+Come here!");
+MsgDisp("主人公","Eh?");
+ChEye(2,3);
+ChMouth(2,3);
+ChMotion(2,3);
+ChEyeOpenLevel(2,0);
+VoicePlay("Q240200000_02_010");
+MsgDisp("Sassa","Let's fight together!");
+SEPlay("EV_SE_054",0,0.8);
+ScrQuake(5);
+ChEye(2,5);
+ChMouth(2,5);
+ChMotion(2,5);
+MsgDisp("主人公","Kya!");
+ChEye(2,1);
+ChMouth(2,3);
+ChMotion(2,3);
+VoicePlay("Q240200000_02_020");
+MsgDisp("Sassa","You did it huh!
+I ain't gonna let you get away with it.");
+EnvStop(1);
+EnvAutoSet(0);
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(2,0,0);

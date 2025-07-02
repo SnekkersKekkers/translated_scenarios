@@ -1,0 +1,15 @@
+ChEye(22,3);
+ChMouth(22,3);
+ChMotion(22,3,1);
+ChEyeOpenLevel(22,0);
+VoicePlay("D140D00000_22_010");
+MsgDisp("Hikaru","Yay▼");
+ChEye(21,0);
+ChMouth(21,3);
+ChMotion(21,3);
+VoicePlay("D140D00000_21_010");
+MsgDisp("Michiru","Let's have fun.");
+BGMStop();
+MsgClose();
+ScrFadeOut(0,0);
+ChEyeOpenLevel(22,-1);

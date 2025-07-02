@@ -1,0 +1,71 @@
+MsgType(1);
+BGOpen("ex980",0);
+ChLayout(0);
+ScrFadeIn(0);
+VoiceEVSPlay(6);
+VoicePlay("T020620000_06_000");
+MsgDisp("Himuro?","｛主人公｝.");
+MsgClear();
+Wait(60);
+SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
+SEWait();
+BGMPlay("BGM_C06_INORI_KOKU",0.01);
+ChOpen(6,254,0,0,0,-1,-1,0,0);
+MsgDisp("主人公","｛氷室＊＊｝?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,4);
+ChEyeOpenLevel(6,8);
+VoicePlay("T020620000_06_010");
+MsgDisp("Himuro","Let me say this first, I haven't sorted
+out my feelings either.");
+MsgDisp("主人公","Eh?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("T020620000_06_020");
+MsgDisp("Himuro","That's because I was pushed by those two.");
+MsgDisp("主人公","Could it be......
+｛風真＊＊｝ and ｛颯砂＊＊｝?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,2);
+ChEyeOpenLevel(6,0);
+VoicePlay("T020620000_06_030");
+MsgDisp("Himuro","There's no one else it could be.");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,2);
+ChEyeOpenLevel(6,8);
+VoicePlay("T020620000_06_040");
+MsgDisp("Himuro","......But, I came here of my own accord.");
+MsgClear();
+ChClose(6);
+ChCustomLayout(6,5,0,-2.5);
+Wait(60);
+SEPlay("EV_SE_544");
+ChOpen(6,254,7,0,0,-1,-1,0,0,0,120);
+VoiceEVSPlay(6);
+VoicePlay("T020620000_06_050");
+MsgDisp("Himuro","｛主人公｝,
+I've always loved you.");
+MsgDisp("主人公","!");
+ChEye(6,4);
+ChMouth(6,3);
+ChMotion(6,3);
+VoicePlay("T020620000_06_060");
+MsgDisp("Himuro","What's with that face? You're the only one
+who didn't notice until the very end.");
+ChEye(6,4);
+ChMouth(6,4);
+ChMotion(6,0);
+VoicePlay("T020620000_06_070");
+MsgDisp("Himuro","But, I was drawn to that air-headed,
+crazy, and simple-minded side of you.");
+ChEye(6,4);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("T020620000_06_080");
+MsgDisp("Himuro","......So even after you graduate, I want
+you to stay by my side like you always
+have.");

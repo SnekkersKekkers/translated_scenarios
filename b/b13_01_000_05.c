@@ -1,0 +1,23 @@
+Wait(30,0);
+BGOpen("bh110",0);
+ChEyeOpenLevel(1,-1);
+ChMouthOpenLevel(1,-1);
+ChCheek(1,0);
+ChEye(1,2);
+ChMouth(1,2);
+ChMotion(1,4,1);
+ChEyeOpenLevel(1,0);
+ChCheek(1,10);
+ScrFadeIn(0);
+VoicePlay("B130100005_01_000");
+MsgDisp("Kazama","Look, I live alone, you know. When you
+show up dressed like that...");
+ChEye(1,0);
+ChMouth(1,2);
+ChMotion(1,0);
+ChEyeOpenLevel(1,8);
+ChCheek(1,5);
+VoicePlay("B130100005_01_010");
+MsgDisp("Kazama","You're not trying to test me, are you?");
+ChEyeOpenLevel(1,10);
+ChCheek(1,0);

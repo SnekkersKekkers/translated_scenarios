@@ -1,0 +1,12 @@
+BGOpen("fp700",0);
+BGMPlay("BGM_PLACE_POOL",0.01);
+ChEye(2,0);
+ChMouth(2,2);
+ChMotion(2,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("B030212000_02_000");
+MsgDisp("Sassa","Whoa, it's so crowded here.");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Hehe, should we head right in?");
+MsgDispSksp(0);

@@ -1,0 +1,12 @@
+BGOpen("fp100",0);
+BGMPlay("BGM_PLACE_SHOP",0.01);
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,4,1);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("B030207000_02_000");
+MsgDisp("Sassa","What do you want to look at?");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Let's see...");
+MsgDispSksp(0);

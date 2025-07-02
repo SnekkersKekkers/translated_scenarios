@@ -1,0 +1,14 @@
+ChLayout(1);
+ScrFadeIn(0);
+MsgDisp("主人公","Oh, ｛颯砂＊＊｝.");
+MsgClose();
+SEPlay("EV_SE_544",0,0.6);
+ChOpen(2,254,2,0,0,0,-1,0,0);
+VoicePlay("F010200008_02_000");
+MsgDisp("Sassa","......");
+MsgClose();
+SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
+ChClose(2);
+Wait(60,0);
+MsgDisp("主人公","(｛颯砂＊＊｝
+looked mad...)");

@@ -1,0 +1,14 @@
+MsgClose();
+ChLayout(2);
+BGMPlay("BGM_HANYOU_A");
+ChEye(4,0);
+ChMouth(4,0);
+ChMotion(4,0);
+ScrFadeIn(0);
+VoiceEVSPlay(4);
+VoicePlay("J140400000_04_000");
+MsgDisp("Nanatsumori","｛主人公｝.");
+MsgDisp("主人公","Oh, what's up with everyone?");
+ChMotion(4,1);
+VoicePlay("J140400000_04_010");
+MsgDisp("Nanatsumori","Are you free this Sunday?");

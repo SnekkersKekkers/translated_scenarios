@@ -1,0 +1,10 @@
+ChEye(22,0);
+ChMouth(22,3);
+ChMotion(22,3,1);
+VoicePlay("W072200001_22_010");
+MsgDisp("Hikaru","Okay～!");
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(22,0,0);
+MsgClose();
+ChOpen(22,255,7,0,0,-1,-1,0,2,0,0);

@@ -1,0 +1,11 @@
+BGOpen("fp100",0);
+BGMPlay("BGM_PLACE_SHOP",0.01);
+ChEye(3,0);
+ChMouth(3,0);
+ChMotion(3,0,1);
+ScrFadeIn(0);
+VoicePlay("B030307000_03_000");
+MsgDisp("Honda","What's catching your interest?");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Let's see...");
+MsgDispSksp(0);

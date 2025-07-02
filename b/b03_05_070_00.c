@@ -1,0 +1,12 @@
+BGOpen("fp100",0);
+BGMPlay("BGM_PLACE_SHOP",0.01);
+ChEye(5,0);
+ChMouth(5,0);
+ChMotion(5,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("B030507000_05_000");
+MsgDisp("Hiiragi","What should we do from here?");
+MsgDispSksp(1,0);
+MsgDisp("主人公","Ummm....");
+MsgDispSksp(0);

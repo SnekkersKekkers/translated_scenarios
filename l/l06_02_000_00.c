@@ -1,0 +1,35 @@
+BGOpen("sc520",0);
+ChLayout(1);
+ScrFadeIn(0);
+MsgClose();
+BGMPlay("BGM_C02_SASSA_A");
+ChOpen(2,254,4,0,4,-1,-1,0,0);
+VoiceEVSPlay(2);
+VoicePlay("L060200000_02_000");
+MsgDisp("Sassa","｛主人公｝.
+Good timing!");
+MsgDisp("主人公","｛颯砂＊＊｝?");
+ChEye(2,0);
+ChMouth(2,4);
+ChMotion(2,0);
+VoicePlay("L060200000_02_010");
+MsgDisp("Sassa","Here you go.
+In return for the chocolate.");
+SEPlay("EV_SE_664");
+SEWait();
+MsgDisp("主人公","Th, thanks!");
+ChEye(2,3);
+ChMouth(2,4);
+ChMotion(2,4);
+ChEyeOpenLevel(2,0);
+VoicePlay("L060200000_02_020");
+MsgDisp("Sassa","Yeah, see you.");
+MsgClose();
+BGMStop();
+SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
+MsgClose();
+ChClose(2);
+Wait(60);
+MsgDisp("主人公","(This is obligatory, huh......)");
+MsgClose();
+ScrFadeOut(0);

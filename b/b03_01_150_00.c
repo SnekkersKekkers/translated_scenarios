@@ -1,0 +1,11 @@
+BGOpen("ne300",0);
+BGMPlay("BGM_PLACE_SKI_SKAT",0.01);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,0,1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("SS0401210_01_000");
+MsgDisp("Kazama","Hey, let's go.");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

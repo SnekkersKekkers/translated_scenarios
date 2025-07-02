@@ -1,0 +1,153 @@
+BGOpen("ne340",0);
+ChLayout(2);
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0);
+ChEye(2,0);
+ChMouth(2,4);
+ChMotion(2,0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+ScrFadeIn(0);
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0);
+VoiceEVSPlay(1);
+VoicePlay("B330A10500_01_000");
+MsgDisp("Kazama","｛主人公｝,
+who do you want to hear sing?");
+ChEye(2,0);
+ChMouth(2,4);
+ChMotion(2,0);
+VoicePlay("B330A10500_02_000");
+MsgDisp("Sassa","The one who came up with
+karaoke was Ryota, right?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B330A10500_06_000");
+MsgDisp("Himuro","You can pick anyone but me.");
+ChEye(2,0);
+ChMouth(2,4);
+ChMotion(2,4);
+ChMouth(1,2);
+MsgDisp("主人公","Then, shall we all sing together?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B330A10500_06_010");
+MsgDisp("Himuro","I said anyone but me right?");
+ChEye(2,0);
+ChMouth(2,3);
+ChMotion(2,2);
+VoicePlay("B330A10500_02_010");
+MsgDisp("Sassa","That's just how Inori is, 
+like a kid.");
+ChEye(1,4);
+ChMouth(1,3);
+ChMotion(1,0,1);
+ChEyeOpenLevel(1,0);
+VoicePlay("B330A10500_01_010");
+MsgDisp("Kazama","That can't be helped though.
+He is actually a child.");
+ChEye(6,1);
+ChMouth(6,0);
+ChMotion(6,1);
+ChEyeOpenLevel(6,0);
+VoicePlay("B330A10500_06_020");
+MsgDisp("Himuro","Ha?
+I can sing. Come on, 
+pick a song.");
+ChEye(1,0);
+ChEyeOpenLevel(1,8);
+MsgDisp("主人公","(Both of them are good at handling
+｛氷室＊＊｝...?)");
+MsgDisp("主人公","Then, what genre...");
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0,1);
+VoicePlay("B330A10500_01_020");
+MsgDisp("Kazama","Anything but a love song.");
+MsgDisp("主人公","Eh?");
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,0);
+VoicePlay("B330A10500_02_020");
+MsgDisp("Sassa","What's what?");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,0);
+VoicePlay("B330A10500_06_030");
+MsgDisp("Himuro","Well, I understand how you feel.");
+ChEye(1,2);
+ChMouth(1,3);
+ChMotion(1,1);
+ChEyeOpenLevel(1,0);
+VoicePlay("B330A10500_01_030");
+MsgDisp("Kazama","Right?
+Even if we sang about love, and romance 
+and whatnot with this group... ");
+ChEye(2,0);
+ChMouth(2,3);
+ChMotion(2,1);
+VoicePlay("B330A10500_02_030");
+MsgDisp("Sassa","I see.
+Then, let's sing anime songs!");
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,5);
+VoicePlay("B330A10500_06_040");
+MsgDisp("Himuro","Why has it come to this?");
+ChEye(1,2);
+ChMouth(1,3);
+ChMotion(1,3);
+VoiceEVSPlay(1);
+VoicePlay("B330A10500_01_040");
+MsgDisp("Kazama","｛主人公｝, choose already. If we keep up 
+like this, we'll have run out 
+of time without having
+sung a single song.");
+MsgDisp("主人公","Umm...
+Then how about Haba Academy's anthem?");
+ChMouth(1,0);
+ChMotion(1,0);
+ChEyeOpenLevel(1,0);
+ChEye(2,3);
+ChMouth(2,3);
+ChMotion(2,3);
+VoicePlay("B330A10500_02_040");
+MsgDisp("Sassa","Hahaha, you gave up too soon.");
+ChEye(6,2);
+ChMouth(6,0);
+ChMotion(6,2);
+ChEyeOpenLevel(6,0);
+VoicePlay("B330A10500_06_050");
+MsgDisp("Himuro","That would be A cappella then.
+Isn't this karaoke?");
+ChEye(1,0);
+ChMouth(1,3);
+ChMotion(1,0);
+VoicePlay("B330A10500_01_050");
+MsgDisp("Kazama","Right, let's start over.");
+MsgDisp("主人公","(Uhh, what should we do...∋)");
+MsgClose();
+ScrFadeOut(0,0);
+ChEye(1,0);
+ChMouth(1,0);
+ChMotion(1,7);
+ChEyeOpenLevel(1,-1);
+ChMouthOpenLevel(1,-1);
+ChCheek(1,0);
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,7);
+ChEyeOpenLevel(2,-1);
+ChMouthOpenLevel(2,-1);
+ChCheek(2,0);
+ChEye(6,0);
+ChMouth(6,0);
+ChMotion(6,7);
+ChEyeOpenLevel(6,-1);
+ChMouthOpenLevel(6,-1);
+ChCheek(6,0);

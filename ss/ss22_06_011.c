@@ -1,0 +1,10 @@
+ChCheek(6,0);
+ChEye(6,1);
+ChMouth(6,0);
+ChMotion(6,0);
+ChEyeOpenLevel(6,0);
+ChCheek(6,10);
+VoicePlay("SS2206011_06_000");
+MsgDisp("Himuro","It doesn't warm up that way.");
+MsgClose();
+ChCheek(6,0);

@@ -1,0 +1,33 @@
+BGOpen("wf400",0);
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0,1);
+ChLayout(1);
+ScrFadeIn(0);
+VoicePlay("B030604000_06_000");
+MsgDisp("Himuro","Right on time.");
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
+MsgClose();
+ScrFadeOut(0);
+ChEye(6,0);
+ChMouth(6,4);
+BGOpen("wf410",0);
+ChLayout(1);
+Wait(40);
+ScrFadeIn(0);
+ChMotion(6,0,1);
+VoicePlay("B030604000_06_010");
+MsgDisp("Himuro","The atmosphere before the show is
+special.");
+MsgDispSksp(1,0);
+ChEye(6,0);
+ChMouth(6,4);
+ChMotion(6,0);
+MsgDisp("主人公","True.
+......Ah, it's starting!");
+MsgDispSksp(0);
+SEPlay("EV_SE_038");
+SEWait();
+MsgClose();
+ScrFadeOut(0,0);
+ChClose(6,0,0);

@@ -1,0 +1,10 @@
+ChEye(5,3);
+ChMouth(5,3);
+ChEye(7,0);
+ChMouth(7,3);
+ChEye(6,0);
+ChMouth(6,3);
+ChMotion(6,3);
+VoicePlay("J140610001_06_000");
+MsgDisp("Himuro","Yes, that's the way it should be.");
+ChMouth(6,4);

@@ -1,0 +1,10 @@
+ChCheek(2,0);
+ChEye(2,0);
+ChMouth(2,0);
+ChMotion(2,0);
+ChEyeOpenLevel(2,7);
+ChCheek(2,10);
+VoicePlay("SS2102041_02_000");
+MsgDisp("Sassa","Do you enjoy rushing me ......?");
+MsgClose();
+ChCheek(2,0);

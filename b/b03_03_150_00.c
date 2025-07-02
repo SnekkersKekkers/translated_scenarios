@@ -1,0 +1,11 @@
+BGOpen("ne300",0);
+BGMPlay("BGM_PLACE_SKI_SKAT",0.01);
+ChEye(3,0);
+ChMouth(3,3);
+ChMotion(3,0,1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("W090300001_03_000");
+MsgDisp("Honda","Shall we go?");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

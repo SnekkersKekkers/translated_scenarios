@@ -1,0 +1,12 @@
+BGOpen("ne300",0);
+BGMPlay("BGM_PLACE_SKI_SKAT",0.01);
+ChEye(2,0);
+ChMouth(2,3);
+ChMotion(2,4,1);
+ChLayout(1);
+ScrFadeIn(0);
+MsgDispSksp(1,0);
+VoicePlay("B030224000_02_010");
+MsgDisp("Sassa","Alright, let's go.");
+MsgDispSksp(0);
+SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
