@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040610300_06_000");
 MsgDisp("Himuro","This trichromatic artwork is amazing...");
-MsgSel("Honestly, I dn't get it.","I wonder what he had in mind?","As you'd expect,");
+MsgSel("Honestly, I don't get it.","I wonder what he had in mind?","Just as I expected.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -27,7 +27,7 @@ attention to how you say these things.");
     ChMotion(6,3);
     VoicePlay("B040610300_06_020");
     MsgDisp("Himuro","I completely agree. I wonder what sort of
-thought process he had? If only i cold
+thought process he had? If only I could
 understand it from his work.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

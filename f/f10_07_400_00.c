@@ -1,8 +1,8 @@
 ChLayout(1);
 BGOpen("sc510",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, I hav eto go home now...
-My class duties took a while)");
+MsgDisp("主人公","(Ah, I have to go home now...
+My class duties took a while.)");
 VoicePlay("F100740000_07_000");
 MsgDisp("Mikage","I'm very sorry.
 From now on, I'll be more careful...");
