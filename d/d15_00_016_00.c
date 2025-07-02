@@ -1,0 +1,73 @@
+ChMouth ( 1,5 ) ;
+MsgDisp ( "","　　　　　　　　　　 ・
+　　　　　　　　　　 ・
+　　　　　　　　　　 ・" ) ;
+ChEye ( 6,1 ) ;
+ChMouth ( 6,2 ) ;
+ChMotion ( 6,1 ) ;
+VoicePlay ( "D150001600_06_000" ) ;
+MsgDisp ( "氷室","リョータ先輩、
+また、フリーズしてますよ？" ) ;
+ChEye ( 1,5 ) ;
+ChMouth ( 1,2 ) ;
+ChMotion ( 1,5 ) ;
+ChCheek ( 1,5 ) ;
+VoicePlay ( "D150001600_01_000" ) ;
+MsgDisp ( "風真","え……" ) ;
+MsgDisp ( "主人公","フリーズ？" ) ;
+ChEye ( 6,0 ) ;
+ChMouth ( 6,4 ) ;
+ChMotion ( 6,4 ) ;
+VoicePlay ( "D150001600_06_010" ) ;
+MsgDisp ( "氷室","それだけ夢中になれるものが目の前にあるって
+素敵な事ですね。" ) ;
+ChEye ( 1,0 ) ;
+ChMouth ( 1,3 ) ;
+ChMotion ( 1,0 ) ;
+ChEyeOpenLevel ( 1,0 ) ;
+ChCheek ( 1,0 ) ;
+VoicePlay ( "D150001600_01_010" ) ;
+MsgDisp ( "風真","ふっ、灯台下暗し。" ) ;
+ChEye ( 6,0 ) ;
+ChMouth ( 6,0 ) ;
+ChMotion ( 6,1 ) ;
+VoicePlay ( "D150001600_06_020" ) ;
+MsgDisp ( "氷室","は？　なんのことです？" ) ;
+ChEye ( 1,0 ) ;
+ChMouth ( 1,3 ) ;
+ChMotion ( 1,3 ) ;
+ChEyeOpenLevel ( 1,8 ) ;
+VoicePlay ( "D150001600_01_020" ) ;
+MsgDisp ( "風真","一紀、おまえも眼鏡クイって上げる回数が多い。
+何をそんなによく見たいんだよ。" ) ;
+ChEye ( 6,0 ) ;
+ChMouth ( 6,0 ) ;
+ChMotion ( 6,4 ) ;
+ChCheek ( 6,5 ) ;
+VoicePlay ( "D150001600_06_030" ) ;
+MsgDisp ( "氷室","ぼ、僕は何も……" ) ;
+MsgDisp ( "主人公","ふたりとも、何の話？" ) ;
+ChEye ( 1,0 ) ;
+ChMouth ( 1,0 ) ;
+ChMotion ( 1,0 ) ;
+ChEyeOpenLevel ( 1, - 1 ) ;
+VoicePlay ( "D150001600_01_030" ) ;
+MsgDisp ( "風真","おまえの話。" ) ;
+ChEye ( 6,0 ) ;
+ChMouth ( 6,0 ) ;
+ChMotion ( 6,3 ) ;
+ChCheek ( 6,0 ) ;
+VoicePlay ( "D150001600_06_040" ) ;
+MsgDisp ( "氷室","ええ、君の話。" ) ;
+ChEye ( 1,0 ) ;
+ChMouth ( 1,0 ) ;
+ChMotion ( 1,3 ) ;
+VoicePlay ( "D150001600_01_040" ) ;
+MsgDisp ( "風真","言っとくけど、一紀と俺が話してるのって、
+ほぼ、おまえの話な。" ) ;
+MsgDisp ( "主人公","ええっ∋" ) ;
+BGMStop (  ) ;
+MsgClose (  ) ;
+ScrFadeOut ( 0,0 ) ;
+ChClose ( 1,0,0 ) ;
+ChClose ( 6,0,0 ) ;
