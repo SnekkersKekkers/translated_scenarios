@@ -8,7 +8,7 @@ type? I guess we could even do some
 fortune telling.");
 VoicePlay("A000700000_07_020");
 MsgDisp("Mikage","Next... Your bedroom?
-Well then tell me about your room.");
+Well then, tell me about your room.");
 VoicePlay("A000700000_07_030");
 MsgDisp("Mikage","Just in case,
 How do you pronounce your last name?");
