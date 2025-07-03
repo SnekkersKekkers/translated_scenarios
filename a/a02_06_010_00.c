@@ -10,7 +10,7 @@ ChOpen(6,254,2,1,1,0,-1,0,0);
 VoicePlay("A020601000_06_000");
 MsgDisp("Himuro?","………………");
 MsgDisp("主人公","(It's the guy who was talking 
-to Vice principal Himuro in the corridor
+to Vice Principal Himuro in the corridor
 ......I think?)");
 ChEye(6,0);
 ChMouth(6,0);
