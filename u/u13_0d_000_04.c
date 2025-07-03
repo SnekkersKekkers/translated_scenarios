@@ -99,7 +99,7 @@ nothing to worry about. The love show
 will become reality soon▼");
     MsgDisp("Hikaru","Do you think we'll get to see
 Yanosuke's passionate side soon? Ah～n, 
-Hikaru wants to see that performance.～▼");
+Hikaru wants to see that performance～▼");
     StlEye(22,0);
     MsgDisp("主人公","(｛ひかる＊｝... If it's ｛柊＊＊＊｝ 's
 real life love story performance, I want

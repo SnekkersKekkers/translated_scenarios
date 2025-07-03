@@ -12,7 +12,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F022200004_22_000");
-MsgDisp("Hikaru","That's right.～♪
+MsgDisp("Hikaru","That's right～♪
 The 22nd day of the 11th month 
 twins, aha▼");
 MsgDisp("主人公","Hehe!");
