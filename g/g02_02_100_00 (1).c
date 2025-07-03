@@ -31,7 +31,7 @@ ChMotion(2,0);
 VoicePlay("G020210000_02_040");
 MsgDisp("Sassa","I don't know how many people are
 competing, but I'm gonna keep this up and
-win the fight for you!......is what I was
+win the fight for you! ......Is what I was
 talking about.");
 ChEye(2,0);
 ChMouth(2,4);
