@@ -35,7 +35,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,10);
 VoicePlay("B040606400_06_040");
-MsgDisp("Himuro","There's sata andagi...");
+MsgDisp("Himuro","There's donut holes...");
 MsgDisp("主人公","Ah, there's a food stall for it.
 ....Do you like it?");
 ChEye(6,0);
