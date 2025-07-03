@@ -17,7 +17,7 @@ Is now a good time to call you?");
     break ;
     case 3:
     VoicePlay("J010200000_02_020");
-    MsgDisp("Sassa","Oh, What's wrong?");
+    MsgDisp("Sassa","Oh, what's up?");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 Is it OK to call now?");
     VoicePlay("J010200000_02_030");

@@ -44,7 +44,7 @@ I was tired of waiting.");
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("O080100000_01_040");
-    MsgDisp("Kazama","......Geez, don't get full of it.");
+    MsgDisp("Kazama","......Geez, don't let it go to your head.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);

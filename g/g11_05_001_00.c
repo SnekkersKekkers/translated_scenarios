@@ -77,7 +77,7 @@ ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
 VoicePlay("G110500100_05_050");
-MsgDisp("Hiiragi","WHy do you think that is?");
+MsgDisp("Hiiragi","Why do you think that is?");
 MsgDisp("主人公","Why?");
 ChEyeOpenLevel(5,0);
 Wait(10,0);

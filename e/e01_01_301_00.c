@@ -113,7 +113,7 @@ VoicePlay("E010130100_01_050");
 MsgDisp("Kazama","Don't be so soft.
 I really don't wanna see you
 with Honda's hairstyle.");
-MsgDisp("主人公","R, really?");
+MsgDisp("主人公","R-Really?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

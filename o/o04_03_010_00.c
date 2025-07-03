@@ -31,7 +31,7 @@ Looking forward to it.");
     VoicePlay("O040301000_03_020");
     MsgDisp("Honda","Starting from how we'll attack,
 we need to plan a strategy......");
-    MsgDisp("主人公","(R, right now?)");
+    MsgDisp("主人公","(R-Right now?)");
     break ;
     case 4:
     case 5:

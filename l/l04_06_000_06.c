@@ -70,7 +70,7 @@ him a better chocolate......)");
     VoicePlay("L040600006_06_060");
     MsgDisp("Himuro","Even if you ask for my opinion......
 I don't want to lie.");
-    MsgDisp("主人公","S, sorry......");
+    MsgDisp("主人公","S-Sorry......");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

@@ -13,7 +13,7 @@ MsgDisp("Sassa","Ah, yeah.
 ......What?");
 MsgDisp("主人公","(｛颯砂＊＊｝,you're mad at me.
 What should I do......)");
-MsgDisp("主人公","S, so......");
+MsgDisp("主人公","S-So......");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

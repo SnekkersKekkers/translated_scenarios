@@ -60,7 +60,7 @@ like such a big deal?");
     MsgDisp("Hiiragi","Don't you feel that we,
 the last on the course,
 received the most cheers?");
-    MsgDisp("主人公","(Y, yeah...... but, last......
+    MsgDisp("主人公","(Y-Yeah...... but, last......
 I wish I had tried a little harder......)");
     break ;
     default :

@@ -55,7 +55,7 @@ Huh, did I make a mistake somewhere?");
     VoicePlay("I660800002_08_040");
     MsgDisp("Shirahane","Nah.
 Ya got 100 points from me.");
-    MsgDisp("主人公","R, really?");
+    MsgDisp("主人公","R-Really?");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,4,1);

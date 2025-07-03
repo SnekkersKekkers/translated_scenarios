@@ -40,7 +40,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("H6G0200000_02_040");
-MsgDisp("Sassa","......Y, yeah. Of course the flowers would
+MsgDisp("Sassa","......Y-Yeah. Of course the flowers would
 bloom beautifully if you take care of
 them with a smile like that.");
 ChEye(2,0);

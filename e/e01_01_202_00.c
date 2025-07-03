@@ -166,7 +166,7 @@ VoicePlay("E010120200_02_080");
 MsgDisp("Sassa","Ah, I gotta go too!
 I still have training!
 See ya!");
-MsgDisp("主人公","Y, yeah! See you!");
+MsgDisp("主人公","Y-Yeah! See you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

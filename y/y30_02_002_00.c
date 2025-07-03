@@ -33,7 +33,7 @@ accept anything. I wouldn't be like
 this with other people.");
 MsgDisp("","Not only accept it, 
 but it even changes my tastebuds.
-WHat does it mean?");
+What does it mean?");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);

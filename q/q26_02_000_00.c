@@ -25,7 +25,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q260200000_02_030");
 MsgDisp("Sassa","My bad.
-S, sorry!");
+S-Sorry!");
 MsgClose();
 SEPlay("EV_SE_799");
 MsgClose();

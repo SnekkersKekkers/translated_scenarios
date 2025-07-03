@@ -55,7 +55,7 @@ It's the Koshien, after all.");
     MsgDisp("Himuro","I was getting a little excited,
 thinking about how our team might win
 thanks to your hard work.");
-    MsgDisp("主人公","Y, yeah......");
+    MsgDisp("主人公","Y-Yeah......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

@@ -36,4 +36,4 @@ ChCheek(7,0);
 BGOpen("ex090",0);
 BGMPlay("BGM_SCHOOL_LUNCH",0.01,0.9);
 ScrFadeIn(0);
-MsgDisp("主人公","(What should I do......)");
+MsgDisp("主人公","(Which should I choose......)");

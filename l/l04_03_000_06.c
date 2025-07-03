@@ -31,7 +31,7 @@ Ugh, I should've tried harder.)");
     ChMotion(3,4);
     VoicePlay("L040300006_03_030");
     MsgDisp("Honda","Ah...... it's handmade?");
-    MsgDisp("主人公","Y, yeah.
+    MsgDisp("主人公","Y-Yeah.
 How is it?");
     ChEye(3,0);
     ChMouth(3,0);

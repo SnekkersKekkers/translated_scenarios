@@ -7,7 +7,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040220001_02_000");
 MsgDisp("Sassa","Aren't you cold?");
-MsgSel("I want to slide a little more","I want to drink something warm","Ah,ーーI'm tired tooー!");
+MsgSel("I want to ski a little more.","I want to drink something warm.","Ahhh...I'm tired too!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

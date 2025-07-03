@@ -91,7 +91,7 @@ Nice.");
     MsgDisp("Sassa","It's really well made.
 There's just something in it that I'm
 not good with.");
-    MsgDisp("主人公","Oh!　S, sorry......");
+    MsgDisp("主人公","Oh!　S-Sorry......");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);

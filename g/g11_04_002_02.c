@@ -53,13 +53,13 @@ MsgDisp("Nanatsumori","I also find out about new releases
 outside of my job, so this is where
 I research them.");
 MsgDisp("主人公","I see. So this is where you
-can get a headstart from everyone else?");
+can get a headstart on everyone else?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G110400202_04_050");
 MsgDisp("Nanatsumori","Yeah.");
-MsgDisp("主人公","(｛七ツ森＊｝, What kind of
+MsgDisp("主人公","(｛七ツ森＊｝, what kind of
 websites are you checking...)");
 while (1){
     RunEverydaySksp(4,0,0,0,0,1);

@@ -103,7 +103,7 @@ It was good. I liked the matcha.");
     MsgDisp("Sassa","They were a little small for me.
 But, I guess that's what Japanese
 sweets are about.");
-    MsgDisp("主人公","Y, yeah......");
+    MsgDisp("主人公","Y-Yeah......");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

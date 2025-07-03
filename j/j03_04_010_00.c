@@ -35,7 +35,7 @@ So, I suppose you'll come?");
     VoicePlay("J030401000_04_030");
     MsgDisp("Nanatsumori","ＯＫ.
 What about the day of the event?");
-    MsgDisp("主人公","Then,on ｛日付｝ I guess We'll just go at
+    MsgDisp("主人公","Then, on｛日付｝ I guess We'll just go at
 ｛待ち合わせ場所｝?");
     VoicePlay("J030401000_04_040");
     MsgDisp("Nanatsumori","It's okay.
@@ -59,7 +59,7 @@ Sorry, I missed your call.");
 So, you'll come?");
     VoicePlay("J030401000_04_060");
     MsgDisp("Nanatsumori","Of course I'm going.");
-    MsgDisp("主人公","Phew! Then,on ｛日付｝ I'll be waiting for
+    MsgDisp("主人公","Phew! Then, on｛日付｝ I'll be waiting for
 you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030401000_04_070");
     MsgDisp("Nanatsumori","Ah. I need a wake up call to avoid

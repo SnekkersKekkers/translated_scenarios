@@ -49,7 +49,7 @@ Don't get hurt, okay?");
     MsgDisp("主人公","Yeah, thanks.");
     VoicePlay("H380400000_04_070");
     MsgDisp("Nanatsumori","Don't overdo it either, okay?");
-    MsgDisp("主人公","Y, yeah.
+    MsgDisp("主人公","Y-Yeah.
 But, in order to win, I might need to,
 just a little......");
     ChEye(4,2);

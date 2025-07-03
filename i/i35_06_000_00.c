@@ -79,7 +79,7 @@ You're doing pretty good.");
     VoicePlay("I350600000_06_080");
     MsgDisp("Himuro","Nothing.
 Come on, hurry up.");
-    MsgDisp("主人公","S, sure.");
+    MsgDisp("主人公","S-Sure.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

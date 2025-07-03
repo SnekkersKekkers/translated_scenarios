@@ -1,8 +1,7 @@
 BGOpen("sc521",0);
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(I did my absolute
-best this week!)");
+MsgDisp("主人公","(I tried my best this week!)");
 ChNanaType(0);
 ChOpen(4,254,0,0,3,-1,-1,0,0);
 VoicePlay("X010400005_04_000");

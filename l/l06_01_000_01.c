@@ -12,7 +12,7 @@ ChMotion(1,3);
 VoicePlay("L060100001_01_010");
 MsgDisp("Kazama","I finally found you.
 Come over here.");
-MsgDisp("主人公","O, okay.");
+MsgDisp("主人公","O-Okay.");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("sc220",0);

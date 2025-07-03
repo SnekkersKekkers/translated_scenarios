@@ -33,7 +33,7 @@ Isn't it too early to tie our legs?");
     VoicePlay("O030101000_01_020");
     MsgDisp("Kazama","It's fine, it'll be good practice.
 Anyways, let's win this.");
-    MsgDisp("主人公","Y, yeah.
+    MsgDisp("主人公","Y-Yeah.
 Let's do our best!");
     break ;
     case 3:
@@ -81,7 +81,7 @@ Come on, let's tie our legs together.");
     VoicePlay("O030101000_01_060");
     MsgDisp("Kazama","It'll be easier to tell that
 we're partners that way, right?");
-    MsgDisp("主人公","Y, yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     break ;
     case 4:
     case 5:

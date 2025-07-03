@@ -27,7 +27,7 @@ We weren't in sync at all......)");
     ChEyeOpenLevel(3,0);
     VoicePlay("O030300002_03_010");
     MsgDisp("Honda","Yeah, I had fun.");
-    MsgDisp("主人公","Y, yeah......
+    MsgDisp("主人公","Y-Yeah......
 But it's still frustrating.");
     ChEye(3,2);
     ChMouth(3,3);

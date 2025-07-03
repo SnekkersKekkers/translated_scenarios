@@ -51,7 +51,7 @@ SEPlay("EV_SE_820");
 MsgDisp("","My full marks answer sheet flapped,
 makin' a rustlin' sound in the wind.");
 SEStop("EV_SE_820",1.5);
-MsgDisp("","t sounded like it was sayin',
+MsgDisp("","It sounded like it was sayin',
 \"Stop thinkin\" about that and 
 just go to Haba Academy!'");
 MsgClear();

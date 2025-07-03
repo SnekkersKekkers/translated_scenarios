@@ -24,7 +24,7 @@ switch (ChPrmGet(8,6)){
     MsgDisp("Shirahane","I was making their new
 membership card jus' now.");
     MsgDisp("主人公","Huh∋
-W, what should we do......");
+W-What should we do......");
     ChEye(8,2);
     ChMouth(8,0);
     VoicePlay("I660800006_08_020");

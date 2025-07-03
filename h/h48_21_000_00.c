@@ -58,7 +58,7 @@ Did you come to cheer me on?");
     MsgDisp("Michiru","Right?
 Are you nervous? Nervousness is the
 enemy of a beautiful performance.");
-    MsgDisp("主人公","Y, yeah.
+    MsgDisp("主人公","Y-Yeah.
 I'm fine......!");
     ChClose(21);
     ChLayout(0);

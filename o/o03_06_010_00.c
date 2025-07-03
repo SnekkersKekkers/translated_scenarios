@@ -19,7 +19,7 @@ Yeah, not yet.");
     MsgDisp("Himuro","Ah, I see.
 Then it's good timing.
 I'll pair with you.");
-    MsgDisp("主人公","O, okay.
+    MsgDisp("主人公","O-Okay.
 Thanks.");
     break ;
     case 3:

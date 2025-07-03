@@ -21,7 +21,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("P040100001_01_020");
 MsgDisp("Kazama","There's a bit of powder left inside......");
-MsgDisp("主人公","S, sorry......");
+MsgDisp("主人公","S-Sorry......");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

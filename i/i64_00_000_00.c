@@ -27,7 +27,7 @@ Actually, forget it!");
 ｛大地＊＊｝, sorry.
 For surprising you.");
     VoicePlay("I640000000_08_050");
-    MsgDisp("Shirahane","R, really!
+    MsgDisp("Shirahane","R-Really!
 I just about stopped breathing......");
     VoicePlay("I640000000_08_060");
     MsgDisp("Shirahane","Alright, I'll see you at work～!");

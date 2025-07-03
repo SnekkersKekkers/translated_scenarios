@@ -39,15 +39,15 @@ switch (MsgSelRsltGet()){
     VoicePlay("B180100000_01_031");
     MsgDisp("Kazama","Well, more natural that is.");
     MsgDisp("主人公","Hehe, it's kind of funny 
-isn't it?｛風真＊＊｝.");
+isn't it? ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     ChCheek(1,0);
     VoicePlay("B180100000_01_040");
     MsgDisp("Kazama","You caught me.
-Honestly, I was waiting for the 
-right time for a while.");
+Honestly, I've been waiting for the
+perfect opportunity for a while.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,4);

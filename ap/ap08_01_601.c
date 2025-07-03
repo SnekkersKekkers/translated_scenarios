@@ -4,4 +4,4 @@ NSSEyeOpenLevel(1,5);
 NSSCheek(1,10);
 MsgDispHide();
 VoicePlay("AP0801601_01_000");
-MsgDisp("Kazama","W, wait......");
+MsgDisp("Kazama","W-Wait......");

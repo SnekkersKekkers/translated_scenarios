@@ -20,7 +20,7 @@ Then, on the day, there we go.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
-I can't wait for the ｛日付｝ to come.)");
+I can't wait for ｛日付｝ to come.)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh,it's a call from ｛氷室＊＊｝ )");
@@ -42,7 +42,7 @@ you at ｛待ち合わせ場所｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
-I can't wait for the ｛日付｝ to come.)");
+I can't wait for ｛日付｝ to come.)");
     break ;
     case 4:
     case 5:
@@ -68,7 +68,7 @@ Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
-I can't wait for the ｛日付｝ to come.)");
+I can't wait for ｛日付｝ to come.)");
     break ;
     default :
     DbgAssert(1);

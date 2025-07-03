@@ -54,7 +54,7 @@ It's from a shop with a good reputation.");
     ChMotion(6,5,1);
     VoicePlay("L040600001_06_040");
     MsgDisp("Himuro","Huh...... this?");
-    MsgDisp("主人公","Y, yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

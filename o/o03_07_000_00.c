@@ -37,8 +37,8 @@ the other staff hurt......");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("O030700000_07_030");
-    MsgDisp("Mikage","We did it?
-We're at the top!");
+    MsgDisp("Mikage","We did it!
+We got first!");
     MsgDisp("主人公","Yes, I'm so happy!");
     ChEye(7,0);
     ChMouth(7,0);

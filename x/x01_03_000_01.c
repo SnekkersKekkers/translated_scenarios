@@ -1,7 +1,6 @@
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(I did my absolute
-best this week!)");
+MsgDisp("主人公","(I tried my best this week!)");
 ChOpen(3,254,3,3,3,-1,-1,0,0);
 VoicePlay("X010300001_03_000");
 MsgDisp("Honda","A new talent emerges! Who knew I 

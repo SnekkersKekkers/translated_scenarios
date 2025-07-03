@@ -28,7 +28,7 @@ A lot of them set new personal bests.");
     VoicePlay("H2A0100001_01_020");
     MsgDisp("Kazama","You too.
 I know you put your all into this.");
-    MsgDisp("主人公","Y, yeah......");
+    MsgDisp("主人公","Y-Yeah......");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

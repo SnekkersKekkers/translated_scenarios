@@ -58,7 +58,7 @@ Sorry.");
     VoicePlay("L040800006_08_060");
     MsgDisp("Shirahane","Hm.
 But, you did your best, eh?");
-    MsgDisp("主人公","Y, yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);

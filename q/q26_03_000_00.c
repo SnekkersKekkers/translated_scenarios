@@ -21,7 +21,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q260300000_03_030");
-MsgDisp("Honda","S, sorry!");
+MsgDisp("Honda","S-Sorry!");
 SEPlay("EV_SE_799");
 ChClose(3);
 SEWait();

@@ -1,7 +1,6 @@
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(I did my absolute
-best this week!)");
+MsgDisp("主人公","(I tried my best this week!)");
 ChOpen(7,254,3,0,3,-1,-1,0,0);
 VoicePlay("X010700000_07_000");
 MsgDisp("Mikage","Studying can be addictive when you do

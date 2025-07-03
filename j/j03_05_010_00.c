@@ -13,7 +13,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("Hiiragi","Hi it's Hiiragi.
 Thank you for your message.
 I'm available that day.");
-    MsgDisp("主人公","Really? Then,on ｛日付｝ I'll be waiting
+    MsgDisp("主人公","Really? Then, on｛日付｝ I'll be waiting
 for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030501000_05_010");
     MsgDisp("Hiiragi","Yes.
@@ -21,7 +21,7 @@ Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
-I can't wait for the ｛日付｝ to come.)");
+I can't wait for ｛日付｝ to come.)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh,it's a call from ｛柊＊＊＊｝ )");
@@ -44,7 +44,7 @@ Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
-I can't wait for the ｛日付｝ to come.)");
+I can't wait for ｛日付｝ to come.)");
     break ;
     case 4:
     case 5:
@@ -69,7 +69,7 @@ On that day.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
-I can't wait for the ｛日付｝ to come.)");
+I can't wait for ｛日付｝ to come.)");
     break ;
     default :
     DbgAssert(1);

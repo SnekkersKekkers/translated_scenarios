@@ -14,10 +14,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102210001_22_010");
-MsgDisp("Hikaru","I got a nice painting from the art club
-so I put it up in the classroom 
-and it looks really stylish
-Hikaru's in a great mood▼");
+MsgDisp("Hikaru","Hikaru got a nice painting from the art club
+so she put it up in the classroom. It looks really 
+stylish so Hikaru's in a great mood▼");
 MsgDisp("主人公","Wow, is that so!
 By the way, about the flowers
 from the other d——");

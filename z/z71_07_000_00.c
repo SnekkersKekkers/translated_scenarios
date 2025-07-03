@@ -95,7 +95,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Z710700000_07_070");
 MsgDisp("Mikage","Good question.
-This girl is Moori, a female Holstein.
+This girl is Molly, a female Holstein.
 The real one is even more beautiful.");
 VoicePlay("Z710700000_41_050");
 MsgDisp("Male Student B","We know.
@@ -108,7 +108,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Z710700000_07_080");
-MsgDisp("Mikage","Moori is closer to family than a lover.
+MsgDisp("Mikage","Molly is closer to family than a lover.
 Just like you guys.");
 VoicePlay("Z710700000_44_010");
 MsgDisp("School Girl A","What?

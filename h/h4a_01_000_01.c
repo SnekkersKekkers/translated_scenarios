@@ -20,7 +20,7 @@ You did your best.");
     VoicePlay("H4A0100001_01_010");
     MsgDisp("Kazama","Don't make that face.
 You really impressed me out there.");
-    MsgDisp("主人公","O, okay.");
+    MsgDisp("主人公","O-Okay.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

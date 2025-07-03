@@ -14,7 +14,7 @@ VoicePlay("I570000000_49_020");
 MsgDisp("Manager","After you graduate, would you consider
 coming to work here?
 I'll be happy if you think about it.");
-MsgDisp("主人公","O, okay......");
+MsgDisp("主人公","O-Okay......");
 MsgDisp("主人公","(Working at this store......
 I'll think about it.)");
 MsgClose();

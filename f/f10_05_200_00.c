@@ -39,7 +39,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 MsgDisp("主人公","Ehh?");
 VoicePlay("F100520000_05_020");
-MsgDisp("Hiiragi","WHy would it sound sarcastic?");
+MsgDisp("Hiiragi","Why would it sound sarcastic?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

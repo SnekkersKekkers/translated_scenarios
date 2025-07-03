@@ -56,7 +56,7 @@ ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100100_01_050");
-MsgDisp("Kazama","That's why I siad it was trivial.
+MsgDisp("Kazama","That's why I said it was trivial.
 Or is it bad to call you for 
 something trivial?");
 MsgDisp("主人公","Hehe, that's not true.");

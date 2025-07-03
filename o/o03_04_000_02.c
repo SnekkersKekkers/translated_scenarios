@@ -50,7 +50,7 @@ better rank......)");
     ChMotion(4,0,1);
     VoicePlay("O030400002_04_040");
     MsgDisp("Nanatsumori","Then it's both our faults.");
-    MsgDisp("主人公","Y, yeah?");
+    MsgDisp("主人公","Y-Yeah?");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("O030400002_04_050");

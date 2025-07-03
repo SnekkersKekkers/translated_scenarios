@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(5,255,0,3,4,-1,-1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523101_05_000");
-MsgDisp("Hiiragi","Do you prefer to ride
-at the end or at the front??");
+MsgDisp("Hiiragi","Which do you prefer?
+Riding in front or in the back?");
 MsgSel("Hmm, which do you like, ｛柊＊＊＊｝?","I don't like either!","The end!");
 switch (MsgSelRsltGet()){
     case 0:

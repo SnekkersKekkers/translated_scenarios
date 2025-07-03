@@ -80,7 +80,7 @@ F'real?");
     VoicePlay("L040800003_08_090");
     MsgDisp("Shirahane","Thanks.
 I'll treasure it forever.");
-    MsgDisp("主人公","S, sure.
+    MsgDisp("主人公","S-Sure.
 But, try to eat it soon, okay?");
     ChEye(8,2);
     ChMouth(8,0);

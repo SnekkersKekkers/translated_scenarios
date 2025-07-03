@@ -26,7 +26,7 @@ I'll be right behind you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,1);
     ChClose(6);
-    MsgDisp("主人公","Y, yeah!");
+    MsgDisp("主人公","Y-Yeah!");
     MsgClose();
     ScrFadeOut(0);
     MsgDisp("","　　　　　　　　　　 ・

@@ -49,7 +49,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_040");
 MsgDisp("Kazama","I'm going to look for treasure 
-brought by the rough winter waves");
+brought by the rough winter waves.");
 MsgDisp("主人公","Treasure......");
 ChEye(1,1);
 ChMouth(1,2);
@@ -61,19 +61,18 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_060");
-MsgDisp("Kazama","Remember when I told you before? When I
+MsgDisp("Kazama","Remember what I told you before? When I
 was younger, I would look for driftwood
 with odd shapes and treasure it.");
-MsgDisp("主人公","Hee, sounds fun.");
+MsgDisp("主人公","Ehh, sounds fun.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_070");
-MsgDisp("Kazama","If you're interested in searching for
-driftwood, Next summer, I won't invite you
-to swim at the beach, but invite you to
-look for drift wood.");
-MsgDisp("主人公","Hehe, yeeees. ");
+MsgDisp("Kazama","Since you're interested...
+Next summer, instead of hitting the water, 
+how about we look for driftwood together?");
+MsgDisp("主人公","Hehe, I'd love to. ");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

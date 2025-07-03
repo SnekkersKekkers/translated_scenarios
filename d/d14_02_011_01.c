@@ -16,8 +16,7 @@ today aren't we?");
     ChMouth(2,3);
     ChMotion(2,3,1);
     VoicePlay("D140201101_02_010");
-    MsgDisp("Sassa","Oh, you have the same as me. It's the same
-as mine.");
+    MsgDisp("Sassa","Oh, you have the same as me.");
     MsgDisp("主人公","Hehe.
 Yeah, we're quite similar.");
     ChEye(2,0);

@@ -19,7 +19,7 @@ Oh no......");
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600000_06_000");
     MsgDisp("Himuro","Haa......");
-    MsgDisp("主人公","S, sorry.
+    MsgDisp("主人公","S-Sorry.
 I'll clean it up now.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -35,7 +35,7 @@ I'll clean it up now.");
     MsgDisp("Himuro","And don't relax just because
 you're used to the work.
 You'll make more mistakes.");
-    MsgDisp("主人公","O, okay.");
+    MsgDisp("主人公","O-Okay.");
     MsgDisp("主人公","(Like ｛氷室＊＊｝ told me to,
 I'll have to get it together......!)");
     break ;
@@ -48,7 +48,7 @@ Oh no......");
     ChMotion(6,0);
     VoicePlay("I460600000_06_030");
     MsgDisp("Himuro","…………");
-    MsgDisp("主人公","S, sorry!
+    MsgDisp("主人公","S-Sorry!
 I'll clean it up now.");
     ChEye(6,0);
     ChMouth(6,0);

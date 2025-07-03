@@ -13,7 +13,7 @@ VoicePlay("I170000000_45_020");
 MsgDisp("Manager","After you graduate, would you
 like to come work here?
 Please give it some thought.");
-MsgDisp("主人公","O, okay......");
+MsgDisp("主人公","O-Okay......");
 MsgDisp("主人公","(Working at this store......
 I'll think about it.)");
 MsgClose();

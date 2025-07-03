@@ -1,8 +1,7 @@
 MsgClose();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I did my absolute
-best this week!)");
+MsgDisp("主人公","(I tried my best this week!)");
 ChOpen(2,30,3,0,3,-1,-1,0,0);
 VoicePlay("X010200003_02_000");
 MsgDisp("Sassa","Yep, you're doing great.

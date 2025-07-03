@@ -22,7 +22,7 @@ please.");
     VoicePlay("I550600000_06_020");
     MsgDisp("Himuro","What?
 Hurry up.");
-    MsgDisp("主人公","S, sure.");
+    MsgDisp("主人公","S-Sure.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

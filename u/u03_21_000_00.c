@@ -23,7 +23,7 @@ I'll cherish it.");
 Hehe, let's match with each other.");
     SEPlay("EV_SE_083");
     MsgDisp("主人公","(\"I got a limited edition
-handbag!)");
+handbag!\")");
     SEPlay("EV_SE_080");
     MsgDisp("主人公","(I feel like my fashion sense
 has become better......)");

@@ -13,7 +13,7 @@ MsgDisp("Hiiragi","......Yes.
 What business is this regarding?");
 MsgDisp("主人公","(Uu,this feels awkward......
 But if I don't explain it now......)");
-MsgDisp("主人公","S, so......");
+MsgDisp("主人公","S-So......");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
