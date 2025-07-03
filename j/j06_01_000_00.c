@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060100000_01_000");
         MsgDisp("Kazama","Okay, that's settled.
 What about the meeting place?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝, sounds good?");
+        MsgDisp("主人公","At the ｛待ち合わせ場所｝, sounds good?");
         ChEye(1,3);
         ChMouth(1,3);
         ChMotion(1,3);

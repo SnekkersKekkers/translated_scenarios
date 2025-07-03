@@ -19,7 +19,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,2,1);
 VoicePlay("D010800300_08_020");
-MsgDisp("Shirahane","I wanna show you something.");
+MsgDisp("Shirahane","I wanna show ya something.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(8);
@@ -33,7 +33,7 @@ ScrFadeIn(0);
 SEWait();
 VoicePlay("D010800300_08_030");
 MsgDisp("Shirahane","Surprise∈
-All right answers");
+All correct answers.");
 MsgDisp("主人公","Is this your test?");
 StlEye(8,1);
 VoicePlay("D010800300_08_040");
