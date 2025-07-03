@@ -97,7 +97,7 @@ ChMotion(2,4);
 VoicePlay("B110200000_02_060");
 MsgDisp("Sassa","Is it cause I'm big?");
 MsgDisp("主人公","Hehe, yeah.
-Liek a gentle giant?");
+Like a gentle giant?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

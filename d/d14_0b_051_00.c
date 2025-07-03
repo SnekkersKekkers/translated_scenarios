@@ -24,7 +24,7 @@ ChMotion(3,1,1);
 VoicePlay("D140B05100_03_000");
 MsgDisp("Honda","I think it's better if 
 Ryo-kun sits in that seat.");
-MsgDisp("主人公","Are you talkinhg about 
+MsgDisp("主人公","Are you talking about 
 the seat next to me?");
 ChEye(3,3);
 ChMouth(3,3);

@@ -110,7 +110,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q110B00000_01_040");
 MsgDisp("Kazama","While you were looking at souvenirs
-We've been doing beadlo painting lesson.");
+We've been doing beadlo painting lessons.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -23,7 +23,7 @@ ChMotion(4,3,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("B070400000_04_570");
 MsgDisp("Nanatsumori","...Nothing really.
-It's liek this.");
+It's like this.");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2,1);

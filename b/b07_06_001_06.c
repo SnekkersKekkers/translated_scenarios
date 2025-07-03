@@ -1,6 +1,6 @@
-MsgDisp("主人公","｛氷室＊＊｝, ｛風真＊＊｝, ｛颯砂＊＊｝ and
-I... Wil also... will always continue to
-get along this well right?");
+MsgDisp("主人公","｛氷室＊＊｝, ｛風真＊＊｝, ｛颯砂＊＊｝
+and I... will always continue
+to get along this well right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

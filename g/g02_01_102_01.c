@@ -41,7 +41,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_050");
 MsgDisp("Kazama","You're gonna talk about me being your
-childhood friend or your classsmate,
+childhood friend or your classmate,
 right? Yeah, miracles, but coincidences
 too.");
 ChMotion(1,0);

@@ -63,7 +63,7 @@ The staging should be changed a bit......");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("Q070501000_05_050");
-MsgDisp("Hiiragi","This beadlo, is for you.");
+MsgDisp("Hiiragi","This beadlo is for you.");
 MsgDisp("主人公","Ah...... thanks!
 So pretty......!");
 ChEye(5,4);

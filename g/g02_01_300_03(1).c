@@ -48,7 +48,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020130003_01_050");
 MsgDisp("Kazama","Well, yeah.
 But it's only just us here no.");
-MsgDisp("主人公","Next time shall we come withe veryone?");
+MsgDisp("主人公","Next time shall we come with everyone?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -41,7 +41,7 @@ shout if you need any help.");
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040511000_05_030");
-    MsgDisp("Hiiragi","Let's do the fundementals then.
+    MsgDisp("Hiiragi","Let's do the fundamentals then.
 For anything more than that,
 let's learn it together.");
     MsgDispSksp(1,7);

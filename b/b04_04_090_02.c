@@ -9,7 +9,7 @@ VoicePlay("B040409002_04_000");
 MsgDisp("Nanatsumori","It's missing some impact...
 It would be good for them to 
 do a flashy event.");
-MsgSel("I think it's fine as it is though...","｛七ツ森＊｝ should produce it!","Liek setting off some huge fireworks?");
+MsgSel("I think it's fine as it is though...","｛七ツ森＊｝ should produce it!","Like setting off some huge fireworks?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){

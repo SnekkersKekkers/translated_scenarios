@@ -61,7 +61,7 @@ isn't just for yourself.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040208202_02_060");
-        MsgDisp("Sassa","All the special abilites and knowledge I
+        MsgDisp("Sassa","All the special abilities and knowledge I
 have are things I learned for myself.");
         ChEye(2,0);
         ChMouth(2,0);

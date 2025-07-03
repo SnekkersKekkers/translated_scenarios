@@ -29,7 +29,7 @@ The game's——");
     MsgDisp("Nanatsumori","Stop it...
 I was really looking forward to 
 the live gaming music.");
-    MsgDisp("主人公","Uugh... even more presure...");
+    MsgDisp("主人公","Uugh... even more pressure...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -61,7 +61,7 @@ stepping onto the field.");
     MsgDisp("Nanatsumori","I wish you a good fight!");
     MsgDisp("主人公","(Alright, for everyone who came
 all this way to listen, 
-let'd deliver a good perfromance!)");
+let'd deliver a good performance!)");
     break ;
     case 4:
     case 5:

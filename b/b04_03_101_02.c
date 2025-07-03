@@ -81,8 +81,8 @@ exhibits to you, right?");
         ChMotion(3,4);
         VoicePlay("B040310102_03_070");
         MsgDisp("Honda","There's always so much I want to talk
-about that my explanations for one thing end
-up shallowー This is truly my fault.");
+about that my explanations for one thing
+end up shallowー This is truly my fault.");
         MsgDisp("主人公","Eh, I never thought they were shallow——");
         ChEye(3,1);
         ChMouth(3,3);
@@ -90,8 +90,8 @@ up shallowー This is truly my fault.");
         VoicePlay("B040310102_03_080");
         MsgDisp("Honda","Today, let's take our time going through
 each one in order and exhausting
-everything I have to say. Okay, since it's been
-decided... Let's go!");
+everything I have to say. Okay, since it's
+been decided... Let's go!");
         MsgDisp("主人公","(Ehh! Right nowー∋)");
         break ;
         default :

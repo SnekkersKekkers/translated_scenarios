@@ -66,8 +66,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30500_04_030");
 MsgDisp("Nanatsumori","I like that feeling.
-Thatt's why it's fun 
-no matter when I go.");
+That's why it's fun no matter when I go.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4,1);

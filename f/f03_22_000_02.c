@@ -1,4 +1,5 @@
-MsgDisp("主人公","What kind of food do you like, ｛ひかる＊｝?");
+MsgDisp("主人公","What kind of food do you like,
+｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

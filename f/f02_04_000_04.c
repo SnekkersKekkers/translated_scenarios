@@ -59,4 +59,4 @@ MsgDisp("Nanatsumori","......but there's nothing like that at my
 house. 
 Man......it would be nice, though.");
 MsgDisp("主人公","(｛七ツ森＊｝ seems to have a
-suprisingly huge heart......)");
+surprisingly huge heart......)");

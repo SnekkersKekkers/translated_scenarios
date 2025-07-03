@@ -15,8 +15,8 @@ was well-received...)");
     ChOpen(3,254,1,0,3,-1,-1,0,0);
     VoicePlay("P630300001_03_000");
     MsgDisp("Honda","These are wondeful vegetables, huh!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome. Would you like to
-take a look at the Horticulture club's
+    MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome. Would you like
+to take a look at the Horticulture club's
 vegetables harvested in the morning?");
     ChEye(3,0);
     ChMouth(3,0);

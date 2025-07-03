@@ -76,7 +76,7 @@ envy towards Ryota-senpai,
 Nozomu-senpai, and her.");
 MsgClear();
 MsgDisp("","If they're that interested, 
-they shoudl just talk to them.");
+they should just talk to them.");
 MsgDisp("","The relationship with seniors isn't
 as troublesome as we juniors think.");
 MsgDisp("","I wonder what is so 'amazing' 

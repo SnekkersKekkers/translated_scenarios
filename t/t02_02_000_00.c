@@ -60,7 +60,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020200000_02_070");
 MsgDisp("Sassa","I thought I should change.
-But I couldn't supress 
+But I couldn't suppress 
 it or relax.");
 ChEye(2,2);
 ChMouth(2,0);

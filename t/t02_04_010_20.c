@@ -13,7 +13,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 ChCheek(4,0);
 VoicePlay("T020401000_04_140");
-MsgDisp("Nanatsumori","Haa...... That was probbaly the most
+MsgDisp("Nanatsumori","Haa...... That was probably the most
 nervous I've ever been in my life.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,4);

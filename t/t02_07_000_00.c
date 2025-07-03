@@ -54,7 +54,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020700000_07_060");
-MsgDisp("Mikage","Yes, you've burried all of my excuses for
+MsgDisp("Mikage","Yes, you've buried all of my excuses for
 running away from the family business. So
 I guess I'll just have to graduate and go
 home.");

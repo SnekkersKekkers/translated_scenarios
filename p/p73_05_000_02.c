@@ -90,7 +90,7 @@ when I look at you, no words come out.");
     VoicePlay("P730500002_05_080");
     MsgDisp("Hiiragi","Do not fret.
 You're that wonderful that 
-I hesitated to clal out to you.");
+I hesitated to call out to you.");
     MsgDisp("主人公","Really? I'm happy.");
     ChEye(5,4);
     ChMouth(5,4);

@@ -73,7 +73,7 @@ ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("B110200001_02_050");
 MsgDisp("Sassa","Hey, go sit in the shade.
-I'll clal some staff over.");
+I'll call some staff over.");
 MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);

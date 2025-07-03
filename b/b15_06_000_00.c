@@ -13,7 +13,7 @@ ChMotion(6,1);
 VoicePlay("B150600000_06_010");
 MsgDisp("Himuro","Were you unaware of it yourself?
 Even amongst girls, you're one 
-of the more aggresive ones.");
+of the more aggressive ones.");
 MsgDisp("主人公","...Do other girls touch you too, 
 ｛氷室＊＊｝?");
 ChEye(6,0);
@@ -30,7 +30,7 @@ Do you think I'd let just anyone
 touch me? You're the only 
 one who I would let do this!");
 MsgDisp("主人公","S-sorry!
-But, you said I'm aggresive...");
+But, you said I'm aggressive...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

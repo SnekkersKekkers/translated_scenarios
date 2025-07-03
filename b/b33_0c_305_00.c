@@ -129,7 +129,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C30500_05_020");
-MsgDisp("Hiiragi","Then, let's ahve another match.");
+MsgDisp("Hiiragi","Then, let's have another match.");
 MsgClose();
 SEPlay("EV_SE_856");
 ChClose(6,0,30);

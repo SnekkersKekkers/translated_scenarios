@@ -45,7 +45,7 @@ disrespectful of your own hard work.");
     ChMotion(2,1);
     VoicePlay("H4A0200001_02_040");
     MsgDisp("Sassa","It's something no one else but you
-can do. Right?　Look foward and keep
+can do. Right?　Look forward and keep
 going!");
     MsgDisp("主人公","(It's just as ｛颯砂＊＊｝ says.
 I lost, but I'm glad I stayed in the

@@ -43,7 +43,7 @@ VoicePlay("G020210000_02_050");
 MsgDisp("Sassa","It's like an athlete's pledge.
 No matter what rivals come, 
 I won't give anyone your place next to me.");
-MsgDisp("主人公","(? A compeition for me? ｛颯砂＊＊｝,what
+MsgDisp("主人公","(? A competition for me? ｛颯砂＊＊｝, what
 are you talking about......?)");
 BGMStop();
 MsgClose();

@@ -30,7 +30,7 @@ MsgDisp("Theater Member A","We're not cut out to be actors.");
 VoicePlay("D010500300_46_000");
 MsgDisp("Theater Member B","No matter how much we practice, we
 aren't good enough to satisfy the
-chariman. We're not enjoying ourselves.");
+chairman. We're not enjoying ourselves.");
 VoicePlay("D010500300_05_010");
 MsgDisp("Hiiragi","Why are you giving up so easily?");
 VoicePlay("D010500300_33_040");

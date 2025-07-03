@@ -29,7 +29,7 @@ VoicePlay("B360417001_04_020");
 MsgDisp("Nanatsumori","Ah... well, that's right.");
 ChMotion(4,0,1);
 VoicePlay("B360417001_04_030");
-MsgDisp("Nanatsumori","Whta's with this suddenly");
+MsgDisp("Nanatsumori","What's with this suddenly?");
 MsgDisp("主人公","I just thought about how it would 
 be cramped if the four of us tried 
 to fit in this room.");

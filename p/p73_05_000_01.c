@@ -9,7 +9,7 @@ switch (ChPrmGet(5,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This is my first time making a dress...
-I think it rturned out well but...)");
+I think it turned out well but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -63,7 +63,7 @@ Alright, let's do our best!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This is my first time making a dress...
-I think it rturned out well but...)");
+I think it turned out well but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

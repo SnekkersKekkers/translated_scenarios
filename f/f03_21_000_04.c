@@ -27,7 +27,7 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("F032100000_21_200");
 MsgDisp("Michiru","Maybe piano solos.
-I'm accquaintances with a famous pianist, 
+I'm acquaintances with a famous pianist, 
 and his performances are so wonderful
 that my heart trembles.");
 ChEye(21,0);

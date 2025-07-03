@@ -32,7 +32,7 @@ ChEyeOpenLevel(5,8);
 VoicePlay("B070500000_05_450");
 MsgDisp("Hiiragi","This is why, you really
 are... It can't be helped
-that it's beyond my abilites...");
+that it's beyond my abilities...");
 MsgDisp("主人公","（？？？）");
 BGMStop();
 MsgClose();

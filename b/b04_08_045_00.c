@@ -25,7 +25,7 @@ the same age as us...");
     VoicePlay("B040804500_08_010");
     MsgDisp("Shirahane","That's harsh...
 I thought it was pretty good.
-Their chariman is the same
+Their chairman is the same
 age as us too?");
     MsgDateResultDisp();
     break ;

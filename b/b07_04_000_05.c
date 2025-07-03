@@ -21,7 +21,7 @@ ChMouth(4,0);
 VoicePlay("B070400000_04_290");
 MsgDisp("Nanatsumori","Yeah, as I thought, it's no good.");
 MsgDisp("主人公","???
-Whta's no good?");
+What's no good?");
 ChEye(4,0);
 ChMouth(4,0);
 ChEyeOpenLevel(4,1);

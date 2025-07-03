@@ -67,8 +67,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G110300503_03_060");
-MsgDisp("Honda","So......
-The fun outweights the embarrassment right?");
+MsgDisp("Honda","So...... The fun outweighs the
+embarrassment right?");
 MsgDisp("主人公","Hehe, of course!");
 ChEye(3,3);
 ChMouth(3,3);

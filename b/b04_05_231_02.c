@@ -57,7 +57,7 @@ There are lots of other things too.");
         VoicePlay("B040523102_05_040");
         MsgDisp("Hiiragi","Pfft.");
         MsgDisp("主人公","Hm?
-Whta's wrong?");
+What's wrong?");
         ChEye(5,0);
         ChMotion(5,0);
         ChEyeOpenLevel(5,-1);

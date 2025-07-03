@@ -21,7 +21,7 @@ ChMotion(3,5,1);
 VoicePlay("F100440000_03_010");
 MsgDisp("Honda","Yay!");
 MsgDisp("主人公","Hey, what are you
-two talkinhg about?");
+two talking about?");
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("F100440000_04_010");

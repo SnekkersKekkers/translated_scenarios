@@ -47,8 +47,8 @@ MsgDisp("","The students said that all at once.
 It's a matter of memorizing the
 lines...");
 MsgClear();
-MsgDisp("主人公","\"Um, ｛御影＊＊｝... You accompanied me
-for all my practices, so do you
+MsgDisp("主人公","\"Um, ｛御影＊＊｝... You accompanied
+me for all my practices, so do you
 remember the lines?\"");
 MsgDisp("","Everyone in the class's eyes
 looked at me, all at once.");

@@ -89,7 +89,7 @@ Seems like I'm nervous after all.");
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500000_05_080");
     MsgDisp("Hiiragi","I apologise.
-I didn't intend on putting presure on you.");
+I didn't intend on putting pressure on you.");
     MsgDisp("主人公","No.
 I'm happy that you came to watch.");
     ChEye(5,0);

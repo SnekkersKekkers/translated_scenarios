@@ -54,7 +54,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F102220000_22_020");
 MsgDisp("Hikaru","Huh?
-He somethimes sneaks in though.
+He sometimes sneaks in though.
 Have you never seen him, Mari?");
 ChEye(22,0);
 ChMouth(22,0);

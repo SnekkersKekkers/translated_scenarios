@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(5,255,2,2,2,-1,-1,0,0);
 VoicePlay("B040502401_05_000");
 MsgDisp("Hiiragi","This is the sound of you and me...
-How shoudl I interpret this?");
+How should I interpret this?");
 MsgSel("There's an ominous feeling...","Two people who shouldn't meet","Scratch over that! Again!");
 switch (MsgSelRsltGet()){
     case 0:

@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     case 3:
     MsgDisp("主人公","(We're using the vegetables everyone grew
 as a meal, and having a herbal tea
-pavement cafe, this is my last cutural
+pavement cafe, this is my last cultural
 festival, a culmination the horticulture
 club's efforts...)");
     MsgClose();
@@ -38,7 +38,7 @@ An order for the organic vegetables set～!");
     case 5:
     MsgDisp("主人公","(We're using the vegetables everyone grew
 as a meal, and having a herbal tea
-pavement cafe, this is my last cutural
+pavement cafe, this is my last cultural
 festival, a culmination the horticulture
 club's efforts...)");
     MsgClose();

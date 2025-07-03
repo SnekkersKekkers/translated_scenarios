@@ -15,7 +15,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("H6G0200000_02_010");
 MsgDisp("Sassa","Are you playing dumb?
 I heard that you won the grand prize
-in the gardening club's compeition.");
+in the gardening club's competition.");
 MsgDisp("主人公","Yes, that's right.
 Is that why you came all the way here?");
 ChEye(2,0);

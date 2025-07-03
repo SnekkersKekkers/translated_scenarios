@@ -31,7 +31,7 @@ ChCheek(1,5);
 VoicePlay("B070100001_01_450");
 MsgDisp("Kazama","Yeah, I'm here.
 I guess the several year gap 
-has been burried quite a bit.");
+has been buried quite a bit.");
 MsgDisp("主人公","Yeah.");
 ChEye(1,0);
 ChMouth(1,3);

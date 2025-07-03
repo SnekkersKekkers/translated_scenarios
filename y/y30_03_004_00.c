@@ -38,7 +38,7 @@ MsgDisp("Nanatsumori","\"You take so long to even start...\"");
 MsgDisp("","They say, sounding exasperated.
 Getting them to feel anticipation is
 important too. This is the
-fundementals of storytelling.");
+fundamentals of storytelling.");
 MsgClear();
 BGOpen("ad342",0);
 VoicePlay("Y300300400_03_010");

@@ -38,7 +38,7 @@ ChMotion ( 2,1 ) ;
 ChEyeOpenLevel ( 2,0 ) ;
 VoicePlay ( "D150001200_02_020" ) ;
 MsgDisp ( "颯砂","After we finish eating we should go
-outside and play like kindergarteners,
+outside and play like kindergartners,
 then." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;

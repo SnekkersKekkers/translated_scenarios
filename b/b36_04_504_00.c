@@ -49,7 +49,7 @@ MsgDisp("Nanatsumori","I got carried away, and before
 I knew it, 
 I was chasing after you.");
 VoicePlay("B360450400_04_060");
-MsgDisp("Nanatsumori","This season, I can't supress my feelings
+MsgDisp("Nanatsumori","This season, I can't suppress my feelings
 of wanting to be with you.");
 ChEye(4,0);
 ChMouth(4,4);

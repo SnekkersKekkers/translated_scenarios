@@ -86,7 +86,7 @@ It's super exciting.");
         ChEye(3,0);
         ChMouth(3,0);
         VoicePlay("B040308102_03_080");
-        MsgDisp("Honda","So thatt's why, if I could give you
+        MsgDisp("Honda","So that's why, if I could give you
 something back I would be happy.");
         MsgDisp("主人公","You've taught me so many things, 
 Not just here, 

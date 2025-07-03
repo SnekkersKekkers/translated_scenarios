@@ -32,7 +32,7 @@ ChMouth(5,4);
 VoicePlay("B040506402_05_030");
 MsgDisp("Hiiragi","Thank you very much.");
 VoicePlay("B040506402_47_010");
-MsgDisp("Night Market Clerk","Chariman, you don't hold back, huh.
+MsgDisp("Night Market Clerk","Chairman, you don't hold back, huh.
 Alright～!");
 ChEye(5,0);
 ChMouth(5,2);

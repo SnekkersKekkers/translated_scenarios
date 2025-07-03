@@ -69,7 +69,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10500_07_030");
-MsgDisp("Mikage","Being chariman is tough huh. Today I'll do
+MsgDisp("Mikage","Being chairman is tough huh. Today I'll do
 anything, even carry your bags.");
 ChEye(6,0);
 ChMouth(6,4);

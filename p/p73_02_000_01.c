@@ -29,7 +29,7 @@ Legit?");
     VoicePlay("P730200001_02_020");
     MsgDisp("Sassa","You're laughing.
 Obviously, it's weird for me to talk 
-about someoen being a model.");
+about someone being a model.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

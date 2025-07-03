@@ -4,7 +4,7 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm glad!
-It seems like my first peformance 
+It seems like my first performance 
 was a huge success!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);

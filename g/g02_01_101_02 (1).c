@@ -46,7 +46,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110102_01_060");
 MsgDisp("Kazama","If I were a firefly, I'd fly to you with
-poinpoint accuracy. I don't need flashy
+pinpoint accuracy. I don't need flashy
 colors like them.");
 ChMotion(1,0);
 Wait(10,0);

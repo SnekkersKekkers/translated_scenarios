@@ -19,7 +19,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A04000_02_010");
 MsgDisp("Sassa","For sure.
-He'll probbaly never forgive us.");
+He'll probably never forgive us.");
 MsgDisp("主人公","I wonder...?");
 ChEye(6,0);
 ChMouth(6,0);
