@@ -41,7 +41,7 @@ VoicePlay("Q110500000_05_040");
 MsgDisp("Hiiragi","It's from Nagasaki glass.
 Could you use it?");
 MsgDisp("主人公","Yeah, of course.
-Thanks, ｛柊＊＊＊｝ !
+Thanks, ｛柊＊＊＊｝!
 Where did you find such a pretty one?");
 ChEye(5,0);
 ChMotion(5,4);

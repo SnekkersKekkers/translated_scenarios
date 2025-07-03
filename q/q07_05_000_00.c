@@ -4,7 +4,7 @@ BGOpen("sc820",0);
 MsgClose();
 ChOpen(5,254,0,0,4,-1,-1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...... look, ｛柊＊＊＊｝ !
+MsgDisp("主人公","Wow...... look, ｛柊＊＊＊｝!
 The windmills and flowers are so pretty.");
 ChEye(5,4);
 ChMotion(5,4);
@@ -106,7 +106,7 @@ VoicePlay("Q070500000_05_090");
 MsgDisp("Hiiragi","Nagasaki is lovely, but,
 Do you still miss Habataki City more?");
 MsgDisp("主人公","No, since it's only been three days.
-And you, ｛柊＊＊＊｝ ?");
+And you, ｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

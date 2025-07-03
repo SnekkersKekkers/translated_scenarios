@@ -22,7 +22,7 @@ edition, I'm looking forward.");
     MsgDisp("Mikage","Good morning!
 Looks like you slept well.");
     MsgDisp("主人公","Yes.
-And you, ｛御影＊＊｝ ?");
+And you, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

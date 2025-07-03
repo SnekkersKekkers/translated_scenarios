@@ -45,8 +45,8 @@ lesson.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("Q120700000_07_040");
-    MsgDisp("Mikage","Alright, we have don't have a chime,
-But this is the end.");
+    MsgDisp("Mikage","Alright, there's no bell ringing
+but this is still the end.");
     MsgDisp("主人公","Ok!
 Thank you very much for today!");
     ChEye(7,0);
@@ -58,8 +58,8 @@ Oh, I'll spare you from submitting the
 report.");
     ChClose(7);
     MsgDisp("主人公","(Hehe!
-That was so much fun I want to write a 
-report. Thank you, ｛御影＊＊｝.)");
+That was so much fun. I want to write 
+about it. Thank you, ｛御影＊＊｝.)");
     break ;
     case 4:
     case 5:
@@ -96,7 +96,7 @@ Don't get soggy.");
 If you see the tulips every year,
 You get reminded of this school trip.");
     MsgDisp("主人公","Yes.
-Will you also remember, ｛御影＊＊｝ ?");
+Will you also remember, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

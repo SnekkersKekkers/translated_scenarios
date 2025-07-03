@@ -86,7 +86,7 @@ stuff like school events.");
     VoicePlay("Q120400000_04_110");
     MsgDisp("Nanatsumori","I wondered if you actually wanted to go 
 around more other places.");
-    MsgDisp("主人公","And you, ｛七ツ森＊｝ ?");
+    MsgDisp("主人公","And you, ｛七ツ森＊｝?");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_120");
     MsgDisp("Nanatsumori","Eh......");

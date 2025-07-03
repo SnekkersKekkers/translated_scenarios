@@ -4,7 +4,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("Q110700000_07_000");
-MsgDisp("Mikage","Could you do some good shopping?");
+MsgDisp("Mikage","Did you get to do some good shopping?");
 MsgDisp("主人公","Yes.
 Plenty of castella for my family and 
 myself.");
@@ -14,7 +14,7 @@ ChMotion(7,3);
 VoicePlay("Q110700000_07_010");
 MsgDisp("Mikage","That's nice.
 I tasted too, it was yummy.");
-MsgDisp("主人公","What did you buy, ｛御影＊＊｝ ?");
+MsgDisp("主人公","What did you buy, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

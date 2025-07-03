@@ -4,4 +4,4 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","Oh, a message from 
-｛七ツ森＊｝ !");
+｛七ツ森＊｝!");

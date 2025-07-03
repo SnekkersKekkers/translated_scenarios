@@ -108,7 +108,7 @@ MsgDisp("Kazama","It's amazing how the owner came to
 a foreign country 9000km from the UK,
 such long time ago.");
 MsgDisp("主人公","Do you understand the feeling
-he may have had, ｛風真＊＊｝ ?");
+he may have had, ｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

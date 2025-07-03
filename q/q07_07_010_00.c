@@ -9,7 +9,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(21,30,0,0,0,-1,-1,0,1,0,30);
 ChOpen(22,30,0,0,0,-1,-1,0,2,0,30);
-MsgDisp("主人公","Ah, ｛ひかる＊｝ and ｛みちる＊｝ !");
+MsgDisp("主人公","Ah, ｛ひかる＊｝ and ｛みちる＊｝!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,1);

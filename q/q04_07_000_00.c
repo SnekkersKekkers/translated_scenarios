@@ -2,7 +2,7 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛御影＊＊｝ !");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(7,254,0,0,0,-1,-1,0,0);

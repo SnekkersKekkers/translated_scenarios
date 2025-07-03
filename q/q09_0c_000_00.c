@@ -48,7 +48,7 @@ ChMotion(5,4);
 VoicePlay("Q090C00000_05_020");
 MsgDisp("Hiiragi","Inori kun's gonna be angry～");
 MsgDisp("主人公","(Hehe!
-What should I buy ｛氷室＊＊｝ ?)");
+What should I buy ｛氷室＊＊｝?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

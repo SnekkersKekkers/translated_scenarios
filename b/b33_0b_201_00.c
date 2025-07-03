@@ -93,7 +93,7 @@ also definitely come to like it.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","(I'm pretty sure it'll b
-e a no-go for ｛七ツ森＊｝ ...");
+e a no-go for ｛七ツ森＊｝...");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

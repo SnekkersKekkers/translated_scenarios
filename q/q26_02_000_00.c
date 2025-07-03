@@ -11,7 +11,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("Q260200000_02_010");
 MsgDisp("Sassa","You ∋");
-MsgDisp("主人公","Eh, ｛颯砂＊＊｝ ?
+MsgDisp("主人公","Eh, ｛颯砂＊＊｝?
 Wait, so that was......");
 ChEye(2,2);
 ChMouth(2,0);

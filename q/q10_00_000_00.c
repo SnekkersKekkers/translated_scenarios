@@ -3,7 +3,7 @@ ScrFadeOut(0);
 BGOpen("sc822",0);
 BGMPlay("BGM_PLACE_TRAVEL",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Here we are at glasses Bridge.
+MsgDisp("主人公","Here we are at Glasses Bridge.
 I'm happy I got able to come here
 before going to the souvenir shop,");
 MsgDisp("主人公","Wow...... 

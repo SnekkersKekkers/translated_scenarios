@@ -14,7 +14,7 @@ Thanks in advance for today!");
 Well, let's go.");
     break ;
     case 3:
-    MsgDisp("主人公","......Ah, ｛颯砂＊＊｝ !");
+    MsgDisp("主人公","......Ah, ｛颯砂＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(2,254,3,0,4,-1,-1,0,0);

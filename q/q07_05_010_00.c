@@ -112,7 +112,7 @@ BGMStop(2);
 MsgClose();
 ScrFadeOut(0,0);
 Wait(60,0);
-MsgDisp("主人公","( ｛柊＊＊＊｝ ......
+MsgDisp("主人公","(｛柊＊＊＊｝......
 Thanks for the nice gift......)");
 MsgClose();
 Wait(40,0);

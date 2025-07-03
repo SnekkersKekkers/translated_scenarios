@@ -96,7 +96,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q100700000_07_060");
 MsgDisp("Mikage","Hey, wait.
-Mix me too.");
+Keep me included, too.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,30);
@@ -122,7 +122,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q100700000_07_080");
 MsgDisp("Mikage","I see.
-You could have gone with Hanatsubaki,
+You could have gone with the Hanatsubakis,
 y'know?");
 MsgDisp("主人公","No, I can't.
 ｛みちる＊｝ and ｛ひかる＊｝ are too
@@ -132,23 +132,23 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q100700000_07_090");
 MsgDisp("Mikage","They do seem to have many to give.
-So, aren't you looking?
-The souvenirs.");
-MsgDisp("主人公","Yes, but only to buy for my family.
-And you, ｛御影＊＊｝ ?");
+So, you aren't interested?
+In the souvenirs.");
+MsgDisp("主人公","Yes, but only as a gift for my family.
+And you, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q100700000_07_100");
 MsgDisp("Mikage","The only ones waiting for me at home 
 are the plants, so.");
-MsgDisp("主人公","Are you giving a souvenir to the
+MsgDisp("主人公","Will you give a souvenir to the
 plants?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("Q100700000_07_110");
-MsgDisp("Mikage","Doesn't sound bad......
+MsgDisp("Mikage","That doesn't sound half bad......
 Well, I guess I'll be hanging here.
 I don't want to disturb you.");
 ChEye(7,0);

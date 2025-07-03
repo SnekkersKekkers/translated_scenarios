@@ -5,7 +5,7 @@ switch (ChPrmGet(1,6)){
     case 2:
     MsgDisp("主人公","(Er,
 ｛風真＊＊｝ is...... Ah, there!)");
-    MsgDisp("主人公","Good morning, ｛風真＊＊｝ !");
+    MsgDisp("主人公","Good morning, ｛風真＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,-1,-1,0,0);
@@ -49,7 +49,7 @@ Let's go then.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,-1,-1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝ !
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Good morning.
 You're here already?");
     ChEye(1,0);

@@ -8,7 +8,7 @@ VoicePlay("Q260300000_03_000");
 MsgDisp("Honda","……∈");
 VoicePlay("Q260300000_03_010");
 MsgDisp("Honda","So it really was you∋");
-MsgDisp("主人公","Eh, ｛本多＊＊｝ ?
+MsgDisp("主人公","Eh, ｛本多＊＊｝?
 So just now, I......");
 ChEye(3,4);
 ChMouth(3,4);

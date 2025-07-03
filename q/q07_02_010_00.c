@@ -25,7 +25,7 @@ Wait(40,0);
 VoicePlay("Q070201000_02_000");
 MsgDisp("Sassa?","Hey, Over here∈");
 MsgDisp("主人公","Eh?
-Ah...... ｛颯砂＊＊｝ !");
+Ah...... ｛颯砂＊＊｝!");
 MsgClose();
 EnvAutoSet(0);
 EnvPlay("SE_ENV_BG_AD006_CO1",0,0.9);

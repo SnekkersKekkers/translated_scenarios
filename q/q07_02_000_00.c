@@ -151,7 +151,7 @@ MsgDisp("Sassa","It's like if I don't win all the races
 at the tournament,
 that I'd quit athletics.");
 MsgDisp("主人公","Eeh?
-...... ｛颯砂＊＊｝ ?");
+...... ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -164,7 +164,7 @@ VoicePlay("Q070200000_02_170");
 MsgDisp("Sassa","But on the otherside, 
 I know you'd have to have such willpower 
 to challenge the dream beyond.");
-MsgDisp("主人公","You can do this, ｛颯砂＊＊｝ !");
+MsgDisp("主人公","You can do this, ｛颯砂＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
