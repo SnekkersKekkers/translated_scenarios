@@ -1,8 +1,8 @@
 BGOpen("sc604",0);
 ScrFadeIn(0);
 VoicePlay("P513200002_33_000");
-MsgDisp("Manager","Our brass band decided to play『Force
-Heart』at this year's school festival.");
+MsgDisp("Manager","Our brass band decided to play\"Force
+Heart\"at this year's school festival.");
 SEPlay("EV_SE_CLAP_004");
 Wait(100,0);
 MsgClose();
@@ -38,7 +38,7 @@ MsgDisp("Vice Principal Himuro","Okay.");
 ChEye(32,0);
 ChMouth(32,1);
 VoicePlay("P513200002_32_050");
-MsgDisp("Vice Principal Himuro","Let your『Force Heart』burn completely!");
+MsgDisp("Vice Principal Himuro","Let your\"Force Heart\"burn completely!");
 VoicePlay("P513200002_38_010");
 MsgDisp("Members","Yes∈");
 MsgDisp("主人公","Yes! I'll do my best.∈");

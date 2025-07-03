@@ -13,7 +13,7 @@ We are preparing for the cultural
 festival for the next two weeks.");
 VoicePlay("P510000102_33_010");
 MsgDisp("Manager","Our club's performance for this
-year is『Fourth Heart』");
+year is \"Fourth Heart\".");
 VoicePlay("P510000102_33_020");
 MsgDisp("Manager","You don't have to push yourself too hard,
 but please try to recover as soon as

@@ -6,7 +6,7 @@ There must be a lot of non-school
 visitors.)");
 VoicePlay("F110210002_49_000");
 MsgDisp("Woman","What's this? 
-『The Classroom Kiddie Race』!");
+\"The Classroom Kiddie Race\"!");
 VoicePlay("F110210002_44_000");
 MsgDisp("Boy","Wah, let's go, let's go!");
 MsgDisp("主人公","(Classroom Kiddie Race...?)");

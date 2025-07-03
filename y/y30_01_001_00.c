@@ -79,8 +79,8 @@ MsgClear();
 MsgDisp("","- I couldn't stop crying.");
 MsgDisp("","After bothering my mom,
 I sat at my desk and wrote a card.");
-MsgDisp("","『Merry Christmas』
-『Happy New Year』");
+MsgDisp("","\"Merry Christmas\"
+\"Happy New Year\"");
 MsgDisp("","The colorful letters on the card were
 the stark opposite of my feelings, -
 I couldn't write a word.");

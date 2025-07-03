@@ -69,9 +69,9 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_070");
-MsgDisp("Kazama","Since you're interested...
-Next summer, instead of hitting the water, 
-how about we look for driftwood together?");
+MsgDisp("Kazama","Since you're interested... Next summer,
+instead of hitting the water, how about we
+look for driftwood together?");
 MsgDisp("主人公","Hehe, I'd love to. ");
 BGMStop();
 MsgClose();

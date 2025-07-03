@@ -13,7 +13,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("Hiiragi","Hi it's Hiiragi.
 Thank you for your message.
 I'm available that day.");
-    MsgDisp("主人公","Really? Then, on｛日付｝ I'll be waiting
+    MsgDisp("主人公","Really? Then, on ｛日付｝ I'll be waiting
 for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030501000_05_010");
     MsgDisp("Hiiragi","Yes.

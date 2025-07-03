@@ -35,7 +35,7 @@ lovers.)");
 MsgDisp("主人公","(......I can't get distracted!
 I have to tell everyone about the charm
 of this place.)");
-MsgDisp("主人公","(A trendy new spot 『Wan Nyan House』,
+MsgDisp("主人公","(A trendy new spot \"Wan Nyan House\",
 I have to go home and write the article
 right away♪)");
 BGMStop();

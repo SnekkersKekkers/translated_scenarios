@@ -99,7 +99,7 @@ MsgDisp("Sassa","......Yeah.
 This is my first time looking so cool.");
 VoicePlay("B050200300_31_070");
 MsgDisp("Goro","Yep.
-I went with 『Goro's Fresh Collection\"』!");
+I went with \"Goro's Fresh Collection\"\"!");
 MsgDisp("主人公","Ah, that fashion collection is
 featured on Habacha......");
 StlEye(2,1);

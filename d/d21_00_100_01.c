@@ -37,7 +37,7 @@ What a beautiful sound......Is that a good
 sign?)");
 SEStop("EV_SE_517",2);
 MsgDisp("主人公","(Yep, this is a perfect date spot.
-A new trendy spot, 『The Wharf』, I'll go
+A new trendy spot, \"The Wharf\", I'll go
 back now and write an article about it!)");
 MsgClose();
 EnvAutoSet(1);

@@ -17,7 +17,7 @@ MsgClose();
 BGOpen("sc821",0);
 ScrFadeIn(0);
 MsgDisp("主人公","I wonder what that huge tower is......
-『Domtoren』? Huh, so it's made after a 
+\"Domtoren\"? Huh, so it's made after a 
 church bell overseas.");
 MsgDisp("主人公","I'm sure the view from there 
 would be magnificent ......");
