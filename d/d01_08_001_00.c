@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(8,35,0,3,3,0,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_000");
-MsgDisp("Shirahane","Okay, 5 Rich will be your change.");
+MsgDisp("Shirahane","Okay, 5 Rich will be yer change.");
 VoicePlay("D010800100_48_000");
 MsgDisp("Woman Customer A","Oh my, what lovely service.
 Can't you give me a bit more～?");
@@ -12,7 +12,7 @@ ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,3,1);
 VoicePlay("D010800100_08_010");
-MsgDisp("Shirahane","I can't give you more.
+MsgDisp("Shirahane","I can't give ya more.
 The store would go broke!");
 VoicePlay("D010800100_48_010");
 MsgDisp("Woman Customer A","Hahaha!
@@ -23,7 +23,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("D010800100_08_020");
-MsgDisp("Shirahane","Thank you for coming～!");
+MsgDisp("Shirahane","Thank'ya for coming～!");
 SEStop("EV_SE_589",2);
 MsgDisp("主人公","(Hehe, ｛大地＊＊｝ is doing well today,
 too.)");
@@ -45,8 +45,8 @@ please.");
 StlEyeOpenLevel(8,5);
 VoicePlay("D010800100_08_040");
 MsgDisp("Shirahane","No problem!
-You can have some coffee at the service
-counter while you wait.");
+Ya can have some coffee at the service
+counter while ya wait.");
 VoicePlay("D010800100_08_050");
 MsgDisp("Shirahane","Ah, the coffee is free but please limit
 yourself to less than 20 cups!");
@@ -75,7 +75,7 @@ That's okay, right? Daichi-kun▼");
 StlEyeOpenLevel(8,-1);
 VoicePlay("D010800100_08_080");
 MsgDisp("Shirahane","For our lady customers......Sure!
-You can have two handfuls!");
+Ya can have two handfuls!");
 SEPlay("EV_SE_634");
 Wait(50,0);
 MsgClose();
@@ -89,13 +89,13 @@ MsgClose();
 ChOpen(8,35,0,3,3,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_090");
-MsgDisp("Shirahane","Thank you for coming～!");
+MsgDisp("Shirahane","Thank ya for coming～!");
 MsgDisp("主人公","｛大地＊＊｝ was popular today, huh?");
 ChEye(8,2);
 ChMouth(8,3);
 VoicePlay("D010800100_08_100");
 MsgDisp("Shirahane","It's not like that.
-Those people come here all the time.");
+Those people c'mere all the time.");
 MsgDisp("主人公","But it looked like they came here
 just to see you, ｛大地＊＊｝.");
 ChEye(8,0);

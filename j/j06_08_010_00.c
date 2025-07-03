@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060801000_08_000");
         MsgDisp("Daichi","I'll meet you there!
 Yeah, ...... where should we meet up?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝, sounds good?");
+        MsgDisp("主人公","At the ｛待ち合わせ場所｝, sounds good?");
         VoicePlay("J060801000_08_010");
         MsgDisp("Daichi","I'll do that.
 Well, I'll see you on the day!");

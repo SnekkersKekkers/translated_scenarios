@@ -6,9 +6,9 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040824100_08_000");
 MsgDisp("Shirahane","It's so spacious...
-it would be nice to sprint around
+It would be nice to sprint around
 here to our heart's content...");
-MsgSel("It feels nice ti be surrounded by Mother Nature!","....There's nothing here.","That cow keeps looking this way...");
+MsgSel("It feels nice to be surrounded by Mother Nature!","....There's nothing here.","That cow keeps looking this way...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
