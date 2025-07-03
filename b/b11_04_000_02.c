@@ -46,7 +46,7 @@ VoicePlay("B110400002_35_040");
 ChEye(35,2);
 ChMouth(35,2);
 MsgDisp("Guy","Huh?
-High school model Ｎａｎａ-kun?
+High school model Nana-kun?
 That's you? Right?");
 MsgDispSksp(1,5);
 ChEye(4,0);

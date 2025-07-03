@@ -38,7 +38,7 @@ BGOpen("ex100",0);
 BGMPlay("BGM_C04_NANA_C",0.01);
 ScrFadeIn(0);
 VoicePlay("D010400300_41_000");
-MsgDisp("Staff A","Ｎａｎａ-kun, that vibe is perfect～!
+MsgDisp("Staff A","Nana-kun, that vibe is perfect～!
 Now look at the camera.");
 SEPlay("EV_SE_041");
 SEWait();

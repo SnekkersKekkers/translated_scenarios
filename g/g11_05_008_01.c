@@ -64,7 +64,7 @@ MsgDisp("Hiiragi","Yes, of course.
 I told you I like this time, didn't I?
 I won't fall asleep.");
 MsgDisp("主人公","Yes.
-But, don't push yurself too hard.");
+But, don't push yourself too hard.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

@@ -53,7 +53,7 @@ that multi-faceted sort of like.");
 MsgDisp("主人公","(Multi-faceted? Not a \"Double life\"?
 You are talking about the four
 eyes ｛七ツ森＊｝ at school
-And the model \"Ｎａｎａ\" right...?)");
+And the model \"Nana\" right...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

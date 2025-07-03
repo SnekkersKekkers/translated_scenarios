@@ -37,7 +37,7 @@ VoicePlay("D010400500_39_040");
 MsgDisp("Male Student C","Oy, don't pull on the book!
 You'll tear the Nana special edition∋");
 MsgDisp("主人公","(Come to think of it, this month's
-issue is on new items from \"Ｎａｎａ\".)");
+issue is on new items from \"Nana\".)");
 StlMouthOpenLevel(4,0);
 VoicePlay("D010400500_04_000");
 MsgDisp("Nanatsumori","…………");
@@ -71,7 +71,7 @@ SEVol(0.7);
 SEPlay("EV_SE_GAYA_016",0,0.3);
 SEPlay("EV_SE_864",0,0.8);
 MsgDisp("主人公","(Hehe!
-Everyone is excited about \"Ｎａｎａ\")");
+Everyone is excited about \"Nana\")");
 VoicePlay("D010400500_39_120");
 MsgDisp("Male Student C","Hey, Nanatsumori.");
 StlEye(4,1);

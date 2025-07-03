@@ -74,14 +74,14 @@ StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("B050800300_08_070");
 MsgDisp("Shirahane","Well, that's fine but...
-I guess I can't be like Ｎａｎａ 
+I guess I can't be like Nana 
 after all.");
 MsgDisp("主人公","Eh?");
 StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("B050800300_08_080");
 MsgDisp("Shirahane","I saw a photo of the high school
-model Ｎａｎａ weaing this item. ");
+model Nana weaing this item. ");
 StlEye(8,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5);

@@ -32,7 +32,7 @@ lots more about it...");
     ScrFadeIn(0);
     VoicePlay("B040410300_04_020");
     MsgDisp("Nanatsumori","Me? 
-Ahh, you mean Ｎａｎａ.
+Ahh, you mean Nana.
 We're on different playing fields, 
 but I'd like to be aware of that.");
     MsgDispSksp(1,0);

@@ -45,7 +45,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B050400000_47_000");
 MsgDisp("Woman Customer A","Hey hey, over thre.
-Is that Ｎａｎａ?");
+Is that Nana?");
 VoicePlay("B050400000_48_000");
 MsgDisp("Woman Customer B","Eh, seriously?
 Doesn't it look like he's with a girl?");
@@ -106,13 +106,13 @@ MsgDisp("Woman Customer B","Eh, seriously∋
 They're super lovey-dovey!");
 VoicePlay("B050400000_47_020");
 MsgDisp("Woman Customer A","I don't believe it...
-I mean that's really Ｎａｎａ isn't it.");
+I mean that's really Nana isn't it.");
 VoicePlay("B050400000_48_020");
 MsgDisp("Woman Customer B","But it's kinda suspicious.
 If he was the real deal, 
 he wouldn't stand like thatー.");
 VoicePlay("B050400000_47_030");
-MsgDisp("Woman Customer A","Got it, he's Ｎａｎａ's fan!'
+MsgDisp("Woman Customer A","Got it, he's Nana's fan!'
 There are quite a lot of guys who copy 
 Nana's hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
@@ -120,7 +120,7 @@ MsgDisp("Woman Customer B","That's right.
 Ah,ーー, I got  a huge frightー!");
 MsgDisp("主人公","(I'm glad...
 Looks like they didn't even 
-discover it was \"Ｎａｎａ\". )");
+discover it was \"Nana\". )");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("B050400000_04_060");
@@ -155,7 +155,7 @@ ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B050400000_04_090");
 MsgDisp("Nanatsumori","Those two shared a filter that made 
-them believe that \"Ｎａｎａ\" couldn't 
+them believe that \"Nana\" couldn't 
 have a girlfriend.");
 MsgDisp("主人公","I see.
 I'm glad your true identity 

@@ -4,7 +4,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_609");
 SEWait();
 MsgDisp("主人公","…………");
-MsgDisp("主人公","Like usual, Ｎａｎａ looks really cool in
+MsgDisp("主人公","Like usual, Nana looks really cool in
 this edition of Habacha.");
 MsgDisp("主人公","(I still can't believe I know such a
 famous person......)");
@@ -21,7 +21,7 @@ time.");
 VoicePlay("D010400400_04_010");
 MsgDisp("Nanatsumori","Habacha?");
 MsgDisp("主人公","Yeah.
-This month is a Ｎａｎａ edition▼");
+This month is a Nana edition▼");
 ChMotion(4,0,1);
 VoicePlay("D010400400_04_020");
 MsgDisp("Nanatsumori","I see......");

@@ -22,7 +22,7 @@ ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("B040406400_04_030");
 MsgDisp("Nanatsumori","Whether I'm Minori Nanatsumori ot
-Ｎａｎａ, I can't upload it. And they'll
+Nana, I can't upload it. And they'll
 also wonder who took the picture.");
 MsgDisp("主人公","Ah...I see.");
 ChEye(4,4);
@@ -30,7 +30,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B040406400_04_040");
 MsgDisp("Nanatsumori","At least, he's quite well-known
-around town. That \"Ｎａｎａ\" person
+around town. That \"Nana\" person
 that is.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);
