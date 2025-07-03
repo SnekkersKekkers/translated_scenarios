@@ -2,7 +2,7 @@ BGOpen("sc606",0);
 ScrFadeIn(0);
 VoicePlay("P610700001_46_000");
 MsgDisp("Manager","For this year's cultural festival club
-program, We, the horticulture club have
+program, We, the Gardening Club have
 decided to conduct a display and sale of
 herbal tea and vegetables.");
 MsgClose();

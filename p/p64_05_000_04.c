@@ -29,11 +29,11 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P640500004_05_030");
 MsgDisp("Hiiragi","I see. This is a culmination of 
-your activities in the Horticulture club.
+your activities in the Gardening Club.
 It's a huge success, congratulations!");
 MsgDisp("主人公","Hehe, thank you!");
 MsgDisp("主人公","(I'm truly glad I gave it my best the last
-three years in the horticulture club...!)");
+three years in the Gardening Club...!)");
 MsgClose();
 BGMStop();
 MsgClose();

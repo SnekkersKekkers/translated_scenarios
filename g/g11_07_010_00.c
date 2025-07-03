@@ -75,7 +75,7 @@ MsgDisp("Mikage","Congratulations!
 I'll say it 99 more times.");
 MsgDisp("主人公","(｛御影＊＊｝ is really happy for me. I'm
 really glad I worked hard at the
-Horticulture Club!)");
+Gardening Club!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

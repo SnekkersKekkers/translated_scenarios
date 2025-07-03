@@ -14,13 +14,13 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("X120200001_02_000");
-    MsgDisp("Sassa","Thanks to the horticulture club, 
+    MsgDisp("Sassa","Thanks to the Gardening Club, 
 the flower bed at school are always so
 beautiful. We're all grateful.
 Thank you!");
     MsgDisp("主人公","(Yay!
 I'm glad I gave it my all in the
-Horticulture club activiies.)");
+Gardening Club activiies.)");
     break ;
     case 4:
     case 5:

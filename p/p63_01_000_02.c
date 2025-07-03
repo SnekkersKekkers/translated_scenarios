@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChOpen(1,254,0,0,0,-1,-1,0,0);
     VoicePlay("P630100002_01_000");
@@ -24,7 +24,7 @@ Welcome!");
     MsgDisp("Kazama","So we can eat here this year.");
     MsgDisp("主人公","Yes. We're serving dishes made using the
 vegetables organically grown by the
-horticulture club.");
+Gardening Club.");
     ChMouth(1,3);
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
@@ -50,7 +50,7 @@ I've received your order～!");
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChOpen(1,254,0,0,3,-1,-1,0,0);
     VoicePlay("P630100002_01_040");

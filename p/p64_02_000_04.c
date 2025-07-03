@@ -15,7 +15,7 @@ MsgDisp("Sassa","The vegetables were of course, the best.
 And was the dressing homemade?");
 MsgDisp("主人公","Yeah, that's right. It was an onion and
 carrot dressing made with the vegetables
-grown in the horticulture club.");
+grown in the Gardening Club.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);

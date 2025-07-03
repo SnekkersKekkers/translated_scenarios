@@ -8,7 +8,7 @@ switch (ChPrmGet(3,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year the horticulture club's program
+    MsgDisp("主人公","(This year the Gardening Club's program
 is a cafe. I have to prepare herb tea and
 cookies though...)");
     VoicePlay("P630300000_03_000");
@@ -38,7 +38,7 @@ Let's have a break.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year the horticulture club's program
+    MsgDisp("主人公","(This year the Gardening Club's program
 is a cafe. I have to prepare herb tea and
 cookies though...)");
     MsgClose();

@@ -25,7 +25,7 @@ VoicePlay("P630D00001_21_010");
 MsgDisp("Michiru","Truly.
 Did Mari grow this vegetable?");
 MsgDisp("主人公","I did too, but so did everyone
-at the Horticulture club? We're 
+at the Gardening Club? We're 
 also doing a vegetable sale this year.");
 ChEye(22,3);
 ChMouth(22,3);

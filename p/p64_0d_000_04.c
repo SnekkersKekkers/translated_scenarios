@@ -32,6 +32,6 @@ MsgDisp("Hikaru","Hikaru wants to eat Mari's homecooked
 meals everyda～y▼");
 MsgDisp("主人公","(Seems like they're happy.
 I'm glad I continued with
-the Horticulture club.)");
+the Gardening Club.)");
 MsgClose();
 ScrFadeOut(0,0);

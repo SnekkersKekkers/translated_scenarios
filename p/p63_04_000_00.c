@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year the horticulture club's program
+    MsgDisp("主人公","(This year the Gardening Club's program
 is a cafe. I have to prepare herb tea and
 cookies though...)");
     MsgClose();
@@ -25,7 +25,7 @@ Welcome～!");
     MsgDisp("Nanatsumori","I came becasuse I was charmed
 by the captivating smell.");
     MsgDisp("主人公","Hehe. It's a shop serving tea and cookies
-made with the herbs the Horticulture club
+made with the herbs the Gardening Club
 painstakingly grew.");
     ChEye(4,3);
     ChMouth(4,3);
@@ -41,7 +41,7 @@ One customer, please follow meー!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year the horticulture club's program
+    MsgDisp("主人公","(This year the Gardening Club's program
 is a cafe. I have to prepare herb tea and
 cookies though...)");
     MsgClose();
@@ -63,7 +63,7 @@ I came to see how you're doing——");
     VoicePlay("P630400000_04_060");
     MsgDisp("Nanatsumori","No...
 It's herb tea and cookies right?
-The horticulture clubs store.");
+The Gardening Clubs store.");
     MsgDisp("主人公","Yeah it is.
 I have confidence it's delicious!");
     ChEye(4,0);

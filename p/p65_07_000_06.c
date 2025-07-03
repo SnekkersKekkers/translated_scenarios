@@ -29,7 +29,7 @@ ChMotion(7,0);
 VoicePlay("P650700006_07_030");
 MsgDisp("Mikage","At your last school festival, you finished
 with the best results. As expected of my
-prized horticulture club member.");
+prized Gardening Club member.");
 MsgDisp("主人公","(Yay, a huge success! I was able to make a
 nice memory of the last cultural festival
 of my high school life...)");

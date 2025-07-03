@@ -27,7 +27,7 @@ Welcome～1");
 vegetables together?
 Here.");
     MsgDisp("主人公","Nope. You drink the herb tea here though,
-but the horticulture club's organic
+but the Gardening Club's organic
 vegetables are sold directly.");
     ChEye(4,2);
     ChMouth(4,3);
@@ -63,7 +63,7 @@ Can you eat vegetables here too this year?");
     MsgDisp("主人公","Nope. You can drink herb tea though. The
 vegetables are sold directly. They're
 vegetables organically grown by the
-horticulture club.");
+Gardening Club.");
     ChEye(4,5);
     ChMouth(4,4);
     ChMotion(4,0,1);

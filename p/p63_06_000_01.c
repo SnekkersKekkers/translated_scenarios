@@ -22,7 +22,7 @@ Welcome.");
     VoicePlay("P630600001_06_010");
     MsgDisp("Himuro","What's that vegetab;es?
 Are you selling it?");
-    MsgDisp("主人公","Yeah, the horticulture club grew it. We
+    MsgDisp("主人公","Yeah, the Gardening Club grew it. We
 also prepared herb tea and herb cookies.▼");
     ChEye(6,0);
     ChMouth(6,0);

@@ -6,7 +6,7 @@ VoicePlay("Y300700300_07_000");
 MsgDisp("Mikage","\"I'll plant it here. I wonder what
 colour the tulip will bloom into. I'm
 looking forward to it.\"");
-MsgDisp("","The Horticulture Club's farming
+MsgDisp("","The Gardening Club's farming
 corner. We planted Nagasaki's
 sepcialty bulb.");
 MsgDisp("","These are the bulbs left after 

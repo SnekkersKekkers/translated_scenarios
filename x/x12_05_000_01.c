@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0);
     VoicePlay("X120500001_05_000");
     MsgDisp("Hiiragi","It is thanks to everyone in the
-horticulture club that all the plants in
+Gardening Club that all the plants in
 the school are so lively. On behalf of the
 students, let me say thank you.");
     MsgDisp("主人公","(Yay!)");

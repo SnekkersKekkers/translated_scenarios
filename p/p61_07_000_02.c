@@ -2,7 +2,7 @@ BGOpen("sc606",0);
 ScrFadeIn(0);
 VoicePlay("P610700002_46_000");
 MsgDisp("Manager","For this year's cultural festival club
-program, We, the horticulture club have
+program, We, the Gardening Club have
 decided to host an oorganic cafe.");
 VoicePlay("P610700002_46_010");
 MsgDisp("Manager","Our signature will be a salad with the

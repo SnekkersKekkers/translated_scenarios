@@ -4,7 +4,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
 MsgClose();
 ChOpen(21,254,0,0,0,-1,-1,0,1);
 ChOpen(22,254,0,0,3,-1,-1,0,2);
@@ -26,7 +26,7 @@ ChMotion(22,5,1);
 VoicePlay("P630D00002_22_010");
 MsgDisp("Hikaru","Mari!
 ...so that means this is the
-Horticulture club's display?");
+Gardening Club's display?");
 MsgDisp("主人公","Yeah. It's an organic cafe.
 We're offering meals made with the 
 vegetables we grew ourselves.");

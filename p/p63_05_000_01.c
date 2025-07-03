@@ -72,7 +72,7 @@ herb tea and vegetables!");
     ChMotion(5,0);
     VoicePlay("P630500001_05_060");
     MsgDisp("Hiiragi","Was it all grown by the 
-horticulture club?");
+Gardening Club?");
     MsgDisp("主人公","Yes. The summer
 vegetables are still delicious.");
     ChEye(5,3);

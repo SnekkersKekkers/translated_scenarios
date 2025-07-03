@@ -2,7 +2,7 @@ BGOpen("sc722",0);
 BGMPlay("BGM_PLACE_SHOP",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year the horticulture club's program
+MsgDisp("主人公","(This year the Gardening Club's program
 is a cafe. We prepared herb tea and
 cookies, but...)");
 MsgClose();

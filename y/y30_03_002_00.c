@@ -22,7 +22,7 @@ ScrFadeOut(0);
 BGOpen("ad321",0);
 SEPlay("EV_SE_DOOR_001");
 ScrFadeIn(0);
-MsgDisp("","And that's why, I went to her \
+MsgDisp("","And that's why, I went to her
 house to tell her the news in person.");
 SEPlay("EV_SE_DOOR_022");
 MsgDisp("","When she saw my face, she was a bit

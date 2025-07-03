@@ -27,7 +27,7 @@ VoicePlay("P640100003_01_030");
 MsgDisp("Kazama","I don't have the courage to eat that.");
 MsgDisp("主人公","(A huge failure...
 I should have put more effort into 
-preparations for the horticulture club...)");
+preparations for the Gardening Club...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

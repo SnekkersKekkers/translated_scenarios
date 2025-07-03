@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     case 3:
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChOpen(3,254,5,5,3,-1,-1,0,0);
     VoicePlay("P630300002_03_000");
@@ -22,7 +22,7 @@ Welcome.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("P630300002_03_010");
-    MsgDisp("Honda","The horticulture club is amazing.");
+    MsgDisp("Honda","The Gardening Club is amazing.");
     MsgDisp("主人公","Hehe.
 We're serving meals made with the
 herbs and vegetables we grew.");
@@ -37,7 +37,7 @@ Then, I'll lead you to your seat.");
     case 5:
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChOpen(3,254,0,0,0,-1,-1,0,0);
     VoiceEVSPlay(3);

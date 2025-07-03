@@ -12,7 +12,7 @@ wonder if everyone will come...?)");
     MsgClose();
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("P630600000_06_000");
-    MsgDisp("Himuro","Is this the horticulture club?");
+    MsgDisp("Himuro","Is this the Gardening Club?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 You came?");
     ChEye(6,0);
@@ -55,7 +55,7 @@ Welcome.");
     MsgDisp("Himuro","The, what are you doing?");
     MsgDisp("主人公","You can enjoy tea and cookies
 made with herbs. The herbs were grown
-by the Horticulture club.");
+by the Gardening Club.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

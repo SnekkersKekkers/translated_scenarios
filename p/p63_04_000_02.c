@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
@@ -27,13 +27,13 @@ Welcome.");
 It doesn't look like the school.");
     MsgDisp("主人公","Hehe! We've prepared food and drinks using
 the herbs and vegetables organically grown
-the by the horticulture club!");
+the by the Gardening Club!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400002_04_020");
     MsgDisp("Nanatsumori","Heeh.
-The horticulture club evolve each 
+The Gardening Club evolve each 
 year, huh...");
     MsgDisp("主人公","If you'd like, how about I recommend
 something on the menu to you?");
@@ -48,7 +48,7 @@ and herb tea please! ");
     case 5:
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
@@ -62,7 +62,7 @@ Welcome.");
     ChMotion(4,1,1);
     VoicePlay("P630400002_04_050");
     MsgDisp("Nanatsumori","It's stylish.
-Is this really the horticulture club?");
+Is this really the Gardening Club?");
     MsgDisp("主人公","Hehe.
 This year we tried our hand 
 at an organic cafe!");

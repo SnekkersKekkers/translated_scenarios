@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year the horticulture club's program
+    MsgDisp("主人公","(This year the Gardening Club's program
 is a cafe. We prepared herb tea and
 cookies, but...)");
     MsgClose();
@@ -24,7 +24,7 @@ Welcome!");
     VoicePlay("P630100000_01_010");
     MsgDisp("Kazama","I'm fussy about tea, you know?");
     MsgDisp("主人公","I have confidence in the 
-horticulture club's herbal tea!
+Gardening Club's herbal tea!
 I think we were able tomake a good blend.");
     ChEye(1,3);
     ChMouth(1,3);
@@ -38,7 +38,7 @@ I think we were able tomake a good blend.");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year the horticulture club's program
+    MsgDisp("主人公","(This year the Gardening Club's program
 is a cafe. We prepared herb tea and
 cookies, but...)");
     MsgClose();
@@ -56,7 +56,7 @@ Welcome!");
 appearance huh?");
     MsgDisp("主人公","No, I'm the producer.
 So we made tea and cookies with the herb 
-tea the horticulture club grew.");
+tea the Gardening Club grew.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

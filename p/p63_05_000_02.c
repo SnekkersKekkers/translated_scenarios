@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChOpen(5,254,2,0,4,-1,-1,0,0);
     VoicePlay("P630500002_05_000");
@@ -54,7 +54,7 @@ Then, follow me to your seat.");
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChOpen(5,254,0,0,4,-1,-1,0,0);
     VoiceEVSPlay(5);

@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChOpen(2,254,2,0,4,-1,-1,0,0);
     VoicePlay("P630200002_02_000");
@@ -21,7 +21,7 @@ Welcome～!");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P630200002_02_010");
-    MsgDisp("Sassa","The Horticulture club is amazing, huh.
+    MsgDisp("Sassa","The Gardening Club is amazing, huh.
 They even made a shop.");
     MsgDisp("主人公","Yes, we received Mikage-sensei's help, 
 and did our best.");
@@ -56,7 +56,7 @@ Then, I'll lead you to your seat.");
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're doing an organic cafe.
 It's a culmination of my efforts
-in the Horticulture club...)");
+in the Gardening Club...)");
     MsgClose();
     ChOpen(2,254,2,0,4,-1,-1,0,0);
     VoiceEVSPlay(2);

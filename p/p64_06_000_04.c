@@ -40,7 +40,7 @@ VoicePlay("P640600004_06_050");
 MsgDisp("Himuro","It's just that delicious.
 Thank you for the meal.");
 MsgDisp("主人公","(I'm glad I gave it my best at the
-Horticulture club for the last three
+Gardening Club for the last three
 years!)");
 MsgClose();
 ScrFadeOut(0,0);

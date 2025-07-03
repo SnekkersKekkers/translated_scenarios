@@ -36,7 +36,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("P640700005_07_040");
 MsgDisp("Mikage","Listen, 
-we're the horticulture club,
+we're the Gardening Club,
 so pay respect to the ingredients?");
 MsgDisp("主人公","Yes...");
 MsgDisp("主人公","(Haa...

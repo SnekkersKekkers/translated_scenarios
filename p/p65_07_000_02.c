@@ -4,7 +4,7 @@ BGOpen("sc710",0);
 ChOpen(7,254,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("P650700002_07_000");
-MsgDisp("Mikage","As expected of our horticulture club.
+MsgDisp("Mikage","As expected of our Gardening Club.
 Our original blend was well liked.");
 MsgDisp("主人公","｛御影＊＊｝,
 was it really?");

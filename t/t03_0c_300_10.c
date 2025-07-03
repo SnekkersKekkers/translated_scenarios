@@ -12,7 +12,7 @@ will be surprised,\" he said happily.
 ｛氷室＊＊｝ is currently training hard
 every day to enter an upcoming surfing
 competition. And ｛御影＊＊｝ has started
-beekeeping in the horticulture club's
+beekeeping in the Gardening Club's
 field.");
 MsgDisp("","Everyone is giving it their all.
 I can't let myself be defeated!");
