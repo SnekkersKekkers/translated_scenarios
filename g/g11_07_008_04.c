@@ -48,7 +48,7 @@ ChMotion(7,1);
 VoicePlay("G110700804_07_040");
 MsgDisp("Mikage","Phew......
 Don't make me cry so much......");
-MsgDisp("主人公","(Ehh∋ tears in ｛御影＊＊｝ 's
+MsgDisp("主人公","(Ehh∋ tears in ｛御影＊＊｝'s
 eyes......?)");
 BGMVol(0.5,2);
 while (1){

@@ -37,7 +37,7 @@ ChMotion(7,5);
 VoicePlay("B070700000_07_050");
 MsgDisp("Mikage","Though... it might be a little 
 hard to see the screen.");
-MsgDisp("主人公","(Umm, ｛御影＊＊｝ 's TV is more like 
+MsgDisp("主人公","(Umm, ｛御影＊＊｝'s TV is more like 
 interior decoration then...)");
 BGMStop();
 MsgClose();

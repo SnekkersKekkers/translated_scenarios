@@ -82,7 +82,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝ 's whole family is athletic.
+MsgDisp("主人公","(｛颯砂＊＊｝'s whole family is athletic.
 He looks just like his mother......
 I wanna see that!)");
 MsgClose();

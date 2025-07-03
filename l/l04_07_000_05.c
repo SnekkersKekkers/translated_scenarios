@@ -22,7 +22,7 @@ You did your best, huh.");
 like is just like you, and I like that,
 you know?");
     MsgDisp("主人公","(Huh......?
-Was it not to ｛御影＊＊｝ 's tastes?)");
+Was it not to ｛御影＊＊｝'s tastes?)");
     MsgClose();
     BGMStop();
     MsgClose();

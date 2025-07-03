@@ -33,7 +33,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("F100740001_07_020");
 MsgDisp("Mikage","Oi, what's up?");
-MsgDisp("主人公","Um, I heard ｛御影＊＊｝ 's 
+MsgDisp("主人公","Um, I heard ｛御影＊＊｝'s 
 voice, so...");
 ChEye(32,2);
 ChMouth(32,0);

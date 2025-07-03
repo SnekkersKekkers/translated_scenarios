@@ -59,7 +59,7 @@ ChMotion(7,0);
 VoicePlay("G110700801_07_050");
 MsgDisp("Mikage","Even if you say that, before you know it,
 you've become okay with it.");
-MsgDisp("主人公","(Hey, there's something on ｛御影＊＊｝ 's
+MsgDisp("主人公","(Hey, there's something on ｛御影＊＊｝'s
 clothes......?)");
 BGMVol(0.5,2);
 while (1){

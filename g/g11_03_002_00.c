@@ -47,7 +47,7 @@ ScrFadeIn(0);
 VoicePlay("G110300200_03_030");
 MsgDisp("Honda","This one. It has really interesting
 explanations.");
-MsgDisp("主人公","Hee, thank you. If it's ｛本多＊＊｝ 's 
+MsgDisp("主人公","Hee, thank you. If it's ｛本多＊＊｝'s 
 recommendation, it must be good right?");
 ChEye(3,2);
 ChMouth(3,1);

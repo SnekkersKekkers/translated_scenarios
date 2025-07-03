@@ -11,7 +11,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F020100004_01_000");
 MsgDisp("Kazama","Hey.
 It's almost time.");
-MsgDisp("主人公","｛風真＊＊｝ 's birthday, right?");
+MsgDisp("主人公","｛風真＊＊｝'s birthday, right?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);

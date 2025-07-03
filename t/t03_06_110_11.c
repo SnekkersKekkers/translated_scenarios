@@ -6,7 +6,7 @@ MsgClear();
 MsgDisp("","One of my favorite things to do after
 school is watch him surf at our usual
 beach. He has more surfing friends and
-｛氷室＊＊｝ 's smile at the beach is even
+｛氷室＊＊｝'s smile at the beach is even
 more dazzling than before.");
 MsgClear();
 MsgDisp("","Come to think of it, I once bumped into

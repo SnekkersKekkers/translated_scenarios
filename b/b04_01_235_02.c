@@ -88,7 +88,7 @@ I'll give you a special hint.");
         VoicePlay("B040123502_01_080");
         MsgDisp("Kazama","Look closely into my eyes.
 What do you see?");
-        MsgDisp("主人公","｛風真＊＊｝ 's eyes...
+        MsgDisp("主人公","｛風真＊＊｝'s eyes...
 I can't see anythimg though.");
         ChEye(1,4);
         ChMouth(1,3);

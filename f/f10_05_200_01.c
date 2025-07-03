@@ -72,7 +72,7 @@ ChMotion(5,4);
 VoicePlay("F100520001_05_060");
 MsgDisp("Hiiragi","Yes, I am looking forward to it.");
 MsgDisp("主人公","(It seems like ｛風真＊＊｝,
-｛柊＊＊＊｝ and ｛風真＊＊｝ 's grandpa
+｛柊＊＊＊｝ and ｛風真＊＊｝'s grandpa
 has a super good relationship.)");
 BGMStop();
 MsgClose();

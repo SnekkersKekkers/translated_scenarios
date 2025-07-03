@@ -130,7 +130,7 @@ So wait for me.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(｛本多＊＊｝ 's destination......
+    MsgDisp("主人公","(｛本多＊＊｝'s destination......
 How is that up to me?
 I guess I'll think about it too!)");
     break ;

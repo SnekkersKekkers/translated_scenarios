@@ -50,7 +50,7 @@ VoicePlay("B050300000_03_050");
 MsgDisp("Honda","Wah......");
 MsgDisp("主人公","(Hehe. You can tell what will
 happen next in the movie just by looking
-at ｛本多＊＊｝ 's face.)");
+at ｛本多＊＊｝'s face.)");
 MsgClose();
 ScrFadeOut(0);
 BGMVol(0.5,2);

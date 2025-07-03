@@ -50,7 +50,7 @@ a cute bride. It's already a success.");
 that dress. If only I saw this,
 I might be hit with divine punishment.");
     MsgDisp("主人公","Yes...!");
-    MsgDisp("主人公","(I've gotten ｛御影＊＊｝ 's seal of
+    MsgDisp("主人公","(I've gotten ｛御影＊＊｝'s seal of
 approval. Alright, let's carry myself with
 confidence!)");
     break ;

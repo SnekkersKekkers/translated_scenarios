@@ -6,7 +6,7 @@ SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Pink cardholder\")");
 MsgDisp("主人公","(Could it be......
-a different color of ｛七ツ森＊｝ 's?
+a different color of ｛七ツ森＊｝'s?
 Hehe, let's be careful not to drop it!)");
 MsgClose();
 ScrFadeOut(0,0);

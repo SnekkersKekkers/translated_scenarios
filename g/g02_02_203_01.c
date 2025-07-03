@@ -27,7 +27,7 @@ ChMotion(2,0);
 VoicePlay("G020220301_02_030");
 MsgDisp("Sassa","What? I asked you because you always wear
 different styles.");
-MsgDisp("主人公","Sorry. But with ｛颯砂＊＊｝ 's figure, it
+MsgDisp("主人公","Sorry. But with ｛颯砂＊＊｝'s figure, it
 seems any style would fit.");
 ChEye(2,0);
 ChMouth(2,2);
@@ -62,7 +62,7 @@ ChMotion(2,0);
 VoicePlay("G020220301_02_080");
 MsgDisp("Sassa","Haa......it must be nice for those who
 look good in anything they wear.");
-MsgDisp("主人公","｛颯砂＊＊｝ 's usual fashion suits him.
+MsgDisp("主人公","｛颯砂＊＊｝'s usual fashion suits him.
 It's really cool?");
 ChEye(2,0);
 ChMouth(2,3);

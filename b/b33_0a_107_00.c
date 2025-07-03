@@ -123,7 +123,7 @@ Ask me for some funny
 stories in preparation.");
 MsgDisp("主人公","(If the four of us come to the 
 castle again, I'll be happy to
-hear ｛風真＊＊｝ 's commentary.)");
+hear ｛風真＊＊｝'s commentary.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

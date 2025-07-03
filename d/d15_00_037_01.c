@@ -34,7 +34,7 @@ ChMouth ( 7,3 ) ;
 ChMotion ( 7,5 ) ;
 VoicePlay ( "D150003701_07_010" ) ;
 MsgDisp ( "Mikage","Oh, Honda. You're onto something again." ) ;
-MsgDisp ( "主人公","(I'm looking forward to ｛本多＊＊｝ 's
+MsgDisp ( "主人公","(I'm looking forward to ｛本多＊＊｝'s
 cafeteria fortune telling service.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

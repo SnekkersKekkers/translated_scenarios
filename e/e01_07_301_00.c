@@ -102,7 +102,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Me, a subject of ｛本多＊＊｝ 's research?
+MsgDisp("主人公","(Me, a subject of ｛本多＊＊｝'s research?
 There's no way......)");
 MsgClose();
 ScrFadeOut(0,0);

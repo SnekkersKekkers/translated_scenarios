@@ -1,4 +1,4 @@
-MsgDisp("主人公","(｛颯砂＊＊｝ 's last high school race
+MsgDisp("主人公","(｛颯砂＊＊｝'s last high school race
 will start soon......)");
 MsgClose();
 BGOpen("sc624",0);

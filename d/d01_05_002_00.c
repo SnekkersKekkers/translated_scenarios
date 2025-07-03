@@ -40,7 +40,7 @@ Looks like there's another class out
 there playing soccer.)");
 VoicePlay("D010500200_39_020");
 MsgDisp("Male Student B","Hiiragi!　Here!");
-MsgDisp("主人公","(Is that ｛柊＊＊＊｝ 's class?)");
+MsgDisp("主人公","(Is that ｛柊＊＊＊｝'s class?)");
 VoicePlay("D010500200_40_030");
 MsgDisp("Male Student A","Ohh!");
 SEStop("EV_SE_834",2);

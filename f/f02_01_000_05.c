@@ -12,7 +12,7 @@ ChMotion(1,0);
 VoicePlay("F020100005_01_000");
 MsgDisp("Kazama","Why do you sound so grim?
 You've been studying diligently, right?");
-MsgDisp("主人公","I have. But ｛風真＊＊｝ 's idea of
+MsgDisp("主人公","I have. But ｛風真＊＊｝'s idea of
 'studying diligently' might be
 different from mine.");
 ChEye(1,0);

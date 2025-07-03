@@ -16,7 +16,7 @@ ChMotion(2,4);
 VoicePlay("G020220100_02_020");
 MsgDisp("Sassa","Maybe it's my feelings that make me see it
 that way.");
-MsgDisp("主人公","｛颯砂＊＊｝ 's feelings?");
+MsgDisp("主人公","｛颯砂＊＊｝'s feelings?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

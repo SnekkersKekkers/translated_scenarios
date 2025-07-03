@@ -80,7 +80,7 @@ watch over her.");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,0);
-    MsgDisp("主人公","(｛みちる＊｝ 's hands are so warm......)");
+    MsgDisp("主人公","(｛みちる＊｝'s hands are so warm......)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("H482100000_21_070");

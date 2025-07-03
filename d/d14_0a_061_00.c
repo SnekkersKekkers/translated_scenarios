@@ -45,7 +45,7 @@ MsgDisp("Himuro","Nozome-senpai, be careful.
 This is a crucial period
 for those two.");
 MsgDisp("主人公","Eh...?
-Are you talking about ｛風真＊＊｝ 's
+Are you talking about ｛風真＊＊｝'s
 club activities?'");
 ChEye(2,0);
 ChMouth(2,4);

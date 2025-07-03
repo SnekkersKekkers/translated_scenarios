@@ -95,7 +95,7 @@ ChMotion(4,2);
 MsgDisp("Nanatsumori","Ah, my bad! I didn't mean
 to talk while standing, let's go
 take a seat here.");
-MsgDisp("主人公","(Am I ｛七ツ森＊｝ 's ideal type?)");
+MsgDisp("主人公","(Am I ｛七ツ森＊｝'s ideal type?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -56,7 +56,7 @@ VoicePlay("G110101104_01_030");
 MsgDisp("Kazama","It's given me a simulation of the future,
 while I also get paid for my part time
 job. I'm grateful for General Store simon.");
-MsgDisp("主人公","｛風真＊＊｝ 's contribution to the store
+MsgDisp("主人公","｛風真＊＊｝'s contribution to the store
 is amazing. I have to do my best to catch
 up to him.");
 ChEyeOpenLevel(1,0);

@@ -56,7 +56,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720201_07_080");
 MsgDisp("Mikage","The last part was my inner voice.");
-MsgDisp("主人公","(｛御影＊＊｝ 's inner voice......)");
+MsgDisp("主人公","(｛御影＊＊｝'s inner voice......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

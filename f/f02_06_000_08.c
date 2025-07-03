@@ -32,7 +32,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600008_06_030");
 MsgDisp("Himuro","Hah...");
-MsgDisp("主人公","What is ｛氷室＊＊｝ 's class doing?");
+MsgDisp("主人公","What is ｛氷室＊＊｝'s class doing?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -47,4 +47,4 @@ MsgDisp("Himuro","I'll figure it out in time.
 Since you care so much, why don't you
 stop by on the day?");
 MsgDisp("主人公","(Should I try to go to 
-｛氷室＊＊｝ 's class?)");
+｛氷室＊＊｝'s class?)");

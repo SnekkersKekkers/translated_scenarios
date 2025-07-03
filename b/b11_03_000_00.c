@@ -6,7 +6,7 @@ yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛本多＊＊｝ 's late...");
+MsgDisp("主人公","｛本多＊＊｝'s late...");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,-1,-1,0,0);

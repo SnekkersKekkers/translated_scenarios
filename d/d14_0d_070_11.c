@@ -45,7 +45,7 @@ at Kazama-kun, okay?");
 ChEye(22,4);
 ChMotion(22,0,1);
 MsgDisp("主人公","(Is there a secret behind the length
-of ｛風真＊＊｝ 's bangs...?)");
+of ｛風真＊＊｝'s bangs...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

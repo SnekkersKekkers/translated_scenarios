@@ -19,7 +19,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020130201_01_020");
 MsgDisp("Kazama","But for that, you need to train your eyes
 first, or it's meaningless.");
-MsgDisp("主人公","With ｛風真＊＊｝ 's eyes
+MsgDisp("主人公","With ｛風真＊＊｝'s eyes
 there's bound to be no mistakes, huh?");
 ChEye(1,0);
 ChMouth(1,3);

@@ -53,7 +53,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
 MsgDisp("主人公","(Amazing......
-｛御影＊＊｝ 's home is full of
+｛御影＊＊｝'s home is full of
 vegetables and plants!)");
 MsgClose();
 ScrFadeOut(0,0);

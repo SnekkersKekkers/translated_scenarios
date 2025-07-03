@@ -114,7 +114,7 @@ It had a delayed fall∈");
         MsgDisp("Sassa","That...
 Does that count as me winning it?");
         MsgDisp("主人公","Yeah, of course!
-It's ｛颯砂＊＊｝ 's'");
+It's ｛颯砂＊＊｝'s'");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);

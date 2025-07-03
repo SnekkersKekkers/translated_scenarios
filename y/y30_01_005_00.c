@@ -57,7 +57,7 @@ with a happy expression on her face.");
 MsgDisp("主人公","\"...Hey, is it good?\"");
 MsgClear();
 MsgDisp("","I nodded greatly, and softly 
-put a hand on ｛主人公名前｝ 's head.'");
+put a hand on ｛主人公名前｝'s head.'");
 MsgDisp("主人公","\"｛風真＊＊｝...?\"");
 VoicePlay("Y300100500_01_030");
 MsgDisp("Kazama","\"It's truly delicious...\"");

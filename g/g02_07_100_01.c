@@ -55,7 +55,7 @@ MsgDisp("Mikage","Ah, that was just, well, in the heat of
 the moment. Forget about it. That's
 strange......what am I even saying.");
 MsgDisp("主人公","(Only me? Just now, if that was
-｛御影＊＊｝ 's inner voice, I'd be
+｛御影＊＊｝'s inner voice, I'd be
 happy......)");
 BGMStop();
 MsgClose();

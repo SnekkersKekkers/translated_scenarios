@@ -89,7 +89,7 @@ MsgDisp("Nanatsumori","Yum!
 The cocoa powder is really rich!
 The hidden milk pie is too awesome...");
 MsgDisp("主人公","(Hehe.
-｛七ツ森＊｝ 's food commentary is dunny.')");
+｛七ツ森＊｝'s food commentary is dunny.')");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -154,7 +154,7 @@ MsgDisp("Nanatsumori","I was the only one having fun,
 I was stuffing myself
 and ended up neglecting you...");
 MsgDisp("主人公","Nah. We enjoyed the movie together and I
-had fun seeing seeing ｛七ツ森＊｝ 's brave
+had fun seeing seeing ｛七ツ森＊｝'s brave
 form!");
 ChEye(4,2);
 ChMouth(4,2);

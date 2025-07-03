@@ -14,7 +14,7 @@ estimation, I decided on a time and an
 area to count. There were more of them
 than when I came alone last time.");
 MsgDisp("主人公","The fireflies here are also one of
-｛本多＊＊｝ 's observation subjects, huh?'");
+｛本多＊＊｝'s observation subjects, huh?'");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

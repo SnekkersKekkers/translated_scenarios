@@ -59,7 +59,7 @@ I'll eat anything as long as it's good.");
     MsgDisp("Sassa","Alright, then make it 4 portions.
 I'll try some.");
     MsgDisp("主人公","Understood!");
-    MsgDisp("主人公","(I hope it suits ｛颯砂＊＊｝ 's
+    MsgDisp("主人公","(I hope it suits ｛颯砂＊＊｝'s
 tastes......!)");
     break ;
     case 3:

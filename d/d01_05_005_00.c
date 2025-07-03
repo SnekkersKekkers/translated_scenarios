@@ -14,7 +14,7 @@ MsgClose();
 BGOpen("bh500",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This is ｛柊＊＊＊｝ 's home, right?
+MsgDisp("主人公","(This is ｛柊＊＊＊｝'s home, right?
 It seems like the rehearsal studio is
 on the property......)");
 MsgClose();

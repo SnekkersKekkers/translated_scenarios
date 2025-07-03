@@ -35,7 +35,7 @@ VoicePlay("T020101000_01_700");
 MsgDisp("Kazama","But for the last three years I've
 only been a nuisance to you huh......");
 MsgDisp("主人公","No, that's not true.
-｛風真＊＊｝ 's feelings made me happy.");
+｛風真＊＊｝'s feelings made me happy.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

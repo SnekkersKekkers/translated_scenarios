@@ -92,7 +92,7 @@ the end, my seniors encouraged me.
 Ultimately, I was the only one
 who stuck to my guns...");
 MsgDisp("主人公","No, Senpai said it too.
-｛颯砂＊＊｝ 's dream is everyone's dream.");
+｛颯砂＊＊｝'s dream is everyone's dream.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
