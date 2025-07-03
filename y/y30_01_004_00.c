@@ -88,7 +88,7 @@ MsgDisp("Honda","Just have 'Turn around!' in mind.
 That's all. Ready?∈");
 MsgClear();
 MsgDisp("","\"The next instant, she turned around.
-Wuth her usual, indescribable, 
+With her usual, indescribable, 
 gentle expression.\"");
 MsgDisp("","——Hey, who's voice did you hear?");
 BGMStop();

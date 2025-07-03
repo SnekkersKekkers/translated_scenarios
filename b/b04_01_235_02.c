@@ -74,7 +74,7 @@ but even I have weaknesses.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123502_01_070");
-        MsgDisp("Kazama","Weell, since you're super naive, 
+        MsgDisp("Kazama","Well, since you're super naive, 
 I'll give you a special hint.");
         MsgClose();
         SEPlay("EV_SE_544");

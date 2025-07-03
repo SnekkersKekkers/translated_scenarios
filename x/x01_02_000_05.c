@@ -7,7 +7,7 @@ best this week!)");
 ChOpen(2,254,3,0,4,-1,-1,0,0);
 VoicePlay("X010200005_02_000");
 MsgDisp("Sassa","You're really blowing away your club 
-activites. I think it's fantastic that 
+activities. I think it's fantastic that 
 you're always trying your hardest.");
 MsgDisp("主人公","(Yay!)");
 MsgClose();

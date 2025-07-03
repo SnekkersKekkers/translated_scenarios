@@ -40,7 +40,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100120001_07_020");
-MsgDisp("Mikage","As soon as you hang up your vaccuum,
+MsgDisp("Mikage","As soon as you hang up your vacuum,
 you'll know. Most of the dirt in your
 house is dust.");
 ChEye(1,4);
@@ -55,7 +55,7 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("F100120001_07_030");
 MsgDisp("Mikage","Right?
-And dust rises when you vaccuum.
+And dust rises when you vacuum.
 So, the best way to clean is---");
 ChEye(7,0);
 ChMouth(7,3);

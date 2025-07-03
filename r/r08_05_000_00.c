@@ -47,7 +47,7 @@ ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("R080500000_05_050");
 MsgDisp("Hiiragi","Yeah, I never experienced being the guest.
-So of couse I'd never understand how the
+So of course I'd never understand how the
 guest would feel.");
 MsgDisp("主人公","｛柊＊＊＊｝…");
 ChEye(5,3);

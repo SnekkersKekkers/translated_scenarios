@@ -8,6 +8,6 @@ ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("B130600001_06_000");
 MsgDisp("Himuro","When it comes to clothes, it's better to
-bear time, place and occassion in mind. It
+bear time, place and occasion in mind. It
 looks cold, and people are staring. I
 also... feel uneasy.");

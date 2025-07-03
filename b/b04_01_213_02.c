@@ -69,7 +69,7 @@ than it wanted the food.");
         MsgDisp("Kazama","No mistake about it. I saw it
 after all. It was kinda weird.
 Maybe there was a person inside?");
-        MsgDisp("主人公","Hehe, that can't be treu.");
+        MsgDisp("主人公","Hehe, that can't be true.");
         ChEye(1,2);
         ChMouth(1,0);
         ChMotion(1,1);

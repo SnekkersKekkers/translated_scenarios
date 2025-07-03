@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(1,255,0,0,0,-1,-1,0,0);
 ChMotion(1,1);
 VoicePlay("G020120301_01_000");
-MsgDisp("Kazama","Do you think popular fireflires are
+MsgDisp("Kazama","Do you think popular fireflies are
 surrounded by a bunch of other fireflies,
 just like with people?");
 MsgDisp("主人公","Yeah, maybe they are.");

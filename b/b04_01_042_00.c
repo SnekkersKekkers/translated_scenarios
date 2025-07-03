@@ -36,7 +36,7 @@ probably seen before.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040104200_01_020");
     MsgDisp("Kazama","What's up? It's rare for you to give such
-a harsh critiscm.");
+a harsh criticism.");
     MsgDateResultDisp();
     break ;
     default :

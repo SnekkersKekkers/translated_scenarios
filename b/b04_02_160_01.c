@@ -26,7 +26,7 @@ to aim for a high score.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040216001_02_020");
-    MsgDisp("Sassa","Dance abttle?
+    MsgDisp("Sassa","Dance battle?
 But I would rather dance with you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

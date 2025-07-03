@@ -65,7 +65,7 @@ StlClose();
 VoicePlay("T040620000_06_050");
 MsgDisp("Himuro","Those two couldn't wait to show off 
 their best side to you,
-......and of couse, me too.");
+......and of course, me too.");
 MsgClose();
 ScrFadeOut(0,0,300);
 Wait(300,0);

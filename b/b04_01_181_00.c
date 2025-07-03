@@ -24,7 +24,7 @@ the point it made me feel uneasy.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118100_01_010");
     MsgDisp("Kazama","I feel the same.
-That feeling of prectability 
+That feeling of predictability 
 was just so-so.");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,-1);

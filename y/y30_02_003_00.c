@@ -33,7 +33,7 @@ I'm taking on that challenge.
 Thanks to my seniors.");
 MsgDisp("","And, there's another person...");
 MsgDisp("","The person who ran with me when I was
-being excluded from club activites,
+being excluded from club activities,
 laughing, and talking to me, was her.");
 MsgDisp("","It's because of her existence, 
 that I didn't completely give up.");

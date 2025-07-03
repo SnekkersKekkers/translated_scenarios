@@ -129,7 +129,7 @@ I'm really happy.)");
     ChMotion(1,0,1);
     VoicePlay("B040108202_01_110");
     MsgDisp("Kazama","Pink? Doesn't that feel a little
-suspicous? There's not atmosphere about
+suspicious? There's not atmosphere about
 that at all.");
     MsgDateResultDisp();
     break ;

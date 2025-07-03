@@ -84,7 +84,7 @@ and request for sweets.");
 MsgDisp("","And that's why they made this choice.");
 MsgClear();
 MsgDisp("","\"Biscuit Kingdom \" 
-in particular was a ncie choice.");
+in particular was a nice choice.");
 MsgDisp("","On top of the lightly-salted
 biscuits, There's fruits, there's
 sweets and side dishes in an hors

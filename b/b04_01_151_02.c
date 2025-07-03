@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040115102_01_000");
 MsgDisp("Kazama","Hey, look at that.
-If you get a perfcet score, you'll
+If you get a perfect score, you'll
 get a travel voucher as a coupon∋
 Seriously?");
 MsgSel("Something like that is definitely impossible","A meal voucher would be better","Perfect they say?");
@@ -66,7 +66,7 @@ we could eat together after this?");
         MsgDisp("Kazama","A fancy dinner in the 
 waterfront area...");
         MsgDisp("主人公","Hehe, ｛風真＊＊｝ is 
-also a gourmad, isn't he?");
+also a gourmand, isn't he?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,3);

@@ -78,7 +78,7 @@ MsgDisp("Vice Principal Himuro","\"I see... very well. But, if your
 friend continues to run late, you too
 should give up and go home.\"");
 MsgDisp("","\"Yes.\" I answered.");
-MsgDisp("","What... he's actually a ncie teacher!");
+MsgDisp("","What... he's actually a nice teacher!");
 MsgClear();
 BGOpen("ad850",0);
 MsgDisp("","　　　　　　　　　　 ・

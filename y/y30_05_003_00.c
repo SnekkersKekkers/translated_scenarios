@@ -63,7 +63,7 @@ maybe it's a good thing you
 got to see the real me.");
 MsgDisp("","Being chairman and in the student
 council... I'm only good at keeping
-up wuth appearances, This is the real
+up with appearances, This is the real
 me.");
 MsgClear();
 MsgDisp("主人公","\"No, 
