@@ -26,7 +26,7 @@ MsgDisp("Sassa","And imagining Inori's thoughts would be
 hilarious.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","｛氷室＊＊｝'s thoughts......");
+MsgDisp("主人公","｛氷室＊＊｝ 's thoughts......");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

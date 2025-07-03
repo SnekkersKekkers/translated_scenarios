@@ -24,7 +24,7 @@ love?");
 Mari have two different definitions of
 \"love\"?");
     MsgDisp("主人公","(Is there a difference between 
-my love and ｛風真＊＊｝'s \"love\"?
+my love and ｛風真＊＊｝ 's \"love\"?
 I wonder what that means......)");
     break ;
     case 3:

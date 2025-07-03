@@ -15,7 +15,7 @@ ChMotion(5,4);
 VoicePlay("G020520300_05_020");
 MsgDisp("Hiiragi","As for me......I'm always dressed like
 this?");
-MsgDisp("主人公","｛柊＊＊＊｝'s fashion suits him.");
+MsgDisp("主人公","｛柊＊＊＊｝ 's fashion suits him.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020520300_05_030");

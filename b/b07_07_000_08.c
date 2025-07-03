@@ -30,7 +30,7 @@ VoicePlay("B070700000_07_460");
 MsgDisp("Mikage","Then, most importantly, 
 what do you think?");
 MsgDisp("主人公","I'm also glad to be in
-｛御影＊＊｝'s class.'");
+｛御影＊＊｝ 's class.'");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

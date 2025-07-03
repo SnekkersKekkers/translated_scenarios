@@ -2,7 +2,7 @@ MsgDisp("","It seems that ｛本多＊＊｝ has entered a
 top university and has already begun his
 research.");
 MsgClear();
-MsgDisp("","｛本多＊＊｝'s research theme is people.
+MsgDisp("","｛本多＊＊｝ 's research theme is people.
 It's amazing that he's in a genome
 analysis lab even though he's a first-year
 student.");

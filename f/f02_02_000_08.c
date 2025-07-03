@@ -58,5 +58,5 @@ ChMotion(2,4);
 VoicePlay("F020200008_02_060");
 MsgDisp("Sassa","Well... midway through, I had no clue
 what I was drawing anymore.");
-MsgDisp("主人公","(｛颯砂＊＊｝'s art... it worries me
+MsgDisp("主人公","(｛颯砂＊＊｝ 's art... it worries me
 a little.)");

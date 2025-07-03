@@ -43,7 +43,7 @@ MsgDisp("Shirahane","But I think it'll become clearer
 over time, and when it does, 
 I'll tell you first.");
 MsgDisp("主人公","(I'm looking forward to the 
-day I can hear ｛大地＊＊｝'s dream!)");
+day I can hear ｛大地＊＊｝ 's dream!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

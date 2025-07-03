@@ -27,7 +27,7 @@ VoicePlay("P040300000_03_030");
 MsgDisp("Honda","I'll be fine!
 I'd like to order even more, but
 I'll save some for the others.");
-MsgDisp("主人公","(I'm worried about ｛本多＊＊｝'s
+MsgDisp("主人公","(I'm worried about ｛本多＊＊｝ 's
 stomach......
 But, I'm glad he seems happy!)");
 MsgClose();

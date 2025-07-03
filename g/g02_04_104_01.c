@@ -60,7 +60,7 @@ VoicePlay("G020410401_04_080");
 MsgDisp("Nanatsumori","......Wait,
 why did we start talking about this?");
 MsgDisp("主人公","(I feel like I learned a bit more 
-about ｛七ツ森＊｝'s family.)");
+about ｛七ツ森＊｝ 's family.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

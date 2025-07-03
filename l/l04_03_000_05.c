@@ -21,7 +21,7 @@ that you like?");
 kind of thing, so it's okay!
 I'll eat it.");
     MsgDisp("主人公","(......?
-I wonder if it didn't suit ｛本多＊＊｝'s
+I wonder if it didn't suit ｛本多＊＊｝ 's
 taste......)");
     break ;
     case 3:

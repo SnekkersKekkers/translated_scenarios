@@ -44,7 +44,7 @@ will you get a medal too?");
 Then, I guess I'll get serious about
 cheering.");
     MsgDisp("主人公","(Let's win the overall championship,
-to respond to ｛風真＊＊｝'s cheers,
+to respond to ｛風真＊＊｝ 's cheers,
 too!)");
     break ;
     case 4:

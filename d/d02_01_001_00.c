@@ -1,7 +1,7 @@
 BGOpen("bh120",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(So this is ｛風真＊＊｝'s Grandpa's
+MsgDisp("主人公","(So this is ｛風真＊＊｝ 's Grandpa's
 Store......)");
 MsgDisp("主人公","(I've known him for so long and yet
 I've never been here......)");

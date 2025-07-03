@@ -31,7 +31,7 @@ MsgDisp("Mikage","It's a good conversation, but I don't know
 how I feel about marrying her off to an
 unknown place.");
 MsgDisp("主人公","Molly-chan is the cow that Is being raised
-on ｛御影＊＊｝'s family farm, right?");
+on ｛御影＊＊｝ 's family farm, right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

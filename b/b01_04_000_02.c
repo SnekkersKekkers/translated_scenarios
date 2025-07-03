@@ -32,8 +32,8 @@ We can make use of this extra time.");
     ChMotion(4,2);
     ChEyeOpenLevel(4,8);
     VoicePlay("B010400002_04_030");
-    MsgDisp("Nanatsumori","Well. Thanks to you,
-I hardly slept at all.
+    MsgDisp("Nanatsumori","Well. 
+Thanks to you, I hardly slept at all.
 Don't even ask me why.");
     MsgDispSksp(0);
     break ;

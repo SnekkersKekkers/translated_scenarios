@@ -57,7 +57,7 @@ can't clearly give me an answer, Then I
 guess you've decided to become our
 employee.");
 MsgDisp("主人公","(Hehe,
-｛御影＊＊｝'s farm, huh......
+｛御影＊＊｝ 's farm, huh......
 It might be wonderful.)");
 BGMStop();
 MsgClose();

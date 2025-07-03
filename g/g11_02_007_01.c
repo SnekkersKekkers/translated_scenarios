@@ -15,7 +15,7 @@ SEPlay("EV_SE_672");
 ChClose(2);
 MsgDisp("主人公","(That's eight times the amount of practice
 compared to someone doing a single
-event...... ｛颯砂＊＊｝'s octathlon
+event...... ｛颯砂＊＊｝ 's octathlon
 skills are truly amazing.)");
 SEWait();
 MsgDisp("","　　　　　　　　　　 ・
@@ -97,7 +97,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝'s records are better than
+MsgDisp("主人公","(｛颯砂＊＊｝ 's records are better than
 that of a solo athlete...... Hmm, there
 are still some diffcult aspects, huh?)");
 MsgClose();

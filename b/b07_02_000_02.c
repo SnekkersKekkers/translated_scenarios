@@ -1,4 +1,4 @@
-MsgDisp("主人公","What's ｛颯砂＊＊｝'s favorite
+MsgDisp("主人公","What's ｛颯砂＊＊｝ 's favorite
 food?");
 ChEye(2,0);
 ChMouth(2,4);

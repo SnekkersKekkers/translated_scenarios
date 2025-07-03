@@ -59,7 +59,7 @@ ChMotion(1,0);
 VoicePlay("G020130100_01_080");
 MsgDisp("Kazama","That's the one thing I won't let anyone
 else have.");
-MsgDisp("主人公","(｛風真＊＊｝'s expression is really
+MsgDisp("主人公","(｛風真＊＊｝ 's expression is really
 serious......)");
 BGMStop();
 MsgClose();

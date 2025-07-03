@@ -24,7 +24,7 @@ MsgDisp("Sassa","Yeah, it would be nice to age all at once.
 That way, I could do decathlons
 earlier.");
 MsgDisp("主人公","That's right.
-｛颯砂＊＊｝'s goal is the decathlon,
+｛颯砂＊＊｝ 's goal is the decathlon,
 right?");
 ChEye(2,0);
 ChMouth(2,4);

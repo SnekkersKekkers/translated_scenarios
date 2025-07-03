@@ -5,7 +5,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Oh......A phone call?　Who's it from?)");
-MsgDisp("主人公","(Eh, ｛大地＊＊｝∋)");
+MsgDisp("主人公","(Eh, ｛大地＊＊｝ ∋)");
 MsgClose();
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
@@ -54,9 +54,9 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("D020800700_08_070");
 MsgDisp("Shirahane","Oh damn, it's late.
 Are ya getting sleepy? My bad.");
-MsgDisp("主人公","No, it's fine. Thanks for calling.
-Even though we're different places for our 
-trips, we've still got to make some good 
+MsgDisp("主人公","No, it's fine. Thanks for calling. Even
+though we're different places for our
+trips, we've still got to make some good
 memories.");
 VoicePlay("D020800700_08_080");
 MsgDisp("Shirahane","True. In that case, why don't you get some

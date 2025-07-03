@@ -52,7 +52,7 @@ seriously about my own future... I'm still
 in the middle of thinking about it though?");
 MsgDisp("主人公","(Hehe!
 I'm also looking forward to 
-｛みちる＊｝'s dream')");
+｛みちる＊｝ 's dream')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

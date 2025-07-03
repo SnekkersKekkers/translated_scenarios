@@ -86,7 +86,7 @@ I'm your number one fan!");
 I look forward to your model walk.
 Then, do your best!");
     MsgDisp("主人公","(Alright, let's live up to
-｛本多＊＊｝'s expectations!')");
+｛本多＊＊｝ 's expectations!')");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

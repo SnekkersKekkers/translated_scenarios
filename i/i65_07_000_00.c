@@ -61,7 +61,7 @@ Do you think they'd hire me, too?");
 close in color to what I'm wearing......
 Or not?");
     MsgDisp("主人公","Hehe, you're going to
-get scolded by vice principal Himuro
+get scolded by Vice Principal Himuro
 again, you know?");
     ChEye(7,2);
     ChMouth(7,0);
@@ -75,8 +75,7 @@ See you.");
     SEPlay("EV_SE_751",1);
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(But,
-working with ｛御影＊＊｝
+    MsgDisp("主人公","(But working with ｛御影＊＊｝
 might be fun?)");
     break ;
     case 4:

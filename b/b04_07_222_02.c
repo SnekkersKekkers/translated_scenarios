@@ -93,7 +93,7 @@ isn't it?");
         MsgDisp("Mikage","This month is a tight one.
 ...What are you trying to say?");
         MsgDisp("主人公","(Hehe, 
-｛御影＊＊｝'s field trips are fun.)");
+｛御影＊＊｝ 's field trips are fun.)");
         break ;
         default :
         DbgAssert(1);

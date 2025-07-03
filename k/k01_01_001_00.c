@@ -15,7 +15,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","What is it?
 You're a noisy one.");
     MsgDisp("主人公","What,
-it's ｛風真＊＊｝'s birthday today, right?
+it's ｛風真＊＊｝ 's birthday today, right?
 Happy birthday.");
     SEPlay("EV_SE_664");
     SEWait();

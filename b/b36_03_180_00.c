@@ -54,7 +54,7 @@ ChMotion(3,3,1);
 VoicePlay("B360318000_03_060");
 MsgDisp("Honda","Exactly! Instead of a movie, I'll just
 chat with you～");
-MsgDisp("主人公","(｛本多＊＊｝'s stories might be longer 
+MsgDisp("主人公","(｛本多＊＊｝ 's stories might be longer 
 than a movie...)");
 BGMStop();
 MsgClose();

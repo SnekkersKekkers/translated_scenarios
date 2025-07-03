@@ -80,7 +80,7 @@ MsgDisp("主人公","Ah, yeah.
 That's right...");
 SEStop("EV_SE_GAYA_021",3);
 MsgDisp("主人公","(That play went well, though... I was so
-distracted by ｛本多＊＊｝'s talking I
+distracted by ｛本多＊＊｝ 's talking I
 coudln't concentrate on the last scene.");
 MsgClose();
 ScrFadeOut(0,0);

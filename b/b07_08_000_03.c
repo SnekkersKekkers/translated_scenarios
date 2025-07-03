@@ -13,7 +13,7 @@ MsgDisp("Shirahane","I help out the sports clubs. Track and
 field club, soccer club, basketball club,
 volleyball club, swimming club -- bring it
 on.");
-MsgDisp("主人公","AmazinG!");
+MsgDisp("主人公","Amazing!");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);

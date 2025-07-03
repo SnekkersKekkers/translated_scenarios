@@ -50,7 +50,7 @@ I'm glad you aren't hurt.
 Good work.");
     MsgDisp("主人公","(I might have lost the match,
 but I got healed by
-｛七ツ森＊｝'s kindness......)");
+｛七ツ森＊｝ 's kindness......)");
     break ;
     default :
     DbgAssert(1);

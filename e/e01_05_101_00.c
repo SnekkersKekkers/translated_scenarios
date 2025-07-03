@@ -79,7 +79,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝'s way of thinking
+MsgDisp("主人公","(｛柊＊＊＊｝ 's way of thinking
 is a bit complicated......)");
 MsgClose();
 ScrFadeOut(0,0);

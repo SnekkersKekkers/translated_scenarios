@@ -1,7 +1,8 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(There's only one class left in today’s schedule....");
+MsgDisp("主人公","(There's only one class left in today's
+schedule....");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -10,8 +11,8 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
 VoicePlay("F100410000_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Are you changing classrooms for next class?");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝. Are you changing
+classrooms for next class?");
 ChMotion(4,1,1);
 VoicePlay("F100410000_04_010");
 MsgDisp("Nanatsumori","Yeah.

@@ -97,6 +97,6 @@ MsgClose();
 ChClose(6);
 MsgDisp("主人公","(Traditional cuisine......
 I'm a bit curious about the food
-｛氷室＊＊｝'s mother makes.)");
+｛氷室＊＊｝ 's mother makes.)");
 MsgClose();
 ScrFadeOut(0,0);

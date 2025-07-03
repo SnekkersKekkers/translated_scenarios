@@ -41,7 +41,7 @@ I'm going to go for another run.");
     BGMStop();
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝'s really
+    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ 's really
 getting into it. Let's do our best so
 we can be of help to everyone!)");
     break ;

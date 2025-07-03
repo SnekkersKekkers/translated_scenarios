@@ -62,7 +62,7 @@ already this year. I will too......!)");
 time with you. But it's not good to 
 sprint so quickly beyond the starting 
 point.");
-    MsgDisp("主人公","In ｛颯砂＊＊｝'s mind,
+    MsgDisp("主人公","In ｛颯砂＊＊｝ 's mind,
 even this is like a track event.");
     ChEye(2,0);
     ChMouth(2,4);

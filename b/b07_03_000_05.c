@@ -48,7 +48,7 @@ MsgDisp("Honda","When aquatic plants form oxygen
 bubbles, doesn't it make you think of
 Earth's ancient oceans? In addition to
 that, I like to use my telescope.");
-MsgDisp("主人公","(｛本多＊＊｝'s hobbies are 
+MsgDisp("主人公","(｛本多＊＊｝ 's hobbies are 
 not so easy to learn......)");
 BGMStop();
 MsgClose();

@@ -112,7 +112,7 @@ feeling great and having a good time?");
     VoicePlay("I550400000_04_130");
     MsgDisp("Nanatsumori","So, if I was the one feeling like
 that, which would you recommend?");
-    MsgDisp("主人公","｛七ツ森＊｝'s current feelings?
+    MsgDisp("主人公","｛七ツ森＊｝ 's current feelings?
 A very good mood, and kinda happy......");
     ChEye(4,3);
     ChMouth(4,3);

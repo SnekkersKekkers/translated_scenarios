@@ -36,7 +36,7 @@ ChMotion(3,0);
 VoicePlay("G110300900_03_020");
 MsgDisp("Honda","When customers look at the cover, 
 it catches their eye, right?");
-MsgDisp("主人公","Amazing. This is ｛本多＊＊｝'s
+MsgDisp("主人公","Amazing. This is ｛本多＊＊｝ 's
 recommendations corner, right?'");
 ChEye(3,1);
 ChMouth(3,1);

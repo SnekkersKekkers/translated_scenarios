@@ -25,7 +25,7 @@ ChMotion(7,0);
 VoicePlay("T020701000_07_020");
 MsgDisp("Mikage","Will you go with me?
 It's my graduation ceremony.");
-MsgDisp("主人公","｛御影＊＊｝'s graduation ceremony? Are
+MsgDisp("主人公","｛御影＊＊｝ 's graduation ceremony? Are
 you going to quit your job as a teacher at
 Haba School?");
 ChEye(7,2);

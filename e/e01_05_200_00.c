@@ -70,7 +70,7 @@ ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("E010520000_06_030");
 MsgDisp("Himuro","......How about mine?");
-MsgDisp("主人公","｛氷室＊＊｝'s style is......
+MsgDisp("主人公","｛氷室＊＊｝ 's style is......
 Street wear?");
 ChMouth(5,2);
 ChEye(6,0);

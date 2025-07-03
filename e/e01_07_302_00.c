@@ -69,7 +69,7 @@ VoicePlay("E010730200_07_050");
 MsgDisp("Mikage","As punishment, I'll prepare
 a lot of eggplant for him.");
 MsgDisp("主人公","(｛御影＊＊｝, you're worried about
-｛氷室＊＊｝'s health, aren't you......?)");
+｛氷室＊＊｝ 's health, aren't you......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

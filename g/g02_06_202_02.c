@@ -74,7 +74,7 @@ VoicePlay("G020620202_06_100");
 MsgDisp("Himuro","That's why, I want to face this head-on.
 I wanted to tell you that.");
 MsgDisp("主人公","Yeah......");
-MsgDisp("主人公","(｛氷室＊＊｝'s serious feelings really
+MsgDisp("主人公","(｛氷室＊＊｝ 's serious feelings really
 came through......)");
 BGMStop();
 MsgClose();

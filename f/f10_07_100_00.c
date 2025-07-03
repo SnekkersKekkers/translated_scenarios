@@ -39,7 +39,7 @@ VoicePlay("F100710000_07_030");
 MsgDisp("Mikage","Oh, wait, wait.
 You came all this way already.
 I'll serve you some tea.");
-MsgDisp("主人公","Hehe. This is kind of like ｛御影＊＊｝'s
+MsgDisp("主人公","Hehe. This is kind of like ｛御影＊＊｝ 's
 house.'");
 ChEye(7,0);
 ChMouth(7,0);

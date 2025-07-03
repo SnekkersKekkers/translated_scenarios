@@ -53,7 +53,7 @@ Well then, see you after school.");
 ask you▼ Are you prepared?
 A bientot! Mari!");
     MsgDisp("主人公","(A sleepover at ｛みちる＊｝ and
-｛ひかる＊｝'s home. This will be fun!)");
+｛ひかる＊｝ 's home. This will be fun!)");
     break ;
     case 1:
     ChEye(22,2);

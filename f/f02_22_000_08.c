@@ -37,7 +37,7 @@ VoicePlay("F022200008_22_030");
 MsgDisp("Hikaru","Ah!
 Of course I'm looking to the exhibits!
 And watching couples enjoying them♪");
-MsgDisp("主人公","(｛ひかる＊｝'s way of enjoying the 
+MsgDisp("主人公","(｛ひかる＊｝ 's way of enjoying the 
 cultural festival is a bit weird...)");
 MsgClose();
 ScrFadeOut(0,0);

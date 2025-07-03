@@ -125,7 +125,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
 MsgDisp("主人公","(Hmphhh......
-I really think ｛本多＊＊｝'s hairstyle
+I really think ｛本多＊＊｝ 's hairstyle
 suits him though.)");
 MsgClose();
 ScrFadeOut(0,0);

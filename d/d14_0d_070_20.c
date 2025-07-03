@@ -59,7 +59,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 MsgDisp("Michiru","What a wonderful rumour.
 Right, Mari?");
-MsgDisp("主人公","(｛颯砂＊＊｝'s father was also an
+MsgDisp("主人公","(｛颯砂＊＊｝ 's father was also an
 athlete... that makes a lot of sense.)");
 BGMStop();
 MsgClose();

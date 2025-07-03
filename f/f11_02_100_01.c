@@ -47,7 +47,7 @@ ChEyeOpenLevel(2,8);
 VoicePlay("F110210001_02_040");
 MsgDisp("Sassa","Well, I did make that promise...");
 MsgDisp("主人公","Hehe. Seems like the culture festival 
-is becoming more like ｛颯砂＊＊｝'s 
+is becoming more like ｛颯砂＊＊｝ 's 
 track and field class.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -58,7 +58,7 @@ Well, I'll see you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝'s like a famous athlete.
+MsgDisp("主人公","(｛颯砂＊＊｝ 's like a famous athlete.
 Maybe he's becoming our culture 
 festival's specialty?)");
 MsgClose();

@@ -65,7 +65,7 @@ Happy New Year.");
     MsgDisp("Hiiragi","Such a cheerful voice on the first
 day of the year. I'm happy to hear it.");
     MsgDisp("主人公","Hehe, I'm happy to hear
-｛柊＊＊＊｝'s voice too.");
+｛柊＊＊＊｝ 's voice too.");
     VoicePlay("S040500000_05_070");
     MsgDisp("Hiiragi","How about we both go and cheerfully
 say hello to the gods?");

@@ -155,7 +155,7 @@ VoicePlay("B050800100_08_190");
 MsgDisp("Shirahane","Alright!
 I don't know what it is,
 but I'm gonna give it my bestー∈");
-MsgDisp("主人公","(Hehe! I wonder where ｛大地＊＊｝'s dream
+MsgDisp("主人公","(Hehe! I wonder where ｛大地＊＊｝ 's dream
 will take him?')");
 BGMStop();
 MsgClose();

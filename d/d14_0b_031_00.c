@@ -30,7 +30,7 @@ VoicePlay("D140B03100_01_010");
 MsgDisp("Kazama","That's why ramen is a dangerous 
 topic with Honda...");
 MsgDisp("主人公","Hehe.
-Wasn't ｛本多＊＊｝'s lecture 
+Wasn't ｛本多＊＊｝ 's lecture 
 on ramen interesting?'");
 ChMotion(4,0,1);
 VoicePlay("D140B03100_04_000");

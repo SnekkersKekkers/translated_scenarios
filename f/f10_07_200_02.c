@@ -19,7 +19,7 @@ VoicePlay("F100720002_07_000");
 MsgDisp("Mikage","Ohh, you came.");
 VoicePlay("F100720002_05_000");
 MsgDisp("Hiiragi","We have been waiting for you.");
-MsgDisp("主人公","Hehe, ｛柊＊＊＊｝'s class was 
+MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ 's class was 
 here last, weren't they?");
 ChEye(7,0);
 ChMouth(7,0);

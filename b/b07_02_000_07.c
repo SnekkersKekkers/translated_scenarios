@@ -1,4 +1,4 @@
-MsgDisp("主人公","I want to know ｛颯砂＊＊｝'s
+MsgDisp("主人公","I want to know ｛颯砂＊＊｝ 's
 dreams for the future.");
 ChEye(2,0);
 ChMouth(2,4);

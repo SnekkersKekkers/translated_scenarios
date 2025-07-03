@@ -49,7 +49,7 @@ ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240501000_05_030");
 MsgDisp("Hiiragi","It's perfect.");
-MsgDisp("主人公","That's because of ｛柊＊＊＊｝'s 
+MsgDisp("主人公","That's because of ｛柊＊＊＊｝ 's 
 acting direction.");
 ChEye(5,0);
 VoicePlay("P240501000_05_040");

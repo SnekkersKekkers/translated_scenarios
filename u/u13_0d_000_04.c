@@ -101,7 +101,7 @@ will become reality soon▼");
 Yanosuke's passionate side soon? Ah～n, 
 Hikaru wants to see that performance～▼");
     StlEye(22,0);
-    MsgDisp("主人公","(｛ひかる＊｝... If it's ｛柊＊＊＊｝'s
+    MsgDisp("主人公","(｛ひかる＊｝... If it's ｛柊＊＊＊｝ 's
 real life love story performance, I want
 to see it too...)");
     break ;

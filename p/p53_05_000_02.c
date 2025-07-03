@@ -94,7 +94,7 @@ who sis performing on stage.");
     MsgDisp("Hiiragi","I wanted to relieve your stress, 
 but it appears there's no need for that.");
     MsgDisp("主人公","No.
-I calmed down seeing ｛柊＊＊＊｝'s face.");
+I calmed down seeing ｛柊＊＊＊｝ 's face.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

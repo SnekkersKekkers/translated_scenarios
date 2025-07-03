@@ -118,7 +118,7 @@ MsgDisp("主人公","(｛七ツ森＊｝...
 what's wrong?)");
 MsgDisp("主人公","(Still, the cheers after Nanatsumori's
 makeup was removed was amazing... I wonder
-if that revealed ｛七ツ森＊｝'s true
+if that revealed ｛七ツ森＊｝ 's true
 identity...')");
 MsgClose();
 ScrFadeOut(0,0);

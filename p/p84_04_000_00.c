@@ -9,7 +9,7 @@ VoicePlay("P840400000_04_000");
 MsgDisp("Nanatsumori","Haー......
 that was quite a lot to move.");
 MsgDisp("主人公","Yeah.
-It's thanks to ｛七ツ森＊｝'s help, 
+It's thanks to ｛七ツ森＊｝ 's help, 
 you really saved me!");
 ChEye(4,2);
 ChMouth(4,3);

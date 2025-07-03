@@ -31,7 +31,7 @@ chances for love around Mari♪");
 MsgDisp("主人公","I-is that so, I wonder?");
 MsgDisp("主人公","...Huh?
 And before I knew it, we're talking 
-about me! What about ｛ひかる＊｝'s
+about me! What about ｛ひかる＊｝ 's
 love——");
 ChEye(22,3);
 ChMouth(22,3);

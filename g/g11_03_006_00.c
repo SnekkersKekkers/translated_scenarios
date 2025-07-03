@@ -22,7 +22,7 @@ BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Good work. ｛本多＊＊｝'s introductory
+MsgDisp("主人公","Good work. ｛本多＊＊｝ 's introductory
 text was well-received, and even praised
 by the manager.'");
 ChEye(3,0);

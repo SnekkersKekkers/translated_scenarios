@@ -1,7 +1,7 @@
 MsgDisp("","After graduation, I went on to a
 first-rate university with ｛本多＊＊｝.");
 MsgClear();
-MsgDisp("","｛本多＊＊｝'s research theme is people.
+MsgDisp("","｛本多＊＊｝ 's research theme is people.
 He has been hanging out in the lab since
 her first year. At first, the professors
 and seniors were annoyed by him, but, they

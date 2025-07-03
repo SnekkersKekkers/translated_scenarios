@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     BGOpen("sc721",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Is this an effect of ｛御影＊＊｝'s
+    MsgDisp("主人公","(Is this an effect of ｛御影＊＊｝ 's
 production? More and more customers are
 gathering...)");
     MsgClose();
@@ -43,7 +43,7 @@ Dear customer, entry for one!");
     BGOpen("sc721",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Is this an effect of ｛御影＊＊｝'s
+    MsgDisp("主人公","(Is this an effect of ｛御影＊＊｝ 's
 production? More and more customers are
 gathering...)");
     MsgClose();

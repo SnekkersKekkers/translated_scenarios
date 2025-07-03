@@ -5,7 +5,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝'s birthday is
+MsgDisp("主人公","｛本多＊＊｝ 's birthday is
 coming up, right?");
 ChMouth(3,3);
 ChMotion(3,1);

@@ -15,7 +15,7 @@ VoicePlay("F110510001_05_010");
 MsgDisp("Hiiragi","Yes. In-between student council duties, I
 manage registration, booth validation, and
 sampling, too.");
-MsgDisp("主人公","What is ｛柊＊＊＊｝'s yakisoba
+MsgDisp("主人公","What is ｛柊＊＊＊｝ 's yakisoba
 recommendation, then?");
 ChEye(5,0);
 ChMouth(5,4);

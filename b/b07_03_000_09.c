@@ -69,7 +69,7 @@ MsgDisp("Honda","Huh, is that no good? Did I sound
 weird? It seems like my voice has that
 same effect on you......");
 MsgDisp("主人公","(I wonder if I'll get to learn
-｛本多＊＊｝'s thoughts on \"Love\"
+｛本多＊＊｝ 's thoughts on \"Love\"
 some day......?)");
 BGMStop();
 MsgClose();

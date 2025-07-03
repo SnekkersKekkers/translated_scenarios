@@ -17,7 +17,7 @@ VoiceEVSPlay(2);
 VoicePlay("G110200700_02_010");
 MsgDisp("Sassa","｛主人公｝, good work.");
 MsgDisp("主人公","Yeah.
-Aaah, ｛颯砂＊＊｝'s time is......");
+Aaah, ｛颯砂＊＊｝ 's time is......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

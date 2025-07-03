@@ -18,7 +18,7 @@ VoicePlay("D010300000_03_010");
 MsgDisp("Honda","Yeah.
 I like to come here sometimes because
 my roots are here.");
-MsgDisp("主人公","｛本多＊＊｝'s roots?");
+MsgDisp("主人公","｛本多＊＊｝ 's roots?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -89,7 +89,7 @@ StlClose();
 MsgClose();
 ChOpen(3,254,0,0,0,-1,-1,0,0,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","So ｛本多＊＊｝'s current lifestyle was
+MsgDisp("主人公","So ｛本多＊＊｝ 's current lifestyle was
 born from his mother's advice.");
 ChEye(3,0);
 ChMouth(3,3);

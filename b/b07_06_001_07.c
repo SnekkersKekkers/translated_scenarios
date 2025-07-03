@@ -51,7 +51,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600001_06_540");
 MsgDisp("Himuro","I think it's spread to me.");
-MsgDisp("主人公","(｛氷室＊＊｝'s face is also red...
+MsgDisp("主人公","(｛氷室＊＊｝ 's face is also red...
 what happened to us?)");
 BGMStop();
 MsgClose();

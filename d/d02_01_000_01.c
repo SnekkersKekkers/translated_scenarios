@@ -82,7 +82,7 @@ NSSMouth(1,2);
 NSSMouthOpenLevel(1,0);
 VoicePlay("D020100000_01_130");
 MsgDisp("Kazama","Hm?");
-MsgDisp("主人公","｛風真＊＊｝'s wish is also my wish,
+MsgDisp("主人公","｛風真＊＊｝ 's wish is also my wish,
 so......");
 NSSEye(1,6);
 NSSMouth(1,3);

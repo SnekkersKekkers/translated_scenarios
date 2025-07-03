@@ -70,7 +70,7 @@ VoicePlay("B070500001_05_600");
 MsgDisp("Hiiragi","If both our hearts are racing, 
 then there's no need for 
 either of us to worry.");
-MsgDisp("主人公","(｛柊＊＊＊｝'s
+MsgDisp("主人公","(｛柊＊＊＊｝ 's
 heart also races when
 he's around me...?)");
 BGMStop();

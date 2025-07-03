@@ -52,6 +52,6 @@ Well the, see ya.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);
-MsgDisp("主人公","(｛大地＊＊｝'s face is red...')");
+MsgDisp("主人公","(｛大地＊＊｝ 's face is red...')");
 MsgClose();
 ScrFadeOut(0,0);

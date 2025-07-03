@@ -70,7 +70,7 @@ the hard work also makes it fun.
 Like running together.");
         MsgDisp("主人公","I see.
 But is there a doggy that
-can keep up with ｛颯砂＊＊｝'s running?'");
+can keep up with ｛颯砂＊＊｝ 's running?'");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);

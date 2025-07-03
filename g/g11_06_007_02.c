@@ -90,7 +90,7 @@ MsgDisp("Himuro","Of course not.
 It's just that you only see me
 doing the things I'm good at.");
 MsgDisp("主人公","Is that right......?
-Then, ｛氷室＊＊｝'s
+Then, ｛氷室＊＊｝ 's
 weaknesses——");
 ChEye(6,1);
 ChMouth(6,1);

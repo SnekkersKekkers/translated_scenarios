@@ -64,7 +64,7 @@ ChMotion(3,2,1);
 VoicePlay("G020310307_03_090");
 MsgDisp("Honda","I hope she gets over her 
 dislike of boys soon......");
-MsgDisp("主人公","(I can understand both ｛本多＊＊｝'s 
+MsgDisp("主人公","(I can understand both ｛本多＊＊｝ 's 
 feelings and his sister's......)");
 BGMStop();
 MsgClose();

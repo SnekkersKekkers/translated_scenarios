@@ -64,7 +64,7 @@ VoicePlay("D140C03200_07_020");
 MsgDisp("Mikage","Ahh, my parents sent me a 
 bunch of cup noodles, 
 do you want some?");
-MsgDisp("主人公","｛御影＊＊｝'s parents...
+MsgDisp("主人公","｛御影＊＊｝ 's parents...
 They live on a farm right?");
 ChEye(5,0);
 ChMouth(5,2);
@@ -110,7 +110,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C03200_05_030");
 MsgDisp("Hiiragi","Stealth marketing?");
-MsgDisp("主人公","(｛御影＊＊｝'s parents really do
+MsgDisp("主人公","(｛御影＊＊｝ 's parents really do
 dabble in everything...)");
 BGMStop();
 MsgClose();

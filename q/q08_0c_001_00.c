@@ -14,7 +14,7 @@ MsgDisp("Hiiragi","Yeah, me too. It's such fun, school
 trips. It's a shame couldn't go in 
 primary and junior high school.");
 MsgDisp("主人公","Oh yeah......
-It's ｛柊＊＊＊｝'s first school trip.");
+It's ｛柊＊＊＊｝ 's first school trip.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

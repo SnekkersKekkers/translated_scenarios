@@ -81,7 +81,7 @@ StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300300_03_090");
 MsgDisp("Honda","I guess it something similar to that～");
-MsgDisp("主人公","(｛本多＊＊｝'s explanation is easy to
+MsgDisp("主人公","(｛本多＊＊｝ 's explanation is easy to
 understand but to use his dad's shirt
 in the analogy is kind of......)");
 MsgClose();
@@ -110,7 +110,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","O-Okay.
 I'll give it a try!");
-MsgDisp("主人公","(｛本多＊＊｝'s shirt is probably so
+MsgDisp("主人公","(｛本多＊＊｝ 's shirt is probably so
 baggy on him because it's actually
 his father's......)");
 MsgClose();

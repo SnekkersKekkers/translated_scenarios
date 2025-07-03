@@ -25,7 +25,7 @@ MsgDisp("Kazama","Yeah, it feels like we're making up for
 the 10 years we missed out on with a lot
 of intensity");
 MsgDisp("主人公","But, I want to know more of 
-｛風真＊＊｝'s life in england.'");
+｛風真＊＊｝ 's life in england.'");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

@@ -60,7 +60,7 @@ ChMotion(7,0);
 VoicePlay("G110700700_07_050");
 MsgDisp("Mikage","Oh, that's the warning bell.
 Go get ready for the next class.");
-MsgDisp("主人公","Yes. But, next up is ｛御影＊＊｝'s
+MsgDisp("主人公","Yes. But, next up is ｛御影＊＊｝ 's
 biology class, isn't it?");
 ChEye(7,0);
 ChMouth(7,3);

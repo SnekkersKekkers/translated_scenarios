@@ -5,7 +5,7 @@ ChMotion(5,4);
 VoicePlay("B070500001_05_610");
 MsgDisp("Hiiragi","Is something the matter?");
 MsgDisp("主人公","I wanted to take a proper
-look at ｛柊＊＊＊｝'s face.'");
+look at ｛柊＊＊＊｝ 's face.'");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_620");

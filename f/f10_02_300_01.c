@@ -89,7 +89,7 @@ MsgDisp("Sassa","If Hikaru-san
 was eating a hamburger on a street 
 corner, she'd look cool.");
 MsgDisp("主人公","(I see.
-So that's ｛ひかる＊｝'s gap moe...)");
+So that's ｛ひかる＊｝ 's gap moe...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

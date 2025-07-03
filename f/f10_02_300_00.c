@@ -105,7 +105,7 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F100230000_21_040");
 MsgDisp("Michiru","Hehe, that's why it's good.");
-MsgDisp("主人公","(I see, ｛颯砂＊＊｝'s gap...)");
+MsgDisp("主人公","(I see, ｛颯砂＊＊｝ 's gap...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

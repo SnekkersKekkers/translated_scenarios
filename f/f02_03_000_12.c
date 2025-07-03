@@ -42,5 +42,5 @@ VoicePlay("F020300012_03_040");
 MsgDisp("Honda","Right! Those pupa I found at the forest
 park...... I get to see them hatch with
 my own eyes!");
-MsgDisp("主人公","(｛本多＊＊｝'s spring break seems
+MsgDisp("主人公","(｛本多＊＊｝ 's spring break seems
 enriching as always......)");

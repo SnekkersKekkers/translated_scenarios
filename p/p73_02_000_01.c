@@ -107,7 +107,7 @@ not afraid to appear anywhere.");
     MsgDisp("Sassa","Alright, I'll also be cheering 
 you on from a good seat.
 Have fun!");
-    MsgDisp("主人公","(Alright, let's live up to ｛颯砂＊＊｝'s
+    MsgDisp("主人公","(Alright, let's live up to ｛颯砂＊＊｝ 's
 expectations!)");
     MsgClose();
     ScrFadeOut(0,0);

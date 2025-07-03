@@ -97,7 +97,7 @@ let's go together.");
 MsgDisp("主人公","Eh, me too∋");
 MsgDisp("主人公","(I got caught up in this...
 But, I hope this will be able to
-reach ｛本多＊＊｝'s younger sister.)");
+reach ｛本多＊＊｝ 's younger sister.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

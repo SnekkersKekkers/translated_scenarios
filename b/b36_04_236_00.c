@@ -36,7 +36,7 @@ ChClose(4,0,30);
 ChLayout(0);
 ChNanaType(0);
 ChOpen(4,255,0,0,3,-1,-1,0,0,0,60);
-MsgDisp("主人公","(｛七ツ森＊｝'s face is super close...)");
+MsgDisp("主人公","(｛七ツ森＊｝ 's face is super close...)");
 VoicePlay("B360423600_04_040");
 MsgDisp("Nanatsumori","Your eyes...");
 MsgDisp("主人公","｛七ツ森＊｝……");

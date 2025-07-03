@@ -45,7 +45,7 @@ what it would be like to live together.");
         MsgDisp("Mikage","But what I'm talking about, 
 is more like seeing the other
 person's vitality,");
-        MsgDisp("主人公","｛御影＊＊｝'s vitality is so strong, you
+        MsgDisp("主人公","｛御影＊＊｝ 's vitality is so strong, you
 can see it even on the regular?'");
         ChEye(7,0);
         ChMouth(7,0);

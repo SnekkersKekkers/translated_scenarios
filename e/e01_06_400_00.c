@@ -136,7 +136,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
 MsgDisp("主人公","(Hmm......
-｛氷室＊＊｝'s face was bright red.
+｛氷室＊＊｝ 's face was bright red.
 Did I make him angry......?)");
 BGMStop();
 MsgClose();

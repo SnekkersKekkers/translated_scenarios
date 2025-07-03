@@ -3,7 +3,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, ｛氷室＊＊｝'s souvenir is
+MsgDisp("主人公","(Alright, ｛氷室＊＊｝ 's souvenir is
 gonna be the matcha castella with a 
 little bit of sweetness.)");
 MsgClose();

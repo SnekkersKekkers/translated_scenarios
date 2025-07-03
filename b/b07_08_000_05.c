@@ -29,7 +29,7 @@ VoicePlay("B070800000_08_270");
 MsgDisp("Shirahane","The articles and photos are always
 interesting, right? I like it so much
 that I read it over and over.");
-MsgDisp("主人公","(So ｛大地＊＊｝'s hobbies are challenging
+MsgDisp("主人公","(So ｛大地＊＊｝ 's hobbies are challenging
 himself and reading Habcha...)");
 BGMStop();
 MsgClose();

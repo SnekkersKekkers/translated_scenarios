@@ -22,7 +22,7 @@ MsgDisp("Hiiragi","Somehow I can feel the nerves before
 the curtain rising even being 
 in the audience.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Hehe, it's not ｛柊＊＊＊｝'s play?'
+MsgDisp("主人公","Hehe, it's not ｛柊＊＊＊｝ 's play?'
 ...Ah, seems like it's starting!");
 MsgDispSksp(0);
 SEPlay("EV_SE_038");
