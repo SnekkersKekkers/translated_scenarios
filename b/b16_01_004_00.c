@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160100400_01_000");
 MsgDisp("Kazama","Hey, you know I'm a guy too right?
 Do you understand?");
-MsgSel("｛風真＊＊｝is a guy, yes.","You'd be so cute if you were a girl♪");
+MsgSel("｛風真＊＊｝ is a guy, yes.","You'd be so cute if you were a girl♪");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(1,0);

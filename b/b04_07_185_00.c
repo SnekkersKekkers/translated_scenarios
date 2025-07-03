@@ -6,7 +6,7 @@ VoicePlay("B040718500_07_000");
 MsgDisp("Mikage","What do you think about the
 \"Road to First Love\" being the theme of 
 our class field trip?");
-MsgSel("I would like it!","Does｛御影＊＊｝dislike it?","What about your first love, Sensei?");
+MsgSel("I would like it!","Does ｛御影＊＊｝ dislike it?","What about your first love, Sensei?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

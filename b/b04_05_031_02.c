@@ -11,7 +11,7 @@ VoicePlay("B040503102_05_000");
 MsgDisp("Hiiragi","The sound of the water, the darkness,
 the air temperature...
 it's all so calming.");
-MsgSel("｛柊＊＊＊｝is like a fish","Maybe I want a little more excitement?","It should be feeding time soon");
+MsgSel("｛柊＊＊＊｝ is like a fish","Maybe I want a little more excitement?","It should be feeding time soon");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -9,7 +9,7 @@ VoicePlay("B040522102_05_000");
 MsgDisp("Hiiragi","I've been given the honor to use
 this place as a setting in my plays, 
 so I think I'm always on edge here.");
-MsgSel("The lords would definitely be happy!","｛柊＊＊＊｝is starting to look like a lord...","Relax a bit?");
+MsgSel("The lords would definitely be happy!","｛柊＊＊＊｝ is starting to look like a lord...","Relax a bit?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){

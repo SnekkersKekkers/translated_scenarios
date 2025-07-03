@@ -41,8 +41,8 @@ VoicePlay("G020130101_01_050");
 MsgDisp("Kazama","Do you consider me just a member of some
 larger group? 'Cause I consider you
 special.");
-MsgDisp("主人公","You're important to me, ｛風真＊＊｝;
-you're my one and only childhood friend.");
+MsgDisp("主人公","You're important to me, ｛風真＊＊｝.
+You're my one and only childhood friend.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);

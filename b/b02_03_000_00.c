@@ -9,7 +9,7 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B020300000_03_010");
 MsgDisp("Honda","Total opposite! It fits you amazingly
-well! I love what you're wearing!.");
+well! I love what you're wearing!");
 MsgDisp("主人公","(I'm glad!
 ｛本多＊＊｝ seems to really like
 this kind of fashion!)");

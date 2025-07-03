@@ -8,7 +8,7 @@ VoicePlay("B040816002_08_000");
 MsgDisp("Shirahane","Ah, this game!
 The one that's made in collaboration
 with that quiz show!");
-MsgSel("Can｛大地＊＊｝do it?","｛大地＊＊｝is also a quiz king!","Let's try it together!");
+MsgSel("Can ｛大地＊＊｝ do it?","｛大地＊＊｝ is also a quiz king!","Let's try it together!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(8,6)){

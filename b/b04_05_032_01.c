@@ -10,7 +10,7 @@ ChMotion(5,4);
 VoicePlay("B040503201_05_000");
 MsgDisp("Hiiragi","Looks like you can feed them.
 Would you like to try?");
-MsgSel("If ｛柊＊＊＊｝is interested","The pelicans are cool!","Their beaks are super sharp...!");
+MsgSel("If ｛柊＊＊＊｝ is interested","The pelicans are cool!","Their beaks are super sharp...!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

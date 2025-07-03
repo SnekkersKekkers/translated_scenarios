@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040214002_02_000");
 MsgDisp("Sassa","This might be the first time 
 I've gotten this fired up until now.");
-MsgSel("Hehe, you're sweating.","｛颯砂＊＊｝is too excited","I'm also getting excited...");
+MsgSel("Hehe, you're sweating.","｛颯砂＊＊｝ is too excited","I'm also getting excited...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

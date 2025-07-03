@@ -13,7 +13,7 @@ VoicePlay("B040112102_01_000");
 MsgDisp("Kazama","Alright, this is the perfect place
 to check your fashion sense every
 once in awhile.");
-MsgSel("Then I'll pick out some clothes for ｛風真＊＊｝▼.","Yeah, let's get something matching.","Alright, I'll get serious!");
+MsgSel("Then I'll pick out some clothes for ｛風真＊＊｝▼","Yeah, let's get something matching.","Alright, I'll get serious!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

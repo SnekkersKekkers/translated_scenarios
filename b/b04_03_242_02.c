@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040324202_03_000");
 MsgDisp("Honda","Apparently solo camping
 is becoming a trend?");
-MsgSel("Going with｛本多＊＊｝is great▼","I can understand that feeling","I think it'll be lonely");
+MsgSel("Going with｛本多＊＊｝ is great▼","I can understand that feeling","I think it'll be lonely");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){

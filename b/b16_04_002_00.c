@@ -7,7 +7,7 @@ VoicePlay("B160400200_04_000");
 MsgDisp("Nanatsumori","Aah, hey!
 It's that defenseless 
 side of you...");
-MsgSel("｛七ツ森＊｝will protect me?","That's not true!");
+MsgSel("｛七ツ森＊｝ will protect me?","That's not true!");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(4,2);

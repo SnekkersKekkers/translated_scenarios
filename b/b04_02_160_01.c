@@ -6,7 +6,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040216001_02_000");
 MsgDisp("Sassa","Heeー, a dance game?");
-MsgSel("It's a game with a sports-like feel","Looks like we can have a dance battle","｛颯砂＊＊｝can go first");
+MsgSel("It's a game with a sports-like feel","Looks like we can have a dance battle","｛颯砂＊＊｝ can go first");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

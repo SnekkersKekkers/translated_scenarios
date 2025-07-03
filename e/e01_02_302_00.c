@@ -116,7 +116,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("E010230200_02_050");
-MsgDisp("Sassa","Ah, uh, see you!......");
+MsgDisp("Sassa","Ah, uh, see you......!");
 MsgDisp("主人公","Ah, goodbye, ｛御影＊＊｝.");
 ChPosition(2,0);
 Wait(60,0);

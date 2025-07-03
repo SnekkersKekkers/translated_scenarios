@@ -23,7 +23,7 @@ Are you busy right now?");
     VoicePlay("J010100000_01_030");
     MsgDisp("Kazama","I've got nothing going on. 
 Even if it's just for a bit, I don't
-mind!.");
+mind!");
     MsgDisp("主人公","Hehe, okay. Well...");
     break ;
     case 4:

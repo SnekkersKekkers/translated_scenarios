@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040208401_02_000");
 MsgDisp("Sassa","Are there no wild squirrels?");
-MsgSel("Let's look!","There's lots of acorns, so maybe there are","｛颯砂＊＊｝resembles one a little");
+MsgSel("Let's look!","There's lots of acorns, so maybe there are","｛颯砂＊＊｝ resembles one a little");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

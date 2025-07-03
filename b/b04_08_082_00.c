@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040808200_08_000");
 MsgDisp("Shirahane","Ha...it's strange?
 Doesn't it feel kinda healing?");
-MsgSel("Are you that tired?","It's because｛大地＊＊｝is that energetic","I feel soothed too");
+MsgSel("Are you that tired?","It's because ｛大地＊＊｝ is that energetic","I feel soothed too");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

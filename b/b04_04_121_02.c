@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040412102_04_000");
 MsgDisp("Nanatsumori","Is there anything 
 you want to look at?");
-MsgSel("Whatever｛七ツ森＊｝wants to see","Maybe some daily necessities","I'm kind of interested in some second hand clothes");
+MsgSel("Whatever｛七ツ森＊｝ wants to see","Maybe some daily necessities","I'm kind of interested in some second hand clothes");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){

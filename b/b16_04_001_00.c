@@ -7,7 +7,7 @@ VoicePlay("B160400100_04_000");
 MsgDisp("Nanatsumori","All men are wolves. 
 Do you understand the meaning 
 of that?");
-MsgSel("｛七ツ森＊｝is a lion▼","Roar!");
+MsgSel("｛七ツ森＊｝ is a lion▼","Roar!");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(4,2);

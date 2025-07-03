@@ -6,7 +6,7 @@ ChMotion(3,3,1);
 ScrFadeIn(0);
 VoicePlay("B040301102_03_000");
 MsgDisp("Honda","Look, there's reinforced glass over there!");
-MsgSel("That's dangerous!","｛本多＊＊｝can go first.","Can those below see us?");
+MsgSel("That's dangerous!","｛本多＊＊｝ can go first.","Can those below see us?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

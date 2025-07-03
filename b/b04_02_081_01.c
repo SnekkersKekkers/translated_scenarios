@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040208101_02_000");
 MsgDisp("Sassa","It really looks like snow?
 It somewhat lifts my spirits.");
-MsgSel("Yeah, it's totally like a cherry blossom blizzard!","｛颯砂＊＊｝looks like he's about to run","Don't only look upwards?");
+MsgSel("Yeah, it's totally like a cherry blossom blizzard!","｛颯砂＊＊｝ looks like he's about to run","Don't only look upwards?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

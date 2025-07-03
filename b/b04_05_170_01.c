@@ -39,7 +39,7 @@ fun.");
     ChMotion(5,3);
     VoicePlay("B040517001_05_030");
     MsgDisp("Hiiragi","That's it.
-It was my job to sayＹＥＳ!.");
+It was my job to say ＹＥＳ!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

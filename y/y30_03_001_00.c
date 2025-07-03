@@ -19,7 +19,7 @@ MsgClear();
 MsgDisp("","But the other day, for the first time
 I took someone outside of my family
 here.");
-MsgDisp("","｛主人公苗字｝｛主人公名前｝.");
+MsgDisp("","｛主人公苗字｝ ｛主人公名前｝.");
 MsgClear();
 MsgDisp("","She carefully traced the shape 
 of the swirl with her fingers, 

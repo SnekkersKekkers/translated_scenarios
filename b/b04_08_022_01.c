@@ -9,7 +9,7 @@ ChEyeOpenLevel(8,0);
 VoicePlay("B040802201_08_000");
 MsgDisp("Shirahane","What nice weather!
 Both the sea and sun are beautiful.");
-MsgSel("Is it because｛大地＊＊｝is a sunny guy?","A perfect day for a date.","Is it blessing us?");
+MsgSel("Is it because ｛大地＊＊｝ is a sunny guy?","A perfect day for a date.","Is it blessing us?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

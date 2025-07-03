@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040314002_03_000");
 MsgDisp("Honda","Bands are great huh?");
-MsgSel("Shall we form one together?","｛本多＊＊｝might be suited for vocals","｛本多＊＊｝might be suited for solo work");
+MsgSel("Shall we form one together?","｛本多＊＊｝ might be suited for vocals","｛本多＊＊｝ might be suited for solo work");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

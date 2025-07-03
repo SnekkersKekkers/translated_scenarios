@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040414002_04_000");
 MsgDisp("Nanatsumori","Both rock and visual 
 kei bands are cool...");
-MsgSel("Let's judge based off their music!","Does ｛七ツ森＊｝want to try it too?","They're overflowing with individuality aren't they?");
+MsgSel("Let's judge based off their music!","Does ｛七ツ森＊｝ want to try it too?","They're overflowing with individuality aren't they?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

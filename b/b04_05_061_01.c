@@ -11,7 +11,7 @@ ChMotion(5,4);
 VoicePlay("B040506101_05_000");
 MsgDisp("Hiiragi","Swimming in the ocean is amazing.
 The fact it makes people smile this much.");
-MsgSel("｛柊＊＊＊｝should smile too!","Let's tan with everything we've got!","Let's swim with all our might!");
+MsgSel("｛柊＊＊＊｝ should smile too!","Let's tan with everything we've got!","Let's swim with all our might!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

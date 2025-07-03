@@ -9,7 +9,7 @@ VoicePlay("B040222201_02_000");
 MsgDisp("Sassa","When I was in elementary school, as part
 of some out of school learning, I had to
 write my thoughts on this place.");
-MsgSel("What did｛颯砂＊＊｝write?","You still come here for extracurricular activities even now huh?","You've been coming here for ages, huh?");
+MsgSel("What did｛颯砂＊＊｝ write?","You still come here for extracurricular activities even now huh?","You've been coming here for ages, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

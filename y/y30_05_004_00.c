@@ -116,7 +116,7 @@ MsgDisp("主人公","\"What is everyone talking about?\"");
 MsgDisp("","A smile illuminated by the
 orange of the sunset.");
 MsgClear();
-MsgDisp("","｛主人公苗字｝｛主人公名前｝.");
+MsgDisp("","｛主人公苗字｝ ｛主人公名前｝.");
 MsgDisp("","When we heard her voice, Me and Inori
 made a little eye contact, and looked
 at Mikage-sensei.");

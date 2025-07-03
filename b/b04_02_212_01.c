@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040221201_02_000");
 MsgDisp("Sassa","What's this?
 Headbads with animal ears?");
-MsgSel("｛颯砂＊＊｝suits a thoroughbred horse.","Should I try on the bunny ear one?","I think｛颯砂＊＊｝would suit cat ears?");
+MsgSel("｛颯砂＊＊｝ suits a thoroughbred horse.","Should I try on the bunny ear one?","I think｛颯砂＊＊｝ would suit cat ears?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

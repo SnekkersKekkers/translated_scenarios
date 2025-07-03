@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("B040306301_03_000");
 MsgDisp("Honda","｛主人公｝, aren't you cold?");
-MsgSel("Is｛本多＊＊｝alright?","I'm good with the cold","Actually, I'm sensitive to the cold...");
+MsgSel("Is｛本多＊＊｝ alright?","I'm good with the cold","Actually, I'm sensitive to the cold...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

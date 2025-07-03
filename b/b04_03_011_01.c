@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040301101_03_000");
 MsgDisp("Honda","Is there something on your mind?");
-MsgSel("Is it okay to have so many people here?","｛本多＊＊｝is.","Habataki City is beautiful.");
+MsgSel("Is it okay to have so many people here?","｛本多＊＊｝ is.","Habataki City is beautiful.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

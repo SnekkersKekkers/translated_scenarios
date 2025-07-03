@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040215202_02_000");
 MsgDisp("Sassa","Huh? What's wrong? Are you not feeling
 well?");
-MsgSel("It's because｛颯砂＊＊｝is watching...","I'm the same as always!","I'll get serious from the next one!");
+MsgSel("It's because｛颯砂＊＊｝ is watching...","I'm the same as always!","I'll get serious from the next one!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -14,7 +14,7 @@ ScrFadeIn(0);
 VoicePlay("B040523602_05_000");
 MsgDisp("Hiiragi","Why is the amusement park so fun
 both during the day and at night?");
-MsgSel("｛柊＊＊＊｝is like a kid","Because the amusement park is a fun place!","Today's an all nighter!");
+MsgSel("｛柊＊＊＊｝ is like a kid","Because the amusement park is a fun place!","Today's an all nighter!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

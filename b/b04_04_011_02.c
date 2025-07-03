@@ -10,7 +10,7 @@ VoicePlay("B040401102_04_000");
 MsgDisp("Nanatsumori","I like the atmosphere here.
 It's just a bit, but I feel 
 like I've become an adult.");
-MsgSel("I also like it!","I feel a bit out of place...","It fits｛七ツ森＊｝perfectly!");
+MsgSel("I also like it!","I feel a bit out of place...","It fits｛七ツ森＊｝ perfectly!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

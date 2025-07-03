@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040210200_02_000");
 MsgDisp("Sassa","Heeh, so you're interested in this kind of
 thing?");
-MsgSel("I wonder?","Is｛颯砂＊＊｝not interested?","Yeah, it's cool huh!");
+MsgSel("I wonder?","Is ｛颯砂＊＊｝ not interested?","Yeah, it's cool huh!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

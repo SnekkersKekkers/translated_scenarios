@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040611001_06_000");
 MsgDisp("Himuro","You're getting too excited.
 Is it really that much fun?");
-MsgSel("Yeah, it's super fun!","It's because I'm with｛氷室＊＊｝","Is｛氷室＊＊｝not having fun?");
+MsgSel("Yeah, it's super fun!","It's because I'm with ｛氷室＊＊｝","Is ｛氷室＊＊｝ not having fun?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

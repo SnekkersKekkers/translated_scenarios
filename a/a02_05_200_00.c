@@ -8,7 +8,7 @@ ScrFadeOut(0,0);
 BGOpen("sc510",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(The student council room......
-Phew, I'm nervous!......)");
+Phew, I'm nervous......!)");
 MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_DOOR_024");

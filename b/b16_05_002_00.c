@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160500200_05_000");
 MsgDisp("Hiiragi","Before I noticed it, you were 
 there, continuously by my side.");
-MsgSel("Is that so?","It's only for you,｛柊＊＊＊｝though?");
+MsgSel("Is that so?","It's only for ｛柊＊＊＊｝, though?");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(5,4);

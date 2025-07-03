@@ -54,7 +54,7 @@ Am I gonna be done in here by you?");
         MsgDisp("Kazama","That's for sure, if we got to the peak,
 the angle won't let us be seen 
 from the carriage in front...");
-        MsgDisp("主人公","｛風真＊＊｝？");
+        MsgDisp("主人公","｛風真＊＊｝?");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,2);
