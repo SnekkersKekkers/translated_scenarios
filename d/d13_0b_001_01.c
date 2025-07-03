@@ -14,7 +14,7 @@ ChOpen(3,34,0,0,0,-1,-1,0,2,0,30);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("D130B00101_01_000");
-MsgDisp("Kazama","｛主人公｝。");
+MsgDisp("Kazama","｛主人公｝.");
 MsgDisp("主人公","Ah, you guys.
 Merry Christmas!");
 ChEye(3,3);

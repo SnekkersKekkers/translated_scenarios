@@ -21,7 +21,7 @@ But as expected, I'm still anxious.)");
     ChMotion(6,0);
     VoicePlay("P530600001_06_010");
     MsgDisp("Himuro","You're playing game music?
-Maybe it's because it's a familliar piece,
+Maybe it's because it's a familiar piece,
 there's a lot of customers.");
     MsgDisp("主人公","Ugh...I'm anxious.");
     ChEye(6,0);

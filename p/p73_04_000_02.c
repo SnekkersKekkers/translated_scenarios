@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing tradtional
+    MsgDisp("主人公","(This year we're showing traditional
 wedding dresses. I think I was able to
 make it pretty but...)");
     MsgClose();
@@ -53,7 +53,7 @@ high school life, let's do it properly!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing tradtional
+    MsgDisp("主人公","(This year we're showing traditional
 wedding dresses. I think I was able to
 make it pretty but...)");
     MsgClose();
@@ -70,7 +70,7 @@ make it pretty but...)");
     VoicePlay("P730400002_04_060");
     MsgDisp("Nanatsumori","You're beautiful.");
     MsgDisp("主人公","T-thank you...
-I'm a little embarassed.");
+I'm a little embarrassed.");
     ChEye(4,4);
     ChMouth(4,3);
     ChMouthOpenLevel(4,0);

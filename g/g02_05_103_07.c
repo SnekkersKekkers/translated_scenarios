@@ -62,7 +62,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020510307_05_080");
 MsgDisp("Hiiragi","It was not my intention to
 show an incomplete version.");
-MsgDisp("主人公","(Perhaps ｛柊＊＊＊｝ is embarassed......?)");
+MsgDisp("主人公","(Perhaps ｛柊＊＊＊｝ is embarrassed......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

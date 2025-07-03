@@ -16,7 +16,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_020");
 MsgDisp("Kazama","What am I saying......");
-MsgDisp("主人公","Umm......I'm embarassed.");
+MsgDisp("主人公","Umm......I'm embarrassed.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

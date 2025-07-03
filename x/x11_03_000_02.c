@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("X110300002_03_000");
     MsgDisp("Honda","I heard you won the judo match.
 Congratulations!");
-    MsgDisp("主人公","｛本多＊＊｝,Thanks.!");
+    MsgDisp("主人公","｛本多＊＊｝, thanks!");
     MsgDisp("主人公","(I'm glad I won!)");
     break ;
     case 4:

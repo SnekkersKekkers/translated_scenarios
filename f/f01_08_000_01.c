@@ -9,7 +9,7 @@ switch (ChPrmGet(8,6)){
     ChOpen(8,254,4,0,4,10,-1,5,0);
     VoicePlay("F010800001_08_000");
     MsgDisp("Shirahane","∋
-That sucks. It's embarassing...
+That sucks. It's embarrassing...
 Later!");
     MsgClose();
     BGMStop();

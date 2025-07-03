@@ -19,7 +19,7 @@ We lost......");
     VoicePlay("H2A2200001_22_010");
     MsgDisp("Hikaru","To think our Haba High track team
 would lose. There are all sorts of great
-people in this world～. Right?");
+people in this world～ Right?");
     MsgDisp("主人公","(We might have lost, but
 I'm glad that I stayed as
 the track and field club manager......)");

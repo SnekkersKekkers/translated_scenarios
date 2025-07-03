@@ -104,7 +104,7 @@ don't stand up～");
         ChMotion(7,5);
         VoicePlay("B040723202_07_100");
         MsgDisp("Mikage","O-oh.
-Don't stand up～.");
+Don't stand up～");
         MsgClose();
         ScrFadeOut(0);
         MsgDisp("","　　　　　　　　　　 ・

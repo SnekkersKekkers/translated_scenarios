@@ -7,7 +7,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 VoiceEVSPlay(1);
 VoicePlay("T020B30000_01_000");
-MsgDisp("Kazama?","｛主人公｝。");
+MsgDisp("Kazama?","｛主人公｝.");
 BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,4,3,-1,-1,0,0);
 MsgDisp("主人公","｛風真＊＊｝!

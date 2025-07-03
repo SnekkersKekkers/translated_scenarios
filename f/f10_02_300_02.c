@@ -60,7 +60,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100230002_22_030");
-MsgDisp("Hikaru","Why～.");
+MsgDisp("Hikaru","Why～");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

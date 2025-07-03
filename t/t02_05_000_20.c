@@ -6,7 +6,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoiceEVSPlay(5);
 VoicePlay("T020500020_05_000");
-MsgDisp("Hiiragi","｛主人公｝。");
+MsgDisp("Hiiragi","｛主人公｝.");
 ChMotion(5,4);
 Wait(16,0);
 VoicePlay("T020500020_05_010");

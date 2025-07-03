@@ -106,7 +106,7 @@ Because I believe in ｛七ツ森＊｝.");
         VoicePlay("B040430002_04_100");
         MsgDisp("Nanatsumori","｛主人公｝.
 Now... please listen to what
-I realy mean.");
+I really mean.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,1,1);
         VoicePlay("B040430002_04_110");

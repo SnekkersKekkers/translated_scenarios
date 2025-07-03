@@ -21,7 +21,7 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300004_03_020");
-MsgDisp("Honda","Yep～.
+MsgDisp("Honda","Yep～
 And I've never missed a gift.");
 ChEye(3,0);
 ChMouth(3,0);

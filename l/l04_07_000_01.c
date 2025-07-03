@@ -37,7 +37,7 @@ They're easy to open for a quick bite.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("L040700001_07_030");
-    MsgDisp("Mikage","Thanks～.");
+    MsgDisp("Mikage","Thanks～");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

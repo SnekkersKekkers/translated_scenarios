@@ -45,7 +45,7 @@ VoicePlay("B070300000_03_550");
 MsgDisp("Honda","It's happening right now.
 The tension. Sometimes this happens
 when we talk.");
-MsgDisp("主人公","That's somewhat embarassing......");
+MsgDisp("主人公","That's somewhat embarrassing......");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

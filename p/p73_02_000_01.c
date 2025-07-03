@@ -89,7 +89,7 @@ You're already like a princess!");
     MsgDisp("Sassa","Huh? is that no good?
 But, nothing but that comes to mind.");
     MsgDisp("主人公","Thanks you...
-I'm happy, but embarassed.");
+I'm happy, but embarrassed.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);

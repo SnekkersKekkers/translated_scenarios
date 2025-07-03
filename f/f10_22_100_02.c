@@ -24,7 +24,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102210002_22_010");
 MsgDisp("Hikaru","Yay♪
-They were super pretty flowers～.
+They were super pretty flowers～
 Hikaru liked them too after all▼");
 VoicePlay("F102210002_40_020");
 MsgDisp("Garden Club Member","We were truly in the wrong to doubt you!

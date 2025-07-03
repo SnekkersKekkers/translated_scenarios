@@ -59,7 +59,7 @@ VoicePlay("G110101101_01_040");
 MsgDisp("Kazama","How opportunistic.");
 ChEye(1,0);
 MsgDisp("主人公","I can buy cute clothes?
-and accesories too......");
+and accessories too......");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

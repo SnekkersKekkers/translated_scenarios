@@ -23,12 +23,12 @@ year I had thought it was a
 commonplace occurence.");
 MsgClear();
 MsgDisp("","This year however—— An exception to
-this situation has occured.");
+this situation has occurred.");
 MsgDisp("","\"I want to visit the shrine
 on new year's with that person.\"");
 MsgDisp("","I had thought about asking them since
 the end of the year. Feeling
-embarassed, and not having the
+embarrassed, and not having the
 courage to ask my parents for
 permission the day in question
 finally arrived.");

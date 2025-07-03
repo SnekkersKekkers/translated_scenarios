@@ -24,7 +24,7 @@ milk is laid out over there.");
 MsgClose();
 ChClose(4,0,30);
 VoicePlay("P140400000_04_030");
-MsgDisp("Nanatsumori","Yummmeeeh～.");
+MsgDisp("Nanatsumori","Yummmeeeh～");
 MsgDisp("主人公","(That's a sheep.
 Yay, the maze was a great success!)");
 MsgClose();

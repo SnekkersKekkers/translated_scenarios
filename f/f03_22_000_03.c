@@ -35,7 +35,7 @@ ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_140");
 MsgDisp("Hikaru","She gets too emotionally involved in 
-the story, and is embarassed to dance 
+the story, and is embarrassed to dance 
 with the boys. Aha▼");
 MsgDisp("主人公","(Both of them did ballet huh...)");
 BGMStop();

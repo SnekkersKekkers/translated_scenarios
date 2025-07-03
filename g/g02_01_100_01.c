@@ -69,7 +69,7 @@ MsgDisp("Kazama","......Huh? It doesn't smell like roses
 anymore.");
 MsgDisp("主人公","(I can't belive I'm the reason ｛風真＊＊｝
 likes sweets...... That's kind of
-embarrasing.");
+embarrassing.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

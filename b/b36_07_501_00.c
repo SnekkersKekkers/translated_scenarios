@@ -19,7 +19,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360750100_07_010");
-MsgDisp("Mikage","I'm on a date today～.
+MsgDisp("Mikage","I'm on a date today～
 ......Isn't that right?");
 MsgDisp("主人公","Uh......!");
 VoicePlay("B360750100_44_010");
@@ -30,7 +30,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750100_07_020");
 MsgDisp("Mikage","It's not unfair, club activities are fun
-too! Do your best everyone～.");
+too! Do your best everyone～");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

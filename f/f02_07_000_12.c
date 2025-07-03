@@ -47,7 +47,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F020700012_07_040");
-MsgDisp("Mikage","Oh, you're being relentless huh～.");
+MsgDisp("Mikage","Oh, you're being relentless huh～");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

@@ -26,7 +26,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,6);
 VoicePlay("D140D07061_22_010");
-MsgDisp("Hikaru","How suspicious～.");
+MsgDisp("Hikaru","How suspicious");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

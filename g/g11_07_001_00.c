@@ -2,7 +2,7 @@ BGOpen("sc210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Um, well the afternoon classes......");
 VoicePlay("G110700100_07_000");
-MsgDisp("Mikage?","Hey, over here～.");
+MsgDisp("Mikage?","Hey, over here～");
 MsgDisp("主人公","Hm?　This voice......");
 MsgClose();
 MsgClose();

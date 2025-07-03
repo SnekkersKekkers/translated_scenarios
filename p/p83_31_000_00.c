@@ -3,7 +3,7 @@ BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Alright, let's check the guests
-list...eh? \"AHnatsubaki Gorou\"?)");
+list...eh? \"Hanatsubaki Goro\"?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

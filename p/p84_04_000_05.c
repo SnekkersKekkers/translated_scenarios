@@ -33,7 +33,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P840400005_04_020");
-MsgDisp("Nanatsumori","Well, being dilligent can backfire.
+MsgDisp("Nanatsumori","Well, being diligent can backfire.
 Don't be discouraged.");
 MsgDisp("主人公","(Even though I was supposed to be a role
 model. Haa... my last cultural festival

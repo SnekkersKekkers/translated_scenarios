@@ -34,7 +34,7 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_090");
-MsgDisp("Hikaru","I mean～.
+MsgDisp("Hikaru","I mean～
 I'm rarely allowed to eat it.
 Even though it's super delicious?");
 MsgDisp("主人公","(Ah...｛ひかる＊｝ is a model so, 

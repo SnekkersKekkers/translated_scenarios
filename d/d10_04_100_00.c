@@ -38,7 +38,7 @@ ChLayout(0);
 ChNanaType(0);
 ChOpen(4,254,0,0,3,-1,-1,0,0);
 SEPlay("EV_SE_544");
-MsgDisp("主人公","This is sort of embarassing......
+MsgDisp("主人公","This is sort of embarrassing......
 Ahhh......");
 ChEye(4,1);
 ChMouth(4,3);

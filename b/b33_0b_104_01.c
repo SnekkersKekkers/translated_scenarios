@@ -102,7 +102,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B10401_03_030");
-MsgDisp("Honda","Is taht so? Ryo-kun?");
+MsgDisp("Honda","Is that so? Ryo-kun?");
 MsgDisp("主人公","……｛風真＊＊｝？");
 ChEye(1,0);
 ChMouth(1,1);

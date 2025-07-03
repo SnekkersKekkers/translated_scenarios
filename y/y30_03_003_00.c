@@ -7,7 +7,7 @@ MsgDisp("Honda","\"Today was a huge failure... Haa, she
 mus have been really surprised too\"");
 MsgClear();
 MsgDisp("","Whilst I was working at my part time
-job, A chemical change occured within
+job, A chemical change occurred within
 me. It happens from time to time when
 I'm with her, A reaction in the
 deepest parts of my chest.");

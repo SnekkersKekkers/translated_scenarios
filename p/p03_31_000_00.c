@@ -21,7 +21,7 @@ ChMotion(31,0);
 VoicePlay("P033100000_31_010");
 MsgDisp("Goro","Oh my.
 Your look, wearing that yukata,
-is quite fresh～.");
+is quite fresh～");
 MsgDisp("主人公","Hehe, thank you very much.
 This is a Japanese-style cafe.");
 ChEye(31,0);

@@ -149,7 +149,7 @@ is all done as well!");
     SEPlay("EV_SE_589");
     VoicePlay("I650200000_36_000");
     MsgDisp("Male Customer","Thanks.
-I'll come again～.");
+I'll come again～");
     MsgDisp("主人公","Thank you very much～!");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     Wait(90,0);

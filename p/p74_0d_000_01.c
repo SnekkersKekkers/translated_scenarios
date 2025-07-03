@@ -15,7 +15,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0);
 VoicePlay("P740D00001_22_000");
-MsgDisp("Hikaru","Even though your clothes were so lovely～.
+MsgDisp("Hikaru","Even though your clothes were so lovely～
 Maybe yoru body is a bit stiff?");
 ChEye(21,4);
 ChMouth(21,0);

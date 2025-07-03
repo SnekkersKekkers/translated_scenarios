@@ -55,7 +55,7 @@ are so lively. I'm super excited!");
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_040");
         MsgDisp("Nanatsumori","Ah... that reminds me. Do you remember the
-store selling silver accesories we saw
+store selling silver accessories we saw
 while passing by earlier?");
         MsgDisp("主人公","Silver accessories?
 Ah, the shop with queue and 

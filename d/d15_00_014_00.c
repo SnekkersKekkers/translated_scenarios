@@ -5,7 +5,7 @@ ChEye ( 4,0 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150001400_04_000" ) ;
-MsgDisp ( "七ツ森","Even though the school cafetaria is a bit
+MsgDisp ( "七ツ森","Even though the school cafeteria is a bit
 lame, there's a lot of variety." ) ;
 MsgDisp ( "主人公","It's kind of like a restaurant that sells
 meal sets." ) ;

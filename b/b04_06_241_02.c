@@ -55,7 +55,7 @@ kind of reaction you would have.");
         ChCheek(6,10);
         VoicePlay("B040624102_06_050");
         MsgDisp("Himuro","It won't become 
-that embarrasing.");
+that embarrassing.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

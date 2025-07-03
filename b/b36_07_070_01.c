@@ -9,7 +9,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360707001_07_000");
-MsgDisp("Mikage","I'm so tired now～. I wonder if those two
+MsgDisp("Mikage","I'm so tired now～ I wonder if those two
 got home safely......");
 MsgDisp("主人公","Maybe the two of them
 are playing together?");

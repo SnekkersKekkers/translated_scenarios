@@ -1,7 +1,7 @@
 BGOpen("ar200",0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛氷室＊＊｝, Good work today.
-Do you wnat to walk partway home together");
+Do you want to walk partway home together");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,35,1,0,0,-1,-1,0,0);

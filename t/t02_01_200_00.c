@@ -156,7 +156,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("T020120000_01_170");
-MsgDisp("Kazama","――｛主人公｝。");
+MsgDisp("Kazama","――｛主人公｝.");
 MsgClear();
 ChClose(1);
 ChCustomLayout(1,5,0,-2.7);

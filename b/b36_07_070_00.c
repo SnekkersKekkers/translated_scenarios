@@ -10,7 +10,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360707000_07_000");
 MsgDisp("Mikage","The shopping district it so lively
-at this time～.");
+at this time～");
 MsgDisp("主人公","People are shopping for things
 like their dinner.");
 ChEye(7,0);
@@ -33,7 +33,7 @@ VoicePlay("B360707000_07_030");
 MsgDisp("Mikage","One serving of curry please, miss!");
 VoicePlay("B360707000_47_000");
 MsgDisp("Clerk","Oh  my.
-I'll add a croquette for you～.");
+I'll add a croquette for you～");
 VoicePlay("B360707000_07_040");
 MsgDisp("Mikage","Thank you.
 I'll come back here.");

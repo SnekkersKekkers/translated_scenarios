@@ -9,7 +9,7 @@ ChMotion(7,4,1);
 BGMPlay("BGM_C07_MIKAGE_C",0.01);
 ScrFadeIn(0);
 VoicePlay("B360750200_07_000");
-MsgDisp("Mikage","The sunset is so beautiful～.");
+MsgDisp("Mikage","The sunset is so beautiful～");
 MsgDisp("主人公","That's true.
 But isn't it dangerous to walk while
 looking up?");

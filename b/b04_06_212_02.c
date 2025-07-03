@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040621202_06_000");
 MsgDisp("Himuro","Should I get that plushie for you?");
-MsgSel("Is taht okay? Yay!","I would prefer something bigger!","Actually, I'll gift it to you as a present,｛氷室＊＊｝!");
+MsgSel("Is that okay? Yay!","I would prefer something bigger!","Actually, I'll gift it to you as a present,｛氷室＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

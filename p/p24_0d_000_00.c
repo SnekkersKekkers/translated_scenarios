@@ -112,7 +112,7 @@ ChMouth(21,4);
 ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("P240D00000_21_050");
-MsgDisp("Michiru","No way, that's embarassing...");
+MsgDisp("Michiru","No way, that's embarrassing...");
 MsgDisp("主人公","(I didn't know that's how it ended...
 no one told me!)");
 SEStop("EV_SE_GAYA_006",1);

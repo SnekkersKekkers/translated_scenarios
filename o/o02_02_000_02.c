@@ -39,7 +39,7 @@ you got excited, huh.");
     MsgDisp("Sassa","You just needed a bit more.
 I did my best to shout your name.");
     MsgDisp("主人公","(Ugh, that was a little
-embarassing...... But, instead of a tie,
+embarrassing...... But, instead of a tie,
 I wanted to win.)");
     break ;
     default :

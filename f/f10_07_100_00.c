@@ -11,7 +11,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_024");
 SEWait();
 VoicePlay("F100710000_07_000");
-MsgDisp("Mikage","Oh, come in～.");
+MsgDisp("Mikage","Oh, come in～");
 SEPlay("EV_SE_DOOR_019");
 MsgDisp("主人公","Please pardon me.");
 MsgClose();

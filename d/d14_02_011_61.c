@@ -11,4 +11,4 @@ ChMotion(2,4);
 VoicePlay("D140201161_02_010");
 MsgDisp("Sassa","How about a championship meat bun
 or a new self-record pizza? I want
-more of the superstitions series～.");
+more of the superstitions series");

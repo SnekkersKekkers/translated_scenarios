@@ -50,7 +50,7 @@ MsgDisp("Hiiragi","At that time, I would pay no mind to it,
 but thanks to you, I may join my father 
 in those exchanges of theatre discussion.");
 MsgDisp("主人公","(Thanks to me......
-I'm happy, but also somewhat embarassed.)");
+I'm happy, but also somewhat embarrassed.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

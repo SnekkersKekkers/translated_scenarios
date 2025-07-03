@@ -42,7 +42,7 @@ Please forgive this helpless teacher～");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040710101_07_030");
-    MsgDisp("Mikage","You've saved me～.
+    MsgDisp("Mikage","You've saved me～
 I leave it to you for today!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

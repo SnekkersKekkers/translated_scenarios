@@ -99,7 +99,7 @@ He's surprisingly popular.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040221202_02_080");
-    MsgDisp("Sassa","Actually taht goes for me too.
+    MsgDisp("Sassa","Actually that goes for me too.
 My popularity is still low.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

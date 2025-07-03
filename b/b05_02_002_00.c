@@ -70,7 +70,7 @@ VoicePlay("B050200200_02_070");
 MsgDisp("Sassa","That's crazy, though.
 ......You all covered in......steam.");
 MsgDisp("主人公","Eh......EH∋
-That's kind of embarassing......");
+That's kind of embarrassing......");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200200_02_080");

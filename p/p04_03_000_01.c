@@ -33,7 +33,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("P040300001_03_040");
 MsgDisp("Honda","Well, they say failure is the mother
 of success. Thank you for the
-interesting mitarashi dango～.");
+interesting mitarashi dango～");
 MsgDisp("主人公","(Ugh...... interesting, huh......
 This isn't success at all......
 it's failure......)");

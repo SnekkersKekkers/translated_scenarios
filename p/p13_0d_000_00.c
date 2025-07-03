@@ -3,9 +3,9 @@ Wait(50,0);
 BGOpen("sc721",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","It's a maze～.
+MsgDisp("主人公","It's a maze～
 If you can reach the finish line, 
-you get to drink freshly squeezed milk～.");
+you get to drink freshly squeezed milk～");
 MsgClose();
 ChOpen(21,254,0,0,4,-1,-1,0,1);
 ChOpen(22,254,0,0,0,-1,-1,0,2);

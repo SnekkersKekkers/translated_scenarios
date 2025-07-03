@@ -4,7 +4,7 @@ ChMotion(7,3);
 VoicePlay("D140701160_07_000");
 MsgDisp("Mikage","Oh, you too.
 This is good meat. It's way above a
-high-school cafetaria level.");
+high-school cafeteria level.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

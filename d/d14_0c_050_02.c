@@ -62,7 +62,7 @@ VoicePlay("D140C05002_07_020");
 MsgDisp("Mikage","Haa, don't pay so much attention 
 to what others are thinking.");
 MsgDisp("主人公","(Having lunch with ｛御影＊＊｝ alone...
-Maybe it is a bit embarassing?)");
+Maybe it is a bit embarrassing?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

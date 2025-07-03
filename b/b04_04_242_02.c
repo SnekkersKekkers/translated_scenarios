@@ -121,7 +121,7 @@ that's good...");
         ChMotion(4,1,1);
         VoicePlay("B040424202_04_160");
         MsgDisp("Nanatsumori","Yeah.");
-        MsgDisp("主人公","(I'm also kind of embarassed...)");
+        MsgDisp("主人公","(I'm also kind of embarrassed...)");
         break ;
         default :
         DbgAssert(1);

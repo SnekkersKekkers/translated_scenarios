@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040220002_02_020");
-    MsgDisp("Sassa","I see. If you don't push youself, there's
+    MsgDisp("Sassa","I see. If you don't push yourself, there's
 no meaning.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

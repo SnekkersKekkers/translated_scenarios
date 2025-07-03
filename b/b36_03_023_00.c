@@ -19,7 +19,7 @@ ChMotion(3,5,1);
 VoicePlay("B360302300_03_010");
 MsgDisp("Honda","Oh it's starting! Look at the horizon -
 the sun is setting!");
-MsgDisp("主人公","Wow..!");
+MsgDisp("主人公","Wow...!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

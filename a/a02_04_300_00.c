@@ -267,7 +267,7 @@ SEPlay("EV_SE_DOOR_014");
 Wait(50,0);
 MsgDisp("主人公","(Now that I think of it,
 there's a famous modelling agency 
-right aroung the corner, isn't there?)");
+right around the corner, isn't there?)");
 SEStop("EV_SE_DOOR_014",1);
 MsgDisp("主人公","(｛七ツ森＊｝ probably does modelling 
 jobs as NANA there.

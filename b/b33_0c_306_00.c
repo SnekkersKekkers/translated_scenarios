@@ -27,7 +27,7 @@ ChMouth(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C30600_07_000");
 MsgDisp("Mikage","That calico cat's performance 
-brought me to tears～.");
+brought me to tears～");
 MsgDisp("主人公","Yes it was so cute.");
 ChEye(6,0);
 ChMouth(6,0);

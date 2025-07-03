@@ -28,7 +28,7 @@ ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150002601_06_010" ) ;
-MsgDisp ( "氷室","Why are you getting embarassed? It's
+MsgDisp ( "氷室","Why are you getting embarrassed? It's
 obvious." ) ;
 ChEye ( 2,3 ) ;
 ChMouth ( 2,3 ) ;

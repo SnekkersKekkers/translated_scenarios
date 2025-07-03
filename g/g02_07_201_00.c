@@ -4,14 +4,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("G020720100_07_000");
-MsgDisp("Mikage","Ah, it's so peaceful～.");
+MsgDisp("Mikage","Ah, it's so peaceful～");
 MsgDisp("主人公","Hehe. The fireflies are also floating
 around lightly.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720100_07_010");
-MsgDisp("Mikage","Right～.
+MsgDisp("Mikage","Right～
 It's like the unusual circumstance from 
 a little while ago was just a lie.");
 MsgDisp("主人公","Eh?");

@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 VoicePlay("P840700000_48_000");
-MsgDisp("School Girl","Thank you for your hard work～.
+MsgDisp("School Girl","Thank you for your hard work～
 It seems like the guests praised you.
 Isn't that good?");
 MsgDisp("主人公","Really?

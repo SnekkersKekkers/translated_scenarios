@@ -54,7 +54,7 @@ ChMotion(7,3);
 VoicePlay("F020700014_07_050");
 MsgDisp("Mikage","You managed to enjoy school events
 with your childish homeroom 
-teacher, right～.");
+teacher, right～");
 MsgDisp("主人公","Yes. Miraculously, I was able to 
 do many things with my wonderful homeroom
 teacher for these three years.");

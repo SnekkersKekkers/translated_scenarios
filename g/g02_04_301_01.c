@@ -46,7 +46,7 @@ ChMotion(4,3,1);
 VoicePlay("G020430101_04_060");
 MsgDisp("Nanatsumori","Haha!
 Yeah, yeah, that sort of reaction
-makes me wnat to never let you go.");
+makes me want to never let you go.");
 MsgDisp("主人公","Eh?");
 ChEye(4,4);
 ChMouth(4,3);

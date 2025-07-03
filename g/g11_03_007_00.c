@@ -44,7 +44,7 @@ ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300700_03_040");
-MsgDisp("Honda","Yep yep, let's do it together～.");
+MsgDisp("Honda","Yep yep, let's do it together～");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);
@@ -68,7 +68,7 @@ MsgDisp("Honda","But you also like studying and books,
 so I'm sure you'll be a great mom too?");
 MsgDisp("主人公","Eh-!");
 MsgDisp("主人公","(I'm happy, but it's a little
-embarassing......)");
+embarrassing......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

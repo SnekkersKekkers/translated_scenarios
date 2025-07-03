@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("B040306502_03_010");
-    MsgDisp("Honda","The kids I'm accquainted
+    MsgDisp("Honda","The kids I'm acquainted
 with told me about this place.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();

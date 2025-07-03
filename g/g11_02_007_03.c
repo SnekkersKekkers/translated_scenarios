@@ -91,6 +91,6 @@ SEPlay("EV_SE_672");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Was everyone watching?
-I think I'm a bit embarassed......)");
+I think I'm a bit embarrassed......)");
 MsgClose();
 ScrFadeOut(0,0);

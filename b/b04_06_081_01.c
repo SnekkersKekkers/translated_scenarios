@@ -44,7 +44,7 @@ the months are out of sync.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040608101_06_030");
-    MsgDisp("Himuro","Are you not familliar with
+    MsgDisp("Himuro","Are you not familiar with
 Saigyo's poems?");
     MsgDateResultDisp();
     break ;

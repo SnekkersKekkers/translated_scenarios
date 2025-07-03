@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing tradtional
+    MsgDisp("主人公","(This year we're showing traditional
 wedding dresses. I think I was able to
 make it pretty but...)");
     MsgDisp("主人公","Ah,｛風真＊＊｝.");
@@ -63,7 +63,7 @@ This is my last runway, let's enjoy it.)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing tradtional
+    MsgDisp("主人公","(This year we're showing traditional
 wedding dresses. I think I was able to
 make it pretty but...)");
     MsgDisp("主人公","Ah,｛風真＊＊｝, did you come to watch?");

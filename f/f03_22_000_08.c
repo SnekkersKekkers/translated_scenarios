@@ -25,7 +25,7 @@ ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_380");
 MsgDisp("Hikaru","So, my first love is yet to come.
-...It's a bit embarassing.");
+...It's a bit embarrassing.");
 MsgDisp("主人公","Hehe!");
 ChEye(22,4);
 ChMouth(22,0);

@@ -140,7 +140,7 @@ ChMotion(21,4);
 ChCheek(21,10);
 VoicePlay("D012100000_21_170");
 MsgDisp("Michiru","Geez Mari, no more.
-That......it's so embarassing......");
+That......it's so embarrassing......");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);

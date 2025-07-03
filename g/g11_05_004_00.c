@@ -53,7 +53,7 @@ ScrFadeIn(0);
 VoicePlay("G110500400_05_030");
 MsgDisp("Hiiragi","Yes. It's really just a hobby. I'm bad
 with computers but I still like it.");
-MsgDisp("主人公","Hehe, don't overwork youself.");
+MsgDisp("主人公","Hehe, don't overwork yourself.");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);

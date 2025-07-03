@@ -33,8 +33,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P830D00002_22_010");
 MsgDisp("Hikaru","So cool～!
-It's a job taht only Mari, 
-who's done it every year can do～.");
+It's a job that only Mari, 
+who's done it every year can do～");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);

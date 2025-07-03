@@ -26,7 +26,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B360750301_07_020");
 MsgDisp("Mikage","Eh...... As expected of you
-I wonder if I can be that bold～.");
+I wonder if I can be that bold～");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

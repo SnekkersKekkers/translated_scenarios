@@ -35,7 +35,7 @@ ChMotion(4,5,1);
 ChCheek(4,5);
 VoicePlay("B360417000_04_030");
 MsgDisp("Nanatsumori","∈");
-MsgDisp("主人公","DO you wnat to sing first?
+MsgDisp("主人公","DO you want to sing first?
 Right, here's the remote; go ahead.");
 ChEye(4,2);
 ChMouth(4,3);

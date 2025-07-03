@@ -5,7 +5,7 @@ Gotta go back home.)");
 VoicePlay("A020600100_32_000");
 MsgDisp("Vice Principal Himuro?","Alright, finally.");
 MsgDisp("主人公","(Hmm?
-That voice... Vice principal Himuro?)");
+That voice... Vice Principal Himuro?)");
 VoicePlay("A020600100_06_000");
 MsgDisp("Himuro?","Yes.
 I'll be counting on you from next month.");

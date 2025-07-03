@@ -15,7 +15,7 @@ That kimono is perfect.");
     MsgDisp("Nanatsumori","You have a different charm to you
 than those professional model girls......");
     MsgDisp("主人公","Really?
-That's a little embarassing.");
+That's a little embarrassing.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);

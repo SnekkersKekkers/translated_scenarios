@@ -66,7 +66,7 @@ sides of ｛氷室＊＊｝ though?");
         VoicePlay("B040615102_06_060");
         MsgDisp("Himuro","...What's with that line?
 Hearing that, I'm the one
-who'll get embarassed.");
+who'll get embarrassed.");
         MsgDisp("主人公","It's just my true feelings.");
         ChEye(6,0);
         ChMouth(6,0);

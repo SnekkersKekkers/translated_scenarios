@@ -52,7 +52,7 @@ afford to skip it.");
     ChOpen(6,34,0,0,0,-1,-1,0,0);
     VoiceEVSPlay(6);
     VoicePlay("R040600000_06_060");
-    MsgDisp("Himuro","｛主人公｝。");
+    MsgDisp("Himuro","｛主人公｝.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 Merry Christmas!");
     ChEye(6,0);

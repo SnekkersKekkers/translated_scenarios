@@ -120,7 +120,7 @@ That would be an interesting person.");
         MsgDisp("Hiiragi","It'll only be my prized possession.
 In that case, would it be okay?");
         MsgDisp("主人公","(A t-shirt with the two of us?
-...It's embarassing,
+...It's embarrassing,
 but it might be interesting?)");
         break ;
         default :

@@ -78,7 +78,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D140A05000_06_030");
 MsgDisp("Himuro","Right.");
-MsgDisp("主人公","(This is somewhat embarassing...)");
+MsgDisp("主人公","(This is somewhat embarrassing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

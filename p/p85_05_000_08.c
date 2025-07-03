@@ -20,7 +20,7 @@ MsgDisp("Hiiragi","It's not just me.
 I'm sure everyone in the student
 council committee thought the same.");
 MsgDisp("主人公","Umm... 
-I'm happy, but embarassed.");
+I'm happy, but embarrassed.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("P850500008_05_020");

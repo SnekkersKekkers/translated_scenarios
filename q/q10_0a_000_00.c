@@ -154,7 +154,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q100A00000_01_090");
 MsgDisp("Kazama","Well, after we all bought our 
-souvernirs, Let's meet here again.");
+souvenirs, Let's meet here again.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -165,7 +165,7 @@ SEPlay("EV_SE_856");
 ChClose(2,0,30);
 ChClose(1,0,30);
 MsgDisp("主人公","(Alright,
-Let's start by buying a souvernir for
+Let's start by buying a souvenir for
 ｛氷室＊＊｝!)");
 MsgClose();
 ScrFadeOut(0);

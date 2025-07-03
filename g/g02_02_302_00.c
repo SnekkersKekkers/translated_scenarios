@@ -57,7 +57,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("G020230200_02_080");
 MsgDisp("Sassa","Ah, wait.
-Bang bang chicken sounds good too～.");
+Bang bang chicken sounds good too～");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);

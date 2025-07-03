@@ -25,7 +25,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210302_02_030");
-MsgDisp("Sassa","It's no good huh～.
+MsgDisp("Sassa","It's no good huh～
 I know girls like clothes and stuff. 
 Then, I'll wait for another coincidence.");
 MsgDisp("主人公","Yeah, let's do that.");

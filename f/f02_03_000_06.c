@@ -17,7 +17,7 @@ MsgDisp("主人公","You sure look happy about that,
 don't you?");
 ChMotion(3,4);
 VoicePlay("F020300006_03_010");
-MsgDisp("Honda","That's right～.
+MsgDisp("Honda","That's right～
 I think sports are amazing.
 But they aren't my strong point.");
 MsgDisp("主人公","Is that so?");

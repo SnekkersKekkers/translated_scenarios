@@ -85,7 +85,7 @@ ChMotion(22,0,1);
 VoicePlay("E010540000_22_060");
 MsgDisp("Hikaru","Mhm!
 My uncle is a big supporter of
-the company～.");
+the company～");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

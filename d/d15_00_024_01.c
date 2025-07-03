@@ -13,7 +13,7 @@ ChMouth ( 4,4 ) ;
 ChMotion ( 4,1 ) ;
 VoicePlay ( "D150002401_04_000" ) ;
 MsgDisp ( "七ツ森","It doesn't matter if it's a bento lunch or
-a cafetaria lunch. It's important to be
+a cafeteria lunch. It's important to be
 grateful to the food and the person who
 made it." ) ;
 ChEye ( 2,0 ) ;

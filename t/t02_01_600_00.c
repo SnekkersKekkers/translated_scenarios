@@ -8,7 +8,7 @@ MsgDisp("主人公","(Haa...... This will be the last time I
 walk down this road......)");
 VoiceEVSPlay(1);
 VoicePlay("T020160000_01_000");
-MsgDisp("Kazama?","｛主人公｝。");
+MsgDisp("Kazama?","｛主人公｝.");
 MsgDisp("主人公","∋");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();

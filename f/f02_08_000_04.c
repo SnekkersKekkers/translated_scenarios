@@ -28,7 +28,7 @@ ChMotion(8,4,1);
 ChCheek(8,4);
 VoicePlay("F020800004_08_020");
 MsgDisp("Shirahane","Ta think that ya remembered...
-I'm a bit embarassed.");
+I'm a bit embarrassed.");
 MsgDisp("主人公","Hehe.");
 ChEye(8,3);
 ChMouth(8,3);

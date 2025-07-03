@@ -90,7 +90,7 @@ I'm nervous to go up on stage.");
     ChMotion(2,0);
     VoicePlay("P730200000_02_080");
     MsgDisp("Sassa","I see, so it's like that.
-It's not a modelling club afterall.");
+It's not a modelling club after all.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

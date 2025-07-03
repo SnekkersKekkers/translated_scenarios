@@ -4,7 +4,7 @@ ChLayout(0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("T020301000_03_000");
-MsgDisp("Honda?","｛主人公｝。");
+MsgDisp("Honda?","｛主人公｝.");
 MsgClear();
 Wait(60);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

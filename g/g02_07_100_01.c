@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,3,4,0,-1,-1,0,0);
 VoicePlay("G020710001_07_000");
-MsgDisp("Mikage","What an incredible view, huh～.");
+MsgDisp("Mikage","What an incredible view, huh～");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);

@@ -13,7 +13,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("K020701000_07_000");
-MsgDisp("Mikage","Today really is a happy day～.
+MsgDisp("Mikage","Today really is a happy day～
 Your birthday, and New Years!");
 ChEye(7,2);
 ChMouth(7,0);

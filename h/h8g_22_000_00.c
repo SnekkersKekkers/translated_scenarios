@@ -20,7 +20,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("H8G2200000_22_020");
-MsgDisp("Hikaru","I knew it～.
+MsgDisp("Hikaru","I knew it～
 It's rare to find a girl as serious,
 cute, and good as Mari.");
 ChEye(22,3);

@@ -6,6 +6,6 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030509000_05_000");
-MsgDisp("Hiiragi","The scent of grenery is strong.");
+MsgDisp("Hiiragi","The scent of greenery is strong.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

@@ -66,7 +66,7 @@ I added something
     ChMotion(7,5);
     VoicePlay("L040700005_07_060");
     MsgDisp("Mikage","It's handmade, amazing.
-You added a lot～.");
+You added a lot～");
     MsgDisp("主人公","Yes.
 How is it?");
     ChEye(7,0);

@@ -13,7 +13,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("X200D00001_22_000");
 MsgDisp("Hikaru","Actually, Hikaru went to see it♪
-She was seriously perfect～.");
+She was seriously perfect～");
 MsgDisp("主人公","Wow...!");
 ChEye(21,0);
 ChMouth(21,3);

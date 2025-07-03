@@ -105,7 +105,7 @@ plate in your eye too...");
         VoicePlay("B040321102_03_100");
         MsgDisp("Honda","Super interesting, as I thoughT!
 I want to know more and more about you!");
-        MsgDisp("主人公","(I'm a bit embarassed...)");
+        MsgDisp("主人公","(I'm a bit embarrassed...)");
         break ;
         default :
         DbgAssert(1);

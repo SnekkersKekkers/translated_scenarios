@@ -127,7 +127,7 @@ MsgDisp("Kazama","......Nope, I can't let my guard down
 just yet. Who knows when you'll just
 fall into another puddle again.");
 MsgDisp("主人公","Geez, I'm fine now!
-It would be too embarassing to have
+It would be too embarrassing to have
 you carry me on your back again......");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);

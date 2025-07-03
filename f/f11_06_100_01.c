@@ -22,7 +22,7 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F110610001_06_030");
-MsgDisp("Himuro","No, I'm being dilligent.");
+MsgDisp("Himuro","No, I'm being diligent.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

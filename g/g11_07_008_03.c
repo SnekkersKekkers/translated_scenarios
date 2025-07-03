@@ -38,7 +38,7 @@ while (1){
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
-    MsgDisp("Mikage","My arms and shoulders are stiff～.");
+    MsgDisp("Mikage","My arms and shoulders are stiff～");
     }
 VoicePlay("G110700803_07_040");
 ChEye(7,0);

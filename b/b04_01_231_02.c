@@ -6,7 +6,7 @@ ChOpen(1,255,0,4,3,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123102_01_000");
 MsgDisp("Kazama","You were screaming a lot weren't you?");
-MsgSel("It's kinda fun being at the back","It might be less scary if I make a lot of noise","Really? That's kinda embarassing.");
+MsgSel("It's kinda fun being at the back","It might be less scary if I make a lot of noise","Really? That's kinda embarrassing.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

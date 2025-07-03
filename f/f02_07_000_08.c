@@ -22,7 +22,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F020700008_07_010");
 MsgDisp("Mikage","Everyone is so concentrated,
-working until the evening～.");
+working until the evening～");
 MsgDisp("主人公","That's because ｛御影＊＊｝ takes
 the initiative to help out.");
 ChEye(7,0);

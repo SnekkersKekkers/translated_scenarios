@@ -31,7 +31,7 @@ VoicePlay("G020110302_01_030");
 MsgDisp("Kazama","Actually, it feels good,
 like there's no room for anyone else 
 to come between us.");
-MsgDisp("主人公","But, it's a little embarassing.");
+MsgDisp("主人公","But, it's a little embarrassing.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

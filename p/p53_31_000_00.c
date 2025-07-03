@@ -4,7 +4,7 @@ BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(THis year's program is classical.
 I'm a little nervous.
-Can I realy do it properly...)");
+Can I really do it properly...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -25,7 +25,7 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("P533100000_31_020");
-MsgDisp("Goro","Well, the curtain is rising～.
+MsgDisp("Goro","Well, the curtain is rising～
 Have a nice time!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

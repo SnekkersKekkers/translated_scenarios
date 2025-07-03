@@ -47,7 +47,7 @@ Did you come to cheer us on?");
     ChCheek(6,5);
     VoicePlay("H180600000_06_050");
     MsgDisp("Himuro","Pretty much.
-It's the Koshien, afterall.");
+It's the Koshien, after all.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);

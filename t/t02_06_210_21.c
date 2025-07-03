@@ -25,7 +25,7 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 MsgDisp("Himuro","Don't ask me more about it.
-It's embarassing.");
+It's embarrassing.");
 VoicePlay("T020621000_06_240");
 ChEye(6,2);
 ChMouth(6,0);

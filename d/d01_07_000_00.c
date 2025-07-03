@@ -10,7 +10,7 @@ SEPlay("EV_SE_666",0.8,0.6);
 VoicePlay("D010700000_42_000");
 MsgDisp("Male Student","It's over, time for food!");
 VoicePlay("D010700000_44_000");
-MsgDisp("School Girl","Let's go to the cafetaria!");
+MsgDisp("School Girl","Let's go to the cafeteria!");
 MsgDisp("主人公","(Phew......
 I'm not really hungry.)");
 SEStop("EV_SE_666",2);
@@ -108,13 +108,13 @@ StlMouth(7,0);
 VoicePlay("D010700000_07_090");
 MsgDisp("Mikage","It's super effective.
 You're easy to read, huh?");
-MsgDisp("主人公","Ugh......How embarassing.");
+MsgDisp("主人公","Ugh......How embarrassing.");
 StlEye(7,1);
 StlMouth(7,0);
 VoicePlay("D010700000_07_100");
 MsgDisp("Mikage","It was a compliment.
 There should still be some bread left
-in the cafetaria. Let's go.");
+in the cafeteria. Let's go.");
 MsgDisp("主人公","Okay......!");
 BGMStop();
 MsgClose();

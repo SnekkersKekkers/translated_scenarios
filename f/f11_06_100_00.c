@@ -44,8 +44,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610000_06_060");
 MsgDisp("Himuro","I see. 
-I'll do my job dilligently.");
-MsgDisp("主人公","Right, I think thats the way to go.!");
+I'll do my job diligently.");
+MsgDisp("主人公","Right, I think thats the way to go!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

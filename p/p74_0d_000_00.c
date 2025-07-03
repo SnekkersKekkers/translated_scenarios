@@ -14,7 +14,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P740D00000_22_000");
-MsgDisp("Hikaru","You looked great～.");
+MsgDisp("Hikaru","You looked great～");
 MsgDisp("主人公","Thank you!");
 ChEye(22,3);
 ChMouth(22,3);

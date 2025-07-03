@@ -66,7 +66,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F102230002_22_040");
 MsgDisp("Hikaru","It was Hikaru who guessed though...
-Well, that's fine～.");
+Well, that's fine～");
 ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,2,1);

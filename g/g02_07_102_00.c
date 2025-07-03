@@ -2,7 +2,7 @@ MsgClose();
 ChLayout(1);
 ChOpen(7,255,0,0,0,-1,-1,0,0);
 VoicePlay("G020710200_07_000");
-MsgDisp("Mikage","It's mysterious～.
+MsgDisp("Mikage","It's mysterious～
 The timing of their glow matches up.");
 MsgDisp("主人公","That's really true, huh.");
 ChEye(7,0);

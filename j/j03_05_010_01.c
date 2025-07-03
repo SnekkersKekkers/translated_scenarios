@@ -48,7 +48,7 @@ Well, I'll see you around?");
     MsgDisp("Hiiragi","Yes, again.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm, too bad.!)");
+    MsgDisp("主人公","(Hmmm, too bad!)");
     break ;
     case 4:
     case 5:

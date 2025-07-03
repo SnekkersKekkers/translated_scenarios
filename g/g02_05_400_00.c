@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(5,255,0,4,4,-1,-1,0,0);
 VoicePlay("G020540000_05_000");
-MsgDisp("Hiiragi","Recently something wonderful occured.
+MsgDisp("Hiiragi","Recently something wonderful occurred.
 It was regarding the theatre company.");
 MsgDisp("主人公","What happened?");
 ChEye(5,3);

@@ -13,7 +13,7 @@ VoicePlay("B040512101_05_000");
 MsgDisp("Hiiragi","There are people who are not only
 lining up their second hand clothes, 
 but their own work to sell.");
-MsgSel("What store would you set up｛柊＊＊＊｝?","Is there food being sold too?","There's handmade accesories!");
+MsgSel("What store would you set up｛柊＊＊＊｝?","Is there food being sold too?","There's handmade accessories!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

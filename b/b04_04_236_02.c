@@ -124,7 +124,7 @@ Sorry, it was a joke.");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_140");
-        MsgDisp("Nanatsumori","How am I gonna be so embarassed 
+        MsgDisp("Nanatsumori","How am I gonna be so embarrassed 
 after I was the one who said it...
 I'm so patheticー...");
         MsgDisp("主人公","(My heart is racing...)");

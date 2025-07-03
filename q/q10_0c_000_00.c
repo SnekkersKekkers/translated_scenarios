@@ -96,13 +96,13 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q100C00000_07_040");
 MsgDisp("Mikage","Well, let's all buy our\"classic\"
-souvernir, and meet here again.");
+souvenir, and meet here again.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q100C00000_05_060");
 MsgDisp("Hiiragi","Sure.
-I will also go buy souvernirs for the 
+I will also go buy souvenirs for the 
 people of the Habataki Theatre Company.");
 MsgDisp("主人公","Then I will also
 go look for souvenirs for my family.");
@@ -116,7 +116,7 @@ SEPlay("EV_SE_856");
 ChClose(5,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(Alright, I guess I'll
-start by buying a souvernir for 
+start by buying a souvenir for 
 ｛氷室＊＊｝ ?)");
 MsgClose();
 ScrFadeOut(0,0);

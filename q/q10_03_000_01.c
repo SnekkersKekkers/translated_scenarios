@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("Q100300001_03_000");
 MsgDisp("Honda","Hmm, what should I do.");
-MsgDisp("主人公","Is it the souvernirs......?");
+MsgDisp("主人公","Is it the souvenirs......?");
 ChMotion(3,0,1);
 VoicePlay("Q100300001_03_010");
 MsgDisp("Honda","Yeah it is,

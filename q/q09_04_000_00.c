@@ -37,7 +37,7 @@ Are we leaving already?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("Q090400000_04_040");
-    MsgDisp("Nanatsumori","ＯＫ。");
+    MsgDisp("Nanatsumori","ＯＫ.");
     break ;
     case 4:
     case 5:

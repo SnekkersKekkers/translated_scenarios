@@ -56,7 +56,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,5);
 VoicePlay("F100510001_05_040");
-MsgDisp("Hiiragi","It is embarassing, however, 
+MsgDisp("Hiiragi","It is embarrassing, however, 
 I wasn't able to attend school very 
 often, especially in my third year
 of middle school.");

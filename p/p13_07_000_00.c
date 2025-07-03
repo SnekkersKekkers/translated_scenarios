@@ -9,9 +9,9 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     MsgDisp("主人公","Won't you take on the giant maze?～ If you
-succeed, you get to try delicious milk～.");
+succeed, you get to try delicious milk～");
     VoicePlay("P130700000_07_000");
-    MsgDisp("Mikage?","The prize is some delicious cow milk～.");
+    MsgDisp("Mikage?","The prize is some delicious cow milk～");
     MsgClose();
     ChOpen(7,254,0,0,0,-1,-1,0,0);
     VoiceEVSPlay(7);
@@ -50,7 +50,7 @@ Lost lamb, one customer coming up!");
     case 4:
     case 5:
     MsgDisp("主人公","Won't you take on the giant maze?～ If you
-succeed, you get to try delicious milk～.");
+succeed, you get to try delicious milk～");
     VoicePlay("P130700000_07_050");
     MsgDisp("Mikage?","Ohh, it's quite popular, isn't it?");
     MsgClose();

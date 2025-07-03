@@ -18,7 +18,7 @@ ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P733100000_31_010");
 MsgDisp("Goro","I had intended to watch obediently, but
-this gets my blood pumping～.");
+this gets my blood pumping～");
 SEPlay("EV_SE_038");
 SEWait();
 ChEye(31,0);

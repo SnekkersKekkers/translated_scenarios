@@ -10,7 +10,7 @@ It can't be helped.");
     MsgDisp("Hiiragi","Yes, sorry about that.
 If you will excuse me.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
-    MsgDisp("主人公","(Hmmm, too bad.!)");
+    MsgDisp("主人公","(Hmmm, too bad!)");
     break ;
     case 3:
     VoicePlay("J030500001_05_020");

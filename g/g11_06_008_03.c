@@ -31,7 +31,7 @@ ScrFadeIn(0);
 VoicePlay("G110600803_06_020");
 MsgDisp("Himuro","......Hey have you ever wanted flowers?");
 MsgDisp("主人公","Mmm, I guess I would be happy if I
-recieved them? ......Could it be that
+received them? ......Could it be that
 you're planning on giving some to me?");
 ChEye(6,0);
 ChMouth(6,0);

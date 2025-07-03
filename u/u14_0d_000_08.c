@@ -18,7 +18,7 @@ give it your all.");
 StlEyeOpenLevel(22,5,1);
 StlMouth(22,0);
 VoicePlay("U140D00008_22_010");
-MsgDisp("Hikaru","Enjoying your youth, huh～.
+MsgDisp("Hikaru","Enjoying your youth, huh～
 Hikaru will try her best to do that too▼");
 StlEye(21,3);
 VoicePlay("U140D00008_21_010");

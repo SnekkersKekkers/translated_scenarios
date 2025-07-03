@@ -16,7 +16,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P540D00003_22_000");
-MsgDisp("Hikaru","Mari, that wasn't it～.");
+MsgDisp("Hikaru","Mari, that wasn't it～");
 MsgDisp("主人公","Ugh...");
 ChEye(21,0);
 ChMouth(21,0);

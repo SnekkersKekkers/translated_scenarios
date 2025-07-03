@@ -18,7 +18,7 @@ Merry Christmas, ｛柊＊＊＊｝.");
     ChOpen(5,34,0,0,4,-1,-1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("R040500000_05_010");
-    MsgDisp("Hiiragi","｛主人公｝。");
+    MsgDisp("Hiiragi","｛主人公｝.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Merry Christmas!");
     VoicePlay("R040500000_05_020");

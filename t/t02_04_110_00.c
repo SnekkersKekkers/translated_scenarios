@@ -2,7 +2,7 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("T020411000_04_000");
-MsgDisp("Nanatsumori?","｛主人公｝。");
+MsgDisp("Nanatsumori?","｛主人公｝.");
 SEPlay("EV_SE_872",0.5);
 Wait(50,0);
 ChNanaType(0);

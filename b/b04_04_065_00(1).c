@@ -29,7 +29,7 @@ Kagiya～!");
     ChMotion(4,3,1);
     VoicePlay("B040406500_04_020");
     MsgDisp("Nanatsumori","Look, look, how cute!
-The big heart gets mexcited!");
+The big heart gets me excited!");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

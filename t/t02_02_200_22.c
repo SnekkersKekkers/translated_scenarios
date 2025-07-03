@@ -23,7 +23,7 @@ VoicePlay("T020220022_02_020");
 MsgDisp("Sassa","What should I tell those two about?
 That hug from you?");
 MsgDisp("主人公","Eh∋
-That's embarassing......");
+That's embarrassing......");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,0);

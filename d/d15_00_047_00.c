@@ -24,8 +24,8 @@ ChMouth ( 7,3 ) ;
 ChMotion ( 7,0 ) ;
 VoicePlay ( "D150004700_07_010" ) ;
 MsgDisp ( "御影","True...Oh. Should I try suggesting to Vice
-Prinicipal Himuro that the parents visit
-the cafetaria next time instead of
+Principal Himuro that the parents visit
+the cafeteria next time instead of
 classes?" ) ;
 MsgDisp ( "主人公","Eh?" ) ;
 ChEye ( 7,0 ) ;

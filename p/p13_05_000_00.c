@@ -43,9 +43,9 @@ Entry for one please～!");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","It's a maze～.
+    MsgDisp("主人公","It's a maze～
 If you can reach the finish line, 
-you get to drink freshly squeezed milk～.");
+you get to drink freshly squeezed milk～");
     MsgClose();
     ChOpen(5,254,0,3,2,-1,-1,0,0);
     VoicePlay("P130500000_05_030");

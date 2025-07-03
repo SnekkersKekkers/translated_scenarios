@@ -11,5 +11,5 @@ sometimes go over to his house to make
 meals and his favorite sweets, but
 recently he often asks me 'Why don't you
 come live here?' I'm happy, but......
-embarassed.");
+embarrassed.");
 MsgClear();

@@ -60,7 +60,7 @@ please have this Valentine's chocolate.");
     ChMotion(7,3);
     VoicePlay("L040700000_07_050");
     MsgDisp("Mikage","Oh, I've been waiting
-for your chocolate～.");
+for your chocolate～");
     MsgDisp("主人公","Hehe, thanks for waiting.
 But ｛御影＊＊｝, you already got a lot
 from other girls in class, right?");

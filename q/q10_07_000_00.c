@@ -63,7 +63,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
 VoicePlay("Q100700000_22_010");
-MsgDisp("Hikaru","Mari's suprised expression is also so
+MsgDisp("Hikaru","Mari's surprised expression is also so
 cute▼");
 MsgDisp("主人公","Come on...... I got surprised.");
 ChEye(7,0);
@@ -126,14 +126,14 @@ You could have gone with Hanatsubaki,
 y'know?");
 MsgDisp("主人公","No, I can't.
 ｛みちる＊｝ and ｛ひかる＊｝ are too
-busy buying souvernirs.");
+busy buying souvenirs.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q100700000_07_090");
 MsgDisp("Mikage","They do seem to have many to give.
 So, aren't you looking?
-The souvernirs.");
+The souvenirs.");
 MsgDisp("主人公","Yes, but only to buy for my family.
 And you, ｛御影＊＊｝ ?");
 ChEye(7,0);
@@ -142,7 +142,7 @@ ChMotion(7,0);
 VoicePlay("Q100700000_07_100");
 MsgDisp("Mikage","The only ones waiting for me at home 
 are the plants, so.");
-MsgDisp("主人公","Are you giving a souvernir to the
+MsgDisp("主人公","Are you giving a souvenir to the
 plants?");
 ChEye(7,0);
 ChMouth(7,0);

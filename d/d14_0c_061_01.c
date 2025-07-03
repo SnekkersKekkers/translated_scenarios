@@ -70,7 +70,7 @@ ChMotion(7,3);
 VoicePlay("D140C06101_07_040");
 MsgDisp("Mikage","Since Inori-kun is having so much fun.
 Isn't that nice.");
-MsgDisp("主人公","(Ugh... this is a little embarassing?)");
+MsgDisp("主人公","(Ugh... this is a little embarrassing?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

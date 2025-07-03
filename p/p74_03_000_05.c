@@ -14,13 +14,13 @@ VoicePlay("P740300005_03_000");
 MsgDisp("Honda","｛主人公｝, 
 Are you alright?");
 MsgDisp("主人公","Uuugh,
-I'm so embarassed...");
+I'm so embarrassed...");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("P740300005_03_010");
 MsgDisp("Honda","Ehh? Why? 
-You have no reason to be embarassed.");
+You have no reason to be embarrassed.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);

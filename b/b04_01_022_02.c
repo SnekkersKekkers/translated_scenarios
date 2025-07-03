@@ -77,7 +77,7 @@ That's seriously impressive.");
         ChMouth(1,3);
         ChMotion(1,1);
         VoicePlay("B040102202_01_060");
-        MsgDisp("Kazama","Now it's realy coming down hard.
+        MsgDisp("Kazama","Now it's really coming down hard.
 Here, come inside.");
         MsgDisp("主人公","Yeah, but doesn't it feel kind of nice?");
         ChMotion(1,0);

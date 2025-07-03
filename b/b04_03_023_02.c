@@ -99,7 +99,7 @@ Don't stare at me so hard!");
         VoicePlay("B040302302_03_100");
         MsgDisp("Honda","Why? I'm just interested in 
 everything about you, so I can't help it.");
-        MsgDisp("主人公","(But still...! So embarrasing...)");
+        MsgDisp("主人公","(But still...! So embarrassing...)");
         break ;
         default :
         DbgAssert(1);

@@ -6,7 +6,7 @@ ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("G020740001_07_000");
 MsgDisp("Mikage","The school cafeteria food is really high
-quality～.");
+quality～");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -29,7 +29,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020740001_07_030");
-MsgDisp("Mikage","I like it～. It's the mix of red pickled
+MsgDisp("Mikage","I like it～ It's the mix of red pickled
 ginger and mustard. I really wanna eat it.");
 MsgDisp("主人公","Hehe!");
 ChEye(7,0);

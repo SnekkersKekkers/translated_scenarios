@@ -49,7 +49,7 @@ ScrFadeIn(0);
 MsgDisp("","We were both the indoors type, so at
 an internet cafe, we got really into
 talking about my social media and PC
-accesories, those kinds of mundane
+accessories, those kinds of mundane
 topics.");
 MsgDisp("","Before I realized,
 it was already evening.");

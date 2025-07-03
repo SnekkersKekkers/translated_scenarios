@@ -8,7 +8,7 @@ VoicePlay("U160D00000_22_000");
 MsgDisp("Hikaru","Ahh!
 I heard so much about Mari's love life.
 So satisfied▼");
-MsgDisp("主人公","It's a bit embarassing...");
+MsgDisp("主人公","It's a bit embarrassing...");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("U160D00000_21_000");
 MsgDisp("Michiru","Hmm.

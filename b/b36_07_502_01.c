@@ -51,7 +51,7 @@ ChMotion(7,4);
 ChEyeOpenLevel(7,10);
 VoicePlay("B360750201_07_050");
 MsgDisp("Mikage","......Geez, they're so easygoing. If it
-was me I would stay until the very end～.");
+was me I would stay until the very end～");
 MsgDisp("主人公","(｛御影＊＊｝ is always thinking about
 his students......)");
 BGMStop();

@@ -34,7 +34,7 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F100530000_22_000");
-MsgDisp("Hikaru","Bonjour～.");
+MsgDisp("Hikaru","Bonjour～");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

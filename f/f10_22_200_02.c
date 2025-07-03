@@ -32,7 +32,7 @@ ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F102220002_22_010");
 MsgDisp("Hikaru","Ahaha!
-Oji-sama is still plenty young～.
+Oji-sama is still plenty young～
 Right, Mari.");
 MsgDisp("主人公","Definitely.
 How old are you anyways, ＧＯＲＯ-sensei?");

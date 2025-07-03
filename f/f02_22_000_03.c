@@ -41,7 +41,7 @@ ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("F022200003_22_050");
-MsgDisp("Hikaru","That's wrong～.
+MsgDisp("Hikaru","That's wrong～
 Papa definitely studied abroad in Paris, 
 and I feel like Mama said she studied
 at an all girls high school.");

@@ -86,7 +86,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A10701_06_020");
-MsgDisp("Himuro","This feels familliar.");
+MsgDisp("Himuro","This feels familiar.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);

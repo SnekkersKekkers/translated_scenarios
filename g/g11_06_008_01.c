@@ -52,7 +52,7 @@ ChMotion(6,1);
 VoicePlay("G110600801_06_050");
 MsgDisp("Himuro","You were unaware? Then, you're a diehard
 fanatic.");
-MsgDisp("主人公","Maybe it's a bit embarassing......");
+MsgDisp("主人公","Maybe it's a bit embarrassing......");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);

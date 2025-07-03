@@ -6,7 +6,7 @@ ChMouth ( 2,0 ) ;
 ChMotion ( 2,0 ) ;
 VoicePlay ( "D150002700_02_000" ) ;
 MsgDisp ( "颯砂","Come to think of it. I don't think I've
-ever seen any teachers in the cafetaria
+ever seen any teachers in the cafeteria
 aside from Mikage-sensei?" ) ;
 MsgDisp ( "主人公","Now that you say it......" ) ;
 ChEye ( 7,0 ) ;
@@ -52,7 +52,7 @@ ChMouth ( 2,4 ) ;
 ChMotion ( 2,4 ) ;
 VoicePlay ( "D150002700_02_040" ) ;
 MsgDisp ( "颯砂","It's fine though. Vice Principal Himuro is
-also using the cafetaria." ) ;
+also using the cafeteria." ) ;
 SEPlay ( "EV_SE_594",0,0,0,8 ) ;
 SEWait (  ) ;
 ChOpen ( 7,254,0,2,0, - 1, - 1,0,3 ) ;

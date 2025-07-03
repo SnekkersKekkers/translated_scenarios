@@ -11,7 +11,7 @@ MsgDisp("主人公","(......Huh?
 I got a text message, who's it from?)");
 MsgDisp("主人公","(......It's from ｛颯砂＊＊｝!
 \"I read the post. It's kind of 
-embarassing to see it in writing.\")");
+embarrassing to see it in writing.\")");
 MsgDisp("主人公","(Hehe, looks like he read it right
 away! Let's keep working hard!)");
 MsgClose();

@@ -9,7 +9,7 @@ switch (ChPrmGet(21,6)){
     ChOpen(21,254,5,4,4,-1,-1,0,0);
     VoicePlay("F012100001_21_000");
     MsgDisp("Michiru","It's no good, Mari.
-It's embarassing when you call me that...");
+It's embarrassing when you call me that...");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

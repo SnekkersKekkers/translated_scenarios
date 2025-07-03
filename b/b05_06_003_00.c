@@ -70,7 +70,7 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,0);
 VoicePlay("B050600300_06_090");
 MsgDisp("Himuro","It's really distracting, or I guess,
-embarassing......");
+embarrassing......");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
 StlEye(6,0);
 StlMouth(6,0);

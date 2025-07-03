@@ -23,7 +23,7 @@ MsgDisp("主人公","Y-yes.
 It's inexcusable...!");
 MsgDisp("主人公","(Haaa... I ruined ＧＯＲＯ-sensei's mood.
 I should have prepared more
-dilligently...)");
+diligently...)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);

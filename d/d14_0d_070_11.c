@@ -4,7 +4,7 @@ ChMotion(22,3,1);
 VoicePlay("D140D07011_22_000");
 MsgDisp("Hikaru","If Kazama-kun trimmed his bangs, 
 he would turn into a whole
-other person～.");
+other person～");
 MsgDisp("主人公","That's for sure...");
 ChEye(21,0);
 ChMouth(21,4);

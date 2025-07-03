@@ -21,5 +21,5 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B320C00002_07_010");
-MsgDisp("Mikage","Alright, then let's begin～.");
+MsgDisp("Mikage","Alright, then let's begin～");
 MsgDisp("主人公","Hehe, yeees!");

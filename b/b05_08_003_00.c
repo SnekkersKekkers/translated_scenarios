@@ -89,7 +89,7 @@ VoicePlay("B050800300_08_090");
 MsgDisp("Shirahane","He looked super cool... 
 I wondered if I could've 
 pulled it off too...");
-MsgDisp("主人公","Hehe, is taht right?");
+MsgDisp("主人公","Hehe, is that right?");
 StlEye(8,2);
 StlMouth(8,0);
 VoicePlay("B050800300_08_100");

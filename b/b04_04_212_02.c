@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040421202_04_000");
 MsgDisp("Nanatsumori","There are bunny-ear headbands and 
 gorilla caos.");
-MsgSel("Seems like you can use them for cosplay!","This sort of thing is for children","It would be embarassing to wear them...");
+MsgSel("Seems like you can use them for cosplay!","This sort of thing is for children","It would be embarrassing to wear them...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

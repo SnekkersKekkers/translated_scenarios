@@ -42,7 +42,7 @@ MsgDisp("主人公","Now that you mention it......Haba Academy
 also has something called the \"Perfect 
 Score Anpan\".");
 MsgDisp("主人公","It also makes you smarter. I heard
-you can buy it from the cafetaria——");
+you can buy it from the cafeteria——");
 ChEye(8,0);
 ChMouth(8,5);
 ChMotion(8,1,1);

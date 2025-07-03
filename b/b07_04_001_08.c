@@ -36,7 +36,7 @@ VoicePlay("B070400001_04_650");
 MsgDisp("Nanatsumori","As much as you like.
 I'll be here to accompany you whenever.");
 MsgDisp("主人公","Ugh...
-If you say that, I'll get embarassed.");
+If you say that, I'll get embarrassed.");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B070400001_04_660");

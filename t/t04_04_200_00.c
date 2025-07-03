@@ -27,7 +27,7 @@ back.");
 VoicePlay("T040420000_03_000");
 MsgDisp("Honda","Hey, hey. Can you lend me that hairpin
 next time? I think that'll make me look
-the cutest. Oh come on.!");
+the cutest. Oh come on!");
 VoicePlay("T040420000_04_020");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Ah, come on.

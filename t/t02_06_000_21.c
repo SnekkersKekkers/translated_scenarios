@@ -26,7 +26,7 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 MsgDisp("Himuro","...Well, right. I guess if you did that
 and it turns out that you don't like me, 
-it'd be kind of embarassing.");
+it'd be kind of embarrassing.");
 MsgDisp("主人公","Hehe, that's right.");
 VoicePlay("T020600000_06_300");
 ChEye(6,0);

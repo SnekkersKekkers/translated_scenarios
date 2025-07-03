@@ -21,7 +21,7 @@ ChMotion(5,0);
 VoicePlay("B070500000_05_260");
 MsgDisp("Hiiragi","Ah.
 But thanks to that, I became a
-little bit accquainted with the local
+little bit acquainted with the local
 specialties of various places.");
 VoicePlay("B070500000_05_270");
 MsgDisp("Hiiragi","I received some from our

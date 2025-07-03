@@ -6,7 +6,7 @@ ChMotion(22,0,1);
 VoicePlay("F032200000_22_150");
 MsgDisp("Hikaru","I listen to all the popular stuff.
 So I guess I listen to a 
-lot of pop music～.");
+lot of pop music～");
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_160");

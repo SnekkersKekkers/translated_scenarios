@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,255,0,0,3,-1,-1,0,0);
     VoicePlay("W090400001_04_010");
-    MsgDisp("Nanatsumori","Colorful～.
+    MsgDisp("Nanatsumori","Colorful～
 If it was a real cup,
 it would be cute.");
     break ;

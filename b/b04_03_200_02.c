@@ -97,7 +97,7 @@ I wanted to observe you.");
         MsgDisp("Honda","Hey, let's skii!
 This is a waste of time! ");
         MsgDisp("主人公","(Observe me he says...
-that's a little embarassing.)");
+that's a little embarrassing.)");
         break ;
         default :
         DbgAssert(1);

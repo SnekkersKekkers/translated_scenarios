@@ -51,7 +51,7 @@ return it...)");
     VoicePlay("P830300001_03_020");
     MsgDisp("Honda","What's wrong, you look troubled?");
     MsgDisp("主人公","Ah, ｛本多＊＊｝...
-The pens taht were borrowed
+The pens that were borrowed
 haven't been returned....");
     ChEye(3,0);
     ChMouth(3,0);

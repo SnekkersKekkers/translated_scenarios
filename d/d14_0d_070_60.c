@@ -3,7 +3,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("D140D07060_22_000");
-MsgDisp("Hikaru","Himuro-chan sure is strange huh～.");
+MsgDisp("Hikaru","Himuro-chan sure is strange huh～");
 MsgDisp("主人公","Eh, strange?");
 ChMotion(22,0,1);
 VoicePlay("D140D07060_22_010");
@@ -28,7 +28,7 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("D140D07060_22_020");
-MsgDisp("Hikaru","It can't be helped～. Since his relative
+MsgDisp("Hikaru","It can't be helped～ Since his relative
 is a famed vice principal in the same
 school... right?");
 ChEye(22,0);

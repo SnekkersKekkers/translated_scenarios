@@ -30,7 +30,7 @@ VoicePlay("X210700000_07_030");
 MsgDisp("Mikage","Without a doubt, 
 you are Rose Queen.");
 MsgDisp("主人公","I'm happy but...
-it's somewhat embarassing.");
+it's somewhat embarrassing.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

@@ -227,7 +227,7 @@ StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("Q070101000_01_150");
 MsgDisp("Kazama","Let's save the rest for next time. We have
-to return, otherwise Vice Prinicipal
+to return, otherwise Vice Principal
 Himuro will get mad at Mikage-sensei.");
 MsgDisp("主人公","Ah, true.");
 BGMStop();

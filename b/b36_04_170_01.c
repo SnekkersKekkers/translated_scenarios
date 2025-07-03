@@ -49,7 +49,7 @@ VoicePlay("B360417001_04_050");
 MsgDisp("Nanatsumori","…………");
 ChMouthOpenLevel(4,-1);
 VoicePlay("B360417001_04_060");
-MsgDisp("Nanatsumori","How would you wnat it to be?");
+MsgDisp("Nanatsumori","How would you want it to be?");
 MsgDisp("主人公","Eh?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -57,7 +57,7 @@ ChMotion(4,0,1);
 VoicePlay("B360417001_04_070");
 MsgDisp("Nanatsumori","There's four seats,
 and also four people.
-Where and how would you wnat to sit?");
+Where and how would you want to sit?");
 MsgDisp("主人公","I...
 I...");
 ChMotion(4,1,1);

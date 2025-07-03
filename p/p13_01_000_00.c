@@ -9,9 +9,9 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","It's a maze～.
+    MsgDisp("主人公","It's a maze～
 If you can reach the finish line, 
-you get to drink freshly squeezed milk～.");
+you get to drink freshly squeezed milk～");
     VoicePlay("P130100000_01_000");
     MsgDisp("Kazama?","......Pfft.");
     MsgClose();
@@ -52,9 +52,9 @@ Ticket for one～!");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","This is a maze～.
+    MsgDisp("主人公","This is a maze～
 If you can reach the goal,
-You get to drink freshly squeezed milk～.");
+You get to drink freshly squeezed milk～");
     VoiceEVSPlay(1);
     VoicePlay("P130100000_01_040");
     MsgDisp("Kazama","｛主人公｝.");

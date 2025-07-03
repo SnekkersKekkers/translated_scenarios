@@ -63,7 +63,7 @@ But that's my job...");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("P830500000_05_050");
-    MsgDisp("Hiiragi","It's alright. I'm accquainted with some
+    MsgDisp("Hiiragi","It's alright. I'm acquainted with some
 people present due to their relations with
 the theatre troupe.");
     VoicePlay("P830500000_05_060");

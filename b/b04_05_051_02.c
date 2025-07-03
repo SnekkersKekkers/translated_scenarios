@@ -67,17 +67,17 @@ You should have woke me.");
         MsgDisp("Hiiragi","Why is that?
 Even though you were that comfortable?");
         MsgDisp("主人公","You should have because
-it's embarassing.");
+it's embarrassing.");
         ChEye(5,2);
         ChMouth(5,2);
         ChMotion(5,2);
         ChCheek(5,5);
         VoicePlay("B040505102_05_070");
-        MsgDisp("Hiiragi","E-embarassing?
+        MsgDisp("Hiiragi","E-embarrassing?
 Umm... I apologize.");
         VoicePlay("B040505102_05_080");
         MsgDisp("Hiiragi","I didn't intend on causing
-you that much embarassment.");
+you that much embarrassment.");
         MsgDisp("主人公","I'm the one who should be saying sorry.
 I was the one who fell asleep...");
         ChEye(5,4);

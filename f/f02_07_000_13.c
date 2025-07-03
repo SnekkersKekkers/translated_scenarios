@@ -13,7 +13,7 @@ ChMotion(7,4);
 VoicePlay("F020700013_07_000");
 MsgDisp("Mikage","Yeah, I haven't been to Nagasaki 
 before, so I'm starting to
-lose sleep～.");
+lose sleep～");
 MsgDisp("主人公","Isn't that a bit early?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -32,7 +32,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700013_07_030");
-MsgDisp("Mikage","Nice～.
+MsgDisp("Mikage","Nice～
 I like that you responded immediately.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -60,7 +60,7 @@ VoicePlay("F020700013_07_060");
 MsgDisp("Mikage","That's troubling then.
 But, If I'm going to get scolded anyways, 
 I want to throw pillows...
-It really is no good, huh～.");
+It really is no good, huh～");
 MsgDisp("主人公","Umm, I think you should find
 something else to enjoy.");
 ChEye(7,2);

@@ -13,10 +13,10 @@ VoicePlay("X210500000_05_010");
 MsgDisp("Hiiragi","There is no one more fitting 
 for this title than you
 in this school.");
-MsgDisp("主人公","It's kind of embarassing.");
+MsgDisp("主人公","It's kind of embarrassing.");
 ChEye(5,0);
 VoicePlay("X210500000_05_020");
-MsgDisp("Hiiragi","There is no need for embarassment.
+MsgDisp("Hiiragi","There is no need for embarrassment.
 Please just stand proudly.");
 ChEye(5,4);
 ChMotion(5,4);

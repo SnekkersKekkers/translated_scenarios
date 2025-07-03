@@ -34,7 +34,7 @@ MsgDisp("Sassa","Well, I'm glad to
 have been the guinea pig.
 Could I get some water?");
 MsgDisp("主人公","(I should have participated more 
-dilligently in preparations and
+diligently in preparations and
 resarched more on herb tea, huh...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -42,7 +42,7 @@ take a trip around the world.");
     ChMotion(4,4,1);
     VoicePlay("B040409001_04_030");
     MsgDisp("Nanatsumori","Shh, you're being too loud!
-...it's embarassing.");
+...it's embarrassing.");
     MsgDateResultDisp();
     break ;
     default :

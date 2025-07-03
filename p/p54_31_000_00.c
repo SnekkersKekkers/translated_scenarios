@@ -18,7 +18,7 @@ ChMouth(31,2);
 ChMotion(31,2);
 VoicePlay("P543100000_31_010");
 MsgDisp("Goro","It was the best.
-I'm familliar with this song, 
+I'm familiar with this song, 
 but it's like I've seen a new world!");
 MsgDisp("主人公","(Yay! This is the result of practicing
 regularly!)");

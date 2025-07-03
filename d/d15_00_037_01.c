@@ -27,7 +27,7 @@ ChEye ( 3,3 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150003701_03_020" ) ;
-MsgDisp ( "本多","Yepyep. School cafetaria fortune telling.
+MsgDisp ( "本多","Yepyep. School cafeteria fortune telling.
 That sounds cool!" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
@@ -35,7 +35,7 @@ ChMotion ( 7,5 ) ;
 VoicePlay ( "D150003701_07_010" ) ;
 MsgDisp ( "御影","Oh, Honda. You're onto something again." ) ;
 MsgDisp ( "主人公","(I'm looking forward to ｛本多＊＊｝ 's
-cafetaria fortune telling service.)" ) ;
+cafeteria fortune telling service.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

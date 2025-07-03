@@ -15,6 +15,6 @@ Sorry, wait for me!");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Oh no! I got the date's meeting place 
-wrong..!");
+wrong...!");
 MsgClose();
 ScrFadeOut(0,0);

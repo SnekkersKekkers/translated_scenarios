@@ -24,7 +24,7 @@ ChEye ( 4,0 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150001401_04_020" ) ;
-MsgDisp ( "七ツ森","The best part of the cafetaria is seeing
+MsgDisp ( "七ツ森","The best part of the cafeteria is seeing
 what you order." ) ;
 MsgDisp ( "主人公","Ehh? It's hard to choose when you watch me
 like that......" ) ;

@@ -106,7 +106,7 @@ SEPlay("EV_SE_864",0.3,0.8);
 BGOpen("sc310",0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝。");
+MsgDisp("主人公","｛七ツ森＊｝.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);

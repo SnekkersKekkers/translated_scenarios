@@ -85,7 +85,7 @@ can't be wrong.");
     ChMotion(7,0);
     VoicePlay("P830700000_07_070");
     MsgDisp("Mikage","Oh, they're coming, they're coming.
-See you then～.");
+See you then～");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     MsgDisp("主人公","(｛御影＊＊｝ came to support me huh?)");

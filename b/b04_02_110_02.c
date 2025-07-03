@@ -76,7 +76,7 @@ good training in.");
         VoicePlay("B040211002_02_070");
         MsgDisp("Sassa","I'm  not particularly 
 looking up and down.");
-        MsgDisp("主人公","It's somewhat embarassing though?");
+        MsgDisp("主人公","It's somewhat embarrassing though?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,3);

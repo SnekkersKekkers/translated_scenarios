@@ -44,7 +44,7 @@ my occupation?");
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040515102_05_030");
-        MsgDisp("Hiiragi","Being \"familliar\" and \"skilled\"
+        MsgDisp("Hiiragi","Being \"familiar\" and \"skilled\"
 are considerably different.");
         MsgDateResultDisp();
         break ;
@@ -69,7 +69,7 @@ I phrased it weirdly.");
         ChMouth(5,4);
         ChMotion(5,2);
         VoicePlay("B040515102_05_060");
-        MsgDisp("Hiiragi","But, I really am familliar with it.
+        MsgDisp("Hiiragi","But, I really am familiar with it.
 Back when our theater group used to 
 tour the country, we stayed in places 
 with bowling alleys.");

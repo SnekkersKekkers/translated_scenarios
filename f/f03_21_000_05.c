@@ -35,7 +35,7 @@ ChMotion(21,4);
 ChCheek(21,10);
 VoicePlay("F032100000_21_260");
 MsgDisp("Michiru","Ahh, Mari.
-I'm embarassed.");
+I'm embarrassed.");
 MsgDisp("主人公","(｛みちる＊｝ normally looks cool, 
 but actually, she's quite girly right?)");
 BGMStop();

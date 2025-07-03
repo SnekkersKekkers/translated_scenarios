@@ -39,7 +39,7 @@ customers has our manager happy, too.");
     VoicePlay("I660800007_08_030");
     MsgDisp("Shirahane","Haha!
 Keep up the good work.");
-    MsgDisp("主人公","(It's a little embarassing, but
+    MsgDisp("主人公","(It's a little embarrassing, but
 I'm happy to see that my hard work
 is being recognized.)");
     break ;
@@ -95,7 +95,7 @@ Get it together, me!");
     MsgDisp("Shirahane","I'm startin' to really enjoy
 working part-time here thanks t' ya.
 I got it......");
-    MsgDisp("主人公","(It's a little embarassing, but
+    MsgDisp("主人公","(It's a little embarrassing, but
 I'm happy to see that my hard work
 is being recognized.)");
     break ;

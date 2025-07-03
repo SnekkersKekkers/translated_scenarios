@@ -50,7 +50,7 @@ make us something?");
     VoicePlay("B040830001_08_030");
     MsgDisp("Shirahane","Now that you mention it, I'm curious...
 something like my smell, is kinda
-embarassing.");
+embarrassing.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

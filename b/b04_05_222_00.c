@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040522200_05_010");
-    MsgDisp("Hiiragi","Whilst it is embarassing, me too.
+    MsgDisp("Hiiragi","Whilst it is embarrassing, me too.
 It's not enough to just like it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

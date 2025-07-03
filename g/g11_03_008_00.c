@@ -50,7 +50,7 @@ while (1){
     ChMouth(3,2);
     ChMotion(3,1);
     VoicePlay("G110300800_03_060");
-    MsgDisp("Honda","Although, I'm talking about books～.");
+    MsgDisp("Honda","Although, I'm talking about books～");
     }
 ChEye(3,1);
 ChMouth(3,1);

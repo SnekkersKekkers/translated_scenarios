@@ -4,7 +4,7 @@ ChLayout(0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("T020501000_05_000");
-MsgDisp("Hiiragi?","｛主人公｝。");
+MsgDisp("Hiiragi?","｛主人公｝.");
 MsgClear();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

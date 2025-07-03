@@ -62,7 +62,7 @@ ChMotion(21,3);
 VoicePlay("S120D00004_21_030");
 MsgDisp("Michiru","I also love Mari.");
 MsgDisp("主人公","Hehe.
-This is a little embarassing.");
+This is a little embarrassing.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

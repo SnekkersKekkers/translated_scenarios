@@ -46,7 +46,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("F020700006_07_040");
-MsgDisp("Mikage","That's what I want～.");
+MsgDisp("Mikage","That's what I want～");
 MsgDisp("主人公","Ehh?
 That would be bad for you
 to get injured.");

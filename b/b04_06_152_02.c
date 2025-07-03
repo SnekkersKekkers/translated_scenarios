@@ -29,7 +29,7 @@ Then, let's bet on one drink.");
     ChMotion(6,0);
     VoicePlay("B040615202_06_020");
     MsgDisp("Himuro","Isn't it important to 
-challenge youself?");
+challenge yourself?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

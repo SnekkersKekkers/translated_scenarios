@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308400_03_000");
 MsgDisp("Honda","I wonder if the firefly
 larvae are doing well?");
-MsgSel("Larvae are a bit...","We completely can't see them huh","Do you wnat to try catching them?");
+MsgSel("Larvae are a bit...","We completely can't see them huh","Do you want to try catching them?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

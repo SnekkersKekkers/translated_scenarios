@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040417002_04_000");
 MsgDisp("Nanatsumori","This room...
 is surprisingly closed off.");
-MsgSel("When you become aware of it, it's a bit embarassing...","Shall we do something heart-racing?","It's a bit hot, huh");
+MsgSel("When you become aware of it, it's a bit embarrassing...","Shall we do something heart-racing?","It's a bit hot, huh");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

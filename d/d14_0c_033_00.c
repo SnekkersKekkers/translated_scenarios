@@ -100,7 +100,7 @@ ChMotion(7,3);
 VoicePlay("D140C03300_07_030");
 MsgDisp("Mikage","Good.
 With that spirit, eat lots
-and grow up big and strong～.");
+and grow up big and strong～");
 MsgDisp("主人公","(Hehe. I wonder if both ｛柊＊＊＊｝
 and ｛氷室＊＊｝ want to grow bigger?)");
 BGMStop();

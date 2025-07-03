@@ -50,7 +50,7 @@ customers would come......)");
     MsgDisp("Honda","｛主人公｝.
 Wow, matching yukata.");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.
-Welcome～.");
+Welcome～");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

@@ -34,9 +34,9 @@ funny, so I'll give it a shot.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","It's a maze～.
+    MsgDisp("主人公","It's a maze～
 If you can reach the finish line, 
-you get to drink freshly squeezed milk～.");
+you get to drink freshly squeezed milk～");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);

@@ -15,7 +15,7 @@ I brought to the party!");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("R060100003_01_010");
-    MsgDisp("Kazama","You recieved the present
+    MsgDisp("Kazama","You received the present
 I got for the party.");
     MsgDisp("主人公","Really∋");
     ChEye(1,4);

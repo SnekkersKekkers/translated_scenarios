@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The souvernir for ｛氷室＊＊｝ 
+MsgDisp("主人公","(The souvenir for ｛氷室＊＊｝ 
 will be matcha castella with a bit of
 sweetness!)");
 MsgClose();

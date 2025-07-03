@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040123500_01_010");
     MsgDisp("Kazama","Looks that way.
-I understood taht quite well.");
+I understood that quite well.");
     MsgDispSksp(1,0);
     ChMotion(1,0);
     ChEyeOpenLevel(1,-1);

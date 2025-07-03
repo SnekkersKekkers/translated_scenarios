@@ -94,7 +94,7 @@ three-legged race with me?");
     VoicePlay("O030101000_01_070");
     MsgDisp("Kazama?","Sorry, I already have a partner.");
     VoicePlay("O030101000_44_030");
-    MsgDisp("School Girl A","Someone else already got you～.
+    MsgDisp("School Girl A","Someone else already got you～
 Too bad.");
     MsgClose();
     SEPlay("EV_SE_625");

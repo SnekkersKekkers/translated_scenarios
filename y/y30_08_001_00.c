@@ -41,7 +41,7 @@ the new girl? Why don't you go and
 help her out while you're there?\"");
 MsgDisp("","The manager noticed 
 that I couldn't take my eyes off her.
-That's super embarassing...");
+That's super embarrassing...");
 MsgDisp("","But, her way of workin' was perfect, 
 so there was no need ta help her.");
 MsgClear();

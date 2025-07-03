@@ -41,7 +41,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700600_07_030");
-MsgDisp("Mikage","And then, I showed up～.");
+MsgDisp("Mikage","And then, I showed up～");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

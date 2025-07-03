@@ -23,7 +23,7 @@ MsgDisp("主人公","(I believe the tournament area was
 this way......)");
 VoiceEVSPlay(1);
 VoicePlay("D010100700_01_000");
-MsgDisp("Kazama?","｛主人公｝。");
+MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_628");
 SEWait();

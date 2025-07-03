@@ -52,7 +52,7 @@ Will you accept this present?");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("K010700100_07_040");
-    MsgDisp("Mikage","Of course～.
+    MsgDisp("Mikage","Of course～
 Thanks.");
     MsgDisp("主人公","You're welcome.
 If you'd like, please open it!");

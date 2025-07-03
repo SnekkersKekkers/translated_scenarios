@@ -119,7 +119,7 @@ But I have something to do, cya later!");
 I wonder if I'll see him again......?");
     MsgDisp("主人公","(Anyway......
 I kissed that guy.
-How embarassing!)");
+How embarrassing!)");
     break ;
     case 1:
     MsgDisp("主人公","(I don't know him at all and I'll

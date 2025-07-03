@@ -80,7 +80,7 @@ MsgDisp("Hiiragi","Holly leaves have long been used as
 It has also been used to ward off evil.");
 ChEye(5,4);
 VoicePlay("Q070501000_05_080");
-MsgDisp("Hiiragi","As a souvernir of the school trip and 
+MsgDisp("Hiiragi","As a souvenir of the school trip and 
 your good luck charm.");
 MsgDisp("主人公","｛柊＊＊＊｝……");
 ChEye(5,3);

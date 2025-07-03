@@ -10,7 +10,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510300_05_010");
 MsgDisp("Hiiragi","That reminds me, 
-a similar thing occured when we were on 
+a similar thing occurred when we were on 
 that sightseeing boat.");
 MsgDisp("主人公","Hehe, yes.
 A lot of seagulls gathered around us.");

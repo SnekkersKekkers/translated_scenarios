@@ -81,7 +81,7 @@ exclusive to couples...");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040117002_01_070");
         MsgDisp("Kazama","...Is there a problem?");
-        MsgDisp("主人公","(It might be kinda embarassing 
+        MsgDisp("主人公","(It might be kinda embarrassing 
 when the employee comes...)");
         break ;
         default :

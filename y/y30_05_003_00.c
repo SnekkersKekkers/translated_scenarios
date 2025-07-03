@@ -27,7 +27,7 @@ with you from now on.\"");
 VoicePlay("Y300500300_33_010");
 MsgDisp("Theater Member B","\"To think I could be in this
 wonderful play, 'Habataki Castle'
-that I'm so familliar with... so that
+that I'm so familiar with... so that
 I can be of help, I'll give it my
 all.\"");
 MsgDisp("","They were full of hope.");

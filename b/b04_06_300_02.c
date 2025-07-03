@@ -29,7 +29,7 @@ to do by looking at it?
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040630002_06_020");
-    MsgDisp("Himuro","Heeh, you sure are dilligent.
+    MsgDisp("Himuro","Heeh, you sure are diligent.
 Could you teach me too? Senpai.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);

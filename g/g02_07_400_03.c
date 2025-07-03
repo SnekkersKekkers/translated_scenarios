@@ -18,14 +18,14 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020740003_07_020");
 MsgDisp("Mikage","I live in an apartment now so it's not
-possible～. When I was a kid, I didn't
+possible～ When I was a kid, I didn't
 care about anything and kept whatever I
 could get a hold of.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020740003_07_030");
-MsgDisp("Mikage","Pii the chicken was a funny guy～.");
+MsgDisp("Mikage","Pii the chicken was a funny guy～");
 MsgDisp("主人公","Pii-chan, huh?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -54,7 +54,7 @@ ChMotion(7,4);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020740003_07_070");
 MsgDisp("Mikage","Come to think of it, he was my first
-best friend～.");
+best friend～");
 MsgDisp("主人公","(I'm curious about the second and 
 subsequent ones......)");
 BGMStop();

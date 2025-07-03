@@ -131,7 +131,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D010100500_01_120");
 MsgDisp("Kazama","Yep.
-That flavor is better for me, afterall.");
+That flavor is better for me, after all.");
 MsgDisp("主人公","(｛風真＊＊｝......Like I thought, maybe
 his parents are still asking him to come
 back to England......?)");

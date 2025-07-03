@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040430000_04_010");
     MsgDisp("Nanatsumori","Is that so?
 This is my first time bringing a girl
-up here, so it's kinda embarassing.");
+up here, so it's kinda embarrassing.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

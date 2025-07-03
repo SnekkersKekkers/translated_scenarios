@@ -133,7 +133,7 @@ closed until I could no
 longer hear his footsteps.");
 MsgClear();
 MsgDisp("","The summer breeze blew through 
-the familliar hallway window.");
+the familiar hallway window.");
 MsgDisp("","This might've been the first time
 where this scenery was so refreshing.");
 MsgClear();

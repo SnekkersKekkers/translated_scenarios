@@ -40,7 +40,7 @@ ChMouth(21,4);
 ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("F032100000_21_060");
-MsgDisp("Michiru","No way.... this is so embarassing.
+MsgDisp("Michiru","No way.... this is so embarrassing.
 Can you let me off already?");
 MsgDisp("主人公","(Hehe
 ｛みちる＊｝ likes romance dramas huh?)");

@@ -110,7 +110,7 @@ Thank you, ｛七ツ森＊｝ .");
     ChCheek(4,5);
     VoicePlay("Q120400000_04_150");
     MsgDisp("Nanatsumori","Haha......
-Kinda embarrasing, huh?");
+Kinda embarrassing, huh?");
     MsgDisp("主人公","Hehe!");
     break ;
     default :

@@ -25,7 +25,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07051_22_010");
-MsgDisp("Hikaru","I like Mari the way she is～.
+MsgDisp("Hikaru","I like Mari the way she is
 She's like a shiny egg▼");
 ChEye(21,0);
 ChMouth(21,3);

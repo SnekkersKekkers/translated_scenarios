@@ -55,7 +55,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102130001_22_020");
 MsgDisp("Hikaru","Right.
-It was taking a while to come out～.
+It was taking a while to come out～
 Finally.");
 ChEye(21,4);
 ChMouth(21,0);

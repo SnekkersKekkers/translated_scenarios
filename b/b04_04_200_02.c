@@ -59,7 +59,7 @@ not skate coolly?");
         VoicePlay("B040420002_04_060");
         MsgDisp("Nanatsumori","I mean, both my skiwear and my
 skiing are half-baked.");
-        MsgDisp("主人公","Haha..!");
+        MsgDisp("主人公","Haha...!");
         ChEye(4,4);
         ChMouth(4,2);
         ChMotion(4,0,1);

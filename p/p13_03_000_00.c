@@ -32,9 +32,9 @@ and the maze came out!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","It's a maze～.
+    MsgDisp("主人公","It's a maze～
 If you can reach the finish line, 
-you get to drink freshly squeezed milk～.");
+you get to drink freshly squeezed milk～");
     VoicePlay("P130300000_03_020");
     MsgDisp("Honda?","You get to drink cow milk if you clear the
 maze∋ Super interesting∈");

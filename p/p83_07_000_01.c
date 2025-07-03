@@ -31,7 +31,7 @@ Did you need something?");
 the hard working Majime-chan, alone.");
     MsgDisp("主人公","Yes...?");
     VoicePlay("P830700001_46_000");
-    MsgDisp("School Girl A","Um, excuse me～. But we don't have enough
+    MsgDisp("School Girl A","Um, excuse me～ But we don't have enough
 blackout curtains.");
     ChEye(7,2);
     ChMouth(7,0);

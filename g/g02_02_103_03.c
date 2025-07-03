@@ -36,7 +36,7 @@ ChMotion(2,2);
 VoicePlay("G020210303_02_050");
 MsgDisp("Sassa","After all, 
 you're pretty and cute, so of course, 
-you'll attract attention～.");
+you'll attract attention～");
 MsgDisp("主人公","Eh? That's not true......");
 ChEye(2,0);
 ChMouth(2,0);

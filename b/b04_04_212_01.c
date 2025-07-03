@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040421201_04_000");
 MsgDisp("Nanatsumori","This is a limited edition t-shirt.
 Should we buy some matching ones?");
-MsgSel("I don't believe I'll be able to pull that off...","It's embarassing to match","Of course!");
+MsgSel("I don't believe I'll be able to pull that off...","It's embarrassing to match","Of course!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

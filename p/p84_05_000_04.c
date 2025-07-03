@@ -14,7 +14,7 @@ MsgDisp("Hiiragi","The lost child's mother has been found.");
 MsgDisp("主人公","Haa, that's good.");
 ChEye(5,0);
 VoicePlay("P840500004_05_010");
-MsgDisp("Hiiragi","It was because you had dilligently
+MsgDisp("Hiiragi","It was because you had diligently
 repeated the broadcasts, that she had
 noticed.");
 ChMotion(5,4);

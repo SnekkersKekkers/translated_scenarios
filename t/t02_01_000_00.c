@@ -199,7 +199,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,10);
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_220");
-MsgDisp("Kazama","――｛主人公｝。");
+MsgDisp("Kazama","――｛主人公｝.");
 MsgDisp("主人公","......Yes.");
 ChEye(1,4);
 ChMouth(1,4);

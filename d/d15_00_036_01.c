@@ -5,7 +5,7 @@ ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,0 ) ;
 VoicePlay ( "D150003601_03_000" ) ;
-MsgDisp ( "本多","The amount of food the cafetaria gives was
+MsgDisp ( "本多","The amount of food the cafeteria gives was
 surprising at first." ) ;
 MsgDisp ( "主人公","Yeah. Even the normal size is impressive." ) ;
 ChEye ( 6,0 ) ;

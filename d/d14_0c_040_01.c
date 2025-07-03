@@ -91,13 +91,13 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C04001_07_050");
 MsgDisp("Mikage","｛主人公｝, Yanosuke, Inori...
-I think you're all so dilligent
+I think you're all so diligent
 to the point it's funny.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C04001_05_070");
-MsgDisp("Hiiragi","I aim to be dilligent but... 
+MsgDisp("Hiiragi","I aim to be diligent but... 
 funny? I don't understand.");
 MsgDisp("主人公","Yeah.
 I also don't get it.");

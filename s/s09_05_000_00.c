@@ -121,7 +121,7 @@ Which hand should I use to pull?");
         MsgDisp("Hiiragi","Let's hold hands until we get
 there.");
         MsgDisp("主人公","Eh, sure.");
-        MsgDisp("主人公","(It's a little embarassing.)");
+        MsgDisp("主人公","(It's a little embarrassing.)");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,4);

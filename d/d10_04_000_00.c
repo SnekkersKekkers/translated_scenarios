@@ -7,7 +7,7 @@ ChOpen(4,254,0,2,4,-1,-1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("D100400000_04_000");
-MsgDisp("Nanatsumori","｛主人公｝。");
+MsgDisp("Nanatsumori","｛主人公｝.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 What's the issue?");
 ChMotion(4,1,1);

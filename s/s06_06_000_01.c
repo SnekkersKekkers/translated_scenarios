@@ -20,7 +20,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("S060600001_06_020");
     MsgDisp("Himuro","Well, it's fine for New Years.");
     MsgDisp("主人公","(I guess wearing the kimono was
-a good choice, afterall?)");
+a good choice, after all?)");
     break ;
     case 3:
     ChEye(6,0);

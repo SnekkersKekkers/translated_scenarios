@@ -29,7 +29,7 @@ VoicePlay("G020110302_01_030");
 MsgDisp("Kazama","Actually, if anything, it feels nice how
 it's like there's no room for anyone to
 get between us.");
-MsgDisp("主人公","But it's a bit embarrasing for me.");
+MsgDisp("主人公","But it's a bit embarrassing for me.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

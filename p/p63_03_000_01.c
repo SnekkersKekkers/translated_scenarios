@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     case 3:
     MsgDisp("主人公","(This year we're serving herb tea and
 selling vegetables. It would be nice if it
-was well-recieved...)");
+was well-received...)");
     MsgClose();
     ChOpen(3,254,1,0,3,-1,-1,0,0);
     VoicePlay("P630300001_03_000");
@@ -37,7 +37,7 @@ This way please!");
     case 5:
     MsgDisp("主人公","((This year we're serving herb tea and
 selling vegetables. It would be nice if it
-was well-recieved...))");
+was well-received...))");
     MsgClose();
     ChOpen(3,254,4,0,0,-1,-1,0,0);
     VoicePlay("P630300001_03_030");
@@ -59,7 +59,7 @@ It's certainly healing, huh?");
     ChMotion(3,5,1);
     VoicePlay("P630300001_03_050");
     MsgDisp("Honda","No, that smile!
-That'sーa triple effect～.");
+That'sーa triple effect～");
     MsgDisp("主人公","Umm...
 Should I show you to a table first?");
     break ;

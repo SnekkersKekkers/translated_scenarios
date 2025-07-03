@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040221101_02_000");
 MsgDisp("Sassa","It's said that cheetahs 
 are the fastest land animals, huh...");
-MsgSel("Do you wnat a competition?","I wonder how fast","Their body is like an athlete's.");
+MsgSel("Do you want a competition?","I wonder how fast","Their body is like an athlete's.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

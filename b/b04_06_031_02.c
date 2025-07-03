@@ -115,7 +115,7 @@ to the aquarium though?");
         MsgDisp("Himuro","I'm free to look at what I want.
 I won't listen to any objections. 
 That's all.");
-        MsgDisp("主人公","(Ugh... it's kind of embarassing...)");
+        MsgDisp("主人公","(Ugh... it's kind of embarrassing...)");
         break ;
         default :
         DbgAssert(1);

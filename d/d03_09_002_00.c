@@ -65,7 +65,7 @@ ChClose(31);
 MsgDisp("主人公","(I see.
 If I want to get an interview with him,
 I need to keep up with what's in \"style\".)");
-MsgSel("Let's do it！","It's fine afterall……");
+MsgSel("Let's do it！","It's fine after all……");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","(Yeah, let's continue looking

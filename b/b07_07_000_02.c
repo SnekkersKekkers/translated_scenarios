@@ -40,7 +40,7 @@ ChMotion(7,3);
 VoicePlay("B070700000_07_100");
 MsgDisp("Mikage","The double punch of the soy sauce and 
 then the sourness of pickled ginger.
-And then there's the mustard～.");
+And then there's the mustard～");
 MsgDisp("主人公","So, you love Hiyashi Chuuka 
 even without vegetables, right?");
 ChEye(7,2);

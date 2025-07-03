@@ -13,7 +13,7 @@ VoicePlay("U120D00000_22_010");
 MsgDisp("Hikaru","Is there a boy that Mari is
 interested in right now?");
 MsgClose();
-MsgSel("Yes, there is…","Nope, not yet…","I'm embarassed…");
+MsgSel("Yes, there is…","Nope, not yet…","I'm embarrassed…");
 switch (MsgSelRsltGet()){
     case 0:
     case 1:

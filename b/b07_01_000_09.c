@@ -14,7 +14,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_500");
 MsgDisp("Kazama","Just do as you normally do.
-And what is taht?");
+And what is that?");
 MsgDisp("主人公","Hey um, 
 what do you think about love, ｛風真＊＊｝?");
 ChEye(1,0);

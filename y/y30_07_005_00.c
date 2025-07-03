@@ -73,7 +73,7 @@ We often used to meet here when
 we went out on outings.");
 MsgDisp("","She would dress stylishly with
 various different clothes and
-accesories.");
+accessories.");
 VoicePlay("Y300700500_07_040");
 MsgDisp("Mikage","\"Phewー...\"");
 MsgDisp("","Huh? Somehow, I feel nervous.");

@@ -11,7 +11,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B150600000_06_010");
-MsgDisp("Himuro","Were you unaware of it youself?
+MsgDisp("Himuro","Were you unaware of it yourself?
 Even amongst girls, you're one 
 of the more aggresive ones.");
 MsgDisp("主人公","...Do other girls touch you too, 
@@ -63,7 +63,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B150600000_06_080");
 MsgDisp("Himuro","Ah, actually no it's not. 
-You need to restrain youself 
+You need to restrain yourself 
 with me too. Okay?");
 MsgDisp("主人公","U-understood.");
 ChEye(6,0);

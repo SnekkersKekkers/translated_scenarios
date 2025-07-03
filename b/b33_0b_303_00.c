@@ -24,7 +24,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B330B30300_01_000");
 MsgDisp("Kazama","Seriously.
-Does it cost taht much!");
+Does it cost that much!");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);

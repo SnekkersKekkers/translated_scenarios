@@ -29,7 +29,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,5);
     VoicePlay("B350700000_07_030");
     MsgDisp("Mikage","Oh.
-I'm gonna scold them～.");
+I'm gonna scold them～");
     MsgClose();
     ScrFadeOut(0);
     break ;
