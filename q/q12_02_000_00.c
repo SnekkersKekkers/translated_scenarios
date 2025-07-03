@@ -111,7 +111,7 @@ run with you. Don't you think so too?");
 ......would be a good idea, right?");
     MsgDisp("主人公","Hehe, yeah!");
     MsgDisp("主人公","( ｛颯砂＊＊｝ ......
-I hope I can come back sometime)");
+I hope I can come back sometime.)");
     break ;
     default :
     DbgAssert(1);

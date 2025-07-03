@@ -12,7 +12,7 @@ ChOpen(31,254,5,4,4,-1,-1,0,0);
 VoicePlay("P543100005_31_000");
 MsgDisp("Goro","Hey!
 Where has your 'heart' gone?∋");
-MsgDisp("主人公","ＧＯＲＯ-sensei... I'm sorry.");
+MsgDisp("主人公","Goro-sensei... I'm sorry.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
@@ -24,7 +24,7 @@ That's truly good work.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(ＧＯＲＯ-sensei didn't seem pleased, huh.
+MsgDisp("主人公","(Goro-sensei didn't seem pleased, huh.
 But, I think I'm truly happy that I
 continued wind music club for three years.");
 MsgClose();

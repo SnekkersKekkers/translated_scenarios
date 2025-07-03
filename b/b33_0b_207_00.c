@@ -109,7 +109,7 @@ into Mii-kun's pocket whilst
 eating was so cute!");
 ChMotion(4,2,1);
 MsgDisp("主人公","(Hehe!
-I wish I saw it too)");
+I wish I saw it too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

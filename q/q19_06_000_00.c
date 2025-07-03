@@ -15,7 +15,7 @@ MsgDisp("主人公","He, hello......?");
 VoicePlay("Q190600000_06_000");
 MsgDisp("Himuro","...... Why are you answering.
 Isn't it past lights out time?");
-MsgDisp("主人公","Aren't you, ｛氷室＊＊｝ ,
+MsgDisp("主人公","Aren't you, ｛氷室＊＊｝,
 the one who called?");
 VoicePlay("Q190600000_06_010");
 MsgDisp("Himuro","You could just not answer.");

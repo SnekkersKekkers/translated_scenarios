@@ -30,7 +30,7 @@ today for the rest of your life.
 I guarantee it.");
 MsgDisp("主人公","(Yay, the show was a huge success!
 I was praised by ｛御影＊＊｝,
-It was worth doing my best)");
+It was worth doing my best.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

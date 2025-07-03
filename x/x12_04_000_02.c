@@ -24,7 +24,7 @@ Like a fashion designer.");
     MsgDisp("Nanatsumori","Next time can you make
 an item that suits me?
 I'm super interested.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

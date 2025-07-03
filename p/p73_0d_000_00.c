@@ -11,7 +11,7 @@ ChOpen(21,254,0,0,0,-1,-1,0,1);
 ChOpen(22,254,0,0,3,-1,-1,0,2);
 ChMotion(22,4,1);
 VoicePlay("P730D00000_22_000");
-MsgDisp("Hikaru","Hii～ , Mari!
+MsgDisp("Hikaru","Hii～ Mari!
 How are preparations?");
 MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝...");
 ChEye(21,0);

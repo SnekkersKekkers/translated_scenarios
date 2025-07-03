@@ -10,7 +10,7 @@ ChOpen(31,254,5,3,3,-1,-1,0,0);
 VoicePlay("P633100001_31_000");
 MsgDisp("Goro","Well, what a splendid
 eggplant-chan▼");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei.
+MsgDisp("主人公","Ah, Goro-sensei.
 Welcome!");
 ChEye(31,0);
 ChMouth(31,0);

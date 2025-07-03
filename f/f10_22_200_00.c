@@ -10,7 +10,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,-1,-1,0,1,0,30);
 ChOpen(31,254,0,0,0,-1,-1,0,2,0,30);
 MsgDisp("主人公","I thought so!
-｛ひかる＊｝ and... ＧＯＲＯ-sensei∋");
+｛ひかる＊｝ and... Goro-sensei∋");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -47,7 +47,7 @@ MsgClose();
 SEPlay("EV_SE_626");
 ChClose(31);
 ChPosition(22,0);
-MsgDisp("主人公","Why is ＧＯＲＯ-sensei in 
+MsgDisp("主人公","Why is Goro-sensei in 
 this sort of place...?");
 ChEye(22,0);
 ChMouth(22,0);
@@ -63,7 +63,7 @@ VoicePlay("F102220000_22_030");
 MsgDisp("Hikaru","Well, he is a Habataki Alumnus.
 So I guess that makes him an 
 authorized person～?");
-MsgDisp("主人公","(I heard that ＧＯＲＯ-sensei
+MsgDisp("主人公","(I heard that Goro-sensei
 is acquainted to the Haba Academy school
 chairman... maybe he came to see him? )");
 BGMStop();

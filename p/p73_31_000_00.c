@@ -11,7 +11,7 @@ ChOpen(31,254,3,0,0,-1,-1,0,0);
 VoicePlay("P733100000_31_000");
 MsgDisp("Goro","The backstage of a fashion show is a
 battlefield!");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei!
+MsgDisp("主人公","Ah, Goro-sensei!
 You came to watch?");
 ChEye(31,0);
 ChMouth(31,0);

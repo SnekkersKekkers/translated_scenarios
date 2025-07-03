@@ -26,7 +26,7 @@ I'll also cooperate.");
 I think the reason Haba Academy
 is so peaceful is thanks to you.
 Seriously.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

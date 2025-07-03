@@ -11,7 +11,7 @@ VoicePlay("P233100001_31_000");
 MsgDisp("Goro","It's wonderful, huh? The perspiration of
 the springtime of life. It's beautiful,
 no?");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei!
+MsgDisp("主人公","Ah, Goro-sensei!
 DId you come all this way to see it?");
 ChEye(31,2);
 ChMouth(31,2);

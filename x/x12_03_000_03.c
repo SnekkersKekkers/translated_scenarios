@@ -30,7 +30,7 @@ well-liked as you are.");
 be the preseident, but in reality
 it's being supported by hard-working
 people like you!");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

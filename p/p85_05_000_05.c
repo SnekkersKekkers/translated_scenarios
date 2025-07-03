@@ -21,7 +21,7 @@ Haa... but I feel like I want to do it
 over from the start of the preparation
 period.");
 MsgDisp("主人公","(Uuugh, it was a huge fail.
-I should have prepared more carefully)");
+I should have prepared more carefully.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

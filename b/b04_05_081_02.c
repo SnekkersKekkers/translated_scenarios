@@ -80,7 +80,7 @@ thing, hanami dango.");
         ChClose(5);
         SEWait();
         MsgDisp("主人公","(You backed up my weird understanding...
-｛柊＊＊＊｝, thank you)");
+｛柊＊＊＊｝, thank you.)");
         break ;
         default :
         DbgAssert(1);

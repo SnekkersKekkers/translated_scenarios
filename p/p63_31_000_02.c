@@ -10,7 +10,7 @@ ChOpen(31,254,0,3,3,-1,-1,0,0);
 VoicePlay("P633100002_31_000");
 MsgDisp("Goro","Well, it;s you.
 This is a nice terrace, isn't it?");
-MsgDisp("主人公","ＧＯＲＯ-sensei, welcome!
+MsgDisp("主人公","Goro-sensei, welcome!
 This is Haba School's gardening 
 club's true capabilities.");
 ChEye(31,0);

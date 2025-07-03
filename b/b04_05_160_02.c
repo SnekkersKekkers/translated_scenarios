@@ -98,7 +98,7 @@ I can definitely win.");
         ChClose(5);
         SEWait();
         MsgDisp("主人公","(I'm happy...｛柊＊＊＊｝
-is always trying to make me happy)");
+is always trying to make me happy.)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(5,255,0,0,0,-1,-1,0,0,0,0);

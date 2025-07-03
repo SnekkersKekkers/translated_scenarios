@@ -11,7 +11,7 @@ SEWait();
 ChOpen(31,254,4,0,0,-1,-1,0,0);
 VoicePlay("P733100002_31_000");
 MsgDisp("Goro","Hey～, adorable, waa▼");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei!
+MsgDisp("主人公","Ah, Goro-sensei!
 It's an honour you came to watch.");
 ChEye(31,4);
 ChMouth(31,4);

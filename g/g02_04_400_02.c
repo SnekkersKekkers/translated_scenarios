@@ -51,7 +51,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440002_04_080");
-MsgDisp("Nanatsumori","Forget what I said just now! THis must be
+MsgDisp("Nanatsumori","Forget what I said just now! This must be
 because of the firefly habitat.");
 MsgDisp("主人公","？？？");
 ChEye(4,4);
@@ -60,7 +60,7 @@ ChMotion(4,2,1);
 VoicePlay("G020440002_04_090");
 MsgDisp("Nanatsumori","After officially becoming lovers......
 I'll come back.");
-MsgDisp("主人公","(Officially becoming lovers)");
+MsgDisp("主人公","(Officially becoming lovers...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

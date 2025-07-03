@@ -35,6 +35,6 @@ VoicePlay("F022100004_21_030");
 MsgDisp("Michiru","Just hearing you think 
 of me makes me so happy. So, Mari 
 shouldn't mind too much too, okay?");
-MsgDisp("主人公","(｛みちる＊｝ really is the older sister)");
+MsgDisp("主人公","(｛みちる＊｝ really is the older sister.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -43,7 +43,7 @@ MsgDisp("Mikage","You too, don't lose,
 bloom beautifully and welcome spring.
 Okay?");
 MsgDisp("主人公","Yes!
-｛御影＊＊｝ , thank you very much.");
+｛御影＊＊｝, thank you very much.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

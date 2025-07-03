@@ -24,7 +24,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","Ehhhh∋
-ＧＯＲＯ-sensei～∋");
+Goro-sensei～∋");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_793",1,0.9);
@@ -45,7 +45,7 @@ VoicePlay("P243101000_31_020");
 MsgDisp("Goro","Yahoo!
 The stage change was perfect♪");
 MsgDisp("主人公","Yes! I think the audience will be
-surprised to know that ＧＯＲＯ-sensei
+surprised to know that Goro-sensei
 helped out.");
 ChEye(31,0);
 ChMouth(31,0);
@@ -56,7 +56,7 @@ high school feeling. Thank you▼");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","( I changed the set with ＧＯＲＯ-sensei, 
+MsgDisp("主人公","( I changed the set with Goro-sensei, 
 this'll be a nice memory!)");
 MsgClose();
 ScrFadeOut(0);

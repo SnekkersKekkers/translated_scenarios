@@ -108,7 +108,7 @@ So, enjoy your school trip to the end!");
     ChClose(7);
     MsgDisp("主人公","(Good memories last forever......
 I hope the school trip with ｛御影＊＊｝
-will be a memory of a lifetime)");
+will be a memory of a lifetime.)");
     break ;
     default :
     DbgAssert(1);

@@ -67,7 +67,7 @@ ChMotion(2,4);
 VoicePlay("G020210100_02_090");
 MsgDisp("Sassa","Ah, sorry, sorry.");
 MsgDisp("主人公","(｛颯砂＊＊｝ also has his own individual
-charm though)");
+charm though.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

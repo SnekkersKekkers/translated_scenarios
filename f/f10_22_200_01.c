@@ -14,7 +14,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,-1,-1,0,1,0,30);
 ChOpen(31,254,0,0,0,-1,-1,0,2,0,30);
 MsgDisp("主人公","｛ひかる＊｝.
-ＧＯＲＯ-sensei is also here again?");
+Goro-sensei is also here again?");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);
@@ -77,7 +77,7 @@ I can see why Oji-sama is the best
 in the world. No one else would
 have thought of that.");
 MsgDisp("主人公","(Maybe I would've liked to see
-the designs by ＧＯＲＯ-sensei...?)");
+the designs by Goro-sensei...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

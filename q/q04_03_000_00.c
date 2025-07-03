@@ -45,14 +45,13 @@ around together with me?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛本多＊＊｝ ,
-good morning!");
+    MsgDisp("主人公","｛本多＊＊｝,good morning!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q040300000_03_040");
-    MsgDisp("Honda","｛主人公｝ , 'morning!");
+    MsgDisp("Honda","｛主人公｝, 'morning!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,4,1);

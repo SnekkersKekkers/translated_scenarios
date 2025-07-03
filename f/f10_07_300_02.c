@@ -90,7 +90,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("F100730002_07_020");
 MsgDisp("Mikage","...Uncle?");
-MsgDisp("主人公","Ehh!　ＧＯＲＯ-sensei∋");
+MsgDisp("主人公","Ehh!　Goro-sensei∋");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -114,7 +114,7 @@ MsgDisp("Hikaru","Yeah, I'm sure uncle will
 like Mikage-sensei▼
 right, Mari?");
 MsgDisp("主人公","Y-yeah.");
-MsgDisp("主人公","(ＧＯＲＯ-sensei's fashion is quite
+MsgDisp("主人公","(Goro-sensei's fashion is quite
 original though...? Will
 ｛御影＊＊｝ be alright...)");
 BGMStop();

@@ -13,7 +13,7 @@ Sorry.");
 Well, see you later then?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Haah... what a shame)");
+    MsgDisp("主人公","(Haah... what a shame.)");
     break ;
     case 3:
     VoicePlay("J030300001_03_020");

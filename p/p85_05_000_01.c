@@ -23,7 +23,7 @@ MsgDisp("Hiiragi","It wasn't just you, it was me too. If only
 we were more cautious in preparation...
 It's frustrating.");
 MsgDisp("主人公","(Uugh, a huge failure.
-I should have prepared more carefully)");
+I should have prepared more carefully.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

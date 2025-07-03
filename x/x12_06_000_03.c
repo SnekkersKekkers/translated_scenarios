@@ -28,7 +28,7 @@ running the student council well?");
     MsgDisp("Himuro","I heard the student council can't
 run without you anymore.
 As expected from you.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

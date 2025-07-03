@@ -39,7 +39,7 @@ but I'll have it to myself for now.
 Shall we sit side by side?");
 MsgDisp("主人公","(｛柊＊＊＊｝, you must have thought about
 it a lot before inviting me...... Thank
-you)");
+you.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

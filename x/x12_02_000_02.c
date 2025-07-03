@@ -28,7 +28,7 @@ improving bit by bit!)");
     MsgDisp("Sassa","That must have taken a lot of work.
 I'm jealous of the people who can 
 wear what you make.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

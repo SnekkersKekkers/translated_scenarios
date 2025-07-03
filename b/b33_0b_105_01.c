@@ -99,7 +99,7 @@ MsgDisp("Kazama","Alright...
 I'll win this competition.");
 MsgDisp("主人公","(Hehe!
 It's turned into a serious game of 
-rock, paper, scissors at karaoke)");
+rock, paper, scissors at karaoke.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

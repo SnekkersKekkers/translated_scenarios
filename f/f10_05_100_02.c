@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is 
 studying hard in the library...?
-I'll go check it out)");
+I'll go check it out.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);

@@ -107,7 +107,7 @@ VoicePlay("B050800000_08_130");
 MsgDisp("Shirahane","Hehe
 Today is my super lucky day▼");
 MsgDisp("主人公","(｛大地＊＊｝ is in a super good mood.
-He even asked on my behalf)");
+He even asked on my behalf.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

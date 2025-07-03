@@ -45,7 +45,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("B360750100_07_040");
 MsgDisp("Mikage","It is a date, right?");
 MsgDisp("主人公","(Right, so this is a date......
-That's amazing)");
+That's amazing.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

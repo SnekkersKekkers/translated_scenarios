@@ -93,7 +93,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230002_22_070");
 MsgDisp("Hikaru","Uwah....that seems even harder!");
-MsgDisp("主人公","(Hehe! These two really get along)");
+MsgDisp("主人公","(Hehe! These two really get along.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

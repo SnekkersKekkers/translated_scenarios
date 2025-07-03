@@ -19,7 +19,7 @@ VoicePlay("P650700004_07_020");
 MsgDisp("Mikage","And me too as well, yeah?");
 MsgDisp("主人公","Hehe, yes!");
 MsgDisp("主人公","(Yay, a huge success!
-It was worth giving it my best)");
+It was worth giving it my best.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

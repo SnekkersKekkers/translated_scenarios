@@ -44,7 +44,7 @@ MsgDisp("Hiiragi","Merry Christmas.");
 MsgDisp("主人公","Merry Christmas.");
 MsgDisp("主人公","(Continuing on from yesterday, 
 I also spent today with ｛柊＊＊＊｝...
-I'm happy)");
+I'm happy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

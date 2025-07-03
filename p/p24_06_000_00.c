@@ -63,7 +63,7 @@ VoicePlay("P240600000_06_060");
 MsgDisp("Himuro","This, isn't like me at all...");
 MsgDisp("主人公","(Ugh...what should we do?
 This is different to the script...
-No, I'll just keep going)");
+No, I'll just keep going.)");
 MsgDisp("主人公","But... my father, the Celestial Emperor,
 does not view our current relationship
 favorably. If things continue like

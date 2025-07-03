@@ -198,7 +198,7 @@ VoicePlay("D010500400_05_130");
 MsgDisp("Hiiragi","......It was a late realization, but it
 is better than not realizing at all.");
 MsgDisp("主人公","(｛柊＊＊＊｝......
-Yeah, let's do our best together)");
+Yeah, let's do our best together.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

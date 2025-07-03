@@ -4,14 +4,14 @@ ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
 ChOpen(2,254,3,0,4,-1,-1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("Q090A00000_01_000");
-MsgDisp("Kazama","｛主人公｝ , Good morning. ");
+MsgDisp("Kazama","｛主人公｝, good morning. ");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("Q090A00000_02_000");
 MsgDisp("Sassa","Yo, good morning.");
 MsgDisp("主人公","Good morning!
-｛風真＊＊｝ , ｛颯砂＊＊｝ , How early.");
+｛風真＊＊｝, ｛颯砂＊＊｝, how early.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

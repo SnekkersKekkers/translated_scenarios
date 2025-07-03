@@ -92,7 +92,7 @@ interesting.");
         MsgDisp("Honda","I'm glad.
 Then, let's go another round!");
         MsgDisp("主人公","(Hehe, 
-must've been tough on his sister, huh)");
+must've been tough on his sister, huh?)");
         break ;
         default :
         DbgAssert(1);

@@ -30,7 +30,7 @@ VoicePlay("P540500003_05_020");
 MsgDisp("Hiiragi","Now it's a question of what you guys
 want to do.");
 MsgDisp("主人公","(This is a result of playing hooky...
-I just have to accept it properly)");
+I just have to accept it properly.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

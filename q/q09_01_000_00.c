@@ -45,7 +45,7 @@ Let's go then.");
 ｛風真＊＊｝ is......)");
     VoiceEVSPlay(1);
     VoicePlay("Q090100000_01_040");
-    MsgDisp("Kazama?","｛主人公｝ , Good morning.");
+    MsgDisp("Kazama?","｛主人公｝, Good morning.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,-1,-1,0,0);

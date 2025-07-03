@@ -69,7 +69,7 @@ MsgDisp("Mikage","I'll bite!
 Hahaha!");
 MsgDisp("主人公","(｛御影＊＊｝ just now...
 was a bit different to usual.
-My heart is racing again)");
+My heart is racing again.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

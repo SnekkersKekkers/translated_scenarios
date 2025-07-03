@@ -32,7 +32,7 @@ Horticulture club activiies.)");
 flowers, but seeing the ones you grew
 strangely puts me at ease. It's nice.");
     MsgDisp("主人公","(Yay! I'm glad I gave it my 
-all in the gardening club)");
+all in the gardening club!)");
     break ;
     default :
     DbgAssert(1);

@@ -108,7 +108,7 @@ It was a play...");
 Hearing those words from your lips, 
 even as a line, made my day.");
         MsgDisp("主人公","(Umm, somehow it seems like I fell right
-into ｛柊＊＊＊｝ 's plan)");
+into ｛柊＊＊＊｝ 's plan.)");
         break ;
         default :
         DbgAssert(1);

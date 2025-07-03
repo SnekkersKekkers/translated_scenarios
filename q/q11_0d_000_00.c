@@ -24,7 +24,7 @@ ChMotion(22,5,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("Q110D00000_22_000");
 MsgDisp("Hikaru","Sorry to keep you both waiting～♪");
-MsgDisp("主人公","｛ひかる＊｝ , 
+MsgDisp("主人公","｛ひかる＊｝, 
 you're in a good mood, aren't you?");
 ChEye(22,0);
 ChMouth(22,3);

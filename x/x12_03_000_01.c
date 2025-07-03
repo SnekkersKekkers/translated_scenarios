@@ -26,7 +26,7 @@ of color here!");
     VoicePlay("X120300001_03_010");
     MsgDisp("Honda","It's truly beautiful.
 As I thought, you are amazing.");
-    MsgDisp("主人公","(Yay! I got praised)");
+    MsgDisp("主人公","(Yay! I got praised!)");
     break ;
     default :
     DbgAssert(1);

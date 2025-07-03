@@ -10,7 +10,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(31,254,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei!
+MsgDisp("主人公","Ah, Goro-sensei!
 Umm, the people in charge of 
 showing around the guests are——");
 ChEye(31,0);

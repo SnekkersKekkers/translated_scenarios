@@ -49,6 +49,6 @@ ChClose(5);
 MsgDisp("主人公","Ah, he left...");
 MsgDisp("主人公","(Working in a theater company 
 and studying for school is tough,
-isn't it... I wish I could help somehow)");
+isn't it... I wish I could help somehow.)");
 MsgClose();
 ScrFadeOut(0,0);

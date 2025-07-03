@@ -24,5 +24,5 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(He works part-time on Wednesdays and
 Fridays...... I'll be careful when I ask
-him out)");
+him out.)");
 MsgClose();

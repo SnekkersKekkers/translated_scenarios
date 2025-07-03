@@ -93,7 +93,7 @@ I'm happy I asked you, ｛風真＊＊｝ .");
     ChMotion(1,0);
     VoiceEVSPlay(1);
     VoicePlay("Q080100001_01_100");
-    MsgDisp("Kazama","｛主人公｝ , this time from me.");
+    MsgDisp("Kazama","｛主人公｝, this time from me.");
     MsgDisp("主人公","Eh?");
     ChEye(1,4);
     ChMouth(1,3);

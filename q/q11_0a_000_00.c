@@ -5,7 +5,7 @@ MsgClose();
 ScrFadeIn(0);
 MsgDisp("主人公","(Alright, ｛氷室＊＊｝ 's souvenir is
 gonna be the matcha castella with a 
-little bit of sweetness)");
+little bit of sweetness.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
@@ -43,7 +43,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("Q110A00000_01_010");
 MsgDisp("Kazama","Geez, you can't be serious......");
-MsgDisp("主人公","No way, ｛風真＊＊｝ ,
+MsgDisp("主人公","No way, ｛風真＊＊｝,
 You too?");
 ChEye(1,2);
 ChMouth(1,0);
@@ -109,7 +109,7 @@ VoicePlay("Q110A00000_02_060");
 MsgDisp("Sassa","Well, while eating matcha castella,
 Let's all touch it together.");
 MsgDisp("主人公","Yeah!
-｛風真＊＊｝ , ｛颯砂＊＊｝ , 
+｛風真＊＊｝, ｛颯砂＊＊｝, 
 Thanks for the present.");
 BGMStop();
 MsgClose();

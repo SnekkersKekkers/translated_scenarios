@@ -26,7 +26,7 @@ See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
-I can't wait for the ｛日付｝ to come)");
+I can't wait for the ｛日付｝ to come.)");
     break ;
     case 4:
     case 5:
@@ -46,7 +46,7 @@ Okay, I'll look forward to it.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
-I can't wait for the ｛日付｝ to come)");
+I can't wait for the ｛日付｝ to come.)");
     break ;
     default :
     DbgAssert(1);

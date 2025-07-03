@@ -45,7 +45,7 @@ VoicePlay("D140D07060_21_020");
 MsgDisp("Michiru","Well... maybe he won't be able 
 to take classes for real anyways?");
 MsgDisp("主人公","(By uncle, I guess they're
-talking about ＧＯＲＯ-sensei.
+talking about Goro-sensei.
 But he won't be able to 
 take classes for real...?)");
 BGMStop();

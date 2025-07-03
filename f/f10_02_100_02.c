@@ -30,7 +30,7 @@ MsgDisp("Sassa","Yo, so it's you.
 Are you returning that top ranked book?");
 MsgDisp("主人公","It looks like you couldn't borrow the
 \"Exercise Learning Theory in 
-Practice\" , ｛颯砂＊＊｝?");
+Practice\", ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -33,6 +33,6 @@ MsgDisp("Mikage","See you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(｛御影＊＊｝...
-called me out of concern)");
+called me out of concern.)");
 MsgClose();
 ScrFadeOut(0,0);

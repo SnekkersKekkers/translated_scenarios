@@ -51,7 +51,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360223600_02_040");
-MsgDisp("Sassa","Not \"Eh?\" , 
+MsgDisp("Sassa","Not \"Eh?\", 
 you said you wanted us
 to be alone for a day.");
 MsgDisp("主人公","...What about ｛風真＊＊｝

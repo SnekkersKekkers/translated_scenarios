@@ -34,7 +34,7 @@ But with soil, and your love, plants will
 grow. From now on too, keep gardening!");
 MsgDisp("主人公","(Uuugh, even though this was the last
 cultural festival of my high school
-life... I should have tried harder)");
+life... I should have tried harder.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

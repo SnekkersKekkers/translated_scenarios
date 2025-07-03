@@ -34,7 +34,7 @@ It's not eeven enough.");
 ChEyeOpenLevel(5,-1);
 MsgDisp("主人公","(Yay, I'm happy!
 I was able to make a good memory of my
-last cultural festival of high school)");
+last cultural festival of high school.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

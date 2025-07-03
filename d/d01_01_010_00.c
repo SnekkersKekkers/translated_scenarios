@@ -3,7 +3,7 @@ EnvAutoSet(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
 Wait(40,0);
-MsgDisp("主人公","(Ah, ｛風真＊＊｝ is calling)");
+MsgDisp("主人公","(Ah, ｛風真＊＊｝ is calling!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 Wait(20,0);

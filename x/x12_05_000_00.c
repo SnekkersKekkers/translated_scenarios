@@ -27,7 +27,7 @@ a high spot in the contest.");
 but I know that your sound quality 
 is beautiful. You have a wonderful 
 ability.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

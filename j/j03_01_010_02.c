@@ -18,5 +18,5 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(I asked him out on a work day......
 I should remember he's working on
-Tuesdays and Thursdays)");
+Tuesdays and Thursdays.)");
 MsgClose();

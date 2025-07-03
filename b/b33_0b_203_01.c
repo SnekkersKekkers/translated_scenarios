@@ -97,7 +97,7 @@ MsgDisp("Honda","We have to go!
 Right?");
 MsgDisp("主人公","(I'm sure ｛本多＊＊｝ will start
 explaining lots of different things to us
-whilst we're sampling the fruit)");
+whilst we're sampling the fruit.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -35,7 +35,7 @@ VoicePlay("B070800000_08_150");
 MsgDisp("Shirahane","That's right.
 Overall, I think I like running.
 At Hane school, running is the best!");
-MsgDisp("主人公","(｛大地＊＊｝ is good at running)");
+MsgDisp("主人公","(｛大地＊＊｝ is good at running.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Ah, it's ｛柊＊＊＊｝.
 Looks like it's his turn to do 
 the greeting enforcement campaign 
-today as well)");
+today as well.)");
 VoicePlay("F100530002_05_000");
 MsgDisp("Hiiragi","Good morning.");
 VoicePlay("F100530002_40_000");

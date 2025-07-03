@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_000");
-    MsgDisp("Honda","｛主人公｝ ,
+    MsgDisp("Honda","｛主人公｝,
 Thanks for going with me for the 
 free time.");
     ChEye(3,4);
@@ -38,7 +38,7 @@ rest!");
     VoicePlay("Q120300000_03_030");
     MsgDisp("Honda","The free activity is over.
 It was sooo fun.");
-    MsgDisp("主人公","Yeah, thanks to you, ｛本多＊＊｝ ,
+    MsgDisp("主人公","Yeah, thanks to you, ｛本多＊＊｝,
 It was very fulfilling.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -66,7 +66,7 @@ There's still hope∈");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_070");
-    MsgDisp("Honda","｛主人公｝ ,
+    MsgDisp("Honda","｛主人公｝,
 You're amazing.
 I'm gonna peek into the kitchen!");
     MsgClose();
@@ -109,7 +109,7 @@ went with you. ......Hmm?");
     MsgDisp("Honda","Daaah, in the way I put it,
 Nagasaki is no longer relevant, I guess?");
     MsgDisp("主人公","Hehe, but it's also true for me that
-anywhere with you, ｛本多＊＊｝ , 
+anywhere with you, ｛本多＊＊｝, 
 becomes fun.");
     ChEye(3,0);
     ChMouth(3,0);

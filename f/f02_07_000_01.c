@@ -58,4 +58,4 @@ MsgDisp("Mikage","The two youngsters in this story are
 great, but this was a story about the 
 king's mercy, right?");
 MsgDisp("主人公","(...We walked home happily
-whilst talking about this story)");
+whilst talking about this story.)");

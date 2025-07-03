@@ -107,7 +107,7 @@ About being called a couple...");
         MsgDisp("Sassa","That's why, let's walk around once more.
 THis time we'll be more convincing.");
         MsgDisp("主人公","(We look like a lovers to the people
-around us... That's somewhat embarrassing)");
+around us... That's somewhat embarrassing.)");
         break ;
         default :
         DbgAssert(1);

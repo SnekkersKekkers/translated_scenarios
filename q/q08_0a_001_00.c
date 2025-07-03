@@ -46,7 +46,7 @@ MsgDisp("Sassa","Yeah, right.");
 MsgDisp("主人公","Yeah! Deal.");
 ChEye(1,0);
 MsgDisp("主人公","(The next free time is going to be fun!
-I can't wait)");
+I can't wait!)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();

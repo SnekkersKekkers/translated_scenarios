@@ -126,7 +126,7 @@ and a bit of a scary person.");
         MsgDisp("Hiiragi","Because, even my sense of taste has
 changed... Even when it's warm, milk is
 delicious.");
-        MsgDisp("主人公","(Yeah , it was fun.
+        MsgDisp("主人公","(Yeah, it was fun.
 From now on too, I hope I can do lots of
 different things with ｛柊＊＊＊｝...)");
         break ;

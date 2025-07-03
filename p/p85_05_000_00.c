@@ -21,7 +21,7 @@ MsgDisp("Hiiragi","Yes, I think so.
 Above all, your smile right
 now is proof of that.");
 MsgDisp("主人公","(Yay, a huge success!
-It was worth giving it my best)");
+It was worth giving it my best.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

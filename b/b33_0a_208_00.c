@@ -121,7 +121,7 @@ MsgDisp("Kazama","Haa, got it.
 Everyone can't go against you.");
 MsgDisp("主人公","(Yay!
 We're all here anyways, so I
-wanna have fun with everyone)");
+wanna have fun with everyone.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

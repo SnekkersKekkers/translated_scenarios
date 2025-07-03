@@ -11,7 +11,7 @@ MsgClose();
 ChOpen(31,254,0,0,0,-1,-1,0,0);
 VoicePlay("P133100000_31_000");
 MsgDisp("Goro","Ara, cow.");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei! You went to the
+MsgDisp("主人公","Ah, Goro-sensei! You went to the
 trouble of coming to the school festival?");
 ChEye(31,0);
 ChMouth(31,3);

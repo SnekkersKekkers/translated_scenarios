@@ -10,7 +10,7 @@ SEWait();
 ChOpen(31,254,0,0,0,-1,-1,0,0);
 VoicePlay("P533100001_31_000");
 MsgDisp("Goro","Game music?");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei!");
+MsgDisp("主人公","Ah, Goro-sensei!");
 ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,2);

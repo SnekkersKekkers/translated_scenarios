@@ -14,7 +14,7 @@ VoicePlay("Q070201000_44_000");
 MsgDisp("School Girl A","Oh wow, the sunset is beautiful!");
 VoicePlay("Q070201000_45_000");
 MsgDisp("School Girl B","Hey, hey, let's take a picture!");
-MsgDisp("主人公","(Guess I'll go take a look too)");
+MsgDisp("主人公","(Guess I'll go take a look too.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -123,7 +123,7 @@ MsgClose();
 ScrFadeOut(0);
 Wait(30,0);
 MsgDisp("主人公","(｛颯砂＊＊｝ ......
-Thank you for the pretty gift)");
+Thank you for the pretty gift.)");
 MsgClose();
 EnvAutoSet(1);
 StlClose();

@@ -101,7 +101,7 @@ Let's go pick our favorite vegetables.");
 SEStop("EV_SE_841",1);
 SEStop("EV_SE_842",2);
 MsgDisp("主人公","(Wow, biology class is like a salad bar!
-Haha, that's a great hook)");
+Haha, that's a great hook.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

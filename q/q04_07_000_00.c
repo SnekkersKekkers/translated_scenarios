@@ -21,7 +21,7 @@ could you look around with me?");
     MsgDisp("Mikage","Oh, good morning.
 What's up?");
     MsgDisp("主人公","Good morning.
-｛御影＊＊｝ , do you already have
+｛御影＊＊｝, do you already have
 plans for today's free time?");
     ChEye(7,0);
     ChMouth(7,3);

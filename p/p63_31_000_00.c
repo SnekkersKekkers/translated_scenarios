@@ -9,7 +9,7 @@ MsgClose();
 ChOpen(31,254,2,2,2,-1,-1,0,0);
 VoicePlay("P633100000_31_000");
 MsgDisp("Goro","Hnn～, fragrant...");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei∋");
+MsgDisp("主人公","Ah, Goro-sensei∋");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,1);

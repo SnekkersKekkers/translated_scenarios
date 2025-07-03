@@ -80,7 +80,7 @@ VoicePlay("G020320200_03_120");
 MsgDisp("Honda","It's just that, right now, seeing you two
 together hurts a little......");
 MsgDisp("主人公","(Hehe, I'm glad I heard ｛本多＊＊｝ 's
-true feelings)");
+true feelings.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

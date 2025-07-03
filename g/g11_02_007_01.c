@@ -16,7 +16,7 @@ ChClose(2);
 MsgDisp("主人公","(That's eight times the amount of practice
 compared to someone doing a single
 event...... ｛颯砂＊＊｝ 's octathlon
-skills are truly amazing)");
+skills are truly amazing.)");
 SEWait();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

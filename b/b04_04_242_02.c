@@ -72,12 +72,12 @@ Ah, he's asleep.");
         VoicePlay("B040424202_04_070");
         MsgDisp("Nanatsumori","...One more bite.
 Aahn....");
-        MsgDisp("主人公","(Looks like he's dreaming)");
+        MsgDisp("主人公","(Looks like he's dreaming.)");
         VoicePlay("B040424202_04_080");
         MsgDisp("Nanatsumori","...Mmm. Tasty.
 Then...I'm up next.
 Alright, open up....");
-        MsgDisp("主人公","(Hehe, he seems happy)");
+        MsgDisp("主人公","(Hehe, he seems happy.)");
         VoicePlay("B040424202_04_090");
         MsgDisp("Nanatsumori","I'm happy...");
         MsgDisp("主人公","Hehe");

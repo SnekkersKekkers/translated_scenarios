@@ -21,7 +21,7 @@ today's free time?");
     VoicePlay("Q040500000_05_010");
     MsgDisp("Hiiragi","Good morning. Why are you in such a hurry?");
     MsgDisp("主人公","Yeah, I wanted to look around with you,
-｛柊＊＊＊｝ , for the free time. 
+｛柊＊＊＊｝, for the free time. 
 How about it?");
     break ;
     case 4:

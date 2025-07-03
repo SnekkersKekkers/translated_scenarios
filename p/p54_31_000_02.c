@@ -24,6 +24,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","(Yay!
-ＧＯＲＯ-sensei praised me)");
+Goro-sensei praised me.)");
 MsgClose();
 ScrFadeOut(0);

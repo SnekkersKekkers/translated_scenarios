@@ -121,7 +121,7 @@ rollercoaster too. Come on, let's go!");
         MsgDisp("Honda","As I thought... I think that's fine for
 now.");
         MsgDisp("主人公","(｛本多＊＊｝, 
-Thank you for challenging yourself)");
+Thank you for challenging yourself.)");
         break ;
         default :
         DbgAssert(1);

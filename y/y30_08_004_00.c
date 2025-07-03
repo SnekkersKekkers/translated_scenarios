@@ -46,7 +46,7 @@ the cultural festival.");
 MsgClear();
 BGOpen("ad841",0);
 MsgDisp("","As I was regretfully slouchin' my
-sholders , my brother whispered in my
+sholders, my brother whispered in my
 ear.");
 VoicePlay("Y300800400_09_000");
 MsgDisp("Kuya","\"Dai-chan, 

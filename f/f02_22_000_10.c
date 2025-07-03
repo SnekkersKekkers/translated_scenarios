@@ -39,6 +39,6 @@ ChEyeOpenLevel(22,0);
 VoicePlay("F022200010_22_030");
 MsgDisp("Hikaru","Hikaru will vote for Mari!");
 MsgDisp("主人公","(A school play huh...
-I need to carefully prepare)");
+I need to carefully prepare.)");
 MsgClose();
 ScrFadeOut(0,0);

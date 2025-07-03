@@ -13,7 +13,7 @@ ChMotion(31,1);
 VoicePlay("P643100004_31_010");
 MsgDisp("Goro","T-the best!
 You're really a treasure trove of talent▼");
-MsgDisp("主人公","(Yay! ＧＯＲＯ is pleased with it, 
+MsgDisp("主人公","(Yay! Goro is pleased with it, 
 I'm glad I gave it my best
 for the last three years!))");
 MsgClose();

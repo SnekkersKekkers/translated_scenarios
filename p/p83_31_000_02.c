@@ -13,7 +13,7 @@ VoicePlay("P833100002_31_000");
 MsgDisp("Goro","Helloー.
 The cultural festival is getting 
 exciting, huh?");
-MsgDisp("主人公","ＧＯＲＯ-sensei!
+MsgDisp("主人公","Goro-sensei!
 You came to see, it huh?");
 ChEye(31,2);
 ChMouth(31,2);

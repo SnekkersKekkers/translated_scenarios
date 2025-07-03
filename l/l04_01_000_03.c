@@ -105,7 +105,7 @@ What should I do......");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_045");
-    MsgDisp("","(flash)");
+    MsgDisp("","(Flash)");
     VoicePlay("L040100003_01_110");
     MsgDisp("Kazama","First, I need a photo.");
     MsgDisp("主人公","Um, make sure you eat it, okay?");

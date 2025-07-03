@@ -10,7 +10,7 @@ ChOpen(31,254,2,0,0,-1,-1,0,0);
 VoicePlay("P743100001_31_000");
 MsgDisp("Goro","Non, non.
 You have to fall lightly.");
-MsgDisp("主人公","Uuugh, ＧＯＲＯ-sensei...
+MsgDisp("主人公","Uuugh, Goro-sensei...
 I didn't practice enough...");
 ChEye(31,4);
 ChMouth(31,4);

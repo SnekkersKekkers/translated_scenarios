@@ -69,7 +69,7 @@ it's just how it is.
 Right?");
 MsgDisp("主人公","(Ugh... it's true we are
 childhood friends but...
-I'm still embarrassed after all)");
+I'm still embarrassed after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

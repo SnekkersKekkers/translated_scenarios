@@ -40,7 +40,7 @@ MsgDisp("主人公","Ehh...∋
 T-thank you, ｛本多＊＊｝.");
 MsgDisp("主人公","(I might have failed but, I'm glad
 I continued with the Handicrafts club
-for the three years until now)");
+for the three years until now.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

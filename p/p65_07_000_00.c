@@ -25,7 +25,7 @@ MsgDisp("Mikage","Thanks to you, I was praised by
 Vice Principal Himuro for the first time.
 Thanks?");
 MsgDisp("主人公","(Yay, a huge success!
-It was worth giving it my all)");
+It was worth giving it my all.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

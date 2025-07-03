@@ -29,7 +29,7 @@ MsgDisp("Hiiragi","I wanted to end this last cultural
 festival with you smiling.
 It's a shame");
 MsgDisp("主人公","(Uugh, a huge fail.
-If ony I had prepared more carefully)");
+If ony I had prepared more carefully.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

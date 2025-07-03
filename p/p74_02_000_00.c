@@ -33,7 +33,7 @@ MsgDisp("Sassa","It's proof of how you mezmerized
 everyone in the audience.
 Hurray!");
 MsgDisp("主人公","(I was praised by ｛颯砂＊＊｝!
-I'm happY! A huge success)");
+I'm happY! A huge success.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

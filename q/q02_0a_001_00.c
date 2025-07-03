@@ -11,9 +11,9 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("Q020A00100_01_000");
-MsgDisp("Kazama","｛主人公｝ , Have you slept well?");
-MsgDisp("主人公","Yeah, absolutely. ｛風真＊＊｝ ,
-｛颯砂＊＊｝ , Are you two going together
+MsgDisp("Kazama","｛主人公｝, Have you slept well?");
+MsgDisp("主人公","Yeah, absolutely. ｛風真＊＊｝,
+｛颯砂＊＊｝, Are you two going together
 for the free time?");
 ChEye(1,2);
 ChMouth(1,3);

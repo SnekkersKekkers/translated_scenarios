@@ -11,7 +11,7 @@ SEWait();
 ChOpen(31,254,2,0,0,-1,-1,0,0);
 VoicePlay("P533100002_31_000");
 MsgDisp("Goro","'Fourth・Heart'......");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei!
+MsgDisp("主人公","Ah, Goro-sensei!
 You cam all this way, huh?");
 ChEye(31,0);
 ChMouth(31,0);

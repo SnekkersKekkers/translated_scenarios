@@ -9,7 +9,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(31,254,2,2,0,-1,-1,0,0);
 VoicePlay("P543100001_31_000");
 MsgDisp("Goro","...I wonder what that was");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei.
+MsgDisp("主人公","Ah, Goro-sensei.
 I apologise, you came all this way too...");
 ChEye(31,0);
 ChMouth(31,0);
@@ -23,7 +23,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","(Ughn, 
-I want ＧＯＲＯ-sensei to hear 
+I want Goro-sensei to hear 
 a perfect performance...)");
 MsgClose();
 ScrFadeOut(0);

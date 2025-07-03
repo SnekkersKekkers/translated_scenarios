@@ -15,7 +15,7 @@ ChEye(5,4);
 VoicePlay("T020C30000_05_010");
 MsgDisp("Hiiragi","Congratulations on graduating.");
 MsgDisp("主人公","Thank you.
-｛柊＊＊＊｝ ,congratulations to you
+｛柊＊＊＊｝,congratulations to you
 too on graduating.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -25,7 +25,7 @@ VoicePlay("T020C30000_05_020");
 MsgDisp("Hiiragi","It's a miracle that I get to 
 graduate together with you.");
 MsgDisp("主人公","Yes.
-｛柊＊＊＊｝ , you worked hard on both
+｛柊＊＊＊｝, you worked hard on both
 your studies and student council
 activities.");
 ChEye(5,0);

@@ -31,7 +31,7 @@ are your efforts from day after day.
 Congratukations on the success!");
 MsgDisp("主人公","Yes, thank you!");
 MsgDisp("主人公","(｛柊＊＊＊｝ praised me!
-I'm truly glad I gave it my best)");
+I'm truly glad I gave it my best.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

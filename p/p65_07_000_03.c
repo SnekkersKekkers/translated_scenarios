@@ -22,7 +22,7 @@ VoicePlay("P650700003_07_020");
 MsgDisp("Mikage","Well, 
 fortunately the herbs themselves are good.
 Good medicine is bitter, right?");
-MsgDisp("主人公","(I should have worked harder)");
+MsgDisp("主人公","(I should have worked harder.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

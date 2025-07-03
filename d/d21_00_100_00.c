@@ -4,7 +4,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(......Ah!
 It's a text message from Goro-sensei.
-It says)");
+It says:)");
 MsgDisp("主人公","(\"It seems like a new spot has
 opened up in a corner of the Forest Park
 Please make sure to write about it♪\")");

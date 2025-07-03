@@ -22,6 +22,6 @@ ScrFadeOut(0);
 BGOpen("sc824",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Oh, there are lots of figurines!
-Let's go into that shop)");
+Let's go into that shop.)");
 MsgClose();
 ScrFadeOut(0);

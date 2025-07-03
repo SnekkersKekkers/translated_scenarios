@@ -35,5 +35,5 @@ MsgDisp("Michiru","But, I like sashimi so
 it's a complicated feeling.");
 MsgDisp("主人公","(It seems like ｛みちる＊｝ doesn't have
 any likes or dislikes when it comes to
-food)");
+food.)");
 BGMStop();

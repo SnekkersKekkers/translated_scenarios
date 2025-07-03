@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(We're moving classrooms next)");
+MsgDisp("主人公","(We're changing classes soon.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -91,7 +91,7 @@ I didn't want to show this kind of
 embarrassing twin synchronicity.");
 MsgDisp("主人公","(Hehe!
 They're alike in their panic-stricken
-nature, they really are twins after all)");
+nature, they really are twins after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

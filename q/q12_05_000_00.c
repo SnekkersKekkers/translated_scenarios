@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     ChEye(5,4);
     VoicePlay("Q120500000_05_000");
     MsgDisp("Hiiragi","It was fun going around with you.");
-    MsgDisp("主人公","Me too. thanks to you, ｛柊＊＊＊｝ ,
+    MsgDisp("主人公","Me too. thanks to you, ｛柊＊＊＊｝,
 I made wonderful memories. Thank you!");
     ChEye(5,0);
     ChMotion(5,4);

@@ -2,7 +2,7 @@ BGOpen("sc501",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Lunch break is almost over...
-The next class is PE)");
+The next class is PE.)");
 VoicePlay("F100240002_02_000");
 MsgDisp("Sassa?","I see.
 I've never paid much attention

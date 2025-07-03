@@ -11,7 +11,7 @@ ChOpen(31,254,5,1,1,-1,-1,0,0);
 VoicePlay("P743100005_31_000");
 MsgDisp("Goro","That \"Bang!\" was brilliant.
 But that's not it, geez.");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei...");
+MsgDisp("主人公","Ah, Goro-sensei...");
 ChEye(31,1);
 ChMouth(31,1);
 ChMotion(31,2);

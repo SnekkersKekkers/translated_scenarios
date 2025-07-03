@@ -48,7 +48,7 @@ Are we leaving already?");
     ChMotion(4,2,1);
     VoicePlay("Q090400000_04_050");
     MsgDisp("Nanatsumori","Mornin..");
-    MsgDisp("主人公","｛七ツ森＊｝ , Good morning!
+    MsgDisp("主人公","｛七ツ森＊｝, Good morning!
 ...... Are you sleepy?");
     ChMotion(4,0,1);
     VoicePlay("Q090400000_04_060");

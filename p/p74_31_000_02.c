@@ -11,7 +11,7 @@ VoicePlay("P743100002_31_000");
 MsgDisp("Goro","Welcome back.
 It was like I was transported
 away on that runway!");
-MsgDisp("主人公","ＧＯＲＯ-sensei, 
+MsgDisp("主人公","Goro-sensei, 
 thank you very much!");
 ChEye(31,0);
 ChMouth(31,0);
@@ -21,7 +21,7 @@ MsgDisp("Goro","Hey you. Why don't you try walking down a
 real runway wearing a dress I designed
 someday?");
 MsgDisp("主人公","(Yay, a huge success!
-I was praised by ＧＯＲＯ-sensei♪)");
+I was praised by Goro-sensei♪)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);

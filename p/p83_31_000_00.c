@@ -10,7 +10,7 @@ SEWait();
 ChOpen(31,254,0,0,0,-1,-1,0,0);
 VoicePlay("P833100000_31_000");
 MsgDisp("Goro","Pardon the intrusion.");
-MsgDisp("主人公","ＧＯＲＯ-sensei∋");
+MsgDisp("主人公","Goro-sensei∋");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);

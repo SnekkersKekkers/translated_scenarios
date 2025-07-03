@@ -27,7 +27,7 @@ students, let me say thank you.");
 into look especially beautiful.
 It is evidence that you have 
 raised them with love.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

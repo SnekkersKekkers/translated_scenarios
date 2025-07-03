@@ -177,7 +177,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q070200000_02_190");
 MsgDisp("Sassa","I'm so simple.");
-MsgDisp("主人公","｛颯砂＊＊｝ , you're not simple as you 
+MsgDisp("主人公","｛颯砂＊＊｝, you're not simple as you 
 think. Aren't you the one who trains
 everyday with a detailed training menu?");
 ChEye(2,0);

@@ -67,7 +67,7 @@ MsgDisp("Nanatsumori","Right.
 DO you want to try it too?
 Guri guri that is.");
 MsgDisp("主人公","(Guriguri... I'll look
-it up next time)");
+it up next time.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -69,7 +69,7 @@ it was pretty cool......");
     MsgDisp("Himuro","......Yeah.
 Rest up for today.");
     MsgDisp("主人公","(I lost, but I'm glad I stayed
-in the judo club)");
+in the judo club.)");
     break ;
     default :
     DbgAssert(1);

@@ -46,7 +46,7 @@ He said he gets nervous around women.");
     VoicePlay("I460600005_06_020");
     MsgDisp("Himuro","An excellent response.");
     MsgDisp("主人公","(I did it!
-｛氷室＊＊｝ praised me)");
+｛氷室＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:

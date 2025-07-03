@@ -78,7 +78,7 @@ he even invited me......)");
     ChOpen(5,254,0,4,4,-1,-1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("Q020500000_05_060");
-    MsgDisp("Hiiragi","｛主人公｝ , Good morning.");
+    MsgDisp("Hiiragi","｛主人公｝, Good morning.");
     MsgDisp("主人公","Ah, good morning!");
     ChEye(5,3);
     ChMouth(5,4);

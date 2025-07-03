@@ -17,7 +17,7 @@ Okay then, see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(I guess it can't be helped......
-I'll visit the shrine alone)");
+I'll visit the shrine alone.)");
     break ;
     case 3:
     break ;

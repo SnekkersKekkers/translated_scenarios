@@ -36,7 +36,7 @@ MsgDisp("Himuro","But you knoe.
 You'll fall in love before you 
 know it right? You won't have time
 to worry about stuff like types.");
-MsgDisp("主人公","(I see... that's a good point)");
+MsgDisp("主人公","(I see... that's a good point.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

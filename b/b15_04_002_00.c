@@ -33,7 +33,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B150400200_04_040");
 MsgDisp("Nanatsumori","Girls are sneaky.
-With just one , \"sorry\" they
+With just one, \"sorry\" they
 can control a girl's heart.");
 ChEye(4,4);
 ChMouth(4,4);

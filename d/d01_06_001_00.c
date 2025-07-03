@@ -167,7 +167,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600100_06_160");
 MsgDisp("Himuro","I wouldn't say hate, it just has issues.");
-MsgDisp("主人公","(｛氷室＊＊｝ hates eggplant......I think)");
+MsgDisp("主人公","(｛氷室＊＊｝ hates eggplant......I think.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

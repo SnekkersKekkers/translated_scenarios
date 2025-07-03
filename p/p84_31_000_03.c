@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("P843100003_31_000");
 MsgDisp("Goro","Haa...that's enough.");
 MsgDisp("主人公","Eh?
-ＧＯＲＯ-sensei, what's the matter?");
+Goro-sensei, what's the matter?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,5);
@@ -31,7 +31,7 @@ Well then, Adieu.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(I made ＧＯＲＯ-sensei worry about me...
+MsgDisp("主人公","(I made Goro-sensei worry about me...
 A huge fail...)");
 MsgClose();
 ScrFadeOut(0);

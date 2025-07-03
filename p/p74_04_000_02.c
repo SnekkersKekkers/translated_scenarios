@@ -29,7 +29,7 @@ ChMouth(4,3);
 VoicePlay("P740400002_04_020");
 MsgDisp("Nanatsumori","Don't try to tempt me any more.");
 MsgDisp("主人公","(Yay, a huge success!
-It was worth giving it my best)");
+It was worth giving it my best.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

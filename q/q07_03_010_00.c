@@ -46,7 +46,7 @@ StlMouth(3,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q070301000_03_010");
-MsgDisp("Honda","｛主人公｝ , sorry for keeping you
+MsgDisp("Honda","｛主人公｝, sorry for keeping you
 waiting.");
 MsgDisp("主人公","No, I'm fine.
 But it really is impressive that so many 

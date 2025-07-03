@@ -36,7 +36,7 @@ MsgDisp("Kazama","If you understand, then it's fine.
 Hey, don't make that face.");
 MsgDisp("主人公","(Haa... Even though it was my last
 cultural festival, I inconvenienced
-｛風真＊＊｝ and everyone... a huge fail)");
+｛風真＊＊｝ and everyone... a huge fail.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

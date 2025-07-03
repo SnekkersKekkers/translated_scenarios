@@ -2,7 +2,7 @@ BGOpen("sc811",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I walked a lot today,
-So let's take a relaxing bath)");
+So let's take a relaxing bath.)");
 VoicePlay("Q070701000_22_000");
 MsgDisp("Hikaru?","Mari, found you!");
 MsgClose();
@@ -47,7 +47,7 @@ ChMotion(21,4);
 VoicePlay("Q070701000_21_020");
 MsgDisp("Michiru","Oh well......
 Marii, we're going too.");
-MsgDisp("主人公","Eeh∋　 ｛みちる＊｝ , you too!");
+MsgDisp("主人公","Eeh∋　 ｛みちる＊｝, you too!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(21,0,0);
@@ -132,7 +132,7 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(I can't believe  ｛御影＊＊｝ popped 
-out......　haah, I was so surprised)");
+out......　haah, I was so surprised.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

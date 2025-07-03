@@ -13,7 +13,7 @@ ChMotion(21,0);
 VoicePlay("Q050D00000_21_000");
 MsgDisp("Michiru","Good morning.
 Have you slept well?");
-MsgDisp("主人公","｛ひかる＊｝ , ｛みちる＊｝ , good morning!
+MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝, good morning!
 Yep, absolutely.");
 ChEye(22,0);
 ChMouth(22,3);
@@ -36,7 +36,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("Q050D00000_21_010");
     MsgDisp("Michiru","Let's make lot of memories together.");
     MsgDisp("主人公","(Together with ｛ひかる＊｝ and
-｛みちる＊｝ , This is gonna be fun!)");
+｛みちる＊｝, This is gonna be fun!)");
     break ;
     case 1:
     ChEye(22,2);

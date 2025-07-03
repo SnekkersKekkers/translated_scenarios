@@ -4,7 +4,7 @@ ChMotion(31,1);
 ScrFadeIn(0);
 VoicePlay("P143100000_31_000");
 MsgDisp("Goro","Haa, haa, haa...");
-MsgDisp("主人公","ＧＯＲＯ-sensei, 
+MsgDisp("主人公","Goro-sensei, 
 are you alright?");
 ChEye(31,1);
 ChMouth(31,1);
@@ -24,7 +24,7 @@ I'll go once again!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(ＧＯＲＯ-sensei seems to like it!
+MsgDisp("主人公","(Goro-sensei seems to like it!
 Yay, a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

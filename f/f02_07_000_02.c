@@ -70,4 +70,4 @@ VoicePlay("F020700002_07_070");
 MsgDisp("Mikage","Don't.
 That curiosity will be fatal.");
 MsgDisp("主人公","(...We walked home happily
-whilst talking about this story)");
+whilst talking about this story.)");

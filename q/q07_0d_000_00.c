@@ -175,7 +175,7 @@ VoicePlay("Q070D00000_22_090");
 MsgDisp("Hikaru","Mhm.
 Looks like your love comes too is you 
 touch it, so let's search together♪");
-MsgDisp("主人公","Huh, ｛みちる＊｝ , ｛ひかる＊｝ ,
+MsgDisp("主人公","Huh, ｛みちる＊｝, ｛ひかる＊｝,
 You two have a crush?");
 ChEye(22,0);
 ChMouth(22,3);

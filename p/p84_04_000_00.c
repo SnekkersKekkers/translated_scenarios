@@ -32,7 +32,7 @@ MsgDisp("Nanatsumori","Let's go out once you reach a stopping
 point? As a reward, I'll treat you to
 takoyaki.");
 MsgDisp("主人公","(Yayー!
-I'm glad my work also went well)");
+I'm glad my work also went well.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

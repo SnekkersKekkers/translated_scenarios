@@ -29,7 +29,7 @@ you too.");
 I wonder if by hearing your sound, 
 the horticulture club's plants will 
 grow well too?");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

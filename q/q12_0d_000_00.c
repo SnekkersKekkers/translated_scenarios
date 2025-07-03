@@ -30,7 +30,7 @@ MsgDisp("Hikaru","We had such a good time on the school
 trip, Let's go on a private trip this
 time! Of course, just the three of us♪");
 MsgDisp("主人公","......Yeah!
-｛みちる＊｝ , ｛ひかる＊｝ ,
+｛みちる＊｝, ｛ひかる＊｝,
 Thank you so much for being with me!");
 ChEye(21,0);
 ChMouth(21,3);

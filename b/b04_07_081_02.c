@@ -103,7 +103,7 @@ you're all only growing bigger...");
         VoicePlay("B040708102_07_100");
         MsgDisp("Mikage","Haa, I can't compete.");
         MsgDisp("主人公","(｛御影＊＊｝ 's growth...?
-I wonder what he's talking about)");
+I wonder what he's talking about?)");
         break ;
         default :
         DbgAssert(1);

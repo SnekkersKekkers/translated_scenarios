@@ -15,7 +15,7 @@ today's free time?");
     break ;
     case 3:
     MsgDisp("主人公","(Where is ｛風真＊＊｝ ......
-Ah, there)");
+Ah, there.)");
     MsgDisp("主人公","｛風真＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");

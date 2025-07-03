@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("P843100002_31_000");
 MsgDisp("Goro","You're truly amazing.");
 MsgDisp("主人公","That's...
-ＧＯＲＯ-sensei was the one who shared
+Goro-sensei was the one who shared
 his portion of takoyaki with me");
 ChEye(31,0);
 ChMouth(31,0);
@@ -25,7 +25,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","(Yay!
-ＧＯＲＯ-sensei seemed perfectly happy!
+Goro-sensei seemed perfectly happy!
 BUt, when he says Ikkaku... 
 does he mean Chairman Amanohashi?)");
 MsgClose();

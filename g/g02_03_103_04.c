@@ -20,7 +20,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020310304_03_020");
-MsgDisp("Honda","Ah, no ,no!
+MsgDisp("Honda","Ah, no, no!
 But there's no one who complains about 
 a present when they recieve it right?");
 ChEye(3,0);

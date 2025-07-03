@@ -17,5 +17,5 @@ that in mind. See you later..");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Wednesday and Friday......
-Okay, I'll be careful)");
+Okay, I'll be careful.)");
 MsgClose();

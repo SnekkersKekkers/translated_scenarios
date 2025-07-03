@@ -72,7 +72,7 @@ waiting at the finish line.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P130100000_01_060");
-    MsgDisp("Kazama","That's right, \"Find Molly!\" , right?");
+    MsgDisp("Kazama","That's right, \"Find Molly!\", right?");
     MsgDisp("主人公","Right, then why don't you also try it out,
 ｛風真＊＊｝? There's freshly-squeezed milk
 at the finish line.");

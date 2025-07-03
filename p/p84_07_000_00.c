@@ -50,7 +50,7 @@ MsgDisp("Mikage","Thanks to you I was praised.
 Thank you.");
 MsgDisp("主人公","(Yay, everyone praised me!
 It seems it was worth giving 
-my best in the preparations)");
+my best in the preparations.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

@@ -28,7 +28,7 @@ council is gradually improving.");
     MsgDisp("Kazama","You have the ability to move people.
 It's thanks to that everyone cooperates
 with student council club activities.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

@@ -34,7 +34,7 @@ MsgDisp("Mikage","Phew...but we grew some nice herbs.
 Just one more step, the final touches.
 Let's all try to think think together?");
 MsgDisp("主人公","(Uugh...
-If only I had prepared more carefully)");
+If only I had prepared more carefully.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

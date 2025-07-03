@@ -28,7 +28,7 @@ that's so coool!");
     MsgDisp("Honda","Your creations have become art.
 Could you teach me how
 to make them too?");
-    MsgDisp("主人公","(Yay! I got praised)");
+    MsgDisp("主人公","(Yay! I got praised!)");
     break ;
     default :
     DbgAssert(1);

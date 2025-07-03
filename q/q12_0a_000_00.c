@@ -54,7 +54,7 @@ ChMotion(1,0,1);
 VoicePlay("Q120A00000_01_040");
 MsgDisp("Kazama","Thanks a lot.");
 MsgDisp("主人公","Yeah, me too......
-｛風真＊＊｝ , ｛颯砂＊＊｝ ,
+｛風真＊＊｝, ｛颯砂＊＊｝,
 Thank you!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -101,7 +101,7 @@ VoicePlay("Q120A00000_01_070");
 MsgDisp("Kazama","Yeah.
 I'm sure he's watching from somewhere.");
 MsgDisp("主人公","(Hehe, it was a really fun school trip,
-Thanks to you two. Thanks)");
+Thanks to you two. Thanks.)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();

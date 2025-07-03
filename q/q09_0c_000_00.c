@@ -5,13 +5,13 @@ ChOpen(5,254,0,0,4,-1,-1,0,1,0,30);
 ChOpen(7,254,0,0,0,-1,-1,0,2,0,30);
 VoiceEVSPlay(5);
 VoicePlay("Q090C00000_05_000");
-MsgDisp("Hiiragi","｛主人公｝ , Good morning.");
+MsgDisp("Hiiragi","｛主人公｝, good morning.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("Q090C00000_07_000");
 MsgDisp("Mikage","Oh, here you are.");
-MsgDisp("主人公","｛柊＊＊＊｝ , ｛御影＊＊｝ ,
+MsgDisp("主人公","｛柊＊＊＊｝, ｛御影＊＊｝,
 Good morning.");
 ChEye(7,0);
 ChMouth(7,0);

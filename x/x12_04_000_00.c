@@ -24,7 +24,7 @@ You're kind of cool. ");
     MsgDisp("Nanatsumori","I'm guessing the solo performance
 I heard just now was you?
 I knew right away. I really like it.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

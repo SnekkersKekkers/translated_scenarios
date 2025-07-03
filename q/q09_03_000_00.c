@@ -35,9 +35,9 @@ We're wasting time, let's get going!");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q090300000_03_030");
-    MsgDisp("Honda","｛主人公｝ , Good morning.
+    MsgDisp("Honda","｛主人公｝, Good morning.
 I was waiting for you.");
-    MsgDisp("主人公","Eh?　｛本多＊＊｝ , how early.");
+    MsgDisp("主人公","Eh?　｛本多＊＊｝, how early.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -60,7 +60,7 @@ free time? We need to use time wisely.");
     VoicePlay("Q090300000_03_060");
     MsgDisp("Honda","｛主人公｝ .
 Good morning!");
-    MsgDisp("主人公","｛本多＊＊｝ , how early.");
+    MsgDisp("主人公","｛本多＊＊｝, how early.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);

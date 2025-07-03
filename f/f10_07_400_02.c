@@ -1,7 +1,7 @@
 ChLayout(1);
 BGOpen("sc310",0);
 SEPlay("EV_SE_788",0.1,0.6);
-MsgDisp("主人公","(Next is biology)");
+MsgDisp("主人公","(Next is biology.)");
 MsgClose();
 ScrFadeOut(0);
 SEStop("EV_SE_788");

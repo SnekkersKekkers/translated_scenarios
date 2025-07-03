@@ -12,7 +12,7 @@ ChOpen(31,254,2,0,0,-1,-1,0,0);
 VoicePlay("P533100000_31_000");
 MsgDisp("Goro","Non, non.
 Yes, please give me a smile.");
-MsgDisp("主人公","Ah, ＧＯＲＯ-sensei!");
+MsgDisp("主人公","Ah, Goro-sensei!");
 ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,3);
@@ -30,7 +30,7 @@ Have a nice time!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Ah...after talking toＧＯＲＯ-sensei, 
+MsgDisp("主人公","(Ah...after talking toGoro-sensei, 
 my nerves have somewhow gone away.
 Alright, let's do our best!)");
 MsgClose();

@@ -30,6 +30,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(｛颯砂＊＊｝, seems like you're completely
-hooked! Yay, it's a great success)");
+hooked! Yay, it's a great success.)");
 MsgClose();
 ScrFadeOut(0,0);

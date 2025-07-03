@@ -39,7 +39,7 @@ that I thought the preparation in
 the end was dissapointing.");
 MsgDisp("主人公","(Hmmm, I should have tried harder 
 researching preparation methods...
-I failed in the end)");
+I failed in the end.)");
 MsgClose();
 BGMStop();
 MsgClose();

@@ -78,7 +78,7 @@ fullest so you won't regret it in the end.");
         ChClose(7);
         MsgDisp("主人公","(Hmmm......
 ｛御影＊＊｝ looks lonely...... I feel a
-bit bad)");
+bit bad.)");
         break ;
         default :
         DbgAssert(0);

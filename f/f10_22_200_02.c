@@ -6,7 +6,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,-1,-1,0,1,0,30);
 ChOpen(31,254,0,0,0,-1,-1,0,2,0,30);
-MsgDisp("主人公","｛ひかる＊｝, ＧＯＲＯ-sensei!");
+MsgDisp("主人公","｛ひかる＊｝, Goro-sensei!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -18,7 +18,7 @@ ChMotion(31,4);
 VoicePlay("F102220002_31_000");
 MsgDisp("Goro","Ah, Mari!
 Hehe!");
-MsgDisp("主人公","Eh, even ＧＯＲＯ-sensei 
+MsgDisp("主人公","Eh, even Goro-sensei 
 is calling me that...");
 ChEye(31,2);
 ChMouth(31,2);
@@ -35,7 +35,7 @@ MsgDisp("Hikaru","Ahaha!
 Oji-sama is still plenty young～
 Right, Mari.");
 MsgDisp("主人公","Definitely.
-How old are you anyways, ＧＯＲＯ-sensei?");
+How old are you anyways, Goro-sensei?");
 ChEye(22,5);
 ChMouth(22,5);
 ChMotion(22,5,1);
@@ -92,7 +92,7 @@ MsgDisp("Hikaru","...Ah!
 Then, I wonder if we'll be like that
 too? Immortal!");
 MsgDisp("主人公","(I think that's impossible but...
-ＧＯＲＯ-sensei doesn't look
+Goro-sensei doesn't look
 like he's aged...)");
 BGMStop();
 MsgClose();

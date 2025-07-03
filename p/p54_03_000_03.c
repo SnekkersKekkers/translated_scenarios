@@ -21,7 +21,7 @@ MsgDisp("Honda","It was an interesting sound.
 Maybe it would have been better 
 if you had controlled the volume more?");
 MsgDisp("主人公","(An amazing sound huh...
-I should have practiced more)");
+I should have practiced more.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

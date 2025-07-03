@@ -21,7 +21,7 @@ VoicePlay("P643100001_31_020");
 MsgDisp("Goro","Come on, go ahead and make it again!");
 MsgDisp("主人公","Y-yes.
 It's inexcusable...!");
-MsgDisp("主人公","(Haaa... I ruined ＧＯＲＯ-sensei's mood.
+MsgDisp("主人公","(Haaa... I ruined Goro-sensei's mood.
 I should have prepared more
 diligently...)");
 MsgClose();

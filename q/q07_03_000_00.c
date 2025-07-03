@@ -61,7 +61,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q070300000_03_050");
-MsgDisp("Honda","｛主人公｝ ,
+MsgDisp("Honda","｛主人公｝,
 Here, look over there?");
 MsgDisp("主人公","Eh?
 Wow, such a big tower.");
@@ -126,7 +126,7 @@ MsgDisp("Honda","I wonder with what dreams the traders
 from the West came to Nagasaki 
 to this distant foreign land......");
 MsgDisp("主人公","I wonder too......
-｛本多＊＊｝ , what's your dream?");
+｛本多＊＊｝, what's your dream?");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);

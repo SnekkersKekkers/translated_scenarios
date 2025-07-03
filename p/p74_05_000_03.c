@@ -30,7 +30,7 @@ how to make the most out of this failure?");
 MsgDisp("主人公","(That's right.
 I have to do some self-reflection...
 I need to participade in 
-club activities more properly)");
+club activities more properly.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

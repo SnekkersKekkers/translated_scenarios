@@ -28,7 +28,7 @@ You're skilled at raising plants.");
 pretty. I wonder if flowers also resemble
 the people who raised them... No, there's
 no deeper meaning to it.");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

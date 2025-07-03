@@ -25,7 +25,7 @@ How impressive.");
     MsgDisp("Hiiragi","One day, I'd like to ask you to
 make some stage costumes for me.
 ...Would you accept?");
-    MsgDisp("主人公","(Yay! I was praised)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);
