@@ -116,7 +116,7 @@ MsgDisp("Honda","For me, the most important is having
 free time with you.
 Come on, let's go!");
 MsgDisp("主人公","Yeah!
-Thanks, ｛本多＊＊｝ .");
+Thanks, ｛本多＊＊｝.");
 MsgClose();
 BGMStop();
 MsgClose();

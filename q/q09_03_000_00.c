@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Good morning,
 Good day!");
     MsgDisp("主人公","Yeah,
-Good morning, ｛本多＊＊｝ .");
+Good morning, ｛本多＊＊｝.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
@@ -58,7 +58,7 @@ free time? We need to use time wisely.");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q090300000_03_060");
-    MsgDisp("Honda","｛主人公｝ .
+    MsgDisp("Honda","｛主人公｝.
 Good morning!");
     MsgDisp("主人公","｛本多＊＊｝, how early.");
     ChEye(3,4);

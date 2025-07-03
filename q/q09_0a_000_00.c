@@ -67,7 +67,7 @@ MsgDisp("Kazama","Who knows?
 Anyways, let's go.");
 MsgDisp("主人公","Yeah!
 Oh, of course. We need to buy a 
-souvenir for ｛氷室＊＊｝ .");
+souvenir for ｛氷室＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

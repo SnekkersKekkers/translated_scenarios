@@ -6,7 +6,7 @@ ChOpen(22,254,0,0,3,-1,-1,0,2,0,30);
 ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("Q050D00000_22_000");
-MsgDisp("Hikaru","Bonjour, Marii♪");
+MsgDisp("Hikaru","Bonjour, Mari♪");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);

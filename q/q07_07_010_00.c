@@ -14,7 +14,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,1);
 VoicePlay("Q070701000_21_000");
-MsgDisp("Michiru","Marii, are you going to take a bath now 
+MsgDisp("Michiru","Mari, are you going to take a bath now 
 too? If so——");
 VoicePlay("Q070701000_42_000");
 MsgDisp("Male Student","Mikagecchi!
@@ -46,7 +46,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Q070701000_21_020");
 MsgDisp("Michiru","Oh well......
-Marii, we're going too.");
+Mari, we're going too.");
 MsgDisp("主人公","Eeh∋　 ｛みちる＊｝, you too!");
 MsgClose();
 ScrFadeOut(0);
@@ -125,7 +125,7 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("Q070701000_21_040");
 MsgDisp("Michiru","That's good, you'll owe Mikage-sensei.
-Right, Marii?");
+Right, Mari?");
 MsgDisp("主人公","Eh?
 Y, yes. We need to hurry!");
 BGMStop();

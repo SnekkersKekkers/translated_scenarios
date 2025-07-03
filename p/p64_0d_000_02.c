@@ -30,7 +30,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P640D00002_22_020");
 MsgDisp("Hikaru","Once the sweets are done, 
-let's share soem with Marii♪");
+let's share some with Mari♪");
 MsgDisp("主人公","(Yay! A huge success!))");
 MsgClose();
 ScrFadeOut(0,0);

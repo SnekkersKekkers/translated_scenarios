@@ -6,7 +6,7 @@ ChOpen(21,254,3,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q110D00000_21_000");
 MsgDisp("Michiru","Sorry to keep you waiting.");
-MsgDisp("主人公","｛みちる＊｝ .
+MsgDisp("主人公","｛みちる＊｝.
 Were you able to buy souvenirs?");
 ChEye(21,0);
 ChMouth(21,3);

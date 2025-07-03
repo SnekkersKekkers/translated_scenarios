@@ -34,7 +34,7 @@ but let's enjoy it to the end.");
 That was fun.");
     MsgDisp("主人公","Yeah.
 It was fun to go around with you,
-｛颯砂＊＊｝ .");
+｛颯砂＊＊｝.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -79,7 +79,7 @@ trip...... It went by so fast, didn't it?");
 together, So I'm very satisfied.");
     MsgDisp("主人公","Hehe.
 I also enjoyed looking with you,
-｛颯砂＊＊｝ .");
+｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -110,7 +110,7 @@ run with you. Don't you think so too?");
     MsgDisp("Sassa","Bike renting is also an option.
 ......would be a good idea, right?");
     MsgDisp("主人公","Hehe, yeah!");
-    MsgDisp("主人公","( ｛颯砂＊＊｝ ......
+    MsgDisp("主人公","( ｛颯砂＊＊｝......
 I hope I can come back sometime.)");
     break ;
     default :

@@ -20,8 +20,7 @@ I'm happy I could look around with
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("Q080700000_07_010");
-    MsgDisp("Mikage","
-That's great to hear.
+    MsgDisp("Mikage","That's great to hear.
 Shall we do another extracurricular 
 lesson-Nagasaki version, the next time?");
     MsgDisp("主人公","Yes, by all means!");

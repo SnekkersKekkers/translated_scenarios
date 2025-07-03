@@ -1,8 +1,7 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(There's only one more subject 
-left for today's lessons...");
+MsgDisp("主人公","(There's only one class left in today’s schedule....");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -12,8 +11,7 @@ ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
 VoicePlay("F100410000_04_000");
 MsgDisp("Nanatsumori","Yo.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Afre you moving classrooms 
-for next class?");
+Are you changing classrooms for next class?");
 ChMotion(4,1,1);
 VoicePlay("F100410000_04_010");
 MsgDisp("Nanatsumori","Yeah.
@@ -26,7 +24,7 @@ Wait(20,1);
 SEPlay("EV_SE_642",0,0.6);
 MsgDisp("","(*Plop*)");
 MsgDisp("主人公","Hm?
-his commuter pass...");
+His bus pass...");
 MsgDisp("主人公","｛七ツ森＊｝!
 Did you drop this just now!");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,0.8);
@@ -44,8 +42,7 @@ ChClose(4,0,30);
 MsgClose();
 VoicePlay("F100410000_04_030");
 MsgDisp("Nanatsumori","I did it again...
-that's no good.");
-MsgDisp("主人公","(I'm glad. But he 
-said \"Again\"...)");
+That's no good.");
+MsgDisp("主人公","(I'm glad. He said \"again\", though...)");
 MsgClose();
 ScrFadeOut(0,0);

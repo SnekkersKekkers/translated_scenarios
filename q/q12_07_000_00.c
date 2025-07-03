@@ -23,7 +23,7 @@ extracurricular lesson.");
 Well, I'll spare you that smile.
 No reports due today.");
     MsgDisp("主人公","Hehe, ok!
-Thank you so much, ｛御影＊＊｝ .");
+Thank you so much, ｛御影＊＊｝.");
     break ;
     case 3:
     VoicePlay("Q120700000_07_020");
@@ -59,7 +59,7 @@ report.");
     ChClose(7);
     MsgDisp("主人公","(Hehe!
 That was so much fun I want to write a 
-report. Thank you, ｛御影＊＊｝ .)");
+report. Thank you, ｛御影＊＊｝.)");
     break ;
     case 4:
     case 5:

@@ -52,7 +52,7 @@ MsgDisp("Honda","In the future, wouldn't it be so fun if we
 could gather all the books we like and
 open a bookstore together?");
 MsgDisp("主人公","A bookstore that only sells books selected
-by ｛本多＊＊｝ ......I bet it would be
+by ｛本多＊＊｝......I bet it would be
 really popular.");
 ChEye(3,0);
 ChMouth(3,0);

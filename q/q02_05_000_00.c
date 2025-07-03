@@ -86,7 +86,7 @@ he even invited me......)");
     VoicePlay("Q020500000_05_070");
     MsgDisp("Hiiragi","I never knew school trips are so fun.");
     MsgDisp("主人公","Hehe,
-I'm happy for you, ｛柊＊＊＊｝ .");
+I'm happy for you, ｛柊＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,3);
     Wait(20,1);

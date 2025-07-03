@@ -8,7 +8,7 @@ switch (ChPrmGet(7,6)){
     case 3:
     VoicePlay("Q020700000_42_000");
     MsgDisp("Male Student","Sorry, Mr. Mikage.
-we have other plans...");
+We have other plans...");
     VoicePlay("Q020700000_44_000");
     MsgDisp("School Girl","Us too, we're really sorry......");
     VoicePlay("Q020700000_07_000");
@@ -33,8 +33,8 @@ Did something happen?");
     ChMotion(7,1);
     VoicePlay("Q020700000_07_020");
     MsgDisp("Mikage","Yeah. I was thinking of doing an
-'Extracurricular Lesson: Nagasaki
-Chapter!', but I guess nobody's up for it.");
+\"Extracurricular Lesson: Nagasaki
+Chapter!\", but I guess nobody's up for it.");
     MsgDisp("主人公","Extracurricular Lesson: Nagasaki Chapter?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -130,7 +130,7 @@ participant, the event will go ahead.");
         VoicePlay("Q020700000_07_130");
         VoiceEVSPlay(7);
         MsgDisp("Mikage","Okay, roll call!
-｛主人公｝ .");
+｛主人公｝.");
         MsgDisp("主人公","Um... present?");
         ChEye(7,0);
         ChMouth(7,3);

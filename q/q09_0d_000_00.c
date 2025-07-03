@@ -9,10 +9,10 @@ ChOpen(21,254,0,0,0,-1,-1,0,1);
 SEPlay("EV_SE_544");
 ChOpen(22,254,0,0,3,-1,-1,0,2);
 MsgDisp("主人公","Good morning!
-｛みちる＊｝, ｛ひかる＊｝ .");
+｛みちる＊｝, ｛ひかる＊｝.");
 ChMotion(21,3);
 VoicePlay("Q090D00000_21_000");
-MsgDisp("Michiru","God morning, Marii.
+MsgDisp("Michiru","Good morning, Mari.
 Let's have lots of fun today.");
 ChEye(22,0);
 ChMouth(22,3);

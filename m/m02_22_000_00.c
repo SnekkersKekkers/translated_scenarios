@@ -36,7 +36,7 @@ After all, Mari and Hikaru both
 gotta keep up the pep♪");
 VoicePlay("M022200000_22_070");
 MsgDisp("Hikaru","Then, get lots of sleep tonight.
-Take care, Marii.");
+Take care, Mari.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(I made ｛ひかる＊｝ worry.

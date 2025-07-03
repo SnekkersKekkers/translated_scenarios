@@ -5,7 +5,7 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(｛七ツ森＊｝ is...... Ah, there!)");
-    MsgDisp("主人公","Good morning, ｛七ツ森＊｝ .");
+    MsgDisp("主人公","Good morning, ｛七ツ森＊｝.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
@@ -25,7 +25,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
     VoicePlay("Q090400000_04_020");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝ .
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Good morning!");
     ChEye(4,2);
     ChMouth(4,3);

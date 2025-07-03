@@ -84,7 +84,7 @@ Let's accept it,
 Because he stayed home.");
 MsgDisp("主人公","Yeah.
 I can't wait to give them to 
-｛氷室＊＊｝ .");
+｛氷室＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

@@ -50,7 +50,7 @@ MsgDisp("Mikage","Good for you, Yanosuke. I pretended
 to be leading class, but I was also 
 enjoying myself. Don't tell anyone, ok?");
 MsgDisp("主人公","( ｛柊＊＊＊｝, ｛御影＊＊｝,
-Also thank you ｛氷室＊＊｝ .
+Also thank you ｛氷室＊＊｝.
 It was a very enjoying school trip.)");
 MsgClose();
 ScrFadeOut(0,0);

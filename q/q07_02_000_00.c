@@ -27,7 +27,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("Q070200000_02_020");
 MsgDisp("Sassa","I think we both have that kind of luck.");
-MsgDisp("主人公","Haha, typical of you, ｛颯砂＊＊｝ .");
+MsgDisp("主人公","Haha, typical of you, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

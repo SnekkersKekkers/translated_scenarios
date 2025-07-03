@@ -87,7 +87,7 @@ MsgDisp("Sassa","Yeah, that was the timing, wasn't it?");
 ChEye(1,0);
 SEPlay("EV_SE_837");
 SEWait();
-MsgDisp("主人公","Ah, it's from ｛氷室＊＊｝ .");
+MsgDisp("主人公","Ah, it's from ｛氷室＊＊｝.");
 ChMouth(1,3);
 ChEye(2,3);
 ChMouth(2,3);

@@ -3,7 +3,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(2,30,0,0,3,-1,-1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公"," ｛颯砂＊＊｝ .");
+MsgDisp("主人公"," ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

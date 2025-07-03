@@ -36,7 +36,7 @@ MsgDisp("主人公","No.
 Not at all.");
 MsgDisp("主人公","I can't forget how
 you dressed as a girl the other day
-after school, ｛七ツ森＊｝ ...");
+after school, ｛七ツ森＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("G110400602_04_050");

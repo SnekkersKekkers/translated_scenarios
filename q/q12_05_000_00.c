@@ -34,7 +34,7 @@ compare, But it is the best ever.");
     MsgDisp("Hiiragi","I never knew, 
 school trips are so much fun.");
     MsgDisp("主人公","Of course,
-it's your first time, ｛柊＊＊＊｝ .");
+it's your first time, ｛柊＊＊＊｝.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_040");
@@ -43,7 +43,7 @@ It's absolutely the best school trip
 I've ever had.");
     MsgDisp("主人公","I'm glad.
 I also really enjoyed spending free time
-with you, ｛柊＊＊＊｝ .");
+with you, ｛柊＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q120500000_05_050");

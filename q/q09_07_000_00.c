@@ -35,7 +35,7 @@ Let's go then.");
     case 5:
     VoicePlay("Q090700000_07_040");
     MsgDisp("Mikage","Good morning!");
-    MsgDisp("主人公","Good morning, ｛御影＊＊｝ .");
+    MsgDisp("主人公","Good morning, ｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

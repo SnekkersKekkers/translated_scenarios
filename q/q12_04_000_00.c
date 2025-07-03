@@ -101,9 +101,9 @@ I really appreciate you being with me.");
     ChMotion(4,3,1);
     VoiceEVSPlay(4);
     VoicePlay("Q120400000_04_140");
-    MsgDisp("Nanatsumori","｛主人公｝ ...... thank you.");
+    MsgDisp("Nanatsumori","｛主人公｝...... thank you.");
     MsgDisp("主人公","That's my line.
-Thank you, ｛七ツ森＊｝ .");
+Thank you, ｛七ツ森＊｝.");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,2,1);

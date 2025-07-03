@@ -41,8 +41,8 @@ Well, let's go!");
     ChOpen(5,254,0,0,4,-1,-1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("Q090500000_05_030");
-    MsgDisp("Hiiragi","｛主人公｝ .");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝ .
+    MsgDisp("Hiiragi","｛主人公｝.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Sorry, did I keep you waiting?");
     VoicePlay("Q090500000_05_040");
     MsgDisp("Hiiragi","I waited,

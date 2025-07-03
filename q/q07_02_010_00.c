@@ -97,7 +97,7 @@ VoicePlay("Q070201000_02_090");
 MsgDisp("Sassa","That was poetic good enough for me, 
 wasn't it?");
 MsgDisp("主人公","Hehe, yes.
-Thanks, ｛颯砂＊＊｝ .");
+Thanks, ｛颯砂＊＊｝.");
 StlEye(2,2);
 StlMouth(2,0);
 VoicePlay("Q070201000_07_000");
@@ -122,7 +122,7 @@ BGMStop(2);
 MsgClose();
 ScrFadeOut(0);
 Wait(30,0);
-MsgDisp("主人公","(｛颯砂＊＊｝ ......
+MsgDisp("主人公","(｛颯砂＊＊｝......
 Thank you for the pretty gift.)");
 MsgClose();
 EnvAutoSet(1);

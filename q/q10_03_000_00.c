@@ -42,7 +42,7 @@ VoicePlay("Q100300000_03_040");
 MsgDisp("Honda","Coming together would be impossible, 
 but maybe passing each other on the 
 bridge or something?");
-MsgDisp("主人公","｛本多＊＊｝ ......
+MsgDisp("主人公","｛本多＊＊｝......
 Are you telling romantic stories
 today?");
 ChEye(3,4);

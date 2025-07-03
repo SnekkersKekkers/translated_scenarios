@@ -10,7 +10,7 @@ ChOpen(21,30,7,0,0,-1,-1,0,0);
 VoicePlay("Q212100000_21_000");
 MsgDisp("Michiru","Fufu.
 Are you curious? Mari.");
-MsgDisp("主人公","Ah, ｛みちる＊｝ .
+MsgDisp("主人公","Ah, ｛みちる＊｝.
 It's kind of buzzing, isn't it?
 I wonder what's happening.");
 ChEye(21,0);

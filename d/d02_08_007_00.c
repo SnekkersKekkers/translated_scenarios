@@ -5,7 +5,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Oh......A phone call?　Who's it from?)");
-MsgDisp("主人公","(Eh, ｛大地＊＊｝ ∋)");
+MsgDisp("主人公","(Eh, ｛大地＊＊｝∋)");
 MsgClose();
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
@@ -15,7 +15,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Hello, ｛大地＊＊｝?");
 VoicePlay("D020800700_08_000");
 MsgDisp("Shirahane","I finally gotcha!
-Were ya sleeping?");
+Were ya sleepin'?");
 MsgDisp("主人公","No, I'm awake but......
 What's up?");
 VoicePlay("D020800700_08_010");

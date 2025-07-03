@@ -14,7 +14,7 @@ How about we go around together for
 today's free time?");
     break ;
     case 3:
-    MsgDisp("主人公","(Where is ｛風真＊＊｝ ......
+    MsgDisp("主人公","(Where is ｛風真＊＊｝......
 Ah, there.)");
     MsgDisp("主人公","｛風真＊＊｝!");
     MsgClose();
@@ -33,7 +33,7 @@ today's free time?");
     MsgDisp("主人公","(Where is ｛風真＊＊｝......)");
     VoiceEVSPlay(1);
     VoicePlay("Q040100000_01_020");
-    MsgDisp("Kazama?"," ｛主人公｝ .");
+    MsgDisp("Kazama?"," ｛主人公｝.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,-1,-1,0,0);

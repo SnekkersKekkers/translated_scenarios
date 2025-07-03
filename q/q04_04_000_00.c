@@ -34,7 +34,7 @@ time?");
     ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("Q040400000_04_020");
-    MsgDisp("Nanatsumori","｛主人公｝ .
+    MsgDisp("Nanatsumori","｛主人公｝.
 Mornin'.");
     MsgDisp("主人公","Morning. So I was thinking...");
     ChEye(4,0);

@@ -87,7 +87,7 @@ I had a lot of fun.");
     MsgDisp("Kazama","Yeah.
 It's thanks to you calling out to me.");
     MsgDisp("主人公","Hehe, yeah.
-I'm happy I asked you, ｛風真＊＊｝ .");
+I'm happy I asked you, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,0);
@@ -111,7 +111,7 @@ I'm so happy.");
 School trips are so much fun, aren't they?
 We don't have these kinds in the UK.");
     MsgDisp("主人公","Oh yeah, It's the first time for you,
-｛風真＊＊｝ .");
+｛風真＊＊｝.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

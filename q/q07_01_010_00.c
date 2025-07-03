@@ -4,7 +4,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message.
-It's from ｛風真＊＊｝ ......)");
+It's from ｛風真＊＊｝......)");
 MsgDisp("主人公","(\"After the lights go off, meet me in the
 lobby.\"......Just that? I wonder what
 he's up to......)");
@@ -68,7 +68,7 @@ MsgDisp("Kazama?"," ｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,254,0,0,3,-1,-1,0,0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝ .
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What's wrong?
 It's already dark outside.");
 ChEye(1,4);

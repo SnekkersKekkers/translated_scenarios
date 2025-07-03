@@ -117,7 +117,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q070D00000_22_070");
 MsgDisp("Hikaru","Great idea▼
-Let's go together Marii, let's go!");
+Let's go together Mari, let's go!");
 MsgDisp("主人公","Hehe, well I guess I have to save up.");
 ChEye(21,0);
 ChMouth(21,0);

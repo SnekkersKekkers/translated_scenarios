@@ -12,7 +12,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,2,4,9,-1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("Q110500000_05_000");
-MsgDisp("Hiiragi","｛主人公｝ .
+MsgDisp("Hiiragi","｛主人公｝.
 Excuse me dearly for letting you wait.");
 MsgDisp("主人公","Don't worry.
 I just finished shopping too.");
@@ -58,7 +58,7 @@ VoicePlay("Q110500000_05_060");
 MsgDisp("Hiiragi","Yeah, it's too late if I go back to 
 Habataki City and regret it. With this, 
 I can remember about today when I eat.");
-MsgDisp("主人公","｛柊＊＊＊｝ ......
+MsgDisp("主人公","｛柊＊＊＊｝......
 Thank you, I'll treasure it.");
 ChMotion(5,0,1);
 VoicePlay("Q110500000_05_070");

@@ -24,7 +24,7 @@ It's our last free time.");
     MsgDisp("主人公","(Er,
 ｛風真＊＊｝ is...... Ah, there!)");
     MsgDisp("主人公","Good morning!
-｛風真＊＊｝ .");
+｛風真＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,4,3,-1,-1,0,0);
