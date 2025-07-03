@@ -150,7 +150,7 @@ MsgDisp("Mikage","Okay then, good night.");
 MsgDisp("主人公","Ah, yes...!
 Thank you very much for bringing me home.");
 MsgDisp("主人公","(Nirvana......?
-Oh wait, I still have your jacket!I hope
+Oh wait, I still have your jacket! I hope
 you don't catch a cold, ｛御影＊＊｝...)");
 BGMStop();
 MsgClose();

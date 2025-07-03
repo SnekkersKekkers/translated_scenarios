@@ -7,7 +7,7 @@ write your year, class, and number of
 items taken. FInally press this counter
 machine for the number of items.");
 VoicePlay("P840500002_39_010");
-MsgDisp("Male Student","ＯＫ!I'll press three times.");
+MsgDisp("Male Student","ＯＫ! I'll press three times.");
 SEPlay("EV_SE_757");
 SEWait();
 SEPlay("EV_SE_757");

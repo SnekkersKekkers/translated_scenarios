@@ -60,7 +60,7 @@ gather information by foot.");
         VoicePlay("B040203202_02_050");
         MsgDisp("Sassa","By foot?
 Okay, next time let's go to together
-to Mt.Habataki for information gathering
+to Mt. Habataki for information gathering
 okay?");
         MsgDisp("主人公","Hehe, but isn't that just
 like a normal date?");

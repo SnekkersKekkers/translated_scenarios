@@ -13,7 +13,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D100610000_06_010");
 MsgDisp("Himuro","I have a sleeping habit.");
-MsgDisp("主人公","Eh!Sleep walking?");
+MsgDisp("主人公","Eh! Sleep walking?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

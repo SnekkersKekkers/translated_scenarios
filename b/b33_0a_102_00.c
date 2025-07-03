@@ -17,7 +17,7 @@ MsgDisp("Kazama","I like the aquarium but...
 but what's with us all...
 lined up like this?");
 MsgDisp("主人公","Hehe, everyone looks like they're
-having fun.I think it's good?");
+having fun. I think it's good?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);

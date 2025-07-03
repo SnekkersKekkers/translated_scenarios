@@ -3,7 +3,7 @@ ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("B080500001_05_020");
 MsgDisp("Hiiragi","...You're making a troubled 
-expression.What's the matter?");
+expression. What's the matter?");
 MsgDisp("主人公","Ah, yeah.
 It's alright!");
 ChMouth(5,4);

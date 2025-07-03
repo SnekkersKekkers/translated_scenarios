@@ -193,7 +193,7 @@ goals like this, I just want to say
 a while and become a \"Studying Guy\"
 with me instead?");
     MsgDisp("主人公","(This is a surprise but......I want 
-to support Kuya-san in his goals!I need 
+to support Kuya-san in his goals! I need 
 to prioritize my studies over interviews.)");
     break ;
     case 1:

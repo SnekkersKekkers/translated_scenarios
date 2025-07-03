@@ -120,7 +120,7 @@ VoicePlay("Y300600500_40_040");
 MsgDisp("Male Student","\"But, that was completely wrong.
 You're reliable, and cool!\"");
 VoicePlay("Y300600500_06_030");
-MsgDisp("Himuro","T..thank you.");
+MsgDisp("Himuro","T...Thank you.");
 MsgClear();
 MsgDisp("","After bowing his head, the junior
 held the program as if it was

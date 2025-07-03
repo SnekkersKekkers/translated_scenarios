@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 4:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Huh?Is　｛風真＊＊｝ )");
+    MsgDisp("主人公","(Huh? Is　｛風真＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -45,7 +45,7 @@ Maybe I did something bad......)");
     break ;
     case 5:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Huh?It's　｛風真＊＊｝ )");
+    MsgDisp("主人公","(Huh? It's　｛風真＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

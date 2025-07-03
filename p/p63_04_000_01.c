@@ -60,7 +60,7 @@ Welcome～!");
     VoicePlay("P630400001_04_050");
     MsgDisp("Nanatsumori","Yeah.
 Can you eat vegetables here too this year?");
-    MsgDisp("主人公","Nope. You can drink herb tea though.The
+    MsgDisp("主人公","Nope. You can drink herb tea though. The
 vegetables are sold directly. They're
 vegetables organically grown by the
 horticulture club.");

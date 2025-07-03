@@ -102,7 +102,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30301_04_040");
 MsgDisp("Nanatsumori","Yeah.
-Hm.I can't imitate Dahon's sense 
+Hm. I can't imitate Dahon's sense 
 of fashion in that respect.");
 MsgDisp("主人公","(Hehe! I might be caught off-guard if
 ｛七ツ森＊｝ wore his uniform in the casual

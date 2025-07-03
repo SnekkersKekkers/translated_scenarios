@@ -56,7 +56,7 @@ BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 VoicePlay("D010100600_01_010");
 MsgDisp("Kazama","A champaigne glass designed by
-Mr.Goro Hanatsubaki.");
+Mr. Goro Hanatsubaki.");
 MsgDisp("主人公","(Eh......
 Ehh∋　｛風真＊＊｝ ∋)");
 VoicePlay("D010100600_01_020");

@@ -14,7 +14,7 @@ Merry Christmas!");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("R040300000_03_010");
-    MsgDisp("Honda","Incredible!I've heard this is the private
+    MsgDisp("Honda","Incredible! I've heard this is the private
 mansion of the Habataki chairman.
 It looks like a castle from Europe.");
     break ;

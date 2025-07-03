@@ -65,7 +65,7 @@ dogs is already tough.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040221302_02_050");
-        MsgDisp("Sassa","..But, you know, 
+        MsgDisp("Sassa","...But, you know, 
 the hard work also makes it fun.
 Like running together.");
         MsgDisp("主人公","I see.

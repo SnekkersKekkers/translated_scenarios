@@ -52,7 +52,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("Q070B00200_01_030");
 MsgDisp("Kazama","...... so that's that.
 Did you get it?");
-MsgDisp("主人公","Hehe!Thanks.");
+MsgDisp("主人公","Hehe! Thanks.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMouth(4,3);

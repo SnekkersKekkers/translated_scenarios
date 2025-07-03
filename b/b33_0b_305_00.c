@@ -80,7 +80,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30500_01_030");
 MsgDisp("Kazama","That's fine. Leave it as it is.
-It looks like he's intoxicated anyways.s");
+It looks like he's intoxicated anyways.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);

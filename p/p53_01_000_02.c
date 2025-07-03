@@ -106,7 +106,7 @@ guts too?");
     MsgDisp("Kazama","Come on, do your best.");
     MsgDisp("主人公","Yeah......!");
     MsgDisp("主人公","(Alright, ｛風真＊＊｝ I can't let my
-performance go bad!I will try my best!)");
+performance go bad! I will try my best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

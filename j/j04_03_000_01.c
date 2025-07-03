@@ -8,7 +8,7 @@ switch (ChPrmGet(3,6)){
     break ;
     case 4:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Oh?It's a call from ｛本多＊＊｝ )");
+    MsgDisp("主人公","(Oh? It's a call from ｛本多＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

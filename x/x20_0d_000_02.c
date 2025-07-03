@@ -5,7 +5,7 @@ MsgClose();
 ChClose(21);
 ChClose(22);
 ScrFadeIn(0);
-MsgDisp("主人公","(At last, the Rose !ueen of
+MsgDisp("主人公","(At last, the Rose Queen of
 our era will be decided!)");
 MsgClose();
 ScrFadeOut(0);

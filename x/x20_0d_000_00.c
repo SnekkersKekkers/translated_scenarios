@@ -7,7 +7,7 @@ ChOpen(22,254,0,0,0,-1,-1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("X200D00000_21_000");
 MsgDisp("Michiru","Looks like this year's Rose 
-!ueen has been decided.");
+Queen has been decided.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

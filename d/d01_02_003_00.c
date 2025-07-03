@@ -59,7 +59,7 @@ the sand is good exercise and I get paid
 for part-time work.");
 MsgDisp("主人公","Hehe, everyone ends up happy!");
 SEPlay("EV_SE_769",0,0.9);
-MsgDisp("","(Woof!Woof!)");
+MsgDisp("","(Woof! Woof!)");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);

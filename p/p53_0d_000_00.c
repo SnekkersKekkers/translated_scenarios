@@ -22,7 +22,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P530D00000_22_010");
-MsgDisp("Hikaru","Relax, relax!Don't worry about failure.
+MsgDisp("Hikaru","Relax, relax! Don't worry about failure.
 Okay?");
 ChEye(21,0);
 ChMouth(21,3);

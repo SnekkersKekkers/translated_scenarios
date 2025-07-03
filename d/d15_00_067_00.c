@@ -21,13 +21,13 @@ ChMouth ( 7,3 ) ;
 ChMotion ( 7,4 ) ;
 VoicePlay ( "D150006700_07_000" ) ;
 MsgDisp ( "御影","What? \"Leave your gut health in the hands
-of Mr.Eggplant!\"......That's funny." ) ;
+of Mr. Eggplant!\"......That's funny." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,1 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150006700_06_020" ) ;
 MsgDisp ( "氷室","The illustration is unpleasant." ) ;
-MsgDisp ( "主人公","That's not very nice to Mr.Eggplant." ) ;
+MsgDisp ( "主人公","That's not very nice to Mr. Eggplant." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,1 ) ;
 ChMotion ( 6,4 ) ;

@@ -87,7 +87,7 @@ StlClose();
 BGOpen("ex270",1);
 ScrFadeIn(0);
 VoicePlay("D120C00100_07_050");
-MsgDisp("Mikage","One, Two, One, Two!z");
+MsgDisp("Mikage","One, Two, One, Two!");
 VoicePlay("D120C00100_05_040");
 MsgDisp("Hiiragi","One, Two, One, Two!");
 VoicePlay("D120C00100_06_020");

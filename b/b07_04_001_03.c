@@ -2,7 +2,7 @@ MsgDisp("主人公","It's been very lively around
 you recently, ｛七ツ森＊｝.");
 VoicePlay("B070400001_04_160");
 MsgDisp("Nanatsumori","Does that include you?");
-MsgDisp("主人公","May..be.");
+MsgDisp("主人公","...Maybe...?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

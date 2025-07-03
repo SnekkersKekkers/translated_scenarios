@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("W012200000_22_030");
-    MsgDisp("Hikaru","Yay!I'll look
+    MsgDisp("Hikaru","Yay! I'll look
 forward to seeing you on Sunday▼");
     MsgDisp("主人公","(This Sunday, huh...
 I wonder who else will come.)");

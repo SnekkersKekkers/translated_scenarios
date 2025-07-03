@@ -30,7 +30,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630201_06_040");
 MsgDisp("Himuro","If you're really friends, you should
-respect each other.If you're truly
+respect each other. If you're truly
 friends, you should respect the other
 person.");
 MsgDisp("Himuro","I'm sorry, but I don't want to impose

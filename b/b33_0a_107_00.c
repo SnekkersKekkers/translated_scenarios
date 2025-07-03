@@ -83,7 +83,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A10700_01_040");
-MsgDisp("Kazama","A joke?About what?");
+MsgDisp("Kazama","A joke? About what?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);

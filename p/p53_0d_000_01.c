@@ -38,7 +38,7 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P530D00001_21_020");
 MsgDisp("Michiru","It will be fine.
-Mari can do it.Right?");
+Mari can do it. Right?");
 MsgDisp("主人公","Thank you......!");
 SEPlay("EV_SE_038");
 SEWait();

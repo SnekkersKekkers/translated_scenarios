@@ -31,7 +31,7 @@ VoicePlay("D120C00000_05_010");
 MsgDisp("Hiiragi","That's correct. But I think it might be
 troublesome if we were to invite him in
 the staff room?");
-MsgDisp("主人公","Yeah......Ah!I think ｛御影＊＊｝ 
+MsgDisp("主人公","Yeah......Ah! I think ｛御影＊＊｝ 
 is actually in the Gardening Club around 
 this time?");
 BGMStop();

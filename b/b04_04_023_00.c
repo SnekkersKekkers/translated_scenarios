@@ -23,7 +23,7 @@ Well, it's definitely pretty.");
     VoicePlay("B040402300_04_020");
     MsgDisp("Nanatsumori","it's not a place to get excited and play.
 Well, you can see some unusual objects
-here.Let's relax and enjoy it.");
+here. Let's relax and enjoy it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

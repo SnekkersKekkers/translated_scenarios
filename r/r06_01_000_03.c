@@ -53,7 +53,7 @@ that I brought!");
     VoicePlay("R060100003_01_050");
     MsgDisp("Kazama","...Speaking of,
 do you believe in fate?");
-    MsgDisp("主人公","Yeah!Well then,
+    MsgDisp("主人公","Yeah! Well then,
 shall we open our gifts?");
     ChEye(1,2);
     ChMouth(1,3);

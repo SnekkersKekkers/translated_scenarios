@@ -29,7 +29,7 @@ ChEye(32,0);
 ChMouth(32,2);
 VoicePlay("P513200002_32_030");
 MsgDisp("Vice Principal Himuro","......Hmm. You look good. ");
-MsgDisp("主人公","Yes!We are going to give our all in this
+MsgDisp("主人公","Yes! We are going to give our all in this
 final school festival.");
 ChEye(32,2);
 ChMouth(32,2);
@@ -41,7 +41,7 @@ VoicePlay("P513200002_32_050");
 MsgDisp("Vice Principal Himuro","Let your『Force Heart』burn completely!");
 VoicePlay("P513200002_38_010");
 MsgDisp("Members","Yes∈");
-MsgDisp("主人公","Yes!I'll do my best.∈");
+MsgDisp("主人公","Yes! I'll do my best.∈");
 MsgClose();
 ScrFadeOut(0);
 ChClose(32,0,0);

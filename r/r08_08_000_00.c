@@ -32,7 +32,7 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("R080800000_08_020");
-MsgDisp("Shirahane","Yeah but... well, who cares?Today
+MsgDisp("Shirahane","Yeah but... well, who cares? Today
 is my last Christmas in high school,
 and I wanted to see you.");
 MsgDisp("主人公","｛大地＊＊｝……");

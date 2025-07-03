@@ -13,7 +13,7 @@ My apologies.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(..It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go home alone.)");
     break ;
     case 3:
