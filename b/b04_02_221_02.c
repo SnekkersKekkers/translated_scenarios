@@ -7,7 +7,7 @@ ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040222102_02_000");
 MsgDisp("Sassa","You like the view from here don't you?");
-MsgSel("Yeah, because Habataki city looks beautiful","It's only natural as a Habataki citizen!","If I can watch with｛颯砂＊＊｝, anywhere is okay▼");
+MsgSel("Yeah, because Habataki City looks beautiful","It's only natural as a Habataki citizen!","If I can watch with｛颯砂＊＊｝, anywhere is okay▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

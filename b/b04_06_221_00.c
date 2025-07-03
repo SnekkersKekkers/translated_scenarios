@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040622100_06_000");
 MsgDisp("Himuro","You can see the whole of
-Habataki city in one glance.");
+Habataki City in one glance.");
 MsgSel("It's a ncie view!","I get tired of looking at it","I feel like Ishikawa Gouemon");
 switch (MsgSelRsltGet()){
     case 0:

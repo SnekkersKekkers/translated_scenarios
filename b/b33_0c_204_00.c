@@ -20,7 +20,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20400_07_000");
 MsgDisp("Mikage","I see. Since both of you grew up in
-Habataki city huh.");
+Habataki City huh.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);

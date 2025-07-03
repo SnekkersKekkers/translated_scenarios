@@ -40,7 +40,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D140D07010_22_020");
-MsgDisp("Hikaru","Habataki city's young master 
+MsgDisp("Hikaru","Habataki City's young master 
 and Princess Mari.
 Sounds wonderful, doesn't it～▼");
 ChEye(21,0);

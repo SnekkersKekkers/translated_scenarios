@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040510101_05_000");
 MsgDisp("Hiiragi","There's plenty of documentation on
-Habataki city.");
+Habataki City.");
 MsgSel("There's even a helmet passed down generations by castle lords","A princess' kimono!","An expensive looking vase");
 switch (MsgSelRsltGet()){
     case 0:

@@ -42,7 +42,7 @@ the spring water gushes out.");
     ChMotion(5,0);
     VoicePlay("B040508201_05_030");
     MsgDisp("Hiiragi","Yes.
-Habataki city is an exceedingly nice place
+Habataki City is an exceedingly nice place
 to live in for fireflies, yes?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

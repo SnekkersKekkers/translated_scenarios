@@ -58,7 +58,7 @@ MsgDisp("","The presence of the theater company
 members who looked in the same
 direction and helped each other
 improve. The support of the people of
-Habataki city.");
+Habataki City.");
 MsgClear();
 MsgDisp("","And her.");
 MsgDisp("","She supported me with everything.

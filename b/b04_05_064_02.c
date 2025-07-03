@@ -8,7 +8,7 @@ VoicePlay("B040506402_05_000");
 MsgDisp("Hiiragi","Our home field.
 The hometown festival.");
 MsgDisp("主人公","Yeah.
-Habataki city is now completely your 
+Habataki City is now completely your 
 home town, isn't it,｛柊＊＊＊｝?");
 ChEye(5,3);
 ChMouth(5,3);
@@ -90,7 +90,7 @@ It's starting now.
 Let's go!");
 MsgDisp("主人公","Y-yeah.");
 MsgDisp("主人公","(｛柊＊＊＊｝, you've been recognized by
-the people of Habataki city. That's good.)");
+the people of Habataki City. That's good.)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

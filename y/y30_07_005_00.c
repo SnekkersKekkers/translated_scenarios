@@ -3,7 +3,7 @@ MsgType(3);
 BGOpen("ad750",0);
 ScrFadeIn(0);
 MsgDisp("","Soon I'll be back in
-the nostalgic Habataki city.
+the nostalgic Habataki City.
 It's been three months
 since you've seen that smile.");
 MsgDisp("","Since you've met, you've 

@@ -54,7 +54,7 @@ in the city next to here,
 StlEye(4,1);
 StlMouth(4,0);
 VoicePlay("R080400000_04_050");
-MsgDisp("Nanatsumori","Yeah. I came to Habataki city to
+MsgDisp("Nanatsumori","Yeah. I came to Habataki City to
 work as a model. That's why I
 went to Habataki High.");
 StlEye(4,0);

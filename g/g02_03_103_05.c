@@ -20,7 +20,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("G020310305_03_020");
 MsgDisp("Honda","I have lots of observation subjects in
-Habataki city. Hey, we talked about this
+Habataki City. Hey, we talked about this
 before, huh?");
 ChEye(3,4);
 ChMouth(3,3);

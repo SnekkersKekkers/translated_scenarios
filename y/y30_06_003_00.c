@@ -15,7 +15,7 @@ by the teacher.");
 MsgDisp("","I was already at my limit.");
 MsgClear();
 MsgDisp("","It had already been three whole days
-since she left Habataki city.");
+since she left Habataki City.");
 MsgDisp("","No matter how tightly scheduled the 
 school trip is, it would be nice to 
 hear from her at least once.");

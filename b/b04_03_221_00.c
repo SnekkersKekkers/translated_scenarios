@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040322100_03_010");
     MsgDisp("Honda","Right right,
-it's the pride of Habataki city!");
+it's the pride of Habataki City!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

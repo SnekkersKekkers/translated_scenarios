@@ -28,7 +28,7 @@ VoicePlay("G110400300_04_020");
 MsgDisp("Nanatsumori","Umm, are you reporting for the 
 Habacha news?");
 MsgDisp("主人公","Yeah. I'm writing about the fun things
-and daily life about Habataki city and
+and daily life about Habataki City and
 turning them into articles.");
 ChEye(4,0);
 ChMouth(4,0);

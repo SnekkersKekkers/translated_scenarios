@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040606202_06_010");
     MsgDisp("Himuro","Yeah, it's totally like that.
-To think this is in Habataki city;
+To think this is in Habataki City;
 I can't believe it.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

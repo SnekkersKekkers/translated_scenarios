@@ -31,7 +31,7 @@ here is also well done.");
     MsgDisp("Honda","I get it! Even in the permanent
 exhibitions you can see appearance changes
 matching the the season, as expected of
-Habataki city!");
+Habataki City!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

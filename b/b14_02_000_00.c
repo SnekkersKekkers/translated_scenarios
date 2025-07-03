@@ -20,7 +20,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200000_02_010");
-MsgDisp("Sassa","I've been in Habataki city for a 
+MsgDisp("Sassa","I've been in Habataki City for a 
 long time, but it seems like
 there are things I still 
 don't know about.");
