@@ -5,54 +5,51 @@ ChEye ( 4,2 ) ;
 ChMouth ( 4,5 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150004601_04_000" ) ;
-MsgDisp ( "七ツ森","ふあ……" ) ;
+MsgDisp ( "七ツ森","Yawnnn......" ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150004601_06_000" ) ;
-MsgDisp ( "氷室","ミノル先輩、
-寝不足ですか？" ) ;
-MsgDisp ( "主人公","すごく眠そうだよ。" ) ;
+MsgDisp ( "氷室","Did you not sleep enough, Minoru-senpai?" ) ;
+MsgDisp ( "主人公","You look really sleepy." ) ;
 ChEye ( 4,2 ) ;
 ChMouth ( 4,0 ) ;
 ChMotion ( 4,1 ) ;
 VoicePlay ( "D150004601_04_010" ) ;
-MsgDisp ( "七ツ森","逆。
-寝すぎた。" ) ;
+MsgDisp ( "七ツ森","Other way around.
+I slept too much." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;
 ChMotion ( 6,3 ) ;
 VoicePlay ( "D150004601_06_010" ) ;
-MsgDisp ( "氷室","ああ、それ分かります。
-寝すぎると眠い。" ) ;
+MsgDisp ( "氷室","Ahh, I get you.
+I also get sleepy if I sleep too much." ) ;
 ChEye ( 4,2 ) ;
 ChMouth ( 4,2 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150004601_04_020" ) ;
-MsgDisp ( "七ツ森","そうそう。
-それに午後の授業、体育だし……" ) ;
-MsgDisp ( "主人公","ふふっ、きっと目が覚めるよ。" ) ;
+MsgDisp ( "七ツ森","Right. Plus there's Gym class this
+afternoon." ) ;
+MsgDisp ( "主人公","Hehe. I'm sure that will wake you up." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,1 ) ;
 VoicePlay ( "D150004601_06_020" ) ;
-MsgDisp ( "氷室","随分テキトーなアドバイスですね。
-僕なら、早く食べ終えて、寝ます。
-少しだけスッキリしますし。" ) ;
+MsgDisp ( "氷室","That's some pretty strange advice. If it
+were me, I'd finish eating and go nap.
+That would feel better." ) ;
 ChEye ( 4,0 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150004601_04_030" ) ;
-MsgDisp ( "七ツ森","……なる。
-意外と学校って、昼寝に適した場所多いよな。" ) ;
+MsgDisp ( "七ツ森","......True. There are a surprising number
+of places to nap at school." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150004601_06_030" ) ;
-MsgDisp ( "氷室","音楽室、視聴覚室、屋上の隅……
-いくらでもあります。" ) ;
-MsgDisp ( "主人公","（もしかして、ふたりとも
-学校でよく昼寝してる？）" ) ;
+MsgDisp ( "氷室","Music room. The AV room. On the rooftop." ) ;
+MsgDisp ( "主人公","(Do they both nap at school a lot?)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

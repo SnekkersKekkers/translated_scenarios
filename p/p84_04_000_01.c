@@ -24,7 +24,7 @@ MsgDisp("Nanatsumori","I was too late.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("P840400001_04_020");
-MsgDisp("Nanatsumori","Come on, get anotehr one quickly.
+MsgDisp("Nanatsumori","Come on, get another one quickly.
 It's already been some time
 since it was requested.");
 MsgDisp("主人公","I see!

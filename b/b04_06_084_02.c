@@ -60,7 +60,7 @@ peaceful and calming to the mind.");
         ChMotion(6,0);
         VoicePlay("B040608402_06_040");
         MsgDisp("Himuro","So you wanted excitement.
-That's teh first time I heard that.");
+That's the first time I heard that.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,4);

@@ -5,58 +5,57 @@ ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,4 ) ;
 VoicePlay ( "D150003700_03_000" ) ;
-MsgDisp ( "本多","今、オレね、
-お茶に興味があんの。" ) ;
-MsgDisp ( "主人公","茶道？" ) ;
+MsgDisp ( "本多","I'm kind of into tea at the moment." ) ;
+MsgDisp ( "主人公","Tea ceremonies?" ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,0 ) ;
 VoicePlay ( "D150003700_03_010" ) ;
-MsgDisp ( "本多","茶道かぁ、そっちもいいよな。
-でも今は、お茶のブレンドにはまってる。" ) ;
-MsgDisp ( "主人公","楽しそうだし、美味しそう。" ) ;
+MsgDisp ( "本多","Tea ceremonies...? Huh. That sounds cool
+too. But I meant tea blends." ) ;
+MsgDisp ( "主人公","That sounds fun and delicious." ) ;
 ChEye ( 3,3 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150003700_03_020" ) ;
-MsgDisp ( "本多","やった、君も興味ありか！
-コジロウ先生は
-お茶の葉栽培も経験あり？" ) ;
+MsgDisp ( "本多","Yay, you're into it too! Do you have any
+experience growing tea leaves,
+Kojiro-sensei?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,1 ) ;
 VoicePlay ( "D150003700_07_000" ) ;
-MsgDisp ( "御影","園芸部のハウスで
-ハーブを育ててるくらいだ。" ) ;
+MsgDisp ( "御影","I actually grow them in the Gardening
+Club's greenhouse." ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,1 ) ;
 VoicePlay ( "D150003700_03_030" ) ;
-MsgDisp ( "本多","ハーブティも奥深い。種類も豊富だし、
-ブレンド次第で効能が変わるのが面白い！" ) ;
+MsgDisp ( "本多","You can go so deep into herbal tea. There
+are so many types and it's interesting to
+see the different effects each blend has." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,2 ) ;
 VoicePlay ( "D150003700_07_010" ) ;
-MsgDisp ( "御影","そうだな。
-俺もハーブティーは気分に合わせて飲むよ。" ) ;
-MsgDisp ( "主人公","御影先生、時々ハーブのいい香りがしますよね。
-女子の間では有名ですよ？" ) ;
+MsgDisp ( "御影","That's true. Which one I drink depends on
+my mood." ) ;
+MsgDisp ( "主人公","Mikage-sensei, you even smell like herbs
+sometimes. The girls really like it." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,0 ) ;
 VoicePlay ( "D150003700_07_020" ) ;
-MsgDisp ( "御影","おう、そうか？
-そりゃ、ハーブの効能の一つだな。" ) ;
+MsgDisp ( "御影","Oh, really?
+That's one benefit of the herbs." ) ;
 ChEye ( 3,5 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,5 ) ;
 VoicePlay ( "D150003700_03_040" ) ;
-MsgDisp ( "本多","え？
-女子の好感度アップの効能も！
-すごいゾ、ハーブ！！" ) ;
-MsgDisp ( "主人公","（ふふっ、｛本多＊＊｝、
-ハーブにはまっちゃいそう）" ) ;
+MsgDisp ( "本多","Eh? It even increases your appeal with
+women! Herbs are really amazing!!" ) ;
+MsgDisp ( "主人公","(Hehe. ｛本多＊＊｝ is getting crazy about
+herbs.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

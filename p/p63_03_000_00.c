@@ -55,7 +55,7 @@ Welcome!");
     ChEyeOpenLevel(3,0);
     VoicePlay("P630300000_03_040");
     MsgDisp("Honda","Haaー,that's a nice smell.
-This feels like anotehr world, huh.");
+This feels like another world, huh.");
     MsgDisp("主人公","Hehe, that's the relaxing effect.
 How about some herbal tea
 and some homemade cookies?");

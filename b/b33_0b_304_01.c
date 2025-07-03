@@ -12,7 +12,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","Pretty.
-The surface of teh wate ris ssparkling!");
+The surface of the water is sparkling!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -31,7 +31,7 @@ VoicePlay("P810500002_05_030");
 MsgDisp("Hiiragi","I may be giving my thanks 
 a little early.");
 MsgDisp("主人公","Hehe, that's right.");
-MsgDisp("主人公","(Whetehr I laugh or I cry, 
+MsgDisp("主人公","(Whether I laugh or I cry, 
 this is my last cultural festival.
 I want to make the best memories...!)");
 MsgClose();

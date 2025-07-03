@@ -5,43 +5,39 @@ ChEye ( 3,0 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,4 ) ;
 VoicePlay ( "D150003501_03_000" ) ;
-MsgDisp ( "本多","オレのクラス、
-４時間目が体育だったんだよね。" ) ;
-MsgDisp ( "主人公","じゃあ、お腹すいたんじゃない？" ) ;
+MsgDisp ( "本多","I had gym fourth period today." ) ;
+MsgDisp ( "主人公","I guess you're pretty hungry, then?" ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,1 ) ;
 VoicePlay ( "D150003501_03_010" ) ;
-MsgDisp ( "本多","うんうん、
-もう、腹の虫がグーだよ。" ) ;
+MsgDisp ( "本多","Yepyep. I'm hungry now." ) ;
 ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150003501_05_000" ) ;
-MsgDisp ( "柊","ふふ。
-ああ、失礼、本多君のお腹の虫を
-想像してしまいました。" ) ;
-MsgDisp ( "主人公","ふふっ、カワイイ。" ) ;
+MsgDisp ( "柊","Haha. Ah, excuse me. I just pictured a
+little bug in Honda's stomach." ) ;
+MsgDisp ( "主人公","Hehe, how cute." ) ;
 ChEye ( 5,4 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,4 ) ;
 VoicePlay ( "D150003501_05_010" ) ;
-MsgDisp ( "柊","ええ。可愛らしいくて元気のいい、
-お腹の虫でしたよ。" ) ;
+MsgDisp ( "柊","Yes. It was a cute and lively bug." ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,2 ) ;
 VoicePlay ( "D150003501_03_020" ) ;
-MsgDisp ( "本多","ヤノくん、面白いな。
-オレ、自分の腹の虫を想像したことなかったな。" ) ;
+MsgDisp ( "本多","Yano-kun. That's interesting. I've never
+imagined a stomach bug." ) ;
 ChEye ( 5,4 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,0 ) ;
 VoicePlay ( "D150003501_05_020" ) ;
-MsgDisp ( "柊","じゃあ、一緒に想像してみましょう。
-はい、あなたも。" ) ;
-MsgDisp ( "主人公","（ふふっ、お腹の虫を想像しちゃう
-｛柊＊＊＊｝も、かわいいな）" ) ;
+MsgDisp ( "柊","Okay. Let's imagine it together then. Yes,
+you too." ) ;
+MsgDisp ( "主人公","(Hehe, I can picture ｛柊＊＊＊｝ 's
+stomach bug too. So cute.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

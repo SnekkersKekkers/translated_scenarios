@@ -82,7 +82,7 @@ from the closest spot.");
     MsgDisp("Mikage","Is the spot next to the
 adorable bride empty?");
     MsgDisp("主人公","Hehe!
-For teh show I walk by myself though?");
+For the show I walk by myself though?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);

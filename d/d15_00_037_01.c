@@ -5,38 +5,37 @@ ChEye ( 3,1 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,1 ) ;
 VoicePlay ( "D150003701_03_000" ) ;
-MsgDisp ( "本多","ふんふん。" ) ;
-MsgDisp ( "主人公","え？
-｛本多＊＊｝どうしたの？" ) ;
+MsgDisp ( "本多","Mmmhm." ) ;
+MsgDisp ( "主人公","Eh?
+｛本多＊＊｝, what's up?" ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,0 ) ;
 VoicePlay ( "D150003701_03_010" ) ;
-MsgDisp ( "本多","どういう料理を食べたいかで、
-その人の今の状態がわかるっていうでしょ？" ) ;
+MsgDisp ( "本多","You can tell a person's state of mind by
+what food they choose to eat, right?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,3 ) ;
 VoicePlay ( "D150003701_07_000" ) ;
-MsgDisp ( "御影","確かに、
-無意識でそういう選択をしていること、
-あるかもな。" ) ;
-MsgDisp ( "主人公","食べてるメニューで
-その人の今が分かるんですね。
-占いみたい。" ) ;
+MsgDisp ( "御影","That's true. Sometimes you unconsciously
+make that decision." ) ;
+MsgDisp ( "主人公","Being able to tell what a person is like
+by what they eat is kind of like fortune
+telling." ) ;
 ChEye ( 3,3 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150003701_03_020" ) ;
-MsgDisp ( "本多","うんうん。
-学食占い、いいね！" ) ;
+MsgDisp ( "本多","Yepyep. School cafetaria fortune telling.
+That sounds cool!" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,5 ) ;
 VoicePlay ( "D150003701_07_010" ) ;
-MsgDisp ( "御影","お、本多、
-また面白いこと見つけたみたいだな。" ) ;
-MsgDisp ( "主人公","（｛本多＊＊｝の学食占い、楽しみだな）" ) ;
+MsgDisp ( "御影","Oh, Honda. You're onto something again." ) ;
+MsgDisp ( "主人公","(I'm looking forward to ｛本多＊＊｝ 's
+cafetaria fortune telling service.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

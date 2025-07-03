@@ -105,7 +105,7 @@ confdence. Thank you. I'm off then.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P730200002_02_100");
-    MsgDisp("Sassa","Yeah, go with teh intention 
+    MsgDisp("Sassa","Yeah, go with the intention 
 of getting a winning run.");
     MsgDisp("主人公","(Hehe, I think I feel better now.
 Alーright, let;s do our best!)");

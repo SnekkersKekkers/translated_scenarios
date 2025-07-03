@@ -5,53 +5,52 @@ ChEye ( 5,4 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,4 ) ;
 VoicePlay ( "D150005600_05_000" ) ;
-MsgDisp ( "柊","あなたはいつも
-美味しそうに召し上がりますね。" ) ;
-MsgDisp ( "主人公","え、そうかな？" ) ;
+MsgDisp ( "柊","You always look like you're enjoying your
+food." ) ;
+MsgDisp ( "主人公","Eh, you think so?" ) ;
 ChEye ( 5,3 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,0 ) ;
 VoicePlay ( "D150005600_05_010" ) ;
-MsgDisp ( "柊","ええ。
-見ていると、お料理がさらに美味しくなる。" ) ;
+MsgDisp ( "柊","Yes. Watching you eat makes the food taste
+even better." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;
 ChMotion ( 6,3 ) ;
 VoicePlay ( "D150005600_06_000" ) ;
-MsgDisp ( "氷室","うん、特殊能力。" ) ;
+MsgDisp ( "氷室","Yeah, it's like a special ability." ) ;
 ChEye ( 5,4 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150005600_05_020" ) ;
-MsgDisp ( "柊","素敵な能力です。" ) ;
-MsgDisp ( "主人公","どういうこと？" ) ;
+MsgDisp ( "柊","That's a great ability to have." ) ;
+MsgDisp ( "主人公","What do you mean by that??" ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150005600_06_010" ) ;
-MsgDisp ( "氷室","無意識に発動しているらしいですよ。" ) ;
+MsgDisp ( "氷室","It seems to happen unconsciously." ) ;
 ChEye ( 5,3 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,1 ) ;
 VoicePlay ( "D150005600_05_030" ) ;
-MsgDisp ( "柊","料理を更に美味しくし、
-僕たちも楽しい気分にさせてしまうって
-ことです。" ) ;
+MsgDisp ( "柊","It makes the food even more delicious and
+makes us happy." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,3 ) ;
 ChMotion ( 6,4 ) ;
 VoicePlay ( "D150005600_06_020" ) ;
-MsgDisp ( "氷室","キラキラって輝いてる感じ。
-食いしん坊オーラとか？" ) ;
-MsgDisp ( "主人公","もう。" ) ;
+MsgDisp ( "氷室","She shines so brightly.
+Maybe it's a gluttonous aura?" ) ;
+MsgDisp ( "主人公","Geez." ) ;
 ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150005600_05_040" ) ;
-MsgDisp ( "柊","はは、いいネーミングです。
-では、あなたのオーラを見ながら食べましょう。" ) ;
-MsgDisp ( "主人公","（ふたりに見つめられたら
-わたしのほうは食べにくいよ……）" ) ;
+MsgDisp ( "柊","Haha. That's a good way to describe it.
+Let's eat while we watch your aura." ) ;
+MsgDisp ( "主人公","(It's hard to eat with these two staring
+at me......)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

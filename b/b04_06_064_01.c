@@ -11,8 +11,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B040606401_06_010");
-MsgDisp("Himuro","I'm goood/
-You'll only lose doing that;");
+MsgDisp("Himuro","I'm good.
+You'll only lose doing that.");
 MsgDisp("主人公","Really?");
 ChEye(6,0);
 ChMouth(6,0);

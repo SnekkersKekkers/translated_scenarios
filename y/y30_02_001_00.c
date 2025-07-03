@@ -68,7 +68,7 @@ friends, and the me who's in track,
 are getting further and further
 apart.");
 MsgDisp("","It was to the point I didn't 
-know who was teh real me.");
+know who was the real me.");
 MsgClear();
 MsgDisp("","Managerー......");
 MsgDisp("","The only one who knew both sides of

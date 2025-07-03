@@ -9,7 +9,7 @@ ChMotion(5,4);
 VoicePlay("B040508201_05_000");
 MsgDisp("Hiiragi","The wind feels nice.
 The trees are swaying.");
-MsgSel("As expected of a power spot.","Shall we walk around the spring?","Teh fireflies live in a nice place huh");
+MsgSel("As expected of a power spot.","Shall we walk around the spring?","The fireflies live in a nice place huh");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

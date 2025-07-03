@@ -5,55 +5,55 @@ ChEye ( 2,4 ) ;
 ChMouth ( 2,4 ) ;
 ChMotion ( 2,3 ) ;
 VoicePlay ( "D150002701_02_000" ) ;
-MsgDisp ( "颯砂","オレ、この後、
-少し走ってこよっかなって思ってます。" ) ;
+MsgDisp ( "颯砂","I'm thinking I might go for a run after
+this." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,1 ) ;
 VoicePlay ( "D150002701_07_000" ) ;
-MsgDisp ( "御影","いいんじゃねぇか。
-颯砂がやりたいようにやれよ。
-でも無理はするなよ。" ) ;
-MsgDisp ( "主人公","……？" ) ;
+MsgDisp ( "御影","That sounds fine. Do what you want, Sassa,
+but don't push yourself too much." ) ;
+MsgDisp ( "主人公","……?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,2 ) ;
 VoicePlay ( "D150002701_07_010" ) ;
-MsgDisp ( "御影","何不思議そうな顔してんだぁ？" ) ;
+MsgDisp ( "御影","What's with that strange look on your
+face?" ) ;
 ChEye ( 2,3 ) ;
 ChMouth ( 2,3 ) ;
 ChMotion ( 2,4 ) ;
 VoicePlay ( "D150002701_02_010" ) ;
-MsgDisp ( "颯砂","ああ、きみ、
-御影先生が陸上部の顧問ってこと忘れてない？" ) ;
-MsgDisp ( "主人公","あっ。" ) ;
+MsgDisp ( "颯砂","Ahh, you've forgotten that Mikage-sensei
+is actually the track and field club's
+adviser, huh?" ) ;
+MsgDisp ( "主人公","Ah." ) ;
 ChEye ( 7,2 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,4 ) ;
 VoicePlay ( "D150002701_07_020" ) ;
-MsgDisp ( "御影","まぁ、忘れられても当然だけどな。" ) ;
+MsgDisp ( "御影","Well, it's only natural to forget that." ) ;
 ChEye ( 2,0 ) ;
 ChMouth ( 2,3 ) ;
 ChMotion ( 2,0 ) ;
 VoicePlay ( "D150002701_02_020" ) ;
-MsgDisp ( "颯砂","オレは助かってますよ。
-食事のこともトレーニングのことも、
-御影先生に話すと自信持たせてくれるし。" ) ;
-MsgDisp ( "主人公","さすが｛御影＊＊｝。" ) ;
+MsgDisp ( "颯砂","It helps me to talk to Mikage-sensei about
+my diet and my training. He gives me
+confidence." ) ;
+MsgDisp ( "主人公","As expected of ｛御影＊＊｝." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,1 ) ;
 VoicePlay ( "D150002701_07_030" ) ;
-MsgDisp ( "御影","調子よすぎだぞ。" ) ;
+MsgDisp ( "御影","You're already in good shape." ) ;
 ChEye ( 2,0 ) ;
 ChMouth ( 2,4 ) ;
 ChMotion ( 2,4 ) ;
 VoicePlay ( "D150002701_02_030" ) ;
-MsgDisp ( "颯砂","でも、なんでかな。
-御影先生のアドバイスって、
-すっと入ってくるんですよね。" ) ;
-MsgDisp ( "主人公","（｛御影＊＊｝は生徒のやる気を
-育てるのが上手なんだな）" ) ;
+MsgDisp ( "颯砂","I wonder why Mikage-sensei's advice always
+helps." ) ;
+MsgDisp ( "主人公","(｛御影＊＊｝ is really good at motivating
+his students.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

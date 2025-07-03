@@ -5,52 +5,53 @@ ChEye ( 2,0 ) ;
 ChMouth ( 2,0 ) ;
 ChMotion ( 2,4 ) ;
 VoicePlay ( "D150002301_02_000" ) ;
-MsgDisp ( "颯砂","行は好き嫌いなく何でも食べるんだな。" ) ;
+MsgDisp ( "颯砂","Iku really eats everything and isn't picky
+at all." ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,1 ) ;
 VoicePlay ( "D150002301_03_000" ) ;
-MsgDisp ( "本多","そだね、糖分の補給は意識しているけど。
-サッくんは、もっといっぱい食べるのかなって
-思ってた。" ) ;
+MsgDisp ( "本多","I guess so. I try to be aware of my sugar
+intake, though. I expected Sakkun to eat a
+lot more." ) ;
 ChEye ( 2,0 ) ;
 ChMouth ( 2,0 ) ;
 ChMotion ( 2,0 ) ;
 VoicePlay ( "D150002301_02_010" ) ;
-MsgDisp ( "颯砂","オレは本気で食べたらきりがないから、
-ほどほどにしてる。
-意外だったのは、きみ。" ) ;
-MsgDisp ( "主人公","え？" ) ;
+MsgDisp ( "颯砂","When I get serious about eating, I'll just
+eat and eat and never stop. So I try to
+eat in moderation. The surprising thing is
+you." ) ;
+MsgDisp ( "主人公","Eh?" ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150002301_03_010" ) ;
-MsgDisp ( "本多","そそ、だって、
-たまに大盛りとかメガ盛りなんて
-頼んでるでしょ。" ) ;
-MsgDisp ( "主人公","えぇと……
-そうだったかな？" ) ;
+MsgDisp ( "本多","True, true. Sometimes you order a large
+or super large portion." ) ;
+MsgDisp ( "主人公","Uhm......
+I guess I do?" ) ;
 ChEye ( 2,3 ) ;
 ChMouth ( 2,3 ) ;
 ChMotion ( 2,3 ) ;
 ChEyeOpenLevel ( 2,0 ) ;
 VoicePlay ( "D150002301_02_020" ) ;
-MsgDisp ( "颯砂","いいじゃん。
-さすがきみだよ。" ) ;
+MsgDisp ( "颯砂","That's fine.
+Sounds just like you." ) ;
 ChEye ( 3,3 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,1 ) ;
 VoicePlay ( "D150002301_03_020" ) ;
-MsgDisp ( "本多","うんうん、生きる源は食。
-だから、君は生命力に満ちているってこと。" ) ;
+MsgDisp ( "本多","Yepyep. Food is the source of life. You
+need to eat well to be full of stamina." ) ;
 ChEye ( 2,4 ) ;
 ChMouth ( 2,3 ) ;
 ChMotion ( 2,1 ) ;
 VoicePlay ( "D150002301_02_030" ) ;
-MsgDisp ( "颯砂","よっし、今度、きみがメガ盛り食べる時は、
-オレもリミッター外して付き合うよ。" ) ;
-MsgDisp ( "主人公","（えっと……
-褒めてもらえてるのかな）" ) ;
+MsgDisp ( "颯砂","Alright. Next time you eat a super large
+meal I'll go no limits and join you." ) ;
+MsgDisp ( "主人公","(Uhm......
+Is that supposed to be a compliment?)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

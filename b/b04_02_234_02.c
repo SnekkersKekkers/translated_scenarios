@@ -68,7 +68,7 @@ You're just simple minded?");
         ChMotion(2,0);
         ChCheek(2,10);
         VoicePlay("B040223402_02_070");
-        MsgDisp("Sassa","But whether it's teh former or latter, 
+        MsgDisp("Sassa","But whether it's the former or latter, 
 I like both versions of you.");
         MsgDisp("主人公","The astronaut me...?");
         ChEye(2,3);

@@ -32,7 +32,7 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110301_01_030");
 MsgDisp("Kazama","Hmm, for me, much of it felt like an
-monochromatic image. Of course, tehre were
+monochromatic image. Of course, there were
 fun times too.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);

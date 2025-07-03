@@ -5,51 +5,51 @@ ChEye ( 4,3 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150001401_04_000" ) ;
-MsgDisp ( "七ツ森","フフッ、あんたって面白い。" ) ;
-MsgDisp ( "主人公","急にどうしたの？" ) ;
+MsgDisp ( "七ツ森","Haha, how interesting." ) ;
+MsgDisp ( "主人公","Did something happen?" ) ;
 ChEye ( 4,3 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,1 ) ;
 VoicePlay ( "D150001401_04_010" ) ;
-MsgDisp ( "七ツ森","ほら、甘いもの食べたり、
-急にスタミナ系いったりさ、
-チョイスが最高。" ) ;
+MsgDisp ( "七ツ森","Look, how you switch between eating sweet
+and savoury at random. Your choices are
+the best." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001401_01_000" ) ;
-MsgDisp ( "風真","ああ、確かに。
-まったく読めない。" ) ;
+MsgDisp ( "風真","Ahh, that's true.
+You can't predict her at all." ) ;
 ChEye ( 4,0 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150001401_04_020" ) ;
-MsgDisp ( "七ツ森","学食の一番の楽しみは、あんたの注文。" ) ;
-MsgDisp ( "主人公","ええ？
-そんな風に見られたら、選びにくいよ……" ) ;
+MsgDisp ( "七ツ森","The best part of the cafetaria is seeing
+what you order." ) ;
+MsgDisp ( "主人公","Ehh? It's hard to choose when you watch me
+like that......" ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,0 ) ;
 VoicePlay ( "D150001401_01_010" ) ;
-MsgDisp ( "風真","七ツ森、余計な事言うなよ。
-俺は自由に選んだのを当てたいんだ。" ) ;
-MsgDisp ( "主人公","当てる……
-ねえ、ふたりで何してるの？" ) ;
+MsgDisp ( "風真","Nanatsumori, don't say anything.
+I want to guess which one she'll get." ) ;
+MsgDisp ( "主人公","Guess what......
+Hey, what are you two talking about?" ) ;
 ChEye ( 4,2 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150001401_04_030" ) ;
-MsgDisp ( "七ツ森","あー、えっと、
-あんたとメニューかぶった方が
-勝ちっていうゲームを……" ) ;
+MsgDisp ( "七ツ森","Ah, uhm, well you see. The one who picks
+the same menu as you wins..." ) ;
 ChEye ( 1,3 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001401_01_020" ) ;
-MsgDisp ( "風真","だから、これからも、
-思うがまま注文してくださーい。" ) ;
-MsgDisp ( "主人公","もう、そんなことされたら
-頼みにくくなっちゃうよ！" ) ;
+MsgDisp ( "風真","So please continue to order at random.
+Anything you wish." ) ;
+MsgDisp ( "主人公","Geez, when you do that it's hard
+to decide!" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

@@ -49,7 +49,7 @@ MsgDisp("","Since I'm not in the middle of work,
 I don't have to worry about getting
 scolded.");
 MsgClear();
-MsgDisp("主人公","\"How about we meet again at teh
+MsgDisp("主人公","\"How about we meet again at the
 Meganebashi bridge?\"");
 MsgDisp("","Our meeting place, Meganebashi. That
 was her idea. I even said I would go

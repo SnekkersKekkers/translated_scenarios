@@ -8,7 +8,7 @@ third year of high school.");
 MsgClear();
 MsgDisp("","I did not start thinking about 
 the time left I had until graduation
-like my otehr classmates were.");
+like my other classmates were.");
 MsgDisp("","Not to mention, until now
 I haven't regretted not interacting 
 with my classmates and juniors.");

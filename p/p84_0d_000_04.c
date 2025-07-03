@@ -34,7 +34,7 @@ this is the result of giving it your best
 at student council these last three years?");
 MsgDisp("主人公","(Yeah, seems like I handled my
 responsiblities with no issues. I'm glad I
-continued with teh student council!)");
+continued with the student council!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

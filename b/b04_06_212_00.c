@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040621200_06_000");
 MsgDisp("Himuro","...That's a strong business spirit.");
-MsgSel("It's supply and demand!","Is that no good?","Let's cotrobute to sales!");
+MsgSel("It's supply and demand!","Is that no good?","Let's contribute to sales!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
