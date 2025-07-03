@@ -90,7 +90,7 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Let's replenish our sugar with
-｛風真＊＊｝ 's candy and get back to
+｛風真＊＊｝'s candy and get back to
 work!)");
     break ;
     case 4:

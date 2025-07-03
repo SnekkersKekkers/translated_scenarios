@@ -92,7 +92,7 @@ given me your strength.");
 feels so happy about this?");
     MsgDisp("主人公","Not at all.
 I'm really happy I was able to support 
-｛颯砂＊＊｝ 's single-minded goal.");
+｛颯砂＊＊｝'s single-minded goal.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

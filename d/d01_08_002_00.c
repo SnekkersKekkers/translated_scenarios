@@ -11,7 +11,7 @@ VoicePlay("D010800200_46_000");
 MsgDisp("Broadcast","All athletes participating in the men's
 400m Octathlon, please come to the
 starting area.");
-MsgDisp("主人公","Ah...... It's ｛颯砂＊＊｝ 's turn to
+MsgDisp("主人公","Ah...... It's ｛颯砂＊＊｝'s turn to
 compete in the Octathalon. Let's go watch!");
 BGMStop();
 MsgClose();

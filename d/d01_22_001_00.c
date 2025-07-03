@@ -8,7 +8,7 @@ MsgDisp("主人公","(Phew......I managed to finish my
 performance. This joint practice session 
 makes me nervous.)");
 MsgDisp("主人公","(Ah......
-Next up it's ｛ひかる＊｝ 's turn.)");
+Next up it's ｛ひかる＊｝'s turn.)");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_22_02");

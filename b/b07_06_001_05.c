@@ -51,7 +51,7 @@ ChCheek(6,10);
 VoicePlay("B070600001_06_380");
 MsgDisp("Himuro","It's nothing.
 I'm just stating facts.");
-MsgDisp("主人公","(｛氷室＊＊｝ 's way of thinking
+MsgDisp("主人公","(｛氷室＊＊｝'s way of thinking
 might've just saved me...)");
 BGMStop();
 MsgClose();

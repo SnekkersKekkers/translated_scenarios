@@ -118,7 +118,7 @@ in the water tank?");
         MsgDisp("Nanatsumori","Pfft...ahaha!
 You really are the best.");
         MsgDisp("主人公","(Ah...
-Just now, didn't ｛七ツ森＊｝ 's 
+Just now, didn't ｛七ツ森＊｝'s 
 face look like he was sparkling
 lots right now?)");
         break ;

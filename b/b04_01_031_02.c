@@ -103,7 +103,7 @@ Like two lovers?");
         ChCheek(1,10);
         SEPlay("EV_SE_GAYA_017",0.01,0.5);
         SEWait();
-        MsgDisp("主人公","(｛風真＊＊｝ 's voice got so loud...)");
+        MsgDisp("主人公","(｛風真＊＊｝'s voice got so loud...)");
         break ;
         default :
         DbgAssert(1);

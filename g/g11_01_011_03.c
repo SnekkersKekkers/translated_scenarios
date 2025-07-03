@@ -35,7 +35,7 @@ VoicePlay("G110101103_01_020");
 MsgDisp("Kazama","The manager asked me this the other day.
 He wants to gain new customers.");
 MsgDisp("主人公","I see, I can understand why he'd want
-｛風真＊＊｝ 's opinion.");
+｛風真＊＊｝'s opinion.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
@@ -64,7 +64,7 @@ ChEyeOpenLevel(1,7);
 VoicePlay("G110101103_01_050");
 MsgDisp("Kazama","If it were my own store,
 I wouldn't have to worry about anything.");
-MsgDisp("主人公","｛風真＊＊｝ 's shop'......
+MsgDisp("主人公","｛風真＊＊｝'s shop'......
 I'm sure it'll be wonderful.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);

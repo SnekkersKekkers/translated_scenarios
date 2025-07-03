@@ -38,7 +38,7 @@ VoicePlay("T020700000_07_040");
 MsgDisp("Mikage","Is that so? Thank you. And lastly, could
 you let me attend my graduation ceremony
 too?");
-MsgDisp("主人公","｛御影＊＊｝ 's graduation ceremony? Are
+MsgDisp("主人公","｛御影＊＊｝'s graduation ceremony? Are
 you resigning as a teacher from Haba
 School?");
 ChEye(7,0);
@@ -109,7 +109,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020700000_07_130");
 MsgDisp("Mikage","On the night of the christmas party, 
 I became sure of my own feelings.");
-MsgDisp("主人公","｛御影＊＊｝ 's......feelings?");
+MsgDisp("主人公","｛御影＊＊｝'s......feelings?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

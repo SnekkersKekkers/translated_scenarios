@@ -7,13 +7,13 @@ Amazing......");
 ChMotion(8,3,1);
 VoicePlay("G020830100_08_000");
 MsgDisp("Shirahane","Haha!
-It's like you, isn't it?");
+It's just like you, isn't it?");
 MsgDisp("主人公","Eh, why?");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("G020830100_08_010");
-MsgDisp("Shirahane","You have alot of friends, don't you?
+MsgDisp("Shirahane","You have alot of friends, don't ya?
 I can tell just by hearing you talk.");
 MsgDisp("主人公","Friends......
 Yeah, I guess I have a lot.");
@@ -30,8 +30,8 @@ ChMouth(8,4);
 ChMotion(8,4,1);
 ChCheek(8,8);
 VoicePlay("G020830100_08_030");
-MsgDisp("Shirahane","That's bad
-What am I saying?");
+MsgDisp("Shirahane","That's bad.
+What am I sayin'?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

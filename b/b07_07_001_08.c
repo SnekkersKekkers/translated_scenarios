@@ -59,7 +59,7 @@ ChMotion(7,4);
 VoicePlay("B070700001_07_680");
 MsgDisp("Mikage","That's right.
 Phew... that was dangerous.");
-MsgDisp("主人公","(｛御影＊＊｝ 's eyes were so pretty,
+MsgDisp("主人公","(｛御影＊＊｝'s eyes were so pretty,
 my heart started to race...)");
 BGMStop();
 MsgClose();

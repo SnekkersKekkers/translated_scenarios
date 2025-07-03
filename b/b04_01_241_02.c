@@ -98,7 +98,7 @@ grant a lot of wishes, right?");
         MsgDisp("Kazama","Really?
 Well, that's good then.");
         MsgDisp("主人公","(I'd like to hear
-｛風真＊＊｝ 's wish one day.)");
+｛風真＊＊｝'s wish one day.)");
         break ;
         default :
         DbgAssert(1);

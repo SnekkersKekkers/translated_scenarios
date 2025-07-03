@@ -62,7 +62,7 @@ MsgClose();
 SEPlay("EV_SE_672");
 ChClose(3);
 SEWait();
-MsgDisp("主人公","(He's off... ｛本多＊＊｝ 's way of
+MsgDisp("主人公","(He's off... ｛本多＊＊｝'s way of
 thinking is amazing...')");
 MsgClose();
 ScrFadeOut(0);

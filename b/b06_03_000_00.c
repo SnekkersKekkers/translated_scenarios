@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     ScrFadeIn(0);
     VoicePlay("B060300000_03_000");
-    MsgDisp("Honda","Invite me again next time∋");
+    MsgDisp("Honda","Invite me again next time.");
     MsgDispSksp(0);
     break ;
     case 3:

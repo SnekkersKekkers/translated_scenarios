@@ -29,7 +29,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,-1);
 SEPlay("EV_SE_712");
-MsgDisp("主人公","(Hey...... were ｛柊＊＊＊｝ 's eyes
+MsgDisp("主人公","(Hey...... were ｛柊＊＊＊｝'s eyes
 always such a pretty colour......)");
 while (1){
     RunEverydaySksp(5,0,1,1,0,0);

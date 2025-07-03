@@ -34,7 +34,7 @@ MsgDisp("Hikaru","When it's a touching documentary,
 watching big sis cry out loud is also
 super funny. And then——");
 MsgDisp("主人公","(When ｛ひかる＊｝ watches TV, 
-she mostly enjoys watching ｛みちる＊｝ 's 
+she mostly enjoys watching ｛みちる＊｝'s 
 reactions huh...')");
 BGMStop();
 MsgClose();

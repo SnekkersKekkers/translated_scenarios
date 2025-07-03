@@ -53,7 +53,7 @@ want a present from me?");
         MsgDisp("Himuro","Then, could you just accept 
 it without complaint?");
         MsgDisp("主人公","Then, I'll buy 
-｛氷室＊＊｝ 's one?
+｛氷室＊＊｝'s one?
 Let's buy each other presents.");
         ChEye(6,0);
         ChMouth(6,2);

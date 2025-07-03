@@ -32,7 +32,7 @@ StlMouth(2,0);
 VoicePlay("D010200300_02_020");
 MsgDisp("Sassa","Oh!　It's you. What's up?");
 MsgDisp("主人公","I came this way because I thought
-I heard ｛颯砂＊＊｝ 's voice.
+I heard ｛颯砂＊＊｝'s voice.
 ......Those dogs are huge.");
 StlEye(2,1);
 StlMouth(2,0);

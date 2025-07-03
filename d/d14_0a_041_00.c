@@ -106,7 +106,7 @@ ChMotion(6,5);
 VoicePlay("D140A04100_06_070");
 MsgDisp("Himuro","Huh?
 What are you talking about?");
-MsgDisp("主人公","｛氷室＊＊｝ 's weird things......?");
+MsgDisp("主人公","｛氷室＊＊｝'s weird things......?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);

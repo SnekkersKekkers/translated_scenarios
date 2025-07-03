@@ -98,7 +98,7 @@ melt that ice wall of his.");
 that he doesn't have to overwork himself
 all the time.");
     StlEye(22,0);
-    MsgDisp("主人公","(｛氷室＊＊｝ 's ice wall...
+    MsgDisp("主人公","(｛氷室＊＊｝'s ice wall...
 Lately I don't get that feeling from him
 anymore... )");
     break ;

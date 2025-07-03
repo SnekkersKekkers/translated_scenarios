@@ -89,7 +89,7 @@ VoicePlay("E010740000_21_050");
 MsgDisp("Michiru","Seems that way. But seeing Mikage-sensei
 go that far makes me even more excited to
 have \"hiyashi chuka\".");
-MsgDisp("主人公","(Is it okay for ｛みちる＊｝ 's to
+MsgDisp("主人公","(Is it okay for ｛みちる＊｝'s to
 get her hopes up like that?)");
 BGMStop();
 MsgClose();

@@ -152,7 +152,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B050600200_06_170");
 MsgDisp("Himuro","Really, so you heard everything......
 Forget it.");
-MsgDisp("主人公","(Did I get to hear ｛氷室＊＊｝ 's
+MsgDisp("主人公","(Did I get to hear ｛氷室＊＊｝'s
 true feelings?)");
 BGMStop();
 ChPrmTblAdd(6,0);

@@ -66,7 +66,7 @@ MsgDisp("Nanatsumori","......Hmph!
 Aren't Michiru and I the same age as you?");
 MsgDisp("主人公","That's true.
 By the way, what were you talking about?
-｛みちる＊｝ 's face was bright red.");
+｛みちる＊｝'s face was bright red.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,4,1);

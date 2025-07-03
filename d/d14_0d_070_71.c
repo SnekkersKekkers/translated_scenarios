@@ -40,7 +40,7 @@ VoicePlay("D140D07071_22_020");
 MsgDisp("Hikaru","Right, right.
 It's like the source of the scent must
 always be nearby～!");
-MsgDisp("主人公","(｛御影＊＊｝ 's scent......
+MsgDisp("主人公","(｛御影＊＊｝'s scent......
 I'm a little curious......)");
 BGMStop();
 MsgClose();

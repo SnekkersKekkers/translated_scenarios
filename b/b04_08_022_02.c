@@ -76,7 +76,7 @@ Just now.");
         VoicePlay("B040802202_08_070");
         MsgDisp("Shirahane","Waa!
 That's enough, don't say it!");
-        MsgDisp("主人公","(｛大地＊＊｝ 's face is all red!)");
+        MsgDisp("主人公","(｛大地＊＊｝'s face is all red!)");
         break ;
         default :
         DbgAssert(1);

@@ -52,7 +52,7 @@ VoicePlay("F100610001_06_050");
 MsgDisp("Himuro","It would be troubling if it wasn't.
 That's something... I'm also
 weirdly conscious of.");
-MsgDisp("主人公","(It is ｛氷室＊＊｝ 's relative after
+MsgDisp("主人公","(It is ｛氷室＊＊｝'s relative after
 all... It's no wonder.)");
 BGMStop();
 MsgClose();

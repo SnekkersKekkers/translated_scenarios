@@ -90,7 +90,7 @@ VoicePlay("G110500400_05_070");
 MsgDisp("Hiiragi","That's a great thing.
 I easily lose track of what's outside.");
 MsgDisp("主人公","Though......
-My paintings and ｛柊＊＊＊｝ 's work
+My paintings and ｛柊＊＊＊｝'s work
 can't just be lumped in as the same?");
 ChEyeOpenLevel(5,0);
 Wait(10,0);

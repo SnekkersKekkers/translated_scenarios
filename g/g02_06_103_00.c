@@ -77,7 +77,7 @@ ChMotion(6,1);
 VoicePlay("G020610300_06_110");
 MsgDisp("Himuro","Why are you responding? It's a monologue.");
 MsgDisp("主人公","(Though I got scolded ...... I feel like I
-heard ｛氷室＊＊｝ 's true feelings.)");
+heard ｛氷室＊＊｝'s true feelings.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

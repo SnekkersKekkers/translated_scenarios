@@ -87,7 +87,7 @@ You're responding with a question∈");
         MsgDisp("Nanatsumori","My reply is the s
 ound I just made.");
         MsgDisp("主人公","(The pretty sound just now is
-｛七ツ森＊｝ 's answer?
+｛七ツ森＊｝'s answer?
 I wonder what it means...)");
         break ;
         default :

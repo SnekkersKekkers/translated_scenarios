@@ -52,7 +52,7 @@ fireflies! Let's go to see them!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(3);
-MsgDisp("主人公","(Just now, ｛本多＊＊｝ 's face
+MsgDisp("主人公","(Just now, ｛本多＊＊｝'s face
 was very serious huh......)");
 BGMStop();
 MsgClose();

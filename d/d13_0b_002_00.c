@@ -100,7 +100,7 @@ VoiceEVSPlay(3);
 MsgDisp("Honda","That's right!
 Let's go, ｛主人公｝.");
 MsgDisp("主人公","...Yeah!");
-MsgDisp("主人公","(I'm curious what ｛風真＊＊｝ 's message
+MsgDisp("主人公","(I'm curious what ｛風真＊＊｝'s message
 said though... I see, there is only a
 little bit of time left where I can be
 with everyone together like this...)");

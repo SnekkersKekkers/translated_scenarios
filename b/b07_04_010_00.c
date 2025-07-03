@@ -76,7 +76,7 @@ MsgDisp("Nanatsumori","All the answers of love and
 romance in my head, I'll tell you
 by the time we graduate,
 so be prepared.");
-MsgDisp("主人公","(｛七ツ森＊｝ 's eyes are serious...)");
+MsgDisp("主人公","(｛七ツ森＊｝'s eyes are serious...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -16,7 +16,7 @@ VoicePlay("P640400000_04_010");
 MsgDisp("Nanatsumori","Delicious.
 Soothing...");
 MsgDisp("主人公","I'm glad.
-To suit ｛七ツ森＊｝ 's tastes more, 
+To suit ｛七ツ森＊｝'s tastes more, 
 I added a little bit of honey.");
 VoicePlay("P640400000_04_020");
 MsgDisp("Nanatsumori","Actually?

@@ -1,4 +1,4 @@
-MsgDisp("主人公","What's ｛風真＊＊｝ 's 
+MsgDisp("主人公","What's ｛風真＊＊｝'s 
 dreams for the future?");
 ChEye(1,0);
 ChMouth(1,2);

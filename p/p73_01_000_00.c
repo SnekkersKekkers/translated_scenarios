@@ -90,7 +90,7 @@ Your work and model is the best.");
 Or is my judgement not 
 beleievable to you?");
     MsgDisp("主人公","No.
-｛風真＊＊｝ 's appraisal is never wrong.");
+｛風真＊＊｝'s appraisal is never wrong.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

@@ -75,7 +75,7 @@ about not growing every year?");
         MsgDisp("Mikage","You guys are growing up so fast
 around me, right? What about
 me in comparison?");
-        MsgDisp("主人公","｛御影＊＊｝ 's growth, huh...?");
+        MsgDisp("主人公","｛御影＊＊｝'s growth, huh...?");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,1);
@@ -102,7 +102,7 @@ you're all only growing bigger...");
         ChMotion(7,2);
         VoicePlay("B040708102_07_100");
         MsgDisp("Mikage","Haa, I can't compete.");
-        MsgDisp("主人公","(｛御影＊＊｝ 's growth...?
+        MsgDisp("主人公","(｛御影＊＊｝'s growth...?
 I wonder what he's talking about?)");
         break ;
         default :

@@ -30,7 +30,7 @@ so I wandered in.");
     MsgDisp("Sassa","Maybe I'm a little
 out of place here?");
     MsgDisp("主人公","No, not at all.
-Ah, ｛風真＊＊｝ 's in the back.");
+Ah, ｛風真＊＊｝'s in the back.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

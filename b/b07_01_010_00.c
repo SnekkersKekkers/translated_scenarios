@@ -67,7 +67,7 @@ ChMotion(1,0);
 VoicePlay("B070101000_01_070");
 MsgDisp("Kazama","...How about it?");
 MsgDisp("主人公","Ummm... before, I just wanted to ask a
-little on ｛風真＊＊｝ 's views on love. I
+little on ｛風真＊＊｝'s views on love. I
 didn't really think about it too
 carefully.");
 ChEye(1,2);

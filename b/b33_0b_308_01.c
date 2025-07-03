@@ -101,7 +101,7 @@ MsgDisp("Nanatsumori","If you say so, sure.
 Let's all go on it as a dfour.");
 MsgDisp("主人公","(Hehe! But I might've 
 wanted to see ｛風真＊＊｝ and
-｛本多＊＊｝ 's couple photo together?')");
+｛本多＊＊｝'s couple photo together?')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
