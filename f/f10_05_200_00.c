@@ -12,7 +12,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,0,4,-1,-1,0,1);
 ChOpen(1,254,1,0,0,-1,-1,0,2);
-MsgDisp("主人公","Ah,｛柊＊＊＊｝ and ｛風真＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝ and ｛風真＊＊｝.
 What are you doing?");
 ChMotion(1,0);
 VoicePlay("F100520000_01_010");

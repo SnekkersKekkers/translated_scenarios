@@ -9,7 +9,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("B110200001_34_000");
 MsgDisp("Guy","Sorry to keep you waiting...");
-MsgDisp("主人公","Eh,｛颯砂＊＊｝...?");
+MsgDisp("主人公","Eh, ｛颯砂＊＊｝...?");
 SEPlay("EV_SE_542",0,0.6);
 MsgClose();
 Wait(50,0);
@@ -26,7 +26,7 @@ VoicePlay("B110200001_02_000");
 MsgDisp("Sassa","Of course not.
 don't just take someone's 
 name as you like.");
-MsgDisp("主人公","Ah,｛颯砂＊＊｝.");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

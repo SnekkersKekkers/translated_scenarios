@@ -29,7 +29,7 @@ MsgDisp("Nanatsumori","Really?
 I thought it would've 
 suited you though.");
 MsgDisp("主人公","I'm happy to hear you
-say that,｛七ツ森＊｝ but...
+say that, ｛七ツ森＊｝ but...
 I think it's too mature for me.");
 ChEye(3,4);
 ChMouth(3,0);

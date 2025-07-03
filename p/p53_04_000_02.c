@@ -17,7 +17,7 @@ it my all these last three years?)");
     ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
     VoicePlay("P530400002_04_000");
     MsgDisp("Nanatsumori","How cool～");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 Did you come to listen?");
     ChMotion(4,1,1);
     VoicePlay("P530400002_04_010");
@@ -54,7 +54,7 @@ it my all these last three years?)");
     VoiceEVSPlay(4);
     VoicePlay("P530400002_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 Did you come to listen?");
     ChEye(4,2);
     ChMouth(4,3);

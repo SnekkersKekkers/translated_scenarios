@@ -25,7 +25,7 @@ ChMotion(21,1);
 VoicePlay("F102120001_21_010");
 MsgDisp("Michiru","Hey!
 You really are a contrararian.");
-MsgDisp("主人公","Hey,｛みちる＊｝,｛氷室＊＊｝!
+MsgDisp("主人公","Hey, ｛みちる＊｝, ｛氷室＊＊｝!
 What are you two talking about?");
 ChEye(21,0);
 ChMouth(21,0);

@@ -43,7 +43,7 @@ delicious but...)");
     VoicePlay("P630700000_07_030");
     MsgDisp("Mikage","How is it, how is it?
 It's desserted huh?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 There were people who
 took a quick peek but....");
     ChEye(7,0);

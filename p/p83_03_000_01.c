@@ -25,7 +25,7 @@ breath huh...)");
     VoicePlay("P830300001_03_000");
     MsgDisp("Honda","｛主人公｝.
 You seem busy, huh?");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Yeah, because I'm managing.");
     ChEye(3,0);
     ChMouth(3,3);

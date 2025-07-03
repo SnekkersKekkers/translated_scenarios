@@ -13,7 +13,7 @@ VoicePlay("F022100006_21_000");
 MsgDisp("Michiru","Yeah, I'm looking forward to it.");
 MsgDisp("主人公","Hmm, that's kinda surprising?
 I thought you weren't that
-into sports,｛みちる＊｝?");
+into sports, ｛みちる＊｝?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);

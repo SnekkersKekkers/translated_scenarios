@@ -44,7 +44,7 @@ something strange.");
 MsgDisp("主人公","No.
 That's because that was the ground
 where you packed three years 
-of hard work into,｛颯砂＊＊｝.");
+of hard work into, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -82,7 +82,7 @@ VoicePlay("B140200100_02_080");
 MsgDisp("Sassa","That's why I want to be
 your strength and your support too.
 Those are my honest feelings.");
-MsgDisp("主人公","Yeah... thank you,｛颯砂＊＊｝.");
+MsgDisp("主人公","Yeah... thank you, ｛颯砂＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

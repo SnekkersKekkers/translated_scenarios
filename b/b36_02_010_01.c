@@ -46,7 +46,7 @@ ChOpen(2,255,2,0,0,-1,-1,0,0);
 VoicePlay("B360201001_02_030");
 MsgDisp("Sassa","Heeh, there's a grown-up feel to it.");
 MsgDisp("主人公","Do you like ths kind 
-of fashion,｛颯砂＊＊｝?");
+of fashion, ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

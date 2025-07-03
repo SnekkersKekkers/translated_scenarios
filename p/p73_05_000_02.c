@@ -18,7 +18,7 @@ make it a success!)");
     VoicePlay("P730500002_05_000");
     MsgDisp("Hiiragi","It's wonderful, yes?
 The wedding dress...");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝!");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500002_05_010");
@@ -74,7 +74,7 @@ make it a success!)");
     ChOpen(5,254,0,4,2,-1,-1,7,0);
     VoicePlay("P730500002_05_060");
     MsgDisp("Hiiragi","...Hu.");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝..");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝..");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

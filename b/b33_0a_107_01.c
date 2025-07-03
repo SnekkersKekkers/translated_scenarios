@@ -60,7 +60,7 @@ ChMotion(2,3);
 VoicePlay("B330A10701_02_010");
 VoiceEVSPlay(2);
 MsgDisp("Sassa","That's right...
-You choose,｛主人公｝.");
+You choose, ｛主人公｝.");
 MsgDisp("主人公","Umm... then 3, the
 treasure house's pinwheel.");
 ChEye(1,0);

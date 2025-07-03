@@ -16,7 +16,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P830D00000_22_000");
 MsgDisp("Hikaru","We came to visit♪");
-MsgDisp("主人公","Ah,｛みちる＊｝,｛ひかる＊｝.
+MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.
 Welcome!");
 ChEye(21,0);
 ChMouth(21,3);

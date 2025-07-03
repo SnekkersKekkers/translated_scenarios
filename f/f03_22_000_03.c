@@ -1,5 +1,5 @@
 MsgDisp("主人公","What kind of sports do you
-like,｛ひかる＊｝?");
+like, ｛ひかる＊｝?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

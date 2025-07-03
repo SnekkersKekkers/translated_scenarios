@@ -12,7 +12,7 @@ ChOpen(1,254,0,0,3,-1,-1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("P540100004_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Ah,｛風真＊＊｝...");
+MsgDisp("主人公","Ah, ｛風真＊＊｝...");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

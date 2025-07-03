@@ -58,7 +58,7 @@ these last three years?)");
     ChOpen(7,254,0,0,0,-1,-1,0,0);
     VoicePlay("P530700002_07_040");
     MsgDisp("Mikage","Oh, that's a nice expression.");
-    MsgDisp("主人公","Ah,｛御影＊＊｝!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

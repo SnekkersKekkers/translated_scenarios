@@ -18,7 +18,7 @@ ChMotion(21,4);
 VoicePlay("P730D00001_21_000");
 MsgDisp("Michiru","Lovely...
 It really suits you.");
-MsgDisp("主人公","｛ひかる＊｝,｛みちる＊｝.
+MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝.
 Did you come to watch the show?");
 ChEye(22,3);
 ChMouth(22,3);

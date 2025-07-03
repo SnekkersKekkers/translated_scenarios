@@ -66,7 +66,7 @@ festival... I have to make it a success!)");
     VoicePlay("P730700002_07_050");
     MsgDisp("Mikage","Oh! Even in such a place, there's a cute
 bride.");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Did you come to support me?");
     ChEye(7,0);
     ChMouth(7,0);

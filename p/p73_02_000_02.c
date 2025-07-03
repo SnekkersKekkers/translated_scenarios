@@ -13,7 +13,7 @@ make it pretty but...)");
     VoicePlay("P730200002_02_000");
     MsgDisp("Sassa?","Uwo...
 seriously...");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -74,7 +74,7 @@ make it pretty but...)");
     ChOpen(2,254,4,0,0,-1,-1,0,0);
     VoicePlay("P730200002_02_060");
     MsgDisp("Sassa","Is that a bride?");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 This year we're doing wedding dresses.");
     ChEye(2,0);
     ChMouth(2,4);

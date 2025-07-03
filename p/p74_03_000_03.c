@@ -13,7 +13,7 @@ VoiceEVSPlay(3);
 VoicePlay("P740300003_03_000");
 MsgDisp("Honda","｛主人公｝,
 You're not injured right?");
-MsgDisp("主人公","Ah,｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
 I'm alright, but I failed.");
 ChEye(3,4);
 ChMouth(3,4);

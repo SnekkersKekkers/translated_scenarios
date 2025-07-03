@@ -87,7 +87,7 @@ that guys yearn for?");
 I didn't say you had to 
 be a full-body bunny.");
         MsgDisp("主人公","Your eyes are kind of
-serious though,｛七ツ森＊｝.");
+serious though, ｛七ツ森＊｝.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,0,1);

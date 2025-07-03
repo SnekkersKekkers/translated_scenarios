@@ -23,7 +23,7 @@ ChOpen(7,254,0,0,0,-1,-1,0,0);
 VoicePlay("P840700005_07_010");
 MsgDisp("Mikage","It seems like it was 
 difficult to the end huh?");
-MsgDisp("主人公","Ah,｛御影＊＊｝...
+MsgDisp("主人公","Ah, ｛御影＊＊｝...
 Our instructions were wrong, 
 so we caused some trouble.");
 ChEye(7,0);

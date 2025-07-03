@@ -28,7 +28,7 @@ Now, if you'll excuse me.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello,｛柊＊＊＊｝?");
+    MsgDisp("主人公","Hello, ｛柊＊＊＊｝?");
     VoicePlay("J030501001_05_020");
     MsgDisp("Hiiragi","Yes, it is Hiiragi.
 Thanks for your message.");
@@ -56,7 +56,7 @@ Well, I'll see you around?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello,｛柊＊＊＊｝?");
+    MsgDisp("主人公","Hello, ｛柊＊＊＊｝?");
     VoicePlay("J030501001_05_060");
     MsgDisp("Hiiragi","Yes, it is Hiiragi.
 I'm sorry I couldn't get to the phone.");

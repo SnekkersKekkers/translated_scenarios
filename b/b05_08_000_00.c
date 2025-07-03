@@ -35,7 +35,7 @@ There they are!");
 MsgClose();
 SEPlay("EV_SE_672");
 ChClose(8,0,30);
-MsgDisp("主人公","Eh,｛大地＊＊｝ ∋");
+MsgDisp("主人公","Eh, ｛大地＊＊｝ ∋");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_08_01");

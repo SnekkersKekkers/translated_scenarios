@@ -116,7 +116,7 @@ MsgDisp("Himuro","Yeah, and then?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);
-MsgDisp("主人公","Wait a second,｛柊＊＊＊｝!
+MsgDisp("主人公","Wait a second, ｛柊＊＊＊｝!
 You can't!");
 ChEye(6,0);
 ChMouth(6,0);

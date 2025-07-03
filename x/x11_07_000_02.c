@@ -23,7 +23,7 @@ I was praised by ｛御影＊＊｝ 1)");
     MsgDisp("Mikage","They say you won all your practice
 matches with an ippon?
 Congrats.");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Thank you very much.");
     ChEye(7,0);
     ChMouth(7,3);

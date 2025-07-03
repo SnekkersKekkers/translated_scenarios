@@ -66,7 +66,7 @@ stuff like swimming, so I can't
 really swim that well.");
 MsgDisp("主人公","I see.
 I think it's okay to just enjoy it 
-how you want then,｛風真＊＊｝.");
+how you want then, ｛風真＊＊｝.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);

@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D130C00001_05_000");
 MsgDisp("Hiiragi","｛主人公｝, over here.");
-MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 ｛氷室＊＊｝ and ｛御影＊＊｝ too.");
 ChEye(7,0);
 ChMouth(7,0);

@@ -1,6 +1,6 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 You had a good time today too.");
 MsgClose();
 SEPlay("EV_SE_628");

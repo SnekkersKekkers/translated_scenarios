@@ -23,7 +23,7 @@ Please just wait a second.");
     ChMotion(4,1,1);
     VoicePlay("P830400001_04_000");
     MsgDisp("Nanatsumori","...Seems difficultー.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Sorry, I'm a bit busy right now...");
     ChEye(4,2);
     ChMouth(4,3);
@@ -51,7 +51,7 @@ Please just wait a second.");
     VoicePlay("P830400001_04_020");
     MsgDisp("Nanatsumori","Good work.
 Now...");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Sorry, I'm a bit busy right now...");
     ChEye(4,2);
     ChMouth(4,3);

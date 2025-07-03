@@ -15,7 +15,7 @@ cookies, but...)");
     ChOpen(1,254,0,0,0,-1,-1,0,0);
     VoicePlay("P630100000_01_000");
     MsgDisp("Kazama","You're working hard, huh.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Welcome!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -46,7 +46,7 @@ cookies, but...)");
     ChMotion(1,1);
     VoicePlay("P630100000_01_030");
     MsgDisp("Kazama","Hmm, a cafe huh?");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Welcome!");
     ChEye(1,0);
     ChMouth(1,3);

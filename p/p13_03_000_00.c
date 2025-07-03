@@ -40,7 +40,7 @@ you get to drink freshly squeezed milk～");
 maze∋ Super interesting∈");
     MsgClose();
     ChOpen(3,254,0,0,0,-1,-1,0,0);
-    MsgDisp("主人公","Ah,｛本多＊＊｝, welcome.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);

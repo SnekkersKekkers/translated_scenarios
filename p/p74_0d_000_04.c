@@ -17,7 +17,7 @@ ChEyeOpenLevel(22,0);
 VoicePlay("P740D00004_22_000");
 MsgDisp("Hikaru","It was the ultimate stage～!
 Hikaru felt like crying!");
-MsgDisp("主人公","｛みちる＊｝,｛ひかる＊｝...
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝...
 Thank you!");
 ChEye(21,4);
 ChMouth(21,3);

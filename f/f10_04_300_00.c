@@ -22,7 +22,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,-1,-1,0,1);
 ChOpen(21,254,0,0,0,-1,-1,0,2);
-MsgDisp("主人公","｛七ツ森＊｝,｛みちる＊｝!
+MsgDisp("主人公","｛七ツ森＊｝, ｛みちる＊｝!
 I also want to hear what 
 you're talking about.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.3,0.5);

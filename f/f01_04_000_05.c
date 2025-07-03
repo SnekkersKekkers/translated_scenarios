@@ -49,7 +49,7 @@ Come on, let's go.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","Oh,｛七ツ森＊｝, wait up!");
+    MsgDisp("主人公","Oh, ｛七ツ森＊｝, wait up!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ScrFadeOut(0,0);

@@ -19,7 +19,7 @@ I like it but...)");
     VoicePlay("P730400001_04_000");
     MsgDisp("Nanatsumori","Ohー.
 Pretty pretty.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Really?");
     ChMotion(4,1,1);
     VoicePlay("P730400001_04_010");
@@ -61,7 +61,7 @@ I like it but...)");
     ChOpen(4,254,0,0,2,-1,-1,0,0,0,60);
     VoicePlay("P730400001_04_040");
     MsgDisp("Nanatsumori","Ah...");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("P730400001_04_050");

@@ -7,7 +7,7 @@ Would you like to go out with me?");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(7,254,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Eh,｛御影＊＊｝......?
+MsgDisp("主人公","Eh, ｛御影＊＊｝......?
 What's wrong?");
 SEPlay("EV_SE_504",0,0.7);
 Wait(30,0);

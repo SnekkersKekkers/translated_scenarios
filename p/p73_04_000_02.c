@@ -19,7 +19,7 @@ make it pretty but...)");
     ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
     VoicePlay("P730400002_04_000");
     MsgDisp("Nanatsumori","As expected that dress is foul playー.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("P730400002_04_010");
@@ -64,7 +64,7 @@ make it pretty but...)");
     ChOpen(4,254,0,3,3,-1,-1,5,0,0,60);
     VoicePlay("P730400002_04_050");
     MsgDisp("Nanatsumori","…………");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 ...what's wrong?");
     ChMouthOpenLevel(4,-1);
     VoicePlay("P730400002_04_060");

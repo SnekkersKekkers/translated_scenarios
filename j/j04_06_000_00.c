@@ -14,7 +14,7 @@ switch (ChPrmGet(6,6)){
     VoiceEVSPlay(6);
     VoicePlay("J040600000_06_000");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Oh,｛氷室＊＊｝.");
+    MsgDisp("主人公","Oh, ｛氷室＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

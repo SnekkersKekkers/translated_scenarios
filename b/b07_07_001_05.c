@@ -8,7 +8,7 @@ MsgDisp("Mikage","What's up?
 Why are you saying weird 
 things all of a sudden?");
 MsgDisp("主人公","It's just that when
-｛御影＊＊｝,｛柊＊＊＊｝ and ｛氷室＊＊｝
+｛御影＊＊｝, ｛柊＊＊＊｝ and ｛氷室＊＊｝
 are together, I get that 
 sort of feeling...");
 ChEye(7,0);

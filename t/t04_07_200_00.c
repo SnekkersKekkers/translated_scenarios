@@ -28,7 +28,7 @@ so thats what you meant.");
 VoicePlay("T040720000_06_010");
 MsgDisp("Himuro","I-I never said I didn't want to do it!");
 MsgDisp("主人公","Hehe!
-Thank you,｛氷室＊＊｝.");
+Thank you, ｛氷室＊＊｝.");
 VoicePlay("T040720000_06_020");
 MsgDisp("Himuro","Huh, so they're forming a united front
 like that. What an unpleasant feeling.");

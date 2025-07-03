@@ -86,7 +86,7 @@ That would be impossible.");
         MsgDisp("Hiiragi","This person is my special someone.
 I apologize for the disturbance.");
         MsgDisp("主人公","(Ehhh∋
-That's embarrassing,｛柊＊＊＊｝...!)");
+That's embarrassing, ｛柊＊＊＊｝...!)");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);

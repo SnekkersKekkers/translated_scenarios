@@ -48,7 +48,7 @@ MsgDisp("Kazama","Well, watch carefully!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1);
-MsgDisp("主人公","Wait a second,｛風真＊＊｝?");
+MsgDisp("主人公","Wait a second, ｛風真＊＊｝?");
 SEWait();
 SEPlay("EV_SE_785");
 Wait(60,0);

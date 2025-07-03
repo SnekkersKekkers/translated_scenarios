@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040603301_06_000");
 MsgDisp("Himuro","Deep sea creatures have such weird shapes
 huh?");
-MsgSel("I think it's a bit scary...","Huh, doesn't it look like you,｛氷室＊＊｝?","Maybe it's due to the water pressure?");
+MsgSel("I think it's a bit scary...","Huh, doesn't it look like you, ｛氷室＊＊｝?","Maybe it's due to the water pressure?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

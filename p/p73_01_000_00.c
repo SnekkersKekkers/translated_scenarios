@@ -16,7 +16,7 @@ it's finally the runway...I'm nervous..)");
     ChOpen(1,254,0,0,0,-1,-1,0,0);
     VoicePlay("P730100000_01_000");
     MsgDisp("Kazama","I came to tease you. ");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Don't tease me.");
     ChEye(1,0);
     ChMouth(1,2);
@@ -59,7 +59,7 @@ it's finally the runway...I'm nervous..)");
     VoicePlay("P730100000_01_040");
     MsgDisp("Kazama?","What's with that scary 
 look on your face?");
-    MsgDisp("主人公","Ah,｛風真＊＊｝...");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

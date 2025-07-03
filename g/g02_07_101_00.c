@@ -44,7 +44,7 @@ VoicePlay("G020710100_07_050");
 MsgDisp("Mikage","No matter what color he sees,
 he'll probably say, \"It's a normal color\",
 or something.");
-MsgDisp("主人公","Hehe,｛御影＊＊｝
+MsgDisp("主人公","Hehe, ｛御影＊＊｝
 you really understand ｛柊＊＊＊｝
 and ｛氷室＊＊｝ well, don't you?");
 ChEye(7,0);

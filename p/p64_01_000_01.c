@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("P640100001_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Ah,｛風真＊＊｝.
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Did you drink the herbal tea?");
 ChEye(1,2);
 ChMouth(1,3);

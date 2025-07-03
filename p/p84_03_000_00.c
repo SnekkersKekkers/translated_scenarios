@@ -4,7 +4,7 @@ ScrFadeIn(0);
 VoicePlay("P840300000_03_000");
 MsgDisp("Honda","I get the feeling that you're
 totally a jack-of-all-trades.");
-MsgDisp("主人公","Ah,｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Are you enjoying the cultural festival?");
 ChEye(3,0);
 ChMouth(3,3);

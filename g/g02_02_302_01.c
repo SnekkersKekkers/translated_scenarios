@@ -69,7 +69,7 @@ MsgDisp("Sassa","Exactly. Always plan ahead,
 that's my motto.");
 MsgDisp("主人公","(He's always thinking about so much
 different things for me...... thank
-you,｛颯砂＊＊｝ )");
+you, ｛颯砂＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

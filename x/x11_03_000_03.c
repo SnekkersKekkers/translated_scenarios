@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("X110300003_03_000");
     MsgDisp("Honda","Good job on the joint practice!
 I heard you decided on a new move?");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Yes, I did my best!");
     ChEye(3,3);
     ChMouth(3,3);

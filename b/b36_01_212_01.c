@@ -81,7 +81,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B360121201_01_090");
 MsgDisp("Kazama","Is this a day where 
 we can't be alone?");
-MsgDisp("主人公","(Hehe,｛風真＊＊｝
+MsgDisp("主人公","(Hehe, ｛風真＊＊｝
 really does like them...)");
 BGMStop();
 MsgClose();

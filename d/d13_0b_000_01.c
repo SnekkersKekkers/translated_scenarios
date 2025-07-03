@@ -71,7 +71,7 @@ ChMotion(3,0,1);
 VoicePlay("D130B00001_03_030");
 VoiceEVSPlay(3);
 MsgDisp("Honda","Eh-... then, I'm going back too.
-See you later,｛主人公｝.");
+See you later, ｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 BGMStop();

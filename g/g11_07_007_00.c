@@ -12,7 +12,7 @@ BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah,｛御影＊＊｝. Do you look after the
+MsgDisp("主人公","Ah, ｛御影＊＊｝. Do you look after the
 plants on your lunch break too?");
 ChEye(7,0);
 ChMouth(7,0);

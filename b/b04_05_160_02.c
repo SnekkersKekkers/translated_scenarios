@@ -69,7 +69,7 @@ to be very happy with it.");
         MsgDisp("Hiiragi","Ah, 
 do you doubt my technique?");
         MsgDisp("主人公","No, If I got to see your happy face when
-you were able to win,｛柊＊＊＊｝, anything
+you were able to win, ｛柊＊＊＊｝, anything
 would be good with me.");
         ChEye(5,3);
         ChMouth(5,2);

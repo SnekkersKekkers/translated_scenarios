@@ -75,7 +75,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 MsgDisp("Mikage","That's right. 
 Who do you think made me cry?");
-MsgDisp("主人公","(Yay,｛御影＊＊｝ praised me! I'm glad I
+MsgDisp("主人公","(Yay, ｛御影＊＊｝ praised me! I'm glad I
 worked hard in the gardening club.)");
 BGMStop();
 MsgClose();

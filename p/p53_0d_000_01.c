@@ -19,7 +19,7 @@ ChMotion(21,3);
 VoicePlay("P530D00001_21_000");
 MsgDisp("Michiru","I heard this year is about Game Music.
 How is it going?");
-MsgDisp("主人公","Ah,｛ひかる＊｝,｛みちる＊｝.
+MsgDisp("主人公","Ah, ｛ひかる＊｝, ｛みちる＊｝.
 Did you come to support us?");
 ChEye(22,3);
 ChMouth(22,3);

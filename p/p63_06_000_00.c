@@ -13,7 +13,7 @@ wonder if everyone will come...?)");
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("P630600000_06_000");
     MsgDisp("Himuro","Is this the horticulture club?");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 You came?");
     ChEye(6,0);
     ChMouth(6,0);

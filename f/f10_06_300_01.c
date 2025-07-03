@@ -11,7 +11,7 @@ VoicePlay("F100630001_22_000");
 MsgDisp("Hikaru?","Ehhh∋
 Himuro-chan wait!");
 MsgDisp("主人公","(Hmm? These voices...)");
-MsgDisp("主人公","｛みちる＊｝,｛ひかる＊｝.
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 Umm, what is it this time?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);

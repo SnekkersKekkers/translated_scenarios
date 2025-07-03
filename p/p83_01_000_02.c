@@ -18,7 +18,7 @@ and talking to yourself.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(1,254,0,0,3,-1,-1,0,0);
-    MsgDisp("主人公","Ah,｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Hey, I'm patrolling the school you know?");
     ChEye(1,2);
     ChMouth(1,2);
@@ -59,7 +59,7 @@ the cultural festival...!");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(1,254,0,0,3,8,-1,0,0);
-    MsgDisp("主人公","Ah,｛風真＊＊｝! I'm not slacking off,
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! I'm not slacking off,
 Right now I'm patrolling around the
 school.");
     ChEye(1,4);

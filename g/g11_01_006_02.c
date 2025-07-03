@@ -27,7 +27,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_000");
 MsgDisp("Kazama","Hey, you've been getting along with Honda
 recently, huh?");
-MsgDisp("主人公","Eh,｛本多＊＊｝......?");
+MsgDisp("主人公","Eh, ｛本多＊＊｝......?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

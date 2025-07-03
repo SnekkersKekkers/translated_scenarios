@@ -10,7 +10,7 @@ ChOpen(1,254,0,4,2,-1,-1,0,0);
 ChMotion(1,3);
 VoicePlay("P840100005_01_000");
 MsgDisp("Kazama","You were just lucky.");
-MsgDisp("主人公","Ah,｛風真＊＊｝...
+MsgDisp("主人公","Ah, ｛風真＊＊｝...
 Yes.");
 ChEye(1,2);
 ChMouth(1,2);

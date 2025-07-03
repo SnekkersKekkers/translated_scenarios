@@ -2,7 +2,7 @@ BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","...Ah!
-｛七ツ森＊｝,｛本多＊＊｝!");
+｛七ツ森＊｝, ｛本多＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -26,7 +26,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChMotion(4,0,1);
 ChClose(4,0,30);
 ChPosition(3,0);
-MsgDisp("主人公","Hey,｛本多＊＊｝.
+MsgDisp("主人公","Hey, ｛本多＊＊｝.
 Can I ask you something?");
 ChSet(3,3);
 VoicePlay("F100440001_03_020");

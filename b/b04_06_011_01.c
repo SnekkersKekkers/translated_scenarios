@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040601101_06_000");
 MsgDisp("Himuro","Are you smoke, 
 or are you an idiot?");
-MsgSel("What does that mean?","You also like it huh,｛氷室＊＊｝?","It's not like that?");
+MsgSel("What does that mean?","You also like it huh, ｛氷室＊＊｝?","It's not like that?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

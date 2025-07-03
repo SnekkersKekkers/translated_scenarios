@@ -70,7 +70,7 @@ voicemail? Of course, it's okay.");
     MsgDisp("Honda","I mean, you invited me. 
 There's no way I'd refuse, right?");
     MsgDisp("主人公","Fufu.
-Then,｛日付｝
+Then, ｛日付｝
 ｛待ち合わせ場所｝, I'll be there.");
     VoicePlay("J030301000_03_090");
     MsgDisp("Honda","I'll be the one waiting!

@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey,｛大地＊＊｝,
+MsgDisp("主人公","Hey, ｛大地＊＊｝,
 what are your hobbies?");
 ChEye(8,4);
 ChMouth(8,0);

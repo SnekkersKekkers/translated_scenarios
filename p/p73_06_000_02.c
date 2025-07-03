@@ -17,7 +17,7 @@ make it a success!)");
     VoicePlay("P730600002_06_000");
     MsgDisp("Himuro","It's amazing huh. To think you can
 handmake even such a thing.");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -70,7 +70,7 @@ festival... I have to make it a success!)");
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("P730600002_06_060");
     MsgDisp("Himuro","Ah...");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 Did you come to watch?");
     ChEye(6,0);
     ChMouth(6,0);

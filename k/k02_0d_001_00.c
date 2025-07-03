@@ -7,7 +7,7 @@ ChOpen(22,254,0,0,3,-1,-1,0,2);
 ScrFadeIn(0);
 VoicePlay("K020D00100_21_000");
 MsgDisp("Michiru","Mari, I found you.");
-MsgDisp("主人公","Ah,｛みちる＊｝, ｛ひかる＊｝.");
+MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

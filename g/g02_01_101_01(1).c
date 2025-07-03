@@ -45,7 +45,7 @@ relaxed.");
 ChEye(1,3);
 ChMouth(1,2);
 ChCheek(1,0);
-MsgDisp("主人公","What's wrong,｛風真＊＊｝?");
+MsgDisp("主人公","What's wrong, ｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);

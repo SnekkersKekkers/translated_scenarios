@@ -21,7 +21,7 @@ VoicePlay("F020700007_07_010");
 MsgDisp("Mikage","Nice.
 Let me join in some time.");
 MsgDisp("主人公","Hehe, sounds good. What are you looking
-forwards to,｛御影＊＊｝?");
+forwards to, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -45,7 +45,7 @@ MsgDisp("Mikage","Even when I'm drinking tea
 in the science preparation room,
 the whole school is dead silent.");
 MsgDisp("主人公","You sure like school
-don't you,｛御影＊＊｝?");
+don't you, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

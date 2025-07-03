@@ -7,7 +7,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040115101_01_000");
 MsgDisp("Kazama","Oh, that looks really good.");
-MsgSel("Yeah, maybe I'll get a high score?","Maybe it's thanks to your guidance,｛風真＊＊｝?","We're fighting with real swords today!");
+MsgSel("Yeah, maybe I'll get a high score?","Maybe it's thanks to your guidance, ｛風真＊＊｝?","We're fighting with real swords today!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

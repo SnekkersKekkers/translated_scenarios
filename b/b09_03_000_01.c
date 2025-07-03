@@ -6,7 +6,7 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090300000_03_000");
 MsgDisp("Honda","Hey, where are you now?");
-MsgDisp("主人公","This voice...,｛本多＊＊｝?");
+MsgDisp("主人公","This voice..., ｛本多＊＊｝?");
 VoicePlay("B090300000_03_010");
 MsgDisp("Honda","I'm looking for you but...");
 VoicePlay("B090300000_03_020");

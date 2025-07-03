@@ -17,7 +17,7 @@ in the Horticulture club...)");
     ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
     VoicePlay("P630400002_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Welcome.");
     ChEye(4,3);
     ChMouth(4,3);
@@ -55,7 +55,7 @@ in the Horticulture club...)");
     ChOpen(4,254,0,5,4,-1,-1,0,0,0,60);
     VoicePlay("P630400002_04_040");
     MsgDisp("Nanatsumori","Ohー...");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 Welcome.");
     ChEye(4,0);
     ChMouth(4,3);

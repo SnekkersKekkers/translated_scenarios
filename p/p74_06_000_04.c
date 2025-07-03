@@ -9,7 +9,7 @@ SEWait();
 ChOpen(6,254,1,1,0,0,-1,0,0);
 VoicePlay("P740600004_06_000");
 MsgDisp("Himuro","Welcome back.");
-MsgDisp("主人公","Ah,｛氷室＊＊｝ Q
+MsgDisp("主人公","Ah, ｛氷室＊＊｝ Q
 How was it?");
 ChEye(6,1);
 ChMouth(6,0);

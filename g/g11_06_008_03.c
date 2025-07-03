@@ -8,7 +8,7 @@ VoicePlay("G110600803_06_000");
 MsgDisp("Himuro","｛主人公｝.
 Are you already finished for today?");
 MsgDisp("主人公","Ah, good work today.
-Yeah,｛氷室＊＊｝ let's go together.");
+Yeah, ｛氷室＊＊｝ let's go together.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);

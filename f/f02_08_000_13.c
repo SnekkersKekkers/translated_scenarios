@@ -7,7 +7,7 @@ BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","My school trip is coming up soon...
-What about you,｛大地＊＊｝?");
+What about you, ｛大地＊＊｝?");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0);

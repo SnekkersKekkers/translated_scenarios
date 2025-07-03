@@ -33,7 +33,7 @@ VoicePlay("B360107000_01_010");
 MsgDisp("Kazama","Yeah, you like 
 bargains don't you?");
 MsgDisp("主人公","...Yeah.
-What about you,｛風真＊＊｝?");
+What about you, ｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,0);

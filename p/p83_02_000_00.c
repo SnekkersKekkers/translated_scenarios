@@ -55,7 +55,7 @@ to be placed in front of each classroom.)");
     VoicePlay("P830200000_02_030");
     MsgDisp("Sassa","｛主人公｝.
 I was waiting for you.");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 But...");
     ChEye(2,0);
     ChMouth(2,0);

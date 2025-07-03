@@ -76,7 +76,7 @@ it's finally the runway...I'm nervous..)");
     MsgDisp("Sassa","｛主人公｝.
 How are the preparations 
 or the fashion show?");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝...");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("T020801000_08_000");
 MsgDisp("Shirahane","The door is open......
 What is th——");
-MsgDisp("主人公","Eh,｛大地＊＊｝ ∋
+MsgDisp("主人公","Eh, ｛大地＊＊｝ ∋
 Why are you here......");
 ChEye(8,4);
 ChMouth(8,5);

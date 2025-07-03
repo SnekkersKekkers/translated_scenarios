@@ -17,7 +17,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("P730D00002_22_000");
 MsgDisp("Hikaru","Tres bi～en!");
-MsgDisp("主人公","｛みちる＊｝,｛ひかる＊｝!");
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

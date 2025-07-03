@@ -17,7 +17,7 @@ I like it but...)");
     VoiceEVSPlay(1);
     VoicePlay("P730100001_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Did you come to watch?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -80,7 +80,7 @@ I like it but...)");
     VoiceEVSPlay(1);
     VoicePlay("P730100001_01_060");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What do you think of this dress?");
     ChEye(1,4);
     ChMouth(1,3);

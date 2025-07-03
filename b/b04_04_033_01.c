@@ -11,7 +11,7 @@ ScrFadeIn(0);
 VoicePlay("B040403301_04_000");
 MsgDisp("Nanatsumori","The deep sea fish' shape has
 evolved in a strange way. hasn't it?");
-MsgSel("It's interesting.","Huh, it looks like you,｛七ツ森＊｝","It looks like I can learn to make weird faces here!");
+MsgSel("It's interesting.","Huh, it looks like you, ｛七ツ森＊｝","It looks like I can learn to make weird faces here!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

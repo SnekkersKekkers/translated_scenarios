@@ -13,7 +13,7 @@ VoicePlay("G020110401_01_010");
 MsgDisp("Kazama","Well,
 you've always enjoyed yourself 
 no matter where I take you.");
-MsgDisp("主人公","Anywhere you take me is fun,｛風真＊＊｝.");
+MsgDisp("主人公","Anywhere you take me is fun, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

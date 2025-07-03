@@ -48,7 +48,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(30,0);
 ChOpen(5,255,0,0,4,-1,-1,0,3);
 SEWait();
-MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 You got bullseye twice in a row.");
 ChEye(5,4);
 VoicePlay("B330C30500_05_000");

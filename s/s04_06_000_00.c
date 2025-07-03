@@ -56,7 +56,7 @@ maybe I did something wrong......)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
-    MsgDisp("主人公","Hello,,｛氷室＊＊｝?");
+    MsgDisp("主人公","Hello,, ｛氷室＊＊｝?");
     VoicePlay("S040600000_06_050");
     MsgDisp("Himuro","Ah, yeah......
 Happy New Year.");

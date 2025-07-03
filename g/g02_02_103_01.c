@@ -48,7 +48,7 @@ MsgDisp("Sassa","Thinking that you were just there made me
 restless in my own room, and I couldn't
 sleep.");
 MsgDisp("主人公","Hehe, why?
-You're funny,｛颯砂＊＊｝.");
+You're funny, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

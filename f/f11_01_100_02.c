@@ -22,7 +22,7 @@ ChMotion(1,3);
 VoicePlay("F110110002_01_020");
 MsgDisp("Kazama","Shut up.
 Come on, let's go.");
-MsgDisp("主人公","But,｛風真＊＊｝, haven't you seen
+MsgDisp("主人公","But, ｛風真＊＊｝, haven't you seen
 everything already?");
 ChEye(1,0);
 ChMouth(1,2);

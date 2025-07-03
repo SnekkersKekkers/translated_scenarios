@@ -19,7 +19,7 @@ do I carry it to next...?");
     VoicePlay("P830400000_04_000");
     MsgDisp("Nanatsumori","Yo.
 Busy?");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Yeah, super busy.");
     ChEye(4,2);
     ChMouth(4,3);

@@ -9,7 +9,7 @@ MsgDisp("Hiiragi","Our home field.
 The hometown festival.");
 MsgDisp("主人公","Yeah.
 Habataki City is now completely your 
-home town, isn't it,｛柊＊＊＊｝?");
+home town, isn't it, ｛柊＊＊＊｝?");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);

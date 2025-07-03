@@ -23,7 +23,7 @@ MsgDisp("Hiiragi","You were concentrating well.
 Your expressions, walk and
 turns were perfect.");
 MsgDisp("主人公","Really?
-Thank you,｛柊＊＊＊｝...");
+Thank you, ｛柊＊＊＊｝...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

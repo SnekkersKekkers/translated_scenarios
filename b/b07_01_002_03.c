@@ -42,7 +42,7 @@ MsgDisp("Kazama","Don't \"Huh?\" me.
 Come on, what's yoru question.");
 MsgDisp("主人公","That...
 What's the most important
-thing to you,｛風真＊＊｝?");
+thing to you, ｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);

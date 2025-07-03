@@ -73,7 +73,7 @@ huh...");
         VoicePlay("B040311102_03_070");
         MsgDisp("Honda","Huh? I haven't seen this pattern before...
 Just from looking at your hands...");
-        MsgDisp("主人公","Um,｛本多＊＊｝?");
+        MsgDisp("主人公","Um, ｛本多＊＊｝?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1,1);

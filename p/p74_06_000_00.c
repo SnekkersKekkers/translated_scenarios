@@ -10,7 +10,7 @@ SEWait();
 ChOpen(6,254,0,0,0,-1,-1,0,0);
 VoicePlay("P740600000_06_000");
 MsgDisp("Himuro","Good work.");
-MsgDisp("主人公","Ah,｛氷室＊＊｝!
+MsgDisp("主人公","Ah, ｛氷室＊＊｝!
 Did you see it?");
 ChEye(6,0);
 ChMouth(6,3);

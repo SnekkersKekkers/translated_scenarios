@@ -75,7 +75,7 @@ it's finally the runway...I'm nervous...)");
     MsgDisp("Mikage","｛主人公｝.
 That's quite nicely done isn't it, 
 those clothes?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Is it really...?");
     ChEye(7,0);
     ChMouth(7,3);

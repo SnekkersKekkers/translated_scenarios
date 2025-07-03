@@ -12,7 +12,7 @@ VoiceEVSPlay(2);
 VoicePlay("P740200005_02_000");
 MsgDisp("Sassa","｛主人公｝, 
 did you sprain your foot?");
-MsgDisp("主人公","Ah,｛颯砂＊＊｝...
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
 I'm fine, but I failed.");
 ChEye(2,2);
 ChMouth(2,0);

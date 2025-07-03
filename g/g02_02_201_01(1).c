@@ -42,7 +42,7 @@ VoicePlay("G020220101_02_060");
 MsgDisp("Sassa","So, from tonight's fireflies onwards, 
 I'll cherish my time with you more.");
 MsgDisp("主人公","Hehe.
-you're acting a bit strange,｛颯砂＊＊｝.");
+you're acting a bit strange, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

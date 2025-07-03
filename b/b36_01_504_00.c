@@ -13,7 +13,7 @@ ChEye(1,4);
 VoicePlay("B360150400_01_000");
 MsgDisp("Kazama","Looks like it's a good one.
 I'm glad I brought you.");
-MsgDisp("主人公","Thank you,｛風真＊＊｝.
+MsgDisp("主人公","Thank you, ｛風真＊＊｝.
 But I'm sure everyone else 
 wanted to see this too right?");
 ChEye(1,0);

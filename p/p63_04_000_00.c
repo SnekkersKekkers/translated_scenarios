@@ -17,7 +17,7 @@ cookies though...)");
     ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
     VoicePlay("P630400000_04_000");
     MsgDisp("Nanatsumori","Hello.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Welcome～!");
     ChEye(4,0);
     ChMouth(4,3);

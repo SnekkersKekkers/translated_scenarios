@@ -15,7 +15,7 @@ in the Horticulture club...)");
     ChOpen(1,254,0,0,0,-1,-1,0,0);
     VoicePlay("P630100002_01_000");
     MsgDisp("Kazama","Pardon the intrusion.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Welcome!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -56,7 +56,7 @@ in the Horticulture club...)");
     VoicePlay("P630100002_01_040");
     MsgDisp("Kazama","Heeーh, Your outfit also suits you,
 doesn't it?");
-    MsgDisp("主人公","Ah,｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Welcome～!
 I'm a cafe maid.");
     ChEye(1,3);

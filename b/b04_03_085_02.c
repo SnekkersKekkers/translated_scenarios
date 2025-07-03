@@ -65,7 +65,7 @@ down to the area.");
         VoicePlay("B040308502_03_060");
         MsgDisp("Honda","Look, a scenery just as
 you hoped for has appeared.");
-        MsgDisp("主人公","Yeah,｛本多＊＊｝ thank you.");
+        MsgDisp("主人公","Yeah, ｛本多＊＊｝ thank you.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);

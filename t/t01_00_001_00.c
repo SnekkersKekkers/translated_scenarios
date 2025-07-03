@@ -39,7 +39,7 @@ SEPlay("EV_SE_FOOT_008",0,0.1);
 Wait(5,0);
 SEPlay("EV_SE_688",0,0.1);
 Wait(100,0);
-MsgDisp("主人公","Ah, wait up,｛風真＊＊｝!");
+MsgDisp("主人公","Ah, wait up, ｛風真＊＊｝!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);

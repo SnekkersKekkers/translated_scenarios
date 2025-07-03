@@ -96,7 +96,7 @@ ChClose(6,0,30);
 ChClose(1,0,30);
 ChClose(2,0,30);
 MsgDisp("主人公","(Hehe!
-In the end,｛颯砂＊＊｝
+In the end, ｛颯砂＊＊｝
 got into it too!)");
 BGMStop();
 MsgClose();

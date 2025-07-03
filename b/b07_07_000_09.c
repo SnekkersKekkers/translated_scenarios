@@ -5,7 +5,7 @@ ChMotion(7,3);
 VoicePlay("B070700000_07_490");
 MsgDisp("Mikage","Go on.");
 MsgDisp("主人公","What do you think
-about love,｛御影＊＊｝?");
+about love, ｛御影＊＊｝?");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,5);

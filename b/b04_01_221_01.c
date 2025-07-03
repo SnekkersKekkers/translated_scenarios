@@ -7,7 +7,7 @@ ChMotion(1,1);
 VoicePlay("B040122101_01_000");
 MsgDisp("Kazama","I wonder what the lord of Habataki
 Castle was thinking as he stood here.");
-MsgSel("What are you thinking,｛風真＊＊｝?","To unify the nation by force∈","Maybe that it was a bit tall and scary");
+MsgSel("What are you thinking, ｛風真＊＊｝?","To unify the nation by force∈","Maybe that it was a bit tall and scary");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

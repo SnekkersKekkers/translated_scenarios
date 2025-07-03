@@ -39,7 +39,7 @@ ChMotion(1,0,1);
 VoicePlay("B330B30700_01_000");
 MsgDisp("Kazama","That's typical of Honda.");
 ChFace(3,0);
-MsgDisp("主人公","Huh,｛七ツ森＊｝.
+MsgDisp("主人公","Huh, ｛七ツ森＊｝.
 What are you looking at so seriously?");
 ChEye(1,0);
 ChMouth(1,0);

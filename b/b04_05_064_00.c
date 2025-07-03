@@ -48,7 +48,7 @@ VoicePlay("B040506400_05_060");
 MsgDisp("Hiiragi","Excuse me, 
 I'll buy two with egg toppings please.");
 SEPlay("EV_SE_022",0.8);
-MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 The fireworks are about to start!");
 VoicePlay("B040506400_47_000");
 MsgDisp("Night Market Clerk","Thank you～!");

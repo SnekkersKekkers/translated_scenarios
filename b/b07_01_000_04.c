@@ -1,4 +1,4 @@
-MsgDisp("主人公","Do you listen to music,｛風真＊＊｝?
+MsgDisp("主人公","Do you listen to music, ｛風真＊＊｝?
 Do you have a genre you like?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -9,7 +9,7 @@ I listened to classical music often.
 But it wasn't because I liked it,
 more so that my parents did.");
 MsgDisp("主人公","That might be perfect for your
-image,｛風真＊＊｝ /");
+image, ｛風真＊＊｝ /");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

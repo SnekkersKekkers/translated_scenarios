@@ -30,7 +30,7 @@ BGOpen("ev004",0);
 ChNanaType(1);
 ChOpen(4,100,1,0,0,-1,-1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah,｛七ツ森＊｝ ");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝ ");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400201_04_010");

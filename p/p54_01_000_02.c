@@ -11,7 +11,7 @@ ChOpen(1,254,3,3,3,-1,-1,0,0);
 VoicePlay("P540100002_01_000");
 MsgDisp("Kazama","Wasn't it a huge success?
 Congratulations.");
-MsgDisp("主人公","Ah,｛風真＊＊｝!
+MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Thank you.");
 ChEye(1,0);
 ChMouth(1,3);

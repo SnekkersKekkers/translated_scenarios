@@ -34,7 +34,7 @@ So, how about we go together?");
     ChMotion(3,5);
     VoicePlay("F010300007_03_020");
     MsgDisp("Honda","Oh, there you are!");
-    MsgDisp("主人公","Oh,｛本多＊＊｝.
+    MsgDisp("主人公","Oh, ｛本多＊＊｝.
 What's up?");
     ChEye(3,4);
     ChMouth(3,3);

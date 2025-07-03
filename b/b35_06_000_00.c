@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,-1,-1,0,0);
 VoicePlay("B350600000_06_000");
 MsgDisp("Himuro","Hey.");
-MsgDisp("主人公","Huh,｛氷室＊＊｝.
+MsgDisp("主人公","Huh, ｛氷室＊＊｝.
 What's wrong?");
 ChEye(6,0);
 ChMouth(6,0);

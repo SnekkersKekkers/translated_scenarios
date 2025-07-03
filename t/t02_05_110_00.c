@@ -6,7 +6,7 @@ MsgDisp("Hiiragi?","｛主人公｝.");
 SEPlay("EV_SE_872",0.5);
 Wait(50,0);
 ChOpen(5,254,0,4,0,-1,-1,0,0);
-MsgDisp("主人公","Eh,｛柊＊＊＊｝?");
+MsgDisp("主人公","Eh, ｛柊＊＊＊｝?");
 VoicePlay("T020511000_05_010");
 MsgDisp("Hiiragi","Please give me some of your time.
 By any means.");

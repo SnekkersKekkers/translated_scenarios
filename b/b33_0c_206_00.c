@@ -107,7 +107,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,0,-1,-1,0,0,0,30);
 MsgDisp("主人公","Hehe, they're obsessed.
-What about you,｛御影＊＊｝?");
+What about you, ｛御影＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

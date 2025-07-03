@@ -18,7 +18,7 @@ ChMotion(7,3);
 VoicePlay("P540700004_07_010");
 MsgDisp("Mikage","Congratulations!
 That was an amazing performance, huh?");
-MsgDisp("主人公","Ah,｛御影＊＊｝.
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
 It was a huge success!");
 ChEye(7,0);
 ChMouth(7,0);

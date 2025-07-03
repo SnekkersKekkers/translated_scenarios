@@ -21,7 +21,7 @@ you need, your class, and your name.");
     VoicePlay("P830700001_07_000");
     MsgDisp("Mikage","｛主人公｝.
 You seem busy, huh?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Did you need something?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -41,7 +41,7 @@ blackout curtains.");
 Well, then.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
-    MsgDisp("主人公","Eh,｛御影＊＊｝ ——");
+    MsgDisp("主人公","Eh, ｛御影＊＊｝ ——");
     VoicePlay("P830700001_48_000");
     MsgDisp("School Girl B","Exーcuse me.
 Could I get two rolls of packing tape?");
@@ -64,7 +64,7 @@ you need, your class, and your name.");
     VoicePlay("P830700001_07_030");
     MsgDisp("Mikage","｛主人公｝,
 You're busy.");
-    MsgDisp("主人公","Ah,｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Did you want something?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -92,7 +92,7 @@ I'll cheer you on from behind the scenes.");
     MsgDisp("Mikage","Then, do your best!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
-    MsgDisp("主人公","Ah,｛御影＊＊｝ ——");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝ ——");
     VoicePlay("P830700001_48_010");
     MsgDisp("School Girl B","Exーcuse me.
 Could I get two rolls of packing tape?");

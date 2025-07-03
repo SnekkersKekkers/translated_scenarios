@@ -11,7 +11,7 @@ ChNanaType(0);
 ChOpen(4,254,0,3,3,-1,-1,0,0,0,60);
 VoicePlay("P740400004_04_000");
 MsgDisp("Nanatsumori","Welcome back.");
-MsgDisp("主人公","Ah,｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 The show went well!");
 ChMotion(4,1,1);
 VoicePlay("P740400004_04_010");

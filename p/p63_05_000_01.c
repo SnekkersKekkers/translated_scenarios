@@ -57,7 +57,7 @@ well-received...)");
     VoicePlay("P630500001_05_040");
     MsgDisp("Hiiragi","｛主人公｝,
 The store seems to be popular, yes?");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
 Welcome.");
     ChEye(5,0);
     ChMouth(5,4);

@@ -49,7 +49,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("Q020C00100_07_020");
     MsgDisp("Mikage","Good job.
 I'm sure Inori is also happy.");
-    MsgDisp("主人公","Wait,｛氷室＊＊｝?");
+    MsgDisp("主人公","Wait, ｛氷室＊＊｝?");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);

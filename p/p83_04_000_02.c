@@ -53,7 +53,7 @@ Next up is the bunny cafe!");
     ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
     VoicePlay("P830400002_04_030");
     MsgDisp("Nanatsumori","They're doing it, they're doing it.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝..");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝..");
     ChMotion(4,1,1);
     VoicePlay("P830400002_04_040");
     MsgDisp("Nanatsumori","Good work on your student council patrol.

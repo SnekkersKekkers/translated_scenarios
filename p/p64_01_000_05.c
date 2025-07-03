@@ -3,7 +3,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah,｛風真＊＊｝ how was it?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝ how was it?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

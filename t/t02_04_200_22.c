@@ -48,7 +48,7 @@ ScrFadeIn(0);
 VoicePlay("T020420000_04_300");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","I will treasure you for the rest of my
-life. I love you,｛主人公｝......");
+life. I love you, ｛主人公｝......");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

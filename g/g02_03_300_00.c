@@ -58,7 +58,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("G020330000_03_080");
 MsgDisp("Honda","I'm the one getting inspired one-sidedly. 
 I'm really glad I met them!");
-MsgDisp("主人公","(Hehe,｛風真＊＊｝ and ｛七ツ森＊｝ would
+MsgDisp("主人公","(Hehe, ｛風真＊＊｝ and ｛七ツ森＊｝ would
 say the same thing wouldn't they?)");
 BGMStop();
 MsgClose();

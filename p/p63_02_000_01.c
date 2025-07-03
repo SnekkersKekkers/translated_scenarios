@@ -58,7 +58,7 @@ well-received...)");
     VoicePlay("P630200001_02_030");
     MsgDisp("Sassa","｛主人公｝,
 These vegetables look delicious.");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝ you came.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝ you came.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);

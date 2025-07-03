@@ -16,7 +16,7 @@ MsgDisp("Himuro?","What's with this melancholy?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛氷室＊＊｝...
+MsgDisp("主人公","Ah, ｛氷室＊＊｝...
 it's just that I was thinking about
 how little time I have 
 left in this classrooom.");

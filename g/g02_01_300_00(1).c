@@ -43,7 +43,7 @@ ChMotion(1,3);
 VoicePlay("G020130000_01_050");
 MsgDisp("Kazama","And then, he'd try to find out what we
 talked about. That's just how he is.");
-MsgDisp("主人公","Hehe,｛風真＊＊｝
+MsgDisp("主人公","Hehe, ｛風真＊＊｝
 really knows those two well.");
 ChEye(1,2);
 ChMouth(1,3);

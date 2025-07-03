@@ -50,7 +50,7 @@ trembling when you jump off.");
         MsgDisp("Kazama","Well, it's fine. But keep it in mimd. I
 hate seeing you so frightened, and going
 through danger.");
-        MsgDisp("主人公","Yeah, thank you,｛風真＊＊｝.");
+        MsgDisp("主人公","Yeah, thank you, ｛風真＊＊｝.");
         ChEye(1,4);
         ChMouth(1,0);
         ChMotion(1,0);

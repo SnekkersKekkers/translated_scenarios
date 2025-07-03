@@ -8,7 +8,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406302_04_000");
 MsgDisp("Nanatsumori","Do you like this place?");
-MsgSel("I do!","Hmmm?","What about you,｛七ツ森＊｝?");
+MsgSel("I do!","Hmmm?","What about you, ｛七ツ森＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

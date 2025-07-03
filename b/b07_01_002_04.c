@@ -9,7 +9,7 @@ VoicePlay("B070100002_01_230");
 MsgDisp("Kazama","I wasn't here in elementary or middle
 school, so Nanatsumori will tell me about
 what was popular at the time?");
-MsgDisp("主人公","Hmm,｛七ツ森＊｝ knows trends well.");
+MsgDisp("主人公","Hmm, ｛七ツ森＊｝ knows trends well.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -34,7 +34,7 @@ VoicePlay("B070100002_01_260");
 MsgDisp("Kazama","They could go on without me, but 
 no—they drag me in to continue 
 right where they left off.");
-MsgDisp("主人公","They want you to join in,｛風真＊＊｝ /");
+MsgDisp("主人公","They want you to join in, ｛風真＊＊｝ /");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

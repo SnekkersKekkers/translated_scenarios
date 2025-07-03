@@ -23,7 +23,7 @@ that, it is divine to look at.");
 MsgClear();
 SEPlay("EV_SE_627",0,0.6);
 SEWait();
-MsgDisp("主人公","\"Ah,｛御影＊＊｝!
+MsgDisp("主人公","\"Ah, ｛御影＊＊｝!
 What are you planting?\"");
 MsgDisp("","Perfect timing.
 It's funny, since this kid 

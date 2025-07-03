@@ -42,7 +42,7 @@ VoicePlay("B330C30600_05_000");
 MsgDisp("Hiiragi","Hmmm...
 A cat as a leading part...");
 MsgDisp("主人公","Was it not interesting 
-for you,｛柊＊＊＊｝?");
+for you, ｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

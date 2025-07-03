@@ -13,7 +13,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("P830600000_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
     VoicePlay("P830600000_48_000");
     MsgDisp("School Girl","Hey, wait.
 Please prepare some tea!");
@@ -45,7 +45,7 @@ So I have to do my best!");
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("P830600000_06_030");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
     VoicePlay("P830600000_48_010");
     MsgDisp("School Girl","Hey, wait.
 Please prepare some tea!");

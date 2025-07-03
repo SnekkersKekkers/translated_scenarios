@@ -14,7 +14,7 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("Q020100000_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝, Good morning.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, Good morning.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);

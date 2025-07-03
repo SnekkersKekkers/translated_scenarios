@@ -8,7 +8,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
 VoicePlay("F100410002_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah,｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
 ChEye(4,2);
 VoicePlay("F100410002_04_010");
 MsgDisp("Nanatsumori","You're making such a scary face, 
@@ -56,7 +56,7 @@ SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);
 MsgDisp("主人公","It's about time to go back
 to the classroom.
-Let's go,｛七ツ森＊｝!");
+Let's go, ｛七ツ森＊｝!");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

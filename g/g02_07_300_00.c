@@ -47,7 +47,7 @@ VoicePlay("G020730000_07_050");
 MsgDisp("Mikage","He would say,
 'There's a reason for everything.
 Shall I hear it?' whilst approaching.");
-MsgDisp("主人公","Hehe,｛御影＊＊｝ is always thinking of
+MsgDisp("主人公","Hehe, ｛御影＊＊｝ is always thinking of
 those twp");
 ChEye(7,0);
 ChMouth(7,3);

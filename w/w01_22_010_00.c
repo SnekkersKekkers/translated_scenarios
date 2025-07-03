@@ -1,11 +1,11 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah,｛ひかる＊｝ is calling.");
+MsgDisp("主人公","Ah, ｛ひかる＊｝ is calling.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
-MsgDisp("主人公","Hello,｛ひかる＊｝?");
+MsgDisp("主人公","Hello, ｛ひかる＊｝?");
 VoicePlay("W012201000_22_000");
 MsgDisp("Hikaru","Hi～, Mari!  I want
 to hang out with you next Sunday～▼

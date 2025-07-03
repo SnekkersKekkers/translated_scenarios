@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey,｛風真＊＊｝ what were
+MsgDisp("主人公","Hey, ｛風真＊＊｝ what were
 you like in middle school?");
 ChEye(1,4);
 ChMouth(1,4);

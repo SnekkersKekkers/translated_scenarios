@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("P640500000_05_000");
 MsgDisp("Hiiragi","Phew...
 Yes, it's calming.");
-MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Is it?");
 ChEye(5,4);
 ChMouth(5,4);

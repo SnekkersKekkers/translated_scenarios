@@ -82,7 +82,7 @@ ChMotion(3,2,1);
 VoicePlay("D140B05101_03_040");
 MsgDisp("Honda","Our relationship...
 that's right...");
-MsgDisp("主人公","Hey,｛本多＊＊｝...");
+MsgDisp("主人公","Hey, ｛本多＊＊｝...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

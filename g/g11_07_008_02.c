@@ -6,7 +6,7 @@ VoiceEVSPlay(7);
 VoicePlay("G110700802_07_000");
 MsgDisp("Mikage?","｛主人公｝.");
 SEStop("EV_SE_821",2);
-MsgDisp("主人公","Ah,｛御影＊＊｝.
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Good morning!");
 MsgClose();
 MsgClose();

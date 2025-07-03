@@ -23,7 +23,7 @@ Congratulations!");
     MsgDisp("Honda","I heard it! You won by a single point,
 didn't you? I wish I could have seen it,
 Your brilliant back suiage throw!");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Hmmm, thanks!");
     ChEye(3,3);
     ChMouth(3,3);

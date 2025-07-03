@@ -94,7 +94,7 @@ ChClose(6,0,30);
 VoicePlay("B330C20700_05_040");
 MsgDisp("Hiiragi","Mikage-sensei, 
 do not push yourself.");
-MsgDisp("主人公","That's good,｛柊＊＊＊｝.
+MsgDisp("主人公","That's good, ｛柊＊＊＊｝.
 I'll go too.");
 MsgClose();
 ChEye(5,4);

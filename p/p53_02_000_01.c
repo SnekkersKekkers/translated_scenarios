@@ -16,7 +16,7 @@ There's a huge audience...)");
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_000");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 You came?");
     ChEye(2,0);
     ChMouth(2,4);

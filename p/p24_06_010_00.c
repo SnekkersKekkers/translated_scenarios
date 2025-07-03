@@ -92,7 +92,7 @@ VoicePlay("P240601000_06_080");
 MsgDisp("Himuro","Well, if I were Hikiboshi,
 Even after I met Orihime, 
 I wouldn't become undisciplined. ");
-MsgDisp("主人公","Hehe, that's just like you,｛氷室＊＊｝.");
+MsgDisp("主人公","Hehe, that's just like you, ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

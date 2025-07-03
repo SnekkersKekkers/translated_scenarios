@@ -78,7 +78,7 @@ squeezeーー\" I suppose?");
         VoicePlay("B040524102_05_080");
         MsgDisp("Hiiragi","It has gotten late, hasn't it?");
         MsgDisp("主人公","Yeah, but it was fun.
-Did you enjoy it,｛柊＊＊＊｝?");
+Did you enjoy it, ｛柊＊＊＊｝?");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040524102_05_090");

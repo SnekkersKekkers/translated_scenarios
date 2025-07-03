@@ -109,7 +109,7 @@ VoicePlay("A020210000_02_120");
 MsgDisp("Sassa","Phew, that was nice!
 Feeling a little tired?");
 MsgDisp("主人公","Huh......Yeah, a little, but it was fun!
-Thank you,｛颯砂＊＊｝!");
+Thank you, ｛颯砂＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -4,7 +4,7 @@ VoicePlay("G020110103_01_000");
 MsgDisp("Kazama","These things look like they're blessing
 us, don't you think?");
 MsgDisp("主人公","Yeah, there are many fireflies around
-you,｛風真＊＊｝.");
+you, ｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

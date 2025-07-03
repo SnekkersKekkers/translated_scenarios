@@ -8,7 +8,7 @@ ChEye(5,4);
 VoicePlay("B040506202_05_000");
 MsgDisp("Hiiragi","It's hard to believe it's bustling
 outside. It's mysterious.");
-MsgSel("We can talk calmly here.","It's like we're on a stage,｛柊＊＊＊｝...","Ahー it's funny how our voices echo");
+MsgSel("We can talk calmly here.","It's like we're on a stage, ｛柊＊＊＊｝...","Ahー it's funny how our voices echo");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

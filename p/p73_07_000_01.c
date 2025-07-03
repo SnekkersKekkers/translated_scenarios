@@ -15,7 +15,7 @@ I like it but...)");
     ChOpen(7,254,0,0,0,-1,-1,0,0);
     VoicePlay("P730700001_07_000");
     MsgDisp("Mikage","Heeh, it's splendid, huh.");
-    MsgDisp("主人公","Ah,｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Did you come to see it?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -69,7 +69,7 @@ I like it but...)");
     VoicePlay("P730700001_07_060");
     MsgDisp("Mikage","Oh, amazing.
 I wondered if it was a princess.");
-    MsgDisp("主人公","Ah,｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
 I don't know about princess...");
     ChEye(7,0);
     ChMouth(7,0);

@@ -3,7 +3,7 @@ have for the future, ｛柊＊＊＊｝?");
 ChMouth(5,2);
 VoicePlay("B070500000_05_290");
 MsgDisp("Hiiragi","Apart from the theatre company?");
-MsgDisp("主人公","Yeah,｛柊＊＊＊｝ 's 
+MsgDisp("主人公","Yeah, ｛柊＊＊＊｝ 's 
 dreams as an individual.");
 ChEye(5,4);
 ChMouth(5,4);

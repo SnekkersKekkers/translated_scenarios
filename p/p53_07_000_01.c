@@ -15,7 +15,7 @@ But...)");
     ChOpen(7,254,0,0,0,-1,-1,0,0);
     VoicePlay("P530700001_07_000");
     MsgDisp("Mikage","You seem more composed, huh? ");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 More or less, since it's my second time...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -62,7 +62,7 @@ But...)");
     VoicePlay("P530700001_07_050");
     MsgDisp("Mikage","｛主人公｝, 
 You seem a bit more composed, huh?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 I'm not composed!");
     ChEye(7,0);
     ChMouth(7,0);

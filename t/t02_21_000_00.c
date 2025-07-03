@@ -9,7 +9,7 @@ Wait(15,0);
 SEStop("EV_SE_872",0.3);
 BGMPlay("BGM_C21_MICHIRU_I",0.01);
 ChOpen(21,254,0,4,0,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛みちる＊｝...");
+MsgDisp("主人公","Ah, ｛みちる＊｝...");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);

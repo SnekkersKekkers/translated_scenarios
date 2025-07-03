@@ -46,7 +46,7 @@ My mouth is running off on its own.");
 VoicePlay("G020440002_04_070");
 MsgDisp("Nanatsumori","Together until morning? What is that, how
 pompous, fishy, sleazyー......");
-MsgDisp("主人公","Um,｛七ツ森＊｝?");
+MsgDisp("主人公","Um, ｛七ツ森＊｝?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);

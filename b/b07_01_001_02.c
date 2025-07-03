@@ -9,7 +9,7 @@ MsgDisp("Kazama","Inori is the one who's one-sidedly
 involving himself with me.");
 MsgDisp("主人公","But when you talk to ｛氷室＊＊｝,
 You look like you're 
-having so much fun,｛風真＊＊｝.");
+having so much fun, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -33,7 +33,7 @@ VoicePlay("B070100001_01_110");
 MsgDisp("Kazama","What do you mean by \"like\"?
 You always brush it off like that.
 You're too careless.");
-MsgDisp("主人公","Hehe,｛風真＊＊｝ unintentionally
+MsgDisp("主人公","Hehe, ｛風真＊＊｝ unintentionally
 draws everyone in doesn't he?");
 ChEye(1,1);
 ChMouth(1,1);

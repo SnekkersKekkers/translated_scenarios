@@ -17,7 +17,7 @@ the past three years?)");
     ChOpen(1,254,0,4,3,-1,-1,0,0);
     VoicePlay("P530100002_01_000");
     MsgDisp("Kazama","You look good.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -68,7 +68,7 @@ the past three years?)");
     VoiceEVSPlay(1);
     VoicePlay("P530100002_01_040");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝, You came?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, You came?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -105,7 +105,7 @@ guts too?");
     VoicePlay("P530100002_01_090");
     MsgDisp("Kazama","Come on, do your best.");
     MsgDisp("主人公","Yeah......!");
-    MsgDisp("主人公","(Alright,｛風真＊＊｝ I can't let my
+    MsgDisp("主人公","(Alright, ｛風真＊＊｝ I can't let my
 performance go bad!I will try my best!)");
     MsgClose();
     ScrFadeOut(0,0);

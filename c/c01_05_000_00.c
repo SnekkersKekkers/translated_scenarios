@@ -6,7 +6,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010500000_05_000");
 MsgDisp("Hiiragi","Yes,this is Hiiragi.");
-MsgDisp("主人公","Ah,｛柊＊＊＊｝?
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
 It's ｛主人公苗字｝......");
 VoicePlay("C010500000_05_010");
 MsgDisp("Hiiragi","......Yes.

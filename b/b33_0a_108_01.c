@@ -165,7 +165,7 @@ VoicePlay("B330A10801_02_050");
 MsgDisp("Sassa","Seriously, Ryota.
 What a cruel guy.");
 MsgDisp("主人公","We were just waiting here?
-Right,｛風真＊＊｝?");
+Right, ｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

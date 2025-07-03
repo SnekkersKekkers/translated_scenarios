@@ -8,7 +8,7 @@ VoicePlay("B040402202_04_000");
 MsgDisp("Nanatsumori","There are things that a photograph 
 can't depict within a 360 degree 
 panorama after all...");
-MsgSel("You can't experience it with a photograph","It's all about photos...","Maybe it's an issue with your technique,｛七ツ森＊｝?");
+MsgSel("You can't experience it with a photograph","It's all about photos...","Maybe it's an issue with your technique, ｛七ツ森＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

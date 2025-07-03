@@ -6,7 +6,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010600000_06_000");
 MsgDisp("Himuro","Yes.");
-MsgDisp("主人公","Ah,｛氷室＊＊｝?
+MsgDisp("主人公","Ah, ｛氷室＊＊｝?
 It's me, but......");
 VoicePlay("C010600000_06_010");
 MsgDisp("Himuro","......What? If you have business with me,

@@ -15,7 +15,7 @@ VoiceEVSPlay(5);
 VoicePlay("P540500004_05_000");
 MsgDisp("Hiiragi","｛主人公｝.
 Congratulations, that was wonderful.");
-MsgDisp("主人公","Ah,｛柊＊＊＊｝!
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
 Genuinely...?");
 ChEye(5,3);
 ChMouth(5,3);

@@ -28,7 +28,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 Wait(63,0);
 ChOpen(7,255,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛御影＊＊｝!
+MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Thank you for inviting me.");
 ChEye(7,0);
 ChMouth(7,0);

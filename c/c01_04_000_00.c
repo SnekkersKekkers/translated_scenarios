@@ -6,7 +6,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010400000_04_000");
 MsgDisp("Nanatsumori","......Hello.");
-MsgDisp("主人公","Ah,｛七ツ森＊｝?
+MsgDisp("主人公","Ah, ｛七ツ森＊｝?
 This is ｛主人公｝......");
 VoicePlay("C010400000_04_010");
 MsgDisp("Nanatsumori","I know who this is.

@@ -25,7 +25,7 @@ Wait(20,0);
 MsgClose();
 BGMPlay("BGM_C06_INORI_A",0.01);
 ChOpen(6,253,0,0,0,-1,-1,0,1,0,30);
-MsgDisp("主人公","Ah,｛氷室＊＊｝!");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

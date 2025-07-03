@@ -4,7 +4,7 @@ ChMotion(5,4);
 VoicePlay("B020502119_05_000");
 MsgDisp("Hiiragi","How lovely.
 You don't need any fancy decorations.");
-MsgDisp("主人公","Um,｛柊＊＊＊｝?");
+MsgDisp("主人公","Um, ｛柊＊＊＊｝?");
 ChMotion(5,0);
 VoicePlay("B020502119_05_010");
 MsgDisp("Hiiragi","You're living proof of that.

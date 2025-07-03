@@ -14,7 +14,7 @@ VoiceEVSPlay(1);
 VoicePlay("K020100000_01_000");
 MsgDisp("Kazama","｛主人公｝.
 Sorry for the short notice.");
-MsgDisp("主人公","Ah,｛風真＊＊｝!
+MsgDisp("主人公","Ah, ｛風真＊＊｝!
 What's up?");
 ChEye(1,2);
 ChMouth(1,3);

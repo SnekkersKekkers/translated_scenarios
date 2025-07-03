@@ -14,7 +14,7 @@ We prepared herb tea and cookies but...)");
     ChOpen(5,254,0,0,4,-1,-1,0,0);
     VoicePlay("P630500000_05_000");
     MsgDisp("Hiiragi","Good day.");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
 You came.");
     ChEye(5,0);
     ChMouth(5,4);
@@ -44,7 +44,7 @@ We prepared herb tea and cookies but...)");
     ChOpen(5,254,0,4,4,-1,-1,0,0);
     VoicePlay("P630500000_05_030");
     MsgDisp("Hiiragi","Pardon the intrusion.");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
 You came?");
     ChEye(5,4);
     ChMouth(5,4);

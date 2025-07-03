@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,254,0,0,0,-1,-1,0,0);
     VoicePlay("Q020400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
     ChMotion(4,1,1);
     VoicePlay("Q020400000_04_010");
     MsgDisp("Nanatsumori","For today's free time, do you wanna come
@@ -61,7 +61,7 @@ I feel bad......)");
     ChOpen(4,254,0,0,0,-1,-1,0,0);
     VoicePlay("Q020400000_04_050");
     MsgDisp("Nanatsumori","Mornin'.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 Good morning.");
     ChEye(4,3);
     ChMouth(4,3);

@@ -11,7 +11,7 @@ SEPlay("EV_SE_625");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,0,0,4,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 Were you running today too?");
 ChEye(2,2);
 ChMouth(2,4);

@@ -14,7 +14,7 @@ What should I do, I'm so nervous...)");
     ChOpen(2,254,3,0,4,-1,-1,0,0);
     VoicePlay("P530200000_02_000");
     MsgDisp("Sassa","Ah, you're here.");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝...");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -52,7 +52,7 @@ What should I do, I'm so nervous...)");
     VoiceEVSPlay(2);
     VoicePlay("P530200000_02_040");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝...
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
 It's almost time for the real performance.");
     ChEye(2,0);
     ChMouth(2,4);

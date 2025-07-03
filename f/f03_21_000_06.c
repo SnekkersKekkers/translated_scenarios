@@ -1,5 +1,5 @@
 MsgDisp("主人公","How is school life
-for you,｛みちる＊｝?");
+for you, ｛みちる＊｝?");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);

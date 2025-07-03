@@ -78,7 +78,7 @@ watching was cheering him on!");
         ChMouth(8,2);
         ChMotion(8,1,1);
         MsgDisp("主人公","Hey.
-This is unlike you,｛大地＊＊｝.
+This is unlike you, ｛大地＊＊｝.
 Let's cheer up!");
         ChEye(8,0);
         ChMouth(8,1);

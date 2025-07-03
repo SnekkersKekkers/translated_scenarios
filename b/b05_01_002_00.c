@@ -82,7 +82,7 @@ MsgClose();
 ChOpen(1,255,0,0,3,-1,-1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for the meal.
-Thank you,｛風真＊＊｝.");
+Thank you, ｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -42,7 +42,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110200_01_050");
 MsgDisp("Kazama","Anyway, get ready for what's coming next.");
-MsgDisp("主人公","(What's wrong,｛風真＊＊｝?)");
+MsgDisp("主人公","(What's wrong, ｛風真＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

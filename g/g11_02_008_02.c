@@ -9,7 +9,7 @@ ChOpen(2,41,3,0,4,-1,-1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200802_02_000");
 MsgDisp("Sassa","｛主人公｝.");
-MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 Are you training on your lunch break too?");
 ChEye(2,0);
 ChMouth(2,4);

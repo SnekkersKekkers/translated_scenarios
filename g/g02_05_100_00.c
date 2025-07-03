@@ -7,7 +7,7 @@ ChMotion(5,4);
 VoicePlay("G020510000_05_010");
 MsgDisp("Hiiragi","To me,
 you seem to be illuminated.");
-MsgDisp("主人公","Hehe,｛柊＊＊＊｝ also.");
+MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ also.");
 ChEye(5,2);
 VoicePlay("G020510000_05_020");
 MsgDisp("Hiiragi","Right now, I'm the only one looking at

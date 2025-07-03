@@ -85,7 +85,7 @@ it won't go off to the side.");
         SEPlay("EV_SE_061",0.5);
         SEWait();
         MsgDisp("主人公","Yay!
-It went in,｛颯砂＊＊｝!");
+It went in, ｛颯砂＊＊｝!");
         MsgClose();
         SEPlay("EV_SE_544",0,0.5);
         ChOpen(2,253,0,0,0,-1,-1,0,0);

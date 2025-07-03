@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("F110110000_01_000");
 MsgDisp("Kazama","｛主人公｝, are you having fun?");
-MsgDisp("主人公","Yep! What about you,｛風真＊＊｝?");
+MsgDisp("主人公","Yep! What about you, ｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

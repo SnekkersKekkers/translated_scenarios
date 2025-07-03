@@ -28,7 +28,7 @@ in your christmas outfit. I thought you
 would've known about it, seeing that
 you're well-informed about the city.");
 MsgDisp("主人公","No, I didn't know.
-Thank you,｛風真＊＊｝.");
+Thank you, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -14,7 +14,7 @@ but...)");
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("P630600002_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 Welcome!");
     ChEye(6,0);
     ChMouth(6,0);

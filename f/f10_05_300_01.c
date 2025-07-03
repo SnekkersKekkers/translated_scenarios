@@ -72,7 +72,7 @@ ChOpen(21,254,0,0,4,-1,-1,0,2);
 VoicePlay("F100530001_21_010");
 MsgDisp("Michiru","Both Hikaru and Yanosuke-san are 
 getting carried away, aren't they?");
-MsgDisp("主人公","Ah,｛みちる＊｝.");
+MsgDisp("主人公","Ah, ｛みちる＊｝.");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,1,1);

@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","(This year we're showing traditional
 wedding dresses. I think I was able to
 make it pretty but...)");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -66,7 +66,7 @@ This is my last runway, let's enjoy it.)");
     MsgDisp("主人公","(This year we're showing traditional
 wedding dresses. I think I was able to
 make it pretty but...)");
-    MsgDisp("主人公","Ah,｛風真＊＊｝, did you come to watch?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, did you come to watch?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

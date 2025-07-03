@@ -7,7 +7,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(5,254,4,0,4,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 What are you up to?");
 ChEye(5,4);
 VoicePlay("G110500100_05_000");

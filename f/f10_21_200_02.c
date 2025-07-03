@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(21,254,0,0,0,-1,-1,0,0,0,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah,｛みちる＊｝.");
+MsgDisp("主人公","Ah, ｛みちる＊｝.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -12,7 +12,7 @@ VoicePlay("F102120002_21_000");
 MsgDisp("Michiru","Mari.
 You're looking lively
 and cute today too.");
-MsgDisp("主人公","Come on,｛みちる＊｝!
+MsgDisp("主人公","Come on, ｛みちる＊｝!
 I'm embarrassed....");
 ChClose(21,0,30);
 MsgClose();
@@ -24,7 +24,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F102120002_06_000");
 MsgDisp("Himuro","Ah.");
-MsgDisp("主人公","Ah,｛氷室＊＊｝.");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

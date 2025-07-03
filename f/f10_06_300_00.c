@@ -14,7 +14,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,254,0,0,4,-1,-1,0,1,0,30);
 ChOpen(22,254,0,0,2,-1,-1,0,2,0,30);
-MsgDisp("主人公","｛みちる＊｝,｛ひかる＊｝.
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 What's wrong?");
 ChEye(21,4);
 ChMouth(21,0);

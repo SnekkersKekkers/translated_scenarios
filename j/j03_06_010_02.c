@@ -4,7 +4,7 @@ MsgDisp("主人公","(Oh,it's a call from ｛氷室＊＊｝ )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
-MsgDisp("主人公","Hello,｛氷室＊＊｝?");
+MsgDisp("主人公","Hello, ｛氷室＊＊｝?");
 VoicePlay("J030601002_06_000");
 MsgDisp("Himuro","The voicemail, I heard it. I can't because
 I'm working part-time that day.");

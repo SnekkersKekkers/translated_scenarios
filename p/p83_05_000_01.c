@@ -32,7 +32,7 @@ dizzy.)");
     VoicePlay("P830500001_05_000");
     MsgDisp("Hiiragi","｛主人公｝, good work.
 You seem busy.");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 That's right, I wonder if there's 
 even enough materials...");
     ChMotion(5,0);

@@ -70,7 +70,7 @@ MsgDisp("Kazama","Yeah, I was hiding it in my uniform, and
 completely missed the chance to give it to
 you?");
 MsgDisp("主人公","Hehe, yay!
-Thank you,｛風真＊＊｝.");
+Thank you, ｛風真＊＊｝.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);

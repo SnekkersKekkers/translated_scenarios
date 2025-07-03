@@ -25,7 +25,7 @@ ChMotion(3,0);
 VoicePlay("G020320101_03_030");
 MsgDisp("Honda","Yeah. 
 If you hated me, I could just give up.");
-MsgDisp("主人公","Um,｛本多＊＊｝......?");
+MsgDisp("主人公","Um, ｛本多＊＊｝......?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

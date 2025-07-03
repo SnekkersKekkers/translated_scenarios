@@ -11,7 +11,7 @@ ChOpen(1,254,0,4,2,-1,-1,0,0);
 VoicePlay("P540100003_01_000");
 MsgDisp("Kazama","It's not a problem of 
 nerves or anything, is it?");
-MsgDisp("主人公","Ah,｛風真＊＊｝...
+MsgDisp("主人公","Ah, ｛風真＊＊｝...
 Y-yeah. ");
 ChEye(1,0);
 ChMouth(1,3);

@@ -9,7 +9,7 @@ BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(21,254,0,0,0,-1,-1,0,1);
 ChOpen(22,254,0,0,3,-1,-1,0,2);
 MsgDisp("主人公","Ah.
-｛みちる＊｝,｛ひかる＊｝!");
+｛みちる＊｝, ｛ひかる＊｝!");
 ChMotion(22,4,1);
 VoicePlay("T020D50000_22_000");
 MsgDisp("Hikaru","Congratulations on your graduation, Mari♪");

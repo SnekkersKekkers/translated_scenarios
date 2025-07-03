@@ -11,7 +11,7 @@ VoicePlay("B040530001_05_000");
 MsgDisp("Hiiragi","There's a training room in here, 
 And there's some members even live onsite.
 It's always noisy, you know?");
-MsgSel("It's quiet today huh?","Is this the only place where you can be alone,｛柊＊＊＊｝?","Do you memorize your lines in this room?");
+MsgSel("It's quiet today huh?","Is this the only place where you can be alone, ｛柊＊＊＊｝?","Do you memorize your lines in this room?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

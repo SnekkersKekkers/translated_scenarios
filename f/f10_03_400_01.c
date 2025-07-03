@@ -57,7 +57,7 @@ MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,-1,-1,0,2);
 MsgDisp("主人公","You were right!
-Amazing,｛本多＊＊｝.");
+Amazing, ｛本多＊＊｝.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);

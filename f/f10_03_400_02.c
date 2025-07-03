@@ -60,7 +60,7 @@ ChMotion(3,1,1);
 VoicePlay("F100340002_03_050");
 MsgDisp("Honda","Yes, I found Mii-kun.");
 MsgDisp("主人公","Hehe, you really did!
-As you strategized,｛本多＊＊｝.");
+As you strategized, ｛本多＊＊｝.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -80,7 +80,7 @@ VoicePlay("F100340002_04_020");
 MsgDisp("Nanatsumori","I'm a person, so
 don't treat me like a cat.");
 MsgDisp("主人公","Hehe.
-But just where were you,｛七ツ森＊｝?");
+But just where were you, ｛七ツ森＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);

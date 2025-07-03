@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040321300_03_000");
 MsgDisp("Honda","Hmm, 
 Maybe I'm a cat after all?");
-MsgSel("Yeah,｛本多＊＊｝ is a bit cat-like?","Eh, doggies are cute too?","Shall we stay here forever?");
+MsgSel("Yeah, ｛本多＊＊｝ is a bit cat-like?","Eh, doggies are cute too?","Shall we stay here forever?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

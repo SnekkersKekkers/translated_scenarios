@@ -18,7 +18,7 @@ Could I get more cardboardー?");
     VoiceEVSPlay(6);
     VoicePlay("P830600001_06_000");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

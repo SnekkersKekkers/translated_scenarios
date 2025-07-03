@@ -19,7 +19,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B150510000_05_020");
 MsgDisp("Hiiragi","Come on, come here.");
-MsgDisp("主人公","(Ehh,｛柊＊＊＊｝...?)");
+MsgDisp("主人公","(Ehh, ｛柊＊＊＊｝...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

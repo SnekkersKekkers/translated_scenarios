@@ -21,7 +21,7 @@ I'm glad I did my best ......!)");
     VoicePlay("X110400000_04_010");
     MsgDisp("Nanatsumori","｛主人公｝,congrats. I heard you won the
 baseball team's practice game.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 That's right!");
     ChEye(4,2);
     ChMouth(4,3);

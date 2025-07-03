@@ -34,7 +34,7 @@ Let's go on a date again, okay?");
 VoicePlay("B100800000_08_060");
 MsgDisp("Shirahane","Well then, I'll see you later.
 Goodnight.");
-MsgDisp("主人公","Goodnight,｛大地＊＊｝.");
+MsgDisp("主人公","Goodnight, ｛大地＊＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(｛大地＊＊｝...

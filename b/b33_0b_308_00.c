@@ -77,7 +77,7 @@ VoicePlay("B330B30800_04_030");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","You're letting it show 
 all over your face.
-Right,｛主人公｝.");
+Right, ｛主人公｝.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Eh?");

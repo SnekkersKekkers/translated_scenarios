@@ -40,7 +40,7 @@ ChOpen(6,253,2,2,1,0,-1,0,1,0,30);
 BGMPlay("BGM_C06_INORI_A",0.01);
 VoicePlay("B110600002_06_000");
 MsgDisp("Himuro","She looks clearly troubled to me.");
-MsgDisp("主人公","Ah,｛氷室＊＊｝!");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
 MsgDispSksp(1,5);
 ChEye(6,0);
 ChMouth(6,0);

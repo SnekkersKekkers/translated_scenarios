@@ -53,7 +53,7 @@ MsgDisp("Mikage","I'm also worried about my bonus
 evaluation......");
 MsgDisp("主人公","(I see......teachers also have something
 like report cards. Good
-luck,｛御影＊＊｝......!)");
+luck, ｛御影＊＊｝......!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

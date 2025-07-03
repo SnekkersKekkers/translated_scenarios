@@ -66,7 +66,7 @@ skiing are half-baked.");
         ChCheek(4,8);
         VoicePlay("B040420002_04_070");
         MsgDisp("Nanatsumori","Why are you laughing?");
-        MsgDisp("主人公","That's just like you,｛七ツ森＊｝.");
+        MsgDisp("主人公","That's just like you, ｛七ツ森＊｝.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,1,1);
@@ -85,7 +85,7 @@ If you took that from me,
 I would have nothing left,");
         MsgDisp("主人公","That's not true.
 I respect that of you 
-very much,｛七ツ森＊｝.");
+very much, ｛七ツ森＊｝.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);

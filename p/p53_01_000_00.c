@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
 I wonder if I can do it properly......)");
     VoicePlay("P530100000_01_000");
     MsgDisp("Kazama?","You look awful, don't you?");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What a terrible face......");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

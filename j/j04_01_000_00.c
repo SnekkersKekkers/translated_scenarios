@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("J040100000_01_000");
     MsgDisp("Kazama","There you are.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What's wrong?");
     ChEye(1,0);
     ChMouth(1,0);
@@ -53,7 +53,7 @@ I wonder if he wanted something?)");
     VoiceEVSPlay(1);
     VoicePlay("J040100000_01_030");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What's wrong?");
     ChEye(1,0);
     ChMouth(1,0);

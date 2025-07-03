@@ -17,7 +17,7 @@ ChMotion(2,4);
 VoicePlay("G020220201_02_020");
 MsgDisp("Sassa","Maybe it's just his natural trait, but
 it's impressive.");
-MsgDisp("主人公","Haha,｛颯砂＊＊｝ likes those things about
+MsgDisp("主人公","Haha, ｛颯砂＊＊｝ likes those things about
 ｛氷室＊＊｝ doesn't he?");
 ChEye(2,0);
 ChMouth(2,2);

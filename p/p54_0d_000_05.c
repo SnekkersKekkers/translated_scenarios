@@ -44,7 +44,7 @@ ChMotion(22,3,1);
 VoicePlay("P540D00005_22_020");
 MsgDisp("Hikaru","Right, right!
 The future will shine even brighter!");
-MsgDisp("主人公","(｛みちる＊｝,｛ひかる＊｝...
+MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝...
 My last perfromance was a failure, 
 but I'm glad I continued with
 the wind music club!)");

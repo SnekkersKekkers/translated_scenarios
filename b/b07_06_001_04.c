@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey,｛氷室＊＊｝.
+MsgDisp("主人公","Hey, ｛氷室＊＊｝.
 What do you normally talk about with
 ｛風真＊＊｝ and ｛颯砂＊＊｝?");
 ChEye(6,0);

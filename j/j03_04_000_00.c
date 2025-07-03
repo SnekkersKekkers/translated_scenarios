@@ -18,7 +18,7 @@ I hope that ｛日付｝ comes soon!)");
     VoicePlay("J030400000_04_020");
     MsgDisp("Nanatsumori","ＯＫ.
 The rendezvous will be?");
-    MsgDisp("主人公","Then,｛日付｝ I'll be waiting for you at
+    MsgDisp("主人公","Then, ｛日付｝ I'll be waiting for you at
 the ｛待ち合わせ場所｝.");
     VoicePlay("J030400000_04_030");
     MsgDisp("Nanatsumori","Roger.
@@ -32,7 +32,7 @@ I hope that ｛日付｝ comes soon!)");
     case 5:
     VoicePlay("J030400000_04_040");
     MsgDisp("Nanatsumori","I'll be there.");
-    MsgDisp("主人公","Then,｛日付｝ I'll be waiting for you at
+    MsgDisp("主人公","Then, ｛日付｝ I'll be waiting for you at
 the ｛待ち合わせ場所｝.");
     VoicePlay("J030400000_04_050");
     MsgDisp("Nanatsumori","Gotcha.");

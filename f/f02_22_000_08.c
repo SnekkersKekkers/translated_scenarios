@@ -14,7 +14,7 @@ MsgDisp("Hikaru","Right～♪
 Hikaru is already so excited
 it's a problem!");
 MsgDisp("主人公","Hehe, what exhibit are you
-that excited for,｛ひかる＊｝?");
+that excited for, ｛ひかる＊｝?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);

@@ -80,7 +80,7 @@ ChClose(7,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,4,-1,-1,0,0,0,30);
-MsgDisp("主人公","Are you coming too,｛御影＊＊｝?");
+MsgDisp("主人公","Are you coming too, ｛御影＊＊｝?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,4);

@@ -11,7 +11,7 @@ MsgDisp("主人公","(Eh∋　it's from ｛風真＊＊｝.)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 Wait(30,0);
-MsgDisp("主人公","Hello,｛風真＊＊｝?
+MsgDisp("主人公","Hello, ｛風真＊＊｝?
 That's amazing. I was just thinking
 about you.");
 VoicePlay("D010100500_01_000");

@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 2:
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    MsgDisp("主人公","Oh,｛風真＊＊｝!");
+    MsgDisp("主人公","Oh, ｛風真＊＊｝!");
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     MsgClose();
     ChOpen(1,253,1,0,1,8,-1,0,0,0,30);
@@ -28,7 +28,7 @@ first...");
     MsgDispSksp(0);
     break ;
     case 3:
-    MsgDisp("主人公","Oh,｛風真＊＊｝!");
+    MsgDisp("主人公","Oh, ｛風真＊＊｝!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
@@ -48,7 +48,7 @@ want to keep you waiting.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Oh,｛風真＊＊｝!");
+    MsgDisp("主人公","Oh, ｛風真＊＊｝!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);

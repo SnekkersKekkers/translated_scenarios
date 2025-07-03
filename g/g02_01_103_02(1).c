@@ -71,7 +71,7 @@ VoicePlay("G020110302_01_080");
 MsgDisp("Kazama","No, matching swimsuits would be
 crazy......");
 MsgDisp("主人公","(I could hear everything you
-said,｛風真＊＊｝...... Maybe this is your
+said, ｛風真＊＊｝...... Maybe this is your
 inner voice?)");
 BGMStop();
 MsgClose();

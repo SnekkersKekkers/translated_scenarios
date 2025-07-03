@@ -48,7 +48,7 @@ hard work is the real deal.
 Your current self is proof of it.");
     SEPlay("EV_SE_038");
     SEWait();
-    MsgDisp("主人公","Thank you,｛柊＊＊＊｝.
+    MsgDisp("主人公","Thank you, ｛柊＊＊＊｝.
 For my last performance, 
 I'll give it my all.");
     ChMotion(5,3);
@@ -78,7 +78,7 @@ it my all these last three years?)");
     VoicePlay("P530500002_05_050");
     MsgDisp("Hiiragi","｛主人公｝,
 This is your last performance, correct?");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Thank you for coming.");
     ChEye(5,2);
     ChMouth(5,4);
@@ -121,7 +121,7 @@ of whether you're satisfied?");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Ah, it's starting!
-Thank you,｛柊＊＊＊｝!
+Thank you, ｛柊＊＊＊｝!
 I'll play my last performance now.");
     ChEye(5,4);
     ChMouth(5,4);

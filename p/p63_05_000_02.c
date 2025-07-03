@@ -15,7 +15,7 @@ in the Horticulture club...)");
     ChOpen(5,254,2,0,4,-1,-1,0,0);
     VoicePlay("P630500002_05_000");
     MsgDisp("Hiiragi","This is amazing...");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
 Welccome..");
     ChEye(5,0);
     ChMouth(5,4);

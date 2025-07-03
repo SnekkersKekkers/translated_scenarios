@@ -24,7 +24,7 @@ MsgDisp("Mikage","Come on, this is at maximum magnification.
 Observe carefully.");
 MsgDisp("主人公","...Y-you're close.
 But, your eyes are pretty 
-aren't they,｛御影＊＊｝?");
+aren't they, ｛御影＊＊｝?");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,1);

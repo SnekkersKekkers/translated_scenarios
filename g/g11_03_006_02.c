@@ -53,7 +53,7 @@ MsgClose();
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,2,-1,-1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","......Ah,｛本多＊＊｝.
+MsgDisp("主人公","......Ah, ｛本多＊＊｝.
 Isn't it time to head back up already?");
 ChMotion(3,1);
 VoicePlay("G110300602_03_050");

@@ -79,7 +79,7 @@ not going to leave you alone.");
         VoicePlay("B040123602_01_060");
         MsgDisp("Kazama","Come on, let's go!");
         SEPlay("EV_SE_504");
-        MsgDisp("主人公","Waa,｛風真＊＊｝!");
+        MsgDisp("主人公","Waa, ｛風真＊＊｝!");
         SEWait();
         MsgClose();
         SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");

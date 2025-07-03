@@ -47,7 +47,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040523402_05_030");
         MsgDisp("Hiiragi","Are you alright?");
         MsgDisp("主人公","Yeah.
-What about you,｛柊＊＊＊｝?");
+What about you, ｛柊＊＊＊｝?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

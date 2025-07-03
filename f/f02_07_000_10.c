@@ -25,7 +25,7 @@ and preparing from the very beginning,
 so I'm telling you.");
 MsgDisp("主人公","Yes. From stage preparations 
 to the script and acting, you supported
-us with everything,｛御影＊＊｝.");
+us with everything, ｛御影＊＊｝.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

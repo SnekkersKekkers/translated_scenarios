@@ -1,7 +1,7 @@
 MsgClose();
 ChClose(6,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh,｛氷室＊＊｝
+MsgDisp("主人公","Huh, ｛氷室＊＊｝
 Still hasn't come yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -97,7 +97,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B110600001_06_040");
 MsgDisp("Himuro","Honestly... people like that
 lower the quality of the sea.");
-MsgDisp("主人公","Um,｛氷室＊＊｝...
+MsgDisp("主人公","Um, ｛氷室＊＊｝...
 Thank you.");
 ChEye(6,0);
 ChMouth(6,0);

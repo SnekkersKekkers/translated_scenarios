@@ -68,7 +68,7 @@ MsgDisp("Mikage","Listen up, at first glance you might
 be different but you should 
 cherish the friends you can empathise
 with on a deeper level okay?");
-MsgDisp("主人公","(｛御影＊＊｝,｛柊＊＊＊｝ and ｛氷室＊＊｝
+MsgDisp("主人公","(｛御影＊＊｝, ｛柊＊＊＊｝ and ｛氷室＊＊｝
 appear completely different, 
 but maybe they have some 
 similarities too?)");

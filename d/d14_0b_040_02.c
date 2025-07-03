@@ -97,7 +97,7 @@ MsgDisp("Honda","Ah... that's right!
 That was close.");
 MsgDisp("主人公","(He was planning on buying 
 some sweet bread huh...
-But,｛本多＊＊｝ is kind.)");
+But, ｛本多＊＊｝ is kind.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

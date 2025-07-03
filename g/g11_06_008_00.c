@@ -1,6 +1,6 @@
 BGOpen("ar200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah,｛氷室＊＊｝ good work today.
+MsgDisp("主人公","Ah, ｛氷室＊＊｝ good work today.
 Are you already finished for the day?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

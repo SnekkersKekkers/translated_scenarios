@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("J030401000_04_000");
     MsgDisp("Nanatsumori","Ah......I.
 I know it's a voicemail thing, but okay.");
-    MsgDisp("主人公","Really? Well then,｛日付｝ I'll be waiting
+    MsgDisp("主人公","Really? Well then, ｛日付｝ I'll be waiting
 for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030401000_04_010");
     MsgDisp("Nanatsumori","Okay, okay.");

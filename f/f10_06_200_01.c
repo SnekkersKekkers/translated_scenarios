@@ -8,7 +8,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,254,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛本多＊＊｝.");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);

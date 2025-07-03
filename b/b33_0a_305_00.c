@@ -32,7 +32,7 @@ ChMotion(6,4);
 VoicePlay("B330A30500_06_010");
 MsgDisp("Himuro","Yes.
 Then, next it's my turn.");
-MsgDisp("主人公","Do your best too,｛氷室＊＊｝.");
+MsgDisp("主人公","Do your best too, ｛氷室＊＊｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(6,0,30);
@@ -66,7 +66,7 @@ VoicePlay("B330A30500_01_020");
 MsgDisp("Kazama","Yeah, you'll get 60 
 points with a triple 20.");
 MsgDisp("主人公","So that's how it is!
-Do your best,｛氷室＊＊｝!");
+Do your best, ｛氷室＊＊｝!");
 VoicePlay("B330A30500_06_030");
 MsgDisp("Himuro","Yo!");
 SEPlay("EV_SE_086");

@@ -18,7 +18,7 @@ match. Congratulations.");
     VoicePlay("X110200002_02_010");
     MsgDisp("Sassa","I see you are training hard and working
 hard. I can't lose either.");
-    MsgDisp("主人公","(Yay,｛颯砂＊＊｝ praised me!
+    MsgDisp("主人公","(Yay, ｛颯砂＊＊｝ praised me!
 Let's practice harder!)");
     break ;
     case 4:

@@ -49,7 +49,7 @@ it's finally the runway...I'm nervous..)");
     ChOpen(3,254,5,4,3,-1,-1,0,0);
     VoicePlay("P730300000_03_030");
     MsgDisp("Honda","Waa, it's a model...");
-    MsgDisp("主人公","Ah,｛本多＊＊｝, you came.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝, you came.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);

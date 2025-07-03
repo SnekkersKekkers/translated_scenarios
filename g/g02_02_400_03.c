@@ -34,7 +34,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240003_02_040");
 MsgDisp("Sassa","Well, she is my Mom after all.");
-MsgDisp("主人公","By sticking to the plan,｛颯砂＊＊｝
+MsgDisp("主人公","By sticking to the plan, ｛颯砂＊＊｝
 is also doing great.");
 ChEye(2,0);
 ChMouth(2,2);

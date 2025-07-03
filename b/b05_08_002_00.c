@@ -78,7 +78,7 @@ StlEye(8,3);
 StlMouth(8,0);
 VoicePlay("B050800200_08_100");
 MsgDisp("Shirahane","Eh?");
-MsgDisp("主人公","Right now,｛大地＊＊｝ seems like he's
+MsgDisp("主人公","Right now, ｛大地＊＊｝ seems like he's
 giving everything he's got too.");
 StlEye(8,3);
 StlMouth(8,0);
@@ -133,7 +133,7 @@ ChEyeOpenLevel(8,0);
 VoicePlay("B050800200_08_180");
 VoiceEVSPlay(8);
 MsgDisp("Shirahane","Hehe!
-Thanks a lot,｛主人公｝.");
+Thanks a lot, ｛主人公｝.");
 MsgDisp("主人公","I didn't do anything...");
 ChEye(8,4);
 ChMouth(8,0);

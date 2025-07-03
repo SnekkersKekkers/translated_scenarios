@@ -13,7 +13,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
 VoicePlay("P540400005_04_000");
 MsgDisp("Nanatsumori","Good work.");
-MsgDisp("主人公","Ah,｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 I messed up even though it was the end...");
 ChEye(4,2);
 ChMouth(4,4);

@@ -67,7 +67,7 @@ VoicePlay("D140B05002_04_030");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Ah, yeah.
 That's right. That's all.
-Right,｛主人公｝?");
+Right, ｛主人公｝?");
 MsgDisp("主人公","Ah...Yeah.");
 ChEye(1,0);
 ChMouth(1,2);

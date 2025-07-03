@@ -23,7 +23,7 @@ I was praised by ｛御影＊＊｝!)");
     VoicePlay("X110700003_07_010");
     MsgDisp("Mikage","Haa...
 I wanted to see it too.");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 What's up?");
     ChEye(7,0);
     ChMouth(7,0);

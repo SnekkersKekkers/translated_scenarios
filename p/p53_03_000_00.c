@@ -17,7 +17,7 @@ performance. I'm getting nervous...)");
     VoicePlay("P530300000_03_000");
     MsgDisp("Honda","｛主人公｝,
 What's the matter?");
-    MsgDisp("主人公","Ah,｛本多＊＊｝...
+    MsgDisp("主人公","Ah, ｛本多＊＊｝...
 I'm a bit nervous...");
     ChEye(3,4);
     ChMouth(3,4);
@@ -64,7 +64,7 @@ performance. I'm getting nervous...)");
     ChOpen(3,254,0,0,0,-1,-1,0,0);
     VoicePlay("P530300000_03_050");
     MsgDisp("Honda","Huh, you look nervous.");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 When I see the audience, 
 my heart starts pounding...");
     ChEye(3,4);

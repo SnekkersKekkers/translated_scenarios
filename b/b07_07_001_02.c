@@ -51,7 +51,7 @@ MsgDisp("Mikage","If he shows up looking like
 he's looking for me, just go talk 
 to him. That's enough.");
 MsgDisp("主人公","Yes.
-But,｛御影＊＊｝ why are you so close 
+But, ｛御影＊＊｝ why are you so close 
 to ｛氷室＊＊｝?");
 ChEye(7,4);
 ChMouth(7,3);

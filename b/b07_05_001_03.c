@@ -17,7 +17,7 @@ VoicePlay("B070500001_05_200");
 MsgDisp("Hiiragi","But thanks to Inori-kun and
 Mikage-sensei,
 my world has changed.");
-MsgDisp("主人公","Eh,｛御影＊＊｝
+MsgDisp("主人公","Eh, ｛御影＊＊｝
 isn't the same age though...");
 ChEye(5,4);
 ChMotion(5,4);

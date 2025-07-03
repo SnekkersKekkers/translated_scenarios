@@ -1,4 +1,4 @@
-MsgDisp("主人公","Do you watch TV,｛ひかる＊｝?");
+MsgDisp("主人公","Do you watch TV, ｛ひかる＊｝?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

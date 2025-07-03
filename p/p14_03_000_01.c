@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P140300001_03_000");
 MsgDisp("Honda","Huh......");
-MsgDisp("主人公","Ah,｛本多＊＊｝, welcome back.");
+MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome back.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);

@@ -33,7 +33,7 @@ ChEyeOpenLevel(22,10);
 VoicePlay("F102230001_22_020");
 MsgDisp("Hikaru","Ehh∋
 But, it had a crest on its head!");
-MsgDisp("主人公","｛ひかる＊｝,｛みちる＊｝!
+MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝!
 Could it be you're talking about...");
 ChEye(21,4);
 ChMouth(21,4);

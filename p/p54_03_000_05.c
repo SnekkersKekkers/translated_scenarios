@@ -14,7 +14,7 @@ VoiceEVSPlay(3);
 VoicePlay("P540300005_03_000");
 MsgDisp("Honda","｛主人公｝.
 Good work.");
-MsgDisp("主人公","Ah,｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Even though it was my last,
 I still failed...");
 ChEye(3,4);

@@ -27,7 +27,7 @@ ChMotion(8,1,1);
 VoicePlay("G020810303_08_030");
 MsgDisp("Shirahane","I can't forgive something like that!");
 MsgDisp("主人公","Hehe.
-Thank you for helping me,｛大地＊＊｝.");
+Thank you for helping me, ｛大地＊＊｝.");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,0,1);
@@ -40,7 +40,7 @@ VoicePlay("G020810303_08_050");
 MsgDisp("Shirahane","......Actually, it was my fault for being
 late......I'm sorry!");
 MsgDisp("主人公","(Hehe,
-I'm counting on you,｛大地＊＊｝!)");
+I'm counting on you, ｛大地＊＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

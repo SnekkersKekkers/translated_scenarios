@@ -98,8 +98,8 @@ VoicePlay("B140400100_04_110");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Once more. So that I don't forget this
 moment for the rest of my life.
-Merry Christmas,｛主人公｝.");
-MsgDisp("主人公","Merry Christmas,｛七ツ森＊｝.");
+Merry Christmas, ｛主人公｝.");
+MsgDisp("主人公","Merry Christmas, ｛七ツ森＊｝.");
 MsgDisp("主人公","(I think I'm feeling happy too...)");
 BGMStop();
 MsgClose();

@@ -7,7 +7,7 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090600000_06_000");
 MsgDisp("Himuro","Hello, it's me.");
-MsgDisp("主人公","Huh,｛氷室＊＊｝?");
+MsgDisp("主人公","Huh, ｛氷室＊＊｝?");
 VoicePlay("B090600000_06_010");
 MsgDisp("Himuro","You know why I called you right?");
 VoicePlay("B090600000_06_020");

@@ -16,7 +16,7 @@ well-received...)");
     VoicePlay("P630100001_01_000");
     MsgDisp("Kazama","Pardon the intrusion.
 I came to enjoy some herbal tea.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Welcome. This year we're also 
 doing a vegetable sale.");
     ChEye(1,0);
@@ -51,7 +51,7 @@ well-received...)");
     VoicePlay("P630100001_01_030");
     MsgDisp("Kazama","Business is thriving, huh?
 Are there still the vegetables you grew?");
-    MsgDisp("主人公","Ah,｛風真＊＊｝!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

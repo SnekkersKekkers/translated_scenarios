@@ -3,7 +3,7 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛氷室＊＊｝. Are you headed to the
+MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you headed to the
 beach after this, today too?");
 ChEye(6,0);
 ChMouth(6,0);

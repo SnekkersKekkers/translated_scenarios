@@ -15,7 +15,7 @@ But as expected, I'm still anxious.)");
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("P530600001_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -45,7 +45,7 @@ time as much as possible?");
     ChMotion(6,0);
     VoicePlay("P530600001_06_040");
     MsgDisp("Himuro","Then, I'll also go enjoy it.");
-    MsgDisp("主人公","Thank you,｛氷室＊＊｝.");
+    MsgDisp("主人公","Thank you, ｛氷室＊＊｝.");
     MsgDisp("主人公","(Alright, let's have fun performing!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -63,7 +63,7 @@ But as expected, I'm still anxious.)");
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("P530600001_06_050");
     MsgDisp("Himuro","You're here.");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝!
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
 You came?");
     ChEye(6,0);
     ChMouth(6,4);

@@ -18,7 +18,7 @@ I have to patrol carefully...!)");
     VoicePlay("P830700002_07_000");
     MsgDisp("Mikage","｛主人公｝. IS it okay for you to be
 wandering around aimlessly?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Right now I'm patrolling.");
     ChEye(7,2);
     ChMouth(7,0);
@@ -59,7 +59,7 @@ I have to patrol carefully...!)");
     VoicePlay("P830700002_07_040");
     MsgDisp("Mikage","｛主人公｝.
 What are doing all alone?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Ah right now I'm in the middle
 of patrolling inside the school.");
     ChEye(7,0);

@@ -70,7 +70,7 @@ VoicePlay("G020110305_01_080");
 MsgDisp("Kazama","Ah, time really did stop just once, right?
 Behind the curtains in the classroom.");
 MsgDisp("主人公","Ah, yeah.
-That time,｛風真＊＊｝......");
+That time, ｛風真＊＊｝......");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -32,7 +32,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 MsgDisp("主人公","Yes.
 These are vegetables 
-you grew, right,｛御影＊＊｝?");
+you grew, right, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

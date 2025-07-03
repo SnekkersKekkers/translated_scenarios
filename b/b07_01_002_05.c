@@ -1,4 +1,4 @@
-MsgDisp("主人公","What does ｛風真＊＊｝,｛本多＊＊｝ and
+MsgDisp("主人公","What does ｛風真＊＊｝, ｛本多＊＊｝ and
 ｛七ツ森＊｝ think of me?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -34,7 +34,7 @@ VoicePlay("B070100002_01_310");
 MsgDisp("Kazama","I don't know.
 I guess it's a good thing because 
 you're like a familiar presence?");
-MsgDisp("主人公","What about you,｛風真＊＊｝?");
+MsgDisp("主人公","What about you, ｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);

@@ -16,7 +16,7 @@ in the Horticulture club...)");
     VoicePlay("P630300002_03_000");
     MsgDisp("Honda","Eh!
 It's like a real cafe.");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Welcome.");
     ChEye(3,0);
     ChMouth(3,0);

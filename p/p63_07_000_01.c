@@ -16,7 +16,7 @@ received.)");
     VoicePlay("P630700001_07_000");
     MsgDisp("Mikage","This year has had a 
 good start, hasn;t it?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Seems like the vegetables 
 sale is drawing attention.");
     ChEye(7,0);
@@ -49,7 +49,7 @@ received.)");
     VoicePlay("P630700001_07_030");
     MsgDisp("Mikage","｛主人公｝, 
 This is a so-so turnout huh?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Welcome!");
     ChEye(7,0);
     ChMouth(7,0);

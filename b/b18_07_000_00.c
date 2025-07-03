@@ -6,7 +6,7 @@ VoicePlay("B180700000_07_000");
 MsgDisp("Mikage","｛主人公｝.
 How's that?");
 MsgDisp("主人公","Ehhh∋
-What's wrong,｛御影＊＊｝, 
+What's wrong, ｛御影＊＊｝, 
 that way of addressing me...");
 ChEye(7,0);
 ChMouth(7,0);

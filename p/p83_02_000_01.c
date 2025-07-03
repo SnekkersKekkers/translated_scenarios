@@ -23,7 +23,7 @@ n out of other supplies.");
     ChOpen(2,254,3,0,4,-1,-1,0,0);
     VoicePlay("P830200001_02_000");
     MsgDisp("Sassa","The student council seems busy.");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 I'm in charge of supplies, so if 
 you need anything, tell me okay?");
     ChEye(2,0);
@@ -67,7 +67,7 @@ There's lots prepared.");
     VoiceEVSPlay(2);
     VoicePlay("P830200001_02_040");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝, whats the matter?
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝, whats the matter?
 Is there something you needed?");
     ChEye(2,3);
     ChMouth(2,3);
@@ -97,7 +97,7 @@ I have them here.");
     VoicePlay("P830200001_02_070");
     MsgDisp("Sassa","Then, I'll come back later.
 Do your bestー!");
-    MsgDisp("主人公","Thank you,｛颯砂＊＊｝!");
+    MsgDisp("主人公","Thank you, ｛颯砂＊＊｝!");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

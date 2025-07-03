@@ -48,7 +48,7 @@ MsgDisp("Hiiragi","But, it's wonderful to have this kind of
 relationship. This is my first time, So,
 I'm truly happy.");
 MsgDisp("主人公","(It would be great if
-｛柊＊＊＊｝,｛氷室＊＊｝ and ｛御影＊＊｝
+｛柊＊＊＊｝, ｛氷室＊＊｝ and ｛御影＊＊｝
 could always be together huh......)");
 BGMStop();
 MsgClose();

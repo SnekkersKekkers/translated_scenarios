@@ -13,7 +13,7 @@ SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 MsgClose();
 ChOpen(2,41,3,0,3,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 Are you running?");
 ChEye(2,0);
 ChMouth(2,3);

@@ -19,7 +19,7 @@ property announcement?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(1,254,0,0,0,-1,-1,0,0);
-    MsgDisp("主人公","Ah,｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -29,7 +29,7 @@ It's a smartphone that was
 dropped in the hallway.");
     MsgDisp("主人公","Ah, this must be it! The person who
 dropped it must be so relieved. Thank
-you,｛風真＊＊｝.");
+you, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

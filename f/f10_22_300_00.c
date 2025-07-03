@@ -22,7 +22,7 @@ ChMotion(22,0,1);
 VoicePlay("F102230000_22_010");
 MsgDisp("Hikaru","Eh～∋
 But, it has long ears and red eyes");
-MsgDisp("主人公","｛ひかる＊｝,｛みちる＊｝!");
+MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝!");
 ChMouth(21,0);
 ChMotion(21,0);
 ChEye(22,3);

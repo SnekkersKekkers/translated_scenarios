@@ -6,7 +6,7 @@ ChMotion(7,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Come to think of it, It's already your
-birthday soon,｛御影＊＊｝.");
+birthday soon, ｛御影＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

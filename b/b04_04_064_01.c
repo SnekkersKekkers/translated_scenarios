@@ -51,7 +51,7 @@ VoicePlay("B040406401_04_060");
 MsgDisp("Nanatsumori","You're the one who asked a leading 
 question and now you're embarrassed?
 How funny.");
-MsgDisp("主人公","Hey,｛七ツ森＊｝!");
+MsgDisp("主人公","Hey, ｛七ツ森＊｝!");
 SEPlay("EV_SE_022",1);
 SEWait();
 ChEye(4,0);

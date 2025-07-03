@@ -54,7 +54,7 @@ of having you take the lift back.");
         MsgClose();
         SEPlay("EV_SE_536");
         ChClose(5,0,30);
-        MsgDisp("主人公","Ah,｛柊＊＊＊｝!");
+        MsgDisp("主人公","Ah, ｛柊＊＊＊｝!");
         VoicePlay("B040520002_05_060");
         MsgDisp("Hiiragi","Uuwahhー!");
         MsgClose();

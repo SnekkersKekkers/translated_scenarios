@@ -1,5 +1,5 @@
 MsgDisp("主人公","Do you have any dreams 
-for the future,｛ひかる＊｝?");
+for the future, ｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

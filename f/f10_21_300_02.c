@@ -13,7 +13,7 @@ MsgDisp("Michiru","Mari.");
 ChMotion(22,3,1);
 VoicePlay("F102130002_22_000");
 MsgDisp("Hikaru","Mari!");
-MsgDisp("主人公","｛みちる＊｝,｛ひかる＊｝.
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 What's up, you two?");
 ChMotion(21,3);
 VoicePlay("F102130002_21_010");

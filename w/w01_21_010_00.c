@@ -12,7 +12,7 @@ MsgDisp("Michiru","Hehe, Mari.
 Hey, why don't we go to the amusement
 park this Sunday?");
 MsgDisp("主人公","You want to go to the amusement
-park with just me,｛みちる＊｝?");
+park with just me, ｛みちる＊｝?");
 VoicePlay("W012101000_21_010");
 MsgDisp("Michiru","Nope, I'm inviting other people too.
 Though, who I'm inviting is a secret...

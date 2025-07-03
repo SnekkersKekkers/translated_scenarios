@@ -9,7 +9,7 @@ VoicePlay("B040606101_06_000");
 MsgDisp("Himuro","Haven't you been looking at 
 the beach house for a while now?
 Do you want something to eat?");
-MsgSel("I-I've been found out...","After I go for a swim.","That's you isn't it,｛氷室＊＊｝?");
+MsgSel("I-I've been found out...","After I go for a swim.","That's you isn't it, ｛氷室＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

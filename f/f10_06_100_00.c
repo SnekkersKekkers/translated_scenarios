@@ -10,7 +10,7 @@ Why don't you ask him yourself?");
 VoicePlay("F100610000_41_000");
 MsgDisp("Male Student","Don't say that, Himuroo～");
 MsgDisp("主人公","……？");
-MsgDisp("主人公","Ah,｛氷室＊＊｝.");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

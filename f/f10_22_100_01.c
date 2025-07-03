@@ -8,7 +8,7 @@ ChMotion(22,5,1);
 VoicePlay("F102210001_22_000");
 MsgDisp("Hikaru","Hm～m, I'm in a good
 mood today too♪");
-MsgDisp("主人公","Ah,｛ひかる＊｝!
+MsgDisp("主人公","Ah, ｛ひかる＊｝!
 You look like you're in high spirits.");
 ChEye(22,3);
 ChMouth(22,3);

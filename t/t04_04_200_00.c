@@ -32,7 +32,7 @@ VoicePlay("T040420000_04_020");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Ah, come on.
 Just give the hairpin back!
-This......is my fault,｛主人公｝.");
+This......is my fault, ｛主人公｝.");
 MsgClose();
 BGMStop(5);
 ScrFadeOut(0,0,300);

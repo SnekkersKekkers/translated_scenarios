@@ -67,7 +67,7 @@ Okay, come, come.");
         VoicePlay("B040421302_04_050");
         MsgDisp("Nanatsumori","Get close to me like 
 these guys are. I'll dote on you.");
-        MsgDisp("主人公","Hey,｛七ツ森＊｝!");
+        MsgDisp("主人公","Hey, ｛七ツ森＊｝!");
         ChEye(4,5);
         ChMouth(4,1);
         ChMotion(4,5,1);

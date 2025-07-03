@@ -13,7 +13,7 @@ ChMotion(22,4,1);
 VoicePlay("P730D00000_22_000");
 MsgDisp("Hikaru","Hii～ , Mari!
 How are preparations?");
-MsgDisp("主人公","｛ひかる＊｝,｛みちる＊｝...");
+MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝...");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);

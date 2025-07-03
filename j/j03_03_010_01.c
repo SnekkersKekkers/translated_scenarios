@@ -32,7 +32,7 @@ See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello,｛本多＊＊｝?");
+    MsgDisp("主人公","Hello, ｛本多＊＊｝?");
     VoicePlay("J030301001_03_030");
     MsgDisp("Honda","Sorry I didn't reply sooner.");
     MsgDisp("主人公","No, it's fine.
@@ -56,7 +56,7 @@ together! Well, I'll see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello,｛本多＊＊｝?");
+    MsgDisp("主人公","Hello, ｛本多＊＊｝?");
     VoicePlay("J030301001_03_060");
     MsgDisp("Honda","Yeah, I am.
 About the voicemail......");

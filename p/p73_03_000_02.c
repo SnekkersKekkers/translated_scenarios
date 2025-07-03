@@ -17,7 +17,7 @@ make it pretty but...)");
     ChOpen(3,254,5,3,3,-1,-1,0,0);
     VoicePlay("P730300002_03_000");
     MsgDisp("Honda","Waa...!");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Did you come to watch?");
     ChEye(3,0);
     ChMouth(3,0);
@@ -73,7 +73,7 @@ make it pretty but...)");
     ChOpen(3,254,4,1,4,0,-1,0,0);
     VoicePlay("P730300002_03_060");
     MsgDisp("Honda","U-um...");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Did you come to cheer me on?");
     ChEye(3,2);
     ChMouth(3,4);

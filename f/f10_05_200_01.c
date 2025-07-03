@@ -5,7 +5,7 @@ MsgDisp("主人公","(Next lesson is...)");
 VoicePlay("F100520001_05_000");
 MsgDisp("Hiiragi","Excuse me.
 Is Kazama-kun here?");
-MsgDisp("主人公","Ah,｛柊＊＊＊｝?");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,0,0,4,-1,-1,0,0);

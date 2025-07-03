@@ -19,7 +19,7 @@ year. But, as expected I'm nervous still.)");
     MsgDisp("Hiiragi","｛主人公｝,
 I came to listen.
 To gaming music.");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
 Thank you.
 But, my heart is racing.");
     ChEye(5,4);
@@ -77,7 +77,7 @@ year. But, as expected I'm nervous still.)");
     VoicePlay("P530500001_05_060");
     MsgDisp("Hiiragi","It appears that gaming 
 music is popular, yes?");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Thank you for coming.");
     ChEye(5,4);
     ChMouth(5,4);

@@ -4,7 +4,7 @@ MsgDisp("主人公","(Oh,it's a phone call from ｛本多＊＊｝ )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
-MsgDisp("主人公","Hello,｛本多＊＊｝?");
+MsgDisp("主人公","Hello, ｛本多＊＊｝?");
 VoicePlay("J030301002_03_000");
 MsgDisp("Honda","Oh,is now a good moment?");
 VoicePlay("J030301002_03_010");

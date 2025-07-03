@@ -6,7 +6,7 @@ MsgDisp("主人公","(Alright,
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛氷室＊＊｝.");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

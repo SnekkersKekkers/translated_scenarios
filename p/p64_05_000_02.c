@@ -6,7 +6,7 @@ VoicePlay("P640500002_05_000");
 MsgDisp("Hiiragi","These are splendid vegetables, yes.
 I'll enjoy it in a hotpot with 
 the theater troupe staff.");
-MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Thank you for your purchase.");
 ChEye(5,0);
 ChMouth(5,4);

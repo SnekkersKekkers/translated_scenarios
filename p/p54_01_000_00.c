@@ -14,7 +14,7 @@ MsgDisp("Kazama","Congratulations.
 Naturally you would get a 
 standing ovation.");
 MsgDisp("主人公","Yes, I'm super happy.
-What did you think,｛風真＊＊｝?");
+What did you think, ｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);

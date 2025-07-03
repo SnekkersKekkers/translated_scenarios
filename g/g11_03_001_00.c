@@ -6,7 +6,7 @@ MsgDisp("主人公","(The book I wanted was sold out before.
 VoiceEVSPlay(3);
 VoicePlay("G110300100_03_000");
 MsgDisp("Honda?","｛主人公｝, welcome!");
-MsgDisp("主人公","Ah,｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
 You're working today, huh?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");

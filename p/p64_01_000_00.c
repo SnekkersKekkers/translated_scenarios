@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("P640100000_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Ah,｛風真＊＊｝.");
+MsgDisp("主人公","Ah, ｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

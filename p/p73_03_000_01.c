@@ -17,7 +17,7 @@ I like it but...)");
     VoicePlay("P730300001_03_000");
     MsgDisp("Honda","Waa, it's a real dress, huh?
 And model too!");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Thank you.
 You came to see it huh?");
     ChEye(3,0);
@@ -61,7 +61,7 @@ I like it but...)");
     ChOpen(3,254,4,4,3,-1,-1,0,0);
     VoicePlay("P730300001_03_040");
     MsgDisp("Honda","Amazing, it's lovely...");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Really?");
     ChEye(3,0);
     ChMouth(3,3);

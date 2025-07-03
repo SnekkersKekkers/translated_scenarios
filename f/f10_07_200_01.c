@@ -10,7 +10,7 @@ ScrFadeOut(0);
 SEWait();
 BGOpen("sc352",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah,｛御影＊＊｝ 
+MsgDisp("主人公","Ah, ｛御影＊＊｝ 
 and ｛柊＊＊＊｝ is also here!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);

@@ -7,7 +7,7 @@ SEWait();
 ChOpen(1,254,0,2,3,0,-1,0,0);
 VoicePlay("F110110001_01_000");
 MsgDisp("Kazama","Hah...");
-MsgDisp("主人公","Oh,｛風真＊＊｝.
+MsgDisp("主人公","Oh, ｛風真＊＊｝.
 What's the matter?");
 ChEye(1,2);
 ChMouth(1,3);

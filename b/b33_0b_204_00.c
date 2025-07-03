@@ -39,7 +39,7 @@ VoicePlay("B330B20400_03_010");
 VoiceEVSPlay(3);
 MsgDisp("Honda","Bento huhー.
 If only we had planned it.
-Right,｛主人公｝.");
+Right, ｛主人公｝.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Eh?");
@@ -68,7 +68,7 @@ VoicePlay("B330B20400_03_030");
 VoiceEVSPlay(3);
 MsgDisp("Honda","Then, let's make a note
 of what everyone likes?
-Right,｛主人公｝.");
+Right, ｛主人公｝.");
 MsgDisp("主人公","(I'm in charge of the bentos∋)");
 BGMStop();
 MsgClose();

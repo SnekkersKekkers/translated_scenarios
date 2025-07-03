@@ -27,7 +27,7 @@ VoicePlay("F100530002_05_020");
 MsgDisp("Hiiragi","Yoー.");
 MsgDisp("主人公","Hehe
 Looks like you've learned another
-greeting, right,｛柊＊＊＊｝?");
+greeting, right, ｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

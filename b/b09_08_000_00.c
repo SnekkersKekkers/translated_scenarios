@@ -8,7 +8,7 @@ SEWait();
 VoicePlay("B090800000_08_000");
 MsgDisp("Shirahane","Hello, it's me.
 ...What's wrong? I'm worried.");
-MsgDisp("主人公","Eh,｛大地＊＊｝?");
+MsgDisp("主人公","Eh, ｛大地＊＊｝?");
 VoicePlay("B090800000_08_010");
 MsgDisp("Shirahane","Don't tell me you forgot?
 We were supposed to go 

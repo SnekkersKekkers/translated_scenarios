@@ -29,7 +29,7 @@ Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello,｛氷室＊＊｝?");
+    MsgDisp("主人公","Hello, ｛氷室＊＊｝?");
     VoicePlay("J030601001_06_030");
     MsgDisp("Himuro","Yep. Just thought I'd respond to your
 voicemail.");
@@ -52,7 +52,7 @@ Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello,｛氷室＊＊｝?");
+    MsgDisp("主人公","Hello, ｛氷室＊＊｝?");
     VoicePlay("J030601001_06_060");
     MsgDisp("Himuro","......Hey.
 You left me a message on my voicemail?");

@@ -31,7 +31,7 @@ I can't wait for the ｛日付｝ to come)");
     MsgDisp("主人公","Yes,It's ｛主人公苗字｝.");
     VoicePlay("J030501000_05_020");
     MsgDisp("Hiiragi","Hello, this is Hiiragi.");
-    MsgDisp("主人公","Oh,｛柊＊＊＊｝.
+    MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
 Did you get my voicemail?");
     VoicePlay("J030501000_05_030");
     MsgDisp("Hiiragi","Yes, thanks for the invitation.

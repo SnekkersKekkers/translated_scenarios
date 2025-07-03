@@ -25,7 +25,7 @@ MsgDisp("Hikaru","Our Mama said it.
 It must be true♪");
 MsgDisp("主人公","Wow...
 Did both of your parents study
-at Haba Academy,｛ひかる＊｝?");
+at Haba Academy, ｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChEyeOpenLevel(22,0);

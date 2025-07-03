@@ -16,7 +16,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("P530D00000_22_000");
 MsgDisp("Hikaru","Huh? Are you nervous?");
-MsgDisp("主人公","Ah,｛みちる＊｝,｛ひかる＊｝.
+MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.
 Yeah......");
 ChEye(22,0);
 ChMouth(22,3);

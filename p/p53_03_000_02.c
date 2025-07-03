@@ -18,7 +18,7 @@ it my all these last three years?)");
     VoicePlay("P530300002_03_000");
     MsgDisp("Honda","｛主人公｝.
 You seem composed, huh!");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Since it's already third year, right?");
     ChEye(3,3);
     ChMouth(3,3);
@@ -53,7 +53,7 @@ it my all these last three years?)");
     VoicePlay("P530300002_03_030");
     MsgDisp("Honda","｛主人公｝.
 I came to see how you were doing.");
-    MsgDisp("主人公","Ah,｛本多＊＊｝. 
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. 
 THank you!");
     ChEye(3,0);
     ChMouth(3,4);

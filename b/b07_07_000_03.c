@@ -1,5 +1,5 @@
 MsgDisp("主人公","What kind of sports do you
-like,｛御影＊＊｝?");
+like, ｛御影＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

@@ -55,7 +55,7 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoiceEVSPlay(6);
 VoicePlay("T020620000_06_160");
-MsgDisp("Himuro","Because I really love you,｛主人公｝.");
+MsgDisp("Himuro","Because I really love you, ｛主人公｝.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

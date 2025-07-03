@@ -6,7 +6,7 @@ MsgDisp("Kazama","Uh.
 Seriously...");
 SEPlay("EV_SE_529");
 SEWait();
-MsgDisp("主人公","Ah,｛風真＊＊｝...!");
+MsgDisp("主人公","Ah, ｛風真＊＊｝...!");
 ChEye(1,1);
 ChMouth(1,1);
 ChMotion(1,1);

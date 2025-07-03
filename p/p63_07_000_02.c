@@ -17,7 +17,7 @@ club's efforts...)");
     VoicePlay("P630700002_07_000");
     MsgDisp("Mikage","Oh, this is an extremely 
 stylish cafe this year, huh?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝. There's also a lot of
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. There's also a lot of
 customers who've come.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -46,7 +46,7 @@ club's efforts...)");
     VoicePlay("P630700002_07_030");
     MsgDisp("Mikage","This is amazding, huh.
 Isn't it super stylish?");
-    MsgDisp("主人公","Ah,｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Is it really?");
     ChEye(7,0);
     ChMouth(7,3);

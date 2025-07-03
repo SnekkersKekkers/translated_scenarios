@@ -6,7 +6,7 @@ ChOpen(21,254,0,0,0,-1,-1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("F102130000_21_000");
 MsgDisp("Michiru","Mari.");
-MsgDisp("主人公","Ah,｛みちる＊｝.
+MsgDisp("主人公","Ah, ｛みちる＊｝.
 The weather sure is nice today!");
 ChEye(21,0);
 ChMouth(21,3);

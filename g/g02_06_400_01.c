@@ -90,7 +90,7 @@ VoicePlay("G020640001_06_120");
 MsgDisp("Himuro","Yeah.
 So you should remember it too.");
 MsgDisp("主人公","Yes......!");
-MsgDisp("主人公","(I won't forget,｛氷室＊＊｝ )");
+MsgDisp("主人公","(I won't forget, ｛氷室＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("J040500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Oh,｛柊＊＊＊｝.
+    MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
 What's wrong?");
     VoicePlay("J040500000_05_010");
     MsgDisp("Hiiragi","Are you free this Sunday?");

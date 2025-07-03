@@ -41,7 +41,7 @@ So you like swimming? ");
         ChMotion(4,2,1);
         VoicePlay("B040411002_04_030");
         MsgDisp("Nanatsumori","...I've been defeated.");
-        MsgDisp("主人公","Are you not good at swimming,｛七ツ森＊｝?");
+        MsgDisp("主人公","Are you not good at swimming, ｛七ツ森＊｝?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);

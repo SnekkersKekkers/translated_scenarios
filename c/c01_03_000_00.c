@@ -5,7 +5,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010300000_03_000");
 MsgDisp("Honda","………………");
-MsgDisp("主人公","Hello,｛本多＊＊｝?");
+MsgDisp("主人公","Hello, ｛本多＊＊｝?");
 VoicePlay("C010300000_03_010");
 MsgDisp("Honda","Sorry but, I don't know if I can 
 even talk properly with you?");

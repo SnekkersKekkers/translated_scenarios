@@ -38,7 +38,7 @@ MsgDisp("","She laughs, but dogs are sensitive to
 the pecking order within their pack.");
 MsgDisp("","...Seems like I'm below her.");
 MsgClear();
-MsgDisp("主人公","\"Hey,｛颯砂＊＊｝.
+MsgDisp("主人公","\"Hey, ｛颯砂＊＊｝.
 One more round? Beach dash!\"");
 MsgDisp("","With this, surely my 
 rank is bellow her.");

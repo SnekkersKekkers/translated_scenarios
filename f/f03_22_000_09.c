@@ -1,5 +1,5 @@
 MsgDisp("主人公","Hey, what do you think 
-of love,｛ひかる＊｝?");
+of love, ｛ひかる＊｝?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);

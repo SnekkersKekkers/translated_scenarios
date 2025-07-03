@@ -18,7 +18,7 @@ it's finally the runway...I'm nervous..)");
     ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
     VoicePlay("P730400000_04_000");
     MsgDisp("Nanatsumori","Ah, I see a person stressing.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 I'm nervous...");
     VoicePlay("P730400000_04_010");
     MsgDisp("Nanatsumori","I could guess.");
@@ -30,7 +30,7 @@ I'm nervous...");
     MsgDisp("Nanatsumori","If I'm being truthful, 
 when I do my modelling work 
 I'm always nervous.");
-    MsgDisp("主人公","Eh,｛七ツ森＊｝ too∋
+    MsgDisp("主人公","Eh, ｛七ツ森＊｝ too∋
 I see...");
     ChEye(4,4);
     ChMouth(4,3);
@@ -68,7 +68,7 @@ it's finally the runway...I'm nervous..)");
     VoicePlay("P730400000_04_050");
     MsgDisp("Nanatsumori","｛主人公｝.
 This you make those clothes?");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Yeah, that's right but...");
     ChEye(4,0);
     ChMouth(4,4);

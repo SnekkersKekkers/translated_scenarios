@@ -38,7 +38,7 @@ ChOpen(4,254,0,0,0,-1,-1,0,2);
 VoicePlay("D130B00200_04_000");
 MsgDisp("Nanatsumori","Huh.
 You're still here.");
-MsgDisp("主人公","Ah,｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
 ChEye(4,2);
 ChMouth(4,3);
 VoiceEVSPlay(4);
@@ -98,7 +98,7 @@ ChSet(3,3);
 VoicePlay("D130B00200_03_050");
 VoiceEVSPlay(3);
 MsgDisp("Honda","That's right!
-Let's go,｛主人公｝.");
+Let's go, ｛主人公｝.");
 MsgDisp("主人公","...Yeah!");
 MsgDisp("主人公","(I'm curious what ｛風真＊＊｝ 's message
 said though... I see, there is only a

@@ -67,5 +67,5 @@ VoicePlay("F020200011_02_070");
 MsgDisp("Sassa","As for me, I'm looking forward to seeing
 your outfit. Well, not just me.
 I think everyone's looking forward to it.");
-MsgDisp("主人公","(Uh,｛颯砂＊＊｝ just put
+MsgDisp("主人公","(Uh, ｛颯砂＊＊｝ just put
 more pressure on me...)");

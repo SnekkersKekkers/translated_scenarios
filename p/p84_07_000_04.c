@@ -23,7 +23,7 @@ ChOpen(7,254,0,0,0,-1,-1,0,0);
 VoicePlay("P840700004_07_010");
 MsgDisp("Mikage","That was considerate.
 As expected of a third year veteran.");
-MsgDisp("主人公","Ah,｛御影＊＊｝.
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
 You saw that?");
 ChEye(7,0);
 ChMouth(7,0);

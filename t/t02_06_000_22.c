@@ -47,7 +47,7 @@ VoicePlay("T020600000_06_380");
 MsgDisp("Himuro","I've always wanted to do this.");
 VoicePlay("T020600000_06_390");
 VoiceEVSPlay(6);
-MsgDisp("Himuro","I love you,｛主人公｝.");
+MsgDisp("Himuro","I love you, ｛主人公｝.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

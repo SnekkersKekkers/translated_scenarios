@@ -8,7 +8,7 @@ MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Ah,｛風真＊＊｝.
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Are you heading home already?");
 ChEye(1,0);
 ChMouth(1,0);

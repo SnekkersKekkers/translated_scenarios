@@ -11,7 +11,7 @@ ChOpen(7,254,0,2,0,-1,-1,0,0);
 VoicePlay("P840700001_07_000");
 MsgDisp("Mikage","Oi, what's wrong.
 Why are you making that face.");
-MsgDisp("主人公","Ah,｛御影＊＊｝...
+MsgDisp("主人公","Ah, ｛御影＊＊｝...
 I got the guest's names
 wrong many times...");
 ChEye(7,0);

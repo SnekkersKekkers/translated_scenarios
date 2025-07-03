@@ -1,6 +1,6 @@
 BGOpen("ar200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah,｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 Are you already done for the day?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -31,7 +31,7 @@ VoicePlay("G110600804_06_020");
 MsgDisp("Himuro","How long are you going to continue the
 part time job?");
 MsgDisp("主人公","I guess for as long as I can.
-and how about you,｛氷室＊＊｝?");
+and how about you, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

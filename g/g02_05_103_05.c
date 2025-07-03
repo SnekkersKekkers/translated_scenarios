@@ -47,7 +47,7 @@ MsgDisp("Hiiragi","Yes, I find ghosts to be beautiful
 entities. Perhaps I went a bit overboard.");
 ChEyeOpenLevel(5,8);
 MsgDisp("主人公","That ghost seemed really into it though,
-so thanks to you,｛柊＊＊＊｝ that ghost
+so thanks to you, ｛柊＊＊＊｝ that ghost
 might be even scarier than is was.");
 ChEye(5,0);
 ChMouth(5,4);

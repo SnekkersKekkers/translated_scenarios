@@ -10,7 +10,7 @@ VoiceEVSPlay(3);
 VoicePlay("F100330002_03_000");
 MsgDisp("Honda","｛主人公｝,
 are you going to the cafeteria today?");
-MsgDisp("主人公","Ah, you too,｛本多＊＊｝?");
+MsgDisp("主人公","Ah, you too, ｛本多＊＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

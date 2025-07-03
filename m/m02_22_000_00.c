@@ -6,7 +6,7 @@ SEWait();
 MsgDisp("主人公","Yes, hello.");
 VoicePlay("M022200000_22_000");
 MsgDisp("Hikaru","Hello, it's Hikaru.");
-MsgDisp("主人公","Ah,,｛ひかる＊｝,
+MsgDisp("主人公","Ah,, ｛ひかる＊｝,
 What's wrong??");
 VoicePlay("M022200000_22_010");
 MsgDisp("Hikaru","I wondered how Mari was holding up......

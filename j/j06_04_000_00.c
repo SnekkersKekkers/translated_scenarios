@@ -24,7 +24,7 @@ What do you think?");
         VoicePlay("J060400000_04_010");
         MsgDisp("Nanatsumori","OK.
 On Sunday, don't oversleep.");
-        MsgDisp("主人公","Hmmm,｛七ツ森＊｝ is the best!");
+        MsgDisp("主人公","Hmmm, ｛七ツ森＊｝ is the best!");
         ChEye(4,1);
         ChMouth(4,3);
         ChMotion(4,1,1);

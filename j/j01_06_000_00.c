@@ -28,7 +28,7 @@ It's ｛主人公苗字｝, is now a good time?");
     case 5:
     VoicePlay("J010600000_06_040");
     MsgDisp("Himuro","......Yes, hello.");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝?
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝?
 It's ｛主人公苗字｝, is now a good time?");
     VoicePlay("J010600000_06_050");
     MsgDisp("Himuro","If it weren't I wouldn't have picked up.

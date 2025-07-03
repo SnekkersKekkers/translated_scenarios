@@ -78,7 +78,7 @@ last year. Haa, I'm nervous.)");
     VoicePlay("P530400001_04_070");
     MsgDisp("Nanatsumori","｛主人公｝.
 You're stressed, huhー.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Yeah...");
     VoicePlay("P530400001_04_080");
     MsgDisp("Nanatsumori","You're going to perform gaming music?

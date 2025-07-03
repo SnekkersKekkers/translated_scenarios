@@ -26,7 +26,7 @@ your free time freely.");
     VoiceEVSPlay(7);
     VoicePlay("Q020700000_07_010");
     MsgDisp("Mikage","｛主人公｝, good morning.");
-    MsgDisp("主人公","Good morning,｛御影＊＊｝.
+    MsgDisp("主人公","Good morning, ｛御影＊＊｝.
 Did something happen?");
     ChEye(7,2);
     ChMouth(7,3);
@@ -93,7 +93,7 @@ bit bad)");
     ChOpen(7,254,0,0,0,-1,-1,0,0);
     VoicePlay("Q020700000_07_080");
     MsgDisp("Mikage","Oh, you seem energetic today. ");
-    MsgDisp("主人公","Ah,｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
 good morning!");
     ChEye(7,0);
     ChMouth(7,3);

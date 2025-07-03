@@ -15,7 +15,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,0,0,0,-1,-1,0,1,0,30);
 ChOpen(3,254,0,0,0,-1,-1,0,2,0,30);
-MsgDisp("主人公","｛氷室＊＊｝,｛本多＊＊｝.
+MsgDisp("主人公","｛氷室＊＊｝, ｛本多＊＊｝.
 Are you talking about ramen shops?");
 ChEye(6,0);
 ChMouth(6,0);

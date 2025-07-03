@@ -16,7 +16,7 @@ well received though...)");
     VoicePlay("P630200000_02_000");
     MsgDisp("Sassa","｛主人公｝.
 It's somewhat of weird smell, huh?");
-    MsgDisp("主人公","Ah,｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 You came."); 
     ChEye(2,0);
     ChMouth(2,4);

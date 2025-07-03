@@ -16,7 +16,7 @@ Can I even do it properly....)");
     ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
     VoicePlay("P530400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝...");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝...");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -73,7 +73,7 @@ Can I even do it properly....)");
     VoicePlay("P530400000_04_070");
     MsgDisp("Nanatsumori","Whats this.
 Stressed?");
-    MsgDisp("主人公","Ah,｛七ツ森＊｝...yeah.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝...yeah.");
     ChMotion(4,1,1);
     VoicePlay("P530400000_04_080");
     MsgDisp("Nanatsumori","So it's like that, I see.");

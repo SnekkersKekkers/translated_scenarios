@@ -21,7 +21,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(20,1);
 ChOpen(6,255,0,0,4,-1,-1,0,3);
-MsgDisp("主人公","Amazing,｛氷室＊＊｝!");
+MsgDisp("主人公","Amazing, ｛氷室＊＊｝!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);

@@ -33,7 +33,7 @@ MsgDisp("主人公","(I'll organize my notes over some
 tea.)");
 VoicePlay("G110400301_04_000");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori?","Oh,｛主人公｝.");
+MsgDisp("Nanatsumori?","Oh, ｛主人公｝.");
 SEStop("EV_SE_DOOR_014");
 MsgClose();
 ScrFadeOut(0);

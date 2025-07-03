@@ -1,5 +1,5 @@
 MsgDisp("主人公","What's your dream for
-the future,｛氷室＊＊｝?");
+the future, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -8,7 +8,7 @@ VoicePlay("G110500500_05_000");
 MsgDisp("Hiiragi","｛主人公｝,
 I'll be a while 
 so I'll lock the door.");
-MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 I've finished, so I'll help.");
 MsgClose();
 ScrFadeOut(0,0,30);

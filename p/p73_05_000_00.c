@@ -75,7 +75,7 @@ it's finally the runway...I'm nervous..)");
     VoiceEVSPlay(5);
     VoicePlay("P730500000_05_060");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Did you come to watch?");
     ChEye(5,4);
     VoicePlay("P730500000_05_070");
@@ -112,7 +112,7 @@ an forget your apprehension, okay?");
     MsgDisp("Hiiragi","It'll be alright. If it's you, you'll be
 able to charm the audience. I am current
 proof of that.");
-    MsgDisp("主人公","(Thank you,｛柊＊＊＊｝. Yes, I should go
+    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. Yes, I should go
 out with a little confidence. Let's do our
 best!)");
     MsgClose();

@@ -118,7 +118,7 @@ MsgClose();
 ChClose(4,0,30);
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 ScrQuake(1);
-MsgDisp("主人公","Waa,｛七ツ森＊｝
+MsgDisp("主人公","Waa, ｛七ツ森＊｝
 You're running too fast～!
 You're letting go of my hand.");
 VoicePlay("B040406402_04_150");

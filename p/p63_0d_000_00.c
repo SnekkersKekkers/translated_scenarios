@@ -12,7 +12,7 @@ ChMotion(22,4,1);
 VoicePlay("P630D00000_22_000");
 MsgDisp("Hikaru","Ye～s▼
 We came to hang out!");
-MsgDisp("主人公","｛みちる＊｝,｛ひかる＊｝.
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 Welcome!");
 ChEye(21,0);
 ChMouth(21,0);

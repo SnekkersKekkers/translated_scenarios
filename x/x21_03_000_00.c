@@ -5,7 +5,7 @@ ChOpen(3,254,0,0,3,-1,-1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("X210300000_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah,｛本多＊＊｝.");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

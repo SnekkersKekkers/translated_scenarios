@@ -16,7 +16,7 @@ ChMotion(5,3);
 VoicePlay("B040506401_05_010");
 MsgDisp("Hiiragi","Yes, you could say that.");
 SEPlay("EV_SE_022",1);
-MsgDisp("主人公","Ah,｛柊＊＊＊｝,
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝,
 We have to hurry and buy something and 
 head to the fireworks grounds.");
 ChEye(5,0);

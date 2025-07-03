@@ -42,7 +42,7 @@ ChMouth(1,3);
 VoicePlay("G020110301_01_040");
 MsgDisp("Kazama","But most of all, it was you.
 Now, it feels natural to have you here");
-MsgDisp("主人公","Yeah. When you suddenly left,｛風真＊＊｝ I
+MsgDisp("主人公","Yeah. When you suddenly left, ｛風真＊＊｝ I
 don't remember what happened after very
 well.");
 ChEye(1,0);

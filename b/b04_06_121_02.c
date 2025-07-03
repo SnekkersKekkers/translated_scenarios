@@ -73,7 +73,7 @@ Let's buy each other presents.");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
         ScrFadeIn(0);
-        MsgDisp("主人公","Thank you,｛氷室＊＊｝.
+        MsgDisp("主人公","Thank you, ｛氷室＊＊｝.
 I'll cherish it.");
         ChOpen(6,253,0,0,0,-1,-1,0,0);
         VoicePlay("B040612102_06_070");

@@ -19,7 +19,7 @@ VoicePlay("P840600000_06_010");
 MsgDisp("Himuro","It was well-received huh?
 The tea that you brewed.");
 MsgDisp("主人公","Yeah, I'm glad.
-Ah, would you like some,｛氷室＊＊｝?");
+Ah, would you like some, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

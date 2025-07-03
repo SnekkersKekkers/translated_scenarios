@@ -55,7 +55,7 @@ MsgDisp("Mikage","Listen, being kind and gentle is a great
 quality of yours, but make sure to speak
 up when you're in trouble.");
 MsgDisp("主人公","Yes. 
-but,｛御影＊＊｝ is always nearby......");
+but, ｛御影＊＊｝ is always nearby......");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

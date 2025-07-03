@@ -47,7 +47,7 @@ VoicePlay("G020540003_05_080");
 MsgDisp("Hiiragi","Yeah......I see.");
 ChEyeOpenLevel(5,-1);
 MsgDisp("主人公","(Your family is enjoying it too. That's
-great,｛柊＊＊＊｝......)");
+great, ｛柊＊＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

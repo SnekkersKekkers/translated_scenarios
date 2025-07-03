@@ -51,7 +51,7 @@ ScrFadeIn(0);
 VoicePlay("T020620000_06_230");
 VoiceEVSPlay(6);
 MsgDisp("Himuro","I like you.
-I love you,｛主人公｝.");
+I love you, ｛主人公｝.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

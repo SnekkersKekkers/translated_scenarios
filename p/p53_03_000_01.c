@@ -18,7 +18,7 @@ customers...)");
     VoicePlay("P530300001_03_000");
     MsgDisp("Honda","｛主人公｝.
 Pardon the intrusion! I came for a tour.");
-    MsgDisp("主人公","Ah,｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
 ...Enjoy yourself.");
     ChEye(3,4);
     ChMouth(3,4);
@@ -71,7 +71,7 @@ customers...)");
     VoicePlay("P530300001_03_060");
     MsgDisp("Honda","｛主人公｝.
 I came to listen to some gaming music.");
-    MsgDisp("主人公","Ah,｛本多＊＊｝...");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝...");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);

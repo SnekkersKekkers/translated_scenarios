@@ -113,7 +113,7 @@ VoicePlay("P240600000_06_100");
 MsgDisp("Himuro","Not so much ad-libbing, 
 but more like my true feelings...");
 MsgDisp("主人公","Hehe, for you to incorporate that,
-Isn't that amazing,｛氷室＊＊｝?");
+Isn't that amazing, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

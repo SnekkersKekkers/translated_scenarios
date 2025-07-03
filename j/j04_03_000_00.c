@@ -64,7 +64,7 @@ What was that about?)");
     VoicePlay("J040300000_03_040");
     MsgDisp("Honda","Oh, there you are.
 I looked for you!");
-    MsgDisp("主人公","Oh,｛本多＊＊｝.
+    MsgDisp("主人公","Oh, ｛本多＊＊｝.
 What's wrong?");
     ChEye(3,0);
     ChMouth(3,3);

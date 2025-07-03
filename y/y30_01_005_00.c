@@ -71,7 +71,7 @@ MsgClear();
 BGOpen("ad151",0);
 ScrFadeIn(0);
 MsgDisp("主人公","\"Your room is just the same as it was
-in elementary school,｛風真＊＊｝.\"");
+in elementary school, ｛風真＊＊｝.\"");
 VoicePlay("Y300100500_01_040");
 MsgDisp("Kazama","\"I've been thinking about
 changing it up a little though.\"");

@@ -17,7 +17,7 @@ the shrine with me?");
     case 3:
     VoicePlay("S030600000_06_020");
     MsgDisp("Himuro","Hello?");
-    MsgDisp("主人公","Ah,｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 Happy New Year!");
     VoicePlay("S030600000_06_030");
     MsgDisp("Himuro","You took the time to call me, 

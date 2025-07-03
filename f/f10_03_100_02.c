@@ -12,7 +12,7 @@ ChOpen(3,254,0,0,0,-1,-1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("F100310002_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah,｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Those umbrellas are here
 again today, huh?");
 ChEye(3,0);

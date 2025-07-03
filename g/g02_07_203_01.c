@@ -20,7 +20,7 @@ MsgDisp("Mikage","Why are you so surprised?
 If it comes to everyone, 
 it should come to me too, right?");
 MsgDisp("主人公","You care about things like
-that,｛御影＊＊｝?");
+that, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -28,7 +28,7 @@ VoicePlay("G020720301_07_030");
 MsgDisp("Mikage","Of course I do. 
 If I didn't care about things like that,
 I wouldn't have this hairstyle.");
-MsgDisp("主人公","Hehe,｛御影＊＊｝,
+MsgDisp("主人公","Hehe, ｛御影＊＊｝,
 you're popular with both girls and boys.
 So isn't now your \"popularity period\"?");
 ChEye(7,0);

@@ -30,7 +30,7 @@ MsgDisp("Sassa","Yo, so it's you.
 Are you returning that top ranked book?");
 MsgDisp("主人公","It looks like you couldn't borrow the
 \"Exercise Learning Theory in 
-Practice\" ,｛颯砂＊＊｝?");
+Practice\" , ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -62,7 +62,7 @@ MsgDisp("Sassa","Well, when it's written in a book
 like this, it kind of backs up what 
 you're already doing, and it's
 a bit of a relief.");
-MsgDisp("主人公","Wow... you're amazing,｛颯砂＊＊｝.");
+MsgDisp("主人公","Wow... you're amazing, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

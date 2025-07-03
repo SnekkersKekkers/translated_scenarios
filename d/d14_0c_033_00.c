@@ -40,7 +40,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C03300_06_020");
 MsgDisp("Himuro","Yeah.");
-MsgDisp("主人公","Do you not,｛柊＊＊＊｝?");
+MsgDisp("主人公","Do you not, ｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

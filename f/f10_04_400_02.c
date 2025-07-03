@@ -12,7 +12,7 @@ VoicePlay("F100440002_03_000");
 MsgDisp("Honda","Thank you, Mii-kun!");
 VoicePlay("F100440002_04_000");
 MsgDisp("Nanatsumori","Mm.");
-MsgDisp("主人公","｛七ツ森＊｝,｛本多＊＊｝!");
+MsgDisp("主人公","｛七ツ森＊｝, ｛本多＊＊｝!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(4,0,1);

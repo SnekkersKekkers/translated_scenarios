@@ -21,7 +21,7 @@ supplies. I'm super busy, huh...)");
     VoiceEVSPlay(1);
     VoicePlay("P830100001_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝, what's wrong?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, what's wrong?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -62,7 +62,7 @@ rag please!");
     ChOpen(1,254,0,0,0,-1,-1,0,0);
     VoicePlay("P830100001_01_040");
     MsgDisp("Kazama","I'll carry this over.");
-    MsgDisp("主人公","Ah,｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Didn't you have something
 you needed to do?");
     ChEye(1,2);
