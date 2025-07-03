@@ -25,7 +25,7 @@ make it pretty but...)");
     ChMotion(1,0);
     ChCheek(1,0);
     VoicePlay("P730100002_01_010");
-    MsgDisp("Kazama","...Yeah,  it's so great that it's
+    MsgDisp("Kazama","...Yeah, it's so great that it's
 silly to even gloss over it.");
     ChEye(1,4);
     ChMouth(1,3);

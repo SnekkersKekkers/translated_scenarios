@@ -13,7 +13,7 @@ are really pretty, huh?");
 ChMotion(4,1,1);
 VoicePlay("P640400002_04_010");
 MsgDisp("Nanatsumori","Yeah. How do I put it...
-When they're fresh,  
+When they're fresh, 
 it genuinely looks delicious.");
 MsgDisp("主人公","Hehe.
 Then, how about this vegetable set?");

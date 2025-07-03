@@ -22,15 +22,13 @@ Huh, ｛御影＊＊｝?)");
     MsgClose();
     ChOpen(7,37,0,0,0,-1,-1,0,0);
     VoicePlay("O080700000_07_010");
-    MsgDisp("Mikage","It seems like there
-aren't enough guys.
+    MsgDisp("Mikage","It seems like there aren't enough guys.
 Sorry.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("O080700000_07_020");
-    MsgDisp("Mikage","Judging from the music,
-this will be fun.");
+    MsgDisp("Mikage","Judging from the music, this will be fun.");
     MsgDisp("主人公","Yes, let's dance.");
     break ;
     case 4:

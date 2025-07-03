@@ -46,7 +46,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B360707000_07_050");
 MsgDisp("Mikage","It's croquette curry tonight.");
-MsgDisp("主人公","Hehe,  ｛御影＊＊｝,
+MsgDisp("主人公","Hehe, ｛御影＊＊｝,
 are you good at shopping?");
 ChEye(7,0);
 ChMouth(7,0);

@@ -97,7 +97,7 @@ StlEye(7,2);
 StlMouth(7,1);
 StlEyeOpenLevel(7,0);
 VoicePlay("B050700000_07_090");
-MsgDisp("Mikage","One, tw,  three!");
+MsgDisp("Mikage","One, two, three!");
 MsgClose();
 ScrFadeOut(0,1);
 EfctClose();

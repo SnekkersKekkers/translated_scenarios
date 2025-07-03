@@ -34,7 +34,7 @@ MsgDisp("Mikage","Right?
 So if I say it's okay, it's okay.
 Don't worry, just do what you can.");
 MsgDisp("主人公","Yes...
-But if I fail,  I'll cause
+But if I fail, I'll cause
 trouble for everyone..");
 ChEye(7,4);
 ChMouth(7,0);

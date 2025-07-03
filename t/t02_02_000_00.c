@@ -89,7 +89,7 @@ ChMotion(2,0);
 VoicePlay("T020200000_02_110");
 MsgDisp("Sassa","But you supported me, and in 
 the end, my seniors encouraged me.
-Ultimately,  I was the only one
+Ultimately, I was the only one
 who stuck to my guns...");
 MsgDisp("主人公","No, Senpai said it too.
 ｛颯砂＊＊｝ 's dream is everyone's dream.");

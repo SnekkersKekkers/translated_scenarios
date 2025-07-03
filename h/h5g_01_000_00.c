@@ -52,7 +52,7 @@ MsgDisp("Kazama","Then I'll look forward to
 your solo concert.
 Got it, champion?");
 MsgDisp("主人公","Yeah, thanks!");
-MsgDisp("主人公","(Hehe,  ｛風真＊＊｝
+MsgDisp("主人公","(Hehe, ｛風真＊＊｝
 congratulated me! I'm glad
 I practiced so hard for brass band!)");
 MsgClose();

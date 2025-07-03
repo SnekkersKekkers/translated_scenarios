@@ -36,7 +36,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B330B20100_03_010");
 MsgDisp("Honda","A frilled shark!
 They call them living fossils.
-It's super cute,  huh!");
+It's super cute, huh!");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

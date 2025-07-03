@@ -34,7 +34,7 @@ VoicePlay("P610700002_07_020");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
-MsgDisp("Mikage","Oh, we're good at this,  aren't we?
+MsgDisp("Mikage","Oh, we're good at this, aren't we?
 Let's use our heads!");
 MsgDisp("主人公","Yes!");
 MsgDisp("主人公","(Alright, 

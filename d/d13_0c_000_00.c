@@ -38,7 +38,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D130C00000_06_010");
-MsgDisp("Himuro","Eh... have you really forgotten,  
+MsgDisp("Himuro","Eh... have you really forgotten, 
 and you don't have anything?");
 MsgDisp("主人公","Ah, you're talking
 about Valentine's day?");

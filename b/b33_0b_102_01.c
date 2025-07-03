@@ -56,7 +56,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B330B10201_04_010");
-MsgDisp("Nanatsumori","Fishing,  huhー......
+MsgDisp("Nanatsumori","Fishing, huhー......
 I'm interested in it but, the baits-");
 ChEye(1,0);
 ChMouth(1,2);
