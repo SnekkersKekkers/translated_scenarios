@@ -1,4 +1,4 @@
-MsgSel("Leather Crafting Kit","Wireless Headphones","Giant Isopod Pillow","Assorted Fresh Caramels","Small Patterned Necktie","Wet Bag","Organic Skincare");
+MsgSel("Leather Crafting Kit","Wireless Headphones","Giant Isopod Pillow","Assorted Fresh Caramels","Small Patterned Necktie","Waterproof Bag","Organic Skincare");
 switch (MsgSelRsltGet()){
     case 0:
     break ;
