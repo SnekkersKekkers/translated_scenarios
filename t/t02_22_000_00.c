@@ -29,7 +29,7 @@ ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("T022200000_22_030");
 MsgDisp("Hikaru","This will be my last time attending
-Habataki Academy.");
+Habataki High School.");
 MsgDisp("主人公","It really is...");
 ChEye(22,4);
 ChMouth(22,3);

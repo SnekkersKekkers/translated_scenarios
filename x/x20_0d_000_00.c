@@ -12,7 +12,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("X200D00000_22_000");
-MsgDisp("Hikaru","Miss Haba Academy, huh～!
+MsgDisp("Hikaru","Miss Haba High, huh～!
 It's limited to third-year girls, right?");
 ChEye(21,0);
 ChMouth(21,3);
@@ -27,7 +27,7 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("X200D00000_22_010");
 MsgDisp("Hikaru","Ah, right.
-Mari didn't go to Haba Academy
+Mari didn't go to Haba High
 Middle School after all.");
 ChEye(21,0);
 ChMouth(21,0);
@@ -35,7 +35,7 @@ ChMotion(21,4);
 VoicePlay("X200D00000_21_020");
 MsgDisp("Michiru","It's an unofficial beauty contest 
 held only amongst the third year year 
-girls at Habataki High school.");
+girls at Habataki High School.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

@@ -4,7 +4,7 @@ ChMotion(3,3);
 VoicePlay("D140301057_03_000");
 MsgDisp("Honda","Hey, hey, did you see its 
 menu description? Apparently, this was
-a item for Haba Academy alumnus Hazuki
+a item for Haba High alumnus Hazuki
 Kei to ovecome his weakness.");
 ChEye(3,0);
 ChMouth(3,0);

@@ -35,6 +35,6 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901600_09_040");
 MsgDisp("Kuya","......Like I thought, at the prestigious
-Habataki Academy there are a lot of
+Habataki High School there are a lot of
 smart people.");
 MsgDisp("主人公","Is that so......?");

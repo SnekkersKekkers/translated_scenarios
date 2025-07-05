@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 MsgDisp("主人公","(It's gotten late now.
 Haaa... I don't have a lot of days
-left at Habataki Academy...)");
+left at Habataki High School...)");
 MsgClose();
 ScrFadeOut(0,0);
 Wait(40,0);
@@ -96,7 +96,7 @@ ChMotion(7,1);
 VoicePlay("D130C00200_07_020");
 MsgDisp("Mikage","You and Yanosuke too.
 This secret barbecue, is your 
-last party at Habataki Academy.");
+last party at Habataki High School.");
 MsgDisp("主人公","Thank you very much...!");
 MsgDisp("主人公","(I'm so happy to have had 
 a barbecue with everyone at the end!)");

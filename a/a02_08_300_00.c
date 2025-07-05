@@ -107,7 +107,7 @@ ChEyeOpenLevel(8,0);
 VoicePlay("A020830000_08_080");
 MsgDisp("Shirahane","Then, once more:
 lookin' forward to workin' with you～!");
-MsgDisp("主人公","(Hanegasaki Academy's ｛大地＊＊｝...... 
+MsgDisp("主人公","(Hanegasaki High School's ｛大地＊＊｝...... 
 His smile and characteristic intonation 
 might be kinda cute. I'm looking 
 forward to work days now!)");

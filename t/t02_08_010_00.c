@@ -76,7 +76,7 @@ ChEye(8,4);
 ChMouth(8,0);
 VoicePlay("T020801000_08_040");
 MsgDisp("Shirahane","This lighthouse is the legendary
-confession spot at Hanegasaki Academy.");
+confession spot at Hanegasaki High School.");
 MsgDisp("主人公","Ah......");
 ChEye(8,2);
 ChMouth(8,4);

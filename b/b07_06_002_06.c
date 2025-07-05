@@ -28,7 +28,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_390");
 MsgDisp("Himuro","...But maybe, even after we move on
-from Haba Academy and begin to walk 
+from Haba High and begin to walk 
 our own paths, we'll meet somehow?");
 MsgDisp("主人公","I hope so.");
 ChEye(6,0);

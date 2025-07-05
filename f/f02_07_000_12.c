@@ -30,7 +30,7 @@ ChMotion(7,0);
 VoicePlay("F020700012_07_020");
 MsgDisp("Mikage","That's a nice thing to say.
 I feel the same. But there are a lot
-of different teachers at Haba Academy.");
+of different teachers at Haba High.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

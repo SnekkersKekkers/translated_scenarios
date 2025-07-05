@@ -61,12 +61,12 @@ Did I make the wrong choice?)");
     SEStop("EV_SE_579",0);
     MsgDisp("主人公","Hello, ｛大地＊＊｝?");
     VoicePlay("S040800000_08_060");
-    MsgDisp("Shirahane","Happy New year!
+    MsgDisp("Shirahane","Happy New Year!
 Please treat me well again this year.");
     MsgDisp("主人公","Happy New Year.
 And the same to you.");
     VoicePlay("S040800000_08_070");
-    MsgDisp("Shirahane","Hey, do you want to go visit the
+    MsgDisp("Shirahane","Hey, do ya wanna to go to the
 shrine......?");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit……");
     switch (MsgSelRsltGet()){

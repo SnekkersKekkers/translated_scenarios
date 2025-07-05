@@ -58,8 +58,8 @@ with a beautiful girl on New Year's▼");
     ChMouth(8,4);
     ChCheek(8,8);
     VoicePlay("S060800001_08_060");
-    MsgDisp("Shirahane","It's the best. I get to see my favorite
-person in such...... fancy clothes......");
+    MsgDisp("Shirahane","It's the best. I getta see my favorite
+person in such fancy clothes......");
     MsgDisp("主人公","......Eh?");
     ChEye(8,0);
     ChMouth(8,4);
@@ -75,7 +75,7 @@ My mouth feels kind of loose now......");
     VoicePlay("S060800001_08_080");
     MsgDisp("Shirahane","Whatever, I can't help it!
 When you're really beautiful like this,
-I want to give you my honest opinion.");
+I wanna give ya my honest opinion.");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,4,1);

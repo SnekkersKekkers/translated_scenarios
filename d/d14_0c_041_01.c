@@ -33,7 +33,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C04101_05_020");
 MsgDisp("Hiiragi","But now, if I were to transfer
-from Haba Academy it would be
+from Haba High it would be
 completely different.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -80,7 +80,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C04101_07_030");
 MsgDisp("Mikage","It's alright.
-You can stay at Haba Academy 
+You can stay at Haba High 
 until your graduation.");
 ChEye(5,4);
 ChEye(7,3);

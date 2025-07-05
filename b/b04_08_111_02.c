@@ -64,11 +64,11 @@ I get strangely worked up.");
         ChMouth(8,0);
         VoicePlay("B040811102_08_060");
         MsgDisp("Shirahane","That's why I feel jealous
-of the boys at Haba Academy.");
+of the boys at Haba High.");
         ChMotion(8,2,1);
         VoicePlay("B040811102_08_070");
         MsgDisp("Shirahane","I've been thinking recently; if I had went
-to Haba Academy, our relationship would've
+to Haba High, our relationship would've
 been completely different by now.");
         MsgDisp("主人公","｛大地＊＊｝……");
         ChEye(8,3);

@@ -47,7 +47,7 @@ our high school days......");
     ChMotion(4,1,1);
     VoicePlay("S120400004_04_030");
     MsgDisp("Nanatsumori","We're graduating from
-Habataki Academy soon too.");
+Habataki High School soon too.");
     MsgDisp("主人公","Yep.
 Three years passed in the blink of an
 eye.");

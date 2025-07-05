@@ -8,8 +8,7 @@ MsgDisp("Kazama","When I was away,
 I listened to classical music often.
 But it wasn't because I liked it,
 more so that my parents did.");
-MsgDisp("主人公","That might be perfect for your
-image, ｛風真＊＊｝ /");
+MsgDisp("主人公","That might suit your image perfectly, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -43,7 +42,7 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_210");
-MsgDisp("Kazama","It's always a ridiculous troy...");
+MsgDisp("Kazama","It's always a ridiculous story...");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

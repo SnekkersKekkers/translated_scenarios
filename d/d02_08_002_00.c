@@ -38,7 +38,7 @@ ChMotion(8,0,1);
 VoicePlay("D020800200_08_040");
 MsgDisp("Shirahane","Isn't it?
 But I've never actually seen one.");
-MsgDisp("主人公","Now that you mention it......Haba Academy
+MsgDisp("主人公","Now that you mention it......Haba High
 also has something called the \"Perfect 
 Score Anpan\".");
 MsgDisp("主人公","It also makes you smarter. I heard
@@ -55,7 +55,7 @@ ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800200_08_060");
-MsgDisp("Shirahane","Maybe I need to sneak into Haba Academy
+MsgDisp("Shirahane","Maybe I need to sneak into Haba High
 and see if I can find it......");
 MsgDisp("主人公","(Ehh∋)");
 BGMStop();

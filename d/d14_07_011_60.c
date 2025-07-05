@@ -11,4 +11,4 @@ ChMotion(7,1);
 VoicePlay("D140701160_07_010");
 MsgDisp("Mikage","What kind of alumni offers something
 like this? They must really love
-Habataki Academy.");
+Habataki High School.");

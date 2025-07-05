@@ -32,15 +32,15 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("R080800000_08_020");
-MsgDisp("Shirahane","Yeah but... well, who cares? Today
+MsgDisp("Shirahane","Ya but... well, who cares? Today
 is my last Christmas in high school,
-and I wanted to see you.");
+and I wanted to see ya.");
 MsgDisp("主人公","｛大地＊＊｝……");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("R080800000_08_030");
-MsgDisp("Shirahane","I got a lift on Santa's sleigh.
+MsgDisp("Shirahane","I gotta lift on Santa's sleigh.
 Wow～, reindeers sure are fast!");
 MsgDisp("主人公","Hehe!");
 ChEye(8,2);
@@ -54,7 +54,7 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("R080800000_08_050");
-MsgDisp("Shirahane","...So, how about you keep me company?");
+MsgDisp("Shirahane","...So, how about ya keep me company?");
 MsgClose();
 ScrFadeOut(0);
 BGMStop();
@@ -69,7 +69,7 @@ MsgClose();
 BGOpen("ex001",2);
 ScrFadeIn(0);
 VoicePlay("R080800000_08_060");
-MsgDisp("Shirahane","So did you have fun at the
+MsgDisp("Shirahane","So did ya have fun at the
 Christmas party?");
 MsgDisp("主人公","Yeah.
 How about you, ｛大地＊＊｝?
@@ -119,12 +119,12 @@ StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,0,1);
 VoicePlay("R080800000_08_110");
-MsgDisp("Shirahane","Is that so. I'm glad they
-will be warmed up now.");
+MsgDisp("Shirahane","Really. I'm glad I get to
+warm them now.");
 StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("R080800000_08_120");
-MsgDisp("Shirahane","Before you go-");
+MsgDisp("Shirahane","Before ya go-");
 MsgClose();
 SEPlay("EV_SE_659");
 Wait(20,0);

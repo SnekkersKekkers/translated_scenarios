@@ -14,7 +14,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("X210700000_07_010");
 MsgDisp("Mikage","Hey, hey, this is the consensus from
-all the students aat Haba Academy.
+all the students aat Haba High.
 You can't doubt that.");
 ChEye(7,0);
 ChMouth(7,0);

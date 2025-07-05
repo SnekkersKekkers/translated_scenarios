@@ -31,7 +31,7 @@ MsgDisp("","I've become a bit worried.");
 MsgDisp("","If Hane school thinks I'm a kid——");
 MsgClear();
 MsgDisp("","I didn't think too deeply
-about going to Hanegasaki Academy.");
+about going to Hanegasaki High School.");
 MsgDisp("","Reason bein', my big bro went there.
 It's said ta be a good school.
 There interestin' teachers too.");
@@ -53,18 +53,18 @@ makin' a rustlin' sound in the wind.");
 SEStop("EV_SE_820",1.5);
 MsgDisp("","It sounded like it was sayin',
 \"Stop thinkin\" about that and 
-just go to Haba Academy!'");
+just go to Haba High!'");
 MsgClear();
 VoicePlay("Y300800200_08_000");
 MsgDisp("Shirahane","\"Yeah, that's right!
 There's no point in 
 thinkin' about that now.\"");
-MsgDisp("","Life at Hanegasaki Academy
+MsgDisp("","Life at Hanegasaki High School
 is really fun too!");
 MsgClear();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 SEWait();
-MsgDisp("","I dashed towards Haba Academy.");
+MsgDisp("","I dashed towards Haba High.");
 MsgDisp("","I need ta hurry,
 or she might go home!");
 MsgDisp("","That would be bad!");

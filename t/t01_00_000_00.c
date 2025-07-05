@@ -8,7 +8,7 @@ ScrFadeOut(0);
 BGOpen("sc120",0);
 BGMPlay("BGM_GRADUATE",0.01);
 ScrFadeIn(0);
-MsgDisp("","Graduation Ceremony・Day.");
+MsgDisp("","Graduation Day");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -101,7 +101,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc211",0);
 ScrFadeIn(0);
-MsgDisp("主人公","I had wonderful days at Habataki School.
+MsgDisp("主人公","I had wonderful days at Habataki High School.
 I will never forget them.
 Thank you......");
 BGMStop(3);

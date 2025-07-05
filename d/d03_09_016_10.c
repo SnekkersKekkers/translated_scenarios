@@ -94,14 +94,14 @@ MsgDisp("Kuya","......Hehe.
 Jealousy, huh.");
 ChMotion(9,2,1);
 VoicePlay("D030901610_09_080");
-MsgDisp("Kuya","If I was a student at Haba Academy,
+MsgDisp("Kuya","If I was a student at Haba High,
 maybe I would feel jealous everyday.");
 ChEye(9,3);
 ChMouth(9,0);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901610_09_090");
 MsgDisp("Kuya","......Yeah.
-I think Hanegasaki Academy was a good
+I think Hanegasaki High School was a good
 decision.");
 MsgDisp("主人公","？？？");
 ChEye(9,3);

@@ -101,7 +101,7 @@ I'll see her twice a week.
 I'm gettin' excited to work!");
 MsgClear();
 MsgDisp("","That's right! If we get closer, I'll
-go ta Habataki academy after work and
+go ta Habataki High School after work and
 invite her to walk home together～!");
 MsgDisp("","......Heheh!");
 MsgClear();

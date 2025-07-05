@@ -1,4 +1,4 @@
-MsgDisp("主人公","Let's see...:");
+MsgDisp("主人公","Let's see...");
 MsgDisp("主人公","\"Did I seem normal today?
 Things always seem to get a little 
 weird when I'm with you.\" ");

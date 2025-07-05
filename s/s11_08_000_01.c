@@ -10,7 +10,7 @@ ChMotion(8,0,1);
 VoicePlay("S110800001_08_010");
 MsgDisp("Shirahane","No way.
 I pulled it......");
-MsgDisp("主人公","No way, terrible luck......");
+MsgDisp("主人公","No way, Terrible Luck...?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -39,13 +39,13 @@ ChEye(8,2);
 ChMouth(8,4);
 VoicePlay("S110800001_08_060");
 MsgDisp("Shirahane","If you get too carried away, you will
-miss your good fortune.——");
+miss your good fortune——");
 ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,1,1);
 VoicePlay("S110800001_08_070");
 MsgDisp("Shirahane","Ehー∋
-Why do I have to be lectured just
+Why do I gotta get lectured just
 because I got Excellent Luck?");
 MsgDisp("主人公","Even if you're very happy, try to
 stay calm. Isn't that what it means?");

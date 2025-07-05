@@ -20,7 +20,7 @@ MsgDisp("Nanatsumori","Yeah.");
 ChMotion(4,1,1);
 VoicePlay("G020440000_04_030");
 MsgDisp("Nanatsumori","I really made the right decision
-enrolling in Habataki Academy.");
+enrolling in Habataki High School.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("G020440000_04_040");

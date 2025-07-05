@@ -19,7 +19,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Beautiful... This is where 
 that happy church legend takes place.");
 MsgDisp("主人公","\"We'll meet again at this church, then
-I'll——");
+I'll——\"");
 MsgClose();
 Wait(50,0);
 BGOpen("ev021",0);

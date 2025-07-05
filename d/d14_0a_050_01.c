@@ -5,7 +5,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A05001_02_000");
-MsgDisp("Sassa","Haba Academy's school lunches are
+MsgDisp("Sassa","Haba High's school lunches are
 delicious, but wouldn't it be good to eat
 a bento outside every once in a while?");
 ChEye(6,0);

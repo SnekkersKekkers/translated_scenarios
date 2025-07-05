@@ -38,7 +38,7 @@ VoicePlay("X210500000_05_050");
 MsgDisp("Hiiragi","My own feelings are a mystery,
 even to myself, but one thing 
 I can say is that I've grown to like
-Haba Academy even more after today.");
+Haba High even more after today.");
 MsgDisp("主人公","The chool?");
 ChMotion(5,4);
 VoicePlay("X210500000_05_060");

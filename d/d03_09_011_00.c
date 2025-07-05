@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Come to think of it......
 Isn't today Kuya's graduation?)");
 MsgDisp("主人公","(I might not make it in time but
-shouldn't I go to Hanegasaki Academy?)");
+shouldn't I go to Hanegasaki High School?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);

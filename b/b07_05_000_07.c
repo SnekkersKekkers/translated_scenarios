@@ -9,7 +9,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B070500000_05_300");
-MsgDisp("Hiiragi","School life at Haba Academy 
+MsgDisp("Hiiragi","School life at Haba High 
 is what I dreamed of.");
 MsgDisp("主人公","Eh,
 school life is your dream?");

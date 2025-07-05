@@ -11,5 +11,5 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140201057_02_010");
 MsgDisp("Sassa","Hm? It says \"This was the weakness
-of Haba Academy graduate model Hazuki
+of Haba High graduate model Hazuki
 Kei\"... that's mean.");

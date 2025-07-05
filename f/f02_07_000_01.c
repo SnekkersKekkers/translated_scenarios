@@ -10,7 +10,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700001_07_000");
 MsgDisp("Mikage","Hey, do you know about the legend
-of Haba Academy? Regarding the church
+of Haba High? Regarding the church
 on school grounds.");
 MsgDisp("主人公","Yes, the story about the princess waiting
 for the prince to return,. righT?");

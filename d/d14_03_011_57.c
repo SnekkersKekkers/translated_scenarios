@@ -3,7 +3,7 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("D140301157_03_000");
 MsgDisp("Honda","You were curious too huh?
-the menu item Haba Academy Alumni,
+the menu item Haba High Alumni,
 famous model Hazuki Kei ate in order
 to overcome his weakness.");
 ChEye(3,0);

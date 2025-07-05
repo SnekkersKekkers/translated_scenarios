@@ -99,7 +99,7 @@ MsgDisp("Kuya","I am Kuya Shirahane.
 A second year student at Hanegasaki
 Academy.");
 MsgDisp("主人公","I'm ｛主人公姓名｝.
-A first year student at Habataki Academy.
+A first year student at Habataki High School.
 Uhm......Shirahane-san?");
 ChEye(9,0);
 ChMouth(9,0);

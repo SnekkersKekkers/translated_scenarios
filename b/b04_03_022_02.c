@@ -84,7 +84,7 @@ I would name it after you too.");
         VoicePlay("B040302202_03_080");
         MsgDisp("Honda","That's it! What about a secret nickname
 just between us; Rose Queen?");
-        MsgDisp("主人公","Oh? After the Habataki School Festival 
+        MsgDisp("主人公","Oh? After the Habataki High School Festival 
 Rose Queen?");
         ChEye(3,0);
         ChMouth(3,0);

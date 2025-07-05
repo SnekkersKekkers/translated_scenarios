@@ -11,7 +11,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("F020800001_08_000");
 MsgDisp("Shirahane","There's a legend 'bout love being
-realized true at Haba Academy too.
+realized true at Haba High too.
 I think it's a story 'bout a church, 
 a prince and a princess.");
 MsgDisp("主人公","Yeah. There are all sorts of

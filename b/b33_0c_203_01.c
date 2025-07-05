@@ -75,7 +75,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_040");
-MsgDisp("Hiiragi","Until I entered Haba Academy, 
+MsgDisp("Hiiragi","Until I entered Haba High, 
 I had never gone out like this before, 
 I was looking at myself,
 together with everyone.");

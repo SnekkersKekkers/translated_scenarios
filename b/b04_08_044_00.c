@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(8,0);
     VoicePlay("B040804400_08_000");
     MsgDisp("Shirahane","Yeah!
-Today's performer is a Hane Academy
+Today's performer is a Hane High
 Alumnus. That guy is seriously amazing!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -39,7 +39,7 @@ did you not notice? ");
     VoicePlay("B040804400_08_020");
     MsgDisp("Shirahane","That's dissappointing...
 They was an alumnus from
-Hane Academy too.");
+Hane High too.");
     MsgDateResultDisp();
     break ;
     default :

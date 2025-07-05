@@ -24,7 +24,7 @@ ChMotion(5,4);
 VoicePlay("F100220000_05_010");
 MsgDisp("Hiiragi","You are welcome to.");
 MsgDisp("主人公","Is there a hot spring 
-club at Haba Academy?");
+club at Haba High?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);

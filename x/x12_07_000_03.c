@@ -16,7 +16,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("X120700003_07_000");
     MsgDisp("Mikage","You're giving it your all 
 in student council, right?
-On behalf of Haba Academy, thank you.");
+On behalf of Haba High, thank you.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

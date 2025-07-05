@@ -10,5 +10,5 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140201159_02_010");
 MsgDisp("Sassa","But even if he only eats things 
-like this, this Haba Academy alumnus 
+like this, this Haba High alumnus 
 sure is strange.");

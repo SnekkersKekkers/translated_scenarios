@@ -22,7 +22,7 @@ VoicePlay("B070500000_05_370");
 MsgDisp("Hiiragi","That's right.");
 ChMotion(5,0);
 VoicePlay("B070500000_05_380");
-MsgDisp("Hiiragi","Every female student in Haba Academy
+MsgDisp("Hiiragi","Every female student in Haba High
 recognizes me as special case.
 Their generosity is kind.");
 ChEye(5,3);
@@ -30,7 +30,7 @@ ChMotion(5,3);
 VoicePlay("B070500000_05_390");
 MsgDisp("Hiiragi","I really like everyone like that.");
 MsgDisp("主人公","Umm, so that means... 
-all the girls at Haba Academy
+all the girls at Haba High
 is your type.");
 ChEye(5,4);
 ChMouth(5,4);

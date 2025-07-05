@@ -28,7 +28,7 @@ VoicePlay("F022200001_22_020");
 MsgDisp("Hikaru","So, they end up uniting outside of the 
 church. Hey, it's quite a well-known spot
 for receiving love benefits, even 
-outside of Haba Academy.");
+outside of Haba High.");
 MsgDisp("主人公","Benefits?");
 ChEye(22,3);
 ChMotion(22,4,1);

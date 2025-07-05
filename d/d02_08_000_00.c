@@ -51,7 +51,7 @@ VoicePlay("D020800000_08_060");
 MsgDisp("Shirahane","If that's the case then I'd like to
 nominate myself. If you watch me I'm
 sure you'll see that I'm just as good as
-\"Haba Academy's Young Master\"～?");
+\"Haba High's Young Master\"～?");
 MsgDisp("主人公","(Hehe! ｛風真＊＊｝ and ｛大地＊＊｝ are
 completely different, but I think I can
 see it......!)");

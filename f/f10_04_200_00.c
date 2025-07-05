@@ -77,8 +77,8 @@ ChMouth(4,3);
 VoicePlay("F100420000_04_060");
 MsgDisp("Nanatsumori","As I thought.
 My intuition is sharp.");
-MsgDisp("主人公","(GuriGuri? An invite? What are 
-they even talking about???)");
+MsgDisp("主人公","(Guriguri? An invite? What are 
+they even talking about?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

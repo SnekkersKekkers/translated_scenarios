@@ -8,7 +8,7 @@ VoicePlay("B040523102_05_000");
 MsgDisp("Hiiragi","When you look at it from 
 here, it's that high...
 It's like jumping in the sky.");
-MsgSel("That's scary","If it was at night, it's be a milkyway railroad.","Do you like roller coasters that much?");
+MsgSel("That's terrifying.","If it was at night, it'd be a milkyway railroad.","Do you like roller coasters a lot?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

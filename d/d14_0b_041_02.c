@@ -19,7 +19,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B04102_03_000");
 MsgDisp("Honda","Yeah, I'm always content with 
-Haba Academy's cafeteria?");
+Haba High's cafeteria?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

@@ -24,7 +24,7 @@ Same to you, treat me well this year.");
     ChOpen(1,255,0,0,3,-1,-1,0,0);
     ChMotion(1,3);
     VoicePlay("S060100000_01_010");
-    MsgDisp("Kazama","Happy New year.
+    MsgDisp("Kazama","Happy New Year.
 Somehow, it relaxes me when
 I see you.");
     MsgDisp("主人公","Hehe, I think I feel the same
@@ -41,7 +41,7 @@ way. Happy New Year again!");
     MsgDisp("Kazama","Happy New Year.
 Wait, was I too early?");
     MsgDisp("主人公","No, you're fine.
-Happy New year.");
+Happy New Year.");
     break ;
     default :
     DbgAssert(1);

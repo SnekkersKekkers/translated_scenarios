@@ -37,7 +37,7 @@ ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("D020800100_08_040");
 MsgDisp("Shirahane","You know him, right?
-Haba Academy's Track and Field Super
+Haba High's Track and Field Super
 Star!");
 MsgDisp("主人公","Are you maybe talking about 
 ｛颯砂＊＊｝?");
@@ -52,7 +52,7 @@ ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800100_08_060");
-MsgDisp("Shirahane","You know, I'm Hane Academy's best
+MsgDisp("Shirahane","You know, I'm Hane High's best
 sprinter!");
 MsgDisp("主人公","Really......");
 ChEye(8,4);

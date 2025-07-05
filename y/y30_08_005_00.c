@@ -55,7 +55,7 @@ MsgClear();
 VoicePlay("Y300800500_32_010");
 MsgDisp("Vice Principal Himuro","\"You're a student of Hanegasaki
 Academy. What business do you have at
-Habataki Academy?\"");
+Habataki High School?\"");
 VoicePlay("Y300800500_08_010");
 MsgDisp("Daichi","\"Eh, um...\"");
 MsgDisp("","I was so intimidated by the tall,

@@ -77,7 +77,7 @@ ChMotion(3,0,1);
 VoicePlay("D130B00101_03_040");
 MsgDisp("Honda","You know, the four of us made a lot of
 good memories together...... I'm really 
-grateful for Haba Academy.");
+grateful for Haba High.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

@@ -25,7 +25,7 @@ MsgDisp("Hikaru","Our Mama said it.
 It must be true♪");
 MsgDisp("主人公","Wow...
 Did both of your parents study
-at Haba Academy, ｛ひかる＊｝?");
+at Haba High, ｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChEyeOpenLevel(22,0);
@@ -50,7 +50,7 @@ ChMouth(22,1);
 ChMotion(22,5,1);
 VoicePlay("F022200003_22_060");
 MsgDisp("Hikaru","...Eh, wait a second...
-That means Haba Academy used to be an
+That means Haba High used to be an
 all girls school a long time ago～∋");
 MsgDisp("主人公","(｛ひかる＊｝ is confused.
 I think ｛ひかる＊｝'s Mother was 

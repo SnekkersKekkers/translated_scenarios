@@ -23,7 +23,7 @@ I'll also cooperate.");
         ChMouth(4,3);
         VoicePlay("X120400003_04_010");
         MsgDisp("Nanatsumori","Thanks for the hard work today too.
-I think the reason Haba Academy
+I think the reason Haba High
 is so peaceful is thanks to you.
 Seriously.");
     MsgDisp("主人公","(Yay! I was praised!)");

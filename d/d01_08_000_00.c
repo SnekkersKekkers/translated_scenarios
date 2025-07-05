@@ -58,12 +58,12 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ex130",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(We're at Hanegasaki Academy......)");
+MsgDisp("主人公","(We're at Hanegasaki High School......)");
 ChEye(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("D010800000_08_040");
-MsgDisp("Daichi","Welcome to Hanegasaki Academy's
+MsgDisp("Daichi","Welcome to Hanegasaki High School's
 cultural festival～!");
 ChEye(9,3);
 ChMouth(9,0);
@@ -94,7 +94,7 @@ I would have wanted to see that.");
 StlEyeOpenLevel(9,5,1);
 VoicePlay("D010800000_09_030");
 MsgDisp("Kuya","We were searching for you and your 
-stall back at Habataki Academy. I guess
+stall back at Habataki High School. I guess
 we're late getting back here.");
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800000_08_060");

@@ -4,7 +4,7 @@ ChMotion(3,1);
 VoicePlay("D140301060_03_000");
 MsgDisp("Honda","Apparently this menu item was
 designed to silence a certain 
-Haba Academy Alumnus?");
+Haba High Alumnus?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

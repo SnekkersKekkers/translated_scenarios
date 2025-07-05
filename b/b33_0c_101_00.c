@@ -19,7 +19,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10100_05_010");
-MsgDisp("Hiiragi","Until I enrolled into Habataki Academy, 
+MsgDisp("Hiiragi","Until I enrolled into Habataki High School, 
 I was always travelling.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -48,7 +48,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B330C10100_05_030");
 MsgDisp("Hiiragi","...No.
 I have not gotten used to it yet, 
-but I love life at Haba Academy.");
+but I love life at Haba High.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

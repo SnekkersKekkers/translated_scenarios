@@ -2,7 +2,7 @@ MsgDisp("","Me and ｛風真＊＊｝ went onto a first-rate
 university.");
 MsgDisp("","｛颯砂＊＊｝ went on to a top sports
 university, ｛氷室＊＊｝ advanced to his
-third year at Haba Academy.");
+third year at Haba High.");
 MsgClear();
 MsgDisp("","｛風真＊＊｝ has started helping his
 grandfather in earnest, and I also drop by

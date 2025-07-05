@@ -109,7 +109,7 @@ like this, we'll have run out
 of time without having
 sung a single song.");
 MsgDisp("主人公","Umm...
-Then how about Haba Academy's anthem?");
+Then how about Haba High's anthem?");
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);

@@ -36,10 +36,10 @@ ChMotion(21,0);
 VoicePlay("F032100000_21_210");
 MsgDisp("Michiru","He's a celebrity that travels
 the world now... come to think of it, 
-I think he was an alumni of Haba Academy?");
+I think he was an alumni of Haba High?");
 MsgDisp("主人公","(Wow!
 To think that such an amazing pianist
-was an alumni of Haba Academy...)");
+was an alumni of Haba High...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

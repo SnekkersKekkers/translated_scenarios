@@ -13,8 +13,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040106300_01_010");
-    MsgDisp("Kazama","Yeah,
-way better than feeling so cluttered.");
+    MsgDisp("Kazama","Yeah, way better than feeling so cluttered.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

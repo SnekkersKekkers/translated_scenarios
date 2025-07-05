@@ -7,6 +7,6 @@ but to pick it");
 ChSet(3,0);
 VoicePlay("D140301158_03_010");
 MsgDisp("Honda","I wonder if the owner of the 
-is a Haba Academy alumnus?
-Or is he from Hanegasaki academy, 
+is a Haba High alumnus?
+Or is he from Hanegasaki High School, 
 which is close to the shop?");

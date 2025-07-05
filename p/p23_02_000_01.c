@@ -46,7 +46,7 @@ of dogs on my body?");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("P230200001_47_000");
-    MsgDisp("Broadcast","Habataki HIgh School's play will begin
+    MsgDisp("Broadcast","Habataki High School's play will begin
 shortly.");
     SEPlay("EV_SE_038");
     SEWait();

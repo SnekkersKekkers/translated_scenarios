@@ -50,7 +50,7 @@ VoicePlay("B070700000_07_110");
 MsgDisp("Mikage","Yeah. But, for some reason, it's not
 on the school cafeteria menu. If 
 I have one complaint about 
-Habataki Academy, it's that");
+Habataki High School, it's that");
 MsgDisp("主人公","(That's true... why is that?)");
 BGMStop();
 MsgClose();

@@ -97,7 +97,7 @@ MsgDisp("","That I found an important person, and
 I want to walk this shrine path with
 her.");
 MsgDisp("","And then I'll contact her right away.
-and tell her \"Happy new year.\"");
+and tell her \"Happy New Year.\"");
 BGMStop();
 MsgClear();
 MsgClose();

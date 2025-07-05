@@ -15,7 +15,7 @@ It feels good!");
 ChMotion(4,1,1);
 VoicePlay("B360401100_04_000");
 MsgDisp("Nanatsumori","Right.
-Ah, you can see Haba Academy.");
+Ah, you can see Haba High.");
 MsgDisp("主人公","Eh, where?");
 ChMotion(4,0,1);
 VoicePlay("B360401100_04_010");

@@ -14,7 +14,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140B04101_01_000");
-MsgDisp("Kazama","Haba Academy's school 
+MsgDisp("Kazama","Haba High's school 
 cafeteria is so high level.");
 ChEye(3,3);
 ChMouth(3,3);
