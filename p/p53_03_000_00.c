@@ -51,7 +51,7 @@ it's different to usual.");
     VoicePlay("P530300000_03_040");
     MsgDisp("Honda","Hey, now please give us a performance
 only you can do!");
-    MsgDisp("主人公","(THat means to do what I can, right...
+    MsgDisp("主人公","(That means to do what I can, right...
 Alright, I'll do my best.)");
     break ;
     case 4:

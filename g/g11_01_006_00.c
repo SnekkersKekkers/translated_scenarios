@@ -74,7 +74,7 @@ ChMotion(1,0);
 VoicePlay("G110100600_01_060");
 MsgDisp("Kazama","It's time for us to go.
 I'll walk you back.");
-MsgDisp("主人公","（｛風真＊＊｝……）");
+MsgDisp("主人公","(｛風真＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

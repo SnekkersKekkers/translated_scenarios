@@ -34,7 +34,7 @@ StlMouth(2,0);
 VoicePlay("D010200200_02_020");
 MsgDisp("Sassa","Hey, is it really that rare of a sight?
 Me reading a book.");
-MsgDisp("主人公","（∋）");
+MsgDisp("主人公","(∋)");
 StlEye(2,1);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);

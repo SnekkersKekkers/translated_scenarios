@@ -12,7 +12,7 @@ switch (ChPrmGet(8,6)){
     MsgDisp("Shirahane","Ah, fortunes!");
     MsgDisp("主人公","Oh, you're right.
 There are so many people in line......");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(8,3);
@@ -46,7 +46,7 @@ You're not going to∋");
 is probably where they're
 doing fortunes.");
     MsgDisp("主人公","Fortunes, huh......");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(8,3);
@@ -89,7 +89,7 @@ Do you want to draw one, ｛大地＊＊｝?");
     VoicePlay("S090800000_08_070");
     MsgDisp("Shirahane","Eh......
 What about you?");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(8,1);

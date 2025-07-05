@@ -35,7 +35,7 @@ MsgDisp("主人公","She's gone...");
 VoicePlay("F102210001_46_000");
 MsgDisp("Art Club Member","I can't find the painting 
 that was in the art club room?
-Maybe it's mixed in somewhere...?");
+Maybe it got misplaced...?");
 MsgDisp("主人公","(Deja vu...?)");
 MsgClose();
 ScrFadeOut(0,0);

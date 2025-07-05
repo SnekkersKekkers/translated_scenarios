@@ -63,7 +63,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("P840300004_03_060");
 MsgDisp("Honda","This is thanks to you 
 and the person who picked it up!
-THank you!");
+Thank you!");
 MsgDisp("主人公","(I'm glad I made that lost items notebook.
 I'm glad I was able to help everyone,
 even if it was just a little.)");

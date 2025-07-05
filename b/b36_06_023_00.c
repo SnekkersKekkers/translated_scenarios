@@ -77,7 +77,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B360602300_06_100");
 MsgDisp("Himuro","I'm glad I invited you.");
-MsgDisp("主人公","（｛氷室＊＊｝……）");
+MsgDisp("主人公","(｛氷室＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

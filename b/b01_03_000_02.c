@@ -76,7 +76,7 @@ What kind of dream was it?");
     MsgDisp("Honda","I forgot after I saw you. The real you is
 more important than my dreams.");
     MsgDispSksp(1,0);
-    MsgDisp("主人公","（｛本多＊＊｝...）");
+    MsgDisp("主人公","(｛本多＊＊｝...)");
     MsgDispSksp(0);
     break ;
     default :

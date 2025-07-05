@@ -35,7 +35,7 @@ let's just do our best next time.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("N020200003_02_030");
-    MsgDisp("Sassa","I'm talking about your test results.
+    MsgDisp("Sassa","I'm talking about your exam results.
 I hope you don't mind.");
     ChEye(2,0);
     ChMouth(2,0);

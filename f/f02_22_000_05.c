@@ -31,6 +31,6 @@ ChMotion(22,0,1);
 VoicePlay("F022200005_22_030");
 MsgDisp("Hikaru","Then, how exactly do I go about
 getting 50 points in one sititing?");
-MsgDisp("主人公","（…………）");
+MsgDisp("主人公","(…………)");
 MsgClose();
 ScrFadeOut(0,0);

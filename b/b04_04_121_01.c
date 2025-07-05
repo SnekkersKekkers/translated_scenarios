@@ -34,7 +34,7 @@ Then, maybe I'll get it. ");
     VoicePlay("B040412101_04_020");
     MsgDisp("Nanatsumori","...It really is.
 This is by a foreign artist in the 80's.
-How tasteful...!");
+A classic...!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,7 +46,7 @@ How tasteful...!");
     ChMotion(4,0,1);
     VoicePlay("B040412101_04_030");
     MsgDisp("Nanatsumori","Well, it is second hand but...
-That's not a good way of putting it.");
+That's not a nice way of putting it.");
     MsgDateResultDisp();
     break ;
     default :

@@ -28,10 +28,10 @@ else {
     }
 while ( var0 ==1){
     if ( var1 ==1){
-        MsgSel("Fashion secrets.","Guy's fashion preferences.");
+        MsgSel("Fashion secrets","Guy's fashion preferences");
         }
     else {
-        MsgSel("Fashion secrets.","Guy's fashion preferences.","Let's hang out.");
+        MsgSel("Fashion secrets","Guy's fashion preferences","Let's hang out.");
         }
     switch (MsgSelRsltGet()){
         case 0:

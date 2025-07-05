@@ -38,7 +38,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B360323600_03_030");
 MsgDisp("Honda","Look, the parade is starting. Let's go up
 front!");
-MsgDisp("主人公","（｛本多＊＊｝...）");
+MsgDisp("主人公","(｛本多＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -26,13 +26,13 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100100_01_020");
 MsgDisp("Kazama","I don't feel it.");
-MsgDisp("主人公","Hehe, it's a habit.");
+MsgDisp("主人公","Hehe, it's my daily ritual.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100100_01_030");
-MsgDisp("Kazama","Ahh, a habit of yours?
+MsgDisp("Kazama","Ahh, a ritual of yours?
 I wouldn't want to disturb a sunbather
 with too much time on their hands. Cya.");
 MsgClose();
@@ -42,7 +42,7 @@ Wait(20,0);
 SEPlay("EV_SE_598",0,0.8);
 Wait(5,0);
 MsgDisp("主人公","Woah∈
-That was a huge breeze......");
+A huge breeze∈");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_08");

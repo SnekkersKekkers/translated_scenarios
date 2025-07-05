@@ -101,7 +101,7 @@ get the wrong idea.");
         ChMotion(6,1);
         VoicePlay("B040602302_06_110");
         MsgDisp("Himuro","It's fine, it's nothing.");
-        MsgDisp("主人公","（｛氷室＊＊｝？）");
+        MsgDisp("主人公","(｛氷室＊＊｝？)");
         break ;
         default :
         DbgAssert(1);

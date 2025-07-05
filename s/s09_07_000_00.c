@@ -22,7 +22,7 @@ huh.");
     ChMotion(7,1);
     VoicePlay("S090700000_07_020");
     MsgDisp("Mikage","Would you like to try?");
-    MsgSel("Let's draw fortunes","I don't want to");
+    MsgSel("Let's draw fortunes.","I don't want to");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(7,0);
@@ -67,7 +67,7 @@ That's where they do fortunes, right?");
     ChMotion(7,1);
     VoicePlay("S090700000_07_060");
     MsgDisp("Mikage","What about you, want to go?");
-    MsgSel("Let's draw fortunes","I don't want to");
+    MsgSel("Let's draw fortunes.","I don't want to");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(7,0);
@@ -120,7 +120,7 @@ They're having some event.");
     MsgDisp("Mikage","Ah, it looks like fortunes!
 Do you want to go?");
     MsgDisp("主人公","Ahh, I think you're right.");
-    MsgSel("Let's draw fortunes","I don't want to");
+    MsgSel("Let's draw fortunes.","I don't want to");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(7,0);

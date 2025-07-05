@@ -46,4 +46,4 @@ VoicePlay("F020100001_01_050");
 MsgDisp("Kazama","Its kind of scary the way things are
 turning out... 
 but it'd be a lie if I didn't decide.");
-MsgDisp("主人公","（...｛風真＊＊｝?）");
+MsgDisp("主人公","(...｛風真＊＊｝?)");

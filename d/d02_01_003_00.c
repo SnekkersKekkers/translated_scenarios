@@ -157,6 +157,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop(2);
 ChClose(1);
 SEWait();
-MsgDisp("主人公","（｛風真＊＊｝……）");
+MsgDisp("主人公","(｛風真＊＊｝……)");
 MsgClose();
 ScrFadeOut(0,0);

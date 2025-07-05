@@ -104,7 +104,7 @@ ChMotion(4,1,1);
 VoicePlay("B330B10200_04_040");
 MsgDisp("Nanatsumori","No, Kazama is the one 
 looking the most.");
-MsgDisp("主人公","（？？？）");
+MsgDisp("主人公","(？？？)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

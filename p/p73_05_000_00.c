@@ -53,7 +53,7 @@ little easier, right?");
     VoicePlay("P730500000_05_050");
     MsgDisp("Hiiragi","｛主人公｝.
 I forgot to mention something important.
-THat outfit suits you very well.");
+That outfit suits you very well.");
     MsgDisp("主人公","Thank you...!");
     MsgDisp("主人公","(I feel like ｛柊＊＊＊｝
 gave me the push I needed.

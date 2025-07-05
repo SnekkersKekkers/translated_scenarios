@@ -59,7 +59,7 @@ MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_505");
 MsgDisp("","
-*CHU*");
+*Smooch*");
 MsgClose();
 ChClose(4,0,30);
 ChLayout(1);

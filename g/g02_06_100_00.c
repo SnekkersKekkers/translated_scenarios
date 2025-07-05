@@ -70,7 +70,7 @@ ChCheek(6,10);
 VoicePlay("G020610000_06_100");
 MsgDisp("Himuro","......What am I saying? Let's head back.
 I'll walk you home.");
-MsgDisp("主人公","（｛氷室＊＊｝……?）");
+MsgDisp("主人公","(｛氷室＊＊｝……?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

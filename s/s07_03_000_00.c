@@ -20,7 +20,7 @@ Everyone looks like they're having fun.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("S070300000_03_010");
-    MsgDisp("Honda","Yeah, me too.");
+    MsgDisp("Honda","I am too!");
     break ;
     case 3:
     ChEye(3,3);

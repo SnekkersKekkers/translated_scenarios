@@ -108,7 +108,7 @@ ChMotion(6,1);
 VoicePlay("G110600200_06_120");
 MsgDisp("Himuro","It's nothing! It looks like there's some
 nice waves coming, I'm off!");
-MsgDisp("主人公","（｛氷室＊＊｝……?）");
+MsgDisp("主人公","(｛氷室＊＊｝……?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

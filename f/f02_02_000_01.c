@@ -84,4 +84,4 @@ ChMotion(2,0);
 VoicePlay("F020200001_02_100");
 MsgDisp("Sassa","Yeah, it's a story about the importance
 of planning.");
-MsgDisp("主人公","（...?）");
+MsgDisp("主人公","(...?)");

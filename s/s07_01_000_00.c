@@ -52,7 +52,7 @@ It'll save the Gods' time too.");
     ChCheek(1,5);
     VoicePlay("S070100000_01_050");
     MsgDisp("Kazama","Surely, we share the same wish.");
-    MsgDisp("主人公","（｛風真＊＊｝……？）");
+    MsgDisp("主人公","(｛風真＊＊｝……？)");
     break ;
     case 4:
     case 5:

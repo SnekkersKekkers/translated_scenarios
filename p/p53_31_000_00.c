@@ -2,7 +2,7 @@ BGMStop();
 ChLayout(1);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(THis year's program is classical.
+MsgDisp("主人公","(This year's program is classical.
 I'm a little nervous.
 Can I really do it properly...)");
 MsgClose();

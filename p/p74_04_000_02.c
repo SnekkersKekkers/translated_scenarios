@@ -15,7 +15,7 @@ VoicePlay("P740400002_04_000");
 MsgDisp("Nanatsumori","Good work.
 You really looked your best.");
 MsgDisp("主人公","｛七ツ森＊｝.
-THank you!");
+Thank you!");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);

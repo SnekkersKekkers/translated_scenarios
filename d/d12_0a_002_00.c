@@ -201,7 +201,7 @@ VoicePlay("D120A00200_01_100");
 MsgDisp("Kazama","It's nothing.
 Look, the festival is continuing. 
 Shall we go?");
-MsgDisp("主人公","（……｛風真＊＊｝？）");
+MsgDisp("主人公","(……｛風真＊＊｝？)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

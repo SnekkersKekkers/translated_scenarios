@@ -14,7 +14,7 @@ problems...)");
 VoiceEVSPlay(7);
 VoicePlay("P840700004_07_000");
 MsgDisp("Mikage?","｛主人公｝,
-THat was excellent.");
+That was excellent.");
 MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

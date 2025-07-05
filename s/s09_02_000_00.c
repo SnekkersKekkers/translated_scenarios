@@ -16,7 +16,7 @@ Over there, fortunes!");
     ChMotion(2,4);
     VoicePlay("S090200000_02_010");
     MsgDisp("Sassa","Want to try our luck?");
-    MsgSel("Let's pull fortunes","It's too crowded");
+    MsgSel("Let's pull fortunes","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);
@@ -53,7 +53,7 @@ This way, so we don't trip.");
     VoicePlay("S090200000_02_050");
     MsgDisp("Sassa","What should we do?
 It's right in front of us.");
-    MsgSel("Let's pull fortunes","It's too crowded");
+    MsgSel("Let's pull fortunes","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,3);
@@ -103,7 +103,7 @@ Hm, over there is really crowded too?");
     VoicePlay("S090200000_02_100");
     MsgDisp("Sassa","That's where they do fortunes......
 Do you still have the energy?");
-    MsgSel("Let's pull fortunes","It's too crowded");
+    MsgSel("Let's pull fortunes","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);

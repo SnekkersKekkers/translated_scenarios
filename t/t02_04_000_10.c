@@ -1,5 +1,5 @@
 MsgClear();
-MsgSel("I like you too……","（Answer with a kiss）","I'm sorry……");
+MsgSel("I like you too……","(Answer with a kiss)","I'm sorry……");
 switch (MsgSelRsltGet()){
     case 0:
     case 1:

@@ -15,15 +15,15 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102210000_22_010");
 MsgDisp("Hikaru","Oh, Mari.
-I got some really cute flowers 
+Hikaru got some really cute flowers 
 from the gardening club♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F102210000_22_020");
-MsgDisp("Hikaru","So, the classroom is kind of drab,
-so I decorated it cutely and it
+MsgDisp("Hikaru","The classroom is kind of drab,
+so Hikaru decorated it cutely and it
 was a big hit! Hikaru is so happy▼");
 MsgDisp("主人公","Wow...!");
 ChEye(22,3);

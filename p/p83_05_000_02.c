@@ -36,7 +36,7 @@ your face looks stern?");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("P830500002_05_020");
-    MsgDisp("Hiiragi","THis is the last time we'll 
+    MsgDisp("Hiiragi","This is the last time we'll 
 get to manage the school festival.
 I want smile that's befitting of you.");
     MsgDisp("主人公","(I see, that's right...

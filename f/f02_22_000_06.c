@@ -43,6 +43,6 @@ ChMotion(22,5,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F022200006_22_040");
 MsgDisp("Hikaru","Not at all!");
-MsgDisp("主人公","（…………）");
+MsgDisp("主人公","(…………)");
 MsgClose();
 ScrFadeOut(0,0);

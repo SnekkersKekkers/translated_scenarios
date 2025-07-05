@@ -16,4 +16,4 @@ MsgDisp("Nanatsumori","Right. Seeing you wearing trendy items is
 far more satisfying than just seeing it on
 the net or in magazines.");
 MsgDisp("主人公","(Yay!
-｛七ツ森＊｝ praised me.▼)");
+｛七ツ森＊｝ praised me▼)");

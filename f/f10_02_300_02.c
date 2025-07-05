@@ -118,7 +118,7 @@ MsgDisp("Sassa","But, you're the most difficult one.
 It's not that you don't have gaps,
 rather, you're filled with 
 nothing but gaps...");
-MsgDisp("主人公","（？？？）");
+MsgDisp("主人公","(？？？)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

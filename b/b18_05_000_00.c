@@ -8,14 +8,14 @@ VoiceEVSPlay(5);
 VoicePlay("B180500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
 MsgDisp("主人公","Hm?
-...HUh?");
+...Huh?");
 ChMotion(5,4);
 ChCheek(5,7);
 VoicePlay("B180500000_05_010");
 MsgDisp("Hiiragi","I tried to make it 
 as natural as possible...
 But how about this way of addressing you?");
-MsgSel("Yeah, that's fine!","Yeah～, it's a bit...");
+MsgSel("Yeah, that's fine!","Hmm～ it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChMotion(5,0);

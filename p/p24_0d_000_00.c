@@ -95,7 +95,7 @@ BGMStop(2);
 SEPlay("EV_SE_GAYA_021");
 Wait(160,0);
 VoicePlay("P240D00000_49_000");
-MsgDisp("Narrarator","And so, the lovers in this town were
+MsgDisp("Narrator","And so, the lovers in this town were
 protected. But their fight continues......
 until the Flora Angels find love
 themselves.");

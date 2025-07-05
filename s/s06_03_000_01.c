@@ -15,15 +15,15 @@ What do you think?");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("S060300001_03_010");
-    MsgDisp("Honda","Of course, it's amazing!
-Today I get to walk next to a girl with
-full marks.");
-    MsgDisp("主人公","Full marks?");
+    MsgDisp("Honda","Of course, it's wonderful!
+Today, I get to walk beside a girl with a
+perfect score.");
+    MsgDisp("主人公","A perfect score?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S060300001_03_020");
-    MsgDisp("Honda","Right, 100 points is a perfect
+    MsgDisp("Honda","Yepyep, 100 points makes a perfect
 score.");
     MsgDisp("主人公","(What a relief.
 ｛本多＊＊｝ seems to like it!)");

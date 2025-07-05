@@ -20,7 +20,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B070600000_06_090");
 MsgDisp("Himuro","Is that so?
-Then, can you make Sata Andagi?");
+Then, can you make Donut Holes?");
 MsgDisp("主人公","That's quite hard to make, huh?");
 ChEye(6,0);
 ChMouth(6,0);

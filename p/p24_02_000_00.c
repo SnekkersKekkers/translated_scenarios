@@ -152,7 +152,7 @@ Isn't it great, Cerebus?
 Persephone will stay with us.");
 SEStop("EV_SE_681",1);
 VoicePlay("P240200000_49_000");
-MsgDisp("Narrarator","Persephone was then drawn to Hades'
+MsgDisp("Narrator","Persephone was then drawn to Hades'
 sincerity and wanted to marry the king 
 of the underworld.");
 MsgClose();

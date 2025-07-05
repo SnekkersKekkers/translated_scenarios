@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040406102_04_000");
 MsgDisp("Nanatsumori","So.
 What do you want to play first?");
-MsgSel("I want to swim","I want to bury myself in the sand","Hoe about splashing around in the water?");
+MsgSel("I want to swim.","I want to bury myself in the sand.","Hoe about splashing around in the water?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){
@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
         DateRateSet(1);
         ChMotion(4,0,1);
         VoicePlay("B040406102_04_010");
-        MsgDisp("Nanatsumori","I'm stayingー.
+        MsgDisp("Nanatsumori","I'm staying.
 I'll keep watch from here.");
         MsgDateResultDisp();
         break ;

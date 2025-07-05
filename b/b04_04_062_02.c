@@ -101,7 +101,7 @@ I was already caught in a dream.");
         VoicePlay("B040406202_04_100");
         MsgDisp("Nanatsumori","I see, so it's this sort of feeling...
 Like heaven on earth...");
-        MsgDisp("主人公","（｛七ツ森＊｝？）");
+        MsgDisp("主人公","(｛七ツ森＊｝？)");
         break ;
         default :
         DbgAssert(1);

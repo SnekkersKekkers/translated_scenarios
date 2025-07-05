@@ -54,7 +54,7 @@ it my all these last three years?)");
     MsgDisp("Honda","｛主人公｝.
 I came to see how you were doing.");
     MsgDisp("主人公","Ah, ｛本多＊＊｝. 
-THank you!");
+Thank you!");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);

@@ -80,7 +80,7 @@ VoicePlay("D010400500_04_020");
 MsgDisp("Nanatsumori","Eh?");
 SEStop("EV_SE_GAYA_016",3);
 SEStop("EV_SE_864",3);
-MsgDisp("主人公","（！）");
+MsgDisp("主人公","(！)");
 VoicePlay("D010400500_39_130");
 MsgDisp("Male Student C","You'd look good in this kind of
 thing, right?");

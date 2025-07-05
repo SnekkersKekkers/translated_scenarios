@@ -1,5 +1,5 @@
 MsgClear();
-MsgSel("Me too……","（Answer with a kiss）","I'm sorry…");
+MsgSel("Me too……","(Answer with a kiss)","I'm sorry…");
 switch (MsgSelRsltGet()){
     case 0:
     break ;

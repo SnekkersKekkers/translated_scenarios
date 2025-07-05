@@ -48,22 +48,22 @@ while (1){
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("G110100900_01_020");
-    MsgDisp("Kazama","Haaー......");
+    MsgDisp("Kazama","Haa......");
     ChEyeOpenLevel(1,-1);
     }
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100900_01_060");
-MsgDisp("Kazama","Ah, thank youー. Please pull me. My body
-has gone stiff and I can't stand up.");
-MsgDisp("主人公","Ehhー?　Geez, let's go.
-Here goes——");
+MsgDisp("Kazama","Ah, thanks. Could you help me up? 
+My body’s so stiff, I can’t stand on my own.");
+MsgDisp("主人公","Ehh?　Geez, let's go.
+Come on——");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,2);
 VoicePlay("G110100900_01_070");
-MsgDisp("Kazama","Ookay......");
+MsgDisp("Kazama","Okay......");
 SEPlay("EV_SE_645",0.3,0.5);
 Wait(15,0);
 ChClose(1,0,30);

@@ -15,7 +15,7 @@ ChMotion(21,0);
 VoicePlay("F022100002_21_010");
 MsgDisp("Michiru","I heard a kind of interesting rumor.
 About Vice-Principal Himuro and 
-some of the tudents.");
+some of the students.");
 MsgDisp("主人公","Himuro-sensei?");
 ChEye(21,0);
 ChMouth(21,0);
@@ -31,9 +31,9 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100002_21_030");
 MsgDisp("Michiru","The way it goes is that he turns 
-the poor students into honor students,
-and make Haba Academy a super
-elite school, right?");
+the bad students into honor students,
+in order to make Haba Academy a super
+elite school, I suppose.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

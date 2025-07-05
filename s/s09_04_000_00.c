@@ -13,7 +13,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","Are you the type that draws
 fortunes?");
     MsgDisp("主人公","I......");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChMouth(4,3);
@@ -46,7 +46,7 @@ Let's line up then.");
     MsgDisp("Nanatsumori","Over there.
 Do you want to pull fortunes?");
     MsgDisp("主人公","Uhm......");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(4,0);
@@ -89,7 +89,7 @@ What should we do......");
     VoicePlay("S090400000_04_070");
     MsgDisp("Nanatsumori","Fortunes.
 Are you brave enough to give it a try?");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(4,0);

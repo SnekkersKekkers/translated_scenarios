@@ -1,4 +1,4 @@
-MsgSel("Tug of war.","Three-legged race.","Ball toss.");
+MsgSel("Tug of war","Three-legged race","Ball toss");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Yeah, let's do the tug of war!");

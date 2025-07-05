@@ -92,7 +92,7 @@ MsgDisp("Kazama","Maybe because I was able to sort things
 out in that room overnight, we have the
 relationship we do now?");
 ChEyeOpenLevel(1,-1);
-MsgDisp("主人公","（｛風真＊＊｝……）");
+MsgDisp("主人公","(｛風真＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -39,7 +39,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("D010200100_02_020");
 MsgDisp("Sassa","…………");
-MsgDisp("主人公","（｛颯砂＊＊｝……）");
+MsgDisp("主人公","(｛颯砂＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

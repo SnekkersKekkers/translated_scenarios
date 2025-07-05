@@ -132,7 +132,7 @@ I'm still under one roof with you today.");
     MsgDisp("Kazama","It's ok, still.
 It's like a dream for me back in the 
 day.");
-    MsgDisp("主人公","（ ｛風真＊＊｝ ……）");
+    MsgDisp("主人公","( ｛風真＊＊｝ ……)");
     break ;
     default :
     DbgAssert(1);

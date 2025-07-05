@@ -91,7 +91,7 @@ who's making a troubled face.");
 the ratio of things I like about 
 this situation will increase,
 which will help me. ");
-        MsgDisp("主人公","（｛颯砂＊＊｝...）");
+        MsgDisp("主人公","(｛颯砂＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

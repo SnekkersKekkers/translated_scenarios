@@ -26,7 +26,7 @@ My score was disappointing, huh.)");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("N020300002_03_020");
-    MsgDisp("Honda","Did you already check the test results?");
+    MsgDisp("Honda","Did you already check the exam results?");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Yeah, I did check.");
     ChEye(3,4);
@@ -61,7 +61,7 @@ What's up?");
     ChMotion(3,0);
     VoicePlay("N020300002_03_060");
     MsgDisp("Honda","Hmm, I've never been interested in other
-people's test results...");
+people's exam results...");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4);

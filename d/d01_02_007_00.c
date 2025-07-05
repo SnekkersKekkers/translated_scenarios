@@ -48,7 +48,7 @@ I'll run until I pass out!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","（｛颯砂＊＊｝……）");
+MsgDisp("主人公","(｛颯砂＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

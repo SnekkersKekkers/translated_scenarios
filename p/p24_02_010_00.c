@@ -78,7 +78,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 VoicePlay("P240201000_49_000");
-MsgDisp("Narrarator","Afterwards, Persephone was drawn to Hades'
+MsgDisp("Narrator","Afterwards, Persephone was drawn to Hades'
 sincerity, And wished to marry the king of
 the underworld.");
 BGMStop();

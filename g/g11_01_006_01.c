@@ -69,7 +69,7 @@ VoicePlay("G110100601_01_050");
 MsgDisp("Kazama","Hey, don't make that face. It's okay, It's
 not like I'm going to suddenly start
 surfing tomorrow.");
-MsgDisp("主人公","（｛風真＊＊｝……）");
+MsgDisp("主人公","(｛風真＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

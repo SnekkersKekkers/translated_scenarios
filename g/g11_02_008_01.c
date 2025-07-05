@@ -34,7 +34,7 @@ Well, come out quickly.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","（？？？）");
+MsgDisp("主人公","(？？？)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();

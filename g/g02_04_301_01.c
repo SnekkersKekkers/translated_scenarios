@@ -53,7 +53,7 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("G020430101_04_070");
 MsgDisp("Nanatsumori","Nah.
-THat's a matter for myself.");
+That's a matter for myself.");
 MsgDisp("主人公","(Friends......
 I guess I might have a lot of them.)");
 BGMStop();

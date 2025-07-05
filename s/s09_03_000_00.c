@@ -11,7 +11,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("S090300000_03_000");
     MsgDisp("Honda","Ah, that's where they're doing fortunes.
 A staple of a New Year's shrine visit.");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,0);
@@ -44,7 +44,7 @@ It's fun, though.");
     VoicePlay("S090300000_03_030");
     MsgDisp("Honda","Look, they're doing fortunes over there.");
     MsgDisp("主人公","Uhm......");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,3);
@@ -87,7 +87,7 @@ I didn't mean to invite you though......");
     VoicePlay("S090300000_03_070");
     MsgDisp("Honda","Really? Then let me ask you.
 Want to try our luck?");
-    MsgSel("Yep, let's draw!","It's too crowded");
+    MsgSel("Yep, let's draw!","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,0);

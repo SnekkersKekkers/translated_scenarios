@@ -10,6 +10,6 @@ parents. I'll be back in time for
 graduation\"......)");
 MsgDisp("主人公","(Ehh∋
 But his parents are in England......)");
-MsgDisp("主人公","（｛風真＊＊｝……）");
+MsgDisp("主人公","(｛風真＊＊｝……)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -44,7 +44,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700400_07_040");
-MsgDisp("Mikage","Never mind that. JUst try taking a deep
+MsgDisp("Mikage","Never mind that. Just try taking a deep
 breath.");
 MsgDisp("主人公","......Huu, fuuu......");
 ChEye(7,0);

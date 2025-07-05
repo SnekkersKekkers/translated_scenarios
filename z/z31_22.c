@@ -34,21 +34,21 @@ int  var8 =3;
 while ( var0 ==1){
     if ( var1 ==1){
         if (PlFlgGet(3)==1){
-            MsgSel("What people think of me.","People's information.","Check on Mari's Garden.");
+            MsgSel("What people think of me","People's information","Check on Mari's Garden");
              var7 =2;
             }
         else {
-            MsgSel("What people think of me.","People's information.");
+            MsgSel("What people think of me","People's information");
             }
         }
     else {
         if (PlFlgGet(3)==1){
-            MsgSel("What people think of me.","People's information.","Check on Mari's Garden.","Let's hang out.");
+            MsgSel("What people think of me","People's information","Check on Mari's Garden","Let's hang out.");
              var7 =2;
              var8 =3;
             }
         else {
-            MsgSel("What people think of me.","People's information.","Let's hang out.");
+            MsgSel("What people think of me","People's information","Let's hang out.");
              var7 =3;
             }
         }

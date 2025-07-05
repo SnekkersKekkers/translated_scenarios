@@ -65,7 +65,7 @@ ChMotion(4,2,1);
 VoicePlay("G020420000_04_100");
 MsgDisp("Nanatsumori","I'm just getting worked up by myself
 I look so dumb......");
-MsgDisp("主人公","（｛七ツ森＊｝?）");
+MsgDisp("主人公","(｛七ツ森＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

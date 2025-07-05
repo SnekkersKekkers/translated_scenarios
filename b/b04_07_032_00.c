@@ -6,9 +6,8 @@ ChMouth(7,3);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040703200_07_000");
-MsgDisp("Mikage","Let's observe the penguins at 
-an angle we can't normally see.");
-MsgSel("Let's run under the tube","I want to swim with them too","The penguins are about to start walking");
+MsgDisp("Mikage","We get to observe the penguins from a unique angle.");
+MsgSel("Let's run under the tube.","I want to swim with them too.","The penguins are starting to walk.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

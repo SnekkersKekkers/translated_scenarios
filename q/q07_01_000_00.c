@@ -139,7 +139,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("Q070100000_01_130");
 MsgDisp("Kazama","To that, huh......
 You're not getting it.");
-MsgDisp("主人公","（？？？）");
+MsgDisp("主人公","(？？？)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

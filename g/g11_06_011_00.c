@@ -88,7 +88,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G110601100_06_110");
 MsgDisp("Himuro","Well, it's been quite fun.
 Thanks for everything.");
-MsgDisp("主人公","（｛氷室＊＊｝……）");
+MsgDisp("主人公","(｛氷室＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

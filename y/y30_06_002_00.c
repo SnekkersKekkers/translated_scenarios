@@ -12,8 +12,8 @@ MsgClear();
 MsgDisp("","Every year, on New year's day, we go
 on our first shrine visit of the
 year, After that we go around to
-greet everyone, THat is the rule of
-the Himuro house,");
+greet everyone, that is the rule of
+the Himuro house.");
 MsgDisp("","In doing the rounds, of course, we
 show up at Reiichi-san's house.
 Naturally, I haven't even missed this

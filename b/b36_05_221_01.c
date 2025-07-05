@@ -63,7 +63,7 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522101_05_090");
 MsgDisp("Hiiragi","I'm glad I came with you after all......");
-MsgDisp("主人公","（｛柊＊＊＊｝……）");
+MsgDisp("主人公","(｛柊＊＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

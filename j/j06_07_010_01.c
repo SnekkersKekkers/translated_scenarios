@@ -20,8 +20,7 @@ That's a healthy high school student.");
     MsgDisp("Mikage","Don't worry about it, okay?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm,
-Maybe I should have gone.)");
+    MsgDisp("主人公","(Hmmm, maybe I should have gone.)");
     break ;
     default :
     DbgAssert(0);

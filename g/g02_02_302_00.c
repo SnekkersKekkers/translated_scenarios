@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(2,255,4,0,0,-1,-1,0,0);
 VoicePlay("G020230200_02_000");
 MsgDisp("Sassa","What do fireflies eat?
-THings like grass?");
+Things like grass?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

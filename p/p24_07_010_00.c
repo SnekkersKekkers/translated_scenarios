@@ -26,7 +26,7 @@ ChClose(7);
 BGOpen("sc744",0);
 ScrFadeIn(0);
 VoicePlay("P240701000_49_000");
-MsgDisp("Narrarator","Searching for his missing wife, Bai Niang,
+MsgDisp("Narrator","Searching for his missing wife, Bai Niang,
 Xu Xian waited tirelessly by the lake.");
 VoicePlay("P240701000_46_000");
 MsgDisp("White Girl","I am the incarnation of a thousand 
@@ -69,7 +69,7 @@ MsgDisp("Mikage","Yes, the backstage team were also
 greatly successful.");
 MsgDisp("主人公","Yeah!");
 VoicePlay("P240701000_49_010");
-MsgDisp("Narrarator","The lightning arrows sent by the pursuers 
+MsgDisp("Narrator","The lightning arrows sent by the pursuers 
 pierced through Bai Niang's back.");
 VoicePlay("P240701000_46_020");
 MsgDisp("White Girl","This is... fine.

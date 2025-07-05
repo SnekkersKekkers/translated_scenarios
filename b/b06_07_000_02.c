@@ -9,7 +9,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("B060700002_07_000");
-MsgDisp("Mikage","That's good but,
-come again if you're interested.");
+MsgDisp("Mikage","That's good, I guess.
+Come again next time if you want.");
 MsgClose();
 ScrFadeOut(0,0);

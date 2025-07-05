@@ -146,7 +146,7 @@ ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330A10101_06_040");
 MsgDisp("Himuro","You've also got it tough huh.");
-MsgDisp("主人公","（？？？）");
+MsgDisp("主人公","(？？？)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

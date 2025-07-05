@@ -73,7 +73,7 @@ MsgClear();
 VoicePlay("Y300300400_03_030");
 MsgDisp("Honda","\"Right, right, that's her.
 ever-changing and with no key to
-understanding her. THat's whys he's
+understanding her. That's whys he's
 interesting.\"");
 VoicePlay("Y300300400_04_030");
 MsgDisp("Nanatsumori","\"True...\"");

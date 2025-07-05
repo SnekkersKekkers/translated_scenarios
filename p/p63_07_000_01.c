@@ -74,7 +74,7 @@ There's quite a lot of kinds huh?");
 Then, I'll have the blend for 
 sound sleep please.");
     MsgDisp("主人公","Yes.
-THen one original blend herbal tea 
+Then one original blend herbal tea 
 for sound sleep then!");
     break ;
     default :

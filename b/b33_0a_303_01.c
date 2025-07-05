@@ -82,7 +82,7 @@ ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330A30301_06_020");
 MsgDisp("Himuro","Right.
-Something like Sata Andagi 
+Something like Donut Holes 
 would be nice too.");
 ChEye(2,0);
 ChMouth(2,3);

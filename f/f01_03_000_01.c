@@ -42,7 +42,7 @@ Sorry.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(3);
-    MsgDisp("主人公","(Ookay...
+    MsgDisp("主人公","(Okay...
 Seems like he doesn't like it when I 
 call him that.)");
     break ;

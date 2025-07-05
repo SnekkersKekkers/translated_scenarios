@@ -31,7 +31,7 @@ being more legit than I thought.");
     ChMotion(1,3);
     VoicePlay("P730100000_01_020");
     MsgDisp("Kazama","Both the clothes and model are stylish.");
-    MsgDisp("主人公","Thank you. THough I'm not sure how much I
+    MsgDisp("主人公","Thank you. Though I'm not sure how much I
 can trust you?");
     ChEye(1,0);
     ChMouth(1,3);

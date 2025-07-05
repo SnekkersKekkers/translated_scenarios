@@ -79,7 +79,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("G020720300_07_100");
 MsgDisp("Mikage","Yeah.
-THanks to you, I feel better now.
+Thanks to you, I feel better now.
 As expected of the Molly of Haba school.");
 MsgDisp("主人公","(Ehh?)");
 BGMStop();

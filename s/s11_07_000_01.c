@@ -14,7 +14,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("S110700001_07_010");
 MsgDisp("Mikage","Well, it's because I'm spending
-New Years with Beppin-san.");
+New Years with the garden bell. ");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

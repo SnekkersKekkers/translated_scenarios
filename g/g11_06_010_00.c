@@ -16,7 +16,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_010");
 MsgDisp("Himuro","It's okay but......Ryouta-senpai——
 Ah, nevermind.");
-MsgDisp("主人公","（｛風真＊＊｝?）");
+MsgDisp("主人公","(｛風真＊＊｝?)");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -88,7 +88,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601000_06_100");
 MsgDisp("Himuro","It's nothing.");
-MsgDisp("主人公","（？？？）");
+MsgDisp("主人公","(？？？)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

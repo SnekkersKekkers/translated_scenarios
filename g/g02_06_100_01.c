@@ -56,7 +56,7 @@ VoicePlay("G020610001_06_070");
 MsgDisp("Himuro","Even if we can't see the fireflies
 anymore, I hope my time with you continues
 forever......");
-MsgDisp("主人公","（｛氷室＊＊｝……）");
+MsgDisp("主人公","(｛氷室＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

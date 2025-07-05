@@ -9,7 +9,7 @@ ChLayout(1);
 ChOpen(7,38,0,0,4,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240700000_49_000");
-MsgDisp("Narrarator","Searching for his missing wife, Bai Niang,
+MsgDisp("Narrator","Searching for his missing wife, Bai Niang,
 Xu Xian waited tirelessly by the lake.");
 ChEye(7,0);
 ChMouth(7,4);
@@ -79,7 +79,7 @@ ScrFadeOut(0,0);
 StlClose();
 MsgDisp("主人公","Ah...!");
 VoicePlay("P240700000_49_010");
-MsgDisp("Narrarator","The lightning arrows sent by the pursuers 
+MsgDisp("Narrator","The lightning arrows sent by the pursuers 
 pierced through Bai Niang's back.");
 BGOpen("sc744",0);
 MsgClose();

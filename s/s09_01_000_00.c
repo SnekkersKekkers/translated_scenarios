@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("S090100000_01_000");
     MsgDisp("Kazama","Want to get fortunes?");
     MsgDisp("主人公","Shall we try our luck this year?");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);
@@ -51,7 +51,7 @@ Woah, it's super popular.");
     ChMotion(1,0);
     VoicePlay("S090100000_01_020");
     MsgDisp("Kazama","So, what should we do?");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);
@@ -100,7 +100,7 @@ popular. What should we do? Feeling
 lucky?");
     MsgDisp("主人公","Drawing fortunes......
 Should I give it a try?");
-    MsgSel("Let's draw fortunes","It's too crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);

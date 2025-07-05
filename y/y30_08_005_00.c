@@ -19,8 +19,7 @@ VoicePlay("Y300800500_46_000");
 MsgDisp("School Girl B","\"That's incredible? For him to wait
 so proudly at the school gates, I'm a
 bit jealous...\"");
-MsgDisp("","Heheh, 
-it makes me feel kind of ticklish.");
+MsgDisp("","Hehe, it makes me feel kind of funny.");
 MsgClear();
 VoicePlay("Y300800500_41_020");
 MsgDisp("Male Student B","\"Maybe he's here challenging a

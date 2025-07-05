@@ -98,7 +98,7 @@ cherish you.");
         VoicePlay("B040830002_08_110");
         MsgDisp("Shirahane","Hehe..
 I said it.");
-        MsgDisp("主人公","（｛大地＊＊｝……）");
+        MsgDisp("主人公","(｛大地＊＊｝……)");
         break ;
         default :
         DbgAssert(1);

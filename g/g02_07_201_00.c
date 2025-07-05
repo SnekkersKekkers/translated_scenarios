@@ -40,7 +40,7 @@ VoicePlay("G020720100_07_050");
 MsgDisp("Mikage","Haa......
 That was all just my inner voice,
 so you don't need to respond.");
-MsgDisp("主人公","（｛御影＊＊｝……）");
+MsgDisp("主人公","(｛御影＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

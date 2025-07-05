@@ -80,7 +80,7 @@ ChMotion(6,1);
 VoicePlay("G020610302_06_110");
 MsgDisp("Himuro","It's nothing! Just, that outfit suits you,
 so you should wear it again. That's all.");
-MsgDisp("主人公","（???）");
+MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

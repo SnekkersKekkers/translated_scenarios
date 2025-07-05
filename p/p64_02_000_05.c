@@ -5,7 +5,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P640200005_02_000");
 MsgDisp("Sassa","Uhーm.
-THank you for the meal...");
+Thank you for the meal...");
 MsgDisp("主人公","｛颯砂＊＊｝, how did it taste?");
 ChEye(2,2);
 ChMouth(2,0);

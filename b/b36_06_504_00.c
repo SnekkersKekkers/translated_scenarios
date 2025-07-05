@@ -77,7 +77,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B360650400_06_090");
 MsgDisp("Himuro","It's fine to keep it to ourselves
 sometimes.");
-MsgDisp("主人公","（｛氷室＊＊｝……）");
+MsgDisp("主人公","(｛氷室＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

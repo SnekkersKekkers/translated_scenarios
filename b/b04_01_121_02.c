@@ -121,7 +121,7 @@ don't know what I want.");
 better. If it's you choosing, anything is
 good.");
         ChMotion(1,0);
-        MsgDisp("主人公","（｛風真＊＊｝...）");
+        MsgDisp("主人公","(｛風真＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

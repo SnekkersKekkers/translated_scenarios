@@ -18,7 +18,7 @@ ChMotion(5,0);
 VoicePlay("G020510000_05_030");
 MsgDisp("Hiiragi","Right now, I have the beautiful you to
 myself. It makes me happy, but it's also
-scary. THose are my true feelings.");
+scary. Those are my true feelings.");
 ChEye(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
@@ -39,7 +39,7 @@ VoicePlay("G020510000_05_060");
 MsgDisp("Hiiragi","I should just be happy about this
 situation, but somewhat, at the same time,
 I'm also feeling afraid of losing it......");
-MsgDisp("主人公","（｛柊＊＊＊｝……）");
+MsgDisp("主人公","(｛柊＊＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

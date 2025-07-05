@@ -49,8 +49,7 @@ know.");
     ChClose(7);
     Wait(30);
     SEPlay("EV_SE_GAYA_018");
-    MsgDisp("主人公","(Hmmm,
-Maybe I should have gone.)");
+    MsgDisp("主人公","(Hmmm, maybe I should have gone.)");
     SEStop("EV_SE_GAYA_018",1);
     break ;
     default :

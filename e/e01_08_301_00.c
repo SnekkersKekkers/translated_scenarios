@@ -2,7 +2,7 @@ BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Huh?
-THat person over there is......)");
+That person over there is......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(8,255,0,0,0,-1,-1,0,0);

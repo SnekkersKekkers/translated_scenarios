@@ -35,7 +35,7 @@ MsgClose();
 ChOpen(1,254,0,0,2,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010100001_01_020");
-MsgDisp("Kazama","What do you mean by \"again\"
+MsgDisp("Kazama","What do you mean by \"again\"?
 Are you complaining?");
 MsgDisp("主人公","I don't think I meant it like that.");
 ChEye(1,0);

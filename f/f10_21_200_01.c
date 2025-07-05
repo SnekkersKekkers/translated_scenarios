@@ -58,7 +58,7 @@ ChMotion(21,0);
 VoicePlay("F102120001_21_040");
 MsgDisp("Michiru","Maybe he would be at a 
 disadvantage with Mari here?");
-MsgDisp("主人公","（？？？）");
+MsgDisp("主人公","(？？？)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

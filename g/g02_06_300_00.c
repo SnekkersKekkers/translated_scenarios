@@ -72,7 +72,7 @@ ChMotion(6,0);
 VoicePlay("G020630000_06_100");
 MsgDisp("Himuro","When that time comes, 
 you'll understand too.");
-MsgDisp("主人公","（｛氷室＊＊｝……?）");
+MsgDisp("主人公","(｛氷室＊＊｝……?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

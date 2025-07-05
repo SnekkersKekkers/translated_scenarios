@@ -105,7 +105,7 @@ try looking cool at work.");
         VoicePlay("B040420002_04_120");
         MsgDisp("Nanatsumori","You accept me as I am.
 ...Thank you.");
-        MsgDisp("主人公","（｛七ツ森＊｝……）");
+        MsgDisp("主人公","(｛七ツ森＊｝……)");
         break ;
         default :
         DbgAssert(1);

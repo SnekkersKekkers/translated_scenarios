@@ -16,7 +16,7 @@ ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P640D00001_22_010");
 MsgDisp("Hikaru","Mari, can I be honest?
-THis is something you shouldn't put out.");
+This is something you shouldn't put out.");
 MsgDisp("主人公","Eh?");
 ChEye(21,0);
 ChMouth(21,4);

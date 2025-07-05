@@ -37,7 +37,7 @@ VoicePlay("G020510303_05_050");
 MsgDisp("Hiiragi","I also discovered just how strong
 my possessiveness is.
 I mean, I was even envious of a firefly.");
-MsgDisp("主人公","（｛柊＊＊＊｝……）");
+MsgDisp("主人公","(｛柊＊＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

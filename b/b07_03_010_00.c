@@ -98,7 +98,7 @@ stupid.");
 ChMotion(3,0);
 VoicePlay("B070301000_03_130");
 MsgDisp("Honda","See you around?");
-MsgDisp("主人公","（｛本多＊＊｝...）");
+MsgDisp("主人公","(｛本多＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3,0,0);

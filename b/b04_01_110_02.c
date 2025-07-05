@@ -125,7 +125,7 @@ You should have mentioned that sooner.");
         VoicePlay("B040111002_01_120");
         MsgDisp("Kazama","Ready? Two people riding together might
 get unsteady. Hold on to me tight!");
-        MsgDisp("主人公","（......）");
+        MsgDisp("主人公","(......)");
         break ;
         default :
         DbgAssert(1);

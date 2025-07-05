@@ -10,7 +10,7 @@ VoicePlay("B040510102_05_000");
 MsgDisp("Hiiragi","No matter when I come to see 
 it, it's a splendid museum.
 It's evidence of love for the citizens.");
-MsgSel("｛柊＊＊＊｝ is also a Habataki citizen.","THat sofa looks soft and fluffy.","This museum has been looking after me since the elementary school trips.");
+MsgSel("｛柊＊＊＊｝ is also a Habataki citizen.","That sofa looks soft and fluffy.","This museum has been looking after me since the elementary school trips.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

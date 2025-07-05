@@ -35,7 +35,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_180");
 MsgDisp("Sassa","An old story.");
-MsgDisp("主人公","（｛颯砂＊＊｝……）");
+MsgDisp("主人公","(｛颯砂＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

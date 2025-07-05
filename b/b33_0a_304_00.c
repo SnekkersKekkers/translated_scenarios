@@ -118,7 +118,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A30400_06_050");
-MsgDisp("Himuro","THank you very much.");
+MsgDisp("Himuro","Thank you very much.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

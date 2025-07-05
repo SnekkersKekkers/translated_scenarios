@@ -125,7 +125,7 @@ end? If it's not enough, then here's more.");
         VoicePlay("B040406302_04_150");
         MsgDisp("Nanatsumori","Let's stay like
 this for a while.");
-        MsgDisp("主人公","（｛七ツ森＊｝……）");
+        MsgDisp("主人公","(｛七ツ森＊｝……)");
         break ;
         default :
         DbgAssert(1);

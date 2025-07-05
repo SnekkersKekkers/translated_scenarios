@@ -54,7 +54,7 @@ ChMotion(2,4);
 VoiceEVSPlay(2);
 VoicePlay("G020210001_02_070");
 MsgDisp("Sassa","｛主人公｝, That is all.");
-MsgDisp("主人公","（｛颯砂＊＊｝……）");
+MsgDisp("主人公","(｛颯砂＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

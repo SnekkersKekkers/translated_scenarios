@@ -42,7 +42,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100120000_07_020");
-MsgDisp("Mikage","We'll start from the basics, to be sure
+MsgDisp("Mikage","We'll start from the basics, so be sure
 to take proper notes, okay?");
 ChEye(1,0);
 ChMouth(1,3);

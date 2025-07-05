@@ -21,7 +21,7 @@ ScrFadeOut(0);
 MsgDisp("","Today's performance is Habataki
 Theatre company's new work. 'Habataki
 Castle: The Lord's Return'.");
-MsgDisp("","THis play is performed with a double
+MsgDisp("","This play is performed with a double
 cast.");
 MsgClear();
 BGOpen("ad551",0);

@@ -13,7 +13,7 @@ ChMotion(5,3);
 Wait(20,0);
 VoicePlay("P540500000_05_000");
 MsgDisp("Hiiragi","Congratulations.
-THe applause wouldn't quite stop.");
+The applause wouldn't quite stop.");
 MsgDisp("主人公","Thank you ｛柊＊＊＊｝!");
 ChEye(5,4);
 ChMouth(5,4);

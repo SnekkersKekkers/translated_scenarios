@@ -45,7 +45,7 @@ MsgDisp("主人公","You have to accept a favor.");
 ChEye(5,3);
 ChMouth(5,3);
 VoicePlay("B040506402_05_050");
-MsgDisp("Hiiragi","THat's right. I accept it.");
+MsgDisp("Hiiragi","That's right. I accept it.");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(5);
