@@ -26,10 +26,10 @@ I'll take good care of it!");
 I hope Mari can be touched by the power 
 of the stars.");
     SEPlay("EV_SE_083");
-    MsgDisp("主人公","(\"I got a constellation charm!)");
+    MsgDisp("主人公","(I got a constellation charm!)");
     SEPlay("EV_SE_080");
-    MsgDisp("主人公","(Somehow I feel like I'll be
-able to study better now......)");
+    MsgDisp("主人公","(Somehow I feel I'm better at
+studying now......)");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,0);

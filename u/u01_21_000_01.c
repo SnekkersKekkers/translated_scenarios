@@ -11,7 +11,7 @@ switch (ChPrmGet(21,6)){
     ScrFadeIn(0);
     SEPlay("EV_SE_577");
     MsgDisp("主人公","Phone call......
-Oh, it's　｛みちる＊｝ ・");
+Oh, it's　｛みちる＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

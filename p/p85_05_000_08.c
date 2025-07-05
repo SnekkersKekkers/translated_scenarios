@@ -24,8 +24,8 @@ I'm happy, but embarrassed.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("P850500008_05_020");
-MsgDisp("Hiiragi","why?
-It's the truth evident to anyone.");
+MsgDisp("Hiiragi","Why?
+It's the truth evident to everyone.");
 VoicePlay("P850500008_05_030");
 MsgDisp("Hiiragi","The management know-how you left behind
 will surely be passed on.");

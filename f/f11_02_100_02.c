@@ -28,8 +28,7 @@ MsgDisp("主人公","Haha. Good luck!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝
-trains intensely, every single day.
+MsgDisp("主人公","(｛颯砂＊＊｝ trains intensely, every single day.
 Running with the kids was fun!)");
 MsgClose();
 ScrFadeOut(0);

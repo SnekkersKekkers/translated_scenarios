@@ -3,7 +3,7 @@ MsgClose();
 ChOpen(3,255,4,4,4,-1,-1,0,0);
 VoicePlay("G020310200_03_000");
 MsgDisp("Honda","Hey, what do you think about our
-relationship");
+relationship?");
 MsgDisp("主人公","What do you mean?");
 ChMouth(3,0);
 ChMotion(3,0);
@@ -34,7 +34,7 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310200_03_050");
 MsgDisp("Honda","You know that phrase, 
-'more than friends, less than lovers'? 
+\"more than friends, less than lovers\"? 
 I want to take a step beyond that......");
 ChEye(3,4);
 ChMouth(3,4);
@@ -52,12 +52,12 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("G020310200_03_080");
-MsgDisp("Honda","But honestly,
-I'd be really happy if we could take 
-our relationship to a new level!");
+MsgDisp("Honda","But honestly, I'd be really happy 
+if we could take our relationship 
+to a new level!");
 MsgDisp("主人公","Yeah, thanks ｛本多＊＊｝.");
-MsgDisp("主人公","(I see, that's how ｛本多＊＊｝ is
-thinking......)");
+MsgDisp("主人公","(I see, that's what ｛本多＊＊｝ is
+thinking about......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,8 +6,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, it's ｛柊＊＊＊｝.
 Looks like it's his turn to do 
-the greeting enforcement campaign 
-today as well.)");
+the greeting enforcement campaign.)");
 VoicePlay("F100530002_05_000");
 MsgDisp("Hiiragi","Good morning.");
 VoicePlay("F100530002_40_000");
@@ -24,10 +23,10 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530002_05_020");
-MsgDisp("Hiiragi","Yoー.");
-MsgDisp("主人公","Hehe
+MsgDisp("Hiiragi","Yoー");
+MsgDisp("主人公","Hehe.
 Looks like you've learned another
-greeting, right, ｛柊＊＊＊｝?");
+greeting, ｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -41,7 +40,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530002_05_040");
-MsgDisp("Hiiragi","Ouiー.");
+MsgDisp("Hiiragi","Yoー");
 ChPosition(5,1);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
@@ -49,7 +48,7 @@ SEWait();
 ChOpen(22,254,0,0,0,-1,-1,0,2);
 ChMotion(22,4,1);
 VoicePlay("F100530002_22_000");
-MsgDisp("Hikaru","Oui?");
+MsgDisp("Hikaru","Yo?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -106,7 +105,7 @@ MsgDisp("Hiiragi","Heheh. I really do enjoy the greeting
 enforcement campaign.");
 MsgDisp("主人公","(I might understand how ｛柊＊＊＊｝ feels?
 Funny greeetings just make you
-smile naturally, it's nice!)");
+smile, it's nice!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

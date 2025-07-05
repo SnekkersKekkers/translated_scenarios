@@ -17,15 +17,14 @@ switch (ChPrmGet(6,6)){
         ChMotion(6,0);
         VoicePlay("J060600000_06_000");
         MsgDisp("Himuro","...... Ah, so.
-What about meeting up?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝
-How about that?");
+What should we meet?");
+        MsgDisp("主人公","How about at the ｛待ち合わせ場所｝?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("J060600000_06_010");
         MsgDisp("Himuro","Okay, good.
-There you go.");
+There then.");
         MsgDisp("主人公","I look forward to it.");
         ChEye(6,0);
         ChMouth(6,4);
@@ -43,8 +42,7 @@ There you go.");
         BGMStop();
         ChClose(6);
         Wait(30);
-        MsgDisp("主人公","(｛氷室＊＊｝
-He asked me out on a date.
+        MsgDisp("主人公","(｛氷室＊＊｝ asked me out on a date.
 I'm looking forward to Sunday!)");
         break ;
         case 1:

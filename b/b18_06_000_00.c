@@ -15,7 +15,7 @@ ChMotion(6,0);
 VoicePlay("B180600000_06_010");
 MsgDisp("Himuro","I was thinking of calling
 you that from now on. Calling 
-you by your last time is too formal");
+you by your last name is too formal.");
 MsgSel("Yeah, that's fine.","Mm~, that's a little...");
 switch (MsgSelRsltGet()){
     case 0:

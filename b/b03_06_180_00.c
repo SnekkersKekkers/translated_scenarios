@@ -12,7 +12,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,10);
 VoicePlay("B030618000_06_010");
-MsgDisp("Himuro","If you want to eat some, I'll join you");
+MsgDisp("Himuro","If you want to eat some, I'll join you.");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(6,0);

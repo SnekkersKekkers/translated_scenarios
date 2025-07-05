@@ -12,7 +12,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F110510002_05_010");
-MsgDisp("Hiiragi","Yes, because there is lots of data this
+MsgDisp("Hiiragi","Yes, because there is a lot of data this
 year. Give me your request, please.");
 SEPlay("EV_SE_FOOT_WALK_COME_TWO",0,0.6);
 SEWait();
@@ -59,9 +59,9 @@ MsgDisp("Hiiragi","Understood.
 I will see you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(With the yakisoba ｛柊＊＊＊｝
-recommended, it was really fun... but it's
-the last year, so I wondered about the
-'royal sauce' yakisoba.)");
+MsgDisp("主人公","(The yakisoba ｛柊＊＊＊｝
+recommends sound good... Since it's our
+last year I have to wonder about the
+royal sauce yakisoba.)");
 MsgClose();
 ScrFadeOut(0,0);

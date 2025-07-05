@@ -10,10 +10,9 @@ ChEye(5,2);
 ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("B070500000_05_210");
-MsgDisp("Hiiragi","No, it's not something to be
-praised for. More accurately,
-I collect cleaning goods.
-I can't help buying them.");
+MsgDisp("Hiiragi","No, it's not something to be praised for. 
+To be specific, I collect cleaning supplies.
+I can't help but buy them.");
 MsgDisp("主人公","I see, but that
 seems fun.");
 ChEye(5,3);
@@ -21,8 +20,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,-1);
 VoicePlay("B070500000_05_220");
 MsgDisp("Hiiragi","Yes it's fun, and it's a nice feeling.
-The dirt falls off instantly, 
-and it cleans up nicely.");
+The dirt falls off instantly and cleans up nicely.");
 MsgDisp("主人公","｛柊＊＊＊｝, you're quite 
 family-oriented aren't you?");
 ChEye(5,0);

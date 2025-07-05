@@ -4,7 +4,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_300");
-MsgDisp("Himuro","I haven't changed much now.");
+MsgDisp("Himuro","I haven't changed much until now.");
 MsgDisp("主人公","I see.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -40,7 +40,7 @@ It scared me when I heard that you
 suddenly quit your job......");
 VoicePlay("D020800900_08_010");
 MsgDisp("Shirahane","......Dontcha worry, okay?
-I have to work really hard to catch up.");
+I hafta work really hard to catch up.");
 MsgDisp("主人公","What do you mean?");
 VoicePlay("D020800900_08_020");
 MsgDisp("Shirahane","I'm gonna catch up with ya.
@@ -67,7 +67,7 @@ MsgDisp("Shirahane","I'm gonna be your number one.
 But don't worry your head over it.
 You don't have to quit suddenly too.");
 MsgDisp("主人公","I......");
-MsgSel("I'll quit working at the gas station","I'll cheer ｛大地＊＊｝ on！");
+MsgSel("I'll quit working at the gas station.","I'll cheer ｛大地＊＊｝ on!");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Since ｛大地＊＊｝ is quitting,
@@ -78,12 +78,12 @@ You're fired up......?");
     MsgDisp("主人公","I'm not going to lose to 
 ｛大地＊＊｝. I need to study for the exam.");
     VoicePlay("D020800900_08_080");
-    MsgDisp("Shirahane","Wait......Are you listenin' to me?
-If you do that then I won't be able to
+    MsgDisp("Shirahane","Wait......Are ya listenin' to me?
+If ya do that then I won't be able ta
 beatcha......");
     MsgDisp("主人公","Hehe!");
     VoicePlay("D020800900_08_090");
-    MsgDisp("Shirahane","Haha......Just like you'd expect from
+    MsgDisp("Shirahane","Haha......Just like ya'd expect from
 a scholar like yourself. Now I'm fired
 up too!");
     VoicePlay("D020800900_08_100");
@@ -107,8 +107,8 @@ makes me feel energized.");
     MsgDisp("主人公","Hehe.");
     VoicePlay("D020800900_08_120");
     MsgDisp("Shirahane","So you're going to keep working.
-Take it easy, okay? I'm not there to
-help you anymore......");
+Take it easy, okay? I'm not there ta
+help ya anymore......");
     MsgDisp("主人公","Yeah.
 You taught me a lot already, so I'm
 going to keep working hard!");

@@ -5,7 +5,7 @@ ChMouth(8,4);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B030822000_08_000");
-MsgDisp("Shirahane","Such a big and regal castle...");
+MsgDisp("Shirahane","Sucha big and regal castle...");
 MsgDisp("主人公","Yeah.
 It's our city's number 1 pride.");
 ChEye(8,3);
@@ -19,7 +19,7 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B030822000_08_020");
 MsgDisp("Shirahane","Alrighty then, where to?");
-MsgSel("I want to see Habataki Tower","Let's go to the Exhibition Corner");
+MsgSel("I want to see Habataki Tower.","Let's go to the Exhibition Corner.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

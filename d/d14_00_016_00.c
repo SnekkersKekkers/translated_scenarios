@@ -1,1 +1,1 @@
-MsgDisp("Everyone","Time to eat!");
+MsgDisp("Everyone","Itadakimasu!");

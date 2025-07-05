@@ -36,8 +36,8 @@ the answer is okay, get it?");
     VoicePlay("J030300000_03_050");
     MsgDisp("Honda","After all, that'd be troublesome, 
 right? Sorry sorry.");
-    MsgDisp("主人公","Then let's meet on ｛日付｝. I'll wait for
-you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Then let's meet on ｛日付｝. I'll wait 
+for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_060");
     MsgDisp("Honda","Ah, wait!!");
     MsgDisp("主人公","Is something wrong?");

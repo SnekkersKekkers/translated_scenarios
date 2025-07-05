@@ -4,7 +4,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_280");
-MsgDisp("Shirahane","I haven't changed much now?
+MsgDisp("Shirahane","I haven't changed much.
 I've grown a bit taller though.");
 VoicePlay("B070800000_08_290");
 MsgDisp("Shirahane","I was decent at both studyin' and sports.

@@ -80,8 +80,9 @@ but isn't patrolling a bit different?");
     ChEye(1,0);
     ChMouth(1,2);
     VoicePlay("P830100002_48_010");
-    MsgDisp("School Girl","It's terrible, 
-the takoyaki stand is smoking!");
+    MsgDisp("School Girl","Oh no! 
+There's smoke coming from the
+takoyaki stand!");
     ChEye(1,2);
     MsgDisp("主人公","I understand, I'll go right away!");
     ChEye(1,0);

@@ -31,14 +31,14 @@ MsgDisp("Shirahane","｛主人公｝.
 D'ya think——");
 ChMotion(8,0,1);
 VoicePlay("B050800200_08_040");
-MsgDisp("Shirahane","D'ya think, I'm distracting'
-you from your studies?");
+MsgDisp("Shirahane","D'ya think, I'm distractin'
+ya from your studies?");
 MsgDisp("主人公","That's not...");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B050800200_08_050");
-MsgDisp("Shirahane","...I thought you would say that.
+MsgDisp("Shirahane","...I thought ya would say that.
 Since you're kind.");
 MsgDisp("主人公","｛大地＊＊｝.
 Why would you say something like that?");
@@ -49,7 +49,7 @@ ChEyeOpenLevel(8,10);
 VoicePlay("B050800200_08_060");
 MsgDisp("Shirahane","I don't really know why,
 but I'm relieved.
-I was just one-sidedly making you——");
+I was just one-sidedly making ya——");
 MsgClose();
 ScrFadeOut(0);
 ChClose(8);

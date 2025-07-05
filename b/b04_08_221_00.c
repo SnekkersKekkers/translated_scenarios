@@ -7,8 +7,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B040822100_08_000");
-MsgDisp("Shirahane","Uwaaー!
-Irt really is a great view!");
+MsgDisp("Shirahane","Woahー!
+It really is a great view!");
 MsgSel("It would be nice if we were up even higher though...","It's a good thing it's nice weather, isn't it?","The ground is so far away...");
 switch (MsgSelRsltGet()){
     case 0:

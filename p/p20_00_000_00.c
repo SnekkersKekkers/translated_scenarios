@@ -6,7 +6,7 @@ play at this year's cultural festival,
 please make sure to sign up.");
 MsgDisp("主人公","(There's also the club exhibition, 
 I wonder what I should do......)");
-MsgSel("I'll focus on the club exhibition","I'll participate in the school play");
+MsgSel("Focus on the club exhibition","Participate in the school play");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("P200000000_45_010");

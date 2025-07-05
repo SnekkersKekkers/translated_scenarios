@@ -18,7 +18,7 @@ ChMouth(8,3);
 ChMotion(8,4,1);
 ChCheek(8,3);
 VoicePlay("B010800002_08_010");
-MsgDisp("Shirahane","Because... I wanna spend a lot of time
+MsgDisp("Shirahane","Because... I wanna spend lotsa time
 together.");
 MsgDispSksp(1,0);
 ChEye(8,3);
@@ -27,5 +27,5 @@ ChEyeOpenLevel(8,0);
 ChCheek(8,5);
 VoicePlay("B010800002_08_020");
 MsgDisp("Shirahane","It'd make me real happy
-if you thought the same way about it.");
+if ya thought the same way about it.");
 MsgDispSksp(0);

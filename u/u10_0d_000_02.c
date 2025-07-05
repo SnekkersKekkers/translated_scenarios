@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(22,0);
     VoicePlay("U100D00002_22_020");
     MsgDisp("Hikaru","Okay!
-I love Mari～▼");
+Hikaru loves Mari～▼");
     MsgDisp("主人公","Hehe!
 Let's meet after school then.");
     ChEye(21,0);

@@ -19,7 +19,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("K010D00100_22_000");
 MsgDisp("Hikaru","You remembered?
-I'm happy♪");
+That makes Hikaru so happy♪");
 SEPlay("EV_SE_665");
 SEWait();
 MsgDisp("主人公","Here's a present.

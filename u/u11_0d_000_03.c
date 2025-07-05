@@ -66,7 +66,7 @@ StlEyeOpenLevel(21,5);
 VoicePlay("U110D00003_21_020");
 MsgDisp("Michiru","Yeah.
 I put on some rosemary incense. 
-It makes a good feeling.");
+It creates a nice ambiance.");
 StlEye(22,2);
 VoicePlay("U110D00003_22_020");
 MsgDisp("Hikaru","This is so so nice!

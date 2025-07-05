@@ -11,12 +11,12 @@ switch (MsgSelRsltGet()){
         case 4:
         case 5:
         VoicePlay("J060801000_08_000");
-        MsgDisp("Daichi","I'll meet you there!
-Yeah, ...... where should we meet up?");
-        MsgDisp("主人公","At the ｛待ち合わせ場所｝, sounds good?");
+        MsgDisp("Daichi","I'll meetcha there!
+Wait...... where should we meet up?");
+        MsgDisp("主人公","Does the ｛待ち合わせ場所｝ sound good?");
         VoicePlay("J060801000_08_010");
-        MsgDisp("Daichi","I'll do that.
-Well, I'll see you on the day!");
+        MsgDisp("Daichi","Let's do that.
+Well I'll see ya on the day!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(A date with ｛大地＊＊｝.
@@ -39,16 +39,16 @@ I have to remember!)");
         case 5:
         VoicePlay("J060801000_08_020");
         MsgDisp("Daichi","Ah ......
-Not a fan of this place?");
+Not a fan of that place?");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("J060801000_08_030");
         MsgDisp("Daichi","Yes, I'm fine.
-I didn't to force you to do anything,
-Don't worry about it.");
+I don't want ta force ya to do anythin',
+don't worry about it.");
         MsgDisp("主人公","｛大地＊＊｝......");
         VoicePlay("J060801000_08_040");
-        MsgDisp("Daichi","I won't let you get depressed.
-I'll call you again.");
+        MsgDisp("Daichi","No sulkin'.
+I'll call ya again.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He went to the trouble of inviting me,

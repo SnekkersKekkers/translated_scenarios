@@ -5,6 +5,6 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("SS0106358_06_000");
-MsgDisp("Himuro","Why don't you come over here more?");
+MsgDisp("Himuro","Why don't you get a bit closer?");
 MsgClose();
 ChCheek(6,0);

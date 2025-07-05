@@ -32,7 +32,7 @@ ScrFadeOut(0,0,10);
 StlClose();
 VoicePlay("U170D00000_22_010");
 MsgDisp("Hikaru","Sigh～......
-Even though I'm not sleepy at all.");
+Even though Hikaru's not sleepy at all.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("U170D00000_21_020");
 MsgDisp("Michiru","Well then Mari, good night.");

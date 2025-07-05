@@ -34,10 +34,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_290");
-MsgDisp("Himuro","It's just an enterest, 
-I wouldn't go as far as 
-to call it a hobby.");
-MsgDisp("主人公","(But it sounds like a hobby...)");
+MsgDisp("Himuro","It's just an interest. 
+I wouldn't go as far as to call it a hobby.");
+MsgDisp("主人公","(But it sounds like a hobby...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
