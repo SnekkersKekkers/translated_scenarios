@@ -57,7 +57,7 @@ MsgDisp("Nanatsumori","Do you want me to leave?");
 MsgDisp("主人公","Huh?");
 VoicePlay("G110400301_04_030");
 MsgDisp("Nanatsumori","Ms. Habacha's newest reporter.
-Ｎana is now available.");
+Nana is now available.");
 MsgDisp("主人公","Hehe! Are you letting me do
 an interview then?");
 ChMotion(4,2);
@@ -95,7 +95,7 @@ ChMotion(4,0);
 MsgDisp("Nanatsumori","Oof...
 touche.");
 MsgDisp("主人公","(Hehe! It would be interesting to
-write an article with this conversation
+write an article about this conversation
 with ｛七ツ森＊｝!)");
 BGMStop();
 MsgClose();

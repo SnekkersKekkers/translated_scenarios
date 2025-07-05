@@ -18,11 +18,10 @@ ChMotion(5,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030504000_05_010");
-MsgDisp("Hiiragi","Somehow I can feel the nerves before 
-the curtain rising even being 
-in the audience.");
+MsgDisp("Hiiragi","Even from the audience, I can feel the
+tension before the curtain rises.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Hehe, it's not ｛柊＊＊＊｝'s play?'
+MsgDisp("主人公","Hehe, it's not ｛柊＊＊＊｝'s play?
 ...Ah, seems like it's starting!");
 MsgDispSksp(0);
 SEPlay("EV_SE_038");

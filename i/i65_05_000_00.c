@@ -77,8 +77,8 @@ Haa...... let us both work hard.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ seems tired......
-I hope I was able to distract from
-his worries even a little bit.)");
+I hope I was able to distract him from
+his worries for a bit.)");
     break ;
     case 4:
     case 5:

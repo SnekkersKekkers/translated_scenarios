@@ -12,13 +12,13 @@ What's up?");
 ChMotion(22,3,1);
 VoicePlay("W012200000_22_010");
 MsgDisp("Hikaru","Let's go to the amusement park this
-Sunday♪ I got a bunch of
+Sunday♪ Hikaru got a bunch of
 tickets.");
 MsgDisp("主人公","｛ひかる＊｝, you want to go with me?");
 ChMotion(22,4,1);
 VoicePlay("W012200000_22_020");
-MsgDisp("Hikaru","Ehehe, I'll invite other people.
-Come on, come on, let's go～!");
+MsgDisp("Hikaru","Ehehe, Hikaru will invite other people
+too. Come on, come on, let's go～!");
 MsgSel("Yeah, let's go！","Sorry, I have some errands to run");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("W012200000_22_030");
-    MsgDisp("Hikaru","Yay! I'll look
+    MsgDisp("Hikaru","Yay! Hikaru's looking
 forward to seeing you on Sunday▼");
     MsgDisp("主人公","(This Sunday, huh...
 I wonder who else will come.)");
@@ -37,7 +37,7 @@ I wonder who else will come.)");
     ChMotion(22,0,1);
     VoicePlay("W012200000_22_040");
     MsgDisp("Hikaru","Aww～, that's too bad...
-Alright then, I'll ask you another time.");
+Okay then, another time.");
     MsgDisp("主人公","(I feel a little bad saying that
 after she invited me.)");
     break ;

@@ -62,7 +62,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700014_07_060");
-MsgDisp("Mikage","As expected of my prized Majime-chan.
+MsgDisp("Mikage","As expected of my prized Miss Serious.
 There's no need to say anymore. Cherish 
 what you could do, and remember it as 
 many times as you need to in your life.");

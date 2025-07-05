@@ -50,7 +50,7 @@ SEPlay("EV_SE_672",0,0.6);
 SEWait();
 MsgClear();
 MsgDisp("","I think the way I call her
-'Majime-chan' is seriously a perfect
+'Miss Serious' is seriously a perfect
 nickname for her.");
 MsgDisp("","She's much more serious and earnest
 than most people, but when I see her,
@@ -75,7 +75,7 @@ MsgDisp("","Tulip flower fortune telling uses the
 language of flowers to give a
 different meaning for each flower.");
 MsgDisp("","I cheated a little, 
-And gave Majime-chan a bulb
+And gave Miss Serious a bulb
 that would bloom into pink.");
 MsgDisp("","After all, that's the prize for the
 ＭＶＰ.");

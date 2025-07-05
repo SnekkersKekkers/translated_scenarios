@@ -6,8 +6,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChOpen(5,253,0,0,4,-1,-1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for walking
-me home.");
+MsgDisp("主人公","Thank you for walking me home.");
 MsgDispSksp(1,4);
 ChMouth(5,4);
 VoicePlay("B080500000_05_000");

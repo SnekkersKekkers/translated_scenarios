@@ -80,7 +80,7 @@ Just accept what I said.");
     ChMotion(1,3);
     VoicePlay("B010100000_01_050");
     MsgDisp("Kazama","Jeez. What's with the pathetic face?
-Even if you weren't rushing like that,
+You didn't have to rush here like that,
 I'm not going to just leave.");
     MsgDisp("主人公","B-But...");
     MsgDispSksp(1,0);

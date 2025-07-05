@@ -16,7 +16,7 @@ ChMotion(21,0);
 VoicePlay("W012100000_21_010");
 MsgDisp("Michiru","Why don't we go to the amusement
 park this Sunday?
-I got a lot of tickets...");
+I have some tickets...");
 MsgDisp("主人公","Just the two of us, ｛みちる＊｝?");
 ChEye(21,4);
 ChMouth(21,0);

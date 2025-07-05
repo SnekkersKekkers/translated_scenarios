@@ -28,7 +28,7 @@ keep watch here.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040706100_07_020");
-    MsgDisp("Mikage","Ohhh, there she is, Majime-chan.
+    MsgDisp("Mikage","Ohhh, there she is, Miss Serious.
 She's alive and well even in summer.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

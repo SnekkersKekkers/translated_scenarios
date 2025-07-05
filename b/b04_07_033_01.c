@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B040703301_07_010");
-    MsgDisp("Mikage","Oh, nice, Majime-chan.");
+    MsgDisp("Mikage","Oh, nice, Miss Serious.");
     MsgDateResultDisp();
     break ;
     case 1:

@@ -14,9 +14,9 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,-1,-1,0,3);
 ScrFadeIn(1);
 VoicePlay("B330B20800_03_000");
-MsgDisp("Honda","Alright, we're here. 
-If we're talking amusement park
-attractions, we can't miss this one out!");
+MsgDisp("Honda","Alright, we're here. If we're talking
+amusement park attractions, we can't miss
+out on this one!");
 ChMouth(1,3);
 MsgDisp("主人公","Ehhh...");
 ChEye(4,1);

@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B060100013_01_010");
-    MsgDisp("Kazama","Then, let's take a bit of a detour.");
+    MsgDisp("Kazama","Let's take a little detour, then.");
     MsgDispSksp(1,3);
     MsgDisp("主人公","Yeah!");
     MsgDispSksp(0);

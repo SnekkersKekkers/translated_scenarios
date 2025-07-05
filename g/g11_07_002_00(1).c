@@ -26,7 +26,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700200_07_010");
-MsgDisp("Mikage","As expected of Majime-chan, who's willing
+MsgDisp("Mikage","As expected of Miss Serious, who's willing
 to accompany me in the extracurricular
 class.");
 MsgDisp("主人公","It's because ｛御影＊＊｝ isn't in the

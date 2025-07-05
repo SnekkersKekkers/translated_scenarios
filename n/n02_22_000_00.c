@@ -12,7 +12,7 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("N022200000_22_010");
-MsgDisp("Hikaru","I also did my best too. But I couldn't
+MsgDisp("Hikaru","Hikaru did her best too. But she couldn't
 even get near what you got～!");
 MsgDisp("主人公","(Hehe, I'm glad I did my best!)");
 MsgClose();

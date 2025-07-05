@@ -14,7 +14,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B150700300_07_010");
 MsgDisp("Mikage","It wasn't by accident.
-It's dangerous when Majime-chan 
+It's dangerous when Miss Serious 
 gets serious huh...");
 MsgDisp("主人公","Serious?");
 ChEye(7,2);
