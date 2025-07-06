@@ -13,7 +13,7 @@ VoicePlay("F110310001_03_010");
 MsgDisp("Honda","Correct, we're doing it again.
 The Quiz Haircut Battle. 
 After all, no one could beat me last year.");
-MsgDisp("主人公","R-right...");
+MsgDisp("主人公","R-Right...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

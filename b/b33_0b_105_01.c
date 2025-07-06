@@ -61,7 +61,7 @@ MsgDisp("Nanatsumori","Yeah.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","T-then why don't we all
+MsgDisp("主人公","T-Then why don't we all
 take turns singing it?");
 ChEye(3,0);
 ChMouth(3,4);

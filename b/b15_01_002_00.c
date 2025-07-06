@@ -21,7 +21,7 @@ ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("B150100200_01_020");
 MsgDisp("Kazama","To not do it to other guys.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

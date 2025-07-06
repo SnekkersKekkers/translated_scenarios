@@ -42,7 +42,7 @@ VoicePlay("G110101101_01_020");
 MsgDisp("Kazama","What, why are you saying that in such a
 lonely manner? Just go into it knowing
 you're going to be their instructor.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 I'll do my best, .");
 ChEye(1,0);
 ChMouth(1,2);

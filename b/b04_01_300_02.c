@@ -85,7 +85,7 @@ we've grown quite a lot.");
         ChMotion(1,4);
         ChCheek(1,7);
         VoicePlay("B040130002_01_070");
-        MsgDisp("Kazama","G-grown...
+        MsgDisp("Kazama","G-Grown...
 That's true. But, I'm talking about
 what's inside, not outside.");
         ChEye(1,2);

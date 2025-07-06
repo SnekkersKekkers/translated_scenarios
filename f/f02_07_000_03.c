@@ -66,7 +66,7 @@ VoicePlay("F020700003_07_070");
 MsgDisp("Mikage","That's not all.
 Apparently the ostriches 
 started breeding and escaping");
-MsgDisp("主人公","T-that's not true, right?");
+MsgDisp("主人公","T-That's not true, right?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);

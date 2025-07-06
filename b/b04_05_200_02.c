@@ -6,7 +6,7 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040520002_05_000");
-MsgDisp("Hiiragi","T-the wind is strong, huh...");
+MsgDisp("Hiiragi","T-The wind is strong, huh...");
 MsgSel("｛柊＊＊＊｝, are you alright?","We should take a lift down after all","Let's glide down slowly.");
 switch (MsgSelRsltGet()){
     case 0:

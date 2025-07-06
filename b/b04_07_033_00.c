@@ -9,7 +9,7 @@ VoicePlay("B040703300_07_000");
 MsgDisp("Mikage","The residents here will show you
 how living things adapt to their 
 environment.");
-MsgSel("I-it's so dark I can't see anything...","You mean how they overcome water pressure?","By environment, do you mean how they live on a boat?");
+MsgSel("I-It's so dark I can't see anything...","You mean how they overcome water pressure?","By environment, do you mean how they live on a boat?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

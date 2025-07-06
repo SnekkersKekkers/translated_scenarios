@@ -53,7 +53,7 @@ VoicePlay("F100610000_06_060");
 MsgDisp("Himuro","Furthermore... there's no way he'd
 talk to me about what type of
 person he likes.");
-MsgDisp("主人公","D-did he ask that kind of thing?");
+MsgDisp("主人公","D-Did he ask that kind of thing?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

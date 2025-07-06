@@ -73,7 +73,7 @@ it's embarrassing.");
         ChMotion(5,2);
         ChCheek(5,5);
         VoicePlay("B040505102_05_070");
-        MsgDisp("Hiiragi","E-embarrassing?
+        MsgDisp("Hiiragi","E-Embarrassing?
 Umm... I apologize.");
         VoicePlay("B040505102_05_080");
         MsgDisp("Hiiragi","I didn't intend on causing

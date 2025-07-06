@@ -23,7 +23,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500803_05_000");
-MsgDisp("Hiiragi","......Y-yes.
+MsgDisp("Hiiragi","......Y-Yes.
 Ah, I'm sorry.
 I ate here first.");
 MsgDisp("主人公","Ah, is that right.
@@ -92,7 +92,7 @@ ChCheek(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110500803_05_060");
-MsgDisp("Hiiragi","Y-you can tell?");
+MsgDisp("Hiiragi","Y-You can tell?");
 SEPlay("EV_SE_712");
 ChEye(5,0);
 ChMouth(5,1);

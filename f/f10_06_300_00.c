@@ -43,7 +43,7 @@ ChMotion(22,3,1);
 VoicePlay("F100630000_22_020");
 MsgDisp("Hikaru","\"Himuhimu\", 
 \"Himuron\", and \"Inorinrin\"!");
-MsgDisp("主人公","T-that's...");
+MsgDisp("主人公","T-That's...");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);

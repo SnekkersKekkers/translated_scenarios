@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
         ChMouth(4,1);
         ChMotion(4,0,1);
         VoicePlay("B040423502_04_010");
-        MsgDisp("Nanatsumori","W-what's with that reaction...∋
+        MsgDisp("Nanatsumori","W-What's with that reaction...∋
 They were there... they were there∋");
         MsgDateResultDisp();
         break ;
@@ -44,7 +44,7 @@ them.");
         ChMotion(4,1,1);
         VoicePlay("B040423502_04_030");
         MsgDisp("Nanatsumori","∋
-T-they were there. About 100 
+T-They were there. About 100 
 of them appeared.");
         MsgDisp("主人公","You're kidding...
 Dozens of them?");

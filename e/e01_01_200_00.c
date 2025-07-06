@@ -114,7 +114,7 @@ ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("E010120000_06_070");
 MsgDisp("Himuro","Take care then!");
-MsgDisp("主人公","Y-you too.
+MsgDisp("主人公","Y-You too.
 Bye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

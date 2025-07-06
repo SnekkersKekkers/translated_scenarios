@@ -24,7 +24,7 @@ VoicePlay("G020410400_04_030");
 MsgDisp("Nanatsumori","But you know, I have some male fans who
 are really into it. Of course, they think
 I'm a girl in my photos.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

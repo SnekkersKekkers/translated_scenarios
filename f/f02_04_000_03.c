@@ -40,7 +40,7 @@ ChMotion(4,1,1);
 VoicePlay("F020400003_04_040");
 MsgDisp("Nanatsumori","It's hard to say out loud.
 Come close for a second.");
-MsgDisp("主人公","O-okay.");
+MsgDisp("主人公","O-Okay.");
 MsgClose();
 SEPlay("EV_SE_FOOT_039");
 ChClose(4,0,30);

@@ -12,7 +12,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B070100001_01_350");
-MsgDisp("Kazama","O-oi.
+MsgDisp("Kazama","O-Oi.
 Are you feeling unwell?
 Are you alright∋");
 MsgDisp("主人公","Ah...");

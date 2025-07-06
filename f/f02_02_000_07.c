@@ -37,7 +37,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 ChCheek(2,5);
 VoicePlay("F020200007_02_030");
-MsgDisp("Sassa","N-no!
+MsgDisp("Sassa","N-No!
 I was just saying we should take a walk
 together.");
 MsgDisp("主人公","......");

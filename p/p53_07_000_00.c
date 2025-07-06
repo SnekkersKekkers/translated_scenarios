@@ -92,7 +92,7 @@ I'll just be a nuisnace to everyone.");
     MsgDisp("Mikage","Hey. Would the other members of the club
 think your mistake was a nuisance? They
 wouldn't right?");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

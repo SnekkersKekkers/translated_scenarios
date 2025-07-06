@@ -11,7 +11,7 @@ Wait(50,0);
 StlMouthOpenLevel(4,0);
 VoicePlay("B050400200_04_000");
 MsgDisp("Nanatsumori","…………");
-MsgDisp("主人公","T-turns out, it's quite high isn't it?");
+MsgDisp("主人公","T-Turns out, it's quite high isn't it?");
 StlMouthOpenLevel(4,-1);
 VoicePlay("B050400200_04_010");
 MsgDisp("Nanatsumori","Haa...");

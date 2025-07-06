@@ -40,7 +40,7 @@ I'll call you another time.");
     VoicePlay("J030200001_02_070");
     MsgDisp("Sassa","Huhh, but when is \"another time\"?
 Bye......");
-    MsgDisp("主人公","B-bye.");
+    MsgDisp("主人公","B-Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmph... I called at a bad time.)");

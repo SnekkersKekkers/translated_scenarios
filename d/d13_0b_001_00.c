@@ -62,7 +62,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130B00100_01_030");
-MsgDisp("Kazama","A-ah. Sorry.
+MsgDisp("Kazama","A-Ah. Sorry.
 Choose the one you like.");
 MsgDisp("主人公","Then... I'll pick this one!");
 ChEye(4,2);

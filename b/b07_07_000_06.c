@@ -53,7 +53,7 @@ Remember that～,
 It'll come up on the test～");
 MsgDisp("主人公","Hehe, it's like a biology lesson.");
 MsgDisp("主人公","(I feel like it's thanks to ｛御影＊＊｝
-that Haba school is super fun!)");
+that Haba High is super fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -27,7 +27,7 @@ ChMotion(2,4);
 VoicePlay("P740200003_02_020");
 MsgDisp("Sassa","So, it's a half-success. \
 Right?");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 ｛颯砂＊＊｝, thank you...");
 MsgDisp("主人公","(Haa... but I wish I had 
 practiced more carefully....)");

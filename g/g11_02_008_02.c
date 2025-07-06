@@ -58,7 +58,7 @@ VoicePlay("G110200802_02_060");
 MsgDisp("Sassa","But recently, I've suddenly had a vision
 of you milking a cow......");
 MsgDisp("主人公","Ehhh-∋
-W-what is that?");
+W-What is that?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);

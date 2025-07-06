@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     ChCheek(1,5);
     VoicePlay("B040124201_01_010");
-    MsgDisp("Kazama","O-oh, nice.
+    MsgDisp("Kazama","O-Oh, nice.
 It kinda... feels like we're 
 living together, doesn't it?");
     MsgDispSksp(1,0);

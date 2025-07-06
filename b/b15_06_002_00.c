@@ -41,7 +41,7 @@ VoicePlay("B150600200_06_050");
 MsgDisp("Himuro","What's with that surprised face?
 Could it be, you were touching me 
 like you would another girl?");
-MsgDisp("主人公","N-no!
+MsgDisp("主人公","N-No!
 I clearly know that you're a guy?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -60,7 +60,7 @@ ChEyeOpenLevel(6,8);
 VoicePlay("B150600200_06_070");
 MsgDisp("Himuro","Then, do you understand that you're a
 girl?");
-MsgDisp("主人公","O-of course!");
+MsgDisp("主人公","O-Of course!");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -78,7 +78,7 @@ MsgDisp("Himuro","Hey,
 Could you get a better hold
 of yourself? You are a year older
 than me after all.");
-MsgDisp("主人公","Y-yeah... I'll do my best.");
+MsgDisp("主人公","Y-Yeah... I'll do my best.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

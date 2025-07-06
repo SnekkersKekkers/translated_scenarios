@@ -5,7 +5,7 @@ ChMotion(6,0,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610300_06_000");
 MsgDisp("Himuro","I'm going to monologue a little now.");
-MsgDisp("主人公","Y-yes.");
+MsgDisp("主人公","Y-Yes.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

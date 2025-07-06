@@ -112,7 +112,7 @@ We'll eat your favorite sweets.");
         ChMotion(1,3);
         ChCheek(1,0);
         VoicePlay("F010100007_01_110");
-        MsgDisp("Kazama","R-right.");
+        MsgDisp("Kazama","R-Right.");
         MsgDisp("主人公","Mhm...");
         ChEye(1,2);
         ChMouth(1,2);

@@ -35,7 +35,7 @@ VoicePlay("B360450100_04_030");
 MsgDisp("Nanatsumori","Because you're cute of course.
 Your face when you're laughing or 
 crying hasn't changed even now.");
-MsgDisp("主人公","I-is that so?");
+MsgDisp("主人公","I-Is that so?");
 VoicePlay("B360450100_04_040");
 MsgDisp("Nanatsumori","Yeah.");
 ChEye(4,4);

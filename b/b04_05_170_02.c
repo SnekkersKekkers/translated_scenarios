@@ -41,7 +41,7 @@ It's a bit worrying.");
         ChEye(5,3);
         ChMouth(5,2);
         VoicePlay("B040517002_05_030");
-        MsgDisp("Hiiragi","L-lovey dovey?");
+        MsgDisp("Hiiragi","L-Lovey dovey?");
         ChEye(5,2);
         ChMouth(5,4);
         ChMotion(5,4);

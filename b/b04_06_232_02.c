@@ -83,7 +83,7 @@ wheel or whatever you like.");
         ChMotion(6,0);
         VoicePlay("B040623202_06_100");
         MsgDisp("Himuro","Okay?");
-        MsgDisp("主人公","O-okay.");
+        MsgDisp("主人公","O-Okay.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

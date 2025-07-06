@@ -57,7 +57,7 @@ ChOpen(4,255,0,4,1,-1,-1,10,0,0,30);
 ScrFadeIn(0);
 ChMotion(4,5,1);
 VoicePlay("B360423600_04_060");
-MsgDisp("Nanatsumori","S-sorry!
+MsgDisp("Nanatsumori","S-Sorry!
 I did't mean to do something 
 like that just no——");
 MsgDisp("主人公","Just now, on my n-nose...");
@@ -67,7 +67,7 @@ ChMotion(4,0,1);
 VoicePlay("B360423600_04_070");
 MsgDisp("Nanatsumori","I-I think I kissed it...
 Sorry.");
-MsgDisp("主人公","N-no.
+MsgDisp("主人公","N-No.
 It's alright.");
 ChEye(4,4);
 ChMouth(4,2);

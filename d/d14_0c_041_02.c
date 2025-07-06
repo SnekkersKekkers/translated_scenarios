@@ -89,7 +89,7 @@ ChMouth(5,2);
 ChMotion(5,2);
 VoicePlay("D140C04102_05_050");
 MsgDisp("Hiiragi","Yes!");
-MsgDisp("主人公","(I-it doesn't seem like 
+MsgDisp("主人公","(I-It doesn't seem like 
 there's a need to play dumb...)");
 BGMStop();
 MsgClose();

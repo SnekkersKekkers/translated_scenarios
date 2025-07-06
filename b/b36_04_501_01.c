@@ -38,7 +38,7 @@ ChMotion(4,1,1);
 VoicePlay("B360450101_04_030");
 MsgDisp("Nanatsumori","What an amazing idea.
 You really are too funny.");
-MsgDisp("主人公","I-is that so? ");
+MsgDisp("主人公","I-Is that so? ");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -96,7 +96,7 @@ management staff, huh?");
     VoicePlay("P830100001_01_070");
     MsgDisp("Kazama","Yeah, yeah.
 Later then, don't push yourself too hard.");
-    MsgDisp("主人公","Y-yeah.
+    MsgDisp("主人公","Y-Yeah.
 Ah, ｛風真＊＊｝,
 Didn't you have some errands?");
     ChEye(1,0);

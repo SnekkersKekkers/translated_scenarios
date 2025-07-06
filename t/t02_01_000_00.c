@@ -207,7 +207,7 @@ ChMotion(1,0);
 VoicePlay("T020100000_01_230");
 MsgDisp("Kazama","From the first time we saw each other, the
 ten years we were apart, the three years
-we spent at Haba School, and even into the
+we spent at Haba High, and even into the
 future——");
 MsgClear();
 ChClose(1);

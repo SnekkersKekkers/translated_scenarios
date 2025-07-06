@@ -60,7 +60,7 @@ you want to ride a killer whale?");
         VoicePlay("B040206102_02_040");
         MsgDisp("Sassa","Are you really going to ride
 that......");
-        MsgDisp("主人公","Eh? N-no?");
+        MsgDisp("主人公","Eh? N-No?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);

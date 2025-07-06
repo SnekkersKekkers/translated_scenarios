@@ -69,7 +69,7 @@ look on your face?");
     MsgDisp("Kazama","If you get stiff, 
 The work you went to the trouble of
 making will get ruined, right?");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

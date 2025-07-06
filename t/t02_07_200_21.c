@@ -2,7 +2,7 @@ ChEye(7,5);
 ChMouth(7,1);
 ChMotion(7,5);
 VoicePlay("T020720021_07_000");
-MsgDisp("Mikage","Y-y......you∋");
+MsgDisp("Mikage","Y-Y......you∋");
 MsgDisp("主人公","Ah, sorry.
 but......");
 ChEye(7,4);
@@ -36,7 +36,7 @@ ChMotion(7,3);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020720021_07_040");
 MsgDisp("Mikage","My precious, serious girl.
-We're graduating Haba School together.");
+We're graduating Haba High together.");
 MsgDisp("主人公","Hey, that nickname——");
 ChEye(7,0);
 ChMouth(7,3);

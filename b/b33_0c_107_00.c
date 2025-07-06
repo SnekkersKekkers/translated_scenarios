@@ -42,7 +42,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C10700_07_010");
-MsgDisp("Mikage","I-ill leave the rest to you Yanosuke.");
+MsgDisp("Mikage","I-Ill leave the rest to you Yanosuke.");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);

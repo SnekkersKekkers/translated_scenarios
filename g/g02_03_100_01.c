@@ -56,7 +56,7 @@ ChMotion(3,0);
 VoicePlay("G020310001_03_080");
 MsgDisp("Honda","Wanna try it? Look at me with a straight
 face and stay silent for five seconds.");
-MsgDisp("主人公","O-okay.
+MsgDisp("主人公","O-Okay.
 ..................");
 ChEye(3,5);
 ChMouth(3,3);

@@ -98,7 +98,7 @@ Believe in yourself.");
         VoicePlay("B040401102_04_080");
         MsgDisp("Nanatsumori","Crap.
 This is quite embarrassing.");
-        MsgDisp("主人公","Y-yeah.");
+        MsgDisp("主人公","Y-Yeah.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);

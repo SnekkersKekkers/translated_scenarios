@@ -36,7 +36,7 @@ about someone being a model.");
     VoicePlay("P730200001_02_030");
     MsgDisp("Sassa","But, you're more amazing than a model.
 You made it, and you're wearing it too?");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

@@ -73,7 +73,7 @@ fire together...");
         MsgDisp("Kazama","Try imagining 
 a flickering fire.");
         MsgDisp("主人公","Eh?
-Y-yeah?");
+Y-Yeah?");
         ScrFadeOut(3,30);
         Wait(40,1);
         VoicePlay("B040124202_01_060");

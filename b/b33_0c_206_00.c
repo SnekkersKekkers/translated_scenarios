@@ -21,7 +21,7 @@ SEPlay("EV_SE_GAYA_021");
 ScrFadeIn(0);
 Wait(60,1);
 VoicePlay("B330C20600_06_000");
-MsgDisp("Himuro","A-amazing...");
+MsgDisp("Himuro","A-Amazing...");
 SEStop("EV_SE_GAYA_021",3);
 VoicePlay("B330C20600_05_000");
 MsgDisp("Hiiragi","Yes, it was as impactful

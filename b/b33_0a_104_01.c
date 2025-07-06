@@ -107,7 +107,7 @@ VoicePlay("B330A10401_01_030");
 MsgDisp("Kazama","At this rate, 
 whethger they hear anything or not,
 they're just going to tease me.");
-MsgDisp("主人公","I-is that so?");
+MsgDisp("主人公","I-Is that so?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

@@ -43,7 +43,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020720000_07_050");
-MsgDisp("Mikage","I came to Haba School to fill in the void
+MsgDisp("Mikage","I came to Haba High to fill in the void
 left from my high school days");
 ChEye(7,2);
 ChMouth(7,4);

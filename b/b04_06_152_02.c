@@ -103,7 +103,7 @@ it on the way home.");
         VoicePlay("B040615202_06_100");
         MsgDisp("Himuro","...Your hand.");
         MsgDisp("主人公","eh!
-Y-yeah... okay.");
+Y-Yeah... okay.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);

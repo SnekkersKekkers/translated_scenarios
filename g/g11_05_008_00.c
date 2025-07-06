@@ -41,7 +41,7 @@ SEStop("EV_SE_712",0);
 ChMotion(5,2);
 VoicePlay("G110500800_05_030");
 MsgDisp("Hiiragi","No. I just want to feel like I'm of help
-to Haba School.");
+to Haba High.");
 SEPlay("EV_SE_712",0,0.7,0.8);
 ChMotion(5,0);
 VoicePlay("G110500800_05_040");

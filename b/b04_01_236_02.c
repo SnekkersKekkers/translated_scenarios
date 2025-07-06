@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,5);
     VoicePlay("B040123602_01_010");
-    MsgDisp("Kazama","O-oi, wait a second...
+    MsgDisp("Kazama","O-Oi, wait a second...
 My body is moving on it's own...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

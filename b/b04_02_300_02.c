@@ -89,7 +89,7 @@ Mom, what are you doing?");
         ChOpen(2,255,3,3,3,-1,-1,0,0);
         VoicePlay("B040230002_02_080");
         MsgDisp("Sassa","She really was there∈");
-        MsgDisp("主人公","W-what should I do?
+        MsgDisp("主人公","W-What should I do?
 I have to go greet her...");
         ChEye(2,0);
         ChMouth(2,4);

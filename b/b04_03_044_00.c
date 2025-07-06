@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040304400_03_000");
-    MsgDisp("Honda","Y-yeah. It's hard to put into words,
+    MsgDisp("Honda","Y-Yeah. It's hard to put into words,
 but... it was definitely a new experience.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

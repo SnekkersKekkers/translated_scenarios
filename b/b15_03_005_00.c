@@ -21,7 +21,7 @@ MsgDisp("主人公","Er...");
 ChMouth(3,4);
 VoicePlay("B150300500_03_030");
 MsgDisp("Honda","…………");
-MsgDisp("主人公","S-sorry.");
+MsgDisp("主人公","S-Sorry.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);

@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(5,255,0,0,4,-1,-1,0,0);
 VoicePlay("G020530200_05_000");
-MsgDisp("Hiiragi","Since entering Haba School, 
+MsgDisp("Hiiragi","Since entering Haba High, 
 I've been trying various things I 
 haven't experienced before.");
 ChMotion(5,4);
@@ -46,7 +46,7 @@ forward to the next time we can go
 together. Let's eat the same thing at that
 time.");
 MsgDisp("主人公","(｛柊＊＊＊｝ seems to be enjoying his
-student life at Haba School for the first
+student life at Haba High for the first
 time.)");
 BGMStop();
 MsgClose();

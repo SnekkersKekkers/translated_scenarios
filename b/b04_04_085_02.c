@@ -63,7 +63,7 @@ you meant that kinda thing...");
         ChCheek(4,8);
         VoicePlay("B040408502_04_050");
         MsgDisp("Nanatsumori","∋
-...H-hugging? Is that okay?");
+...H-Hugging? Is that okay?");
         MsgDisp("主人公","It's a bit embarrassing but,
 I don't have any hand warmers or 
 anything like that. And ｛七ツ森＊｝
@@ -79,7 +79,7 @@ am sensitive to the cold.");
         ChMotion(4,0,1);
         VoicePlay("B040408502_04_070");
         MsgDisp("Nanatsumori","...I'm really gonna do it?");
-        MsgDisp("主人公","Y-yeah.");
+        MsgDisp("主人公","Y-Yeah.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(4,0,30);

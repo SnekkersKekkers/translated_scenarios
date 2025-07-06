@@ -106,7 +106,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010630100_07_060");
-MsgDisp("Mikage","Y-yes......");
+MsgDisp("Mikage","Y-Yes......");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("E010630100_32_030");

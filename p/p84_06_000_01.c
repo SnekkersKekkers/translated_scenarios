@@ -6,13 +6,13 @@ SEWait();
 ChOpen(6,254,2,1,0,0,-1,0,0);
 VoicePlay("P840600001_06_000");
 MsgDisp("Himuro","Your execution is bad.");
-MsgDisp("主人公","I-i'm doing my best though.");
+MsgDisp("主人公","I-I'm doing my best though.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P840600001_48_000");
 MsgDisp("Woman Customer","Hey, I'm still waiting for my tea.");
-MsgDisp("主人公","P-please wait a momentー!");
+MsgDisp("主人公","P-Please wait a momentー!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

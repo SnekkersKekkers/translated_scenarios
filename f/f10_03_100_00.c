@@ -36,7 +36,7 @@ ChMotion(3,1,1);
 VoicePlay("F100310000_03_030");
 MsgDisp("Honda","That means those two umbrellas
 are taken home regularly.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);

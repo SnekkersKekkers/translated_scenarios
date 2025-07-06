@@ -29,7 +29,7 @@ VoicePlay("F112110002_21_030");
 MsgDisp("Michiru","So this year, I don't get
 annoyed when I see a lovey-dovey
 situation.");
-MsgDisp("主人公","R-right.");
+MsgDisp("主人公","R-Right.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

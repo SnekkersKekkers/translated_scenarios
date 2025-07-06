@@ -113,7 +113,7 @@ VoicePlay("F100730002_22_040");
 MsgDisp("Hikaru","Yeah, I'm sure uncle will
 like Mikage-sensei▼
 right, Mari?");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 MsgDisp("主人公","(Goro-sensei's fashion is quite
 original though...? Will
 ｛御影＊＊｝ be alright...)");

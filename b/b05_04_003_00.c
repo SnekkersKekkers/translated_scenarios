@@ -74,7 +74,7 @@ ScrFadeIn(0);
 VoicePlay("B050400300_04_070");
 MsgDisp("Nanatsumori","Right, right, this sort of thing.
 You made a good find.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 But that...");
 StlEye(4,0);
 StlMouth(4,1);

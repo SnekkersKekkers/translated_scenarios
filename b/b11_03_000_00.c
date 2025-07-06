@@ -42,7 +42,7 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110300000_33_020");
-MsgDisp("Guy","W-what's with you... ugh. I can only
+MsgDisp("Guy","W-What's with you... ugh. I can only
 handle one person at a time.");
 ChEye(3,0);
 ChMouth(3,4);

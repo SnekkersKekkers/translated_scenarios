@@ -3,7 +3,7 @@ VoicePlay("P840700001_48_000");
 MsgDisp("School Girl","That was bad wasn't it...
 Getting their name wrong
 was the most impolite.");
-MsgDisp("主人公","Y-yes.");
+MsgDisp("主人公","Y-Yes.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

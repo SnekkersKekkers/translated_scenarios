@@ -18,7 +18,7 @@ VoicePlay("G020520100_05_020");
 MsgDisp("Hiiragi","Right now, I
 strongly feel how happy I am to
 see your smile up close.");
-MsgDisp("主人公","O-okay?");
+MsgDisp("主人公","O-Okay?");
 ChMotion(5,2);
 VoicePlay("G020520100_05_030");
 MsgDisp("Hiiragi","Huu...... In order to see your smile up
@@ -30,7 +30,7 @@ VoicePlay("G020520100_05_040");
 MsgDisp("Hiiragi","I'll try to figure out the answer on my
 own. I think that's when I'll finally sort
 out my feelings.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChMotion(5,4);
 VoicePlay("G020520100_05_050");
 MsgDisp("Hiiragi","The next time I come here, I hope the

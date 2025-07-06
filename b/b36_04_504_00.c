@@ -21,7 +21,7 @@ ChMotion(4,0,1);
 VoicePlay("B360450400_04_010");
 MsgDisp("Nanatsumori","There's a lot of people.
 Stick close to me.");
-MsgDisp("主人公","O-okay.");
+MsgDisp("主人公","O-Okay.");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("B360450400_04_020");

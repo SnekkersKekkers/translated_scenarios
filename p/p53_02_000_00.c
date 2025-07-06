@@ -21,7 +21,7 @@ What should I do, I'm so nervous...)");
     VoicePlay("P530200000_02_010");
     MsgDisp("Sassa","The real thing is almost here, huh?
 Have fun.");
-    MsgDisp("主人公","Y-yeah... thanks.");
+    MsgDisp("主人公","Y-Yeah... thanks.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -60,7 +60,7 @@ It's almost time for the real performance.");
     VoicePlay("P530200000_02_050");
     MsgDisp("Sassa","I'm glad I came a little early,.
 You're getting nervous.");
-    MsgDisp("主人公","Y-yeah.
+    MsgDisp("主人公","Y-Yeah.
 It's even worse when you think
 you shouldn't be nervous...");
     ChEye(2,0);

@@ -29,7 +29,7 @@ ChMouth(5,4);
 VoicePlay("T020520030_05_030");
 MsgDisp("Hiiragi","Hey, don't make that face. It's alright,
 I'm the chairman who graduated from the
-prestigious Haba School, youn know?");
+prestigious Haba High, youn know?");
 VoicePlay("T020520030_05_040");
 MsgDisp("Hiiragi","......My grades were just barely passing,
 though.");

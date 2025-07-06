@@ -81,7 +81,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B360650100_06_100");
 MsgDisp("Himuro","I had no choice but to get closer!");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

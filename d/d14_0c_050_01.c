@@ -112,7 +112,7 @@ VoiceEVSPlay(6);
 VoicePlay("D140C05001_06_040");
 MsgDisp("Himuro","｛主人公｝, let's go.");
 MsgDisp("主人公","(Ehhh!
-H-how did it come to this...∋)");
+H-How did it come to this...∋)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

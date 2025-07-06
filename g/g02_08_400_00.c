@@ -35,9 +35,9 @@ ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("G020840000_08_060");
 MsgDisp("Shirahane","But at first I really couldn't believe it.
-A girl from the prestigious Haba School is
+A girl from the prestigious Haba High is
 working part-time at a gas station.");
-MsgDisp("主人公","I-is that so?");
+MsgDisp("主人公","I-Is that so?");
 ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);

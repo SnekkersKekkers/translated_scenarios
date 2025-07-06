@@ -29,7 +29,7 @@ MsgDisp("Himuro","There's no way!
 Do you think I'd let just anyone
 touch me? You're the only 
 one who I would let do this!");
-MsgDisp("主人公","S-sorry!
+MsgDisp("主人公","S-Sorry!
 But, you said I'm aggressive...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -65,7 +65,7 @@ VoicePlay("B150600000_06_080");
 MsgDisp("Himuro","Ah, actually no it's not. 
 You need to restrain yourself 
 with me too. Okay?");
-MsgDisp("主人公","U-understood.");
+MsgDisp("主人公","U-Understood.");
 ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,2);

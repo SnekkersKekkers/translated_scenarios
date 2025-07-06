@@ -68,7 +68,7 @@ Once more...");
         MsgDisp("Sassa","Hey, straighten your elbow.
 tighten your armpits, swing your
 hands vertically.");
-        MsgDisp("主人公","L-like this?");
+        MsgDisp("主人公","L-Like this?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

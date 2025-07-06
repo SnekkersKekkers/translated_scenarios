@@ -34,7 +34,7 @@ ChMotion(2,4);
 VoicePlay("E010230100_02_020");
 MsgDisp("Sassa","You're not here for 
 the sale either......");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);

@@ -23,7 +23,7 @@ ChMotion(4,1,1);
 VoicePlay("X210400000_04_030");
 MsgDisp("Nanatsumori","You looked very beautiful with your 
 tiara and crimson gown on.");
-MsgDisp("主人公","T-thank you.");
+MsgDisp("主人公","T-Thank you.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

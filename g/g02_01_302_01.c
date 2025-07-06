@@ -54,7 +54,7 @@ ChMotion(1,0);
 VoicePlay("G020130201_01_070");
 MsgDisp("Kazama","Meaning that my eyes were already good ten
 years ago.");
-MsgDisp("主人公","O-okay......?");
+MsgDisp("主人公","O-Okay......?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

@@ -48,7 +48,7 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020310401_03_070");
 MsgDisp("Honda","So, can we try?");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);

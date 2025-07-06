@@ -5,7 +5,7 @@ MsgDisp("Member A","Today we're practicing on the community
 grounds. Everyone, let's do some training
 that we can't do normally!");
 VoicePlay("G110200702_44_000");
-MsgDisp("Member B","Amazing, Haba School reserved all of this!");
+MsgDisp("Member B","Amazing, Haba High reserved all of this!");
 MsgDisp("主人公","(Hehe, everyone's so excited, huh.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");

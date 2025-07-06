@@ -109,7 +109,7 @@ StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 StlCheek(1,5);
 VoicePlay("B050100000_01_030");
-MsgDisp("Kazama","T-that's right.");
+MsgDisp("Kazama","T-That's right.");
 MsgDisp("主人公","...Ah, we're almost at the top!");
 StlEyeOpenLevel(1,0,1);
 Wait(1,0);

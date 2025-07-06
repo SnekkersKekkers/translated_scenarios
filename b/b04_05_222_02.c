@@ -73,7 +73,7 @@ it might be true.");
         MsgDisp("Hiiragi","Yes, so why don't we use this extravagant
 setting and put on a little play?");
         MsgDisp("主人公","Ehh?
-P-play?");
+P-Play?");
         ChEye(5,0);
         ChMouth(5,0);
         ChMotion(5,0);

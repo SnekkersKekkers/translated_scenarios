@@ -6,7 +6,7 @@ VoicePlay("B160700000_07_000");
 MsgDisp("Mikage","What's wrong?
 Are you wanting me to 
 teach you something bad?");
-MsgSel("Please teach me!","I-i'm sorry...");
+MsgSel("Please teach me!","I-I'm sorry...");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(7,1);

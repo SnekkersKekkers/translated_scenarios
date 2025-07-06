@@ -16,7 +16,7 @@ ChMotion(21,4);
 ChCheek(21,8);
 VoicePlay("F112110000_21_020");
 MsgDisp("Michiru","My heart, it's totally pounding...");
-MsgDisp("主人公","A-are you alright?∋
+MsgDisp("主人公","A-Are you alright?∋
 Do you need to go to the infirmary?");
 ChEye(21,0);
 ChMouth(21,4);

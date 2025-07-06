@@ -10,7 +10,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B080601100_06_010");
 MsgDisp("Himuro","Hmmph, so that's how it is.");
-MsgDisp("主人公","T-this is....");
+MsgDisp("主人公","T-This is....");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

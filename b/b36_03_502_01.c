@@ -56,7 +56,7 @@ VoicePlay("B360350201_03_060");
 MsgDisp("Honda","Yeah, but that's just the surface. I
 think he'd be really interested deep down.
 Especially in you.");
-MsgDisp("主人公","R-really?");
+MsgDisp("主人公","R-Really?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);

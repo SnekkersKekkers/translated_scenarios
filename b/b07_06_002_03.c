@@ -23,7 +23,7 @@ VoicePlay("B070600002_06_180");
 MsgDisp("Himuro","I mean, normally people wouldn't
 come approach would they?
 ...Me that is.");
-MsgDisp("主人公","Y-yeah...maybe?");
+MsgDisp("主人公","Y-Yeah...maybe?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

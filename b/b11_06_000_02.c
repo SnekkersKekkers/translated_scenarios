@@ -17,7 +17,7 @@ VoicePlay("B110600002_35_010");
 MsgDisp("Guy","Yes, she's here, boom!
 A golden egg after so long♪
 Hey, are you interested in modelling?");
-MsgDisp("主人公","M-modelling?");
+MsgDisp("主人公","M-Modelling?");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110600002_35_020");

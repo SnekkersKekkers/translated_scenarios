@@ -67,7 +67,7 @@ ChMotion(3,0);
 VoicePlay("G020320101_03_100");
 MsgDisp("Honda","Isn't it fascinating how there are so many
 things I don't understand about myself?");
-MsgDisp("主人公","(I-is that right?......)");
+MsgDisp("主人公","(I-Is that right?......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

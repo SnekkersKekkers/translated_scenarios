@@ -21,7 +21,7 @@ ChMotion(31,1);
 VoicePlay("P643100003_31_020");
 MsgDisp("Goro","Hmm...
 looks like it could be used as a talisman.");
-MsgDisp("主人公","(T-talisman∋
+MsgDisp("主人公","(T-Talisman∋
 Maybe I should have carefully selected
 and arranged them...)");
 MsgClose();

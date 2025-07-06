@@ -68,7 +68,7 @@ it. Well, let's get started.");
         VoicePlay("B040302302_03_060");
         MsgDisp("Honda","Hah...
 That feels good.");
-        MsgDisp("主人公","Y-yeah.
+        MsgDisp("主人公","Y-Yeah.
 I'm a bit tired, but that was fun.");
         ChEye(3,0);
         ChMouth(3,3);

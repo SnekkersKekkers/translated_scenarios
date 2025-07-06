@@ -156,7 +156,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClear();
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("","Either Haba School
+MsgDisp("","Either Haba High
 or Hane School was fine.");
 MsgDisp("","But, maybe I unconsciously 
 wanted to match him.

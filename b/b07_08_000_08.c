@@ -30,7 +30,7 @@ MsgDisp("Shirahane","After all...
 You'd be taken aback if 
 I said I liked you right?");
 ChEyeOpenLevel(8,0);
-MsgDisp("主人公","T-that's not true but...");
+MsgDisp("主人公","T-That's not true but...");
 ChEye(8,4);
 ChMouth(8,4);
 ChEyeOpenLevel(8,8);

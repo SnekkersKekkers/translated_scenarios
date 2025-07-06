@@ -42,7 +42,7 @@ VoicePlay("G020340002_03_050");
 MsgDisp("Honda","Right, right!
 Once you start with one, two, three,
 it could get pretty interesting.");
-MsgDisp("主人公","Y-yeah......");
+MsgDisp("主人公","Y-Yeah......");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

@@ -5,7 +5,7 @@ ChMotion(2,4);
 VoicePlay("P640200003_02_000");
 MsgDisp("Sassa","Thank you for the meal...
 Hey, was there something wrong?");
-MsgDisp("主人公","W-why is that?");
+MsgDisp("主人公","W-Why is that?");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);

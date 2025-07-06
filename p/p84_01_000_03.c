@@ -11,7 +11,7 @@ ChOpen(1,254,3,3,2,-1,-1,0,0,0,30);
 ChMouth(1,1);
 VoicePlay("P840100003_01_000");
 MsgDisp("Kazama","Oi, are you alright?");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 But, the bed is flooded...");
 ChEye(1,0);
 ChMouth(1,2);
@@ -19,7 +19,7 @@ ChMotion(1,0);
 VoicePlay("P840100003_01_010");
 MsgDisp("Kazama","Hey, your shoes got wet.
 Come here.");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

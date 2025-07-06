@@ -67,7 +67,7 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("B050700300_07_060");
-MsgDisp("Mikage","A-amazing. The inside is like a completely
+MsgDisp("Mikage","A-Amazing. The inside is like a completely
 different world.");
 MsgDisp("主人公","Yes, I'm excited!");
 StlEye(7,1);

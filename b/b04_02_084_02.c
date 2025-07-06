@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040208402_02_010");
-        MsgDisp("Sassa","I-it'll be alright.
+        MsgDisp("Sassa","I-It'll be alright.
 No... camping by the water is 
 a risky situation...");
         MsgDateResultDisp();

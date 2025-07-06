@@ -55,7 +55,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10100_01_030");
-MsgDisp("Kazama","W-well yeah.
+MsgDisp("Kazama","W-Well yeah.
 They had a good product lineup.");
 ChEye(2,0);
 ChMouth(2,4);

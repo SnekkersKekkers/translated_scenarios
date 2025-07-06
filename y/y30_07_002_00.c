@@ -101,7 +101,7 @@ the cultural festival. Respecting the
 feelings of your students, make a
 decision Mikage-sensei.\"");
 VoicePlay("Y300700200_07_050");
-MsgDisp("Mikage","\"Y-yes...\"");
+MsgDisp("Mikage","\"Y-Yes...\"");
 MsgDisp("","I never thought Vice Principal 
 Himuro would push me like this.");
 MsgClear();

@@ -13,7 +13,7 @@ VoicePlay("G020510305_05_010");
 MsgDisp("Hiiragi","You used to be unfond of these kinds
 of stories...
 But beautiful things are fleeting.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

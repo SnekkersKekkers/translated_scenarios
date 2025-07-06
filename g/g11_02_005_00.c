@@ -34,7 +34,7 @@ ChMotion(2,0);
 VoicePlay("G110200500_02_020");
 MsgDisp("Sassa","Yes I'm serious today too.
 But, you're doing completely fine.");
-MsgDisp("主人公","Y-yeah. Somewhat.");
+MsgDisp("主人公","Y-Yeah. Somewhat.");
 MsgDisp("主人公","(｛颯砂＊＊｝, I wonder if he's really
 running all out...... His mouth, is he
 smiling?)");

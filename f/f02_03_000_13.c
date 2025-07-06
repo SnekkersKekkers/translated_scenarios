@@ -32,7 +32,7 @@ VoicePlay("F020300013_03_020");
 MsgDisp("Honda","I want to get around as much as possible
 in my free time,
 so I'm also making a guidbeook.");
-MsgDisp("主人公","A-amazing......!");
+MsgDisp("主人公","A-Amazing......!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);

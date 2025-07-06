@@ -89,6 +89,6 @@ MsgDisp("Nanatsumori","We're in mutual agreement.
 It's okay. See you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
-MsgDisp("主人公","(I-is it o-okay?)");
+MsgDisp("主人公","(I-Is it o-okay?)");
 MsgClose();
 ScrFadeOut(0,0);

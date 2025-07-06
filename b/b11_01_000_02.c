@@ -33,7 +33,7 @@ VoicePlay("B110100002_35_030");
 MsgDisp("Guy","ehh∋
 The kids these days are sharp. 
 Okay, let's split it 50-50!");
-MsgDisp("主人公","U-um...");
+MsgDisp("主人公","U-Um...");
 ChEye(35,0);
 ChMouth(35,0);
 ChEyeOpenLevel(35,0);

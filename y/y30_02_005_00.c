@@ -17,7 +17,7 @@ MsgDisp("","I've continued training on the sand
 since graduation. I also got a part
 time job to run with dogs.");
 MsgDisp("","But, It's different to when I was in
-Haba school...");
+Haba High...");
 SEStop("EV_SE_679");
 MsgClear();
 MsgDisp("主人公","\"Hehe! It looks like they caused

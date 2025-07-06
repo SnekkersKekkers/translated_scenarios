@@ -21,7 +21,7 @@ VoicePlay("P540500003_05_010");
 MsgDisp("Hiiragi","Is that right?
 But, it made us, the audience
 fel happy listening to it.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 That's nice, but...");
 ChEye(5,4);
 ChMouth(5,4);

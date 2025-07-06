@@ -57,7 +57,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100901_01_050");
 MsgDisp("Kazama","Did you hear that?");
-MsgDisp("主人公","Y-yeah, the kid version of ｛風真＊＊｝?");
+MsgDisp("主人公","Y-Yeah, the kid version of ｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

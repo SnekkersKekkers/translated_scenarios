@@ -26,7 +26,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020620201_06_030");
 MsgDisp("Himuro","The way he tries to ward off us
 guys is downright unsightly.");
-MsgDisp("主人公","I-is that right......?");
+MsgDisp("主人公","I-Is that right......?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

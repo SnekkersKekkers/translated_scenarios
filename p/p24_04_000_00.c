@@ -43,7 +43,7 @@ VoicePlay("P240400000_04_040");
 MsgDisp("Nanatsumori","Actually,
 at this point I should dazzlingly～
 turn back into a handsome guy, huh?");
-MsgDisp("主人公","Y-yeah, that's right.
+MsgDisp("主人公","Y-Yeah, that's right.
 That's why you should start getting up...");
 StlEye(4,1);
 StlMouth(4,1);

@@ -9,7 +9,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_610");
-MsgDisp("Nanatsumori","W-what's up.
+MsgDisp("Nanatsumori","W-What's up.
 You're suddenly staring at me, stop it.");
 MsgDisp("主人公","…………");
 ChEye(4,0);

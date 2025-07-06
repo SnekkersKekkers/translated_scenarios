@@ -75,7 +75,7 @@ VoicePlay("D140C05101_06_020");
 MsgDisp("Himuro","Sorry, this was the last one.
 So, I'm giving it to you.");
 ChEye(5,4);
-MsgDisp("主人公","T-thank you...");
+MsgDisp("主人公","T-Thank you...");
 SEPlay("EV_SE_713",0.1,0.5);
 Wait(30,1);
 MsgClose();
@@ -97,7 +97,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05101_06_030");
 MsgDisp("Himuro","？");
-MsgDisp("主人公","(I-it's kind of hard to drink...)");
+MsgDisp("主人公","(I-It's kind of hard to drink...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

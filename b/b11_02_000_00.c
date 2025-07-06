@@ -14,7 +14,7 @@ VoicePlay("B110200000_33_000");
 MsgDisp("Guy","There's a world that I want 
 to show you. Won't you see it?");
 MsgDisp("主人公","Eh∋
-W-what is it?");
+W-What is it?");
 VoicePlay("B110200000_33_010");
 MsgDisp("Guy","The true, conspiracy-filled 
 reality of the world. I'll show you.");
@@ -54,7 +54,7 @@ ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,0);
 VoicePlay("B110200000_33_030");
-MsgDisp("Guy","Haa, you're with a guy. T-then it's
+MsgDisp("Guy","Haa, you're with a guy. T-Then it's
 impossible. It's disappointing, but you're
 disqualif——");
 MsgDispSksp(1,5);
@@ -69,7 +69,7 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110200000_33_040");
-MsgDisp("Guy","D-don't get carried away 
+MsgDisp("Guy","D-Don't get carried away 
 just because you're big～!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();

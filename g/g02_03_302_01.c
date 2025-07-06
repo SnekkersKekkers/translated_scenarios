@@ -4,7 +4,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G020330201_03_000");
-MsgDisp("Honda","Haba School allows a lot of personal
+MsgDisp("Honda","Haba High allows a lot of personal
 freedoms, but I still think there are some
 unreasonable school rules.");
 MsgDisp("主人公","Such as?");

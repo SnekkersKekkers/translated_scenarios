@@ -83,7 +83,7 @@ ChMotion(5,2);
 VoicePlay("G110501000_05_070");
 MsgDisp("Hiiragi","Since then, you look at me strangely from
 time-to-time.");
-MsgDisp("主人公","O-oh, yeah. It just made me realize again
+MsgDisp("主人公","O-Oh, yeah. It just made me realize again
 that you're the leader......");
 ChEye(5,1);
 ChMouth(5,1);

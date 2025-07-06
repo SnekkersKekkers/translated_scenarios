@@ -22,7 +22,7 @@ VoicePlay("P640300005_03_020");
 MsgDisp("Honda","But, the way you cut the 
 vegetables altered it's taste.
 It's better to cut along the grain.");
-MsgDisp("主人公","I-is that right?");
+MsgDisp("主人公","I-Is that right?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

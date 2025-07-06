@@ -69,7 +69,7 @@ MsgDisp("Hiiragi","Giving it my all, and sitting here during
 recess paid off.");
 ChMotion(5,0);
 SEPlay("EV_SE_712");
-MsgDisp("主人公","Y-yes. I think it's impressive....... The
+MsgDisp("主人公","Y-Yes. I think it's impressive....... The
 theatre company, your studies, and the
 student council too......");
 ChEye(5,1);
@@ -80,7 +80,7 @@ Wait(10,0);
 ChEyeOpenLevel(5,13);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500804_05_060");
-MsgDisp("Hiiragi","W-what's the matter?");
+MsgDisp("Hiiragi","W-What's the matter?");
 MsgDisp("主人公","I'm so happy that ｛柊＊＊＊｝'s efforts
 are being recognized......");
 ChMouth(5,1);

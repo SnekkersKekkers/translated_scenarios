@@ -47,7 +47,7 @@ MsgDisp("Nanatsumori","Yeah.
 If you can win a man's heart with
 your cooking, your future is
 secure, right?");
-MsgDisp("主人公","Y-yeah?");
+MsgDisp("主人公","Y-Yeah?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

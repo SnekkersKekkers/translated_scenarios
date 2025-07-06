@@ -3,7 +3,7 @@ BGMPlay("BGM_C08_DAICHI_B",0.01);
 BGOpen("ad850",0);
 ScrFadeIn(0);
 MsgDisp("","I've gotten too accustomed to waitin'
-for her at the gates of Haba School.");
+for her at the gates of Haba High.");
 MsgDisp("","I wonder why... my hearts beatin'
 fast.");
 MsgDisp("","Even the glances I get from people
@@ -14,7 +14,7 @@ MsgClear();
 VoicePlay("Y300800500_48_000");
 MsgDisp("School Girl A","\"That uniform, it's Hane School's
 right? I wonder if he has a
-girlfriend at Haba school?\"");
+girlfriend at Haba High?\"");
 VoicePlay("Y300800500_46_000");
 MsgDisp("School Girl B","\"That's incredible? For him to wait
 so proudly at the school gates, I'm a
@@ -30,7 +30,7 @@ Well, the track team should be
 fine though.\"");
 MsgDisp("","...Hmm, now I'm curious.
 Is the track and field club at
-Haba School really that amazin'?");
+Haba High really that amazin'?");
 MsgClear();
 MsgDisp("","For a while, I stood by the gate,
 being tickled by all the whispers

@@ -75,7 +75,7 @@ Just now was——");
         ChCheek(6,0);
         VoicePlay("B040630002_06_060");
         MsgDisp("Himuro","Just a joke?");
-        MsgDisp("主人公","Y-yeah");
+        MsgDisp("主人公","Y-Yeah");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,2);

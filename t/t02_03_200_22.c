@@ -4,13 +4,13 @@ ChMotion(3,0,1);
 ChCheek(3,10);
 VoicePlay("T020320000_03_290");
 MsgDisp("Honda","......!
-W-what does this mean?");
+W-What does this mean?");
 MsgDisp("主人公","It means I also like ｛本多＊＊｝.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("T020320000_03_300");
-MsgDisp("Honda","Y-yeah∋
+MsgDisp("Honda","Y-Yeah∋
 I guess you could respond like that∋");
 ChEye(3,2);
 ChMouth(3,3);
@@ -20,7 +20,7 @@ VoicePlay("T020320000_03_310");
 MsgDisp("Honda","I don't understand you at all.
 I've realized that now.
 It's worth studying you!");
-MsgDisp("主人公","A-as for that......");
+MsgDisp("主人公","A-As for that......");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

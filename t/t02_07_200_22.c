@@ -3,7 +3,7 @@ ChMouth(7,1);
 ChMotion(7,5,1);
 VoicePlay("T020720022_07_000");
 MsgDisp("Mikage","Oi-∋
-W-what's wrong?");
+W-What's wrong?");
 MsgDisp("主人公","I also like ｛御影＊＊｝.
 Did you......receive my feelings?");
 ChEye(7,2);

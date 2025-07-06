@@ -12,7 +12,7 @@ VoicePlay("P540200003_02_000");
 MsgDisp("Sassa","Good job.
 Hey, there was a weird sound
 in the middle, right?");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 I missed a note....");
 ChEye(2,0);
 ChMouth(2,0);

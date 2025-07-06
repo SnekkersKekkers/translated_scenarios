@@ -79,7 +79,7 @@ ChMotion(3,4,1);
 VoicePlay("F100440001_03_060");
 MsgDisp("Honda","Huh?
 But, you also know too, right?");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(4,1);
 ChMouth(4,0);
 VoicePlay("F100440001_04_020");

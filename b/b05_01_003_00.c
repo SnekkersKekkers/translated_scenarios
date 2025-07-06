@@ -60,7 +60,7 @@ VoicePlay("B050100300_01_050");
 MsgDisp("Kazama","You're pulling backー.
 Look straight ahead.
 Don't let go of my hand～");
-MsgDisp("主人公","Y-yes!");
+MsgDisp("主人公","Y-Yes!");
 StlEye(1,0);
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,1);

@@ -22,7 +22,7 @@ You weren't a student at
 Habataki Middle School, were you?");
 MsgDisp("主人公","Me?  
 No, I didn't go to Habataki  
-Middle school, actually...");
+Middle School, actually...");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,3,1);
@@ -76,8 +76,7 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("A020D00000_21_050");
 MsgDisp("Michiru","Yes.
-A girl full of grace,
-overflowing with charm...
+A girl full of grace, overflowing with charm...
 Like a delicate flower in bloom..");
 ChEye(22,0);
 ChMouth(22,3);
@@ -85,7 +84,7 @@ ChMotion(22,4,1);
 VoicePlay("A020D00000_22_040");
 MsgDisp("Hikaru","Hehe～
 It's subtle, but I can feel it～");
-MsgDisp("主人公","N-no way... I'm nothing like that...");
+MsgDisp("主人公","N-No way... I'm nothing like that...");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -122,7 +121,7 @@ ChMotion(21,0);
 VoicePlay("A020D00000_21_080");
 MsgDisp("Michiru","And if it's fashion advice,
 I've got you covered.");
-MsgDisp("主人公","O-oh... okay!
+MsgDisp("主人公","O-Oh... okay!
 Thank you so much,
 Michiru-san... Hikaru-san!");
 ChEye(22,0);

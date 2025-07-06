@@ -209,7 +209,7 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("T020B21000_01_120");
 MsgDisp("Kazama","......∈
-W-what is it?");
+W-What is it?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,2,1);

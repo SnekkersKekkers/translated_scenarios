@@ -45,7 +45,7 @@ favorite of yours. ");
     ChMotion(5,0);
     ChEyeOpenLevel(5,-1);
     VoicePlay("B040522101_05_030");
-    MsgDisp("Hiiragi","D-do what?");
+    MsgDisp("Hiiragi","D-Do what?");
     MsgDateResultDisp();
     break ;
     default :

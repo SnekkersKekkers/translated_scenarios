@@ -33,7 +33,7 @@ VoicePlay("B330C20700_05_000");
 MsgDisp("Hiiragi","Yes, after reaching the top, 
 we went down in one loop.
 Like my body was floating. ");
-MsgDisp("主人公","Y-yeah...
+MsgDisp("主人公","Y-Yeah...
 That was the scariest part.");
 ChEye(7,2);
 ChMouth(7,4);

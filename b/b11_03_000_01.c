@@ -43,7 +43,7 @@ MsgDispSksp(0);
 ChEye(34,2);
 ChMouth(34,1);
 VoicePlay("B110300001_34_030");
-MsgDisp("Guy","W-what? Don't look straight at me like
+MsgDisp("Guy","W-What? Don't look straight at me like
 that...");
 ChEye(3,0);
 ChMouth(3,4);
@@ -57,7 +57,7 @@ MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110300001_34_040");
-MsgDisp("Guy","W-what do you know! First of all, this is
+MsgDisp("Guy","W-What do you know! First of all, this is
 is just an avatar and——");
 ChEye(3,4);
 ChMouth(3,3);

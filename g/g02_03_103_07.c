@@ -24,7 +24,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("G020310307_03_030");
 MsgDisp("Honda","Ehhh∋
-R-really∋");
+R-Really∋");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);

@@ -27,7 +27,7 @@ ChMotion(1,0);
 VoicePlay("P840100005_01_020");
 MsgDisp("Kazama","Promise me.
 From now on, you won't act on your own.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

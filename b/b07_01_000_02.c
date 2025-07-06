@@ -41,7 +41,7 @@ ChMouth(1,3);
 ChMotion(1,4);
 ChCheek(1,7);
 VoicePlay("B070100000_01_100");
-MsgDisp("Kazama","Y-you...");
+MsgDisp("Kazama","Y-You...");
 MsgDisp("主人公","(Ahh, how embarrassing...
 But why is ｛風真＊＊｝ getting shy?)");
 BGMStop();

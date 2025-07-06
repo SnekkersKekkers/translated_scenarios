@@ -24,7 +24,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,5);
     VoicePlay("B040223501_02_020");
-    MsgDisp("Sassa","S-stop.
+    MsgDisp("Sassa","S-Stop.
 That was the scariest thing so far.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

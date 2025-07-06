@@ -73,7 +73,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A20700_02_030");
-MsgDisp("Sassa","T-that's not it.");
+MsgDisp("Sassa","T-That's not it.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

@@ -66,7 +66,7 @@ MsgDisp("Mikage","Right.
 Like, will the safety rope break?
 Did I even put it on in the first place?
 Stuff like that.");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

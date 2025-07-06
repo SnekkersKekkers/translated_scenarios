@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040310300_03_000");
 MsgDisp("Honda","Trichromatic... he's a great artist known 
 to everyone. I wonder what kind of student
-he was when he was at Haba School?");
+he was when he was at Haba High?");
 MsgSel("Wasn't he an odd person?","It's said he's been beautiful since a long time ago.","Apparently he had a peculiar way of talking");
 switch (MsgSelRsltGet()){
     case 0:

@@ -40,7 +40,7 @@ Since I'm here anyways? ");
         VoicePlay("B040602202_06_030");
         MsgDisp("Himuro","...If there's something you're curious
 about, Why don't you ask me directly?");
-        MsgDisp("主人公","T-that's true huh?");
+        MsgDisp("主人公","T-That's true huh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -68,7 +68,7 @@ Answer in 20 characters or less.");
         VoicePlay("B040602202_06_070");
         MsgDisp("Himuro","Shall we set up a time limit?
 Then, I'll give you 30 seconds.");
-        MsgDisp("主人公","W-wait a second!");
+        MsgDisp("主人公","W-Wait a second!");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

@@ -38,7 +38,7 @@ was way too lame.");
     ChMotion(7,4);
     ChEyeOpenLevel(7,0);
     VoicePlay("B040703301_07_030");
-    MsgDisp("Mikage","C-crap, my lungs are collapsing.");
+    MsgDisp("Mikage","C-Crap, my lungs are collapsing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

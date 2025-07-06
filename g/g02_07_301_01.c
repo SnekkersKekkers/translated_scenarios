@@ -18,7 +18,7 @@ ChEyeOpenLevel(7,10);
 VoicePlay("G020730101_07_020");
 MsgDisp("Mikage","A person that boys and 
 girls just flock towards.");
-MsgDisp("主人公","I-is that so?");
+MsgDisp("主人公","I-Is that so?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

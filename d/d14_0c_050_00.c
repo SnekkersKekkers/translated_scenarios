@@ -30,7 +30,7 @@ ChMotion(6,0);
 VoicePlay("D140C05000_06_010");
 MsgDisp("Himuro","I thought we 
 would be intuding.");
-MsgDisp("主人公","T-that's not true...!");
+MsgDisp("主人公","T-That's not true...!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -44,7 +44,7 @@ MsgDisp("Hiiragi","Yes, I want to spend time together
 as a four currently. We can spend 
 alone time together another time.
 Right?");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

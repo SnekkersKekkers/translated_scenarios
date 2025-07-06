@@ -36,7 +36,7 @@ VoicePlay("G110100400_01_020");
 MsgDisp("Kazama","Winners should act more grand. If you
 don't, the losers won't rest in peace. So
 stand proudly, and loudly.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 You say that but......");
 VoicePlay("G110100400_41_000");
 MsgDisp("Male Student","Isn't that the Rose Queen-senpai

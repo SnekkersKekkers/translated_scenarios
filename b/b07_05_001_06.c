@@ -23,7 +23,7 @@ VoicePlay("B070500001_05_450");
 MsgDisp("Hiiragi","Right...but, 
 Our bond is surprisingly strong.
 Please do not fret.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(5,0);
 VoicePlay("B070500001_05_460");
 MsgDisp("Hiiragi","Even if you were to carelessly say

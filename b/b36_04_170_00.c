@@ -62,7 +62,7 @@ MsgDisp("Nanatsumori","Ahhh, hey!
 Don't say such cute things!
 I'm really gonna do something drastic!");
 MsgDisp("主人公","∋
-T-those are amazing lyrics...");
+T-Those are amazing lyrics...");
 ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,0,1);

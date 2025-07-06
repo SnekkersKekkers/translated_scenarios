@@ -6,7 +6,7 @@ ChMotion(5,0);
 VoicePlay("B080500002_05_010");
 MsgDisp("Hiiragi","Did you agree to 
 something?");
-MsgDisp("主人公","N-no.");
+MsgDisp("主人公","N-No.");
 ChEye(5,4);
 ChMouth(5,0);
 VoicePlay("B080500002_05_020");

@@ -66,7 +66,7 @@ tomorrow and go to sleep quickly.");
 lacks self awareness as a teacher.
 Come here!");
 	VoicePlay("Q010703200_07_040");
-	MsgDisp("Mikage","Y-yes, sir.");
+	MsgDisp("Mikage","Y-Yes, sir.");
 	SEPlay("EV_SE_738");
 	SEWait();
 	MsgDisp("主人公","(Phew, it seems like they left.
@@ -89,7 +89,7 @@ I want you to put yourselves in my shoes. ");
 	MsgDisp("Vice Principal Himuro","...And you. Mikage, I'd like to have a
 good chat with you. Come here!");
 	VoicePlay("Q010703200_07_050");
-	MsgDisp("Mikage","Y-yes, sir.");
+	MsgDisp("Mikage","Y-Yes, sir.");
 	SEPlay("EV_SE_738");
 	SEWait();
 	MsgDisp("主人公","(Phew, it seems like they left.
@@ -100,7 +100,7 @@ I've got to quickly get out of here!)");
 	SEWait();
 	MsgDisp("主人公","(Wah!
 Someone's under the table!)");
-	MsgDisp("主人公","(W-who could it be...
+	MsgDisp("主人公","(W-Who could it be...
 They feel so close......)");
 	MsgDisp("主人公","(Ooh, I can't move!
 Teachers, please leave already～∈)");
@@ -111,7 +111,7 @@ then--");
 	VoicePlay("Q010703200_32_060");
 	MsgDisp("Vice Principal Himuro","Mikage, I want you to come with me.");
 	VoicePlay("Q010703200_07_060");
-	MsgDisp("Mikage","Y-yes.");
+	MsgDisp("Mikage","Y-Yes.");
 	SEPlay("EV_SE_738");
 	SEWait();
 	MsgDisp("主人公","(Ha... It seems they've left.

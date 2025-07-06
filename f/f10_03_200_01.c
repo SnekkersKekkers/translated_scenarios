@@ -70,7 +70,7 @@ ChPosition(3,1);
 VoicePlay("F100320001_03_030");
 MsgDisp("Honda","...Why would I cut your hair?
 Right?");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 Look, the afternoon bell 
 is about to ring!");
 BGMStop();

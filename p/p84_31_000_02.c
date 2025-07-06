@@ -19,7 +19,7 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P843100002_31_020");
-MsgDisp("Goro","Haba high school is a great school after
+MsgDisp("Goro","Haba High School is a great school after
 all. I'm off to Ikkaku's place!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

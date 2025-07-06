@@ -91,7 +91,7 @@ somewhat complicated.");
     VoicePlay("P630600002_06_090");
     MsgDisp("Himuro","Then, I want the most heartfelt dish 
 you've made until now, please.");
-    MsgDisp("主人公","Y-yeah?
+    MsgDisp("主人公","Y-Yeah?
 Then please wait a moment!");
     MsgDisp("主人公","(What's up with ｛氷室＊＊｝?)");
     MsgClose();

@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Well, seems like it's 
 about time to go home...)");
 VoicePlay("F100740001_07_000");
-MsgDisp("Mikage?","P-please stop.");
+MsgDisp("Mikage?","P-Please stop.");
 MsgDisp("主人公","(Eh?
 That voice just now, was 
 ｛御影＊＊｝, right?
@@ -16,7 +16,7 @@ VoicePlay("F100740001_07_010");
 MsgDisp("Mikage","Eh?");
 VoicePlay("F100740001_32_010");
 MsgDisp("Vice Principal Himuro?","Come out, please.");
-MsgDisp("主人公","...Y-yes.
+MsgDisp("主人公","...Y-Yes.
 I'm sorry.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

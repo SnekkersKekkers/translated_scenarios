@@ -17,7 +17,7 @@ VoicePlay("B110200002_35_000");
 MsgDisp("Guy","Oh, it's been a while since I've felt 
 such a spark! How about we go to 
 that café over there and talk?");
-MsgDisp("主人公","W-what∋
+MsgDisp("主人公","W-What∋
 I have nothing to talk about.");
 ChEye(35,1);
 ChMouth(35,0);
@@ -42,7 +42,7 @@ VoicePlay("B110200002_02_010");
 MsgDisp("Sassa","Sorry I'm late.
 Are you alright?");
 MsgDispSksp(0);
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110200002_35_030");
@@ -56,7 +56,7 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B110200002_02_020");
 MsgDisp("Sassa","What's with that!
-S-stop looking at me weirdly.");
+S-Stop looking at me weirdly.");
 MsgDispSksp(0);
 ChEye(35,0);
 ChMouth(35,0);
@@ -67,7 +67,7 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B110200002_02_030");
-MsgDisp("Sassa","Y-you're talking to me∋");
+MsgDisp("Sassa","Y-You're talking to me∋");
 MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);

@@ -90,7 +90,7 @@ VoicePlay("D140C03200_05_020");
 MsgDisp("Hiiragi","Seems interesting.
 Can we have some too?
 You'd like some too right?");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

@@ -69,7 +69,7 @@ make it pretty but...)");
     ChMouthOpenLevel(4,-1);
     VoicePlay("P730400002_04_060");
     MsgDisp("Nanatsumori","You're beautiful.");
-    MsgDisp("主人公","T-thank you...
+    MsgDisp("主人公","T-Thank you...
 I'm a little embarrassed.");
     ChEye(4,4);
     ChMouth(4,3);

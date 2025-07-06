@@ -41,7 +41,7 @@ VoicePlay("F100210000_02_020");
 MsgDisp("Sassa","Yeah.
 Just now, you made a face like \"Wow, 
 that's pretty unusual\", didn't you?");
-MsgDisp("主人公","T-that's not true.
+MsgDisp("主人公","T-That's not true.
 What kinda books are you borrowing?");
 ChEye(2,0);
 ChMouth(2,4);

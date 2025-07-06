@@ -35,7 +35,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("D130A00001_02_000");
-MsgDisp("Sassa","\"W-what\" you say?
+MsgDisp("Sassa","\"W-What\" you say?
 That is, well, you know, \"that\".");
 ChMouth(1,2);
 ChEye(6,0);

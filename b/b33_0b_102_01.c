@@ -101,7 +101,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B330B10201_04_040");
-MsgDisp("Nanatsumori","O-oh.");
+MsgDisp("Nanatsumori","O-Oh.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);

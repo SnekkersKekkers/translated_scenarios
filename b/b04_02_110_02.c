@@ -59,7 +59,7 @@ Are you not feeling well?");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040211002_02_050");
-        MsgDisp("Sassa","Y-yeah, I'm fine.
+        MsgDisp("Sassa","Y-Yeah, I'm fine.
 This is high altitude training.");
         MsgDisp("主人公","What?");
         ChEye(2,0);

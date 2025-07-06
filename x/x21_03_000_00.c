@@ -20,7 +20,7 @@ VoicePlay("X210300000_03_020");
 MsgDisp("Honda","When it came results time, 
 my heart was racing, even 
 though I wasn't competing!");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 I don't even believe it myself...");
 ChEye(3,0);
 ChMouth(3,4);
@@ -28,7 +28,7 @@ ChMotion(3,0);
 VoiceEVSPlay(3);
 VoicePlay("X210300000_03_010");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","W-what?");
+MsgDisp("主人公","W-What?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

@@ -95,7 +95,7 @@ Alright, open up....");
         ChOpen(4,255,0,5,2,-1,-1,0,0,0,60);
         VoicePlay("B040424202_04_120");
         MsgDisp("Nanatsumori","Was I, sleeping...?");
-        MsgDisp("主人公","Y-yeah.");
+        MsgDisp("主人公","Y-Yeah.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,2,1);
@@ -106,7 +106,7 @@ talking a little.");
         ChMotion(4,0,1);
         VoicePlay("B040424202_04_140");
         MsgDisp("Nanatsumori","...What was I saying?");
-        MsgDisp("主人公","S-sorry.
+        MsgDisp("主人公","S-Sorry.
 I couldn't really catch 
 what you were saying?");
         ChEye(4,4);

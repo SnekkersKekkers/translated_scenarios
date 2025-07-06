@@ -6,7 +6,7 @@ ChMotion(1,3);
 VoicePlay("B080100004_01_000");
 MsgDisp("Kazama","What's up with that guy....
 Are you alright?");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 Maybe they have something they need?");
 ChEye(1,0);
 ChMouth(1,2);

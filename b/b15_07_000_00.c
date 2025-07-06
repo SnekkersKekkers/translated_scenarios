@@ -19,7 +19,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChCheek(7,10);
 VoicePlay("B150700000_07_020");
-MsgDisp("Mikage","O-oh.
+MsgDisp("Mikage","O-Oh.
 I don't mind.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -33,7 +33,7 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B150700000_07_040");
-MsgDisp("Mikage","O-oh. Got it, got it. 
+MsgDisp("Mikage","O-Oh. Got it, got it. 
 Don't take it so seriously.");
 ChEye(7,2);
 ChMouth(7,0);

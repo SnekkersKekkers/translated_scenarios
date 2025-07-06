@@ -43,7 +43,7 @@ switch (MsgSelRsltGet()){
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040715102_07_030");
-        MsgDisp("Mikage","O-oh.
+        MsgDisp("Mikage","O-Oh.
 Isn't that overkill?");
         MsgDateResultDisp();
         break ;
@@ -54,7 +54,7 @@ Isn't that overkill?");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040715102_07_040");
-        MsgDisp("Mikage","O-oh.");
+        MsgDisp("Mikage","O-Oh.");
         MsgDisp("主人公","Eh, what's wrong?");
         ChEye(7,2);
         ChMouth(7,0);

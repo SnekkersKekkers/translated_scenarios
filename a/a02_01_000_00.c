@@ -100,7 +100,7 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,4);
 VoicePlay("A020100000_01_050");
-MsgDisp("Kazama","...N-not really.
+MsgDisp("Kazama","...N-Not really.
 It's not that weird.");
 MsgDisp("主人公","That uniform... wait—
 are you going to Habataki High

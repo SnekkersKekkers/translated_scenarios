@@ -11,7 +11,7 @@ ChOpen(5,254,0,4,4,-1,-1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("P740500005_05_000");
 MsgDisp("Hiiragi","｛主人公｝, you're not injured, are you?");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

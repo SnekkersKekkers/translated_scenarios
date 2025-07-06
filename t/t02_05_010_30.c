@@ -30,7 +30,7 @@ ChEye(5,3);
 ChMouth(5,3);
 VoicePlay("T020501030_05_030");
 MsgDisp("Hiiragi","It's okay. I'm the chairman who graduated
-from the prestigious Haba School, you
+from the prestigious Haba High, you
 know?");
 ChEye(5,4);
 ChMouth(5,4);

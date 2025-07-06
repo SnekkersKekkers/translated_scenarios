@@ -37,7 +37,7 @@ ScrFadeOut(0);
 VoicePlay("B330A30501_01_010");
 MsgDisp("Kazama","Lift your chin a bit...that's right.
 And try lifting your arm too.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 VoicePlay("B330A30501_02_010");
 MsgDisp("Sassa","Lift your heel a bit on your hind leg, 
 and stand on your toe.");

@@ -26,7 +26,7 @@ ChMotion(1,0);
 VoicePlay("G020120203_01_030");
 MsgDisp("Kazama","Listen. I'm not angry at you so don't
 think that I am.");
-MsgDisp("主人公","O-okay?");
+MsgDisp("主人公","O-Okay?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

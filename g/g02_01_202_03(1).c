@@ -25,7 +25,7 @@ ChMotion(1,0);
 VoicePlay("G020120203_01_030");
 MsgDisp("Kazama","Listen up, I'm not blaming you, so don't
 misunderstand, okay?");
-MsgDisp("主人公","Y-yeah?");
+MsgDisp("主人公","Y-Yeah?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

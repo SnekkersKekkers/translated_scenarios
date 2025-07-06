@@ -43,7 +43,7 @@ VoicePlay("G110700802_07_040");
 MsgDisp("Mikage","There are some that's better to be spartan
 with, there are some that are better to be
 gentle with.");
-MsgDisp("主人公","S-spartan......?");
+MsgDisp("主人公","S-Spartan......?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

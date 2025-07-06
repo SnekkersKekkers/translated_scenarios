@@ -63,7 +63,7 @@ MsgDisp("Himuro","I'll search for meaning in those actions,
 and then I can't help but become
 conscious of what comes after.
 ...You understand, right? ");
-MsgDisp("主人公","Y-yeah...
+MsgDisp("主人公","Y-Yeah...
 somewhat. ");
 ChEye(6,0);
 ChMouth(6,0);

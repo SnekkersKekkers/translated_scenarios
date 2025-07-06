@@ -88,7 +88,7 @@ you have a nice voice!");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040506202_05_090");
-        MsgDisp("Hiiragi","...T-thank you.
+        MsgDisp("Hiiragi","...T-Thank you.
 That wasn't my intention though.");
         ChEye(5,4);
         ChMotion(5,0);

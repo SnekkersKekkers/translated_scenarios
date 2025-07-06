@@ -55,7 +55,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100530000_05_040");
 MsgDisp("Hiiragi","Well, go ahead?");
-MsgDisp("主人公","Umm... B-bonjour?");
+MsgDisp("主人公","Umm... B-Bonjour?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -128,7 +128,7 @@ ChClose(22);
 ChClose(5,0,30);
 ChLayout(1);
 ChOpen(5,254,0,0,0,-1,-1,0,0);
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 Then ｛柊＊＊＊｝, 
 do your best, okay?");
 ChEye(5,4);

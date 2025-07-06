@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160800300_08_000");
 MsgDisp("Shirahane","...Hey, can I touch you too?");
-MsgSel("That's fine","D-don't...!");
+MsgSel("That's fine","D-Don't...!");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(8,2);

@@ -106,7 +106,7 @@ VoicePlay("P240601000_06_100");
 MsgDisp("Himuro","Ah, it's time for a scene change.
 Hey, we need to change the set.
 Let's go.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);

@@ -23,7 +23,7 @@ What should I do, I'm so nervous...)");
     VoicePlay("P530600000_06_010");
     MsgDisp("Himuro","What's with that face.
 Are you perhaps, stressed?");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

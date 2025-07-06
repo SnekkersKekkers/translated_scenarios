@@ -3,7 +3,7 @@ ChClose(1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","...Huh?
 My wallet isn't there!
-W-what should I do?");
+W-What should I do?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

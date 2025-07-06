@@ -106,7 +106,7 @@ watch?");
     VoicePlay("P730600001_06_110");
     MsgDisp("Himuro","Hey, it's starting!
 Are you going?");
-    MsgDisp("主人公","Y-yeah...!");
+    MsgDisp("主人公","Y-Yeah...!");
     MsgDisp("主人公","(He said it suits me right?
 Alright, let's hold my chin up high!)");
     MsgClose();

@@ -25,7 +25,7 @@ ChMouth(1,0);
 VoicePlay("B360150100_01_010");
 MsgDisp("Kazama","Hey, we used to play here a
 lot a long time ago, right?");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

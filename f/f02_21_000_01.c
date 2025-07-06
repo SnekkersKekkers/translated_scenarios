@@ -25,7 +25,7 @@ ChMotion(21,0);
 VoicePlay("F022100001_21_020");
 MsgDisp("Michiru","Mari, you've alwauys lived in this town, 
 so I thought you would know.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 But the one I know is...");
 ChEye(21,3);
 ChMouth(21,3);

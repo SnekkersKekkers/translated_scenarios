@@ -3,7 +3,7 @@ ChOpen(2,255,0,0,0,-1,-1,0,0);
 VoicePlay("G020230001_02_000");
 MsgDisp("Sassa","The one who's watching the fireflies
 with you is me.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 What's this out of the blue?");
 ChEye(2,0);
 ChMouth(2,0);

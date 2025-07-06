@@ -73,7 +73,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B20300_04_030");
-MsgDisp("Nanatsumori","Y-yeah.
+MsgDisp("Nanatsumori","Y-Yeah.
 I have a bad feeling about this though.");
 ChMouth(1,2);
 ChEye(3,0);

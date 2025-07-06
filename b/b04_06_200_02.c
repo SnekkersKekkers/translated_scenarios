@@ -13,7 +13,7 @@ ChOpen(6,32,0,2,1,0,-1,0,0);
 VoicePlay("B040620002_06_000");
 MsgDisp("Himuro","Uwaa∋
 ...ow.");
-MsgSel("A-are you alright?","It's difficult isn't it?","You're so clumsy!");
+MsgSel("A-Are you alright?","It's difficult isn't it?","You're so clumsy!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -92,7 +92,7 @@ This is payback for laughing at me. ");
         ChCheek(6,10);
         VoicePlay("B040620002_06_070");
         MsgDisp("Himuro","∋");
-        MsgDisp("主人公","(H-he's so close!)");
+        MsgDisp("主人公","(H-He's so close!)");
         SEPlay("EV_SE_552",0,1);
         ChClose(6,0,30);
         MsgClose();
@@ -100,7 +100,7 @@ This is payback for laughing at me. ");
         ChOpen(6,32,4,0,0,-1,-1,0,0);
         SEWait();
         VoicePlay("B040620002_06_080");
-        MsgDisp("Himuro","A-anyways.");
+        MsgDisp("Himuro","A-Anyways.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

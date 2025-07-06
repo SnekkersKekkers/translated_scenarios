@@ -32,7 +32,7 @@ Let's go together.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("F010200003_02_030");
-    MsgDisp("Sassa","Y-you're that happy about it...");
+    MsgDisp("Sassa","Y-You're that happy about it...");
     break ;
     default :
     DbgAssert(1);

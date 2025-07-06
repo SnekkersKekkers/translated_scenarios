@@ -5,7 +5,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040722100_07_000");
-MsgDisp("Mikage","O-oi.
+MsgDisp("Mikage","O-Oi.
 Don't go out any further than that.
 It's dangerous.");
 MsgSel("Are you bad with high places?","Both the handrail and floor are creaking huh?","Do you want to hold hands?");

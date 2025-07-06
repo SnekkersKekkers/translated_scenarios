@@ -35,7 +35,7 @@ but also pretty bad.");
         VoiceEVSPlay(7);
         VoicePlay("B040703102_07_020");
         MsgDisp("Mikage","｛主人公｝, stay here for a bit.");
-        MsgDisp("主人公","Y-yes. I'm sorry.");
+        MsgDisp("主人公","Y-Yes. I'm sorry.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,4);

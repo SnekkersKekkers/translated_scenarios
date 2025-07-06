@@ -7,7 +7,7 @@ VoicePlay("G020340001_03_000");
 MsgDisp("Honda","Hey, I had the worst dream this morning.
 Can I tell you about it? 
 I can't shake it until I talk to someone.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 What happened in your dream?");
 ChMotion(3,0);
 VoicePlay("G020340001_03_010");

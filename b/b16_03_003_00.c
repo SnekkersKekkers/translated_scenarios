@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     NSSEye(3,4);
     NSSMouth(3,4);
     VoicePlay("B160300300_03_020");
-    MsgDisp("Honda","O-okay. I wonder why... I'm starting to
+    MsgDisp("Honda","O-Okay. I wonder why... I'm starting to
 get nervous.");
     break ;
     default :

@@ -22,7 +22,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("E010110000_01_020");
 MsgDisp("Kazama","Yeah, you heading home too?");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

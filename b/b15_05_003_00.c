@@ -15,7 +15,7 @@ ChEye(5,4);
 VoicePlay("B150500300_05_020");
 MsgDisp("Hiiragi","Do you understand?
 I'm a guy.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 ...I'm a girl?");
 ChEye(5,3);
 VoicePlay("B150500300_05_030");
@@ -25,7 +25,7 @@ ChMotion(5,5);
 ChEyeOpenLevel(5,9);
 ChCheek(5,7);
 VoicePlay("B150500300_05_040");
-MsgDisp("Hiiragi","T-therefore.
+MsgDisp("Hiiragi","T-Therefore.
 It is troubling because
 you're a charming woman.");
 ChMotion(5,4);

@@ -99,7 +99,7 @@ SEPlay("EV_SE_511",0.3,0.6);
 SEPlay("EV_SE_842",0.1,0.7);
 Wait(30,0);
 VoicePlay("B330C10500_05_040");
-MsgDisp("Hiiragi","T-thank you very much!");
+MsgDisp("Hiiragi","T-Thank you very much!");
 VoicePlay("B330C10500_07_040");
 MsgDisp("Mikage","That's great, Yanosuke!");
 SEStop("EV_SE_511",1.5);

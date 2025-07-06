@@ -66,7 +66,7 @@ your scent∋");
         ChCheek(5,7);
         VoicePlay("B040506102_05_050");
         MsgDisp("Hiiragi","I apologize.
-S-saying it smelt delicious...
+S-Saying it smelt delicious...
 What was I saying...");
         MsgDisp("主人公","Umm,
 don't pay too much mind to that.");

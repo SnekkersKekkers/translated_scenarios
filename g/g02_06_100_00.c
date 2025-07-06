@@ -50,7 +50,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020610000_06_070");
 MsgDisp("Himuro","Yes. You show all your emotions.");
-MsgDisp("主人公","I-is that so......?");
+MsgDisp("主人公","I-Is that so......?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);

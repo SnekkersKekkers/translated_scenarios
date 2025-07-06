@@ -32,7 +32,7 @@ ChMotion(3,3,1);
 VoicePlay("B330B10801_03_000");
 MsgDisp("Honda","How super fun!
 Let's all search for what's changed.");
-MsgDisp("主人公","H-hey.
+MsgDisp("主人公","H-Hey.
 Isn't everyone scared?");
 ChMouth(1,2);
 ChMotion(1,0);

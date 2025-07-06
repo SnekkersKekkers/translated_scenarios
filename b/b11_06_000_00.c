@@ -70,7 +70,7 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110600000_33_040");
-MsgDisp("Guy","W-why!
+MsgDisp("Guy","W-Why!
 I was just trying to open 
 the door for this girl——");
 MsgClose();

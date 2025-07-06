@@ -42,7 +42,7 @@ it's your original arrangement.");
     MsgDisp("Honda","I came to hear your musical performance.
 I'll enjoy it even more if 
 it's different to usual.");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(3,3);
@@ -91,7 +91,7 @@ Can you copy me?");
     VoicePlay("P530300000_03_090");
     MsgDisp("Honda","These slight pulsations
 help me relax.");
-    MsgDisp("主人公","Y-yeah.
+    MsgDisp("主人公","Y-Yeah.
 Maybe I calmed down a little?");
     ChEye(3,5);
     ChMouth(3,4);

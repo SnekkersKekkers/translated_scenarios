@@ -3,7 +3,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B080200002_02_000");
 MsgDisp("Sassa","Is there a problem?");
-MsgDisp("主人公","I-it's nothing.");
+MsgDisp("主人公","I-It's nothing.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

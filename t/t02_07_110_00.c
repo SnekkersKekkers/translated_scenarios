@@ -43,10 +43,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020711000_07_030");
-MsgDisp("Mikage","I'm going to graduate from Haba school
+MsgDisp("Mikage","I'm going to graduate from Haba High
 along with you guys.");
 MsgDisp("主人公","You're going to resign from being a
-teacher at Haba School?");
+teacher at Haba High?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -59,7 +59,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020711000_07_050");
-MsgDisp("Mikage","I went to Haba School to fill in a gap
+MsgDisp("Mikage","I went to Haba High to fill in a gap
 from my high school years.");
 ChEye(7,2);
 ChMouth(7,4);

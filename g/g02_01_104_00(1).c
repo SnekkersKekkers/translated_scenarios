@@ -41,7 +41,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChCheek(1,7);
 VoicePlay("G020110400_01_050");
-MsgDisp("Kazama","Eh! I-idiot!
+MsgDisp("Kazama","Eh! I-Idiot!
 No, I mean not that it's see-through,
 but that you don't need to dress up!");
 MsgDisp("主人公","So, light clothing?");

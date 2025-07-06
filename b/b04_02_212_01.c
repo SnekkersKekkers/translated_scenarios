@@ -31,7 +31,7 @@ The others are a bit... you know.");
     ChMotion(2,3);
     VoicePlay("B040221201_02_020");
     MsgDisp("Sassa","Yes, please.
-L-like a bunny girl?");
+L-Like a bunny girl?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

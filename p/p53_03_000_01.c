@@ -38,7 +38,7 @@ and it's also fun.");
     VoicePlay("P530300001_03_030");
     MsgDisp("Honda","As the one performing, you 
 have to enjoy it the most.");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -78,7 +78,7 @@ I came to listen to some gaming music.");
     VoicePlay("P530300001_03_070");
     MsgDisp("Honda","Huh, that face
 are you tense?");
-    MsgDisp("主人公","Y-yeah, a bit.
+    MsgDisp("主人公","Y-Yeah, a bit.
 I'm just thinking about if I mess up...");
     ChEye(3,0);
     ChMouth(3,0);

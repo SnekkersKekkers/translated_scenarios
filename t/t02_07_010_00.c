@@ -27,7 +27,7 @@ MsgDisp("Mikage","Will you go with me?
 It's my graduation ceremony.");
 MsgDisp("主人公","｛御影＊＊｝'s graduation ceremony? Are
 you going to quit your job as a teacher at
-Haba School?");
+Haba High?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -40,7 +40,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020701000_07_040");
-MsgDisp("Mikage","The reason I went to Haba school was to
+MsgDisp("Mikage","The reason I went to Haba High was to
 fill the gap from my high school days.");
 ChEye(7,2);
 ChMouth(7,4);

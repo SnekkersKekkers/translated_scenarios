@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040324101_03_000");
 MsgDisp("Honda","There's even a milking experience!");
-MsgSel("Waa, looks fun!","It might be a bit scary","T-that's embarrassing.");
+MsgSel("Waa, looks fun!","It might be a bit scary","T-That's embarrassing.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

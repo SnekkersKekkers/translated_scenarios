@@ -18,5 +18,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B130200000_02_020");
-MsgDisp("Sassa","N-no, I'm not looking, 
+MsgDisp("Sassa","N-No, I'm not looking, 
 I'm not looking.");

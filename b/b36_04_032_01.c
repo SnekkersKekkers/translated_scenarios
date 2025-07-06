@@ -19,7 +19,7 @@ ChMotion(4,1,1);
 VoicePlay("B360403201_04_010");
 MsgDisp("Nanatsumori","It's cool...");
 MsgDisp("主人公","Eh...?
-T-that's right.");
+T-That's right.");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B360403201_04_020");

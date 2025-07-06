@@ -8,7 +8,7 @@ ChMouth(3,4);
 ChMotion(3,4);
 ChCheek(3,5);
 VoicePlay("T020300020_03_000");
-MsgDisp("Honda","I-is that so......thank you.");
+MsgDisp("Honda","I-Is that so......thank you.");
 MsgDisp("主人公","Thank you for always having fun
 conversations with me and spending time
 with me.");

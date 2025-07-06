@@ -43,7 +43,7 @@ VoicePlay("D140B05100_01_010");
 MsgDisp("Kazama","...It's none of your business.
 I would do that even if you 
 didn't tell me to, got it?");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

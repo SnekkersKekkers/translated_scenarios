@@ -82,7 +82,7 @@ or the fashion show?");
     ChMotion(2,0);
     VoicePlay("P730200000_02_070");
     MsgDisp("Sassa","You look a little nervous?");
-    MsgDisp("主人公","Y-yeah.
+    MsgDisp("主人公","Y-Yeah.
 I'm experienced with making clothes but...
 I'm nervous to go up on stage.");
     ChEye(2,0);

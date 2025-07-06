@@ -17,7 +17,7 @@ ChMotion(3,5);
 VoicePlay("B070300001_03_500");
 MsgDisp("Honda","This is bad! Your face is getting even 
 redder! Do you have a fever?");
-MsgDisp("主人公","W-wait! Um... could you not look at me
+MsgDisp("主人公","W-Wait! Um... could you not look at me
 so closely?");
 ChEye(3,4);
 ChMouth(3,4);

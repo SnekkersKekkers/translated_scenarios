@@ -58,7 +58,7 @@ order received.");
         MsgDisp("Kazama","Please give me your most
 popular sweet.");
         VoicePlay("B040117002_01_050");
-        MsgDisp("Kazama","O-of course. that's alright.");
+        MsgDisp("Kazama","O-Of course. that's alright.");
         MsgDisp("主人公","Are you alright...?");
         SEPlay("EV_SE_762");
         SEWait();

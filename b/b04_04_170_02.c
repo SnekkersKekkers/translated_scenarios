@@ -71,7 +71,7 @@ What exactly are you going to do?");
         MsgDisp("Nanatsumori","How is it?
 Is this \"heart-racing\"?");
         ChEyeOpenLevel(4,-1);
-        MsgDisp("主人公","Y-yeah.
+        MsgDisp("主人公","Y-Yeah.
 My heart is beating super fast...");
         ChEye(4,4);
         ChMouth(4,3);
@@ -120,7 +120,7 @@ You mean to say that I'm cute?");
         VoicePlay("B040417002_04_130");
         MsgDisp("Nanatsumori","The excitement of the closed room has
 come to an end. It's over.");
-        MsgDisp("主人公","Y-yeah.");
+        MsgDisp("主人公","Y-Yeah.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);

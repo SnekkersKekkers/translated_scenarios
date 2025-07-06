@@ -65,7 +65,7 @@ stage outweighs that.");
     MsgDisp("Hiiragi","Of course the script is of importance.
 But, the ones who are performing are you, 
 and me.");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,3);

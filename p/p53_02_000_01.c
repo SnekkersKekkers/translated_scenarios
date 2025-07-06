@@ -23,7 +23,7 @@ You came?");
     ChMotion(2,3);
     VoicePlay("P530200001_02_010");
     MsgDisp("Sassa","Game music seems somewhat fun.");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,0);

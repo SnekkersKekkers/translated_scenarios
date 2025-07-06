@@ -63,7 +63,7 @@ ScrFadeIn(0);
 VoicePlay("B050400100_46_000");
 MsgDisp("Clerk","Okay then, cool guy♪ The \"60 Minute
 Kakigori Challenge\" starts now～∈");
-MsgDisp("主人公","(T-there are so many kinds of kakkigori...
+MsgDisp("主人公","(T-There are so many kinds of kakkigori...
 To keep eating this for 60 minutes...
 ｛七ツ森＊｝, is it really okay∋)");
 VoicePlay("B050400100_04_050");
@@ -120,7 +120,7 @@ MsgDisp("Nanatsumori","Ah, that's cool.
 'Matcha Whirlwind' is delicious, 
 so I'm good with it. I'll take a refill.");
 VoicePlay("B050400100_46_030");
-MsgDisp("Clerk","C-certainly!
+MsgDisp("Clerk","C-Certainly!
 One order of the \"Matcha whirlwind\"～!");
 StlEye(4,0);
 StlMouth(4,1);

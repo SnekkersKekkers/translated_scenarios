@@ -66,7 +66,7 @@ VoicePlay("B070301000_03_090");
 MsgDisp("Honda","Sorry, I didn't mean to say that! Well, I
 did mean it, but it's not something I
 should've said right now!");
-MsgDisp("主人公","O-okay. Just calm down, alright?");
+MsgDisp("主人公","O-Okay. Just calm down, alright?");
 ChSet(3,2);
 VoicePlay("B070301000_03_100");
 MsgDisp("Honda","Ugh...");

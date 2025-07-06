@@ -89,7 +89,7 @@ MsgDisp("Himuro","I wanted to have lunch with the
 four of us, that's why I'm here.
 It's the same for you, right?");
 ChEyeOpenLevel(1,-1);
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

@@ -121,7 +121,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20801_05_030");
 MsgDisp("Hiiragi","I see... interesting.");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

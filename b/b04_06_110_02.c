@@ -83,7 +83,7 @@ How waas it for you, ｛氷室＊＊｝?");
         ChMouth(6,0);
         ChMotion(6,5);
         VoicePlay("B040611002_06_080");
-        MsgDisp("Himuro","I-it's nothing!");
+        MsgDisp("Himuro","I-It's nothing!");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

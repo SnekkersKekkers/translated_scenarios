@@ -12,7 +12,7 @@ VoicePlay("F032200000_22_200");
 MsgDisp("Hikaru","I like to check out the relationships
 between people, but I also like to see
 through their hidden faces▼");
-MsgDisp("主人公","I-is that so?");
+MsgDisp("主人公","I-Is that so?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

@@ -57,7 +57,7 @@ Since I like games quite a bit.");
         MsgDisp("Himuro","I've played most of them, 
 there are a few games I would recommend, 
 I think you'll enjoy them.");
-        MsgDisp("主人公","Y-yeah?");
+        MsgDisp("主人公","Y-Yeah?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

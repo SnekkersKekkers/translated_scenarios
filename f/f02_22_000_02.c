@@ -15,7 +15,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200002_22_010");
 MsgDisp("Hikaru","Do you want to hear it?");
-MsgDisp("主人公","Y-yeah?
+MsgDisp("主人公","Y-Yeah?
 What is it?");
 ChEye(22,4);
 ChMouth(22,0);

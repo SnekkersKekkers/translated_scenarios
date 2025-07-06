@@ -12,7 +12,7 @@ ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("B070700001_07_540");
-MsgDisp("Mikage","O-oi.
+MsgDisp("Mikage","O-Oi.
 Are you feeling unwell?");
 MsgDisp("主人公","Ah...");
 ChEye(7,0);
@@ -28,7 +28,7 @@ ChMouth(7,5);
 ChMotion(7,0);
 ChCheek(7,5);
 VoicePlay("B070700001_07_560");
-MsgDisp("Mikage","O-oii.");
+MsgDisp("Mikage","O-Oii.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

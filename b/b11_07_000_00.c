@@ -90,7 +90,7 @@ ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,7);
 VoicePlay("B110700000_33_060");
-MsgDisp("Guy","B-but, I don't believe it, so!");
+MsgDisp("Guy","B-But, I don't believe it, so!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(33);

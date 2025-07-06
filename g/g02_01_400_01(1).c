@@ -35,7 +35,7 @@ VoicePlay("G020140001_01_040");
 MsgDisp("Kazama","I've missed out on ten years of memories,
 so even recalling a little makes me happy.");
 MsgDisp("主人公","We'll be able to make a lot of memories 
-at our three years at Haba School.");
+at our three years at Haba High.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

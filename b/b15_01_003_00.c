@@ -25,7 +25,7 @@ MsgDisp("Kazama","Hey, you know it's been 10 years
 since we've last met, but
 neither me or you are 
 the same as back then.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 I know that.");
 ChEye(1,0);
 ChMouth(1,1);

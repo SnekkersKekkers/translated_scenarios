@@ -128,7 +128,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630200_06_120");
-MsgDisp("Himuro","......Y-yeah.");
+MsgDisp("Himuro","......Y-Yeah.");
 MsgClose();
 SEPlay("EV_SE_856");
 BGMStop();

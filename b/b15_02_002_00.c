@@ -51,7 +51,7 @@ VoicePlay("B150200200_02_060");
 MsgDisp("Sassa","Yeah, hey. Let's stop.
 I'm good at controlling myself...
 but I'd hate it if something happened.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

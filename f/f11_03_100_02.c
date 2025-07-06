@@ -71,7 +71,7 @@ ChMotion(3,3,1);
 VoicePlay("F110310002_03_090");
 MsgDisp("Honda","I'd only give you a haircut if you won.
 So why would you want to lose?");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 You'd definitely want to win, right?");
 ChEye(3,0);
 ChMouth(3,0);

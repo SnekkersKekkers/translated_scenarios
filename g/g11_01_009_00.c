@@ -24,7 +24,7 @@ VoicePlay("G110100900_01_000");
 MsgDisp("Kazama","It's chilly, huh.
 Sorry about the cold. 
 Let's continue anyway.");
-MsgDisp("主人公","Y-yeah. Was there something you wanted to
+MsgDisp("主人公","Y-Yeah. Was there something you wanted to
 talk about?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);

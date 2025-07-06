@@ -49,7 +49,7 @@ VoicePlay("B110800000_08_020");
 MsgDisp("Shirahane","Sorry, I was late.
 Are you alright?");
 MsgDispSksp(0);
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,0);
@@ -68,7 +68,7 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110800000_33_040");
-MsgDisp("Guy","F-fly away?
+MsgDisp("Guy","F-Fly away?
 What's with that? Which of us is 
 the pain really?");
 MsgClose();

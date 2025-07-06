@@ -5,7 +5,7 @@ VoicePlay("G020520101_05_000");
 MsgDisp("Hiiragi","｛主人公｝, please listen to me as if I
 were talking to myself.");
 MsgDisp("主人公","Eh?
-O-okay.");
+O-Okay.");
 VoicePlay("G020520101_05_010");
 MsgDisp("Hiiragi","Thank you.");
 ChEye(5,0);

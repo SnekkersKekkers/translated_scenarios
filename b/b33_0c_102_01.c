@@ -101,7 +101,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,5);
 VoicePlay("B330C10201_05_040");
-MsgDisp("Hiiragi","N-no, not at all.
+MsgDisp("Hiiragi","N-No, not at all.
 I'm not that clever.");
 ChEyeOpenLevel(5,0);
 ChEye(6,0);

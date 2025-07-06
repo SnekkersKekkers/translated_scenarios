@@ -29,7 +29,7 @@ VoicePlay("F022200010_22_020");
 MsgDisp("Hikaru","If Mari became heroine, 
 Hikaru will be cheering 
 on for her lots▼");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 If I got the leading part, 
 I'll do my best, okay?");
 ChEye(22,3);

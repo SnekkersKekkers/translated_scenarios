@@ -5,7 +5,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("B080200004_02_000");
 MsgDisp("Sassa","What was that just now?");
-MsgDisp("主人公","Y-yeah. 
+MsgDisp("主人公","Y-Yeah. 
 What was the matter I wonder?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -14,7 +14,7 @@ VoicePlay("B080200004_02_010");
 MsgDisp("Sassa","Well.
 I don't know what it is,
 but if something's up, tell me.");
-MsgDisp("主人公","Y-yeah, 
+MsgDisp("主人公","Y-Yeah, 
 I'll see you then.");
 ChEye(2,0);
 ChMouth(2,4);

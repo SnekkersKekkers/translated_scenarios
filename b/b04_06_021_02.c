@@ -96,7 +96,7 @@ in the first place. ");
         ChMotion(6,0);
         VoicePlay("B040602102_06_100");
         MsgDisp("Himuro","Yeah, thanks to you,");
-        MsgDisp("主人公","(I-it's my fault?)");
+        MsgDisp("主人公","(I-It's my fault?)");
         break ;
         default :
         DbgAssert(1);

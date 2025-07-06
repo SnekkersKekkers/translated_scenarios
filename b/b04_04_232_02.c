@@ -10,7 +10,7 @@ MsgDisp("Nanatsumori","Come to think of it...
 did you know about the jinx that if you
 kiss at the top of the ferris wheel, 
 your love will come true?");
-MsgSel("Wow, what a wonderful jinx!","...Do you want to try it?","K-k-kiss∋");
+MsgSel("Wow, what a wonderful jinx!","...Do you want to try it?","K-K-kiss∋");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -60,7 +60,7 @@ I was wondering if the jinx is true.");
         VoicePlay("B040423202_04_050");
         MsgDisp("Nanatsumori","｛主人公｝.
 I'm asking you this seriously.");
-        MsgDisp("主人公","Y-yeah.");
+        MsgDisp("主人公","Y-Yeah.");
         VoicePlay("B040423202_04_060");
         MsgDisp("Nanatsumori","Are you in love?
 ...With me?");

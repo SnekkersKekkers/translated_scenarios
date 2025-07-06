@@ -40,7 +40,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChCheek(1,7);
 VoicePlay("G020110400_01_050");
-MsgDisp("Kazama","What! I-idiot, I don't mean that they're
+MsgDisp("Kazama","What! I-Idiot, I don't mean that they're
 see-through, I'm saying that you don't
 have to dress yourself up!");
 MsgDisp("主人公","So something light?");

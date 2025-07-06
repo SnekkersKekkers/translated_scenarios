@@ -95,7 +95,7 @@ clothes around your neck.");
         MsgDisp("Himuro","Don't get so flustered?
 This is so you don't get heat stroke.
 You need to ventilate quickly.");
-        MsgDisp("主人公","G-got it...");
+        MsgDisp("主人公","G-Got it...");
         MsgClose();
         SEPlay("EV_SE_544",0,0.5,0.05);
         ChClose(6,0,30);

@@ -28,7 +28,7 @@ like a 4D experience.");
     ChMotion(1,4);
     ChCheek(1,5);
     VoicePlay("B040123501_01_020");
-    MsgDisp("Kazama","T-that was you...
+    MsgDisp("Kazama","T-That was you...
 Nah, never mind.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -57,7 +57,7 @@ ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B360201000_02_030");
-MsgDisp("Sassa","C-ceremony?");
+MsgDisp("Sassa","C-Ceremony?");
 VoicePlay("B360201000_46_030");
 MsgDisp("Clerk","When were you planning it for?");
 ChEye(2,5);

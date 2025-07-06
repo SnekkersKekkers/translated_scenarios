@@ -53,7 +53,7 @@ That's enough, just give up.");
         ChMouth(6,5);
         ChMotion(6,5);
         VoicePlay("B040617002_06_040");
-        MsgDisp("Himuro","W-wait!
+        MsgDisp("Himuro","W-Wait!
 I can't sing!");
         MsgDisp("主人公","If you don't know it,
 shall we sing together?");

@@ -78,7 +78,7 @@ over just standing still.");
         ChMotion(2,5);
         ChCheek(2,10);
         VoicePlay("B040214002_02_080");
-        MsgDisp("Sassa","H-hey, going to a concert with
+        MsgDisp("Sassa","H-Hey, going to a concert with
 someone makes it way more fun.");
         MsgDisp("主人公","(｛颯砂＊＊｝ really likes concerts huh...)");
         break ;

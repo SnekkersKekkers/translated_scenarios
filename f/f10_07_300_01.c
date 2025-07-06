@@ -58,7 +58,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
 VoicePlay("F100730001_07_030");
-MsgDisp("Mikage","O-oh, Time to style it...
+MsgDisp("Mikage","O-Oh, Time to style it...
 That's right, maybe about 15 minutes?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -77,7 +77,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F100730001_21_020");
 MsgDisp("Michiru","I'm jealous of that...");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);

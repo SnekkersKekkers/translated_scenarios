@@ -4,7 +4,7 @@ Wait(10,0);
 ChEye(5,2);
 ChMouth(5,2);
 VoicePlay("T020500022_05_000");
-MsgDisp("Hiiragi","W-what's wrong?");
+MsgDisp("Hiiragi","W-What's wrong?");
 ChEyeOpenLevel(5,0);
 Wait(8,0);
 ChEye(5,3);

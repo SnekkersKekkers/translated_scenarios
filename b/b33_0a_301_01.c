@@ -50,7 +50,7 @@ Right?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -77,7 +77,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A30101_02_030");
 MsgDisp("Sassa","Ughh...
-S-stop it.");
+S-Stop it.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

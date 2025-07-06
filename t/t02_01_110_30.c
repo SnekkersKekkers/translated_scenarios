@@ -6,7 +6,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("T020111000_01_200");
-MsgDisp("Kazama","......N-no it's okay.");
+MsgDisp("Kazama","......N-No it's okay.");
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
 ChEye(1,2);
 ChMouth(1,3);

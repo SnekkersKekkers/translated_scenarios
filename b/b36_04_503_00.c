@@ -40,7 +40,7 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B360450300_04_030");
 MsgDisp("Nanatsumori","Hey, look into my eyes.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChMouthOpenLevel(4,0);
 VoicePlay("B360450300_04_040");
 MsgDisp("Nanatsumori","…………");

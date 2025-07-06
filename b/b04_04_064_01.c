@@ -43,7 +43,7 @@ VoicePlay("B040406401_04_050");
 MsgDisp("Nanatsumori","Of course it's private.
 I'm on a date after all.");
 MsgDisp("主人公","!
-Y-yeah...");
+Y-Yeah...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

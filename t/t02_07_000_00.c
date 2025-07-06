@@ -40,7 +40,7 @@ you let me attend my graduation ceremony
 too?");
 MsgDisp("主人公","｛御影＊＊｝'s graduation ceremony? Are
 you resigning as a teacher from Haba
-School?");
+High?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

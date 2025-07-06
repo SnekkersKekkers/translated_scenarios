@@ -51,7 +51,7 @@ ChMotion(3,0);
 VoicePlay("G020310201_03_080");
 MsgDisp("Honda","I just said what was on my mind, 
 don't worry about it okay?");
-MsgDisp("主人公","Y-yeah?");
+MsgDisp("主人公","Y-Yeah?");
 MsgDisp("主人公","(Does that mean ｛本多＊＊｝ wants our
 current relationship......to change?)");
 BGMStop();

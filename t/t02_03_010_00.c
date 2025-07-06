@@ -24,7 +24,7 @@ ChMotion(3,2,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020301000_03_020");
 MsgDisp("Honda","Now, and perhaps even before that......
-Even at Haba School too.");
+Even at Haba High too.");
 MsgDisp("主人公","Eh?");
 ChEye(3,4);
 ChMouth(3,3);

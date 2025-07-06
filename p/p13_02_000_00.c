@@ -77,7 +77,7 @@ Isn't it cute?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P130200000_02_060");
-    MsgDisp("Sassa","Y-yeah.");
+    MsgDisp("Sassa","Y-Yeah.");
     MsgDisp("主人公","Everyone who reaches the goal receives
 freshly squeezed milk as a present.");
     ChEye(2,0);
@@ -85,7 +85,7 @@ freshly squeezed milk as a present.");
     ChMotion(2,4);
     ChCheek(2,10);
     VoicePlay("P130200000_02_070");
-    MsgDisp("Sassa","F-freshly squeezed......");
+    MsgDisp("Sassa","F-Freshly squeezed......");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,1);

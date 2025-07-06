@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160200300_02_000");
 MsgDisp("Sassa","Ah, sorry.
 I think I accidentally bumped into you.");
-MsgSel("N-no it's fine.","I was the one trying to get your attention.");
+MsgSel("N-No it's fine.","I was the one trying to get your attention.");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(2,6);

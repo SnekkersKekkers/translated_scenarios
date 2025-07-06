@@ -16,7 +16,7 @@ it's finally the runway...I'm nervous...)");
     VoicePlay("P730700000_07_000");
     MsgDisp("Mikage","Might it be, 
 that you're nervous?");
-    MsgDisp("主人公","Y-yes...");
+    MsgDisp("主人公","Y-Yes...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

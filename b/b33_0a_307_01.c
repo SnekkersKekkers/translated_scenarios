@@ -45,7 +45,7 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B330A30701_02_020");
-MsgDisp("Sassa","O-oi.
+MsgDisp("Sassa","O-Oi.
 Don't say such scary things.");
 ChEye(1,0);
 ChMouth(1,2);

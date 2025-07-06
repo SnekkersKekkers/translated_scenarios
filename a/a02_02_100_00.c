@@ -53,7 +53,7 @@ VoicePlay("A020210000_02_060");
 MsgDisp("Sassa","Don't worry. We'll take it slow.
 Running is the basis of physical 
 exercise.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -4,7 +4,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P640200001_02_000");
-MsgDisp("Sassa","I-it's bitter?
+MsgDisp("Sassa","I-It's bitter?
 Is herb tea like this?");
 MsgDisp("主人公","｛颯砂＊＊｝?
 Huh, are you not good with herbs?");

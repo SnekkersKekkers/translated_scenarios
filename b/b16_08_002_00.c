@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160800200_08_000");
 MsgDisp("Shirahane","Seriously you're...
 kind of perverted aren't ya?");
-MsgSel("Huhu...","T-that's wrong!");
+MsgSel("Huhu...","T-That's wrong!");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(8,4);

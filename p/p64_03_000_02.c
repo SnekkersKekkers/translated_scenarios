@@ -22,7 +22,7 @@ MsgDisp("Honda","...Hm? Look at the vegetables over there.
 Hey, the caterpillar-kun seems
 like it's savouring it.");
 MsgDisp("主人公","Eh, a bug∋
-W-where?");
+W-Where?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

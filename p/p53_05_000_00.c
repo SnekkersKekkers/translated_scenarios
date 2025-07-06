@@ -41,7 +41,7 @@ feel, conversely the more they calm down.");
     VoicePlay("P530500000_05_030");
     MsgDisp("Hiiragi","Look, 
 your facial expression is softening.");
-    MsgDisp("主人公","Y-yeah.
+    MsgDisp("主人公","Y-Yeah.
 Maybe?");
     SEPlay("EV_SE_038");
     SEWait();
@@ -52,7 +52,7 @@ Maybe?");
     MsgDisp("Hiiragi","Right?
 Just like that, relax your shoulders, 
 and have a good time.");
-    MsgDisp("主人公","Y-yeah...!");
+    MsgDisp("主人公","Y-Yeah...!");
     MsgDisp("主人公","(At any rate, I just have to do it...!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -93,7 +93,7 @@ As long as you can reply calmly.");
     VoicePlay("P530500000_05_080");
     MsgDisp("Hiiragi","See,
 you're back to your usual self.");
-    MsgDisp("主人公","Y-yeah.");
+    MsgDisp("主人公","Y-Yeah.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

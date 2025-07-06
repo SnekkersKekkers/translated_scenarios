@@ -60,7 +60,7 @@ play.");
     MsgDisp("Kazama","Look at me properly
 and pose, okay?");
     MsgDisp("主人公","Ehh?
-Y-yeah...!");
+Y-Yeah...!");
     MsgDisp("主人公","(｛風真＊＊｝ praised me...
 Alright, let's hold our head up high!)");
     MsgClose();

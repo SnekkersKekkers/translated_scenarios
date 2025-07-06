@@ -80,7 +80,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("D140C06100_07_040");
-MsgDisp("Mikage","O-oi.
+MsgDisp("Mikage","O-Oi.
 I'm just worried about
 the three of you.");
 ChEye(6,0);

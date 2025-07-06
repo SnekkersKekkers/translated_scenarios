@@ -76,7 +76,7 @@ I'll give it my all, yeah?");
     ChMouth(4,4);
     ChCheek(4,5);
     VoicePlay("P530400002_04_070");
-    MsgDisp("Nanatsumori","Y-yeah.");
+    MsgDisp("Nanatsumori","Y-Yeah.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,2,1);

@@ -7,7 +7,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,7);
 VoicePlay("B130500000_05_000");
-MsgDisp("Hiiragi","P-please excuse me.");
+MsgDisp("Hiiragi","P-Please excuse me.");
 MsgDisp("主人公","Eh...?");
 ChEye(5,2);
 ChMouth(5,4);

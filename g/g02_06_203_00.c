@@ -61,7 +61,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("G020620300_06_080");
 MsgDisp("Himuro","......What's up with that?");
-MsgDisp("主人公","T-that's complicated huh.");
+MsgDisp("主人公","T-That's complicated huh.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

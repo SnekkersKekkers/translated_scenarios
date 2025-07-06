@@ -29,7 +29,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020420100_04_040");
 MsgDisp("Nanatsumori","......Conversely, can I ask you something?");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);

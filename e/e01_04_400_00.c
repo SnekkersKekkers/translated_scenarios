@@ -48,7 +48,7 @@ ChEye(4,2);
 VoicePlay("E010440000_04_040");
 MsgDisp("Nanatsumori","You should join the conversation
 next time instead of eavesdropping.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 But you two are from another league
 so I felt hesitant......");
 ChEye(4,2);

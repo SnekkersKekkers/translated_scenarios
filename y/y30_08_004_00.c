@@ -11,7 +11,7 @@ School.");
 SEStop("EV_SE_820",3);
 MsgClear();
 VoicePlay("Y300800400_42_000");
-MsgDisp("Male Student A","\"Honestly speaking! That Haba School
+MsgDisp("Male Student A","\"Honestly speaking! That Haba High
 girl, which brother's girlfriend is
 she～?\"\"");
 MsgDisp("","Idiot! There's no way we could say

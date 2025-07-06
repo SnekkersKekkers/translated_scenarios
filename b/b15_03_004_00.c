@@ -57,7 +57,7 @@ VoicePlay("B150300400_03_070");
 MsgDisp("Honda","I really want to figure out what the heck
 this feeling that's about to explode
 really is. So I don't want you to stop.");
-MsgDisp("主人公","O-okay.");
+MsgDisp("主人公","O-Okay.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

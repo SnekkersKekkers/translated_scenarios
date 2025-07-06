@@ -4,7 +4,7 @@ ChOpen(3,255,1,0,0,-1,-1,0,0);
 VoicePlay("G020320200_03_000");
 MsgDisp("Honda","Hey, do you like Ryo-kun?");
 MsgDisp("主人公","Eh∋
-W-why do you want to hear that?");
+W-Why do you want to hear that?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0);

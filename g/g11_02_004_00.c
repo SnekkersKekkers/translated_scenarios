@@ -42,7 +42,7 @@ ScrFadeIn(0);
 VoicePlay("G110200400_02_030");
 MsgDisp("Sassa","You've gotten a lot better.
 You can keep up with me just fine, huh?");
-MsgDisp("主人公","R-reallY?");
+MsgDisp("主人公","R-ReallY?");
 MsgDisp("主人公","(Hehe......｛颯砂＊＊｝'s hair
 is so cute, the way it flutters......
 like a horse's mane?)");

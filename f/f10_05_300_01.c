@@ -132,7 +132,7 @@ ChMotion(21,3);
 VoicePlay("F100530001_21_040");
 MsgDisp("Michiru","Goodbye, Yanosuke-san.
 Then, let's head home.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(21);
 MsgClose();

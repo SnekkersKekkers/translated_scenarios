@@ -24,7 +24,7 @@ MsgDisp("Guy","Yeah, you're probably
 curious now. Okay?
 Your door has just opened.");
 MsgDisp("主人公","???
-W-what are you talking about?");
+W-What are you talking about?");
 ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
@@ -88,7 +88,7 @@ ChMotion(1,0);
 VoicePlay("B110100000_01_040");
 MsgDisp("Kazama","What the hell was up with that guy...
 hey, are you alright?");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 Thank you for helping me.");
 ChEye(1,4);
 ChMouth(1,2);

@@ -12,7 +12,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F020100013_01_000");
 MsgDisp("Kazama","It's our first time traveling together!");
-MsgDisp("主人公","R-right...
+MsgDisp("主人公","R-Right...
 But it's still a school trip?");
 ChEye(1,4);
 ChMouth(1,3);

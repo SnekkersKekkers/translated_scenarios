@@ -76,7 +76,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05101_01_030");
 MsgDisp("Kazama","Do as you'd like...");
-MsgDisp("主人公","H-hey.
+MsgDisp("主人公","H-Hey.
 What about us going out as a four?");
 ChEye(1,0);
 ChMouth(1,2);

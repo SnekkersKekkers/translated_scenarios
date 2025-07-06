@@ -17,7 +17,7 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("P840300001_03_020");
 MsgDisp("Honda","The student council is the face of Haba
-School. If you make a face like that,
+High. If you make a face like that,
 people will be scared.");
 MsgDisp("主人公","That's right...");
 ChEye(3,3);

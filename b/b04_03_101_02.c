@@ -69,7 +69,7 @@ my favourite thing was...");
         ChMotion(3,5);
         VoicePlay("B040310102_03_050");
         MsgDisp("Honda","Ahー, this won't do!");
-        MsgDisp("主人公","W-what's wrong?");
+        MsgDisp("主人公","W-What's wrong?");
         ChEye(3,2);
         ChMouth(3,2);
         ChMotion(3,2);

@@ -15,7 +15,7 @@ ChOpen(3,100,1,1,1,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("A020330100_03_000");
 MsgDisp("Honda?","Ah-! You're the newbie!");
-MsgDisp("主人公","Y-yes!
+MsgDisp("主人公","Y-Yes!
 I'm the new employee here.
 My name is ｛主人公苗字｝.");
 ChEye(3,0);

@@ -50,7 +50,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G110100801_01_040");
-MsgDisp("Kazama","H-hey.
+MsgDisp("Kazama","H-Hey.
 If you say it, I will understand.");
 ChEye(1,0);
 ChMouth(1,2);

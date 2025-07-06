@@ -38,7 +38,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100100_01_040");
-MsgDisp("Kazama","O-oi. Naturally?
+MsgDisp("Kazama","O-Oi. Naturally?
 Don't ever do that to someone else.");
 ChEye(1,4);
 ChMouth(1,2);

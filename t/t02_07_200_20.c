@@ -19,7 +19,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("T020720020_07_020");
 MsgDisp("Mikage","My precious, serious girl.
-We're graduating Haba School together.");
+We're graduating Haba High together.");
 MsgDisp("主人公","Hey, that nickname——");
 ChEye(7,0);
 ChMouth(7,3);

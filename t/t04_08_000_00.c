@@ -10,11 +10,11 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("T040800000_08_000");
 MsgDisp("Shirahane","I guess this is what it means to be
-satisfied......");
+happy......");
 MsgDisp("主人公","Hehe.");
 NSSEye(8,3);
 VoicePlay("T040800000_08_010");
-MsgDisp("Shirahane","This is the first time I've loved a girl
+MsgDisp("Shirahane","This is the first time I've liked a girl
 this much.");
 NSSEye(8,0);
 VoicePlay("T040800000_08_020");
@@ -31,12 +31,12 @@ NSSEye(8,0);
 NSSMouth(8,5);
 VoicePlay("T040800000_08_040");
 MsgDisp("Shirahane","......Ah!
-could this be——");
+Could this be——");
 MsgDisp("主人公","Eh?");
 NSSEye(8,3);
 NSSMouth(8,5);
 VoicePlay("T040800000_08_050");
-MsgDisp("Shirahane","'I love you', that's the feeling, isn't
+MsgDisp("Shirahane","\"True love\", that's what this is, isn't
 it?");
 NSSEye(8,3);
 NSSMouth(8,0);

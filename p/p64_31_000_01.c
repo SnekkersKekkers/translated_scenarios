@@ -19,7 +19,7 @@ ChMotion(31,0);
 ChEyeOpenLevel(31,0);
 VoicePlay("P643100001_31_020");
 MsgDisp("Goro","Come on, go ahead and make it again!");
-MsgDisp("主人公","Y-yes.
+MsgDisp("主人公","Y-Yes.
 It's inexcusable...!");
 MsgDisp("主人公","(Haaa... I ruined Goro-sensei's mood.
 I should have prepared more

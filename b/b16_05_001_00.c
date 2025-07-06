@@ -6,7 +6,7 @@ VoicePlay("B160500100_05_000");
 MsgDisp("Hiiragi","It cannot be helped...
 It's about time I return the 
 favor, isn't it?");
-MsgSel("Yes, by all means","T-that's a bit...");
+MsgSel("Yes, by all means","T-That's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(5,3);

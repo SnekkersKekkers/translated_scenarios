@@ -52,7 +52,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130201_01_070");
 MsgDisp("Kazama","Ten years ago I already had a good eye.");
-MsgDisp("主人公","Y-yeah......?");
+MsgDisp("主人公","Y-Yeah......?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

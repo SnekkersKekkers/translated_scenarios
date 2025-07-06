@@ -78,7 +78,7 @@ MsgDisp("Himuro","I know that it'll be pointless
 even if I told you to stop 
 doing it altogether, so it's
 a compromise. Got it?");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

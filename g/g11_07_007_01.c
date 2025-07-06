@@ -50,7 +50,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700701_07_030");
 MsgDisp("Mikage","Oh, that would be great! If I could bring
-Molly and the others to Haba School, I
+Molly and the others to Haba High, I
 would die happy.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);

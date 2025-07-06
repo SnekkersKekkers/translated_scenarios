@@ -62,7 +62,7 @@ VoicePlay("B330A30201_06_020");
 MsgDisp("Himuro","Now say something you dislike.");
 MsgDisp("主人公","Ehh∋
 Even if you say that so suddenly...!
-N-nothing in particular!");
+N-Nothing in particular!");
 SEPlay("EV_SE_565",0.2,0.5);
 MsgDisp("","(*Swoosh*)");
 SEPlay("EV_SE_816",0,0.4);

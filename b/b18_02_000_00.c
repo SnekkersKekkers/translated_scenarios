@@ -59,7 +59,7 @@ necessary until we get used to it.");
     ChCheek(2,0);
     VoicePlay("B180200000_02_060");
     MsgDisp("Sassa","Ahhー.
-I-is that right?");
+I-Is that right?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,2);

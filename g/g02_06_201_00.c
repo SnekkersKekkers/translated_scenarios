@@ -51,7 +51,7 @@ VoicePlay("G020620100_06_070");
 MsgDisp("Himuro","This is a declaration of war against the
 guy next to you right now and a statement
 of resolve toward myself.");
-MsgDisp("主人公","Y-yes.");
+MsgDisp("主人公","Y-Yes.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -21,7 +21,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,9);
 VoicePlay("P740100005_01_010");
 MsgDisp("Kazama","You were too worked up.");
-MsgDisp("主人公","Y-yeah...");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

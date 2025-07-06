@@ -22,7 +22,7 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_640");
 MsgDisp("Mikage","Come on, this is at maximum magnification.
 Observe carefully.");
-MsgDisp("主人公","...Y-you're close.
+MsgDisp("主人公","...Y-You're close.
 But, your eyes are pretty 
 aren't they, ｛御影＊＊｝?");
 ChEye(7,4);

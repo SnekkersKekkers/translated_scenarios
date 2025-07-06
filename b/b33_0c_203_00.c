@@ -128,7 +128,7 @@ ChEye(7,5);
 ChMouth(7,5);
 ChMotion(7,4);
 VoicePlay("B330C20300_07_030");
-MsgDisp("Mikage","O-oi.
+MsgDisp("Mikage","O-Oi.
 What's wrong?");
 VoicePlay("B330C20300_06_060");
 MsgDisp("Himuro","Leave Kojiro-sensei as he is.");
@@ -163,7 +163,7 @@ ChEye(7,0);
 ChMouth(7,5);
 ChMotion(7,5);
 VoicePlay("B330C20300_07_070");
-MsgDisp("Mikage","O-oi, Inori.");
+MsgDisp("Mikage","O-Oi, Inori.");
 VoicePlay("B330C20300_05_050");
 MsgDisp("Hiiragi","Ah, please show me it.
 ...Heheh.");

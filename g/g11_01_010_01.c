@@ -79,7 +79,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110101001_01_090");
 MsgDisp("Kazama","Hey, let's hold hands whilst walking home.");
-MsgDisp("主人公","Y-yeah.......");
+MsgDisp("主人公","Y-Yeah.......");
 MsgDisp("主人公","(So he wanted to hold hands after
 all......)");
 BGMStop();

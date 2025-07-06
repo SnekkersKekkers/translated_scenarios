@@ -85,7 +85,7 @@ ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,4);
 VoicePlay("B330C30101_07_040");
-MsgDisp("Mikage","O-oi.
+MsgDisp("Mikage","O-Oi.
 I can't afford to buy 
 something that expensive...");
 MsgDisp("主人公","Hehe, it's alright. I think both

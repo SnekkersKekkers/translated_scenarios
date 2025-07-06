@@ -81,7 +81,7 @@ studying you.");
 ChEye(3,0);
 ChEyeOpenLevel(3,10);
 MsgDisp("主人公","Eh∋
-S-study me?");
+S-Study me?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);

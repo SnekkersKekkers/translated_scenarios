@@ -59,7 +59,7 @@ anything.");
         VoicePlay("B040306502_03_040");
         MsgDisp("Honda","But, it's fine.
 Can you try shutting your eyes?");
-        MsgDisp("主人公","Y-yeah.");
+        MsgDisp("主人公","Y-Yeah.");
         MsgClose();
         ScrFadeOut(0,0);
         SEPlay("EV_SE_543");

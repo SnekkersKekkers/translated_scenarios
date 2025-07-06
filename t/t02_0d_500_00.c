@@ -131,7 +131,7 @@ ChMotion(22,3,1);
 VoicePlay("T020D50000_22_060");
 MsgDisp("Hikaru","Well then, let's have our last girl's
 talk of high school at the coffee shop 
-Haba School frequents.");
+Haba High frequents.");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);

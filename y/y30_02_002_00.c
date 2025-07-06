@@ -25,7 +25,7 @@ MsgDisp("","But, it's really strange.
 I don't even like cow's milk...?");
 MsgClear();
 VoicePlay("Y300200200_02_000");
-MsgDisp("Sassa","\"Y-yeah.
+MsgDisp("Sassa","\"Y-Yeah.
 Thank you for the mi- Eh?
 It's good?\"");
 MsgDisp("","When she's the one telling me, I'll

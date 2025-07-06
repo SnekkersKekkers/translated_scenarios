@@ -76,7 +76,7 @@ as they would say.");
         ChMotion(4,1,1);
         VoicePlay("B040422102_04_070");
         MsgDisp("Nanatsumori","W...w-wait a second.");
-        MsgDisp("主人公","Y-yeah.");
+        MsgDisp("主人公","Y-Yeah.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);
@@ -93,7 +93,7 @@ I'm sure you don't mean it though.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040422102_04_100");
-        MsgDisp("Nanatsumori","T-that's exactly it.
+        MsgDisp("Nanatsumori","T-That's exactly it.
 You're so sneakyー......");
         MsgDisp("主人公","Uugh.");
         ChEye(4,3);

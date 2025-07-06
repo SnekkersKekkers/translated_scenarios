@@ -98,5 +98,5 @@ VoicePlay("B110100001_01_050");
 MsgDisp("Kazama","Sorry, this was because I was late.
 But you now, Habataki City
 has a lot of weird stuff?");
-MsgDisp("主人公","T-that might be true...
+MsgDisp("主人公","T-That might be true...
 Shall we go now...");

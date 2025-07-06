@@ -8,7 +8,7 @@ ChMotion(6,4,1);
 VoicePlay("B040615101_06_000");
 MsgDisp("Himuro","Since we're here anyways,
 why not have a contest?");
-MsgSel("I-impossible!","Go easy on me, okay?","I won't lose!");
+MsgSel("I-Impossible!","Go easy on me, okay?","I won't lose!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -45,7 +45,7 @@ ChMotion(5,0);
 VoicePlay("B150500200_05_060");
 MsgDisp("Hiiragi","If you don't want that, 
 you should stop here.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

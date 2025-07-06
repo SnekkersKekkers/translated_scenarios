@@ -13,7 +13,7 @@ VoicePlay("B150200400_02_010");
 MsgDisp("Sassa","Today too, for some reason 
 I didn't pop with a bang.
 Isn't it great?");
-MsgDisp("主人公","...Y-yeah.");
+MsgDisp("主人公","...Y-Yeah.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -38,10 +38,10 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B150200400_02_050");
-MsgDisp("Sassa","T-that's right.
+MsgDisp("Sassa","T-That's right.
 You'd dislike it if I 
 retaliated right?");
-MsgDisp("主人公","Y-yeah...
+MsgDisp("主人公","Y-Yeah...
 I might be trouble.");
 ChEye(2,0);
 ChMouth(2,4);

@@ -26,7 +26,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B360115101_01_020");
-MsgDisp("Kazama","O-oh.
+MsgDisp("Kazama","O-Oh.
 If you say so, 
 I guess I'll try it.");
 MsgDisp("主人公","Yeah!

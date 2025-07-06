@@ -11,7 +11,7 @@ SEWait();
 ChOpen(3,254,1,0,3,-1,-1,0,0);
 VoicePlay("P740300000_03_000");
 MsgDisp("Honda","Your model walk was so stylish!");
-MsgDisp("主人公","Thank you, it's Haba School
+MsgDisp("主人公","Thank you, it's Haba High
 handicraft club's tradition.");
 ChEye(3,3);
 ChMouth(3,3);

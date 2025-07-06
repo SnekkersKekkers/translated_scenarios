@@ -12,7 +12,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020211000_02_010");
 MsgDisp("Sassa","I want you to come with me.");
-MsgDisp("主人公","W-what's wrong?");
+MsgDisp("主人公","W-What's wrong?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

@@ -45,7 +45,7 @@ I'll be troubled too.");
     ChMotion(1,4);
     ChCheek(1,5);
     VoicePlay("B040130001_01_030");
-    MsgDisp("Kazama","O-oh.
+    MsgDisp("Kazama","O-Oh.
 Can you say that again?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);

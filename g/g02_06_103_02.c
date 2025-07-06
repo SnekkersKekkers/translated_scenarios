@@ -51,7 +51,7 @@ VoicePlay("G020610302_06_070");
 MsgDisp("Himuro","......That being said, I shouldn't have to
 worry about you. It's your own problem,
 shouldn't you worry yourself?");
-MsgDisp("主人公","S-sorry......");
+MsgDisp("主人公","S-Sorry......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

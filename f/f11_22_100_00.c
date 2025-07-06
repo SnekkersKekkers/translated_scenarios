@@ -40,7 +40,7 @@ ChMotion(22,4,1);
 VoicePlay("F112210000_22_050");
 MsgDisp("Hikaru","So, Hikaru will give you advice.
 Then, you'll thank her～!");
-MsgDisp("主人公","S-sure.");
+MsgDisp("主人公","S-Sure.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

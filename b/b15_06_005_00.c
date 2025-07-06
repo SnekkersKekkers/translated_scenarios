@@ -21,7 +21,7 @@ VoicePlay("B150600500_06_020");
 MsgDisp("Himuro","I asked for skinship in
 moderation, but you wanted excessive
 skinship don't you?");
-MsgDisp("主人公","T-that wording...");
+MsgDisp("主人公","T-That wording...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

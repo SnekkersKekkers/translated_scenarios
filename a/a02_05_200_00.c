@@ -13,7 +13,7 @@ MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_DOOR_024");
 SEWait();
-MsgDisp("主人公","E-excuse me.");
+MsgDisp("主人公","E-Excuse me.");
 SEPlay("EV_SE_DOOR_013");
 BGOpen("sc609",0);
 ScrFadeIn(0);
@@ -37,7 +37,7 @@ VoicePlay("A020520000_05_010");
 MsgDisp("Hiiragi?","Yes, I'm listening.
 I'm Hiiragi Yanosuke.
 Looking forward to working with you.");
-MsgDisp("主人公","O-of course!
+MsgDisp("主人公","O-Of course!
 Looking forward too!");
 VoicePlay("A020520000_41_000");
 MsgDisp("Student Council President","Ah, a new member?

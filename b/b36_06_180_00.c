@@ -39,7 +39,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360618000_06_040");
 MsgDisp("Himuro","Now the real fun can begin.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -66,7 +66,7 @@ ChCheek(6,10);
 VoicePlay("B360618000_06_070");
 MsgDisp("Himuro","I know.
 Don't you get it? I did it on purpose.");
-MsgDisp("主人公","O-oh.");
+MsgDisp("主人公","O-Oh.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

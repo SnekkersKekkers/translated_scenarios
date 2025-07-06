@@ -50,7 +50,7 @@ ChClose(1,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(1,255,7,0,2,-1,-1,0,0,0,30);
-MsgDisp("主人公","B-because...");
+MsgDisp("主人公","B-Because...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

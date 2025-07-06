@@ -37,14 +37,14 @@ VoicePlay("B150100500_01_030");
 MsgDisp("Kazama","Listen up?
 Shinship is supposed to go both ways.
 It's just you touching me.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,3);
 VoicePlay("B150100500_01_040");
 MsgDisp("Kazama","If you're really that interested, 
 I'll teach you proper skinship.");
-MsgDisp("主人公","H-huh?");
+MsgDisp("主人公","H-Huh?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

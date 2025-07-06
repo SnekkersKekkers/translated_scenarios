@@ -85,7 +85,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(3);
-MsgDisp("主人公","(W-what is going on...?)");
+MsgDisp("主人公","(W-What is going on...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

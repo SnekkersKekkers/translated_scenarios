@@ -72,7 +72,7 @@ make it pretty but...)");
     SEWait();
     ChOpen(3,254,4,1,4,0,-1,0,0);
     VoicePlay("P730300002_03_060");
-    MsgDisp("Honda","U-um...");
+    MsgDisp("Honda","U-Um...");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Did you come to cheer me on?");
     ChEye(3,2);

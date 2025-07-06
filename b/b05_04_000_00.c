@@ -56,7 +56,7 @@ ChEyeOpenLevel(4,8);
 VoicePlay("B050400000_47_010");
 MsgDisp("Woman Customer A","Right!
 Don't tell me that's his girlfriend∋");
-MsgDisp("主人公","H-hey,
+MsgDisp("主人公","H-Hey,
 ｛七ツ森＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
@@ -90,14 +90,14 @@ StlMouth(4,0);
 VoicePlay("B050400000_04_040");
 MsgDisp("Nanatsumori","Don't be scared. 
 Look confident.");
-MsgDisp("主人公","B-but...");
+MsgDisp("主人公","B-But...");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400000_04_050");
 MsgDisp("Nanatsumori","Don't look around.
 ...Look at me.");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0,1);

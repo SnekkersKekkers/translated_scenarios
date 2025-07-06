@@ -39,7 +39,7 @@ Am I gonna be done in here by you?");
         ChEyeOpenLevel(1,7);
         ChCheek(1,10);
         VoicePlay("B040123202_01_020");
-        MsgDisp("Kazama","W-what are you saying?");
+        MsgDisp("Kazama","W-What are you saying?");
         MsgDateResultDisp();
         break ;
         case 4:

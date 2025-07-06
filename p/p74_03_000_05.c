@@ -37,7 +37,7 @@ VoicePlay("P740300005_03_030");
 MsgDisp("Honda","So, hold your chin up high!
 My bride!");
 MsgDisp("主人公","Ehh...∋
-T-thank you, ｛本多＊＊｝.");
+T-Thank you, ｛本多＊＊｝.");
 MsgDisp("主人公","(I might have failed but, I'm glad
 I continued with the Handicrafts club
 for the three years until now.)");

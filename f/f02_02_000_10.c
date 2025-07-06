@@ -46,7 +46,7 @@ VoicePlay("F020200010_02_050");
 MsgDisp("Sassa","All right.
 I'm gonna teach you my routine.
 Try it out.");
-MsgDisp("主人公","O-okay.");
+MsgDisp("主人公","O-Okay.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);

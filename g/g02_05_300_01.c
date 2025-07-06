@@ -44,7 +44,7 @@ VoicePlay("G020530001_05_060");
 MsgDisp("Hiiragi","That's a relief......");
 MsgDisp("主人公","(｛柊＊＊＊｝...... From now on too, I hope
 you'll still be glad you came to Haba
-school.)");
+High.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

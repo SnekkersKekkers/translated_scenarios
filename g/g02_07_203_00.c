@@ -80,7 +80,7 @@ ChMotion(7,3);
 VoicePlay("G020720300_07_100");
 MsgDisp("Mikage","Yeah.
 Thanks to you, I feel better now.
-As expected of the Molly of Haba school.");
+As expected of the Molly of Haba High.");
 MsgDisp("主人公","(Ehh?)");
 BGMStop();
 MsgClose();

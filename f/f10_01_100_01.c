@@ -4,7 +4,7 @@ MsgDisp("主人公","(Right after this class ends, it's lunch.
 I'm so hungry....)");
 SEPlay("EV_SE_017");
 MsgDisp("","(*rumble rumble*)");
-MsgDisp("主人公","(M-my stomach rumbled!
+MsgDisp("主人公","(M-My stomach rumbled!
 ...Wait. Nobody heard it, right...?)");
 MsgClose();
 ScrFadeOut(0,0);

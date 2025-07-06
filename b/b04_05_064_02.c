@@ -88,7 +88,7 @@ VoicePlay("B040506402_05_100");
 MsgDisp("Hiiragi","Look, the fireworks display.
 It's starting now.
 Let's go!");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 MsgDisp("主人公","(｛柊＊＊＊｝, you've been recognized by
 the people of Habataki City. That's good.)");
 MsgClose();

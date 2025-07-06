@@ -85,7 +85,7 @@ upgrade after all.");
         ChMouth(6,1);
         ChMotion(6,4);
         VoicePlay("B040623102_06_100");
-        MsgDisp("Himuro","I-it's nothing.
+        MsgDisp("Himuro","I-It's nothing.
 ...Never mind.");
         break ;
         default :

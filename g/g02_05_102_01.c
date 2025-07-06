@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(5,255,0,0,4,-1,-1,0,0);
 VoicePlay("G020510201_05_000");
-MsgDisp("Hiiragi","......Ever since I entered Haba school,
+MsgDisp("Hiiragi","......Ever since I entered Haba High,
 I've been able to make so many memories
 with you.");
 VoiceEVSPlay(5);

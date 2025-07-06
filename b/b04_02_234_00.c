@@ -35,7 +35,7 @@ That's pretty much all this ride is huh?");
     ChMotion(2,2);
     VoicePlay("B040223400_02_030");
     MsgDisp("Sassa","Hahaha... me too.
-F-first, let's sit down for a bit.");
+F-First, let's sit down for a bit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -71,7 +71,7 @@ VoicePlay("B360121200_01_070");
 MsgDisp("Kazama","...Geez.
 We can just buy souvenirs for us.
 Right?");
-MsgDisp("主人公","Y-yeah.");
+MsgDisp("主人公","Y-Yeah.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -79,7 +79,7 @@ brother right? ");
         VoicePlay("B040621102_06_080");
         MsgDisp("Himuro","Alright, that setup is fine.
 Come on, let's go then big sister.");
-        MsgDisp("主人公","Y-yeah.");
+        MsgDisp("主人公","Y-Yeah.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(6,0,30);
@@ -89,7 +89,7 @@ Come on, let's go then big sister.");
         VoicePlay("B040621102_06_090");
         MsgDisp("Himuro","Is something wrong?");
         MsgDisp("主人公","Waa!
-Y-you're so close, ｛氷室＊＊｝!");
+Y-You're so close, ｛氷室＊＊｝!");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

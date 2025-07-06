@@ -26,7 +26,7 @@ ChMotion(7,3);
 ChCheek(7,3);
 VoicePlay("T020720030_07_030");
 MsgDisp("Mikage","Thanks to you, I could move on from Haba
-School. Thank you.");
+High. Thank you.");
 MsgDisp("主人公","Me too, I was very happy in the last 
 three years I spent with ｛御影＊＊｝.");
 ChEye(7,2);

@@ -155,7 +155,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("T020A30000_02_050");
-MsgDisp("Sassa","T-that's not true, right Ryota??");
+MsgDisp("Sassa","T-That's not true, right Ryota??");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

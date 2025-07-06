@@ -19,7 +19,7 @@ it's finally the runway...I'm nervous..)");
     MsgDisp("主人公","｛柊＊＊＊｝!");
     VoicePlay("P730500000_05_010");
     MsgDisp("Hiiragi","I came t support you.");
-    MsgDisp("主人公","Y-yeah.
+    MsgDisp("主人公","Y-Yeah.
 Thank you.");
     ChEye(5,4);
     ChMouth(5,4);

@@ -24,7 +24,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020230201_02_030");
 MsgDisp("Sassa","I'm saying it looks beautiful because I'm
 seeing it with you.");
-MsgDisp("主人公","Y-yeah. But the fireflies here are always
+MsgDisp("主人公","Y-Yeah. But the fireflies here are always
 beautiful?");
 ChEye(2,0);
 ChMouth(2,0);

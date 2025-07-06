@@ -14,7 +14,7 @@ MsgDisp("Himuro","…………");
 NSSEye(6,4);
 NSSMouth(6,4);
 VoicePlay("T040600000_06_010");
-MsgDisp("Himuro","I'm glad I came to Haba School.");
+MsgDisp("Himuro","I'm glad I came to Haba High.");
 MsgDisp("主人公","Eh?");
 NSSEye(6,6);
 NSSMouth(6,3);

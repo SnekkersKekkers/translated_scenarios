@@ -75,7 +75,7 @@ ChMotion(1,0);
 VoicePlay("B330B10401_01_030");
 MsgDisp("Kazama","You're not hearing 
 anything either, right?");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 Wait, let me listen carefully?");
 ChEye(1,2);
 ChMouth(1,3);

@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040423501_04_000");
 MsgDisp("Nanatsumori","I'd like to try being
 a ghost extra...");
-MsgSel("L-looks like you're serious about it...","Would you want to be a Japanese style or Western style ghost?","Would it be aright with the agnecy?");
+MsgSel("L-Looks like you're serious about it...","Would you want to be a Japanese style or Western style ghost?","Would it be aright with the agnecy?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

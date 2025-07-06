@@ -20,7 +20,7 @@ ChMotion(4,1,1);
 VoicePlay("F100420000_04_020");
 MsgDisp("Nanatsumori","There is no way I would 
 stare at Vice Principal Himuro.");
-MsgDisp("主人公","Y-yeah.
+MsgDisp("主人公","Y-Yeah.
 Why are you staring at ｛氷室＊＊｝?");
 ChEye(4,0);
 ChMouth(4,3);
