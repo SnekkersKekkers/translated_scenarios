@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308400_03_000");
 MsgDisp("Honda","I wonder if the firefly
 larvae are doing well?");
-MsgSel("Larvae are a bit...","We completely can't see them huh","Do you want to try catching them?");
+MsgSel("Larvae are a bit...","We can't see them at all, huh?","Do you want to try catching them?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0,1);
     VoicePlay("B040308400_03_010");
     MsgDisp("Honda","Is that so? On a closer look, they flash
-their lights slowly and are really cute.");
+their lights slowly and are actually quite
+cute.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -26,8 +27,8 @@ their lights slowly and are really cute.");
     ChMotion(3,1);
     VoicePlay("B040308400_03_020");
     MsgDisp("Honda","It's because the larvae are in the water.
-Right about now, they're 
-heartily enjoying their meal.");
+Right about now, they're heartily enjoying
+their meal.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

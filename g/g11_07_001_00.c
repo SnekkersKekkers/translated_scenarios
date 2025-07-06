@@ -39,7 +39,7 @@ ChMotion(7,2);
 VoicePlay("G110700100_07_040");
 MsgDisp("Mikage","Mmm...... Do you prefer root vegetables
 over leafy vegetables?");
-MsgDisp("主人公","Um, it;d be troublesome if you put either
+MsgDisp("主人公","Um, it'd be troublesome if you put either
 of those in my shoe locker......");
 ChEye(7,0);
 ChMouth(7,0);

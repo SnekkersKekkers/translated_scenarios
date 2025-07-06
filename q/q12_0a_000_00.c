@@ -41,7 +41,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("Q120A00000_02_010");
 MsgDisp("Sassa","What's wrong?
-You're doing wierd.");
+You're doing weird.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -42,9 +42,8 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010110000_01_050");
-MsgDisp("Kazama","It's not like
-I'm your fan or anything, you know.
-Don't get me wrong.");
+MsgDisp("Kazama","It's not like I'm your fan or anything,
+you know. Don't get me wrong.");
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,-1);

@@ -10,16 +10,15 @@ MsgDisp("主人公","Is it the souvenirs......?");
 ChMotion(3,0,1);
 VoicePlay("Q100300001_03_010");
 MsgDisp("Honda","Yeah it is,
-My little sister told me to\"Buy me a 
+My little sister told me to \"Buy me a 
 cute one\".");
 MsgDisp("主人公","Your little sister really is funny.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("Q100300001_03_020");
-MsgDisp("Honda","
-Eeeh?　She isn't at all. Cuz if you make
-a mistake, she'll keep saying stuff like
+MsgDisp("Honda","Eeeh?　She isn't at all. When I
+make a mistake, she says stuff like
 \"You have bad taste\" all the time.");
 MsgDisp("主人公","Yeah, she really is funny.");
 ChEye(3,0);

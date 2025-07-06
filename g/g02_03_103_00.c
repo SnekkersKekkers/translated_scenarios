@@ -65,7 +65,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("G020310300_03_090");
 MsgDisp("Honda","Ah, I feel so much better...... It's like
 I can finally breathe normally again.");
-MsgDisp("主人公","(｛本多＊＊｝ Honda, you were worrying
+MsgDisp("主人公","(｛本多＊＊｝, you were worrying
 about it that much......thank you.)");
 BGMStop();
 MsgClose();

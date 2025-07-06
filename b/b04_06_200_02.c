@@ -79,7 +79,7 @@ give me your hand?");
         Wait(80,0);
         MsgDisp("主人公","Hey, that was mean!
 You tugged on me on purpose
-just now didn't yoU? ");
+just now didn't you? ");
         MsgClose();
         ChLayout(0);
         ChOpen(6,32,1,3,3,-1,-1,0,0);

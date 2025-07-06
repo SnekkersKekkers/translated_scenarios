@@ -9,7 +9,7 @@ MsgDisp("Mikage","Listen up, okay? Even in the permanent
 exhibits, if you look hard enough, you'll
 discover something! We're here anyways,
 Let's go find something and go home.");
-MsgSel("That mask looks like｛御影＊＊｝!","Can I really see Habataki City's history in a new light...?","I'll try for real next time!");
+MsgSel("That mask looks like ｛御影＊＊｝!","Can I really see Habataki City's history in a new light...?","I'll try for real next time!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -20,7 +20,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("X210100000_01_020");
-MsgDisp("Kazama","Everyone's finally getting with the times, huh?");
+MsgDisp("Kazama","Everyone's finally getting with the times,
+huh?");
 MsgDisp("主人公","Ehh?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -65,8 +66,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("X210100000_01_070");
-MsgDisp("Kazama","Still, there's no meaning in
-something valuable being with a person who doesn't understand their value.");
+MsgDisp("Kazama","Still, there's no meaning in something
+valuable being with a person who doesn't
+understand their value.");
 MsgDisp("主人公","Umm...?");
 ChMotion(1,0);
 Wait(12,0);

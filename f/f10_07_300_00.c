@@ -72,7 +72,7 @@ ChEyeOpenLevel(22,10);
 VoicePlay("F100730000_22_030");
 MsgDisp("Hikaru","Eh, really?");
 MsgDisp("主人公","Umm... well, it's very
-｛御影＊＊｝-like, so I think 
+｛御影＊＊｝ -like, so I think 
 it's fine but...");
 ChEye(22,0);
 ChMouth(22,2);

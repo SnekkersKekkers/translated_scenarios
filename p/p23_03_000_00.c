@@ -30,10 +30,9 @@ I hope it goes well.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("P230300000_03_020");
-    MsgDisp("Honda","It'll definitely be fine. If the costume
-fits you that well, no one will even know
-of you mess up your lines, you know?");
-
+    MsgDisp("Honda","It'll definitely be fine. Since the
+costume fits you that well, no one will
+even notice if you mess up your lines.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,0,1);

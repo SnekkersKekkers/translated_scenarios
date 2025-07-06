@@ -34,7 +34,7 @@ Have you grown?");
     MsgDisp("Himuro","Then, I guess I'll listen to the 
 culmination of your hard work
 to my heart's content.");
-    MsgDisp("主人公","I'll leave it to yoU1");
+    MsgDisp("主人公","I'll leave it to you1");
     MsgDisp("主人公","(This is my last concert... Alright! Let's
 have fun with all my heartー∈)");
     MsgClose();

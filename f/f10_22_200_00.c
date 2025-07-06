@@ -2,8 +2,7 @@ BGOpen("sc220",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F102220000_31_000");
-MsgDisp("Goro?","Well, 
-it's about time to head home");
+MsgDisp("Goro?","It's about time to head home now.");
 MsgDisp("主人公","(Eh? That voice...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);

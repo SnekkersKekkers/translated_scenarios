@@ -18,7 +18,7 @@ out of it.");
 ChMotion(21,3);
 VoicePlay("F032100000_21_190");
 MsgDisp("Michiru","That's why, I naturally 
-just listenn to anything.");
+just listen to anything.");
 MsgDisp("主人公","Wow.
 Is there anything you like within 
 the music you listen to?");

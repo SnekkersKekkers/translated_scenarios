@@ -19,8 +19,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10100_05_010");
-MsgDisp("Hiiragi","Until I enrolled into Habataki High School, 
-I was always travelling.");
+MsgDisp("Hiiragi","Until I enrolled into Habataki High
+School, I was always travelling.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

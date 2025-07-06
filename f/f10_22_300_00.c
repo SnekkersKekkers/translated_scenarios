@@ -21,7 +21,7 @@ ChMouth(22,1);
 ChMotion(22,0,1);
 VoicePlay("F102230000_22_010");
 MsgDisp("Hikaru","Eh～∋
-But, it has long ears and red eyes");
+But it has long ears and red eyes!");
 MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝!");
 ChMouth(21,0);
 ChMotion(21,0);
@@ -55,8 +55,8 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("F102230000_22_050");
-MsgDisp("Hikaru","Hikaru has never guessed
-what animal they are  correctly.");
+MsgDisp("Hikaru","Hikaru has never guessed what animal they
+are correctly.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2,1);

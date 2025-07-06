@@ -30,8 +30,8 @@ I'll get laughed at.");
 MsgDisp("","I've become a bit worried.");
 MsgDisp("","If Hane school thinks I'm a kid——");
 MsgClear();
-MsgDisp("","I didn't think too deeply
-about going to Hanegasaki High School.");
+MsgDisp("","I didn't think too deeply about going
+to Hanegasaki High School.");
 MsgDisp("","Reason bein', my big bro went there.
 It's said ta be a good school.
 There interestin' teachers too.");

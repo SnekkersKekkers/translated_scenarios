@@ -13,8 +13,8 @@ BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,2,-1,-1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝, 
-are you still organizing the bookshelf");
+MsgDisp("主人公","｛本多＊＊｝, are you still organizing the
+bookshelf?");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,0);

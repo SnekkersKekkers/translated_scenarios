@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
 Welcome.");
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, so you worked here.");
+    MsgDisp("Hiiragi","｛主人公｝, so you work here.");
     MsgDisp("主人公","Yes, and you, ｛柊＊＊＊｝?");
     ChMotion(5,4);
     VoicePlay("I250500000_05_010");

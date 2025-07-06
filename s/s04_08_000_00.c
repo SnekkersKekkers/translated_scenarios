@@ -81,10 +81,10 @@ so energetic?
 Haha!");
         VoicePlay("S040800000_08_100");
         MsgDisp("Shirahane","Okay then......
-I'll come get you from your house.
+I'll come getcha from your house.
 So get ready and wait.");
         VoicePlay("S040800000_08_110");
-        MsgDisp("Shirahane","Ah, I guess if you want to
+        MsgDisp("Shirahane","Ah, I guess if ya want to
 dress up it'll take a while......
 I'll come slowly.
 See you later.");

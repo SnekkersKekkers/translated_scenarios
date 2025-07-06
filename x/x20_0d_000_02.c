@@ -5,7 +5,8 @@ MsgClose();
 ChClose(21);
 ChClose(22);
 ScrFadeIn(0);
-MsgDisp("主人公","(At last, our grade's Rose Queen will be decided!)");
+MsgDisp("主人公","(At last, our grade's Rose Queen will be
+decided!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

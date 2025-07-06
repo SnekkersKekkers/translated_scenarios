@@ -1,6 +1,6 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝, Are you8 going to the
+MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you going to the
 beach after this today too?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -53,7 +53,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600500_06_050");
-MsgDisp("Himuro","......The, next time you get first place, 
+MsgDisp("Himuro","......The next time you get first place, 
 I'll give you a reward.");
 MsgDisp("主人公","Eh, reward?");
 ChEye(6,0);

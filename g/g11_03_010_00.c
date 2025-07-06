@@ -63,7 +63,7 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110301000_03_070");
-MsgDisp("Honda","Plush, you get paid for your part time
+MsgDisp("Honda","Plus, you get paid for your part time
 job, you know?");
 MsgDisp("主人公","Hehe, the manager will get angry with you?");
 VoicePlay("G110301000_42_000");

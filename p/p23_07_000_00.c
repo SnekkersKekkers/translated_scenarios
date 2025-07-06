@@ -41,7 +41,7 @@ so I memorized the lines though...");
     MsgDisp("Mikage","Is it really okay...?");
     MsgDisp("主人公","Yes. The only person who remembers 
 the lines is ｛御影＊＊｝.
-I look forward to working with yoU!");
+I look forward to working with you!");
     VoicePlay("P230700000_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin
 shortly.");

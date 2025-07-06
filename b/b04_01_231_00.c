@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(1,255,0,0,0,8,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123100_01_000");
-MsgDisp("Kazama","You had a good luck on your face didn't
+MsgDisp("Kazama","You had a good look on your face didn't
 you?");
 MsgSel("That was awesome! I wanna ride again!","Uugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){

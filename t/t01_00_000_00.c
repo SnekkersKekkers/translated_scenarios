@@ -101,9 +101,9 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc211",0);
 ScrFadeIn(0);
-MsgDisp("主人公","I had wonderful days at Habataki High School.
-I will never forget them.
-Thank you......");
+MsgDisp("主人公","I had wonderful days at Habataki High
+School. I will never forget them. Thank
+you......");
 BGMStop(3);
 MsgClose();
 ScrFadeOut(0);

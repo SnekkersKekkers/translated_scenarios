@@ -93,8 +93,8 @@ MsgDisp("主人公","Disco......?
 I would have wanted to see that.");
 StlEyeOpenLevel(9,5,1);
 VoicePlay("D010800000_09_030");
-MsgDisp("Kuya","We were searching for you and your 
-stall back at Habataki High School. I guess
+MsgDisp("Kuya","We were searching for you and your stall
+back at Habataki High School. I guess
 we're late getting back here.");
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800000_08_060");

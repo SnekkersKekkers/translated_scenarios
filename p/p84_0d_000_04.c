@@ -4,7 +4,7 @@ VoicePlay("P840D00004_49_000");
 MsgDisp("Mom","Thank you for taking the 
 trouble to look after her.");
 VoicePlay("P840D00004_45_000");
-MsgDisp("Girl","Big sis, thank yoU!");
+MsgDisp("Girl","Big sis, thank you!");
 MsgDisp("主人公","I'm glad.
 Please be careful to not let go
 of her hand in crowded places.");

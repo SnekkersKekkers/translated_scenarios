@@ -9,10 +9,10 @@ MsgDisp("","It was the career path survey sheet
 handed out during the homeroom 
 at the end of the day.");
 MsgClear();
-MsgDisp("","Students at Habataki High School's middle
-school generally advance to the high
-school division through the escalator
-system.");
+MsgDisp("","Students at Habataki High School's
+middle school generally advance to
+the high school division through the
+escalator system.");
 MsgDisp("","Of course, to advance
 There's required grades in addition, 
 and you need to take a written exam.");

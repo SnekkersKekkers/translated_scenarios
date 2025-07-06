@@ -1,15 +1,16 @@
-MsgDisp("","After graduation, I went on to a
-first-rate university with ｛本多＊＊｝ ");
+MsgDisp("","After graduation, I went on to attend
+a first-rate university with ｛本多＊＊｝ ");
 MsgClear();
-MsgDisp("","｛本多＊＊｝'s research theme is people.
-He has been hanging out in the lab since
-her first year. At first, the professors
-and seniors were annoyed by him, but, they
-were won over by ｛本多＊＊｝ and now he is
-a full member of the team.");
-MsgDisp("","......Actually, I'm also starting to feel
-interested in genome analysis and the
-application of information. But I'll tell
-｛本多＊＊｝ about it a little later. I'm
-sure it will cause a big fuss.");
+MsgDisp("","｛本多＊＊｝'s research theme is people. He
+started spending time in the lab from his
+first year. Initially, the professors and
+senior students found him a bit
+troublesome, but ｛本多＊＊｝'s enthusiasm
+soon won them over, and now he's
+considered a full member of the team.");
+MsgDisp("","...To be honest, I've also started to
+develop an interest in genome analysis and
+information applications. But I think I'll
+wait a bit before telling ｛本多＊＊｝ as
+I'm sure it'll stir up quite a commotion.");
 MsgClear();

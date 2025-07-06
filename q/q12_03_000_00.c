@@ -51,9 +51,9 @@ Thank you.");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("Q120300000_03_050");
-    MsgDisp("Honda","One regret is...
-I wish I could have compare eating
-the Champon in Nagasaki's Chinatown.");
+    MsgDisp("Honda","One regret is... I wish I could have eaten
+the Champon in Nagasaki's Chinatown for
+comparison.");
     MsgDisp("主人公","Maybe we'll have it for dinner tonight?");
     ChEye(3,3);
     ChMouth(3,3);

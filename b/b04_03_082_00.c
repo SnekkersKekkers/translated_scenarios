@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308200_03_000");
 MsgDisp("Honda","It seems like there are a lot of genji
 fireflies here.");
-MsgSel("Are they larvae now?","There's different types of even fireflies huh","Genji? I wonder if there's a Heishi firefly too");
+MsgSel("Are they larvae now?","There's even different types of fireflies, huh?","Genji? I wonder if there's a Heishi firefly too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

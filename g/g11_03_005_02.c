@@ -41,7 +41,7 @@ What's up?");
 MsgDisp("主人公","Good work.
 I came to see how ｛本多＊＊｝ is doing.");
 VoicePlay("G110300502_03_030");
-MsgDisp("Honda","ReallY?
+MsgDisp("Honda","Really?
 I'm happy.
 A lot of people came in today.");
 ChEye(3,0);

@@ -98,8 +98,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_130");
-MsgDisp("Honda","But with you by my side, 
-I won't get lost in a book anymore.");
+MsgDisp("Honda","But with you by my side, I won't get lost
+in a book anymore.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);

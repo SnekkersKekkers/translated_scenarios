@@ -45,7 +45,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_040");
 MsgDisp("Honda","Who is the one who can resolve any
-dilemna... In this country?");
+dilema... In this country?");
 SEPlay("EV_SE_GAYA_008",0,0.7);
 Wait(90,0);
 MsgDisp("主人公","(Come on, he's become ｛本多＊＊｝ again!)");
@@ -135,14 +135,14 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_130");
-MsgDisp("Honda","But, I went to the trouble of 
-coming up an original development.
-And it's really interesting.");
+MsgDisp("Honda","I went through all the trouble of coming
+up with an original idea, though.
+And it's an interesting one.");
 ChSet(3,3);
 VoicePlay("P240300000_03_140");
 MsgDisp("Honda","That's right, let's continue with the two
-of us! Our own school play! Ah, shall we
-borrow these costumes as they are?");
+of us! Our own school play! Ah, should we
+borrow these costumes too?");
 MsgDisp("主人公","(Hehe, that seems kind of fun?
 Seems like the play was a success, 
 that's good!)");

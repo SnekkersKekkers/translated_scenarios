@@ -12,11 +12,11 @@ Do you know kind of disaster is brewing?");
 MsgDisp("主人公","｛ひかる＊｝.
 ......Disaster?");
 VoicePlay("C022200000_22_010");
-MsgDisp("Hikaru","Hey, lately,Do you remember
-being cold to any of the boys around you?");
+MsgDisp("Hikaru","Hey, do you remember being cold to any of
+the boys around you, lately?");
 VoicePlay("C022200000_22_020");
-MsgDisp("Hikaru","Like ignoring them, being cold, not being
-delicate about their soft spots, or
+MsgDisp("Hikaru","Like ignoring them, being distant, not
+being delicate about their soft spots, or
 showing off how well you get along with
 another boy?");
 MsgDisp("主人公","Eh......");

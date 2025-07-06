@@ -16,16 +16,15 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q100300000_03_010");
-MsgDisp("Honda","
-It's a beautiful archway. Even though 
+MsgDisp("Honda","It's a beautiful archway. Even though 
 it's been restored, It's amazing how the
 shape hasn't changed for centuries.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("Q100300000_03_020");
-MsgDisp("Honda","......Do you also feel a bit wierd when
-you think that we're looking at the same
+MsgDisp("Honda","...Do you also feel a bit weird when
+you realize we're looking at the same
 thing as people centuries ago?");
 MsgDisp("主人公","I do, I mean, it's been here forever.");
 ChEye(3,0);

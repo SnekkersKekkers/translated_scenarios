@@ -42,8 +42,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300500_03_030");
-MsgDisp("Honda","That's fine' But a quiz king who doesn't
-answer questions......?");
+MsgDisp("Honda","That's fine. But a quiz king who doesn't
+answer questions...?");
 MsgDisp("主人公","｛本多＊＊｝, you're like a celebrity,
 that's so cool.");
 ChEye(3,1);

@@ -35,8 +35,8 @@ ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070301000_03_040");
 MsgDisp("Honda","Being with you brings out so many firsts
-for me. Thanks to you every day incredibly
-fun.");
+for me. Thanks to you every day is
+incredibly fun.");
 ChMotion(3,3);
 ChMotion(3,3);
 ChMotion(3,1);

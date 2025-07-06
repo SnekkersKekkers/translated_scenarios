@@ -28,7 +28,7 @@ VoicePlay("P540300002_03_020");
 MsgDisp("Honda","More than anything, you looked like you
 were having a great time playing, didn't
 you? I was totally taken in.");
-MsgDisp("主人公","I'm so glad, thank yoU!");
+MsgDisp("主人公","I'm so glad, thank you!");
 ChFace(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);

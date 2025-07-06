@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040330000_03_010");
     MsgDisp("Honda","Is that so?
 Maybe it's because there's
-only things i like.");
+only things I like.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

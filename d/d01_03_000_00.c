@@ -56,9 +56,8 @@ MsgDisp("主人公","Seriously?　Wow!");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300000_03_060");
-MsgDisp("Honda","This German marble even has more
-things hidden inside like crinoids and
-belemnites in this old.");
+MsgDisp("Honda","German marble has a lot more things hidden
+inside of it like crinoids and belemnites.");
 StlEye(3,1);
 StlMouth(3,0);
 StlEyeOpenLevel(3,0);

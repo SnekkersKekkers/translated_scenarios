@@ -14,8 +14,8 @@ switch (ChPrmGet(8,6)){
     StlEye(21,3);
     StlMouth(21,0);
     VoicePlay("U130D00007_21_000");
-    MsgDisp("Michiru","Hehe.
-Are you breaking up with Habataki High School?");
+    MsgDisp("Michiru","Hehe. Are you breaking up with Habataki
+High School?");
     StlEye(21,0);
     StlEye(22,2);
     StlMouth(22,0);

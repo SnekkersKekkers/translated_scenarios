@@ -6,8 +6,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040315100_03_000");
-MsgDisp("Honda","Wellー, let's start!");
-MsgSel("I won't lose!","｛本多＊＊｝'s ball seems heavy'","A competition is a bit...");
+MsgDisp("Honda","Let's start then!");
+MsgSel("I won't lose!","｛本多＊＊｝'s ball seems heavy.","A competition is kind of...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

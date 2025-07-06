@@ -20,7 +20,7 @@ ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D140D07041_22_000");
 MsgDisp("Hikaru","Even Minoru-kun was no
-match for Mari's perception");
+match for Mari's perception.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

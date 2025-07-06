@@ -103,7 +103,7 @@ MsgDisp("主人公","N-No, you can't do it there.
 Throw it this way!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700600_07_100");
-MsgDisp("Mikage","I atleast know that much.");
+MsgDisp("Mikage","I at least know that much.");
 BGMStop(2.5);
 MsgClose();
 ScrFadeOut(0);

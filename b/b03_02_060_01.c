@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(2,0);
     VoicePlay("B030206001_02_010");
     MsgDisp("Sassa","That's why we came.
-Let's swim to our hearts content!");
+Let's swim to our heart's content!");
     break ;
     case 1:
     ChEye(2,0);
