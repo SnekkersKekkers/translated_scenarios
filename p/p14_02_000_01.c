@@ -3,8 +3,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("P140200001_02_000");
-MsgDisp("Sassa","Hey,
-excuse me.");
+MsgDisp("Sassa","Hey, excuse me.");
 MsgDisp("主人公","Huh, ｛颯砂＊＊｝?
 what's wrong?");
 ChEye(2,0);

@@ -10,5 +10,5 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102113_01_010");
 MsgDisp("Kazama","Yeah, you're setting a new standard.");
-MsgDisp("主人公","(｛風真＊＊｝
-seems to like clothes like these.)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
+these.)");

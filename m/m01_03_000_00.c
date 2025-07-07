@@ -9,7 +9,7 @@ ChOpen(3,255,4,4,0,-1,-1,0,0);
 VoicePlay("M010300000_03_000");
 MsgDisp("Honda","Ah, thank goodness.
 You're doing better than I expected.");
-MsgDisp("主人公","Eh, ｛本多＊＊｝ ∋");
+MsgDisp("主人公","Eh, ｛本多＊＊｝∋");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,5);

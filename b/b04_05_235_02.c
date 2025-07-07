@@ -72,8 +72,7 @@ A perfect beauty would be terrifying...");
         ChMotion(5,0);
         VoicePlay("B040523501_05_060");
         MsgDisp("Hiiragi","...Were you surprised?");
-        MsgDisp("主人公","Hey,
-that was a little scary.");
+        MsgDisp("主人公","Hey, that was a little scary.");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040523501_05_070");

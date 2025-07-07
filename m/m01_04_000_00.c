@@ -11,7 +11,7 @@ ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
 VoicePlay("M010400000_04_000");
 MsgDisp("Nanatsumori","If you're asking about her, I just
 finished introducing myself.");
-MsgDisp("主人公","｛七ツ森＊｝ ∋
+MsgDisp("主人公","｛七ツ森＊｝∋
 Why......");
 ChEye(4,4);
 ChMouth(4,0);

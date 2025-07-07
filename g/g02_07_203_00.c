@@ -5,8 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("G020720300_07_000");
-MsgDisp("Mikage","Hey,
-can I consult you about my problems?");
+MsgDisp("Mikage","Hey, can I consult you about my problems?");
 MsgDisp("主人公","Eh? 
 Yes, it's fine with me.");
 ChEye(7,2);

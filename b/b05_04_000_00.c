@@ -56,8 +56,7 @@ ChEyeOpenLevel(4,8);
 VoicePlay("B050400000_47_010");
 MsgDisp("Woman Customer A","Right!
 Don't tell me that's his girlfriend∋");
-MsgDisp("主人公","H-Hey,
-｛七ツ森＊｝...");
+MsgDisp("主人公","H-Hey, ｛七ツ森＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,4,1);

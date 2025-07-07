@@ -21,7 +21,7 @@ StlEye(7,0);
 StlMouth(7,0);
 BGMPlay("BGM_C07_MIKAGE_C",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Ehh∈　｛御影＊＊｝ ∋");
+MsgDisp("主人公","Ehh∈　｛御影＊＊｝∋");
 VoicePlay("D010700300_07_020");
 MsgDisp("Mikage","Don't walk around looking like you're
 about to fall asleep!");

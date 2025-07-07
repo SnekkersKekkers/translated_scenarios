@@ -9,7 +9,7 @@ ChEye(4,5);
 ChMouth(4,5);
 VoicePlay("Q260400000_04_000");
 MsgDisp("Nanatsumori","......Eh∋");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝ ∋");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝∋");
 MsgDisp("主人公","(So that feeling was......)");
 ChEye(4,4);
 ChMouth(4,4);

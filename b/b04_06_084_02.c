@@ -91,7 +91,7 @@ I'll have trouble responding.");
         MsgDisp("Himuro","...Fuuu!");
         MsgDisp("主人公","∋");
         ScrFadeIn(0);
-        MsgDisp("主人公","｛氷室＊＊｝ ∋　My ear!");
+        MsgDisp("主人公","｛氷室＊＊｝∋　My ear!");
         ChEye(6,0);
         ChMouth(6,3);
         ChMotion(6,5);

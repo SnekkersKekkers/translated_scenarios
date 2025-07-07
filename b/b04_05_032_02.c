@@ -74,10 +74,9 @@ was a joke, so it's not doable?");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040503202_05_070");
-        MsgDisp("Hiiragi","Hey,
-how clueless do you think I am?
-I won't go in, I don't have 
-my swimsuit with me today.");
+        MsgDisp("Hiiragi","Hey, how clueless do you think I am? I
+won't go in, I don't have my swimsuit with
+me today.");
         MsgDisp("主人公","Hehe, come on.");
         ChEye(5,4);
         ChMouth(5,4);

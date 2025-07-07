@@ -33,7 +33,7 @@ Wait(20,0);
 BGMPlay("BGM_C06_INORI_B",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","Eh, hold on......!
-｛氷室＊＊｝ ∋");
+｛氷室＊＊｝∋");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600000_06_030");

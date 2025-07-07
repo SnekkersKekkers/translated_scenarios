@@ -25,7 +25,7 @@ certain charm to him.");
 Himuro-chan is still a baby bird. If Mari
 teaches him well, he may become a fine
 man♪");
-    MsgDisp("主人公","(I have to teach ｛氷室＊＊｝ ∋ I wonder
+    MsgDisp("主人公","(I have to teach ｛氷室＊＊｝∋ I wonder
 if I can do that sort of thing...)");
     break ;
     case 3:

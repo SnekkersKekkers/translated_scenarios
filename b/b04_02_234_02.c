@@ -39,8 +39,7 @@ I thank you for your kindness.");
         ChMotion(2,3);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223402_02_030");
-        MsgDisp("Sassa","Hey,
-don't get too carried away. ");
+        MsgDisp("Sassa","Hey, don't get too carried away. ");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);

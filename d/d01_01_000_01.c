@@ -15,7 +15,7 @@ StlOpen("ev_01_07");
 StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Eh......｛風真＊＊｝ ∋");
+MsgDisp("主人公","Eh......｛風真＊＊｝∋");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D010100001_01_010");

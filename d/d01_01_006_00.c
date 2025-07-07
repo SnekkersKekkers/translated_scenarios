@@ -58,7 +58,7 @@ VoicePlay("D010100600_01_010");
 MsgDisp("Kazama","A champaigne glass designed by
 Mr. Goro Hanatsubaki.");
 MsgDisp("主人公","(Eh......
-Ehh∋　｛風真＊＊｝ ∋)");
+Ehh∋　｛風真＊＊｝∋)");
 VoicePlay("D010100600_01_020");
 MsgDisp("Kazama","Goro Hanatsubaki is a world famous
 fashion designer.");

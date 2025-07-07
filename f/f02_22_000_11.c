@@ -24,8 +24,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200011_22_020");
-MsgDisp("Hikaru","But, I think the feeling of being
-able to wear the latest work trumps it♪");
+MsgDisp("Hikaru","But I think the feeling of being
+able to wear the latest trends trumps it♪");
 MsgDisp("主人公","Hehe!");
 ChEye(22,0);
 ChMouth(22,3);
@@ -37,7 +37,7 @@ at home or are you going
 on a date with a boy?");
 ChMotion(22,3,1);
 VoicePlay("F022200011_22_040");
-MsgDisp("Hikaru","And, and, will you have a gathering
+MsgDisp("Hikaru","And and, will you have a gathering
 with your relatives for new years?
 Did you make any plans with a boy for
 the first shrine visit of the year?");

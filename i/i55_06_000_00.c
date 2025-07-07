@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("Himuro","5 daifuku and 5 mitarashi dango,
 please.");
     MsgDisp("主人公","Very well.
-......Wait, ｛氷室＊＊｝ ∋");
+......Wait, ｛氷室＊＊｝∋");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

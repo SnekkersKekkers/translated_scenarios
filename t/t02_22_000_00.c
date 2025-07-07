@@ -42,8 +42,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("T022200000_22_050");
-MsgDisp("Hikaru","Hey,
-that was all thanks to Mari, right?");
+MsgDisp("Hikaru","Hey, that was all thanks to Mari, right?");
 MsgDisp("主人公","Eh?");
 ChEye(22,0);
 ChMouth(22,0);

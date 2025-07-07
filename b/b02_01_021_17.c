@@ -13,5 +13,5 @@ VoicePlay("B020102117_01_010");
 MsgDisp("Kazama","You think so?
 But I do think it's hard to pull off.
 You have that kind of flair, right?");
-MsgDisp("主人公","(｛風真＊＊｝
-seems to like clothes like this.)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
+this.)");

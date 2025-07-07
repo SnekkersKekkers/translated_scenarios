@@ -32,7 +32,7 @@ MsgDisp("主人公","Ah!
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();
-MsgDisp("主人公","Hello, ｛大地＊＊｝ ∋");
+MsgDisp("主人公","Hello, ｛大地＊＊｝∋");
 VoicePlay("D020800900_08_000");
 MsgDisp("Shirahane","Ah......Yeah.");
 MsgDisp("主人公","What a relief......

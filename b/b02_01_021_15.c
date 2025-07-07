@@ -14,5 +14,5 @@ VoicePlay("B020102115_01_010");
 MsgDisp("Kazama","No, it's good taste...
 Or should I say sexy taste?
 If anything, it makes me worried.");
-MsgDisp("主人公","(｛風真＊＊｝ 
-seems to like clothes like this.)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
+this.)");

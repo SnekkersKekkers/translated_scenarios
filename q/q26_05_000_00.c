@@ -11,7 +11,7 @@ MsgDisp("Hiiragi","Ahh......");
 ChEyeOpenLevel(5,9);
 VoicePlay("Q260500000_05_010");
 MsgDisp("Hiiragi","I knew it were you......");
-MsgDisp("主人公","Eh, ｛柊＊＊＊｝ ∋
+MsgDisp("主人公","Eh, ｛柊＊＊＊｝∋
 Wait, so just now......");
 ChMouth(5,4);
 ChMotion(5,0);

@@ -2,7 +2,7 @@ BGOpen("ar500",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("I562100002_40_000");
-MsgDisp("Male Customer","Um...... what would you suggest that I
+MsgDisp("Male Customer","Um...... What would you suggest I
 bring to meet my girlfriend's
 parents......?");
 MsgDisp("主人公","If you're looking for Japanese

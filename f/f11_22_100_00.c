@@ -34,7 +34,7 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F112210000_22_040");
 MsgDisp("Hikaru","Hikaru went to get her fortune told,
-then saw a girl's face, and realized.
+then saw the girl's face, and realized.
 That girl's in love with someone～");
 ChMotion(22,4,1);
 VoicePlay("F112210000_22_050");
@@ -47,8 +47,8 @@ ChMotion(22,3,1);
 VoicePlay("F112210000_22_060");
 MsgDisp("Hikaru","Hikaru hopes that girl's love 
 comes true.");
-MsgDisp("主人公","(｛ひかる＊｝ seems more 
-like a fortune teller..");
+MsgDisp("主人公","(｛ひかる＊｝ seems more
+like a fortune teller...");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(22,0,0);

@@ -10,7 +10,7 @@ VoiceEVSPlay(3);
 VoicePlay("H8G0300000_03_000");
 MsgDisp("Honda","｛主人公｝,
 congrats!");
-MsgDisp("主人公","Huh, ｛本多＊＊｝ ∋
+MsgDisp("主人公","Huh, ｛本多＊＊｝∋
 Is this about......");
 ChEye(3,0);
 ChMouth(3,3);

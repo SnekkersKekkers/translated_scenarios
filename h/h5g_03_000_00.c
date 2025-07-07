@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("H6G0300000_03_000")
 MsgDisp("Honda","｛主人公｝!");
-MsgDisp("主人公","Huh, ｛本多＊＊｝ ∋");
+MsgDisp("主人公","Huh, ｛本多＊＊｝∋");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

@@ -62,11 +62,11 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("X200D00000_22_030");
 MsgDisp("Hikaru","Yeah, yeah!
-Let's aim to be rose queen together; 
+Let's aim to be Rose Queen together; 
 the three of us♪");
-MsgDisp("主人公","(Rose queen... 
-talent, beauty, popularity... 
-and even love are all necessary.)");
+MsgDisp("主人公","(To be Rose Queen... 
+Talent, Beauty, Popularity... 
+Even love is necessary.)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

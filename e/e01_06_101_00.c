@@ -10,7 +10,7 @@ SEWait();
 ChOpen(6,255,4,2,0,-1,-1,0,0);
 VoicePlay("E010610100_06_000");
 MsgDisp("Himuro","Right on time!");
-MsgDisp("主人公","Wow, ｛氷室＊＊｝ ∋");
+MsgDisp("主人公","Wow, ｛氷室＊＊｝∋");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);

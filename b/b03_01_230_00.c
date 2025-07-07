@@ -66,8 +66,7 @@ get off.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B030123000_01_050");
-    MsgDisp("Kazama","Hey,
-did I hear you right just now...?");
+    MsgDisp("Kazama","Hey, did I hear you right just now...?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

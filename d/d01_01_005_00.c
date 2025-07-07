@@ -25,7 +25,7 @@ VoicePlay("D010100500_01_020");
 MsgDisp("Kazama","There's plenty of food waiting for you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(Eh, wait, ｛風真＊＊｝ ∋
+MsgDisp("主人公","(Eh, wait, ｛風真＊＊｝∋
 ......Something amazing just happened!)");
 MsgClose();
 ScrFadeOut(0,0);

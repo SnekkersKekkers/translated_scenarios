@@ -78,8 +78,7 @@ so that they would be more droopy.");
         ChEye(5,2);
         ChMotion(5,0);
         VoicePlay("B040512102_05_080");
-        MsgDisp("Hiiragi","Hey,
-I was desperate at that time.");
+        MsgDisp("Hiiragi","Hey, I was desperate at that time.");
         ChEye(5,3);
         VoicePlay("B040512102_05_090");
         MsgDisp("Hiiragi","Well, it's a thing of the past.

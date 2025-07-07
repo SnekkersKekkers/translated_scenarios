@@ -132,7 +132,7 @@ MsgDisp("Kazama","Ah, maybe you should just take off your
 shoes and let me carry you until
 we get to the shoe lockers.");
 MsgDisp("Kazama","Here, piggyback ride.");
-MsgDisp("主人公","W-Wait, ｛風真＊＊｝ ∋
+MsgDisp("主人公","W-Wait, ｛風真＊＊｝∋
 I said I'm fine so......
 Hey, everyone is staring at us∋");
 SEPlay("EV_SE_857",0.7,0.3);

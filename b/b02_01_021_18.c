@@ -13,5 +13,5 @@ VoicePlay("B020102118_01_010");
 MsgDisp("Kazama","Yeah.
 But you're pulling it off well,
 so that's pretty amazing.");
-MsgDisp("主人公","(｛風真＊＊｝ 
-seems to like clothes like this.)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
+this.)");

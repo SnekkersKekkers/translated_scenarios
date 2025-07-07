@@ -28,7 +28,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 SEWait();
 ChOpen(1,255,0,0,3,-1,-1,0,0);
-MsgDisp("主人公","Eh......｛風真＊＊｝ ∋
+MsgDisp("主人公","Eh......｛風真＊＊｝∋
 What are you doing here?");
 ChEye(1,0);
 ChMouth(1,3);

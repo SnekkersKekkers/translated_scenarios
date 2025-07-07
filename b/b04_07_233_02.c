@@ -78,7 +78,7 @@ anything. It's a win-win situation.");
         VoicePlay("B040723302_07_080");
         MsgDisp("Mikage","As punishment, I'm jumping again.");
         MsgDisp("主人公","Eh...Ehhh∋
-｛御影＊＊｝ ∋");
+｛御影＊＊｝∋");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);

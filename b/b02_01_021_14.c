@@ -11,5 +11,5 @@ ChMotion(1,0);
 VoicePlay("B020102114_01_010");
 MsgDisp("Kazama","Of course you did.
 You're dressed to impress.");
-MsgDisp("主人公","(｛風真＊＊｝
-seems to like clothes like this.)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
+this.)");

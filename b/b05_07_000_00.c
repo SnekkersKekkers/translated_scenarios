@@ -22,8 +22,7 @@ MsgDisp("主人公","Waa...pretty!
 I have the cherry blossoms in 
 full bloom all to myself～!");
 VoicePlay("B050700000_07_000");
-MsgDisp("Mikage?","Hey hey,
-There's two of us!");
+MsgDisp("Mikage?","Hey hey, there's two of us!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 Wait(63,0);

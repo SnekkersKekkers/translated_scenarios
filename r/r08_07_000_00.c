@@ -31,7 +31,7 @@ StlOpen("ev_07_15");
 StlEye(7,1);
 StlMouth(7,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝ ∋
+MsgDisp("主人公","｛御影＊＊｝∋
 Ah, thank you very much...
 Were you chasing me for this?");
 StlEye(7,1,0);

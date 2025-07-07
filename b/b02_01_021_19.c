@@ -11,5 +11,5 @@ ChMotion(1,3);
 VoicePlay("B020102119_01_010");
 MsgDisp("Kazama","Yeah.
 That's exactly how I imagine you.");
-MsgDisp("主人公","(｛｛風真＊＊｝
-seems to like clothes like this.)");
+MsgDisp("主人公","(｛｛風真＊＊｝ seems to like clothes like
+this.)");

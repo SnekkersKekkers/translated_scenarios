@@ -5,8 +5,7 @@ StlMouth(21,0);
 StlEye(22,1);
 StlMouth(22,1);
 VoicePlay("U140D00000_22_000");
-MsgDisp("Hikaru","Heyhey,
-Is Mari always so sleep deprived?");
+MsgDisp("Hikaru","Heyhey, is Mari always so sleep deprived?");
 MsgDisp("主人公","Eh, why do you ask?");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("U140D00000_21_000");

@@ -13,6 +13,5 @@ VoicePlay("B020502121_05_010");
 MsgDisp("Hiiragi","Of course, it's very fitting.
 If the model isn't good too,
 this wouldn't be possible.");
-MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝,
-seems to like clothes like these, too!)");
+MsgDisp("主人公","(Oh, good! ｛柊＊＊＊｝, seems to like
+clothes like these, too!)");

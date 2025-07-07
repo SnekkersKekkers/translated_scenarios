@@ -4,9 +4,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310302_03_000");
-MsgDisp("Honda","Hey, hey,
-we ended up walking around all day 
-today in matching outfits.");
+MsgDisp("Honda","Hey, hey, we ended up walking around all
+day today in matching outfits.");
 MsgDisp("主人公","Hehe, yeah we did.");
 ChSet(3,4);
 VoicePlay("G020310302_03_010");

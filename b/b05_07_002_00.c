@@ -19,7 +19,7 @@ MsgDisp("Mikage","That way!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","Eh, ｛御影＊＊｝ ∋");
+MsgDisp("主人公","Eh, ｛御影＊＊｝∋");
 SEPlay("EV_SE_583",0,0.5);
 MsgClose();
 ScrFadeOut(0);

@@ -11,6 +11,5 @@ ChMotion(5,0,1);
 VoicePlay("B020502124_05_010");
 MsgDisp("Hiiragi","Yes, it suits you extremely well.
 This is a winning strategy for you.");
-MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ 
-seems to like clothes like these, too!)");
+MsgDisp("主人公","(Oh, good! ｛柊＊＊＊｝ seems to like
+clothes like these, too!)");

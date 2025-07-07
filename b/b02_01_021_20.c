@@ -15,5 +15,5 @@ VoicePlay("B020102120_01_010");
 MsgDisp("Kazama","Is that so...
 Since you're so versatile,
 those clothes suit you as well.");
-MsgDisp("主人公","(｛風真＊＊｝
-seems to like clothes like this.)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
+this.)");

@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B040108500_01_000");
 MsgDisp("Kazama","I've heard the winter morning mist here is
 mysterious?");
-MsgSel("But you can't enter the park in the early morning","Watch your step, it could be dangerous","That's so mysterious, maybe something does live here?");
+MsgSel("But you can't enter the park in the early morning.","Watch your step, it could be dangerous.","That's so mysterious, maybe something does live here?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

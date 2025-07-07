@@ -21,7 +21,7 @@ ChOpen(1,100,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110100400_01_000");
 MsgDisp("Kazama","It's weird to say it again, but......
-It's good huh, being rose queen.");
+It's good huh, being Rose Queen.");
 MsgDisp("主人公","Yeah......
 But, is it really okay for it to be me?");
 ChEye(1,2);

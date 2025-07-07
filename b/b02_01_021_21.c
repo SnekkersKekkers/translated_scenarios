@@ -11,5 +11,5 @@ VoicePlay("B020102121_01_010");
 MsgDisp("Kazama","Yeah.
 That's the kind of thing you can feel
 even in fashion.");
-MsgDisp("主人公","(｛風真＊＊｝
-seems to like clothes like this.)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
+this.)");

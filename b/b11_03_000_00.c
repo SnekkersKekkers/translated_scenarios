@@ -30,7 +30,7 @@ MsgClose();
 ChOpen(3,253,3,3,3,-1,-1,0,2);
 VoicePlay("B110300000_03_000");
 MsgDisp("Honda","Me too, me too!");
-MsgDisp("主人公","Oh, ｛本多＊＊｝ ∋");
+MsgDisp("主人公","Oh, ｛本多＊＊｝∋");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

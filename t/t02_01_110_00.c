@@ -8,7 +8,7 @@ MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_872",0.5);
 Wait(49,0);
 ChOpen(1,254,0,2,2,8,-1,0,0);
-MsgDisp("主人公","｛風真＊＊｝ ∋ The graduation ceremony is
+MsgDisp("主人公","｛風真＊＊｝∋ The graduation ceremony is
 already over......?");
 ChEye(1,0);
 ChMouth(1,1);
