@@ -3,7 +3,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Z502102003_21_000");
 MsgDisp("Michiru","Just one more step, so
-make sure to stay aware of TPO!");
+make sure to stay aware of !");
 MsgDisp("主人公","(Alright,
 let's be more fashionable!)");
 MsgClose();

@@ -3,8 +3,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Right after this class ends, it's lunch.
 I'm so hungry....)");
 SEPlay("EV_SE_017");
-MsgDisp("","(*rumble rumble*)");
-MsgDisp("主人公","(M-My stomach rumbled!
+MsgDisp("","(*Grumble Grumble*)");
+MsgDisp("主人公","(M-My stomach growled!
 ...Wait. Nobody heard it, right...?)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -63,7 +63,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("F100110001_01_050");
 MsgDisp("Kazama","Huh?
-...oh, I see.
+...Oh, I see.
 Then you'd better hurry to lunch.");
 ChEye(1,0);
 ChMotion(1,0);

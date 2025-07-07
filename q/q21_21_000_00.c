@@ -8,7 +8,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(21,30,7,0,0,-1,-1,0,0);
 VoicePlay("Q212100000_21_000");
-MsgDisp("Michiru","Fufu.
+MsgDisp("Michiru","Hehe.
 Are you curious? Mari.");
 MsgDisp("主人公","Ah, ｛みちる＊｝.
 It's kind of buzzing, isn't it?

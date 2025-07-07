@@ -4,5 +4,5 @@ ChMotion(1,0);
 ChCheek(1,0);
 MsgDispHide();
 VoicePlay("SS0001003_01_000");
-MsgDisp("Kazama","Heh ...");
+MsgDisp("Kazama","Heh...");
 MsgClose();

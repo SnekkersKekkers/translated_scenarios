@@ -32,7 +32,7 @@ ChMotion(7,3);
 VoicePlay("F020700003_07_030");
 MsgDisp("Mikage","What's the deal with it being
 an ostrich? If it was a cow, horse or
-sheep i could kind of get it. ");
+sheep I could kind of get it. ");
 MsgDisp("主人公","Do you have any 
 clue as to why?");
 ChEye(7,0);

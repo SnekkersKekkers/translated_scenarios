@@ -46,7 +46,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720002_05_020");
-MsgDisp("Hiiragi","Fufu, Mikage-sensei,
+MsgDisp("Hiiragi","Hehe, Mikage-sensei,
 the bar is getting higher f
 or the audience.");
 ChEye(7,0);

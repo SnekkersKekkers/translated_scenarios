@@ -13,7 +13,7 @@ SEWait();
 VoicePlay("M010200000_02_010");
 MsgDisp("Sassa?","It's me.
 You up?");
-MsgDisp("主人公","Fufuu,I knew it.
+MsgDisp("主人公","Hehe, I knew it.
 ｛颯砂＊＊｝, I'm awake.
 Come in.");
 SEPlay("EV_SE_DOOR_007");

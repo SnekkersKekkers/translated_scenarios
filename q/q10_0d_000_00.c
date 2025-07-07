@@ -43,7 +43,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q100D00000_21_020");
-MsgDisp("Michiru","Fufu!");
+MsgDisp("Michiru","Hehe!");
 MsgDisp("主人公","Did the chancellor have round glasses?");
 ChEye(21,0);
 ChMouth(21,0);
@@ -72,7 +72,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q100D00000_21_040");
-MsgDisp("Michiru","Fufu, any form of
+MsgDisp("Michiru","Hehe, any form of
 shopping is so exciting.");
 MsgDisp("主人公","Yeah, it is!
 Well, what should we do?");

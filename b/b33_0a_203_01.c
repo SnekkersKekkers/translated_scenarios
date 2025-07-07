@@ -23,7 +23,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20301_01_000");
 MsgDisp("Kazama","Let's not.
-Sossa, what would we even do underwater?");
+Sassa, what would we even do underwater?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

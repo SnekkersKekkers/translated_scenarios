@@ -16,7 +16,7 @@ VoicePlay("M012100000_21_000");
 MsgDisp("Michiru","Mari......
 I know my coming's a bother but
 I was so worried, I just couldn't......");
-MsgDisp("主人公","Fufu.
+MsgDisp("主人公","Hehe.
 I'm all right now.");
 ChEye(21,4);
 ChMouth(21,4);
@@ -43,7 +43,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("M012100000_21_040");
-MsgDisp("Michiru","Fufu.
+MsgDisp("Michiru","Hehe.
 Once she knows about Mari's recovery, 
 I'm sure she'll be relieved.");
 ChEye(21,4);

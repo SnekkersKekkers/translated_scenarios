@@ -7,7 +7,7 @@ starting today.");
 VoicePlay("I532100000_49_000");
 MsgDisp("Manager","You're working every Tuesday and
 Thursday. I look forward to working
-with you");
+with you.");
 MsgDisp("主人公","Yes, understood.");
 MsgDisp("主人公","(Alright, let's do our best!)");
 switch (ChPrmGet(21,6)){

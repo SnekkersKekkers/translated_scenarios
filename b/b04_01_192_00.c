@@ -43,7 +43,7 @@ cat. Well, it was well-made.");
     VoicePlay("B040119200_01_020");
     MsgDisp("Kazama","Right.
 I wasn't expecting much in the 
-first place, so i guess this is 
+first place, so I guess this is 
 about right.");
     MsgDispSksp(1,0);
     ChEye(1,0);

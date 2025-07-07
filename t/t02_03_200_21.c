@@ -18,7 +18,7 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 ChCheek(3,0);
 VoicePlay("T020320000_03_250");
-MsgDisp("Honda","Sorry. i see, that's right.");
+MsgDisp("Honda","Sorry. I see, that's right.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

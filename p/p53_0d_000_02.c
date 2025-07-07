@@ -11,7 +11,7 @@ SEWait();
 ChOpen(21,254,0,0,0,-1,-1,0,1);
 ChOpen(22,254,0,0,0,-1,-1,0,2);
 VoicePlay("P530D00002_21_000");
-MsgDisp("Michiru","Fufu, you look good.");
+MsgDisp("Michiru","Hehe, you look good.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -33,7 +33,7 @@ VoicePlay("P530D00002_22_010");
 MsgDisp("Hikaru","That's amazing～!
 Mari has dedicated herself to music......
 So cool▼");
-MsgDisp("主人公","Fufu!");
+MsgDisp("主人公","Hehe!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);

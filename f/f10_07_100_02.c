@@ -1,7 +1,7 @@
 ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Next up i have class with ｛御影＊＊｝.
+MsgDisp("主人公","(Next up I have class with ｛御影＊＊｝.
 Let's stop by the science preparation
 room.)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE");

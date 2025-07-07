@@ -79,7 +79,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_030");
-MsgDisp("Hiiragi","Fufu, surely.
+MsgDisp("Hiiragi","Hehe, surely.
 Let's accept it,
 Because he stayed home.");
 MsgDisp("主人公","Yeah.

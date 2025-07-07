@@ -31,7 +31,7 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330C20701_06_010");
 MsgDisp("Himuro","...These screams included.");
-MsgDisp("主人公","Haa... i get nervous every 
+MsgDisp("主人公","Haa... I get nervous every 
 time I come here.");
 ChEye(7,2);
 ChMouth(7,0);

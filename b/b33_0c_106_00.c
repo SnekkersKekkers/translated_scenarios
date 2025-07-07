@@ -111,7 +111,7 @@ VoicePlay("B330C10600_06_030");
 MsgDisp("Himuro","Sorry.
 Shall we watch it again,
 in the next viewing?");
-MsgDisp("主人公","Yeah, i also want to see it 
+MsgDisp("主人公","Yeah, I also want to see it 
 from a different perspective.");
 ChEye(7,0);
 ChMouth(7,3);

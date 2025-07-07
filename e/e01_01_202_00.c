@@ -30,7 +30,7 @@ all together!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","Fufu.
+MsgDisp("主人公","Hehe.
 What were you guys doing?");
 ChEye(1,0);
 ChMouth(1,2);

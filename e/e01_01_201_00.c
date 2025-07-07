@@ -119,7 +119,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","Fufu.
+MsgDisp("主人公","Hehe.
 ｛柊＊＊＊｝ and ｛風真＊＊｝ both are 
 amazing......)");
 MsgClose();

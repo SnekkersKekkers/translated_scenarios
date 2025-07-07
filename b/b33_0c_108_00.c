@@ -23,7 +23,7 @@ ScrFadeIn(0);
 ChMouth(5,3);
 VoicePlay("B330C10800_05_000");
 MsgDisp("Hiiragi","The moment I jump into the sky,
-I feel as though i have been liberated
+I feel as though I have been liberated
 from everything.");
 ChEye(6,0);
 ChMouth(6,3);

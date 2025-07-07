@@ -47,8 +47,7 @@ ChMotion(5,1);
 VoicePlay("M010500000_05_070");
 MsgDisp("Hiiragi","I became a wandering-eyed,
 and strange person.");
-MsgDisp("主人公","Fufuu,
-｛柊＊＊＊｝, that doesn't sound like you.");
+MsgDisp("主人公","Hehe, ｛柊＊＊＊｝, that doesn't sound like you.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("M010500000_05_080");

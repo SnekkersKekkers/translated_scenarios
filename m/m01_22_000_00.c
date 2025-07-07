@@ -20,7 +20,7 @@ ChMotion(22,0,1);
 VoicePlay("M012200000_22_020");
 MsgDisp("Hikaru","......Really?
 You're not just saying that for Hikaru?");
-MsgDisp("主人公","Fufu!
+MsgDisp("主人公","Hehe!
 I wouldn't lie to you.");
 ChEye(22,4);
 ChMouth(22,0);

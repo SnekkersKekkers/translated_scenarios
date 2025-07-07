@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040223402_02_000");
 MsgDisp("Sassa","Alright!
 I managed to endure it today.");
-MsgSel("It's because i went easy on you","Next is step two right?","Then, let's go again!");
+MsgSel("It's because I went easy on you","Next is step two right?","Then, let's go again!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

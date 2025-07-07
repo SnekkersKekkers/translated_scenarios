@@ -123,7 +123,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("Q070D00000_21_070");
-MsgDisp("Michiru","Fufu.");
+MsgDisp("Michiru","Hehe.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(After this, we're moving to 

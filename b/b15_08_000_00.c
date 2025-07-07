@@ -40,7 +40,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B150800000_08_050");
-MsgDisp("Shirahane","It's not that i dislike it.
+MsgDisp("Shirahane","It's not that I dislike it.
 It's just, a bit embarrasin'.");
 ChEye(8,3);
 ChMouth(8,3);

@@ -36,7 +36,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020140002_01_040");
-MsgDisp("Kazama","I'll never forget how i felt when I
+MsgDisp("Kazama","I'll never forget how I felt when I
 entered my room. Completely nothing had
 changed for ten years. It was like time
 had completely stopped.");

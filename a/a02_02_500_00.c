@@ -167,7 +167,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("A020250000_01_080");
 MsgDisp("Kazama","Huh, looks like it's gonna get 
-tumultuous around here.");
+noisy around here.");
 MsgDisp("主人公","(So I'm not just childhood friends with
 ｛風真＊＊｝, but also with ｛颯砂＊＊｝.
 What a coincidence......)");

@@ -144,7 +144,7 @@ MsgDisp("主人公","(No way... The Hanatsubaki Twin models,
 and relatives of world-famous designer
 \"Hanatsubaki Goro\"—
 go to this school...!?)");
-MsgDisp("主人公","((I can go to Michiru for fashion and
+MsgDisp("主人公","(I can go to Michiru for fashion and
 Hikaru for relationship advice......
 Anyway, why do they call me \"Mari\"?)");
 MsgClose();

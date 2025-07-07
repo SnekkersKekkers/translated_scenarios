@@ -29,7 +29,7 @@ VoicePlay("M022200000_22_050");
 MsgDisp("Hikaru","Haa......Thank God.
 I got to hear Mari sounding healthy.
 It's like Hikaru can feel better now too.");
-MsgDisp("主人公","Fufu, I'm glad.");
+MsgDisp("主人公","Hehe, I'm glad.");
 VoicePlay("M022200000_22_060");
 MsgDisp("Hikaru","Ehe▼
 After all, Mari and Hikaru both

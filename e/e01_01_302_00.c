@@ -135,7 +135,7 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 ChClose(4,0,30);
-MsgDisp("主人公","(Fufufu!
+MsgDisp("主人公","(Hehehe!
 Wouldn't it be awesome if their seats
 were right next to each other!)");
 MsgClose();

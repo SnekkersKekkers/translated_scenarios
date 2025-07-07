@@ -64,14 +64,14 @@ ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("E010720200_07_030");
 MsgDisp("Mikage","......Hmm
-I think Sossa and I have other
+I think Sassa and I have other
 similarities too......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("E010720200_02_040");
 MsgDisp("Sassa","Eh, you mean like......
-tall and curly hair?");
+Tall and curly hair?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

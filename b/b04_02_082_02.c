@@ -49,7 +49,7 @@ exercise and the body too.");
         VoicePlay("B040208202_02_040");
         MsgDisp("Sassa","That's because since I was little,
 that's all I did.
-So i became knowledgable.");
+So I became knowledgable.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);

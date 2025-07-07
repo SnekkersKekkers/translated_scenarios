@@ -4,7 +4,7 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yeah, i might have been able to
+MsgDisp("主人公","(Yeah, I might have been able to
 play better than last year!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);

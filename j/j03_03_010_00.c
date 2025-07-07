@@ -69,7 +69,7 @@ voicemail? Of course, it's okay.");
     VoicePlay("J030301000_03_080");
     MsgDisp("Honda","I mean, you invited me. 
 There's no way I'd refuse, right?");
-    MsgDisp("主人公","Fufu.
+    MsgDisp("主人公","Hehe.
 Then, ｛日付｝
 ｛待ち合わせ場所｝, I'll be there.");
     VoicePlay("J030301000_03_090");

@@ -85,7 +85,7 @@ a conversation on this same topic.");
     ChMotion(6,0);
     VoicePlay("B040614002_06_080");
     MsgDisp("Himuro","It definitely felt like a challenge.
-...But, I think i like it.");
+...But, I think I like it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

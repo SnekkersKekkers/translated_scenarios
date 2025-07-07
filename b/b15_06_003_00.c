@@ -44,7 +44,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B150600300_06_050");
 MsgDisp("Himuro","I was at fault too for saying
 it would be fine in moderation, 
-But i didn't think it would
+But I didn't think it would
 get to this extent.");
 MsgDisp("主人公","Do you hate being
 touched that much?");
