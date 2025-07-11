@@ -24,7 +24,7 @@ ChMouth(7,4);
 ChMotion(7,3);
 VoicePlay("T020700030_07_030");
 MsgDisp("Mikage","But thanks to you,
-I was able to graduate from Haba Gakuin.
+I was able to graduate from Haba High.
 Thank you.");
 MsgDisp("主人公","I am happy that I was able to spend three
 years with ｛御影＊＊｝ and graduate with

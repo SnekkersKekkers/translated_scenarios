@@ -18,7 +18,7 @@ ChMotion(31,0);
 VoicePlay("P633100001_31_010");
 MsgDisp("Goro","Heeーllo.
 The vegetables are like works of art.");
-MsgDisp("主人公","Yes! Everyone in the horitculture club
+MsgDisp("主人公","Yes! Everyone in the gardening club
 grew them. The herb tea is also homemade.");
 ChEye(31,0);
 ChMouth(31,0);

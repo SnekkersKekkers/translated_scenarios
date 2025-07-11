@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("SS9206133_06_000");
-MsgDisp("Himuro","Cohon...... view, let's see?");
+MsgDisp("Himuro","Ahem...Let's look at the scenery, okay?");
 MsgClose();

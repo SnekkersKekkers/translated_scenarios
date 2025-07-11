@@ -55,7 +55,7 @@ this?");
     VoicePlay("S120500000_05_130");
     MsgDisp("Hiiragi","There will be a New Year's show
 soon, so there is a lot for us to do.
-Rehearsals, meetings, ectera.");
+Rehearsals, meetings, etcetera.");
     MsgDisp("主人公","I see......That's rough.");
     ChEye(5,4);
     ChMouth(5,4);
