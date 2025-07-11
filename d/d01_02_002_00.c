@@ -28,7 +28,7 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 StlMouthOpenLevel(2,0);
 VoicePlay("D010200200_02_010");
-MsgDisp("Sassa","............Hm?");
+MsgDisp("Sassa",".........Hm?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200200_02_020");

@@ -47,7 +47,7 @@ MsgDisp("Michiru","Hehe.
 Of course. I prepared them for this
 reason, so please enjoy.");
 MsgDisp("主人公","Okay, thanks for the food!");
-MsgDisp("主人公","............!
+MsgDisp("主人公",".........!
 ｛みちる＊｝, these are amazing!
 So yummy and the texture is completely
 new to me......!");

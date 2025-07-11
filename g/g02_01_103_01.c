@@ -67,7 +67,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_080");
-MsgDisp("Kazama","............No, there is just one thing
+MsgDisp("Kazama",".........No, there is just one thing
 that bothers me.");
 ChEye(1,0);
 ChMouth(1,2);

@@ -56,7 +56,7 @@ MsgDisp("Himuro","We're not in the clear yet.
 Try to watch quietly.");
 MsgDisp("主人公","Okay, got it!");
 VoicePlay("B050600300_06_070");
-MsgDisp("Himuro","............You know.");
+MsgDisp("Himuro",".........You know.");
 MsgDisp("主人公","Hmm?");
 StlEye(6,1);
 StlMouth(6,0);

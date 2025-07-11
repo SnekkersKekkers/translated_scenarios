@@ -41,7 +41,7 @@ Thank you.");
     ChMouth(4,2);
     ChMotion(4,0);
     VoicePlay("L040400001_04_030");
-    MsgDisp("Nanatsumori","............?
+    MsgDisp("Nanatsumori",".........?
 Are you sure you're giving this to
 the right person?");
     MsgDisp("主人公","You're ｛七ツ森＊｝, right?");

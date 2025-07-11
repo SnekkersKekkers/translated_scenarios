@@ -60,7 +60,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020720000_07_070");
-MsgDisp("Mikage","............Thank you.
+MsgDisp("Mikage",".........Thank you.
 You always help me out like that.");
 ChEye(7,2);
 ChMouth(7,0);

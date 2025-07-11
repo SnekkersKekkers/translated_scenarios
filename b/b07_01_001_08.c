@@ -53,7 +53,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,10);
 MsgDisp("主人公","Then, it's a battle.
-..................");
+.........");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

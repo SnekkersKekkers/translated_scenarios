@@ -67,7 +67,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_060");
 MsgDisp("Mikage","I'm not the kind of person who's suited to
-be called a teacher.........");
+be called a teacher......");
 ChEye(7,2);
 ChEyeOpenLevel(7,10);
 MsgDisp("主人公","That...... I was very happy to spend the
@@ -115,7 +115,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_120");
 MsgDisp("Mikage","The void in my heart might have been
 filled.
-It was that much fun............");
+It was that much fun.........");
 ChEye(7,4);
 ChEyeOpenLevel(7,10);
 MsgDisp("主人公","I also had a lot of fun.");

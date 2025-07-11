@@ -100,7 +100,7 @@ I hate when it's loud.");
     ChMouth(6,2);
     ChMotion(6,2);
     VoicePlay("B030623000_06_080");
-    MsgDisp("Himuro","............Are you really going to ride
+    MsgDisp("Himuro",".........Are you really going to ride
 this?");
     break ;
     default :

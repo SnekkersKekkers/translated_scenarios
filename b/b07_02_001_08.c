@@ -37,7 +37,7 @@ ChMotion(2,0);
 ChEyeOpenLevel(2,8);
 VoicePlay("B070200001_02_540");
 MsgDisp("Sassa","…………");
-MsgDisp("主人公","............Pfft!");
+MsgDisp("主人公",".........Pfft!");
 MsgDisp("主人公","Ahahaha!");
 ChEye(2,3);
 ChMouth(2,3);

@@ -108,7 +108,7 @@ SEStop("EV_SE_754",0.01);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
 MsgDisp("主人公","Kyaa∈
-There's a puddle here............");
+There's a puddle here.........");
 BGOpen("sc010",0);
 MsgClose();
 ChOpen(1,254,0,2,2,-1,-1,0,0);
@@ -116,7 +116,7 @@ ScrFadeIn(0);
 VoicePlay("D020100000_01_100");
 MsgDisp("Kazama","Ahh, geez......What are you doing?
 Are your socks okay?");
-MsgDisp("主人公","Yeah............just barely.");
+MsgDisp("主人公","Yeah.........just barely.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1,0,30);

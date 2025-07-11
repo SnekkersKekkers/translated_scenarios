@@ -6,7 +6,7 @@ MsgDisp("Manager","Thank you for calling.
 This is General Store Simon.");
 MsgDisp("主人公","I'm calling about your
 help wanted ad for the
-part-time job opening............");
+part-time job opening.........");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

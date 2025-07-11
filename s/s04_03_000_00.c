@@ -97,7 +97,7 @@ Well then, what should we wear?)");
         break ;
         case 1:
         VoicePlay("S040300000_03_140");
-        MsgDisp("Honda","No way............");
+        MsgDisp("Honda","No way.........");
         MsgDisp("主人公","Uhm......｛本多＊＊｝?");
         VoicePlay("S040300000_03_150");
         MsgDisp("Honda","Ah, yeah.

@@ -90,7 +90,7 @@ the beach with ｛御影＊＊｝?");
         ChMouth(7,1);
         ChMotion(7,4);
         VoicePlay("B040706102_07_080");
-        MsgDisp("Mikage","............
+        MsgDisp("Mikage",".........
 No, no, we can go whenever?
 If you feel like coming.");
         MsgDisp("主人公","If you really think so, 

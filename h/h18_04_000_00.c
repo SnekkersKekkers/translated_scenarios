@@ -37,7 +37,7 @@ Good work, oh famous manager.");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("H180400000_04_040");
-    MsgDisp("Nanatsumori","............
+    MsgDisp("Nanatsumori",".........
 Don't you look pretty happy?");
     MsgDisp("主人公","Well, we managed to make it here.
 Win or lose, I'm still excited.");

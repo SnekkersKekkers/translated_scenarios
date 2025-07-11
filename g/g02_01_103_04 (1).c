@@ -24,7 +24,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110304_01_030");
 MsgDisp("Kazama","Shhhh. Try listening close for a bit.");
-MsgDisp("主人公","Huh? Okay. ............");
+MsgDisp("主人公","Huh? Okay. .........");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

@@ -94,7 +94,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 VoicePlay("B050300100_03_110");
-MsgDisp("Honda","............Mm!
+MsgDisp("Honda",".........Mm!
 Mm-, mm!");
 MsgDisp("主人公","A-Are you okay∋");
 MsgClose();

@@ -98,7 +98,7 @@ Welcome!");
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,0);
     VoicePlay("I350400000_04_090");
-    MsgDisp("Nanatsumori","Hm～............");
+    MsgDisp("Nanatsumori","Hm～.........");
     MsgDisp("主人公","Hm?");
     ChEye(4,4);
     ChMouth(4,4);

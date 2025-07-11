@@ -49,7 +49,7 @@ Thank you.");
     ChEye(4,4);
     ChMouth(4,1);
     VoicePlay("H480400000_04_060");
-    MsgDisp("Nanatsumori","............Hm?");
+    MsgDisp("Nanatsumori",".........Hm?");
     MsgDisp("主人公","Huh, did something happen?");
     ChEye(4,4);
     ChMouth(4,4);

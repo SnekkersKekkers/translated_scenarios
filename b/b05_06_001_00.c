@@ -41,7 +41,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("B050600100_06_030");
-MsgDisp("Himuro","............Bass then.");
+MsgDisp("Himuro",".........Bass then.");
 VoicePlay("B050600100_34_030");
 MsgDisp("Band Guy","OK.");
 MsgDisp("主人公","｛氷室＊＊｝ can play......?");

@@ -61,7 +61,7 @@ VoicePlay("G020620101_06_080");
 MsgDisp("Himuro","Do you want me to stay out of the way?
 Or do you want to be close to me
 like before?");
-MsgDisp("主人公","I............");
+MsgDisp("主人公","I.........");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);

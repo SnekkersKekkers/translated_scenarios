@@ -28,7 +28,7 @@ StlEye(3,2);
 StlMouth(3,1);
 ScrFadeIn(0);
 VoicePlay("D010300500_03_010");
-MsgDisp("Honda","............Sigh.");
+MsgDisp("Honda",".........Sigh.");
 MsgDisp("主人公","｛本多＊＊｝, what's wrong?");
 StlEye(3,1);
 StlMouth(3,0);

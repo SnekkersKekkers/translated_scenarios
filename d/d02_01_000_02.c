@@ -79,7 +79,7 @@ MsgDisp("主人公","Hm?");
 NSSEye(1,2);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_190");
-MsgDisp("Kazama","............
+MsgDisp("Kazama",".........
 You're way too carefree.");
 NSSEye(1,0);
 NSSMouth(1,2);

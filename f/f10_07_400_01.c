@@ -10,7 +10,7 @@ That voice just now, was
 ｛御影＊＊｝, right?
 What's wrong...?)");
 VoicePlay("F100740001_32_000");
-MsgDisp("Vice Principal Himuro?","............!
+MsgDisp("Vice Principal Himuro?",".........!
 Are you really that worried?");
 VoicePlay("F100740001_07_010");
 MsgDisp("Mikage","Eh?");

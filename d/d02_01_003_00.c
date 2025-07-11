@@ -18,7 +18,7 @@ SEWait();
 VoicePlay("D020100300_01_000");
 MsgDisp("Kazama?","I'm not an elementary school kid
 anymore.
-.........Sorry.");
+......Sorry.");
 MsgDisp("主人公","(Ah, that voice......)");
 VoicePlay("D020100300_01_010");
 MsgDisp("Kazama","Dad.

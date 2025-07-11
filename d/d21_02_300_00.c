@@ -11,7 +11,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("ev008",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, that's............｛颯砂＊＊｝!)");
+MsgDisp("主人公","(Ah, that's.........｛颯砂＊＊｝!)");
 MsgDisp("主人公","(I wonder if he'll let me 
 interview him?)");
 MsgClose();

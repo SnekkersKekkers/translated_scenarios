@@ -34,7 +34,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChCheek(7,7);
 VoicePlay("B070700001_07_570");
-MsgDisp("Mikage","............
+MsgDisp("Mikage",".........
 When did you learn those skills?
 You're getting too tough.");
 MsgDisp("主人公","...Phew.

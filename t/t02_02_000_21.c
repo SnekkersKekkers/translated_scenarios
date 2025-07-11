@@ -62,7 +62,7 @@ StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020200021_02_070");
 MsgDisp("Sassa","Look,
-this way it'll be just right.........");
+this way it'll be just right......");
 VoicePlay("T020200021_02_080");
 MsgDisp("Sassa","......I love you.");
 StlEffect(1,1,60);
