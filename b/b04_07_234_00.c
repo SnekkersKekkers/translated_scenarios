@@ -27,7 +27,7 @@ This is pretty intense.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040723400_07_020");
-    MsgDisp("Mikage","We've been blessed with Miss Serious 
+    MsgDisp("Mikage","We've been blessed with Miss Diligent 
 again today.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

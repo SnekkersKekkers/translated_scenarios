@@ -40,7 +40,7 @@ For me, I want a smoothie.");
     VoicePlay("F010700005_07_040");
     MsgDisp("Mikage","Hey.
 Where'd you learn that technique, 
-Miss Serious? Come on, let's go.");
+Miss Diligent? Come on, let's go.");
     MsgDisp("主人公","Oo～kay.");
     break ;
     default :

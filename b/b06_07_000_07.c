@@ -9,6 +9,6 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B060700007_07_000");
-MsgDisp("Mikage","There's no need for thanks, Miss Serious.
+MsgDisp("Mikage","There's no need for thanks, Miss Diligent.
 I'm just enjoying myself as I please.");
 MsgDispSksp(0);

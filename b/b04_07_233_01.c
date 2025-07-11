@@ -36,7 +36,7 @@ of us suffering, right?");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040723301_07_030");
-    MsgDisp("Mikage","Don't pull your Miss Serious 
+    MsgDisp("Mikage","Don't pull your Miss Diligent 
 side out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

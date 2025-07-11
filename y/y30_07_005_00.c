@@ -91,7 +91,7 @@ MsgDisp("","When I see that face—— These are the
 words that come out naturally.");
 MsgClear();
 VoicePlay("Y300700500_07_050");
-MsgDisp("Mikage","\"Yoo, Miss Serious.\"");
+MsgDisp("Mikage","\"Yoo, Miss Diligent.\"");
 BGMStop();
 MsgClear();
 MsgClose();

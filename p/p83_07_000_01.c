@@ -28,7 +28,7 @@ Did you need something?");
     ChMotion(7,3);
     VoicePlay("P830700001_07_010");
     MsgDisp("Mikage","That's right, I am asking for
-the hard working Miss Serious, alone.");
+the hard working Miss Diligent, alone.");
     MsgDisp("主人公","Yes...?");
     VoicePlay("P830700001_46_000");
     MsgDisp("School Girl A","Um, excuse me～ But we don't have enough
@@ -71,7 +71,7 @@ Did you want something?");
     ChMotion(7,1);
     VoicePlay("P830700001_07_040");
     MsgDisp("Mikage","I'm visiting you on the battlefield.
-I came to talk to Miss Serious.");
+I came to talk to Miss Diligent.");
     MsgDisp("主人公","Hehe.
 But I'm a bit busy right no——");
     VoicePlay("P830700001_46_010");

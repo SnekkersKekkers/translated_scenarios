@@ -16,7 +16,7 @@ disappointing I'll have to eat them
 myself. I wanted to eat them with
 someone who would give a good
 reaction....");
-MsgDisp("","Alright, I'll treat Miss Serious.");
+MsgDisp("","Alright, I'll treat Miss Diligent.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
