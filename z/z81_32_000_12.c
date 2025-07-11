@@ -1,18 +1,18 @@
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200012_32_000");
-MsgDisp("Vice Principal Himuro","Skinskip is divided into five areas.
+MsgDisp("V.P. Himuro","Skinskip is divided into five areas.
 Head, eyes, mouth, body, and arms.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200012_32_010");
-MsgDisp("Vice Principal Himuro","Your feelings will be conveyed
+MsgDisp("V.P. Himuro","Your feelings will be conveyed
 differently depending on the area.
 What I mean by this, I'm sure you know.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200012_32_020");
-MsgDisp("Vice Principal Himuro","These are the basics of the basics.
+MsgDisp("V.P. Himuro","These are the basics of the basics.
 Do you understand thus far?");
 MsgSel("Yes, sir!","Please explain again!");
 switch (MsgSelRsltGet()){

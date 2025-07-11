@@ -32,7 +32,7 @@ ChMotion(7,4);
 EnvStop();
 EnvPlay("SE_ENV_BG_EV004_CO0");
 VoicePlay("Q010703200_32_000");
-MsgDisp("Vice Principal Himuro","Be quiet you all!
+MsgDisp("V.P. Himuro","Be quiet you all!
 It's long past lights out!");
 ChEye(7,5);
 ChMouth(7,0);
@@ -58,11 +58,11 @@ can't see anything......)");
 	MsgDisp("主人公","(Ooh, they're so close......
 Teachers, please hurry up and leave! ∈)");
 	VoicePlay("Q010703200_32_010");
-	MsgDisp("Vice Principal Himuro","You all are high school students, do you
+	MsgDisp("V.P. Himuro","You all are high school students, do you
 have no self awareness? Prepare for
 tomorrow and go to sleep quickly.");
 	VoicePlay("Q010703200_32_020");
-	MsgDisp("Vice Principal Himuro","It seems Mikage
+	MsgDisp("V.P. Himuro","It seems Mikage
 lacks self awareness as a teacher.
 Come here!");
 	VoicePlay("Q010703200_07_040");
@@ -82,11 +82,11 @@ Right now, our bodies are touching...!)");
 	MsgDisp("主人公","(You can hear my heart beating...
 Teachers, please hurry up and leave! ∈)");
 	VoicePlay("Q010703200_32_030");
-	MsgDisp("Vice Principal Himuro","Good grief......
+	MsgDisp("V.P. Himuro","Good grief......
 I have to give the same speech every year.
 I want you to put yourselves in my shoes. ");
 	VoicePlay("Q010703200_32_040");
-	MsgDisp("Vice Principal Himuro","...And you. Mikage, I'd like to have a
+	MsgDisp("V.P. Himuro","...And you. Mikage, I'd like to have a
 good chat with you. Come here!");
 	VoicePlay("Q010703200_07_050");
 	MsgDisp("Mikage","Y-Yes, sir.");
@@ -105,11 +105,11 @@ They feel so close......)");
 	MsgDisp("主人公","(Ooh, I can't move!
 Teachers, please leave already～∈)");
 	VoicePlay("Q010703200_32_050");
-	MsgDisp("Vice Principal Himuro","Jeez......If they have this much energy,
+	MsgDisp("V.P. Himuro","Jeez......If they have this much energy,
 they should use it to write a report. And
 then—");
 	VoicePlay("Q010703200_32_060");
-	MsgDisp("Vice Principal Himuro","Mikage, I want you to come with me.");
+	MsgDisp("V.P. Himuro","Mikage, I want you to come with me.");
 	VoicePlay("Q010703200_07_060");
 	MsgDisp("Mikage","Y-Yes.");
 	SEPlay("EV_SE_738");

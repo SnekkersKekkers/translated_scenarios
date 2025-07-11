@@ -13,20 +13,20 @@ back from succeeding...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P553200001_32_010");
-MsgDisp("Vice Principal Himuro","Do you think so?");
+MsgDisp("V.P. Himuro","Do you think so?");
 MsgDisp("主人公","Yes.");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("P553200001_32_020");
-MsgDisp("Vice Principal Himuro","Good.
+MsgDisp("V.P. Himuro","Good.
 If that's how you feel, 
 there's a future for you.");
 MsgDisp("主人公","Eh?");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P553200001_32_030");
-MsgDisp("Vice Principal Himuro","Your thoughts are your assets. How you
+MsgDisp("V.P. Himuro","Your thoughts are your assets. How you
 decide to use them, is already the
 beginning of the next battle.");
 MsgDisp("主人公","Yes!");

@@ -82,7 +82,7 @@ BGMStop();
 Wait(120,0);
 BGOpen("ad721",0);
 VoicePlay("Y300700200_32_000");
-MsgDisp("Vice Principal Himuro","\"Mikage-sensei...
+MsgDisp("V.P. Himuro","\"Mikage-sensei...
 come here.\"");
 VoicePlay("Y300700200_07_040");
 MsgDisp("Mikage","\"Ah, yes.
@@ -96,7 +96,7 @@ SEWait();
 EnvPlay("SE_ENV_BG_SC300_CS0",0.5,0.5);
 ScrFadeIn(0);
 VoicePlay("Y300700200_32_010");
-MsgDisp("Vice Principal Himuro","\"\"The school play is the highlight of
+MsgDisp("V.P. Himuro","\"\"The school play is the highlight of
 the cultural festival. Respecting the
 feelings of your students, make a
 decision Mikage-sensei.\"");
@@ -106,7 +106,7 @@ MsgDisp("","I never thought Vice Principal
 Himuro would push me like this.");
 MsgClear();
 VoicePlay("Y300700200_32_020");
-MsgDisp("Vice Principal Himuro","\"I have experience with this too. And
+MsgDisp("V.P. Himuro","\"I have experience with this too. And
 such, now I have no regrets of it.\"");
 VoicePlay("Y300700200_07_060");
 MsgDisp("Mikage","\"Eh? Vice Principal Himuro was in a
@@ -116,7 +116,7 @@ guard down a little, as if he was
 reminiscing about the past.");
 MsgClear();
 VoicePlay("Y300700200_32_030");
-MsgDisp("Vice Principal Himuro","Talk with it carefully with your 
+MsgDisp("V.P. Himuro","Talk with it carefully with your 
 students and make decision.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ScrFadeOut(0);

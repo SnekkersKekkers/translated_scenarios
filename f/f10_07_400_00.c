@@ -8,11 +8,11 @@ MsgDisp("Mikage","I'm very sorry.
 From now on, I'll be more careful...");
 MsgDisp("主人公","(Eh, that voice just now...｛御影＊＊｝?)");
 VoicePlay("F100740000_32_000");
-MsgDisp("Vice Principal Himuro","Mikage-sensei, you underestimate yourself.");
+MsgDisp("V.P. Himuro","Mikage-sensei, you underestimate yourself.");
 VoicePlay("F100740000_07_010");
 MsgDisp("Mikage","Really?");
 VoicePlay("F100740000_32_010");
-MsgDisp("Vice Principal Himuro","Hm?
+MsgDisp("V.P. Himuro","Hm?
 There's still someone here.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -29,7 +29,7 @@ MsgDisp("主人公","Yes...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740000_32_020");
-MsgDisp("Vice Principal Himuro","It seems that Mikage-sensei was just
+MsgDisp("V.P. Himuro","It seems that Mikage-sensei was just
 waiting for the students to finish their
 class duties. ...My complaint was off the
 mark.");
@@ -40,7 +40,7 @@ ChMotion(7,2);
 VoicePlay("F100740000_07_030");
 MsgDisp("Mikage","…………");
 VoicePlay("F100740000_32_030");
-MsgDisp("Vice Principal Himuro","However, please refrain from 
+MsgDisp("V.P. Himuro","However, please refrain from 
 coming into the classroom dressed 
 like that. That is all.");
 MsgClose();

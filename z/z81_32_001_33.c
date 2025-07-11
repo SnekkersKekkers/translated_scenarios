@@ -1,5 +1,5 @@
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200133_32_000");
-MsgDisp("Vice Principal Himuro","A light touch on my arm is all
+MsgDisp("V.P. Himuro","A light touch on my arm is all
 you need for a glance.");

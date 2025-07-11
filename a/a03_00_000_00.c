@@ -15,19 +15,19 @@ Next up is the vice principal.
 Please give him a warm welcome.");
 BGOpen("sc400",0);
 VoicePlay("A030000000_32_000");
-MsgDisp("Vice Principal Himuro","I'm Vice Principal Himuro.
+MsgDisp("V.P. Himuro","I'm Vice Principal Himuro.
 After hearing the principal's admission 
 speech, you are now officially students 
 of \"Habataki High School\".");
 VoicePlay("A030000000_32_010");
-MsgDisp("Vice Principal Himuro","You were destined to meet here, 
+MsgDisp("V.P. Himuro","You were destined to meet here, 
 to work hard and encourage each other, 
 to bring each other up. You need to 
 train your wings so that in three years 
 time, you are able to fly away
 from this school fiercely.");
 VoicePlay("A030000000_32_020");
-MsgDisp("Vice Principal Himuro","We the teachers and staff
+MsgDisp("V.P. Himuro","We the teachers and staff
 are proud to enlighten you, and it is 
 our intention to do our very best——");
 MsgDisp("主人公","(Vice principal Himuro......

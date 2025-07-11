@@ -72,7 +72,7 @@ MsgDisp("主人公","∋");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("F100610002_32_010");
-MsgDisp("Vice Principal Himuro","I will be making a sudden home visit
+MsgDisp("V.P. Himuro","I will be making a sudden home visit
 and then a parent-teacher meeting today.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -82,7 +82,7 @@ MsgDisp("Himuro","Eh...");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("F100610002_32_020");
-MsgDisp("Vice Principal Himuro","No objections will be accepted.
+MsgDisp("V.P. Himuro","No objections will be accepted.
 Wait in front of the staff room at 4pm.
 That is all.");
 MsgClose();

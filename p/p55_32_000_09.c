@@ -13,20 +13,20 @@ I didn't practice enough...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P553200009_32_010");
-MsgDisp("Vice Principal Himuro","Is that right.
+MsgDisp("V.P. Himuro","Is that right.
 Then, what will you do?");
 MsgDisp("主人公","Ummm...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P553200009_32_020");
-MsgDisp("Vice Principal Himuro","The song performed today, 
+MsgDisp("V.P. Himuro","The song performed today, 
 'Fourth・Heart' has several 
 different interpretations.");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("P553200009_32_030");
-MsgDisp("Vice Principal Himuro","With the hope of bringing harmony into
+MsgDisp("V.P. Himuro","With the hope of bringing harmony into
 the hearts of first years, second years
 and third years and alumnis, 
 I waved my conductor baton.");
@@ -35,14 +35,14 @@ I inconvenienced everyone...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P553200009_32_040");
-MsgDisp("Vice Principal Himuro","I see..
+MsgDisp("V.P. Himuro","I see..
 If that is true, then the first thing you
 should do is to not be disspirited 
 by yourself.");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("P553200009_32_050");
-MsgDisp("Vice Principal Himuro","Come join your hearts with 
+MsgDisp("V.P. Himuro","Come join your hearts with 
 the juniors who watched you from behind, 
 and the friends you walked together with. ");
 MsgDisp("主人公","Yes...!");

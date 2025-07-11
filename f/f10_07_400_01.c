@@ -38,7 +38,7 @@ voice, so...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740001_32_020");
-MsgDisp("Vice Principal Himuro","...I'm not scolding your 
+MsgDisp("V.P. Himuro","...I'm not scolding your 
 Mikage-sensei. Please relax.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -57,7 +57,7 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("F100740001_32_030");
-MsgDisp("Vice Principal Himuro","Haa... I
+MsgDisp("V.P. Himuro","Haa... I
 was definitely praising you.");
 MsgDisp("主人公","Eh∋");
 ChEye(7,2);
@@ -69,7 +69,7 @@ MsgDisp("主人公","Ah, I'm sorry.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740001_32_040");
-MsgDisp("Vice Principal Himuro","You're not my ideal
+MsgDisp("V.P. Himuro","You're not my ideal
 image of a teacher...");
 ChEye(7,0);
 ChMouth(7,4);
@@ -81,7 +81,7 @@ ChEye(32,1);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("F100740001_32_050");
-MsgDisp("Vice Principal Himuro","It's nothing.
+MsgDisp("V.P. Himuro","It's nothing.
 My apologies.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

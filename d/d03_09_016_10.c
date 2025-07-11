@@ -8,7 +8,7 @@ VoicePlay("D030901610_40_000");
 MsgDisp("Male Student A","Yo, heroine!
 Nice work!");
 VoicePlay("D030901610_48_000");
-MsgDisp("Woman Apprentice A","The play was really amazing～!
+MsgDisp("Female Student A","The play was really amazing～!
 The story had me captivated!");
 MsgDisp("主人公","Thank you!");
 ChEye(9,0);
