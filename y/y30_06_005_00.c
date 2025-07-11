@@ -96,8 +96,8 @@ MsgDisp("","The importance and value of sharing
 time—— that was something taught to
 be completely by her.");
 MsgDisp("","When I told her about my committee
-activities. Just as I had intended, it
-became a topic that would reassure
+activities. Just as I had intended,
+it became a topic that would reassure
 her.");
 MsgClear();
 VoicePlay("Y300600500_06_010");

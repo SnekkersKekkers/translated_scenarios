@@ -15,8 +15,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, this accessory is cute! They're already
-coming out with summer line-up.");
+MsgDisp("主人公","Ah, this accessory is cute! They're
+already coming out with summer line-up.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);

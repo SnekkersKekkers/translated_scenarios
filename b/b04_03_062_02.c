@@ -76,7 +76,8 @@ more careful so I don't put you in danger.");
         ChMotion(3,3);
         VoicePlay("B040306202_03_060");
         MsgDisp("Honda","But you know, I have this tendency to
-charge ahead recklessly when I get excited.");
+charge ahead recklessly when I get
+excited.");
         MsgDisp("主人公","Hehe. It's one of the things 
 that makes you amazing ｛本多＊＊｝.");
         ChEye(3,0);

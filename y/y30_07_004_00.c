@@ -61,9 +61,10 @@ MsgDisp("","They're different kind of people, But
 are living daily lives that the
 average student couldn't even
 imagine.");
-MsgDisp("","I can't help but be happy that these 
+MsgDisp("","I can't help but be happy that these
 two have naturally become drawn to
-each other and developed a friendship.");
+each other and developed a
+friendship.");
 MsgClear();
 VoicePlay("Y300700400_06_020");
 MsgDisp("Himuro","\"Kojiro-sensei, 

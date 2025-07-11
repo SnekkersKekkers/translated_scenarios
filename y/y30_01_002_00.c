@@ -15,10 +15,11 @@ ScrFadeOut(0);
 BGOpen("ad121",0);
 ScrFadeIn(0);
 MsgDisp("","The first time we met was in
-kindergarten when we dug up sweet potatoes.");
+kindergarten when we dug up sweet
+potatoes.");
 MsgDisp("","It rained hard the days before so the
-soil was quite wet. We dug sweet potatoes
-and played in the mud.");
+soil was quite wet. We dug sweet
+potatoes and played in the mud.");
 MsgClear();
 MsgDisp("","I had trouble pulling
 her up from the ground.");

@@ -75,8 +75,8 @@ can keep up with ｛颯砂＊＊｝'s running?'");
         ChMouth(2,4);
         ChMotion(2,5);
         VoicePlay("B040221302_02_060");
-        MsgDisp("Sassa","There is, there is.
-Not only is there a dog that can match my speed, but I would 
+        MsgDisp("Sassa","There is, there is. Not only is there a
+dog that can match my speed, but I would
 completely lose to it too.");
         MsgDisp("主人公","Eh? Really?");
         ChEye(2,0);

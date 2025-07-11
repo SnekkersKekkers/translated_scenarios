@@ -42,8 +42,8 @@ You've got a good nose.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040709000_07_030");
-    MsgDisp("Mikage","Hmm, right～
-Well, I guess it's irresistible to insects.");
+    MsgDisp("Mikage","Hmm, right～ Well, I guess it's
+irresistible to insects.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
