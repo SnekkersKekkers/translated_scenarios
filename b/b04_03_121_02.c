@@ -83,7 +83,7 @@ since I have lots of them at home.");
         ChMotion(3,1);
         VoicePlay("B040312102_03_080");
         MsgDisp("Honda","Only that chrysalis season might be
-difficut though. It might be good, a flea
+difficult though. It might be good, a flea
 market stall. Should we run a stall
 together?");
         MsgDisp("主人公","(Lots of larvae huh...)");

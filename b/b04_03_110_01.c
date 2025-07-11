@@ -26,7 +26,7 @@ Haa, you've been captivated.");
     VoicePlay("B040311001_03_020");
     MsgDisp("Honda","Yeah, maybe.
 Because he's on a different 
-level to evryone around him.");
+level to everyone around him.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

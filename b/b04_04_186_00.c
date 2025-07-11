@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040418600_04_000");
     MsgDisp("Nanatsumori","They got the theory down.
-If it's well excecuted,
+If it's well executed,
 it feels really good!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

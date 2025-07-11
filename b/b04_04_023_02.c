@@ -84,8 +84,7 @@ You're responding with a question∈");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040402302_04_100");
-        MsgDisp("Nanatsumori","My reply is the s
-ound I just made.");
+        MsgDisp("Nanatsumori","My reply is the sound I just made.");
         MsgDisp("主人公","(The pretty sound just now is
 ｛七ツ森＊｝'s answer?
 I wonder what it means...)");

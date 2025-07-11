@@ -9,7 +9,7 @@ VoicePlay("B040822201_08_000");
 MsgDisp("Shirahane","Looking at all these things, 
 I can't help but think that it must have
 been inconvenient back then...");
-MsgSel("There was no gas or electricty back then","It's too convenient nowadays","But, I think people's hearts were richer because of that.");
+MsgSel("There was no gas or electricity back then","It's too convenient nowadays","But, I think people's hearts were richer because of that.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

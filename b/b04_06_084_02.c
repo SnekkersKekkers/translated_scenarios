@@ -66,7 +66,7 @@ That's the first time I heard that.");
         ChMotion(6,4);
         VoicePlay("B040608402_06_050");
         MsgDisp("Himuro","Then, shall I try 
-somrething stimulating?");
+something stimulating?");
         MsgDisp("主人公","Eh∋");
         ChEye(6,0);
         ChMouth(6,0);

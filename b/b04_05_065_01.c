@@ -29,7 +29,7 @@ then I am satisfied.");
     ChMotion(5,3);
     VoicePlay("B040506501_05_020");
     MsgDisp("Hiiragi","Yeah.
-My interest was also picqued by 
+My interest was also piqued by 
 the aromas of the sauces.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();

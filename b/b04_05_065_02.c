@@ -61,7 +61,7 @@ My relationship with you, as we watch it
 together each year becomes stronger.");
         MsgDisp("主人公","I see, that's right. And also your
 relationship with the theatre troupe and
-peole in the town....");
+people in the town....");
         ChEye(5,2);
         ChMouth(5,4);
         ChMotion(5,2);

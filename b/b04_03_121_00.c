@@ -43,7 +43,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,2);
     VoicePlay("B040312100_03_030");
-    MsgDisp("Honda","I can't deny recyling, but is it 
+    MsgDisp("Honda","I can't deny recycling, but is it 
 really that eco-friendly?");
     MsgDateResultDisp();
     break ;

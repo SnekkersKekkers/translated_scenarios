@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     VoicePlay("B040415101_04_010");
     MsgDisp("Nanatsumori","It's not like we came to exercise.
-I'm going to take a bit of a breaj.");
+I'm going to take a bit of a break.");
     MsgDateResultDisp();
     break ;
     case 1:

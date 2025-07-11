@@ -7,7 +7,7 @@ ChEyeOpenLevel(4,1);
 ChMouthOpenLevel(4,10);
 VoicePlay("B040402102_04_000");
 MsgDisp("Nanatsumori","Phew...");
-MsgSel("Arer you bored?","Are you sleeping properly?","That was a huge yawn!");
+MsgSel("Are you bored?","Are you sleeping properly?","That was a huge yawn!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){

@@ -89,7 +89,7 @@ That's right...");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040521202_05_090");
-        MsgDisp("Hiiragi","Were you imaginimg it just now?
+        MsgDisp("Hiiragi","Were you imagining it just now?
 A Yanosuke T-shirt.");
         MsgDisp("主人公","Ah, I was just thinking 
 what it would be like...");

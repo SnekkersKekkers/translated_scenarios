@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040322101_03_010");
-    MsgDisp("Honda","Good qustion!
+    MsgDisp("Honda","Good question!
 They used a large sleigh to carry it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

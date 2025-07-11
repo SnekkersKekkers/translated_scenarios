@@ -6,7 +6,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040224101_02_000");
 MsgDisp("Sassa","It says \"A lamb has been born\".");
-MsgSel("I want to go see it!","Is that all they're reporting..?","Do you like sheeps ｛颯砂＊＊｝?");
+MsgSel("I want to go see it!","Is that all they're reporting..?","Do you like sheep ｛颯砂＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

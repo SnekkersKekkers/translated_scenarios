@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040423502_04_000");
 MsgDisp("Nanatsumori","There were a lot of disembodied
-sould flying around on the graveyard
+souls flying around on the graveyard
 course, weren't there?");
 MsgSel("Eh...?","There were so many of them, that it was pretty well-lit","I was so scared, I didn't look that much...");
 switch (MsgSelRsltGet()){

@@ -35,7 +35,7 @@ It was just like the trailer.");
     MsgDisp("Honda","That's right.
 But thanks to that, I can talk to you
 about a lot of different things.
-But mostly crticism.");
+But mostly criticism.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

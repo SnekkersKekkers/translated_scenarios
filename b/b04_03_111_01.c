@@ -7,7 +7,7 @@ VoicePlay("B040311101_03_000");
 MsgDisp("Honda","Yep yep, 
 It's only a bit, but 
 I might be getting better.");
-MsgSel("You're improving fast!","You might be better than me...","Pride is the cuase of accidents!");
+MsgSel("You're improving fast!","You might be better than me...","Pride is the cause of accidents!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

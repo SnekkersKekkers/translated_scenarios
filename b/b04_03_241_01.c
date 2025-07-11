@@ -39,7 +39,7 @@ it's better safe than sorry!");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040324101_03_030");
-    MsgDisp("Honda","Embarassing?
+    MsgDisp("Honda","Embarrassing?
 Why is that?");
     MsgDateResultDisp();
     break ;

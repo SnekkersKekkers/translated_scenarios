@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040408102_04_000");
 MsgDisp("Nanatsumori","I don't dislike lively places, 
 but the atmosphere for cherry 
-blososm viewing is unique.");
+blossom viewing is unique.");
 MsgSel("I'd also like a place to peacefully admire them","You're a fool if you dance, and a fool if you just look on!","The cherry blossoms are different at night, right?");
 switch (MsgSelRsltGet()){
     case 0:

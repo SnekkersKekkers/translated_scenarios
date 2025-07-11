@@ -126,7 +126,7 @@ come to an end. It's over.");
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_140");
         MsgDisp("Nanatsumori","Crap.
-I don' feel like singing anynmore.
+I don' feel like singing anymore.
 Right?");
         MsgDisp("主人公","(Definitely.
 That might've been a bit 
@@ -144,7 +144,7 @@ too stimulating...)");
     ChMotion(4,0,1);
     VoicePlay("B040417002_04_150");
     MsgDisp("Nanatsumori","It's small, and tense.
-Maybe I'll get comething cold to drink.");
+Maybe I'll get something cold to drink.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

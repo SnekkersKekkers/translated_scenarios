@@ -111,7 +111,7 @@ like a prickly cactus...!)");
     VoicePlay("B040609002_06_110");
     MsgDisp("Himuro","Why do you look so triumphant?
 But, I do admit that was impressive.
-Inclusing the fact you got me interested.");
+Including the fact you got me interested.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

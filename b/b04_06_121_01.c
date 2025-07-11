@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040612101_06_000");
 MsgDisp("Himuro","...Ah, this is an
 out-of-print CD.");
-MsgSel("That's the real thrill of the flea market.","Do you like this artst?","If it's out-of-print, does that mean it's not popular?");
+MsgSel("That's the real thrill of the flea market.","Do you like this artist?","If it's out-of-print, does that mean it's not popular?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -49,7 +49,7 @@ It's a bit worrying.");
         MsgDisp("Hiiragi","Yes, I don't mind.
 That means we... are this
 \"lovey-dovey couple\", yes?");
-        MsgDisp("主人公","Lovey-dovey cuple?");
+        MsgDisp("主人公","Lovey-dovey couple?");
         ChEye(5,4);
         ChMouth(5,3);
         ChMotion(5,0);

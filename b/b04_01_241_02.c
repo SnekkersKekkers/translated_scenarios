@@ -4,7 +4,7 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040124102_01_000");
-MsgDisp("Kazama","There's always a nice breexe blowing here.");
+MsgDisp("Kazama","There's always a nice breeze blowing here.");
 MsgSel("I'm sure it feels nice for the animals too","*Sniff, sniff*, I smell something...","The windmills are spinning too");
 switch (MsgSelRsltGet()){
     case 0:
@@ -75,7 +75,7 @@ I thought that too.");
         MsgDisp("Kazama","If we stayed here, the
 sunset might dye it orange.");
         MsgDisp("主人公","Hehe.
-Such a big pinwheel could probaly
+Such a big pinwheel could probably
 grant a lot of wishes, right?");
         ChEye(1,2);
         ChMouth(1,3);

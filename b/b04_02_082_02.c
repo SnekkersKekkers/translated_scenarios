@@ -97,7 +97,7 @@ worried about something.)");
     VoicePlay("B040208202_02_100");
     MsgDisp("Sassa","That's right.
 Then, from today onwards, 
-let's call it the firely spring.");
+let's call it the firefly spring.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

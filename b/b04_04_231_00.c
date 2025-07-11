@@ -38,7 +38,7 @@ Good work to you too.");
     ChMotion(4,0,1);
     VoicePlay("B040423100_04_030");
     MsgDisp("Nanatsumori","Seriously?
-Thwat was quite enough in many ways.");
+That was quite enough in many ways.");
     MsgDateResultDisp();
     break ;
     default :

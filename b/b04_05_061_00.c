@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040506100_05_000");
 MsgDisp("Hiiragi","Haa...
 It's very hot.");
-MsgSel("Should we race out into the sea?","Let's preapare our stomachs at the beach house first!","Let's search for pretty seashells");
+MsgSel("Should we race out into the sea?","Let's prepare our stomachs at the beach house first!","Let's search for pretty seashells");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

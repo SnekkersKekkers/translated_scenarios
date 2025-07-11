@@ -25,7 +25,7 @@ VoicePlay("G020610305_06_020");
 MsgDisp("Himuro","My entrance ceremony day. 
 You must have had a bad impression of me,
 right?");
-MsgDisp("主人公","Ah, ermm......");
+MsgDisp("主人公","Ah, uhm......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

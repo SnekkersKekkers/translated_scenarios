@@ -16,7 +16,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30800_06_000");
-MsgDisp("Himuro","...Are sheeps fluffy from birth?");
+MsgDisp("Himuro","...Are sheep fluffy from birth?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -9,7 +9,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B020302135_03_010");
-MsgDisp("Honda","Ahaa, you're way ahead of the curve!
+MsgDisp("Honda","Aha, you're way ahead of the curve!
 I hope you'll teach me that!");
 MsgDisp("主人公","(Awesome, I got a compliment!
 I'm glad I checked the trends!)");

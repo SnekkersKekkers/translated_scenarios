@@ -56,7 +56,7 @@ But, in front of me is your smile.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223202_02_050");
-        MsgDisp("Sassa","I'm being attcked in a way I both like and
+        MsgDisp("Sassa","I'm being attacked in a way I both like and
 cannot stand. For 15 minutes too.");
         MsgDisp("主人公","Ehh!
 Then, what should we do next time?");

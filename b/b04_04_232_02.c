@@ -84,7 +84,7 @@ flow of this conversation just now,
         ChMotion(4,2,1);
         VoicePlay("B040423202_04_090");
         MsgDisp("Nanatsumori","Sometimes I won't understand it.
-Uour feelings, that is.");
+Your feelings, that is.");
         ChMotion(4,0,1);
         VoicePlay("B040423202_04_100");
         MsgDisp("Nanatsumori","Sometimes, having no bad intentions 

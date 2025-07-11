@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308302_03_000");
 MsgDisp("Honda","Doesn't the air temperature
 here feel two times cooler?");
-MsgSel("Seems like the fireflies are also comfortable with it","It's a mysterious spot","Maybe it's thanks to the srping water?");
+MsgSel("Seems like the fireflies are also comfortable with it","It's a mysterious spot","Maybe it's thanks to the spring water?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){
@@ -41,7 +41,7 @@ at night must be tough huh.");
         VoicePlay("B040308302_03_030");
         MsgDisp("Honda","Yep yep, nighttime is a battle for
 fireflies! In order to leave behind
-decendants, it's a battle of serious
+descendants, it's a battle of serious
 appeal.");
         ChEye(3,0);
         ChMouth(3,3);

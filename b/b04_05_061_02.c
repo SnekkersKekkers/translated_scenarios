@@ -10,7 +10,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040506102_05_000");
 MsgDisp("Hiiragi","What is that..
-that delicious smelll...");
+that delicious smell...");
 MsgSel("There are people broiling freshly caught seafood","I think it's the beach house yakisoba","MAybe I put on too much sunlotion?");
 switch (MsgSelRsltGet()){
     case 0:

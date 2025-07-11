@@ -56,7 +56,7 @@ It'll look like I own it.");
         ChMouth(3,4);
         ChMotion(3,4,1);
         VoicePlay("B040302202_03_040");
-        MsgDisp("Honda","They definitley won't pick it.");
+        MsgDisp("Honda","They definitely won't pick it.");
         MsgDisp("主人公","Maybe.
 Then what about just ｛本多＊＊｝?");
         ChEye(3,1);

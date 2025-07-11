@@ -7,7 +7,7 @@ VoicePlay("B040306102_03_000");
 MsgDisp("Honda","Looks like there's loads of people
 sunbathing on the beach instead of
 swimming.");
-MsgSel("No one's really seriously swimming.","Hagasaki beach's sand is very fine-grained.","Should we sunbathe too?");
+MsgSel("No one's really seriously swimming.","Hanegasaki beach's sand is very fine-grained.","Should we sunbathe too?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

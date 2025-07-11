@@ -30,7 +30,7 @@ it up in a word.");
     VoicePlay("B040403301_04_020");
     MsgDisp("Nanatsumori","Seriously∋
 It really does... the color, 
-the spikey parts, it
+the spiky parts, it
 really might look like me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040422101_04_000");
-MsgDisp("Nanatsumori","The eair is clear today...
+MsgDisp("Nanatsumori","The air is clear today...
 The mountains are super close.
 I should take a picture.");
 MsgSel("How about taking a picture of the sky?","How about taking a picture of the townscape?","The clouds hanging there are nice!");

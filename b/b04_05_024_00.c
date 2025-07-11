@@ -5,7 +5,7 @@ ChOpen(5,255,2,4,4,-1,-1,0,0);
 SEStop("EV_SE_517",2);
 VoicePlay("B040502400_05_000");
 MsgDisp("Hiiragi","So this is the sound of you and me...");
-MsgSel("It's a beautiful sound...","Ah, the sound of perfect affinity!","One more time in commemeration!");
+MsgSel("It's a beautiful sound...","Ah, the sound of perfect affinity!","One more time in commemoration!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323400_03_000");
 MsgDisp("Honda","Ahー, hey, it's spinning too much...");
-MsgSel("I'm excited like a kid!","I could feel the centrifrugal force","The world... is spinning...");
+MsgSel("I'm excited like a kid!","I could feel the centrifugal force","The world... is spinning...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

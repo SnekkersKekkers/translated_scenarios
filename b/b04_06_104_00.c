@@ -6,7 +6,7 @@ ChMouth(6,0);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040610400_06_000");
-MsgDisp("Himuro","This exhibition sure is an accquired taste
+MsgDisp("Himuro","This exhibition sure is an acquired taste
 huh?");
 MsgSel("I like it","It's kind of gross","Do you dislike bugs?");
 switch (MsgSelRsltGet()){

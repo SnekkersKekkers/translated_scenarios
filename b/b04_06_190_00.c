@@ -39,7 +39,7 @@ a little more effort into it.");
     ChMotion(6,4);
     VoicePlay("B040619000_06_020");
     MsgDisp("Himuro","Isn't that because
-you're lacking informaton?");
+you're lacking information?");
     MsgDateResultDisp();
     break ;
     default :

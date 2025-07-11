@@ -50,7 +50,7 @@ Let's swim. ＧＯ!");
         VoicePlay("B040406102_04_050");
         MsgDisp("Nanatsumori","Actually, If I got injured, or get a bad
 tan, It'll affect my modelling work, so
-I've been told to avoid this kinnd of
+I've been told to avoid this kind of
 thing.");
         MsgDisp("主人公","Ah... I see.
 I'm sorry for not taking

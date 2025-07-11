@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040408301_04_000");
 MsgDisp("Nanatsumori","In the summer, 
 those guys become energetic...");
-MsgSel("Shall we go looking for bus?","maybe they get power from the sun?","You need aircon in the summer after all!");
+MsgSel("Shall we go looking for bus?","Maybe they get power from the sun?","You need AC in the summer after all!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

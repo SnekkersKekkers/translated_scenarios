@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040223502_02_000");
 MsgDisp("Sassa","Surely it's foul play to scary us with
 loud noises?");
-MsgSel("Yeah, I want monsters to abide by the rules too","Seems like someone knocked something over behind the scenes","Noise? Was there...?");
+MsgSel("Yeah, I want monsters to abide by the rules too.","Seems like someone knocked something over behind the scenes.","Noise? Was there...?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223502_02_010");
-    MsgDisp("Sassa","But the fact that rules don't applie to
+    MsgDisp("Sassa","But the fact that rules don't apply to
 them, is the scary partー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -45,7 +45,7 @@ That's fine I guess.");
         ChMotion(2,0);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223502_02_030");
-        MsgDisp("Sassa","You're like this sometimes afren't you?");
+        MsgDisp("Sassa","You're like this sometimes aren't you?");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -56,7 +56,7 @@ past or carpentry tools left behind.");
         ChEyeOpenLevel(1,9);
         VoicePlay("B040122202_01_040");
         MsgDisp("Kazama","Hey, that writing that says \"XX was here!\"
-might also become an precious atrifact in
+might also become an precious artifact in
 100 years.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);

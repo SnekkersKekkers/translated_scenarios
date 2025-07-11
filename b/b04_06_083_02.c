@@ -29,7 +29,7 @@ the climate is changing.");
     ChMotion(6,4);
     VoicePlay("B040608302_06_020");
     MsgDisp("Himuro","I'm looking forward to autumn.
-I don't wamt to see you exhausted.");
+I don't want to see you exhausted.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

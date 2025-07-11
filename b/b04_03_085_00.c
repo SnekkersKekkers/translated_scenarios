@@ -33,7 +33,7 @@ hard to catch food in the water");
     ChSet(3,3);
     VoicePlay("B040308500_03_030");
     MsgDisp("Honda","Yep yep, that's right!
-There's an abundnace of spring water, 
+There's an abundance of spring water, 
 so the temperature is high.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

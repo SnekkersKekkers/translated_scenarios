@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040216000_02_010");
-    MsgDisp("Sassa","Heee,
-I think I can do that too.");
+    MsgDisp("Sassa","Ehhh, I think I can do that too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

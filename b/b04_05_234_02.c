@@ -70,7 +70,7 @@ that with anyone else.");
         ChEye(5,3);
         VoicePlay("B040523402_05_070");
         MsgDisp("Hiiragi","That expression...
-You're an honest personn.");
+You're an honest person.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523402_05_080");

@@ -97,7 +97,7 @@ they're laughing from their heart.");
         ChMouth(4,4);
         ChCheek(4,10);
         VoicePlay("B040403202_04_090");
-        MsgDisp("Nanatsumori","Just now, you were sparkkling a lot.
+        MsgDisp("Nanatsumori","Just now, you were sparkling a lot.
 So much so that I wanted to hug you.");
         MsgDisp("主人公","｛七ツ森＊｝……");
         VoiceEVSPlay(4);

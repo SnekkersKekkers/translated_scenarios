@@ -6,7 +6,7 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040221202_02_000");
-MsgDisp("Sassa","Apparrently Habataki zoo's
+MsgDisp("Sassa","Apparently Habataki zoo's
 mascot is the first park director.");
 MsgSel("He's a director that likes the spotlight huh","He's wearing wellies and carrying a bucket, right?","I think an animal would be a better mascot?");
 switch (MsgSelRsltGet()){

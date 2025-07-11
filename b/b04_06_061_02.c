@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606102_06_000");
 MsgDisp("Himuro","What is the sea to you?");
-MsgSel("That's philisophical...","A place to have fun!","A hunting ground for love▼");
+MsgSel("That's philosophical...","A place to have fun!","A hunting ground for love▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

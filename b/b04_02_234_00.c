@@ -6,7 +6,7 @@ ChOpen(2,255,4,2,0,-1,-1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223400_02_000");
 MsgDisp("Sassa","This should count as a thrill ride, right?");
-MsgSel("I'm getting excited like a kid!","I could feel the centrifrugal force","The world... is spinning...");
+MsgSel("I'm getting excited like a kid!","I could feel the centrifugal force","The world... is spinning...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

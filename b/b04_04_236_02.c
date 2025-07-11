@@ -88,7 +88,7 @@ done with the homework?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423602_04_080");
-        MsgDisp("Nanatsumori","As punishmemt for just now, 
+        MsgDisp("Nanatsumori","As punishment for just now, 
 I;ll copy all of your notes.");
         MsgDisp("主人公","Ehhh∋");
         ChEye(4,0);

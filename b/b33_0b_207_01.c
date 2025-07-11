@@ -65,7 +65,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B20701_03_020");
 MsgDisp("Honda","Ahー,that's right!
-Maybe it's cuase they're like me.");
+Maybe it's cause they're like me.");
 ChEye(4,3);
 ChMouth(4,2);
 ChEye(3,0);

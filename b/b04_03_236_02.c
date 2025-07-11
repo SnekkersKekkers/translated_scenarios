@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040323602_03_000");
 MsgDisp("Honda","That tuna man has been flocking
 around in front of us for a while.");
-MsgSel("Does he have business with｛本多＊＊｝?","Is he｛本多＊＊｝'s accquaintance?'","Does he want to dance with us?");
+MsgSel("Does he have business with｛本多＊＊｝?","Is he｛本多＊＊｝'s acquaintance?'","Does he want to dance with us?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){
@@ -39,7 +39,7 @@ business with him though?");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040323602_03_030");
-        MsgDisp("Honda","Right right, when I was in elementarty
+        MsgDisp("Honda","Right right, when I was in elementary
 school, there was a weakening tuna at an
 aquarium, so I told the caretaker.");
         ChEye(3,3);

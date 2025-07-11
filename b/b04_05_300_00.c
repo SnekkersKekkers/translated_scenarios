@@ -31,7 +31,7 @@ I'm not here very often though.");
     ChMotion(5,4);
     VoicePlay("B040530000_05_020");
     MsgDisp("Hiiragi","My room has definitely been 
-like this ince I was a child.");
+like this since I was a child.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

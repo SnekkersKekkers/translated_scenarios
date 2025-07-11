@@ -8,8 +8,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040421202_04_000");
 MsgDisp("Nanatsumori","There are bunny-ear headbands and 
-gorilla caos.");
-MsgSel("Seems like you can use them for cosplay!","This sort of thing is for children","It would be embarrassing to wear them...");
+gorilla ears.");
+MsgSel("Seems like you can use them for cosplay!","This sort of thing is for children.","It would be embarrassing to wear them...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040421202_04_010");
-    MsgDisp("Nanatsumori","It's fine for the rabbit, 
-but not the gorillaー.");
+    MsgDisp("Nanatsumori","The rabbit is fine
+but not the gorillaー");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

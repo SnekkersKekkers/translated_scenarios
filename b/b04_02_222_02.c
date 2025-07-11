@@ -7,7 +7,7 @@ ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040222202_02_000");
 MsgDisp("Sassa","Hm? \"Special Exhibition: A Large
-Compliation of Historical Documents\"?");
+Compilation of Historical Documents\"?");
 MsgSel("There's even an old debt acknowledgement","I can barely even read the dates","There's even a letter from 400 years ago");
 switch (MsgSelRsltGet()){
     case 0:

@@ -7,7 +7,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040222101_02_000");
 MsgDisp("Sassa","The stairs here are quite steep.");
-MsgSel("I'm a bit tired...","I can still keep going!","People in the olden days climed up with their kimonos huh");
+MsgSel("I'm a bit tired...","I can still keep going!","People in the olden days climbed up with their kimonos huh");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

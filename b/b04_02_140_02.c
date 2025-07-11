@@ -95,7 +95,7 @@ someone makes it way more fun.");
     ChEyeOpenLevel(2,0);
     VoicePlay("B040214002_02_090");
     MsgDisp("Sassa","Yeah, I understand it.
-Let's definiteluy come again!");
+Let's definitely come again!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

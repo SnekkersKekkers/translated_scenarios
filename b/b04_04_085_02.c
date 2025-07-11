@@ -67,7 +67,7 @@ you meant that kinda thing...");
         MsgDisp("主人公","It's a bit embarrassing but,
 I don't have any hand warmers or 
 anything like that. And ｛七ツ森＊｝
-is sensitivw ro the cold.");
+is sensitive to the cold.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);

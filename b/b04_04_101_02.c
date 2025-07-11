@@ -106,7 +106,7 @@ from that angle∋");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040410102_04_110");
-    MsgDisp("Nanatsumori","Well... yeah, actuallu.
+    MsgDisp("Nanatsumori","Well... yeah, actually.
 Can you show me how to enjoy this?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

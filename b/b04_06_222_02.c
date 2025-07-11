@@ -9,7 +9,7 @@ VoicePlay("B040622202_06_000");
 MsgDisp("Himuro","You frequently visit here; 
 is this you embodying the ethos of 
 \"Learning new things from the old?\"");
-MsgSel("Ermm....?","That's exactly it!","Do you need a reason for everything?");
+MsgSel("Uhmm....?","That's exactly it!","Do you need a reason for everything?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

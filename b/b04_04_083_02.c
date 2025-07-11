@@ -6,7 +6,7 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408302_04_000");
 MsgDisp("Nanatsumori","Haa...
-There's no poing in coming 
+There's no point in coming 
 here in the summer.");
 MsgSel("Isn't nature pretty?","It's fun because I'm with｛七ツ森＊｝","Shall we eat kakigori from the stall?");
 switch (MsgSelRsltGet()){

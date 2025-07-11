@@ -8,7 +8,7 @@ VoicePlay("B040323501_03_000");
 MsgDisp("Honda","The performance here
 changes without warning, so it's
 always tense, which is niceー.");
-MsgSel("What's changed?","It's be nice if it was alwyas the same though...","Ah, I noticed that too!");
+MsgSel("What's changed?","It's be nice if it was always the same though...","Ah, I noticed that too!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

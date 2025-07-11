@@ -6,7 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040621102_06_000");
-MsgDisp("Himuro","There are a lot of famillies here huh...");
+MsgDisp("Himuro","There are a lot of families here huh...");
 MsgSel("There are a lot of couples too?","Shall we pretend to be a family too?","The kids are cute huh?");
 switch (MsgSelRsltGet()){
     case 0:

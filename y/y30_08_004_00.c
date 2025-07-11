@@ -46,7 +46,7 @@ the cultural festival.");
 MsgClear();
 BGOpen("ad841",0);
 MsgDisp("","As I was regretfully slouchin' my
-sholders, my brother whispered in my
+shoulders, my brother whispered in my
 ear.");
 VoicePlay("Y300800400_09_000");
 MsgDisp("Kuya","\"Dai-chan, 
@@ -72,7 +72,7 @@ MsgClear();
 MsgDisp("","Everyone flabbergastedly stood
 lookin' at us brothers with their
 mouths hung open. That's what you
-call ooking like an idiot...");
+call looking like an idiot...");
 VoicePlay("Y300800400_42_030");
 MsgDisp("Male Student A","\"No, that's not really an answer...\"");
 MsgClear();

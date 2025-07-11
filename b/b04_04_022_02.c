@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040402202_04_010");
     MsgDisp("Nanatsumori","Right, right.
-No matter how youe edit it, and make
+No matter how you edit it, and make
 it beautiful, there's no sea breeze
 blowing from a photograph.");
     MsgDispSksp(1,0);

@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040215100_02_020");
     MsgDisp("Sassa","On the opposite, If it's too light, 
-I'll hurt my shoudler.");
+I'll hurt my shoulder.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

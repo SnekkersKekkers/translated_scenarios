@@ -55,7 +55,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020120000_01_760");
-MsgDisp("Kazama","I also have to thank Sosa and Inori.");
+MsgDisp("Kazama","I also have to thank Sassa and Inori.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

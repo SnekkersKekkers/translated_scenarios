@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040404400_04_000");
-    MsgDisp("Nanatsumori","There was some great bands all gatherred.
+    MsgDisp("Nanatsumori","There was some great bands all gathered.
 I was so hyped!
 My heart is still racing...");
     MsgDispSksp(1,0);

@@ -63,7 +63,7 @@ it's fine with me too.");
         ChMotion(3,4);
         VoicePlay("B040323102_03_050");
         MsgDisp("Honda","Why?
-It's becasue I want to know more
+It's because I want to know more
 ] about the things you enjoy 
 and are interested in.");
         ChEye(3,0);

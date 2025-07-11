@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040524102_05_000");
 MsgDisp("Hiiragi","Cow, horse, sheep...
 Which animal should we play with?");
-MsgSel("Let's drink freshly sueezed milk!","I want to shear sheep wool!","I want to ride a pony!");
+MsgSel("Let's drink freshly squeezed milk!","I want to shear sheep wool!","I want to ride a pony!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){

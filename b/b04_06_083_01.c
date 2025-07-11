@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040608301_06_000");
 MsgDisp("Himuro","The sunlight is strong, 
 are you alright?");
-MsgSel("I've taken perfect countermasures for sunburn!","It makes you want to eat ice cream...","｛氷室＊＊｝ is more dazzling.");
+MsgSel("I've taken perfect countermeasures for sunburn!","It makes you want to eat ice cream...","｛氷室＊＊｝ is more dazzling.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

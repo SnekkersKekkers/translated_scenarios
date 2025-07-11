@@ -35,7 +35,7 @@ original work huh?");
     ChMouth(3,4);
     VoicePlay("B040318500_03_020");
     MsgDisp("Honda","Ahー, was it that bad?
-Filming was definiteky difficult though.");
+Filming was definitely difficult though.");
     MsgDateResultDisp();
     break ;
     default :

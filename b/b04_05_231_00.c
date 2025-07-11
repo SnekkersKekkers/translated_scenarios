@@ -6,7 +6,7 @@ ChOpen(5,255,1,4,3,-1,-1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523100_05_000");
 MsgDisp("Hiiragi","Aah... this feeling of speed is
-invigoratiing. This is what comes to mind
+invigorating. This is what comes to mind
 when I think of an amusement park.");
 MsgSel("It was the best! I want to ride it more!","Uugh, that was scary...","I wanted even more thrill...");
 switch (MsgSelRsltGet()){

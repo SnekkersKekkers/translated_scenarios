@@ -76,7 +76,7 @@ can keep up with ｛颯砂＊＊｝'s running?'");
         ChMotion(2,5);
         VoicePlay("B040221302_02_060");
         MsgDisp("Sassa","There is, there is.
-Not only is therem but I would 
+Not only is there a dog that can match my speed, but I would 
 completely lose to it too.");
         MsgDisp("主人公","Eh? Really?");
         ChEye(2,0);
@@ -88,7 +88,7 @@ hour. Even the fastest humans can only do
 about 40 kilometers per hour.");
         MsgDisp("主人公","I see.
 Then if you could beat a dog, 
-｛颯砂＊＊｝ could be world championn.");
+｛颯砂＊＊｝ could be world champion.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

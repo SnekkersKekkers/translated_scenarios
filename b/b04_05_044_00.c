@@ -19,7 +19,7 @@ My ears in particular...");
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("B040504400_05_010");
-    MsgDisp("Hiiragi","Their performnace technique was
+    MsgDisp("Hiiragi","Their performance technique was
 spectacular. But...I wanted to listen to
 it more carefully.");
     MsgDispSksp(1,0);

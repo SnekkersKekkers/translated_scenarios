@@ -29,7 +29,7 @@ Animals look so much cooler at night!");
     VoicePlay("B040321102_03_020");
     MsgDisp("Honda","The animals can see you perfectly, 
 but we can't see them perfectly...
-It might be dangeorus?");
+It might be dangerous?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -64,7 +64,7 @@ but that's part of the fun.");
         VoicePlay("B040321102_03_050");
         MsgDisp("Honda","Right? You'll be surrounded by the
 countless glowing eyes of animals, and
-feel like you've bcome the prey～?");
+feel like you've become the prey～?");
         MsgDisp("主人公","Hehe.
 ｛本多＊＊｝ seems like he's enjoying it.");
         ChEye(3,0);

@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040120001_01_000");
 MsgDisp("Kazama","The weather is also nice,
 shall we go to the summit?");
-MsgSel("Let's take on a super hard course!","It does no good to understimate the winter mountains...","there's a two person sled!");
+MsgSel("Let's take on a super hard course!","It does no good to underestimate the winter mountains...","there's a two person sled!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

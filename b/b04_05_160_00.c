@@ -24,7 +24,7 @@ but I'll leave it up to you.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040516000_05_020");
-    MsgDisp("Hiiragi","Yes, if it's  aquiz I think I can do it.");
+    MsgDisp("Hiiragi","Yes, if it's a quiz I think I can do it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B040410300_04_010");
-    MsgDisp("Nanatsumori","If you understod this 
+    MsgDisp("Nanatsumori","If you understood this 
 trichromatic world, I's like to hear 
 lots more about it...");
     MsgDispSksp(1,0);

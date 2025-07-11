@@ -33,7 +33,7 @@ Forget what I just said.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602102_06_020");
-        MsgDisp("Himuro","It's not like I'm disatisfied
+        MsgDisp("Himuro","It's not like I'm dissatisfied
 with my everyday life though?");
         MsgDateResultDisp();
         break ;
@@ -90,7 +90,7 @@ can't do that at all.");
         MsgDisp("Himuro","If I could see through your thoughts,
 I wouldn't be that troubled
 in the first place. ");
-        MsgDisp("主人公","｛氷室＊＊｝, you're feeling trohbled?");
+        MsgDisp("主人公","｛氷室＊＊｝, you're feeling troubled?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

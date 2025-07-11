@@ -103,7 +103,7 @@ farm date to 100％.");
         VoicePlay("B040424102_04_110");
         MsgDisp("Nanatsumori","Alright.
 It's not like we have to do s
-omething to make it a date.");
+something to make it a date.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);

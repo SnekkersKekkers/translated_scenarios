@@ -41,7 +41,7 @@ though!");
     VoicePlay("B040203201_02_030");
     MsgDisp("Sassa","Eh, don't say such scary things......
 I guess it's true that water does
-conduct electricty. It's dangerous,
+conduct electricity. It's dangerous,
 let's go inside.");
     MsgDateResultDisp();
     break ;

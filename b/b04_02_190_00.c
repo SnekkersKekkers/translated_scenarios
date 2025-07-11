@@ -34,7 +34,7 @@ Too bad, I thought you were enjoying it.");
     ChMotion(2,4);
     VoicePlay("B040219000_02_020");
     MsgDisp("Sassa","I thought the same.
-The advertisment was amazing though.");
+The advertisement was amazing though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -32,7 +32,7 @@ I should improve a little huh?");
         ChMotion(5,0);
         VoicePlay("B040520002_05_020");
         MsgDisp("Hiiragi","Your kindness just
-now is unneccessary.");
+now is unnecessary.");
         MsgDateResultDisp();
         break ;
         case 4:

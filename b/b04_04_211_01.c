@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040421101_04_010");
     MsgDisp("Nanatsumori","Oh, same.
-I even use the silohuette of a lion's
+I even use the silhouette of a lion's
 main for reference in my work.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

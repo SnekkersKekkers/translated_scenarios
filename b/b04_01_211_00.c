@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,8);
     VoicePlay("B040121100_01_010");
     MsgDisp("Kazama","Oi oi, that's a fail
-video waiting to happpen.");
+video waiting to happen.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

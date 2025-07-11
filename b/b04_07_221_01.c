@@ -8,7 +8,7 @@ VoicePlay("B040722101_07_000");
 MsgDisp("Mikage","Habataki Castle is a typical flatland 
 castle...But that's enough for now,
 right? Shall we go inside...?");
-MsgSel("I want to look at the view a little longer","It's not clear if it's flat or a mountain","...Waargh!");
+MsgSel("I want to look at the view a little longer","It's not clear if it's flat or a mountain","...Agh!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

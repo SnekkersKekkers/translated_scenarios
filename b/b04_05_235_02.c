@@ -29,7 +29,7 @@ I'll let you experience real fear.");
     ChMotion(5,0);
     VoicePlay("B040523501_05_020");
     MsgDisp("Hiiragi","Yeah, that would be nice.
-It would be interesting to incorprorate
+It would be interesting to incorporate
 components of a ghost story into a play.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

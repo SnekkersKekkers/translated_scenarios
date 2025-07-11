@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308300_03_000");
 MsgDisp("Honda","Question!
 Where are fireflies in the daytime?");
-MsgSel("Maaybe in the water?","In the ground?","Behind the blades of grass?");
+MsgSel("Maybe in the water?","In the ground?","Behind the blades of grass?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

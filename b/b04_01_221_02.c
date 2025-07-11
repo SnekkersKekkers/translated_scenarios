@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040122102_01_000");
 MsgDisp("Kazama","There's a coin operated 
 telescope over there.");
-MsgSel("Cane you see up to Hanegasaki Beach?","My lord, let's take a look at how the people live!","There's that prank where it gets all black around your eeyes");
+MsgSel("Can you see all the way to Hanegasaki Beach?","My lord, let's take a look at how the people live!","There's that prank where it gets all black around your eyes.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -71,7 +71,7 @@ Then, you go first.");
         BGOpen("tr321",0);
         ScrFadeIn(0);
         MsgDisp("主人公","Amazing!
-Look, you can see the beautifu
+Look, you can see the beautiful
 sky and mountains");
         VoicePlay("B040122102_01_050");
         MsgDisp("Kazama","Oi, don't get so carried away");

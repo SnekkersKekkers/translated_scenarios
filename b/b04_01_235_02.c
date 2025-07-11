@@ -6,7 +6,7 @@ ChOpen(1,255,0,0,0,8,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123502_01_000");
 MsgDisp("Kazama","Apparently these sorts of places 
-attarct spirits don't they?");
+attract spirits don't they?");
 MsgSel("There's a fleeing soldier behind ｛風真＊＊｝...","Then, they wouldn't need staff would they?","Eh, i-is that so...?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -89,7 +89,7 @@ I'll give you a special hint.");
         MsgDisp("Kazama","Look closely into my eyes.
 What do you see?");
         MsgDisp("主人公","｛風真＊＊｝'s eyes...
-I can't see anythimg though.");
+I can't see anything though.");
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040123502_01_090");

@@ -21,8 +21,8 @@ MsgDisp("主人公","M-Modelling?");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110600002_35_020");
-MsgDisp("Guy","Exactly! An accquaintance's friend's
-accquaintance worked with the 
+MsgDisp("Guy","Exactly! An acquaintance's friend's
+acquaintance worked with the 
 famous Hazuki Kei you know. 
 I could help you debut too!");
 MsgDisp("主人公","Ehhh∋

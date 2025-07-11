@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     VoicePlay("B040308401_03_010");
     MsgDisp("Honda","Yep yep, It's amazing that you can't tell
-whether the autummn colours are reflected
+whether the autumn colours are reflected
 on the water's surface...or fallen leaves
 are actually floating on the water.");
     MsgDispSksp(1,0);

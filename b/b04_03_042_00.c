@@ -8,7 +8,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(4);
     ChSet(3,3,1);
     VoicePlay("B040304200_03_000");
-    MsgDisp("Honda","Yup!! That bear riding the tricyle - it 
+    MsgDisp("Honda","Yup!! That bear riding the tricycle - it 
 looked like a person was inside right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

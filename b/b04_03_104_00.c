@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040310400_03_000");
 MsgDisp("Honda","It's theorised that insects originated
 from around 400 million years ago.
-They're humanity's greeat, greaat senpai!'");
+They're humanity's great, great senpai!'");
 MsgSel("Let's go greet our senpai!","I'm might not be very good with this senpai...","I'm alright with butterflies!");
 switch (MsgSelRsltGet()){
     case 0:

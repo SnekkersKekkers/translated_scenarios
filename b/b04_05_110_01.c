@@ -31,7 +31,7 @@ concept is amazing!");
     ChMotion(5,2);
     VoicePlay("B040511001_05_020");
     MsgDisp("Hiiragi","Eh, is that so?
-I thought you wuld like it...");
+I thought you would like it...");
     MsgDateResultDisp();
     break ;
     case 2:

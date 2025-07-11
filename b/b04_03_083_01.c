@@ -9,7 +9,7 @@ MsgDisp("Honda","Hey hey, did you hear
 the rumours of this place?
 The thing where you can hear
 your companion's true thoughts.");
-MsgSel("I might want to hear｛本多＊＊｝'s true thoughts'","It's a bit scary...","Shhー, try being a bit quiter.");
+MsgSel("I might want to hear ｛本多＊＊｝'s true thoughts.","It's a bit scary...","Shhー, try being a bit quieter.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

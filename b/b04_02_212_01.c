@@ -7,8 +7,8 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040221201_02_000");
 MsgDisp("Sassa","What's this?
-Headbads with animal ears?");
-MsgSel("｛颯砂＊＊｝ suits a thoroughbred horse.","Should I try on the bunny ear one?","I think｛颯砂＊＊｝ would suit cat ears?");
+Headbands with animal ears?");
+MsgSel("A horse would suit ｛颯砂＊＊｝.","Should I try on the bunny ears?","I think the cat ears would suit ｛颯砂＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -45,7 +45,7 @@ L-Like a bunny girl?");
     ChMotion(2,4);
     ChEyeOpenLevel(2,8);
     VoicePlay("B040221201_02_030");
-    MsgDisp("Sassa","There's no way I'm cute?
+    MsgDisp("Sassa","There's no way that's cute.
 Ah, you just want to laugh huh?");
     MsgDateResultDisp();
     break ;

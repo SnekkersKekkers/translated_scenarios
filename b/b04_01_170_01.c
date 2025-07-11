@@ -6,7 +6,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040117001_01_000");
 MsgDisp("Kazama","It looks like you're enjoying singing?");
-MsgSel("It woukld be a pity if｛風真＊＊｝ didn't also sing.","My throat is parched!","I'm kinda short of breath?");
+MsgSel("It would be a pity if｛風真＊＊｝ didn't also sing.","My throat is parched!","I'm kinda short of breath?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -6,7 +6,7 @@ ChOpen(6,255,0,0,0,-1,-1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623400_06_000");
 MsgDisp("Himuro","...What a child's trick.");
-MsgSel("I got excited like a child!","We were able to experience the centrifrugal force","The world...is spinning...");
+MsgSel("I got excited like a child!","We were able to experience the centrifugal force","The world...is spinning...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

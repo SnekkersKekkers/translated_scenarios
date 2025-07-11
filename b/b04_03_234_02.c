@@ -59,8 +59,8 @@ it like I had just now.");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040323402_03_060");
         MsgDisp("Honda","And that's why, if it's with you, 
-it's worthwhile going anywere!");
-        MsgDisp("主人公","Hehe, then I'll invute you again.");
+it's worthwhile going anywhere!");
+        MsgDisp("主人公","Hehe, then I'll invite you again.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);
