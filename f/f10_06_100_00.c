@@ -9,7 +9,7 @@ MsgDisp("Himuro?","I don't know.
 Why don't you ask him yourself?");
 VoicePlay("F100610000_41_000");
 MsgDisp("Male Student","Don't say that, Himuroo～");
-MsgDisp("主人公","……？");
+MsgDisp("主人公","……?");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -31,8 +31,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100610000_06_030");
 MsgDisp("Himuro","He just had lots of questions
-to ask about Reichi san.");
-MsgDisp("主人公","About Reichi san?");
+to ask about Reiichi san.");
+MsgDisp("主人公","About Reiichi san?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

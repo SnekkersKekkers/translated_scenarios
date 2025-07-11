@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("B060200011_02_010");
-    MsgDisp("Sassa","Cya later then!
+    MsgDisp("Sassa","See you later then!
 Be careful on the way home, okay?");
     break ;
     case 4:

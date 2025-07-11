@@ -48,7 +48,7 @@ ChLayout(0);
 ChOpen(3,254,0,0,4,-1,-1,0,0);
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝……？");
+MsgDisp("主人公","｛本多＊＊｝……?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);

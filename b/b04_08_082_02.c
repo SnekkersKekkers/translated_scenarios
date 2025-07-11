@@ -83,7 +83,7 @@ confide in you myself.");
         VoicePlay("B040808202_08_070");
         MsgDisp("Shirahane","It's no good.
 I can't right now!");
-        MsgDisp("主人公","？");
+        MsgDisp("主人公","?");
         ChEye(8,2);
         ChMouth(8,0);
         ChMotion(8,2,1);

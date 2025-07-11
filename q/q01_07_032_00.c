@@ -6,7 +6,7 @@ SEWait();
 MsgClose();
 ChOpen(7,254,0,0,0,-1,-1,0,0);
 VoicePlay("Q010703200_07_000");
-MsgDisp("Mikage","Alright, fun's over--!");
+MsgDisp("Mikage","Alright, fun's over—!");
 VoicePlay("Q010703200_42_000");
 MsgDisp("Male Student","Crap, it's Mikage-sensei!");
 ChEye(7,0);
@@ -51,7 +51,7 @@ switch (MsgSelRsltGet()){
 	case 0:
 	SEPlay("EV_SE_516",0,1);
 	SEWait();
-	MsgDisp("主人公","(Wah-- There's someone inside the
+	MsgDisp("主人公","(Wah— There's someone inside the
 closet!)");
 	MsgDisp("主人公","(Who could it be...... It's too dark, I
 can't see anything......)");
@@ -107,7 +107,7 @@ Teachers, please leave already～∈)");
 	VoicePlay("Q010703200_32_050");
 	MsgDisp("Vice Principal Himuro","Jeez......If they have this much energy,
 they should use it to write a report. And
-then--");
+then—");
 	VoicePlay("Q010703200_32_060");
 	MsgDisp("Vice Principal Himuro","Mikage, I want you to come with me.");
 	VoicePlay("Q010703200_07_060");

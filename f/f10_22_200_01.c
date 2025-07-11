@@ -6,7 +6,7 @@ MsgDisp("Goro?","Oh my!
 I wonder why Ikkaku won't wear it?!");
 VoicePlay("F102220001_22_000");
 MsgDisp("Hikaru?","Ahー...
-Oji-sama's fashion designs only suit
+Uncle's fashion designs only suit
 a select few after all... ");
 MsgDisp("主人公","(That voice...)");
 MsgClose();
@@ -28,7 +28,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102220001_22_010");
 MsgDisp("Hikaru","Nope～!
-Oji-sama's new designs are for men.
+Uncle's new designs are for men.
 He gets his friend, the chairman 
 to try it on every time.");
 ChEye(31,1);
@@ -73,7 +73,7 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("F102220001_22_040");
 MsgDisp("Hikaru","No～......
-I can see why Oji-sama is the best
+I can see why Uncle is the best
 in the world. No one else would
 have thought of that.");
 MsgDisp("主人公","(Maybe I would've liked to see

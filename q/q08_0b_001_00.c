@@ -58,7 +58,7 @@ ChMotion(3,1,1);
 VoicePlay("Q080B00100_03_010");
 MsgDisp("Honda","Yay!
 We're all going together for the next
-free time too, right?");
+free period too, right?");
 ChMotion(4,0,1);
 VoicePlay("Q080B00100_04_030");
 MsgDisp("Nanatsumori","No objection.");

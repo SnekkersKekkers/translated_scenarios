@@ -51,7 +51,7 @@ StlOpen("ev_02_16");
 StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝…？");
+MsgDisp("主人公","｛颯砂＊＊｝…?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_040");

@@ -23,7 +23,7 @@ I'll put two back.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 MsgDisp("主人公","(Wow... there's someone 
-lending out 20 books.)");
+borrowing 20 books.)");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -32,7 +32,7 @@ ChOpen(2,254,0,0,4,-1,-1,0,0);
 VoicePlay("F100210000_02_010");
 MsgDisp("Sassa","Yo, are you borrowing a book too?");
 MsgDisp("主人公","Yeah.
-... you too, ｛颯砂＊＊｝?");
+...You too, ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -55,9 +55,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100210000_02_040");
-MsgDisp("Sassa","Nice.
-But, it is popular, so if you don't
-hurry, someone else will borrow it.");
+MsgDisp("Sassa","Nice. Since they're popular, you need to
+hurry or someone else will borrow it.");
 MsgDisp("主人公","Yeah!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -69,13 +68,13 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
 VoicePlay("F100210000_02_060");
-MsgDisp("Sassa","I've returned two books,
-so I would like that please.");
+MsgDisp("Sassa","I've returned two books, so I would like
+these please.");
 VoicePlay("F100210000_46_010");
 MsgDisp("Librarian","Yes, 20 books then.
 The loan period is two weeks.");
 MsgDisp("主人公","(Ehhh∋
-so the one who borrowed 20 books
+So the one who borrowed 20 books
 was ｛颯砂＊＊｝!)");
 MsgClose();
 ScrFadeOut(0);

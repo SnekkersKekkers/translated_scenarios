@@ -24,9 +24,10 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_020");
-MsgDisp("Himuro","......I got separated from my brother.");
-MsgDisp("主人公","Eh...... brother ∋
-｛氷室＊＊｝, you have a younger brother?");
+MsgDisp("Himuro","......I got separated from my little
+brother.");
+MsgDisp("主人公","Eh...... brother∋
+｛氷室＊＊｝, you have a little brother?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -37,9 +38,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610100_06_040");
-MsgDisp("Himuro","We went shopping together,
-but the moment I looked away I lost
-sight of him.");
+MsgDisp("Himuro","We went shopping together, but the 
+moment I looked away I lost sight of him.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -119,8 +119,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(I'm glad he's safe......
-I also got to see what the relationship
-of ｛氷室＊＊｝ and his brother is like.)");
+MsgDisp("主人公","(I'm glad he's safe...... I also got to
+see what the relationship between
+｛氷室＊＊｝ and his brother is like.)");
 MsgClose();
 ScrFadeOut(0,0);

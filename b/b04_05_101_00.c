@@ -28,9 +28,8 @@ you taught me.");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040510100_05_020");
-    MsgDisp("Hiiragi","Come to think of it,
-I think I see it every morning.
-...Does it resemble me?");
+    MsgDisp("Hiiragi","Come to think of it, I think I see it
+every morning. ...Does it resemble me?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

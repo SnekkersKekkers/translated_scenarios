@@ -23,7 +23,7 @@ Thanks for asking me!");
     VoicePlay("Q080300000_03_010");
     MsgDisp("Honda","Really∋
 I had a lot of fun too.
-Wanna come the next free time too?");
+Wanna hang out the next free period too?");
     MsgDisp("主人公","Hehe, sure.
 Of course.");
     break ;

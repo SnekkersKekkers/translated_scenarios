@@ -45,7 +45,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600006_06_050");
-MsgDisp("Himuro","Maybe... because of Reichii?");
+MsgDisp("Himuro","Maybe... because of Reiichii?");
 MsgDisp("主人公","Now you mention it, is Vice Principal
 Himuro any good at sports?");
 ChEye(6,0);

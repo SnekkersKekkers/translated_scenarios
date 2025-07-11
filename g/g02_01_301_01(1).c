@@ -27,7 +27,7 @@ VoicePlay("G020130101_01_030");
 MsgDisp("Kazama","People I don't know well are 
 surrounding you. 
 It's kind of hard to get close.");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

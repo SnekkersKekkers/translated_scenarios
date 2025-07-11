@@ -50,7 +50,7 @@ MsgDisp("Kazama","I see......I was in England so I couldn't
 hear it, but you didn't either, huh......");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","……？");
+MsgDisp("主人公","……?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

@@ -35,7 +35,7 @@ ChMotion(5,0);
 VoicePlay("D130C00200_05_010");
 MsgDisp("Hiiragi","Yes, well to be more precise; 
 the three of us were.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -61,7 +61,7 @@ ScrFadeIn(0);
 VoicePlay("D130C00200_06_020");
 MsgDisp("Himuro","Kojiro-sensei, sorry 
 to keep you waiting.");
-MsgDisp("主人公","｛御影＊＊｝？");
+MsgDisp("主人公","｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -24,7 +24,7 @@ Are your feet okay?");
     VoicePlay("Q080500000_05_010");
     MsgDisp("Hiiragi","That's encouraging.
 If that's the case, would you mind 
-coming with me the next free time too?");
+spending the next free period with me too?");
     MsgDisp("主人公","Yes.
 Let's look around a lot too next time.");
     ChEye(5,4);
@@ -66,7 +66,7 @@ not satisfied.");
     ChMotion(5,0);
     VoicePlay("Q080500000_05_060");
     MsgDisp("Hiiragi","I want to have more fun.
-So, for the next free time——");
+So, for the next free period——");
     MsgDisp("主人公","Yeah, let's go together!");
     ChEye(5,4);
     ChMotion(5,4);

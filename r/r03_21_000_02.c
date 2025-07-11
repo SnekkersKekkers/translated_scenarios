@@ -12,7 +12,7 @@ ChMouth(21,0);
 ChMotion(21,0,1);
 ScrFadeIn(0);
 VoicePlay("R032100002_21_000");
-MsgDisp("Michiru","Come on, let's enjoy the party.
+MsgDisp("Michiru","Let's enjoy the party.
 Shall I see you later?");
 MsgDisp("主人公","Yeah!");
 MsgClose();

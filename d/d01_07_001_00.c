@@ -117,7 +117,7 @@ ChEyeOpenLevel(7,10);
 VoicePlay("D010700100_07_110");
 MsgDisp("Mikage","I have things I need to do too, just
 like Molly.");
-MsgDisp("主人公","｛御影＊＊｝……？");
+MsgDisp("主人公","｛御影＊＊｝……?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

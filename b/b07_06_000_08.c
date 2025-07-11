@@ -20,7 +20,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600000_06_450");
-MsgDisp("Himuro","...If iI had to say, 
+MsgDisp("Himuro","...If I had to say, 
 someone who isn't noisy.");
 MsgDisp("主人公","Is that so?");
 ChEye(6,0);

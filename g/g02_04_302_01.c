@@ -6,7 +6,7 @@ VoicePlay("G020430201_04_000");
 MsgDisp("Nanatsumori","Once we're born as living creatures, I
 wonder if it's possible to end it with
 just being 'friends'.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);

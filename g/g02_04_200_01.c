@@ -5,7 +5,7 @@ ChMotion(4,0);
 VoicePlay("G020420001_04_000");
 MsgDisp("Nanatsumori","There's a shy atmosphere in groups right
 now when you feel like a lone wolf.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -30,7 +30,7 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020420001_04_040");
 MsgDisp("Nanatsumori","...That's why I was thinking.");
-MsgDisp("主人公","？？");
+MsgDisp("主人公","??");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

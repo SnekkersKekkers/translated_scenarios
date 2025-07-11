@@ -44,8 +44,7 @@ If it's okay, can we go home together?");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,254,0,0,0,-1,-1,0,0);
-    MsgDisp("主人公","If it's okay,
-how about we go to a cafe?");
+    MsgDisp("主人公","If it's okay, how about we go to a cafe?");
     break ;
     case 2:
     MsgDisp("主人公","Oh, okay...

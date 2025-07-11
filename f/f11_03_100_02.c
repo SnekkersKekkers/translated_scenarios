@@ -32,7 +32,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("F110310002_03_040");
 MsgDisp("Honda","Yep, that's right.
-Well, this year--");
+Well, this year—");
 VoicePlay("F110310002_47_000");
 MsgDisp("Broadcast","The annual Quiz Haircut Battle is outside
 the school gate this year. If you want to 

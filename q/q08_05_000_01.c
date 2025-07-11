@@ -22,7 +22,7 @@ Thank you for inviting me.");
     VoicePlay("Q080500001_05_020");
     MsgDisp("Hiiragi","So, as a return.
 Would you like to join me for the next 
-free time?");
+free period?");
     MsgDisp("主人公","Yes, of course.
 Let's meet up here the day after 
 tomorrow!");
@@ -38,7 +38,7 @@ I'll be waiting here.");
     ScrFadeIn(0);
     VoicePlay("Q080500001_05_040");
     MsgDisp("Hiiragi","It was fun.
-It was thanks to you calling out to me.");
+It was thanks to you reaching out to me.");
     MsgDisp("主人公","It's my pleasure!
 Thanks, it was fun.");
     ChEye(5,3);
@@ -49,9 +49,9 @@ right?");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q080500001_05_060");
-    MsgDisp("Hiiragi","This time from me......
-May I accoumpany you the next free time
-also?");
+    MsgDisp("Hiiragi","This time from me to you......
+May I continue to accompany you during 
+the next free period?");
     MsgDisp("主人公","Hehe.
 Yes, of course!");
     break ;
@@ -72,7 +72,7 @@ I've gotten used to the free time.");
     ChMotion(5,0);
     VoicePlay("Q080500001_05_080");
     MsgDisp("Hiiragi","I'd like to invite you again. Would you
-like to join me again for free time
+like to join me again for the free period
 tomorrow?");
     MsgDisp("主人公","Of course!
 I'm looking forward to learning what

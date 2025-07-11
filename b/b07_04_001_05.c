@@ -32,7 +32,7 @@ ChMotion(4,2,1);
 VoicePlay("B070400001_04_400");
 MsgDisp("Nanatsumori","We're healthy boys after all, 
 you know?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);

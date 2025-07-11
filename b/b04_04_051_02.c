@@ -111,7 +111,7 @@ Hm?");
         VoicePlay("B040405102_04_120");
         MsgDisp("Nanatsumori","It's hard to exhibit
 self-restraint.");
-        MsgDisp("主人公","(？？？)");
+        MsgDisp("主人公","(???)");
         break ;
         default :
         DbgAssert(1);

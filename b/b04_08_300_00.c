@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040830000_08_010");
     MsgDisp("Shirahane","Thanks.
 You said you were coming, so I got fired
-up in cleaning--! Hehe!");
+up in cleaning—! Hehe!");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

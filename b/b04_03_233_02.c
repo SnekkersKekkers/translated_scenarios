@@ -59,7 +59,7 @@ We jumped from that height right?");
         MsgDisp("Honda","...Nope, I've come 
 back to this side.");
         MsgDisp("主人公","Watching others jump
-too is scary righT?");
+too is scary right?");
         ChMotion(3,0);
         VoicePlay("B040323302_03_060");
         MsgDisp("Honda","Yeah, that might be even scarier.");

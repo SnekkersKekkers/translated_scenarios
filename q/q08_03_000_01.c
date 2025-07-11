@@ -36,7 +36,7 @@ you. Thanks for inviting me!");
     ChMotion(3,1,1);
     VoicePlay("Q080300001_03_030");
     MsgDisp("Honda","
-So, for the next free time, wanna come 
+So, for the next free period, wanna come 
 together?　With you, I'm sure we can 
 experience more than we can expected!");
     MsgDisp("主人公","Hehe, yeah!");
@@ -60,7 +60,7 @@ Thanks!");
     ChMotion(3,4,1);
     VoicePlay("Q080300001_03_060");
     MsgDisp("Honda","So, I'll start this time.
-The next free time, Wanna go around 
+The next free period, wanna walk around 
 together again?");
     MsgDisp("主人公","Yeah!　Of course.");
     break ;

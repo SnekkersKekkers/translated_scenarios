@@ -81,7 +81,7 @@ Thank you!");
     VoicePlay("P730400001_04_070");
     MsgDisp("Nanatsumori","That's...
 The grown-up charm is strong, and...");
-    MsgDisp("主人公","？");
+    MsgDisp("主人公","?");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(4,3);

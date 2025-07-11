@@ -36,7 +36,7 @@ ChMotion(4,2);
 VoicePlay("G110400400_04_020");
 MsgDisp("Nanatsumori","Yeah.
 For people like you.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400400_04_030");

@@ -30,7 +30,7 @@ ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("F110110000_01_020");
 MsgDisp("Kazama","Um, well, I'm not at Simon today,
-see, it's a school festival--");
+see, it's a school festival—");
 VoicePlay("F110110000_45_000");
 MsgDisp("Girl","Oh, yay!
 Big bro Simon, I found you!");

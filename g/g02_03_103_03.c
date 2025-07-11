@@ -28,7 +28,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("G020310303_03_030");
 MsgDisp("Honda","Haa......");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChMotion(3,4,1);
 VoicePlay("G020310303_03_040");
 MsgDisp("Honda","Maybe I'm really lucky to be able to have 

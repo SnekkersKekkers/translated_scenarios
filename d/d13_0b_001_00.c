@@ -85,7 +85,7 @@ VoicePlay("D130B00100_03_020");
 MsgDisp("Honda","Being childhood friends you
 just know each other's
 preferences after all, huhー.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

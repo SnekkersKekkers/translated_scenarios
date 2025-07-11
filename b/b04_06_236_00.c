@@ -12,7 +12,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040623600_06_000");
 MsgDisp("Himuro","What a peculiar world...");
-MsgSel("It was worth seeing, huh!","A dream world...","There was a staggering number of illuminations");
+MsgSel("That was worth seeing, huh!","A dream world...","There was a staggering number of lights.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -20,10 +20,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("B040623600_06_010");
-    MsgDisp("Himuro","Definitely.
-This is surrealism you won't see 
-at other theme parks.
-You can't help but fix your eye on it");
+    MsgDisp("Himuro","Definitely. This is surrealism you won't
+see in other theme parks. It's hard to
+look away from it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

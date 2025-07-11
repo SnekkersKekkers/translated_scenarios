@@ -49,7 +49,7 @@ VoicePlay("G020440001_04_060");
 MsgDisp("Nanatsumori","Well, for my case, my older sister
 made me wear cute clothes when I was
 little...");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);

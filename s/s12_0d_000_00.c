@@ -28,7 +28,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("S120D00000_21_010");
-MsgDisp("Michiru","Happy New Year");
+MsgDisp("Michiru","Happy New Year.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

@@ -33,7 +33,7 @@ ChCheek(6,5);
 VoicePlay("B330A20701_06_000");
 MsgDisp("Himuro","...Yeah.");
 ChEyeOpenLevel(1,-1);
-MsgDisp("主人公","……？");
+MsgDisp("主人公","……?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

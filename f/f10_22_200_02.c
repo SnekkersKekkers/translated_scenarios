@@ -32,7 +32,7 @@ ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F102220002_22_010");
 MsgDisp("Hikaru","Ahaha!
-Oji-sama is still plenty young～
+Uncle is still plenty young～
 Right, Mari.");
 MsgDisp("主人公","Definitely.
 How old are you anyways, Goro-sensei?");
@@ -69,7 +69,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F102220002_22_040");
 MsgDisp("Hikaru","Right, right.
-Age is a taboo topic for Oji-samaー.");
+Age is a taboo topic for Uncleー.");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,0,1);

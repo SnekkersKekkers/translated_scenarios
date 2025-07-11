@@ -84,7 +84,7 @@ anything is fine for me.");
         VoicePlay("B040115102_01_070");
         MsgDisp("Kazama","...Drop it.
 A fancy dinner is fine.");
-        MsgDisp("主人公","((｛風真＊＊｝,
+        MsgDisp("主人公","(｛風真＊＊｝,
 Even if you didn't get a perfect score, 
 the prize is a travel voucher?)");
         break ;

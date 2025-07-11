@@ -19,7 +19,7 @@ VoicePlay("F112210002_22_020");
 MsgDisp("Hikaru","Because last year, while we talked love,
 the school festival ended!
 We couldn't look around at all.");
-MsgDisp("主人公","R--right.");
+MsgDisp("主人公","R—right.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

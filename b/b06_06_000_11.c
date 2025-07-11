@@ -13,7 +13,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B060600011_06_010");
-    MsgDisp("Himuro","Cya.");
+    MsgDisp("Himuro","Bye.");
     break ;
     case 4:
     case 5:

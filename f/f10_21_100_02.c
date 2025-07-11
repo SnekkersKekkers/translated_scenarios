@@ -81,7 +81,7 @@ MsgDisp("Michiru","It's really painful to feel sad alone.
 Marie, let's worry together 
 and talk about it?");
 MsgDisp("主人公","(She's really emotionally invested 
-in this manga.｛みちる＊｝ really 
+in this manga. ｛みちる＊｝ really 
 is a girly girl at heart.)");
 BGMStop();
 MsgClose();

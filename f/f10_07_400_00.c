@@ -8,8 +8,7 @@ MsgDisp("Mikage","I'm very sorry.
 From now on, I'll be more careful...");
 MsgDisp("主人公","(Eh, that voice just now...｛御影＊＊｝?)");
 VoicePlay("F100740000_32_000");
-MsgDisp("Vice Principal Himuro","Mikage-sensei, 
-you underestimate yourself.");
+MsgDisp("Vice Principal Himuro","Mikage-sensei, you underestimate yourself.");
 VoicePlay("F100740000_07_010");
 MsgDisp("Mikage","Really?");
 VoicePlay("F100740000_32_010");
@@ -31,9 +30,9 @@ ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740000_32_020");
 MsgDisp("Vice Principal Himuro","It seems that Mikage-sensei was just
-waiting for the students to 
-finish their class duties.
-...My complaint was off the mark.");
+waiting for the students to finish their
+class duties. ...My complaint was off the
+mark.");
 MsgDisp("主人公","Eh...");
 ChEye(7,2);
 ChMouth(7,0);
@@ -66,7 +65,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F100740000_07_050");
-MsgDisp("Mikage","He's always angry with me, righT?
+MsgDisp("Mikage","He's always angry with me, right?
 I was just scolded for dressing like this.");
 MsgDisp("主人公","｛御影＊＊｝……");
 ChEye(7,0);

@@ -43,13 +43,13 @@ I'm at the hotel.");
     ChMotion(4,1,1);
     VoicePlay("Q120400000_04_040");
     MsgDisp("Nanatsumori","Did you want to play more?");
-    MsgDisp("主人公","Not play, spend free time.
-...... right?");
+    MsgDisp("主人公","It's not playing, we're
+spending our free period together. Right?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_050");
-    MsgDisp("Nanatsumori","That is true.");
+    MsgDisp("Nanatsumori","True.");
     ChEye(4,0);
     VoicePlay("Q120400000_04_060");
     MsgDisp("Nanatsumori","Thanks to your presence,
@@ -90,7 +90,7 @@ around more other places.");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_120");
     MsgDisp("Nanatsumori","Eh......");
-    MsgDisp("主人公","Didn't you enjoy free time?");
+    MsgDisp("主人公","Did you not enjoy the free period?");
     ChEye(4,1);
     ChMouth(4,4);
     VoicePlay("Q120400000_04_130");

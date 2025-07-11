@@ -3,7 +3,7 @@ MsgClose();
 ChOpen(21,254,7,0,0,-1,-1,0,0,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Oh, ｛みちる＊｝!
-This year--");
+This year—");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

@@ -45,7 +45,7 @@ Maybe we should study together, then?");
 VoicePlay("D030901200_09_060");
 MsgDisp("Kuya","No way.
 I don't need extra study-time.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 VoicePlay("D030901200_09_070");
 MsgDisp("Kuya","I have to do this on my own.
 Otherwise I won't be proud enough to

@@ -20,7 +20,7 @@ ChMotion(4,1,1);
 VoicePlay("B150400500_04_030");
 MsgDisp("Nanatsumori","I've gotten used to it..
 or rather, I've already given up.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -21,7 +21,7 @@ Thanks for inviting me.");
     ChMotion(4,1,1);
     VoicePlay("Q080400000_04_010");
     MsgDisp("Nanatsumori","Also.
-The next free time, is booking 
+For the next free period, is booking 
 you ＯＫ?");
     MsgDisp("主人公","ＯＫ！");
     break ;

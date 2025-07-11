@@ -22,7 +22,7 @@ ChMotion(7,1);
 VoicePlay("F020700014_07_010");
 MsgDisp("Mikage","Hey, hey. That's still too early.
 You still have a little bit of your 
-high school life left, righT?");
+high school life left, right?");
 MsgDisp("主人公","Yes.");
 ChEye(7,0);
 ChMouth(7,0);

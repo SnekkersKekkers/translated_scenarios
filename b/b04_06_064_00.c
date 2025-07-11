@@ -5,12 +5,10 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606400_06_000");
-MsgDisp("Himuro","Amazing...
-Even if this is a staple of summer, 
-this is already exacting 
-penance upon yourself.");
-MsgDisp("主人公","Once you're enjoying yourself, 
-you won't even mind!");
+MsgDisp("Himuro","Amazing... Even if this is a staple of
+summer, it feels like we're punishing
+ourselves.");
+MsgDisp("主人公","You'll enjoy it once you get into it!");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -29,7 +27,7 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("B040606400_06_030");
 MsgDisp("Himuro","…………");
-MsgDisp("主人公","｛氷室＊＊｝？");
+MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -37,7 +35,7 @@ ChCheek(6,10);
 VoicePlay("B040606400_06_040");
 MsgDisp("Himuro","There's donut holes...");
 MsgDisp("主人公","Ah, there's a food stall for it.
-....Do you like it?");
+....Do you like those?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -62,9 +60,8 @@ Wait(35,0);
 ChOpen(6,33,0,0,0,-1,-1,0,0);
 ChMotion(6,0);
 VoicePlay("B040606400_06_060");
-MsgDisp("Himuro","Ah... it's this time already.");
-MsgDisp("主人公","It went by in a blink 
-of an eye didn't it?");
+MsgDisp("Himuro","Ah... it's time already.");
+MsgDisp("主人公","Time went by so fast.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

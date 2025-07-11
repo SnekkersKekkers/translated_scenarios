@@ -12,15 +12,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q100700000_07_000");
-MsgDisp("Mikage","Yeah, Today's weather is good,
+MsgDisp("Mikage","Yeah, today's weather is good,
 so it looks perfect.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Q100700000_07_010");
-MsgDisp("Mikage","I can't believe that thing was built 
-around the 17th century, 
-It's unbelievable.");
+MsgDisp("Mikage","I can't believe that thing was built
+around the 17th century, it's
+unbelievable.");
 MsgDisp("主人公","It's a centuries old bridge......
 so it's very sturdy.");
 ChEye(7,0);
@@ -155,8 +155,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q100700000_07_120");
-MsgDisp("Mikage","So, extracurricular class Nagasaki 
+MsgDisp("Mikage","So, extracurricular lesson Nagasaki 
 version, We're breaking up for now.");
-MsgDisp("主人公","Ok-!");
+MsgDisp("主人公","Okay!");
 MsgClose();
 ScrFadeOut(0,0);

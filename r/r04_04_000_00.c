@@ -51,7 +51,7 @@ Are you having fun at this party?");
     ChMotion(4,0,1);
     VoicePlay("R040400000_04_050");
     MsgDisp("Nanatsumori","I'm about to have some fun now.");
-    MsgDisp("主人公","？");
+    MsgDisp("主人公","?");
     break ;
     default :
     DbgAssert(1);

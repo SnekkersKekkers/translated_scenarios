@@ -87,7 +87,7 @@ the main factor why!");
     VoicePlay("R040300001_03_100");
     MsgDisp("Honda","...I'm going to be your prince.
 Definitely.");
-    MsgDisp("主人公","？");
+    MsgDisp("主人公","?");
     break ;
     default :
     DbgAssert(1);

@@ -56,7 +56,7 @@ ChMotion(7,2);
 VoicePlay("F100120001_07_030");
 MsgDisp("Mikage","Right?
 And dust rises when you vacuum.
-So, the best way to clean is---");
+So, the best way to clean is—");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

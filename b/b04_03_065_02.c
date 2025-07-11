@@ -83,7 +83,7 @@ This is lemongrass.");
         VoicePlay("B040306502_03_060");
         MsgDisp("Honda","Yep yep. It's a herb with insect-repellent
 effects. My own specially mixed, original
-cocktaiL!");
+cocktail!");
         MsgDisp("主人公","Amazing! It has a nice smell, 
 and mosquitoes won't go near it.
 ｛本多＊＊｝, thank you.");

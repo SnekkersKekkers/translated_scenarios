@@ -1,11 +1,11 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Hmm, nice weather! Come to think of it,
-I've been in good shape reccently. Maybe
-it's because I've been exercising?)");
+I've been in good shape lately. Maybe
+it's because of all the exercise?)");
 VoiceEVSPlay(2);
 VoicePlay("G110200400_02_000");
-MsgDisp("Sassa?","｛主人公｝. You were here?");
+MsgDisp("Sassa?","｛主人公｝. You're here, huh?");
 MsgClose();
 SEPlay("EV_SE_625");
 SEWait();
@@ -17,15 +17,15 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G110200400_02_010");
-MsgDisp("Sassa","Yeah, but? Don't make it sound like I'm a
+MsgDisp("Sassa","Yeah, but don't make it sound like I'm a
 horse or something.");
 MsgDisp("主人公","Hehe, horse?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G110200400_02_020");
-MsgDisp("Sassa","Ah,you're laughing?
-As a punishment, let's dash together.");
+MsgDisp("Sassa","Ah, you're laughing?
+As a punishment, let's sprint together.");
 MsgDisp("主人公","Ehh-∋");
 MsgClose();
 ScrFadeOut(0);
@@ -42,7 +42,7 @@ ScrFadeIn(0);
 VoicePlay("G110200400_02_030");
 MsgDisp("Sassa","You've gotten a lot better.
 You can keep up with me just fine, huh?");
-MsgDisp("主人公","R-ReallY?");
+MsgDisp("主人公","R-Really?");
 MsgDisp("主人公","(Hehe......｛颯砂＊＊｝'s hair
 is so cute, the way it flutters......
 like a horse's mane?)");

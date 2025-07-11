@@ -1,7 +1,7 @@
 BGOpen("sc810",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","I guess the school trip is over 
+MsgDisp("主人公","The school trip is ending 
 tommorow......");
 MsgClose();
 ChOpen(5,254,0,4,4,-1,-1,0,1,0,30);

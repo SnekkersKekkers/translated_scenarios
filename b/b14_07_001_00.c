@@ -70,7 +70,7 @@ VoicePlay("B140700100_07_060");
 MsgDisp("Mikage","Heheh... I see.");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 SEPlay("EV_SE_682");
 MsgDisp("","(*PAT PAT*)");
 ScrFadeIn(0);

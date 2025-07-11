@@ -67,7 +67,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B070401000_04_090");
 MsgDisp("Nanatsumori","You don't have to do anything right now.
-But-——");
+But——");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);

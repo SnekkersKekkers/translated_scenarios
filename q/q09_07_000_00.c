@@ -55,7 +55,7 @@ expectation.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("Q090700000_07_070");
-    MsgDisp("Mikage","Extracurricular class Nagasaki version, 
+    MsgDisp("Mikage","extracurricular lesson Nagasaki version, 
 the last day has begun!");
     MsgDisp("主人公","Yes!");
     break ;

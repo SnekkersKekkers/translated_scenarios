@@ -55,7 +55,7 @@ VoicePlay("G020120100_01_070");
 MsgDisp("Kazama","I know you better than anyone. There's no
 need for me to rely on strange things,
 like listening to the voice of your heart.");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

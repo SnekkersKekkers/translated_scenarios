@@ -64,7 +64,7 @@ VoicePlay("G020320000_03_090");
 MsgDisp("Honda","Did you know? I'm really stubborn when it
 comes to accepting things until I'm
 satisfied.");
-MsgDisp("主人公","(｛本多＊＊｝……？)");
+MsgDisp("主人公","(｛本多＊＊｝……?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

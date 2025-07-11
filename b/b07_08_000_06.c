@@ -15,7 +15,7 @@ ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("B070800000_08_300");
 MsgDisp("Shirahane","Ah...");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);

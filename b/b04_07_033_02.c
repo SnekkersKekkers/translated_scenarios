@@ -65,7 +65,7 @@ high up and count to 10 together?");
         ChMouth(7,3);
         ChMotion(7,3);
         VoicePlay("B040703302_07_060");
-        MsgDisp("Mikage","RighT1");
+        MsgDisp("Mikage","Right!");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,0);

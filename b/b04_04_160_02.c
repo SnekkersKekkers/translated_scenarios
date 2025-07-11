@@ -87,7 +87,7 @@ even post it here?");
         VoicePlay("B040416002_04_080");
         MsgDisp("Nanatsumori","Ah... actually, I can't.
 I can't post it.");
-        MsgDisp("主人公","？");
+        MsgDisp("主人公","?");
         VoicePlay("B040416002_04_090");
         MsgDisp("Nanatsumori","You'll become a target.
 Of guys.");

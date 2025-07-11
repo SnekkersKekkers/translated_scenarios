@@ -25,8 +25,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 SEPlay("EV_SE_505");
-MsgDisp("","
-Smooch");
+MsgDisp("","Smooch");
 MsgDisp("主人公","(∋
 Just now, my lips......)");
 MsgClose();

@@ -110,7 +110,7 @@ StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400000_04_050");
 MsgDisp("Witch","That's just like you......");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0);

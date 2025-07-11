@@ -22,7 +22,7 @@ everything we did.");
     ChMotion(1,0);
     VoicePlay("Q080100000_01_010");
     MsgDisp("Kazama","Well, how about spending the
-next free time together too?");
+next free period together too?");
     MsgDisp("主人公","Of course I want to!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -55,7 +55,7 @@ Then it was worth inviting you.");
     ChCheek(1,0);
     VoicePlay("Q080100000_01_050");
     MsgDisp("Kazama","We aren't done yet though.
-We still have more free time.");
+We still have another free period.");
     MsgDisp("主人公","Let's spend that together too then too.");
     ChEye(1,0);
     ChMouth(1,3);

@@ -27,8 +27,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("D140B05002_01_000");
-MsgDisp("Kazama","...Honda,
-that was too blunt.");
+MsgDisp("Kazama","...Honda, that was too blunt.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

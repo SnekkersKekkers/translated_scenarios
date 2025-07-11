@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030623001_06_000");
 MsgDisp("Himuro","So, what do you want to do?");
-MsgSel("I like the roller  coaster","Let's ride the Ferris Wheel","Let's try bungee jumping!","I want to ride the teacups","Let's go to the Haunted House");
+MsgSel("I like the roller coaster.","Let's ride the Ferris Wheel.","Let's try bungee jumping!","I want to ride the teacups.","Let's go to the Haunted House.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

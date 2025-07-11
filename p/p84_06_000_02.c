@@ -21,8 +21,8 @@ ChMotion(6,0);
 VoicePlay("P840600002_06_020");
 MsgDisp("Himuro","As expected.");
 MsgDisp("主人公","By the way, ｛氷室＊＊｝,
-I gave you another chair right?
-IS it still not ");
+I gave you extra chairs, didn't I?
+Are they still not enough? ");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

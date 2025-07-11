@@ -12,7 +12,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300010_03_000");
 MsgDisp("Honda","True, true!
-I'm thinking about the school play--");
+I'm thinking about the school play—");
 ChEye(3,5);
 ChMouth(3,2);
 ChMotion(3,5);

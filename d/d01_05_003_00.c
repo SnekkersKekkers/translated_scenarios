@@ -45,7 +45,7 @@ Wait(30,0);
 ChOpen(5,40,4,2,2,0,-1,0,0);
 VoicePlay("D010500300_05_020");
 MsgDisp("Hiiragi","…………");
-MsgDisp("主人公","……｛柊＊＊＊｝？");
+MsgDisp("主人公","……｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,5);

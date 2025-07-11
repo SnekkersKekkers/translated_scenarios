@@ -38,10 +38,10 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07061_22_020");
-MsgDisp("Hikaru","I can tell you about his 
+MsgDisp("Hikaru","Hikaru can tell you about his 
 feelings at any time▼");
 MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝.
-Thank you but... you're 
+Thank you but... You're 
 thinking about this too much!)");
 BGMStop();
 MsgClose();

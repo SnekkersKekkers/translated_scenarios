@@ -63,7 +63,7 @@ VoicePlay("D140A03400_06_020");
 MsgDisp("Himuro","Eh... no.
 I felt like there was some
 hidden meaning to it.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

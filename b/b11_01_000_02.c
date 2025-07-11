@@ -30,7 +30,7 @@ MsgDisp("主人公","What does that mean?");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110100002_35_030");
-MsgDisp("Guy","ehh∋
+MsgDisp("Guy","Ehh∋
 The kids these days are sharp. 
 Okay, let's split it 50-50!");
 MsgDisp("主人公","U-Um...");

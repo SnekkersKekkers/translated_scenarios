@@ -31,7 +31,7 @@ MsgDisp("Nanatsumori","Kazama.
 You actually want to know
 don't you?");
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

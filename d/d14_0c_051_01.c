@@ -96,7 +96,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05101_06_030");
-MsgDisp("Himuro","？");
+MsgDisp("Himuro","?");
 MsgDisp("主人公","(I-It's kind of hard to drink...)");
 BGMStop();
 MsgClose();

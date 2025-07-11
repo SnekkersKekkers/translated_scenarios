@@ -137,7 +137,7 @@ Will it be a first-rate university?");
     VoicePlay("D030900900_09_140");
     MsgDisp("Kuya","I see.
 I've decided, then.");
-    MsgDisp("主人公","？");
+    MsgDisp("主人公","?");
     ChEye(9,3);
     ChMouth(9,0);
     ChMotion(9,4,1);
@@ -188,13 +188,13 @@ goals like this, I just want to say
     ChMotion(9,2,1);
     ChEyeOpenLevel(9,0);
     VoicePlay("D030900900_09_210");
-    MsgDisp("Kuya","Haha......I guess the 
-\"Jack of All Trades\" will stop for 
-a while and become a \"Studying Guy\"
-with me instead?");
-    MsgDisp("主人公","(This is a surprise but......I want 
-to support Kuya-san in his goals! I need 
-to prioritize my studies over interviews.)");
+    MsgDisp("Kuya","Haha......I guess the being the \"Jack of
+All Trades\" will stop for a while. Maybe
+we'll become the \"Jack of Studying\"
+together instead?");
+    MsgDisp("主人公","(This is a surprise but......I want to
+support Kuya-san in his goals! I need to
+prioritize my \"studies\" over interviews.)");
     break ;
     case 1:
     MsgDisp("主人公","I can't answer that right now.

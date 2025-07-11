@@ -2,7 +2,7 @@ BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Lunch break is almost over...
-The next class is--)");
+The next class is—)");
 VoicePlay("F100240001_06_000");
 MsgDisp("Himuro?","That's impossible.");
 VoicePlay("F100240001_02_000");

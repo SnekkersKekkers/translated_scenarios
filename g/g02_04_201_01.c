@@ -16,7 +16,7 @@ ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("G020420101_04_020");
 MsgDisp("Nanatsumori","Haven't you noticed?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);

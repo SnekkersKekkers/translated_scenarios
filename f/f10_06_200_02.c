@@ -58,7 +58,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("F100620002_03_030");
-MsgDisp("Honda","Ehh, reallY?
+MsgDisp("Honda","Ehh, really?
 Then, I guess it'll just be you and me,
 let's go together again!");
 MsgDisp("主人公","Eh, me?

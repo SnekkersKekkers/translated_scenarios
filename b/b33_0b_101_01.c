@@ -83,7 +83,7 @@ VoicePlay("B330B10101_03_020");
 MsgDisp("Honda","Right right, that thing about how 
 if it was just you and her,
 even window shopping would be fun?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);

@@ -25,7 +25,7 @@ I have something to ask you.");
     MsgDisp("主人公","Huh, what may it be?");
     ChMotion(5,0);
     VoicePlay("Q020500000_05_020");
-    MsgDisp("Hiiragi","Would you mind spending the free time
+    MsgDisp("Hiiragi","Would you mind spending the free period
 period today with me?");
     MsgSel("Sure, I'm coming！","Sorry, it's just……");
     switch (MsgSelRsltGet()){
@@ -98,7 +98,7 @@ excited more than everyone else.");
     VoicePlay("Q020500000_05_090");
     MsgDisp("Hiiragi","While I'm riding this high, I'd like to
 ask you too. Would you like to join me for
-today's free time?");
+today's free period?");
     MsgSel("Yes, let's go!","Sorry, I……");
     switch (MsgSelRsltGet()){
         case 0:

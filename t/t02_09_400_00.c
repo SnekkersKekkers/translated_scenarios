@@ -14,7 +14,7 @@ ScrFadeIn(0);
 ChMotion(9,1,1);
 VoicePlay("T020940000_09_010");
 MsgDisp("Kuya","Haa......
-Oh no I've done it.");
+Oh no, I've done it.");
 MsgDisp("主人公","Kuya-san∋
 Why are you here......?");
 ChEye(9,0);
@@ -30,7 +30,7 @@ ChEyeOpenLevel(9,10);
 ChCheek(9,0);
 VoicePlay("T020940000_09_030");
 MsgDisp("Kuya","This is the legendary place of Habataki
-Academy, right?");
+High, isn't it?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -46,8 +46,7 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("T020940000_09_050");
-MsgDisp("Kuya","Then something unexpected happened to me
-at the end.");
+MsgDisp("Kuya","A last second, unexpected event.");
 MsgDisp("主人公","Hehe......!");
 ChEye(9,3);
 ChMouth(9,0);
@@ -83,15 +82,15 @@ ChMotion(9,4,1);
 VoicePlay("T020940000_09_100");
 MsgDisp("Kuya","You were a guide to the right path for a
 foolish man who misunderstood what it
-meant to 'think about others'.");
+meant to think about others.");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("T020940000_09_110");
-MsgDisp("Kuya","Today, on this day and up to this very
+MsgDisp("Kuya","Today, on this day, and up to this very
 moment, you have been by my side......
-thank you.");
+Thank you.");
 ChEye(9,0);
 ChEyeOpenLevel(9,10);
 MsgDisp("主人公","No......");

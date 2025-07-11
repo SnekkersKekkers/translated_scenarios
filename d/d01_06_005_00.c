@@ -3,9 +3,9 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm done with entrance exams and 
 it's finally time to graduate......)");
-MsgDisp("主人公","(Soon it'll be time to say goodbye
-to this building. Come to think of it,
-two years ago here I met Himuro——)");
+MsgDisp("主人公","(Soon it'll be time to say goodbye to this
+building. Come to think of it, two years
+ago here I met Himuro——)");
 MsgClose();
 ChOpen(6,254,7,2,0,0,-1,0,0);
 MsgDisp("主人公","Eh......｛氷室＊＊｝?");
@@ -43,7 +43,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600500_06_040");
 MsgDisp("Himuro","......I remember.");
-MsgDisp("主人公","｛氷室＊＊｝……？");
+MsgDisp("主人公","｛氷室＊＊｝……?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);

@@ -33,7 +33,7 @@ ScrFadeOut(0);
 SEWait();
 VoicePlay("D010200700_02_020");
 MsgDisp("Sassa","…………");
-MsgDisp("主人公","｛颯砂＊＊｝……？");
+MsgDisp("主人公","｛颯砂＊＊｝……?");
 SEPlay("EV_SE_675",1,0.3);
 Wait(30,0);
 ChEye(2,0);

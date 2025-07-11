@@ -29,7 +29,7 @@ You have one more free day left, right?");
     VoicePlay("Q080100001_01_020");
     MsgDisp("Kazama","This time from me......
 Let's go the next one together too.");
-    MsgDisp("主人公","Yeah, Let's go!");
+    MsgDisp("主人公","Yeah, let's go!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -45,9 +45,9 @@ Looking forward to it.");
     ScrFadeIn(0);
     MsgDisp("主人公","That was a lot of fun.");
     VoicePlay("Q080100001_01_040");
-    MsgDisp("Kazama","Ah.
+    MsgDisp("Kazama","Yeah.
 Especially since I'm with you.");
-    MsgDisp("主人公","Yeah, I guess?");
+    MsgDisp("主人公","Yeah, I guess so?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -63,8 +63,8 @@ For inviting me.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q080100001_01_070");
-    MsgDisp("Kazama","So this time from me......
-Wanna go the next one together too?");
+    MsgDisp("Kazama","So this time from me to you......
+Wanna spend the next one together too?");
     MsgDisp("主人公","Yes, of course!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -85,7 +85,7 @@ I had a lot of fun.");
     ChMotion(1,3);
     VoicePlay("Q080100001_01_090");
     MsgDisp("Kazama","Yeah.
-It's thanks to you calling out to me.");
+It's thanks to you inviting me.");
     MsgDisp("主人公","Hehe, yeah.
 I'm happy I asked you, ｛風真＊＊｝.");
     ChEye(1,0);
@@ -93,38 +93,38 @@ I'm happy I asked you, ｛風真＊＊｝.");
     ChMotion(1,0);
     VoiceEVSPlay(1);
     VoicePlay("Q080100001_01_100");
-    MsgDisp("Kazama","｛主人公｝, this time from me.");
+    MsgDisp("Kazama","｛主人公｝, this time from me to you.");
     MsgDisp("主人公","Eh?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q080100001_01_110");
-    MsgDisp("Kazama","The next free time,
-Wanna come with me......?");
+    MsgDisp("Kazama","Wanna spend
+the next free period together...?");
     MsgDisp("主人公","Sure......!
 I'm so happy.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("Q080100001_01_120");
-    MsgDisp("Kazama","Yeah.
-School trips are so much fun, aren't they?
-We don't have these kinds in the UK.");
+    MsgDisp("Kazama","Yeah. School trips are so much fun, aren't
+they? We don't have this kind of thing in
+the UK.");
     MsgDisp("主人公","Oh yeah, It's the first time for you,
 ｛風真＊＊｝.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q080100001_01_130");
-    MsgDisp("Kazama","Yes, and it's meaningless without you.
-Right?");
+    MsgDisp("Kazama","Yes, and it would be meaningless without
+you. Right?");
     MsgDisp("主人公","...... Maybe, yeah.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     ChCheek(1,0);
     VoicePlay("Q080100001_01_140");
-    MsgDisp("Kazama","Well, day after tomorrow.
+    MsgDisp("Kazama","Okay then, tomorrow.
 I'll be waiting here.");
     break ;
     default :

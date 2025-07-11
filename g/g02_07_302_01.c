@@ -38,7 +38,7 @@ VoicePlay("G020730201_07_040");
 MsgDisp("Mikage","I should be the one to say thank you. You
 guys are letting a flawed adult like me
 interfere with your high school life.");
-MsgDisp("主人公","｛御影＊＊｝？");
+MsgDisp("主人公","｛御影＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);

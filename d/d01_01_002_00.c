@@ -114,7 +114,7 @@ VoicePlay("D010100200_01_110");
 MsgDisp("Kazama","Antiques and people are the same. If
 they aren't with people who value them
 properly, it will cause them sorrow.");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -38,7 +38,7 @@ I'll hurt my shoudler.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040215100_02_030");
-    MsgDisp("Sassa","Eh, seriouslY?
+    MsgDisp("Sassa","Eh, seriously?
 We're just taking turns throwing?");
     MsgDateResultDisp();
     break ;

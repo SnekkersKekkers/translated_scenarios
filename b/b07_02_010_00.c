@@ -89,7 +89,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B070201000_02_110");
 MsgDisp("Sassa","I'm going to run a bit.
-Cya.");
+Bye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

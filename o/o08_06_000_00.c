@@ -22,7 +22,7 @@ Ah, it's ｛氷室＊＊｝.)");
     MsgDisp("Himuro","This is nonsense.
 This event isn't a competition, so why
 is it in our sports festival.");
-    MsgDisp("主人公","But, isn't it fun?");
+    MsgDisp("主人公","It's fun, though.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

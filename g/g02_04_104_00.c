@@ -16,7 +16,7 @@ VoicePlay("G020410400_04_020");
 MsgDisp("Nanatsumori","Well, I haven't been updating it much
 lately. I'm satisfied with my offline
 life.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);

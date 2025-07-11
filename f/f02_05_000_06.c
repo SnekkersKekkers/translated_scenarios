@@ -5,8 +5,8 @@ ChMouth(5,0);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it,
-Sports Day is coming up, huh.");
+MsgDisp("主人公","Come to think of it, Sports Day is coming
+up, huh.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);

@@ -27,7 +27,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600000_06_180");
 MsgDisp("Himuro","Because of my surname, 
-people think I'm a stiff
+people think I'm a serious person 
 who only studies.");
 MsgDisp("主人公","(He seems to be worried about
 the Himuro family name...)");

@@ -27,7 +27,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_190");
 MsgDisp("Kazama","No can do!
 I refuse.");
-MsgDisp("主人公","Eh, I've not even said anything--");
+MsgDisp("主人公","Eh, I've not even said anything—");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

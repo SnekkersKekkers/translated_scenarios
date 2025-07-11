@@ -84,7 +84,7 @@ in the New Year?");
     MsgDisp("Nanatsumori","That's not it.
 I guess I can feel the......weight of the
 three years.");
-    MsgDisp("主人公","？？？");
+    MsgDisp("主人公","???");
     VoicePlay("S120400004_04_080");
     MsgDisp("Nanatsumori","We'll be graduating in two months.");
     MsgDisp("主人公","Yeah.");

@@ -83,7 +83,7 @@ really good antique seller.");
         VoicePlay("B040109002_01_060");
         MsgDisp("Kazama","So maybe I could do it if I tried.
 Whether I want to or not is the question.");
-        MsgDisp("主人公","｛風真＊＊｝？");
+        MsgDisp("主人公","｛風真＊＊｝?");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,0);

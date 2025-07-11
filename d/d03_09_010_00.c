@@ -171,7 +171,7 @@ VoicePlay("D030901000_09_170");
 MsgDisp("Kuya","Ah......Is it okay to say that?
 But you know, I'm hopeful. Haha!");
 MsgDisp("主人公","(Hehe!
-Kuya-san seems to be studying hard!
+Kuya-san seems to be \"studying\" hard!
 I need to work hard too!)");
 MsgClose();
 ScrFadeOut(0,0);

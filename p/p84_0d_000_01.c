@@ -8,7 +8,7 @@ SEWait();
 ChOpen(21,254,0,0,4,-1,-1,0,1);
 ChOpen(22,254,0,2,0,-1,-1,0,2);
 VoicePlay("P840D00001_21_000");
-MsgDisp("Michiru","...Is it reallY?");
+MsgDisp("Michiru","...Is it really?");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);

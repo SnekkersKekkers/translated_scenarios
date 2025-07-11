@@ -62,7 +62,7 @@ Apparently she produces a lot of milk.");
         MsgDisp("Mikage","There are so many girls I'm 
 interested in, but I haven't 
 been able to see them at all.");
-        MsgDisp("主人公","｛御影＊＊｝？");
+        MsgDisp("主人公","｛御影＊＊｝?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);

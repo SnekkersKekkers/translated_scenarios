@@ -30,19 +30,19 @@ ChMotion(22,4,1);
 ChEyeOpenLevel(22,6);
 VoicePlay("D140D07002_22_010");
 MsgDisp("Hikaru","Big sis is the moon?
-I see...");
+Interesting...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("D140D07002_21_020");
 MsgDisp("Michiru","Hikaru.
 Don't say anything unnecessary, okay?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07002_22_020");
-MsgDisp("Hikaru","Yeah, yeah. But, Mari, 
+MsgDisp("Hikaru","Yeah, yeah. But you know, Mari, 
 despite what big sis looks like, she's 
 really just a hot sun?");
 MsgDisp("主人公","Eh?");
@@ -51,7 +51,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07002_21_030");
 MsgDisp("Michiru","I'm... a calm moon.");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,1,1);

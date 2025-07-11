@@ -15,7 +15,7 @@ time?");
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("Q040300000_03_010");
-    MsgDisp("Honda","I see. Because it's free time period,
+    MsgDisp("Honda","I see. Because it's the free period,
 we're also free to decide on who we go
 with.");
     MsgDisp("主人公","Mhm. If you're fine with it, why don't we
@@ -32,7 +32,7 @@ go around together?");
 something?");
     MsgDisp("主人公","Yeah, good morning! ｛本多＊＊｝, I was
 wondering if you have anything planned for
-the free time, is all.");
+the free period, is all.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -70,7 +70,7 @@ after all.");
 us went on a leisure trip?");
     MsgDisp("主人公","Hehe, it's a weird feeling, isn't it?
 ...Oh, right! If you're fine with it, I
-was thinking if we could go around
+was thinking we could go around
 together for the free time period.");
     ChEye(3,2);
     ChMouth(3,3);

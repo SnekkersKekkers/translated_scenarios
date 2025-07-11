@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040206202_02_000");
 MsgDisp("Sassa","If we were on a deserted island, maybe
 this cave would be our base camp?");
-MsgSel("Wouldn't it get flooded during high tide？","Eh? A deserted island?","First we'd need to start a fire！");
+MsgSel("Wouldn't it get flooded during high tide?","Eh? A deserted island?","First we'd need to start a fire！");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

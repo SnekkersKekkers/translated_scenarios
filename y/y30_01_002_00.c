@@ -7,7 +7,7 @@ It's hard to eat when
 you're staring at me like that.\"");
 VoicePlay("Y300100200_01_000");
 MsgDisp("Kazama","(It was the same face she had when we
-dug up potatoes in
+dug up sweet potatoes in
 kindergarten......)");
 MsgClear();
 MsgClose();
@@ -15,9 +15,9 @@ ScrFadeOut(0);
 BGOpen("ad121",0);
 ScrFadeIn(0);
 MsgDisp("","The first time we met was in
-kindergarten when we dug up potatoes.");
+kindergarten when we dug up sweet potatoes.");
 MsgDisp("","It rained hard the days before so the
-soil was quite wet. We dug potatoes
+soil was quite wet. We dug sweet potatoes
 and played in the mud.");
 MsgClear();
 MsgDisp("","I had trouble pulling
@@ -33,10 +33,10 @@ MsgClear();
 MsgDisp("主人公","\"Wow......
 Look how big the potatoes are!
 Thank you!\"");
-MsgDisp("","She had mud on his face and was
+MsgDisp("","She had mud on her face and was
 laughing. I remember laughing along
 too when I saw her face like that.");
-MsgDisp("","I think that's when I decided");
+MsgDisp("","I think that's when I decided.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);

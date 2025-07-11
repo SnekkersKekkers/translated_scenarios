@@ -133,7 +133,7 @@ Let's go.");
         MsgDisp("Nanatsumori","No.
 I feel like it's fate for me to try
 especially because you don't want to.");
-        MsgDisp("主人公","？？？");
+        MsgDisp("主人公","???");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);

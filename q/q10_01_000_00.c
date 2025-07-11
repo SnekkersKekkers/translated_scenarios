@@ -23,10 +23,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q100100000_01_020");
-MsgDisp("Kazama","
-I heard that the head teacher's glasses 
-too haven't changed for decades,
-So in terms of toughness it's similar.");
+MsgDisp("Kazama","I heard that his glasses also haven't
+changed in decades. They're similar in
+terms of durability.");
 MsgDisp("主人公","Yeah.
 I'm sure round glasses would also suit
 Vice Principal Himuro.");
@@ -43,7 +42,7 @@ ChMotion(1,0);
 VoicePlay("Q100100000_01_040");
 MsgDisp("Kazama","......Ah, right. I heard there's a 
 heart-shaped stone on the seawall.
-It's quite popular, Wanna look?");
+It's quite popular, wanna go look?");
 MsgDisp("主人公","Yeah!");
 MsgClose();
 ScrFadeOut(0,0);
@@ -60,32 +59,31 @@ ScrFadeIn(0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q100100000_01_050");
-MsgDisp("Kazama","Huh......
-Looks like there're quite a lot of shops
-with good taste.");
-MsgDisp("主人公","If ｛風真＊＊｝ says so,
+MsgDisp("Kazama","Huh...... There sure are a lot of stylish
+shops around here.");
+MsgDisp("主人公","If it's coming from ｛風真＊＊｝
 then there's no doubt about it, right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q100100000_01_060");
-MsgDisp("Kazama","But after all,
-We're the ones choosing, right?");
+MsgDisp("Kazama","The decision is still up to us in the end,
+though.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_070");
-MsgDisp("Kazama","Okay, then let's have a competion on who
-is able to shop better. Got it?");
-MsgDisp("主人公","Hehe, I got it.");
+MsgDisp("Kazama","Okay, let's have a competion to decide
+whose the better shopper. How's that?");
+MsgDisp("主人公","Hehe, sure.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q100100000_01_080");
-MsgDisp("Kazama","But before that.
-......smells freshly baked, doesn't it?");
-MsgDisp("主人公","It does......!
+MsgDisp("Kazama","But before that. ......Do you smell
+something freshly baked?");
+MsgDisp("主人公","I do......!
 Castella comes first, right?");
 ChEye(1,0);
 ChMouth(1,3);

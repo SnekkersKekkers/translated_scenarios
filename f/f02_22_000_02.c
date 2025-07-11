@@ -24,7 +24,7 @@ VoicePlay("F022200002_22_020");
 MsgDisp("Hikaru","Apparently at that church, on full moon 
 nights, they hold a fashion show for men,
 and on new moon nights, they 
-hold a fashion show for women");
+hold a fashion show for women.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -44,8 +44,8 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F022200002_22_050");
 MsgDisp("Hikaru","Looks like the uncle makes frequent
-appearances around the school, I 
-feel like that's not entirely a lie...");
+appearances around the school, that's
+probably not entirely a lie...");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -65,7 +65,7 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F022200002_22_080");
-MsgDisp("Hikaru","That's right though. I mean Hikaru can
+MsgDisp("Hikaru","That's right though. Hikaru can
 believe that uncle part, but Hazuki Kei?
 No way!");
 MsgDisp("主人公","(I know it's just a rumor.

@@ -66,7 +66,7 @@ So it's like that after all.");
         MsgDisp("Shirahane","I've come ta this place where I stick out
 like a sore thumb many times, and I regret
 it a lot...");
-        MsgDisp("主人公","？？？");
+        MsgDisp("主人公","???");
         ChEye(8,2);
         ChMouth(8,0);
         ChMotion(8,2,1);

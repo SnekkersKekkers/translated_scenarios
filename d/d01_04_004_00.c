@@ -41,7 +41,7 @@ VoicePlay("D010400400_04_040");
 MsgDisp("Nanatsumori","Ok.
 Since there's no one around......Let's
 hang out a bit.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(4);

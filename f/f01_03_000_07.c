@@ -72,7 +72,7 @@ Let's go!");
         ChEyeOpenLevel(3,0);
         VoicePlay("F010300007_03_050");
         MsgDisp("Honda","Of course!
-So, right to it--");
+So, right to it—");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,5);

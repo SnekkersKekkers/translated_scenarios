@@ -32,7 +32,7 @@ MsgDisp("Mikage","｛主人公｝,
 go all out and try to 
 win all the events.");
 MsgDisp("主人公","So you're not organizing it, but
-you intend on participatinG?");
+you intend on participating?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

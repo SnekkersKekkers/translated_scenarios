@@ -25,13 +25,13 @@ ChMouth(22,5);
 ChMotion(22,5,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("Q100D00000_22_010");
-MsgDisp("Hikaru","Oh, the Chancellor's glasses!");
+MsgDisp("Hikaru","Oh, the Principal's glasses!");
 MsgDisp("主人公","Huh?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Q100D00000_21_010");
-MsgDisp("Michiru","Indeed, it does look a lot like Chancellor
+MsgDisp("Michiru","Indeed, it does look a lot like Principal
 Amanohashi's round glasses......");
 ChEye(22,3);
 ChMouth(22,3);
@@ -80,11 +80,11 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q100D00000_22_040");
-MsgDisp("Hikaru","Let's make it a free time from here.
+MsgDisp("Hikaru","Let's spend our free period here.
 When you're done, meet me at Mari♪");
 ChSet(21,0);
 VoicePlay("Q100D00000_21_050");
-MsgDisp("Michiru","Sure thing.");
-MsgDisp("主人公","......I am the landmark?");
+MsgDisp("Michiru","Got it.");
+MsgDisp("主人公","......I'm the meeting point?");
 MsgClose();
 ScrFadeOut(0,0);

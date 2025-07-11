@@ -27,7 +27,7 @@ last.");
     ChCheek(6,5);
     VoicePlay("W090600002_06_030");
     MsgDisp("Himuro","...No, maybe it's the other way around.");
-    MsgDisp("主人公","？");
+    MsgDisp("主人公","?");
     break ;
     default :
     DbgAssert(1);

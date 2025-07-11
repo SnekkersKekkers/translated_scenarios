@@ -130,7 +130,7 @@ SEPlay("EV_SE_551",0.5,0.4);
 ScrFadeOut(0,0,30);
 ChClose(1,0,0);
 SEWait();
-MsgDisp("主人公","｛風真＊＊｝……？");
+MsgDisp("主人公","｛風真＊＊｝……?");
 VoicePlay("D020100300_01_130");
 MsgDisp("Kazama","That's why I have to go......");
 MsgDisp("主人公","......You'll come back, right?");

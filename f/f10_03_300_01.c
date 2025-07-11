@@ -44,8 +44,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F100330001_21_020");
-MsgDisp("Michiru","Come to think of it,
-Honda-kun's piercings are cute too.");
+MsgDisp("Michiru","Come to think of it, Honda-kun's piercings
+are cute too.");
 VoicePlay("F100330001_03_010");
 MsgDisp("Honda","Aah, this?
 I got it because I was my sister's 

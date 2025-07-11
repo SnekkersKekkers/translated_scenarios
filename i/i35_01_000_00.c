@@ -37,7 +37,7 @@ Order received.");
     VoicePlay("I350100000_01_020");
     MsgDisp("Kazama","You've got good sense.
 Thank you.
-Then, see you.");
+See you later.");
     MsgDisp("主人公","Yeah, see you, ｛風真＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -45,8 +45,8 @@ Then, see you.");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(Hm?　Come to think of it,
-there's a cake shop near Simon's......)");
+    MsgDisp("主人公","(Hm? Come to think of it, there's a cake
+shop near Simon's......)");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_014");

@@ -39,7 +39,7 @@ In that case, let's go.");
     ChCheek(6,5);
     VoicePlay("F010600005_06_030");
     MsgDisp("Himuro","...Why?");
-    MsgDisp("主人公","Oh, if you have plans--");
+    MsgDisp("主人公","Oh, if you have plans—");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);

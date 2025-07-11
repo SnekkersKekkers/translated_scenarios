@@ -16,7 +16,7 @@ Wait(40,0);
 MsgDisp("主人公","(Brr, like I expected, it's cold...)");
 SEPlay("EV_SE_733");
 SEWait();
-MsgDisp("主人公","……？");
+MsgDisp("主人公","……?");
 VoicePlay("R080700000_07_000");
 MsgDisp("Mikage","Oh, there you are!
 You seem cold, put this on.");
@@ -140,7 +140,7 @@ VoicePlay("R080700000_07_120");
 MsgDisp("Mikage","Phew... if I stay
 with you any longer, I feel like
 I'll be in Nirvana.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop(5);

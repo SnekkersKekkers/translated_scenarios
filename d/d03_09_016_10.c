@@ -103,7 +103,7 @@ VoicePlay("D030901610_09_090");
 MsgDisp("Kuya","......Yeah.
 I think Hanegasaki High School was a good
 decision.");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);

@@ -42,7 +42,7 @@ But I can't. Sorry.");
     MsgDisp("主人公","No, that's my bad......
 Talk to you later?");
     VoicePlay("J030100001_01_070");
-    MsgDisp("Kazama","Hey, don't go ask some other g-- Forget
+    MsgDisp("Kazama","Hey, don't go ask some other g— Forget
 it. Let's definitely go out next time.");
     MsgDisp("主人公","Yeah, I'll call again another day.
 See you!");

@@ -55,7 +55,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360450300_04_060");
 MsgDisp("Nanatsumori","Alright.");
-MsgDisp("主人公","(？？？)");
+MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

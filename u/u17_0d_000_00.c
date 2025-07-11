@@ -40,7 +40,7 @@ MsgDisp("主人公","｛みちる＊｝, good night.
 ｛ひかる＊｝, good night to you too.");
 VoicePlay("U170D00000_22_020");
 MsgDisp("Hikaru","…………");
-MsgDisp("主人公","……？");
+MsgDisp("主人公","……?");
 VoicePlay("U170D00000_21_030");
 MsgDisp("Michiru","......Doesn't it feel like we're already
 in a dream?");

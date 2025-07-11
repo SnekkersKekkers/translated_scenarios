@@ -19,7 +19,7 @@ ChMotion(3,4,1);
 VoicePlay("E010330100_03_010");
 MsgDisp("Honda","Yeah, Yano-kun's shopping.
 I'm just tagging along.");
-MsgDisp("主人公","｛柊＊＊＊｝？");
+MsgDisp("主人公","｛柊＊＊＊｝?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChPosition(3,1);

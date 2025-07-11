@@ -15,7 +15,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B03300_01_000");
-MsgDisp("Kazama","Ah--, it's finally lunch time.");
+MsgDisp("Kazama","Ah—, it's finally lunch time.");
 MsgDisp("主人公","We had PE in the morning, 
 so it's gotten us quite 
 hungry, hasn't it?");

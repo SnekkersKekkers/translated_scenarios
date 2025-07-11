@@ -15,7 +15,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010100000_01_020");
 MsgDisp("Kazama","Haa......");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 VoicePlay("C010100000_01_030");
 MsgDisp("Kazama","......Listen, you.
 Tell me these kinds of things sooner.");

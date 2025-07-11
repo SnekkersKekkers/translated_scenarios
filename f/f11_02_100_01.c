@@ -7,7 +7,7 @@ VoiceEVSPlay(2);
 VoicePlay("F110210001_02_000");
 MsgDisp("Sassa","｛主人公｝,
 Are you enjoying the festival?");
-MsgDisp("主人公","Yes, ｛颯砂＊＊｝ --");
+MsgDisp("主人公","Yes, ｛颯砂＊＊｝ —");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);

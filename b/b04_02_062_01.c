@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040206201_02_000");
 MsgDisp("Sassa","I wonder if this is a natural cave?");
-MsgSel("I think it was carved out？","It feels man-made, doesn't it？","Isn't there an explanation on that sign？");
+MsgSel("I think it was carved out?","It feels man-made, doesn't it?","Isn't there an explanation on that sign?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

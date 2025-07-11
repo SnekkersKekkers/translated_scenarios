@@ -13,7 +13,7 @@ What's up?");
 VoicePlay("G110400500_04_010");
 MsgDisp("Nanatsumori","Did you plan to come by Cafe Alucard
 today?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(4);

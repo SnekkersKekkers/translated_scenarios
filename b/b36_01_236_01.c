@@ -66,7 +66,7 @@ Wait(60,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360123601_01_060");
 MsgDisp("Kazama","But, I'm by your side now.");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,-1);

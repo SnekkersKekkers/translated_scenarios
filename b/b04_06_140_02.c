@@ -5,10 +5,10 @@ ChMouth(6,3);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040614002_06_000");
-MsgDisp("Himuro","To think that... the third song was 
-arranged into a ballad.
+MsgDisp("Himuro","To think that the third song was 
+arranged into a ballad....
 I can't believe it.");
-MsgSel("Was it different to the original?","It doesn't suit it huh?","It wasn't bad.");
+MsgSel("Was the original different?","It doesn't suit it, huh?","It wasn't bad.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){
@@ -56,8 +56,8 @@ like to know what you think.");
         ChMotion(6,0);
         ChCheek(6,10);
         VoicePlay("B040614002_06_050");
-        MsgDisp("Himuro","...If you'd like, 
-I can lend the CD to you?");
+        MsgDisp("Himuro","...If you'd like, I can lend the CD to
+you?");
         MsgDisp("主人公","Eh, is that okay?
 Thank you.");
         ChEye(6,0);

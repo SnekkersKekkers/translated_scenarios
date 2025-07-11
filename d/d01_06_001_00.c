@@ -43,7 +43,7 @@ SEWait();
 SEPlay("EV_SE_622");
 SEWait();
 VoicePlay("D010600100_06_020");
-MsgDisp("Himuro","Eat well.");
+MsgDisp("Himuro","Itadakimasu.");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_06_07");

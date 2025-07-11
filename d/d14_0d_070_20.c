@@ -4,7 +4,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("D140D07020_22_000");
 MsgDisp("Hikaru","Aren't you a bit curious about
-Sass's hairband?");
+Sassa's hairband?");
 MsgDisp("主人公","Curious?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -17,8 +17,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("D140D07020_21_000");
-MsgDisp("Michiru","I don't think it's
-that odd though.");
+MsgDisp("Michiru","I don't think it's that odd though.");
 VoicePlay("D140D07020_22_011");
 ChEye(22,0);
 ChMouth(22,3);
@@ -37,8 +36,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07020_21_030");
-MsgDisp("Michiru","I don't think
-it's for fashion...");
+MsgDisp("Michiru","I don't think it's for fashion...");
 VoicePlay("D140D07020_22_020");
 ChEye(22,0);
 ChMouth(22,3);

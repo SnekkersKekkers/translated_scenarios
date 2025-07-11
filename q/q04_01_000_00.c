@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
 Well, aren't you in high spirits today?");
     MsgDisp("主人公","Come on, I'm doing normal.
 How about we go around together for
-today's free time?");
+today's free period?");
     break ;
     case 3:
     MsgDisp("主人公","(Where is ｛風真＊＊｝......
@@ -26,7 +26,7 @@ Ah, there.)");
 Good morning.");
     MsgDisp("主人公","Good morning. 
 So, how about we go around together for
-today's free time?");
+today's free period?");
     break ;
     case 4:
     case 5:
@@ -53,7 +53,7 @@ the same time though.");
     MsgDisp("Kazama","Nope, I was a millisecond faster in
 spotting you first.");
     MsgDisp("主人公","Come on......
-For today's free time, can we go 
+For today's free period, can we go 
 together?");
     ChEye(1,4);
     ChMouth(1,3);

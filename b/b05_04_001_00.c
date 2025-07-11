@@ -15,7 +15,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B050400100_04_000");
-MsgDisp("Nanatsumori","Hmm--, we still have time.
+MsgDisp("Nanatsumori","Hmm—, we still have time.
 What should we do.");
 MsgDisp("主人公","That's right...");
 VoicePlay("B050400100_04_010");

@@ -77,8 +77,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_070");
-MsgDisp("Himuro","Good with hands, 'too'......what does that
-mean?");
+MsgDisp("Himuro","Good with my hands, 'too'......what does
+that mean?");
 MsgDisp("主人公","You can surf, you can play the bass, you
 can study, So, it seems like there's
 nothing you're bad at.");
@@ -90,15 +90,14 @@ MsgDisp("Himuro","Of course not.
 It's just that you only see me
 doing the things I'm good at.");
 MsgDisp("主人公","Is that right......?
-Then, ｛氷室＊＊｝'s
-weaknesses——");
+Then, ｛氷室＊＊｝'s weaknesses——");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600702_06_090");
 MsgDisp("Himuro","I won't tell you.");
 MsgDisp("主人公","Eh?
-Then, a hint——");
+Just a hint——");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);

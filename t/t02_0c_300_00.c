@@ -58,7 +58,7 @@ MsgDisp("Himuro","Sorry to interrupt your
 reminiscing.");
 ChEye(5,3);
 ChMouth(5,2);
-MsgDisp("主人公","｛氷室＊＊｝？");
+MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

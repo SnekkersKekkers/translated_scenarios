@@ -21,7 +21,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D100600000_06_020");
-MsgDisp("Himuro","......Cya.");
+MsgDisp("Himuro","......Bye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);

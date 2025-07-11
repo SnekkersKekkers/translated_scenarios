@@ -27,7 +27,7 @@ ChEyeOpenLevel(4,0);
 VoicePlay("G020420301_04_030");
 MsgDisp("Nanatsumori","I can't.
 There's no way I can...");
-MsgDisp("主人公","｛七ツ森＊｝？");
+MsgDisp("主人公","｛七ツ森＊｝?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -46,7 +46,7 @@ ChMouth(4,4);
 VoicePlay("G020420301_04_060");
 MsgDisp("Nanatsumori","Seriously, I'm going to lose my mind if
 you get even cuter...");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,4);
 ChMouth(4,4);
 ChEyeOpenLevel(4,0);

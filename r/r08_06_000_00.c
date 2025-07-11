@@ -128,7 +128,7 @@ StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("R080600000_06_130");
 MsgDisp("Himuro","I am very sure.
-You--- won't be there. That's why.");
+You won't be there. That's why.");
 MsgDisp("主人公","Ah...");
 StlEye(6,0);
 StlMouth(6,0);

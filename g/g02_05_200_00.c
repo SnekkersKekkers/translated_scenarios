@@ -27,7 +27,7 @@ VoicePlay("G020520000_05_050");
 MsgDisp("Hiiragi","I won't do anything unreasonable.
 Though......I think I'll struggle
 just a bit more.");
-MsgDisp("主人公","｛柊＊＊＊｝？");
+MsgDisp("主人公","｛柊＊＊＊｝?");
 VoicePlay("G020520000_05_060");
 MsgDisp("Hiiragi","My feelings won't lose out
 to the person closest to you.");

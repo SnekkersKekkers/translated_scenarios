@@ -21,7 +21,7 @@ Good morning!");
     ChMotion(2,3);
     VoicePlay("Q020200000_02_010");
     MsgDisp("Sassa","What's your plan for today?
-Let's spend the free time together.");
+Let's spend the free period together.");
     MsgSel("Sure, let's go！","Sorry, it's just……");
     switch (MsgSelRsltGet()){
         case 0:
@@ -38,7 +38,7 @@ Nagasaki.");
         VoicePlay("Q020200000_02_030");
         MsgDisp("Sassa","Me too. This is my first time, and I even
 get to be with you!");
-        MsgDisp("主人公","(Spending my free time with
+        MsgDisp("主人公","(Spending my free period with
 ｛颯砂＊＊｝...... This will surely be a
 fun day!)");
         break ;
@@ -74,7 +74,7 @@ What's wrong?");
     ChMotion(2,3);
     VoicePlay("Q020200000_02_060");
     MsgDisp("Sassa","What do you mean 'what's wrong'? Of course
-it's about the free time. Let's go
+it's about the free period. Let's go
 together.");
     MsgSel("Sure, let's go together！","Sorry, it's……");
     switch (MsgSelRsltGet()){

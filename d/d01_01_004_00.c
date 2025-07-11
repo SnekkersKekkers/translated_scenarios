@@ -72,7 +72,7 @@ ChOpen(1,35,0,0,4,8,-1,7,0);
 ScrFadeIn(0);
 ChMotion(1,4);
 VoicePlay("D010100400_01_050");
-MsgDisp("Kazama","Look at us, what are doing during work?");
+MsgDisp("Kazama","Look at us, what are we doing during work?");
 MsgDisp("主人公","Uhm......Inventory?");
 ChEye(1,0);
 ChMouth(1,3);

@@ -201,7 +201,7 @@ ChSet(3,3);
 VoicePlay("T020B21000_03_060");
 MsgDisp("Honda","Ah, that's right.
 Ryou-kun was caught up in the emotional
-reunion and secretly he-——");
+reunion and secretly he——");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);

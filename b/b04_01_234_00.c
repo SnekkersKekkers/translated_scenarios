@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(1,255,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123400_01_000");
-MsgDisp("Kazama","It feels like THE amusment park.");
-MsgSel("I was merry like a kid!","we got to experience the centrifrugal force","The world... it's spinning...");
+MsgDisp("Kazama","It feels like THE amusement park.");
+MsgSel("I was merry like a kid!","We got to experience the centrifrugal force.","The ground is spinning...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

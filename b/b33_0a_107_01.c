@@ -98,7 +98,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A10701_02_030");
-MsgDisp("Sassa","Heeh--, And?
+MsgDisp("Sassa","Heeh—, And?
 Did your wish come true?");
 ChEye(1,0);
 ChMouth(1,3);

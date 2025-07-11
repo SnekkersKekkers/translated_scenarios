@@ -12,7 +12,7 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F032100000_21_340");
 MsgDisp("Michiru","I wonder about that? ");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);

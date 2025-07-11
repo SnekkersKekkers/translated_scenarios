@@ -91,7 +91,7 @@ StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("Q070401000_04_120");
-MsgDisp("Nanatsumori","Love------∈");
+MsgDisp("Nanatsumori","Love———∈");
 MsgDisp("主人公","(Ehhh, what do you like so much that you
 want to scream～∋)");
 MsgClose();

@@ -25,7 +25,7 @@ ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("F020300007_03_020");
-MsgDisp("Honda","--that would be ideal. 
+MsgDisp("Honda","—that would be ideal. 
 Unfortunately, I've already investigated
 every bug in my neighborhood.");
 ChEye(3,4);

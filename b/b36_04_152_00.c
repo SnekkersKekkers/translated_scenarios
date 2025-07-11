@@ -70,7 +70,7 @@ ChEyeOpenLevel(4,0);
 VoicePlay("B360415200_04_080");
 MsgDisp("Nanatsumori","Don't look at me with such innocent eyes!
 Don't look at me right now!");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

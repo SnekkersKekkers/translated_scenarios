@@ -20,7 +20,7 @@ ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600000_06_210");
-MsgDisp("Himuro","That's Reichi-san's image.");
+MsgDisp("Himuro","That's Reiichi-san's image.");
 MsgDisp("主人公","I-I see.");
 ChEye(6,0);
 ChMouth(6,0);

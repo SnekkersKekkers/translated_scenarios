@@ -61,7 +61,7 @@ ChMotion(4,2);
 ChCheek(4,7);
 VoicePlay("E010620200_04_030");
 MsgDisp("Nanatsumori","It was...... an angel.");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

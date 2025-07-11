@@ -95,7 +95,7 @@ My message, I mean.");
         MsgDisp("Nanatsumori","I'm mixing work with my private affairs,
 right? But, with this, I'm suddenly
 motivated again!");
-        MsgDisp("主人公","(？？？)");
+        MsgDisp("主人公","(???)");
         break ;
         default :
         DbgAssert(1);

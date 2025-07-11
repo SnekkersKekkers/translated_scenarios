@@ -19,7 +19,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q050D00000_22_010");
-MsgDisp("Hikaru","So hey, for today's free time, 
+MsgDisp("Hikaru","So hey, for today's free period, 
 wanna come with us?");
 MsgSel("Yeah, sure！","Eeh…… sorry");
 switch (MsgSelRsltGet()){

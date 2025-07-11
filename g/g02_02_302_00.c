@@ -51,7 +51,7 @@ VoicePlay("G020230200_02_070");
 MsgDisp("Sassa","On the other hand,
 it feels a bit awkward when you're 
 with someone other than me.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

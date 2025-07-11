@@ -19,7 +19,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120000_01_020");
 MsgDisp("Kazama","I just wonder why it's not me.");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 ChMotion(1,0);
 Wait(12,0);
 ChEye(1,4);

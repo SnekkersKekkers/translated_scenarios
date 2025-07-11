@@ -55,7 +55,8 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_150");
 MsgDisp("Himuro","I feel like he's always looking after us.
-I'm sure Reichi has a hard time with that.");
+I'm sure Reiichi has a hard time with
+that.");
 MsgDisp("主人公","(He may say those things but 
 I think ｛氷室＊＊｝ trusts ｛御影＊＊｝ )");
 BGMStop();

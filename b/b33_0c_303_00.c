@@ -132,7 +132,7 @@ ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,2);
 VoicePlay("B330C30300_06_050");
-MsgDisp("Himuro","So that's why sometimes Reichi-san
+MsgDisp("Himuro","So that's why sometimes Reiichi-san
 will say he's the ideal teacher...");
 MsgDisp("主人公","Hm?");
 ChEye(6,0);

@@ -43,9 +43,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F112210001_22_050");
-MsgDisp("Hikaru","This year too, Hikaru's a girl in love..
-The boys are alright, but she's 
-looking. See you!");
+MsgDisp("Hikaru","So this year Hikaru's looking again for
+girls struggling with love. Boys are okay
+too～ See you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(22);

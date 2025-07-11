@@ -24,7 +24,7 @@ ChMotion(5,4);
 VoicePlay("G020530101_05_040");
 MsgDisp("Hiiragi","I have to work hard and shine brightly,
 too. I'd be sad if you didn't notice me.");
-MsgDisp("主人公","｛柊＊＊＊｝？");
+MsgDisp("主人公","｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020530101_05_050");

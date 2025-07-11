@@ -62,7 +62,7 @@ ChClose(32);
 Wait(30);
 MsgDisp("主人公","(Phew......
 I thought I was gonna get scolded!)");
-MsgDisp("主人公","(But still,
-Who was that boy just now......?)");
+MsgDisp("主人公","(But still, who was that boy just
+now......?)");
 MsgClose();
 ScrFadeOut(0);

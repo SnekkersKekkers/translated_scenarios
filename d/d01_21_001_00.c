@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D012100100_21_000");
 MsgDisp("Michiru?","......There you are!");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.5);
 ChOpen(21,35,3,0,3,-1,-1,0,0);

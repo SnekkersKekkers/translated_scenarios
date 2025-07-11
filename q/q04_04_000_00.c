@@ -11,7 +11,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("Q040400000_04_000");
     MsgDisp("Nanatsumori","Hm?");
     MsgDisp("主人公","If you're cool with it, do you wanna look
-around together for today's free time?");
+around together for today's free period?");
     break ;
     case 3:
     MsgDisp("主人公","｛七ツ森＊｝！");
@@ -46,7 +46,7 @@ Mornin'.");
     ChMotion(4,1,1);
     VoicePlay("Q040400000_04_040");
     MsgDisp("Nanatsumori","...I have my hopes up.");
-    MsgDisp("主人公","Hehe! Wanna come with me this free time?");
+    MsgDisp("主人公","Hehe! Wanna come with me this free period?");
     break ;
     default :
     DbgAssert(1);

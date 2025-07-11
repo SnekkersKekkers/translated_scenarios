@@ -18,8 +18,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q020B00100_03_000");
-MsgDisp("Honda","Good morning!
-Hey, let's go together for the free time!");
+MsgDisp("Honda","Good morning! Hey, let's go together for
+the free period!");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -103,7 +103,7 @@ I guess it can't be helped.");
     ChMotion(3,1,1);
     VoicePlay("Q020B00100_03_030");
     MsgDisp("Honda","Well then, off we go!
-I hope you enjoy the free time too!");
+I hope you enjoy the free period too!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
     ChClose(3,0,30);

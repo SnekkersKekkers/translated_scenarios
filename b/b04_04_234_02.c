@@ -77,7 +77,7 @@ looks a bit mean...");
         MsgDisp("Nanatsumori","Really?
 My head is spinning right now.
 And it's because of you.");
-        MsgDisp("主人公","(？？？)");
+        MsgDisp("主人公","(???)");
         break ;
         default :
         DbgAssert(1);

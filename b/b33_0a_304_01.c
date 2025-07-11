@@ -86,7 +86,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("B330A30401_02_030");
-MsgDisp("Sassa","Okay--!");
+MsgDisp("Sassa","Okay—!");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

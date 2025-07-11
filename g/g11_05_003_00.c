@@ -78,7 +78,7 @@ ChOpen(5,254,0,4,2,-1,-1,0,0,0,30);
 SEWait();
 VoicePlay("G110500300_05_050");
 MsgDisp("Hiiragi","…………");
-MsgDisp("主人公","｛柊＊＊＊｝？");
+MsgDisp("主人公","｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChCheek(5,7);

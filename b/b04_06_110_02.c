@@ -96,7 +96,7 @@ How waas it for you, ｛氷室＊＊｝?");
         ChClose(6);
         VoicePlay("B040611002_06_100");
         MsgDisp("Himuro","Haa... this is the worst.");
-        MsgDisp("主人公","(？？？)");
+        MsgDisp("主人公","(???)");
         break ;
         default :
         DbgAssert(1);

@@ -88,15 +88,15 @@ in hypotheticals...");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040603202_06_080");
-        MsgDisp("Himuro","Then, Reichi-san.");
+        MsgDisp("Himuro","Then, Reiichi-san.");
         MsgDisp("主人公","Eh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0,1);
         VoicePlay("B040603202_06_090");
         MsgDisp("Himuro","The person penguin you would
-see me with is Reichi-san.");
-        MsgDisp("主人公","Reichi-san... you mean 
+see me with is Reiichi-san.");
+        MsgDisp("主人公","Reiichi-san... you mean 
 vice president Himuro?");
         ChEye(6,0);
         ChMouth(6,0);

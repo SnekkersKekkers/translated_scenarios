@@ -42,7 +42,7 @@ me a fresh mindset for the new year.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("F020500012_05_040");
-MsgDisp("Hiiragi","I feel the same--like a bond between
+MsgDisp("Hiiragi","I feel the same—like a bond between
 classmates. It truly is wonderful.
 Maybe I can put this to use on the
 stage...");

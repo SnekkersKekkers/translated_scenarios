@@ -15,7 +15,7 @@ ChMotion(5,0);
 VoicePlay("B070500001_05_110");
 MsgDisp("Hiiragi","That's right.
 But, it's not just that?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChMotion(5,4);
 VoicePlay("B070500001_05_120");
 MsgDisp("Hiiragi","I understand that

@@ -61,7 +61,7 @@ MsgDisp("Kazama","Huh......This is really a big serving,
 isn't it?");
 VoicePlay("D120A00000_47_000");
 MsgDisp("Staff","A service for the young master▼
-Eat well.");
+Itadakimasu.");
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("D120A00000_01_030");

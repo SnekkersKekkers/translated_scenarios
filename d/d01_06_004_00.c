@@ -114,7 +114,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("D010600400_06_090");
-MsgDisp("Himuro","Are you thinking about Reichi-san
+MsgDisp("Himuro","Are you thinking about Reiichi-san
 too when you say that?");
 MsgDisp("主人公","Of course not!
 It's just like I'd expect from you.");

@@ -153,7 +153,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("T020211000_02_190");
 MsgDisp("Sassa","But it didn't work.
 The times I ran alongside you
-will stay within me-——");
+will stay within me——");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,1);

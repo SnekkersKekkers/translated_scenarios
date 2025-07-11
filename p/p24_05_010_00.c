@@ -14,7 +14,7 @@ VoiceEVSPlay(5);
 VoicePlay("P240501000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
 MsgDisp("主人公","｛柊＊＊＊｝, good work.
-IS the Habataki Castle set alright?");
+Is the Habataki Castle set alright?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

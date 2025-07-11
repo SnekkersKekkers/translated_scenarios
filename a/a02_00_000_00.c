@@ -66,7 +66,7 @@ It brought back a lot of memories of
 things from my childhood.)");
 MsgDisp("主人公","(\"It was the day before \"Ryouta\"-kun 
 moved to England. I think it was just 
-me and him in that place--\")");
+me and him in that place—\")");
 MsgClose();
 ScrFadeOut(0,1,120);
 BGOpen("ex980",0);

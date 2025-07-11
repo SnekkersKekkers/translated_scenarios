@@ -50,7 +50,7 @@ I'll get here first from now on.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B010600001_06_050");
-    MsgDisp("Himuro","- That depends on how today goes.");
+    MsgDisp("Himuro","That depends on how today goes.");
     MsgDispSksp(0);
     break ;
     case 4:

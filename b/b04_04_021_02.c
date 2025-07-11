@@ -92,7 +92,7 @@ You thought that of me...");
         VoicePlay("B040402102_04_110");
         MsgDisp("Nanatsumori","Ah, it's no good.
 My heart is being made to race again.");
-        MsgDisp("主人公","(？)");
+        MsgDisp("主人公","(?)");
         break ;
         default :
         DbgAssert(1);

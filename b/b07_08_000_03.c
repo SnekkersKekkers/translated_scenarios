@@ -11,7 +11,7 @@ ChMotion(8,0,1);
 VoicePlay("B070800000_08_120");
 MsgDisp("Shirahane","I help out the sports clubs. Track and
 field club, soccer club, basketball club,
-volleyball club, swimming club -- bring it
+volleyball club, swimming club — bring it
 on.");
 MsgDisp("主人公","Amazing!");
 ChEye(8,3);

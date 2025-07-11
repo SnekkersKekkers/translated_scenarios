@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040315200_03_000");
 MsgDisp("Honda","Do you like it? 
 Darts that is.");
-MsgSel("It's a grown up hobby I guess?","For now, I'll just throw until I hit iT!","Can you teach me the rules?");
+MsgSel("It's a grown up hobby I guess?","For now, I'll just throw until I hit it!","Can you teach me the rules?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

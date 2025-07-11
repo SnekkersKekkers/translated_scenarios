@@ -3,8 +3,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Er,
-｛風真＊＊｝ is...... Ah, there!)");
+    MsgDisp("主人公","(Er, ｛風真＊＊｝ is...... Ah, there!)");
     MsgDisp("主人公","Good morning, ｛風真＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
@@ -13,7 +12,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Good morning.
 You're looking good today.");
     MsgDisp("主人公","Yeah.
-It's our last free time.");
+It's our last free period.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -21,8 +20,7 @@ It's our last free time.");
     MsgDisp("Kazama","Yeah, let's enjoy it till the end.");
     break ;
     case 3:
-    MsgDisp("主人公","(Er,
-｛風真＊＊｝ is...... Ah, there!)");
+    MsgDisp("主人公","(Er, ｛風真＊＊｝ is...... Ah, there!)");
     MsgDisp("主人公","Good morning!
 ｛風真＊＊｝.");
     MsgClose();
@@ -41,11 +39,10 @@ Let's go then.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Er,
-｛風真＊＊｝ is......)");
+    MsgDisp("主人公","(Er, ｛風真＊＊｝ is......)");
     VoiceEVSPlay(1);
     VoicePlay("Q090100000_01_040");
-    MsgDisp("Kazama?","｛主人公｝, Good morning.");
+    MsgDisp("Kazama?","｛主人公｝, good morning.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,-1,-1,0,0);
@@ -58,7 +55,7 @@ You're here already?");
     ChEyeOpenLevel(1,8);
     VoicePlay("Q090100000_01_050");
     MsgDisp("Kazama","It's a shame I can't keep watching you
-lureing around.");
+mulling around.");
     MsgDisp("主人公","Hey now!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -66,7 +63,7 @@ lureing around.");
     VoicePlay("Q090100000_01_060");
     MsgDisp("Kazama","My bad.
 But in the end, I couldn't wait anymore,
-So I called out to you right away.");
+so I called out to you right away.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

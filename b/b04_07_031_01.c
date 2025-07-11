@@ -7,9 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040703101_07_000");
 MsgDisp("Mikage","Fish are the ancestors of us mammals.
-Let's learn something
-from them today.");
-MsgSel("Fish-senpai, it's a pleasure to meet you","They're living fossils huh?","But, fish eyes are scary");
+Let's learn something from them today.");
+MsgSel("Fish-senpai, it's a pleasure to meet you!","They're living fossils, huh?","Fish have scary eyes, though...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -29,7 +28,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B040703101_07_020");
-    MsgDisp("Mikage","Yeah, sturgeon and 
+    MsgDisp("Mikage","Yeah, like sturgeon and 
 coelacanth～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

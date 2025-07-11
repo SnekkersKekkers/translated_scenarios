@@ -18,7 +18,7 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,3,1);
 VoicePlay("D140D07000_22_010");
-MsgDisp("Hikaru","Eh～ that?");
+MsgDisp("Hikaru","Eh～ That?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
@@ -28,15 +28,14 @@ Why do you want to know?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
-MsgDisp("主人公","I mean, your faces are the 
-spitting image of each other, 
-but your hair color is different.
-I wonder why is that?");
+MsgDisp("主人公","I mean, your faces are the splitting image
+of each other, but your hair color is
+different. I wonder why that is?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("D140D07000_21_020");
-MsgDisp("Michiru","Mari is dfferent to us too right?");
+MsgDisp("Michiru","Mari is dfferent from us too right?");
 MsgDisp("主人公","Eh?
 But I'm not your sister...");
 ChEye(22,0);
@@ -49,7 +48,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("D140D07000_21_030");
-MsgDisp("Michiru","Uncle and Himeko Nee san 
+MsgDisp("Michiru","Uncle and Himeko 
 are also completely different.
 Right, Hikaru?");
 ChEye(22,0);

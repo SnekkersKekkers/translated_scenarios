@@ -108,7 +108,7 @@ down the aisle like this?");
     MsgDisp("Kazama","Just think of it as a rehearsal,
 and enjoy yourself?");
     MsgDisp("主人公","Hehe, yeah!");
-    MsgDisp("主人公","((That's right, this is the last one.
+    MsgDisp("主人公","(That's right, this is the last one.
 Let's have fun!)");
     MsgClose();
     ScrFadeOut(0,0);

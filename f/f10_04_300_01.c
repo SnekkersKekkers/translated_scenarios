@@ -14,7 +14,7 @@ with that wig and outfit?
 Are you going to throw it all away?");
 VoicePlay("F100430001_04_010");
 MsgDisp("Nanatsumori?","Hikaru-san, if there's anything you like
-I'll give it to you-——");
+I'll give it to you——");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);

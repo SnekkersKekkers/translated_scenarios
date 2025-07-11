@@ -44,7 +44,7 @@ You're screwing with me aren't you?");
         ChMotion(7,0);
         VoicePlay("B040710102_07_040");
         MsgDisp("Mikage","No, no, don't look so down.");
-        MsgDisp("主人公","O--kay.");
+        MsgDisp("主人公","O—kay.");
         ChEye(7,2);
         ChMouth(7,3);
         ChMotion(7,1);

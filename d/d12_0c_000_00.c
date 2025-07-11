@@ -157,7 +157,7 @@ StlEye(7,1);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("D120C00000_07_060");
 MsgDisp("Mikage","A barbecue isn't allowed. But I
-guess the extracurricular class \"Thermal 
+guess the extracurricular lesson \"Thermal 
 Changes in Vegetables \" is fine?");
 StlEye(6,0,0);
 StlEyeOpenLevel(6,0,1);

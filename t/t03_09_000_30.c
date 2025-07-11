@@ -1,5 +1,5 @@
 MsgDisp("","We will continue to spend time together,
-fight, laugh, and make lots of new
+fighting, laughing, and making lots of new
 memories.");
 MsgDisp("","And someday, when we make our vows to each
 other, I hope we will be blessed with

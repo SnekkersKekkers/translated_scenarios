@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("Q040700000_07_000");
     MsgDisp("Mikage","Oh, good morning.
 You look excited.");
-    MsgDisp("主人公","For today's free time,
+    MsgDisp("主人公","For today's free period,
 could you look around with me?");
     break ;
     case 3:
@@ -22,7 +22,7 @@ could you look around with me?");
 What's up?");
     MsgDisp("主人公","Good morning.
 ｛御影＊＊｝, do you already have
-plans for today's free time?");
+plans for today's free period?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -49,7 +49,7 @@ You look excited today.");
 Thanks to the cheerful greeting, 
 I'm fully awake. So, what's up?");
     MsgDisp("主人公","Yes.
-For today's free time, could you look
+For today's free period, could you look
 around with me?");
     break ;
     default :

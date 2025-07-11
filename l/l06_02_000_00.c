@@ -17,7 +17,7 @@ MsgDisp("Sassa","Here you go.
 In return for the chocolate.");
 SEPlay("EV_SE_664");
 SEWait();
-MsgDisp("主人公","Th, thanks!");
+MsgDisp("主人公","Th-Thanks!");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);

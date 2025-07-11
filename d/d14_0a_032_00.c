@@ -44,7 +44,7 @@ ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A03200_01_020");
-MsgDisp("Kazama","Ah-- that's enough.");
+MsgDisp("Kazama","Ah— that's enough.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

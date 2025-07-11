@@ -20,7 +20,7 @@ MsgDisp("Shirahane","Wait here for a bit!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(8);
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

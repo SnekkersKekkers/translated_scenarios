@@ -49,4 +49,4 @@ MsgDisp("Kazama","Right?
 I wonder, what's the best way to do 
 it...");
 MsgDisp("主人公","(｛風真＊＊｝, are you seriously
-thinking about it?");
+thinking about it?)");

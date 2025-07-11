@@ -141,7 +141,7 @@ ChOpen(7,255,3,0,3,-1,-1,0,0,0,30);
 VoicePlay("B330C30500_07_040");
 MsgDisp("Mikage","When you're here, things
 liven up by themselves.");
-MsgDisp("主人公","(？？？)");
+MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

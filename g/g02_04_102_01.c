@@ -6,7 +6,7 @@ ChEyeOpenLevel(4,8);
 VoicePlay("G020410201_04_000");
 MsgDisp("Nanatsumori","We're not dating...
 right?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -19,7 +19,7 @@ ChEyeOpenLevel(4,8);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410201_04_020");
 MsgDisp("Nanatsumori","…………");
-MsgDisp("主人公","｛七ツ森＊｝？");
+MsgDisp("主人公","｛七ツ森＊｝?");
 ChMouthOpenLevel(4,-1);
 VoicePlay("G020410201_04_030");
 MsgDisp("Nanatsumori","Something's just not adding up...");

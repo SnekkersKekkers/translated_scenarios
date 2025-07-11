@@ -8,7 +8,7 @@ club's efforts...)");
 MsgClose();
 ChOpen(31,254,0,3,3,-1,-1,0,0);
 VoicePlay("P633100002_31_000");
-MsgDisp("Goro","Well, it;s you.
+MsgDisp("Goro","Well, it's you.
 This is a nice terrace, isn't it?");
 MsgDisp("主人公","Goro-sensei, welcome!
 This is Haba High's gardening 

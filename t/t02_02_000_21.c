@@ -15,7 +15,7 @@ ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("T020200021_02_010");
 MsgDisp("Sassa","Seriously......");
-MsgDisp("主人公","｛颯砂＊＊｝？");
+MsgDisp("主人公","｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

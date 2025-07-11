@@ -22,7 +22,7 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("D140B06001_04_000");
 MsgDisp("Nanatsumori","Dahon, what are you doing?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

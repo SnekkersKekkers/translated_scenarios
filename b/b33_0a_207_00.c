@@ -31,7 +31,7 @@ VoicePlay("B330A20700_02_000");
 MsgDisp("Sassa","Uwaa, what's up?
 Why are you clinging 
 onto me like that?");
-MsgDisp("主人公","｛颯砂＊＊｝？");
+MsgDisp("主人公","｛颯砂＊＊｝?");
 VoicePlay("B330A20700_02_010");
 MsgDisp("Sassa","It's dangerous, I'll 
 accidentally step on you.

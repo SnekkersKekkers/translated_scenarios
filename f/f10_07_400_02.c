@@ -12,7 +12,7 @@ BGOpen("sc320",0);
 ChOpen(32,254,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("F100740002_44_000");
-MsgDisp("School Girl A","Ehhh, why is ");
+MsgDisp("School Girl A","Ehhh, why is Vice Principal Himuro here? ");
 VoicePlay("F100740002_42_010");
 MsgDisp("Male Student A","We have biology next right?
 Where's Mikagecchi?");

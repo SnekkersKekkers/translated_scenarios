@@ -18,7 +18,7 @@ I'll go straight home today...)");
     ChOpen(6,254,0,0,0,-1,-1,0,0);
     VoicePlay("F010600006_06_010");
     MsgDisp("Himuro","Another time.");
-    MsgDisp("主人公","But you can't today?");
+    MsgDisp("主人公","So you can't go today?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

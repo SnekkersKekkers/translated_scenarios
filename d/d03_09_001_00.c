@@ -26,8 +26,7 @@ ChMotion(9,4,1);
 VoicePlay("D030900100_09_020");
 MsgDisp("Kuya?","Sure. Maybe I'll be able to hear you 
 more clearly like that. It'll make you 
-look like a baby,
-though.");
+look like a baby, though.");
 VoicePlay("D030900100_44_020");
 MsgDisp("Boy","Sniff......
 I don't want the piggyback ride anymore.");
@@ -122,11 +121,11 @@ ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900100_09_100");
-MsgDisp("Kuya?","You should exercise frequently too
+MsgDisp("Kuya?","You should \"exercise\" frequently too
 so you can be prepared for anything.
 That way you won't have any worries.");
 MsgDisp("主人公","Ah......Right.
-I usually work on my fitness in various
+I usually work on my \"fitness\" in various
 ways.");
 ChEye(9,3);
 ChMouth(9,0);

@@ -83,7 +83,7 @@ MsgClose();
 MsgDisp("主人公","(...?
 No matter how you look at it,
 it's been too long...)");
-MsgDisp("主人公","Everyone! Are you alri-——");
+MsgDisp("主人公","Everyone! Are you alri——");
 SEPlay("EV_SE_573",0,0.9);
 SEWait();
 Wait(10,0);

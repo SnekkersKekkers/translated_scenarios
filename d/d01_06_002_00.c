@@ -63,7 +63,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600200_06_020");
-MsgDisp("Himuro","Why is it Reichi-sa, I mean, why is it
+MsgDisp("Himuro","Why is it Reiichi-sa, I mean, why is it
 the Vice Principal? There are other
 teachers who could participate.");
 ChEye(32,0);

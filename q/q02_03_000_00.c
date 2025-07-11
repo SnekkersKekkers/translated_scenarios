@@ -23,7 +23,7 @@ how about you?");
     ChEyeOpenLevel(3,0);
     VoicePlay("Q020300000_03_010");
     MsgDisp("Honda","Me too. As the well-slept duo, let's go
-together for today's free time!");
+together for today's free period!");
     MsgSel("Sure, I'm coming！","Sorry, it's just……");
     switch (MsgSelRsltGet()){
         case 0:
@@ -39,7 +39,7 @@ together for today's free time!");
         VoicePlay("Q020300000_03_030");
         MsgDisp("Honda","No problem, now what should we do? There
 are so many places I want to go to.");
-        MsgDisp("主人公","(Hehe. I can't wait for the free time
+        MsgDisp("主人公","(Hehe. I can't wait for the free period
 together with ｛本多＊＊｝!)");
         break ;
         case 1:
@@ -53,7 +53,7 @@ together with ｛本多＊＊｝!)");
         ChMotion(3,1,1);
         VoicePlay("Q020300000_03_050");
         MsgDisp("Honda","Welp, that can't be helped.
-Let's both enjoy the free time!");
+Let's both enjoy the free period!");
         MsgDisp("主人公","(He even invited me,
 I feel bad......)");
         break ;
@@ -78,9 +78,9 @@ Found you!　I was looking for you!");
     ChMotion(3,1,1);
     VoicePlay("Q020300000_03_070");
     MsgDisp("Honda","Morning! How about we walk around together
-for the free time? I've already perfected
-a simulation on the best routes to take
-and all, so what do you think?");
+for the free period? I've already
+perfected a simulation on the best routes
+to take and all, so what do you think?");
     MsgSel("Sure, I'm coming！","Sorry, it's just……");
     switch (MsgSelRsltGet()){
         case 0:

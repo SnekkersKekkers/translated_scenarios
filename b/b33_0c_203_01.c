@@ -70,7 +70,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C20301_06_030");
-MsgDisp("Himuro","？");
+MsgDisp("Himuro","?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

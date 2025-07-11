@@ -78,7 +78,7 @@ That would be most effective.");
         VoicePlay("B040211102_02_060");
         MsgDisp("Sassa","Right, it's like a hot drink.
 If you drink it, you'll have breathe a 
-\"Hooo--to\" sigh of relief. ");
+\"Hooo—to\" sigh of relief. ");
         MsgDisp("主人公","Yeah.");
         ChEye(2,0);
         ChMouth(2,2);

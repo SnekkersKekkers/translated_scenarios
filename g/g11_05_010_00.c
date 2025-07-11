@@ -20,7 +20,7 @@ ScrFadeIn(0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110501000_05_010");
 MsgDisp("Hiiragi","......Ahem.
-IS there something stuck to my face?");
+Is there something stuck to my face?");
 MsgDisp("主人公","No, sorry for staring.");
 ChEye(5,0);
 ChMouth(5,0);

@@ -97,7 +97,7 @@ ChClose(6,0,30);
 VoicePlay("B330A10400_01_030");
 VoicePlay("B330A10400_02_040");
 VoicePlay("B330A10400_06_050");
-MsgDisp("Everyone","Okay, first rock--, paper,-- 
+MsgDisp("Everyone","Okay, first rock—, paper,— 
 scissors!");
 MsgClose();
 ScrFadeOut(0);

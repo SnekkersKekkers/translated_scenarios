@@ -112,7 +112,7 @@ we got split up along the way.");
 VoicePlay("B330A10801_06_040");
 MsgDisp("Himuro","What, why are you saying it 
 as if it was some divine 
-force at plaY?");
+force at play?");
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);

@@ -35,7 +35,7 @@ ChMotion(3,4);
 VoicePlay("X210300000_03_040");
 MsgDisp("Honda","Being Rose Queen isn't about just 
 appearance, but demands both brains 
-and beauty--the face of this 
+and beauty—the face of this 
 Habataki High School, so to speak. ");
 ChEye(3,4);
 ChMouth(3,3);

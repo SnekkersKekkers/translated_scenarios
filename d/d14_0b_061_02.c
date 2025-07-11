@@ -42,7 +42,7 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("D140B06102_03_020");
-MsgDisp("Honda","Ahh--, hey!
+MsgDisp("Honda","Ahh—, hey!
 It's about you and Mii-kun!");
 ChEye(1,2);
 ChEyeOpenLevel(1,8);

@@ -23,7 +23,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_013");
 BGOpen("sc340",0);
 ScrFadeIn(0);
-MsgDisp("主人公","……｛七ツ森＊｝？");
+MsgDisp("主人公","……｛七ツ森＊｝?");
 MsgDisp("主人公","(Huh?
 I guess he isn't here......)");
 VoicePlay("D010400200_04_000");

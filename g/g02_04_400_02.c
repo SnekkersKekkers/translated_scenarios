@@ -53,7 +53,7 @@ ChMotion(4,1,1);
 VoicePlay("G020440002_04_080");
 MsgDisp("Nanatsumori","Forget what I said just now! This must be
 because of the firefly habitat.");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);

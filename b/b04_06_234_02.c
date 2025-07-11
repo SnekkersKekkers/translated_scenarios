@@ -105,7 +105,7 @@ I don't know why I said that.");
         VoicePlay("B040623402_06_110");
         MsgDisp("Himuro","...Haa, maybe I should have 
 approached it more naturally. ");
-        MsgDisp("主人公","(｛氷室＊＊｝……？)");
+        MsgDisp("主人公","(｛氷室＊＊｝……?)");
         break ;
         default :
         DbgAssert(1);

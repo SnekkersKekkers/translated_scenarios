@@ -31,7 +31,7 @@ StlOpen("ev_06_06");
 StlEye(6,0);
 StlMouth(6,0);
 ScrFadeIn(0);
-MsgDisp("主人公","……｛氷室＊＊｝？");
+MsgDisp("主人公","……｛氷室＊＊｝?");
 StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0);

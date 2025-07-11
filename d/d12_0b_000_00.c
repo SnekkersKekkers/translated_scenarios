@@ -82,7 +82,7 @@ MsgDisp("Nanatsumori","......I just had a great idea.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

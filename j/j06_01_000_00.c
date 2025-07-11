@@ -38,7 +38,7 @@ Is this a date?)");
         VoicePlay("J060100000_01_020");
         MsgDisp("Kazama","Copy that.
 Where do you want to meet up?");
-        MsgDisp("主人公","How about at ｛待ち合わせ場所｝?");
+        MsgDisp("主人公","How about we meet at ｛待ち合わせ場所｝?");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);

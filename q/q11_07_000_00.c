@@ -13,14 +13,14 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("Q110700000_07_010");
 MsgDisp("Mikage","That's nice.
-I tasted too, it was yummy.");
+I tasted it too, it was yummy.");
 MsgDisp("主人公","What did you buy, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("Q110700000_07_020");
 MsgDisp("Mikage","It's the MVP award for the 
-extracurricular class Nagasaki version.");
+extracurricular lesson Nagasaki version.");
 MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.7,0.4);
 ChClose(7);

@@ -68,7 +68,7 @@ VoicePlay("Q070301000_03_040");
 MsgDisp("Honda","I've never felt like that before. I was
 interrupted in my time with you...... I
 didn't like it at all.");
-MsgDisp("主人公","｛本多＊＊｝ ……？");
+MsgDisp("主人公","｛本多＊＊｝ ……?");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("Q070301000_48_000");
@@ -80,7 +80,7 @@ MsgDisp("Woman D","Yeah.
 I wonder where the quiz king is......");
 StlEye(3,1);
 StlMouth(3,1);
-MsgDisp("主人公"," ｛本多＊＊｝ ？");
+MsgDisp("主人公"," ｛本多＊＊｝ ?");
 StlEye(3,3);
 StlMouth(3,2);
 VoicePlay("Q070301000_03_050");
@@ -112,8 +112,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q070301000_03_080");
-MsgDisp("Honda","For me, the most important is having 
-free time with you.
+MsgDisp("Honda","For me, the most important is spending
+the free period with you.
 Come on, let's go!");
 MsgDisp("主人公","Yeah!
 Thanks, ｛本多＊＊｝.");

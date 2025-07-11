@@ -44,7 +44,7 @@ ChMouth(3,1);
 ChMotion(3,5);
 VoicePlay("G020320200_03_070");
 MsgDisp("Honda","No, that's not it! I mean, it is, but!");
-MsgDisp("主人公","｛本多＊＊｝……？");
+MsgDisp("主人公","｛本多＊＊｝……?");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,1);

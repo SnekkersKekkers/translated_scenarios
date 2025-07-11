@@ -156,7 +156,7 @@ You forgot your flowers!");
 the store. Please display it anywhere
 you'd like.");
     MsgDisp("主人公","Huh∋
-Th, thank you!");
+Th-Thank you!");
     MsgDisp("主人公","(｛柊＊＊＊｝......
 Yeah, let's display it with care!)");
     break ;

@@ -21,10 +21,10 @@ ChOpen(1,100,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("G110101100_01_000");
-MsgDisp("Kazama","｛主人公｝, How is it, have you gotten used
+MsgDisp("Kazama","｛主人公｝. How is it, have you gotten used
 to part time work yet?");
 MsgDisp("主人公","Yes it's thanks to ｛風真＊＊｝...... No,
-rather, it's thanks to 'Senpai's' help.");
+rather, it's thanks to \"Senpai's\" help.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);
@@ -41,9 +41,9 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,-1);
 VoicePlay("G110101100_01_020");
-MsgDisp("Kazama","Surely it's just 
-because you're a good staff member?");
-MsgDisp("主人公","Should I aim to be a star shop assistant?");
+MsgDisp("Kazama","Surely it's just because you're a good
+employee?");
+MsgDisp("主人公","Should I aim to be employee of the month?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -53,9 +53,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101100_01_040");
-MsgDisp("Kazama","Well isn't this good training
-for your future?");
-MsgDisp("主人公","(......Future?)");
+MsgDisp("Kazama","Well, training for the future might
+be good, I guess.");
+MsgDisp("主人公","(......The future?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

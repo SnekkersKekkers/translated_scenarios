@@ -40,7 +40,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330B20401_01_010");
 MsgDisp("Kazama","...Ah.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(1,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20401_03_010");

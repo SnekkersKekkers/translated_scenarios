@@ -19,8 +19,8 @@ Good morning, ｛本多＊＊｝.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("Q090300000_03_010");
-    MsgDisp("Honda","This is our last free time.
-Make no regrets——");
+    MsgDisp("Honda","This is our last free period.
+Have no regrets——");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -43,7 +43,7 @@ I was waiting for you.");
     ChMotion(3,4,1);
     VoicePlay("Q090300000_03_040");
     MsgDisp("Honda","I mean, isn't this the last
-free time? We need to use time wisely.");
+free period? We need to use time wisely.");
     ChFace(3,3);
     ChMotion(3,1,1);
     ChEyeOpenLevel(3,0);

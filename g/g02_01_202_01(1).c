@@ -19,7 +19,7 @@ VoicePlay("G020120201_01_020");
 MsgDisp("Kazama","I thought it would be natural
 for me to be the closest to you
 ......but, I was wrong.");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

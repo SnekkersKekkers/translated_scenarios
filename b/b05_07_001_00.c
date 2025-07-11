@@ -50,7 +50,7 @@ StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("B050700100_07_040");
 MsgDisp("Mikage","…………");
-MsgDisp("主人公","……？");
+MsgDisp("主人公","……?");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700100_07_050");

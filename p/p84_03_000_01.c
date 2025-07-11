@@ -26,7 +26,7 @@ ChMotion(3,3,1);
 VoicePlay("P840300001_03_030");
 MsgDisp("Honda","Well, if I help too, we can finish quicker
 and head to the food stalls! I'm famished.");
-MsgDisp("主人公","((I didn't even realize I was
+MsgDisp("主人公","(I didn't even realize I was
 making such a scary face... a huge fail.
 It's important to get help.)");
 MsgClose();

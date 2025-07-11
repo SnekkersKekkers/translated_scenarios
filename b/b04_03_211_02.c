@@ -103,7 +103,7 @@ plate in your eye too...");
         SEPlay("EV_SE_544");
         ChLayout(1);
         VoicePlay("B040321102_03_100");
-        MsgDisp("Honda","Super interesting, as I thoughT!
+        MsgDisp("Honda","Super interesting, as I thought!
 I want to know more and more about you!");
         MsgDisp("主人公","(I'm a bit embarrassed...)");
         break ;

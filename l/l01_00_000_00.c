@@ -1,9 +1,9 @@
 ScrFadeIn(0);
 MsgDisp("主人公","Alright, let's go home.
 ......Ah!");
-MsgDisp("主人公","Come to think of it,
-it's almost Valentine's day,
-but I don't have any chocolate yet!");
+MsgDisp("主人公","Come to think of it, it's almost
+Valentine's day, but I don't have any
+chocolate yet!");
 MsgDisp("主人公","Let's go to the store and look.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

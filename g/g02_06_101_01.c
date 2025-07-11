@@ -11,7 +11,7 @@ ChMotion(6,4);
 VoicePlay("G020610101_06_010");
 MsgDisp("Himuro","Ah......
 ——Sorry, disregard what I said just now.");
-MsgDisp("主人公","｛氷室＊＊｝？");
+MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

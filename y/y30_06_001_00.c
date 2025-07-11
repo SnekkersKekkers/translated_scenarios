@@ -9,10 +9,10 @@ MsgDisp("","It was the career path survey sheet
 handed out during the homeroom 
 at the end of the day.");
 MsgClear();
-MsgDisp("","Students at Habataki High School's
-middle school generally advance to
-the high school division through the
-escalator system.");
+MsgDisp("","Students at Habataki's Middle School
+generally advance to the high school
+division through the escalator
+system.");
 MsgDisp("","Of course, to advance
 There's required grades in addition, 
 and you need to take a written exam.");
@@ -25,7 +25,7 @@ there's a column to enter the name of
 other schools.");
 MsgDisp("","When I received the paper, 
 I immediately circled 'advance 
-onto high school',");
+onto high school'.");
 MsgClear();
 VoicePlay("Y300600100_42_000");
 MsgDisp("Male Student","\"Must be nice to be Himuroー,
@@ -93,9 +93,8 @@ MsgClear();
 MsgDisp("","And so, at the time I entered middle
 school, when my teachers heard that,
 I was quite well-known.");
-MsgDisp("","But, everyone
-Only saw the surname 'Himuro'
-and not me as a person.");
+MsgDisp("","But, everyone only looked at the name
+'Himuro' and not me as a person.");
 MsgClear();
 VoicePlay("Y300600100_06_030");
 MsgDisp("Himuro","\"Am I really going to the high
@@ -111,18 +110,18 @@ BGOpen("ad612",0);
 ScrFadeIn(0);
 MsgDisp("","Until now, I had decided without
 doubt. But I began to be skeptical of
-my path, And so, even the legs that
-had intended to go home, I noticed
-had began to face the sea.");
+my path, And so, the legs that had
+intended to go home, turned towards
+the sea.");
 MsgDisp("","My insignificant existence,
 my insignificant worries.");
 MsgDisp("","When I look at the sea, 
 all that I carry appears small, 
 and I feel light.");
 MsgClear();
-MsgDisp("","when it comes down to it, The reason
+MsgDisp("","When it comes down to it, the reason
 I started surfing was because I
-became conscious of my surname.");
+became conscious of my name.");
 MsgDisp("","I didn't want to appear as a stubborn
 person, I wanted to find a me that
 was different to my relatives.
@@ -130,25 +129,24 @@ Getting tossed around by the waves
 many times, I challenged myself.");
 MsgClear();
 MsgDisp("","And then, that time I first rode a
-wave,");
-MsgDisp("","I experienced the greatness of a wave
-through a board that was only a few
-centimetres thick. It was an
-illusion, as if I had conquered this
-vast ocean.");
-MsgDisp("","In that instant, for the first time I
-felt as if I was able to get a hold
-of a sensation and time only I could
-obtain.");
+wave...");
+MsgDisp("","I experienced a magnificent wave on a
+board that was only a few centimetres
+thick. I had an epiphany, feeling as
+though I had conquered the entire
+ocean.");
+MsgDisp("","In that instant, for the first time,
+I felt as though I had a feeling, a
+moment that was unique to me.");
 MsgClear();
 MsgDisp("","——That's right. No matter what other
 people say, I am me.");
-MsgDisp("","Unless I can prove that to myself, 
+MsgDisp("","Until I prove that to myself, 
 even if I go to another school,
 I won't be stisfied there.");
 MsgDisp("","Proving that to myself at Habataki
-High School, where Reichi-san is, has
-value.");
+High School, where Reiichi-san is,
+has value.");
 MsgClear();
 MsgDisp("","Each time a roar of waves accumulate,
 I feel that the thing that made me
@@ -158,11 +156,10 @@ MsgDisp("","The answer is already clear.");
 VoicePlay("Y300600100_06_040");
 MsgDisp("Himuro","\"Because I am who I am.\"");
 MsgClear();
-MsgDisp("","Muttering this, 
-I stare at the horizon
-stretching to my left.");
-MsgDisp("","Being bathed in the early summer sun,
-The sparkling ocean was even more
+MsgDisp("","Muttering this, I stared into the
+horizon and stretched.");
+MsgDisp("","As I bathed in the early summer sun,
+the sparkling ocean was even more
 dazzling than usual.");
 BGMStop();
 MsgClear();

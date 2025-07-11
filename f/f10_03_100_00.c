@@ -41,10 +41,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("F100310000_03_040");
-MsgDisp("Honda","But I always see the,
-That's why I was observing it.
-I wondered if the owners would 
-show up during lunch break.");
+MsgDisp("Honda","But I always see them, that's why I was
+observing it. I wondered if the owners
+would show up during lunch break.");
 MsgDisp("主人公","So, did they?");
 ChEye(3,0);
 ChMouth(3,3);

@@ -7,7 +7,7 @@ ChOpen(21,35,0,0,4,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("I562100004_21_000");
 MsgDisp("Michiru","Ah......
-We're running low on mame daifuku.");
+We're running low on Mame Daifuku.");
 MsgDisp("主人公","It's okay.
 I requested more earlier.");
 ChEye(21,4);
@@ -18,7 +18,7 @@ MsgDisp("Michiru","Thank goodness.
 But it looked like we still had a few
 earlier......");
 MsgDisp("主人公","Hehe. We had a lot of customers
-buying mame daifuku today so I ordered
+buying Mame Daifuku today so I ordered
 the next batch early.");
 ChEye(21,4);
 ChMouth(21,3);

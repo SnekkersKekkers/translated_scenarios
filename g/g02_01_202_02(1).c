@@ -25,7 +25,7 @@ ChEyeOpenLevel(1,9);
 ChMouthOpenLevel(1,0);
 VoicePlay("G020120202_01_030");
 MsgDisp("Kazama","…………");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,0);
@@ -39,8 +39,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120202_01_050");
-MsgDisp("Kazama","If it were Honda,
-he would satisfy your curiosities.");
+MsgDisp("Kazama","If it were Honda, he would satisfy your
+curiosities.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

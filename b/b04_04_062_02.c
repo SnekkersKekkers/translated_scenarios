@@ -94,14 +94,14 @@ The person I like...");
         VoicePlay("B040406202_04_090");
         MsgDisp("Nanatsumori","Crap.
 I was already caught in a dream.");
-        MsgDisp("主人公","？？？");
+        MsgDisp("主人公","???");
         ChEye(4,4);
         ChMouth(4,3);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040406202_04_100");
         MsgDisp("Nanatsumori","I see, so it's this sort of feeling...
 Like heaven on earth...");
-        MsgDisp("主人公","(｛七ツ森＊｝？)");
+        MsgDisp("主人公","(｛七ツ森＊｝?)");
         break ;
         default :
         DbgAssert(1);

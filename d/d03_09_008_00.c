@@ -58,7 +58,7 @@ VoicePlay("D030900800_09_040");
 MsgDisp("Kuya","I got off of the bus because that kid
 looked like he was in trouble.");
 MsgDisp("主人公","Hehe, whenever you see someone in
-trouble you have to help thing, huh?");
+trouble you have to help them, huh?");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -73,7 +73,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030900800_09_060");
-MsgDisp("Kuya","Eh, this is your school route.");
+MsgDisp("Kuya","Eh, so this is your school route?");
 MsgDisp("主人公","Yep.");
 ChEye(9,3);
 ChMouth(9,4);

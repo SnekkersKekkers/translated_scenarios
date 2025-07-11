@@ -18,7 +18,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("A020250000_02_020");
-MsgDisp("Sassa","Ah-- rather than know each other, 
+MsgDisp("Sassa","Ah— rather than know each other, 
 we're-");
 ChEye(2,0);
 ChMouth(2,0);

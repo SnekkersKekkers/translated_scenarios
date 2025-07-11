@@ -32,7 +32,7 @@ ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("Q020C00100_05_010");
 MsgDisp("Hiiragi","｛主人公｝. Would you be inclined to spend
-today's free time with us?");
+today's free period with us?");
 MsgSel("Yes, please！","Sorry, it's just……");
 switch (MsgSelRsltGet()){
     case 0:
@@ -69,13 +69,13 @@ I was worried you'd reject going with us.");
     ChMotion(7,1);
     VoicePlay("Q020C00100_07_030");
     MsgDisp("Mikage","Sorry for that.
-Well then, Let's finally go.");
+Well then, let's finally go.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
     MsgDisp("主人公","(Hehe.
 I have the feeling this will become 
-a fun free time!)");
+a fun free period!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);
@@ -110,7 +110,7 @@ I'm also sorry.");
     ChMotion(7,5);
     VoicePlay("Q020C00100_07_060");
     MsgDisp("Mikage","C'mon, why are you apologising.
-Look, it's free time, so be free!");
+Look, it's a free period, so be free!");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

@@ -53,7 +53,7 @@ ChMotion(2,4);
 VoicePlay("D130A00000_02_010");
 MsgDisp("Sassa","Eh?
 I'm your childhood friend too though.");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

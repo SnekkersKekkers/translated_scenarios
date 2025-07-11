@@ -20,7 +20,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("Q020100000_01_010");
     MsgDisp("Kazama","Hey, how about we spend
-the free time together?");
+the free period together?");
     MsgSel("Yes, I'm coming！","Sorry, it's just……");
     switch (MsgSelRsltGet()){
         case 0:
@@ -68,9 +68,8 @@ I feel bad......)");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q020100000_01_060");
-    MsgDisp("Kazama","Good morning.
-About the free time,
-Have you decided who you're going with?");
+    MsgDisp("Kazama","Good morning. About the free period, have
+you decided who you're going with?");
     MsgDisp("主人公","No.
 ｛風真＊＊｝, have you?");
     ChEye(1,0);
@@ -97,7 +96,7 @@ I was thinking of where I want to go.");
         VoicePlay("Q020100000_01_090");
         MsgDisp("Kazama","Oh well......
 So, where do you want to go?");
-        MsgDisp("主人公","(Hehe, this free time is gonna be fun!)");
+        MsgDisp("主人公","(Hehe, this free period is gonna be fun!)");
         break ;
         case 1:
         ChEye(1,2);

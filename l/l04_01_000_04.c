@@ -98,7 +98,7 @@ and your sense, right?");
     ChMotion(1,3);
     ChCheek(1,7);
     VoicePlay("L040100004_01_110");
-    MsgDisp("Kazama","Hey, a, a child, you!");
+    MsgDisp("Kazama","Hey, a-a child, you!");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,4);

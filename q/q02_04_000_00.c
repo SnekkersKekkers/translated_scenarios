@@ -17,7 +17,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
     ChMotion(4,1,1);
     VoicePlay("Q020400000_04_010");
-    MsgDisp("Nanatsumori","For today's free time, do you wanna come
+    MsgDisp("Nanatsumori","For today's free period, do you wanna come
 with me?");
     MsgSel("Sure, I'm coming！","Sorry, it's just……");
     switch (MsgSelRsltGet()){
@@ -69,8 +69,8 @@ Good morning.");
     MsgDisp("Nanatsumori","Mhm. It's good that you're full of energy.");
     ChMotion(4,1,1);
     VoicePlay("Q020400000_04_070");
-    MsgDisp("Nanatsumori","Wanna hang out during the free time period
-together?");
+    MsgDisp("Nanatsumori","Wanna hang out during the free period
+period together?");
     MsgSel("Sure, I'm coming！","Sorry, it's just……");
     switch (MsgSelRsltGet()){
         case 0:
@@ -86,8 +86,8 @@ together?");
         VoicePlay("Q020400000_04_090");
         MsgDisp("Nanatsumori","Nothing. I hope we can make great memories
 together.");
-        MsgDisp("主人公","(Hehe!
-I'm sure this free time will be a blast!)");
+        MsgDisp("主人公","(Hehe! I'm sure this free period will be a
+blast!)");
         break ;
         case 1:
         ChEye(4,2);

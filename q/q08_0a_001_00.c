@@ -21,8 +21,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q080A00100_01_010");
-MsgDisp("Kazama","So, it's settled that we're going to
-spend the next free time also together.");
+MsgDisp("Kazama","So, it's settled. We're going to
+spend the next free period together.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -45,7 +45,7 @@ VoicePlay("Q080A00100_02_020");
 MsgDisp("Sassa","Yeah, right.");
 MsgDisp("主人公","Yeah! Deal.");
 ChEye(1,0);
-MsgDisp("主人公","(The next free time is going to be fun!
+MsgDisp("主人公","(The next free period is going to be fun!
 I can't wait!)");
 MsgClose();
 ScrFadeOut(0);

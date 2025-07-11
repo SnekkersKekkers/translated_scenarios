@@ -14,8 +14,8 @@ MsgDisp("主人公","The round piers reflect on the water,
 making it look like a pair of glasses.");
 ChMotion(4,2,1);
 VoicePlay("Q100400000_04_010");
-MsgDisp("Nanatsumori","Now that I think about it,
-The Chancellor's glasses are round too.");
+MsgDisp("Nanatsumori","Now that I think about it, the Principal's
+glasses are round too.");
 MsgDisp("主人公","...... Ah, they are!");
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
@@ -26,7 +26,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q100400000_04_030");
-MsgDisp("Nanatsumori","......pfft! I can't believe we're here and
+MsgDisp("Nanatsumori","......Pfft! I can't believe we're here and
 we're thinking about school. How serious
 can we be∋");
 MsgDisp("主人公","Ahaha!

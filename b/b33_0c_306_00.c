@@ -86,7 +86,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B330C30600_05_030");
 MsgDisp("Hiiragi","Yeah, I see...");
-MsgDisp("主人公","((｛柊＊＊＊｝ is always thinking of
+MsgDisp("主人公","(｛柊＊＊＊｝ is always thinking of
 theater... It would be nice if he found
 some new inspiration for his plays when we
 all go out together...)");

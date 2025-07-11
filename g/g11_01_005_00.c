@@ -25,22 +25,22 @@ ChMotion(1,0);
 VoicePlay("G110100500_01_000");
 MsgDisp("Kazama","Speaking of, 
 What will you do with the wedding dresses
-worn to the cultural festival?");
-MsgDisp("主人公","It'll be on the mannequin 
+from the cultural festival?");
+MsgDisp("主人公","It'll be on display on the mannequin 
 in the clubroom for a while.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100500_01_010");
 MsgDisp("Kazama","And then after that?");
-MsgDisp("主人公","All sorts.
+MsgDisp("主人公","Nothing in particular.
 Some of my seniors took them home, 
 ......or recycled them.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,2);
 VoicePlay("G110100500_01_020");
-MsgDisp("Kazama","Recycle∋");
+MsgDisp("Kazama","Recycled them∋");
 MsgDisp("主人公","Yeah. It can also be used as a reference
 for the junior members.");
 ChEye(1,0);
@@ -48,7 +48,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100500_01_030");
 MsgDisp("Kazama","As for yours, you should take it home.");
-MsgDisp("主人公","Eh......y-yeah.
+MsgDisp("主人公","Eh......Y-Yeah.
 I'll look after it until I graduate, 
 until then, I'll think about it.");
 ChEye(1,0);

@@ -66,7 +66,7 @@ ChMouth(1,4);
 ChMotion(1,4);
 VoicePlay("B040106402_01_050");
 MsgDisp("Kazama","And by the way... You got it right.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChMouth(1,2);
 ChCheek(1,10);
 VoicePlay("B040106402_01_060");

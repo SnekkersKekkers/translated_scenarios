@@ -83,7 +83,7 @@ thing on his mind.");
     MsgDisp("Michiru","It's a new challenge that's
 different from before. He's setting his
 sights on it......");
-    MsgDisp("主人公","？");
+    MsgDisp("主人公","?");
     StlEye(21,0);
     StlEye(22,0);
     StlMouth(22,0);

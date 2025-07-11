@@ -64,7 +64,7 @@ MsgDisp("主人公","\"｛本多＊＊｝!
 Shall we go explore together?\"");
 VoicePlay("Y300300500_03_010");
 MsgDisp("Honda","\"Of course. I'll commentate on
-everything thoroughlY!\"");
+everything thoroughly!\"");
 MsgClear();
 MsgDisp("","After two weeks, That warmth within
 me has arosen again.");

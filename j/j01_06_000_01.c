@@ -4,11 +4,10 @@ SEPlay("EV_SE_663");
 Wait(10,0);
 SEWait();
 VoicePlay("J010600001_47_000");
-MsgDisp("Voice Mail","You've reached
-the voicemail service.");
+MsgDisp("Voice Mail","You've reached the voicemail service.");
 VoicePlay("J010600001_47_010");
-MsgDisp("Voice Mail","Your correspondant
-is unable to reach the phone at the 
+MsgDisp("Voice Mail","The person you're trying to reach
+is unable to answer the phone at the 
 moment. Please leave a message.");
 MsgDisp("主人公","Huh, what should I do......");
 MsgSel("Leave a message","Hang up the phone");

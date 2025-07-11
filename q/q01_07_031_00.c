@@ -23,7 +23,7 @@ VoicePlay("Q010703100_07_020");
 MsgDisp("Mikage","Things like quietly slipping into your
 futon and having girl talk? Even I know of
 that.");
-MsgDisp("主人公","｛御影＊＊｝  has experience with that 
+MsgDisp("主人公","｛御影＊＊｝ has experience with that 
 as well?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -49,7 +49,7 @@ MsgDisp("Mikage","You too, go have fun back in your room! Or
 better yet, go to sleep!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","Oka-y.");
+MsgDisp("主人公","Okay!");
 SEStop("EV_SE_867",1);
 SEStop("EV_SE_863",1);
 SEStop("EV_SE_868",1);

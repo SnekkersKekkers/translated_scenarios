@@ -70,7 +70,7 @@ you wanted to do for our shrine visit?");
     MsgDisp("Shirahane","......Oh no.
 New Years was already such a treat, how
 will I manage for the rest of the year?");
-    MsgDisp("主人公","？？？");
+    MsgDisp("主人公","???");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);

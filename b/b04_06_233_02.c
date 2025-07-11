@@ -116,7 +116,7 @@ for that anyways.");
         ChMotion(6,1);
         VoicePlay("B040623302_06_110");
         MsgDisp("Himuro","Nothing.");
-        MsgDisp("主人公","？？？");
+        MsgDisp("主人公","???");
         break ;
         default :
         DbgAssert(1);

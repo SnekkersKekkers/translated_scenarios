@@ -8,19 +8,19 @@ switch (ChPrmGet(1,6)){
     break ;
     case 4:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Huh? Is　｛風真＊＊｝ )");
+    MsgDisp("主人公","(Huh? It's ｛風真＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
     MsgDisp("主人公","Hello.
 What's wrong?");
     VoicePlay("J040100001_01_000");
-    MsgDisp("Kazama","Ah,can I talk to you for a second?");
+    MsgDisp("Kazama","Ah, can I talk to you for a second?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040100001_01_010");
     MsgDisp("Kazama","Sunday is coming.
-So, hey, are you free?");
-    MsgSel("Yeah, I'm free","I have some business to take care of……");
+Are you free?");
+    MsgSel("Yeah, I'm free.","I have some business to take care of……");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

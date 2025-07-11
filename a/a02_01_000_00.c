@@ -201,12 +201,12 @@ I decided to come live here on my own
 for a while.");
 MsgDisp("主人公","You're gonna live in that big house 
 all by yourself? Well, if you're ever 
-in trouble--");
+in trouble—");
 NSSEye(1,0);
 NSSMouth(1,3);
 NSSEyeOpenLevel(1,5);
 VoicePlay("A020100000_01_140");
-MsgDisp("Kazama","More importantly--");
+MsgDisp("Kazama","More importantly—");
 NSSEye(1,6);
 NSSMouth(1,0);
 VoicePlay("A020100000_01_150");

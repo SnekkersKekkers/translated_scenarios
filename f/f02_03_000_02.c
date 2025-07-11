@@ -44,7 +44,7 @@ MsgDisp("Honda","Mhm! I hope you're excited, cause I've
 got plenty of legends in store for you.
 Which one first??");
 MsgDisp("主人公","Um, so you know the stained glass in
-the church? I want to know--");
+the church? I want to know—");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,5);

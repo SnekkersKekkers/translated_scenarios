@@ -19,8 +19,8 @@ me.");
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
 VoicePlay("F110110001_48_000");
-MsgDisp("School Girl A","Kazama-senpai, 
-can't we walk around together?");
+MsgDisp("School Girl A","Kazama-senpai, if it's okay, can we walk
+around together?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -33,7 +33,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("F110110001_01_030");
-MsgDisp("Kazama","Um, well--");
+MsgDisp("Kazama","Um, well—");
 SEPlay("EV_SE_802",0,0.6);
 Wait(130,1);
 SEStop("EV_SE_802",2);

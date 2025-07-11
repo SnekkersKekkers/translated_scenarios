@@ -50,7 +50,7 @@ MsgDisp("Himuro","Sensei has a long reach,
 so stretch your arm as far as you can,
 get close to the target, and throw.");
 VoicePlay("B330C20500_07_010");
-MsgDisp("Mikage","Uh-- 
+MsgDisp("Mikage","Uh— 
 h-how is it, like this?");
 VoicePlay("B330C20500_06_030");
 MsgDisp("Himuro","More.

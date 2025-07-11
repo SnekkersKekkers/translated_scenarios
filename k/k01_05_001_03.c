@@ -16,7 +16,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,-1);
 VoicePlay("K010500103_05_020");
-MsgDisp("Hiiragi","Th, thank you.
+MsgDisp("Hiiragi","Th-Thank you.
 I will think about how best to use this.
 Allow me to take it home.");
 MsgClose();

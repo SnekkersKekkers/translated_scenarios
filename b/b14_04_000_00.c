@@ -41,7 +41,7 @@ Did I say something weird?");
 VoicePlay("B140400000_04_050");
 MsgDisp("Nanatsumori","No, I just thought that
 was so like you.");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChMotion(4,0,1);
 ChCheek(4,5);
 VoicePlay("B140400000_04_060");

@@ -168,8 +168,7 @@ SEWait();
 Wait(10,0);
 ChMotion(1,0);
 SEPlay("EV_SE_505");
-MsgDisp("","
-Smooch");
+MsgDisp("","Smooch");
 ChEye(1,0);
 ChCheek(1,5);
 MsgClose();

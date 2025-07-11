@@ -10,15 +10,14 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q080D00000_21_000");
-MsgDisp("Michiru","Going around with your bestest friends
-is the best.");
+MsgDisp("Michiru","Wandering around with your best friends
+is amazing.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q080D00000_22_000");
-MsgDisp("Hikaru","Let's go the next free time together 
-too♪
-Right?");
+MsgDisp("Hikaru","Let's spend the next free period together
+too♪ Okay?");
 MsgDisp("主人公","Yeah, sure!");
 MsgClose();
 ScrFadeOut(0,0);

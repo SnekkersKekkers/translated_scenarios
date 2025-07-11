@@ -64,7 +64,7 @@ ChMotion(4,0,1);
 VoicePlay("B360415201_04_080");
 MsgDisp("Nanatsumori","That means the rival 
 battle is about to begin.");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

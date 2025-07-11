@@ -64,7 +64,7 @@ ChMotion(4,2);
 VoicePlay("G110400704_04_080");
 MsgDisp("Nanatsumori","...Yeah.
 In any case, I'm fine with it...");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0);

@@ -22,7 +22,7 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,4);
     VoicePlay("R040700001_07_020");
     MsgDisp("Mikage","You must be the reason why so
-many guys here are nervious, right?");
+many guys here are nervous, right?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0,1);

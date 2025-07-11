@@ -45,7 +45,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("T020311000_03_260");
 MsgDisp("Honda","I'll be careful not to bury myself in
-books again! Then, see you.");
+books again! See you.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

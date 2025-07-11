@@ -26,7 +26,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P540100004_01_020");
 MsgDisp("Kazama","Well, that's based off my criteria.
-IS there a problem?");
+Is there a problem?");
 MsgDisp("主人公","Hehe, no there isn't.");
 ChEye(1,2);
 ChMouth(1,3);

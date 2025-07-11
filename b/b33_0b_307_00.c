@@ -109,7 +109,7 @@ MsgDisp("Nanatsumori","Right.
 That's why I'm curious 
 as to why it was here.");
 MsgDisp("主人公","(There definitely wasn't one...
-But, it;s cute so it's fine♪)");
+But, it's cute so it's fine♪)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602136_06_010");
-MsgDisp("Himuro","You take the trend,
-and then make it entirely your own.");
+MsgDisp("Himuro","You take the trend and then make it
+entirely your own.");
 MsgDisp("主人公","(He gave me a compliment!
 I'm so happy I dressed my best!)");

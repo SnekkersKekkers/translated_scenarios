@@ -148,7 +148,7 @@ VoicePlay("D020100000_01_260");
 MsgDisp("Kazama","That's not it! You're wearing a skirt, 
 so when you raise your legs like that 
 you can see things∋");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

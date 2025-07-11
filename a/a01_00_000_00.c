@@ -108,7 +108,7 @@ ScrFadeOut(0,0);
 MsgDisp("主人公","Ever since we found the church bell,
 whenever we heard the ringing, we would 
 always stop by. But it never rung again
-after that--");
+after that—");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -164,7 +164,7 @@ Ready, go!");
 ScrFadeOut(0,1);
 BGMStop(4);
 VoicePlay("A010000000_01_170");
-MsgDisp("Together","PFuuu------sh!!");
+MsgDisp("Together","PFuuu———sh!!");
 MsgClose();
 BGOpen("pr000",0);
 SEPlay("EV_SE_597",0.3,0.1);

@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("B040218600_02_000");
-    MsgDisp("Sassa","Yeah, it was refreshinG!
+    MsgDisp("Sassa","Yeah, it was refreshing!
 This refreshing feeling is the true charm!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

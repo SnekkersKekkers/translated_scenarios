@@ -34,13 +34,13 @@ ChMouth(4,0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410100_04_050");
 MsgDisp("Nanatsumori","…………");
-MsgDisp("主人公","……｛七ツ森＊｝？");
+MsgDisp("主人公","……｛七ツ森＊｝?");
 ChMotion(4,1,1);
 ChMouthOpenLevel(4,-1);
 VoicePlay("G020410100_04_060");
 MsgDisp("Nanatsumori","I guess awkward, but... I guess
 it's mostly happy.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

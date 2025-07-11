@@ -32,7 +32,7 @@ ChMotion(8,0,1);
 VoicePlay("D020800100_08_030");
 MsgDisp("Shirahane","It's not like that.
 I'm only a member this one time.");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("D020800100_08_040");

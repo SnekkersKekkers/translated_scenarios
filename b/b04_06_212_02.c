@@ -108,7 +108,7 @@ rejects everything.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621202_06_110");
-        MsgDisp("Himuro","IS that not 
+        MsgDisp("Himuro","Is that not 
 different to my image?");
         MsgDisp("主人公","(...I-It's hard to answer.)");
         break ;

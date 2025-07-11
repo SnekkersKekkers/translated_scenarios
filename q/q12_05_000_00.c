@@ -41,9 +41,8 @@ it's your first time, ｛柊＊＊＊｝.");
     MsgDisp("Hiiragi","Yes. So I'm not able to compare, but
 It's absolutely the best school trip
 I've ever had.");
-    MsgDisp("主人公","I'm glad.
-I also really enjoyed spending free time
-with you, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","I'm glad. I also really enjoyed spending
+the free period with you, ｛柊＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q120500000_05_050");
@@ -74,7 +73,7 @@ trip.");
     MsgDisp("主人公","｛柊＊＊＊｝?");
     ChEye(5,4);
     VoicePlay("Q120500000_05_080");
-    MsgDisp("Hiiragi","Spending the free time with you was so
+    MsgDisp("Hiiragi","Spending the free period with you was so
 fun.");
     MsgDisp("主人公","It was fun for me too.");
     ChMotion(5,0);
@@ -100,9 +99,9 @@ me either.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_120");
-    MsgDisp("Hiiragi","Our free time is over but the school trip
-continues on. Let's enjoy ourselves until
-the end.");
+    MsgDisp("Hiiragi","The free period is over but the school
+trip continues on. Let's enjoy ourselves
+until the end.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝!)");
     break ;

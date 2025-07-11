@@ -19,9 +19,8 @@ Are you wanting to be in charge next time?");
 VoicePlay("T040720000_06_000");
 MsgDisp("Himuro","Why is that the case? Shouldn't the person
 who wants to do it be in charge?");
-MsgDisp("主人公","Eh∋
-｛氷室＊＊｝,
-Do you not want a barbecue......?");
+MsgDisp("主人公","Eh∋ ｛氷室＊＊｝, do you not want a
+barbecue......?");
 VoicePlay("T040720000_07_020");
 MsgDisp("Mikage","Inori,
 so thats what you meant.");

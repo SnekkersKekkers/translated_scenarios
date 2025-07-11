@@ -6,9 +6,9 @@ MsgClose();
 ChOpen(6,33,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040606500_06_000");
-MsgDisp("Himuro","It's splendid.
+MsgDisp("Himuro","They're magnificent.
 It's so loud though...");
-MsgSel("A summer highlight that colours the night sky! Tamaya～!","Ah, look! It's in the shape of a big heart∈","I feel lonely now that it's ending");
+MsgSel("A summer highlight that colours the night sky! Tamaya～!","Ah, look! It's in the shape of a big heart∈","I feel sad now that it's ending.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040606500_06_010");
-    MsgDisp("Himuro","It's cliche but
-I respect how you can say 
-it so unashamadely.");
+    MsgDisp("Himuro","That's cliche but I respect how you can
+say it so unashamedly.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -99,7 +99,7 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06002_01_070");
-MsgDisp("Kazama","Ah--, it's fine after all.");
+MsgDisp("Kazama","Ah—, it's fine after all.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);

@@ -120,7 +120,7 @@ Are you warm?");
         MsgDisp("Nanatsumori","Conclusion.
 This rapid rise in body temperature can 
 cause serious physical and mental errors.");
-        MsgDisp("主人公","？？？");
+        MsgDisp("主人公","???");
         break ;
         default :
         DbgAssert(1);

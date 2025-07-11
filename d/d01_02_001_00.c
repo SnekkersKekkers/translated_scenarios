@@ -161,7 +161,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D010200100_02_100");
 MsgDisp("Sassa","I'm happy to hear you say that......
-Cya.");
+See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

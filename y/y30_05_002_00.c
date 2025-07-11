@@ -16,7 +16,7 @@ BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ScrFadeIn(0);
 VoicePlay("D010500100_05_000");
 MsgDisp("Hiiragi","\"Good afternoon.
-IS that your lunch?\"");
+Is that your lunch?\"");
 MsgDisp("主人公","\"Ah, yeah.
 Has ｛柊＊＊＊｝ already eaten/\"\"");
 MsgDisp("","She wouldn't leave it be as I skipped

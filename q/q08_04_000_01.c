@@ -16,7 +16,7 @@ We looked around a lot, not?");
     ChMotion(4,1,1);
     VoicePlay("Q080400001_04_010");
     MsgDisp("Nanatsumori","True.
-Let's go the next free time together 
+Let's spend the next free period together 
 too.");
     MsgDisp("主人公","Yeah, great idea!");
     break ;
@@ -56,7 +56,7 @@ Wasn't it so much fun?");
 I really underestimated school trips.");
     ChMotion(4,0,1);
     VoicePlay("Q080400001_04_060");
-    MsgDisp("Nanatsumori","So, wanna come the next free time with
+    MsgDisp("Nanatsumori","So, wanna spend the next free period with
 me too?");
     MsgDisp("主人公","Yeah!");
     break ;

@@ -16,7 +16,7 @@ I have to patrol carefully...!)");
     ChOpen(7,254,0,0,0,-1,-1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P830700002_07_000");
-    MsgDisp("Mikage","｛主人公｝. IS it okay for you to be
+    MsgDisp("Mikage","｛主人公｝. Is it okay for you to be
 wandering around aimlessly?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Right now I'm patrolling.");

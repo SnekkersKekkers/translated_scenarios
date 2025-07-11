@@ -13,7 +13,7 @@ Good morning!");
     MsgDisp("Sassa","'Morning. You look like you're in tip-top
 condition, huh?");
     MsgDisp("主人公","Yeah. Hey, why don't we go around together
-for today's free time?");
+for today's free period?");
     break ;
     case 3:
     MsgDisp("主人公","｛颯砂＊＊｝.
@@ -56,7 +56,7 @@ ran inside the lobby?
 ......Anyways, what's up?");
     MsgDisp("主人公","Oh, right. If you're fine with it,
 do you want to go around together for 
-today's free time?");
+today's free period?");
     break ;
     default :
     DbgAssert(1);

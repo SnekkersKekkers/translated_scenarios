@@ -53,7 +53,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B360618000_06_060");
 MsgDisp("Himuro","Hmm.
 Then how about we do this?");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 SEPlay("EV_SE_065",0.2,0.6);
 SEPlay("EV_SE_504",0.2,0.6);
 SEWait();

@@ -42,7 +42,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100610002_06_040");
-MsgDisp("Himuro","I couldn't ask Reichi-san himself,
+MsgDisp("Himuro","I couldn't ask Reiichi-san himself,
 so I casually asked my father.");
 ChEye(6,0);
 ChMouth(6,0);

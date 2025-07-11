@@ -7,7 +7,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B040101001_01_000");
 MsgDisp("Kazama","Hey, what about this?
 I think it's just perfect for you.");
-MsgSel("You're right, I should buy it!","I'm not sure'…","It doesn't suit me!");
+MsgSel("You're right, I should buy it!","I'm not sure…","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -28,7 +28,7 @@ judgement.");
     ChMouth(1,2);
     ChEyeOpenLevel(1,-1);
     VoicePlay("B040101001_01_020");
-    MsgDisp("Kazama","Don't 'is that so' me.
+    MsgDisp("Kazama","Don't 'I'm not sure' me.
 If you want to say no,
 say it loud and clear.");
     MsgDispSksp(1,0);

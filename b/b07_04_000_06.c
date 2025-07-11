@@ -10,7 +10,7 @@ ChMouth(4,5);
 ChEyeOpenLevel(4,1);
 VoicePlay("B070400000_04_350");
 MsgDisp("Nanatsumori","…………");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_360");
@@ -23,7 +23,7 @@ ChMotion(4,2,1);
 VoicePlay("B070400000_04_370");
 MsgDisp("Nanatsumori","No, that's not quite right.
 Thanks to that I am who I am today.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

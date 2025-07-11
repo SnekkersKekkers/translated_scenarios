@@ -90,7 +90,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("T020121000_01_090");
 MsgDisp("Kazama","I feel nostalgic, happy, but also
 frustrated......");
-MsgDisp("主人公","｛風真＊＊｝？");
+MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

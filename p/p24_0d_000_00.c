@@ -41,7 +41,7 @@ ChMouth(22,3);
 ChMotion(22,1,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("P240D00000_22_020");
-MsgDisp("Hikaru","Taaake th--is!");
+MsgDisp("Hikaru","Taaake th—is!");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);

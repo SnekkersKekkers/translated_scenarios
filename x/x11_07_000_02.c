@@ -32,7 +32,7 @@ Thank you very much.");
     MsgDisp("Mikage","You're not just gentle, 
 you're strong too.");
     MsgDisp("主人公","(To think that I was praised by
-｛御影＊＊｝,cI'm super happy!)");
+｛御影＊＊｝, I'm super happy!)");
     break ;
     default :
     DbgAssert(1);

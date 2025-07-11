@@ -53,7 +53,7 @@ ChMotion(4,2,1);
 VoicePlay("B070400001_04_090");
 MsgDisp("Nanatsumori","I guess that also can't be helped.
 Yeah, that's how it goes.");
-MsgDisp("主人公","(？？？)");
+MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

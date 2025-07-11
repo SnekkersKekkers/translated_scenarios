@@ -85,7 +85,7 @@ ChMotion(3,2,1);
 VoicePlay("D130B00200_03_040");
 MsgDisp("Honda","Is he just a worrywart...
 or is he jealous?");
-MsgDisp("主人公","？？？");
+MsgDisp("主人公","???");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);

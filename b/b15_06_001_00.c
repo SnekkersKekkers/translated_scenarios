@@ -37,7 +37,7 @@ ChCheek(6,0);
 VoicePlay("B150600100_06_040");
 MsgDisp("Himuro","You already betrayed me once,
 haven't you?");
-MsgDisp("主人公","I really won't do it thougH!");
+MsgDisp("主人公","I really won't do it though!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

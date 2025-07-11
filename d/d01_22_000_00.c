@@ -32,7 +32,7 @@ StlEye(22,1);
 StlMouth(22,1);
 VoicePlay("D012200000_22_020");
 MsgDisp("Hikaru","Ah......Sorry.
-I guess that sounds like Hikaru is
+That sounds like Hikaru is
 taking out her anger on you.");
 StlEyeOpenLevel(22,5,1);
 VoicePlay("D012200000_22_030");

@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("Q120300000_03_000");
     MsgDisp("Honda","｛主人公｝,
 Thanks for going with me for the 
-free time.");
+free period.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -116,7 +116,7 @@ becomes fun.");
     ChMotion(3,1,1);
     VoicePlay("Q120300000_03_120");
     MsgDisp("Honda","Is that so?　Then I'm happy!
-Well then, let's spend free time 
+Well then, let's spend the free period 
 together again.");
     MsgDisp("主人公","Eh, Hmm?
 Isn't today the end of the school trip?");
@@ -132,8 +132,8 @@ right?");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("Q120300000_03_140");
-    MsgDisp("Honda","I hope we can continue to spend
-free time together like this forever.");
+    MsgDisp("Honda","I hope we can continue spending
+free period together like this forever.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

@@ -13,7 +13,7 @@ We have other plans...");
     MsgDisp("School Girl","Us too, we're really sorry......");
     VoicePlay("Q020700000_07_000");
     MsgDisp("Mikage","Don't think too much about it, just spend
-your free time freely.");
+your free period freely.");
     VoicePlay("Q020700000_38_000");
     MsgDisp("Students","Okay!");
     MsgClose();
@@ -100,7 +100,7 @@ good morning!");
     ChMotion(7,3);
     VoicePlay("Q020700000_07_090");
     MsgDisp("Mikage","Good morning! Do you already have plans
-for the free time?");
+for the free period?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -138,8 +138,8 @@ participant, the event will go ahead.");
         VoicePlay("Q020700000_07_140");
         MsgDisp("Mikage","All right, we're off!");
         MsgDisp("主人公","(Hehe, ｛御影＊＊｝ seems really excited.
-I'm really excited to spend this free time
-together with him!)");
+I'm really excited to spend this free
+period together with him!)");
         break ;
         case 1:
         ChEye(7,2);

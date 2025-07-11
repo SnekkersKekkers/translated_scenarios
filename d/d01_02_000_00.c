@@ -92,7 +92,7 @@ ChMotion(2,0);
 VoicePlay("D010200000_02_100");
 MsgDisp("Sassa","When all the excitement piles up like
 that, I just can't help it.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

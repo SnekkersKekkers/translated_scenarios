@@ -24,7 +24,7 @@ VoicePlay("F032200000_22_030");
 MsgDisp("Hikaru","Right right!
 It's super funny when she gets 
 a question wrong!");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

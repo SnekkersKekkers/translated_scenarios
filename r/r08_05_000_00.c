@@ -61,7 +61,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("R080500000_05_070");
 MsgDisp("Hiiragi","Oh wait, please come here for a moment.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 MsgClose();
 BGMStop();
 MsgClose();

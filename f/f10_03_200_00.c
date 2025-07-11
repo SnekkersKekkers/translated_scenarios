@@ -1,7 +1,7 @@
 BGOpen("sc530",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Umm... I have to move classrooms
-for afternoon classes, righT?)");
+for afternoon classes, right?)");
 VoicePlay("F100320000_03_000");
 MsgDisp("Honda?","Sakkun's muscles are amazing!");
 VoicePlay("F100320000_02_000");

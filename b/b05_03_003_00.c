@@ -14,7 +14,7 @@ ChMotion(3,0);
 VoicePlay("B050300300_03_010");
 MsgDisp("Honda","It looks like one is missing.
 １, ２, ３......Like I thought.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4);

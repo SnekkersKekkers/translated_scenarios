@@ -61,10 +61,9 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2,1);
 VoicePlay("F102230000_21_020");
-MsgDisp("Michiru","Even so...
-I'm good at making sweets and stuff, 
-But making animal bento side 
-dishes is so hard.");
+MsgDisp("Michiru","That's because even though I'm good at
+making sweets, making animal bento side
+dishes is quite difficult.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

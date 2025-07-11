@@ -47,7 +47,7 @@ ChEyeOpenLevel(6,5);
 VoicePlay("G110601000_06_040");
 MsgDisp("Himuro","Well.
 It's none of my business.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -82,13 +82,13 @@ ChMotion(6,2);
 VoicePlay("G110601000_06_090");
 MsgDisp("Himuro","......Geez,
 Why should I be so worried?");
-MsgDisp("主人公","｛氷室＊＊｝？");
+MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601000_06_100");
 MsgDisp("Himuro","It's nothing.");
-MsgDisp("主人公","(？？？)");
+MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

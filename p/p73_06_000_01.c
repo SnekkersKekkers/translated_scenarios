@@ -71,7 +71,7 @@ Did you come to watch?");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("P730600001_06_060");
-    MsgDisp("Himuro","What? IS there a problem with me coming to
+    MsgDisp("Himuro","What? Is there a problem with me coming to
 watch?");
     MsgDisp("主人公","No! I'm happy that you did..");
     ChEye(6,0);
@@ -105,10 +105,10 @@ watch?");
     ChMotion(6,4);
     VoicePlay("P730600001_06_110");
     MsgDisp("Himuro","Hey, it's starting!
-Are you going?");
+Are you coming?");
     MsgDisp("主人公","Y-Yeah...!");
-    MsgDisp("主人公","(He said it suits me right?
-Alright, let's hold my chin up high!)");
+    MsgDisp("主人公","(He said it looks good on me, didn't he?
+Okay, time to hold my head high!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);

@@ -34,7 +34,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D010100100_01_030");
 MsgDisp("Kazama","Ahh, a ritual of yours?
 I wouldn't want to disturb a sunbather
-with too much time on their hands. Cya.");
+with too much time on their hands. Bye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

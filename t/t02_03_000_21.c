@@ -36,7 +36,7 @@ StlOpen("ev_03_17");
 ScrFadeIn(0);
 VoicePlay("T020300021_03_040");
 MsgDisp("Honda","Research begins.");
-MsgDisp("主人公","？");
+MsgDisp("主人公","?");
 SEPlay("EV_SE_695");
 MsgClear();
 StlEffect(1,1,60);
