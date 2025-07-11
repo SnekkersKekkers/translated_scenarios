@@ -46,7 +46,7 @@ But, it wasn't as relaxed as this.");
         ChMouth(7,0);
         ChMotion(7,4);
         VoicePlay("B040724102_07_030");
-        MsgDisp("Mikage","Yeah, it was a sightseing farm.
+        MsgDisp("Mikage","Yeah, it was a sightseeing farm.
 But, it's more business-minded.");
         MsgDisp("主人公","How is Molly-chan?");
         ChEye(7,0);

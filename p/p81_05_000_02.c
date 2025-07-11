@@ -16,7 +16,7 @@ MsgDisp("主人公","Yeah, it's a little lonely...");
 ChEye(5,4);
 VoicePlay("P810500002_05_010");
 MsgDisp("Hiiragi","I like doing work itself together with
-you. That's why the prepatory period is
+you. That's why the preparatory period is
 like the real thing.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

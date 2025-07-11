@@ -73,7 +73,7 @@ was me.");
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020400000_04_110");
-MsgDisp("Nanatsumori","Models and influencers;things like that.
+MsgDisp("Nanatsumori","Models and influencers, things like that.
 We're all forced to keep things secret 
 for our own selfish convenience.
 ");

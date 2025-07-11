@@ -33,7 +33,7 @@ ChEye(33,0);
 ChMouth(33,1);
 VoicePlay("B110500000_33_020");
 MsgDisp("Guy","Hm, No can do, no can do.
-It's undfortunate, but you're
+It's unfortunate, but you're
 not the seeing type.");
 MsgDispSksp(1,5);
 ChEye(5,0);
@@ -100,4 +100,4 @@ ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B110500000_05_050");
 MsgDisp("Hiiragi","Heheh, you really are something.
-Then, let's collect ourselve's and go.");
+Then, let's collect ourselves and go.");

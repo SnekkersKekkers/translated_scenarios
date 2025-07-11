@@ -37,7 +37,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05100_06_010");
-MsgDisp("Himuro","Phew... I conpletely forgot.
+MsgDisp("Himuro","Phew... I completely forgot.
 What were we talking about
 until now?");
 MsgDisp("主人公","Until now?");

@@ -144,7 +144,7 @@ BGMStop();
 ChClose(1,0,30);
 ChClose(5,0,30);
 MsgDisp("主人公","Ehhh ∋
-Wait a miunte!");
+Wait a minute!");
 MsgDisp("主人公","(Geez......
 These two are both stubborn.
 Maybe they're actually quite similar?)");

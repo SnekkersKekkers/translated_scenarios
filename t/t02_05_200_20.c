@@ -9,7 +9,7 @@ ChCheek(5,5);
 VoicePlay("T020520020_05_000");
 MsgDisp("Hiiragi","Eh......");
 MsgDisp("主人公","The ｛柊＊＊＊｝ who always gave it his
-all, no matter what shined so brighty.");
+all, no matter what shined so brightly.");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

@@ -9,7 +9,7 @@ ChMotion(8,3,1);
 VoicePlay("B040811102_08_000");
 MsgDisp("Shirahane","Skating around the rink makes me 
 feel like I'm running around on the 
-track in the school uard.");
+track in the school yard.");
 MsgSel("The rink and the schoolyard is quite different...","I don't get that at all.","Shall we try running on the ground next time?");
 switch (MsgSelRsltGet()){
     case 0:

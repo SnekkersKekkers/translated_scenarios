@@ -42,7 +42,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("B070101000_01_040");
 MsgDisp("Kazama","Ever since then, I've been thinking about
-it. It might have been unconcious for you,
+it. It might have been unconscious for you,
 but I thought about the meaning of you
 asking me that kind of question.");
 MsgDisp("主人公","｛風真＊＊｝...");

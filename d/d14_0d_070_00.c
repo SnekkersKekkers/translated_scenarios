@@ -35,7 +35,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("D140D07000_21_020");
-MsgDisp("Michiru","Mari is dfferent from us too right?");
+MsgDisp("Michiru","Mari is different from us too right?");
 MsgDisp("主人公","Eh?
 But I'm not your sister...");
 ChEye(22,0);

@@ -83,7 +83,7 @@ vegetables as they are, maybe a salad?");
     VoicePlay("P630100002_01_070");
     MsgDisp("Kazama","Then, I'll have a large serving.");
     MsgDisp("主人公","Certainly.
-One organic vegetable salid coming up!");
+One organic vegetable salad coming up!");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -49,7 +49,7 @@ ChOpen(1,255,0,0,0,-1,-1,0,3,0,30);
 ChOpen(2,255,4,0,0,-1,-1,0,3,0,30);
 ChOpen(6,255,0,0,0,-1,-1,0,3,0,30);
 VoicePlay("B330A10101_02_010");
-MsgDisp("Sassa","Do you like this kind of syle?");
+MsgDisp("Sassa","Do you like this kind of style?");
 MsgDisp("主人公","Sexy styles are becoming the trend now.");
 ChEye(2,0);
 ChMouth(2,0);

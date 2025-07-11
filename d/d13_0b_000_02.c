@@ -53,7 +53,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D130B00002_04_010");
-MsgDisp("Nanatsumori","...That's an unatural
+MsgDisp("Nanatsumori","...That's an unnatural
 way of saying it.");
 ChEye(4,4);
 ChMouth(4,4);

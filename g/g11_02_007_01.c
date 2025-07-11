@@ -99,6 +99,6 @@ MsgClose();
 ScrFadeIn(0);
 MsgDisp("主人公","(｛颯砂＊＊｝'s records are better than
 that of a solo athlete...... Hmm, there
-are still some diffcult aspects, huh?)");
+are still some difficult aspects, huh?)");
 MsgClose();
 ScrFadeOut(0,0);

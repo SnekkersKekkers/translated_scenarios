@@ -57,7 +57,7 @@ to the airport.");
 MsgDisp("","Thinking back now, maybe this
 is indeed better as a setting?");
 MsgDisp("","While I was looking at the surface of
-the river, a familar voice calls out
+the river, a familiar voice calls out
 for me.");
 MsgClear();
 MsgDisp("主人公","\"｛本多＊＊｝!
@@ -67,7 +67,7 @@ MsgDisp("Honda","\"Of course. I'll commentate on
 everything thoroughly!\"");
 MsgClear();
 MsgDisp("","After two weeks, That warmth within
-me has arosen again.");
+me has arisen again.");
 BGMStop();
 MsgClear();
 MsgClose();

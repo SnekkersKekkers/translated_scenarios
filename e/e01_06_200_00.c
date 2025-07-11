@@ -76,7 +76,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("E010620000_06_050");
-MsgDisp("Himuro","We can visit a houseware store. I have
+MsgDisp("Himuro","We can visit a hardware store. I have
 errands to run, so we can go together.");
 ChEye(5,4);
 ChMouth(5,4);

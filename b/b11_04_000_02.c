@@ -9,7 +9,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDisp("主人公","｛七ツ森＊｝, you're late...");
 VoicePlay("B110400002_35_000");
 MsgDisp("?Boy","...Okay!
-Then for tonight's meeeting, 
+Then for tonight's meeting, 
 we'll go to the usual three
 star sushi restaurant!");
 MsgClose();
@@ -40,7 +40,7 @@ MsgClose();
 ChNanaType(-1);
 ChOpen(4,253,0,1,0,-1,-1,0,1);
 VoicePlay("B110400002_04_000");
-MsgDisp("Nanatsumori","You sure are peristent...");
+MsgDisp("Nanatsumori","You sure are persistent...");
 MsgDisp("主人公","｛七ツ森＊｝!");
 VoicePlay("B110400002_35_040");
 ChEye(35,2);

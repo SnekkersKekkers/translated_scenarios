@@ -10,6 +10,6 @@ ChMotion(4,0,1);
 ChCheek(4,7);
 ScrFadeIn(0);
 VoicePlay("B060400006_04_000");
-MsgDisp("Nanatsumori","I don't wanan go home...
+MsgDisp("Nanatsumori","I don't wanna go home...
 One day is not enough at all.");
 MsgDispSksp(0);

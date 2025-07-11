@@ -11,7 +11,7 @@ MsgDisp("主人公","Yeah...");
 VoicePlay("T020600000_06_410");
 ChEye(6,1);
 ChMouth(6,1);
-MsgDisp("Himuro","It's not sudden. I've been supressing
+MsgDisp("Himuro","It's not sudden. I've been suppressing
 these feelings for a long time.");
 VoicePlay("T020600000_06_420");
 ChEye(6,1);

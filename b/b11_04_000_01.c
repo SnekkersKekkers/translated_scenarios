@@ -96,7 +96,7 @@ ChMotion(4,0,1);
 VoicePlay("B110400001_04_060");
 MsgDisp("Nanatsumori","Well, we're going to go and ride 
 that \"Big Wave\" or whatever... thing.
-Farewelll～");
+Farewell～");
 MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);

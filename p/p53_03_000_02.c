@@ -62,7 +62,7 @@ Thank you!");
     MsgDisp("Honda","...Huh?
 You're the same as usual.");
     MsgDisp("主人公","Hehe, is that right?
-Maube because it's already my third year.");
+Maybe because it's already my third year.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);

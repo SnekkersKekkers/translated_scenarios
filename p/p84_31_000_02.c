@@ -12,7 +12,7 @@ ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("P843100002_31_010");
 MsgDisp("Goro","Take it as a thanks. Even when you were
-guiding me arond the assembly hall, I was
+guiding me around the assembly hall, I was
 impressed how you handled the sudden work
 that sprung up.");
 ChEye(31,0);

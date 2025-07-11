@@ -42,7 +42,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P740700003_07_050");
 MsgDisp("Mikage","Still, a lack of exercise is a problem.
-How about ftom tomorrow onwards, you model
+How about from tomorrow onwards, you model
 walk to and from school.");
 MsgDisp("主人公","(Uugh... I wish I prepared more 
 carefully for the show...)");

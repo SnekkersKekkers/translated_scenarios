@@ -118,7 +118,7 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("Q070101000_07_030");
-MsgDisp("Mikage","Uh...... that's ceratinly something.
+MsgDisp("Mikage","Uh...... that's certainly something.
 But give up, and return, for your sake.");
 ChEye(1,2);
 ChMouth(1,0);

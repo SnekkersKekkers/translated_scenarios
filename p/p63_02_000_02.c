@@ -92,7 +92,7 @@ mine, it's a bit hard to do.");
     MsgDisp("Sassa","I see...ah, but But if it's the ones
 you're selling directly, you'll know which
 vegetables you grew?");
-    MsgDisp("主人公","Yeah. ecause the grower's comments are
+    MsgDisp("主人公","Yeah. Because the grower's comments are
 written on the bag.");
     ChEye(2,0);
     ChMouth(2,4);

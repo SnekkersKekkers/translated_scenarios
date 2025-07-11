@@ -37,7 +37,7 @@ did you not notice? ");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040804400_08_020");
-    MsgDisp("Shirahane","That's dissappointing...
+    MsgDisp("Shirahane","That's disappointing...
 They was an alumnus from
 Hane High too.");
     MsgDateResultDisp();

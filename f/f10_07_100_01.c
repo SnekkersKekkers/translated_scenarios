@@ -46,7 +46,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100710001_07_050");
-MsgDisp("Mikage","Ohh, you know your studd.
+MsgDisp("Mikage","Ohh, you know your stuff.
 The contrast of the suits and
 coveralls are nice. You're an adult
 since you can understand that.");

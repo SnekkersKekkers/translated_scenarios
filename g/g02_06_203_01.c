@@ -13,7 +13,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620301_06_010");
 MsgDisp("Himuro","Nothing special?
-I simply became cuirous.");
+I simply became curious.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -53,7 +53,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("G020620301_06_070");
-MsgDisp("Himuro","Sounds sketchu huh.");
+MsgDisp("Himuro","Sounds sketchy huh.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

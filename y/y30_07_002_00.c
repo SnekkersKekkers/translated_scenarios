@@ -8,7 +8,7 @@ MsgDisp("Mikage","\"I just got a call from a student's
 family. The leading actor for our
 school play, playing 'Xu Xian' will
 be absent due to family
-circumsntances.\"");
+circumstances.\"");
 SEPlay("EV_SE_GAYA_007");
 Wait(50,0);
 MsgDisp("","The schoolplay is the highlight of

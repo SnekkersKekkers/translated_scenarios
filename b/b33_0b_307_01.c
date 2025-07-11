@@ -84,7 +84,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B30701_03_020");
 MsgDisp("Honda","Right right!
-This thing hardly moces.
+This thing hardly moves.
 So—");
 ChEye(1,2);
 ChEye(4,2);
@@ -92,7 +92,7 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B30701_04_050");
 MsgDisp("Nanatsumori","...I've done it.
-I turned on Dahon's siwtch.");
+I turned on Dahon's switch.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);

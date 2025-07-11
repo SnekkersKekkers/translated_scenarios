@@ -67,7 +67,7 @@ You came?");
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("P630600002_06_060");
-    MsgDisp("Himuro","But, well I didn't think it woul
+    MsgDisp("Himuro","But, well I didn't think it would
 be this full-blown of a cafe.");
     MsgDisp("主人公","I tried my best!
 The menu is also legit.");

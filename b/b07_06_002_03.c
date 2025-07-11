@@ -35,7 +35,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_200");
-MsgDisp("Himuro","They weren't barging in savegely
+MsgDisp("Himuro","They weren't barging in savagely
 with their shoes on... but it felt 
 like they were relaxing in my 
 room without me even noticing");

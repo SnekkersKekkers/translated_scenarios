@@ -51,7 +51,7 @@ MsgDisp("Kazama","If I gave it the benefit
 of the doubt, would I think it's cute?
 No, I wouldn't.");
 MsgDisp("主人公","Hehe!
-｛本多＊＊｝, are you satisified?");
+｛本多＊＊｝, are you satisfied?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -20,7 +20,7 @@ MsgDisp("Man","Oy, over there!
 Isn't that Goro Hanatsubaki?");
 VoicePlay("D200000000_46_000");
 MsgDisp("Woman","You're right!
-It's the world-renowed fashion icon,
+It's the world-renowned fashion icon,
 Goro-sensei!");
 MsgDisp("主人公","(Eh, Goro Hanatsubaki......
 Is such a famous person really here?)");

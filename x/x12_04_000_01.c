@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     VoicePlay("X120400001_04_000");
-    MsgDisp("Nanatsumori","Is that an edible floer?
+    MsgDisp("Nanatsumori","Is that an edible flower?
 No, I just thought it 
 looked tasty, that's all.");
     MsgDisp("主人公","(Yay!)");

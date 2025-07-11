@@ -54,7 +54,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("Q100400000_04_060");
-MsgDisp("Nanatsumori","Souvernirs, huh......
+MsgDisp("Nanatsumori","Souvenirs, huh......
 I'll need quite a few.");
 MsgDisp("主人公","Oh, are they for the people related to 
 your work?");

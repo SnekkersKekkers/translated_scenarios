@@ -35,7 +35,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_050");
-MsgDisp("Himuro","Maybe it's not quite naiveity...
+MsgDisp("Himuro","Maybe it's not quite naivety...
 But, at any rate he's
 definitely a bit off.");
 MsgDisp("主人公","Yeah, I think I get it.");

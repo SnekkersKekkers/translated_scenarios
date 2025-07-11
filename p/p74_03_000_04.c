@@ -3,14 +3,14 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yayー! A huge sucess∈)");
+MsgDisp("主人公","(Yayー! A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(3,254,4,4,3,-1,-1,0,0);
 VoicePlay("P740300004_03_000");
 MsgDisp("Honda","Haa, I'm glad...");
-MsgDisp("主人公","Yeah, I finshed without falling.");
+MsgDisp("主人公","Yeah, I finished without falling.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -35,7 +35,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("P740300004_03_040");
 MsgDisp("Honda","Congratulations on your last cultural 
 festival being a success!
-You were truly beuatiful.");
+You were truly beautiful.");
 MsgDisp("主人公","(｛本多＊＊｝,thank you...
 I'm glad I continued with the handicrafts
 club for the last three years...)");

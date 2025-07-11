@@ -99,7 +99,7 @@ failure is scary....");
     VoicePlay("P530400001_04_100");
     MsgDisp("Nanatsumori","That's also part of a live orchestra.
 Unexpectedly, the audience might also 
-be looking forwatds to it, right?");
+be looking forwards to it, right?");
     MsgDisp("主人公","Ehhh?");
     ChEye(4,3);
     ChMouth(4,3);

@@ -131,7 +131,7 @@ there.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("S090500000_05_120");
-        MsgDisp("Hiiragi","Maybe after a litte break then......
+        MsgDisp("Hiiragi","Maybe after a little break then......
 Ah, never mind......");
         MsgDisp("主人公","(......He looks disappointed.
 Did I do something wrong?)");

@@ -11,14 +11,14 @@ MsgClear();
 MsgDisp("","The sound of the cow milk
 accumulating in the bucket, continued
 at a steady rhythm. Somehow, a
-strange feeling starte to weigh on
+strange feeling started to weigh on
 me.");
 MsgDisp("","She's only milking the cow, 
 somehow I feel strange.");
 MsgClear();
 MsgDisp("主人公","\"\"Hey, ｛颯砂＊＊｝. It's freshly
 squeezed. It's delicious!\"");
-MsgDisp("","When she reccommends it with a smile 
+MsgDisp("","When she recommends it with a smile 
 like that, I have no choice 
 but to drink it.");
 MsgDisp("","But, it's really strange.

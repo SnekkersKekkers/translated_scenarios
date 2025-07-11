@@ -17,7 +17,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B04000_04_010");
-MsgDisp("Nanatsumori","He lookjed quite reluctant to leave.
+MsgDisp("Nanatsumori","He looked quite reluctant to leave.
 His face looked like it anyways.");
 ChEye(3,0);
 ChMouth(3,0);

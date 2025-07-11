@@ -145,7 +145,7 @@ BGMPlay("BGM_C23_HIKARU_MICHIRU",0.01,0.9);
 ScrFadeIn(0);
 VoicePlay("Q070D00000_21_080");
 MsgDisp("Michiru","Because it's old, It has a certain
-nobelness.");
+nobleness.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);

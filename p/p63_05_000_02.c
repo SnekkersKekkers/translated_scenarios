@@ -16,7 +16,7 @@ in the Gardening Club...)");
     VoicePlay("P630500002_05_000");
     MsgDisp("Hiiragi","This is amazing...");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-Welccome..");
+Welcome..");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);

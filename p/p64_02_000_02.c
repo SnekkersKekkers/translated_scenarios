@@ -15,7 +15,7 @@ MsgDisp("Sassa","Yeah. The aromas and benefits
 are completely different.
 The world of herbal tea is complex.");
 MsgDisp("主人公","Yeah. If the blend is wrong, the benefits
-will dissappear, and the taste will become
+will disappear, and the taste will become
 bad, it's difficult.");
 ChEye(2,0);
 ChMouth(2,4);

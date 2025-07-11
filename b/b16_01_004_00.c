@@ -24,7 +24,7 @@ No matter what I do.");
     VoicePlay("B160100400_01_020");
     MsgDisp("Kazama","You...
 you should have more sense 
-of self-preseverance.");
+of self-perseverance.");
     break ;
     default :
     DbgAssert(0);

@@ -3,7 +3,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140601061_06_000");
-MsgDisp("Himuro","There's a strange rumor abnout this
+MsgDisp("Himuro","There's a strange rumor about this
 bread—— that if you eat it you will get 
 a perfect test score. Frankly, it's
 stupid.");

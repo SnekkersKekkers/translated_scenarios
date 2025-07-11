@@ -18,7 +18,7 @@ ChMouth(7,3);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020720021_07_020");
-MsgDisp("Mikage","I see, I think you expressed it perfcetly
+MsgDisp("Mikage","I see, I think you expressed it perfectly
 just now. Thank you.");
 MsgDisp("主人公","Me too...... Thank you so much for always
 being with me.");

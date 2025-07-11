@@ -88,7 +88,7 @@ Your work and model is the best.");
     VoicePlay("P730100000_01_080");
     MsgDisp("Kazama","It is.
 Or is my judgement not 
-beleievable to you?");
+believable to you?");
     MsgDisp("主人公","No.
 ｛風真＊＊｝'s appraisal is never wrong.");
     ChEye(1,0);

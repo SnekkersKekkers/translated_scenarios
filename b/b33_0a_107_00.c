@@ -34,8 +34,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A10700_06_000");
 MsgDisp("Himuro","Heeh....
-That's an anecdote uniqu
-e to the Kazama family.");
+That's an anecdote unique 
+to the Kazama family.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

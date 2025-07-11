@@ -28,7 +28,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("B140700100_07_010");
-MsgDisp("Mikage","You seem to be burshing 
+MsgDisp("Mikage","You seem to be brushing 
 it off so casually.");
 MsgDisp("主人公","That's not true.");
 ChEye(7,0);

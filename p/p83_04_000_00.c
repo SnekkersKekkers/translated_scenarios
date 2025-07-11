@@ -60,7 +60,7 @@ Sorry, I'm a bit busy right now...");
     MsgDisp("Nanatsumori","I can see that.
 Would you like some help?");
     MsgDisp("主人公","Thank you.
-But, I'm responible for this myself.");
+But, I'm responsible for this myself.");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0,1);

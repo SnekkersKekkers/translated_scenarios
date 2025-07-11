@@ -96,8 +96,8 @@ MsgDisp("","The importance and value of sharing
 time—— that was something taught to
 be completely by her.");
 MsgDisp("","When I told her about my committee
-activies. Just as I had intended, it
-beceame a topic that would reassure
+activities. Just as I had intended, it
+became a topic that would reassure
 her.");
 MsgClear();
 VoicePlay("Y300600500_06_010");
@@ -108,7 +108,7 @@ VoicePlay("Y300600500_40_020");
 MsgDisp("Male Student","\"Is it really?! I'm glad!
 Thank you very much, senpai!\"");
 MsgDisp("","I couldn't help but smile back at the
-junior who was smilling so
+junior who was smiling so
 delightfully.");
 MsgClear();
 VoicePlay("Y300600500_40_030");

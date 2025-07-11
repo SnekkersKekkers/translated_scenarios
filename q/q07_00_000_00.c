@@ -22,7 +22,7 @@ church bell overseas.");
 MsgDisp("主人公","I'm sure the view from there 
 would be magnificent ......");
 MsgDisp("主人公","(...... oh wait, it's already time!
-After this, we move to Nagazaki city.
+After this, we move to Nagasaki city.
 Huis ten Bosch was such a blast.)");
 MsgClose();
 ScrFadeOut(0);

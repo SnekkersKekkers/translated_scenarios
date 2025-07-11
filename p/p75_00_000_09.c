@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Haa, it was a huge fail...
 Even though it was my 
 last school festival...");
-MsgDisp("主人公","But, I was able to wear a weddding dress, 
+MsgDisp("主人公","But, I was able to wear a wedding dress, 
 I think it'll become a nice memory...");
 MsgClose();
 ScrFadeOut(0);

@@ -66,7 +66,7 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_240");
 MsgDisp("Mikage","Listen up, at first glance you might
 be different but you should 
-cherish the friends you can empathise
+cherish the friends you can empathize
 with on a deeper level okay?");
 MsgDisp("主人公","(｛御影＊＊｝, ｛柊＊＊＊｝ and
 ｛氷室＊＊｝ appear completely different,

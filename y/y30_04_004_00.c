@@ -41,7 +41,7 @@ MsgDisp("","The sounds of footsteps drew near.");
 BGOpen("ad442",0);
 VoicePlay("Y300400400_01_000");
 MsgDisp("Kazama","\"Hey, have you seen her?\"");
-MsgDisp("","By \"her\" I'm guesing he's
+MsgDisp("","By \"her\" I'm guessing he's
 talking about ｛主人公苗字｝.");
 MsgDisp("","We shake our heads.");
 MsgClear();
@@ -65,7 +65,7 @@ she blinked in puzzlement.");
 MsgDisp("","She also responded with an ＯＫ.");
 MsgClear();
 MsgDisp("","I glanced at Kazama, 
-who was happily smiling boradly.");
+who was happily smiling broadly.");
 MsgDisp("","Dahon... was even happier.");
 MsgDisp("","I was laughing somewhat too.");
 MsgClear();

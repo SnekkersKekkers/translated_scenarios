@@ -21,7 +21,7 @@ resolved.");
 ChMotion(4,1,1);
 VoicePlay("P840400004_04_000");
 MsgDisp("Nanatsumori","I see...
-You're good at persuassion.");
+You're good at persuasion.");
 MsgDisp("主人公","Am I?");
 ChEye(4,4);
 ChMouth(4,2);

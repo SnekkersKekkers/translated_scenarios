@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     BGOpen("sc740",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Phew, I someshow made it in time...)");
+    MsgDisp("主人公","(Phew, I somehow made it in time...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

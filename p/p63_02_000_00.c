@@ -77,7 +77,7 @@ everyone is matching.");
     ChMotion(2,0);
     VoicePlay("P630200000_02_070");
     MsgDisp("Sassa","Yeah.
-There's a famillial feel, it's calming.");
+There's a familiar feel, it's calming.");
     MsgDisp("主人公","The herbal tea's blend also
 has a relaxing effect.");
     ChEye(2,0);

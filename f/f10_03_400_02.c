@@ -65,7 +65,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("F100340002_04_010");
-MsgDisp("Nanatsumori","...Stratigized?");
+MsgDisp("Nanatsumori","...Strategized?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

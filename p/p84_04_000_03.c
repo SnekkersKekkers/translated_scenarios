@@ -7,7 +7,7 @@ ChOpen(4,254,0,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh?
 The stock list says it's in inventory,
-but the shevles are empty...");
+but the shelves are empty...");
 ChMotion(4,1,1);
 VoicePlay("P840400003_04_000");
 MsgDisp("Nanatsumori","Did you forget to write it?");

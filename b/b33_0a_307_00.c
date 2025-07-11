@@ -132,7 +132,7 @@ VoicePlay("B330A30700_02_040");
 VoicePlay("B330A30700_06_060");
 MsgDisp("Everyone","It's a draw!");
 MsgDisp("主人公","(Umm...
-It's amost our turn.)");
+It's almost our turn.)");
 BGMStop();
 MsgClose();
 Wait(60,0);

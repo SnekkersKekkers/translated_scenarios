@@ -88,7 +88,7 @@ ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C10700_07_030");
 MsgDisp("Mikage","Oohhー.
-I think I'm fallimg for you, Yanosuke...");
+I think I'm falling for you, Yanosuke...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

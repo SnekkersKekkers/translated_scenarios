@@ -53,7 +53,7 @@ ChMotion(7,4);
 VoicePlay("X210700000_07_060");
 MsgDisp("Mikage","Hey, even talking like this, 
 I can feel the gaze of the male students
-glarring daggers onto my back.");
+glaring daggers onto my back.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,3);

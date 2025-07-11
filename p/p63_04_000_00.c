@@ -22,7 +22,7 @@ Welcome～!");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("P630400000_04_010");
-    MsgDisp("Nanatsumori","I came becasuse I was charmed
+    MsgDisp("Nanatsumori","I came because I was charmed
 by the captivating smell.");
     MsgDisp("主人公","Hehe. It's a shop serving tea and cookies
 made with the herbs the Gardening Club

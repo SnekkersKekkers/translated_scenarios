@@ -44,7 +44,7 @@ club's efforts...)");
     MsgClose();
     ChOpen(7,254,0,0,0,-1,-1,0,0);
     VoicePlay("P630700002_07_030");
-    MsgDisp("Mikage","This is amazding, huh.
+    MsgDisp("Mikage","This is amazing, huh.
 Isn't it super stylish?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Is it really?");

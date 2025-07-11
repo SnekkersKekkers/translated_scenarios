@@ -39,7 +39,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("X210600000_06_050");
-MsgDisp("Himuro","There's a possesive part of me 
+MsgDisp("Himuro","There's a possessive part of me 
 who wants to be the only one
 who knows how great you are.
 It's selfish, I know.");

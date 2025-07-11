@@ -84,7 +84,7 @@ See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(I'm competing with ｛颯砂＊＊｝?
-But, next time I defintely 
+But, next time I definitely 
 won't lose either.)");
 MsgClose();
 ScrFadeOut(0,0);

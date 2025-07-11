@@ -55,7 +55,7 @@ Is that true?");
     ChMotion(7,0);
     VoicePlay("O080700000_07_050");
     MsgDisp("Mikage","That's why teachers
-particpate so often.");
+participate so often.");
     MsgDisp("主人公","I see. Let's dance.");
     break ;
     default :

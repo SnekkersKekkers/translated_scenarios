@@ -33,7 +33,7 @@ I got praised by ｛本多＊＊｝!)");
 at the last rhythmic gymnastics joint
 practice?");
     MsgDisp("主人公","Even if you call it an interview, it's a
-newspaper club from another school, roght?");
+newspaper club from another school, right?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4);

@@ -14,7 +14,7 @@ I wonder who it is?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Happy New Years to you too!");
     VoicePlay("S040700000_07_010");
-    MsgDisp("Mikage","I was thinking about visitng the
+    MsgDisp("Mikage","I was thinking about visiting the
 shrine soon, what do you think?");
     MsgSel("Yes, I'd love to!","Sorry, I'm a bit……");
     switch (MsgSelRsltGet()){
@@ -82,7 +82,7 @@ I'll think about it while I come to
 pick you up.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A New Year's shrine vist
+        MsgDisp("主人公","(A New Year's shrine visit
 with ｛御影＊＊｝!
 ......What should I wear?)");
         MsgClose();

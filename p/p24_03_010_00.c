@@ -26,7 +26,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("P240301000_03_010");
-MsgDisp("Honda","Yep yep, that's right. It's a therory that
+MsgDisp("Honda","Yep yep, that's right. It's a theory that
 due to being confined to a poor
 environment, Kuroda Kanbei's sight had
 deteriorated.");
@@ -81,7 +81,7 @@ That's right...");
 SEStop("EV_SE_GAYA_021",3);
 MsgDisp("主人公","(That play went well, though... I was so
 distracted by ｛本多＊＊｝'s talking I
-coudln't concentrate on the last scene.");
+couldn't concentrate on the last scene.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

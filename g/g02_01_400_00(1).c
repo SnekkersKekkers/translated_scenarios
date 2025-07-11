@@ -24,7 +24,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020140000_01_030");
-MsgDisp("Kazama","Hey, how yould you rank them?");
+MsgDisp("Kazama","Hey, how would you rank them?");
 MsgDisp("主人公","Rank?");
 ChEye(1,4);
 ChMouth(1,2);

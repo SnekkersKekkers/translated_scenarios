@@ -71,7 +71,7 @@ even this is like a track event.");
     MsgDisp("Sassa","Really?
 If this was a race, I would give it my
 all from the beginning, without any
-hestiation.");
+hesitation.");
     MsgDisp("主人公","Your all?");
     ChEye(2,0);
     ChMouth(2,4);

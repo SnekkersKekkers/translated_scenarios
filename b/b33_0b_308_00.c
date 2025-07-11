@@ -26,7 +26,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B330B30800_01_010");
 MsgDisp("Kazama","Why you say, what will 
-we do when we're reiding it?");
+we do when we're riding it?");
 ChSet(3,3);
 VoicePlay("B330B30800_03_000");
 MsgDisp("Honda","Let's all chat whilst 
@@ -87,7 +87,7 @@ ChMotion(4,0,1);
 VoicePlay("B330B30800_04_040");
 MsgDisp("Nanatsumori","Oh dear, how unfortunate.
 Looks like the person in question
-hasn't noticed themself.");
+hasn't noticed themselves.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

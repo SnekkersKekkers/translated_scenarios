@@ -28,7 +28,7 @@ feel a sudden sense of unease every
 time she mentioned the school trip,.");
 MsgDisp("","Whenever she would talk about it
 happily, that unease turned into
-irritance. There were a few times
+irritation. There were a few times
 when I interrupted her too,");
 MsgDisp("","Why are you so simple-minded?
 I... won't be there.");

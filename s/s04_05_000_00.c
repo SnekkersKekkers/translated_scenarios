@@ -36,7 +36,7 @@ What should I wear?");
         case 1:
         VoicePlay("S040500000_05_030");
         MsgDisp("Hiiragi","I see.
-I'm sorry for being so spontaenous.");
+I'm sorry for being so spontaneous.");
         VoicePlay("S040500000_05_040");
         MsgDisp("Hiiragi","See you later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

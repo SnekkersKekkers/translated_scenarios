@@ -33,10 +33,10 @@ a success during the practice match.");
     VoicePlay("X110100003_01_020");
     MsgDisp("Kazama","I have no doubt it was a beautiful
 victory...... I heard there were a lot of
-spectators at your preformance.");
+spectators at your performance.");
     MsgDisp("主人公","(Yay!
 I'm glad I've been working hard at the 
-Rythmic Gymnastics club!)");
+Rhythmic Gymnastics club!)");
     break ;
     default :
     DbgAssert(1);

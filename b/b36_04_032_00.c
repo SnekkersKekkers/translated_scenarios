@@ -43,7 +43,7 @@ ChMotion(4,3,1);
 VoicePlay("B360403200_04_040");
 MsgDisp("Nanatsumori","Right right.
 In a world of blue, green, and purple,
-parkling  things are
+sparkling  things are
 constantly moving about.");
 ChEye(4,4);
 ChMouth(4,3);

@@ -54,7 +54,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("D140B05000_01_030");
 MsgDisp("Kazama","Shut up, 
-quicklu eat.");
+quickly eat.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

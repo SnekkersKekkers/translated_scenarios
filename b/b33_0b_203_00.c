@@ -35,7 +35,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20300_03_000");
 MsgDisp("Honda","This place is a recreation of a 
-tropcial rainforest. There'll 
+tropical rainforest. There'll 
 be lots of strange insects too.");
 ChEye(4,0);
 ChMouth(4,2);

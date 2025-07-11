@@ -19,7 +19,7 @@ able to help them win.");
     MsgDisp("Kazama","No doubt about it.
 Without you, I don't think
 they could have played.");
-    MsgDisp("主人公","(Hehe, he's exagerating.
+    MsgDisp("主人公","(Hehe, he's exaggerating.
 But that makes me happy!)");
     break ;
     case 4:

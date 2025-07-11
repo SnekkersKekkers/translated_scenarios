@@ -32,7 +32,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_470");
-MsgDisp("Himuro","But you knoe.
+MsgDisp("Himuro","But you know.
 You'll fall in love before you 
 know it right? You won't have time
 to worry about stuff like types.");

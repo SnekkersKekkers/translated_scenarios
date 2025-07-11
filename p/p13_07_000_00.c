@@ -64,7 +64,7 @@ succeed, you get to try delicious milk～");
     ChMotion(7,0);
     VoicePlay("P130700000_07_070");
     MsgDisp("Mikage","There's plenty, 
-so you can dirnk it later.");
+so you can drink it later.");
     MsgDisp("主人公","Hehe, yes.
 I'm looking forward to it.");
     ChEye(7,0);
@@ -83,7 +83,7 @@ you can't drink milk, you know?");
     MsgDisp("Mikage","Oh, I'll take the challenge.
 I'll make the fastest record.");
     MsgDisp("主人公","Yes.
-Lost lambm, admission for one～!");
+Lost lamb, admission for one～!");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(7,-1);

@@ -50,7 +50,7 @@ ChMotion(1,0);
 VoicePlay("P740100005_01_050");
 MsgDisp("Kazama","You really gave it your
 all these last three years. Well, 
-let's look frward to your big successes?");
+let's look forward to your big successes?");
 MsgDisp("主人公","(Good memories, huh?
 Yeah, in the future I hope I can 
 look back on today like that.)");

@@ -50,7 +50,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C20700_06_010");
-MsgDisp("Himuro","I think it's pretty large-scal.
+MsgDisp("Himuro","I think it's pretty large-scale.
 HAbataki city puts a lot of
 effort in this sort of thing.");
 ChEye(5,4);

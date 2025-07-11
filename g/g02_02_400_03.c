@@ -50,7 +50,7 @@ VoicePlay("G020240003_02_060");
 MsgDisp("Sassa","Well, but it's true that I really enjoy
 eating whatever I want at the cafeteria");
 MsgDisp("主人公","Hehe, training and meals are ｛颯砂＊＊｝
-'s fundemental necessities huh?");
+'s fundamental necessities huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

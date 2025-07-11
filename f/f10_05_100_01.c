@@ -73,7 +73,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100510001_05_060");
-MsgDisp("Hiiragi","I can't be as good as eveyone, 
+MsgDisp("Hiiragi","I can't be as good as everyone, 
 but I hope to be a even just a little
 closer to it. Shall we start right away?");
 MsgClose();

@@ -40,7 +40,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020210306_02_050");
 MsgDisp("Sassa","Exactly! That was awesome.ー.");
-MsgDisp("主人公","Did soemthing happen?");
+MsgDisp("主人公","Did something happen?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

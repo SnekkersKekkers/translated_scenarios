@@ -13,7 +13,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_010");
-MsgDisp("Sassa","Couls this actually made with that
+MsgDisp("Sassa","Could this actually made with that
 intention from the start?");
 ChEye(2,0);
 ChMouth(2,0);

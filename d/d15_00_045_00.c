@@ -35,7 +35,7 @@ ChEye ( 5,4 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,4 ) ;
 VoicePlay ( "D150004500_05_020" ) ;
-MsgDisp ( "Hiiragi","I see. I keep my school time seperate from
+MsgDisp ( "Hiiragi","I see. I keep my school time separate from
 work time." ) ;
 ChEye ( 4,0 ) ;
 ChMouth ( 4,0 ) ;

@@ -26,7 +26,7 @@ I'm not restlessly looking
 around like you are, 
 I'm always concentrated.");
 MsgDisp("主人公","But there's so much 
-interesting fish ehre?");
+interesting fish here?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

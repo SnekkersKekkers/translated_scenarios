@@ -36,7 +36,7 @@ ChMotion(1,1);
 VoicePlay("G020110306_01_040");
 MsgDisp("Kazama","I don't mean to scare you...... 
 Yeah, like if it were winter right now,
-I'd pull out a sweet potato from my pocke");
+I'd pull out a sweet potato from my pocket");
 MsgDisp("主人公","Ah, 
 you also gave me a roasted sweet potato 
 when we went camping, right?");

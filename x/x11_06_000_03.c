@@ -21,7 +21,7 @@ I heard you decided on a new move?");
     ScrFadeIn(0);
     VoicePlay("X110600003_06_010");
     MsgDisp("Himuro","Your performance was captivating.
-You have a certian charm.");
+You have a certain charm.");
     MsgDisp("主人公","Could it be that you came to see the
 rhythmic gymnastics' club joint practice?");
     ChEye(6,3);

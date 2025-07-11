@@ -44,7 +44,7 @@ ChMouth(22,2);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F100730002_22_010");
-MsgDisp("Hikaru","Hmm, it's actuallly boring 
+MsgDisp("Hikaru","Hmm, it's actually boring 
 that there's no problem.
 Right, Marie?");
 MsgDisp("主人公","Eh, um...

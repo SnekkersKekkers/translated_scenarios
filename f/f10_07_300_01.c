@@ -137,7 +137,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F100730001_21_040");
-MsgDisp("Michiru","Propably.
+MsgDisp("Michiru","Probably.
 There's no way it's the same
 as a plant.");
 MsgDisp("主人公","(They both seem very suspicious?)");

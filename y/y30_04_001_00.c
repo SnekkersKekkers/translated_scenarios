@@ -104,7 +104,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 MsgDisp("主人公","\"Good work\"");
 MsgDisp("","She walked up to me, her eyes still
-sparkling as she ofered me a coffee
+sparkling as she offered me a coffee
 cup with steam rising out of it.");
 MsgClear();
 MsgDisp("","I can't tell you.");
@@ -120,7 +120,7 @@ MsgClear();
 MsgDisp("","As she continued to laugh lightly,
 The continuation fo the words in my
 head, were swallowed alongside with
-the piping hot cofee.");
+the piping hot coffee.");
 BGMStop();
 MsgClear();
 MsgClose();

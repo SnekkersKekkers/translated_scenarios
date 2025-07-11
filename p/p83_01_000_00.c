@@ -38,7 +38,7 @@ you, ｛風真＊＊｝.");
 You look as happy as if it 
 was yours being found.");
     MsgDisp("主人公","Yeah, I was super worried.
-I'll hnad it over to them.");
+I'll hand it over to them.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);

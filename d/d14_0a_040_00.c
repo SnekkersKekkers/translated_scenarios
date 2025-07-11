@@ -33,7 +33,7 @@ ChMotion(2,4);
 VoicePlay("D140A04000_02_020");
 MsgDisp("Sassa","That's quite possible.
 Inori quick, is there anything we
-can talka bout now that Ryota is gone?");
+can talk about now that Ryota is gone?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);

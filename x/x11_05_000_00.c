@@ -26,7 +26,7 @@ a good result in their practice match?");
     VoicePlay("X110500000_05_020");
     MsgDisp("Hiiragi","I understand just by looking.
 That victory was thanks to you devoting 
-all your energy towads the baseball club
+all your energy towards the baseball club
 usually.");
     MsgDisp("主人公","(Yay!
 I was praised by ｛柊＊＊＊｝ )");

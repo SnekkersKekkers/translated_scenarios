@@ -33,7 +33,7 @@ charge of this floor.");
     ChMotion(2,3);
     VoicePlay("P830200000_02_020");
     MsgDisp("Sassa","If it's that much physical work, tell me.
-Hey, which classrrom too next?");
+Hey, which classroom too next?");
     MsgDisp("主人公","Ah...
 ｛颯砂＊＊｝, thank you!");
     MsgClose();
@@ -62,7 +62,7 @@ But...");
     ChMotion(2,3);
     VoicePlay("P830200000_02_040");
     MsgDisp("Sassa","Even though it's the student council
-comittee, you still have to do this kind
+committee, you still have to do this kind
 of manual labour huh...");
     MsgDisp("主人公","Yeah, it's overall management 
 so it can be anything. ");

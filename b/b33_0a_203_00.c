@@ -83,7 +83,7 @@ ChMotion(1,3);
 VoicePlay("B330A20300_01_020");
 MsgDisp("Kazama","That doesn't mean you should
 tailgate me on the waterslide.");
-MsgDisp("主人公","Then, next time sbould 
+MsgDisp("主人公","Then, next time should 
 we change the order?");
 ChEye(6,0);
 ChMouth(6,0);

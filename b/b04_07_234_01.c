@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(7,255,5,0,0,10,-1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723401_07_000");
-MsgDisp("Mikage","With this, are you satified?
+MsgDisp("Mikage","With this, are you satisfied?
 Young Lady.");
 MsgSel("Yes, I'm satisfied!","What about you, ｛御影＊＊｝?","I want to spin more!");
 switch (MsgSelRsltGet()){

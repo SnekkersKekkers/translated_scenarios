@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_070");
 MsgDisp("Himuro","And what will you do 
-with that infromation?");
+with that information?");
 MsgDisp("主人公","What will I do...
 I just wanted to know 
 more about ｛氷室＊＊｝.");

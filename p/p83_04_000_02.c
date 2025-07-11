@@ -29,12 +29,12 @@ Ah, I didn't say that to ｛七ツ森＊｝?");
     MsgDisp("Nanatsumori","I know.
 Management seems tough.");
     MsgDisp("主人公","Yeah, I want to make this festival fun for
-eevryone, so I have to do this carefully!");
+everyone, so I have to do this carefully!");
     ChEye(4,5);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P830400002_04_020");
-    MsgDisp("Nanatsumori","Oh... As excpected of the
+    MsgDisp("Nanatsumori","Oh... As expected of the
 student council committee.");
     break ;
     case 4:

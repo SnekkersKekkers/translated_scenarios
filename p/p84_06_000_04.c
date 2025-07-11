@@ -19,7 +19,7 @@ VoicePlay("P840600004_06_010");
 MsgDisp("Himuro","You responded well.
 You were used to dealing with kids, 
 And you described her features p
-erfectly on the school broadcast.");
+perfectly on the school broadcast.");
 MsgDisp("主人公","Is that so?");
 ChEye(6,0);
 ChMouth(6,4);

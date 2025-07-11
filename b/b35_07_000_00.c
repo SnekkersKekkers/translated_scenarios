@@ -6,7 +6,7 @@ MsgDisp("Mikage?","Oiー.");
 MsgClose();
 ChOpen(7,255,5,0,0,-1,-1,0,0,0,60);
 MsgDisp("主人公","Huh, ｛御影＊＊｝?
-What's wtong? ");
+What's wrong? ");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

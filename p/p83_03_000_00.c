@@ -68,7 +68,7 @@ Thank you, ｛本多＊＊｝.");
     ChEyeOpenLevel(3,0);
     VoicePlay("P830300000_03_060");
     MsgDisp("Honda","Then, I'll be watching you for a while
-thenn let's wander around.");
+then let's wander around.");
     MsgDisp("主人公","(Alrーight, I have to show 
 you I'm doing my job properly!)");
     break ;

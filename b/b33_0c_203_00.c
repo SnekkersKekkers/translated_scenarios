@@ -141,7 +141,7 @@ MsgDisp("Hiiragi","Mikage-sensei's personality clashes
 with the atmosphere of the shop.");
 MsgDisp("主人公","Umm...");
 VoicePlay("B330C20300_06_070");
-MsgDisp("Himuro","It's beyond uncomforatble, 
+MsgDisp("Himuro","It's beyond uncomfortable, 
 it's a little scary.");
 ChEye(7,2);
 ChMouth(7,2);

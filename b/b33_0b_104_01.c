@@ -27,7 +27,7 @@ ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B330B10401_04_000");
-MsgDisp("Nanatsumori","Could it be Kazam's inner voice?");
+MsgDisp("Nanatsumori","Could it be Kazama's inner voice?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

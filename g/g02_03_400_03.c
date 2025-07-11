@@ -50,7 +50,7 @@ VoicePlay("G020340003_03_060");
 MsgDisp("Honda","If I were this particular in a business
 setting, I'd go bankrupt before opening.");
 MsgDisp("主人公","(I'm kind of curious about this
-profit-inefficent ramen......)");
+profit-inefficient ramen......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -30,7 +30,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A04001_01_020");
-MsgDisp("Kazama","Right, that guy's atheleticism 
+MsgDisp("Kazama","Right, that guy's athleticism 
 is seriously off the charts.
 I'm glad we were in a different class.");
 MsgDisp("主人公","Why?");
@@ -40,7 +40,7 @@ ChMotion(1,0);
 VoicePlay("D140A04001_01_030");
 MsgDisp("Kazama","Think about it carefully.
 I would have to see Sassa in his
-monoply three times a week.");
+monopoly three times a week.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);

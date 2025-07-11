@@ -42,7 +42,7 @@ ChOpen(4,254,0,0,3,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070401000_04_050");
 MsgDisp("Nanatsumori","I really thought it would be boring and 
-troblesome, the school trip.");
+troublesome, the school trip.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

@@ -63,7 +63,7 @@ average student couldn't even
 imagine.");
 MsgDisp("","I can't help but be happy that these 
 two have naturally become drawn to
-each other and developed a friendhip.");
+each other and developed a friendship.");
 MsgClear();
 VoicePlay("Y300700400_06_020");
 MsgDisp("Himuro","\"Kojiro-sensei, 
@@ -93,7 +93,7 @@ VoicePlay("Y300700400_07_060");
 MsgDisp("Mikage","\"Sounds good! Let's invite her?\"");
 MsgDisp("","Seems like I wasn't their target.
 But I'm happy to talk to these two
-like a normaly high school boy.");
+like a normal high school boy.");
 VoicePlay("Y300700400_06_030");
 MsgDisp("Himuro","\"Kojiro-sensei,
 you're laughing too much.\"");

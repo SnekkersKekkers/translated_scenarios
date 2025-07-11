@@ -19,7 +19,7 @@ MsgDisp("主人公","\"Welcome!\"");
 MsgClear();
 MsgDisp("","Yep.
 Your smile is nice today too.");
-MsgDisp("","While being satisifed with 
+MsgDisp("","While being satisfied with 
 the pleasant reception, I headed 
 towards my favourite seat.");
 MsgClear();
@@ -42,7 +42,7 @@ MsgDisp("","For an instant, her eyes widened,
 But soon her usual smile returned.");
 MsgDisp("主人公","\"Certainly!\"");
 MsgDisp("","Crap.
-This comunication.
+This communication.
 Feels nice...!");
 MsgClear();
 MsgDisp("","　　　　　　　　　　 ・
@@ -61,7 +61,7 @@ SEWait();
 MsgDisp("","...It's coming.");
 MsgDisp("主人公","\"Sorry to have kept you waiting. I
 brought you dessert. ...It's
-speciffically for ｛七ツ森＊｝,
+specifically for ｛七ツ森＊｝,
 right?\"");
 MsgDisp("","Unbelievable...");
 MsgClear();

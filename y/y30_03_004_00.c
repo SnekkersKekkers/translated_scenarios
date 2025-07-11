@@ -66,7 +66,7 @@ and laughs.");
 MsgDisp("","Ryo-kun, shrugs his shoulders, 
 as if to say \"you don't get it\".");
 MsgDisp("","These two's responses were to be
-expected. Alrught, alright...I nod.
+expected. Alright, alright...I nod.
 The two look at me suspiciously.");
 MsgDisp("","Alright! Now's the best time.");
 MsgClear();

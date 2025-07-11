@@ -42,7 +42,7 @@ New Year's together.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S120600002_06_020");
-    MsgDisp("Himuro","What a nonsensical quetion.
+    MsgDisp("Himuro","What a nonsensical question.
 If I didn't like it, I wouldn't have
 come.");
     ChEye(6,0);

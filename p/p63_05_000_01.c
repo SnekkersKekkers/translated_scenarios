@@ -41,7 +41,7 @@ morning!");
     MsgDisp("Hiiragi","Heheh, how spirited!
 Then could you allow me to have a look?");
     MsgDisp("主人公","Yes, absolutely!
-One cutsomer, this way please!");
+One customer, this way please!");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -65,7 +65,7 @@ Welcome.");
     VoicePlay("P630500001_05_050");
     MsgDisp("Hiiragi","Maybe I should have came by earlier.");
     MsgDisp("主人公","It's alright.
-Becayse there's still lots of both
+Because there's still lots of both
 herb tea and vegetables!");
     ChEye(5,4);
     ChMouth(5,4);

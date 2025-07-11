@@ -42,7 +42,7 @@ BGMStop(5);
 ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040120100_01_030");
-MsgDisp("Kazama","Afterall, we would all take turns to sit
+MsgDisp("Kazama","After All, we would all take turns to sit
 next to you. But I was the one who got to
 sit next to you the most, right?");
 MsgClose();

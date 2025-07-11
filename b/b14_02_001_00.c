@@ -23,7 +23,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200100_02_010");
 MsgDisp("Sassa","Ah—, If I could return to daytime,
-I could sepnd more time with you.");
+I could spend more time with you.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);

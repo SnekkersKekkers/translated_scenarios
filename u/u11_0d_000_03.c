@@ -13,7 +13,7 @@ ChMotion(21,0);
 VoicePlay("U110D00003_21_000");
 MsgDisp("Michiru","Hehe.
 I'll make some tea. 
-We also have Anastatia's new cake.");
+We also have Anastasia's new cake.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

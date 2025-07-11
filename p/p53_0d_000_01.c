@@ -31,7 +31,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("P530D00001_21_010");
-MsgDisp("Michiru","Hikari,don't.
+MsgDisp("Michiru","Hikaru, don't.
 That would be too much pressure.");
 ChEye(21,4);
 ChMouth(21,3);

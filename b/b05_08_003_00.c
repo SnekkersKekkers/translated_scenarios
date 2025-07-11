@@ -81,7 +81,7 @@ StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("B050800300_08_080");
 MsgDisp("Shirahane","I saw a photo of the high school
-model Nana weaing this item. ");
+model Nana wearing this item. ");
 StlEye(8,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5);

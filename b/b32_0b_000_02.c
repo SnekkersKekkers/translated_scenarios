@@ -8,7 +8,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B320B00002_03_000");
 MsgDisp("Honda","Me too, me too!
-I woke up before the alram though.");
+I woke up before the alarm though.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

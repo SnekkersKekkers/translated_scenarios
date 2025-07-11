@@ -58,7 +58,7 @@ teacher here. I look forwards to
 seeing you around?\"");
 MsgDisp("","——From the day I went for the
 entrance ceremony procedures, he has
-concerened himself with my special
+concerned himself with my special
 circumstances.");
 MsgDisp("","I was a little surprised to begin
 with.");
@@ -111,7 +111,7 @@ ScrFadeIn(0);
 MsgDisp("","——And there's one more person.
 They're a mysterious person who makes
 the two of us... maybe Mikage-sensei
-too, smile maturally.");
+too, smile maturely.");
 MsgDisp("主人公","\"What is everyone talking about?\"");
 MsgDisp("","A smile illuminated by the
 orange of the sunset.");

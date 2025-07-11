@@ -17,7 +17,7 @@ well-received...)");
     MsgDisp("Sassa","｛主人公｝,
 You're selling fresh vegetables?");
     MsgDisp("主人公","｛颯砂＊＊｝, welcome!
-Yes, we're selling organic vegatables 
+Yes, we're selling organic vegetables 
 and herb tea.");
     ChEye(2,3);
     ChMouth(2,3);
@@ -35,7 +35,7 @@ Mikage-sensei says that they're beauties.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P630200001_02_020");
-    MsgDisp("Sassa","Then, I'll have  abeauty that you grew, 
+    MsgDisp("Sassa","Then, I'll have a beauty that you grew, 
 and some herbal tea too, please.");
     MsgDisp("主人公","Yes.
 One customer, this way～!");

@@ -29,7 +29,7 @@ VoicePlay("T020801000_08_200");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
-MsgDisp("Shirahane","That's right. I've received blesssings
+MsgDisp("Shirahane","That's right. I've received blessings
 from both schools, isn't that unheard of?");
 MsgDisp("主人公","Haha, isn't it.");
 VoicePlay("T020801000_08_210");

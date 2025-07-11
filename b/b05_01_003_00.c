@@ -67,7 +67,7 @@ StlMouth(1,1);
 VoicePlay("B050100300_01_060");
 MsgDisp("Kazama","Look, your right ankle is slanted again.
 You might injure yourself, so stand up
-straight. Ah, it's okay to tak eyour time.");
+straight. Ah, it's okay to take your time.");
 MsgDisp("主人公","(Ugh...
 If it were that simple, 
 I wouldn't be struggling like this...)");

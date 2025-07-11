@@ -14,7 +14,7 @@ ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("P553200000_32_010");
 MsgDisp("V.P. Himuro","However... Just for today, we should enjoy
-a drink of victory. You did welll.");
+a drink of victory. You did well.");
 MsgDisp("主人公","Yes, thank you very much!");
 MsgClose();
 ScrFadeOut(0);

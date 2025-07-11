@@ -180,7 +180,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10500_05_080");
 MsgDisp("Hiiragi","Yes. But, I shouldn't push my luck more
-than this. I'll incure divine punishment.");
+than this. I'll incur divine punishment.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

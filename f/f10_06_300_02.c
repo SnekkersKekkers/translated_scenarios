@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Umm, what class did I have next?)");
 VoicePlay("F100630002_06_000");
 MsgDisp("Himuro?","Aah, geez I get it!
-I'll calll you that, okay?");
+I'll call you that, okay?");
 VoicePlay("F100630002_22_000");
 MsgDisp("Hikaru?","Ehh, is it okay∋
 Yay!");

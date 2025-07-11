@@ -22,7 +22,7 @@ ChMotion(3,5);
 VoicePlay("G020310304_03_020");
 MsgDisp("Honda","Ah, no, no!
 But there's no one who complains about 
-a present when they recieve it right?");
+a present when they receive it right?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);

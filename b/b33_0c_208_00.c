@@ -48,7 +48,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20800_05_000");
-MsgDisp("Hiiragi","Absoulutely. You do it by 
+MsgDisp("Hiiragi","Absolutely. You do it by 
 rubbing some wood together right?");
 ChEye(7,0);
 ChMouth(7,0);

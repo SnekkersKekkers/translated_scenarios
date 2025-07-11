@@ -42,7 +42,7 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("G020110001_01_050");
-MsgDisp("Kazama","It's uncool, but I'm tellig the truth.");
+MsgDisp("Kazama","It's uncool, but I'm telling the truth.");
 MsgDisp("主人公","｛風真＊＊｝……");
 ChEye(1,2);
 ChMouth(1,3);

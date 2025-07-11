@@ -67,7 +67,7 @@ I'll walk you home today. Let's go.");
 gives such a refreshing feeling.");
     MsgDisp("主人公","Yeah.
 ｛颯砂＊＊｝,
-thanks for ocming with me.");
+thanks for coming with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

@@ -76,7 +76,7 @@ ChMotion(4,2,1);
 ChCheek(4,10);
 VoicePlay("B140400100_04_080");
 MsgDisp("Nanatsumori","Unless I got the wrong idea, 
-I thought it woudl be the 
+I thought it would be the 
 best present for both of us.");
 MsgDisp("主人公","｛七ツ森＊｝……");
 ChEye(4,4);

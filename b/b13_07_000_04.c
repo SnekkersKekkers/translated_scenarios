@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B130700004_07_000");
 MsgDisp("Mikage","Oh, there's a cute
-fluffly lamb here too.");
+fluffy lamb here too.");
 MsgDisp("主人公","Umm... are you talking
 about these clothes?");
 ChEye(7,0);

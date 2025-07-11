@@ -7,7 +7,7 @@ ChMotion(2,4);
 VoicePlay("D140A03300_02_000");
 MsgDisp("Sassa","The other day, I was watching 
 this surfing contest on TV, but
-how do thet decide the winner?");
+how do they decide the winner?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

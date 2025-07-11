@@ -63,7 +63,7 @@ ChMotion(7,4);
 VoicePlay("D140C05001_07_040");
 MsgDisp("Mikage","That's why, we're going to 
 read the room and sit at the table
-nect to you guys.");
+next to you guys.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -16,7 +16,7 @@ performance...... I have to make sure I
 don't forget my lines.)");
     VoicePlay("P230400000_04_000");
     MsgDisp("Nanatsumori?","What are we going to do if you're scared 
-even before the performance bgeins?");
+even before the performance begins?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     MsgClose();

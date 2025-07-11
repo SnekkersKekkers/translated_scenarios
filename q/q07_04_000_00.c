@@ -52,7 +52,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,5,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070400000_04_050");
-MsgDisp("Nanatsumori","Waoh...... so big.");
+MsgDisp("Nanatsumori","Woah...... so big.");
 MsgDisp("主人公","True......
 It's feels like I'm really in a foreign 
 country.");

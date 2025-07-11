@@ -44,7 +44,7 @@ ChMotion(4,0,1);
 VoicePlay("F100410002_04_060");
 MsgDisp("Nanatsumori","Look, it's there.");
 MsgDisp("主人公","Hey...
-But, I'm glas.");
+But, I'm glad.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

@@ -4,7 +4,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P640700005_07_000");
-MsgDisp("Mikage","....Occassionally you see 
+MsgDisp("Mikage","....Occasionally you see 
 these kinds of stores.");
 MsgDisp("主人公","Umm...
 ｛御影＊＊｝, how is it?");
@@ -19,7 +19,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P640700005_07_020");
-MsgDisp("Mikage","The freshly picked vegertables are crying?
+MsgDisp("Mikage","The freshly picked vegetables are crying?
 The colour balance is off.
 The vegetable fibers are ruined...");
 MsgDisp("主人公","I'm sorry...");

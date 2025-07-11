@@ -46,7 +46,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q090A00000_02_030");
 MsgDisp("Sassa","Oh huh.
-That's why he accoumpanied me.");
+That's why he accompanied me.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

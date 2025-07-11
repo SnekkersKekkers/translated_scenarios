@@ -72,7 +72,7 @@ ChMotion(4,0,1);
 VoicePlay("B330B20201_04_010");
 MsgDisp("Nanatsumori","I'm getting sleepy even 
 before the show starts...");
-MsgDisp("主人公","Hhee!");
+MsgDisp("主人公","Hehe!");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);

@@ -172,7 +172,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10801_01_060");
 MsgDisp("Kazama","Ohh, of course.
-I didn't think about getting seperated 
+I didn't think about getting separated 
 on purpose and things like that at all.");
 ChEye(2,2);
 ChMouth(2,0);

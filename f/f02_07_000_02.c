@@ -34,7 +34,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700002_07_030");
-MsgDisp("Mikage","...And, just like that he passsed by 
+MsgDisp("Mikage","...And, just like that he passed by 
 that person. Since then, Vice Principal 
 Himuro hasn't tolerated tardiness
 for even one second,");

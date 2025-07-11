@@ -98,7 +98,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30801_04_030");
 MsgDisp("Nanatsumori","If you say so, sure.
-Let's all go on it as a dfour.");
+Let's all go on it as four.");
 MsgDisp("主人公","(Hehe! But I might've 
 wanted to see ｛風真＊＊｝ and
 ｛本多＊＊｝'s couple photo together?')");

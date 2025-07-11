@@ -11,7 +11,7 @@ SEPlay("EV_SE_544");
 ChOpen(35,254,0,0,0,-1,-1,0,0);
 VoicePlay("B110300002_35_000");
 MsgDisp("Guy","Hang on a sec～? What's with that pose? It
-looks fantasic, you're nailing it!");
+looks fantastic, you're nailing it!");
 MsgDisp("主人公","Huh?");
 ChEye(35,0);
 ChMouth(35,0);

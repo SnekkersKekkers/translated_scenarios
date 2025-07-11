@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040715101_07_010");
     MsgDisp("Mikage","That's it, that's it.
 I don't get muscle pain that often.
-I look forwad to it～!");
+I look forward to it～!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -39,7 +39,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("D140C04000_06_020");
-MsgDisp("Himuro","And he's our conpanion.");
+MsgDisp("Himuro","And he's our companion.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);

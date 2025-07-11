@@ -10,7 +10,7 @@ echoes through our workplace.");
 MsgClear();
 MsgDisp("","...She's here!");
 MsgDisp("","About thirty minutes ago, a girl
-wearin' the prestigous Habataki
+wearin' the prestigious Habataki
 academy's uniform entered the office.
 This must be her.");
 MsgClear();

@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110600000_06_000");
-    MsgDisp("Himuro","The baseball club won thei
+    MsgDisp("Himuro","The baseball club won their
 match, right? Congratulations.");
     MsgDisp("主人公","｛氷室＊＊｝, Thank you!");
     MsgDisp("主人公","(I'm glad we won...!)");
@@ -21,7 +21,7 @@ match, right? Congratulations.");
     ScrFadeIn(0);
     VoicePlay("X110600000_06_010");
     MsgDisp("Himuro","I heard the baseball club won 
-their parctice match?");
+their practice match?");
     MsgDisp("主人公","｛氷室＊＊｝.
 Yeah, we did it!");
     ChEye(6,0);

@@ -195,7 +195,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
-MsgDisp("Himuro","...Then, as for the tutition fee, 
+MsgDisp("Himuro","...Then, as for the tuition fee, 
 you guys will treat me to the next 
 meal at the school cafeteria.");
 MsgDisp("主人公","(Hehe, that's just like ｛氷室＊＊｝.

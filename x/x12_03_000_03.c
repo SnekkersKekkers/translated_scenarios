@@ -27,7 +27,7 @@ well-liked as you are.");
     ChEyeOpenLevel(3,0);
     VoicePlay("X120300003_03_010");
     MsgDisp("Honda","The face of the student council may
-be the preseident, but in reality
+be the president, but in reality
 it's being supported by hard-working
 people like you!");
     MsgDisp("主人公","(Yay! I was praised!)");

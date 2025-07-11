@@ -63,7 +63,7 @@ ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("E010120100_05_050");
 MsgDisp("Hiiragi","Is that so? Thank you.
-You negociated with the shopkeeper?");
+You negotiated with the shopkeeper?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

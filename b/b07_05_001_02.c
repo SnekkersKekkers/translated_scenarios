@@ -45,7 +45,7 @@ VoicePlay("B070500001_05_170");
 MsgDisp("Hiiragi","I want to grow up so that Mikage-sensei
 can tell me about himself.");
 MsgDisp("主人公","(｛柊＊＊＊｝ and ｛御影＊＊｝
-understand ecah other...
+understand each other...
 what a wonderful relationship...)");
 BGMStop();
 MsgClose();

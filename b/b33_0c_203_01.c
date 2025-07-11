@@ -37,7 +37,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20301_07_000");
 MsgDisp("Mikage","Come to think of it, 
-you were glacning at the shop
+you were glancing at the shop
 windows weren't you?");
 MsgDisp("主人公","｛柊＊＊＊｝,
 is there something you wanted to buy? ");

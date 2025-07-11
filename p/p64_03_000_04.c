@@ -10,7 +10,7 @@ ChMotion(3,4,1);
 VoicePlay("P640300004_03_010");
 MsgDisp("Honda","All of them are sweet like fruit.
 Wouldn't even a vegetable-hating kid
-evnjoy this?");
+enjoy this?");
 MsgDisp("主人公","That would be nice.");
 ChEye(3,0);
 ChMouth(3,3);

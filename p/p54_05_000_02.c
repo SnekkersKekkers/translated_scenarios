@@ -28,7 +28,7 @@ ChMotion(5,0);
 VoicePlay("P540500002_05_020");
 MsgDisp("Hiiragi","On the back of the enjoyable music, 
 are your efforts from day after day.
-Congratukations on the success!");
+Congratulations on the success!");
 MsgDisp("主人公","Yes, thank you!");
 MsgDisp("主人公","(｛柊＊＊＊｝ praised me!
 I'm truly glad I gave it my best.)");

@@ -25,7 +25,7 @@ MsgDisp("Hiiragi","I just helped him a little bit
 with the speech for the school assembly.");
 MsgDisp("主人公","Ah, the one from the other day?
 It was well received.
-Did ｛柊＊＊＊｝ write the maunscript?");
+Did ｛柊＊＊＊｝ write the manuscript?");
 MsgClose();
 ScrFadeOut(0,0,30);
 ChClose(5,0,0);
@@ -39,7 +39,7 @@ MsgDisp("Hiiragi","No, the president wrote it.
 And I did a little directing.");
 MsgDisp("主人公","Oh that's right.
 His gestures were very passionate 
-and persuassive.");
+and persuasive.");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);

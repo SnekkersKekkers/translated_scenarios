@@ -26,7 +26,7 @@ MsgDisp("Mikage","You guys are growing lots.
 I want you to absorb lots 
 of nutrients, and grow bigger.");
 MsgDisp("主人公","Why are you talking 
-about us like we're plamts...");
+about us like we're plants...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

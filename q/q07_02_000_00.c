@@ -78,7 +78,7 @@ ChMotion(2,3);
 VoicePlay("Q070200000_02_080");
 MsgDisp("Sassa","C'mon, look, Cuz I'm on a school trip,
 I haven't been able to train,
-So my body has weakend.");
+So my body has weakened.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

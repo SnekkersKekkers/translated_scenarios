@@ -48,7 +48,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B070700000_07_280");
 MsgDisp("Mikage","I don't know about cute, 
-but there were about 10 dgos so I
+but there were about 10 dogs so I
 had to build it carefully 
 from scratch.");
 MsgDisp("主人公","This seems like more than a hobby...");

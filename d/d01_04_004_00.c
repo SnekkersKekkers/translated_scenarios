@@ -26,7 +26,7 @@ ChMotion(4,0,1);
 VoicePlay("D010400400_04_020");
 MsgDisp("Nanatsumori","I see......");
 MsgDisp("主人公","Hey, I was wondering......For interviews
-do you usally carry make-up or something
+do you usually carry make-up or something
 like that with you?");
 ChEye(4,0);
 ChMouth(4,3);

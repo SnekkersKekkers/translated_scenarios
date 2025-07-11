@@ -79,7 +79,7 @@ this might be it.");
 ChMouth(4,1);
 ChMotion(4,0,1);
 MsgDisp("主人公","Hehe, a cat huh...
-｛七ツ森＊｝ is definitelu cat like?");
+｛七ツ森＊｝ is definitely cat like?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

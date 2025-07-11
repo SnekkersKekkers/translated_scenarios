@@ -16,7 +16,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P740700001_07_010");
-MsgDisp("Mikage","Well sure. But only the curreent you can
+MsgDisp("Mikage","Well sure. But only the current you can
 create those wonderful clothes. You're
 satisfied with the work itself, right?");
 MsgDisp("主人公","Yes...");

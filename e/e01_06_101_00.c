@@ -84,7 +84,7 @@ MsgDisp("Himuro","Yeah......
 I didn't think he'd go home by himself.
 Sorry for making you worry.");
 MsgDisp("主人公","It's no problem at all.
-He's a realiable little brother, just
+He's a reliable little brother, just
 like ｛氷室＊＊｝, isn't he?");
 ChEye(6,0);
 ChMouth(6,0);

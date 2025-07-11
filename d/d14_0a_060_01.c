@@ -43,7 +43,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D140A06001_01_030");
-MsgDisp("Kazama","I'm not syaing it's an especially
+MsgDisp("Kazama","I'm not saying it's an especially
 bad thing. That the two of them 
 are going out, I guess.");
 MsgDisp("主人公","Umm...yeah.

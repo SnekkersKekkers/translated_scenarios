@@ -56,7 +56,7 @@ ChMotion(2,3);
 VoicePlay("B330A10600_02_010");
 MsgDisp("Sassa","Hahaha!
 Now that you mention it, Inori was so 
-drawn in, his body strted moving to it.");
+drawn in, his body started moving to it.");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);

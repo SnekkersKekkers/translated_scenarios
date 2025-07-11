@@ -26,7 +26,7 @@ MsgDisp("主人公","So that's how it was.");
 ChMotion(5,4);
 VoicePlay("B150500000_05_040");
 MsgDisp("Hiiragi","He would purr with delight, 
-then look eannoyed.");
+then look annoyed.");
 ChEye(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);

@@ -32,7 +32,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F032100000_21_310");
-MsgDisp("Michiru","But Mari, you're differet.
+MsgDisp("Michiru","But Mari, you're different.
 In front of you, we can be 
 our true selves.");
 ChEye(21,4);

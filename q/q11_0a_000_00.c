@@ -29,7 +29,7 @@ VoicePlay("Q110A00000_02_010");
 MsgDisp("Sassa","I mean, I'm getting help all the time.");
 MsgDisp("主人公","
 Hehe...... Ah, by the way, I bought for 
-｛氷室＊＊｝ a Matcha catsella.");
+｛氷室＊＊｝ a Matcha castella.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);

@@ -18,7 +18,7 @@ ChMouth(31,3);
 ChMotion(31,3);
 VoicePlay("P133100000_31_010");
 MsgDisp("Goro","Well yeah. This majestic sight, it's hard
-to ignore...... Pardon the intrustion a
+to ignore...... Pardon the intrusion a
 bit!");
 MsgDisp("主人公","Yes, entry for one!");
 MsgClose();

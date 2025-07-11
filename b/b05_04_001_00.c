@@ -75,7 +75,7 @@ StlMouth(4,0);
 VoicePlay("B050400100_04_060");
 MsgDisp("Nanatsumori","...Damn!
 What's this berry sauce?
-The mix balnce is too perfect.");
+The mix balance is too perfect.");
 StlEye(4,1);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);

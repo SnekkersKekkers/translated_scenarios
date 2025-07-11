@@ -30,7 +30,7 @@ so you don't have to go that far.");
     MsgDisp("Honda","Besides, the manager's substitute
 is here, so we'll have no problems
 keeping the store open.");
-    MsgDisp("主人公","The manager's substitue......?");
+    MsgDisp("主人公","The manager's substitute......?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);

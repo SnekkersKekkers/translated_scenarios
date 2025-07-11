@@ -1,7 +1,7 @@
 BGOpen("sc101",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Let's quit the
-rhythmic gynmastics club......)");
+rhythmic gymnastics club......)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc603",0);

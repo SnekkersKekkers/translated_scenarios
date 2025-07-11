@@ -107,7 +107,7 @@ so we'll just go with what you want.");
 ChMouth(1,3);
 MsgDisp("主人公","(Hmm.
 I'm having fun just by being with
-everyine though you know?)");
+everyone though you know?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

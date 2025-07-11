@@ -8,7 +8,7 @@ colour the tulip will bloom into. I'm
 looking forward to it.\"");
 MsgDisp("","The Gardening Club's farming
 corner. We planted Nagasaki's
-sepcialty bulb.");
+specialty bulb.");
 MsgDisp("","These are the bulbs left after 
 I gave some to that girl.");
 MsgClear();
@@ -33,7 +33,7 @@ VoicePlay("Y300700300_07_010");
 MsgDisp("Mikage","\"These are what's left of the MVP
 prize.\"");
 MsgDisp("主人公","\"They're tulip bulbs, right?\"");
-MsgDisp("","For the MVP prize, I gave the tullip
+MsgDisp("","For the MVP prize, I gave the tulip
 bulbs I got as a souvenir from
 Nagasaki on our school trip.");
 MsgDisp("主人公","\"Can I plant some here too?\"\"");

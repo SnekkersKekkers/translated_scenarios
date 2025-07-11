@@ -25,7 +25,7 @@ With them having lived abroad so long,
 it can't be helped that 
 people are curious.");
 MsgDisp("主人公","I see... I'm sorry.
-I might've also aksed you 
+I might've also asked you 
 things out of curiosity.");
 ChEye(1,0);
 ChMouth(1,1);

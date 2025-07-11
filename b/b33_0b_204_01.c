@@ -26,7 +26,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B330B20401_03_000");
-MsgDisp("Honda","That's right... We've alrady walked around
+MsgDisp("Honda","That's right... We've already walked around
 the forest park... After that——");
 ChEye(4,2);
 ChMouth(4,1);
@@ -44,7 +44,7 @@ MsgDisp("主人公","?");
 ChEye(1,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20401_03_010");
-MsgDisp("Honda","There are so many interesting placesl 
+MsgDisp("Honda","There are so many interesting places. 
 Like under the big rocks, 
 in the hollow of the trees,
 and behind the leaves...");

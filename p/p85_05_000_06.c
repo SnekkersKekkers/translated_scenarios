@@ -15,7 +15,7 @@ ChMotion(5,4);
 VoicePlay("P850500006_05_010");
 MsgDisp("Hiiragi","It's not just me, 
 everyone in the student council
-committe thought so too.");
+committee thought so too.");
 MsgDisp("主人公","Thank you.
 I'm happy to hear you say that!");
 ChEye(5,4);
@@ -30,7 +30,7 @@ ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("P850500006_05_030");
 MsgDisp("Hiiragi","No.
-It's not eeven enough.");
+It's not even enough.");
 ChEyeOpenLevel(5,-1);
 MsgDisp("主人公","(Yay, I'm happy!
 I was able to make a good memory of my

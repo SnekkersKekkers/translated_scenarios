@@ -72,7 +72,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10201_01_020");
-MsgDisp("Kazama","Inori priased me?");
+MsgDisp("Kazama","Inori praised me?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

@@ -97,7 +97,7 @@ MsgDisp("","I was taken aback.");
 MsgDisp("","\"Graduation\",\"university\"......");
 MsgDisp("","In the middle of that casual
 conversation, those were the keywords
-that amde me think back to the fact
+that made me think back to the fact
 they were my seniors.");
 MsgClear();
 MsgDisp("","So much for 
@@ -113,7 +113,7 @@ BGOpen("ad643",0);
 MsgDisp("主人公","\"｛氷室＊＊｝...?\"");
 MsgDisp("","Her worried-sounding voice brings me
 back to my senses. Ryota-senpai and
-the others look at me quizically");
+the others look at me quizzically");
 VoicePlay("Y300600400_01_020");
 MsgDisp("Kazama","\"Haa... that's why I told you you
 should've just gotten the cold soba.\"");

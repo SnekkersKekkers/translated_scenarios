@@ -15,7 +15,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, this accesory is cute! They're already
+MsgDisp("主人公","Ah, this accessory is cute! They're already
 coming out with summer line-up.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -44,7 +44,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B050400000_47_000");
-MsgDisp("Woman Customer A","Hey hey, over thre.
+MsgDisp("Woman Customer A","Hey hey, over there.
 Is that Nana?");
 VoicePlay("B050400000_48_000");
 MsgDisp("Woman Customer B","Eh, seriously?

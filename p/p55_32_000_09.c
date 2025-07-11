@@ -28,7 +28,7 @@ ChEyeOpenLevel(32,0);
 VoicePlay("P553200009_32_030");
 MsgDisp("V.P. Himuro","With the hope of bringing harmony into
 the hearts of first years, second years
-and third years and alumnis, 
+and third years and alumni, 
 I waved my conductor baton.");
 MsgDisp("主人公","As for me,
 I inconvenienced everyone...");
@@ -37,7 +37,7 @@ ChMouth(32,0);
 VoicePlay("P553200009_32_040");
 MsgDisp("V.P. Himuro","I see..
 If that is true, then the first thing you
-should do is to not be disspirited 
+should do is to not be dispirited 
 by yourself.");
 ChEye(32,2);
 ChMouth(32,2);

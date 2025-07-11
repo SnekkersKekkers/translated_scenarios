@@ -41,7 +41,7 @@ ChMotion(7,3);
 VoicePlay("B070700000_07_540");
 MsgDisp("Mikage","The most optimum partner is
 someone always nearby, mutually
-efficent. A partner for
+efficient. A partner for
 co-existence.");
 MsgDisp("主人公","Umm, this feels like a 
 biology class though...");

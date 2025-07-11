@@ -160,7 +160,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 ChCheek(6,0);
 VoicePlay("B330A30500_06_080");
-MsgDisp("Himuro","I accpet your challenge.");
+MsgDisp("Himuro","I accept your challenge.");
 MsgDisp("主人公","(Hmm...?
 This is turning into a 
 huge battle, isn't it?)");

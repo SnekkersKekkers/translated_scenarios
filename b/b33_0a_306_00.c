@@ -47,7 +47,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30600_06_010");
-MsgDisp("Himuro","\"Surprisingly\" is offensove.
+MsgDisp("Himuro","\"Surprisingly\" is offensive.
 At any rate, that was 
 impactful for me.");
 MsgDisp("主人公","Hehe, I'm glad.

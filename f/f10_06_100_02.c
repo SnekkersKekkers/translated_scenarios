@@ -2,7 +2,7 @@ BGOpen("sc230",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Hmm, the weather is nice today too!
-I'll go eat unch on the rooft—)");
+I'll go eat lunch on the rooft—)");
 VoicePlay("F100610002_41_000");
 MsgDisp("Male Student","Finally got some useful information!
 Thank you, Himuro!");

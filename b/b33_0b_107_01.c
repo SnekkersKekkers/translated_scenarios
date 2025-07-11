@@ -38,7 +38,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10701_01_020");
-MsgDisp("Kazama","Coem to think of it, my Grandpa 
+MsgDisp("Kazama","Come to think of it, my Grandpa 
 said that Honda visits there a lot.");
 ChEye(3,3);
 ChMouth(3,3);

@@ -24,7 +24,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C06102_05_010");
-MsgDisp("Hiiragi","That's three dfifferent duties...");
+MsgDisp("Hiiragi","That's three different duties...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -74,7 +74,7 @@ MsgDisp("Hiiragi","We are your friends after all.");
 MsgDisp("主人公","Hehe.
 Yeah, thank you.");
 MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are 
-worried aboout me and ｛御影＊＊｝.)");
+worried about me and ｛御影＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

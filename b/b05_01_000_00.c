@@ -81,9 +81,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B050100000_01_010");
-MsgDisp("Kazama","It's almost time.
-The chance for ehen the gondola 
-reaches the top...");
+MsgDisp("Kazama","Our gondola will soon
+reach the top...");
 SEPlay("EV_SE_544");
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -235,7 +234,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,7);
 VoicePlay("B050100000_01_130");
-MsgDisp("Kazama","Whoeevr runs away from
+MsgDisp("Kazama","Whoever runs away from
 here fastest wins.");
 MsgDisp("主人公","Ehhh∋");
 SEPlay("EV_SE_504");

@@ -85,7 +85,7 @@ spend with you.");
         ChCheek(8,8);
         VoicePlay("B040822202_08_070");
         MsgDisp("Shirahane","...That's no good.
-I just said something cringey.");
+I just said something cringy.");
         ChEye(8,4);
         ChMouth(8,3);
         ChMotion(8,2,1);

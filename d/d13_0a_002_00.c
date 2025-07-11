@@ -19,7 +19,7 @@ ChOpen(6,254,0,0,0,-1,-1,0,0);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝...
 it's just that I was thinking about
 how little time I have 
-left in this classrooom.");
+left in this classroom.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

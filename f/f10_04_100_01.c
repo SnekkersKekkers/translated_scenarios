@@ -36,7 +36,7 @@ ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
 VoicePlay("F100410001_04_030");
 MsgDisp("Nanatsumori","Yeah?");
 MsgDisp("主人公","Didn't you drop 
-somethinhg just now?");
+something just now?");
 ChEye(4,0);
 ChMouth(4,5);
 VoicePlay("F100410001_04_040");

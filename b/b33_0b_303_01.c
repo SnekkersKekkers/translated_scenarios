@@ -61,7 +61,7 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B30301_04_020");
 MsgDisp("Nanatsumori","I mean, Dahon does wear
-his uniforn like that I guess...");
+his uniform like that I guess...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

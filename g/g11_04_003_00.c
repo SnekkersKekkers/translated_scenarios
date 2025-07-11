@@ -41,7 +41,7 @@ a summary of it soon.");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400300_04_050");
-MsgDisp("Nanatsumori","Okay then, sorry for interupting you.
+MsgDisp("Nanatsumori","Okay then, sorry for interrupting you.
 It's time for me to take pictures so
 I'm about to go soon.");
 MsgClose();

@@ -78,7 +78,7 @@ ChMotion(3,0,1);
 VoicePlay("B330B20200_03_030");
 MsgDisp("Honda","But, it's because of the 
 legends of Zeus that so many
-constelllations exist.");
+constellations exist.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

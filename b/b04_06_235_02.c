@@ -56,7 +56,7 @@ realize the pattern by now?");
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623502_06_040");
         MsgDisp("Himuro","...Sorry.
-That's a bad habbit of mine.");
+That's a bad habit of mine.");
         MsgDisp("主人公","No. It's not like that.");
         ChEye(6,2);
         ChMouth(6,0);

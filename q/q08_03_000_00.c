@@ -38,7 +38,7 @@ I had a lot more insights than watching
 it alone.");
     MsgDisp("主人公","That's my line.
 ｛本多＊＊｝'s commentary included felt
-very luxurous.");
+very luxurious.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

@@ -113,7 +113,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020720000_07_140");
 MsgDisp("Mikage","It made me realize that if I leave my
-feelings for you at Haba Scool, I can't
+feelings for you at Haba School, I can't
 move forward.");
 ChEye(7,4);
 ChMouth(7,4);

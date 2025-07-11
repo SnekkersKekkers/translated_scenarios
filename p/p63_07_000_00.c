@@ -22,7 +22,7 @@ It's going so-so.");
     ChMotion(7,3);
     VoicePlay("P630700000_07_010");
     MsgDisp("Mikage","I see.
-Herbal tea and cookues are delicious, 
+Herbal tea and cookies are delicious, 
 so people should gather by word of mouth.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -42,7 +42,7 @@ delicious but...)");
     ChOpen(7,254,0,2,0,-1,-1,0,0);
     VoicePlay("P630700000_07_030");
     MsgDisp("Mikage","How is it, how is it?
-It's desserted huh?");
+It's deserted huh?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.
 There were people who
 took a quick peek but....");

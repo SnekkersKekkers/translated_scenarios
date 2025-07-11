@@ -54,7 +54,7 @@ You came?");
 You painstakingly raised those herbs.
 There must be some amazing effects.");
     MsgDisp("主人公","Hehe, it only has 
-relaxing efects though?");
+relaxing effects though?");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);

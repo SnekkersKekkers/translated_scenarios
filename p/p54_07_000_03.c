@@ -19,7 +19,7 @@ VoicePlay("P540700003_07_010");
 MsgDisp("Mikage","I see.
 It seems you weren't satisfied 
 with your performance.");
-MsgDisp("主人公","I didn't preactice enough.");
+MsgDisp("主人公","I didn't practice enough.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

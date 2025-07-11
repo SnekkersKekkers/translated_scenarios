@@ -16,7 +16,7 @@ I think it turned out well but...)");
     ChOpen(5,254,0,0,4,-1,-1,0,0);
     VoicePlay("P730500001_05_000");
     MsgDisp("Hiiragi","You're making an anxious
-expresion, yes?");
+expression, yes?");
     MsgDisp("主人公","｛柊＊＊＊｝...!");
     ChEye(5,4);
     ChMouth(5,4);
@@ -83,7 +83,7 @@ helped me gain some confidence.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("P730500001_05_080");
-    MsgDisp("Hiiragi","If that's all it takes, I'll sauy it as
+    MsgDisp("Hiiragi","If that's all it takes, I'll say it as
 many times as you want.");
     MsgDisp("主人公","Hehe, come on.");
     ChEye(5,0);

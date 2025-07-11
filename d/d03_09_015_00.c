@@ -19,7 +19,7 @@ What about you, Kuya-san?");
 VoicePlay("D030901500_09_020");
 MsgDisp("Kuya","I think so, somehow.
 I recently took a practice exam and got
-pretty good resuls.");
+pretty good results.");
 MsgDisp("主人公","Wow, that's great!");
 VoicePlay("D030901500_09_030");
 MsgDisp("Kuya","Thanks.

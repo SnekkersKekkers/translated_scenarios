@@ -17,7 +17,7 @@ MsgDisp("主人公","Yeah.");
 ChMotion(4,0,1);
 VoicePlay("B360450100_04_010");
 MsgDisp("Nanatsumori","Even more so that it's
-in your neigborhood.");
+in your neighborhood.");
 MsgDisp("主人公","Why? ");
 ChEye(4,4);
 ChMouth(4,3);

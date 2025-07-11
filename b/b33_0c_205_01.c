@@ -119,7 +119,7 @@ ChMotion(7,1);
 VoicePlay("B330C20501_07_040");
 MsgDisp("Mikage","Let's have one last tearful
 game; a bowling match.
-I definitly won't lose?");
+I definitely won't lose?");
 ChEye(5,4);
 ChMouth(5,4);
 ChEye(6,0);

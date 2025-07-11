@@ -150,7 +150,7 @@ ChMotion(5,0);
 VoicePlay("P240500000_05_140");
 MsgDisp("Hiiragi","It's like my relationship with both the
 theatre troupe, and you. I realized that
-thanks to youa nd everyone else.");
+thanks to you and everyone else.");
 MsgDisp("主人公","｛柊＊＊＊｝...");
 SEPlay("EV_SE_FOOT_WALK_COME_TWO",0,0.6);
 SEWait();

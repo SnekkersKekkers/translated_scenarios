@@ -83,7 +83,7 @@ Stressed?");
     VoicePlay("P530400000_04_090");
     MsgDisp("Nanatsumori","Showcasing your craft in front of a 
 huge audience, on a large stage 
-is difficuld. ");
+is difficult. ");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("P530400000_04_100");

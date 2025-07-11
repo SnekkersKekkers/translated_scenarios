@@ -32,7 +32,7 @@ Whether it's in front of your house,
 at school, wherever.
 Do as you like and go ahead?");
 MsgDisp("主人公","Even if you say that...
-I'm sorrry for getting caried away.");
+I'm sorry for getting caried away.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

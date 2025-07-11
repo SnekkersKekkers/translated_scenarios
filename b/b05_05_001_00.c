@@ -19,7 +19,7 @@ ChMotion(5,0);
 VoicePlay("B050500100_05_010");
 MsgDisp("Hiiragi","That's fine.
 Let's find whatever it is you're 
-subconciously searching for.");
+subconsciously searching for.");
 MsgDisp("主人公","Y-Yeah.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();

@@ -87,7 +87,7 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B30700_03_040");
 MsgDisp("Honda","This is a hard one.
-I think it'll be impossibl
+I think it'll be impossible
 e even with a hint.");
 ChEye(4,2);
 ChMouth(4,3);

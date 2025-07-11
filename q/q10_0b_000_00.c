@@ -98,7 +98,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("Q100B00000_03_030");
-MsgDisp("Honda","Udons from the Gotō Islands? 
+MsgDisp("Honda","Udon from the Gotō Islands? 
 That also sounds unmissable!");
 ChEye(4,2);
 ChMouth(4,1);

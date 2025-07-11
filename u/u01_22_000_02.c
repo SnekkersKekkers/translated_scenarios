@@ -20,7 +20,7 @@ MsgSel("Of course, let's go.","I'm busy today……Sorry.");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U012200002_22_020");
-    MsgDisp("Hikaru","Yayay! Ok then, let's rendevous at the
+    MsgDisp("Hikaru","Yayay! Ok then, let's rendezvous at the
 forest park.");
     MsgDisp("主人公","Ok, gotcha.
 See you there soon.");

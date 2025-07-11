@@ -55,7 +55,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P540200004_02_060");
-MsgDisp("Sassa","Somwhat, music is amazing.");
+MsgDisp("Sassa","Somewhat, music is amazing.");
 MsgDisp("主人公","(Thank you, ｛颯砂＊＊｝...
 I'm glad I gave it my all
 these last three years!)");

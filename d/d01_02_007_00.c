@@ -132,7 +132,7 @@ StlMouth(2,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("D010200700_02_070");
-MsgDisp("Sassa","｛主人公｝, you've always beeen at my
+MsgDisp("Sassa","｛主人公｝, you've always been at my
 side, lending me your strength.
 Thank you.");
 StlEye(2,0);

@@ -12,7 +12,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh? 
-There's a lot of people pver there.");
+There's a lot of people over there.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

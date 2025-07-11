@@ -39,7 +39,7 @@ MsgDisp("Hiiragi","My own feelings are a mystery,
 even to myself, but one thing 
 I can say is that I've grown to like
 Haba High even more after today.");
-MsgDisp("主人公","The chool?");
+MsgDisp("主人公","The school?");
 ChMotion(5,4);
 VoicePlay("X210500000_05_060");
 MsgDisp("Hiiragi","Yes. I mean, the fact that you were chosen

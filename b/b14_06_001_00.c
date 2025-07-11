@@ -41,7 +41,7 @@ MsgDisp("Himuro","You can't spend each continuous day
 with a person you don't trust.");
 MsgDisp("主人公","Ah... I see!
 We were together yesterday as well 
-for the school Christmad Party!");
+for the school Christmas Party!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

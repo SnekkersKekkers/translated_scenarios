@@ -45,7 +45,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_040");
 MsgDisp("Honda","Who is the one who can resolve any
-dilema... In this country?");
+dilemma... In this country?");
 SEPlay("EV_SE_GAYA_008",0,0.7);
 Wait(90,0);
 MsgDisp("主人公","(Come on, he's become ｛本多＊＊｝ again!)");

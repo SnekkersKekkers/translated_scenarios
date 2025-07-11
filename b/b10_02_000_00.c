@@ -12,7 +12,7 @@ MsgDisp("主人公","Yes, hello.");
 VoicePlay("B100200000_02_000");
 MsgDisp("Sassa","Ah-, it's me, it's me.
 Is now a good time to call?");
-MsgDisp("主人公","Ah, ueah...");
+MsgDisp("主人公","Ah, yeah...");
 VoicePlay("B100200000_02_010");
 MsgDisp("Sassa","I somewhat got a dodgy 
 feeling about today.");

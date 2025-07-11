@@ -33,7 +33,7 @@ awful if it were a failure.");
     ChMotion(3,1,1);
     VoicePlay("P530300000_03_020");
     MsgDisp("Honda","No such thing as failure.
-Even if it changes a litttle, 
+Even if it changes a little, 
 it's your original arrangement.");
     ChEye(3,0);
     ChMouth(3,3);

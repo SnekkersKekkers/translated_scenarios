@@ -48,7 +48,7 @@ ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F100430002_22_030");
 MsgDisp("Hikaru","Aaah, hey!
-Mari, he's going to attack agaim!
+Mari, he's going to attack again!
 Salut!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");

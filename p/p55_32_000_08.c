@@ -42,7 +42,7 @@ ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("P553200008_32_050");
 MsgDisp("V.P. Himuro","Using today's success as fuel, 
-advance even furtther into the future.
+advance even further into the future.
 That is all.");
 MsgDisp("主人公","Yes!
 Thank you for the last three years!");

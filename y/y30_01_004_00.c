@@ -74,7 +74,7 @@ school gates, we should see her small
 back.");
 MsgDisp("","With her bag in her right hand, 
 Her retreating figure had a
-chracteristic bounce in her step.");
+characteristic bounce in her step.");
 MsgDisp("","As I was about to call out, 
 Honda shook his head.");
 MsgClear();

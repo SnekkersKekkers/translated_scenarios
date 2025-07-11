@@ -30,7 +30,7 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,2,0,0,-1,-1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110601000_06_020");
-MsgDisp("Himuro","Ryouta-senpai is really worrried about
+MsgDisp("Himuro","Ryouta-senpai is really worried about
 you.");
 MsgDisp("主人公","Eh, is that so?");
 ChEye(6,2);

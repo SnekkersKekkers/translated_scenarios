@@ -10,7 +10,7 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("P640500005_05_010");
-MsgDisp("Hiiragi","I thought the vegetables were deilicious.
+MsgDisp("Hiiragi","I thought the vegetables were delicious.
 But, the combination....");
 ChEye(5,2);
 ChMouth(5,4);

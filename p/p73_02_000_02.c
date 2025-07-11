@@ -20,7 +20,7 @@ seriously...");
     ChOpen(2,254,0,0,0,-1,-1,0,0);
     VoicePlay("P730200002_02_010");
     MsgDisp("Sassa","It's nice.
-You're  abride this yearー.");
+You're a bride this yearー");
     MsgDisp("主人公","Yeah. It's the handicraft's club
 tradition, the last cultural festival
 we'll do wedding dresses.");
@@ -100,7 +100,7 @@ But, thank you.");
     VoicePlay("P730200002_02_090");
     MsgDisp("Sassa","Ah, it's starting.");
     MsgDisp("主人公","Thanks to ｛颯砂＊＊｝, I have some
-confdence. Thank you. I'm off then.");
+confidence. Thank you. I'm off then.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

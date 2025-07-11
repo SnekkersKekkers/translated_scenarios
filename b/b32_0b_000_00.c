@@ -25,4 +25,4 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B320B00000_01_010");
-MsgDisp("Kazama","Yeay yeah, that's rightー.");
+MsgDisp("Kazama","Yeah yeah, that's rightー.");

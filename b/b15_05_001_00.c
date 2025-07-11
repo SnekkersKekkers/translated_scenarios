@@ -40,7 +40,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B150500100_05_050");
 MsgDisp("Hiiragi","In other words, you have a little
-bit of a guilty conscence right?");
+bit of a guilty conscience right?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B150500100_05_060");

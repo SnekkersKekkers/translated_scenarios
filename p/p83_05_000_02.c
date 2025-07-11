@@ -78,7 +78,7 @@ cultural festival is in full swing.");
     ChMotion(5,0);
     VoicePlay("P830500002_05_040");
     MsgDisp("Hiiragi","What's wrong, you seem as though
-you're quickly becoming discourged?");
+you're quickly becoming discouraged?");
     MsgDisp("主人公","Yeah...
 I can't let our juniors
 see me like this.");

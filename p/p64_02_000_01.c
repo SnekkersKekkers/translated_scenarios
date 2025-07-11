@@ -35,7 +35,7 @@ have been the guinea pig.
 Could I get some water?");
 MsgDisp("主人公","(I should have participated more 
 diligently in preparations and
-resarched more on herb tea, huh...)");
+researched more on herb tea, huh...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

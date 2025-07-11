@@ -28,7 +28,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P540400004_04_020");
 MsgDisp("Nanatsumori","Your solo performance was on
-the level of a goddess desceneding.
+the level of a goddess descending.
 Everyone was moved to tears.");
 ChEye(4,4);
 ChMouth(4,3);

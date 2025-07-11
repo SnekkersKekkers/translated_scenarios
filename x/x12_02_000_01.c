@@ -20,7 +20,7 @@ beautiful. We're all grateful.
 Thank you!");
     MsgDisp("主人公","(Yay!
 I'm glad I gave it my all in the
-Gardening Club activiies.)");
+Gardening Club activities.)");
     break ;
     case 4:
     case 5:

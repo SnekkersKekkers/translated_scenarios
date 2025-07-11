@@ -21,12 +21,12 @@ VoicePlay("P640400005_04_020");
 MsgDisp("Nanatsumori","It's all just the skin and flesh.
 The gooey insides aren't there.");
 MsgDisp("主人公","That...I'm sorry?
-maybe they weren't properly ripend.");
+maybe they weren't properly ripened.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P640400005_04_030");
-MsgDisp("Nanatsumori","Well, I guess it's full of lycophene.
+MsgDisp("Nanatsumori","Well, I guess it's full of lycopene.
 I'll eat it all to get
 beautiful skinー.");
 MsgDisp("主人公","(It would have been better if I researched

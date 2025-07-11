@@ -133,7 +133,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B050800100_08_160");
 MsgDisp("Shirahane","I said it just now didn't I?
-I stilld on't know what my big dream is.");
+I still don't know what my big dream is.");
 ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,3,1);

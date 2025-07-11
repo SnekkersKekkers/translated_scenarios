@@ -1,7 +1,7 @@
 ScrFadeIn(0);
 VoicePlay("P840700002_48_000");
 MsgDisp("School Girl","Good work～ That's amazing. You ordered
-the perfect ammount of supplies?");
+the perfect amount of supplies?");
 MsgDisp("主人公","Yes, just one piece left.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

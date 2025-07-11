@@ -5,7 +5,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_290");
 MsgDisp("Hikaru","I do, I do.
-Looots of them!");
+Lots of them!");
 MsgDisp("主人公","Amazing!
 What are they?");
 ChEye(22,4);

@@ -20,16 +20,16 @@ Welcome.");
     ChMotion(6,4);
     ChEyeOpenLevel(6,8);
     VoicePlay("P630600001_06_010");
-    MsgDisp("Himuro","What's that vegetab;es?
-Are you selling it?");
-    MsgDisp("主人公","Yeah, the Gardening Club grew it. We
+    MsgDisp("Himuro","What are those vegetables?
+Are you selling them?");
+    MsgDisp("主人公","Yeah, the Gardening Club grew them. We
 also prepared herb tea and herb cookies.▼");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P630600001_06_020");
     MsgDisp("Himuro","Hmm.
-Then, I'll have some");
+Then, I'll have some.");
     MsgDisp("主人公","Thank you very much!");
     MsgClose();
     ScrFadeOut(0,0);

@@ -104,7 +104,7 @@ do your best.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alーright!
 Let's do the last runway of my
-high schol life properly!)");
+high school life properly!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChCheek(4,0);

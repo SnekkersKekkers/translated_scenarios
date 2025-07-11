@@ -66,7 +66,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10400_03_020");
 MsgDisp("Honda","They're not just in the water, 
-they're in the grass tooo!
+they're in the grass too!
 I wonder where they areー......");
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -128,7 +128,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B10400_01_040");
 MsgDisp("Kazama","Heeh.
-It's beena  long time since 
+It's been a long time since 
 I've seen a rice fish.");
 ChEye(4,2);
 ChMouth(4,3);

@@ -26,7 +26,7 @@ NSSEye(6,4);
 NSSMouth(6,3);
 VoicePlay("T040600000_06_030");
 MsgDisp("Himuro","But I met you, 
-and now I get to walk alonsgide you.");
+and now I get to walk alongside you.");
 NSSEye(6,4);
 NSSMouth(6,3);
 VoicePlay("T040600000_06_040");

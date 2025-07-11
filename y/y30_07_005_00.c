@@ -34,7 +34,7 @@ VoicePlay("Y300700500_07_000");
 MsgDisp("Mikage","\"Yeah, my best clothes.
 They're cool, huh?\"");
 MsgDisp("主人公","\"Ah, speaking of...
-I still have your jackt, huh?\"");
+I still have your jacket, huh?\"");
 MsgClear();
 MsgDisp("","On the night of the christmas party, 
 I draped my jacket over those small

@@ -3,7 +3,7 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Haa, I fell...
-My dress also got drity...)");
+My dress also got dirty...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -29,7 +29,7 @@ MsgDisp("Hiiragi","Isn't the rest up to you to decide
 how to make the most out of this failure?");
 MsgDisp("主人公","(That's right.
 I have to do some self-reflection...
-I need to participade in 
+I need to participate in 
 club activities more properly.)");
 MsgClose();
 ScrFadeOut(0,0);

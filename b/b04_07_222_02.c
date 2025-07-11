@@ -74,7 +74,7 @@ hand with that.");
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040722202_07_060");
-        MsgDisp("Mikage","Until the advance payment is caluclated, 
+        MsgDisp("Mikage","Until the advance payment is calculated, 
 it's practically my treat. ");
         MsgDisp("主人公","Hehe.
 ｛御影＊＊｝, thank you very much.");

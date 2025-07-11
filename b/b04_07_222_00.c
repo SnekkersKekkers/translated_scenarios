@@ -39,7 +39,7 @@ for next time.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040722200_07_030");
-    MsgDisp("Mikage","I ubderstand how you feel?
+    MsgDisp("Mikage","I understand how you feel?
 But, it is a class field trip after all.");
     MsgDateResultDisp();
     break ;

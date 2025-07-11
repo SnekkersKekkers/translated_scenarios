@@ -44,7 +44,7 @@ to their own instruments?");
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Both the male and female 
-singer had wonterful voices!");
+singer had wonderful voices!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

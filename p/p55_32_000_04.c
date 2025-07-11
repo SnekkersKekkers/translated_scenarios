@@ -23,7 +23,7 @@ ChMouth(32,0);
 VoicePlay("P553200004_32_020");
 MsgDisp("V.P. Himuro","I, as the conductor could
 Also feel the audience's smiles behind me.
-It was a huge succcess this time to.");
+It was a huge success this time to.");
 MsgDisp("主人公","Yes, game clear!");
 ChEye(32,2);
 ChMouth(32,2);

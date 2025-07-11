@@ -33,7 +33,7 @@ nostalgic feeling.");
 VoicePlay("Y300300100_03_010");
 MsgDisp("Honda","(Huh...is it close to the feeling
 when I was talking to my sister in
-elementary school? But, it's alittle
+elementary school? But, it's little
 bit different...)");
 MsgDisp("","She nodded happily, and asked more
 questions as if she wanted to hear

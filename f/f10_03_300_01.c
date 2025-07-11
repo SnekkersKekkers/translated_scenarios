@@ -77,7 +77,7 @@ VoicePlay("F100330001_03_030");
 MsgDisp("Honda","Really? But after watching me, 
 she said she didn't want to be the 
 same as me, so didn't get them
-piereced in the end?");
+pierced in the end?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

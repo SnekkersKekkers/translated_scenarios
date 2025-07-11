@@ -21,7 +21,7 @@ are done now?");
     ChMouth(4,0);
     VoicePlay("P230400001_04_000");
     MsgDisp("Nanatsumori","It's done.
-Goodd work.");
+Good work.");
     MsgDisp("主人公","When it's a fantasy piece, it really keeps
 the costume department busy, huh?");
     ChEye(4,3);

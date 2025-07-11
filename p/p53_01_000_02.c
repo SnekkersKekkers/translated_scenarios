@@ -48,7 +48,7 @@ Well, I'll be going then!");
     ChEye(1,4);
     ChMouth(1,3);
     MsgDisp("主人公","(Now, this is the culmination of three
-years of hardwork. Let's do our best, so
+years of hard work. Let's do our best, so
 we don't have any regrets!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -87,7 +87,7 @@ I'll be okay no matter what the result is.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P530100002_01_070");
-    MsgDisp("Kazama","Wow, that's so cool. I'm inlove with you
+    MsgDisp("Kazama","Wow, that's so cool. I'm fell in love
 all over again.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);

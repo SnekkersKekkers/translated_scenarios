@@ -57,7 +57,7 @@ it's finally the runway...I'm nervous..)");
     MsgDisp("Honda","Yeah, makeup and fashion can completely
 change your appearance. Girls are truly
 amazing.");
-    MsgDisp("主人公","Am I really that difefrent?");
+    MsgDisp("主人公","Am I really that different?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

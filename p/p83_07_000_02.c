@@ -67,7 +67,7 @@ of patrolling inside the school.");
     ChMotion(7,1);
     VoicePlay("P830700002_07_050");
     MsgDisp("Mikage","Patrolling you say? 
-Are you patolling alone? ");
+Are you patrolling alone? ");
     MsgDisp("主人公","Yes. Because I don't know where there'll
 be trouble.");
     ChEye(7,0);

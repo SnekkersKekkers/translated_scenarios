@@ -143,7 +143,7 @@ MsgDisp("","——That's right. No matter what other
 people say, I am me.");
 MsgDisp("","Until I prove that to myself, 
 even if I go to another school,
-I won't be stisfied there.");
+I won't be satisfied there.");
 MsgDisp("","Proving that to myself at Habataki
 High School, where Reiichi-san is,
 has value.");

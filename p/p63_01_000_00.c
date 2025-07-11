@@ -25,7 +25,7 @@ Welcome!");
     MsgDisp("Kazama","I'm fussy about tea, you know?");
     MsgDisp("主人公","I have confidence in the 
 Gardening Club's herbal tea!
-I think we were able tomake a good blend.");
+I think we were able to make a good blend.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);

@@ -21,7 +21,7 @@ ChMotion(5,4,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140500000_05_030");
 MsgDisp("Hiiragi","Ah, please excuse me.
-I did not think of your circumstnaces.
+I did not think of your circumstances.
 I shall invite you again.");
 BGMStop();
 ChClose(5,0,30);

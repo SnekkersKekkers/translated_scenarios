@@ -20,7 +20,7 @@ VoicePlay("Q070300000_03_010");
 MsgDisp("Honda","I'm interested in that windmill. It's a
 traditional windmill used for milling and
 drainage.");
-MsgDisp("主人公","Intresting! ｛本多＊＊｝ 
+MsgDisp("主人公","Interesting! ｛本多＊＊｝ 
 It's so much fun going around with you,
 it's like going around with a guide.");
 ChEye(3,0);

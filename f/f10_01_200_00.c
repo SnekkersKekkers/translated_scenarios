@@ -54,7 +54,7 @@ SEPlay("EV_SE_856");
 ChClose(1,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(Haha.
-｛風真＊＊｝ sounds so earneset.
+｛風真＊＊｝ sounds so earnest.
 Living alone sounds like tough work...)");
 VoicePlay("F100120000_07_030");
 MsgDisp("Mikage","First of all, wash your clothes as

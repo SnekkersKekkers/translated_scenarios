@@ -56,7 +56,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100530001_05_040");
-MsgDisp("Hiiragi","It is time for the greeeting 
+MsgDisp("Hiiragi","It is time for the greeting 
 enforcement campaign.");
 VoicePlay("F100530001_21_000");
 MsgDisp("Michiru?","Hey.");

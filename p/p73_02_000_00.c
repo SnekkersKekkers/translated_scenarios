@@ -96,7 +96,7 @@ It's not a modelling club after all.");
     ChMotion(2,4);
     VoicePlay("P730200000_02_090");
     MsgDisp("Sassa","But the clothes that you made, 
-fit you the most. It's way betetr than
+fit you the most. It's way better than
 having someone else model them.");
     MsgDisp("主人公","｛颯砂＊＊｝...");
     SEPlay("EV_SE_038");

@@ -61,7 +61,7 @@ by the Gardening Club.");
     ChMotion(6,2);
     VoicePlay("P630600000_06_050");
     MsgDisp("Himuro","Ah, I see.
-...looks like it's fileld with love.");
+...looks like it's filled with love.");
     MsgDisp("主人公","Of course, it's fully loaded▼");
     ChEye(6,0);
     ChMouth(6,0);

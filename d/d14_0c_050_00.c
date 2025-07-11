@@ -29,7 +29,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140C05000_06_010");
 MsgDisp("Himuro","I thought we 
-would be intuding.");
+would be intruding.");
 MsgDisp("主人公","T-That's not true...!");
 ChEye(7,0);
 ChMouth(7,3);

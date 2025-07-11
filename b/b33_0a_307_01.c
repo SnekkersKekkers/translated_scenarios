@@ -40,7 +40,7 @@ ChMotion(6,3);
 VoicePlay("B330A30701_06_000");
 MsgDisp("Himuro","It is.
 It might break because of 
-Nozomu-senpai's hsaking?");
+Nozomu-senpai's shaking?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,5);

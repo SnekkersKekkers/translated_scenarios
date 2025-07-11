@@ -14,7 +14,7 @@ ScrFadeIn(0);
 VoicePlay("B330A30100_06_000");
 MsgDisp("Himuro","Interesting.
 It doesn't seem to be 
-an efficient evolutiion.");
+an efficient evolution.");
 ChMouth(1,2);
 ChEye(2,0);
 ChMouth(2,4);

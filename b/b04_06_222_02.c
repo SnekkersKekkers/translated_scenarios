@@ -55,7 +55,7 @@ Did you come up with new opinions?");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040622202_06_040");
-        MsgDisp("Himuro","No... it's not neccessary.");
+        MsgDisp("Himuro","No... it's not necessary.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,0);

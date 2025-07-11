@@ -25,7 +25,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F112210002_22_030");
 MsgDisp("Hikaru","So, this year, cupid is closed.
-Hikaru wanst to enjoy her last 
+Hikaru wants to enjoy her last 
 school festival!");
 MsgDisp("主人公","Okay!");
 ChEye(22,3);

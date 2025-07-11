@@ -51,7 +51,7 @@ VoicePlay("B050400300_04_050");
 MsgDisp("Nanatsumori","I want a black one.
 Right, something with a lot of lace 
 and a big ribbon all over.");
-MsgDisp("主人公","I-I seee.
+MsgDisp("主人公","I-I see.
 Maybe the dress over there 
 is close to that type?");
 ChEye(4,0);

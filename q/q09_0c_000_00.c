@@ -26,7 +26,7 @@ ChMotion(5,0,1);
 VoicePlay("Q090C00000_05_010");
 MsgDisp("Hiiragi","I just received a message from 
 Inori-kun. He also seems to know the d
-eparture time.");
+departure time.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

@@ -8,7 +8,7 @@ VoicePlay("B070100001_01_300");
 MsgDisp("Kazama","Well yeah. I get me, you and Sassa.
 We're childhood friends after all.
 But if you think about it, 
-Inori is a starnge addition.");
+Inori is a strange addition.");
 MsgDisp("主人公","It's not strange but, 
 I wonder if ｛氷室＊＊｝ likes us?");
 ChEye(1,2);

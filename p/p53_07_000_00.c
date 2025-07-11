@@ -84,7 +84,7 @@ when doing something you like?");
 with your friends and standing on this
 stage is already a success.");
     MsgDisp("主人公","But, If I make a mistake, 
-I'll just be a nuisnace to everyone.");
+I'll just be a nuisance to everyone.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

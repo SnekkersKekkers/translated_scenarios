@@ -33,7 +33,7 @@ ChMotion(5,4,1);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C06001_05_020");
 MsgDisp("Hiiragi","Yes.");
-MsgDisp("主人公","Hehe, that does soun
+MsgDisp("主人公","Hehe, that does sound
 like something he'll say.");
 ChEye(7,0);
 ChMouth(7,3);

@@ -57,7 +57,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600801_06_060");
-MsgDisp("Himuro","Isn't it a godd thing?
+MsgDisp("Himuro","Isn't it a good thing?
 ......And it's a pretty nice expression.");
 MsgDisp("主人公","Eh......");
 ChEye(6,0);

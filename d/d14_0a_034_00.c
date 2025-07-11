@@ -39,7 +39,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A03400_06_010");
 MsgDisp("Himuro","Well, yeah.
-His possesiveness is that strong
+His possessiveness is that strong
 it's almost refreshing.");
 ChEye(1,0);
 ChMouth(1,2);

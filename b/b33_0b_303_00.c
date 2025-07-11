@@ -70,7 +70,7 @@ ChMotion(4,1,1);
 VoicePlay("B330B30300_04_030");
 MsgDisp("Nanatsumori","Then, shall we check out some
 fast fashion brands that are 
-entle on the wallet next?");
+gentle on the wallet next?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

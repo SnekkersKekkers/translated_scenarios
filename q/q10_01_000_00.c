@@ -73,7 +73,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_070");
-MsgDisp("Kazama","Okay, let's have a competion to decide
+MsgDisp("Kazama","Okay, let's have a competition to decide
 whose the better shopper. How's that?");
 MsgDisp("主人公","Hehe, sure.");
 ChEye(1,4);

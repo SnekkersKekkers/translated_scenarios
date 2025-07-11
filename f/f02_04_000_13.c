@@ -44,7 +44,7 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("F020400013_04_050");
 MsgDisp("Nanatsumori","The contrast between the yellow and the
-brown, the soft and smoooth texture, the
+brown, the soft and smooth texture, the
 light sweetness...... ah, I can't wait.");
 MsgDisp("主人公","(Uh huh......
 Is ｛七ツ森＊｝ really interested

@@ -57,7 +57,7 @@ ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_010");
 MsgDisp("V.P. Himuro","As announced, gentlemen, do not 
-hestitate to give me your full attention 
+hesitate to give me your full attention 
 I want you to give it your all.");
 ChEye(6,0);
 ChMouth(6,0);

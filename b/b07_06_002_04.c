@@ -4,7 +4,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_230");
-MsgDisp("Himuro","Rather than taliking....
+MsgDisp("Himuro","Rather than talking....
 I feel like I'm always being careful.");
 MsgDisp("主人公","Careful??");
 ChEye(6,0);

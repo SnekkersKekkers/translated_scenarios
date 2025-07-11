@@ -26,7 +26,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100520002_05_020");
 MsgDisp("Hiiragi","Yes, it was deeply interesting, 
-your Grandather's story included.");
+your Grandfather's story included.");
 MsgDisp("主人公","When you say archives, you mean
 the letters from people long ago...
 Ah, stuff like love letters?");

@@ -10,7 +10,7 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,2);
 VoicePlay("P640D00000_21_000");
-MsgDisp("Michiru","Haa...it's got a conforting taste...");
+MsgDisp("Michiru","Haa...it's got a comforting taste...");
 MsgDisp("主人公","Really?");
 ChEye(22,3);
 ChMouth(22,3);

@@ -41,7 +41,7 @@ BGMStop(5);
 ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040720000_07_030");
-MsgDisp("Mikage","Maybe one day I should invite you gues for
+MsgDisp("Mikage","Maybe one day I should invite you guys for
 a barbecue at Mikage farm?");
 MsgClose();
 ScrFadeOut(0,0,300);

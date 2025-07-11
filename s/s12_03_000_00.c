@@ -69,7 +69,7 @@ home?");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300000_03_040");
-    MsgDisp("Honda","I guesss it's finally the end of 
+    MsgDisp("Honda","I guess it's finally the end of 
 this year's shrine visit.");
     MsgDisp("主人公","Yeah, it was fun.");
     ChEye(3,4);

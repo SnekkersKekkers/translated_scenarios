@@ -49,7 +49,7 @@ you get to drink freshly squeezed milk～");
     MsgClose();
     ChOpen(5,254,0,3,2,-1,-1,0,0);
     VoicePlay("P130500000_05_030");
-    MsgDisp("Hiiragi","A clasroom maze...");
+    MsgDisp("Hiiragi","A classroom maze...");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, welcome.");
     ChEye(5,4);
     ChMouth(5,4);

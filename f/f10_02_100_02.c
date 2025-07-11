@@ -37,7 +37,7 @@ ChMotion(2,4);
 VoicePlay("F100210002_02_020");
 MsgDisp("Sassa","What, you heard that?");
 MsgDisp("主人公","If they're just gonna be substitutes for 
-dumbells, shouldn't anything be fine?");
+dumbbells, shouldn't anything be fine?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

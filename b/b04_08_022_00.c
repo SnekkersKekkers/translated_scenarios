@@ -8,7 +8,7 @@ ChMotion(8,1,1);
 VoicePlay("B040802200_08_000");
 MsgDisp("Shirahane","The wind feels nice!
 The sea is so vast!");
-MsgSel("The oceean really is grand...","I want to go around the world like this","Look the seabirds are so cute▼");
+MsgSel("The ocean really is grand...","I want to go around the world like this","Look the seabirds are so cute▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

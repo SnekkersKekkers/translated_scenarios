@@ -13,7 +13,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20100_06_000");
 MsgDisp("Himuro","Out of all the attractions at the
-aquarium, This place is sespecially
+aquarium, This place is especially
 interesting.");
 VoicePlay("B330C20100_05_000");
 MsgDisp("Hiiragi","I feel the same.
@@ -64,7 +64,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20100_05_020");
-MsgDisp("Hiiragi","As for you, you are a bioluminscent
+MsgDisp("Hiiragi","As for you, you are a bioluminescent
 creature. Lovely to the point it
 catches the eye.");
 ChEye(7,0);
