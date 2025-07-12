@@ -46,7 +46,7 @@ so it can be driven on public roads.");
 In terms of what's vintage,
 100 years isn't even that old.");
     MsgDispSksp(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

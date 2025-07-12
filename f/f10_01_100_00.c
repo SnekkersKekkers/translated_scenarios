@@ -20,7 +20,7 @@ MsgClose();
 SEStop("EV_SE_SCHOOL_002",3);
 SEStop("EV_SE_788",3);
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,254,0,0,3,10,-1,0,0);
+ChOpen(1,254,0,0,3,10,#1,0,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("F100110000_01_000");
@@ -31,7 +31,7 @@ MsgDisp("主人公","Ah!
 ChMotion(1,3);
 Wait(10,0);
 ChMouth(1,3);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F100110000_01_010");
 MsgDisp("Kazama","More like I was gawking at you.
 Three times.");

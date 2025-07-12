@@ -2,7 +2,7 @@ BGOpen("tr430",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,4,4,4,-1,-1,0,0,0,0);
+ChOpen(5,255,4,4,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523200_05_000");
 MsgDisp("Hiiragi","It had already ended when I realized...");

@@ -10,7 +10,7 @@ Wait(60);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
-ChOpen(2,254,7,0,0,-1,-1,0,0);
+ChOpen(2,254,7,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛颯砂＊＊｝...
 What are you doing here?");
 ChEye(2,0);
@@ -134,7 +134,7 @@ ChClose(2);
 ChCustomLayout(2,5,0,-2.8);
 Wait(60);
 SEPlay("EV_SE_544");
-ChOpen(2,254,7,4,0,-1,-1,0,0,0,120);
+ChOpen(2,254,7,4,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(2);
 VoicePlay("T020201000_02_180");
 MsgDisp("Sassa","｛主人公｝, I want to run with you. I want

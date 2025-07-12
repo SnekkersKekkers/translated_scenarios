@@ -8,7 +8,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("F100310002_03_000");
 MsgDisp("Honda","｛主人公｝.");

@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,0,0,-1,-1,0,0);
+    ChOpen(4,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400002_04_000");
     MsgDisp("Nanatsumori","A draw in tug of war?
@@ -19,7 +19,7 @@ And we were so close......)");
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,0,3,-1,-1,0,0);
+    ChOpen(4,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400002_04_010");
     MsgDisp("Nanatsumori","A draw is actually pretty amazing.
@@ -31,7 +31,7 @@ And we were so close......)");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,2,4,-1,-1,0,0);
+    ChOpen(4,30,0,2,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400002_04_020");
     MsgDisp("Nanatsumori","Close.

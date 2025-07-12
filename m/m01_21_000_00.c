@@ -7,7 +7,7 @@ SEWait();
 MsgClose();
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);
-ChOpen(21,255,7,0,4,-1,-1,0,0);
+ChOpen(21,255,7,0,4,#1,#1,0,0);
 MsgDisp("主人公","｛みちる＊｝！");
 ChEye(21,2);
 ChMouth(21,2);

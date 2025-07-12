@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Another hard day of work.)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(8,254,0,0,3,-1,-1,0,0);
+ChOpen(8,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(8);
 VoicePlay("D010800300_08_000");
 MsgDisp("Shirahane","｛主人公｝, I've been waiting for ya!");
@@ -56,7 +56,7 @@ StlClose();
 BGMVol(0.5,2);
 BGOpen("sc130",1);
 MsgClose();
-ChOpen(8,254,0,0,3,-1,-1,0,0);
+ChOpen(8,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛大地＊＊｝ and ｛本多＊＊｝ know each
 other?");

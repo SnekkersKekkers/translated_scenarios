@@ -2,11 +2,11 @@ BGOpen("sc530",0);
 ChLayout(2);
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(1,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,2,0,30);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,2,0,-1,-1,0,0,0,30);
+ChOpen(4,254,0,2,0,#1,#1,0,0,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah...
 I wonder what everyone is 
@@ -69,7 +69,7 @@ ChClose(3,0,30);
 ChClose(1,0,30);
 ChLayout(1);
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(1,254,0,4,3,0,0,0,2,0,30);
 ChEye(3,0);
 ChMouth(3,4);

@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,253,0,0,0,-1,-1,0,0);
+    ChOpen(6,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010600002_06_000");
     MsgDisp("Himuro","Acting ahead of time is the natural thing
 to do.");
@@ -26,7 +26,7 @@ to do.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,253,0,0,0,-1,-1,0,0);
+    ChOpen(6,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010600002_06_020");
     MsgDisp("Himuro","I just got here a little early.");
     MsgDisp("主人公","About how early is a little?");
@@ -49,7 +49,7 @@ That's all.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,253,4,0,2,-1,-1,0,0);
+    ChOpen(6,253,4,0,2,#1,#1,0,0);
     VoicePlay("B010600002_06_050");
     MsgDisp("Himuro","Isn't this fine?
 I can't feel at ease, even at home.");

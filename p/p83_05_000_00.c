@@ -17,7 +17,7 @@ for directions around the school.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P830500000_05_000");
     MsgDisp("Hiiragi","Good work.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
@@ -46,7 +46,7 @@ After that...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P830500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝.");

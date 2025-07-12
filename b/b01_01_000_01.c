@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","Oh, ｛風真＊＊｝!");
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     MsgClose();
-    ChOpen(1,253,1,0,1,8,-1,0,0,0,30);
+    ChOpen(1,253,1,0,1,8,#1,0,0,0,30);
     VoicePlay("B010100001_01_000");
     MsgDisp("Kazama","Ah, I found you...");
     MsgDisp("主人公","Huh?");
@@ -19,7 +19,7 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,0);
     Wait(12,0);
     ChMouth(1,3);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     VoicePlay("B010100001_01_010");
     MsgDisp("Kazama","I was just about to pretend I showed up
 first...");
@@ -33,7 +33,7 @@ first...");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     MsgClose();
-    ChOpen(1,253,3,2,1,-1,-1,0,0,0,30);
+    ChOpen(1,253,3,2,1,#1,#1,0,0,0,30);
     VoicePlay("B010100001_01_020");
     MsgDisp("Kazama","Sorry, I'm late!");
     MsgDisp("主人公","It's okay, I only just got here too.");
@@ -53,7 +53,7 @@ want to keep you waiting.");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     MsgClose();
-    ChOpen(1,253,3,2,1,-1,-1,0,0,0,30);
+    ChOpen(1,253,3,2,1,#1,#1,0,0,0,30);
     VoicePlay("B010100001_01_040");
     MsgDisp("Kazama","My bad!
 Are you alright?");

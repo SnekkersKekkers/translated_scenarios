@@ -7,7 +7,7 @@ MsgDisp("主人公","(Yes, I think I was able to perform
 better than last year!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(1,254,3,3,3,-1,-1,0,0);
+ChOpen(1,254,3,3,3,#1,#1,0,0);
 VoicePlay("P540100002_01_000");
 MsgDisp("Kazama","Wasn't it a huge success?
 Congratulations.");

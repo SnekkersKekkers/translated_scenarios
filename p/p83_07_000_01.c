@@ -16,7 +16,7 @@ you need, your class, and your name.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P830700001_07_000");
     MsgDisp("Mikage","｛主人公｝.
@@ -59,7 +59,7 @@ you need, your class, and your name.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P830700001_07_030");
     MsgDisp("Mikage","｛主人公｝,
@@ -105,5 +105,5 @@ Please wait a moment.");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

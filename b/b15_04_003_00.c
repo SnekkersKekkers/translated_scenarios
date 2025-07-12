@@ -1,8 +1,8 @@
 MsgClose();
 BGOpen("ho000",2);
 ChLayout(1);
-ChNanaType(-1);
-ChOpen(4,253,0,0,1,0,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,253,0,0,1,0,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B150400300_04_000");
@@ -42,7 +42,7 @@ so completely on our date?
 Should I also respond by 
 doing the same?");
 MsgDisp("主人公","That...");
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("B150400300_04_070");
 MsgDisp("Nanatsumori","…………");
 ChEye(4,2);

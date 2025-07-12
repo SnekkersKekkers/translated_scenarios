@@ -93,7 +93,7 @@ you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","(Ah......He's back to normal.)");
 ChEye(5,0);
 ChMouth(5,2);

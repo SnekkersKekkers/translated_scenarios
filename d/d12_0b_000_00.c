@@ -2,11 +2,11 @@ BGOpen("sc310",0);
 ChLayout(2);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,30);
 Wait(15,0);
-ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
 Wait(15,0);
-ChOpen(3,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 SEPlay("EV_SE_618");
 SEWait();
@@ -106,7 +106,7 @@ VoicePlay("D120B00000_04_050");
 MsgDisp("Nanatsumori","......Alright, it's done.");
 MsgDisp("主人公","Uwaah......
 You two look completely different!");
-StlEyeOpenLevel(3,-1);
+StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00000_03_030");
 MsgDisp("Honda","Amazing!
 Is this the special edition:
@@ -155,11 +155,11 @@ BGMVol(0.5,2);
 BGOpen("sc310",0);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,30);
 Wait(15,0);
-ChOpen(1,254,0,2,2,-1,-1,0,1,0,30);
+ChOpen(1,254,0,2,2,#1,#1,0,1,0,30);
 Wait(15,0);
-ChOpen(3,254,0,0,0,-1,-1,0,2);
+ChOpen(3,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew......
 That suddenly turned into a photoshoot?");

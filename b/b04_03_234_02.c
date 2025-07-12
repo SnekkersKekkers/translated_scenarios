@@ -1,7 +1,7 @@
 BGOpen("tr450",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 MsgClose();
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323402_03_000");

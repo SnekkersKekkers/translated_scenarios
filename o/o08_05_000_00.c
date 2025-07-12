@@ -7,7 +7,7 @@ switch (ChPrmGet(5,6)){
     case 2:
     MsgDisp("主人公","(Next is...... Ah, it's ｛柊＊＊＊｝.)");
     MsgClose();
-    ChOpen(5,30,0,0,4,-1,-1,0,0);
+    ChOpen(5,30,0,0,4,#1,#1,0,0);
     VoicePlay("O080500000_05_000");
     MsgDisp("Hiiragi","Yes, I'm with you.
 Shall we?");
@@ -16,7 +16,7 @@ Shall we?");
     case 3:
     MsgDisp("主人公","(Next is...... Ah, it's ｛柊＊＊＊｝.)");
     MsgClose();
-    ChOpen(5,30,0,0,4,-1,-1,0,0);
+    ChOpen(5,30,0,0,4,#1,#1,0,0);
     VoicePlay("O080500000_05_010");
     MsgDisp("Hiiragi","To be given the opportunity
 to dance with you,
@@ -30,7 +30,7 @@ the sports festival is truly great.");
     case 5:
     MsgDisp("主人公","(Next is...... Ah, it's ｛柊＊＊＊｝.)");
     MsgClose();
-    ChOpen(5,30,0,4,4,-1,-1,0,0);
+    ChOpen(5,30,0,4,4,#1,#1,0,0);
     VoicePlay("O080500000_05_030");
     MsgDisp("Hiiragi","I've been waiting for you, princess.
 Now, your hand?");

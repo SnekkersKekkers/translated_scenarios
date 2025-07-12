@@ -15,7 +15,7 @@ switch (ChPrmGet(5,6)){
 Haa, I'm so anxious......)");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(5,38,0,0,4,-1,-1,0,0);
+    ChOpen(5,38,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P230500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");

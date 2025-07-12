@@ -10,7 +10,7 @@ Wait(60);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
-ChOpen(3,254,0,4,0,-1,-1,0,0);
+ChOpen(3,254,0,4,0,#1,#1,0,0);
 MsgDisp("主人公","｛本多＊＊｝......
 Why are you here?");
 ChEye(3,4);
@@ -117,7 +117,7 @@ ChClose(3);
 ChCustomLayout(3,5,0,-2.5);
 Wait(60);
 SEPlay("EV_SE_544");
-ChOpen(3,254,1,4,4,-1,-1,0,0,0,120);
+ChOpen(3,254,1,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020320000_03_150");
 MsgDisp("Honda","Please. My beloved,
 I want you to be by my side.

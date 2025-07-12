@@ -43,7 +43,7 @@ VoicePlay("B330C20300_05_010");
 MsgDisp("Hiiragi","Yes.
 You can get peace of mind by hearing it 
 from the person themselves directly.");
-ChEyeOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
 MsgDisp("主人公","Eh... you're fine with my opinion?");
 ChEye(6,0);
 ChMouth(6,3);
@@ -133,7 +133,7 @@ What's wrong?");
 VoicePlay("B330C20300_06_060");
 MsgDisp("Himuro","Leave Kojiro-sensei as he is.");
 ChClose(7,0,30);
-ChOpen(7,255,1,0,4,-1,-1,0,0,0,30);
+ChOpen(7,255,1,0,4,#1,#1,0,0,0,30);
 VoicePlay("B330C20300_07_040");
 MsgDisp("Mikage","What's up with that?");
 VoicePlay("B330C20300_05_040");
@@ -195,6 +195,6 @@ girls or by myself after all?)");
 BGMStop();
 MsgClose();
 ChLayout(2);
-ChOpen(6,253,7,0,0,-1,-1,0,3,0,0);
-ChOpen(5,253,7,0,0,-1,-1,0,3,0,0);
-ChOpen(7,253,7,0,0,-1,-1,0,3,0,0);
+ChOpen(6,253,7,0,0,#1,#1,0,3,0,0);
+ChOpen(5,253,7,0,0,#1,#1,0,3,0,0);
+ChOpen(7,253,7,0,0,#1,#1,0,3,0,0);

@@ -7,7 +7,7 @@ W-What should I do?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(1,254,0,0,0,10,-1,0,0);
+ChOpen(1,254,0,0,0,10,#1,0,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
 Wait(10,0);

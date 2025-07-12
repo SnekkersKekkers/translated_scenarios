@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510400_05_000");
 MsgDisp("Hiiragi","How does it appear to you?");
 MsgDisp("主人公","Huh? It's a beautiful and lovely scenery.");
@@ -13,7 +13,7 @@ I'm feeling impatient......");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020510400_05_020");
 MsgDisp("Hiiragi","I am aware of the reason.
 It is you.");
@@ -26,7 +26,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020510400_05_040");
 MsgDisp("Hiiragi","That sort of impatience wells up from
 within me.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","Umm......");
 ChEye(5,3);
 ChMouth(5,4);
@@ -52,6 +52,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

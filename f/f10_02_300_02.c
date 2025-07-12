@@ -5,9 +5,9 @@ MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝ and...
 ｛颯砂＊＊｝?)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(2,254,0,0,4,-1,-1,0,0,0,30);
-ChOpen(22,254,0,0,3,-1,-1,0,1,0,30);
-ChOpen(21,254,0,0,4,-1,-1,0,2,0,30);
+ChOpen(2,254,0,0,4,#1,#1,0,0,0,30);
+ChOpen(22,254,0,0,3,#1,#1,0,1,0,30);
+ChOpen(21,254,0,0,4,#1,#1,0,2,0,30);
 MsgDisp("主人公","Ah, you three are together, so I'm
 guessing you're talking about gap moe?");
 ChMotion(22,4,1);

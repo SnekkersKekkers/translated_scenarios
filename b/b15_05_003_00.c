@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,2,2,2,0,-1,0,0);
+ChOpen(5,255,2,2,2,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150500300_05_000");
 MsgDisp("Hiiragi","Phewー... you're a more nimble,

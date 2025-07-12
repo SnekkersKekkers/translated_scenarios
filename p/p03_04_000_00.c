@@ -15,7 +15,7 @@ customers would come......)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,4,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,4,0,#1,#1,0,0,0,60);
     VoicePlay("P030400000_04_000");
     MsgDisp("Nanatsumori","......A yukata.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!
@@ -50,7 +50,7 @@ customers would come......)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,4,4,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,4,4,#1,#1,0,0,0,60);
     VoicePlay("P030400000_04_040");
     MsgDisp("Nanatsumori","Ah......");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.

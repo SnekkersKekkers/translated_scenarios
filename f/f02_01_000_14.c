@@ -21,7 +21,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("F020100014_01_010");
 MsgDisp("Kazama","You've wounded me from the beginning.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 Wait(4,0);
 ChEye(1,2);
 ChMouth(1,3);

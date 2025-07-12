@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,30,4,0,4,-1,-1,0,0);
+    ChOpen(5,30,4,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("O030500001_05_000");
@@ -17,7 +17,7 @@ to first place......)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,30,0,3,3,-1,-1,0,0);
+    ChOpen(5,30,0,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030500001_05_010");
     MsgDisp("Hiiragi","I thank you.
@@ -28,7 +28,7 @@ to first place......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,30,4,2,4,0,-1,0,0);
+    ChOpen(5,30,4,2,4,0,#1,0,0);
     ScrFadeIn(0);
     ChEyeOpenLevel(5,9);
     VoicePlay("O030500001_05_020");

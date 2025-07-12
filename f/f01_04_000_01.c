@@ -6,7 +6,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,4,2,1,-1,-1,0,0);
+    ChOpen(4,254,4,2,1,#1,#1,0,0);
     VoicePlay("F010400001_04_000");
     MsgDisp("Nanatsumori","Shh!
 That name, it's totally NG.
@@ -24,7 +24,7 @@ him that.)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,4,4,1,-1,-1,0,0);
+    ChOpen(4,254,4,4,1,#1,#1,0,0);
     VoicePlay("F010400001_04_010");
     MsgDisp("Nanatsumori","That... shush!
 Quit calling me that!");

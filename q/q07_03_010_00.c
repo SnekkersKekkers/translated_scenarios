@@ -1,7 +1,7 @@
 BGOpen("sc822",0);
 BGMPlay("BGM_PLACE_TRAVEL");
 MsgClose();
-ChOpen(3,254,0,0,4,-1,-1,0,0);
+ChOpen(3,254,0,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("Q070301000_46_000");
@@ -102,7 +102,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGMVol(0.5,2);
-ChOpen(3,254,4,4,0,-1,-1,0,0);
+ChOpen(3,254,4,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070301000_03_070");
 MsgDisp("Honda","I guess I feel a bit guilty?

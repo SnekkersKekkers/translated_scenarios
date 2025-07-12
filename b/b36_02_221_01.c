@@ -14,7 +14,7 @@ in time for the sunset.");
 MsgDisp("主人公","Haa... yeah.");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(2,255,4,0,0,-1,-1,0,0);
+ChOpen(2,255,4,0,0,#1,#1,0,0);
 VoicePlay("B360222101_02_010");
 MsgDisp("Sassa","Ah, I ended up making you run. 
 Are you alright?");
@@ -39,7 +39,7 @@ ChClose(2,0,30);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChLayout(0);
 MsgClose();
-ChOpen(2,255,4,0,4,-1,-1,10,0);
+ChOpen(2,255,4,0,4,#1,#1,10,0);
 VoicePlay("B360222101_02_040");
 MsgDisp("Sassa","Hey, your cheeks are red...");
 MsgDisp("主人公","(It seems like ｛颯砂＊＊｝'s face

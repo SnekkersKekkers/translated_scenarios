@@ -8,7 +8,7 @@ MsgDisp("主人公","(Yeah, I might have been able to
 play better than last year!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P540300002_03_000");
 MsgDisp("Honda","｛主人公｝.");

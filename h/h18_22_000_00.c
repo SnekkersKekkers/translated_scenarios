@@ -8,7 +8,7 @@ switch (ChPrmGet(22,6)){
     case 3:
     ChLayout(1);
     MsgClose();
-    ChOpen(22,254,0,0,3,-1,-1,0,0);
+    ChOpen(22,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(22,3,1);
     VoicePlay("H182200000_22_000");
@@ -40,7 +40,7 @@ Alright, let's do our best!)");
     case 5:
     ChLayout(1);
     MsgClose();
-    ChOpen(22,254,0,0,3,-1,-1,0,0);
+    ChOpen(22,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(22,3);
     ChMouth(22,3);

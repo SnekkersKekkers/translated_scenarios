@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,0,4,4,-1,-1,0,0);
+ChOpen(3,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020320301_03_000");
 MsgDisp("Honda","Hey, I have... 
 a bit of a question for you.");
@@ -64,8 +64,8 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);
 
 

@@ -20,7 +20,7 @@ breath huh...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,0,0,0,-1,-1,0,0);
+    ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P830300001_03_000");
     MsgDisp("Honda","｛主人公｝.
@@ -47,7 +47,7 @@ return it...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,4,0,4,-1,-1,0,0);
+    ChOpen(3,254,4,0,4,#1,#1,0,0);
     VoicePlay("P830300001_03_020");
     MsgDisp("Honda","What's wrong, you look troubled?");
     MsgDisp("主人公","Ah, ｛本多＊＊｝...

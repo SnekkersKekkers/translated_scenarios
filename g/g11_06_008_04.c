@@ -4,7 +4,7 @@ MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 Are you already done for the day?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,35,0,0,0,-1,-1,0,0);
+ChOpen(6,35,0,0,0,#1,#1,0,0);
 VoicePlay("G110600804_06_000");
 MsgDisp("Himuro","That's right, but,");
 MsgDisp("主人公","Then, will you surf today?");
@@ -25,7 +25,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I");
-ChOpen(6,100,0,0,0,-1,-1,0,0);
+ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600804_06_020");
 MsgDisp("Himuro","How long are you going to continue the

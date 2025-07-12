@@ -7,7 +7,7 @@ VoicePlay("F100640001_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Are you heading home already?");
 ChEye(1,0);
@@ -34,7 +34,7 @@ ChMotion(1,0);
 ChPosition(1,1);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(6,254,0,0,0,-1,-1,0,2);
+ChOpen(6,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100640001_06_010");
 MsgDisp("Himuro","You're going to submit the log, right?
 I heard Kojiro-sensei is going

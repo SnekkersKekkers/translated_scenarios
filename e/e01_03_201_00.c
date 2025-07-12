@@ -6,7 +6,7 @@ I think it's time to go home.)");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010320100_03_000");
 MsgDisp("Honda","｛主人公｝, you went to the flea market
@@ -24,7 +24,7 @@ ChPosition(3,1);
 MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
-ChOpen(4,255,0,2,2,-1,-1,0,2);
+ChOpen(4,255,0,2,2,#1,#1,0,2);
 ChMotion(4,1,1);
 VoicePlay("E010320100_04_000");
 MsgDisp("Nanatsumori","......Hold up.

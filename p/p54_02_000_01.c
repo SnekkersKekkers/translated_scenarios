@@ -6,7 +6,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Haa... a huge fail...)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(2,254,4,0,4,-1,-1,0,0);
+ChOpen(2,254,4,0,4,#1,#1,0,0);
 VoicePlay("P540200001_02_000");
 MsgDisp("Sassa","Hmm, that was unfortunate.");
 MsgDisp("主人公","Uugh, maybe I didn't practice enough.");

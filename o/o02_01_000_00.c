@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020100000_01_000");
     MsgDisp("Kazama","You did it.
@@ -15,7 +15,7 @@ You looked really into it.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,0,0,-1,-1,0,0);
+    ChOpen(1,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
 I won!");
@@ -42,7 +42,7 @@ at all......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
 I won!");
@@ -59,7 +59,7 @@ powerful, too.");
     ChClose(1,0,30);
     ChLayout(0);
     MsgClose();
-    ChOpen(1,30,0,2,2,-1,-1,0,0,0,30);
+    ChOpen(1,30,0,2,2,#1,#1,0,0,0,30);
     SEWait();
     VoicePlay("O020100000_01_040");
     MsgDisp("Kazama","Huh?

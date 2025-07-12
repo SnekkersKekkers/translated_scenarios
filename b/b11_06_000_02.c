@@ -12,7 +12,7 @@ Look at me for a bit!");
 MsgDisp("主人公","...Eh, me?");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(35,254,0,0,0,-1,-1,0,0);
+ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110600002_35_010");
 MsgDisp("Guy","Yes, she's here, boom!
 A golden egg after so long♪
@@ -36,7 +36,7 @@ nail acting too!～");
 ChPosition(35,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
-ChOpen(6,253,2,2,1,0,-1,0,1,0,30);
+ChOpen(6,253,2,2,1,0,#1,0,1,0,30);
 BGMPlay("BGM_C06_INORI_A",0.01);
 VoicePlay("B110600002_06_000");
 MsgDisp("Himuro","She looks clearly troubled to me.");

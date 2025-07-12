@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040100000_01_000");
     MsgDisp("Kazama","Wasn't it easy?
@@ -16,7 +16,7 @@ Complete victory!)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(1,3);
     ChMotion(1,3);
@@ -28,7 +28,7 @@ As expected of childhood friends, right?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(1,3);
     VoicePlay("O040100000_01_020");

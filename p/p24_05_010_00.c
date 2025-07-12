@@ -74,7 +74,7 @@ VoicePlay("P240501000_40_050");
 MsgDisp("Castle Lord","However, 
 My governance is the flames of my ideals.
 I cannot let it be extinguished.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("P240501000_05_050");
 MsgDisp("Hiiragi","That line just now...
 It sounds completely different 

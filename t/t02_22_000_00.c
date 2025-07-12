@@ -9,7 +9,7 @@ SEPlay("EV_SE_872",0.5,0.5);
 Wait(15,0);
 SEStop("EV_SE_872",0.3);
 BGMPlay("BGM_C22_HIKARU_I",0.01);
-ChOpen(22,254,0,0,3,-1,-1,5,0);
+ChOpen(22,254,0,0,3,#1,#1,5,0);
 MsgDisp("主人公","Ah ｛ひかる＊｝!");
 ChMotion(22,4,1);
 VoicePlay("T022200000_22_010");

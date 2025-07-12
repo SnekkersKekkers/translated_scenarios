@@ -2,7 +2,7 @@ BGOpen("ar200",0);
 ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,35,0,0,0,-1,-1,0,0);
+ChOpen(6,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("G110600803_06_000");
 MsgDisp("Himuro","｛主人公｝.
@@ -26,7 +26,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I");
-ChOpen(6,100,0,0,0,-1,-1,0,0);
+ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600803_06_020");
 MsgDisp("Himuro","......Hey have you ever wanted flowers?");

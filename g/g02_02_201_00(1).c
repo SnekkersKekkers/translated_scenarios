@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,2,0,2,-1,-1,0,0);
+ChOpen(2,255,2,0,2,#1,#1,0,0);
 VoicePlay("G020220100_02_000");
 MsgDisp("Sassa","There's so many fireflies huh......");
 MsgDisp("主人公","Yeah, it's beautiful huh.");
@@ -43,6 +43,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

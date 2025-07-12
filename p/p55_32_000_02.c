@@ -5,7 +5,7 @@ MsgDisp("主人公","Yay!
 Our final concert was a huge success∈");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("P553200002_32_000");
 MsgDisp("VP Himuro","How was the final concert?");
 MsgDisp("主人公","Ah, Vice Principal Himuro!

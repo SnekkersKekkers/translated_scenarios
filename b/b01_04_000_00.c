@@ -9,8 +9,8 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,0,0,2,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,0,2,#1,#1,0,0,0,60);
     MsgDisp("主人公","Sorry for making you wait!");
     ChMouth(4,2);
     ChMotion(4,2);
@@ -27,8 +27,8 @@ switch (ChPrmGet(4,6)){
     break ;
     case 3:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,0,0,2,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,0,2,#1,#1,0,0,0,60);
     MsgDisp("主人公","Sorry for making you wait!");
     ChEye(4,0);
     ChMouth(4,0);
@@ -48,8 +48,8 @@ what a funny face～");
     case 4:
     case 5:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,0,4,5,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,4,5,#1,#1,0,0,0,60);
     MsgDisp("主人公","I'm sorry for keeping you waiting!");
     ChEye(4,2);
     ChMouth(4,0);

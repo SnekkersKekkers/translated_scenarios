@@ -38,7 +38,7 @@ so I remember you many years from now.");
     ChLayout(0);
     SEPlay("EV_SE_544");
     MsgClose();
-    ChOpen(3,255,4,0,4,-1,-1,0,0);
+    ChOpen(3,255,4,0,4,#1,#1,0,0);
     SEWait();
     VoicePlay("S120300005_03_030");
     MsgDisp("Honda","…………");
@@ -47,7 +47,7 @@ so I remember you many years from now.");
     ChClose(3);
     ChLayout(1);
     MsgClose();
-    ChOpen(3,255,3,4,0,-1,-1,0,0);
+    ChOpen(3,255,3,4,0,#1,#1,0,0);
     SEWait();
     VoicePlay("S120300005_03_040");
     MsgDisp("Honda","Ah, I'm sorry.

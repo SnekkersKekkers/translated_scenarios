@@ -126,7 +126,7 @@ ChClose(6,0,30);
 ChClose(7,0,30);
 ChLayout(1);
 MsgClose();
-ChOpen(7,255,0,0,0,-1,-1,0,0,0,30);
+ChOpen(7,255,0,0,0,#1,#1,0,0,0,30);
 MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ seems like 
 he's really enjoying himself.");
 ChEye(7,0);
@@ -153,6 +153,6 @@ MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);
 ChLayout(2);
-ChOpen(5,255,7,0,0,-1,-1,0,3,0,0);
-ChOpen(6,255,7,0,0,-1,-1,0,3,0,0);
-ChOpen(7,255,7,0,0,-1,-1,0,3,0,0);
+ChOpen(5,255,7,0,0,#1,#1,0,3,0,0);
+ChOpen(6,255,7,0,0,#1,#1,0,3,0,0);
+ChOpen(7,255,7,0,0,#1,#1,0,3,0,0);

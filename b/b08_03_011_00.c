@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(3,255,4,4,0,8,-1,0,2);
+ChOpen(3,255,4,4,0,8,#1,0,2);
 VoicePlay("B080301100_03_000");
 MsgDisp("Honda","I see. I've never been good at reading 
 the mood.");

@@ -2,7 +2,7 @@ MsgClose();
 EnvAutoSet(0);
 BGOpen("sc320",0);
 EnvPlay("SE_ENV_BG_SC350_CS0",0.2);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110700400_07_000");
 MsgDisp("Mikage","Well, that's all for today. It's fine
@@ -27,7 +27,7 @@ MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A");
 BGOpen("ev007",0);
 EnvPlay("SE_ENV_BG_EV007_CO0");
-ChOpen(7,100,0,0,0,-1,-1,0,0);
+ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_020");

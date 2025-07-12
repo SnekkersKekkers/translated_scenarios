@@ -4,7 +4,7 @@ ChLayout(1);
 ChNanaType(0);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,30,0,0,0,-1,-1,0,0);
+ChOpen(4,30,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(4,6)){
     case 0:
@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,0,3,-1,-1,0,0);
+    ChOpen(4,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(4,1,1);
     VoicePlay("O030400000_04_000");
@@ -24,7 +24,7 @@ I'm glad I did my best!)");
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,4,4,-1,-1,0,0);
+    ChOpen(4,30,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030400000_04_010");
     MsgDisp("Nanatsumori","Ooh, winning first at
@@ -49,7 +49,7 @@ I got first place with ｛七ツ森＊｝!)");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,0,0,-1,-1,0,0);
+    ChOpen(4,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030400000_04_040");
     MsgDisp("Nanatsumori","Seriously, first place at

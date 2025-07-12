@@ -4,9 +4,9 @@ ScrFadeIn(0);
 MsgDisp("主人公","(What should I eat today......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(1,254,0,0,0,-1,-1,0,0,0,30);
-ChOpen(2,254,0,0,4,-1,-1,0,1,0,30);
-ChOpen(6,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
+ChOpen(2,254,0,0,4,#1,#1,0,1,0,30);
+ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("D120A00000_01_000");
 MsgDisp("Kazama","｛主人公｝, let's eat together.");
@@ -69,7 +69,7 @@ MsgDisp("Kazama","Please stop.
 Don't call me \"Young Master\".");
 MsgDisp("主人公","Hehe. A lot of people call
 ｛風真＊＊｝ a young master, huh?");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 StlEye(6,0);
 StlMouth(6,1);
 VoicePlay("D120A00000_06_010");

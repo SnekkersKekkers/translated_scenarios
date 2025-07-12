@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
 Welcome!");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,3,-1,-1,0,0);
+    ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("I450100000_01_010");
     MsgDisp("Kazama","You look like a bee, flying around
 all those flowers, you know?");
@@ -43,7 +43,7 @@ just come to check on me?)");
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,3,8,-1,0,0);
+    ChOpen(1,255,0,0,3,8,#1,0,0);
     VoicePlay("I450100000_01_040");
     MsgDisp("Kazama","There you are, worker bee.");
     MsgDisp("主人公","｛風真＊＊｝.
@@ -66,7 +66,7 @@ Hardworking and friendly.");
     ChLayout(0);
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,255,1,4,3,-1,-1,0,0,0,30);
+    ChOpen(1,255,1,4,3,#1,#1,0,0,0,30);
     SEPlay("EV_SE_659",0,0.5);
     SEWait();
     VoicePlay("I450100000_01_070");
@@ -80,7 +80,7 @@ Thanks, ｛風真＊＊｝.");
     ChClose(1,0,30);
     ChLayout(1);
     MsgClose();
-    ChOpen(1,255,0,0,3,-1,-1,0,0,0,30);
+    ChOpen(1,255,0,0,3,#1,#1,0,0,0,30);
     VoicePlay("I450100000_01_080");
     MsgDisp("Kazama","Sure you're not working too hard,
 little bee?
@@ -97,7 +97,7 @@ work!)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450100000_01_090");
     MsgDisp("Kazama","Yo, you're here.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
@@ -139,7 +139,7 @@ I'll try.");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
     MsgClose();
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Thank you for waiting.
 ......How is it?");
     ChEye(1,3);

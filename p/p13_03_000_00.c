@@ -14,7 +14,7 @@ the giant maze' is attracting a lot of
 attention more and more people are
 gathering...)");
     MsgClose();
-    ChOpen(3,254,5,3,3,-1,-1,0,0);
+    ChOpen(3,254,5,3,3,#1,#1,0,0);
     VoicePlay("P130300000_03_000");
     MsgDisp("Honda","Ah, perhaps......
 Molly, as in Kojiro-sensei's pet cow∋");
@@ -39,7 +39,7 @@ you get to drink freshly squeezed milk～");
     MsgDisp("Honda?","You get to drink cow milk if you clear the
 maze∋ Super interesting∈");
     MsgClose();
-    ChOpen(3,254,0,0,0,-1,-1,0,0);
+    ChOpen(3,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -77,4 +77,4 @@ Umm, entry for one then please～!");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);

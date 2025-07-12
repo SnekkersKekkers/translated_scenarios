@@ -7,7 +7,7 @@ VoicePlay("E012150000_21_000");
 MsgDisp("Michiru?","Are you just heading out?");
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
 MsgClose();
-ChOpen(21,255,0,0,0,-1,-1,0,0);
+ChOpen(21,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛みちる＊｝!
 Nope, I'm about to go home.
 What about you?");
@@ -36,7 +36,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
-ChOpen(21,255,0,0,0,-1,-1,0,0,0,30);
+ChOpen(21,255,0,0,0,#1,#1,0,0,0,30);
 VoicePlay("E012150000_21_030");
 MsgDisp("Michiru","Pant, pant......");
 MsgDisp("主人公","Huh?

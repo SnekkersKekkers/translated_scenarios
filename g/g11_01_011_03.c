@@ -17,7 +17,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,0,0,0,-1,-1,0,0);
+ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110101103_01_000");
 MsgDisp("Kazama","There's something I want to ask you.");
@@ -49,7 +49,7 @@ ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,0);
 ChMotion(1,1);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("G110101103_01_040");
 MsgDisp("Kazama","As for me, I think it's bette
 r to prioritize our current customers.");

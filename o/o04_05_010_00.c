@@ -8,7 +8,7 @@ Ah, it's ｛柊＊＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(5,30,0,0,4,-1,-1,0,0);
+    ChOpen(5,30,0,0,4,#1,#1,0,0);
     VoicePlay("O040501000_05_000");
     MsgDisp("Hiiragi","So we're on the same team.");
     MsgDisp("主人公","Yeah, let's toss some balls!");
@@ -22,7 +22,7 @@ Ah, it's ｛柊＊＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(5,30,0,0,4,-1,-1,0,0);
+    ChOpen(5,30,0,0,4,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 We're on the same team.");
     ChEye(5,4);
@@ -44,7 +44,7 @@ this event.");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(5,30,0,4,4,-1,-1,0,0);
+    ChOpen(5,30,0,4,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("O040501000_05_040");
     MsgDisp("Hiiragi","｛主人公｝,

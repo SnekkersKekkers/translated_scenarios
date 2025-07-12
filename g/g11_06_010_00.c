@@ -4,7 +4,7 @@ MsgDisp("主人公","｛氷室＊＊｝, Good work today.
 Do you want to walk partway home together");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,35,1,0,0,-1,-1,0,0);
+ChOpen(6,35,1,0,0,#1,#1,0,0);
 VoicePlay("G110601000_06_000");
 MsgDisp("Himuro","I'm dropping by the beach today.");
 MsgDisp("主人公","The, I think I'll go too.
@@ -27,7 +27,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I");
-ChOpen(6,100,2,0,0,-1,-1,0,0);
+ChOpen(6,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110601000_06_020");
 MsgDisp("Himuro","Ryouta-senpai is really worried about

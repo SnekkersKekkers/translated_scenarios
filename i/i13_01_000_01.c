@@ -18,7 +18,7 @@ switch (ChPrmGet(1,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,35,0,3,2,-1,-1,0,0);
+    ChOpen(1,35,0,3,2,#1,#1,0,0);
     ChMotion(1,3);
     VoicePlay("I130100001_01_000");
     MsgDisp("Kazama","......Hm?
@@ -46,7 +46,7 @@ Let's work hard together.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,35,0,0,0,-1,-1,0,0);
+    ChOpen(1,35,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("I130100001_01_030");
     MsgDisp("Kazama","｛主人公｝.");
@@ -78,7 +78,7 @@ But, let's do our best!)");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,35,0,0,2,-1,-1,0,0);
+    ChOpen(1,35,0,0,2,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("I130100001_01_060");
     MsgDisp("Kazama","｛主人公｝, you, that apron......");

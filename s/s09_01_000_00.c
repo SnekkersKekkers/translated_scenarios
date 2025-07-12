@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090100000_01_000");
     MsgDisp("Kazama","Want to get fortunes?");
     MsgDisp("主人公","Shall we try our luck this year?");
@@ -41,7 +41,7 @@ Is there a policy change this year?");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090100000_01_010");
     MsgDisp("Kazama","Here, found the thing you like.");
     MsgDisp("主人公","Fortunes!
@@ -93,7 +93,7 @@ it a try......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,255,0,0,3,-1,-1,0,0);
+    ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("S090100000_01_030");
     MsgDisp("Kazama","Look, the fortunes are really
 popular. What should we do? Feeling

@@ -48,5 +48,5 @@ interested in romance?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(21,-1);
+ChEyeOpenLevel(21,#1);
 ChCheek(21,0);

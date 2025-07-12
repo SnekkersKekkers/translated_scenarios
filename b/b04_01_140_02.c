@@ -74,7 +74,7 @@ and enjoy it, shall we?");
         BGMStop();
         SEStop("EV_SE_GAYA_003",1);
         ScrFadeOut(0,0);
-        ChOpen(1,255,0,0,3,-1,-1,0,0);
+        ChOpen(1,255,0,0,3,#1,#1,0,0);
         BGOpen("ne210",0);
         ScrFadeIn(0);
         MsgDisp("主人公","Phew, that was fun, wasn't it!");

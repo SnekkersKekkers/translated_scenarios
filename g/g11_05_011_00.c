@@ -11,7 +11,7 @@ ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,100,0,0,0,8,-1,7,0);
+ChOpen(5,100,0,0,0,8,#1,7,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110501100_05_000");
@@ -34,7 +34,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110501100_05_020");
 MsgDisp("Hiiragi","For a long time now. But, ever since I
 bumped into you at the school cafeteria,
@@ -44,7 +44,7 @@ ChMouth(5,1);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110501100_05_030");
 MsgDisp("Hiiragi","It looked so tasty when you ate it——");
 ChEyeOpenLevel(5,0);

@@ -1,5 +1,5 @@
 BGOpen("ex240",2);
-NSSOpen(3,255,3,3,-1,-1,0);
+NSSOpen(3,255,3,3,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160300400_03_000");

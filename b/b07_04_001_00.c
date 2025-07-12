@@ -1,7 +1,7 @@
 MsgClose();
 ChLayout(1);
-ChNanaType(-1);
-ChOpen(4,253,0,0,0,-1,-1,0,0,0,60);
+ChNanaType(#1);
+ChOpen(4,253,0,0,0,#1,#1,0,0,0,60);
 ChCheek(4,0);
 ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・

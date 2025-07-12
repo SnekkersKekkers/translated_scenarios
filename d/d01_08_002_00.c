@@ -86,7 +86,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
-ChOpen(8,254,0,3,3,-1,-1,0,0);
+ChOpen(8,254,0,3,3,#1,#1,0,0);
 VoicePlay("D010800200_08_010");
 MsgDisp("Shirahane","Ya really came!
 That makes me happy!");

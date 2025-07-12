@@ -13,7 +13,7 @@ festival... I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700002_07_000");
     MsgDisp("Mikage","Oh, the bride is in such a place.");
     MsgDisp("主人公","｛御影＊＊｝...");
@@ -62,7 +62,7 @@ festival... I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700002_07_050");
     MsgDisp("Mikage","Oh! Even in such a place, there's a cute
 bride.");

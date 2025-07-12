@@ -14,8 +14,8 @@ MsgDisp("主人公","｛本多＊＊｝, ｛氷室＊＊｝, what
 are you guys up to?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,255,0,0,0,-1,-1,0,1,0,30);
-ChOpen(6,255,0,0,0,-1,-1,0,2,0,30);
+ChOpen(3,255,0,0,0,#1,#1,0,1,0,30);
+ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(6);
 VoicePlay("E010320200_06_010");
 MsgDisp("Himuro","｛主人公｝, eavesdropping is impolite.");

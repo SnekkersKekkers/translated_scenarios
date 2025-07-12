@@ -8,7 +8,7 @@ matcha and mitarashi dango～!");
 MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
 MsgClose();
-ChOpen(31,254,0,0,0,0,-1,0,0);
+ChOpen(31,254,0,0,0,0,#1,0,0);
 VoicePlay("P033100000_31_000");
 MsgDisp("Goro","So it's here......
 The source of that appetite-stimulating

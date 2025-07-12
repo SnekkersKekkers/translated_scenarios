@@ -10,7 +10,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("主人公","Welcome!");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_000");
     MsgDisp("Mikage","Ooh, part-time job, huh.
 Nice.");
@@ -44,7 +44,7 @@ I'll show you to your seat.");
     MsgDisp("主人公","Welcome!");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_030");
     MsgDisp("Mikage","Oh, there you are.");
     MsgDisp("主人公","｛御影＊＊｝,
@@ -74,7 +74,7 @@ Please sit wherever you'd like.");
     MsgClose();
     Wait(30,0);
     SEPlay("EV_SE_544");
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("I350700000_07_060");
     MsgDisp("Mikage","｛主人公｝.
@@ -115,7 +115,7 @@ I guess I'm nowhere near it?");
     Wait(30,0);
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_100");
     MsgDisp("Mikage","Yo, you're working, huh.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝!

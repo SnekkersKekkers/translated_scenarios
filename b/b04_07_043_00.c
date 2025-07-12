@@ -1,5 +1,5 @@
 BGOpen("wf400",1);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040704300_07_000");

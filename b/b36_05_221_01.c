@@ -54,7 +54,7 @@ MsgDisp("Hiiragi","You can't see this view from inside
 the castle.");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(5,255,4,3,4,-1,-1,0,0);
+ChOpen(5,255,4,3,4,#1,#1,0,0);
 VoicePlay("B360522101_05_080");
 MsgDisp("Hiiragi","What a strange coincidence.
 If we made it in time for the viewing,

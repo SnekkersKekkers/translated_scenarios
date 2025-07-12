@@ -4,7 +4,7 @@ Wait(60,0);
 BGOpen("sc740",0);
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,30,0,0,0,-1,-1,0,0);
+ChOpen(4,30,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(4,6)){
     case 0:

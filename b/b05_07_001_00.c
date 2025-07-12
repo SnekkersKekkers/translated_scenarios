@@ -1,7 +1,7 @@
 ChLayout(1);
 ScrFadeIn(0);
 MsgClose();
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("B050700100_07_000");
 MsgDisp("Mikage","Then, I'll walk you home.
 ...We can talk whilst walking.");
@@ -82,7 +82,7 @@ StlClose();
 BGOpen("ho000",2);
 ChLayout(0);
 MsgClose();
-ChOpen(7,255,0,2,0,-1,-1,0,0);
+ChOpen(7,255,0,2,0,#1,#1,0,0);
 SEStop("EV_SE_781",0.4);
 BGMVol(0.5,2);
 ScrFadeIn(0);
@@ -121,7 +121,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.5,0.3);
 ChClose(7);
 ChLayout(1);
 MsgClose();
-ChOpen(7,255,2,0,0,-1,-1,0,0);
+ChOpen(7,255,2,0,0,#1,#1,0,0);
 SEWait();
 VoicePlay("B050700100_07_140");
 MsgDisp("Mikage","Phew... See you, it'll be the same as

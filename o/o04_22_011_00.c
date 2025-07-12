@@ -1,7 +1,7 @@
 BGOpen("sc760",0);
 ChLayout(1);
 MsgClose();
-ChOpen(22,30,0,0,3,-1,-1,0,0);
+ChOpen(22,30,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(22,6)){
     case 0:

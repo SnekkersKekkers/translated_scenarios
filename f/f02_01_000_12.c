@@ -36,7 +36,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F020100012_01_030");
 MsgDisp("Kazama","You make it sound so easy.");
 MsgDisp("主人公","(Well, I guess first off...

@@ -7,7 +7,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(6,30,0,0,0,-1,-1,0,0);
+    ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030601000_06_000");
     MsgDisp("Himuro","You don't have a partner?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.
@@ -28,7 +28,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(6,30,0,0,0,-1,-1,0,0);
+    ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030601000_06_020");
     MsgDisp("Himuro","Are you looking for a partner?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!
@@ -56,7 +56,7 @@ got rejected, right?");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(6,30,2,0,0,0,-1,0,0);
+    ChOpen(6,30,2,0,0,0,#1,0,0);
     VoicePlay("O030601000_06_040");
     MsgDisp("Himuro","Haa...... I finally found you.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");

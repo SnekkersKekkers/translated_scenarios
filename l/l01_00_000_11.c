@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChLayout(1);
     MsgClose();
     BGMPlay("BGM_HANYOU_A",0.01);
-    ChOpen(21,255,0,0,0,-1,-1,0,1,0,30);
-    ChOpen(22,255,0,0,3,-1,-1,0,2,0,30);
+    ChOpen(21,255,0,0,0,#1,#1,0,1,0,30);
+    ChOpen(22,255,0,0,3,#1,#1,0,2,0,30);
     ChMotion(22,4,1);
     VoicePlay("L010000011_22_000");
     MsgDisp("Hikaru","Bonjour～, Mari▼");

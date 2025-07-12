@@ -11,7 +11,7 @@ MsgDisp("Kazama?","｛主人公｝.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_D",0.01);
-ChOpen(1,254,0,4,3,-1,-1,0,0);
+ChOpen(1,254,0,4,3,#1,#1,0,0);
 MsgDisp("主人公","｛風真＊＊｝!
 You're back!");
 MsgDisp("主人公","But...the graduation ceremony is 
@@ -19,7 +19,7 @@ already over.");
 ChClose(1,0,30);
 ChLayout(0);
 SEPlay("EV_SE_544");
-ChOpen(1,254,0,2,3,8,-1,0,0,0,30);
+ChOpen(1,254,0,2,3,8,#1,0,0,0,30);
 VoicePlay("T020A30000_01_010");
 MsgDisp("Kazama","Sorry. I did try to hurry though.");
 MsgDisp("主人公","Yeah.
@@ -60,8 +60,8 @@ ChEyeOpenLevel(1,0);
 ChClose(1,0,30);
 ChLayout(1);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
-ChOpen(1,254,0,2,2,0,-1,0,1,0,30);
-ChOpen(2,254,3,0,3,-1,-1,0,2,0,30);
+ChOpen(1,254,0,2,2,0,#1,0,1,0,30);
+ChOpen(2,254,3,0,3,#1,#1,0,2,0,30);
 SEWait();
 VoicePlay("T020A30000_02_000");
 MsgDisp("Sassa","Ryota! You're lateー!");
@@ -123,7 +123,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 ChPosition(2,1);
-ChOpen(6,254,0,0,4,-1,-1,0,2);
+ChOpen(6,254,0,0,4,#1,#1,0,2);
 ScrFadeIn(0);
 VoicePlay("T020A30000_06_010");
 MsgDisp("Himuro","Senpais, congratulations

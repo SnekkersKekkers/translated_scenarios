@@ -13,7 +13,7 @@ future has in store for you.");
 VoicePlay("D240000000_41_010");
 MsgDisp("Tanaka Shin","Let's do our best together!");
 MsgClose();
-ChOpen(31,254,2,0,0,-1,-1,0,0);
+ChOpen(31,254,2,0,0,#1,#1,0,0);
 VoicePlay("D230000000_31_000");
 MsgDisp("Goro","You've been amazing lately♪
 Just like I expected you to be.

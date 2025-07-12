@@ -1,7 +1,7 @@
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
-ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(2,254,3,0,4,-1,-1,0,2,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("Q090A00000_01_000");
 MsgDisp("Kazama","｛主人公｝, good morning. ");

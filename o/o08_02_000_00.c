@@ -8,7 +8,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("主人公","(Next is......
 Ah, it's ｛颯砂＊＊｝.)");
     MsgClose();
-    ChOpen(2,30,4,0,2,-1,-1,0,0);
+    ChOpen(2,30,4,0,2,#1,#1,0,0);
     VoicePlay("O080200000_02_000");
     MsgDisp("Sassa","Hey, what kind of face
 should I be making during a folk dance?");
@@ -18,7 +18,7 @@ should I be making during a folk dance?");
     MsgDisp("主人公","(Next is......
 Ah, it's ｛颯砂＊＊｝.)");
     MsgClose();
-    ChOpen(2,30,4,0,0,-1,-1,10,0);
+    ChOpen(2,30,4,0,0,#1,#1,10,0);
     VoicePlay("O080200000_02_010");
     MsgDisp("Sassa","Uwah, this is making me shy......
 Being embarrassed like this is
@@ -36,7 +36,7 @@ were always my partner, though?");
     MsgDisp("主人公","(Next is......
 Ah, it's ｛颯砂＊＊｝.)");
     MsgClose();
-    ChOpen(2,30,4,0,4,-1,-1,0,0);
+    ChOpen(2,30,4,0,4,#1,#1,0,0);
     VoicePlay("O080200000_02_030");
     MsgDisp("Sassa","Last time I held hands and danced
 with you was in kindergarten, right?");

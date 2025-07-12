@@ -48,7 +48,7 @@ StlClose();
 BGOpen("fp700",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,7,4,2,0,-1,0,0);
+ChOpen(1,255,7,4,2,0,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Hehe, you're  such a smart shopper,
 ｛風真＊＊｝.");
@@ -126,7 +126,7 @@ MsgDisp("主人公","(｛風真＊＊｝ sounds kind of sad?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);
 ChPrmTblAdd(1,0);

@@ -8,7 +8,7 @@ even though that was the last
 performance of my high school life.)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(2,254,0,0,4,-1,-1,0,0);
+ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoicePlay("P540200005_02_000");
 MsgDisp("Sassa","Good job on your performance.");
 MsgDisp("主人公","｛颯砂＊＊｝...

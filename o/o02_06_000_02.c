@@ -5,7 +5,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,30,2,0,0,0,-1,0,0);
+    ChOpen(6,30,2,0,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020600002_06_000");
     MsgDisp("Himuro","What a vague result.");
@@ -14,7 +14,7 @@ And we were so close......)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,30,0,0,4,-1,-1,0,0);
+    ChOpen(6,30,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020600002_06_010");
     MsgDisp("Himuro","You could've won with
@@ -26,7 +26,7 @@ And we were so close......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,30,0,0,0,-1,-1,0,0);
+    ChOpen(6,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(6,5);
     VoicePlay("O020600002_06_020");

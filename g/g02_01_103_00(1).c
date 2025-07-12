@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,0,0,2,-1,-1,0,0);
+ChOpen(1,255,0,0,2,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110300_01_000");
 MsgDisp("Kazama","Were fireflies always this colorful?");
@@ -54,7 +54,7 @@ ChLayout(0);
 SEPlay("EV_SE_544");
 SEWait();
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,0,0,30);
+ChOpen(1,255,0,0,0,#1,#1,0,0,0,30);
 VoicePlay("G020110300_01_070");
 MsgDisp("Kazama","Here, 
 I can be smoother.");
@@ -84,6 +84,6 @@ MsgClose();
 ScrFadeOut(0,0);
 EfctClose();
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

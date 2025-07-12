@@ -91,7 +91,7 @@ I'll mimic your form.");
         MsgDisp("主人公","Ehh, three in a row∋");
         MsgClose();
         SEPlay("EV_SE_544");
-        ChOpen(3,255,5,3,3,-1,-1,0,0);
+        ChOpen(3,255,5,3,3,#1,#1,0,0);
         VoicePlay("B040315202_03_100");
         MsgDisp("Honda","I think I've awoken something! It's all
 thanks to you! You're really amazing. One
@@ -108,7 +108,7 @@ more time!");
         MsgClose();
         ScrFadeOut(0);
         MsgClose();
-        ChOpen(3,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(3,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

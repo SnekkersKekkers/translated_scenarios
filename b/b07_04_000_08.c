@@ -54,6 +54,6 @@ MsgDisp("主人公","(Even so... I just wanted to ask...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

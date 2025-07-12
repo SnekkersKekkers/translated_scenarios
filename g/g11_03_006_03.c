@@ -13,7 +13,7 @@ MsgClose();
 SEWait();
 BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,0,-1,-1,0,0);
+ChOpen(3,100,0,0,0,#1,#1,0,0);
 MsgClose();
 ScrFadeIn(0);
 while (1){

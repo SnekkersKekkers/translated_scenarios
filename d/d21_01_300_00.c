@@ -11,7 +11,7 @@ MsgDisp("Goro?","It's hard to see what's right
 under your nose, isn't it?");
 MsgClose();
 BGMPlay("BGM_C31_GORO_A",0.01);
-ChOpen(31,254,7,0,0,0,-1,0,0);
+ChOpen(31,254,7,0,0,0,#1,0,0);
 MsgDisp("主人公","Ah, Goro-sensei!");
 VoicePlay("D220100100_31_010");
 ChEye(31,0);

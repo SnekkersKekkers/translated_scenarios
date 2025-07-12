@@ -7,7 +7,7 @@ VoicePlay("P553200009_32_000");
 MsgDisp("Vice Principal Himuro?","...What are you doing here.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Himuro-sensei, I'm sorry.
 I didn't practice enough...");
 ChEye(32,0);

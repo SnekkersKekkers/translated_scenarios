@@ -11,7 +11,7 @@ switch (ChPrmGet(7,6)){
     MsgClose();
     SEStop("EV_SE_589",3);
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650700000_07_000");
     MsgDisp("Mikage","You got a nice greeting, huh?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝!
@@ -40,7 +40,7 @@ See you later.");
     MsgDisp("主人公","Welcome!");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650700000_07_030");
     MsgDisp("Mikage","Yo.
 There's a lot of vigor at this stand.");
@@ -89,7 +89,7 @@ might be fun?)");
     Wait(90,0);
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     SEWait();
     MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Welcome!");
@@ -109,7 +109,7 @@ Welcome!");
     SEWait();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     Wait(20,0);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     SEWait();
     SEPlay("EV_SE_039");
     MsgDisp("主人公","The tank is full!

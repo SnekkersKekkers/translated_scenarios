@@ -10,7 +10,7 @@ MsgDisp("主人公","｛風真＊＊｝,
 I wonder if something happened...");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(33,254,0,0,0,-1,-1,0,0);
+ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110100000_33_000");
 MsgDisp("Guy","Hey, do you want to know? 
 Or do you not want to?");
@@ -29,7 +29,7 @@ ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 MsgClose();
-ChOpen(1,253,0,0,2,8,-1,0,1,0,30);
+ChOpen(1,253,0,0,2,8,#1,0,1,0,30);
 VoicePlay("B110100000_01_000");
 MsgDisp("Kazama","Oi.
 What are you doing?");

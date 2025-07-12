@@ -1,7 +1,7 @@
 BGOpen("tr430",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 MsgClose();
-ChOpen(3,255,0,0,3,-1,-1,0,0);
+ChOpen(3,255,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323202_03_000");
@@ -95,7 +95,7 @@ Come!");
 Wait up, ｛本多＊＊｝ ～!");
         MsgClose();
         ScrFadeOut(0);
-        ChOpen(3,253,0,0,0,-1,-1,0,0);
+        ChOpen(3,253,0,0,0,#1,#1,0,0);
         break ;
         default :
         DbgAssert(1);

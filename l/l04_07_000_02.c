@@ -68,7 +68,7 @@ Thank goodness!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(7,0,0);
-    ChEyeOpenLevel(7,-1);
+    ChEyeOpenLevel(7,#1);
     break ;
     case 4:
     case 5:

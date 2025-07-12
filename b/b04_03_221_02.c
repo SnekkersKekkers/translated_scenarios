@@ -68,7 +68,7 @@ to stealthily escape.");
 princess.')");
         MsgClose();
         ScrFadeOut(0,0);
-        ChOpen(3,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(3,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

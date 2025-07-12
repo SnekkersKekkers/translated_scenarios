@@ -5,8 +5,8 @@ MsgDisp("主人公","(｛みちる＊｝ and ｛ひかる＊｝ are......
 over there!)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(21,254,0,0,0,-1,-1,0,1);
-ChOpen(22,254,0,0,3,-1,-1,0,2);
+ChOpen(21,254,0,0,0,#1,#1,0,1);
+ChOpen(22,254,0,0,3,#1,#1,0,2);
 MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝!");
 ChEye(21,0);
 ChMouth(21,0);

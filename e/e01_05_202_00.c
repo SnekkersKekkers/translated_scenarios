@@ -10,8 +10,8 @@ MsgDisp("Hiiragi?","Honda-kun, how are you
 so good with kids?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(5,255,4,0,4,-1,-1,0,1);
-ChOpen(3,255,0,0,0,-1,-1,0,2);
+ChOpen(5,255,4,0,4,#1,#1,0,1);
+ChOpen(3,255,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","Hello.
 What are you two talking about?");
 ChMotion(5,0);

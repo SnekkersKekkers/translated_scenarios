@@ -88,7 +88,7 @@ ScrFadeOut(0);
 Wait(100,0);
 BGOpen("sc740",0);
 SEStop("EV_SE_GAYA_021",1.5);
-ChOpen(2,30,3,0,3,-1,-1,0,0);
+ChOpen(2,30,3,0,3,#1,#1,0,0);
 SEPlay("EV_SE_680");
 ScrFadeIn(0);
 Wait(80,0);

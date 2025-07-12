@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(6,255,0,0,0,-1,-1,0,3);
+ChOpen(6,255,0,0,0,#1,#1,0,3);
 VoicePlay("W040600000_06_000");
 MsgDisp("Himuro","Hey.");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝!

@@ -1,7 +1,7 @@
 BGOpen("sc710",0);
 ChLayout(1);
 ScrFadeIn(0);
-ChOpen(3,254,0,0,3,-1,-1,0,0);
+ChOpen(3,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("X210300000_03_000");
 MsgDisp("Honda","｛主人公｝.");

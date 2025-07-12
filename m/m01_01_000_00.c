@@ -10,7 +10,7 @@ SEPlay("EV_SE_DOOR_007");
 Wait(18);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A");
-ChOpen(1,255,0,4,2,-1,-1,0,0);
+ChOpen(1,255,0,4,2,#1,#1,0,0);
 VoicePlay("M010100000_01_010");
 MsgDisp("Kazama","How are you?
 Gotten a little better?");

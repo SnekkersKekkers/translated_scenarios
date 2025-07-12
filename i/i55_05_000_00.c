@@ -7,7 +7,7 @@ switch (ChPrmGet(5,6)){
     case 2:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I550500000_05_000");
     MsgDisp("Hiiragi","Excuse me.");
     MsgDisp("主人公","Welcome!
@@ -32,7 +32,7 @@ How many would you like?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,5);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     ChCheek(5,7);
     VoicePlay("I550500000_05_040");
     MsgDisp("Hiiragi","Ah, I will be getting portions
@@ -68,7 +68,7 @@ by yourself......)");
     case 3:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I550500000_05_070");
     MsgDisp("Hiiragi","｛主人公｝,
@@ -127,7 +127,7 @@ really liked my recommendation ♪)");
 closing time.)");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I550500000_05_130");
     MsgDisp("Hiiragi","Excuse me.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, sorry.

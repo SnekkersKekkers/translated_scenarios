@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("B040602300_06_000");
 MsgDisp("Himuro","So.
 What are we going to do?");

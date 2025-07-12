@@ -56,13 +56,13 @@ ChMotion(4,2,1);
 ChEyeOpenLevel(4,10);
 VoicePlay("G020420201_04_080");
 MsgDisp("Nanatsumori","I won't lose to Dahon, no matter what.");
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 MsgDisp("主人公","(Is ｛七ツ森＊｝ concerned about
 ｛本多＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

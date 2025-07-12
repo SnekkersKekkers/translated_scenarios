@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0);
+    ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("Q080400001_04_000");
     MsgDisp("Nanatsumori","Quite enjoyed it.");
@@ -23,7 +23,7 @@ too.");
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0);
+    ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("Q080400001_04_020");
     MsgDisp("Nanatsumori","Thanks for inviting me.
@@ -41,7 +41,7 @@ time the day after tomorrow together?");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,254,0,4,4,-1,-1,0,0);
+    ChOpen(4,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("Q080400001_04_040");

@@ -5,8 +5,8 @@ Where did the erasers dissapear off to?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
-ChOpen(21,254,4,0,4,-1,-1,0,1);
-ChOpen(22,254,0,0,0,-1,-1,0,2);
+ChOpen(21,254,4,0,4,#1,#1,0,1);
+ChOpen(22,254,0,0,0,#1,#1,0,2);
 VoicePlay("P840D00003_21_000");
 MsgDisp("Michiru","Even though it was supposed to have
 been on the desk just a moment ago...");

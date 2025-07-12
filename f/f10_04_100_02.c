@@ -5,7 +5,7 @@ MsgDisp("主人公","(I feel something strange in the air...)");
 MsgClose();
 BGMPlay("BGM_C04_NANA_A");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("F100410002_04_000");
 MsgDisp("Nanatsumori","Yo.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.");

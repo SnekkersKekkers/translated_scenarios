@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,1,0,0,-1,-1,0,0);
+ChOpen(1,255,1,0,0,#1,#1,0,0);
 VoicePlay("G020130201_01_000");
 MsgDisp("Kazama","This really is something you have to see
 with your own eyes...... It's totally
@@ -75,6 +75,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

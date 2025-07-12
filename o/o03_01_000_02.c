@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,2,3,-1,-1,0,0);
+    ChOpen(1,30,0,2,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030100002_01_000");
     MsgDisp("Kazama","Seriously.
@@ -17,7 +17,7 @@ The three-legged race is hard......)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,2,2,-1,-1,0,0);
+    ChOpen(1,30,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030100002_01_010");
     MsgDisp("Kazama","We're last?
@@ -38,7 +38,7 @@ started in ｛風真＊＊｝......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(1,3);
     ChMotion(1,3);

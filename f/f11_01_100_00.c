@@ -1,7 +1,7 @@
 BGOpen("sc710",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,4,3,-1,-1,0,0);
+ChOpen(1,254,0,4,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("F110110000_01_000");
@@ -49,7 +49,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
 ChMotion(1,1);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F110110000_01_040");
 MsgDisp("Kazama","Haha, it's all good.
 I'll guide you now.");

@@ -73,4 +73,4 @@ MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,255,7,0,0,-1,-1,0,0);
+ChOpen(4,255,7,0,0,#1,#1,0,0);

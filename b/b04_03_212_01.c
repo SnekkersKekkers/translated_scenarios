@@ -38,7 +38,7 @@ I've always wanted to try it onceー.");
     MsgDateResultDisp();
     MsgDispSksp(0);
     MsgDispBGSksp(0);
-    ChEyeOpenLevel(3,-1);
+    ChEyeOpenLevel(3,#1);
     break ;
     case 2:
     DateRateSet(2);

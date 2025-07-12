@@ -4,7 +4,7 @@ switch (ChPrmGet(7,6)){
     case 2:
     case 3:
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700000_07_000");
     MsgDisp("Mikage","Didn't the baseball team win
@@ -22,7 +22,7 @@ I would be happy if that were the case!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,254,3,0,0,-1,-1,0,0);
+    ChOpen(7,254,3,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700000_07_020");
     MsgDisp("Mikage","Congratulations!");

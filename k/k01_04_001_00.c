@@ -3,7 +3,7 @@ BGOpen("sc511",0);
 ChLayout(1);
 BGMPlay("BGM_C04_NANA_A");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(4,6)){
     case 0:
@@ -19,7 +19,7 @@ Here's a birthday present.");
     SEPlay("EV_SE_664");
     SEWait();
     ChMotion(4,1,1);
-    ChMouthOpenLevel(4,-1);
+    ChMouthOpenLevel(4,#1);
     VoicePlay("K010400100_04_010");
     MsgDisp("Nanatsumori","For me?");
     MsgDisp("主人公","Yes, for ｛七ツ森＊｝.");

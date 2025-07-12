@@ -20,7 +20,7 @@ the same fire strengthens bonds. Well,
 we don't need that kind of thing,
 though.");
     MsgDispSksp(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

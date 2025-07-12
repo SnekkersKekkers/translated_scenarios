@@ -58,7 +58,7 @@ side.");
         MsgClose();
         SEPlay("EV_SE_508");
         SEWait();
-        ChOpen(5,31,0,2,4,-1,-1,0,0);
+        ChOpen(5,31,0,2,4,#1,#1,0,0);
         ChMotion(5,4);
         VoicePlay("B040511002_05_050");
         MsgDisp("Hiiragi","I am ashamed.");

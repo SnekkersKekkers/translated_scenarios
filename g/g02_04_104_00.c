@@ -57,7 +57,7 @@ VoicePlay("G020410400_04_070");
 MsgDisp("Nanatsumori","Hmmー......");
 ChEye(4,0);
 ChMouth(4,0);
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 VoicePlay("G020410400_04_080");
 MsgDisp("Nanatsumori","Maybe I should just quit social media
 altogether?");
@@ -79,6 +79,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

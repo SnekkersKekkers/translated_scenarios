@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("Q090400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Are you ready to go?");
@@ -22,7 +22,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("Q090400000_04_020");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -44,7 +44,7 @@ Are we leaving already?");
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
-    ChOpen(4,254,0,4,4,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,4,4,#1,#1,0,0,0,60);
     ChMotion(4,2,1);
     VoicePlay("Q090400000_04_050");
     MsgDisp("Nanatsumori","Mornin..");

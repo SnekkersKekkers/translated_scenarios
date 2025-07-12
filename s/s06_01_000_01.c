@@ -67,6 +67,6 @@ this sight all to myself......");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

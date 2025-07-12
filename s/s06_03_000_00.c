@@ -5,7 +5,7 @@ SEPlay("EV_SE_DOOR_001");
 SEWait();
 SEPlay("EV_SE_DOOR_022");
 SEWait();
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 switch (ChPrmGet(3,6)){
     case 0:
     case 1:
@@ -57,5 +57,5 @@ I'm so happy I walked all the way here.");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

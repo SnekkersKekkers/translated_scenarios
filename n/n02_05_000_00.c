@@ -5,7 +5,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,254,0,0,0,-1,-1,0,0);
+    ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500000_05_000");
     MsgDisp("Hiiragi","Hello.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
@@ -36,7 +36,7 @@ I did my best!)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,254,0,0,3,-1,-1,0,0);
+    ChOpen(5,254,0,0,3,#1,#1,0,0);
     VoicePlay("N020500000_05_040");
     MsgDisp("Hiiragi","Since you got the top rank, I want you to
 be my private tutor.");
@@ -67,7 +67,7 @@ hidden it at all.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,254,0,4,3,-1,-1,0,0);
+    ChOpen(5,254,0,4,3,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("N020500000_05_080");
     MsgDisp("Hiiragi","｛主人公｝.

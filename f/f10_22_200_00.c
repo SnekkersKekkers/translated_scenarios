@@ -6,8 +6,8 @@ MsgDisp("Goro?","It's about time to head home now.");
 MsgDisp("主人公","(Eh? That voice...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(22,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(31,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(22,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(31,254,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","I thought so!
 ｛ひかる＊｝ and... Goro-sensei∋");
 ChEye(22,0);

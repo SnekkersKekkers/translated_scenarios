@@ -5,7 +5,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    ChOpen(2,34,3,0,4,-1,-1,0,0);
+    ChOpen(2,34,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("R040200000_02_000");
     MsgDisp("Sassa","｛主人公｝,
@@ -15,7 +15,7 @@ Merry Christmas!");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,34,3,0,3,-1,-1,0,0);
+    ChOpen(2,34,3,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("R040200000_02_010");
     MsgDisp("Sassa","｛主人公｝,
@@ -33,7 +33,7 @@ I like how fancy it is.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,34,3,0,4,-1,-1,0,0);
+    ChOpen(2,34,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("R040200000_02_030");
     MsgDisp("Sassa","｛主人公｝,

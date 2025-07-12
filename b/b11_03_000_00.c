@@ -9,7 +9,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDisp("主人公","｛本多＊＊｝'s late...");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(33,254,0,0,0,-1,-1,0,0);
+ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110300000_33_000");
 MsgDisp("Guy","Another lost child. Don't worry, I'm here.");
 MsgDisp("主人公","∋
@@ -27,7 +27,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
-ChOpen(3,253,3,3,3,-1,-1,0,2);
+ChOpen(3,253,3,3,3,#1,#1,0,2);
 VoicePlay("B110300000_03_000");
 MsgDisp("Honda","Me too, me too!");
 MsgDisp("主人公","Oh, ｛本多＊＊｝∋");

@@ -13,7 +13,7 @@ it's finally the runway...I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,1,0,3,-1,-1,0,0);
+    ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoicePlay("P730300000_03_000");
     MsgDisp("Honda","Ah, I found you.");
     MsgDisp("主人公","Ah, ｛本多＊＊｝!
@@ -46,7 +46,7 @@ it's finally the runway...I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,5,4,3,-1,-1,0,0);
+    ChOpen(3,254,5,4,3,#1,#1,0,0);
     VoicePlay("P730300000_03_030");
     MsgDisp("Honda","Waa, it's a model...");
     MsgDisp("主人公","Ah, ｛本多＊＊｝, you came.");

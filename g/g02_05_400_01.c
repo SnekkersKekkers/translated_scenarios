@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020540001_05_000");
 MsgDisp("Hiiragi","Lately, I've been approached more often by
 people I don't know.");
@@ -46,6 +46,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

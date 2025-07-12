@@ -1,7 +1,7 @@
 BGOpen("ho000",0);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("H5G0500000_05_000");

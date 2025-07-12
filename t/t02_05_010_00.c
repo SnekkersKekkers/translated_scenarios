@@ -9,7 +9,7 @@ MsgClear();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
-ChOpen(5,254,7,4,4,-1,-1,0,0);
+ChOpen(5,254,7,4,4,#1,#1,0,0);
 MsgDisp("主人公","｛柊＊＊＊｝……！");
 ChMotion(5,0);
 Wait(16,0);
@@ -89,7 +89,7 @@ ChEyeOpenLevel(5,10);
 VoicePlay("T020501000_05_090");
 MsgDisp("Hiiragi","But,
 you always cared about what I did.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","But......I wanted to support ｛柊＊＊＊｝
 even more, but there was nothing I could
 do.");
@@ -148,7 +148,7 @@ SEPlay("EV_SE_544");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,7);
-ChOpen(5,254,0,0,0,-1,-1,0,0);
+ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020501000_05_150");
 MsgDisp("Hiiragi","Warm, lovely light......
 I love you.");

@@ -10,7 +10,7 @@ switch (ChPrmGet(7,6)){
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(7);
     VoicePlay("P230700001_07_000");
@@ -47,5 +47,5 @@ I hope it holds up until then...!");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

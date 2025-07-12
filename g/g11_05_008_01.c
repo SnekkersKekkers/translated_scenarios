@@ -13,7 +13,7 @@ ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,100,2,0,0,0,-1,0,0,0,0);
+ChOpen(5,100,2,0,0,0,#1,0,0,0,0);
 Wait(30,0);
 ScrFadeIn(0);
 ChMouthOpenLevel(5,0);
@@ -70,7 +70,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500801_05_060");
 MsgDisp("Hiiragi","Thank you.

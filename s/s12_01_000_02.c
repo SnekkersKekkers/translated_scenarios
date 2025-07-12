@@ -1,7 +1,7 @@
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);
 BGOpen("ex020",0);
 ChLayout(1);
@@ -123,6 +123,6 @@ back.");
     break ;
     }
 BGMStop();
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

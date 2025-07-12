@@ -22,7 +22,7 @@ MsgDisp("主人公","(It's ｛颯砂＊＊｝.
 in Practice\"...)");
 BGOpen("sc330",0);
 MsgClose();
-ChOpen(2,254,0,0,4,-1,-1,0,0);
+ChOpen(2,254,0,0,4,#1,#1,0,0);
 BGMPlay("BGM_C02_SASSA_A",0.01);
 ScrFadeIn(0);
 VoicePlay("F100210002_02_010");

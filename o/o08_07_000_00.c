@@ -8,7 +8,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("主人公","(Next is......
 Ah, ｛御影＊＊｝!?)");
     MsgClose();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_000");
     MsgDisp("Mikage","I'm filling in for
 the boy who ran away.
@@ -20,7 +20,7 @@ Please treat me well.");
     MsgDisp("主人公","(Next is......
 Huh, ｛御影＊＊｝?)");
     MsgClose();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_010");
     MsgDisp("Mikage","It seems like there aren't enough guys.
 Sorry.");
@@ -36,7 +36,7 @@ Sorry.");
     MsgDisp("主人公","(Next is......
 Huh, ｛御影＊＊｝?)");
     MsgClose();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_030");
     MsgDisp("Mikage","Saying there aren't enough guys
 is just an excuse. I want to do this.");

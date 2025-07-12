@@ -1,5 +1,5 @@
 BGOpen("tr100",0);
-ChNanaType(-1);
+ChNanaType(#1);
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
@@ -14,4 +14,4 @@ MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);
 MsgClose();
-ChOpen(4,32,0,0,0,-1,-1,0,0,0,0);
+ChOpen(4,32,0,0,0,#1,#1,0,0,0,0);

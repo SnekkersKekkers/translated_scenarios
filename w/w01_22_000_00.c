@@ -2,7 +2,7 @@ BGOpen("sc510",0);
 ChLayout(1);
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 MsgClose();
-ChOpen(22,254,0,0,3,-1,-1,0,0);
+ChOpen(22,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(22,5,1);
 VoicePlay("W012200000_22_000");

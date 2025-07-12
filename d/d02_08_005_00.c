@@ -2,7 +2,7 @@ BGOpen("ar300",0);
 ChLayout(1);
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,35,0,0,0,-1,-1,0,0);
+ChOpen(8,35,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(8,1,1);
 VoicePlay("D020800500_08_000");

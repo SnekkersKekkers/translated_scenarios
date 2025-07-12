@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(7,255,3,0,0,-1,-1,0,0);
+ChOpen(7,255,3,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150700500_07_000");
 MsgDisp("Mikage","Today is a full moon...");
@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 ChClose(7);
 ChLayout(0);
 MsgClose();
-ChOpen(7,255,0,1,0,-1,-1,0,0);
+ChOpen(7,255,0,1,0,#1,#1,0,0);
 VoicePlay("B150700500_07_010");
 MsgDisp("Mikage","Are you prepared?");
 ChEye(7,1);

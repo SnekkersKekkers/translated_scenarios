@@ -6,7 +6,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,253,2,2,0,-1,-1,0,0);
+ChOpen(8,253,2,2,0,#1,#1,0,0);
 VoicePlay("B010800001_08_000");
 MsgDisp("Shirahane","You were waiting?
 ... Did I keep ya waiting long?");

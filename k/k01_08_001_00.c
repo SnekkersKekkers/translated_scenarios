@@ -10,7 +10,7 @@ switch (ChPrmGet(8,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,35,0,0,0,-1,-1,0,0);
+    ChOpen(8,35,0,0,0,#1,#1,0,0);
     VoicePlay("K010800100_08_000");
     MsgDisp("Shirahane","Huh?
 What's the matter?");
@@ -37,7 +37,7 @@ I'm so happy, can I open it?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,35,0,0,0,-1,-1,0,0);
+    ChOpen(8,35,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(8);
     VoicePlay("K010800100_08_030");
     MsgDisp("Shirahane","｛主人公｝.
@@ -69,7 +69,7 @@ Can I open 'er up right here?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,35,3,0,5,-1,-1,4,0);
+    ChOpen(8,35,3,0,5,#1,#1,4,0);
     VoicePlay("K010800100_08_060");
     MsgDisp("Shirahane","......!
 W-What's the matter?");

@@ -1,7 +1,7 @@
 BGOpen("fp200",0);
 ChLayout(1);
 MsgClose();
-ChOpen(21,255,4,4,4,-1,-1,0,0);
+ChOpen(21,255,4,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U022100002_21_000");
 MsgDisp("Michiru","What a pretty fountain......");

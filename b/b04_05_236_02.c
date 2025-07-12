@@ -1,7 +1,7 @@
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);
 BGOpen("tr470",2);
 BGMPlay("BGM_PLACE_AMUSE_NIGHT",0.01);
@@ -80,7 +80,7 @@ I'm the one who's sorry for
 getting carried away.");
         BGMVol(1,0.2);
         ChEye(5,4);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         ChMouthOpenLevel(5,0);
         VoicePlay("B040523602_05_070");
         MsgDisp("Hiiragi","…………");
@@ -89,7 +89,7 @@ getting carried away.");
         BGMVol(0.7,0.5);
         ChEye(5,3);
         ChMotion(5,0);
-        ChMouthOpenLevel(5,-1);
+        ChMouthOpenLevel(5,#1);
         VoicePlay("B040523602_05_080");
         MsgDisp("Hiiragi","...Heheh.
 It's funny that we're both 

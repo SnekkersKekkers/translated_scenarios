@@ -89,7 +89,7 @@ Turns out this sort of picture
 is better than you in armor. ");
         MsgClose();
         SEPlay("EV_SE_544");
-        ChOpen(3,255,1,3,3,0,-1,0,0);
+        ChOpen(3,255,1,3,3,0,#1,0,0);
         SEWait();
         VoicePlay("B040322202_03_080");
         MsgDisp("Honda","Thanks for turning down the cosplay idea.");

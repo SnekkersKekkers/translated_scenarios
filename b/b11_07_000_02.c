@@ -11,7 +11,7 @@ MsgDisp("?Boy","Hmm, too weak, too weak～
 I need to find a more energetic
 girl okay～?");
 SEPlay("EV_SE_544");
-ChOpen(35,254,0,2,0,-1,-1,0,0,0,30);
+ChOpen(35,254,0,2,0,#1,#1,0,0,0,30);
 VoicePlay("B110700002_35_010");
 MsgDisp("Guy","Ehhh?
 I found her!
@@ -36,7 +36,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChPosition(35,1);
 MsgClose();
-ChOpen(7,253,0,1,4,-1,-1,0,2,0,30);
+ChOpen(7,253,0,1,4,#1,#1,0,2,0,30);
 MsgDispSksp(1,5);
 ChEye(7,1);
 ChMouth(7,4);
@@ -90,7 +90,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.6);
 SEWait();
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(7,253,4,2,0,-1,-1,0,0);
+ChOpen(7,253,4,2,0,#1,#1,0,0);
 VoicePlay("B110700002_07_040");
 MsgDisp("Mikage","Haa... that kind of person 
 makes me sad. They had a 

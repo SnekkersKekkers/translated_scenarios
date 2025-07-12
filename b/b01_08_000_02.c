@@ -7,7 +7,7 @@ MsgDisp("主人公","｛大地＊＊｝!
 You're really early.");
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,253,0,0,4,-1,-1,0,0);
+ChOpen(8,253,0,0,4,#1,#1,0,0);
 VoicePlay("B010800002_08_000");
 MsgDisp("Shirahane","Huh?
 Aren't ya pretty early too?");

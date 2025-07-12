@@ -6,7 +6,7 @@ VoicePlay("L060100000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A");
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛風真＊＊｝.");
 SEPlay("EV_SE_668");
 SEWait();

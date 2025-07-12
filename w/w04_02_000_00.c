@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,3,0,4,-1,-1,0,3);
+ChOpen(2,255,3,0,4,#1,#1,0,3);
 VoicePlay("W040200000_02_000");
 MsgDisp("Sassa","Good morning.
 You're early.");

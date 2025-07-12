@@ -1,5 +1,5 @@
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

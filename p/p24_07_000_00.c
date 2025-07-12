@@ -6,7 +6,7 @@ MsgClose();
 BGOpen("sc744",0);
 BGMPlay("BGM_ENGEKI_G",0.01);
 ChLayout(1);
-ChOpen(7,38,0,0,4,-1,-1,0,0);
+ChOpen(7,38,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240700000_49_000");
 MsgDisp("Narrator","Searching for his missing wife, Bai Niang,
@@ -83,7 +83,7 @@ MsgDisp("Narrator","The lightning arrows sent by the pursuers
 pierced through Bai Niang's back.");
 BGOpen("sc744",0);
 MsgClose();
-ChOpen(7,38,0,2,4,-1,-1,0,0);
+ChOpen(7,38,0,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","This is... fine.
 I can finally experience the same 

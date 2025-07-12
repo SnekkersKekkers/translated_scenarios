@@ -79,7 +79,7 @@ eat it right now......");
     MsgDisp("Shirahane","Hmm.
 But I'd need to eat it all.
 What a pickle......");
-    ChEyeOpenLevel(8,-1);
+    ChEyeOpenLevel(8,#1);
     MsgDisp("主人公","Hehe.
 But it can go bad,
 so eat it quick, okay?");

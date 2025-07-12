@@ -46,7 +46,7 @@ MsgClose();
 StlClose();
 BGOpen("sc603",0);
 MsgClose();
-ChOpen(22,37,0,3,3,-1,-1,0,0);
+ChOpen(22,37,0,3,3,#1,#1,0,0);
 EnvAutoSet(1);
 BGMVol(0.5,2);
 ScrFadeIn(0);

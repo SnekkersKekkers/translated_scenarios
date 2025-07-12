@@ -48,7 +48,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 MsgClose();
-ChOpen(6,30,0,0,0,-1,-1,0,0);
+ChOpen(6,30,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240601000_06_030");
 MsgDisp("Himuro","Day after day, I diligently worked as

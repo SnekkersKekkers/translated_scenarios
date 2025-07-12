@@ -7,7 +7,7 @@ MsgDisp("主人公","(And so, the last Christmas party of
 my high school life is over...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,34,0,0,0,-1,-1,0,0);
+ChOpen(6,34,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","(Ah...  It's ｛氷室＊＊｝.)");
 ChEye(6,0);
 ChMouth(6,0);

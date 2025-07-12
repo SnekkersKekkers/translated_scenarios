@@ -14,4 +14,4 @@ MsgClose();
 ScrFadeOut(0,0);
 MsgClose();
 ChClose(2,0,0);
-ChOpen(2,32,0,0,0,-1,-1,0,0,0,0);
+ChOpen(2,32,0,0,0,#1,#1,0,0,0,0);

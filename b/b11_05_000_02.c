@@ -17,7 +17,7 @@ dangle a debut in front of them,
 and they'll sign right away!");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(35,254,0,0,0,-1,-1,0,0);
+ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500002_35_020");
 MsgDisp("Guy","Waah, are you part of Habataki 
 Theatre Troupe too? Why don't
@@ -36,7 +36,7 @@ ChPosition(35,2);
 MsgClose();
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-ChOpen(5,253,0,0,0,-1,-1,0,1,0,30);
+ChOpen(5,253,0,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110500002_05_000");
 MsgDisp("Hiiragi","Is there something you need
 with one of our members?");
@@ -91,7 +91,7 @@ Wait(60,0);
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B110500002_05_040");
 MsgDisp("Hiiragi","Haa... I'm sorry, that was my fault for
 being late.");

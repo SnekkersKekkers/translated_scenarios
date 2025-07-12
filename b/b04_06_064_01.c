@@ -39,7 +39,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","...I caught one more than you right?");
-ChOpen(6,33,2,1,1,0,-1,0,0);
+ChOpen(6,33,2,1,1,0,#1,0,0);
 VoicePlay("B040606401_06_040");
 MsgDisp("Himuro","You still only caught three.
 It's nothing to be proud of.");

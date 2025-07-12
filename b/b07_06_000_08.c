@@ -40,6 +40,6 @@ MsgDisp("主人公","(I see... that's a good point.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(6,-1);
-ChMouthOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
+ChMouthOpenLevel(6,#1);
 ChCheek(6,0);

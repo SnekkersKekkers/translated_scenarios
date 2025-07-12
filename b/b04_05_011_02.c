@@ -59,7 +59,7 @@ in comparison I am dishonest.");
         MsgDisp("主人公","Eh, that's not true?");
         ChMouth(5,4);
         ChMotion(5,2);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040501102_05_060");
         MsgDisp("Hiiragi","I wonder why?
 I seem to become childish
@@ -84,7 +84,7 @@ Can we walk around once holding hands?");
         ChClose(5,0,30);
         ChLayout(0);
         MsgClose();
-        ChOpen(5,255,0,4,4,-1,-1,7,0,0,30);
+        ChOpen(5,255,0,4,4,#1,#1,7,0,0,30);
         VoicePlay("B040501102_05_090");
         MsgDisp("Hiiragi","Thank you.");
         ChMotion(5,4);

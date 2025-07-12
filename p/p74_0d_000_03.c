@@ -6,8 +6,8 @@ MsgDisp("主人公","(Uugh, I fell...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
-ChOpen(21,254,4,4,4,-1,-1,0,1);
-ChOpen(22,254,0,2,2,-1,-1,0,2);
+ChOpen(21,254,4,4,4,#1,#1,0,1);
+ChOpen(22,254,0,2,2,#1,#1,0,2);
 VoicePlay("P740D00003_21_000");
 MsgDisp("Michiru","Good work.
 I guess it was a bit hard 

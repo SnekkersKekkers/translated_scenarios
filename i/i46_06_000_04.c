@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     case 2:
     case 3:
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,35,0,0,0,-1,-1,0,0);
+    ChOpen(6,35,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, should I mist this one a bit?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -58,7 +58,7 @@ Then, I'll take this, please.");
 　　　　　　　　　　 ・");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,35,3,0,0,-1,-1,0,0);
+    ChOpen(6,35,3,0,0,#1,#1,0,0);
     VoicePlay("I460600004_06_040");
     MsgDisp("Himuro","Your customer service is on point.
 Perfect choice.");

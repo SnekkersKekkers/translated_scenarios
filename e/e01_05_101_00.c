@@ -7,7 +7,7 @@ MsgDisp("主人公","｛柊＊＊＊｝?
 What are you doing infront of the store?");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
-ChOpen(5,255,3,0,4,-1,-1,0,0);
+ChOpen(5,255,3,0,4,#1,#1,0,0);
 VoicePlay("E010510100_05_000");
 MsgDisp("Hiiragi","Oh, it's you.
 Good timing.
@@ -83,6 +83,6 @@ MsgDisp("主人公","(｛柊＊＊＊｝'s way of thinking
 is a bit complicated......)");
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

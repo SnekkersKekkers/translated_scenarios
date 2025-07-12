@@ -37,7 +37,7 @@ I'll believe in your words...");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040520001_05_030");
     MsgDisp("Hiiragi","Really!
 The intermediate course might be near.");

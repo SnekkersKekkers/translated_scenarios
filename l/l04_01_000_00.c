@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     VoicePlay("L040100000_01_000");
     MsgDisp("Kazama","You're finally here.");
     MsgDisp("主人公","Hehe, thanks for waiting.
@@ -24,7 +24,7 @@ Here, Valentine's chocolate.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ChMotion(1,3);
     VoicePlay("L040100000_01_010");
     MsgDisp("Kazama","Oh, you're fast.
@@ -58,7 +58,7 @@ Valentine's chocolate.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","｛風真＊＊｝!
 I was looking for you.");
     ChEye(1,0);

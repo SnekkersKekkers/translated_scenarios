@@ -6,8 +6,8 @@ MsgDisp("主人公","...Ah!
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,1);
-ChOpen(3,254,0,0,0,-1,-1,0,2);
+ChOpen(4,254,0,0,0,#1,#1,0,1);
+ChOpen(3,254,0,0,0,#1,#1,0,2);
 VoiceEVSPlay(3);
 VoicePlay("F100440001_03_000");
 MsgDisp("Honda","｛主人公｝.");
@@ -67,7 +67,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 ChNanaType(0);
-ChOpen(4,254,0,1,1,-1,-1,0,1,0,60);
+ChOpen(4,254,0,1,1,#1,#1,0,1,0,60);
 ChMotion(4,2,1);
 VoicePlay("F100440001_04_010");
 MsgDisp("Nanatsumori","Dahon.

@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,254,0,3,3,-1,-1,0,0);
+    ChOpen(1,254,0,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(1,3);
     VoicePlay("H1A0100000_01_000");
@@ -34,7 +34,7 @@ I'm glad I did my best for the club!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,254,0,4,3,-1,-1,0,0);
+    ChOpen(1,254,0,4,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0100000_01_030");
     MsgDisp("Kazama","Thank goodness.
@@ -53,7 +53,7 @@ What should I do, I'm so happy......");
     ChClose(1,0,30);
     ChLayout(0);
     MsgClose();
-    ChOpen(1,254,0,4,3,-1,-1,0,0,0,30);
+    ChOpen(1,254,0,4,3,#1,#1,0,0,0,30);
     VoicePlay("H1A0100000_01_050");
     MsgDisp("Kazama","Isn't it fine?
 You don't have to hold back your tears.");
@@ -75,7 +75,7 @@ so I wasn't a huge fan of it, you know?");
     MsgClose();
     SEPlay("EV_SE_552",0,0.5);
     Wait(10,1);
-    ChOpen(1,254,0,4,3,-1,-1,0,0,0,0);
+    ChOpen(1,254,0,4,3,#1,#1,0,0,0,0);
     ScrFadeIn(0);
     SEWait();
     VoicePlay("H1A0100000_01_080");

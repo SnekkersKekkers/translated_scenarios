@@ -10,6 +10,6 @@ Let's go to the roller
 coasters first, then.");
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(21,-1);
-ChMouthOpenLevel(21,-1);
+ChEyeOpenLevel(21,#1);
+ChMouthOpenLevel(21,#1);
 ChCheek(21,0);

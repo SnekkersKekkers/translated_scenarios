@@ -2,7 +2,7 @@ SEPlay("EV_SE_518");
 SEWait();
 ChLayout(1);
 MsgClose();
-ChOpen(6,255,0,0,2,-1,-1,0,0);
+ChOpen(6,255,0,0,2,#1,#1,0,0);
 VoicePlay("B040602401_06_000");
 MsgDisp("Himuro","...What's this.");
 MsgSel("I was surprised!","Art is complicated...","Ahaha, what a weird sound!");

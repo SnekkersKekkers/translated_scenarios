@@ -1,8 +1,8 @@
 BGOpen("wf330",0);
 BGMPlay("BGM_PLACE_AQUA_DEEP",0.01);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 ChEye(4,0);
 ChMouth(4,0);
@@ -13,7 +13,7 @@ VoicePlay("B040403302_04_000");
 MsgDisp("Nanatsumori","Hmmー......
 as I get used to looking at them, 
 these guys start to seem kinda cute...");
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 MsgSel("Yeah, they're creepy cute▼","Hmmm....","They're not cute at all");
 switch (MsgSelRsltGet()){
     case 0:

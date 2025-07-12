@@ -20,8 +20,8 @@ That——");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,1);
-ChOpen(21,254,0,0,0,-1,-1,0,2);
+ChOpen(4,254,0,0,0,#1,#1,0,1);
+ChOpen(21,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","｛七ツ森＊｝, ｛みちる＊｝!
 I also want to hear what 
 you're talking about.");

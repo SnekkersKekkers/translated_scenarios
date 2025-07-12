@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 4:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("J040100000_01_000");
     MsgDisp("Kazama","There you are.");
@@ -48,7 +48,7 @@ I wonder if he wanted something?)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("J040100000_01_030");

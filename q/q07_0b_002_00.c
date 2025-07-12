@@ -4,10 +4,10 @@ ScrFadeIn(0);
 MsgDisp("主人公","Wow, so cute. The building and the flowers
 and cobblestones are all so pretty!");
 MsgClose();
-ChOpen(1,254,0,0,3,10,-1,0,0,0,30);
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(1,254,0,0,3,10,#1,0,0,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

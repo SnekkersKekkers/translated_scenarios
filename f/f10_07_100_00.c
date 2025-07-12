@@ -17,7 +17,7 @@ MsgDisp("主人公","Please pardon me.");
 MsgClose();
 BGOpen("sc351",0);
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("F100710000_07_010");
@@ -59,7 +59,7 @@ Wait(60,0);
 MsgDisp("主人公","｛御影＊＊｝, thank you for the tea.
 The school bell has rung.");
 MsgClose();
-ChOpen(7,37,1,0,0,-1,-1,0,0);
+ChOpen(7,37,1,0,0,#1,#1,0,0);
 VoicePlay("F100710000_07_050");
 MsgDisp("Mikage","I don't mind.
 Well, let's go.");

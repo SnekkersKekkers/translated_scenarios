@@ -4,7 +4,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100001_01_000");
     MsgDisp("Kazama","Hmm, I think I ranked quite high.");
@@ -25,7 +25,7 @@ I'll have you know I was quite motivated.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100001_01_030");
     MsgDisp("Kazama","Did you make it?");
@@ -59,7 +59,7 @@ I'll really have to do better than this.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,254,1,0,2,-1,-1,0,0);
+    ChOpen(1,254,1,0,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100001_01_070");
     MsgDisp("Kazama","Hmm, this is bad.");

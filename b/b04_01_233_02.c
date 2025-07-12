@@ -2,7 +2,7 @@ BGOpen("tr440",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,2,2,8,-1,0,0);
+ChOpen(1,255,0,2,2,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123302_01_000");
 MsgDisp("Kazama","Haa... I get it, 
@@ -78,7 +78,7 @@ cream or something. Let's go.");
 always worrying about me.)");
         MsgClose();
         ScrFadeOut(0,0);
-        ChOpen(1,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);
@@ -98,7 +98,7 @@ you going through scary
 stuff like that.");
     MsgDispSksp(1,0);
     ChMotion(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

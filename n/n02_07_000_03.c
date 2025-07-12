@@ -5,7 +5,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700003_07_000");
     MsgDisp("Mikage","｛主人公｝. Are you okay?
@@ -25,7 +25,7 @@ do it, right?");
     break ;
     case 3:
     MsgClose();
-    ChOpen(7,254,3,2,0,-1,-1,0,0);
+    ChOpen(7,254,3,2,0,#1,#1,0,0);
     VoicePlay("N020700003_07_020");
     MsgDisp("Mikage","Come on, this must be a joke.
 This score is very concerning.");
@@ -58,7 +58,7 @@ I have to study harder...)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,254,0,2,0,-1,-1,0,0);
+    ChOpen(7,254,0,2,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700003_07_060");
     MsgDisp("Mikage","｛主人公｝, this isn't funny at all.");

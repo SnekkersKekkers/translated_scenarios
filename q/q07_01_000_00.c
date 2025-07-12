@@ -2,7 +2,7 @@ BGMPlay("BGM_PLACE_TRAVEL",0.01);
 BGOpen("sc820",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","The windmill is so pretty.");
 ChEye(1,0);

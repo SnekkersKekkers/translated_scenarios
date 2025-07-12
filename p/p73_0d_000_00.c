@@ -7,8 +7,8 @@ I'm nervous...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
-ChOpen(21,254,0,0,0,-1,-1,0,1);
-ChOpen(22,254,0,0,3,-1,-1,0,2);
+ChOpen(21,254,0,0,0,#1,#1,0,1);
+ChOpen(22,254,0,0,3,#1,#1,0,2);
 ChMotion(22,4,1);
 VoicePlay("P730D00000_22_000");
 MsgDisp("Hikaru","Hii～ Mari!

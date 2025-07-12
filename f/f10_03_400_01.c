@@ -1,7 +1,7 @@
 BGOpen("sc530",0);
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,254,0,0,4,-1,-1,0,0);
+ChOpen(3,254,0,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
@@ -55,7 +55,7 @@ MsgDisp("Honda","Found you∈");
 ChPosition(3,1);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2);
+ChOpen(4,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","You were right!
 Amazing, ｛本多＊＊｝.");
 ChEye(4,2);

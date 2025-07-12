@@ -46,7 +46,7 @@ ChCheek(4,5);
 VoicePlay("B070400001_04_580");
 MsgDisp("Nanatsumori","…………");
 ChMotion(4,2,1);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("B070400001_04_590");
 MsgDisp("Nanatsumori","Stop staring at me now.
 My heart's pounding, it really spread...");
@@ -54,6 +54,6 @@ MsgDisp("主人公","(I passed on my heart racing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

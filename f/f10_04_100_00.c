@@ -8,7 +8,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C04_NANA_A");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("F100410000_04_000");
 MsgDisp("Nanatsumori","Yo.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝. Are you changing
@@ -32,7 +32,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,0.8);
 SEWait();
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,2,3,-1,-1,0,0,0,60);
+ChOpen(4,254,0,2,3,#1,#1,0,0,0,60);
 VoicePlay("F100410000_04_020");
 MsgDisp("Nanatsumori","Huh, I really did.
 Thank you.");

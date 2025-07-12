@@ -9,8 +9,8 @@ MsgDisp("Hiiragi?","Yes, I'll try it next time.");
 MsgDisp("主人公","(Huh, that voice just now...)");
 BGMPlay("BGM_HANYOU_C",0.01);
 MsgClose();
-ChOpen(5,254,4,0,4,-1,-1,0,1);
-ChOpen(7,254,0,0,0,-1,-1,0,2);
+ChOpen(5,254,4,0,4,#1,#1,0,1);
+ChOpen(7,254,0,0,0,#1,#1,0,2);
 VoiceEVSPlay(5);
 VoicePlay("F100540000_05_010");
 MsgDisp("Hiiragi","｛主人公｝, good afternoon.

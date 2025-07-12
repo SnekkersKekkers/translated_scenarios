@@ -1,7 +1,7 @@
 BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc822",0);
 MsgClose();
-ChOpen(3,254,3,3,3,-1,-1,0,0);
+ChOpen(3,254,3,3,3,#1,#1,0,0);
 ChLayout(1);
 ChEye(3,3);
 ChMouth(3,3);

@@ -29,7 +29,7 @@ reasoning come from your mouth.");
     MsgDisp("Kazama","Yeah, it is.
 Even now.");
     ChMouth(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

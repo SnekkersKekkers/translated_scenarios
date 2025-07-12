@@ -3,7 +3,7 @@ ChLayout(1);
 switch (ChPrmGet(4,6)){
     case 3:
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0);
+    ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0400000_04_000");
     MsgDisp("Nanatsumori","You did it.");
@@ -21,7 +21,7 @@ the baseball club manager!)");
     case 4:
     case 5:
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0);
+    ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0400000_04_020");
     MsgDisp("Nanatsumori","Congrats on the win.");

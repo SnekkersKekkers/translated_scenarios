@@ -6,7 +6,7 @@ MsgDisp("主人公","(Uuugh, I fell...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,2,4,4,-1,-1,0,0);
+ChOpen(31,254,2,4,4,#1,#1,0,0);
 VoicePlay("P743100003_31_000");
 MsgDisp("Goro","Oh dear.
 Even when you fall, do it gracefully 

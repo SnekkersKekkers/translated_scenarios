@@ -1,7 +1,7 @@
 BGOpen("sc605",0);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,3,-1,-1,0,0);
+ChOpen(4,254,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like things have 

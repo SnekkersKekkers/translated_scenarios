@@ -116,7 +116,7 @@ StlClose();
 BGMVol(0.5,2);
 BGOpen("tr300",1);
 MsgClose();
-ChOpen(8,255,0,3,3,0,-1,0,0);
+ChOpen(8,255,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050800200_08_160");
 MsgDisp("Shirahane","You and the fireflies gave me courage.");

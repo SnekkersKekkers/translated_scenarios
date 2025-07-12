@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,30,0,0,4,-1,-1,0,0);
+    ChOpen(5,30,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020500001_05_000");
     MsgDisp("Hiiragi","That was quite close.
@@ -16,7 +16,7 @@ I should've tried harder.)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,30,0,4,4,-1,-1,0,0);
+    ChOpen(5,30,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020500001_05_010");
     MsgDisp("Hiiragi","You put all your effort into pulling.
@@ -27,7 +27,7 @@ I should've tried harder.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,30,0,4,4,-1,-1,0,0);
+    ChOpen(5,30,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("O020500001_05_020");

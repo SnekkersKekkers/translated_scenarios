@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(｛大地＊＊｝ still isn't here...)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(35,254,0,1,0,-1,-1,0,0);
+ChOpen(35,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110800002_35_000");
 MsgDisp("Guy","Ah～, damn, damn, no good.
 If you frown, it becomes a habit.
@@ -24,7 +24,7 @@ ChPosition(35,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,253,0,2,4,-1,-1,0,1);
+ChOpen(8,253,0,2,4,#1,#1,0,1);
 ScrFadeIn(0);
 VoicePlay("B110800002_08_000");
 MsgDisp("Shirahane","what an impatient person...

@@ -29,7 +29,7 @@ ScrQuake(5);
 MsgDisp("主人公","Whoa!");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("A020600100_06_030");
 MsgDisp("Himuro?","Excuse me.");
 MsgDisp("主人公","Ah, it's fine......");
@@ -42,7 +42,7 @@ VoicePlay("A020600100_32_030");
 MsgDisp("V.P. Himuro","——You.");
 MsgDisp("主人公","Y-YES!");
 SEPlay("EV_SE_544");
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020600100_32_040");
 MsgDisp("V.P. Himuro","......Your tie is crooked.
 Fix it.");

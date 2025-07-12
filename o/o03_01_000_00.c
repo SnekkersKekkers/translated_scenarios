@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030100000_01_000");
     MsgDisp("Kazama","It's a given if it's us, right?");
@@ -15,7 +15,7 @@ We won!)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030100000_01_010");
     MsgDisp("Kazama","We should have won, and we did.");
@@ -41,7 +41,7 @@ satisfied by winning first?)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(1,3);
     ChMotion(1,3);

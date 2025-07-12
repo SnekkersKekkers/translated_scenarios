@@ -20,7 +20,7 @@ StlNear(1,0,15);
 VoicePlay("U160D00004_21_000");
 MsgDisp("Michiru","I know what you mean.
 That rose wants to be with Mari.");
-StlEyeOpenLevel(21,-1);
+StlEyeOpenLevel(21,#1);
 StlEye(22,0);
 StlMouth(22,0);
 VoicePlay("U160D00004_22_020");

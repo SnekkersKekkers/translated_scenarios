@@ -5,7 +5,7 @@ MsgDisp("主人公","Haa...I missed a note.
 I inconvenienced everyone.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("P553200005_32_000");
 MsgDisp("VP Himuro","What are you doing 
 by yourself here?");

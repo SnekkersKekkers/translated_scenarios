@@ -10,8 +10,8 @@ But they were in trouble, weren't they?");
 MsgDisp("主人公","(Huh?　Those voices......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(8,255,4,2,2,-1,-1,0,1);
-ChOpen(9,35,0,0,0,-1,-1,0,2);
+ChOpen(8,255,4,2,2,#1,#1,0,1);
+ChOpen(9,35,0,0,0,#1,#1,0,2);
 VoicePlay("E010830000_08_010");
 MsgDisp("Daichi","That's true but......
 But it troubled me too....");
@@ -61,7 +61,7 @@ ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 MsgDisp("Daichi","Ahh......
 I was really looking forward to it......");
-ChEyeOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
 VoicePlay("E010830000_09_040");
 ChMotion(9,0,1);
 MsgDisp("Kuya","Sorry about that.
@@ -117,7 +117,7 @@ MsgDisp("Kuya","Haha! I guess Dai-chan
 hasn't changed much at all.");
 MsgDisp("主人公","Hehe!
 You two really get along well.");
-ChEyeOpenLevel(9,-1);
+ChEyeOpenLevel(9,#1);
 VoicePlay("E010830000_08_080");
 ChEye(8,3);
 ChMouth(8,3);

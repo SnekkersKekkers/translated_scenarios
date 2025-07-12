@@ -12,7 +12,7 @@ But as expected, I'm still anxious.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530600001_06_000");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
@@ -60,7 +60,7 @@ But as expected, I'm still anxious.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530600001_06_050");
     MsgDisp("Himuro","You're here.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!

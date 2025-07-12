@@ -40,7 +40,7 @@ I'll come back here.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(25,0);
 MsgClose();
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 ChEye(7,1);
 ChMouth(7,3);
 ChMotion(7,3);

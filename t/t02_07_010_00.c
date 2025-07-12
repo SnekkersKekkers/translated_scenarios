@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C07_MIKAGE_KOKU",0.01);
 ChLayout(0);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛御影＊＊｝......
 Why are you here?");
 ChEye(7,0);
@@ -124,7 +124,7 @@ ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,7);
 ChEyeOpenLevel(7,8);
-ChOpen(7,254,0,0,0,-1,-1,0,0,0,120);
+ChOpen(7,254,0,0,0,#1,#1,0,0,0,120);
 VoicePlay("T020701000_07_150");
 MsgDisp("Mikage","Yeah, what I feel for you......
 is love.");

@@ -7,7 +7,7 @@ switch (ChPrmGet(21,6)){
     break ;
     case 3:
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
-    ChOpen(21,254,0,0,4,-1,-1,0,0);
+    ChOpen(21,254,0,0,4,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H3A2100001_21_000");
@@ -27,7 +27,7 @@ the judo club.)");
     case 4:
     case 5:
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
-    ChOpen(21,254,3,0,0,-1,-1,0,0);
+    ChOpen(21,254,3,0,0,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H3A2100001_21_020");

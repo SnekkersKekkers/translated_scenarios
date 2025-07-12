@@ -11,9 +11,9 @@ VoicePlay("E010220200_04_000");
 MsgDisp("Nanatsumori?","Yeah, you should use it well.");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(2,255,0,0,4,-1,-1,0,1);
+ChOpen(2,255,0,0,4,#1,#1,0,1);
 ChNanaType(0);
-ChOpen(4,255,0,0,0,-1,-1,0,2);
+ChOpen(4,255,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","｛颯砂＊＊｝, ｛七ツ森＊｝!
 Going out together?");
 ChEye(2,0);

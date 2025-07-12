@@ -3,7 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Yay, I made it here on time.)");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("D010700600_07_000");
 MsgDisp("Mikage","｛主人公｝, you're the best.");
@@ -38,7 +38,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(7,254,0,2,0,-1,-1,0,0);
+ChOpen(7,254,0,2,0,#1,#1,0,0);
 VoicePlay("D010700600_07_040");
 MsgDisp("Mikage","Nobody is coming. Even if the two of us
 call it an extracurricular lesson......
@@ -117,7 +117,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ne000",0);
 MsgClose();
-ChOpen(7,254,1,2,3,-1,-1,0,0);
+ChOpen(7,254,1,2,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700600_07_110");
 MsgDisp("Mikage","A complete defeat～");

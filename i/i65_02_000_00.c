@@ -12,7 +12,7 @@ Thank you very much～!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     SEStop("EV_SE_589",3);
-    ChOpen(2,255,3,0,3,-1,-1,0,0);
+    ChOpen(2,255,3,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I650200000_02_000");
     MsgDisp("Sassa","｛主人公｝,
@@ -59,7 +59,7 @@ Thank you very much～!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     SEStop("EV_SE_589",3);
-    ChOpen(2,40,3,0,4,-1,-1,0,0);
+    ChOpen(2,40,3,0,4,#1,#1,0,0);
     VoicePlay("I650200000_02_050");
     MsgDisp("Sassa","You're working hard today, too!");
     MsgDisp("主人公","Ah, are you on a run,
@@ -109,7 +109,7 @@ Thank you very much～!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     SEStop("EV_SE_589",3);
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("I650200000_02_100");
     MsgDisp("Sassa","You're energetic today, too.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
@@ -154,7 +154,7 @@ I'll come again～");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     Wait(90,0);
     MsgClose();
-    ChOpen(2,255,0,0,4,-1,-1,0,0);
+    ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoicePlay("I650200000_02_130");
     MsgDisp("Sassa","Thanks.
 Thanks to you, I'm completely refreshed.");

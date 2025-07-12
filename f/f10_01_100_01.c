@@ -23,7 +23,7 @@ MsgClose();
 SEStop("EV_SE_SCHOOL_002",3);
 SEStop("EV_SE_788",3);
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,254,0,0,2,-1,-1,0,0);
+ChOpen(1,254,0,0,2,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("F100110001_01_000");
 MsgDisp("Kazama","What's wrong, ｛主人公｝?

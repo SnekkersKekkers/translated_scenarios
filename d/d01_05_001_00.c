@@ -17,7 +17,7 @@ MsgDisp("主人公","Like I thought, nice weather......");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(5,254,0,0,4,-1,-1,0,0);
+ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("D010500100_05_000");
 MsgDisp("Hiiragi","Good afternoon.
 Are you eating lunch?");
@@ -98,7 +98,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGMVol(0.5,2);
 BGOpen("sc230",0);
 MsgClose();
-ChOpen(5,254,0,4,4,-1,-1,0,0);
+ChOpen(5,254,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(5,3);
 Wait(24,1);

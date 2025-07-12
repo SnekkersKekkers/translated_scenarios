@@ -6,7 +6,7 @@ MsgDisp("Michiru?","......There you are!");
 MsgDisp("主人公","?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.5);
-ChOpen(21,35,3,0,3,-1,-1,0,0);
+ChOpen(21,35,3,0,3,#1,#1,0,0);
 VoicePlay("D012100100_21_010");
 MsgDisp("Michiru","Hey, Mari, do you have some time?");
 MsgClose();
@@ -36,7 +36,7 @@ VoicePlay("D012100100_21_040");
 MsgDisp("Michiru","I wanted them to look pretty
 but also have a mild and sweet taste.");
 MsgDisp("主人公","I'm curious to know how they taste......!");
-StlEyeOpenLevel(21,-1);
+StlEyeOpenLevel(21,#1);
 VoicePlay("D012100100_21_050");
 MsgDisp("Michiru","Right?
 Why don't you give them a try.");

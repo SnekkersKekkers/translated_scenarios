@@ -17,7 +17,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,0,0,0,-1,-1,0,0);
+ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("G110100700_01_000");
@@ -44,7 +44,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G110100700_01_030");
 MsgDisp("Kazama","......Hm?
 I wonder why that is?");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,0);

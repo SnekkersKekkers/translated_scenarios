@@ -17,7 +17,7 @@ MsgDisp("Shirahane?","｛主人公｝.");
 MsgDisp("主人公","Huh...");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(8,255,0,0,0,-1,-1,5,0);
+ChOpen(8,255,0,0,0,#1,#1,5,0);
 MsgDisp("主人公","｛大地＊＊｝∋
 What are you doing here...");
 ChEye(8,4);
@@ -194,7 +194,7 @@ ScrFadeOut(0);
 StlClose();
 BGOpen("ex000",2);
 MsgClose();
-ChOpen(8,255,0,0,0,-1,-1,8,0);
+ChOpen(8,255,0,0,0,#1,#1,8,0);
 ScrFadeIn(0);
 VoicePlay("R080800000_08_200");
 MsgDisp("Shirahane","Well then... our hangout for

@@ -118,7 +118,7 @@ That's a violation of privacy.");
         MsgClose();
         ScrFadeOut(0);
         MsgClose();
-        ChOpen(6,253,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(6,253,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

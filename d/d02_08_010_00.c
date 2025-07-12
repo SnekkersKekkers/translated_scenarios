@@ -2,7 +2,7 @@ BGOpen("wf400",0);
 ChLayout(1);
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,254,2,4,0,-1,-1,0,0);
+ChOpen(8,254,2,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020801000_08_000");
 MsgDisp("Shirahane","Phew......Exams are finally over.");

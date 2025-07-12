@@ -6,7 +6,7 @@ insect encyclopedia huh......
 What a splendid book......)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,0,0,0,-1,-1,0,0);
+ChOpen(3,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300800_03_000");
 MsgDisp("Honda","｛主人公｝,
@@ -24,7 +24,7 @@ ScrFadeOut(0);
 ChClose(3,0,0);
 MsgClose();
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,1,-1,-1,0,0);
+ChOpen(3,100,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300800_03_020");
 MsgDisp("Honda","Check this out.

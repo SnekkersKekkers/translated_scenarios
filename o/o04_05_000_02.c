@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,30,0,3,2,-1,-1,0,0);
+    ChOpen(5,30,0,3,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040500002_05_000");
     MsgDisp("Hiiragi","The same score?　What a coincidence.");
@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,30,0,2,2,9,-1,0,0);
+    ChOpen(5,30,0,2,2,9,#1,0,0);
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("O040500002_05_010");
@@ -25,7 +25,7 @@ Aah, I have regrets about my last toss.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,30,0,3,3,-1,-1,0,0);
+    ChOpen(5,30,0,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040500002_05_020");
     MsgDisp("Hiiragi","We weren't victorious, but I still

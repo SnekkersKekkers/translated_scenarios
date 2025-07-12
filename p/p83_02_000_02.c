@@ -25,7 +25,7 @@ Management will talk to them.");
     SEWait();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,0,0,4,-1,-1,0,0);
+    ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200002_02_000");
     MsgDisp("Sassa","｛主人公｝, 
@@ -79,7 +79,7 @@ Management will talk to them.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,4,0,0,-1,-1,0,0);
+    ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoicePlay("P830200002_02_040");
     MsgDisp("Sassa","It's me.
 You seem like you're having a tough time.

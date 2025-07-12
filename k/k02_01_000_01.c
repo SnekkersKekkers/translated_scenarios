@@ -9,7 +9,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A");
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("K020100001_01_000");
 MsgDisp("Kazama","｛主人公｝.

@@ -11,9 +11,9 @@ Yay!");
 MsgDisp("主人公","(Hm? These voices...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(6,254,2,1,1,0,-1,10,0,0,30);
-ChOpen(22,254,0,0,0,-1,-1,0,2,0,30);
-ChOpen(21,254,0,0,3,-1,-1,0,1,0,30);
+ChOpen(6,254,2,1,1,0,#1,10,0,0,30);
+ChOpen(22,254,0,0,0,#1,#1,0,2,0,30);
+ChOpen(21,254,0,0,3,#1,#1,0,1,0,30);
 VoicePlay("F100630002_21_000");
 MsgDisp("Michiru","Thank you very much, 
 Himuro-chan.");

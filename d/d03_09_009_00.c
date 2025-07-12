@@ -5,7 +5,7 @@ MsgDisp("主人公","(Huh? Over there......is that who I think
 it is?)");
 BGMPlay("BGM_C09_KUYA_A",0.01);
 MsgClose();
-ChOpen(9,254,0,0,0,-1,-1,0,0);
+ChOpen(9,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Kuya-san!");
 ChEye(9,3);
 ChMouth(9,0);

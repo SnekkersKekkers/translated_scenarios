@@ -8,7 +8,7 @@ MsgDisp("Broadcast","Next up: Team Tug of War from the
 MsgClose();
 SEPlay("EV_SE_628");
 Wait(30,0);
-ChOpen(6,30,0,0,0,-1,-1,0,0);
+ChOpen(6,30,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝. You're participating in
 the Tug Of War, right?");
 ChEye(6,0);
@@ -49,7 +49,7 @@ SEStop("EV_SE_844",1.5);
 MsgClose();
 SEPlay("EV_SE_628");
 Wait(30,0);
-ChOpen(32,254,0,1,1,-1,-1,0,2);
+ChOpen(32,254,0,1,1,#1,#1,0,2);
 ChEye(6,0);
 VoicePlay("D010600200_32_000");
 MsgDisp("VP Himuro","Quiet down.");
@@ -190,7 +190,7 @@ But that was a really interesting match!)");
 MsgClose();
 SEPlay("EV_SE_628");
 Wait(30);
-ChOpen(6,30,2,1,0,0,-1,0,0);
+ChOpen(6,30,2,1,0,0,#1,0,0);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝, good job!
 Too bad, huh?");
 ChEye(6,0);

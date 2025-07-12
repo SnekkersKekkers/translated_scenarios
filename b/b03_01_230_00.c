@@ -56,7 +56,7 @@ get off.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     Wait(10,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     VoicePlay("B030123000_01_040");
     MsgDisp("Kazama","I wonder what color car will come.");
     break ;

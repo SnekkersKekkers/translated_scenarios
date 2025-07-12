@@ -5,7 +5,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C31_GORO_A",0.01);
 MsgClose();
-ChOpen(31,254,0,0,0,-1,-1,0,0);
+ChOpen(31,254,0,0,0,#1,#1,0,0);
 VoicePlay("D030900200_31_000");
 MsgDisp("Goro","Good day～
 How is search for rough diamonds going?");

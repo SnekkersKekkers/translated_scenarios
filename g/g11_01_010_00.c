@@ -16,7 +16,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,1,0,0,-1,-1,0,0);
+ChOpen(1,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","What did you want to talk about?");
 ChEye(1,0);
@@ -68,7 +68,7 @@ while (1){
     MsgDisp("Kazama","Hm? Did I talk too much?");
     ChEyeOpenLevel(1,0);
     Wait(10,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     }
 ChEye(1,2);
 ChMouth(1,2);

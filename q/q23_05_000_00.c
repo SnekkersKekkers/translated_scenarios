@@ -1,7 +1,7 @@
 BGOpen("sc813",2);
 ChLayout(1);
 MsgClose();
-ChOpen(5,30,5,3,2,-1,-1,0,0);
+ChOpen(5,30,5,3,2,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公"," ｛柊＊＊＊｝.");
 ChEye(5,2);

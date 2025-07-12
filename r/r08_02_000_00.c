@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGOpen("sc771",2);
 ChLayout(1);
 MsgClose();
-ChOpen(2,34,0,0,0,-1,-1,0,0);
+ChOpen(2,34,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("R080200000_02_000");

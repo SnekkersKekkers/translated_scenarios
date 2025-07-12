@@ -1,8 +1,8 @@
 BGOpen("sc210",0);
 ChLayout(1);
 MsgClose();
-ChOpen(21,254,0,0,4,-1,-1,0,1,0,0);
-ChOpen(6,254,0,0,0,-1,-1,0,2,0,0);
+ChOpen(21,254,0,0,4,#1,#1,0,1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,2,0,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, it's ｛みちる＊｝ and ｛氷室＊＊｝ )");

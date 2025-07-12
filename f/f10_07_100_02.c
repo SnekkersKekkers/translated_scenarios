@@ -18,7 +18,7 @@ SEWait();
 MsgClose();
 BGOpen("sc351",0);
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,255,0,2,0,-1,-1,0,0);
+ChOpen(7,255,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F100710002_07_010");
 MsgDisp("Mikage","O-Oh.
@@ -56,7 +56,7 @@ these casual clothes...");
 MsgDisp("主人公","Hehe, I'm glad.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoicePlay("F100710002_07_060");
 MsgDisp("Mikage","That was a narrow
 escape from death.");

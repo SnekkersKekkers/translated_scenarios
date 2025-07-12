@@ -19,7 +19,7 @@ switch (ChPrmGet(4,6)){
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     MsgDisp("主人公","Eh?
 Ah, I didn't say that to ｛七ツ森＊｝?");
     ChEye(4,2);
@@ -50,7 +50,7 @@ Next up is the bunny cafe!");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P830400002_04_030");
     MsgDisp("Nanatsumori","They're doing it, they're doing it.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝..");

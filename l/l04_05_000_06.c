@@ -55,7 +55,7 @@ time to properly face this chocolate.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     MsgDisp("主人公","(Ugh...... I wish I
 had tried a little harder.
 I bothered ｛柊＊＊＊｝.)");
@@ -71,7 +71,7 @@ I bothered ｛柊＊＊＊｝.)");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
-    ChMouthOpenLevel(5,-1);
+    ChMouthOpenLevel(5,#1);
     VoicePlay("L040500006_05_070");
     MsgDisp("Hiiragi","......Haha.");
     MsgDisp("主人公","Uh......

@@ -10,7 +10,7 @@ MsgClose();
 SEPlay("EV_SE_625");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,41,0,0,4,-1,-1,0,0);
+ChOpen(2,41,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 Were you running today too?");
 ChEye(2,2);
@@ -37,7 +37,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ev002",0);
 SEPlay("EV_SE_FOOT_037");
-ChOpen(2,100,1,1,0,-1,-1,0,0);
+ChOpen(2,100,1,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200400_02_030");
 MsgDisp("Sassa","You've gotten a lot better.

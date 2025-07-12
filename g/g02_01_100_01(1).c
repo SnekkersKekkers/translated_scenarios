@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,1,4,2,0,-1,0,0);
+ChOpen(1,255,1,4,2,0,#1,0,0);
 Wait(12,0);
 ChEye(1,0);
 VoicePlay("G020110001_01_000");
@@ -78,6 +78,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

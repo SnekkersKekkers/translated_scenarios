@@ -6,7 +6,7 @@ MsgDisp("主人公","(I'm running late...
 MsgDisp("主人公","I'm sorry for being late!");
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 MsgClose();
-ChOpen(7,253,0,0,0,-1,-1,0,0);
+ChOpen(7,253,0,0,0,#1,#1,0,0);
 VoicePlay("B010700000_07_000");
 MsgDisp("Mikage","Looks like there's no problem here.
 We're perfectly okay.");

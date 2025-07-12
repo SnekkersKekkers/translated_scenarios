@@ -12,7 +12,7 @@ MsgClose();
 SEPlay("EV_SE_DOOR_022");
 SEWait();
 BGMPlay("BGM_C09_KUYA_A",0.01);
-ChOpen(9,35,0,0,0,-1,-1,0,0);
+ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030901000_09_000");
 MsgDisp("Kuya","Excuse me.");
 MsgDisp("主人公","Eh, Kuya-san, what are you doing
@@ -58,7 +58,7 @@ MsgDisp("主人公","Yes!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(9,35,0,0,0,-1,-1,0,0);
+ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030901000_09_040");
 MsgDisp("Kuya","Good job.");
 MsgDisp("主人公","Ah, Kuya-san.

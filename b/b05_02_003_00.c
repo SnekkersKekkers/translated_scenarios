@@ -16,14 +16,14 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C31_GORO_A",0.01);
-ChOpen(31,254,2,0,0,-1,-1,0,0);
+ChOpen(31,254,2,0,0,#1,#1,0,0);
 VoicePlay("B050200300_31_010");
 MsgDisp("Goro","Mm, what a nice face♪");
 MsgDisp("主人公","Goro-sensei!!");
 ChPosition(31,1);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
-ChOpen(2,253,3,5,0,-1,-1,0,2);
+ChOpen(2,253,3,5,0,#1,#1,0,2);
 VoicePlay("B050200300_02_000");
 MsgDisp("Sassa","Eh?
 The world-renown fashion icon,
@@ -74,7 +74,7 @@ with ｛颯砂＊＊｝......?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(31,254,4,0,0,-1,-1,0,0);
+ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("B050200300_31_050");
 MsgDisp("Goro","We're B・a・c・k.");
 MsgDisp("主人公","Ah, welcome back.

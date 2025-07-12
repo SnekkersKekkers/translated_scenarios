@@ -1,6 +1,6 @@
 MsgClose();
 ChLayout(1);
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(7,6)){
     case 0:

@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,0,0,3,-1,-1,0,0);
+ChOpen(3,255,0,0,3,#1,#1,0,0);
 VoicePlay("B040302302_03_000");
 MsgDisp("Honda","Everyone is enjoying themselves in their
 own way, reading, running...");
@@ -64,7 +64,7 @@ it. Well, let's get started.");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
         MsgClose();
-        ChOpen(3,255,4,0,0,-1,-1,0,0);
+        ChOpen(3,255,4,0,0,#1,#1,0,0);
         VoicePlay("B040302302_03_060");
         MsgDisp("Honda","Hah...
 That feels good.");
@@ -95,7 +95,7 @@ Don't stare at me so hard!");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);
-        ChEyeOpenLevel(3,-1);
+        ChEyeOpenLevel(3,#1);
         VoicePlay("B040302302_03_100");
         MsgDisp("Honda","Why? I'm just interested in 
 everything about you, so I can't help it.");

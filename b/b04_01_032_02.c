@@ -63,7 +63,7 @@ I'll grab us drinks.");
         MsgDisp("?Boy","Found ya!");
         MsgDisp("主人公","(Found ya?)");
         SEPlay("EV_SE_544");
-        ChOpen(33,254,0,0,0,-1,-1,0,0);
+        ChOpen(33,254,0,0,0,#1,#1,0,0);
         SEWait();
         VoicePlay("B040103202_33_010");
         MsgDisp("Guy","You were hiding out here.
@@ -76,7 +76,7 @@ Little Miss Clione, right?");
         SEWait();
         ChPosition(33,1);
         MsgClose();
-        ChOpen(1,255,1,1,1,-1,-1,0,2,0,30);
+        ChOpen(1,255,1,1,1,#1,#1,0,2,0,30);
         ChEye(33,0);
         ChMouth(33,2);
         VoicePlay("B040103202_33_020");

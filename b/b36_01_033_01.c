@@ -57,7 +57,7 @@ MsgClose();
 ChClose(1,0,30);
 ChLayout(0);
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0,0,30);
+ChOpen(1,255,0,0,3,#1,#1,0,0,0,30);
 MsgDisp("主人公","Aren't you a bit close?");
 ChEye(1,4);
 ChMouth(1,3);

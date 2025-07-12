@@ -94,7 +94,7 @@ Wait(15,0);
 SEPlay("EV_SE_625");
 MsgClose();
 SEWait();
-ChOpen(2,254,0,2,0,-1,-1,0,0);
+ChOpen(2,254,0,2,0,#1,#1,0,0);
 VoicePlay("D010200800_02_100");
 MsgDisp("Sassa","I'm really such an idiot.
 I didn't think about you at all.");

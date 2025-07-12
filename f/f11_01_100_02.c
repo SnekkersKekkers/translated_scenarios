@@ -1,7 +1,7 @@
 BGOpen("sc710",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,2,1,0,-1,0,0);
+ChOpen(1,254,0,2,1,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F110110002_01_000");
 MsgDisp("Kazama","Hah...");
@@ -9,7 +9,7 @@ MsgDisp("主人公","｛風真＊＊｝, are you okay?
 You look tired.");
 ChMouth(1,2);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F110110002_01_010");
 MsgDisp("Kazama","Yeah, I dealt with everyone.
 I walked around with the Simon customers,

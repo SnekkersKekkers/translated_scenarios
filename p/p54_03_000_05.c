@@ -9,7 +9,7 @@ Even though it was the last cultural
 festival of my student life...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(3,254,0,4,0,-1,-1,0,0);
+ChOpen(3,254,0,4,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P540300005_03_000");
 MsgDisp("Honda","｛主人公｝.

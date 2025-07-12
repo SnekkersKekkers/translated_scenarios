@@ -17,7 +17,7 @@ seriously...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,0,0,0,-1,-1,0,0);
+    ChOpen(2,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730200002_02_010");
     MsgDisp("Sassa","It's nice.
 You're a bride this yearー");
@@ -71,7 +71,7 @@ make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,4,0,0,-1,-1,0,0);
+    ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoicePlay("P730200002_02_060");
     MsgDisp("Sassa","Is that a bride?");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.

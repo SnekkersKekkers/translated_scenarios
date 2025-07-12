@@ -5,7 +5,7 @@ switch (ChPrmGet(8,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(8,255,0,0,3,-1,-1,0,0);
+    ChOpen(8,255,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(8,3,1);
     VoicePlay("S090800000_08_000");
@@ -39,7 +39,7 @@ You're not going to∋");
     break ;
     case 3:
     MsgClose();
-    ChOpen(8,255,0,0,3,-1,-1,0,0);
+    ChOpen(8,255,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090800000_08_030");
     MsgDisp("Shirahane","Look there, that crowd of people
@@ -77,7 +77,7 @@ Let's go.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(8,255,3,0,3,-1,-1,0,0);
+    ChOpen(8,255,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090800000_08_060");
     MsgDisp("Shirahane","Fortunes.");

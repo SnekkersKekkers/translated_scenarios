@@ -9,7 +9,7 @@ MsgClear();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
-ChOpen(5,254,7,0,4,-1,-1,0,0);
+ChOpen(5,254,7,0,4,#1,#1,0,0);
 MsgDisp("主人公","｛柊＊＊＊｝......
 Why are you here?");
 ChEye(5,4);
@@ -135,7 +135,7 @@ ChEye(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 ChCheek(5,5);
 VoicePlay("T020500000_05_140");
 MsgDisp("Hiiragi","It was from that day that I was able to
@@ -155,7 +155,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020500000_05_160");
 MsgDisp("Hiiragi","You.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","！");
 ChEye(5,0);
 ChMouth(5,4);
@@ -180,7 +180,7 @@ SEPlay("EV_SE_544");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,7);
-ChOpen(5,254,0,0,0,-1,-1,0,0);
+ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020500000_05_190");
 MsgDisp("Hiiragi","I love you. I want the two of us to walk
 together forever.");

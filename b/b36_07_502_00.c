@@ -53,7 +53,7 @@ and Yanosuke cleaning.");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("wf200",1);
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(7,0);
 ChMouth(7,0);

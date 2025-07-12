@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,30,0,3,2,-1,-1,0,0);
+    ChOpen(5,30,0,3,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040500000_05_000");
     MsgDisp("Hiiragi","Ah, have we won?");
@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,30,0,3,3,-1,-1,0,0);
+    ChOpen(5,30,0,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(5,3);
     Wait(15,0);
@@ -26,7 +26,7 @@ The ball toss is quite fun.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,30,0,3,3,-1,-1,0,0);
+    ChOpen(5,30,0,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(5,3);
     Wait(10,0);

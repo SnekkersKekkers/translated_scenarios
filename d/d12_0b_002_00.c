@@ -1,12 +1,12 @@
 BGOpen("sc130",1);
 ChLayout(2);
 MsgClose();
-ChOpen(1,254,0,0,2,0,-1,0,0,0,30);
+ChOpen(1,254,0,0,2,0,#1,0,0,0,30);
 Wait(15,0);
-ChOpen(3,254,5,3,3,-1,-1,0,1,0,30);
+ChOpen(3,254,5,3,3,#1,#1,0,1,0,30);
 Wait(15,0);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 ChEye(1,0);
 VoicePlay("D120B00200_03_000");
@@ -83,7 +83,7 @@ StlMouth(4,0);
 VoicePlay("D120B00200_04_020");
 MsgDisp("Nanatsumori","......So.
 Why don't you explain it.");
-StlEyeOpenLevel(3,-1);
+StlEyeOpenLevel(3,#1);
 StlMouth(3,0);
 VoicePlay("D120B00200_03_020");
 MsgDisp("Honda","Right.
@@ -94,7 +94,7 @@ StlMouth(1,1);
 VoicePlay("D120B00200_01_040");
 MsgDisp("Kazama","I don't need any explanation.
 It's just natural.");
-StlEyeOpenLevel(4,-1);
+StlEyeOpenLevel(4,#1);
 VoicePlay("D120B00200_04_030");
 MsgDisp("Nanatsumori","You're making a move, huh......");
 StlEyeOpenLevel(3,5,1);
@@ -132,7 +132,7 @@ StlEyeOpenLevel(1,0);
 VoicePlay("D120B00200_01_070");
 MsgDisp("Kazama","So, it's be my victory.");
 MsgDisp("主人公","???");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("D120B00200_01_080");
 MsgDisp("Kazama","And I won't lose from now on.");
 StlEyeOpenLevel(3,5,1);

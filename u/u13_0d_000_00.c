@@ -1,9 +1,9 @@
 MsgDisp("主人公","｛風真＊＊｝, I guess......");
-StlEyeOpenLevel(21,-1);
-StlMouthOpenLevel(21,-1);
+StlEyeOpenLevel(21,#1);
+StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
-StlEyeOpenLevel(22,-1);
-StlMouthOpenLevel(22,-1);
+StlEyeOpenLevel(22,#1);
+StlMouthOpenLevel(22,#1);
 StlCheek(22,0);
 switch (ChPrmGet(1,6)){
     case 0:
@@ -42,7 +42,7 @@ The amazing childhood sweethearts.");
     MsgDisp("Michiru","I'm sure you two like each other
 but there seems to be a bit of distance.
 Neither too close nor too far.");
-    StlEyeOpenLevel(21,-1);
+    StlEyeOpenLevel(21,#1);
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
     VoicePlay("U130D00000_22_010");

@@ -10,7 +10,7 @@ Those author's books can be found
 on the shelf over there.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,35,0,0,4,-1,-1,0,0);
+    ChOpen(3,35,0,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_510");
     MsgDisp("Honda","......Splendid.");
     MsgDisp("主人公","Huh?");
@@ -57,7 +57,7 @@ I'm happy ｛本多＊＊｝ praised me!)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,35,4,0,4,-1,-1,0,0);
+    ChOpen(3,35,4,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_570");
     MsgDisp("Honda","......Hm?
 Isn't the store sparkling?");

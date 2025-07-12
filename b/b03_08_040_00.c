@@ -15,7 +15,7 @@ ScrFadeOut(0);
 ChClose(8,0,0);
 BGOpen("wf410",0);
 MsgClose();
-ChOpen(8,255,0,4,3,-1,-1,0,0);
+ChOpen(8,255,0,4,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(8,2);
 VoicePlay("B030804000_08_010");

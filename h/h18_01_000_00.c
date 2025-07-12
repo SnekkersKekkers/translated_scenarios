@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     ScrFadeIn(0);
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("H180100000_01_000");
     MsgDisp("Kazama","Yo.
 You're working pretty hard.");
@@ -38,7 +38,7 @@ Let's aim for the championship together!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(1,0);
     ChMouth(1,3);

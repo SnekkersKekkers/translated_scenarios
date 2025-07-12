@@ -11,7 +11,7 @@ switch (ChPrmGet(7,6)){
 cookie cafe. I think they both turned out
 delicious but...)");
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700000_07_000");
     MsgDisp("Mikage","Yoo, 
 how are the customers?");
@@ -39,7 +39,7 @@ A herb tea set coming up～!");
 cookie cafe. I think they both turned out
 delicious but...)");
     MsgClose();
-    ChOpen(7,254,0,2,0,-1,-1,0,0);
+    ChOpen(7,254,0,2,0,#1,#1,0,0);
     VoicePlay("P630700000_07_030");
     MsgDisp("Mikage","How is it, how is it?
 It's deserted huh?");
@@ -70,5 +70,5 @@ A herb tea set coming up～!");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

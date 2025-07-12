@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020540003_05_000");
 MsgDisp("Hiiragi","Lately, I've been finding conversations 
 with my father quite interesting.");
@@ -27,7 +27,7 @@ VoicePlay("G020540003_05_040");
 MsgDisp("Hiiragi","Yes......");
 ChEye(5,0);
 ChMotion(5,4);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020540003_05_050");
 MsgDisp("Hiiragi","Ah, I see. So that's it.");
 MsgDisp("主人公","Eh?");
@@ -45,13 +45,13 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020540003_05_080");
 MsgDisp("Hiiragi","Yeah......I see.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","(Your family is enjoying it too. That's
 great, ｛柊＊＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

@@ -2,7 +2,7 @@ SEPlay("EV_SE_700");
 BGOpen("sc815",2);
 ChLayout(1);
 MsgClose();
-ChOpen(5,30,0,2,2,9,-1,0,0);
+ChOpen(5,30,0,2,2,9,#1,0,0);
 ScrFadeIn(0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

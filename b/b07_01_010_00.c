@@ -25,7 +25,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,2);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("B070101000_01_020");
 MsgDisp("Kazama","Then, did you think about it?
 You said you'd think about it properly.");
@@ -124,7 +124,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for walking me home.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("B070101000_01_130");
 MsgDisp("Kazama","Yeah.");
 MsgDisp("主人公","｛風真＊＊｝, 

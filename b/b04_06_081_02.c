@@ -1,6 +1,6 @@
 BGOpen("fp210",0);
 ChLayout(1);
-ChOpen(6,253,0,0,0,-1,-1,0,0);
+ChOpen(6,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040608102_06_000");
 MsgDisp("Himuro","To think I would go cherry blossom

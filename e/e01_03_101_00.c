@@ -8,7 +8,7 @@ VoicePlay("E010310100_03_000");
 MsgDisp("Honda?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛本多＊＊｝.");
 ChEye(3,0);
 ChMouth(3,3);

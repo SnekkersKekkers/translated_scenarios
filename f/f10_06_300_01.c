@@ -15,14 +15,14 @@ MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 Umm, what is it this time?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(22,254,0,2,1,-1,-1,0,0);
+ChOpen(22,254,0,2,1,#1,#1,0,0);
 ChMotion(22,3,1);
 VoicePlay("F100630001_22_010");
 MsgDisp("Hikaru","Ah, Mari!
 Get this～!");
 ChPosition(22,1);
 MsgClose();
-ChOpen(21,254,0,0,0,-1,-1,0,2);
+ChOpen(21,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100630001_21_000");
 MsgDisp("Michiru","Hikaru asked Himuro-chan
 to refer to us in a cuter way.");

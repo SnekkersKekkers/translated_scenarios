@@ -98,7 +98,7 @@ MsgDisp("Honda",".........Mm!
 Mm-, mm!");
 MsgDisp("主人公","A-Are you okay∋");
 MsgClose();
-ChOpen(3,31,0,0,0,-1,-1,0,0,0,0);
+ChOpen(3,31,0,0,0,#1,#1,0,0,0,0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

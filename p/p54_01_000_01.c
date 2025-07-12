@@ -6,7 +6,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Haa... I failed...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540100001_01_000");
 MsgDisp("Kazama","You did everything you could?");
 MsgDisp("主人公","No, I should have practiced more.

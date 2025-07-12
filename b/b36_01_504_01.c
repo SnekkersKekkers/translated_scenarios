@@ -69,4 +69,4 @@ looks like an excited puppy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChOpen(1,255,7,0,0,-1,-1,0,0,0,0);
+ChOpen(1,255,7,0,0,#1,#1,0,0,0,0);

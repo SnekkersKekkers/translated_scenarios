@@ -2,9 +2,9 @@ BGOpen("sc530",0);
 ChLayout(2);
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(1,254,0,0,0,-1,-1,0,0,0,30);
-ChOpen(2,254,0,0,4,-1,-1,0,1,0,30);
-ChOpen(6,254,0,0,4,-1,-1,0,2,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
+ChOpen(2,254,0,0,4,#1,#1,0,1,0,30);
+ChOpen(6,254,0,0,4,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah, what are you all together 
 for and talking about?");
@@ -77,8 +77,8 @@ ChClose(2,0,30);
 ChClose(6,0,30);
 ChLayout(1);
 MsgClose();
-ChOpen(2,254,4,3,3,0,-1,0,1,0,30);
-ChOpen(6,254,0,0,4,-1,-1,0,2,0,30);
+ChOpen(2,254,4,3,3,0,#1,0,1,0,30);
+ChOpen(6,254,0,0,4,#1,#1,0,2,0,30);
 VoicePlay("D130A00000_02_020");
 MsgDisp("Sassa","Ryota was anxiously 
 looking around for you.");

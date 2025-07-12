@@ -15,7 +15,7 @@ MsgClose();
 MsgClose();
 BGOpen("ar600",0);
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,1,0,0,-1,-1,0,0);
+ChOpen(3,35,1,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
@@ -42,7 +42,7 @@ ScrFadeOut(0);
 ChClose(3,0,0);
 SEWait();
 BGOpen("ev003",0);
-ChOpen(3,100,1,0,1,-1,-1,0,0);
+ChOpen(3,100,1,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300200_03_030");
 MsgDisp("Honda","This one. It has really interesting

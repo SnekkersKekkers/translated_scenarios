@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","Welcome.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,3,-1,-1,0,0);
+    ChOpen(1,35,0,0,3,#1,#1,0,0);
     VoicePlay("I350100000_01_000");
     MsgDisp("Kazama","Wow, looking good.");
     MsgDisp("主人公","Ah, what's up, ｛風真＊＊｝?");
@@ -55,7 +55,7 @@ shop near Simon's......)");
 Ah, ｛風真＊＊｝, what's up?");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,3,-1,-1,0,0);
+    ChOpen(1,35,0,0,3,#1,#1,0,0);
     VoicePlay("I350100000_01_030");
     MsgDisp("Kazama","What, am I not allowed here?
 I was just thinking of having
@@ -77,7 +77,7 @@ Then, please have a seat here.");
 ......Yeah, it's delicious.");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,35,0,0,3,-1,-1,0,0,0,30);
+    ChOpen(1,35,0,0,3,#1,#1,0,0,0,30);
     ChEye(1,2);
     VoicePlay("I350100000_01_050");
     MsgDisp("Kazama","It's too bad, but time's up.
@@ -150,7 +150,7 @@ Thank you for your order.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     Wait(75,0);
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,3,-1,-1,0,0);
+    ChOpen(1,35,0,0,3,#1,#1,0,0);
     MsgDisp("主人公","Welcome.
 ......Hm, ｛風真＊＊｝?
 You said someone else would......");

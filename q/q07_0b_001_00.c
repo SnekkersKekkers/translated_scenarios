@@ -6,10 +6,10 @@ MsgDisp("主人公","Wow!
 The field is filled with golden flowers!
 So pretty......");
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0,0,30);
-ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,0,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
-ChOpen(4,254,0,0,3,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,3,#1,#1,0,2,0,30);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -84,9 +84,9 @@ MsgDisp("主人公","Such a big tower......!
 I feel as if I'm in a foreign country.");
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,3,-1,-1,0,0,0,30);
-ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(3,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,3,#1,#1,0,0,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,2,0,30);
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);

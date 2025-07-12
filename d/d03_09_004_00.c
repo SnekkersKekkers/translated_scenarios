@@ -17,7 +17,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C09_KUYA_A",0.01);
-ChOpen(9,35,0,0,0,-1,-1,0,0);
+ChOpen(9,35,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(9,4,1);
 VoicePlay("D030900400_09_000");
@@ -53,7 +53,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGMVol(0.5,2);
 MsgClose();
-ChOpen(9,35,0,2,4,-1,-1,0,0);
+ChOpen(9,35,0,2,4,#1,#1,0,0);
 MsgDisp("主人公","Let's get started with the interview.
 Thank you very much!");
 ChMotion(9,2,1);

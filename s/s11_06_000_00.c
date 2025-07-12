@@ -1,5 +1,5 @@
-ChEyeOpenLevel(6,-1);
-ChMouthOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
+ChMouthOpenLevel(6,#1);
 ChCheek(6,0);
 SEPlay("EV_SE_836");
 SEWait();

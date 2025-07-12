@@ -1,7 +1,7 @@
 BGOpen("ar600",0);
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,0,0,0,-1,-1,0,0);
+ChOpen(3,35,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(3,6)){
     case 0:

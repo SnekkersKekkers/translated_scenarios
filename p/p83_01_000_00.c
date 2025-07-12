@@ -18,7 +18,7 @@ property announcement?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,0);
@@ -62,7 +62,7 @@ That's mine.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,2,3,-1,-1,0,0);
+    ChOpen(1,254,0,2,3,#1,#1,0,0);
     MsgDisp("主人公","Ah... now that I think about it,
 I thought I had seen it before.");
     ChEye(1,0);
@@ -100,6 +100,6 @@ Hey, what do you mean by \"hehe\"?");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

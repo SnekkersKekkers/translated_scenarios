@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510302_05_000");
 MsgDisp("Hiiragi","It truly is beautiful......");
 VoicePlay("G020510302_05_010");
@@ -38,6 +38,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

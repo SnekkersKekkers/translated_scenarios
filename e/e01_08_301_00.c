@@ -5,7 +5,7 @@ MsgDisp("主人公","(Huh?
 That person over there is......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(8,255,0,0,0,-1,-1,0,0);
+ChOpen(8,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛大地＊＊｝!");
 ChEye(8,3);
 ChMotion(8,3,1);
@@ -26,7 +26,7 @@ It's nice seeing you out together.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChPosition(8,1);
-ChOpen(9,35,0,4,4,-1,-1,0,2);
+ChOpen(9,35,0,4,4,#1,#1,0,2);
 VoicePlay("E010830100_09_000");
 MsgDisp("Kuya","Dai-chan, sorry to keep you waiting.
 You are......");
@@ -45,7 +45,7 @@ ChEyeOpenLevel(8,10);
 VoicePlay("E010830100_08_020");
 MsgDisp("Daichi","Did everything go well,
 big bro?");
-ChEyeOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -58,7 +58,7 @@ ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 MsgDisp("主人公","Eh......
 Kuya-san did you perhaps......");
-ChEyeOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -113,7 +113,7 @@ VoicePlay("E010830100_09_070");
 MsgDisp("Kuya","Yeah, for sure. As a thank you for keeping
 Dai-chan company. What do you think?");
 MsgDisp("主人公","Well then, with pleasure!");
-ChEyeOpenLevel(9,-1);
+ChEyeOpenLevel(9,#1);
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,1,1);

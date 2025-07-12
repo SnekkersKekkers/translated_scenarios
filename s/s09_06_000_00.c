@@ -6,7 +6,7 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(6,255,4,0,0,8,-1,0,0);
+    ChOpen(6,255,4,0,0,8,#1,0,0);
     VoicePlay("S090600000_06_000");
     MsgDisp("Himuro","What's with that crowd of people?");
     MsgDisp("主人公","They're doing fortune telling.");
@@ -57,7 +57,7 @@ Let's go home then.");
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Wow......
 That's a lot of people.");
     ChEye(6,0);
@@ -121,7 +121,7 @@ Well then, let's go.");
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Thank you for holding my hand.
 I think I'm okay now.");
     ChEye(6,0);

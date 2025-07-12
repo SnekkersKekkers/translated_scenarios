@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0100001_01_000");
     MsgDisp("Kazama","Yo.");
@@ -43,7 +43,7 @@ I did my best.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0100001_01_040");
     MsgDisp("Kazama","That was a good match, wasn't it?");

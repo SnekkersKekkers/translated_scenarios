@@ -100,7 +100,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Haa, somehow it's over.");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(6,38,0,0,0,-1,-1,0,0);
+ChOpen(6,38,0,0,0,#1,#1,0,0);
 VoicePlay("P240600000_06_090");
 MsgDisp("Himuro","Sorry... about that.");
 MsgDisp("主人公","Eh...

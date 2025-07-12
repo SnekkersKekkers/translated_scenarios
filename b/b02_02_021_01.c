@@ -15,7 +15,7 @@ MsgDisp("主人公","Hehe, thank you.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
 VoicePlay("B020202101_02_020");
 MsgDisp("Sassa","Crap... Am I too excited already,
 just from meeting up with you?");

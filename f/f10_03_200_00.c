@@ -9,8 +9,8 @@ MsgDisp("Sassa?","Oh, yeah?
 Well, I'm training");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(2,254,3,0,4,-1,-1,0,2,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 MsgDisp("主人公","Ah, it's ｛本多＊＊｝ and ｛颯砂＊＊｝.
 What are you doing?");
 ChEye(3,0);

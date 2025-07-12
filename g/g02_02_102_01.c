@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,4,0,2,-1,-1,0,0);
+ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("G020210201_02_000");
 MsgDisp("Sassa","There are so many of them,
 but where do they hide during the day?");
@@ -51,6 +51,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

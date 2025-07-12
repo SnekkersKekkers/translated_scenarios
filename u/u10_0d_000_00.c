@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 MsgClose();
-ChOpen(21,254,0,0,0,-1,-1,0,1);
-ChOpen(22,254,0,0,3,-1,-1,0,2);
+ChOpen(21,254,0,0,0,#1,#1,0,1);
+ChOpen(22,254,0,0,3,#1,#1,0,2);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("U100D00000_21_000");

@@ -14,8 +14,8 @@ barefoot marathon runner
 a long time ago.");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(2,254,3,0,4,-1,-1,0,1);
-ChOpen(6,254,0,0,0,-1,-1,0,2);
+ChOpen(2,254,3,0,4,#1,#1,0,1);
+ChOpen(6,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100240002_02_010");
 MsgDisp("Sassa","Yo.
 Do you have PE next?");

@@ -21,7 +21,7 @@ BGMStop(2);
 SEPlay("EV_SE_GAYA_021");
 Wait(150,0);
 ChNanaType(0);
-ChOpen(4,30,0,0,2,8,-1,0,0,0,60);
+ChOpen(4,30,0,0,2,8,#1,0,0,0,60);
 SEStop("EV_SE_GAYA_021",3);
 ChMotion(4,2,1);
 VoicePlay("P240401000_04_000");

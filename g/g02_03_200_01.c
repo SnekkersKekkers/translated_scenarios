@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,4,0,4,-1,-1,0,0);
+ChOpen(3,255,4,0,4,#1,#1,0,0);
 VoicePlay("G020320001_03_000");
 MsgDisp("Honda","Hey, have you ever felt jealous?");
 MsgDisp("主人公","Eh?");
@@ -65,6 +65,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

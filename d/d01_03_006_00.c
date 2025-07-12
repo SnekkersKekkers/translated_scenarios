@@ -12,14 +12,14 @@ MsgDisp("Honda?","Ahh!");
 MsgDisp("主人公","Eh......
 ｛本多＊＊｝, are you okay∋");
 MsgClose();
-ChOpen(3,35,4,2,4,-1,-1,3,0);
+ChOpen(3,35,4,2,4,#1,#1,3,0);
 VoicePlay("D010300600_03_010");
 MsgDisp("Honda","I feel a bit weird.
 My chest feels tight and warm......");
 ChClose(3,0,30);
 SEPlay("EV_SE_544");
 ChLayout(0);
-ChOpen(3,35,4,2,4,-1,-1,3,0);
+ChOpen(3,35,4,2,4,#1,#1,3,0);
 MsgDisp("主人公","What's wrong?");
 ChEye(3,0);
 ChMouth(3,4);
@@ -66,7 +66,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 BGMVol(0.5,2);
-ChOpen(3,35,0,4,4,-1,-1,8,0,0,0);
+ChOpen(3,35,0,4,4,#1,#1,8,0,0,0);
 ScrFadeIn(0);
 VoicePlay("D010300600_03_070");
 MsgDisp("Honda","Sorry, what am I doing......");
@@ -100,7 +100,7 @@ ChClose(3,0,30);
 SEPlay("EV_SE_544");
 ChLayout(1);
 MsgClose();
-ChOpen(3,35,4,0,4,-1,-1,0,0);
+ChOpen(3,35,4,0,4,#1,#1,0,0);
 VoicePlay("D010300600_03_110");
 MsgDisp("Honda","Boss, I might have finally lost
 my mind.");

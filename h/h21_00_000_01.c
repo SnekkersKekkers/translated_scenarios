@@ -4,7 +4,7 @@ switch (ChPrmGet(2,6)){
     case 2:
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,41,3,0,4,-1,-1,0,0);
+    ChOpen(2,41,3,0,4,#1,#1,0,0);
     VoicePlay("H210000001_02_000");
     MsgDisp("Sassa","So you want to be the manager.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
@@ -23,7 +23,7 @@ Let's do our best to help everyone!)");
     SEPlay("EV_SE_628");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,41,0,0,4,-1,-1,0,0);
+    ChOpen(2,41,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H210000001_02_020");
     MsgDisp("Sassa","｛主人公｝,
@@ -51,7 +51,7 @@ we can be of help to everyone!)");
     SEPlay("EV_SE_628");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,41,4,0,0,-1,-1,0,0);
+    ChOpen(2,41,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H210000001_02_040");
     MsgDisp("Sassa","｛主人公｝,

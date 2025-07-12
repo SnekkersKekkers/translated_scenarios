@@ -8,8 +8,8 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,0.8);
 SEWait();
-ChOpen(3,34,0,0,0,-1,-1,0,0);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,34,0,0,0,#1,#1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("R080300000_03_000");
 MsgDisp("Honda","｛主人公｝.

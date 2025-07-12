@@ -93,7 +93,7 @@ today; I'll take three steps forward.");
         MsgClose();
         ChLayout(0);
         SEPlay("EV_SE_544");
-        ChOpen(7,254,4,0,4,-1,-1,0,0);
+        ChOpen(7,254,4,0,4,#1,#1,0,0);
         MsgDisp("主人公","Ehh∋
 ｛御影＊＊｝, you're going the other way?");
         ChEye(7,0);

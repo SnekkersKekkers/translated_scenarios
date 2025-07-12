@@ -12,7 +12,7 @@ Kuya-san is over there!)");
 MsgDisp("主人公","Kuya——");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
-ChOpen(9,35,2,2,2,-1,-1,0,0);
+ChOpen(9,35,2,2,2,#1,#1,0,0);
 VoicePlay("D030900701_09_000");
 MsgDisp("Kuya","…………");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

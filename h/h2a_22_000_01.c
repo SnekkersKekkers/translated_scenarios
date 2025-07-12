@@ -7,7 +7,7 @@ switch (ChPrmGet(22,6)){
     break ;
     case 3:
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,2,0,-1,-1,0,0);
+    ChOpen(22,254,0,2,0,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H2A2200001_22_000");
@@ -27,7 +27,7 @@ the track and field club manager......)");
     case 4:
     case 5:
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,2,0,-1,-1,0,0);
+    ChOpen(22,254,0,2,0,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H2A2200001_22_020");

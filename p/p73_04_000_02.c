@@ -16,7 +16,7 @@ make it pretty but...)");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P730400002_04_000");
     MsgDisp("Nanatsumori","As expected that dress is foul playー.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
@@ -61,12 +61,12 @@ make it pretty but...)");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,3,3,-1,-1,5,0,0,60);
+    ChOpen(4,254,0,3,3,#1,#1,5,0,0,60);
     VoicePlay("P730400002_04_050");
     MsgDisp("Nanatsumori","…………");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 ...what's wrong?");
-    ChMouthOpenLevel(4,-1);
+    ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_060");
     MsgDisp("Nanatsumori","You're beautiful.");
     MsgDisp("主人公","T-Thank you...
@@ -77,7 +77,7 @@ I'm a little embarrassed.");
     VoicePlay("P730400002_04_070");
     MsgDisp("Nanatsumori","…………");
     ChMotion(4,1,1);
-    ChMouthOpenLevel(4,-1);
+    ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_080");
     MsgDisp("Nanatsumori","I wonder who will be able to stand
 alongside you when you look 

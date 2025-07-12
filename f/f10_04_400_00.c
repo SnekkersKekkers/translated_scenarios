@@ -6,8 +6,8 @@ It's ｛七ツ森＊｝ and ｛本多＊＊｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,1);
-ChOpen(3,254,0,0,0,-1,-1,0,2);
+ChOpen(4,254,0,0,0,#1,#1,0,1);
+ChOpen(3,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100440000_03_000");
 MsgDisp("Honda","Yeah, yeah.
 I think #4 is a bingo

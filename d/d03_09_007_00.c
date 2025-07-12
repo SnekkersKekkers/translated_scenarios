@@ -13,7 +13,7 @@ MsgDisp("Kuya?","Sure, here you go.");
 MsgDisp("主人公","(Huh?　That voice is......)");
 BGMPlay("BGM_C09_KUYA_A",0.01);
 MsgClose();
-ChOpen(9,35,0,0,0,-1,-1,0,0);
+ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030900700_46_000");
 MsgDisp("Woman B","Me too, me too～!");
 ChEye(9,3);
@@ -26,7 +26,7 @@ MsgDisp("主人公","(Like I thought, it's Kuya-san!)");
 ChPosition(9,1);
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
-ChOpen(35,254,0,0,0,-1,-1,0,2);
+ChOpen(35,254,0,0,0,#1,#1,0,2);
 VoicePlay("D030900700_35_020");
 MsgDisp("Guy","Good job!
 Come to my office once you finish giving

@@ -19,7 +19,7 @@ MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840700004_07_010");
 MsgDisp("Mikage","That was considerate.
 As expected of a third year veteran.");

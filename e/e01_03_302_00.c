@@ -12,8 +12,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,255,2,4,4,-1,-1,0,1,0,30);
-ChOpen(7,255,0,0,0,-1,-1,0,2,0,30);
+ChOpen(3,255,2,4,4,#1,#1,0,1,0,30);
+ChOpen(7,255,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("E010330200_07_010");
 MsgDisp("Mikage","Oh, you're at the library too?");
 MsgDisp("主人公","No, I'm on my way back from shopping.

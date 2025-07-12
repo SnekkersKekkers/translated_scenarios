@@ -17,7 +17,7 @@ VoicePlay("E010130200_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010130200_01_010");
 MsgDisp("Kazama","What's going on?
 You're standing around.");
@@ -65,7 +65,7 @@ ChPosition(1,1);
 MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
-ChOpen(4,255,0,2,0,-1,-1,0,2);
+ChOpen(4,255,0,2,0,#1,#1,0,2);
 MsgDisp("主人公","I knew it, ｛七ツ森＊｝!
 What's wrong?");
 ChEye(4,2);

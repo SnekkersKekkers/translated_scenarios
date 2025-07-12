@@ -14,7 +14,7 @@ There's no way I can do that!");
 MsgDisp("主人公","...Hmmm?");
 MsgClose();
 BGMPlay("BGM_C06_INORI_A");
-ChOpen(6,254,2,2,0,0,-1,0,0);
+ChOpen(6,254,2,2,0,0,#1,0,0);
 VoicePlay("F100610001_06_010");
 MsgDisp("Himuro","Haa...");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,1);

@@ -54,6 +54,6 @@ MsgDisp("主人公","(My heart is also racing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(8,-1);
-ChMouthOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
+ChMouthOpenLevel(8,#1);
 ChCheek(8,0);

@@ -5,7 +5,7 @@ VoiceEVSPlay(1);
 VoicePlay("B350100000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What's wrong?");
 ChEye(1,0);
@@ -24,7 +24,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,0);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("B350100000_01_030");
 MsgDisp("Kazama","After this, won't you keep 
 me company a bit longer?");

@@ -5,8 +5,8 @@ MsgDisp("主人公","(Well then......
 Should I head home now?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(5,255,0,0,4,-1,-1,0,1);
-ChOpen(6,255,0,0,0,-1,-1,0,2);
+ChOpen(5,255,0,0,4,#1,#1,0,1);
+ChOpen(6,255,0,0,0,#1,#1,0,2);
 ChEye(5,4);
 VoiceEVSPlay(5);
 VoicePlay("E010520000_05_000");

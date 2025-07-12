@@ -66,6 +66,6 @@ too far off from ｛颯砂＊＊｝ right now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

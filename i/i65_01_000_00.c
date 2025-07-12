@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","Thank you very much～!");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650100000_01_000");
     MsgDisp("Kazama","I see, so you were the cause.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
@@ -55,7 +55,7 @@ Alright, let's work hard!)");
     MsgDisp("主人公","Welcome!");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,3,-1,-1,0,0);
+    ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("I650100000_01_050");
     MsgDisp("Kazama","You're energetic.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
@@ -121,7 +121,7 @@ with just a smile, you know?)");
     Wait(90,0);
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,1,1,1,-1,-1,0,0);
+    ChOpen(1,255,1,1,1,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What's up?");
     ChEye(1,0);

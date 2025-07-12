@@ -16,8 +16,8 @@ MsgDisp("VP Himuro","Hm?
 There's still someone here.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(7,37,0,0,4,-1,-1,0,1,0,30);
-ChOpen(32,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(7,37,0,0,4,#1,#1,0,1,0,30);
+ChOpen(32,254,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","Ah, umm, please excuse me...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -49,7 +49,7 @@ ChClose(32);
 SEWait();
 ChClose(7);
 MsgClose();
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","I'm sorry.
 You were waiting for me to 
 finish with class duties.");

@@ -15,7 +15,7 @@ I like it but...)");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P730400001_04_000");
     MsgDisp("Nanatsumori","Ohー.
 Pretty pretty.");
@@ -58,7 +58,7 @@ I like it but...)");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,2,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,2,#1,#1,0,0,0,60);
     VoicePlay("P730400001_04_040");
     MsgDisp("Nanatsumori","Ah...");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!");

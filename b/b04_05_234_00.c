@@ -2,7 +2,7 @@ BGOpen("tr450",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,0,2,4,-1,-1,0,0,0,0);
+ChOpen(5,255,0,2,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523400_05_000");
 MsgDisp("Hiiragi","That was some terrific handling huh?");

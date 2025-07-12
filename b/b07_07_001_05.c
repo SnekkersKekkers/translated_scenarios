@@ -81,6 +81,6 @@ answer the question.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);

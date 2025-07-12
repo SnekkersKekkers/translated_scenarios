@@ -88,7 +88,7 @@ I'm sorry to the store clerk!");
         SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
         SEWait();
         MsgClose();
-        ChOpen(3,255,2,2,2,-1,-1,0,0);
+        ChOpen(3,255,2,2,2,#1,#1,0,0);
         VoicePlay("B040321202_03_070");
         MsgDisp("Honda","Haa, seems like it was broken.
 I might become weak around 
@@ -116,7 +116,7 @@ me a good time.)");
         DbgAssert(1);
         break ;
         }
-    ChEyeOpenLevel(3,-1);
+    ChEyeOpenLevel(3,#1);
     break ;
     case 2:
     DateRateSet(3);

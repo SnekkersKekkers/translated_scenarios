@@ -44,7 +44,7 @@ VoicePlay("D010500600_05_060");
 MsgDisp("Hiiragi","It's my turn this week. But I love
 cleaning, so watching you smile thanks
 to this greeting is double the reward.");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 StlMouth(5,0);
 VoicePlay("D010500600_05_070");
 MsgDisp("Hiiragi","Oh, right.

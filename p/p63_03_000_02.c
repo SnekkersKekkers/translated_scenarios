@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
 It's a culmination of my efforts
 in the Gardening Club...)");
     MsgClose();
-    ChOpen(3,254,5,5,3,-1,-1,0,0);
+    ChOpen(3,254,5,5,3,#1,#1,0,0);
     VoicePlay("P630300002_03_000");
     MsgDisp("Honda","Eh!
 It's like a real cafe.");
@@ -39,7 +39,7 @@ Then, I'll lead you to your seat.");
 It's a culmination of my efforts
 in the Gardening Club...)");
     MsgClose();
-    ChOpen(3,254,0,0,0,-1,-1,0,0);
+    ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P630300002_03_030");
     MsgDisp("Honda","｛主人公｝.");

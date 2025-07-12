@@ -1,5 +1,5 @@
 BGOpen("fp500",0);
-ChNanaType(-1);
+ChNanaType(#1);
 ChEye(4,1);
 ChMouth(4,5);
 ChMotion(4,1,1);
@@ -13,4 +13,4 @@ MsgClose();
 ScrFadeOut(0);
 ChClose(4,0,0);
 MsgClose();
-ChOpen(4,31,0,0,0,-1,-1,0,0,0,0);
+ChOpen(4,31,0,0,0,#1,#1,0,0,0,0);

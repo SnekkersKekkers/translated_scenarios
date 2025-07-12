@@ -8,7 +8,7 @@ the giant maze' is attracting a lot of
 attention more and more people are
 gathering......)");
 MsgClose();
-ChOpen(31,254,0,0,0,-1,-1,0,0);
+ChOpen(31,254,0,0,0,#1,#1,0,0);
 VoicePlay("P133100000_31_000");
 MsgDisp("Goro","Ara, cow.");
 MsgDisp("主人公","Ah, Goro-sensei! You went to the

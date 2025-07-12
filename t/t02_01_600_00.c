@@ -13,7 +13,7 @@ MsgDisp("主人公","∋");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_D",0.01);
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020160000_01_010");
 MsgDisp("Kazama","Did I make it in time?");
 MsgDisp("主人公","｛風真＊＊｝!

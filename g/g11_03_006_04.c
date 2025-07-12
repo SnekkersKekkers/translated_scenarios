@@ -8,7 +8,7 @@ ScrFadeOut(0);
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,0,-1,-1,0,0);
+ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛本多＊＊｝. Shouldn't the 15 minute break
 be any moment now?");

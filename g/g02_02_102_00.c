@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,4,0,2,-1,-1,0,0);
+ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("G020210200_02_000");
 MsgDisp("Sassa","......When you see a view like this,
 it creates a nice atmosphere, right?");
@@ -61,6 +61,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

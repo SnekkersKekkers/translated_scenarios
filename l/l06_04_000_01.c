@@ -3,7 +3,7 @@ BGOpen("sc310",0);
 ChLayout(1);
 BGMPlay("BGM_C04_NANA_A");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("L060400001_04_000");

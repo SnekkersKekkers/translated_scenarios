@@ -7,7 +7,7 @@ MsgDisp("","(*SPLAT*)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
-ChOpen(1,254,3,3,2,-1,-1,0,0,0,30);
+ChOpen(1,254,3,3,2,#1,#1,0,0,0,30);
 ChMouth(1,1);
 VoicePlay("P840100003_01_000");
 MsgDisp("Kazama","Oi, are you alright?");

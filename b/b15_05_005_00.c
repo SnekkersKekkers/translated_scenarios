@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,2,2,2,0,-1,10,0);
+ChOpen(5,255,2,2,2,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150500500_05_000");
 MsgDisp("Hiiragi","Haa... wait.
@@ -17,7 +17,7 @@ VoicePlay("B150500500_05_020");
 MsgDisp("Hiiragi","No matter what role I play,
 you're incessantly touching me.");
 ChMotion(5,3);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B150500500_05_030");
 MsgDisp("Hiiragi","Furthermore, what was that at the end?
 You're carelessly stroking me, 

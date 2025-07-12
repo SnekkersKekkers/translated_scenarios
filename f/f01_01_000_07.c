@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("F010100007_01_000");
@@ -58,7 +58,7 @@ Well, another time.");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("F010100007_01_020");
@@ -140,6 +140,6 @@ We'll eat your favorite sweets.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

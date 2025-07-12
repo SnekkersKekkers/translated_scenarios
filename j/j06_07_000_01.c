@@ -1,5 +1,5 @@
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);
 MsgDisp("主人公","(What shall I do? ......)");
 SEStop("EV_SE_GAYA_017",1.5);

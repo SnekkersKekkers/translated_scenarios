@@ -9,7 +9,7 @@ MsgDisp("主人公","Hm?
 That voice......");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛御影＊＊｝, that outfit......
 Are you out shopping?");
 ChEye(7,0);
@@ -67,4 +67,4 @@ MsgDisp("主人公","(Hmm maybe ｛御影＊＊｝
 sees his students as vegetables?)");
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);

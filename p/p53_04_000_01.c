@@ -14,7 +14,7 @@ last year. Haa, I'm nervous.)");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P530400001_04_000");
     MsgDisp("Nanatsumori","Yo.
 The game's——");
@@ -73,7 +73,7 @@ last year. Haa, I'm nervous.)");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("P530400001_04_070");
     MsgDisp("Nanatsumori","｛主人公｝.

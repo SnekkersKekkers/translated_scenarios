@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_D",0.01);
-    ChOpen(1,254,0,4,3,-1,-1,0,0);
+    ChOpen(1,254,0,4,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H4A0100001_01_000");
     MsgDisp("Kazama","Good work.
@@ -45,7 +45,7 @@ but I'm happy to hear how
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_D",0.01);
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("H4A0100001_01_040");
@@ -79,7 +79,7 @@ But it's still frustrating......");
     ChLayout(0);
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_D",0.01);
-    ChOpen(1,254,0,0,3,-1,-1,0,0,0,30);
+    ChOpen(1,254,0,0,3,#1,#1,0,0,0,30);
     VoicePlay("H4A0100001_01_080");
     MsgDisp("Kazama","It's proof that you tried your
 hardest. So stick out your chest

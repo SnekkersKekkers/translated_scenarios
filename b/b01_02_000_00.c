@@ -6,7 +6,7 @@ Ah, ｛颯砂＊＊｝ is already here!)");
 MsgDisp("主人公","Sorry I made you wait...!");
 BGMPlay("BGM_C02_SASSA_A",0.01);
 MsgClose();
-ChOpen(2,253,3,0,4,-1,-1,0,0);
+ChOpen(2,253,3,0,4,#1,#1,0,0);
 switch (ChPrmGet(2,6)){
     case 0:
     case 1:

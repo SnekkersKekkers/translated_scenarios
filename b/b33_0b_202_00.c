@@ -18,17 +18,17 @@ MsgClose();
 ScrFadeOut(0,0);
 BGOpen("wf510",0);
 ChLayout(2);
-ChOpen(3,253,4,0,0,0,-1,0,3,0,30);
-ChOpen(1,253,0,0,0,0,-1,0,3,0,30);
+ChOpen(3,253,4,0,0,0,#1,0,3,0,30);
+ChOpen(1,253,0,0,0,0,#1,0,3,0,30);
 ChNanaType(0);
-ChOpen(4,253,0,0,0,-1,-1,0,3,0,30);
+ChOpen(4,253,0,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330B20200_03_000");
 MsgDisp("Honda","It's moving no matter
 how many times you watch it...
 The constellations, the myths; 
 the life of the stars.");
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 MsgDisp("主人公","Yeah.
 There are many kinds of myths,
 but they're all interesting.");
@@ -123,18 +123,18 @@ ScrFadeOut(0,0);
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,7);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,7);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,7);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

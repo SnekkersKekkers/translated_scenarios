@@ -31,7 +31,7 @@ StlClose();
 BGOpen("sc310",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(1,3);
 ChMouth(1,3);

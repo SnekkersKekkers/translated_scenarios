@@ -2,7 +2,7 @@ BGMPlay("BGM_FESTIVAL",0.01);
 BGOpen("sc710",0);
 ChLayout(1);
 MsgClose();
-ChOpen(5,254,0,4,4,-1,-1,0,0);
+ChOpen(5,254,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛柊＊＊＊｝, good work.");
 ChEye(5,3);
@@ -31,7 +31,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("P850500006_05_030");
 MsgDisp("Hiiragi","No.
 It's not even enough.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","(Yay, I'm happy!
 I was able to make a good memory of my
 last cultural festival of high school.)");

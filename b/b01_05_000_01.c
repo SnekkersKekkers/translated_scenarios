@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     MsgClose();
-    ChOpen(5,253,0,2,2,-1,-1,0,0);
+    ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_000");
     MsgDisp("Hiiragi","I'm sorry to have kept you waiting.");
     MsgDisp("主人公","No, it's alright.");
@@ -27,7 +27,7 @@ on. Then, let's be off.");
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     MsgClose();
-    ChOpen(5,253,0,2,2,-1,-1,0,0);
+    ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_020");
     MsgDisp("Hiiragi","I'm sorry, I was running late...");
     MsgDisp("主人公","No, it's alright.");
@@ -44,7 +44,7 @@ for keeping you waiting.");
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     MsgClose();
-    ChOpen(5,253,0,2,2,-1,-1,0,0);
+    ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_040");
     MsgDisp("Hiiragi","Ahh,thank goodness...");
     MsgDisp("主人公","Oh, ｛柊＊＊＊｝.

@@ -84,7 +84,7 @@ SEPlay("EV_SE_063",0,0.6);
 SEWait();
 BGOpen("sc231",0);
 MsgClose();
-ChOpen(3,254,7,2,2,-1,-1,0,0);
+ChOpen(3,254,7,2,2,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(3,2,1);
 VoicePlay("D010300500_03_080");

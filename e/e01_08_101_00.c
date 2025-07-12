@@ -5,7 +5,7 @@ MsgDisp("主人公","(Well then......
 I think it's time to go home.)");
 MsgClose();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
-ChOpen(8,255,0,0,4,-1,-1,0,0);
+ChOpen(8,255,0,0,4,#1,#1,0,0);
 VoicePlay("E010810100_08_000");
 MsgDisp("Shirahane","Hm?");
 MsgDisp("主人公","Ah, ｛大地＊＊｝!
@@ -50,7 +50,7 @@ ChMotion(8,3,1);
 VoicePlay("E010810100_08_050");
 MsgDisp("Shirahane","Hehe.
 By the way, do you also want to celebrate?");
-ChEyeOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","Eh?");
 ChEye(8,0);
 ChMouth(8,3);
@@ -88,6 +88,6 @@ MsgDisp("主人公","(Wow ｛大地＊＊｝ is a really
 good athlete......)");
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(8,-1);
-ChMouthOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
+ChMouthOpenLevel(8,#1);
 ChCheek(8,0);

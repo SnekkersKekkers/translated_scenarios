@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(22,255,0,0,3,-1,-1,0,0);
+ChOpen(22,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(22,3);
 ChMouth(22,3);

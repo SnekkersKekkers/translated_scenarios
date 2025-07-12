@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020740000_07_000");
 MsgDisp("Mikage","What's your dream for the future?");
 MsgDisp("主人公","Why are you asking all of a sudden?");
@@ -64,6 +64,6 @@ MsgClose();
 ScrFadeOut(0,0);
 BGMStop();
 ChLayout(1);
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);

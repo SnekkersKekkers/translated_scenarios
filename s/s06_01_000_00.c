@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     SEWait();
     SEPlay("EV_SE_DOOR_022");
     SEWait();
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("S060100000_01_000");
     MsgDisp("Kazama","You look like you're doing well.
 Happy New Year.");
@@ -21,7 +21,7 @@ Same to you, treat me well this year.");
     SEWait();
     SEPlay("EV_SE_DOOR_022");
     SEWait();
-    ChOpen(1,255,0,0,3,-1,-1,0,0);
+    ChOpen(1,255,0,0,3,#1,#1,0,0);
     ChMotion(1,3);
     VoicePlay("S060100000_01_010");
     MsgDisp("Kazama","Happy New Year.
@@ -36,7 +36,7 @@ way. Happy New Year again!");
     SEWait();
     SEPlay("EV_SE_DOOR_022");
     SEWait();
-    ChOpen(1,255,0,0,4,-1,-1,0,0);
+    ChOpen(1,255,0,0,4,#1,#1,0,0);
     VoicePlay("S060100000_01_020");
     MsgDisp("Kazama","Happy New Year.
 Wait, was I too early?");

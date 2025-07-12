@@ -2,7 +2,7 @@ BGOpen("tr420",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,1,4,3,-1,-1,0,0,0,0);
+ChOpen(5,255,1,4,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523100_05_000");
 MsgDisp("Hiiragi","Aah... this feeling of speed is

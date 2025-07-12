@@ -12,8 +12,8 @@ MsgDisp("Hiiragi?","No need to thank me.");
 MsgDisp("主人公","(Hm?　That voice just now was......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(5,255,4,0,4,-1,-1,0,1);
-ChOpen(2,255,3,0,4,-1,-1,0,2);
+ChOpen(5,255,4,0,4,#1,#1,0,1);
+ChOpen(2,255,3,0,4,#1,#1,0,2);
 MsgDisp("主人公","｛柊＊＊＊｝, ｛颯砂＊＊｝.
 It's rare seeing you two together.");
 ChEye(2,0);
@@ -94,7 +94,7 @@ ChMotion(5,4);
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
-ChOpen(2,255,5,0,4,-1,-1,0,2);
+ChOpen(2,255,5,0,4,#1,#1,0,2);
 VoicePlay("E010520100_02_070");
 MsgDisp("Sassa","That was close......
 I changed my answer to 'No comment' too.");

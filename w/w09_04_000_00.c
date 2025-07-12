@@ -5,14 +5,14 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,255,2,2,4,-1,-1,0,0);
+    ChOpen(4,255,2,2,4,#1,#1,0,0);
     VoicePlay("W090400000_04_000");
     MsgDisp("Nanatsumori","Sigh...");
     break ;
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,255,2,2,3,-1,-1,0,0);
+    ChOpen(4,255,2,2,3,#1,#1,0,0);
     VoicePlay("W090400000_04_010");
     MsgDisp("Nanatsumori","This is what amusement parks are 
 about, huh? What do you think...?");
@@ -21,7 +21,7 @@ about, huh? What do you think...?");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,255,1,4,4,-1,-1,0,0);
+    ChOpen(4,255,1,4,4,#1,#1,0,0);
     VoicePlay("W090400000_04_020");
     MsgDisp("Nanatsumori","Don't laugh if I freak out and scream?");
     MsgDisp("主人公","Hehe!");

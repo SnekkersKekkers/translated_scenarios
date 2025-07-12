@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     MsgClose();
-    ChOpen(2,253,0,2,0,-1,-1,0,0);
+    ChOpen(2,253,0,2,0,#1,#1,0,0);
     VoicePlay("B010200001_02_000");
     MsgDisp("Sassa","Sorry!
 I made you wait.");
@@ -39,7 +39,7 @@ Alright, let's go.");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     MsgClose();
-    ChOpen(2,253,0,2,0,-1,-1,0,0);
+    ChOpen(2,253,0,2,0,#1,#1,0,0);
     VoicePlay("B010200001_02_030");
     MsgDisp("Sassa","Sorry!
 I made you wait.");
@@ -71,7 +71,7 @@ I could carry you around too?");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     MsgClose();
-    ChOpen(2,253,0,2,0,-1,-1,0,0);
+    ChOpen(2,253,0,2,0,#1,#1,0,0);
     VoicePlay("B010200001_02_060");
     MsgDisp("Sassa","Sorry, I left you waiting!");
     MsgDisp("主人公","No, it's okay.");

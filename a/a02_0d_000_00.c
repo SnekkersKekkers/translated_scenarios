@@ -14,8 +14,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(21,254,0,0,4,-1,-1,0,1);
-ChOpen(22,254,0,0,0,-1,-1,0,2);
+ChOpen(21,254,0,0,4,#1,#1,0,1);
+ChOpen(22,254,0,0,0,#1,#1,0,2);
 VoicePlay("A020D00000_21_010");
 MsgDisp("Michiru?","You...
 You weren't a student at

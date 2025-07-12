@@ -9,7 +9,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C09_KUYA_KOKU",0.01);
 ChLayout(0);
-ChOpen(9,255,0,2,0,-1,-1,3,0);
+ChOpen(9,255,0,2,0,#1,#1,3,0);
 ScrFadeIn(0);
 ChMotion(9,1,1);
 VoicePlay("T020940000_09_010");
@@ -99,7 +99,7 @@ ChClose(9);
 ChCustomLayout(9,5,0,-2.8);
 Wait(60);
 SEPlay("EV_SE_544");
-ChOpen(9,255,4,4,4,-1,-1,0,0,0,120);
+ChOpen(9,255,4,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020940000_09_120");
 MsgDisp("Kuya","I love you. 
 All I see is you now.");

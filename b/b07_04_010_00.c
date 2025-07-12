@@ -24,7 +24,7 @@ VoicePlay("B070401000_04_020");
 MsgDisp("Nanatsumori","I feel like I can't get 
 it out of my head.");
 ChMotion(4,0,1);
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 VoicePlay("B070401000_04_030");
 MsgDisp("Nanatsumori","...Maybe, it's because you were the 
 one who asked me about it.");

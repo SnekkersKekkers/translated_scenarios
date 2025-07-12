@@ -9,7 +9,7 @@ SEWait();
 SEPlay("EV_SE_011");
 SEWait();
 MsgClose();
-ChOpen(6,32,0,2,1,0,-1,0,0);
+ChOpen(6,32,0,2,1,0,#1,0,0);
 VoicePlay("B040620002_06_000");
 MsgDisp("Himuro","Uwaa∋
 ...ow.");
@@ -82,7 +82,7 @@ You tugged on me on purpose
 just now didn't you? ");
         MsgClose();
         ChLayout(0);
-        ChOpen(6,32,1,3,3,-1,-1,0,0);
+        ChOpen(6,32,1,3,3,#1,#1,0,0);
         VoicePlay("B040620002_06_060");
         MsgDisp("Himuro","Haha!
 This is payback for laughing at me. ");
@@ -97,7 +97,7 @@ This is payback for laughing at me. ");
         ChClose(6,0,30);
         MsgClose();
         ChLayout(1);
-        ChOpen(6,32,4,0,0,-1,-1,0,0);
+        ChOpen(6,32,4,0,0,#1,#1,0,0);
         SEWait();
         VoicePlay("B040620002_06_080");
         MsgDisp("Himuro","A-Anyways.");

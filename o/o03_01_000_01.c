@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,2,2,-1,-1,0,0);
+    ChOpen(1,30,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     ChMouth(1,1);
     ChMotion(1,1);
@@ -18,7 +18,7 @@ first place......");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,0,2,0,-1,0,0);
+    ChOpen(1,30,0,0,2,0,#1,0,0);
     ScrFadeIn(0);
     ChMouth(1,1);
     ChMotion(1,1);
@@ -46,7 +46,7 @@ bit more in sync......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,2,2,8,-1,0,0);
+    ChOpen(1,30,0,2,2,8,#1,0,0);
     ScrFadeIn(0);
     ChMotion(1,3);
     VoicePlay("O030100001_01_040");

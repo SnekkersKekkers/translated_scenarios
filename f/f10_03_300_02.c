@@ -5,7 +5,7 @@ MsgDisp("主人公","(I wonder if I should eat
 at the cafeteria today...)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("F100330002_03_000");
 MsgDisp("Honda","｛主人公｝,
@@ -25,8 +25,8 @@ ChPosition(3,1);
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 MsgClose();
 SEWait();
-ChOpen(22,254,0,0,3,-1,-1,0,0,0,30);
-ChOpen(21,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(22,254,0,0,3,#1,#1,0,0,0,30);
+ChOpen(21,254,0,0,0,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100330002_22_010");
 MsgDisp("Hikaru","Hey, hey, is Mari coming too?");

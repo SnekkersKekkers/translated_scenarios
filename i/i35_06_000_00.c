@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
 Ah, ｛氷室＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_000");
     MsgDisp("Himuro","......Hello.");
     ChEye(6,0);
@@ -29,7 +29,7 @@ See you.");
     MsgDisp("主人公","Huh!
 You didn't come here to order?");
     MsgClose();
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_030");
     MsgDisp("Himuro","It sucks to have to serve
 people you know.
@@ -48,7 +48,7 @@ out for me in his own way?)");
     MsgDisp("主人公","Welcome!");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_040");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
@@ -96,7 +96,7 @@ Come on, hurry up.");
 Ah, ｛氷室＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_100");
     MsgDisp("Himuro","Hello.
 Make any mistakes yet?");
@@ -127,7 +127,7 @@ I'll come later.");
 has it calmed down a little?)");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_130");
     MsgDisp("Himuro","Thanks.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.

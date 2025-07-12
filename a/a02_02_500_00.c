@@ -7,7 +7,7 @@ What's going on?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(2,254,3,0,2,-1,-1,0,0);
+ChOpen(2,254,3,0,2,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("A020250000_02_010");
 MsgDisp("Sassa","｛主人公｝.
@@ -28,7 +28,7 @@ MsgDisp("Kazama?","Childhood friends.");
 ChPosition(2,1);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,254,0,0,2,-1,-1,0,2);
+ChOpen(1,254,0,0,2,#1,#1,0,2);
 MsgDisp("主人公","Eh, is that so?");
 ChEye(2,0);
 ChMouth(2,4);

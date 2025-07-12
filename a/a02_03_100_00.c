@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_I");
 MsgClose();
-ChOpen(3,254,5,5,5,-1,-1,0,0,0,30);
+ChOpen(3,254,5,5,5,#1,#1,0,0,0,30);
 VoicePlay("A020310000_03_010");
 MsgDisp("Honda?","Oh!");
 ChEye(3,0);

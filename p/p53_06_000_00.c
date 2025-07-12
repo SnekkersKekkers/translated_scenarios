@@ -12,7 +12,7 @@ What should I do, I'm so nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530600000_06_000");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
@@ -69,7 +69,7 @@ What should I do, I'm so nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(6,254,2,0,0,0,-1,0,0);
+    ChOpen(6,254,2,0,0,0,#1,0,0);
     VoicePlay("P530600000_06_060");
     MsgDisp("Himuro","Just as I thought.");
     MsgDisp("主人公","Eh, ｛氷室＊＊｝?

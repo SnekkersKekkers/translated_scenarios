@@ -16,7 +16,7 @@ MsgDisp("主人公","Phew, I'm glad it all worked out...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,254,3,0,4,-1,-1,0,0);
+ChOpen(2,254,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P840200004_02_000");
 MsgDisp("Sassa","Good job, ｛主人公｝.

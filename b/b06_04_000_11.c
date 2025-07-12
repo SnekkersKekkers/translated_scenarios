@@ -1,5 +1,5 @@
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 switch (ChPrmGet(4,6)){
     case 0:

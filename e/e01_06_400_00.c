@@ -15,8 +15,8 @@ MsgDisp("主人公","｛氷室＊＊｝, ｛ひかる＊｝!
 Were you two out together?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(6,255,0,0,0,-1,-1,0,1,0,30);
-ChOpen(22,255,3,3,3,-1,-1,0,2,0,30);
+ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
+ChOpen(22,255,3,3,3,#1,#1,0,2,0,30);
 VoicePlay("E010640000_22_010");
 MsgDisp("Hikaru","Ah, Mari!
 How about you tag along with us?");

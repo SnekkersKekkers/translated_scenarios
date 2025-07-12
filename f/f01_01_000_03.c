@@ -41,6 +41,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
 ScrFadeOut(0,0);
 SEWait();
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

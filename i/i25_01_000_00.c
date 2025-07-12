@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250100000_01_000");
     MsgDisp("Kazama","Yo.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝!");
@@ -34,7 +34,7 @@ fly fishing?");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
     MsgClose();
-    ChOpen(1,255,2,4,2,-1,-1,0,0);
+    ChOpen(1,255,2,4,2,#1,#1,0,0);
     MsgDisp("主人公","It's around here, I believe?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -65,7 +65,7 @@ magazines?)");
     MsgDisp("主人公","Yes.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,3,-1,-1,0,0);
+    ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("I250100000_01_060");
     MsgDisp("Kazama","Good response.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
@@ -84,7 +84,7 @@ Then, I'll show you there.");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
     MsgClose();
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Sorry......
 It seems that they're sold out.");
     ChEye(1,4);
@@ -121,7 +121,7 @@ There...... ugh, heavy.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,4,2,-1,-1,0,0);
+    ChOpen(1,255,0,4,2,#1,#1,0,0);
     VoicePlay("I250100000_01_110");
     MsgDisp("Kazama","Hey, how far are you taking this?
 I'll help.");
@@ -136,7 +136,7 @@ It's for the hobby magazine corner.");
     SEWait();
     SEPlay("EV_SE_866");
     SEWait();
-    ChOpen(1,255,0,0,2,-1,-1,0,0);
+    ChOpen(1,255,0,0,2,#1,#1,0,0);
     VoicePlay("I250100000_01_120");
     MsgDisp("Kazama","Is here okay?");
     MsgDisp("主人公","Yeah.

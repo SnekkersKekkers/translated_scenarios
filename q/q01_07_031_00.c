@@ -2,7 +2,7 @@ BGOpen("sc812",0);
 ScrFadeIn(0); 
 MsgClose(); 
 SEPlay("EV_SE_544"); 
-ChOpen(7,254,0,0,0,-1,-1,0,0); 
+ChOpen(7,254,0,0,0,#1,#1,0,0); 
 VoicePlay("Q010703100_07_000"); 
 MsgDisp("Mikage","What are you doing?
 Go back to your room already.");

@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
 the deliveries!");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,0,-1,-1,0,0);
+    ChOpen(1,35,0,0,0,#1,#1,0,0);
     VoicePlay("I160100004_01_000");
     MsgDisp("Kazama","Oh, you were pretty
 careful with it, huh?");
@@ -34,7 +34,7 @@ even more.)");
 restocking the delivery items!");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,0,-1,-1,0,0);
+    ChOpen(1,35,0,0,0,#1,#1,0,0);
     VoicePlay("I160100004_01_020");
     MsgDisp("Kazama","Good work.
 Yeah, you were pretty fast.");

@@ -36,7 +36,7 @@ MsgClose();
 BGOpen("bh100",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,7,0,3,-1,-1,0,0);
+ChOpen(1,255,7,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(1,4);
 ChMotion(1,3);
@@ -103,7 +103,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 Wait(50,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for the food.

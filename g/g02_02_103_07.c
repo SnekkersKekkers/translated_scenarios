@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,0,0,4,-1,-1,0,0);
+ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020210307_02_000");
 MsgDisp("Sassa","Yeah, that's right. I ran into you at the
 library before, right?");
@@ -68,6 +68,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

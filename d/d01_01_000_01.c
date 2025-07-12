@@ -32,7 +32,7 @@ StlClose();
 BGOpen("sc310",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,0,2,-1,-1,0,0);
+ChOpen(1,254,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010100001_01_020");
 MsgDisp("Kazama","What do you mean by \"again\"?

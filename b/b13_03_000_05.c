@@ -1,6 +1,6 @@
 BGOpen("bh310",0);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);

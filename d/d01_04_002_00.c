@@ -64,7 +64,7 @@ MsgClose();
 BGOpen("sc340",0);
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,2,4,0,-1,0,0);
+ChOpen(4,254,0,2,4,0,#1,0,0);
 SEPlay("EV_SE_616",0,0.4);
 SEWait();
 ScrFadeIn(0);

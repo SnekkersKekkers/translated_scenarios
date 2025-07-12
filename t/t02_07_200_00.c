@@ -10,7 +10,7 @@ Wait(60);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C07_MIKAGE_KOKU",0.01);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛御影＊＊｝......
 Why are you here?");
 ChEye(7,0);
@@ -81,7 +81,7 @@ ChClose(7);
 ChCustomLayout(7,6,0,-2.8);
 Wait(60);
 SEPlay("EV_SE_544");
-ChOpen(7,254,7,4,4,8,-1,0,0,0,120);
+ChOpen(7,254,7,4,4,8,#1,0,0,0,120);
 VoicePlay("T020720000_07_100");
 MsgDisp("Mikage","Yeah, I ......
 love you.");

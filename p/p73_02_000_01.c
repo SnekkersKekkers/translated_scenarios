@@ -12,7 +12,7 @@ I like it but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("P730200001_02_000");
     MsgDisp("Sassa","Heeー, it's like legit.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
@@ -69,7 +69,7 @@ I like it but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,0,0,4,-1,-1,0,0);
+    ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P730200001_02_060");
     MsgDisp("Sassa","｛主人公｝.");

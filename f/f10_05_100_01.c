@@ -20,7 +20,7 @@ MsgDisp("Hiiragi?","｛主人公｝,
 are you looking for someone?");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-ChOpen(5,254,0,0,4,-1,-1,0,0);
+ChOpen(5,254,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Ah!
 Yeah, I was looking for you, ｛柊＊＊＊｝.");
 ChEye(5,0);

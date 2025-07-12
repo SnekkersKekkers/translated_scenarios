@@ -63,7 +63,7 @@ Ah, you did it huh?");
         SEWait();
         MsgDisp("主人公","Yay!");
         MsgClose();
-        ChOpen(5,255,0,2,4,-1,-1,0,0);
+        ChOpen(5,255,0,2,4,#1,#1,0,0);
         VoicePlay("B040515202_05_050");
         MsgDisp("Hiiragi","There was no need for a handicap.");
         MsgDisp("主人公","｛柊＊＊＊｝'s method of teaching was
@@ -93,7 +93,7 @@ who wins two out of three rounds.");
 You really hate to lose huh...)");
         MsgClose();
         ScrFadeOut(0,0);
-        ChOpen(5,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

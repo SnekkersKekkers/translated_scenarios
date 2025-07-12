@@ -1,7 +1,7 @@
 SEPlay("EV_SE_517");
 Wait(110,0);
 MsgClose();
-ChOpen(5,255,2,4,4,-1,-1,0,0);
+ChOpen(5,255,2,4,4,#1,#1,0,0);
 SEStop("EV_SE_517",2);
 VoicePlay("B040502400_05_000");
 MsgDisp("Hiiragi","So this is the sound of you and me...");

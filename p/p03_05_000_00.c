@@ -14,7 +14,7 @@ matcha and mitarashi dango.");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(5,254,0,4,4,-1,-1,0,0);
+    ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("P030500000_05_000");
     MsgDisp("Hiiragi","Please excuse me.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
@@ -52,7 +52,7 @@ matcha and mitarashi dango.");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(5,254,4,3,4,-1,-1,0,0);
+    ChOpen(5,254,4,3,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P030500000_05_040");
     MsgDisp("Hiiragi","｛主人公｝,

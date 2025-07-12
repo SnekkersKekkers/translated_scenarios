@@ -6,7 +6,7 @@ MsgDisp("主人公","(Today is the senior's final matches.
 Let's try our best so we don't have
 any regrets.)");
 MsgClose();
-ChOpen(2,37,3,0,4,-1,-1,0,0);
+ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200500_02_000");
 MsgDisp("Sassa","｛主人公｝, can I help out with something?");
@@ -61,7 +61,7 @@ MsgClose();
 BGOpen("sc628",0);
 SEPlay("EV_SE_GAYA_021",1,0.5);
 ScrFadeIn(0);
-ChOpen(2,37,0,0,0,-1,-1,0,0);
+ChOpen(2,37,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛颯砂＊＊｝, congrats on your victory.");
 ChEye(2,0);
 ChMouth(2,4);

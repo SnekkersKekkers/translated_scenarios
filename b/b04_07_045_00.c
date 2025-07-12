@@ -1,6 +1,6 @@
 BGOpen("wf400",1);
 ChLayout(1);
-ChOpen(7,254,0,0,3,-1,-1,0,0);
+ChOpen(7,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040704500_07_000");
 MsgDisp("Mikage","As expected, this is the citizen 

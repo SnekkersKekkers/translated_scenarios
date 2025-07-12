@@ -93,7 +93,7 @@ Give me your hand!");
         MsgDisp("主人公","Eh...waah～!");
         MsgClose();
         ScrFadeOut(0);
-        ChOpen(8,253,0,0,0,-1,-1,0,0);
+        ChOpen(8,253,0,0,0,#1,#1,0,0);
         break ;
         default :
         DbgAssert(1);

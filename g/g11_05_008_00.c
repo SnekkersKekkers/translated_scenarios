@@ -10,7 +10,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,254,4,0,4,-1,-1,0,0);
+ChOpen(5,254,4,0,4,#1,#1,0,0);
 VoicePlay("G110500800_05_000");
 MsgDisp("Hiiragi","Yes.
 Good work today.");
@@ -27,7 +27,7 @@ ScrFadeOut(0,0,30);
 ChClose(5,0,0);
 BGOpen("ev005",0);
 MsgClose();
-ChOpen(5,100,0,0,1,-1,-1,0,0);
+ChOpen(5,100,0,0,1,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110500800_05_020");
@@ -65,7 +65,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 MsgDisp("主人公","(｛柊＊＊＊｝, Looks like he's pushing
 himself too hard after all...... Even if

@@ -44,7 +44,7 @@ MsgDisp("主人公","｛御影＊＊｝∋");
 SEPlay("EV_SE_846",0.1,0.8);
 VoicePlay("D010700700_33_040");
 MsgDisp("Male Customer","Wow, that's amazing!　So fast!");
-StlEyeOpenLevel(7,-1);
+StlEyeOpenLevel(7,#1);
 VoicePlay("D010700700_48_020");
 MsgDisp("Live","He's destroying the competition with
 his elegance......!
@@ -65,7 +65,7 @@ VoicePlay("D010700700_45_000");
 MsgDisp("Woman Customer","Kyaa, how cool!
 He has such a nice smile!");
 MsgDisp("主人公","｛御影＊＊｝, what are you......");
-StlEyeOpenLevel(7,-1);
+StlEyeOpenLevel(7,#1);
 VoicePlay("D010700700_07_010");
 MsgDisp("Mikage","Oh, it's you∋
 So there's another adorable sheep here.");
@@ -81,7 +81,7 @@ MsgClose();
 BGOpen("tr500",0);
 ChLayout(1);
 MsgClose();
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("D010700700_07_020");

@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","Yes!");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,2,2,8,-1,0,0);
+    ChOpen(5,255,0,2,2,8,#1,0,0);
     VoicePlay("I450500000_05_010");
     MsgDisp("Hiiragi","......Oh my? Why are you...... are we back
 at the school?");
@@ -20,7 +20,7 @@ This is flower shop Annallee.
     ChEye(5,3);
     ChMouth(5,2);
     ChMotion(5,4);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("I450500000_05_020");
     MsgDisp("Hiiragi","Hm?
 Ah, aah. I understand.");
@@ -54,7 +54,7 @@ His work seems tough......)");
     MsgDisp("主人公","Welcome.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I450500000_05_060");
     MsgDisp("Hiiragi","Excuse me.
 You're working quite hard?");
@@ -91,7 +91,7 @@ already. Thank you.");
     case 5:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-    ChOpen(5,255,0,4,4,-1,-1,0,0);
+    ChOpen(5,255,0,4,4,#1,#1,0,0);
     VoicePlay("I450500000_05_110");
     MsgDisp("Hiiragi","Good evening.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.

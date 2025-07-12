@@ -10,7 +10,7 @@ VoiceEVSPlay(5);
 VoicePlay("T020C30000_05_000");
 MsgDisp("Hiiragi?","｛主人公｝.");
 BGMPlay("BGM_HANYOU_D",0.01);
-ChOpen(5,254,0,4,4,-1,-1,0,0);
+ChOpen(5,254,0,4,4,#1,#1,0,0);
 ChEye(5,4);
 VoicePlay("T020C30000_05_010");
 MsgDisp("Hiiragi","Congratulations on graduating.");
@@ -49,10 +49,10 @@ MsgDisp("主人公","｛柊＊＊＊｝ often used to work
 at that window. As that was the
 student council room.");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(5,2);
-ChOpen(6,254,0,0,0,-1,-1,0,1);
+ChOpen(6,254,0,0,0,#1,#1,0,1);
 VoicePlay("T020C30000_06_000");
 MsgDisp("Himuro","Sorry to interrupt your 
 reminiscing.");
@@ -100,9 +100,9 @@ ChClose(5,0,30);
 ChClose(6,0,30);
 ChLayout(2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
-ChOpen(5,254,0,0,4,-1,-1,0,0,0,30);
-ChOpen(6,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(7,254,1,0,0,-1,-1,0,2);
+ChOpen(5,254,0,0,4,#1,#1,0,0,0,30);
+ChOpen(6,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(7,254,1,0,0,#1,#1,0,2);
 VoicePlay("T020C30000_07_000");
 MsgDisp("Mikage","Congratulations to you both on 
 your graduation!
@@ -250,7 +250,7 @@ you're enjoying this.");
 ChClose(7,0,30);
 ChLayout(1);
 SEPlay("EV_SE_544");
-ChOpen(7,254,2,0,0,-1,-1,0,0,0,30);
+ChOpen(7,254,2,0,0,#1,#1,0,0,0,30);
 VoicePlay("T020C30000_07_110");
 MsgDisp("Mikage","Well, shall we go?");
 MsgDisp("主人公","Hehe, yes!");

@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I450400000_04_000");
     MsgDisp("Nanatsumori","......Ah.");
     MsgDisp("主人公","Welcome!
@@ -42,7 +42,7 @@ did you come to check on me?)");
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I450400000_04_040");
     MsgDisp("Nanatsumori","Good work.");
     MsgDisp("主人公","Ah, welcome!
@@ -89,7 +89,7 @@ I'm happy I got complimented!)");
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("I450400000_04_090");
     MsgDisp("Nanatsumori","｛主人公｝.
@@ -128,7 +128,7 @@ You're a little close......");
     ChClose(4,0,30);
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,255,0,5,4,-1,-1,8,0,0,60);
+    ChOpen(4,255,0,5,4,#1,#1,8,0,0,60);
     SEWait();
     VoicePlay("I450400000_04_130");
     MsgDisp("Nanatsumori","Sorr-

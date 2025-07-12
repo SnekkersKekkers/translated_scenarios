@@ -13,7 +13,7 @@ I think it turned out well but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P730500001_05_000");
     MsgDisp("Hiiragi","You're making an anxious
 expression, yes?");
@@ -67,7 +67,7 @@ I think it turned out well but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,3,4,-1,-1,0,0);
+    ChOpen(5,254,0,3,4,#1,#1,0,0);
     VoicePlay("P730500001_05_060");
     MsgDisp("Hiiragi","...It fits you very well.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝!");

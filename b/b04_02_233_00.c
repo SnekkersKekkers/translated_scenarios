@@ -2,7 +2,7 @@ BGOpen("tr440",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(2,255,5,0,3,-1,-1,0,0,0,0);
+ChOpen(2,255,5,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223300_02_000");
 MsgDisp("Sassa","The moment I jumped!

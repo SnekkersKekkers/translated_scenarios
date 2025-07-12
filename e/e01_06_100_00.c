@@ -6,7 +6,7 @@ VoicePlay("E010610000_06_000");
 MsgDisp("Himuro?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C06_INORI_A",0.01);
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝!
 Are you out shopping?");
 ChEye(6,0);

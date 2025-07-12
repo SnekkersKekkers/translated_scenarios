@@ -22,7 +22,7 @@ MsgClose();
 BGOpen("ev002",0);
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,100,0,0,0,-1,-1,0,0);
+ChOpen(2,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_038");
 ScrFadeIn(0);
 SEPlay("EV_SE_648")VoicePlay("G110200704_42_010");

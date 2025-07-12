@@ -19,7 +19,7 @@ your free period freely.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -90,7 +90,7 @@ bit bad.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020700000_07_080");
     MsgDisp("Mikage","Oh, you seem energetic today. ");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.

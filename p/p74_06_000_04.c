@@ -6,7 +6,7 @@ MsgDisp("主人公","(Yayー! A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,254,1,1,0,0,-1,0,0);
+ChOpen(6,254,1,1,0,0,#1,0,0);
 VoicePlay("P740600004_06_000");
 MsgDisp("Himuro","Welcome back.");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝ Q

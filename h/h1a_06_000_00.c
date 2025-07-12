@@ -7,7 +7,7 @@ switch (ChPrmGet(6,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,254,0,3,0,-1,-1,0,0);
+    ChOpen(6,254,0,3,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0600000_06_000");
     MsgDisp("Himuro","You won?");
@@ -24,7 +24,7 @@ the baseball club manager!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,254,0,0,4,-1,-1,0,0);
+    ChOpen(6,254,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0600000_06_020");
     MsgDisp("Himuro","Congrats on winning.");

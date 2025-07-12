@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
 finally tried to make an organic cafe
 but...)");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600002_06_000");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.
@@ -40,8 +40,8 @@ of your efforts with my own eyes.");
     MsgDisp("主人公","Yes, one moment please!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(6,-1);
-    ChMouth(6,-1);
+    ChEye(6,#1);
+    ChMouth(6,#1);
     ChCheek(6,0);
     break ;
     case 4:
@@ -52,7 +52,7 @@ of your efforts with my own eyes.");
 finally tried to make an organic cafe
 but...)");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(6);
     VoicePlay("P630600002_06_040");
     MsgDisp("Himuro","｛主人公｝.");
@@ -96,8 +96,8 @@ Then please wait a moment!");
     MsgDisp("主人公","(What's up with ｛氷室＊＊｝?)");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(6,-1);
-    ChMouth(6,-1);
+    ChEye(6,#1);
+    ChMouth(6,#1);
     ChCheek(6,0);
     break ;
     default :

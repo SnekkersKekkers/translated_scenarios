@@ -5,7 +5,7 @@ VoiceEVSPlay(5);
 VoicePlay("B350500000_05_000");
 MsgDisp("Hiiragi?","｛主人公｝.");
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","What's wrong, ｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,4);

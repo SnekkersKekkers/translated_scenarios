@@ -6,7 +6,7 @@ MsgDisp("主人公","(It's time to go home.
 Over there, is that......)");
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 MsgClose();
-ChOpen(22,255,0,4,2,-1,-1,0,0);
+ChOpen(22,255,0,4,2,#1,#1,0,0);
 ChMotion(22,2,1);
 VoicePlay("E012250000_22_000");
 MsgDisp("Hikaru","Hmm......");

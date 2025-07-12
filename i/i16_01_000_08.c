@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_B",0.01);
-    ChOpen(1,35,0,0,3,-1,-1,0,0);
+    ChOpen(1,35,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you very much.
 We look forward to your next visit.");
@@ -39,7 +39,7 @@ turn off the lights.");
     MsgClose();
     BGOpen("fp720",2);
     MsgClose();
-    ChOpen(1,35,0,0,3,-1,-1,0,0);
+    ChOpen(1,35,0,0,3,#1,#1,0,0);
     BGMVol(0.5,2);
     ScrFadeIn(0);
     ChMotion(1,1);
@@ -74,7 +74,7 @@ Please come again.");
     Wait(50,0);
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_B",0.01);
-    ChOpen(1,35,0,0,0,-1,-1,0,0);
+    ChOpen(1,35,0,0,0,#1,#1,0,0);
     Wait(15,1);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -99,7 +99,7 @@ and write the daily report.");
     MsgClose();
     BGOpen("fp720",2);
     MsgClose();
-    ChOpen(1,35,0,0,3,-1,-1,0,0);
+    ChOpen(1,35,0,0,3,#1,#1,0,0);
     BGMVol(0.5,2);
     ScrFadeIn(0);
     VoicePlay("I160100008_01_070");

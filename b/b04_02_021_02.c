@@ -59,7 +59,7 @@ rough looking.");
         ChEye(2,3);
         ChMouth(2,4);
         ChMotion(2,4);
-        ChEyeOpenLevel(2,-1);
+        ChEyeOpenLevel(2,#1);
         ChCheek(2,10);
         VoicePlay("B040202102_02_060");
         MsgDisp("Sassa","The round one next to it

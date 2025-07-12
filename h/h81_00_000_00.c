@@ -17,7 +17,7 @@ switch (ChPrmGet(5,6)){
     case 2:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("H810000000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
@@ -34,7 +34,7 @@ Let's work well together.");
     case 3:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("I450500000_05_110");
     MsgDisp("Hiiragi","Good afternoon.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
@@ -52,7 +52,7 @@ I look forward to working with you!");
     case 5:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("I650500000_05_000");
     MsgDisp("Hiiragi","So it was you after all.");
     MsgDisp("主人公","Ah!

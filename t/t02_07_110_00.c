@@ -6,7 +6,7 @@ MsgDisp("Mikage?","｛主人公｝,
 Would you like to go out with me?");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Eh, ｛御影＊＊｝......?
 What's wrong?");
 SEPlay("EV_SE_504",0,0.7);
@@ -35,7 +35,7 @@ ScrFadeOut(0,1);
 MsgType(1);
 BGOpen("ex980",0);
 ChLayout(0);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 BGMPlay("BGM_C07_MIKAGE_KOKU",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","Graduation ceremony?");
@@ -187,7 +187,7 @@ ChClose(7);
 SEPlay("EV_SE_628",0,0.7,0.4);
 ChCustomLayout(7,6,0,-2.8);
 Wait(60);
-ChOpen(7,254,2,1,4,-1,-1,0,0,0,120);
+ChOpen(7,254,2,1,4,#1,#1,0,0,0,120);
 VoicePlay("T020711000_07_220");
 MsgDisp("Mikage","If I leave my feelings for you at
 Habagaku, I can't go any further.");

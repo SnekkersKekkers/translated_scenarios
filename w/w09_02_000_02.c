@@ -3,20 +3,20 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(2,255,4,0,0,-1,-1,0,0);
+    ChOpen(2,255,4,0,0,#1,#1,0,0);
     VoicePlay("W090200002_02_000");
     MsgDisp("Sassa","This cage is too narrow.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("W090200002_02_010");
     MsgDisp("Sassa","Haha, this is off to a good start.");
     break ;
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,255,4,0,0,-1,-1,0,0);
+    ChOpen(2,255,4,0,0,#1,#1,0,0);
     VoicePlay("W090200002_02_020");
     MsgDisp("Sassa","... there was four of us at the start,
 but now it's just us two.");

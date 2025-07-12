@@ -5,7 +5,7 @@ switch (ChPrmGet(3,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(3,34,3,3,3,-1,-1,0,0);
+    ChOpen(3,34,3,3,3,#1,#1,0,0);
     VoicePlay("R060300003_03_000");
     MsgDisp("Honda","Hey hey.
 You're holding my gift!");
@@ -21,7 +21,7 @@ Then I'm gonna open it right now.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(3,34,3,3,3,-1,-1,0,0);
+    ChOpen(3,34,3,3,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("R060300003_03_020");
     MsgDisp("Honda","｛主人公｝,
@@ -50,7 +50,7 @@ Hey, is it okay if I open this?");
     VoicePlay("R060300003_03_050");
     MsgDisp("Honda?","Huh∋　Seriously∋");
     MsgClose();
-    ChOpen(3,34,1,4,0,-1,-1,0,0);
+    ChOpen(3,34,1,4,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛本多＊＊｝.
 What's wrong?");
     ChEye(3,4);

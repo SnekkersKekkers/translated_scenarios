@@ -5,14 +5,14 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("W090400002_04_000");
     MsgDisp("Nanatsumori","Let's get on.");
     break ;
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,255,0,0,3,-1,-1,0,0);
+    ChOpen(4,255,0,0,3,#1,#1,0,0);
     VoicePlay("W090400002_04_010");
     MsgDisp("Nanatsumori","We have to pick a color for the
 gondola. Any color fine with you?");
@@ -21,7 +21,7 @@ gondola. Any color fine with you?");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("W090400002_04_020");
     MsgDisp("Nanatsumori","Watch your step.");
     MsgDisp("主人公","Yeah, don't worry.");

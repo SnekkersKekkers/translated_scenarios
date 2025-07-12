@@ -17,7 +17,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,1,2,2,-1,-1,0,0);
+ChOpen(1,100,1,2,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110100300_01_000");
 MsgDisp("Kazama","......The sky is pretty.");

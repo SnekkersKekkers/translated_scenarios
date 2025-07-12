@@ -12,7 +12,7 @@ hard these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200002_02_000");
     MsgDisp("Sassa","｛主人公｝.
@@ -58,7 +58,7 @@ hard these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,4,0,0,-1,-1,0,0);
+    ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200002_02_040");
     MsgDisp("Sassa","｛主人公｝. I guess this is 

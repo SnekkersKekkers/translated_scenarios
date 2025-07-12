@@ -11,8 +11,8 @@ MsgDisp("主人公","Huh, this voice...
 ｛本多＊＊｝ and ｛颯砂＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(2,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(2,254,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("F100320001_02_010");
 MsgDisp("Sassa","Thank goodness, please
 say something to him too.");

@@ -55,7 +55,7 @@ errands to run?");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
     ChMouth(1,1);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     VoicePlay("F010100006_01_050");
     MsgDisp("Kazama","Well, can't we work something out?");
     MsgDisp("主人公","...can we?");

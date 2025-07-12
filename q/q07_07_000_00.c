@@ -2,7 +2,7 @@ BGMPlay("BGM_PLACE_TRAVEL",0.01);
 BGOpen("sc820",0);
 ChLayout(1);
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow...... the windmills and flowers are
 So pretty!");

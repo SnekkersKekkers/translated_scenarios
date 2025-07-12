@@ -5,7 +5,7 @@ SEPlay("EV_SE_DOOR_007");
 SEWait();
 MsgClose();
 BGMPlay("BGM_C22_HIKARU_A",0.01);
-ChOpen(22,255,0,0,2,-1,-1,0,0,0,90);
+ChOpen(22,255,0,0,2,#1,#1,0,0,0,90);
 VoicePlay("M012200000_22_000");
 MsgDisp("Hikaru","I'm coming iiin......");
 MsgDisp("主人公","｛ひかる＊｝！");

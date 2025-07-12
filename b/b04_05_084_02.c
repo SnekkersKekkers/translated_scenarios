@@ -62,7 +62,7 @@ use \"instagrammable\"?");
 Maybe just a bit cute.");
         ChEye(5,3);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040508402_05_060");
         MsgDisp("Hiiragi","Your smile just now 
 was \"instagrammable\".");

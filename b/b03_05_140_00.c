@@ -39,4 +39,4 @@ SEStop("EV_SE_GAYA_003",1);
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();
-ChOpen(5,255,0,0,0,-1,-1,0,0,0,0);
+ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);

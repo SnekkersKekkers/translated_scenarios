@@ -12,7 +12,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,41,3,0,4,-1,-1,0,0);
+ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200700_02_010");
 MsgDisp("Sassa","｛主人公｝, good work.");
@@ -44,7 +44,7 @@ MsgClose();
 BGMVol(0.5,2);
 BGOpen("ev002",0);
 MsgClose();
-ChOpen(2,100,0,0,0,-1,-1,0,0);
+ChOpen(2,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 MsgDisp("主人公","Yeah, same as always.

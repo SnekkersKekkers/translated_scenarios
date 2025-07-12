@@ -15,7 +15,7 @@ you get to drink freshly squeezed milk～");
     VoicePlay("P130100000_01_000");
     MsgDisp("Kazama?","......Pfft.");
     MsgClose();
-    ChOpen(1,254,0,2,3,-1,-1,0,0);
+    ChOpen(1,254,0,2,3,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Hey, why are you laughing?");
     ChMotion(1,3);
@@ -47,7 +47,7 @@ Ticket for one～!");
     MsgClose();
     ScrFadeOut(0,0);
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0,0,0);
     break ;
     case 4:
     case 5:
@@ -61,7 +61,7 @@ You get to drink freshly squeezed milk～");
     MsgDisp("主人公","Ah, ｛風真＊＊｝,
 is it already time to switch over?");
     MsgClose();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     VoicePlay("P130100000_01_050");
     MsgDisp("Kazama","No, I came to see how you were doing, and
 there's a spritely-looking cow at the
@@ -108,12 +108,12 @@ Admission for one～!");
     MsgClose();
     ScrFadeOut(0,0);
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0,0,0);
     break ;
     default :
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

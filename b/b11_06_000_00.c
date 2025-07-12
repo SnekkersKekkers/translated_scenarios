@@ -9,7 +9,7 @@ Or do you not want to know?");
 MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(33,254,0,0,0,-1,-1,0,0);
+ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110600000_33_010");
 MsgDisp("Guy","You probably want to try knocking 
 on the door too, don't you?
@@ -24,7 +24,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(20,0);
 MsgClose();
 BGMPlay("BGM_C06_INORI_A",0.01);
-ChOpen(6,253,0,0,0,-1,-1,0,1,0,30);
+ChOpen(6,253,0,0,0,#1,#1,0,1,0,30);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -94,7 +94,7 @@ ChPosition(33,2);
 ChClose(33,0,30);
 Wait(60);
 MsgClose();
-ChOpen(6,253,2,2,0,0,-1,0,0);
+ChOpen(6,253,2,2,0,0,#1,0,0);
 VoicePlay("B110600000_06_060");
 MsgDisp("Himuro","Haa... if he's running away, 
 he must know he's being a nuisance.");

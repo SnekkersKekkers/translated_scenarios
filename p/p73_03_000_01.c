@@ -13,7 +13,7 @@ I like it but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,5,3,3,-1,-1,0,0);
+    ChOpen(3,254,5,3,3,#1,#1,0,0);
     VoicePlay("P730300001_03_000");
     MsgDisp("Honda","Waa, it's a real dress, huh?
 And model too!");
@@ -58,7 +58,7 @@ I like it but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,4,4,3,-1,-1,0,0);
+    ChOpen(3,254,4,4,3,#1,#1,0,0);
     VoicePlay("P730300001_03_040");
     MsgDisp("Honda","Amazing, it's lovely...");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.

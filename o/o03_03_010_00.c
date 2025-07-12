@@ -7,7 +7,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(3,30,0,0,0,-1,-1,0,0);
+    ChOpen(3,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030301000_03_000");
     MsgDisp("Honda","Could it be that you're still
 looking for a partner?");
@@ -27,7 +27,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(3,30,0,0,0,-1,-1,0,0);
+    ChOpen(3,30,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("O030301000_03_020");
     MsgDisp("Honda","｛主人公｝,
@@ -58,7 +58,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();
-    ChOpen(3,30,5,2,4,-1,-1,0,0);
+    ChOpen(3,30,5,2,4,#1,#1,0,0);
     VoicePlay("O030301000_03_050");
     MsgDisp("Honda","Da, I'm late!");
     MsgDisp("主人公","Huh, ｛本多＊＊｝?");

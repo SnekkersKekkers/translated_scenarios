@@ -1,5 +1,5 @@
-ChEyeOpenLevel(6,-1);
-ChMouthOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
+ChMouthOpenLevel(6,#1);
 ChCheek(6,0);
 ChEye(6,0);
 ChMouth(6,0);

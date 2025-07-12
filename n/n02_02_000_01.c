@@ -5,7 +5,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(2,254,0,0,0,-1,-1,0,0);
+    ChOpen(2,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020200001_02_000");
     MsgDisp("Sassa","Wow, I always knew you were a good
@@ -31,7 +31,7 @@ best as well. Thank you.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200001_02_030");
@@ -57,7 +57,7 @@ Thank you!");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,254,4,0,0,-1,-1,0,0);
+    ChOpen(2,254,4,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200001_02_060");

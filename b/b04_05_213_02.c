@@ -50,7 +50,7 @@ fur stuck to the carpet.");
         VoicePlay("B040521302_05_040");
         MsgDisp("Hiiragi","After the lint roller passes through, 
 a  clean carpet appears.");
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         MsgDisp("主人公","Hehe, 
 ｛柊＊＊＊｝, do you like cleaning?");
         ChEye(5,3);

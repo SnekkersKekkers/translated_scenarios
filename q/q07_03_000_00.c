@@ -1,7 +1,7 @@
 BGMPlay("BGM_PLACE_TRAVEL",0.01);
 BGOpen("sc820",0);
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow......
@@ -104,7 +104,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("sc823",0);
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 BGMPlay("BGM_C03_HONDA_B",0.01);
 ScrFadeIn(0);

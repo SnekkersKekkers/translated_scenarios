@@ -5,7 +5,7 @@ MsgDisp("主人公","(......Hm?
 Infront of the store window is......)");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,255,3,1,4,-1,-1,0,0);
+ChOpen(7,255,3,1,4,#1,#1,0,0);
 MsgDisp("主人公","Hello, ｛御影＊＊｝.
 What are you doing?");
 ChEye(7,2);
@@ -18,7 +18,7 @@ ChPosition(7,1);
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChNanaType(0);
-ChOpen(4,255,0,2,0,-1,-1,0,2);
+ChOpen(4,255,0,2,0,#1,#1,0,2);
 ChMotion(4,2,1);
 VoiceEVSPlay(4);
 VoicePlay("E010720000_04_000");

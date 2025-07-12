@@ -11,7 +11,7 @@ so that would be impossible.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(5,254,0,0,4,-1,-1,0,0);
+ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("P840500005_05_000");
 MsgDisp("Hiiragi","What's the matter.");
 MsgDisp("主人公","The maps with incorrect information about

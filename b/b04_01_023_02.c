@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("B040102302_01_000");
 MsgDisp("Kazama","There are people doing business here.");
@@ -90,7 +90,7 @@ I can't read a thing.");
         MsgDisp("主人公","(... Then is this just to hold hands?)");
         MsgClose();
         MsgClose();
-        ChOpen(1,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

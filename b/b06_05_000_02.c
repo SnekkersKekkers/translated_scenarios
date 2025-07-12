@@ -4,7 +4,7 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(5,0);
     ChMouth(5,0);
     ChMotion(5,0,1);
@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     MsgDispSksp(0);
     break ;
     case 3:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0,1);
@@ -27,7 +27,7 @@ day.");
     break ;
     case 4:
     case 5:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0,1);

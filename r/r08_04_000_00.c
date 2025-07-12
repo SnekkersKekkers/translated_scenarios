@@ -2,7 +2,7 @@ MsgClose();
 BGOpen("sc771",2);
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,34,0,0,0,-1,-1,0,0);
+ChOpen(4,34,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("R080400000_04_000");
 MsgDisp("Nanatsumori","Yo.");

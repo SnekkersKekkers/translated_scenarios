@@ -13,7 +13,7 @@ MsgDisp("主人公","Eh, ｛颯砂＊＊｝...?");
 SEPlay("EV_SE_542",0,0.6);
 MsgClose();
 Wait(50,0);
-ChOpen(34,254,0,0,0,-1,-1,0,0);
+ChOpen(34,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110200001_34_010");
 MsgDisp("Guy","You can call me that too.
 I'll change my player name.");
@@ -21,7 +21,7 @@ MsgDisp("主人公","Ehh?");
 ChPosition(34,2);
 SEPlay("EV_SE_550");
 MsgClose();
-ChOpen(2,31,3,0,0,-1,-1,0,1,0,30);
+ChOpen(2,31,3,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110200001_02_000");
 MsgDisp("Sassa","Of course not.
 don't just take someone's 

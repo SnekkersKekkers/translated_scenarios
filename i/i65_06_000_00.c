@@ -15,7 +15,7 @@ for the car wash......)");
     MsgClose();
     SEStop("EV_SE_589",1);
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 What's up?");
     ChEye(6,0);
@@ -44,7 +44,7 @@ I wonder if he was checking on me?)");
     SEWait();
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650600000_06_030");
     MsgDisp("Himuro","Wow......
 You working hard?");
@@ -84,7 +84,7 @@ If so, I'm happy.)");
     MsgClose();
     SEStop("EV_SE_589",1);
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650600000_06_070");
     MsgDisp("Himuro","......Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");

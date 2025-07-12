@@ -10,7 +10,7 @@ Wait(60,0);
 BGMPlay("BGM_C04_NANA_A");
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,255,0,2,1,-1,-1,0,0,0,60);
+ChOpen(4,255,0,2,1,#1,#1,0,0,0,60);
 MsgDisp("主人公","Welco...me?
 Huh?");
 ChMouth(4,1);
@@ -35,7 +35,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChLayout(1);
 ChNanaType(1);
-ChOpen(4,35,0,2,0,-1,-1,0,0,0,60);
+ChOpen(4,35,0,2,0,#1,#1,0,0,0,60);
 VoicePlay("G110400703_04_020");
 MsgDisp("Nanatsumori","Sorry again. Thank you very much
 for your help.");
@@ -66,7 +66,7 @@ SEPlay("EV_SE_DOOR_014");
 BGMVol(0.5,2);
 ChLayout(1);
 ChNanaType(1);
-ChOpen(4,35,0,0,2,-1,-1,0,0);
+ChOpen(4,35,0,0,2,#1,#1,0,0);
 Wait(30,1);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah...");
@@ -82,7 +82,7 @@ ScrFadeOut(0);
 MsgClose();
 BGOpen("ev004",0);
 ChNanaType(1);
-ChOpen(4,100,1,1,1,-1,-1,0,0);
+ChOpen(4,100,1,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400703_04_050");
 MsgDisp("Nanatsumori","The schedule for a shoot was

@@ -24,7 +24,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C09_KUYA_B",0.01);
-ChOpen(9,254,0,0,0,-1,-1,0,0);
+ChOpen(9,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Kuya-san!
 How did you——");
 ChEye(9,3);

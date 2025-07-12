@@ -1,8 +1,8 @@
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 BGOpen("tr470",2);
 BGMPlay("BGM_PLACE_AMUSE_NIGHT",0.01);
@@ -116,7 +116,7 @@ one will disturb us.");
         MsgDisp("Nanatsumori","…………");
         ChMouth(4,1);
         ChMotion(4,0,1);
-        ChEyeOpenLevel(4,-1);
+        ChEyeOpenLevel(4,#1);
         VoicePlay("B040423602_04_130");
         MsgDisp("Nanatsumori","...Stop.
 Sorry, it was a joke.");

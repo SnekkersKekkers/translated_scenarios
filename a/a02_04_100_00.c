@@ -73,7 +73,7 @@ MsgClose();
 StlClose();
 BGOpen("sc310",0);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 ChEye(4,1);
@@ -117,7 +117,7 @@ MsgDisp("Nanatsumori?","…………");
 MsgDisp("主人公","Wait a minute, 
 you sure look a lot like NANA-kun,
 uhhh......");
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("A020410000_04_120");
 MsgDisp("Nanatsumori","......Nanatsumori Minoru.");
 MsgDisp("主人公","Even the name matches.");

@@ -1,7 +1,7 @@
 MsgClose();
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(4,6)){
     case 0:
@@ -13,7 +13,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","...");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
     ChMotion(4,1,1);
-    ChMouthOpenLevel(4,-1);
+    ChMouthOpenLevel(4,#1);
     VoicePlay("N020400002_04_010");
     MsgDisp("Nanatsumori","I'm not the type to get happy or sad when
 I see these things.

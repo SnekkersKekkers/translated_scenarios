@@ -2,8 +2,8 @@ BGOpen("tr430",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,0,0,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423202_04_000");
 MsgDisp("Nanatsumori","Come to think of it... 
@@ -36,7 +36,7 @@ their love fulfilled with that.");
         ChEyeOpenLevel(4,9);
         VoicePlay("B040423202_04_020");
         MsgDisp("Nanatsumori","I do not.");
-        ChEyeOpenLevel(4,-1);
+        ChEyeOpenLevel(4,#1);
         MsgDateResultDisp();
         break ;
         case 4:

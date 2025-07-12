@@ -1,6 +1,6 @@
 BGOpen("sc823",0);
 MsgClose();
-ChOpen(2,254,0,0,4,-1,-1,0,0);
+ChOpen(2,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","All the buildings have style.");
 ChEye(2,2);
@@ -16,7 +16,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChPosition(2,2);
 MsgClose();
-ChOpen(1,254,0,0,3,-1,-1,0,1);
+ChOpen(1,254,0,0,3,#1,#1,0,1);
 SEWait();
 VoicePlay("Q070A00200_01_000");
 MsgDisp("Kazama","There are even stuff here still used since

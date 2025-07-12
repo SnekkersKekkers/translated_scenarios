@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020320300_03_000");
 MsgDisp("Honda","There are different types of love,
 aren't there?");
@@ -79,8 +79,8 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);
 
 

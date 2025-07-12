@@ -9,7 +9,7 @@ ScrFadeOut(0);
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
-ChOpen(3,100,1,0,0,-1,-1,0,0);
+ChOpen(3,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300400_03_000");
 MsgDisp("Honda","A new edition of 'The Path of First Love'

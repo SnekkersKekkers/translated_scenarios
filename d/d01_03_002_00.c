@@ -65,7 +65,7 @@ BGMVol(0.5,2);
 SEPlay("EV_SE_063",0,0.6);
 SEWait();
 MsgClose();
-ChOpen(3,254,0,4,0,-1,-1,0,0);
+ChOpen(3,254,0,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010300200_03_050");
 MsgDisp("Honda","She always says......\"Thank you for the 

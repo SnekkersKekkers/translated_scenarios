@@ -14,7 +14,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(3,254,1,0,0,-1,-1,0,0);
+ChOpen(3,254,1,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P840300005_03_000");
 MsgDisp("Honda","｛主人公｝, Good work.");

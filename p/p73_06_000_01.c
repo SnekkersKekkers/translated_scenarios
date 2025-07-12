@@ -12,7 +12,7 @@ I like it but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730600001_06_000");
     MsgDisp("Himuro","It's amazing huh, that dress.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.
@@ -62,7 +62,7 @@ I like it but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730600001_06_050");
     MsgDisp("Himuro","Eh...");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.

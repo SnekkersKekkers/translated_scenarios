@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -49,7 +49,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,0);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("G020140003_01_060");
 MsgDisp("Kazama","But I wanted to know why people wanted it
 so I went and checked out the driftwood a
@@ -104,6 +104,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

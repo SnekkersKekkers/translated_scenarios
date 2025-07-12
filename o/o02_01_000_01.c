@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,0,0,-1,-1,0,0);
+    ChOpen(1,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020100001_01_000");
     MsgDisp("Kazama","That was close.
@@ -16,7 +16,7 @@ It was a nice fight.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,0,2,-1,-1,0,0);
+    ChOpen(1,30,0,0,2,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(1,4);
     ChMouth(1,2);
@@ -52,7 +52,7 @@ thanks for encouraging me......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝,
 it was close, but we lost.");

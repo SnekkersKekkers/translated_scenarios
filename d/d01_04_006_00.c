@@ -49,7 +49,7 @@ BGMVol(0.5,2);
 BGOpen("ne100",1);
 MsgClose();
 ChNanaType(1);
-ChOpen(4,35,0,2,4,-1,-1,0,0);
+ChOpen(4,35,0,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("D010400600_04_040");

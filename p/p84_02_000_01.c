@@ -4,7 +4,7 @@ MsgDisp("","(Splat!)");
 MsgDisp("主人公","Ahh, I'm so sorry!");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(2,254,4,0,0,-1,-1,0,0);
+ChOpen(2,254,4,0,0,#1,#1,0,0);
 VoicePlay("P840200001_02_000");
 MsgDisp("Sassa","Are you okay?
 Come on, let's clean this up.");
@@ -20,7 +20,7 @@ MsgDisp("主人公","｛颯砂＊＊｝, sorry for the trouble.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,254,0,0,0,-1,-1,0,0);
+ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840200001_02_010");
 MsgDisp("Sassa","It's okay. You shouldn't try to carry it
 all by yourself.");

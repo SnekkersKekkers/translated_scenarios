@@ -2,7 +2,7 @@ BGMPlay("BGM_PLACE_TRAVEL",0.01);
 BGOpen("sc820",0);
 ChLayout(1);
 MsgClose();
-ChOpen(2,254,0,0,0,-1,-1,0,0);
+ChOpen(2,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow...... the orange flowers are so
 pretty.");
@@ -54,7 +54,7 @@ ChClose(2,0,0);
 BGOpen("sc821",0);
 ScrFadeIn(0);
 MsgClose();
-ChOpen(2,254,0,0,0,-1,-1,0,0);
+ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoicePlay("Q070200000_02_050");
 MsgDisp("Sassa","Huh......
 That's a big building..");
@@ -107,7 +107,7 @@ MsgClose();
 BGOpen("sc823",0);
 ScrFadeIn(0);
 BGMPlay("BGM_C02_SASSA_B",0.01);
-ChOpen(2,254,4,0,0,-1,-1,0,0);
+ChOpen(2,254,4,0,0,#1,#1,0,0);
 VoicePlay("Q070200000_02_100");
 MsgDisp("Sassa","Sorry about earlier.
 The tower had a lift, huh.

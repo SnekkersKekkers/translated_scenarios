@@ -53,7 +53,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("fp510",0);
 MsgClose();
-ChOpen(1,31,7,2,2,0,-1,0,0);
+ChOpen(1,31,7,2,2,0,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","This is fun huh.");
 ChEye(1,2);
@@ -113,5 +113,5 @@ MsgDisp("Kazama","You're welcome.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChPrmTblAdd(1,0);

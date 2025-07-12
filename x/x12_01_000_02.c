@@ -1,6 +1,6 @@
 BGOpen("sc607",0);
 MsgClose();
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I seem to be doing well lately!)");

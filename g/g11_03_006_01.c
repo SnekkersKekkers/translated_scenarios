@@ -6,7 +6,7 @@ VoicePlay("G110300601_03_000");
 MsgDisp("Honda?","｛主人公｝, Good work.");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,0,0,3,-1,-1,0,0);
+ChOpen(3,35,0,0,3,#1,#1,0,0);
 VoicePlay("G110300601_03_010");
 MsgDisp("Honda","This is a message from the manager.
 They're entrusting the monthly staff book
@@ -39,7 +39,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,0,-1,-1,0,0);
+ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300601_03_040");

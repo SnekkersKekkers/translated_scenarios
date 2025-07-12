@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C09_KUYA_A",0.01);
 MsgClose();
-ChOpen(9,35,0,2,0,-1,-1,0,0);
+ChOpen(9,35,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D030900500_09_000");
 MsgDisp("Kuya","Sorry, I made you wait a while, huh?");
@@ -108,7 +108,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(9,35,0,3,0,-1,-1,0,0);
+ChOpen(9,35,0,3,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);

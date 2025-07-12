@@ -66,7 +66,7 @@ of having you take the lift back.");
         BGOpen("tr110",0);
         MsgClose();
         SEPlay("EV_SE_564",0.2);
-        ChOpen(5,32,3,2,4,-1,-1,0,0);
+        ChOpen(5,32,3,2,4,#1,#1,0,0);
         SEWait();
         ScrFadeIn(0);
         VoiceEVSPlay(5);

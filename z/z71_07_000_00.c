@@ -13,7 +13,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Z710700000_07_010");
 MsgDisp("Mikage","Please, be quiet this year.");
@@ -63,7 +63,7 @@ BGOpen("sc321",0);
 ScrFadeIn(0);
 Wait(60);
 SEPlay("EV_SE_544");
-ChOpen(7,254,0,0,3,-1,-1,0,0);
+ChOpen(7,254,0,0,3,#1,#1,0,0);
 VoicePlay("Z710700000_07_050");
 MsgDisp("Mikage","So, my name is Mikage Kojiro.
 Looking around, I see a lot of familiar

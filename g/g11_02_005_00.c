@@ -20,7 +20,7 @@ MsgClose();
 BGOpen("ev002",0);
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,100,1,1,0,-1,-1,0,0);
+ChOpen(2,100,1,1,0,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoicePlay("G110200500_02_010");
@@ -72,7 +72,7 @@ ChClose(2,0,0);
 SEPlay("EV_SE_SCHOOL_002",0,0.6);
 BGOpen("sc200",0);
 MsgClose();
-ChOpen(2,41,3,0,4,-1,-1,0,0);
+ChOpen(2,41,3,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200500_02_060");
 MsgDisp("Sassa","That's the warning bell, thank you.

@@ -79,7 +79,7 @@ MsgDisp("主人公","T-Thank you...");
 SEPlay("EV_SE_713",0.1,0.5);
 Wait(30,1);
 MsgClose();
-ChOpen(6,254,2,0,0,0,-1,0,0);
+ChOpen(6,254,2,0,0,0,#1,0,0);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

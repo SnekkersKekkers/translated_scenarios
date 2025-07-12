@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,2,4,-1,-1,0,0,0,30);
+    ChOpen(5,254,0,2,4,#1,#1,0,0,0,30);
     VoicePlay("H480500000_05_000");
     MsgDisp("Hiiragi","Ah, I've finally found you.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝!

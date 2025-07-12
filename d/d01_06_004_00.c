@@ -10,7 +10,7 @@ How long were you going to make me
 wait?");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Eh, ｛氷室＊＊｝?
 What's up?");
 ChEye(6,0);
@@ -105,7 +105,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(6,254,2,1,0,0,-1,0,0);
+ChOpen(6,254,2,1,0,0,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Isn't catching a snowball like
 that kind of amazing?");

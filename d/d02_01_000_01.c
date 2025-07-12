@@ -2,7 +2,7 @@ BGOpen("ho000",0);
 ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Oh?
 ｛風真＊＊｝, good morning!
@@ -69,7 +69,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ex240",0);
-NSSOpen(1,254,0,0,-1,-1,0);
+NSSOpen(1,254,0,0,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_121");
@@ -101,7 +101,7 @@ MsgDisp("主人公","Kyaa∈
 There's a puddle here......");
 BGOpen("sc100",0);
 MsgClose();
-ChOpen(1,254,0,3,3,-1,-1,0,0);
+ChOpen(1,254,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(1,3);
 VoicePlay("D020100000_01_150");
@@ -114,7 +114,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1,0,30);
 ChLayout(0);
 MsgClose();
-ChOpen(1,254,0,0,3,-1,-1,0,0,0,30);
+ChOpen(1,254,0,0,3,#1,#1,0,0,0,30);
 ChMotion(1,3);
 VoicePlay("D020100000_01_160");
 MsgDisp("Kazama","Come, give me your hand.
@@ -162,7 +162,7 @@ Wait(10,0);
 VoicePlay("D020100000_01_180");
 MsgDisp("Kazama","Whatever.
 I don't care at all if they stare.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","It bothers me!");
 SEStop("EV_SE_515",1);
 ChEye(1,3);
@@ -170,5 +170,5 @@ ChMouth(1,2);
 Wait(60,1);
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChCheek(1,0);

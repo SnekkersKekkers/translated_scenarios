@@ -1,6 +1,6 @@
 BGOpen("ne330",0);
 MsgClose();
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600300_06_000");
 MsgDisp("Himuro","That bear prize......
@@ -91,7 +91,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Hmm......that was unfortunate.");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(6,255,2,2,0,0,-1,0,0);
+ChOpen(6,255,2,2,0,0,#1,0,0);
 VoicePlay("B050600300_06_110");
 MsgDisp("Himuro","Haa......");
 MsgDisp("主人公","Sorry?

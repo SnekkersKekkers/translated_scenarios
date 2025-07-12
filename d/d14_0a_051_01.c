@@ -57,7 +57,7 @@ VoicePlay("D140A05101_02_030");
 MsgDisp("Sassa","Even if you say that, isn't it 
 weird if I talk about the 
 two of us going out?");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -7,7 +7,7 @@ switch (ChPrmGet(21,6)){
     BGOpen("sc624",0);
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
-    ChOpen(21,254,7,0,0,-1,-1,0,0);
+    ChOpen(21,254,7,0,0,#1,#1,0,0);
     ChLayout(1);
     Wait(15,0);
     ScrFadeIn(0);
@@ -36,7 +36,7 @@ rhythmic gymnastics club......!)");
     BGOpen("sc624",0);
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
-    ChOpen(21,254,7,0,0,-1,-1,0,0);
+    ChOpen(21,254,7,0,0,#1,#1,0,0);
     ChLayout(1);
     Wait(15,0);
     ScrFadeIn(0);

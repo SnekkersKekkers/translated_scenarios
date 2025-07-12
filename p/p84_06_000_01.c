@@ -3,7 +3,7 @@ MsgDisp("主人公","Ummm...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,254,2,1,0,0,-1,0,0);
+ChOpen(6,254,2,1,0,0,#1,0,0);
 VoicePlay("P840600001_06_000");
 MsgDisp("Himuro","Your execution is bad.");
 MsgDisp("主人公","I-I'm doing my best though.");

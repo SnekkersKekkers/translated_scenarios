@@ -17,7 +17,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,0,0,0,-1,-1,0,0);
+ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("G110101100_01_000");
@@ -39,7 +39,7 @@ ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,0);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("G110101100_01_020");
 MsgDisp("Kazama","Surely it's just because you're a good
 employee?");

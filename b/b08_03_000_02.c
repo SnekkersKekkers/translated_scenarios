@@ -1,7 +1,7 @@
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 VoicePlay("B080300001_03_020")MsgDisp("Honda","Did something happen?");
 MsgDisp("主人公","No, it's nothing.");
 ChEye(3,4);

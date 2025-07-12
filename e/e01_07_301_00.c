@@ -11,8 +11,8 @@ MsgDisp("Honda?","It's the best!
 I check it out all the time.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(7,255,0,0,0,-1,-1,0,1,0,30);
-ChOpen(3,255,0,0,0,-1,-1,0,2,0,30);
+ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
+ChOpen(3,255,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","｛御影＊＊｝, ｛本多＊＊｝.
 What are you two talking about?");
 ChEye(7,0);
@@ -46,7 +46,7 @@ MsgDisp("主人公","Ah, a microscope......");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 VoicePlay("E010730100_03_030");
 MsgDisp("Honda","Yeah!
 The magnification is 1000 times ∈

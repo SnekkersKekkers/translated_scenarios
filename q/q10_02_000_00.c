@@ -1,7 +1,7 @@
 BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc822",0);
 MsgClose();
-ChOpen(2,254,0,0,0,-1,-1,0,0);
+ChOpen(2,254,0,0,0,#1,#1,0,0);
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -71,7 +71,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("sc824",0);
 MsgClose();
-ChOpen(2,254,2,0,4,-1,-1,0,0);
+ChOpen(2,254,2,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q100200000_02_080");
 MsgDisp("Sassa","There's lots of yummy-looking stuff 

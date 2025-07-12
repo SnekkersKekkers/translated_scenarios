@@ -9,7 +9,7 @@ SEPlay("EV_SE_DOOR_025");
 Wait(220,0);
 MsgClose();
 BGOpen("sc320",0);
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F100740002_44_000");
 MsgDisp("School Girl A","Ehhh, why is Vice Principal Himuro here? ");
@@ -48,7 +48,7 @@ SEWait();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChPosition(32,1);
 MsgClose();
-ChOpen(7,254,0,2,0,-1,-1,0,2);
+ChOpen(7,254,0,2,0,#1,#1,0,2);
 VoicePlay("F100740002_07_020");
 MsgDisp("Mikage","Ahhh, is that so?
 Then, let's go outs——");
@@ -111,7 +111,7 @@ MsgDisp("Mikage","Ah, yes.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
-ChMouthOpenLevel(7,-1);
+ChMouthOpenLevel(7,#1);
 VoicePlay("F100740002_07_060");
 MsgDisp("Mikage","Thank you. It's all thanks to you guys.
 I'm looking forward to 

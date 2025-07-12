@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_D",0.01);
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("H3A0100001_01_000");
@@ -37,7 +37,7 @@ But I really wanted to win.)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_D",0.01);
-    ChOpen(1,254,0,4,2,-1,-1,0,0);
+    ChOpen(1,254,0,4,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0100001_01_030");
     MsgDisp("Kazama","Did you get hurt?");
@@ -64,7 +64,7 @@ For worrying about me.");
     ChLayout(0);
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,254,0,4,3,-1,-1,0,0,0,30);
+    ChOpen(1,254,0,4,3,#1,#1,0,0,0,30);
     VoicePlay("H3A0100001_01_060");
     MsgDisp("Kazama","Honestly, I was scared to death.
 But you really did your best.");

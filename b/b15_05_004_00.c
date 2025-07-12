@@ -1,13 +1,13 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,4,2,2,0,-1,7,0);
+ChOpen(5,255,4,2,2,0,#1,7,0);
 ScrFadeIn(0);
 VoicePlay("B150500400_05_000");
 MsgDisp("Hiiragi","...Haa.");
 MsgDisp("主人公","Ah, I'm sorry.");
 ChMotion(5,1);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 ChCheek(5,5);
 VoicePlay("B150500400_05_010");
 MsgDisp("Hiiragi","What are you doing,
@@ -39,7 +39,7 @@ being a man. I'm an actor,
 before I'm a man.");
 MsgDisp("主人公","Is... that so?");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B150500400_05_060");
 MsgDisp("Hiiragi","Yes. Therefore, today Hiiragi Yanosuke 
 is switching to another role. ");

@@ -8,7 +8,7 @@ performance of three years.
 I'm glad...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("P540100004_01_000");
 MsgDisp("Kazama","｛主人公｝.");

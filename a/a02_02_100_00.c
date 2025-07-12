@@ -9,7 +9,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 SEWait();
 BGMPlay("BGM_C02_SASSA_I");
-ChOpen(2,41,3,0,4,-1,-1,0,0);
+ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("A020210000_02_010");
 MsgDisp("Sassa?","You've been exercising around here 
 lately, right?
@@ -65,7 +65,7 @@ MsgClose();
 ChClose(2);
 BGOpen("ev002",0);
 MsgClose();
-ChOpen(2,100,1,0,0,-1,-1,0,0);
+ChOpen(2,100,1,0,0,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoicePlay("A020210000_02_080");
@@ -104,7 +104,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGMVol(0.5,2);
 ScrFadeIn(0);
 MsgClose();
-ChOpen(2,41,3,0,4,-1,-1,0,0);
+ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("A020210000_02_120");
 MsgDisp("Sassa","Phew, that was nice!
 Feeling a little tired?");

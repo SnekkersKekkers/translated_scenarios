@@ -7,7 +7,7 @@ MsgDisp("主人公","(Uuugh, I fell...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(3,254,1,0,4,-1,-1,0,0);
+ChOpen(3,254,1,0,4,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P740300001_03_000");
 MsgDisp("Honda","｛主人公｝, 

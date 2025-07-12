@@ -13,7 +13,7 @@ at least one. I finally found my
 cash cow... no, I mean, talent!");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(35,254,0,1,0,-1,-1,0,0);
+ChOpen(35,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110100002_35_010");
 MsgDisp("Guy","Eh?
 It's here, it's here, my money maker～!");
@@ -44,7 +44,7 @@ ChPosition(35,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 MsgClose();
-ChOpen(1,253,0,0,2,8,-1,0,1,0,30);
+ChOpen(1,253,0,0,2,8,#1,0,1,0,30);
 ChMotion(1,3);
 VoicePlay("B110100002_01_000");
 MsgDisp("Kazama","Oi, what business

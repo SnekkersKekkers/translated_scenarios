@@ -43,7 +43,7 @@ made by these cows.");
     VoicePlay("B040424100_04_030");
     MsgDisp("Nanatsumori","They're staring...
 their eyes are surprisingly cute, right?");
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

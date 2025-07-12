@@ -14,7 +14,7 @@ make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,4,4,-1,-1,5,0);
+    ChOpen(5,254,0,4,4,#1,#1,5,0);
     VoicePlay("P730500002_05_000");
     MsgDisp("Hiiragi","It's wonderful, yes?
 The wedding dress...");
@@ -71,7 +71,7 @@ make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,4,2,-1,-1,7,0);
+    ChOpen(5,254,0,4,2,#1,#1,7,0);
     VoicePlay("P730500002_05_060");
     MsgDisp("Hiiragi","...Hu.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝..");

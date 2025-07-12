@@ -15,7 +15,7 @@ Let's give up, okay?");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(1,30,0,0,0,-1,-1,0,0);
+    ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030101000_01_000");
     MsgDisp("Kazama","There you are.
 Hurry, let's tie our legs together.");
@@ -51,7 +51,7 @@ with ｛風真＊＊｝.)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(1,30,0,0,2,-1,-1,0,0);
+    ChOpen(1,30,0,0,2,#1,#1,0,0);
     VoicePlay("O030101000_01_030");
     MsgDisp("Kazama","So you were over here.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝. Everyone's
@@ -99,7 +99,7 @@ Too bad.");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(1,30,0,0,0,-1,-1,0,0);
+    ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("O030101000_01_080");
     MsgDisp("Kazama","｛主人公｝.

@@ -8,7 +8,7 @@ VoicePlay("F100340002_03_010");
 MsgDisp("Honda?","Mii-kun, come out.");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,254,0,0,4,-1,-1,0,0);
+ChOpen(3,254,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","｛本多＊＊｝!
 Are you looking for ｛七ツ森＊｝ again?
 He really is like a lost cat.");
@@ -53,7 +53,7 @@ ChPosition(3,1);
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChNanaType(0);
-ChOpen(4,254,0,2,3,-1,-1,0,2);
+ChOpen(4,254,0,2,3,#1,#1,0,2);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

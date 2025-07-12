@@ -2,7 +2,7 @@ MsgClose();
 BGOpen("sc351",0);
 ChLayout(1);
 BGMPlay("BGM_C07_MIKAGE_A");
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(7,6)){
     case 0:
@@ -26,7 +26,7 @@ I'll take it gratefully.");
     VoicePlay("L040700000_07_010");
     MsgDisp("Mikage","If you're the one giving it to me,
 there's no choice but to take it.");
-    ChEyeOpenLevel(7,-1);
+    ChEyeOpenLevel(7,#1);
     break ;
     case 3:
     MsgDisp("主人公","｛御影＊＊｝,
@@ -77,4 +77,4 @@ the difference if yours are there, too.");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);

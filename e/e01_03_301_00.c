@@ -6,7 +6,7 @@ home now?)");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010330100_03_000");
 MsgDisp("Honda","｛主人公｝, were you shopping?");
@@ -23,7 +23,7 @@ MsgDisp("主人公","｛柊＊＊＊｝?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChPosition(3,1);
-ChOpen(5,255,0,4,4,-1,-1,0,2);
+ChOpen(5,255,0,4,4,#1,#1,0,2);
 VoicePlay("E010330100_05_000");
 MsgDisp("Hiiragi","Honda-kun, thanks for waiting.");
 MsgDisp("主人公","｛柊＊＊＊｝, good afternoon.

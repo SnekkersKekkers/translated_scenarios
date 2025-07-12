@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510305_05_000");
 MsgDisp("Hiiragi","Ancient people likened these fleeting, yet
 beautiful lights to the souls of the
@@ -54,7 +54,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020510305_05_060");
 MsgDisp("Hiiragi","If that were true, I'd be happy.
 Shall we go check it out again sometime?");
@@ -64,6 +64,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

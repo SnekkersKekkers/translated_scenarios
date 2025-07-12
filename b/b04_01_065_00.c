@@ -3,7 +3,7 @@ BGOpen("wf710",2);
 EnvPlay("SE_ENV_BG_WF720_CO2",0.5);
 ChLayout(1);
 MsgClose();
-ChOpen(1,33,0,0,3,-1,-1,0,0);
+ChOpen(1,33,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040106500_01_000");
 MsgDisp("Kazama","They're going to get fired off one after

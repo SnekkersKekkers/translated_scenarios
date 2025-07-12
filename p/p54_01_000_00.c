@@ -8,7 +8,7 @@ Seems like my first performance
 was a huge success!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoicePlay("P540100000_01_000");
 MsgDisp("Kazama","Congratulations.
 Naturally you would get a 

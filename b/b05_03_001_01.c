@@ -66,7 +66,7 @@ SEStop("EV_SE_674",1.5);
 ScrFadeOut(0);
 StlClose();
 MsgClose();
-ChOpen(3,253,0,0,0,-1,-1,0,0);
+ChOpen(3,253,0,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050300101_44_030");

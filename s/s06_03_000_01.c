@@ -90,5 +90,5 @@ He seems really happy!)");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

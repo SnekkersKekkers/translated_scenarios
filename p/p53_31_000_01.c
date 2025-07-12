@@ -7,7 +7,7 @@ But, as expected I'm still nervous.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,0,0,0,-1,-1,0,0);
+ChOpen(31,254,0,0,0,#1,#1,0,0);
 VoicePlay("P533100001_31_000");
 MsgDisp("Goro","Game music?");
 MsgDisp("主人公","Ah, Goro-sensei!");

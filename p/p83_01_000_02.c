@@ -17,7 +17,7 @@ and talking to yourself.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Hey, I'm patrolling the school you know?");
     ChEye(1,2);
@@ -58,7 +58,7 @@ the cultural festival...!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,3,8,-1,0,0);
+    ChOpen(1,254,0,0,3,8,#1,0,0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝! I'm not slacking off,
 Right now I'm patrolling around the
 school.");
@@ -98,6 +98,6 @@ takoyaki stand!");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

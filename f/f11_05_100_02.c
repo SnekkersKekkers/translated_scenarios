@@ -1,7 +1,7 @@
 BGOpen("sc710",0);
 ChLayout(1);
 MsgClose();
-ChOpen(5,254,0,0,4,-1,-1,0,0);
+ChOpen(5,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510002_05_000");

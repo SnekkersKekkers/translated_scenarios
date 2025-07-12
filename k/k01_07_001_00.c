@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();
     BGMPlay("BGM_C07_MIKAGE_A");
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -41,7 +41,7 @@ Please open it!");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();
     BGMPlay("BGM_C07_MIKAGE_A");
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("K010700100_07_030");
     MsgDisp("Mikage","Ooh, you're in high spirits?");
     MsgDisp("主人公","Happy birthday!
@@ -64,7 +64,7 @@ If you'd like, please open it!");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();
     BGMPlay("BGM_C07_MIKAGE_A");
-    ChOpen(7,254,3,0,3,8,-1,0,0);
+    ChOpen(7,254,3,0,3,8,#1,0,0);
     VoicePlay("K010700100_07_050");
     MsgDisp("Mikage","You've come～?
 I've been waiting.");
@@ -88,4 +88,4 @@ choose for me?");
     break ;
     }
 MsgClose();
-ChEyeOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);

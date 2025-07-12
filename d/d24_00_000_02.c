@@ -13,7 +13,7 @@ VoicePlay("D240000002_41_010");
 MsgDisp("Tanaka Shin","Let's continue to make Habacha
 even better and better!");
 MsgClose();
-ChOpen(31,254,4,3,3,-1,-1,0,0);
+ChOpen(31,254,4,3,3,#1,#1,0,0);
 VoicePlay("D230000002_31_000");
 MsgDisp("Goro","I'm sure all of the rough diamonds
 are happy to see all your 

@@ -15,7 +15,7 @@ it's finally the runway...I'm nervous..)");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P730400000_04_000");
     MsgDisp("Nanatsumori","Ah, I see a person stressing.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!
@@ -63,7 +63,7 @@ it's finally the runway...I'm nervous..)");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("P730400000_04_050");
     MsgDisp("Nanatsumori","｛主人公｝.

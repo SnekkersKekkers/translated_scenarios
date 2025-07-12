@@ -39,7 +39,7 @@ of the mountains.");
     MsgDisp("Nanatsumori","Where?
 I need to take a good picture of
 the mountains and the sky!");
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -12,7 +12,7 @@ MsgSel("We have the winter sea to ourselves!","the winter sea feels sad...","The
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     VoicePlay("B040406300_04_010");
     MsgDisp("Nanatsumori","Feel free to keep it to yourself.
 I'm going home.");

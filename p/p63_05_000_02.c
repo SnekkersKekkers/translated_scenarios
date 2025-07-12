@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
 It's a culmination of my efforts
 in the Gardening Club...)");
     MsgClose();
-    ChOpen(5,254,2,0,4,-1,-1,0,0);
+    ChOpen(5,254,2,0,4,#1,#1,0,0);
     VoicePlay("P630500002_05_000");
     MsgDisp("Hiiragi","This is amazing...");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
@@ -56,7 +56,7 @@ Then, follow me to your seat.");
 It's a culmination of my efforts
 in the Gardening Club...)");
     MsgClose();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P630500002_05_050");
     MsgDisp("Hiiragi","｛主人公｝.");

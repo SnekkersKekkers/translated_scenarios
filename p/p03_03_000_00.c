@@ -14,7 +14,7 @@ matcha and mitarashi dango..");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(3,254,5,0,3,0,-1,0,0);
+    ChOpen(3,254,5,0,3,0,#1,0,0);
     VoicePlay("P030300000_03_000");
     MsgDisp("Honda","The dango being roasted smells so
 good.");
@@ -44,7 +44,7 @@ matcha and mitarashi dango.");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(3,254,0,0,0,-1,-1,0,0);
+    ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P030300000_03_030");
     MsgDisp("Honda","｛主人公｝.

@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C06_INORI_C",0.01);
-    ChOpen(6,254,3,0,3,-1,-1,0,0);
+    ChOpen(6,254,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H4A0600000_06_000");
     MsgDisp("Himuro","You did it.");
@@ -34,7 +34,7 @@ Today's the best day ever!)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C06_INORI_C",0.01);
-    ChOpen(6,254,4,0,0,-1,-1,10,0);
+    ChOpen(6,254,4,0,0,#1,#1,10,0);
     ScrFadeIn(0);
     VoicePlay("H4A0600000_06_030");
     MsgDisp("Himuro","Congrats.");

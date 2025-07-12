@@ -5,7 +5,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGOpen("sc740",0);
 BGMPlay("BGM_ENGEKI_G",0.01);
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240701000_07_000");
 MsgDisp("Mikage","How is it?
@@ -86,7 +86,7 @@ Wait(180,0);
 MsgClose();
 SEStop("EV_SE_GAYA_021",1.5);
 BGOpen("sc740",0);
-ChOpen(7,254,3,0,0,-1,-1,0,0);
+ChOpen(7,254,3,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240701000_07_060");
 MsgDisp("Mikage","Good work!

@@ -110,7 +110,7 @@ MsgDisp("主人公","｛七ツ森＊｝.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 SEStop("EV_SE_GAYA_016",5);
 SEStop("EV_SE_864",5);
 VoicePlay("D010400500_04_040");

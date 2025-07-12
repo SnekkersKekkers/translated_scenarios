@@ -84,7 +84,7 @@ times when I was a kid.");
         ChClose(2);
         MsgDisp("主人公","｛颯砂＊＊｝, are you okay∋");
         MsgClose();
-        ChOpen(2,255,0,4,2,-1,-1,0,0);
+        ChOpen(2,255,0,4,2,#1,#1,0,0);
         VoicePlay("B040206302_02_070");
         MsgDisp("Sassa","Y-Yeah.
 That was dangerous......");

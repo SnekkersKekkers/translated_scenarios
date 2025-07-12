@@ -2,7 +2,7 @@ SEPlay("EV_SE_517");
 Wait(110,0);
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,5,0,0,-1,-1,0,0);
+ChOpen(3,255,5,0,0,#1,#1,0,0);
 SEStop("EV_SE_517",2);
 VoicePlay("B040302400_03_000");
 MsgDisp("Honda","Wow, what a nice sound. It's a brass

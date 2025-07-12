@@ -13,7 +13,7 @@ customers...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,0,0,0,-1,-1,0,0);
+    ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300001_03_000");
     MsgDisp("Honda","｛主人公｝.
@@ -66,7 +66,7 @@ customers...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,0,0,3,-1,-1,0,0);
+    ChOpen(3,254,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300001_03_060");
     MsgDisp("Honda","｛主人公｝.

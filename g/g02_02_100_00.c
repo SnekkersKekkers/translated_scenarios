@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,3,0,4,-1,-1,0,0);
+ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoicePlay("G020210000_02_000");
 MsgDisp("Sassa","Ohh, it's really pretty...... Just how
 many are there?");
@@ -48,6 +48,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

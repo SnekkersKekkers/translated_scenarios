@@ -44,7 +44,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B360523600_05_050");
 MsgDisp("Hiiragi","That's troublesome.
 Then, as proof, I'll turn my back on the
@@ -54,7 +54,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(5,0,30);
 ChLayout(0);
 MsgClose();
-ChOpen(5,255,0,3,4,-1,-1,0,0,0,30);
+ChOpen(5,255,0,3,4,#1,#1,0,0,0,30);
 VoicePlay("B360523600_05_060");
 MsgDisp("Hiiragi","See, my field of vision has narrowed.");
 MsgDisp("主人公","Um...... ｛柊＊＊＊｝?");
@@ -79,4 +79,4 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChOpen(5,255,7,0,0,-1,-1,0,0,0,0);
+ChOpen(5,255,7,0,0,#1,#1,0,0,0,0);

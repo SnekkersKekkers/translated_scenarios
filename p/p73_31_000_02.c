@@ -8,7 +8,7 @@ festival... I have to make it a success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,4,0,0,-1,-1,0,0);
+ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("P733100002_31_000");
 MsgDisp("Goro","Hey～, adorable, waa▼");
 MsgDisp("主人公","Ah, Goro-sensei!

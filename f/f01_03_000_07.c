@@ -1,6 +1,6 @@
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -172,5 +172,5 @@ Be careful, later!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

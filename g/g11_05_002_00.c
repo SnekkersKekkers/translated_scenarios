@@ -19,7 +19,7 @@ MsgDisp("Hiiragi?","｛主人公｝, what's the matter?");
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,100,0,0,1,-1,-1,0,0);
+ChOpen(5,100,0,0,1,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 MsgDisp("主人公","Eh......｛柊＊＊＊｝,exactly why?");
@@ -35,7 +35,7 @@ I still find myself going here from time
 to time.");
 ChMouth(5,1);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","Hehe, is that so?
 Me too, for some reason.");
 VoicePlay("G110500200_05_020");
@@ -53,7 +53,7 @@ The two of us acted together in a play,
 and reunited here.");
 MsgDisp("主人公","This isn't Habataki Castle, but 
 the student council room, you know.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500200_05_040");
 MsgDisp("Hiiragi","So it's 'Student Council Room: Flames
 Rising'?");

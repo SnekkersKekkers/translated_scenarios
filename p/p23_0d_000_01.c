@@ -4,8 +4,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew......");
 MsgClose();
-ChOpen(21,30,0,0,0,-1,-1,0,1);
-ChOpen(22,30,0,0,0,-1,-1,0,2);
+ChOpen(21,30,0,0,0,#1,#1,0,1);
+ChOpen(22,30,0,0,0,#1,#1,0,2);
 ChMotion(22,4,1);
 VoicePlay("P230D00001_22_000");
 MsgDisp("Hikaru","Ha～,

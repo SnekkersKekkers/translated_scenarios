@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     case 5:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_C",0.01);
-    ChOpen(5,254,0,4,4,-1,-1,0,0);
+    ChOpen(5,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     MsgDisp("主人公","｛柊＊＊＊｝, We couldn't take home the
 championship...... It's so
@@ -29,7 +29,7 @@ disappointing to those players.");
     MsgDisp("主人公","Hm?");
     ChEye(5,0);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("H2A0500001_05_020");
     MsgDisp("Hiiragi","Personal bests are purely personal. For
 their cherished manager, everyone must

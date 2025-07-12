@@ -7,7 +7,7 @@ switch (ChPrmGet(5,6)){
     case 2:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Welcome.");
     VoiceEVSPlay(5);
@@ -35,7 +35,7 @@ person.)");
     MsgDisp("主人公","Welcome.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝,
@@ -76,7 +76,7 @@ Could it be that he came to check on me?)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_080");
     MsgDisp("Hiiragi","｛主人公｝.");
@@ -103,7 +103,7 @@ Ah, I see it is over there.");
     VoicePlay("I250500000_05_100");
     MsgDisp("Hiiragi","I will take this, please.");
     MsgClose();
-    ChOpen(5,255,0,0,4,-1,-1,0,0,0,30);
+    ChOpen(5,255,0,0,4,#1,#1,0,0,0,30);
     MsgDisp("主人公","Ah, so you found it.
 Let me take that for you.");
     SEPlay("EV_SE_043");

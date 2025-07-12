@@ -1,8 +1,8 @@
 ChLayout(1);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
-ChOpen(21,254,7,0,0,-1,-1,0,1,0,30);
-ChOpen(22,254,0,0,3,-1,-1,0,2,0,30);
+ChOpen(21,254,7,0,0,#1,#1,0,1,0,30);
+ChOpen(22,254,0,0,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("Q050D00000_22_000");

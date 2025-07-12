@@ -6,7 +6,7 @@ Please come again.");
 MsgClose();
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);
-ChOpen(21,35,0,0,4,-1,-1,0,0);
+ChOpen(21,35,0,0,4,#1,#1,0,0);
 VoicePlay("I562100003_21_000");
 MsgDisp("Michiru","Hm?
 What is this small bag here for?");

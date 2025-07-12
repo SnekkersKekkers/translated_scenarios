@@ -6,7 +6,7 @@ switch (ChPrmGet(22,6)){
     case 3:
     ChLayout(1);
     MsgClose();
-    ChOpen(22,254,0,0,3,-1,-1,0,0);
+    ChOpen(22,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H382200000_22_000");
     MsgDisp("Hikaru","Hi～ Mari!
@@ -30,7 +30,7 @@ number one high school girl.");
     case 5:
     ChLayout(1);
     MsgClose();
-    ChOpen(22,254,0,0,3,-1,-1,0,0);
+    ChOpen(22,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H382200000_22_020");
     MsgDisp("Hikaru","Mari, I came to cheer you on♪");

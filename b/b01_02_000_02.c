@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(2,253,3,0,2,-1,-1,0,0);
+    ChOpen(2,253,3,0,2,#1,#1,0,0);
     VoicePlay("B010200002_02_000");
     MsgDisp("Sassa","Huh?
 You're early.");
@@ -35,7 +35,7 @@ like the type that's always last minute.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,253,0,0,4,-1,-1,0,0);
+    ChOpen(2,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010200002_02_030");
     MsgDisp("Sassa","I wanted to get here earlier than you
 today.");
@@ -61,7 +61,7 @@ This can be our new sport.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,253,3,0,4,-1,-1,0,0);
+    ChOpen(2,253,3,0,4,#1,#1,0,0);
     VoicePlay("B010200002_02_060");
     MsgDisp("Sassa","What's up?
 You're early.");

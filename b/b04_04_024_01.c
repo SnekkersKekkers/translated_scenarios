@@ -1,8 +1,8 @@
 SEPlay("EV_SE_518");
 SEWait();
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,5,0,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,5,0,#1,#1,0,0);
 ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,0,1);

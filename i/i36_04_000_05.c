@@ -27,7 +27,7 @@ I'm delivering from Cafe Alucard.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400005_04_000");
     MsgDisp("Nanatsumori","Are you...... working?");
     MsgDisp("主人公","｛七ツ森＊｝!
@@ -79,7 +79,7 @@ I'm delivering from Cafe Alucard.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,4,2,-1,-1,0,0);
+    ChOpen(4,35,0,4,2,#1,#1,0,0);
     VoiceEVSPlay(4);
     VoicePlay("I360400005_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");

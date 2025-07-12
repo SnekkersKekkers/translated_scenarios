@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("G020520101_05_000");
 MsgDisp("Hiiragi","｛主人公｝, please listen to me as if I
@@ -21,7 +21,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020520101_05_040");
 MsgDisp("Hiiragi","......But, I was wrong.
 We drifted apart in one go.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","｛柊＊＊＊｝……");
 ChEye(5,0);
 ChMouth(5,4);
@@ -39,7 +39,7 @@ there might not be a beautiful ending.");
 ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,1);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020520101_05_070");
 MsgDisp("Hiiragi","In fact, 
 I might have to step off the stage that 
@@ -74,6 +74,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

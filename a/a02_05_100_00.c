@@ -61,7 +61,7 @@ Please forgive me for greeting you
 with my hands full.");
 MsgDisp("主人公","Don't worry about that!
 My name is ｛主人公姓名｝.");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 StlMouth(5,0);
 VoicePlay("A020510000_05_050");
 MsgDisp("Hiiragi","I'm a student at Habataki High too.");
@@ -100,7 +100,7 @@ Wait(40);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 Wait(60);
 MsgClose();
-ChOpen(5,40,0,0,0,-1,-1,0,0);
+ChOpen(5,40,0,0,0,#1,#1,0,0);
 VoicePlay("A020510000_05_090");
 MsgDisp("Hiiragi","My apologies. Thanks to you,
 I managed to get to the rehearsal in time.");

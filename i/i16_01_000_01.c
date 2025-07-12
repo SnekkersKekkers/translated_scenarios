@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
 Alright, let's wipe it!)");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,0,-1,-1,0,0);
+    ChOpen(1,35,0,0,0,#1,#1,0,0);
     ChMouth(1,3);
     VoicePlay("I160100001_01_000");
     MsgDisp("Kazama","Oh, I'm impressed.");
@@ -41,7 +41,7 @@ praised next time!)");
 Alright, let's wipe it!)");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,3,-1,-1,0,0);
+    ChOpen(1,35,0,0,3,#1,#1,0,0);
     ChMotion(1,3);
     VoicePlay("I160100001_01_030");
     MsgDisp("Kazama","Yeah, the storefront is the face

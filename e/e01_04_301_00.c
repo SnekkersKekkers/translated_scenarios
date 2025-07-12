@@ -9,8 +9,8 @@ MsgDisp("主人公","(Hm? That voice just now was......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,255,0,1,1,-1,-1,0,1);
-ChOpen(3,255,0,0,4,-1,-1,0,2);
+ChOpen(4,255,0,1,1,#1,#1,0,1);
+ChOpen(3,255,0,0,4,#1,#1,0,2);
 MsgDisp("主人公","Just as I thought.
 ｛七ツ森＊｝, ｛本多＊＊｝!");
 ChEye(4,2);

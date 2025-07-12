@@ -6,7 +6,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ChNanaType(0);
-NSSOpen(4,254,2,4,10,-1,10);
+NSSOpen(4,254,2,4,10,#1,10);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("T040400000_04_000");

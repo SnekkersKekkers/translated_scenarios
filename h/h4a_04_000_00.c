@@ -5,7 +5,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0);
+    ChOpen(4,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H4A0400000_04_000");
     MsgDisp("Nanatsumori","Amazing......
@@ -32,7 +32,7 @@ Today's the best day ever!)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,4,4,-1,-1,0,0);
+    ChOpen(4,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(4);
     VoicePlay("H4A0400000_04_030");

@@ -1,6 +1,6 @@
 BGOpen("ex020",0);
 ChLayout(1);
-ChNanaType(-1);
+ChNanaType(#1);
 switch (ChPrmGet(4,6)){
     case 0:
     case 1:
@@ -66,8 +66,8 @@ Sure......");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     ChClose(4,0,30);
     ChLayout(0);
-    ChNanaType(-1);
-    ChOpen(4,253,0,3,3,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,3,3,#1,#1,0,0,0,60);
     SEWait();
     SEPlay("EV_SE_504");
     SEWait();

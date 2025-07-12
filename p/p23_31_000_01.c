@@ -6,7 +6,7 @@ MsgDisp("主人公","(Phew, I somehow made it in time.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,3,0,0,-1,-1,0,0);
+ChOpen(31,254,3,0,0,#1,#1,0,0);
 VoicePlay("P233100001_31_000");
 MsgDisp("Goro","It's wonderful, huh? The perspiration of
 the springtime of life. It's beautiful,

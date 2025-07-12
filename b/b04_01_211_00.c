@@ -44,7 +44,7 @@ with baby animals over there.");
 rare animal than you.");
     MsgDispSksp(1,0);
     ChMotion(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

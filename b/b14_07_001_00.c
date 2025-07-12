@@ -47,7 +47,7 @@ ChClose(7,0,30);
 SEPlay("EV_SE_544");
 ChLayout(0);
 ChEye(7,1);
-ChOpen(7,255,0,0,0,-1,-1,0,0,0,30);
+ChOpen(7,255,0,0,0,#1,#1,0,0,0,30);
 SEWait();
 MsgDisp("主人公","Eh...｛御影＊＊｝?");
 ChEye(7,1);

@@ -1,7 +1,7 @@
 ChClose(2,0,0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 MsgClose();
-ChOpen(2,255,4,0,2,7,-1,0,0);
+ChOpen(2,255,4,0,2,7,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050200100_02_000");
 MsgDisp("Sassa","Sometimes even you want to come here.");
@@ -107,7 +107,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(2,255,0,0,0,-1,-1,0,0);
+ChOpen(2,255,0,0,0,#1,#1,0,0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew, that was scary......");

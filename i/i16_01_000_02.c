@@ -18,7 +18,7 @@ The other colors-");
 　　　　　　　　　　 ・");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,0,-1,-1,0,0);
+    ChOpen(1,35,0,0,0,#1,#1,0,0);
     VoicePlay("I160100002_01_000");
     MsgDisp("Kazama","Good work.
 That last customer looked like
@@ -50,7 +50,7 @@ What do you think of lemon yellow?");
 　　　　　　　　　　 ・");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,0,-1,-1,0,0);
+    ChOpen(1,35,0,0,0,#1,#1,0,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I160100002_01_020");

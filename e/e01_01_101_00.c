@@ -5,7 +5,7 @@ MsgDisp("主人公","...Alright.
 Time to head home.");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,35,0,0,0,-1,-1,0,0);
+ChOpen(1,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("E010110100_01_000");
 MsgDisp("Kazama","｛主人公｝.");

@@ -65,7 +65,7 @@ MsgDisp("主人公","｛風真＊＊｝......
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("T020101000_01_280");
 MsgDisp("Kazama","I'll put it on for you.");
 BGMStop(5);
@@ -104,7 +104,7 @@ MsgDisp("Kazama","It's ringing...!
 Our wedding bells. ");
 StlEyeOpenLevel(1,0,1);
 Wait(6,0);
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 StlMouth(1,0);
 VoicePlay("T020101000_01_330");
 MsgDisp("Kazama","Then, let's go!");

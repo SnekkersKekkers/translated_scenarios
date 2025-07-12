@@ -10,7 +10,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,253,0,0,0,-1,-1,0,0);
+    ChOpen(6,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010600000_06_000");
     MsgDisp("Himuro","The amount of time you wasted is
 extraordinary. Don't let there be a next
@@ -26,7 +26,7 @@ time.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,253,0,0,0,-1,-1,0,0);
+    ChOpen(6,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010600000_06_020");
     MsgDisp("Himuro","Exactly as late as I expected.");
     MsgDisp("主人公","Urgh, I'm sorry...");
@@ -43,7 +43,7 @@ we won't have a good time.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,253,0,0,2,-1,-1,0,0);
+    ChOpen(6,253,0,0,2,#1,#1,0,0);
     VoicePlay("B010600000_06_040");
     MsgDisp("Himuro","... Did something happen?");
     MsgDisp("主人公","What do you mean?");

@@ -2,7 +2,7 @@ BGOpen("tr460",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,0,8,-1,0,0);
+ChOpen(1,255,0,0,0,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123502_01_000");
 MsgDisp("Kazama","Apparently these sorts of places 
@@ -81,7 +81,7 @@ I'll give you a special hint.");
         ChClose(1,0,30);
         ChLayout(0);
         MsgClose();
-        ChOpen(1,255,7,0,3,8,-1,0,0,0,30);
+        ChOpen(1,255,7,0,3,8,#1,0,0,0,30);
         MsgDisp("主人公","｛風真＊＊｝, what's wrong?");
         ChEye(1,0);
         ChMouth(1,0);

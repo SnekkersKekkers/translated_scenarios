@@ -25,7 +25,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("P640100005_01_020");
 MsgDisp("Kazama","The vegetables are too big
 and the taste is bland.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","(Ugh... I should have participated
 in the clubmore and researched 
 how to grow them to be tastier...)");

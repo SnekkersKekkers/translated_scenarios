@@ -49,7 +49,7 @@ MsgClose();
 BGOpen("sc231",1);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010100300_01_041");
 MsgDisp("Kazama","Are you following me?

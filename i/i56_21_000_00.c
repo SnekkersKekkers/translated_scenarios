@@ -3,7 +3,7 @@ ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);
-ChOpen(21,35,3,0,4,-1,-1,0,0);
+ChOpen(21,35,3,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("I562100000_21_000");
 MsgDisp("Michiru","No, Mari!

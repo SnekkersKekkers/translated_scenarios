@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Yeah, let's head home for today.)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(21,255,0,0,0,-1,-1,0,0);
+ChOpen(21,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010240000_21_000");
 MsgDisp("Michiru","Mari, what a coincidence.");
 MsgDisp("主人公","Ah, ｛みちる＊｝.
@@ -20,7 +20,7 @@ Good luck at work!");
 ChPosition(21,1);
 MsgClose();
 Wait(10,0);
-ChOpen(2,255,0,0,4,-1,-1,0,2);
+ChOpen(2,255,0,0,4,#1,#1,0,2);
 VoiceEVSPlay(2);
 VoicePlay("E010240000_02_000");
 MsgDisp("Sassa","｛主人公｝.

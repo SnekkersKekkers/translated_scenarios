@@ -20,7 +20,7 @@ SEPlay("EV_SE_DOOR_007");
 Wait(18);
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,255,4,0,2,-1,-1,0,0);
+ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("M010200000_02_020");
 MsgDisp("Sassa","Excuse me......
 And? How you holding up?");

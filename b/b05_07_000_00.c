@@ -26,7 +26,7 @@ MsgDisp("Mikage?","Hey hey, there's two of us!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 Wait(63,0);
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Thank you for inviting me.");
 ChEye(7,0);
@@ -108,7 +108,7 @@ MsgClose();
 BGOpen("ex980",0);
 MsgClose();
 BGOpen("fp210",0);
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛御影＊＊｝, thank you for the meal!
 It was a very cute and delicious meal.");

@@ -98,7 +98,7 @@ Let's go.");
         SEWait();
         MsgClose();
         ScrFadeOut(0,0);
-        ChOpen(5,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

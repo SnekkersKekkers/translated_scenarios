@@ -1,7 +1,7 @@
 SEPlay("EV_SE_700");
 BGOpen("sc815",2);
 MsgClose();
-ChOpen(22,30,0,0,3,-1,-1,8,0);
+ChOpen(22,30,0,0,3,#1,#1,8,0);
 ScrFadeIn(0);
 MsgDisp("主人公"," ｛ひかる＊｝∋");
 ChMotion(22,4,1);

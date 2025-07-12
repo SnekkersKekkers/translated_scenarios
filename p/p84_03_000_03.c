@@ -8,7 +8,7 @@ hasn't been returned.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(3,254,0,4,4,-1,-1,0,0);
+ChOpen(3,254,0,4,4,#1,#1,0,0);
 VoicePlay("P840300003_03_000");
 MsgDisp("Honda","…………");
 MsgDisp("主人公","Phew, good grief.

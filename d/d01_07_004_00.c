@@ -5,7 +5,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700400_07_000");
 MsgDisp("Mikage","Gather round!
@@ -100,7 +100,7 @@ StlEyeOpenLevel(7,0);
 StlMouth(7,1);
 VoicePlay("D010700400_07_090");
 MsgDisp("Mikage","Alright, you pass.");
-StlEyeOpenLevel(7,-1);
+StlEyeOpenLevel(7,#1);
 MsgDisp("主人公","(Ah, ｛御影＊＊｝'s hand......)");
 VoicePlay("D010700400_42_080");
 MsgDisp("Male Student A","I also love Vice Principal Himuro!");

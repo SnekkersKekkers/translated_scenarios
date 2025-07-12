@@ -5,8 +5,8 @@ MsgDisp("主人公","(Well, it's almost time to go home.
 Huh?　Who's that over there......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(7,255,0,0,0,-1,-1,0,1,0,30);
-ChOpen(21,255,3,0,0,-1,-1,0,2,0,30);
+ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
+ChOpen(21,255,3,0,0,#1,#1,0,2,0,30);
 VoicePlay("E010740000_21_000");
 MsgDisp("Michiru","Ah, Mari.");
 MsgDisp("主人公","｛みちる＊｝, ｛御影＊＊｝.

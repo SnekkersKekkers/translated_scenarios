@@ -6,7 +6,7 @@ VoicePlay("P553200001_32_000");
 MsgDisp("Vice Principal Himuro?","Ahem!");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, Himuro-sensei!
 I'm sorry, I held everyone
 back from succeeding...");

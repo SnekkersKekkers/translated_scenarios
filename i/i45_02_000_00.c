@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
 ......Hm?　｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,0,0,0,-1,-1,0,0);
+    ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450200000_02_000");
     MsgDisp("Sassa","Ah, it's you.
 Mom asked me to get some
@@ -29,7 +29,7 @@ flowers for the table.");
     Wait(40);
     MsgClose();
     MsgClose();
-    ChOpen(2,255,0,0,0,-1,-1,0,0);
+    ChOpen(2,255,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     SEPlay("EV_SE_535",0.2);
     SEWait();
@@ -72,7 +72,7 @@ I'm glad. Let's work harder!)");
 Welcome!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,0,0,4,-1,-1,0,0);
+    ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoicePlay("I450200000_02_060");
     MsgDisp("Sassa","You're working hard.");
     MsgDisp("主人公","Yeah, learning about flowers
@@ -126,7 +126,7 @@ Alright, let's do our best!)");
 Welcome!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,4,0,4,-1,-1,0,0);
+    ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoicePlay("I450200000_02_120");
     MsgDisp("Sassa","I was in the area,
 so I stopped by.");

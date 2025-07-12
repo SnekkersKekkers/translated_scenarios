@@ -6,8 +6,8 @@ VoicePlay("D010800000_08_000");
 MsgDisp("Daichi?","Look over here, big bro!");
 MsgDisp("主人公","(Huh?　That voice just now......)");
 MsgClose();
-ChOpen(8,254,0,0,3,-1,-1,0,1);
-ChOpen(9,254,0,0,0,-1,-1,0,2);
+ChOpen(8,254,0,0,3,#1,#1,0,1);
+ChOpen(9,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","｛大地＊＊｝ and......Kuya-san∋");
 ChEye(8,3);
 ChMouth(8,3);
@@ -39,7 +39,7 @@ festival today, right?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(8,3,1);
-ChEyeOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
 VoicePlay("D010800000_08_030");
 MsgDisp("Daichi","Yeah.
 Speaking of which, let's go!");
@@ -106,7 +106,7 @@ VoicePlay("D010800000_42_000");
 MsgDisp("Male Student A","Oi, Daichi!
 You have a girl from Habataki with you,
 what's that about∋");
-StlEyeOpenLevel(9,-1);
+StlEyeOpenLevel(9,#1);
 StlEye(8,1);
 VoicePlay("D010800000_08_070");
 MsgDisp("Daichi","Hehe!
@@ -117,7 +117,7 @@ StlEyeOpenLevel(8,0,1);
 VoicePlay("D010800000_08_080");
 MsgDisp("Daichi","Hey, don't get ahead of yourself.");
 StlEyeOpenLevel(9,5,1);
-StlEyeOpenLevel(8,-1);
+StlEyeOpenLevel(8,#1);
 VoicePlay("D010800000_08_090");
 MsgDisp("Daichi","She's a special guest of the Shirahane
 brothers▼");
@@ -125,7 +125,7 @@ StlEyeOpenLevel(9,0,1);
 VoicePlay("D010800000_09_040");
 MsgDisp("Kuya","That's right.
 Well then, we're in a hurry.");
-StlEyeOpenLevel(9,-1);
+StlEyeOpenLevel(9,#1);
 VoicePlay("D010800000_33_020");
 MsgDisp("Male Student B","Daichi!
 Who is that girl∋
@@ -140,7 +140,7 @@ StlEyeOpenLevel(9,5,1);
 VoicePlay("D010800000_09_050");
 MsgDisp("Kuya","We knew they would do this, though.
 Come, let's go.");
-StlEyeOpenLevel(9,-1);
+StlEyeOpenLevel(9,#1);
 StlEyeOpenLevel(8,0,1);
 VoicePlay("D010800000_08_110");
 MsgDisp("Daichi","In that case, it's time for the final
@@ -158,8 +158,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc700",0);
 MsgClose();
-ChOpen(8,254,0,0,3,-1,-1,0,1);
-ChOpen(9,254,0,0,0,-1,-1,0,2);
+ChOpen(8,254,0,0,3,#1,#1,0,1);
+ChOpen(9,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you for walking me back.
 The festival at Hanegasaki was really

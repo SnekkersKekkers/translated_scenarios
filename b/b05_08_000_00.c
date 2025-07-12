@@ -1,7 +1,7 @@
 BGOpen("fp200",0);
 ChLayout(1);
 MsgClose();
-ChOpen(8,255,0,0,0,-1,-1,0,0);
+ChOpen(8,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050800000_08_000");
 MsgDisp("Shirahane","Hey.
@@ -15,7 +15,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(8,255,4,2,0,-1,-1,0,0);
+ChOpen(8,255,4,2,0,#1,#1,0,0);
 VoicePlay("B050800000_08_010");
 MsgDisp("Shirahane","Hmmm...");
 MsgDisp("主人公","?");
@@ -86,7 +86,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 StlClose();
 BGMVol(0.5,2);
-ChOpen(8,255,0,3,3,0,-1,0,0);
+ChOpen(8,255,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800000_08_110");

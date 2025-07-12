@@ -8,7 +8,7 @@ switch (ChPrmGet(7,6)){
     case 3:
     case 4:
     case 5:
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0700000_07_000");
     MsgDisp("Mikage","Winning championships, isn't that

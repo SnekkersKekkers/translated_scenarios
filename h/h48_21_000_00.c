@@ -7,7 +7,7 @@ switch (ChPrmGet(21,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(21,254,7,0,0,-1,-1,0,0);
+    ChOpen(21,254,7,0,0,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     ChEye(21,0);
@@ -40,7 +40,7 @@ Let's give the best performance ever!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(21,254,7,0,0,-1,-1,0,0);
+    ChOpen(21,254,7,0,0,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     ChEye(21,0);
@@ -64,7 +64,7 @@ I'm fine......!");
     ChLayout(0);
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(21,254,5,4,4,-1,-1,0,0);
+    ChOpen(21,254,5,4,4,#1,#1,0,0);
     VoicePlay("H482100000_21_050");
     MsgDisp("Michiru","Geez. You're not fine at all.
 Here, give me your hand.

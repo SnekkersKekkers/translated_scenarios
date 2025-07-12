@@ -6,7 +6,7 @@ MsgDisp("主人公","I'm sorry...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("P840700003_07_000");
 MsgDisp("Mikage","｛主人公｝.

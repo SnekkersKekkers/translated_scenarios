@@ -6,7 +6,7 @@ MsgDisp("Hiiragi","... That's curious.");
 MsgDisp("主人公","Huh?");
 ChEye(5,0);
 ChMotion(5,5);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B020502127_05_010");
 MsgDisp("Hiiragi","Oh, excuse me.
 Up until now, I always thought that

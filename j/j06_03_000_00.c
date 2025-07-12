@@ -1,4 +1,4 @@
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 ChCheek(3,0);
 MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
 switch (MsgSelRsltGet()){
@@ -45,7 +45,7 @@ Is this a date?)");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);
-        ChEyeOpenLevel(3,-1);
+        ChEyeOpenLevel(3,#1);
         VoicePlay("J060300000_03_030");
         MsgDisp("Honda","Oh, I'm sorry!
 I was so happy.

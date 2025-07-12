@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,4,-1,-1,0,0);
+    ChOpen(4,35,0,0,4,#1,#1,0,0);
     VoicePlay("I360400008_04_000");
     MsgDisp("Nanatsumori","Hm?
 This apple compote......");
@@ -59,7 +59,7 @@ I'm glad I worked hard at Alucard!)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,3,3,-1,-1,0,0);
+    ChOpen(4,35,0,3,3,#1,#1,0,0);
     VoicePlay("I360400008_04_060");
     MsgDisp("Nanatsumori","This apple compote is amazing!");
     MsgDisp("主人公","Huh.");
@@ -96,7 +96,7 @@ That's why it's delicious.");
     VoicePlay("I360400008_04_110");
     MsgDisp("Nanatsumori","Hm, are you feeling shy?
 It's true, though.");
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     VoicePlay("I360400008_04_120");
     MsgDisp("Nanatsumori","Showing love to the guests
 of this cafe as a waitress is what

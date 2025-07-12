@@ -19,7 +19,7 @@ Good work.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840700005_07_010");
 MsgDisp("Mikage","It seems like it was 
 difficult to the end huh?");

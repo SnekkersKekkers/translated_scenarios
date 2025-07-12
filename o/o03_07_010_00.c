@@ -9,7 +9,7 @@ three-legged race......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("O030701000_07_000");
     MsgDisp("Mikage","｛主人公｝,
@@ -39,7 +39,7 @@ three-legged race......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("O030701000_07_030");
     MsgDisp("Mikage","｛主人公｝,
@@ -81,7 +81,7 @@ three-legged race......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("O030701000_07_080");
     MsgDisp("Mikage","｛主人公｝,

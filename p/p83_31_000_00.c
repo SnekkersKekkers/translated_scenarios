@@ -7,7 +7,7 @@ list...eh? \"Hanatsubaki Goro\"?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,0,0,0,-1,-1,0,0);
+ChOpen(31,254,0,0,0,#1,#1,0,0);
 VoicePlay("P833100000_31_000");
 MsgDisp("Goro","Pardon the intrusion.");
 MsgDisp("主人公","Goro-sensei∋");

@@ -1,5 +1,5 @@
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);
 ChEye(5,0);
 ChMouth(5,4);
@@ -44,6 +44,6 @@ it more naturally next time.");
     DbgAssert(0);
     break ;
     }
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

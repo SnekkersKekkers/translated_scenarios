@@ -1,6 +1,6 @@
 BGOpen("ex240",2);
-ChNanaType(-1);
-NSSOpen(4,255,0,0,-1,-1,0);
+ChNanaType(#1);
+NSSOpen(4,255,0,0,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160400100_04_000");

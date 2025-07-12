@@ -8,7 +8,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("主人公","(Next is......
 Ah, it's ｛本多＊＊｝.)");
     MsgClose();
-    ChOpen(3,30,1,0,3,-1,-1,0,0);
+    ChOpen(3,30,1,0,3,#1,#1,0,0);
     VoicePlay("O080300000_03_000");
     MsgDisp("Honda","Let's dance!");
     break ;
@@ -16,7 +16,7 @@ Ah, it's ｛本多＊＊｝.)");
     MsgDisp("主人公","(Next is......
 Ah, it's ｛本多＊＊｝.)");
     MsgClose();
-    ChOpen(3,30,1,4,3,-1,-1,0,0);
+    ChOpen(3,30,1,4,3,#1,#1,0,0);
     VoicePlay("O080300000_03_010");
     MsgDisp("Honda","Sorry if I step on your foot, okay?
 I don't mind if you step on me, though.");
@@ -26,7 +26,7 @@ I don't mind if you step on me, though.");
     MsgDisp("主人公","(Next is......
 Ah, it's ｛本多＊＊｝.)");
     MsgClose();
-    ChOpen(3,30,3,3,3,-1,-1,0,0);
+    ChOpen(3,30,3,3,3,#1,#1,0,0);
     VoicePlay("O080300000_03_020");
     MsgDisp("Honda","Ah, you're here, you're here!
 We finally met.");

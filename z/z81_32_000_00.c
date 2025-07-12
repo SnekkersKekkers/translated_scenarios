@@ -8,7 +8,7 @@ ScrQuake(1);
 MsgDisp("主人公","Wah, I'm so sorry!");
 MsgClose();
 BGMPlay("BGM_C32_HIMURO_A",0.01);
-ChOpen(32,254,0,1,1,-1,-1,0,0);
+ChOpen(32,254,0,1,1,#1,#1,0,0);
 VoicePlay("Z813200000_32_000");
 MsgDisp("VP Himuro","A sudden change in direction
 is quite dangerous.");
@@ -49,7 +49,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.7,0.6);
 ChClose(32);
 ChLayout(1);
 MsgClose();
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("Z813200000_32_040");
 MsgDisp("VP Himuro","Why the surprise? I have taught here
 for years. I've seen many an energetic

@@ -1,13 +1,13 @@
 BGDateAfterOpen();
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0,1);
@@ -17,7 +17,7 @@ switch (ChPrmGet(4,6)){
     MsgDispSksp(0);
     break ;
     case 3:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0,1);
@@ -28,7 +28,7 @@ switch (ChPrmGet(4,6)){
     break ;
     case 4:
     case 5:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);

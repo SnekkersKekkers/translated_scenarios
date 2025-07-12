@@ -1,7 +1,7 @@
 BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc822",0);
 MsgClose();
-ChOpen(2,254,3,0,4,-1,-1,0,0);
+ChOpen(2,254,3,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q100A00000_02_000");
 MsgDisp("Sassa","Huh, it really looks like glasses.");
@@ -9,7 +9,7 @@ MsgDisp("主人公","Yeah, they're round glasses.");
 ChPosition(2,2);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,254,0,4,3,-1,-1,0,1);
+ChOpen(1,254,0,4,3,#1,#1,0,1);
 VoicePlay("Q100A00000_01_000");
 MsgDisp("Kazama","Meticulously crafted.
 The skill of the masonry craftsmen back 
@@ -85,8 +85,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc824",0);
 MsgClose();
-ChOpen(1,254,0,0,2,8,-1,0,1,0,30);
-ChOpen(2,254,4,0,4,7,-1,0,2,0,30);
+ChOpen(1,254,0,0,2,8,#1,0,1,0,30);
+ChOpen(2,254,4,0,4,7,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("Q100A00000_02_060");
 MsgDisp("Sassa","Well, 

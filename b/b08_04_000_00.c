@@ -4,8 +4,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,253,0,0,0,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for walking me home.");
 MsgDispSksp(1,4);

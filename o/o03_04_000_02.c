@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,2,1,-1,-1,0,0);
+    ChOpen(4,30,0,2,1,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_000");
@@ -19,7 +19,7 @@ We weren't in sync at all......)");
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,2,2,-1,-1,0,0);
+    ChOpen(4,30,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_010");
@@ -40,7 +40,7 @@ better rank......)");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,2,2,-1,-1,0,0);
+    ChOpen(4,30,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_030");

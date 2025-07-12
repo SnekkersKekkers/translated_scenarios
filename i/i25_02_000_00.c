@@ -7,7 +7,7 @@ switch (ChPrmGet(2,6)){
     case 2:
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,4,0,4,-1,-1,0,0);
+    ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I250200000_02_000");
     MsgDisp("Sassa","｛主人公｝,
@@ -64,7 +64,7 @@ really likes dogs......)");
     MsgDisp("主人公","Ah, yes.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,3,3,3,0,-1,0,0);
+    ChOpen(2,255,3,3,3,0,#1,0,0);
     VoicePlay("I250200000_02_070");
     MsgDisp("Sassa","Haha, it's me.");
     MsgDisp("主人公","Ah, it was you, ｛颯砂＊＊｝?");
@@ -109,7 +109,7 @@ what are you studying?)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,4,0,4,-1,-1,0,0);
+    ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I250200000_02_120");
     MsgDisp("Sassa","｛主人公｝.");

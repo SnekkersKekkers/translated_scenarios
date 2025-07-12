@@ -67,7 +67,7 @@ MsgDisp("主人公","｛風真＊＊｝......
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("T020100000_01_350");
 MsgDisp("Kazama","I'll put it on for you.");
 BGMStop(5);

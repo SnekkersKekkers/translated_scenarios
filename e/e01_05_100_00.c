@@ -7,7 +7,7 @@ I think it's time to go home.
 MsgDisp("主人公","｛柊＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("E010510000_05_000");
 MsgDisp("Hiiragi","Hello, ｛主人公｝.
@@ -74,6 +74,6 @@ MsgDisp("主人公","(I see, perhaps information of his
 location was circulating?)");
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

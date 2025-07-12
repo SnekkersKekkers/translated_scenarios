@@ -6,7 +6,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Haa... what a huge failure...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("P540600001_06_000");
 MsgDisp("Himuro","｛主人公｝.");

@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020520100_05_000");
 MsgDisp("Hiiragi","I wonder if my own emotions are being
 reflected...... The fireflies seem to be
@@ -25,7 +25,7 @@ MsgDisp("Hiiragi","Huu...... In order to see your smile up
 once more...... What should I do?");
 ChEye(5,4);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020520100_05_040");
 MsgDisp("Hiiragi","I'll try to figure out the answer on my
 own. I think that's when I'll finally sort
@@ -43,6 +43,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

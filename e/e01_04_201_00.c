@@ -11,8 +11,8 @@ That voice just now was-");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,255,0,0,3,-1,-1,0,1);
-ChOpen(2,40,3,0,4,-1,-1,0,2);
+ChOpen(4,255,0,0,3,#1,#1,0,1);
+ChOpen(2,40,3,0,4,#1,#1,0,2);
 MsgDisp("主人公","｛七ツ森＊｝, ｛颯砂＊＊｝!
 I didn't expect to see you two together.");
 ChEye(2,0);

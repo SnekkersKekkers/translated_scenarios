@@ -19,7 +19,7 @@ MsgDisp("Clerk","Ah, I'm glad!
 Thanks～!");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,255,0,0,0,10,-1,0,0);
+ChOpen(7,255,0,0,0,10,#1,0,0);
 VoicePlay("E010710100_07_020");
 MsgDisp("Mikage","Oh. There's a
 beautiful girl over here too.");

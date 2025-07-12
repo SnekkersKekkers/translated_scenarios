@@ -87,7 +87,7 @@ It's dangerous, so that'll be all.");
         ScrFadeOut(0);
         BGOpen("tr320",0);
         MsgClose();
-        ChOpen(1,255,0,3,3,-1,-1,0,0);
+        ChOpen(1,255,0,3,3,#1,#1,0,0);
         ScrFadeIn(0,30);
         ChMotion(1,3);
         VoicePlay("B040122102_01_070");

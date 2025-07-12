@@ -6,7 +6,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C07_MIKAGE_A");
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("G110700300_07_000");
 MsgDisp("Mikage","｛主人公｝.
@@ -27,7 +27,7 @@ ChClose(7);
 SEWait();
 BGOpen("ev007",0);
 MsgClose();
-ChOpen(7,100,2,0,0,-1,-1,0,0);
+ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110700300_07_020");
 MsgDisp("Mikage","Look at this.

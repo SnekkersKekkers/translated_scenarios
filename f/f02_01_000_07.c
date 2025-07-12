@@ -26,7 +26,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F020100007_01_020");
 MsgDisp("Kazama","I want the two of us to go to school
 in everyday clothes. That's something

@@ -1,8 +1,8 @@
 BGOpen("wf330",0);
 BGMPlay("BGM_PLACE_AQUA_DEEP",0.01);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 ChEye(4,0);
 ChMouth(4,0);

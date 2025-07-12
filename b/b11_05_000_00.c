@@ -9,7 +9,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDisp("主人公","｛柊＊＊＊｝, did something happen?");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(33,254,0,0,0,-1,-1,0,0);
+ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500000_33_000");
 MsgDisp("Guy","Do you want to see it or not?");
 MsgDisp("主人公","Eh∈　See what...?");
@@ -23,7 +23,7 @@ ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 MsgClose();
-ChOpen(5,253,0,0,0,-1,-1,0,1,0,30);
+ChOpen(5,253,0,0,0,#1,#1,0,1,0,30);
 MsgDispSksp(1,5);
 VoicePlay("B110500000_05_000");
 MsgDisp("Hiiragi","Just where do you 
@@ -82,7 +82,7 @@ MsgDisp("主人公","...I wonder what that guy saw
 in ｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B110500000_05_030");
 MsgDisp("Hiiragi","I wonder?
 But enough of the \"can see,

@@ -2,7 +2,7 @@ MsgClose();
 BGOpen("ar300",1);
 ChLayout(1);
 BGMPlay("BGM_C08_DAICHI_A",0.01);
-ChOpen(8,35,0,0,0,-1,-1,0,0);
+ChOpen(8,35,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(8,6)){
     case 0:
@@ -59,7 +59,7 @@ Lemme check.");
     MsgDisp("Shirahane","Ooh!
 Not a single smudge in sight......
 A full 100 points!");
-    ChEyeOpenLevel(8,-1);
+    ChEyeOpenLevel(8,#1);
     MsgDisp("主人公","Yay!");
     VoicePlay("I660800005_39_020");
     MsgDisp("Male Customer","Wow!

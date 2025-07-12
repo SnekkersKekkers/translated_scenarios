@@ -19,7 +19,7 @@ Please just wait a second.");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     ChMotion(4,1,1);
     VoicePlay("P830400001_04_000");
     MsgDisp("Nanatsumori","...Seems difficultー.");
@@ -47,7 +47,7 @@ Please just wait a second.");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P830400001_04_020");
     MsgDisp("Nanatsumori","Good work.
 Now...");

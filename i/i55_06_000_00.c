@@ -10,7 +10,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","Yes, welcome.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550600000_06_010");
     MsgDisp("Himuro","5 daifuku and 5 mitarashi dango,
 please.");
@@ -56,7 +56,7 @@ an errand......?)");
     case 3:
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550600000_06_060");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
@@ -115,7 +115,7 @@ be a little surprising......)");
     SEWait();
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550600000_06_120");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.

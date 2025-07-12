@@ -27,7 +27,7 @@ dizzy.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,4,0,4,-1,-1,0,0);
+    ChOpen(5,254,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P830500001_05_000");
     MsgDisp("Hiiragi","｛主人公｝, good work.
@@ -65,7 +65,7 @@ Please take the ones on the shelf.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,4,0,4,-1,-1,0,0);
+    ChOpen(5,254,4,0,4,#1,#1,0,0);
     VoicePlay("P830500001_05_020");
     MsgDisp("Hiiragi","Yes, here's the masking tape
 and garbage bags.");

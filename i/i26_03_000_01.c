@@ -7,7 +7,7 @@ switch (ChPrmGet(3,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,35,1,0,3,-1,-1,0,0,0,5);
+    ChOpen(3,35,1,0,3,#1,#1,0,0,0,5);
     VoicePlay("I260300000_03_120");
     MsgDisp("Honda","You can go on break.
 I'll do the cash register.");
@@ -40,7 +40,7 @@ Then, can I leave the rest to you?");
     MsgDisp("主人公","Is this......");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,35,0,0,4,-1,-1,0,0,0,5);
+    ChOpen(3,35,0,0,4,#1,#1,0,0,0,5);
     VoicePlay("I260300000_03_160");
     MsgDisp("Honda","Hm?　What's up?");
     MsgDisp("主人公","The other day, we did a

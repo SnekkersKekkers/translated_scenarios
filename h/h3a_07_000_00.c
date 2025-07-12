@@ -8,7 +8,7 @@ switch (ChPrmGet(7,6)){
     case 4:
     case 5:
     BGMPlay("BGM_C07_MIKAGE_C",0.01);
-    ChOpen(7,254,3,0,3,-1,-1,0,0);
+    ChOpen(7,254,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0700000_07_000");
     MsgDisp("Mikage","You're pretty strong!");

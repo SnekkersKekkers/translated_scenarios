@@ -6,7 +6,7 @@ VoicePlay("X210200000_02_000");
 MsgDisp("Sassa?","｛主人公｝!
 Congratulations on Rose QUeen!");
 MsgClose();
-ChOpen(2,254,3,0,4,-1,-1,0,0);
+ChOpen(2,254,3,0,4,#1,#1,0,0);
 Wait(40);
 MsgDisp("主人公","Thank you.
 But, I don't believe it.");

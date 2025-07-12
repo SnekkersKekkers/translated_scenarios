@@ -6,7 +6,7 @@ switch (ChPrmGet(2,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A");
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("J040200000_02_000");
     MsgDisp("Sassa","Found it!");
@@ -52,7 +52,7 @@ What was that about?)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A");
-    ChOpen(2,254,0,0,3,-1,-1,0,0);
+    ChOpen(2,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("J040200000_02_040");

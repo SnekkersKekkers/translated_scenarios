@@ -47,7 +47,7 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("B360417001_04_050");
 MsgDisp("Nanatsumori","…………");
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("B360417001_04_060");
 MsgDisp("Nanatsumori","How would you want it to be?");
 MsgDisp("主人公","Eh?");

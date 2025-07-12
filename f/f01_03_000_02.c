@@ -8,7 +8,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛本多＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C03_HONDA_A",0.01);
-        ChOpen(3,254,0,0,4,-1,-1,0,0);
+        ChOpen(3,254,0,0,4,#1,#1,0,0);
         VoicePlay("F010300002_03_000");
         MsgDisp("Honda","Hm? Do you need something?");
         MsgDisp("主人公","How about we go home together today?");
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛本多＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C03_HONDA_A",0.01);
-        ChOpen(3,254,4,0,3,-1,-1,0,0);
+        ChOpen(3,254,4,0,3,#1,#1,0,0);
         VoicePlay("F010300002_03_010");
         MsgDisp("Honda","Hm?　What's up?");
         break ;
@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛本多＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C03_HONDA_A",0.01);
-        ChOpen(3,254,3,3,3,-1,-1,0,0);
+        ChOpen(3,254,3,3,3,#1,#1,0,0);
         VoicePlay("F010300002_03_020");
         MsgDisp("Honda","Yeah, what is it?");
         MsgDisp("主人公","How about we go home together today?");
@@ -40,7 +40,7 @@ switch (MsgSelRsltGet()){
     MsgDisp("主人公","｛本多＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A",0.01);
-    ChOpen(3,254,0,0,0,-1,-1,0,0);
+    ChOpen(3,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Hey, how about we go to a cafe?");
     break ;
     case 2:

@@ -1,7 +1,7 @@
 BGOpen("sc310",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,0,2,10,-1,0,0);
+ChOpen(1,254,0,0,2,10,#1,0,0);
 ScrFadeIn(0);
 ChEye(1,0);
 ChMouth(1,2);
@@ -20,12 +20,12 @@ MsgDisp("Hikaru?","Kazama-kun escaped!");
 ChLayout(2);
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(22,254,0,0,3,-1,-1,0,1);
+ChOpen(22,254,0,0,3,#1,#1,0,1);
 MsgDisp("主人公","Oh, ｛ひかる＊｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(1,254,0,0,1,0,-1,0,0);
+ChOpen(1,254,0,0,1,0,#1,0,0);
 VoicePlay("F100130001_01_010");
 MsgDisp("Kazama","I didn't 'escape'.
 I just did what I needed to.");
@@ -38,7 +38,7 @@ what happened earlier?
 Sorry♪");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
-ChOpen(21,254,0,0,0,-1,-1,0,2);
+ChOpen(21,254,0,0,0,#1,#1,0,2);
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

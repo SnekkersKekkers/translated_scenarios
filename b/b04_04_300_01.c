@@ -1,8 +1,8 @@
 BGOpen("bh410",0);
 ChLayout(1);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,0,0,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(4,0);
 ChMouth(4,0);

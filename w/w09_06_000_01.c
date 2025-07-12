@@ -3,13 +3,13 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,255,2,1,0,0,-1,0,0);
+    ChOpen(6,255,2,1,0,0,#1,0,0);
     VoicePlay("W090600001_06_000");
     MsgDisp("Himuro","I don't care who I ride with.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,255,2,2,0,0,-1,0,0);
+    ChOpen(6,255,2,2,0,0,#1,0,0);
     VoicePlay("W090600001_06_010");
     MsgDisp("Himuro","Well, I guess it's better if it's
 you.");
@@ -17,7 +17,7 @@ you.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,255,4,0,0,-1,-1,5,0);
+    ChOpen(6,255,4,0,0,#1,#1,5,0);
     VoicePlay("W090600001_06_020");
     MsgDisp("Himuro","I'm not saying this just cause it's you.
 How can you get on things like this?");

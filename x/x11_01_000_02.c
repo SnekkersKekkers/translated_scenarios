@@ -4,7 +4,7 @@ switch (ChPrmGet(1,6)){
     case 2:
     case 3:
     MsgClose();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110100002_01_000");
@@ -17,7 +17,7 @@ about the win. I'm so glad!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,254,0,2,3,-1,-1,0,0);
+    ChOpen(1,254,0,2,3,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110100002_01_010");

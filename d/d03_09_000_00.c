@@ -31,7 +31,7 @@ Just now, my lips......)");
 MsgClose();
 BGOpen("wf200",0);
 MsgClose();
-ChOpen(9,35,0,3,2,-1,-1,0,0);
+ChOpen(9,35,0,3,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D030900000_09_020");
 MsgDisp("Kuya?","Are you okay?");

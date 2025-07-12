@@ -6,7 +6,7 @@ MsgDisp("主人公","(Today is the final day of interhigh.
 This is the senior's last match.
 Let's cheer as hard as we can!)");
 MsgClose();
-ChOpen(2,37,3,0,4,-1,-1,0,0);
+ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200100_02_000");
 MsgDisp("Sassa","｛主人公｝.
@@ -137,7 +137,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_C",0.01);
-ChOpen(2,37,5,5,0,-1,-1,0,0);
+ChOpen(2,37,5,5,0,#1,#1,0,0);
 VoicePlay("D010200100_02_070");
 MsgDisp("Sassa","∋");
 ChEye(2,0);

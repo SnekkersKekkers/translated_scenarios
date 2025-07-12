@@ -14,7 +14,7 @@ You're still here?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 I was reading Habacha and lost track of
 time.");
@@ -102,7 +102,7 @@ BGOpen("sc300",1);
 MsgClose();
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,3,3,-1,-1,0,0);
+ChOpen(4,254,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow......That was really fun!");
 VoicePlay("D010400400_04_110");

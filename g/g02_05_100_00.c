@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510000_05_000");
 MsgDisp("Hiiragi","t's a beauty that makes me sigh.");
 MsgDisp("主人公","Yeah, it's beautiful.");
@@ -30,7 +30,7 @@ ChEyeOpenLevel(5,9);
 MsgDisp("主人公","Ummm ｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020510000_05_050");
 MsgDisp("Hiiragi","My inner voice.
 The ugliness of my true feelings.");
@@ -44,6 +44,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     case 5:
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(1,30,0,0,0,-1,-1,0,0);
+    ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoicePlay("P230100001_01_000");
     MsgDisp("Kazama","Phew, I've fixed the pumpkin carriage
 wheel first.");
@@ -42,8 +42,8 @@ We'll reinforce it during the next scene.");
     MsgDisp("主人公","Yeah, I got it.");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEyeOpenLevel(1,-1);
-    ChMouthOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
+    ChMouthOpenLevel(1,#1);
     ChCheek(1,0);
     break ;
     default :

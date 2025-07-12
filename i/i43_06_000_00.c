@@ -18,7 +18,7 @@ switch (ChPrmGet(6,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C06_INORI_A");
-    ChOpen(6,35,0,0,0,-1,-1,0,0);
+    ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_000");
     MsgDisp("Himuro","......Huh.");
     MsgDisp("主人公","Hm, ｛氷室＊＊｝∋
@@ -62,7 +62,7 @@ Alright, I'll do my best!)");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C06_INORI_A");
-    ChOpen(6,35,0,0,0,-1,-1,0,0);
+    ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_050");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","｛氷室＊＊｝∋
@@ -96,7 +96,7 @@ I don't want to clean up your messes.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C06_INORI_A");
-    ChOpen(6,35,0,0,0,-1,-1,0,0);
+    ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_090");
     MsgDisp("Himuro","Ah......");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");

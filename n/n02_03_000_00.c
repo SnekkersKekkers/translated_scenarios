@@ -1,4 +1,4 @@
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChLayout(1);
 switch (ChPrmGet(3,6)){

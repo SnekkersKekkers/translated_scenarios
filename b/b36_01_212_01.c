@@ -49,7 +49,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(40,0);
-ChOpen(1,255,7,3,3,-1,-1,0,0,0,30);
+ChOpen(1,255,7,3,3,#1,#1,0,0,0,30);
 SEWait();
 ChMotion(1,3);
 VoicePlay("B360121201_01_050");
@@ -70,7 +70,7 @@ MsgDisp("Kazama","It's here.");
 MsgDisp("主人公","Eehー?
 Plushies?");
 MsgClose();
-ChOpen(1,255,0,4,3,-1,-1,0,0);
+ChOpen(1,255,0,4,3,#1,#1,0,0);
 VoicePlay("B360121201_01_080");
 MsgDisp("Kazama","Yeah, every one of them
 is looking this way wistfully.");

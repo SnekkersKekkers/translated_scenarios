@@ -2,7 +2,7 @@ BGOpen("sc510",0);
 ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-ChOpen(5,254,0,3,2,-1,-1,0,0);
+ChOpen(5,254,0,3,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D100500000_05_000");

@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(3,255,4,4,4,-1,-1,0,0);
+ChOpen(3,255,4,4,4,#1,#1,0,0);
 ChLayout(1);
 VoicePlay("G020310307_03_000");
 MsgDisp("Honda","Haa......
@@ -70,6 +70,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

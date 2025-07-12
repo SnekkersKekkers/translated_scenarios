@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 SEWait();
 MsgClose();
 BGMPlay("BGM_C06_INORI_A");
-ChOpen(6,254,2,2,0,0,-1,0,0);
+ChOpen(6,254,2,2,0,0,#1,0,0);
 VoicePlay("F100610002_06_000");
 MsgDisp("Himuro","What are you thanking me for...
 I don't care.");
@@ -62,7 +62,7 @@ ChPosition(6,1);
 MsgClose();
 SEWait();
 BGMPlay("BGM_C32_HIMURO_A");
-ChOpen(32,254,0,1,1,0,-1,0,2);
+ChOpen(32,254,0,1,1,0,#1,0,2);
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,5);

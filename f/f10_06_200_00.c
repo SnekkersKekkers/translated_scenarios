@@ -5,7 +5,7 @@ MsgDisp("主人公","(Alright,
 ...it's about time to head home.)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -27,7 +27,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChPosition(6,1);
 MsgClose();
 SEWait();
-ChOpen(3,254,0,0,0,-1,-1,0,2);
+ChOpen(3,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","｛本多＊＊｝?");
 ChEye(3,3);
 ChMouth(3,3);

@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("H6G0600000_06_000");
 MsgDisp("Himuro","......Hello.");
 MsgDisp("主人公","Hm, ｛氷室＊＊｝?

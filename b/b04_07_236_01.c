@@ -1,8 +1,8 @@
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);
 BGOpen("tr470",2);
 BGMPlay("BGM_PLACE_AMUSE_NIGHT",0.01);

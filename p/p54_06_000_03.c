@@ -7,7 +7,7 @@ MsgDisp("主人公","(Haa... This might've been worse than last
 year...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540600003_06_000");
 MsgDisp("Himuro","Good work.");
 MsgDisp("主人公","｛氷室＊＊｝...");

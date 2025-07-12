@@ -16,7 +16,7 @@ MsgClose();
 MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I");
-ChOpen(6,100,2,2,1,-1,-1,0,0);
+ChOpen(6,100,2,2,1,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's been a while since he came
 out of the water but......｛氷室＊＊｝

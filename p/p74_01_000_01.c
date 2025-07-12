@@ -6,7 +6,7 @@ MsgDisp("主人公","(Uuugh, I fell...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(1,254,0,0,2,-1,-1,0,0);
+ChOpen(1,254,0,0,2,#1,#1,0,0);
 ChMotion(1,3);
 VoicePlay("P740100001_01_000");
 MsgDisp("Kazama","Oi, are you alright?");

@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_B",0.01);
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(1,3);
     ChMotion(1,3);
@@ -39,7 +39,7 @@ I'm glad I practiced so much!)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_B",0.01);
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(1,3);
     ChMotion(1,3);

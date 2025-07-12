@@ -5,7 +5,7 @@ MsgDisp("主人公","(Lots of books are going to be delivered
 today. I'll do my best!)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,0,0,0,-1,-1,0,0);
+ChOpen(3,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300900_03_000");
 MsgDisp("Honda","｛主人公｝,
@@ -19,7 +19,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,0,-1,-1,0,0);
+ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","......Huh?
 ｛本多＊＊｝ still hasn't taken a break?");

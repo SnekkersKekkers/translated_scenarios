@@ -5,7 +5,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,30,3,0,3,-1,-1,0,0);
+    ChOpen(6,30,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600000_06_000");
     MsgDisp("Himuro","We did good.
@@ -15,7 +15,7 @@ I'm glad I did my best!)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,30,0,0,4,-1,-1,0,0);
+    ChOpen(6,30,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600000_06_010");
     MsgDisp("Himuro","We went pretty fast.
@@ -32,7 +32,7 @@ I got first place with ｛氷室＊＊｝!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,30,3,0,3,-1,-1,0,0);
+    ChOpen(6,30,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600000_06_030");
     MsgDisp("Himuro","Alright, first......!");

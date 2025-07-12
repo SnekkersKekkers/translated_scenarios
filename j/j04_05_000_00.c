@@ -9,7 +9,7 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A");
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(5);
     VoicePlay("J040500000_05_000");

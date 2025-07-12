@@ -6,7 +6,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C09_KUYA_A",0.01);
-ChOpen(9,35,0,0,0,-1,-1,0,0);
+ChOpen(9,35,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah, he's here!");
 ChEye(9,3);
@@ -57,7 +57,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGMVol(0.5,2);
-ChOpen(9,35,0,0,0,-1,-1,0,0);
+ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030900600_36_020");
 MsgDisp("Man","I finally finished picking them all......
 It's because of you guys.
@@ -70,7 +70,7 @@ VoicePlay("D030900600_09_040");
 MsgDisp("Kuya","It's nothing.
 Getting to pick chestnuts in this town
 is a pretty rare experience.");
-ChEyeOpenLevel(9,-1);
+ChEyeOpenLevel(9,#1);
 VoicePlay("D030900600_36_030");
 MsgDisp("Man","Hahaha!　I guess so!
 I'm really grateful!");

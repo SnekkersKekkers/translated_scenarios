@@ -2,7 +2,7 @@ BGOpen("sc210",0);
 ChLayout(1);
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
-ChOpen(3,254,5,3,3,-1,-1,0,0);
+ChOpen(3,254,5,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("D100310000_03_000");

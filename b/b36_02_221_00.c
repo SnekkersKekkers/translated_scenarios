@@ -15,7 +15,7 @@ The town is dyed red,
 it's beautiful.");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(2,255,3,0,4,-1,-1,0,0);
+ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoicePlay("B360222100_02_010");
 MsgDisp("Sassa","Yeah, as I thought.");
 MsgDisp("主人公","Yeah?");

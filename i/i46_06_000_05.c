@@ -29,7 +29,7 @@ you'd like me to call one over?");
     SEWait();
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,35,0,0,4,-1,-1,0,0);
+    ChOpen(6,35,0,0,4,#1,#1,0,0);
     VoicePlay("I460600005_06_000");
     MsgDisp("Himuro","All done.");
     MsgDisp("主人公","Thanks.
@@ -62,7 +62,7 @@ that dried flower?");
     SEWait();
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,35,3,0,4,-1,-1,0,0);
+    ChOpen(6,35,3,0,4,#1,#1,0,0);
     VoicePlay("I460600005_06_030");
     MsgDisp("Himuro","The dried flowers you made are
 being received pretty well.");

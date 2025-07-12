@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","Welcome!");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝,
@@ -41,7 +41,7 @@ the theater troupe, huh.)");
 today, too.");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝,
@@ -89,7 +89,7 @@ Let's do our best smiling!)");
     MsgDisp("主人公","Welcome.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_090");
     MsgDisp("Hiiragi","｛主人公｝.");

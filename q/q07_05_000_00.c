@@ -2,7 +2,7 @@ ChLayout(1);
 BGMPlay("BGM_PLACE_TRAVEL",0.01);
 BGOpen("sc820",0);
 MsgClose();
-ChOpen(5,254,0,0,4,-1,-1,0,0);
+ChOpen(5,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow...... look, ｛柊＊＊＊｝!
 The windmills and flowers are so pretty.");
@@ -12,7 +12,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("Q070500000_05_000");
 MsgDisp("Hiiragi","I have never been to the Netherlands,
 I'm sure the landscape is like this.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_010");
 MsgDisp("Hiiragi","I feel like I'm travelling abroad,
 I love it.");
@@ -101,7 +101,7 @@ They must have built the flower beds and
 buildings, thinking of home.");
 MsgDisp("主人公","Yes......");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_090");
 MsgDisp("Hiiragi","Nagasaki is lovely, but,
 Do you still miss Habataki City more?");

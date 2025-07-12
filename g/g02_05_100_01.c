@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020510001_05_000");
 MsgDisp("Hiiragi","Speaking of which, I was asked about you
 in the student council a bit ago.");
@@ -15,7 +15,7 @@ MsgDisp("Hiiragi","......Are you really that surprised?");
 MsgDisp("主人公","Well, how did you answer?");
 ChEye(5,0);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020510001_05_030");
 MsgDisp("Hiiragi","I said I don't know. Even when I asked him
 what kind of person a girlfriend is, he
@@ -43,6 +43,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

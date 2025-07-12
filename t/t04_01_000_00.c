@@ -6,7 +6,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ex240",0);
-NSSOpen(1,254,0,0,-1,-1,0);
+NSSOpen(1,254,0,0,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 NSSEye(1,0);

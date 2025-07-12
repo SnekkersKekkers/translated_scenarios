@@ -3,7 +3,7 @@ MsgDisp("主人公","Alright... ");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,254,3,0,0,-1,-1,0,0);
+ChOpen(6,254,3,0,0,#1,#1,0,0);
 VoicePlay("P840600000_06_000");
 MsgDisp("Himuro","Your dexterity is good.");
 MsgDisp("主人公","Eheh, thank you.");

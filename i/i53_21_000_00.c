@@ -19,7 +19,7 @@ switch (ChPrmGet(21,6)){
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
     Wait(15,0);
-    ChOpen(21,35,0,0,0,-1,-1,0,0);
+    ChOpen(21,35,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Huh, ｛みちる＊｝?
 You work here?");
     ChMotion(21,3);
@@ -42,7 +42,7 @@ I'll have to work hard at this job!)");
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
     Wait(15,0);
-    ChOpen(21,35,0,0,0,-1,-1,0,0);
+    ChOpen(21,35,0,0,0,#1,#1,0,0);
     VoicePlay("I532100000_21_030");
     MsgDisp("Michiru","Mari.
 Welcome to Princess Tsubaki.");
@@ -72,7 +72,7 @@ and have fun!)");
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
     Wait(15,0);
-    ChOpen(21,35,3,0,0,-1,-1,0,0);
+    ChOpen(21,35,3,0,0,#1,#1,0,0);
     VoicePlay("I532100000_21_060");
     MsgDisp("Michiru","Mari, welcome.");
     MsgDisp("主人公","Huh, ｛みちる＊｝?

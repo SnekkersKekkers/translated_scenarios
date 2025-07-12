@@ -15,5 +15,5 @@ that outfit of yours is just unfair.");
 MsgDisp("主人公","(Oh, good!
 ｛本多＊＊｝ seems to like clothes
 like this, too.)");
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

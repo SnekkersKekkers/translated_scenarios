@@ -1,6 +1,6 @@
 BGOpen("sc710",0);
 MsgClose();
-ChOpen(21,254,7,0,0,-1,-1,0,0,0,0);
+ChOpen(21,254,7,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Oh, ｛みちる＊｝!
 This year—");

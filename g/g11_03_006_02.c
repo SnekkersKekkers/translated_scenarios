@@ -9,7 +9,7 @@ MsgDisp("Honda?","Is it a magazine with a luxurious gift?
 Does the item come with a booklet?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,0,0,4,-1,-1,0,0);
+ChOpen(3,35,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Ah ｛本多＊＊｝, good work.
 Hehe, it really is like that.");
 ChEye(3,0);
@@ -51,7 +51,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,2,-1,-1,0,0);
+ChOpen(3,100,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","......Ah, ｛本多＊＊｝.
 Isn't it time to head back up already?");

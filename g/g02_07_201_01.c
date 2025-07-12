@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020720101_07_000");
 MsgDisp("Mikage","What the?
 I think I just saw a blue firefly.");
@@ -60,6 +60,6 @@ MsgClose();
 ScrFadeOut(0,0);
 BGMStop();
 ChLayout(1);
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);

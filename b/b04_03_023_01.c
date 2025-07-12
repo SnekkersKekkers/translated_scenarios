@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(3,255,0,0,3,-1,-1,0,0);
+ChOpen(3,255,0,0,3,#1,#1,0,0);
 ChLayout(1);
 VoicePlay("B040302301_03_000");
 MsgDisp("Honda","Hey look. Tetrapods.

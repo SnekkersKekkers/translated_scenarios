@@ -14,7 +14,7 @@ it my all these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_000");
     MsgDisp("Hiiragi","｛主人公｝,
@@ -73,7 +73,7 @@ it my all these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_050");
     MsgDisp("Hiiragi","｛主人公｝,

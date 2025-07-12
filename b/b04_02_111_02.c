@@ -68,7 +68,7 @@ That would be most effective.");
         ChClose(2,0,30);
         ChLayout(0);
         MsgClose();
-        ChOpen(2,253,4,0,4,-1,-1,10,0);
+        ChOpen(2,253,4,0,4,#1,#1,10,0);
         SEPlay("EV_SE_565");
         SEWait();
         MsgDisp("主人公","Waa, it's so warm. ");

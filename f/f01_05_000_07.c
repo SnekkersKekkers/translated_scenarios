@@ -8,7 +8,7 @@ switch (ChPrmGet(5,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,4,4,4,-1,-1,0,0);
+    ChOpen(5,254,4,4,4,#1,#1,0,0);
     VoicePlay("F010500007_05_000");
     MsgDisp("Hiiragi","Somehow, I had a feeling you would come.
 When I was just standing there.");
@@ -24,7 +24,7 @@ How about we walk together?");
     case 5:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,5,0,3,-1,-1,0,0);
+    ChOpen(5,254,5,0,3,#1,#1,0,0);
     VoicePlay("F010500007_05_020");
     MsgDisp("Hiiragi","Just in time... at last...");
     MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
@@ -127,7 +127,7 @@ My apologies.");
         ChEye(5,2);
         ChMouth(5,4);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("F010500007_05_100");
         MsgDisp("Hiiragi","Do not be.
 I am sorry that I made you decline,

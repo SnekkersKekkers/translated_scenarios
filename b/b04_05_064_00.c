@@ -55,7 +55,7 @@ MsgDisp("Night Market Clerk","Thank you～!");
 MsgClose();
 SEPlay("EV_SE_625",0,0.9);
 Wait(60,0);
-ChOpen(5,33,0,4,4,-1,-1,0,0);
+ChOpen(5,33,0,4,4,#1,#1,0,0);
 VoicePlay("B040506400_05_070");
 MsgDisp("Hiiragi","Sorry to keep you waiting.
 Let's take our time to enjoy some local

@@ -7,7 +7,7 @@ even though this was my last show...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(5,254,0,4,4,-1,-1,0,0);
+ChOpen(5,254,0,4,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("P740500005_05_000");
 MsgDisp("Hiiragi","｛主人公｝, you're not injured, are you?");

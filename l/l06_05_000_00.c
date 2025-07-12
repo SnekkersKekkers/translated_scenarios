@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
-ChOpen(5,254,0,0,0,-1,-1,0,0);
+ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("L060500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");

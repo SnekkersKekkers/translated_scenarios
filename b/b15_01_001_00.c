@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,1,0,2,-1,-1,5,0);
+ChOpen(1,255,1,0,2,#1,#1,5,0);
 ScrFadeIn(0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100100_01_000");
@@ -28,7 +28,7 @@ that's not called skinship.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("B150100100_01_030");
 MsgDisp("Kazama","Don't forget about the other person.");
 MsgDisp("主人公","Yeah, got it. But sometimes

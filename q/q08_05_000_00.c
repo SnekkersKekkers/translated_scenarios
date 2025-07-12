@@ -56,7 +56,7 @@ Thanks for inviting me.");
     MsgDisp("Hiiragi","If we're both satisfied,
 I'm glad——");
     ChMouth(5,2);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("Q080500000_05_050");
     MsgDisp("Hiiragi","Oh...... wait. Actually,
 not satisfied.");

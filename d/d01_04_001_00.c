@@ -23,7 +23,7 @@ MsgDisp("Nanatsumori?","You didn't have to run, you know.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChNanaType(1);
-ChOpen(4,35,0,4,3,-1,-1,0,0,0,60);
+ChOpen(4,35,0,4,3,#1,#1,0,0,0,60);
 MsgDisp("主人公","｛七ツ森＊｝!
 It's because you surprised me......");
 ChEye(4,0);
@@ -49,7 +49,7 @@ VoicePlay("D010400100_04_030");
 MsgDisp("Nanatsumori","…………");
 ChEye(4,0);
 ChMotion(4,1,1);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("D010400100_04_040");
 MsgDisp("Nanatsumori","Over there.
 Let's sit on the bench.");
@@ -134,7 +134,7 @@ MsgClose();
 BGOpen("ex000",2);
 SEPlay("EV_SE_544",0,0.4);
 ChNanaType(1);
-ChOpen(4,35,0,2,4,-1,-1,9,0);
+ChOpen(4,35,0,2,4,#1,#1,9,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("D010400100_04_130");

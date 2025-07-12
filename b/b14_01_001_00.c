@@ -62,7 +62,7 @@ MsgDisp("主人公","Eh...?");
 ChMotion(1,0);
 Wait(12,0);
 ChMouth(1,3);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("B140100100_01_050");
 MsgDisp("Kazama","We didn't see each other for 10 years, 
 And then we were in the same

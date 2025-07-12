@@ -3,7 +3,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,5,5,-1,-1,0,0);
+ChOpen(4,254,0,5,5,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P840400001_04_000");
 MsgDisp("Nanatsumori","Ah... watch your step——");

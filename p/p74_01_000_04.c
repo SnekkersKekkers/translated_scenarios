@@ -7,7 +7,7 @@ It was a huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 ChEye(1,3);
 ChMotion(1,3);
 VoiceEVSPlay(1);

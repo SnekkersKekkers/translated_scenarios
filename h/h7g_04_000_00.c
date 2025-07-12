@@ -1,8 +1,8 @@
 MsgClose();
 BGOpen("ho000",0);
 ChLayout(1);
-ChNanaType(-1);
-ChOpen(4,255,0,0,0,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("H7G0400000_04_000");
 MsgDisp("Nanatsumori","Yo.");

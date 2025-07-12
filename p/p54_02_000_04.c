@@ -8,7 +8,7 @@ performance at my last cultural festival.
 I'm glad...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(2,254,0,0,4,-1,-1,0,0);
+ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P540200004_02_000");
 MsgDisp("Sassa","｛主人公｝, that was amazing.");

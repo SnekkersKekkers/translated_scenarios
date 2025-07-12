@@ -1,8 +1,8 @@
 BGOpen("sc510",0);
 ChLayout(1);
 MsgClose();
-ChOpen(21,254,3,0,3,-1,-1,0,1,0,30);
-ChOpen(22,254,0,3,3,-1,-1,0,2,0,30);
+ChOpen(21,254,3,0,3,#1,#1,0,1,0,30);
+ChOpen(22,254,0,3,3,#1,#1,0,2,0,30);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("L050D00001_21_000");

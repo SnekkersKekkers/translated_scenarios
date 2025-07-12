@@ -66,7 +66,7 @@ MsgDisp("主人公","｛風真＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("T020121000_01_300");
 MsgDisp("Kazama","I'll put it on for you.");
 BGMStop(5);
@@ -108,7 +108,7 @@ MsgDisp("Kazama","The bell is ringing...!
 Those guys will be coming soon.");
 StlEyeOpenLevel(1,0,1);
 Wait(6,0);
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("T020121000_01_360");
 MsgDisp("Kazama","Then, come on! My bride.");
 MsgClose();

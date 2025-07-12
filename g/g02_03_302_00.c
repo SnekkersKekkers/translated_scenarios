@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,0,4,4,-1,-1,0,0);
+ChOpen(3,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020330200_03_000");
 MsgDisp("Honda","The other day, Ryo-kun told me, 'I admire
 Honda, but I could never be like him.'");
@@ -66,6 +66,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

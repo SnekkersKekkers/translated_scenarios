@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Alright, better hurry home.)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010310000_03_000");
 MsgDisp("Honda","｛主人公｝.");

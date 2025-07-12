@@ -5,7 +5,7 @@ MsgDisp("主人公","(Yes, I feel like I can study more now
 that I work part time at a bookstore!)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,1,0,3,-1,-1,0,0);
+ChOpen(3,35,1,0,3,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300700_03_000");
 MsgDisp("Honda","｛主人公｝.
@@ -20,7 +20,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,1,-1,-1,0,0);
+ChOpen(3,100,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300700_03_010");
 MsgDisp("Honda","One, two, they're bookworms♪

@@ -2,7 +2,7 @@ ChEye(5,4);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
 Wait(60,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoiceEVSPlay(5);
 VoicePlay("T020501021_05_000");
 MsgDisp("Hiiragi","｛主人公｝,

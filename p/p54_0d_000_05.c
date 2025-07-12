@@ -9,9 +9,9 @@ Even though that was my
 last high school performance...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
-ChOpen(21,254,0,0,4,-1,-1,0,1);
+ChOpen(21,254,0,0,4,#1,#1,0,1);
 SEPlay("EV_SE_544",0,0.5);
-ChOpen(22,254,0,2,0,-1,-1,0,2);
+ChOpen(22,254,0,2,0,#1,#1,0,2);
 VoicePlay("P540D00005_21_000");
 MsgDisp("Michiru","...Good work.");
 VoicePlay("P540D00005_22_000");

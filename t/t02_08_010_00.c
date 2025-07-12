@@ -1,7 +1,7 @@
 MsgType(1);
 BGOpen("ex980",0);
 ChLayout(0);
-ChOpen(8,254,0,0,5,-1,-1,0,0);
+ChOpen(8,254,0,0,5,#1,#1,0,0);
 BGMPlay("BGM_C08_DAICHI_KOKU",0.01);
 ScrFadeIn(0);
 VoicePlay("T020801000_08_000");
@@ -65,7 +65,7 @@ MsgType(1);
 ScrFadeOut(0,1,90);
 BGOpen("ex980",0);
 ChLayout(0);
-ChOpen(8,254,0,3,3,0,-1,0,0);
+ChOpen(8,254,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("T020801000_08_030");
 MsgDisp("Shirahane","Haa......sorry for the wait.");
@@ -124,22 +124,22 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
 MsgDisp("Shirahane","I pretended to seek perfection, but in
-reality I was just being self-satisfied.");
+reality I was just complacent.");
 VoicePlay("T020801000_08_120");
 ChEye(8,4);
 ChMouth(8,4);
 MsgDisp("Shirahane","I'm not going to end my high school life
-as such a half baked guy,
+as such a half-assed guy.
 I......want you to acknowledge me.");
 MsgClear();
 ChClose(8);
 ChCustomLayout(8,5,0,-2.5);
 Wait(60);
 SEPlay("EV_SE_544");
-ChOpen(8,254,0,3,4,10,-1,3,0,0,120);
+ChOpen(8,254,0,3,4,10,#1,3,0,0,120);
 VoicePlay("T020801000_08_130");
-MsgDisp("Shirahane","I've liked you, since I met you.");
-MsgDisp("主人公","！");
+MsgDisp("Shirahane","I've liked you since I met you.");
+MsgDisp("主人公","!");
 VoicePlay("T020801000_08_140");
 ChEye(8,4);
 ChMouth(8,4);

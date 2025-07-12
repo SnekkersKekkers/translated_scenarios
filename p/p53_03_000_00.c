@@ -12,7 +12,7 @@ performance. I'm getting nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,0,0,4,-1,-1,0,0);
+    ChOpen(3,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300000_03_000");
     MsgDisp("Honda","｛主人公｝,
@@ -61,7 +61,7 @@ performance. I'm getting nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,0,0,0,-1,-1,0,0);
+    ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530300000_03_050");
     MsgDisp("Honda","Huh, you look nervous.");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.

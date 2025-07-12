@@ -2,7 +2,7 @@ BGOpen("tr420",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,4,3,3,-1,-1,0,0,0,0);
+ChOpen(5,255,4,3,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523102_05_000");
 MsgDisp("Hiiragi","When you look at it from 
@@ -60,7 +60,7 @@ There are lots of other things too.");
 What's wrong?");
         ChEye(5,0);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040523102_05_050");
         MsgDisp("Hiiragi","Sorry.
 I remember being told 
@@ -101,7 +101,7 @@ But, I think she was happy.");
         VoicePlay("B040523102_05_110");
         MsgDisp("Hiiragi","If so, that's good.");
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040523102_05_120");
         MsgDisp("Hiiragi","...What about you?");
         MsgDisp("主人公","I'm happy.
@@ -121,7 +121,7 @@ go to things like amusement parks because
 of things like work...)");
         MsgClose();
         ScrFadeOut(0,0);
-        ChOpen(5,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

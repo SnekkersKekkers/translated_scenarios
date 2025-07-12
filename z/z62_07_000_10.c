@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("Z620700010_07_000");
 MsgDisp("Mikage","Ooh, as you are now, you'll definitely
 get a job at a top company.

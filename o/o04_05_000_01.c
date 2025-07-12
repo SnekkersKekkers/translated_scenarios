@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,30,0,2,2,9,-1,0,0);
+    ChOpen(5,30,0,2,2,9,#1,0,0);
     ScrFadeIn(0);
     ChEyeOpenLevel(5,0);
     VoicePlay("O040500001_05_000");
@@ -16,7 +16,7 @@ I should've tried harder.)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,30,4,2,4,0,-1,0,0);
+    ChOpen(5,30,4,2,4,0,#1,0,0);
     ScrFadeIn(0);
     ChEyeOpenLevel(5,9);
     VoicePlay("O040500001_05_010");
@@ -28,7 +28,7 @@ I should've tried harder.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,30,0,2,2,9,-1,0,0);
+    ChOpen(5,30,0,2,2,9,#1,0,0);
     ScrFadeIn(0);
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);

@@ -8,7 +8,7 @@ Even though it was the last performance
 of my high school life...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("P540100005_01_000");
 MsgDisp("Kazama","｛主人公｝.");

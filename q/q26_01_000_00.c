@@ -2,7 +2,7 @@ SEPlay("EV_SE_700");
 BGOpen("sc815",2);
 ChLayout(1);
 MsgClose();
-ChOpen(1,30,0,2,0,0,-1,0,0);
+ChOpen(1,30,0,2,0,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q260100000_01_000");
 MsgDisp("Kazama","Phew......");

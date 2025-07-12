@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGOpen("sc771",2);
 ChLayout(1);
 MsgClose();
-ChOpen(5,34,0,0,4,-1,-1,0,0);
+ChOpen(5,34,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("R080500000_05_000");
@@ -82,7 +82,7 @@ StlEyeOpenLevel(5,5,1);
 VoicePlay("R080500000_05_080");
 MsgDisp("Hiiragi","It's a tree ornament that I couldn't
 decorate yet.");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("R080500000_05_090");
 MsgDisp("Hiiragi","When I saw you today, you reminded
@@ -144,7 +144,7 @@ BGMVol(0.5,2);
 BGOpen("sc771",2);
 ChLayout(1);
 MsgClose();
-ChOpen(5,34,4,4,4,-1,-1,0,0);
+ChOpen(5,34,4,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("R080500000_05_150");
 MsgDisp("Hiiragi","My apologies. I guess I

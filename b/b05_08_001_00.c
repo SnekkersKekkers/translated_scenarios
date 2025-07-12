@@ -1,7 +1,7 @@
 BGOpen("wf400",1);
 ChLayout(1);
 MsgClose();
-ChOpen(8,255,0,0,3,-1,-1,4,0);
+ChOpen(8,255,0,0,3,#1,#1,4,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_000");
@@ -122,7 +122,7 @@ StlClose();
 BGMVol(0.5,2);
 BGOpen("wf200",1);
 MsgClose();
-ChOpen(8,255,0,3,0,0,-1,4,0);
+ChOpen(8,255,0,3,0,0,#1,4,0);
 ScrFadeIn(0);
 VoicePlay("B050800100_08_150");
 MsgDisp("Shirahane","Hehe...!");

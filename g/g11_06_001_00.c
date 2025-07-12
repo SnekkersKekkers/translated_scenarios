@@ -12,7 +12,7 @@ MsgClose();
 MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_B");
-ChOpen(6,100,0,0,0,-1,-1,0,0);
+ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600100_06_000");
 MsgDisp("Himuro","......So, what?

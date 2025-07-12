@@ -46,7 +46,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEPlay("EV_SE_628");
 Wait(35,0);
-ChOpen(7,255,3,1,3,0,-1,0,0,0,60);
+ChOpen(7,255,3,1,3,0,#1,0,0,0,60);
 VoicePlay("B040706400_07_050");
 MsgDisp("Mikage","Yeah, yeah...
 It'll be about now.");

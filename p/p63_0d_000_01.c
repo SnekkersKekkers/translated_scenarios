@@ -6,8 +6,8 @@ MsgDisp("主人公","(This year we're doing herb tea and a
 vegetable sale. It would be nice if it was
 well-received...)");
 MsgClose();
-ChOpen(21,254,0,0,0,-1,-1,0,1);
-ChOpen(22,254,0,0,3,-1,-1,0,2);
+ChOpen(21,254,0,0,0,#1,#1,0,1);
+ChOpen(22,254,0,0,3,#1,#1,0,2);
 VoicePlay("P630D00001_21_000");
 MsgDisp("Michiru","Are you giving it your best?");
 MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝!

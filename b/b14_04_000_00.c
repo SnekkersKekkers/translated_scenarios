@@ -6,8 +6,8 @@ MsgClose();
 ChLayout(1);
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,0,0,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Waa...!
 The illumination is beautiful!

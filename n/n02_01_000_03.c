@@ -4,7 +4,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,254,0,2,2,-1,-1,0,0);
+    ChOpen(1,254,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100003_01_000");
     MsgDisp("Kazama","I was worried you'd get to this point.");
@@ -34,7 +34,7 @@ I've got to study harder...)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,254,0,2,3,-1,-1,0,0);
+    ChOpen(1,254,0,2,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("N020100003_01_030");
@@ -72,7 +72,7 @@ I've got to study harder!)");
     ScrFadeIn(0);
     MsgDisp("主人公","(Ahh, this score is terrible...)");
     MsgClose();
-    ChOpen(1,254,0,0,2,-1,-1,0,0);
+    ChOpen(1,254,0,0,2,#1,#1,0,0);
     VoicePlay("N020100003_01_070");
     MsgDisp("Kazama","Hey.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.");

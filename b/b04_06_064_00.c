@@ -57,7 +57,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 SEPlay("EV_SE_628");
 Wait(35,0);
-ChOpen(6,33,0,0,0,-1,-1,0,0);
+ChOpen(6,33,0,0,0,#1,#1,0,0);
 ChMotion(6,0);
 VoicePlay("B040606400_06_060");
 MsgDisp("Himuro","Ah... it's time already.");

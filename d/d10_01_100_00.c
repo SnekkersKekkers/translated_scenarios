@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("D100110000_01_000");
 MsgDisp("Kazama","｛主人公｝, listen.");

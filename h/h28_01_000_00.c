@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     ScrFadeIn(0);
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("H280100000_01_000");
     MsgDisp("Kazama","｛主人公｝.");
@@ -50,7 +50,7 @@ too!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("H280100000_01_050");

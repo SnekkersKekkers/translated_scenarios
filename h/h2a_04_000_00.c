@@ -4,7 +4,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0);
+    ChOpen(4,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
@@ -25,7 +25,7 @@ the track and field club manager!)");
     case 5:
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0);
+    ChOpen(4,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(4);
     VoicePlay("H2A0400000_04_020");

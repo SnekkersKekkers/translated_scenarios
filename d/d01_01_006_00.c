@@ -9,7 +9,7 @@ VoicePlay("D010100600_31_000");
 MsgDisp("Goro?","You, wait a minute.");
 MsgClose();
 BGMPlay("BGM_C31_GORO_A",0.01);
-ChOpen(31,254,0,0,0,-1,-1,0,0);
+ChOpen(31,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, Goro-sensei!");
 ChEye(31,4);
 ChMouth(31,4);
@@ -72,7 +72,7 @@ interest in purchasing it.");
 MsgDisp("主人公","(Wow, ｛風真＊＊｝ is amazing.
 Even with so many guests......
 He's doing such a great job!)");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("D010100600_01_040");
 MsgDisp("Kazama","525 Rich going once......
 525 Rich going twice. Is there anyone 
@@ -82,7 +82,7 @@ StlMouthOpenLevel(1,0);
 VoicePlay("D010100600_01_050");
 MsgDisp("Kazama","……！");
 StlEyeOpenLevel(1,5);
-StlMouthOpenLevel(1,-1);
+StlMouthOpenLevel(1,#1);
 MsgDisp("主人公","(Ah......
 Did our eyes meet just now?)");
 StlEye(1,0);
@@ -102,7 +102,7 @@ MsgClose();
 BGOpen("sc010",1);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,2,-1,-1,0,0);
+ChOpen(1,255,0,0,2,#1,#1,0,0);
 BGMPlay("BGM_C01_RYOUTA_D",0.2,0.6);
 ScrFadeIn(0);
 MsgDisp("主人公","Ahh, that surprised me......");
@@ -112,7 +112,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100600_01_070");
 MsgDisp("Kazama","That's my line.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe, come to think of it, we made
 eye contact once in there, didn't we?");
 ChEye(1,0);

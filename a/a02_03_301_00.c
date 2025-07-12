@@ -11,7 +11,7 @@ ScrFadeOut(0);
 BGOpen("ev003",0);
 BGMPlay("BGM_C03_HONDA_I");
 MsgClose();
-ChOpen(3,100,1,1,1,-1,-1,0,0);
+ChOpen(3,100,1,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("A020330100_03_000");
 MsgDisp("Honda?","Ah-! You're the newbie!");
@@ -40,7 +40,7 @@ ChClose(3);
 BGOpen("ar600",0);
 ScrFadeIn(0);
 MsgClose();
-ChOpen(3,35,0,0,0,-1,-1,0,0,0,60);
+ChOpen(3,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("A020330100_03_030");
 MsgDisp("Honda","I'm Honda Iku.
 I'll teach you anything you need, okay?");

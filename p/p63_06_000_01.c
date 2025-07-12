@@ -10,7 +10,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","(Seems like lots of customers
 are coming this year...)");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600001_06_000");
     MsgDisp("Himuro","Quite successful huh?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!
@@ -33,8 +33,8 @@ Then, I'll have some.");
     MsgDisp("主人公","Thank you very much!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(6,-1);
-    ChMouth(6,-1);
+    ChEye(6,#1);
+    ChMouth(6,#1);
     ChCheek(6,0);
     break ;
     case 4:
@@ -44,7 +44,7 @@ Then, I'll have some.");
     MsgDisp("主人公","(Seems like lots of customers
 are coming this year...)");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600001_06_030");
     MsgDisp("Himuro","...I missed the hype.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!
@@ -74,8 +74,8 @@ Then prepare a portion for me.");
 Then please wait a bit!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(6,-1);
-    ChMouth(6,-1);
+    ChEye(6,#1);
+    ChMouth(6,#1);
     ChCheek(6,0);
     break ;
     default :

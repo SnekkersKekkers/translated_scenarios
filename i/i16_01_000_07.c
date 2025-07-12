@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,3,-1,-1,0,0);
+    ChOpen(1,35,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("I160100007_01_000");
     MsgDisp("Kazama","｛主人公｝. You're getting a
@@ -33,7 +33,7 @@ is saying that.)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,0,0,0,-1,-1,0,0);
+    ChOpen(1,35,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("I160100007_01_020");
     MsgDisp("Kazama","｛主人公｝,

@@ -2,7 +2,7 @@ BGOpen("tr440",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(6,255,0,3,3,0,-1,0,0,0,0);
+ChOpen(6,255,0,3,3,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623301_06_000");
 MsgDisp("Himuro","It feels like you're 

@@ -88,7 +88,7 @@ VoicePlay("D140A05002_06_030");
 MsgDisp("Himuro","I wanted to have lunch with the 
 four of us, that's why I'm here.
 It's the same for you, right?");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Y-Yeah.");
 ChEye(1,2);
 ChMouth(1,0);

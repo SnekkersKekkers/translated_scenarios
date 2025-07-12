@@ -5,7 +5,7 @@ BGOpen("ex240",1);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-NSSOpen(8,254,4,0,-1,-1,10);
+NSSOpen(8,254,4,0,#1,#1,10);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("T040800000_08_000");

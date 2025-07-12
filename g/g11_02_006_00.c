@@ -17,7 +17,7 @@ MsgClose();
 BGOpen("ev002",0);
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,100,0,1,1,-1,-1,0,0);
+ChOpen(2,100,0,1,1,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 MsgDisp("主人公","｛颯砂＊＊｝.");

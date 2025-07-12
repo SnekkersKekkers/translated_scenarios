@@ -4,7 +4,7 @@ SEPlay("EV_SE_589");
 ScrFadeIn(0);
 MsgClose();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
-ChOpen(8,35,2,3,3,-1,-1,0,0);
+ChOpen(8,35,2,3,3,#1,#1,0,0);
 ChEyeOpenLevel(8,0);
 VoicePlay("D020800300_08_000");
 MsgDisp("Shirahane","Cheers......No, thank you very much!");
@@ -60,7 +60,7 @@ VoiceEVSPlay(8);
 VoicePlay("D020800300_08_060");
 MsgDisp("Shirahane","｛主人公｝ is smiling brightly today
 too! I won't lose to you!");
-ChEyeOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","Haha! It seems you won't!
 ......I mean, your smile is way brighter
 than mine.");

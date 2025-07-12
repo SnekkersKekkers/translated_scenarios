@@ -5,7 +5,7 @@ MsgDisp("主人公","(I'm running late.
 ｛大地＊＊｝ is... Here!)");
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,253,4,0,0,-1,-1,0,0);
+ChOpen(8,253,4,0,0,#1,#1,0,0);
 MsgDisp("主人公","I'm sorry, did you wait?");
 ChMouth(8,3);
 ChMotion(8,0,1);

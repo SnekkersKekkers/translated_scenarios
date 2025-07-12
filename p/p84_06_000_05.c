@@ -12,7 +12,7 @@ MsgDisp("主人公","Ah, wait.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,254,4,1,0,-1,-1,0,0);
+ChOpen(6,254,4,1,0,#1,#1,0,0);
 VoicePlay("P840600005_06_000");
 MsgDisp("Himuro","You can't let go of her hand.");
 MsgDisp("主人公","I'm sorry.");
@@ -31,7 +31,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840600005_06_020");
 MsgDisp("Himuro","I wondered how it'll turn out...");
 ChEye(6,0);

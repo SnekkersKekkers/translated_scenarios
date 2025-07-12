@@ -20,7 +20,7 @@ MsgDisp("主人公","We had PE in the morning,
 so it's gotten us quite 
 hungry, hasn't it?");
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("D140B03300_01_010");
 MsgDisp("Kazama","Yeah. 
 PE for fourth period is rough.");

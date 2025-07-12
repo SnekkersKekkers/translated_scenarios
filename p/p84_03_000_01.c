@@ -1,4 +1,4 @@
-ChOpen(3,254,4,0,4,-1,-1,0,0);
+ChOpen(3,254,4,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P840300001_03_000");
 MsgDisp("Honda","Hmm...as I thought, 

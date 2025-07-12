@@ -1,5 +1,5 @@
 ChLayout(1);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P840300000_03_000");
 MsgDisp("Honda","I get the feeling that you're

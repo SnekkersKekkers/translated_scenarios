@@ -8,7 +8,7 @@ MsgDisp("Nanatsumori","Sigh...");
 MsgDisp("主人公","What's wrong?
 That was a big sigh.");
 ChMotion(4,0,1);
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 VoicePlay("G020440000_04_010");
 MsgDisp("Nanatsumori","Hm? Oh, I just remembered
 something and I sighed.");
@@ -86,6 +86,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

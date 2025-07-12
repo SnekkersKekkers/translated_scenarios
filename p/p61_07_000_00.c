@@ -7,7 +7,7 @@ decided to serve herbal tea.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoicePlay("P610700000_07_000");
 MsgDisp("Mikage","Alright, everyone's decided, 
 so let's make it into a success?");

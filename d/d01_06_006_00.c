@@ -83,7 +83,7 @@ BGOpen("wf601",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_542");
 SEWait();
-ChOpen(6,31,0,0,0,-1,-1,0,0);
+ChOpen(6,31,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝!
 Nice work!　You were amazing∈");
 ChEye(6,0);

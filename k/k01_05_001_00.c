@@ -8,7 +8,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","Sorry to call you out like this.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A");
-    ChOpen(5,254,0,0,0,-1,-1,0,0);
+    ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("K010500100_05_000");
     MsgDisp("Hiiragi","Never mind that.
 Well then, what is it?");
@@ -27,7 +27,7 @@ sorry for the trouble.");
     MsgDisp("主人公","Sorry to call you out like this.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A");
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("K010500100_05_020");
     MsgDisp("Hiiragi","It's alright.
 Did you need something?");
@@ -50,7 +50,7 @@ at times like these. Can I open it now?");
     MsgDisp("主人公","Sorry to call you out like this.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A");
-    ChOpen(5,254,0,4,4,-1,-1,0,0);
+    ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("K010500100_05_040");
     MsgDisp("Hiiragi","If you're the one who's calling,
 I'm always available.

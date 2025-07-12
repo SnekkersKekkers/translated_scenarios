@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Yay, it was a huge success∈");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, Himuro-sensei!");
 ChEye(32,2);
 ChMouth(32,0);

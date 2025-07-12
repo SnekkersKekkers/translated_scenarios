@@ -1,8 +1,8 @@
 ChLayout(1);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
-ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(2,254,3,0,4,-1,-1,0,2,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 VoicePlay("Q020A00100_02_000");
 MsgDisp("Sassa","Oh, here you are.
 Good morning.");

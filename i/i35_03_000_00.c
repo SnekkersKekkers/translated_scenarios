@@ -8,7 +8,7 @@ switch (ChPrmGet(3,6)){
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     BGMPlay("BGM_C03_HONDA_A",0.01);
-    ChOpen(3,255,1,0,3,-1,-1,0,0);
+    ChOpen(3,255,1,0,3,#1,#1,0,0);
     VoicePlay("I350300000_03_000");
     MsgDisp("Honda","Ah, you're here.");
     MsgDisp("主人公","｛本多＊＊｝, what is it?");
@@ -44,7 +44,7 @@ how much I've grown next time he comes!)");
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     BGMPlay("BGM_C03_HONDA_A",0.01);
-    ChOpen(3,255,3,3,3,-1,-1,0,0);
+    ChOpen(3,255,3,3,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("I350300000_03_050");
     MsgDisp("Honda","｛主人公｝.");
@@ -90,7 +90,7 @@ am I really that different here?)");
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     BGMPlay("BGM_C03_HONDA_A",0.01);
-    ChOpen(3,255,1,3,3,-1,-1,0,0);
+    ChOpen(3,255,1,3,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("I350300000_03_100");
     MsgDisp("Honda","｛主人公｝.

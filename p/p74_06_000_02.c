@@ -7,7 +7,7 @@ It seems like it was a success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,254,0,0,4,-1,-1,0,0);
+ChOpen(6,254,0,0,4,#1,#1,0,0);
 VoicePlay("P740600002_06_000");
 MsgDisp("Himuro","Good work.
 It was beautiful.");

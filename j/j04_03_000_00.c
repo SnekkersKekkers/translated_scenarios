@@ -6,7 +6,7 @@ switch (ChPrmGet(3,6)){
     break ;
     case 3:
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,254,1,0,3,-1,-1,0,0);
+    ChOpen(3,254,1,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(3);
     VoicePlay("J040300000_03_000");
@@ -23,7 +23,7 @@ Are you free this Sunday?");
     MsgSel("Yeah, I'm free.", "I'm not available that day……");
     switch (MsgSelRsltGet()){
         case 0:
-        ChEyeOpenLevel(3,-1);
+        ChEyeOpenLevel(3,#1);
         ChCheek(3,0);
         break ;
         case 1:
@@ -59,7 +59,7 @@ What was that about?)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,254,3,3,3,-1,-1,0,0);
+    ChOpen(3,254,3,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("J040300000_03_040");
     MsgDisp("Honda","Oh, there you are.
@@ -75,7 +75,7 @@ Are you free this Sunday?");
     MsgSel("Yeah, I'm free.", "I have to run an errand……");
     switch (MsgSelRsltGet()){
         case 0:
-        ChEyeOpenLevel(3,-1);
+        ChEyeOpenLevel(3,#1);
         ChCheek(3,0);
         break ;
         case 1:

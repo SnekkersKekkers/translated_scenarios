@@ -7,7 +7,7 @@ Habacha's Editorial Department has been
 recognized. As a result, your 
 \"Journalist Level\" has increased!)");
 MsgClose();
-ChOpen(31,254,2,0,0,-1,-1,0,0);
+ChOpen(31,254,2,0,0,#1,#1,0,0);
 VoicePlay("D230000003_31_000");
 MsgDisp("Goro","Just like I expected.
 Thanks to you, all those diamonds in the

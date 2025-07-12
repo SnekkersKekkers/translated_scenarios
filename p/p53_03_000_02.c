@@ -13,7 +13,7 @@ it my all these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,0,0,3,-1,-1,0,0);
+    ChOpen(3,254,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300002_03_000");
     MsgDisp("Honda","｛主人公｝.
@@ -48,7 +48,7 @@ it my all these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,1,0,3,-1,-1,0,0);
+    ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300002_03_030");
     MsgDisp("Honda","｛主人公｝.

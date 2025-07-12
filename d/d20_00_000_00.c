@@ -32,7 +32,7 @@ MsgDisp("主人公","......Eh?
 Me?");
 MsgClose();
 BGMPlay("BGM_C31_GORO_A",0.01);
-ChOpen(31,254,3,2,2,-1,-1,0,0);
+ChOpen(31,254,3,2,2,#1,#1,0,0);
 VoicePlay("D200000000_31_010");
 MsgDisp("Goro?","Yes, that's right. Y・O・U.
 Come over here for a minute.");

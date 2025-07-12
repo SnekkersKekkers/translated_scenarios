@@ -15,7 +15,7 @@ Here's your matcha and mitarashi dango～!");
 I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P030100000_01_000");
     MsgDisp("Kazama","Seems like business is booming.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
@@ -44,7 +44,7 @@ though?");
     VoicePlay("P030100000_01_030");
     MsgDisp("Kazama","Sure, sure.
 I'll take that dango set, then.");
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDisp("主人公","Understood, one dumpling set～!");
     MsgClose();
     ScrFadeOut(0,0);
@@ -57,7 +57,7 @@ matcha and mitarashi dango..");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("P030100000_01_040");
     MsgDisp("Kazama","｛主人公｝.");
@@ -98,7 +98,7 @@ This uniform is pretty cute.");
     VoicePlay("P030100000_01_080");
     MsgDisp("Kazama","Yeah, it's cute.
 ......Geez, just get me a dango set.");
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDisp("主人公","Hehe.
 Alright, one dango set coming right up～!");
     MsgClose();
@@ -108,6 +108,6 @@ Alright, one dango set coming right up～!");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

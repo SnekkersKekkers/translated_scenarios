@@ -3,7 +3,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,34,0,0,0,-1,-1,0,0);
+    ChOpen(6,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060600003_06_000");
     MsgDisp("Himuro","Ah... you're the one who got it?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
@@ -24,7 +24,7 @@ would even be possible.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,34,0,0,0,-1,-1,0,0);
+    ChOpen(6,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(6);
     VoicePlay("R060600003_06_030");
     MsgDisp("Himuro","｛主人公｝.");
@@ -61,7 +61,7 @@ What a coincidence.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,34,0,0,0,-1,-1,0,0);
+    ChOpen(6,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(6);
     VoicePlay("R060600003_06_080");
     MsgDisp("Himuro","｛主人公｝.");

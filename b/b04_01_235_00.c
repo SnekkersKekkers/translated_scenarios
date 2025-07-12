@@ -2,7 +2,7 @@ BGOpen("tr460",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123500_01_000");
 MsgDisp("Kazama","When I think of haunted houses,
@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
 I understood that quite well.");
     MsgDispSksp(1,0);
     ChMotion(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

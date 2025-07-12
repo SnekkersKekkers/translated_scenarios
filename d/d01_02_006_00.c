@@ -6,7 +6,7 @@ I wish everyone the best.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
-ChOpen(2,37,3,0,4,-1,-1,0,0);
+ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200600_02_000");
 MsgDisp("Sassa","｛主人公｝.
@@ -77,7 +77,7 @@ MsgClose();
 Wait(60);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-ChOpen(2,37,3,0,3,-1,-1,0,0);
+ChOpen(2,37,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200600_02_050");
 MsgDisp("Sassa","｛主人公｝.");

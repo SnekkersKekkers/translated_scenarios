@@ -1,7 +1,7 @@
 BGOpen("ne210",0);
 EnvAutoSet(1);
 MsgClose();
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600100_34_000");
 MsgDisp("Band Guy","Yo, Inori. I wasn't expecting
@@ -96,7 +96,7 @@ ScrFadeOut(0);
 StlClose();
 Wait(60,0);
 ScrFadeIn(0);
-ChOpen(6,255,2,0,2,0,-1,0,0);
+ChOpen(6,255,2,0,2,0,#1,0,0);
 VoicePlay("B050600100_06_080");
 MsgDisp("Himuro","......Sigh.");
 MsgDisp("主人公","｛氷室＊＊｝!

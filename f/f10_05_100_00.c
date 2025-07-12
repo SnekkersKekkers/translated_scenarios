@@ -21,7 +21,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-ChOpen(5,254,2,2,2,0,-1,0,0);
+ChOpen(5,254,2,2,2,0,#1,0,0);
 Wait(70,1);
 VoicePlay("F100510000_05_000");
 MsgDisp("Hiiragi","Haa...");

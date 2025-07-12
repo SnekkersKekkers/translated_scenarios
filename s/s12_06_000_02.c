@@ -1,7 +1,7 @@
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(6,-1);
-ChMouthOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
+ChMouthOpenLevel(6,#1);
 ChCheek(6,0);
 BGOpen("ex020",0);
 switch (ChPrmGet(6,6)){

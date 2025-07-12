@@ -79,7 +79,7 @@ Let's do it together.");
         MsgDisp("主人公","Ah... EHh∋");
         SEPlay("EV_SE_544",0.01);
         MsgClose();
-        ChOpen(5,255,2,2,4,-1,-1,10,0,0,30);
+        ChOpen(5,255,2,2,4,#1,#1,10,0,0,30);
         VoicePlay("B040502102_05_090");
         MsgDisp("Hiiragi","Uh...
 So that's how you went about it...");

@@ -10,7 +10,7 @@ vegetables everyone grew, and herbal tea.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoicePlay("P610700004_07_000");
 ChEye(7,0);
 ChMouth(7,0);

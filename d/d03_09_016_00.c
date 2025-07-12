@@ -7,7 +7,7 @@ VoicePlay("D030901600_09_000");
 MsgDisp("Kuya?","I finally found you.");
 MsgDisp("主人公","Eh......?");
 MsgClose();
-ChOpen(9,255,0,0,0,-1,-1,0,0);
+ChOpen(9,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Kuya-san!");
 ChEye(9,3);
 ChMouth(9,0);

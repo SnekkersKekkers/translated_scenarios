@@ -2,7 +2,7 @@ BGOpen("sc320",0);
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 SEPlay("EV_SE_666",0.5);
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(7,0);
 ChMouth(7,0);
@@ -28,4 +28,4 @@ to see my face on their day off, feel free
 to join.");
 SEPlay("EV_SE_GAYA_017",0.1,0.7);
 Wait(30,0);
-ChEyeOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);

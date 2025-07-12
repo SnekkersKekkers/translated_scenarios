@@ -10,7 +10,7 @@ MsgClear();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C01_RYOUTA_KOKU",0.01);
-ChOpen(1,254,0,0,3,-1,-1,0,0,0,120);
+ChOpen(1,254,0,0,3,#1,#1,0,0,0,120);
 MsgDisp("主人公","｛風真＊＊｝......!
 Why......");
 ChEyeOpenLevel(1,0);
@@ -164,7 +164,7 @@ ChClose(1);
 ChCustomLayout(1,5,0,-2.7);
 Wait(30);
 SEPlay("EV_SE_544");
-ChOpen(1,254,7,4,2,-1,-1,0,0);
+ChOpen(1,254,7,4,2,#1,#1,0,0);
 VoicePlay("T020121000_01_180");
 MsgDisp("Kazama","Since the day we met, and even in the time
 we spent apart and even when we reunited,

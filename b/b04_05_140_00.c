@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040514000_05_000");
 MsgDisp("Hiiragi","...With this it's over.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgSel("Haa, that was the best!","That was so-so huh...","The sound was so loud, my ears are ringing...");
 switch (MsgSelRsltGet()){
     case 0:

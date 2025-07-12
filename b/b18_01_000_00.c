@@ -82,5 +82,5 @@ Did I do something wrong?)");
     DbgAssert(0);
     break ;
     }
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChCheek(1,0);

@@ -3,7 +3,7 @@ switch (ChPrmGet(3,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(3,255,4,0,3,-1,-1,0,1);
+    ChOpen(3,255,4,0,3,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300007_03_000");
     MsgDisp("Honda","I'm going with Pika-chan?
@@ -11,7 +11,7 @@ Okay.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(3,255,0,0,0,-1,-1,0,1);
+    ChOpen(3,255,0,0,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300007_03_010");
     MsgDisp("Honda","An interesting idea but, isn't
@@ -20,7 +20,7 @@ this an unusual combination?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(3,255,4,4,4,-1,-1,0,1);
+    ChOpen(3,255,4,4,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300007_03_020");
     MsgDisp("Honda","Pika-chan, huh.

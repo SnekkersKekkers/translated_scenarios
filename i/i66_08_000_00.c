@@ -22,7 +22,7 @@ The gas flap is still open!");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,3,4,10,-1,0,0);
+    ChOpen(8,35,0,3,4,10,#1,0,0);
     VoicePlay("I660800000_08_000");
     MsgDisp("Shirahane","Leave it t'me.
 Go close that gas flap, and then take
@@ -56,7 +56,7 @@ my car's right there!");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,3,3,-1,-1,0,0);
+    ChOpen(8,35,0,3,3,#1,#1,0,0);
     ChMotion(8,3,1);
     VoicePlay("I660800000_08_020");
     MsgDisp("Shirahane","So sorry, bro!

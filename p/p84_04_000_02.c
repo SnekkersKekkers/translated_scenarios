@@ -9,7 +9,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("P840400002_04_000");
 MsgDisp("Nanatsumori","Heeh,
 you're thoroughly prepared.");

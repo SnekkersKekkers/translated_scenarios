@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(21,30,7,0,0,-1,-1,0,0);
+ChOpen(21,30,7,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 switch (ChPrmGet(21,6)){

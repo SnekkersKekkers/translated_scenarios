@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ho000",2);
 ChLayout(1);
-ChOpen(7,253,0,0,0,-1,-1,0,0,0,0);
+ChOpen(7,253,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you for walking me home.");
 ChEye(7,0);

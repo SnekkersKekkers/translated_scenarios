@@ -3,7 +3,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(2,34,0,0,0,-1,-1,0,0);
+    ChOpen(2,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060200003_02_000");
     MsgDisp("Sassa","Woah, that's the one I brought...");
     MsgDisp("主人公","Wow!
@@ -19,7 +19,7 @@ That's quite the coincidence!");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,34,0,0,0,-1,-1,0,0);
+    ChOpen(2,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060200003_02_020");
     MsgDisp("Sassa","Hey, that present you're holding...");
     MsgDisp("主人公","This present?");
@@ -53,7 +53,7 @@ huh?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,34,0,0,3,-1,-1,0,0);
+    ChOpen(2,34,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("R060200003_02_070");
     MsgDisp("Sassa","｛主人公｝,

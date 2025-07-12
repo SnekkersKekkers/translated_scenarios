@@ -1,7 +1,7 @@
 BGOpen("wf110",0);
 ChLayout(1);
 BGMPlay("BGM_PLACE_SHOP",0.01);
-ChNanaType(-1);
+ChNanaType(#1);
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0);
@@ -40,7 +40,7 @@ a bit further?");
         MsgDisp("Nanatsumori","Why?
 I don't get what you mean at all.");
         MsgDateResultDisp();
-        ChEyeOpenLevel(4,-1);
+        ChEyeOpenLevel(4,#1);
         break ;
         case 4:
         case 5:
@@ -57,8 +57,8 @@ but I'm completely——");
         ChClose(4,0,30);
         MsgClose();
         ChLayout(0);
-        ChNanaType(-1);
-        ChOpen(4,255,0,0,0,-1,-1,0,0,0,60);
+        ChNanaType(#1);
+        ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
         ChMotion(4,4,1);
         VoicePlay("B040401102_04_040");
         MsgDisp("Nanatsumori","Shh");
@@ -91,8 +91,8 @@ Believe in yourself.");
         MsgClose();
         SEPlay("EV_SE_544",0.01,0.5);
         ChLayout(1);
-        ChNanaType(-1);
-        ChOpen(4,255,0,0,0,-1,-1,10,0,0,60);
+        ChNanaType(#1);
+        ChOpen(4,255,0,0,0,#1,#1,10,0,0,60);
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("B040401102_04_080");

@@ -5,7 +5,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("主人公","Ah, ｛御影＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q040700000_07_000");
     MsgDisp("Mikage","Oh, good morning.
 You look excited.");
@@ -16,7 +16,7 @@ could you look around with me?");
     MsgDisp("主人公","｛御影＊＊｝！");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q040700000_07_010");
     MsgDisp("Mikage","Oh, good morning.
 What's up?");
@@ -36,7 +36,7 @@ around with me?");
     MsgDisp("主人公"," ｛御影＊＊｝ ！");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q040700000_07_030");
     MsgDisp("Mikage","Oh, morning.
 You look excited today.");
@@ -56,6 +56,6 @@ around with me?");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);

@@ -7,7 +7,7 @@ seems like it somewhat of a success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoicePlay("P740100002_01_000");
 MsgDisp("Kazama","Seems like you're satisfied?");
 MsgDisp("主人公","Ah, ｛風真＊＊｝!

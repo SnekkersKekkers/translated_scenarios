@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,0,0,4,9,-1,0,0);
+ChOpen(5,255,0,0,4,9,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150510000_05_000");
 MsgDisp("Hiiragi","I told you.

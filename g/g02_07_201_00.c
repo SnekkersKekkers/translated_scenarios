@@ -46,6 +46,6 @@ MsgClose();
 ScrFadeOut(0,0);
 BGMStop();
 ChLayout(1);
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);

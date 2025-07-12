@@ -10,8 +10,8 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,0,0,0,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("B010400002_04_000");
     MsgDisp("Nanatsumori","You're early too.");
     MsgDispSksp(1,0);
@@ -22,8 +22,8 @@ We can make use of this extra time.");
     break ;
     case 3:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,0,0,0,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("B010400002_04_020");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Did you wake up early today?");
@@ -40,8 +40,8 @@ Don't even ask me why.");
     case 4:
     case 5:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,0,0,4,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,0,4,#1,#1,0,0,0,60);
     VoicePlay("B010400002_04_040");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Aren't you here awfully early?

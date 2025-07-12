@@ -23,7 +23,7 @@ MsgClose();
 BGMPlay("BGM_C04_NANA_A");
 BGOpen("ev004",0);
 ChNanaType(1);
-ChOpen(4,100,1,0,0,-1,-1,0,0);
+ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400202_04_000");
 MsgDisp("Nanatsumori","Ah.");

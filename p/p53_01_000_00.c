@@ -17,7 +17,7 @@ What a terrible face......");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ChMotion(1,3);
     VoicePlay("P530100000_01_010");
     MsgDisp("Kazama","Sorry. But your nervousness is shown in
@@ -71,7 +71,7 @@ I wonder if I can do it properly......)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Amazing!｛風真＊＊｝,
 How did you know what I was thinking?");
     ChEye(1,4);

@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_010");
     MsgDisp("Hiiragi","Hehe.
 Yes, I wonder if they'd keep me here.");
@@ -36,7 +36,7 @@ Yes, I wonder if they'd keep me here.");
         ChEye(5,4);
         ChMouth(5,2);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040503102_05_020");
         MsgDisp("Hiiragi","Eh, what do you mean?");
         MsgDateResultDisp();
@@ -47,7 +47,7 @@ Yes, I wonder if they'd keep me here.");
         ChEye(5,0);
         ChMouth(5,2);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040503102_05_030");
         MsgDisp("Hiiragi","Eh...");
         ChEye(5,2);
@@ -107,7 +107,7 @@ My heart is still pounding...)");
     case 2:
     DateRateSet(2);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_090");
     MsgDisp("Hiiragi","It appears that way. The fish are
 beginning to get restless too.");

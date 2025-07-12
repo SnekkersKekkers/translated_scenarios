@@ -26,7 +26,7 @@ judgement.");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
     ChMouth(1,2);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     VoicePlay("B040101001_01_020");
     MsgDisp("Kazama","Don't 'I'm not sure' me.
 If you want to say no,

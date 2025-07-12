@@ -2,8 +2,8 @@ BGMPlay("BGM_FESTIVAL",0.01);
 Wait(50,0);
 BGOpen("sc710",0);
 MsgClose();
-ChOpen(21,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(22,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(22,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("X200D00000_21_000");
 MsgDisp("Michiru","Looks like this year's Rose 

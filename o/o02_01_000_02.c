@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,2,3,-1,-1,0,0);
+    ChOpen(1,30,0,2,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020100002_01_000");
     MsgDisp("Kazama","They say it's a tie.
@@ -16,7 +16,7 @@ And we were so close, too......)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020100002_01_010");
     MsgDisp("Kazama","It was a tie, but I could see
@@ -28,7 +28,7 @@ And we were so close, too......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(1,3);
     VoicePlay("O020100002_01_020");

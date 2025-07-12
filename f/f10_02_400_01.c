@@ -10,9 +10,9 @@ MsgDisp("Sassa?","It's not impossible.");
 MsgDisp("主人公","(Those voices just now,..)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(2,254,4,0,0,-1,-1,0,1);
+ChOpen(2,254,4,0,0,#1,#1,0,1);
 MsgClose();
-ChOpen(6,254,2,2,0,0,-1,0,2);
+ChOpen(6,254,2,2,0,0,#1,0,2);
 MsgDisp("主人公","｛颯砂＊＊｝, ｛氷室＊＊｝!
 What are you two up to?");
 ChEye(2,0);

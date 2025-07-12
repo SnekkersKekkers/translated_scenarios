@@ -39,7 +39,7 @@ ChCheek(1,7);
 VoicePlay("B070100001_01_380");
 MsgDisp("Kazama",".........
 Alright, I'm ＯＫ.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","...Haa.
 Maybe I feel calmer now that 
 I've said it out loud.");
@@ -70,6 +70,6 @@ makes my heart race.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

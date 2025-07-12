@@ -5,7 +5,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(7,34,0,0,0,-1,-1,0,0);
+    ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("R040700000_07_000");
     MsgDisp("Mikage","｛主人公｝.");
@@ -22,7 +22,7 @@ Make sure to have loads of fun.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(7,34,0,0,0,-1,-1,0,0);
+    ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("R040700000_07_020");
     MsgDisp("Mikage","｛主人公｝,
@@ -46,7 +46,7 @@ anything as authentic as this.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,34,0,0,0,-1,-1,0,0);
+    ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("R040700000_07_050");
     MsgDisp("Mikage","｛主人公｝.

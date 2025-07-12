@@ -4,7 +4,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,254,0,4,2,-1,-1,0,0);
+    ChOpen(1,254,0,4,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("N020100002_01_000");
@@ -27,7 +27,7 @@ like you. This isn't funny.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,254,1,0,2,-1,-1,0,0);
+    ChOpen(1,254,1,0,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100002_01_030");
     MsgDisp("Kazama","Hmm...");
@@ -60,7 +60,7 @@ Yeah, I'll do my best.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,254,0,2,2,-1,-1,0,0);
+    ChOpen(1,254,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100002_01_070");
     MsgDisp("Kazama","What's going on?");

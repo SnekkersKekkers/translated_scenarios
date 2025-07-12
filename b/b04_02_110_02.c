@@ -52,7 +52,7 @@ Are you not feeling well?");
         ChLayout(0);
         MsgClose();
         SEStop("EV_SE_508",0.2);
-        ChOpen(2,31,0,0,2,-1,-1,10,0);
+        ChOpen(2,31,0,0,2,#1,#1,10,0);
         VoicePlay("B040211002_02_040");
         MsgDisp("Sassa","Oh...");
         ChEye(2,0);

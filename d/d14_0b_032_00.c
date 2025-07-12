@@ -43,7 +43,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("D140B03200_04_020");
 MsgDisp("Nanatsumori","Those words seem loadedー.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);

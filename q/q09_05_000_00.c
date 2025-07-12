@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 2:
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     MsgDisp("主人公","Good morning, ｛柊＊＊＊｝.");
     VoicePlay("Q090500000_05_000");
     MsgDisp("Hiiragi","Good morning.
@@ -16,7 +16,7 @@ Let's go.");
     case 3:
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     MsgDisp("主人公","Good morning, ｛柊＊＊＊｝.
 Early, aren't you?");
     ChMotion(5,4);
@@ -38,7 +38,7 @@ Well, let's go!");
     case 5:
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("Q090500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝.");

@@ -2,7 +2,7 @@ BGOpen("ho000",0);
 ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Oh?
 ｛風真＊＊｝, good morning!
@@ -69,7 +69,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ex240",0);
-NSSOpen(1,254,3,3,-1,-1,0);
+NSSOpen(1,254,3,3,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_051");
@@ -111,7 +111,7 @@ MsgDisp("主人公","Kyaa∈
 There's a puddle here.........");
 BGOpen("sc010",0);
 MsgClose();
-ChOpen(1,254,0,2,2,-1,-1,0,0);
+ChOpen(1,254,0,2,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_100");
 MsgDisp("Kazama","Ahh, geez......What are you doing?
@@ -122,7 +122,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1,0,30);
 ChLayout(0);
 MsgClose();
-ChOpen(1,254,7,2,3,-1,-1,0,0,0,30);
+ChOpen(1,254,7,2,3,#1,#1,0,0,0,30);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_110");
@@ -141,5 +141,5 @@ MsgDisp("主人公","(Ugh......I don't have a comeback for
 that.)");
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChCheek(1,0);

@@ -9,7 +9,7 @@ please be aware of this.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(5,254,4,0,0,-1,-1,0,0);
+ChOpen(5,254,4,0,0,#1,#1,0,0);
 VoicePlay("P810500000_05_000");
 MsgDisp("Hiiragi","The preparation period is for two weeks,
 beginning next week. Before then, 

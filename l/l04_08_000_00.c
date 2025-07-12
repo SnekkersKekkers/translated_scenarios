@@ -10,7 +10,7 @@ switch (ChPrmGet(8,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,35,0,0,4,-1,-1,0,0);
+    ChOpen(8,35,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(8);
     VoicePlay("L040800000_08_000");
     MsgDisp("Shirahane","｛主人公｝.
@@ -26,7 +26,7 @@ So I came to give you chocolate.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,35,0,0,4,-1,-1,0,0);
+    ChOpen(8,35,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(8);
     VoicePlay("L040800000_08_010");
     MsgDisp("Shirahane","｛主人公｝.
@@ -59,7 +59,7 @@ Yayー!");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,35,0,4,4,-1,-1,6,0);
+    ChOpen(8,35,0,4,4,#1,#1,6,0);
     VoicePlay("L040800000_08_040");
     VoiceEVSPlay(8);
     MsgDisp("Shirahane","Ah...... ｛主人公｝.");

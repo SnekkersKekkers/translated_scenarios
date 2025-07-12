@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","(This year's display is a cafe.
 We prepared herb tea and cookies but...)");
     MsgClose();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P630500000_05_000");
     MsgDisp("Hiiragi","Good day.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
@@ -41,7 +41,7 @@ I look forward to it.");
     MsgDisp("主人公","(This year's display is a cafe.
 We prepared herb tea and cookies but...)");
     MsgClose();
-    ChOpen(5,254,0,4,4,-1,-1,0,0);
+    ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("P630500000_05_030");
     MsgDisp("Hiiragi","Pardon the intrusion.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝!

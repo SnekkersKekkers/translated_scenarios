@@ -8,9 +8,9 @@ ScrFadeOut(1,0,40);
 BGOpen("tr420",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(2);
-ChOpen(6,255,0,0,4,-1,-1,0,3);
-ChOpen(1,255,0,0,0,-1,-1,0,3);
-ChOpen(2,255,0,0,4,-1,-1,0,3);
+ChOpen(6,255,0,0,4,#1,#1,0,3);
+ChOpen(1,255,0,0,0,#1,#1,0,3);
+ChOpen(2,255,0,0,4,#1,#1,0,3);
 SEPlay("EV_SE_817");
 ScrFadeIn(0);
 Wait(30,0);
@@ -97,7 +97,7 @@ VoicePlay("B330A30700_01_050");
 MsgDisp("Kazama","...Understood.
 Then, how should we decide on seats?");
 ChMouth(1,2);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Umm... I'll be fine by myself?
 Since I might end up grabbing 
 onto the clothes of the 
@@ -139,18 +139,18 @@ Wait(60,0);
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,7);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,7);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,7);
-ChEyeOpenLevel(6,-1);
-ChMouthOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
+ChMouthOpenLevel(6,#1);
 ChCheek(6,0);

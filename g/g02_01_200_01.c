@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,0,4,2,-1,-1,0,0);
+ChOpen(1,255,0,4,2,#1,#1,0,0);
 VoicePlay("G020120001_01_000");
 MsgDisp("Kazama","Sure, it looks pretty, but......they're
 desperately glowing like this to find
@@ -50,6 +50,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

@@ -19,7 +19,7 @@ MsgClose();
 BGOpen("ex300",2);
 MsgClose();
 SEWait();
-ChOpen(9,255,0,3,0,6,-1,5,0);
+ChOpen(9,255,0,3,0,6,#1,5,0);
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 ScrFadeIn(0);
 VoicePlay("D030901700_09_000");
@@ -109,7 +109,7 @@ StlClose();
 BGOpen("ex290",2);
 ChLayout(0);
 MsgClose();
-ChOpen(9,255,0,3,0,8,-1,8,0);
+ChOpen(9,255,0,3,0,8,#1,8,0);
 ScrFadeIn(0);
 VoicePlay("D030901700_09_110");
 MsgDisp("Kuya","......This is the kind of atmosphere

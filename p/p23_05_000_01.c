@@ -15,7 +15,7 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P230500001_05_000");
     MsgDisp("Hiiragi","Good work.");
     MsgDisp("主人公","Yeah, the set is elaborate

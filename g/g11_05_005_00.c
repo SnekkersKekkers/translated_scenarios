@@ -15,7 +15,7 @@ ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,100,1,1,1,12,-1,0,0);
+ChOpen(5,100,1,1,1,12,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110500500_05_010");
 MsgDisp("Hiiragi","Thank you very much. But, I'm almost done
@@ -23,7 +23,7 @@ too. If you don't mind, why don't we go
 home together?");
 MsgDisp("主人公","Of course. Then, I'll do preparations for
 tomorrow whilst I wait for you.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500500_05_020");
 MsgDisp("Hiiragi","Yes.");
 SEPlay("EV_SE_712",0,0.5);
@@ -59,7 +59,7 @@ What kind of genre do you like?");
 ChMouth(5,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500500_05_060");
 MsgDisp("Hiiragi","The other day I watched the documentary:
 'Searching for Strange Festivals Around
@@ -70,7 +70,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500500_05_070");
 MsgDisp("Hiiragi","Yes, it introduced me to a variety of
 stall foods. And how Yakisoba differs in

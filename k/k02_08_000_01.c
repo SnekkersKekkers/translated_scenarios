@@ -9,7 +9,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.5);
 MsgClose();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
-ChOpen(8,255,0,4,0,-1,-1,5,0);
+ChOpen(8,255,0,4,0,#1,#1,5,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Oh, ｛大地＊＊｝!?");
 ChMotion(8,2,1);

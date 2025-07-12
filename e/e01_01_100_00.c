@@ -8,7 +8,7 @@ VoicePlay("E010110000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛風真＊＊｝, what a coincidence.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -46,7 +46,7 @@ MsgDisp("Kazama","It's not like I'm your fan or anything,
 you know. Don't get me wrong.");
 ChMouth(1,2);
 ChMotion(1,1);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("E010110000_01_060");
 MsgDisp("Kazama","I mean If you happen to see someone
 you're bound to be curious, right?

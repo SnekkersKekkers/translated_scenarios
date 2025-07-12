@@ -7,7 +7,7 @@ switch (ChPrmGet(21,6)){
     BGOpen("sc620",0);
     ChLayout(1);
     MsgClose();
-    ChOpen(21,254,7,0,0,-1,-1,0,0);
+    ChOpen(21,254,7,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(21,0);
     ChMouth(21,3);
@@ -31,7 +31,7 @@ the baseball club manager!)");
     BGOpen("sc620",0);
     ChLayout(1);
     MsgClose();
-    ChOpen(21,254,7,0,0,-1,-1,0,0);
+    ChOpen(21,254,7,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(21,0);
     ChMouth(21,3);

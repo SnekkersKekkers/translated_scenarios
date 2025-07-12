@@ -68,7 +68,7 @@ SEPlay("EV_SE_625");
 SEWait();
 SEPlay("EV_SE_022",0.3,0.8);
 MsgClose();
-ChOpen(1,33,0,0,0,-1,-1,0,0);
+ChOpen(1,33,0,0,0,#1,#1,0,0);
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,3);

@@ -93,12 +93,12 @@ VoicePlay("G020140002_01_100");
 MsgDisp("Kazama","Maybe our current relationship exists
 because I managed to sort out my mind all
 night in that room.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","(｛風真＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

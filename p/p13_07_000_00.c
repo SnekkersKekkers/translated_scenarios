@@ -13,7 +13,7 @@ succeed, you get to try delicious milk～");
     VoicePlay("P130700000_07_000");
     MsgDisp("Mikage?","The prize is some delicious cow milk～");
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P130700000_07_010");
     MsgDisp("Mikage","｛主人公｝, you're in high spirits.");
@@ -44,8 +44,8 @@ objective of getting Molly's milk?");
 Lost lamb, one customer coming up!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(7,-1);
-    ChMouth(7,-1);
+    ChEye(7,#1);
+    ChMouth(7,#1);
     break ;
     case 4:
     case 5:
@@ -54,7 +54,7 @@ succeed, you get to try delicious milk～");
     VoicePlay("P130700000_07_050");
     MsgDisp("Mikage?","Ohh, it's quite popular, isn't it?");
     MsgClose();
-    ChOpen(7,254,3,0,3,-1,-1,0,0);
+    ChOpen(7,254,3,0,3,#1,#1,0,0);
     VoicePlay("P130700000_07_060");
     MsgDisp("Mikage","It's thanks to the cute calf-chan, huh?");
     MsgDisp("主人公","It's thanks to all the delicious milk
@@ -86,8 +86,8 @@ I'll make the fastest record.");
 Lost lamb, admission for one～!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(7,-1);
-    ChMouth(7,-1);
+    ChEye(7,#1);
+    ChMouth(7,#1);
     break ;
     default :
     DbgAssert(1);

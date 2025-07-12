@@ -5,7 +5,7 @@ VoicePlay("T020511000_05_000");
 MsgDisp("Hiiragi?","｛主人公｝.");
 SEPlay("EV_SE_872",0.5);
 Wait(50,0);
-ChOpen(5,254,0,4,0,-1,-1,0,0);
+ChOpen(5,254,0,4,0,#1,#1,0,0);
 MsgDisp("主人公","Eh, ｛柊＊＊＊｝?");
 VoicePlay("T020511000_05_010");
 MsgDisp("Hiiragi","Please give me some of your time.
@@ -32,7 +32,7 @@ ScrFadeOut(0,1);
 MsgType(1);
 BGOpen("ex980",0);
 ChLayout(0);
-ChOpen(5,254,7,4,0,-1,-1,0,0);
+ChOpen(5,254,7,4,0,#1,#1,0,0);
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ScrFadeIn(0);
 ChEyeOpenLevel(5,0);
@@ -186,7 +186,7 @@ ChClose(5);
 ChCustomLayout(5,5,0,-2.6);
 Wait(30);
 SEPlay("EV_SE_544");
-ChOpen(5,254,7,4,4,-1,-1,0,0);
+ChOpen(5,254,7,4,4,#1,#1,0,0);
 VoicePlay("T020511000_05_200");
 MsgDisp("Hiiragi","Warm, lovely light......
 I love you.");

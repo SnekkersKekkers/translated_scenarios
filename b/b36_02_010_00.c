@@ -38,7 +38,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ScrFadeIn(0);
 MsgClose();
-ChOpen(2,255,4,0,2,-1,-1,0,0);
+ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("B360201000_02_020");
 MsgDisp("Sassa","A j-jewelry store? 
 Won't I be too out-of-place?");

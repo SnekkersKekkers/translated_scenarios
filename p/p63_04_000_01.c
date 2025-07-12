@@ -16,7 +16,7 @@ well-received...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Welcome～1");
     ChEye(4,2);
@@ -51,7 +51,7 @@ well-received...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("P630400001_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");

@@ -67,7 +67,7 @@ your good memories.");
     VoicePlay("S120400005_04_060");
     MsgDisp("Nanatsumori","…………");
     ChMotion(4,1,1);
-    ChMouthOpenLevel(4,-1);
+    ChMouthOpenLevel(4,#1);
     VoicePlay("S120400005_04_070");
     MsgDisp("Nanatsumori","You know, even if we graduate, we
 can still be together. Maybe we can keep

@@ -4,7 +4,7 @@ BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm glad, it was a huge success!)");
 MsgClose();
-ChOpen(31,254,4,0,0,-1,-1,0,0);
+ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("P743100000_31_000");
 MsgDisp("Goro","Your show was a huge success, huh!");
 MsgDisp("主人公","Ah, Goro-sensei!");

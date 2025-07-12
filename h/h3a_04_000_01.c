@@ -5,7 +5,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_C",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,2,0,-1,-1,0,0);
+    ChOpen(4,254,0,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0400001_04_000");
     MsgDisp("Nanatsumori","Good work.
@@ -26,7 +26,7 @@ in the judo club......)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_C",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,2,0,-1,-1,0,0);
+    ChOpen(4,254,0,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0400001_04_020");
     MsgDisp("Nanatsumori","Yo.

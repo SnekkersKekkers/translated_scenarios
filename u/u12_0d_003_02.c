@@ -7,7 +7,7 @@ StlCheek(22,0);
 VoicePlay("U120D00302_22_000");
 MsgDisp("Hikaru","Mari, so cute～▼
 Whatever, Hikaru knows about most of it.");
-StlEyeOpenLevel(21,-1);
+StlEyeOpenLevel(21,#1);
 VoicePlay("U120D00302_21_000");
 MsgDisp("Michiru","Hehe, I wonder if there is a chance
 of mutual love from the candidate. ");

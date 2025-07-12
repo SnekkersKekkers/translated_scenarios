@@ -8,7 +8,7 @@ SEPlay("EV_SE_CLAP_004");
 Wait(100,0);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 SEStop("EV_SE_CLAP_004",2);
 VoicePlay("P513200000_32_000");
 MsgDisp("VP Himuro","Make sure you show off the results of your

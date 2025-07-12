@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,254,0,0,4,-1,-1,4,0);
+ChOpen(8,254,0,0,4,#1,#1,4,0);
 VoiceEVSPlay(8);
 VoicePlay("L060800001_08_000");
 MsgDisp("Shirahane","｛主人公｝.");

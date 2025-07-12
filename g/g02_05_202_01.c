@@ -22,7 +22,7 @@ MsgDisp("主人公","｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020520201_05_030");
 MsgDisp("Hiiragi","Therefore, I understand your feelings.
 Thus, I cannot see a story in which I
@@ -61,7 +61,7 @@ MsgDisp("主人公","Eh?
 ｛柊＊＊＊｝ imitating ｛御影＊＊｝∋");
 ChEye(5,4);
 ChMouth(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020520201_05_090");
 MsgDisp("Hiiragi","In order to understand the opponent first.
 It might not be an awful idea......");
@@ -71,6 +71,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

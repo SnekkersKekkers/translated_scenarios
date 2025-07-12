@@ -14,7 +14,7 @@ than last year. Ah, I'm nervous......)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("P530100001_01_000");
     MsgDisp("Kazama","｛主人公｝.");
@@ -87,7 +87,7 @@ last year. Ah, I'm nervous......)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,4,2,-1,-1,0,0);
+    ChOpen(1,254,0,4,2,#1,#1,0,0);
     VoicePlay("P530100001_01_080");
     MsgDisp("Kazama","As expected.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.

@@ -7,8 +7,8 @@ MsgDisp("主人公","It's a maze～
 If you can reach the finish line, 
 you get to drink freshly squeezed milk～");
 MsgClose();
-ChOpen(21,254,0,0,4,-1,-1,0,1);
-ChOpen(22,254,0,0,0,-1,-1,0,2);
+ChOpen(21,254,0,0,4,#1,#1,0,1);
+ChOpen(22,254,0,0,0,#1,#1,0,2);
 VoicePlay("P130D00000_21_000");
 MsgDisp("Michiru","Freshly squeezed?
 I'm quite curious about that......");

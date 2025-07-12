@@ -14,7 +14,7 @@ MsgClose();
 MsgClose();
 BGOpen("ar600",0);
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,4,2,4,-1,-1,0,0);
+ChOpen(3,35,4,2,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
@@ -36,7 +36,7 @@ ScrFadeOut(0);
 ChClose(3,0,0);
 MsgClose();
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,0,-1,-1,0,0);
+ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300300_03_020");
 MsgDisp("Honda","Haaa, actually I hid a copy for you in

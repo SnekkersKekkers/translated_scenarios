@@ -7,7 +7,7 @@ switch (ChPrmGet(6,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0600001_06_000");
     MsgDisp("Himuro","Good work.");
@@ -33,7 +33,7 @@ we made it here......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0600001_06_030");
     MsgDisp("Himuro","......What, you're not crying?");

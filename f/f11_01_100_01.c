@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
-ChOpen(1,254,0,2,3,0,-1,0,0);
+ChOpen(1,254,0,2,3,0,#1,0,0);
 VoicePlay("F110110001_01_000");
 MsgDisp("Kazama","Hah...");
 MsgDisp("主人公","Oh, ｛風真＊＊｝.

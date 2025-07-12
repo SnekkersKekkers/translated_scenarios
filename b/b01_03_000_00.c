@@ -5,7 +5,7 @@ MsgDisp("主人公","(I'm running late...
 ｛本多＊＊｝ is... Oh!)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
-ChOpen(3,253,0,0,0,-1,-1,0,0);
+ChOpen(3,253,0,0,0,#1,#1,0,0);
 switch (ChPrmGet(3,6)){
     case 0:
     case 1:

@@ -9,7 +9,7 @@ ScrFadeOut(0);
 BGOpen("sc320",0);
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863")MsgDisp("主人公","(Huh!? ｛御影＊＊｝ is my teacher again
@@ -50,7 +50,7 @@ ScrFadeIn(0);
 Wait(60);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(7,254,0,0,3,-1,-1,0,0);
+ChOpen(7,254,0,0,3,#1,#1,0,0);
 VoicePlay("Z710700001_07_040");
 MsgDisp("Mikage","My name is Mikage Kojiro.
 Did everyone know that already?

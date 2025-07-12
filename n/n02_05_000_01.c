@@ -5,7 +5,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,254,0,0,0,-1,-1,0,0);
+    ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500001_05_000");
     MsgDisp("Hiiragi","Hello.");
     MsgDisp("主人公","Hello, ｛柊＊＊＊｝.
@@ -36,7 +36,7 @@ I'll study a bit harder!)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,254,0,4,0,-1,-1,0,0);
+    ChOpen(5,254,0,4,0,#1,#1,0,0);
     VoicePlay("N020500001_05_040");
     MsgDisp("Hiiragi","Impressive. It's faster to find you if you
 count from the top.");
@@ -65,7 +65,7 @@ place!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("N020500001_05_070");
     MsgDisp("Hiiragi","｛主人公｝.");

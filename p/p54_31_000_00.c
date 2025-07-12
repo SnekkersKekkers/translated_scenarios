@@ -8,7 +8,7 @@ My first performance seems
 to be a huge success!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(31,254,4,0,0,-1,-1,0,0);
+ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("P543100000_31_000");
 MsgDisp("Goro","A throbbing feeling...
 It's your soul.");

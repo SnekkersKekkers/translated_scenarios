@@ -8,7 +8,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_039");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,41,3,0,4,-1,-1,0,0);
+ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200801_02_000");
 MsgDisp("Sassa","｛主人公｝, So, you were here.");
@@ -43,7 +43,7 @@ MsgClose();
 BGOpen("ev002",0);
 BGMVol(0.5,2);
 SEPlay("EV_SE_FOOT_037");
-ChOpen(2,100,0,0,0,-1,-1,0,0);
+ChOpen(2,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200801_02_040");
 MsgDisp("Sassa","Haa,Haa,Haa...... I feel more calm when I

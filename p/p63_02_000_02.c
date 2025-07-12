@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
 It's a culmination of my efforts
 in the Gardening Club...)");
     MsgClose();
-    ChOpen(2,254,2,0,4,-1,-1,0,0);
+    ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoicePlay("P630200002_02_000");
     MsgDisp("Sassa","Amazing.
 You were able to do a legit cafe.");
@@ -46,8 +46,8 @@ vegetable salad.");
 Then, I'll lead you to your seat.");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(2,-1);
-    ChMouth(2,-1);
+    ChEye(2,#1);
+    ChMouth(2,#1);
     ChCheek(2,0);
     break ;
     case 4:
@@ -58,7 +58,7 @@ Then, I'll lead you to your seat.");
 It's a culmination of my efforts
 in the Gardening Club...)");
     MsgClose();
-    ChOpen(2,254,2,0,4,-1,-1,0,0);
+    ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200002_02_040");
     MsgDisp("Sassa","｛主人公｝, I heard that the Horticulture 
@@ -116,4 +116,4 @@ Why don't you order firs——");
     break ;
     }
 MsgClose();
-ChOpen(2,254,0,0,0,-1,-1,0,0,0,0);
+ChOpen(2,254,0,0,0,#1,#1,0,0,0,0);

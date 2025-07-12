@@ -8,7 +8,7 @@ performance in three years.
 I'm glad...!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("P540600004_06_000");
 MsgDisp("Himuro","｛主人公｝,
@@ -48,7 +48,7 @@ ChClose(6,0,30);
 SEPlay("EV_SE_FOOT_039");
 ChLayout(0);
 MsgClose();
-ChOpen(6,254,0,0,0,-1,-1,10,0);
+ChOpen(6,254,0,0,0,#1,#1,10,0);
 SEWait();
 MsgDisp("主人公","Eh?");
 ChEye(6,0);

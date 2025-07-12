@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
 is a cafe. We prepared herb tea and
 cookies, but...)");
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630100000_01_000");
     MsgDisp("Kazama","You're working hard, huh.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
@@ -42,7 +42,7 @@ I think we were able to make a good blend.");
 is a cafe. We prepared herb tea and
 cookies, but...)");
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ChMotion(1,1);
     VoicePlay("P630100000_01_030");
     MsgDisp("Kazama","Hmm, a cafe huh?");
@@ -72,6 +72,6 @@ Yes, please enjoy.");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

@@ -1,6 +1,6 @@
 BGOpen("fp210",0);
 ChLayout(1);
-ChOpen(6,253,0,0,4,-1,-1,0,0);
+ChOpen(6,253,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040608100_06_000");
 MsgDisp("Himuro","Amazing.

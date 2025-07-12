@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     MsgDisp("Kazama","That's good then. I can still hear the
 performance in my head...");
     MsgDispSksp(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

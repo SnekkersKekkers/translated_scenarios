@@ -1,7 +1,7 @@
 Wait(30,0);
 BGOpen("bh110",0);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);
 ChEye(1,2);
 ChMouth(1,2);

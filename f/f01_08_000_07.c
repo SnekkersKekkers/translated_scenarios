@@ -7,7 +7,7 @@ switch (ChPrmGet(8,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,254,3,3,3,-1,-1,0,0);
+    ChOpen(8,254,3,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(8);
     VoicePlay("F010800007_08_000");
@@ -22,7 +22,7 @@ So I tried waiting here.");
     case 5:
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,254,0,4,4,-1,-1,0,0);
+    ChOpen(8,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("F010800007_08_020");
     MsgDisp("Shirahane","Heck yeah...");

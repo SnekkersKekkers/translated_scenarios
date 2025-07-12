@@ -7,7 +7,7 @@ SEPlay("EV_SE_CLAP_004");
 Wait(100,0);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 SEStop("EV_SE_CLAP_004",2);
 VoicePlay("P513200001_32_000");
 MsgDisp("VP Himuro","The pieces to be performed this year seems

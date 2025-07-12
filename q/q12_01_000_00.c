@@ -109,7 +109,7 @@ you.");
     ChEyeOpenLevel(1,0);
     VoicePlay("Q120100000_01_100");
     MsgDisp("Kazama","Then the wait would be easier.");
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDisp("主人公","Yeah......");
     ChEye(1,2);
     ChMouth(1,3);

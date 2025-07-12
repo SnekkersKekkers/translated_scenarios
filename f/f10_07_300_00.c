@@ -7,9 +7,9 @@ VoicePlay("F100730000_22_000");
 MsgDisp("Hikaru?","Mari, this way, this way!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(21,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(7,37,0,0,0,-1,-1,0,0,0,30);
-ChOpen(22,254,0,0,3,-1,-1,0,2,0,30);
+ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(7,37,0,0,0,#1,#1,0,0,0,30);
+ChOpen(22,254,0,0,3,#1,#1,0,2,0,30);
 MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝.
 Huh...｛御影＊＊｝ too?");
 ChEye(21,0);
@@ -141,8 +141,8 @@ ChClose(21,0,30);
 ChClose(22,0,30);
 ChLayout(1);
 MsgClose();
-ChOpen(21,254,0,0,4,-1,-1,0,1,0,30);
-ChOpen(22,254,0,1,3,-1,-1,0,2,0,30);
+ChOpen(21,254,0,0,4,#1,#1,0,1,0,30);
+ChOpen(22,254,0,1,3,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100730000_22_070");
 MsgDisp("Hikaru","He ran away.

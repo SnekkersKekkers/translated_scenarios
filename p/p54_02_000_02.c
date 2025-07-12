@@ -7,7 +7,7 @@ MsgDisp("主人公","(Yes, I was able to give
 a good performance!)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(2,254,3,0,3,-1,-1,0,0);
+ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoicePlay("P540200002_02_000");
 MsgDisp("Sassa","That was amazing.
 The audience was so hyped upー!");

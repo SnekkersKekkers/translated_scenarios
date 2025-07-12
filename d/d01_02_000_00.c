@@ -62,7 +62,7 @@ BGMVol(0.5,2);
 ScrFadeIn(0);
 SEPlay("EV_SE_608");
 SEWait();
-ChOpen(2,254,3,3,3,-1,-1,0,0);
+ChOpen(2,254,3,3,3,#1,#1,0,0);
 VoicePlay("D010200000_02_060");
 MsgDisp("Sassa","Ah, that's my bad. My hand slipped!");
 MsgDisp("主人公","Geez......");

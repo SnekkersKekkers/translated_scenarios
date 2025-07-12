@@ -5,7 +5,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600001_06_000");
     MsgDisp("Himuro","Huh.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.
@@ -21,7 +21,7 @@ time.)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600001_06_020");
     MsgDisp("Himuro","Not bad.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
@@ -43,7 +43,7 @@ time.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,254,0,0,4,-1,-1,0,0);
+    ChOpen(6,254,0,0,4,#1,#1,0,0);
     VoicePlay("N020600001_06_050");
     MsgDisp("Himuro","Nice job.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");

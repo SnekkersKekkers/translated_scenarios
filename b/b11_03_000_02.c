@@ -8,7 +8,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(35,254,0,0,0,-1,-1,0,0);
+ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110300002_35_000");
 MsgDisp("Guy","Hang on a sec～? What's with that pose? It
 looks fantastic, you're nailing it!");
@@ -30,7 +30,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChPosition(35,1);
 SEWait();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,253,5,3,3,-1,-1,0,2,0,30);
+ChOpen(3,253,5,3,3,#1,#1,0,2,0,30);
 MsgDispSksp(1,5);
 VoicePlay("B110300002_03_000");
 MsgDisp("Honda","Wow, that jacket is amazing!");

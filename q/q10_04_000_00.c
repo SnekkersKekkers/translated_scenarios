@@ -3,7 +3,7 @@ BGOpen("sc822",0);
 ChLayout(1);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);

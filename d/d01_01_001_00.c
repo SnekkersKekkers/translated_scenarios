@@ -8,7 +8,7 @@ Having the window seat is a privilege♪)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.8);
 Wait(40,0);
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoicePlay("D010100100_01_000");
 MsgDisp("Kazama","Eh, you're in a pretty good mood, huh?");
 MsgDisp("主人公","｛風真＊＊｝.
@@ -92,7 +92,7 @@ SEPlay("EV_SE_599");
 BGOpen("sc310",0);
 MsgClose();
 SEWait();
-ChOpen(1,254,7,1,1,0,-1,10,0);
+ChOpen(1,254,7,1,1,0,#1,10,0);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("D010100100_01_070");

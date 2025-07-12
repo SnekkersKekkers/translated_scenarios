@@ -9,7 +9,7 @@ MsgDisp("Kazama?","｛主人公｝.");
 SEStop("EV_SE_SCHOOL_002",2.5);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛風真＊＊｝, what's up?");
 VoicePlay("D010100900_01_010");
 MsgDisp("Kazama","Are you going home now?
@@ -105,7 +105,7 @@ Wait(40,0);
 BGOpen("sc010",1);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,2,3,-1,-1,0,0);
+ChOpen(1,254,0,2,3,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 MsgDisp("主人公","......I didn't hear it.");

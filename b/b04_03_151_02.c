@@ -79,7 +79,7 @@ That I can do it.");
         MsgDisp("主人公","｛本多＊＊｝, that's amazing!");
         MsgClose();
         SEPlay("EV_SE_544");
-        ChOpen(3,255,5,3,3,-1,-1,0,0);
+        ChOpen(3,255,5,3,3,#1,#1,0,0);
         VoicePlay("B040315102_03_080");
         MsgDisp("Honda","That's incredible! The odds of me knocking
 down a split 7 and 10 are astronomical!");

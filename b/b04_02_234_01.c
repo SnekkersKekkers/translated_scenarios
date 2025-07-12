@@ -2,7 +2,7 @@ BGOpen("tr450",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(2,255,4,0,2,-1,-1,0,0,0,0);
+ChOpen(2,255,4,0,2,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223401_02_000");
 MsgDisp("Sassa","Kids are amazing. They laugh even when

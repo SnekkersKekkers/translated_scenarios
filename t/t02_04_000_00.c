@@ -5,7 +5,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C04_NANA_KOKU",0.01);
 ChNanaType(0);
-ChOpen(4,40,0,0,0,-1,-1,0,0);
+ChOpen(4,40,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛七ツ森＊｝……");
 ChEye(4,0);
@@ -58,7 +58,7 @@ VoicePlay("T020400000_04_070");
 MsgDisp("Nanatsumori","…………");
 ChMotion(4,0);
 ChEyeOpenLevel(4,10);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("T020400000_04_080");
 MsgDisp("Nanatsumori","From that day on, 
 was when I truly fell in love with you.");
@@ -92,7 +92,7 @@ ChCustomLayout(4,5,0,-2.8);
 Wait(60);
 SEPlay("EV_SE_544");
 ChNanaType(0);
-ChOpen(4,40,0,4,4,-1,-1,0,0,0,120);
+ChOpen(4,40,0,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020400000_04_140");
 MsgDisp("Nanatsumori","When I saw my hometown's light
 illumination on the night of the last

@@ -5,7 +5,7 @@ MsgDisp("主人公","(Well then......
 Should I go home now?)");
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 MsgClose();
-ChOpen(22,255,0,0,0,-1,-1,0,0);
+ChOpen(22,255,0,0,0,#1,#1,0,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("E010540000_22_000");
@@ -23,7 +23,7 @@ MsgDisp("主人公","Chairman...... ｛柊＊＊＊｝?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(22,2);
 MsgClose();
-ChOpen(5,255,4,0,4,-1,-1,0,1);
+ChOpen(5,255,4,0,4,#1,#1,0,1);
 VoicePlay("E010540000_05_000");
 MsgDisp("Hiiragi","Sorry to keep you waiting,
 Hanatsubaki-san.");

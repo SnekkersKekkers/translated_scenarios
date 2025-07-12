@@ -9,7 +9,7 @@ SEPlay("EV_SE_DOOR_022");
 SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.5);
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,255,0,0,4,-1,-1,0,0);
+ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("K020200001_02_000");
 MsgDisp("Sassa","Good evening.");
 MsgDisp("主人公","Good evening.

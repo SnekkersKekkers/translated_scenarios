@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
     case 5:
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(2,30,3,0,3,-1,-1,0,0);
+    ChOpen(2,30,3,0,3,#1,#1,0,0);
     VoicePlay("P230200001_02_000");
     MsgDisp("Sassa","The Cerebus dogs are all set
 and ready on standby.");
@@ -69,5 +69,5 @@ MsgClose();
 ScrFadeOut(0,0);
 ChEye(2,0);
 ChMouth(2,0);
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
 ChCheek(2,0);

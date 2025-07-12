@@ -2,7 +2,7 @@ BGOpen("tr440",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,2,2,8,-1,0,0);
+ChOpen(1,255,0,2,2,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123300_01_000");
 MsgDisp("Kazama","This...
@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     MsgDisp("Kazama","I realized there's still a lot 
 about you that I don't know.");
     MsgDispSksp(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

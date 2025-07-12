@@ -9,7 +9,7 @@ switch (ChPrmGet(5,6)){
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,254,0,4,4,-1,-1,0,0);
+    ChOpen(5,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     ChMouth(5,3);
     VoiceEVSPlay(5);

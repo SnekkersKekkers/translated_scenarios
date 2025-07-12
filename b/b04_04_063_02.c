@@ -1,6 +1,6 @@
 BGOpen("wf620",0);
 ChLayout(1);
-ChNanaType(-1);
+ChNanaType(#1);
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,1);
@@ -101,8 +101,8 @@ snuggled up like this...");
         ChClose(4,0,30);
         MsgClose();
         ChLayout(0);
-        ChNanaType(-1);
-        ChOpen(4,255,0,4,3,-1,-1,0,0,0,60);
+        ChNanaType(#1);
+        ChOpen(4,255,0,4,3,#1,#1,0,0,0,60);
         VoicePlay("B040406302_04_120");
         MsgDisp("Nanatsumori","...It's warm.
 What about you?");

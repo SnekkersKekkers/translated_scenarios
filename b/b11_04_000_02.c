@@ -14,7 +14,7 @@ we'll go to the usual three
 star sushi restaurant!");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(35,254,0,1,0,-1,-1,0,0);
+ChOpen(35,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110400002_35_010");
 MsgDisp("Guy","Well, well well!
 There are still more...
@@ -37,8 +37,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(35,2);
 BGMPlay("BGM_C04_NANA_A",0.01);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,253,0,1,0,-1,-1,0,1);
+ChNanaType(#1);
+ChOpen(4,253,0,1,0,#1,#1,0,1);
 VoicePlay("B110400002_04_000");
 MsgDisp("Nanatsumori","You sure are persistent...");
 MsgDisp("主人公","｛七ツ森＊｝!");

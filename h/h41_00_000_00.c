@@ -15,7 +15,7 @@ I'm looking forward to it!");
 MsgClose();
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 Wait(15,0);
-ChOpen(22,30,0,0,0,-1,-1,0,0);
+ChOpen(22,30,0,0,0,#1,#1,0,0);
 VoicePlay("F012200007_22_000");
 MsgDisp("Hikaru","Ah, it's Mari.");
 MsgDisp("主人公","Ah, ｛ひかる＊｝.

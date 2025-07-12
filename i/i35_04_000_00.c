@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChLayout(1);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I350400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -47,7 +47,7 @@ Then, could I get a menu?");
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChLayout(1);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I350400000_04_040");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Welcome!
@@ -88,7 +88,7 @@ support me......?)");
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChLayout(1);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I350400000_04_080");
     MsgDisp("Nanatsumori","Yo, hello.");
     MsgDisp("主人公","Ah......

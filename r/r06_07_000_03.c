@@ -3,7 +3,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(7,34,0,0,0,-1,-1,0,0);
+    ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060700003_07_000");
     MsgDisp("Mikage","Oh, that present.
 That's mine.");
@@ -26,7 +26,7 @@ I see.");
     MsgClose();
     break ;
     case 3:
-    ChOpen(7,34,0,0,0,-1,-1,0,0);
+    ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060700003_07_030");
     MsgDisp("Mikage","Enjoying the gift exchange?");
     MsgDisp("主人公","Hehe, ｛御影＊＊｝, are you
@@ -58,7 +58,7 @@ Nice, how interesting!");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,34,0,0,0,-1,-1,0,0);
+    ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("R060700003_07_070");
     MsgDisp("Mikage","｛主人公｝,

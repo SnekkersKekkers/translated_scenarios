@@ -2,8 +2,8 @@ BGMPlay("BGM_PLACE_TRAVEL");
 ChLayout(1);
 BGOpen("sc820",0);
 MsgClose();
-ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(2,254,3,0,4,-1,-1,0,2,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow!
 So many pretty flowers.");
@@ -106,7 +106,7 @@ MsgDisp("主人公","Yeah, it looks unique.");
 ChPosition(2,2);
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(1,254,0,0,0,-1,-1,0,1);
+ChOpen(1,254,0,0,0,#1,#1,0,1);
 VoicePlay("Q070A00100_01_060");
 MsgDisp("Kazama","It's 105 meters above land and
 was originally a bell tower.");

@@ -2,7 +2,7 @@ BGOpen("tr410",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,2,-1,-1,0,0);
+ChOpen(1,255,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050100000_01_001");
 MsgDisp("Kazama","This amusement park has quite the
@@ -60,7 +60,7 @@ MsgClose();
 ScrFadeOut(0);
 SEWait();
 MsgClose();
-ChOpen(1,255,1,0,3,-1,-1,5,0,0,0);
+ChOpen(1,255,1,0,3,#1,#1,5,0,0,0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -147,7 +147,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("tr430",1);
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 Wait(10,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Haa, that was fun.
@@ -156,7 +156,7 @@ ChClose(1,0,30);
 ChLayout(0);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,255,0,4,3,-1,-1,0,0,0,30);
+ChOpen(1,255,0,4,3,#1,#1,0,0,0,30);
 VoicePlay("B050100000_01_080");
 MsgDisp("Kazama","Maybe I will, starting from today.");
 SEPlay("EV_SE_551",0.5,0.5,0.1);
@@ -206,7 +206,7 @@ ChLayout(1);
 MsgClose();
 SEStop("EV_SE_FOOT_WALK_KEEP_ALONE",0.1);
 SEPlay("EV_SE_544",0,1);
-ChOpen(1,255,5,5,1,-1,-1,7,0,0,30);
+ChOpen(1,255,5,5,1,#1,#1,7,0,0,30);
 VoicePlay("B050100000_44_000");
 MsgDisp("Boy","Just now they kissed!");
 ChEye(1,2);
@@ -245,6 +245,6 @@ SEStop("EV_SE_GAYA_019",1);
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChOpen(1,255,0,0,0,-1,-1,0,0,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);
 SEWait();
 ChPrmTblAdd(1,0);

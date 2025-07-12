@@ -9,7 +9,7 @@ SEPlay("EV_SE_DOOR_019");
 SEWait();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,254,0,0,0,-1,-1,0,0);
+ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840200003_02_000");
 MsgDisp("Sassa","Excuse me!
 Could you please provide some trash bags

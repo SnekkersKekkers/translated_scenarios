@@ -9,7 +9,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.5);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("K020500000_05_000");
 MsgDisp("Hiiragi","Good evening.
 Please excuse the sudden visit.");

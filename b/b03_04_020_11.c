@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B030402001_04_000");
     MsgDispSksp(1,0);
     ChMotion(4,0,1);
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     MsgDisp("Nanatsumori","The brick road.
 We can walk it, but...");
     MsgDispSksp(0);

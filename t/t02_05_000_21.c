@@ -3,7 +3,7 @@ ChMouth(5,2);
 ChEyeOpenLevel(5,0);
 ChCheek(5,5);
 Wait(60,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("T020500021_05_000");
 MsgDisp("Hiiragi","Does that mean you'll be with me?");
 MsgDisp("主人公","Yes. I also like

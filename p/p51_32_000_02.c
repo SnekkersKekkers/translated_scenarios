@@ -10,7 +10,7 @@ SEStop("EV_SE_CLAP_004",2);
 VoicePlay("P513200002_32_000");
 MsgDisp("VP Himuro","Ahem!");
 SEPlay("EV_SE_544");
-ChOpen(32,254,0,0,0,0,-1,0,0);
+ChOpen(32,254,0,0,0,0,#1,0,0);
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P513200002_32_010");

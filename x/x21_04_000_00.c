@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 VoicePlay("X210400000_04_000");
 MsgDisp("Nanatsumori","Yo.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
@@ -33,7 +33,7 @@ MsgDisp("Nanatsumori","I felt myself thinking
 \"I would so anything for 
 his person.\"");
 MsgDisp("主人公","That's...");
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 VoiceEVSPlay(4);
 VoicePlay("X210400000_04_050");
 MsgDisp("Nanatsumori","｛主人公｝.");

@@ -7,7 +7,7 @@ BGMPlay("BGM_C06_INORI_C",0.01);
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
-ChOpen(6,255,4,2,0,-1,-1,0,0);
+ChOpen(6,255,4,2,0,#1,#1,0,0);
 VoicePlay("E010610100_06_000");
 MsgDisp("Himuro","Right on time!");
 MsgDisp("主人公","Wow, ｛氷室＊＊｝∋");
@@ -70,7 +70,7 @@ ChLayout(1);
 MsgClose();
 BGMPlay("BGM_HANYOU_C",0.01);
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010610100_06_080");
 MsgDisp("Himuro","My little brother returned home safely.
 Mom just contacted me.");

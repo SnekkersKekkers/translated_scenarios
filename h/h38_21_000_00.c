@@ -7,7 +7,7 @@ switch (ChPrmGet(21,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(21,254,7,0,0,-1,-1,0,0);
+    ChOpen(21,254,7,0,0,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     ChEye(21,0);
@@ -35,7 +35,7 @@ Alright, let's do our best!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(21,254,7,0,0,-1,-1,0,0);
+    ChOpen(21,254,7,0,0,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     ChEye(21,0);

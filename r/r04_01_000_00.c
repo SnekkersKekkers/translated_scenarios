@@ -5,7 +5,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    ChOpen(1,34,0,0,0,-1,-1,0,0);
+    ChOpen(1,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("R040100000_01_000");
     MsgDisp("Kazama","｛主人公｝.
@@ -15,7 +15,7 @@ Merry Christmas.");
     MsgClose();
     break ;
     case 3:
-    ChOpen(1,34,0,0,0,-1,-1,0,0);
+    ChOpen(1,34,0,0,0,#1,#1,0,0);
     ChMouth(1,3);
     VoiceEVSPlay(1);
     VoicePlay("R040100000_01_010");
@@ -32,7 +32,7 @@ Merry Christmas.");
     break ;
     case 4:
     case 5:
-    ChOpen(1,34,0,0,3,-1,-1,0,0);
+    ChOpen(1,34,0,0,3,#1,#1,0,0);
     ChEye(1,4);
     VoicePlay("R040100000_01_030");
     MsgDisp("Kazama","Merry Christmas.");

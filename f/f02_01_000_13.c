@@ -31,7 +31,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F020100013_01_030");
 MsgDisp("Kazama","That's right.
 As long as you don't catch a cold,

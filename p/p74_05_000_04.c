@@ -6,7 +6,7 @@ MsgDisp("主人公","(Yayー!　A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(5,254,0,3,4,-1,-1,0,0);
+ChOpen(5,254,0,3,4,#1,#1,0,0);
 ChMotion(5,3);
 Wait(20,1);
 VoicePlay("P740500004_05_000");
@@ -49,7 +49,7 @@ dress once more, won't I?");
 MsgDisp("主人公","Eh, this year is the last time
 I'll wear a wedding dress for a show?");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 ChCheek(5,0);
 VoicePlay("P740500004_05_050");
 MsgDisp("Hiiragi","Yes, that's right.");

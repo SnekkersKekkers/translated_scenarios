@@ -10,7 +10,7 @@ work out somehow......");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,254,0,0,4,-1,-1,0,0);
+ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoicePlay("P840200005_02_000");
 MsgDisp("Sassa","Right. How about we all collaborate? Us,
 the matcha shop, and the yakisoba stand?");

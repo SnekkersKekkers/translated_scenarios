@@ -4,7 +4,7 @@ switch (ChPrmGet(7,6)){
     case 2:
     case 3:
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700001_07_000");
     MsgDisp("Mikage","Thanks for the track and field 
@@ -18,7 +18,7 @@ even if it was just a little!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,254,3,0,0,-1,-1,0,0);
+    ChOpen(7,254,3,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700001_07_010");
     MsgDisp("Mikage","Everyone at the track and field

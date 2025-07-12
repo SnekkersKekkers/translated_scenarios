@@ -1,7 +1,7 @@
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);
 BGOpen("ex020",0);
 switch (ChPrmGet(7,6)){
@@ -128,5 +128,5 @@ Come, let me take you home.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

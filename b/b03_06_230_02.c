@@ -1,7 +1,7 @@
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(6,-1);
-ChMouthOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
+ChMouthOpenLevel(6,#1);
 ChCheek(6,0);
 BGOpen("tr410",1);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);

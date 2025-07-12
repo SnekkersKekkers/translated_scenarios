@@ -1,5 +1,5 @@
 BGOpen("ho000",2);
-ChOpen(3,255,5,2,4,-1,-1,0,0);
+ChOpen(3,255,5,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300400_03_000");
 MsgDisp("Honda","Man, finally made it...");

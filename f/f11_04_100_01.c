@@ -5,7 +5,7 @@ MsgDisp("主人公","Huh?
 Over there...");
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110410001_46_000");
 MsgDisp("Woman Customer A","Eh, isn't that the student council
 president?");

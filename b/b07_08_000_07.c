@@ -47,6 +47,6 @@ day I can hear ｛大地＊＊｝'s dream!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(8,-1);
-ChMouthOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
+ChMouthOpenLevel(8,#1);
 ChCheek(8,0);

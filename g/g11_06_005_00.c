@@ -4,7 +4,7 @@ MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you going to the
 beach after this today too?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110600500_06_000");
 MsgDisp("Himuro","Ah, yeah. ......That's right. I guess
 you're coming too.");
@@ -20,7 +20,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I");
-ChOpen(6,100,0,0,0,-1,-1,0,0);
+ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600500_06_010");
 MsgDisp("Himuro","......Congratulations.");

@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C06_INORI_C",0.01);
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0600000_06_000");
     MsgDisp("Himuro","Hello.");
@@ -27,7 +27,7 @@ the track and field club manager!)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C06_INORI_C",0.01);
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0600000_06_020");
     MsgDisp("Himuro","Amazing......");

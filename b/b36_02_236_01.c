@@ -41,7 +41,7 @@ MsgDisp("Sassa","Yeah, the side
 profile is cute too.");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(2,255,0,0,4,-1,-1,0,0);
+ChOpen(2,255,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","｛颯砂＊＊｝ thinks so too?");
 ChEye(2,0);
 ChMouth(2,4);

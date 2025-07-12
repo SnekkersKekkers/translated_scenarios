@@ -2,7 +2,7 @@ BGOpen("tr450",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123400_01_000");
 MsgDisp("Kazama","It feels like THE amusement park.");

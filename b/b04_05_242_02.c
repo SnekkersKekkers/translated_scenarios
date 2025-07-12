@@ -67,7 +67,7 @@ Let's take it easy.");
         MsgDisp("主人公","(A two person hammock∋)");
         MsgClose();
         ScrFadeOut(0,0);
-        ChOpen(5,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

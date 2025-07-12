@@ -70,7 +70,7 @@ But I definitely can't do that...");
         VoicePlay("B040808202_08_050");
         MsgDisp("Shirahane","Hmー...");
         ChMouth(8,4);
-        ChEyeOpenLevel(8,-1);
+        ChEyeOpenLevel(8,#1);
         VoicePlay("B040808202_08_060");
         MsgDisp("Shirahane","That's right, but that won't be because we
 saw the fireflies, but because I'll

@@ -5,7 +5,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,30,0,0,0,-1,-1,0,0);
+    ChOpen(6,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020600001_06_000");
     MsgDisp("Himuro","Well, the other team was
@@ -15,7 +15,7 @@ I wish I tried harder.)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,30,0,0,0,-1,-1,0,0);
+    ChOpen(6,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020600001_06_010");
     MsgDisp("Himuro","You fought hard, huh?");
@@ -31,7 +31,7 @@ I wish I tried harder.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,30,0,0,0,-1,-1,0,0);
+    ChOpen(6,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020600001_06_030");
     MsgDisp("Himuro","......You crying?");

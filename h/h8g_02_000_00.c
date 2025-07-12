@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_039");
 SEWait();
-ChOpen(2,255,3,0,3,-1,-1,0,0);
+ChOpen(2,255,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("H8G0200000_02_000");
 MsgDisp("Sassa","｛主人公｝,

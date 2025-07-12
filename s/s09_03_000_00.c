@@ -1,7 +1,7 @@
 BGOpen("ex050",0);
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(3,6)){
     case 0:

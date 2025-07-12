@@ -54,7 +54,7 @@ VoicePlay("G020420301_04_070");
 MsgDisp("Nanatsumori","I'll just endure this. If I get
 overwhelmed, I'll pretend it's a
 charade...");
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 MsgDisp("主人公","｛七ツ森＊｝, are you okay?");
 ChEye(4,4);
 ChMouth(4,4);
@@ -68,6 +68,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

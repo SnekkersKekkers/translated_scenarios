@@ -3,7 +3,7 @@ EnvPlay("SE_ENV_BG_WF720_CO2",0.5);
 BGOpen("wf710",2);
 ChLayout(1);
 MsgClose();
-ChOpen(3,33,1,0,3,-1,-1,0,0);
+ChOpen(3,33,1,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040306502_03_000");
 MsgDisp("Honda","A hidden gem.
@@ -75,7 +75,7 @@ Huh... something smells nice. ");
         VoicePlay("B040306502_03_050");
         MsgDisp("Honda","...Yeah, it's a nice smell.
 This is lemongrass.");
-        ChEyeOpenLevel(3,-1);
+        ChEyeOpenLevel(3,#1);
         MsgDisp("主人公","Lemongrass?");
         ChEye(3,0);
         ChMouth(3,3);
@@ -119,7 +119,7 @@ you'd fall in love with me.");
         ChClose(3,0,30);
         ChLayout(0);
         MsgClose();
-        ChOpen(3,253,1,3,3,0,-1,10,0,0,60);
+        ChOpen(3,253,1,3,3,0,#1,10,0,0,60);
         VoicePlay("B040306502_03_110");
         MsgDisp("Honda","Then, look at my face more.
 So that the effects last a long time!

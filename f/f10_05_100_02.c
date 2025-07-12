@@ -16,7 +16,7 @@ MsgDisp("Hiiragi?","｛主人公｝,
 you came.");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-ChOpen(5,254,0,4,4,-1,-1,0,0);
+ChOpen(5,254,0,4,4,#1,#1,0,0);
 MsgDisp("主人公","Yeah, you sure are working
 hard, huh?");
 ChEye(5,0);
@@ -59,7 +59,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEPlay("EV_SE_SCHOOL_002");
 MsgClose();
-ChOpen(5,254,4,4,2,-1,-1,0,0);
+ChOpen(5,254,4,4,2,#1,#1,0,0);
 Wait(30,0);
 ScrFadeIn(0);
 VoicePlay("F100510002_05_050");

@@ -8,7 +8,7 @@ SEWait();
 ChPosition(7,0);
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 MsgClose();
-ChOpen(7,253,0,2,0,-1,-1,0,0);
+ChOpen(7,253,0,2,0,#1,#1,0,0);
 VoicePlay("B010700001_07_000");
 MsgDisp("Mikage","Sorry, sorry.
 Look at how sorry I am!");

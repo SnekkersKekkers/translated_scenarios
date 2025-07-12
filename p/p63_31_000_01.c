@@ -6,7 +6,7 @@ MsgDisp("主人公","(This year we're serving herb
 tea and selling vegetables.
 It would be great if people liked it...)");
 MsgClose();
-ChOpen(31,254,5,3,3,-1,-1,0,0);
+ChOpen(31,254,5,3,3,#1,#1,0,0);
 VoicePlay("P633100001_31_000");
 MsgDisp("Goro","Well, what a splendid
 eggplant-chan▼");

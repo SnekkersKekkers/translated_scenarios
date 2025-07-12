@@ -22,7 +22,7 @@ with a small group after this.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P830500002_05_000");
     MsgDisp("Hiiragi","I have returned.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
@@ -67,7 +67,7 @@ I'm off!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(5,254,4,3,3,-1,-1,0,0);
+    ChOpen(5,254,4,3,3,#1,#1,0,0);
     VoicePlay("P830500002_05_030");
     MsgDisp("Hiiragi","Yeah, it really feels like the 
 cultural festival is in full swing.");

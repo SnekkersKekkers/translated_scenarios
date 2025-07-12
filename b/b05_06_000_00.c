@@ -1,6 +1,6 @@
 BGOpen("fp210",0);
 MsgClose();
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600000_06_000");
 MsgDisp("Himuro","There really are a lot of cherry
@@ -91,7 +91,7 @@ MsgDisp("Himuro","......Done.");
 SEPlay("EV_SE_645",0.5,0.6);
 Wait(20,0);
 MsgClose();
-ChOpen(6,255,0,0,4,-1,-1,0,0);
+ChOpen(6,255,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Haa......I was just shocked when
 you suddenly laid down.");
 ChEye(6,0);

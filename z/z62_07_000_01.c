@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(7,254,3,0,3,-1,-1,0,0);
+ChOpen(7,254,3,0,3,#1,#1,0,0);
 VoicePlay("Z620700001_07_000");
 MsgDisp("Mikage","Your grades are pretty good. If you keep
 studying as you are now, you'll make it to

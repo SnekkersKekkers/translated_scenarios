@@ -8,7 +8,7 @@ Seems like my first performance
 went by smoothly!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(5,254,0,3,4,-1,-1,0,0);
+ChOpen(5,254,0,3,4,#1,#1,0,0);
 ChMotion(5,3);
 Wait(20,0);
 VoicePlay("P540500000_05_000");

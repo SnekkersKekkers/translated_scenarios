@@ -12,7 +12,7 @@ Ah, ｛颯砂＊＊｝.");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     MsgClose();
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("I150200000_02_000");
     MsgDisp("Sassa","Wow, that apron's nice.");
     MsgDisp("主人公","Hehe, thanks.
@@ -73,7 +73,7 @@ Ah, ｛颯砂＊＊｝.");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     MsgClose();
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("I150200000_02_070");
     MsgDisp("Sassa","I came to visit while you're working.
 Looks like you're working hard.");
@@ -122,7 +122,7 @@ Ah, ｛颯砂＊＊｝.");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     MsgClose();
-    ChOpen(2,255,0,0,4,-1,-1,0,0);
+    ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoicePlay("I150200000_02_110");
     MsgDisp("Sassa","What a nice clerk.
 Try treating me like you would a customer.");

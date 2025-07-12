@@ -112,7 +112,7 @@ SEStop("EV_SE_CLAP_002",1.5);
 SEStop("EV_SE_CLAP_004",1.5);
 SEStop("EV_SE_GAYA_021",1.5);
 BGOpen("sc740",0);
-ChOpen(3,38,0,0,0,-1,-1,0,0);
+ChOpen(3,38,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew... it ended without any issues.");
 ChFace(3,3);

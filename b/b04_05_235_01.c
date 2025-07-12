@@ -2,7 +2,7 @@ BGOpen("tr460",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,0,2,4,-1,-1,0,0,0,0);
+ChOpen(5,255,0,2,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChEye(5,2);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040523502_05_010");
     MsgDisp("Hiiragi","Yes, it's the same as a stage set.
 I just look calmly.");
@@ -27,7 +27,7 @@ I just look calmly.");
     DateRateSet(3);
     ChEye(5,4);
     ChMotion(5,4);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040523502_05_020");
     MsgDisp("Hiiragi","Heheh.
 Yes, that's what it looked like.");
@@ -39,7 +39,7 @@ Yes, that's what it looked like.");
     DateRateSet(1);
     ChMouth(5,2);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040523502_05_030");
     MsgDisp("Hiiragi","What are you angry about?");
     MsgDateResultDisp();

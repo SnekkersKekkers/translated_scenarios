@@ -54,7 +54,7 @@ Just you wait!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         SEWait();
-        ChOpen(8,255,0,2,4,-1,-1,0,0);
+        ChOpen(8,255,0,2,4,#1,#1,0,0);
         ChMotion(8,4,1);
         VoicePlay("B040816002_08_040");
         MsgDisp("Shirahane","Again...

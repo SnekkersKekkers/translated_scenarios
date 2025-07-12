@@ -2,7 +2,7 @@ BGOpen("wf100",0);
 BGMPlay("BGM_PLACE_SHOP",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(21,255,0,0,3,-1,-1,0,0);
+ChOpen(21,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U022100000_21_000");
 MsgDisp("Michiru","Hehe!");

@@ -8,7 +8,7 @@ SEPlay("EV_SE_DOOR_022");
 SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.5);
 BGMPlay("BGM_C07_MIKAGE_A");
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("K020700001_07_000");
 MsgDisp("Mikage","It's Mikage Delivery.");
 MsgDisp("主人公","Huh!? Mikage Delivery?

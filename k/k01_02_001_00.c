@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A");
-    ChOpen(2,254,0,0,4,-1,-1,0,0);
+    ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoicePlay("K010200100_02_000");
     MsgDisp("Sassa","Oh, what is it?");
     MsgDisp("主人公","Um, here, I got you a
@@ -32,7 +32,7 @@ I chose it for you, ｛颯砂＊＊｝.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A");
-    ChOpen(2,254,0,0,4,-1,-1,0,0);
+    ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("K010200100_02_020");
     MsgDisp("Sassa","｛主人公｝.
@@ -56,7 +56,7 @@ I'm so happy, thank you!");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A");
-    ChOpen(2,254,1,0,3,-1,-1,0,0);
+    ChOpen(2,254,1,0,3,#1,#1,0,0);
     VoicePlay("K010200100_02_040");
     MsgDisp("Sassa","I've been waiting!");
     MsgDisp("主人公","Hehe, you have?");

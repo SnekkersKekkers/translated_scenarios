@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(21,254,0,0,0,-1,-1,0,0);
+ChOpen(21,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("N022100001_21_000");
 MsgDisp("Michiru","It's a great spot.

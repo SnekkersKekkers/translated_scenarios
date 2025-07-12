@@ -7,7 +7,7 @@ I fell...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,254,4,0,0,-1,-1,0,0);
+ChOpen(2,254,4,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200003_02_000");
 MsgDisp("Sassa","｛主人公｝, are you alright?

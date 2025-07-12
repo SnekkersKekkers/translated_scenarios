@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H380600000_06_000");
     MsgDisp("Himuro","Are you nervous?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!
@@ -45,7 +45,7 @@ our school.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H380600000_06_050");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.

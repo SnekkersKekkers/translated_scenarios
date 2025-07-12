@@ -4,7 +4,7 @@ MsgDisp("主人公","Ah, ｛氷室＊＊｝.
 Are you heading home now?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110600300_06_000");
 MsgDisp("Himuro","No, I'm going to the beach today.
 There's some good waves coming.");
@@ -26,7 +26,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I");
-ChOpen(6,100,2,2,1,0,-1,0,0);
+ChOpen(6,100,2,2,1,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600300_06_020");
 MsgDisp("Himuro","Are you going on a school trip soon?");

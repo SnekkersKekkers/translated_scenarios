@@ -1,6 +1,6 @@
 BGOpen("fp210",0);
 ChLayout(1);
-ChOpen(6,253,0,0,0,-1,-1,0,0);
+ChOpen(6,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040608101_06_000");
 MsgDisp("Himuro","\"I wish to die in the spring, 

@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,254,4,0,4,-1,-1,0,0);
+ChOpen(2,254,4,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("L060200000_02_000");
 MsgDisp("Sassa","｛主人公｝.

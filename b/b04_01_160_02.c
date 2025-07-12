@@ -88,7 +88,7 @@ Let's aim for a big one in
 we could really go to England.)");
         MsgClose();
         ScrFadeOut(0,0);
-        ChOpen(1,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

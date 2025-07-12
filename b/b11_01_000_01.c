@@ -12,7 +12,7 @@ MsgDisp("Guy","So you were here.
 Shall we quickly go home?");
 MsgClose();
 SEPlay("EV_SE_557");
-ChOpen(34,254,0,1,0,-1,-1,0,0);
+ChOpen(34,254,0,1,0,#1,#1,0,0);
 MsgDisp("主人公","Ehh∋
 ...Me?");
 ChEye(34,0);
@@ -40,7 +40,7 @@ ChPosition(34,2);
 MsgDispSksp(1,5);
 SEPlay("EV_SE_550");
 MsgClose();
-ChOpen(1,31,0,0,2,8,-1,0,1,0,30);
+ChOpen(1,31,0,0,2,8,#1,0,1,0,30);
 VoicePlay("B110100001_01_000");
 MsgDisp("Kazama","Stop right there.");
 MsgDispSksp(0);

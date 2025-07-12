@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510101_05_000");
 MsgDisp("Hiiragi","The overflowing light......
 It's beautiful, right?");
@@ -13,7 +13,7 @@ secretive, I would have wanted us to have
 it all to ourselves.");
 MsgDisp("主人公","Eh?");
 ChEye(5,3);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020510101_05_020");
 MsgDisp("Hiiragi","Heheh.
 I like that expression of yours.");
@@ -39,6 +39,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

@@ -11,7 +11,7 @@ switch (ChPrmGet(4,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0);
+    ChOpen(4,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
@@ -58,7 +58,7 @@ I feel bad......)");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0);
+    ChOpen(4,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020400000_04_050");
     MsgDisp("Nanatsumori","Mornin'.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!

@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     SEStop("EV_SE_658",3);
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I650500000_05_000");
     MsgDisp("Hiiragi","So it really was you.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
@@ -44,7 +44,7 @@ travel far even at this hour......)");
     MsgClose();
     SEStop("EV_SE_658",3);
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I650500000_05_040");
     MsgDisp("Hiiragi","｛主人公｝.
@@ -64,7 +64,7 @@ would not be a problem at all, but......");
 we'll be late.");
     ChEye(5,0);
     ChMotion(5,4,1);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("I650500000_05_060");
     MsgDisp("Hiiragi","Yes, understood.");
     ChEye(5,4);
@@ -88,7 +88,7 @@ his worries for a bit.)");
     MsgClose();
     SEStop("EV_SE_589",3);
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I650500000_05_080");
     MsgDisp("Hiiragi","｛主人公｝,
@@ -119,7 +119,7 @@ upon seeing you.");
 Compared to that, I......");
     ChEye(5,4);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("I650500000_05_130");
     MsgDisp("Hiiragi","From now, when I begin to feel
 the urge to sigh at during work,

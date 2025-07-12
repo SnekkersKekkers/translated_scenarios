@@ -37,7 +37,7 @@ BGOpen("sc231",1);
 BGMPlay("BGM_C01_RYOUTA_D",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,4,2,-1,-1,0,0);
+ChOpen(1,254,0,4,2,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","S-Sorry.
 I didn't mean to eavesdrop......");
@@ -48,7 +48,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D020100300_01_030");
 MsgDisp("Kazama","I feel like something like this
 happened before.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Ah......Yeah.");
 ChEye(1,2);
 ChMouth(1,3);
@@ -120,7 +120,7 @@ ChCustomLayout(1,5,0,-2.7);
 SEStop("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,254,7,4,2,-1,-1,0,0,0,30);
+ChOpen(1,254,7,4,2,#1,#1,0,0,0,30);
 VoicePlay("D020100300_01_120");
 MsgDisp("Kazama","Most of all......
 It was inconsiderate to you.");
@@ -142,7 +142,7 @@ ChLayout(0);
 SEPlay("EV_SE_677",0.4,0.2);
 Wait(10,0);
 MsgClose();
-ChOpen(1,254,0,4,3,10,-1,0,0);
+ChOpen(1,254,0,4,3,10,#1,0,0);
 ScrFadeIn(0,30);
 MsgDisp("主人公","Okay......");
 ChEyeOpenLevel(1,0);

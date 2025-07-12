@@ -8,7 +8,7 @@ MsgDisp("主人公","(Haa...
 Maybe I didn't practice enough...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(3,254,0,5,4,-1,-1,0,0);
+ChOpen(3,254,0,5,4,#1,#1,0,0);
 VoicePlay("P540300003_03_000");
 MsgDisp("Honda","That was an amazing sound coming
 out of your instrument.");

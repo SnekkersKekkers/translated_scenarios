@@ -5,7 +5,7 @@ MsgDisp("主人公","(I'm late! ｛柊＊＊＊｝ is... Ah, here's
 already here!)");
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 MsgClose();
-ChOpen(5,253,0,0,2,-1,-1,0,0);
+ChOpen(5,253,0,0,2,#1,#1,0,0);
 MsgDisp("主人公","I'm sorry, I kept you waiting!");
 switch (ChPrmGet(5,6)){
     case 0:
@@ -44,7 +44,7 @@ Well, let's be off.");
 anything happened to you.");
     MsgDisp("主人公","Urgh, I'm sorry...");
     ChMouth(5,3);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B010500000_05_040");
     MsgDisp("Hiiragi","You are the only person
 who manages to make me anxious like this.");

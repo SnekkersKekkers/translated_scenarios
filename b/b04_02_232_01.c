@@ -2,7 +2,7 @@ BGOpen("tr430",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(2,255,0,0,0,-1,-1,0,0,0,0);
+ChOpen(2,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223201_02_000");
 MsgDisp("Sassa","It would be good if ferris

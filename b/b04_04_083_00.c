@@ -11,7 +11,7 @@ MsgSel("It's summer, after all.","I like it this hot!","Shall we cool off in the
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     VoicePlay("B040408300_04_010");
     MsgDisp("Nanatsumori","What a cool reply..");
     MsgDispSksp(1,0);

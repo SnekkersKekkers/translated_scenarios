@@ -14,7 +14,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);
-ChOpen(21,35,0,0,0,-1,-1,0,0);
+ChOpen(21,35,0,0,0,#1,#1,0,0);
 VoicePlay("I562100002_21_000");
 MsgDisp("Michiru","You handled that well.");
 MsgDisp("主人公","Really?");

@@ -6,7 +6,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(2,255,0,0,4,-1,-1,0,0);
+    ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoicePlay("S090200000_02_000");
     MsgDisp("Sassa","Ooh.
 Over there, fortunes!");
@@ -43,7 +43,7 @@ This way, so we don't trip.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("S090200000_02_040");
     MsgDisp("Sassa","Ahh, look.");
     MsgDisp("主人公","Yeah, fortunes.");
@@ -85,7 +85,7 @@ Let's go.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,255,0,0,0,-1,-1,0,0);
+    ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090200000_02_080");
     MsgDisp("Sassa","It's a mess with so many moving people.");
     MsgDisp("主人公","Phew......

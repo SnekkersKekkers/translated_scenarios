@@ -10,7 +10,7 @@ MsgDisp("Nanatsumori","…………");
 MsgDisp("主人公","｛七ツ森＊｝,
 Would you like another 
 serving of herb tea?");
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("P640400003_04_010");
 MsgDisp("Nanatsumori","No...
 I'll hold back a bit.");

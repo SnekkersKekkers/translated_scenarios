@@ -3,7 +3,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGMPlay("BGM_PLACE_POOL",0.01);
 MsgClose();
-ChOpen(2,31,0,0,0,-1,-1,0,0);
+ChOpen(2,31,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","——ACHOO!");
 ChEye(2,0);
@@ -109,7 +109,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("fp500",0);
-ChOpen(2,255,3,0,3,-1,-1,0,0);
+ChOpen(2,255,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050200200_02_120");
 MsgDisp("Sassa","Phew, it's warm, huh?");

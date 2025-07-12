@@ -20,7 +20,7 @@ MsgDisp("Mikage","Hey, you alright?∋");
 SEPlay("EV_SE_DOOR_007");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A");
-ChOpen(7,254,0,2,4,-1,-1,0,0);
+ChOpen(7,254,0,2,4,#1,#1,0,0);
 VoicePlay("M010700000_07_040");
 MsgDisp("Mikage","What happened?");
 MsgDisp("主人公","When I tried to stand up,

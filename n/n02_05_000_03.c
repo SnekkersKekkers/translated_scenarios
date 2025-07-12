@@ -7,7 +7,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Hello.");
     MsgClose();
-    ChOpen(5,254,2,2,4,-1,-1,0,0);
+    ChOpen(5,254,2,2,4,#1,#1,0,0);
     VoicePlay("N020500003_05_000");
     MsgDisp("Hiiragi","Hello.
 Umm, nice weather, huh.");
@@ -29,7 +29,7 @@ Oof... I have to study harder!)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
     ChEye(5,4);
     VoicePlay("N020500003_05_030");
@@ -61,7 +61,7 @@ I have to study harder!)");
     case 5:
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
     MsgClose();
-    ChOpen(5,254,0,2,2,-1,-1,0,0);
+    ChOpen(5,254,0,2,2,#1,#1,0,0);
     VoicePlay("N020500003_05_070");
     MsgDisp("Hiiragi","It is what it is...");
     MsgDisp("主人公","Umm...?");

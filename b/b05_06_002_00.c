@@ -1,7 +1,7 @@
 BGOpen("tr220",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 MsgClose();
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600200_06_000");
 MsgDisp("Himuro","Ah......Over there.
@@ -140,7 +140,7 @@ MsgClose();
 Wait(60);
 ScrFadeIn(0);
 MsgClose();
-ChOpen(6,255,4,0,0,-1,-1,5,0);
+ChOpen(6,255,4,0,0,#1,#1,5,0);
 VoicePlay("B050600200_06_160");
 MsgDisp("Himuro","...for how long have you been listening?");
 MsgDisp("主人公","Uhm, from the moment you picked up

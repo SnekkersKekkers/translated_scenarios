@@ -14,7 +14,7 @@ waiting for their orders are......");
     SEWait();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400000_04_000");
     MsgDisp("Nanatsumori","Waitress.");
     MsgDisp("主人公","Yes!
@@ -52,7 +52,7 @@ for a while now......)");
     SEWait();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400000_04_040");
     MsgDisp("Nanatsumori","Hey.");
     MsgDisp("主人公","Ah, yes.

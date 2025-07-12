@@ -9,7 +9,7 @@ souvenirs! I wonder when ｛柊＊＊＊｝
 is done......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(5,254,4,2,4,9,-1,0,0);
+ChOpen(5,254,4,2,4,9,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("Q110500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.

@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     case 2:
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     MsgClose();
-    ChOpen(1,253,0,0,0,-1,-1,0,0);
+    ChOpen(1,253,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Sorry, did you wait?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -44,7 +44,7 @@ Be more careful next time.");
     case 3:
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     MsgClose();
-    ChOpen(1,253,0,0,0,-1,-1,0,0);
+    ChOpen(1,253,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Sorry, did you wait?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -65,7 +65,7 @@ Just accept what I said.");
     Wait(8,0);
     MsgDispSksp(1,0);
     ChMouth(1,3);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDisp("主人公","Hehe, thank you.");
     MsgDispSksp(0);
     break ;
@@ -73,7 +73,7 @@ Just accept what I said.");
     case 5:
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     MsgClose();
-    ChOpen(1,253,0,4,3,-1,-1,0,0);
+    ChOpen(1,253,0,4,3,#1,#1,0,0);
     MsgDisp("主人公","Sorry for being late...!");
     ChEye(1,2);
     ChMouth(1,3);

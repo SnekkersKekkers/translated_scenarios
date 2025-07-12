@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","｛氷室＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("K010600100_06_000");
     MsgDisp("Himuro","What?");
     MsgDisp("主人公","It's your birthday today, right?
@@ -27,7 +27,7 @@ Do you want to open it now?");
     MsgDisp("主人公","｛氷室＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("K010600100_06_020");
     MsgDisp("Himuro","Ah, it's you.
 What?");
@@ -49,7 +49,7 @@ If you'd like, you can open it now!");
     MsgDisp("主人公","｛氷室＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
-    ChOpen(6,254,0,0,0,-1,-1,5,0);
+    ChOpen(6,254,0,0,0,#1,#1,5,0);
     VoicePlay("K010600100_06_040");
     MsgDisp("Himuro","......What?");
     MsgDisp("主人公","It's your birthday today, right?

@@ -8,7 +8,7 @@ switch (ChPrmGet(22,6)){
     ChLayout(1);
     MsgClose();
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,0,3,-1,-1,0,0);
+    ChOpen(22,254,0,0,3,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     ChEye(22,3);
@@ -38,7 +38,7 @@ the track and field club manager!)");
     ChLayout(1);
     MsgClose();
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,0,3,-1,-1,0,0);
+    ChOpen(22,254,0,0,3,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     ChEye(22,3);

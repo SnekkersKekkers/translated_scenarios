@@ -5,7 +5,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","｛風真＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,254,0,0,2,8,-1,0,0);
+    ChOpen(1,254,0,0,2,8,#1,0,0);
     VoicePlay("F010100001_01_000");
     MsgDisp("Kazama","...it's no good.");
     MsgDisp("主人公","(Yep.
@@ -15,7 +15,7 @@ I guess I shouldn't call him that...)");
     MsgDisp("主人公","｛風真＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,254,0,0,2,8,-1,0,0);
+    ChOpen(1,254,0,0,2,8,#1,0,0);
     ChMotion(1,1);
     VoicePlay("F010100001_01_010");
     MsgDisp("Kazama","What's up with that? ...Geez.");
@@ -27,7 +27,7 @@ likes being called this.)");
     MsgDisp("主人公","｛風真＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,254,0,2,2,-1,-1,0,0);
+    ChOpen(1,254,0,2,2,#1,#1,0,0);
     VoicePlay("F010100001_01_020");
     MsgDisp("Kazama","Are you talking to me? 
 Why'd you say that?");

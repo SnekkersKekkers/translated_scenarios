@@ -1,7 +1,7 @@
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 BGOpen("wf100",0);
 BGMPlay("BGM_PLACE_SHOP",0.01);
@@ -69,7 +69,7 @@ ChClose(4,0,30);
 SEPlay("EV_SE_544");
 ChLayout(0);
 ChNanaType(1);
-ChOpen(4,255,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Hand?");
 BGMStop();
 MsgClose();
@@ -132,7 +132,7 @@ MsgClose();
 BGOpen("wf100",0);
 ChLayout(1);
 ChNanaType(1);
-ChOpen(4,255,0,0,3,-1,-1,0,0);
+ChOpen(4,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Haa...
 My heart is racing...");

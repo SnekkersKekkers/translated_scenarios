@@ -1,6 +1,6 @@
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,2,2,8,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,2,2,8,#1,0,0);
 VoicePlay("B040402300_04_000");
 MsgDisp("Nanatsumori","Apparently this is a popular date spot.");
 MsgSel("It's because it's got a nice atmosphere, right?","There's nothing special about it though...","I wonder why it's popular amongst couples?");

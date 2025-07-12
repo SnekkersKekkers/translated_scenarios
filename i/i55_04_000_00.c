@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550400000_04_000");
     MsgDisp("Nanatsumori","Ah.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -42,7 +42,7 @@ By the way, got any new sweets?");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550400000_04_040");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -79,7 +79,7 @@ I hope ｛七ツ森＊｝ likes these.)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550400000_04_090");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.

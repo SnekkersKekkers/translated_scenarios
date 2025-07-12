@@ -10,8 +10,8 @@ lobby.\"......Just that? I wonder what
 he's up to......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(21,30,0,0,0,-1,-1,0,1,0,30);
-ChOpen(22,30,0,0,3,-1,-1,0,2,0,30);
+ChOpen(21,30,0,0,0,#1,#1,0,1,0,30);
+ChOpen(22,30,0,0,3,#1,#1,0,2,0,30);
 MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.");
 ChEye(21,0);
 ChMouth(21,4);
@@ -67,7 +67,7 @@ VoicePlay("Q070101000_01_000");
 MsgDisp("Kazama?"," ｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What's wrong?
 It's already dark outside.");
@@ -88,7 +88,7 @@ ChPosition(1,1);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(7,254,0,2,0,-1,-1,0,2);
+ChOpen(7,254,0,2,0,#1,#1,0,2);
 MsgDisp("主人公","Ah, Mikage sensei......");
 ChEye(1,2);
 ChMouth(1,0);

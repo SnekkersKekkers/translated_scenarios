@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     SEWait();
     BGMPlay("BGM_C03_HONDA_A",0.01);
     MsgClose();
-    ChOpen(3,253,1,4,4,-1,-1,0,0);
+    ChOpen(3,253,1,4,4,#1,#1,0,0);
     VoicePlay("B010300001_03_000");
     MsgDisp("Honda","Sorry, I found an interesting road 
 on the way here.");
@@ -35,7 +35,7 @@ Alright, let's go!");
     SEWait();
     BGMPlay("BGM_C03_HONDA_A",0.01);
     MsgClose();
-    ChOpen(3,253,0,0,0,-1,-1,0,0);
+    ChOpen(3,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010300001_03_030");
     MsgDisp("Honda","Isn't it a common excuse to be late
 because you helped an old lady on the way
@@ -64,7 +64,7 @@ the old days in Habataki City.");
     SEWait();
     BGMPlay("BGM_C03_HONDA_A",0.01);
     MsgClose();
-    ChOpen(3,253,1,2,4,-1,-1,0,0);
+    ChOpen(3,253,1,2,4,#1,#1,0,0);
     VoicePlay("B010300001_03_060");
     MsgDisp("Honda","Sorry.
 I knew I was keeping you waiting...");

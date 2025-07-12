@@ -15,7 +15,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C06_INORI_A",0.01);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F100610000_06_010");
 MsgDisp("Himuro","...Hello.");
 MsgDisp("主人公","Did something happen?

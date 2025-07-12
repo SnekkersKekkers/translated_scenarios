@@ -36,7 +36,7 @@ I wonder why.");
     DateRateSet(2);
     ChMouth(4,0);
     ChMotion(4,2,1);
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     VoicePlay("B040408200_04_030");
     MsgDisp("Nanatsumori","That's what they say about autumn 
 and spring days like this.");

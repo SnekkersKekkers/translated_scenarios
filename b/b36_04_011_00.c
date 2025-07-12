@@ -26,7 +26,7 @@ MsgClose();
 ChClose(4,0,30);
 ChLayout(0);
 ChNanaType(0);
-ChOpen(4,255,0,0,3,-1,-1,0,0,0,60);
+ChOpen(4,255,0,0,3,#1,#1,0,0,0,60);
 VoicePlay("B360401100_04_020");
 MsgDisp("Nanatsumori","Follow where my finger is pointing.
 From that red-roofed house,
@@ -51,7 +51,7 @@ MsgClose();
 ChClose(4,0,30);
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,255,0,4,4,-1,-1,0,0,0,60);
+ChOpen(4,255,0,4,4,#1,#1,0,0,0,60);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360401100_04_050");

@@ -61,7 +61,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(3,254,7,0,0,-1,-1,0,0);
+ChOpen(3,254,7,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 ChMotion(3,1,1);

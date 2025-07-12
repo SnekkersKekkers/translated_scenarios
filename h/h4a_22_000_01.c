@@ -7,7 +7,7 @@ switch (ChPrmGet(22,6)){
     break ;
     case 3:
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,2,2,2,-1,-1,0,0);
+    ChOpen(22,254,2,2,2,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H4A2200001_22_000");
@@ -33,7 +33,7 @@ the rhythmic gymnastics club......)");
     case 4:
     case 5:
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,2,2,-1,-1,0,0);
+    ChOpen(22,254,0,2,2,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H4A2200001_22_030");

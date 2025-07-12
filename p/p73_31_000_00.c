@@ -7,7 +7,7 @@ it's finally the runway...I'm nervous..)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,3,0,0,-1,-1,0,0);
+ChOpen(31,254,3,0,0,#1,#1,0,0);
 VoicePlay("P733100000_31_000");
 MsgDisp("Goro","The backstage of a fashion show is a
 battlefield!");

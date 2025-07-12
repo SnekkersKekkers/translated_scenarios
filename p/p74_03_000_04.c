@@ -7,7 +7,7 @@ MsgDisp("主人公","(Yayー! A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(3,254,4,4,3,-1,-1,0,0);
+ChOpen(3,254,4,4,3,#1,#1,0,0);
 VoicePlay("P740300004_03_000");
 MsgDisp("Honda","Haa, I'm glad...");
 MsgDisp("主人公","Yeah, I finished without falling.");

@@ -11,7 +11,7 @@ switch (ChPrmGet(8,6)){
     MsgDisp("主人公","Thank you very much!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
-    ChOpen(8,35,0,2,1,-1,-1,0,0);
+    ChOpen(8,35,0,2,1,#1,#1,0,0);
     ChMotion(8,1,1);
     VoicePlay("I660800006_08_000");
     MsgDisp("Shirahane","Aah!
@@ -50,7 +50,7 @@ I'll have to get it together......!)");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,2,1,-1,-1,0,0);
+    ChOpen(8,35,0,2,1,#1,#1,0,0);
     ChMotion(8,1,1);
     VoicePlay("I660800006_08_040");
     MsgDisp("Shirahane","Aah!

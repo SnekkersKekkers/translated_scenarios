@@ -3,8 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow, so pretty......!");
 MsgClose();
-ChOpen(5,254,0,4,4,-1,-1,0,1,0,30);
-ChOpen(7,254,4,0,0,-1,-1,0,2,0,30);
+ChOpen(5,254,0,4,4,#1,#1,0,1,0,30);
+ChOpen(7,254,4,0,0,#1,#1,0,2,0,30);
 VoicePlay("Q070C00200_05_000");
 MsgDisp("Hiiragi","It is said to be 150 years old......
 It still looks very usable.");

@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,2,4,9,-1,0,0);
+ChOpen(5,255,0,2,4,9,#1,0,0);
 VoicePlay("G020510304_05_000");
 MsgDisp("Hiiragi","I have so many flaws as a person......");
 MsgDisp("主人公","Eh, what's this all of a sudden?");
@@ -15,7 +15,7 @@ VoicePlay("G020510304_05_020");
 MsgDisp("Hiiragi","And I never realized how arrogant I
 was......");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020510304_05_030");
 MsgDisp("Hiiragi","I became aware of this while thinking 
 about a birthday present for you.");
@@ -31,7 +31,7 @@ helped.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020510304_05_050");
 MsgDisp("Hiiragi","Thank you. Hearing you say that, gives me
 some relief.");
@@ -56,6 +56,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

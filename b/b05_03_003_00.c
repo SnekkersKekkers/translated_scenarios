@@ -61,7 +61,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 MsgClose();
-ChOpen(3,253,0,2,2,-1,-1,0,0);
+ChOpen(3,253,0,2,2,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050300300_03_070");

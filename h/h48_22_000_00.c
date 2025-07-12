@@ -8,7 +8,7 @@ switch (ChPrmGet(22,6)){
     case 3:
     ChLayout(1);
     MsgClose();
-    ChOpen(22,254,0,0,3,-1,-1,0,0);
+    ChOpen(22,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H482200000_22_000");
     MsgDisp("Hikaru","So this day has finally arrived.");
@@ -29,7 +29,7 @@ Right?");
     case 5:
     ChLayout(1);
     MsgClose();
-    ChOpen(22,254,0,0,3,-1,-1,0,0);
+    ChOpen(22,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(22,4,1);
     VoicePlay("H482200000_22_020");

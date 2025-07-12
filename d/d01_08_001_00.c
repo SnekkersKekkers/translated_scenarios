@@ -1,7 +1,7 @@
 BGOpen("ar300",0);
 ChLayout(1);
 MsgClose();
-ChOpen(8,35,0,3,3,0,-1,0,0);
+ChOpen(8,35,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_000");
 MsgDisp("Shirahane","Okay, 5 Rich will be yer change.");
@@ -54,7 +54,7 @@ VoicePlay("D010800100_43_030");
 MsgDisp("Male Customer A","I'd be too full if I drank all that
 coffee. My mom will get mad at me if 
 I don't eat dinner!");
-StlEyeOpenLevel(8,-1);
+StlEyeOpenLevel(8,#1);
 VoicePlay("D010800100_08_060");
 MsgDisp("Shirahane","The shop would also go bankrupt due to
 coffee costs, so let's help each other
@@ -72,7 +72,7 @@ MsgDisp("Male Customer B","Ahaha!");
 VoicePlay("D010800100_45_000");
 MsgDisp("Woman Customer B","Okay, I'll get you a handful then.
 That's okay, right? Daichi-kun▼");
-StlEyeOpenLevel(8,-1);
+StlEyeOpenLevel(8,#1);
 VoicePlay("D010800100_08_080");
 MsgDisp("Shirahane","For our lady customers......Sure!
 Ya can have two handfuls!");
@@ -86,7 +86,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(8,35,0,3,3,-1,-1,0,0);
+ChOpen(8,35,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_090");
 MsgDisp("Shirahane","Thank ya for coming～!");

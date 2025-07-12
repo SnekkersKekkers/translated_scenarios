@@ -7,7 +7,7 @@ BGMPlay("BGM_XMAS_TRHEE",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 MsgClose();
-ChOpen(2,255,0,0,0,-1,-1,0,0);
+ChOpen(2,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","It's pretty.");
 ChEye(2,0);
 ChMouth(2,4);

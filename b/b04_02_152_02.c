@@ -63,7 +63,7 @@ Once more...");
         ChLayout(0);
         SEPlay("EV_SE_544",0,0.6);
         MsgClose();
-        ChOpen(2,253,2,0,0,-1,-1,0,0);
+        ChOpen(2,253,2,0,0,#1,#1,0,0);
         VoicePlay("B040215202_02_040");
         MsgDisp("Sassa","Hey, straighten your elbow.
 tighten your armpits, swing your
@@ -88,7 +88,7 @@ it won't go off to the side.");
 It went in, ｛颯砂＊＊｝!");
         MsgClose();
         SEPlay("EV_SE_544",0,0.5);
-        ChOpen(2,253,0,0,0,-1,-1,0,0);
+        ChOpen(2,253,0,0,0,#1,#1,0,0);
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);

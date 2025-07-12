@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,254,0,2,3,-1,-1,0,0);
+    ChOpen(1,254,0,2,3,#1,#1,0,0);
     VoicePlay("K010100100_01_000");
     MsgDisp("Kazama","What is it?
 You're a noisy one.");
@@ -35,7 +35,7 @@ Anyways, do you want to open it?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,254,0,2,3,-1,-1,0,0);
+    ChOpen(1,254,0,2,3,#1,#1,0,0);
     VoicePlay("K010100100_01_020");
     MsgDisp("Kazama","What are you hurrying for?");
     MsgDisp("主人公","It's your birthday, isn't it?
@@ -61,7 +61,7 @@ Anyways, do you want to open it?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ChEye(1,3);
     ChMotion(1,3);
     VoiceEVSPlay(1);
@@ -91,6 +91,6 @@ Alright already, open up your present.");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

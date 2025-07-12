@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
 vegetable sale. It would be nice if it was
 well-received...)");
     MsgClose();
-    ChOpen(1,254,0,4,3,-1,-1,0,0);
+    ChOpen(1,254,0,4,3,#1,#1,0,0);
     VoicePlay("P630100001_01_000");
     MsgDisp("Kazama","Pardon the intrusion.
 I came to enjoy some herbal tea.");
@@ -45,7 +45,7 @@ Well, I'll have a look.");
 vegetable sale. It would be nice if it was
 well-received...)");
     MsgClose();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     ChEye(1,4);
     ChMotion(1,3);
     VoicePlay("P630100001_01_030");
@@ -76,6 +76,6 @@ souvenir for my Grandpa.");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

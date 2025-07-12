@@ -1,8 +1,8 @@
 BGOpen("wf310",0);
 BGMPlay("BGM_PLACE_MUSE_AQUA_GARDEN",0.01);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 ChEye(4,0);
 ChMouth(4,0);
@@ -16,7 +16,7 @@ VoicePlay("B040403101_04_000");
 MsgDisp("Nanatsumori","A king penguin...
 chick∋
 It's huge∈");
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 MsgSel("Waa, it's so fluffy!","Its so big... there could be a person in there","It's too big, it's scary");
 switch (MsgSelRsltGet()){
     case 0:

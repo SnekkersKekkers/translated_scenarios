@@ -15,7 +15,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,0,0,0,8,-1,0,0);
+ChOpen(1,100,0,0,0,8,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

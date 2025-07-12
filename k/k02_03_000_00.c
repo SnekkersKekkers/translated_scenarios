@@ -8,7 +8,7 @@ SEPlay("EV_SE_DOOR_022");
 SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

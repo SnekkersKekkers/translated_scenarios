@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C06_INORI_B",0.01);
-    ChOpen(6,254,0,0,4,-1,-1,0,0);
+    ChOpen(6,254,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0600000_06_000");
     MsgDisp("Himuro","A splendid victory.");
@@ -27,7 +27,7 @@ judo club!)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C06_INORI_B",0.01);
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0600000_06_020");
     MsgDisp("Himuro","Strong......");

@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("S060700000_07_000");
     MsgDisp("Mikage","｛主人公｝,
@@ -17,7 +17,7 @@ Happy New Year.");
     MsgDisp("主人公","Happy New Year to you too.");
     break ;
     case 3:
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("S060700000_07_010");
     MsgDisp("Mikage","｛主人公｝,
@@ -28,7 +28,7 @@ Happy New Year.");
     break ;
     case 4:
     case 5:
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("S060700000_07_020");
     MsgDisp("Mikage","｛主人公｝,
@@ -42,5 +42,5 @@ I wish you the best this year.");
     DbgAssert(1);
     break ;
     }
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

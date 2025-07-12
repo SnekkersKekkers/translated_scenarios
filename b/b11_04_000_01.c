@@ -8,7 +8,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 SEPlay("EV_SE_557",0.2);
-ChOpen(34,254,0,1,0,-1,-1,0,0);
+ChOpen(34,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110400001_34_000");
 MsgDisp("Guy","Ahh, it's already this time...
 I have to quickly go.");
@@ -32,8 +32,8 @@ ChClose(34,0,10);
 SEPlay("EV_SE_647",0,0.8);
 MsgDisp("","(*THUNK*)");
 BGMPlay("BGM_PLACE_BEACH",0.01);
-ChNanaType(-1);
-ChOpen(4,31,0,1,0,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,31,0,1,0,#1,#1,0,0);
 VoicePlay("B110400001_04_000");
 MsgDisp("Nanatsumori","Dumbass.
 What's with that lame 
@@ -63,7 +63,7 @@ MsgDisp("Nanatsumori","Understo-od.");
 ChPosition(4,2);
 MsgClose();
 SEPlay("EV_SE_557",0.2);
-ChOpen(34,254,0,1,2,-1,-1,0,1);
+ChOpen(34,254,0,1,2,#1,#1,0,1);
 VoicePlay("B110400001_34_030");
 MsgDisp("Guy","Well there's three people, but we can 
 still go to the \"Big Wave of Love\".");
@@ -114,6 +114,6 @@ ChMotion(4,1,1);
 VoicePlay("B110400001_04_070");
 MsgDisp("Nanatsumori","Well, who know.
 Let's go.");
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

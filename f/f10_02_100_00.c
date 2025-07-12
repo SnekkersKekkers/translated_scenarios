@@ -28,7 +28,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A",0.01);
 MsgClose();
-ChOpen(2,254,0,0,4,-1,-1,0,0);
+ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoicePlay("F100210000_02_010");
 MsgDisp("Sassa","Yo, are you borrowing a book too?");
 MsgDisp("主人公","Yeah.

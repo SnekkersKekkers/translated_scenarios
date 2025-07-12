@@ -5,8 +5,8 @@ MsgDisp("主人公","(Huh... over there is...
 ｛颯砂＊＊｝ and ｛氷室＊＊｝?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(2,254,3,0,4,-1,-1,0,1);
-ChOpen(6,254,0,0,0,-1,-1,0,2);
+ChOpen(2,254,3,0,4,#1,#1,0,1);
+ChOpen(6,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","Good afternoon?
 What are you two in the middle 
 of talking about?");

@@ -2,7 +2,7 @@ ChClose(7);
 MsgClose();
 BGMStop();
 BGOpen("ho000",2);
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(7,0);
 VoicePlay("K020701100_07_000");

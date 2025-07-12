@@ -45,7 +45,7 @@ ChMouthOpenLevel(4,0);
 VoicePlay("B360450300_04_040");
 MsgDisp("Nanatsumori","…………");
 MsgDisp("主人公","…………");
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("B360450300_04_050");
 MsgDisp("Nanatsumori","Does this make your 
 heart race?");

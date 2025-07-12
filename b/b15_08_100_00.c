@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(8,255,0,2,0,-1,-1,6,0);
+ChOpen(8,255,0,2,0,#1,#1,6,0);
 ScrFadeIn(0);
 VoicePlay("B150810000_08_000");
 MsgDisp("Shirahane","As merciless as ever.");

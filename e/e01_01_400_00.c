@@ -12,9 +12,9 @@ MsgDisp("Hikaru?","But whyyy～∋
 Mari will be sooo happy, I swear!");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(1,255,0,0,2,8,-1,0,1,0,30);
-ChOpen(22,255,0,4,0,-1,-1,0,2,0,30);
-ChEyeOpenLevel(1,-1);
+ChOpen(1,255,0,0,2,8,#1,0,1,0,30);
+ChOpen(22,255,0,4,0,#1,#1,0,2,0,30);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Me?");
 ChEye(22,0);
 ChMouth(22,3);

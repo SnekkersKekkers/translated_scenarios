@@ -8,7 +8,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 SEPlay("EV_SE_557",0.2);
-ChOpen(34,254,0,0,0,-1,-1,0,0);
+ChOpen(34,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110300001_34_000");
 MsgDisp("Guy","Are you a stray? Should I protect you?");
 MsgDisp("主人公","Stray? I think you've got
@@ -23,7 +23,7 @@ ChPosition(34,1);
 SEPlay("EV_SE_550");
 BGMPlay("BGM_PLACE_BEACH",0.01);
 MsgClose();
-ChOpen(3,31,0,0,4,-1,-1,0,2);
+ChOpen(3,31,0,0,4,#1,#1,0,2);
 VoicePlay("B110300001_03_000");
 MsgDisp("Honda","Sorry for being a bit late.");
 MsgDisp("主人公","Ah, ｛本多＊＊｝!");
@@ -83,6 +83,6 @@ MsgDisp("Honda","...You must be lonely, right? I can
 understand what it's like to be a shut-in.");
 MsgDisp("主人公","(｛本多＊＊｝, wow... that guy was opening 
 up their heart.)");
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

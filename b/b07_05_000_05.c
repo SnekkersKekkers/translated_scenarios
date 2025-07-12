@@ -17,7 +17,7 @@ MsgDisp("主人公","I see, but that
 seems fun.");
 ChEye(5,3);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B070500000_05_220");
 MsgDisp("Hiiragi","Yes it's fun, and it's a nice feeling. The
 dirt falls off instantly and cleans up
@@ -37,6 +37,6 @@ I'm kind of curious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

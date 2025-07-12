@@ -54,7 +54,7 @@ BGOpen("ne710",0);
 SEPlay("EV_SE_552",0.2);
 Wait(10,0);
 MsgClose();
-ChOpen(1,255,0,2,3,-1,-1,5,0);
+ChOpen(1,255,0,2,3,#1,#1,5,0);
 ScrFadeIn(0,30);
 VoicePlay("B360107001_01_050");
 MsgDisp("Kazama","Ah, sorry.

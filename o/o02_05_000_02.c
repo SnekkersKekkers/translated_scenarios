@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,30,0,0,4,-1,-1,0,0);
+    ChOpen(5,30,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020500002_05_000");
     MsgDisp("Hiiragi","Thank you for your hard work.
@@ -15,7 +15,7 @@ It was a good match.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,30,0,4,4,-1,-1,0,0);
+    ChOpen(5,30,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020500002_05_010");
     MsgDisp("Hiiragi","You looked as though you were
@@ -27,7 +27,7 @@ And we were so close......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,30,0,4,4,-1,-1,0,0);
+    ChOpen(5,30,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(5);
     VoicePlay("O020500002_05_020");

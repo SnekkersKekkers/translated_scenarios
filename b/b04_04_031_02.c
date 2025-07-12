@@ -1,8 +1,8 @@
 BGOpen("wf310",0);
 BGMPlay("BGM_PLACE_MUSE_AQUA_GARDEN",0.01);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 ChEye(4,0);
 ChMouth(4,0);
@@ -95,7 +95,7 @@ my own self satisfaction.");
         VoicePlay("B040403102_04_080");
         MsgDisp("Nanatsumori","I'm not on this date now for the sake of
 those kinds of things.");
-        ChEyeOpenLevel(4,-1);
+        ChEyeOpenLevel(4,#1);
         MsgDisp("主人公","｛七ツ森＊｝……");
         ChEye(4,4);
         ChMouth(4,3);

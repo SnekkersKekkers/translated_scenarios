@@ -2,7 +2,7 @@ BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc822",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);

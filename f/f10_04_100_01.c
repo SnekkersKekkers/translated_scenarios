@@ -6,7 +6,7 @@ MsgDisp("主人公","｛七ツ森＊｝!");
 MsgClose();
 BGMPlay("BGM_C04_NANA_A");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("F100410001_04_000");
 MsgDisp("Nanatsumori","So it's you.");
 MsgDisp("主人公","Do you have class duties today?");
@@ -32,7 +32,7 @@ MsgDisp("主人公","｛七ツ森＊｝!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("F100410001_04_030");
 MsgDisp("Nanatsumori","Yeah?");
 MsgDisp("主人公","Didn't you drop 

@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,2,0,0,-1,-1,0,0);
+ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("G020210001_02_000");
 MsgDisp("Sassa","It feels like we're in a different world
 than usual.");
@@ -59,6 +59,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

@@ -5,7 +5,7 @@ SEPlay("EV_SE_DOOR_007");
 Wait(18);
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,255,4,4,0,-1,-1,0,0);
+ChOpen(3,255,4,4,0,#1,#1,0,0);
 VoicePlay("M010300000_03_000");
 MsgDisp("Honda","Ah, thank goodness.
 You're doing better than I expected.");

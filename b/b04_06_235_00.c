@@ -2,7 +2,7 @@ BGOpen("tr460",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(6,255,0,2,0,0,-1,0,0,0,0);
+ChOpen(6,255,0,2,0,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623500_06_000");
 MsgDisp("Himuro","...Haa, it's finally over. ");

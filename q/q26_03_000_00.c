@@ -1,7 +1,7 @@
 SEPlay("EV_SE_700");
 SEWait();
 BGOpen("sc815",2);
-ChOpen(3,30,0,4,0,-1,-1,0,0);
+ChOpen(3,30,0,4,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("Q260300000_03_000");

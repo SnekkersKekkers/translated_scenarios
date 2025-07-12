@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020120100_01_000");
 MsgDisp("Kazama","It takes a lot of courage to come here.");
 MsgDisp("主人公","Huh?");
@@ -68,6 +68,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

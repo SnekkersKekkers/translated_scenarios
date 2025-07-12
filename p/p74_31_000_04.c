@@ -6,7 +6,7 @@ MsgDisp("主人公","(Yayー! A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,2,0,0,-1,-1,0,0);
+ChOpen(31,254,2,0,0,#1,#1,0,0);
 VoicePlay("P743100004_31_000");
 MsgDisp("Goro","So sweet...
 I felt as if I had just 

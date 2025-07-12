@@ -6,7 +6,7 @@ SEPlay("EV_SE_518");
 SEWait();
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,2,2,7,-1,0,0);
+ChOpen(1,255,0,2,2,7,#1,0,0);
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -42,7 +42,7 @@ The sound of the world coming to an end.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     VoicePlay("B040102401_01_030");
     MsgDisp("Kazama","Oh, that's got to be it.
 There's no way that we sound

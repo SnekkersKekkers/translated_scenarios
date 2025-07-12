@@ -1,8 +1,8 @@
 ChLayout(1);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
-ChOpen(5,254,0,0,4,-1,-1,0,1,0,30);
-ChOpen(7,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
+ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(5);
 VoicePlay("Q090C00000_05_000");
 MsgDisp("Hiiragi","｛主人公｝, good morning.");

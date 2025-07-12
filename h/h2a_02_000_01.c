@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     MsgClose();
     BGMPlay("BGM_C02_SASSA_C",0.01);
-    ChOpen(2,254,2,2,2,0,-1,0,0);
+    ChOpen(2,254,2,2,2,0,#1,0,0);
     MsgDisp("主人公","｛颯砂＊＊｝……");
     ChEye(2,2);
     ChMouth(2,2);

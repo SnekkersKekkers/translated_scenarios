@@ -10,7 +10,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
 VoicePlay("P540400000_04_000");
 MsgDisp("Nanatsumori","Good work.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.

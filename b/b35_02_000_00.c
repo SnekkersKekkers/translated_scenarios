@@ -7,7 +7,7 @@ MsgDisp("Sassa?","｛主人公｝.");
 MsgDisp("主人公","｛颯砂＊＊｝?
 What's up?");
 MsgClose();
-ChOpen(2,255,4,0,0,-1,-1,0,0);
+ChOpen(2,255,4,0,0,#1,#1,0,0);
 VoicePlay("B350200000_02_010");
 MsgDisp("Sassa","I wanted to ask you that.
 What's wrong?");

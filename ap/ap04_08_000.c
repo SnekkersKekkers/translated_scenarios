@@ -5,5 +5,5 @@ NSSMouthOpenLevel(8,5);
 MsgDispHide();
 VoicePlay("AP0408000_08_000");
 MsgDisp("白羽 ","……");
-NSSMouthOpenLevel(8,-1);
+NSSMouthOpenLevel(8,#1);
 MsgClose();

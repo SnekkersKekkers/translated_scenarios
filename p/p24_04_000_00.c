@@ -86,7 +86,7 @@ StlClose();
 BGOpen("sc740",0);
 MsgClose();
 ChNanaType(1);
-ChOpen(4,38,0,2,1,8,-1,0,0);
+ChOpen(4,38,0,2,1,8,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","I'm gladー!
 The play ended without any problems...");
@@ -106,7 +106,7 @@ ChMotion(4,2,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("P240400000_04_110");
 MsgDisp("Nanatsumori","…………");
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("P240400000_04_120");
 MsgDisp("Nanatsumori","Sorry for asking something so trivial.
 Forget it.");

@@ -8,7 +8,7 @@ Can I really do it properly...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,2,0,0,-1,-1,0,0);
+ChOpen(31,254,2,0,0,#1,#1,0,0);
 VoicePlay("P533100000_31_000");
 MsgDisp("Goro","Non, non.
 Yes, please give me a smile.");

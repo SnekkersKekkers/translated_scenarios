@@ -6,7 +6,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(2,30,3,0,3,-1,-1,0,0);
+    ChOpen(2,30,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200000_02_000");
     MsgDisp("Sassa","Alright, we're first place!");
@@ -22,7 +22,7 @@ I'm glad I did my best!)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,30,3,0,3,-1,-1,0,0);
+    ChOpen(2,30,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200000_02_020");
     MsgDisp("Sassa","Alright, first!
@@ -40,7 +40,7 @@ I'm glad I did my best!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,30,3,0,3,-1,-1,0,0);
+    ChOpen(2,30,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200000_02_040");
     MsgDisp("Sassa","Yay!

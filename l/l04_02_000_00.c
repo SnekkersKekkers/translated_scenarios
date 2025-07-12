@@ -8,7 +8,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("主人公","｛颯砂＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A");
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("L040200000_02_000");
     MsgDisp("Sassa","｛主人公｝.
@@ -22,7 +22,7 @@ Valentine's chocolate.");
     MsgDisp("主人公","｛颯砂＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A");
-    ChOpen(2,254,0,0,4,-1,-1,0,0);
+    ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("L040200000_02_010");
     MsgDisp("Sassa","｛主人公｝,
@@ -38,7 +38,7 @@ Valentine's chocolate.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A");
-    ChOpen(2,254,0,0,4,-1,-1,0,0);
+    ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("L040200000_02_020");
     MsgDisp("Sassa","｛主人公｝.");

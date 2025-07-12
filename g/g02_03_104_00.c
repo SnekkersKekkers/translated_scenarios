@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,4,4,4,-1,-1,0,0);
+ChOpen(3,255,4,4,4,#1,#1,0,0);
 VoicePlay("G020310400_03_000");
 MsgDisp("Honda","Do fireflies fall in love too");
 MsgDisp("主人公","Eh?");
@@ -34,7 +34,7 @@ I guess I'm saying something weird.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 VoicePlay("G020310400_03_050");
 MsgDisp("Honda","It's because I've been thinking about it a
 lot lately. About what kind of feelings I
@@ -70,6 +70,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

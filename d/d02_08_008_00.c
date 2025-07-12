@@ -1,7 +1,7 @@
 BGOpen("ar300",0);
 ChLayout(1);
 MsgClose();
-ChOpen(8,35,4,2,4,-1,-1,0,0);
+ChOpen(8,35,4,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020800800_08_000");
 MsgDisp("Shirahane","…………");

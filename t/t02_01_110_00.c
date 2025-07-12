@@ -7,7 +7,7 @@ Did I make it in time...");
 MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_872",0.5);
 Wait(49,0);
-ChOpen(1,254,0,2,2,8,-1,0,0);
+ChOpen(1,254,0,2,2,8,#1,0,0);
 MsgDisp("主人公","｛風真＊＊｝∋ The graduation ceremony is
 already over......?");
 ChEye(1,0);
@@ -25,7 +25,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("sc010",0);
-ChOpen(1,254,0,0,2,-1,-1,0,0);
+ChOpen(1,254,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛風真＊＊｝,
 Here......?");
@@ -149,7 +149,7 @@ ChClose(1);
 ChCustomLayout(1,5,0,-2.7);
 Wait(30);
 SEPlay("EV_SE_544");
-ChOpen(1,254,7,4,2,-1,-1,0,0);
+ChOpen(1,254,7,4,2,#1,#1,0,0);
 ChMouth(1,2);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_150");

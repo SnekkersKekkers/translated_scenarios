@@ -17,4 +17,4 @@ MsgDisp("Honda","That'd be true
 for anyone but you!");
 MsgDisp("主人公","(I-Is that right?
 At least he liked it!)");
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);

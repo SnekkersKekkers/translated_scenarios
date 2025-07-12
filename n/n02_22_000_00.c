@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(22,254,0,3,3,-1,-1,7,0);
+ChOpen(22,254,0,3,3,#1,#1,7,0);
 ScrFadeIn(0);
 ChMotion(22,5,1);
 VoicePlay("N022200000_22_000");

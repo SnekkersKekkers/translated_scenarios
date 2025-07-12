@@ -91,12 +91,12 @@ VoicePlay("G020140002_01_100");
 MsgDisp("Kazama","Maybe because I was able to sort things
 out in that room overnight, we have the
 relationship we do now?");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","(｛風真＊＊｝……)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

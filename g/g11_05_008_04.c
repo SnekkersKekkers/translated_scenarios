@@ -15,7 +15,7 @@ SEPlay("EV_SE_DOOR_013");
 SEWait();
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,254,0,0,4,-1,-1,0,0);
+ChOpen(5,254,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","The president was happy. 
 What happened?");
 ChMouth(5,4);
@@ -31,7 +31,7 @@ ScrFadeOut(0,0,30);
 ChClose(5,0,0);
 BGOpen("ev005",0);
 MsgClose();
-ChOpen(5,100,0,0,1,-1,-1,0,0);
+ChOpen(5,100,0,0,1,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110500804_05_020");
@@ -56,7 +56,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500804_05_040");
 MsgDisp("Hiiragi","But, I'm happy to think my efforts were
 useful to the student council a little.");
@@ -86,7 +86,7 @@ are being recognized......");
 ChMouth(5,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500804_05_070");
 MsgDisp("Hiiragi","You really are such a kind person.
 Yes......t-thank you.");

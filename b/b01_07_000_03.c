@@ -10,7 +10,7 @@ Wait(88,1);
 MsgClose();
 SEStop("EV_SE_FOOT_025",0);
 BGMPlay("BGM_C07_MIKAGE_C",0.01);
-ChOpen(7,254,5,2,3,-1,-1,0,0);
+ChOpen(7,254,5,2,3,#1,#1,0,0);
 SEStop("EV_SE_788",2);
 VoicePlay("B010700003_07_000");
 MsgDisp("Mikage","Phew, whoo...

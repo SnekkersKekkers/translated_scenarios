@@ -6,7 +6,7 @@ Should I head home now?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,255,0,0,0,-1,-1,0,0);
+ChOpen(4,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛七ツ森＊｝,
 what a coincidence!");
 VoicePlay("E010530100_04_000");
@@ -26,7 +26,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChPosition(4,2);
 Wait(40,0);
 MsgClose();
-ChOpen(5,255,3,3,2,-1,-1,0,1,0,30);
+ChOpen(5,255,3,3,2,#1,#1,0,1,0,30);
 VoicePlay("E010530100_05_000");
 MsgDisp("Hiiragi","Nanatsumori-kun.
 Oh, and you're here as well.");

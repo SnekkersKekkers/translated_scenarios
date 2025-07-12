@@ -6,7 +6,7 @@ VoicePlay("B350400000_04_000");
 MsgDisp("Nanatsumori?","｛主人公｝.");
 MsgClose();
 ChNanaType(0);
-ChOpen(4,255,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Huh?
 ｛七ツ森＊｝, you still haven't gone home?");
 VoicePlay("B350400000_04_010");

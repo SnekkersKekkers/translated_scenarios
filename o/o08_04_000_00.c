@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
 Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O080400000_04_000");
     MsgDisp("Nanatsumori","Hello.");
     MsgDisp("主人公","Hi!");
@@ -20,7 +20,7 @@ Ah, it's ｛七ツ森＊｝.)");
 Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,2,3,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,2,3,#1,#1,0,0,0,60);
     VoicePlay("O080400000_04_010");
     MsgDisp("Nanatsumori","Even if they tell us to dance,
 this is pretty embarrassing......");
@@ -36,7 +36,7 @@ this is pretty embarrassing......");
 Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,0,3,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("O080400000_04_030");
     MsgDisp("Nanatsumori","Mission cleared.");
     MsgDisp("主人公","Mission?");

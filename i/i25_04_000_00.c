@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250400000_04_000");
     MsgDisp("Nanatsumori","......Ah.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -36,7 +36,7 @@ Good luck with work.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250400000_04_030");
     MsgDisp("Nanatsumori","Yo.
 Good work.");
@@ -65,7 +65,7 @@ They look delicious......)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,1,4,4,-1,-1,0,0);
+    ChOpen(4,255,1,4,4,#1,#1,0,0);
     VoicePlay("I250400000_04_060");
     MsgDisp("Nanatsumori","Come on.
 Escaping reality while at work isn't

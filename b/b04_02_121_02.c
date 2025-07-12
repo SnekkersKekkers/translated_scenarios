@@ -54,7 +54,7 @@ I'll go buy some drinks.");
         SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
         SEWait();
         MsgClose();
-        ChOpen(2,253,0,0,0,-1,-1,0,0);
+        ChOpen(2,253,0,0,0,#1,#1,0,0);
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

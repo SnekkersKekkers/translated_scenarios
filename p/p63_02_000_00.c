@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
 and cookies. It would be nice if it was
 well received though...)");
     MsgClose();
-    ChOpen(2,254,2,0,4,-1,-1,0,0);
+    ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200000_02_000");
     MsgDisp("Sassa","｛主人公｝.
@@ -47,8 +47,8 @@ blend and cookies please.");
 One herb tea set please!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(2,-1);
-    ChMouth(2,-1);
+    ChEye(2,#1);
+    ChMouth(2,#1);
     ChCheek(2,0);
     break ;
     case 4:
@@ -59,7 +59,7 @@ One herb tea set please!");
 and cookies. It would be nice if it was
 well received though...)");
     MsgClose();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200000_02_050");
     MsgDisp("Sassa","｛主人公｝,
@@ -90,8 +90,8 @@ Then, please give me your recommended set.");
 One herb tea set, please.");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(2,-1);
-    ChMouth(2,-1);
+    ChEye(2,#1);
+    ChMouth(2,#1);
     ChCheek(2,0);
     break ;
     default :

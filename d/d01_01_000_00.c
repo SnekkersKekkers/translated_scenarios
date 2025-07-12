@@ -1,7 +1,7 @@
 BGOpen("sc310",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010100000_01_000");
 MsgDisp("Kazama","Yo.");
@@ -33,7 +33,7 @@ ScrFadeOut(0);
 StlClose();
 BGOpen("sc310",0);
 MsgClose();
-ChOpen(1,254,0,0,2,8,-1,0,0);
+ChOpen(1,254,0,0,2,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010100000_01_030");
 MsgDisp("Kazama","......\"Too much?\" What's that supposed to

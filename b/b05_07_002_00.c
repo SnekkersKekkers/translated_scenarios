@@ -1,6 +1,6 @@
 MsgClose();
 BGOpen("tr510",0);
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_779");
 ChEye(7,1);
@@ -85,7 +85,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("tr510",0);
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛御影＊＊｝, do you know that horse?");
 ChEye(7,0);

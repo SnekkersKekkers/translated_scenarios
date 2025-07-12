@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,0,0,4,-1,-1,0,0);
+ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040202300_02_000");
 MsgDisp("Sassa","Doesn't coming to the wharf really
 make you feel like doing \"that\"?");

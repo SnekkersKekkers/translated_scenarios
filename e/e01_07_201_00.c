@@ -4,8 +4,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I think it's time to go home......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(7,255,0,0,0,-1,-1,0,1,0,30);
-ChOpen(1,255,0,0,0,-1,-1,0,2,0,30);
+ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
+ChOpen(1,255,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","Ah, ｛御影＊＊｝, ｛風真＊＊｝.
 It's rare to see you two together.");
 ChEye(7,0);

@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,253,0,0,4,-1,-1,0,0);
+    ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_000");
     MsgDisp("Hiiragi","Yes, I finished my previous errand with
 haste. Waiting a little is no problem as
@@ -22,7 +22,7 @@ well.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,253,0,0,4,-1,-1,0,0);
+    ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_010");
     MsgDisp("Hiiragi","I left my home early because I intended
 to go on a leisurely walk.
@@ -40,7 +40,7 @@ walking with you more.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,253,0,0,4,-1,-1,0,0);
+    ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_030");
     MsgDisp("Hiiragi","Yes. I wanted to see your surprised face.");
     MsgDisp("主人公","Hey, that's mean.");

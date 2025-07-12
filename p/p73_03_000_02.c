@@ -14,7 +14,7 @@ make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,5,3,3,-1,-1,0,0);
+    ChOpen(3,254,5,3,3,#1,#1,0,0);
     VoicePlay("P730300002_03_000");
     MsgDisp("Honda","Waa...!");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.
@@ -70,7 +70,7 @@ make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,4,1,4,0,-1,0,0);
+    ChOpen(3,254,4,1,4,0,#1,0,0);
     VoicePlay("P730300002_03_060");
     MsgDisp("Honda","U-Um...");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.

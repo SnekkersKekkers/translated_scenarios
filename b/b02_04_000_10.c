@@ -1,5 +1,5 @@
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 ChEye(4,3);
 ChMouth(4,3);
@@ -10,7 +10,7 @@ Very cute.");
 MsgDisp("主人公","Eh, you mean this
 ｛流行アクセサリ名｝?");
 ChMotion(4,3,1);
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 VoicePlay("B020400010_04_010");
 MsgDisp("Nanatsumori","Right. Seeing you wearing trendy items is
 far more satisfying than just seeing it on

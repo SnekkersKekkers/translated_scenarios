@@ -5,7 +5,7 @@ MsgDisp("主人公","(Ah, it's ｛みちる＊｝ )");
 MsgClose();
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);
-ChOpen(21,254,2,2,2,-1,-1,0,0);
+ChOpen(21,254,2,2,2,#1,#1,0,0);
 VoicePlay("F102110000_21_000");
 MsgDisp("Michiru","Haa...");
 MsgDisp("主人公","｛みちる＊｝!

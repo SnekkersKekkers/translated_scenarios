@@ -5,7 +5,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","｛柊＊＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,0,0,0,-1,-1,0,0);
+    ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("F010500001_05_000");
     MsgDisp("Hiiragi","Excuse me, but what exactly are you
 trying to accomplish in calling me that? 
@@ -22,7 +22,7 @@ him that.)");
     MsgDisp("主人公","｛柊＊＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,0,2,2,-1,-1,0,0);
+    ChOpen(5,254,0,2,2,#1,#1,0,0);
     VoicePlay("F010500001_05_010");
     MsgDisp("Hiiragi","What was that just now?");
     MsgDisp("主人公","Sorry, did you not like it?");
@@ -44,7 +44,7 @@ him that.)");
     MsgDisp("主人公","｛柊＊＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,4,2,4,-1,-1,0,0);
+    ChOpen(5,254,4,2,4,#1,#1,0,0);
     VoicePlay("F010500001_05_030");
     MsgDisp("Hiiragi","Are you referring to me?");
     MsgDisp("主人公","Yes. Sorry, do you dislike it?");

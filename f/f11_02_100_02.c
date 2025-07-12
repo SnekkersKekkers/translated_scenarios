@@ -11,7 +11,7 @@ VoicePlay("F110210002_44_000");
 MsgDisp("Boy","Wah, let's go, let's go!");
 MsgDisp("主人公","(Classroom Kiddie Race...?)");
 MsgClose();
-ChOpen(2,254,3,0,3,-1,-1,0,0);
+ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoicePlay("F110210002_02_000");
 MsgDisp("Sassa","This year, we registered it with
 management. Now, we're doing a class race.");

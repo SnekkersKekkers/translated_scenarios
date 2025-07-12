@@ -19,7 +19,7 @@ Thanks.");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,4,0,-1,-1,0,0);
+    ChOpen(8,35,0,4,0,#1,#1,0,0);
     VoicePlay("I660800001_08_000");
     MsgDisp("Shirahane","You pay attention even to the
 smallest details now, dont'cha?");
@@ -50,7 +50,7 @@ Thanks as always.");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,4,0,-1,-1,0,0);
+    ChOpen(8,35,0,4,0,#1,#1,0,0);
     ChMotion(8,3,1);
     VoicePlay("I660800001_08_020");
     MsgDisp("Shirahane","As expected......

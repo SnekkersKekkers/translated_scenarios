@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(6,255,2,2,0,0,-1,10,0);
+ChOpen(6,255,2,2,0,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150600500_06_000");
 MsgDisp("Himuro","...I understand.

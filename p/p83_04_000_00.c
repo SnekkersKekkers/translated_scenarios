@@ -15,7 +15,7 @@ do I carry it to next...?");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P830400000_04_000");
     MsgDisp("Nanatsumori","Yo.
 Busy?");
@@ -47,7 +47,7 @@ do I carry it to next...?");
     SEWait();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P830400000_04_030");
     MsgDisp("Nanatsumori","Yo.
 Thanks for your hard work.");

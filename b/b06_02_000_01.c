@@ -4,7 +4,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4,1);
@@ -15,7 +15,7 @@ like this once in a while.");
     MsgDispSksp(0);
     break ;
     case 3:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0,1);
@@ -27,7 +27,7 @@ good too. Next time I'll invite you.");
     break ;
     case 4:
     case 5:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4,1);

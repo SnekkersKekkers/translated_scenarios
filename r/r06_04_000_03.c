@@ -6,7 +6,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,34,0,0,0,-1,-1,0,0);
+    ChOpen(4,34,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("R060400003_04_000");
     MsgDisp("Nanatsumori","Oh...
@@ -25,7 +25,7 @@ Can I open it?");
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,34,0,0,0,-1,-1,0,0);
+    ChOpen(4,34,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("R060400003_04_020");
     MsgDisp("Nanatsumori","Ah, I guess you got my gift.");
@@ -52,7 +52,7 @@ Is it okay if I open it?");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,34,0,0,4,-1,-1,0,0);
+    ChOpen(4,34,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("R060400003_04_050");
     MsgDisp("Nanatsumori","Do you like it?");

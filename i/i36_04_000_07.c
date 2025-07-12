@@ -30,7 +30,7 @@ if they're all on break......");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I360400007_04_000");
     MsgDisp("Nanatsumori","Yo.
 Delivery from Alucard?");
@@ -93,7 +93,7 @@ if they're all on break......");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("I360400007_04_050");
     MsgDisp("Nanatsumori","｛主人公｝.
@@ -124,7 +124,7 @@ Thanks.");
     MsgDisp("Nanatsumori","…………");
     MsgDisp("主人公","…………");
     ChMotion(4,1,1);
-    ChMouthOpenLevel(4,-1);
+    ChMouthOpenLevel(4,#1);
     VoicePlay("I360400007_04_090");
     MsgDisp("Nanatsumori","Hey-");
     MsgDisp("主人公","Ah!");

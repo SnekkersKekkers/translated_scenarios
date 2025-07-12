@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
 vegetable sale. It would be nice if it was
 well-received...)");
     MsgClose();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P630500001_05_000");
     MsgDisp("Hiiragi","｛主人公｝.
@@ -52,7 +52,7 @@ One customer, this way please!");
 vegetable sale. It would be nice if it was
 well-received...)");
     MsgClose();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P630500001_05_040");
     MsgDisp("Hiiragi","｛主人公｝,

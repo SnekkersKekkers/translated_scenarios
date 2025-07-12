@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400006_04_000");
     MsgDisp("Nanatsumori","See ya.");
     MsgClose();
@@ -34,7 +34,7 @@ trash. Well, into the garbage bag......");
     SEPlay("EV_SE_FOOT_025",1.2,0.8);
     Wait(110,0);
     ChNanaType(1);
-    ChOpen(4,35,0,2,1,10,-1,0,0);
+    ChOpen(4,35,0,2,1,10,#1,0,0);
     VoicePlay("I360400006_04_010");
     MsgDisp("Nanatsumori","Excuse me, I feel like I just
 forgot something at my table-");
@@ -76,7 +76,7 @@ Let's check everything carefully.)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400006_04_060");
     MsgDisp("Nanatsumori","Thanks for the food.
 Well, see ya.");
@@ -100,7 +100,7 @@ trash. Well, into the garbage bag......");
     SEPlay("EV_SE_FOOT_025",1.2,0.8);
     Wait(110,0);
     ChNanaType(1);
-    ChOpen(4,35,0,5,1,-1,-1,0,0);
+    ChOpen(4,35,0,5,1,#1,#1,0,0);
     VoicePlay("I360400006_04_070");
     MsgDisp("Nanatsumori","Um, I feel like I just
 forgot something at my table-");

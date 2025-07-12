@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","Good morning, ｛風真＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q090100000_01_000");
     MsgDisp("Kazama","Good morning.
 You're looking good today.");
@@ -25,7 +25,7 @@ It's our last free period.");
 ｛風真＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,254,0,4,3,-1,-1,0,0);
+    ChOpen(1,254,0,4,3,#1,#1,0,0);
     VoicePlay("Q090100000_01_020");
     MsgDisp("Kazama","Good morning.
 You're in high spirits today.");
@@ -45,7 +45,7 @@ Let's go then.");
     MsgDisp("Kazama?","｛主人公｝, good morning.");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Good morning.
 You're here already?");

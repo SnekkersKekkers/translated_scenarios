@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     case 5:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-    ChOpen(5,254,0,3,3,-1,-1,0,0);
+    ChOpen(5,254,0,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0500000_05_000");
     MsgDisp("Hiiragi","Congratulations to our team for

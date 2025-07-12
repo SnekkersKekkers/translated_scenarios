@@ -1,8 +1,8 @@
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);
 BGOpen("tr470",2);
 BGMPlay("BGM_PLACE_AMUSE_NIGHT",0.01);
@@ -73,7 +73,7 @@ So as you'd like.");
         MsgClose();
         ChClose(7,0,30);
         ChLayout(0);
-        ChOpen(7,253,1,0,0,-1,-1,0,0,0,30);
+        ChOpen(7,253,1,0,0,#1,#1,0,0,0,30);
         VoicePlay("B040723602_07_060");
         MsgDisp("Mikage","Look.
 Now, there's no need to worry we'll

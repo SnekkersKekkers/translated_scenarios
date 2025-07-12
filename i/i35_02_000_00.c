@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
 Ah, ｛颯砂＊＊｝?");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("I350200000_02_000");
     MsgDisp("Sassa","Oh, you work here.");
     MsgDisp("主人公","Yeah, that's right.");
@@ -41,7 +41,7 @@ you know?");
     MsgClose();
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(2,255,0,0,4,-1,-1,0,0);
+    ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoicePlay("I350200000_02_030");
     MsgDisp("Sassa","Thanks.
 It was good.");
@@ -70,7 +70,7 @@ Not the coffee?)");
 Welcome♪");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,3,0,3,-1,-1,0,0);
+    ChOpen(2,255,3,0,3,#1,#1,0,0);
     VoicePlay("I350200000_02_050");
     MsgDisp("Sassa","This is it,
 that smell and your voice.
@@ -140,7 +140,7 @@ likes Alucard, right......?)");
     MsgDisp("主人公","Welcome.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,40,2,0,0,-1,-1,10,0);
+    ChOpen(2,40,2,0,0,#1,#1,10,0);
     VoicePlay("I350200000_02_130");
     MsgDisp("Sassa","H, huh......");
     MsgDisp("主人公","What is it?　｛颯砂＊＊｝.");

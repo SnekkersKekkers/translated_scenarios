@@ -31,5 +31,5 @@ MsgDisp("Kazama","... But I'll get upset if other people see
 it.");
 MsgDisp("主人公","(It seems like he
 really likes this swimsuit!)");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChCheek(1,5);

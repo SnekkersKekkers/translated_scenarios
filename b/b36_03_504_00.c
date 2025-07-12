@@ -13,7 +13,7 @@ MsgDisp("Honda?","You look just as beautiful!");
 MsgDisp("主人公","...Huh? ｛本多＊＊｝, what's going on?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(3,255,4,4,4,-1,-1,0,0);
+ChOpen(3,255,4,4,4,#1,#1,0,0);
 VoicePlay("B360350400_03_010");
 MsgDisp("Honda","Hm? Did it sound odd?");
 ChEye(3,0);
@@ -38,7 +38,7 @@ VoicePlay("B360350400_03_040");
 MsgDisp("Honda","You might be even more beautiful!");
 SEPlay("EV_SE_544",0,0.6);
 MsgClose();
-ChOpen(3,255,4,0,0,-1,-1,0,0);
+ChOpen(3,255,4,0,0,#1,#1,0,0);
 VoicePlay("B360350400_03_050");
 MsgDisp("Honda","...I thought about it, and it didn't turn
 out that different from the cool line, did

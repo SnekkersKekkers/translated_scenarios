@@ -47,13 +47,13 @@ StlMouth(5,1);
 VoicePlay("D120C00200_05_020");
 MsgDisp("Hiiragi","I see, that's a concise way of putting
 it. Thank you for your help, Inori-kun.");
-StlEyeOpenLevel(6,-1);
+StlEyeOpenLevel(6,#1);
 VoicePlay("D120C00200_06_030");
 MsgDisp("Himuro","I'll come up with some ideas to help
 out.");
 StlEyeOpenLevel(5,0,1);
 Wait(6,0);
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 MsgDisp("主人公","(Phew, looks like there's no need to
 worry. This is just a normal
 conversation. They seem close......)");
@@ -69,9 +69,9 @@ SEPlay("EV_SE_SCHOOL_002");
 BGOpen("sc609",0);
 ChLayout(1);
 MsgClose();
-ChOpen(5,254,0,0,4,-1,-1,0,1,0,30);
+ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 Wait(15,0);
-ChOpen(6,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 SEStop("EV_SE_SCHOOL_002",3);
 VoiceEVSPlay(5);

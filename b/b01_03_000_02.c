@@ -5,7 +5,7 @@ MsgDisp("主人公","(Looks like I got here a little early...
 Huh?)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
-ChOpen(3,253,0,0,0,-1,-1,0,0);
+ChOpen(3,253,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛本多＊＊｝!
 Did I have the wrong time?");
 switch (ChPrmGet(3,6)){

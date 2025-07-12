@@ -6,7 +6,7 @@ MsgDisp("主人公","(Yayー!　It was a huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,254,3,0,3,-1,-1,0,0);
+ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200004_02_000");
 MsgDisp("Sassa","｛主人公｝, congratulations.

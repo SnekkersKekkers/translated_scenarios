@@ -6,7 +6,7 @@ MsgDisp("主人公","(......Hmm?
 The boy's room looks lively......)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(21,30,7,0,0,-1,-1,0,0);
+ChOpen(21,30,7,0,0,#1,#1,0,0);
 VoicePlay("Q212100000_21_000");
 MsgDisp("Michiru","Hehe.
 Are you curious? Mari.");

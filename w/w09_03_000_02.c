@@ -3,13 +3,13 @@ switch (ChPrmGet(3,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(3,255,0,0,0,-1,-1,0,0);
+    ChOpen(3,255,0,0,0,#1,#1,0,0);
     VoicePlay("W090300001_03_000");
     MsgDisp("Honda","Well, shall we go?");
     break ;
     case 3:
     MsgClose();
-    ChOpen(3,255,1,0,3,-1,-1,0,0);
+    ChOpen(3,255,1,0,3,#1,#1,0,0);
     VoicePlay("W090300001_03_010");
     MsgDisp("Honda","It's a relaxing ride, but it's 
 impressive when you see it up close!");
@@ -17,7 +17,7 @@ impressive when you see it up close!");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(3,255,4,0,0,-1,-1,0,0);
+    ChOpen(3,255,4,0,0,#1,#1,0,0);
     VoicePlay("W090300001_03_020");
     MsgDisp("Honda","If you look at it this way, there 
 are couples that go on ferris wheels, 

@@ -79,7 +79,7 @@ limited to today though.");
         MsgDisp("Hiiragi","Ahhーーー.");
         MsgDisp("主人公","Ehh∈");
         MsgClose();
-        ChOpen(5,31,0,3,3,-1,-1,0,0,0,30);
+        ChOpen(5,31,0,3,3,#1,#1,0,0,0,30);
         VoicePlay("B040506202_05_080");
         MsgDisp("Hiiragi","How about it, were you surprised?");
         MsgDisp("主人公","Yeah, as expected of an actor,

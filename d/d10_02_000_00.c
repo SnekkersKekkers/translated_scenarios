@@ -2,7 +2,7 @@ BGOpen("sc510",0);
 ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A",0.01);
-ChOpen(2,254,3,0,4,-1,-1,0,0);
+ChOpen(2,254,3,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("D100200000_02_000");

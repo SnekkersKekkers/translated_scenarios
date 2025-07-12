@@ -2,7 +2,7 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,254,4,0,0,0,-1,0,0);
+ChOpen(2,254,4,0,0,0,#1,0,0);
 VoicePlay("P840200000_02_000");
 MsgDisp("Sassa","Phew......");
 MsgDisp("主人公","｛颯砂＊＊｝, are you okay?

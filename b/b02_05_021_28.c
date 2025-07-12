@@ -16,7 +16,7 @@ to wear it as practice clothes...");
 MsgDisp("主人公","Practice clothes?");
 ChMouth(5,4);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B020502128_05_020");
 MsgDisp("Hiiragi","It's nothing. Just being able to find
 fashion in something so casual and easy to

@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     break ;
     case 4:
     case 5:
-    MsgDispSksp(1,-1);
+    MsgDispSksp(1,#1);
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3,1);

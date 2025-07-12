@@ -13,7 +13,7 @@ Next is... organizing the documents.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,0,0,4,-1,-1,0,0);
+    ChOpen(3,254,0,0,4,#1,#1,0,0);
     VoicePlay("P830300000_03_000");
     MsgDisp("Honda","Huh?
 What are you up to?");
@@ -41,7 +41,7 @@ Next is... organizing the documents.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(3,254,1,0,3,-1,-1,0,0);
+    ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoicePlay("P830300000_03_030");
     MsgDisp("Honda","Ah, you're here, you're here.
 You're the unsung hero.");

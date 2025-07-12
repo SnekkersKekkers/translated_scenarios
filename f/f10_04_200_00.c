@@ -6,7 +6,7 @@ Over there is——");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,254,0,1,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,1,0,#1,#1,0,0,0,60);
 VoicePlay("F100420000_04_000");
 MsgDisp("Nanatsumori","…………");
 MsgDisp("主人公","｛七ツ森＊｝.
@@ -33,7 +33,7 @@ ChPosition(4,1);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,254,2,1,0,0,-1,0,2,0,60);
+ChOpen(6,254,2,1,0,0,#1,0,2,0,60);
 VoicePlay("F100420000_06_000");
 MsgDisp("Himuro","What was up with you just now?");
 MsgDisp("主人公","Ah...｛氷室＊＊｝.");

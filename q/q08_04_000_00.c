@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0);
+    ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("Q080400000_04_000");
     MsgDisp("Nanatsumori","Phew!
@@ -29,7 +29,7 @@ you ＯＫ?");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0);
+    ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("Q080400000_04_020");
     MsgDisp("Nanatsumori","I am satisfied.");

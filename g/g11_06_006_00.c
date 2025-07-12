@@ -1,7 +1,7 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
 MsgClose();
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","(Ah, it's ｛氷室＊＊｝!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -20,7 +20,7 @@ MsgClose();
 BGOpen("ev006",1);
 MsgClose();
 BGMPlay("BGM_C06_INORI_I");
-ChOpen(6,100,0,0,0,-1,-1,0,0);
+ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600600_06_000");
 MsgDisp("Himuro","......So, you really came all the way

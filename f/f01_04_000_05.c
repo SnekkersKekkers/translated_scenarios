@@ -55,7 +55,7 @@ Come on, let's go.");
     ScrFadeOut(0,0);
     SEWait();
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,0);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,0);
     break ;
     default :
     DbgAssert(1);

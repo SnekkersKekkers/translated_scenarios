@@ -5,7 +5,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("主人公","｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,254,5,0,0,-1,-1,0,0);
+    ChOpen(2,254,5,0,0,#1,#1,0,0);
     VoicePlay("F010200001_02_000");
     MsgDisp("Sassa","Uh, did you mean me?");
     MsgDisp("主人公","Was it so bad?");
@@ -24,7 +24,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("主人公","｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,254,5,0,0,-1,-1,0,0);
+    ChOpen(2,254,5,0,0,#1,#1,0,0);
     VoicePlay("F010200001_02_020");
     MsgDisp("Sassa","Did you mean me?");
     MsgDisp("主人公","Yeah. Was it bad?");
@@ -45,7 +45,7 @@ Seems like I shouldn't call him that.)");
     MsgDisp("主人公","｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,254,4,0,0,-1,-1,0,0);
+    ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoicePlay("F010200001_02_040");
     MsgDisp("Sassa","Huh?　Just now, were you calling me?");
     MsgDisp("主人公","Uhm, yeah.");

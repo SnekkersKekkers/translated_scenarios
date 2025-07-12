@@ -10,7 +10,7 @@ MsgDisp("主人公","Ah, ｛本多＊＊｝.
 You're working today, huh?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,35,0,0,0,-1,-1,0,0);
+ChOpen(3,35,0,0,0,#1,#1,0,0);
 VoicePlay("G110300100_03_010");
 MsgDisp("Honda","Oh, there aren't many customers today, 
 so it's a bit more relaxed.
@@ -32,7 +32,7 @@ ScrFadeOut(0);
 ChClose(3,0,0);
 MsgClose();
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,1,-1,-1,0,0);
+ChOpen(3,100,0,0,1,#1,#1,0,0);
 SEWait();
 ScrFadeIn(0);
 VoicePlay("G110300100_03_030");

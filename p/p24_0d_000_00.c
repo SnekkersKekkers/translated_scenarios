@@ -12,9 +12,9 @@ VoicePlay("P240D00000_47_010");
 MsgDisp("Opponent","Who's that!");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(21,38,1,0,4,-1,-1,0,1);
+ChOpen(21,38,1,0,4,#1,#1,0,1);
 SEPlay("EV_SE_544");
-ChOpen(22,38,0,0,3,-1,-1,0,2);
+ChOpen(22,38,0,0,3,#1,#1,0,2);
 VoicePlay("P240D00000_21_000");
 MsgDisp("Michiru","You interfere with people's love lives, 
 You should be kicked by a horse!");

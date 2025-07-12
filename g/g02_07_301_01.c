@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(7,255,3,0,0,-1,-1,0,0);
+ChOpen(7,255,3,0,0,#1,#1,0,0);
 VoicePlay("G020730101_07_000");
 MsgDisp("Mikage","There's a lot of fireflies over there.
 Maybe there's a popular person?");
@@ -57,6 +57,6 @@ MsgClose();
 ScrFadeOut(0,0);
 BGMStop();
 ChLayout(1);
-ChEyeOpenLevel(7,-1);
-ChMouthOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
+ChMouthOpenLevel(7,#1);
 ChCheek(7,0);

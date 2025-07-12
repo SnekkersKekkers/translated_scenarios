@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
 It kinda... feels like we're 
 living together, doesn't it?");
     MsgDispSksp(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

@@ -16,7 +16,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C04_NANA_A",0.01);
 ChNanaType(1);
-ChOpen(4,35,0,2,1,-1,-1,0,0,0,60);
+ChOpen(4,35,0,2,1,#1,#1,0,0,0,60);
 MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 Are you on your way to work?");
 ChMotion(4,1,1);

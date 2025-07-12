@@ -7,7 +7,7 @@ MsgDisp("主人公","(I'm glad! Seems like my first performance
 was a success!)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(2,254,3,0,3,-1,-1,0,0);
+ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoicePlay("P540200000_02_000");
 MsgDisp("Sassa","Yay! The audience even stood up.");
 MsgDisp("主人公","Thank you, ｛颯砂＊＊｝!");

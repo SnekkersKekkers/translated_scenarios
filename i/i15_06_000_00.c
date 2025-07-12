@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I150600000_06_000");
     MsgDisp("Himuro","What?");
     MsgDisp("主人公","Are you...... shopping?");
@@ -42,7 +42,7 @@ Huh, ｛氷室＊＊｝?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I150600000_06_030");
     MsgDisp("Himuro","What?
 I can't come here?");
@@ -99,7 +99,7 @@ Did he really come here to shop?)");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I150600000_06_090");
     MsgDisp("Himuro","Working hard?");
     MsgDisp("主人公","Yeah, I guess.");

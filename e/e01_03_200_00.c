@@ -13,8 +13,8 @@ MsgDisp("主人公","Huh, those voices......
 ｛本多＊＊｝ and ｛風真＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(1,35,0,0,2,-1,-1,0,1,0,30);
-ChOpen(3,35,0,0,0,-1,-1,0,2,0,30);
+ChOpen(1,35,0,0,2,#1,#1,0,1,0,30);
+ChOpen(3,35,0,0,0,#1,#1,0,2,0,30);
 ChEye(1,3);
 ChMotion(1,3);
 VoicePlay("E010320000_01_010");

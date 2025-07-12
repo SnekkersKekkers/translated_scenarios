@@ -19,7 +19,7 @@ BGMPlay("BGM_C02_SASSA_A");
 BGOpen("ev002",0);
 BGMVol(0.5,2);
 SEPlay("EV_SE_FOOT_037");
-ChOpen(2,100,0,1,0,-1,-1,0,0);
+ChOpen(2,100,0,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200900_02_000");

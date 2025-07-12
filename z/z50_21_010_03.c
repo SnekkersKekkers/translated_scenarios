@@ -1,6 +1,6 @@
 BGOpen("ex000",0);
 ChLayout(1);
-ChOpen(21,255,3,4,0,-1,-1,0,0);
+ChOpen(21,255,3,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(21,4);
 ChMouth(21,0);

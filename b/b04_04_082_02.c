@@ -108,7 +108,7 @@ was 5 years old.");
         MsgDisp("主人公","I guess it's become a trauma for you...");
         ChMouth(4,2);
         ChMotion(4,0,1);
-        ChEyeOpenLevel(4,-1);
+        ChEyeOpenLevel(4,#1);
         VoicePlay("B040408202_04_120");
         MsgDisp("Nanatsumori","Right...
 Since then, insects and groups of 

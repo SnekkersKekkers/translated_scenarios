@@ -12,7 +12,7 @@ it's finally the runway...I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700000_07_000");
     MsgDisp("Mikage","Might it be, 
 that you're nervous?");
@@ -69,7 +69,7 @@ it's finally the runway...I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P730700000_07_070");
     MsgDisp("Mikage","｛主人公｝.

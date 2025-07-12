@@ -49,7 +49,7 @@ More like the Habataki Merlion.");
 Can't you just kind of paddle your way
 through?");
     MsgDispSksp(1,7);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

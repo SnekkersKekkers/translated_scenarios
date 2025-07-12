@@ -108,7 +108,7 @@ Let's go.");
 a married couple maybe?)");
         MsgClose();
         ScrFadeOut(0,0);
-        ChOpen(1,255,0,0,0,-1,-1,0,0,0,0);
+        ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);
         break ;
         default :
         DbgAssert(1);

@@ -1,6 +1,6 @@
 BGDateAfterOpen();
 ChLayout(1);
-MsgDispSksp(1,-1);
+MsgDispSksp(1,#1);
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);

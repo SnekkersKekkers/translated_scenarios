@@ -1,7 +1,7 @@
 MsgClose();
 BGOpen("ho000",2);
-ChNanaType(-1);
-ChOpen(4,253,1,0,0,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,253,1,0,0,#1,#1,0,0);
 VoicePlay("B080400001_04_020");
 MsgDisp("Nanatsumori","What's wrong.
 Did you get a weird phone call?");

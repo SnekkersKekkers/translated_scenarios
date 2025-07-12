@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("S090500000_05_000");
     MsgDisp("Hiiragi","They're doing fortunes over there.
 Want to try your luck this year?");
@@ -49,7 +49,7 @@ ones.");
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(5,255,0,2,4,-1,-1,0,0);
+    ChOpen(5,255,0,2,4,#1,#1,0,0);
     VoicePlay("S090500000_05_040");
     MsgDisp("Hiiragi","The fortune stand is so popular.");
     MsgDisp("主人公","It really is. So many people.");
@@ -91,7 +91,7 @@ type of person to pull fortunes.)");
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(5,255,2,0,4,-1,-1,0,0);
+    ChOpen(5,255,2,0,4,#1,#1,0,0);
     VoicePlay("S090500000_05_080");
     MsgDisp("Hiiragi","Are you waiting for your turn
 over there too?");

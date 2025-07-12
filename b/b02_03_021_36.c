@@ -15,4 +15,4 @@ MsgDisp("Honda","You get full marks!
 That's the best look I've ever seen!");
 MsgDisp("主人公","(Awesome, I got a compliment!
 I'm glad I checked the trends!)");
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);

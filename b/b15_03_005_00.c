@@ -1,6 +1,6 @@
 BGOpen("ho000",2);
 ChLayout(1);
-ChOpen(3,255,5,0,4,-1,-1,0,0);
+ChOpen(3,255,5,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300500_03_000");
 MsgDisp("Honda","Phew, I managed to hold on...");
@@ -36,7 +36,7 @@ SEPlay("EV_SE_504");
 SEWait();
 ChLayout(0);
 SEPlay("EV_SE_544");
-ChOpen(3,255,4,0,4,-1,-1,0,0);
+ChOpen(3,255,4,0,4,#1,#1,0,0);
 VoicePlay("B150300500_03_050");
 MsgDisp("Honda","I figured it out. That overflowing feeling
 that felt like it might burst while you
@@ -58,7 +58,7 @@ reached my limit.");
 MsgDisp("主人公","｛本多＊＊｝...");
 ChClose(3);
 ChLayout(1);
-ChOpen(3,255,5,3,3,0,-1,0,0);
+ChOpen(3,255,5,3,3,0,#1,0,0);
 VoicePlay("B150300500_03_080");
 MsgDisp("Honda","Ah, I feel reset now! Yeah, I'm good now.");
 ChEye(3,0);

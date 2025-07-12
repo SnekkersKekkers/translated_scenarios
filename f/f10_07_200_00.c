@@ -14,8 +14,8 @@ MsgClose();
 MsgDisp("主人公","(Ah, ｛御影＊＊｝ is already here.
 With him is...)");
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(7,37,0,0,0,-1,-1,0,1,0,30);
-ChOpen(5,254,0,0,4,-1,-1,0,2,0,30);
+ChOpen(7,37,0,0,0,#1,#1,0,1,0,30);
+ChOpen(5,254,0,0,4,#1,#1,0,2,0,30);
 VoicePlay("F100720000_05_000");
 MsgDisp("Hiiragi","Ah, so it's you.
 It is almost time for class to start, 
@@ -77,7 +77,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 MsgClose();
 ChClose(7,0,30);
-ChOpen(7,37,0,0,0,-1,-1,0,0,0,30);
+ChOpen(7,37,0,0,0,#1,#1,0,0,0,30);
 MsgDisp("主人公","｛柊＊＊＊｝ seemed to be having a 
 lot of fun.");
 ChEye(7,0);

@@ -91,7 +91,7 @@ Here, come inside.");
         ChLayout(0);
         MsgClose();
         SEPlay("EV_SE_544");
-        ChOpen(1,255,0,0,3,-1,-1,0,0,0,30);
+        ChOpen(1,255,0,0,3,#1,#1,0,0,0,30);
         MsgDisp("主人公","I'm sorry.
 This is going to get you soaked,
 so let's go inside.");

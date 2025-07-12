@@ -11,7 +11,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,2,-1,-1,0,0);
+ChOpen(3,100,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛本多＊＊｝, are you still organizing the
 bookshelf?");
@@ -34,7 +34,7 @@ ScrFadeOut(0);
 ChClose(3,0,0);
 MsgClose();
 BGOpen("ar600",0);
-ChOpen(3,35,4,0,4,-1,-1,0,0);
+ChOpen(3,35,4,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("G110300503_03_020");

@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C04_NANA_A",0.01);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(4,6)){
     case 0:

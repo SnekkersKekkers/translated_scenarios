@@ -8,7 +8,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛御影＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C07_MIKAGE_A",0.01);
-        ChOpen(7,254,0,0,0,-1,-1,0,0);
+        ChOpen(7,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010700002_07_000");
         MsgDisp("Mikage","Oh, what is it?");
         MsgDisp("主人公","If it's okay, can we go home together?");
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛御影＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C07_MIKAGE_A",0.01);
-        ChOpen(7,254,0,0,0,-1,-1,0,0);
+        ChOpen(7,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010700002_07_010");
         MsgDisp("Mikage","Hm? Do you want something?");
         MsgDisp("主人公","Yes.
@@ -28,7 +28,7 @@ If it's okay, can we go home together?");
         MsgDisp("主人公","｛御影＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C07_MIKAGE_A",0.01);
-        ChOpen(7,254,0,0,0,-1,-1,0,0);
+        ChOpen(7,254,0,0,0,#1,#1,0,0);
         VoicePlay("SS0007005_07_000");
         MsgDisp("Mikage","Hm? Do you want something?");
         MsgDisp("主人公","Yes.
@@ -43,7 +43,7 @@ If it's okay, can we go home together?");
     MsgDisp("主人公","｛御影＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","If it's okay, how about we go to a cafe?");
     break ;
     case 2:

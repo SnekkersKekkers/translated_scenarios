@@ -9,8 +9,8 @@ little bit of sweetness.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
-ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
-ChOpen(2,254,3,0,4,-1,-1,0,2,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
+ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 VoicePlay("Q110A00000_02_000");
 MsgDisp("Sassa","Sorry to keep you waiting!
 I bought a little too much.");
@@ -114,8 +114,8 @@ Thanks for the present.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(1,-1);
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(1,#1);
+ChEyeOpenLevel(2,#1);
 ChCheek(1,0);
 ChCheek(2,0);
 MsgDisp("","　　　　　　　　　　 ・

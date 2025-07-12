@@ -5,8 +5,8 @@ MsgDisp("主人公","(Well, I guess it's time to head home.
 ......Huh?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(2,255,3,0,4,-1,-1,0,1,0,30);
-ChOpen(6,255,0,0,0,-1,-1,0,2,0,30);
+ChOpen(2,255,3,0,4,#1,#1,0,1,0,30);
+ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","｛颯砂＊＊｝, ｛氷室＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);

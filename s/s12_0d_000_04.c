@@ -1,10 +1,10 @@
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(21,-1);
-ChMouthOpenLevel(21,-1);
+ChEyeOpenLevel(21,#1);
+ChMouthOpenLevel(21,#1);
 ChCheek(21,0);
-ChEyeOpenLevel(22,-1);
-ChMouthOpenLevel(22,-1);
+ChEyeOpenLevel(22,#1);
+ChMouthOpenLevel(22,#1);
 ChCheek(22,0);
 BGOpen("ex020",0);
 ChLayout(1);
@@ -55,7 +55,7 @@ ChEyeOpenLevel(22,0);
 VoicePlay("S120D00004_22_020");
 MsgDisp("Hikaru","Yayy!
 As usual, I love you, Mari▼");
-ChEyeOpenLevel(22,-1);
+ChEyeOpenLevel(22,#1);
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);

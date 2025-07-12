@@ -4,7 +4,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_737");
 SEWait();
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("Q010703200_07_000");
 MsgDisp("Mikage","Alright, fun's over—!");
 VoicePlay("Q010703200_42_000");

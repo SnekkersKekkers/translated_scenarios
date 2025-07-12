@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,30,0,0,4,-1,-1,0,0);
+    ChOpen(5,30,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030500002_05_000");
     MsgDisp("Hiiragi","Staying in sync is quite difficult,
@@ -16,7 +16,7 @@ I wish I had tried a little harder......)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,30,4,2,4,0,-1,0,0);
+    ChOpen(5,30,4,2,4,0,#1,0,0);
     ScrFadeIn(0);
     ChEyeOpenLevel(5,9);
     VoiceEVSPlay(5);
@@ -39,7 +39,7 @@ I wish I had tried a little harder......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,30,0,4,4,-1,-1,0,0);
+    ChOpen(5,30,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(5);
     VoicePlay("O030500002_05_030");

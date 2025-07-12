@@ -15,7 +15,7 @@ VoicePlay("D130A00200_06_000");
 MsgDisp("Himuro?","What's with this melancholy?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝...
 it's just that I was thinking about
 how little time I have 
@@ -35,7 +35,7 @@ What are you two up do?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(6,1);
 MsgClose();
-ChOpen(2,254,3,0,4,-1,-1,0,2);
+ChOpen(2,254,3,0,4,#1,#1,0,2);
 VoicePlay("D130A00200_06_020");
 MsgDisp("Himuro","We were just thinking about England.");
 ChEye(2,0);

@@ -14,7 +14,7 @@ in the Gardening Club...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P630400002_04_000");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -52,7 +52,7 @@ in the Gardening Club...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,5,4,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,5,4,#1,#1,0,0,0,60);
     VoicePlay("P630400002_04_040");
     MsgDisp("Nanatsumori","Ohー...");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!

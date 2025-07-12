@@ -15,7 +15,7 @@ make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,2,2,8,-1,7,0);
+    ChOpen(1,254,0,2,2,8,#1,7,0);
     ChMotion(1,3);
     VoicePlay("P730100002_01_000");
     MsgDisp("Kazama","Ha, the destructive power...");
@@ -70,7 +70,7 @@ make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,4,2,-1,-1,7,0);
+    ChOpen(1,254,0,4,2,#1,#1,7,0);
     VoicePlay("P730100002_01_050");
     MsgDisp("Kazama","I'm the type of person who 
 saves what they enjoy for later...");

@@ -1,7 +1,7 @@
 BGOpen("bh110",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(1,0);
 ChMouth(1,3);

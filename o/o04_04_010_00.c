@@ -11,7 +11,7 @@ Ah, it's ｛七ツ森＊｝.");
     SEPlay("EV_SE_625");
     SEWait();
     ChNanaType(0);
-    ChOpen(4,30,0,2,2,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,2,2,#1,#1,0,0,0,60);
     ChMotion(4,1,1);
     VoicePlay("O040401000_04_000");
     MsgDisp("Nanatsumori","How annoying......");
@@ -25,7 +25,7 @@ Ah, it's ｛七ツ森＊｝.");
     SEPlay("EV_SE_625");
     SEWait();
     ChNanaType(0);
-    ChOpen(4,30,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O040401000_04_010");
     MsgDisp("Nanatsumori","Hm?
 I'm on the same team as you?");
@@ -43,7 +43,7 @@ this, right?");
     SEPlay("EV_SE_625");
     SEWait();
     ChNanaType(0);
-    ChOpen(4,30,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("O040401000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.

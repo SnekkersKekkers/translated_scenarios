@@ -12,7 +12,7 @@ I shall take you to the ball.");
 VoicePlay("P240101000_44_000");
 MsgDisp("Cinderella","What a wonderful carriage.");
 MsgClose();
-ChOpen(1,30,0,0,0,-1,-1,0,0);
+ChOpen(1,30,0,0,0,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("P240101000_01_000");
 MsgDisp("Kazama","How is it holding up?

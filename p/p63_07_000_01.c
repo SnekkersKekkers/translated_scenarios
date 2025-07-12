@@ -12,7 +12,7 @@ vegetables. It would be nice if the
 vegetables everyone grew was well
 received.)");
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700001_07_000");
     MsgDisp("Mikage","This year has had a 
 good start, hasn;t it?");
@@ -44,7 +44,7 @@ vegetables. It would be nice if the
 vegetables everyone grew was well
 received.)");
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P630700001_07_030");
     MsgDisp("Mikage","｛主人公｝, 
@@ -83,5 +83,5 @@ for sound sleep then!");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

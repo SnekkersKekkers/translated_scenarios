@@ -11,8 +11,8 @@ MsgDisp("Hiiragi?","Yes,
 It was a gift from an audience member.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(2,254,3,0,4,-1,-1,0,1);
-ChOpen(5,254,0,0,4,-1,-1,0,2);
+ChOpen(2,254,3,0,4,#1,#1,0,1);
+ChOpen(5,254,0,0,4,#1,#1,0,2);
 MsgDisp("主人公","(Ah, ｛颯砂＊＊｝ and ｛柊＊＊＊｝.
 That means...)");
 MsgDisp("主人公","Is this the hot spring club?");

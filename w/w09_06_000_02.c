@@ -3,13 +3,13 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,255,0,0,0,-1,-1,0,0);
+    ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("W090600002_06_000");
     MsgDisp("Himuro","Don't worry about me, I'm going to bed.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(6,255,2,0,0,0,-1,0,0);
+    ChOpen(6,255,2,0,0,0,#1,0,0);
     VoicePlay("W090600002_06_010");
     MsgDisp("Himuro","I wonder how long this hang out will
 last.");
@@ -17,7 +17,7 @@ last.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,255,2,0,0,0,-1,0,0);
+    ChOpen(6,255,2,0,0,0,#1,0,0);
     VoicePlay("W090600002_06_020");
     MsgDisp("Himuro","I'm glad I went with you.");
     MsgDisp("主人公","Hehe, I'm glad to hear that!");

@@ -5,7 +5,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 MsgClose();
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","It's so beautiful... Hey, ｛本多＊＊｝!");
 ChEye(3,4);

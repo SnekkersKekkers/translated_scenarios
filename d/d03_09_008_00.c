@@ -5,7 +5,7 @@ MsgDisp("主人公","(Huh?
 Over there, is that......)");
 MsgClose();
 BGMPlay("BGM_C09_KUYA_A",0.01);
-ChOpen(9,254,0,3,0,0,-1,0,0);
+ChOpen(9,254,0,3,0,0,#1,0,0);
 VoicePlay("D030900800_09_000");
 MsgDisp("Kuya","Okay, everything is fixed!");
 VoicePlay("D030900800_44_000");

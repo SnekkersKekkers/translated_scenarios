@@ -7,7 +7,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGOpen("tr110",1);
 ChLayout(1);
 MsgClose();
-ChOpen(5,32,0,2,4,0,-1,0,0);
+ChOpen(5,32,0,2,4,0,#1,0,0);
 ScrFadeIn(0);
 ChEye(5,2);
 ChMotion(5,1);
@@ -91,7 +91,7 @@ VoicePlay("B050500300_05_090");
 MsgDisp("Hiiragi","You're making that face again.
 That is pretty much all there is to
 that story.");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("B050500300_05_100");
 MsgDisp("Hiiragi","If you look at me like that every time,
@@ -117,7 +117,7 @@ VoicePlay("B050500300_05_130");
 MsgDisp("Hiiragi","Huh, perhaps I'm a bit drunk?");
 MsgDisp("主人公","Hehe, geez.
 I guess it's the amazake.");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("B050500300_05_140");
 MsgDisp("Hiiragi","Haha, you finally laughed.");

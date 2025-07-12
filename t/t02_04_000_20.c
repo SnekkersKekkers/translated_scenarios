@@ -9,7 +9,7 @@ ChCheek(4,5);
 VoicePlay("T020400000_04_180");
 MsgDisp("Nanatsumori","…………");
 ChEye(4,4);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("T020400000_04_190");
 MsgDisp("Nanatsumori","I wanted that answer.
 ......Thank you.");

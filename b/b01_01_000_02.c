@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,253,0,0,0,-1,-1,0,0);
+    ChOpen(1,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010100002_01_000");
     MsgDisp("Kazama","Hmm?　You're early.");
     MsgDisp("主人公","So are you, ｛風真＊＊｝.");
@@ -25,7 +25,7 @@ anyway.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,253,0,0,0,-1,-1,0,0);
+    ChOpen(1,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010100002_01_020");
     MsgDisp("Kazama","Oh, aren't you early.");
     ChEye(1,4);
@@ -54,7 +54,7 @@ to it so much you couldn't wait?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,253,0,4,2,-1,-1,0,0);
+    ChOpen(1,253,0,4,2,#1,#1,0,0);
     MsgDisp("主人公","Aren't you here early, ｛風真＊＊｝?");
     ChEye(1,0);
     ChMouth(1,4);

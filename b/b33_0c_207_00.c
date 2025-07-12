@@ -12,9 +12,9 @@ ScrFadeOut(1,0,40);
 SEPlay("EV_SE_817");
 BGOpen("tr420",0);
 ChLayout(2);
-ChOpen(6,255,0,0,3,-1,-1,0,3);
-ChOpen(5,255,0,4,4,-1,-1,0,3);
-ChOpen(7,255,0,2,2,0,-1,0,3);
+ChOpen(6,255,0,0,3,#1,#1,0,3);
+ChOpen(5,255,0,4,4,#1,#1,0,3);
+ChOpen(7,255,0,2,2,0,#1,0,3);
 Wait(70,1);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -105,7 +105,7 @@ ChClose(5);
 ChLayout(1);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 ChEye(5,3);
 VoicePlay("B330C20700_05_050");
 MsgDisp("Hiiragi","Thank you.
@@ -124,6 +124,6 @@ MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
 ChLayout(2);
-ChOpen(6,253,7,0,0,-1,-1,0,3,0,0);
-ChOpen(5,253,7,0,0,-1,-1,0,3,0,0);
-ChOpen(7,253,7,0,0,-1,-1,0,3,0,0);
+ChOpen(6,253,7,0,0,#1,#1,0,3,0,0);
+ChOpen(5,253,7,0,0,#1,#1,0,3,0,0);
+ChOpen(7,253,7,0,0,#1,#1,0,3,0,0);

@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgClose();
 BGMPlay("BGM_C06_INORI_A",0.01);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("D100600000_06_000");
 MsgDisp("Himuro","Hello.");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝.

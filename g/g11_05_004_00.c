@@ -6,7 +6,7 @@ What shall I do?
 ......Ah, it's ｛柊＊＊＊｝.)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(5,254,0,0,4,-1,-1,0,0);
+ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("G110500400_05_000");
 MsgDisp("Hiiragi","｛主人公｝, 
@@ -47,7 +47,7 @@ SEPlay("EV_SE_596",0,0.5);
 SEWait();
 BGOpen("ev005",0);
 MsgClose();
-ChOpen(5,100,0,0,1,-1,-1,0,0);
+ChOpen(5,100,0,0,1,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110500400_05_030");
@@ -70,7 +70,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500400_05_050");
 MsgDisp("Hiiragi","Because, when I see you, You're calmly
@@ -94,7 +94,7 @@ My paintings and ｛柊＊＊＊｝'s work
 can't just be lumped in as the same?");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500400_05_080");
 MsgDisp("Hiiragi","And just like that, you're concerned for
 my welfare again.");

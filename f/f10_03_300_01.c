@@ -8,9 +8,9 @@ MsgDisp("主人公","Hm?");
 MsgDisp("主人公","｛ひかる＊｝, what's everyone up to?");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(22,254,0,0,3,-1,-1,0,1,0,30);
-ChOpen(3,254,0,0,0,-1,-1,0,0,0,30);
-ChOpen(21,254,4,0,3,-1,-1,0,2,0,30);
+ChOpen(22,254,0,0,3,#1,#1,0,1,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,0,0,30);
+ChOpen(21,254,4,0,3,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100330001_22_010");
 MsgDisp("Hikaru","Honda-kun's little sister is

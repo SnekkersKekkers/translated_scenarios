@@ -7,7 +7,7 @@ VoicePlay("E010810000_08_000");
 MsgDisp("Daichi?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
-ChOpen(8,255,0,0,0,-1,-1,0,0);
+ChOpen(8,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛大地＊＊｝!");
 VoicePlay("E010810000_08_010");
 MsgDisp("Shirahane","What a coincidence.
@@ -67,6 +67,6 @@ But I'm curious to try the Shirahane
 family's special curry.)");
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(8,-1);
-ChMouthOpenLevel(8,-1);
+ChEyeOpenLevel(8,#1);
+ChMouthOpenLevel(8,#1);
 ChCheek(8,0);

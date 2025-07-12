@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(｛大地＊＊｝ still isn't here...)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(33,254,0,0,0,-1,-1,0,0);
+ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110800000_33_000");
 MsgDisp("Guy","I'll teach you about this
 world's true form.");
@@ -33,7 +33,7 @@ ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,253,0,3,4,10,-1,0,1);
+ChOpen(8,253,0,3,4,10,#1,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","｛大地＊＊｝！");
 MsgDispSksp(1,5);

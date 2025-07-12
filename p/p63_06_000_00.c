@@ -10,7 +10,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","(I gave my best doing preparations but I
 wonder if everyone will come...?)");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600000_06_000");
     MsgDisp("Himuro","Is this the Gardening Club?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.
@@ -32,8 +32,8 @@ Then, I'll have some.");
     MsgDisp("主人公","Yes, right awayー!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(6,-1);
-    ChMouth(6,-1);
+    ChEye(6,#1);
+    ChMouth(6,#1);
     ChCheek(6,0);
     break ;
     case 4:
@@ -43,7 +43,7 @@ Then, I'll have some.");
     MsgDisp("主人公","(I gave my best doing preparations but I
 wonder if everyone will come...?)");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600000_06_030");
     MsgDisp("Himuro","I came.");
     MsgDisp("主人公","｛氷室＊＊｝!
@@ -78,8 +78,8 @@ by the Gardening Club.");
     MsgDisp("Himuro","...What's with that enthusiasm.");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(6,-1);
-    ChMouth(6,-1);
+    ChEye(6,#1);
+    ChMouth(6,#1);
     ChCheek(6,0);
     break ;
     default :

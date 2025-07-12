@@ -4,7 +4,7 @@ switch (ChPrmGet(2,6)){
     case 2:
     case 3:
     MsgClose();
-    ChOpen(2,254,3,0,3,-1,-1,0,0);
+    ChOpen(2,254,3,0,3,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110200001_02_000");
@@ -25,7 +25,7 @@ activities!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,254,3,0,3,-1,-1,0,0);
+    ChOpen(2,254,3,0,3,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110200001_02_020");

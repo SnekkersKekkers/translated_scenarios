@@ -7,7 +7,7 @@ MsgDisp("主人公","(Haa... maybe I didn't
 practice enough...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(5,254,0,4,4,-1,-1,0,0);
+ChOpen(5,254,0,4,4,#1,#1,0,0);
 VoicePlay("P540500003_05_000");
 MsgDisp("Hiiragi","That was an interesting sound.
 I've become a little curious

@@ -43,7 +43,7 @@ maybe I'm just overthinking it.");
     case 2:
     DateRateSet(1);
     ChMotion(4,1,1);
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     VoicePlay("B040408101_04_030");
     MsgDisp("Nanatsumori","I didn't say that.");
     MsgDateResultDisp();

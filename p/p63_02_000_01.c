@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
 vegetable sale. It would be nice if it was
 well-received...)");
     MsgClose();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200001_02_000");
     MsgDisp("Sassa","｛主人公｝,
@@ -41,8 +41,8 @@ and some herbal tea too, please.");
 One customer, this way～!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(2,-1);
-    ChMouth(2,-1);
+    ChEye(2,#1);
+    ChMouth(2,#1);
     ChCheek(2,0);
     break ;
     case 4:
@@ -53,7 +53,7 @@ One customer, this way～!");
 vegetable sale. It would be nice if it was
 well-received...)");
     MsgClose();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200001_02_030");
     MsgDisp("Sassa","｛主人公｝,
@@ -104,8 +104,8 @@ you, and a herb tea please");
 Then, follow me to your table.");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(2,-1);
-    ChMouth(2,-1);
+    ChEye(2,#1);
+    ChMouth(2,#1);
     ChCheek(2,0);
     break ;
     default :

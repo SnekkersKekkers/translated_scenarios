@@ -3,7 +3,7 @@ BGMPlay("BGM_C04_NANA_C",0.01);
 ChLayout(1);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,2,0,-1,-1,0,0);
+ChOpen(4,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("D100410000_04_000");
@@ -36,7 +36,7 @@ MsgClose();
 ChClose(4);
 ChLayout(0);
 ChNanaType(0);
-ChOpen(4,254,0,0,3,-1,-1,0,0);
+ChOpen(4,254,0,0,3,#1,#1,0,0);
 SEPlay("EV_SE_544");
 MsgDisp("主人公","This is sort of embarrassing......
 Ahhh......");

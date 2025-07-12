@@ -62,7 +62,7 @@ Wait(80,0);
 SEPlay("EV_SE_628");
 Wait(30,0);
 MsgClose();
-ChOpen(1,33,0,0,3,-1,-1,7,0,0,30);
+ChOpen(1,33,0,0,3,#1,#1,7,0,0,30);
 ChMotion(1,1);
 VoicePlay("B040106401_01_070");
 MsgDisp("Kazama","Let's go, it's starting. I just got told a

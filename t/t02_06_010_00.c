@@ -10,7 +10,7 @@ Wait(60);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C06_INORI_KOKU",0.01);
-ChOpen(6,254,7,0,0,-1,-1,0,0);
+ChOpen(6,254,7,0,0,#1,#1,0,0);
 VoicePlay("T020601000_06_010");
 MsgDisp("Himuro","That's good, you're here......");
 MsgDisp("主人公","｛氷室＊＊｝.");
@@ -65,7 +65,7 @@ ChClose(6);
 ChCustomLayout(6,5,0,-2.5);
 Wait(60);
 SEPlay("EV_SE_544");
-ChOpen(6,254,7,4,0,-1,-1,0,0,0,120);
+ChOpen(6,254,7,4,0,#1,#1,0,0,0,120);
 VoicePlay("T020601000_06_090");
 MsgDisp("Himuro","Yes. 
 I've always liked you.");

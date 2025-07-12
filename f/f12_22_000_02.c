@@ -2,7 +2,7 @@ BGOpen("sc500",1);
 ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C22_HIKARU_A",0.01);
-ChOpen(22,254,0,0,3,-1,-1,0,0);
+ChOpen(22,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F122200002_22_000");
 MsgDisp("Hikaru","Mari, let's go home together～");

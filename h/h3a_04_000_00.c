@@ -5,7 +5,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0);
+    ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0400000_04_000");
     MsgDisp("Nanatsumori","You were cool.");
@@ -26,7 +26,7 @@ Today's the best day ever!)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0);
+    ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(4);
     VoicePlay("H3A0400000_04_020");

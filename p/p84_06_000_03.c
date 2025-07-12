@@ -7,7 +7,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,254,2,1,0,0,-1,0,0);
+ChOpen(6,254,2,1,0,0,#1,0,0);
 VoicePlay("P840600003_06_000");
 MsgDisp("Himuro","Have you still not found it?");
 MsgDisp("主人公","Yeah.

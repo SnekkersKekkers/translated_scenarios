@@ -10,7 +10,7 @@ switch (ChPrmGet(7,6)){
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,38,0,2,0,-1,-1,0,0);
+    ChOpen(7,38,0,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(7,2);
     ChMouth(7,0);
@@ -62,5 +62,5 @@ until now go to waste...");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

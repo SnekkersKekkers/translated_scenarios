@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("Q040400000_04_000");
     MsgDisp("Nanatsumori","Hm?");
     MsgDisp("主人公","If you're cool with it, do you wanna look
@@ -18,7 +18,7 @@ around together for today's free period?");
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("Q040400000_04_010");
     MsgDisp("Nanatsumori","Mornin'. You're really energetic today,
 huh.");
@@ -31,7 +31,7 @@ time?");
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
-    ChOpen(4,254,0,0,3,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("Q040400000_04_020");
     MsgDisp("Nanatsumori","｛主人公｝.

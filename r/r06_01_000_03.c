@@ -3,7 +3,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,34,0,0,0,-1,-1,0,0);
+    ChOpen(1,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("R060100003_01_000");
     MsgDisp("Kazama","｛主人公｝.
@@ -29,7 +29,7 @@ Alright, let's open them.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,34,0,0,3,10,-1,0,0);
+    ChOpen(1,34,0,0,3,10,#1,0,0);
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("R060100003_01_030");
@@ -64,7 +64,7 @@ shall we open our gifts?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,34,0,0,3,-1,-1,0,0);
+    ChOpen(1,34,0,0,3,#1,#1,0,0);
     ChEye(1,3);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -100,6 +100,6 @@ Can I open my gift then?");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

@@ -1,7 +1,7 @@
 BGMStop();
 BGOpen("sc810",0);
-ChOpen(1,254,0,0,3,-1,-1,0,1,0,30);
-ChOpen(2,254,3,0,4,-1,-1,0,2,0,30);
+ChOpen(1,254,0,0,3,#1,#1,0,1,0,30);
+ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","It was so much fun!
 Thanks to you both.");

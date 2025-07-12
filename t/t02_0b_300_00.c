@@ -9,7 +9,7 @@ VoiceEVSPlay(1);
 VoicePlay("T020B30000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 BGMPlay("BGM_HANYOU_D",0.01);
-ChOpen(1,254,0,4,3,-1,-1,0,0);
+ChOpen(1,254,0,4,3,#1,#1,0,0);
 MsgDisp("主人公","｛風真＊＊｝!
 You're back!");
 MsgDisp("主人公","But...the graduation ceremony is 
@@ -17,7 +17,7 @@ already over.");
 ChClose(1,0,30);
 ChLayout(0);
 SEPlay("EV_SE_544");
-ChOpen(1,254,0,2,3,8,-1,0,0,0,30);
+ChOpen(1,254,0,2,3,8,#1,0,0,0,30);
 VoicePlay("T020B21000_01_010");
 MsgDisp("Kazama","Sorry. I did try to hurry though.");
 MsgDisp("主人公","Yeah.
@@ -62,9 +62,9 @@ VoicePlay("T020B21000_01_060");
 MsgDisp("Kazama","This is......");
 ChClose(1,0,30);
 ChLayout(1);
-ChOpen(1,254,0,2,3,0,-1,0,1,0,30);
+ChOpen(1,254,0,2,3,0,#1,0,1,0,30);
 SEPlay("EV_SE_544");
-ChOpen(3,254,1,3,3,-1,-1,0,2);
+ChOpen(3,254,1,3,3,#1,#1,0,2);
 VoicePlay("T020B21000_03_000");
 MsgDisp("Honda","Welcome back Ryota-kun! I'm glad we were
 able to graduate together.");
@@ -101,17 +101,17 @@ MsgClose();
 BGOpen("sc130",1);
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,2,0,-1,-1,0,0);
+ChOpen(4,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("T020B21000_04_000");
 MsgDisp("Nanatsumori","Haa... you're finally here.");
 ChClose(4,0,30);
 ChLayout(2);
 ChNanaType(0);
-ChOpen(4,254,0,2,0,-1,-1,0,1,0,30);
+ChOpen(4,254,0,2,0,#1,#1,0,1,0,30);
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
-ChOpen(1,254,0,0,3,-1,-1,0,0,0,30);
-ChOpen(3,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(1,254,0,0,3,#1,#1,0,0,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("T020B21000_01_080");
 MsgDisp("Kazama","I'm late, but I made it just in time,
 right?");

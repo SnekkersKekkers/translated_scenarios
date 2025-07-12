@@ -119,7 +119,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Thanks for today, ｛氷室＊＊｝.
 It had a great time!");
 MsgClose();
-ChOpen(6,255,0,0,4,-1,-1,0,0);
+ChOpen(6,255,0,0,4,#1,#1,0,0);
 VoicePlay("D010600300_06_130");
 MsgDisp("Himuro","You're welcome.
 Whenever you're ready, we can do this

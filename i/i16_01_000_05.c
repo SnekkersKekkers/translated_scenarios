@@ -8,13 +8,13 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,2,4,2,0,-1,0,0);
+    ChOpen(1,35,2,4,2,0,#1,0,0);
     Wait(15,0);
     ChEyeOpenLevel(1,10);
     VoicePlay("I160100005_01_000");
     MsgDisp("Kazama","Lately, a lot has been selling out,
 not just the items on display......");
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDisp("主人公","Yeah...... is it that all the
 other items selling out are related
 to the ones on display?");
@@ -38,7 +38,7 @@ Let's keep it up.)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,35,2,4,2,0,-1,0,0);
+    ChOpen(1,35,2,4,2,0,#1,0,0);
     Wait(15,0);
     ChEyeOpenLevel(1,10);
     VoicePlay("I160100005_01_030");

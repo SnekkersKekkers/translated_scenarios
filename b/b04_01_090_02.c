@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040109002_01_010");
     MsgDisp("Kazama","Yep.
 With delicious cakes and cookies, too.");
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

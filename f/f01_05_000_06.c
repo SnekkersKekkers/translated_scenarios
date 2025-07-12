@@ -58,7 +58,7 @@ Ha, what am I saying?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     MsgDisp("主人公","(Sounds like a lot of work for
 ｛柊＊＊＊｝. It can't be helped. I'll go
 home alone.)");

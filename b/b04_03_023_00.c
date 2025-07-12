@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,0,4,0,0,-1,0,0);
+ChOpen(3,255,0,4,0,0,#1,0,0);
 VoicePlay("B040302300_03_000");
 MsgDisp("Honda","...The wind from the sea carries various
 scents, doesn't it?");

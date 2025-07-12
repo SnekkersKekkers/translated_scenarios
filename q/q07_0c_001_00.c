@@ -5,8 +5,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Such beautiful scenery...
 The windmill is so pretty!");
 MsgClose();
-ChOpen(5,254,0,4,4,-1,-1,0,1,0,30);
-ChOpen(7,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(5,254,0,4,4,#1,#1,0,1,0,30);
+ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("Q070C00100_05_000");
 MsgDisp("Hiiragi","Indeed.
 It looks like a painting.");
@@ -68,8 +68,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, this road......
 It's like the brick road in Habataki City.");
 MsgClose();
-ChOpen(5,254,2,4,4,-1,-1,0,1,0,30);
-ChOpen(7,254,4,0,0,-1,-1,0,2,0,30);
+ChOpen(5,254,2,4,4,#1,#1,0,1,0,30);
+ChOpen(7,254,4,0,0,#1,#1,0,2,0,30);
 VoicePlay("Q070C00100_05_030");
 MsgDisp("Hiiragi","True, even though we just left,
 It feels nostalgic. It's fascinating.");
@@ -89,7 +89,7 @@ VoicePlay("Q070C00100_05_040");
 MsgDisp("Hiiragi","I feel so grateful ......
 I guess I finally have a place
 to call my hometown.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

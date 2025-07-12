@@ -3,7 +3,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(3,253,0,0,0,-1,-1,0,0,0,0);
+ChOpen(3,253,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you for walking me home.");
 ChEye(3,0);

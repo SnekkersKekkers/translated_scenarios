@@ -74,7 +74,7 @@ Yeah, I'll give it my all!)");
         MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-        ChOpen(7,255,0,0,0,-1,-1,0,0);
+        ChOpen(7,255,0,0,0,#1,#1,0,0);
         ScrFadeIn(0);
         MsgDisp("主人公","...I'm very sorry.
 I burnt the camping pot.");

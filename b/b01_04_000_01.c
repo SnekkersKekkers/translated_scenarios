@@ -11,8 +11,8 @@ switch (ChPrmGet(4,6)){
     SEWait();
     BGMPlay("BGM_C04_NANA_A",0.01);
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,0,0,2,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,0,2,#1,#1,0,0,0,60);
     VoicePlay("B010400001_04_000");
     MsgDisp("Nanatsumori","I'm late, right...?");
     MsgDisp("主人公","Yeah. But just a little?");
@@ -29,8 +29,8 @@ switch (ChPrmGet(4,6)){
     SEWait();
     BGMPlay("BGM_C04_NANA_A",0.01);
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,0,0,2,-1,-1,0,0,0,60);
+    ChNanaType(#1);
+    ChOpen(4,253,0,0,2,#1,#1,0,0,0,60);
     VoicePlay("B010400001_04_020");
     MsgDisp("Nanatsumori","I'm sorry...");
     MsgDisp("主人公","... Pfft!");
@@ -49,8 +49,8 @@ it's funny, that's fine.");
     SEWait();
     BGMPlay("BGM_C04_NANA_A",0.01);
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,253,3,0,0,-1,-1,0,0,0,30);
+    ChNanaType(#1);
+    ChOpen(4,253,3,0,0,#1,#1,0,0,0,30);
     VoicePlay("B010400001_04_040");
     MsgDisp("Nanatsumori","My bad, I left you waiting!");
     MsgDisp("主人公","No, it's okay.

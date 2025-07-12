@@ -7,7 +7,7 @@ MsgDisp("主人公","(Haa... I didn't practice enough.
 I wasn't able to perform well...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540700003_07_000");
 MsgDisp("Mikage","Good work.");
 MsgDisp("主人公","｛御影＊＊｝...

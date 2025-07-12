@@ -6,8 +6,8 @@ MsgDisp("Michiru?","Wait.");
 SEPlay("EV_SE_FOOT_WALK_COME_TWO",0,0.5);
 SEWait();
 BGMPlay("BGM_HANYOU_D",0.01);
-ChOpen(21,254,0,0,0,-1,-1,0,1);
-ChOpen(22,254,0,0,3,-1,-1,0,2);
+ChOpen(21,254,0,0,0,#1,#1,0,1);
+ChOpen(22,254,0,0,3,#1,#1,0,2);
 MsgDisp("主人公","Ah.
 ｛みちる＊｝, ｛ひかる＊｝!");
 ChMotion(22,4,1);

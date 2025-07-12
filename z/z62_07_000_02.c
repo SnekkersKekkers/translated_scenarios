@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(7,254,2,0,0,-1,-1,0,0);
+ChOpen(7,254,2,0,0,#1,#1,0,0);
 VoicePlay("Z620700002_07_000");
 MsgDisp("Mikage","Right now, you're in the range for a 
 third-rate university. If you're aiming

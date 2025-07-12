@@ -84,7 +84,7 @@ ChMotion(7,3);
 VoicePlay("D140C04001_07_040");
 MsgDisp("Mikage","Hahaha, 
 I like you all too you know?");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

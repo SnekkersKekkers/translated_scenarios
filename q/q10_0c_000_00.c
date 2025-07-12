@@ -4,8 +4,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow, it really do look glasses, huh?");
 MsgClose();
-ChOpen(5,254,0,0,4,-1,-1,0,1,0,30);
-ChOpen(7,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
+ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("Q100C00000_05_000");
 MsgDisp("Hiiragi","I'm sure this isn't a coincidence.
 Surely it was calculated and created so

@@ -86,7 +86,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(3,255,1,0,3,-1,-1,0,0);
+ChOpen(3,255,1,0,3,#1,#1,0,0);
 VoicePlay("D010300700_03_040");
 MsgDisp("Honda","Sorry for bothering you!");
 MsgDisp("主人公","Ehh∋

@@ -19,7 +19,7 @@ You're getting more used to this.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400001_04_000");
     MsgDisp("Nanatsumori","Hmm......");
     MsgDisp("主人公","Ah......
@@ -58,7 +58,7 @@ The strawberries look delicious.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400001_04_030");
     MsgDisp("Nanatsumori","Hey.");
     MsgDisp("主人公","Welcome!");

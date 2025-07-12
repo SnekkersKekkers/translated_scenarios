@@ -115,7 +115,7 @@ much as you like.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     Wait(40,0);
     BGOpen("tr460",0);
     ChEye(5,0);

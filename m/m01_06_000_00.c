@@ -14,7 +14,7 @@ SEPlay("EV_SE_DOOR_007");
 Wait(10);
 MsgClose();
 BGMPlay("BGM_C06_INORI_A");
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("M010600000_06_010");
 MsgDisp("Himuro","Your condition?");
 MsgDisp("主人公","Mm, doing better now.");

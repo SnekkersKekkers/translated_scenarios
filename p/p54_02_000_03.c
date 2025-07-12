@@ -7,7 +7,7 @@ MsgDisp("主人公","(Haaa... I messed up.
 Maybe it was no good....)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(2,254,4,0,4,-1,-1,0,0);
+ChOpen(2,254,4,0,4,#1,#1,0,0);
 VoicePlay("P540200003_02_000");
 MsgDisp("Sassa","Good job.
 Hey, there was a weird sound

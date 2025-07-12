@@ -13,7 +13,7 @@ pavement cafe, this is my last cultural
 festival, a culmination the horticulture
 club's efforts...)");
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700002_07_000");
     MsgDisp("Mikage","Oh, this is an extremely 
 stylish cafe this year, huh?");
@@ -42,7 +42,7 @@ pavement cafe, this is my last cultural
 festival, a culmination the horticulture
 club's efforts...)");
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700002_07_030");
     MsgDisp("Mikage","This is amazing, huh.
 Isn't it super stylish?");
@@ -83,5 +83,5 @@ An order for the organic vegetables set～!");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

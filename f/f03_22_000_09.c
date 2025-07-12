@@ -44,4 +44,4 @@ MsgDisp("主人公","(She dodged that well...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(22,-1);
+ChEyeOpenLevel(22,#1);

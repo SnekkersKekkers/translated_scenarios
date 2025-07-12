@@ -1,5 +1,5 @@
 BGOpen("ho000",2);
-ChOpen(3,255,4,4,0,-1,-1,0,0);
+ChOpen(3,255,4,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300100_03_000");
 MsgDisp("Honda","As I thought, it's different.");

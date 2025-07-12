@@ -5,8 +5,8 @@ MsgDisp("主人公","(Ah.
 It's ｛ひかる＊｝ and ｛みちる＊｝.)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(22,254,0,0,0,-1,-1,0,1);
-ChOpen(21,254,0,0,0,-1,-1,0,2);
+ChOpen(22,254,0,0,0,#1,#1,0,1);
+ChOpen(21,254,0,0,0,#1,#1,0,2);
 VoicePlay("F102230001_21_000");
 MsgDisp("Michiru","I'm confident today...");
 ChEye(22,0);

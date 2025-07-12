@@ -2,7 +2,7 @@ BGOpen("tr450",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123402_01_000");
 MsgDisp("Kazama","That was quite the intense tea time wasn't

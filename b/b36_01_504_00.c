@@ -59,7 +59,7 @@ MsgDisp("主人公","Hey... everyone will
 get angry you know?");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,255,0,4,3,-1,-1,0,0);
+ChOpen(1,255,0,4,3,#1,#1,0,0);
 VoicePlay("B360150400_01_060");
 MsgDisp("Kazama","If we get caught, they'll be 
 noisy right? Then, this time 

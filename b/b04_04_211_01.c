@@ -8,7 +8,7 @@ ChEyeOpenLevel(4,10);
 ScrFadeIn(0);
 VoicePlay("B040421101_04_000");
 MsgDisp("Nanatsumori","Which animal do you like?");
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 MsgSel("Lion!","Bear!","I can't choose...");
 switch (MsgSelRsltGet()){
     case 0:

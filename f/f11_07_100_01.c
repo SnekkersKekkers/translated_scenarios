@@ -16,7 +16,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 SEWait();
 MsgDisp("主人公","('Pony', huh... how strange.)");
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110710001_07_000");
 MsgDisp("Mikage","Ha....");
 MsgDisp("主人公","Ah, ｛御影＊＊｝!

@@ -5,7 +5,7 @@ BGOpen("sc624",0);
 ChLayout(1);
 ScrFadeIn(0);
 BGMPlay("BGM_C02_SASSA_C",0.01);
-ChOpen(2,37,0,0,4,-1,-1,0,0);
+ChOpen(2,37,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Only 4 events left.
 I know ｛颯砂＊＊｝ will try his best.");
 ChEye(2,0);
@@ -24,7 +24,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(2,0,30);
 ChLayout(0);
 MsgClose();
-ChOpen(2,37,4,4,0,-1,-1,0,0);
+ChOpen(2,37,4,4,0,#1,#1,0,0);
 SEWait();
 MsgDisp("主人公","Eh......");
 MsgClose();
@@ -106,7 +106,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,0.9);
 Wait(70,0);
 MsgClose();
 BGMPlay("BGM_C02_SASSA_I",0.01);
-ChOpen(2,37,3,0,4,-1,-1,0,0);
+ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoicePlay("D010200700_02_050");
 MsgDisp("Sassa","In the end, it was a struggle to get
 first place, but I managed to pull
@@ -118,7 +118,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(2,0,30);
 ChLayout(0);
 MsgClose();
-ChOpen(2,37,4,4,3,-1,-1,0,0);
+ChOpen(2,37,4,4,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200700_02_060");
 MsgDisp("Sassa","｛主人公｝……");

@@ -9,7 +9,7 @@ switch (MsgSelRsltGet()){
         MsgClose();
         BGMPlay("BGM_C04_NANA_A",0.01);
         ChNanaType(0);
-        ChOpen(4,254,0,0,0,-1,-1,0,0);
+        ChOpen(4,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010400002_04_000");
         MsgDisp("Nanatsumori","What?");
         MsgDisp("主人公","If it's okay, how about we walk home 
@@ -20,7 +20,7 @@ together?");
         MsgClose();
         BGMPlay("BGM_C04_NANA_A",0.01);
         ChNanaType(0);
-        ChOpen(4,254,0,0,4,-1,-1,0,0);
+        ChOpen(4,254,0,0,4,#1,#1,0,0);
         VoicePlay("F010400002_04_010");
         MsgDisp("Nanatsumori","Yo.
 Are you going home right now?");
@@ -34,7 +34,7 @@ together?");
         MsgClose();
         BGMPlay("BGM_C04_NANA_A",0.01);
         ChNanaType(0);
-        ChOpen(4,254,0,0,3,-1,-1,0,0);
+        ChOpen(4,254,0,0,3,#1,#1,0,0);
         VoicePlay("F010400002_04_020");
         MsgDisp("Nanatsumori","Yo. You made it.");
         MsgDisp("主人公","Hehe, you made it, too.
@@ -50,7 +50,7 @@ Well then, how about we walk together?");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0);
+    ChOpen(4,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Hey, how about we go to a cafe?");
     break ;
     case 2:

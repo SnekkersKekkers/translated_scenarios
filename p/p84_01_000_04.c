@@ -11,7 +11,7 @@ without incidence.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 ChMotion(1,3);
 VoicePlay("P840100004_01_000");
 MsgDisp("Kazama","Amazing.
@@ -32,7 +32,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("P840100004_01_020");
 MsgDisp("Kazama","Well, I didn't have a role to play.");
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","That's not true.
 I was relieved because ｛風真＊＊｝
 was there with me.");

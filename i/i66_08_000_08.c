@@ -10,7 +10,7 @@ switch (ChPrmGet(8,6)){
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,3,3,-1,-1,0,0);
+    ChOpen(8,35,0,3,3,#1,#1,0,0);
     VoicePlay("I660800008_08_000");
     MsgDisp("Shirahane","Good work.
 It was pretty busy today.");
@@ -37,7 +37,7 @@ Hehe!");
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800008_08_030");
     MsgDisp("Shirahane","Haha!");
-    ChEyeOpenLevel(8,-1);
+    ChEyeOpenLevel(8,#1);
     VoicePlay("I660800008_40_000");
     MsgDisp("Manager","Hey, you two!
 There's no more customers, so how about
@@ -65,7 +65,7 @@ so I'm glad.)");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,3,3,-1,-1,0,0);
+    ChOpen(8,35,0,3,3,#1,#1,0,0);
     MsgDisp("主人公","Haa......
 Seems like it's calmed down a bit.");
     VoiceEVSPlay(8);

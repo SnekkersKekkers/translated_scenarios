@@ -18,7 +18,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf400",1);
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-ChOpen(5,40,0,0,4,-1,-1,0,0);
+ChOpen(5,40,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020500000_05_000");
 MsgDisp("Hiiragi","My apologies for calling you over here
@@ -96,7 +96,7 @@ MsgClose();
 BGOpen("wf412",0);
 EnvAutoSet(1);
 MsgClose();
-ChOpen(5,40,0,0,4,-1,-1,0,0);
+ChOpen(5,40,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("D020500000_05_070");
@@ -134,7 +134,7 @@ ChClose(5,0,30);
 ChLayout(0);
 MsgClose();
 Wait(5,1);
-ChOpen(5,40,0,4,4,-1,-1,0,0,0,30);
+ChOpen(5,40,0,4,4,#1,#1,0,0,0,30);
 SEWait();
 VoicePlay("D020500000_05_110");
 MsgDisp("Hiiragi","You......
@@ -153,7 +153,7 @@ ChClose(5,0,30);
 ChLayout(1);
 MsgClose();
 Wait(10,1);
-ChOpen(5,40,0,0,4,-1,-1,0,0,0,30);
+ChOpen(5,40,0,0,4,#1,#1,0,0,0,30);
 SEWait();
 VoicePlay("D020500000_05_130");
 MsgDisp("Hiiragi","The new play has two casts.

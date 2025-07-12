@@ -17,7 +17,7 @@ supplies. I'm super busy, huh...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,2,-1,-1,0,0);
+    ChOpen(1,254,0,0,2,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("P830100001_01_000");
     MsgDisp("Kazama","｛主人公｝.");
@@ -59,7 +59,7 @@ rag please!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P830100001_01_040");
     MsgDisp("Kazama","I'll carry this over.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
@@ -83,7 +83,7 @@ so I can just do it later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,2,2,0,-1,0,0);
+    ChOpen(1,254,0,2,2,0,#1,0,0);
     ChMotion(1,1);
     VoicePlay("P830100001_01_060");
     MsgDisp("Kazama","Phew...
@@ -112,6 +112,6 @@ I just came to see your cheerful face.");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

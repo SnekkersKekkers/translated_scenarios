@@ -7,7 +7,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I'm glad, looks like it went well!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(3,254,4,4,3,-1,-1,0,0);
+ChOpen(3,254,4,4,3,#1,#1,0,0);
 VoicePlay("P540300004_03_000");
 MsgDisp("Honda","Ahー,I've been defeatedー......");
 MsgDisp("主人公","Eh?

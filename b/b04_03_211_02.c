@@ -87,7 +87,7 @@ Let me see them for a bit.");
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(3,0,30);
         ChLayout(0);
-        ChOpen(3,255,0,0,0,-1,-1,0,0,0,30);
+        ChOpen(3,255,0,0,0,#1,#1,0,0,0,30);
         SEWait();
         VoicePlay("B040321102_03_080");
         MsgDisp("Honda","Perhaps, you have a glowing

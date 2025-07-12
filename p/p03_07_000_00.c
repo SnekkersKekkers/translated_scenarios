@@ -13,7 +13,7 @@ matcha and mitarashi dango～!");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(7,254,4,0,0,-1,-1,0,0);
+    ChOpen(7,254,4,0,0,#1,#1,0,0);
     VoicePlay("P030700000_07_000");
     MsgDisp("Mikage","Ooh, pretty busy here.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝!
@@ -42,7 +42,7 @@ matcha and mitarashi dango.");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(7,254,0,0,3,-1,-1,0,0);
+    ChOpen(7,254,0,0,3,#1,#1,0,0);
     VoicePlay("P030700000_07_030");
     MsgDisp("Mikage","Woah! Don't you think
 our class is the most popular?");
@@ -71,5 +71,5 @@ please bring me two or three dango.");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

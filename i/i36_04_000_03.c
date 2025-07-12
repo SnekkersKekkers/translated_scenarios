@@ -20,7 +20,7 @@ I'll bring you a new one right away.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400003_04_000");
     MsgDisp("Nanatsumori","Thanks for the food.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -70,7 +70,7 @@ I'll bring you a new one right away.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(1);
-    ChOpen(4,35,0,0,0,-1,-1,0,0);
+    ChOpen(4,35,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Thank you for waiting.");
     ChEye(4,0);
     ChMouth(4,4);

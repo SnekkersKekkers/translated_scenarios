@@ -18,7 +18,7 @@ StlMouth(22,2);
 VoicePlay("U170D00000_22_000");
 MsgDisp("Hikaru","Huh～∋
 We haven't chatted enough yet～!");
-StlEyeOpenLevel(22,-1);
+StlEyeOpenLevel(22,#1);
 StlEyeOpenLevel(21,5,1);
 StlMouth(21,1);
 VoicePlay("U170D00000_21_010");

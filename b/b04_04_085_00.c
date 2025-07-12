@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
     ChMotion(4,1,1);
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     VoicePlay("B040408500_04_010");
     MsgDisp("Nanatsumori","It's even colder today...
 Let's go somewhere warm quickly.");

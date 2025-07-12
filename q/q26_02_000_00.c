@@ -2,7 +2,7 @@ SEPlay("EV_SE_700");
 BGOpen("sc815",2);
 ChLayout(1);
 MsgClose();
-ChOpen(2,30,5,0,0,-1,-1,0,0);
+ChOpen(2,30,5,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q260200000_02_000");
 MsgDisp("Sassa","So it really was......");

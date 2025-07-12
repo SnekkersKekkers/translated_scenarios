@@ -8,7 +8,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛柊＊＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-        ChOpen(5,254,0,0,0,-1,-1,0,0);
+        ChOpen(5,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010500002_05_000");
         MsgDisp("Hiiragi","Yes. What is it?");
         MsgDisp("主人公","If it's okay, how about we walk home
@@ -18,7 +18,7 @@ together?");
         MsgDisp("主人公","｛柊＊＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-        ChOpen(5,254,0,0,4,-1,-1,0,0);
+        ChOpen(5,254,0,0,4,#1,#1,0,0);
         VoicePlay("F010500002_05_010");
         MsgDisp("Hiiragi","Are you going home as well?");
         MsgDisp("主人公","Yep.
@@ -30,7 +30,7 @@ together?");
         MsgDisp("主人公","｛柊＊＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-        ChOpen(5,254,0,4,4,-1,-1,0,0);
+        ChOpen(5,254,0,4,4,#1,#1,0,0);
         VoicePlay("F010500002_05_020");
         MsgDisp("Hiiragi","Meeting others unexpectedly after the bell
 rings is one of the greatest pleasures
@@ -47,7 +47,7 @@ How about we walk home together?");
     MsgDisp("主人公","｛柊＊＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,254,0,0,0,-1,-1,0,0);
+    ChOpen(5,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","How about we go to a cafe instead?");
     break ;
     case 2:

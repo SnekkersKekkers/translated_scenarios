@@ -1,7 +1,7 @@
 BGOpen("tr520",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050100200_01_000");
 MsgDisp("Kazama","How about we finish the day with some
@@ -36,7 +36,7 @@ StlEyeOpenLevel(1,5);
 VoicePlay("B050100200_01_030");
 MsgDisp("Kazama","I haven't heard of a magician
 that pulls out sweet potatoes.");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("B050100200_01_040");
 MsgDisp("Kazama","Here.
 It's piping hot, so be careful.");
@@ -79,7 +79,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for the meal.
 Thank you, ｛風真＊＊｝.");
@@ -117,7 +117,7 @@ What is that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);
 ChPrmTblAdd(1,0);

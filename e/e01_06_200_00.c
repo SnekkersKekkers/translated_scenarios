@@ -7,8 +7,8 @@ MsgDisp("主人公","｛氷室＊＊｝!
 ｛柊＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(6,255,0,0,0,-1,-1,0,1,0,30);
-ChOpen(5,255,0,0,4,-1,-1,0,2,0,30);
+ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
+ChOpen(5,255,0,0,4,#1,#1,0,2,0,30);
 VoicePlay("E010620000_05_000");
 MsgDisp("Hiiragi","Hello.");
 ChEye(6,0);

@@ -5,7 +5,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("主人公","｛本多＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A",0.01);
-    ChOpen(3,254,0,4,4,-1,-1,0,0);
+    ChOpen(3,254,0,4,4,#1,#1,0,0);
     VoicePlay("F010300001_03_000");
     MsgDisp("Honda","......");
     MsgDisp("主人公","Huh?
@@ -26,7 +26,7 @@ I don't think he'll ever respond...)");
     MsgDisp("主人公","｛本多＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A",0.01);
-    ChOpen(3,254,5,5,4,-1,-1,0,0);
+    ChOpen(3,254,5,5,4,#1,#1,0,0);
     VoicePlay("F010300001_03_020");
     MsgDisp("Honda","Uh, me?");
     MsgDisp("主人公","Yes.
@@ -51,7 +51,7 @@ call him that.)");
     MsgDisp("主人公","｛本多＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A",0.01);
-    ChOpen(3,254,0,4,4,-1,-1,0,0);
+    ChOpen(3,254,0,4,4,#1,#1,0,0);
     VoicePlay("F010300001_03_040");
     MsgDisp("Honda","That's a creative name.");
     ChEye(3,1);

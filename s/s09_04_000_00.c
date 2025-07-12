@@ -1,13 +1,13 @@
 BGOpen("ex050",0);
 ChLayout(1);
-ChNanaType(-1);
+ChNanaType(#1);
 switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,255,1,0,0,-1,-1,0,0);
+    ChNanaType(#1);
+    ChOpen(4,255,1,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090400000_04_000");
     MsgDisp("Nanatsumori","Are you the type that draws
@@ -39,8 +39,8 @@ Let's line up then.");
     break ;
     case 3:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,255,1,0,0,-1,-1,0,0);
+    ChNanaType(#1);
+    ChOpen(4,255,1,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090400000_04_030");
     MsgDisp("Nanatsumori","Over there.
@@ -76,8 +76,8 @@ Next time, then.");
     case 4:
     case 5:
     MsgClose();
-    ChNanaType(-1);
-    ChOpen(4,255,0,0,2,-1,-1,0,0);
+    ChNanaType(#1);
+    ChOpen(4,255,0,0,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090400000_04_060");
     MsgDisp("Nanatsumori","Hm.

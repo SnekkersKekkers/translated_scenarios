@@ -20,7 +20,7 @@ MsgDisp("主人公","(｛風真＊＊｝ is really popular huh......
 Ah, I need to concentrate more∈)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.7);
-ChOpen(1,38,0,0,4,-1,-1,0,0);
+ChOpen(1,38,0,0,4,#1,#1,0,0);
 ChMotion(1,3);
 VoicePlay("P240100000_01_000");
 MsgDisp("Kazama","I'm looking for the owner of this glass
@@ -95,7 +95,7 @@ MsgDisp("Kazama","...?");
 MsgDisp("主人公","(Ah, no good...
 ｛風真＊＊｝, that's the wrong foot.)");
 StlEye(1,1);
-StlMouthOpenLevel(1,-1);
+StlMouthOpenLevel(1,#1);
 StlCheek(1,7);
 VoicePlay("P240100000_01_070");
 MsgDisp("Kazama","!");
@@ -126,7 +126,7 @@ StlClose();
 BGOpen("sc741",0);
 ChLayout(0);
 MsgClose();
-ChOpen(1,38,3,0,3,-1,-1,0,0,0,0);
+ChOpen(1,38,3,0,3,#1,#1,0,0,0,0);
 SEPlay("EV_SE_675",0.5,0.7,0.2);
 Wait(70,0);
 BGMVol(0.5,2);

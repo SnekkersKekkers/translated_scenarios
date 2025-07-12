@@ -5,7 +5,7 @@ and black tea castella.
 I wonder what ｛颯砂＊＊｝ bought......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(2,254,3,0,4,-1,-1,0,0);
+ChOpen(2,254,3,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q110200000_02_000");
 MsgDisp("Sassa","Sorry to keep you waiting.
@@ -70,5 +70,5 @@ MsgClose();
 ScrFadeOut(0,0);
 ChEye(2,0);
 ChMouth(2,0);
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
 ChCheek(2,0);

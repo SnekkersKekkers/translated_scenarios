@@ -7,7 +7,7 @@ MsgDisp("主人公","(Yeah, maybe I was able to
 perform better than last year!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540600002_06_000");
 MsgDisp("Himuro","Good work.");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝!

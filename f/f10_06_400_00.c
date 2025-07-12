@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Umm, my next lesson is...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(6,30,0,0,0,-1,-1,0,0);
+ChOpen(6,30,0,0,0,#1,#1,0,0);
 VoicePlay("F100640000_06_000");
 MsgDisp("Himuro","Ah...");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝.
@@ -22,7 +22,7 @@ MsgDisp("Kazama?","｛主人公｝.");
 ChPosition(6,1);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,30,0,0,0,-1,-1,0,2);
+ChOpen(1,30,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","Ah, ｛風真＊＊｝.
 What's up?");
 ChEye(1,4);

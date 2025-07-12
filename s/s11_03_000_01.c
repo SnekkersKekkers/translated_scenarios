@@ -27,5 +27,5 @@ So keep it in mind and keep safe.");
 MsgDisp("主人公","(｛本多＊＊｝'s mother sounds amazing.
 She even turns Bad Luck into a positive
 thing......)");
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

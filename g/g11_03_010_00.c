@@ -9,7 +9,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_A");
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110301000_03_010");
 MsgDisp("Honda","You're going to the part time job, right?");
 MsgDisp("主人公","Ah, ｛本多＊＊｝.
@@ -31,7 +31,7 @@ MsgClose();
 SEWait();
 MsgClose();
 BGOpen("ev003",0);
-ChOpen(3,100,0,0,1,-1,-1,0,0);
+ChOpen(3,100,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110301000_03_030");
 MsgDisp("Honda","Since we came together today, it feels

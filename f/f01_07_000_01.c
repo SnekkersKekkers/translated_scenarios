@@ -5,7 +5,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("主人公","｛御影＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,254,1,2,0,-1,-1,0,0);
+    ChOpen(7,254,1,2,0,#1,#1,0,0);
     VoicePlay("F010700001_07_000");
     MsgDisp("Mikage","Uh, what's with that?
 Do something else.");
@@ -20,7 +20,7 @@ I definitely shouldn't call him that...)");
     MsgDisp("主人公","｛御影＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,254,3,2,3,0,-1,0,0);
+    ChOpen(7,254,3,2,3,0,#1,0,0);
     VoicePlay("F010700001_07_010");
     MsgDisp("Mikage","Hahaha.
 You don't mean me, do you?");
@@ -36,7 +36,7 @@ I definitely shouldn't call him that.)");
     MsgDisp("主人公","｛御影＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,254,2,2,0,-1,-1,0,0);
+    ChOpen(7,254,2,2,0,#1,#1,0,0);
     VoicePlay("F010700001_07_020");
     MsgDisp("Mikage","Hm, it's you...
 But no, no no no. Not that.");

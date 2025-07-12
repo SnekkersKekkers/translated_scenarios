@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,0,3,-1,-1,0,0);
+    ChOpen(4,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400000_04_000");
     MsgDisp("Nanatsumori","That was a battle.
@@ -19,7 +19,7 @@ I'm glad I did my best.)");
     case 3:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,2,4,-1,-1,0,0);
+    ChOpen(4,30,0,2,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400000_04_010");
     MsgDisp("Nanatsumori","Stupidly powerful......");
@@ -37,7 +37,7 @@ I'm glad I did my best.)");
     case 5:
     MsgClose();
     ChNanaType(0);
-    ChOpen(4,30,0,3,4,-1,-1,0,0);
+    ChOpen(4,30,0,3,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400000_04_030");
     MsgDisp("Nanatsumori","Wow......");

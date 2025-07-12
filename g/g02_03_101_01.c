@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,0,0,4,-1,-1,0,0);
+ChOpen(3,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020310101_03_000");
 MsgDisp("Honda","......Hm? 
 Why are you looking around?");
@@ -58,4 +58,4 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChOpen(3,255,0,0,0,-1,-1,0,0);
+ChOpen(3,255,0,0,0,#1,#1,0,0);

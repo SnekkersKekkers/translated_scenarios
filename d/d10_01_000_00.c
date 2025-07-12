@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0,0.5);
 MsgDisp("主人公","(My next class is——)");
-ChOpen(1,254,0,0,0,-1,-1,0,0,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
 ChEye(1,5);
 ChMouth(1,2);
 ChMotion(1,5);

@@ -1,6 +1,6 @@
 BGOpen("sc710",0);
 MsgClose();
-ChOpen(21,254,0,0,0,-1,-1,0,0,0,0);
+ChOpen(21,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("F112110001_21_000");
 MsgDisp("Michiru","Ah, Mari!");

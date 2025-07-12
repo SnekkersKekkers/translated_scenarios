@@ -10,7 +10,7 @@ MsgDisp("主人公","Eh?
 ｛本多＊＊｝?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,254,5,3,3,-1,-1,0,0);
+ChOpen(3,254,5,3,3,#1,#1,0,0);
 VoicePlay("F100310001_03_010");
 MsgDisp("Honda","Hey, look!");
 MsgDisp("主人公","Ah are you talking about the

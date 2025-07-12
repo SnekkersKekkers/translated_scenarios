@@ -6,7 +6,7 @@ MsgDisp("主人公","(This year the Gardening Club's program
 is a cafe. I have to prepare herb tea and
 cookies though...)");
 MsgClose();
-ChOpen(31,254,2,2,2,-1,-1,0,0);
+ChOpen(31,254,2,2,2,#1,#1,0,0);
 VoicePlay("P633100000_31_000");
 MsgDisp("Goro","Hnn～, fragrant...");
 MsgDisp("主人公","Ah, Goro-sensei∋");

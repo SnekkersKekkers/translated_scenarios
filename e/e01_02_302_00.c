@@ -7,8 +7,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(2,255,3,0,4,-1,-1,0,1);
-ChOpen(7,255,0,0,0,-1,-1,0,2);
+ChOpen(2,255,3,0,4,#1,#1,0,1);
+ChOpen(7,255,0,0,0,#1,#1,0,2);
 VoicePlay("E010230200_07_000");
 MsgDisp("Mikage","Ohh, it's you this time. Today's the day I
 run into all the funny ones.");

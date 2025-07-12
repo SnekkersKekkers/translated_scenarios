@@ -5,7 +5,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("主人公","Good morning, ｛颯砂＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q090200000_02_000");
     MsgDisp("Sassa","｛主人公｝, Mornin.
@@ -17,7 +17,7 @@ Well, let's go.");
     MsgDisp("主人公","......Ah, ｛颯砂＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("Q090200000_02_010");
     MsgDisp("Sassa","Mornin!");
     MsgDisp("主人公","Good morning!");
@@ -33,7 +33,7 @@ Let's have fun today.");
     MsgDisp("主人公","｛颯砂＊＊｝, Good morning!");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(2,254,0,0,4,-1,-1,0,0);
+    ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q090200000_02_030");
     MsgDisp("Sassa","｛主人公｝, Mornin.");

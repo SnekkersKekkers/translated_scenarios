@@ -7,7 +7,7 @@ MsgDisp("主人公","(I'm glad,
 seems like I performed well!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(5,254,0,3,4,-1,-1,0,0);
+ChOpen(5,254,0,3,4,#1,#1,0,0);
 ChMotion(5,3);
 Wait(25,1);
 ChMouth(5,3);

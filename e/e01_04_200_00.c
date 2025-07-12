@@ -6,7 +6,7 @@ MsgDisp("主人公","Ah.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,255,0,0,0,-1,-1,0,0);
+ChOpen(4,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010420000_04_000");
 MsgDisp("Nanatsumori","Yo.");
 MsgDisp("主人公","｛七ツ森＊｝.
@@ -19,7 +19,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 Wait(8,0);
 ChPosition(4,1);
 MsgClose();
-ChOpen(1,255,0,0,1,-1,-1,0,2);
+ChOpen(1,255,0,0,1,#1,#1,0,2);
 ChMotion(1,1);
 VoicePlay("E010420000_01_010");
 MsgDisp("Kazama","Even though I was calling him,
@@ -63,7 +63,7 @@ MsgDisp("Kazama","I don't need anything.
 But, look!
 A lost item.");
 SEPlay("EV_SE_717");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChMotion(4,2,1);
 Wait(10,0);
 SEPlay("EV_SE_665",0.5,0.3);

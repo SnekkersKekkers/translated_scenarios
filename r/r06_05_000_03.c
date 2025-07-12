@@ -3,7 +3,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,34,0,0,4,-1,-1,0,0);
+    ChOpen(5,34,0,0,4,#1,#1,0,0);
     VoicePlay("R060500003_05_000");
     MsgDisp("Hiiragi","The gift you got...
 that's the one I brought.");
@@ -18,7 +18,7 @@ Coincidences are incredible.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,34,4,4,4,-1,-1,0,0);
+    ChOpen(5,34,4,4,4,#1,#1,0,0);
     VoicePlay("R060500003_05_020");
     MsgDisp("Hiiragi","I never thought that you
 would get it.");
@@ -42,7 +42,7 @@ Habataki's Santa-san does too.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,34,0,0,4,-1,-1,0,0);
+    ChOpen(5,34,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("R060500003_05_050");
     MsgDisp("Hiiragi","｛主人公｝.");

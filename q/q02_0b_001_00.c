@@ -7,11 +7,11 @@ MsgDisp("Kazama?","｛主人公｝,
 Good morning.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
-ChOpen(1,254,0,0,0,-1,-1,0,0,0,30);
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 SEPlay("EV_SE_544");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","Ah.
 Good morning,everyone!");
 ChEye(3,0);

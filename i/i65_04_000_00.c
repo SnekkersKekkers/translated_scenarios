@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650400000_04_000");
     MsgDisp("Nanatsumori","Ah.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -39,7 +39,7 @@ But, he came to check on me, right?)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650400000_04_030");
     MsgDisp("Nanatsumori","Yo, good work.");
     MsgDisp("主人公","｛七ツ森＊｝!
@@ -73,7 +73,7 @@ Let's do our best until we go home!)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
-    ChOpen(4,255,0,0,0,-1,-1,0,0);
+    ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650400000_04_060");
     MsgDisp("Nanatsumori","Yo.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.

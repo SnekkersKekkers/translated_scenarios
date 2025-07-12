@@ -14,7 +14,7 @@ the giant maze' is attracting a lot of
 attention more and more people are
 gathering...)");
     MsgClose();
-    ChOpen(5,254,3,3,2,-1,-1,0,0);
+    ChOpen(5,254,3,3,2,#1,#1,0,0);
     VoicePlay("P130500000_05_000");
     MsgDisp("Hiiragi","Your class is amazing.
 As expected of Mikage-sensei...");
@@ -47,7 +47,7 @@ Entry for one please～!");
 If you can reach the finish line, 
 you get to drink freshly squeezed milk～");
     MsgClose();
-    ChOpen(5,254,0,3,2,-1,-1,0,0);
+    ChOpen(5,254,0,3,2,#1,#1,0,0);
     VoicePlay("P130500000_05_030");
     MsgDisp("Hiiragi","A classroom maze...");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, welcome.");

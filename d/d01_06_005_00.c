@@ -7,7 +7,7 @@ MsgDisp("主人公","(Soon it'll be time to say goodbye to this
 building. Come to think of it, two years
 ago here I met Himuro——)");
 MsgClose();
-ChOpen(6,254,7,2,0,0,-1,0,0);
+ChOpen(6,254,7,2,0,0,#1,0,0);
 MsgDisp("主人公","Eh......｛氷室＊＊｝?");
 SEPlay("EV_SE_544",0,0.5);
 ChEye(6,3);
@@ -130,7 +130,7 @@ MsgClose();
 ScrFadeIn(0);
 MsgDisp("主人公","Eh, what now——");
 MsgClose();
-ChOpen(6,254,2,2,0,0,-1,0,0);
+ChOpen(6,254,2,2,0,0,#1,0,0);
 VoicePlay("D010600500_06_150");
 MsgDisp("Himuro","Never mind.
 There's nothing left to say about it.");

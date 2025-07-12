@@ -2,7 +2,7 @@ BGOpen("sc500",1);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgClose();
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛氷室＊＊｝.
 Are you heading home now?");
 ChEye(6,0);
@@ -33,7 +33,7 @@ isn't he......)");
 MsgClose();
 SEPlay("EV_SE_542",0,0.4);
 SEWait();
-ChOpen(6,100,0,0,0,-1,-1,0,0);
+ChOpen(6,100,0,0,0,#1,#1,0,0);
 VoicePlay("G110600702_06_020");
 MsgDisp("Himuro","......?　What.");
 MsgDisp("主人公","(Come to think of it, he used to play bass

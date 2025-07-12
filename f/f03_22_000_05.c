@@ -38,4 +38,4 @@ MsgDisp("主人公","(…………)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(22,-1);
+ChEyeOpenLevel(22,#1);

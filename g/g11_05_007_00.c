@@ -16,7 +16,7 @@ ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,100,0,0,1,-1,-1,0,0);
+ChOpen(5,100,0,0,1,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 Wait(30,0);
@@ -32,7 +32,7 @@ MsgDisp("Hiiragi","Yes.
 I got too excited and fell over.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","I was cheering from the classroom that
 time, and got scolded by Mikage-sensei.");
 ChEye(5,1);
@@ -49,7 +49,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500700_05_040");
 MsgDisp("Hiiragi","Well, it was a rare defining moment,
@@ -61,7 +61,7 @@ ChMouth(5,1);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500700_05_050");
 MsgDisp("Hiiragi","I'd like to be able to say I can show you

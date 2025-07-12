@@ -10,7 +10,7 @@ Wait(60);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C06_INORI_KOKU",0.01);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛氷室＊＊｝……");
 ChEye(6,0);
 ChMouth(6,0);
@@ -73,7 +73,7 @@ ChClose(6);
 ChCustomLayout(6,5,0,-2.5);
 Wait(60);
 SEPlay("EV_SE_544");
-ChOpen(6,254,7,0,0,-1,-1,0,0,0,120);
+ChOpen(6,254,7,0,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020621000_06_080");
 MsgDisp("Himuro","......｛主人公｝.

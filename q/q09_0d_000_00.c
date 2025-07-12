@@ -5,9 +5,9 @@ Ah, there!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(40,0);
-ChOpen(21,254,0,0,0,-1,-1,0,1);
+ChOpen(21,254,0,0,0,#1,#1,0,1);
 SEPlay("EV_SE_544");
-ChOpen(22,254,0,0,3,-1,-1,0,2);
+ChOpen(22,254,0,0,3,#1,#1,0,2);
 MsgDisp("主人公","Good morning!
 ｛みちる＊｝, ｛ひかる＊｝.");
 ChMotion(21,3);

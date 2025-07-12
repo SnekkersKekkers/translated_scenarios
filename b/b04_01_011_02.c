@@ -65,7 +65,7 @@ worried for me.");
         ChLayout(2);
         SEPlay("EV_SE_544");
         MsgClose();
-        ChOpen(1,255,0,0,3,8,-1,0,0,0,30);
+        ChOpen(1,255,0,0,3,8,#1,0,0,0,30);
         SEWait();
         VoicePlay("B040101102_01_060");
         MsgDisp("Kazama","Here, what about this?");
@@ -81,7 +81,7 @@ Don't make that face at me.");
         ChClose(1,0,30);
         ChLayout(0);
         MsgClose();
-        ChOpen(1,255,0,4,3,-1,-1,0,0,0,30);
+        ChOpen(1,255,0,4,3,#1,#1,0,0,0,30);
         SEWait();
         VoicePlay("B040101102_01_080");
         MsgDisp("Kazama","Look, I'm safe now, okay?
@@ -104,7 +104,7 @@ back in first grade with him.)");
     MsgDisp("Kazama","I find that a little disappointing.
 Now you're basically invincible.");
     MsgDispSksp(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

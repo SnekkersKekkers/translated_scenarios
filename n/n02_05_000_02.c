@@ -5,7 +5,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(5,254,0,0,0,-1,-1,0,0);
+    ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500002_05_000");
     MsgDisp("Hiiragi","Hello.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
@@ -26,7 +26,7 @@ his best, then I should too...)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(5,254,0,4,4,-1,-1,0,0);
+    ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("N020500002_05_030");
     MsgDisp("Hiiragi","Are you satisfied by this outcome?");
     MsgDisp("主人公","Umm...
@@ -53,7 +53,7 @@ The both of us should take it easy, then.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(5,254,0,0,4,-1,-1,0,0);
+    ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("N020500002_05_060");
     MsgDisp("Hiiragi","｛主人公｝.");

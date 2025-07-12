@@ -5,7 +5,7 @@ switch (ChPrmGet(22,6)){
     MsgDisp("主人公","｛ひかる＊｝.");
     MsgClose();
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,1,2,2,-1,-1,0,0);
+    ChOpen(22,254,1,2,2,#1,#1,0,0);
     VoicePlay("F012200001_22_000");
     MsgDisp("Hikaru","Oh～
 That name's no good, you know.");
@@ -21,7 +21,7 @@ I call her that.)");
     MsgDisp("主人公","｛ひかる＊｝.");
     MsgClose();
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,4,2,-1,-1,0,0);
+    ChOpen(22,254,0,4,2,#1,#1,0,0);
     VoicePlay("F012200001_22_010");
     MsgDisp("Hikaru","Are you talking to Hikaru?");
     MsgDisp("主人公","Yes.");
@@ -43,7 +43,7 @@ I call her that.)");
     MsgDisp("主人公","｛ひかる＊｝.");
     MsgClose();
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,4,2,-1,-1,0,0);
+    ChOpen(22,254,0,4,2,#1,#1,0,0);
     VoicePlay("F012200001_22_030");
     MsgDisp("Hikaru","Just now... did you call for Hikaru?");
     MsgDisp("主人公","Yes.

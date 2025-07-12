@@ -7,7 +7,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(2,30,0,0,0,-1,-1,0,0);
+    ChOpen(2,30,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("O030201000_02_000");
     MsgDisp("Sassa","｛主人公｝.
@@ -26,7 +26,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(2,30,3,0,3,-1,-1,0,0);
+    ChOpen(2,30,3,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("O030201000_02_020");
     MsgDisp("Sassa","｛主人公｝.
@@ -51,7 +51,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();
-    ChOpen(2,30,4,0,0,-1,-1,0,0);
+    ChOpen(2,30,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("O030201000_02_040");
     MsgDisp("Sassa","｛主人公｝.

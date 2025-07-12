@@ -8,7 +8,7 @@ there he is!)");
 Good morning!");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("Q040200000_02_000");
     MsgDisp("Sassa","'Morning. You look like you're in tip-top
 condition, huh?");
@@ -20,7 +20,7 @@ for today's free period?");
 Good morning!");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("Q040200000_02_010");
     MsgDisp("Sassa","Oh, morning.
 You look energetic.");
@@ -33,7 +33,7 @@ time?");
 'morning! Did you sleep well?");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q040200000_02_020");
     MsgDisp("Sassa","｛主人公｝, morning!

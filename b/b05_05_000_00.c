@@ -7,7 +7,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf221",0);
 ChLayout(1);
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","The wind feels good, huh?");
 ChEye(5,0);
@@ -102,7 +102,7 @@ StlClose();
 BGOpen("wf221",0);
 BGMVol(0.5,2);
 MsgClose();
-ChOpen(5,255,0,4,4,-1,-1,0,0);
+ChOpen(5,255,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew, that was fun!");
 ChEye(5,4);

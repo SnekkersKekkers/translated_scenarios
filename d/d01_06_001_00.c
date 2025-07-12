@@ -27,7 +27,7 @@ MsgDisp("主人公","Eh?");
 BGMPlay("BGM_C06_INORI_A",0.01);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you having your
 lunch up here too?");
 ChEye(6,0);
@@ -108,7 +108,7 @@ MsgDisp("Himuro","Thanks for the——");
 BGMStop();
 MsgClose();
 ScrFadeIn(0);
-ChOpen(6,254,0,3,0,-1,-1,0,0);
+ChOpen(6,254,0,3,0,#1,#1,0,0);
 VoicePlay("D010600100_06_100");
 MsgDisp("Himuro","…………∈");
 ChEye(6,3);

@@ -56,7 +56,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(40,0);
-ChOpen(1,255,2,2,2,0,-1,0,0);
+ChOpen(1,255,2,2,2,0,#1,0,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("B360150101_01_040");
 MsgDisp("Kazama","…………");
@@ -82,7 +82,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B360150101_01_070");
 MsgDisp("Kazama","I can't be making fun 
 of you like this, can I?");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe.");
 MsgDisp("主人公","(It's like searching for
 memories with ｛風真＊＊｝,

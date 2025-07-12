@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(3,255,3,3,3,-1,-1,0,3);
+ChOpen(3,255,3,3,3,#1,#1,0,3);
 VoiceEVSPlay(3);
 VoicePlay("W040300000_03_000");
 MsgDisp("Honda","｛主人公｝.

@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(6);
     VoicePlay("J040600000_06_000");

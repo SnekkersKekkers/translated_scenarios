@@ -1,9 +1,9 @@
 MsgDisp("主人公","｛颯砂＊＊｝, I guess......");
-StlEyeOpenLevel(21,-1);
-StlMouthOpenLevel(21,-1);
+StlEyeOpenLevel(21,#1);
+StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
-StlEyeOpenLevel(22,-1);
-StlMouthOpenLevel(22,-1);
+StlEyeOpenLevel(22,#1);
+StlMouthOpenLevel(22,#1);
 StlCheek(22,0);
 switch (ChPrmGet(2,6)){
     case 0:

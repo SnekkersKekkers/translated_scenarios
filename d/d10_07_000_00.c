@@ -2,7 +2,7 @@ BGOpen("sc310",0);
 ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(7,0);
 ChMouth(7,0);

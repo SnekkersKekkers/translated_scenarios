@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_D",0.01);
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0100001_01_000");
     MsgDisp("Kazama","It was close.");
@@ -43,7 +43,7 @@ my best. Thank you, ｛風真＊＊｝!)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_D",0.01);
-    ChOpen(1,254,0,4,3,-1,-1,0,0);
+    ChOpen(1,254,0,4,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0100001_01_040");
     MsgDisp("Kazama","......You did your best.");

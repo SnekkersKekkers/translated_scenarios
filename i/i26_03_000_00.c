@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE")Wait(35,0);
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,35,1,5,4,-1,-1,0,0,0,5);
+    ChOpen(3,35,1,5,4,#1,#1,0,0,0,5);
     VoicePlay("I260300000_03_000");
     MsgDisp("Honda","Watch out!");
     ChEye(3,4);
@@ -59,7 +59,7 @@ I'll leave the cash register to you.");
     MsgDisp("主人公","......Hm?");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,35,0,4,4,-1,-1,0,0);
+    ChOpen(3,35,0,4,4,#1,#1,0,0);
     VoicePlay("I260300000_03_050");
     MsgDisp("Honda","What is it?");
     MsgDisp("主人公","The cash register froze.");

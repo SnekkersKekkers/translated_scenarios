@@ -14,7 +14,7 @@ the giant maze' is attracting a lot of
 attention more and more people are
 gathering...)");
     MsgClose();
-    ChOpen(2,254,3,0,0,-1,-1,0,0);
+    ChOpen(2,254,3,0,0,#1,#1,0,0);
     VoicePlay("P130200000_02_000");
     MsgDisp("Sassa","As expected from Mikage's class. A lot of
 effort was put in.");
@@ -37,8 +37,8 @@ I'll break the record.");
     MsgDisp("主人公","Then, admission for oーne!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(2,-1);
-    ChMouth(2,-1);
+    ChEye(2,#1);
+    ChMouth(2,#1);
     ChCheek(2,0);
     break ;
     case 4:
@@ -51,7 +51,7 @@ the giant maze' is attracting a lot of
 attention more and more people are
 gathering...)");
     MsgClose();
-    ChOpen(2,254,3,0,3,-1,-1,0,0);
+    ChOpen(2,254,3,0,3,#1,#1,0,0);
     VoicePlay("P130200000_02_030");
     MsgDisp("Sassa","Eeeh, you made something super impressive.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
@@ -95,8 +95,8 @@ freshly squeezed milk as a present.");
     MsgDisp("主人公","Admission for one!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(2,-1);
-    ChMouth(2,-1);
+    ChEye(2,#1);
+    ChMouth(2,#1);
     ChCheek(2,0);
     break ;
     default :

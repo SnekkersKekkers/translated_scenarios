@@ -7,7 +7,7 @@ it was a failure.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
-ChOpen(2,254,3,2,0,-1,-1,0,0);
+ChOpen(2,254,3,2,0,#1,#1,0,0);
 VoicePlay("P740200001_02_000");
 MsgDisp("Sassa","Are you alright? 
 You're not injured?");

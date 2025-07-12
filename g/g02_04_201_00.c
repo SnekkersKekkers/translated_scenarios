@@ -13,7 +13,7 @@ MsgDisp("Nanatsumori","…………");
 MsgDisp("主人公","......｛七ツ森＊｝, are you angry?");
 ChEye(4,5);
 ChMotion(4,1,1);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("G020420100_04_020");
 MsgDisp("Nanatsumori","......Eh?");
 MsgDisp("主人公","You're making a scary face...... I thought
@@ -51,7 +51,7 @@ MsgDisp("主人公","｛七ツ森＊｝……");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("G020420100_04_080");
 MsgDisp("Nanatsumori","PLease......don't come to dislike me.");
 MsgDisp("主人公","(｛七ツ森＊｝ seems like he's hurting......
@@ -61,6 +61,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

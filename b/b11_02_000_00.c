@@ -9,7 +9,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDisp("主人公","(｛颯砂＊＊｝, you're late...
 Did something happen?)");
 SEPlay("EV_SE_544");
-ChOpen(33,254,0,0,0,-1,-1,0,0);
+ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110200000_33_000");
 MsgDisp("Guy","There's a world that I want 
 to show you. Won't you see it?");
@@ -21,7 +21,7 @@ reality of the world. I'll show you.");
 ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
-ChOpen(2,253,2,1,0,-1,-1,0,1,0,30);
+ChOpen(2,253,2,1,0,#1,#1,0,1,0,30);
 BGMPlay("BGM_C02_SASSA_A",0.01);
 VoicePlay("B110200000_02_000");
 MsgDisp("Sassa","Oi, what business do you

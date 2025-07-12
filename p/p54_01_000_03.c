@@ -7,7 +7,7 @@ MsgDisp("主人公","(Haa...
 Maybe I didn't practice enough...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(1,254,0,4,2,-1,-1,0,0);
+ChOpen(1,254,0,4,2,#1,#1,0,0);
 VoicePlay("P540100003_01_000");
 MsgDisp("Kazama","It's not a problem of 
 nerves or anything, is it?");

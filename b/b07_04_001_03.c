@@ -22,7 +22,7 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("B070400001_04_190");
 MsgDisp("Nanatsumori","…………");
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("B070400001_04_200");
 MsgDisp("Nanatsumori","What is this. I didn't have this feeling
 in middle school.");
@@ -66,6 +66,6 @@ else is also definitely fulfilled.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

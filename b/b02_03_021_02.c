@@ -16,4 +16,4 @@ Do you wanna do
 a mating dance?");
 MsgDisp("主人公","(A mating dance...
 But it seems like he likes it!)");
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);

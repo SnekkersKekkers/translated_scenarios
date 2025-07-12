@@ -12,8 +12,8 @@ MsgDisp("主人公","(Ah, these voices...
 It's ｛本多＊＊｝ and ｛颯砂＊＊｝!)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(3,254,0,3,3,-1,-1,0,1,0,30);
-ChOpen(2,254,3,0,4,-1,-1,0,2,0,30);
+ChOpen(3,254,0,3,3,#1,#1,0,1,0,30);
+ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 MsgDisp("主人公","｛本多＊＊｝, are you asking for something 
 unreasonable from 
 ｛颯砂＊＊｝ again...?");

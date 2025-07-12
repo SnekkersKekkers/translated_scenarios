@@ -4,9 +4,9 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Then, the next class is...)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(2,254,0,0,4,-1,-1,0,1);
+ChOpen(2,254,0,0,4,#1,#1,0,1);
 MsgClose();
-ChOpen(5,254,0,2,4,9,-1,0,2);
+ChOpen(5,254,0,2,4,9,#1,0,2);
 VoicePlay("F100220002_02_000");
 MsgDisp("Sassa","Vice President,
 you've come in at a good time.");

@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110303_01_000");
 MsgDisp("Kazama","This is a really impressive number of
@@ -85,7 +85,7 @@ ChClose(1,0,30);
 ChLayout(1);
 SEWait();
 MsgClose();
-ChOpen(1,255,0,0,2,-1,-1,0,0,0,30);
+ChOpen(1,255,0,0,2,#1,#1,0,0,0,30);
 MsgDisp("主人公","(sigh) That was a surprise.");
 ChEye(1,1);
 ChMouth(1,1);
@@ -119,7 +119,7 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);
 EfctClose();

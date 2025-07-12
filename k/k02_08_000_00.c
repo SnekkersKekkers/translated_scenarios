@@ -9,7 +9,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.5);
 MsgClose();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
-ChOpen(8,255,0,3,3,-1,-1,0,0);
+ChOpen(8,255,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("K020800000_08_000");
 MsgDisp("Shirahane","Heheh, evenin'～!");

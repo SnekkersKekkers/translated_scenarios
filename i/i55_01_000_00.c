@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     case 2:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
 Welcome!");
     ChEye(1,0);
@@ -64,7 +64,7 @@ on me.)");
     case 3:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550100000_01_060");
     MsgDisp("Kazama","Yo, you're working hard.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝, welcome.");
@@ -114,7 +114,7 @@ Hehe, I'm happy.)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("I550100000_01_120");
     MsgDisp("Kazama","｛主人公｝.");
@@ -142,7 +142,7 @@ He's my classmate.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     MsgClose();
-    ChOpen(1,255,0,4,3,-1,-1,0,0);
+    ChOpen(1,255,0,4,3,#1,#1,0,0);
     VoicePlay("I550100000_01_140");
     MsgDisp("Kazama","......Nice to meet you,
 I'm her classmate Ryota.");

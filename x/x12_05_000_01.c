@@ -1,6 +1,6 @@
 BGOpen("sc606",0);
 MsgClose();
-ChOpen(5,254,0,0,3,-1,-1,0,0);
+ChOpen(5,254,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like things have 

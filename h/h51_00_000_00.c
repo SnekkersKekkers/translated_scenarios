@@ -20,7 +20,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C32_HIMURO_A",0.01);
-ChOpen(32,254,0,0,0,-1,-1,0,0);
+ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("H510000000_32_000");
 MsgDisp("VP Himuro","I'm Himuro, the advisor for
 the brass band.");

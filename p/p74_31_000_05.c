@@ -7,7 +7,7 @@ Even though it was my last stage...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,5,1,1,-1,-1,0,0);
+ChOpen(31,254,5,1,1,#1,#1,0,0);
 VoicePlay("P743100005_31_000");
 MsgDisp("Goro","That \"Bang!\" was brilliant.
 But that's not it, geez.");

@@ -2,7 +2,7 @@ BGOpen("sc210",0);
 ChLayout(1);
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 MsgClose();
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("D100710000_07_000");

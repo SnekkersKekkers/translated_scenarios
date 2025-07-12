@@ -9,7 +9,7 @@ MsgDisp("Himuro?","｛主人公｝,
 What a coincidence.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah...... ｛氷室＊＊｝!
 Were you out shopping?");
 ChEye(6,0);
@@ -24,7 +24,7 @@ ChPosition(6,1);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(30,0);
-ChOpen(7,255,0,0,0,-1,-1,0,2);
+ChOpen(7,255,0,0,0,#1,#1,0,2);
 VoicePlay("E010630100_07_000");
 MsgDisp("Mikage","Yo! Are you ready?");
 MsgDisp("主人公","Ah, ｛御影＊＊｝!");
@@ -70,9 +70,9 @@ ChClose(6,0,30);
 ChClose(7,0,30);
 ChLayout(2);
 SEPlay("EV_SE_544");
-ChOpen(32,254,0,1,0,-1,-1,0,0,0,30);
-ChOpen(7,255,1,2,0,-1,-1,0,2,0,30);
-ChOpen(6,255,0,0,0,-1,-1,0,1,0,30);
+ChOpen(32,254,0,1,0,#1,#1,0,0,0,30);
+ChOpen(7,255,1,2,0,#1,#1,0,2,0,30);
+ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
 VoicePlay("E010630100_32_010");
 MsgDisp("VP Himuro","The promise is to not wander
 around the school in overalls.");

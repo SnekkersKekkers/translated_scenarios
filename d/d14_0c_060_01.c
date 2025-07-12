@@ -61,7 +61,7 @@ ChMotion(7,4);
 VoicePlay("D140C06001_07_020");
 MsgDisp("Mikage","Even when he's not around, 
 we're talking about Inori.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);

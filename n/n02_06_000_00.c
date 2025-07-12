@@ -5,7 +5,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600000_06_000");
     MsgDisp("Himuro","First place, huh...");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
@@ -25,7 +25,7 @@ it's not a fluke, I mean.");
     case 3:
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600000_06_020");
     MsgDisp("Himuro","The top rank...");
     ChEye(6,0);
@@ -49,7 +49,7 @@ Right?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,254,0,0,3,-1,-1,0,0);
+    ChOpen(6,254,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(6);
     VoicePlay("N020600000_06_050");
     MsgDisp("Himuro","｛主人公｝...");

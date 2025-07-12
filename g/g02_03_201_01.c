@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,4,4,0,-1,-1,0,0);
+ChOpen(3,255,4,4,0,#1,#1,0,0);
 VoicePlay("G020320101_03_000");
 MsgDisp("Honda","Hey.
 What do you think of me? Do you hate me?");
@@ -72,6 +72,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

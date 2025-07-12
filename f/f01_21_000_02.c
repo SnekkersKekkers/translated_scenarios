@@ -9,7 +9,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛みちる＊｝.");
         MsgClose();
         BGMPlay("BGM_C21_MICHIRU_A",0.01);
-        ChOpen(21,254,0,0,0,-1,-1,0,0);
+        ChOpen(21,254,0,0,0,#1,#1,0,0);
         VoicePlay("F012100002_21_000");
         MsgDisp("Michiru","Mari, are you going home now?");
         MsgDisp("主人公","Yes.
@@ -20,7 +20,7 @@ together?");
         MsgDisp("主人公","｛みちる＊｝.");
         MsgClose();
         BGMPlay("BGM_C21_MICHIRU_A",0.01);
-        ChOpen(21,254,0,0,3,-1,-1,0,0);
+        ChOpen(21,254,0,0,3,#1,#1,0,0);
         VoicePlay("F012100002_21_010");
         MsgDisp("Michiru","Oh, Mari.
 What a coincidence, right?");
@@ -33,7 +33,7 @@ together?");
         MsgDisp("主人公","｛みちる＊｝.");
         MsgClose();
         BGMPlay("BGM_C21_MICHIRU_A",0.01);
-        ChOpen(21,254,3,3,3,-1,-1,0,0);
+        ChOpen(21,254,3,3,3,#1,#1,0,0);
         VoicePlay("F012100002_21_020");
         MsgDisp("Michiru","Hehe, Mari.");
         MsgDisp("主人公","Hey, why don't we walk home together?");
@@ -48,7 +48,7 @@ together?");
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
     Wait(15,0);
-    ChOpen(21,254,0,0,0,-1,-1,0,0);
+    ChOpen(21,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Hey, how about we go to a cafe?");
     break ;
     case 2:
@@ -59,6 +59,6 @@ I'll go home alone.");
     DbgAssert(0);
     break ;
     }
-ChEyeOpenLevel(21,-1);
-ChMouthOpenLevel(21,-1);
+ChEyeOpenLevel(21,#1);
+ChMouthOpenLevel(21,#1);
 ChCheek(21,0);

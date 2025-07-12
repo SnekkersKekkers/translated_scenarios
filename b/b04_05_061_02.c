@@ -80,13 +80,13 @@ Are you alright?");
         ChClose(5,0,30);
         ChLayout(0);
         MsgClose();
-        ChOpen(5,31,2,2,2,9,-1,10,0,0,30);
+        ChOpen(5,31,2,2,2,9,#1,10,0,0,30);
         VoicePlay("B040506102_05_070");
         MsgDisp("Hiiragi","Aah, I feel dizzy...
 It's too radiant...");
         ChMouth(5,4);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040506102_05_080");
         MsgDisp("Hiiragi","You're shining even more 
 than usual in that swimsuit.

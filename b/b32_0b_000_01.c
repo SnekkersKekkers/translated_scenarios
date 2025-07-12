@@ -8,7 +8,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B320B00001_01_000");
 MsgDisp("Kazama","That's right.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);

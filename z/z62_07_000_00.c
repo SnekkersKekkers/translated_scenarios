@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(7,254,3,0,3,-1,-1,0,0);
+ChOpen(7,254,3,0,3,#1,#1,0,0);
 VoicePlay("Z620700000_07_000");
 MsgDisp("Mikage","Ooh, as expected of my serious student.
 You're in the passing range of top

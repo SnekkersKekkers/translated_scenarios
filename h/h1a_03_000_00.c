@@ -1,7 +1,7 @@
 BGOpen("sc620",0);
 ChLayout(1);
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

@@ -11,7 +11,7 @@ switch (ChPrmGet(8,6)){
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,3,3,-1,-1,0,0);
+    ChOpen(8,35,0,3,3,#1,#1,0,0);
     VoicePlay("I660800004_08_000");
     MsgDisp("Shirahane","We're all done refueling too.
 Now, the bill......");
@@ -48,7 +48,7 @@ Let's keep doing our best!)");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
-    ChOpen(8,35,0,3,3,-1,-1,0,0);
+    ChOpen(8,35,0,3,3,#1,#1,0,0);
     VoicePlay("I660800004_08_040");
     MsgDisp("Shirahane","We're all done refueling too.
 Now, the bill......");

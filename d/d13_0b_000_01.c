@@ -2,10 +2,10 @@ BGOpen("sc530",0);
 ChLayout(2);
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,254,0,3,3,-1,-1,0,0,0,30);
-ChOpen(1,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(3,254,0,3,3,#1,#1,0,0,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("D130B00001_04_000");
 MsgDisp("Nanatsumori","Ah... they're holding 

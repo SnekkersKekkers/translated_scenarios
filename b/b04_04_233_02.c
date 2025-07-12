@@ -2,8 +2,8 @@ BGOpen("tr440",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,1,1,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B040423302_04_000");
@@ -58,7 +58,7 @@ could fit into any situation.");
         VoicePlay("B040423302_04_050");
         MsgDisp("Nanatsumori","...Wow.
 That's kind of surprising.");
-        ChEyeOpenLevel(4,-1);
+        ChEyeOpenLevel(4,#1);
         MsgDisp("主人公","Really?
 ｛七ツ森＊｝'s work photos always show
 a different world.");

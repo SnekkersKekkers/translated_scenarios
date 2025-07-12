@@ -8,7 +8,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(5,30,0,0,4,-1,-1,0,0);
+    ChOpen(5,30,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("O030501000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.
@@ -24,7 +24,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(5,30,0,3,4,-1,-1,0,0);
+    ChOpen(5,30,0,3,4,#1,#1,0,0);
     VoicePlay("O030501000_05_020");
     MsgDisp("Hiiragi","Ah, I've finally found you.
 Have you found a partner yet?");
@@ -43,7 +43,7 @@ about my partner......)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();
-    ChOpen(5,30,4,2,4,0,-1,0,0);
+    ChOpen(5,30,4,2,4,0,#1,0,0);
     ChEyeOpenLevel(5,9);
     VoicePlay("O030501000_05_040");
     MsgDisp("Hiiragi","Haa, did I make it?");

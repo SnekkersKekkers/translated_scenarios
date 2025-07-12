@@ -6,7 +6,7 @@ switch (ChPrmGet(21,6)){
     case 2:
     break ;
     case 3:
-    ChOpen(21,254,0,0,0,-1,-1,0,0);
+    ChOpen(21,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A2100001_21_000");
     MsgDisp("Michiru","Good work.");
@@ -24,7 +24,7 @@ the baseball club manager......)");
     break ;
     case 4:
     case 5:
-    ChOpen(21,254,0,4,4,-1,-1,0,0);
+    ChOpen(21,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A2100001_21_020");
     MsgDisp("Michiru","Mari...... good work out there.");

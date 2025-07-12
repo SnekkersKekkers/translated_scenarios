@@ -89,7 +89,7 @@ garden at night with ｛柊＊＊＊｝.");
         MsgDisp("Hiiragi","Ah, is that so.");
         ChMouth(5,3);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040509002_05_080");
         MsgDisp("Hiiragi","The crucial part is to be with 
 you at night, and not to look

@@ -8,7 +8,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛風真＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C01_RYOUTA_A",0.01);
-        ChOpen(1,254,0,0,0,-1,-1,0,0);
+        ChOpen(1,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010100002_01_000");
         MsgDisp("Kazama","What?");
         MsgDisp("主人公","If it's okay, can we go home together?");
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","｛風真＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C01_RYOUTA_A",0.01);
-        ChOpen(1,254,0,0,3,-1,-1,0,0);
+        ChOpen(1,254,0,0,3,#1,#1,0,0);
         VoicePlay("F010100002_01_010");
         MsgDisp("Kazama","Oh, are you going now?");
         MsgDisp("主人公","Yeah.
@@ -28,7 +28,7 @@ If it's alright, lets go together.");
         MsgDisp("主人公","｛風真＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C01_RYOUTA_A",0.01);
-        ChOpen(1,254,0,4,3,-1,-1,0,0);
+        ChOpen(1,254,0,4,3,#1,#1,0,0);
         VoiceEVSPlay(1);
         VoicePlay("F010100002_01_020");
         MsgDisp("Kazama","｛主人公｝.
@@ -46,7 +46,7 @@ Should we go together?");
     MsgDisp("主人公","｛風真＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Hey, how about we go to a cafe?");
     break ;
     case 2:
@@ -57,6 +57,6 @@ I'll go home alone.");
     DbgAssert(0);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

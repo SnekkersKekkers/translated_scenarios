@@ -1,6 +1,6 @@
 BGOpen("ho000",0);
 MsgClose();
-ChOpen(21,255,3,3,3,-1,-1,0,0);
+ChOpen(21,255,3,3,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("H6G2100000_21_000");

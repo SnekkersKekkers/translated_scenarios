@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     MsgClose();
     BGMPlay("BGM_C02_SASSA_I",0.01);
-    ChOpen(2,254,1,0,3,-1,-1,0,0);
+    ChOpen(2,254,1,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H3A0200000_02_000");
     MsgDisp("Sassa","｛主人公｝.

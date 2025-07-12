@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,2,3,-1,-1,0,0);
+    ChOpen(1,30,0,2,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(1,1);
     VoicePlay("O040100002_01_000");
@@ -16,7 +16,7 @@ I wish that last one went in.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,2,3,-1,-1,0,0);
+    ChOpen(1,30,0,2,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040100002_01_010");
     MsgDisp("Kazama","Isn't it actually hard to draw?");
@@ -26,7 +26,7 @@ If only I had thrown one more......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040100002_01_020");
     MsgDisp("Kazama","Well, as long as we're still

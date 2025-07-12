@@ -2,7 +2,7 @@ BGOpen("tr430",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,2,0,2,-1,-1,0,0,0,0);
+ChOpen(5,255,2,0,2,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523202_05_000");
 MsgDisp("Hiiragi","\"Ferris wheel fortune telling\"...?
@@ -71,7 +71,7 @@ fortune of love...");
         VoicePlay("B040523202_05_050");
         MsgDisp("Hiiragi","...Pft.");
         MsgDisp("主人公","Hehe, it was yellow huh?");
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040523202_05_060");
         MsgDisp("Hiiragi","It's not a lottery,
 since there's no hit or miss?");

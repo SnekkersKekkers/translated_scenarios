@@ -5,7 +5,7 @@ SEPlay("EV_SE_DOOR_007");
 Wait(18);
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
-ChOpen(8,254,2,0,4,-1,-1,0,0);
+ChOpen(8,254,2,0,4,#1,#1,0,0);
 VoicePlay("M010800000_08_000");
 MsgDisp("Shirahane","I'm coming inー......");
 MsgDisp("主人公","Eh?∋

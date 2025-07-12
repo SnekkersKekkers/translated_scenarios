@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(6,255,0,0,0,-1,-1,0,1);
+ChOpen(6,255,0,0,0,#1,#1,0,1);
 ScrFadeIn(0);
 VoicePlay("W080600002_06_000");
 MsgDisp("Himuro","Hana, huh.

@@ -14,7 +14,7 @@ Could I get more cardboardー?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(6);
     VoicePlay("P830600001_06_000");
     MsgDisp("Himuro","｛主人公｝.");
@@ -53,7 +53,7 @@ Could I get more cardboardー?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(6,254,4,0,0,-1,-1,0,0);
+    ChOpen(6,254,4,0,0,#1,#1,0,0);
     VoicePlay("P830600001_06_030");
     MsgDisp("Himuro","………");
     MsgDisp("主人公","Huh, ｛氷室＊＊｝?

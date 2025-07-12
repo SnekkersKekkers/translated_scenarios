@@ -7,4 +7,4 @@ MsgDisp("Himuro","Oh, that sort of thing......");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-ChEyeOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);

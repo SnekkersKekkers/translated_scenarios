@@ -5,7 +5,7 @@ ChMotion(4,0);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 ChMotion(4,2,1);
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 VoicePlay("B030405000_04_000");
 MsgDisp("Nanatsumori","Alright, here's the ticket.
 Our seat number is—");
@@ -35,5 +35,5 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,0,0,-1,-1,0,0,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,0,#1,#1,0,0,0,0);

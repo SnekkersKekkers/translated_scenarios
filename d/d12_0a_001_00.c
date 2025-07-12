@@ -54,7 +54,7 @@ VoicePlay("D120A00100_02_000");
 MsgDisp("Sassa","Yo.
 Are you here for the surfing class too?");
 MsgDisp("主人公","Nope, I'm just here to observe.");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
 VoicePlay("D120A00100_01_010");
 MsgDisp("Kazama","Observe? What's with that.");
@@ -87,7 +87,7 @@ StlMouth(1,0);
 VoicePlay("D120A00100_01_030");
 MsgDisp("Kazama","All because Sassa had to ask you
 to teach us to surf......");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
 MsgDisp("主人公","(｛氷室＊＊｝ looks like he's having a 
 lot of fun?)");
@@ -100,9 +100,9 @@ MsgClose();
 StlClose();
 BGOpen("wf600",1);
 ChLayout(2);
-ChOpen(6,31,0,0,0,-1,-1,0,0,0,30);
-ChOpen(2,31,0,0,4,-1,-1,0,1,0,30);
-ChOpen(1,31,0,2,2,0,-1,0,2,0,30);
+ChOpen(6,31,0,0,0,#1,#1,0,0,0,30);
+ChOpen(2,31,0,0,4,#1,#1,0,1,0,30);
+ChOpen(1,31,0,2,2,0,#1,0,2,0,30);
 ChLayout(4);
 BGMVol(0.5,2);
 ScrFadeIn(0);
@@ -125,7 +125,7 @@ This is the first time I've ever heard
 of surfing on the sand......");
 MsgDisp("主人公","｛風真＊＊｝, are you okay?");
 ChMouth(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);

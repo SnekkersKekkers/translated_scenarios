@@ -7,7 +7,7 @@ seems like it was somewhat successful!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P740700000_07_000");
 MsgDisp("Mikage","Good work, it's quite a big deal.
 Your performance was strong.");

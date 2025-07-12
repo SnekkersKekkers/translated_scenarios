@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,4,0,4,-1,-1,0,0);
+ChOpen(5,255,4,0,4,#1,#1,0,0);
 VoicePlay("G020530100_05_000");
 MsgDisp("Hiiragi","There are an incredible number of
 fireflies out tonight.");
@@ -52,7 +52,7 @@ I almost made a major rule violation.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020530100_05_080");
 MsgDisp("Hiiragi","It's regrettable, 
 although I cannot support you.");
@@ -63,6 +63,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

@@ -7,7 +7,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 MsgDisp("主人公","Want to walk on the brick road?");
 ChMotion(4,0);
-ChEyeOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
 VoicePlay("B030402000_04_000");
 MsgDispSksp(1,0);
 MsgDisp("Nanatsumori","A stroll.

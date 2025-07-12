@@ -1,7 +1,7 @@
 EnvAutoSet(0);
 EnvPlay("SE_ENV_BG_WF720_CO2",0.5);
 BGOpen("wf710",2);
-ChOpen(7,255,4,0,0,-1,-1,0,0);
+ChOpen(7,255,4,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040706502_07_000");

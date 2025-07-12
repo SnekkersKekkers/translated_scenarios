@@ -18,7 +18,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,0.9);
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoicePlay("D130B00200_03_000");
 MsgDisp("Honda","I found you!");
 MsgDisp("主人公","｛本多＊＊｝.
@@ -34,7 +34,7 @@ ChPosition(3,1);
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2);
+ChOpen(4,254,0,0,0,#1,#1,0,2);
 VoicePlay("D130B00200_04_000");
 MsgDisp("Nanatsumori","Huh.
 You're still here.");

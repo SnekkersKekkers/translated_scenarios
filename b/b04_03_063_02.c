@@ -69,7 +69,7 @@ It's dangerous, so come here.");
         SEPlay("EV_SE_550",0,0.5);
         MsgClose();
         ChLayout(0);
-        ChOpen(3,255,1,0,3,-1,-1,0,0,0,20);
+        ChOpen(3,255,1,0,3,#1,#1,0,0,0,20);
         SEWait();
         SEPlay("EV_SE_541");
         SEWait();
@@ -82,7 +82,7 @@ It's dangerous, so come here.");
         ChClose(3,0,20);
         MsgClose();
         ChLayout(1);
-        ChOpen(3,255,2,0,4,-1,-1,0,0,0,30);
+        ChOpen(3,255,2,0,4,#1,#1,0,0,0,30);
         SEWait();
         VoicePlay("B040306302_03_060");
         MsgDisp("Honda","Huh? It's nothing...

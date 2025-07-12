@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(3);
     ChEye(5,4);
     ChMotion(5,3);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040522101_05_010");
     MsgDisp("Hiiragi","Thank you very much.
 Thankfully, it seems like everyone 
@@ -30,7 +30,7 @@ remembers it.");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040522101_05_020");
     MsgDisp("Hiiragi","I'd be happy if it were a 
 favorite of yours. ");
@@ -43,7 +43,7 @@ favorite of yours. ");
     ChEye(5,2);
     ChMouth(5,2);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040522101_05_030");
     MsgDisp("Hiiragi","D-Do what?");
     MsgDateResultDisp();

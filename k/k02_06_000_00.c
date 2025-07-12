@@ -9,7 +9,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.5);
 MsgClose();
 BGMPlay("BGM_C06_INORI_A");
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("K020600000_06_000");
 MsgDisp("Himuro","Good day.");
 MsgDisp("主人公","Oh, ｛氷室＊＊｝!

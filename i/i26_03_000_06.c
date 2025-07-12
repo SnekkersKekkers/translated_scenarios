@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("主人公","Phew......Sorry I'm late!");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,35,0,4,0,-1,-1,0,0);
+    ChOpen(3,35,0,4,0,#1,#1,0,0);
     VoicePlay("I260300000_03_640");
     MsgDisp("Honda","We told you that you had a shift
 today, right? It's not like you
@@ -37,7 +37,7 @@ even though I reserved it?");
     MsgDisp("主人公","My apologies!");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
-    ChOpen(3,35,0,0,4,-1,-1,0,0);
+    ChOpen(3,35,0,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_660");
     MsgDisp("Honda","What happened?");
     MsgDisp("主人公","I gave the item they ordered
@@ -62,7 +62,7 @@ I'll go check in the back.");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
     MsgClose();
-    ChOpen(3,35,0,0,0,-1,-1,0,0);
+    ChOpen(3,35,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(3,0,1);
     MsgDisp("主人公","I apologize for taking up

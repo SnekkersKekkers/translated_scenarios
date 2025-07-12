@@ -2,7 +2,7 @@ BGOpen("ho000",0);
 ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,254,0,0,0,-1,-1,0,0);
+ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Oh?
 ｛風真＊＊｝, good morning!
@@ -69,7 +69,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ex240",0);
-NSSOpen(1,254,6,2,-1,-1,0);
+NSSOpen(1,254,6,2,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_181");
@@ -97,7 +97,7 @@ MsgDisp("主人公","Kyaa∈
 There's a puddle here......");
 BGOpen("sc100",0);
 MsgClose();
-ChOpen(1,254,0,3,2,-1,-1,0,0);
+ChOpen(1,254,0,3,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_210");
 MsgDisp("Kazama","…………");
@@ -122,7 +122,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,3);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("D020100000_01_240");
 MsgDisp("Kazama","Are you okay?
 Your shoes are soaking wet.
@@ -164,5 +164,5 @@ until we graduate......");
 MsgDisp("主人公","(｛風真＊＊｝ reminds me of my dad......)");
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChCheek(1,0);

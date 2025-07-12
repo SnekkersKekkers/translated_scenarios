@@ -14,7 +14,7 @@ matcha and mitarashi dango.");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(2,254,0,0,4,-1,-1,0,0);
+    ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoicePlay("P030200000_02_000");
     MsgDisp("Sassa","Excuse me!
 Wow...... this is pretty fancy.");
@@ -50,7 +50,7 @@ matcha and mitarashi dango.");
     MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
     MsgClose();
-    ChOpen(2,254,4,0,4,-1,-1,0,0);
+    ChOpen(2,254,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P030200000_02_030");
     MsgDisp("Sassa","｛主人公｝,
@@ -90,6 +90,6 @@ I've received your order!");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(2,-1);
-ChMouth(2,-1);
+ChEye(2,#1);
+ChMouth(2,#1);
 ChCheek(2,0);

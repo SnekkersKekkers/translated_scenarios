@@ -88,7 +88,7 @@ Wait(20,0);
 SEPlay("EV_SE_575",0,0.9);
 SEWait();
 MsgClose();
-ChOpen(3,253,4,0,3,-1,-1,0,0,0,0);
+ChOpen(3,253,4,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B050300200_03_100");
 MsgDisp("Honda","——So, it would go something like that.");

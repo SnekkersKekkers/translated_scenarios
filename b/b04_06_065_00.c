@@ -3,7 +3,7 @@ EnvPlay("SE_ENV_BG_WF720_CO2",0.5);
 BGOpen("wf710",2);
 ChLayout(1);
 MsgClose();
-ChOpen(6,33,0,0,0,-1,-1,0,0);
+ChOpen(6,33,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040606500_06_000");
 MsgDisp("Himuro","They're magnificent.

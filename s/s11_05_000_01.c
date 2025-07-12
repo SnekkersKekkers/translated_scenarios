@@ -1,5 +1,5 @@
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);
 SEPlay("EV_SE_836");
 SEWait();
@@ -33,7 +33,7 @@ MsgDisp("主人公","Eeh!");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("S110500001_05_040");
 MsgDisp("Hiiragi","How's the saying go again......
 Familiar bad things are less stressful

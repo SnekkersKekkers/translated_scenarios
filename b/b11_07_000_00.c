@@ -10,7 +10,7 @@ MsgDisp("主人公","Hmm.
 ｛御影＊＊｝ is late...");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(33,254,0,0,0,-1,-1,0,0);
+ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110700000_33_000");
 MsgDisp("Guy","Hey, are you a believer or not?");
 MsgDisp("主人公","Eh∋
@@ -32,7 +32,7 @@ ChPosition(33,2);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,253,0,1,4,-1,-1,0,1,0,30);
+ChOpen(7,253,0,1,4,#1,#1,0,1,0,30);
 MsgDispSksp(1,5);
 VoicePlay("B110700000_07_000");
 MsgDisp("Mikage","Oi oi, where are you going?");

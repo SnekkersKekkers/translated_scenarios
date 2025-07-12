@@ -66,7 +66,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("sc811",0);
 MsgClose();
-ChOpen(5,30,0,2,4,0,-1,0,0);
+ChOpen(5,30,0,2,4,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010500700_05_050");
 MsgDisp("Hiiragi","Ah, my apologies......");

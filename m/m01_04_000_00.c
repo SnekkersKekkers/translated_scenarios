@@ -7,7 +7,7 @@ MsgClose();
 BGMPlay("BGM_C04_NANA_A");
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("M010400000_04_000");
 MsgDisp("Nanatsumori","If you're asking about her, I just
 finished introducing myself.");
@@ -40,7 +40,7 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("M010400000_04_040");
 MsgDisp("Nanatsumori","…………");
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("M010400000_04_050");
 MsgDisp("Nanatsumori","When you're not at school,
 it's like the sound's left the world,

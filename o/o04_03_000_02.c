@@ -1,7 +1,7 @@
 BGOpen("sc760",0);
 BGMPlay("BGM_SPORTS_DAY");
 MsgClose();
-ChOpen(3,30,0,0,0,-1,-1,0,0);
+ChOpen(3,30,0,0,0,#1,#1,0,0);
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

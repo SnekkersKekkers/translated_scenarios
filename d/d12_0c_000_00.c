@@ -6,8 +6,8 @@ the morning, maybe I should stop
 somewhere on the way home?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(5,254,0,0,4,-1,-1,0,1,0,30);
-ChOpen(6,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
+ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(5);
 VoicePlay("D120C00000_05_000");
 MsgDisp("Hiiragi","｛主人公｝, how about we get some 
@@ -97,7 +97,7 @@ MsgDisp("主人公","Woah, it looks delicious......!");
 StlEyeOpenLevel(5,0);
 VoicePlay("D120C00000_05_030");
 MsgDisp("Hiiragi","Yes. It has a good aroma.");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 StlEye(7,2);
 VoicePlay("D120C00000_07_030");
 MsgDisp("Mikage","Usually I'm alone when I grill.
@@ -197,11 +197,11 @@ MsgClose();
 ChLayout(2);
 MsgClose();
 BGMVol(0.5,2);
-ChOpen(7,37,0,0,0,-1,-1,0,0,0,30);
+ChOpen(7,37,0,0,0,#1,#1,0,0,0,30);
 Wait(15,0);
-ChOpen(5,254,0,0,4,-1,-1,0,1,0,30);
+ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 Wait(15,0);
-ChOpen(6,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for the meal!");
 ChEye(5,4);

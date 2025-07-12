@@ -13,7 +13,7 @@ MsgClose();
 MsgClose();
 BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
-ChOpen(7,100,2,0,0,-1,-1,0,0);
+ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛御影＊＊｝. You've brought the gardening
 club activities record.");

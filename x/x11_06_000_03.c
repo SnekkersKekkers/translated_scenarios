@@ -4,7 +4,7 @@ switch (ChPrmGet(6,6)){
     case 2:
     case 3:
     MsgClose();
-    ChOpen(6,254,0,0,4,-1,-1,0,0);
+    ChOpen(6,254,0,0,4,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110600003_06_000");
@@ -16,7 +16,7 @@ I heard you decided on a new move?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110600003_06_010");

@@ -1,9 +1,9 @@
 MsgDisp("主人公","｛御影＊＊｝, I guess......");
-StlEyeOpenLevel(21,-1);
-StlMouthOpenLevel(21,-1);
+StlEyeOpenLevel(21,#1);
+StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
-StlEyeOpenLevel(22,-1);
-StlMouthOpenLevel(22,-1);
+StlEyeOpenLevel(22,#1);
+StlMouthOpenLevel(22,#1);
 StlCheek(22,0);
 switch (ChPrmGet(7,6)){
     case 0:
@@ -24,7 +24,7 @@ Is that so?");
     MsgDisp("Hikaru","It's a bumpy road ahead～
 But you know, Mikage-sensei is also
 still a child at heart. So, perhaps...");
-    StlEyeOpenLevel(22,-1);
+    StlEyeOpenLevel(22,#1);
     StlMouth(22,0);
     StlEye(21,0);
     VoicePlay("U130D00006_21_010");

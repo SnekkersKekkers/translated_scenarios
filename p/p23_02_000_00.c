@@ -15,7 +15,7 @@ switch (ChPrmGet(2,6)){
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,38,3,3,3,0,-1,0,0);
+    ChOpen(2,38,3,3,3,0,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P230200000_02_000");
     MsgDisp("Sassa","｛主人公｝,
@@ -89,5 +89,5 @@ MsgClose();
 ScrFadeOut(0,0);
 ChEye(2,0);
 ChMouth(2,0);
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
 ChCheek(2,0);

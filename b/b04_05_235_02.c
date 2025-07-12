@@ -2,7 +2,7 @@ BGOpen("tr460",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,2,0,0,-1,-1,0,0,0,0);
+ChOpen(5,255,2,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040523501_05_000");

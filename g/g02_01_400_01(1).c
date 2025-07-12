@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChEye(1,4);
 VoicePlay("G020140001_01_000");
 MsgDisp("Kazama","When I come here, 
@@ -15,7 +15,7 @@ and green ribbon for traffic safety
 attached to your hat.");
 ChMouth(1,0);
 ChMotion(1,1);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("G020140001_01_020");
 MsgDisp("Kazama","Or the sweets we got from the old lady
 at the tobacco shop when we used 
@@ -72,6 +72,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

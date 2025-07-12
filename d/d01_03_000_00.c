@@ -8,7 +8,7 @@ MsgDisp("Honda?","Over here!");
 MsgDisp("主人公","That voice is......");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,254,0,3,0,-1,-1,0,0,0,60);
+ChOpen(3,254,0,3,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","｛本多＊＊｝!
 Are you out shopping?");
 ChEye(3,0);
@@ -86,7 +86,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","So ｛本多＊＊｝'s current lifestyle was
 born from his mother's advice.");

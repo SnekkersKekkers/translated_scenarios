@@ -13,7 +13,7 @@ VoicePlay("B360115101_01_000");
 MsgDisp("Kazama","Seriously? A 7 and 10 split.");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,255,7,2,0,0,-1,0,0);
+ChOpen(1,255,7,2,0,0,#1,0,0);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360115101_01_010");
@@ -46,7 +46,7 @@ SEWait();
 MsgDisp("主人公","Amazing!｛風真＊＊｝!");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,255,0,3,3,-1,-1,0,0,0,30);
+ChOpen(1,255,0,3,3,#1,#1,0,0,0,30);
 ChMotion(1,3);
 VoicePlay("B360115101_01_050");
 MsgDisp("Kazama","Yeah, with this now, 

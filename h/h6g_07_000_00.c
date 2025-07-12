@@ -1,6 +1,6 @@
 BGOpen("sc631",0);
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("H5G0700000_07_000");
 MsgDisp("Mikage","Congratulations.

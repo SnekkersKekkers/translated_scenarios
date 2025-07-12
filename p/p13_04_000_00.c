@@ -15,7 +15,7 @@ gathering......)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P130400000_04_000");
     MsgDisp("Nanatsumori","Cow......");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝. It's a maze with
@@ -40,7 +40,7 @@ you get to drink freshly squeezed milk～");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
-    ChOpen(4,254,0,3,3,-1,-1,0,0,0,60);
+    ChOpen(4,254,0,3,3,#1,#1,0,0,0,60);
     VoicePlay("P130400000_04_030");
     MsgDisp("Nanatsumori","That sort of flair......
 is super interesting.");

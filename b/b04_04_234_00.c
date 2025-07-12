@@ -2,8 +2,8 @@ BGOpen("tr450",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,0,2,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423400_04_000");
 MsgDisp("Nanatsumori","In one word.

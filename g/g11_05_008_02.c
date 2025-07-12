@@ -7,7 +7,7 @@ Perhaps it's my mistake......
 The amount of money doesn't add up.");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,254,4,4,0,-1,-1,0,0);
+ChOpen(5,254,4,4,0,#1,#1,0,0);
 MsgDisp("主人公","Eh? That's troubling. I'll also try to
 search around the room too.");
 ChEye(5,0);
@@ -21,7 +21,7 @@ ScrFadeOut(0,0,30);
 ChClose(5,0,0);
 BGOpen("ev005",0);
 MsgClose();
-ChOpen(5,100,0,0,0,-1,-1,0,0);
+ChOpen(5,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 MsgDisp("主人公","I searched the desk,drawers and all the
@@ -43,7 +43,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500802_05_030");
 MsgDisp("Hiiragi","I must have made a mistake inputting the
 information. I'll start over from the
@@ -70,7 +70,7 @@ while (1){
     ChMotion(5,0);
     ChEyeOpenLevel(5,0);
     Wait(10,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     SEPlay("EV_SE_712");
     }
 ChEye(5,1);
@@ -91,7 +91,7 @@ SEWait();
 BGOpen("sc605",0);
 ScrFadeIn(0);
 MsgClose();
-ChOpen(5,254,3,3,4,-1,-1,0,0);
+ChOpen(5,254,3,3,4,#1,#1,0,0);
 ChMouth(5,3);
 VoicePlay("G110500802_05_070");
 MsgDisp("Hiiragi","It's there∈

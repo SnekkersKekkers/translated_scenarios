@@ -4,7 +4,7 @@ SEPlay("EV_SE_788",1,0.6);
 ScrFadeIn(0);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
-ChOpen(1,254,0,0,2,-1,-1,0,0);
+ChOpen(1,254,0,0,2,#1,#1,0,0);
 VoicePlay("F100110002_01_000");
 MsgDisp("Kazama","Next class is dangerous.");
 MsgDisp("主人公","Oh, ｛風真＊＊｝.
@@ -30,7 +30,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,2);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F100110002_01_030");
 MsgDisp("Kazama","If you ever start feeling sleepy,
 look at this.");
@@ -80,7 +80,7 @@ Do you like ancient literature that
 much?");
 MsgClose();
 SEPlay("EV_SE_621");
-ChOpen(1,254,3,2,2,-1,-1,0,0,0,30);
+ChOpen(1,254,3,2,2,#1,#1,0,0,0,30);
 VoicePlay("F100110002_01_060");
 MsgDisp("Kazama","Ah, yes.
 ...sorry.");
@@ -130,7 +130,7 @@ ChEyeOpenLevel(1,0);
 Wait(16,0);
 ChMouth(1,3);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F100110002_01_100");
 MsgDisp("Kazama","You win.");
 MsgDisp("主人公","(I didn't end up laughing at you...

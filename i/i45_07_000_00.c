@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
 Welcome!");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450700000_07_000");
     MsgDisp("Mikage","Yo, working energetically?");
     MsgDisp("主人公","Yes.
@@ -43,7 +43,7 @@ to take a long time, right?)");
     MsgClose();
     SEPlay("EV_SE_544");
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450700000_07_040");
     MsgDisp("Mikage","Excuse me.");
     MsgDisp("主人公","Yes, I'll be right with you!
@@ -75,7 +75,7 @@ Ah, and be careful of my budget, okay?");
     MsgDisp("主人公","How is this?");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -111,7 +111,7 @@ but it'd get eaten, right?");
     case 5:
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","｛御影＊＊｝!
 Welcome!");
     ChEye(7,0);
@@ -151,7 +151,7 @@ the staff room.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();
-    ChOpen(7,255,3,0,0,-1,-1,0,0);
+    ChOpen(7,255,3,0,0,#1,#1,0,0);
     VoicePlay("I450700000_07_150");
     MsgDisp("Mikage","Ooh, it's well balanced,
 and just seeing it will cheer us up.");

@@ -25,7 +25,7 @@ you're busy, so you don't have much
 of a choice.");
 ChMouth(5,4);
 ChMotion(5,4);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("F020500005_05_020");
 MsgDisp("Hiiragi","It is not the first time this has
 happened. To attend Haba High, I had to

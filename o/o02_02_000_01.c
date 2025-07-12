@@ -6,7 +6,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(2,30,4,0,4,-1,-1,0,0);
+    ChOpen(2,30,4,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020200001_02_000");
     MsgDisp("Sassa","Oh, you look frustrated.
@@ -24,7 +24,7 @@ Haa, how frustrating.)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,30,4,0,4,-1,-1,0,0);
+    ChOpen(2,30,4,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020200001_02_020");
     MsgDisp("Sassa","Too bad, you were so close.");
@@ -57,7 +57,7 @@ until the end of the sports festival.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,30,4,0,0,-1,-1,0,0);
+    ChOpen(2,30,4,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("O020200001_02_060");

@@ -7,7 +7,7 @@ MsgDisp("主人公","(Haa... I didn't practice enough.
 I couldn't do it well...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(31,254,2,0,0,-1,-1,0,0);
+ChOpen(31,254,2,0,0,#1,#1,0,0);
 VoicePlay("P543100003_31_000");
 MsgDisp("Goro","That was game over, huh?");
 MsgDisp("主人公","Uugh, even though you came all this way...

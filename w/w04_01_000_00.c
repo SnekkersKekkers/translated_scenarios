@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,3);
+ChOpen(1,255,0,0,0,#1,#1,0,3);
 ChMouth(1,3);
 VoiceEVSPlay(1);
 VoicePlay("W040100000_01_000");

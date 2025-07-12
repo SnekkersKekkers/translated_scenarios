@@ -7,9 +7,9 @@ MsgClose();
 BGOpen("sc771",2);
 ChLayout(2);
 MsgClose();
-ChOpen(1,34,0,0,0,-1,-1,0,0,0,30);
-ChOpen(2,34,0,0,4,-1,-1,0,1,0,30);
-ChOpen(6,34,0,0,0,-1,-1,0,2,0,30);
+ChOpen(1,34,0,0,0,#1,#1,0,0,0,30);
+ChOpen(2,34,0,0,4,#1,#1,0,1,0,30);
+ChOpen(6,34,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","We're all gathered here, huh?
 ...Hehe!");

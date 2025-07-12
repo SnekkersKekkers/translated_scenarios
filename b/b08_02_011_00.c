@@ -1,6 +1,6 @@
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(2,255,2,0,2,7,-1,0,2);
+ChOpen(2,255,2,0,2,7,#1,0,2);
 VoicePlay("B080201100_02_000");
 MsgDisp("Sassa","Ugh, seriously...");
 SEPlay("EV_SE_529");

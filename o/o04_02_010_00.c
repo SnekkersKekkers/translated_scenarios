@@ -7,7 +7,7 @@ Ah, I'm with ｛颯砂＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(2,30,3,0,4,-1,-1,0,0);
+    ChOpen(2,30,3,0,4,#1,#1,0,0);
     VoicePlay("O040201000_02_000");
     MsgDisp("Sassa","Oh, we're in the same team.
 Let's do this!");
@@ -31,7 +31,7 @@ into the basket!");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(2,30,0,0,4,-1,-1,0,0);
+    ChOpen(2,30,0,0,4,#1,#1,0,0);
     VoicePlay("O040201000_02_030");
     MsgDisp("Sassa","Oh, nice, we're in the same team.
 Let's do this!");
@@ -56,7 +56,7 @@ Let's both do our best!");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(2,30,3,0,4,-1,-1,0,0);
+    ChOpen(2,30,3,0,4,#1,#1,0,0);
     VoicePlay("O040201000_02_060");
     MsgDisp("Sassa","You're on my team.
 Let's do our best together!");

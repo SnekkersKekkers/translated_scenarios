@@ -1,6 +1,6 @@
 BGOpen("ne611",0);
 MsgClose();
-ChOpen(3,253,1,0,3,-1,-1,0,0);
+ChOpen(3,253,1,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050300000_03_000");
 MsgDisp("Honda","\"First Love's Path\".
@@ -60,7 +60,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("ne600",1);
 MsgClose();
-ChOpen(3,253,0,0,0,-1,-1,0,0);
+ChOpen(3,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Hehe.
 ｛本多＊＊｝ looks like he had a good time.

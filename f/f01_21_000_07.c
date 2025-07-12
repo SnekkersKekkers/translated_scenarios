@@ -1,6 +1,6 @@
 MsgClose();
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
-ChOpen(21,254,7,0,0,-1,-1,0,0);
+ChOpen(21,254,7,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 switch (ChPrmGet(21,6)){
@@ -151,6 +151,6 @@ Did I do something wrong?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

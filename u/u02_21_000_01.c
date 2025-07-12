@@ -1,7 +1,7 @@
 BGOpen("wf500",0);
 ChLayout(1);
 MsgClose();
-ChOpen(21,255,2,3,3,0,-1,0,0);
+ChOpen(21,255,2,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U022100001_21_000");
 MsgDisp("Michiru","Wow......that view of the night sky was 

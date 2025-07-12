@@ -8,7 +8,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,3,3,-1,-1,0,0,0,60);
+ChOpen(4,254,0,3,3,#1,#1,0,0,0,60);
 VoicePlay("P740400004_04_000");
 MsgDisp("Nanatsumori","Welcome back.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.

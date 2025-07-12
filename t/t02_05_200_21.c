@@ -2,7 +2,7 @@ ChEye(5,4);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
 Wait(60,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoiceEVSPlay(5);
 VoicePlay("T020520021_05_000");
 MsgDisp("Hiiragi","｛主人公｝,
@@ -37,7 +37,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
 ChMouth(5,4);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("T020520021_05_040");
 MsgDisp("Hiiragi","Haha, it's a joke. Thanks to them, I was
 able to see your smile up close.");

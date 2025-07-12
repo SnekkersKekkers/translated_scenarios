@@ -2,7 +2,7 @@ BGOpen("sc623",0);
 ChLayout(1);
 MsgClose();
 ScrFadeIn(0);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

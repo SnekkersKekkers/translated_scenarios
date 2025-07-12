@@ -5,7 +5,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700000_07_000");
     MsgDisp("Mikage","｛主人公｝.
@@ -24,7 +24,7 @@ I did it!)");
     break ;
     case 3:
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700000_07_020");
     MsgDisp("Mikage","｛主人公｝, you're in first place.");
@@ -53,7 +53,7 @@ I'll do my best next time too.)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700000_07_050");
     MsgDisp("Mikage","｛主人公｝, look where you're on the list.

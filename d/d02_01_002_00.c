@@ -13,7 +13,7 @@ MsgDisp("主人公","Excuse me.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(36,254,0,0,1,-1,-1,0,0);
+ChOpen(36,254,0,0,1,#1,#1,0,0);
 VoicePlay("D020100200_36_000");
 MsgDisp("Ryota's Grandpa","Welcome.
 ......Oh, you're the reporter.");
@@ -25,7 +25,7 @@ ChMouth(36,0);
 VoicePlay("D020100200_36_010");
 MsgDisp("Ryota's Grandpa","I'm happy you stopped by even
 though it's not for work.");
-ChEyeOpenLevel(36,-1);
+ChEyeOpenLevel(36,#1);
 VoicePlay("D020100200_36_020");
 MsgDisp("Ryota's Grandpa","I asked Ryota to help me with bug
 drying. So he's working hard in
@@ -65,7 +65,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(36,2);
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 MsgClose();
-ChOpen(1,255,0,4,2,-1,-1,0,1);
+ChOpen(1,255,0,4,2,#1,#1,0,1);
 VoicePlay("D020100200_01_070");
 MsgDisp("Kazama","Grandpa, that's enough.
 Dad and I are different.");

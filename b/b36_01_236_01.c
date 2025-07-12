@@ -61,7 +61,7 @@ ChClose(1,0,30);
 ChLayout(0);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(1,255,0,4,3,-1,-1,0,0,0,30);
+ChOpen(1,255,0,4,3,#1,#1,0,0,0,30);
 Wait(60,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360123601_01_060");
@@ -69,7 +69,7 @@ MsgDisp("Kazama","But, I'm by your side now.");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChMouth(1,3);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("B360123601_01_070");
 MsgDisp("Kazama","I can't return back to 
 when we were in elementary school,
@@ -107,4 +107,4 @@ in elementary school...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChOpen(1,255,7,0,0,-1,-1,0,0,0,0);
+ChOpen(1,255,7,0,0,#1,#1,0,0,0,0);

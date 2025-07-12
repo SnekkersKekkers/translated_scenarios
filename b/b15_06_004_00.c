@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(6,255,2,1,1,0,-1,0,0);
+ChOpen(6,255,2,1,1,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150600400_06_000");
 MsgDisp("Himuro","Aah, enough!");
@@ -42,14 +42,14 @@ I can't keep up with this,
 so I'm going home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-ChEyeOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
 Wait(60,0);
 MsgDisp("主人公","Eh∋　Wait!");
 SEWait();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 Wait(30,0);
-ChOpen(6,255,2,1,1,0,-1,0,0);
+ChOpen(6,255,2,1,1,0,#1,0,0);
 VoicePlay("B150600400_06_050");
 MsgDisp("Himuro","What.");
 MsgDisp("主人公","I just... wanted to apologize.");

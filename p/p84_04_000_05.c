@@ -15,7 +15,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,254,0,2,2,-1,-1,0,0,0,60);
+ChOpen(4,254,0,2,2,#1,#1,0,0,0,60);
 VoicePlay("P840400005_04_000");
 MsgDisp("Nanatsumori","Hey hey.
 You can't run in the hallways.");

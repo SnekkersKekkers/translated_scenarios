@@ -17,7 +17,7 @@ in anticipation.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B020502134_05_020");
 MsgDisp("Hiiragi","You'll take responsibility for twisting
 my tastes, won't you?");

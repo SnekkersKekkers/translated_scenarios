@@ -3,7 +3,7 @@ ChLayout(1);
 SEPlay("EV_SE_582",0,0.9);
 SEWait();
 MsgClose();
-ChOpen(2,255,5,0,0,-1,-1,10,0);
+ChOpen(2,255,5,0,0,#1,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150200500_02_000");
 MsgDisp("Sassa","...It popped just now.

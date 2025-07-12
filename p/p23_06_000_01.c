@@ -13,7 +13,7 @@ switch (ChPrmGet(6,6)){
     case 5:
     MsgDisp("主人公","(Phew, I somehow made it in time...)");
     MsgClose();
-    ChOpen(6,30,0,0,0,-1,-1,0,0);
+    ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("P230600001_06_000");
     MsgDisp("Himuro","We were able to make quite an impressive 
 set, weren't we?");
@@ -59,5 +59,5 @@ MsgClose();
 ScrFadeOut(0,0);
 ChEye(6,0);
 ChMouth(6,0);
-ChEyeOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
 ChCheek(6,0);

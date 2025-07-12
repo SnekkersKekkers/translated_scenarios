@@ -8,7 +8,7 @@ switch (ChPrmGet(7,6)){
     MsgClose();
     SEPlay("EV_SE_544");
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550700000_07_000");
     MsgDisp("Mikage","Excuse me.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.
@@ -56,7 +56,7 @@ coming to check on me......)");
     MsgClose();
     SEPlay("EV_SE_544");
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550700000_07_060");
     MsgDisp("Mikage","Excuse me.");
     MsgDisp("主人公","Yes!
@@ -103,7 +103,7 @@ something wrong again?)");
     MsgClose();
     SEPlay("EV_SE_544");
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550700000_07_110");
     MsgDisp("Mikage","Yo, working hard?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.

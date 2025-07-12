@@ -5,7 +5,7 @@ SEPlay("EV_SE_654");
 Wait(50,0);
 MsgClose();
 BGMPlay("BGM_C06_INORI_A",0.01);
-ChOpen(6,35,0,0,0,-1,-1,0,0);
+ChOpen(6,35,0,0,0,#1,#1,0,0);
 switch (ChPrmGet(6,6)){
     case 0:
     case 1:

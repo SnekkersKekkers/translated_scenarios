@@ -64,7 +64,7 @@ No, it seems like excitement
 was the right feeling after all.");
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 ChCheek(5,0);
 VoicePlay("B070500001_05_600");
 MsgDisp("Hiiragi","If both our hearts are racing, 
@@ -76,6 +76,6 @@ he's around me...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

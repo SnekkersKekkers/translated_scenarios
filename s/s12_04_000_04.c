@@ -1,7 +1,7 @@
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 BGOpen("ex020",0);
 ChLayout(1);
@@ -57,7 +57,7 @@ eye.");
     MsgDisp("Nanatsumori","Yeah......");
     ChMouth(4,3);
     ChMotion(4,0,1);
-    ChEyeOpenLevel(4,-1);
+    ChEyeOpenLevel(4,#1);
     VoicePlay("S120400004_04_050");
     MsgDisp("Nanatsumori","I'll take you home.
 If we dwell on it too long, we'll just

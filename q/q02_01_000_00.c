@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("Q020100000_01_000");
     MsgDisp("Kazama","｛主人公｝.");
@@ -59,7 +59,7 @@ I feel bad......)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("Q020100000_01_050");
     MsgDisp("Kazama","｛主人公｝.");

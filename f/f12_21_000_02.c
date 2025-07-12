@@ -1,7 +1,7 @@
 BGOpen("sc500",1);
 MsgClose();
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
-ChOpen(21,254,0,0,0,-1,-1,0,0,0,0);
+ChOpen(21,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("F122100002_21_000");
 MsgDisp("Michiru","Mari. Let's go home together.");

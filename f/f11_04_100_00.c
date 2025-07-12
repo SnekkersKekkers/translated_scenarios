@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,0);
+ChOpen(4,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110410000_04_000");
 MsgDisp("Nanatsumori","Ah...");
 MsgDisp("主人公","Oh, ｛七ツ森＊｝.

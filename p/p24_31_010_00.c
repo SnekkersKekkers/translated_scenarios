@@ -5,7 +5,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc740",0);
 ChLayout(1);
-ChOpen(31,254,0,0,0,-1,-1,0,0);
+ChOpen(31,254,0,0,0,#1,#1,0,0);
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
@@ -40,7 +40,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ScrFadeIn(0);
 SEPlay("EV_SE_544");
-ChOpen(31,254,4,2,2,-1,-1,0,0);
+ChOpen(31,254,4,2,2,#1,#1,0,0);
 VoicePlay("P243101000_31_020");
 MsgDisp("Goro","Yahoo!
 The stage change was perfect♪");

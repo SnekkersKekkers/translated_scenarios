@@ -29,7 +29,7 @@ MsgDisp("主人公","Hehe, that's probably right.
 How about ｛御影＊＊｝?");
 ChEye(5,3);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B360501101_05_030");
 MsgDisp("Hiiragi","Haha, what do you think?
 Maybe he'll be angry along with Inori.");
@@ -42,7 +42,7 @@ ChEyeOpenLevel(5,0);
 Wait(40,1);
 VoicePlay("B360501101_05_040");
 MsgDisp("Hiiragi","......I don't want to.");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 Wait(40,1);
 MsgDisp("主人公","｛柊＊＊＊｝?");
 ChEye(5,0);
@@ -58,7 +58,7 @@ VoicePlay("B360501101_05_060");
 MsgDisp("Hiiragi","That always makes me laugh.");
 MsgDisp("主人公","I'm not trying to make you laugh, though?");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B360501101_05_070");
 MsgDisp("Hiiragi","I see, excuse me.
 But I still think it's better when it's

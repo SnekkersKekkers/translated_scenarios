@@ -19,7 +19,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("H610700000_07_000");
     MsgDisp("Mikage","｛主人公｝,
@@ -43,7 +43,7 @@ some herbs? You naturally become relaxed.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("H610700000_07_030");
     MsgDisp("Mikage","｛主人公｝,
@@ -79,7 +79,7 @@ Looking forward to it.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,37,0,0,0,-1,-1,0,0);
+    ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("H610700000_07_070");
     MsgDisp("Mikage","Yo, I was waiting for you.");
     MsgDisp("主人公","Huh?

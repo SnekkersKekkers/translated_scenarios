@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("F010600007_06_000");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Oh, ｛氷室＊＊｝.
@@ -24,7 +24,7 @@ So, how about we walk home together?");
     case 5:
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(6);
     VoicePlay("F010600007_06_020");
     MsgDisp("Himuro","｛主人公｝.");

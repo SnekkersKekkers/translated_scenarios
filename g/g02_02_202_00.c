@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,4,0,2,-1,-1,0,0);
+ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("G020220200_02_000");
 MsgDisp("Sassa","Ryota's a real mysterious guy......");
 MsgDisp("主人公","Wait, ｛風真＊＊｝?");
@@ -77,6 +77,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

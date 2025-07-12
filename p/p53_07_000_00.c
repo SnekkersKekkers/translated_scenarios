@@ -12,7 +12,7 @@ What should I do, I'm so nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700000_07_000");
     MsgDisp("Mikage","You're frozen stiff, aren't you?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝...");
@@ -63,7 +63,7 @@ What should I do, I'm so nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700000_07_060");
     MsgDisp("Mikage","What's this, what's this, 
 I can't watch this.");

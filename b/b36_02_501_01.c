@@ -53,4 +53,4 @@ this together in Kindergarten...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChOpen(2,255,7,0,0,-1,-1,0,0,0,0);
+ChOpen(2,255,7,0,0,#1,#1,0,0,0,0);

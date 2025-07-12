@@ -6,7 +6,7 @@ take a break in the courtyard for a bit?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(5,254,4,0,4,-1,-1,0,0);
+ChOpen(5,254,4,0,4,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 What are you up to?");
 ChEye(5,4);
@@ -45,7 +45,7 @@ SEPlay("EV_SE_596",0,0.5);
 SEWait();
 BGOpen("ev005",0);
 MsgClose();
-ChOpen(5,100,0,0,0,-1,-1,0,0);
+ChOpen(5,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 MsgDisp("主人公","You're still doing student council
@@ -92,7 +92,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500100_05_070");
 MsgDisp("Hiiragi","I didn't mean to peek, but if it's okay
 with you, I'd like to see your work next

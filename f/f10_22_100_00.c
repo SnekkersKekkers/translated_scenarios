@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Huh, over there is——");
 MsgClose();
 BGMPlay("BGM_C22_HIKARU_A",0.01);
-ChOpen(22,254,0,3,3,0,-1,0,0);
+ChOpen(22,254,0,3,3,0,#1,0,0);
 VoicePlay("F102210000_22_000");
 MsgDisp("Hikaru","Heheh♪");
 MsgDisp("主人公","｛ひかる＊｝!

@@ -1,8 +1,8 @@
 BGOpen("ne600",1);
 ChLayout(1);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,253,0,0,0,-1,-1,0,0,0,0);
+ChNanaType(#1);
+ChOpen(4,253,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 MsgSel("Today's movie was the best!","Today's movie was so-so","Today's movie was a miss, huh?");
 switch (MsgSelRsltGet()){

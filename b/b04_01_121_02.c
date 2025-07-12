@@ -80,7 +80,7 @@ I flipped some strange switch on you...");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
         MsgClose();
-        ChOpen(1,255,0,0,0,-1,-1,0,0);
+        ChOpen(1,255,0,0,0,#1,#1,0,0);
         MsgDisp("主人公","Sorry, I just can't decide.
 It's difficult to figure out
 what you'd want.");

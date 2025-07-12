@@ -9,7 +9,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
-ChOpen(7,100,0,0,0,-1,-1,0,0);
+ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChEye(7,0);
 ChMouth(7,0);

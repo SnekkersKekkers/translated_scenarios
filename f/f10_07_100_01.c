@@ -18,7 +18,7 @@ MsgDisp("主人公","Please excuse me.");
 MsgClose();
 BGOpen("sc351",0);
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F100710001_07_010");
 MsgDisp("Mikage","Welcome.");

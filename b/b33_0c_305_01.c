@@ -9,9 +9,9 @@ ScrFadeIn(0);
 MsgDisp("主人公","This darts corner has 
 a grown-up atmosphere.");
 MsgClose();
-ChOpen(7,255,1,0,0,-1,-1,0,3,0,30);
-ChOpen(5,255,0,0,4,-1,-1,0,3,0,30);
-ChOpen(6,255,0,0,0,-1,-1,0,3,0,30);
+ChOpen(7,255,1,0,0,#1,#1,0,3,0,30);
+ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
+ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 VoicePlay("B330C30501_07_000");
 MsgDisp("Mikage","Does it feel like that even
 more now that I'm here?");
@@ -152,6 +152,6 @@ ScrFadeOut(0,0);
 ChClose(5,0,0);
 ChClose(6,0,0);
 ChLayout(2);
-ChOpen(7,253,7,0,0,-1,-1,0,3,0,0);
-ChOpen(5,253,7,0,0,-1,-1,0,3,0,0);
-ChOpen(6,253,7,0,0,-1,-1,0,3,0,0);
+ChOpen(7,253,7,0,0,#1,#1,0,3,0,0);
+ChOpen(5,253,7,0,0,#1,#1,0,3,0,0);
+ChOpen(6,253,7,0,0,#1,#1,0,3,0,0);

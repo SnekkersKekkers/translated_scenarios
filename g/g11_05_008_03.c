@@ -18,7 +18,7 @@ ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,100,1,1,1,12,-1,0,0);
+ChOpen(5,100,1,1,1,12,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 SEStop("EV_SE_712",0);
@@ -34,7 +34,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500803_05_010");
 MsgDisp("Hiiragi","Yes, I have to be efficient.");
 ChMouth(5,0);
@@ -60,7 +60,7 @@ lunch break.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,0);
     Wait(10,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     SEPlay("EV_SE_712");
     }
 ChEye(5,0);
@@ -78,7 +78,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 ChCheek(5,5);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500803_05_050");
 MsgDisp("Hiiragi","Eating whilst doing something else was
@@ -99,7 +99,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500803_05_070");
 MsgDisp("Hiiragi","Phew...... Yes, this is what they would
 call 'grasping at straws' It doesn't have

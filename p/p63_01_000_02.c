@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
 It's a culmination of my efforts
 in the Gardening Club...)");
     MsgClose();
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630100002_01_000");
     MsgDisp("Kazama","Pardon the intrusion.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
@@ -39,7 +39,7 @@ used to customer service.");
     ChEyeOpenLevel(1,0);
     VoicePlay("P630100002_01_030");
     MsgDisp("Kazama","Then, shall I get your recommendation?");
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDisp("主人公","It's the organic salad.
 I've received your order～!");
     MsgClose();
@@ -52,7 +52,7 @@ I've received your order～!");
 It's a culmination of my efforts
 in the Gardening Club...)");
     MsgClose();
-    ChOpen(1,254,0,0,3,-1,-1,0,0);
+    ChOpen(1,254,0,0,3,#1,#1,0,0);
     VoicePlay("P630100002_01_040");
     MsgDisp("Kazama","Heeーh, Your outfit also suits you,
 doesn't it?");
@@ -91,6 +91,6 @@ One organic vegetable salad coming up!");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

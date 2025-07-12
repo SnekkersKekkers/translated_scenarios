@@ -8,7 +8,7 @@ VoicePlay("Q110300000_03_000");
 MsgDisp("Honda?","｛主人公｝, here I am.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,254,4,0,0,-1,-1,0,0);
+ChOpen(3,254,4,0,0,#1,#1,0,0);
 VoicePlay("Q110300000_03_010");
 MsgDisp("Honda","After all,
 I bought the Castella mascot keychain,

@@ -1,7 +1,7 @@
 MsgClose();
 BGOpen("ho000",2);
 ChLayout(1);
-ChOpen(8,255,0,2,2,-1,-1,7,0);
+ChOpen(8,255,0,2,2,#1,#1,7,0);
 ScrFadeIn(0);
 ChMotion(8,2,1);
 VoicePlay("B150800100_08_000");

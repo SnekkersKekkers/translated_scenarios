@@ -7,7 +7,7 @@ MsgDisp("主人公","(Yes, That was a good performance from
 everyone!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540700002_07_000");
 MsgDisp("Mikage","Oh, that's a nice expression.
 Congratulations.");

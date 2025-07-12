@@ -16,7 +16,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,0,0,0,8,-1,0,0);
+ChOpen(1,100,0,0,0,8,#1,0,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_084");
 Wait(100,0);
@@ -49,7 +49,7 @@ while (1){
     ChEyeOpenLevel(1,8);
     VoicePlay("G110100900_01_020");
     MsgDisp("Kazama","Haa......");
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     }
 ChEye(1,0);
 ChMouth(1,2);
@@ -77,7 +77,7 @@ ScrQuake(1);
 MsgClose();
 SEPlay("EV_SE_647",0,0.8);
 Wait(10,0);
-ChOpen(1,100,0,2,0,-1,-1,0,0,0,30);
+ChOpen(1,100,0,2,0,#1,#1,0,0,0,30);
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(7,254,2,0,0,-1,-1,0,0);
+ChOpen(7,254,2,0,0,#1,#1,0,0);
 VoicePlay("Z620700011_07_000");
 MsgDisp("Mikage","Hm, as you are right now, you could get
 hired at a second-rate company. Think

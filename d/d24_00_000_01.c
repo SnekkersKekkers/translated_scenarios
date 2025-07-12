@@ -14,7 +14,7 @@ MsgDisp("Tanaka Shin","I'm learning a lot from you too.
 Let's keep making Habacha more exciting
 together!");
 MsgClose();
-ChOpen(31,254,4,0,0,-1,-1,0,0);
+ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("D230000001_31_000");
 MsgDisp("Goro","Oh my, such great harmony▼
 Since you started working here, the

@@ -1,8 +1,8 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,0,3,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150410000_04_000");
 MsgDisp("Nanatsumori","You're waiting for payback huh?

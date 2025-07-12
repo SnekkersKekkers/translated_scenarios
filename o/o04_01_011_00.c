@@ -3,14 +3,14 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,0,3,8,-1,0,0);
+    ChOpen(1,30,0,0,3,8,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040101100_01_000");
     MsgDisp("Kazama","I'm not going easy on you.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,0,2,8,-1,0,0);
+    ChOpen(1,30,0,0,2,8,#1,0,0);
     ScrFadeIn(0);
     ChMotion(1,1);
     VoicePlay("O040101100_01_010");
@@ -20,7 +20,7 @@ on separate teams?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,0,3,-1,-1,0,0);
+    ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(1,3);
     ChMotion(1,3);

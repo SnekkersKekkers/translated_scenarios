@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(2,255,4,0,0,-1,-1,10,0);
+ChOpen(2,255,4,0,0,#1,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150200000_02_000");
 MsgDisp("Sassa","What, what's up with you?");

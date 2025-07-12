@@ -1,7 +1,7 @@
 BGOpen("sc710",0);
 ChLayout(1);
 ScrFadeIn(0);
-ChOpen(7,254,3,0,3,-1,-1,0,0);
+ChOpen(7,254,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("X210700000_07_000");
 MsgDisp("Mikage","｛主人公｝, 

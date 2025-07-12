@@ -12,7 +12,7 @@ But...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700001_07_000");
     MsgDisp("Mikage","You seem more composed, huh? ");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.
@@ -57,7 +57,7 @@ But...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P530700001_07_050");
     MsgDisp("Mikage","｛主人公｝, 

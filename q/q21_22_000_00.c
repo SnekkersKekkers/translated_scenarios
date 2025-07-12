@@ -6,7 +6,7 @@ MsgDisp("主人公","(......Hmm?
 The boy's room looks really lively......)");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(22,30,0,0,3,-1,-1,0,0);
+ChOpen(22,30,0,0,3,#1,#1,0,0);
 VoicePlay("Q212200000_22_000");
 MsgDisp("Hikaru","Oh, Mari's here too?");
 MsgDisp("主人公","Ah, ｛ひかる＊｝.

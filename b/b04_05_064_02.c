@@ -55,7 +55,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEPlay("EV_SE_022",1);
 MsgClose();
-ChOpen(5,33,4,0,4,-1,-1,0,0);
+ChOpen(5,33,4,0,4,#1,#1,0,0);
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,9);
@@ -73,7 +73,7 @@ I'm happy about everyone's feelings...");
 MsgDisp("主人公","｛柊＊＊＊｝...
 That's good.");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B040506402_05_080");
 MsgDisp("Hiiragi","Yes...");
 ChEye(5,4);

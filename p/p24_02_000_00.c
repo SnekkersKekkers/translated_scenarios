@@ -51,7 +51,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc742",0);
 BGMVol(0.5,2);
-ChOpen(2,38,5,1,1,-1,-1,0,0);
+ChOpen(2,38,5,1,1,#1,#1,0,0);
 Wait(60);
 ScrFadeIn(0);
 VoicePlay("P240200000_02_040");
@@ -170,7 +170,7 @@ SEStop("EV_SE_CLAP_002",1.5);
 SEStop("EV_SE_GAYA_021",1.5);
 BGOpen("sc740",0);
 MsgClose();
-ChOpen(2,38,4,0,4,-1,-1,0,0);
+ChOpen(2,38,4,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240200000_02_130");
 MsgDisp("Sassa","It's changed direction, but it's become

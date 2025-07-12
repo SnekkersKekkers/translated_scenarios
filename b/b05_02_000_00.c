@@ -1,6 +1,6 @@
 BGOpen("tr500",0);
 MsgClose();
-ChOpen(2,255,0,0,0,-1,-1,0,0);
+ChOpen(2,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","It's looks like there are a lot
 of hands-on activities right now.");
@@ -95,7 +95,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("tr500",0);
 Wait(60);
-ChOpen(2,255,0,2,4,-1,-1,0,0);
+ChOpen(2,255,0,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛颯砂＊＊｝, are you not good with
 milk?");

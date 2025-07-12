@@ -7,9 +7,9 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I'm glad! That was a huge success!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
-ChOpen(21,254,4,4,0,-1,-1,0,1);
+ChOpen(21,254,4,4,0,#1,#1,0,1);
 SEPlay("EV_SE_544",0,0.5);
-ChOpen(22,254,0,0,3,-1,-1,0,2);
+ChOpen(22,254,0,0,3,#1,#1,0,2);
 VoicePlay("P540D00004_21_000");
 MsgDisp("Michiru","Haa... what should I do.
 I feel like I'm going to cry. ");

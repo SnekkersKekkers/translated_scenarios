@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(7,255,1,2,0,-1,-1,0,0);
+ChOpen(7,255,1,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150700200_07_000");
 MsgDisp("Mikage","You got too carried away today didn't you?");
@@ -57,5 +57,5 @@ there's the 'opposite effect?')");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();
-ChEyeOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);
 ChClose(7,0,0);

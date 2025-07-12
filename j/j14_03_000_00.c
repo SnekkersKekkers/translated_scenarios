@@ -14,5 +14,5 @@ ChMotion(3,1);
 VoicePlay("J140300000_03_010");
 MsgDisp("Honda","Hey, next Sunday,
 Are you free then?");
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

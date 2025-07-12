@@ -1,7 +1,7 @@
 BGOpen("sc605",0);
 ChLayout(1);
 MsgClose();
-ChOpen(5,254,0,4,4,-1,-1,0,0);
+ChOpen(5,254,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("H8G0500000_05_000");
@@ -23,7 +23,7 @@ VoicePlay("H8G0500000_05_020");
 MsgDisp("Hiiragi","As part of the student council myself, I'm
 glad your efforts are being recognized,
 but to be honored as an individual......");
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","I wouldn't have been able to do
 anything on my own. It's thanks to you
 and everyone else, ｛柊＊＊＊｝.");

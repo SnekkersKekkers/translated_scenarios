@@ -8,7 +8,7 @@ It seems like my first performance
 was a huge success!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540700000_07_000");
 MsgDisp("Mikage","You did well, that was splendid.");
 MsgDisp("主人公","Ah, yes!

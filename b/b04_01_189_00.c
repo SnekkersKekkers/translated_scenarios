@@ -1,7 +1,7 @@
 BGOpen("ne600",1);
 ChLayout(1);
 MsgClose();
-ChOpen(1,253,0,0,0,-1,-1,0,0,0,0);
+ChOpen(1,253,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 MsgSel("Today's movie was wonderful!","Today's movie was so-so huh","Today's movie was a miss");
 switch (MsgSelRsltGet()){
@@ -38,7 +38,7 @@ is either a hit or a miss.");
     MsgDisp("Kazama","Yeah, I think the sound and afterimages 
 are gonna haunt me for a while...");
     MsgDispSksp(1,0);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

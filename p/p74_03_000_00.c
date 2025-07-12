@@ -8,7 +8,7 @@ seems like it was somewhat of a success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(3,254,1,0,3,-1,-1,0,0);
+ChOpen(3,254,1,0,3,#1,#1,0,0);
 VoicePlay("P740300000_03_000");
 MsgDisp("Honda","Your model walk was so stylish!");
 MsgDisp("主人公","Thank you, it's Haba High

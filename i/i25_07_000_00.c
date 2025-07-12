@@ -7,7 +7,7 @@ switch (ChPrmGet(7,6)){
     case 2:
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250700000_07_000");
     MsgDisp("Mikage","A part-time job at a bookstore.
 That's very high school-like.");
@@ -48,7 +48,7 @@ Is that all the new books?)");
 serious girl.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Hm, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -99,7 +99,7 @@ a part-time job?)");
 customers today.)");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("I250700000_07_100");
     MsgDisp("Mikage","｛主人公｝,

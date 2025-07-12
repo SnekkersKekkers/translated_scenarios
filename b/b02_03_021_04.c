@@ -14,4 +14,4 @@ I can have fun without
 restraint, too!");
 MsgDisp("主人公","(Oh, good!　｛本多＊＊｝
 seems to like this!)");
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);

@@ -30,7 +30,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C09_KUYA_A",0.01);
-ChOpen(9,255,0,0,0,-1,-1,0,0);
+ChOpen(9,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Eh......");
 ChEye(9,3);
 ChMouth(9,4);
@@ -38,7 +38,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_020");
 MsgDisp("Kuya","Why are you surprised?");
-ChEyeOpenLevel(9,-1);
+ChEyeOpenLevel(9,#1);
 MsgDisp("主人公","Ah, sorry!
 Usually when I see you, you're dressed
 casually or in uniform......");

@@ -58,7 +58,7 @@ Then, let me be clearer.");
         ChClose(5,0,30);
         ChLayout(0);
         MsgClose();
-        ChOpen(5,255,0,4,4,-1,-1,0,0);
+        ChOpen(5,255,0,4,4,#1,#1,0,0);
         VoicePlay("B040503302_05_060");
         MsgDisp("Hiiragi","Phew...
 I should have said that 

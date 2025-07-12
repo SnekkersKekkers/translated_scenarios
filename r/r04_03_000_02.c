@@ -3,8 +3,8 @@ ScrFadeOut(0);
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

@@ -64,7 +64,7 @@ popular sweet.");
         SEWait();
         MsgClose();
         SEPlay("EV_SE_544",0.01,0.5);
-        ChOpen(1,255,4,0,2,7,-1,7,0);
+        ChOpen(1,255,4,0,2,7,#1,7,0);
         MsgDisp("主人公","｛風真＊＊｝, your face is red though...
 What's wrong?");
         ChEye(1,4);

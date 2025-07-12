@@ -2,7 +2,7 @@ BGOpen("sc624",0);
 ChLayout(1);
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);

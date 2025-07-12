@@ -7,7 +7,7 @@ MsgDisp("主人公","(Yes, I think I was able to perform
 better than last year...!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(31,254,4,0,0,-1,-1,0,0);
+ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("P543100002_31_000");
 MsgDisp("Goro","It's nice isn't it, game music?
 I like it～♪");

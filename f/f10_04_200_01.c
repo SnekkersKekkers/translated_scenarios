@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
-ChOpen(4,254,0,2,5,-1,-1,0,0);
+ChOpen(4,254,0,2,5,#1,#1,0,0);
 VoicePlay("F100420001_04_000");
 MsgDisp("Nanatsumori","Woah......");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -23,7 +23,7 @@ MsgDisp("主人公","｛氷室＊＊｝?");
 ChPosition(4,1);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(6,254,0,0,0,-1,-1,0,2,0,60);
+ChOpen(6,254,0,0,0,#1,#1,0,2,0,60);
 SEWait();
 VoicePlay("F100420001_06_000");
 MsgDisp("Himuro","Minoru-senpai, thanks for yesterday...

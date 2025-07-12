@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(6,255,2,1,0,0,-1,10,0);
+ChOpen(6,255,2,1,0,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150610000_06_000");
 MsgDisp("Himuro","That's seriously absurd.");

@@ -8,7 +8,7 @@ switch (ChPrmGet(22,6)){
     case 3:
     ChLayout(1);
     MsgClose();
-    ChOpen(22,254,0,0,0,-1,-1,0,0);
+    ChOpen(22,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChEye(22,0);
     ChMouth(22,2);
@@ -39,7 +39,7 @@ Haba High will win!");
     case 5:
     ChLayout(1);
     MsgClose();
-    ChOpen(22,254,0,0,0,-1,-1,0,0);
+    ChOpen(22,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H282200000_22_030");
     MsgDisp("Hikaru","Mari!");

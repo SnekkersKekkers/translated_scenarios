@@ -1,5 +1,5 @@
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);
 ChEye(2,0);
 ChMouth(2,0);
@@ -73,6 +73,6 @@ Haha...");
     DbgAssert(0);
     break ;
     }
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

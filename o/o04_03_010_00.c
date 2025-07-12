@@ -8,7 +8,7 @@ Ah, it's ｛本多＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(3,30,1,0,3,-1,-1,0,0);
+    ChOpen(3,30,1,0,3,#1,#1,0,0);
     VoicePlay("O040301000_03_000");
     MsgDisp("Honda","Ah, you're with me?
 Looking forward to it.");
@@ -20,7 +20,7 @@ Ah, I'm with ｛本多＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(3,30,0,0,3,-1,-1,0,0);
+    ChOpen(3,30,0,0,3,#1,#1,0,0);
     VoicePlay("O040301000_03_010");
     MsgDisp("Honda","Ah, you're on this team, too?
 Looking forward to it.");
@@ -40,7 +40,7 @@ My team is......");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
-    ChOpen(3,30,3,3,3,-1,-1,0,0);
+    ChOpen(3,30,3,3,3,#1,#1,0,0);
     VoicePlay("O040301000_03_030");
     MsgDisp("Honda","Over here!");
     MsgDisp("主人公","Ah, ｛本多＊＊｝!

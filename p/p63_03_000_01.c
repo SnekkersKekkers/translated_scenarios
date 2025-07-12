@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
 selling vegetables. It would be nice if it
 was well-received...)");
     MsgClose();
-    ChOpen(3,254,1,0,3,-1,-1,0,0);
+    ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoicePlay("P630300001_03_000");
     MsgDisp("Honda","These are wonderful vegetables, huh!");
     MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome. Would you like
@@ -39,7 +39,7 @@ This way please!");
 selling vegetables. It would be nice if it
 was well-received...))");
     MsgClose();
-    ChOpen(3,254,4,0,0,-1,-1,0,0);
+    ChOpen(3,254,4,0,0,#1,#1,0,0);
     VoicePlay("P630300001_03_030");
     MsgDisp("Honda","Ahー,Fuuー...
 The aroma of fresh herbs

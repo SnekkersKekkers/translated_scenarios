@@ -10,7 +10,7 @@ VoicePlay("B110600001_34_000");
 MsgDisp("Guy","What's wrong, are you waiting?");
 MsgClose();
 SEPlay("EV_SE_557",0.2);
-ChOpen(34,254,0,0,0,-1,-1,0,0);
+ChOpen(34,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Eh? Ah, yeah.
 I'm supposed to be meeting 
 with someone...");
@@ -33,7 +33,7 @@ ChPosition(34,2);
 SEPlay("EV_SE_550");
 BGMPlay("BGM_PLACE_BEACH",0.01);
 MsgClose();
-ChOpen(6,31,0,0,0,-1,-1,0,1,0,30);
+ChOpen(6,31,0,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110600001_06_000");
 MsgDisp("Himuro","Sorry I'm late.");
 ChEye(34,2);

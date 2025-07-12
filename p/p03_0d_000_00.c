@@ -7,8 +7,8 @@ matcha and mitarashi dango.");
 MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
 MsgClose();
-ChOpen(21,254,0,0,0,-1,-1,0,1);
-ChOpen(22,254,0,0,3,-1,-1,0,2);
+ChOpen(21,254,0,0,0,#1,#1,0,1);
+ChOpen(22,254,0,0,3,#1,#1,0,2);
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);

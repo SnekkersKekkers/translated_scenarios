@@ -10,7 +10,7 @@ VoicePlay("P543100004_31_000");
 MsgDisp("Goro?","Haa...");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(31,254,2,4,4,-1,-1,0,0);
+ChOpen(31,254,2,4,4,#1,#1,0,0);
 MsgDisp("主人公","Ah,Goro-sensei!
 Were you pleased and 
 was it satisfactory?");

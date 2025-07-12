@@ -2,7 +2,7 @@ BGOpen("tr460",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChOpen(7,255,0,0,3,-1,-1,0,0,0,0);
+ChOpen(7,255,0,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723500_07_000");
 MsgDisp("Mikage","Nice, you made some good noises.");

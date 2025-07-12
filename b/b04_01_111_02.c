@@ -33,7 +33,7 @@ Despite the cold, I'm all heated up.");
 Skiing is too much trouble
 having to use the ski pole.");
     MsgDispSksp(1,8);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

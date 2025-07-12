@@ -7,7 +7,7 @@ even though it was my last show...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,254,0,0,0,-1,-1,0,0);
+ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200005_02_000");
 MsgDisp("Sassa","｛主人公｝, 

@@ -7,7 +7,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛本多＊＊｝.");
 ChEye(3,1);
 ChMouth(3,3);
@@ -32,7 +32,7 @@ MsgDisp("Himuro?","｛主人公｝.");
 MsgDisp("主人公","Ah!
 ｛氷室＊＊｝......");
 MsgClose();
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F100620001_06_010");
 MsgDisp("Himuro","Who were you talking to just now?");
 MsgDisp("主人公","Umm... myself?");
@@ -52,7 +52,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChPosition(6,1);
 MsgClose();
 SEWait();
-ChOpen(3,254,3,3,3,-1,-1,0,2);
+ChOpen(3,254,3,3,3,#1,#1,0,2);
 VoicePlay("F100620001_03_020");
 MsgDisp("Honda","Yes, yees!
 I'm also free!");

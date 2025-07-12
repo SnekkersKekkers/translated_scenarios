@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
 Ah, ｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,0,0,0,-1,-1,0,0);
+    ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550200000_02_000");
     MsgDisp("Sassa","Ah, so you're working
 part-time here.");
@@ -68,7 +68,7 @@ tastes......!)");
     MsgDisp("主人公","Welcome.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("I550200000_02_080");
     MsgDisp("Sassa","Ooh, you're working hard.");
     MsgDisp("主人公","Hehe, are you looking
@@ -91,7 +91,7 @@ Please follow me.");
     MsgClose();
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(2,255,4,0,4,-1,-1,0,0);
+    ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoicePlay("I550200000_02_100");
     MsgDisp("Sassa","Thanks for the food.
 It was good. I liked the matcha.");
@@ -126,7 +126,7 @@ an appetizer?)");
 Welcome.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
-    ChOpen(2,255,0,0,4,-1,-1,0,0);
+    ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I550200000_02_130");
     MsgDisp("Sassa","｛主人公｝,

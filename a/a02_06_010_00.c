@@ -6,7 +6,7 @@ MsgDisp("主人公","(......Huh?
 This boy right here......)");
 MsgClose();
 BGMPlay("BGM_C06_INORI_I",0.01);
-ChOpen(6,254,2,1,1,0,-1,0,0);
+ChOpen(6,254,2,1,1,0,#1,0,0);
 VoicePlay("A020601000_06_000");
 MsgDisp("Himuro?","………………");
 MsgDisp("主人公","(It's the guy who was talking 
@@ -88,7 +88,7 @@ ScrFadeOut(0);
 StlClose();
 MsgClose();
 SEPlay("EV_SE_552",0,0.8);
-ChOpen(6,254,5,1,0,-1,-1,0,0);
+ChOpen(6,254,5,1,0,#1,#1,0,0);
 Wait(60);
 ScrFadeIn(0);
 MsgDisp("主人公","......Um, I did something that

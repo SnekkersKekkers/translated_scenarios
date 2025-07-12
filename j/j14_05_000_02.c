@@ -13,4 +13,4 @@ ChMouth(5,4);
 VoicePlay("J140500002_05_000");
 MsgDisp("Hiiragi","Yeah, I'm looking forward to it.
 See you then.");
-ChEyeOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);

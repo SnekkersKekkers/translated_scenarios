@@ -1,7 +1,7 @@
 MsgClose();
 BGMPlay("BGM_FESTIVAL");
 BGOpen("sc710",0);
-ChOpen(7,254,0,2,0,-1,-1,0,0);
+ChOpen(7,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P650700001_07_000");
 MsgDisp("Mikage","This time was dissapointing?

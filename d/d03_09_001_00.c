@@ -16,7 +16,7 @@ MsgDisp("主人公","(That voice, it's......)");
 MsgClose();
 BGMPlay("BGM_C09_KUYA_I",0.01);
 ChLayout(1);
-ChOpen(9,35,0,0,0,-1,-1,0,0);
+ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030900100_44_010");
 MsgDisp("Boy","Hiccup......
 Big brother Kuya, piggyback ride.");
@@ -59,7 +59,7 @@ MsgDisp("Boy","Mommy!");
 VoicePlay("D030900100_49_000");
 MsgDisp("Woman","Geez, you bothered Kuya again.");
 MsgClose();
-ChOpen(9,35,0,3,0,-1,-1,0,0);
+ChOpen(9,35,0,3,0,#1,#1,0,0);
 ChMotion(9,4,1);
 VoicePlay("D030900100_09_050");
 MsgDisp("Kuya?","It's fine.

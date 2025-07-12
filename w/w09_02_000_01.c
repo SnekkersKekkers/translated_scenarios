@@ -3,20 +3,20 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(2,255,4,0,4,-1,-1,0,0);
+    ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoicePlay("W090200001_02_000");
     MsgDisp("Sassa","This looks like some kind of training.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(2,255,4,0,2,7,-1,0,0);
+    ChOpen(2,255,4,0,2,7,#1,0,0);
     VoicePlay("W090200001_02_010");
     MsgDisp("Sassa","You look motivated...");
     break ;
     case 4:
     case 5:
     MsgClose();
-    ChOpen(2,255,4,2,0,0,-1,0,0);
+    ChOpen(2,255,4,2,0,0,#1,0,0);
     VoicePlay("W090200001_02_020");
     MsgDisp("Sassa","When I see your smile, I can't
 stop myself from smiling either～");

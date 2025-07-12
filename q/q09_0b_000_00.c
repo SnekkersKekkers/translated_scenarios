@@ -1,11 +1,11 @@
 ChLayout(2);
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 MsgClose();
-ChOpen(1,254,0,0,0,-1,-1,0,0,0,30);
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 SEPlay("EV_SE_544");
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","Good morning!
 You're all early, aren't you?");
 VoicePlay("Q090B00000_04_000");

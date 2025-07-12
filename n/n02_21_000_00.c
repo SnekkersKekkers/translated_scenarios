@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(21,254,3,3,3,-1,-1,0,0);
+ChOpen(21,254,3,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("N022100000_21_000");
 MsgDisp("Michiru","Isn't it incredible to be leading our

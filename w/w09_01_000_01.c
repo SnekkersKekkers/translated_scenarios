@@ -3,7 +3,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,255,0,0,0,-1,-1,0,0);
+    ChOpen(1,255,0,0,0,#1,#1,0,0);
     ChEye(1,2);
     ChMouth(1,3);
     VoicePlay("W090100001_01_000");
@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,255,0,0,3,-1,-1,0,0);
+    ChOpen(1,255,0,0,3,#1,#1,0,0);
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -22,7 +22,7 @@ You like these kinds of rides, huh?");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,255,0,0,3,-1,-1,0,0);
+    ChOpen(1,255,0,0,3,#1,#1,0,0);
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

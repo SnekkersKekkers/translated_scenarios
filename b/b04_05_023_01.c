@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,4,0,4,-1,-1,0,0);
+ChOpen(5,255,4,0,4,#1,#1,0,0);
 VoicePlay("B040502301_05_000");
 MsgDisp("Hiiragi","It seems as if there are no fishermen
 here.");

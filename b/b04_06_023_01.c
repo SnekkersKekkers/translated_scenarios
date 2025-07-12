@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(6,255,0,0,4,-1,-1,0,0);
+ChOpen(6,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040602301_06_000");
 MsgDisp("Himuro","The sea makes me
 feel so small.");

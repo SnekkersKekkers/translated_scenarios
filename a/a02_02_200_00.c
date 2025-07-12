@@ -17,7 +17,7 @@ MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_DOOR_019");
 MsgClose();
-ChOpen(2,37,0,0,0,-1,-1,0,0);
+ChOpen(2,37,0,0,0,#1,#1,0,0);
 BGOpen("sc608",0);
 Wait(50);
 BGMPlay("BGM_C02_SASSA_I",0.01);
@@ -114,7 +114,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 Wait(42,0);
 MsgClose();
-ChOpen(2,37,0,0,4,-1,-1,0,0);
+ChOpen(2,37,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("A020220000_02_090");
 MsgDisp("Sassa","｛主人公｝.

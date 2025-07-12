@@ -11,7 +11,7 @@ MsgDisp("Broadcast","Next up:  Men's 100m Dash.");
 MsgClose();
 SEPlay("EV_SE_625");
 SEWait();
-ChOpen(2,30,3,0,4,-1,-1,0,0);
+ChOpen(2,30,3,0,4,#1,#1,0,0);
 VoicePlay("D120A00200_02_000");
 MsgDisp("Sassa","Hey, are you coming?");
 MsgDisp("主人公","Hehe, even if I don't, ｛颯砂＊＊｝ 
@@ -26,7 +26,7 @@ I need to run at my full strength!");
 SEPlay("EV_SE_628");
 ChPosition(2,1);
 MsgClose();
-ChOpen(1,30,0,0,2,8,-1,0,2);
+ChOpen(1,30,0,0,2,8,#1,0,2);
 SEWait();
 VoicePlay("D120A00200_01_000");
 MsgDisp("Kazama","Sassa, you need to be more considerate
@@ -82,7 +82,7 @@ VoicePlay("D120A00200_02_030");
 MsgDisp("Sassa","Ryota, this is fate.
 Let's have fun like we did back in
 kindergarten.");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("D120A00200_01_020");
 MsgDisp("Kazama","......Geez.
 You really don't remember anything, huh?");
@@ -123,7 +123,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("sc760",0);
 MsgClose();
-ChOpen(2,30,0,0,3,-1,-1,0,0);
+ChOpen(2,30,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛颯砂＊＊｝, congrats!");
 ChEye(2,0);
@@ -153,7 +153,7 @@ BGOpen("sc220",0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛風真＊＊｝, are you okay?");
 MsgClose();
-ChOpen(1,30,3,3,2,-1,-1,5,0);
+ChOpen(1,30,3,3,2,#1,#1,5,0);
 VoicePlay("D120A00200_01_040");
 MsgDisp("Kazama","Y-You......");
 ChEye(1,4);

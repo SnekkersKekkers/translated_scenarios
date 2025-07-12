@@ -4,7 +4,7 @@ ChClose(5,0,0);
 BGOpen("tr460",0);
 ChLayout(1);
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 ChMouth(5,3);
 ChMotion(5,4);
@@ -75,7 +75,7 @@ SEPlay("EV_SE_552",0,0.8);
 SEWait();
 VoicePlay("B050500100_39_020");
 MsgDisp("Ghost","I curse you～!");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 VoicePlay("B050500100_05_060");
 MsgDisp("Hiiragi","The headscarf is also completely wrong.");
 StlEyeOpenLevel(5,5,1);
@@ -84,7 +84,7 @@ SEWait();
 VoicePlay("B050500100_39_030");
 MsgDisp("Ghost","Ah, thank you so much......");
 MsgDisp("主人公","Hehe, as expected of the chairman.");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 VoicePlay("B050500100_05_070");
 MsgDisp("Hiiragi","It's fine.
 There's also room for improvement in the
@@ -101,7 +101,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(5,255,4,2,2,0,-1,0,0);
+ChOpen(5,255,4,2,2,0,#1,0,0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ScrFadeIn(0);
 VoicePlay("B050500100_05_080");

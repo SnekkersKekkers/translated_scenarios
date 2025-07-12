@@ -82,7 +82,7 @@ MsgClose();
 BGMVol(0.5,2);
 BGOpen("bh500",0);
 MsgClose();
-ChOpen(5,35,0,0,4,-1,-1,0,0);
+ChOpen(5,35,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010500500_05_030");
 MsgDisp("Hiiragi","My apologies.

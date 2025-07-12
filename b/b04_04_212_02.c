@@ -1,6 +1,6 @@
 BGOpen("tr230",0);
 ChLayout(1);
-ChNanaType(-1);
+ChNanaType(#1);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChEye(4,0);
 ChMouth(4,3);
@@ -109,8 +109,8 @@ Then, I'll wear it.");
         ChClose(4,0,30);
         MsgClose();
         ChLayout(0);
-        ChNanaType(-1);
-        ChOpen(4,255,0,5,4,-1,-1,5,0,0,60);
+        ChNanaType(#1);
+        ChOpen(4,255,0,5,4,#1,#1,5,0,0,60);
         SEPlay("EV_SE_554");
         ScrQuake(1);
         MsgDisp("主人公","｛七ツ森＊｝ can wear the gorilla cap!");

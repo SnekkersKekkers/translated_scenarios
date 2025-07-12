@@ -10,7 +10,7 @@ about my partner......)");
     SEPlay("EV_SE_625");
     SEWait();
     ChNanaType(0);
-    ChOpen(4,30,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_000");
     MsgDisp("Nanatsumori","......Ah.");
     MsgDisp("主人公","Oh.
@@ -38,7 +38,7 @@ about my partner......)");
     SEPlay("EV_SE_625");
     SEWait();
     ChNanaType(0);
-    ChOpen(4,30,0,2,1,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,2,1,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_030");
     MsgDisp("Nanatsumori","......Ugh.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!
@@ -66,7 +66,7 @@ about my partner......)");
     SEPlay("EV_SE_625");
     SEWait();
     ChNanaType(0);
-    ChOpen(4,30,0,0,0,-1,-1,0,0,0,60);
+    ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_060");
     MsgDisp("Nanatsumori","......Ah.");
     MsgDisp("主人公","Oh, ｛七ツ森＊｝!

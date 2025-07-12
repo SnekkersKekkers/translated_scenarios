@@ -2,7 +2,7 @@ BGMStop(1.7);
 Wait(60,0);
 BGOpen("sc740",0);
 MsgClose();
-ChOpen(3,38,0,0,0,-1,-1,0,0);
+ChOpen(3,38,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0,60);
 switch (ChPrmGet(3,6)){
@@ -70,5 +70,5 @@ scheming something??)");
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

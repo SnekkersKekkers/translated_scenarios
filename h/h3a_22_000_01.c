@@ -8,7 +8,7 @@ switch (ChPrmGet(22,6)){
     case 3:
     MsgClose();
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,2,0,-1,-1,0,0);
+    ChOpen(22,254,0,2,0,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H3A2200001_22_000");
@@ -29,7 +29,7 @@ I'm glad I worked so hard at judo club.)");
     case 5:
     MsgClose();
     BGMPlay("BGM_C22_HIKARU_A",0.01);
-    ChOpen(22,254,0,2,2,-1,-1,0,0);
+    ChOpen(22,254,0,2,2,#1,#1,0,0);
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H3A2200001_22_020");

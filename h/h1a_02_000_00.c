@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     case 5:
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(2,254,3,3,3,0,-1,0,0);
+    ChOpen(2,254,3,3,3,0,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H1A0200000_02_000");
     MsgDisp("Sassa","｛主人公｝.

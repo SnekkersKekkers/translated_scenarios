@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,255,3,0,4,-1,-1,0,0);
+ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoicePlay("H7G0200000_02_000");
 MsgDisp("Sassa","Congrats!
 You won an award in the contest, right?");

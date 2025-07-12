@@ -12,7 +12,7 @@ Ah, ｛柊＊＊＊｝.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I150500000_05_000");
     MsgDisp("Hiiragi","So you were working today.");
     MsgDisp("主人公","Yes.
@@ -56,7 +56,7 @@ looks like he likes shopping?)");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Welcome!");
     VoicePlay("I150500000_05_060");
@@ -102,7 +102,7 @@ What a wonderful item......");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
-    ChOpen(5,255,0,0,4,-1,-1,0,0);
+    ChOpen(5,255,0,0,4,#1,#1,0,0);
     MsgDisp("主人公","｛柊＊＊＊｝,
 welcome!");
     VoicePlay("I150500000_05_110");

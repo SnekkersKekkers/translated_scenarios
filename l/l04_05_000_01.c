@@ -67,7 +67,7 @@ The looks of it are not important.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     MsgDisp("主人公","(I wonder if I should have
 given him a nicer chocolate......?)");
     break ;

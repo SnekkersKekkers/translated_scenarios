@@ -16,7 +16,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,0,0,0,-1,-1,0,0);
+ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛風真＊＊｝, what did you want to talk to
 me about?");
@@ -40,7 +40,7 @@ ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,2);
 ChMotion(1,2);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("G110101104_01_020");
 MsgDisp("Kazama","I feel the same.
 It somewhat feels like we're
@@ -64,7 +64,7 @@ Wait(10,0);
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("G110101104_01_040");
 MsgDisp("Kazama","But, the number of customers calling for
 you is increasing. If the two of us run a

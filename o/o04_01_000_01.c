@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(1,30,0,2,2,0,-1,0,0);
+    ChOpen(1,30,0,2,2,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040100001_01_000");
     MsgDisp("Kazama","......Geez, what was that?");
@@ -14,7 +14,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     MsgClose();
-    ChOpen(1,30,0,2,2,-1,-1,0,0);
+    ChOpen(1,30,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(1,1);
     VoicePlay("O040100001_01_010");
@@ -26,10 +26,10 @@ Even though I did my best......)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(1,30,0,2,2,-1,-1,0,0);
+    ChOpen(1,30,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     ChMouth(1,3);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     VoicePlay("O040100001_01_020");
     MsgDisp("Kazama","If this was a pair competition,
 we would've won.");

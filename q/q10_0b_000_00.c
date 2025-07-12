@@ -6,10 +6,10 @@ MsgDisp("主人公","
 Reflection on the water surface makes it
 really look like a pair of glasses!");
 MsgClose();
-ChOpen(1,254,0,0,0,-1,-1,0,0,0,30);
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ChEye(4,3);
 ChMouth(4,4);
 ChMotion(4,0,1);

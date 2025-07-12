@@ -24,7 +24,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
-ChOpen(5,254,0,0,0,-1,-1,0,0);
+ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020520000_05_000");
 MsgDisp("Hiiragi?","Can I help you?");
 MsgDisp("主人公","Err......My name is ｛主人公姓名｝,

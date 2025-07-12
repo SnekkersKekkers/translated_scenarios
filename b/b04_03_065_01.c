@@ -3,7 +3,7 @@ EnvPlay("SE_ENV_BG_WF720_CO2",0.5);
 BGOpen("wf710",2);
 ChLayout(1);
 MsgClose();
-ChOpen(3,33,1,0,3,-1,-1,0,0);
+ChOpen(3,33,1,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040306501_03_000");
 MsgDisp("Honda","Did you see that just now?

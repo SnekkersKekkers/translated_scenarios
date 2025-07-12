@@ -5,7 +5,7 @@ MsgClose();
 BGMPlay("BGM_C04_NANA_A");
 ChLayout(1);
 ChNanaType(1);
-ChOpen(4,35,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("G110400600_04_000");
 MsgDisp("Nanatsumori","Hey.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.
@@ -26,7 +26,7 @@ MsgClose();
 BGMVol(0.5,2);
 BGOpen("ev004",0);
 ChNanaType(1);
-ChOpen(4,100,0,0,0,-1,-1,0,0);
+ChOpen(4,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you for waiting.
 Here's your hot coffee.");
@@ -53,7 +53,7 @@ ChMouthOpenLevel(4,0);
 VoicePlay("G110400600_04_050");
 MsgDisp("Nanatsumori","…………");
 ChMotion(4,0);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("G110400600_04_060");
 MsgDisp("Nanatsumori","Well, I only wear glasses when I go
 to school and don't take them off there.");

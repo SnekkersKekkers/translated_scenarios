@@ -3,7 +3,7 @@ ScrFadeOut(0);
 ChClose(5,0,0);
 BGOpen("fp200",0);
 ChLayout(1);
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050500200_05_000");
 MsgDisp("Hiiragi","Where around here would the spring
@@ -78,7 +78,7 @@ VoicePlay("B050500200_05_060");
 MsgDisp("Hiiragi","This is the energy source......
 I'm sure of it. I can feel that gentle
 and warm feeling in my palms.");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 VoicePlay("B050500200_05_070");
 MsgDisp("Hiiragi","......Hmm?");
 MsgDisp("主人公","What's wrong?");
@@ -100,7 +100,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("fp200",0);
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050500200_05_100");

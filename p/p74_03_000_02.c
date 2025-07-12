@@ -8,7 +8,7 @@ Seems like it was somewhat of a success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(3,254,5,0,3,-1,-1,0,0);
+ChOpen(3,254,5,0,3,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P740300002_03_000");
 MsgDisp("Honda","｛主人公｝,

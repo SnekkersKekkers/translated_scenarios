@@ -32,7 +32,7 @@ VoicePlay("D010700100_07_010");
 MsgDisp("Mikage?","You did it, Molly!∈");
 MsgClose();
 SEPlay("EV_SE_544",0,0.4);
-ChOpen(7,37,0,0,3,-1,-1,0,0);
+ChOpen(7,37,0,0,3,#1,#1,0,0);
 MsgDisp("主人公","｛御影＊＊｝.
 Did something happen?");
 ChEye(7,0);
@@ -78,7 +78,7 @@ StlClose();
 BGMVol(0.5,2);
 BGOpen("sc351",0);
 MsgClose();
-ChOpen(7,37,0,0,4,-1,-1,0,0);
+ChOpen(7,37,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700100_07_070");
 MsgDisp("Mikage","Huh......Come to think of it, why did you

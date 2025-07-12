@@ -55,7 +55,7 @@ warmer. Once you touch it you can't let
 go—");
         ChEye(5,4);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040506302_05_060");
         MsgDisp("Hiiragi","...To the point I lose control of myself
 talking, that is your charm.");

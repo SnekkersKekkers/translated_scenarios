@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040122101_01_010");
     MsgDisp("Kazama","\"What is this elusive person
 next to me thinking?\"");
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

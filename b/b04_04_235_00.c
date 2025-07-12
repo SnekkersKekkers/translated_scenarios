@@ -2,8 +2,8 @@ BGOpen("tr460",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,4,3,-1,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,4,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423500_04_000");
 MsgDisp("Nanatsumori","Hmー, just the right 

@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,4,4,4,-1,-1,8,0);
+ChOpen(3,255,4,4,4,#1,#1,8,0);
 ScrFadeIn(0);
 VoicePlay("B150310000_03_000");
 MsgDisp("Honda","Hah... your curiosity is really something.");

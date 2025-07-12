@@ -2,10 +2,10 @@ BGMStop();
 BGOpen("sc810",0);
 ChLayout(2);
 MsgClose();
-ChOpen(1,254,0,0,3,-1,-1,0,0,0,30);
-ChOpen(3,254,0,0,0,-1,-1,0,1,0,30);
+ChOpen(1,254,0,0,3,#1,#1,0,0,0,30);
+ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
-ChOpen(4,254,0,0,0,-1,-1,0,2,0,30);
+ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew!
 Time flies......

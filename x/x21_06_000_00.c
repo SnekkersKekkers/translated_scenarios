@@ -1,7 +1,7 @@
 BGOpen("sc710",0);
 ChLayout(1);
 ScrFadeIn(0);
-ChOpen(6,254,0,0,0,-1,-1,0,0);
+ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("X210600000_06_000");
 MsgDisp("Himuro","Hello.");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝!");

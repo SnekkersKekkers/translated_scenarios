@@ -4,7 +4,7 @@ switch (ChPrmGet(7,6)){
     case 2:
     case 3:
     MsgClose();
-    ChOpen(7,254,3,0,0,-1,-1,0,0);
+    ChOpen(7,254,3,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700002_07_000");
     MsgDisp("Mikage","They say that the judo practice
@@ -17,7 +17,7 @@ I was praised by ｛御影＊＊｝ 1)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,254,1,0,0,-1,-1,0,0);
+    ChOpen(7,254,1,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700002_07_010");
     MsgDisp("Mikage","They say you won all your practice

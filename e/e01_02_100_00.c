@@ -5,7 +5,7 @@ MsgDisp("主人公","(...Alright.
 It's getting dark, I should head home.)");
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A",0.01);
-ChOpen(2,255,4,0,4,-1,-1,0,0);
+ChOpen(2,255,4,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("E010210000_02_000");
 MsgDisp("Sassa","｛主人公｝, doing some shopping?");

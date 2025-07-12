@@ -6,7 +6,7 @@ it seems everything is finished.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 ChEye(1,4);
 VoicePlay("P840100002_01_000");
 MsgDisp("Kazama","Here she is, here she is, 

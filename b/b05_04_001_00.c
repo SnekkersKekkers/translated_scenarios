@@ -4,8 +4,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
 BGOpen("ne600",1);
 ChLayout(1);
@@ -140,7 +140,7 @@ BGOpen("ne600",1);
 MsgClose();
 ChLayout(1);
 ChNanaType(0);
-ChOpen(4,255,0,2,2,-1,-1,0,0);
+ChOpen(4,255,0,2,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("B050400100_04_120");

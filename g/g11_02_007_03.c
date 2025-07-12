@@ -8,7 +8,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_039");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,41,0,2,2,0,-1,0,0);
+ChOpen(2,41,0,2,2,0,#1,0,0);
 MsgDisp("主人公","Ah?｛颯砂＊＊｝.
 Why are you here?");
 ChEye(2,2);
@@ -35,7 +35,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ev002",0);
 BGMVol(0.5,2);
-ChOpen(2,100,0,1,1,-1,-1,0,0);
+ChOpen(2,100,0,1,1,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoicePlay("G110200703_02_020");
@@ -73,7 +73,7 @@ ChClose(2,0,0);
 SEWait();
 BGOpen("sc601",1);
 MsgClose();
-ChOpen(2,41,5,5,0,-1,-1,0,0);
+ChOpen(2,41,5,5,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200703_02_060");
 MsgDisp("Sassa","Huh......there's no one there......

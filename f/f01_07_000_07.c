@@ -2,7 +2,7 @@ ChLayout(1);
 BGOpen("sc130",1);
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 switch (ChPrmGet(7,6)){
     case 0:
@@ -144,6 +144,6 @@ but it just wasn't right...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
-ChEyeOpenLevel(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);
+ChEyeOpenLevel(7,#1);

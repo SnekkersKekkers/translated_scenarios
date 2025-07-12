@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,4,0,4,-1,-1,0,0);
+ChOpen(5,255,4,0,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("G020520001_05_000");
 MsgDisp("Hiiragi","｛主人公｝,
@@ -18,7 +18,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020520001_05_020");
 MsgDisp("Hiiragi","I can tell that much.");
 ChEye(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G020520001_05_030");
 MsgDisp("Hiiragi","It doesn't matter who that person is. But
 I want to get closer to you than anyone
@@ -44,6 +44,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(5,-1);
-ChMouthOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
+ChMouthOpenLevel(5,#1);
 ChCheek(5,0);

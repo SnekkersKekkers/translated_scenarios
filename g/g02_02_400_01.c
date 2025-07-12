@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,0,0,0,-1,-1,0,0);
+ChOpen(2,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020240001_02_000");
 MsgDisp("Sassa","I was asked by an acquaintance to walk
 their dogs, but there are times when I
@@ -70,6 +70,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(2,-1);
-ChMouthOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
+ChMouthOpenLevel(2,#1);
 ChCheek(2,0);

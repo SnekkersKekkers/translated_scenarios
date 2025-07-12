@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(2,255,0,0,4,-1,-1,0,0);
+ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040202302_02_000");
 MsgDisp("Sassa","It's like in those exciting sports anime.
 A strong opponent waits across the sea!

@@ -23,6 +23,6 @@ switch (ChPrmGet(7,6)){
     }
 MsgClose();
 ScrFadeOut(0,0);
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);
 SEWait();

@@ -13,7 +13,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
-ChOpen(7,100,0,0,0,-1,-1,0,0);
+ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("G110700702_07_000");

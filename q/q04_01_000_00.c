@@ -5,7 +5,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","｛風真＊＊｝, good morning.");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,254,0,0,0,8,-1,0,0);
+    ChOpen(1,254,0,0,0,8,#1,0,0);
     VoicePlay("Q040100000_01_000");
     MsgDisp("Kazama","Good morning.
 Well, aren't you in high spirits today?");
@@ -19,7 +19,7 @@ Ah, there.)");
     MsgDisp("主人公","｛風真＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("Q040100000_01_010");
     MsgDisp("Kazama","｛主人公｝.
@@ -36,7 +36,7 @@ today's free period?");
     MsgDisp("Kazama?"," ｛主人公｝.");
     MsgClose();
     SEPlay("EV_SE_544");
-    ChOpen(1,254,0,0,0,-1,-1,0,0);
+    ChOpen(1,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","......Ah, ｛風真＊＊｝!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -67,6 +67,6 @@ This time, You beat me to it.");
     DbgAssert(1);
     break ;
     }
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

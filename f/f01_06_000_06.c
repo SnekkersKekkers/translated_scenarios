@@ -3,7 +3,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,254,0,1,0,0,-1,0,0);
+    ChOpen(6,254,0,1,0,0,#1,0,0);
     VoicePlay("F010600006_06_000");
     MsgDisp("Himuro","Why?");
     MsgClose();
@@ -15,7 +15,7 @@ I'll go straight home today...)");
     break ;
     case 3:
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("F010600006_06_010");
     MsgDisp("Himuro","Another time.");
     MsgDisp("主人公","So you can't go today?");
@@ -36,7 +36,7 @@ I'll go straight home today...)");
     case 4:
     case 5:
     BGMPlay("BGM_C06_INORI_A",0.01);
-    ChOpen(6,254,4,0,0,-1,-1,0,0);
+    ChOpen(6,254,4,0,0,#1,#1,0,0);
     VoicePlay("F010600006_06_030");
     MsgDisp("Himuro","...right now?");
     MsgDisp("主人公","Yes.

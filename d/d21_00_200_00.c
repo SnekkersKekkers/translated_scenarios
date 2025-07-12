@@ -24,7 +24,7 @@ MsgClose();
 SEPlay("EV_SE_628",0,0.6);
 SEWait();
 BGMPlay("BGM_C31_GORO_A",0.01);
-ChOpen(31,254,7,4,0,-1,-1,0,0);
+ChOpen(31,254,7,4,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, Goro-sensei!");
 ChEye(31,0);
 ChMouth(31,0);

@@ -1,7 +1,7 @@
 BGOpen("sc710",0);
 ChLayout(1);
 ScrFadeIn(0);
-ChOpen(1,254,0,0,3,-1,-1,0,0);
+ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("X210100000_01_000");
 MsgDisp("Kazama","｛主人公｝.
@@ -74,7 +74,7 @@ ChMotion(1,0);
 Wait(12,0);
 ChMouth(1,3);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("X210100000_01_080");
 MsgDisp("Kazama","And that's why, you 
 should keep me in mind.");

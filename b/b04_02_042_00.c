@@ -1,6 +1,6 @@
 BGOpen("wf400",1);
 ChLayout(1);
-ChOpen(2,253,0,0,4,-1,-1,0,0);
+ChOpen(2,253,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgSel("Today's event was good!","Today's event was okay.","Today's event was awful.");
 switch (MsgSelRsltGet()){

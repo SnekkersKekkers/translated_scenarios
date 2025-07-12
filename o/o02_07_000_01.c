@@ -6,7 +6,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgClose();
-    ChOpen(7,37,3,2,0,-1,-1,0,0);
+    ChOpen(7,37,3,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020700001_07_000");
     MsgDisp("Mikage","You lost, huh.
@@ -16,7 +16,7 @@ giving it your all.");
     break ;
     case 3:
     MsgClose();
-    ChOpen(7,37,2,2,0,-1,-1,0,0);
+    ChOpen(7,37,2,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020700001_07_010");
     MsgDisp("Mikage","That was a good match.
@@ -33,7 +33,7 @@ it'll become a good memory.");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,37,3,0,0,-1,-1,0,0);
+    ChOpen(7,37,3,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020700001_07_030");
     MsgDisp("Mikage","Good work.

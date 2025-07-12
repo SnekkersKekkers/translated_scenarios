@@ -25,7 +25,7 @@ MsgDisp("主人公","Ah, ｛御影＊＊｝!
 What are you doing here?");
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("D010700500_07_010");
 MsgDisp("Mikage","An honest girl is working hard,
 so I came here to help.");
@@ -78,7 +78,7 @@ MsgClose();
 BGOpen("sc300",1);
 SEPlay("EV_SE_621");
 Wait(30,0);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700500_07_070");
 MsgDisp("Mikage","Got it? The best thing about you is that

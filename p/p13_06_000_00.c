@@ -13,7 +13,7 @@ switch (ChPrmGet(6,6)){
 production? More and more customers are
 gathering...)");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P130600000_06_000");
     MsgDisp("Himuro","Hello.");
     MsgDisp("主人公","Ah, welcome!
@@ -34,8 +34,8 @@ Dear customer, entry for one!");
     MsgDisp("Himuro","Eh, wait!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(6,-1);
-    ChMouth(6,-1);
+    ChEye(6,#1);
+    ChMouth(6,#1);
     ChCheek(6,0);
     break ;
     case 4:
@@ -47,7 +47,7 @@ Dear customer, entry for one!");
 production? More and more customers are
 gathering...)");
     MsgClose();
-    ChOpen(6,254,0,0,0,-1,-1,0,0);
+    ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P130600000_06_030");
     MsgDisp("Himuro","Quite a turnout.
 Is it really that fun?");
@@ -77,8 +77,8 @@ I'll think about——");
 I still didn't say I would enter!");
     MsgClose();
     ScrFadeOut(0,0);
-    ChEye(6,-1);
-    ChMouth(6,-1);
+    ChEye(6,#1);
+    ChMouth(6,#1);
     ChCheek(6,0);
     break ;
     default :

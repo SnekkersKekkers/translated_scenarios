@@ -1,6 +1,6 @@
 ChLayout(1);
 MsgClose();
-ChOpen(3,255,4,4,4,-1,-1,0,0);
+ChOpen(3,255,4,4,4,#1,#1,0,0);
 VoicePlay("G020310001_03_000");
 MsgDisp("Honda","Hey, do you think I talk too much 
 when I'm with you?");
@@ -76,6 +76,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

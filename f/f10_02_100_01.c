@@ -20,7 +20,7 @@ MsgDisp("Sassa?","I'm right on the mark this time.");
 MsgDisp("主人公","Ah, it's you, ｛颯砂＊＊｝.");
 BGMPlay("BGM_C02_SASSA_A",0.01);
 MsgClose();
-ChOpen(2,254,4,0,0,-1,-1,0,0);
+ChOpen(2,254,4,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛颯砂＊＊｝,
 You sure are borrowing lots.");

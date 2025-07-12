@@ -26,7 +26,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.7,0.4);
 ChClose(7);
 ChLayout(0);
 MsgClose();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_668");
 SEWait();
 VoicePlay("Q110700000_07_030");

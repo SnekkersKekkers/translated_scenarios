@@ -2,7 +2,7 @@ BGOpen("ne340",0);
 SEPlay("EV_SE_763",0,0.6);
 ChLayout(1);
 MsgClose();
-ChOpen(22,255,0,3,3,0,-1,0,0);
+ChOpen(22,255,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 ChMotion(22,5,1);
 VoicePlay("U022200000_22_000");

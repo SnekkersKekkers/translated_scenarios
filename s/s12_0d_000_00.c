@@ -1,10 +1,10 @@
 MsgClose();
 ScrFadeOut(0,0);
-ChEyeOpenLevel(21,-1);
-ChMouthOpenLevel(21,-1);
+ChEyeOpenLevel(21,#1);
+ChMouthOpenLevel(21,#1);
 ChCheek(21,0);
-ChEyeOpenLevel(22,-1);
-ChMouthOpenLevel(22,-1);
+ChEyeOpenLevel(22,#1);
+ChMouthOpenLevel(22,#1);
 ChCheek(22,0);
 BGOpen("ex020",0);
 ChLayout(1);

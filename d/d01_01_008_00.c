@@ -17,7 +17,7 @@ is the only one that's orange.");
 StlEye(1,1);
 StlEyeOpenLevel(1,5,1);
 MsgDisp("主人公","Yeah, it's the last one.");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("D010100800_01_020");
 MsgDisp("Kazama","Items choose their owners.
 So I'm sure this one must have been 
@@ -28,7 +28,7 @@ StlClose();
 BGOpen("wf700",2);
 ChLayout(1);
 MsgClose();
-ChOpen(1,33,7,0,3,-1,-1,0,0);
+ChOpen(1,33,7,0,3,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 MsgDisp("主人公","Can we please see them together

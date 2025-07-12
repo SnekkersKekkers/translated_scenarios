@@ -4,7 +4,7 @@ switch (ChPrmGet(7,6)){
     case 2:
     case 3:
     MsgClose();
-    ChOpen(7,254,0,0,0,-1,-1,0,0);
+    ChOpen(7,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700003_07_000");
     MsgDisp("Mikage","They say you were able to pull off a super
@@ -18,7 +18,7 @@ I was praised by ｛御影＊＊｝!)");
     case 4:
     case 5:
     MsgClose();
-    ChOpen(7,254,2,2,0,-1,-1,0,0);
+    ChOpen(7,254,2,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700003_07_010");
     MsgDisp("Mikage","Haa...

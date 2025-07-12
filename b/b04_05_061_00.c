@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMouth(5,4);
     ChMotion(5,4);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040506100_05_010");
     MsgDisp("Hiiragi","Yes, it's better to stay in the water.");
     MsgDispSksp(1,7);
@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(4);
     ChMouth(5,3);
     ChMotion(5,3);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040506100_05_020");
     MsgDisp("Hiiragi","Agreed.
 I am curious as to what we 
@@ -37,7 +37,7 @@ are eating for though.");
     case 2:
     DateRateSet(1);
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("B040506100_05_030");
     MsgDisp("Hiiragi","In the middle of this heat, looking down
 while walking is dangerous.");

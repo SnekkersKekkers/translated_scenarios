@@ -6,7 +6,7 @@ MsgDisp("Himuro?","......Ah, there you are.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(6,255,0,0,0,-1,-1,0,0);
+ChOpen(6,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Huh, ｛氷室＊＊｝?
 What's up?");
 ChEye(6,0);

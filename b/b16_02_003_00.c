@@ -1,5 +1,5 @@
 BGOpen("ex240",2);
-NSSOpen(2,255,0,0,-1,-1,10);
+NSSOpen(2,255,0,0,#1,#1,10);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160200300_02_000");
@@ -30,4 +30,4 @@ MsgClose();
 ScrFadeOut(0,0);
 NSSClose();
 MsgClose();
-ChOpen(2,255,0,0,0,-1,-1,0,0,0,0);
+ChOpen(2,255,0,0,0,#1,#1,0,0,0,0);

@@ -23,7 +23,7 @@ SEWait();
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,100,1,1,1,12,-1,0,0);
+ChOpen(5,100,1,1,1,12,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110500900_05_000");
 MsgDisp("Hiiragi","Ah. 
@@ -38,7 +38,7 @@ MsgDisp("Hiiragi","Drawing, that is.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChMouth(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110500900_05_020");
 MsgDisp("Hiiragi","…………");
 MsgDisp("主人公","Ahaha.
@@ -56,7 +56,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500900_05_040");
 MsgDisp("Hiiragi","Haha, thank you,
@@ -87,7 +87,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500900_05_070");
 MsgDisp("Hiiragi","No, I meant the one in your work.");

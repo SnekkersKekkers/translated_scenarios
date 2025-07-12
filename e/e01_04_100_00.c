@@ -6,7 +6,7 @@ MsgDisp("主人公","I think it's time to go home.
 MsgClose();
 BGMPlay("BGM_C04_NANA_A",0.01);
 ChNanaType(0);
-ChOpen(4,255,0,0,0,-1,-1,0,0,0,60);
+ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("E010410000_04_000");
 MsgDisp("Nanatsumori","Ah.");
 MsgDisp("主人公","Is ｛七ツ森＊｝ also going home now?");

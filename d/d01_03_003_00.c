@@ -92,7 +92,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(3,254,7,0,0,-1,-1,0,0);
+ChOpen(3,254,7,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("D010300300_03_100");
@@ -116,4 +116,4 @@ his father's......)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);
-ChOpen(7,254,0,0,0,-1,-1,0,0,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0,0,0);

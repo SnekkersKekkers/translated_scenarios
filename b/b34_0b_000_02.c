@@ -29,7 +29,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B340B00002_01_000");
 MsgDisp("Kazama","Right.");
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -6,7 +6,7 @@ switch (ChPrmGet(7,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090700000_07_000");
     MsgDisp("Mikage","Wow, like expected, the shrine is 
 really busy and lively on New years, 
@@ -57,7 +57,7 @@ best just to ignore it.");
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090700000_07_050");
     MsgDisp("Mikage","That maze of people......
 That's where they do fortunes, right?");
@@ -108,7 +108,7 @@ around too much.");
     ChLayout(1);
     ScrFadeIn(0);
     MsgClose();
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090700000_07_100");
     MsgDisp("Mikage","Look, over there.
 They're having some event.");

@@ -32,7 +32,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(6,0,30);
 ChLayout(0);
 MsgClose();
-ChOpen(6,255,1,0,0,-1,-1,0,0);
+ChOpen(6,255,1,0,0,#1,#1,0,0);
 VoicePlay("B360650100_06_030");
 MsgDisp("Himuro","I told you not to turn around.");
 MsgDisp("主人公","∋");

@@ -1,7 +1,7 @@
 SEPlay("EV_SE_518");
 SEWait();
 ChLayout(1);
-ChOpen(3,255,0,0,4,-1,-1,0,0);
+ChOpen(3,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040302401_03_000");
 MsgDisp("Honda","Hmm...? When that person rang it earlier,
 the sound was much better.");

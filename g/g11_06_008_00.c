@@ -6,7 +6,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C06_INORI_A");
-ChOpen(6,35,0,0,4,-1,-1,0,0);
+ChOpen(6,35,0,0,4,#1,#1,0,0);
 VoicePlay("G110600800_06_000");
 MsgDisp("Himuro","Yeah, I'm stopping by the beach on my way
 home. Looks like there's some good waves
@@ -30,7 +30,7 @@ MsgClose();
 MsgClose();
 BGOpen("ev006",1);
 BGMVol(0.5,2);
-ChOpen(6,100,0,0,1,-1,-1,0,0);
+ChOpen(6,100,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600800_06_020");
 MsgDisp("Himuro","You're working pretty hard aren't you?");

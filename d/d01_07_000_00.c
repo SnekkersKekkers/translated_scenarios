@@ -16,7 +16,7 @@ I'm not really hungry.)");
 SEStop("EV_SE_666",2);
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("D010700000_07_010");
 MsgDisp("Mikage","｛主人公｝, please come to the science
@@ -36,7 +36,7 @@ MsgDisp("主人公","Excuse me.");
 SEPlay("EV_SE_DOOR_013");
 BGOpen("sc351",0);
 MsgClose();
-ChOpen(7,37,0,0,0,-1,-1,0,0);
+ChOpen(7,37,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 SEWait();
 ChEye(7,0);

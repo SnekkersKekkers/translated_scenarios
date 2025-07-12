@@ -1,6 +1,6 @@
 MsgClose();
 BGOpen("tr400",0);
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050700300_44_000");
 MsgDisp("Boy","Dad! Quickly, quickly!");
@@ -94,7 +94,7 @@ StlClose();
 BGMVol(0.5,2);
 BGOpen("tr410",0);
 MsgClose();
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050700300_07_100");
 MsgDisp("Mikage","Thank you. This is thanks to you

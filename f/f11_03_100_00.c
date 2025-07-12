@@ -1,6 +1,6 @@
 BGOpen("sc710",0);
 MsgClose();
-ChOpen(3,254,1,0,3,-1,-1,0,0);
+ChOpen(3,254,1,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F110310000_03_000");
 MsgDisp("Honda","Welcome, welcome.");

@@ -9,8 +9,8 @@ SEPlay("EV_SE_DOOR_022");
 SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.5);
 BGMPlay("BGM_C04_NANA_A");
-ChNanaType(-1);
-ChOpen(4,255,0,0,0,-1,-1,0,0,0,60);
+ChNanaType(#1);
+ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("K020400000_04_000");
 MsgDisp("Nanatsumori","Evening.");
 MsgDisp("主人公","｛七ツ森＊｝!?

@@ -44,4 +44,4 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChOpen(5,255,7,0,0,-1,-1,0,0,0,0);
+ChOpen(5,255,7,0,0,#1,#1,0,0,0,0);

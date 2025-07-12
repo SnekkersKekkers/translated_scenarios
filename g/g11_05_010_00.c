@@ -14,7 +14,7 @@ ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-ChOpen(5,100,1,1,1,12,-1,0,0);
+ChOpen(5,100,1,1,1,12,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 SEStop("EV_SE_712",0);
@@ -27,7 +27,7 @@ ChMouth(5,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 MsgDisp("主人公","(Hey...... were ｛柊＊＊＊｝'s eyes
 always such a pretty colour......)");
@@ -41,7 +41,7 @@ while (1){
     ChMotion(5,1);
     ChEyeOpenLevel(5,0);
     Wait(10,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("G110501000_05_030");
     MsgDisp("Hiiragi","Touching me out of nowhere......
 Your bad habits are starting to emerge.");
@@ -50,7 +50,7 @@ Your bad habits are starting to emerge.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,0);
     Wait(10,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     }
 ChEye(5,1);
 ChMouth(5,1);
@@ -63,7 +63,7 @@ VoicePlay("G110501000_05_020");
 MsgDisp("Hiiragi","What do we do after our eyes meet?");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110501000_05_050");
 MsgDisp("Hiiragi","Shall I guess what you're thinking?");
 MsgDisp("主人公","Eh?");
@@ -72,7 +72,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110501000_05_060");
 MsgDisp("Hiiragi","The other day we went to see Habataki
 Theatre Company's performance together,
@@ -100,7 +100,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("G110501000_05_090");
 MsgDisp("Hiiragi","So don't think anything of it......
 And please don't treat me any differently.");
@@ -118,7 +118,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","(｛柊＊＊＊｝ has had lots of difficult
 experiences since he was little...... Even
 if it's just a little, I would like to

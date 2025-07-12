@@ -3,7 +3,7 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(2,41,0,2,0,-1,-1,0,0);
+ChOpen(2,41,0,2,0,#1,#1,0,0);
 VoicePlay("D010200400_02_000");
 MsgDisp("Sassa","That's strange......Is it broken?");
 MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
@@ -91,7 +91,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(60);
-ChOpen(2,41,2,2,4,-1,-1,10,0,0,0);
+ChOpen(2,41,2,2,4,#1,#1,10,0,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Uhm......
 Sorry......");

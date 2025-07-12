@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(22,254,0,2,0,-1,-1,0,0);
+ChOpen(22,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("N022200003_22_000");
 MsgDisp("Hikaru","Uh oh～

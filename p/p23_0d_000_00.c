@@ -8,8 +8,8 @@ MsgDisp("Michiru?","Are you nervous?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
-ChOpen(21,38,0,0,0,-1,-1,0,1);
-ChOpen(22,38,0,0,0,-1,-1,0,2);
+ChOpen(21,38,0,0,0,#1,#1,0,1);
+ChOpen(22,38,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 When I think about the fact I can't fail,
 my heart begins to thud...");

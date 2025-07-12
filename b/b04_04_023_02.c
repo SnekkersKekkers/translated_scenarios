@@ -1,6 +1,6 @@
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,0,2,8,-1,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,2,8,#1,0,0);
 VoicePlay("B040402302_04_000");
 MsgDisp("Nanatsumori","There's lots of couples huh...");
 MsgSel("Aren't we also one?","How sweet","Is there some sort of jinx on us?");
@@ -31,7 +31,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("Nanatsumori","Eh∋");
         MsgDisp("主人公","Ah, are we not...?");
         ChMotion(4,0,1);
-        ChEyeOpenLevel(4,-1);
+        ChEyeOpenLevel(4,#1);
         VoicePlay("B040402302_04_030");
         MsgDisp("Nanatsumori","Hmー...
 A man and woman are going on a date, 

@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("S060200000_02_000");
     MsgDisp("Sassa","Happy New Year.
 Are you ready?");
@@ -18,7 +18,7 @@ Happy New Year.
 Yep, I'm ready.");
     break ;
     case 3:
-    ChOpen(2,255,3,0,4,-1,-1,0,0);
+    ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("S060200000_02_010");
     MsgDisp("Sassa","｛主人公｝,
@@ -28,7 +28,7 @@ Happy New Year.");
     break ;
     case 4:
     case 5:
-    ChOpen(2,255,4,0,4,-1,-1,0,0);
+    ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("S060200000_02_020");
     MsgDisp("Sassa","｛主人公｝,

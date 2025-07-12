@@ -12,7 +12,7 @@ MsgDisp("Guy","Ah, a nice one has respawned.");
 MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_557",0.2);
-ChOpen(34,254,0,0,0,-1,-1,0,0);
+ChOpen(34,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500001_34_010");
 MsgDisp("Guy","Let's get out of here quickly,
 because you're an easy target 
@@ -21,7 +21,7 @@ SEPlay("EV_SE_542");
 ChPosition(34,2);
 MsgClose();
 Wait(55,0);
-ChOpen(5,31,0,0,4,-1,-1,0,1,0,30);
+ChOpen(5,31,0,0,4,#1,#1,0,1,0,30);
 MsgDispSksp(1,5);
 VoiceEVSPlay(5);
 VoicePlay("B110500001_05_000");
@@ -68,7 +68,7 @@ Wait(60,0);
 VoicePlay("B110500001_34_050");
 MsgDisp("Guy","Need to report this to the devs.");
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("B110500001_05_030");
 MsgDisp("Hiiragi","It's hot, isn't it...
 But ignoring it is probably 

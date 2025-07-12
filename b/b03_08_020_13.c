@@ -18,7 +18,7 @@ ScrFadeOut(0);
 ChClose(8,0,0);
 BGOpen("wf220",0);
 MsgClose();
-ChOpen(8,255,0,3,3,-1,-1,0,0);
+ChOpen(8,255,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 ChMotion(8,1,1);

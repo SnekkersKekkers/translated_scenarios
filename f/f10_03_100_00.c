@@ -4,7 +4,7 @@ MsgDisp("主人公","(Lunch break is going to end soon.
 I have to head back to the classroom...)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Huh, ｛本多＊＊｝?
 What are you doing in a place like this?");
 ChEye(3,3);

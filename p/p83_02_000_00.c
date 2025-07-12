@@ -13,7 +13,7 @@ to be placed in front of each classroom.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,4,0,0,-1,-1,0,0);
+    ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200000_02_000");
     MsgDisp("Sassa","｛主人公｝.
@@ -50,7 +50,7 @@ to be placed in front of each classroom.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200000_02_030");
     MsgDisp("Sassa","｛主人公｝.

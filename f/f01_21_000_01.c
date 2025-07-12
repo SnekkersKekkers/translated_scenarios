@@ -6,7 +6,7 @@ switch (ChPrmGet(21,6)){
     MsgDisp("主人公","｛みちる＊｝.");
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
-    ChOpen(21,254,5,4,4,-1,-1,0,0);
+    ChOpen(21,254,5,4,4,#1,#1,0,0);
     VoicePlay("F012100001_21_000");
     MsgDisp("Michiru","It's no good, Mari.
 It's embarrassing when you call me that...");
@@ -22,7 +22,7 @@ her that.)");
     MsgDisp("主人公","｛みちる＊｝.");
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
-    ChOpen(21,254,0,5,4,-1,-1,0,0);
+    ChOpen(21,254,0,5,4,#1,#1,0,0);
     VoicePlay("F012100001_21_010");
     MsgDisp("Michiru","...Huh?
 Are you talking to me?");
@@ -46,7 +46,7 @@ her that.)");
     MsgDisp("主人公","｛みちる＊｝.");
     MsgClose();
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
-    ChOpen(21,254,0,2,3,-1,-1,0,0);
+    ChOpen(21,254,0,2,3,#1,#1,0,0);
     VoicePlay("F012100001_21_030");
     MsgDisp("Michiru","Ugh, that...
 Are you joking?");

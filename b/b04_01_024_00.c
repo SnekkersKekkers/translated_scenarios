@@ -6,7 +6,7 @@ SEPlay("EV_SE_517");
 Wait(110,0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,3,-1,-1,0,0);
+ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

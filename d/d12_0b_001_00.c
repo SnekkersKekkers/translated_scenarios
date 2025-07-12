@@ -37,13 +37,13 @@ with her.");
 VoicePlay("D120B00100_04_010");
 MsgDisp("Nanatsumori","There's no way you could tell from
 this distance......");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 VoicePlay("D120B00100_01_010");
 MsgDisp("Kazama","True.");
 MsgDisp("主人公","Hey!
 What are you guys doing up on the
 rooftop?");
-StlEyeOpenLevel(3,-1);
+StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00100_03_020");
 MsgDisp("Honda","We were trying telepathy on you!");
 MsgDisp("主人公","Eh, telepathy?");
@@ -60,11 +60,11 @@ judge something like this......");
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00100_03_040");
 MsgDisp("Honda","Mine was the most surprising, right?");
-StlEyeOpenLevel(1,-1);
+StlEyeOpenLevel(1,#1);
 MsgDisp("主人公","S......Sorry!
 I felt like someone was watching me but
 I couldn't tell who it was!");
-StlEyeOpenLevel(3,-1);
+StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00100_03_050");
 MsgDisp("Honda","I see.
 Thanks for your help anyway. ∈

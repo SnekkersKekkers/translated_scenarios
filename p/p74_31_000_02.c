@@ -6,7 +6,7 @@ MsgDisp("主人公","(I'm glad, it was a huge success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(31,254,2,2,2,-1,-1,0,0);
+ChOpen(31,254,2,2,2,#1,#1,0,0);
 VoicePlay("P743100002_31_000");
 MsgDisp("Goro","Welcome back.
 It was like I was transported

@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(3,255,1,0,3,-1,-1,0,0);
+ChOpen(3,255,1,0,3,#1,#1,0,0);
 ChLayout(1);
 VoicePlay("G020310305_03_000");
 MsgDisp("Honda","It really looks like their numbers have
@@ -67,6 +67,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(3,-1);
-ChMouthOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
+ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

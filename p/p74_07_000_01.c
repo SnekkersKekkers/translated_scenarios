@@ -6,7 +6,7 @@ MsgDisp("主人公","(Haa... I fell...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P740700001_07_000");
 MsgDisp("Mikage","I'm glad.
 It doesn't seem like you're injured.");

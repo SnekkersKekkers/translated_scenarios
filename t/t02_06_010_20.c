@@ -1,4 +1,4 @@
-ChEyeOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 MsgDisp("主人公","I also like ｛氷室＊＊｝.
 I have for a long time.");

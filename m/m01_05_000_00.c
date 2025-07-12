@@ -21,7 +21,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
-ChOpen(5,255,2,4,4,-1,-1,0,0);
+ChOpen(5,255,2,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("M010500000_05_030");
 MsgDisp("Hiiragi","I apologize, especially when you are

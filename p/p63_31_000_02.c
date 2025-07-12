@@ -6,7 +6,7 @@ MsgDisp("主人公","(This year we're doing an organic cafe.
 It's the culmination of the Gardening
 club's efforts...)");
 MsgClose();
-ChOpen(31,254,0,3,3,-1,-1,0,0);
+ChOpen(31,254,0,3,3,#1,#1,0,0);
 VoicePlay("P633100002_31_000");
 MsgDisp("Goro","Well, it's you.
 This is a nice terrace, isn't it?");

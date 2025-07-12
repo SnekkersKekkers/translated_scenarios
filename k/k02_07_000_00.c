@@ -10,7 +10,7 @@ SEPlay("EV_SE_DOOR_022");
 SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.5);
 BGMPlay("BGM_C07_MIKAGE_A");
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("K020700000_07_000");
 MsgDisp("Mikage","Good evening, this is Mikage Delivery.
 I have a package for you.");

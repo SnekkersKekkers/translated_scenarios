@@ -6,8 +6,8 @@ VoicePlay("G110300502_03_000");
 MsgDisp("Honda?","｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Are you heading home now?");
 ChEye(3,4);
@@ -33,7 +33,7 @@ MsgClose();
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
-ChOpen(3,100,0,1,1,-1,-1,0,0);
+ChOpen(3,100,0,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300502_03_020");
 MsgDisp("Honda","Huh-?

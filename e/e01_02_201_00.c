@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
-ChOpen(3,255,5,5,4,-1,-1,0,0);
+ChOpen(3,255,5,5,4,#1,#1,0,0);
 VoicePlay("E010220100_03_010");
 MsgDisp("Honda","Hey∋
 It's not Sakkun, it's you.");
@@ -43,7 +43,7 @@ ChPosition(3,1);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 MsgClose();
-ChOpen(2,255,5,5,0,-1,-1,0,2);
+ChOpen(2,255,5,5,0,#1,#1,0,2);
 VoicePlay("E010220100_02_010");
 MsgDisp("Sassa","Huh∋
 You're here too?");

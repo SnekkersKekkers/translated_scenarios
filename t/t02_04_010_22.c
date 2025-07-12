@@ -16,7 +16,7 @@ VoicePlay("T020401000_04_270");
 MsgDisp("Nanatsumori","…………");
 ChEye(4,2);
 ChMotion(4,0,1);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("T020401000_04_280");
 MsgDisp("Nanatsumori","Ah, I see......
 You say cute things

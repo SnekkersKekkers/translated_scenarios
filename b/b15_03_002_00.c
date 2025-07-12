@@ -1,5 +1,5 @@
 BGOpen("ho000",2);
-ChOpen(3,255,2,2,4,-1,-1,0,0);
+ChOpen(3,255,2,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300200_03_000");
 MsgDisp("Honda","Maybe it's not about technique after all.");

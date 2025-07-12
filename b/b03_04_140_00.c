@@ -35,5 +35,5 @@ SEStop("EV_SE_GAYA_003",1);
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();
-ChNanaType(-1);
-ChOpen(4,255,0,0,0,-1,-1,0,0,0,0);
+ChNanaType(#1);
+ChOpen(4,255,0,0,0,#1,#1,0,0,0,0);

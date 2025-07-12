@@ -23,7 +23,7 @@ a better chocolate?)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(7,0,0);
-    ChEyeOpenLevel(7,-1);
+    ChEyeOpenLevel(7,#1);
     break ;
     case 3:
     ChEye(7,0);

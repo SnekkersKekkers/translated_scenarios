@@ -73,7 +73,7 @@ now\"...");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
         MsgClose();
-        ChOpen(2,253,0,0,0,-1,-1,0,0);
+        ChOpen(2,253,0,0,0,#1,#1,0,0);
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

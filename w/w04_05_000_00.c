@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,3);
+ChOpen(5,255,0,0,4,#1,#1,0,3);
 VoiceEVSPlay(5);
 VoicePlay("W040500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");

@@ -13,7 +13,7 @@ I will look somewhere else.");
 MsgDisp("主人公","These voices......");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("E010120100_05_010");
 MsgDisp("Hiiragi","Ah, hello.");
 MsgDisp("主人公","Hello, ｛柊＊＊＊｝.
@@ -40,7 +40,7 @@ MsgDisp("Kazama?","Wait a minute.");
 ChPosition(5,1);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
-ChOpen(1,35,0,0,2,-1,-1,0,2);
+ChOpen(1,35,0,0,2,#1,#1,0,2);
 MsgDisp("主人公","｛風真＊＊｝!");
 ChEye(1,0);
 ChMouth(1,2);

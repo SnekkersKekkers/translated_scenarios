@@ -85,5 +85,5 @@ about it. But vegetables......?)");
     DbgAssert(1);
     break ;
     }
-ChEye(7,-1);
-ChMouth(7,-1);
+ChEye(7,#1);
+ChMouth(7,#1);

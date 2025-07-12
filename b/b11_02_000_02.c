@@ -12,7 +12,7 @@ SEPlay("EV_SE_524");
 SEWait();
 MsgClose();
 SEPlay("EV_SE_544");
-ChOpen(35,254,0,0,0,-1,-1,0,0);
+ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110200002_35_000");
 MsgDisp("Guy","Oh, it's been a while since I've felt 
 such a spark! How about we go to 
@@ -37,7 +37,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(25,0);
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A",0.01);
-ChOpen(2,253,4,0,0,-1,-1,0,1,0,30);
+ChOpen(2,253,4,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110200002_02_010");
 MsgDisp("Sassa","Sorry I'm late.
 Are you alright?");

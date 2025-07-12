@@ -7,7 +7,7 @@ seems like it was somewhat of a success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(5,254,0,0,4,-1,-1,0,0);
+ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("P740500002_05_000");
 MsgDisp("Hiiragi","Thank you for your hard work.");
 MsgDisp("主人公","Thank you, ｛柊＊＊＊｝!

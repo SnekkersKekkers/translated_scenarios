@@ -53,6 +53,6 @@ MsgDisp("主人公","(Am I also drawn in by
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-ChEyeOpenLevel(1,-1);
-ChMouthOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
+ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

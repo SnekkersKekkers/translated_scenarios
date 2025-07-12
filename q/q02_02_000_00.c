@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     case 3:
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q020200000_02_000");
     MsgDisp("Sassa","｛主人公｝.
@@ -62,7 +62,7 @@ I feel bad......)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
-    ChOpen(2,254,3,0,4,-1,-1,0,0);
+    ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q020200000_02_050");
     MsgDisp("Sassa","｛主人公｝.

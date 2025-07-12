@@ -1,7 +1,7 @@
 BGOpen("ho000",0);
 ChLayout(1);
 MsgClose();
-ChOpen(1,255,0,0,0,-1,-1,0,0);
+ChOpen(1,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("H8G0100000_01_000");
 MsgDisp("Kazama","Yo.");

@@ -38,7 +38,7 @@ BGMVol(0.5,2);
 BGOpen("sc820",0);
 MsgClose();
 ChNanaType(0);
-ChOpen(4,254,0,0,3,-1,-1,0,0);
+ChOpen(4,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070401000_04_050");
 MsgDisp("Nanatsumori","I really thought it would be boring and 

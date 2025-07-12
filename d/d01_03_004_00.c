@@ -44,7 +44,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 MsgClose();
-ChOpen(3,254,0,0,0,-1,-1,0,0);
+ChOpen(3,254,0,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("D010300400_03_060");

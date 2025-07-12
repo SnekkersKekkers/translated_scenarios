@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     case 5:
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_B",0.01);
-    ChOpen(5,254,0,3,3,-1,-1,0,0);
+    ChOpen(5,254,0,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(5,3);
     VoicePlay("H3A0500000_05_000");
@@ -37,7 +37,7 @@ It was beautiful.");
     VoicePlay("H3A0500000_05_030");
     MsgDisp("Hiiragi","Your judo completely mesmerized me.");
     ChMotion(5,0);
-    ChEyeOpenLevel(5,-1);
+    ChEyeOpenLevel(5,#1);
     VoicePlay("H3A0500000_05_040");
     MsgDisp("Hiiragi","Hm?
 No, perhaps it was you?");

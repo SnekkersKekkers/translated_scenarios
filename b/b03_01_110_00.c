@@ -12,7 +12,7 @@ VoicePlay("B030111000_01_000");
 MsgDisp("Kazama","I can't move my legs forward...
 Sigh...");
 MsgDispSksp(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hey, shall we go?");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -20,4 +20,4 @@ MsgClose();
 ScrFadeOut(0);
 ChClose(1,0,0);
 MsgClose();
-ChOpen(1,31,0,0,0,-1,-1,0,0,0,0);
+ChOpen(1,31,0,0,0,#1,#1,0,0,0,0);

@@ -36,7 +36,7 @@ VoicePlay("G020410100_04_050");
 MsgDisp("Nanatsumori","…………");
 MsgDisp("主人公","……｛七ツ森＊｝?");
 ChMotion(4,1,1);
-ChMouthOpenLevel(4,-1);
+ChMouthOpenLevel(4,#1);
 VoicePlay("G020410100_04_060");
 MsgDisp("Nanatsumori","I guess awkward, but... I guess
 it's mostly happy.");
@@ -54,6 +54,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(1);
-ChEyeOpenLevel(4,-1);
-ChMouthOpenLevel(4,-1);
+ChEyeOpenLevel(4,#1);
+ChMouthOpenLevel(4,#1);
 ChCheek(4,0);

@@ -17,7 +17,7 @@ SEWait();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-ChOpen(5,254,4,3,3,-1,-1,0,0);
+ChOpen(5,254,4,3,3,#1,#1,0,0);
 VoicePlay("P840500002_05_000");
 MsgDisp("Hiiragi","Using both the management notebook 
 and the counter was a good idea.");

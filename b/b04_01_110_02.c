@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
 it. Then again, maybe that has nothing to
 do with water.");
     MsgDispSksp(1,7);
-    ChEyeOpenLevel(1,-1);
+    ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
     MsgDispSksp(0);
     break ;

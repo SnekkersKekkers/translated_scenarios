@@ -7,7 +7,7 @@ My dress also got dirty...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
-ChOpen(5,254,0,4,4,-1,-1,0,0);
+ChOpen(5,254,0,4,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("P740500003_05_000");
 MsgDisp("Hiiragi","｛主人公｝, are you alright?");

@@ -45,7 +45,7 @@ MsgDisp("Male Student","Yes.
 So......Will you please go out with me?");
 StlEyeOpenLevel(21,0,1);
 Wait(6,0);
-StlEyeOpenLevel(21,-1);
+StlEyeOpenLevel(21,#1);
 VoicePlay("D012100000_21_050");
 MsgDisp("Michiru","∈");
 StlEye(21,0);
@@ -78,7 +78,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-ChOpen(21,254,4,4,4,-1,-1,5,0,0,0);
+ChOpen(21,254,4,4,4,#1,#1,5,0,0,0);
 ScrFadeIn(0);
 VoicePlay("D012100000_21_100");
 MsgDisp("Michiru","Sigh......");

@@ -8,7 +8,7 @@ I was able to give my best
 performance in three years...!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(7,254,0,0,0,-1,-1,0,0);
+ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("P540700004_07_000");
 MsgDisp("Mikage","｛主人公｝.");
@@ -52,7 +52,7 @@ MsgClose();
 ChClose(7,0,30);
 ChLayout(0);
 SEPlay("EV_SE_544",0,0.6);
-ChOpen(7,254,0,0,3,-1,-1,0,0,0,30);
+ChOpen(7,254,0,0,3,#1,#1,0,0,0,30);
 Wait(60);
 MsgClose();
 ScrFadeOut(0);

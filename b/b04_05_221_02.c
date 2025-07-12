@@ -37,7 +37,7 @@ never believe it to be true.");
         VoicePlay("B040522102_05_020");
         MsgDisp("Hiiragi","Haa... I wonder how?");
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
         VoicePlay("B040522102_05_030");
         MsgDisp("Hiiragi","My theatre production differs in both
 historical fact and interpretation. I
@@ -78,8 +78,8 @@ Just now...");
         ChEye(5,4);
         ChMouth(5,2);
         ChMotion(5,0);
-        ChEyeOpenLevel(5,-1);
-        ChMouthOpenLevel(5,-1);
+        ChEyeOpenLevel(5,#1);
+        ChMouthOpenLevel(5,#1);
         VoicePlay("B040522102_05_080");
         MsgDisp("Hiiragi","Just now?");
         MsgDisp("主人公","Ah, no.");

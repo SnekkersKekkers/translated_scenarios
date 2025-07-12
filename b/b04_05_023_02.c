@@ -1,5 +1,5 @@
 MsgClose();
-ChOpen(5,255,0,0,4,-1,-1,0,0);
+ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040502302_05_000");
 MsgDisp("Hiiragi","No matter when I come here, this place
 always has such a unique worldview.");

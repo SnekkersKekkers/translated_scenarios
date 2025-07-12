@@ -16,7 +16,7 @@ MsgClose();
 BGOpen("ev001",1);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
-ChOpen(1,100,0,0,0,-1,-1,0,0);
+ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah, that's right, 
 what did you want to talk to me about?");
@@ -49,7 +49,7 @@ ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,2);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("G110101102_01_030");
 MsgDisp("Kazama","So here's a suggestion.
 Why don't you just work the same 

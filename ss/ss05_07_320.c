@@ -5,4 +5,4 @@ ChEyeOpenLevel(7,8);
 VoicePlay("SS0507320_07_000");
 MsgDisp("Mikage","That eye, don't do that now.");
 MsgClose();
-ChEyeOpenLevel(7,-1);
+ChEyeOpenLevel(7,#1);

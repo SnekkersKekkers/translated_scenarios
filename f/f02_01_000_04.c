@@ -16,7 +16,7 @@ ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
 ChMotion(1,3);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("F020100004_01_010");
 MsgDisp("Kazama","Oh.");
 MsgDisp("主人公","You didn't think I'd forgotten, did you?");

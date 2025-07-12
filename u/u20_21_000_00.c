@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ChLayout(1);
 MsgClose();
-ChOpen(21,255,3,0,3,-1,-1,0,0);
+ChOpen(21,255,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U202100000_21_000");
 MsgDisp("Michiru","Hey, Mari. 

@@ -6,7 +6,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
-ChOpen(2,41,3,0,4,-1,-1,0,0);
+ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("G110200701_02_000");
 MsgDisp("Sassa","Is that so? Thank you.
 Next, I'll do the high jump.");
@@ -31,7 +31,7 @@ ChClose(2,0,0);
 MsgClose();
 BGOpen("ev002",0);
 BGMVol(0.5,2);
-ChOpen(2,100,0,1,0,-1,-1,0,0);
+ChOpen(2,100,0,1,0,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 MsgDisp("主人公","Huh, what about the high jump?");

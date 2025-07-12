@@ -3,7 +3,7 @@ MsgClose();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I tried my best this week!)");
-ChOpen(6,254,1,0,3,-1,-1,0,0);
+ChOpen(6,254,1,0,3,#1,#1,0,0);
 VoicePlay("X010600005_06_000");
 MsgDisp("Himuro","Looks like you're working hard in 
 your club. The other club members 

@@ -1,6 +1,6 @@
 BGOpen("tr520",0);
 ChLayout(1);
-ChNanaType(-1);
+ChNanaType(#1);
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0);
@@ -91,8 +91,8 @@ Alright, open up....");
         SEWait();
         MsgClose();
         ChLayout(1);
-        ChNanaType(-1);
-        ChOpen(4,255,0,5,2,-1,-1,0,0,0,60);
+        ChNanaType(#1);
+        ChOpen(4,255,0,5,2,#1,#1,0,0,0,60);
         VoicePlay("B040424202_04_120");
         MsgDisp("Nanatsumori","Was I, sleeping...?");
         MsgDisp("主人公","Y-Yeah.");

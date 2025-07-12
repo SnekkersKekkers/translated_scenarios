@@ -6,7 +6,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
-ChOpen(7,255,0,0,0,-1,-1,0,0);
+ChOpen(7,255,0,0,0,#1,#1,0,0);
 switch (ChPrmGet(7,6)){
     case 0:
     case 1:
@@ -73,7 +73,7 @@ Then, I'll buy something to apologize.");
     SEPlay("EV_SE_043");
     SEWait();
     MsgClose();
-    ChOpen(7,255,1,2,0,-1,-1,0,0);
+    ChOpen(7,255,1,2,0,#1,#1,0,0);
     VoicePlay("I150700000_07_060");
     MsgDisp("Mikage","I bought too much......");
     MsgDisp("主人公","Thank you very much
@@ -136,7 +136,7 @@ show me something you recommend.");
     SEPlay("EV_SE_043");
     SEWait();
     MsgClose();
-    ChOpen(7,255,0,0,0,-1,-1,0,0);
+    ChOpen(7,255,0,0,0,#1,#1,0,0);
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);

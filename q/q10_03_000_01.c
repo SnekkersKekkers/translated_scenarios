@@ -1,7 +1,7 @@
 BGOpen("sc824",0);
 BGMPlay("BGM_PLACE_TRAVEL");
 MsgClose();
-ChOpen(3,254,2,0,4,-1,-1,0,0);
+ChOpen(3,254,2,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("Q100300001_03_000");
@@ -54,7 +54,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
-ChOpen(3,254,0,0,3,-1,-1,0,0);
+ChOpen(3,254,0,0,3,#1,#1,0,0);
 VoicePlay("Q100300001_03_070");
 MsgDisp("Honda","Sorry to keep you waiting.
 The main problem has now been cleared 

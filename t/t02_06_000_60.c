@@ -1,4 +1,4 @@
-ChEyeOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 BGMStop();
 MsgDisp("主人公","I'm sorry......");

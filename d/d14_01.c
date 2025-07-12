@@ -5,7 +5,7 @@ int  var3 =0;
 int  var4 =1;
 int  var5 =0;
 int  var6 =0;
-if ( var0 ==0|| var0 ==-1){
+if ( var0 ==0|| var0 ==#1){
     return ;
     }
 if ( var0 !=21&& var0 !=22){
@@ -18,7 +18,7 @@ if ( var0 !=21&& var0 !=22){
             if (PlPrmGet(7)>= var3 ){
                 Call("d/d14_00_002_01");
                  var4 =0;
-                PlPrmAdd(7,-1* var3 );
+                PlPrmAdd(7,#1* var3 );
                 switch ( var3 ){
                     case 0:
                     break ;
@@ -41,13 +41,13 @@ if ( var0 !=21&& var0 !=22){
         CGSchoolMeal(1);
         Call("d/d14_{0}_999_20", var0 );
         Call("d/d14_{0}_999_20", var1 );
-        if ( var2 !=0&& var2 !=-1){
+        if ( var2 !=0&& var2 !=#1){
             Call("d/d14_{0}_999_20", var2 );
             }
         Call("d/d14_00_999_10");
          var5 =PlChk(39);
          var6 =PlChk(38);
-        if ( var5 !=-1){
+        if ( var5 !=#1){
             Call("d/d14_{0}_010_{1}", var6 , var5 );
             }
         if ( var5 >=50){
@@ -114,7 +114,7 @@ if ( var0 !=21&& var0 !=22){
                  var3 =PlChk(42);
                 if (PlPrmGet(7)>= var3 ){
                      var4 =0;
-                    PlPrmAdd(7,-1* var3 );
+                    PlPrmAdd(7,#1* var3 );
                     switch ( var3 ){
                         case 0:
                         break ;
@@ -165,13 +165,13 @@ if ( var0 !=21&& var0 !=22){
             ChPrmTblAdd( var6 ,144);
             }
          var5 =PlChk(41);
-        if ( var5 !=-1&& var6 !=0&& var6 !=-1){
+        if ( var5 !=#1&& var6 !=0&& var6 !=#1){
             Call("d/d14_{0}_011_{1}", var6 , var5 );
             }
         }
     }
 else {
-    PlPrmAdd(7,-1);
+    PlPrmAdd(7,#1);
     PlPrmTblAdd(67);
     CGSchoolMeal(4);
     CGSchoolMeal(1);

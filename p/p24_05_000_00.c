@@ -88,7 +88,7 @@ StlEyeOpenLevel(5,5,1);
 VoicePlay("P240500000_05_080");
 MsgDisp("Hiiragi","Take this, hurry.");
 MsgDisp("主人公","This...?");
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("P240500000_05_090");
 MsgDisp("Hiiragi","It is a sword that has been with me 
@@ -100,7 +100,7 @@ My soul will be with you for eternity!");
 MsgDisp("主人公","My lord...");
 StlEyeOpenLevel(5,0,1);
 Wait(3,0);
-StlEyeOpenLevel(5,-1);
+StlEyeOpenLevel(5,#1);
 MsgDisp("主人公","I will live with this sword at my side.
 My soul will be with you forevermore.");
 MsgClose();
@@ -117,7 +117,7 @@ BGOpen("sc740",0);
 MsgClose();
 SEStop("EV_SE_CLAP_002",1.5);
 SEStop("EV_SE_GAYA_021",1.5);
-ChOpen(5,38,0,4,4,-1,-1,0,0);
+ChOpen(5,38,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛柊＊＊＊｝, good work!
 Somehow, I managed to do it.");
