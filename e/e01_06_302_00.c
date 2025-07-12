@@ -19,7 +19,7 @@ MsgDisp("主人公","Hello, Himuro-sensei");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("E010630200_32_010");
-MsgDisp("V.P. Himuro","......Hmm, hello.");
+MsgDisp("VP Himuro","......Hmm, hello.");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);
@@ -30,7 +30,7 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("E010630200_32_020");
-MsgDisp("V.P. Himuro","Inori.
+MsgDisp("VP Himuro","Inori.
 Greetings are basic curtesy.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -42,7 +42,7 @@ MsgDisp("主人公","Hehe, hi?");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("E010630200_32_030");
-MsgDisp("V.P. Himuro","Alright.
+MsgDisp("VP Himuro","Alright.
 I'll go ahead and check the sweets shop.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -102,14 +102,14 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(32,254,0,0,0,-1,-1,0,2);
 VoicePlay("E010630200_32_040");
-MsgDisp("V.P. Himuro","Inori.");
+MsgDisp("VP Himuro","Inori.");
 ChEye(6,3);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("E010630200_06_100");
 MsgDisp("Himuro","Wow ∋");
 VoicePlay("E010630200_32_050");
-MsgDisp("V.P. Himuro","Sorry. That's it for me today.
+MsgDisp("VP Himuro","Sorry. That's it for me today.
 I need to hurry back......");
 ChEye(6,0);
 ChMouth(6,0);
@@ -120,7 +120,7 @@ Let's go.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("E010630200_32_060");
-MsgDisp("V.P. Himuro","We'll be off now.
+MsgDisp("VP Himuro","We'll be off now.
 Please take care on your way home.");
 MsgDisp("主人公","Okay!
 ......See you soon, ｛氷室＊＊｝?");

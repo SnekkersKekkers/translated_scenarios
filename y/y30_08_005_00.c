@@ -43,7 +43,7 @@ the school buildin'.");
 MsgClear();
 BGOpen("ad851",0);
 VoicePlay("Y300800500_32_000");
-MsgDisp("V.P. Himuro","\"What are you doing here?\"");
+MsgDisp("VP Himuro","\"What are you doing here?\"");
 VoicePlay("Y300800500_08_000");
 MsgDisp("Daichi","\"Waa∈\"");
 MsgDisp("","Hearing a voice abruptly call out 
@@ -53,7 +53,7 @@ MsgDisp("","Whoa, this teacher is really tall
 scary?");
 MsgClear();
 VoicePlay("Y300800500_32_010");
-MsgDisp("V.P. Himuro","\"You're a student of Hanegasaki
+MsgDisp("VP Himuro","\"You're a student of Hanegasaki
 Academy. What business do you have at
 Habataki High School?\"");
 VoicePlay("Y300800500_08_010");
@@ -73,7 +73,7 @@ squinted slightly. I think he was
 smilin'.");
 MsgClear();
 VoicePlay("Y300800500_32_020");
-MsgDisp("V.P. Himuro","\"I see... very well. But, if your
+MsgDisp("VP Himuro","\"I see... very well. But, if your
 friend continues to run late, you too
 should give up and go home.\"");
 MsgDisp("","\"Yes.\" I answered.");

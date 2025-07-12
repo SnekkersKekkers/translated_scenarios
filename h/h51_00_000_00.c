@@ -22,12 +22,12 @@ SEWait();
 BGMPlay("BGM_C32_HIMURO_A",0.01);
 ChOpen(32,254,0,0,0,-1,-1,0,0);
 VoicePlay("H510000000_32_000");
-MsgDisp("V.P. Himuro","I'm Himuro, the advisor for
+MsgDisp("VP Himuro","I'm Himuro, the advisor for
 the brass band.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("H510000000_32_010");
-MsgDisp("V.P. Himuro","New members, begin learning the
+MsgDisp("VP Himuro","New members, begin learning the
 basics from the more experienced members.
 Start there.");
 VoicePlay("H510000000_38_000");
@@ -36,33 +36,33 @@ MsgDisp("主人公","Yes.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("H510000000_32_020");
-MsgDisp("V.P. Himuro","If I remember correctly, you're a
+MsgDisp("VP Himuro","If I remember correctly, you're a
 student in Mikage-sensei's class.
 Do you enjoy music?");
 MsgDisp("主人公","Yes, I like it.");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("H510000000_32_030");
-MsgDisp("V.P. Himuro","Very well.
+MsgDisp("VP Himuro","Very well.
 Take it seriously. It's from there that
 the joy of music comes.");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("H510000000_32_040");
-MsgDisp("V.P. Himuro","Everyone, just remember this as well.
+MsgDisp("VP Himuro","Everyone, just remember this as well.
 We have no need for slackers in
 the brass band.");
 ChEye(32,1);
 ChMouth(32,1);
 ChEyeOpenLevel(32,0);
 VoicePlay("H510000000_32_050");
-MsgDisp("V.P. Himuro","I'll have those who skip our
+MsgDisp("VP Himuro","I'll have those who skip our
 general practices or who cannot balance
 this with their studies leave.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("H510000000_32_060");
-MsgDisp("V.P. Himuro","That is all.");
+MsgDisp("VP Himuro","That is all.");
 MsgDisp("主人公","(So Himuro-sensei is the advisor......
 I'll have to be careful not to skip......)");
 BGMStop();

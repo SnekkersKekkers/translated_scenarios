@@ -1,11 +1,11 @@
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("Z813200061_32_000");
-MsgDisp("V.P. Himuro","......Hm. Very well.");
+MsgDisp("VP Himuro","......Hm. Very well.");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("Z813200061_32_010");
-MsgDisp("V.P. Himuro","Try this out on your own.
+MsgDisp("VP Himuro","Try this out on your own.
 Trial and error may be best.");
 MsgClose();
 BGMStop();

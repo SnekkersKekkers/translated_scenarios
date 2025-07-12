@@ -1,6 +1,6 @@
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200210_32_000");
-MsgDisp("V.P. Himuro","There's something about their eyes.
+MsgDisp("VP Himuro","There's something about their eyes.
 \"Hm, what's that?\"
 Slide with that kind of intention.");

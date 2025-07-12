@@ -52,11 +52,11 @@ Wait(30,0);
 ChOpen(32,254,0,1,1,-1,-1,0,2);
 ChEye(6,0);
 VoicePlay("D010600200_32_000");
-MsgDisp("V.P. Himuro","Quiet down.");
+MsgDisp("VP Himuro","Quiet down.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_010");
-MsgDisp("V.P. Himuro","As announced, gentlemen, do not 
+MsgDisp("VP Himuro","As announced, gentlemen, do not 
 hesitate to give me your full attention 
 I want you to give it your all.");
 ChEye(6,0);
@@ -70,13 +70,13 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("D010600200_32_020");
-MsgDisp("V.P. Himuro","This is because the teachers who
+MsgDisp("VP Himuro","This is because the teachers who
 preside over a class cannot be expected
 to maintain impartiality.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_030");
-MsgDisp("V.P. Himuro","If there aren't anymore questions...
+MsgDisp("VP Himuro","If there aren't anymore questions...
 Everyone, take your positions.");
 MsgClose();
 SEPlay("EV_SE_626");
@@ -134,7 +134,7 @@ fighting??)");
 StlEye(32,0);
 StlMouth(32,0);
 VoicePlay("D010600200_32_040");
-MsgDisp("V.P. Himuro","Do not fear defeat!
+MsgDisp("VP Himuro","Do not fear defeat!
 Pull with all your might and emerge
 victorious! This is Tug of War!");
 StlEye(6,0);
@@ -161,7 +161,7 @@ StlEyeOpenLevel(32,5,1);
 SEStop("EV_SE_GAYA_011",1.5);
 SEStop("EV_SE_792",1.5);
 VoicePlay("D010600200_32_050");
-MsgDisp("V.P. Himuro","Hmm, is that all you've got?
+MsgDisp("VP Himuro","Hmm, is that all you've got?
 Let's decide this now!");
 SEPlay("EV_SE_793",0.3,0.8);
 SEPlay("EV_SE_GAYA_011");

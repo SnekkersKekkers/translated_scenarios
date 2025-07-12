@@ -6,15 +6,15 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("H520000200_32_000");
-MsgDisp("V.P. Himuro","This is Himuro from
+MsgDisp("VP Himuro","This is Himuro from
 Habataki High School.");
 MsgDisp("主人公","Huh, Himuro-sensei∋");
 VoicePlay("H520000200_32_010");
-MsgDisp("V.P. Himuro","If even one person isn't willing to
+MsgDisp("VP Himuro","If even one person isn't willing to
 participate, the harmony of the entire
 brass band is disrupted.");
 VoicePlay("H520000200_32_020");
-MsgDisp("V.P. Himuro","Perhaps you had your own circumstances.
+MsgDisp("VP Himuro","Perhaps you had your own circumstances.
 But these are the rules of our band.
 Those who have unapproved absences
 are to leave. That is all.");

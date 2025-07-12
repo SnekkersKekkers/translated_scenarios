@@ -74,7 +74,7 @@ ChOpen(32,254,0,1,0,-1,-1,0,0,0,30);
 ChOpen(7,255,1,2,0,-1,-1,0,2,0,30);
 ChOpen(6,255,0,0,0,-1,-1,0,1,0,30);
 VoicePlay("E010630100_32_010");
-MsgDisp("V.P. Himuro","The promise is to not wander
+MsgDisp("VP Himuro","The promise is to not wander
 around the school in overalls.");
 MsgDisp("主人公","Himuro-sensei ∋
 Ah, so the person you're meeting is......");
@@ -101,7 +101,7 @@ ChEye(32,1);
 ChMouth(32,1);
 ChEyeOpenLevel(32,0);
 VoicePlay("E010630100_32_020");
-MsgDisp("V.P. Himuro","Mikage-sensei.");
+MsgDisp("VP Himuro","Mikage-sensei.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -110,7 +110,7 @@ MsgDisp("Mikage","Y-Yes......");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("E010630100_32_030");
-MsgDisp("V.P. Himuro","We'll talk about our promise
+MsgDisp("VP Himuro","We'll talk about our promise
 at school.");
 ChEye(7,2);
 ChMouth(7,0);

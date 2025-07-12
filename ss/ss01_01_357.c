@@ -4,6 +4,6 @@ ChMotion(1,0);
 ChCheek(1,7);
 VoicePlay("SS0101357_01_000");
 MsgDisp("Kazama","Your hands.
-I didn't know they were this small. ......");
+I didn't know they were this small......");
 MsgClose();
 ChCheek(1,0);

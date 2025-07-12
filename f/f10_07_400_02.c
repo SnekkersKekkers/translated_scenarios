@@ -20,7 +20,7 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("F100740002_32_000");
-MsgDisp("V.P. Himuro","...Quiet.
+MsgDisp("VP Himuro","...Quiet.
 I have something to tell Mikage-sensei,
 so I'll have to wait here.");
 VoicePlay("F100740002_41_020");
@@ -42,7 +42,7 @@ MsgDisp("Mikage","Gah, Vice-Principal Himuro∋");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740002_32_010");
-MsgDisp("V.P. Himuro","Mikage-sensei. A word.");
+MsgDisp("VP Himuro","Mikage-sensei. A word.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
@@ -53,7 +53,7 @@ VoicePlay("F100740002_07_020");
 MsgDisp("Mikage","Ahhh, is that so?
 Then, let's go outs——");
 VoicePlay("F100740002_32_020");
-MsgDisp("V.P. Himuro","Here is fine.");
+MsgDisp("VP Himuro","Here is fine.");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -62,7 +62,7 @@ MsgDisp("Mikage","Ugh....");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740002_32_030");
-MsgDisp("V.P. Himuro","In a survey we conducted
+MsgDisp("VP Himuro","In a survey we conducted
 recently among guardians, we received
 many voices of gratitude for
 Mikage-sensei.");
@@ -75,7 +75,7 @@ MsgDisp("Mikage","EH?");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("F100740002_32_040");
-MsgDisp("V.P. Himuro","On behalf of the academy, 
+MsgDisp("VP Himuro","On behalf of the academy, 
 I would like to extend my gratitude to
 Mikage-sensei. Thank you.");
 SEPlay("EV_SE_GAYA_025");
@@ -87,7 +87,7 @@ MsgDisp("School Girl A","Yeah, that's great!");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("F100740002_32_050");
-MsgDisp("V.P. Himuro","Your homeroom teacher is acknowledged
+MsgDisp("VP Himuro","Your homeroom teacher is acknowledged
 not only by students, but also by 
 parents. You can take pride in that.");
 MsgDisp("主人公","｛御影＊＊｝, that's amazing right?!");
@@ -96,7 +96,7 @@ MsgDisp("Male Student B","Mikagecchi, you're awesome!");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740002_32_060");
-MsgDisp("V.P. Himuro","...That is all.
+MsgDisp("VP Himuro","...That is all.
 Then, move onto your lesson.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

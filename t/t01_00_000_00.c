@@ -29,29 +29,29 @@ MsgDisp("Host","Thank you very much, Principal.
 Next, I would like to ask the Vice 
 Principal to continue.");
 VoicePlay("T010000000_32_000");
-MsgDisp("V.P. Himuro","Congratulations on your graduation,
+MsgDisp("VP Himuro","Congratulations on your graduation,
 everyone.");
 VoicePlay("T010000000_32_010");
-MsgDisp("V.P. Himuro","I remember how your eyes were brimming 
+MsgDisp("VP Himuro","I remember how your eyes were brimming 
 with hope the moment we welcomed 
 you into our school.");
 VoicePlay("T010000000_32_020");
-MsgDisp("V.P. Himuro","Now there is not only hope but also a
+MsgDisp("VP Himuro","Now there is not only hope but also a
 certain confidence in you.");
 VoicePlay("T010000000_32_030");
-MsgDisp("V.P. Himuro","It is proof to the fact the three years 
+MsgDisp("VP Himuro","It is proof to the fact the three years 
 you spent in your fellow classmates' 
 company was worth it—");
 VoicePlay("T010000000_32_040");
-MsgDisp("V.P. Himuro","It means you're ready to face the 
+MsgDisp("VP Himuro","It means you're ready to face the 
 challenges that lie ahead.");
 VoicePlay("T010000000_32_050");
-MsgDisp("V.P. Himuro","Don't worry. The school you spent the last
+MsgDisp("VP Himuro","Don't worry. The school you spent the last
 three years in will remain with you
 forever. If you close your eyes, you can
 always return.");
 VoicePlay("T010000000_32_060");
-MsgDisp("V.P. Himuro","Come on everyone, soar into the new 
+MsgDisp("VP Himuro","Come on everyone, soar into the new 
 sky!");
 SEPlay("EV_SE_CLAP_002",0,0.9);
 SEPlay("EV_SE_CLAP_004",0,0.4);

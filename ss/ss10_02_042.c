@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("SS1002042_02_000");
-MsgDisp("Sassa","I know you were scared. ......");
+MsgDisp("Sassa","I know you were scared......");
 MsgClose();
