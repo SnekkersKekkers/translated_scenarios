@@ -3,7 +3,7 @@ BGOpen("sc710",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah, it was a huge failure...");
 VoicePlay("P553200001_32_000");
-MsgDisp("Vice Principal Himuro?","Ahem!");
+MsgDisp("VP Himuro?","Ahem!");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(32,254,0,0,0,#1,#1,0,0);

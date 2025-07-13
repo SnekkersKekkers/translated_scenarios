@@ -83,7 +83,7 @@ StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoicePlay("T020120000_01_490");
 MsgDisp("Kazama","Actually, this should come from me, right?");
-MsgDisp("主人公","……｛風真＊＊｝.");
+MsgDisp("主人公","......｛風真＊＊｝.");
 VoicePlay("T020120000_01_500");
 MsgDisp("Kazama","You're the only one for me,
 I'll never let you go.");

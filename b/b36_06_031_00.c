@@ -22,7 +22,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360603100_06_020");
-MsgDisp("Himuro","………………");
+MsgDisp("Himuro","..................");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,2);
 ChMouth(6,0);

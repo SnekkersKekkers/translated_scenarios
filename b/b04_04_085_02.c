@@ -90,10 +90,10 @@ am sensitive to the cold.");
         ChOpen(4,255,0,0,0,0,0,10,0,0,60);
         ScrQuake(0);
         VoicePlay("B040408502_04_080");
-        MsgDisp("Nanatsumori","…………");
-        MsgDisp("主人公","…………");
+        MsgDisp("Nanatsumori","............");
+        MsgDisp("主人公","............");
         VoicePlay("B040408502_04_090");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         MsgDisp("主人公","Umm...
 Are you warm?");
         ChMouthOpenLevel(4,#1);

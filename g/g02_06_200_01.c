@@ -90,7 +90,7 @@ VoicePlay("G020620001_06_120");
 MsgDisp("Himuro","Like, who knows? Maybe there are more 
 people out there getting jealous and 
 annoyed by it, just like me.");
-MsgDisp("主人公","(｛氷室＊＊｝……?)");
+MsgDisp("主人公","(｛氷室＊＊｝......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -67,7 +67,7 @@ I bothered ｛柊＊＊＊｝.)");
     ChMotion(5,5,1);
     ChMouthOpenLevel(5,3);
     VoicePlay("L040500006_05_060");
-    MsgDisp("Hiiragi","…………");
+    MsgDisp("Hiiragi","............");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

@@ -36,7 +36,7 @@ there. I thought such an awful thing.");
 ChMotion(3,4);
 VoicePlay("G020310100_03_050");
 MsgDisp("Honda","I love those two, though......");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5);

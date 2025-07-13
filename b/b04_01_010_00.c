@@ -7,7 +7,7 @@ ChMouth(1,3);
 VoicePlay("B040101000_01_000");
 MsgDisp("Kazama","Oh, this is nice.
 I think it suits you.");
-MsgSel("You're right, I should buy it!","I'm not sure'…","It doesn't suit me!");
+MsgSel("You're right, I should buy it!","I'm not sure'...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

@@ -10,7 +10,7 @@ ChMotion(8,4,1);
 ChEyeOpenLevel(8,0);
 ChMouthOpenLevel(8,0);
 ChCheek(8,0);
-MsgDisp("Shirahane","…………");
+MsgDisp("Shirahane","............");
 BGMPlay("BGM_C08_DAICHI_B",0.01);
 Wait(60);
 VoicePlay("T020801000_08_370");
@@ -36,7 +36,7 @@ ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 MsgDisp("Shirahane","If it's okay with you, let's be friends
 and meet again some day.");
-MsgDisp("主人公","｛大地＊＊｝……");
+MsgDisp("主人公","｛大地＊＊｝......");
 VoicePlay("T020801000_08_410");
 ChEye(8,3);
 ChMouth(8,3);

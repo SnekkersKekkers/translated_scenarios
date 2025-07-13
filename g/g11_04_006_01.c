@@ -14,7 +14,7 @@ ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400601_04_000");
 MsgDisp("Nanatsumori","Thanks.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 VoicePlay("G110400601_04_010");
 MsgDisp("Nanatsumori","......What?");
 MsgDisp("主人公","Um, maybe it's none of my business,

@@ -39,7 +39,7 @@ ChOpen(4,255,0,0,3,#1,#1,0,0,0,60);
 MsgDisp("主人公","(｛七ツ森＊｝'s face is super close...)");
 VoicePlay("B360423600_04_040");
 MsgDisp("Nanatsumori","Your eyes...");
-MsgDisp("主人公","｛七ツ森＊｝……");
+MsgDisp("主人公","｛七ツ森＊｝......");
 ChMotion(4,5,1);
 VoicePlay("B360423600_04_050");
 MsgDisp("Nanatsumori","I'm about to go- boom!");

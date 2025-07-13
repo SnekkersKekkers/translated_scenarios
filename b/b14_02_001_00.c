@@ -33,7 +33,7 @@ MsgDisp("Sassa","It's strange.
 Even though we spent all of 
 yesterday and today together, 
 I find myself wanting more time.");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

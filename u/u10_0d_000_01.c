@@ -15,7 +15,7 @@ VoicePlay("U100D00001_22_010");
 MsgDisp("Hikaru","Would you like to sleepover at our
 house tonight? It will be fun to have
 girl talk all night with sis♪");
-MsgSel("Ok, I'll go!","Sorry, I'm busy……");
+MsgSel("Ok, I'll go!","Sorry, I'm busy......");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U100D00001_22_020");

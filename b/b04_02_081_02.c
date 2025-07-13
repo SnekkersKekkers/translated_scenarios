@@ -92,7 +92,7 @@ huh?");
         VoicePlay("B040208102_02_090");
         MsgDisp("Sassa","Eh? No, what am I saying?
 Forget it, I'm sorry!");
-        MsgDisp("主人公","(｛颯砂＊＊｝……)");
+        MsgDisp("主人公","(｛颯砂＊＊｝......)");
         break ;
         default :
         DbgAssert(1);

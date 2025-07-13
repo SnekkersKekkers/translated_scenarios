@@ -38,7 +38,7 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("H4A0300001_03_040");
 MsgDisp("Honda","Hey, isn't that enough of a result?");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);

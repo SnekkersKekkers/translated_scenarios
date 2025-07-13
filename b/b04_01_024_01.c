@@ -14,7 +14,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B040102401_01_000");
 MsgDisp("Kazama","That's terrible. What was that, a hacksaw
 to cutting something?");
-MsgSel("It's like something's about to happen…","That's the sound of our image","Is it broken?");
+MsgSel("It's like something's about to happen...","That's the sound of our image","Is it broken?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

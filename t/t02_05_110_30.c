@@ -26,7 +26,7 @@ VoicePlay("T020511030_05_020");
 MsgDisp("Hiiragi","To me it's a miracle.
 If I can do this,
 I feel like I can do anything.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);

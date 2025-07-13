@@ -19,7 +19,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("G020510304_05_030");
 MsgDisp("Hiiragi","I became aware of this while thinking 
 about a birthday present for you.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510304_05_040");

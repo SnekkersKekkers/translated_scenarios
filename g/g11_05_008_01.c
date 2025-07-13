@@ -18,7 +18,7 @@ Wait(30,0);
 ScrFadeIn(0);
 ChMouthOpenLevel(5,0);
 VoicePlay("G110500801_05_000");
-MsgDisp("Hiiragi","…………");
+MsgDisp("Hiiragi","............");
 MsgDisp("主人公","Ah......hehe");
 MsgDisp("主人公","(｛柊＊＊＊｝ is dozing off?
 He seems tired.

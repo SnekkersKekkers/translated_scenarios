@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H4A0600001_06_000");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","｛氷室＊＊｝……");
+    MsgDisp("主人公","｛氷室＊＊｝......");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -66,7 +66,7 @@ nonsense.");
     MsgDisp("Himuro","Honestly, I was impressed.
 ......I thought you looked the most
 beautiful.");
-    MsgDisp("主人公","｛氷室＊＊｝……");
+    MsgDisp("主人公","｛氷室＊＊｝......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

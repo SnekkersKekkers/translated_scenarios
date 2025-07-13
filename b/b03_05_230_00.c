@@ -9,7 +9,7 @@ ChMouth(5,4);
 VoicePlay("B030523000_05_000");
 MsgDisp("Hiiragi","The crowd is brimming with excitement.
 Let's have fun too. Where to, then?");
-MsgSel("The Roller Coaster is good","Let's ride the Ferris Wheel","I want to try bungee jumping!","I want to ride the teacup.");
+MsgSel("The Roller Coaster is good","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the teacup.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

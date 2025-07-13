@@ -53,7 +53,7 @@ ChMotion(4,2,1);
 VoicePlay("G020420001_04_070");
 MsgDisp("Nanatsumori","Haha... Is this what
 jealousy feels like?");
-MsgDisp("主人公","(｛七ツ森＊｝…)");
+MsgDisp("主人公","(｛七ツ森＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

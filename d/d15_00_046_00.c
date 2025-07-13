@@ -29,7 +29,7 @@ ChEye ( 4,1 ) ;
 ChMouth ( 4,1 ) ;
 ChMotion ( 4,1 ) ;
 VoicePlay ( "D150004600_04_030" ) ;
-MsgDisp ( "Nanatsumori","…………" ) ;
+MsgDisp ( "Nanatsumori","............" ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,4 ) ;

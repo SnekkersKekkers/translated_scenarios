@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040206502_02_000");
 MsgDisp("Sassa","The firework artists are amazing.
 It keeps evolving every year.");
-MsgSel("Yeah, it's really fun to watch.","Is it really that different?","Sniffsniff……It even smells different.");
+MsgSel("Yeah, it's really fun to watch.","Is it really that different?","Sniffsniff......It even smells different.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

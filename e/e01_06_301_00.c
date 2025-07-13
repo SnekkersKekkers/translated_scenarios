@@ -58,7 +58,7 @@ MsgDisp("Mikage","Although I may seem like this,
 I keep to time and promises,
 you know?");
 VoicePlay("E010630100_32_000");
-MsgDisp("Vice Principal Himuro?","If that's the case,
+MsgDisp("VP Himuro?","If that's the case,
 will you please keep your promise with me?");
 ChEye(7,5);
 ChMouth(7,4);

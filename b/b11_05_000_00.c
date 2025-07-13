@@ -60,7 +60,7 @@ ChMouth(33,1);
 VoicePlay("B110500000_33_040");
 MsgDisp("Guy","No, 
 Is this guy scary? Is he?");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(33,2);
 ChMouth(33,2);
 VoicePlay("B110500000_33_050");

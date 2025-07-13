@@ -12,7 +12,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020720030_07_010");
 MsgDisp("Mikage","You've always been in the right.");
-MsgDisp("主人公","｛御影＊＊｝……");
+MsgDisp("主人公","｛御影＊＊｝......");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

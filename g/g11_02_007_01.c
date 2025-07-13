@@ -77,7 +77,7 @@ VoicePlay("G110200701_02_070");
 MsgDisp("Sassa","For me, running like this whilst
 talking to you is the best.
 Thank you, as always!");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

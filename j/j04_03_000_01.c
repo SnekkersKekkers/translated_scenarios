@@ -19,7 +19,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("J040300001_03_010");
     MsgDisp("Honda","It's this Sunday,
 Are you free?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand……");
+    MsgSel("Yeah, I'm free.", "I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -57,7 +57,7 @@ What's wrong?");
     VoicePlay("J040300001_03_060");
     MsgDisp("Honda","It's this coming Sunday,
 Are you free?");
-    MsgSel("Yeah, I'm free.", "Sorry, I have to run an errand……");
+    MsgSel("Yeah, I'm free.", "Sorry, I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

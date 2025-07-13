@@ -4,7 +4,7 @@ switch (ChPrmGet(6,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Oh,it's a call from ｛氷室＊＊｝ )");
+    MsgDisp("主人公","(Oh, it's a call from ｛氷室＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -13,19 +13,18 @@ It's ｛主人公苗字｝.");
     VoicePlay("J030601001_06_000");
     MsgDisp("Himuro","Hey.
 You called me, right?");
-    MsgDisp("主人公","Yeah,so?");
+    MsgDisp("主人公","Yeah, so?");
     VoicePlay("J030601001_06_010");
     MsgDisp("Himuro","I can't because I have plans.");
     MsgDisp("主人公","I see. Too bad.");
     VoicePlay("J030601001_06_020");
-    MsgDisp("Himuro","That's all I wanted to say.
-Well then.");
+    MsgDisp("Himuro","That's all I wanted to say.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","Hmmm, too bad......)");
     break ;
     case 3:
-    MsgDisp("主人公","(Oh,it's a call from ｛氷室＊＊｝ )");
+    MsgDisp("主人公","(Oh, it's a call from ｛氷室＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -48,7 +47,7 @@ Well then.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Oh,it's a call from ｛氷室＊＊｝ )");
+    MsgDisp("主人公","(Oh, it's a call from ｛氷室＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

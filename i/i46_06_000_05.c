@@ -7,7 +7,7 @@ switch (ChPrmGet(6,6)){
     case 2:
     case 3:
     VoicePlay("I460600005_40_000");
-    MsgDisp("Male Customer","…………");
+    MsgDisp("Male Customer","............");
     MsgDisp("主人公","Are you looking for
 a specific flower?");
     VoicePlay("I460600005_40_010");

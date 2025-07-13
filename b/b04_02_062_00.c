@@ -8,7 +8,7 @@ VoicePlay("B040206200_02_000");
 MsgDisp("Sassa","Ehh......
 It feels like a completely different
 world than the beach.");
-MsgSel("The air feels so nice and cool","Is the water deep here?","The water's surface shines blue like a jewel……");
+MsgSel("The air feels so nice and cool","Is the water deep here?","The water's surface shines blue like a jewel......");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

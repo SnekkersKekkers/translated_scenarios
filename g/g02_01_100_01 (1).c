@@ -40,7 +40,7 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("G020110001_01_050");
 MsgDisp("Kazama","It's lame, but it's true.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -51,4 +51,4 @@ VoicePlay("F020400014_04_060");
 MsgDisp("Nanatsumori","And part of my growth was because I met
 you.
 Thanks for that.");
-MsgDisp("主人公","｛七ツ森＊｝……");
+MsgDisp("主人公","｛七ツ森＊｝......");

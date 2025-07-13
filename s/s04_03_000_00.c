@@ -15,7 +15,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("S040300000_03_010");
     MsgDisp("Honda","Hey, do you want to go visit the
 shrine together right now?");
-    MsgSel("Yep, let's go!","Sorry, that's a bit……");
+    MsgSel("Yep, let's go!","Sorry, that's a bit......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040300000_03_020");
@@ -71,7 +71,7 @@ Are you home right now?");
     VoicePlay("S040300000_03_080");
     MsgDisp("Honda","If you're free, would you want to
 visit the shrine with me?");
-    MsgSel("Yeah, let's go!","Sorry, I can't……");
+    MsgSel("Yeah, let's go!","Sorry, I can't......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040300000_03_090");

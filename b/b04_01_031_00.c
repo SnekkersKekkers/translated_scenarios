@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040103100_01_000");
 MsgDisp("Kazama","This is such a cool and calm place,
 I don't mind it here.");
-MsgSel("What's the name of that fish?","The patterns on those fish are beautiful▼","Wow∋ I feel their stares from behind the rocks…");
+MsgSel("What's the name of that fish?","The patterns on those fish are beautiful▼","Wow∋ I feel their stares from behind the rocks...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

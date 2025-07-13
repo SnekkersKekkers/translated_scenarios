@@ -57,7 +57,7 @@ What should I do, I'm so happy......");
     VoicePlay("H1A0100000_01_050");
     MsgDisp("Kazama","Isn't it fine?
 You don't have to hold back your tears.");
-    MsgDisp("主人公","｛風真＊＊｝……");
+    MsgDisp("主人公","｛風真＊＊｝......");
     SEPlay("EV_SE_551",0,0.7,0.8);
     MsgClose();
     ScrFadeOut(0,0);

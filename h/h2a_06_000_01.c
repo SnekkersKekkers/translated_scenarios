@@ -39,7 +39,7 @@ the track and field club manager......)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0600001_06_030");
-    MsgDisp("Himuro","…………");
+    MsgDisp("Himuro","............");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝......");
     ChEye(6,0);
     ChMouth(6,0);

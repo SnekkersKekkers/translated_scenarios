@@ -37,7 +37,7 @@ VoicePlay("T020301000_03_040");
 MsgDisp("Honda","Right. I was always looking for something
 I could devote my life to. And it turns
 out that was you.");
-MsgDisp("主人公","……！");
+MsgDisp("主人公","......！");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -56,7 +56,7 @@ VoicePlay("T020301000_03_070");
 MsgDisp("Honda","So, from high school onwards, I started
 looking for it in the outside world. And
 then, finally, I met you.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -96,7 +96,7 @@ VoicePlay("T020301000_03_120");
 MsgDisp("Honda","Because you're here, within my reach.
 Within my reach is you who I'll devote my
 life to.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 MsgClear();
 ChClose(3);
 ChCustomLayout(3,5,0,-2.5);

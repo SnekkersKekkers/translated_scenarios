@@ -59,7 +59,7 @@ StlEyeOpenLevel(1,5);
 StlMouth(1,1);
 StlMouthOpenLevel(1,0);
 VoicePlay("D010100100_01_050");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 MsgDisp("主人公","(It's such an intimate feeling......
 Somehow it feels like we're the only
 two people in this world right now......)");

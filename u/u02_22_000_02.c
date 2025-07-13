@@ -33,7 +33,7 @@ ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 ChMouthOpenLevel(22,0);
 VoicePlay("U022200002_22_030");
-MsgDisp("Hikaru","…………");
+MsgDisp("Hikaru","............");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

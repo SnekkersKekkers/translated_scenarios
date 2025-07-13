@@ -110,7 +110,7 @@ MsgClose();
 ScrFadeIn(0);
 ChOpen(6,254,0,3,0,#1,#1,0,0);
 VoicePlay("D010600100_06_100");
-MsgDisp("Himuro","…………∈");
+MsgDisp("Himuro","............∈");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -33,7 +33,7 @@ where's your usual guts?");
         VoicePlay("B040515202_05_020");
         MsgDisp("Hiiragi","Huh?
 What's the matter?");
-        MsgDisp("主人公","…………");
+        MsgDisp("主人公","............");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,4);

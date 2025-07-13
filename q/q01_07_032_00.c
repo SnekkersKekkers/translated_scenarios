@@ -18,10 +18,10 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("Q010703200_07_020");
-MsgDisp("Mikage","I'll get in on this too～ ∈");
+MsgDisp("Mikage","I'll get in on this too～∈");
 VoicePlay("Q010703200_38_000");
 MsgDisp("Students","Awesome!
-As expected of Mikagecchi! ∈");
+As expected of Mikagecchi!∈");
 VoicePlay("Q010703200_38_010");
 MsgDisp("Students","Mikage-sensei, come join our team!");
 SEPlay("EV_SE_737");
@@ -56,7 +56,7 @@ closet!)");
 	MsgDisp("主人公","(Who could it be...... It's too dark, I
 can't see anything......)");
 	MsgDisp("主人公","(Ooh, they're so close......
-Teachers, please hurry up and leave! ∈)");
+Teachers, please hurry up and leave!∈)");
 	VoicePlay("Q010703200_32_010");
 	MsgDisp("VP Himuro","You all are high school students, do you
 have no self awareness? Prepare for
@@ -80,7 +80,7 @@ There's someone in the futon!)");
 	MsgDisp("主人公","(Aah, I'm sorry!
 Right now, our bodies are touching...!)");
 	MsgDisp("主人公","(You can hear my heart beating...
-Teachers, please hurry up and leave! ∈)");
+Teachers, please hurry up and leave!∈)");
 	VoicePlay("Q010703200_32_030");
 	MsgDisp("VP Himuro","Good grief......
 I have to give the same speech every year.

@@ -54,7 +54,7 @@ I was wondering if the jinx is true.");
         ChMotion(4,0,1);
         ChCheek(4,7);
         VoicePlay("B040423202_04_040");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChCheek(4,0);
         VoiceEVSPlay(4);
         VoicePlay("B040423202_04_050");
@@ -78,7 +78,7 @@ flow of this conversation just now,
         ChMotion(4,0,1);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040423202_04_080");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,2,1);

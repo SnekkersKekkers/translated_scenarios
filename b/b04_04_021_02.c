@@ -85,7 +85,7 @@ You thought that of me...");
         ChMotion(4,0);
         ChCheek(4,10);
         VoicePlay("B040402102_04_100");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,2);

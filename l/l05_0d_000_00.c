@@ -14,7 +14,7 @@ ChMotion(22,3,1);
 VoicePlay("L050D00000_22_000");
 MsgDisp("Hikaru","You'll definitely get something
 in return for Valentine's Day▼");
-MsgDisp("主人公","Y, you think so?");
+MsgDisp("主人公","Y-You think so?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);

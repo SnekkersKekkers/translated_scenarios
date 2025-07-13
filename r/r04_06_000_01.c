@@ -77,7 +77,7 @@ if I stayed next to you.");
     VoicePlay("R040600001_06_090");
     MsgDisp("Himuro","I don't want to look like
 I'm out of your league.");
-    MsgDisp("主人公","(｛氷室＊＊｝……)");
+    MsgDisp("主人公","(｛氷室＊＊｝......)");
     break ;
     default :
     DbgAssert(1);

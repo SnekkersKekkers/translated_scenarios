@@ -57,7 +57,7 @@ By the way, what's so important?");
     MsgDisp("Daichi?","Bro, ya got yourself a girlfriend
 huh......");
     VoicePlay("D030901300_09_070");
-    MsgDisp("Kuya","…………");
+    MsgDisp("Kuya","............");
     VoicePlay("D030901300_09_080");
     MsgDisp("Kuya","It's fun but there's not a lot of
 privacy. This is not what I expected......");

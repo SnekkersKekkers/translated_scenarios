@@ -63,7 +63,7 @@ VoicePlay("T020120000_01_770");
 MsgDisp("Kazama","I got to dedicate my three years to you.
 On top of that, I had some great friends
 too.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

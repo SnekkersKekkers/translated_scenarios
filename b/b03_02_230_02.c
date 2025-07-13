@@ -17,7 +17,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B030223002_02_010");
 MsgDisp("Sassa","Want to watch it?");
-MsgSel("Yeah, I want to watch","Sorry, not today…");
+MsgSel("Yeah, I want to watch","Sorry, not today...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

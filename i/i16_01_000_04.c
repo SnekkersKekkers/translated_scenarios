@@ -6,8 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","I've finished preparing
-the deliveries!");
+    MsgDisp("主人公","I've finished preparing the deliveries!");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,0,0,#1,#1,0,0);
@@ -21,9 +20,9 @@ finished sooner......");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100004_01_010");
-    MsgDisp("Kazama","Hm...... If you're feeling like that,
-seems like there'll be more work
-you'll be trusted with in the future.");
+    MsgDisp("Kazama","Hmm... If that's how you feel,
+it looks like you'll be trusted with
+more responsibilities going forward.");
     MsgDisp("主人公","(I did it!
 I hope I can help out around the shop
 even more.)");
@@ -39,21 +38,21 @@ restocking the delivery items!");
     MsgDisp("Kazama","Good work.
 Yeah, you were pretty fast.");
     MsgDisp("主人公","Really?
-But, I'm worried I made a mistake
-somewhere.");
+I'm worried I made a mistake
+somewhere though.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I160100004_01_030");
     MsgDisp("Kazama","That feeling's good.
-It's proof you're good at your job.");
+It's proof that you're good at your job.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100004_01_040");
-    MsgDisp("Kazama","Remembering your beginnings,
-and learning the job steadily.
-You're great, you know?");
+    MsgDisp("Kazama","You're doing a great job of
+remembering your roots while
+steadily learning the ropes.");
     MsgDisp("主人公","Hehe, I did it!");
     ChEye(1,2);
     ChMouth(1,3);
@@ -61,7 +60,7 @@ You're great, you know?");
     VoicePlay("I160100004_01_050");
     MsgDisp("Kazama","Hey.
 It's good that you're smiling, but
-watch your volume.");
+watch the volume.");
     MsgDisp("主人公","(Alright, let's continue
 to work hard without forgetting why
 we started∈)");

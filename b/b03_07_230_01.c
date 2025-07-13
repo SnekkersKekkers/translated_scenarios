@@ -10,7 +10,7 @@ ChMotion(7,0);
 VoicePlay("B030723001_07_000");
 MsgDisp("Mikage","Which one should we try?
 Look, they also have a haunted house.");
-MsgSel("Roller coaster sounds fun","Let's ride the ferris wheel","I want to try bungee jumping!","I want to ride the tea cups","Shall we enter the haunted house?");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the tea cups.","Shall we enter the haunted house?");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

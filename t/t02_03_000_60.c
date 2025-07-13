@@ -28,7 +28,7 @@ ChMotion(3,0,1);
 VoicePlay("T020300060_03_030");
 MsgDisp("Honda","I will always love this world with 
 you in it.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020300060_03_040");

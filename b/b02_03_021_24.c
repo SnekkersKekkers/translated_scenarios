@@ -2,7 +2,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B020302124_03_000");
-MsgDisp("Honda","…………");
+MsgDisp("Honda","............");
 MsgDisp("主人公","Umm... Is there something
 weird about my clothes?");
 ChMotion(3,4);

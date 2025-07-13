@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030203002_02_000");
 MsgDisp("Sassa","Where do you want to go today?");
-MsgSel("Let's go to the aquarium","Water Garden sounds nice.","Let's go to the Deep Sea Corner.");
+MsgSel("Let's go to the aquarium.","Water Garden sounds nice.","Let's go to the Deep Sea Corner.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

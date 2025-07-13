@@ -41,7 +41,7 @@ shoes might injure your knees.");
     ChMotion(2,2);
     VoicePlay("B040202101_02_030");
     MsgDisp("Sassa","It was just a joke, though......
-I'd feel lonely waiting.");
+You'd be lonely waiting.");
     MsgDateResultDisp();
     break ;
     default :

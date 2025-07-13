@@ -10,7 +10,7 @@ NSSOpen(6,254,4,4,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("T040600000_06_000");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 NSSEye(6,4);
 NSSMouth(6,4);
 VoicePlay("T040600000_06_010");

@@ -53,7 +53,7 @@ it was beautiful.");
     VoicePlay("H4A0600000_06_050");
     MsgDisp("Himuro","The performance, you...... everything.
 Isn't it obvious you'd win?");
-    MsgDisp("主人公","Y, you think?");
+    MsgDisp("主人公","Y-You think so?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);

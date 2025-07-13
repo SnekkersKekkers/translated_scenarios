@@ -58,13 +58,13 @@ BGOpen("ho210",2);
 ScrFadeIn(0);
 MsgDisp("主人公","(Mom told me something earlier that
 really surprised me...)");
-MsgDisp("主人公","(\"Ryouta\"-kun is back.
+MsgDisp("主人公","(\"Ryota\"-kun is back.
 It's been 9 years since he moved to 
 England.)");
 MsgDisp("主人公","(I hadn't heard his name in a while.
 It brought back a lot of memories of
 things from my childhood.)");
-MsgDisp("主人公","(\"It was the day before \"Ryouta\"-kun 
+MsgDisp("主人公","(\"It was the day before \"Ryota\"-kun 
 moved to England. I think it was just 
 me and him in that place—\")");
 MsgClose();

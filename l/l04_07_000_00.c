@@ -71,7 +71,7 @@ from other girls in class, right?");
     MsgDisp("Mikage","It's not about how many. Everyone's
 feelings make me happy, and it makes all
 the difference if yours are there, too.");
-    MsgDisp("主人公","｛御影＊＊｝……");
+    MsgDisp("主人公","｛御影＊＊｝......");
     break ;
     default :
     DbgAssert(1);

@@ -1,4 +1,4 @@
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
@@ -24,7 +24,7 @@ MsgDisp("Sassa","Usually, you're supposed to deny that.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -36,7 +36,7 @@ ChMouth(2,3);
 ChMotion(2,0);
 ChEyeOpenLevel(2,8);
 VoicePlay("B070200001_02_540");
-MsgDisp("Sassa","…………");
+MsgDisp("Sassa","............");
 MsgDisp("主人公",".........Pfft!");
 MsgDisp("主人公","Ahahaha!");
 ChEye(2,3);

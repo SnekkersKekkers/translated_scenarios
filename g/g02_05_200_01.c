@@ -23,7 +23,7 @@ VoicePlay("G020520001_05_030");
 MsgDisp("Hiiragi","It doesn't matter who that person is. But
 I want to get closer to you than anyone
 else.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020520001_05_040");

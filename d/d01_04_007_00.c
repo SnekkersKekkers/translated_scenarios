@@ -59,7 +59,7 @@ StlMouth(4,0);
 VoicePlay("D010400700_04_040");
 MsgDisp("Nanatsumori","It's fine.
 Just stay still.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);

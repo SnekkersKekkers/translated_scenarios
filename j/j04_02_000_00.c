@@ -16,7 +16,7 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,3);
     VoicePlay("J040200000_02_010");
     MsgDisp("Sassa","Yeah, are you free this coming Sunday?");
-    MsgSel("Yeah, I'm free.","I'm not available that day……");
+    MsgSel("Yeah, I'm free.","I'm not available that day......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -67,7 +67,7 @@ So, what can I do for you?");
     VoicePlay("J040200000_02_050");
     MsgDisp("Sassa","Yes, it's important.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.","I'm not available that day……");
+    MsgSel("Yeah, I'm free.","I'm not available that day......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

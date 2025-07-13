@@ -114,6 +114,6 @@ ChMotion(6,1);
 VoicePlay("B050600000_06_120");
 MsgDisp("Himuro","It's nothing.
 Come on, let's go.");
-MsgDisp("主人公","(｛氷室＊＊｝……?)");
+MsgDisp("主人公","(｛氷室＊＊｝......?)");
 BGMStop();
 ChPrmTblAdd(6,0);

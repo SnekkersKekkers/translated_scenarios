@@ -64,7 +64,7 @@ You also got my...");
     ChEye(5,3);
     ChMouth(5,2);
     VoicePlay("R060500003_05_080");
-    MsgDisp("Hiiragi","…………");
+    MsgDisp("Hiiragi","............");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);

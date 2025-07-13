@@ -115,7 +115,7 @@ Go ahead.");
     SEWait();
     Wait(50,0);
     VoicePlay("S070600000_06_120");
-    MsgDisp("Himuro","………………");
+    MsgDisp("Himuro","..................");
     MsgDisp("主人公","(｛氷室＊＊｝ and I went silent......)");
     break ;
     default :

@@ -37,7 +37,7 @@ MsgDisp("Mikage","He's seriously earnest to the core.
 Just like you. You two are a good
 match, and I'm sure you'd 
 understand each other.");
-MsgDisp("主人公","｛御影＊＊｝……");
+MsgDisp("主人公","｛御影＊＊｝......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

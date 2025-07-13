@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B040109000_01_000");
 MsgDisp("Kazama","It's like paradise no matter how many
 times you come here.");
-MsgSel("This flower smells so good…","It's so damp and humid, right?","Where are the carnivorous plants?");
+MsgSel("This flower smells so good...","It's so damp and humid, right?","Where are the carnivorous plants?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -16,7 +16,7 @@ VoicePlay("U012200002_22_010");
 MsgDisp("Hikaru","Hey so, let's go to the forest park 
 together.
 It's the home of fireflies♪");
-MsgSel("Of course, let's go.","I'm busy today……Sorry.");
+MsgSel("Of course, let's go.","I'm busy today......Sorry.");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U012200002_22_020");

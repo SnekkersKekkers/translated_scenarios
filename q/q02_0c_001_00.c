@@ -33,7 +33,7 @@ VoiceEVSPlay(5);
 VoicePlay("Q020C00100_05_010");
 MsgDisp("Hiiragi","｛主人公｝. Would you be inclined to spend
 today's free period with us?");
-MsgSel("Yes, please！","Sorry, it's just……");
+MsgSel("Yes, please！","Sorry, it's just......");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(5,2);

@@ -70,7 +70,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130A00002_01_020");
 MsgDisp("Kazama","Yeah, especially you.
-Did you know it was Valentines day?");
+Did you know it was Valentine's day?");
 MsgDisp("主人公","Ah! I see...");
 ChEye(2,0);
 ChMouth(2,4);

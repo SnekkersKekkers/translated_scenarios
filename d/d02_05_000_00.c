@@ -127,7 +127,7 @@ ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);
 VoicePlay("D020500000_05_100");
-MsgDisp("Hiiragi","……∈");
+MsgDisp("Hiiragi","......∈");
 MsgClose();
 SEPlay("EV_SE_FOOT_039",0,0.6);
 ChClose(5,0,30);

@@ -48,7 +48,7 @@ I'm sure there are some weird
 insects in there too.");
 ChMouthOpenLevel(4,0);
 VoicePlay("B330B10400_04_010");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

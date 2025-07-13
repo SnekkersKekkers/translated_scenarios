@@ -44,8 +44,8 @@ MsgClose();
 Wait(30,0);
 ChOpen(5,40,4,2,2,0,#1,0,0);
 VoicePlay("D010500300_05_020");
-MsgDisp("Hiiragi","…………");
-MsgDisp("主人公","……｛柊＊＊＊｝?");
+MsgDisp("Hiiragi","............");
+MsgDisp("主人公","......｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,5);
@@ -84,7 +84,7 @@ StlMouth(5,1);
 BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 EnvPlay("SE_ENV_BG_AD006_CO1",1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 StlEyeOpenLevel(5,10,1);
 VoicePlay("D010500300_05_060");
 MsgDisp("Hiiragi","！");
@@ -101,7 +101,7 @@ VoicePlay("D010500300_05_090");
 MsgDisp("Hiiragi","And now, because of me, they think they
 aren't cut out for it and have given up on
 their dreams. It's not fun for them......");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 StlEye(5,0);
 VoicePlay("D010500300_05_100");
 MsgDisp("Hiiragi","I'm really the worst.
@@ -155,7 +155,7 @@ VoicePlay("D010500300_05_160");
 MsgDisp("Hiiragi","Please try to forget today.
 If you don't, I don't know how I can
 show my face to you again.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

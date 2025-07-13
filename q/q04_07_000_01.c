@@ -37,7 +37,7 @@ extracurricular lesson Nagasaki edition.");
     MsgDisp("Mikage","Whoa, you're in the right place!
 I was also searching for participants of
 extracurricular lesson Nagasaki edition.");
-    MsgDisp("主人公","Ehum......
+    MsgDisp("主人公","Ehm......
 I was actually hoping to look around 
 with ｛御影＊＊｝......");
     ChEye(7,0);

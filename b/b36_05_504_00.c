@@ -27,7 +27,7 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B360550400_05_030");
 MsgDisp("Hiiragi","This is my moment.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,4);
 VoicePlay("B360550400_05_040");
 MsgDisp("Hiiragi","So let's enjoy our time together.");

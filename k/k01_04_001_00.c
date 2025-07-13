@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","｛七ツ森＊｝!");
     ChMouthOpenLevel(4,0);
     VoicePlay("K010400100_04_000");
-    MsgDisp("Nanatsumori","……");
+    MsgDisp("Nanatsumori","......");
     MsgDisp("主人公","Um......
 Today's your birthday, right?
 Here's a birthday present.");

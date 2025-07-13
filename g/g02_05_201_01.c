@@ -22,7 +22,7 @@ VoicePlay("G020520101_05_040");
 MsgDisp("Hiiragi","......But, I was wrong.
 We drifted apart in one go.");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -60,7 +60,7 @@ ChMotion(5,0);
 VoicePlay("G020520101_05_100");
 MsgDisp("Hiiragi","But I've experienced that place before.
 And that is why, I will return to it. ");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020520101_05_110");

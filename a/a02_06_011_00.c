@@ -8,7 +8,7 @@ BGMPlay("BGM_C06_INORI_I",0.01);
 MsgClose();
 ChOpen(6,254,0,1,1,0,#1,0,0);
 VoicePlay("A020601100_06_000");
-MsgDisp("Himuro?","………………");
+MsgDisp("Himuro?","..................");
 MsgDisp("主人公","(A new student?
 Even so, his vibe seems familiar.
 Reminds me of someone......)");

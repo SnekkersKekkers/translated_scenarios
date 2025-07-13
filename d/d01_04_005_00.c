@@ -40,7 +40,7 @@ MsgDisp("主人公","(Come to think of it, this month's
 issue is on new items from \"Nana\".)");
 StlMouthOpenLevel(4,0);
 VoicePlay("D010400500_04_000");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 VoicePlay("D010400500_40_050");
 MsgDisp("Male Student A","Nana's even cool with guys.
 Those clothes and accessories look
@@ -52,7 +52,7 @@ VoicePlay("D010400500_41_070");
 MsgDisp("Male Student B","That's true～");
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400500_04_010");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 VoicePlay("D010400500_41_080");
 MsgDisp("Male Student B","I feel the same way as you guys.
 God is really cruel, huh～......");

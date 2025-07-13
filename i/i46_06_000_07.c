@@ -74,7 +74,7 @@ direct sun, too.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600007_06_070");
-    MsgDisp("Himuro","…………");
+    MsgDisp("Himuro","............");
     MsgDisp("主人公","What is it?");
     ChEye(6,0);
     ChMouth(6,0);

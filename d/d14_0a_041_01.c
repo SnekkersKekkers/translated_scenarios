@@ -44,7 +44,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 ChMouthOpenLevel(1,0);
 VoicePlay("D140A04101_01_020");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

@@ -93,7 +93,7 @@ ChMotion(6,0);
 VoicePlay("G110600200_06_100");
 MsgDisp("Himuro","But it's a nice thing to receive around
 that time.");
-MsgDisp("主人公","Valentines?");
+MsgDisp("主人公","Valentine's?");
 ChEye(6,2);
 ChMouth(6,1);
 ChMotion(6,2);
@@ -108,7 +108,7 @@ ChMotion(6,1);
 VoicePlay("G110600200_06_120");
 MsgDisp("Himuro","It's nothing! It looks like there's some
 nice waves coming, I'm off!");
-MsgDisp("主人公","(｛氷室＊＊｝……?)");
+MsgDisp("主人公","(｛氷室＊＊｝......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

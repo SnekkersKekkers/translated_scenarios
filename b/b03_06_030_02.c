@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030603002_06_000");
 MsgDisp("Himuro","There are a lot of things to do here.");
-MsgSel("Let's go to the aquarium","The waterpark is nice","Let's check out the Deep Sea Corner");
+MsgSel("Let's go to the aquarium.","The waterpark is nice","Let's check out the Deep Sea Corner");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

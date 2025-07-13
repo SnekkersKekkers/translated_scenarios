@@ -38,7 +38,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020120203_01_050");
 MsgDisp("Kazama","I know that Nanatsumori's a good guy.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,1);
@@ -68,7 +68,7 @@ ChMotion(1,1);
 VoicePlay("G020120203_01_090");
 MsgDisp("Kazama","I can't do what he does, but I'm going to
 stick to my feelings like I always have.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,1);

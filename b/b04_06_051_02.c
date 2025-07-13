@@ -67,7 +67,7 @@ you're that crazy about right?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040605102_06_060");
-        MsgDisp("Himuro","………………");
+        MsgDisp("Himuro","..................");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

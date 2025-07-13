@@ -102,7 +102,7 @@ StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("D120A00200_02_050");
-MsgDisp("Sassa","Let's go, Ryouta!");
+MsgDisp("Sassa","Let's go, Ryota!");
 SEPlay("EV_SE_612");
 MsgClose();
 ScrFadeOut(0);
@@ -201,7 +201,7 @@ VoicePlay("D120A00200_01_100");
 MsgDisp("Kazama","It's nothing.
 Look, the festival is continuing. 
 Shall we go?");
-MsgDisp("主人公","(……｛風真＊＊｝?)");
+MsgDisp("主人公","(......｛風真＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

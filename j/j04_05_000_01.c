@@ -23,7 +23,7 @@ Are you free now?");
     VoicePlay("J040500001_05_010");
     MsgDisp("Hiiragi","Do you have plans this Sunday?
 I was wondering if you were free......");
-    MsgSel("Yeah, I'm free.", "I have to run an errand……");
+    MsgSel("Yeah, I'm free.", "I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

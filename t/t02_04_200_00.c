@@ -10,7 +10,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("T020420000_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
-MsgDisp("主人公","｛七ツ森＊｝……！");
+MsgDisp("主人公","｛七ツ森＊｝......！");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

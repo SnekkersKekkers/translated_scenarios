@@ -17,7 +17,7 @@ ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("T020411000_04_020");
 MsgDisp("Nanatsumori","......I ask of you.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -53,7 +53,7 @@ BGMPlay("BGM_C04_NANA_KOKU",0.01);
 ScrFadeIn(0);
 ChEye(4,4);
 VoicePlay("T020411000_04_040");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChMouthOpenLevel(4,#1);
 VoicePlay("T020411000_04_050");
 MsgDisp("Nanatsumori","I know it's unfair to bring you back here
@@ -70,7 +70,7 @@ ChMotion(4,0,1);
 VoicePlay("T020411000_04_070");
 MsgDisp("Nanatsumori","Even if it means twisting your fate, 
 I can't give up.");
-MsgDisp("主人公","｛七ツ森＊｝……");
+MsgDisp("主人公","｛七ツ森＊｝......");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("T020411000_04_080");

@@ -89,7 +89,7 @@ VoicePlay("T020520000_05_090");
 MsgDisp("Hiiragi","My only means of escape was to at the very
 least serve the school by participating in
 student council activities, as atonement.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);

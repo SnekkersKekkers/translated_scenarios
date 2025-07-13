@@ -131,7 +131,7 @@ We're still together under the same roof.");
     VoicePlay("Q120100000_01_130");
     MsgDisp("Kazama","That's still fine. This would have been a
 dream for me back in the day.");
-    MsgDisp("主人公","(｛風真＊＊｝……)");
+    MsgDisp("主人公","(｛風真＊＊｝......)");
     break ;
     default :
     DbgAssert(1);

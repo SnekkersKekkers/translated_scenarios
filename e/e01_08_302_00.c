@@ -68,7 +68,7 @@ MsgDisp("Kuya","Sorry about that.
 Shall we see it again another time?");
 ChEye(8,0);
 ChMouth(8,4);
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 VoicePlay("E010830000_08_050");
 ChMotion(8,0,1);
 MsgDisp("Daichi","What's wrong?

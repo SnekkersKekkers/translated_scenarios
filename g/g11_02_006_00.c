@@ -66,6 +66,6 @@ SEStop("EV_SE_FOOT_037",2);
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(｛颯砂＊＊｝……)");
+MsgDisp("主人公","(｛颯砂＊＊｝......)");
 MsgClose();
 ChClose(2,0,0);

@@ -101,7 +101,7 @@ That's rightー......");
         ChMotion(4,0,1);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040415202_04_090");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         MsgDisp("主人公","It's surprisingly hard 
 to think of something, right?");
         ChEye(4,4);

@@ -45,7 +45,7 @@ SEWait();
 StlEye(4,1);
 StlMouthOpenLevel(4,0);
 VoicePlay("D010400300_04_040");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 VoicePlay("D010400300_41_010");
 MsgDisp("Staff A","Great～!
 Stay just like that, let me take a few

@@ -13,7 +13,7 @@ ChOpen(3,255,0,0,0,#1,#1,0,3);
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,3);
 ScrFadeIn(1);
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

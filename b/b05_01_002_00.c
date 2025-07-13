@@ -47,7 +47,7 @@ StlEyeOpenLevel(1,5);
 StlMouthOpenLevel(1,0);
 StlCheek(1,5);
 VoicePlay("B050100200_01_050");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 MsgDisp("主人公","Hey...
 If you stare at me like that, 
 it'll be hard for me to eat.");

@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B030323002_03_000");
 MsgDisp("Honda","Look!
 Seems like they're having a night parade.");
-MsgSel("Yeah, I want to watch","Sorry, not today…");
+MsgSel("Yeah, I want to watch","Sorry, not today...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

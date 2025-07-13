@@ -8,7 +8,7 @@ ChMotion(1,1);
 VoicePlay("B040102100_01_000");
 MsgDisp("Kazama","It's not so bad,
 walking around without a real purpose.");
-MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","It feels like we have it all to ourselves…");
+MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","It feels like we have it all to ourselves...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

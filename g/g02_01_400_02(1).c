@@ -31,7 +31,7 @@ VoicePlay("G020140002_01_030");
 MsgDisp("Kazama","I think because I didn't meet you,
 I was able to sort out things
 in my room after 10 years.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -92,7 +92,7 @@ MsgDisp("Kazama","Maybe because I was able to sort things
 out in that room overnight, we have the
 relationship we do now?");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","(｛風真＊＊｝……)");
+MsgDisp("主人公","(｛風真＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

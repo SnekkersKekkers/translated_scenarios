@@ -43,8 +43,8 @@ MsgDisp("Nanatsumori","Hey, look into my eyes.");
 MsgDisp("主人公","Y-Yeah.");
 ChMouthOpenLevel(4,0);
 VoicePlay("B360450300_04_040");
-MsgDisp("Nanatsumori","…………");
-MsgDisp("主人公","…………");
+MsgDisp("Nanatsumori","............");
+MsgDisp("主人公","............");
 ChMouthOpenLevel(4,#1);
 VoicePlay("B360450300_04_050");
 MsgDisp("Nanatsumori","Does this make your 

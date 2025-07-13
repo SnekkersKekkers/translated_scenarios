@@ -3,5 +3,5 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("SS0106231_06_000");
-MsgDisp("Himuro","Your mouth, it's loose.");
+MsgDisp("Himuro","Your mouth is hanging open.");
 MsgClose();

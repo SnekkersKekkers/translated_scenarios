@@ -30,7 +30,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChMouthOpenLevel(1,0);
 VoicePlay("G020110304_01_040");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);

@@ -49,7 +49,7 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,#1);
 VoicePlay("E010730100_03_030");
 MsgDisp("Honda","Yeah!
-The magnification is 1000 times ∈
+The magnification is 1000 times∈
 It's amazing, you definitely have to see!");
 MsgDisp("主人公","Hehe.
 ｛本多＊＊｝, I'm happy for you.");

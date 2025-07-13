@@ -74,7 +74,7 @@ products here that are aimed at women?");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("I150600000_06_070");
-    MsgDisp("Himuro","…………");
+    MsgDisp("Himuro","............");
     MsgDisp("主人公","What are you looking for?");
     ChEye(6,0);
     ChMouth(6,0);

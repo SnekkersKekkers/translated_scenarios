@@ -27,7 +27,7 @@ VoicePlay("D210020001_47_000");
 MsgDisp("Woman B","Yeah!
 It's said that you can predict your
 love life with the sound it makes.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 MsgDisp("主人公","(I guess I should try to touch it?
 ......Let's give it a shot.)");
 SEPlay("EV_SE_517");

@@ -71,7 +71,7 @@ experiencing more of our \"firsts\"?");
         VoicePlay("B040822102_08_070");
         MsgDisp("Shirahane","In other words...
 Let's go on lotsa dates▼");
-        MsgDisp("主人公","(｛大地＊＊｝……)");
+        MsgDisp("主人公","(｛大地＊＊｝......)");
         break ;
         default :
         DbgAssert(1);

@@ -40,7 +40,7 @@ job a little longer.)");
     MsgDisp("主人公","Yeah, I'm quitting.
 Sorry......");
     VoicePlay("I640000000_08_070");
-    MsgDisp("Shirahane","…………");
+    MsgDisp("Shirahane","............");
     VoicePlay("I640000000_08_080");
     MsgDisp("Shirahane","Got it.
 I'll tell the manager.");

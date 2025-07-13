@@ -20,7 +20,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("J040600000_06_010");
     MsgDisp("Himuro","Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand……");
+    MsgSel("Yeah, I'm free.", "I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

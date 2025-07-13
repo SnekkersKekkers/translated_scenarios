@@ -12,7 +12,7 @@ ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,5);
 ChCheek(6,10);
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 VoicePlay("T020621000_06_220");
 ChEye(6,0);
 ChMouth(6,2);

@@ -1,5 +1,5 @@
 MsgClear();
-MsgSel("Me too……","……I'm sorry.");
+MsgSel("Me too......","......I'm sorry.");
 switch (MsgSelRsltGet()){
     case 0:
     case 1:

@@ -5,7 +5,7 @@ ChMotion(6,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030618000_06_000");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 MsgDisp("主人公","......Do you maybe want some popcorn?");
 ChEye(6,0);
 ChMouth(6,0);

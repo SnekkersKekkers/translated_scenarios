@@ -6,7 +6,7 @@ ChMotion(4,0);
 ChMouthOpenLevel(4,0);
 ScrFadeIn(0);
 VoicePlay("P640400003_04_000");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","｛七ツ森＊｝,
 Would you like another 
 serving of herb tea?");

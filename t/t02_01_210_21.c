@@ -84,7 +84,7 @@ ScrFadeIn(0);
 VoicePlay("T020121000_01_490");
 MsgDisp("Kazama","Sorry to those guys, but...
 There will be no attendees.");
-MsgDisp("主人公","……｛風真＊＊｝.");
+MsgDisp("主人公","......｛風真＊＊｝.");
 VoiceEVSPlay(1);
 VoicePlay("T020121000_01_500");
 MsgDisp("Kazama","｛主人公｝, I won't let you go again.");

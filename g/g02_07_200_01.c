@@ -40,7 +40,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020720001_07_050");
 MsgDisp("Mikage","It's much better than nothing.");
-MsgDisp("主人公","｛御影＊＊｝……");
+MsgDisp("主人公","｛御影＊＊｝......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

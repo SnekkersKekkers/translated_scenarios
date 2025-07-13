@@ -23,11 +23,11 @@ SEWait();
 SEPlay("EV_SE_DOOR_013");
 BGOpen("sc340",0);
 ScrFadeIn(0);
-MsgDisp("主人公","……｛七ツ森＊｝?");
+MsgDisp("主人公","......｛七ツ森＊｝?");
 MsgDisp("主人公","(Huh?
 I guess he isn't here......)");
 VoicePlay("D010400200_04_000");
-MsgDisp("Nanatsumori?","…………");
+MsgDisp("Nanatsumori?","............");
 MsgDisp("主人公","Zzz......");
 MsgClose();
 ScrFadeOut(0);
@@ -36,7 +36,7 @@ StlOpen("ev_04_07");
 StlMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("D010400200_04_010");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","He really fell asleep here.");
 MsgDisp("主人公","......Hehe.
 He looks like he's sleeping well, too.");

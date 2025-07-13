@@ -10,12 +10,12 @@ That voice just now, was
 ｛御影＊＊｝, right?
 What's wrong...?)");
 VoicePlay("F100740001_32_000");
-MsgDisp("Vice Principal Himuro?",".........!
+MsgDisp("VP Himuro?",".........!
 Are you really that worried?");
 VoicePlay("F100740001_07_010");
 MsgDisp("Mikage","Eh?");
 VoicePlay("F100740001_32_010");
-MsgDisp("Vice Principal Himuro?","Come out, please.");
+MsgDisp("VP Himuro?","Come out, please.");
 MsgDisp("主人公","...Y-Yes.
 I'm sorry.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

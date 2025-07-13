@@ -8,7 +8,7 @@ MsgDisp("Himuro?","Reiichi-san,
 What do you think of that Japanese
 sweet shop over there?");
 VoicePlay("E010630200_32_000");
-MsgDisp("Vice Principal Himuro?","I think if it's that product,
+MsgDisp("VP Himuro?","I think if it's that product,
 it'll be good.");
 MsgDisp("主人公","(That voice......)");
 MsgClose();

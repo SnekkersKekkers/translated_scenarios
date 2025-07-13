@@ -18,7 +18,7 @@ ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400602_04_010");
 MsgDisp("Nanatsumori","May I have a gateau au chocolate.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(4,1);
 ChMouth(4,1);
 VoicePlay("G110400602_04_020");

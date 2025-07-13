@@ -95,7 +95,7 @@ for me to be left behind. I'm staying
 here, after all.");
 ChEye(5,2);
 ChEyeOpenLevel(5,9);
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChClose(5,0,30);
 ChClose(6,0,30);
 ChLayout(2);

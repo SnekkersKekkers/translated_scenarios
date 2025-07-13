@@ -12,7 +12,7 @@ ChMotion(6,0,1);
 ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360618000_06_000");
-MsgDisp("Himuro","………………");
+MsgDisp("Himuro","..................");
 MsgDisp("主人公","What's up?");
 ChEye(6,0);
 ChMouth(6,3);

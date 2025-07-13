@@ -35,7 +35,7 @@ ChMotion(9,2,1);
 ChEyeOpenLevel(9,0);
 ChMouthOpenLevel(9,0);
 VoicePlay("T020940020_09_040");
-MsgDisp("Kuya","…………");
+MsgDisp("Kuya","............");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,4,1);

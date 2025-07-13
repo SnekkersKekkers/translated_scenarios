@@ -47,7 +47,7 @@ ChEye(5,4);
 VoicePlay("T020520020_05_040");
 MsgDisp("Hiiragi","That's it.
 Your smile is my light, now and always.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,0);

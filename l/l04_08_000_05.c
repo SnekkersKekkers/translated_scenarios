@@ -60,7 +60,7 @@ I'm super stoked▼");
     ChMouthOpenLevel(8,0);
     ChCheek(8,6);
     VoicePlay("L040800005_08_060");
-    MsgDisp("Shirahane","…………");
+    MsgDisp("Shirahane","............");
     MsgDisp("主人公","Um, what's wrong?");
     ChEye(8,2);
     ChMouth(8,4);

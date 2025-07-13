@@ -62,7 +62,7 @@ get enough sleep?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423402_04_060");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         MsgDisp("主人公","?
 Why are you laughing?");
         ChMotion(4,0,1);

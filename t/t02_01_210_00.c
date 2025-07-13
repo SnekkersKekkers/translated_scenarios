@@ -127,7 +127,7 @@ VoicePlay("T020121000_01_130");
 MsgDisp("Kazama","We were in this church, you were blowing
 on my pinwheel toy, with an intent look on
 your face.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

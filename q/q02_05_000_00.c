@@ -27,7 +27,7 @@ I have something to ask you.");
     VoicePlay("Q020500000_05_020");
     MsgDisp("Hiiragi","Would you mind spending the free period
 period today with me?");
-    MsgSel("Sure, I'm coming！","Sorry, it's just……");
+    MsgSel("Sure, I'm coming！","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,4);
@@ -99,7 +99,7 @@ excited more than everyone else.");
     MsgDisp("Hiiragi","While I'm riding this high, I'd like to
 ask you too. Would you like to join me for
 today's free period?");
-    MsgSel("Yes, let's go!","Sorry, I……");
+    MsgSel("Yes, let's go!","Sorry, I......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,4);

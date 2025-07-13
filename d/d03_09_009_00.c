@@ -205,7 +205,7 @@ prioritize my \"studies\" over interviews.)");
     ChEyeOpenLevel(9,8);
     ChMouthOpenLevel(9,0);
     VoicePlay("D030900900_09_220");
-    MsgDisp("Kuya","…………");
+    MsgDisp("Kuya","............");
     ChEye(9,2);
     ChMouth(9,4);
     VoicePlay("D030900900_09_230");

@@ -2,7 +2,7 @@ BGOpen("sc130",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to go home.)");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 MsgDisp("主人公","(I feel like something's behind me......)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -67,7 +67,7 @@ I couldn't tell who it was!");
 StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00100_03_050");
 MsgDisp("Honda","I see.
-Thanks for your help anyway. ∈
+Thanks for your help anyway.∈
 Be careful on the way home!");
 BGMStop();
 MsgClose();

@@ -88,7 +88,7 @@ Does that make me sound uncool?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
-MsgDisp("主人公","(｛風真＊＊｝……)");
+MsgDisp("主人公","(｛風真＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

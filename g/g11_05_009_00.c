@@ -40,7 +40,7 @@ Wait(10,0);
 ChMouth(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500900_05_020");
-MsgDisp("Hiiragi","…………");
+MsgDisp("Hiiragi","............");
 MsgDisp("主人公","Ahaha.
 ｛柊＊＊＊｝'s jokes are funny.'");
 ChEyeOpenLevel(5,0);

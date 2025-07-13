@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(8,35,4,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020800800_08_000");
-MsgDisp("Shirahane","…………");
+MsgDisp("Shirahane","............");
 MsgDisp("主人公","(Huh? Is ｛大地＊＊｝ not feeling well
 today......)");
 SEPlay("EV_SE_519");
@@ -47,7 +47,7 @@ ChEye(8,2);
 ChMouth(8,3);
 ChMouthOpenLevel(8,0);
 VoicePlay("D020800800_08_040");
-MsgDisp("Shirahane","…………");
+MsgDisp("Shirahane","............");
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800800_08_050");

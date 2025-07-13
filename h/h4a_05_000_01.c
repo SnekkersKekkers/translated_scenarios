@@ -34,7 +34,7 @@ Well, to the next stage, then.");
     MsgDisp("Hiiragi","As your fan, I would be happier
 if you decided to do so.
 I'd be quite sad if today was the last.");
-    MsgDisp("主人公","｛柊＊＊＊｝……");
+    MsgDisp("主人公","｛柊＊＊＊｝......");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("H4A0500001_05_040");

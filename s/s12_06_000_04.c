@@ -83,7 +83,7 @@ graduation together.");
     VoicePlay("S120600002_06_110");
     MsgDisp("Himuro","Ah......It's nothing.
 I'll take you home. Let's go.");
-    MsgDisp("主人公","(｛氷室＊＊｝……?)");
+    MsgDisp("主人公","(｛氷室＊＊｝......?)");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();

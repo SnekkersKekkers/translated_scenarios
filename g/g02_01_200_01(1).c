@@ -34,7 +34,7 @@ MsgDisp("Kazama","Listen, it can't be helped if you choose
 someone other than me. But, I have a
 responsibility to my younger self, from
 first grade to ninth grade.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

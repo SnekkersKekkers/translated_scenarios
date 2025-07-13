@@ -55,7 +55,7 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("G020610305_06_060");
 MsgDisp("Himuro","Honestly, I feel like I messed up.");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);

@@ -35,7 +35,7 @@ StlEye(4,1,0);
 StlMouth(4,1);
 StlMouthOpenLevel(4,0,1);
 VoicePlay("P240400000_04_030");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","(Eh?)");
 StlEye(4,1);
 StlMouth(4,1);
@@ -105,7 +105,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("P240400000_04_110");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChMouthOpenLevel(4,#1);
 VoicePlay("P240400000_04_120");
 MsgDisp("Nanatsumori","Sorry for asking something so trivial.

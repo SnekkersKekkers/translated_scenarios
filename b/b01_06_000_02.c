@@ -29,7 +29,7 @@ to do.");
     ChOpen(6,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010600002_06_020");
     MsgDisp("Himuro","I just got here a little early.");
-    MsgDisp("主人公","About how early is a little?");
+    MsgDisp("主人公","How early is a little?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

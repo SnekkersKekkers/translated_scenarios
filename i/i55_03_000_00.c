@@ -29,7 +29,7 @@ to go out of my way to tell you......");
     VoicePlay("I550300000_03_020");
     MsgDisp("Honda","Why?
 The uniform suits you too, you know?");
-    MsgDisp("主人公","Y, you think so?
+    MsgDisp("主人公","Y-You think so?
 Thanks.");
     ChEye(3,0);
     ChMouth(3,3);

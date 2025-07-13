@@ -40,7 +40,7 @@ rhythmic gymnastics club.)");
     VoiceEVSPlay(4);
     VoicePlay("H4A0400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝……");
+    MsgDisp("主人公","｛七ツ森＊｝......");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("H4A0400001_04_040");

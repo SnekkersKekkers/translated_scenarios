@@ -5,7 +5,7 @@ ChOpen(3,30,0,4,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("Q260300000_03_000");
-MsgDisp("Honda","……∈");
+MsgDisp("Honda","......∈");
 VoicePlay("Q260300000_03_010");
 MsgDisp("Honda","So it really was you∋");
 MsgDisp("主人公","Eh, ｛本多＊＊｝?

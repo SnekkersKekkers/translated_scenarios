@@ -34,7 +34,7 @@ ChMouth(8,4);
 ChEyeOpenLevel(8,10);
 ChMouthOpenLevel(8,0);
 VoicePlay("S110800001_08_050");
-MsgDisp("Shirahane","…………");
+MsgDisp("Shirahane","............");
 ChEye(8,2);
 ChMouth(8,4);
 VoicePlay("S110800001_08_060");

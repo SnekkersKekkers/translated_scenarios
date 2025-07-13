@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B030123002_01_000");
 MsgDisp("Kazama","What do you think of going to the Night
 Parade?");
-MsgSel("I'd love to watch","Sorry, not today…");
+MsgSel("I'd love to watch.","Sorry, not today...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

@@ -46,7 +46,7 @@ is just an excuse. I want to do this.");
     ChMotion(7,3);
     VoicePlay("O080700000_07_040");
     MsgDisp("Mikage","I guess so.
-I heard that vice principal Himuro
+I heard that Vice Principal Himuro
 also participated in the past.");
     MsgDisp("主人公","Huh!?
 Is that true?");

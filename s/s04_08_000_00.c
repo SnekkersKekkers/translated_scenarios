@@ -16,7 +16,7 @@ Please treat me well this year, too.");
     VoicePlay("S040800000_08_010");
     MsgDisp("Shirahane","Same to you.
 Hey, want to go to the shrine now?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit……");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040800000_08_020");
@@ -68,7 +68,7 @@ And the same to you.");
     VoicePlay("S040800000_08_070");
     MsgDisp("Shirahane","Hey, do ya wanna to go to the
 shrine......?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit……");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040800000_08_080");

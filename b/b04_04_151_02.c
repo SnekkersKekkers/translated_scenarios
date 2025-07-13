@@ -100,7 +100,7 @@ you like this even now.");
         ChMotion(4,0);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040415102_04_100");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);

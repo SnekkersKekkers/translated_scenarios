@@ -17,7 +17,7 @@ Happy New Years!");
     MsgDisp("Hiiragi","Happy New Years.
 I was thinking about going to the shrine.
 Do you want to go together?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit……");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040500000_05_020");
@@ -69,7 +69,7 @@ day of the year. I'm happy to hear it.");
     VoicePlay("S040500000_05_070");
     MsgDisp("Hiiragi","How about we both go and cheerfully
 say hello to the gods?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit……");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040500000_05_080");

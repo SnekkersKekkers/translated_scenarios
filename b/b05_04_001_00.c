@@ -167,7 +167,7 @@ ChMouth(4,2);
 ChEyeOpenLevel(4,8);
 ChMouthOpenLevel(4,0);
 VoicePlay("B050400100_04_150");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);

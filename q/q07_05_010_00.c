@@ -82,7 +82,7 @@ ChEye(5,4);
 VoicePlay("Q070501000_05_080");
 MsgDisp("Hiiragi","As a souvenir of the school trip and 
 your good luck charm.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("Q070501000_05_090");

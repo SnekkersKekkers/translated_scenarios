@@ -57,7 +57,7 @@ Have you gone on here with other guys?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623202_06_060");
-        MsgDisp("Himuro","………………");
+        MsgDisp("Himuro","..................");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

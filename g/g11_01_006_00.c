@@ -32,7 +32,7 @@ ChMotion(1,1);
 VoicePlay("G110100600_01_010");
 MsgDisp("Kazama","It was regarding Sassa. I thought I had so
 many things to ask......but I stopped.");
-MsgDisp("主人公","｛颯砂＊＊｝……?");
+MsgDisp("主人公","｛颯砂＊＊｝......?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -74,7 +74,7 @@ ChMotion(1,0);
 VoicePlay("G110100600_01_060");
 MsgDisp("Kazama","It's time for us to go.
 I'll walk you back.");
-MsgDisp("主人公","(｛風真＊＊｝……)");
+MsgDisp("主人公","(｛風真＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

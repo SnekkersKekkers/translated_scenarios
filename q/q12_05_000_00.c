@@ -94,7 +94,7 @@ me either.");
     ChMotion(5,0);
     VoicePlay("Q120500000_05_110");
     MsgDisp("Hiiragi","That's why right now is the best.");
-    MsgDisp("主人公","｛柊＊＊＊｝……");
+    MsgDisp("主人公","｛柊＊＊＊｝......");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);

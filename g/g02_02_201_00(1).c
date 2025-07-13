@@ -38,7 +38,7 @@ ChMotion(2,3);
 VoicePlay("G020220100_02_050");
 MsgDisp("Sassa","I still think the finish line is far
 ahead. The real competition starts now.");
-MsgDisp("主人公","(｛颯砂＊＊｝……)");
+MsgDisp("主人公","(｛颯砂＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,7 +12,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Ah～ What a nice morning. I get the 
 feeling that a lot of good things will 
 happen in my high school life!)");
-MsgDisp("主人公","(\"Ryouta\"-kun came over yesterday,
+MsgDisp("主人公","(\"Ryota\"-kun came over yesterday,
 but I wasn't home to see him...
 Wonder how he's changed?)");
 MsgDisp("主人公","(He might look different now,
@@ -46,7 +46,7 @@ BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","∋
 Wait... no way...
-Ryouta!? Er, ｛風真＊＊｝?");
+Ryota!? Er, ｛風真＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
 Wait(30,1);
@@ -216,7 +216,7 @@ NSSEyeOpenLevel(1,0);
 Wait(20,0);
 NSSEye(1,0);
 MsgDisp("主人公","That thing......?");
-MsgSel("The mysterious church with the ringing bell?","The wishes we made together to the pinwheel?","A lot of time has passed, I wonder what you're talking about……");
+MsgSel("The mysterious church with the ringing bell?","The wishes we made together to the pinwheel?","A lot of time has passed, I wonder what you're talking about......");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","The mysterious church with the
@@ -277,7 +277,7 @@ ChMotion(1,0);
 Wait(60,1);
 VoicePlay("A020100000_48_000");
 MsgDisp("School Girl A","Look, over there!  
-That's Kazama Ryouta-kun.");
+That's Kazama Ryota-kun.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

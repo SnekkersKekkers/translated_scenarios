@@ -39,7 +39,7 @@ ChMotion(6,0);
 VoicePlay("B070600001_06_440");
 MsgDisp("Himuro","I don't particularly want to put in any
 effort to maintain our friendship.");
-MsgDisp("主人公","………………");
+MsgDisp("主人公","..................");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

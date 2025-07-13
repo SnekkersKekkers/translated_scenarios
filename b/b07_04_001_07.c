@@ -38,13 +38,13 @@ VoicePlay("B070400001_04_570");
 MsgDisp("Nanatsumori","No, w...wait.
 Maybe, this is something 
 that's spread to me...");
-MsgDisp("主人公","……?");
+MsgDisp("主人公","......?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMouthOpenLevel(4,0);
 ChCheek(4,5);
 VoicePlay("B070400001_04_580");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChMotion(4,2,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("B070400001_04_590");

@@ -80,7 +80,7 @@ This is your present, ｛風真＊＊｝?");
 because I was picking a present
 with you in mind.");
     MsgDisp("主人公","...Ah! You got the present
-I brought, ｛風真＊＊｝ ∈");
+I brought, ｛風真＊＊｝∈");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);

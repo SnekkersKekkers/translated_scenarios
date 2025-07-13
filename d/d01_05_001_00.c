@@ -46,7 +46,7 @@ MsgDisp("主人公","That's not good!
 You need to eat.");
 ChMotion(5,0);
 VoicePlay("D010500100_05_030");
-MsgDisp("Hiiragi","…………");
+MsgDisp("Hiiragi","............");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

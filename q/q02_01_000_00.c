@@ -21,7 +21,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("Q020100000_01_010");
     MsgDisp("Kazama","Hey, how about we spend
 the free period together?");
-    MsgSel("Yes, I'm coming！","Sorry, it's just……");
+    MsgSel("Yes, I'm coming！","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);
@@ -78,7 +78,7 @@ you decided who you're going with?");
     ChCheek(1,7);
     VoicePlay("Q020100000_01_070");
     MsgDisp("Kazama","I want to go with you.");
-    MsgSel("Sure, I'm coming！","Sorry, it's just……");
+    MsgSel("Sure, I'm coming！","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);

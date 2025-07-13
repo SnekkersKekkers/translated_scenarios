@@ -22,23 +22,22 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610000_06_030");
-MsgDisp("Himuro","No, it's too much. I feel like I'm getting
+MsgDisp("Himuro","It's too much. I feel like I'm getting
 a lot of attention.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610000_06_040");
-MsgDisp("Himuro","...Because you're skipping out
-on your class' program?");
-MsgDisp("主人公","No, that's useless.
-Isn't it just trouble for everyone?");
+MsgDisp("Himuro","...Should I skip out on my class' exhibition?");
+MsgDisp("主人公","No, that's no good.
+Wouldn't that just make everything worse?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F110610000_06_050");
-MsgDisp("Himuro","Hah.. it's so bothersome, feeling 
-guilty for it doesn't make any sense.");
+MsgDisp("Himuro","Sigh... That's annoying.
+Feeling guilty wouldn't help either.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

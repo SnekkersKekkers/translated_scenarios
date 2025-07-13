@@ -60,7 +60,7 @@ VoicePlay("B360623600_06_060");
 MsgDisp("Himuro","Yeah.
 You looked so happy.
 It's the face I always wanted to see.");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

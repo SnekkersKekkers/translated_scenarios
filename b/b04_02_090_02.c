@@ -92,7 +92,7 @@ I'll try studying up on cooking then.");
         ChMotion(2,4);
         ChCheek(2,10);
         VoicePlay("B040209002_02_090");
-        MsgDisp("Sassa","…………");
+        MsgDisp("Sassa","............");
         MsgDisp("主人公","｛颯砂＊＊｝?");
         ChEye(2,0);
         ChMouth(2,0);

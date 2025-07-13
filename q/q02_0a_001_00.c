@@ -11,7 +11,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("Q020A00100_01_000");
-MsgDisp("Kazama","｛主人公｝, Have you slept well?");
+MsgDisp("Kazama","｛主人公｝, did you sleep well?");
 MsgDisp("主人公","Yeah, absolutely. ｛風真＊＊｝,
 ｛颯砂＊＊｝, are you two hanging out
 together for the free period?");
@@ -26,7 +26,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q020A00100_02_010");
 MsgDisp("Sassa","Wanna walk around together?");
-MsgSel("Yeah, sure!","Sorry, I……");
+MsgSel("Yeah, sure!","Sorry, I......");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(1,3);
@@ -59,9 +59,7 @@ your feelings.");
     VoicePlay("Q020A00100_01_030");
     MsgDisp("Kazama","Yeah.
 Well then, let's go.");
-    MsgDisp("主人公","
-(Looks like it's going to be a fun free
-time!)");
+    MsgDisp("主人公","(Looks like the free period will be a lot of fun!)");
     MsgClose();
     ScrFadeOut(0);
     MsgClose();

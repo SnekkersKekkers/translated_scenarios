@@ -53,7 +53,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020120201_01_070");
 MsgDisp("Kazama","But,
 he surpassed that in just one year.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

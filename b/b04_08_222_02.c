@@ -91,7 +91,7 @@ I just said something cringy.");
         ChMotion(8,2,1);
         VoicePlay("B040822202_08_080");
         MsgDisp("Shirahane","But, I'm not lying, ya know?");
-        MsgDisp("主人公","(｛大地＊＊｝……)");
+        MsgDisp("主人公","(｛大地＊＊｝......)");
         break ;
         default :
         DbgAssert(1);

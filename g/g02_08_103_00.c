@@ -37,7 +37,7 @@ ChEyeOpenLevel(8,10);
 ChMouthOpenLevel(8,0);
 ChCheek(8,10);
 VoicePlay("G020810300_08_050");
-MsgDisp("Shirahane","…………");
+MsgDisp("Shirahane","............");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
@@ -52,7 +52,7 @@ ChMotion(8,2,1);
 VoicePlay("G020810300_08_070");
 MsgDisp("Shirahane","Hehe. At this rate, even the fireflies
 would laugh at us, right?");
-MsgDisp("主人公","(｛大地＊＊｝……)");
+MsgDisp("主人公","(｛大地＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

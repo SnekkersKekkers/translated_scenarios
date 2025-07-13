@@ -1,13 +1,13 @@
 EnvAutoSet(1);
-MsgDisp("主人公","Ehum......
+MsgDisp("主人公","Ehm......
 What's wrong everyone?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("Q240100000_01_000");
-MsgDisp("Kazama","Here, come.
-You're now a perfect target.");
-MsgDisp("主人公","Target?");
+MsgDisp("Kazama","Come this way.
+You're a sitting duck where you are.");
+MsgDisp("主人公","Sitting duck?");
 SEPlay("EV_SE_054",0,0.7);
 ScrQuake(1);
 MsgDisp("主人公","Kya!");

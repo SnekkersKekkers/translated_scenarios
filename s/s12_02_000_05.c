@@ -122,7 +122,7 @@ thank you enough.");
     MsgDisp("Sassa","So today I'll just say thank you.
 I need a little more time, until we
 graduate.");
-    MsgDisp("主人公","｛颯砂＊＊｝……");
+    MsgDisp("主人公","｛颯砂＊＊｝......");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

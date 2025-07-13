@@ -82,7 +82,7 @@ Maybe I should've done track too?");
 must be pretty happy, having such
 dedicated support.");
     ChMotion(1,0);
-    MsgDisp("主人公","｛風真＊＊｝……");
+    MsgDisp("主人公","｛風真＊＊｝......");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);

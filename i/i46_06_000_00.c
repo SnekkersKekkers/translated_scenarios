@@ -47,7 +47,7 @@ Oh no......");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600000_06_030");
-    MsgDisp("Himuro","…………");
+    MsgDisp("Himuro","............");
     MsgDisp("主人公","S-Sorry!
 I'll clean it up now.");
     ChEye(6,0);
@@ -76,7 +76,7 @@ Thanks!");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600000_06_070");
-    MsgDisp("Himuro","…………");
+    MsgDisp("Himuro","............");
     MsgDisp("主人公","(I troubled ｛氷室＊＊｝......)");
     break ;
     default :

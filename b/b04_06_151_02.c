@@ -80,7 +80,7 @@ I only want to show you my good side.");
         ChCheek(6,0);
         VoicePlay("B040615102_06_080");
         MsgDisp("Himuro","That's just my pride.");
-        MsgDisp("主人公","｛氷室＊＊｝……");
+        MsgDisp("主人公","｛氷室＊＊｝......");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,1);

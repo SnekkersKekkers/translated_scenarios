@@ -44,7 +44,7 @@ hit, too......)");
     MsgDisp("主人公","Let's see, the tables
 waiting for their orders are......");
     VoicePlay("I360400000_04_030");
-    MsgDisp("Nanatsumori?","…………");
+    MsgDisp("Nanatsumori?","............");
     MsgDisp("主人公","(I've felt this gaze
 for a while now......)");
     MsgClose();

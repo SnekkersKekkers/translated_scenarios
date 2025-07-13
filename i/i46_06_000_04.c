@@ -21,7 +21,7 @@ flowers and mist them too if they need it.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600004_06_010");
-    MsgDisp("Himuro","…………");
+    MsgDisp("Himuro","............");
     MsgDisp("主人公","Is something wrong?");
     ChEye(6,0);
     ChMouth(6,0);

@@ -25,9 +25,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P540100002_01_020");
-MsgDisp("Kazama","Yes,
-let me hear it again sometime soon.");
-MsgDisp("主人公","(Since ｛風真＊＊｝ is that happy, 
+MsgDisp("Kazama","Yes, let me hear it again sometime soon.");
+MsgDisp("主人公","(｛風真＊＊｝ is happy.
 I'm so glad I practiced so carefully!)");
 MsgClose();
 ScrFadeOut(0,0);

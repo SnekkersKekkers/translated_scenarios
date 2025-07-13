@@ -28,7 +28,7 @@ ChMotion(3,0,1);
 VoicePlay("T020301000_03_330");
 MsgDisp("Honda","Not in a book, but I'll always love the
 world in which you exist.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020301000_03_340");

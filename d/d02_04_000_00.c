@@ -10,7 +10,7 @@ ChMotion(4,1,1);
 VoicePlay("D020400000_04_010");
 MsgDisp("Nanatsumori","Let me ask you, then. Are you okay
 with it like this?");
-MsgSel("The glasses wearing ｛七ツ森＊｝ is fine","I want to go on a date with Nana……");
+MsgSel("The glasses wearing ｛七ツ森＊｝ is fine","I want to go on a date with Nana......");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,0);

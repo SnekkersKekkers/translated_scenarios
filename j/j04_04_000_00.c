@@ -19,7 +19,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("J040400000_04_010");
     MsgDisp("Nanatsumori","This Sunday.
 Are you free?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand……");
+    MsgSel("Yeah, I'm free.", "I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

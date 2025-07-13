@@ -6,7 +6,7 @@ MsgDisp("主人公","Amazing......
 Flowers and nice buildings spread out,
 It's like being in a foreign country!");
 VoicePlay("Q070401000_04_000");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 VoicePlay("Q070401000_04_010");
 MsgDisp("Nanatsumori","Y'know......");
 MsgClose();

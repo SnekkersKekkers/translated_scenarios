@@ -45,7 +45,7 @@ ChMotion(5,0);
 VoicePlay("B360501100_05_050");
 MsgDisp("Hiiragi","Is that right?
 But having you all to myself is a success.");
-MsgDisp("主人公","｛柊＊＊＊｝……?");
+MsgDisp("主人公","｛柊＊＊＊｝......?");
 ChEye(5,3);
 VoicePlay("B360501100_05_060");
 MsgDisp("Hiiragi","Hehe, just kidding.

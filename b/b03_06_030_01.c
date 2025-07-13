@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030603001_06_000");
 MsgDisp("Himuro","Waterpark, huh......");
-MsgSel("Let's go to the aquarium","The waterpark sounds nice");
+MsgSel("Let's go to the aquarium.","The waterpark sounds nice");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

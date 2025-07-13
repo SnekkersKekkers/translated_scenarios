@@ -32,7 +32,7 @@ ChMotion(3,4);
 VoicePlay("G020320101_03_040");
 MsgDisp("Honda","But, now it seems like there's someone
 else you like being around more than me.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

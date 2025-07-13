@@ -172,7 +172,7 @@ None of the other staff members will
 come this way.");
 StlEye(6,0);
 StlMouth(6,0);
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 StlEye(5,2);
 StlMouth(5,1);
 VoicePlay("D120C00000_05_050");

@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040202102_02_000");
 MsgDisp("Sassa","No two bricks here are the same.");
-MsgSel("Wouldn't being the same make them prettier……","Was changing them intentional?","Are they handmade by a craftsman?");
+MsgSel("Wouldn't being the same make them prettier......","Was changing them intentional?","Are they handmade by a craftsman?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(2,6)){

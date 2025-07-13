@@ -17,7 +17,7 @@ ChMouth(5,4);
 VoicePlay("T020500030_05_010");
 MsgDisp("Hiiragi","Please follow the path that can make you
 smile.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 VoicePlay("T020500030_05_020");
 MsgDisp("Hiiragi","Thanks to you, I now know what I should do
 in the theater company.");

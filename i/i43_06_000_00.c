@@ -120,7 +120,7 @@ as long as you don't hold me back.");
     ChMotion(6,0);
     ChCheek(6,5);
     VoicePlay("I430600000_06_120");
-    MsgDisp("Himuro","…………");
+    MsgDisp("Himuro","............");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

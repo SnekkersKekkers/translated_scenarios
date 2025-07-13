@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("H3A0400001_04_000");
     MsgDisp("Nanatsumori","Good work.
 What, what's wrong?");
-    MsgDisp("主人公","｛七ツ森＊｝……");
+    MsgDisp("主人公","｛七ツ森＊｝......");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);

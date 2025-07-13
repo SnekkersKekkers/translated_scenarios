@@ -34,7 +34,7 @@ disappointing to those players.");
     MsgDisp("Hiiragi","Personal bests are purely personal. For
 their cherished manager, everyone must
 have been aiming for the championship.");
-    MsgDisp("主人公","｛柊＊＊＊｝……");
+    MsgDisp("主人公","｛柊＊＊＊｝......");
     ChEye(5,4);
     VoicePlay("H2A0500001_05_030");
     MsgDisp("Hiiragi","Please, continue this conversation

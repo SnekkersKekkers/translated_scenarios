@@ -68,7 +68,7 @@ VoicePlay("Q070301000_03_040");
 MsgDisp("Honda","I've never felt like that before. I was
 interrupted in my time with you...... I
 didn't like it at all.");
-MsgDisp("主人公","｛本多＊＊｝ ……?");
+MsgDisp("主人公","｛本多＊＊｝ ......?");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("Q070301000_48_000");

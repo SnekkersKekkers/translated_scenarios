@@ -82,7 +82,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220000_02_110");
 MsgDisp("Sassa","......That's easy.");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -141,7 +141,7 @@ MsgDisp("Sassa","I don't want to be some track and field
 fanatic isolated from everyone else, I
 want to make my dreams come true as Nozomu
 Sassa.");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 MsgClear();
 ChClose(2);
 ChCustomLayout(2,5,0,-2.8);

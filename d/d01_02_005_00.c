@@ -51,7 +51,7 @@ any energy left.");
 VoicePlay("D010200500_40_020");
 MsgDisp("Manager","Well, the overall winner is still yet
 to be decided.");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

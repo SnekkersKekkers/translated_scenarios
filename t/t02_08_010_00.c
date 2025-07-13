@@ -90,7 +90,7 @@ ChEyeOpenLevel(8,10);
 VoicePlay("T020801000_08_060");
 MsgDisp("Shirahane","But I had decided.
 I was going to confess to you here.");
-MsgDisp("主人公","｛大地＊＊｝……");
+MsgDisp("主人公","｛大地＊＊｝......");
 VoiceEVSPlay(8);
 VoicePlay("T020801000_08_061");
 MsgDisp("Shirahane","｛主人公｝.");

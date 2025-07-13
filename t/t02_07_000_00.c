@@ -101,7 +101,7 @@ VoicePlay("T020700000_07_120");
 MsgDisp("Mikage","That's right. ......It's just as I
 thought, the void in my life can't be
 filled without you.");
-MsgDisp("主人公","｛御影＊＊｝……");
+MsgDisp("主人公","｛御影＊＊｝......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

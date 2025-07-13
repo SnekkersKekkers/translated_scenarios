@@ -56,7 +56,7 @@ ChMotion(3,0);
 VoicePlay("M010300000_03_070");
 MsgDisp("Honda","And how school without you there's
 not as fun, too.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

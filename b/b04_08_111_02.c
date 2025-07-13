@@ -70,7 +70,7 @@ of the boys at Haba High.");
         MsgDisp("Shirahane","I've been thinking recently; if I had went
 to Haba High, our relationship would've
 been completely different by now.");
-        MsgDisp("主人公","｛大地＊＊｝……");
+        MsgDisp("主人公","｛大地＊＊｝......");
         ChEye(8,3);
         ChMouth(8,3);
         ChMotion(8,0,1);

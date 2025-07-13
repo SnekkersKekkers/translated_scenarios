@@ -52,7 +52,7 @@ about my partner......)");
 got rejected, right?");
     VoicePlay("O030601000_48_010");
     MsgDisp("School Girl A","Huh～!");
-    MsgDisp("主人公","……?");
+    MsgDisp("主人公","......?");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();

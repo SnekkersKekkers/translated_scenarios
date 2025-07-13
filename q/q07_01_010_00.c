@@ -222,7 +222,7 @@ StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("Q070101000_01_140");
 MsgDisp("Kazama","My dream has come true.");
-MsgDisp("主人公"," ｛風真＊＊｝……");
+MsgDisp("主人公"," ｛風真＊＊｝......");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("Q070101000_01_150");

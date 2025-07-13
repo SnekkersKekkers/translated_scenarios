@@ -143,6 +143,6 @@ VoicePlay("B050200100_02_140");
 MsgDisp("Sassa","Just saying. If you still feel scared,
 hold onto me again, okay?");
 MsgDisp("主人公","Uh, sure.");
-MsgDisp("主人公","(……｛颯砂＊＊｝?)");
+MsgDisp("主人公","(......｛颯砂＊＊｝?)");
 BGMStop();
 ChPrmTblAdd(2,0);

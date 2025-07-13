@@ -13,7 +13,7 @@ weave on the loom, that was enough.");
 MsgDisp("主人公","Until I met you, Hikoboshi-sama.");
 SEVol(0.5,3);
 VoicePlay("P240600000_06_000");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 MsgDisp("主人公","(...Huh? At this part,
 Hikoboshi is supposed to take 
 Orihime's hand...)");

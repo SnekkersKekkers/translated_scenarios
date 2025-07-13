@@ -19,7 +19,7 @@ Now, do you have a second?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040200001_02_010");
     MsgDisp("Sassa","Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.","I've got some errands to run……");
+    MsgSel("Yeah, I'm free.","I've got some errands to run......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -57,7 +57,7 @@ So?");
     VoicePlay("J040200001_02_050");
     MsgDisp("Sassa","Let's see, this Sunday,
 Are you free?");
-    MsgSel("Yeah, I'm free.","Sorry, I have to run an errand……");
+    MsgSel("Yeah, I'm free.","Sorry, I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

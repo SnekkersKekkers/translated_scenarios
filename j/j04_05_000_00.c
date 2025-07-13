@@ -18,7 +18,7 @@ switch (ChPrmGet(5,6)){
 What's wrong?");
     VoicePlay("J040500000_05_010");
     MsgDisp("Hiiragi","Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand……");
+    MsgSel("Yeah, I'm free.", "I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

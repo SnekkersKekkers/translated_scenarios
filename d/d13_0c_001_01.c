@@ -98,7 +98,7 @@ MsgDisp("Himuro","For me, it's not......");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChMouth(5,4);
 VoicePlay("D130C00101_05_050");
 MsgDisp("Hiiragi","Inori-kun......");

@@ -39,7 +39,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("M010400000_04_040");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChMouthOpenLevel(4,#1);
 VoicePlay("M010400000_04_050");
 MsgDisp("Nanatsumori","When you're not at school,
@@ -50,7 +50,7 @@ VoicePlay("M010400000_04_060");
 MsgDisp("Nanatsumori","I could feel all over again
 how big your existence is
 inside of me.");
-MsgDisp("主人公","｛七ツ森＊｝……");
+MsgDisp("主人公","｛七ツ森＊｝......");
 ChMotion(4,1,1);
 VoiceEVSPlay(4);
 VoicePlay("M010400000_04_070");

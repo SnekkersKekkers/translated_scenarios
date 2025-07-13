@@ -69,7 +69,7 @@ once again express my gratitude to the
 many generations of lords here.");
         ChMouthOpenLevel(5,0);
         VoicePlay("B040522102_05_070");
-        MsgDisp("Hiiragi","…………");
+        MsgDisp("Hiiragi","............");
         VoicePlay("B040522102_43_000");
         MsgDisp("Castle Lord's Voice?","You should proceed on your 
 own path without hesitation.");

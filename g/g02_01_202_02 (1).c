@@ -24,7 +24,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,9);
 ChMouthOpenLevel(1,0);
 VoicePlay("G020120202_01_030");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);

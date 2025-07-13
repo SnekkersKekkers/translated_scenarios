@@ -54,7 +54,7 @@ And then——");
 BGMStop(0.6);
 Wait(30,0);
 VoicePlay("F100610002_32_000");
-MsgDisp("Vice Principal Himuro?","So it was you and your Father
+MsgDisp("VP Himuro?","So it was you and your Father
 who spread that absurd rumor?
 Himuro Inori.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

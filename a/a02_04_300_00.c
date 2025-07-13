@@ -45,7 +45,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("A020430000_04_020");
-MsgDisp("Nanatsumori?","…………");
+MsgDisp("Nanatsumori?","............");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);

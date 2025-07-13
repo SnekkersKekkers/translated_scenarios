@@ -17,7 +17,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("X210600000_06_020");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 MsgDisp("主人公","What's wrong?");
 ChEye(6,2);
 ChMouth(6,0);
@@ -43,7 +43,7 @@ MsgDisp("Himuro","There's a possessive part of me
 who wants to be the only one
 who knows how great you are.
 It's selfish, I know.");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

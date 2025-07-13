@@ -8,7 +8,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
 ChOpen(4,254,0,1,0,#1,#1,0,0,0,60);
 VoicePlay("F100420000_04_000");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","｛七ツ森＊｝.
 What are you looking at?");
 VoicePlay("F100420000_04_010");

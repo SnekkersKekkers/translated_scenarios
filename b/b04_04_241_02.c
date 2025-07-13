@@ -111,7 +111,7 @@ something to make it a date.");
         MsgDisp("Nanatsumori","The time we spend thinking about what
 to do together like this, 
 is good enough for me.");
-        MsgDisp("主人公","(｛七ツ森＊｝……)");
+        MsgDisp("主人公","(｛七ツ森＊｝......)");
         break ;
         default :
         DbgAssert(1);

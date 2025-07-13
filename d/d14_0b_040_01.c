@@ -12,10 +12,10 @@ MsgDisp("","　　　　　　　　　　 ・
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("D140B04001_01_010");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 ChMouthOpenLevel(4,0);
 VoicePlay("D140B04001_04_010");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","...What's up with you two?");
 ChEye(1,0);
 ChMouth(1,2);

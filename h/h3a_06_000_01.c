@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0600001_06_000");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","｛氷室＊＊｝……");
+    MsgDisp("主人公","｛氷室＊＊｝......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -39,7 +39,7 @@ glad I stayed in the judo club......)");
     ScrFadeIn(0);
     VoicePlay("H3A0600001_06_030");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","｛氷室＊＊｝……");
+    MsgDisp("主人公","｛氷室＊＊｝......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

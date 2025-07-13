@@ -19,7 +19,7 @@ ChMotion(21,0);
 VoicePlay("Q212100000_21_010");
 MsgDisp("Michiru","I think it's the classic of school trips.
 Do you want to take a look?");
-MsgSel("Yeah, let's go!","I don't think we should……");
+MsgSel("Yeah, let's go!","I don't think we should......");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(21,4);

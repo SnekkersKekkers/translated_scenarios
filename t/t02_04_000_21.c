@@ -43,7 +43,7 @@ VoiceEVSPlay(4);
 VoicePlay("T020400000_04_290");
 MsgDisp("Nanatsumori","｛主人公｝. I......promise to love you, for
 my whole life.");
-MsgDisp("主人公","｛七ツ森＊｝……");
+MsgDisp("主人公","｛七ツ森＊｝......");
 VoicePlay("T020400000_04_300");
 MsgDisp("Nanatsumori","I love you......");
 MsgClear();

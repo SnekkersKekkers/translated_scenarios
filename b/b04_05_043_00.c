@@ -2,7 +2,7 @@ BGOpen("wf400",1);
 ChOpen(5,253,0,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgSel("Today's event was the best!","Today's event was so-so huh?","Today's event was a miss");
+MsgSel("Today's event was the best!","Today's event was so-so, huh??","Today's event was a miss.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

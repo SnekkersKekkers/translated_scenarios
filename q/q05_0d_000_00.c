@@ -12,7 +12,7 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("Q050D00000_21_000");
 MsgDisp("Michiru","Good morning.
-Have you slept well?");
+Did you sleep well?");
 MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝, good morning!
 Yep, absolutely.");
 ChEye(22,0);
@@ -21,7 +21,7 @@ ChMotion(22,4,1);
 VoicePlay("Q050D00000_22_010");
 MsgDisp("Hikaru","So hey, for today's free period, 
 wanna come with us?");
-MsgSel("Yeah, sure！","Eeh…… sorry");
+MsgSel("Yeah, sure！","Eeh...... sorry");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);

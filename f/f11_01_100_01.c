@@ -42,7 +42,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("F110110001_47_000");
 MsgDisp("Broadcast","Habataki High School 2nd year Kazama
-Ryouta, please come to the staff room. The
+Ryota, please come to the staff room. The
 Respect-Senior-Citizens association is
 here.");
 ChEye(1,2);

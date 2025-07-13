@@ -39,7 +39,7 @@ VoicePlay("G020310400_03_050");
 MsgDisp("Honda","It's because I've been thinking about it a
 lot lately. About what kind of feelings I
 have for you.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

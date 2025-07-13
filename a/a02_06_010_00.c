@@ -8,7 +8,7 @@ MsgClose();
 BGMPlay("BGM_C06_INORI_I",0.01);
 ChOpen(6,254,2,1,1,0,#1,0,0);
 VoicePlay("A020601000_06_000");
-MsgDisp("Himuro?","………………");
+MsgDisp("Himuro?","..................");
 MsgDisp("主人公","(It's the guy who was talking 
 to Vice Principal Himuro in the corridor
 ......I think?)");
@@ -68,7 +68,7 @@ MsgDisp("Himuro?","I can see it on everyone's face,
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("A020601000_06_070");
-MsgDisp("Himuro?","You judge people based on that only?");
+MsgDisp("Himuro?","You judge people based on that alone?");
 MsgDisp("主人公","N-No, that's not......");
 StlEye(6,0);
 StlMouth(6,0);
@@ -91,14 +91,14 @@ SEPlay("EV_SE_552",0,0.8);
 ChOpen(6,254,5,1,0,#1,#1,0,0);
 Wait(60);
 ScrFadeIn(0);
-MsgDisp("主人公","......Um, I did something that
+MsgDisp("主人公","......Um, I said something that
 offended you, didn't I?
 ......I'm sorry.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601000_06_100");
-MsgDisp("Himuro?","………………");
+MsgDisp("Himuro?","..................");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);
@@ -123,15 +123,14 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("A020601000_06_130");
-MsgDisp("Himuro","But don't
-bring it up too much please.
-......'cause I'll get angry.");
+MsgDisp("Himuro","But don't bring it up too much please.
+......Or else I'll get angry.");
 MsgDisp("主人公","O-Okay.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601000_06_140");
-MsgDisp("Himuro","Well then. You're dismissed.");
+MsgDisp("Himuro","Alright. You're dismissed.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

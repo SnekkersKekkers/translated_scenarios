@@ -50,7 +50,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,4,#1,0,0,0,0,60);
 SEWait();
 VoicePlay("F020400003_04_050");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("F020400003_04_060");
@@ -68,7 +68,7 @@ ChNanaType(0);
 ChOpen(4,254,0,4,4,#1,0,8,0,0,60);
 SEWait();
 VoicePlay("F020400003_04_070");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","Ha......okay, you win.
 Anyone would laugh if you tickled them
 like that!");

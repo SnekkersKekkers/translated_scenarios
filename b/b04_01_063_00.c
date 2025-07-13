@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B040106300_01_000");
 MsgDisp("Kazama","I love the air around the sea
 this time of year, it's so crisp...");
-MsgSel("A winter ocean for two!","The winter sea feels so sad…","The winter ocean is full of yummy foods ♪");
+MsgSel("A winter ocean for two!","The winter sea feels so sad...","The winter ocean is full of yummy foods ♪");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

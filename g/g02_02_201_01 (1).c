@@ -55,7 +55,7 @@ ChMotion(2,0);
 VoicePlay("G020220101_02_080");
 MsgDisp("Sassa","If, the next time we come here, I'm the
 one closest to you.");
-MsgDisp("主人公","(｛颯砂＊＊｝……)");
+MsgDisp("主人公","(｛颯砂＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

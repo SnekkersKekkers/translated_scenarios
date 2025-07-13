@@ -11,7 +11,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020710101_07_010");
-MsgDisp("Mikage","…………");
+MsgDisp("Mikage","............");
 SEPlay("EV_SE_644");
 SEWait();
 ChEye(7,1);

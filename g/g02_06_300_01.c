@@ -42,7 +42,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630001_06_060");
 MsgDisp("Himuro","......Though I wouldn't say that to 
-Ryouta-senpai or Nozomu-senpai.");
+Ryota-senpai or Nozomu-senpai.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
 ChMouth(6,0);

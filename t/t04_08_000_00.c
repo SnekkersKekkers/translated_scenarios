@@ -26,7 +26,7 @@ VoicePlay("T040800000_08_030");
 MsgDisp("Shirahane","What can I say......
 just thinking about you makes me happy.");
 NSSEyeOpenLevel(8,0);
-MsgDisp("主人公","｛大地＊＊｝……");
+MsgDisp("主人公","｛大地＊＊｝......");
 NSSEye(8,0);
 NSSMouth(8,5);
 VoicePlay("T040800000_08_040");

@@ -54,7 +54,7 @@ MsgDisp("Hikaru","What's more, is that the models are from
 another dimension. According to the rumor,
 legendary high school model Hazuki Kei is
 there too!");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,4,1);

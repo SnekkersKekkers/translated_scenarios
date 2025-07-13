@@ -78,7 +78,7 @@ I've got my priorities wrong.");
         VoicePlay("B040623502_06_070");
         MsgDisp("Himuro","...Having fun with you
 is the biggest priority.");
-        MsgDisp("主人公","｛氷室＊＊｝……");
+        MsgDisp("主人公","｛氷室＊＊｝......");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

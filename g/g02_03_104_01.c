@@ -53,7 +53,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020310401_03_080");
-MsgDisp("Honda","…………");
+MsgDisp("Honda","............");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);

@@ -49,7 +49,7 @@ VoicePlay("R080500000_05_050");
 MsgDisp("Hiiragi","Yeah, I never experienced being the guest.
 So of course I'd never understand how the
 guest would feel.");
-MsgDisp("主人公","｛柊＊＊＊｝…");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -99,7 +99,7 @@ Is this a surprise play∋");
 StlEye(5,2);
 StlMouth(5,2);
 VoicePlay("R080500000_05_110");
-MsgDisp("Hiiragi","……！");
+MsgDisp("Hiiragi","......！");
 VoicePlay("R080500000_44_000");
 MsgDisp("School Girl","Really∋　I want to see!");
 SEPlay("EV_SE_741",1,0.3);

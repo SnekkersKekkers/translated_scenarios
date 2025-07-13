@@ -63,7 +63,7 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020340002_03_080");
 MsgDisp("Honda","Yes, that's the end of this conversation!");
-MsgDisp("主人公","(｛本多＊＊｝……)");
+MsgDisp("主人公","(｛本多＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

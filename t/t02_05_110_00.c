@@ -44,7 +44,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("T020511000_05_030");
 MsgDisp("Hiiragi","I should have done this as soon as you
 left me and went to someone else.");
-MsgDisp("主人公","｛柊＊＊＊｝……?");
+MsgDisp("主人公","｛柊＊＊＊｝......?");
 Wait(40,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -108,7 +108,7 @@ MsgDisp("Hiiragi","To atone at the very least, the only thing
 I could do to keep myself together was to
 participate in student council
 activities......");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
@@ -140,7 +140,7 @@ VoicePlay("T020511000_05_140");
 MsgDisp("Hiiragi","When I go to school,
 I see your smile.
 And how much it has helped me......");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,2);
@@ -170,7 +170,7 @@ VoicePlay("T020511000_05_180");
 MsgDisp("Hiiragi","If you're smiling......
 If the one I love; you, are smiling,
 then nothing is wrong. It's alright.");
-MsgDisp("主人公","……!");
+MsgDisp("主人公","......!");
 Wait(60,0);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);

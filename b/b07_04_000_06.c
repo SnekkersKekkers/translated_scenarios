@@ -9,7 +9,7 @@ ChEye(4,0);
 ChMouth(4,5);
 ChEyeOpenLevel(4,1);
 VoicePlay("B070400000_04_350");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","???");
 ChEye(4,0);
 ChMouth(4,0);

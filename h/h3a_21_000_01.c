@@ -32,7 +32,7 @@ the judo club.)");
     ScrFadeIn(0);
     VoicePlay("H3A2100001_21_020");
     MsgDisp("Michiru","Good work.");
-    MsgDisp("主人公","｛みちる＊｝……");
+    MsgDisp("主人公","｛みちる＊｝......");
     ChEye(21,4);
     ChMouth(21,4);
     ChMotion(21,4);

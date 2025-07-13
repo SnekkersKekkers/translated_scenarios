@@ -77,7 +77,7 @@ I hate when it's loud.");
     ChMouth(6,3);
     ChMotion(6,4);
     VoicePlay("B030623000_06_060");
-    MsgDisp("Himuro","I guess I can't back out now.");
+    MsgDisp("Himuro","I guess we can't back out now.");
     break ;
     case 3:
     MsgDispSksp(1,0);

@@ -20,7 +20,7 @@ Do you have a minute?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040600001_06_010");
     MsgDisp("Himuro","Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand……");
+    MsgSel("Yeah, I'm free.", "I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

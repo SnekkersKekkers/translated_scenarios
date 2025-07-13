@@ -27,7 +27,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("T020411000_04_160");
-MsgDisp("Nanatsumori","｛主人公｝……");
+MsgDisp("Nanatsumori","｛主人公｝......");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

@@ -52,7 +52,7 @@ Thanks for taking me back.");
     ChMouth(8,4);
     ChMouthOpenLevel(8,0);
     VoicePlay("S120800001_08_030");
-    MsgDisp("Shirahane","…………");
+    MsgDisp("Shirahane","............");
     ChEye(8,4);
     ChMouth(8,4);
     ChMotion(8,2,1);

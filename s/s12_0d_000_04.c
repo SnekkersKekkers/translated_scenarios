@@ -31,7 +31,7 @@ MsgDisp("Hikaru","I want to play with Mari even more.
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝……");
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝......");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,5);

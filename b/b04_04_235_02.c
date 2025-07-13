@@ -55,12 +55,12 @@ Dozens of them?");
         MsgDisp("Nanatsumori","Are you joking...
 You're veen trying to scare
 me like that——");
-        MsgDisp("主人公","…………");
+        MsgDisp("主人公","............");
         ChEye(4,2);
         ChMouth(4,2);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040423502_04_050");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChMotion(4,2,1);
         ChMouthOpenLevel(4,#1);
         VoicePlay("B040423502_04_060");

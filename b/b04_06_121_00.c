@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040612100_06_000");
 MsgDisp("Himuro","...There's surprisingly
 more people than I thought.");
-MsgSel("Let's find some bargains!","Setting up a store seems fun","It's an environmentally friendly event, isn't it?");
+MsgSel("Let's find some bargains!","Setting up a store seems fun.","It's an environmentally friendly event, isn't it?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

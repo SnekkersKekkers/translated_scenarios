@@ -9,7 +9,7 @@ ChCheek(3,0);
 MsgDisp("主人公","Mmm, delicious♪");
 ChMouthOpenLevel(1,0);
 VoicePlay("D140B06002_01_000");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 MsgDisp("主人公","......?
 ｛風真＊＊｝, is there something
 on my face?");
@@ -31,7 +31,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D140B06002_01_020");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

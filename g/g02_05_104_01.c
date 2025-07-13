@@ -38,7 +38,7 @@ ChMotion(5,0);
 VoicePlay("G020510401_05_060");
 MsgDisp("Hiiragi","Meeting you has changed me.
 It even affects my roles on stage.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,4);
 VoicePlay("G020510401_05_070");
 MsgDisp("Hiiragi","My father used to often say that, when he

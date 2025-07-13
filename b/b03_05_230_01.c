@@ -10,7 +10,7 @@ VoicePlay("B030523001_05_000");
 MsgDisp("Hiiragi","I get excited just looking at the
 amusement park map.
 So, have you decided?");
-MsgSel("The roller coaster is good","Let's ride the Ferris Wheel","I want to try Bungee Jumping","I want to ride the teacup","Let's go inside the Haunted House");
+MsgSel("The roller coaster is good","Let's ride the ferris wheel.","I want to try Bungee Jumping","I want to ride the teacup","Let's go inside the Haunted House");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

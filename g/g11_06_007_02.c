@@ -37,8 +37,8 @@ ChOpen(6,100,0,0,0,#1,#1,0,0);
 VoicePlay("G110600702_06_020");
 MsgDisp("Himuro","......?　What.");
 MsgDisp("主人公","(Come to think of it, he used to play bass
-too. Not only is he athletic but His hands
-are dexterous too......?)");
+too. He's not only athletic, but good with his
+hands too......?)");
 while (1){
     RunEverydaySksp(6,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -80,7 +80,7 @@ VoicePlay("G110600702_06_070");
 MsgDisp("Himuro","Good with my hands, 'too'......what does
 that mean?");
 MsgDisp("主人公","You can surf, you can play the bass, you
-can study, So, it seems like there's
+get good grades. It seems like there's
 nothing you're bad at.");
 ChEye(6,2);
 ChMouth(6,0);

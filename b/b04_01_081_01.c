@@ -8,7 +8,7 @@ VoicePlay("B040108101_01_000");
 MsgDisp("Kazama","It just feels too obvious to compare
 cherry blossoms to life,
 you know what I mean?");
-MsgSel("Fleeting, just like life… It's a little sad","The leaves that come after this are lovely, and twice as yummy right?","What a wonderful life, to see the flowers bloom every year");
+MsgSel("Fleeting, just like life... It's a little sad","The leaves that come after this are lovely, and twice as yummy right?","What a wonderful life, to see the flowers bloom every year");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -7,7 +7,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040201100_02_000");
 MsgDisp("Sassa","We're really high up.");
-MsgSel("Wow! Something on the horizon is glowing!","I wonder if we can see ｛颯砂＊＊｝'s house from here?","It's so high, I can't move……");
+MsgSel("Wow! Something on the horizon is glowing!","I wonder if we can see ｛颯砂＊＊｝'s house from here?","It's so high, I can't move......");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

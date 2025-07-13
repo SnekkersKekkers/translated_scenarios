@@ -44,7 +44,7 @@ VoicePlay("Q070200000_02_040");
 MsgDisp("Sassa","Yes, I think so too. Even now,
 I'm able to go Nagasaki sightseeing with
 you like this. Aren't we lucky?");
-MsgDisp("主人公","( ｛颯砂＊＊｝ ……)");
+MsgDisp("主人公","( ｛颯砂＊＊｝ ......)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

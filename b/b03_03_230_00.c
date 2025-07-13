@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030323000_03_000");
 MsgDisp("Honda","Now then, which ride is the best one?");
-MsgSel("Roller coaster sounds fun","Let's ride the ferris wheel","I want to try bungee jumping!","I want to ride the tea cups");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the tea cups.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

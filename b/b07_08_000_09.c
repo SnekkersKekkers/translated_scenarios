@@ -17,7 +17,7 @@ VoicePlay("B070800000_08_480");
 MsgDisp("Shirahane","Ehh∋");
 ChCheek(8,8);
 VoicePlay("B070800000_08_490");
-MsgDisp("Shirahane","…………");
+MsgDisp("Shirahane","............");
 MsgDisp("主人公","｛大地＊＊｝?");
 ChEye(8,2);
 ChMouth(8,4);

@@ -21,7 +21,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("B070400001_04_190");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChMouthOpenLevel(4,#1);
 VoicePlay("B070400001_04_200");
 MsgDisp("Nanatsumori","What is this. I didn't have this feeling
@@ -38,7 +38,7 @@ VoicePlay("B070400001_04_220");
 MsgDisp("Nanatsumori","So I thought that when I got to high
 school, it would be filled with
 even more troublesome things.");
-MsgDisp("主人公","｛七ツ森＊｝……");
+MsgDisp("主人公","｛七ツ森＊｝......");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

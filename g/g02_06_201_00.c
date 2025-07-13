@@ -37,7 +37,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020620100_06_050");
 MsgDisp("Himuro","But, it's clear who comes to mind for you.");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -73,7 +73,7 @@ VoicePlay("G020620100_06_100");
 MsgDisp("Himuro","So be prepared.
 ......this is my message to you now.");
 MsgDisp("主人公","Ehhh∋");
-MsgDisp("主人公","(｛氷室＊＊｝……?)");
+MsgDisp("主人公","(｛氷室＊＊｝......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

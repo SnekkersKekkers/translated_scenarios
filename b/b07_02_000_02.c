@@ -16,7 +16,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B070200000_02_080");
-MsgDisp("Sassa","Ryouta doesn't agree with me on this.
+MsgDisp("Sassa","Ryota doesn't agree with me on this.
 He's a soba sort of guy.");
 MsgDisp("主人公","Hehe, is that so.");
 ChEye(2,0);
@@ -24,7 +24,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_090");
 MsgDisp("Sassa","So, you're an udon fan too right?
-I'm looking forward to telling Ryouta 
+I'm looking forward to telling Ryota 
 next time.");
 MsgDisp("主人公","Uhm, maybe I like both?");
 ChEye(2,0);

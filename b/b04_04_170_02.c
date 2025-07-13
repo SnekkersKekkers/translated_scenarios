@@ -86,7 +86,7 @@ My heart is beating super fast...");
         ChMouthOpenLevel(4,0);
         ChCheek(4,8);
         VoicePlay("B040417002_04_090");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChEyeOpenLevel(4,#1);
         ChMouthOpenLevel(4,#1);
         VoicePlay("B040417002_04_100");

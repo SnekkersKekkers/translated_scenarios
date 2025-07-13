@@ -15,7 +15,7 @@ VoicePlay("B030523002_05_000");
 MsgDisp("Hiiragi","Ah, it's about time for the Night
 Parade to start.
 Did you want to watch it?");
-MsgSel("Yeah, I want to","Sorry, today is a bit……");
+MsgSel("Yeah, I want to","Sorry, today is a bit......");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

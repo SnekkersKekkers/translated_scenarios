@@ -49,7 +49,7 @@ StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("A020410000_04_040");
-MsgDisp("Nanatsumori?","…………");
+MsgDisp("Nanatsumori?","............");
 MsgDisp("主人公","Huh?
 You're also reading Habataki Watcher?");
 StlEye(4,0);
@@ -113,7 +113,7 @@ ChMouth(4,1);
 ChMotion(4,2,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("A020410000_04_110");
-MsgDisp("Nanatsumori?","…………");
+MsgDisp("Nanatsumori?","............");
 MsgDisp("主人公","Wait a minute, 
 you sure look a lot like NANA-kun,
 uhhh......");
@@ -123,7 +123,7 @@ MsgDisp("Nanatsumori","......Nanatsumori Minoru.");
 MsgDisp("主人公","Even the name matches.");
 ChMouthOpenLevel(4,0);
 VoicePlay("A020410000_04_130");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","Could it be?
 That you're NANA-kun?");
 ChEye(4,1);

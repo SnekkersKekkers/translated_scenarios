@@ -60,9 +60,9 @@ Let's take it easy,");
         MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-        MsgDisp("主人公","…………");
+        MsgDisp("主人公","............");
         VoicePlay("B040424202_04_050");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         MsgDisp("主人公","...Hmm.
 Oh no, looks like I fell asleep.");
         MsgDisp("主人公","｛七ツ森＊｝ is...

@@ -100,7 +100,7 @@ what you're assigned-");
     MsgDisp("Honda","All the staff know how hard you've
 been working, and that's why you were
 chosen, you know?");
-    MsgDisp("主人公","｛本多＊＊｝……");
+    MsgDisp("主人公","｛本多＊＊｝......");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

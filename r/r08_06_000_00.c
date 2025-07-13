@@ -14,7 +14,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("R080600000_06_000");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -44,7 +44,7 @@ StlMouth(6,2);
 StlEyeOpenLevel(6,0,1);
 ScrFadeIn(0);
 VoicePlay("R080600000_06_010");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 MsgDisp("主人公","(......｛氷室＊＊｝?
 It looks like he is praying...
 I shouldn't interrupt him.)");

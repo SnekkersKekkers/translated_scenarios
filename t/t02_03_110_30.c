@@ -15,7 +15,7 @@ ChMotion(3,0,1);
 VoicePlay("T020311000_03_220");
 MsgDisp("Honda","Thank you. 
 For accepting my feelings.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

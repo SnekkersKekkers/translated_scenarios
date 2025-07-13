@@ -52,7 +52,7 @@ ChMotion(1,0);
 ChMouthOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("T020A30000_01_050");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 ChMouth(1,2);

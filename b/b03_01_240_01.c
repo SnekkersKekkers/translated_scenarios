@@ -14,7 +14,7 @@ MsgDisp("主人公","Like, 'forget your everyday life and
 become one with nature'!");
 ChEye(1,0);
 ChMouth(1,0);
-MsgSel("I wonder if there are animals?","Want to head to the campground?");
+MsgSel("I wonder if there are animals?","Want to head to the camping ground?");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

@@ -118,14 +118,14 @@ end? If it's not enough, then here's more.");
         ChMouth(4,0);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040406302_04_140");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         MsgDisp("主人公","Yeah, it's warm...");
         ChMouth(4,0);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040406302_04_150");
         MsgDisp("Nanatsumori","Let's stay like
 this for a while.");
-        MsgDisp("主人公","(｛七ツ森＊｝……)");
+        MsgDisp("主人公","(｛七ツ森＊｝......)");
         break ;
         default :
         DbgAssert(1);

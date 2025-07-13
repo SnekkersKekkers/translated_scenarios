@@ -72,7 +72,7 @@ VoicePlay("T020701000_07_080");
 MsgDisp("Mikage","The gap from my high school days......
 There was always a huge void there for me
 you know?");
-MsgDisp("主人公","｛御影＊＊｝……");
+MsgDisp("主人公","｛御影＊＊｝......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

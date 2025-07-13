@@ -55,7 +55,7 @@ Could I get more cardboardー?");
     SEWait();
     ChOpen(6,254,4,0,0,#1,#1,0,0);
     VoicePlay("P830600001_06_030");
-    MsgDisp("Himuro","………");
+    MsgDisp("Himuro",".........");
     MsgDisp("主人公","Huh, ｛氷室＊＊｝?
 What's wrong?");
     ChEye(6,0);

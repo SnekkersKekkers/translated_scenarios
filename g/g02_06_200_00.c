@@ -30,7 +30,7 @@ ChMotion(6,1);
 VoicePlay("G020620000_06_040");
 MsgDisp("Himuro","Ah, well. 
 You can claim whatever you want.");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -65,7 +65,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020620000_06_090");
 MsgDisp("Himuro","I wish I could lengthen the time
 I spend with you by another year......");
-MsgDisp("主人公","(｛氷室＊＊｝……)");
+MsgDisp("主人公","(｛氷室＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

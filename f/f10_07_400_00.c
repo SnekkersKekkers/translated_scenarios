@@ -38,7 +38,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F100740000_07_030");
-MsgDisp("Mikage","…………");
+MsgDisp("Mikage","............");
 VoicePlay("F100740000_32_030");
 MsgDisp("VP Himuro","However, please refrain from 
 coming into the classroom dressed 
@@ -67,7 +67,7 @@ ChMotion(7,1);
 VoicePlay("F100740000_07_050");
 MsgDisp("Mikage","He's always angry with me, right?
 I was just scolded for dressing like this.");
-MsgDisp("主人公","｛御影＊＊｝……");
+MsgDisp("主人公","｛御影＊＊｝......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

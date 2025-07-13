@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
     VoiceEVSPlay(3);
     VoicePlay("Q020300000_03_000");
     MsgDisp("Honda","｛主人公｝.
-Good morning!　Have you slept well?");
+Good morning! Did you sleep well?");
     MsgDisp("主人公","Good morning. Mhm, yes I did. ｛本多＊＊｝,
 how about you?");
     ChEye(3,3);
@@ -24,7 +24,7 @@ how about you?");
     VoicePlay("Q020300000_03_010");
     MsgDisp("Honda","Me too. As the well-slept duo, let's go
 together for today's free period!");
-    MsgSel("Sure, I'm coming！","Sorry, it's just……");
+    MsgSel("Sure, I'm coming！","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,3);
@@ -81,7 +81,7 @@ Found you!　I was looking for you!");
 for the free period? I've already
 perfected a simulation on the best routes
 to take and all, so what do you think?");
-    MsgSel("Sure, I'm coming！","Sorry, it's just……");
+    MsgSel("Sure, I'm coming！","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,3);

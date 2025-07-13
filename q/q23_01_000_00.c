@@ -3,7 +3,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(1,30,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公"," ｛風真＊＊｝.");
+MsgDisp("主人公","｛風真＊＊｝.");
 ChMotion(1,3);
 Wait(10,0);
 ChEye(1,1);

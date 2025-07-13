@@ -46,7 +46,7 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020320001_03_070");
 MsgDisp("Honda","But if that comes true then I......");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChSet(3,3);
 VoicePlay("G020320001_03_080");
 MsgDisp("Honda","But this is the first time in my life 

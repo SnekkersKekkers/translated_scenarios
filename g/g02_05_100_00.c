@@ -39,7 +39,7 @@ VoicePlay("G020510000_05_060");
 MsgDisp("Hiiragi","I should just be happy about this
 situation, but somewhat, at the same time,
 I'm also feeling afraid of losing it......");
-MsgDisp("主人公","(｛柊＊＊＊｝……)");
+MsgDisp("主人公","(｛柊＊＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

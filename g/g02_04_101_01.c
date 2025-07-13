@@ -42,7 +42,7 @@ ChMotion(4,0,1);
 VoicePlay("G020410101_04_060");
 MsgDisp("Nanatsumori","But it hurts when you look the
 other way.");
-MsgDisp("主人公","｛七ツ森＊｝……");
+MsgDisp("主人公","｛七ツ森＊｝......");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

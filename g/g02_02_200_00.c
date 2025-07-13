@@ -21,7 +21,7 @@ ChMotion(2,4);
 VoicePlay("G020220000_02_030");
 MsgDisp("Sassa","It's just, since you came here today, does
 that mean I have a chance?");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

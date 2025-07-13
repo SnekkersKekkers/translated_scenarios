@@ -10,7 +10,7 @@ VoicePlay("T020600000_06_530");
 MsgDisp("Himuro","Ah......I see
 I guess, 
 that was just my own selfish expectation.");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
 VoicePlay("T020600000_06_540");
@@ -26,7 +26,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 MsgDisp("Himuro","It's okay.
 At least finish it nicely.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 VoicePlay("T020600000_06_560");
 ChEye(6,2);
 ChMouth(6,3);

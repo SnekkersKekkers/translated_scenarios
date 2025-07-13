@@ -77,7 +77,7 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B070701000_07_090");
 MsgDisp("Mikage","Dangerous, right?");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -39,7 +39,7 @@ VoicePlay("G020340000_03_050");
 MsgDisp("Honda","Just between us, my dad worries about
 hair loss, so if it's genetic,
 in the future I might......");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,1);

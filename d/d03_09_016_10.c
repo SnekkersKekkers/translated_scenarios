@@ -17,7 +17,7 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,8);
 ChMouthOpenLevel(9,0);
 VoicePlay("D030901610_09_000");
-MsgDisp("Kuya","…………");
+MsgDisp("Kuya","............");
 VoicePlay("D030901610_41_020");
 MsgDisp("Male Student B","Hey, let's take a picture with the
 heroine!");
@@ -60,7 +60,7 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,8);
 ChMouthOpenLevel(9,0);
 VoicePlay("D030901610_09_040");
-MsgDisp("Kuya","…………");
+MsgDisp("Kuya","............");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
 ScrFadeOut(0);

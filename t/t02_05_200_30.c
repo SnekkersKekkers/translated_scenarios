@@ -20,7 +20,7 @@ ChMotion(5,2);
 VoicePlay("T020520030_05_020");
 MsgDisp("Hiiragi","Now I know the way.
 I can walk by myself.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

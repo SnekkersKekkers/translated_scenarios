@@ -48,7 +48,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝……?)");
+MsgDisp("主人公","(｛氷室＊＊｝......?)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

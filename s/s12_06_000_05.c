@@ -81,7 +81,7 @@ at the graduation ceremony.");
 I've been avoiding it for a while......
 But now I feel like I'm ready to let you
 go.");
-    MsgDisp("主人公","｛氷室＊＊｝……");
+    MsgDisp("主人公","｛氷室＊＊｝......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);
@@ -107,7 +107,7 @@ happened to repeat the year?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(｛氷室＊＊｝……)");
+    MsgDisp("主人公","(｛氷室＊＊｝......)");
     break ;
     default :
     DbgAssert(1);

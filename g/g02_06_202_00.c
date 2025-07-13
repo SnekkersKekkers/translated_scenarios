@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620201_06_010");
-MsgDisp("Himuro","Ryouta-senpai. 
+MsgDisp("Himuro","Ryota-senpai. 
 You've completely fallen for his strategy.");
 MsgDisp("主人公","Ehhh?");
 ChEye(6,1);

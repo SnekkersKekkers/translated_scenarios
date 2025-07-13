@@ -9,7 +9,7 @@ VoicePlay("B040203100_02_000");
 MsgDisp("Sassa","Woah, there are so many......
 The aquarium is mimicking the tropical
 sea.");
-MsgSel("What's the name of that fish?","The patterns on those fish are beautiful▼","Wow∋I feel their stares from behind the rocks……");
+MsgSel("What's the name of that fish?","The patterns on those fish are beautiful▼","Wow∋I feel their stares from behind the rocks......");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

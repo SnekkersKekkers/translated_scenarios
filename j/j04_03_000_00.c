@@ -20,7 +20,7 @@ is something wrong?");
     VoicePlay("J040300000_03_010");
     MsgDisp("Honda","Hey.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I'm not available that day……");
+    MsgSel("Yeah, I'm free.", "I'm not available that day......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEyeOpenLevel(3,#1);
@@ -72,7 +72,7 @@ What's wrong?");
     VoicePlay("J040300000_03_050");
     MsgDisp("Honda","Yeah, listen.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand……");
+    MsgSel("Yeah, I'm free.", "I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEyeOpenLevel(3,#1);

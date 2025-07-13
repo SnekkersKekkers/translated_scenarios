@@ -84,7 +84,7 @@ watch?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P730600001_06_080");
-    MsgDisp("Himuro","………………");
+    MsgDisp("Himuro","..................");
     MsgDisp("主人公","What's wrong?");
     ChEye(6,0);
     ChMouth(6,0);

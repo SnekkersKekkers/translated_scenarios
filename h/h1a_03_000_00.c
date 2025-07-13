@@ -27,7 +27,7 @@ MsgDisp("Honda","What are you saying∋
 Anyone could see that the condition of
 the players is because you supported 
 them.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,0);

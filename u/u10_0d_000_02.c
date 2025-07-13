@@ -14,7 +14,7 @@ ChMotion(22,4,1);
 VoicePlay("U100D00002_22_010");
 MsgDisp("Hikaru","You're free tomorrow, right?
 How about we have a sleepover tonight?");
-MsgSel("Ok, I'll go!","Sorry, I'm busy……");
+MsgSel("Ok, I'll go!","Sorry, I'm busy......");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);

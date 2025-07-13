@@ -38,7 +38,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("T020501020_05_030");
 MsgDisp("Hiiragi","Until now, and from this point forwards, 
 your smile has always been my light.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,0);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020501020_05_040");

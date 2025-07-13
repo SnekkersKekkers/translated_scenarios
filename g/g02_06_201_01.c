@@ -66,7 +66,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_090");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,5);

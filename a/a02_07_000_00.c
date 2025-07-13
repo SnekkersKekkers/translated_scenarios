@@ -96,7 +96,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(32,1,0,0,0,#1,#1,0,2);
 VoicePlay("A020700000_32_000");
-MsgDisp("V.P. Himuro","Silence!
+MsgDisp("VP Himuro","Silence!
 What on earth is going o——");
 ChEye(7,2);
 ChMouth(7,1);
@@ -104,7 +104,7 @@ ChMotion(7,4);
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("A020700000_32_010");
-MsgDisp("V.P. Himuro","Hmm.");
+MsgDisp("VP Himuro","Hmm.");
 MsgDisp("主人公","(The vice principal!
 If I remember correctly, his name's 
 Himuro......)");
@@ -112,7 +112,7 @@ BGMPlay("BGM_HANYOU_C",0.01);
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("A020700000_32_020");
-MsgDisp("V.P. Himuro","Ahem.
+MsgDisp("VP Himuro","Ahem.
 Mikage-sensei, follow me to the staff 
 room immediately.");
 ChEye(7,2);
@@ -123,7 +123,7 @@ MsgDisp("Mikage","But I was about to start homeroom......");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("A020700000_32_030");
-MsgDisp("V.P. Himuro","\"Immediately.\"");
+MsgDisp("VP Himuro","\"Immediately.\"");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -132,7 +132,7 @@ MsgDisp("Mikage","Yes, sir.");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("A020700000_32_040");
-MsgDisp("V.P. Himuro","Students, remain in your seats.");
+MsgDisp("VP Himuro","Students, remain in your seats.");
 MsgClose();
 SEPlay("EV_SE_856");
 BGMStop();

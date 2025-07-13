@@ -38,7 +38,7 @@ VoicePlay("G020110000_01_040");
 MsgDisp("Kazama","It's not like that either. In the dream I
 was at least able to see you. I was really
 happy.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);

@@ -49,7 +49,7 @@ BGMPlay("BGM_C08_DAICHI_I",0.01,0.6);
 SEPlay("EV_SE_791",0.5,0.8);
 SEPlay("EV_SE_GAYA_003",0.5);
 ScrFadeIn(0);
-MsgDisp("主人公","It's ｛大地＊＊｝ ∈");
+MsgDisp("主人公","It's ｛大地＊＊｝∈");
 VoicePlay("D010800200_42_020");
 MsgDisp("Male Student","Go Daichi!");
 MsgDisp("主人公","(I feel like he might be able
@@ -59,7 +59,7 @@ I don't know who to root for......!)");
 SEPlay("EV_SE_793",0.3);
 SEPlay("EV_SE_GAYA_011");
 MsgDisp("主人公","Try your best!
-｛大地＊＊｝, ｛颯砂＊＊｝ ∈");
+｛大地＊＊｝, ｛颯砂＊＊｝∈");
 SEStop("EV_SE_791",2);
 SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_793",2);

@@ -10,7 +10,7 @@ everytime.
 ......Ah!");
 MsgDisp("主人公","(Maybe it doesn't work if I don't
 have any problems for him to solve∋)");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 MsgDisp("主人公","Ahh......Whatever should I do!
 I'm so screwed.");
 MsgClose();
@@ -69,10 +69,10 @@ ChMouth(9,4);
 ChMotion(9,0,1);
 VoicePlay("D030900400_09_050");
 MsgDisp("Kuya","A lot of people need help.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChMouthOpenLevel(9,0);
 VoicePlay("D030900400_09_060");
-MsgDisp("Kuya","…………");
+MsgDisp("Kuya","............");
 MsgDisp("主人公","Uhm, is that all?");
 ChEye(9,0);
 ChMouth(9,0);

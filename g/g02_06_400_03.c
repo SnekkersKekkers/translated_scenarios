@@ -27,7 +27,7 @@ ChMotion(6,0);
 VoicePlay("G020640003_06_030");
 MsgDisp("Himuro","Also, we would be together for
 another year longer...");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 VoicePlay("G020640003_06_050");
 ChEye(6,0);
 ChMouth(6,0);

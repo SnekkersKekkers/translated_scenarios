@@ -17,7 +17,7 @@ Let's clean up soon.");
     ChNanaType(1);
     ChOpen(4,35,0,0,3,#1,0,0,0);
     VoicePlay("I360400004_04_000");
-    MsgDisp("Nanatsumori","…………");
+    MsgDisp("Nanatsumori","............");
     MsgDisp("主人公","Ah, an order just came up.");
     ChEye(4,0);
     ChMouth(4,4);

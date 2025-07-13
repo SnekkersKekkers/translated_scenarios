@@ -6,7 +6,7 @@ VoicePlay("A010000000_01_160");
 MsgDisp("Ryota","\"Okay, let's play!
 Ready, go!\"");
 VoicePlay("A010000000_01_170");
-MsgDisp("Pair","\"Phew ∈\"");
+MsgDisp("Pair","\"Phew∈\"");
 SEPlay("EV_SE_695",0.3,0.2);
 Wait(90,0);
 MsgClear();
@@ -22,7 +22,7 @@ MsgClear();
 BGOpen("ad111",0);
 ScrFadeIn(0);
 VoicePlay("Y300100100_47_000");
-MsgDisp("Ryota's Mom","\"Sorry, Ryouta Your father's job was
+MsgDisp("Ryota's Mom","\"Sorry, Ryota Your father's job was
 suddenly decided\"");
 VoicePlay("Y300100100_43_000");
 MsgDisp("Ryota's Dad","\"I'm leaving on Monday morning. If
@@ -74,7 +74,7 @@ MsgDisp("","\"My friends at home\"- With that
 simple comment the feelings I
 supressed poured out......");
 VoicePlay("Y300100100_47_020");
-MsgDisp("Ryota's Mom","\"What's wrong Ryouta?\"");
+MsgDisp("Ryota's Mom","\"What's wrong Ryota?\"");
 MsgClear();
 MsgDisp("","- I couldn't stop crying.");
 MsgDisp("","After bothering my mom,

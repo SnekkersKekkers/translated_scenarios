@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("SS0102111_02_000");
-MsgDisp("Sassa","What's on it?");
+MsgDisp("Sassa","Is something there?");
 MsgClose();

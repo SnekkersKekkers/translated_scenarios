@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_609");
 SEWait();
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 MsgDisp("主人公","Like usual, Nana looks really cool in
 this edition of Habacha.");
 MsgDisp("主人公","(I still can't believe I know such a

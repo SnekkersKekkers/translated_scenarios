@@ -62,7 +62,7 @@ How are they?");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("L040300003_03_070");
-    MsgDisp("Honda","…………");
+    MsgDisp("Honda","............");
     MsgDisp("主人公","｛本多＊＊｝?");
     ChEye(3,4);
     ChMouth(3,4);

@@ -4,10 +4,9 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message from ｛氷室＊＊｝......)");
-MsgDisp("主人公","(It says......\"Right now there's a
-surfing lesson being held at the beach.
-Ryota-senpai and Nozomu-senpai are
-students if you'd like to come watch\")");
+MsgDisp("主人公","(It says......\"Right now there's a surfing lesson 
+being held at the beach. Ryota-senpai and Nozomu-senpai are
+students if you'd like to come watch.\")");
 MsgDisp("主人公","(That sounds kind of interesting?
 Alright, let's go!)");
 MsgClose();
@@ -76,7 +75,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D120A00100_06_030");
-MsgDisp("Himuro","Until I say its OK to stop.");
+MsgDisp("Himuro","Until I say its okay to stop.");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);

@@ -119,7 +119,7 @@ But, maybe there's something else......");
     ChOpen(4,255,0,0,0,0,0,0,0,0,60);
     SEWait();
     VoicePlay("I450400000_04_120");
-    MsgDisp("Nanatsumori","…………");
+    MsgDisp("Nanatsumori","............");
     MsgDisp("主人公","Um, ｛七ツ森＊｝,
 You're a little close......");
     MsgClose();

@@ -53,7 +53,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 ChMouthOpenLevel(4,5);
 VoicePlay("Q110B00000_04_010");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","Hey, may I go to that craft shop over 
 there?");
 ChEye(1,0);

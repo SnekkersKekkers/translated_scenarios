@@ -16,7 +16,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","Hey, if you're free right now,
 would you like to come with me to the
 shrine?");
-    MsgSel("Yeah, let's go!","Sorry, I can't……");
+    MsgSel("Yeah, let's go!","Sorry, I can't......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040400000_04_020");
@@ -65,7 +65,7 @@ something wrong......)");
     VoicePlay("S040400000_04_070");
     MsgDisp("Nanatsumori","I want to us to go to the shrine
 together. What do you think?");
-    MsgSel("Sure, let's go!","Sorry, I can't……");
+    MsgSel("Sure, let's go!","Sorry, I can't......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040400000_04_080");

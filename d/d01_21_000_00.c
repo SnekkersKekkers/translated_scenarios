@@ -65,7 +65,7 @@ away. I'll......I'll wait for you forever!");
 StlEyeOpenLevel(21,0,1);
 StlMouthOpenLevel(21,0);
 VoicePlay("D012100000_21_080");
-MsgDisp("Michiru","…………");
+MsgDisp("Michiru","............");
 StlEye(21,1);
 StlMouth(21,1);
 VoicePlay("D012100000_21_090");
@@ -92,7 +92,7 @@ Wait(20,0);
 VoicePlay("D012100000_21_110");
 MsgDisp("Michiru","∋
 ......Who's there?");
-MsgDisp("主人公","｛みちる＊｝……");
+MsgDisp("主人公","｛みちる＊｝......");
 ChEye(21,5);
 ChMouth(21,5);
 ChMotion(21,0);

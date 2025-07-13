@@ -21,7 +21,7 @@ giving it your all.");
     VoicePlay("O020700001_07_010");
     MsgDisp("Mikage","That was a good match.
 Don't look so down, okay?");
-    MsgDisp("主人公","｛御影＊＊｝……");
+    MsgDisp("主人公","｛御影＊＊｝......");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

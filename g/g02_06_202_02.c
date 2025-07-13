@@ -48,7 +48,7 @@ ChMouth(6,2);
 ChMotion(6,0);
 VoicePlay("G020620202_06_060");
 MsgDisp("Himuro","Until recently, that spot was mine......");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,0);

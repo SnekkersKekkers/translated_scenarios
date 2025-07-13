@@ -81,7 +81,7 @@ StlEye(4,1,0);
 StlMouth(4,0);
 StlMouthOpenLevel(4,0,1);
 VoicePlay("R080400000_04_090");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("R080400000_04_100");
@@ -124,7 +124,7 @@ VoicePlay("R080400000_04_160");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","So I always wanted to thank you properly.
 ... Thank you, ｛主人公｝.");
-MsgDisp("主人公","｛七ツ森＊｝……");
+MsgDisp("主人公","｛七ツ森＊｝......");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("R080400000_04_170");

@@ -26,8 +26,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("D110D00000_21_000");
 MsgDisp("Michiru","Hehe.
-Is Mari gathering her 
-\"favorite flowers\"?");
+Is Mari gathering her \"favorite flowers\"?");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();

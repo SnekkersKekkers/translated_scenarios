@@ -54,7 +54,7 @@ ChMotion(1,1);
 ChMouthOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("G110100400_01_030");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","......It's somewhat embarrassing huh.");
 MsgClose();

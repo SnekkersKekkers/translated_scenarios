@@ -56,7 +56,7 @@ it's fun no matter where we are.");
         ChEye(4,4);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040408302_04_050");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,0,1);

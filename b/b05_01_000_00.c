@@ -228,7 +228,7 @@ VoicePlay("B050100000_01_120");
 MsgDisp("Kazama","...Come to think of it, the ferris wheel
 was supposed to be for avoiding 
 the public gaze.");
-MsgDisp("主人公","……");
+MsgDisp("主人公","......");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

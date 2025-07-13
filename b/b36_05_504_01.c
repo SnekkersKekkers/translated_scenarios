@@ -49,7 +49,7 @@ ChCheek(5,5);
 VoicePlay("B360550401_05_060");
 MsgDisp("Hiiragi","For me, that's you.
 There's no one else.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,3);
 ChMotion(5,4);
 ChCheek(5,0);

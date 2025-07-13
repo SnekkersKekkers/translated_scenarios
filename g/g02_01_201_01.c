@@ -40,7 +40,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020120101_01_050");
 MsgDisp("Kazama","(sigh) That's not what I wanted to say.
 Sorry, for making things awkward.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

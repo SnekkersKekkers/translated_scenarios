@@ -35,7 +35,7 @@ MsgDisp("Kazama","Look, I can't do anything about you
 choosing someone besides me. But I've got
 a duty to the me from primary to middle
 school.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

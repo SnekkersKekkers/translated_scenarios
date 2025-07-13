@@ -2,7 +2,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("T020301000_03_190");
-MsgDisp("Honda","……！");
+MsgDisp("Honda","......！");
 ChMotion(3,0,1);
 ChCheek(3,10);
 VoicePlay("T020301000_03_200");

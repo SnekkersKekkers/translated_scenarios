@@ -40,7 +40,7 @@ ChMotion(5,0);
 VoicePlay("G020520200_05_060");
 MsgDisp("Hiiragi","So, I'll do whatever 
 I can to be by your side again.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020520200_05_070");

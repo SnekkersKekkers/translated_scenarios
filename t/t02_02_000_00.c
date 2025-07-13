@@ -40,7 +40,7 @@ VoicePlay("T020200000_02_040");
 MsgDisp("Sassa","But in my first year, I learned 
 that when I ran at full speed,
 someone would feel bad.");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -127,7 +127,7 @@ MsgDisp("Sassa","You were always running by my side.
 You would think things over with me,
 worry with me, and celebrate 
 with me. Thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

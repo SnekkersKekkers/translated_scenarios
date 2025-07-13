@@ -39,7 +39,7 @@ VoicePlay("D020801000_08_050");
 MsgDisp("Shirahane","If I could be your number one it would
 be the first time I've gotten first
 place in my life.");
-MsgDisp("主人公","｛大地＊＊｝……");
+MsgDisp("主人公","｛大地＊＊｝......");
 ChEye(8,4);
 ChMouth(8,5);
 ChMotion(8,5,1);

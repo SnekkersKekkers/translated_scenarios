@@ -85,7 +85,7 @@ but, it feels somewhat nice.");
         VoicePlay("B040606202_06_080");
         MsgDisp("Himuro","I don't want to get 
 used to this feeling.");
-        MsgDisp("主人公","｛氷室＊＊｝……");
+        MsgDisp("主人公","｛氷室＊＊｝......");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

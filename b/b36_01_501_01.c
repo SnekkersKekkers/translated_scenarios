@@ -59,7 +59,7 @@ Wait(40,0);
 ChOpen(1,255,2,2,2,0,#1,0,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("B360150101_01_040");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 MsgDisp("主人公","What's wrong?");
 ChEye(1,0);
 ChMouth(1,2);

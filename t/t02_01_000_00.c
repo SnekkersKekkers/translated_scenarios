@@ -101,7 +101,7 @@ ChMotion(1,3);
 VoicePlay("T020100000_01_110");
 MsgDisp("Kazama","I've never forgotten about the girl I
 love.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

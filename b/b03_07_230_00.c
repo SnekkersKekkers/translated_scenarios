@@ -9,7 +9,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B030723000_07_000");
 MsgDisp("Mikage","First off, where to?");
-MsgSel("Roller coaster sounds fun","Let's ride the ferris wheel","I want to try bungee jumping!","I want to ride the tea cups");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the tea cups.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

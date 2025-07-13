@@ -20,7 +20,7 @@ That's just the kind of kid he is.");
 MsgDisp("主人公","(Kuya-san......
 He didn't study for the entrance exam
 at all.)");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 MsgDisp("主人公","(I'm over Kuya-san......)");
 MsgClose();
 ScrFadeOut(0,0);

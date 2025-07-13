@@ -18,7 +18,7 @@ VoicePlay("G020730001_07_020");
 MsgDisp("Mikage","Look, high school is only three years. The
 things you see and experience during that
 time are special.");
-MsgDisp("主人公","｛御影＊＊｝……");
+MsgDisp("主人公","｛御影＊＊｝......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

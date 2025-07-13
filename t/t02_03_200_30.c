@@ -38,7 +38,7 @@ VoicePlay("T020320000_03_410");
 MsgDisp("Honda","I'm so glad I got to step out of the world
 of books and meet you, Ryou-kun, and
 Mii-kun.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,4);
 ChMotion(3,4,1);
 VoicePlay("T020320000_03_420");

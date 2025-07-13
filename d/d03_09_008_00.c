@@ -96,7 +96,7 @@ ChMotion(9,2,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030900800_09_080");
 MsgDisp("Kuya","I'm not thinking about it.");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);

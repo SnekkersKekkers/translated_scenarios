@@ -39,7 +39,7 @@ EnvPlay("SE_ENV_BG_PR002_CO0",1);
 ScrFadeIn(0);
 SEWait();
 MsgDisp("主人公","Pant, pant...
-Ryouta, where are we going?");
+Ryota, where are we going?");
 VoicePlay("A010000000_01_030");
 MsgDisp("Ryota","We're almost there! It's just up 
 ahead. I'm sure that's where the bell
@@ -80,7 +80,7 @@ Wait(140,0);
 BGOpen("pr005",0);
 SEPlay("EV_SE_828",0,0.5);
 SEWait();
-MsgDisp("主人公","Look, Ryouta-kun.
+MsgDisp("主人公","Look, Ryota-kun.
 We can see the inside of the church 
 a little bit from this window, see?");
 MsgClose();
@@ -116,7 +116,7 @@ MsgClose();
 BGOpen("pr008",0);
 EnvPlay("SE_ENV_BG_PR007_CO0",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ryouta-kun, the pinwheel you made 
+MsgDisp("主人公","Ryota-kun, the pinwheel you made 
 today in arts and crafts, it spins even 
 better than the teacher's!");
 VoicePlay("A010000000_01_100");
@@ -156,7 +156,7 @@ definitely get married!)");
 MsgDisp("主人公","(What to do, I can't think of a 
 wish so suddenly......)");
 MsgDisp("主人公","(Ah, yeah!
-\"I wish that Ryouta-kun's wish will come
+\"I wish that Ryota-kun's wish will come
 true!\")");
 VoicePlay("A010000000_01_160");
 MsgDisp("Ryota","Alright, let's blow!
@@ -195,7 +195,7 @@ MsgDisp("Ryota","...I see.
 Then mine is a secret too. We probably
 wished for the same thing!");
 MsgDisp("主人公","(The same wish...
-I wished for Ryouta-kun's wish to come 
+I wished for Ryota-kun's wish to come 
 true, though?)");
 SEStop("EV_SE_695",4);
 MsgClose();
@@ -213,7 +213,7 @@ are coming back to me.)");
 SEPlay("EV_SE_829",0,0.4);
 SEStop("JINGLE_019",0);
 SEWait();
-MsgDisp("主人公","(That's right. That very same \"Ryouta\"
+MsgDisp("主人公","(That's right. That very same \"Ryota\"
 is finally back...)");
 SEPlay("EV_SE_629");
 SEWait();

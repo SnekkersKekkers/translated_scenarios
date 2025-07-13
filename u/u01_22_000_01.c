@@ -16,7 +16,7 @@ VoicePlay("U012200001_22_010");
 MsgDisp("Hikaru","Heyhey, like......
 Wouldn't you like to come to the zoo 
 with me today?");
-MsgSel("Sure, that's fine.","Ah, sorry. I can't……");
+MsgSel("Sure, that's fine.","Ah, sorry. I can't......");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U012200001_22_020");

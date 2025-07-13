@@ -23,7 +23,7 @@ What's up?");
     VoicePlay("U012100001_21_010");
     MsgDisp("Michiru","Today if you're free, would you 
 like to go to the planetarium with me?");
-    MsgSel("Sure, let's go！","Ahh, sorry. I can't today……");
+    MsgSel("Sure, let's go！","Ahh, sorry. I can't today......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("U012100001_21_020");

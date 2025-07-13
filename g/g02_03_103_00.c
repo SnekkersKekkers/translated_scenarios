@@ -35,7 +35,7 @@ ChSet(3,2);
 VoicePlay("G020310300_03_050");
 MsgDisp("Honda","I really hate the idea of it being
 forgotten as if it never happened......");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

@@ -42,7 +42,7 @@ ChMotion(3,4);
 VoicePlay("G020310101_03_060");
 MsgDisp("Honda","But, I'm the most surprised that those 
 words came out without hesitation.");
-MsgDisp("主人公","｛本多＊＊｝……?");
+MsgDisp("主人公","｛本多＊＊｝......?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);

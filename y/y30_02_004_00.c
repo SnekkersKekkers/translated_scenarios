@@ -7,10 +7,10 @@ ScrFadeIn(0);
 MsgDisp("","During lunch breaks, the amount of
 times the four of us would get
 together and eat lunch has increased.");
-MsgDisp("","She wasn't here today, So with Ryota
+MsgDisp("","She wasn't here today, so with Ryota
 and Inori, it's just the three of us,
-For some reason I felt like there was
-an unsatisfactory atmosphere.");
+I couldn't shake the feeling that
+something was off.");
 MsgClear();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -50,13 +50,10 @@ MsgDisp("","I watch at the two of them like this,
 and while laughing, Ryota turns to me
 and starts talking to me.");
 VoicePlay("Y300200400_01_010");
-MsgDisp("Kazama","\"Hm? Why are you so quiet...
-Did you eat something weird?\"");
-MsgDisp("","I can understand how they feel,
-wanting to force things to be more
+MsgDisp("Kazama","\"Hm? Why are you so quiet...Did you eat something weird?\"");
+MsgDisp("","I can understand how they feel, wanting to force things to be more
 exciting.");
-MsgDisp("","This weekend, the four of us
-including her, are heading out
+MsgDisp("","This weekend, the four of us including her, are heading out
 together for the first time.");
 MsgClear();
 MsgDisp("","The four of us were going

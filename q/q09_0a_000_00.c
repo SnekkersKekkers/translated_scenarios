@@ -16,9 +16,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q090A00000_01_010");
-MsgDisp("Kazama","I'm normal,
-But Sassa said he went running in the 
-morning.");
+MsgDisp("Kazama","It's business as usual for me, but Sassa said 
+he went running this morning.");
 MsgDisp("主人公","Eeh∋");
 ChEye(2,0);
 ChMouth(2,4);
@@ -26,15 +25,14 @@ ChMotion(2,3);
 VoicePlay("Q090A00000_02_010");
 MsgDisp("Sassa","Don't be so surprised.
 For me, it would be weird not to.");
-MsgDisp("主人公","But didn't the teacher get
+MsgDisp("主人公","Did the teachers not get
 angry?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("Q090A00000_02_020");
 MsgDisp("Sassa","I was fine.
-I was jogging around the hotel,
-and Mikage-sensei ran alongside me.");
+I went jogging around the hotel and Mikage-sensei ran alongside me.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -45,14 +43,13 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q090A00000_02_030");
-MsgDisp("Sassa","Oh huh.
+MsgDisp("Sassa","Oh, huh.
 That's why he accompanied me.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q090A00000_01_030");
-MsgDisp("Kazama","Mikage-sensei, 
-I'm sure he's exhausted by now.");
+MsgDisp("Kazama","I'm sure Mikage-sensei is tired now.");
 MsgDisp("主人公","Hehe, surely.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -73,7 +70,7 @@ ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("Q090A00000_02_050");
 MsgDisp("Sassa","Let's do so.
-If we do, we'd be scolded forever.");
+If we didn't he'd scold us forever.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(1,0,0);

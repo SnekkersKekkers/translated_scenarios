@@ -29,13 +29,13 @@ VoicePlay("B070200001_02_170");
 MsgDisp("Sassa","You know how I get so into it.
 It can make the people around me
 kind of uncomfortable......");
-MsgDisp("主人公","｛颯砂＊＊｝……?");
+MsgDisp("主人公","｛颯砂＊＊｝......?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_180");
 MsgDisp("Sassa","An old story.");
-MsgDisp("主人公","(｛颯砂＊＊｝……)");
+MsgDisp("主人公","(｛颯砂＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

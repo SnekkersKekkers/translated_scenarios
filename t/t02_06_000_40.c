@@ -1,5 +1,5 @@
 MsgClear();
-MsgSel("If you're really okay with me……","I'm sorry……");
+MsgSel("If you're really okay with me......","I'm sorry......");
 switch (MsgSelRsltGet()){
     case 0:
     break ;

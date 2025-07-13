@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040614000_06_000");
 MsgDisp("Himuro","Haa... Live shows have a certain ambiance
 to them.");
-MsgSel("Haa, that was wonderful!","That was fun huh?","The sound was so loud that my ears are ringing...");
+MsgSel("Ahh, that was wonderful!","That was fun, huh?","The sound was so loud that my ears are ringing...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

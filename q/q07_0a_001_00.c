@@ -11,7 +11,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("Q070A00100_01_000");
-MsgDisp("Kazama","It's right now the season.
+MsgDisp("Kazama","It's the proper season for it.
 How nice.");
 ChEye(2,0);
 ChMouth(2,4);

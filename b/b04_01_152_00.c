@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040115200_01_010");
-    MsgDisp("Kazama","Geez, You're
+    MsgDisp("Kazama","Geez, you're
 so carefree, you don't even care 
 about other people's feelings.");
     MsgDispSksp(1,0);

@@ -49,7 +49,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020101000_01_720");
 MsgDisp("Kazama","But, Thank you.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

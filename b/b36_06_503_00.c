@@ -12,7 +12,7 @@ ChMotion(6,0,1);
 ChCheek(6,5);
 ScrFadeIn(0);
 VoicePlay("B360650300_06_000");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 MsgDisp("主人公","Um, ｛氷室＊＊｝......?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -59,7 +59,7 @@ ChMotion(6,0);
 VoicePlay("B360650300_06_070");
 MsgDisp("Himuro","I want to say something clever,
 but I can't think of anything");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

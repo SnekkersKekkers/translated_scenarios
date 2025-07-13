@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040206300_02_000");
 MsgDisp("Sassa","During this time of year, there aren't
 many people out.");
-MsgSel("A winter sea just for two！","The sea in winter is so sad……","The sea at winter is full of delicious food♪");
+MsgSel("A winter sea just for two！","The sea in winter is so sad......","The sea at winter is full of delicious food♪");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

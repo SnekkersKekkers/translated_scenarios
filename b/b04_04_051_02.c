@@ -104,7 +104,7 @@ Hm?");
         ChMouthOpenLevel(4,0);
         ChCheek(4,10);
         VoicePlay("B040405102_04_110");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChEye(4,4);
         ChMouth(4,2);
         ChCheek(4,10);

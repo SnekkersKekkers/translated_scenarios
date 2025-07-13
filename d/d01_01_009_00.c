@@ -50,7 +50,7 @@ MsgDisp("Kazama","I see......I was in England so I couldn't
 hear it, but you didn't either, huh......");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","……?");
+MsgDisp("主人公","......?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -89,7 +89,7 @@ MsgDisp("主人公","Ah, okay......");
 StlMouth(1,1);
 StlMouthOpenLevel(1,0);
 VoicePlay("D010100900_01_080");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 MsgDisp("主人公","(｛風真＊＊｝ is really focusing.
 Okay, I will too......!)");
 MsgClose();

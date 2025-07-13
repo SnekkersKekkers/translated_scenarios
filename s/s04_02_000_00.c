@@ -16,7 +16,7 @@ Happy New Year!");
     MsgDisp("Sassa","Let's get along again this year!");
     VoicePlay("S040200000_02_020");
     MsgDisp("Sassa","......So, want to go to the shrine?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit……");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040200000_02_030");
@@ -66,7 +66,7 @@ Same to you.");
     VoicePlay("S040200000_02_020");
     MsgDisp("Sassa","......so, want to visit the shrine
 together?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit……");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040200000_02_090");

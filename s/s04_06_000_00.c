@@ -16,7 +16,7 @@ Happy New Year.");
     VoicePlay("S040600000_06_010");
     MsgDisp("Himuro","Uh......Do you have any plans?
 Want to visit the shrine?");
-    MsgSel("Yeah, let's go!","Sorry, I can't……");
+    MsgSel("Yeah, let's go!","Sorry, I can't......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040600000_06_020");
@@ -65,7 +65,7 @@ Happy New Year.");
     MsgDisp("Himuro","It's good to see you so energetic
 this early in the year. By the way, are
 you free today?");
-    MsgSel("Yeah, let's go!","Sorry, I can't……");
+    MsgSel("Yeah, let's go!","Sorry, I can't......");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040600000_06_070");

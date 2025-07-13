@@ -71,7 +71,7 @@ You came?");
     VoicePlay("P530600001_06_060");
     MsgDisp("Himuro","Well yeah.
 Seeing you anxious is funny.");
-    MsgDisp("主人公","…………");
+    MsgDisp("主人公","............");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(6,0);

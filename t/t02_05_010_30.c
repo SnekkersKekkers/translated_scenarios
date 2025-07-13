@@ -22,7 +22,7 @@ ChEye(5,0);
 ChMouth(5,3);
 VoicePlay("T020501030_05_020");
 MsgDisp("Hiiragi","After that I can walk by myself.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

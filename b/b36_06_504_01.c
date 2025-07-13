@@ -53,7 +53,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650401_06_060");
 MsgDisp("Himuro","Who is with you right now?");
-MsgDisp("主人公","……｛氷室＊＊｝.");
+MsgDisp("主人公","......｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

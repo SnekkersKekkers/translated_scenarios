@@ -93,7 +93,7 @@ the two-person slide∋");
         ChMouthOpenLevel(4,0);
         ChCheek(4,8);
         VoicePlay("B040411002_04_100");
-        MsgDisp("Nanatsumori","…………");
+        MsgDisp("Nanatsumori","............");
         ChEye(4,1);
         ChMouth(4,2);
         ChMotion(4,3,1);

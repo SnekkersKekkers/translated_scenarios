@@ -7,7 +7,7 @@ VoicePlay("B030303002_03_000");
 MsgDisp("Honda","There's the Water Garden,
 and the Deep Sea Corner.
 Where are you thinking?");
-MsgSel("Let's go to the aquarium","Water Garden sounds nice","Let's go to the Deep Sea Corner");
+MsgSel("Let's go to the aquarium.","Water Garden sounds nice","Let's go to the Deep Sea Corner");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

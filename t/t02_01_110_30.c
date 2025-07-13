@@ -24,7 +24,7 @@ VoicePlay("T020111000_01_220");
 MsgDisp("Kazama","Thanks to this, I was able to see a little
 bit of my own work, not just my dad's or
 my grandpa's.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChMotion(1,0,1);
 Wait(12,0);
 ChEyeOpenLevel(1,8);

@@ -134,7 +134,7 @@ VoicePlay("R080300000_03_150");
 MsgDisp("Honda","Now it's your turn.
 Show me your roots sometime. I
 want to know every side of you.");
-MsgDisp("主人公","｛本多＊＊｝……");
+MsgDisp("主人公","｛本多＊＊｝......");
 StlEye(3,2);
 StlMouth(3,1);
 VoicePlay("R080300000_03_160");

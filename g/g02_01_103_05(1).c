@@ -11,7 +11,7 @@ VoicePlay("G020110305_01_010");
 MsgDisp("Kazama","I went to England in the first grade of
 elementary school, and when you weren't
 there, every day felt so long.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);

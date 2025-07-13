@@ -65,7 +65,7 @@ StlMouth(22,0);
 VoicePlay("D012200000_22_080");
 MsgDisp("Hikaru","Hikaru is also just a normal girl.
 Just like Mari and everyone else.");
-MsgDisp("主人公","｛ひかる＊｝……");
+MsgDisp("主人公","｛ひかる＊｝......");
 StlEye(22,1);
 StlMouth(22,1);
 VoicePlay("D012200000_22_090");

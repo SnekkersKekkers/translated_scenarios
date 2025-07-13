@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040203302_02_000");
 MsgDisp("Sassa","This place kind of reminds me of a 
 sunken ship.");
-MsgSel("Ah, an oarfish!","There's a shadow in boat window……","I think that sunken ship had treasure");
+MsgSel("Ah, an oarfish!","There's a shadow in boat window......","I think that sunken ship had treasure");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

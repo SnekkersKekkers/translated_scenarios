@@ -2,7 +2,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B020302115_03_000");
-MsgDisp("Honda","…………");
+MsgDisp("Honda","............");
 MsgDisp("主人公","｛本多＊＊｝, where are you looking?");
 ChEye(3,1);
 ChMouth(3,4);

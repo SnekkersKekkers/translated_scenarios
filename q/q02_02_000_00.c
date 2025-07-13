@@ -22,7 +22,7 @@ Good morning!");
     VoicePlay("Q020200000_02_010");
     MsgDisp("Sassa","What's your plan for today?
 Let's spend the free period together.");
-    MsgSel("Sure, let's go！","Sorry, it's just……");
+    MsgSel("Sure, let's go！","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);
@@ -76,7 +76,7 @@ What's wrong?");
     MsgDisp("Sassa","What do you mean 'what's wrong'? Of course
 it's about the free period. Let's go
 together.");
-    MsgSel("Sure, let's go together！","Sorry, it's……");
+    MsgSel("Sure, let's go together！","Sorry, it's......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);

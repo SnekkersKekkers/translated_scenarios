@@ -26,7 +26,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F110710001_07_010");
 MsgDisp("Mikage","I got too carried away,
-so vice principal Himuro gave me 
+so Vice Principal Himuro gave me 
 a real earful......");
 MsgDisp("主人公","Eh∋");
 ChEye(7,2);
@@ -39,7 +39,7 @@ just walk around quietly now.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(That expression...
-Didn't he look really mad?
-...isn't it a little pathetic?)");
+Didn't he look kind of upset?
+...Was he disappointed?)");
 MsgClose();
 ScrFadeOut(0,0);

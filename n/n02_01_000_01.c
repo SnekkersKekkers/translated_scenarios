@@ -34,15 +34,15 @@ I'll have you know I was quite motivated.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("N020100001_01_040");
-    MsgDisp("Kazama","I'm also getting nervous myself.");
+    MsgDisp("Kazama","I'm feeling nervous too.");
     MsgDisp("主人公","Haha, there's no way I can compete with
-you ｛風真＊＊｝.");
+you, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100001_01_050");
-    MsgDisp("Kazama","My gosh. Is this a new strategy where you
+    MsgDisp("Kazama","Geez. Is this a new strategy where you
 intentionally lag behind so that you can
 suddenly jump into first place?");
     MsgDisp("主人公","Eh...?");
@@ -51,8 +51,7 @@ suddenly jump into first place?");
     ChMotion(1,0);
     VoicePlay("N020100001_01_060");
     MsgDisp("Kazama","I'm just joking. That being said, with you
-being at this level, it makes me feel
-beating you is too easy.");
+at this level, beating you is too easy.");
     MsgDisp("主人公","(That's right...
 I'll really have to do better than this.)");
     break ;

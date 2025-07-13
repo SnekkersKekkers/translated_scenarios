@@ -35,7 +35,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("D120B00200_01_010");
 MsgDisp("Kazama","I never promised anything like that——");
-MsgDisp("主人公","…………");
+MsgDisp("主人公","............");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -66,15 +66,15 @@ MsgDisp("主人公","Phew......
 It's nice and cold inside the store!");
 StlMouthOpenLevel(1,0);
 VoicePlay("D120B00200_01_030");
-MsgDisp("Kazama","…………");
+MsgDisp("Kazama","............");
 StlEyeOpenLevel(4,5,1);
 StlMouthOpenLevel(4,0);
 VoicePlay("D120B00200_04_010");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 StlEyeOpenLevel(3,5,1);
 StlMouthOpenLevel(3,0);
 VoicePlay("D120B00200_03_010");
-MsgDisp("Honda","…………");
+MsgDisp("Honda","............");
 MsgDisp("主人公","(Eh?
 Everyone has a scary look on their
 face......∋)");

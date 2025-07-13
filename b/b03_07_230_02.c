@@ -16,7 +16,7 @@ ChMotion(7,0);
 VoicePlay("B030723002_07_000");
 MsgDisp("Mikage","There's a night parade later.
 Wanna take a quick look at it?");
-MsgSel("Yeah, I wanna see","Sorry, it's not a good time…");
+MsgSel("Yeah, I wanna see","Sorry, it's not a good time...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

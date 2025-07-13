@@ -141,20 +141,18 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,5);
 VoicePlay("B330A30500_06_070");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30500_01_050");
-MsgDisp("Kazama","...Then, 
-let's have another game.");
+MsgDisp("Kazama","...Let's have a rematch then.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("B330A30500_02_040");
-MsgDisp("Sassa","Yeah, 
-I'll get serious next time.");
+MsgDisp("Sassa","Yeah, I'll get serious next time.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
@@ -162,8 +160,7 @@ ChCheek(6,0);
 VoicePlay("B330A30500_06_080");
 MsgDisp("Himuro","I accept your challenge.");
 MsgDisp("主人公","(Hmm...?
-This is turning into a 
-huge battle, isn't it?)");
+This is turning into a war, isn't it?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -13,7 +13,7 @@ ChEyeOpenLevel(8,10);
 ChMouthOpenLevel(8,0);
 ChCheek(8,6);
 VoicePlay("G020820300_08_010");
-MsgDisp("Shirahane","…………");
+MsgDisp("Shirahane","............");
 MsgDisp("主人公","......｛大地＊＊｝?
 What's wrong?");
 ChEye(8,4);
@@ -29,7 +29,7 @@ ChEye(8,4);
 ChMouth(8,4);
 ChMouthOpenLevel(8,0);
 VoicePlay("G020820300_08_040");
-MsgDisp("Shirahane","…………");
+MsgDisp("Shirahane","............");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);

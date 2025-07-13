@@ -14,7 +14,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_010");
-MsgDisp("Himuro","It's okay but......Ryouta-senpai——
+MsgDisp("Himuro","It's okay but......Ryota-senpai——
 Ah, nevermind.");
 MsgDisp("主人公","(｛風真＊＊｝?)");
 MsgClose();
@@ -30,7 +30,7 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110601000_06_020");
-MsgDisp("Himuro","Ryouta-senpai is really worried about
+MsgDisp("Himuro","Ryota-senpai is really worried about
 you.");
 MsgDisp("主人公","Eh, is that so?");
 ChEye(6,2);
@@ -53,7 +53,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601000_06_050");
 MsgDisp("Himuro","Well, why don't you do your job properly?
-That way, Ryouta-senpai will feel more at
+That way, Ryota-senpai will feel more at
 ease;");
 ChEye(6,0);
 ChMouth(6,0);
@@ -74,7 +74,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_080");
-MsgDisp("Himuro","Well. But if Ryouta-senpai says it, that
+MsgDisp("Himuro","Well. But if Ryota-senpai says it, that
 must be the case right?");
 ChEye(6,0);
 ChMouth(6,0);

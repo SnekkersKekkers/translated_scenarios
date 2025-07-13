@@ -4,5 +4,5 @@ NSSMouth(6,0);
 NSSEyeOpenLevel(6,0);
 MsgDispHide();
 VoicePlay("AP0406010_06_000");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 MsgClose();

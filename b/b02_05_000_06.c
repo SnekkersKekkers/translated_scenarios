@@ -2,7 +2,7 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("B020500006_05_000");
-MsgDisp("Hiiragi","……");
+MsgDisp("Hiiragi","......");
 MsgDisp("主人公","Umm... Is something wrong?");
 ChEye(5,0);
 ChMouth(5,2);

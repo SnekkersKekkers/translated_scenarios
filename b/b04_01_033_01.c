@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040103301_01_000");
 MsgDisp("Kazama","This atmosphere is a little different,
 just in this place.");
-MsgSel("The jellyfish look like fairy lights","It's like time is moving slower","The darkness makes me a little sleepy…");
+MsgSel("The jellyfish look like fairy lights","It's like time is moving slower","The darkness makes me a little sleepy...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

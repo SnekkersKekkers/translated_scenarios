@@ -26,7 +26,7 @@ SEWait();
 VoicePlay("D010600400_41_010");
 MsgDisp("Male Student B","Haha, no shot-wait
 Look out!");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝ ∈");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝∈");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -86,7 +86,7 @@ StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);
 VoicePlay("D010600400_06_070");
-MsgDisp("Himuro","…………");
+MsgDisp("Himuro","............");
 VoicePlay("D010600400_41_060");
 MsgDisp("Male Student B","......Ugh, sorry.");
 StlEye(6,1);

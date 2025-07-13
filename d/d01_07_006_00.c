@@ -154,7 +154,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700600_07_160");
 MsgDisp("Mikage","Today was awesome, huh?");
-MsgDisp("主人公","……｛御影＊＊｝?");
+MsgDisp("主人公","......｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

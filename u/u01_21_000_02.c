@@ -24,7 +24,7 @@ What's up?");
     MsgDisp("Michiru","Why don't you come to the forest 
 park today? The weather is quite nice. 
 What do you think?");
-    MsgSel("Sure, I'm coming！","I'm busy today…Sorry.");
+    MsgSel("Sure, I'm coming！","I'm busy today...Sorry.");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("U012100002_21_020");

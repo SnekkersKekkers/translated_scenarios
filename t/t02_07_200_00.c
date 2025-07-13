@@ -99,7 +99,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020720000_07_120");
 MsgDisp("Mikage","But I was still trying to stow it
 away......");
-MsgDisp("主人公","｛御影＊＊｝……");
+MsgDisp("主人公","｛御影＊＊｝......");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

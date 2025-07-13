@@ -34,7 +34,7 @@ ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_230");
 MsgDisp("Hikaru","When I talk about love, her 
 reactions are really funny～!");
-MsgDisp("主人公","(…………)");
+MsgDisp("主人公","(............)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

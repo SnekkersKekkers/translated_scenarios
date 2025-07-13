@@ -28,7 +28,7 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410001_04_040");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

@@ -53,7 +53,7 @@ VoicePlay("D010500500_46_000");
 MsgDisp("Theater Member C","Yeah, the chairman is on a
 completely different level......If you're
 not careful, you'll get hurt.");
-MsgDisp("主人公","(…………)");
+MsgDisp("主人公","(............)");
 StlEye(5,1);
 StlMouth(5,0);
 VoicePlay("D010500500_05_010");
@@ -124,7 +124,7 @@ ChMotion(5,0);
 VoicePlay("D010500500_05_080");
 MsgDisp("Hiiragi","No, since the city is supporting us, we
 have to do better. It's our obligation.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,9);

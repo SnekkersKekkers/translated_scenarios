@@ -22,7 +22,7 @@ ChMotion(2,4);
 VoicePlay("G020220000_02_030");
 MsgDisp("Sassa","But, you coming here today, does that mean
 there's a chance for me too?");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

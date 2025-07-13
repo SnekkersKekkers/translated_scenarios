@@ -19,12 +19,10 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("Q260100000_01_020");
-MsgDisp("Kazama","If it's anyone but me, 
-I'm in troubled.
-...... Come on.");
+MsgDisp("Kazama","If it was anyone other than me, that'd be upsetting.
+......Geez.");
 MsgDisp("主人公","(I see......
-Then the feeling I had earlier 
-was also......)");
+Then the person I felt earlier was......)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

@@ -75,7 +75,7 @@ VoicePlay("T020111000_01_060");
 MsgDisp("Kazama","At that moment, I felt like I was being
 scolded by my younger self. Don't just
 give up.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -143,7 +143,7 @@ ChMotion(1,3);
 VoicePlay("T020111000_01_140");
 MsgDisp("Kazama","That's why I'll never give up again.
 I love you so much.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 MsgClear();
 ChClose(1);
 ChCustomLayout(1,5,0,-2.7);

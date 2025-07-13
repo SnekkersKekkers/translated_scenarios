@@ -50,7 +50,7 @@ ChMotion(6,0);
 VoicePlay("G020610301_06_070");
 MsgDisp("Himuro","know it's childish, and I hate myself for
 it, but I don't know what to do..");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

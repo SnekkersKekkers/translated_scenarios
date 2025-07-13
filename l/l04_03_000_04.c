@@ -29,7 +29,7 @@ He seemed happy.)");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("L040300004_03_030");
-    MsgDisp("Honda","…………");
+    MsgDisp("Honda","............");
     MsgDisp("主人公","Um...... do you not like it?");
     ChEye(3,3);
     ChMouth(3,3);

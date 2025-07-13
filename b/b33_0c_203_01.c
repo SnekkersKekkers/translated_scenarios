@@ -84,7 +84,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_050");
 MsgDisp("Hiiragi","I didn't notice I was smiling though.");
-MsgDisp("主人公","｛柊＊＊＊｝……");
+MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

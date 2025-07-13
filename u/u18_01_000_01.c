@@ -20,7 +20,7 @@ something to say, tell me yourself.\"");
     MsgDisp("主人公","It says... \"Tell the Hanatsubaki
 twins to stay out of it. There's only
 room for two people in this relationship");
-    MsgDisp("主人公","……");
+    MsgDisp("主人公","......");
     MsgDisp("主人公","(What did those two ask
 ｛風真＊＊｝ about......?)");
     MsgClose();

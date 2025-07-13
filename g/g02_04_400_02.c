@@ -4,7 +4,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G020440002_04_000");
 MsgDisp("One firefly, two fireflies,
-firefly……");
+firefly......");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -28,7 +28,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020440002_04_040");
-MsgDisp("Nanatsumori","…………");
+MsgDisp("Nanatsumori","............");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);

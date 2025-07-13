@@ -105,7 +105,7 @@ StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("D010400000_04_040");
-MsgDisp("Witch","…………");
+MsgDisp("Witch","............");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400000_04_050");

@@ -24,7 +24,7 @@ VoicePlay("T020201022_02_020");
 MsgDisp("Sassa","Ah, don't apologize.
 I'm the one who's usually sorry.
 So, thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

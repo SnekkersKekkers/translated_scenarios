@@ -3,7 +3,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630000_06_000");
-MsgDisp("Himuro","Ryouta-senpai and Nozumu-senpai are
+MsgDisp("Himuro","Ryota-senpai and Nozumu-senpai are
 popular, aren't they? I often hear girls
 talking about them.");
 ChEye(6,0);
@@ -18,7 +18,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630000_06_020");
-MsgDisp("Himuro","Ryouta-senpai is aware of his popularity, 
+MsgDisp("Himuro","Ryota-senpai is aware of his popularity, 
 but Nozomu-senpai is oblivious to it.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -72,7 +72,7 @@ ChMotion(6,0);
 VoicePlay("G020630000_06_100");
 MsgDisp("Himuro","When that time comes, 
 you'll understand too.");
-MsgDisp("主人公","(｛氷室＊＊｝……?)");
+MsgDisp("主人公","(｛氷室＊＊｝......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

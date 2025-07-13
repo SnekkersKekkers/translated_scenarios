@@ -4,7 +4,7 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106200_01_000");
 MsgDisp("Kazama","Whoa, it's pretty big inside here.");
-MsgSel("The air is cool, and feels good","Is the water deep here?","The water's surface glows like a blue jewel…");
+MsgSel("The air is cool, and feels good","Is the water deep here?","The water's surface glows like a blue jewel...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

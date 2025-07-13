@@ -55,7 +55,7 @@ ChCheek(6,10);
 VoicePlay("G020610400_06_070");
 MsgDisp("Himuro","You're the one who made me so happy that
 she pointed that out to me.");
-MsgDisp("主人公","｛氷室＊＊｝……");
+MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

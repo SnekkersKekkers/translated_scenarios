@@ -102,8 +102,7 @@ What did you expect?");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("P530100001_01_100");
-    MsgDisp("Kazama","He looks like he's carrying it all on his
-own.");
+    MsgDisp("Kazama","Don't act like it's all on your shoulders.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -116,26 +115,25 @@ practicing, aren't they?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100001_01_120");
-    MsgDisp("Kazama","So, Just relax your shoulders okay?");
+    MsgDisp("Kazama","So, just try to relax, okay?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("P530100001_01_130");
-    MsgDisp("Kazama","Well, I prefer your solo concert though.");
-    MsgDisp("主人公","Hehe, Thank you. ｛風真＊＊｝ Thanks to
-this, I think I will be able to play well!");
+    MsgDisp("Kazama","Well, I guess I'd prefer your solo concert though.");
+    MsgDisp("主人公","Hehe, thank you, ｛風真＊＊｝.
+Thanks to you, I think I will be able to play well!");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100001_01_140");
-    MsgDisp("Kazama","I will be watching right here.
-Just go ahead.");
-    MsgDisp("主人公","Yes, I will be off!");
-    MsgDisp("主人公","(Okay.
-Let's do our best!)");
+    MsgDisp("Kazama","I will be right here with you, watching.
+Go on.");
+    MsgDisp("主人公","I'm going!");
+    MsgDisp("主人公","(Okay. Let's try our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

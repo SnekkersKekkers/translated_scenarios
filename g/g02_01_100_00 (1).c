@@ -37,7 +37,7 @@ ChMotion(1,0);
 VoicePlay("G020110000_01_040");
 MsgDisp("Kazama","Not necessarily. Since I was happy just
 seeing you, even if it was a dream.");
-MsgDisp("主人公","｛風真＊＊｝……");
+MsgDisp("主人公","｛風真＊＊｝......");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);

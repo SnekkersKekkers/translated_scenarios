@@ -65,7 +65,7 @@ your good memories.");
     ChMotion(4,0,1);
     ChMouthOpenLevel(4,0);
     VoicePlay("S120400005_04_060");
-    MsgDisp("Nanatsumori","…………");
+    MsgDisp("Nanatsumori","............");
     ChMotion(4,1,1);
     ChMouthOpenLevel(4,#1);
     VoicePlay("S120400005_04_070");

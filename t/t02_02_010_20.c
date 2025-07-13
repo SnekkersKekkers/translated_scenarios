@@ -22,7 +22,7 @@ VoicePlay("T020201020_02_010");
 MsgDisp("Sassa","Oh, don't apologize.
 I'm the one who's usually sorry.
 So, thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝……");
+MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

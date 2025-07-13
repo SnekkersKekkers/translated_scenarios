@@ -26,7 +26,7 @@ VoicePlay("G110101000_01_000");
 MsgDisp("Kazama","Oh yeah. You know the charity auction from
 the other day? Do you remember it?");
 MsgDisp("主人公","Yeah
-｛風真＊＊｝ was hosting in an tuxedo.
+｛風真＊＊｝ was hosting in a suit.
 It was truly amazing.");
 ChEye(1,0);
 ChMouth(1,2);

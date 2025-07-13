@@ -57,7 +57,7 @@ ones.");
     ChMotion(5,4);
     VoicePlay("S090500000_05_050");
     MsgDisp("Hiiragi","Are you a puller or a non-puller?");
-    MsgSel("I'm a puller!","I'm not a puller……");
+    MsgSel("I'm a puller!","I'm not a puller......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,3);

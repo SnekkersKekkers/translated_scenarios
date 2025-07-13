@@ -13,7 +13,7 @@ MsgClose();
 ChOpen(2,255,3,0,4,#1,#1,0,1,0,30);
 ChOpen(1,255,0,2,1,0,#1,0,2,0,30);
 VoicePlay("E010220000_02_010");
-MsgDisp("Sassa","Just like Ryouta said, you're here!");
+MsgDisp("Sassa","Just like Ryota said, you're here!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010220000_01_000");

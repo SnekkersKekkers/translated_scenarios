@@ -9,7 +9,7 @@ VoicePlay("A020D00000_22_000");
 MsgDisp("Hikaru?","Ah...!
 The girl with Kazama-kun
 yesterday!");
-MsgDisp("主人公","(……?)");
+MsgDisp("主人公","(......?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
