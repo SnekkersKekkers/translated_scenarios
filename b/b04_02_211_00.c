@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040221100_02_000");
 MsgDisp("Sassa","When it comes to animals, I'll 
 never get tired of looking at them!");
-MsgSel("Let's see them more up close!","Let's take a picture with the animals!","Does｛颯砂＊＊｝ have anywhere he wants to go?");
+MsgSel("Let's see them more up close!","Let's take a picture with the animals!","Does ｛颯砂＊＊｝ have anywhere he wants to go?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

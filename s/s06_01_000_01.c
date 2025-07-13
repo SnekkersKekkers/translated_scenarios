@@ -26,7 +26,7 @@ I think ｛風真＊＊｝ likes it.)");
     VoicePlay("S060100001_01_020");
     MsgDisp("Kazama","......Yeah.
 I came back just in time to see you in
-your best clothes.");
+a kimono.");
     MsgDisp("主人公","You really mean it? I'm so happy.");
     ChEye(1,0);
     ChMouth(1,3);

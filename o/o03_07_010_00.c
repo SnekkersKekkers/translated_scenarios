@@ -12,8 +12,7 @@ three-legged race......)");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("O030701000_07_000");
-    MsgDisp("Mikage","｛主人公｝,
-what's wrong?
+    MsgDisp("Mikage","｛主人公｝, what's wrong?
 Are you alone?");
     MsgDisp("主人公","Yes.
 I haven't found a partner yet......");

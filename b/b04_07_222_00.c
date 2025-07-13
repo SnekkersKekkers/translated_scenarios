@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040722200_07_000");
 MsgDisp("Mikage","This is a safe bet for a
 class field trip right?");
-MsgSel("Ah, looks like there's a new exhibition!","It's not typical of｛御影＊＊｝","I would prefer a more fun place...");
+MsgSel("Ah, looks like there's a new exhibition!","It's not typical of ｛御影＊＊｝","I would prefer a more fun place...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

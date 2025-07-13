@@ -30,7 +30,7 @@ worrying this year, too?)");
     ChMotion(1,0);
     ScrFadeIn(0);
     VoicePlay("S070100000_01_020");
-    MsgDisp("Kazama","Should we write Ema since we're
+    MsgDisp("Kazama","Should we carve tablets since we're
 visiting the shrine?");
     MsgDisp("主人公","Yeah, that sounds good.");
     ChEye(1,0);
