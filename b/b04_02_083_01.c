@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040208301_02_000");
-MsgDisp("Sassa","In the daytime,
-what are the fireflies doing?");
+MsgDisp("Sassa","In the daytime, what are the fireflies
+doing?");
 MsgSel("Maybe in the water?","Maybe they're taking a break somewhere","Maybe they're on a trip somewhere?");
 switch (MsgSelRsltGet()){
     case 0:

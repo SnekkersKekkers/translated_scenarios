@@ -31,7 +31,8 @@ You've got great shoulders!");
     MsgDisp("Sassa","It's our win!
 You have great form.
 You got a lot in.");
-    MsgDisp("主人公","(We did it!　I'm happy we won!)");
+    MsgDisp("主人公","(We did it!
+I'm happy we won!)");
     break ;
     default :
     DbgAssert(1);

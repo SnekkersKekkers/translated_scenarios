@@ -35,8 +35,8 @@ What was so bad about it?");
     ChMouth(4,0);
     VoicePlay("B040404400_04_020");
     MsgDisp("Nanatsumori","Today's band was a dud?
-Or is it that you never had an interest
-in the event in the first place?");
+Or is it that you never had an interest in
+the event in the first place?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

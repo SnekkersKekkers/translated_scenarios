@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("B040817002_08_010");
-    MsgDisp("Shirahane","I don't hate it,
-I don't like it.
+    MsgDisp("Shirahane","I don't hate it, I don't like it.
 ...Ah, is it all the same?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -60,10 +59,9 @@ consideration. Seriously, thanks a bunch.");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("B040817002_08_050");
-        MsgDisp("Shirahane","Why... yeah.
-I don't even know why myself, 
+        MsgDisp("Shirahane","Why... yeah. I don't even know why myself,
 but I've never been good at singing.");
-        MsgDisp("主人公","Could it be... 
+        MsgDisp("主人公","Could it be...
 that you're tone deaf?");
         ChEye(8,2);
         ChMouth(8,0);
@@ -91,8 +89,8 @@ willin' to sing in front of others.");
         ChMotion(8,4,1);
         ChCheek(8,8);
         VoicePlay("B040817002_08_090");
-        MsgDisp("Shirahane","I don't want to pretend
-that you're not here.
+        MsgDisp("Shirahane","I don't want to pretend that you're not
+here.
 I absolutely can't do that...");
         MsgDisp("主人公","(｛大地＊＊｝....)");
         break ;

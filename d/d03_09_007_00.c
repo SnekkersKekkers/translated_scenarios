@@ -31,15 +31,15 @@ VoicePlay("D030900700_35_020");
 MsgDisp("Guy","Good job!
 Come to my office once you finish giving
 out those flyers～♪");
-MsgDisp("主人公","(That guy with the flashy sunglasses,
-is that......)");
+MsgDisp("主人公","(That guy with the flashy sunglasses, is
+that......)");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,1,1);
 VoicePlay("D030900700_09_020");
 MsgDisp("Kuya","Your office?
-No, I'm going home after I finish
-handing these out.");
+No, I'm going home after I finish handing
+these out.");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("D030900700_35_030");
@@ -77,8 +77,7 @@ ChMouth(9,4);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900700_09_050");
-MsgDisp("Kuya","Eh?
-But I haven't finished giving them out
+MsgDisp("Kuya","Eh? But I haven't finished giving them out
 yet——");
 ChEye(9,5);
 ChMouth(9,2);
@@ -127,8 +126,8 @@ ChEye(9,2);
 ChMouth(9,4);
 ChMotion(9,4,1);
 MsgDisp("Kuya","How so?");
-MsgDisp("主人公","Why would local idols be traveling
-around the world?");
+MsgDisp("主人公","Why would local idols be traveling around
+the world?");
 VoicePlay("D030900700_09_100");
 ChEye(9,3);
 ChMouth(9,1);
@@ -136,18 +135,16 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 MsgDisp("Kuya","......Huh?
 That is kind of weird, yeah.");
-MsgDisp("主人公","Geez......
-That guy is famous around here. He's
-known to be a shady talent scout.");
+MsgDisp("主人公","Geez...... That guy is famous around here.
+He's known to be a shady talent scout.");
 VoicePlay("D030900700_09_110");
 ChEye(9,2);
 ChMouth(9,2);
 ChMotion(9,1,1);
 MsgDisp("Kuya","Really?
 I had no idea......");
-MsgDisp("主人公","Geez.
-It's good to be kind to people but you
-need to get to know them first, okay?");
+MsgDisp("主人公","Geez. It's good to be kind to people but
+you need to get to know them first, okay?");
 VoicePlay("D030900700_09_120");
 ChEye(9,2);
 ChMouth(9,2);
@@ -167,11 +164,9 @@ VoicePlay("D030900700_09_140");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
-MsgDisp("Kuya","Yeah.
-The picture on this flyer looks weird,
-right?");
-MsgDisp("主人公","Hehe!
-Those of us who understand \"art\" can
+MsgDisp("Kuya","Yeah. The picture on this flyer looks
+weird, right?");
+MsgDisp("主人公","Hehe! Those of us who understand \"art\" can
 draw something better, right?");
 VoicePlay("D030900700_09_150");
 ChEye(9,3);

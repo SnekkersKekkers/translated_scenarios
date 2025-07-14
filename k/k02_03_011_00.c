@@ -18,9 +18,8 @@ ChMotion(3,1);
 SEPlay("EV_SE_665");
 SEWait();
 VoicePlay("K020301100_03_010");
-MsgDisp("Honda","Then...... here!
-It's your birthday today, right?
-So here's your present.");
+MsgDisp("Honda","Then...... here! It's your birthday today,
+right? So here's your present.");
 MsgDisp("主人公","Oh!?　You remembered?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -33,9 +32,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("K020301100_03_030");
-MsgDisp("Honda","In the end, I came with you all the 
-way back to your place, without finding 
-the right timing.");
+MsgDisp("Honda","In the end, I came with you all the way
+back to your place, without finding the
+right timing.");
 MsgDisp("主人公","Thank you for being so considerate
 of me.");
 ChEye(3,3);
@@ -48,8 +47,8 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("K020301100_03_050");
-MsgDisp("Honda","Ah, but I'm forgetting something even
-more important than presents!");
+MsgDisp("Honda","Ah, but I'm forgetting something even more
+important than presents!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

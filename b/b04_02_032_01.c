@@ -6,7 +6,7 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040203201_02_000");
-MsgDisp("Sassa","Such a huge outdoor aquarium seems 
+MsgDisp("Sassa","Such a huge outdoor aquarium seems
 difficult to manage.");
 MsgSel("Yeah, when it rains......","What about snowy days?","Does lightning strike the water?");
 switch (MsgSelRsltGet()){
@@ -39,10 +39,10 @@ though!");
     ChMouth(2,2);
     ChMotion(2,5);
     VoicePlay("B040203201_02_030");
-    MsgDisp("Sassa","Eh, don't say such scary things......
-I guess it's true that water does
-conduct electricity. It's dangerous,
-let's go inside.");
+    MsgDisp("Sassa","Eh, don't say such scary things...... I
+guess it's true that water does conduct
+electricity. It's dangerous, let's go
+inside.");
     MsgDateResultDisp();
     break ;
     default :

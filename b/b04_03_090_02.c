@@ -6,8 +6,8 @@ ChMotion(3,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040309002_03_000");
-MsgDisp("Honda","Did you know about how if you
-talk to plants, they'll grow quicker?");
+MsgDisp("Honda","Did you know about how if you talk to
+plants, they'll grow quicker?");
 MsgSel("If you talk to them gently, they'll grow up strong huh?","There's no way they understand words though?","It's good to make them listen to music to, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +32,8 @@ I'll try that next time.");
         DateRateSet(0);
         ChSet(3,2);
         VoicePlay("B040309002_03_020");
-        MsgDisp("Honda","It's not the words, but
-the feelings that'll be conveyed?");
+        MsgDisp("Honda","It's not the words, but the feelings
+that'll be conveyed?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -52,8 +52,8 @@ if that were true.");
         ChMotion(3,4);
         VoicePlay("B040309002_03_040");
         MsgDisp("Honda","Will the big tree become a sacred tree?
-Will everyone's hopes help 
-it grow into a giant tree?");
+Will everyone's hopes help it grow into a
+giant tree?");
         MsgDisp("主人公","It's super interesting huh!");
         ChEye(3,0);
         ChMouth(3,3);

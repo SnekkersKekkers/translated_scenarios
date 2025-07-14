@@ -11,7 +11,8 @@ StlOpen("ev_01_25");
 ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040111000_01_000");
-MsgDisp("Kazama","We'll never be apart again. You're mine.");
+MsgDisp("Kazama","We'll never be apart again.
+You're mine.");
 MsgClose();
 ScrFadeOut(0,0,300);
 StlClose();

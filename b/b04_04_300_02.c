@@ -8,8 +8,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("B040430002_04_000");
-MsgDisp("Nanatsumori","Ah... so you're over there.
-This is a nice angle.");
+MsgDisp("Nanatsumori","Ah... so you're over there. This is a nice
+angle.");
 MsgSel("Is it okay for me to be here?","What are you imagining?","Then, let's move!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,10 +18,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040430002_04_010");
-    MsgDisp("Nanatsumori","Yeah.
-You fit perfectly into the empty 
-space that felt lonely 
-when I was by myself.");
+    MsgDisp("Nanatsumori","Yeah. You fit perfectly into the empty
+space that felt lonely when I was by
+myself.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -71,21 +70,20 @@ Well, don't worry about it.");
         MsgDisp("Nanatsumori","It's nice.
 The fact that you're here feels nice.");
         MsgDisp("主人公","I see.
-Hey, you say that it \"feels nice\"
-But what feeling is that?");
+Hey, you say that it \"feels nice\" But what
+feeling is that?");
         ChMotion(4,2,1);
         VoicePlay("B040430002_04_060");
-        MsgDisp("Nanatsumori","Like living together 
-with my girlfriend——");
+        MsgDisp("Nanatsumori","Like living together with my
+girlfriend——");
         MsgDisp("主人公","Eh?");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,0,1);
         ChCheek(4,8);
         VoicePlay("B040430002_04_070");
-        MsgDisp("Nanatsumori","...No!
-Please wait a second.
-I was too direct just now.");
+        MsgDisp("Nanatsumori","...No! Please wait a second. I was too
+direct just now.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,1,1);
@@ -93,8 +91,8 @@ I was too direct just now.");
         VoicePlay("B040430002_04_080");
         MsgDisp("Nanatsumori","Sorry.
 Please don't be on guard.");
-        MsgDisp("主人公","Yeah.
-Because I believe in ｛七ツ森＊｝.");
+        MsgDisp("主人公","Yeah. Because I believe in
+｛七ツ森＊｝.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -104,9 +102,8 @@ Because I believe in ｛七ツ森＊｝.");
         ChMouth(4,0);
         VoiceEVSPlay(4);
         VoicePlay("B040430002_04_100");
-        MsgDisp("Nanatsumori","｛主人公｝.
-Now... please listen to what
-I really mean.");
+        MsgDisp("Nanatsumori","｛主人公｝. Now... please listen to
+what I really mean.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,1,1);
         VoicePlay("B040430002_04_110");
@@ -116,23 +113,22 @@ things that are important to me.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040430002_04_120");
-        MsgDisp("Nanatsumori","Amongst it all, there's been 
-another important thing added.
-It might just be the most important
-thing of all");
+        MsgDisp("Nanatsumori","Amongst it all, there's been another
+important thing added. It might just be
+the most important thing of all");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0);
         VoicePlay("B040430002_04_130");
-        MsgDisp("Nanatsumori","That's why I think, \"I want to continue
-to cherish it forever.\"");
+        MsgDisp("Nanatsumori","That's why I think, \"I want to continue to
+cherish it forever.\"");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
         ChCheek(4,8);
         VoicePlay("B040430002_04_140");
-        MsgDisp("Nanatsumori","...I would be happy if you 
-could understand this feeling.");
+        MsgDisp("Nanatsumori","...I would be happy if you could
+understand this feeling.");
         MsgDisp("主人公","(｛七ツ森＊｝...)");
         break ;
         default :

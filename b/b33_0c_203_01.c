@@ -12,8 +12,8 @@ ChMouth(7,0);
 ChMotion(7,4,1);
 ScrFadeIn(0);
 VoicePlay("B330C20301_06_000");
-MsgDisp("Himuro","Yanosuke-senpai,
-did something good happen?");
+MsgDisp("Himuro","Yanosuke-senpai, did something good
+happen?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -23,9 +23,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20301_06_010");
-MsgDisp("Himuro","As we were walking in the boulevard, 
-you were smiling from time to time, 
-weren't you?");
+MsgDisp("Himuro","As we were walking in the boulevard, you
+were smiling from time to time, weren't
+you?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -36,11 +36,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20301_07_000");
-MsgDisp("Mikage","Come to think of it, 
-you were glancing at the shop
-windows weren't you?");
-MsgDisp("主人公","｛柊＊＊＊｝,
-is there something you wanted to buy? ");
+MsgDisp("Mikage","Come to think of it, you were glancing at
+the shop windows weren't you?");
+MsgDisp("主人公","｛柊＊＊＊｝, is there something you
+wanted to buy?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -62,9 +61,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("B330C20301_05_030");
-MsgDisp("Hiiragi","No.
-I was looking at my own figure 
-walking alongside you all.");
+MsgDisp("Hiiragi","No. I was looking at my own figure walking
+alongside you all.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -75,10 +73,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_040");
-MsgDisp("Hiiragi","Until I entered Haba High, 
-I had never gone out like this before, 
-I was looking at myself,
-together with everyone.");
+MsgDisp("Hiiragi","Until I entered Haba High, I had never
+gone out like this before, I was looking
+at myself, together with everyone.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -96,7 +93,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20301_07_010");
-MsgDisp("Mikage","Why's that? That's good isn't it.
+MsgDisp("Mikage","Why's that?
+That's good isn't it.
 I'll also do the same from now on.");
 ChEye(5,0);
 ChMouth(5,2);
@@ -107,24 +105,23 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20301_06_040");
-MsgDisp("Himuro","I'm the same as Yanosuke-senpai.
-These kinds of experiences have been 
-practically non-existent to me.
-And... there's you.");
+MsgDisp("Himuro","I'm the same as Yanosuke-senpai. These
+kinds of experiences have been practically
+non-existent to me. And... there's you.");
 MsgDisp("主人公","Eh...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20301_05_080");
-MsgDisp("Hiiragi","Yes. It feels even more 
-special with you here.");
+MsgDisp("Hiiragi","Yes. It feels even more special with you
+here.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20301_07_020");
-MsgDisp("Mikage","Inori, thanks for deciding on this 
-place today. Let's come and look at the
-shop windows with everyone again okay?");
+MsgDisp("Mikage","Inori, thanks for deciding on this place
+today. Let's come and look at the shop
+windows with everyone again okay?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
@@ -135,8 +132,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_090");
 MsgDisp("Hiiragi","I look forward to it.");
-MsgDisp("主人公","(When we're altogether, 
-wherever we go becomes special...
+MsgDisp("主人公","(When we're altogether, wherever we go
+becomes special...
 hehe, how mysterious.)");
 BGMStop();
 MsgClose();

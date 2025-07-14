@@ -12,8 +12,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B080100000_01_000");
-MsgDisp("Kazama","Don't worry about it now.
-See you later. Goodnight.");
+MsgDisp("Kazama","Don't worry about it now. See you later.
+Goodnight.");
 MsgDispSksp(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

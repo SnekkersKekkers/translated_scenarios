@@ -71,9 +71,8 @@ I need to focus a bit more.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608202_06_070");
-        MsgDisp("Himuro","No, I don't want to show 
-the shameful parts of myself.
-Especially... not to you.");
+        MsgDisp("Himuro","No, I don't want to show the shameful
+parts of myself. Especially... not to you.");
         MsgDisp("主人公","(Actually, I would like to see it...)");
         break ;
         default :
@@ -87,10 +86,10 @@ Especially... not to you.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040608202_06_080");
-    MsgDisp("Himuro","That's not a bad suggestion.
-I've heard that a decent afternoon 
-nap boosts efficiency.
-How about we lie down on the grass?");
+    MsgDisp("Himuro","That's not a bad suggestion. I've heard
+that a decent afternoon nap boosts
+efficiency. How about we lie down on the
+grass?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

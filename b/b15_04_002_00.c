@@ -11,8 +11,8 @@ MsgDisp("主人公","∈");
 ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B150400200_04_010");
-MsgDisp("Nanatsumori","Even I'm trying really hard 
-too. Understand?");
+MsgDisp("Nanatsumori","Even I'm trying really hard too.
+Understand?");
 MsgDisp("主人公","Ummm...");
 ChEye(4,2);
 ChMouth(4,4);
@@ -33,14 +33,14 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B150400200_04_040");
 MsgDisp("Nanatsumori","Girls are sneaky.
-With just one, \"sorry\" they
-can control a girl's heart.");
+With just one, \"sorry\" they can control a
+girl's heart.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B150400200_04_050");
-MsgDisp("Nanatsumori","But... even I don't dislike it.
-If I could, I would also——");
+MsgDisp("Nanatsumori","But... even I don't dislike it. If I
+could, I would also——");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

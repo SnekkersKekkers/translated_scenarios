@@ -13,5 +13,5 @@ MsgDisp("Kazama","I realized it's not even just about
 matching your clothes, it matches your
 whole self too.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have started
-to love clothes like these, too!)");
+｛風真＊＊｝ seems to have started to love
+clothes like these, too!)");

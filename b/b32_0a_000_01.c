@@ -12,8 +12,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B320A00001_06_000");
-MsgDisp("Himuro","Normally, the response is
-\"I wasn't waiting long\" right?");
+MsgDisp("Himuro","Normally, the response is \"I wasn't
+waiting long\" right?");
 ChMouth(1,0);
 MsgDisp("主人公","Hehe.
 Thank you for your consideration.");

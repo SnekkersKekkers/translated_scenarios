@@ -27,8 +27,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("P740D00001_22_010");
-MsgDisp("Hikaru","Next time we can teach you 
-our runway trick. Okay?");
+MsgDisp("Hikaru","Next time we can teach you our runway
+trick. Okay?");
 MsgDisp("主人公","(Haa... that was a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);

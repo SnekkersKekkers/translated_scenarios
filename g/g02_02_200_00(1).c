@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("G020220000_02_000");
-MsgDisp("Sassa","I have a bit of a question for you,
-is it okay?");
+MsgDisp("Sassa","I have a bit of a question for you, is it
+okay?");
 MsgDisp("主人公","Yeah, go ahead.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -33,8 +33,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220000_02_050");
-MsgDisp("Sassa","Well, I'm normally the type to go on 
-and run ahead though.");
+MsgDisp("Sassa","Well, I'm normally the type to go on and
+run ahead though.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -54,8 +54,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("G020220000_02_080");
 MsgDisp("Sassa","Yeah, you're right.
-Then, I'll chase after you with
-just the right amount of effort");
+Then, I'll chase after you with just the
+right amount of effort");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
@@ -63,8 +63,8 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020220000_02_090");
 MsgDisp("Sassa","Finding that right amount is tricky
 though......");
-MsgDisp("主人公","(｛颯砂＊＊｝ today
-seems a bit different than normal......?)");
+MsgDisp("主人公","(｛颯砂＊＊｝ today seems a bit different
+than normal......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

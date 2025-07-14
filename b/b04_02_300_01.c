@@ -6,7 +6,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040230001_02_000");
 MsgDisp("Sassa","It's quite barren huh?");
-MsgSel("There's a lot of trophies huh?","I want to see｛颯砂＊＊｝'s albums.","There's a lot of green huh?");
+MsgSel("There's a lot of trophies huh?","I want to see ｛颯砂＊＊｝'s albums.","There's a lot of green huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -14,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040230001_02_010");
-    MsgDisp("Sassa","This isn't really my taste
-I only display trophies from 
-competitions I'm interested in.");
+    MsgDisp("Sassa","This isn't really my taste I only display
+trophies from competitions I'm interested
+in.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -44,8 +44,8 @@ Well, I'm the biggest one there though.");
     ChMotion(2,0);
     VoicePlay("B040230001_02_030");
     MsgDisp("Sassa","Yeah, I like green.
-Whenever I'm buying something, 
-I end up choosing it in green.");
+Whenever I'm buying something, I end up
+choosing it in green.");
     MsgDateResultDisp();
     break ;
     default :

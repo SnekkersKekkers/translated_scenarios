@@ -41,7 +41,8 @@ get off.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030123000_01_030");
-    MsgDisp("Kazama","I agree. Alright, let's go!");
+    MsgDisp("Kazama","I agree.
+Alright, let's go!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -79,8 +80,8 @@ get off.");
     ChEyeOpenLevel(1,8);
     ScrFadeIn(0);
     VoicePlay("B030123000_01_060");
-    MsgDisp("Kazama","If you want to turn back,
-now's your chance.");
+    MsgDisp("Kazama","If you want to turn back, now's your
+chance.");
     break ;
     case 3:
     MsgDispSksp(1,0);

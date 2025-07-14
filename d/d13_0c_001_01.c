@@ -17,8 +17,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D130C00101_05_010");
-MsgDisp("Hiiragi","It's our last Christmas party, so I
-wanted to spend some time with everyone.");
+MsgDisp("Hiiragi","It's our last Christmas party, so I wanted
+to spend some time with everyone.");
 MsgDisp("主人公","Everyone?");
 ChClose(5,0,30);
 ChLayout(2);
@@ -29,8 +29,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(6,34,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,34,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("D130C00101_06_000");
-MsgDisp("Himuro","When he says \"everyone\" I think he
-means us.");
+MsgDisp("Himuro","When he says \"everyone\" I think he means
+us.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -50,8 +50,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D130C00101_06_010");
-MsgDisp("Himuro","You need to think of the people you'll
-be leaving behind.");
+MsgDisp("Himuro","You need to think of the people you'll be
+leaving behind.");
 ChEye(5,0);
 ChMouth(5,2);
 MsgDisp("主人公","Eh?");
@@ -59,8 +59,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D130C00101_07_010");
-MsgDisp("Mikage","That's right. Being left behind is
-painful.");
+MsgDisp("Mikage","That's right.
+Being left behind is painful.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -70,8 +70,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D130C00101_07_020");
-MsgDisp("Mikage","Maybe I should abuse my authority and
-make you two repeat a year?");
+MsgDisp("Mikage","Maybe I should abuse my authority and make
+you two repeat a year?");
 ChEye(5,2);
 ChMouth(5,2);
 ChEye(6,0);
@@ -137,9 +137,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("D130C00101_07_060");
-MsgDisp("Mikage","Alright, next year we'll change the
-venue and have a Christmas-themed
-barbecue, okay?");
+MsgDisp("Mikage","Alright, next year we'll change the venue
+and have a Christmas-themed barbecue,
+okay?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

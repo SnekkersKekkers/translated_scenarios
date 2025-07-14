@@ -7,8 +7,8 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406100_04_000");
-MsgDisp("Nanatsumori","Ahー... it's hot.
-So, what do you plan on doing here?");
+MsgDisp("Nanatsumori","Ahー... it's hot. So, what do you plan on
+doing here?");
 MsgSel("Shall we race out to the sea?","Let's eat at the beach hut first!","Let's look for pretty seashells");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,8 +38,8 @@ Let's go eat some unique yakisoba!");
     ChMotion(4,0,1);
     VoicePlay("B040406100_04_030");
     MsgDisp("Nanatsumori","Well, that's fine.
-Was there a need to change
-into our swim suits then?");
+Was there a need to change into our swim
+suits then?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

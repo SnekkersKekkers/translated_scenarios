@@ -26,8 +26,8 @@ Can you suggest a meeting place?");
         ChMotion(5,0);
         VoicePlay("J060500000_05_010");
         MsgDisp("Hiiragi","Yes, ma'am.
-To be able to accept the invitation,
-It is such a pleasure.");
+To be able to accept the invitation, It is
+such a pleasure.");
         ChMouth(5,3);
         VoicePlay("J060500000_05_020");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
@@ -35,8 +35,9 @@ It is such a pleasure.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(5);
-        MsgDisp("主人公","(｛柊＊＊＊｝ invited me to go out with him
-...... Is this a date?)");
+        MsgDisp("主人公","(｛柊＊＊＊｝ invited me to go out with
+him ......
+Is this a date?)");
         break ;
         default :
         DbgAssert(1);
@@ -57,7 +58,8 @@ It is such a pleasure.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("J060500000_05_030");
-        MsgDisp("Hiiragi","I see. I understand.");
+        MsgDisp("Hiiragi","I see.
+I understand.");
         MsgDisp("主人公","I'm sorry about that .......
 I'm just ......");
         ChEye(5,4);

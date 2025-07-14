@@ -6,8 +6,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010600000_06_000");
 MsgDisp("Himuro","Yes.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝?
-It's me, but......");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝? It's me, but......");
 VoicePlay("C010600000_06_010");
 MsgDisp("Himuro","......What? If you have business with me,
 keep it short.");
@@ -24,7 +23,7 @@ VoicePlay("C010600000_06_030");
 MsgDisp("Himuro","From now on, tell me these things
 beforehand. If you don't,
 misunderstandings will happen.");
-MsgDisp("主人公","Mm, I'll be careful. 
+MsgDisp("主人公","Mm, I'll be careful.
 Really sorry?");
 VoicePlay("C010600000_06_040");
 MsgDisp("Himuro","You've apologized enough now.

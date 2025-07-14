@@ -17,8 +17,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360602301_06_010");
-MsgDisp("Himuro","It's a good thing you didn't go home
-just yet, huh?");
+MsgDisp("Himuro","It's a good thing you didn't go home just
+yet, huh?");
 MsgDisp("主人公","Hehe, you're right.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -31,14 +31,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B360602301_06_030");
-MsgDisp("Himuro","Playing with everyone isn't as bad
-as I thought it would be......");
+MsgDisp("Himuro","Playing with everyone isn't as bad as I
+thought it would be......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360602301_06_040");
-MsgDisp("Himuro","I'm frustrated I can't talk to you
-for long.");
+MsgDisp("Himuro","I'm frustrated I can't talk to you for
+long.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -65,8 +65,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360602301_06_080");
-MsgDisp("Himuro","So for just a bit more...... can we stay
-like this until the sun goes down?");
+MsgDisp("Himuro","So for just a bit more......
+can we stay like this until the sun goes
+down?");
 MsgDisp("主人公","Yes, of course.");
 ChEye(6,0);
 ChMouth(6,4);

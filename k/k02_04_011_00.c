@@ -47,9 +47,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("K020401100_04_060");
-MsgDisp("Nanatsumori","Thanks to that, my heart's
-been pounding even more than it
-usually does......");
+MsgDisp("Nanatsumori","Thanks to that, my heart's been pounding
+even more than it usually does......");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);
 ChMouth(4,3);

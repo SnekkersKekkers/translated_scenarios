@@ -22,9 +22,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B10100_03_000");
-MsgDisp("Honda","what kind of course would
-the four of us enjoy at 
-the shopping mall?");
+MsgDisp("Honda","what kind of course would the four of us
+enjoy at the shopping mall?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -55,9 +54,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("B330B10100_01_020");
-MsgDisp("Kazama","Alright.
-Alright, let's start with 
-that shop and go in order.");
+MsgDisp("Kazama","Alright. Alright, let's start with that
+shop and go in order.");
 MsgDisp("主人公","Eh, wait everyone!");
 ChEye(1,0);
 ChMouth(1,2);
@@ -72,8 +70,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10100_03_020");
-MsgDisp("Honda","You're going to try on 
-our coordinated outfits.
+MsgDisp("Honda","You're going to try on our coordinated
+outfits.
 Seems fun, huh♪");
 ChEye(1,0);
 ChMouth(1,3);
@@ -92,7 +90,7 @@ SEPlay("EV_SE_544");
 ChOpen(1,255,3,0,3,#1,#1,0,0,0,30);
 VoicePlay("B330B10100_01_030");
 MsgDisp("Kazama","There's something good already.
-Try this  bucket hat on.");
+Try this bucket hat on.");
 ChMotion(1,0);
 ChEye(4,3);
 ChMouth(4,3);
@@ -104,9 +102,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B10100_03_030");
-MsgDisp("Honda","Then... 
-I think this t-shirt will suit you.
-Hey hey, try them all on and show us!");
+MsgDisp("Honda","Then... I think this t-shirt will suit
+you. Hey hey, try them all on and show us!");
 MsgDisp("主人公","(I'm happy they chose something for me
 but... Do they plan on making me try on
 clothes at every shop∋)");

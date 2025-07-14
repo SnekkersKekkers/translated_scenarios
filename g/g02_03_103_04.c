@@ -5,8 +5,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("G020310304_03_000");
 MsgDisp("Honda","If only there was just one way to approach
-things like fireflies,
-I wouldn't have to overthink itー");
+things like fireflies, I wouldn't have to
+overthink itー");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,4);
@@ -21,8 +21,8 @@ ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020310304_03_020");
 MsgDisp("Honda","Ah, no, no!
-But there's no one who complains about 
-a present when they receive it right?");
+But there's no one who complains about a
+present when they receive it right?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -39,22 +39,21 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020310304_03_050");
-MsgDisp("Honda","But strangely,
-the confidence I had just vanished the 
-moment I saw your face.");
+MsgDisp("Honda","But strangely, the confidence I had just
+vanished the moment I saw your face.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310304_03_060");
-MsgDisp("Honda","Was it really okay? Was it the best
-choice?");
+MsgDisp("Honda","Was it really okay?
+Was it the best choice?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310304_03_070");
-MsgDisp("Honda","So, can I just ask you directly? Did you
-like it?");
+MsgDisp("Honda","So, can I just ask you directly?
+Did you like it?");
 MsgDisp("主人公","Yeah, of course.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -74,8 +73,8 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020310304_03_100");
-MsgDisp("Honda","......but if I tell you now, 
-it won't be much of a surprise, right?");
+MsgDisp("Honda","......but if I tell you now, it won't be
+much of a surprise, right?");
 MsgDisp("主人公","(｛本多＊＊｝, you've been thinking about
 me like this......)");
 BGMStop();

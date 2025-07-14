@@ -2,8 +2,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("B020602129_06_000");
-MsgDisp("Himuro","That outfit just made me have
-a profound realization.");
+MsgDisp("Himuro","That outfit just made me have a profound
+realization.");
 MsgDisp("主人公","What's up with that, so suddenly?");
 ChEye(6,0);
 ChMouth(6,0);

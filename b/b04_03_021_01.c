@@ -5,8 +5,9 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040302101_03_000");
-MsgDisp("Honda","Are they hand-built bricks? Each one looks
-a little bit different from the other.");
+MsgDisp("Honda","Are they hand-built bricks?
+Each one looks a little bit different from
+the other.");
 MsgSel("Really? I hadn't noticed.","They look the same to me?","It's not good to walk on them by stepping on them.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040302101_03_010");
-    MsgDisp("Honda","Right, neither. 
+    MsgDisp("Honda","Right, neither.
 I'm glad I came here today!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

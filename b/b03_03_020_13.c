@@ -48,8 +48,8 @@ Just looking at that statue is fun.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B030302002_03_020");
-    MsgDisp("Honda","It's exciting from the moment you
-step up the ramp, isn't it?");
+    MsgDisp("Honda","It's exciting from the moment you step up
+the ramp, isn't it?");
     MsgDispSksp(0);
     break ;
     default :

@@ -43,27 +43,27 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,7);
 VoicePlay("G110101103_01_030");
-MsgDisp("Kazama","I'm happy about that, though
-It's tough to know what to say.");
+MsgDisp("Kazama","I'm happy about that, though It's tough to
+know what to say.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,#1);
 VoicePlay("G110101103_01_040");
-MsgDisp("Kazama","As for me, I think it's bette
-r to prioritize our current customers.");
-MsgDisp("主人公","｛風真＊＊｝ is amazing huh...... you think
-about the customers in so many different
-ways.");
+MsgDisp("Kazama","As for me, I think it's bette r to
+prioritize our current customers.");
+MsgDisp("主人公","｛風真＊＊｝ is amazing huh......
+you think about the customers in so many
+different ways.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,7);
 VoicePlay("G110101103_01_050");
-MsgDisp("Kazama","If it were my own store,
-I wouldn't have to worry about anything.");
+MsgDisp("Kazama","If it were my own store, I wouldn't have
+to worry about anything.");
 MsgDisp("主人公","｛風真＊＊｝'s shop'......
 I'm sure it'll be wonderful.");
 ChEyeOpenLevel(1,0);

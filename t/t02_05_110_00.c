@@ -137,8 +137,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("T020511000_05_140");
-MsgDisp("Hiiragi","When I go to school,
-I see your smile.
+MsgDisp("Hiiragi","When I go to school, I see your smile.
 And how much it has helped me......");
 MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEyeOpenLevel(5,0);
@@ -167,9 +166,9 @@ ChEye(5,4);
 ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_180");
-MsgDisp("Hiiragi","If you're smiling......
-If the one I love; you, are smiling,
-then nothing is wrong. It's alright.");
+MsgDisp("Hiiragi","If you're smiling...... If the one I love;
+you, are smiling, then nothing is wrong.
+It's alright.");
 MsgDisp("主人公","......!");
 Wait(60,0);
 ChEyeOpenLevel(5,0);

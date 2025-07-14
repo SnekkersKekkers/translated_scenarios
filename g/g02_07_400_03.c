@@ -3,8 +3,7 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020740003_07_000");
 MsgDisp("Mikage","Did I tell you about Molly?");
-MsgDisp("主人公","Yes
-On the day of the entrance ceremony, 
+MsgDisp("主人公","Yes On the day of the entrance ceremony,
 you even drew a picture on the blackboard");
 ChEye(7,0);
 ChMouth(7,0);
@@ -18,9 +17,9 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020740003_07_020");
 MsgDisp("Mikage","I live in an apartment now so it's not
-possible～ When I was a kid, I didn't
-care about anything and kept whatever I
-could get a hold of.");
+possible～ When I was a kid, I didn't care
+about anything and kept whatever I could
+get a hold of.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -31,7 +30,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020740003_07_040");
-MsgDisp("Mikage","He was a rooster, so he was Pii-kun. 
+MsgDisp("Mikage","He was a rooster, so he was Pii-kun.
 I'll just call him Pii.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -53,9 +52,9 @@ ChMouth(7,3);
 ChMotion(7,4);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020740003_07_070");
-MsgDisp("Mikage","Come to think of it, he was my first
-best friend～");
-MsgDisp("主人公","(I'm curious about the second and 
+MsgDisp("Mikage","Come to think of it, he was my first best
+friend～");
+MsgDisp("主人公","(I'm curious about the second and
 subsequent ones......)");
 BGMStop();
 MsgClose();

@@ -11,33 +11,29 @@ SEPlay("EV_SE_785");
 Wait(50,0);
 VoicePlay("B360115100_01_000");
 MsgDisp("Kazama","Alright.");
-MsgDisp("主人公","｛風真＊＊｝, amazing∈
-You kept getting strikes
-one after the other.");
+MsgDisp("主人公","｛風真＊＊｝, amazing∈ You kept getting
+strikes one after the other.");
 MsgClose();
 ChOpen(1,255,7,0,3,#1,#1,0,0);
 ChMotion(1,3);
 VoicePlay("B360115100_01_010");
-MsgDisp("Kazama","Yeah, I mean,
-you're energetic after all
+MsgDisp("Kazama","Yeah, I mean, you're energetic after all
 that fuss, aren't you?");
-MsgDisp("主人公","Hehe, 
-it's ｛風真＊＊｝ after all.");
+MsgDisp("主人公","Hehe, it's ｛風真＊＊｝ after all.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360115100_01_020");
 MsgDisp("Kazama","That's right.
-Alright, then if the next one is 
-also a strike, I want a reward.");
+Alright, then if the next one is also a
+strike, I want a reward.");
 MsgDisp("主人公","A reward?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360115100_01_030");
-MsgDisp("Kazama","Right.
-If we're talking celebration... 
+MsgDisp("Kazama","Right. If we're talking celebration...
 something like a kiss.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(1,0);
@@ -56,8 +52,8 @@ MsgClose();
 ChOpen(1,255,4,4,2,0,#1,7,0);
 VoicePlay("B360115100_01_050");
 MsgDisp("Kazama","............");
-MsgDisp("主人公","｛風真＊＊｝,
-Umm... wasn't it my turn just now?");
+MsgDisp("主人公","｛風真＊＊｝, Umm... wasn't it my turn
+just now?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

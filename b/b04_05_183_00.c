@@ -22,8 +22,8 @@ I can't concentrate at all.");
     ChMotion(5,4);
     VoicePlay("B040518300_05_010");
     MsgDisp("Hiiragi","I see.
-If it gets a passing grade out of you, 
-I guess it was worth coming.");
+If it gets a passing grade out of you, I
+guess it was worth coming.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

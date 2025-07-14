@@ -2,8 +2,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A05100_02_000");
-MsgDisp("Sassa","Hey, what do you talk to Ryota 
-about when it's just you two?");
+MsgDisp("Sassa","Hey, what do you talk to Ryota about when
+it's just you two?");
 ChMouth(1,2);
 MsgDisp("主人公","Eh, what you say...");
 ChEye(1,0);
@@ -27,15 +27,14 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05100_01_010");
-MsgDisp("Kazama","Are you two just going to 
-blather on amongst yourselves?");
+MsgDisp("Kazama","Are you two just going to blather on
+amongst yourselves?");
 MsgDisp("主人公","We only talk about normal things...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140A05100_01_020");
-MsgDisp("Kazama","Right.
-We enjoy our normal conversations 
+MsgDisp("Kazama","Right. We enjoy our normal conversations
 more than enough.");
 ChEye(1,0);
 ChEyeOpenLevel(1,0);
@@ -43,9 +42,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D140A05100_06_010");
-MsgDisp("Himuro","Ryota-senpai just naturally 
-puts himself above everyone. There's no 
-point in involving yourself.");
+MsgDisp("Himuro","Ryota-senpai just naturally puts himself
+above everyone.
+There's no point in involving yourself.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
@@ -58,8 +57,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05100_01_030");
 MsgDisp("Kazama","Say whatever you want.");
-MsgDisp("主人公","(When I talk to ｛風真＊＊｝ when 
-it's just the two of us...
+MsgDisp("主人公","(When I talk to ｛風真＊＊｝ when it's
+just the two of us...
 What kind of conversations do we have?)");
 BGMStop();
 MsgClose();

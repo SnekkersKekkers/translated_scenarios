@@ -23,16 +23,16 @@ Are your feet okay?");
     ChMotion(5,3);
     VoicePlay("Q080500000_05_010");
     MsgDisp("Hiiragi","That's encouraging.
-If that's the case, would you mind 
+If that's the case, would you mind
 spending the next free period with me too?");
-    MsgDisp("主人公","Yes.
-Let's look around a lot too next time.");
+    MsgDisp("主人公","Yes. Let's look around a lot too next
+time.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q080500000_05_020");
     MsgDisp("Hiiragi","Yes, of course.
-Then I'll meet you back here the day 
-after tomorrow.");
+Then I'll meet you back here the day after
+tomorrow.");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);
@@ -45,8 +45,8 @@ after tomorrow.");
     ScrFadeIn(0);
     VoicePlay("Q080500000_05_030");
     MsgDisp("Hiiragi","Today was fun.
-I'm glad I got to go round My first 
-school trip with you.");
+I'm glad I got to go round My first school
+trip with you.");
     MsgDisp("主人公","I had fun too!
 Thanks for inviting me.");
     ChEye(5,4);

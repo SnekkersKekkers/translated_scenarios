@@ -11,8 +11,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("F010600007_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Oh, ｛氷室＊＊｝.
-What's up?");
+    MsgDisp("主人公","Oh, ｛氷室＊＊｝. What's up?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -28,8 +27,7 @@ So, how about we walk home together?");
     VoiceEVSPlay(6);
     VoicePlay("F010600007_06_020");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Oh, ｛氷室＊＊｝.
-What's up?");
+    MsgDisp("主人公","Oh, ｛氷室＊＊｝. What's up?");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -130,8 +128,8 @@ So, let's go!");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(6);
-        MsgDisp("主人公","(He called me out and everything, 
-so I feel like I did something wrong...)");
+        MsgDisp("主人公","(He called me out and everything, so I
+feel like I did something wrong...)");
         break ;
         case 4:
         case 5:
@@ -152,8 +150,8 @@ I'll ask you out again.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(6);
-        MsgDisp("主人公","(He called me out and everything, 
-so I feel like I did something wrong...)");
+        MsgDisp("主人公","(He called me out and everything, so I
+feel like I did something wrong...)");
         break ;
         default :
         DbgAssert(1);

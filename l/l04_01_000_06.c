@@ -27,8 +27,8 @@ They wouldn't sell something like this.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("L040100006_01_030");
-    MsgDisp("Kazama","But, just between me and you,
-it's not good to play with food.");
+    MsgDisp("Kazama","But, just between me and you, it's not
+good to play with food.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -64,8 +64,8 @@ Thanks.");
     ChEyeOpenLevel(1,8);
     VoicePlay("L040100006_01_070");
     MsgDisp("Kazama","Well, it's fine.
-It's just barely on the side of
-unique and edible.");
+It's just barely on the side of unique and
+edible.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -88,8 +88,8 @@ It's homemade chocolate.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100006_01_090");
-    MsgDisp("Kazama","It's a chocolate that I can tell
-you put a lot of effort into.
+    MsgDisp("Kazama","It's a chocolate that I can tell you put a
+lot of effort into.
 But well, the result is kind of......");
     MsgDisp("主人公","I did do my best, sorry.");
     ChEye(1,4);
@@ -98,15 +98,15 @@ But well, the result is kind of......");
     VoicePlay("L040100006_01_100");
     MsgDisp("Kazama","It's kind of like your alter ego.
 I like it.");
-    MsgDisp("主人公","｛風真＊＊｝...... thank you.
-But, calling me and the chocolate alike
-is a little......");
+    MsgDisp("主人公","｛風真＊＊｝...... thank you. But, calling
+me and the chocolate alike is a
+little......");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100006_01_110");
-    MsgDisp("Kazama","Come on, the creator shouldn't
-be saying stuff like that.");
+    MsgDisp("Kazama","Come on, the creator shouldn't be saying
+stuff like that.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -117,9 +117,8 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Ha......
-I wish I gave him a
-better chocolate......)");
+    MsgDisp("主人公","(Ha...... I wish I gave him a better
+chocolate......)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

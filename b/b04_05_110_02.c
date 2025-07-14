@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040511002_05_010");
-        MsgDisp("Hiiragi","Eh? So suddenly?
-We're swimming, so we cant't.");
+        MsgDisp("Hiiragi","Eh? So suddenly? We're swimming, so we
+cant't.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -46,15 +46,15 @@ Looks like it's for private use.");
         ChMotion(5,5);
         ChCheek(5,7);
         VoicePlay("B040511002_05_040");
-        MsgDisp("Hiiragi","! Just the two of us——
-Then, let's hurry.");
+        MsgDisp("Hiiragi","! Just the two of us—— Then, let's
+hurry.");
         MsgClose();
         SEPlay("EV_SE_558");
         ChClose(5);
         ChCheek(5,0);
         SEWait();
-        MsgDisp("主人公","｛柊＊＊＊｝, you shouldn't run by the pool
-side.");
+        MsgDisp("主人公","｛柊＊＊＊｝, you shouldn't run by the
+pool side.");
         MsgClose();
         SEPlay("EV_SE_508");
         SEWait();
@@ -67,7 +67,7 @@ side.");
         ChMotion(5,3);
         VoicePlay("B040511002_05_060");
         MsgDisp("Hiiragi","But, let's hurry.
-To feel like I'm in a private hot spring 
+To feel like I'm in a private hot spring
 with you, running by the poolside is okay.");
         MsgDisp("主人公","(｛柊＊＊＊｝, do you like jacuzzi baths
 that much?)");
@@ -94,8 +94,8 @@ Shall we go for a swim?");
     ChCheek(5,7);
     VoicePlay("B040511002_05_080");
     MsgDisp("Hiiragi","That's right.
-Feeling like I'm in a hot
-spring with you...");
+Feeling like I'm in a hot spring with
+you...");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -4,9 +4,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc710",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Uhm......
-We're all in this together, so it'll
-work out somehow......");
+MsgDisp("主人公","Uhm...... We're all in this together, so
+it'll work out somehow......");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -19,9 +18,10 @@ MsgDisp("School Girl A","A collab?
 Sounds interesting.");
 VoicePlay("P840200005_46_000");
 MsgDisp("School Girl B","Do you think buying both would be worth
-it? Okay, let's try working together.");
-MsgDisp("主人公","Phew......
-｛颯砂＊＊｝, thanks for saving me.");
+it?
+Okay, let's try working together.");
+MsgDisp("主人公","Phew...... ｛颯砂＊＊｝, thanks for saving
+me.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

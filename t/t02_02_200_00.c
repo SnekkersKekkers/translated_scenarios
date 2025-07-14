@@ -11,8 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝......
-Why are you here?");
+MsgDisp("主人公","｛颯砂＊＊｝...... Why are you here?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -29,7 +28,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020220000_02_030");
-MsgDisp("Sassa","They told me to come here whilst running 
+MsgDisp("Sassa","They told me to come here whilst running
 and trying to beat my fastest time.");
 MsgDisp("主人公","Hehe, I see how it is.");
 ChEye(2,0);
@@ -62,9 +61,10 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020220000_02_080");
-MsgDisp("Sassa","But I don't put in any effort. 
+MsgDisp("Sassa","But I don't put in any effort.
 I just like it and it's fun, that's all.");
-MsgDisp("主人公","It's so ｛颯砂＊＊｝ -like. That's amazing.");
+MsgDisp("主人公","It's so ｛颯砂＊＊｝ -like.
+That's amazing.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -116,9 +116,9 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220000_02_160");
-MsgDisp("Sassa","The time I spent running alongside you, 
-having normal conversations
-that was the only time——");
+MsgDisp("Sassa","The time I spent running alongside you,
+having normal conversations that was the
+only time——");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -156,8 +156,9 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoiceEVSPlay(2);
 VoicePlay("T020220000_02_210");
-MsgDisp("Sassa","｛主人公｝, I want to run with you. I want
-to make my dreams come true with you.");
+MsgDisp("Sassa","｛主人公｝, I want to run with you.
+I want to make my dreams come true with
+you.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

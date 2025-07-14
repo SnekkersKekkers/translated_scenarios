@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,1);
     VoicePlay("B040606100_06_010");
-    MsgDisp("Himuro","I'm telling you in advance, I'm not 
-going easy on you. You were the one 
-who suggested it, so let's have fun.");
+    MsgDisp("Himuro","I'm telling you in advance, I'm not going
+easy on you. You were the one who
+suggested it, so let's have fun.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +40,8 @@ That's fine, let's get something to eat.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040606100_06_030");
-    MsgDisp("Himuro","Are you going to make some
-accessories? Well, I'll join you.");
+    MsgDisp("Himuro","Are you going to make some accessories?
+Well, I'll join you.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

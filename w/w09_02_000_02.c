@@ -18,8 +18,8 @@ switch (ChPrmGet(2,6)){
     MsgClose();
     ChOpen(2,255,4,0,0,#1,#1,0,0);
     VoicePlay("W090200002_02_020");
-    MsgDisp("Sassa","... there was four of us at the start,
-but now it's just us two.");
+    MsgDisp("Sassa","... there was four of us at the start, but
+now it's just us two.");
     MsgDisp("主人公","Yeah, that's true.");
     ChEye(2,0);
     ChMouth(2,2);

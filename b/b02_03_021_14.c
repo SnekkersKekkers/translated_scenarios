@@ -9,8 +9,7 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B020302114_03_010");
 MsgDisp("Honda","Are you not confident in it?
-That's too bad,
-it really suits you.");
+That's too bad, it really suits you.");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like clothes
-like this, too.)");
+｛本多＊＊｝ seems to like clothes like
+this, too.)");

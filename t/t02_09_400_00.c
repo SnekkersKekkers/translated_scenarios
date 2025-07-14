@@ -59,7 +59,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("T020940000_09_070");
-MsgDisp("Kuya","Today is the day it all ends. 
+MsgDisp("Kuya","Today is the day it all ends.
 I want you to hear my confession now.");
 MsgDisp("主人公","Yes......");
 ChEye(9,3);
@@ -101,7 +101,7 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(9,255,4,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020940000_09_120");
-MsgDisp("Kuya","I love you. 
+MsgDisp("Kuya","I love you.
 All I see is you now.");
 ChEye(9,0);
 ChMouth(9,0);

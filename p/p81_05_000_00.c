@@ -12,12 +12,12 @@ SEWait();
 ChOpen(5,254,4,0,0,#1,#1,0,0);
 VoicePlay("P810500000_05_000");
 MsgDisp("Hiiragi","The preparation period is for two weeks,
-beginning next week. Before then, 
-we will do everything we are able to, 
-little by little.");
+beginning next week. Before then, we will
+do everything we are able to, little by
+little.");
 VoicePlay("P810500000_41_010");
-MsgDisp("Student Council President","Yes, it will be a hectic time, 
-so please take care of your health.");
+MsgDisp("Student Council President","Yes, it will be a hectic time, so please
+take care of your health.");
 VoicePlay("P810500000_05_010");
 MsgDisp("Hiiragi","Certainly. ");
 ChEye(5,0);

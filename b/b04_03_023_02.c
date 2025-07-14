@@ -12,7 +12,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("B040302302_03_010");
-    MsgDisp("Honda","I guess we're on a date, huh... A date?
+    MsgDisp("Honda","I guess we're on a date, huh...
+A date?
 What's the definition of a date, I wonder?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -24,8 +25,9 @@ What's the definition of a date, I wonder?");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("B040302302_03_020");
-    MsgDisp("Honda","Reading while looking at the sea together 
-with you... That sounds wonderful!");
+    MsgDisp("Honda","Reading while looking at the sea together
+with you...
+That sounds wonderful!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -56,7 +58,8 @@ with you... That sounds wonderful!");
         ChMotion(3,1);
         VoicePlay("B040302302_03_050");
         MsgDisp("Honda","You gotta do it when you feel like doing
-it. Well, let's get started.");
+it.
+Well, let's get started.");
         SEPlay("EV_SE_FOOT_005",0,0.9);
         ChClose(3);
         SEWait();
@@ -74,12 +77,13 @@ I'm a bit tired, but that was fun.");
         ChMouth(3,3);
         ChMotion(3,0);
         VoicePlay("B040302302_03_070");
-        MsgDisp("Honda","That's good. But hey, new discovery.");
+        MsgDisp("Honda","That's good.
+But hey, new discovery.");
         VoicePlay("B040302302_03_080");
         MsgDisp("Honda","My mind becomes clearer while running.
-Just the act of putting my legs forward 
+Just the act of putting my legs forward
 leaves no room for unnecessary thoughts.");
-        MsgDisp("主人公","Hehe, yeah.｛本多＊＊｝ you're always
+        MsgDisp("主人公","Hehe, yeah. ｛本多＊＊｝ you're always
 thinking about all sorts of things, so
 running might be good for you.");
         ChEye(3,3);
@@ -97,9 +101,10 @@ Don't stare at me so hard!");
         ChMotion(3,0);
         ChEyeOpenLevel(3,#1);
         VoicePlay("B040302302_03_100");
-        MsgDisp("Honda","Why? I'm just interested in 
-everything about you, so I can't help it.");
-        MsgDisp("主人公","(But still...! So embarrassing...)");
+        MsgDisp("Honda","Why? I'm just interested in everything
+about you, so I can't help it.");
+        MsgDisp("主人公","(But still...!
+So embarrassing...)");
         break ;
         default :
         DbgAssert(1);

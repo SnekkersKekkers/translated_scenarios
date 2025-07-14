@@ -17,8 +17,8 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B080601100_06_020");
 MsgDisp("Himuro","I don't want to hear it.
-It looks like I'm interrupting 
-something, so I'm going home.");
+It looks like I'm interrupting something,
+so I'm going home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 ChEyeOpenLevel(6,#1);

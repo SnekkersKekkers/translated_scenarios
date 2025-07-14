@@ -23,8 +23,7 @@ VoicePlay("B330A30500_06_000");
 MsgDisp("Himuro","...As expected.");
 VoicePlay("B330A30500_02_000");
 MsgDisp("Sassa","Not bad, Ryota.");
-MsgDisp("主人公","Amazing!
-Both ｛風真＊＊｝ and ｛颯砂＊＊｝
+MsgDisp("主人公","Amazing! Both ｛風真＊＊｝ and ｛颯砂＊＊｝
 got all three darts on bullseye.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -55,16 +54,16 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A30500_02_010");
 MsgDisp("Sassa","That's right.
-You won't be able to catch up to 
-us with a bullseye you know?");
+You won't be able to catch up to us with a
+bullseye you know?");
 MsgDisp("主人公","The bullseye is in the center right...?
 Is there a higher score than that?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A30500_01_020");
-MsgDisp("Kazama","Yeah, you'll get 60 
-points with a triple 20.");
+MsgDisp("Kazama","Yeah, you'll get 60 points with a triple
+20.");
 MsgDisp("主人公","So that's how it is!
 Do your best, ｛氷室＊＊｝!");
 VoicePlay("B330A30500_06_030");
@@ -130,8 +129,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A30500_06_060");
-MsgDisp("Himuro","It was thanks to the pressure from 
-my seniors amd you cheering me on.");
+MsgDisp("Himuro","It was thanks to the pressure from my
+seniors amd you cheering me on.");
 MsgDisp("主人公","Hehe, that was super cool.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -159,8 +158,8 @@ ChMotion(6,4);
 ChCheek(6,0);
 VoicePlay("B330A30500_06_080");
 MsgDisp("Himuro","I accept your challenge.");
-MsgDisp("主人公","(Hmm...?
-This is turning into a war, isn't it?)");
+MsgDisp("主人公","(Hmm...? This is turning into a war, isn't
+it?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -17,10 +17,9 @@ VoicePlay("T020621000_06_380");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","
-You don't have to apologize.
-I already had a feeling about it
-anyway, deep down...");
+MsgDisp("Himuro","You don't have to apologize.
+I already had a feeling about it anyway,
+deep down...");
 VoicePlay("T020621000_06_390");
 ChEye(6,2);
 ChMouth(6,3);
@@ -36,9 +35,8 @@ VoicePlay("T020621000_06_410");
 ChEye(6,2);
 ChMouth(6,0);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","Because if I don't, I'll just end up
-alone again.
-");
+MsgDisp("Himuro","Because if I don't, I'll just end up alone
+again.");
 MsgDisp("主人公","｛氷室＊＊｝......");
 VoicePlay("T020621000_06_420");
 ChEye(6,2);

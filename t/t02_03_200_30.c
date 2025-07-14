@@ -43,7 +43,8 @@ ChEye(3,4);
 ChMotion(3,4,1);
 VoicePlay("T020320000_03_420");
 MsgDisp("Honda","Meeting you has made me excited for my
-future. Thank you so much.");
+future.
+Thank you so much.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,0,1);

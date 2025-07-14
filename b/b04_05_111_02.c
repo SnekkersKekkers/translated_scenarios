@@ -59,10 +59,11 @@ That's a bit of a stretch, isn't it?");
 Everyone would be surprised, huh?");
         ChEye(5,2);
         VoicePlay("B040511102_05_050");
-        MsgDisp("Hiiragi","After we surprise them, I guess
-they would boo when they see my skating.");
-        MsgDisp("主人公","No way. It would be a good way to
-advertise the Theater Company's Ice Show.");
+        MsgDisp("Hiiragi","After we surprise them, I guess they would
+boo when they see my skating.");
+        MsgDisp("主人公","No way.
+It would be a good way to advertise the
+Theater Company's Ice Show.");
         ChEye(5,0);
         ChMouth(5,2);
         VoicePlay("B040511102_05_060");
@@ -71,14 +72,15 @@ advertise the Theater Company's Ice Show.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040511102_05_070");
-        MsgDisp("Hiiragi","Your ideas are amazing. I could never come
-up with something like that.");
+        MsgDisp("Hiiragi","Your ideas are amazing.
+I could never come up with something like
+that.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040511102_05_080");
         MsgDisp("Hiiragi","An Ice Show huh......");
-        MsgDisp("主人公","Seeing ｛柊＊＊＊｝ perform on ice in
-a beautiful costume would be wonderful.");
+        MsgDisp("主人公","Seeing ｛柊＊＊＊｝ perform on ice in a
+beautiful costume would be wonderful.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

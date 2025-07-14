@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     NSSCheek(8,10);
     VoicePlay("B160800200_08_010");
     MsgDisp("Shirahane","Don't smile at me like that!
-You'll make my heart race
-even more...");
+You'll make my heart race even more...");
     break ;
     case 1:
     NSSEye(8,3);

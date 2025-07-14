@@ -26,7 +26,8 @@ Well, maybe that's normal.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040105100_01_020");
-    MsgDisp("Kazama","I was awake. You were the one sleeping.
+    MsgDisp("Kazama","I was awake.
+You were the one sleeping.
 Don't make me into an accomplice.");
     MsgDateResultDisp();
     break ;

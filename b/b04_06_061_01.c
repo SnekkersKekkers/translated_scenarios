@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606101_06_000");
-MsgDisp("Himuro","Haven't you been looking at 
-the beach house for a while now?
+MsgDisp("Himuro","Haven't you been looking at the beach
+house for a while now?
 Do you want something to eat?");
 MsgSel("I-I've been found out...","After I go for a swim.","That's you isn't it, ｛氷室＊＊｝?");
 switch (MsgSelRsltGet()){
@@ -17,10 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040606101_06_010");
-    MsgDisp("Himuro","You really are easy to
-understand. That's fine, I'll come 
-with you. You can't exert yourself 
-if you're hungry.");
+    MsgDisp("Himuro","You really are easy to understand.
+That's fine, I'll come with you.
+You can't exert yourself if you're hungry.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -32,8 +31,8 @@ if you're hungry.");
     ChMotion(6,4);
     VoicePlay("B040606101_06_020");
     MsgDisp("Himuro","That's a wise decision.
-A little movement will make 
-you hungry. Let's go for a swim first.");
+A little movement will make you hungry.
+Let's go for a swim first.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,9 +44,8 @@ you hungry. Let's go for a swim first.");
     ChMotion(6,4);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040606101_06_030");
-    MsgDisp("Himuro","I had a proper meal
-before leaving the house, 
-Unfortunately you're mistaken.");
+    MsgDisp("Himuro","I had a proper meal before leaving the
+house, Unfortunately you're mistaken.");
     MsgDateResultDisp();
     break ;
     default :

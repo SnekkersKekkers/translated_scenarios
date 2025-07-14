@@ -33,8 +33,8 @@ I'm glad.");
     ChMotion(7,1);
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723200_07_020");
-    MsgDisp("Mikage","I understand the feeling 
-of wanting to fall asleep.");
+    MsgDisp("Mikage","I understand the feeling of wanting to
+fall asleep.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +46,8 @@ of wanting to fall asleep.");
     ChMotion(7,5);
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723200_07_030");
-    MsgDisp("Mikage","Wait, wait, 
-then no one was having any fun?");
+    MsgDisp("Mikage","Wait, wait, then no one was having any
+fun?");
     MsgDateResultDisp();
     break ;
     default :

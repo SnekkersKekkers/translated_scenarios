@@ -21,14 +21,13 @@ ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010130200_01_010");
 MsgDisp("Kazama","What's going on?
 You're standing around.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Going out?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝! Going out?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010130200_01_020");
-MsgDisp("Kazama","My grandpa gave me a ticket,
-so I thought I'd go see the rakugo show.");
+MsgDisp("Kazama","My grandpa gave me a ticket, so I thought
+I'd go see the rakugo show.");
 MsgDisp("主人公","Eh.
 So, that ticket......");
 ChEye(1,3);
@@ -72,9 +71,8 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2);
 VoicePlay("E010130200_04_010");
-MsgDisp("Nanatsumori","Uh-......
-My ticket for the event, I seem to have
-dropped it.");
+MsgDisp("Nanatsumori","Uh-...... My ticket for the event, I seem
+to have dropped it.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -101,8 +99,8 @@ ChEye(4,0);
 SEPlay("EV_SE_662");
 SEWait();
 MsgDisp("主人公","｛風真＊＊｝ said he's going too.
-Aren't you two just brought together
-by fate?");
+Aren't you two just brought together by
+fate?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -135,8 +133,7 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 ChClose(4,0,30);
-MsgDisp("主人公","(Hehehe!
-Wouldn't it be awesome if their seats
-were right next to each other!)");
+MsgDisp("主人公","(Hehehe! Wouldn't it be awesome if their
+seats were right next to each other!)");
 MsgClose();
 ScrFadeOut(0,0);

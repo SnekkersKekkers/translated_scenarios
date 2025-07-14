@@ -5,8 +5,7 @@ switch (ChPrmGet(6,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Are you free?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Are you free?");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -18,8 +17,7 @@ Valentine's chocolate.");
     SEWait();
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Are you free?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Are you free?");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -32,8 +30,7 @@ Valentine's chocolate.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-I was looking for you.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! I was looking for you.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
     ChOpen(6,254,0,0,0,#1,#1,5,0);

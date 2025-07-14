@@ -36,8 +36,8 @@ by wonderful...");
     ChMotion(4,0,1);
     VoicePlay("B040410100_04_030");
     MsgDisp("Nanatsumori","Romance huh..
-Well, if it was stimulating for you, 
-I'm glad. ");
+Well, if it was stimulating for you, I'm
+glad.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

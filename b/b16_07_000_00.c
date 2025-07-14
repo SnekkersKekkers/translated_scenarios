@@ -4,8 +4,8 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160700000_07_000");
 MsgDisp("Mikage","What's wrong?
-Are you wanting me to 
-teach you something bad?");
+Are you wanting me to teach you something
+bad?");
 MsgSel("Please teach me!","I-I'm sorry...");
 switch (MsgSelRsltGet()){
     case 0:

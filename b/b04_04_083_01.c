@@ -5,8 +5,8 @@ ChMouth(4,2);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408301_04_000");
-MsgDisp("Nanatsumori","In the summer, 
-those guys become energetic...");
+MsgDisp("Nanatsumori","In the summer, those guys become
+energetic...");
 MsgSel("Shall we go looking for bus?","Maybe they get power from the sun?","You need AC in the summer after all!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,8 @@ Feel free to go by yourself.");
     ChMotion(4,2,1);
     VoicePlay("B040408301_04_020");
     MsgDisp("Nanatsumori","It's hard to be a human...
-I mean, I don't need the power of the 
-sun in the middle of summer...");
+I mean, I don't need the power of the sun
+in the middle of summer...");
     MsgDateResultDisp();
     break ;
     case 2:

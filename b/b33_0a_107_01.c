@@ -11,9 +11,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("B330A10701_02_000");
-MsgDisp("Sassa","\"Touring the Habataki Castle 
-Exhibition Corner with 
-Ryota\", start!");
+MsgDisp("Sassa","\"Touring the Habataki Castle Exhibition
+Corner with Ryota\", start!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -32,8 +31,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10701_01_010");
-MsgDisp("Kazama","It kinda feels like the
-bar is being raised.");
+MsgDisp("Kazama","It kinda feels like the bar is being
+raised.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -61,8 +60,8 @@ VoicePlay("B330A10701_02_010");
 VoiceEVSPlay(2);
 MsgDisp("Sassa","That's right...
 You choose, ｛主人公｝.");
-MsgDisp("主人公","Umm... then 3, the
-treasure house's pinwheel.");
+MsgDisp("主人公","Umm... then 3, the treasure house's
+pinwheel.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -73,10 +72,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10701_01_050");
-MsgDisp("Kazama","The castle's treasure room
-had an orange pinwheel.
-It was said to have the
-power to grant wishes.");
+MsgDisp("Kazama","The castle's treasure room had an orange
+pinwheel. It was said to have the power to
+grant wishes.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
@@ -92,8 +90,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10701_01_060");
-MsgDisp("Kazama","When I found out about this, 
-I made a replica and made a wish.");
+MsgDisp("Kazama","When I found out about this, I made a
+replica and made a wish.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -137,31 +135,30 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A10701_02_050");
 MsgDisp("Sassa","Haa, really?
-I'm also your childhood friend, 
-I want to join this group.");
+I'm also your childhood friend, I want to
+join this group.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10701_06_040");
-MsgDisp("Himuro","Then I'm the only one left out?
-I've had my fill of this.
-Next.");
+MsgDisp("Himuro","Then I'm the only one left out? I've had
+my fill of this. Next.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10701_01_090");
-MsgDisp("Kazama","Then, shall we talk about the 
-Legend of the Lone Pillar next?");
+MsgDisp("Kazama","Then, shall we talk about the Legend of
+the Lone Pillar next?");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("B330A10701_02_060");
 MsgDisp("Sassa","That sounds kind of scary...
 I've had enough.");
-MsgDisp("主人公","(I was caught off guard when
-｛風真＊＊｝ suddenly started 
-talking about the pinwheel...)");
+MsgDisp("主人公","(I was caught off guard when ｛風真＊＊｝
+suddenly started talking about the
+pinwheel...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

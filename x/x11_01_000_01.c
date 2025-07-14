@@ -11,8 +11,8 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","You have a good reputation. A guy from
 track and field said he was able to set a
 record because of the manager.");
-    MsgDisp("主人公","(I'm glad I worked hard as 
-the Track and Field club manager!)");
+    MsgDisp("主人公","(I'm glad I worked hard as the Track and
+Field club manager!)");
     break ;
     case 4:
     case 5:

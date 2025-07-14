@@ -9,16 +9,16 @@ SEWait();
 ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200600_02_000");
-MsgDisp("Sassa","｛主人公｝.
-After this is the １１０ Meter Hurdle.");
+MsgDisp("Sassa","｛主人公｝. After this is the １１０
+Meter Hurdle.");
 MsgDisp("主人公","Right. Good luck.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D010200600_02_010");
 MsgDisp("Sassa","I'm hoping for clean jumps.
-Let's see if those adjustments I made
-will help.");
+Let's see if those adjustments I made will
+help.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -27,9 +27,9 @@ MsgDisp("Sassa","I'm going.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Since the last interhigh ｛颯砂＊＊｝
-has slowly been improving. I'm looking
-forward to seeing today's results!)");
+MsgDisp("主人公","(Since the last interhigh ｛颯砂＊＊｝ has
+slowly been improving. I'm looking forward
+to seeing today's results!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -87,18 +87,17 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200600_02_060");
-MsgDisp("Sassa","Yeah. Just like my senpai told me
-during the second interhigh. I need to
-do it my way until the end.");
-MsgDisp("主人公","Yeah.
-I'm sure you can do it and win it all!");
+MsgDisp("Sassa","Yeah. Just like my senpai told me during
+the second interhigh. I need to do it my
+way until the end.");
+MsgDisp("主人公","Yeah. I'm sure you can do it and win it
+all!");
 ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("D010200600_02_070");
-MsgDisp("Sassa","Alright!
-I'll give it my all too for the final
-events.");
+MsgDisp("Sassa","Alright! I'll give it my all too for the
+final events.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

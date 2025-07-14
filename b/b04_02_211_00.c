@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040221100_02_000");
-MsgDisp("Sassa","When it comes to animals, I'll 
-never get tired of looking at them!");
+MsgDisp("Sassa","When it comes to animals, I'll never get
+tired of looking at them!");
 MsgSel("Let's see them more up close!","Let's take a picture with the animals!","Does ｛颯砂＊＊｝ have anywhere he wants to go?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040221100_02_010");
-    MsgDisp("Sassa","That's fine, but the monkeys have a 
+    MsgDisp("Sassa","That's fine, but the monkeys have a
 tendency to take belongings.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -29,8 +29,8 @@ tendency to take belongings.");
     ChMotion(2,5);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040221100_02_020");
-    MsgDisp("Sassa","Amazing.
-Let's take one with the elephants∈");
+    MsgDisp("Sassa","Amazing. Let's take one with the
+elephants∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

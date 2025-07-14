@@ -35,9 +35,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110305_01_040");
 MsgDisp("Kazama","I started feeling like each day was long
 again and began planning my return here.");
-MsgDisp("主人公","｛風真＊＊｝, you're amazing...... being
-able to plan and execute what you think
-of.");
+MsgDisp("主人公","｛風真＊＊｝, you're amazing......
+being able to plan and execute what you
+think of.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -48,8 +48,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110305_01_060");
-MsgDisp("Kazama","And then, since I came back here,
-every day goes by so quickly.
+MsgDisp("Kazama","And then, since I came back here, every
+day goes by so quickly.
 I almost want to stop time.");
 MsgDisp("主人公","They say time flies when you're having
 fun, right?");
@@ -76,8 +76,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("G020110305_01_090");
-MsgDisp("Kazama","Yeah, I barely held back. The classroom
-wasn't the place for that, right?");
+MsgDisp("Kazama","Yeah, I barely held back.
+The classroom wasn't the place for that,
+right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

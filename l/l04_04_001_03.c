@@ -5,7 +5,8 @@ VoicePlay("L040400103_04_000");
 MsgDisp("Nanatsumori","Handmade...... Aah, this is bad. You're
 saving that guy's life by not giving him
 this, huh? I'll do something about this.");
-MsgDisp("主人公","(That guy?　Saving lives??
+MsgDisp("主人公","(That guy?
+Saving lives??
 I wonder what he's talking about......)");
 MsgClose();
 BGMStop();

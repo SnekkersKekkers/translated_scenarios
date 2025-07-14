@@ -57,8 +57,8 @@ The festival is over.");
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("S120400000_04_050");
-    MsgDisp("Nanatsumori","Did you want to do anything else
-during our shrine visit?");
+    MsgDisp("Nanatsumori","Did you want to do anything else during
+our shrine visit?");
     MsgDisp("主人公","Nope.
 I think this is good enough.");
     ChEye(4,2);

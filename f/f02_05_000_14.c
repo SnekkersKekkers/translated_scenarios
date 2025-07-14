@@ -8,11 +8,11 @@ ScrFadeIn(0);
 MsgDisp("主人公","It won't be long until we graduate...");
 ChMouth(5,4);
 VoicePlay("F020500014_05_000");
-MsgDisp("Hiiragi","Yes, that is right. I truly have so many
-thoughts, yet no easy way to say them.");
-MsgDisp("主人公","Mhm.
-｛柊＊＊＊｝, I really do
-wish you the best.");
+MsgDisp("Hiiragi","Yes, that is right.
+I truly have so many thoughts, yet no easy
+way to say them.");
+MsgDisp("主人公","Mhm. ｛柊＊＊＊｝, I really do wish you
+the best.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500014_05_010");
@@ -20,11 +20,10 @@ MsgDisp("Hiiragi","As do I to you.");
 ChMotion(5,0);
 VoicePlay("F020500014_05_020");
 MsgDisp("Hiiragi","It was my first time and there were many
-things I did not know, but thanks to
-you, my friends and my teachers,
-I was able to make it this far.");
-MsgDisp("主人公","Haha.
-Why are you saying that like you've
+things I did not know, but thanks to you,
+my friends and my teachers, I was able to
+make it this far.");
+MsgDisp("主人公","Haha. Why are you saying that like you've
 already graduated?");
 ChEye(5,0);
 ChMotion(5,4);
@@ -45,8 +44,7 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("F020500014_05_060");
 MsgDisp("Hiiragi","Since I started here, you have always
-listened to my words warmly and
-eagerly.");
+listened to my words warmly and eagerly.");
 MsgDisp("主人公","I only listened to you.");
 ChEye(5,4);
 VoicePlay("F020500014_05_070");
@@ -74,5 +72,5 @@ ChMotion(5,0,1);
 VoicePlay("F020500014_05_110");
 MsgDisp("Hiiragi","Haha, well, on that note, let us enjoy
 what is left of our life at Haba High.");
-MsgDisp("主人公","(Graduation...
-Unsurprisingly, it's sad...)");
+MsgDisp("主人公","(Graduation... Unsurprisingly, it's
+sad...)");

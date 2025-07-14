@@ -10,8 +10,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020310101_03_010");
-MsgDisp("Honda","Ah, I see. I thought you were looking for
-someone you knew.");
+MsgDisp("Honda","Ah, I see.
+I thought you were looking for someone you
+knew.");
 ChEye(3,1);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -28,8 +29,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310101_03_040");
-MsgDisp("Honda","If it were me,
-I'd take your hand and run away.");
+MsgDisp("Honda","If it were me, I'd take your hand and run
+away.");
 MsgDisp("主人公","Eh......");
 ChEye(3,0);
 ChMouth(3,3);
@@ -40,7 +41,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310101_03_060");
-MsgDisp("Honda","But, I'm the most surprised that those 
+MsgDisp("Honda","But, I'm the most surprised that those
 words came out without hesitation.");
 MsgDisp("主人公","｛本多＊＊｝......?");
 ChEye(3,3);
@@ -52,8 +53,8 @@ fireflies! Let's go to see them!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(3);
-MsgDisp("主人公","(Just now, ｛本多＊＊｝'s face
-was very serious huh......)");
+MsgDisp("主人公","(Just now, ｛本多＊＊｝'s face was very
+serious huh......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

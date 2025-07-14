@@ -11,5 +11,5 @@ ChMotion(3,1);
 VoicePlay("B020302126_03_010");
 MsgDisp("Honda","But thanks to you, I feel like I can
 understand the value of cute clothes!");
-MsgDisp("主人公","(｛本多＊＊｝ seems to have
-come to like clothes like these?)");
+MsgDisp("主人公","(｛本多＊＊｝ seems to have come to like
+clothes like these?)");

@@ -2,12 +2,10 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B020302120_03_000");
-MsgDisp("Honda","Wow!
-Wearing something eye catching
-again today, huh?");
-MsgDisp("主人公","Ahaha...
-This coordination must be
-pretty bad after all?");
+MsgDisp("Honda","Wow! Wearing something eye catching again
+today, huh?");
+MsgDisp("主人公","Ahaha... This coordination must be pretty
+bad after all?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

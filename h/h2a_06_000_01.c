@@ -17,20 +17,20 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600001_06_010");
-    MsgDisp("Himuro","I'm not going to comfort you,
-even if you look at me like that.");
+    MsgDisp("Himuro","I'm not going to comfort you, even if you
+look at me like that.");
     MsgDisp("主人公","Ugh......");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600001_06_020");
-    MsgDisp("Himuro","Don't get me wrong. I'm saying you
-don't have to make that face. You've
-done all you can for the team.");
+    MsgDisp("Himuro","Don't get me wrong. I'm saying you don't
+have to make that face. You've done all
+you can for the team.");
     MsgDisp("主人公","......Yeah, thanks.");
-    MsgDisp("主人公","(We might have lost, but
-I'm glad that I stayed as
-the track and field club manager......)");
+    MsgDisp("主人公","(We might have lost, but I'm glad that I
+stayed as the track and field club
+manager......)");
     break ;
     case 4:
     case 5:
@@ -51,22 +51,20 @@ the track and field club manager......)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H2A0600001_06_050");
-    MsgDisp("Himuro","......I know how much thought you put
-into the team and how hard you work for
-them.");
+    MsgDisp("Himuro","......I know how much thought you put into
+the team and how hard you work for them.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("H2A0600001_06_060");
-    MsgDisp("Himuro","So I don't really know what
-to say to you right now.");
+    MsgDisp("Himuro","So I don't really know what to say to you
+right now.");
     MsgDisp("主人公","......Hehe, thanks.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600001_06_070");
-    MsgDisp("Himuro","You don't have to force yourself
-to laugh.
+    MsgDisp("Himuro","You don't have to force yourself to laugh.
 Why are you the one that's concerned......");
     ChEye(6,0);
     ChMouth(6,4);
@@ -74,9 +72,9 @@ Why are you the one that's concerned......");
     VoicePlay("H2A0600001_06_080");
     MsgDisp("Himuro","Rest up for today.
 Good work these past three years.");
-    MsgDisp("主人公","(We might have lost, but
-I'm glad that I stayed as
-the track and field club manager......)");
+    MsgDisp("主人公","(We might have lost, but I'm glad that I
+stayed as the track and field club
+manager......)");
     break ;
     default :
     DbgAssert(1);

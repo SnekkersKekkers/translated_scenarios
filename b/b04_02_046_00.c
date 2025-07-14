@@ -22,8 +22,8 @@ was good.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040204600_02_010");
-    MsgDisp("Sassa","It's difficult for me to rate
-classical music.");
+    MsgDisp("Sassa","It's difficult for me to rate classical
+music.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +35,8 @@ classical music.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040204600_02_020");
-    MsgDisp("Sassa","A Hanegaki alumni is performing. So that
-kind of rating is rude.");
+    MsgDisp("Sassa","A Hanegaki alumni is performing.
+So that kind of rating is rude.");
     MsgDateResultDisp();
     break ;
     default :

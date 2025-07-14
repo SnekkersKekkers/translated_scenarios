@@ -8,8 +8,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H2A0400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
-We won!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝! We won!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -17,9 +16,8 @@ We won!");
     MsgDisp("Nanatsumori","Yeah, the team did, right?
 Well, I guess you were their manager.
 Good work.");
-    MsgDisp("主人公","(Hehe!
-I'm glad that I stayed as
-the track and field club manager!)");
+    MsgDisp("主人公","(Hehe! I'm glad that I stayed as the track
+and field club manager!)");
     break ;
     case 4:
     case 5:
@@ -30,8 +28,7 @@ the track and field club manager!)");
     VoiceEVSPlay(4);
     VoicePlay("H2A0400000_04_020");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
-We w-");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝! We w-");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -43,16 +40,15 @@ That's why I came.");
     ChMotion(4,0,1);
     VoicePlay("H2A0400000_04_040");
     MsgDisp("Nanatsumori","Congrats on winning.
-You guys are amazing. The team,
-and you as the manager.");
+You guys are amazing.
+The team, and you as the manager.");
     MsgDisp("主人公","Thanks......");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,2,1);
     VoicePlay("H2A0400000_04_050");
-    MsgDisp("Nanatsumori","But......
-I never thought I would be so moved
-just by sports.");
+    MsgDisp("Nanatsumori","But...... I never thought I would be so
+moved just by sports.");
     MsgDisp("主人公","Hehe!");
     ChEye(4,4);
     ChMouth(4,3);
@@ -60,8 +56,8 @@ just by sports.");
     VoicePlay("H2A0400000_04_060");
     MsgDisp("Nanatsumori","Nice smile.
 Really, good work.");
-    MsgDisp("主人公","(I'm glad that I stayed as
-the track and field club manager......!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the track and
+field club manager......!)");
     break ;
     default :
     DbgAssert(1);

@@ -19,8 +19,8 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("T020111000_01_170");
 MsgDisp("Kazama","I was the one who was cowardly.
-I lied to myself,
-and most of all, I was rude to you.");
+I lied to myself, and most of all, I was
+rude to you.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -32,8 +32,8 @@ VoicePlay("T020111000_01_180");
 MsgDisp("Kazama","I'll never let you go again.");
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_190");
-MsgDisp("Kazama","｛主人公｝,
-You are my everything. I love you.");
+MsgDisp("Kazama","｛主人公｝, You are my everything.
+I love you.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(300,0);

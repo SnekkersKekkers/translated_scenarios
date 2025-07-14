@@ -19,15 +19,16 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,3);
     VoicePlay("S060600001_06_020");
     MsgDisp("Himuro","Well, it's fine for New Years.");
-    MsgDisp("主人公","(I guess wearing the kimono was
-a good choice, after all?)");
+    MsgDisp("主人公","(I guess wearing the kimono was a good
+choice, after all?)");
     break ;
     case 3:
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("S060600001_06_030");
-    MsgDisp("Himuro","That's nice. It's stunning.");
+    MsgDisp("Himuro","That's nice.
+It's stunning.");
     MsgDisp("主人公","Ah, you mean the kimono?
 Hehe, I tried to wear it well!");
     ChEye(6,0);
@@ -51,9 +52,9 @@ I'm so glad I wore my kimono.)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S060600001_06_060");
-    MsgDisp("Himuro","When you dress up like that, it 
-almost feels like you're a completely 
-different person.");
+    MsgDisp("Himuro","When you dress up like that, it almost
+feels like you're a completely different
+person.");
     MsgDisp("主人公","Hehe. Is that so?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -66,10 +67,10 @@ That's how well it suits you.");
     ChMotion(6,0,1);
     ChCheek(6,0);
     VoicePlay("S060600001_06_080");
-    MsgDisp("Himuro","I'm kind of proud to be standing
-next to you.");
-    MsgDisp("主人公","(It seems like he really liked
-my kimono. It was worth all the effort♪)");
+    MsgDisp("Himuro","I'm kind of proud to be standing next to
+you.");
+    MsgDisp("主人公","(It seems like he really liked my kimono.
+It was worth all the effort♪)");
     break ;
     default :
     DbgAssert(1);

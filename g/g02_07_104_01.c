@@ -27,8 +27,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710401_07_030");
 MsgDisp("Mikage","And every night, one couple is transported
-from here to another world. Finally, it's
-our turn.");
+from here to another world.
+Finally, it's our turn.");
 MsgDisp("主人公","......Couple?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -47,7 +47,8 @@ ChMotion(7,1);
 VoicePlay("G020710401_07_060");
 MsgDisp("Mikage","......Seriously, you didn't even try to go
 along with it for a bit longer.");
-MsgDisp("主人公","Um, okay, sure. A couple is fine then.");
+MsgDisp("主人公","Um, okay, sure.
+A couple is fine then.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -55,8 +56,8 @@ VoicePlay("G020710401_07_070");
 MsgDisp("Mikage","Oh, is that so? Thank you very much. But
 actually, the system only works for real
 couples.");
-MsgDisp("主人公","(Hehe. ｛御影＊＊｝,thank you for always
-entertaining me like this!)");
+MsgDisp("主人公","(Hehe. ｛御影＊＊｝, thank you for
+always entertaining me like this!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -9,9 +9,10 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("R060100007_01_000");
-    MsgDisp("Kazama","Is this... an attempt to make me laugh?");
-    MsgDisp("主人公","(Darn, it seems like he doesn't
-really like my gift...)");
+    MsgDisp("Kazama","Is this...
+an attempt to make me laugh?");
+    MsgDisp("主人公","(Darn, it seems like he doesn't really
+like my gift...)");
     break ;
     case 3:
     case 4:
@@ -21,10 +22,10 @@ really like my gift...)");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("R060100007_01_010");
-    MsgDisp("Kazama","I'll take it but... what am
-I supposed to do with this?");
-    MsgDisp("主人公","(Darn, it seems like he doesn't
-really like my gift...)");
+    MsgDisp("Kazama","I'll take it but...
+what am I supposed to do with this?");
+    MsgDisp("主人公","(Darn, it seems like he doesn't really
+like my gift...)");
     break ;
     default :
     DbgAssert(1);

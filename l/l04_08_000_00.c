@@ -13,8 +13,7 @@ switch (ChPrmGet(8,6)){
     ChOpen(8,35,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(8);
     VoicePlay("L040800000_08_000");
-    MsgDisp("Shirahane","｛主人公｝.
-What's up with you today?");
+    MsgDisp("Shirahane","｛主人公｝. What's up with you today?");
     SEPlay("EV_SE_665");
     SEWait();
     MsgDisp("主人公","Today's Valentine's, right?
@@ -29,20 +28,18 @@ So I came to give you chocolate.");
     ChOpen(8,35,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(8);
     VoicePlay("L040800000_08_010");
-    MsgDisp("Shirahane","｛主人公｝.
-What's the matter?
-Need somethin' with me?");
-    MsgDisp("主人公","Yeah, something
-to do with you, ｛大地＊＊｝.");
+    MsgDisp("Shirahane","｛主人公｝. What's the matter? Need
+somethin' with me?");
+    MsgDisp("主人公","Yeah, something to do with you,
+｛大地＊＊｝.");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("L040800000_08_020");
-    MsgDisp("Shirahane","Huh......
-Did we have somethin' planned......?");
-    MsgDisp("主人公","No, nothing like that.
-Here.
-I brought you Valentine's chocolates.");
+    MsgDisp("Shirahane","Huh...... Did we have somethin'
+planned......?");
+    MsgDisp("主人公","No, nothing like that. Here. I brought you
+Valentine's chocolates.");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(8,0);
@@ -64,8 +61,8 @@ Yayー!");
     VoiceEVSPlay(8);
     MsgDisp("Shirahane","Ah...... ｛主人公｝.");
     MsgDisp("主人公","Thank goodness, you're here.
-I came because I wanted to give
-you something, ｛大地＊＊｝.");
+I came because I wanted to give you
+something, ｛大地＊＊｝.");
     ChMotion(8,2,1);
     VoicePlay("L040800000_08_050");
     MsgDisp("Shirahane","Could I get my hopes up......?");
@@ -86,9 +83,8 @@ Valentine's chocolate!");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800000_08_070");
-    MsgDisp("Shirahane","Actually, I was really lookin'
-forward t' this.
-Heheh!");
+    MsgDisp("Shirahane","Actually, I was really lookin' forward t'
+this. Heheh!");
     break ;
     default :
     DbgAssert(1);

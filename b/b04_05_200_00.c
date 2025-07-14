@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040520000_05_010");
-        MsgDisp("Hiiragi","If I'm with you,
-I'll look like an advanced skier too.");
+        MsgDisp("Hiiragi","If I'm with you, I'll look like an
+advanced skier too.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -29,8 +29,8 @@ I'll look like an advanced skier too.");
         ChEye(5,2);
         ChMotion(5,1);
         VoicePlay("B040520000_05_020");
-        MsgDisp("Hiiragi","If you tell me to call you that, 
-I will, but princess?");
+        MsgDisp("Hiiragi","If you tell me to call you that, I will,
+but princess?");
         MsgDateResultDisp();
         }
     break ;
@@ -39,10 +39,9 @@ I will, but princess?");
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("B040520000_05_030");
-    MsgDisp("Hiiragi","I'm the same.
-Well, there's no point in just the 
-two of us standing there.
-Let's go and look around the lodge.");
+    MsgDisp("Hiiragi","I'm the same. Well, there's no point in
+just the two of us standing there. Let's
+go and look around the lodge.");
     MsgDateResultDisp();
     break ;
     case 2:

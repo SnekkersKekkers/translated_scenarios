@@ -15,8 +15,8 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
 VoicePlay("G020110304_01_020");
-MsgDisp("Kazama","But a quiet Night Parade...... Yeah, I
-like it.");
+MsgDisp("Kazama","But a quiet Night Parade......
+Yeah, I like it.");
 MsgDisp("主人公","I agree.");
 ChEye(1,4);
 ChMouth(1,0);
@@ -63,8 +63,8 @@ ChMotion(1,1);
 VoicePlay("G020110304_01_090");
 MsgDisp("Kazama","So it's actually not quiet at all.
 Everyone's doing everything they can.");
-MsgDisp("主人公","Oh, yeah. They're looking for partners
-after all.");
+MsgDisp("主人公","Oh, yeah.
+They're looking for partners after all.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -79,8 +79,8 @@ VoicePlay("G020110304_01_110");
 MsgDisp("Kazama","The same goes for me. Like how all I think
 about is your delighted face as I pick out
 your birthday presents.");
-MsgDisp("主人公","Yeah, they really make me happy. Thanks
-for everything.");
+MsgDisp("主人公","Yeah, they really make me happy.
+Thanks for everything.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

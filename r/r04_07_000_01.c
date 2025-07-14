@@ -21,8 +21,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,4);
     ChMotion(7,4);
     VoicePlay("R040700001_07_020");
-    MsgDisp("Mikage","You must be the reason why so
-many guys here are nervous, right?");
+    MsgDisp("Mikage","You must be the reason why so many guys
+here are nervous, right?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0,1);
@@ -36,30 +36,30 @@ Thank you very much.");
     ChMouth(7,0);
     ChMotion(7,2,1);
     VoicePlay("R040700001_07_040");
-    MsgDisp("Mikage","But I wouldn't eat anything if I
-wore a dress like that.");
+    MsgDisp("Mikage","But I wouldn't eat anything if I wore a
+dress like that.");
     MsgDisp("主人公","You think so?
 I would still eat a lot.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("R040700001_07_050");
-    MsgDisp("Mikage","Haha, my bad. Was it
-unnecessary for me to worry?");
+    MsgDisp("Mikage","Haha, my bad.
+Was it unnecessary for me to worry?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0,1);
     VoicePlay("R040700001_07_060");
-    MsgDisp("Mikage","You're so beautiful, don't
-you feel like a princess?");
+    MsgDisp("Mikage","You're so beautiful, don't you feel like a
+princess?");
     MsgDisp("主人公","Come on, stop teasing me.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("R040700001_07_070");
     MsgDisp("Mikage","I'm being serious...
-Because I'm usually kidding around,
-I guess I don't sound serious.");
+Because I'm usually kidding around, I
+guess I don't sound serious.");
     MsgDisp("主人公","Hehe, thank you very much.");
     break ;
     case 4:
@@ -84,16 +84,15 @@ on a stage.");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("R040700001_07_100");
-    MsgDisp("Mikage","Hey, even if I am a bit of an
-airhead, I wouldn't lie.");
+    MsgDisp("Mikage","Hey, even if I am a bit of an airhead, I
+wouldn't lie.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     ChEyeOpenLevel(7,8);
     VoicePlay("R040700001_07_110");
     MsgDisp("Mikage","It's beautiful.");
-    MsgDisp("主人公","｛御影＊＊｝......
-Thank you very much.");
+    MsgDisp("主人公","｛御影＊＊｝...... Thank you very much.");
     break ;
     default :
     DbgAssert(1);

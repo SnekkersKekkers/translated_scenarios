@@ -20,8 +20,7 @@ Are you really that type?");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040202301_02_020");
-    MsgDisp("Sassa","I didn't know you had that kind of
-hobby.
+    MsgDisp("Sassa","I didn't know you had that kind of hobby.
 That's surprising.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

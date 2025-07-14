@@ -19,8 +19,8 @@ VoicePlay("G020410101_04_020");
 MsgDisp("Nanatsumori","I am listening.
 Your words are always everything to me.");
 VoicePlay("G020410101_04_030");
-MsgDisp("Nanatsumori","Even with all these fireflies, I
-will always listen to you.");
+MsgDisp("Nanatsumori","Even with all these fireflies, I will
+always listen to you.");
 MsgDisp("主人公","I-I see.");
 ChEye(4,0);
 ChMotion(4,0,1);
@@ -33,9 +33,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410101_04_050");
-MsgDisp("Nanatsumori","Sorry, I didn't mean to accuse you
-of anything. Maybe I had too much fun
-and got carried away.");
+MsgDisp("Nanatsumori","Sorry, I didn't mean to accuse you of
+anything. Maybe I had too much fun and got
+carried away.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

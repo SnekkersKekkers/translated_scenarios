@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040710101_07_000");
-MsgDisp("Mikage","If you bring up field trips, 
-this place is unavoidable.
+MsgDisp("Mikage","If you bring up field trips, this place is
+unavoidable.
 Let's get through this together!");
 MsgSel("We'll make new discoveries!","This place is already...","The permanent exhibits are the true thrill of the museum.");
 switch (MsgSelRsltGet()){
@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3);
     VoicePlay("B040710101_07_010");
     MsgDisp("Mikage","That's right.
-Whether we enjoy it or
-not depends on us.");
+Whether we enjoy it or not depends on us.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,9 +28,9 @@ not depends on us.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040710101_07_020");
-    MsgDisp("Mikage","I know. But Vice Principal Himuro
-is the one who threw it in here.
-Please forgive this helpless teacher～");
+    MsgDisp("Mikage","I know. But Vice Principal Himuro is the
+one who threw it in here. Please forgive
+this helpless teacher～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -33,8 +33,9 @@ I'm on the same team as you?");
 Looking forward to it!");
     ChMotion(4,1,1);
     VoicePlay("O040401000_04_020");
-    MsgDisp("Nanatsumori","Ah, aah. ......You, aren't serious about
-this, right?");
+    MsgDisp("Nanatsumori","Ah, aah.
+......You, aren't serious about this,
+right?");
     break ;
     case 4:
     case 5:
@@ -46,16 +47,15 @@ this, right?");
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("O040401000_04_030");
-    MsgDisp("Nanatsumori","｛主人公｝.
-Looks like we're on the same team?");
-    MsgDisp("主人公","｛七ツ森＊｝!
-Looking forward to it!");
+    MsgDisp("Nanatsumori","｛主人公｝. Looks like we're on the
+same team?");
+    MsgDisp("主人公","｛七ツ森＊｝! Looking forward to it!");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("O040401000_04_040");
-    MsgDisp("Nanatsumori","Not sure if I can 
-live up to your expectations, though.");
+    MsgDisp("Nanatsumori","Not sure if I can live up to your
+expectations, though.");
     MsgDisp("主人公","Let's both do our best together?");
     ChEye(4,1);
     ChMouth(4,3);

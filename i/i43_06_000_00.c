@@ -2,11 +2,11 @@ BGOpen("ar200",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","My name is ｛主人公苗字｝.
-It's my pleasure to work here
-starting today.");
+It's my pleasure to work here starting
+today.");
 VoicePlay("I430600000_49_000");
-MsgDisp("Manager","Your shifts are every week
-on Wednesday and Friday.
+MsgDisp("Manager","Your shifts are every week on Wednesday
+and Friday.
 Please do your best.");
 MsgDisp("主人公","Yes, understood.");
 MsgDisp("主人公","(Alright, let's do this!)");
@@ -21,8 +21,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_000");
     MsgDisp("Himuro","......Huh.");
-    MsgDisp("主人公","Hm, ｛氷室＊＊｝∋
-Why are you here?");
+    MsgDisp("主人公","Hm, ｛氷室＊＊｝∋ Why are you here?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -47,8 +46,8 @@ Go do yours, too.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I430600000_06_040");
-    MsgDisp("Himuro","Don't think you can rely on me
-or be spoiled just 'cause I know you.");
+    MsgDisp("Himuro","Don't think you can rely on me or be
+spoiled just 'cause I know you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -65,8 +64,7 @@ Alright, I'll do my best!)");
     ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_050");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","｛氷室＊＊｝∋
-You work here?");
+    MsgDisp("主人公","｛氷室＊＊｝∋ You work here?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -112,8 +110,8 @@ Let's work hard together.");
     ChMotion(6,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("I430600000_06_110");
-    MsgDisp("Himuro","Looking forward to it,
-as long as you don't hold me back.");
+    MsgDisp("Himuro","Looking forward to it, as long as you
+don't hold me back.");
     MsgDisp("主人公","I'll do my best!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -131,8 +129,8 @@ as long as you don't hold me back.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I430600000_06_140");
-    MsgDisp("Himuro","There are lots of places
-you can work, right?");
+    MsgDisp("Himuro","There are lots of places you can work,
+right?");
     MsgDisp("主人公","Um, that's-");
     ChEye(6,0);
     ChMouth(6,0);

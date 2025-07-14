@@ -6,7 +6,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040310300_03_000");
-MsgDisp("Honda","Trichromatic... he's a great artist known 
+MsgDisp("Honda","Trichromatic... he's a great artist known
 to everyone. I wonder what kind of student
 he was when he was at Haba High?");
 MsgSel("Wasn't he an odd person?","It's said he's been beautiful since a long time ago.","Apparently he had a peculiar way of talking");
@@ -26,8 +26,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040310300_03_020");
-    MsgDisp("Honda","Yep yep. I just saw a recent picture of
-him, and he was surrounded by roses!");
+    MsgDisp("Honda","Yep yep.
+I just saw a recent picture of him, and he
+was surrounded by roses!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,8 +40,8 @@ him, and he was surrounded by roses!");
     ChMotion(3,0);
     VoicePlay("B040310300_03_030");
     MsgDisp("Honda","Yeah, I saw an interview video of his.
-I was surprised that he
-called his Mom, \"Mommy\" though.");
+I was surprised that he called his Mom,
+\"Mommy\" though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

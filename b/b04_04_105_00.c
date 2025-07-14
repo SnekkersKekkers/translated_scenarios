@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040410500_04_010");
     MsgDisp("Nanatsumori","I get it.
-It's important to sharpen your senses
-when you come across something nice.");
+It's important to sharpen your senses when
+you come across something nice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

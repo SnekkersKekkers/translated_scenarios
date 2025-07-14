@@ -15,8 +15,8 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P040100000_01_020");
-MsgDisp("Kazama","The dango, the tea, and your smile
-all get full points from me.");
+MsgDisp("Kazama","The dango, the tea, and your smile all get
+full points from me.");
 MsgDisp("主人公","(I did it, what a great success▼)");
 MsgClose();
 ScrFadeOut(0,0);

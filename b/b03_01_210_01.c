@@ -21,7 +21,8 @@ I wonder what the popular items are?");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B030121001_01_010");
-    MsgDisp("Kazama","What's wrong? Let's go.");
+    MsgDisp("Kazama","What's wrong?
+Let's go.");
     MsgDispSksp(0);
     break ;
     default :

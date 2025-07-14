@@ -30,8 +30,8 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("B330B20600_03_010");
 MsgDisp("Honda","No, no, no Mii-kun.
-The horror movie today wasn't just 
-about sight and sound right?");
+The horror movie today wasn't just about
+sight and sound right?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -70,9 +70,8 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B20600_03_030");
-MsgDisp("Honda","You want't to know?
-But if you watch this movie after
-hearing this, it'll be a lot 
+MsgDisp("Honda","You want't to know? But if you watch this
+movie after hearing this, it'll be a lot
 scarier...will you be okay?");
 MsgDisp("主人公","(I-I don't want to hear it...)");
 MsgClose();

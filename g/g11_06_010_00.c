@@ -1,21 +1,21 @@
 BGOpen("ar200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛氷室＊＊｝, Good work today.
-Do you want to walk partway home together");
+MsgDisp("主人公","｛氷室＊＊｝, good work today.
+Do you want to walk home together?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,35,1,0,0,#1,#1,0,0);
 VoicePlay("G110601000_06_000");
 MsgDisp("Himuro","I'm dropping by the beach today.");
-MsgDisp("主人公","The, I think I'll go too.
+MsgDisp("主人公","I'll come too, then.
 Is that okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_010");
-MsgDisp("Himuro","It's okay but......Ryota-senpai——
-Ah, nevermind.");
+MsgDisp("Himuro","It's okay but......Ryota-senpai—— Ah,
+nevermind.");
 MsgDisp("主人公","(｛風真＊＊｝?)");
 MsgClose();
 MsgClose();
@@ -54,7 +54,7 @@ ChMotion(6,0);
 VoicePlay("G110601000_06_050");
 MsgDisp("Himuro","Well, why don't you do your job properly?
 That way, Ryota-senpai will feel more at
-ease;");
+ease.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -80,8 +80,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110601000_06_090");
-MsgDisp("Himuro","......Geez,
-Why should I be so worried?");
+MsgDisp("Himuro","......Geez.
+What am I so worried for?");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);

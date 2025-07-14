@@ -10,14 +10,14 @@ VoicePlay("B020502000_05_010");
 MsgDisp("Hiiragi","Yes, of course.
 He is a famous person in Habataki City,
 not to mention our senior.");
-MsgDisp("主人公","There are a lot of legends
-about him in Habataki High, too.");
+MsgDisp("主人公","There are a lot of legends about him in
+Habataki High, too.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B020502000_05_020");
-MsgDisp("Hiiragi","Yes. I have heard that
-even though he has become famous, he
-is always watching out for Habataki City.");
+MsgDisp("Hiiragi","Yes. I have heard that even though he has
+become famous, he is always watching out
+for Habataki City.");
 MsgDisp("主人公","Yeah, that makes me happy.");
 ChEye(5,4);
 ChMotion(5,4);
@@ -31,5 +31,5 @@ VoicePlay("B020502000_05_040");
 MsgDisp("Hiiragi","Well, as the chairman of the theater
 company, I can hardly afford to lose, can
 I?");
-MsgDisp("主人公","(｛柊＊＊＊｝
-has gone into chairman mode.)");
+MsgDisp("主人公","(｛柊＊＊＊｝ has gone into chairman
+mode.)");

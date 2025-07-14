@@ -7,6 +7,6 @@ me.");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("D140401059_04_010");
-MsgDisp("Nanatsumori","Do you like pancakes a lot or is
-there another reason you got this? Well,
-I guess this isn't a normal thing.");
+MsgDisp("Nanatsumori","Do you like pancakes a lot or is there
+another reason you got this?
+Well, I guess this isn't a normal thing.");

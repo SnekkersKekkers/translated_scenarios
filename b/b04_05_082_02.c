@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040508202_05_000");
-MsgDisp("Hiiragi","It's been rumoured you can hear the voice 
+MsgDisp("Hiiragi","It's been rumoured you can hear the voice
 of your companion here.
 What do you think of it?");
 MsgSel("Seems interesting!","Might be a bit scary.","I think it's a lie.");
@@ -28,8 +28,8 @@ You have no secrets.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040508202_05_020");
-    MsgDisp("Hiiragi","If I'm speaking honestly,
-it's scary for me too.
+    MsgDisp("Hiiragi","If I'm speaking honestly, it's scary for
+me too.
 Especially if you're my companion?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -46,8 +46,8 @@ Especially if you're my companion?");
         ChMouth(5,2);
         ChMotion(5,0);
         VoicePlay("B040508202_05_030");
-        MsgDisp("Hiiragi","Even if it's not true, 
-I don't think it's a lie either.");
+        MsgDisp("Hiiragi","Even if it's not true, I don't think it's
+a lie either.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -60,17 +60,16 @@ I don't think it's a lie either.");
         MsgDisp("主人公","Eh?");
         ChEye(5,0);
         VoicePlay("B040508202_05_050");
-        MsgDisp("Hiiragi","If you think that, 
-it means you haven't heard
-anything of the sort, right?");
+        MsgDisp("Hiiragi","If you think that, it means you haven't
+heard anything of the sort, right?");
         ChEye(5,4);
         ChMotion(5,1);
         VoicePlay("B040508202_05_060");
-        MsgDisp("Hiiragi","Even though I had not heard it myself, 
-I was anxious thinking my inner
-voice was being talkative.");
-        MsgDisp("主人公","Hehe, 
-｛柊＊＊＊｝ is your inner voice talkative?");
+        MsgDisp("Hiiragi","Even though I had not heard it myself, I
+was anxious thinking my inner voice was
+being talkative.");
+        MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ is your inner voice
+talkative?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040508202_05_070");

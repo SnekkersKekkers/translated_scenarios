@@ -10,4 +10,5 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D140701157_07_010");
 MsgDisp("Mikage","A menu that makes you overcome your
-weakness? How thoughtful.");
+weakness?
+How thoughtful.");

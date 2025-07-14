@@ -9,4 +9,5 @@ ChMouth(4,3);
 ChMotion(4,2);
 VoicePlay("D140401158_04_010");
 MsgDisp("Nanatsumori","Why did you choose this?
-I'm just curious. What a mystery.");
+I'm just curious.
+What a mystery.");

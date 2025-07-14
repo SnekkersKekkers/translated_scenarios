@@ -11,7 +11,8 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("B020502103_05_010");
 MsgDisp("Hiiragi","Your outfit is charming, there can be no
-doubt. However, everything in moderation.");
+doubt.
+However, everything in moderation.");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502103_05_020");

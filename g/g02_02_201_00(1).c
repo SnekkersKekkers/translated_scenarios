@@ -8,8 +8,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220100_02_010");
 MsgDisp("Sassa","Do you think so......
-It's not about beauty,
-they all look so frantically determined.");
+It's not about beauty, they all look so
+frantically determined.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -30,14 +30,15 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220100_02_040");
 MsgDisp("Sassa","Sorry, sorry.
-Don't make that face. 
+Don't make that face.
 I don't want to make it worse.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220100_02_050");
 MsgDisp("Sassa","I still think the finish line is far
-ahead. The real competition starts now.");
+ahead.
+The real competition starts now.");
 MsgDisp("主人公","(｛颯砂＊＊｝......)");
 BGMStop();
 MsgClose();

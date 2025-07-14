@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     ChCheek(4,5);
     VoicePlay("B040406202_04_010");
-    MsgDisp("Nanatsumori","Yeah... for sure.
-I wouldn't know where to look.");
+    MsgDisp("Nanatsumori","Yeah... for sure. I wouldn't know where to
+look.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,8 @@ I wouldn't know where to look.");
     ChMotion(4,1,1);
     VoicePlay("B040406202_04_020");
     MsgDisp("Nanatsumori","Sounds nice.
-If there was a fluffy sofa, 
-I wouldn't move again.");
+If there was a fluffy sofa, I wouldn't
+move again.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -70,10 +70,9 @@ That might be the best.");
         ChMotion(4,2);
         ChEyeOpenLevel(4,7);
         VoicePlay("B040406202_04_060");
-        MsgDisp("Nanatsumori","In the best location, with
-the person you like, all day. Just
-the two of you. I wonder how nice
-it would feel.");
+        MsgDisp("Nanatsumori","In the best location, with the person you
+like, all day. Just the two of you. I
+wonder how nice it would feel.");
         MsgDisp("主人公","That's right.
 The person I like...");
         ChEye(4,0);

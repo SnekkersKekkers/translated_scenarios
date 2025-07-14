@@ -12,36 +12,35 @@ switch (ChPrmGet(3,6)){
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,4,0,#1,#1,0,0);
     VoicePlay("I260300000_03_640");
-    MsgDisp("Honda","We told you that you had a shift
-today, right? It's not like you
-to forget, did something happen?");
+    MsgDisp("Honda","We told you that you had a shift today,
+right? It's not like you to forget, did
+something happen?");
     MsgDisp("主人公","No, it was my mistake.
 I'll come right away.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_650");
-    MsgDisp("Honda","Everyone makes mistakes, so
-I'll look forward to you
-improving in the future.");
+    MsgDisp("Honda","Everyone makes mistakes, so I'll look
+forward to you improving in the future.");
     MsgDisp("主人公","(Haa, I caused trouble for them......
-Like ｛本多＊＊｝ said,
-I'll make sure I improve!)");
+Like ｛本多＊＊｝ said, I'll make sure I
+improve!)");
     break ;
     case 4:
     case 5:
     VoicePlay("I260300000_55_000");
     VoicePlay("I260300006_33_000");
-    MsgDisp("Male Customer","Huh, you don't have it
-even though I reserved it?");
+    MsgDisp("Male Customer","Huh, you don't have it even though I
+reserved it?");
     MsgDisp("主人公","My apologies!");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_660");
     MsgDisp("Honda","What happened?");
-    MsgDisp("主人公","I gave the item they ordered
-to someone else by accident......");
+    MsgDisp("主人公","I gave the item they ordered to someone
+else by accident......");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -65,8 +64,8 @@ I'll go check in the back.");
     ChOpen(3,35,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(3,0,1);
-    MsgDisp("主人公","I apologize for taking up
-so much of your time!");
+    MsgDisp("主人公","I apologize for taking up so much of your
+time!");
     VoicePlay("I260300000_55_010");
     VoicePlay("I260300006_33_010");
     MsgDisp("Male Customer","It's fine.
@@ -96,26 +95,26 @@ I'm sorry......");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_720");
-    MsgDisp("Honda","Then, here! Take this.");
+    MsgDisp("Honda","Then, here!
+Take this.");
     MsgDisp("主人公","Hm...... canned coffee?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_730");
-    MsgDisp("Honda","Yeah.
-One of caffeine's effects is clearing
-a foggy mind.");
+    MsgDisp("Honda","Yeah. One of caffeine's effects is
+clearing a foggy mind.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_740");
-    MsgDisp("Honda","Take a break while you can
-and go clear your mind!
+    MsgDisp("Honda","Take a break while you can and go clear
+your mind!
 ......Got it?");
     MsgDisp("主人公","Yeah, thanks.");
     MsgDisp("主人公","(I caused trouble for ｛本多＊＊｝......
-I'll have to make sure not to make
-this mistake again!)");
+I'll have to make sure not to make this
+mistake again!)");
     break ;
     default :
     DbgAssert(1);

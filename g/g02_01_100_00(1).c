@@ -58,12 +58,11 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110000_01_070");
-MsgDisp("Kazama","......But somehow, 
-we were still the same as when we were
-both small elementary school students.");
+MsgDisp("Kazama","......But somehow, we were still the same
+as when we were both small elementary
+school students.");
 MsgDisp("主人公","Hehe");
-MsgDisp("主人公","(｛風真＊＊｝,
-has dreams about me......)");
+MsgDisp("主人公","(｛風真＊＊｝, has dreams about me......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

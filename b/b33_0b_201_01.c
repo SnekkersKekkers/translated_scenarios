@@ -17,22 +17,22 @@ ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B330B20101_04_000");
 MsgDisp("Nanatsumori","This place...
-is filled with some pretty 
-grotesque creatures.");
+is filled with some pretty grotesque
+creatures.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B20101_03_000");
-MsgDisp("Honda","That's right. Deep sea fish are 
-different to the fish we normally see 
-since they've evolved in a unique way 
-at the bottom of the ocean.");
+MsgDisp("Honda","That's right. Deep sea fish are different
+to the fish we normally see since they've
+evolved in a unique way at the bottom of
+the ocean.");
 ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20101_04_010");
-MsgDisp("Nanatsumori","That means deep sea fish
-are fish too right?
+MsgDisp("Nanatsumori","That means deep sea fish are fish too
+right?
 Does that mean you could eat them?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -43,8 +43,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B20101_01_000");
-MsgDisp("Kazama","Angler, blackthroat seaperch and 
-kichiji, right?");
+MsgDisp("Kazama","Angler, blackthroat seaperch and kichiji,
+right?");
 ChEyeOpenLevel(1,0);
 ChEye(3,3);
 ChMouth(3,3);
@@ -63,16 +63,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20101_03_030");
-MsgDisp("Honda","At the fresh fish corner have
-you ever seen a fish with a round 
-thing poking out of it's mouth?");
+MsgDisp("Honda","At the fresh fish corner have you ever
+seen a fish with a round thing poking out
+of it's mouth?");
 ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20101_04_030");
 MsgDisp("Nanatsumori","That's it!
-Something like bubblegum
-was coming out of it.");
+Something like bubblegum was coming out of
+it.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -83,9 +83,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B20101_01_010");
-MsgDisp("Kazama","Deep sea fish are delicious, 
-but when you see them like that, 
-it's a bit sad.");
+MsgDisp("Kazama","Deep sea fish are delicious, but when you
+see them like that, it's a bit sad.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -93,10 +92,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B330B20101_03_050");
 MsgDisp("Honda","Yeah.
 But, they're seriously delicious!");
-MsgDisp("主人公","(Hmm.
-Talking about eating deep sea 
-fish at the deep sea
-corner is a bit...)");
+MsgDisp("主人公","(Hmm. Talking about eating deep sea fish
+at the deep sea corner is a bit...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

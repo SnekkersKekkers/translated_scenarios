@@ -45,8 +45,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710001_07_060");
-MsgDisp("Mikage","Or rather, I'd only come here with you, 
-I guess?");
+MsgDisp("Mikage","Or rather, I'd only come here with you, I
+guess?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,4);
@@ -54,9 +54,9 @@ VoicePlay("G020710001_07_070");
 MsgDisp("Mikage","Ah, that was just, well, in the heat of
 the moment. Forget about it. That's
 strange......what am I even saying.");
-MsgDisp("主人公","(Only me? Just now, if that was
-｛御影＊＊｝'s inner voice, I'd be
-happy......)");
+MsgDisp("主人公","(Only me?
+Just now, if that was ｛御影＊＊｝'s
+inner voice, I'd be happy......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

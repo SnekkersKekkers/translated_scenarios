@@ -62,23 +62,24 @@ There are many places I would like to go.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040202202_02_060");
-        MsgDisp("Sassa","I want to go to many different
-places with you. Whether they're places
-I like or don't like, it doesn't matter.
+        MsgDisp("Sassa","I want to go to many different places with
+you. Whether they're places I like or
+don't like, it doesn't matter.
 ......That's the truth.");
-        MsgDisp("主人公","I see. That makes me happy.");
+        MsgDisp("主人公","I see.
+That makes me happy.");
         ChEye(2,4);
         ChMouth(2,4);
         ChMotion(2,0);
         ChCheek(2,10);
         VoicePlay("B040202202_02_070");
-        MsgDisp("Sassa","This way I can see many
-different sides of you, right?
+        MsgDisp("Sassa","This way I can see many different sides of
+you, right?
 Ah, I don't mean that in a weird way.");
         MsgDisp("主人公","Hehe, I think I understand?");
-        MsgDisp("主人公","(I hope ｛颯砂＊＊｝ and
-I can continue going to many different
-places in the future.)");
+        MsgDisp("主人公","(I hope ｛颯砂＊＊｝ and I can continue
+going to many different places in the
+future.)");
         break ;
         default :
         DbgAssert(1);

@@ -17,8 +17,7 @@ You looked really into it.");
     MsgClose();
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! I won!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -33,26 +32,24 @@ I was trying my hardest.");
     ChMotion(1,3);
     VoicePlay("O020100000_01_020");
     MsgDisp("Kazama","I see, my bad.
-But you know, it was nice seeing you
-cling to the rope like a kitten.");
-    MsgDisp("主人公","(Geez. I just won, but it
-doesn't feel like he's praising me
-at all......)");
+But you know, it was nice seeing you cling
+to the rope like a kitten.");
+    MsgDisp("主人公","(Geez. I just won, but it doesn't feel
+like he's praising me at all......)");
     break ;
     case 4:
     case 5:
     MsgClose();
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! I won!");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("O020100000_01_030");
     MsgDisp("Kazama","Congrats, I was watching.
-You know, it kinda made me feel
-powerful, too.");
+You know, it kinda made me feel powerful,
+too.");
     MsgDisp("主人公","Hehe, my hands hurt a little, too.");
     MsgClose();
     SEPlay("EV_SE_628");
@@ -75,9 +72,9 @@ You must have gotten some rope burn.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("O020100000_01_060");
-    MsgDisp("Kazama","Hm, next is the folk dance......
-Maybe you should rest? You might get
-germs from holding hands with other guys.");
+    MsgDisp("Kazama","Hm, next is the folk dance...... Maybe you
+should rest? You might get germs from
+holding hands with other guys.");
     MsgDisp("主人公","(I'm glad I won the tug of war!
 But I think I made ｛風真＊＊｝ worry.)");
     break ;

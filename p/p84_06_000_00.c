@@ -7,8 +7,8 @@ ChOpen(6,254,3,0,0,#1,#1,0,0);
 VoicePlay("P840600000_06_000");
 MsgDisp("Himuro","Your dexterity is good.");
 MsgDisp("主人公","Eheh, thank you.");
-MsgDisp("主人公","Here's your tea,
-sorry to have kept you waitingー!");
+MsgDisp("主人公","Here's your tea, sorry to have kept you
+waitingー!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -35,8 +35,7 @@ ChMotion(6,3);
 VoicePlay("P840600000_06_030");
 MsgDisp("Himuro","You're fully motivated huh.
 As expected.");
-MsgDisp("主人公","(Yay!
-I was praised by ｛氷室＊＊｝!)");
+MsgDisp("主人公","(Yay! I was praised by ｛氷室＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

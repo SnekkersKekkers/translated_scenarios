@@ -16,9 +16,8 @@ VoicePlay("T020611000_06_170");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","I've known all along.
-So... I'm the one who's sorry.
-I hurt you.");
+MsgDisp("Himuro","I've known all along. So... I'm the one
+who's sorry. I hurt you.");
 MsgDisp("主人公","No, that's not...");
 VoicePlay("T020611000_06_180");
 ChEye(6,2);
@@ -29,10 +28,9 @@ VoicePlay("T020611000_06_190");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,0);
-MsgDisp("Himuro","
-Thanks to your help though, I could
-reset myself. I went back to who I was
-before we met.");
+MsgDisp("Himuro","Thanks to your help though, I could reset
+myself.
+I went back to who I was before we met.");
 VoicePlay("T020611000_06_200");
 ChEye(6,4);
 ChMouth(6,3);
@@ -42,17 +40,16 @@ VoicePlay("T020611000_06_210");
 ChEye(6,4);
 ChMouth(6,0);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","
-Though it seems that I won't be coming
-to this sea for a while now...");
+MsgDisp("Himuro","Though it seems that I won't be coming to
+this sea for a while now...");
 MsgDisp("主人公","｛氷室＊＊｝......");
 VoiceEVSPlay(6);
 VoicePlay("T020611000_06_220");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","｛主人公｝,
-congratulations on your graduation.");
+MsgDisp("Himuro","｛主人公｝, congratulations on your
+graduation.");
 VoicePlay("T020611000_06_230");
 ChEye(6,2);
 ChMouth(6,3);

@@ -1,7 +1,7 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","(Oh, it's from ｛御影＊＊｝!)");
+MsgDisp("主人公","(Oh, it's from ｛御影＊＊｝! )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -12,7 +12,8 @@ VoicePlay("J040700001_07_010");
 MsgDisp("Mikage","So.
 You know......");
 MsgDisp("主人公","(Maybe there is a place you want to
-go...... What shall we do?)");
+go......
+What shall we do?)");
 MsgSel("I'd like to go out this Sunday.", "I'm busy that day......");
 switch (MsgSelRsltGet()){
     case 0:

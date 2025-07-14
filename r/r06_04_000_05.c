@@ -8,9 +8,8 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,3);
     ChMotion(4,1);
     VoicePlay("R060400005_04_000");
-    MsgDisp("Nanatsumori","Hmm.
-This makes me a little happy.
-Thank you.");
+    MsgDisp("Nanatsumori","Hmm. This makes me a little happy. Thank
+you.");
     MsgDisp("主人公","(He seems really happy
 with my gift!)");
     break ;

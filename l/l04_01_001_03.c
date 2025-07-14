@@ -4,8 +4,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("L040100103_01_000");
 MsgDisp("Kazama","Thank you.
-I hope you're not just giving this
-to me because you made too much.");
+I hope you're not just giving this to me
+because you made too much.");
 MsgClose();
 BGMStop();
 MsgClose();

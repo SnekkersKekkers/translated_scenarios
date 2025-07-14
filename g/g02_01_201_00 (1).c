@@ -7,15 +7,16 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020120100_01_010");
-MsgDisp("Kazama","No, not 'Huh?'. I'm talking about you.");
+MsgDisp("Kazama","No, not 'Huh?'.
+I'm talking about you.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_020");
-MsgDisp("Kazama","You're all that I look at. But I'm sure
-I've spied with my little eye people who
-aren't me near you.");
+MsgDisp("Kazama","You're all that I look at.
+But I'm sure I've spied with my little eye
+people who aren't me near you.");
 MsgDisp("主人公","Um......");
 ChEye(1,2);
 ChMouth(1,0);
@@ -36,9 +37,9 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,0,1);
 VoicePlay("G020120100_01_050");
-MsgDisp("Kazama","I've known that for a while. You like
-pretty things, and you're always looking
-for something fun to do.");
+MsgDisp("Kazama","I've known that for a while.
+You like pretty things, and you're always
+looking for something fun to do.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

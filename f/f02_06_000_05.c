@@ -32,11 +32,10 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600005_06_030");
-MsgDisp("Himuro","I'm just a person who really likes to
-get things done ahead of
-time, that's what.");
-MsgDisp("主人公","Do you finish your tests ahead of
-time, too?");
+MsgDisp("Himuro","I'm just a person who really likes to get
+things done ahead of time, that's what.");
+MsgDisp("主人公","Do you finish your tests ahead of time,
+too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -49,8 +48,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600005_06_050");
 MsgDisp("Himuro","If I could, I'd want to finish all three
-years of classes and exams ahead of
-time.");
+years of classes and exams ahead of time.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

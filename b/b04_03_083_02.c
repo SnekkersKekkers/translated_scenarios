@@ -5,8 +5,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040308302_03_000");
-MsgDisp("Honda","Doesn't the air temperature
-here feel two times cooler?");
+MsgDisp("Honda","Doesn't the air temperature here feel two
+times cooler?");
 MsgSel("Seems like the fireflies are also comfortable with it","It's a mysterious spot","Maybe it's thanks to the spring water?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,11 +30,11 @@ switch (MsgSelRsltGet()){
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040308302_03_020");
-        MsgDisp("Honda","Yeah, the fireflies in the daytime
-take their time to rest so 
-they can preserve their energy.");
-        MsgDisp("主人公","Shining and flying around
-at night must be tough huh.");
+        MsgDisp("Honda","Yeah, the fireflies in the daytime take
+their time to rest so they can preserve
+their energy.");
+        MsgDisp("主人公","Shining and flying around at night must be
+tough huh.");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,3);
@@ -57,8 +57,8 @@ up with some amazing strategies huh?");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308302_03_050");
         MsgDisp("Honda","If I were a firefly, I'd go for a front
-attack! I'd fly around flashily in front
-of you.");
+attack!
+I'd fly around flashily in front of you.");
         MsgDisp("主人公","Ummm...
 This is if I were a firefly too?");
         ChEye(3,0);
@@ -67,10 +67,10 @@ This is if I were a firefly too?");
         ChEyeOpenLevel(3,10);
         VoicePlay("B040308302_03_060");
         MsgDisp("Honda","Yep yep!
-Even if you were a firefly, 
-I'm sure I'd find you right away!");
-        MsgDisp("主人公","(I'm sure I'd find ｛本多＊＊｝
-as a firefly right away too.)");
+Even if you were a firefly, I'm sure I'd
+find you right away!");
+        MsgDisp("主人公","(I'm sure I'd find ｛本多＊＊｝ as a
+firefly right away too.)");
         break ;
         default :
         DbgAssert(1);
@@ -96,8 +96,8 @@ I think I'm getting the chills a bit.");
     ChMotion(3,1);
     VoicePlay("B040308302_03_080");
     MsgDisp("Honda","That's right.
-Thanks to the spring water, 
-the water temperature is low.");
+Thanks to the spring water, the water
+temperature is low.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

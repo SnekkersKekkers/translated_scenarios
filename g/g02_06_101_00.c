@@ -23,8 +23,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610100_06_030");
-MsgDisp("Himuro","They shine desperately to catch 
-the eye of the one they like.");
+MsgDisp("Himuro","They shine desperately to catch the eye of
+the one they like.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -50,15 +50,15 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020610100_06_070");
-MsgDisp("Himuro","Just remember, even if it looks graceful, 
+MsgDisp("Himuro","Just remember, even if it looks graceful,
 it might be a fierce competition.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("G020610100_06_080");
 MsgDisp("Himuro","Not just the fireflies, but us too.");
-MsgDisp("主人公","(I feel like I just heard something
-really significant......?)");
+MsgDisp("主人公","(I feel like I just heard something really
+significant......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

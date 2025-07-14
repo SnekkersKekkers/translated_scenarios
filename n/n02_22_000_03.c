@@ -10,8 +10,7 @@ ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("N022200003_22_010");
 MsgDisp("Hikaru","Having your name all the way at the bottom
-must be depressing.
-Sigh...");
+must be depressing. Sigh...");
 MsgDisp("主人公","(Oof...
 I have to study harder...)");
 MsgClose();

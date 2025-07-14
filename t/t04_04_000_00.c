@@ -34,8 +34,8 @@ times I propose!");
 MsgDisp("主人公","Eh?");
 VoicePlay("T040400000_04_050");
 MsgDisp("Nanatsumori","Because, isn't that right?
-There's no limit to the number of 
-times you can pledge your love.");
+There's no limit to the number of times
+you can pledge your love.");
 NSSEye(4,3);
 NSSMouth(4,3);
 NSSEyeOpenLevel(4,10);

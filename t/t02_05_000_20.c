@@ -10,9 +10,10 @@ MsgDisp("Hiiragi","｛主人公｝.");
 ChMotion(5,4);
 Wait(16,0);
 VoicePlay("T020500020_05_010");
-MsgDisp("Hiiragi","I can see you smiling right now. Is that
-right?");
-MsgDisp("主人公","Hehe, yes. I'm smiling. ");
+MsgDisp("Hiiragi","I can see you smiling right now.
+Is that right?");
+MsgDisp("主人公","Hehe, yes.
+I'm smiling.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);

@@ -1,5 +1,5 @@
-MsgDisp("主人公","Do you have any dreams 
-for the future, ｛ひかる＊｝?");
+MsgDisp("主人公","Do you have any dreams for the future,
+｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -24,23 +24,23 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_320");
-MsgDisp("Hikaru","I want to put my talents to good use, 
-there's lots of things I can do right 
-now, so I want to use any one of
-them for my future.");
+MsgDisp("Hikaru","I want to put my talents to good use,
+there's lots of things I can do right now,
+so I want to use any one of them for my
+future.");
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_330");
-MsgDisp("Hikaru","That's why, I don't want to think of
-just one thing for my dream, I want
-to do everything I can.");
+MsgDisp("Hikaru","That's why, I don't want to think of just
+one thing for my dream, I want to do
+everything I can.");
 MsgDisp("主人公","That's amazing...!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_340");
 MsgDisp("Hikaru","Ehe▼");
-MsgDisp("主人公","(｛ひかる＊｝ is very talented after all.
-It's good to have lots of different 
+MsgDisp("主人公","(｛ひかる＊｝ is very talented after
+all. It's good to have lots of different
 dreams for the future.)");
 BGMStop();
 MsgClose();

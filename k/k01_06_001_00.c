@@ -32,7 +32,8 @@ Do you want to open it now?");
     MsgDisp("Himuro","Ah, it's you.
 What?");
     MsgDisp("主人公","It's your birthday, right?
-So, here. Your present.");
+So, here.
+Your present.");
     SEPlay("EV_SE_664");
     SEWait();
     ChEye(6,0);

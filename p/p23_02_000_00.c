@@ -18,8 +18,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,38,3,3,3,0,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P230200000_02_000");
-    MsgDisp("Sassa","｛主人公｝,
-That outfit is nice.");
+    MsgDisp("Sassa","｛主人公｝, That outfit is nice.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","｛颯砂＊＊｝ also looks like the King of
@@ -28,8 +27,9 @@ the Underworld.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P230200000_02_010");
-    MsgDisp("Sassa","Is that right? But I definitely understand
-Hades' feelings.");
+    MsgDisp("Sassa","Is that right?
+But I definitely understand Hades'
+feelings.");
     MsgDisp("主人公","Really?");
     ChEye(2,0);
     ChMouth(2,4);

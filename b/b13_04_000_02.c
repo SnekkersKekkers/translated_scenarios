@@ -9,8 +9,8 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("B130400002_04_010");
-MsgDisp("Nanatsumori","...I'm a bit annoyed when 
-others look at your legs though.");
+MsgDisp("Nanatsumori","...I'm a bit annoyed when others look at
+your legs though.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0);

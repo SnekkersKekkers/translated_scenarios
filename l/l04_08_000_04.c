@@ -71,27 +71,25 @@ Really, thanks, ｛主人公｝.");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("L040800004_08_080");
-    MsgDisp("Shirahane","Looks so good, I wanna
-eat it right now......");
+    MsgDisp("Shirahane","Looks so good, I wanna eat it right
+now......");
     ChEye(8,4);
     ChMouth(8,0);
     ChMotion(8,4,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800004_08_090");
-    MsgDisp("Shirahane","Hmm.
-But I'd need to eat it all.
-What a pickle......");
+    MsgDisp("Shirahane","Hmm. But I'd need to eat it all. What a
+pickle......");
     ChEyeOpenLevel(8,#1);
-    MsgDisp("主人公","Hehe.
-But it can go bad,
-so eat it quick, okay?");
+    MsgDisp("主人公","Hehe. But it can go bad, so eat it quick,
+okay?");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,1,1);
     VoicePlay("L040800004_08_100");
     MsgDisp("Shirahane","That's true!
-Then, I'll need to go braggin'
-to everyone first!");
+Then, I'll need to go braggin' to everyone
+first!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     BGMStop();

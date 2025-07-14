@@ -37,8 +37,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("K020101100_01_040");
 MsgDisp("Kazama","That's good.
-I was just having fun hiding the
-present from you.");
+I was just having fun hiding the present
+from you.");
 MsgDisp("主人公","Hehe, so that's what it was.");
 ChEye(1,2);
 ChMouth(1,3);
@@ -55,8 +55,8 @@ MsgDisp("Kazama","Well, see you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(Thanks to ｛風真＊＊｝,
-my birthday was great.
+MsgDisp("主人公","(Thanks to ｛風真＊＊｝, my birthday was
+great.
 Thank you......!)");
 MsgClose();
 ScrFadeOut(0,0);

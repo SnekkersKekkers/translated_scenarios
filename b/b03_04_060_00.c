@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
-MsgDisp("主人公","After we change our clothes,
-should we meet back up here?");
+MsgDisp("主人公","After we change our clothes, should we
+meet back up here?");
 ChEyeOpenLevel(4,#1);
 VoicePlay("B030406000_04_000");
 MsgDisp("Nanatsumori","Okaaay...");

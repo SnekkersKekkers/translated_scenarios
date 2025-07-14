@@ -7,8 +7,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040409002_04_000");
 MsgDisp("Nanatsumori","It's missing some impact...
-It would be good for them to 
-do a flashy event.");
+It would be good for them to do a flashy
+event.");
 MsgSel("I think it's fine as it is though...","｛七ツ森＊｝ should produce it!","Like setting off some huge fireworks?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040409002_04_010");
-        MsgDisp("Nanatsumori","Ah-, well I guess they still have
-some visitors that think that.");
+        MsgDisp("Nanatsumori","Ah-, well I guess they still have some
+visitors that think that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -53,8 +53,8 @@ lively changes all the more interesting.");
         ChMouth(4,0);
         ChMotion(4,2,1);
         VoicePlay("B040409002_04_050");
-        MsgDisp("Nanatsumori","Maybe it's my own ego that forces
-changes that are not wanted.");
+        MsgDisp("Nanatsumori","Maybe it's my own ego that forces changes
+that are not wanted.");
         MsgDisp("主人公","that's not...");
         ChEye(4,0);
         ChMouth(4,4);
@@ -67,22 +67,20 @@ Thank you, as always.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040409002_04_070");
-        MsgDisp("Nanatsumori","When I'm with you, I begin to
-notice my own egotistic side.");
+        MsgDisp("Nanatsumori","When I'm with you, I begin to notice my
+own egotistic side.");
         ChMotion(4,3,1);
         VoicePlay("B040409002_04_080");
-        MsgDisp("Nanatsumori","That's why, you should continue to not 
+        MsgDisp("Nanatsumori","That's why, you should continue to not
 hold back what you think.");
         MsgDisp("主人公","What I think...");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040409002_04_090");
-        MsgDisp("Nanatsumori","Right.
-Without hesitation.
-Say what's on your mind.");
-        MsgDisp("主人公","｛七ツ森＊｝......
-yeah, got it!");
+        MsgDisp("Nanatsumori","Right. Without hesitation. Say what's on
+your mind.");
+        MsgDisp("主人公","｛七ツ森＊｝...... yeah, got it!");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -102,8 +100,8 @@ fighting, let's enjoy that too, okay?");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040409002_04_110");
-    MsgDisp("Nanatsumori","No, I don't know much
-about botanical gardens.
+    MsgDisp("Nanatsumori","No, I don't know much about botanical
+gardens.
 I don't think I can do it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

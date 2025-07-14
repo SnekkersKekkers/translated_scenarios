@@ -13,7 +13,8 @@ ChEye(3,0);
 ChMouth(3,0);
 VoicePlay("G020310200_03_020");
 MsgDisp("Honda","Actually, my sister asked me this question
-yesterday. I talk about you a lot.");
+yesterday.
+I talk about you a lot.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -27,14 +28,14 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310200_03_040");
 MsgDisp("Honda","But after she asked, I realized I don't
-want things to stay the same. I want to
-get closer to you.");
+want things to stay the same.
+I want to get closer to you.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310200_03_050");
-MsgDisp("Honda","You know that phrase, 
-\"more than friends, less than lovers\"? 
+MsgDisp("Honda","You know that phrase, \"more than friends,
+less than lovers\"?
 I want to take a step beyond that......");
 ChEye(3,4);
 ChMouth(3,4);
@@ -46,15 +47,16 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020310200_03_070");
-MsgDisp("Honda","Ahー, don't laugh! I'm still in the middle
-of figuring it out myself.");
+MsgDisp("Honda","Ahー, don't laugh!
+I'm still in the middle of figuring it out
+myself.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("G020310200_03_080");
-MsgDisp("Honda","But honestly, I'd be really happy 
-if we could take our relationship 
-to a new level!");
+MsgDisp("Honda","But honestly, I'd be really happy if we
+could take our relationship to a new
+level!");
 MsgDisp("主人公","Yeah, thanks ｛本多＊＊｝.");
 MsgDisp("主人公","(I see, that's what ｛本多＊＊｝ is
 thinking about......)");

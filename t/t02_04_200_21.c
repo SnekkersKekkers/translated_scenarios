@@ -19,8 +19,8 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_200");
-MsgDisp("Nanatsumori","I mean, 
-my first kiss was stolen from me......");
+MsgDisp("Nanatsumori","I mean, my first kiss was stolen from
+me......");
 MsgDisp("主人公","Already.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -33,7 +33,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_220");
-MsgDisp("Nanatsumori","Haha, no. 
+MsgDisp("Nanatsumori","Haha, no.
 Let's fix that!");
 BGMStop(2.8);
 MsgClear();
@@ -44,8 +44,8 @@ StlOpen("ev_04_17");
 ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("T020420000_04_230");
-MsgDisp("Nanatsumori","｛主人公｝......
-I love you, seriously......");
+MsgDisp("Nanatsumori","｛主人公｝...... I love you,
+seriously......");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

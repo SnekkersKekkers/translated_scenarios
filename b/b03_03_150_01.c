@@ -24,9 +24,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     MsgDispSksp(1,0);
     VoicePlay("B030315000_03_020");
-    MsgDisp("Honda","Alrighty.
-It's easy to play, but hard to master.
-Surprisingly deep, isn't it?");
+    MsgDisp("Honda","Alrighty. It's easy to play, but hard to
+master. Surprisingly deep, isn't it?");
     MsgDispSksp(0);
     break ;
     default :

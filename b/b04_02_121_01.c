@@ -11,7 +11,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040212102_02_000");
 MsgDisp("Sassa","This silver ring is cool.");
-MsgSel("It really suits you","It looks expensive...","It doesn't suit｛颯砂＊＊｝'s image.'");
+MsgSel("It really suits you.","It looks expensive...","It doesn't suit ｛颯砂＊＊｝'s image.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0,1);
     VoicePlay("B040212102_02_020");
-    MsgDisp("Sassa","There are expensive things
-in places like this too huh...");
+    MsgDisp("Sassa","There are expensive things in places like
+this too huh...");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -42,8 +42,8 @@ in places like this too huh...");
     ChEyeOpenLevel(2,8);
     VoicePlay("B040212102_02_030");
     MsgDisp("Sassa","Yes yes.
-I'm aware of that, but did you 
-have to be so blunt about it? ");
+I'm aware of that, but did you have to be
+so blunt about it?");
     MsgDateResultDisp();
     break ;
     default :

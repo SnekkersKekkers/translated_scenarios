@@ -35,8 +35,8 @@ I hate it when it's this hot.");
     ChMotion(4,0,1);
     VoicePlay("B040408300_04_030");
     MsgDisp("Nanatsumori","Let's do that.
-As an apology, I'll treat 
-you to some juice.");
+As an apology, I'll treat you to some
+juice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

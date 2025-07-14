@@ -1,8 +1,8 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew......
-Is it time to head home already?)");
+MsgDisp("主人公","(Phew...... Is it time to head home
+already?)");
 VoicePlay("E010220100_03_000");
 MsgDisp("Honda?","Sakku～n!
 Sakku～n!");
@@ -23,8 +23,8 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("E010220100_03_020");
 MsgDisp("Honda","Oh yeah.
-Earlier, at the transfer gate,
-I saw Sakkun.");
+Earlier, at the transfer gate, I saw
+Sakkun.");
 MsgDisp("主人公","\"Sakkun\", you mean ｛颯砂＊＊｝?
 Did you need anything?");
 ChEye(3,4);
@@ -58,8 +58,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("E010220100_02_020");
-MsgDisp("Sassa","The passerbys were like
-\"Who's that Sakkun person?\".");
+MsgDisp("Sassa","The passerbys were like \"Who's that Sakkun
+person?\".");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -70,9 +70,9 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("E010220100_03_050");
 MsgDisp("Honda","What?");
-MsgDisp("主人公","｛本多＊＊｝ saw you, ｛颯砂＊＊｝, 
-so he thought it wouldn't be nice 
-not to say hello.");
+MsgDisp("主人公","｛本多＊＊｝ saw you, ｛颯砂＊＊｝, so he
+thought it wouldn't be nice not to say
+hello.");
 ChMouth(2,2);
 ChEye(3,0);
 ChMouth(3,3);
@@ -96,8 +96,7 @@ VoicePlay("E010220100_02_060");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
-MsgDisp("Sassa","Yeah, thanks to him, 
-I got to see you!
+MsgDisp("Sassa","Yeah, thanks to him, I got to see you!
 Bye!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -108,11 +107,10 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("E010220100_03_080");
-MsgDisp("Honda","I see.
-I also got to see you thanks to Sakkun 
-today. It's a win-win!");
-MsgDisp("主人公","(Huhu.
-Yeah, we all got to see each other!)");
+MsgDisp("Honda","I see. I also got to see you thanks to
+Sakkun today. It's a win-win!");
+MsgDisp("主人公","(Huhu. Yeah, we all got to see each
+other!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

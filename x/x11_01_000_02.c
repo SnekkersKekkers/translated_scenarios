@@ -11,8 +11,8 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Did you win the practice match?
 I heard it was a beautiful victory.");
     MsgDisp("主人公","Yeah, I did my best!");
-    MsgDisp("主人公","(｛風真＊＊｝ even heard
-about the win. I'm so glad!)");
+    MsgDisp("主人公","(｛風真＊＊｝ even heard about the win.
+I'm so glad!)");
     break ;
     case 4:
     case 5:
@@ -30,8 +30,8 @@ hand, huh.");
     ChEyeOpenLevel(1,8);
     VoicePlay("X110100002_01_020");
     MsgDisp("Kazama","The Judo team won all the practice
-matches, right? You really know how to
-multitask.");
+matches, right?
+You really know how to multitask.");
     MsgDisp("主人公","(｛風真＊＊｝ gave me a compliment!
 Cute and strong......
 I'm really happy!)");

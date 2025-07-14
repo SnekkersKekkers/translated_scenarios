@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040121100_01_010");
-    MsgDisp("Kazama","Oi oi, that's a fail
-video waiting to happen.");
+    MsgDisp("Kazama","Oi oi, that's a fail video waiting to
+happen.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ video waiting to happen.");
     ChMouth(1,0);
     ChMotion(1,1);
     VoicePlay("B040121100_01_020");
-    MsgDisp("Kazama","Apparently you can take pictures
-with baby animals over there.");
+    MsgDisp("Kazama","Apparently you can take pictures with baby
+animals over there.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +40,8 @@ with baby animals over there.");
     ChMotion(1,4);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121100_01_030");
-    MsgDisp("Kazama","Actually, I've never seen a more
-rare animal than you.");
+    MsgDisp("Kazama","Actually, I've never seen a more rare
+animal than you.");
     MsgDispSksp(1,0);
     ChMotion(1,0);
     ChEyeOpenLevel(1,#1);

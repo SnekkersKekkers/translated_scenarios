@@ -24,8 +24,8 @@ See you later.");
     ChMotion(5,0);
     VoicePlay("B060500011_05_020");
     MsgDisp("Hiiragi","Please be careful on your way home.
-I'll think about what we should do
-next time.");
+I'll think about what we should do next
+time.");
     break ;
     default :
     DbgAssert(1);

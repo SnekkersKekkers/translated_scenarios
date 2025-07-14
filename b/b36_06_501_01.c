@@ -18,32 +18,32 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360650101_06_010");
-MsgDisp("Himuro","The two of them were really fawning
-over you today.");
+MsgDisp("Himuro","The two of them were really fawning over
+you today.");
 MsgDisp("主人公","Eh!");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650101_06_020");
-MsgDisp("Himuro","What? You didn't realize it?
-Everyone's eyes were on you.");
+MsgDisp("Himuro","What? You didn't realize it? Everyone's
+eyes were on you.");
 MsgDisp("主人公","I guess......?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650101_06_030");
-MsgDisp("Himuro","You mean you didn't notice
-that I was watching you?");
+MsgDisp("Himuro","You mean you didn't notice that I was
+watching you?");
 MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650101_06_040");
 MsgDisp("Himuro","I was also watching you.
-So I understand what everyone was
-looking at.");
+So I understand what everyone was looking
+at.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -69,7 +69,8 @@ VoicePlay("B360650101_06_080");
 MsgDisp("Himuro","Who are you looking at?
 Is it one of those two?
 Or someone else?");
-MsgDisp("主人公","Right now...... I'm looking at ｛氷室＊＊｝.");
+MsgDisp("主人公","Right now......
+I'm looking at ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

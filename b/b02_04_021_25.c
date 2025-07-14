@@ -12,8 +12,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B020402125_04_010");
-MsgDisp("Nanatsumori","But you're always so good at 
-coordinating outfits, so I got kind of 
-interested.");
+MsgDisp("Nanatsumori","But you're always so good at coordinating
+outfits, so I got kind of interested.");
 MsgDisp("主人公","(Oh, good.
 It seems okay to wear these clothes too.)");

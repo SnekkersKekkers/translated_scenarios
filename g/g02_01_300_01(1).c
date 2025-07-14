@@ -18,10 +18,10 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130001_01_020");
 MsgDisp("Kazama","I'd be fine with just the two of us
-anytime. It's not that I dislike being
-with them.");
-MsgDisp("主人公","Eh? ｛風真＊＊｝, You have lots of fun when
-｛颯砂＊＊｝ and ｛氷室＊＊｝ are there,
+anytime.
+It's not that I dislike being with them.");
+MsgDisp("主人公","Eh? ｛風真＊＊｝, You have lots of fun
+when ｛颯砂＊＊｝ and ｛氷室＊＊｝ are there,
 though?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -34,8 +34,8 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130001_01_040");
-MsgDisp("Kazama","When those guys are there, 
-I'm only with you.
+MsgDisp("Kazama","When those guys are there, I'm only with
+you.
 It's a completely differerent thing.");
 MsgDisp("主人公","Umm......");
 ChEye(1,0);
@@ -55,8 +55,9 @@ ChCheek(1,5);
 Wait(8,0);
 ChMotion(1,1);
 VoicePlay("G020130001_01_060");
-MsgDisp("Kazama","Ah, well that's...... you know, Inori
-teasing me for no reason......");
+MsgDisp("Kazama","Ah, well that's......
+you know, Inori teasing me for no
+reason......");
 ChEye(1,1);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -66,8 +67,8 @@ VoicePlay("G020130001_01_070");
 MsgDisp("Kazama","and Sassa challenging me to arm wrestling,
 calling it a strength test...... Those
 guys are really such brats, so troubling.");
-MsgDisp("主人公","(Hehe.
-In other words, you get along well, huh!)");
+MsgDisp("主人公","(Hehe. In other words, you get along well,
+huh!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

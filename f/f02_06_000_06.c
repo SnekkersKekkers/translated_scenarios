@@ -52,15 +52,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600006_06_060");
-MsgDisp("Himuro","I don't know... but now I think about
-it, I don't think I've ever seen him
-run.");
+MsgDisp("Himuro","I don't know...
+but now I think about it, I don't think
+I've ever seen him run.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600006_06_070");
-MsgDisp("Himuro","Obviously not at school, but not at
-family gatherings, either.");
+MsgDisp("Himuro","Obviously not at school, but not at family
+gatherings, either.");
 MsgDisp("主人公","Well, he definitely wouldn't run in the
 halls. Maybe you'll see him run at the
 sports festival?");
@@ -70,5 +70,5 @@ ChMotion(6,3,1);
 VoicePlay("F020600006_06_080");
 MsgDisp("Himuro","I see...
 I'll see what I can do to make him run.");
-MsgDisp("主人公","(I think his motivations are
-a bit misguided...)");
+MsgDisp("主人公","(I think his motivations are a bit
+misguided...)");

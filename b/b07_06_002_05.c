@@ -18,8 +18,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B070600002_06_330");
-MsgDisp("Himuro","At this point I have no intention
-of expressly saying it. ");
+MsgDisp("Himuro","At this point I have no intention of
+expressly saying it.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -33,12 +33,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_350");
-MsgDisp("Himuro","If you're worried about being 
-the only girl, that's nonsense.
+MsgDisp("Himuro","If you're worried about being the only
+girl, that's nonsense.
 That's all.");
 MsgDisp("主人公","Yeah, thank you.");
 MsgDisp("主人公","(That's ｛氷室＊＊｝'s way of supporting
-me. I'm happy.)");
+me.
+I'm happy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

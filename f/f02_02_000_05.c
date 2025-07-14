@@ -11,9 +11,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200005_02_000");
 MsgDisp("Sassa","That's right.");
-MsgDisp("主人公","Huh?
-｛颯砂＊＊｝, you're very calm
-about it.");
+MsgDisp("主人公","Huh? ｛颯砂＊＊｝, you're very calm about
+it.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -25,9 +24,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F020200005_02_020");
-MsgDisp("Sassa","Well, that's fine. Maybe I'm calm
-because I've already given up. I can
-struggle, but nothing will change much.");
+MsgDisp("Sassa","Well, that's fine. Maybe I'm calm because
+I've already given up. I can struggle, but
+nothing will change much.");
 MsgDisp("主人公","So even the night before, you'll just
 leave things the way they are?");
 ChEye(2,0);
@@ -41,7 +40,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200005_02_040");
-MsgDisp("Sassa","Huh...
-I guess there's not much point in taking
-chances with cramming the night before.");
+MsgDisp("Sassa","Huh... I guess there's not much point in
+taking chances with cramming the night
+before.");
 MsgDisp("主人公","(Well, I think gave him some hope...)");

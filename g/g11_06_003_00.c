@@ -1,7 +1,6 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Are you heading home now?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you heading home now?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,0,0,#1,#1,0,0);

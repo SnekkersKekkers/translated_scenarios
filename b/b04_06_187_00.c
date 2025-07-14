@@ -11,9 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040618700_06_000");
-    MsgDisp("Himuro","Really?
-Wasn't the story progression 
-kind of cheap?");
+    MsgDisp("Himuro","Really? Wasn't the story progression kind
+of cheap?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -23,8 +22,8 @@ kind of cheap?");
     ChMotion(6,0);
     VoicePlay("B040618700_06_010");
     MsgDisp("Himuro","Your rating is too lenient.
-Well, I guess it's better than 
-not enjoying it at all.");
+Well, I guess it's better than not
+enjoying it at all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,10 +34,9 @@ not enjoying it at all.");
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040618700_06_020");
-    MsgDisp("Himuro","Yeah.
-It was disappointing because
-there was no twist. It definitely 
-feels like a miss.");
+    MsgDisp("Himuro","Yeah. It was disappointing because there
+was no twist. It definitely feels like a
+miss.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

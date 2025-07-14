@@ -7,8 +7,8 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040421202_04_000");
-MsgDisp("Nanatsumori","There are bunny-ear headbands and 
-gorilla ears.");
+MsgDisp("Nanatsumori","There are bunny-ear headbands and gorilla
+ears.");
 MsgSel("Seems like you can use them for cosplay!","This sort of thing is for children.","It would be embarrassing to wear them...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -75,19 +75,18 @@ You're so funny.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040421202_04_070");
-        MsgDisp("Nanatsumori","I mean, bunny girls are something
-that guys yearn for?");
+        MsgDisp("Nanatsumori","I mean, bunny girls are something that
+guys yearn for?");
         MsgDisp("主人公","...Pervert.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,2,1);
         ChCheek(4,8);
         VoicePlay("B040421202_04_080");
-        MsgDisp("Nanatsumori","Eh∋
-I didn't say you had to 
-be a full-body bunny.");
-        MsgDisp("主人公","Your eyes are kind of
-serious though, ｛七ツ森＊｝.");
+        MsgDisp("Nanatsumori","Eh∋ I didn't say you had to be a
+full-body bunny.");
+        MsgDisp("主人公","Your eyes are kind of serious though,
+｛七ツ森＊｝.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,0,1);

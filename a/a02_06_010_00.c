@@ -1,6 +1,6 @@
 BGOpen("sc211",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's time for the entrance 
+MsgDisp("主人公","(It's time for the entrance
 ceremony......)");
 MsgDisp("主人公","(......Huh?
 This boy right here......)");
@@ -9,9 +9,9 @@ BGMPlay("BGM_C06_INORI_I",0.01);
 ChOpen(6,254,2,1,1,0,#1,0,0);
 VoicePlay("A020601000_06_000");
 MsgDisp("Himuro?","..................");
-MsgDisp("主人公","(It's the guy who was talking 
-to Vice Principal Himuro in the corridor
-......I think?)");
+MsgDisp("主人公","(It's the guy who was talking to Vice
+Principal Himuro in the corridor ......I
+think?)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -22,17 +22,17 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601000_06_020");
-MsgDisp("Himuro?","If you've got something to ask,
-just do it already.");
+MsgDisp("Himuro?","If you've got something to ask, just do it
+already.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601000_06_030");
 MsgDisp("Himuro?","Or should I ask you first?
-I know exactly what Habataki High 
-students want to ask me.");
-MsgDisp("主人公","? I mean......
-Are you and Vice Principal Himuro——");
+I know exactly what Habataki High students
+want to ask me.");
+MsgDisp("主人公","? I mean...... Are you and Vice Principal
+Himuro——");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
@@ -62,9 +62,9 @@ MsgDisp("主人公","∋");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("A020601000_06_060");
-MsgDisp("Himuro?","I can see it on everyone's face,
-\"What about his name, Himuro?\", or
-\"What's he gotta do with Reiichi-san?\"");
+MsgDisp("Himuro?","I can see it on everyone's face, \"What
+about his name, Himuro?\", or \"What's he
+gotta do with Reiichi-san?\"");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("A020601000_06_070");
@@ -74,9 +74,9 @@ StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("A020601000_06_080");
-MsgDisp("Himuro?","You're gonna ignore my personal 
-identity? Is it so much more important 
-to satisfy your own curiosity?");
+MsgDisp("Himuro?","You're gonna ignore my personal identity?
+Is it so much more important to satisfy
+your own curiosity?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
@@ -91,8 +91,8 @@ SEPlay("EV_SE_552",0,0.8);
 ChOpen(6,254,5,1,0,#1,#1,0,0);
 Wait(60);
 ScrFadeIn(0);
-MsgDisp("主人公","......Um, I said something that
-offended you, didn't I?
+MsgDisp("主人公","......Um, I said something that offended
+you, didn't I?
 ......I'm sorry.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -104,13 +104,12 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("A020601000_06_110");
-MsgDisp("Himuro?","No, I'm sorry too.
-It's our first time meeting and I've 
-already been rude to you, even though 
-you're my senpai.");
+MsgDisp("Himuro?","No, I'm sorry too. It's our first time
+meeting and I've already been rude to you,
+even though you're my senpai.");
 MsgDisp("主人公","No no, that's okay. I'm ｛主人公姓名｝.
-Before anything else, it's nice to 
-meet you, okay?");
+Before anything else, it's nice to meet
+you, okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -135,10 +134,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝......
-Seems like I should stay away from
-bringing up his relationship with
-the vice principal.)");
+MsgDisp("主人公","(｛氷室＊＊｝...... Seems like I should stay
+away from bringing up his relationship
+with the vice principal.)");
 ChPrmTblAdd(6,0);
 MsgClose();
 ScrFadeOut(0);

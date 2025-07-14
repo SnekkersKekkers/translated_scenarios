@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("G020230201_02_000");
-MsgDisp("Sassa","The fireflies' light sure is
-beautiful like this.");
+MsgDisp("Sassa","The fireflies' light sure is beautiful
+like this.");
 MsgDisp("主人公","Yeah......");
 ChEye(2,4);
 ChMouth(2,4);
@@ -24,23 +24,23 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020230201_02_030");
 MsgDisp("Sassa","I'm saying it looks beautiful because I'm
 seeing it with you.");
-MsgDisp("主人公","Y-Yeah. But the fireflies here are always
+MsgDisp("主人公","Y-Yeah.
+But the fireflies here are always
 beautiful?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020230201_02_040");
-MsgDisp("Sassa","Ehhhー?
-I don't know who else
-you've seen it with but.");
+MsgDisp("Sassa","Ehhhー? I don't know who else you've seen
+it with but.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230201_02_050");
 MsgDisp("Sassa","Haa......they look prettier than I
-thought. I really think it's because of
-you.");
+thought.
+I really think it's because of you.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -57,19 +57,19 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230201_02_080");
-MsgDisp("Sassa","Actually, I've been simulating what
-to say to you here since yesterday.");
+MsgDisp("Sassa","Actually, I've been simulating what to say
+to you here since yesterday.");
 MsgDisp("主人公","Hehe, 
 it's like your track training, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020230201_02_090");
-MsgDisp("Sassa","Exactly. Always plan ahead, 
-that's my motto.");
+MsgDisp("Sassa","Exactly. Always plan ahead, that's my
+motto.");
 MsgDisp("主人公","(He's always thinking about so much
-different things for me...... thank
-you, ｛颯砂＊＊｝ )");
+different things for me......
+thank you, ｛颯砂＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

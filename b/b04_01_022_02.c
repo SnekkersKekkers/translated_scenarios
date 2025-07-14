@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040102202_01_010");
-    MsgDisp("Kazama","Alright, anchors aweigh!
-... Don't. Say a word.");
+    MsgDisp("Kazama","Alright, anchors aweigh! ... Don't. Say a
+word.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -93,14 +93,15 @@ Here, come inside.");
         SEPlay("EV_SE_544");
         ChOpen(1,255,0,0,3,#1,#1,0,0,0,30);
         MsgDisp("主人公","I'm sorry.
-This is going to get you soaked,
-so let's go inside.");
+This is going to get you soaked, so let's
+go inside.");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);
         ChCheek(1,10);
         VoicePlay("B040102202_01_080");
-        MsgDisp("Kazama","No, I'm fine. Let's stay like this.");
+        MsgDisp("Kazama","No, I'm fine.
+Let's stay like this.");
         MsgDisp("主人公","(｛風真＊＊｝......)");
         SEStop("EV_SE_759",1);
         SEStop("EV_SE_758",1);

@@ -32,7 +32,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B340A00002_01_000");
 MsgDisp("Kazama","I see.
-That's Inori's schtick huh, being the cute one.");
+That's Inori's schtick huh, being the cute
+one.");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);

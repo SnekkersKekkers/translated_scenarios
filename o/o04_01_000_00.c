@@ -32,11 +32,9 @@ As expected of childhood friends, right?");
     ScrFadeIn(0);
     ChMotion(1,3);
     VoicePlay("O040100000_01_020");
-    MsgDisp("Kazama","Alright!
-Well, just being together
-is a win too, right?");
-    MsgDisp("主人公","(Hehe, we might be a
-good combination.
+    MsgDisp("Kazama","Alright! Well, just being together is a
+win too, right?");
+    MsgDisp("主人公","(Hehe, we might be a good combination.
 I'm glad we won!)");
     break ;
     default :

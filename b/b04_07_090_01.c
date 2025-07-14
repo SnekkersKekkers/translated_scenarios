@@ -5,10 +5,10 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040709001_07_000");
-MsgDisp("Mikage","Is that okay～?
-One sketch of something that catches
-your eye. This is today's assignment.");
-MsgSel("I'll draw a pretty flower!","I'll do｛御影＊＊｝'s hairdo","Would a flying butterfly be okay?");
+MsgDisp("Mikage","Is that okay～? One sketch of something
+that catches your eye. This is today's
+assignment.");
+MsgSel("I'll draw a pretty flower!","I'll sketch ｛御影＊＊｝'s hair!","Would a flying butterfly be okay?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040709001_07_010");
-    MsgDisp("Mikage","I'm looking forwards to seeing
-your taste depending on which one
-you choose.");
+    MsgDisp("Mikage","I'm looking forwards to seeing your taste
+depending on which one you choose.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +37,8 @@ you choose.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040709001_07_030");
-    MsgDisp("Mikage","That's fine but, I would 
-want it to be a plant.");
+    MsgDisp("Mikage","That's fine but, I would want it to be a
+plant.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

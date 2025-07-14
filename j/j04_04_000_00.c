@@ -28,8 +28,8 @@ Are you free?");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("J040400000_04_020");
-        MsgDisp("Nanatsumori","Errands......
-Then I guess I don't have a choice.");
+        MsgDisp("Nanatsumori","Errands...... Then I guess I don't have a
+choice.");
         MsgDisp("主人公","Sorry.");
         ChEye(4,2);
         ChMouth(4,3);

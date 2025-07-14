@@ -4,8 +4,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B030304000_03_000");
-MsgDisp("Honda","It's like I can feel
-everyone's anticipation.
+MsgDisp("Honda","It's like I can feel everyone's
+anticipation.
 Let's go!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();

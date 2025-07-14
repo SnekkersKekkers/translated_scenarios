@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("B040624201_06_000");
-MsgDisp("Himuro","I wonder if negative ions
-are being emitted...");
+MsgDisp("Himuro","I wonder if negative ions are being
+emitted...");
 MsgSel("Take a deep breath!","It's so healing...","Is it from me?");
 switch (MsgSelRsltGet()){
     case 0:

@@ -11,5 +11,4 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 SEWait();
-MsgDisp("主人公","(｛七ツ森＊｝
-looked mad...)");
+MsgDisp("主人公","(｛七ツ森＊｝ looked mad...)");

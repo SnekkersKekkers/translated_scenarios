@@ -17,9 +17,9 @@ VoicePlay("T020801000_08_370");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
-MsgDisp("Shirahane","First love never comes true, huh? Even
-with the help of the lighthouse legend, I
-guess it was impossible.");
+MsgDisp("Shirahane","First love never comes true, huh?
+Even with the help of the lighthouse
+legend, I guess it was impossible.");
 VoicePlay("T020801000_08_380");
 ChEye(8,4);
 ChMouth(8,0);
@@ -27,8 +27,8 @@ ChMotion(8,0,1);
 MsgDisp("Shirahane","But......
 thank you, really.");
 VoicePlay("T020801000_08_390");
-MsgDisp("Shirahane","Thanks to you, 
-my high school life was so fun.");
+MsgDisp("Shirahane","Thanks to you, my high school life was so
+fun.");
 VoicePlay("T020801000_08_400");
 ChEye(8,3);
 ChMouth(8,3);

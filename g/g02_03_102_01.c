@@ -18,21 +18,21 @@ ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020310201_03_030");
 MsgDisp("Honda","But that doesn't mean we're a couple,
-right? ......Is it an ambiguous
-relationship?");
+right?
+......Is it an ambiguous relationship?");
 MsgDisp("主人公","Yeah......seems that way.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310201_03_040");
 MsgDisp("Honda","This relationship feels really comfortable
-to me. Honestly, I hope it continues
-forever.");
+to me.
+Honestly, I hope it continues forever.");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020310201_03_050");
-MsgDisp("Honda","But that would mean we're stuck in this 
+MsgDisp("Honda","But that would mean we're stuck in this
 ambiguous relationship, wouldn't it?");
 ChMouth(3,4);
 ChMotion(3,0);
@@ -43,14 +43,14 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310201_03_070");
-MsgDisp("Honda","It might be hard to answer
-something like that out of the blue");
+MsgDisp("Honda","It might be hard to answer something like
+that out of the blue");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020310201_03_080");
-MsgDisp("Honda","I just said what was on my mind, 
-don't worry about it okay?");
+MsgDisp("Honda","I just said what was on my mind, don't
+worry about it okay?");
 MsgDisp("主人公","Y-Yeah?");
 MsgDisp("主人公","(Does that mean ｛本多＊＊｝ wants our
 current relationship......to change?)");

@@ -5,8 +5,8 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     ChOpen(5,255,4,4,4,#1,#1,0,0);
     VoicePlay("W090500001_05_000");
-    MsgDisp("Hiiragi","I can't ride by myself. So I
-appreciate moments like this.");
+    MsgDisp("Hiiragi","I can't ride by myself.
+So I appreciate moments like this.");
     break ;
     case 3:
     MsgClose();
@@ -26,8 +26,8 @@ new world.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("W090500001_05_030");
-    MsgDisp("Hiiragi","Yeah.
-Especially if I can ride it with you.");
+    MsgDisp("Hiiragi","Yeah. Especially if I can ride it with
+you.");
     break ;
     default :
     DbgAssert(1);

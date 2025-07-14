@@ -15,15 +15,13 @@ switch (ChPrmGet(22,6)){
     ChMotion(22,3,1);
     VoicePlay("F012200007_22_000");
     MsgDisp("Hikaru","Oh, it's Mari.");
-    MsgDisp("主人公","｛ひかる＊｝.
-Are you going home now?");
+    MsgDisp("主人公","｛ひかる＊｝. Are you going home now?");
     ChEye(22,0);
     ChMouth(22,0);
     ChMotion(22,4,1);
     VoicePlay("F012200007_22_010");
-    MsgDisp("Hikaru","Yep!
-Ah, how about Hikaru and Mari go
-home together?");
+    MsgDisp("Hikaru","Yep! Ah, how about Hikaru and Mari go home
+together?");
     break ;
     case 4:
     case 5:
@@ -32,8 +30,7 @@ home together?");
     ChMotion(22,3,1);
     VoicePlay("F012200007_22_020");
     MsgDisp("Hikaru","Found you, Mari!");
-    MsgDisp("主人公","｛ひかる＊｝.
-Are you going home now?");
+    MsgDisp("主人公","｛ひかる＊｝. Are you going home now?");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);
@@ -99,8 +96,8 @@ Then let's take a detour▼");
         ChCheek(22,5);
         VoicePlay("F012200007_22_070");
         MsgDisp("Hikaru","Let's go!
-Hikaru wants to talk with Mari the
-whole time▼");
+Hikaru wants to talk with Mari the whole
+time▼");
         break ;
         default :
         DbgAssert(1);

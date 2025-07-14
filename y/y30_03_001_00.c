@@ -10,8 +10,8 @@ ScrFadeOut(0);
 BGOpen("ad310",0);
 ScrFadeIn(0);
 MsgDisp("","His swirl is lovely today too.
-If I come to the shopping mall, 
-my feet naturally gravitate here.");
+If I come to the shopping mall, my
+feet naturally gravitate here.");
 MsgDisp("","In elementary school, my Mum told me
 about him. Since then, I've often
 comehere by myself to see him.");
@@ -21,10 +21,11 @@ I took someone outside of my family
 here.");
 MsgDisp("","｛主人公苗字｝ ｛主人公名前｝.");
 MsgClear();
-MsgDisp("","She carefully traced the shape 
-of the swirl with her fingers, 
-looking at me, smiling.");
-MsgDisp("","\"A fossil! It's amazing!\" she said.");
+MsgDisp("","She carefully traced the shape of the
+swirl with her fingers, looking at
+me, smiling.");
+MsgDisp("","\"A fossil!
+It's amazing!\" she said.");
 MsgDisp("","When I saw that smile, I felt as if a
 warmth arose within me.");
 MsgClear();
@@ -42,9 +43,9 @@ MsgClear();
 MsgDisp("","I wonder if that when I'm with her,
 would I be able to feel this strange
 feeling in my chest again...");
-MsgDisp("","This is my origin here. Roots.
-But there are so many things
-I like about this town.");
+MsgDisp("","This is my origin here. Roots. But
+there are so many things I like about
+this town.");
 MsgDisp("","I want to tell her all of it.
 Because she listens to me so happily.");
 MsgClear();

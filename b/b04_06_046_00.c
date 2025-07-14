@@ -35,9 +35,8 @@ Maybe you've gotten used to hearing it.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040604600_06_020");
-    MsgDisp("Himuro","I didn't think someone who 
-was nodding off would want 
-to give an evaluation.");
+    MsgDisp("Himuro","I didn't think someone who was nodding off
+would want to give an evaluation.");
     MsgDateResultDisp();
     break ;
     default :

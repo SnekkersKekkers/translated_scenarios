@@ -11,8 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝......
-Why are you here?");
+MsgDisp("主人公","｛本多＊＊｝...... Why are you here?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -49,20 +48,20 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("T020301000_03_060");
 MsgDisp("Honda","In middle school I would frantically
-search through books but...... 
+search through books but......
 I couldn't find anything.");
 ChMouth(3,0);
 VoicePlay("T020301000_03_070");
 MsgDisp("Honda","So, from high school onwards, I started
-looking for it in the outside world. And
-then, finally, I met you.");
+looking for it in the outside world.
+And then, finally, I met you.");
 MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("T020301000_03_080");
-MsgDisp("Honda","The thing I can devote my life to,
-and that's you.
+MsgDisp("Honda","The thing I can devote my life to, and
+that's you.
 I want to study you.");
 MsgDisp("主人公","Eh∋
 You want to study me?");
@@ -104,6 +103,5 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(3,254,1,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020301000_03_130");
-MsgDisp("Honda","Please. My beloved,
-I want you to be by my side.
-Stay by my side forever and ever.");
+MsgDisp("Honda","Please. My beloved, I want you to be by my
+side. Stay by my side forever and ever.");

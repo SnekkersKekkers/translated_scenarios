@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm sure ｛御影＊＊｝ said he would give
-me the handout for the extracurricular
-lesson......)");
+MsgDisp("主人公","(I'm sure ｛御影＊＊｝ said he would
+give me the handout for the
+extracurricular lesson......)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -36,9 +36,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700200_07_020");
-MsgDisp("Mikage","The air in there's bad. Ah, I'm talking
-about the atmosphere, not the air
-conditioning, yeah?");
+MsgDisp("Mikage","The air in there's bad.
+Ah, I'm talking about the atmosphere, not
+the air conditioning, yeah?");
 MsgDisp("主人公","You'll get in trouble for saying things
 like that.");
 ChEye(7,0);
@@ -63,15 +63,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700200_07_050");
-MsgDisp("Mikage","That, I can't let you do. I can't keep
-causing trouble for a regular at
-extracurricular lessons.");
+MsgDisp("Mikage","That, I can't let you do.
+I can't keep causing trouble for a regular
+at extracurricular lessons.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700200_07_060");
 MsgDisp("Mikage","I don't like being in the faculty room,
-but that room is mine. Alright, let's go.");
+but that room is mine.
+Alright, let's go.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

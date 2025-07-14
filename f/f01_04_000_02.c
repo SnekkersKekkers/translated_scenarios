@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
         ChOpen(4,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010400002_04_000");
         MsgDisp("Nanatsumori","What?");
-        MsgDisp("主人公","If it's okay, how about we walk home 
+        MsgDisp("主人公","If it's okay, how about we walk home
 together?");
         break ;
         case 3:
@@ -24,8 +24,7 @@ together?");
         VoicePlay("F010400002_04_010");
         MsgDisp("Nanatsumori","Yo.
 Are you going home right now?");
-        MsgDisp("主人公","Yeah.
-If its okay, how about we walk home
+        MsgDisp("主人公","Yeah. If its okay, how about we walk home
 together?");
         break ;
         case 4:

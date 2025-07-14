@@ -21,10 +21,11 @@ ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("G110101100_01_000");
-MsgDisp("Kazama","｛主人公｝. How is it, have you gotten used
-to part time work yet?");
-MsgDisp("主人公","Yes it's thanks to ｛風真＊＊｝...... No,
-rather, it's thanks to \"Senpai's\" help.");
+MsgDisp("Kazama","｛主人公｝. How is it, have you gotten
+used to part time work yet?");
+MsgDisp("主人公","Yes it's thanks to ｛風真＊＊｝......
+No, rather, it's thanks to \"Senpai's\"
+help.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);
@@ -53,8 +54,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101100_01_040");
-MsgDisp("Kazama","Well, training for the future might
-be good, I guess.");
+MsgDisp("Kazama","Well, training for the future might be
+good, I guess.");
 MsgDisp("主人公","(......The future?)");
 BGMStop();
 MsgClose();

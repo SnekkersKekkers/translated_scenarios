@@ -22,8 +22,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("E010520200_03_010");
-MsgDisp("Honda","Hello!
-I was just surprised by how popular
+MsgDisp("Honda","Hello! I was just surprised by how popular
 Yano-kun is.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -35,16 +34,16 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520200_05_030");
-MsgDisp("Hiiragi","But I run the theater company for
-the sake of the customers. Honda-kun is
-incredibly popular with the children.");
+MsgDisp("Hiiragi","But I run the theater company for the sake
+of the customers. Honda-kun is incredibly
+popular with the children.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("E010520200_03_020");
-MsgDisp("Honda","I just answer the questions
-they ask me. I guess quizzes are
-really popular among kids.");
+MsgDisp("Honda","I just answer the questions they ask me.
+I guess quizzes are really popular among
+kids.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -54,18 +53,17 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("E010520200_03_030");
-MsgDisp("Honda","Yeah, he suddenly said
-'I'm going to challenge the quiz king!'
-and blocked my way.");
+MsgDisp("Honda","Yeah, he suddenly said 'I'm going to
+challenge the quiz king!' and blocked my
+way.");
 MsgDisp("主人公","Hehe, that's cute.");
 ChEye(5,0);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("E010520200_03_040");
-MsgDisp("Honda","Yeah, the challenger's mom
-looked really happy while shaking hands
-with Yano.");
+MsgDisp("Honda","Yeah, the challenger's mom looked really
+happy while shaking hands with Yano.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -81,37 +79,37 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("E010520200_03_060");
-MsgDisp("Honda","It's not funny. That makes it seem like
-I'm the bad guy......");
+MsgDisp("Honda","It's not funny.
+That makes it seem like I'm the bad
+guy......");
 ChEye(5,0);
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("E010520200_03_070");
-MsgDisp("Honda","After that, Yano-kun told me
-I should ask them questions instead.");
+MsgDisp("Honda","After that, Yano-kun told me I should ask
+them questions instead.");
 MsgDisp("主人公","As expected of ｛柊＊＊＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("E010520200_03_080");
-MsgDisp("Honda","Yup. The challenger was smiling
-widely after getting the answer right.
-It was a relief to see.");
+MsgDisp("Honda","Yup. The challenger was smiling widely
+after getting the answer right. It was a
+relief to see.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520200_05_060");
-MsgDisp("Hiiragi","Not only that, but the
-parents said they'd see the play with
-their children next time.");
+MsgDisp("Hiiragi","Not only that, but the parents said they'd
+see the play with their children next
+time.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010520200_05_070");
-MsgDisp("Hiiragi","Thanks to Honda-kun
-we were able to attract a younger
-audience.");
+MsgDisp("Hiiragi","Thanks to Honda-kun we were able to
+attract a younger audience.");
 MsgDisp("主人公","I see, if mother and child are together,
 I'm sure they'll both be very happy.");
 ChEye(3,3);

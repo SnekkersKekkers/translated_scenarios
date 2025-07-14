@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(7,255,0,0,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723101_07_000");
-MsgDisp("Mikage","It makes no difference whether 
-I sit in the front, back or middle right?");
+MsgDisp("Mikage","It makes no difference whether I sit in
+the front, back or middle right?");
 MsgSel("The front is the best, ultimately!","The back is surprisingly scary!","It's all the same if you close your eyes!");
 switch (MsgSelRsltGet()){
     case 0:

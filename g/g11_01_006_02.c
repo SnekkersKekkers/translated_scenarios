@@ -63,8 +63,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_050");
-MsgDisp("Kazama","Hm? 
-Doesn't that sunset cloud somewhat
+MsgDisp("Kazama","Hm? Doesn't that sunset cloud somewhat
 look like Honda's face?");
 MsgDisp("主人公","Eh? Which one?");
 ChEyeOpenLevel(1,0);

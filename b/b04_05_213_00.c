@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040521300_05_010");
     MsgDisp("Hiiragi","That's right.
-But in reality, look, 
-everyone gets along");
+But in reality, look, everyone gets along");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +39,8 @@ this place is an exception.");
     ChMotion(5,3);
     VoicePlay("B040521300_05_030");
     MsgDisp("Hiiragi","Assuming huh...
-that doggy policeman was 
-definitely kind to the kitty.");
+that doggy policeman was definitely kind
+to the kitty.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -29,9 +29,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,2,1);
     ChCheek(8,7);
     VoicePlay("B040802201_08_020");
-    MsgDisp("Shirahane","Hehe!
-Is it cause we've both been
-on our best behaviour?");
+    MsgDisp("Shirahane","Hehe! Is it cause we've both been on our
+best behaviour?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040206302_02_000");
-MsgDisp("Sassa","Somehow I really want to walk right
-on the edge of the water.");
+MsgDisp("Sassa","Somehow I really want to walk right on the
+edge of the water.");
 MsgSel("It'll be annoying if our shoes get wet.","Me too！","A big wave might come.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -53,8 +53,8 @@ switch (MsgSelRsltGet()){
         ChMotion(2,4);
         VoicePlay("B040206302_02_040");
         MsgDisp("Sassa","No risk no reward, right?");
-        MsgDisp("主人公","I don't know if that applies
-to getting soaked.");
+        MsgDisp("主人公","I don't know if that applies to getting
+soaked.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -66,8 +66,8 @@ You sound like a mother.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206302_02_060");
-        MsgDisp("Sassa","I got hurt like this quite a few
-times when I was a kid.");
+        MsgDisp("Sassa","I got hurt like this quite a few times
+when I was a kid.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -92,8 +92,9 @@ That was dangerous......");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040206302_02_080");
-        MsgDisp("Sassa","Well, I'm more athletic now than
-when I was a kid. Let's go!");
+        MsgDisp("Sassa","Well, I'm more athletic now than when I
+was a kid.
+Let's go!");
         MsgClose();
         MsgClose();
         ChClose(2);

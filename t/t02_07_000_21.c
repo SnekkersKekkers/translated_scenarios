@@ -11,8 +11,8 @@ ChMotion(7,0,1);
 VoicePlay("T020700021_07_010");
 MsgDisp("Mikage","So does that mean you're accepting my
 feelings?");
-MsgDisp("主人公","Yes.
-I don't think I can express it in words.");
+MsgDisp("主人公","Yes. I don't think I can express it in
+words.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);

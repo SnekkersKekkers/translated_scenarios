@@ -11,8 +11,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360423600_04_000");
-MsgDisp("Nanatsumori","This really is something you have
-to see in the summer after all.");
+MsgDisp("Nanatsumori","This really is something you have to see
+in the summer after all.");
 MsgDisp("主人公","How wonderful...
 Why are the illuminations so beautiful?");
 ChMotion(4,1,1);
@@ -58,8 +58,8 @@ ScrFadeIn(0);
 ChMotion(4,5,1);
 VoicePlay("B360423600_04_060");
 MsgDisp("Nanatsumori","S-Sorry!
-I did't mean to do something 
-like that just no——");
+I did't mean to do something like that
+just no——");
 MsgDisp("主人公","Just now, on my n-nose...");
 ChEye(4,2);
 ChMouth(4,2);
@@ -74,8 +74,8 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B360423600_04_080");
 MsgDisp("Nanatsumori","I got too energetic...
-This is definitely the most
-mortifying thing of this year...");
+This is definitely the most mortifying
+thing of this year...");
 MsgDisp("主人公","Hey, ｛七ツ森＊｝, cheer up.
 Let's watch the parade?");
 ChEyeOpenLevel(4,0);

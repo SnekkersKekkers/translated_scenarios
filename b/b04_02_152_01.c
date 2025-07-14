@@ -7,7 +7,7 @@ ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040215201_02_000");
 MsgDisp("Sassa","Then, shall we have a competition?");
-MsgSel("Okay, but｛颯砂＊＊｝ has to use his left hand.","There's no way I can win!","Alright～, I won't lose.");
+MsgSel("Okay, but ｛颯砂＊＊｝ has to use his left hand.","There's no way I can win!","Alright～, I won't lose.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

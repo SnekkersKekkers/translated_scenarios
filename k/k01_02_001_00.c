@@ -23,8 +23,7 @@ birthday present.");
     VoicePlay("K010200100_02_010");
     MsgDisp("Sassa","You got one for me?
 I'm happy.");
-    MsgDisp("主人公","Yeah,
-I chose it for you, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Yeah, I chose it for you, ｛颯砂＊＊｝.");
     break ;
     case 3:
     MsgDisp("主人公","｛颯砂＊＊｝!");
@@ -35,8 +34,7 @@ I chose it for you, ｛颯砂＊＊｝.");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("K010200100_02_020");
-    MsgDisp("Sassa","｛主人公｝.
-What's up?");
+    MsgDisp("Sassa","｛主人公｝. What's up?");
     MsgDisp("主人公","It's your birthday.
 Here's your present, ｛颯砂＊＊｝!");
     SEPlay("EV_SE_664");
@@ -65,20 +63,17 @@ I'm so happy, thank you!");
     ChMotion(2,0);
     ChEyeOpenLevel(2,0);
     VoicePlay("K010200100_02_050");
-    MsgDisp("Sassa","Yeah.
-I was even about to go running
-over to where you were.");
-    MsgDisp("主人公","Hehe!
-Well then, here's your birthday present.
-Do you want to open it?");
+    MsgDisp("Sassa","Yeah. I was even about to go running over
+to where you were.");
+    MsgDisp("主人公","Hehe! Well then, here's your birthday
+present. Do you want to open it?");
     SEPlay("EV_SE_664");
     SEWait();
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("K010200100_02_060");
-    MsgDisp("Sassa","Yeah, I've been looking
-forward to this.
+    MsgDisp("Sassa","Yeah, I've been looking forward to this.
 Well, what did you get me～?");
     break ;
     default :

@@ -23,8 +23,8 @@ performance.");
     ChMotion(5,4);
     VoicePlay("B040519200_05_010");
     MsgDisp("Hiiragi","That's right.
-I think everyone was
-satisfied to some extent.");
+I think everyone was satisfied to some
+extent.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

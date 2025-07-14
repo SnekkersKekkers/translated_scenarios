@@ -37,8 +37,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040314000_03_030");
-    MsgDisp("Honda","You too∋ Me too, I feel like the music is
-still playing.");
+    MsgDisp("Honda","You too∋
+Me too, I feel like the music is still
+playing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

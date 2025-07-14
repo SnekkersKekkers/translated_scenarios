@@ -20,9 +20,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110300_01_030");
-MsgDisp("Kazama","......Speaking of which... 
-Remember that time at the 
-\"Habakaki Land Town\" ferris wheel?");
+MsgDisp("Kazama","......Speaking of which...
+Remember that time at the \"Habakaki Land
+Town\" ferris wheel?");
 MsgDisp("主人公","Ah......yeah.
 ｛風真＊＊｝, You kissed my forehead......
 Everyone saw, it was so embarrassing.");
@@ -31,14 +31,14 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110300_01_040");
-MsgDisp("Kazama","Kissing on the forehead is less 
-than a greeting in England.");
+MsgDisp("Kazama","Kissing on the forehead is less than a
+greeting in England.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110300_01_050");
-MsgDisp("Kazama","But yeah, there were too many people 
+MsgDisp("Kazama","But yeah, there were too many people
 watching.");
 MsgDisp("主人公","Yeah......");
 ChMotion(1,0);
@@ -47,8 +47,8 @@ Wait(10,0);
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("G020110300_01_060");
-MsgDisp("Kazama","At that time, 
-I was planning things like a kid.");
+MsgDisp("Kazama","At that time, I was planning things like a
+kid.");
 ChClose(1,0,30);
 ChLayout(0);
 SEPlay("EV_SE_544");

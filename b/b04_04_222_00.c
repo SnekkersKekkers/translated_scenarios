@@ -7,8 +7,8 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040422200_04_000");
-MsgDisp("Nanatsumori","I don't know where to start or
-how I should look at it.");
+MsgDisp("Nanatsumori","I don't know where to start or how I
+should look at it.");
 MsgSel("Of course, we're studying historu1","Isn't there an air of long ago?","That's not a good way of putting it.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,#1);
     VoicePlay("B040422200_04_010");
-    MsgDisp("Nanatsumori","I've had my fill from
-the lessons at school.");
+    MsgDisp("Nanatsumori","I've had my fill from the lessons at
+school.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,8 +27,8 @@ the lessons at school.");
     ChMotion(4,0,1);
     VoicePlay("B040422200_04_020");
     MsgDisp("Nanatsumori","I can feel the history.
-Is there anything else I
-can gain from that?");
+Is there anything else I can gain from
+that?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,10 +39,9 @@ can gain from that?");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040422200_04_030");
-    MsgDisp("Nanatsumori","Ah... sorry.
-There are guests who are enjoying
-themselves. I wasn't being considerate
-enough, sorry.");
+    MsgDisp("Nanatsumori","Ah... sorry. There are guests who are
+enjoying themselves. I wasn't being
+considerate enough, sorry.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

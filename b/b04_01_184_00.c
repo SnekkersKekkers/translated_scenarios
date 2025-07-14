@@ -22,10 +22,9 @@ If you liked it, then it's fine.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040118400_01_010");
-    MsgDisp("Kazama","Right.
-I heard the director is highly 
-regarded around the world,
-but it just wasn't to our taste.");
+    MsgDisp("Kazama","Right. I heard the director is highly
+regarded around the world, but it just
+wasn't to our taste.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,10 +35,9 @@ but it just wasn't to our taste.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040118400_01_020");
-    MsgDisp("Kazama","Well, that's true, though.
-Didn't you give up too early?
-You were fast asleep even when
-it was still the intro.");
+    MsgDisp("Kazama","Well, that's true, though. Didn't you give
+up too early? You were fast asleep even
+when it was still the intro.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -33,17 +33,17 @@ And we were so close......)");
     ChMotion(7,2);
     VoicePlay("O020700002_07_020");
     MsgDisp("Mikage","That was a great match.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
-We were so close to winning, but......");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. We were so close to
+winning, but......");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O020700002_07_030");
     MsgDisp("Mikage","That's true.
-But your face when you're doing
-your best is really cool.");
-    MsgDisp("主人公","(Haa...... I wanted to show you
-a win, not a draw.)");
+But your face when you're doing your best
+is really cool.");
+    MsgDisp("主人公","(Haa...... I wanted to show you a win, not
+a draw.)");
     break ;
     default :
     DbgAssert(1);

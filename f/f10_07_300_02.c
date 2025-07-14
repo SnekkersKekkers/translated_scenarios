@@ -30,9 +30,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100730002_07_000");
 MsgDisp("Mikage","That's kind of scary.
-I'm wearing a classy suit today,
-so there shouldn't be 
-a problem, right?");
+I'm wearing a classy suit today, so there
+shouldn't be a problem, right?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
@@ -44,12 +43,12 @@ ChMouth(22,2);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F100730002_22_010");
-MsgDisp("Hikaru","Hmm, it's actually boring 
-that there's no problem.
+MsgDisp("Hikaru","Hmm, it's actually boring that there's no
+problem.
 Right, Marie?");
 MsgDisp("主人公","Eh, um...
-I think it's good that he 
-looks teacher-like...");
+I think it's good that he looks
+teacher-like...");
 ChEye(22,0);
 ChEye(21,0);
 ChMouth(21,0);
@@ -68,10 +67,9 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("F100730002_07_010");
-MsgDisp("Mikage","Hm?
-It's good that there's no problem, but
-it's kind of troubling if
-normal is boring.");
+MsgDisp("Mikage","Hm? It's good that there's no problem, but
+it's kind of troubling if normal is
+boring.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -83,8 +81,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100730002_22_030");
 MsgDisp("Hikaru","In that case, leave it to us!
-I'll ask Uncle about the perfect
-fashion for Mikage-sensei♪");
+I'll ask Uncle about the perfect fashion
+for Mikage-sensei♪");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -95,10 +93,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F100730002_07_030");
-MsgDisp("Mikage","Oh, the world-famous fashion 
-leader Hanatsubaki Goro sensei.
-That's amazing. I'm looking 
-forward to it.");
+MsgDisp("Mikage","Oh, the world-famous fashion leader
+Hanatsubaki Goro sensei. That's amazing.
+I'm looking forward to it.");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,0);
@@ -110,13 +107,13 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100730002_22_040");
-MsgDisp("Hikaru","Yeah, I'm sure uncle will
-like Mikage-sensei▼
+MsgDisp("Hikaru","Yeah, I'm sure uncle will like
+Mikage-sensei▼
 right, Mari?");
 MsgDisp("主人公","Y-Yeah.");
-MsgDisp("主人公","(Goro-sensei's fashion is quite
-original though...? Will
-｛御影＊＊｝ be alright...)");
+MsgDisp("主人公","(Goro-sensei's fashion is quite original
+though...?
+Will ｛御影＊＊｝ be alright...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

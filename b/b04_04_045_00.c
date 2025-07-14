@@ -11,9 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("B040404500_04_000");
-    MsgDisp("Nanatsumori","Really?
-I was mostly looking at the costumes 
-and dancing.");
+    MsgDisp("Nanatsumori","Really? I was mostly looking at the
+costumes and dancing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,9 +22,9 @@ and dancing.");
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("B040404500_04_010");
-    MsgDisp("Nanatsumori","The costumes and dancing were 
-seriously amazingー. The actor's
-performance were also powerful");
+    MsgDisp("Nanatsumori","The costumes and dancing were seriously
+amazingー.
+The actor's performance were also powerful");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +35,8 @@ performance were also powerful");
     ChMouth(4,2);
     VoicePlay("B040404500_04_020");
     MsgDisp("Nanatsumori","You say it was a miss?
-Their chairman is the same age as us, 
-you know?");
+Their chairman is the same age as us, you
+know?");
     MsgDateResultDisp();
     break ;
     default :

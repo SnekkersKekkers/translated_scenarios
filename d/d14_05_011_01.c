@@ -17,8 +17,8 @@ We get along well.");
     ChMotion(5,0);
     VoicePlay("D140501101_05_010");
     MsgDisp("Hiiragi","Ah, we got te same.
-Somehow, I feel as though 
-I have gained something.");
+Somehow, I feel as though I have gained
+something.");
     break ;
     default :
     DbgAssert(1);

@@ -35,8 +35,8 @@ See you later.");
 ...But I can't.");
     MsgDisp("主人公","You have something else to do?");
     VoicePlay("S030100002_01_050");
-    MsgDisp("Kazama","Grandpa's warehouse. We haven't
-done end of year inventory yet.
+    MsgDisp("Kazama","Grandpa's warehouse.
+We haven't done end of year inventory yet.
 Please pray for the both of us.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

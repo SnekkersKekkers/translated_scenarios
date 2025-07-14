@@ -9,27 +9,27 @@ MsgClear();
 MsgDisp("主人公","\"Hehe, I'll be watching with a
 critical eye!\"");
 VoicePlay("Y300500500_33_000");
-MsgDisp("Theater Member A","Yes, whether the chairman
-or I play the lead role, the ticket 
-price is the same. We won't let the 
-audience regret their decision!");
+MsgDisp("Theater Member A","Yes, whether the chairman or I play
+the lead role, the ticket price is
+the same. We won't let the audience
+regret their decision!");
 VoicePlay("Y300500500_05_010");
 MsgDisp("Hiiragi","Yes.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","Today's performance is Habataki
-Theatre company's new work. 'Habataki
-Castle: The Lord's Return'.");
+Theatre company's new work.
+'Habataki Castle: The Lord's Return'.");
 MsgDisp("","This play is performed with a double
 cast.");
 MsgClear();
 BGOpen("ad551",0);
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ScrFadeIn(0);
-MsgDisp("","It was just after the new year. She
-was the first to see the full dress
-rehearsal.");
+MsgDisp("","It was just after the new year.
+She was the first to see the full
+dress rehearsal.");
 MsgDisp("","Just now, she said she would watch
 with a 'discerning eye'... though at
 that time, she thought I wouldn't be
@@ -42,8 +42,8 @@ that expression of hers many times
 over the three years at Habataki
 Academy");
 VoicePlay("Y300500500_05_020");
-MsgDisp("Hiiragi","\"So I've only caused her worry... I
-won't cause her to have that sad
+MsgDisp("Hiiragi","\"So I've only caused her worry...
+I won't cause her to have that sad
 expression on her face anymore.\"");
 MsgClear();
 MsgClose();
@@ -77,8 +77,8 @@ MsgDisp("Theater Member B","\"It's opening tiーme.
 The guests are coming in.\"");
 MsgClear();
 VoicePlay("Y300500500_05_030");
-MsgDisp("Hiiragi","\"To the guests in attendance, 
-I apologize.\"");
+MsgDisp("Hiiragi","\"To the guests in attendance, I
+apologize.\"");
 MsgDisp("","\"As we approach the first
 performance, my feelings are directed
 toward her.\"");
@@ -96,8 +96,8 @@ MsgClear();
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","｛主人公苗字｝ ｛主人公名前｝
-This heart of mine, will be 
-with you for all of eternity.");
+This heart of mine, will be with you
+for all of eternity.");
 MsgClear();
 BGMStop();
 MsgType(0);

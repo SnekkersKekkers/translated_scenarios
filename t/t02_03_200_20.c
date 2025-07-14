@@ -5,11 +5,10 @@ ChMouth(3,4);
 ChEyeOpenLevel(3,0);
 ChCheek(3,10);
 VoicePlay("T020320000_03_160");
-MsgDisp("Honda","......Haa,
-......I'm happy.
+MsgDisp("Honda","......Haa, ......I'm happy.
 I wonder what this feeling is......");
 MsgDisp("主人公","I'm happy too.
-｛本多＊＊｝, Thank you for finding me. ");
+｛本多＊＊｝, Thank you for finding me.");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -39,10 +38,10 @@ MsgDisp("Honda","I've experienced a lot of different
 emotions, but this might be the first time
 I've felt something like this.");
 VoicePlay("T020320000_03_210");
-MsgDisp("Honda","But we still have a long way to go. 
+MsgDisp("Honda","But we still have a long way to go.
 I'll teach you a lot more.");
 VoicePlay("T020320000_03_220");
-MsgDisp("Honda","I love you. 
+MsgDisp("Honda","I love you.
 I'm glad I found you.");
 StlEffect(1,1,60);
 Wait(60,0);

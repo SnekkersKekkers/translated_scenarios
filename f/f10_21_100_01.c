@@ -14,8 +14,8 @@ ChMotion(21,0);
 VoicePlay("F102110001_21_010");
 MsgDisp("Michiru","Mari.");
 MsgDisp("主人公","...Are you alright?
-Have you still not resolved
-what was troubling you?");
+Have you still not resolved what was
+troubling you?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
@@ -26,10 +26,9 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F102110001_21_030");
 MsgDisp("Michiru","That's right.
-It won't fix itself even if I keep 
-moping about it.");
-MsgDisp("主人公","Um...
-If we thought about it together then
+It won't fix itself even if I keep moping
+about it.");
+MsgDisp("主人公","Um... If we thought about it together then
 maybe we really could——");
 ChEye(21,4);
 ChMouth(21,3);
@@ -47,14 +46,14 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102110001_21_060");
-MsgDisp("Michiru","If it gets out of hand,
-I'll confide in Mari.
+MsgDisp("Michiru","If it gets out of hand, I'll confide in
+Mari.
 So then...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);
-MsgDisp("主人公","(｛みちる＊｝...
-yeah, let's wait a little longer.)");
+MsgDisp("主人公","(｛みちる＊｝... yeah, let's wait a
+little longer.)");
 MsgClose();
 ScrFadeOut(0,0);

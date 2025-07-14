@@ -6,7 +6,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040224202_02_000");
 MsgDisp("Sassa","There's people who are camping alone huh.");
-MsgSel("It seems fun!","I wonder if they're lonely?","Did｛颯砂＊＊｝ want to come alone too?");
+MsgSel("It seems fun!","I wonder if they're lonely?","Did ｛颯砂＊＊｝ want to come alone too?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040224202_02_020");
     MsgDisp("Sassa","Well yeah.
-Isn't it more fun to go here
-with lots of people?");
+Isn't it more fun to go here with lots of
+people?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -57,8 +57,7 @@ That's a weird thing to ask.");
         VoicePlay("B040224202_02_040");
         MsgDisp("Sassa","Why?
 Did something happen.");
-        MsgDisp("主人公","No.
-It's because ｛颯砂＊＊｝ seemed
+        MsgDisp("主人公","No. It's because ｛颯砂＊＊｝ seemed
 interested in camping alone.");
         ChEye(2,0);
         ChMouth(2,0);
@@ -69,9 +68,9 @@ interested in camping alone.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040224202_02_060");
-        MsgDisp("Sassa","Hey, it's not just with camping, 
-even in other places, 
-it would be more fun with you.");
+        MsgDisp("Sassa","Hey, it's not just with camping, even in
+other places, it would be more fun with
+you.");
         MsgDisp("主人公","...Yeah, sorry.");
         ChEye(2,0);
         ChMouth(2,3);
@@ -93,7 +92,7 @@ But, thank you.");
         ChEyeOpenLevel(2,0);
         VoicePlay("B040224202_02_090");
         MsgDisp("Sassa","That's no good.
-As a punishment, we'll go overnight 
+As a punishment, we'll go overnight
 camping together next!");
         MsgDisp("主人公","Ehhh∋");
         break ;

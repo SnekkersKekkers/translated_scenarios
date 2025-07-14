@@ -9,8 +9,8 @@ MsgDisp("主人公","(Haa...
 It's already graduation soon huh?)");
 MsgDisp("主人公","(For three years, I got to be in the same
 class as ｛風真＊＊｝ )");
-MsgDisp("主人公","(...｛風真＊＊｝, I wonder what 
-you're doing right now in England?)");
+MsgDisp("主人公","(...｛風真＊＊｝, I wonder what you're
+doing right now in England?)");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 MsgDisp("主人公","...Hm?");
@@ -21,15 +21,15 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoicePlay("D130B00200_03_000");
 MsgDisp("Honda","I found you!");
-MsgDisp("主人公","｛本多＊＊｝.
-What are you in such a hurry for?");
+MsgDisp("主人公","｛本多＊＊｝. What are you in such a hurry
+for?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("D130B00200_03_010");
-MsgDisp("Honda","I thought that if you were still here, 
-we could go home together
-every once in a while...");
+MsgDisp("Honda","I thought that if you were still here, we
+could go home together every once in a
+while...");
 ChPosition(3,1);
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -43,8 +43,8 @@ ChEye(4,2);
 ChMouth(4,3);
 VoiceEVSPlay(4);
 VoicePlay("D130B00200_04_010");
-MsgDisp("Nanatsumori","｛主人公｝.
-Were you thinking of Kazama just now?");
+MsgDisp("Nanatsumori","｛主人公｝. Were you thinking of Kazama
+just now?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -77,8 +77,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D130B00200_04_040");
 MsgDisp("Nanatsumori","Ahー...I see.
-That guy's warning us all 
-the way from england.");
+That guy's warning us all the way from
+england.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -90,9 +90,8 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D130B00200_04_050");
-MsgDisp("Nanatsumori","Well, I'll reply him later.
-We rarely go home altogether?
-There are only 4 days 
+MsgDisp("Nanatsumori","Well, I'll reply him later. We rarely go
+home altogether? There are only 4 days
 until graduation after all.");
 ChSet(3,3);
 VoicePlay("D130B00200_03_050");

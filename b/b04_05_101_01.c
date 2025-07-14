@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040510101_05_010");
-    MsgDisp("Hiiragi","Yes, I could use it as reference 
-for stage costumes.");
+    MsgDisp("Hiiragi","Yes, I could use it as reference for stage
+costumes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,9 +27,9 @@ for stage costumes.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040510101_05_020");
-    MsgDisp("Hiiragi","It was state of the art fashion back
-in those days. Even now,
-it is perfectly beautiful.");
+    MsgDisp("Hiiragi","It was state of the art fashion back in
+those days.
+Even now, it is perfectly beautiful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,9 +41,8 @@ it is perfectly beautiful.");
     ChMotion(5,1);
     ChEyeOpenLevel(5,0);
     VoicePlay("B040510101_05_030");
-    MsgDisp("Hiiragi","As a Habataki citizen, you 
-can't attach a price onto 
-the objects here.");
+    MsgDisp("Hiiragi","As a Habataki citizen, you can't attach a
+price onto the objects here.");
     MsgDateResultDisp();
     break ;
     default :

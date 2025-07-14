@@ -21,8 +21,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300200_03_000");
 MsgDisp("Honda","｛主人公｝, welcome.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
-You had a shift today, huh?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝. You had a shift today,
+huh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -45,10 +45,11 @@ BGOpen("ev003",0);
 ChOpen(3,100,1,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300200_03_030");
-MsgDisp("Honda","This one. It has really interesting
-explanations.");
-MsgDisp("主人公","Hee, thank you. If it's ｛本多＊＊｝'s 
-recommendation, it must be good right?");
+MsgDisp("Honda","This one.
+It has really interesting explanations.");
+MsgDisp("主人公","Hee, thank you.
+If it's ｛本多＊＊｝'s recommendation, it
+must be good right?");
 ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,2);

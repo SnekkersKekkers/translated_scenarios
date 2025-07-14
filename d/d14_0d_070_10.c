@@ -2,22 +2,22 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07010_21_000");
-MsgDisp("Michiru","Come to think of it... 
+MsgDisp("Michiru","Come to think of it...
 I never asked Mari about this properly.");
 MsgDisp("主人公","Eh, what is it?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("D140D07010_21_010");
-MsgDisp("Michiru","On the day of the entrance ceremony, 
-you attended school with Kazama-kun.
+MsgDisp("Michiru","On the day of the entrance ceremony, you
+attended school with Kazama-kun.
 Are you two lovers?");
 MsgDisp("主人公","Ehhh∋");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07010_22_000");
-MsgDisp("Hikaru","Big sis, that's tactless. 
+MsgDisp("Hikaru","Big sis, that's tactless.
 Right, Mari?");
 MsgDisp("主人公","Um...");
 ChEye(22,0);
@@ -25,14 +25,13 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07010_22_010");
 MsgDisp("Hikaru","Hikaru knows.
-You two are lovey-dovey 
-childhood friends♪");
+You two are lovey-dovey childhood
+friends♪");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("D140D07010_21_020");
-MsgDisp("Michiru","Heeh... how wonderful.
-\"Childhood friends\"
+MsgDisp("Michiru","Heeh... how wonderful. \"Childhood friends\"
 sure sounds romantic.");
 MsgDisp("主人公","Ummm...");
 ChEye(22,3);
@@ -40,8 +39,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D140D07010_22_020");
-MsgDisp("Hikaru","Habataki City's young master 
-and Princess Mari.
+MsgDisp("Hikaru","Habataki City's young master and Princess
+Mari.
 Sounds wonderful, doesn't it～▼");
 ChEye(21,0);
 ChMouth(21,0);

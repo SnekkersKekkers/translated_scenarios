@@ -11,8 +11,9 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040104400_01_000");
-    MsgDisp("Kazama","It was good. I'm not sure what was so good
-about it, though.");
+    MsgDisp("Kazama","It was good.
+I'm not sure what was so good about it,
+though.");
     MsgDateResultDisp();
     break ;
     case 1:

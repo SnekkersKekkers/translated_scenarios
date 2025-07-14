@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,0,1);
     VoicePlay("B040822100_08_020");
     MsgDisp("Shirahane","For sure.
-It's because both of us have
-been on our best behaviour▼");
+It's because both of us have been on our
+best behaviour▼");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

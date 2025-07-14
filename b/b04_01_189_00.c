@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040118900_01_000");
-    MsgDisp("Kazama","Yeah, I wanna practice 
-that neck movement now.");
+    MsgDisp("Kazama","Yeah, I wanna practice that neck movement
+now.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,8 +24,8 @@ that neck movement now.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040118900_01_010");
-    MsgDisp("Kazama","No, something like today's movie
-is either a hit or a miss.");
+    MsgDisp("Kazama","No, something like today's movie is either
+a hit or a miss.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -35,7 +35,7 @@ is either a hit or a miss.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118900_01_020");
-    MsgDisp("Kazama","Yeah, I think the sound and afterimages 
+    MsgDisp("Kazama","Yeah, I think the sound and afterimages
 are gonna haunt me for a while...");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);

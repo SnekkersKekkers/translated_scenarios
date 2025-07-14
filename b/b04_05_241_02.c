@@ -31,8 +31,8 @@ Why not have it in ice cream?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040524102_05_020");
-        MsgDisp("Hiiragi","I personally do not like warm milk, 
-so you'll be the one drinking it.");
+        MsgDisp("Hiiragi","I personally do not like warm milk, so
+you'll be the one drinking it.");
         MsgDisp("主人公","Ehh? It's troubling to be in charge of
 that. Then, shall we do something else?");
         ChEye(5,4);
@@ -82,15 +82,15 @@ Did you enjoy it, ｛柊＊＊＊｝?");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040524102_05_090");
-        MsgDisp("Hiiragi","Thanks to you, I was able to have
-a fun and delicious experience.");
+        MsgDisp("Hiiragi","Thanks to you, I was able to have a fun
+and delicious experience.");
         ChEye(5,4);
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040524102_05_100");
         MsgDisp("Hiiragi","You should try everything once.
-we're the only ones who 
-did it twice right?");
+we're the only ones who did it twice
+right?");
         MsgDisp("主人公","Yeah. Thanks to that, we might have gotten
 a bit better at milking.");
         ChEye(5,0);
@@ -102,33 +102,32 @@ he would be surprised...");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040524102_05_120");
-        MsgDisp("Hiiragi","...Hm?
-Actually, I won't tell him after all.
-It would be a shame to tell others.");
+        MsgDisp("Hiiragi","...Hm? Actually, I won't tell him after
+all. It would be a shame to tell others.");
         MsgDisp("主人公","Hehe, that's right.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040524102_05_130");
         MsgDisp("Hiiragi","When I'm with you, anything can become a
-wonderful experience. I understood that
-well today.");
+wonderful experience.
+I understood that well today.");
         ChEye(5,3);
         VoicePlay("B040524102_05_140");
         MsgDisp("Hiiragi","And you change me so easily.
-You're fun, you're lovely, 
-and a bit of a scary person.");
+You're fun, you're lovely, and a bit of a
+scary person.");
         MsgDisp("主人公","Ehh? Scary?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040524102_05_150");
         MsgDisp("Hiiragi","Because, even my sense of taste has
-changed... Even when it's warm, milk is
-delicious.");
-        MsgDisp("主人公","(Yeah, it was fun.
-From now on too, I hope I can do lots of
-different things with ｛柊＊＊＊｝...)");
+changed...
+Even when it's warm, milk is delicious.");
+        MsgDisp("主人公","(Yeah, it was fun. From now on too, I hope
+I can do lots of different things with
+｛柊＊＊＊｝... )");
         break ;
         default :
         DbgAssert(1);

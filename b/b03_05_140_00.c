@@ -22,9 +22,8 @@ ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B030514000_05_010");
 MsgDisp("Hiiragi","I don't know the first thing about the
-etiquette here.
-What is the correct way to spend my
-time......");
+etiquette here. What is the correct way to
+spend my time......");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Ah, it's starting!");
 MsgDispSksp(0);

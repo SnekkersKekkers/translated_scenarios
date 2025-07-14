@@ -12,8 +12,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402102_04_010");
-MsgDisp("Nanatsumori","You don't have to do that
-when you're naturally so energetic.
+MsgDisp("Nanatsumori","You don't have to do that when you're
+naturally so energetic.
 You're full of energy even here.");
-MsgDisp("主人公","(Awesome!
-｛七ツ森＊｝ is really happy!)");
+MsgDisp("主人公","(Awesome! ｛七ツ森＊｝ is really
+happy!)");

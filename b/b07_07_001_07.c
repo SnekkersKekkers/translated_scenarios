@@ -1,6 +1,5 @@
-MsgDisp("主人公","(Huh?
-What's up with me?
-My heart is thudding super fast...)");
+MsgDisp("主人公","(Huh? What's up with me? My heart is
+thudding super fast...)");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
@@ -21,8 +20,8 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_550");
 MsgDisp("Mikage","What is it?");
 MsgDisp("主人公","It's not my health...
-Maybe it's because 
-I'm with ｛御影＊＊｝...");
+Maybe it's because I'm with
+｛御影＊＊｝...");
 ChEye(7,5);
 ChMouth(7,5);
 ChMotion(7,0);
@@ -34,8 +33,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChCheek(7,7);
 VoicePlay("B070700001_07_570");
-MsgDisp("Mikage",".........
-When did you learn those skills?
+MsgDisp("Mikage","......... When did you learn those skills?
 You're getting too tough.");
 MsgDisp("主人公","...Phew.
 I've calmed down.");

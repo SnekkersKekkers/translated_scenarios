@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B030321001_03_000");
     MsgDisp("Honda","What, merch before seeing the real thing?
-You must be one of those people who likes 
+You must be one of those people who likes
 to save the best for last.");
     MsgDispSksp(0);
     break ;

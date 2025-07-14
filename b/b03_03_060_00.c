@@ -11,8 +11,8 @@ ChEye(3,3);
 ChMouth(3,5);
 ChMotion(3,5);
 VoicePlay("B030306000_03_010");
-MsgDisp("Honda","Oh, the sand is starting to get hotter,
-so watch out!");
+MsgDisp("Honda","Oh, the sand is starting to get hotter, so
+watch out!");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Okay!");
 MsgDispSksp(0);

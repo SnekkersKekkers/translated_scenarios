@@ -10,15 +10,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630003_06_010");
-MsgDisp("Himuro","Why am I closer to Mr. Kojiro than 
-my class's homeroom teacher?");
+MsgDisp("Himuro","Why am I closer to Mr.
+Kojiro than my class's homeroom teacher?");
 MsgDisp("主人公","That's right huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630003_06_020");
-MsgDisp("Himuro","But, he's different to a normal teacher,
-I can't leave him alone.");
+MsgDisp("Himuro","But, he's different to a normal teacher, I
+can't leave him alone.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -30,7 +30,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630003_06_040");
-MsgDisp("Himuro","I'm glad senior Yanosuke is here. 
+MsgDisp("Himuro","I'm glad senior Yanosuke is here.
 I couldn't deal with him by myself.");
 MsgDisp("主人公","You really get along with them, huh?");
 ChEye(6,0);
@@ -56,15 +56,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020630003_06_080");
-MsgDisp("Himuro","I never thought I'd experience
-such things......
+MsgDisp("Himuro","I never thought I'd experience such
+things......
 High school might be amazing after all.");
 MsgDisp("主人公","Not everyone gets to experience this.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020630003_06_090");
-MsgDisp("Himuro","That's true. 
+MsgDisp("Himuro","That's true.
 I'm glad to be lucky.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -78,9 +78,8 @@ ChMotion(6,0);
 VoicePlay("G020630003_06_110");
 MsgDisp("Himuro","It's nothing.
 ......Well, let's head home.");
-MsgDisp("主人公","(It seems like ｛氷室＊＊｝
-is also leading a fulfilling
-high school life.)");
+MsgDisp("主人公","(It seems like ｛氷室＊＊｝ is also leading
+a fulfilling high school life.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -25,9 +25,7 @@ StlEyeOpenLevel(7,0,1);
 BGMPlay("BGM_C07_MIKAGE_B",0.01);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","∈
-｛御影＊＊｝......!
-What's wrong?");
+MsgDisp("主人公","∈ ｛御影＊＊｝......! What's wrong?");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("D010700200_07_000");
@@ -44,8 +42,8 @@ StlMouth(7,0);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("D010700200_07_020");
 MsgDisp("Mikage","Hmm?　That's what?");
-MsgDisp("主人公","That gives you a different vibe
-from usual.");
+MsgDisp("主人公","That gives you a different vibe from
+usual.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("D010700200_07_030");
@@ -66,7 +64,8 @@ StlMouth(7,0);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("D010700200_07_060");
 MsgDisp("Mikage","Ok then, that's enough searching for
-today. I'll leave it like this for now.");
+today.
+I'll leave it like this for now.");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_677",0.8,0.4);
@@ -81,9 +80,9 @@ ScrFadeIn(0);
 VoicePlay("D010700200_07_070");
 MsgDisp("Mikage","You should hurry home nowー!");
 MsgDisp("主人公","Ah, yes sir!");
-MsgDisp("主人公","(｛御影＊＊｝ left.
-I hope they don't scold him in the staff
-room......But he looks kind of cool, huh?)");
+MsgDisp("主人公","(｛御影＊＊｝ left. I hope they don't
+scold him in the staff room......But he
+looks kind of cool, huh?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

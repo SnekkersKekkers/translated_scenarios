@@ -26,14 +26,14 @@ You're quite a hard worker.");
     ChEye(5,2);
     ChMotion(5,4);
     VoicePlay("L040500001_05_020");
-    MsgDisp("Hiiragi","Thinking of all those who I am
-indebted to......
+    MsgDisp("Hiiragi","Thinking of all those who I am indebted
+to......
 I understand.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("L040500001_05_030");
-    MsgDisp("Hiiragi","Ah, it seems you're still on your
-way. Please, continue your efforts.");
+    MsgDisp("Hiiragi","Ah, it seems you're still on your way.
+Please, continue your efforts.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -48,8 +48,8 @@ I wonder if he liked it?)");
     ChMotion(5,0,1);
     VoicePlay("L040500001_05_040");
     MsgDisp("Hiiragi","I thank you.
-As long as your feelings are here,
-there is nothing more important.");
+As long as your feelings are here, there
+is nothing more important.");
     MsgDisp("主人公","Um, sure.");
     ChEye(5,4);
     ChMouth(5,4);
@@ -68,8 +68,8 @@ The looks of it are not important.");
     BGMStop();
     ChClose(5);
     ChEyeOpenLevel(5,#1);
-    MsgDisp("主人公","(I wonder if I should have
-given him a nicer chocolate......?)");
+    MsgDisp("主人公","(I wonder if I should have given him a
+nicer chocolate......?)");
     break ;
     default :
     DbgAssert(1);

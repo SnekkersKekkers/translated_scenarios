@@ -1,3 +1,4 @@
 VoicePlay("J150700004_07_000");
 MsgDisp("Mikage","I'm going to play darts with Yonosuke and
-Inori. You want to play with us?");
+Inori.
+You want to play with us?");

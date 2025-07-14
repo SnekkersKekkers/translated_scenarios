@@ -8,42 +8,40 @@ switch (ChPrmGet(2,6)){
     BGOpen("sc724",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're doing an organic cafe.
-It's a culmination of my efforts
-in the Gardening Club...)");
+It's a culmination of my efforts in the
+Gardening Club...)");
     MsgClose();
     ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoicePlay("P630200002_02_000");
     MsgDisp("Sassa","Amazing.
 You were able to do a legit cafe.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Welcome～!");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome～!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P630200002_02_010");
     MsgDisp("Sassa","The Gardening Club is amazing, huh.
 They even made a shop.");
-    MsgDisp("主人公","Yes, we received Mikage-sensei's help, 
-and did our best.");
+    MsgDisp("主人公","Yes, we received Mikage-sensei's help, and
+did our best.");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("P630200002_02_020");
-    MsgDisp("Sassa","Even judging by the atmosphere,
-it already seems delicious.");
+    MsgDisp("Sassa","Even judging by the atmosphere, it already
+seems delicious.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
-    MsgDisp("主人公","Hehe.
-This year, I reccomend the organic
+    MsgDisp("主人公","Hehe. This year, I reccomend the organic
 vegetable salad.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P630200002_02_030");
     MsgDisp("Sassa","Then, I'll have that.");
-    MsgDisp("主人公","Certainly!
-Then, I'll lead you to your seat.");
+    MsgDisp("主人公","Certainly! Then, I'll lead you to your
+seat.");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(2,#1);
@@ -55,15 +53,15 @@ Then, I'll lead you to your seat.");
     BGOpen("sc724",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're doing an organic cafe.
-It's a culmination of my efforts
-in the Gardening Club...)");
+It's a culmination of my efforts in the
+Gardening Club...)");
     MsgClose();
     ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200002_02_040");
-    MsgDisp("Sassa","｛主人公｝, I heard that the Horticulture 
-club was impressive this year, 
-but it's more than the rumours say.");
+    MsgDisp("Sassa","｛主人公｝, I heard that the
+Horticulture club was impressive this
+year, but it's more than the rumours say.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝, thank you.
 Everyone gav eit their best.
 It's a wonderful shop, huh?");
@@ -71,9 +69,8 @@ It's a wonderful shop, huh?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P630200002_02_050");
-    MsgDisp("Sassa","Yeah.
-It's doesn't look like school.
-The menu also looks promising.");
+    MsgDisp("Sassa","Yeah. It's doesn't look like school. The
+menu also looks promising.");
 MsgDisp("主人公","This year we're not just selling
 vegetables, the shop is offering salad for
 you to enjoy.");
@@ -103,8 +100,8 @@ vegetables first, Before they're sold out.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝!
-Why don't you order firs——");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝! Why don't you order
+firs——");
     VoicePlay("P630200002_02_090");
     MsgDisp("Sassa","One of your signature!");
     MsgDisp("主人公","Yeess. Certainly!");

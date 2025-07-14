@@ -21,9 +21,9 @@ Are you at home right now?");
     MsgDisp("主人公","Yeah, I am.
 What's up?");
     VoicePlay("U012100002_21_010");
-    MsgDisp("Michiru","Why don't you come to the forest 
-park today? The weather is quite nice. 
-What do you think?");
+    MsgDisp("Michiru","Why don't you come to the forest park
+today? The weather is quite nice. What do
+you think?");
     MsgSel("Sure, I'm coming！","I'm busy today...Sorry.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -38,14 +38,12 @@ See you there in a bit!");
         break ;
         case 1:
         VoicePlay("U012100002_21_030");
-        MsgDisp("Michiru","I see......
-That's unfortunate but I guess it can't 
-be helped......
-Well, later then.");
+        MsgDisp("Michiru","I see...... That's unfortunate but I guess
+it can't be helped...... Well, later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though she took the 
-time to invite me......
+        MsgDisp("主人公","(Even though she took the time to invite
+me......
 Did I make the right choice?)");
         break ;
         default :

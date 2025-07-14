@@ -3,8 +3,7 @@ BGOpen("sc520",0);
 ScrFadeIn(0);
 ChOpen(32,254,0,2,2,#1,#1,0,0);
 VoicePlay("Z813200001_32_000");
-MsgDisp("VP Himuro","Ha......
-You seem to hold skinship in
+MsgDisp("VP Himuro","Ha...... You seem to hold skinship in
 quite high regards.");
 ChEye(32,0);
 ChMouth(32,1);

@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,4,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝......！");
+MsgDisp("主人公","｛柊＊＊＊｝...... ！");
 ChMotion(5,0);
 Wait(16,0);
 ChEye(5,4);
@@ -23,9 +23,8 @@ ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChMouth(5,3);
 VoicePlay("T020501000_05_020");
-MsgDisp("Hiiragi","Yes.
-I'm graduating with you......
-I can't believe it.");
+MsgDisp("Hiiragi","Yes. I'm graduating with you...... I can't
+believe it.");
 MsgDisp("主人公","Eh......");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -56,8 +55,8 @@ ChMotion(5,2);
 Wait(12,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("T020501000_05_050");
-MsgDisp("Hiiragi","Thank you
-......but the reality is different.");
+MsgDisp("Hiiragi","Thank you ......but the reality is
+different.");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -118,9 +117,9 @@ ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 ChCheek(5,5);
 VoicePlay("T020501000_05_120");
-MsgDisp("Hiiragi","If you're smiling......
-If the one I love; you, are smiling,
-then nothing is wrong. It's alright. ");
+MsgDisp("Hiiragi","If you're smiling...... If the one I love;
+you, are smiling, then nothing is wrong.
+It's alright.");
 MsgDisp("主人公","Eh......");
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040615200_06_000");
 MsgDisp("Himuro","By the way, can you play darts?");
-MsgSel("This is what you should know to be a refined adult","For now, I'll just throw it until I hit it!","Could you teach me the rules?");
+MsgSel("This is what you should know to be a refined adult.","For now, I'll just throw it until I hit it!","Could you teach me the rules?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,1);
     VoicePlay("B040615200_06_010");
     MsgDisp("Himuro","Bold words.
-Show me your skills first. ");
+Show me your skills first.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ Show me your skills first. ");
     ChMotion(6,0);
     VoicePlay("B040615200_06_030");
     MsgDisp("Himuro","...Got it.
-We're here, so might as
-well have some fun.");
+We're here, so might as well have some
+fun.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

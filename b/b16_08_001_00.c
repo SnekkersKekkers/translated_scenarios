@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     NSSMouth(8,4);
     NSSCheek(8,10);
     VoicePlay("B160800100_08_010");
-    MsgDisp("Shirahane","I understand that but, 
-I'll get my hopes up...");
+    MsgDisp("Shirahane","I understand that but, I'll get my hopes
+up...");
     break ;
     case 1:
     NSSMouth(8,3);

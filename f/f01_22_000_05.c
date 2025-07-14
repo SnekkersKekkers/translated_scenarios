@@ -28,8 +28,8 @@ Then, let's go!");
     ChEyeOpenLevel(22,0);
     ChCheek(22,5);
     VoicePlay("F012200005_22_020");
-    MsgDisp("Hikaru","Heh▼
-Mari asked Hikaru out to a coffee shop～");
+    MsgDisp("Hikaru","Heh▼ Mari asked Hikaru out to a coffee
+shop～");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,3,1);

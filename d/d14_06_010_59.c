@@ -3,8 +3,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140601059_06_000");
 MsgDisp("Himuro","Yeah......I copied you.
-I wanted to try it at least once but
-I didn't want to do it alone.");
+I wanted to try it at least once but I
+didn't want to do it alone.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040208402_02_000");
-MsgDisp("Sassa","You could put up a tent around
-here and go camping right?");
+MsgDisp("Sassa","You could put up a tent around here and go
+camping right?");
 MsgSel("It might be a bit desolate at night?","Next time I'll bring a bento.","Do you want to catch some fish and eat it?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -20,9 +20,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040208402_02_010");
-        MsgDisp("Sassa","I-It'll be alright.
-No... camping by the water is 
-a risky situation...");
+        MsgDisp("Sassa","I-It'll be alright. No... camping by the
+water is a risky situation...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -39,18 +38,17 @@ But I've watched too many horror movies.");
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040208402_02_030");
-        MsgDisp("Sassa","The ones where young people 
-camp by the lake.");
-        MsgDisp("主人公","Umm...
-It's a firefly sanctuary, 
-so there won't be anyone there? ");
+        MsgDisp("Sassa","The ones where young people camp by the
+lake.");
+        MsgDisp("主人公","Umm... It's a firefly sanctuary, so there
+won't be anyone there?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040208402_02_040");
         MsgDisp("Sassa","Ah, is that right?");
-        MsgDisp("主人公","Hehe, 
-Are you thinking back to the horror movie?");
+        MsgDisp("主人公","Hehe, Are you thinking back to the horror
+movie?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -61,8 +59,8 @@ of those scenarios.");
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040208402_02_060");
-        MsgDisp("Sassa","I can't win against ghosts, 
-But if it's a physical fight...
+        MsgDisp("Sassa","I can't win against ghosts, But if it's a
+physical fight...
 I might stand a chance.");
         MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
         ChEye(2,0);
@@ -77,10 +75,10 @@ run.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040208402_02_080");
-        MsgDisp("Sassa","Ah, is it also okay to
-hold you in the front?");
-        MsgDisp("主人公","(Feels like I'm being 
-treated like luggage...)");
+        MsgDisp("Sassa","Ah, is it also okay to hold you in the
+front?");
+        MsgDisp("主人公","(Feels like I'm being treated like
+luggage...)");
         break ;
         default :
         DbgAssert(1);
@@ -105,9 +103,8 @@ When should we do it?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208402_02_100");
-    MsgDisp("Sassa","Yeah, 
-There's fireflies here at least, 
-so there must be fish here too?");
+    MsgDisp("Sassa","Yeah, There's fireflies here at least, so
+there must be fish here too?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

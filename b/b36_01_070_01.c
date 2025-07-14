@@ -32,9 +32,8 @@ ChClose(1);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","Doesn't this poncho
-look like it would suit you, 
-｛風真＊＊｝?");
+MsgDisp("主人公","Doesn't this poncho look like it would
+suit you, ｛風真＊＊｝?");
 VoicePlay("B360107001_01_020");
 MsgDisp("Kazama","No way would it suit m——");
 VoicePlay("B360107001_01_030");
@@ -48,8 +47,7 @@ VoicePlay("B360107001_01_040");
 MsgDisp("Kazama","Shh, we'll be found.
 This is an emergency.
 What are those guys doing...");
-MsgDisp("主人公","Wait...
-｛風真＊＊｝, this hurts.");
+MsgDisp("主人公","Wait... ｛風真＊＊｝, this hurts.");
 BGOpen("ne710",0);
 SEPlay("EV_SE_552",0.2);
 Wait(10,0);
@@ -77,8 +75,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360107001_01_070");
 MsgDisp("Kazama","Let's not.
-I want it to be just
-the two of us.");
+I want it to be just the two of us.");
 MsgDisp("主人公","I-I see.
 so that's how it is.");
 ChEye(1,2);
@@ -86,10 +83,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360107001_01_080");
-MsgDisp("Kazama","Not, \"so that's how it is.\", geez.
-Come on, let's continue as before.
-We were picking each other's
-clothes, weren't we?");
+MsgDisp("Kazama","Not, \"so that's how it is.\", geez. Come
+on, let's continue as before. We were
+picking each other's clothes, weren't we?");
 MsgDisp("主人公","Yeah!
 I found something nice!");
 ChEye(1,0);

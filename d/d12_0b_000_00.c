@@ -12,9 +12,8 @@ SEPlay("EV_SE_618");
 SEWait();
 ChMouth(1,3);
 VoicePlay("D120B00000_01_000");
-MsgDisp("Kazama","......Ah.
-For this Habacha entry, are we doing a
-special feature on Nanatsumori?");
+MsgDisp("Kazama","......Ah. For this Habacha entry, are we
+doing a special feature on Nanatsumori?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,4,1);
@@ -36,7 +35,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D120B00000_03_000");
 MsgDisp("Honda","That's right.
-Ryo-kun is well-known, so the people 
+Ryo-kun is well-known, so the people
 around him pay attention to him, right?");
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -104,12 +103,11 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("D120B00000_04_050");
 MsgDisp("Nanatsumori","......Alright, it's done.");
-MsgDisp("主人公","Uwaah......
-You two look completely different!");
+MsgDisp("主人公","Uwaah...... You two look completely
+different!");
 StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00000_03_030");
-MsgDisp("Honda","Amazing!
-Is this the special edition:
+MsgDisp("Honda","Amazing! Is this the special edition:
 \"Change your look in just 5 minutes\"∈");
 StlEyeOpenLevel(3,5,1);
 MsgDisp("主人公","(It seems so!
@@ -123,8 +121,8 @@ VoicePlay("D120B00000_04_060");
 MsgDisp("Nanatsumori","No.");
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D120B00000_01_050");
-MsgDisp("Kazama","Ahhh......
-I feel weird without my bangs......");
+MsgDisp("Kazama","Ahhh...... I feel weird without my
+bangs......");
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
 SEPlay("EV_SE_588",0,0.4);
@@ -161,8 +159,8 @@ ChOpen(1,254,0,2,2,#1,#1,0,1,0,30);
 Wait(15,0);
 ChOpen(3,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew......
-That suddenly turned into a photoshoot?");
+MsgDisp("主人公","Phew...... That suddenly turned into a
+photoshoot?");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -179,9 +177,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D120B00000_04_080");
-MsgDisp("Nanatsumori","Even if you're not always aware of it,
-you should try to remember that the
-people are you are always watching.");
+MsgDisp("Nanatsumori","Even if you're not always aware of it, you
+should try to remember that the people are
+you are always watching.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -203,8 +201,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D120B00000_01_080");
-MsgDisp("Kazama","The treatment didn't work on one of
-us, huh?");
+MsgDisp("Kazama","The treatment didn't work on one of us,
+huh?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -216,11 +214,11 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D120B00000_03_050");
 MsgDisp("Honda","What's wrong?
-The two of you have a scary look on
-your face.");
-MsgDisp("主人公","(It's true......All three of them 
-are celebrities but they have varying 
-levels of awareness.)");
+The two of you have a scary look on your
+face.");
+MsgDisp("主人公","(It's true......All three of them are
+celebrities but they have varying levels
+of awareness.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

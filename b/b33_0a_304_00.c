@@ -38,7 +38,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30400_01_020");
-MsgDisp("Kazama","Don't say it as if I'm usually so demanding.");
+MsgDisp("Kazama","Don't say it as if I'm usually so
+demanding.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
 ChMouth(6,3);
@@ -50,9 +51,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30400_01_030");
-MsgDisp("Kazama","What are you saying?
-...Geez. 
-I like all seasons here.");
+MsgDisp("Kazama","What are you saying? ...Geez. I like all
+seasons here.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -62,16 +62,16 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);
 VoicePlay("B330A30400_06_020");
-MsgDisp("Himuro","The autumn colors get reflected 
-on the surface of the water.
+MsgDisp("Himuro","The autumn colors get reflected on the
+surface of the water.
 Basic, but beautiful.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A30400_02_010");
 MsgDisp("Sassa","I also like autumn and spring.
-The season of flowers and autumn 
-leaves are especially nice here.");
+The season of flowers and autumn leaves
+are especially nice here.");
 MsgDisp("主人公","Yeah, that's right.
 And the season of fireflies.");
 ChMouth(1,3);
@@ -84,9 +84,10 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330A30400_01_050");
-MsgDisp("Kazama","Winter is nice here too. Since the water 
-temperature is high, when the air gets cold, a mist
-appears and it's like a sea of clouds.");
+MsgDisp("Kazama","Winter is nice here too. Since the water
+temperature is high, when the air gets
+cold, a mist appears and it's like a sea
+of clouds.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -96,7 +97,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A30400_02_020");
-MsgDisp("Sassa","But you can't get here so early in the morning.");
+MsgDisp("Sassa","But you can't get here so early in the
+morning.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -106,8 +108,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30400_01_070");
-MsgDisp("Kazama","Inori, I'll call you the next time 
-I get the chance.");
+MsgDisp("Kazama","Inori, I'll call you the next time I get
+the chance.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
@@ -128,7 +130,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30400_06_060");
-MsgDisp("Himuro","Every now and again we'll all agree on something.");
+MsgDisp("Himuro","Every now and again we'll all agree on
+something.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -136,8 +139,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330A30400_01_090");
 MsgDisp("Kazama","Right.");
 ChEye(1,0);
-MsgDisp("主人公","(Hehe! It's wonderful we all
-have similar tastes.)");
+MsgDisp("主人公","(Hehe! It's wonderful we all have similar
+tastes.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -3,15 +3,15 @@ ChLayout(1);
 ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040306402_03_000");
-MsgDisp("Honda","There's a lot of different stuff at 
+MsgDisp("Honda","There's a lot of different stuff at
 festivals, so you'll never get bored.");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B040306402_03_010");
-MsgDisp("Honda","I thought this feeling was similar 
-to something, and now I understand.");
+MsgDisp("Honda","I thought this feeling was similar to
+something, and now I understand.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -30,8 +30,8 @@ ChMouth(3,0);
 ChMotion(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("B040306402_03_040");
-MsgDisp("Honda","When that all comes together,
-it becomes super delicious you know?");
+MsgDisp("Honda","When that all comes together, it becomes
+super delicious you know?");
 MsgDisp("主人公","Hehe I see.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -56,13 +56,15 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B040306402_03_080");
-MsgDisp("Honda","Hey, next let's get grilled squid 
-from over there  next! Let's go!");
+MsgDisp("Honda","Hey, next let's get grilled squid from
+over there next!
+Let's go!");
 MsgClose();
 SEPlay("EV_SE_672");
 ChClose(3);
 SEWait();
-MsgDisp("主人公","(He's off... ｛本多＊＊｝'s way of
-thinking is amazing...')");
+MsgDisp("主人公","(He's off...
+｛本多＊＊｝'s way of thinking is
+amazing...')");
 MsgClose();
 ScrFadeOut(0);

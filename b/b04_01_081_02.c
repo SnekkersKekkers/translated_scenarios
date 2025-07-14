@@ -22,8 +22,9 @@ switch (MsgSelRsltGet()){
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108102_01_010");
-        MsgDisp("Kazama","Yeah, I doubt it. You absolutely don't
-remember something like that.");
+        MsgDisp("Kazama","Yeah, I doubt it.
+You absolutely don't remember something
+like that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -39,8 +40,8 @@ about you saying that?");
         ChMouth(1,1);
         ChMotion(1,0,1);
         VoicePlay("B040108102_01_030");
-        MsgDisp("Kazama","There's not a chance that you
-remember something from that long ago.");
+        MsgDisp("Kazama","There's not a chance that you remember
+something from that long ago.");
         ChEye(1,2);
         ChMouth(1,0);
         ChMotion(1,1);
@@ -78,11 +79,11 @@ But, thank you.");
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108102_01_080");
-        MsgDisp("Kazama","Oh-hoh. That honesty is nice.
-A proper thank you.
-From here on out, thank me everyday.");
-        MsgDisp("主人公","(｛風真＊＊｝,
-you've cared about me for so long now...
+        MsgDisp("Kazama","Oh-hoh. That honesty is nice. A proper
+thank you. From here on out, thank me
+everyday.");
+        MsgDisp("主人公","(｛風真＊＊｝, you've cared about me for
+so long now...
 It makes me happy.)");
         break ;
         default :
@@ -97,8 +98,8 @@ It makes me happy.)");
     ChMotion(1,1);
     VoicePlay("B040108102_01_090");
     MsgDisp("Kazama","Yeah, Long has quite a few cherry blossoms
-around. I always liked the ones I saw
-there, too.");
+around.
+I always liked the ones I saw there, too.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -112,9 +113,8 @@ there, too.");
     ChMotion(1,4);
     ChCheek(1,5);
     VoicePlay("B040108102_01_100");
-    MsgDisp("Kazama","Right?
-We were in the same school, same class.
-It was almost too good to be true.");
+    MsgDisp("Kazama","Right? We were in the same school, same
+class. It was almost too good to be true.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

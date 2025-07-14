@@ -17,7 +17,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","(Hehe, seems like he was pleased with it♪
-But, when he says Ikkaku, does he
-mean board chairman Amanohashi?)");
+But, when he says Ikkaku, does he mean
+board chairman Amanohashi?)");
 MsgClose();
 ScrFadeOut(0);

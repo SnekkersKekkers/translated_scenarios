@@ -12,13 +12,13 @@ ChMotion(2,4);
 VoicePlay("G020210306_02_010");
 MsgDisp("Sassa","Yeah, it's like a hot spring for the
 fireflies.");
-MsgDisp("主人公","I see. You do love baths, 
-｛颯砂＊＊｝.");
+MsgDisp("主人公","I see.
+You do love baths, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210306_02_020");
-MsgDisp("Sassa","Well, yeah. 
+MsgDisp("Sassa","Well, yeah.
 Hot springs, saunas, public baths......
 they all feel nice.");
 ChEye(2,3);
@@ -45,8 +45,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210306_02_060");
-MsgDisp("Sassa","There is. Well, I've gotten quite
-resistant to it now.");
+MsgDisp("Sassa","There is.
+Well, I've gotten quite resistant to it
+now.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,3);

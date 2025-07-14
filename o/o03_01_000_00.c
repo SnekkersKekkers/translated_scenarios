@@ -19,8 +19,8 @@ We won!)");
     ScrFadeIn(0);
     VoicePlay("O030100000_01_010");
     MsgDisp("Kazama","We should have won, and we did.");
-    MsgDisp("主人公","｛風真＊＊｝, we won because
-you supported me. Thanks!");
+    MsgDisp("主人公","｛風真＊＊｝, we won because you supported
+me. Thanks!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -33,10 +33,10 @@ Isn't that great?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("O030100000_01_030");
-    MsgDisp("Kazama","Just this event is enough
-for the sports festival.");
-    MsgDisp("主人公","(Is ｛風真＊＊｝ just
-satisfied by winning first?)");
+    MsgDisp("Kazama","Just this event is enough for the sports
+festival.");
+    MsgDisp("主人公","(Is ｛風真＊＊｝ just satisfied by winning
+first?)");
     break ;
     case 4:
     case 5:
@@ -53,9 +53,8 @@ First place!");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("O030100000_01_050");
-    MsgDisp("Kazama","Seems like sometimes we're
-connected with a red rope in reality
-too huh?");
+    MsgDisp("Kazama","Seems like sometimes we're connected with
+a red rope in reality too huh?");
     MsgDisp("主人公","Hehe.
 You mean a red thread, right?");
     ChEye(1,0);
@@ -64,8 +63,7 @@ You mean a red thread, right?");
     VoicePlay("O030100000_01_060");
     MsgDisp("Kazama","A rope is thicker and safer.
 Let's stay like this for a while longer.");
-    MsgDisp("主人公","(Hehe,
-｛風真＊＊｝ seems really happy.)");
+    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ seems really happy.)");
     break ;
     default :
     DbgAssert(1);

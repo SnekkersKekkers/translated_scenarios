@@ -5,8 +5,7 @@ VoicePlay("B350700000_07_000");
 MsgDisp("Mikage?","Oiー.");
 MsgClose();
 ChOpen(7,255,5,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Huh, ｛御影＊＊｝?
-What's wrong? ");
+MsgDisp("主人公","Huh, ｛御影＊＊｝? What's wrong?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -19,8 +18,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B350700000_07_020");
-MsgDisp("Mikage","What are they doing... geez.
-Come on, I'll take you home.");
+MsgDisp("Mikage","What are they doing... geez. Come on, I'll
+take you home.");
 MsgSel("Thank you very much!","I'll go home by myself?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,8 +37,7 @@ I'm gonna scold them～");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B350700000_07_040");
-    MsgDisp("Mikage","Huh? Really?
-My bad, my bad, I'll have to 
+    MsgDisp("Mikage","Huh? Really? My bad, my bad, I'll have to
 apologize to those guys too.");
     ChEye(7,0);
     ChMouth(7,0);

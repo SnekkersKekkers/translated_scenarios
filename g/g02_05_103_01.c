@@ -7,8 +7,8 @@ MsgDisp("主人公","I should be the one saying that.
 Thank you for having me.");
 ChEye(5,4);
 VoicePlay("G020510301_05_010");
-MsgDisp("Hiiragi","It was rather troubling after 
-you left to go home, you know?");
+MsgDisp("Hiiragi","It was rather troubling after you left to
+go home, you know?");
 VoicePlay("G020510301_05_020");
 MsgDisp("Hiiragi","The troupe members saw you......
 and bombarded me with questions");
@@ -27,8 +27,8 @@ VoicePlay("G020510301_05_040");
 MsgDisp("Hiiragi","Troubling, right?");
 ChEye(5,4);
 VoicePlay("G020510301_05_050");
-MsgDisp("Hiiragi","I wasn't even able to answer the 
-last question adequately.");
+MsgDisp("Hiiragi","I wasn't even able to answer the last
+question adequately.");
 MsgDisp("主人公","The last......question?");
 ChEye(5,3);
 ChMotion(5,4);

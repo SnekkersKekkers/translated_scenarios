@@ -26,8 +26,8 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("P140300001_03_030");
 MsgDisp("Honda","Ahー Sorry!
-I'll do it again, 
-next time, I'll get lost properly.");
+I'll do it again, next time, I'll get lost
+properly.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","(Ugh......\"get lost properly\"......

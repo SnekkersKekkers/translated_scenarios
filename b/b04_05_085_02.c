@@ -7,9 +7,8 @@ ScrFadeIn(0);
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B040508502_05_000");
-MsgDisp("Hiiragi","Haaー.
-We came on such a cold
-day didn't we?");
+MsgDisp("Hiiragi","Haaー. We came on such a cold day didn't
+we?");
 MsgSel("It's cold because you think it's cold!","Haaー,Haaー, my breath is really pure white!","Shall we hold hands?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,8 +32,8 @@ The cold has gotten you strangely tense.");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040508502_05_020");
-        MsgDisp("Hiiragi","Hey hey, if you do that
-you'll run out of breath.");
+        MsgDisp("Hiiragi","Hey hey, if you do that you'll run out of
+breath.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,23 +61,22 @@ breath becoming visible.");
         ChMotion(5,0);
         VoicePlay("B040508502_05_060");
         MsgDisp("Hiiragi","Is it really that surprising of a matter?");
-        MsgDisp("主人公","Well, for some reason 
-it's super embarrassing.");
+        MsgDisp("主人公","Well, for some reason it's super
+embarrassing.");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040508502_05_070");
         MsgDisp("Hiiragi","I apologize for that.
-But, I was super happy being 
-surrounded by your breath.");
+But, I was super happy being surrounded by
+your breath.");
         MsgDisp("主人公","Hey!");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040508502_05_080");
         MsgDisp("Hiiragi","Ah, please excuse me.
 Winter is a wonderful thing, isn't it?");
-        MsgDisp("主人公","(Hey, ｛柊＊＊＊｝,
-You say weird things from 
-time to time don't you...)");
+        MsgDisp("主人公","(Hey, ｛柊＊＊＊｝, You say weird things
+from time to time don't you...)");
         break ;
         default :
         DbgAssert(1);
@@ -92,8 +90,8 @@ time to time don't you...)");
     ChMotion(5,3);
     VoicePlay("B040508502_05_090");
     MsgDisp("Hiiragi","Sounds good.
-How about we hold hands and walk 
-around the spring several times?");
+How about we hold hands and walk around
+the spring several times?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

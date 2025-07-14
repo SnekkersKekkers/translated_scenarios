@@ -1,8 +1,8 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Hmm, nice weather! Come to think of it,
-I've been in good shape lately. Maybe
-it's because of all the exercise?)");
+I've been in good shape lately. Maybe it's
+because of all the exercise?)");
 VoiceEVSPlay(2);
 VoicePlay("G110200400_02_000");
 MsgDisp("Sassa?","｛主人公｝. You're here, huh?");
@@ -11,8 +11,8 @@ SEPlay("EV_SE_625");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Were you running today too?");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Were you running today
+too?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -43,8 +43,8 @@ VoicePlay("G110200400_02_030");
 MsgDisp("Sassa","You've gotten a lot better.
 You can keep up with me just fine, huh?");
 MsgDisp("主人公","R-Really?");
-MsgDisp("主人公","(Hehe......｛颯砂＊＊｝'s hair
-is so cute, the way it flutters......
+MsgDisp("主人公","(Hehe......｛颯砂＊＊｝'s hair is so cute,
+the way it flutters......
 like a horse's mane?)");
 BGMVol(0.5,2);
 while (1){
@@ -63,7 +63,8 @@ VoicePlay("G110200400_02_040");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
-MsgDisp("Sassa","Eh, my hair?　Yeah, it's naturally curly.
+MsgDisp("Sassa","Eh, my hair?
+Yeah, it's naturally curly.
 I'm surprised you guessed that!");
 VoicePlay("G110200400_02_060");
 ChEye(2,1);

@@ -23,8 +23,8 @@ VoicePlay("B070700001_07_640");
 MsgDisp("Mikage","Come on, this is at maximum magnification.
 Observe carefully.");
 MsgDisp("主人公","...Y-You're close.
-But, your eyes are pretty 
-aren't they, ｛御影＊＊｝?");
+But, your eyes are pretty aren't they,
+｛御影＊＊｝?");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,1);
@@ -42,16 +42,16 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B070700001_07_660");
-MsgDisp("Mikage","Crap...
-I upped the magnification too high.");
+MsgDisp("Mikage","Crap... I upped the magnification too
+high.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_670");
 MsgDisp("Mikage","Listen, as the magnification increases,
-your field of vision narrows.
-It would be dangerous if you 
-couldn't see your surroundings");
+your field of vision narrows. It would be
+dangerous if you couldn't see your
+surroundings");
 MsgDisp("主人公","Eh, is it dangerous?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -59,8 +59,8 @@ ChMotion(7,4);
 VoicePlay("B070700001_07_680");
 MsgDisp("Mikage","That's right.
 Phew... that was dangerous.");
-MsgDisp("主人公","(｛御影＊＊｝'s eyes were so pretty,
-my heart started to race...)");
+MsgDisp("主人公","(｛御影＊＊｝'s eyes were so pretty, my
+heart started to race...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

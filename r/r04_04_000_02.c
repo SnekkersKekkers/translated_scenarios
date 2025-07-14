@@ -54,8 +54,7 @@ Thank you!");
     ChMotion(4,0);
     ScrFadeIn(0);
     VoicePlay("R040400002_04_020");
-    MsgDisp("Nanatsumori","Ah...... 
-The cake buffet is calling me.
+    MsgDisp("Nanatsumori","Ah...... The cake buffet is calling me.
 May I go?");
     MsgDisp("主人公","Hehe, go ahead!");
     ChEye(4,4);

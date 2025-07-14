@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040423501_04_010");
-    MsgDisp("Nanatsumori","Hehe...
-I believe I can scare you with 100％
-confidence...");
+    MsgDisp("Nanatsumori","Hehe... I believe I can scare you with
+100％ confidence...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

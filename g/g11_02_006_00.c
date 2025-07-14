@@ -42,9 +42,8 @@ ChMotion(2,2);
 VoicePlay("G110200600_02_020");
 MsgDisp("Sassa","So it's good to run with you like this
 sometimes.");
-MsgDisp("主人公","But...... I think 
-everyone and the club leader seems to 
-misunderstand ｛颯砂＊＊｝.");
+MsgDisp("主人公","But...... I think everyone and the club
+leader seems to misunderstand ｛颯砂＊＊｝.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -61,7 +60,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200600_02_050");
 MsgDisp("Sassa","I'm feeling energized, I'll run another
-lap with more energy! You go on ahead.");
+lap with more energy!
+You go on ahead.");
 SEStop("EV_SE_FOOT_037",2);
 BGMStop();
 MsgClose();

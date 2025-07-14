@@ -9,25 +9,25 @@ BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
-Are you harvesting herbs?");
+MsgDisp("主人公","Ah, ｛御影＊＊｝. Are you harvesting
+herbs?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700803_07_000");
-MsgDisp("Mikage","Oh, you understood well. I harvested some
-good-looking ones just now in the
-greenhouse.");
-MsgDisp("主人公","It smells nice. I could tell even from
-over here.");
+MsgDisp("Mikage","Oh, you understood well.
+I harvested some good-looking ones just
+now in the greenhouse.");
+MsgDisp("主人公","It smells nice.
+I could tell even from over here.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700803_07_010");
 MsgDisp("Mikage","Is that so?
 Thanks to that, I worked up a good sweat.");
-MsgDisp("主人公","(Ah, ｛御影＊＊｝. If you wipe the sweat
-with dirty hands——)");
+MsgDisp("主人公","(Ah, ｛御影＊＊｝. If you wipe the
+sweat with dirty hands——)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(7,0,1,1,0,0);

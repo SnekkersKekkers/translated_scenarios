@@ -17,9 +17,8 @@ It was fun!");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("Q080300001_03_010");
-    MsgDisp("Honda","Really?
-Then, why not go round together the day 
-after tomorrow too?");
+    MsgDisp("Honda","Really? Then, why not go round together
+the day after tomorrow too?");
     MsgDisp("主人公","Yeah, great.");
     break ;
     case 3:
@@ -27,17 +26,16 @@ after tomorrow too?");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("Q080300001_03_020");
-    MsgDisp("Honda","Today was more than what I simulated.
-It was much more fulfilling, thanks to 
-you. Thanks for inviting me!");
+    MsgDisp("Honda","Today was more than what I simulated. It
+was much more fulfilling, thanks to you.
+Thanks for inviting me!");
     MsgDisp("主人公","Yeah, I had fun too.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("Q080300001_03_030");
-    MsgDisp("Honda","
-So, for the next free period, wanna come 
-together?　With you, I'm sure we can 
+    MsgDisp("Honda","So, for the next free period, wanna come
+together? With you, I'm sure we can
 experience more than we can expected!");
     MsgDisp("主人公","Hehe, yeah!");
     break ;
@@ -60,7 +58,7 @@ Thanks!");
     ChMotion(3,4,1);
     VoicePlay("Q080300001_03_060");
     MsgDisp("Honda","So, I'll start this time.
-The next free period, wanna walk around 
+The next free period, wanna walk around
 together again?");
     MsgDisp("主人公","Yeah!　Of course.");
     break ;

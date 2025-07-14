@@ -44,13 +44,13 @@ ChOpen(3,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("A020330100_03_030");
 MsgDisp("Honda","I'm Honda Iku.
 I'll teach you anything you need, okay?");
-MsgDisp("主人公","(｛本多＊＊｝......
-I feel like I've......)");
+MsgDisp("主人公","(｛本多＊＊｝...... I feel like I've......)");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("A020330100_03_040");
-MsgDisp("Honda","Ding-ding-ding! Correct answer!");
+MsgDisp("Honda","Ding-ding-ding!
+Correct answer!");
 MsgDisp("主人公","Ehhh?");
 ChEye(3,0);
 ChMouth(3,3);

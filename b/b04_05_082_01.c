@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("B040508201_05_010");
-    MsgDisp("Hiiragi","There's rumours you can 
-hear one's inner voice yes?");
+    MsgDisp("Hiiragi","There's rumours you can hear one's inner
+voice yes?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,8 @@ hear one's inner voice yes?");
     ChMotion(5,3);
     VoicePlay("B040508201_05_020");
     MsgDisp("Hiiragi","Let's do that.
-I was curious as to where 
-the spring water gushes out.");
+I was curious as to where the spring water
+gushes out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,9 +41,8 @@ the spring water gushes out.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040508201_05_030");
-    MsgDisp("Hiiragi","Yes.
-Habataki City is an exceedingly nice place
-to live in for fireflies, yes?");
+    MsgDisp("Hiiragi","Yes. Habataki City is an exceedingly nice
+place to live in for fireflies, yes?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -111,9 +111,8 @@ See you later.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(7);
-        MsgDisp("主人公","(Right...
-He went to the trouble of inviting me,
-but it just wasn't right...)");
+        MsgDisp("主人公","(Right... He went to the trouble of
+inviting me, but it just wasn't right...)");
         break ;
         case 4:
         case 5:
@@ -128,9 +127,8 @@ See you.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(7);
-        MsgDisp("主人公","(Right...
-He went to the trouble of inviting me,
-but it just wasn't right...)");
+        MsgDisp("主人公","(Right... He went to the trouble of
+inviting me, but it just wasn't right...)");
         break ;
         default :
         DbgAssert(1);

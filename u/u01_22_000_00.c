@@ -2,8 +2,8 @@ ScrFadeOut(0);
 BGOpen("ho210",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Oh? A phone call?
-Oh, it's from ｛ひかる＊｝.");
+MsgDisp("主人公","Oh? A phone call? Oh, it's from
+｛ひかる＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -31,8 +31,8 @@ See you soon.");
 That's disappointing......Sigh.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Even though she took the time 
-to invite me......
+    MsgDisp("主人公","(Even though she took the time to invite
+me......
 Maybe I made the wrong choice?)");
     break ;
     default :

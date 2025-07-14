@@ -39,10 +39,9 @@ Rollercoasters are multi-faceted.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040523101_05_030");
-    MsgDisp("Hiiragi","As expected,
-All the veterans say the same thing.
-Apparently, it's the rookies
-who enjoy being at the front.");
+    MsgDisp("Hiiragi","As expected, All the veterans say the same
+thing. Apparently, it's the rookies who
+enjoy being at the front.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

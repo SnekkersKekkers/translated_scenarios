@@ -29,10 +29,8 @@ rhythmic gymnastics' club joint practice?");
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("X110600003_06_020");
-    MsgDisp("Himuro","Yeah.
-I'm glad I went to see it.
-I'll be cheering you on 
-from now on as well.");
+    MsgDisp("Himuro","Yeah. I'm glad I went to see it. I'll be
+cheering you on from now on as well.");
     MsgDisp("主人公","(Yay! Let's keep doing our best from now
 on!)");
     break ;

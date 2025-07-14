@@ -13,33 +13,33 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
 ChOpen(4,255,0,0,3,#1,#1,0,1);
 ChOpen(2,40,3,0,4,#1,#1,0,2);
-MsgDisp("主人公","｛七ツ森＊｝, ｛颯砂＊＊｝!
-I didn't expect to see you two together.");
+MsgDisp("主人公","｛七ツ森＊｝, ｛颯砂＊＊｝! I didn't
+expect to see you two together.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoiceEVSPlay(2);
 VoicePlay("E010420100_02_010");
-MsgDisp("Sassa","｛主人公｝.
-We bumped into each other by chance.");
+MsgDisp("Sassa","｛主人公｝. We bumped into each other
+by chance.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("E010420100_04_010");
-MsgDisp("Nanatsumori","I was fascinated by the doggo Sassa
-was walking.");
+MsgDisp("Nanatsumori","I was fascinated by the doggo Sassa was
+walking.");
 MsgDisp("主人公","Doggo...... dog?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010420100_02_020");
-MsgDisp("Sassa","Ah, I was walking a friend's dog
-when I ran into Nanatsumori.
+MsgDisp("Sassa","Ah, I was walking a friend's dog when I
+ran into Nanatsumori.
 It seems he likes dogs.");
 ChMotion(4,2,1);
 VoicePlay("E010420100_04_020");
-MsgDisp("Nanatsumori","I've never seen such a big dog,
-so I really wanted to pet it.");
+MsgDisp("Nanatsumori","I've never seen such a big dog, so I
+really wanted to pet it.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -58,8 +58,8 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("E010420100_02_040");
 MsgDisp("Sassa","Sounds good.
-Since he likes running on the beach,
-let's all run together.");
+Since he likes running on the beach, let's
+all run together.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -72,8 +72,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("E010420100_02_050");
 MsgDisp("Sassa","It's impossible.
-If you have the leash, you have
-no choice but to run.");
+If you have the leash, you have no choice
+but to run.");
 MsgDisp("主人公","(Haha! ｛七ツ森＊｝ and ｛颯砂＊＊｝,
 you really like dogs, don't you?)");
 BGMStop();

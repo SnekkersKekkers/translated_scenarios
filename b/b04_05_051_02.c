@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040505102_05_000");
-MsgDisp("Hiiragi","The stories of the constellations 
-are rather interesting.");
+MsgDisp("Hiiragi","The stories of the constellations are
+rather interesting.");
 MsgSel("How about incorporating it in your performance.","I can't help but feel a bit sleepy?","It's a love story huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -49,12 +49,10 @@ I'm sorry.");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040505102_05_040");
-        MsgDisp("Hiiragi","There's no need to apologize.
-Not only was I able to see the 
-beautiful stars, but also your
-comfortable sleeping face.");
-        MsgDisp("主人公","Ehh∈
-｛柊＊＊＊｝, you saw?");
+        MsgDisp("Hiiragi","There's no need to apologize. Not only was
+I able to see the beautiful stars, but
+also your comfortable sleeping face.");
+        MsgDisp("主人公","Ehh∈ ｛柊＊＊＊｝, you saw?");
         ChMotion(5,4);
         VoicePlay("B040505102_05_050");
         MsgDisp("Hiiragi","Yes, I saw.");
@@ -76,8 +74,8 @@ it's embarrassing.");
         MsgDisp("Hiiragi","E-Embarrassing?
 Umm... I apologize.");
         VoicePlay("B040505102_05_080");
-        MsgDisp("Hiiragi","I didn't intend on causing
-you that much embarrassment.");
+        MsgDisp("Hiiragi","I didn't intend on causing you that much
+embarrassment.");
         MsgDisp("主人公","I'm the one who should be saying sorry.
 I was the one who fell asleep...");
         ChEye(5,4);
@@ -98,8 +96,8 @@ woken up... What were we even saying?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040505102_05_110");
-        MsgDisp("Hiiragi","But, today I found another
-way to enjoy the planetarium.
+        MsgDisp("Hiiragi","But, today I found another way to enjoy
+the planetarium.
 Let's come again, okay?");
         MsgDisp("主人公","(Another way to enjoy the planetarium...
 Next time, I definitely won't fall
@@ -116,8 +114,8 @@ asleep!)");
     ChMotion(5,0);
     VoicePlay("B040505102_05_120");
     MsgDisp("Hiiragi","That's right.
-Since ancient times, \"love\" has 
-been a theme for humans.");
+Since ancient times, \"love\" has been a
+theme for humans.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

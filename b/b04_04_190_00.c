@@ -10,9 +10,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMotion(4,0);
     VoicePlay("B040419000_04_000");
-    MsgDisp("Nanatsumori","Well, I think the costumes 
-and the performance were
-amazing");
+    MsgDisp("Nanatsumori","Well, I think the costumes and the
+performance were amazing");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,9 +22,8 @@ amazing");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040419000_04_010");
-    MsgDisp("Nanatsumori","Yeah.
-If I knew more about the history,
-I might have enjoyed it a bit more.");
+    MsgDisp("Nanatsumori","Yeah. If I knew more about the history, I
+might have enjoyed it a bit more.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,9 +34,9 @@ I might have enjoyed it a bit more.");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040419000_04_020");
-    MsgDisp("Nanatsumori","No no,
-even if it was difficult, there were
-still a lot of noteworthy things right?");
+    MsgDisp("Nanatsumori","No no, even if it was difficult, there
+were still a lot of noteworthy things
+right?");
     MsgDateResultDisp();
     break ;
     default :

@@ -29,8 +29,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700400_07_020");
-MsgDisp("Mikage","Okay then, when I was a student, there
-was one thing I wanted to do.");
+MsgDisp("Mikage","Okay then, when I was a student, there was
+one thing I wanted to do.");
 MsgDisp("主人公","Eh, what is it?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -70,9 +70,8 @@ MsgDisp("Mikage","I love you guys～!");
 StlEyeOpenLevel(7,5);
 SEPlay("EV_SE_GAYA_022");
 VoicePlay("D010700400_44_020");
-MsgDisp("School Girl A","Ahahaha!
-Mikage-sensei, what in the world are you
-doing?");
+MsgDisp("School Girl A","Ahahaha! Mikage-sensei, what in the world
+are you doing?");
 VoicePlay("D010700400_41_050");
 MsgDisp("Male Student B","I love Mikagechi too!");
 VoicePlay("D010700400_45_000");
@@ -92,8 +91,7 @@ MsgDisp("主人公","Eh......Ehh∋");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700400_07_080");
 MsgDisp("Mikage","Come on, say something!");
-MsgDisp("主人公","Uhm......
-I-I love ｛御影＊＊｝ too!");
+MsgDisp("主人公","Uhm...... I-I love ｛御影＊＊｝ too!");
 StlNear(1,0,15);
 Wait(15,1);
 StlEyeOpenLevel(7,0);

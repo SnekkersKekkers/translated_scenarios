@@ -10,8 +10,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060301000_03_000");
         MsgDisp("Honda","That's the way to do it!
 So, how do you want to meet up?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝.
-What do you think?");
+        MsgDisp("主人公","At ｛待ち合わせ場所｝. What do you think?");
         VoicePlay("J060301000_03_010");
         MsgDisp("Honda","Right, right.
 Well, I'll see you Sunday!");
@@ -41,8 +40,7 @@ Ahhh, I can't wait for Sunday.
 See you later?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","｛本多＊＊｝,
-Invited me on a date.
+        MsgDisp("主人公","｛本多＊＊｝, Invited me on a date.
 I'm looking forward to Sunday!)");
         break ;
         default :
@@ -61,14 +59,15 @@ I'm looking forward to Sunday!)");
         MsgDisp("Honda","I see.");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("J060301000_03_070");
-        MsgDisp("Honda","But, well, it couldn't be helped. It was
-my fault for asking him out so suddenly.");
+        MsgDisp("Honda","But, well, it couldn't be helped.
+It was my fault for asking him out so
+suddenly.");
         VoicePlay("J060301000_03_080");
         MsgDisp("Honda","See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He took the time to invite me over,
-I'm sorry I did that ......)");
+        MsgDisp("主人公","(He took the time to invite me over, I'm
+sorry I did that ......)");
         break ;
         case 4:
         case 5:

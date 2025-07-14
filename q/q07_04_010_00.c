@@ -2,9 +2,9 @@ BGMPlay("BGM_PLACE_TRAVEL",0.01);
 BGOpen("sc820",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Amazing......
-Flowers and nice buildings spread out,
-It's like being in a foreign country!");
+MsgDisp("主人公","Amazing...... Flowers and nice buildings
+spread out, It's like being in a foreign
+country!");
 VoicePlay("Q070401000_04_000");
 MsgDisp("Nanatsumori","............");
 VoicePlay("Q070401000_04_010");
@@ -41,7 +41,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070401000_04_050");
-MsgDisp("Nanatsumori","I really thought it would be boring and 
+MsgDisp("Nanatsumori","I really thought it would be boring and
 troublesome, the school trip.");
 ChEye(4,2);
 ChMouth(4,4);
@@ -66,15 +66,15 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q070401000_04_090");
-MsgDisp("Nanatsumori","But I thought if I could be with you,
-It might be different. 
+MsgDisp("Nanatsumori","But I thought if I could be with you, It
+might be different.
 I got really excited.");
 MsgDisp("主人公","I'm having so much fun right now too!");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("Q070401000_04_100");
 MsgDisp("Nanatsumori","I'm having more fun than you.
-I want to shout as loud as I can right 
+I want to shout as loud as I can right
 here, right now.");
 MsgDisp("主人公","What are you going to shout?");
 ChEye(4,0);

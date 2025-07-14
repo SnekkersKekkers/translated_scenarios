@@ -9,7 +9,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B130400001_04_010");
 MsgDisp("Nanatsumori","And don't fall too flashy, okay?
-It's not like it'll just
-show a little bit.");
+It's not like it'll just show a little
+bit.");
 MsgClose();
 ScrFadeOut(0,0);

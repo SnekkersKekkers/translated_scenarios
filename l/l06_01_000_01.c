@@ -34,8 +34,8 @@ MsgDisp("Kazama","It's a little different than the others.
 That's why it'd be a problem if others
 saw, right?");
 MsgDisp("主人公","I see, thanks.
-｛風真＊＊｝, you got a lot of
-chocolate, right?");
+｛風真＊＊｝, you got a lot of chocolate,
+right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -61,5 +61,5 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(I'm happy I got a White Day
-present from ｛風真＊＊｝!)");
+MsgDisp("主人公","(I'm happy I got a White Day present from
+｛風真＊＊｝! )");

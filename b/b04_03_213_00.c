@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040321300_03_010");
-    MsgDisp("Honda","Ah, no, no, that's not it.
-There's preferences for either 
-cats or dogs right? I'm a cat person.");
+    MsgDisp("Honda","Ah, no, no, that's not it. There's
+preferences for either cats or dogs right?
+I'm a cat person.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -40,8 +40,8 @@ my genetics.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040321300_03_030");
-    MsgDisp("Honda","Okay, let's observe cats 
-and dogs thoroughly today");
+    MsgDisp("Honda","Okay, let's observe cats and dogs
+thoroughly today");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

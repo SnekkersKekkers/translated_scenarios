@@ -4,11 +4,10 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630200_06_000");
-MsgDisp("Himuro","Recently, the guys in my class
-have been talking to me a lot.");
-MsgDisp("主人公","Eh!
-Doesn't that mean they want
-to be friends with ｛氷室＊＊｝?");
+MsgDisp("Himuro","Recently, the guys in my class have been
+talking to me a lot.");
+MsgDisp("主人公","Eh! Doesn't that mean they want to be
+friends with ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -19,9 +18,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630200_06_020");
-MsgDisp("Himuro","No.
-You don't make friends just
-because you want to.");
+MsgDisp("Himuro","No. You don't make friends just because
+you want to.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -53,17 +51,17 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630200_06_070");
-MsgDisp("Himuro","You only need friends who you
-can cherish and who you know well.");
+MsgDisp("Himuro","You only need friends who you can cherish
+and who you know well.");
 MsgDisp("主人公","I see.
 So this is what ｛氷室＊＊｝ thinks?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020630200_06_080");
-MsgDisp("Himuro","Right.
-I think there are many different beliefs,
-but for me, a friend is as I just said.");
+MsgDisp("Himuro","Right. I think there are many different
+beliefs, but for me, a friend is as I just
+said.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -77,8 +75,8 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("G020630200_06_100");
 MsgDisp("Himuro","What are they all up to?");
-MsgDisp("主人公","(There's no need to be so
-suspicious though......)");
+MsgDisp("主人公","(There's no need to be so suspicious
+though......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

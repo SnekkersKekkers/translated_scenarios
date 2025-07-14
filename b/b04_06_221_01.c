@@ -6,7 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040622101_06_000");
-MsgDisp("Himuro","Fools and smoke. 
+MsgDisp("Himuro","Fools and smoke.
 You know the saying.");
 MsgSel("I like high places.","Everyone here is the same type of person.","Hey, but fools and scissors are about how you use them!");
 switch (MsgSelRsltGet()){
@@ -29,8 +29,8 @@ But, are you even listening to me?");
     ChMotion(6,4);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040622101_06_020");
-    MsgDisp("Himuro","Don't lump me in with
-everyone else on your own.");
+    MsgDisp("Himuro","Don't lump me in with everyone else on
+your own.");
     MsgDateResultDisp();
     break ;
     case 2:

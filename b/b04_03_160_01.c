@@ -5,9 +5,9 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040316001_03_000");
-MsgDisp("Honda","The skull bear in the crane game
-look like it's in a position
-where I can grab it, right?");
+MsgDisp("Honda","The skull bear in the crane game look like
+it's in a position where I can grab it,
+right?");
 MsgSel("I want the skull bear!","It's a bit oversized huh?","It seems like you grab it, but you can't.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ I can do it in three tries.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040316001_03_020");
-    MsgDisp("Honda","That's right, taking it home might 
-be a bit challenging.");
+    MsgDisp("Honda","That's right, taking it home might be a
+bit challenging.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

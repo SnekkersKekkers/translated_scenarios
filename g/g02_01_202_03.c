@@ -53,15 +53,16 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120203_01_070");
-MsgDisp("Kazama","Are you serious? There you go again. Is
-that really what it looks like......");
+MsgDisp("Kazama","Are you serious?
+There you go again.
+Is that really what it looks like......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120203_01_080");
 MsgDisp("Kazama","I just told you how I feel about him; I
-wasn't lying. But things change when
-you're involved.");
+wasn't lying.
+But things change when you're involved.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -77,7 +78,7 @@ VoicePlay("G020120203_01_100");
 MsgDisp("Kazama","(sigh) I just keep saying stuff that I
 really shouldn't.");
 MsgDisp("主人公","(So that's how ｛風真＊＊｝ feels about
-｛七ツ森＊｝......)");
+｛七ツ森＊｝...... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

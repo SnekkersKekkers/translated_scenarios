@@ -6,8 +6,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321301_03_000");
-MsgDisp("Honda","Huh, there's an animal
-that wasn't there the day before?");
+MsgDisp("Honda","Huh, there's an animal that wasn't there
+the day before?");
 MsgSel("Amazing! You have a good memory","The kitten sleeping on the sofa?","The doggy by the entrance is an ornament?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040321301_03_010");
-    MsgDisp("Honda","It's quite rare to see a scottish
-fold with perfectly floppy ears?");
+    MsgDisp("Honda","It's quite rare to see a scottish fold
+with perfectly floppy ears?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,7 @@ fold with perfectly floppy ears?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040321301_03_020");
-    MsgDisp("Honda","Yep yep, 
-that kitten with floppy ears.
+    MsgDisp("Honda","Yep yep, that kitten with floppy ears.
 Huh? It looks a bit like you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

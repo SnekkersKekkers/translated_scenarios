@@ -13,8 +13,9 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500003_05_010");
-    MsgDisp("Hiiragi","Got it. Hanatsubaki-san, do
-you like the merry go round?");
+    MsgDisp("Hiiragi","Got it.
+Hanatsubaki-san, do you like the merry go
+round?");
     break ;
     case 4:
     case 5:

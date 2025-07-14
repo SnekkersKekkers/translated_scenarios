@@ -19,9 +19,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("G020110401_01_020");
-MsgDisp("Kazama","The same goes for me. I can say what I
-want without worrying and take you out
-willy-nilly because it's you.");
+MsgDisp("Kazama","The same goes for me.
+I can say what I want without worrying and
+take you out willy-nilly because it's you.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,4);
@@ -52,10 +52,11 @@ Wait(10,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("G020110401_01_060");
-MsgDisp("Kazama","Yeah, so I promise to surprise you. One
-day.");
+MsgDisp("Kazama","Yeah, so I promise to surprise you.
+One day.");
 MsgDisp("主人公","(What kind of surprise does ｛風真＊＊｝
-have up his sleeve? I can't wait!)");
+have up his sleeve?
+I can't wait!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

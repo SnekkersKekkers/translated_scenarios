@@ -38,8 +38,7 @@ For me, I want a smoothie.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("F010700005_07_040");
-    MsgDisp("Mikage","Hey.
-Where'd you learn that technique, 
+    MsgDisp("Mikage","Hey. Where'd you learn that technique,
 Miss Diligent? Come on, let's go.");
     MsgDisp("主人公","Oo～kay.");
     break ;

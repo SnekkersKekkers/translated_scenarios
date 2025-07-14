@@ -29,8 +29,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P540D00003_22_010");
 MsgDisp("Hikaru","Right right.
-If it's Mari, she can do it, 
-right?");
+If it's Mari, she can do it, right?");
 MsgDisp("主人公","(Ugh...
 If only I practiced more...)");
 MsgClose();

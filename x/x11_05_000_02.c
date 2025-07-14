@@ -19,17 +19,15 @@ daily discipline.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500002_05_010");
-    MsgDisp("Hiiragi","I heard that your shoulder throw
-was immensely beautiful.");
+    MsgDisp("Hiiragi","I heard that your shoulder throw was
+immensely beautiful.");
     MsgDisp("主人公","Hehe, thank you!");
     ChEye(5,4);
     VoicePlay("X110500002_05_020");
-    MsgDisp("Hiiragi","Daily practice speaks for itself.
-You looked so dignified in your judo
-uniform, with your back perfectly
-straight.");
-    MsgDisp("主人公","(Yay!
-I was praised by ｛柊＊＊＊｝ )");
+    MsgDisp("Hiiragi","Daily practice speaks for itself. You
+looked so dignified in your judo uniform,
+with your back perfectly straight.");
+    MsgDisp("主人公","(Yay! I was praised by ｛柊＊＊＊｝ )");
     break ;
     default :
     DbgAssert(1);

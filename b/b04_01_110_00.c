@@ -9,8 +9,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B040111000_01_000");
-MsgDisp("Kazama","Since I came back,
-I've had a lot of opportunities to swim...
+MsgDisp("Kazama","Since I came back, I've had a lot of
+opportunities to swim...
 You like swimming, right?");
 MsgSel("Call me the mermaid of Habataki City!","Well, I'd love to learn how...","Can I get an inner tube?");
 switch (MsgSelRsltGet()){

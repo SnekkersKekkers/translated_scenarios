@@ -4,32 +4,33 @@ Wait(12,0);
 ChEye(1,0);
 VoicePlay("G020110001_01_000");
 MsgDisp("Kazama","......This place, it's the habitat of
-fireflies, right? Doesn't it somewhat
-smell like roses?");
+fireflies, right?
+Doesn't it somewhat smell like roses?");
 MsgDisp("主人公","Hmmm......?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110001_01_010");
-MsgDisp("Kazama","That's right...... You're not the type
-associated with the scent of roses");
+MsgDisp("Kazama","That's right......
+You're not the type associated with the
+scent of roses");
 MsgDisp("主人公","Hey.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110001_01_020");
-MsgDisp("Kazama","Even if you say 'hey', in my mind, 
-your scent has always been like 
-freshly baked cookies.");
+MsgDisp("Kazama","Even if you say 'hey', in my mind, your
+scent has always been like freshly baked
+cookies.");
 MsgDisp("主人公","Cookies......?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110001_01_030");
-MsgDisp("Kazama","Do you dislike it? When you were little, 
-you used to smell like cookies, 
-and I really liked it.");
+MsgDisp("Kazama","Do you dislike it?
+When you were little, you used to smell
+like cookies, and I really liked it.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -56,10 +57,10 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110001_01_070");
-MsgDisp("Kazama","It's not just because I love sweets; 
-it's because of my memories of you.");
-MsgDisp("主人公","From now on, 
-I'll make lots of cookies for you.");
+MsgDisp("Kazama","It's not just because I love sweets; it's
+because of my memories of you.");
+MsgDisp("主人公","From now on, I'll make lots of cookies for
+you.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -72,8 +73,8 @@ VoicePlay("G020110001_01_090");
 MsgDisp("Kazama","......Huh? 
 The scent of roses is gone.");
 MsgDisp("主人公","(To think that the reason ｛風真＊＊｝
-likes sweets is because of me...... It's
-somewhat embarrassing.)");
+likes sweets is because of me......
+It's somewhat embarrassing.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,15 +5,14 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Welcome!
-......Hm?　｛颯砂＊＊｝.");
+    MsgDisp("主人公","Welcome! ......Hm? ｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450200000_02_000");
     MsgDisp("Sassa","Ah, it's you.
-Mom asked me to get some
-flowers for the table.");
+Mom asked me to get some flowers for the
+table.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -52,8 +51,8 @@ Thanks.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("I450200000_02_040");
-    MsgDisp("Sassa","And it's nice seeing you
-buzzing around the flowers.");
+    MsgDisp("Sassa","And it's nice seeing you buzzing around
+the flowers.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -65,18 +64,18 @@ See you.");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(｛颯砂＊＊｝ seemed to like it.
-I'm glad. Let's work harder!)");
+I'm glad.
+Let's work harder!)");
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Welcome!");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoicePlay("I450200000_02_060");
     MsgDisp("Sassa","You're working hard.");
-    MsgDisp("主人公","Yeah, learning about flowers
-is pretty fun.");
+    MsgDisp("主人公","Yeah, learning about flowers is pretty
+fun.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -86,8 +85,8 @@ is pretty fun.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I450200000_02_080");
-    MsgDisp("Sassa","But working with water
-must be hard on your hands.");
+    MsgDisp("Sassa","But working with water must be hard on
+your hands.");
     MsgDisp("主人公","Hm, it's tough in the winter.
 But it's worth it.");
     ChEye(2,0);
@@ -110,29 +109,26 @@ a long way to go.");
     MsgDisp("Sassa","Ah, take care of your hands.
 I take care of my body, too.
 It's the same.");
-    MsgDisp("主人公","Yeah,
-thanks, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Yeah, thanks, ｛颯砂＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝
-encouraged me......
+    MsgDisp("主人公","(｛颯砂＊＊｝ encouraged me......
 Alright, let's do our best!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Welcome!");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoicePlay("I450200000_02_120");
     MsgDisp("Sassa","I was in the area,
 so I stopped by.");
-    MsgDisp("主人公","We have a lot in stock,
-like potted plants and seeds,
-so please take your time looking around.");
+    MsgDisp("主人公","We have a lot in stock, like potted plants
+and seeds, so please take your time
+looking around.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -152,8 +148,8 @@ so please take your time looking around.");
     ChMotion(2,0);
     ChCheek(2,10);
     VoicePlay("I450200000_02_150");
-    MsgDisp("Sassa","Pretty flowers, sweet smells, and
-on top of that, you're here too, right?
+    MsgDisp("Sassa","Pretty flowers, sweet smells, and on top
+of that, you're here too, right?
 I'm feeling a little strange.");
     ChEye(2,0);
     ChMouth(2,3);
@@ -165,8 +161,8 @@ I'm feeling a little strange.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Strange......?
-I wonder what happened to ｛颯砂＊＊｝?)");
+    MsgDisp("主人公","(Strange......? I wonder what happened to
+｛颯砂＊＊｝? )");
     break ;
     default :
     DbgAssert(1);

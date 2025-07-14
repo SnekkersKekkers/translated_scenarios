@@ -17,9 +17,9 @@ MsgDisp("主人公","｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 VoicePlay("T020601000_06_020");
-MsgDisp("Himuro","To be honest, I was worried. What would I
-do if you graduated without me seeing you
-again?");
+MsgDisp("Himuro","To be honest, I was worried.
+What would I do if you graduated without
+me seeing you again?");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -31,14 +31,14 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020601000_06_040");
-MsgDisp("Himuro","You've surprised me many times before
-with your words and actions.");
+MsgDisp("Himuro","You've surprised me many times before with
+your words and actions.");
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_050");
 MsgDisp("Himuro","At first, I was very frustrated.
-Things weren't going as I expected,
-and I had no time to spare......");
+Things weren't going as I expected, and I
+had no time to spare......");
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_060");
@@ -57,8 +57,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020601000_06_080");
-MsgDisp("Himuro","Thinking about it now...... I think, even
-back then I was charmed by you.");
+MsgDisp("Himuro","Thinking about it now......
+I think, even back then I was charmed by
+you.");
 MsgDisp("主人公","Me......?");
 MsgClear();
 ChClose(6);
@@ -74,14 +75,14 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_100");
-MsgDisp("Himuro","Haa......
-Why did you have to be my senior?");
+MsgDisp("Himuro","Haa...... Why did you have to be my
+senior?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_110");
-MsgDisp("Himuro","How am I supposed to spend the year 
-after you're gone?");
+MsgDisp("Himuro","How am I supposed to spend the year after
+you're gone?");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);

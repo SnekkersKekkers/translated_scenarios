@@ -16,29 +16,29 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100340000_03_010");
-MsgDisp("Honda","That's right, let me hear
-your opinion too.");
+MsgDisp("Honda","That's right, let me hear your opinion
+too.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("F100340000_04_000");
 MsgDisp("Nanatsumori","You're exaggerating.
-It's not a matter of opinion, 
-just likes and dislikes.");
+It's not a matter of opinion, just likes
+and dislikes.");
 MsgDisp("主人公","Eh, what are you talking about?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("F100340000_04_010");
-MsgDisp("Nanatsumori","The fact that mine and Dahon's 
-tastes clash in all sorts of ways.");
+MsgDisp("Nanatsumori","The fact that mine and Dahon's tastes
+clash in all sorts of ways.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("F100340000_03_020");
 MsgDisp("Honda","That's right.
-I wonder if Mii-kun and
-I have bad compatibility?");
+I wonder if Mii-kun and I have bad
+compatibility?");
 MsgDisp("主人公","Mii-kun, huh...hehe.
 Now that I hear it again, it is funny.");
 ChEye(4,0);
@@ -90,24 +90,23 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("F100340000_03_060");
-MsgDisp("Honda","Me and Mii-kun's tastes
-are complete opposites.");
+MsgDisp("Honda","Me and Mii-kun's tastes are complete
+opposites.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("F100340000_03_070");
-MsgDisp("Honda","I don't like spicy food, 
-but Mii-kun loves it? I love insects, 
-Mii-kun is bad with them.");
+MsgDisp("Honda","I don't like spicy food, but Mii-kun loves
+it?
+I love insects, Mii-kun is bad with them.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100340000_03_080");
-MsgDisp("Honda","I thought we get along well,
-so this is a bit surprising.");
-MsgDisp("主人公","I'm sure you two make a good
-pair, helping each other out
-with your  weaknesses.");
+MsgDisp("Honda","I thought we get along well, so this is a
+bit surprising.");
+MsgDisp("主人公","I'm sure you two make a good pair, helping
+each other out with your weaknesses.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -115,8 +114,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("F100340000_03_090");
 MsgDisp("Honda","Yepyep, that sounds good.
 I'll say that to Mii-kun next time.");
-MsgDisp("主人公","(What kind of thing will
-｛七ツ森＊｝ reply?)");
+MsgDisp("主人公","(What kind of thing will ｛七ツ森＊｝
+reply?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

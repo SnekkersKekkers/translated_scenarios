@@ -25,13 +25,13 @@ I had a good time too.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400005_04_010");
-    MsgDisp("Nanatsumori","I spent this entire time laughing
-and having fun with you.");
+    MsgDisp("Nanatsumori","I spent this entire time laughing and
+having fun with you.");
     MsgDisp("主人公","Hehe, is that so?");
     VoicePlay("S120400005_04_020");
-    MsgDisp("Nanatsumori","Thanks to you, I think I'll
-really be able to enjoy our last two
-months of high school.");
+    MsgDisp("Nanatsumori","Thanks to you, I think I'll really be able
+to enjoy our last two months of high
+school.");
     MsgDisp("主人公","Yeah!");
     ChEye(4,4);
     ChMotion(4,0,1);
@@ -43,8 +43,8 @@ months of high school.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(Our last year of high school......
-Thanks to ｛七ツ森＊｝, I think I'll enjoy
-it too.)");
+Thanks to ｛七ツ森＊｝, I think I'll
+enjoy it too.)");
     break ;
     case 4:
     case 5:
@@ -54,8 +54,8 @@ it too.)");
     ChMotion(4,0);
     VoicePlay("S120400005_04_040");
     MsgDisp("Nanatsumori","Ahh.");
-    MsgDisp("主人公","I wanted to hear more about all
-your good memories.");
+    MsgDisp("主人公","I wanted to hear more about all your good
+memories.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("S120400005_04_050");
@@ -69,9 +69,9 @@ your good memories.");
     ChMotion(4,1,1);
     ChMouthOpenLevel(4,#1);
     VoicePlay("S120400005_04_070");
-    MsgDisp("Nanatsumori","You know, even if we graduate, we
-can still be together. Maybe we can keep
-meeting like this.");
+    MsgDisp("Nanatsumori","You know, even if we graduate, we can
+still be together.
+Maybe we can keep meeting like this.");
     MsgDisp("主人公","Huh?");
     ChEye(4,2);
     ChMouth(4,4);
@@ -80,8 +80,8 @@ meeting like this.");
     MsgDisp("Nanatsumori","I......more with you——");
     ChMouth(4,3);
     VoicePlay("S120400005_04_090");
-    MsgDisp("Nanatsumori","......Stop.
-I don't want to talk about this now.");
+    MsgDisp("Nanatsumori","......Stop. I don't want to talk about
+this now.");
     MsgDisp("主人公","｛七ツ森＊｝?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -101,8 +101,8 @@ Then, see you later.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(We're graduating soon......
-Like ｛七ツ森＊｝ says, I still 
-have a lot of things to do!)");
+Like ｛七ツ森＊｝ says, I still have a
+lot of things to do!)");
     break ;
     default :
     DbgAssert(1);

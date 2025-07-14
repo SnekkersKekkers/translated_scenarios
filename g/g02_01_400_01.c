@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChEye(1,4);
 VoicePlay("G020140001_01_000");
-MsgDisp("Kazama","When we come here, I tend to
-randomly remember things from our past.");
+MsgDisp("Kazama","When we come here, I tend to randomly
+remember things from our past.");
 MsgDisp("主人公","Like what?");
 ChEye(1,0);
 ChMouth(1,0);
@@ -27,8 +27,9 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020140001_01_030");
-MsgDisp("Kazama","It's fine. The most I get is the image
-popping into my head too.");
+MsgDisp("Kazama","It's fine.
+The most I get is the image popping into
+my head too.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -60,18 +61,18 @@ ChEye(1,4);
 ChMouth(1,3);
 VoiceEVSPlay(1);
 VoicePlay("G020140001_01_070");
-MsgDisp("Kazama","So, ｛主人公｝, I'm counting on you for the
-wonderful ones.");
+MsgDisp("Kazama","So, ｛主人公｝, I'm counting on you for
+the wonderful ones.");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020140001_01_080");
 MsgDisp("Kazama","Oh, of course I'm okay with idiotic ones
-too. As long as I'm making memories with
-you.");
+too.
+As long as I'm making memories with you.");
 MsgDisp("主人公","(I hope I can make a lot of memories with
-｛風真＊＊｝......)");
+｛風真＊＊｝...... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -17,8 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040103301_01_010");
-    MsgDisp("Kazama","Yeah, it's beautiful. And more
-eco-friendly than electric lights.");
+    MsgDisp("Kazama","Yeah, it's beautiful.
+And more eco-friendly than electric
+lights.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +30,9 @@ eco-friendly than electric lights.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040103301_01_020");
-    MsgDisp("Kazama","You're right. Deep sea creatures all seem
-to move slowly.");
+    MsgDisp("Kazama","You're right.
+Deep sea creatures all seem to move
+slowly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

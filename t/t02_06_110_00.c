@@ -55,15 +55,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020611000_06_050");
-MsgDisp("Himuro","When I realized that, 
-I was desperately searching for you.");
+MsgDisp("Himuro","When I realized that, I was desperately
+searching for you.");
 ChEye(6,2);
 ChMouth(6,4);
 ChEyeOpenLevel(6,7);
 VoicePlay("T020611000_06_060");
 MsgDisp("Himuro","I feel so stupid.
-Doing something like this
-wouldn't change the outcome.");
+Doing something like this wouldn't change
+the outcome.");
 Wait(60,0);
 ChEye(6,4);
 ChMouth(6,0);
@@ -80,8 +80,8 @@ SEPlay("EV_SE_557",0.2,0.6);
 ChOpen(6,254,7,4,0,10,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020611000_06_080");
-MsgDisp("Himuro","......｛主人公｝.
-I've always liked you.");
+MsgDisp("Himuro","......｛主人公｝. I've always liked
+you.");
 MsgDisp("主人公","!");
 ChEye(6,4);
 ChMouth(6,0);

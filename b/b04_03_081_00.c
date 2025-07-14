@@ -5,9 +5,9 @@ ChMotion(3,1,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040308100_03_000");
-MsgDisp("Honda","Yep, yep, everyone 
-looks like they're having fun!");
-MsgSel("｛本多＊＊｝ suits the falling cherry blossoms, huh","Being able to see the falling cherry blossoms is so fleeting...","I want to eat some delicious sakura mochi");
+MsgDisp("Honda","Yep, yep, everyone looks like they're
+having fun!");
+MsgSel("｛本多＊＊｝ suits the falling cherry blossoms, huh","Being able to see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -38,8 +38,9 @@ a sense of strength.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040308100_03_030");
-    MsgDisp("Honda","It's nice huh? That aroma of the pickled
-sakura leaf is good.");
+    MsgDisp("Honda","It's nice huh?
+That aroma of the pickled cherry blossom leaf is
+good.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

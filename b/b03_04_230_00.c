@@ -39,8 +39,7 @@ quickly fix your hair.");
     ChMotion(4,1,1);
     VoicePlay("B030423000_04_030");
     MsgDisp("Nanatsumori","I agree.
-A relaxed start to a
-cheerful day.");
+A relaxed start to a cheerful day.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -62,8 +61,8 @@ Ah, watch your step getting on.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,7);
     VoicePlay("B030423000_04_050");
-    MsgDisp("Nanatsumori","There's still the tried and true way... We
-could still do something completely
+    MsgDisp("Nanatsumori","There's still the tried and true way...
+We could still do something completely
 different...");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

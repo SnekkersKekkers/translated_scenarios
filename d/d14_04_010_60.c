@@ -8,7 +8,7 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0);
 VoicePlay("D140401060_04_010");
-MsgDisp("Nanatsumori","It's not something you would expect
-from a school cafeteria, right? When
-it's in front of me like this, it's a
-bit overwhelming......");
+MsgDisp("Nanatsumori","It's not something you would expect from a
+school cafeteria, right? When it's in
+front of me like this, it's a bit
+overwhelming......");

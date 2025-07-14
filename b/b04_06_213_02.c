@@ -6,8 +6,8 @@ ChMouth(6,0);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040621302_06_000");
-MsgDisp("Himuro","I wonder what cats and dogs 
-think about in life.");
+MsgDisp("Himuro","I wonder what cats and dogs think about in
+life.");
 MsgSel("Maybe mealtimes?","Are you interested?","They don't look like they're thinking anything.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,9 +27,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040621302_06_020");
-    MsgDisp("Himuro","I was just curious... but.
-That made me curious about 
-how intelligent they are.");
+    MsgDisp("Himuro","I was just curious... but. That made me
+curious about how intelligent they are.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +45,8 @@ how intelligent they are.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040621302_06_030");
-        MsgDisp("Himuro","That's an opinion that demonstrates
-the arrogance of humans.");
+        MsgDisp("Himuro","That's an opinion that demonstrates the
+arrogance of humans.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -57,8 +56,8 @@ the arrogance of humans.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621302_06_040");
-        MsgDisp("Himuro","Well they don't seem to be 
-thinking about anything big.");
+        MsgDisp("Himuro","Well they don't seem to be thinking about
+anything big.");
         ChEye(6,2);
         ChMouth(6,4);
         ChMotion(6,0);
@@ -83,32 +82,30 @@ want to become one.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040621302_06_080");
-        MsgDisp("Himuro","There are less things you 
-can do as an animal.");
+        MsgDisp("Himuro","There are less things you can do as an
+animal.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040621302_06_090");
-        MsgDisp("Himuro","If I were a cat or dog I
-wouldn't want to see you on a 
-date here with someone else.");
+        MsgDisp("Himuro","If I were a cat or dog I wouldn't want to
+see you on a date here with someone else.");
         MsgDisp("主人公","Eh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040621302_06_100");
-        MsgDisp("Himuro","I would rather be the one
-watching the fluffy lump.");
+        MsgDisp("Himuro","I would rather be the one watching the
+fluffy lump.");
         ChEye(6,3);
         ChMouth(6,4);
         ChMotion(6,0);
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040621302_06_110");
-        MsgDisp("Himuro","You look happy next to me, 
-and I'm content with our
-current circumstances. ");
+        MsgDisp("Himuro","You look happy next to me, and I'm content
+with our current circumstances.");
         break ;
         default :
         DbgAssert(1);

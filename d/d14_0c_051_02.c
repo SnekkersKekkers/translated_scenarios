@@ -13,8 +13,8 @@ ChCheek(6,0);
 VoicePlay("D140C05102_07_000");
 MsgDisp("Mikage","Let's do a rotation of vegetable,
 vegetanlle, meat, then vegetable?");
-MsgDisp("主人公","Hehe, it's mostly
-just vegetables isn't it?");
+MsgDisp("主人公","Hehe, it's mostly just vegetables isn't
+it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -28,8 +28,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140C05102_05_000");
 MsgDisp("Hiiragi","Inori-kun.
-Please leave those two
-alone a little longer.");
+Please leave those two alone a little
+longer.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -40,15 +40,15 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C05102_07_010");
 MsgDisp("Mikage","What are you two babbling about?
-You two should also focus on the 
+You two should also focus on the
 vegetables and chew well, okay?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C05102_05_010");
-MsgDisp("Hiiragi","This atmosphere... it's not a
-school cafeteria, but 
-a family dining table.");
+MsgDisp("Hiiragi","This atmosphere...
+it's not a school cafeteria, but a family
+dining table.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -89,8 +89,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140C05102_07_030");
 MsgDisp("Mikage","It's great, Yanosuke.");
-MsgDisp("主人公","(｛柊＊＊＊｝ and ｛御影＊＊｝
-seem to be having fun...
+MsgDisp("主人公","(｛柊＊＊＊｝ and ｛御影＊＊｝ seem to
+be having fun...
 But ｛氷室＊＊｝ seems a bit dissatisfied?)");
 BGMStop();
 MsgClose();

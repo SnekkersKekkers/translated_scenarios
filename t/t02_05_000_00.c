@@ -10,14 +10,14 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝......
-Why are you here?");
+MsgDisp("主人公","｛柊＊＊＊｝...... Why are you here?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("T020500000_05_010");
 MsgDisp("Hiiragi","I stubbornly believed that if I came here,
-I would meet you. ......It's a bad habit.");
+I would meet you.
+......It's a bad habit.");
 ChEyeOpenLevel(5,10);
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);
@@ -28,7 +28,7 @@ ChMouth(5,4);
 VoicePlay("T020500000_05_020");
 MsgDisp("Hiiragi","......Do you remember when I ate half of
 your bento on the rooftop?");
-MsgDisp("主人公","Yeah.｛柊＊＊＊｝ You were trying to do
+MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ You were trying to do
 your student council work without even
 eating lunch.");
 Wait(60,0);
@@ -99,8 +99,8 @@ by little you pulled me back as I headed
 in the wrong direction.");
 ChEyeOpenLevel(5,0);
 VoicePlay("T020500000_05_100");
-MsgDisp("Hiiragi","Gently.
-Like the gentle change of flowing water.");
+MsgDisp("Hiiragi","Gently. Like the gentle change of flowing
+water.");
 Wait(60,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -118,9 +118,9 @@ ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("T020500000_05_120");
-MsgDisp("Hiiragi","Of course, the audience loved theater. And
-so did the members of the company. I was
-the only one who was different......");
+MsgDisp("Hiiragi","Of course, the audience loved theater.
+And so did the members of the company.
+I was the only one who was different......");
 Wait(60,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -182,5 +182,6 @@ ChMouth(5,4);
 ChMotion(5,7);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020500000_05_190");
-MsgDisp("Hiiragi","I love you. I want the two of us to walk
-together forever.");
+MsgDisp("Hiiragi","I love you.
+I want the two of us to walk together
+forever.");

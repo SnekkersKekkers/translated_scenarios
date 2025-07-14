@@ -30,21 +30,21 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F122200002_22_020");
-MsgDisp("Hikaru","It might be meddling, but for 
-Mari's love, Hikaru will do anything.");
+MsgDisp("Hikaru","It might be meddling, but for Mari's love,
+Hikaru will do anything.");
 ChMotion(22,0,1);
 VoicePlay("F122200002_22_030");
 MsgDisp("Hikaru","This really is the end of high school,
 isn't it?");
-MsgDisp("主人公","｛ひかる＊｝......
-thanks for everything.");
+MsgDisp("主人公","｛ひかる＊｝...... thanks for
+everything.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F122200002_22_040");
-MsgDisp("Hikaru","Ehe, it's good, because Hikaru
-is Mari's cupid in love."); 
-MsgDisp("主人公","(Right, this Valentine's
-Day is the last one of high school...)");
+MsgDisp("Hikaru","Ehe, it's good, because Hikaru is Mari's
+cupid in love."); 
+MsgDisp("主人公","(Right, this Valentine's Day is the last
+one of high school...)");
 MsgClose();
 ScrFadeOut(0,0);

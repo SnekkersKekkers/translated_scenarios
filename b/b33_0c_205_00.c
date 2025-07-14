@@ -26,8 +26,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20500_05_000");
-MsgDisp("Hiiragi","Yes, it landed in the center
-all three times.");
+MsgDisp("Hiiragi","Yes, it landed in the center all three
+times.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -46,9 +46,9 @@ ChClose(7,0,30);
 ChEye(5,0);
 SEWait();
 VoicePlay("B330C20500_06_020");
-MsgDisp("Himuro","Sensei has a long reach,
-so stretch your arm as far as you can,
-get close to the target, and throw.");
+MsgDisp("Himuro","Sensei has a long reach, so stretch your
+arm as far as you can, get close to the
+target, and throw.");
 VoicePlay("B330C20500_07_010");
 MsgDisp("Mikage","Uh— 
 h-how is it, like this?");
@@ -82,22 +82,21 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20500_06_040");
-MsgDisp("Himuro","Eh? I'm stopping here.
-Since I might be teaching
-wrong things....");
+MsgDisp("Himuro","Eh? I'm stopping here. Since I might be
+teaching wrong things....");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("B330C20500_05_030");
-MsgDisp("Hiiragi","Eh, you were teaching
-Mikage-sensei just now?");
+MsgDisp("Hiiragi","Eh, you were teaching Mikage-sensei just
+now?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C20500_06_050");
 MsgDisp("Himuro","I was messing.
-See, teaching a teacher 
-is kind of interesting.");
+See, teaching a teacher is kind of
+interesting.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(5,4);
 ChMouth(5,4);
@@ -110,8 +109,8 @@ SEPlay("EV_SE_087");
 SEWait();
 VoicePlay("B330C20500_07_020");
 MsgDisp("Mikage","Ah, all of them were failures.");
-MsgDisp("主人公","(｛御影＊＊｝...
-Was ｛氷室＊＊｝ toying with you?)");
+MsgDisp("主人公","(｛御影＊＊｝... Was ｛氷室＊＊｝ toying
+with you?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

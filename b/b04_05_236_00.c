@@ -32,9 +32,8 @@ It's beautiful.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("B040523600_05_020");
-    MsgDisp("Hiiragi","Loud sounds are also necessary
-to forcefully draw you into 
-the world.");
+    MsgDisp("Hiiragi","Loud sounds are also necessary to
+forcefully draw you into the world.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,10 +44,9 @@ the world.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040523600_05_030");
-    MsgDisp("Hiiragi","Yeah...
-Was it neccesary to make it stand out
-that much? You won't be able to 
-look at anything else.");
+    MsgDisp("Hiiragi","Yeah... Was it neccesary to make it stand
+out that much? You won't be able to look
+at anything else.");
     MsgDateResultDisp();
     break ;
     default :

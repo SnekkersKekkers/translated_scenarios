@@ -32,9 +32,8 @@ Will you be okay?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("W090100000_01_030");
-    MsgDisp("Kazama","Alright. Since there's no one in
-front of us, it feels like
-we're alone.");
+    MsgDisp("Kazama","Alright. Since there's no one in front of
+us, it feels like we're alone.");
     break ;
     default :
     DbgAssert(1);

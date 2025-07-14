@@ -9,9 +9,8 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403200_04_000");
-MsgDisp("Nanatsumori","Excitingー.
-It looks nice no matter 
-what I take a picture of.");
+MsgDisp("Nanatsumori","Excitingー. It looks nice no matter what I
+take a picture of.");
 MsgSel("Aren't you aiming for too much?","Yeah, it's pretty!","It kinda makes my heart race");
 switch (MsgSelRsltGet()){
     case 0:

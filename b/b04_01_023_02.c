@@ -30,8 +30,9 @@ switch (MsgSelRsltGet()){
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040102302_01_020");
-        MsgDisp("Kazama","That's so obviously suspicious! That kind
-of curiosity will get you into trouble.");
+        MsgDisp("Kazama","That's so obviously suspicious!
+That kind of curiosity will get you into
+trouble.");
         MsgDateResultDisp();
         break ;
         case 4:

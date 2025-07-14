@@ -70,9 +70,9 @@ Wanna spend the next one together too?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q080100001_01_080");
-    MsgDisp("Kazama","Alright, we're going for a even better 
-day! You've got to be ready for it.
-See you back here.");
+    MsgDisp("Kazama","Alright, we're going for a even better
+day! You've got to be ready for it. See
+you back here.");
     break ;
     case 4:
     case 5:
@@ -99,8 +99,8 @@ I'm happy I asked you, ｛風真＊＊｝.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q080100001_01_110");
-    MsgDisp("Kazama","Wanna spend
-the next free period together...?");
+    MsgDisp("Kazama","Wanna spend the next free period
+together...?");
     MsgDisp("主人公","Sure......!
 I'm so happy.");
     ChEye(1,0);

@@ -13,7 +13,8 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040723600_07_000");
 MsgDisp("Mikage","Heeh, it's completely different from
-daytime. So this is the night parade～");
+daytime.
+So this is the night parade～");
 MsgSel("It's very popular.","Can you see it properly?","Let's dance together!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,9 +23,9 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040723600_07_010");
-    MsgDisp("Mikage","It doesn't matter if you're 
-a kid or an adult! You'll still
-get excited.");
+    MsgDisp("Mikage","It doesn't matter if you're a kid or an
+adult!
+You'll still get excited.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,9 +36,9 @@ get excited.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B040723600_07_020");
-    MsgDisp("Mikage","I can see it. Worry 
-about yourself. Look, there's an
-empty spot over there.");
+    MsgDisp("Mikage","I can see it.
+Worry about yourself.
+Look, there's an empty spot over there.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -5,9 +5,9 @@ ChOpen(3,255,0,4,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323101_03_000");
-MsgDisp("Honda","You really like going on 
-this again and again huh?");
-MsgSel("I love it▼","It's because I want to see｛本多＊＊｝'s expressions'","It's because it's a staple of amusement parks");
+MsgDisp("Honda","You really like going on this again and
+again huh?");
+MsgSel("I love it▼","It's because I want to see ｛本多＊＊｝'s expressions.","It's because it's a staple of amusement parks.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040323101_03_010");
-    MsgDisp("Honda","Okay... what is it about roller 
-coasters that fascinates you so much?
-Let's reconfirm it!");
+    MsgDisp("Honda","Okay... what is it about roller coasters
+that fascinates you so much? Let's
+reconfirm it!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,9 +27,8 @@ Let's reconfirm it!");
     ChEye(3,1);
     ChSet(3,2);
     VoicePlay("B040323101_03_020");
-    MsgDisp("Honda","Ehhhー...
-You want to see my
-face frozen in fear?");
+    MsgDisp("Honda","Ehhhー... You want to see my face frozen
+in fear?");
     MsgDateResultDisp();
     break ;
     case 2:

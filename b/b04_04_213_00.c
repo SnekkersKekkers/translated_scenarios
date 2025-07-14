@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(4);
     ChMotion(4,1,1);
     VoicePlay("B040421300_04_010");
-    MsgDisp("Nanatsumori","Right...
-They way they look when they come 
+    MsgDisp("Nanatsumori","Right... They way they look when they come
 up to you... they're like angels.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -27,8 +26,8 @@ up to you... they're like angels.");
     ChMouth(4,3);
     VoicePlay("B040421300_04_020");
     MsgDisp("Nanatsumori","Try it.
-Look, that kitty over there, 
-is just waiting to be held?");
+Look, that kitty over there, is just
+waiting to be held?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

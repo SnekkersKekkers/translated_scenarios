@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040204400_02_000");
-    MsgDisp("Sassa","Yeah the music hit me right in
-gut. Live music really is awesome!");
+    MsgDisp("Sassa","Yeah the music hit me right in gut.
+Live music really is awesome!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -22,8 +22,8 @@ gut. Live music really is awesome!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040204400_02_010");
-    MsgDisp("Sassa","It's better when you know more
-of the songs.");
+    MsgDisp("Sassa","It's better when you know more of the
+songs.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

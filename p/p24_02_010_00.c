@@ -7,8 +7,7 @@ BGOpen("sc740",0);
 BGMPlay("BGM_ENGEKI_B",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-It's the last scene.");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝. It's the last scene.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -37,12 +36,12 @@ Please return me to my world.");
 VoicePlay("P240201000_33_020");
 MsgDisp("Hades","I can't do that.");
 VoicePlay("P240201000_48_010");
-MsgDisp("Persephone","...Then I will cry, 
-I will continue to await help.");
+MsgDisp("Persephone","...Then I will cry, I will continue to
+await help.");
 VoicePlay("P240201000_33_040");
 MsgDisp("Hades","...That will not come true.
-The gatekeeper of hell, Cerebus 
-will not tolerate intruders.");
+The gatekeeper of hell, Cerebus will not
+tolerate intruders.");
 VoicePlay("P240201000_33_050");
 MsgDisp("Hades","Cerebus!
 ...Cerebus?");
@@ -60,8 +59,9 @@ SEStop("EV_SE_679",0.5);
 VoicePlay("P240201000_02_030");
 MsgDisp("Sassa","Yeah, 
 it wasn't very threatening though.");
-MsgDisp("主人公","Hehe, yeah. Guess he wants to play with
-｛颯砂＊＊｝, huh?");
+MsgDisp("主人公","Hehe, yeah.
+Guess he wants to play with ｛颯砂＊＊｝,
+huh?");
 VoicePlay("P240201000_48_020");
 MsgDisp("Persephone","Then, I will escape myself.");
 SEPlay("EV_SE_FOOT_001",0.3,0.2);
@@ -110,7 +110,7 @@ ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","Yay, it was a great success!");
 SEStop("EV_SE_681",1.5);
-MsgDisp("主人公","(Yes, a win for teamwork! 
+MsgDisp("主人公","(Yes, a win for teamwork!
 Thank you to the doggies to!)");
 MsgClose();
 ScrFadeOut(0,0);

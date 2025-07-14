@@ -10,9 +10,9 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040112102_01_000");
-MsgDisp("Kazama","Alright, this is the perfect place
-to check your fashion sense every
-once in awhile.");
+MsgDisp("Kazama","Alright, this is the perfect place to
+check your fashion sense every once in
+awhile.");
 MsgSel("Then I'll pick out some clothes for ｛風真＊＊｝▼","Yeah, let's get something matching.","Alright, I'll get serious!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -21,9 +21,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040112102_01_010");
-    MsgDisp("Kazama","Hey - Wait a minute.
-Let's just drop that for now.
-We can have our normal hangout. Right?");
+    MsgDisp("Kazama","Hey - Wait a minute. Let's just drop that
+for now. We can have our normal hangout.
+Right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -73,8 +73,8 @@ Please go gentle on me.");
         ChMotion(1,4);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040112102_01_050");
-        MsgDisp("Kazama","I get the weird feeling
-I flipped some strange switch on you...");
+        MsgDisp("Kazama","I get the weird feeling I flipped some
+strange switch on you...");
         ChClose(1);
         MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -82,8 +82,8 @@ I flipped some strange switch on you...");
         MsgClose();
         ChOpen(1,255,0,0,0,#1,#1,0,0);
         MsgDisp("主人公","Sorry, I just can't decide.
-It's difficult to figure out
-what you'd want.");
+It's difficult to figure out what you'd
+want.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0);
@@ -94,8 +94,8 @@ what you'd want.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040112102_01_070");
-        MsgDisp("Kazama","To see you thinking so hard
-about me, just seeing that is enough.");
+        MsgDisp("Kazama","To see you thinking so hard about me, just
+seeing that is enough.");
         MsgDisp("主人公","Huh?
 But I haven't found something yet.");
         ChEye(1,2);
@@ -103,9 +103,8 @@ But I haven't found something yet.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040112102_01_080");
-        MsgDisp("Kazama","I usually look at all kinds of
-different things, so even I
-don't know what I want.");
+        MsgDisp("Kazama","I usually look at all kinds of different
+things, so even I don't know what I want.");
         MsgDisp("主人公","I see...");
         ChMotion(1,0);
         Wait(12,0);
@@ -118,8 +117,8 @@ don't know what I want.");
         ChMotion(1,4);
         VoicePlay("B040112102_01_100");
         MsgDisp("Kazama","Thanks to you, I understand a little
-better. If it's you choosing, anything is
-good.");
+better.
+If it's you choosing, anything is good.");
         ChMotion(1,0);
         MsgDisp("主人公","(｛風真＊＊｝...)");
         break ;

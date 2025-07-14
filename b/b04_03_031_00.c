@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040303100_03_010");
-    MsgDisp("Honda","It's a hippocampus! A seahorse!
-Just as you said!
-That little guy is a splendid fish too.");
+    MsgDisp("Honda","It's a hippocampus! A seahorse! Just as
+you said! That little guy is a splendid
+fish too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -13,8 +13,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I350400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Welcome!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome!");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,4,1);
@@ -28,16 +27,14 @@ You're. Too. Loud.");
     ChMotion(4,0,1);
     VoicePlay("I350400000_04_020");
     MsgDisp("Nanatsumori","Is my usual seat open?");
-    MsgDisp("主人公","Yes!
-For you, sir, I polished it until it
+    MsgDisp("主人公","Yes! For you, sir, I polished it until it
 sparkled.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_030");
-    MsgDisp("Nanatsumori","Sparkle......
-Thanks for that.
-Then, could I get a menu?");
+    MsgDisp("Nanatsumori","Sparkle...... Thanks for that. Then, could
+I get a menu?");
     MsgDisp("主人公","(He seemed happy, I guess?)");
     break ;
     case 3:
@@ -54,18 +51,16 @@ Then, could I get a menu?");
 Thank you for coming!");
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_050");
-    MsgDisp("Nanatsumori","Yeah.
-But, I gotta go soon.
-I just came to say hi.");
+    MsgDisp("Nanatsumori","Yeah. But, I gotta go soon. I just came to
+say hi.");
     MsgDisp("主人公","Oh, is that so?");
     ChMotion(4,0,1);
     VoicePlay("I350400000_04_060");
-    MsgDisp("Nanatsumori","Yeah. I have a shoot at
-the studio next door after this.
-I'll come by after work.");
+    MsgDisp("Nanatsumori","Yeah. I have a shoot at the studio next
+door after this. I'll come by after work.");
     MsgDisp("主人公","I see.
-Then, I'll make sure your usual seat
-is shiny and clean!");
+Then, I'll make sure your usual seat is
+shiny and clean!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -77,8 +72,8 @@ Well, see you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Did ｛七ツ森＊｝ come to
-support me......?)");
+    MsgDisp("主人公","(Did ｛七ツ森＊｝ come to support
+me......?)");
     break ;
     case 4:
     case 5:
@@ -104,24 +99,22 @@ Welcome!");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I350400000_04_100");
-    MsgDisp("Nanatsumori","All the tension kinda drained
-from my body when I saw your face.");
+    MsgDisp("Nanatsumori","All the tension kinda drained from my body
+when I saw your face.");
     MsgDisp("主人公","Huh......");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_110");
-    MsgDisp("Nanatsumori","Nah, not in a bad way.
-Healed?
-That kinda good feeling.");
+    MsgDisp("Nanatsumori","Nah, not in a bad way. Healed? That kinda
+good feeling.");
     MsgDisp("主人公","Really?");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I350400000_04_120");
-    MsgDisp("Nanatsumori","Really.
-I'll have a cup of coffee to wake me up
-before I embarrass myself any more.");
+    MsgDisp("Nanatsumori","Really. I'll have a cup of coffee to wake
+me up before I embarrass myself any more.");
     MsgDisp("主人公","Hehe, got it!");
     ChEye(4,3);
     ChMouth(4,3);
@@ -129,8 +122,8 @@ before I embarrass myself any more.");
     VoicePlay("I350400000_04_130");
     MsgDisp("Nanatsumori","Heheh......
 More energy than healing, huh.");
-    MsgDisp("主人公","(｛七ツ森＊｝ looks like
-he's having fun.
+    MsgDisp("主人公","(｛七ツ森＊｝ looks like he's having
+fun.
 I think I'm feeling better, too!)");
     break ;
     default :

@@ -67,8 +67,8 @@ I don't plan on losing either.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040202302_02_060");
-        MsgDisp("Sassa","I think I understand. Sorry.
-That's my bad.");
+        MsgDisp("Sassa","I think I understand. Sorry. That's my
+bad.");
         MsgDisp("主人公","Eh?");
         ChEye(2,4);
         ChMouth(2,0);
@@ -80,21 +80,19 @@ That's why I was acting kind of weird.");
         ChMouth(2,4);
         ChMotion(2,1);
         VoicePlay("B040202302_02_080");
-        MsgDisp("Sassa","I won't let your words become
-fairytale.
+        MsgDisp("Sassa","I won't let your words become fairytale.
 That's a promise.");
         MsgDisp("主人公","Good.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040202302_02_090");
-        MsgDisp("Sassa","Getting all passionate while
-out to sea like this, it really feels
-like an anime after all, huh?");
+        MsgDisp("Sassa","Getting all passionate while out to sea
+like this, it really feels like an anime
+after all, huh?");
         MsgDisp("主人公","Hehe!");
-        MsgDisp("主人公","(If it's ｛颯砂＊＊｝,
-I truly believe he will make his dreams
-come true.)");
+        MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I truly believe he
+will make his dreams come true.)");
         break ;
         default :
         DbgAssert(1);

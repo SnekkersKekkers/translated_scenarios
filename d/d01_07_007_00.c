@@ -1,7 +1,7 @@
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's from Habacha's editorial
-department. It says......\"Can you please 
+department. It says......\"Can you please
 cover the event at Habataki Farm\"......)");
 MsgDisp("主人公","(Yeah! Of course I'll go.)");
 MsgClose();
@@ -13,8 +13,8 @@ MsgClose();
 BGOpen("tr500",0);
 ScrFadeIn(0);
 VoicePlay("D010700700_48_000");
-MsgDisp("Live","The \"Sheep Shearing Championship\"
-will begin soon!");
+MsgDisp("Live","The \"Sheep Shearing Championship\" will
+begin soon!");
 VoicePlay("D010700700_49_000");
 MsgDisp("Mom","Come, let's hurry.
 It's about to start!");
@@ -43,11 +43,12 @@ StlEyeOpenLevel(7,5);
 MsgDisp("主人公","｛御影＊＊｝∋");
 SEPlay("EV_SE_846",0.1,0.8);
 VoicePlay("D010700700_33_040");
-MsgDisp("Male Customer","Wow, that's amazing!　So fast!");
+MsgDisp("Male Customer","Wow, that's amazing!
+So fast!");
 StlEyeOpenLevel(7,#1);
 VoicePlay("D010700700_48_020");
-MsgDisp("Live","He's destroying the competition with
-his elegance......!
+MsgDisp("Live","He's destroying the competition with his
+elegance......!
 Even the sheep seems amazed∈");
 SEStop("EV_SE_792",3);
 SEStop("EV_SE_846",3);
@@ -87,19 +88,19 @@ ScrFadeIn(0);
 VoicePlay("D010700700_07_020");
 MsgDisp("Mikage","Ehh......I didn't know you were interested
 in this kind of thing?");
-MsgDisp("主人公","Ah, not really, I just wanted to
-get an interview for my part-time job
-at Habacha......");
+MsgDisp("主人公","Ah, not really, I just wanted to get an
+interview for my part-time job at
+Habacha......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("D010700700_07_030");
 MsgDisp("Mikage","I see.
-How about an exclusive interview with
-the champion then?");
+How about an exclusive interview with the
+champion then?");
 MsgDisp("主人公","Y-Yes please!!");
-MsgDisp("主人公","(I didn't expect to
-interview ｛御影＊＊｝......!)");
+MsgDisp("主人公","(I didn't expect to interview
+｛御影＊＊｝......! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

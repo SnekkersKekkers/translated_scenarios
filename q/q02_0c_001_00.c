@@ -10,8 +10,7 @@ Shall we go?");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","Eh!
-｛御影＊＊｝ and ｛柊＊＊＊｝?");
+MsgDisp("主人公","Eh! ｛御影＊＊｝ and ｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -24,15 +23,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q020C00100_07_010");
-MsgDisp("Mikage","That's true. That was maybe a bit crude on
-my part. Yanosuke, I'll leave it to you.");
+MsgDisp("Mikage","That's true.
+That was maybe a bit crude on my part.
+Yanosuke, I'll leave it to you.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("Q020C00100_05_010");
-MsgDisp("Hiiragi","｛主人公｝. Would you be inclined to spend
-today's free period with us?");
+MsgDisp("Hiiragi","｛主人公｝. Would you be inclined to
+spend today's free period with us?");
 MsgSel("Yes, please！","Sorry, it's just......");
 switch (MsgSelRsltGet()){
     case 0:
@@ -54,16 +54,17 @@ I'm sure Inori is also happy.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("Q020C00100_05_030");
-    MsgDisp("Hiiragi","Just now, Inori mailed us to
-'Make sure to have fun for me too'");
+    MsgDisp("Hiiragi","Just now, Inori mailed us to 'Make sure to
+have fun for me too'");
     MsgDisp("主人公","Hehe, I see.");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("Q020C00100_05_040");
-    MsgDisp("Hiiragi","When Mr. Mikage invited you like that,
-I was worried you'd reject going with us.");
+    MsgDisp("Hiiragi","When Mr.
+Mikage invited you like that, I was
+worried you'd reject going with us.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -73,8 +74,7 @@ Well then, let's finally go.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
-    MsgDisp("主人公","(Hehe.
-I have the feeling this will become 
+    MsgDisp("主人公","(Hehe. I have the feeling this will become
 a fun free period!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -120,8 +120,8 @@ Look, it's a free period, so be free!");
     SEPlay("EV_SE_856");
     ChClose(5,0,30);
     ChClose(7,0,30);
-    MsgDisp("主人公","(They even invited me,
-Was I being too harsh......?)");
+    MsgDisp("主人公","(They even invited me, Was I being too
+harsh......?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

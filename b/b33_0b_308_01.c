@@ -42,8 +42,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B30801_03_010");
-MsgDisp("Honda","Ah, did you want 
-to ride alone with someone?
+MsgDisp("Honda","Ah, did you want to ride alone with
+someone?
 The ferris wheel that is.");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
@@ -86,8 +86,8 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30801_04_020");
-MsgDisp("Nanatsumori","Are you going to ignore
-Honda's consideration?
+MsgDisp("Nanatsumori","Are you going to ignore Honda's
+consideration?
 That's cold.");
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);
@@ -99,9 +99,9 @@ ChMotion(4,0,1);
 VoicePlay("B330B30801_04_030");
 MsgDisp("Nanatsumori","If you say so, sure.
 Let's all go on it as four.");
-MsgDisp("主人公","(Hehe! But I might've 
-wanted to see ｛風真＊＊｝ and
-｛本多＊＊｝'s couple photo together?')");
+MsgDisp("主人公","(Hehe! But I might've wanted to see
+｛風真＊＊｝ and ｛本多＊＊｝'s couple
+photo together?')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

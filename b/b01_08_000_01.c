@@ -8,8 +8,8 @@ BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
 ChOpen(8,253,2,2,0,#1,#1,0,0);
 VoicePlay("B010800001_08_000");
-MsgDisp("Shirahane","You were waiting?
-... Did I keep ya waiting long?");
+MsgDisp("Shirahane","You were waiting? ... Did I keep ya
+waiting long?");
 MsgDisp("主人公","Yeah, just a little?");
 ChEye(8,2);
 ChMouth(8,1);
@@ -18,8 +18,7 @@ ChCheek(8,5);
 VoicePlay("B010800001_08_010");
 MsgDisp("Shirahane","Please forgive me!
 I'm not tryin' to make excuses, but I...");
-MsgDisp("主人公","Jeez, ｛大地＊＊｝.
-It's really okay.");
+MsgDisp("主人公","Jeez, ｛大地＊＊｝. It's really okay.");
 MsgDispSksp(1,0);
 ChEye(8,2);
 ChMouth(8,4);

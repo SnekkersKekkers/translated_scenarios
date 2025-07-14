@@ -13,9 +13,8 @@ ChOpen(4,253,0,0,0,#1,#1,0,3);
 ChOpen(1,253,0,0,0,#1,#1,0,3);
 ChOpen(3,253,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
-MsgDisp("主人公","It feels strange seeing these 
-stuffed animals after
-looking at real animals.");
+MsgDisp("主人公","It feels strange seeing these stuffed
+animals after looking at real animals.");
 ChMouth(1,2);
 ChEye(3,3);
 ChMouth(3,3);
@@ -23,24 +22,23 @@ ChMotion(3,1,1);
 VoicePlay("B330B30700_03_000");
 MsgDisp("Honda","Hmm, an interesting comment!
 What do you find strange about it?");
-MsgDisp("主人公","Hmmm...
-Maybe it's the cute colour
-s or how fluffy it feels?");
+MsgDisp("主人公","Hmmm... Maybe it's the cute colour s or
+how fluffy it feels?");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B330B30700_03_010");
 MsgDisp("Honda","Ahー,so it's that!
-I thought you were interested in 
-the way the body was structured.");
+I thought you were interested in the way
+the body was structured.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330B30700_01_000");
 MsgDisp("Kazama","That's typical of Honda.");
 ChFace(3,0);
-MsgDisp("主人公","Huh, ｛七ツ森＊｝.
-What are you looking at so seriously?");
+MsgDisp("主人公","Huh, ｛七ツ森＊｝. What are you looking
+at so seriously?");
 ChEye(1,0);
 ChMouth(1,0);
 ChEye(4,0);
@@ -71,24 +69,23 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B330B30700_01_010");
-MsgDisp("Kazama","If it's not a  cheetah,
-then it's a leopard.");
+MsgDisp("Kazama","If it's not a cheetah, then it's a
+leopard.");
 MsgDisp("主人公","A jaguar?");
 ChEye(1,0);
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30700_04_020");
-MsgDisp("Nanatsumori","Hm.
-Unfortunately, neither of 
-you have said itー.");
+MsgDisp("Nanatsumori","Hm. Unfortunately, neither of you have
+said itー.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B30700_03_040");
 MsgDisp("Honda","This is a hard one.
-I think it'll be impossible
-e even with a hint.");
+I think it'll be impossible e even with a
+hint.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -105,9 +102,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30700_04_040");
-MsgDisp("Nanatsumori","Right.
-That's why I'm curious 
-as to why it was here.");
+MsgDisp("Nanatsumori","Right. That's why I'm curious as to why it
+was here.");
 MsgDisp("主人公","(There definitely wasn't one...
 But, it's cute so it's fine♪)");
 BGMStop();

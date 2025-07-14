@@ -37,8 +37,8 @@ supported them with everything you had.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("H2A0700001_07_040");
-    MsgDisp("Mikage","Thanks to that, lots of members
-achieved new personal bests.");
+    MsgDisp("Mikage","Thanks to that, lots of members achieved
+new personal bests.");
     MsgDisp("主人公","Yes, everyone did their best......");
     ChEye(7,0);
     ChMouth(7,3);
@@ -53,8 +53,8 @@ To make you do my job as well.");
     VoicePlay("H2A0700001_07_060");
     MsgDisp("Mikage","Come on, everyone's waiting for
 you. Go.");
-    MsgDisp("主人公","(We didn't win championships,
-but...... Everyone really did their best.
+    MsgDisp("主人公","(We didn't win championships, but......
+Everyone really did their best.
 I'm glad I kept up with the club......)");
     break ;
     default :

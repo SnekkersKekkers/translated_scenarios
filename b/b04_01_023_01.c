@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102301_01_010");
-    MsgDisp("Kazama","Since you seem to like it,
-should we come here again?");
+    MsgDisp("Kazama","Since you seem to like it, should we come
+here again?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

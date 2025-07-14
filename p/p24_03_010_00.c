@@ -12,15 +12,15 @@ ChLayout(1);
 BGMPlay("BGM_ENGEKI_C",0.01);
 ScrFadeIn(0);
 VoicePlay("P240301000_03_000");
-MsgDisp("Honda","The set has been changed, 
-now it's time for the final scene, right?");
+MsgDisp("Honda","The set has been changed, now it's time
+for the final scene, right?");
 MsgDisp("主人公","Yes, this scene is great♪");
 ChMouth(3,4);
 VoicePlay("P240301000_34_000");
 MsgDisp("Kuroda Kanbei","Ah... I've finally returned...");
 VoicePlay("P240301000_44_000");
-MsgDisp("Mitsuki","After being imprisoned for so long,
-to see you in this state...
+MsgDisp("Mitsuki","After being imprisoned for so long, to see
+you in this state...
 Ah, how pitiable.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -62,8 +62,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P240301000_03_040");
-MsgDisp("Honda","Haha, so maybe Kuroda Kanbei
-used some of that eye medicine after this?");
+MsgDisp("Honda","Haha, so maybe Kuroda Kanbei used some of
+that eye medicine after this?");
 MsgDisp("主人公","(｛本多＊＊｝, this is such a good part...)");
 VoicePlay("P240301000_34_060");
 MsgDisp("Kuroda Kanbei","Indeed, it is Mitsuhime.

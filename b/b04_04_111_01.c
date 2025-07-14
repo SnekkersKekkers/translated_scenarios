@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040411101_04_020");
-    MsgDisp("Nanatsumori","...Even if I do that, it won't
-change the fact it's slippery.");
+    MsgDisp("Nanatsumori","...Even if I do that, it won't change the
+fact it's slippery.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -6,10 +6,9 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040522101_05_000");
-MsgDisp("Hiiragi","The theatre troupe has been allowed
-to do a play with the castle as 
-the stage setting. I'll 
-always be grateful for that.");
+MsgDisp("Hiiragi","The theatre troupe has been allowed to do
+a play with the castle as the stage
+setting. I'll always be grateful for that.");
 MsgSel("Habataki Flames Rising!","It's a very popular play","Would you want to perform it here?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040522101_05_010");
     MsgDisp("Hiiragi","Thank you very much.
-Thankfully, it seems like everyone 
+Thankfully, it seems like everyone
 remembers it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -32,8 +31,8 @@ remembers it.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040522101_05_020");
-    MsgDisp("Hiiragi","I'd be happy if it were a 
-favorite of yours. ");
+    MsgDisp("Hiiragi","I'd be happy if it were a favorite of
+yours.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

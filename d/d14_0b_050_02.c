@@ -46,8 +46,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("D140B05002_03_020");
-MsgDisp("Honda","You're not dating,
-but you're so lovey dovey?");
+MsgDisp("Honda","You're not dating, but you're so lovey
+dovey?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
@@ -64,24 +64,22 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D140B05002_04_030");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori","Ah, yeah.
-That's right. That's all.
-Right, ｛主人公｝?");
+MsgDisp("Nanatsumori","Ah, yeah. That's right. That's all. Right,
+｛主人公｝?");
 MsgDisp("主人公","Ah...Yeah.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B05002_01_020");
-MsgDisp("Kazama","Don't enter their own world 
-over there. \"That's all\",
-they said.");
+MsgDisp("Kazama","Don't enter their own world over there.
+\"That's all\", they said.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D140B05002_03_030");
-MsgDisp("Honda","The only one who wants it
-to be over is Ryo-kun isn't it?");
+MsgDisp("Honda","The only one who wants it to be over is
+Ryo-kun isn't it?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

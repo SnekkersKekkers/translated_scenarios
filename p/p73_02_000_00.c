@@ -7,8 +7,8 @@ switch (ChPrmGet(2,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I finished just in time but, 
-it's finally the runway...I'm nervous..)");
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -18,8 +18,8 @@ it's finally the runway...I'm nervous..)");
     MsgDisp("Sassa","｛主人公｝, how are the preparations?
 I came to see your model debut.");
     MsgDisp("主人公","Thank you.
-I'm nervous to walk a runway
-wearing the clothes I made.");
+I'm nervous to walk a runway wearing the
+clothes I made.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -38,8 +38,8 @@ front.");
     VoicePlay("P730200000_02_030");
     MsgDisp("Sassa","...How should I cheer you on?
 \"Do your best!\" is a bit weird...");
-    MsgDisp("主人公","Hehe, it's not a sport, so
-just clapping is fine?");
+    MsgDisp("主人公","Hehe, it's not a sport, so just clapping
+is fine?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -52,10 +52,10 @@ just clapping is fine?");
     ChMouth(2,4);
     ChMotion(2,1);
     VoicePlay("P730200000_02_050");
-    MsgDisp("Sassa","Oh, do your best! No, I should be giving
-you a round of applause.");
-    MsgDisp("主人公","(Hehe!
-For the sake of ｛颯砂＊＊｝ too, 
+    MsgDisp("Sassa","Oh, do your best!
+No, I should be giving you a round of
+applause.");
+    MsgDisp("主人公","(Hehe! For the sake of ｛颯砂＊＊｝ too,
 let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -65,17 +65,16 @@ let's do our best!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I finished just in time but, 
-it's finally the runway...I'm nervous..)");
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(2,254,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P730200000_02_060");
-    MsgDisp("Sassa","｛主人公｝.
-How are the preparations 
-or the fashion show?");
+    MsgDisp("Sassa","｛主人公｝. How are the preparations or
+the fashion show?");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -95,9 +94,9 @@ It's not a modelling club after all.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P730200000_02_090");
-    MsgDisp("Sassa","But the clothes that you made, 
-fit you the most. It's way better than
-having someone else model them.");
+    MsgDisp("Sassa","But the clothes that you made, fit you the
+most. It's way better than having someone
+else model them.");
     MsgDisp("主人公","｛颯砂＊＊｝...");
     SEPlay("EV_SE_038");
     SEWait();
@@ -107,8 +106,8 @@ having someone else model them.");
     VoicePlay("P730200000_02_100");
     MsgDisp("Sassa","So, go with confidence.");
     MsgDisp("主人公","Yeah, thank you!");
-    MsgDisp("主人公","(｛颯砂＊＊｝ gave me courage, 
-I have to make this a success!)");
+    MsgDisp("主人公","(｛颯砂＊＊｝ gave me courage, I have to
+make this a success!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

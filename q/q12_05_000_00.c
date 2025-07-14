@@ -11,8 +11,8 @@ switch (ChPrmGet(5,6)){
     ChEye(5,4);
     VoicePlay("Q120500000_05_000");
     MsgDisp("Hiiragi","It was fun going around with you.");
-    MsgDisp("主人公","Me too. thanks to you, ｛柊＊＊＊｝,
-I made wonderful memories. Thank you!");
+    MsgDisp("主人公","Me too. thanks to you, ｛柊＊＊＊｝, I
+made wonderful memories. Thank you!");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_010");
@@ -31,30 +31,30 @@ compare, But it is the best ever.");
     ChMotion(5,0,1);
     ScrFadeIn(0);
     VoicePlay("Q120500000_05_030");
-    MsgDisp("Hiiragi","I never knew, 
-school trips are so much fun.");
-    MsgDisp("主人公","Of course,
-it's your first time, ｛柊＊＊＊｝.");
+    MsgDisp("Hiiragi","I never knew, school trips are so much
+fun.");
+    MsgDisp("主人公","Of course, it's your first time,
+｛柊＊＊＊｝.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_040");
-    MsgDisp("Hiiragi","Yes. So I'm not able to compare, but
-It's absolutely the best school trip
-I've ever had.");
-    MsgDisp("主人公","I'm glad. I also really enjoyed spending
-the free period with you, ｛柊＊＊＊｝.");
+    MsgDisp("Hiiragi","Yes. So I'm not able to compare, but It's
+absolutely the best school trip I've ever
+had.");
+    MsgDisp("主人公","I'm glad.
+I also really enjoyed spending the free
+period with you, ｛柊＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q120500000_05_050");
-    MsgDisp("Hiiragi","I'm happy I'm not the only one being 
+    MsgDisp("Hiiragi","I'm happy I'm not the only one being
 carried away.");
     MsgDisp("主人公","Hehe, are you carried away?");
     ChEye(5,3);
     ChMotion(5,3);
     Wait(20,1);
     VoicePlay("Q120500000_05_060");
-    MsgDisp("Hiiragi","Yes.
-I'm now totally a fan of Nagasaki and 
+    MsgDisp("Hiiragi","Yes. I'm now totally a fan of Nagasaki and
 school trips.");
     MsgDisp("主人公","(I think this is my first time seeing
 ｛柊＊＊＊｝ being so happy......?
@@ -86,9 +86,9 @@ Nagasaki is really a nice place.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("Q120500000_05_100");
-    MsgDisp("Hiiragi","That's right. And you know, you wouldn't
-have been on those old school trips with
-me either.");
+    MsgDisp("Hiiragi","That's right.
+And you know, you wouldn't have been on
+those old school trips with me either.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -100,10 +100,10 @@ me either.");
     ChMotion(5,4);
     VoicePlay("Q120500000_05_120");
     MsgDisp("Hiiragi","The free period is over but the school
-trip continues on. Let's enjoy ourselves
-until the end.");
+trip continues on.
+Let's enjoy ourselves until the end.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝!)");
+    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝! )");
     break ;
     default :
     DbgAssert(1);

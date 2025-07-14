@@ -8,8 +8,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
-Are you heading home now?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝. Are you heading home now?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -41,9 +40,8 @@ What's up?");
 MsgDisp("主人公","Good work.
 I came to see how ｛本多＊＊｝ is doing.");
 VoicePlay("G110300502_03_030");
-MsgDisp("Honda","Really?
-I'm happy.
-A lot of people came in today.");
+MsgDisp("Honda","Really? I'm happy. A lot of people came in
+today.");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,0);
@@ -69,8 +67,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G110300502_03_070");
-MsgDisp("Honda","Yeah, 
-but keep the aquarium thing secret 
+MsgDisp("Honda","Yeah, but keep the aquarium thing secret
 from the manager, okay?");
 MsgDisp("主人公","(Hehe, it seems like it's tough being
 popular?)");

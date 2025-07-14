@@ -41,9 +41,9 @@ Even now.");
     ChMotion(1,2);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040108500_01_030");
-    MsgDisp("Kazama","Ohh, that could be... Maybe they're hiding
-something by saying it's just the home of
-the fireflies.");
+    MsgDisp("Kazama","Ohh, that could be...
+Maybe they're hiding something by saying
+it's just the home of the fireflies.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -19,8 +19,7 @@ There are so many people.");
         ChMotion(5,4);
         VoicePlay("S090500000_05_010");
         MsgDisp("Hiiragi","Right, there's no other choice.");
-        MsgDisp("主人公","Hehe ｛柊＊＊＊｝ likes
-fortunes?");
+        MsgDisp("主人公","Hehe ｛柊＊＊＊｝ likes fortunes?");
         ChEye(5,0);
         ChMotion(5,3);
         VoicePlay("S090500000_05_020");
@@ -52,7 +51,8 @@ ones.");
     ChOpen(5,255,0,2,4,#1,#1,0,0);
     VoicePlay("S090500000_05_040");
     MsgDisp("Hiiragi","The fortune stand is so popular.");
-    MsgDisp("主人公","It really is. So many people.");
+    MsgDisp("主人公","It really is.
+So many people.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("S090500000_05_050");
@@ -76,8 +76,8 @@ ones.");
         ChMotion(5,2);
         VoicePlay("S090500000_05_070");
         MsgDisp("Hiiragi","Ah, that type of person exists.");
-        MsgDisp("主人公","(｛柊＊＊＊｝ maybe is the
-type of person to pull fortunes.)");
+        MsgDisp("主人公","(｛柊＊＊＊｝ maybe is the type of person
+to pull fortunes.)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -93,8 +93,8 @@ type of person to pull fortunes.)");
     MsgClose();
     ChOpen(5,255,2,0,4,#1,#1,0,0);
     VoicePlay("S090500000_05_080");
-    MsgDisp("Hiiragi","Are you waiting for your turn
-over there too?");
+    MsgDisp("Hiiragi","Are you waiting for your turn over there
+too?");
     MsgDisp("主人公","Oh, this is the line for
 drawing fortunes!");
     ChEye(5,4);
@@ -109,11 +109,10 @@ drawing fortunes!");
         ChMouth(5,3);
         ChMotion(5,3);
         VoicePlay("S090500000_05_100");
-        MsgDisp("Hiiragi","Right.
-When you get this far, there's no sense
-in backing out.");
-        MsgDisp("主人公","Hehe. Yep.
-Which hand should I use to pull?");
+        MsgDisp("Hiiragi","Right. When you get this far, there's no
+sense in backing out.");
+        MsgDisp("主人公","Hehe. Yep. Which hand should I use to
+pull?");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,4);

@@ -14,8 +14,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,2,4,#1,#1,0,0,0,30);
     VoicePlay("H480500000_05_000");
     MsgDisp("Hiiragi","Ah, I've finally found you.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-Did you come to watch me?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Did you come to watch
+me?");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,3);
@@ -29,23 +29,21 @@ even if you are joking.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("H480500000_05_020");
-    MsgDisp("Hiiragi","Hm?
-I wouldn't tell such an unamusing joke.");
+    MsgDisp("Hiiragi","Hm? I wouldn't tell such an unamusing
+joke.");
     ChEye(5,4);
     VoicePlay("H480500000_05_030");
-    MsgDisp("Hiiragi","The way you express your nerves, 
-all the way down to the very tips 
-of your fingers in your performance, 
-inspires me.");
-    MsgDisp("主人公","Thank you. But, hearing you say
-that is starting to make me a little
-nervous, ｛柊＊＊＊｝......");
+    MsgDisp("Hiiragi","The way you express your nerves, all the
+way down to the very tips of your fingers
+in your performance, inspires me.");
+    MsgDisp("主人公","Thank you. But, hearing you say that is
+starting to make me a little nervous,
+｛柊＊＊＊｝......");
     ChEye(5,3);
     VoicePlay("H480500000_05_040");
-    MsgDisp("Hiiragi","Haha, you've already received a 
-perfect score from me. All that's 
-left is for you to make sure you're 
-satisfied. Go on.");
+    MsgDisp("Hiiragi","Haha, you've already received a perfect
+score from me. All that's left is for you
+to make sure you're satisfied. Go on.");
     MsgDisp("主人公","(Alright......
 I have to do my best!)");
     break ;

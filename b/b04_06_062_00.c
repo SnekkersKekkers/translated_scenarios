@@ -36,10 +36,9 @@ Don't fall in, it'll be a pain if you do.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040606200_06_030");
-    MsgDisp("Himuro","You're a poet huh.
-But, I get why you'd want to express
-it that way. It's not enough
-just to say it's beautiful.");
+    MsgDisp("Himuro","You're a poet huh. But, I get why you'd
+want to express it that way. It's not
+enough just to say it's beautiful.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

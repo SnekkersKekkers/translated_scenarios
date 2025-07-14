@@ -2,10 +2,10 @@ MsgType(3);
 BGMPlay("BGM_C03_HONDA_I",0.01);
 BGOpen("ad320",0);
 ScrFadeIn(0);
-MsgDisp("","The'Quiz Brain Interhigh'
-is the most enjoyable.");
-MsgDisp("","The title of Quiz King,
-the crown, and the gown felt great. 
+MsgDisp("","The'Quiz Brain Interhigh' is the most
+enjoyable.");
+MsgDisp("","The title of Quiz King, the crown,
+and the gown felt great.
 I wish they had given them to me...");
 MsgClear();
 MsgDisp("","The host listens properly not only to
@@ -22,8 +22,8 @@ ScrFadeOut(0);
 BGOpen("ad321",0);
 SEPlay("EV_SE_DOOR_001");
 ScrFadeIn(0);
-MsgDisp("","And that's why, I went to her
-house to tell her the news in person.");
+MsgDisp("","And that's why, I went to her house
+to tell her the news in person.");
 SEPlay("EV_SE_DOOR_022");
 MsgDisp("","When she saw my face, she was a bit
 surprised, But immediately
@@ -42,9 +42,9 @@ MsgDisp("","I said that during the broadcast I
 wanted to call out your name, but
 when I said that, you made a bit of a
 strange face... why is that?");
-MsgDisp("","While I was thinking about that,
-I happened to pass by the
-park near her house.");
+MsgDisp("","While I was thinking about that, I
+happened to pass by the park near her
+house.");
 MsgDisp("主人公","\"｛本多＊＊｝！\"");
 MsgClear();
 MsgDisp("","From time to time, when I hear this

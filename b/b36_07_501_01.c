@@ -23,16 +23,15 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B360750101_07_020");
 MsgDisp("Mikage","Haha, okay.
-Shall we take three steps forward
-and two steps back?");
+Shall we take three steps forward and two
+steps back?");
 MsgDisp("主人公","Hehe, sure.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360750101_07_030");
-MsgDisp("Mikage","Hey you can't just say \"okay\"
-aren't you going to say something
-about it?");
+MsgDisp("Mikage","Hey you can't just say \"okay\" aren't you
+going to say something about it?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

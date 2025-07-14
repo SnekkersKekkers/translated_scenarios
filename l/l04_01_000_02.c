@@ -13,15 +13,14 @@ This is expensive, isn't it?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100002_01_010");
-    MsgDisp("Kazama","I guess so. You do sometimes
-trouble me.");
+    MsgDisp("Kazama","I guess so.
+You do sometimes trouble me.");
     MsgDisp("主人公","Geez.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100002_01_020");
-    MsgDisp("Kazama","Well, I'll take it as a
-good luck charm.
+    MsgDisp("Kazama","Well, I'll take it as a good luck charm.
 Thank you very much.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -44,10 +43,10 @@ He seemed happy.)");
     ChMotion(1,0);
     VoicePlay("L040100002_01_040");
     MsgDisp("Kazama","How much does your job pay you?
-Thinking about that, it's a little hard
-to eat this.");
-    MsgDisp("主人公","Huh?
-It looks delicious, so eat it properly.");
+Thinking about that, it's a little hard to
+eat this.");
+    MsgDisp("主人公","Huh? It looks delicious, so eat it
+properly.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -77,8 +76,8 @@ He seemed happy.)");
     MsgDisp("Kazama","......Geez, it's fine.
 As long as your feelings are in this.");
     ChMotion(1,0);
-    MsgDisp("主人公","Well, the chocolate
-looked super delicious, too.");
+    MsgDisp("主人公","Well, the chocolate looked super
+delicious, too.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0,1);
@@ -90,15 +89,13 @@ You were the one who gave it to me.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100002_01_090");
-    MsgDisp("Kazama","Alright, let's eat it
-together later.
+    MsgDisp("Kazama","Alright, let's eat it together later.
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(｛風真＊＊｝ was happy about it,
-right?");
+    MsgDisp("主人公","(｛風真＊＊｝ was happy about it, right?");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

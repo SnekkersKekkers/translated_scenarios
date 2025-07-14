@@ -7,7 +7,7 @@ ChMotion(2,1);
 ScrFadeIn(0);
 VoicePlay("B040215100_02_000");
 MsgDisp("Sassa","Now, let's have a contest!");
-MsgSel("I won't lose!","｛颯砂＊＊｝'s ball looks heavy...'","Having a contest is a bit...");
+MsgSel("I won't lose!","｛颯砂＊＊｝'s ball looks heavy...","Having a contest is a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -26,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040215100_02_020");
-    MsgDisp("Sassa","On the opposite, If it's too light, 
-I'll hurt my shoulder.");
+    MsgDisp("Sassa","On the opposite, If it's too light, I'll
+hurt my shoulder.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

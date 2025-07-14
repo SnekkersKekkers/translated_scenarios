@@ -45,8 +45,8 @@ Thanks.");
     MsgDisp("Shirahane","Nah, what am I sayin'.
 It's good that I even got some......");
     MsgDisp("主人公","(He seems sad.
-Maybe I should have given him
-a better chocolate......?)");
+Maybe I should have given him a better
+chocolate......?)");
     break ;
     default :
     DbgAssert(1);

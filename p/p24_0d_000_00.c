@@ -16,12 +16,11 @@ ChOpen(21,38,1,0,4,#1,#1,0,1);
 SEPlay("EV_SE_544");
 ChOpen(22,38,0,0,3,#1,#1,0,2);
 VoicePlay("P240D00000_21_000");
-MsgDisp("Michiru","You interfere with people's love lives, 
+MsgDisp("Michiru","You interfere with people's love lives,
 You should be kicked by a horse!");
 VoicePlay("P240D00000_47_020");
 MsgDisp("Opponent","Curse you!
-\"Flora Angels\"
-Stop interfering～∈");
+\"Flora Angels\" Stop interfering～∈");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -34,8 +33,8 @@ ChMotion(21,4);
 VoicePlay("P240D00000_21_010");
 MsgDisp("Michiru","The guardian of love.
 Pink Angel!");
-MsgDisp("主人公","A beginner of love...? Love hunter,
-White angel!");
+MsgDisp("主人公","A beginner of love...?
+Love hunter, White angel!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,1,1);
@@ -81,13 +80,13 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P240D00000_22_040");
-MsgDisp("Hikaru","Aha▼
-It's a win for Hikaru and her friends～♪");
+MsgDisp("Hikaru","Aha▼ It's a win for Hikaru and her
+friends～♪");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P240D00000_21_040");
-MsgDisp("Michiru","We protected the lovers again. 
+MsgDisp("Michiru","We protected the lovers again.
 Thank goodness...");
 MsgDisp("主人公","Yeah...
 Hooray, it was a great success1");

@@ -40,8 +40,8 @@ MsgDisp("主人公","(Eh?)");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("P240400000_04_040");
-MsgDisp("Nanatsumori","Actually,
-at this point I should dazzlingly～
+MsgDisp("Nanatsumori","Actually, at this point I should
+dazzlingly～
 turn back into a handsome guy, huh?");
 MsgDisp("主人公","Y-Yeah, that's right.
 That's why you should start getting up...");
@@ -55,10 +55,10 @@ StlMouth(4,1);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("P240400000_04_060");
 MsgDisp("Nanatsumori","Because she loves me as the beast, right?
-After this I'll look like a 
-completely different person.");
-MsgDisp("主人公","But even if you say that, 
-that's the story's happy ending...");
+After this I'll look like a completely
+different person.");
+MsgDisp("主人公","But even if you say that, that's the
+story's happy ending...");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("P240400000_04_070");
@@ -114,8 +114,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(4);
-MsgDisp("主人公","(｛七ツ森＊｝...
-what's wrong?)");
+MsgDisp("主人公","(｛七ツ森＊｝... what's wrong?)");
 MsgDisp("主人公","(Still, the cheers after Nanatsumori's
 makeup was removed was amazing... I wonder
 if that revealed ｛七ツ森＊｝'s true

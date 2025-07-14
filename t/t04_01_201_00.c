@@ -19,8 +19,9 @@ VoicePlay("T040120100_01_010");
 MsgDisp("Kazama","But this seating arrangement is natural,
 right?");
 VoicePlay("T040120100_03_000");
-MsgDisp("Honda","Is it natural......? It seems unnatural
-that Ryou-kun took that position.");
+MsgDisp("Honda","Is it natural......?
+It seems unnatural that Ryou-kun took that
+position.");
 VoicePlay("T040120100_04_000");
 MsgDisp("Nanatsumori","Kazama's unnaturalness is a part of
 everyday life.");

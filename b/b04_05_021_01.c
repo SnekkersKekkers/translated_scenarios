@@ -5,8 +5,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040502101_05_000");
-MsgDisp("Hiiragi","The sunrise seen from 
-here would surely be beautiful.");
+MsgDisp("Hiiragi","The sunrise seen from here would surely be
+beautiful.");
 MsgSel("I want to see the first sunrise of the year!","What about the sunset?","What time should we meet?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040502101_05_010");
     MsgDisp("Hiiragi","That would be nice!
-It would be fun to spend
-new years day with you.");
+It would be fun to spend new years day
+with you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,7 @@ new years day with you.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("B040502101_05_020");
-    MsgDisp("Hiiragi","Umm... I wonder?
-You appear to know more 
+    MsgDisp("Hiiragi","Umm... I wonder? You appear to know more
 about it than I do.");
     MsgDateResultDisp();
     break ;

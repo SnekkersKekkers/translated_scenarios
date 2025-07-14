@@ -2,8 +2,7 @@ MsgClose();
 ChClose(2,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-｛颯砂＊＊｝ still isn't here yet..");
+MsgDisp("主人公","Huh? ｛颯砂＊＊｝ still isn't here yet..");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -24,8 +23,8 @@ MsgClose();
 ChOpen(2,31,3,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110200001_02_000");
 MsgDisp("Sassa","Of course not.
-don't just take someone's 
-name as you like.");
+don't just take someone's name as you
+like.");
 MsgDisp("主人公","Ah, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -50,8 +49,8 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B110200001_02_030");
 MsgDisp("Sassa","Hey, you...
-Have you been standing
-here this whole time?");
+Have you been standing here this whole
+time?");
 MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);
@@ -88,7 +87,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B110200001_02_060");
-MsgDisp("Sassa","Ah, idiot! Don't run!");
+MsgDisp("Sassa","Ah, idiot!
+Don't run!");
 MsgDisp("主人公","He left...");
 ChEye(2,0);
 ChMouth(2,0);
@@ -100,8 +100,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B110200001_02_080");
 MsgDisp("Sassa","Anyways, I'm sorry.
-I got help up, and you ended up
-in this scary situation.");
+I got help up, and you ended up in this
+scary situation.");
 MsgDisp("主人公","No, I'm alright.
 Thank you for helping me.
 ｛颯砂＊＊｝ is kind, isn't he?");
@@ -110,5 +110,6 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("B110200001_02_090");
-MsgDisp("Sassa","Am I? Well, let's go back to square
-one and have fun, okay?");
+MsgDisp("Sassa","Am I?
+Well, let's go back to square one and have
+fun, okay?");

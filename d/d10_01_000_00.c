@@ -32,10 +32,11 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D100100000_01_020");
-MsgDisp("Kazama","I didn't think you'd run into me
-like that, though. Be careful, okay?");
-MsgDisp("主人公","(｛風真＊＊｝ somehow knows what
-I'm up to......?)");
+MsgDisp("Kazama","I didn't think you'd run into me like
+that, though.
+Be careful, okay?");
+MsgDisp("主人公","(｛風真＊＊｝ somehow knows what I'm up
+to......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -8,7 +8,8 @@ ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B030523000_05_000");
 MsgDisp("Hiiragi","The crowd is brimming with excitement.
-Let's have fun too. Where to, then?");
+Let's have fun too.
+Where to, then?");
 MsgSel("The Roller Coaster is good","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the teacup.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B030523000_05_010");
     MsgDisp("Hiiragi","Correct answer.
-It would be nice if we were in front
-of the line already!");
+It would be nice if we were in front of
+the line already!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -33,8 +34,8 @@ of the line already!");
     ScrFadeIn(0);
     ChMotion(5,5);
     VoicePlay("B030523000_05_020");
-    MsgDisp("Hiiragi","That feeling of floating while
-falling through the air......Interesting!");
+    MsgDisp("Hiiragi","That feeling of floating while falling
+through the air......Interesting!");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -54,9 +55,9 @@ Let's go.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030523000_05_040");
-    MsgDisp("Hiiragi","I like that feeling you get when
-boarding. It's a little nerve-wracking,
-like being on a ski lift.");
+    MsgDisp("Hiiragi","I like that feeling you get when boarding.
+It's a little nerve-wracking, like being
+on a ski lift.");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -64,8 +65,8 @@ like being on a ski lift.");
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B030523000_05_050");
-    MsgDisp("Hiiragi","That's right, we're always up for
-a challenge.
+    MsgDisp("Hiiragi","That's right, we're always up for a
+challenge.
 Let's go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -80,8 +81,8 @@ Let's go.");
     ScrFadeIn(0);
     ChMotion(5,5);
     VoicePlay("B030523000_05_060");
-    MsgDisp("Hiiragi","The harder the challenge, the
-sweeter the victory.
+    MsgDisp("Hiiragi","The harder the challenge, the sweeter the
+victory.
 That's the true challenger spirit.");
     break ;
     case 3:
@@ -104,8 +105,8 @@ Let's go for a ride.");
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("B030523000_05_080");
-    MsgDisp("Hiiragi","Sitting in the tea cup with you
-is definitely an interesting situation.");
+    MsgDisp("Hiiragi","Sitting in the tea cup with you is
+definitely an interesting situation.");
     break ;
     default :
     DbgAssert(0);

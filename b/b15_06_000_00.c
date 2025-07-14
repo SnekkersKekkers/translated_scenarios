@@ -12,9 +12,9 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B150600000_06_010");
 MsgDisp("Himuro","Were you unaware of it yourself?
-Even amongst girls, you're one 
-of the more aggressive ones.");
-MsgDisp("主人公","...Do other girls touch you too, 
+Even amongst girls, you're one of the more
+aggressive ones.");
+MsgDisp("主人公","...Do other girls touch you too,
 ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,5);
@@ -25,10 +25,9 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
 VoicePlay("B150600000_06_030");
-MsgDisp("Himuro","There's no way!
-Do you think I'd let just anyone
-touch me? You're the only 
-one who I would let do this!");
+MsgDisp("Himuro","There's no way! Do you think I'd let just
+anyone touch me? You're the only one who I
+would let do this!");
 MsgDisp("主人公","S-Sorry!
 But, you said I'm aggressive...");
 ChEye(6,0);
@@ -36,16 +35,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600000_06_040");
-MsgDisp("Himuro","That was my impression after 
-watching girls mess around with 
-each other. Don't get any 
-weird misunderstandings.");
+MsgDisp("Himuro","That was my impression after watching
+girls mess around with each other.
+Don't get any weird misunderstandings.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600000_06_050");
-MsgDisp("Himuro","Are you doing this with 
-both guys and girls?");
+MsgDisp("Himuro","Are you doing this with both guys and
+girls?");
 MsgDisp("主人公","No, I'm not.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -62,9 +60,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B150600000_06_080");
-MsgDisp("Himuro","Ah, actually no it's not. 
-You need to restrain yourself 
-with me too. Okay?");
+MsgDisp("Himuro","Ah, actually no it's not. You need to
+restrain yourself with me too. Okay?");
 MsgDisp("主人公","U-Understood.");
 ChEye(6,0);
 ChMouth(6,2);

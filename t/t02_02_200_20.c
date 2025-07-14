@@ -4,8 +4,9 @@ ChCheek(2,0);
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
-MsgDisp("主人公","I feel the same way. I'd love to join
-｛颯砂＊＊｝ in achieving his dream.");
+MsgDisp("主人公","I feel the same way.
+I'd love to join ｛颯砂＊＊｝ in achieving
+his dream.");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -18,8 +19,8 @@ ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("T020220020_02_010");
 MsgDisp("Sassa","I'm so happy!
-I wonder if those two can hear
-me if I shout here.");
+I wonder if those two can hear me if I
+shout here.");
 MsgDisp("主人公","Eh∋");
 ChEye(2,4);
 ChMouth(2,0);

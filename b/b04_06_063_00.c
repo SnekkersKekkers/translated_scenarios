@@ -28,9 +28,8 @@ I need to learn from your example.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040606300_06_020");
-    MsgDisp("Himuro","Really?
-You're coming to that conclusion on your
-own because there's no signs of 
+    MsgDisp("Himuro","Really? You're coming to that conclusion
+on your own because there's no signs of
 life and it's cold right?");
     MsgDateResultDisp();
     break ;

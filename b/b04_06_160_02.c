@@ -31,8 +31,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,4);
         VoicePlay("B040616002_06_020");
         MsgDisp("Himuro","Hmm, your friends huh?
-Well, it doesn't really matter
-who you come with.");
+Well, it doesn't really matter who you
+come with.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -54,9 +54,9 @@ Since I like games quite a bit.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040616002_06_050");
-        MsgDisp("Himuro","I've played most of them, 
-there are a few games I would recommend, 
-I think you'll enjoy them.");
+        MsgDisp("Himuro","I've played most of them, there are a few
+games I would recommend, I think you'll
+enjoy them.");
         MsgDisp("主人公","Y-Yeah?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -64,11 +64,10 @@ I think you'll enjoy them.");
         ChCheek(6,10);
         VoicePlay("B040616002_06_060");
         MsgDisp("Himuro","That's why...
-Could you include me in the list
-of people you come here with?");
-        MsgDisp("主人公","...Ah.
-Hehe, of course!
-Then, I'll invite you next time okay?");
+Could you include me in the list of people
+you come here with?");
+        MsgDisp("主人公","...Ah. Hehe, of course! Then, I'll invite
+you next time okay?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -80,12 +79,10 @@ Then, I'll invite you next time okay?");
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040616002_06_080");
-        MsgDisp("Himuro","...Haa.
-Why is it that I could only 
-phrase it like that....");
-        MsgDisp("主人公","(?)
-｛氷室＊＊｝ seems to be
-worried about something?)");
+        MsgDisp("Himuro","...Haa. Why is it that I could only phrase
+it like that....");
+        MsgDisp("主人公","(?) ｛氷室＊＊｝ seems to be worried about
+something?)");
         break ;
         default :
         DbgAssert(1);

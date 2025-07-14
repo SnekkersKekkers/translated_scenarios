@@ -5,10 +5,9 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608400_06_000");
-MsgDisp("Himuro","Autumn is the season for reading, 
-appetite and exercise...
-There are different types of autumn,
-which one do you like?");
+MsgDisp("Himuro","Autumn is the season for reading, appetite
+and exercise... There are different types
+of autumn, which one do you like?");
 MsgSel("Reading!","Appetite!","｛氷室＊＊｝'s autumn.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,10 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040608400_06_010");
-    MsgDisp("Himuro","Heeh, that's surprising, 
-you're a literature girl?
-Well, it's important to experience
-printed text.");
+    MsgDisp("Himuro","Heeh, that's surprising, you're a
+literature girl? Well, it's important to
+experience printed text.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,9 +29,8 @@ printed text.");
     ChMouth(6,3);
     ChMotion(6,5);
     VoicePlay("B040608400_06_020");
-    MsgDisp("Himuro","Pfft...
-You said that so assertively.
-It made me laugh a bit.");
+    MsgDisp("Himuro","Pfft... You said that so assertively. It
+made me laugh a bit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

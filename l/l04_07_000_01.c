@@ -14,10 +14,10 @@ Splendid obligatory chocolate.");
     ChMotion(7,1);
     ChEyeOpenLevel(7,7);
     VoicePlay("L040700001_07_010");
-    MsgDisp("Mikage","No, it's fine. It's interesting.");
-    MsgDisp("主人公","(Hm......
-Should I have given him
-a better chocolate?)");
+    MsgDisp("Mikage","No, it's fine.
+It's interesting.");
+    MsgDisp("主人公","(Hm...... Should I have given him a better
+chocolate?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -47,9 +47,8 @@ They're easy to open for a quick bite.");
     SEWait();
     VoicePlay("L040700001_07_040");
     MsgDisp("Mikage","Mm, yum.");
-    MsgDisp("主人公","(Hm......
-Should I have given him
-a better chocolate?)");
+    MsgDisp("主人公","(Hm...... Should I have given him a better
+chocolate?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -65,8 +64,8 @@ Thanks.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("L040700001_07_060");
-    MsgDisp("Mikage","Hm, since everyone's giving me
-the same thing, I'll get confused.");
+    MsgDisp("Mikage","Hm, since everyone's giving me the same
+thing, I'll get confused.");
     MsgDisp("主人公","Um......");
     ChEye(7,0);
     ChMouth(7,4);
@@ -84,8 +83,8 @@ Now I can tell them apart.");
     BGMStop();
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(Maybe I should've given him
-a better chocolate......?)");
+    MsgDisp("主人公","(Maybe I should've given him a better
+chocolate......?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

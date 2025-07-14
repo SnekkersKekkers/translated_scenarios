@@ -21,9 +21,9 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P140D00000_21_010");
-MsgDisp("Michiru","That's because Hikaru was only taking 
-pictures of the decorations 
-and illustrations in the maze...");
+MsgDisp("Michiru","That's because Hikaru was only taking
+pictures of the decorations and
+illustrations in the maze...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

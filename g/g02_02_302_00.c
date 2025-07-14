@@ -48,9 +48,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020230200_02_070");
-MsgDisp("Sassa","On the other hand,
-it feels a bit awkward when you're 
-with someone other than me.");
+MsgDisp("Sassa","On the other hand, it feels a bit awkward
+when you're with someone other than me.");
 MsgDisp("主人公","?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -63,14 +62,15 @@ ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020230200_02_090");
 MsgDisp("Sassa","What should I do......");
-MsgDisp("主人公","Umm, how about you think about it
-slowly when it comes time to eat?");
+MsgDisp("主人公","Umm, how about you think about it slowly
+when it comes time to eat?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020230200_02_100");
-MsgDisp("Sassa","No way. If I don't decide now, we won't
-have the same thing.");
+MsgDisp("Sassa","No way.
+If I don't decide now, we won't have the
+same thing.");
 MsgDisp("主人公","(｛颯砂＊＊｝ really likes planning
 everything out, doesn't he?)");
 BGMStop();

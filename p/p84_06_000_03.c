@@ -10,8 +10,8 @@ SEWait();
 ChOpen(6,254,2,1,0,0,#1,0,0);
 VoicePlay("P840600003_06_000");
 MsgDisp("Himuro","Have you still not found it?");
-MsgDisp("主人公","Yeah.
-Even though it was supposed to be here...");
+MsgDisp("主人公","Yeah. Even though it was supposed to be
+here...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

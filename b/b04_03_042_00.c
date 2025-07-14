@@ -8,7 +8,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(4);
     ChSet(3,3,1);
     VoicePlay("B040304200_03_000");
-    MsgDisp("Honda","Yup!! That bear riding the tricycle - it 
+    MsgDisp("Honda","Yup!! That bear riding the tricycle - it
 looked like a person was inside right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -20,9 +20,9 @@ looked like a person was inside right?");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040304200_03_010");
-    MsgDisp("Honda","Hmm, yeah there were a few mistakes, like 
-in juggling. But how about cutting them 
-some slack?");
+    MsgDisp("Honda","Hmm, yeah there were a few mistakes, like
+in juggling.
+But how about cutting them some slack?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

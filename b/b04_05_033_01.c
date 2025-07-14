@@ -6,8 +6,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040503301_05_000");
-MsgDisp("Hiiragi","Apparently there are a lot
-of tasty fish in the deep sea.");
+MsgDisp("Hiiragi","Apparently there are a lot of tasty fish
+in the deep sea.");
 MsgSel("Their appearance is a bit...","There are massive crabs too.","Football fish too?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040503301_05_010");
     MsgDisp("Hiiragi","That's right.
-My respect goes to the person
-who first tried it.");
+My respect goes to the person who first
+tried it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ Doesn't look too tasty, does it?");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040503301_05_030");
-    MsgDisp("Hiiragi","It doesn't even look edible, 
-let alone tasty.");
+    MsgDisp("Hiiragi","It doesn't even look edible, let alone
+tasty.");
     MsgDateResultDisp();
     break ;
     default :

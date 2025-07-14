@@ -28,8 +28,8 @@ Treat me well this year, too.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400003_04_020");
-    MsgDisp("Nanatsumori","Geez......you're still full of energy
-even at the end.");
+    MsgDisp("Nanatsumori","Geez......you're still full of energy even
+at the end.");
     MsgDisp("主人公","Really?");
     ChEye(4,4);
     ChMouth(4,3);

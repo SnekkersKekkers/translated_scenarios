@@ -40,8 +40,8 @@ Eye candy▼");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("S060800001_08_040");
-    MsgDisp("Shirahane","I'm so happy I get to walk around
-with a beautiful girl on New Year's▼");
+    MsgDisp("Shirahane","I'm so happy I get to walk around with a
+beautiful girl on New Year's▼");
     MsgDisp("主人公","(What a relief.
 ｛大地＊＊｝ seems really happy!)");
     break ;
@@ -58,8 +58,9 @@ with a beautiful girl on New Year's▼");
     ChMouth(8,4);
     ChCheek(8,8);
     VoicePlay("S060800001_08_060");
-    MsgDisp("Shirahane","It's the best. I getta see my favorite
-person in such fancy clothes......");
+    MsgDisp("Shirahane","It's the best.
+I getta see my favorite person in such
+fancy clothes......");
     MsgDisp("主人公","......Eh?");
     ChEye(8,0);
     ChMouth(8,4);
@@ -67,23 +68,22 @@ person in such fancy clothes......");
     ChEyeOpenLevel(8,10);
     ChCheek(8,10);
     VoicePlay("S060800001_08_070");
-    MsgDisp("Shirahane","Huh?
-My mouth feels kind of loose now......");
+    MsgDisp("Shirahane","Huh? My mouth feels kind of loose
+now......");
     ChEye(8,4);
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("S060800001_08_080");
     MsgDisp("Shirahane","Whatever, I can't help it!
-When you're really beautiful like this,
-I wanna give ya my honest opinion.");
+When you're really beautiful like this, I
+wanna give ya my honest opinion.");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,4,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("S060800001_08_090");
-    MsgDisp("Shirahane","Hehe.
-The thought of walking around together
-is making me grin.");
+    MsgDisp("Shirahane","Hehe. The thought of walking around
+together is making me grin.");
     MsgDisp("主人公","(What a relief.
 ｛大地＊＊｝ seems happy!)");
     break ;

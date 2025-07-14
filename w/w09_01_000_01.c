@@ -33,8 +33,8 @@ You like these kinds of rides, huh?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("W090100001_01_030");
-    MsgDisp("Kazama","In a ride like this, isn't
-your partner really important?
+    MsgDisp("Kazama","In a ride like this, isn't your partner
+really important?
 I wouldn't want anyone but you.");
     break ;
     default :

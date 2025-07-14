@@ -15,13 +15,11 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for taking me.
-Does ｛柊＊＊＊｝ have to work after 
-this?");
+Does ｛柊＊＊＊｝ have to work after this?");
     ChMotion(5,0);
     VoicePlay("S120500001_05_050");
-    MsgDisp("Hiiragi","Yeah.
-Greeting everyone at the beginning of
-the New Year is an important job.");
+    MsgDisp("Hiiragi","Yeah. Greeting everyone at the beginning
+of the New Year is an important job.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("S120500001_05_060");
@@ -30,8 +28,8 @@ Goodbye.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Hehe, look like this year will 
-be another good year!)");
+    MsgDisp("主人公","(Hehe, look like this year will be another
+good year!)");
     break ;
     case 4:
     case 5:
@@ -49,15 +47,15 @@ be another good year!)");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S120500001_05_120");
-    MsgDisp("Hiiragi","The pleasure is all mine. 
+    MsgDisp("Hiiragi","The pleasure is all mine.
 Thank you for going out with me.");
     ChEye(5,2);
     ChMotion(5,4);
     VoicePlay("S120500001_05_130");
-    MsgDisp("Hiiragi","I wish we could have taken our
-time a bit more.");
-    MsgDisp("主人公","I can't keep the Chairman all
-to myself on New Years.");
+    MsgDisp("Hiiragi","I wish we could have taken our time a bit
+more.");
+    MsgDisp("主人公","I can't keep the Chairman all to myself on
+New Years.");
     ChEye(5,4);
     ChMotion(5,2);
     VoicePlay("S120500001_05_140");
@@ -65,8 +63,8 @@ to myself on New Years.");
 But——");
     ChMotion(5,0);
     VoicePlay("S120500001_05_150");
-    MsgDisp("Hiiragi","Even if you can't, I think I would
-want you to.");
+    MsgDisp("Hiiragi","Even if you can't, I think I would want
+you to.");
     MsgDisp("主人公","Uhm......");
     ChEye(5,0);
     ChMotion(5,4);
@@ -76,8 +74,8 @@ Happy New Years.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(......Should I try being a bit
-more selfish this year?)");
+    MsgDisp("主人公","(......Should I try being a bit more
+selfish this year?)");
     break ;
     default :
     DbgAssert(1);

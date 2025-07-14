@@ -63,13 +63,13 @@ Thanks for taking me back.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("S120800001_08_050");
-    MsgDisp("Shirahane","Yes!
-If you're sure about that, see you soon!");
+    MsgDisp("Shirahane","Yes! If you're sure about that, see you
+soon!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(I hope this year will be as
-good as last year......)");
+    MsgDisp("主人公","(I hope this year will be as good as last
+year......)");
     break ;
     default :
     DbgAssert(1);

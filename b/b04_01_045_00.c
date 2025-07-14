@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040104500_01_000");
-    MsgDisp("Kazama","For a play based on local history,
-it was pretty entertaining!");
+    MsgDisp("Kazama","For a play based on local history, it was
+pretty entertaining!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -22,8 +22,8 @@ it was pretty entertaining!");
     ChMouth(1,2);
     ChMotion(1,0,1);
     VoicePlay("B040104500_01_010");
-    MsgDisp("Kazama","I thought it was fine,
-what part did you not like?");
+    MsgDisp("Kazama","I thought it was fine, what part did you
+not like?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -33,8 +33,8 @@ what part did you not like?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040104500_01_020");
-    MsgDisp("Kazama","As a resident of Habataki City,
-how can you be totally unaffected by this?");
+    MsgDisp("Kazama","As a resident of Habataki City, how can
+you be totally unaffected by this?");
     MsgDateResultDisp();
     break ;
     default :

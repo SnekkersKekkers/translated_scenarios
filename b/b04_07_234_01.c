@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040723401_07_010");
-    MsgDisp("Mikage","That's good then. I couldn't see your 
-face because it was spinning around,
-so I was worried.");
+    MsgDisp("Mikage","That's good then.
+I couldn't see your face because it was
+spinning around, so I was worried.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

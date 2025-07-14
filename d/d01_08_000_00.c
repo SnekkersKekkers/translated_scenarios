@@ -34,8 +34,8 @@ ChMotion(9,0,1);
 VoicePlay("D010800000_09_010");
 MsgDisp("Kuya","......Dai-chan, we have to go back soon.");
 MsgDisp("主人公","Ah......right!
-Hanegasaki also has their school
-festival today, right?");
+Hanegasaki also has their school festival
+today, right?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(8,3,1);
@@ -89,13 +89,13 @@ VoicePlay("D010800000_08_050");
 MsgDisp("Daichi","Over there is my class!
 This year we made a disco......
 but it looks like it's already over.");
-MsgDisp("主人公","Disco......?
-I would have wanted to see that.");
+MsgDisp("主人公","Disco......? I would have wanted to see
+that.");
 StlEyeOpenLevel(9,5,1);
 VoicePlay("D010800000_09_030");
 MsgDisp("Kuya","We were searching for you and your stall
-back at Habataki High School. I guess
-we're late getting back here.");
+back at Habataki High School.
+I guess we're late getting back here.");
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800000_08_060");
 MsgDisp("Daichi","That's true......
@@ -127,15 +127,14 @@ MsgDisp("Kuya","That's right.
 Well then, we're in a hurry.");
 StlEyeOpenLevel(9,#1);
 VoicePlay("D010800000_33_020");
-MsgDisp("Male Student B","Daichi!
-Who is that girl∋
-She's wearing a Habataki uniform!");
+MsgDisp("Male Student B","Daichi! Who is that girl∋ She's wearing a
+Habataki uniform!");
 StlEye(8,1);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800000_08_100");
 MsgDisp("Daichi","Awesome, huh......
-I wonder if they'll keep bothering us
-like this while we're here?");
+I wonder if they'll keep bothering us like
+this while we're here?");
 StlEyeOpenLevel(9,5,1);
 VoicePlay("D010800000_09_050");
 MsgDisp("Kuya","We knew they would do this, though.
@@ -146,9 +145,8 @@ VoicePlay("D010800000_08_110");
 MsgDisp("Daichi","In that case, it's time for the final
 sprint!");
 StlEye(8,0);
-MsgDisp("主人公","(Ehh!
-Even though I just got here it's already
-the final sprint∋)");
+MsgDisp("主人公","(Ehh! Even though I just got here it's
+already the final sprint∋)");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -161,22 +159,21 @@ MsgClose();
 ChOpen(8,254,0,0,3,#1,#1,0,1);
 ChOpen(9,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for walking me back.
-The festival at Hanegasaki was really
-amazing. I had a good time!");
+MsgDisp("主人公","Thank you for walking me back. The
+festival at Hanegasaki was really amazing.
+I had a good time!");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,4,1);
 VoicePlay("D010800000_08_120");
-MsgDisp("Daichi","We're the ones who should be sayin'
-that, right!");
+MsgDisp("Daichi","We're the ones who should be sayin' that,
+right!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,3,1);
 VoicePlay("D010800000_09_060");
-MsgDisp("Kuya","Yeah.
-I made so many fun memories at my last
-school festival.");
+MsgDisp("Kuya","Yeah. I made so many fun memories at my
+last school festival.");
 MsgDisp("主人公","Oh, right, Kuya-san is a senior......");
 ChEye(8,3);
 ChMouth(8,3);
@@ -191,8 +188,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D010800000_09_070");
 MsgDisp("Kuya","Ah......Dai-chan, the time!
-If we don't help clean up, we'll ruin
-all those good memories.");
+If we don't help clean up, we'll ruin all
+those good memories.");
 ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,0,1);
@@ -204,8 +201,8 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("D010800000_08_150");
-MsgDisp("Daichi","It's really nice of you to come with
-us today. We'll talk more later so look
+MsgDisp("Daichi","It's really nice of you to come with us
+today. We'll talk more later so look
 forward to it!");
 MsgClose();
 BGMStop();
@@ -213,9 +210,9 @@ SEPlay("EV_SE_856");
 ChClose(8,0,30);
 ChClose(9,0,30);
 MsgDisp("主人公","(The second half was a blur......)");
-MsgDisp("主人公","(But it's impossible not to have a
-good time when you attend both the
-Hanegasaki and Habataki festivals......!)");
+MsgDisp("主人公","(But it's impossible not to have a good
+time when you attend both the Hanegasaki
+and Habataki festivals......!)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(8,0);

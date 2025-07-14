@@ -18,8 +18,8 @@ ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030214000_02_010");
 MsgDisp("Sassa","I'm getting so excited!
-Waiting for it to start is just
-an indescribable feeling, right?");
+Waiting for it to start is just an
+indescribable feeling, right?");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

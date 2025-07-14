@@ -2,8 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm glad, 
-Seems like it was somehow a success!)");
+MsgDisp("主人公","(I'm glad, Seems like it was somehow a
+success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

@@ -19,12 +19,12 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_020");
-MsgDisp("Sassa","It would be amazing if everything is 
-according to plan of the people who 
-made it.");
+MsgDisp("Sassa","It would be amazing if everything is
+according to plan of the people who made
+it.");
 MsgDisp("主人公","Hmm I wonder?
-But the water used to be clean,
-so the glasses were seen more clearly.");
+But the water used to be clean, so the
+glasses were seen more clearly.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -46,7 +46,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("Q100200000_02_050");
 MsgDisp("Sassa","......What's the heartstone?");
-MsgDisp("主人公","There's a heart-shaped stone on the 
+MsgDisp("主人公","There's a heart-shaped stone on the
 seawall, and it's said that if you touch
 it, your love wish will come true.");
 ChEye(2,0);
@@ -82,23 +82,22 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100200000_02_090");
 MsgDisp("Sassa","Me too.
-But each shop has different flavours,
-So what's your plan?");
+But each shop has different flavours, So
+what's your plan?");
 MsgDisp("主人公","Hmm, I can't make a choice......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_100");
-MsgDisp("Sassa","How about we both buy for each other,
-and show it to each other?");
+MsgDisp("Sassa","How about we both buy for each other, and
+show it to each other?");
 MsgDisp("主人公","Yeah, great idea!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100200000_02_110");
-MsgDisp("Sassa","If we choose the same flavor,
-I guess that means we're perfect for 
-each other.");
+MsgDisp("Sassa","If we choose the same flavor, I guess that
+means we're perfect for each other.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -108,7 +107,7 @@ See you in a bit.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I'll be troubled if you count on 
+MsgDisp("主人公","(I'll be troubled if you count on
 me......!)");
 MsgClose();
 ScrFadeOut(0,0);

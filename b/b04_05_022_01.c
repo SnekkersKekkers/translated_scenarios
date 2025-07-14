@@ -34,8 +34,8 @@ Let's explore inside the ship.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040502201_05_030");
-    MsgDisp("Hiiragi","Heheh, your hair is also 
-being played with by the wind.");
+    MsgDisp("Hiiragi","Heheh, your hair is also being played with
+by the wind.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

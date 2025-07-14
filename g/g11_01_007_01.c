@@ -2,8 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home now.)");
-MsgDisp("主人公","(......Huh?
-｛風真＊＊｝ is over there.
+MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is over there.
 Well, let's have a chat then go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -48,8 +47,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_040");
-MsgDisp("Kazama","I'm going to look for treasure 
-brought by the rough winter waves.");
+MsgDisp("Kazama","I'm going to look for treasure brought by
+the rough winter waves.");
 MsgDisp("主人公","Treasure......");
 ChEye(1,1);
 ChMouth(1,2);
@@ -61,17 +60,17 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_060");
-MsgDisp("Kazama","Remember what I told you before? When I
-was younger, I would look for driftwood
-with odd shapes and treasure it.");
+MsgDisp("Kazama","Remember what I told you before?
+When I was younger, I would look for
+driftwood with odd shapes and treasure it.");
 MsgDisp("主人公","Ehh, sounds fun.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_070");
-MsgDisp("Kazama","Since you're interested... Next summer,
-instead of hitting the water, how about we
-look for driftwood together?");
+MsgDisp("Kazama","Since you're interested...
+Next summer, instead of hitting the water,
+how about we look for driftwood together?");
 MsgDisp("主人公","Hehe, I'd love to. ");
 BGMStop();
 MsgClose();

@@ -16,9 +16,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120201_01_020");
-MsgDisp("Kazama","I thought it would be natural
-for me to be the closest to you
-......but, I was wrong.");
+MsgDisp("Kazama","I thought it would be natural for me to be
+the closest to you ......but, I was wrong.");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -30,21 +29,22 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120201_01_040");
-MsgDisp("Kazama","What I thought was natural was
-overturned by a junior one year below");
+MsgDisp("Kazama","What I thought was natural was overturned
+by a junior one year below");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120201_01_050");
-MsgDisp("Kazama","It wasn't a classmate or anything,
-but him. I realized my mistake.");
+MsgDisp("Kazama","It wasn't a classmate or anything, but
+him.
+I realized my mistake.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020120201_01_060");
-MsgDisp("Kazama","In my mind, the time I've spent with 
-you is unmatched by anyone. 
+MsgDisp("Kazama","In my mind, the time I've spent with you
+is unmatched by anyone.
 That was the one thing I was sure of.");
 ChEye(1,4);
 ChMouth(1,2);
@@ -58,8 +58,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020120201_01_080");
-MsgDisp("Kazama","Well, I might be behind him now, 
-but there's still time.");
+MsgDisp("Kazama","Well, I might be behind him now, but
+there's still time.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

@@ -47,7 +47,8 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChCheek(1,5);
 VoicePlay("G020130201_01_060");
-MsgDisp("Kazama","You're right. My eyes are never wrong.");
+MsgDisp("Kazama","You're right.
+My eyes are never wrong.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -67,8 +68,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130201_01_090");
-MsgDisp("Kazama","It's okay if no one else knows. It's
-enough if I know.");
+MsgDisp("Kazama","It's okay if no one else knows.
+It's enough if I know.");
 MsgDisp("主人公","(｛風真＊＊｝...... That makes me happy,
 but it's embarrassing too.)");
 BGMStop();

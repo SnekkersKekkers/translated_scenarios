@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040516000_05_010");
-    MsgDisp("Hiiragi","Yes, I don't know what it is, 
-but I'll leave it up to you.");
+    MsgDisp("Hiiragi","Yes, I don't know what it is, but I'll
+leave it up to you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

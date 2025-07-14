@@ -2,10 +2,10 @@ MsgClose();
 ChOpen(1,255,1,0,0,#1,#1,0,0);
 VoicePlay("G020130201_01_000");
 MsgDisp("Kazama","You really have to see this scenery for
-yourself...... It's different to just
-hearing about it.");
-MsgDisp("主人公","Yeah, it's even more beautiful than 
-the rumours say.");
+yourself......
+It's different to just hearing about it.");
+MsgDisp("主人公","Yeah, it's even more beautiful than the
+rumours say.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -19,8 +19,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020130201_01_020");
 MsgDisp("Kazama","But for that, you need to train your eyes
 first, or it's meaningless.");
-MsgDisp("主人公","With ｛風真＊＊｝'s eyes
-there's bound to be no mistakes, huh?");
+MsgDisp("主人公","With ｛風真＊＊｝'s eyes there's bound to
+be no mistakes, huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -59,16 +59,16 @@ ChMotion(1,3);
 ChCheek(1,0);
 VoicePlay("G020130201_01_080");
 MsgDisp("Kazama","What's with that troubled face.
-Well, it's fine if I'm the only 
-one who can perceive it.");
+Well, it's fine if I'm the only one who
+can perceive it.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130201_01_090");
 MsgDisp("Kazama","It's fine if no one understands.
 As long as I do.");
-MsgDisp("主人公","(｛風真＊＊｝......
-I'm happy, but embarrassed.)");
+MsgDisp("主人公","(｛風真＊＊｝...... I'm happy, but
+embarrassed.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

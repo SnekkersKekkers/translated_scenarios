@@ -7,8 +7,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040424202_04_000");
-MsgDisp("Nanatsumori","Phewー.
-Shall we go for a walk after eating?");
+MsgDisp("Nanatsumori","Phewー. Shall we go for a walk after
+eating?");
 MsgSel("Sounds good, let's go!","I still don't want to move...","Walk...?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,8 +47,7 @@ When will you move?");
         VoicePlay("B040424202_04_030");
         MsgDisp("Nanatsumori","Are you still full?");
         MsgDisp("主人公","It's not like that but...
-I want to stay like this 
-a little longer.");
+I want to stay like this a little longer.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -65,8 +64,7 @@ Let's take it easy.");
         MsgDisp("Nanatsumori","............");
         MsgDisp("主人公","...Hmm.
 Oh no, looks like I fell asleep.");
-        MsgDisp("主人公","｛七ツ森＊｝ is...
-Ah, he's asleep.");
+        MsgDisp("主人公","｛七ツ森＊｝ is... Ah, he's asleep.");
         VoicePlay("B040424202_04_060");
         MsgDisp("Nanatsumori","...Mm.");
         VoicePlay("B040424202_04_070");
@@ -74,8 +72,7 @@ Ah, he's asleep.");
 Aahn....");
         MsgDisp("主人公","(Looks like he's dreaming.)");
         VoicePlay("B040424202_04_080");
-        MsgDisp("Nanatsumori","...Mmm. Tasty.
-Then...I'm up next.
+        MsgDisp("Nanatsumori","...Mmm. Tasty. Then...I'm up next.
 Alright, open up....");
         MsgDisp("主人公","(Hehe, he seems happy.)");
         VoicePlay("B040424202_04_090");
@@ -107,8 +104,8 @@ talking a little.");
         VoicePlay("B040424202_04_140");
         MsgDisp("Nanatsumori","...What was I saying?");
         MsgDisp("主人公","S-Sorry.
-I couldn't really catch 
-what you were saying?");
+I couldn't really catch what you were
+saying?");
         ChEye(4,4);
         ChMouth(4,0);
         ChMotion(4,2,1);

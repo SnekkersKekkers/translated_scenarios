@@ -15,8 +15,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("I460600004_06_000");
     MsgDisp("Himuro","Yeah, it doesn't look well.");
-    MsgDisp("主人公","Alright, I'll check on the other
-flowers and mist them too if they need it.");
+    MsgDisp("主人公","Alright, I'll check on the other flowers
+and mist them too if they need it.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -27,8 +27,8 @@ flowers and mist them too if they need it.");
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("I460600004_06_020");
-    MsgDisp("Himuro","Nah, I just thought you were
-getting a little reliable.");
+    MsgDisp("Himuro","Nah, I just thought you were getting a
+little reliable.");
     MsgDisp("主人公","Huh!
 You think so?");
     ChEye(6,1);
@@ -46,9 +46,8 @@ Alright, let's keep doing our best!)");
     VoicePlay("I460600004_47_000");
     MsgDisp("Woman Customer","Excuse me.
 Which flower is best for a sick visit?");
-    MsgDisp("主人公","Let's see.
-How about this arrangement? The pink and
-orange is sure to cheer them up.");
+    MsgDisp("主人公","Let's see. How about this arrangement? The
+pink and orange is sure to cheer them up.");
     VoicePlay("I460600004_47_010");
     MsgDisp("Woman Customer","Waah, pretty.
 Then, I'll take this, please.");

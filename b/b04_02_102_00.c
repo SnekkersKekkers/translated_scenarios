@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040210200_02_020");
-    MsgDisp("Sassa","I think it's cool, 
-but I'm not that interested.");
+    MsgDisp("Sassa","I think it's cool, but I'm not that
+interested.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,9 +37,8 @@ but I'm not that interested.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040210200_02_030");
-    MsgDisp("Sassa","Hーm
-The contrast between you and a
-big motorcycle is nice. ");
+    MsgDisp("Sassa","Hーm The contrast between you and a big
+motorcycle is nice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -3,8 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like I got here a little early...
 Huh?)");
-MsgDisp("主人公","｛氷室＊＊｝!
-You're already here?");
+MsgDisp("主人公","｛氷室＊＊｝! You're already here?");
 BGMPlay("BGM_C06_INORI_A",0.01);
 switch (ChPrmGet(6,6)){
     case 0:
@@ -34,8 +33,9 @@ to do.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B010600002_06_030");
-    MsgDisp("Himuro","About 15 minutes ago. It would be a
-problem if something unexpected popped up.");
+    MsgDisp("Himuro","About 15 minutes ago.
+It would be a problem if something
+unexpected popped up.");
     MsgDisp("主人公","Are you worried about something...?");
     MsgDispSksp(1,0);
     ChEye(6,0);

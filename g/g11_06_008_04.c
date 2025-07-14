@@ -1,7 +1,7 @@
 BGOpen("ar200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Are you already done for the day?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you already done for
+the day?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,35,0,0,0,#1,#1,0,0);
@@ -44,8 +44,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,5);
 VoicePlay("G110600804_06_040");
-MsgDisp("Himuro","What?
-Will you work for Annalee in the future?");
+MsgDisp("Himuro","What? Will you work for Annalee in the
+future?");
 MsgDisp("主人公","I don't know.
 But, it'll be very rewarding, right?");
 ChEye(6,0);
@@ -58,9 +58,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600804_06_060");
-MsgDisp("Himuro","If in the future, 
-you can't find anything you want to do, 
-that would be okay too.");
+MsgDisp("Himuro","If in the future, you can't find anything
+you want to do, that would be okay too.");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);

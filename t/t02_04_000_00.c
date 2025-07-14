@@ -11,13 +11,15 @@ MsgDisp("主人公","｛七ツ森＊｝......");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("T020400000_04_000");
-MsgDisp("Nanatsumori","That's good. I'm glad you're here.");
+MsgDisp("Nanatsumori","That's good.
+I'm glad you're here.");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("T020400000_04_010");
 MsgDisp("Nanatsumori","So this is what the inside of the church
-look like. It's beautiful.");
+look like.
+It's beautiful.");
 MsgDisp("主人公","Yes, it is isn't it?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -39,8 +41,8 @@ VoicePlay("T020400000_04_040");
 MsgDisp("Nanatsumori","I love you.");
 MsgDisp("主人公","!");
 VoicePlay("T020400000_04_050");
-MsgDisp("Nanatsumori","During the school trip 
-I tried shouting as hard as I could too.
+MsgDisp("Nanatsumori","During the school trip I tried shouting as
+hard as I could too.
 ......Didn't it get through to you?");
 MsgDisp("主人公","......Ah.");
 ChEye(4,2);
@@ -60,23 +62,22 @@ ChMotion(4,0);
 ChEyeOpenLevel(4,10);
 ChMouthOpenLevel(4,#1);
 VoicePlay("T020400000_04_080");
-MsgDisp("Nanatsumori","From that day on, 
-was when I truly fell in love with you.");
+MsgDisp("Nanatsumori","From that day on, was when I truly fell in
+love with you.");
 VoicePlay("T020400000_04_090");
 MsgDisp("Nanatsumori","To be honest, when I first met you I
 thought you were a pain.");
 ChMotion(4,2,1);
 VoicePlay("T020400000_04_100");
 MsgDisp("Nanatsumori","But......before I knew it, the tables had
-turned. The one who was causing trouble
-was me.");
+turned.
+The one who was causing trouble was me.");
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020400000_04_110");
 MsgDisp("Nanatsumori","Models and influencers, things like that.
-We're all forced to keep things secret 
-for our own selfish convenience.
-");
+We're all forced to keep things secret for
+our own selfish convenience.");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("T020400000_04_120");
@@ -98,8 +99,8 @@ MsgDisp("Nanatsumori","When I saw my hometown's light
 illumination on the night of the last
 christmas, I made a decision.");
 VoicePlay("T020400000_04_150");
-MsgDisp("Nanatsumori","That I would tell you my feelings. Here,
-in this place.");
+MsgDisp("Nanatsumori","That I would tell you my feelings.
+Here, in this place.");
 ChMotion(4,3,1);
 ChMouth(4,0);
 VoiceEVSPlay(4);

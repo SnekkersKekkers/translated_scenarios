@@ -65,9 +65,8 @@ That's a lot of people.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S090600000_06_050");
-    MsgDisp("Himuro","Really.
-Next year it may be better to come visit
-at a later time.");
+    MsgDisp("Himuro","Really. Next year it may be better to come
+visit at a later time.");
     MsgDisp("主人公","After this, let's......
 Ah, fortune telling.");
     MsgSel("Let's do it","Let's not, it's crowded");
@@ -85,8 +84,8 @@ Ah, fortune telling.");
         ChEyeOpenLevel(6,0);
         VoicePlay("S090600000_06_070");
         MsgDisp("Himuro","It's fine.
-Since we've come all the way here,
-I might as well go with you.");
+Since we've come all the way here, I might
+as well go with you.");
         MsgDisp("主人公","Thank you!");
         ChEye(6,0);
         ChMouth(6,0);
@@ -98,15 +97,14 @@ I might as well go with you.");
         ChMotion(6,3);
         VoicePlay("S090600000_06_080");
         MsgDisp("Himuro","That's a wise decision.
-You don't need fortune telling,
-make your own fortune.");
+You don't need fortune telling, make your
+own fortune.");
         MsgDisp("主人公","That's just like ｛氷室＊＊｝.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("S090600000_06_090");
-        MsgDisp("Himuro","I'm not going to stop you
-from doing it.
+        MsgDisp("Himuro","I'm not going to stop you from doing it.
 Well then, let's go.");
         MsgClose();
         ScrFadeOut(0,0);
@@ -139,8 +137,7 @@ I think I'm okay now.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("S090600000_06_110");
-        MsgDisp("Himuro","Okay.
-I can't say no when you look at me
+        MsgDisp("Himuro","Okay. I can't say no when you look at me
 like that.");
         MsgDisp("主人公","Yay!");
         MsgDisp("主人公","(I hope we get
@@ -151,15 +148,15 @@ a good result......!)");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("S090600000_06_120");
-        MsgDisp("Himuro","Are you okay not with not
-getting your Fortune?");
+        MsgDisp("Himuro","Are you okay not with not getting your
+Fortune?");
         MsgDisp("主人公","Yeah, I'm getting tired.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("S090600000_06_130");
-        MsgDisp("Himuro","I think today was our only 
-chance to get one.");
+        MsgDisp("Himuro","I think today was our only chance to get
+one.");
         MsgDisp("主人公","(Hmm, that's true......
 Maybe I should have gotten one.)");
         MsgClose();

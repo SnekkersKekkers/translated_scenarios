@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040121301_01_000");
-MsgDisp("Kazama","It gives you a sense of security 
-that's different to other animals.");
+MsgDisp("Kazama","It gives you a sense of security that's
+different to other animals.");
 MsgSel("It's nice to be able to hold and stroke them","t's nice to be able to feed them","Recently, there's been some doggy and kitty cafes.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChEye(1,3);
     ChMouth(1,3);
     VoicePlay("B040121301_01_010");
-    MsgDisp("Kazama","That cat you were holding
-looked super annoyed!");
+    MsgDisp("Kazama","That cat you were holding looked super
+annoyed!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

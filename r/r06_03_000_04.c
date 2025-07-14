@@ -24,9 +24,9 @@ with my gift.)");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("R060300004_03_010");
-    MsgDisp("Honda","Yes, jackpot～! Even though I
-would be happy with whatever gift
-from you, this is what I wanted!");
+    MsgDisp("Honda","Yes, jackpot～!
+Even though I would be happy with whatever
+gift from you, this is what I wanted!");
     MsgDisp("主人公","(Yay! He's really happy
 with my gift.)");
     break ;

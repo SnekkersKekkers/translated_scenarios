@@ -6,7 +6,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040315200_03_000");
-MsgDisp("Honda","Do you like it? 
+MsgDisp("Honda","Do you like it?
 Darts that is.");
 MsgSel("It's a grown up hobby I guess?","For now, I'll just throw until I hit it!","Can you teach me the rules?");
 switch (MsgSelRsltGet()){
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     VoicePlay("B040315200_03_010");
     MsgDisp("Honda","Heeh, I look forward to it.
-If you say that,
-you must be really good at it.");
+If you say that, you must be really good
+at it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

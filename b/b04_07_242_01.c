@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040724201_07_010");
-    MsgDisp("Mikage","Camping isn't fun if you
-leave it to others.
+    MsgDisp("Mikage","Camping isn't fun if you leave it to
+others.
 You have to do it together.");
     MsgDateResultDisp();
     break ;
@@ -37,8 +37,8 @@ Look forward to it?");
     ChMotion(7,4);
     VoicePlay("B040724201_07_030");
     MsgDisp("Mikage","It's hard to even set up a single tent.
-Come on, spread out that waterproof 
-tarp over there!");
+Come on, spread out that waterproof tarp
+over there!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

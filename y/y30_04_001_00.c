@@ -8,10 +8,10 @@ Wait(50,0);
 MsgDisp("","The piercing sound of the camera's
 shutter continued.");
 SEStop("EV_SE_046",2);
-MsgDisp("","Today is my modelling company's 
-annual special photo shoot.
-The legendary high school model, 
-Hazuki Kei.");
+MsgDisp("","Today is my modelling company's
+annual special photo shoot. The
+legendary high school model, Hazuki
+Kei.");
 MsgClear();
 MsgDisp("","...This is a strange feeling.
 How should I put it——");
@@ -20,7 +20,7 @@ MsgDisp("","A successful high school model.
 I...it's not an exaggeration to say
 that there isn't a high school
 student who doesn't know me, Nana");
-MsgDisp("","I was enveloped in an indescribable 
+MsgDisp("","I was enveloped in an indescribable
 sense of excitement.");
 MsgClear();
 VoicePlay("Y300400100_44_000");
@@ -31,16 +31,16 @@ by the words of a female staff member
 on set.");
 MsgClear();
 MsgDisp("","...That's right.
-This shoot isn't a special
-feature of Nana.");
+This shoot isn't a special feature of
+Nana.");
 MsgDisp("","This is just a page in Hazuki-san's
 birthday special. A modern high
 school model will wear a legendary
 outfit that he once wore. That was
 the segment.");
 MsgClear();
-MsgDisp("","Being pulled back into reality,
-my posed expression contorted.");
+MsgDisp("","Being pulled back into reality, my
+posed expression contorted.");
 SEPlay("EV_SE_046");
 Wait(30,0);
 VoicePlay("Y300400100_41_010");
@@ -50,31 +50,29 @@ rate sexy∈\"");
 SEStop("EV_SE_046",2);
 MsgDisp("","...Somehow I was praised.");
 MsgClear();
-MsgDisp("","I'm simple-minded, so being 
-praised lifts my spirits.");
+MsgDisp("","I'm simple-minded, so being praised
+lifts my spirits.");
 MsgDisp("","With more confidence, I removed my
 gaze from the camera, And looked
 towards a corner in the studio.");
 MsgDisp("","There she was.");
 MsgClear();
 BGOpen("ad411",0);
-MsgDisp("","...Pfft.
-Her eyes are sparkling as
+MsgDisp("","...Pfft. Her eyes are sparkling as
 she's looking at me.");
-MsgDisp("","Nice face.
-Ah...I was surprised our eyes met.
-Yes, exactly.
-That's what I wanted to see.");
-MsgDisp("","Feeling uplifted once more, 
-I returned my gaze to the camera.");
+MsgDisp("","Nice face. Ah...I was surprised our
+eyes met. Yes, exactly. That's what I
+wanted to see.");
+MsgDisp("","Feeling uplifted once more, I
+returned my gaze to the camera.");
 MsgClear();
 MsgDisp("","Still.");
-MsgDisp("","Driven by my impatient feelings, 
-I brought her along to my work place.");
+MsgDisp("","Driven by my impatient feelings, I
+brought her along to my work place.");
 MsgClear();
 MsgDisp("","I was chosen for a dream feature.
-I felt as if I was on par with 
-the legendary high school model.");
+I felt as if I was on par with the
+legendary high school model.");
 MsgDisp("","I wonder if somewhere in my heart I'm
 becoming conscious of Hazuki-san's
 actions. It's might be a respect
@@ -99,7 +97,7 @@ MsgDisp("","...I've done it.
 What am I thinking while I'm working?");
 MsgClear();
 MsgDisp("","The staff scattered, stepping away.
-The studio instantly fell quiet. ");
+The studio instantly fell quiet.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 MsgDisp("主人公","\"Good work\"");
@@ -108,8 +106,8 @@ sparkling as she offered me a coffee
 cup with steam rising out of it.");
 MsgClear();
 MsgDisp("","I can't tell you.");
-MsgDisp("","You absolutely cannot know 
-what was in my mind just now.");
+MsgDisp("","You absolutely cannot know what was
+in my mind just now.");
 MsgDisp("","To respect someone is fine. But, the
 reason I put on airs isn't to look
 cool. And it's not particularly when

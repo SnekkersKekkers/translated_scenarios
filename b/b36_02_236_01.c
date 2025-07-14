@@ -16,16 +16,14 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360223601_02_000");
 MsgDisp("Sassa","Yeah, beautiful...");
-MsgDisp("主人公","Eh, ｛颯砂＊＊｝...
-If you're looking this way, 
-you won't be able to
-see the parade?");
+MsgDisp("主人公","Eh, ｛颯砂＊＊｝... If you're looking this
+way, you won't be able to see the parade?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360223601_02_010");
-MsgDisp("Sassa","A-Ah, I see. Then, 
-I'll watch itn next to you.");
+MsgDisp("Sassa","A-Ah, I see.
+Then, I'll watch itn next to you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
@@ -47,9 +45,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360223601_02_040");
-MsgDisp("Sassa","Yeah.
-But I prefer the
-front view the best.");
+MsgDisp("Sassa","Yeah. But I prefer the front view the
+best.");
 MsgDisp("主人公","Hm?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -57,8 +54,8 @@ ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("B360223601_02_050");
 MsgDisp("Sassa","Ah, I'm talking about this.");
-MsgDisp("主人公","(｛颯砂＊＊｝ keeps turning 
-away from the parade...)");
+MsgDisp("主人公","(｛颯砂＊＊｝ keeps turning away from the
+parade...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

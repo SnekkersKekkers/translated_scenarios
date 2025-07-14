@@ -24,8 +24,7 @@ You did it.");
     MsgDisp("Himuro","It's the talk of the school.
 The judo club landed a splendid ippon
 during their practice match.");
-    MsgDisp("主人公","｛氷室＊＊｝.
-Yeah, I'm happy!");
+    MsgDisp("主人公","｛氷室＊＊｝. Yeah, I'm happy!");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);
@@ -33,7 +32,7 @@ Yeah, I'm happy!");
     VoicePlay("X110600002_06_020");
     MsgDisp("Himuro","You look happy.
 Congratulations.");
-    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝!)");
+    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝! )");
     break ;
     default :
     DbgAssert(1);

@@ -4,16 +4,14 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("H8G0700000_07_000");
-MsgDisp("Mikage","｛主人公｝,
-congrats.");
-MsgDisp("主人公","｛御影＊＊｝,
-did something happen?");
+MsgDisp("Mikage","｛主人公｝, congrats.");
+MsgDisp("主人公","｛御影＊＊｝, did something happen?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("H8G0700000_07_010");
-MsgDisp("Mikage","You won the gold award in the
-handicraft club's competition, right?");
+MsgDisp("Mikage","You won the gold award in the handicraft
+club's competition, right?");
 MsgDisp("主人公","!
 You already knew?");
 ChEye(7,0);
@@ -29,9 +27,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("H8G0700000_07_030");
-MsgDisp("Mikage","You think?　But if it's you,
-I'm thinking there might seriously
-be a chance.");
+MsgDisp("Mikage","You think?
+But if it's you, I'm thinking there might
+seriously be a chance.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

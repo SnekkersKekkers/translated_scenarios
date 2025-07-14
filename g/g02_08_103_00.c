@@ -4,13 +4,14 @@ ChMouth(8,0);
 ChMotion(8,2);
 ChCheek(8,7);
 VoicePlay("G020810300_08_000");
-MsgDisp("Shirahane","It's beautifulー...... Doesn't it feel
-like time is passing slowly?");
+MsgDisp("Shirahane","It's beautifulー......
+Doesn't it feel like time is passing
+slowly?");
 MsgDisp("主人公","Yeah, that's right......");
 ChEyeOpenLevel(8,0);
 VoicePlay("G020810300_08_010");
-MsgDisp("Shirahane","If time really did pass slowly,
-I want to stay here with you forever.");
+MsgDisp("Shirahane","If time really did pass slowly, I want to
+stay here with you forever.");
 MsgDisp("主人公","Why?");
 ChEye(8,0);
 ChMouth(8,4);
@@ -20,14 +21,14 @@ MsgDisp("Shirahane","Didn't I say the other day?");
 ChEye(8,3);
 ChMouth(8,0);
 VoicePlay("G020810300_08_030");
-MsgDisp("Shirahane","When it comes to love, don't rush it,
-let it develop slowly.");
+MsgDisp("Shirahane","When it comes to love, don't rush it, let
+it develop slowly.");
 MsgDisp("主人公","Ah......");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("G020810300_08_040");
-MsgDisp("Shirahane","If we were alone together in such a 
+MsgDisp("Shirahane","If we were alone together in such a
 magical place, don't you think we would
 quickly fall in love?");
 MsgDisp("主人公","Eh......");

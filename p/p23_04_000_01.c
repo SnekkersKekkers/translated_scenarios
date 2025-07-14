@@ -14,9 +14,8 @@ switch (ChPrmGet(4,6)){
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Phew...
-I wonder if all the performer's makeup 
-are done now?");
+    MsgDisp("主人公","Phew... I wonder if all the performer's
+makeup are done now?");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("P230400001_04_000");
@@ -29,7 +28,8 @@ the costume department busy, huh?");
     ChMotion(4,2,1);
     VoicePlay("P230400001_04_010");
     MsgDisp("Nanatsumori","This performance has a lot of special
-effects makeup. It was worth it-.");
+effects makeup.
+It was worth it-.");
     MsgDisp("主人公","Hehe, that's right huh!");
     VoicePlay("P230400001_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin

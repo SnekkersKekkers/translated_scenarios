@@ -3,13 +3,14 @@ ChLayout(1);
 SEPlay("EV_SE_834",0.1);
 ScrFadeIn(0);
 VoicePlay("G110500700_40_000");
-MsgDisp("Male Student","Opposite side!　Let's goー!");
-MsgDisp("主人公","(The schoolyard is lively...... It looks
-like the boys are playing soccer.)");
+MsgDisp("Male Student","Opposite side!
+Let's goー!");
+MsgDisp("主人公","(The schoolyard is lively......
+It looks like the boys are playing
+soccer.)");
 VoiceEVSPlay(5);
 VoicePlay("G110500700_05_000");
-MsgDisp("Hiiragi?","｛主人公｝,
-Don't look away, okay?");
+MsgDisp("Hiiragi?","｛主人公｝, Don't look away, okay?");
 SEStop("EV_SE_834",2);
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -73,8 +74,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("G110500700_05_060");
 MsgDisp("Hiiragi","I'm glad you happened to see it.
-I'm sure if I told you,
-you wouldn't be able to believe it.");
+I'm sure if I told you, you wouldn't be
+able to believe it.");
 MsgDisp("主人公","Hehe!");
 BGMStop();
 SEStop("EV_SE_712",1);

@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like things have 
-been going well recently!)");
+MsgDisp("主人公","(Looks like things have been going well
+recently!)");
 switch (ChPrmGet(7,6)){
     case 0:
     case 1:

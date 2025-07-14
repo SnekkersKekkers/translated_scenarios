@@ -28,15 +28,15 @@ there's a lot of customers.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P530600001_06_020");
-    MsgDisp("Himuro","Are you? On the other hand, 
-It's mostly people who simply
-want to enjoy the music.");
+    MsgDisp("Himuro","Are you?
+On the other hand, It's mostly people who
+simply want to enjoy the music.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,1);
     VoicePlay("P530600001_06_030");
-    MsgDisp("Himuro","So, why not enjoy this
-time as much as possible?");
+    MsgDisp("Himuro","So, why not enjoy this time as much as
+possible?");
     MsgDisp("主人公","...Yeah, that's right!");
     SEPlay("EV_SE_038");
     SEWait();
@@ -63,8 +63,7 @@ But as expected, I'm still anxious.)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530600001_06_050");
     MsgDisp("Himuro","You're here.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-You came?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! You came?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,1);

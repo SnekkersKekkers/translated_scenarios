@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("B040306301_03_000");
 MsgDisp("Honda","｛主人公｝, aren't you cold?");
-MsgSel("Is｛本多＊＊｝ alright?","I'm good with the cold","Actually, I'm sensitive to the cold...");
+MsgSel("Is ｛本多＊＊｝ alright?","I'm good with the cold","Actually, I'm sensitive to the cold...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040306301_03_010");
-    MsgDisp("Honda","I'm completely fine. 
+    MsgDisp("Honda","I'm completely fine.
 After all, it's the winter sea right?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
@@ -28,8 +28,8 @@ After all, it's the winter sea right?");
     ChMotion(3,3);
     VoicePlay("B040306301_03_020");
     MsgDisp("Honda","Nice, same same.
-Until middle school, I wore shorts
-even in the middle of winter.");
+Until middle school, I wore shorts even in
+the middle of winter.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -9,8 +9,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020330200_03_010");
-MsgDisp("Honda","Isn't it just what it sounds like? 
-Though it's so obvious that it doesn't 
+MsgDisp("Honda","Isn't it just what it sounds like?
+Though it's so obvious that it doesn't
 quite sound like Ryo-kun.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -23,9 +23,9 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020330200_03_030");
-MsgDisp("Honda","I understand there are things
-I can't become, though?");
-MsgDisp("主人公","Maybe he meant it in a different way? 
+MsgDisp("Honda","I understand there are things I can't
+become, though?");
+MsgDisp("主人公","Maybe he meant it in a different way?
 What was the situation?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -37,15 +37,15 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020330200_03_050");
-MsgDisp("Honda","He signaled me with his eyes for help,
-so I thought there was no topic and 
-brought up the Ground Beetle.");
+MsgDisp("Honda","He signaled me with his eyes for help, so
+I thought there was no topic and brought
+up the Ground Beetle.");
 MsgDisp("主人公","Ground beetle......Eh?");
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020330200_03_060");
-MsgDisp("Honda","It's a type of beetle that can survive 
-for months without food in the harsh 
+MsgDisp("Honda","It's a type of beetle that can survive for
+months without food in the harsh
 environment of the desert.");
 MsgDisp("主人公","And you brought up that topic to the
 girls?");
@@ -53,8 +53,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020330200_03_070");
-MsgDisp("Honda","Right, right,
-And then suddenly, everyone disappeared.");
+MsgDisp("Honda","Right, right, And then suddenly, everyone
+disappeared.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

@@ -1,7 +1,6 @@
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Whew...
-Afternoon classes are making me
+MsgDisp("主人公","(Whew... Afternoon classes are making me
 sleepy...)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -24,10 +23,9 @@ ChOpen(1,254,0,0,3,10,#1,0,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("F100110000_01_000");
-MsgDisp("Kazama","｛主人公｝.
-Were you falling asleep just now?");
-MsgDisp("主人公","Ah!
-｛風真＊＊｝, you were watching?");
+MsgDisp("Kazama","｛主人公｝. Were you falling asleep
+just now?");
+MsgDisp("主人公","Ah! ｛風真＊＊｝, you were watching?");
 ChMotion(1,3);
 Wait(10,0);
 ChMouth(1,3);
@@ -40,18 +38,18 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F100110000_01_020");
-MsgDisp("Kazama","In truth, I was getting tired too,
-so I was looking forward to helping you
-stay awake.");
+MsgDisp("Kazama","In truth, I was getting tired too, so I
+was looking forward to helping you stay
+awake.");
 MsgDisp("主人公","Why me?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110000_01_030");
-MsgDisp("Kazama","I thought if I saw your serious face,
-it'd keep me energized, but you were
-sleepy the whole time.");
+MsgDisp("Kazama","I thought if I saw your serious face, it'd
+keep me energized, but you were sleepy the
+whole time.");
 MsgDisp("主人公","Uh....");
 ChEye(1,2);
 ChMouth(1,3);
@@ -66,8 +64,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110000_01_050");
-MsgDisp("Kazama","If you start to fall asleep,
-be sure to think about me.");
+MsgDisp("Kazama","If you start to fall asleep, be sure to
+think about me.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

@@ -23,12 +23,13 @@ VoicePlay("l060700000_07_020");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
-MsgDisp("Mikage","Well, I got it according to my sense,
-so don't expect too much, okay?
+MsgDisp("Mikage","Well, I got it according to my sense, so
+don't expect too much, okay?
 See you.");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I got a return gift from ｛御影＊＊｝!
-I wonder what it is?　How exciting.)");
+I wonder what it is?
+How exciting.)");

@@ -16,13 +16,13 @@ SEWait();
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ChOpen(5,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","The president was happy. 
+MsgDisp("主人公","The president was happy.
 What happened?");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G110500804_05_010");
-MsgDisp("Hiiragi","I just helped him a little bit 
-with the speech for the school assembly.");
+MsgDisp("Hiiragi","I just helped him a little bit with the
+speech for the school assembly.");
 MsgDisp("主人公","Ah, the one from the other day?
 It was well received.
 Did ｛柊＊＊＊｝ write the manuscript?");
@@ -38,8 +38,8 @@ VoicePlay("G110500804_05_020");
 MsgDisp("Hiiragi","No, the president wrote it.
 And I did a little directing.");
 MsgDisp("主人公","Oh that's right.
-His gestures were very passionate 
-and persuasive.");
+His gestures were very passionate and
+persuasive.");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
@@ -48,8 +48,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500804_05_030");
-MsgDisp("Hiiragi","Haha, 
-that's the president's acting ability.");
+MsgDisp("Hiiragi","Haha, that's the president's acting
+ability.");
 SEPlay("EV_SE_712");
 ChEye(5,0);
 ChMouth(5,1);
@@ -91,8 +91,8 @@ VoicePlay("G110500804_05_070");
 MsgDisp("Hiiragi","You really are such a kind person.
 Yes......t-thank you.");
 MsgDisp("主人公","(｛柊＊＊＊｝, I'm so glad.
-Even though you were tired and sleepy
-you always gave it your all......)");
+Even though you were tired and sleepy you
+always gave it your all......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

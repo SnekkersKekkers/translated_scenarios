@@ -6,8 +6,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,255,2,0,2,7,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080200004_02_000");
-    MsgDisp("Sassa","Hikaru-san, you seem to enjoy tea
-cups, huh...");
+    MsgDisp("Sassa","Hikaru-san, you seem to enjoy tea cups,
+huh...");
     break ;
     case 3:
     MsgClose();

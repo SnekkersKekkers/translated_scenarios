@@ -28,8 +28,7 @@ air-tank, with your scatterbrained self.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040106201_01_020");
     MsgDisp("Kazama","Well too bad for you.
-There's no such activity like
-that here.");
+There's no such activity like that here.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +39,8 @@ that here.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040106201_01_030");
-    MsgDisp("Kazama","This is why you're always
-giving me death flags.
+    MsgDisp("Kazama","This is why you're always giving me death
+flags.
 Hey, get over here.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

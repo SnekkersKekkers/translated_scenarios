@@ -19,8 +19,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100002_01_010");
-MsgDisp("Kazama","Like how Mikage-sensei has a hidden
-farm in the basement, for one.");
+MsgDisp("Kazama","Like how Mikage-sensei has a hidden farm
+in the basement, for one.");
 MsgDisp("主人公","Huh?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -35,8 +35,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("F020100002_01_030");
-MsgDisp("Kazama","Well, isn't there a culture festival
-or something?");
+MsgDisp("Kazama","Well, isn't there a culture festival or
+something?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,4);

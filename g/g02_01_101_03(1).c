@@ -3,8 +3,8 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 VoicePlay("G020110103_01_000");
 MsgDisp("Kazama","These things look like they're blessing
 us, don't you think?");
-MsgDisp("主人公","Yeah, there are many fireflies around
-you, ｛風真＊＊｝.");
+MsgDisp("主人公","Yeah, there are many fireflies around you,
+｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -38,8 +38,8 @@ Wait(10,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020110103_01_050");
-MsgDisp("Kazama","As for Honda, I'm not really sure. But he
-gives me hints with his own truths.");
+MsgDisp("Kazama","As for Honda, I'm not really sure.
+But he gives me hints with his own truths.");
 MsgDisp("主人公","Friendship between boys seems nice.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -59,7 +59,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110103_01_080");
 MsgDisp("Kazama","That balance depends on how you measure it
-I guess. Do you understand?");
+I guess.
+Do you understand?");
 MsgDisp("主人公","Eh, me?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -73,8 +74,8 @@ ChMotion(1,0);
 VoicePlay("G020110103_01_100");
 MsgDisp("Kazama","Well, even if the balance is off, I'll be
 right back next to you.");
-MsgDisp("主人公","(I wonder what ｛風真＊＊｝
-is talking about.)");
+MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is talking
+about.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

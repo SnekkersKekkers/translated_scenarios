@@ -12,8 +12,7 @@ Wait(20,1);
 VoicePlay("P850500002_05_000");
 MsgDisp("Hiiragi","Yes, thank you for your hard work.
 We received everyone's thanks.");
-MsgDisp("主人公","Yeah, 
-that's what I'm most happy about.
+MsgDisp("主人公","Yeah, that's what I'm most happy about.
 We were of help to everyone, huh.");
 ChEye(5,4);
 ChMouth(5,4);

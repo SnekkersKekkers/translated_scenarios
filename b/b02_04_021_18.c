@@ -15,5 +15,5 @@ VoicePlay("B020402118_04_010");
 MsgDisp("Nanatsumori","What reason do I have to lie. When it
 comes to clothes, there's plain people,
 and cool people. You're the latter.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes like
-these, too.)");
+MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes
+like these, too.)");

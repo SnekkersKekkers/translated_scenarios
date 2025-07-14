@@ -13,7 +13,7 @@ MsgDisp("Nanatsumori","Yeah.
 The usual crew.");
 ChMotion(4,0,1);
 VoicePlay("G020430000_04_020");
-MsgDisp("Nanatsumori","You know, it feels kinda like we're 
+MsgDisp("Nanatsumori","You know, it feels kinda like we're
 sneaking away on a date.");
 ChEye(4,2);
 ChMouth(4,4);
@@ -30,15 +30,16 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020430000_04_050");
-MsgDisp("Nanatsumori","But on days like today when we're having 
+MsgDisp("Nanatsumori","But on days like today when we're having
 such a blast, I feel bad for them.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020430000_04_060");
-MsgDisp("Nanatsumori","Don't laugh. I'm actually a pretty serious
-guy, you know?");
+MsgDisp("Nanatsumori","Don't laugh.
+I'm actually a pretty serious guy, you
+know?");
 MsgDisp("主人公","Yeah, I know.");
 ChEye(4,4);
 ChMouth(4,2);

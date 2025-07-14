@@ -23,14 +23,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P740700003_07_020");
-MsgDisp("Mikage","That's right. Your beautiful dress was
-popular wasn't it?");
+MsgDisp("Mikage","That's right.
+Your beautiful dress was popular wasn't
+it?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P740700003_07_030");
-MsgDisp("Mikage","You're not in the modelling club, 
-but the handicrafts club.");
+MsgDisp("Mikage","You're not in the modelling club, but the
+handicrafts club.");
 MsgDisp("主人公","Yes...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -44,8 +45,8 @@ VoicePlay("P740700003_07_050");
 MsgDisp("Mikage","Still, a lack of exercise is a problem.
 How about from tomorrow onwards, you model
 walk to and from school.");
-MsgDisp("主人公","(Uugh... I wish I prepared more 
-carefully for the show...)");
+MsgDisp("主人公","(Uugh... I wish I prepared more carefully
+for the show...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

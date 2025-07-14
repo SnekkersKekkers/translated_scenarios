@@ -41,11 +41,13 @@ right?");
     ChMotion(4,0,1);
     VoicePlay("P730400002_04_040");
     MsgDisp("Nanatsumori","Then, the bride should make her way to the
-stage. Look your best!");
+stage.
+Look your best!");
     MsgDisp("主人公","Yeah!
 Then, I'm off!");
-    MsgDisp("主人公","(Alーright! This is the last runway of my
-high school life, let's do it properly!)");
+    MsgDisp("主人公","(Alーright!
+This is the last runway of my high school
+life, let's do it properly!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -64,8 +66,7 @@ make it pretty but...)");
     ChOpen(4,254,0,3,3,#1,#1,5,0,0,60);
     VoicePlay("P730400002_04_050");
     MsgDisp("Nanatsumori","............");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-...what's wrong?");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. ...what's wrong?");
     ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_060");
     MsgDisp("Nanatsumori","You're beautiful.");
@@ -80,8 +81,8 @@ I'm a little embarrassed.");
     ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_080");
     MsgDisp("Nanatsumori","I wonder who will be able to stand
-alongside you when you look 
-like that in the future.");
+alongside you when you look like that in
+the future.");
     MsgDisp("主人公","Hehe.");
     ChEye(4,0);
     ChMouth(4,0);
@@ -103,8 +104,8 @@ like that in the future.");
 do your best.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alーright!
-Let's do the last runway of my
-high school life properly!)");
+Let's do the last runway of my high school
+life properly!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChCheek(4,0);

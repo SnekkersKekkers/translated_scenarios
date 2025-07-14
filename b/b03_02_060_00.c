@@ -12,8 +12,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B030206000_02_010");
-MsgDisp("Sassa","Alright,
-Let's meet up here after changing.");
+MsgDisp("Sassa","Alright, Let's meet up here after
+changing.");
 MsgDispSksp(1,0);
 ChEye(2,0);
 ChMouth(2,4);

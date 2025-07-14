@@ -2,13 +2,12 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("T020711000_07_000");
-MsgDisp("Mikage?","｛主人公｝,
-Would you like to go out with me?");
+MsgDisp("Mikage?","｛主人公｝, Would you like to go out
+with me?");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Eh, ｛御影＊＊｝......?
-What's wrong?");
+MsgDisp("主人公","Eh, ｛御影＊＊｝......? What's wrong?");
 SEPlay("EV_SE_504",0,0.7);
 Wait(30,0);
 ChEye(7,2);
@@ -43,8 +42,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020711000_07_030");
-MsgDisp("Mikage","I'm going to graduate from Haba High
-along with you guys.");
+MsgDisp("Mikage","I'm going to graduate from Haba High along
+with you guys.");
 MsgDisp("主人公","You're going to resign from being a
 teacher at Haba High?");
 ChEye(7,2);
@@ -59,8 +58,8 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020711000_07_050");
-MsgDisp("Mikage","I went to Haba High to fill in a gap
-from my high school years.");
+MsgDisp("Mikage","I went to Haba High to fill in a gap from
+my high school years.");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -83,7 +82,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020711000_07_080");
-MsgDisp("Mikage","Thanks to you, I no longer have an excuse 
+MsgDisp("Mikage","Thanks to you, I no longer have an excuse
 to run away from the family business.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -105,9 +104,9 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("T020711000_07_110");
-MsgDisp("Mikage","That's right. When I think back to that
-time, the moment the bowling pins
-flipped——");
+MsgDisp("Mikage","That's right.
+When I think back to that time, the moment
+the bowling pins flipped——");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -144,8 +143,7 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020711000_07_160");
 MsgDisp("Mikage","......I managed to hold it off once.
-But in the end, I'm here,
-in front of you.");
+But in the end, I'm here, in front of you.");
 MsgDisp("主人公","｛御影＊＊｝......?");
 ChEye(7,4);
 ChMouth(7,4);
@@ -173,7 +171,7 @@ ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_200");
-MsgDisp("Mikage","I felt  a little relieved.
+MsgDisp("Mikage","I felt a little relieved.
 But, the regret festering within me was
 many times worse......");
 ChEye(7,2);

@@ -14,8 +14,7 @@ They're super steep!");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("L040800002_08_010");
-    MsgDisp("Shirahane","You didn't hafta......
-But, I'm happy.
+    MsgDisp("Shirahane","You didn't hafta...... But, I'm happy.
 Thanks.");
     MsgDisp("主人公","(He seemed happy.
 Thank goodness!)");
@@ -35,8 +34,8 @@ I kinda went all out!");
     ChMotion(8,2,1);
     VoicePlay("L040800002_08_030");
     MsgDisp("Shirahane","Heheh, that so.
-Well, I gotta go all out for
-the return gift, too!");
+Well, I gotta go all out for the return
+gift, too!");
     MsgDisp("主人公","Oh, that wasn't my intention......");
     ChEye(8,3);
     ChMouth(8,3);
@@ -57,22 +56,21 @@ Thank goodness!)");
     ChEyeOpenLevel(8,10);
     ChCheek(8,8);
     VoicePlay("L040800002_08_050");
-    MsgDisp("Shirahane","This......
-It's the chocolates on Habacha......");
+    MsgDisp("Shirahane","This...... It's the chocolates on
+Habacha......");
     MsgDisp("主人公","Hehe, I got a little excited▼");
     ChEye(8,3);
     ChMouth(8,4);
     VoicePlay("L040800002_08_060");
     MsgDisp("Shirahane","For me......?");
-    MsgDisp("主人公","Yes.
-Just for you, ｛大地＊＊｝.");
+    MsgDisp("主人公","Yes. Just for you, ｛大地＊＊｝.");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("L040800002_08_070");
     MsgDisp("Shirahane","Ah, no......
-I'm not gonna be able
-to do anythin' else today......");
+I'm not gonna be able to do anythin' else
+today......");
     MsgDisp("主人公","Huh?");
     ChEye(8,3);
     ChMouth(8,3);
@@ -80,12 +78,11 @@ to do anythin' else today......");
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800002_08_080");
     VoiceEVSPlay(8);
-    MsgDisp("Shirahane","So I'll be braggin' 'bout this
-chocolate until I get scolded
-by the manager. Thanks, ｛主人公｝.");
-    MsgDisp("主人公","(Huh!?　Will he be fine......
-But, he seemed really happy.
-Thank goodness!)");
+    MsgDisp("Shirahane","So I'll be braggin' 'bout this chocolate
+until I get scolded by the manager.
+Thanks, ｛主人公｝.");
+    MsgDisp("主人公","(Huh!? Will he be fine...... But, he
+seemed really happy. Thank goodness!)");
     break ;
     default :
     DbgAssert(1);

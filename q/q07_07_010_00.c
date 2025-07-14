@@ -1,8 +1,8 @@
 BGOpen("sc811",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I walked a lot today,
-So let's take a relaxing bath.)");
+MsgDisp("主人公","(I walked a lot today, So let's take a
+relaxing bath.)");
 VoicePlay("Q070701000_22_000");
 MsgDisp("Hikaru?","Mari, found you!");
 MsgClose();
@@ -14,8 +14,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,1);
 VoicePlay("Q070701000_21_000");
-MsgDisp("Michiru","Mari, are you going to take a bath now 
-too? If so——");
+MsgDisp("Michiru","Mari, are you going to take a bath now
+too?
+If so——");
 VoicePlay("Q070701000_42_000");
 MsgDisp("Male Student","Mikagecchi!
 The tap is broken!");
@@ -29,8 +30,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("Q070701000_21_010");
-MsgDisp("Michiru","......?
-It's kind of noisy in the men's bath.");
+MsgDisp("Michiru","......? It's kind of noisy in the men's
+bath.");
 MsgDisp("主人公","Yes...... I wonder what's going on.");
 ChEye(22,3);
 ChMouth(22,3);
@@ -47,7 +48,7 @@ ChMotion(21,4);
 VoicePlay("Q070701000_21_020");
 MsgDisp("Michiru","Oh well......
 Mari, we're going too.");
-MsgDisp("主人公","Eeh∋　 ｛みちる＊｝, you too!");
+MsgDisp("主人公","Eeh∋ ｛みちる＊｝, you too!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(21,0,0);
@@ -89,12 +90,12 @@ MsgDisp("Hikaru","What, what, what??
 Mikage-sensei, what's wrong?");
 StlEyeOpenLevel(7,5,1);
 VoicePlay("Q070701000_07_030");
-MsgDisp("Mikage","They broke the shower, it's now a 
-fountain. I'm going to the front desk.");
+MsgDisp("Mikage","They broke the shower, it's now a
+fountain.
+I'm going to the front desk.");
 VoicePlay("Q070701000_21_030");
-MsgDisp("Michiru","Mikage-sensei,
-You shouldn't go outside dressed like 
-that......");
+MsgDisp("Michiru","Mikage-sensei, You shouldn't go outside
+dressed like that......");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("Q070701000_07_040");
@@ -131,8 +132,9 @@ Y, yes. We need to hurry!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(I can't believe  ｛御影＊＊｝ popped 
-out......　haah, I was so surprised.)");
+MsgDisp("主人公","(I can't believe ｛御影＊＊｝ popped
+out......
+haah, I was so surprised.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

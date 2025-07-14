@@ -1,13 +1,14 @@
 BGOpen("ho210",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I finished my summer homework. Time to
-take a break and watch some TV——)");
+MsgDisp("主人公","(I finished my summer homework.
+Time to take a break and watch some
+TV——)");
 SEPlay("EV_SE_721",0,0.6);
 SEWait();
 VoicePlay("D010300700_43_000");
-MsgDisp("Moderator","Correct answer∈ And the winner of the 
-\"Quiz Brain Interhigh\" is Habataki 
+MsgDisp("Moderator","Correct answer∈ And the winner of the
+\"Quiz Brain Interhigh\" is Habataki
 Academy's second year student——");
 MsgDisp("主人公","(Eh......)");
 MsgClose();
@@ -24,8 +25,7 @@ SEPlay("EV_SE_GAYA_003",0,0.8);
 SEStop("EV_SE_707",1.5);
 VoicePlay("D010300700_43_010");
 MsgDisp("Moderator","Iku Honda-kun!");
-MsgDisp("主人公","∈
-｛本多＊＊｝∋");
+MsgDisp("主人公","∈ ｛本多＊＊｝∋");
 VoicePlay("D010300700_43_020");
 MsgDisp("Moderator","Honda-kun, congrats!
 How are you feeling?");
@@ -43,21 +43,22 @@ Is there anyone you would like to thank?");
 StlEye(3,1);
 VoicePlay("D010300700_03_020");
 MsgDisp("Honda","My dad.
-My mom and my sister will be really
-happy too.");
+My mom and my sister will be really happy
+too.");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300700_43_040");
-MsgDisp("Moderator","Honda-kun, you and your family seem
-very close!");
+MsgDisp("Moderator","Honda-kun, you and your family seem very
+close!");
 VoicePlay("D010300700_43_050");
-MsgDisp("Moderator","The live broadcast of this year's
-\"Quiz Brain Interhigh\" will end here.
+MsgDisp("Moderator","The live broadcast of this year's \"Quiz
+Brain Interhigh\" will end here.
 Tune in again next year～!");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300700_03_030");
-MsgDisp("Honda","Eh, already?　Wait, wait!
+MsgDisp("Honda","Eh, already?
+Wait, wait!
 There's one more person I'd like to——");
 BGMStop();
 SEStop("EV_SE_GAYA_003",2);
@@ -67,8 +68,8 @@ StlClose();
 MsgDisp("主人公","(Hehe! It ended in the middle of what he
 was saying. ｛本多＊＊｝ was amazing
 though......)");
-MsgDisp("主人公","(I wonder if he'll let me interview
-him for Habacha?)");
+MsgDisp("主人公","(I wonder if he'll let me interview him
+for Habacha?)");
 MsgClose();
 Wait(40,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -89,8 +90,8 @@ SEPlay("EV_SE_544");
 ChOpen(3,255,1,0,3,#1,#1,0,0);
 VoicePlay("D010300700_03_040");
 MsgDisp("Honda","Sorry for bothering you!");
-MsgDisp("主人公","Ehh∋
-｛本多＊＊｝, what are you doing here?");
+MsgDisp("主人公","Ehh∋ ｛本多＊＊｝, what are you doing
+here?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -112,9 +113,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("D010300700_03_070");
-MsgDisp("Honda","Because I was thanking people and you
-were the last on my list. I was going to
-shout your name.");
+MsgDisp("Honda","Because I was thanking people and you were
+the last on my list.
+I was going to shout your name.");
 MsgDisp("主人公","Ehh∋");
 ChEye(3,4);
 ChMouth(3,4);
@@ -135,7 +136,7 @@ ChClose(3);
 MsgDisp("主人公","(I'm glad he didn't shout my name on
 TV......It would be troublesome when we go
 back to school after break......)");
-MsgDisp("主人公","(Ah!　Didn't I want to interview
+MsgDisp("主人公","(Ah! Didn't I want to interview
 ｛本多＊＊｝? Quick, let's go after him
 while he's still nearby!)");
 SEPlay("EV_SE_DOOR_022");

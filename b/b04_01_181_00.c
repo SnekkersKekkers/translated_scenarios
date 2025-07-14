@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118100_01_000");
-    MsgDisp("Kazama","The story had no twists, almost to
-the point it made me feel uneasy.");
+    MsgDisp("Kazama","The story had no twists, almost to the
+point it made me feel uneasy.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -24,8 +24,8 @@ the point it made me feel uneasy.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118100_01_010");
     MsgDisp("Kazama","I feel the same.
-That feeling of predictability 
-was just so-so.");
+That feeling of predictability was just
+so-so.");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
@@ -37,9 +37,8 @@ was just so-so.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040118100_01_020");
-    MsgDisp("Kazama","Right.
-When it's this far off the mark, 
-it  now feels good.");
+    MsgDisp("Kazama","Right. When it's this far off the mark, it
+now feels good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

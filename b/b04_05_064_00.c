@@ -22,8 +22,8 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B040506400_05_020");
 MsgDisp("Hiiragi","This is Habataki City's festival huh?
-I must say that this is my home 
-with a sense of pride.");
+I must say that this is my home with a
+sense of pride.");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("B040506400_05_030");
@@ -45,11 +45,11 @@ SEPlay("EV_SE_626");
 ChClose(5);
 Wait(40,0);
 VoicePlay("B040506400_05_060");
-MsgDisp("Hiiragi","Excuse me, 
-I'll buy two with egg toppings please.");
+MsgDisp("Hiiragi","Excuse me, I'll buy two with egg toppings
+please.");
 SEPlay("EV_SE_022",0.8);
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-The fireworks are about to start!");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝. The fireworks are about
+to start!");
 VoicePlay("B040506400_47_000");
 MsgDisp("Night Market Clerk","Thank you～!");
 MsgClose();

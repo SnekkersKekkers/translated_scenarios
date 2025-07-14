@@ -88,9 +88,8 @@ Half serious.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040406302_04_100");
-        MsgDisp("Nanatsumori","We can't do it with just the 
-two of us. And, it's not warm, 
-is it?");
+        MsgDisp("Nanatsumori","We can't do it with just the two of us.
+And, it's not warm, is it?");
         ChEye(4,4);
         ChMouth(4,3);
         VoicePlay("B040406302_04_110");
@@ -106,12 +105,14 @@ snuggled up like this...");
         VoicePlay("B040406302_04_120");
         MsgDisp("Nanatsumori","...It's warm.
 What about you?");
-        MsgDisp("主人公","It's warm... I think?");
+        MsgDisp("主人公","It's warm...
+I think?");
         ChEye(4,2);
         ChMouth(4,3);
         VoicePlay("B040406302_04_130");
         MsgDisp("Nanatsumori","Eh, do you need that question mark at the
-end? If it's not enough, then here's more.");
+end?
+If it's not enough, then here's more.");
         SEPlay("EV_SE_551");
         SEWait();
         ChEye(4,0);

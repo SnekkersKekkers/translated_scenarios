@@ -21,16 +21,16 @@ We look forward to your next visit!");
     MsgDisp("Shirahane","That's our poster girl for ya.");
     MsgDisp("主人公","Ah, ｛大地＊＊｝.");
     VoicePlay("I660800007_08_010");
-    MsgDisp("Shirahane","That regular only comes when
-you're on shift, y'know?");
+    MsgDisp("Shirahane","That regular only comes when you're on
+shift, y'know?");
     MsgDisp("主人公","Really?");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("I660800007_08_020");
-    MsgDisp("Shirahane","Rumor has it that our stand has a
-cute attendant. Th' increase in
-customers has our manager happy, too.");
+    MsgDisp("Shirahane","Rumor has it that our stand has a cute
+attendant. Th' increase in customers has
+our manager happy, too.");
     MsgDisp("主人公","That's......");
     ChEye(8,3);
     ChMouth(8,3);
@@ -39,9 +39,9 @@ customers has our manager happy, too.");
     VoicePlay("I660800007_08_030");
     MsgDisp("Shirahane","Haha!
 Keep up the good work.");
-    MsgDisp("主人公","(It's a little embarrassing, but
-I'm happy to see that my hard work
-is being recognized.)");
+    MsgDisp("主人公","(It's a little embarrassing, but I'm happy
+to see that my hard work is being
+recognized.)");
     break ;
     case 4:
     case 5:
@@ -63,8 +63,8 @@ We look forward to your next visit!");
     ChMotion(8,2,1);
     ChCheek(8,3);
     VoicePlay("I660800007_08_050");
-    MsgDisp("Shirahane","That regular only comes on days
-you're working.
+    MsgDisp("Shirahane","That regular only comes on days you're
+working.
 What a perv.");
     MsgDisp("主人公","Huh∋");
     ChEye(8,3);
@@ -72,9 +72,8 @@ What a perv.");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800007_08_060");
-    MsgDisp("Shirahane","The manager's happy that our
-customers and sales are up 'cuz of you,
-but......");
+    MsgDisp("Shirahane","The manager's happy that our customers and
+sales are up 'cuz of you, but......");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,4,1);
@@ -85,19 +84,19 @@ but......");
     ChMotion(8,1,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800007_08_080");
-    MsgDisp("Shirahane","......Wait, as if I got the time to
-be gettin' jealous of the customers!
+    MsgDisp("Shirahane","......Wait, as if I got the time to be
+gettin' jealous of the customers!
 Get it together, me!");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800007_08_090");
-    MsgDisp("Shirahane","I'm startin' to really enjoy
-working part-time here thanks t' ya.
+    MsgDisp("Shirahane","I'm startin' to really enjoy working
+part-time here thanks t' ya.
 I got it......");
-    MsgDisp("主人公","(It's a little embarrassing, but
-I'm happy to see that my hard work
-is being recognized.)");
+    MsgDisp("主人公","(It's a little embarrassing, but I'm happy
+to see that my hard work is being
+recognized.)");
     break ;
     default :
     DbgAssert(1);

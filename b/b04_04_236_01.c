@@ -14,8 +14,8 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040423601_04_000");
 MsgDisp("Nanatsumori","Hey, look at that costume!
-It's a fish and it's got legs
-growing out of the flesh∋");
+It's a fish and it's got legs growing out
+of the flesh∋");
 MsgSel("How surreal...","That's the weird \"mer\" part, isn't it?","It's creepy!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("B040423601_04_010");
-    MsgDisp("Nanatsumori","If I had to sum it up in a word,
-it would be that.");
+    MsgDisp("Nanatsumori","If I had to sum it up in a word, it would
+be that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,9 +35,8 @@ it would be that.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423601_04_020");
-    MsgDisp("Nanatsumori","...Pfft!
-You put it well. The sweetness and
-spice are just right.");
+    MsgDisp("Nanatsumori","...Pfft! You put it well. The sweetness
+and spice are just right.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -48,8 +47,8 @@ spice are just right.");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("B040423601_04_030");
-    MsgDisp("Nanatsumori","Well, I guess it's 
-hard for girls to accept.");
+    MsgDisp("Nanatsumori","Well, I guess it's hard for girls to
+accept.");
     MsgDateResultDisp();
     break ;
     default :

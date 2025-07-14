@@ -5,8 +5,8 @@ ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("K010100103_01_000");
 MsgDisp("Kazama","Is this for me?");
-MsgDisp("主人公","Hm?　That's right.
-It's your birthday present.");
+MsgDisp("主人公","Hm? That's right. It's your birthday
+present.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);

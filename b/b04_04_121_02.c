@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040412102_04_000");
 MsgDisp("Nanatsumori","Is there anything 
 you want to look at?");
-MsgSel("Whatever｛七ツ森＊｝ wants to see","Maybe some daily necessities","I'm kind of interested in some second hand clothes");
+MsgSel("Whatever ｛七ツ森＊｝ wants to see","Maybe some daily necessities","I'm kind of interested in some second hand clothes");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){
@@ -25,9 +25,8 @@ switch (MsgSelRsltGet()){
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_010");
-        MsgDisp("Nanatsumori","Me?
-I'll just be looking for vintage
-stuff though.");
+        MsgDisp("Nanatsumori","Me? I'll just be looking for vintage stuff
+though.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -41,9 +40,9 @@ stuff though.");
         VoicePlay("B040412102_04_020");
         MsgDisp("Nanatsumori","This is enough for me.
 I want you to enjoy this event too.");
-        MsgDisp("主人公","I am enjoying it.
-Both the shops and the customers
-are so lively. I'm super excited!");
+        MsgDisp("主人公","I am enjoying it. Both the shops and the
+customers are so lively. I'm super
+excited!");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -58,8 +57,8 @@ are so lively. I'm super excited!");
 store selling silver accessories we saw
 while passing by earlier?");
         MsgDisp("主人公","Silver accessories?
-Ah, the shop with queue and 
-a cool salesperson?");
+Ah, the shop with queue and a cool
+salesperson?");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -71,9 +70,8 @@ a cool salesperson?");
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_060");
-        MsgDisp("Nanatsumori","Well... that's fine.
-That person's silver accessories
-has a warmth to them.");
+        MsgDisp("Nanatsumori","Well... that's fine. That person's silver
+accessories has a warmth to them.");
         ChEye(4,4);
         ChMouth(4,4);
         VoicePlay("B040412102_04_070");
@@ -85,9 +83,9 @@ It's strange isn't it?");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_080");
-        MsgDisp("Nanatsumori","Rumor has it that the rings they make
-will bring happiness to each 
-couple that wears them.");
+        MsgDisp("Nanatsumori","Rumor has it that the rings they make will
+bring happiness to each couple that wears
+them.");
         MsgDisp("主人公","Waa, how wonderful...!");
         ChEye(4,4);
         ChMouth(4,4);
@@ -110,15 +108,14 @@ couple that wears them.");
 It probably sold out ages ago, and they've
 probably closed shop for the day.");
         MsgDisp("主人公","I see.
-There were a lot of 
-customers after all.");
+There were a lot of customers after all.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_120");
         MsgDisp("Nanatsumori","That's true too.
-But, I also haven't prepared
-my heart just yet.");
+But, I also haven't prepared my heart just
+yet.");
         MsgDisp("主人公","(?)");
         break ;
         default :
@@ -132,8 +129,7 @@ my heart just yet.");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040412102_04_130");
-    MsgDisp("Nanatsumori","Eh...
-Is that something worth going to the
+    MsgDisp("Nanatsumori","Eh... Is that something worth going to the
 trouble of looking for here?");
     MsgDateResultDisp();
     break ;
@@ -144,8 +140,8 @@ trouble of looking for here?");
     ChMotion(4,3,1);
     VoicePlay("B040412102_04_140");
     MsgDisp("Nanatsumori","Nice, I'll help too.
-I'll go all out in looking for some 
-ladies vintage items that'll suit you!");
+I'll go all out in looking for some ladies
+vintage items that'll suit you!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

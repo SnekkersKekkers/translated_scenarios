@@ -18,9 +18,9 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B010100002_01_010");
-    MsgDisp("Kazama","I left home at the wrong time. But it
-seems like it worked out in my favor
-anyway.");
+    MsgDisp("Kazama","I left home at the wrong time.
+But it seems like it worked out in my
+favor anyway.");
     MsgDispSksp(0);
     break ;
     case 3:
@@ -74,8 +74,9 @@ But so are you.");
     ChMotion(1,3);
     ChCheek(1,5);
     VoicePlay("B010100002_01_080");
-    MsgDisp("Kazama","Why are you turning so red? Well, let's
-just say we have the same reason.");
+    MsgDisp("Kazama","Why are you turning so red?
+Well, let's just say we have the same
+reason.");
     MsgDispSksp(0);
     break ;
     default :

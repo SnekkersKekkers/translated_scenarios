@@ -37,14 +37,15 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("D100300000_03_040");
-MsgDisp("Honda","Last night, I dreamt you were in a
-large garden. I could smell roses.");
+MsgDisp("Honda","Last night, I dreamt you were in a large
+garden.
+I could smell roses.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D100300000_03_050");
-MsgDisp("Honda","When I saw you just now, I swear I
-could smell that same scent.");
+MsgDisp("Honda","When I saw you just now, I swear I could
+smell that same scent.");
 MsgDisp("主人公","A garden of roses, huh......
 That sounds like a really nice dream.");
 ChEye(3,3);

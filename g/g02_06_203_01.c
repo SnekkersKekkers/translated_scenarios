@@ -18,21 +18,22 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620301_06_020");
-MsgDisp("Himuro","But I don't really get it. Everyone's idea
-of love is different, after all.");
+MsgDisp("Himuro","But I don't really get it.
+Everyone's idea of love is different,
+after all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620301_06_030");
-MsgDisp("Himuro","And as an expression,
-falling, drowning, going crazy? 
+MsgDisp("Himuro","And as an expression, falling, drowning,
+going crazy?
 It all seems a bit intense.");
 MsgDisp("主人公","That's true......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620301_06_040");
-MsgDisp("Himuro","Right? That's why I've been avoiding it. 
+MsgDisp("Himuro","Right? That's why I've been avoiding it.
 Until now, that is.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
@@ -40,8 +41,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620301_06_050");
-MsgDisp("Himuro","I thought it's about time 
-I have to face it properly.");
+MsgDisp("Himuro","I thought it's about time I have to face
+it properly.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

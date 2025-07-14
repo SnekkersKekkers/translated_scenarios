@@ -6,8 +6,8 @@ Head, eyes, mouth, body, and arms.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200012_32_010");
-MsgDisp("VP Himuro","Your feelings will be conveyed
-differently depending on the area.
+MsgDisp("VP Himuro","Your feelings will be conveyed differently
+depending on the area.
 What I mean by this, I'm sure you know.");
 ChEye(32,0);
 ChMouth(32,0);

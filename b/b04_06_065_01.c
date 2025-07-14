@@ -6,8 +6,8 @@ MsgClose();
 ChOpen(6,33,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040606501_06_000");
-MsgDisp("Himuro","Do you think we'll be able to
-see these fireworks again next year?");
+MsgDisp("Himuro","Do you think we'll be able to see these
+fireworks again next year?");
 MsgSel("Yeah, let's see them together.","I'll be by myself, but I'll come watch it","Maybe we won't be able to see it...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040606501_06_010");
-    MsgDisp("Himuro","You mean you still plan on 
-seeing me even after you graduate?
+    MsgDisp("Himuro","You mean you still plan on seeing me even
+after you graduate?
 ...Well, that's fine.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
@@ -63,22 +63,20 @@ How should I take that?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606501_06_050");
-        MsgDisp("Himuro","...But, 
-It's not like we have to stop 
+        MsgDisp("Himuro","...But, It's not like we have to stop
 hanging out after you graduate.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,4,1);
         VoicePlay("B040606501_06_060");
-        MsgDisp("Himuro","We'll both live in Habataki City,
-we can at least still meet up.");
+        MsgDisp("Himuro","We'll both live in Habataki City, we can
+at least still meet up.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
         ChCheek(6,10);
         VoicePlay("B040606501_06_070");
-        MsgDisp("Himuro","That's why, even if you've 
-graduated, I...
+        MsgDisp("Himuro","That's why, even if you've graduated, I...
 would still like to meet up.");
         MsgDisp("主人公","｛氷室＊＊｝......");
         ChEye(6,0);
@@ -91,8 +89,8 @@ whole year later more lightly.");
         ChMouth(6,0);
         ChMotion(6,3);
         VoicePlay("B040606501_06_090");
-        MsgDisp("Himuro","But, I don't think 
-my feelings will change.");
+        MsgDisp("Himuro","But, I don't think my feelings will
+change.");
         MsgDisp("主人公","Yeah!
 Thank you.");
         break ;

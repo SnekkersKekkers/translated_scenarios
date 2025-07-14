@@ -20,19 +20,17 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B050600200_06_020");
-MsgDisp("Himuro","Lonely......?
-So what? Are you going to stay here
-for the rest of your life and play
-with him?");
+MsgDisp("Himuro","Lonely......? So what? Are you going to
+stay here for the rest of your life and
+play with him?");
 MsgDisp("主人公","Eh?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B050600200_06_030");
-MsgDisp("Himuro","You only hang out with him while
-you're here, and then you leave when
-you're done.");
+MsgDisp("Himuro","You only hang out with him while you're
+here, and then you leave when you're done.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -56,8 +54,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder where ｛氷室＊＊｝
-went. 
+MsgDisp("主人公","(I wonder where ｛氷室＊＊｝ went.
 ......Ah——)");
 VoicePlay("B050600200_06_060");
 MsgDisp("Himuro","......Come here.
@@ -70,8 +67,7 @@ StlEye(6,0);
 StlMouth(6,0);
 ScrFadeIn(0);
 VoicePlay("B050600200_06_070");
-MsgDisp("Himuro","Hey.
-Do you really like being alone that
+MsgDisp("Himuro","Hey. Do you really like being alone that
 much?");
 SEPlay("EV_SE_838");
 SEWait();
@@ -87,16 +83,16 @@ StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600200_06_090");
 MsgDisp("Himuro","......But you know, deep down don't you
-want friends too? That's why I can't
-leave you alone there.");
+want friends too?
+That's why I can't leave you alone there.");
 SEPlay("EV_SE_839");
 SEWait();
 StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
 VoicePlay("B050600200_06_100");
-MsgDisp("Himuro","It's true that we can only come 
-here once in a while.");
+MsgDisp("Himuro","It's true that we can only come here once
+in a while.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600200_06_110");
@@ -120,9 +116,8 @@ SEWait();
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600200_06_140");
-MsgDisp("Himuro","......What?
-You suddenly meowed.
-Is that......sympathy?");
+MsgDisp("Himuro","......What? You suddenly meowed. Is
+that......sympathy?");
 MsgDisp("主人公","Hehe.");
 StlEye(6,2);
 StlMouth(6,1);
@@ -143,8 +138,8 @@ MsgClose();
 ChOpen(6,255,4,0,0,#1,#1,5,0);
 VoicePlay("B050600200_06_160");
 MsgDisp("Himuro","...for how long have you been listening?");
-MsgDisp("主人公","Uhm, from the moment you picked up
-the kitty?");
+MsgDisp("主人公","Uhm, from the moment you picked up the
+kitty?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -152,7 +147,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B050600200_06_170");
 MsgDisp("Himuro","Really, so you heard everything......
 Forget it.");
-MsgDisp("主人公","(Did I get to hear ｛氷室＊＊｝'s
-true feelings?)");
+MsgDisp("主人公","(Did I get to hear ｛氷室＊＊｝'s true
+feelings?)");
 BGMStop();
 ChPrmTblAdd(6,0);

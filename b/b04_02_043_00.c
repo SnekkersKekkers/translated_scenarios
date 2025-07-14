@@ -11,9 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040204300_02_000");
-    MsgDisp("Sassa","Seriously?
-I wasn't sure if I was supposed to
-laugh.");
+    MsgDisp("Sassa","Seriously? I wasn't sure if I was supposed
+to laugh.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -23,8 +22,8 @@ laugh.");
     ChMotion(2,4);
     VoicePlay("B040204300_02_010");
     MsgDisp("Sassa","Just okay, huh......
-To be honest, I didn't understand it
-well enough to give a rating.");
+To be honest, I didn't understand it well
+enough to give a rating.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +35,8 @@ well enough to give a rating.");
     ChMotion(2,3);
     VoicePlay("B040204300_02_020");
     MsgDisp("Sassa","That's a relief.
-I guess I'm not the only one who
-didn't find it funny.");
+I guess I'm not the only one who didn't
+find it funny.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -13,9 +13,8 @@ ChMotion(4,0,1);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B330B10400_04_000");
-MsgDisp("Nanatsumori","This isn't the type of place 
-High school students would
-come to hang out...");
+MsgDisp("Nanatsumori","This isn't the type of place High school
+students would come to hang out...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -43,8 +42,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B10400_01_010");
-MsgDisp("Kazama","...Indeed.
-I'm sure there are some weird
+MsgDisp("Kazama","...Indeed. I'm sure there are some weird
 insects in there too.");
 ChMouthOpenLevel(4,0);
 VoicePlay("B330B10400_04_010");
@@ -57,16 +55,16 @@ ChEyeOpenLevel(1,0);
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("B330B10400_04_020");
-MsgDisp("Nanatsumori","No, I just don't want to 
-come across any bugs.");
+MsgDisp("Nanatsumori","No, I just don't want to come across any
+bugs.");
 ChMouth(1,0);
 ChEyeOpenLevel(1,#1);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10400_03_020");
-MsgDisp("Honda","They're not just in the water, 
-they're in the grass too!
+MsgDisp("Honda","They're not just in the water, they're in
+the grass too!
 I wonder where they areー......");
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -80,15 +78,14 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B10400_01_020");
 MsgDisp("Kazama","Nanatsumori, you're getting too worked up.
-At the most, it's like a pill 
-bug or something.");
+At the most, it's like a pill bug or
+something.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B330B10400_04_040");
-MsgDisp("Nanatsumori","Your guys' idea of \"the worst\" and my
-idea of \"the worst\" are 
-on a different level.");
+MsgDisp("Nanatsumori","Your guys' idea of \"the worst\" and my idea
+of \"the worst\" are on a different level.");
 MsgDisp("主人公","Hehe!");
 ChEye(1,3);
 ChMouth(1,2);
@@ -117,7 +114,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B10400_03_040");
-MsgDisp("Honda","There was a ricefish! How rare!
+MsgDisp("Honda","There was a ricefish!
+How rare!
 So cute～!");
 ChEye(4,4);
 ChMouth(4,4);
@@ -127,14 +125,12 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B10400_01_040");
-MsgDisp("Kazama","Heeh.
-It's been a long time since 
-I've seen a rice fish.");
+MsgDisp("Kazama","Heeh. It's been a long time since I've
+seen a rice fish.");
 ChEye(4,2);
 ChMouth(4,3);
-MsgDisp("主人公","(Hehe!
-In the end, everyone is 
-having fun here!)");
+MsgDisp("主人公","(Hehe! In the end, everyone is having fun
+here!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -16,16 +16,17 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F032100000_21_240");
-MsgDisp("Michiru","Something like a 
-fancy general store, maybe.");
+MsgDisp("Michiru","Something like a fancy general store,
+maybe.");
 MsgDisp("主人公","Eh, is that so?
-But, ｛みちる＊｝, you don't really wear
-any cute items like that?");
+But, ｛みちる＊｝, you don't really
+wear any cute items like that?");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F032100000_21_250");
-MsgDisp("Michiru","That's... impossible for me after all.
+MsgDisp("Michiru","That's...
+impossible for me after all.
 It definitely won't suit me.");
 MsgDisp("主人公","That's not true.
 ｛みちる＊｝ is cute.");
@@ -36,8 +37,8 @@ ChCheek(21,10);
 VoicePlay("F032100000_21_260");
 MsgDisp("Michiru","Ahh, Mari.
 I'm embarrassed.");
-MsgDisp("主人公","(｛みちる＊｝ normally looks cool, 
-but actually, she's quite girly right?)");
+MsgDisp("主人公","(｛みちる＊｝ normally looks cool, but
+actually, she's quite girly right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

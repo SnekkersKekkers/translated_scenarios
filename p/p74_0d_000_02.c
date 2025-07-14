@@ -21,14 +21,15 @@ ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P740D00002_21_010");
-MsgDisp("Michiru","Hey, how about taking a
-commemorative photo with us?");
+MsgDisp("Michiru","Hey, how about taking a commemorative
+photo with us?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P740D00002_22_010");
-MsgDisp("Hikaru","Let's do it, let's do it! I want to take a
-photo with princess Mari♪");
+MsgDisp("Hikaru","Let's do it, let's do it!
+I want to take a photo with princess
+Mari♪");
 MsgDisp("主人公","(Yay!
 The show was a huge success1)");
 MsgClose();

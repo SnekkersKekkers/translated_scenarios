@@ -5,7 +5,8 @@ MsgDisp("主人公","(Umm, what was my
 next lesson again?)");
 VoicePlay("F100630000_06_000");
 MsgDisp("Himuro?","At any rate, please stop that.
-That's all. Well then.");
+That's all.
+Well then.");
 VoicePlay("F100630000_22_000");
 MsgDisp("Hikaru?","Ehhh∋
 Himuro-chan, wait～!");
@@ -14,21 +15,21 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(22,254,0,0,2,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
-What's wrong?");
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝. What's
+wrong?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100630000_21_000");
 MsgDisp("Michiru","Ah, Mari.
-It's nothing. Don't worry about it.");
+It's nothing.
+Don't worry about it.");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("F100630000_22_010");
-MsgDisp("Hikaru","I suggested a cute 
-nickname to Himuro-chan,
-but he rejected it");
+MsgDisp("Hikaru","I suggested a cute nickname to
+Himuro-chan, but he rejected it");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -55,7 +56,8 @@ ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("F100630000_22_030");
-MsgDisp("Hikaru","Even though you suggested something like \"Himurin\"?
+MsgDisp("Hikaru","Even though you suggested something like
+\"Himurin\"?
 No way～...");
 MsgDisp("主人公","H-Himurin?");
 ChEye(21,0);

@@ -34,8 +34,8 @@ Let's try our best this year!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120600002_06_010");
-    MsgDisp("Himuro","It's hard to believe we spent
-New Year's together.");
+    MsgDisp("Himuro","It's hard to believe we spent New Year's
+together.");
     MsgDisp("主人公","Uhm......did you hate it?");
     ChEye(6,2);
     ChMouth(6,0);
@@ -43,8 +43,7 @@ New Year's together.");
     ChEyeOpenLevel(6,0);
     VoicePlay("S120600002_06_020");
     MsgDisp("Himuro","What a nonsensical question.
-If I didn't like it, I wouldn't have
-come.");
+If I didn't like it, I wouldn't have come.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -73,8 +72,8 @@ You'll be graduating soon.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S120600002_06_100");
-    MsgDisp("Himuro","......If we were in the same grade,
-we could have prayed for success and
+    MsgDisp("Himuro","......If we were in the same grade, we
+could have prayed for success and
 graduation together.");
     MsgDisp("主人公","Eh?");
     ChEye(6,0);
@@ -82,7 +81,8 @@ graduation together.");
     ChMotion(6,1);
     VoicePlay("S120600002_06_110");
     MsgDisp("Himuro","Ah......It's nothing.
-I'll take you home. Let's go.");
+I'll take you home.
+Let's go.");
     MsgDisp("主人公","(｛氷室＊＊｝......?)");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();

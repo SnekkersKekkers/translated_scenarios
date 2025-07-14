@@ -19,7 +19,8 @@ ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020310300_03_020");
 MsgDisp("Honda","You were troubled when I said that
-suddenly, right? I'm really sorry!");
+suddenly, right?
+I'm really sorry!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -56,17 +57,17 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoiceEVSPlay(3);
 VoicePlay("G020310300_03_080");
-MsgDisp("Honda","｛主人公｝......
-Yeah, thank you.");
+MsgDisp("Honda","｛主人公｝...... Yeah, thank you.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310300_03_090");
-MsgDisp("Honda","Ah, I feel so much better...... It's like
-I can finally breathe normally again.");
-MsgDisp("主人公","(｛本多＊＊｝, you were worrying
-about it that much......thank you.)");
+MsgDisp("Honda","Ah, I feel so much better......
+It's like I can finally breathe normally
+again.");
+MsgDisp("主人公","(｛本多＊＊｝, you were worrying about it
+that much......thank you.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

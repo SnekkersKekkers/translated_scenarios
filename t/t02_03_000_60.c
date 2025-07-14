@@ -20,20 +20,21 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("T020300060_03_020");
-MsgDisp("Honda","If you give me that look, 
-I'll regret confessing my feelings to you.");
+MsgDisp("Honda","If you give me that look, I'll regret
+confessing my feelings to you.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020300060_03_030");
-MsgDisp("Honda","I will always love this world with 
-you in it.");
+MsgDisp("Honda","I will always love this world with you in
+it.");
 MsgDisp("主人公","｛本多＊＊｝......");
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020300060_03_040");
 MsgDisp("Honda","Meeting you has made me excited for my
-future. Thank you.");
+future.
+Thank you.");
 ChSet(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020300060_03_050");

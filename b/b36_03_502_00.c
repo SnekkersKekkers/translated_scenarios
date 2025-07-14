@@ -10,9 +10,11 @@ ChMotion(3,1,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360350200_03_000");
-MsgDisp("Honda","Oh look! Over there, someone drew a heart 
-with an umbrella on the sand.");
-MsgDisp("主人公","Oh you're right. It's lovely.");
+MsgDisp("Honda","Oh look!
+Over there, someone drew a heart with an
+umbrella on the sand.");
+MsgDisp("主人公","Oh you're right.
+It's lovely.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -38,7 +40,7 @@ ChEye(3,5);
 ChMouth(3,5);
 ChMotion(3,5,1);
 VoicePlay("B360350200_03_040");
-MsgDisp("Honda","Ah! Our umbrella got washed away by the 
+MsgDisp("Honda","Ah! Our umbrella got washed away by the
 waves!");
 SEPlay("EV_SE_580");
 ChClose(3);
@@ -47,7 +49,7 @@ VoicePlay("B360350200_03_050");
 MsgDisp("Honda","In that case, we'll just make another one!
 This time, I'll make sure it's far from
 the sea!");
-MsgDisp("主人公","(｛本多＊＊｝ is really serious about 
+MsgDisp("主人公","(｛本多＊＊｝ is really serious about
 this...)");
 BGMStop();
 MsgClose();

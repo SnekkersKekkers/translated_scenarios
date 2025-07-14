@@ -26,8 +26,7 @@ It's finished.");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("S060300000_03_010");
-    MsgDisp("Honda","｛主人公｝,
-sorry for the wait.
+    MsgDisp("Honda","｛主人公｝, sorry for the wait.
 Happy New Year!");
     MsgDisp("主人公","Happy New Year.
 I'm ready to go.");
@@ -50,8 +49,8 @@ this year apart from my family.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S060300000_03_040");
-    MsgDisp("Honda","Yesss!
-I'm so happy I walked all the way here.");
+    MsgDisp("Honda","Yesss! I'm so happy I walked all the way
+here.");
     break ;
     default :
     DbgAssert(1);

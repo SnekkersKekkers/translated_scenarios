@@ -32,8 +32,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360450400_04_030");
 MsgDisp("Nanatsumori","Um, how should I say this......
-We sort of snuck away from them to go
-on a date in a place like this.");
+We sort of snuck away from them to go on a
+date in a place like this.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -45,8 +45,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360450400_04_050");
-MsgDisp("Nanatsumori","I got carried away, and before
-I knew it, 
+MsgDisp("Nanatsumori","I got carried away, and before I knew it,
 I was chasing after you.");
 VoicePlay("B360450400_04_060");
 MsgDisp("Nanatsumori","This season, I can't suppress my feelings
@@ -57,17 +56,16 @@ ChMotion(4,1,1);
 VoicePlay("B360450400_04_070");
 MsgDisp("Nanatsumori","I was being selfish.
 I'm really sorry.");
-MsgDisp("主人公","No.
-Thank you for inviting me.
-Aren't the lights so beautiful?");
+MsgDisp("主人公","No. Thank you for inviting me. Aren't the
+lights so beautiful?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 ChCheek(4,8);
 VoiceEVSPlay(4);
 VoicePlay("B360450400_04_080");
-MsgDisp("Nanatsumori","｛主人公｝......
-seriously, this might become serious.");
+MsgDisp("Nanatsumori","｛主人公｝...... seriously, this might
+become serious.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

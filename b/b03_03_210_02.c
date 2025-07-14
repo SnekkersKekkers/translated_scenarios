@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     VoicePlay("B030321002_03_000");
     MsgDisp("Honda","I see.
-Alrighty, let's get over there
-and get it done!");
+Alrighty, let's get over there and get it
+done!");
     MsgDispSksp(0);
     break ;
     case 1:
@@ -21,9 +21,8 @@ and get it done!");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B030321002_03_010");
-    MsgDisp("Honda","Okay.
-I'll tell you which ones
-are my favorite.");
+    MsgDisp("Honda","Okay. I'll tell you which ones are my
+favorite.");
     MsgDispSksp(0);
     break ;
     case 2:

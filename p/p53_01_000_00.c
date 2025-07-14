@@ -12,8 +12,8 @@ switch (ChPrmGet(1,6)){
 I wonder if I can do it properly......)");
     VoicePlay("P530100000_01_000");
     MsgDisp("Kazama?","You look awful, don't you?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-What a terrible face......");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. What a terrible
+face......");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -72,8 +72,8 @@ I wonder if I can do it properly......)");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(1,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Amazing!｛風真＊＊｝,
-How did you know what I was thinking?");
+    MsgDisp("主人公","Amazing! ｛風真＊＊｝, how did you know
+what I was thinking?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -85,7 +85,8 @@ Anyone can tell how worried you look.");
     ChMotion(1,0);
     VoicePlay("P530100000_01_080");
     MsgDisp("Kazama","But, I can tell you that you can play
-well. I said it so you can trust me.");
+well.
+I said it so you can trust me.");
     MsgDisp("主人公","Yeah, I guess I feel better now?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -102,8 +103,9 @@ well. I said it so you can trust me.");
     VoicePlay("P530100000_01_100");
     MsgDisp("Kazama","Well then, I'm looking forward seeing you
 perform in your own style.");
-    MsgDisp("主人公","(Let's do the best we can! ｛風真＊＊｝
-Because they are supporting me too.)");
+    MsgDisp("主人公","(Let's do the best we can!
+｛風真＊＊｝ Because they are supporting
+me too.)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

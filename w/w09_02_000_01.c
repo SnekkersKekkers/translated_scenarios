@@ -18,14 +18,14 @@ switch (ChPrmGet(2,6)){
     MsgClose();
     ChOpen(2,255,4,2,0,0,#1,0,0);
     VoicePlay("W090200001_02_020");
-    MsgDisp("Sassa","When I see your smile, I can't
-stop myself from smiling either～");
+    MsgDisp("Sassa","When I see your smile, I can't stop myself
+from smiling either～");
     MsgDisp("主人公","What do you mean?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("W090200001_02_030");
-    MsgDisp("Sassa","Never mind. 
+    MsgDisp("Sassa","Never mind.
 Maybe I just like copying you.");
     break ;
     default :

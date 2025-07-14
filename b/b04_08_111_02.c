@@ -7,9 +7,9 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B040811102_08_000");
-MsgDisp("Shirahane","Skating around the rink makes me 
-feel like I'm running around on the 
-track in the school yard.");
+MsgDisp("Shirahane","Skating around the rink makes me feel like
+I'm running around on the track in the
+school yard.");
 MsgSel("The rink and the schoolyard is quite different...","I don't get that at all.","Shall we try running on the ground next time?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -44,16 +44,16 @@ I said something weird.");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("B040811102_08_030");
-        MsgDisp("Shirahane","Ah... forgive me.
-For suddenly giving this kinda analogy.");
+        MsgDisp("Shirahane","Ah... forgive me. For suddenly giving this
+kinda analogy.");
         MsgDisp("主人公","No, it's fine.");
         ChEye(8,4);
         ChMouth(8,0);
         ChMotion(8,4,1);
         VoicePlay("B040811102_08_040");
         MsgDisp("Shirahane","This won't do.
-When I'm with you, 
-I get strangely worked up.");
+When I'm with you, I get strangely worked
+up.");
         MsgDisp("主人公","Hehe, is that so?");
         ChEye(8,3);
         ChMouth(8,3);
@@ -63,8 +63,8 @@ I get strangely worked up.");
         ChEye(8,2);
         ChMouth(8,0);
         VoicePlay("B040811102_08_060");
-        MsgDisp("Shirahane","That's why I feel jealous
-of the boys at Haba High.");
+        MsgDisp("Shirahane","That's why I feel jealous of the boys at
+Haba High.");
         ChMotion(8,2,1);
         VoicePlay("B040811102_08_070");
         MsgDisp("Shirahane","I've been thinking recently; if I had went
@@ -107,8 +107,8 @@ Give me your hand!");
     ChMotion(8,3,1);
     VoicePlay("B040811102_08_100");
     MsgDisp("Shirahane","You're good at playing along!
-If we ran together, we might be able
-to set a new record!");
+If we ran together, we might be able to
+set a new record!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

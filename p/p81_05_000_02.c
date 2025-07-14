@@ -21,9 +21,9 @@ like the real thing.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P810500002_05_020");
-MsgDisp("Hiiragi","...I truly enjoyed preparing for the 
-cultural festival alongside you
-these last three years.");
+MsgDisp("Hiiragi","...I truly enjoyed preparing for the
+cultural festival alongside you these last
+three years.");
 MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,0);
@@ -31,8 +31,8 @@ VoicePlay("P810500002_05_030");
 MsgDisp("Hiiragi","I may be giving my thanks 
 a little early.");
 MsgDisp("主人公","Hehe, that's right.");
-MsgDisp("主人公","(Whether I laugh or I cry, 
-this is my last cultural festival.
+MsgDisp("主人公","(Whether I laugh or I cry, this is my last
+cultural festival.
 I want to make the best memories...!)");
 MsgClose();
 ScrFadeOut(0,0);

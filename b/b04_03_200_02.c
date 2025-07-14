@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040320002_03_010");
     MsgDisp("Honda","Is that so?
-But the long boards get in the way, 
-I can't take my time looking around.");
+But the long boards get in the way, I
+can't take my time looking around.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,8 +33,9 @@ I can't take my time looking around.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040320002_03_020");
-        MsgDisp("Honda","I wonder? I like how radiant it is, as it
-feels like it's brimming with life.");
+        MsgDisp("Honda","I wonder?
+I like how radiant it is, as it feels like
+it's brimming with life.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -45,17 +46,17 @@ feels like it's brimming with life.");
         ChMotion(3,1);
         VoicePlay("B040320002_03_030");
         MsgDisp("Honda","That's right.
-The pure whiteness makes it feel 
-like it has a uniform beauty.");
+The pure whiteness makes it feel like it
+has a uniform beauty.");
         MsgDisp("主人公","｛本多＊＊｝?");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040320002_03_040");
-        MsgDisp("Honda","If I'm able to carefully look around, 
-I think I'll be able to discover
-lots of new things. It'll be 
-difficult to do while skiing.");
+        MsgDisp("Honda","If I'm able to carefully look around, I
+think I'll be able to discover lots of new
+things. It'll be difficult to do while
+skiing.");
         MsgDisp("主人公","Then, today shall we do what ｛本多＊＊｝
 wants to do?");
         ChSet(3,5);
@@ -66,8 +67,8 @@ wants to do?");
         ChMotion(3,2);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040320002_03_060");
-        MsgDisp("Honda","Phewー.
-Thank you, you always put me first.");
+        MsgDisp("Honda","Phewー. Thank you, you always put me
+first.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -79,23 +80,22 @@ Thank you, you always put me first.");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040320002_03_080");
-        MsgDisp("Honda","Yeah. Look,
-in a world of pure white, 
+        MsgDisp("Honda","Yeah. Look, in a world of pure white,
 you're still gorgeous!");
         MsgDisp("主人公","Eh.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040320002_03_090");
-        MsgDisp("Honda","And, from the day I met you, 
-I wanted to observe you.");
+        MsgDisp("Honda","And, from the day I met you, I wanted to
+observe you.");
         MsgDisp("主人公","Ehh.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);
         VoicePlay("B040320002_03_100");
         MsgDisp("Honda","Hey, let's skii!
-This is a waste of time! ");
+This is a waste of time!");
         MsgDisp("主人公","(Observe me he says...
 that's a little embarrassing.)");
         break ;

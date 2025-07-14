@@ -2,8 +2,8 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D010400600_46_000");
-MsgDisp("Woman","Really?
-The way you lie so easily worries me.");
+MsgDisp("Woman","Really? The way you lie so easily worries
+me.");
 VoicePlay("D010400600_04_000");
 MsgDisp("Nanatsumori?","Okay.
 I'll make sure I eat properly.");
@@ -25,8 +25,8 @@ StlEyeOpenLevel(4,5);
 VoicePlay("D010400600_04_010");
 MsgDisp("Nanatsumori","of course.
 Geez......What are you worried about?");
-MsgDisp("主人公","(｛七ツ森＊｝!
-I wonder who that woman is......?)");
+MsgDisp("主人公","(｛七ツ森＊｝! I wonder who that woman
+is......?)");
 VoicePlay("D010400600_46_020");
 MsgDisp("Woman","It's because you never call me.");
 StlEye(4,1);
@@ -39,8 +39,8 @@ StlMouth(4,0);
 VoicePlay("D010400600_04_030");
 MsgDisp("Nanatsumori","See you later then.");
 VoicePlay("D010400600_46_030");
-MsgDisp("Woman","Sigh......
-Make sure to call once in a while!");
+MsgDisp("Woman","Sigh...... Make sure to call once in a
+while!");
 MsgDisp("主人公","(How curious......)");
 MsgClose();
 ScrFadeOut(0);
@@ -73,10 +73,9 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D010400600_04_070");
 MsgDisp("Nanatsumori","That was my sister.
-You know, the one we talked about
-before?");
-MsgDisp("主人公","Ah......
-The one who's always toying with you——");
+You know, the one we talked about before?");
+MsgDisp("主人公","Ah...... The one who's always toying with
+you——");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
@@ -93,16 +92,15 @@ VoicePlay("D010400600_04_090");
 MsgDisp("Nanatsumori","Sigh......");
 ChMouth(4,2);
 VoicePlay("D010400600_04_100");
-MsgDisp("Nanatsumori","My big sis always treats me like
-a little kid.");
+MsgDisp("Nanatsumori","My big sis always treats me like a little
+kid.");
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D010400600_04_110");
-MsgDisp("Nanatsumori","It's my fault for not contacting
-her as much as I should. But isn't it
-time for her to let it go?");
-MsgDisp("主人公","Hehe.
-She's not being a gentle and nice 
+MsgDisp("Nanatsumori","It's my fault for not contacting her as
+much as I should.
+But isn't it time for her to let it go?");
+MsgDisp("主人公","Hehe. She's not being a gentle and nice
 older sister.");
 ChEye(4,2);
 ChMouth(4,3);

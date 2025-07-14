@@ -34,19 +34,18 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("D140B06001_04_010");
-MsgDisp("Nanatsumori","Well, maybe it's still 
-too early for him. Love, that is.");
+MsgDisp("Nanatsumori","Well, maybe it's still too early for him.
+Love, that is.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B06001_01_030");
 MsgDisp("Kazama","I guess.
-Even if he understands what love is, 
-he feels inexperienced with love.");
-MsgDisp("主人公","Hey.
-What were you two whispering 
-about just now?");
+Even if he understands what love is, he
+feels inexperienced with love.");
+MsgDisp("主人公","Hey. What were you two whispering about
+just now?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -63,10 +62,10 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B06001_01_050");
-MsgDisp("Kazama","...Otherwise, it wouldn't have
-turned out like this.");
+MsgDisp("Kazama","...Otherwise, it wouldn't have turned out
+like this.");
 MsgDisp("主人公","(I heard \"dense\" but... are they talking
-about me and ｛本多＊＊｝?)");
+about me and ｛本多＊＊｝? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

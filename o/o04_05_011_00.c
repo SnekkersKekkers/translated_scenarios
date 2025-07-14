@@ -14,9 +14,8 @@ Understood.");
     ChOpen(5,30,0,0,4,#1,#1,0,0);
     ChMotion(5,4);
     VoicePlay("O040501100_05_010");
-    MsgDisp("Hiiragi","Hm.
-Even if you are my opponent,
-I shall not lose.");
+    MsgDisp("Hiiragi","Hm. Even if you are my opponent, I shall
+not lose.");
     break ;
     case 4:
     case 5:
@@ -26,9 +25,9 @@ I shall not lose.");
     Wait(15,0);
     ChMouth(5,3);
     VoicePlay("O040501100_05_020");
-    MsgDisp("Hiiragi","I apologize. Even if you are
-to be my opponent, I do not wish to lose
-in this competition. Are you prepared?");
+    MsgDisp("Hiiragi","I apologize. Even if you are to be my
+opponent, I do not wish to lose in this
+competition. Are you prepared?");
     break ;
     default :
     DbgAssert(1);

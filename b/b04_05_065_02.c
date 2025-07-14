@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,2);
     VoicePlay("B040506502_05_010");
     MsgDisp("Hiiragi","That's right.
-I had forgotten there are people
-still honing their craft.");
+I had forgotten there are people still
+honing their craft.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,7 +46,8 @@ still honing their craft.");
         ChMotion(5,4);
         VoicePlay("B040506502_05_030");
         MsgDisp("Hiiragi","The number of fireworks is actually
-increasing. I hadn't noticed.");
+increasing.
+I hadn't noticed.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040506502_05_040");
@@ -59,16 +60,15 @@ think I would have the same impressions.");
         MsgDisp("Hiiragi","But that's natural for me.
 My relationship with you, as we watch it
 together each year becomes stronger.");
-        MsgDisp("主人公","I see, that's right. And also your
-relationship with the theatre troupe and
-people in the town....");
+        MsgDisp("主人公","I see, that's right.
+And also your relationship with the
+theatre troupe and people in the town....");
         ChEye(5,2);
         ChMouth(5,4);
         ChMotion(5,2);
         VoicePlay("B040506502_05_060");
-        MsgDisp("Hiiragi","Ha...
-Once again, I was so dazzled by you I 
-couldn't see my surroundings...");
+        MsgDisp("Hiiragi","Ha... Once again, I was so dazzled by you
+I couldn't see my surroundings...");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040506502_05_070");
@@ -83,8 +83,8 @@ If, from now on too──");
         VoicePlay("B040506502_05_080");
         MsgDisp("Hiiragi","...I'll continue next time.
 Definitely.");
-        MsgDisp("主人公","(｛柊＊＊＊｝...
-I wonder what you were going to say...)");
+        MsgDisp("主人公","(｛柊＊＊＊｝... I wonder what you were
+going to say...)");
         break ;
         default :
         DbgAssert(1);
@@ -97,10 +97,9 @@ I wonder what you were going to say...)");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040506502_05_090");
-    MsgDisp("Hiiragi","Yes, even if circumstances and
-everything and everything change.
-If I can be here next year too, 
-I'll be truly happy.");
+    MsgDisp("Hiiragi","Yes, even if circumstances and everything
+and everything change. If I can be here
+next year too, I'll be truly happy.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

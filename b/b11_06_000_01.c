@@ -1,8 +1,7 @@
 MsgClose();
 ChClose(6,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, ｛氷室＊＊｝
-Still hasn't come yet?");
+MsgDisp("主人公","Huh, ｛氷室＊＊｝ Still hasn't come yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -11,24 +10,22 @@ MsgDisp("Guy","What's wrong, are you waiting?");
 MsgClose();
 SEPlay("EV_SE_557",0.2);
 ChOpen(34,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Eh? Ah, yeah.
-I'm supposed to be meeting 
+MsgDisp("主人公","Eh? Ah, yeah. I'm supposed to be meeting
 with someone...");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110600001_34_010");
 MsgDisp("Guy","This time will be slower.
-Your friend may also take
-a while to load...");
+Your friend may also take a while to
+load...");
 MsgDisp("主人公","...Yes?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110600001_34_020");
-MsgDisp("Guy","You don't know? That's better.
-There's no need to distinguish
-between virtuality and reality.");
-MsgDisp("主人公","Ummmm?
-...Ah, ｛氷室＊＊｝!");
+MsgDisp("Guy","You don't know? That's better. There's no
+need to distinguish between virtuality and
+reality.");
+MsgDisp("主人公","Ummmm? ...Ah, ｛氷室＊＊｝!");
 ChPosition(34,2);
 SEPlay("EV_SE_550");
 BGMPlay("BGM_PLACE_BEACH",0.01);
@@ -53,10 +50,10 @@ MsgDisp("主人公","Umm... maybe he's lost?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110600001_34_040");
-MsgDisp("Guy","Exactly. I've been lost in the sea 
-of information for 10 years. Finally,
-I've found you. Now, let's go 
-surfing the net together———");
+MsgDisp("Guy","Exactly. I've been lost in the sea of
+information for 10 years. Finally, I've
+found you. Now, let's go surfing the net
+together———");
 MsgDispSksp(1,5);
 ChEye(6,1);
 ChMouth(6,0);
@@ -75,17 +72,16 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B110600001_06_030");
-MsgDisp("Himuro","It's enough to refer to anyone who hides 
-their face with a hood and sunglasses
-to deceive people as \"this\".
-If you don't like it, act properly.");
+MsgDisp("Himuro","It's enough to refer to anyone who hides
+their face with a hood and sunglasses to
+deceive people as \"this\". If you don't
+like it, act properly.");
 MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110600001_34_060");
-MsgDisp("Guy","Ugh...
-Ahhh, the lag is too much,
-I'm going home!");
+MsgDisp("Guy","Ugh... Ahhh, the lag is too much, I'm
+going home!");
 SEPlay("EV_SE_580");
 MsgClose();
 ChClose(34);
@@ -95,10 +91,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B110600001_06_040");
-MsgDisp("Himuro","Honestly... people like that
-lower the quality of the sea.");
-MsgDisp("主人公","Um, ｛氷室＊＊｝...
-Thank you.");
+MsgDisp("Himuro","Honestly... people like that lower the
+quality of the sea.");
+MsgDisp("主人公","Um, ｛氷室＊＊｝... Thank you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

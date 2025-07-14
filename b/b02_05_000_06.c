@@ -13,5 +13,5 @@ MsgDisp("Hiiragi","That's a very exciting combination. It
 feels as though I have seen it
 somewhere... Perhaps as a stage costume?");
 MsgDisp("主人公","(This is bad...
-I wish I had thought about this
-more carefully...)");
+I wish I had thought about this more
+carefully...)");

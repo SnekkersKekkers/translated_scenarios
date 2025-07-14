@@ -7,9 +7,8 @@ switch (ChPrmGet(5,6)){
     VoicePlay("R060500003_05_000");
     MsgDisp("Hiiragi","The gift you got...
 that's the one I brought.");
-    MsgDisp("主人公","Huh!
-...Ah, ｛柊＊＊＊｝, you also got the gift
-that I brought!");
+    MsgDisp("主人公","Huh! ...Ah, ｛柊＊＊＊｝, you also got the
+gift that I brought!");
     ChMotion(5,4);
     VoicePlay("R060500003_05_010");
     MsgDisp("Hiiragi","I didn't think that would be possible.
@@ -29,8 +28,7 @@ Ah, by any chance, is this...");
     ChMotion(5,3);
     VoicePlay("R060500003_05_030");
     MsgDisp("Hiiragi","Yeah, that's the gift I brought.
-...Could it be that I also got
-your gift?");
+...Could it be that I also got your gift?");
     MsgDisp("主人公","∋
 Yeah, that's my gift!");
     ChMotion(5,0);
@@ -46,16 +44,15 @@ Habataki's Santa-san does too.");
     VoiceEVSPlay(5);
     VoicePlay("R060500003_05_050");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-Isn't this wrapping so nice?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Isn't this wrapping so
+nice?");
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("R060500003_05_060");
     MsgDisp("Hiiragi","A small miracle by this holy night.
-Gifts brought with you in mind
-really will come to you.");
-    MsgDisp("主人公","Huh, then,
-｛柊＊＊＊｝, is this your...?");
+Gifts brought with you in mind really will
+come to you.");
+    MsgDisp("主人公","Huh, then, ｛柊＊＊＊｝, is this your...?");
     ChMotion(5,0);
     VoicePlay("R060500003_05_070");
     MsgDisp("Hiiragi","Yeah.");
@@ -70,8 +67,8 @@ You also got my...");
     ChMotion(5,4);
     VoicePlay("R060500003_05_090");
     MsgDisp("Hiiragi","Hehe, so that's what happened, huh.
-The student council handles the
-gift exchange...");
+The student council handles the gift
+exchange...");
     MsgDisp("主人公","Huh... Could it be that you,
 ｛柊＊＊＊｝...");
     ChEye(5,4);

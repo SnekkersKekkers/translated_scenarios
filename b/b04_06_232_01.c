@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(6,255,0,2,0,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623201_06_000");
-MsgDisp("Himuro","...I'm at a loss on what to 
-talk about when we're on this.");
+MsgDisp("Himuro","...I'm at a loss on what to talk about
+when we're on this.");
 MsgSel("Are you feeling awkward?","Talk more!","My heart is also racing...");
 switch (MsgSelRsltGet()){
     case 0:

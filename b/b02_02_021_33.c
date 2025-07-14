@@ -19,8 +19,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B020202133_02_020");
-MsgDisp("Sassa","Maybe I'll follow your lead
-and try out coloring my running shoes.");
-MsgDisp("主人公","(Seems like he's learned
-to really love clothes like this.
+MsgDisp("Sassa","Maybe I'll follow your lead and try out
+coloring my running shoes.");
+MsgDisp("主人公","(Seems like he's learned to really love
+clothes like this.
 I'm glad.)");

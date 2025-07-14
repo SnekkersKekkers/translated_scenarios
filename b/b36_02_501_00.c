@@ -12,17 +12,15 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B360250100_02_000");
 MsgDisp("Sassa","Right, we're here?");
-MsgDisp("主人公","Eh?
-｛颯砂＊＊｝, did you want to 
-come to this park?");
+MsgDisp("主人公","Eh? ｛颯砂＊＊｝, did you want to come to
+this park?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B360250100_02_010");
-MsgDisp("Sassa","Right.
-This park has been here for a while.
-We probably played here together.");
+MsgDisp("Sassa","Right. This park has been here for a
+while. We probably played here together.");
 MsgDisp("主人公","Eh! You remember?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -36,25 +34,23 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360250100_02_030");
-MsgDisp("Sassa","Yeah, it's unfair. To begin with,
-I thought he just was a weird guy 
-who would remember things from the 
-past...but it's different now. ");
+MsgDisp("Sassa","Yeah, it's unfair. To begin with, I
+thought he just was a weird guy who would
+remember things from the past...but it's
+different now.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360250100_02_040");
-MsgDisp("Sassa","After all, Ryota is the only
-one who can remember the 'you'
-that I don't know.");
+MsgDisp("Sassa","After all, Ryota is the only one who can
+remember the 'you' that I don't know.");
 MsgDisp("主人公","Eh...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B360250100_02_050");
-MsgDisp("Sassa","That's why I thought if the
-two of us came here, I would 
-remember you by chance.");
+MsgDisp("Sassa","That's why I thought if the two of us came
+here, I would remember you by chance.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

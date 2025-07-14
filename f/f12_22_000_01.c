@@ -46,8 +46,8 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F122200001_22_040");
 MsgDisp("Hikaru","Leave it to Hikaru!
-With homemade chocolate, Hikaru will 
-help at full strength!");
+With homemade chocolate, Hikaru will help
+at full strength!");
 MsgDisp("主人公","(Right, it's almost Valentine's Day...)");
 MsgClose();
 ScrFadeOut(0,0);

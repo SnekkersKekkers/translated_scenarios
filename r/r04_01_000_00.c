@@ -8,10 +8,8 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("R040100000_01_000");
-    MsgDisp("Kazama","｛主人公｝.
-Merry Christmas.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Merry Christmas.");
+    MsgDisp("Kazama","｛主人公｝. Merry Christmas.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Merry Christmas.");
     MsgClose();
     break ;
     case 3:
@@ -19,10 +17,8 @@ Merry Christmas.");
     ChMouth(1,3);
     VoiceEVSPlay(1);
     VoicePlay("R040100000_01_010");
-    MsgDisp("Kazama","｛主人公｝,
-Merry Christmas.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Merry Christmas.");
+    MsgDisp("Kazama","｛主人公｝, Merry Christmas.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Merry Christmas.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -36,8 +32,7 @@ Merry Christmas.");
     ChEye(1,4);
     VoicePlay("R040100000_01_030");
     MsgDisp("Kazama","Merry Christmas.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Merry Christmas.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Merry Christmas.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

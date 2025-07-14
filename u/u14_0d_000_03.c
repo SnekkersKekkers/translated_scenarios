@@ -20,6 +20,6 @@ StlMouth(22,1);
 VoicePlay("U140D00003_22_010");
 MsgDisp("Hikaru","I really respect Mari's 
 hardworking side.");
-MsgDisp("主人公","(I'm really happy they noticed how
-hard I've been working!)");
+MsgDisp("主人公","(I'm really happy they noticed how hard
+I've been working!)");
 MsgClose();

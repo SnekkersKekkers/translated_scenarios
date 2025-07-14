@@ -46,8 +46,7 @@ with me aren't you?");
         ChMotion(2,3);
         VoicePlay("B040223602_02_030");
         MsgDisp("Sassa","Too bad.
-I'm surprising good at 
-that sort of thing.");
+I'm surprising good at that sort of thing.");
         MsgDisp("主人公","Eh...?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -62,19 +61,20 @@ Seems fun!");
         ChMotion(2,4);
         VoicePlay("B040223602_02_050");
         MsgDisp("Sassa","Yeah it was fun.
-But if it was with you, 
-it'd be even more fun...");
+But if it was with you, it'd be even more
+fun...");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
         ChCheek(2,10);
         VoicePlay("B040223602_02_060");
-        MsgDisp("Sassa","Ah, no, I meant camping. Not the
-all-nighter you were talking about.");
+        MsgDisp("Sassa","Ah, no, I meant camping.
+Not the all-nighter you were talking
+about.");
         MsgDisp("主人公","Hehe, yeah!
 I want to go someday.");
-        MsgDisp("主人公","(If it's with ｛颯砂＊＊｝,
-anywhere would be fun?)");
+        MsgDisp("主人公","(If it's with ｛颯砂＊＊｝, anywhere would
+be fun?)");
         break ;
         default :
         DbgAssert(1);
@@ -87,8 +87,8 @@ anywhere would be fun?)");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040223602_02_070");
-    MsgDisp("Sassa","With that setup, we might
-have to run after all.");
+    MsgDisp("Sassa","With that setup, we might have to run
+after all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -99,8 +99,8 @@ have to run after all.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040223602_02_080");
-    MsgDisp("Sassa","I understand you want to watch,
-but it depends on the time.");
+    MsgDisp("Sassa","I understand you want to watch, but it
+depends on the time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

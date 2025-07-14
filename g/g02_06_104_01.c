@@ -15,14 +15,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_020");
-MsgDisp("Himuro","You don't think I dislike this 
-family lineage, do you?");
+MsgDisp("Himuro","You don't think I dislike this family
+lineage, do you?");
 MsgDisp("主人公","Am I wrong?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_030");
-MsgDisp("Himuro","Yeah. On the contrary, I'm proud of it. 
+MsgDisp("Himuro","Yeah. On the contrary, I'm proud of it.
 It's strange to say this, but......");
 ChEye(6,0);
 ChMouth(6,0);
@@ -30,8 +30,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610401_06_040");
 MsgDisp("Himuro","Certainly, as everyone says, our family
-lineage may seem rigid, inflexible,
-and robotic in some ways.");
+lineage may seem rigid, inflexible, and
+robotic in some ways.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -57,20 +57,21 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_080");
 MsgDisp("Himuro","The degree of this is a little stronger
-than other people, so it can be
-a hassle......");
+than other people, so it can be a
+hassle......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610401_06_090");
 MsgDisp("Himuro","But when push comes to shove, both my dad
-and Reiji-san are relied upon greatly
-by those around them.");
+and Reiji-san are relied upon greatly by
+those around them.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_100");
-MsgDisp("Himuro","It's cool. I want to be like that too.");
+MsgDisp("Himuro","It's cool.
+I want to be like that too.");
 MsgDisp("主人公","I think ｛氷室＊＊｝ can become like that
 too?");
 ChEye(6,0);
@@ -79,10 +80,10 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610401_06_110");
 MsgDisp("Himuro","......Ah, right.
-Well, I don't want to be too rigid
-like them.");
-MsgDisp("主人公","(｛氷室＊＊｝ seems to have pride in
-his family after all......)");
+Well, I don't want to be too rigid like
+them.");
+MsgDisp("主人公","(｛氷室＊＊｝ seems to have pride in his
+family after all......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

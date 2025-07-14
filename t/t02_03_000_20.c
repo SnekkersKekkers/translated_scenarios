@@ -1,8 +1,7 @@
 ChEyeOpenLevel(3,#1);
 ChMouthOpenLevel(3,#1);
 ChCheek(3,0);
-MsgDisp("主人公","I also like
-｛本多＊＊｝.");
+MsgDisp("主人公","I also like ｛本多＊＊｝.");
 ChEye(3,3);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -18,7 +17,8 @@ ChMotion(3,0,1);
 VoicePlay("T020300020_03_010");
 MsgDisp("Honda","I'll be talking a lot from now on.
 Be prepared.");
-MsgDisp("主人公","Hehe, yes. Please take care of me.");
+MsgDisp("主人公","Hehe, yes.
+Please take care of me.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -41,8 +41,8 @@ MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);
 VoicePlay("T020300020_03_040");
-MsgDisp("Honda","Huu......
-I want it to stay like this forever.");
+MsgDisp("Honda","Huu...... I want it to stay like this
+forever.");
 Wait(120,0);
 MsgClose();
 ScrFadeOut(0,1,120);

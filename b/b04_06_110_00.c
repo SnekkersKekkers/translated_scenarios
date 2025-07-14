@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,3);
         VoicePlay("B040611000_06_010");
         MsgDisp("Himuro","What's with that.
-Well, your swimming is definitely 
-on par with a mermaid's. ");
+Well, your swimming is definitely on par
+with a mermaid's.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -29,8 +29,8 @@ on par with a mermaid's. ");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040611000_06_020");
-        MsgDisp("Himuro","Well, maybe there are mermaids
-who can't swim in this world.");
+        MsgDisp("Himuro","Well, maybe there are mermaids who can't
+swim in this world.");
         MsgDateResultDisp();
         }
     break ;
@@ -40,9 +40,8 @@ who can't swim in this world.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040611000_06_030");
-    MsgDisp("Himuro","If you don't mind me 
-being strict. I won't let you 
-complain, so be prepared.");
+    MsgDisp("Himuro","If you don't mind me being strict.
+I won't let you complain, so be prepared.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -55,8 +54,8 @@ complain, so be prepared.");
     ChEyeOpenLevel(6,0);
     VoicePlay("B040611000_06_040");
     MsgDisp("Himuro","...Go ahead.
-Everyone has their own way of 
-having fun after all.");
+Everyone has their own way of having fun
+after all.");
     MsgDateResultDisp();
     break ;
     default :

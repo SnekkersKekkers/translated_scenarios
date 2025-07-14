@@ -4,5 +4,4 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("R032200000_22_000");
 MsgDisp("Hikaru","Merry Christmas～, Mari♪");
-MsgDisp("主人公","Ah, ｛ひかる＊｝.
-Merry Christmas!");
+MsgDisp("主人公","Ah, ｛ひかる＊｝. Merry Christmas!");

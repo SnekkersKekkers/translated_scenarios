@@ -3,23 +3,23 @@ ChLayout(1);
 BGMPlay("BGM_CLUB_IVENT",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(Today is the senior's final matches.
-Let's try our best so we don't have
-any regrets.)");
+Let's try our best so we don't have any
+regrets.)");
 MsgClose();
 ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200500_02_000");
-MsgDisp("Sassa","｛主人公｝, can I help out with something?");
+MsgDisp("Sassa","｛主人公｝, can I help out with
+something?");
 MsgDisp("主人公","No, I'm fine.
 ｛颯砂＊＊｝, good luck.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("D010200500_02_010");
-MsgDisp("Sassa","I'm going to give it my all and win
-the last four events.");
-MsgDisp("主人公","Yup.
-I believe in ｛颯砂＊＊｝!");
+MsgDisp("Sassa","I'm going to give it my all and win the
+last four events.");
+MsgDisp("主人公","Yup. I believe in ｛颯砂＊＊｝!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
@@ -34,23 +34,22 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc625",0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝!
-Try your best∈");
+MsgDisp("主人公","｛颯砂＊＊｝! Try your best∈");
 MsgDisp("主人公","(Eh, what should I do......
-｛颯砂＊＊｝ is falling behind more 
-and more......)");
+｛颯砂＊＊｝ is falling behind more and
+more......)");
 SEStop("EV_SE_GAYA_021",2);
 VoicePlay("D010200500_40_000");
-MsgDisp("Manager","It doesn't matter anymore, he's
-out of stamina.");
+MsgDisp("Manager","It doesn't matter anymore, he's out of
+stamina.");
 MsgDisp("主人公","Eh......?");
 VoicePlay("D010200500_40_010");
 MsgDisp("Manager","Didn't he set a record in the previous
-high jump? That's why he doesn't have
-any energy left.");
+high jump? That's why he doesn't have any
+energy left.");
 VoicePlay("D010200500_40_020");
-MsgDisp("Manager","Well, the overall winner is still yet
-to be decided.");
+MsgDisp("Manager","Well, the overall winner is still yet to
+be decided.");
 MsgDisp("主人公","｛颯砂＊＊｝......");
 MsgClose();
 ScrFadeOut(0);
@@ -144,8 +143,8 @@ StlMouth(2,1);
 VoicePlay("D010200500_02_100");
 MsgDisp("Sassa","......Yes!");
 VoicePlay("D010200500_40_070");
-MsgDisp("Manager","Only you have what it takes to win
-a complete victory in every event.");
+MsgDisp("Manager","Only you have what it takes to win a
+complete victory in every event.");
 StlEye(2,0);
 StlMouth(2,1);
 VoicePlay("D010200500_02_110");

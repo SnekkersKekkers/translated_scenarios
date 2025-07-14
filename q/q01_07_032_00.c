@@ -53,8 +53,8 @@ switch (MsgSelRsltGet()){
 	SEWait();
 	MsgDisp("主人公","(Wah— There's someone inside the
 closet!)");
-	MsgDisp("主人公","(Who could it be...... It's too dark, I
-can't see anything......)");
+	MsgDisp("主人公","(Who could it be......
+It's too dark, I can't see anything......)");
 	MsgDisp("主人公","(Ooh, they're so close......
 Teachers, please hurry up and leave!∈)");
 	VoicePlay("Q010703200_32_010");
@@ -62,8 +62,8 @@ Teachers, please hurry up and leave!∈)");
 have no self awareness? Prepare for
 tomorrow and go to sleep quickly.");
 	VoicePlay("Q010703200_32_020");
-	MsgDisp("VP Himuro","It seems Mikage
-lacks self awareness as a teacher.
+	MsgDisp("VP Himuro","It seems Mikage lacks self awareness as a
+teacher.
 Come here!");
 	VoicePlay("Q010703200_07_040");
 	MsgDisp("Mikage","Y-Yes, sir.");
@@ -84,7 +84,7 @@ Teachers, please hurry up and leave!∈)");
 	VoicePlay("Q010703200_32_030");
 	MsgDisp("VP Himuro","Good grief......
 I have to give the same speech every year.
-I want you to put yourselves in my shoes. ");
+I want you to put yourselves in my shoes.");
 	VoicePlay("Q010703200_32_040");
 	MsgDisp("VP Himuro","...And you. Mikage, I'd like to have a
 good chat with you. Come here!");
@@ -106,16 +106,16 @@ They feel so close......)");
 Teachers, please leave already～∈)");
 	VoicePlay("Q010703200_32_050");
 	MsgDisp("VP Himuro","Jeez......If they have this much energy,
-they should use it to write a report. And
-then—");
+they should use it to write a report.
+And then—");
 	VoicePlay("Q010703200_32_060");
 	MsgDisp("VP Himuro","Mikage, I want you to come with me.");
 	VoicePlay("Q010703200_07_060");
 	MsgDisp("Mikage","Y-Yes.");
 	SEPlay("EV_SE_738");
 	SEWait();
-	MsgDisp("主人公","(Ha... It seems they've left.
-I have to get out of here quickly!)");
+	MsgDisp("主人公","(Ha... It seems they've left. I have to
+get out of here quickly!)");
 	break ;
 	default :
 	DbgAssert(0);

@@ -8,7 +8,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040415101_04_000");
 MsgDisp("Nanatsumori","...It's surprisingly tiring.");
-MsgSel("This'll be good exercise.","Shall we take a little break?","I want to see｛七ツ森＊｝'s good points♪");
+MsgSel("This'll be good exercise.","Shall we take a little break?","I want to see ｛七ツ森＊｝'s good points♪");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -38,8 +38,7 @@ Even playing needs a break.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040415101_04_030");
-    MsgDisp("Nanatsumori","Hey.
-So you're saying there hasn't been
+    MsgDisp("Nanatsumori","Hey. So you're saying there hasn't been
 any good things about me until now?
 Alright just you watch...");
     MsgDispSksp(1,0);

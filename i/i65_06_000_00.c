@@ -8,22 +8,21 @@ switch (ChPrmGet(6,6)){
     SEPlay("EV_SE_589");
     Wait(50,0);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(Haa, and now we need detergent
-for the car wash......)");
+    MsgDisp("主人公","(Haa, and now we need detergent for the
+car wash......)");
     VoicePlay("I650600000_06_000");
     MsgDisp("Himuro?","Hm, so you're working here?");
     MsgClose();
     SEStop("EV_SE_589",1);
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-What's up?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. What's up?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I650600000_06_010");
-    MsgDisp("Himuro","I was taking a walk when I thought
-I heard a familiar voice somewhere.");
+    MsgDisp("Himuro","I was taking a walk when I thought I heard
+a familiar voice somewhere.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -125,9 +124,8 @@ I had this leftover, so take it.");
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("I650600000_06_120");
-    MsgDisp("Himuro","Right.
-Since it's over for you
-if you lose your voice.");
+    MsgDisp("Himuro","Right. Since it's over for you if you lose
+your voice.");
     MsgDisp("主人公","Hehe, thank you!");
     ChEye(6,0);
     ChMouth(6,0);

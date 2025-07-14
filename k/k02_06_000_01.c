@@ -12,8 +12,7 @@ BGMPlay("BGM_C06_INORI_A");
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("K020600001_06_000");
 MsgDisp("Himuro","Are you free?");
-MsgDisp("主人公","Oh, ｛氷室＊＊｝!
-What is it?");
+MsgDisp("主人公","Oh, ｛氷室＊＊｝! What is it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -50,6 +49,6 @@ BGMStop();
 MsgClose();
 ChClose(6);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛氷室＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛氷室＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

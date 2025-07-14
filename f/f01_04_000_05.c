@@ -20,9 +20,8 @@ Well then, let's go.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("F010400005_04_010");
-    MsgDisp("Nanatsumori","ＯＫ.
-I wanted someone to talk to, anyways.
-Let's take it easy.");
+    MsgDisp("Nanatsumori","ＯＫ. I wanted someone to talk to,
+anyways. Let's take it easy.");
     MsgDisp("主人公","Of course!
 Let's go.");
     BGMStop();
@@ -38,8 +37,8 @@ Let's go.");
     ChMotion(4,1,1);
     VoicePlay("F010400005_04_020");
     MsgDisp("Nanatsumori","OK, let's go together.
-I wanted to take my time talking to 
-you. You too, I guess?");
+I wanted to take my time talking to you.
+You too, I guess?");
     MsgDisp("主人公","Really?");
     ChMotion(4,0,1);
     VoicePlay("F010400005_04_030");

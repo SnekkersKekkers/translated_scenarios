@@ -25,8 +25,8 @@ It was a weird sound.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040602401_06_020");
-    MsgDisp("Himuro","Maybe you can't understand it
-with ordinary perception.
+    MsgDisp("Himuro","Maybe you can't understand it with
+ordinary perception.
 Art really is difficult to understand.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -1,14 +1,12 @@
 ChLayout(1);
 BGOpen("sc520",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, seems like it's 
-about time to go home...)");
+MsgDisp("主人公","(Well, seems like it's about time to go
+home...)");
 VoicePlay("F100740001_07_000");
 MsgDisp("Mikage?","P-Please stop.");
-MsgDisp("主人公","(Eh?
-That voice just now, was 
-｛御影＊＊｝, right?
-What's wrong...?)");
+MsgDisp("主人公","(Eh? That voice just now, was
+｛御影＊＊｝, right? What's wrong...?)");
 VoicePlay("F100740001_32_000");
 MsgDisp("VP Himuro?",".........!
 Are you really that worried?");
@@ -33,26 +31,25 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("F100740001_07_020");
 MsgDisp("Mikage","Oi, what's up?");
-MsgDisp("主人公","Um, I heard ｛御影＊＊｝'s 
-voice, so...");
+MsgDisp("主人公","Um, I heard ｛御影＊＊｝'s voice,
+so...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740001_32_020");
-MsgDisp("VP Himuro","...I'm not scolding your 
-Mikage-sensei. Please relax.");
+MsgDisp("VP Himuro","...I'm not scolding your Mikage-sensei.
+Please relax.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F100740001_07_030");
-MsgDisp("Mikage","Hahaha.
-So you were worried about me.
+MsgDisp("Mikage","Hahaha. So you were worried about me.
 Thank you.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("F100740001_07_040");
-MsgDisp("Mikage","I mean, I'm not always just 
-getting scolded, you know?");
+MsgDisp("Mikage","I mean, I'm not always just getting
+scolded, you know?");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);

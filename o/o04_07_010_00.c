@@ -13,8 +13,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0);
     VoicePlay("O040701000_07_000");
     MsgDisp("Mikage","Oh, we're on the same team.");
-    MsgDisp("主人公","Huh?
-You're participating too, ｛御影＊＊｝?");
+    MsgDisp("主人公","Huh? You're participating too,
+｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -69,8 +69,7 @@ Let's do our best.");
     VoiceEVSPlay(7);
     VoicePlay("O040701000_07_070");
     MsgDisp("Mikage","｛主人公｝, let's win.");
-    MsgDisp("主人公","Huh?
-So you're participating too,
+    MsgDisp("主人公","Huh? So you're participating too,
 ｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -82,9 +81,8 @@ So you're participating too,
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O040701000_07_090");
-    MsgDisp("Mikage","Yeah.
-Everyone looks like they're having fun.
-Just watching would be lonely.");
+    MsgDisp("Mikage","Yeah. Everyone looks like they're having
+fun. Just watching would be lonely.");
     MsgDisp("主人公","Then let's do our best together.");
     ChEye(7,0);
     ChMouth(7,3);

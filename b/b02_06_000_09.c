@@ -10,6 +10,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B020600009_06_010");
 MsgDisp("Himuro","Hmmm, so you've been gathering
-information. Nice job.");
+information.
+Nice job.");
 MsgDisp("主人公","(Hooray!
 I got a compliment.▼)");

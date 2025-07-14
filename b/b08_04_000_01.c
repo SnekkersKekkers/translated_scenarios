@@ -12,8 +12,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B080400001_04_000");
 MsgDisp("Nanatsumori","You're welcome.
-Make sure you brush your 
-teeth prope——");
+Make sure you brush your teeth prope——");
 SEPlay("EV_SE_579");
 Wait(60,1);
 ChEye(4,0);

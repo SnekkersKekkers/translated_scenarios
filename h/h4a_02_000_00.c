@@ -20,24 +20,24 @@ Congratulations on winning!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("H4A0200000_02_010");
-    MsgDisp("Sassa","It's nerve-wracking, waiting for
-everyone else to finish before hearing
-the results. It's bad for my heart.");
+    MsgDisp("Sassa","It's nerve-wracking, waiting for everyone
+else to finish before hearing the results.
+It's bad for my heart.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("H4A0200000_02_020");
-    MsgDisp("Sassa","I was even more nervous than when
-it's me competing. In comparison, you
-were great. Cool and composed.");
+    MsgDisp("Sassa","I was even more nervous than when it's me
+competing. In comparison, you were great.
+Cool and composed.");
     MsgDisp("主人公","Hehe, thanks.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("H4A0200000_02_030");
-    MsgDisp("Sassa","Being a champion is fitting for
-you, with your skills and your heart.");
+    MsgDisp("Sassa","Being a champion is fitting for you, with
+your skills and your heart.");
     MsgDisp("主人公","(I'm so happy......!
 I'm glad I stayed in the rhythmic
 gymnastics club!)");

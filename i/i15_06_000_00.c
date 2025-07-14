@@ -6,8 +6,7 @@ switch (ChPrmGet(6,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Welcome!
-......Wait, ｛氷室＊＊｝?");
+    MsgDisp("主人公","Welcome! ......Wait, ｛氷室＊＊｝?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -32,12 +31,11 @@ switch (ChPrmGet(6,6)){
     BGMStop();
     MsgClose();
     ChClose(6);
-    MsgDisp("主人公","(｛氷室＊＊｝......
-I wonder what he needed to buy?)");
+    MsgDisp("主人公","(｛氷室＊＊｝...... I wonder what he needed
+to buy?)");
     break ;
     case 3:
-    MsgDisp("主人公","Welcome!
-Huh, ｛氷室＊＊｝?");
+    MsgDisp("主人公","Welcome! Huh, ｛氷室＊＊｝?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -52,8 +50,8 @@ Take your time, okay?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I150600000_06_040");
-    MsgDisp("Himuro","Nah......
-I'm going home after buying stuff.");
+    MsgDisp("Himuro","Nah...... I'm going home after buying
+stuff.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,5);
@@ -66,9 +64,9 @@ I'm going home after buying stuff.");
     VoicePlay("I150600000_06_060");
     MsgDisp("Himuro","Is this store aimed
 at just women......?");
-    MsgDisp("主人公","I don't think there's any rule like 
-that, but I guess there is a lot of 
-products here that are aimed at women?");
+    MsgDisp("主人公","I don't think there's any rule like that,
+but I guess there is a lot of products
+here that are aimed at women?");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -93,8 +91,7 @@ Did he really come here to shop?)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Welcome!
-......Oh, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Welcome! ......Oh, ｛氷室＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -108,8 +105,8 @@ Did he really come here to shop?)");
     ChMotion(6,0);
     VoicePlay("I150600000_06_100");
     MsgDisp("Himuro","Ah, I see.");
-    MsgDisp("主人公","Could it be that you came
-to check up on me?");
+    MsgDisp("主人公","Could it be that you came to check up on
+me?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,5);
@@ -126,12 +123,10 @@ to check up on me?");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("I150600000_06_130");
-    MsgDisp("Himuro","Yeah.
-......By the way, do you have
-any recommendations?");
-    MsgDisp("主人公","Hm......
-I guess this bead accessory.
-You can use it as a keychain, too.");
+    MsgDisp("Himuro","Yeah. ......By the way, do you have any
+recommendations?");
+    MsgDisp("主人公","Hm...... I guess this bead accessory. You
+can use it as a keychain, too.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -150,8 +145,8 @@ See you.");
     BGMStop();
     MsgClose();
     ChClose(6);
-    MsgDisp("主人公","(All he had to do was to ask
-for my recommendation......?)");
+    MsgDisp("主人公","(All he had to do was to ask for my
+recommendation......?)");
     break ;
     default :
     DbgAssert(1);

@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040404600_04_000");
-    MsgDisp("Nanatsumori","Sorry.
-My piano knowledge isn't the best.
+    MsgDisp("Nanatsumori","Sorry. My piano knowledge isn't the best.
 ...But, I know it was amazing.");
     MsgDateResultDisp();
     break ;
@@ -21,10 +20,9 @@ My piano knowledge isn't the best.
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("B040404600_04_010");
-    MsgDisp("Nanatsumori","The pianist playing has elegantly
-mastered the piano; I understood that
-part very well. And, he's an alumnus of
-our school.");
+    MsgDisp("Nanatsumori","The pianist playing has elegantly mastered
+the piano; I understood that part very
+well. And, he's an alumnus of our school.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

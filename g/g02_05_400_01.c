@@ -8,8 +8,8 @@ ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("G020540001_05_010");
 MsgDisp("Hiiragi","Do you think so?
-It's surprising to be called out loudly 
-by name in the middle of the street.");
+It's surprising to be called out loudly by
+name in the middle of the street.");
 MsgDisp("主人公","Loudly?");
 ChEye(5,0);
 ChMotion(5,0);

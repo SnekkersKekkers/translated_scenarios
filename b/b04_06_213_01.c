@@ -42,8 +42,8 @@ Really, I'm serious.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040621301_06_030");
-    MsgDisp("Himuro","I've not crossed the species barrier, 
-nor do I have any children?");
+    MsgDisp("Himuro","I've not crossed the species barrier, nor
+do I have any children?");
     MsgDateResultDisp();
     break ;
     default :

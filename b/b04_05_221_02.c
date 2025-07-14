@@ -6,9 +6,9 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040522102_05_000");
-MsgDisp("Hiiragi","I've been given the honor to use
-this place as a setting in my plays, 
-so I think I'm always on edge here.");
+MsgDisp("Hiiragi","I've been given the honor to use this
+place as a setting in my plays, so I think
+I'm always on edge here.");
 MsgSel("The lords would definitely be happy!","｛柊＊＊＊｝ is starting to look like a lord...","Relax a bit?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -42,23 +42,22 @@ never believe it to be true.");
         MsgDisp("Hiiragi","My theatre production differs in both
 historical fact and interpretation. I
 wonder if they would take offense to it...");
-        MsgDisp("主人公","No, I don't think so.
-There were a lot of people who watched
-the play for the first time and 
-developed a interest in the history?");
+        MsgDisp("主人公","No, I don't think so. There were a lot of
+people who watched the play for the first
+time and developed a interest in the
+history?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040522102_05_040");
         MsgDisp("Hiiragi","That may be true...");
-        MsgDisp("主人公","The number of visitors to 
-this castle has increased.
+        MsgDisp("主人公","The number of visitors to this castle has
+increased.
 It's thanks to ｛柊＊＊＊｝ and everyone.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040522102_05_050");
-        MsgDisp("Hiiragi","When you say that, 
-I feel as if I was of help
-in some small way.");
+        MsgDisp("Hiiragi","When you say that, I feel as if I was of
+help in some small way.");
         ChEye(5,4);
         ChMouth(5,0);
         ChMotion(5,2);
@@ -71,8 +70,8 @@ many generations of lords here.");
         VoicePlay("B040522102_05_070");
         MsgDisp("Hiiragi","............");
         VoicePlay("B040522102_43_000");
-        MsgDisp("Castle Lord's Voice?","You should proceed on your 
-own path without hesitation.");
+        MsgDisp("Castle Lord's Voice?","You should proceed on your own path
+without hesitation.");
         MsgDisp("主人公","...Huh?
 Just now...");
         ChEye(5,4);
@@ -86,9 +85,8 @@ Just now...");
         ChEye(5,3);
         ChMouth(5,3);
         VoicePlay("B040522102_05_090");
-        MsgDisp("Hiiragi","Thank you, thanks to you, 
-I feel as if a load has been 
-lifted off my chest. ");
+        MsgDisp("Hiiragi","Thank you, thanks to you, I feel as if a
+load has been lifted off my chest.");
         MsgDisp("主人公","(That strange voice just now...
 could it have been...?)");
         break ;

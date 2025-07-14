@@ -34,9 +34,8 @@ Please don't look at me?");
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_020");
         MsgDisp("Nanatsumori","Is that so?");
-        MsgDisp("主人公","Yeah.
-There's a sort of grown-up,
-sexy look to it...");
+        MsgDisp("主人公","Yeah. There's a sort of grown-up, sexy
+look to it...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,1,1);
@@ -49,8 +48,8 @@ sexy look to it...");
         VoicePlay("B040423302_04_040");
         MsgDisp("Nanatsumori","Eh?
 ...What did you think I was?");
-        MsgDisp("主人公","I thought you were a model who
-could fit into any situation.");
+        MsgDisp("主人公","I thought you were a model who could fit
+into any situation.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,1,1);
@@ -59,9 +58,8 @@ could fit into any situation.");
         MsgDisp("Nanatsumori","...Wow.
 That's kind of surprising.");
         ChEyeOpenLevel(4,#1);
-        MsgDisp("主人公","Really?
-｛七ツ森＊｝'s work photos always show
-a different world.");
+        MsgDisp("主人公","Really? ｛七ツ森＊｝'s work photos
+always show a different world.");
         ChEye(4,5);
         ChMouth(4,2);
         ChMotion(4,0,1);
@@ -84,8 +82,8 @@ about it. Of course, there's sexy too.");
 More than being praised by the cameraman
 or the producer on site.");
         VoicePlay("B040423302_04_090");
-        MsgDisp("Nanatsumori","It got through to the person 
-I wanted to convey it to most.
+        MsgDisp("Nanatsumori","It got through to the person I wanted to
+convey it to most.
 My message, I mean.");
         MsgDisp("主人公","Your message...");
         ChEye(4,0);
@@ -120,9 +118,8 @@ Shall we go fix it?");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423302_04_120");
-    MsgDisp("Nanatsumori","...Pfft!
-I agree. It's probably weird to be 
-acting all pretentious here.");
+    MsgDisp("Nanatsumori","...Pfft! I agree. It's probably weird to
+be acting all pretentious here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

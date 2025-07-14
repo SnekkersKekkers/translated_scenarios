@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040402401_04_010");
     MsgDisp("Nanatsumori","No, it's probably not okay.
-Right now, I feel like laughing
-as hard as I can.");
+Right now, I feel like laughing as hard as
+I can.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,9 +41,8 @@ Art sure is hard.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040402401_04_030");
-    MsgDisp("Nanatsumori","Hey! What was the intention 
-behind making this?
-Crap... this might become a habit.");
+    MsgDisp("Nanatsumori","Hey! What was the intention behind making
+this? Crap... this might become a habit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

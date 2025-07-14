@@ -9,7 +9,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B020100004_01_010");
-MsgDisp("Kazama","\"Why\", she asks... If not, you definitely
-have on too many layers.");
+MsgDisp("Kazama","\"Why\", she asks...
+If not, you definitely have on too many
+layers.");
 MsgDisp("主人公","(Urgh...
 I think I have too much on...)");

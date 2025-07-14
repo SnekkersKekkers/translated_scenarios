@@ -13,9 +13,8 @@ Is it fine if I take this?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300002_03_010");
-    MsgDisp("Honda","I see.
-We don't get this often, so I'll have
-with my sister. Thanks!");
+    MsgDisp("Honda","I see. We don't get this often, so I'll
+have with my sister. Thanks!");
     MsgDisp("主人公","(Was it too much......?)");
     break ;
     case 3:
@@ -68,18 +67,17 @@ much.");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("L040300002_03_080");
-    MsgDisp("Honda","Because I've been waiting this long
-for you to give me chocolate, you know?
+    MsgDisp("Honda","Because I've been waiting this long for
+you to give me chocolate, you know?
 So, I'll eat it carefully.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300002_03_090");
-    MsgDisp("Honda","Ah, of course, I'm not going
-to give my sister any!");
-    MsgDisp("主人公","(Hehe!
-｛本多＊＊｝ seemed really happy!)");
+    MsgDisp("Honda","Ah, of course, I'm not going to give my
+sister any!");
+    MsgDisp("主人公","(Hehe! ｛本多＊＊｝ seemed really happy!)");
     break ;
     default :
     DbgAssert(1);

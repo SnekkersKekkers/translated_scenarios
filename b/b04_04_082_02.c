@@ -70,9 +70,8 @@ why do you dislike bugs?");
 look for bugs together.");
         ChMotion(4,0,1);
         VoicePlay("B040408202_04_070");
-        MsgDisp("Nanatsumori","Until that point, it wasn't like 
-I particularly disliked bugs, 
-but...");
+        MsgDisp("Nanatsumori","Until that point, it wasn't like I
+particularly disliked bugs, but...");
         ChMouth(4,2);
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,8);
@@ -93,8 +92,8 @@ They wriggle, in groups!");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040408202_04_100");
-        MsgDisp("Nanatsumori","You get it, right?
-Right? You should get it now too!");
+        MsgDisp("Nanatsumori","You get it, right? Right? You should get
+it now too!");
         MsgDisp("主人公","Somewhat...");
         ChEye(4,2);
         ChMouth(4,2);
@@ -110,8 +109,7 @@ was 5 years old.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040408202_04_120");
-        MsgDisp("Nanatsumori","Right...
-Since then, insects and groups of 
+        MsgDisp("Nanatsumori","Right... Since then, insects and groups of
 insects have only scared me..");
         ChEye(4,4);
         ChMouth(4,2);
@@ -121,7 +119,7 @@ insects have only scared me..");
         MsgDisp("Nanatsumori","｛主人公｝, you understand, right?
 How I feel.");
         MsgDisp("主人公","(I understand how he feels, but...
-The ｛七ツ森＊｝ who's scared of 
+The ｛七ツ森＊｝ who's scared of
 insects is kind of cute?)");
         break ;
         default :

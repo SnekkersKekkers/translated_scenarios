@@ -39,8 +39,7 @@ StlOpen("ev_06_17");
 ScrFadeIn(0);
 VoiceEVSPlay(6);
 VoicePlay("T020611000_06_150");
-MsgDisp("Himuro","｛主人公｝,
-I love you......");
+MsgDisp("Himuro","｛主人公｝, I love you......");
 MsgClear();
 StlEffect(1,1,60);
 Wait(300,0);

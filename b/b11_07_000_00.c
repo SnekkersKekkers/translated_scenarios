@@ -1,13 +1,12 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh...｛御影＊＊｝
-still hasn't come yet.");
+MsgDisp("主人公","Huh...｛御影＊＊｝ still hasn't come
+yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","Hmm.
-｛御影＊＊｝ is late...");
+MsgDisp("主人公","Hmm. ｛御影＊＊｝ is late...");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
@@ -18,7 +17,7 @@ Believe what?");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110700000_33_010");
-MsgDisp("Guy","The selection of mankind is advancing 
+MsgDisp("Guy","The selection of mankind is advancing
 somewhere you don't know of.
 Do you believe me?");
 MsgDisp("主人公","I-I don't believe you.");
@@ -40,9 +39,8 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110700000_33_030");
-MsgDisp("Guy","Hm?
-No can do, you weren't chosen. 
-That's why I can't take you.");
+MsgDisp("Guy","Hm? No can do, you weren't chosen. That's
+why I can't take you.");
 MsgDispSksp(1,5);
 ChEye(7,1);
 ChMouth(7,4);
@@ -73,8 +71,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B110700000_07_040");
-MsgDisp("Mikage","If it's friends you want,
-I'll be your friend.
+MsgDisp("Mikage","If it's friends you want, I'll be your
+friend.
 Hey, come on.");
 ChEye(33,1);
 ChMouth(33,2);
@@ -84,8 +82,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B110700000_07_050");
-MsgDisp("Mikage","Whether you believe it, or don't 
-believe it, is up to you.");
+MsgDisp("Mikage","Whether you believe it, or don't believe
+it, is up to you.");
 ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,7);
@@ -101,15 +99,15 @@ ChPosition(7,0);
 VoicePlay("B110700000_07_060");
 MsgDisp("Mikage","Phew...
 poor guy.");
-MsgDisp("主人公","Umm...｛御影＊＊｝,
-Thank you very much for saving me.");
+MsgDisp("主人公","Umm...｛御影＊＊｝, Thank you very much
+for saving me.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("B110700000_07_070");
 MsgDisp("Mikage","Sorry, sorry.
-It was because I was late that you 
-were in such a scary situation.");
+It was because I was late that you were in
+such a scary situation.");
 MsgDisp("主人公","It's alright.
 That person must be lonely huh?");
 ChEye(7,0);

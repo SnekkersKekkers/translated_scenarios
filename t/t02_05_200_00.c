@@ -10,23 +10,23 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝......
-Why are you here?");
+MsgDisp("主人公","｛柊＊＊＊｝...... Why are you here?");
 ChEyeOpenLevel(5,0);
 Wait(8,0);
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("T020520000_05_010");
-MsgDisp("Hiiragi","If it had just been me, 
-I might not have been able to find you.");
+MsgDisp("Hiiragi","If it had just been me, I might not have
+been able to find you.");
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);
 Wait(16,0);
 ChEye(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020520000_05_020");
-MsgDisp("Hiiragi","Inori-kun and Mikage-sensei. They saw us
-off, then they said you were here.");
+MsgDisp("Hiiragi","Inori-kun and Mikage-sensei.
+They saw us off, then they said you were
+here.");
 ChEyeOpenLevel(5,0);
 Wait(16,0);
 ChEye(5,0);
@@ -34,9 +34,9 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020520000_05_030");
-MsgDisp("Hiiragi","Those two have helped me out a lot. But
-after this, is a conversation between you
-and me.");
+MsgDisp("Hiiragi","Those two have helped me out a lot.
+But after this, is a conversation between
+you and me.");
 MsgDisp("主人公","yes......");
 Wait(40,0);
 ChEye(5,4);
@@ -130,9 +130,9 @@ ChEye(5,4);
 ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020520000_05_140");
-MsgDisp("Hiiragi","If you're smiling......
-If the one I love; you, are smiling,
-then nothing is wrong. It's alright. ");
+MsgDisp("Hiiragi","If you're smiling...... If the one I love;
+you, are smiling, then nothing is wrong.
+It's alright.");
 MsgDisp("主人公","Eh......!");
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);

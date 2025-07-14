@@ -3,8 +3,8 @@ NSSOpen(6,255,1,1,#1,#1,10);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160600400_06_000");
-MsgDisp("Himuro","Do you tease me like that
-because I'm your junior?");
+MsgDisp("Himuro","Do you tease me like that because I'm your
+junior?");
 MsgSel("Of course","It's because you're cute.");
 switch (MsgSelRsltGet()){
     case 0:

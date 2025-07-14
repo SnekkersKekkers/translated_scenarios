@@ -26,18 +26,16 @@ freely.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S120200005_02_010");
-    MsgDisp("Sassa","Let's do this again next year,
-and the years after that.");
-    MsgDisp("主人公","Hehe, this year just started,
-and you're already talking about the
-year after this?");
+    MsgDisp("Sassa","Let's do this again next year, and the
+years after that.");
+    MsgDisp("主人公","Hehe, this year just started, and you're
+already talking about the year after this?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("S120200005_02_020");
-    MsgDisp("Sassa","Yeah.
-Let's run as fast as we can during our
-school years. The faster you run, the
+    MsgDisp("Sassa","Yeah. Let's run as fast as we can during
+our school years. The faster you run, the
 faster you'll see the future.");
     MsgDisp("主人公","Okay, got it.
 Let's work hard this year!");
@@ -45,17 +43,15 @@ Let's work hard this year!");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("S120200005_02_030");
-    MsgDisp("Sassa","Ahh.
-I think I'll run home as fast as I can.
-Cya.");
+    MsgDisp("Sassa","Ahh. I think I'll run home as fast as I
+can. Cya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(No matter what the future holds,
-like ｛颯砂＊＊｝ says,
-let's try our best and live without
-regrets!)");
+    MsgDisp("主人公","(No matter what the future holds, like
+｛颯砂＊＊｝ says, let's try our best and
+live without regrets!)");
     break ;
     case 4:
     case 5:
@@ -75,37 +71,37 @@ regrets!)");
     ChMotion(2,4);
     VoicePlay("S120200005_02_040");
     MsgDisp("Sassa","No, thank you.
-I thanked the Gods for a lot, but not
-for you yet.");
+I thanked the Gods for a lot, but not for
+you yet.");
     MsgDisp("主人公","Eh?");
     ChEye(2,4);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("S120200005_02_050");
-    MsgDisp("Sassa","You've stood by my side and
-given me your strength.");
+    MsgDisp("Sassa","You've stood by my side and given me your
+strength.");
     ChEye(2,2);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("S120200005_02_060");
-    MsgDisp("Sassa","I'm worried I'm the only one who
-feels so happy about this?");
+    MsgDisp("Sassa","I'm worried I'm the only one who feels so
+happy about this?");
     MsgDisp("主人公","Not at all.
-I'm really happy I was able to support 
+I'm really happy I was able to support
 ｛颯砂＊＊｝'s single-minded goal.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S120200005_02_070");
     MsgDisp("Sassa","Thank you.
-But thanks to you and all of my friends,
-I understand now.");
+But thanks to you and all of my friends, I
+understand now.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S120200005_02_080");
-    MsgDisp("Sassa","I'm just doing what I love to the
-best of my ability.
+    MsgDisp("Sassa","I'm just doing what I love to the best of
+my ability.
 That's not enough for praise.");
     MsgDisp("主人公","That's not true......");
     ChEye(2,2);

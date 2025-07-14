@@ -9,8 +9,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B020302128_03_010");
-MsgDisp("Honda","Maybe before. But now, I can't take my
-eyes of you.");
+MsgDisp("Honda","Maybe before.
+But now, I can't take my eyes of you.");
 MsgDisp("主人公","(That's a little embarrassing,
 ｛本多＊＊｝. But, he seems to have come to
 like this kind of outfit. I'm glad!)");

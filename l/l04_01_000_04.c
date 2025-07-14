@@ -12,9 +12,8 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100004_01_010");
-    MsgDisp("Kazama","Thanks.
-It has my taste in it too.
-I really like stuff like this.");
+    MsgDisp("Kazama","Thanks. It has my taste in it too. I
+really like stuff like this.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -47,8 +46,8 @@ He seemed to like it!)");
     ChMotion(1,0);
     VoicePlay("L040100004_01_050");
     MsgDisp("Kazama","Of course.
-Unlike storebought ones, it reflects
-you. And my preferences are there, too.");
+Unlike storebought ones, it reflects you.
+And my preferences are there, too.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -83,15 +82,14 @@ These are handmade, right?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100004_01_090");
-    MsgDisp("Kazama","If this is just some effort,
-your full power must be amazing.");
+    MsgDisp("Kazama","If this is just some effort, your full
+power must be amazing.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100004_01_100");
-    MsgDisp("Kazama","......Hey, this chocolate is
-a combination of my taste
-and your sense, right?");
+    MsgDisp("Kazama","......Hey, this chocolate is a combination
+of my taste and your sense, right?");
     MsgDisp("主人公","Hehe, kind of like our child?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -103,8 +101,8 @@ and your sense, right?");
     ChMouth(1,4);
     ChMotion(1,4);
     VoicePlay("L040100004_01_120");
-    MsgDisp("Kazama","......Oh no. I don't think I can eat
-this anymore.");
+    MsgDisp("Kazama","......Oh no.
+I don't think I can eat this anymore.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -7,8 +7,8 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","Let's see, the tables
-waiting for their orders are......");
+    MsgDisp("主人公","Let's see, the tables waiting for their
+orders are......");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -17,8 +17,7 @@ waiting for their orders are......");
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400000_04_000");
     MsgDisp("Nanatsumori","Waitress.");
-    MsgDisp("主人公","Yes!
-Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Yes! Ah, ｛七ツ森＊｝.");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -32,21 +31,21 @@ Thanks for telling me.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400000_04_020");
-    MsgDisp("Nanatsumori","It might be hard since there's so
-much to do, but the store can't seat new
-customers with dirty tables. Careful.");
-    MsgDisp("主人公","(I see, I need to look around more. Or
-else the store's reputation will take a
+    MsgDisp("Nanatsumori","It might be hard since there's so much to
+do, but the store can't seat new customers
+with dirty tables. Careful.");
+    MsgDisp("主人公","(I see, I need to look around more.
+Or else the store's reputation will take a
 hit, too......)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Let's see, the tables
-waiting for their orders are......");
+    MsgDisp("主人公","Let's see, the tables waiting for their
+orders are......");
     VoicePlay("I360400000_04_030");
     MsgDisp("Nanatsumori?","............");
-    MsgDisp("主人公","(I've felt this gaze
-for a while now......)");
+    MsgDisp("主人公","(I've felt this gaze for a while
+now......)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -69,8 +68,7 @@ Thanks for telling me.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I360400000_04_060");
-    MsgDisp("Nanatsumori",".
-I was on the edge of my seat, seeing if
+    MsgDisp("Nanatsumori",". I was on the edge of my seat, seeing if
 someone would go \"thud\".");
     ChEye(4,0);
     ChMouth(4,3);
@@ -85,8 +83,8 @@ someone would go \"thud\".");
 Let's pay attention to our surroundings,
 okay?");
     MsgDisp("主人公","(That's right.
-I need to be more careful about
-my surroundings......)");
+I need to be more careful about my
+surroundings......)");
     break ;
     default :
     DbgAssert(1);

@@ -11,14 +11,15 @@ around you lately as well.");
 MsgDisp("主人公","What has?");
 ChMotion(5,4);
 VoicePlay("G020530100_05_020");
-MsgDisp("Hiiragi","In terms of friends. Have you made more?
+MsgDisp("Hiiragi","In terms of friends.
+Have you made more?
 Well, I'm one of them, of course.");
 MsgDisp("主人公","Yeah, I think maybe I talk to more people
 now.");
 ChEye(5,3);
 VoicePlay("G020530100_05_030");
-MsgDisp("Hiiragi","Yes, thanks to you,
-I've made more acquaintances too. 
+MsgDisp("Hiiragi","Yes, thanks to you, I've made more
+acquaintances too.
 I'm benefiting from it.");
 ChEye(5,4);
 ChMotion(5,0);
@@ -46,16 +47,16 @@ ChMouth(5,4);
 ChMotion(5,3);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020530100_05_070");
-MsgDisp("Hiiragi","Haa, I see. 
-That was dangerous. 
+MsgDisp("Hiiragi","Haa, I see.
+That was dangerous.
 I almost made a major rule violation.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020530100_05_080");
-MsgDisp("Hiiragi","It's regrettable, 
-although I cannot support you.");
+MsgDisp("Hiiragi","It's regrettable, although I cannot
+support you.");
 MsgDisp("主人公","(......Hm? When did it become a given that
 I was even running for student council
 president?)");

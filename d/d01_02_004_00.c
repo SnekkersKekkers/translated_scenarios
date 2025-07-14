@@ -11,8 +11,8 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D010200400_02_010");
-MsgDisp("Sassa","I wanted to measure my heart rate but
-the machine isn't working.");
+MsgDisp("Sassa","I wanted to measure my heart rate but the
+machine isn't working.");
 MsgDisp("主人公","We've been using it for a long time......
 I'll ask if we can buy a new one.");
 ChEye(2,0);
@@ -60,8 +60,7 @@ StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("D010200400_02_080");
 MsgDisp("Sassa","Y-You know......
-I don't see anyone in the clubroom
-today?");
+I don't see anyone in the clubroom today?");
 MsgDisp("主人公","Shhh.
 Don't talk.");
 StlEye(2,0);
@@ -106,16 +105,16 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("D010200400_02_120");
-MsgDisp("Sassa","I might not have been able to measure
-my heart rate properly, but I found 
-a new way to train.");
+MsgDisp("Sassa","I might not have been able to measure my
+heart rate properly, but I found a new way
+to train.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D010200400_02_130");
 MsgDisp("Sassa","Sigh......I can't believe my heart rate
-rose like that. It's like when you train 
+rose like that. It's like when you train
 at a high altitude with less oxygen.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -136,13 +135,12 @@ MsgClose();
 ChClose(2);
 SEWait();
 VoicePlay("D010200400_02_160");
-MsgDisp("Sassa","Let's do some high altitude training
-again sometime.
-Cya.");
+MsgDisp("Sassa","Let's do some high altitude training again
+sometime. Cya.");
 SEPlay("EV_SE_DOOR_013");
 SEWait();
-MsgDisp("主人公","(Sigh, my heart is racing a bit
-quickly too......)");
+MsgDisp("主人公","(Sigh, my heart is racing a bit quickly
+too......)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(2,0);

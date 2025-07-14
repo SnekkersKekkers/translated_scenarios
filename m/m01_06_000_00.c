@@ -8,8 +8,7 @@ MsgDisp("主人公","Yes, I'm upー!");
 VoicePlay("M010600000_06_000");
 MsgDisp("Himuro","It's me, but.
 ......Can I come in?");
-MsgDisp("主人公","Eh, ｛氷室＊＊｝∋
-Uuhm......Yeah, come in.");
+MsgDisp("主人公","Eh, ｛氷室＊＊｝∋ Uuhm......Yeah, come in.");
 SEPlay("EV_SE_DOOR_007");
 Wait(10);
 MsgClose();
@@ -35,8 +34,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("M010600000_06_040");
-MsgDisp("Himuro","Moreover,
-what if you took better care of yourself?");
+MsgDisp("Himuro","Moreover, what if you took better care of
+yourself?");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -81,8 +80,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("M010600000_06_110");
-MsgDisp("Himuro","I got it for you,
-it'll just be bothering me at my house.");
+MsgDisp("Himuro","I got it for you, it'll just be bothering
+me at my house.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -104,6 +103,5 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(｛氷室＊＊｝
-really rushed over......
+MsgDisp("主人公","(｛氷室＊＊｝ really rushed over......
 I have to hurry and get better!)");

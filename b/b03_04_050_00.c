@@ -22,8 +22,8 @@ ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030405000_04_010");
 MsgDisp("Nanatsumori","Right here.
-We won't know if it's a good spot
-until it's started, huh.");
+We won't know if it's a good spot until
+it's started, huh.");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,8 +6,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510001_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
-Information desk again this year?");
+MsgDisp("主人公","Oh, ｛柊＊＊＊｝. Information desk again
+this year?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -31,8 +31,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("F110510001_05_030");
 MsgDisp("Hiiragi","Yes. There really are many types...
-Taiyaki, on its own, has 
-red bean paste, cream, cheese...");
+Taiyaki, on its own, has red bean paste,
+cream, cheese...");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,9);
@@ -41,8 +41,8 @@ MsgDisp("Hiiragi","Still, I have not been able to eat it.");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("F110510001_45_000");
-MsgDisp("Woman Customer","Clerk-san, the taiyaki you recommended
-was super delicious!
+MsgDisp("Woman Customer","Clerk-san, the taiyaki you recommended was
+super delicious!
 Now I want to eat something salty.");
 ChEye(5,0);
 ChMouth(5,4);

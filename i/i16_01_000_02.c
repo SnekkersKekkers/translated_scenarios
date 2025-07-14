@@ -21,29 +21,29 @@ The other colors-");
     ChOpen(1,35,0,0,0,#1,#1,0,0);
     VoicePlay("I160100002_01_000");
     MsgDisp("Kazama","Good work.
-That last customer looked like
-she was having a good time.");
+That last customer looked like she was
+having a good time.");
     MsgDisp("主人公","Really?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100002_01_010");
-    MsgDisp("Kazama","It's because you looked like 
-you were having fun too.
+    MsgDisp("Kazama","It's because you looked like you were
+having fun too.
 Keep it up.");
-    MsgDisp("主人公","(Thank goodness. Let's keep
-doing our best!)");
+    MsgDisp("主人公","(Thank goodness.
+Let's keep doing our best!)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","This is a popular item right now.
-There are a lot of different colors,
-so please take your time.");
+There are a lot of different colors, so
+please take your time.");
     VoicePlay("I160100002_47_010");
     MsgDisp("Woman Customer","Thank you.
 What color do you recommend?");
-    MsgDisp("主人公","For you,
-I think bright colors would be best.
+    MsgDisp("主人公","For you, I think bright colors would be
+best.
 What do you think of lemon yellow?");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -55,15 +55,15 @@ What do you think of lemon yellow?");
     ChMotion(1,3);
     VoicePlay("I160100002_01_020");
     MsgDisp("Kazama","Good work.
-That recommendation you just gave
-was really good.");
+That recommendation you just gave was
+really good.");
     MsgDisp("主人公","Really?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100002_01_030");
-    MsgDisp("Kazama","You gave her advice and left it up
-to her instead of pushing it.
+    MsgDisp("Kazama","You gave her advice and left it up to her
+instead of pushing it.
 It was really natural.");
     MsgDisp("主人公","(I did it!
 ｛風真＊＊｝ praised me.

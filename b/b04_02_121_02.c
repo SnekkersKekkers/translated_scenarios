@@ -43,8 +43,8 @@ Then, shall we take a short break?");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040212101_02_030");
-        MsgDisp("Sassa","Yeah, wait a minute,
-I'll go buy some drinks.");
+        MsgDisp("Sassa","Yeah, wait a minute, I'll go buy some
+drinks.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         MsgDisp("","　　　　　　　　　　 ・
@@ -107,8 +107,8 @@ About being called a couple...");
         MsgDisp("Sassa","That's why, let's walk around once more.
 THis time we'll be more convincing.");
         MsgDisp("主人公","(We look like a lovers to the people
-around us... That's somewhat
-embarrassing.)");
+around us...
+That's somewhat embarrassing.)");
         break ;
         default :
         DbgAssert(1);

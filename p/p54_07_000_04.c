@@ -3,8 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hurray!
-I was able to give my best 
+MsgDisp("主人公","(Hurray! I was able to give my best
 performance in three years...!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -16,10 +15,10 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P540700004_07_010");
-MsgDisp("Mikage","Congratulations!
-That was an amazing performance, huh?");
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
-It was a huge success!");
+MsgDisp("Mikage","Congratulations! That was an amazing
+performance, huh?");
+MsgDisp("主人公","Ah, ｛御影＊＊｝. It was a huge
+success!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -38,15 +37,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700004_07_040");
-MsgDisp("Mikage","I see... that joy is
-your reward for working so hard.
-It will become a wonderful memory.");
+MsgDisp("Mikage","I see... that joy is your reward for
+working so hard. It will become a
+wonderful memory.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P540700004_07_050");
-MsgDisp("Mikage","Alright, after this, 
-share that joy with your friends.
+MsgDisp("Mikage","Alright, after this, share that joy with
+your friends.
 ...Good work these last three years.");
 MsgClose();
 ChClose(7,0,30);
@@ -64,9 +63,9 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,8);
 ScrFadeIn(0);
 MsgDisp("主人公","...Yes!");
-MsgDisp("主人公","(｛御影＊＊｝ patted my head... I'm glad I
-devoted myself to club activities the
-l;ast three years...!)");
+MsgDisp("主人公","(｛御影＊＊｝ patted my head...
+I'm glad I devoted myself to club
+activities the l;ast three years...!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

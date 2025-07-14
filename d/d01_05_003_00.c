@@ -8,8 +8,8 @@ VoicePlay("D010500300_45_000");
 MsgDisp("School Girl B","Really∋
 Let's go there then!");
 MsgDisp("主人公","(A sale at the shopping mall, huh?
-That sounds good, I guess I should 
-check it out.)");
+That sounds good, I guess I should check
+it out.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);
@@ -28,9 +28,9 @@ MsgDisp("主人公","(Eh, that voice......)");
 VoicePlay("D010500300_33_020");
 MsgDisp("Theater Member A","We're not cut out to be actors.");
 VoicePlay("D010500300_46_000");
-MsgDisp("Theater Member B","No matter how much we practice, we
-aren't good enough to satisfy the
-chairman. We're not enjoying ourselves.");
+MsgDisp("Theater Member B","No matter how much we practice, we aren't
+good enough to satisfy the chairman.
+We're not enjoying ourselves.");
 VoicePlay("D010500300_05_010");
 MsgDisp("Hiiragi","Why are you giving up so easily?");
 VoicePlay("D010500300_33_040");
@@ -105,13 +105,13 @@ MsgDisp("主人公","............");
 StlEye(5,0);
 VoicePlay("D010500300_05_100");
 MsgDisp("Hiiragi","I'm really the worst.
-I was destroying their dreams without
-even realizing it.");
+I was destroying their dreams without even
+realizing it.");
 StlEyeOpenLevel(5,0);
 StlMouth(5,0);
 VoicePlay("D010500300_05_110");
 MsgDisp("Hiiragi","Isn't that ironic for a person like me
-whose job it is to convey hope to the 
+whose job it is to convey hope to the
 audience on stage......");
 MsgDisp("Hiiragi","How hilarious it is that I'm the 
 chairman.");
@@ -120,8 +120,8 @@ StlMouth(5,1);
 VoicePlay("D010500300_05_120");
 MsgDisp("Hiiragi","......Hah, my apologies......
 Am I that way to you too?");
-MsgDisp("主人公","Of course not. ｛柊＊＊＊｝ is always 
-working hard for everyone's sake, the 
+MsgDisp("主人公","Of course not. ｛柊＊＊＊｝ is always
+working hard for everyone's sake, the
 Student Council and the Theater Company.");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_130");
@@ -153,8 +153,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("D010500300_05_160");
 MsgDisp("Hiiragi","Please try to forget today.
-If you don't, I don't know how I can
-show my face to you again.");
+If you don't, I don't know how I can show
+my face to you again.");
 MsgDisp("主人公","｛柊＊＊＊｝......");
 ChMouth(5,0);
 ChMotion(5,4);

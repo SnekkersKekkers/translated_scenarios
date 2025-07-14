@@ -29,9 +29,8 @@ I was pressuring you weirdly.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040510500_05_020");
-    MsgDisp("Hiiragi","Indeed.
-Your stance is the correct way 
-to go about it.");
+    MsgDisp("Hiiragi","Indeed. Your stance is the correct way to
+go about it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,8 +42,8 @@ to go about it.");
     ChMotion(5,4);
     VoicePlay("B040510500_05_030");
     MsgDisp("Hiiragi","Actually, I'm the same.
-If both of us feel nothing, let's just
-act as if I never asked.");
+If both of us feel nothing, let's just act
+as if I never asked.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

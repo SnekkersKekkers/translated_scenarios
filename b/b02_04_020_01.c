@@ -11,7 +11,8 @@ ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,1);
 VoicePlay("B020402001_04_010");
-MsgDisp("Nanatsumori","Are you a fan? Of his.
+MsgDisp("Nanatsumori","Are you a fan?
+Of his.
 Or is there something you want to tell me?");
 MsgDisp("主人公","Huh?");
 ChEye(4,0);

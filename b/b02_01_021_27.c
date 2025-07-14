@@ -9,9 +9,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102127_01_010");
-MsgDisp("Kazama","Yeah.
-Because you wear it so well,
-I'm starting to like it, too.");
+MsgDisp("Kazama","Yeah. Because you wear it so well, I'm
+starting to like it, too.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have started
-to like clothes like these, too!)");
+｛風真＊＊｝ seems to have started to like
+clothes like these, too!)");

@@ -14,8 +14,8 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("S060100002_01_010");
-    MsgDisp("Kazama","It can't be helped. Let's show it
-to everyone else.");
+    MsgDisp("Kazama","It can't be helped.
+Let's show it to everyone else.");
     break ;
     case 4:
     case 5:
@@ -23,8 +23,8 @@ to everyone else.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("S060100002_01_020");
-    MsgDisp("Kazama","It'll be dangerous if you fall,
-okay? Stick close to me.");
+    MsgDisp("Kazama","It'll be dangerous if you fall, okay?
+Stick close to me.");
     break ;
     default :
     DbgAssert(1);

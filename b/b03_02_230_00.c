@@ -37,9 +37,8 @@ That's a can't miss here.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B030223000_02_030");
-    MsgDisp("Sassa","Seriously?
-Well, I'm the one who asked.
-So it can't be helped.");
+    MsgDisp("Sassa","Seriously? Well, I'm the one who asked. So
+it can't be helped.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -53,8 +52,8 @@ So it can't be helped.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223000_02_040");
-    MsgDisp("Sassa","Only 15ish minutes we have to be canned
-in here...");
+    MsgDisp("Sassa","Only 15ish minutes we have to be canned in
+here...");
     break ;
     case 2:
     MsgDispSksp(1,0);

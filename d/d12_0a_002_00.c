@@ -14,9 +14,8 @@ SEWait();
 ChOpen(2,30,3,0,4,#1,#1,0,0);
 VoicePlay("D120A00200_02_000");
 MsgDisp("Sassa","Hey, are you coming?");
-MsgDisp("主人公","Hehe, even if I don't, ｛颯砂＊＊｝ 
-will still come in first place,
-right?");
+MsgDisp("主人公","Hehe, even if I don't, ｛颯砂＊＊｝ will
+still come in first place, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -29,16 +28,16 @@ MsgClose();
 ChOpen(1,30,0,0,2,8,#1,0,2);
 SEWait();
 VoicePlay("D120A00200_01_000");
-MsgDisp("Kazama","Sassa, you need to be more considerate
-of your running mates.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝.
-Are the two of you running together?");
+MsgDisp("Kazama","Sassa, you need to be more considerate of
+your running mates.");
+MsgDisp("主人公","Ah, ｛風真＊＊｝. Are the two of you
+running together?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D120A00200_02_020");
-MsgDisp("Sassa","I'd like to run with him, but I'm not
-sure if we're in the same race?");
+MsgDisp("Sassa","I'd like to run with him, but I'm not sure
+if we're in the same race?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -47,9 +46,8 @@ VoicePlay("D120A00200_01_010");
 MsgDisp("Kazama","You guys don't remember.
 I ran a lot back in kindergarten.");
 VoicePlay("D120A00200_47_010");
-MsgDisp("Broadcast","Students participating in the men's
-100m dash please gather at the starting
-gate.");
+MsgDisp("Broadcast","Students participating in the men's 100m
+dash please gather at the starting gate.");
 MsgDisp("主人公","Good luck to the two of you!");
 MsgClose();
 ScrFadeOut(0);
@@ -61,9 +59,9 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(It's about time for
-｛風真＊＊｝ and ｛颯砂＊＊｝ to start.
-......Huh?　Over there, is that——)");
+MsgDisp("主人公","(It's about time for ｛風真＊＊｝ and
+｛颯砂＊＊｝ to start. ......Huh? Over
+there, is that——)");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_0a_04");
@@ -84,16 +82,16 @@ Let's have fun like we did back in
 kindergarten.");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D120A00200_01_020");
-MsgDisp("Kazama","......Geez.
-You really don't remember anything, huh?");
+MsgDisp("Kazama","......Geez. You really don't remember
+anything, huh?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D120A00200_02_040");
 MsgDisp("Sassa","I remember having fun.");
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D120A00200_01_030");
-MsgDisp("Kazama","Yeah, beating me in front of all of
-those people must have been fun......");
+MsgDisp("Kazama","Yeah, beating me in front of all of those
+people must have been fun......");
 VoicePlay("D120A00200_39_020");
 MsgDisp("Referee","On your marks!
 Get set——");
@@ -112,7 +110,8 @@ SEPlay("EV_SE_792",0.2);
 SEPlay("EV_SE_793",0.2);
 Wait(50,0);
 VoicePlay("D120A00200_42_030");
-MsgDisp("Male Student","Sassa is amazing!　So fast!");
+MsgDisp("Male Student","Sassa is amazing!
+So fast!");
 VoicePlay("D120A00200_44_000");
 MsgDisp("School Girl","Ah, Kazama's going to lose!");
 SEStop("EV_SE_792",2);
@@ -134,8 +133,8 @@ MsgDisp("Sassa","Thank you!
 It's been a while since I raced with
 Ryota, so it was fun.");
 VoicePlay("D120A00200_42_050");
-MsgDisp("Male Student","As expected of the Track and Field
-Club's Ace!");
+MsgDisp("Male Student","As expected of the Track and Field Club's
+Ace!");
 VoicePlay("D120A00200_44_010");
 MsgDisp("School Girl","Yeah, Sassa-kun was amazing!");
 ChEye(2,0);
@@ -143,9 +142,9 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D120A00200_02_070");
 MsgDisp("Sassa","I'm glad to hear that.");
-MsgDisp("主人公","(Hehe!
-It's like they're interviewing the hero.
-......Huh, where is ｛風真＊＊｝......?)");
+MsgDisp("主人公","(Hehe! It's like they're interviewing the
+hero. ......Huh, where is
+｛風真＊＊｝......? )");
 MsgClose();
 ScrFadeOut(0);
 ChClose(2,0,0);
@@ -171,8 +170,8 @@ ChCheek(1,0);
 VoicePlay("D120A00200_01_060");
 MsgDisp("Kazama","Geez, how annoying.
 Why aren't you with Sassa?");
-MsgDisp("主人公","It was like interviewing a hero,
-everyone was surrounding him.");
+MsgDisp("主人公","It was like interviewing a hero, everyone
+was surrounding him.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -199,7 +198,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D120A00200_01_100");
 MsgDisp("Kazama","It's nothing.
-Look, the festival is continuing. 
+Look, the festival is continuing.
 Shall we go?");
 MsgDisp("主人公","(......｛風真＊＊｝?)");
 BGMStop();

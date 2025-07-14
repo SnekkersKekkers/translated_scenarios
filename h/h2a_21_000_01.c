@@ -17,12 +17,11 @@ switch (ChPrmGet(21,6)){
     ChMouth(21,0);
     ChMotion(21,3);
     VoicePlay("H2A2100001_21_010");
-    MsgDisp("Michiru","You might have lost, but
-everyone did their best.
-It was truly wonderful. Okay?");
-    MsgDisp("主人公","(That's right. We might have lost,
-but I'm glad that I stayed as
-the track and field club manager......)");
+    MsgDisp("Michiru","You might have lost, but everyone did
+their best. It was truly wonderful. Okay?");
+    MsgDisp("主人公","(That's right. We might have lost, but I'm
+glad that I stayed as the track and field
+club manager......)");
     break ;
     case 4:
     case 5:
@@ -54,8 +53,8 @@ team members who did their best, right?");
 Then, give all the players a pat on the
 back, okay?");
     MsgDisp("主人公","(｛みちる＊｝...... We might have lost,
-but I'm glad that I stayed as
-the track and field club manager!)");
+but I'm glad that I stayed as the track
+and field club manager!)");
     break ;
     default :
     DbgAssert(1);

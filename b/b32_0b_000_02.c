@@ -23,6 +23,5 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B320B00002_04_010");
-MsgDisp("Nanatsumori","Pfft.
-You're like a kid looking forward 
-to the school trip.");
+MsgDisp("Nanatsumori","Pfft. You're like a kid looking forward to
+the school trip.");

@@ -15,19 +15,19 @@ ChOpen(1,255,0,0,3,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("B330A20501_06_000");
 MsgDisp("Himuro","It's a 7 and 10 split.
-This is going to be tough
-even for Nozomu-senpai.");
+This is going to be tough even for
+Nozomu-senpai.");
 MsgDisp("主人公","How hard?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A20501_01_000");
-MsgDisp("Kazama","They say the chances for a 
-spare is less than 1 percent.");
+MsgDisp("Kazama","They say the chances for a spare is less
+than 1 percent.");
 VoicePlay("B330A20501_02_010");
 MsgDisp("Sassa","My 3rd throw in the 10th frame.
-If I get a spare, I'll turn
-the tables on Ryota!");
+If I get a spare, I'll turn the tables on
+Ryota!");
 MsgDisp("主人公","｛颯砂＊＊｝, do your best!");
 ChEye(1,0);
 ChMouth(1,2);
@@ -59,8 +59,7 @@ ChOpen(2,255,3,0,3,#1,#1,0,3,0,0);
 ChOpen(1,255,0,2,2,0,#1,0,3,0,0);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, amazing∈
-You got a spare!");
+MsgDisp("主人公","｛颯砂＊＊｝, amazing∈ You got a spare!");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);
 ChMouth(2,3);
@@ -74,16 +73,15 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20501_01_020");
 MsgDisp("Kazama","Bravーo.
-...Geez, you couldn't at least 
-let me win in the end huh?");
+...Geez, you couldn't at least let me win
+in the end huh?");
 ChEyeOpenLevel(1,#1);
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330A20501_06_020");
-MsgDisp("Himuro","Nozomu-senpai's stronghold didn't 
-crumble. But Ryota-senpai 
-was amazing, too.");
+MsgDisp("Himuro","Nozomu-senpai's stronghold didn't crumble.
+But Ryota-senpai was amazing, too.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -94,9 +92,8 @@ ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A20501_02_050");
 MsgDisp("Sassa","Yeah, that was fun.");
-MsgDisp("主人公","(Yeah!
-Just watching it had me on
-the edge of my seat...)");
+MsgDisp("主人公","(Yeah! Just watching it had me on the edge
+of my seat...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

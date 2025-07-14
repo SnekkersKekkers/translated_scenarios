@@ -25,7 +25,7 @@ ChMouth(6,1);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 MsgDisp("Himuro","...Well, right. I guess if you did that
-and it turns out that you don't like me, 
+and it turns out that you don't like me,
 it'd be kind of embarrassing.");
 MsgDisp("主人公","Hehe, that's right.");
 VoicePlay("T020600000_06_300");
@@ -45,8 +45,8 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoiceEVSPlay(6);
 VoicePlay("T020600000_06_310");
-MsgDisp("Himuro","｛主人公｝...
-I'm never letting you go, ever.");
+MsgDisp("Himuro","｛主人公｝... I'm never letting you go,
+ever.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

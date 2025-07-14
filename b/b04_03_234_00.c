@@ -12,7 +12,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(0);
     ChSet(3,2);
     VoicePlay("B040323400_03_010");
-    MsgDisp("Honda","I've decided... next time...
+    MsgDisp("Honda","I've decided...
+next time...
 I'll go on a separate cup to you.");
     MsgDateResultDisp();
     break ;
@@ -22,9 +23,8 @@ I'll go on a separate cup to you.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040323400_03_020");
-    MsgDisp("Honda","Yes, thanks to you,
-I've realized that my ear
-canals are sensitive.");
+    MsgDisp("Honda","Yes, thanks to you, I've realized that my
+ear canals are sensitive.");
     MsgDateResultDisp();
     break ;
     case 2:

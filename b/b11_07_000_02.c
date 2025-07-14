@@ -8,14 +8,13 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDisp("主人公","｛御影＊＊｝ sure is late, huh....");
 VoicePlay("B110700002_35_000");
 MsgDisp("?Boy","Hmm, too weak, too weak～
-I need to find a more energetic
-girl okay～?");
+I need to find a more energetic girl
+okay～?");
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,2,0,#1,#1,0,0,0,30);
 VoicePlay("B110700002_35_010");
-MsgDisp("Guy","Ehhh?
-I found her!
-Full signal, all bars!∋");
+MsgDisp("Guy","Ehhh? I found her! Full signal, all
+bars!∋");
 MsgDisp("主人公","Eh∋
 All bars?");
 ChEye(35,0);
@@ -28,10 +27,10 @@ Please stop.");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110700002_35_030");
-MsgDisp("Guy","No can do, you could be anything
-from an actress to a model, 
-I've been in the industry for a decade, 
-and I give you my stamp of approval♪");
+MsgDisp("Guy","No can do, you could be anything from an
+actress to a model, I've been in the
+industry for a decade, and I give you my
+stamp of approval♪");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChPosition(35,1);
@@ -60,10 +59,10 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110700002_35_050");
-MsgDisp("Guy","Haha, this is the gold jacket of a 
-successful man! I made a fortune in 
-no time at all, and now I'll
-make more with this girl——");
+MsgDisp("Guy","Haha, this is the gold jacket of a
+successful man! I made a fortune in no
+time at all, and now I'll make more with
+this girl——");
 MsgDispSksp(1,5);
 ChEye(7,0);
 ChMouth(7,0);
@@ -79,8 +78,8 @@ ChPosition(35,2);
 ChClose(35,0,15);
 VoicePlay("B110700002_35_060");
 MsgDisp("Guy","If you grab me like that, you'll stretch
-my gold jacket! Wait, wait, let's 
-settle this peacefully, okay? Okay?");
+my gold jacket! Wait, wait, let's settle
+this peacefully, okay? Okay?");
 VoicePlay("B110700002_07_030");
 MsgDisp("Mikage","Don't show your face around here again.");
 VoicePlay("B110700002_35_070");
@@ -92,9 +91,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,253,4,2,0,#1,#1,0,0);
 VoicePlay("B110700002_07_040");
-MsgDisp("Mikage","Haa... that kind of person 
-makes me sad. They had a 
-high school life too.");
+MsgDisp("Mikage","Haa... that kind of person makes me sad.
+They had a high school life too.");
 MsgDisp("主人公","Yes...
 It's somewhat pitiable.");
 ChEye(7,2);

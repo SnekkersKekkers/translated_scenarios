@@ -28,8 +28,8 @@ As expected of Princess.");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040420000_04_020");
-        MsgDisp("Nanatsumori","You're lying.
-Ah... I can't watch this anymore.");
+        MsgDisp("Nanatsumori","You're lying. Ah... I can't watch this
+anymore.");
         MsgDateResultDisp();
         }
     break ;

@@ -16,8 +16,7 @@ SEPlay("EV_SE_508");
 SEWait();
 VoiceEVSPlay(1);
 VoicePlay("B050100100_01_000");
-MsgDisp("Kazama","｛主人公｝, 
-Here, this is yours.");
+MsgDisp("Kazama","｛主人公｝, Here, this is yours.");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_03");
@@ -28,8 +27,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, you're finally back.");
 VoicePlay("B050100100_01_010");
 MsgDisp("Kazama","There were nothing but kiddy ones.");
-MsgDisp("主人公","Thank you... hey, 
-｛風真＊＊｝ also uses floats?");
+MsgDisp("主人公","Thank you...
+hey, ｛風真＊＊｝ also uses floats?");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("B050100100_01_020");
@@ -60,13 +59,12 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100100_01_040");
-MsgDisp("Kazama","Well, yeah.
-Schools in England don't really have 
-stuff like swimming, so I can't 
-really swim that well.");
+MsgDisp("Kazama","Well, yeah. Schools in England don't
+really have stuff like swimming, so I
+can't really swim that well.");
 MsgDisp("主人公","I see.
-I think it's okay to just enjoy it 
-how you want then, ｛風真＊＊｝.");
+I think it's okay to just enjoy it how you
+want then, ｛風真＊＊｝.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
@@ -84,15 +82,15 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B050100100_01_060");
 MsgDisp("Kazama","If we were together in elementary school
-or middle school what would it have
-been like to go to the beach 
-or the pool together?");
+or middle school what would it have been
+like to go to the beach or the pool
+together?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100100_01_070");
-MsgDisp("Kazama","And it's like I've retuned to 
-10 years ago in my mind?");
+MsgDisp("Kazama","And it's like I've retuned to 10 years ago
+in my mind?");
 MsgDisp("主人公","Hehe.
 I'm like that too sometimes.");
 ChEye(1,0);
@@ -103,8 +101,9 @@ VoicePlay("B050100100_01_080");
 MsgDisp("Kazama","That's why I got the float today too.
 But you have to forget it.
 Got it?");
-MsgDisp("主人公","Hehe, got it. Thank you for picking a cute
-float out for me, ｛風真＊＊｝.");
+MsgDisp("主人公","Hehe, got it.
+Thank you for picking a cute float out for
+me, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

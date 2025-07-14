@@ -27,7 +27,8 @@ I have some things I want to talk about.");
     ChMouth(6,4);
     ChMotion(6,1);
     VoicePlay("B060600012_06_020");
-    MsgDisp("Himuro","What are you doing? Let's go.
+    MsgDisp("Himuro","What are you doing?
+Let's go.
 Your home is that way, right?");
     MsgDispSksp(0);
     break ;

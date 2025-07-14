@@ -6,8 +6,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("F010300006_03_000");
-    MsgDisp("Honda","Sorry.
-I told my folks I'd be home ASAP.
+    MsgDisp("Honda","Sorry. I told my folks I'd be home ASAP.
 Well then, seeya!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -22,8 +21,8 @@ I'll go straight home today...)");
     ChMotion(3,5);
     VoicePlay("F010300006_03_010");
     MsgDisp("Honda","Oh, sorry.
-I've got plans today, so I'll see
-you later!");
+I've got plans today, so I'll see you
+later!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -44,9 +43,8 @@ Of course I want to go, but...");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("F010300006_03_030");
-    MsgDisp("Honda","Pupu... Sorry that you went to 
-the trouble of inviting me.
-Next time for sure!");
+    MsgDisp("Honda","Pupu... Sorry that you went to the trouble
+of inviting me. Next time for sure!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -11,8 +11,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610001_06_010");
-MsgDisp("Himuro","Not that. I mean, fireflies are
-decreasing.");
+MsgDisp("Himuro","Not that.
+I mean, fireflies are decreasing.");
 MsgDisp("主人公","Ah, I see.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -32,8 +32,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020610001_06_040");
-MsgDisp("Himuro","Well, it's not like you can answer that. I
-can't even imagine my future self.");
+MsgDisp("Himuro","Well, it's not like you can answer that.
+I can't even imagine my future self.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

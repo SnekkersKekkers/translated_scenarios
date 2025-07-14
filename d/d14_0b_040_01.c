@@ -28,8 +28,8 @@ ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B04001_04_020");
-MsgDisp("Nanatsumori","Ah—
-I guess it's because Dahon's not here.");
+MsgDisp("Nanatsumori","Ah— I guess it's because Dahon's not
+here.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -41,29 +41,26 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("D140B04001_01_040");
-MsgDisp("Kazama","It wasn't until the first time
-there was a situation like this
-that I realized how grateful I was 
-to have Honda around.");
+MsgDisp("Kazama","It wasn't until the first time there was a
+situation like this that I realized how
+grateful I was to have Honda around.");
 ChMotion(1,0);
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D140B04001_04_030");
-MsgDisp("Nanatsumori","Yeah.
-Dahon comes up with all 
-the conversation topics.");
+MsgDisp("Nanatsumori","Yeah. Dahon comes up with all the
+conversation topics.");
 MsgDisp("主人公","I see...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoiceEVSPlay(1);
 VoicePlay("D140B04001_01_050");
-MsgDisp("Kazama","｛主人公｝,
-please offer a topic of 
+MsgDisp("Kazama","｛主人公｝, please offer a topic of
 conversation for today.");
-MsgDisp("主人公","(Ehh∋
-You can't dump it on me so suddenly...)");
+MsgDisp("主人公","(Ehh∋ You can't dump it on me so
+suddenly...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

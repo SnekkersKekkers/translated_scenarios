@@ -6,17 +6,17 @@ ScrFadeIn(0);
 MsgDisp("","I did something that cannot be
 undone.");
 VoicePlay("Y300500300_05_010");
-MsgDisp("Hiiragi","(To those two, to their families, 
-How would I even apologize....)");
+MsgDisp("Hiiragi","(To those two, to their families, How
+would I even apologize....)");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","When I welcomed those two to the
 habataki theatre troupe for the first
 time, they were important members.");
-MsgDisp("","I can picture the time 
-they came to my dressing room
-to greet me even now.");
+MsgDisp("","I can picture the time they came to
+my dressing room to greet me even
+now.");
 MsgClear();
 BGOpen("ad531",0);
 ScrFadeIn(0);
@@ -45,33 +45,33 @@ everyone enjoy it, this is the
 opposite. I'm plucking at people's
 dreams..");
 MsgDisp("","Furthermore, I did it
-unconsciously... how horrible.");
+unconsciously...
+how horrible.");
 MsgClear();
 VoicePlay("Y300500300_05_030");
 MsgDisp("Hiiragi","(...I can't go home.
-I can't face everyone 
-at the theatre troupe.)");
+I can't face everyone at the theatre
+troupe.)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClear();
 VoicePlay("Y300500300_05_040");
-MsgDisp("Hiiragi","\"...You must have been disillusioned 
+MsgDisp("Hiiragi","\"...You must have been disillusioned
 by this kind of me.\"");
-MsgDisp("","But, by chance, 
-maybe it's a good thing you 
-got to see the real me.");
+MsgDisp("","But, by chance, maybe it's a good
+thing you got to see the real me.");
 MsgDisp("","Being chairman and in the student
 council... I'm only good at keeping
 up with appearances, This is the real
 me.");
 MsgClear();
-MsgDisp("主人公","\"No, 
-｛柊＊＊＊｝, for the sake of everyone
-always gives it his best in both the 
-theatre troupe and student council.\"");
-MsgDisp("","Even when you see me like this,
-you still say that.");
+MsgDisp("主人公","\"No, ｛柊＊＊＊｝, for the sake of
+everyone always gives it his best in
+both the theatre troupe and student
+council.\"");
+MsgDisp("","Even when you see me like this, you
+still say that.");
 MsgClear();
 MsgDisp("","I unconsciously used the situation I
 was in, the environment I grew up in,
@@ -93,8 +93,8 @@ the two of them who made me realize
 this, to you who spoke to me kindly,
 even if it's just a little, I want to
 repay it.... I want to make amends.");
-MsgDisp("","It's not like I'm being forgiven 
-for anything. But...");
+MsgDisp("","It's not like I'm being forgiven for
+anything. But...");
 MsgClear();
 VoicePlay("Y300500300_05_050");
 MsgDisp("Hiiragi","(But, what I should do...

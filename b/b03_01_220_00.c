@@ -7,8 +7,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B030122000_01_000");
-MsgDisp("Kazama","At least to me,
-this is like visiting a grave.");
+MsgDisp("Kazama","At least to me, this is like visiting a
+grave.");
 MsgDisp("主人公","Hehe, we'll have to greet our ancestors
 then.");
 ChMotion(1,0);
@@ -38,8 +38,8 @@ switch (MsgSelRsltGet()){
     MsgDisp("Kazama","You got it.
 I wonder if the exhibit has changed any.");
     MsgDispSksp(1,0);
-    MsgDisp("主人公","I'm looking forward
-to hearing you talk about it.");
+    MsgDisp("主人公","I'm looking forward to hearing you talk
+about it.");
     MsgDispSksp(0);
     break ;
     default :

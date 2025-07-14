@@ -34,9 +34,9 @@ it. That's like a chance encounter.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040112100_01_020");
-    MsgDisp("Kazama","You think so? You should try it.
-People seem to gather around you
-wherever you are, anyway.");
+    MsgDisp("Kazama","You think so? You should try it. People
+seem to gather around you wherever you
+are, anyway.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -47,8 +47,9 @@ wherever you are, anyway.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040112100_01_030");
-    MsgDisp("Kazama","That's true. One man's trash is another
-man's treasure, right?");
+    MsgDisp("Kazama","That's true.
+One man's trash is another man's treasure,
+right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

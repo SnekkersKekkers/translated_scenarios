@@ -6,8 +6,9 @@ ChMotion(3,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040303200_03_000");
-MsgDisp("Honda","Water gardens, huh? This facility is
-evolving rapidly, isn't it!");
+MsgDisp("Honda","Water gardens, huh?
+This facility is evolving rapidly, isn't
+it!");
 MsgSel("It's just the right place to take a break.","What a beautiful fountain; it's like art created by water.","Ah, looks like there's a trendy cafe.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,7 +28,8 @@ It would be a shame to rest, you know?");
     ChMotion(3,5);
     VoicePlay("B040303200_03_020");
     MsgDisp("Honda","Oh, I see. An exhibition weaving together
-the three states of water – 'solid', 'liquid', and 'gas.' That's the water
+the three states of water – 'solid',
+'liquid', and 'gas.' That's the water
 garden for you!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -39,9 +41,9 @@ garden for you!");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040303200_03_030");
-    MsgDisp("Honda","Oh, even though it's an outdoor facility, 
-they have a Café Deep Sea. Well, I guess 
-it's trendy?");
+    MsgDisp("Honda","Oh, even though it's an outdoor facility,
+they have a Café Deep Sea.
+Well, I guess it's trendy?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

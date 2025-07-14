@@ -13,16 +13,16 @@ Wait(25,1);
 ChMouth(5,3);
 VoiceEVSPlay(5);
 VoicePlay("P540500004_05_000");
-MsgDisp("Hiiragi","｛主人公｝.
-Congratulations, that was wonderful.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-Genuinely...?");
+MsgDisp("Hiiragi","｛主人公｝. Congratulations, that was
+wonderful.");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Genuinely...?");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("P540500004_05_010");
-MsgDisp("Hiiragi","It was the best performance. I'm not
-exaggerating, it was truly touching.");
+MsgDisp("Hiiragi","It was the best performance.
+I'm not exaggerating, it was truly
+touching.");
 MsgDisp("主人公","Hehe, thank you.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -36,8 +36,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P540500004_05_030");
-MsgDisp("Hiiragi","I feel a bit lonely now that
-the performance has ended.
+MsgDisp("Hiiragi","I feel a bit lonely now that the
+performance has ended.
 Thank you for a spectacular time.");
 MsgDisp("主人公","(I'm happy that ｛柊＊＊＊｝ is that
 delighted. I'm glad I gave it my all for

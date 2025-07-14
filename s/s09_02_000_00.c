@@ -62,7 +62,7 @@ It's right in front of us.");
         ChEyeOpenLevel(2,0);
         VoicePlay("S090200000_02_060");
         MsgDisp("Sassa","That's the right answer.
-Alright then, ｌａｄｉｅｓ　ｆｉｒｓｔ．");
+Alright then, ｌａｄｉｅｓ ｆｉｒｓｔ．");
         MsgDisp("主人公","Ehh?
 I'm getting a bit nervous.");
         break ;
@@ -88,8 +88,8 @@ Let's go.");
     ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090200000_02_080");
     MsgDisp("Sassa","It's a mess with so many moving people.");
-    MsgDisp("主人公","Phew......
-｛颯砂＊＊｝, thanks for guarding me.");
+    MsgDisp("主人公","Phew...... ｛颯砂＊＊｝, thanks for
+guarding me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

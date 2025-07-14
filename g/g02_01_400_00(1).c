@@ -4,8 +4,8 @@ ChMotion(1,1);
 VoicePlay("G020140000_01_000");
 MsgDisp("Kazama","When I think of each light as a life, it
 feels a bit scary.");
-MsgDisp("主人公","Yeah,
-maybe that's why they're so beautiful.");
+MsgDisp("主人公","Yeah, maybe that's why they're so
+beautiful.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);

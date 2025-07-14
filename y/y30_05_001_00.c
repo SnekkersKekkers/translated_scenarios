@@ -12,13 +12,13 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("ad511",0);
 ScrFadeIn(0);
-MsgDisp("","Phew...I wonder if she's
-having fun skiing with me?");
+MsgDisp("","Phew...I wonder if she's having fun
+skiing with me?");
 MsgDisp("","With the guys and girls around us, It
 seems to mostly be the guy who's
 teaching. Or both of them are
 skilled....");
-MsgDisp("","Maybe she's gotten tired of waiting, 
+MsgDisp("","Maybe she's gotten tired of waiting,
 and is in the resthouse...
 Let me go check.");
 MsgClear();
@@ -52,29 +52,31 @@ looking as if she was reluctant to
 part.");
 MsgClear();
 MsgDisp("","It was as if we weren't on a snowy
-mountain... I felt warm...");
+mountain...
+I felt warm...");
 MsgDisp("","It was thanks to her drinking Amazuke
 at Kamakura Cafe with me and happily
 listening to me talk.");
 VoicePlay("Y300500100_05_040");
 MsgDisp("Hiiragi","\"I'm the one who should be saying
-that. I enjoyed skiing.\"");
+that.
+I enjoyed skiing.\"");
 MsgClear();
-MsgDisp("主人公","\"Hehe.
-Then, shall we go again this season?\"");
+MsgDisp("主人公","\"Hehe. Then, shall we go again this
+season?\"");
 MsgDisp("","Perhaps, she actually enjoyed skiing
 with me...");
 MsgDisp("","Suddenly I had this feeling.");
 MsgClear();
-MsgDisp("","Maybe I made a weird face, 
-As she tilted her head slightly, 
-as if something was strange.");
+MsgDisp("","Maybe I made a weird face, As she
+tilted her head slightly, as if
+something was strange.");
 VoicePlay("Y300500100_05_050");
-MsgDisp("Hiiragi","\"Of course. Someday I want to be on
-the advanced course, so I would like
-to go.\"");
-MsgDisp("主人公","\"Yes, me too. Let's practice
-together.\"");
+MsgDisp("Hiiragi","\"Of course.
+Someday I want to be on the advanced
+course, so I would like to go.\"");
+MsgDisp("主人公","\"Yes, me too.
+Let's practice together.\"");
 MsgClear();
 VoicePlay("Y300500100_05_060");
 MsgDisp("Hiiragi","\"Then, let's pray.\"");
@@ -89,13 +91,13 @@ advanced course this season.\"");
 MsgDisp("主人公","\"Hehe. Then, so that it doesn't melt,
 shall we stay outside until our train
 comes?\"");
-MsgDisp("","She said that happily, 
-showing me the smile that I love.");
+MsgDisp("","She said that happily, showing me the
+smile that I love.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("","It melted whilst we were waiting
-for the train, though.");
+MsgDisp("","It melted whilst we were waiting for
+the train, though.");
 MsgDisp("","But someday, I want to ski with her
 from the very top.");
 BGMStop();

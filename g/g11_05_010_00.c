@@ -4,8 +4,8 @@ ScrFadeIn(0);
 VoicePlay("G110501000_40_000");
 MsgDisp("Male Student","Hiiragi, don't leave your slip here.");
 VoicePlay("G110501000_05_000");
-MsgDisp("Hiiragi","Okay.
-I'll put it into the management book.");
+MsgDisp("Hiiragi","Okay. I'll put it into the management
+book.");
 MsgDisp("主人公","(The chairman of the Habataki Theatre
 Company is working in the student council
 room...... It's a bit strange, isn't it.)");
@@ -19,8 +19,8 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110501000_05_010");
-MsgDisp("Hiiragi","......Ahem.
-Is there something stuck to my face?");
+MsgDisp("Hiiragi","......Ahem. Is there something stuck to my
+face?");
 MsgDisp("主人公","No, sorry for staring.");
 ChEye(5,0);
 ChMouth(5,0);
@@ -83,8 +83,9 @@ ChMotion(5,2);
 VoicePlay("G110501000_05_070");
 MsgDisp("Hiiragi","Since then, you look at me strangely from
 time-to-time.");
-MsgDisp("主人公","O-Oh, yeah. It just made me realize again
-that you're the leader......");
+MsgDisp("主人公","O-Oh, yeah.
+It just made me realize again that you're
+the leader......");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
@@ -92,9 +93,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110501000_05_080");
-MsgDisp("Hiiragi","Yes, that may be true, 
-But I'm also your classmate, 
-and a member of the student council.");
+MsgDisp("Hiiragi","Yes, that may be true, But I'm also your
+classmate, and a member of the student
+council.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

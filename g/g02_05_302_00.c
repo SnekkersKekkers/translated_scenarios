@@ -1,9 +1,9 @@
 MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020530200_05_000");
-MsgDisp("Hiiragi","Since entering Haba High, 
-I've been trying various things I 
-haven't experienced before.");
+MsgDisp("Hiiragi","Since entering Haba High, I've been trying
+various things I haven't experienced
+before.");
 ChMotion(5,4);
 VoicePlay("G020530200_05_010");
 MsgDisp("Hiiragi","Even just going to school every day is a
@@ -11,17 +11,18 @@ new experience for me, and on top of that,
 I'm involved in student council
 activities.");
 MsgDisp("主人公","Furthermore, you have the ｛柊＊＊＊｝
-theatre troupe. It really must be tough.");
+theatre troupe.
+It really must be tough.");
 ChEye(5,4);
 VoicePlay("G020530200_05_020");
 MsgDisp("Hiiragi","I've been working in a theater company for
-as long as I can remember. It's not a
-hardship.");
+as long as I can remember.
+It's not a hardship.");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("G020530200_05_030");
-MsgDisp("Hiiragi","Ah, and there's also a time at school 
-that feels very familiar to me.");
+MsgDisp("Hiiragi","Ah, and there's also a time at school that
+feels very familiar to me.");
 MsgDisp("主人公","What time is that?");
 ChEye(5,4);
 VoicePlay("G020530200_05_040");

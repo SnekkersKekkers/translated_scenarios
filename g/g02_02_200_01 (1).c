@@ -3,8 +3,8 @@ ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("G020220001_02_000");
 MsgDisp("Sassa","You know, there's a good thing going
 on......");
-MsgDisp("主人公","You're right. It's overflowing with
-firefly lights.");
+MsgDisp("主人公","You're right.
+It's overflowing with firefly lights.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -17,8 +17,8 @@ ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("G020220001_02_020");
 MsgDisp("Sassa","I saw you two before but I just couldn't
-get myself to talk to you. I'd never seen
-you smile like that before.");
+get myself to talk to you.
+I'd never seen you smile like that before.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -46,7 +46,7 @@ ChMotion(2,3);
 VoicePlay("G020220001_02_060");
 MsgDisp("Sassa","I'm really not used to someone running in
 front of me.");
-MsgDisp("主人公","(What's wrong with ｛颯砂＊＊｝......?)");
+MsgDisp("主人公","(What's wrong with ｛颯砂＊＊｝......? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

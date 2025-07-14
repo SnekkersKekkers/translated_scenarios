@@ -20,21 +20,20 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070201000_02_010");
 MsgDisp("Sassa","Back then I laughed and dodged the
-question......
-Sorry.");
+question...... Sorry.");
 MsgDisp("主人公","No, it's fine.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B070201000_02_020");
-MsgDisp("Sassa","At that time I stupidly believed
-that love is something beyond me.");
+MsgDisp("Sassa","At that time I stupidly believed that love
+is something beyond me.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B070201000_02_030");
-MsgDisp("Sassa","I set my goals for the year and
-make schedules to follow everyday.
+MsgDisp("Sassa","I set my goals for the year and make
+schedules to follow everyday.
 And then there's no time slots left.");
 MsgDisp("主人公","Yeah......");
 ChEye(2,0);
@@ -42,14 +41,14 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070201000_02_040");
 MsgDisp("Sassa","But you know, that's completely wrong.
-How can I put working out in the same
-slot as love?");
+How can I put working out in the same slot
+as love?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070201000_02_050");
-MsgDisp("Sassa","Because you can think about that sort
-of thing while you're working out.");
+MsgDisp("Sassa","Because you can think about that sort of
+thing while you're working out.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -68,9 +67,8 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ChCheek(2,10);
 VoicePlay("B070201000_02_080");
-MsgDisp("Sassa","Hm?
-Huh, why am talking about you?
-I thought we were talking about love......");
+MsgDisp("Sassa","Hm? Huh, why am talking about you? I
+thought we were talking about love......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

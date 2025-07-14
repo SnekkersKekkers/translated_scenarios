@@ -29,8 +29,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F100430002_21_010");
-MsgDisp("Michiru","Hikaru, that's a strange way 
-of asking the question.");
+MsgDisp("Michiru","Hikaru, that's a strange way of asking the
+question.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -47,9 +47,8 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F100430002_22_030");
-MsgDisp("Hikaru","Aaah, hey!
-Mari, he's going to attack again!
-Salut!");
+MsgDisp("Hikaru","Aaah, hey! Mari, he's going to attack
+again! Salut!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 ChClose(21,0,30);
@@ -67,8 +66,8 @@ MsgDisp("Nanatsumori","Haa, haa...");
 MsgDisp("主人公","｛七ツ森＊｝, what's wrong∋");
 ChMotion(4,0,1);
 VoicePlay("F100430002_04_010");
-MsgDisp("Nanatsumori","Those twins...
-Did they say something... weird?");
+MsgDisp("Nanatsumori","Those twins... Did they say something...
+weird?");
 MsgDisp("主人公","They didn't say anything weird.
 They asked me how much I knew about
 ｛七ツ森＊｝.");
@@ -82,22 +81,19 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("F100430002_04_030");
 MsgDisp("Nanatsumori","So Hikaru is the ringleader, then?");
-MsgDisp("主人公","Hey.
-｛七ツ森＊｝ is there something else
-you're hiding from me?");
+MsgDisp("主人公","Hey. ｛七ツ森＊｝ is there something
+else you're hiding from me?");
 ChEye(4,2);
 ChMouth(4,5);
 ChMotion(4,0,1);
 VoicePlay("F100430002_04_040");
-MsgDisp("Nanatsumori","Ha?
-Not yet... No!
-Don't look at me like that.");
+MsgDisp("Nanatsumori","Ha? Not yet... No! Don't look at me like
+that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
 MsgDisp("主人公","(He ran away...
-He's definitely still 
-hiding something...)");
+He's definitely still hiding something...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -23,8 +23,7 @@ switch (ChPrmGet(21,6)){
     VoicePlay("H3A2100000_21_010");
     MsgDisp("Michiru","Cute and strong.
 Mari's an invincible girl, huh?");
-    MsgDisp("主人公","(Hehe!
-I'm glad I worked so hard in the
+    MsgDisp("主人公","(Hehe! I'm glad I worked so hard in the
 judo club!)");
     BGMStop();
     MsgClose();
@@ -44,8 +43,7 @@ judo club!)");
     ChMotion(21,0);
     VoicePlay("H3A2100000_21_020");
     MsgDisp("Michiru","Mari......!");
-    MsgDisp("主人公","Ah, ｛みちる＊｝.
-I won!");
+    MsgDisp("主人公","Ah, ｛みちる＊｝. I won!");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,4);
@@ -60,8 +58,7 @@ I was very nervous, but......");
     MsgDisp("Michiru","You were very cool.
 I think I've come to like you even more,
 Mari.");
-    MsgDisp("主人公","(Hehe!
-I'm glad I worked so hard in the
+    MsgDisp("主人公","(Hehe! I'm glad I worked so hard in the
 judo club!)");
     BGMStop();
     MsgClose();

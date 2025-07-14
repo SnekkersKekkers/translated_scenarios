@@ -26,10 +26,8 @@ I'm glad I did my best.)");
     ChMotion(3,0,1);
     VoiceEVSPlay(3);
     VoicePlay("O020300000_03_010");
-    MsgDisp("Honda","｛主人公｝,
-Congrats!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-You were watching?");
+    MsgDisp("Honda","｛主人公｝, Congrats!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. You were watching?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -47,17 +45,15 @@ I'm glad I did my best.)");
     ChMotion(3,1);
     VoiceEVSPlay(3);
     VoicePlay("O020300000_03_030");
-    MsgDisp("Honda","｛主人公｝,
-good work!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
-I did it!");
+    MsgDisp("Honda","｛主人公｝, good work!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝! I did it!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("O020300000_03_040");
-    MsgDisp("Honda","Yeah, everyone around you was
-breathing perfectly in time with your
-shouts! As expected of you!");
+    MsgDisp("Honda","Yeah, everyone around you was breathing
+perfectly in time with your shouts!
+As expected of you!");
     MsgDisp("主人公","(I did it!
 I'm glad I did my best.)");
     break ;

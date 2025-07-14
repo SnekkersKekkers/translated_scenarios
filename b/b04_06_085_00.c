@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608500_06_000");
-MsgDisp("Himuro","There's a lonely feeling to 
-the forest park in winter, isn't there?");
+MsgDisp("Himuro","There's a lonely feeling to the forest
+park in winter, isn't there?");
 MsgSel("This is a world built on transient beauty.","Even though I'm here?","I like it.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040608500_06_010");
-    MsgDisp("Himuro","Like Monk Sen no Rikyu?
-Not bad. Excellent.");
+    MsgDisp("Himuro","Like Monk Sen no Rikyu? Not bad.
+Excellent.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,10 +38,9 @@ Were you listening?");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040608500_06_030");
-    MsgDisp("Himuro","Heh, you see it differently to me.
-Tell me more about it. That's right;
-how about we sit over on
-that bench and talk.");
+    MsgDisp("Himuro","Heh, you see it differently to me. Tell me
+more about it. That's right; how about we
+sit over on that bench and talk.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

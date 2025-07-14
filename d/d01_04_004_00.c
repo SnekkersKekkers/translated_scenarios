@@ -4,8 +4,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_609");
 SEWait();
 MsgDisp("主人公","............");
-MsgDisp("主人公","Like usual, Nana looks really cool in
-this edition of Habacha.");
+MsgDisp("主人公","Like usual, Nana looks really cool in this
+edition of Habacha.");
 MsgDisp("主人公","(I still can't believe I know such a
 famous person......)");
 VoicePlay("D010400400_04_000");
@@ -15,9 +15,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝!
-I was reading Habacha and lost track of
-time.");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝! I was reading Habacha
+and lost track of time.");
 VoicePlay("D010400400_04_010");
 MsgDisp("Nanatsumori","Habacha?");
 MsgDisp("主人公","Yeah.
@@ -38,8 +37,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D010400400_04_040");
-MsgDisp("Nanatsumori","Ok.
-Since there's no one around......Let's
+MsgDisp("Nanatsumori","Ok. Since there's no one around......Let's
 hang out a bit.");
 MsgDisp("主人公","?");
 MsgClose();
@@ -57,14 +55,14 @@ StlMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("D010400400_04_050");
 MsgDisp("Nanatsumori","......Perfect.");
-MsgDisp("主人公","Amazing......
-｛七ツ森＊｝ really looks like a girl∈");
+MsgDisp("主人公","Amazing...... ｛七ツ森＊｝ really looks
+like a girl∈");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400400_04_060");
-MsgDisp("Nanatsumori","Well......
-I'm also good at this sort of thing.");
+MsgDisp("Nanatsumori","Well...... I'm also good at this sort of
+thing.");
 StlEye(4,1,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
@@ -75,8 +73,8 @@ MsgDisp("主人公","Really?");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("D010400400_04_080");
-MsgDisp("Nanatsumori","Really.
-Come on, let's take a photo together.");
+MsgDisp("Nanatsumori","Really. Come on, let's take a photo
+together.");
 MsgDisp("主人公","S-Sure.");
 MsgDisp("主人公","(Woah......
 I look so different∋)");
@@ -107,8 +105,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Wow......That was really fun!");
 VoicePlay("D010400400_04_110");
 MsgDisp("Nanatsumori","That's the most important part.");
-MsgDisp("主人公","You not only carry makeup with you,
-but you also carry wigs, huh?");
+MsgDisp("主人公","You not only carry makeup with you, but
+you also carry wigs, huh?");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("D010400400_04_120");

@@ -20,8 +20,8 @@ VoicePlay("P640500005_05_020");
 MsgDisp("Hiiragi","Putting the vegetables enjoyed for their
 bitterness and the vegetables with a
 similar sugar content to fruit together...");
-MsgDisp("主人公","Ah... maybe I prioritized 
-the colours too much...");
+MsgDisp("主人公","Ah... maybe I prioritized the colours too
+much...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -34,10 +34,10 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("P640500005_05_040");
-MsgDisp("Hiiragi","It is also because of that,
-that I thought the preparation in 
-the end was dissapointing.");
-MsgDisp("主人公","(Hmmm, I should have tried harder 
+MsgDisp("Hiiragi","It is also because of that, that I thought
+the preparation in the end was
+dissapointing.");
+MsgDisp("主人公","(Hmmm, I should have tried harder
 researching preparation methods...
 I failed in the end.)");
 MsgClose();

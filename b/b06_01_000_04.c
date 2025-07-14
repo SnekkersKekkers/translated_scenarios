@@ -21,7 +21,8 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0,1);
     ScrFadeIn(0);
     VoicePlay("B060100004_01_010");
-    MsgDisp("Kazama","I'll... forget what happened today.
+    MsgDisp("Kazama","I'll...
+forget what happened today.
 I'll see you next time.");
     MsgDispSksp(0);
     break ;
@@ -36,9 +37,8 @@ I'll see you next time.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B060100004_01_020");
-    MsgDisp("Kazama","...I don't want to think about it but, 
-Maybe we're.... no, my bad.
-It's nothing.");
+    MsgDisp("Kazama","...I don't want to think about it but,
+Maybe we're.... no, my bad. It's nothing.");
     MsgDispSksp(0);
     break ;
     default :

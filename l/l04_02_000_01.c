@@ -24,8 +24,8 @@ switch (ChPrmGet(2,6)){
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Hm, should I have given him
-a better chocolate?)");
+    MsgDisp("主人公","(Hm, should I have given him a better
+chocolate?)");
     break ;
     case 3:
     ChEye(2,0);
@@ -52,8 +52,8 @@ Otherwise, I don't think I'll taste it.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Hm, should I have given him
-a better chocolate?)");
+    MsgDisp("主人公","(Hm, should I have given him a better
+chocolate?)");
     break ;
     case 4:
     case 5:
@@ -68,17 +68,17 @@ this before.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200001_02_070");
-    MsgDisp("Sassa","Yeah, I eat it a lot at home.
-It's bite sized with the perfect amount
-of sugar. Thanks.");
+    MsgDisp("Sassa","Yeah, I eat it a lot at home. It's bite
+sized with the perfect amount of sugar.
+Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ah...... Should I have given him
-a better chocolate?)");
+    MsgDisp("主人公","(Ah...... Should I have given him a better
+chocolate?)");
     break ;
     default :
     DbgAssert(1);

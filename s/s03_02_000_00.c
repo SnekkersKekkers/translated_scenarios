@@ -6,22 +6,20 @@ switch (ChPrmGet(2,6)){
     case 2:
     VoicePlay("S030200000_02_000");
     MsgDisp("Sassa","Yes, hello.");
-    MsgDisp("主人公","｛颯砂＊＊｝,
-Happy New Year.");
+    MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year.");
     VoicePlay("S030200000_02_010");
     MsgDisp("Sassa","Happy New Year!
 Treat me well this year.");
     VoicePlay("S030200000_02_020");
     MsgDisp("Sassa","So?
 What's up?");
-    MsgDisp("主人公","Would you like to visit the 
-shrine with me?");
+    MsgDisp("主人公","Would you like to visit the shrine with
+me?");
     break ;
     case 3:
     VoicePlay("S030200000_02_030");
     MsgDisp("Sassa","Yes, hello.");
-    MsgDisp("主人公","｛颯砂＊＊｝,
-Happy New Year.");
+    MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year.");
     VoicePlay("S030200000_02_040");
     MsgDisp("Sassa","Happy New Year!
 I'm counting on you this year too.");
@@ -45,8 +43,8 @@ Treat me well this year.");
 It's a great start to the New Year.");
     VoicePlay("S030200000_02_090");
     MsgDisp("Sassa","So, what's up?");
-    MsgDisp("主人公","You know, I was wondering if you
-wanted to visit the shrine with me?");
+    MsgDisp("主人公","You know, I was wondering if you wanted to
+visit the shrine with me?");
     break ;
     default :
     DbgAssert(1);

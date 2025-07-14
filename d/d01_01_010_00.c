@@ -17,8 +17,7 @@ MsgDisp("Kazama","Okay, I'll come pick you up soon.");
 MsgDisp("主人公","O-Okay, sure.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(What's going on?
-｛風真＊＊｝......)");
+MsgDisp("主人公","(What's going on? ｛風真＊＊｝...... )");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -37,16 +36,16 @@ ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010101000_01_031");
-MsgDisp("Kazama","Yeah, when I'm with you, I never
-know what will happen.");
+MsgDisp("Kazama","Yeah, when I'm with you, I never know what
+will happen.");
 ChEye(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010101000_01_041");
-MsgDisp("Kazama","It's easy to get stuck in a 
-puddle or something like that?");
-MsgDisp("主人公","Eh?　A puddle......
-That only happened one time.");
+MsgDisp("Kazama","It's easy to get stuck in a puddle or
+something like that?");
+MsgDisp("主人公","Eh? A puddle...... That only happened one
+time.");
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -54,7 +53,8 @@ ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("D010101000_01_051");
 MsgDisp("Kazama","Once is enough.
-The bus is here. Let's go.");
+The bus is here.
+Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
@@ -73,8 +73,8 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
 EnvPlay("SE_ENV_BG_HO000_CO0",1,0.3);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, you wanted to
-visit the castle?");
+MsgDisp("主人公","｛風真＊＊｝, you wanted to visit the
+castle?");
 StlEye(1,1);
 VoicePlay("D010101000_01_061");
 MsgDisp("Kazama","I guess so.
@@ -85,32 +85,31 @@ StlEye(1,0);
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D010101000_01_071");
 MsgDisp("Kazama","But this place never changes.
-So I thought that it might bring back
-some memories from the past.");
+So I thought that it might bring back some
+memories from the past.");
 StlEye(1,1);
 VoicePlay("D010101000_01_081");
-MsgDisp("Kazama","You know, we probably came here 
-together back in kindergarten.");
+MsgDisp("Kazama","You know, we probably came here together
+back in kindergarten.");
 MsgDisp("主人公","Yeah, I wonder how that went......
 Does ｛風真＊＊｝ remember?");
 StlEye(1,0);
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D010101000_01_091");
-MsgDisp("Kazama","Nope.
-The two of us have forgotten about
-a lot of things.");
+MsgDisp("Kazama","Nope. The two of us have forgotten about a
+lot of things.");
 StlEye(1,2);
 StlMouth(1,1);
 VoicePlay("D010101000_01_101");
-MsgDisp("Kazama","So, I don't blame you for
-forgetting about that day......");
+MsgDisp("Kazama","So, I don't blame you for forgetting about
+that day......");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("D010101000_01_110");
-MsgDisp("Kazama","Even just looking from here I see
-a lot of buildings I don't recognize......");
-MsgDisp("主人公","Yeah, there are a lot of new
-spots. Some places are being renovated.
+MsgDisp("Kazama","Even just looking from here I see a lot of
+buildings I don't recognize......");
+MsgDisp("主人公","Yeah, there are a lot of new spots.
+Some places are being renovated.
 We should go out together sometime?");
 StlEye(1,1);
 VoicePlay("D010101000_01_120");
@@ -123,8 +122,9 @@ VoicePlay("D010101000_01_130");
 MsgDisp("Kazama","I think I'm ready for that change......");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D010101000_01_140");
-MsgDisp("Kazama","The sound of the bell. Like I thought,
-you can't hear it from here......");
+MsgDisp("Kazama","The sound of the bell.
+Like I thought, you can't hear it from
+here......");
 MsgDisp("主人公","Hehe, when you say \"the sound of the
 bell\", do you mean that church bell we
 both heard a long time ago?");
@@ -144,18 +144,17 @@ ChMotion(1,3);
 VoicePlay("D010101000_01_150");
 MsgDisp("Kazama","What, you remember that∋");
 MsgDisp("主人公","Yeah, I didn't forget.
-We heard the bell ringing and made
-wishes with our pinwheels.");
+We heard the bell ringing and made wishes
+with our pinwheels.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010101000_01_160");
-MsgDisp("Kazama","Haa?
-That's what you mean......
-That's somewhat disappointing.");
-MsgDisp("主人公","(｛風真＊＊｝, maybe you thought I
-forgot about you? I guess I should 
-have told you sooner......)");
+MsgDisp("Kazama","Haa? That's what you mean...... That's
+somewhat disappointing.");
+MsgDisp("主人公","(｛風真＊＊｝, maybe you thought I forgot
+about you? I guess I should have told you
+sooner......)");
 BGMStop();
 EnvAutoSet(1);
 MsgClose();

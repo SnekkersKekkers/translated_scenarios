@@ -51,8 +51,9 @@ Sorry for saying something so careless.");
         ChMouth(2,0);
         ChMotion(2,5);
         VoicePlay("B040215102_02_050");
-        MsgDisp("Sassa","No, I'm the one who should apologize. Even
-though this was supposed to be a date.");
+        MsgDisp("Sassa","No, I'm the one who should apologize.
+Even though this was supposed to be a
+date.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
@@ -86,18 +87,18 @@ trouble.");
         ChMotion(2,3);
         ChEyeOpenLevel(2,0);
         VoicePlay("B040215102_02_100");
-        MsgDisp("Sassa","Thanks to you, I think 
-I've found a breakthrough.");
+        MsgDisp("Sassa","Thanks to you, I think I've found a
+breakthrough.");
         MsgDisp("主人公","I didn't do anything though?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040215102_02_110");
-        MsgDisp("Sassa","It was far from doing nothing, 
-To me, you're the world's best coach.");
-        MsgDisp("主人公","(Even if it was just a little bit,
-I'm happy to to think that
-I helped ｛颯砂＊＊｝ )");
+        MsgDisp("Sassa","It was far from doing nothing, To me,
+you're the world's best coach.");
+        MsgDisp("主人公","(Even if it was just a little bit, I'm
+happy to to think that I helped
+｛颯砂＊＊｝ )");
         break ;
         default :
         DbgAssert(1);
@@ -111,7 +112,7 @@ I helped ｛颯砂＊＊｝ )");
     ChMotion(2,4);
     VoicePlay("B040215102_02_120");
     MsgDisp("Sassa","Is that right?
-I didn't notice/ ");
+I didn't notice/");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

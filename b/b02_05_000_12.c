@@ -9,5 +9,5 @@ ChMotion(5,4);
 VoicePlay("B020500012_05_010");
 MsgDisp("Hiiragi","It is the same clothes from before, right?
 I wondered if you preferred it.");
-MsgDisp("主人公","(Urgh... I need to remember
-what I was wearing before...)");
+MsgDisp("主人公","(Urgh... I need to remember what I was
+wearing before...)");

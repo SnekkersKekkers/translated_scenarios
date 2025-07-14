@@ -10,8 +10,8 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoicePlay("O020700001_07_000");
     MsgDisp("Mikage","You lost, huh.
-But hey, you look like you were
-giving it your all.");
+But hey, you look like you were giving it
+your all.");
     MsgDisp("主人公","(Ugh...... Too bad......)");
     break ;
     case 3:
@@ -26,8 +26,8 @@ Don't look so down, okay?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O020700001_07_020");
-    MsgDisp("Mikage","Since you were so serious about it,
-it'll become a good memory.");
+    MsgDisp("Mikage","Since you were so serious about it, it'll
+become a good memory.");
     MsgDisp("主人公","(But I wanted to win......)");
     break ;
     case 4:
@@ -44,24 +44,23 @@ You aren't hurt, right?");
     ChMotion(7,1);
     VoicePlay("O020700001_07_040");
     MsgDisp("Mikage","......Don't make that face.
-You were pulling so happily
-until just a bit ago.");
+You were pulling so happily until just a
+bit ago.");
     MsgDisp("主人公","But, I did lose.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O020700001_07_050");
     MsgDisp("Mikage","Guess so.
-That's also a part of
-the sports festival.");
+That's also a part of the sports festival.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("O020700001_07_060");
     MsgDisp("Mikage","Come on, let's smile for
 the next event!");
-    MsgDisp("主人公","(Yeah...... I lost, but
-I still had fun......)");
+    MsgDisp("主人公","(Yeah...... I lost, but I still had
+fun......)");
     break ;
     default :
     DbgAssert(1);

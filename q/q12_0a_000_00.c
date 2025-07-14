@@ -9,7 +9,8 @@ ChMotion(2,0);
 ChPosition(2,2);
 ScrFadeIn(0);
 MsgDisp("主人公","Tomorrow is the end of the school
-trip...... It went by so fast.");
+trip......
+It went by so fast.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -21,7 +22,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q120A00000_02_000");
 MsgDisp("Sassa","Yeah, it was fun.
-A school trip between three childhood 
+A school trip between three childhood
 friends.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -34,7 +35,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q120A00000_01_020");
-MsgDisp("Kazama","This school trip made me really glad I came back.");
+MsgDisp("Kazama","This school trip made me really glad I
+came back.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
@@ -96,7 +98,8 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q120A00000_01_070");
-MsgDisp("Kazama","Yeah. I'm sure he's watching from somewhere.");
+MsgDisp("Kazama","Yeah. I'm sure he's watching from
+somewhere.");
 MsgDisp("主人公","(Hehe, it was a really fun school trip.
 Thanks to you two. Thanks.)");
 MsgClose();

@@ -27,8 +27,8 @@ Cya.");
     MsgClose();
     ChClose(4,0,30);
     Wait(30);
-    MsgDisp("主人公","(I hope this year is another
-good year......)");
+    MsgDisp("主人公","(I hope this year is another good
+year......)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -38,8 +38,7 @@ good year......)");
     ChMouth(4,0);
     ChMotion(4,1);
     VoicePlay("S120400002_04_020");
-    MsgDisp("Nanatsumori","Phew.
-We finally got out of that crowd of
+    MsgDisp("Nanatsumori","Phew. We finally got out of that crowd of
 people.");
     MsgDisp("主人公","Hehe!
 Are you tired?");
@@ -73,22 +72,22 @@ We finished praying.");
     ChMouth(4,1);
     ChMotion(4,2,1);
     VoicePlay("S120400002_04_060");
-    MsgDisp("Nanatsumori","It's a waste to just go home
-already, it's not enough-");
+    MsgDisp("Nanatsumori","It's a waste to just go home already, it's
+not enough-");
     MsgDisp("主人公","Not enough?");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("S120400002_04_070");
     MsgDisp("Nanatsumori","Yeah, maybe it's just me.
-I was finally brave enough to go out in 
+I was finally brave enough to go out in
 the freezing cold.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400002_04_080");
-    MsgDisp("Nanatsumori","......But, I don't want to drag
-you around anymore.");
+    MsgDisp("Nanatsumori","......But, I don't want to drag you around
+anymore.");
     MsgDisp("主人公","｛七ツ森＊｝......");
     ChEye(4,0);
     ChMouth(4,3);

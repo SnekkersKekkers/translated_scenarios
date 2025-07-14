@@ -22,8 +22,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010620100_06_000");
 MsgDisp("Himuro","............");
-MsgDisp("主人公","Um...... ｛氷室＊＊｝?
-What's wrong?");
+MsgDisp("主人公","Um...... ｛氷室＊＊｝? What's wrong?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -40,31 +39,30 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010620100_02_020");
-MsgDisp("Sassa","Yeah,
-I saw Inori playing a game
-so I called out to him.");
+MsgDisp("Sassa","Yeah, I saw Inori playing a game so I
+called out to him.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620100_06_020");
 MsgDisp("Himuro","I wish he hadn't......
-I was forced to play a match
-even if I didn't want to.");
+I was forced to play a match even if I
+didn't want to.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("E010620100_02_030");
 MsgDisp("Sassa","Dont lie!
 You were so confident in the beginning!");
-MsgDisp("主人公","Hehe, but in the end
-｛颯砂＊＊｝ was the winner.");
+MsgDisp("主人公","Hehe, but in the end ｛颯砂＊＊｝ was the
+winner.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("E010620100_06_030");
 MsgDisp("Himuro","It's not your first time, isn't it?
-Otherwise you wouldn't have been
-able to play so well.");
+Otherwise you wouldn't have been able to
+play so well.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -76,9 +74,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010620100_02_050");
-MsgDisp("Sassa","......Ah sorry. I should go soon.
-I had fun thanks to you.
-See you!");
+MsgDisp("Sassa","......Ah sorry. I should go soon. I had
+fun thanks to you. See you!");
 MsgDisp("主人公","Okay, take care!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -95,9 +92,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620100_06_050");
-MsgDisp("Himuro","In that game, sense and
-intuition are important. But you can't win
-unless you have a good strategy.");
+MsgDisp("Himuro","In that game, sense and intuition are
+important. But you can't win unless you
+have a good strategy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -110,8 +107,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010620100_06_070");
 MsgDisp("Himuro","It's definitely a lie.");
-MsgDisp("主人公","(I think ｛氷室＊＊｝ is having
-trouble accepting defeat......)");
+MsgDisp("主人公","(I think ｛氷室＊＊｝ is having trouble
+accepting defeat......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

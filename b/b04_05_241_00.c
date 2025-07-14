@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040524100_05_010");
     MsgDisp("Hiiragi","Yes, a great opportunity.
-Let's take our time and enjoy
-ourselves today.");
+Let's take our time and enjoy ourselves
+today.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ ourselves today.");
     ChMotion(5,0);
     VoicePlay("B040524100_05_020");
     MsgDisp("Hiiragi","Not at all. They've got horseback riding,
-milking experiences, gift shops—
-they're doing their best");
+milking experiences, gift shops— they're
+doing their best");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -36,9 +36,9 @@ they're doing their best");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("B040524100_05_030");
-    MsgDisp("Hiiragi","The goats and horses... are looking 
-at us. We're the ones in the way,
-let's go greet them.");
+    MsgDisp("Hiiragi","The goats and horses... are looking at us.
+We're the ones in the way, let's go greet
+them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -2,8 +2,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07070_21_000");
-MsgDisp("Michiru","Mikage-sensei is mysterious,
-don't you think?");
+MsgDisp("Michiru","Mikage-sensei is mysterious, don't you
+think?");
 MsgDisp("主人公","Mysterious......
 You mean his hairstyle?");
 ChEye(22,0);
@@ -18,8 +18,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07070_22_010");
 MsgDisp("Hikaru","You know what I mean.
-The curly hair above his bangs. At first
-I thought he was wearing a wig!");
+The curly hair above his bangs.
+At first I thought he was wearing a wig!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
@@ -43,9 +43,9 @@ ChEyeOpenLevel(22,0);
 VoicePlay("D140D07070_22_020");
 MsgDisp("Hikaru","Aha!
 Mari is so cute～▼");
-MsgDisp("主人公","(Ugh......
-Now everytime I see ｛御影＊＊｝, I'll
-think about croissants......)");
+MsgDisp("主人公","(Ugh...... Now everytime I see
+｛御影＊＊｝, I'll think about
+croissants......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -29,12 +29,12 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B10101_03_000");
-MsgDisp("Honda","If you don't have a goal in
-mind when you're shopping in the 
-first place, it's just a stroll.");
+MsgDisp("Honda","If you don't have a goal in mind when
+you're shopping in the first place, it's
+just a stroll.");
 MsgDisp("主人公","Is that so?
-It's fun for me to look at lots 
-of different things though.");
+It's fun for me to look at lots of
+different things though.");
 ChEye(1,0);
 ChEye(4,0);
 ChMouth(4,3);
@@ -61,9 +61,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B330B10101_01_020");
-MsgDisp("Kazama","......
-Ah, I'm thirsty.
-Let's go somewhere.");
+MsgDisp("Kazama","...... Ah, I'm thirsty. Let's go
+somewhere.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -71,8 +70,7 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B10101_04_020");
-MsgDisp("Nanatsumori","Kazama.
-Won't that just make you swallow 
+MsgDisp("Nanatsumori","Kazama. Won't that just make you swallow
 what you were about to say?");
 ChMouth(1,1);
 ChEyeOpenLevel(1,8);
@@ -80,9 +78,9 @@ ChEye(3,3);
 ChMouth(3,0);
 ChMotion(3,3,1);
 VoicePlay("B330B10101_03_020");
-MsgDisp("Honda","Right right, that thing about how 
-if it was just you and her,
-even window shopping would be fun?");
+MsgDisp("Honda","Right right, that thing about how if it
+was just you and her, even window shopping
+would be fun?");
 MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -101,11 +99,10 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B10101_04_030");
-MsgDisp("Nanatsumori","Yeah.
-I couldn't imitate this kind of honesty...");
-MsgDisp("主人公","(?
-I don't really get it, but 
-window shopping is fun!)");
+MsgDisp("Nanatsumori","Yeah. I couldn't imitate this kind of
+honesty...");
+MsgDisp("主人公","(? I don't really get it, but window
+shopping is fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

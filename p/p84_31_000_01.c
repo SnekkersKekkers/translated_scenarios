@@ -17,7 +17,8 @@ exercise out of it... Well then... adieu.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Haa, I should have properly thought of a 
-tour route. A huge fail...)");
+MsgDisp("主人公","(Haa, I should have properly thought of a
+tour route.
+A huge fail...)");
 MsgClose();
 ScrFadeOut(0);

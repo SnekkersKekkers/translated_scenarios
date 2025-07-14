@@ -37,9 +37,9 @@ Both the breeze and view were excellent.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623101_06_030");
-    MsgDisp("Himuro","I understand how you feel, 
-But to say it was doubled is 
-a bit of an exaggeration no?");
+    MsgDisp("Himuro","I understand how you feel, But to say it
+was doubled is a bit of an exaggeration
+no?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

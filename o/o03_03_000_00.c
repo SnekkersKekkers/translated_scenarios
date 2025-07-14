@@ -33,10 +33,10 @@ I'm glad I did my best!)");
 Or was everyone else feeling unwell?");
     ChSet(3,3);
     VoicePlay("O030300000_03_030");
-    MsgDisp("Honda","Well, it doesn't matter!
-Anyways, we won! Yay!");
-    MsgDisp("主人公","(We did it!
-I got first place with ｛本多＊＊｝!)");
+    MsgDisp("Honda","Well, it doesn't matter! Anyways, we won!
+Yay!");
+    MsgDisp("主人公","(We did it! I got first place with
+｛本多＊＊｝! )");
     break ;
     case 4:
     case 5:
@@ -48,8 +48,8 @@ I got first place with ｛本多＊＊｝!)");
 three-legged race!?");
     ChSet(3,3);
     VoicePlay("O030300000_03_050");
-    MsgDisp("Honda","This never would've happened
-if it wasn't for you!
+    MsgDisp("Honda","This never would've happened if it wasn't
+for you!
 You really are the best!");
     MsgDisp("主人公","Hehe, we did it!");
     ChEye(3,4);
@@ -57,9 +57,9 @@ You really are the best!");
     ChMotion(3,2);
     ChCheek(3,8);
     VoicePlay("O030300000_03_060");
-    MsgDisp("Honda","......Hm, hm? My heart was racing
-from running, but it feels like it's
-racing from something else, now......");
+    MsgDisp("Honda","......Hm, hm? My heart was racing from
+running, but it feels like it's racing
+from something else, now......");
     MsgDisp("主人公","Huh, are you okay?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -70,8 +70,8 @@ racing from something else, now......");
 This is what's making my heart pound.
 Your smile is making my heart flutter.");
     MsgDisp("主人公","Eeeeehhh!!!");
-    MsgDisp("主人公","(He just said something amazing......
-I'm glad I got first with ｛本多＊＊｝!)");
+    MsgDisp("主人公","(He just said something amazing...... I'm
+glad I got first with ｛本多＊＊｝! )");
     break ;
     default :
     DbgAssert(1);

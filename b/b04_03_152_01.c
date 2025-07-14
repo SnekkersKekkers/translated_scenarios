@@ -26,8 +26,8 @@ right?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040315201_03_020");
-    MsgDisp("Honda","When you throw them, the door opens
-and your family comes in.
+    MsgDisp("Honda","When you throw them, the door opens and
+your family comes in.
 That happens, that happens.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -14,13 +14,13 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("Q020100000_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, Good morning.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, good morning.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("Q020100000_01_010");
-    MsgDisp("Kazama","Hey, how about we spend
-the free period together?");
+    MsgDisp("Kazama","Hey, how about we spend the free period
+together?");
     MsgSel("Yes, I'm coming！","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
@@ -63,15 +63,15 @@ I feel bad......)");
     VoiceEVSPlay(1);
     VoicePlay("Q020100000_01_050");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","｛風真＊＊｝, Good morning.");
+    MsgDisp("主人公","｛風真＊＊｝, good morning.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q020100000_01_060");
-    MsgDisp("Kazama","Good morning. About the free period, have
-you decided who you're going with?");
-    MsgDisp("主人公","No.
-｛風真＊＊｝, have you?");
+    MsgDisp("Kazama","Good morning.
+About the free period, have you decided
+who you're going with?");
+    MsgDisp("主人公","No. ｛風真＊＊｝, have you?");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,0);
@@ -88,8 +88,8 @@ you decided who you're going with?");
         VoicePlay("Q020100000_01_080");
         MsgDisp("Kazama","Phew. You worried me for a second there.
 Don't suddenly go quiet on me.");
-        MsgDisp("主人公","Sorry.
-I was thinking of where I want to go.");
+        MsgDisp("主人公","Sorry. I was thinking of where I want to
+go.");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,3);

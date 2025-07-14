@@ -4,8 +4,7 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-Hello.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Hello.");
     MsgClose();
     ChOpen(5,254,2,2,4,#1,#1,0,0);
     VoicePlay("N020500003_05_000");
@@ -33,8 +32,9 @@ Oof... I have to study harder!)");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
     ChEye(5,4);
     VoicePlay("N020500003_05_030");
-    MsgDisp("Hiiragi","You are too kind. You don't have to be so
-concerned about me.");
+    MsgDisp("Hiiragi","You are too kind.
+You don't have to be so concerned about
+me.");
     MsgDisp("主人公","Umm, well...");
     ChEye(5,2);
     ChMouth(5,2);
@@ -45,15 +45,16 @@ concerned about me.");
     ChMotion(5,3);
     VoicePlay("N020500003_05_050");
     MsgDisp("Hiiragi","It's surprising that you be able to get
-into Haba High. It's okay.");
+into Haba High.
+It's okay.");
     ChMotion(5,4);
     VoicePlay("N020500003_05_060");
     MsgDisp("Hiiragi","Anyway, good job.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Oof... It's not okay.
-I have to study harder!)");
+    MsgDisp("主人公","(Oof... It's not okay. I have to study
+harder!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -74,8 +75,8 @@ However, we are high school students.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("N020500003_05_090");
-    MsgDisp("Hiiragi","If you can't concentrate by yourself,
-I'll study with you.");
+    MsgDisp("Hiiragi","If you can't concentrate by yourself, I'll
+study with you.");
     ChEye(5,4);
     ChMouth(5,3);
     VoicePlay("N020500003_05_100");

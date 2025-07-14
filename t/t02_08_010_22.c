@@ -28,15 +28,14 @@ VoicePlay("T020801000_08_330");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,3,1);
-MsgDisp("Shirahane","Haa......
-I wonder if I'll be like this even
-when I go to university.");
+MsgDisp("Shirahane","Haa...... I wonder if I'll be like this
+even when I go to university.");
 VoicePlay("T020801000_08_340");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,0,1);
-MsgDisp("Shirahane","But, I'll be the one to wrap up the 
-happy ending.");
+MsgDisp("Shirahane","But, I'll be the one to wrap up the happy
+ending.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -46,8 +45,7 @@ StlOpen("ev_08_10");
 ScrFadeIn(0);
 VoiceEVSPlay(8);
 VoicePlay("T020801000_08_350");
-MsgDisp("Shirahane","｛主人公｝.
-I love you, truly.");
+MsgDisp("Shirahane","｛主人公｝. I love you, truly.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

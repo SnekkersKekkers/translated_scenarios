@@ -47,11 +47,11 @@ SEWait();
 MsgDisp("","Seems like I was too late...");
 MsgClear();
 VoicePlay("Y300400500_46_000");
-MsgDisp("Nana's Sister","\"Hello～!
-Nice to meet you, I'm his sister\"");
+MsgDisp("Nana's Sister","\"Hello～! Nice to meet you, I'm his
+sister\"");
 MsgDisp("","The final boss abruptly appears ——
-With a smile, she introduces
-herself to my sister.");
+With a smile, she introduces herself
+to my sister.");
 MsgDisp("","I hope this event ends soon...");
 MsgClear();
 MsgDisp("","For a while after that, my sister
@@ -68,8 +68,8 @@ MsgDisp("","My mother without restraint, barged
 into the conversation. Alongside my
 sister, they surrounded her.");
 MsgDisp("","She sneakily sat on the sofa∋");
-MsgDisp("","It's just the two of them,
-but we've been cornered...");
+MsgDisp("","It's just the two of them, but we've
+been cornered...");
 MsgClear();
 BGMStop();
 MsgClose();
@@ -89,14 +89,15 @@ MsgDisp("Nanatsumori","\"I'm really sorry about today. That
 you had to talk to my sister and my
 Mom. Are you tired?\"");
 MsgDisp("","She shook her head, laughing.
-It was... a genuine laugh.");
+It was...
+a genuine laugh.");
 MsgDisp("","When I saw that, I was so relieved.
 The corner of my eyes began to sting.");
 BGMPlay("BGM_C04_NANA_KOKU",0.01);
 MsgClear();
 MsgDisp("","My face must have been all wrinkled.");
-MsgDisp("","She extended her hand 
-to stroke my cheek.");
+MsgDisp("","She extended her hand to stroke my
+cheek.");
 MsgClear();
 MsgDisp("","My anxieties dissipated, my heart was
 filled with only happiness.");

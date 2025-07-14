@@ -19,9 +19,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("B050300300_03_020");
-MsgDisp("Honda","Excuse me, Mr. Zookeeper.
-What happened to the giant isopods?
-One isn't here, right?");
+MsgDisp("Honda","Excuse me, Mr. Zookeeper. What happened to
+the giant isopods? One isn't here, right?");
 VoicePlay("B050300300_34_000");
 MsgDisp("Staff","Y-You, you're right, actually.
 We said goodbye to it this morning.");
@@ -49,8 +48,8 @@ StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);
 VoicePlay("B050300300_03_050");
-MsgDisp("Honda","Guso-kun was the one I fed the first
-time I came here with my family......");
+MsgDisp("Honda","Guso-kun was the one I fed the first time
+I came here with my family......");
 StlEye(3,0,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,0);
@@ -65,8 +64,8 @@ ChOpen(3,253,0,2,2,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050300300_03_070");
-MsgDisp("Honda","So I was hoping I got to feed him
-again when I came this time.");
+MsgDisp("Honda","So I was hoping I got to feed him again
+when I came this time.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -79,14 +78,14 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B050300300_03_090");
 MsgDisp("Honda","Yeah......But the rest of them are still
-here. So let's come and feed them
-again!");
+here.
+So let's come and feed them again!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B050300300_03_100");
-MsgDisp("Honda","We have to continue on, otherwise
-coming here was pointless.");
+MsgDisp("Honda","We have to continue on, otherwise coming
+here was pointless.");
 MsgDisp("主人公","(｛本多＊＊｝ is so sweet.)");
 BGMStop();
 ChPrmTblAdd(3,0);

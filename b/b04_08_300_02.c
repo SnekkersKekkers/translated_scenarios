@@ -6,8 +6,8 @@ ChMotion(8,2);
 ChCheek(8,5);
 ScrFadeIn(0);
 VoicePlay("B040830002_08_000");
-MsgDisp("Shirahane","I'm so nervous even though
-it's my own room...");
+MsgDisp("Shirahane","I'm so nervous even though it's my own
+room...");
 MsgSel("It's just us right?","Should we make things more exciting?","You won't notice it as soon as we start talking.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -62,9 +62,8 @@ That sorta...");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040830002_08_060");
-        MsgDisp("Shirahane","Should I become the kinda 
-guy who can respond coolly to
-things like that?");
+        MsgDisp("Shirahane","Should I become the kinda guy who can
+respond coolly to things like that?");
         ChEye(8,2);
         ChMouth(8,2);
         ChEyeOpenLevel(8,0);
@@ -77,14 +76,13 @@ things like that?");
         VoiceEVSPlay(8);
         VoicePlay("B040830002_08_080");
         MsgDisp("Shirahane","｛主人公｝, forgive me.
-I'm a late bloomer when
-it comes ta love.");
+I'm a late bloomer when it comes ta love.");
         ChEye(8,2);
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040830002_08_090");
-        MsgDisp("Shirahane","That's why I might not be able ta
-meet up ta yer expectations.");
+        MsgDisp("Shirahane","That's why I might not be able ta meet up
+ta yer expectations.");
         ChEye(8,0);
         ChMouth(8,4);
         ChEyeOpenLevel(8,10);

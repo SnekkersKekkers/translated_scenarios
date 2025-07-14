@@ -7,8 +7,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040415202_04_000");
 MsgDisp("Nanatsumori","So it's my turn.
-Do you want to bet something on 
-whether I can get a bullseye?");
+Do you want to bet something on whether I
+can get a bullseye?");
 MsgSel("Then, I'll treat you to a drink.","You won't get it in!","Let me think what...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040415202_04_010");
-    MsgDisp("Nanatsumori","Alright.
-I'll definitely get that drink, 
+    MsgDisp("Nanatsumori","Alright. I'll definitely get that drink,
 so get ready, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -47,8 +46,8 @@ so get ready, okay?");
         ChMotion(4,2,1);
         VoicePlay("B040415202_04_030");
         MsgDisp("Nanatsumori","Actually let's not.
-That face you made got me
-down in the dumps.");
+That face you made got me down in the
+dumps.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -86,9 +85,8 @@ Alright, high five!");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040415202_04_070");
-        MsgDisp("Nanatsumori","Ahー, this feels nice.
-So? Have you decided on a
-prize for the wager?");
+        MsgDisp("Nanatsumori","Ahー, this feels nice. So? Have you
+decided on a prize for the wager?");
         MsgDisp("主人公","I'm still...");
         ChEye(4,4);
         ChMouth(4,3);
@@ -102,8 +100,8 @@ That's rightー......");
         ChMouthOpenLevel(4,0);
         VoicePlay("B040415202_04_090");
         MsgDisp("Nanatsumori","............");
-        MsgDisp("主人公","It's surprisingly hard 
-to think of something, right?");
+        MsgDisp("主人公","It's surprisingly hard to think of
+something, right?");
         ChEye(4,4);
         ChMouth(4,1);
         ChMotion(4,1,1);
@@ -118,15 +116,15 @@ Tell me.");
         ChCheek(4,10);
         VoicePlay("B040415202_04_110");
         MsgDisp("Nanatsumori","I take back what I said.
-Forget about the bet. Let's stop.");
+Forget about the bet.
+Let's stop.");
         MsgDisp("主人公","Is that okay?");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,0,1);
         VoicePlay("B040415202_04_120");
-        MsgDisp("Nanatsumori","Yeah.
-If I told you this, I'd 
-definitely regret it.");
+        MsgDisp("Nanatsumori","Yeah. If I told you this, I'd definitely
+regret it.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);

@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040311000_03_010");
-        MsgDisp("Honda","Yep yep, your swimming
-lives up to the name right? ");
+        MsgDisp("Honda","Yep yep, your swimming lives up to the
+name right?");
         MsgDispSksp(1,7);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -37,9 +37,9 @@ lives up to the name right? ");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040311000_03_030");
-    MsgDisp("Honda","I understand the theory but,
-I can't teach you something I
-can't put into practice myself.");
+    MsgDisp("Honda","I understand the theory but, I can't teach
+you something I can't put into practice
+myself.");
     MsgDateResultDisp();
     break ;
     case 2:

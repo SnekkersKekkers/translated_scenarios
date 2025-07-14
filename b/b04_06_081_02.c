@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040608102_06_010");
-    MsgDisp("Himuro","Not sure how I feel about
-that assumption...
+    MsgDisp("Himuro","Not sure how I feel about that
+assumption...
 Well, it's not bad.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
@@ -28,9 +28,9 @@ Well, it's not bad.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040608102_06_020");
-    MsgDisp("Himuro","Well, if it's once in a while, 
-I don't want to do frivolous things, 
-But it's a nice change of pace.");
+    MsgDisp("Himuro","Well, if it's once in a while, I don't
+want to do frivolous things, But it's a
+nice change of pace.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -59,21 +59,22 @@ But it's a nice change of pace.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608102_06_040");
-        MsgDisp("Himuro","Then let me ask you this;
-what is \"like\" me?");
+        MsgDisp("Himuro","Then let me ask you this; what is \"like\"
+me?");
         MsgDisp("主人公","Eh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040608102_06_050");
-        MsgDisp("Himuro","You don't think it's like me to 
-watch the cherry blossoms right?");
+        MsgDisp("Himuro","You don't think it's like me to watch the
+cherry blossoms right?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040608102_06_060");
-        MsgDisp("Himuro","Then at what times am I doin
-something \"like\" me? Tell me.");
+        MsgDisp("Himuro","Then at what times am I doin something
+\"like\" me?
+Tell me.");
         MsgDisp("主人公","Hm... When you're surfing?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -86,19 +87,19 @@ something \"like\" me? Tell me.");
         ChMotion(6,1);
         ChCheek(6,10);
         VoicePlay("B040608102_06_080");
-        MsgDisp("Himuro","Ah, no... I thought you would
-say something like studying or
-being an honor's student....");
+        MsgDisp("Himuro","Ah, no...
+I thought you would say something like
+studying or being an honor's student....");
         ChEye(6,2);
         ChMouth(6,2);
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040608102_06_090");
-        MsgDisp("Himuro","Perhaps it's just me who's caught 
-up with the Himuro surname...");
-        MsgDisp("主人公","(｛氷室＊＊｝ also has a
-lot of worries huh...)");
+        MsgDisp("Himuro","Perhaps it's just me who's caught up with
+the Himuro surname...");
+        MsgDisp("主人公","(｛氷室＊＊｝ also has a lot of worries
+huh...)");
         break ;
         default :
         DbgAssert(1);

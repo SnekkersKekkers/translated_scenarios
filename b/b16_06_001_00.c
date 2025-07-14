@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     NSSEye(6,1);
     NSSMouth(6,1);
     VoicePlay("B160600100_06_010");
-    MsgDisp("Himuro","There's no point in 
-laughing it off like that.");
+    MsgDisp("Himuro","There's no point in laughing it off like
+that.");
     break ;
     case 1:
     NSSEye(6,2);

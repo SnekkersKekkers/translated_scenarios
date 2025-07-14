@@ -6,9 +6,9 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521202_05_000");
-MsgDisp("Hiiragi","I wonder if Habataki Theatre Troupe
-would be happy if we could 
-set up a store like this");
+MsgDisp("Hiiragi","I wonder if Habataki Theatre Troupe would
+be happy if we could set up a store like
+this");
 MsgSel("Habataki Theater Manju would be perfect!","You should sell those fox plushies","I want a Yanosuke t-shirt.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -48,7 +48,8 @@ I'll talk it over with the zoo.");
         ChMotion(5,4);
         VoicePlay("B040521202_05_030");
         MsgDisp("Hiiragi","Actually, when we were touring around the
-country... we did sell that.");
+country...
+we did sell that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,7 +59,8 @@ country... we did sell that.");
         ChMotion(5,0);
         VoicePlay("B040521202_05_040");
         MsgDisp("Hiiragi","Actually, when we were touring around the
-country... we did sell that.");
+country...
+we did sell that.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040521202_05_050");
@@ -67,16 +69,16 @@ question \"Why is my face on someone else's
 clothes?\"...");
         ChMotion(5,4);
         VoicePlay("B040521202_05_060");
-        MsgDisp("Hiiragi","It was tough for me around 
-elementary school age.");
+        MsgDisp("Hiiragi","It was tough for me around elementary
+school age.");
         MsgDisp("主人公","Is that so?
 I'm sorry.
 I had no idea...");
         ChMotion(5,0);
         VoicePlay("B040521202_05_070");
         MsgDisp("Hiiragi","There is no need for you to apologize.
-And that kind of thing
-is also part of business.");
+And that kind of thing is also part of
+business.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040521202_05_080");
@@ -91,8 +93,8 @@ That's right...");
         VoicePlay("B040521202_05_090");
         MsgDisp("Hiiragi","Were you imagining it just now?
 A Yanosuke T-shirt.");
-        MsgDisp("主人公","Ah, I was just thinking 
-what it would be like...");
+        MsgDisp("主人公","Ah, I was just thinking what it would be
+like...");
         ChMotion(5,4);
         VoicePlay("B040521202_05_100");
         MsgDisp("Hiiragi","You really are...
@@ -101,8 +103,8 @@ That's fine, I shall show you.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040521202_05_110");
-        MsgDisp("Hiiragi","There are a lot of printing 
-services like that, is there not?");
+        MsgDisp("Hiiragi","There are a lot of printing services like
+that, is there not?");
         VoicePlay("B040521202_05_120");
         MsgDisp("Hiiragi","I'd like to make a t-shirt of
 me and you.");
@@ -120,8 +122,8 @@ That would be an interesting person.");
         MsgDisp("Hiiragi","It'll only be my prized possession.
 In that case, would it be okay?");
         MsgDisp("主人公","(A t-shirt with the two of us?
-...It's embarrassing,
-but it might be interesting?)");
+...It's embarrassing, but it might be
+interesting?)");
         break ;
         default :
         DbgAssert(1);

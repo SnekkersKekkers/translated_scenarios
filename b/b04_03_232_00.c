@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040323200_03_010");
-    MsgDisp("Honda","Yep yep, 
-It goes up to nearly 100 meters.
+    MsgDisp("Honda","Yep yep, It goes up to nearly 100 meters.
 You could even see Hanegasaki beach.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -42,9 +41,8 @@ you should go to sleep.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040323200_03_030");
-    MsgDisp("Honda","Really?
-You should say so before we get on, 
-they can't stop midway.");
+    MsgDisp("Honda","Really? You should say so before we get
+on, they can't stop midway.");
     MsgDateResultDisp();
     break ;
     default :

@@ -11,23 +11,24 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20400_06_000");
-MsgDisp("Himuro","I've been coming to this forest
-park since I was young.");
-MsgDisp("主人公","Yeah. I came here a 
-lot on elementary school trips.");
+MsgDisp("Himuro","I've been coming to this forest park since
+I was young.");
+MsgDisp("主人公","Yeah. I came here a lot on elementary
+school trips.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20400_07_000");
-MsgDisp("Mikage","I see. Since both of you grew up in
-Habataki City huh.");
+MsgDisp("Mikage","I see.
+Since both of you grew up in Habataki City
+huh.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20400_05_000");
 MsgDisp("Hiiragi","I've still got a long way to go.
-There's quite a lot of places
-I haven't been yet.");
+There's quite a lot of places I haven't
+been yet.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -38,15 +39,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20400_07_010");
-MsgDisp("Mikage","Then, is there a place you'd 
-like to go today Yanosuke?");
+MsgDisp("Mikage","Then, is there a place you'd like to go
+today Yanosuke?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C20400_06_020");
 MsgDisp("Himuro","Sounds good.
-Is there a part of the forest 
-park that interests you?");
+Is there a part of the forest park that
+interests you?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -58,8 +59,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20400_05_020");
-MsgDisp("Hiiragi","...Then, I'm rather curious
-about the swan boats.");
+MsgDisp("Hiiragi","...Then, I'm rather curious about the swan
+boats.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -84,9 +85,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20400_05_030");
-MsgDisp("Hiiragi","Yes.
-When you actually ride it, your feet have 
-be to be quite busy. If I didn't 
+MsgDisp("Hiiragi","Yes. When you actually ride it, your feet
+have be to be quite busy. If I didn't
 experience it, I wouldn't have known.");
 MsgDisp("主人公","Hehe, yeah.
 It's a bit tiring.");
@@ -96,8 +96,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C20400_06_030");
 MsgDisp("Himuro","...Kojiro-sensei.
-Was it really necessary for 
-us to also ride as a pair?");
+Was it really necessary for us to also
+ride as a pair?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -122,8 +122,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C20400_07_050");
-MsgDisp("Mikage","｛主人公｝, sorry.
-Ride with Inori too.");
+MsgDisp("Mikage","｛主人公｝, sorry. Ride with Inori too.");
 MsgDisp("主人公","Yeah, that's fine.");
 ChEye(5,4);
 ChEye(6,0);
@@ -149,9 +148,9 @@ SEPlay("EV_SE_626");
 ChClose(6);
 ChMotion(5,0);
 VoicePlay("B330C20400_06_070");
-MsgDisp("Himuro","Let's go on the rowboat 
-instead of the swanboat.");
-MsgDisp("主人公","(Hehe! I wonder if ｛氷室＊＊｝ was 
+MsgDisp("Himuro","Let's go on the rowboat instead of the
+swanboat.");
+MsgDisp("主人公","(Hehe! I wonder if ｛氷室＊＊｝ was
 embarrassed about the swan boat?)");
 BGMStop();
 MsgClose();

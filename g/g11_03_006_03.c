@@ -25,34 +25,35 @@ while (1){
     ChMouth(3,2);
     ChMotion(3,2);
     VoicePlay("G110300603_03_030");
-    MsgDisp("Honda","Woah woah, stop stop! If you
-touch that part, the book will break!");
+    MsgDisp("Honda","Woah woah, stop stop!
+If you touch that part, the book will
+break!");
     }
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);
 VoiceEVSPlay(3);
 VoicePlay("G110300603_03_010");
-MsgDisp("Honda","｛主人公｝. Thank you for
-saving my life.");
+MsgDisp("Honda","｛主人公｝. Thank you for saving my
+life.");
 MsgDisp("主人公","I'm so glad.
-｛本多＊＊｝, I was surprised when I 
-heard your voice.");
+｛本多＊＊｝, I was surprised when I heard
+your voice.");
 ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300603_03_040");
-MsgDisp("Honda","Yeah, I had a valuable book with
-me, so I just screamed out loud.");
+MsgDisp("Honda","Yeah, I had a valuable book with me, so I
+just screamed out loud.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G110300603_03_050");
 MsgDisp("Honda","It's the first edition of \"The Way of
-First Love\". It's signed by the author
-in the back, see?");
-MsgDisp("主人公","(Phew, I'm glad I didn't damage
-his precious book...)");
+First Love\". It's signed by the author in
+the back, see?");
+MsgDisp("主人公","(Phew, I'm glad I didn't damage his
+precious book...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

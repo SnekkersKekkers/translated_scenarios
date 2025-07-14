@@ -12,15 +12,15 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110302_01_010");
 MsgDisp("Kazama","Yeah, what're the chances we'd wear the
-same design from the same brand? I wonder
-how we looked to everyone else.");
+same design from the same brand?
+I wonder how we looked to everyone else.");
 MsgDisp("主人公","......Like two people deeply in love?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110302_01_020");
-MsgDisp("Kazama","Mostly likely. I don't care what people
-think.");
+MsgDisp("Kazama","Mostly likely.
+I don't care what people think.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -59,7 +59,8 @@ ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110302_01_070");
-MsgDisp("Kazama","Maybe ski wear? Or swimsuits?");
+MsgDisp("Kazama","Maybe ski wear?
+Or swimsuits?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,2);
@@ -69,8 +70,8 @@ VoicePlay("G020110302_01_080");
 MsgDisp("Kazama","No, matching swimsuits are seriously
 dangerous......");
 MsgDisp("主人公","(I can hear everything you're saying,
-｛風真＊＊｝...... Wait, is this how he
-really feels?)");
+｛風真＊＊｝......
+Wait, is this how he really feels?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

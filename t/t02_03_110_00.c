@@ -2,8 +2,8 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("T020311000_03_000");
-MsgDisp("Honda?","｛主人公｝,
-I don't want you to go that far.");
+MsgDisp("Honda?","｛主人公｝, I don't want you to go that
+far.");
 SEPlay("EV_SE_872",0.5);
 Wait(50,0);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
@@ -38,8 +38,9 @@ ScrFadeIn(0);
 SEWait();
 MsgDisp("主人公","The rooftop......");
 VoicePlay("T020311000_03_040");
-MsgDisp("Honda","Yeah, it's nice here. I asked you a lot of
-different questions here.");
+MsgDisp("Honda","Yeah, it's nice here.
+I asked you a lot of different questions
+here.");
 MsgClose();
 ScrFadeOut(0,1);
 MsgType(1);
@@ -66,9 +67,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020311000_03_070");
-MsgDisp("Honda","So, I met you, we became friends,
-and then we drifted apart a little,
-and then I finally became convinced.");
+MsgDisp("Honda","So, I met you, we became friends, and then
+we drifted apart a little, and then I
+finally became convinced.");
 ChEye(3,0);
 ChMouth(3,0);
 VoicePlay("T020311000_03_080");
@@ -86,8 +87,8 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,2,1);
 VoicePlay("T020311000_03_100");
-MsgDisp("Honda","Haa......but, 
-but I couldn't deceive myself.");
+MsgDisp("Honda","Haa......but, but I couldn't deceive
+myself.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -111,6 +112,5 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("T020311000_03_140");
-MsgDisp("Honda","My beloved,
-from now on,
-please stay by my side forever.");
+MsgDisp("Honda","My beloved, from now on, please stay by my
+side forever.");

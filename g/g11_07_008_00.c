@@ -21,8 +21,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("G110700800_07_000");
-MsgDisp("Mikage","｛主人公｝, 
-that's good.");
+MsgDisp("Mikage","｛主人公｝, that's good.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -47,8 +46,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700800_07_040");
-MsgDisp("Mikage","Rain, wind, temperature. You need to take
-all these things into account, you know.");
+MsgDisp("Mikage","Rain, wind, temperature.
+You need to take all these things into
+account, you know.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

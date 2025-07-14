@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030210003_02_000");
-MsgDisp("Sassa","Back in elementary school,
-I was always catching bugs.");
+MsgDisp("Sassa","Back in elementary school, I was always
+catching bugs.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

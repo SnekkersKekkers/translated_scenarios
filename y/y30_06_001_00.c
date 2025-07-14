@@ -3,39 +3,39 @@ BGMPlay("BGM_C06_INORI_B",0.01);
 BGOpen("ad610",0);
 ScrFadeIn(0);
 MsgDisp("","Third year of middle school.
-My classmates were noisily
-talking over a piece of paper.");
-MsgDisp("","It was the career path survey sheet 
-handed out during the homeroom 
-at the end of the day.");
+My classmates were noisily talking
+over a piece of paper.");
+MsgDisp("","It was the career path survey sheet
+handed out during the homeroom at the
+end of the day.");
 MsgClear();
 MsgDisp("","Students at Habataki's Middle School
 generally advance to the high school
 division through the escalator
 system.");
-MsgDisp("","Of course, to advance
-There's required grades in addition, 
-and you need to take a written exam.");
-MsgDisp("","To me, it's like both those 
-hurdles don't exist.");
+MsgDisp("","Of course, to advance There's
+required grades in addition, and you
+need to take a written exam.");
+MsgDisp("","To me, it's like both those hurdles
+don't exist.");
 MsgClear();
 MsgDisp("","On the survey form, other than the
 high school you hope to go to,
 there's a column to enter the name of
 other schools.");
-MsgDisp("","When I received the paper, 
-I immediately circled 'advance 
-onto high school'.");
+MsgDisp("","When I received the paper, I
+immediately circled 'advance onto
+high school'.");
 MsgClear();
 VoicePlay("Y300600100_42_000");
-MsgDisp("Male Student","\"Must be nice to be Himuroー,
-The high school's vice principal 
-is his relative.\"");
+MsgDisp("Male Student","\"Must be nice to be Himuroー, The high
+school's vice principal is his
+relative.\"");
 MsgDisp("","After homeroom endedー, immediately
 after the homeroom teacher left,
 somewhere, a voice called out.");
-MsgDisp("","When I looked up, the class clown 
-was looking at me, smiling happily.");
+MsgDisp("","When I looked up, the class clown was
+looking at me, smiling happily.");
 MsgClear();
 VoicePlay("Y300600100_42_010");
 MsgDisp("Male Student","\"Not only can you get in through
@@ -52,7 +52,7 @@ MsgClear();
 MsgDisp("","To him, he probably meant it as a
 slight joke. That I would pay it no
 mind and keep walking.");
-MsgDisp("","Without knowing how uncomfortable 
+MsgDisp("","Without knowing how uncomfortable
 that topic was for me.");
 MsgClear();
 VoicePlay("Y300600100_06_010");
@@ -87,8 +87,8 @@ curiosity.");
 MsgDisp("","That's how strong of an impression,
 Vice Principal Himuro, my uncle
 Himuro Reiichi, leaves behind.");
-MsgDisp("","He's excellent, he's strict, 
-it would be hard to speak ill of him.");
+MsgDisp("","He's excellent, he's strict, it would
+be hard to speak ill of him.");
 MsgClear();
 MsgDisp("","And so, at the time I entered middle
 school, when my teachers heard that,
@@ -97,8 +97,8 @@ MsgDisp("","But, everyone only looked at the name
 'Himuro' and not me as a person.");
 MsgClear();
 VoicePlay("Y300600100_06_030");
-MsgDisp("Himuro","\"Am I really going to the high
-school division...?\"");
+MsgDisp("Himuro","\"Am I really going to the high school
+division...?\"");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -113,11 +113,11 @@ doubt. But I began to be skeptical of
 my path, And so, the legs that had
 intended to go home, turned towards
 the sea.");
-MsgDisp("","My insignificant existence,
-my insignificant worries.");
-MsgDisp("","When I look at the sea, 
-all that I carry appears small, 
-and I feel light.");
+MsgDisp("","My insignificant existence, my
+insignificant worries.");
+MsgDisp("","When I look at the sea, all that I
+carry appears small, and I feel
+light.");
 MsgClear();
 MsgDisp("","When it comes down to it, the reason
 I started surfing was because I
@@ -139,11 +139,12 @@ MsgDisp("","In that instant, for the first time,
 I felt as though I had a feeling, a
 moment that was unique to me.");
 MsgClear();
-MsgDisp("","——That's right. No matter what other
-people say, I am me.");
-MsgDisp("","Until I prove that to myself, 
-even if I go to another school,
-I won't be satisfied there.");
+MsgDisp("","——That's right.
+No matter what other people say, I am
+me.");
+MsgDisp("","Until I prove that to myself, even if
+I go to another school, I won't be
+satisfied there.");
 MsgDisp("","Proving that to myself at Habataki
 High School, where Reiichi-san is,
 has value.");

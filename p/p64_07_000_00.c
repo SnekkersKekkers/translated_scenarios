@@ -24,17 +24,19 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P640700000_07_030");
-MsgDisp("Mikage","As expected of our gardening club. Too bad
-this is only for the cultural festival.");
+MsgDisp("Mikage","As expected of our gardening club.
+Too bad this is only for the cultural
+festival.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P640700000_07_040");
-MsgDisp("Mikage","SHould we all set up a 
-food stall at the flea market?
+MsgDisp("Mikage","SHould we all set up a food stall at the
+flea market?
 Seems fun, right?");
-MsgDisp("主人公","(｛御影＊＊｝ praised me! I'm glad I gave
-it my all in the preparations!)");
+MsgDisp("主人公","(｛御影＊＊｝ praised me!
+I'm glad I gave it my all in the
+preparations!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

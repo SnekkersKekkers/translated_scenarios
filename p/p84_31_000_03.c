@@ -18,7 +18,7 @@ ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("P843100003_31_020");
 MsgDisp("Goro","You were in charge of materials management
-today right? You've been asked for advice 
+today right? You've been asked for advice
 quite a lot for a while now.");
 MsgDisp("主人公","Ah, yes..");
 ChEye(31,0);

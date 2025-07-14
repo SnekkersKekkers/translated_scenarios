@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMotion(5,3);
     VoicePlay("B030503001_05_010");
-    MsgDisp("Hiiragi","Agreed.
-I wonder what we'll be able to see today.");
+    MsgDisp("Hiiragi","Agreed. I wonder what we'll be able to see
+today.");
     MsgDispSksp(0);
     break ;
     case 1:

@@ -12,8 +12,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("L060300001_03_010");
-MsgDisp("Honda","I thought I'd return the favor
-for Valentine's Day, so here!");
+MsgDisp("Honda","I thought I'd return the favor for
+Valentine's Day, so here!");
 SEPlay("EV_SE_664");
 SEWait();
 MsgDisp("主人公","Huh, for me?");
@@ -21,8 +21,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("L060300001_03_020");
-MsgDisp("Honda","Ah, I wasn't expecting you to be
-so surprised.
+MsgDisp("Honda","Ah, I wasn't expecting you to be so
+surprised.
 Were you not expecting much of a gift?");
 MsgDisp("主人公","Not at all!
 I'm really happy.");

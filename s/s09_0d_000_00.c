@@ -30,8 +30,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("S090D00000_22_020");
-MsgDisp("Hikaru","Fortunes?
-That sounds great, let's all do it!♪");
+MsgDisp("Hikaru","Fortunes? That sounds great, let's all do
+it!♪");
 MsgSel("Sure, let's go!","Not interested.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -39,8 +39,8 @@ switch (MsgSelRsltGet()){
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("S090D00000_21_020");
-    MsgDisp("Michiru","Drawing fortunes on New Years is
-a good goal to have, right?");
+    MsgDisp("Michiru","Drawing fortunes on New Years is a good
+goal to have, right?");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);

@@ -36,7 +36,8 @@ ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
 VoicePlay("Q070400000_04_030");
 MsgDisp("Nanatsumori","Everything's ready.
-Here, come. Next to me.");
+Here, come.
+Next to me.");
 MsgDisp("主人公","Ok.");
 VoicePlay("Q070400000_04_040");
 MsgDisp("Nanatsumori","Please.");
@@ -53,9 +54,8 @@ ChOpen(4,254,0,0,5,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070400000_04_050");
 MsgDisp("Nanatsumori","Woah...... so big.");
-MsgDisp("主人公","True......
-It's feels like I'm really in a foreign 
-country.");
+MsgDisp("主人公","True...... It's feels like I'm really in a
+foreign country.");
 VoicePlay("Q070400000_04_060");
 MsgDisp("Nanatsumori","Yeah......");
 ChEye(4,4);
@@ -75,8 +75,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q070400000_04_090");
-MsgDisp("Nanatsumori","After we climb this tower, 
-Let's go to the next place.");
+MsgDisp("Nanatsumori","After we climb this tower, Let's go to the
+next place.");
 MsgDisp("主人公","Agreed!");
 BGMStop(2);
 MsgClose();
@@ -104,8 +104,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q070400000_04_110");
-MsgDisp("Nanatsumori","The best location overlooking the sea 
-and an Retro architecture.
+MsgDisp("Nanatsumori","The best location overlooking the sea and
+an Retro architecture.
 I'd love to live in a place like this.");
 MsgDisp("主人公","Hehe.
 Maybe it's a bit like Habataki City?");
@@ -121,8 +121,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 ChCheek(4,5);
 VoicePlay("Q070400000_04_130");
-MsgDisp("Nanatsumori","...... It feels a bit embarrassing 
-saying this.");
+MsgDisp("Nanatsumori","...... It feels a bit embarrassing saying
+this.");
 MsgDisp("主人公","Hey, come on.
 I also feel the vibes.");
 ChEye(4,2);
@@ -135,8 +135,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("Q070400000_04_150");
-MsgDisp("Nanatsumori","Well, let's take some more shots here,
-as usual!");
+MsgDisp("Nanatsumori","Well, let's take some more shots here, as
+usual!");
 MsgDisp("主人公","Sure thing!");
 BGMStop();
 MsgClose();

@@ -45,30 +45,28 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10101_07_010");
 MsgDisp("Mikage","Sure.");
-MsgDisp("主人公","Hehe.
-｛御影＊＊｝, what are you doing?");
+MsgDisp("主人公","Hehe. ｛御影＊＊｝, what are you doing?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B330C10101_07_020");
-MsgDisp("Mikage","Causing a ruckus with your friends 
-is one of the true joys of being a 
-high school student isn't it?");
+MsgDisp("Mikage","Causing a ruckus with your friends is one
+of the true joys of being a high school
+student isn't it?");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C10101_06_020");
-MsgDisp("Himuro","Ruckus?
-I don't really get that myself.
+MsgDisp("Himuro","Ruckus? I don't really get that myself.
 Right, Yanosuke-senpai?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10101_05_020");
-MsgDisp("Hiiragi","Mikage-sensei, 
-are you wanting to do some exercise?");
+MsgDisp("Hiiragi","Mikage-sensei, are you wanting to do some
+exercise?");
 ChEye(7,2);
 ChMouth(7,2);
 ChMotion(7,2);
@@ -89,15 +87,14 @@ ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 ChEye(5,4);
 VoicePlay("B330C10101_05_030");
-MsgDisp("Hiiragi","Mikage-sensei really likes 
-animals doesn't he?");
+MsgDisp("Hiiragi","Mikage-sensei really likes animals doesn't
+he?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C10101_06_030");
 MsgDisp("Himuro","Well, he's a biology teacher after all.");
-MsgDisp("主人公","(Hehe!
-｛御影＊＊｝ might be the most
+MsgDisp("主人公","(Hehe! ｛御影＊＊｝ might be the most
 like a high school student?)");
 MsgClose();
 ScrFadeOut(0,0);

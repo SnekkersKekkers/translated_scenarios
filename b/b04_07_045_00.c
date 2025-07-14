@@ -3,9 +3,8 @@ ChLayout(1);
 ChOpen(7,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040704500_07_000");
-MsgDisp("Mikage","As expected, this is the citizen 
-theatre troupe that Habataki City
-can be proud of.");
+MsgDisp("Mikage","As expected, this is the citizen theatre
+troupe that Habataki City can be proud of.");
 MsgSel("It doesn't seem like I can return to reality...","The stage decorations are pretty. ","I'll give them a tip");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,2);
     VoicePlay("B040704500_07_010");
     MsgDisp("Mikage","Me too.
-If I suddenly break into song, 
-please stop me!");
+If I suddenly break into song, please stop
+me!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,7 +39,7 @@ I think so too.");
     ChMotion(7,5);
     VoicePlay("B040704500_07_030");
     MsgDisp("Mikage","Don't give it to them.
-You're not supposed to give or receive 
+You're not supposed to give or receive
 money during class field trips, right～?");
     MsgDateResultDisp();
     break ;

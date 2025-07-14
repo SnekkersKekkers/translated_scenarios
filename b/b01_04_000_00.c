@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm late!
-｛七ツ森＊｝ is... Ah, he's already here!)");
+MsgDisp("主人公","(I'm late! ｛七ツ森＊｝ is... Ah, he's
+already here!)");
 BGMPlay("BGM_C04_NANA_A",0.01);
 switch (ChPrmGet(4,6)){
     case 0:
@@ -63,9 +63,8 @@ Seriously, I was so worried.");
     ChMouth(4,4);
     ChMotion(4,2);
     VoicePlay("B010400000_04_050");
-    MsgDisp("Nanatsumori","Ah...
-No, I'm sorry for yelling.
-I'll keep my cool.");
+    MsgDisp("Nanatsumori","Ah... No, I'm sorry for yelling. I'll keep
+my cool.");
     MsgDispSksp(0);
     break ;
     default :

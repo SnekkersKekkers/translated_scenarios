@@ -12,7 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040218100_02_000");
     MsgDisp("Sassa","I spontaneously got excited whilst
-watching. Shall we run home?");
+watching.
+Shall we run home?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,9 +36,8 @@ It's different to a real matchー.");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B040218100_02_020");
-    MsgDisp("Sassa","Yeah?
-The athlete's point of view
-was quite realistic. ");
+    MsgDisp("Sassa","Yeah? The athlete's point of view was
+quite realistic.");
     MsgDateResultDisp();
     break ;
     default :

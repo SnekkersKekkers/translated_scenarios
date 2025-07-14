@@ -30,8 +30,8 @@ Thank goodness!)");
     ChMotion(4,0);
     VoicePlay("L040400002_04_020");
     MsgDisp("Nanatsumori","Oh, this is......");
-    MsgDisp("主人公","It's a popular chocolate featured
-on Habacha.
+    MsgDisp("主人公","It's a popular chocolate featured on
+Habacha.
 I went a little all out.");
     ChEye(4,0);
     ChMouth(4,3);
@@ -61,23 +61,20 @@ Thank goodness!)");
     ChMouth(4,4);
     ChMotion(4,0);
     VoicePlay("L040400002_04_050");
-    MsgDisp("Nanatsumori","!
-This was hard to get, right?
-It's a pretty popular store, now.");
-    MsgDisp("主人公","If it's for you, ｛七ツ森＊｝,
-then I don't mind a bit of challenge.");
+    MsgDisp("Nanatsumori","! This was hard to get, right? It's a
+pretty popular store, now.");
+    MsgDisp("主人公","If it's for you, ｛七ツ森＊｝, then I
+don't mind a bit of challenge.");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,1);
     VoiceEVSPlay(4);
     VoicePlay("L040400002_04_060");
-    MsgDisp("Nanatsumori","｛主人公｝......
-Woah, I'm super happy.");
+    MsgDisp("Nanatsumori","｛主人公｝...... Woah, I'm super happy.");
     ChMotion(4,0);
     VoicePlay("L040400002_04_070");
-    MsgDisp("Nanatsumori","But......
-I don't know how to say this, but
-you got pretty excited, huh?");
+    MsgDisp("Nanatsumori","But...... I don't know how to say this,
+but you got pretty excited, huh?");
     MsgDisp("主人公","Hehe, I guess?
 But, I wanted you to be happy,
 ｛七ツ森＊｝.");

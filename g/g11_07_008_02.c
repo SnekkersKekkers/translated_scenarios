@@ -6,8 +6,7 @@ VoiceEVSPlay(7);
 VoicePlay("G110700802_07_000");
 MsgDisp("Mikage?","｛主人公｝.");
 SEStop("EV_SE_821",2);
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
-Good morning!");
+MsgDisp("主人公","Ah, ｛御影＊＊｝. Good morning!");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -16,18 +15,19 @@ BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110700802_07_010");
-MsgDisp("Mikage","That's nice. 
+MsgDisp("Mikage","That's nice.
 Do you always talk to them like that?");
-MsgDisp("主人公","Eh, talking? 
+MsgDisp("主人公","Eh, talking?
 I guess I wasn'yt really aware of it......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700802_07_020");
-MsgDisp("Mikage","Isn't that great? They say plants grow
-better if you talk to them.");
-MsgDisp("主人公","Does ｛御影＊＊｝ talk to them all the time
-too?");
+MsgDisp("Mikage","Isn't that great?
+They say plants grow better if you talk to
+them.");
+MsgDisp("主人公","Does ｛御影＊＊｝ talk to them all the
+time too?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

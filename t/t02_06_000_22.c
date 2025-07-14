@@ -16,8 +16,8 @@ VoicePlay("T020600000_06_340");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
-MsgDisp("Himuro","No, 
-it's absurd to just suddenly hug someone.");
+MsgDisp("Himuro","No, it's absurd to just suddenly hug
+someone.");
 VoicePlay("T020600000_06_350");
 ChEye(6,0);
 ChEyeOpenLevel(6,8);
@@ -34,8 +34,8 @@ VoicePlay("T020600000_06_370");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","Actually, 
-I don't intend to let you go again.");
+MsgDisp("Himuro","Actually, I don't intend to let you go
+again.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

@@ -15,9 +15,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30301_01_000");
-MsgDisp("Kazama","Heehー.
-Looks like a new shop is 
-opening over there.");
+MsgDisp("Kazama","Heehー. Looks like a new shop is opening
+over there.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -31,14 +30,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30301_06_000");
-MsgDisp("Himuro","Considering the location, 
-it seems to be a restaurant.");
+MsgDisp("Himuro","Considering the location, it seems to be a
+restaurant.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A30301_01_010");
-MsgDisp("Kazama","If that's the case, a soba 
-restaurant would be nice.");
+MsgDisp("Kazama","If that's the case, a soba restaurant
+would be nice.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -48,8 +47,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330A30301_01_020");
-MsgDisp("Kazama","He already said it
-looks likely to be a restaurant.");
+MsgDisp("Kazama","He already said it looks likely to be a
+restaurant.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -59,12 +58,10 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330A30301_06_010");
-MsgDisp("Himuro","Then I would like an
-instrument or surfing shop.
-...You?");
-MsgDisp("主人公","Hmm....
-Maybe some tasty food you can 
-eat whilst walking around?");
+MsgDisp("Himuro","Then I would like an instrument or surfing
+shop. ...You?");
+MsgDisp("主人公","Hmm.... Maybe some tasty food you can eat
+whilst walking around?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -75,36 +72,32 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B330A30301_02_030");
 MsgDisp("Sassa","Sounds good!
-I'll also switch my answer 
-from sauna to that as well.");
+I'll also switch my answer from sauna to
+that as well.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330A30301_06_020");
-MsgDisp("Himuro","Right.
-Something like Donut Holes 
-would be nice too.");
+MsgDisp("Himuro","Right. Something like Donut Holes would be
+nice too.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B330A30301_02_040");
-MsgDisp("Sassa","You say \"something like\" but
-you already have a target
-in mind don't you.");
+MsgDisp("Sassa","You say \"something like\" but you already
+have a target in mind don't you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30301_06_030");
-MsgDisp("Himuro","Ha? That's fine.
-Someone who changed their answer from
-\"sauna\" shouldn't be talking.");
+MsgDisp("Himuro","Ha? That's fine. Someone who changed their
+answer from \"sauna\" shouldn't be talking.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B330A30301_01_040");
 MsgDisp("Kazama","Wait, wait.
-Isn't there something
-written on the sign?");
+Isn't there something written on the sign?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
@@ -127,16 +120,16 @@ ChClose(6,0,30);
 ChClose(1,0,30);
 ChClose(2,0,30);
 VoicePlay("B330A30301_02_060");
-MsgDisp("Sassa","What, it only has 
-people's names written on it.");
+MsgDisp("Sassa","What, it only has people's names written
+on it.");
 VoicePlay("B330A30301_01_060");
-MsgDisp("Kazama","Well, that just gives us
-something to look forward to.");
+MsgDisp("Kazama","Well, that just gives us something to look
+forward to.");
 VoicePlay("B330A30301_06_050");
 MsgDisp("Himuro","Right.
 But, it doesn't look like a sauna.");
-MsgDisp("主人公","(Hehe, I'm looking 
-forward to when it opens!)");
+MsgDisp("主人公","(Hehe, I'm looking forward to when it
+opens!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

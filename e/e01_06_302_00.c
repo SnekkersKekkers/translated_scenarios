@@ -4,12 +4,11 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to head home.
 ......Huh?)");
 VoicePlay("E010630200_06_000");
-MsgDisp("Himuro?","Reiichi-san,
-What do you think of that Japanese
-sweet shop over there?");
+MsgDisp("Himuro?","Reiichi-san, What do you think of that
+Japanese sweet shop over there?");
 VoicePlay("E010630200_32_000");
-MsgDisp("VP Himuro?","I think if it's that product,
-it'll be good.");
+MsgDisp("VP Himuro?","I think if it's that product, it'll be
+good.");
 MsgDisp("主人公","(That voice......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -42,8 +41,8 @@ MsgDisp("主人公","Hehe, hi?");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("E010630200_32_030");
-MsgDisp("VP Himuro","Alright.
-I'll go ahead and check the sweets shop.");
+MsgDisp("VP Himuro","Alright. I'll go ahead and check the
+sweets shop.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(32);
@@ -54,8 +53,8 @@ ChPosition(6,0);
 VoicePlay("E010630200_06_030");
 MsgDisp("Himuro","Ah-
 ......He's gone.");
-MsgDisp("主人公","It's unusual to see
-Himuro-sensei shopping.");
+MsgDisp("主人公","It's unusual to see Himuro-sensei
+shopping.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -73,18 +72,16 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010630200_06_060");
-MsgDisp("Himuro","I'm sure the banter between
-Himuros is strange anyway.");
+MsgDisp("Himuro","I'm sure the banter between Himuros is
+strange anyway.");
 MsgDisp("主人公","I don't think so.
-It's nice seeing ｛氷室＊＊｝
-be obedient.");
+It's nice seeing ｛氷室＊＊｝ be obedient.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630200_06_070");
-MsgDisp("Himuro","Haa...... This is why I hate
-being seen with Reiichi-san
-in public.");
+MsgDisp("Himuro","Haa...... This is why I hate being seen
+with Reiichi-san in public.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -109,8 +106,8 @@ ChMotion(6,5);
 VoicePlay("E010630200_06_100");
 MsgDisp("Himuro","Wow ∋");
 VoicePlay("E010630200_32_050");
-MsgDisp("VP Himuro","Sorry. That's it for me today.
-I need to hurry back......");
+MsgDisp("VP Himuro","Sorry. That's it for me today. I need to
+hurry back......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -122,8 +119,7 @@ ChMouth(32,0);
 VoicePlay("E010630200_32_060");
 MsgDisp("VP Himuro","We'll be off now.
 Please take care on your way home.");
-MsgDisp("主人公","Okay!
-......See you soon, ｛氷室＊＊｝?");
+MsgDisp("主人公","Okay! ......See you soon, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -135,8 +131,7 @@ BGMStop();
 ChClose(6,0,30);
 ChClose(32,0,30);
 ChPosition(6,0);
-MsgDisp("主人公","(Hehe!
-Infront of Himuro-sensei, ｛氷室＊＊｝
-kinda looks like a lost cat.)");
+MsgDisp("主人公","(Hehe! Infront of Himuro-sensei,
+｛氷室＊＊｝ kinda looks like a lost cat.)");
 MsgClose();
 ScrFadeOut(0,0);

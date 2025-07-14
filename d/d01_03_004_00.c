@@ -27,9 +27,8 @@ MsgDisp("Honda","Right? Aren't swallowtail butterflies
 beautiful? When you close your eyes, you
 can even hear how happy they are.");
 VoicePlay("D010300400_03_030");
-MsgDisp("Honda","These guys all hatched and took off
-at the same time, they're really good
-friends.");
+MsgDisp("Honda","These guys all hatched and took off at the
+same time, they're really good friends.");
 StlEye(3,2);
 StlMouth(3,0);
 VoicePlay("D010300400_03_040");
@@ -38,8 +37,8 @@ MsgDisp("主人公","Hehe, yeah.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300400_03_050");
-MsgDisp("Honda","Come back here again when you're 
-ready to lay eggs!");
+MsgDisp("Honda","Come back here again when you're ready to
+lay eggs!");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -54,8 +53,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("D010300400_03_070");
-MsgDisp("Honda","Yeah, since it's that time of year
-we can see them again in two months.");
+MsgDisp("Honda","Yeah, since it's that time of year we can
+see them again in two months.");
 MsgDisp("主人公","Were you watching over them the whole
 time?");
 ChEye(3,0);
@@ -63,19 +62,19 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D010300400_03_080");
 MsgDisp("Honda","That's right, they were my special
-project. They were hibernating in the 
+project. They were hibernating in the
 Pepper tree in the gardening club.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D010300400_03_090");
 MsgDisp("Honda","It'll get even crazier from now on.
-Since it's the insect season, you can 
-find a lot of insects!");
+Since it's the insect season, you can find
+a lot of insects!");
 MsgDisp("主人公","Y-Yeah.
 That's true......");
 MsgDisp("主人公","(A lot of bugs huh......
-I bet there's a lot of them for 
+I bet there's a lot of them for
 ｛本多＊＊｝ to observe at school......)");
 BGMStop();
 MsgClose();

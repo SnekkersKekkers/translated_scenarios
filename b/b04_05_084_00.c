@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMotion(5,0);
     VoicePlay("B040508400_05_010");
-    MsgDisp("Hiiragi","That's right. As the spring water's
-temperature is stable.");
+    MsgDisp("Hiiragi","That's right.
+As the spring water's temperature is
+stable.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,9 +27,9 @@ temperature is stable.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040508400_05_020");
-    MsgDisp("Hiiragi","It seems bad to say that it's \"off\"
-But it's wonderful that you can enjoy it
-in a manner that's unique to this place. ");
+    MsgDisp("Hiiragi","It seems bad to say that it's \"off\" But
+it's wonderful that you can enjoy it in a
+manner that's unique to this place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

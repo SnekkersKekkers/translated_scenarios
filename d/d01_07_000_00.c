@@ -3,9 +3,8 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 Wait(20,0);
 VoicePlay("D010700000_07_000");
-MsgDisp("Mikage","Alright.
-Once you're finished taking notes, you
-can leave.");
+MsgDisp("Mikage","Alright. Once you're finished taking
+notes, you can leave.");
 SEPlay("EV_SE_666",0.8,0.6);
 VoicePlay("D010700000_42_000");
 MsgDisp("Male Student","It's over, time for food!");
@@ -80,25 +79,26 @@ StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700000_07_060");
-MsgDisp("Mikage","It's Hibiscus tea. It's a great source 
-of vitamin C, gives you energy, and
-beautiful skin.");
+MsgDisp("Mikage","It's Hibiscus tea.
+It's a great source of vitamin C, gives
+you energy, and beautiful skin.");
 MsgDisp("主人公","Thank you so much.
 It's both sweet and sour......
 And very relaxing.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("D010700000_07_070");
-MsgDisp("Mikage","It's my own recipe, so I drizzled a
-little honey in there.");
+MsgDisp("Mikage","It's my own recipe, so I drizzled a little
+honey in there.");
 StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,0);
 VoicePlay("D010700000_07_080");
-MsgDisp("Mikage","Drink it slowly. It will warm your
-stomach and increase your appetite.");
-MsgDisp("主人公","Come to think of it......I'm getting a
-bit hungry now——");
+MsgDisp("Mikage","Drink it slowly.
+It will warm your stomach and increase
+your appetite.");
+MsgDisp("主人公","Come to think of it......I'm getting a bit
+hungry now——");
 StlEye(7,0);
 StlMouth(7,1);
 SEPlay("EV_SE_017");
@@ -112,18 +112,17 @@ MsgDisp("主人公","Ugh......How embarrassing.");
 StlEye(7,1);
 StlMouth(7,0);
 VoicePlay("D010700000_07_100");
-MsgDisp("Mikage","It was a compliment.
-There should still be some bread left
-in the cafeteria. Let's go.");
+MsgDisp("Mikage","It was a compliment. There should still be
+some bread left in the cafeteria. Let's
+go.");
 MsgDisp("主人公","Okay......!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
 StlClose();
 SEPlay("EV_SE_080");
-MsgDisp("主人公","(Weird......
-Thanks to ｛御影＊＊｝, I feel like I got 
-some strength back!)");
+MsgDisp("主人公","(Weird...... Thanks to ｛御影＊＊｝, I
+feel like I got some strength back!)");
 MsgClose();
 SEStop("EV_SE_080");
 PlPrmTblAdd(71);

@@ -13,8 +13,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,4,0,3,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500004_05_010");
-    MsgDisp("Hiiragi","This is a ride that goes round
-and round, Hanatsubaki-san.");
+    MsgDisp("Hiiragi","This is a ride that goes round and round,
+Hanatsubaki-san.");
     break ;
     case 4:
     case 5:
@@ -22,8 +22,8 @@ and round, Hanatsubaki-san.");
     ChOpen(5,255,2,2,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500004_05_020");
-    MsgDisp("Hiiragi","Sounds like a good idea. Okay,
-since we are here, let's have fun.");
+    MsgDisp("Hiiragi","Sounds like a good idea.
+Okay, since we are here, let's have fun.");
     break ;
     default :
     DbgAssert(1);

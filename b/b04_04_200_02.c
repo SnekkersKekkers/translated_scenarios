@@ -37,9 +37,8 @@ switch (MsgSelRsltGet()){
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040420002_04_030");
-        MsgDisp("Nanatsumori","Haa.
-Maybe I should get an 
-instructor to teach meー...");
+        MsgDisp("Nanatsumori","Haa. Maybe I should get an instructor to
+teach meー...");
         ChEye(4,1);
         ChMouth(4,1);
         ChEyeOpenLevel(4,0);
@@ -50,15 +49,14 @@ our date time...");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040420002_04_050");
-        MsgDisp("Nanatsumori","...Hey.
-Is it unattractive to
-not skate coolly?");
+        MsgDisp("Nanatsumori","...Hey. Is it unattractive to not skate
+coolly?");
         MsgDisp("主人公","Hm?");
         ChEye(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040420002_04_060");
-        MsgDisp("Nanatsumori","I mean, both my skiwear and my
-skiing are half-baked.");
+        MsgDisp("Nanatsumori","I mean, both my skiwear and my skiing are
+half-baked.");
         MsgDisp("主人公","Haha...!");
         ChEye(4,4);
         ChMouth(4,2);
@@ -81,11 +79,11 @@ about style and treat it with importance.");
         ChMotion(4,2,1);
         VoicePlay("B040420002_04_090");
         MsgDisp("Nanatsumori","Well yeah?
-If you took that from me,
-I would have nothing left.");
+If you took that from me, I would have
+nothing left.");
         MsgDisp("主人公","That's not true.
-I respect that of you 
-very much, ｛七ツ森＊｝.");
+I respect that of you very much,
+｛七ツ森＊｝.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -98,9 +96,9 @@ very much, ｛七ツ森＊｝.");
         ChMotion(4,3,1);
         ChCheek(4,0);
         VoicePlay("B040420002_04_110");
-        MsgDisp("Nanatsumori","I kind of feel like I've broken 
-through my doubts. I only need to 
-try looking cool at work.");
+        MsgDisp("Nanatsumori","I kind of feel like I've broken through my
+doubts.
+I only need to try looking cool at work.");
         ChEye(4,4);
         VoicePlay("B040420002_04_120");
         MsgDisp("Nanatsumori","You accept me as I am.

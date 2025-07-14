@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     ChMotion(8,3,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("B040804400_08_000");
-    MsgDisp("Shirahane","Yeah!
-Today's performer is a Hane High
+    MsgDisp("Shirahane","Yeah! Today's performer is a Hane High
 Alumnus. That guy is seriously amazing!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -24,9 +23,8 @@ Alumnus. That guy is seriously amazing!");
     ChMouth(8,4);
     ChMotion(8,0,1);
     VoicePlay("B040804400_08_010");
-    MsgDisp("Shirahane","Huh?
-There was a super cool band there,
-did you not notice? ");
+    MsgDisp("Shirahane","Huh? There was a super cool band there,
+did you not notice?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +36,8 @@ did you not notice? ");
     ChMotion(8,2,1);
     VoicePlay("B040804400_08_020");
     MsgDisp("Shirahane","That's disappointing...
-Even though that was an Alumnus from
-Hane High too.");
+Even though that was an Alumnus from Hane
+High too.");
     MsgDateResultDisp();
     break ;
     default :

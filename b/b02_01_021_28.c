@@ -8,8 +8,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102128_01_010");
-MsgDisp("Kazama","Yeah. Thanks to you,
-I realized how good it can look.");
+MsgDisp("Kazama","Yeah. Thanks to you, I realized how good
+it can look.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have started
-to like clothes like these, too!)");
+｛風真＊＊｝ seems to have started to like
+clothes like these, too!)");

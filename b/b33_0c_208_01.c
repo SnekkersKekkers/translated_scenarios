@@ -34,8 +34,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20801_06_010");
 MsgDisp("Himuro","...Right?");
-MsgDisp("主人公","Hehe!
-Maybe ｛御影＊＊｝ is having the most fun?");
+MsgDisp("主人公","Hehe! Maybe ｛御影＊＊｝ is having the
+most fun?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -66,9 +66,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20801_07_020");
-MsgDisp("Mikage","Char and trout were released 
-this morning, so let's catch 
-and eat some.");
+MsgDisp("Mikage","Char and trout were released this morning,
+so let's catch and eat some.");
 ChEye(5,4);
 ChEye(6,0);
 ChMouth(6,4);
@@ -100,9 +99,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B330C20801_07_050");
-MsgDisp("Mikage","Right, it works for catching fish,
-Put the hook into its bottom, 
-then out the head.");
+MsgDisp("Mikage","Right, it works for catching fish, Put the
+hook into its bottom, then out the head.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -113,9 +111,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20801_07_060");
-MsgDisp("Mikage","Yeah, if the needle
-is parallel to the body, 
-the needle will be hidden right?");
+MsgDisp("Mikage","Yeah, if the needle is parallel to the
+body, the needle will be hidden right?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -128,10 +125,9 @@ ChMotion(7,2);
 VoicePlay("B330C20801_07_070");
 MsgDisp("Mikage","It might be too much for a girl.
 Inori, Yanosuke, help me out.");
-MsgDisp("主人公","(...That means we'll alsoeat 
-the fish that ate this bug...
-Yeah, let's not think about it 
-so much and just enjoy it.)");
+MsgDisp("主人公","(...That means we'll alsoeat the fish that
+ate this bug... Yeah, let's not think
+about it so much and just enjoy it.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(5,0);

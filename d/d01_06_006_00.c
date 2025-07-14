@@ -4,8 +4,8 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah......it's from Habacha's editorial
 department.)");
-MsgDisp("主人公","(Let's see, It says \"Surfing exhibition
-in progress at Habataki Beach\"......
+MsgDisp("主人公","(Let's see, It says \"Surfing exhibition in
+progress at Habataki Beach\"......
 Alright, I'll cover it!)");
 MsgClose();
 ScrFadeOut(0);
@@ -17,15 +17,15 @@ BGOpen("wf601",0);
 SEPlay("EV_SE_GAYA_003",0.9);
 ScrFadeIn(0);
 MsgDisp("主人公","(The exhibition was a huge success!
-There are a lot of people in Habataki
-who love surfing......)");
+There are a lot of people in Habataki who
+love surfing......)");
 VoicePlay("D010600600_33_000");
 MsgDisp("Male Customer A","Oh, it's that kid!
-Apparently that guy won the 15 and
-Under category.");
+Apparently that guy won the 15 and Under
+category.");
 VoicePlay("D010600600_39_010");
 MsgDisp("Male Customer B","Yeah, let's go with the flow!");
-MsgDisp("主人公","(Hmm, I guess there's an amazing 
+MsgDisp("主人公","(Hmm, I guess there's an amazing
 candidate......)");
 SEStop("EV_SE_GAYA_003",3);
 SEPlay("EV_SE_GAYA_021",0,0.9);
@@ -56,8 +56,8 @@ crazy!");
 SEPlay("EV_SE_793",0.2,0.5);
 SEPlay("EV_SE_CLAP_004",0,0.5);
 Wait(50,0);
-MsgDisp("主人公","(Wow......!
-｛氷室＊＊｝ is riding the wave!)");
+MsgDisp("主人公","(Wow......! ｛氷室＊＊｝ is riding the
+wave!)");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600600_06_000");
@@ -84,8 +84,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_542");
 SEWait();
 ChOpen(6,31,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Nice work!　You were amazing∈");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝! Nice work! You were
+amazing∈");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -105,25 +105,24 @@ ChMotion(6,0);
 VoicePlay("D010600600_06_030");
 MsgDisp("Himuro","Interview?");
 MsgDisp("主人公","Yeah. I work part-time for Habataki
-Watcher. I'd like to get permission for
-an interview.");
+Watcher. I'd like to get permission for an
+interview.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D010600600_06_040");
-MsgDisp("Himuro","Would interviewing someone like me 
-be interesting?");
+MsgDisp("Himuro","Would interviewing someone like me be
+interesting?");
 MsgDisp("主人公","It would be!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D010600600_06_050");
-MsgDisp("Himuro","Ah, I see. Confident answer.
-Well, if it's on the way home, I don't
-mind.");
-MsgDisp("主人公","Really∋ Thanks!
-Let's get right to it then——");
+MsgDisp("Himuro","Ah, I see. Confident answer. Well, if it's
+on the way home, I don't mind.");
+MsgDisp("主人公","Really∋ Thanks! Let's get right to it
+then——");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -134,16 +133,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600600_06_070");
-MsgDisp("Himuro","Or are you trying to make me go home
-still dressed like this?");
+MsgDisp("Himuro","Or are you trying to make me go home still
+dressed like this?");
 MsgDisp("主人公","Agh, sorry!
 I didn't mean it like that......");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D010600600_06_080");
-MsgDisp("Himuro","......Geez.
-Wait there. I'll be right back.");
+MsgDisp("Himuro","......Geez. Wait there. I'll be right
+back.");
 MsgClose();
 SEPlay("EV_SE_531");
 BGMStop();

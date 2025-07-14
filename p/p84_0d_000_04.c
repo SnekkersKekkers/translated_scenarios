@@ -1,13 +1,13 @@
 ScrFadeIn(0);
 BGMStop();
 VoicePlay("P840D00004_49_000");
-MsgDisp("Mom","Thank you for taking the 
-trouble to look after her.");
+MsgDisp("Mom","Thank you for taking the trouble to look
+after her.");
 VoicePlay("P840D00004_45_000");
 MsgDisp("Girl","Big sis, thank you!");
 MsgDisp("主人公","I'm glad.
-Please be careful to not let go
-of her hand in crowded places.");
+Please be careful to not let go of her
+hand in crowded places.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -21,8 +21,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P840D00004_21_000");
 MsgDisp("Michiru","The school announcements were spot on.
-Because of that, the 
-Mother knew right away.");
+Because of that, the Mother knew right
+away.");
 MsgDisp("主人公","Hehe, thank you!");
 ChEye(21,0);
 ChMouth(21,0);

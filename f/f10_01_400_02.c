@@ -7,8 +7,8 @@ ChOpen(2,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("F100140002_01_000");
-MsgDisp("Kazama","｛主人公｝.
-I solved the mystery of Sassa.");
+MsgDisp("Kazama","｛主人公｝. I solved the mystery of
+Sassa.");
 MsgDisp("主人公","Er, the mystery of ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -20,9 +20,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100140002_01_010");
-MsgDisp("Kazama","Sassa, when you remembered something,
-it was because you were having fun with
-me, right?");
+MsgDisp("Kazama","Sassa, when you remembered something, it
+was because you were having fun with me,
+right?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -32,8 +32,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F100140002_01_020");
-MsgDisp("Kazama","You're sealing up what you don't want
-to remember.");
+MsgDisp("Kazama","You're sealing up what you don't want to
+remember.");
 MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -57,9 +57,9 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F100140002_01_040");
-MsgDisp("Kazama","One day near kindergarten culmination,
-you read a book called 'The Slimy Ghost'
-and started crying.");
+MsgDisp("Kazama","One day near kindergarten culmination, you
+read a book called 'The Slimy Ghost' and
+started crying.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -86,8 +86,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F100140002_01_060");
 MsgDisp("Kazama","Your brain has fondly remembered chasing
-me around, but has concealed your fear
-of 'The Slimy Ghost'.");
+me around, but has concealed your fear of
+'The Slimy Ghost'.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -97,8 +97,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("F100140002_02_070");
-MsgDisp("Sassa","Thinking about it, maybe I can overcome
-my fear with this...
+MsgDisp("Sassa","Thinking about it, maybe I can overcome my
+fear with this...
 Ryota, you're the best!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -108,8 +108,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChPosition(1,0);
 Wait(60,0);
-MsgDisp("主人公","｛颯砂＊＊｝ bawling...
-Did something like that really happen?");
+MsgDisp("主人公","｛颯砂＊＊｝ bawling... Did something like
+that really happen?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

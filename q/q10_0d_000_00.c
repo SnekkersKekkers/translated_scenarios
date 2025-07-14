@@ -18,8 +18,8 @@ ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("Q100D00000_22_000");
 MsgDisp("Hikaru","Why glasses?");
-MsgDisp("主人公","Look, see the reflection on the surface 
-of the river?");
+MsgDisp("主人公","Look, see the reflection on the surface of
+the river?");
 ChEye(22,0);
 ChMouth(22,5);
 ChMotion(22,5,1);
@@ -50,8 +50,8 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("Q100D00000_21_030");
 MsgDisp("Michiru","Not now, though.
-When my uncle showed me an old photo,
-he had them.");
+When my uncle showed me an old photo, he
+had them.");
 MsgDisp("主人公","Huh...... How interesting.");
 MsgClose();
 ScrFadeOut(0);

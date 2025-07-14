@@ -14,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040724101_07_010");
-    MsgDisp("Mikage","That's right. I'm sorry for the 
-sheep, but let's get in the way for 
-a bit and get some fresh air.");
+    MsgDisp("Mikage","That's right.
+I'm sorry for the sheep, but let's get in
+the way for a bit and get some fresh air.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

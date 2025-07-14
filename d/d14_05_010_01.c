@@ -7,5 +7,5 @@ It surprised me.");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("D140501001_05_010");
-MsgDisp("Hiiragi","There are many sides to you that I
-still don't know.");
+MsgDisp("Hiiragi","There are many sides to you that I still
+don't know.");

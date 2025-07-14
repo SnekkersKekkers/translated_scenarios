@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     VoicePlay("B040504300_05_000");
     MsgDisp("Hiiragi","Their art of conversation was amazing.
-With their gestures I could
-discern so many different things.");
+With their gestures I could discern so
+many different things.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -21,8 +21,8 @@ discern so many different things.");
     ChEye(5,4);
     VoicePlay("B040504300_05_010");
     MsgDisp("Hiiragi","Is that so.
-If it wasn't a complete mismatch, 
-would you like to come here again?");
+If it wasn't a complete mismatch, would
+you like to come here again?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

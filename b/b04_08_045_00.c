@@ -10,9 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,3,1);
     VoicePlay("B040804500_08_000");
-    MsgDisp("Shirahane","Yeah... it was super moving...
-I can't believe that their chairman is
-the same age as us...");
+    MsgDisp("Shirahane","Yeah... it was super moving... I can't
+believe that their chairman is the same
+age as us...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,8 +25,7 @@ the same age as us...");
     VoicePlay("B040804500_08_010");
     MsgDisp("Shirahane","That's harsh...
 I thought it was pretty good.
-Their chairman is the same
-age as us too?");
+Their chairman is the same age as us too?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -35,10 +34,9 @@ age as us too?");
     ChMouth(8,2);
     ChMotion(8,4,1);
     VoicePlay("B040804500_08_020");
-    MsgDisp("Shirahane","To go so far as ta say
-\"It was a miss\"... their Chairman
-is the same age as us and he's 
-that impressive...");
+    MsgDisp("Shirahane","To go so far as ta say \"It was a miss\"...
+their Chairman is the same age as us and
+he's that impressive...");
     MsgDateResultDisp();
     break ;
     default :

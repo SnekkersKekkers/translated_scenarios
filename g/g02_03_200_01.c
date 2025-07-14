@@ -21,20 +21,21 @@ ChMotion(3,4);
 VoicePlay("G020320001_03_030");
 MsgDisp("Honda","So now, I'm honestly confused by this new
 feeling inside me");
-MsgDisp("主人公","｛本多＊＊｝,
-are you jealous of someone?");
+MsgDisp("主人公","｛本多＊＊｝, are you jealous of someone?");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320001_03_040");
-MsgDisp("Honda","......Yeah, maybe. But the tricky part is
-that I also like that person.");
+MsgDisp("Honda","......Yeah, maybe.
+But the tricky part is that I also like
+that person.");
 MsgDisp("主人公","That's complicated, huh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020320001_03_050");
-MsgDisp("Honda","Right, right! It's super complicated.");
+MsgDisp("Honda","Right, right!
+It's super complicated.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -49,9 +50,9 @@ MsgDisp("Honda","But if that comes true then I......");
 MsgDisp("主人公","｛本多＊＊｝......");
 ChSet(3,3);
 VoicePlay("G020320001_03_080");
-MsgDisp("Honda","But this is the first time in my life 
-I've encountered something that makes
-me feel so conflicted and hurt.");
+MsgDisp("Honda","But this is the first time in my life I've
+encountered something that makes me feel
+so conflicted and hurt.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

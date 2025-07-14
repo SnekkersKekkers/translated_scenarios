@@ -25,8 +25,8 @@ MsgDisp("Woman A","One more, please.");
 SEPlay("EV_SE_045");
 MsgDisp("","(Flash)");
 MsgDisp("主人公","(That's the quiz king.
-Lots of people are watching ｛本多＊＊｝ 
-on TV, huh......)");
+Lots of people are watching ｛本多＊＊｝ on
+TV, huh......)");
 VoicePlay("Q070301000_46_020");
 MsgDisp("Woman A","You did it!");
 VoicePlay("Q070301000_47_010");
@@ -49,14 +49,14 @@ VoicePlay("Q070301000_03_010");
 MsgDisp("Honda","｛主人公｝, sorry for keeping you
 waiting.");
 MsgDisp("主人公","No, I'm fine.
-But it really is impressive that so many 
+But it really is impressive that so many
 know about you, ｛本多＊＊｝.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("Q070301000_03_020");
-MsgDisp("Honda","Yeah......
-I don't mind being asked questions by 
-the kids in Habataki, but......");
+MsgDisp("Honda","Yeah...... I don't mind being asked
+questions by the kids in Habataki,
+but......");
 StlEye(3,0,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5,1);
@@ -76,17 +76,16 @@ MsgDisp("Woman C","They said he was around here, right?");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("Q070301000_44_000");
-MsgDisp("Woman D","Yeah.
-I wonder where the quiz king is......");
+MsgDisp("Woman D","Yeah. I wonder where the quiz king
+is......");
 StlEye(3,1);
 StlMouth(3,1);
-MsgDisp("主人公"," ｛本多＊＊｝?");
+MsgDisp("主人公","｛本多＊＊｝?");
 StlEye(3,3);
 StlMouth(3,2);
 VoicePlay("Q070301000_03_050");
-MsgDisp("Honda","Shush.
-If you don't turn around like this, they 
-won't know, okay?");
+MsgDisp("Honda","Shush. If you don't turn around like this,
+they won't know, okay?");
 MsgDisp("主人公","Eh?");
 StlEye(3,2);
 StlMouth(3,1);
@@ -112,11 +111,10 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q070301000_03_080");
-MsgDisp("Honda","For me, the most important is spending
-the free period with you.
+MsgDisp("Honda","For me, the most important is spending the
+free period with you.
 Come on, let's go!");
-MsgDisp("主人公","Yeah!
-Thanks, ｛本多＊＊｝.");
+MsgDisp("主人公","Yeah! Thanks, ｛本多＊＊｝.");
 MsgClose();
 BGMStop();
 MsgClose();

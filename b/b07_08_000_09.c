@@ -1,13 +1,13 @@
-MsgDisp("主人公","Hey, I'm going to ask you
-something seriously...");
+MsgDisp("主人公","Hey, I'm going to ask you something
+seriously...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_470");
 MsgDisp("Shirahane","Yeah?
 What's with the serious turn?");
-MsgDisp("主人公","｛大地＊＊｝, 
-what do you think about love?");
+MsgDisp("主人公","｛大地＊＊｝, what do you think about
+love?");
 ChEye(8,5);
 ChMouth(8,5);
 ChMotion(8,1,1);
@@ -30,8 +30,8 @@ ChMotion(8,0,1);
 VoicePlay("B070800000_08_510");
 MsgDisp("Shirahane","What about you?
 What do ya think about love?");
-MsgDisp("主人公","Hey. It's not me being asked...
-I'm asking ｛大地＊＊｝, right?");
+MsgDisp("主人公","Hey. It's not me being asked... I'm asking
+｛大地＊＊｝, right?");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);

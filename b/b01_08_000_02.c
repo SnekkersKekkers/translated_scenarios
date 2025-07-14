@@ -1,10 +1,9 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like I'm a little bit early...
-Huh? ｛大地＊＊｝ is already here!)");
-MsgDisp("主人公","｛大地＊＊｝!
-You're really early.");
+MsgDisp("主人公","(Looks like I'm a little bit early... Huh?
+｛大地＊＊｝ is already here!)");
+MsgDisp("主人公","｛大地＊＊｝! You're really early.");
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
 ChOpen(8,253,0,0,4,#1,#1,0,0);
@@ -26,6 +25,6 @@ ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 ChCheek(8,5);
 VoicePlay("B010800002_08_020");
-MsgDisp("Shirahane","It'd make me real happy
-if ya thought the same way about it.");
+MsgDisp("Shirahane","It'd make me real happy if ya thought the
+same way about it.");
 MsgDispSksp(0);

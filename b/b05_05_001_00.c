@@ -9,16 +9,16 @@ ScrFadeIn(0);
 ChMouth(5,3);
 ChMotion(5,4);
 VoicePlay("B050500100_05_000");
-MsgDisp("Hiiragi","I thought you weren't very good with
-this sort of thing?");
-MsgDisp("主人公","That may be true, but my legs
-just brought me here......");
+MsgDisp("Hiiragi","I thought you weren't very good with this
+sort of thing?");
+MsgDisp("主人公","That may be true, but my legs just brought
+me here......");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B050500100_05_010");
 MsgDisp("Hiiragi","That's fine.
-Let's find whatever it is you're 
+Let's find whatever it is you're
 subconsciously searching for.");
 MsgDisp("主人公","Y-Yeah.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -57,8 +57,8 @@ StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("B050500100_05_040");
 MsgDisp("Hiiragi","First of all......
-The right side should be wrapped
-over the left when you're dead.");
+The right side should be wrapped over the
+left when you're dead.");
 StlEyeOpenLevel(5,5);
 SEPlay("EV_SE_623",0.3);
 SEWait();
@@ -68,8 +68,8 @@ MsgDisp("主人公","｛柊＊＊＊｝?");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("B050500100_05_050");
 MsgDisp("Hiiragi","I couldn't help but notice.
-Even in a broad sense, professionally
-we aren't on the same level. ");
+Even in a broad sense, professionally we
+aren't on the same level.");
 StlEyeOpenLevel(5,5,1);
 SEPlay("EV_SE_552",0,0.8);
 SEWait();
@@ -91,7 +91,8 @@ There's also room for improvement in the
 timing of your appearance.");
 VoicePlay("B050500100_39_040");
 MsgDisp("Ghost","Ah, yes......
-Thank you so much. P-Please excuse me.");
+Thank you so much.
+P-Please excuse me.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
@@ -114,8 +115,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B050500100_05_090");
 MsgDisp("Hiiragi","What about you?
 I didn't spoil your fun, did I?");
-MsgDisp("主人公","Ah, I guess because of 
-｛柊＊＊＊｝ it was
+MsgDisp("主人公","Ah, I guess because of ｛柊＊＊＊｝ it was
 a bit less scary?");
 ChMouth(5,2);
 ChMotion(5,4);

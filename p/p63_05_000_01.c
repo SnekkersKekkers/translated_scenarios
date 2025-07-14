@@ -15,10 +15,9 @@ well-received...)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P630500001_05_000");
-    MsgDisp("Hiiragi","｛主人公｝.
-I see that you're working hard.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-Welcome.");
+    MsgDisp("Hiiragi","｛主人公｝. I see that you're working
+hard.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Welcome.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -55,33 +54,32 @@ well-received...)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P630500001_05_040");
-    MsgDisp("Hiiragi","｛主人公｝,
-The store seems to be popular, yes?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-Welcome.");
+    MsgDisp("Hiiragi","｛主人公｝, The store seems to be
+popular, yes?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Welcome.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P630500001_05_050");
     MsgDisp("Hiiragi","Maybe I should have came by earlier.");
     MsgDisp("主人公","It's alright.
-Because there's still lots of both
-herb tea and vegetables!");
+Because there's still lots of both herb
+tea and vegetables!");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P630500001_05_060");
     MsgDisp("Hiiragi","Was it all grown by the 
 Gardening Club?");
-    MsgDisp("主人公","Yes. The summer
-vegetables are still delicious.");
+    MsgDisp("主人公","Yes. The summer vegetables are still
+delicious.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P630500001_05_070");
     MsgDisp("Hiiragi","I look forward to it.
-I was able to see the face 
-of the producer up close.");
+I was able to see the face of the producer
+up close.");
     MsgDisp("主人公","Yes, please buy some♪
 Entry for one customer!");
     MsgClose();

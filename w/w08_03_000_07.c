@@ -14,8 +14,8 @@ Okay.");
     ChOpen(3,255,0,0,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300007_03_010");
-    MsgDisp("Honda","An interesting idea but, isn't
-this an unusual combination?");
+    MsgDisp("Honda","An interesting idea but, isn't this an
+unusual combination?");
     break ;
     case 4:
     case 5:

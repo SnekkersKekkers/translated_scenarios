@@ -21,9 +21,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("B150100300_01_020");
-MsgDisp("Kazama","Hey, you know it's been 10 years 
-since we've last met, but
-neither me or you are 
+MsgDisp("Kazama","Hey, you know it's been 10 years since
+we've last met, but neither me or you are
 the same as back then.");
 MsgDisp("主人公","Y-Yeah.
 I know that.");
@@ -38,22 +37,20 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100300_01_040");
-MsgDisp("Kazama","Haa...
-Listen, we're basically in front of
-your house. What would you
-do if your family saw you?");
-MsgDisp("主人公","Ah... I would probably 
-be a bit embarrassed.");
+MsgDisp("Kazama","Haa... Listen, we're basically in front of
+your house. What would you do if your
+family saw you?");
+MsgDisp("主人公","Ah... I would probably be a bit
+embarrassed.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,9);
 VoicePlay("B150100300_01_050");
-MsgDisp("Kazama","Right?
-That's why you should stop here.
-If you understand, go home already.");
-MsgDisp("主人公","Sorry, ｛風真＊＊｝.
-I'll be careful to not do it again.");
+MsgDisp("Kazama","Right? That's why you should stop here. If
+you understand, go home already.");
+MsgDisp("主人公","Sorry, ｛風真＊＊｝. I'll be careful to
+not do it again.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -68,12 +65,11 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("B150100300_01_070");
-MsgDisp("Kazama","Haa... I'm going crazy.
-See you.
-I'll cool my head as I go home.");
+MsgDisp("Kazama","Haa... I'm going crazy. See you. I'll cool
+my head as I go home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(I wonder if I've
-troubled ｛風真＊＊｝...)");
+MsgDisp("主人公","(I wonder if I've troubled ｛風真＊＊｝...
+)");
 MsgClose();
 ScrFadeOut(0,0);

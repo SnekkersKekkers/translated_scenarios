@@ -7,8 +7,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B320A00002_01_000");
-MsgDisp("Kazama","Being early is fine, but just 
-how early did you arrive?");
+MsgDisp("Kazama","Being early is fine, but just how early
+did you arrive?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

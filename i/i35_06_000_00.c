@@ -7,8 +7,7 @@ switch (ChPrmGet(6,6)){
     case 2:
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
-    MsgDisp("主人公","Welcome!
-Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Welcome! Ah, ｛氷室＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
@@ -31,16 +30,15 @@ You didn't come here to order?");
     MsgClose();
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_030");
-    MsgDisp("Himuro","It sucks to have to serve
-people you know.
+    MsgDisp("Himuro","It sucks to have to serve people you know.
 For both of us.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(6);
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(I guess ｛氷室＊＊｝ is looking
-out for me in his own way?)");
+    MsgDisp("主人公","(I guess ｛氷室＊＊｝ is looking out for me
+in his own way?)");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_014");
@@ -57,8 +55,8 @@ out for me in his own way?)");
     ChMotion(6,1);
     VoicePlay("I350600000_06_050");
     MsgDisp("Himuro","Not \"ah\".
-I came as a customer,
-so treat me properly.");
+I came as a customer, so treat me
+properly.");
     MsgDisp("主人公","My apologies!
 Please follow me to your seat.");
     ChEye(6,0);
@@ -92,8 +90,7 @@ Come on, hurry up.");
     case 5:
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
-    MsgDisp("主人公","Welcome!
-Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Welcome! Ah, ｛氷室＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
@@ -130,8 +127,7 @@ has it calmed down a little?)");
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_130");
     MsgDisp("Himuro","Thanks.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Thank you very much.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Thank you very much.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -142,9 +138,9 @@ Thank you very much.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I350600000_06_150");
-    MsgDisp("Himuro","If you serve customers with
-a face like that, someone's going to 
-misunderstand you.");
+    MsgDisp("Himuro","If you serve customers with a face like
+that, someone's going to misunderstand
+you.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
     ChMouth(6,0);

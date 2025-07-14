@@ -14,8 +14,7 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,3);
     VoiceEVSPlay(5);
     VoicePlay("H1A0500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝,
-congratulations.");
+    MsgDisp("Hiiragi","｛主人公｝, congratulations.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, we did it!
 We won.");
     ChEye(5,3);
@@ -28,16 +27,15 @@ The team is the very epitome of teamwork.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("H1A0500000_05_020");
-    MsgDisp("Hiiragi","As manager, I'm sure you
-contributed no small amount to that
-as well.");
+    MsgDisp("Hiiragi","As manager, I'm sure you contributed no
+small amount to that as well.");
     MsgDisp("主人公","No, not at all.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("H1A0500000_05_030");
-    MsgDisp("Hiiragi","Is that so? It seems as though the
-players are currently looking for you.
-Would you not say that is proof enough?");
+    MsgDisp("Hiiragi","Is that so? It seems as though the players
+are currently looking for you. Would you
+not say that is proof enough?");
     MsgDisp("主人公","Ah...... yes.
 I'm so happy......");
     ChEye(5,3);
@@ -46,8 +44,8 @@ I'm so happy......");
     MsgDisp("Hiiragi","Rather than me, please show those
 beautiful tears to the players.");
     MsgDisp("主人公","Yes, thank you, ｛柊＊＊＊｝!");
-    MsgDisp("主人公","(I'm glad that I stayed as
-the baseball club manager......!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball
+club manager......!)");
     break ;
     default :
     DbgAssert(1);

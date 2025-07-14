@@ -11,8 +11,8 @@ BGOpen("fp200",2);
 BGMPlay("BGM_HOTARU",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(The home of the fireflies...
-It's said that you can hear the voices
-of your partner's heart here...)");
+It's said that you can hear the voices of
+your partner's heart here...)");
 MsgClose();
 ScrFadeOut(0);
 Wait(60);

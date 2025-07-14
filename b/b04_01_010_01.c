@@ -29,8 +29,8 @@ judgement.");
     ChEyeOpenLevel(1,#1);
     VoicePlay("B040101001_01_020");
     MsgDisp("Kazama","Don't 'I'm not sure' me.
-If you want to say no,
-say it loud and clear.");
+If you want to say no, say it loud and
+clear.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +42,7 @@ say it loud and clear.");
     ChMotion(1,3,1);
     VoicePlay("B040101001_01_030");
     MsgDisp("Kazama","Haha, right?
-But I'd like to see you wearing
-it anyway.");
+But I'd like to see you wearing it anyway.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

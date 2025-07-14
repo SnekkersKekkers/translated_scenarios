@@ -8,8 +8,8 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B030508000_05_000");
-MsgDisp("Hiiragi","The first cherry blossom bloom of the
-year is waiting for us.
+MsgDisp("Hiiragi","The first cherry blossom bloom of the year
+is waiting for us.
 My heart is already getting uneasy.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah, I'm looking forward to it.

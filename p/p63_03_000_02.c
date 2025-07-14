@@ -9,35 +9,33 @@ switch (ChPrmGet(3,6)){
     break ;
     case 3:
     MsgDisp("主人公","(This year we're doing an organic cafe.
-It's a culmination of my efforts
-in the Gardening Club...)");
+It's a culmination of my efforts in the
+Gardening Club...)");
     MsgClose();
     ChOpen(3,254,5,5,3,#1,#1,0,0);
     VoicePlay("P630300002_03_000");
     MsgDisp("Honda","Eh!
 It's like a real cafe.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-Welcome.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. Welcome.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("P630300002_03_010");
     MsgDisp("Honda","The Gardening Club is amazing.");
-    MsgDisp("主人公","Hehe.
-We're serving meals made with the
+    MsgDisp("主人公","Hehe. We're serving meals made with the
 herbs and vegetables we grew.");
     ChSet(3,3);
     VoicePlay("P630300002_03_020");
     MsgDisp("Honda","Yep yep, sounds nice.
 Then, I would like some at once!");
-    MsgDisp("主人公","Certainly!
-Then, I'll lead you to your seat.");
+    MsgDisp("主人公","Certainly! Then, I'll lead you to your
+seat.");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(This year we're doing an organic cafe.
-It's a culmination of my efforts
-in the Gardening Club...)");
+It's a culmination of my efforts in the
+Gardening Club...)");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
@@ -57,10 +55,9 @@ It's a wonderful open air cafe, huh?");
     ChMotion(3,4,1);
     VoicePlay("P630300002_03_050");
     MsgDisp("Honda","Yep yep.
-I want to have tea together,
-how about it?");
-    MsgDisp("主人公","I'm staff, so it's not
-possible right now. I'm sorry.");
+I want to have tea together, how about it?");
+    MsgDisp("主人公","I'm staff, so it's not possible right now.
+I'm sorry.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,5,1);

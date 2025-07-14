@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040318300_03_000");
     MsgDisp("Honda","Yep yep, the bestー!
-I felt as if I had become
-the main character.");
+I felt as if I had become the main
+character.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,8 +24,8 @@ the main character.");
     ChMotion(3,1);
     VoicePlay("B040318300_03_010");
     MsgDisp("Honda","That's right.
-I wanted to focus more on the story
-rather than the 4D experience.");
+I wanted to focus more on the story rather
+than the 4D experience.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -6,9 +6,9 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040108100_01_000");
-MsgDisp("Kazama","It's great, seeing the sakura trees.
+MsgDisp("Kazama","It's great, seeing the cherry blossom trees.
 It finally feels like I'm really back.");
-MsgSel("｛風真＊＊｝, the flurry of cherry blossoms around you suits you","Cherry blossoms are so fleeting...","I want to eat some delicious sakura mochi");
+MsgSel("｛風真＊＊｝, the flurry of cherry blossoms around you suits you.","Cherry blossoms are so fleeting...","I want to eat some delicious cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -46,8 +46,9 @@ Is this where I'm supposed to laugh?");
     ChMotion(1,3);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040108100_01_030");
-    MsgDisp("Kazama","Yes yes, I know. It's a relief to see you
-the same as always.");
+    MsgDisp("Kazama","Yes yes, I know.
+It's a relief to see you the same as
+always.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     ChEye(1,0);

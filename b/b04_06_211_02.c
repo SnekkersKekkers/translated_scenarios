@@ -71,8 +71,8 @@ I thought we were brother and sister.");
         ChCheek(6,0);
         VoicePlay("B040621102_06_070");
         MsgDisp("Himuro","Haa...I see.
-At any rate, I'm the younger 
-brother right? ");
+At any rate, I'm the younger brother
+right?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
@@ -88,16 +88,14 @@ Come on, let's go then big sister.");
         ChOpen(6,253,4,0,0,#1,#1,0,0);
         VoicePlay("B040621102_06_090");
         MsgDisp("Himuro","Is something wrong?");
-        MsgDisp("主人公","Waa!
-Y-You're so close, ｛氷室＊＊｝!");
+        MsgDisp("主人公","Waa! Y-You're so close, ｛氷室＊＊｝!");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040621102_06_100");
-        MsgDisp("Himuro","Really?
-That's only normal. 
-We're siblings after all.");
+        MsgDisp("Himuro","Really? That's only normal. We're siblings
+after all.");
         MsgDisp("主人公","(Is ｛氷室＊＊｝ angry...?)");
         break ;
         default :

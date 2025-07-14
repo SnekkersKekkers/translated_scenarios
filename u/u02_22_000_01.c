@@ -20,8 +20,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("U022200001_22_020");
-MsgDisp("Hikaru","I'm cuter and cooler and smarter
-than most people in the world, you know?");
+MsgDisp("Hikaru","I'm cuter and cooler and smarter than most
+people in the world, you know?");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);

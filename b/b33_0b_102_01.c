@@ -24,8 +24,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10201_03_000");
-MsgDisp("Honda","The aquarium has been designed so
-that the little fish move in groups.");
+MsgDisp("Honda","The aquarium has been designed so that the
+little fish move in groups.");
 MsgDisp("主人公","Heeh, is that so!");
 ChEye(1,0);
 ChMouth(1,0);
@@ -38,8 +38,8 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10201_01_010");
-MsgDisp("Kazama","I don't lack that much
-common sense, you know.");
+MsgDisp("Kazama","I don't lack that much common sense, you
+know.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -94,8 +94,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330B10201_01_040");
-MsgDisp("Kazama","Nanatsumori.
-I specialize in lure fishing 
+MsgDisp("Kazama","Nanatsumori. I specialize in lure fishing
 so don't worry.");
 ChEye(4,2);
 ChMouth(4,4);
@@ -106,19 +105,18 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B330B10201_03_040");
-MsgDisp("Honda","But the lures sure are well 
-made aren't they? You could even 
-mistake them for the real thing.");
+MsgDisp("Honda","But the lures sure are well made aren't
+they? You could even mistake them for the
+real thing.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B10201_01_050");
-MsgDisp("Kazama","There are two ways to go 
-about it: making it look like 
-the real thing, and making it 
+MsgDisp("Kazama","There are two ways to go about it: making
+it look like the real thing, and making it
 stand out in a flashy way.");
-MsgDisp("主人公","(Before I knew it, we were 
-talking about fishing...)");
+MsgDisp("主人公","(Before I knew it, we were talking about
+fishing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

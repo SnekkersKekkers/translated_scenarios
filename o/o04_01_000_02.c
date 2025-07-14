@@ -29,10 +29,10 @@ If only I had thrown one more......)");
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040100002_01_020");
-    MsgDisp("Kazama","Well, as long as we're still
-unbeatable, then it's okay.");
-    MsgDisp("主人公","(Hm...... we definitely didn't lose,
-but I wish we had won.)");
+    MsgDisp("Kazama","Well, as long as we're still unbeatable,
+then it's okay.");
+    MsgDisp("主人公","(Hm...... we definitely didn't lose, but I
+wish we had won.)");
     break ;
     default :
     DbgAssert(1);

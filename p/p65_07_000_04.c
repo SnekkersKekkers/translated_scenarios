@@ -9,8 +9,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("P650700004_07_010");
-MsgDisp("Mikage","Did you see the faces of the
-people who bought some to take home?
+MsgDisp("Mikage","Did you see the faces of the people who
+bought some to take home?
 You made them smile.");
 ChEye(7,0);
 ChMouth(7,0);

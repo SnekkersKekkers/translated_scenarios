@@ -17,9 +17,9 @@ Wait(10,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020110201_01_020");
-MsgDisp("Kazama","But the same goes for us, you know? It
-took a whole bunch of miracles to get us
-here.");
+MsgDisp("Kazama","But the same goes for us, you know?
+It took a whole bunch of miracles to get
+us here.");
 MsgDisp("主人公","Haha, yeah.");
 ChEye(1,2);
 ChMouth(1,3);
@@ -41,17 +41,16 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_050");
 MsgDisp("Kazama","You're gonna talk about me being your
-childhood friend or your classmate,
-right? Yeah, miracles, but coincidences
-too.");
+childhood friend or your classmate, right?
+Yeah, miracles, but coincidences too.");
 ChMotion(1,0);
 Wait(10,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("G020110201_01_060");
 MsgDisp("Kazama","But, you know, past this point, just
-waiting isn't good enough. You gotta go to
-take what you want, yeah?");
+waiting isn't good enough.
+You gotta go to take what you want, yeah?");
 MsgDisp("主人公","Uh......?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);

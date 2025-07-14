@@ -31,8 +31,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130100_01_040");
-MsgDisp("Kazama","It's basically the same thing. It's always
-bustling around you at school.");
+MsgDisp("Kazama","It's basically the same thing.
+It's always bustling around you at school.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);

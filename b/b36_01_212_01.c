@@ -15,8 +15,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360121201_01_010");
-MsgDisp("Kazama","Right, I'm talking about whether
-they'll notice you here or not.");
+MsgDisp("Kazama","Right, I'm talking about whether they'll
+notice you here or not.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -29,8 +29,7 @@ ChMotion(1,4);
 VoicePlay("B360121201_01_030");
 MsgDisp("Kazama","I feel like someone's
 looking at me.");
-MsgDisp("主人公","Hehe ｛風真＊＊｝,
-Don't you want to hang
+MsgDisp("主人公","Hehe ｛風真＊＊｝, Don't you want to hang
 out with everyone?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -72,8 +71,8 @@ Plushies?");
 MsgClose();
 ChOpen(1,255,0,4,3,#1,#1,0,0);
 VoicePlay("B360121201_01_080");
-MsgDisp("Kazama","Yeah, every one of them
-is looking this way wistfully.");
+MsgDisp("Kazama","Yeah, every one of them is looking this
+way wistfully.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -81,8 +80,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B360121201_01_090");
 MsgDisp("Kazama","Is this a day where 
 we can't be alone?");
-MsgDisp("主人公","(Hehe, ｛風真＊＊｝
-really does like them...)");
+MsgDisp("主人公","(Hehe, ｛風真＊＊｝ really does like
+them...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

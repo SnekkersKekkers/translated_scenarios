@@ -12,6 +12,7 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402114_04_010");
 MsgDisp("Nanatsumori","Definitely fitting.
-You get a passing grade. In fashion.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes like
-these, too!)");
+You get a passing grade.
+In fashion.");
+MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes
+like these, too!)");

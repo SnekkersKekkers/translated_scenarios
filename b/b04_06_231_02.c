@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623102_06_010");
-        MsgDisp("Himuro","...Right, there's no need to 
-force yourself to ride it.");
+        MsgDisp("Himuro","...Right, there's no need to force
+yourself to ride it.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -37,9 +37,8 @@ force yourself to ride it.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623102_06_030");
-        MsgDisp("Himuro","Could it be that you've been
-forcing yourself to ride it
-until this point too?");
+        MsgDisp("Himuro","Could it be that you've been forcing
+yourself to ride it until this point too?");
         MsgDisp("主人公","It's not like that but...");
         ChEye(6,0);
         ChMouth(6,0);
@@ -99,10 +98,9 @@ upgrade after all.");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("B040623102_06_110");
-    MsgDisp("Himuro","It might be good to take
-action. If there's a lot of 
-demand, They might come up with 
-a plan to improve it.");
+    MsgDisp("Himuro","It might be good to take action.
+If there's a lot of demand, They might
+come up with a plan to improve it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

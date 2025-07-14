@@ -13,17 +13,15 @@ ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("P840400002_04_000");
 MsgDisp("Nanatsumori","Heeh,
 you're thoroughly prepared.");
-MsgDisp("主人公","No.
-I had lent them to the drama club, 
-so I asked them to return them.");
+MsgDisp("主人公","No. I had lent them to the drama club, so
+I asked them to return them.");
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P840400002_04_010");
 MsgDisp("Nanatsumori","I see. This is because it's been carefully
 managed. As expected.");
-MsgDisp("主人公","Hehe.
-Nothing will come of if even 
-if you praise me you know?");
+MsgDisp("主人公","Hehe. Nothing will come of if even if you
+praise me you know?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -36,8 +34,7 @@ ChMotion(4,2,1);
 VoicePlay("P840400002_04_030");
 MsgDisp("Nanatsumori","...Is the student council's green tea
 okay?");
-MsgDisp("主人公","Hehe!
-Never mind that, leave it to me.
+MsgDisp("主人公","Hehe! Never mind that, leave it to me.
 ｛七ツ森＊｝, just sit there, okay?");
 ChEye(4,5);
 ChMouth(4,4);
@@ -45,9 +42,8 @@ ChMotion(4,0,1);
 VoicePlay("P840400002_04_040");
 MsgDisp("Nanatsumori","Ohh...
 Capable girls hit different.");
-MsgDisp("主人公","(Hehe!
-I want ｛七ツ森＊｝ and everyone to enjoy 
-the festival to the fullest!)");
+MsgDisp("主人公","(Hehe! I want ｛七ツ森＊｝ and everyone
+to enjoy the festival to the fullest!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

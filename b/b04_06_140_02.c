@@ -5,8 +5,8 @@ ChMouth(6,3);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040614002_06_000");
-MsgDisp("Himuro","To think that the third song was 
-arranged into a ballad....
+MsgDisp("Himuro","To think that the third song was arranged
+into a ballad....
 I can't believe it.");
 MsgSel("Was the original different?","It doesn't suit it, huh?","It wasn't bad.");
 switch (MsgSelRsltGet()){
@@ -39,9 +39,9 @@ But, I didn't feel out of place.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040614002_06_030");
-        MsgDisp("Himuro","I see. 
-So first time listeners can listen 
-to it without any problems.");
+        MsgDisp("Himuro","I see.
+So first time listeners can listen to it
+without any problems.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,4);
@@ -97,9 +97,8 @@ a conversation on this same topic.");
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040614002_06_090");
-    MsgDisp("Himuro","Yeah.
-It completely changed the impression, 
-but it wasn't bad.");
+    MsgDisp("Himuro","Yeah. It completely changed the
+impression, but it wasn't bad.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

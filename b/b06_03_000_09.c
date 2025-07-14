@@ -7,6 +7,6 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B060300009_03_000");
 MsgDisp("Honda","That wasn't so good, huh?
-I'll learn from this experience for 
-next time.");
+I'll learn from this experience for next
+time.");
 MsgDispSksp(0);

@@ -23,10 +23,10 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("D020800300_08_020");
 MsgDisp("Shirahane","You know, yesterday I got into a fight
-with my sister. The three of us got
-into a big mess.");
-MsgDisp("主人公","Eh?
-｛大地＊＊｝, you live with your siblings?");
+with my sister.
+The three of us got into a big mess.");
+MsgDisp("主人公","Eh? ｛大地＊＊｝, you live with your
+siblings?");
 ChCheek(8,0);
 ChEye(8,3);
 ChMouth(8,3);
@@ -36,14 +36,14 @@ MsgDisp("Shirahane","Bet. Me and my bro live together in sis'
 apartment.");
 MsgDisp("主人公","You have a brother too!
 I didn't know that......");
-MsgDisp("主人公","(Now that I think about it, isn't 
-there also someone named \"Shirahane\"
-working at Habacha?)");
+MsgDisp("主人公","(Now that I think about it, isn't there
+also someone named \"Shirahane\" working at
+Habacha?)");
 ChMotion(8,0,1);
 VoicePlay("D020800300_08_040");
-MsgDisp("Shirahane","Bro and Sis usually speak normal
-Japanese, but when they're home they
-also speak like this.");
+MsgDisp("Shirahane","Bro and Sis usually speak normal Japanese,
+but when they're home they also speak like
+this.");
 MsgDisp("主人公","Oh......");
 ChEye(8,3);
 ChMouth(8,4);
@@ -59,11 +59,11 @@ ChEyeOpenLevel(8,0);
 VoiceEVSPlay(8);
 VoicePlay("D020800300_08_060");
 MsgDisp("Shirahane","｛主人公｝ is smiling brightly today
-too! I won't lose to you!");
+too!
+I won't lose to you!");
 ChEyeOpenLevel(8,#1);
-MsgDisp("主人公","Haha! It seems you won't!
-......I mean, your smile is way brighter
-than mine.");
+MsgDisp("主人公","Haha! It seems you won't! ......I mean,
+your smile is way brighter than mine.");
 ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,2,1);

@@ -43,15 +43,16 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010110000_01_050");
 MsgDisp("Kazama","It's not like I'm your fan or anything,
-you know. Don't get me wrong.");
+you know.
+Don't get me wrong.");
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,#1);
 VoicePlay("E010110000_01_060");
-MsgDisp("Kazama","I mean If you happen to see someone
-you're bound to be curious, right?
-So, I've been thinking about it all day
-and it got me really tired.");
+MsgDisp("Kazama","I mean If you happen to see someone you're
+bound to be curious, right? So, I've been
+thinking about it all day and it got me
+really tired.");
 MsgDisp("主人公","Errr...
 That's not my fault, is it?");
 ChEye(1,2);
@@ -60,8 +61,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010110000_01_070");
 MsgDisp("Kazama","Yeah, I know...
-But now that I got to see you,
-I'm done for the day.");
+But now that I got to see you, I'm done
+for the day.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -71,7 +72,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(Does that mean he has been
-looking for me all day?)");
+MsgDisp("主人公","(Does that mean he has been looking for me
+all day?)");
 MsgClose();
 ScrFadeOut(0,0);

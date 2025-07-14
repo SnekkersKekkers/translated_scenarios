@@ -5,8 +5,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040324102_03_000");
-MsgDisp("Honda","There's homemade sausages 
-being sold as souvenirs.");
+MsgDisp("Honda","There's homemade sausages being sold as
+souvenirs.");
 MsgSel("It's be nice if there were herbs in it","Looks like they have samples too!","I have a little bit of mixed feelings about this...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040324102_03_010");
     MsgDisp("Honda","I seeー.
-I'm not really good
-with herbsー.");
+I'm not really good with herbsー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +44,9 @@ novelty sausages.");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040324102_03_030");
-        MsgDisp("Honda","Is that so? I don't really get sentimental
-like thatー.");
+        MsgDisp("Honda","Is that so?
+I don't really get sentimental like
+thatー.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -55,9 +55,9 @@ like thatー.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,4);
-        VoicePlay("B040324102_03_031")MsgDisp("Honda","A long time ago when I came to 
-a farm with  my family, my sister 
-said the same thing as you.");
+        VoicePlay("B040324102_03_031")MsgDisp("Honda","A long time ago when I came to a farm with
+my family, my sister said the same thing
+as you.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
@@ -84,9 +84,8 @@ properly!\" She said.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040324102_03_070");
-        MsgDisp("Honda","I was happily enjoying it 
-because it was tastier than the
-sausages we normally ate.");
+        MsgDisp("Honda","I was happily enjoying it because it was
+tastier than the sausages we normally ate.");
         MsgDisp("主人公","Hehe.");
         ChEye(3,0);
         ChMouth(3,0);
@@ -102,8 +101,8 @@ He's kind, and always amuses everyone.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040324102_03_090");
-        MsgDisp("Honda","Ehh∋
-... Does that \"everyone\" include you?");
+        MsgDisp("Honda","Ehh∋ ... Does that \"everyone\" include
+you?");
         MsgDisp("主人公","Of course!");
         ChEye(3,3);
         ChMouth(3,3);
@@ -127,14 +126,15 @@ now on. How about it?");
         ChSet(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040324102_03_130");
-        MsgDisp("Honda","Okay, then let's go eat some
-freshly made sausages at once!");
+        MsgDisp("Honda","Okay, then let's go eat some freshly made
+sausages at once!");
         MsgClose();
         SEPlay("EV_SE_765");
         ChClose(3);
         SEWait();
-        MsgDisp("主人公","(Homemade sausages from a farm... Maybe I
-have complicated feelings after all...)");
+        MsgDisp("主人公","(Homemade sausages from a farm...
+Maybe I have complicated feelings after
+all...)");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(3,255,0,0,0,#1,#1,0,0);

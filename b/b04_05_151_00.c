@@ -29,8 +29,8 @@ If it's not like that, it's not fun.");
     ChMotion(5,0);
     VoicePlay("B040515100_05_020");
     MsgDisp("Hiiragi","Right, that's the secret.
-IF the ball is heavy,
-the pins will fall over too.");
+IF the ball is heavy, the pins will fall
+over too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,7 +41,7 @@ the pins will fall over too.");
     ChMotion(5,1);
     VoicePlay("B040515100_05_030");
     MsgDisp("Hiiragi","Having a winner and a loser is inevitable.
-It's unfortunate, but we cannot avoid it. ");
+It's unfortunate, but we cannot avoid it.");
     MsgDateResultDisp();
     break ;
     default :

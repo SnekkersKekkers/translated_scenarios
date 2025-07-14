@@ -25,8 +25,8 @@ Congrats.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O020600000_06_020");
-    MsgDisp("Himuro","Well, I thought you looked
-a little too desperate.");
+    MsgDisp("Himuro","Well, I thought you looked a little too
+desperate.");
     MsgDisp("主人公","(I did it!
 I'm glad I did my best.)");
     break ;
@@ -37,8 +37,7 @@ I'm glad I did my best.)");
     ScrFadeIn(0);
     VoicePlay("O020600000_06_030");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-I did it!");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! I did it!");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);

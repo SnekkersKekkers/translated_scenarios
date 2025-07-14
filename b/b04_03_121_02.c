@@ -10,9 +10,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040312102_03_000");
-MsgDisp("Honda","Each time we come here,
-the number of stalls seems
-to be increasing");
+MsgDisp("Honda","Each time we come here, the number of
+stalls seems to be increasing");
 MsgSel("I wonder how much they make?","Apparently it was presented on TV","It seems like you can only set up a stall if you win a lottery.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +26,8 @@ switch (MsgSelRsltGet()){
         ChMotion(3,4);
         VoicePlay("B040312102_03_010");
         MsgDisp("Honda","That's what you focus on?
-I think there aren't many stalls
-here aiming for big sales.");
+I think there aren't many stalls here
+aiming for big sales.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -38,31 +37,30 @@ here aiming for big sales.");
         ChMouth(3,4);
         ChMotion(3,0,1);
         VoicePlay("B040312102_03_020");
-        MsgDisp("Honda","Hmmー.
-It seems like there's only a few stalls
-aiming on making a profit.");
+        MsgDisp("Honda","Hmmー. It seems like there's only a few
+stalls aiming on making a profit.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040312102_03_030");
         MsgDisp("Honda","But I think it's fine.
-Deciding on a goal for your stall, 
-and thinking up on how to achieve it.");
+Deciding on a goal for your stall, and
+thinking up on how to achieve it.");
         MsgDisp("主人公","｛本多＊＊｝, what sort of stall would you
 set up?");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040312102_03_040");
-        MsgDisp("Honda","It seems easy to sell the 
-things you already have at home...");
+        MsgDisp("Honda","It seems easy to sell the things you
+already have at home...");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040312102_03_050");
         MsgDisp("Honda","Ah, how about things like rhinocerous
-beetles? Both children and adults would
-like it.");
+beetles?
+Both children and adults would like it.");
         MsgDisp("主人公","Ehhh?");
         ChEye(3,3);
         ChMouth(3,3);
@@ -75,8 +73,8 @@ market in any season?");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040312102_03_070");
-        MsgDisp("Honda","I cam aim for sales, 
-since I have lots of them at home.");
+        MsgDisp("Honda","I cam aim for sales, since I have lots of
+them at home.");
         MsgDisp("主人公","Lots of them at home...");
         ChEye(3,3);
         ChMouth(3,3);
@@ -99,8 +97,8 @@ together?");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040312102_03_090");
-    MsgDisp("Honda","It depends on how it was presented,
-but I'm sure they'll get more customers.");
+    MsgDisp("Honda","It depends on how it was presented, but
+I'm sure they'll get more customers.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

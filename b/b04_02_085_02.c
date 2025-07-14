@@ -5,9 +5,9 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208502_02_000");
-MsgDisp("Sassa","The perimeter around here,
-is approximately around one 
-lap in track right? ");
+MsgDisp("Sassa","The perimeter around here, is
+approximately around one lap in track
+right?");
 MsgSel("400 metres?","Why do you know that?","Should we measure your time here?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040208502_02_010");
     MsgDisp("Sassa","Yeah, correct!
-If I can run around here in 40 seconds, 
-I can aim at the world stage.");
+If I can run around here in 40 seconds, I
+can aim at the world stage.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,8 @@ I can aim at the world stage.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040208502_02_020");
-    MsgDisp("Sassa","If you ask me why, 
-I can only say it's a feeling.");
+    MsgDisp("Sassa","If you ask me why, I can only say it's a
+feeling.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -47,8 +47,8 @@ I can only say it's a feeling.");
         ChMotion(2,4);
         VoicePlay("B040208502_02_030");
         MsgDisp("Sassa","Are you saying that seriously?
-Sounds good, but I'll take it
-seriously you know?");
+Sounds good, but I'll take it seriously
+you know?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -70,22 +70,23 @@ Even more so if you're watching.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040208502_02_060");
-        MsgDisp("Sassa","But if I go all out here, 
-I'll hurt my ankle.");
+        MsgDisp("Sassa","But if I go all out here, I'll hurt my
+ankle.");
         MsgDisp("主人公","I see.
 I'm sorry for saying something weird.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040208502_02_070");
-        MsgDisp("Sassa","Don't apologize. If it's the sports
-ground, I can go anytime.");
+        MsgDisp("Sassa","Don't apologize.
+If it's the sports ground, I can go
+anytime.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040208502_02_080");
-        MsgDisp("Sassa","I mean, 
-I think it's good when you time me.");
+        MsgDisp("Sassa","I mean, I think it's good when you time
+me.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -104,8 +105,7 @@ unintentionally run in a higher gear.");
         ChMotion(2,3,1);
         VoicePlay("B040208502_02_110");
         MsgDisp("Sassa","Yes, please!");
-        MsgDisp("主人公","Ummm...
-｛颯砂＊＊｝, do your best!");
+        MsgDisp("主人公","Ummm... ｛颯砂＊＊｝, do your best!");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

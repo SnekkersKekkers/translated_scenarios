@@ -13,9 +13,9 @@ that trouble.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600004_06_010");
-    MsgDisp("Himuro","This is handmade, right?
-And pretty elaborate. I can't believe
-you're just giving these away...... huh.");
+    MsgDisp("Himuro","This is handmade, right? And pretty
+elaborate. I can't believe you're just
+giving these away...... huh.");
     MsgDisp("主人公","I'm not just giving them out.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -51,8 +51,8 @@ Actually making these by hand.");
     ChMotion(6,3);
     VoicePlay("L040600004_06_050");
     MsgDisp("Himuro","......Ah, is that so.
-Well, the return gift has to be just
-as good, I guess.");
+Well, the return gift has to be just as
+good, I guess.");
     MsgDisp("主人公","It wasn't just for
 a good return, though.");
     ChEye(6,0);
@@ -88,15 +88,14 @@ He seemed happy!)");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("L040600004_06_090");
-    MsgDisp("Himuro","This time, I have to admit you
-have a reason to be proud.");
+    MsgDisp("Himuro","This time, I have to admit you have a
+reason to be proud.");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600004_06_100");
-    MsgDisp("Himuro","I see you put your feelings in
-these, too.
+    MsgDisp("Himuro","I see you put your feelings in these, too.
 Thanks, for the snack.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

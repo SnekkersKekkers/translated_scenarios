@@ -34,11 +34,11 @@ switch (MsgSelRsltGet()){
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040117002_01_020");
-        MsgDisp("Kazama","Got it. Then, pick 
-something you like from the menu");
-        MsgDisp("主人公","Really∋
-｛風真＊＊｝, thank you!
-The sweets here are delicious, right?");
+        MsgDisp("Kazama","Got it.
+Then, pick something you like from the
+menu");
+        MsgDisp("主人公","Really∋ ｛風真＊＊｝, thank you! The
+sweets here are delicious, right?");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0);
@@ -58,7 +58,8 @@ order received.");
         MsgDisp("Kazama","Please give me your most
 popular sweet.");
         VoicePlay("B040117002_01_050");
-        MsgDisp("Kazama","O-Of course. that's alright.");
+        MsgDisp("Kazama","O-Of course.
+that's alright.");
         MsgDisp("主人公","Are you alright...?");
         SEPlay("EV_SE_762");
         SEWait();
@@ -72,8 +73,8 @@ What's wrong?");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040117002_01_060");
-        MsgDisp("Kazama","Apparently it's a menu item
-exclusive to couples...");
+        MsgDisp("Kazama","Apparently it's a menu item exclusive to
+couples...");
         MsgDisp("主人公","Eh!");
         ChEye(1,0);
         ChMouth(1,2);
@@ -81,8 +82,8 @@ exclusive to couples...");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040117002_01_070");
         MsgDisp("Kazama","...Is there a problem?");
-        MsgDisp("主人公","(It might be kinda embarrassing 
-when the employee comes...)");
+        MsgDisp("主人公","(It might be kinda embarrassing when the
+employee comes...)");
         break ;
         default :
         DbgAssert(1);
@@ -95,8 +96,8 @@ when the employee comes...)");
     ChMouth(1,3);
     ChMotion(1,3,1);
     VoicePlay("B040117002_01_080");
-    MsgDisp("Kazama","That was great, even better
-than the original song!");
+    MsgDisp("Kazama","That was great, even better than the
+original song!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -108,8 +109,8 @@ than the original song!");
     ChMotion(1,0);
     VoicePlay("B040117002_01_090");
     MsgDisp("Kazama","Yeah, they messed up on the judging.
-If I was the judge, I'd give it 
-full marks!");
+If I was the judge, I'd give it full
+marks!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B030606001_06_010");
-    MsgDisp("Himuro","That's good. You're full of
-energy.");
+    MsgDisp("Himuro","That's good.
+You're full of energy.");
     break ;
     case 1:
     ChEye(6,0);

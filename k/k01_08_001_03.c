@@ -9,8 +9,8 @@ Why didya choose this?");
 MsgDisp("主人公","Hm?");
 ChMotion(8,4,1);
 VoicePlay("K010800103_08_010");
-MsgDisp("Shirahane","Hm......
-This gift is really makin' me think.");
+MsgDisp("Shirahane","Hm...... This gift is really makin' me
+think.");
 MsgDisp("主人公","(Ugh......
 I don't think he liked it.)");
 MsgClose();

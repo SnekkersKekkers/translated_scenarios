@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040320001_03_010");
     MsgDisp("Honda","Yep yep.
-The snowflakes are basically
-a hexagon shape.");
+The snowflakes are basically a hexagon
+shape.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +30,8 @@ a hexagon shape.");
     ChMotion(3,1);
     VoicePlay("B040320001_03_020");
     MsgDisp("Honda","That's right.
-But hey, the ones on your
-hair haven't melted?");
+But hey, the ones on your hair haven't
+melted?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

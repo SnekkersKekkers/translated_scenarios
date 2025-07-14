@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020330000_03_000");
-MsgDisp("Honda","Speaking of fireflies (hotaru),
-have you heard of 'hotaru-te'?");
+MsgDisp("Honda","Speaking of fireflies (hotaru), have you
+heard of 'hotaru-te'?");
 MsgDisp("主人公","Hotaru-te......?");
 ChMouth(3,3);
 ChMotion(3,1);
@@ -16,15 +16,16 @@ firefly light.");
 ChMotion(3,4);
 VoicePlay("G020330000_03_020");
 MsgDisp("Honda","I saw it at Ryou-kun's place the other
-day. It was really beautiful.");
+day.
+It was really beautiful.");
 MsgDisp("主人公","｛本多＊＊｝ knows about pottery too?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("G020330000_03_030");
 MsgDisp("Honda","Not at all!
-When it comes to art and antiques,
-I can't compare to Ryo.");
+When it comes to art and antiques, I can't
+compare to Ryo.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -36,7 +37,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020330000_03_050");
-MsgDisp("Honda","Mii-kun has incredible fashion sense and 
+MsgDisp("Honda","Mii-kun has incredible fashion sense and
 self-presentation skills.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -56,10 +57,10 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020330000_03_080");
-MsgDisp("Honda","I'm the one getting inspired one-sidedly. 
+MsgDisp("Honda","I'm the one getting inspired one-sidedly.
 I'm really glad I met them!");
-MsgDisp("主人公","(Hehe, ｛風真＊＊｝ and ｛七ツ森＊｝ would
-say the same thing wouldn't they?)");
+MsgDisp("主人公","(Hehe, ｛風真＊＊｝ and ｛七ツ森＊｝
+would say the same thing wouldn't they?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

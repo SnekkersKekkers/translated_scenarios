@@ -15,17 +15,15 @@ I like it but...)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730600001_06_000");
     MsgDisp("Himuro","It's amazing huh, that dress.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Did you come to watch?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P730600001_06_010");
     MsgDisp("Himuro","More or less.
 It's because I heard you went all out.");
-    MsgDisp("主人公","Yeah.
-For the sake of today,
-I gave it my best but...");
+    MsgDisp("主人公","Yeah. For the sake of today, I gave it my
+best but...");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -65,8 +63,7 @@ I like it but...)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730600001_06_050");
     MsgDisp("Himuro","Eh...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Did you come to watch?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

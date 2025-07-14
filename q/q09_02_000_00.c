@@ -8,8 +8,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q090200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, Mornin.
-Thanks in advance for today!");
+    MsgDisp("Sassa","｛主人公｝, Mornin. Thanks in advance
+for today!");
     MsgDisp("主人公","Yeah!
 Well, let's go.");
     break ;
@@ -30,7 +30,7 @@ Let's have fun today.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛颯砂＊＊｝, Good morning!");
+    MsgDisp("主人公","｛颯砂＊＊｝, good morning!");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
@@ -50,13 +50,13 @@ today, aren't you?");
     ChMotion(2,4);
     VoicePlay("Q090200000_02_050");
     MsgDisp("Sassa","Yeah, It's the same.
-All for one, make sure not to make 
+All for one, make sure not to make
 regrets.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("Q090200000_02_060");
-    MsgDisp("Sassa","Since I don't know when I can go 
+    MsgDisp("Sassa","Since I don't know when I can go
 sightseeing in Nagasaki with you again.");
     MsgDisp("主人公","Yeah, that's true.");
     ChEye(2,0);

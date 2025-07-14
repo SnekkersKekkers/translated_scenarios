@@ -26,8 +26,7 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,1);
     VoicePlay("F012100007_21_020");
     MsgDisp("Michiru","Oh, Mari!");
-    MsgDisp("主人公","｛みちる＊｝.
-What's up?");
+    MsgDisp("主人公","｛みちる＊｝. What's up?");
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,0);

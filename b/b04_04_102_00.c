@@ -7,8 +7,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040410200_04_000");
 MsgDisp("Nanatsumori","So coolー.
-I'd like to try riding one 
-of these guys one day.");
+I'd like to try riding one of these guys
+one day.");
 MsgSel("Is it a boy's dream?","How about getting a license?","Aren't you going to take a photo?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040410200_04_010");
     MsgDisp("Nanatsumori","That might be it.
-I've been strangely interested in 
-it ever since I was a kid.");
+I've been strangely interested in it ever
+since I was a kid.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,8 +31,8 @@ it ever since I was a kid.");
     ChMotion(4,3,1);
     VoicePlay("B040410200_04_020");
     MsgDisp("Nanatsumori","Sounds nice.
-If I manage to get one, I'll
-give you a ride too.");
+If I manage to get one, I'll give you a
+ride too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

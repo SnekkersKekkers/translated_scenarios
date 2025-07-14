@@ -6,14 +6,14 @@ MsgDisp("主人公","(The book I wanted was sold out before.
 VoiceEVSPlay(3);
 VoicePlay("G110300100_03_000");
 MsgDisp("Honda?","｛主人公｝, welcome!");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
-You're working today, huh?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝. You're working today,
+huh?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,0,#1,#1,0,0);
 VoicePlay("G110300100_03_010");
-MsgDisp("Honda","Oh, there aren't many customers today, 
-so it's a bit more relaxed.
+MsgDisp("Honda","Oh, there aren't many customers today, so
+it's a bit more relaxed.
 How about you?");
 MsgDisp("主人公","Yes, well, uh——");
 ChEye(3,3);
@@ -21,7 +21,7 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("G110300100_03_020");
 MsgDisp("Honda","Ah, wait a second!
-You don't need to tell me. 
+You don't need to tell me.
 Come here.");
 SEPlay("EV_SE_504",0,0.6);
 MsgDisp("主人公","Eh?");
@@ -43,15 +43,15 @@ ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300100_03_040");
-MsgDisp("Honda","Yep yep,
-we were talking about it at work, right?");
+MsgDisp("Honda","Yep yep, we were talking about it at work,
+right?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300100_03_050");
-MsgDisp("Honda","Ah, but it wasn't delivered. 
+MsgDisp("Honda","Ah, but it wasn't delivered.
 I just found it crammed in a weird shelf.");
-MsgDisp("主人公","I see. 
+MsgDisp("主人公","I see.
 You did a good job of finding it, huh?");
 ChEye(3,1);
 ChMouth(3,1);
@@ -66,9 +66,9 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300100_03_080");
-MsgDisp("Honda","After picking it up once,
-the customer put it in what he thought 
-was the correct place.");
+MsgDisp("Honda","After picking it up once, the customer put
+it in what he thought was the correct
+place.");
 MsgDisp("主人公","(As expected of ｛本多＊＊｝!
 What a brilliant deduction......)");
 BGMStop();

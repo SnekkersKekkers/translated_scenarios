@@ -39,8 +39,8 @@ I'm happy.");
     VoicePlay("L040700002_07_040");
     MsgDisp("Mikage","Hey, you got a little too
 excited.");
-    MsgDisp("主人公","I put in all my grateful
-feelings for ｛御影＊＊｝.");
+    MsgDisp("主人公","I put in all my grateful feelings for
+｛御影＊＊｝.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -51,8 +51,7 @@ feelings for ｛御影＊＊｝.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("L040700002_07_060");
-    MsgDisp("Mikage","Got it.
-I won't say any more rude things.
+    MsgDisp("Mikage","Got it. I won't say any more rude things.
 Thanks!");
     ChEye(7,0);
     ChMouth(7,3);
@@ -78,8 +77,8 @@ Thank goodness!)");
     VoicePlay("L040700002_07_080");
     MsgDisp("Mikage","Amazing......
 You're giving this to me?");
-    MsgDisp("主人公","Yes. I did my best to
-show my thankfulness!");
+    MsgDisp("主人公","Yes. I did my best to show my
+thankfulness!");
     ChEye(7,2);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -91,17 +90,17 @@ I'm happy to hear this from you.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700002_07_100");
-    MsgDisp("Mikage","I'll follow your lead,
-and eat this proudly in the faculty room.");
+    MsgDisp("Mikage","I'll follow your lead, and eat this
+proudly in the faculty room.");
     MsgDisp("主人公","Huh?
 Won't Himuro-sensei scold you......?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("L040700002_07_110");
-    MsgDisp("Mikage","It's fine. I'll eat it sneakily.
-Though, it feels wrong to do that
-considering you put your all into it.");
+    MsgDisp("Mikage","It's fine. I'll eat it sneakily. Though,
+it feels wrong to do that considering you
+put your all into it.");
     MsgDisp("主人公","(Thank goodness!
 ｛御影＊＊｝ seemed happy.
 But will he be fine......?)");

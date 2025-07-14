@@ -32,8 +32,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360623601_06_030");
-MsgDisp("Himuro","......Because you seemed to be having
-fun with the other two today.");
+MsgDisp("Himuro","......Because you seemed to be having fun
+with the other two today.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -46,8 +46,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360623601_06_050");
-MsgDisp("Himuro","I'd think you might have gone
-along with them.");
+MsgDisp("Himuro","I'd think you might have gone along with
+them.");
 MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,0);
 ChMouth(6,0);

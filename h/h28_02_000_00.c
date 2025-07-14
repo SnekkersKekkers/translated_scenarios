@@ -13,18 +13,16 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H280200000_02_000");
-    MsgDisp("Sassa","｛主人公｝,
-it's finally time.");
-    MsgDisp("主人公","｛颯砂＊＊｝,
-we've finally made it this far.");
+    MsgDisp("Sassa","｛主人公｝, it's finally time.");
+    MsgDisp("主人公","｛颯砂＊＊｝, we've finally made it this
+far.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("H280200000_02_010");
     MsgDisp("Sassa","Yeah, and it's all thanks to you.
 Thank you");
-    MsgDisp("主人公","No,
-it's thanks to your hard work,
+    MsgDisp("主人公","No, it's thanks to your hard work,
 ｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -36,16 +34,16 @@ it's thanks to your hard work,
     ChMotion(2,0);
     VoicePlay("H280200000_02_030");
     MsgDisp("Sassa","Just leave the rest to me.
-I'll bring us results that we can both
-be happy with.");
+I'll bring us results that we can both be
+happy with.");
     MsgDisp("主人公","Yeah, good luck!");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("H280200000_02_040");
     MsgDisp("Sassa","Yeah!");
-    MsgDisp("主人公","(Alright, I'll do my best to lend
-my support, too!)");
+    MsgDisp("主人公","(Alright, I'll do my best to lend my
+support, too!)");
     break ;
     default :
     DbgAssert(1);

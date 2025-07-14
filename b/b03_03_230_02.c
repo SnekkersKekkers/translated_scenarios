@@ -11,8 +11,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ScrFadeIn(0);
 VoicePlay("B030323002_03_000");
-MsgDisp("Honda","Look!
-Seems like they're having a night parade.");
+MsgDisp("Honda","Look! Seems like they're having a night
+parade.");
 MsgSel("Yeah, I want to watch","Sorry, not today...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1,1);
     VoicePlay("B030323002_03_010");
     MsgDisp("Honda","Right on.
-Let's get a good look at all the
-full colors of LED lights.");
+Let's get a good look at all the full
+colors of LED lights.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);

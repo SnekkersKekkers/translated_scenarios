@@ -11,9 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,2);
     VoicePlay("B040119100_01_000");
-    MsgDisp("Kazama","Story aside, the characters were
-super charming. I almost forgot 
-it was a documentary film.");
+    MsgDisp("Kazama","Story aside, the characters were super
+charming.
+I almost forgot it was a documentary film.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,8 +24,8 @@ it was a documentary film.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040119100_01_010");
-    MsgDisp("Kazama","I guess documentaries aren't something
-you should watch on a date huh?");
+    MsgDisp("Kazama","I guess documentaries aren't something you
+should watch on a date huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +37,8 @@ you should watch on a date huh?");
     ChMotion(1,3);
     VoicePlay("B040119100_01_020");
     MsgDisp("Kazama","Yeah, they totally missed the mark.
-I was surprised because the content
-was exactly what I expected.");
+I was surprised because the content was
+exactly what I expected.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

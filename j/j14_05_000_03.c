@@ -9,5 +9,6 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("J140500003_05_000");
 MsgDisp("Hiiragi","I'm sorry, but it can't be helped.
-I'll see you soon. See you later.");
+I'll see you soon.
+See you later.");
 MsgClose();

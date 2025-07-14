@@ -2,10 +2,10 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("B020502128_05_000");
-MsgDisp("Hiiragi","I see.
-That kind of style isn't just about
+MsgDisp("Hiiragi","I see. That kind of style isn't just about
 being casual. I understand now.");
-MsgDisp("主人公","My clothes? They're easy to move in.");
+MsgDisp("主人公","My clothes?
+They're easy to move in.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -22,5 +22,5 @@ MsgDisp("Hiiragi","It's nothing. Just being able to find
 fashion in something so casual and easy to
 move in... I find it impressive.");
 MsgDisp("主人公","(Oh, good.
-｛柊＊＊＊｝ seems to
-have come to like clothes like these.)");
+｛柊＊＊＊｝ seems to have come to like
+clothes like these.)");

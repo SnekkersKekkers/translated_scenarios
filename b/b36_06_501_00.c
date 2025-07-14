@@ -54,9 +54,9 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650100_06_060");
 MsgDisp("Himuro","Well, at least it's not the Haba High
-uniform. It'd be even worse if I knew the.");
-MsgDisp("主人公","Ah, um
-｛氷室＊＊｝......!");
+uniform.
+It'd be even worse if I knew the.");
+MsgDisp("主人公","Ah, um ｛氷室＊＊｝......!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -74,8 +74,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360650100_06_090");
 MsgDisp("Himuro","I-I'm sorry—— no!
-I mean, I told you not to turn around,
-but you tried to anyway!");
+I mean, I told you not to turn around, but
+you tried to anyway!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -88,8 +88,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("B360650100_06_110");
-MsgDisp("Himuro","......Ugh, this is no different from
-that couple over there.");
+MsgDisp("Himuro","......Ugh, this is no different from that
+couple over there.");
 MsgDisp("主人公","(My heart is pounding......)");
 BGMStop();
 MsgClose();

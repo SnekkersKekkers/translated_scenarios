@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     VoicePlay("B040409001_04_010");
     MsgDisp("Nanatsumori","The sunlight is completely different
-though? Well, I'll take one for now.");
+though?
+Well, I'll take one for now.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +30,8 @@ though? Well, I'll take one for now.");
     ChMotion(4,1,1);
     VoicePlay("B040409001_04_020");
     MsgDisp("Nanatsumori","Wow, is it that complete?
-Then, let's follow the route and
-take a trip around the world.");
+Then, let's follow the route and take a
+trip around the world.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

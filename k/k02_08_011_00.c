@@ -14,8 +14,8 @@ ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("K020801100_08_010");
 MsgDisp("Shirahane","As a man, I gotta......
-And, there's still somethin' left
-for me to do today.");
+And, there's still somethin' left for me
+to do today.");
 MsgDisp("主人公","Hm?");
 ChEye(8,4);
 ChMouth(8,0);
@@ -44,8 +44,8 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("K020801100_08_060");
-MsgDisp("Shirahane","Actually, th' whole time during
-the date, I wanted t'hand it over......
+MsgDisp("Shirahane","Actually, th' whole time during the date,
+I wanted t'hand it over......
 Now, I'm handin' it over at the end.");
 MsgDisp("主人公","Hehe!");
 ChEye(8,3);

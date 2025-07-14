@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,2);
     VoicePlay("B040518800_05_000");
-    MsgDisp("Hiiragi","I didn't understand the
-points everyone laughed at.");
+    MsgDisp("Hiiragi","I didn't understand the points everyone
+laughed at.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -21,8 +21,8 @@ points everyone laughed at.");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040518800_05_010");
-    MsgDisp("Hiiragi","I know this is thoughtless,
-but could you explain a bit?");
+    MsgDisp("Hiiragi","I know this is thoughtless, but could you
+explain a bit?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +34,8 @@ but could you explain a bit?");
     ChMotion(5,4);
     VoicePlay("B040518800_05_020");
     MsgDisp("Hiiragi","Ah, I'm glad.
-I didn't understand the
-funny parts either.");
+I didn't understand the funny parts
+either.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -60,25 +60,24 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B330C30701_05_010");
 MsgDisp("Hiiragi","It steals food from 
 the other monkeys.");
-MsgDisp("主人公","Yeah.
-It's bit and strong, so
-everyone is scared of it.");
+MsgDisp("主人公","Yeah. It's bit and strong, so everyone is
+scared of it.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C30701_07_020");
-MsgDisp("Mikage","But it has a role to play, you know.
-It breaks up fights over food, 
-and it'll even defend the group 
-if there's trouble with another troop.");
+MsgDisp("Mikage","But it has a role to play, you know. It
+breaks up fights over food, and it'll even
+defend the group if there's trouble with
+another troop.");
 ChEye(5,0);
 ChMotion(5,4);
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30701_06_020");
-MsgDisp("Himuro","It looked like it was 
-the one picking fights?");
+MsgDisp("Himuro","It looked like it was the one picking
+fights?");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -88,19 +87,17 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30701_07_030");
-MsgDisp("Mikage","Well, that's true.
-The purpose of the zoo's boss monkey...
-It might also be interesting
-to investigate that?");
+MsgDisp("Mikage","Well, that's true. The purpose of the
+zoo's boss monkey... It might also be
+interesting to investigate that?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30701_07_040");
-MsgDisp("Mikage","Our next field lesson will be at 
-the zoo, observing the monkey mountain.");
-MsgDisp("主人公","(Hehe.
-I'm looking forward to ｛御影＊＊｝'s
-next field lesson.')");
+MsgDisp("Mikage","Our next field lesson will be at the zoo,
+observing the monkey mountain.");
+MsgDisp("主人公","(Hehe. I'm looking forward to
+｛御影＊＊｝'s next field lesson.')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

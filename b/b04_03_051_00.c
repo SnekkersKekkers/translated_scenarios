@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("B040305100_03_020");
-    MsgDisp("Honda","Whaat, I wasn't sleeping! Who were you 
-looking at?");
+    MsgDisp("Honda","Whaat, I wasn't sleeping!
+Who were you looking at?");
     MsgDateResultDisp();
     break ;
     case 2:

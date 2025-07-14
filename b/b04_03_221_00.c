@@ -6,8 +6,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322100_03_000");
-MsgDisp("Honda","Castle with surviving towers
-like Habataki Castle are precious.");
+MsgDisp("Honda","Castle with surviving towers like Habataki
+Castle are precious.");
 MsgSel("As expected of Habataki City?","Seems like it was sturdily built.","The cracks in the floor are scary, huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040322100_03_010");
-    MsgDisp("Honda","Right right,
-it's the pride of Habataki City!");
+    MsgDisp("Honda","Right right, it's the pride of Habataki
+City!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,9 +28,8 @@ it's the pride of Habataki City!");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040322100_03_020");
-    MsgDisp("Honda","Hmm, maybe it's more accurate
-to say it's flexible or supple
-rather than sturdy");
+    MsgDisp("Honda","Hmm, maybe it's more accurate to say it's
+flexible or supple rather than sturdy");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +41,8 @@ rather than sturdy");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040322100_03_030");
-    MsgDisp("Honda","Yeah, the draft is strong, 
-and the floor creaks a lot.");
+    MsgDisp("Honda","Yeah, the draft is strong, and the floor
+creaks a lot.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -7,9 +7,9 @@ VoicePlay("G020410306_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
 MsgDisp("主人公","What is it ｛七ツ森＊｝?");
 VoicePlay("G020410306_04_010");
-MsgDisp("Nanatsumori","Out of all my classmates, 
-you're the only one who knows 
-all the different side of me.");
+MsgDisp("Nanatsumori","Out of all my classmates, you're the only
+one who knows all the different side of
+me.");
 MsgDisp("主人公","YEah");
 ChMotion(4,0,1);
 VoicePlay("G020410306_04_020");
@@ -50,8 +50,9 @@ ChMotion(4,0,1);
 VoicePlay("G020410306_04_090");
 MsgDisp("Nanatsumori","Meeting you has really paid off for me
 ......thank you.");
-MsgDisp("主人公","It's no problem at all. ｛七ツ森＊｝'s
-crossdressing is really cute▼");
+MsgDisp("主人公","It's no problem at all.
+｛七ツ森＊｝'s crossdressing is really
+cute▼");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);

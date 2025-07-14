@@ -14,7 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030503002_05_010");
-    MsgDisp("Hiiragi","That's right. I thought the same.");
+    MsgDisp("Hiiragi","That's right.
+I thought the same.");
     MsgDispSksp(0);
     break ;
     case 1:
@@ -29,8 +30,8 @@ it's nice weather today.");
     MsgDispSksp(1,0);
     ChMotion(5,4);
     VoicePlay("B030503002_05_030");
-    MsgDisp("Hiiragi","The words 'deep sea'
-has a strange charm to it.
+    MsgDisp("Hiiragi","The words 'deep sea' has a strange charm
+to it.
 Yes, let's go there.");
     MsgDispSksp(0);
     break ;

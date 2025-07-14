@@ -46,8 +46,8 @@ All because you're a curious monster.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040106102_01_030");
-        MsgDisp("Kazama","Haah... I'm being serious here.
-Jeez, what do other people think?");
+        MsgDisp("Kazama","Haah... I'm being serious here. Jeez, what
+do other people think?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -56,8 +56,8 @@ Jeez, what do other people think?");
         ChEye(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040106102_01_040");
-        MsgDisp("Kazama","Yeah, you're an easy target for
-all those man-eating sharks.");
+        MsgDisp("Kazama","Yeah, you're an easy target for all those
+man-eating sharks.");
         MsgDisp("主人公","Umm?");
         ChEye(1,2);
         ChMouth(1,1);
@@ -95,9 +95,8 @@ Especially today.");
         VoicePlay("B040106102_01_080");
         MsgDisp("Kazama","You understand?
 So leaving my side today is prohibited.");
-        MsgDisp("主人公","(Seems like ｛風真＊＊｝
-is banning more and more things
-these days...)");
+        MsgDisp("主人公","(Seems like ｛風真＊＊｝ is banning more
+and more things these days...)");
         break ;
         default :
         DbgAssert(1);

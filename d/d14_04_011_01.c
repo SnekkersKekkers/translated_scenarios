@@ -17,14 +17,13 @@ We sure get along, huh?");
     ChMotion(4,0);
     VoicePlay("D140401101_04_010");
     MsgDisp("Nanatsumori","I expected as much.
-I thought you would also
-choose the same thing.");
+I thought you would also choose the same
+thing.");
     ChEye(4,4);
     ChMotion(4,1);
     VoicePlay("D140401101_04_020");
-    MsgDisp("Nanatsumori","It has no meaning whatsoever, 
-but I'm kind of happy when overlaps
-like this happen.");
+    MsgDisp("Nanatsumori","It has no meaning whatsoever, but I'm kind
+of happy when overlaps like this happen.");
     break ;
     default :
     DbgAssert(1);

@@ -7,9 +7,9 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040520001_05_000");
-MsgDisp("Hiiragi","Haa.. the way my legs turn inwards
-when I do the snowplough turn 
-is just like a beginner.");
+MsgDisp("Hiiragi","Haa.. the way my legs turn inwards when I
+do the snowplough turn is just like a
+beginner.");
 MsgSel("Everyone avoids you","｛柊＊＊＊｝, you'll improve quickly","Your posture is great, and you look cool.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -39,8 +39,8 @@ I'll believe in your words...");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040520001_05_030");
-    MsgDisp("Hiiragi","Really!
-The intermediate course might be near.");
+    MsgDisp("Hiiragi","Really! The intermediate course might be
+near.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

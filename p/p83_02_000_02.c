@@ -8,9 +8,9 @@ switch (ChPrmGet(2,6)){
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830200002_48_000");
-    MsgDisp("School Girl","Excuse me. The smell of the yakisoba stand
-next door quite strong, It's bothering
-us....");
+    MsgDisp("School Girl","Excuse me.
+The smell of the yakisoba stand next door
+quite strong, It's bothering us....");
     MsgDisp("主人公","Eh?");
     VoicePlay("P830200002_48_010");
     MsgDisp("School Girl","It's ruining the flavour of our matcha
@@ -28,12 +28,10 @@ Management will talk to them.");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200002_02_000");
-    MsgDisp("Sassa","｛主人公｝, 
-it must be difficult to be in
-the student council, huh?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-That is also an important part of
-management work, so it's alright.");
+    MsgDisp("Sassa","｛主人公｝, it must be difficult to be
+in the student council, huh?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. That is also an important
+part of management work, so it's alright.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
@@ -45,8 +43,7 @@ Leave the bodyguard duties to me.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P830200002_02_020");
-    MsgDisp("Sassa","In exchange, 
-When this has been settled, 
+    MsgDisp("Sassa","In exchange, When this has been settled,
 let's walk around together.");
     MsgDisp("主人公","Yeah, got it!");
     MsgClose();
@@ -58,9 +55,9 @@ let's walk around together.");
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830200002_48_030");
-    MsgDisp("School Girl","Excuse me. The smell of the yakisoba stand
-next door quite strong, It's bothering
-us....");
+    MsgDisp("School Girl","Excuse me.
+The smell of the yakisoba stand next door
+quite strong, It's bothering us....");
     MsgDisp("主人公","Eh?");
     VoicePlay("P830200002_48_040");
     MsgDisp("School Girl","It's ruining the flavour of our matcha
@@ -85,8 +82,8 @@ Management will talk to them.");
 You seem like you're having a tough time.
 Are you alright?");
     MsgDisp("主人公","Y-Yeah.
-It's part of management, 
-so it can't be helped.");
+It's part of management, so it can't be
+helped.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -101,14 +98,14 @@ difficult.");
     MsgDisp("Sassa","There's a quarrel right?
 I'm free, so I'll help you.");
     MsgDisp("主人公","Thank you.
-but ｛颯砂＊＊｝ won't be able 
-to enjoy the cultural festival?");
+but ｛颯砂＊＊｝ won't be able to enjoy the
+cultural festival?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P830200002_02_070");
-    MsgDisp("Sassa","If I'm with you,
-I would enjoy even a fight.");
+    MsgDisp("Sassa","If I'm with you, I would enjoy even a
+fight.");
     MsgDisp("主人公","(It'd be troubling if you enjoyed that
 but... If ｛颯砂＊＊｝ is there, that's
 reassuring!)");

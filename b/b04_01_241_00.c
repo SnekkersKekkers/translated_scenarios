@@ -18,7 +18,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040124100_01_010");
     MsgDisp("Kazama","Well, we're definitely in the middle of
-nature. So, what should we do?");
+nature.
+So, what should we do?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,8 +28,8 @@ nature. So, what should we do?");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040124100_01_020");
-    MsgDisp("Kazama","Yeah, it's a fenced in area with 
-a few animals here and there.");
+    MsgDisp("Kazama","Yeah, it's a fenced in area with a few
+animals here and there.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +42,8 @@ a few animals here and there.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040124100_01_030");
     MsgDisp("Kazama","Come here, get behind me.
-It'll be dangerous if that thing
-comes charging over here.");
+It'll be dangerous if that thing comes
+charging over here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

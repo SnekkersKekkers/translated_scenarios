@@ -1,9 +1,9 @@
 BGOpen("sc330",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like a variety of new books
-have been requested. Should we look
-around?)");
+MsgDisp("主人公","(Looks like a variety of new books have
+been requested.
+Should we look around?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -21,8 +21,9 @@ SEPlay("EV_SE_609",0,1);
 SEWait();
 VoicePlay("D010200200_02_000");
 MsgDisp("Sassa","Mm......");
-MsgDisp("主人公","(It's ｛颯砂＊＊｝. What's he reading? He
-looks so serious......)");
+MsgDisp("主人公","(It's ｛颯砂＊＊｝.
+What's he reading?
+He looks so serious......)");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
@@ -40,8 +41,9 @@ StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("D010200200_02_030");
 MsgDisp("Sassa","Even track and field idiots read books.");
-MsgDisp("主人公","Hehe, sorry. You looked so
-serious......What book is it?");
+MsgDisp("主人公","Hehe, sorry.
+You looked so serious......What book is
+it?");
 StlEye(2,1);
 StlMouth(2,1);
 StlEyeOpenLevel(2,0,1);
@@ -87,9 +89,8 @@ BGMStop();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(Hehe.
-Now I'm curious, what was he reading?
-I think it was this book......?)");
+MsgDisp("主人公","(Hehe. Now I'm curious, what was he
+reading? I think it was this book......?)");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_610");

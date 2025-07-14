@@ -40,8 +40,8 @@ it, but it's the opposite for me.");
         ChMotion(1,4);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123302_01_030");
-        MsgDisp("Kazama","I just can't stand to see you
-trembling when you jump off.");
+        MsgDisp("Kazama","I just can't stand to see you trembling
+when you jump off.");
         MsgDisp("主人公","I see, sorry.");
         ChEye(1,2);
         ChMouth(1,0);
@@ -68,14 +68,15 @@ Then, shall we do it again?");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040123302_01_070");
-        MsgDisp("Kazama","Come on, I'll buy you an ice 
-cream or something. Let's go.");
+        MsgDisp("Kazama","Come on, I'll buy you an ice cream or
+something.
+Let's go.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);
         SEWait();
-        MsgDisp("主人公","(｛風真＊＊｝ thank you for 
-always worrying about me.)");
+        MsgDisp("主人公","(｛風真＊＊｝ thank you for always
+worrying about me.)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);
@@ -93,9 +94,8 @@ always worrying about me.)");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040123302_01_080");
     MsgDisp("Kazama","Do as you like.
-But just so you know, I don't want 
-you going through scary 
-stuff like that.");
+But just so you know, I don't want you
+going through scary stuff like that.");
     MsgDispSksp(1,0);
     ChMotion(1,0);
     ChEyeOpenLevel(1,#1);

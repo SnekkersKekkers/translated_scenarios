@@ -23,8 +23,8 @@ But, food is valuable, too.");
     VoicePlay("L040700006_07_020");
     MsgDisp("Mikage","Having said that, thanks.
 I'm happy about your feelings.");
-    MsgDisp("主人公","(Ugh......
-I wish it came out better......)");
+    MsgDisp("主人公","(Ugh...... I wish it came out
+better......)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -55,8 +55,8 @@ right?");
     MsgDisp("Mikage","Sorry, sorry.
 You did make it just for me.
 That's good enough, thanks.");
-    MsgDisp("主人公","(Ugh......
-I wish it came out better......)");
+    MsgDisp("主人公","(Ugh...... I wish it came out
+better......)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -77,27 +77,25 @@ I wanted to put my feelings in, but......");
     ChMotion(7,0);
     VoicePlay("L040700006_07_070");
     MsgDisp("Mikage","I see, your feelings.
-I know your feelings aren't 
-just half-hearted.");
+I know your feelings aren't just
+half-hearted.");
     ChEye(7,1);
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("L040700006_07_080");
-    MsgDisp("Mikage","I'll make sure to prepare myself,
-and eat this.
-Thanks.");
-    MsgDisp("主人公","｛御影＊＊｝, you don't have
-to force yourself to eat it......");
+    MsgDisp("Mikage","I'll make sure to prepare myself, and eat
+this. Thanks.");
+    MsgDisp("主人公","｛御影＊＊｝, you don't have to force
+yourself to eat it......");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("L040700006_07_090");
     MsgDisp("Mikage","What are you talking about?
-I'll make sure to accept
-your feelings in my stomach.");
-    MsgDisp("主人公","(Aah, I wish I had
-made them better......
-I feel bad for ｛御影＊＊｝......)");
+I'll make sure to accept your feelings in
+my stomach.");
+    MsgDisp("主人公","(Aah, I wish I had made them better......
+I feel bad for ｛御影＊＊｝...... )");
     MsgClose();
     BGMStop();
     MsgClose();

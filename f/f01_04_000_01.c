@@ -16,8 +16,8 @@ So.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call
-him that.)");
+He doesn't seem to like it when I call him
+that.)");
     break ;
     case 3:
     MsgDisp("主人公","｛七ツ森＊｝.");
@@ -40,8 +40,8 @@ So don't.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call
-him that.)");
+He doesn't seem to like it when I call him
+that.)");
     break ;
     case 4:
     case 5:
@@ -68,8 +68,8 @@ Please. Seriously...");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call
-him that.)");
+He doesn't seem to like it when I call him
+that.)");
     break ;
     default :
     DbgAssert(1);

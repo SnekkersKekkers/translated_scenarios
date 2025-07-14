@@ -13,9 +13,8 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_120");
-MsgDisp("Nanatsumori","Wow......
-This is so great,
-It feels like I'm dreaming......");
+MsgDisp("Nanatsumori","Wow...... This is so great, It feels like
+I'm dreaming......");
 MsgDisp("主人公","Hehe, but it's not a dream, you know?");
 ChEye(4,4);
 ChMouth(4,3);

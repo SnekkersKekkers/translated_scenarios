@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B040523500_05_000");
-MsgDisp("Hiiragi","Hmm, I have lots of different
-thoughts about this... ...");
+MsgDisp("Hiiragi","Hmm, I have lots of different thoughts
+about this... ...");
 MsgSel("That was scary, but fun!","I think I'm paralyzed with fear...","The tricks were weak, no good no good!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,8 +38,7 @@ Which part scared you?");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523500_05_030");
-    MsgDisp("Hiiragi","Yes.
-I thought the same. I wish they'd 
+    MsgDisp("Hiiragi","Yes. I thought the same. I wish they'd
 made it a little more carefully.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

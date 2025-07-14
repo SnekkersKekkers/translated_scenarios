@@ -8,5 +8,4 @@ VoicePlay("B020500000_05_010");
 MsgDisp("Hiiragi","That outfit.
 It suits you very much.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems to
-like this!)");
+｛柊＊＊＊｝ seems to like this!)");

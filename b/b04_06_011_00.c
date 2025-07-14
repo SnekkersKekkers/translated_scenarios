@@ -39,8 +39,7 @@ It's definitely beautiful.");
     ChEyeOpenLevel(6,0);
     VoicePlay("B040601100_06_030");
     MsgDisp("Himuro","You have a fear of heights?
-You should have said so
-before we came up.");
+You should have said so before we came up.");
     MsgDateResultDisp();
     break ;
     default :

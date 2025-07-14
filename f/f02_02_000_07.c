@@ -27,9 +27,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200007_02_020");
-MsgDisp("Sassa","Yep. Walking dogs will be hard if I
-can't meet you for a while.
-How about you walk with me?");
+MsgDisp("Sassa","Yep. Walking dogs will be hard if I can't
+meet you for a while. How about you walk
+with me?");
 MsgDisp("主人公","Huh∋
 As a dog substitute?");
 ChEye(2,5);
@@ -52,8 +52,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200007_02_050");
 MsgDisp("Sassa","...Again, if your schedule allows...
-How about you take a morning walk with
-me?");
+How about you take a morning walk with me?");
 MsgDisp("主人公","Haha, I'll think about it.");
 ChEye(2,0);
 ChMouth(2,2);

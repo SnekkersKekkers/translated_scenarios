@@ -11,16 +11,16 @@ ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("P643100000_31_010");
 MsgDisp("Goro","I see, is that so...
-I thought the adrenaline
-secretion was mild.");
+I thought the adrenaline secretion was
+mild.");
 MsgDisp("主人公","Eh?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,1);
 VoicePlay("P643100000_31_020");
 MsgDisp("Goro","Yes, I like it!
-Next time, give me some tea 
-that makes me feel happy♪");
+Next time, give me some tea that makes me
+feel happy♪");
 MsgDisp("主人公","(Yay! A huge success♪)");
 MsgClose();
 ScrFadeOut(0);

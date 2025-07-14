@@ -1,7 +1,6 @@
 ChEye(4,2);
 ChMouth(4,4);
-MsgDisp("主人公","I also......
-like ｛七ツ森＊｝.");
+MsgDisp("主人公","I also...... like ｛七ツ森＊｝.");
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_130");
 MsgDisp("Nanatsumori","......Is that alright?");
@@ -36,7 +35,8 @@ Wait(120,0);
 StlOpen("ev_04_18");
 ScrFadeIn(0);
 VoicePlay("T020411000_04_170");
-MsgDisp("Nanatsumori","Thank you. I'll never let you go again.");
+MsgDisp("Nanatsumori","Thank you.
+I'll never let you go again.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(300,0);

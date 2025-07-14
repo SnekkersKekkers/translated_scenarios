@@ -6,8 +6,8 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,0);
     ChMotion(5,0);
     VoicePlay("F010500004_05_000");
-    MsgDisp("Hiiragi","I have important tasks today,
-so I must go home quickly.
+    MsgDisp("Hiiragi","I have important tasks today, so I must go
+home quickly.
 My apologies.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -50,7 +50,7 @@ I'll go home alone.)");
     ChMotion(5,0);
     ChEyeOpenLevel(5,8);
     VoicePlay("F010500004_05_040");
-    MsgDisp("Hiiragi","I considered canceling it, but I have a 
+    MsgDisp("Hiiragi","I considered canceling it, but I have a
 meeting today with an important patron.
 I cannot miss it.");
     MsgClose();

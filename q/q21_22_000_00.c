@@ -2,16 +2,15 @@ BGOpen("sc812",0);
 ChLayout(1);
 SEPlay("EV_SE_867",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Hmm?
-The boy's room looks really lively......)");
+MsgDisp("主人公","(......Hmm? The boy's room looks really
+lively......)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(22,30,0,0,3,#1,#1,0,0);
 VoicePlay("Q212200000_22_000");
 MsgDisp("Hikaru","Oh, Mari's here too?");
-MsgDisp("主人公","Ah, ｛ひかる＊｝.
-The boys' room is kind of lively, isn't 
-it.");
+MsgDisp("主人公","Ah, ｛ひかる＊｝. The boys' room is
+kind of lively, isn't it.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

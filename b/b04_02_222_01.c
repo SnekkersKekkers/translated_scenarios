@@ -9,7 +9,7 @@ VoicePlay("B040222201_02_000");
 MsgDisp("Sassa","When I was in elementary school, as part
 of some out of school learning, I had to
 write my thoughts on this place.");
-MsgSel("What did｛颯砂＊＊｝ write?","You still come here for extracurricular activities even now huh?","You've been coming here for ages, huh?");
+MsgSel("What did ｛颯砂＊＊｝ write?","You still come here for extracurricular activities even now huh?","You've been coming here for ages, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -40,9 +40,9 @@ on the pamphlet word-for word.");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B040222201_02_030");
-    MsgDisp("Sassa","Surely...this isn't the kind of place 
-I would go out to the trouble of
-coming with you on a day off?");
+    MsgDisp("Sassa","Surely...this isn't the kind of place I
+would go out to the trouble of coming with
+you on a day off?");
     MsgDateResultDisp();
     break ;
     default :

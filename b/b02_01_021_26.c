@@ -10,5 +10,5 @@ ChMouth(1,4);
 ChMotion(1,4);
 VoicePlay("B020102126_01_010");
 MsgDisp("Kazama","I wonder if my preferences have changed?");
-MsgDisp("主人公","(｛風真＊＊｝ seems to have started
-to like clothes like these.)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to have started to
+like clothes like these.)");

@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040202100_02_000");
-MsgDisp("Sassa","Walking along the brick road like
-this feels nice.");
+MsgDisp("Sassa","Walking along the brick road like this
+feels nice.");
 MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","It feels like we have it all to ourselves......");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,9 +28,8 @@ though.");
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("B040202100_02_020");
-    MsgDisp("Sassa","Jellyfish? There are a lot of
-those floating around there I think.
-Look.");
+    MsgDisp("Sassa","Jellyfish? There are a lot of those
+floating around there I think. Look.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -39,8 +38,8 @@ Look.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040202100_02_030");
-    MsgDisp("Sassa","Yeah. Even if we run as fast as
-we can it won't cause any trouble.");
+    MsgDisp("Sassa","Yeah. Even if we run as fast as we can it
+won't cause any trouble.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

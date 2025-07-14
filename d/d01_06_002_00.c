@@ -3,8 +3,8 @@ ChLayout(1);
 BGMPlay("BGM_SPORTS_DAY",0.01);
 ScrFadeIn(0);
 VoicePlay("D010600200_47_000");
-MsgDisp("Broadcast","Next up: Team Tug of War from the
-2nd year boys.");
+MsgDisp("Broadcast","Next up: Team Tug of War from the 2nd year
+boys.");
 MsgClose();
 SEPlay("EV_SE_628");
 Wait(30,0);
@@ -16,11 +16,11 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600200_06_000");
-MsgDisp("Himuro","Unfortunately, all of the 
-2nd year boys have to participate.");
+MsgDisp("Himuro","Unfortunately, all of the 2nd year boys
+have to participate.");
 VoicePlay("D010600200_47_010");
-MsgDisp("Broadcast","One of the participants is absent so
-there will be an emergency substitution.");
+MsgDisp("Broadcast","One of the participants is absent so there
+will be an emergency substitution.");
 VoicePlay("D010600200_47_020");
 ChEyeOpenLevel(6,10);
 MsgDisp("Broadcast","Vice Principal Himuro will be
@@ -56,9 +56,9 @@ MsgDisp("VP Himuro","Quiet down.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_010");
-MsgDisp("VP Himuro","As announced, gentlemen, do not 
-hesitate to give me your full attention 
-I want you to give it your all.");
+MsgDisp("VP Himuro","As announced, gentlemen, do not hesitate
+to give me your full attention I want you
+to give it your all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -70,9 +70,9 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("D010600200_32_020");
-MsgDisp("VP Himuro","This is because the teachers who
-preside over a class cannot be expected
-to maintain impartiality.");
+MsgDisp("VP Himuro","This is because the teachers who preside
+over a class cannot be expected to
+maintain impartiality.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_030");
@@ -114,7 +114,8 @@ SEPlay("EV_SE_GAYA_003",0.5);
 SEPlay("EV_SE_792",0.5);
 SEPlay("EV_SE_847",0.5);
 VoicePlay("D010600200_38_000");
-MsgDisp("Students","HEAVE-HO!　HEAVE-HO!");
+MsgDisp("Students","HEAVE-HO!
+HEAVE-HO!");
 MsgDisp("主人公","(It's so intense!
 ｛氷室＊＊｝ vs Himuro-sensei......)");
 BGMPlay("BGM_C06_INORI_C",0.01);
@@ -128,29 +129,28 @@ SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_792",2);
 SEStop("EV_SE_847",2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ahhh∈　They're neck and neck......
-It's like the two of them are
-fighting??)");
+MsgDisp("主人公","(Ahhh∈ They're neck and neck......
+It's like the two of them are fighting??)");
 StlEye(32,0);
 StlMouth(32,0);
 VoicePlay("D010600200_32_040");
-MsgDisp("VP Himuro","Do not fear defeat!
-Pull with all your might and emerge
-victorious! This is Tug of War!");
+MsgDisp("VP Himuro","Do not fear defeat! Pull with all your
+might and emerge victorious! This is Tug
+of War!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600200_06_050");
-MsgDisp("Himuro","That's it!　Keep pulling like this!
-We can't lose as long as we keep it up!
-This is Tug of War!");
+MsgDisp("Himuro","That's it! Keep pulling like this! We
+can't lose as long as we keep it up! This
+is Tug of War!");
 MsgDisp("主人公","(Ehh∋
 Are they having a conversation??)");
 StlEye(6,0,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600200_06_060");
-MsgDisp("Himuro","I'm going to make you regret joining
-us dressed like that!");
+MsgDisp("Himuro","I'm going to make you regret joining us
+dressed like that!");
 SEPlay("EV_SE_792",0.2);
 SEPlay("EV_SE_GAYA_011");
 VoicePlay("D010600200_38_010");
@@ -168,8 +168,8 @@ SEPlay("EV_SE_GAYA_011");
 VoicePlay("D010600200_38_010");
 MsgDisp("Students","PULL∈");
 MsgDisp("主人公","(Himuro-telepathy......?
-Thanks to you two the sports festival
-is so much fun......!)");
+Thanks to you two the sports festival is
+so much fun......!)");
 BGMStop(3);
 SEStop("EV_SE_791",2.5);
 SEStop("EV_SE_792",2);
@@ -205,10 +205,10 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("D010600200_06_080");
 MsgDisp("Himuro","Next year we will definitely win.");
-MsgDisp("主人公","(Will Vice Principal Himuro
-participate again next year? Even though
-that's after I graduated, I think I
-want to watch it......?)");
+MsgDisp("主人公","(Will Vice Principal Himuro participate
+again next year? Even though that's after
+I graduated, I think I want to watch
+it......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -4,9 +4,9 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121102_01_000");
-MsgDisp("Kazama","When I come here, I don't know
-if I'm looking at the animals,
-or if the animals are looking at me?");
+MsgDisp("Kazama","When I come here, I don't know if I'm
+looking at the animals, or if the animals
+are looking at me?");
 MsgSel("I wonder how we look like to the animals","They're looking at us as if we're strange, huh","Maybe they think we look delicious?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,4);
     ChCheek(1,5);
     VoicePlay("B040121102_01_010");
-    MsgDisp("Kazama","Don't we just look like 
-a pair of humans to them?");
+    MsgDisp("Kazama","Don't we just look like a pair of humans
+to them?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -78,14 +78,14 @@ I'll live strongly in the Savannah.");
         ChMotion(1,3);
         VoicePlay("B040121102_01_060");
         MsgDisp("Kazama","I see, that's right.
-You might even be better at
-surviving than me.");
+You might even be better at surviving than
+me.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040121102_01_070");
-        MsgDisp("Kazama","Because even your natural born
-enemies would grow to like you.");
+        MsgDisp("Kazama","Because even your natural born enemies
+would grow to like you.");
         MsgDisp("主人公","Ehh?");
         ChEye(1,4);
         ChMouth(1,3);
@@ -107,8 +107,8 @@ a person who doesn't like me...");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121102_01_100");
         MsgDisp("Kazama","That might be a problem in itself...");
-        MsgDisp("主人公","(｛風真＊＊｝
-is there something troubling you?)");
+        MsgDisp("主人公","(｛風真＊＊｝ is there something troubling
+you?)");
         break ;
         default :
         DbgAssert(1);

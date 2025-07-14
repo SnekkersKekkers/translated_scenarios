@@ -1,9 +1,9 @@
 BGOpen("wf200",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I had a nice interview today so I
-went ahead and bought a drink from that
-new cafe.)");
+MsgDisp("主人公","(I had a nice interview today so I went
+ahead and bought a drink from that new
+cafe.)");
 MsgDisp("主人公","(Okay, that bench over there......)");
 SEPlay("EV_SE_685");
 SEPlay("EV_SE_593");
@@ -92,7 +92,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900000_09_090");
 MsgDisp("Kuya?","Try not to fall anymore then.
-It would help if you got into \"fitness\" 
+It would help if you got into \"fitness\"
 and trained your body more.");
 MsgDisp("主人公","Ah, okay.
 I'll try to be careful......");
@@ -111,19 +111,18 @@ switch (MsgSelRsltGet()){
     MsgDisp("主人公","Excuse me!
 What's your name——");
     VoicePlay("D030900000_09_110");
-    MsgDisp("Kuya?","Sorry!
-But I have something to do, cya later!");
+    MsgDisp("Kuya?","Sorry! But I have something to do, cya
+later!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.4);
     MsgDisp("主人公","Later, huh.
 I wonder if I'll see him again......?");
-    MsgDisp("主人公","(Anyway......
-I kissed that guy.
-How embarrassing!)");
+    MsgDisp("主人公","(Anyway...... I kissed that guy. How
+embarrassing!)");
     break ;
     case 1:
-    MsgDisp("主人公","(I don't know him at all and I'll
-probably never see him again. Even
-though I kissed him......)");
+    MsgDisp("主人公","(I don't know him at all and I'll probably
+never see him again.
+Even though I kissed him......)");
     break ;
     default :
     DbgAssert(0);

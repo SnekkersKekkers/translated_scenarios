@@ -14,8 +14,8 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("X120100002_01_000");
     MsgDisp("Kazama","It's hard to make the stuff in your head,
-isn't it? You're amazing for making it
-look so easy.");
+isn't it?
+You're amazing for making it look so easy.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

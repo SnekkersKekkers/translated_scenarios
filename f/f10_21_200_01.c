@@ -10,23 +10,22 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102120001_21_000");
-MsgDisp("Michiru","Hey, it's getting complicated
-even for you, right?");
+MsgDisp("Michiru","Hey, it's getting complicated even for
+you, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F102120001_06_000");
 MsgDisp("Himuro","Not really.
-I can tell the difference 
-intuitively.");
+I can tell the difference intuitively.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,1);
 VoicePlay("F102120001_21_010");
 MsgDisp("Michiru","Hey!
 You really are a contrararian.");
-MsgDisp("主人公","Hey, ｛みちる＊｝, ｛氷室＊＊｝!
-What are you two talking about?");
+MsgDisp("主人公","Hey, ｛みちる＊｝, ｛氷室＊＊｝! What are
+you two talking about?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -37,8 +36,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F102120001_06_010");
-MsgDisp("Himuro","...Seems like it's a 
-puzzling conversation.");
+MsgDisp("Himuro","...Seems like it's a puzzling
+conversation.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -56,8 +55,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F102120001_21_040");
-MsgDisp("Michiru","Maybe he would be at a 
-disadvantage with Mari here?");
+MsgDisp("Michiru","Maybe he would be at a disadvantage with
+Mari here?");
 MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();

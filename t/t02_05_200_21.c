@@ -5,10 +5,10 @@ Wait(60,0);
 ChEyeOpenLevel(5,#1);
 VoiceEVSPlay(5);
 VoicePlay("T020520021_05_000");
-MsgDisp("Hiiragi","｛主人公｝,
-That......");
+MsgDisp("Hiiragi","｛主人公｝, That......");
 MsgDisp("主人公","Because I couldn't put it into words
-well...... I too, like ｛柊＊＊＊｝.");
+well......
+I too, like ｛柊＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -39,8 +39,9 @@ Wait(16,0);
 ChMouth(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("T020520021_05_040");
-MsgDisp("Hiiragi","Haha, it's a joke. Thanks to them, I was
-able to see your smile up close.");
+MsgDisp("Hiiragi","Haha, it's a joke.
+Thanks to them, I was able to see your
+smile up close.");
 MsgDisp("主人公","What......");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);

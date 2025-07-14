@@ -1,3 +1,2 @@
-MsgDisp("主人公","｛風真＊＊｝'s.
-A fancy card......
-I wonder if he bought this from England?");
+MsgDisp("主人公","｛風真＊＊｝'s. A fancy card...... I
+wonder if he bought this from England?");

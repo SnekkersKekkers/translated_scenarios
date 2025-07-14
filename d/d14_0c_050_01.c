@@ -12,13 +12,14 @@ ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C05001_05_000");
 MsgDisp("Hiiragi","Inori-kun.
-Would you be happy if it weren't 
-the two of you for lunch today? ");
+Would you be happy if it weren't the two
+of you for lunch today?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("D140C05001_07_000");
-MsgDisp("Mikage","Ooh, Yanosuke. A straight ball.
+MsgDisp("Mikage","Ooh, Yanosuke.
+A straight ball.
 And how will Inori retort?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -46,9 +47,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C05001_05_010");
-MsgDisp("Hiiragi","I was talking to Mikage-sensei
-about how you'and Inori-kun have 
-been spending a lot of time together.");
+MsgDisp("Hiiragi","I was talking to Mikage-sensei about how
+you'and Inori-kun have been spending a lot
+of time together.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -61,9 +62,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D140C05001_07_040");
-MsgDisp("Mikage","That's why, we're going to 
-read the room and sit at the table
-next to you guys.");
+MsgDisp("Mikage","That's why, we're going to read the room
+and sit at the table next to you guys.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -78,8 +78,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05001_06_020");
-MsgDisp("Himuro","If you're going to move,
-please move further away.");
+MsgDisp("Himuro","If you're going to move, please move
+further away.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -95,9 +95,9 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140C05001_05_020");
-MsgDisp("Hiiragi","My apologies, Inori-kun. 
-But, if you want to have lunch as 
-a pair, then please say so. ");
+MsgDisp("Hiiragi","My apologies, Inori-kun.
+But, if you want to have lunch as a pair,
+then please say so.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

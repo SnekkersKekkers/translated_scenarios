@@ -10,22 +10,21 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110303_01_010");
-MsgDisp("Kazama","But they've been waiting in water 
-and soil for ten months to become adults..");
+MsgDisp("Kazama","But they've been waiting in water and soil
+for ten months to become adults..");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110303_01_020");
 MsgDisp("Kazama","I really feel for the fireflies.");
-MsgDisp("主人公","If ｛風真＊＊｝ was a firefly, 
-He'd shine wonderfully, wouldn't he?");
+MsgDisp("主人公","If ｛風真＊＊｝ was a firefly, He'd shine
+wonderfully, wouldn't he?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110303_01_030");
-MsgDisp("Kazama","What?
-If you were a firefly——Ah right,
+MsgDisp("Kazama","What? If you were a firefly——Ah right,
 adult fireflies don't eat, do they?");
 MsgDisp("主人公","Hey.
 I'm not that much of a glutton.");
@@ -42,8 +41,8 @@ ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110303_01_050");
-MsgDisp("Kazama","......It's hard to find you, 
-so just stay still for a bit.");
+MsgDisp("Kazama","......It's hard to find you, so just stay
+still for a bit.");
 MsgDisp("主人公","Hehe.
 Hey, why are you telling me off?");
 ChEye(1,4);
@@ -55,9 +54,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110303_01_070");
-MsgDisp("Kazama","......Hm?
-Wait, there's something fluttering in 
-front of us, isn't there?");
+MsgDisp("Kazama","......Hm? Wait, there's something
+fluttering in front of us, isn't there?");
 MsgDisp("主人公","Agh!　It landed on my head∋");
 ChEye(1,3);
 ChMouth(1,2);
@@ -102,8 +100,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110303_01_120");
-MsgDisp("Kazama","This morning, 
-there was someone bothering you, right?");
+MsgDisp("Kazama","This morning, there was someone bothering
+you, right?");
 MsgDisp("主人公","Ah, yeah.");
 ChEye(1,1);
 ChMouth(1,1);

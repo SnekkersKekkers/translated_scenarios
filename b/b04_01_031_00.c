@@ -6,8 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040103100_01_000");
-MsgDisp("Kazama","This is such a cool and calm place,
-I don't mind it here.");
+MsgDisp("Kazama","This is such a cool and calm place, I
+don't mind it here.");
 MsgSel("What's the name of that fish?","The patterns on those fish are beautiful▼","Wow∋ I feel their stares from behind the rocks...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040103100_01_020");
-    MsgDisp("Kazama","Some of them are so flamboyant. It's
-funny.");
+    MsgDisp("Kazama","Some of them are so flamboyant.
+It's funny.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

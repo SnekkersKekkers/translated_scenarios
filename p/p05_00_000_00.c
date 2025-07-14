@@ -1,7 +1,7 @@
 BGOpen("sc710",0);
 ScrFadeIn(0);
-MsgDisp("主人公","The cafe that my class set up
-was a great success!
+MsgDisp("主人公","The cafe that my class set up was a great
+success!
 What a fun cultural festival!");
 BGMStop(1.5);
 MsgClose();

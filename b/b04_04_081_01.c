@@ -6,8 +6,8 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040408101_04_000");
-MsgDisp("Nanatsumori","Sakura is a common motif, 
-so I'm a bit tired of it...");
+MsgDisp("Nanatsumori","Sakura is a common motif, so I'm a bit
+tired of it...");
 MsgSel("Are you thinking of posting?","The classics are great!","Are you saying you've had enough?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -31,8 +31,8 @@ I'll take a picture for noe.");
     ChMotion(4,4,1);
     VoicePlay("B040408101_04_020");
     MsgDisp("Nanatsumori","I get it, so shh.
-If there are people who think that, 
-maybe I'm just overthinking it.");
+If there are people who think that, maybe
+I'm just overthinking it.");
     ChMotion(4,0,1);
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

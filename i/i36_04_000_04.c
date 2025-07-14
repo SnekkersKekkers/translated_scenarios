@@ -10,7 +10,8 @@ switch (ChPrmGet(4,6)){
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","The store is...... yeah, seems fine.
+    MsgDisp("主人公","The store is......
+yeah, seems fine.
 Let's clean up soon.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
@@ -33,9 +34,8 @@ Here is your pear and custard tart.");
     VoicePlay("I360400004_04_020");
     MsgDisp("Nanatsumori","Thank you.
 .........");
-    MsgDisp("主人公","......Hm?
-Is there something else
-I can help you with?");
+    MsgDisp("主人公","......Hm? Is there something else I can
+help you with?");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("I360400004_04_030");
@@ -46,15 +46,15 @@ I can help you with?");
     VoicePlay("I360400004_04_040");
     MsgDisp("Nanatsumori","The pear tart looks damn good......!
 Pictures, pictures......");
-    MsgDisp("主人公","(Hehe!
-｛七ツ森＊｝ praised me!)");
+    MsgDisp("主人公","(Hehe! ｛七ツ森＊｝ praised me!)");
     break ;
     case 4:
     case 5:
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","The store is...... yeah, seems fine.
+    MsgDisp("主人公","The store is......
+yeah, seems fine.
 Let's clean up soon.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
@@ -75,13 +75,13 @@ Here is your pear and custard tart.");
     ChMotion(4,0,1);
     VoicePlay("I360400004_04_070");
     MsgDisp("Nanatsumori","I sure waited.");
-    MsgDisp("主人公","｛七ツ森＊｝, have you been
-whispering something for a while now?");
+    MsgDisp("主人公","｛七ツ森＊｝, have you been whispering
+something for a while now?");
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("I360400004_04_080");
-    MsgDisp("Nanatsumori","Hm? I've been adding commentary
-to your actions......");
+    MsgDisp("Nanatsumori","Hm? I've been adding commentary to your
+actions......");
     MsgDisp("主人公","Hm?
 You didn't take a video, did yo-");
     ChEye(4,3);
@@ -93,17 +93,16 @@ You didn't take a video, did yo-");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("I360400004_04_100");
-    MsgDisp("Nanatsumori","You're getting so used to this
-shop, it brings a tear to my eye that I
-can finally savor my coffee and sweets.");
+    MsgDisp("Nanatsumori","You're getting so used to this shop, it
+brings a tear to my eye that I can finally
+savor my coffee and sweets.");
     MsgDisp("主人公","Geez......
 But, do you mean it?");
     ChMotion(4,0,1);
     VoicePlay("I360400004_04_110");
     MsgDisp("Nanatsumori","Yeah.
 You're completely used to it.");
-    MsgDisp("主人公","(Hehe!
-｛七ツ森＊｝ praised me!)");
+    MsgDisp("主人公","(Hehe! ｛七ツ森＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040504100_05_000");
     MsgDisp("Hiiragi","I'm glad.
-Unfortunately, I do not have the
-insight even to criticize it.");
+Unfortunately, I do not have the insight
+even to criticize it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -21,8 +21,8 @@ insight even to criticize it.");
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("B040504100_05_010");
-    MsgDisp("Hiiragi","The effort they put in was something
-that even I could sense.");
+    MsgDisp("Hiiragi","The effort they put in was something that
+even I could sense.");
     MsgDateResultDisp();
     break ;
     case 2:

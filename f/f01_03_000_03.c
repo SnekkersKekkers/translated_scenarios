@@ -17,8 +17,8 @@ Well then, let's go.");
     ChMotion(3,1,1);
     VoicePlay("F010300003_03_010");
     MsgDisp("Honda","Mhm, let's do it!
-There are tons of things I want to talk
-to you about.");
+There are tons of things I want to talk to
+you about.");
     MsgDisp("主人公","Hehe, I'm glad.
 Well then, let's go.");
     break ;
@@ -29,8 +29,8 @@ Well then, let's go.");
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("F010300003_03_020");
-    MsgDisp("Honda","If you hadn't asked me, 
-I would've asked you.");
+    MsgDisp("Honda","If you hadn't asked me, I would've asked
+you.");
     MsgDisp("主人公","Hehe, I'm glad.
 Well then, let's go.");
     break ;

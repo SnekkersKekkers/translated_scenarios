@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm running late...
-｛御影＊＊｝ is... Already here!)");
+MsgDisp("主人公","(I'm running late... ｛御影＊＊｝ is...
+Already here!)");
 MsgDisp("主人公","I'm sorry for being late!");
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 MsgClose();

@@ -42,8 +42,8 @@ I'll go home alone.)");
     ChMouth(22,5);
     ChMotion(22,2,1);
     VoicePlay("F012200006_22_030");
-    MsgDisp("Hikaru","Oh... Hikaru wants to, but...
-Hikaru is busy...");
+    MsgDisp("Hikaru","Oh... Hikaru wants to, but... Hikaru is
+busy...");
     MsgDisp("主人公","That's fine.
 Well, how about another time?");
     ChEye(22,2);

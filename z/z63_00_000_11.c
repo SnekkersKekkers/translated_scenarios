@@ -4,8 +4,8 @@ MsgSel("First-rate university","Second-rate university","Third-rate university")
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Of course, a first-rate university!
-I should aim as high as I can for
-my higher education.");
+I should aim as high as I can for my
+higher education.");
     break ;
     case 1:
     MsgDisp("主人公","I'll try a second-rate university.

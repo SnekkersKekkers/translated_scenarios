@@ -11,8 +11,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C05101_42_000");
-MsgDisp("Male Student A","We're even giving away 
-a glass of Habataki 
+MsgDisp("Male Student A","We're even giving away a glass of Habataki
 Mixed juice for free!");
 ChEye(5,0);
 ChMouth(5,2);
@@ -28,8 +27,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoiceEVSPlay(6);
 VoicePlay("D140C05101_06_000");
-MsgDisp("Himuro","｛主人公｝,
-You like Habataki mixed juice right?
+MsgDisp("Himuro","｛主人公｝, You like Habataki mixed
+juice right?
 ...Do you want it?");
 ChMouth(5,4);
 MsgDisp("主人公","Is that okay?");
@@ -43,9 +42,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("D140C05101_06_010");
-MsgDisp("Himuro","...Understood.
-I'll also bring one for Yanosuke-senpai 
-and Kojiro-sensei.");
+MsgDisp("Himuro","...Understood. I'll also bring one for
+Yanosuke-senpai and Kojiro-sensei.");
 MsgClose();
 SEPlay("EV_SE_621");
 Wait(10,0);
@@ -67,10 +65,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C05101_05_010");
-MsgDisp("Hiiragi","Inori-kun is so kind that 
-he gave me that impression. That he would 
-surely bring me one 
-without me having to ask.");
+MsgDisp("Hiiragi","Inori-kun is so kind that he gave me that
+impression. That he would surely bring me
+one without me having to ask.");
 VoicePlay("D140C05101_06_020");
 MsgDisp("Himuro","Sorry, this was the last one.
 So, I'm giving it to you.");

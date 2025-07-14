@@ -26,8 +26,8 @@ up more independence?");
     ChMotion(6,3);
     VoicePlay("B040624200_06_020");
     MsgDisp("Himuro","Yeah, not a bad suggestion.
-Then, let's prepare the ingredients 
-and start grilling right away.");
+Then, let's prepare the ingredients and
+start grilling right away.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ and start grilling right away.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040624200_06_030");
-    MsgDisp("Himuro","Isn't overcoming inconveniences
-the true thrill of camping?");
+    MsgDisp("Himuro","Isn't overcoming inconveniences the true
+thrill of camping?");
     MsgDateResultDisp();
     break ;
     default :

@@ -22,8 +22,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D130B00100_03_000");
 MsgDisp("Honda","Look, look!
-I brought a lot of cake so 
-let's all eat it together!");
+I brought a lot of cake so let's all eat
+it together!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -34,9 +34,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130B00100_01_010");
-MsgDisp("Kazama","Wait.
-At times like this,
-it's ladies first right?");
+MsgDisp("Kazama","Wait. At times like this, it's ladies
+first right?");
 MsgDisp("主人公","Hehe.
 Hmm, then which one should I choose?");
 ChEye(4,1);
@@ -56,8 +55,8 @@ MsgDisp("Honda","............");
 ChMouthOpenLevel(4,0);
 VoicePlay("D130B00100_04_010");
 MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","...Hey, it's a bit embarrassing
-if you stare at me like that.");
+MsgDisp("主人公","...Hey, it's a bit embarrassing if you
+stare at me like that.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -82,33 +81,30 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,2,1);
 VoicePlay("D130B00100_03_020");
-MsgDisp("Honda","Being childhood friends you
-just know each other's
-preferences after all, huhー.");
+MsgDisp("Honda","Being childhood friends you just know each
+other's preferences after all, huhー.");
 MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D130B00100_01_050");
 MsgDisp("Kazama","I chose that cake.
-I thought you'd like 
-that kind of thing.");
+I thought you'd like that kind of thing.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("D130B00100_04_030");
 MsgDisp("Nanatsumori","Hey, hey.
-We can't enter this world 
-between the two of you.");
+We can't enter this world between the two
+of you.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D130B00100_03_030");
 MsgDisp("Honda","Right right!
 Let's all chat and eat cake together!");
-MsgDisp("主人公","(Could it be that everyone 
-chose the cake they thought 
-I was going to like?)");
+MsgDisp("主人公","(Could it be that everyone chose the cake
+they thought I was going to like?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

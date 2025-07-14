@@ -15,9 +15,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,4,1);
     VoicePlay("R040700002_07_000");
-    MsgDisp("Mikage","Oh, it's the Principal and Vice
-Principal. I should say hello...
-properly.");
+    MsgDisp("Mikage","Oh, it's the Principal and Vice Principal.
+I should say hello... properly.");
     MsgDisp("主人公","Umm, sure, go ahead.");
     break ;
     case 3:
@@ -29,15 +28,15 @@ properly.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("R040700002_07_010");
-    MsgDisp("Mikage","Sigh, school is hard. After all,
-I am a teacher.");
+    MsgDisp("Mikage","Sigh, school is hard.
+After all, I am a teacher.");
     MsgDisp("主人公","Huh?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2,1);
     VoicePlay("R040700002_07_020");
-    MsgDisp("Mikage","I'm gonna go say hi to the
-Principal and Vice Principal.");
+    MsgDisp("Mikage","I'm gonna go say hi to the Principal and
+Vice Principal.");
     MsgDisp("主人公","Sure, see you later.");
     break ;
     case 4:

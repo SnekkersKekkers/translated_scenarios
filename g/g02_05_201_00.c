@@ -15,9 +15,8 @@ feelings out yet.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520100_05_020");
-MsgDisp("Hiiragi","Right now, I
-strongly feel how happy I am to
-see your smile up close.");
+MsgDisp("Hiiragi","Right now, I strongly feel how happy I am
+to see your smile up close.");
 MsgDisp("主人公","O-Okay?");
 ChMotion(5,2);
 VoicePlay("G020520100_05_030");
@@ -37,8 +36,8 @@ MsgDisp("Hiiragi","The next time I come here, I hope the
 fireflies' light will look like a
 different color.");
 MsgDisp("主人公","(｛柊＊＊＊｝ seems different to
-usual...... Perhaps this is his inner
-voice?)");
+usual......
+Perhaps this is his inner voice?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

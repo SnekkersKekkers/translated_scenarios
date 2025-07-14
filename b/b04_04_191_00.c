@@ -25,8 +25,8 @@ It was a great movie.");
     ChMouth(4,4);
     ChMotion(4,0);
     VoicePlay("B040419100_04_010");
-    MsgDisp("Nanatsumori","I guess you thought 
-it would be more moving.
+    MsgDisp("Nanatsumori","I guess you thought it would be more
+moving.
 Well, to each their own.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

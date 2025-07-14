@@ -9,5 +9,5 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("D140701058_07_010");
-MsgDisp("Mikage","I'm looking forward to figuring out
-what's tropical about it.");
+MsgDisp("Mikage","I'm looking forward to figuring out what's
+tropical about it.");

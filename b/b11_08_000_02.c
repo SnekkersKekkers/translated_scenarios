@@ -17,9 +17,9 @@ MsgDisp("Guy","Nice, nice, that's good～!");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110800002_35_020");
-MsgDisp("Guy","Alright, here we go! We've discovered 
-a golden egg of a great actress!
-Let's head to the agency——");
+MsgDisp("Guy","Alright, here we go! We've discovered a
+golden egg of a great actress! Let's head
+to the agency——");
 ChPosition(35,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C08_DAICHI_A",0.01);
@@ -42,9 +42,8 @@ VoicePlay("B110800002_08_010");
 MsgDisp("Shirahane","It's no good, I don't understand.
 Can you translate?");
 MsgDispSksp(0);
-MsgDisp("主人公","Ah... sorry.
-I also wasn't really listening to 
-him properly either.");
+MsgDisp("主人公","Ah... sorry. I also wasn't really
+listening to him properly either.");
 MsgDispSksp(1,5);
 ChEye(8,3);
 ChMouth(8,3);
@@ -78,5 +77,5 @@ ChEye(8,3);
 ChMouth(8,3);
 ChPosition(8,0);
 VoicePlay("B110800002_08_040");
-MsgDisp("Shirahane","Oh, I can understand that! 
+MsgDisp("Shirahane","Oh, I can understand that!
 But we don't need to meet again!ー.");

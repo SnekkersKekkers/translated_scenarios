@@ -13,9 +13,8 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","Happy New Year.");
     MsgDisp("主人公","Happy New Year!");
     VoicePlay("S040400000_04_010");
-    MsgDisp("Nanatsumori","Hey, if you're free right now,
-would you like to come with me to the
-shrine?");
+    MsgDisp("Nanatsumori","Hey, if you're free right now, would you
+like to come with me to the shrine?");
     MsgSel("Yeah, let's go!","Sorry, I can't......");
     switch (MsgSelRsltGet()){
         case 0:
@@ -39,9 +38,9 @@ That's disappointing.");
 See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through
-the trouble of inviting me, did I do
-something wrong......)");
+        MsgDisp("主人公","(Even though he went through the trouble
+of inviting me, did I do something
+wrong......)");
         break ;
         default :
         DbgAssert(0);
@@ -63,8 +62,8 @@ something wrong......)");
     MsgDisp("Nanatsumori","I'm so relieved you picked up.");
     MsgDisp("主人公","Huh?");
     VoicePlay("S040400000_04_070");
-    MsgDisp("Nanatsumori","I want to us to go to the shrine
-together. What do you think?");
+    MsgDisp("Nanatsumori","I want to us to go to the shrine together.
+What do you think?");
     MsgSel("Sure, let's go!","Sorry, I can't......");
     switch (MsgSelRsltGet()){
         case 0:
@@ -77,13 +76,13 @@ Okay, I'm coming to pick you up now.");
 get ready, huh?");
         MsgDisp("主人公","Eh?");
         VoicePlay("S040400000_04_100");
-        MsgDisp("Nanatsumori","You don't have to hurry. Just
-make the right decision.
+        MsgDisp("Nanatsumori","You don't have to hurry.
+Just make the right decision.
 See you soon.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I feel like he's expecting
-something from me......
+        MsgDisp("主人公","(I feel like he's expecting something from
+me......
 Hmm, what to wear?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -97,13 +96,12 @@ Hmm, what to wear?)");
 New Year's is a really busy day, I guess.");
         MsgDisp("主人公","I'm really sorry.");
         VoicePlay("S040400000_04_130");
-        MsgDisp("Nanatsumori","Don't worry about it.
-It's cold, so try not to get sick.
-Bye......");
+        MsgDisp("Nanatsumori","Don't worry about it. It's cold, so try
+not to get sick. Bye......");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through
-all the trouble of inviting me......
+        MsgDisp("主人公","(Even though he went through all the
+trouble of inviting me......
 Did I make a bad choice......)");
         break ;
         default :

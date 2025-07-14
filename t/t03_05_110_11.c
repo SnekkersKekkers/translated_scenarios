@@ -13,6 +13,6 @@ trying to take away not only my shopping
 time but also my time with you?\" before
 smiling gently and saying, \"So why don't
 we go together?");
-MsgDisp("","Being with ｛柊＊＊＊｝, 
-always makes my heart flutter.");
+MsgDisp("","Being with ｛柊＊＊＊｝, always makes my
+heart flutter.");
 MsgClear();

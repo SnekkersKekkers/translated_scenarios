@@ -28,8 +28,7 @@ Just answer casually?");
     ChMotion(6,0);
     VoicePlay("B040606102_06_020");
     MsgDisp("Himuro","A safe answer.
-...But, that's how it 
-is for most people.");
+...But, that's how it is for most people.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +45,8 @@ is for most people.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040606102_06_030");
-        MsgDisp("Himuro","I have no obligation to go 
-along with your jokes.");
+        MsgDisp("Himuro","I have no obligation to go along with your
+jokes.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -63,8 +62,8 @@ Then, what am I to you?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606102_06_050");
-        MsgDisp("Himuro","Should I keep watching you 
-talk to the guys around here?");
+        MsgDisp("Himuro","Should I keep watching you talk to the
+guys around here?");
         MsgDisp("主人公","No, I was just making 
 a joke just now....");
         ChEye(6,0);
@@ -77,8 +76,8 @@ I know that, but I'm pissed.");
         ChMouth(6,1);
         ChMotion(6,0);
         VoicePlay("B040606102_06_070");
-        MsgDisp("Himuro","The sea is a special place to me, 
-And I'm here with you now.");
+        MsgDisp("Himuro","The sea is a special place to me, And I'm
+here with you now.");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,4);
@@ -113,8 +112,8 @@ Reflect on it.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606102_06_120");
-        MsgDisp("Himuro","You can buy me soda and
-french fries as an apology.
+        MsgDisp("Himuro","You can buy me soda and french fries as an
+apology.
 I was just starting to get hungry.");
         MsgDisp("主人公","Alright, I'll go buy them.");
         ChEye(6,0);
@@ -122,8 +121,8 @@ I was just starting to get hungry.");
         ChMotion(6,1);
         VoicePlay("B040606102_06_130");
         MsgDisp("Himuro","Don't go on your own, I'll go too.
-I'll be troubled if guys around
-here started hitting on you.");
+I'll be troubled if guys around here
+started hitting on you.");
         MsgDisp("主人公","They won't!");
         ChEye(6,0);
         ChMouth(6,4);

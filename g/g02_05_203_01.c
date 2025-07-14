@@ -2,14 +2,15 @@ MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 ChMotion(5,4);
 VoicePlay("G020520301_05_000");
-MsgDisp("Hiiragi","Ah, please have a look. A lot of fireflies
-are gathering around a single one..");
+MsgDisp("Hiiragi","Ah, please have a look.
+A lot of fireflies are gathering around a
+single one..");
 ChEye(5,4);
 VoicePlay("G020520301_05_010");
 MsgDisp("Hiiragi","Even in the firefly world, there are
 popular ones, huh?");
-MsgDisp("主人公","Hehe, is it the ｛柊＊＊＊｝ of the firefly
-world?");
+MsgDisp("主人公","Hehe, is it the ｛柊＊＊＊｝ of the
+firefly world?");
 ChEye(5,3);
 VoicePlay("G020520301_05_020");
 MsgDisp("Hiiragi","The poster boy of firefly theatre,

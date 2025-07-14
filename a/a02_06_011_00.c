@@ -1,6 +1,6 @@
 BGOpen("sc211",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's time for the entrance 
+MsgDisp("主人公","(It's time for the entrance
 ceremony......)");
 MsgDisp("主人公","(......Huh?
 This boy right here......)");
@@ -22,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_020");
-MsgDisp("Himuro?","If you've got something to ask,
-just do it.");
+MsgDisp("Himuro?","If you've got something to ask, just do
+it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -43,9 +43,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_050");
-MsgDisp("Himuro","And as you may have guessed,
-A relative of Reiichi-sa...... of 
-Vice principal Himuro.");
+MsgDisp("Himuro","And as you may have guessed, A relative of
+Reiichi-sa......
+of Vice principal Himuro.");
 MsgDisp("主人公","Oh......I see!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -58,9 +58,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_070");
 MsgDisp("Himuro","And who might you be?");
-MsgDisp("主人公","Ah, sorry,
-I'm ｛主人公姓名｝.
-I'm in second year. Nice to meet you.");
+MsgDisp("主人公","Ah, sorry, I'm ｛主人公姓名｝.
+I'm in second year.
+Nice to meet you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -71,8 +71,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_090");
-MsgDisp("Himuro","But don't
-bring it up too much please.
+MsgDisp("Himuro","But don't bring it up too much please.
 ......cause I'll get angry.");
 MsgDisp("主人公","A-Alright.");
 ChEye(6,0);
@@ -84,9 +83,8 @@ You're dismissed.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝......
-Seems like I should stay away from
-bringing up his relationship with
-the vice principal.)");
+MsgDisp("主人公","(｛氷室＊＊｝...... Seems like I should stay
+away from bringing up his relationship
+with the vice principal.)");
 MsgClose();
 ScrFadeOut(0);

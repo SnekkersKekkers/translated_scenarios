@@ -6,8 +6,8 @@ ChOpen(2,254,0,0,4,#1,#1,0,0,0,30);
 ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, what are you all
-gathered here talking about?");
+MsgDisp("主人公","Ah, what are you all gathered here talking
+about?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -18,8 +18,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130A00001_01_000");
-MsgDisp("Kazama","Really? I thought that was 
-quite standard for her.");
+MsgDisp("Kazama","Really? I thought that was quite standard
+for her.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -42,8 +42,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00001_06_020");
-MsgDisp("Himuro","Your childhood friend over
-here is completely conscious over it.");
+MsgDisp("Himuro","Your childhood friend over here is
+completely conscious over it.");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
@@ -51,9 +51,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("D130A00001_02_010");
-MsgDisp("Sassa","It'll be hard for you 
-if everyone is altogether. That's
-why I'll head over there by myself.");
+MsgDisp("Sassa","It'll be hard for you if everyone is
+altogether.
+That's why I'll head over there by myself.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2,0,30);
@@ -77,13 +77,13 @@ ChMotion(6,0);
 VoicePlay("D130A00001_06_030");
 MsgDisp("Himuro","What day is it today?
 That's all I'll say.
-...Well then. ");
+...Well then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();
 ChClose(1,0,30);
 ChClose(6,0,30);
-MsgDisp("主人公","(Ah, today is Valentine's day. 
+MsgDisp("主人公","(Ah, today is Valentine's day.
 That's why everyone is so excited.)");
 MsgClose();
 ScrFadeOut(0);

@@ -16,10 +16,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1);
     VoiceEVSPlay(3);
     VoicePlay("F010300007_03_000");
-    MsgDisp("Honda","｛主人公｝.
-Are you going home now?");
-    MsgDisp("主人公","Yes.
-You too, ｛本多＊＊｝?");
+    MsgDisp("Honda","｛主人公｝. Are you going home now?");
+    MsgDisp("主人公","Yes. You too, ｛本多＊＊｝?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);
@@ -34,14 +32,13 @@ So, how about we go together?");
     ChMotion(3,5);
     VoicePlay("F010300007_03_020");
     MsgDisp("Honda","Oh, there you are!");
-    MsgDisp("主人公","Oh, ｛本多＊＊｝.
-What's up?");
+    MsgDisp("主人公","Oh, ｛本多＊＊｝. What's up?");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("F010300007_03_030");
-    MsgDisp("Honda","I really wanted to talk to you,
-so I was looking for you.
+    MsgDisp("Honda","I really wanted to talk to you, so I was
+looking for you.
 ...So, how about we walk home together?");
     break ;
     default :

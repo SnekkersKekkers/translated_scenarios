@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040208101_02_010");
-    MsgDisp("Sassa","Truly, people in the olden 
-days had a way with words.");
+    MsgDisp("Sassa","Truly, people in the olden days had a way
+with words.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

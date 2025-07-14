@@ -4,8 +4,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","...Alright.
 Time to head home.");
 VoicePlay("E010120100_01_000");
-MsgDisp("Kazama?","A select shop like ours
-doesn't have a lot of stock, you see.");
+MsgDisp("Kazama?","A select shop like ours doesn't have a lot
+of stock, you see.");
 VoicePlay("E010120100_05_000");
 MsgDisp("Hiiragi?","I see.
 Thank you.
@@ -16,8 +16,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("E010120100_05_010");
 MsgDisp("Hiiragi","Ah, hello.");
-MsgDisp("主人公","Hello, ｛柊＊＊＊｝.
-Are you doing some shopping?");
+MsgDisp("主人公","Hello, ｛柊＊＊＊｝. Are you doing some
+shopping?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -62,23 +62,22 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("E010120100_05_050");
-MsgDisp("Hiiragi","Is that so? Thank you.
+MsgDisp("Hiiragi","Is that so?
+Thank you.
 You negotiated with the shopkeeper?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("E010120100_01_040");
-MsgDisp("Kazama","I'm also a shopkeeper, 
-so don't thank me.
+MsgDisp("Kazama","I'm also a shopkeeper, so don't thank me.
 I'll call you when it comes in.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010120100_05_060");
-MsgDisp("Hiiragi","I'll be waiting.
-That's the charismatic shopkeeper 
-we've heard so much about, isn't it?
-Well, I'll get going.");
+MsgDisp("Hiiragi","I'll be waiting. That's the charismatic
+shopkeeper we've heard so much about,
+isn't it? Well, I'll get going.");
 ChMouth(1,0);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -98,29 +97,27 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010120100_01_060");
-MsgDisp("Kazama","He asked me for something with a
-holly pattern that didn't look too
-Christmas themed.");
+MsgDisp("Kazama","He asked me for something with a holly
+pattern that didn't look too Christmas
+themed.");
 MsgDisp("主人公","You found the perfect thing!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("E010120100_01_070");
-MsgDisp("Kazama","I didn't think I 
-could get 20 units.
+MsgDisp("Kazama","I didn't think I could get 20 units.
 But I did it successfully!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010120100_01_080");
-MsgDisp("Kazama","Ah, I gotta go too.
-See you later then, Ms. Apparition?");
+MsgDisp("Kazama","Ah, I gotta go too. See you later then,
+Ms. Apparition?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","Hehe.
-｛柊＊＊＊｝ and ｛風真＊＊｝ both are 
-amazing......)");
+MsgDisp("主人公","Hehe. ｛柊＊＊＊｝ and ｛風真＊＊｝ both
+are amazing......)");
 MsgClose();
 ScrFadeOut(0,0);

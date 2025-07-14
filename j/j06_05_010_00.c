@@ -16,8 +16,8 @@ Can you suggest a meeting place?");
         MsgDisp("主人公","At ｛待ち合わせ場所｝ sounds good?");
         VoicePlay("J060501000_05_010");
         MsgDisp("Hiiragi","Yes, ma'am.
-To be able to accept the invitation,
-It is such a pleasure.");
+To be able to accept the invitation, It is
+such a pleasure.");
         VoicePlay("J060501000_05_020");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -41,7 +41,8 @@ Is this a date?)");
         case 4:
         case 5:
         VoicePlay("J060501000_05_030");
-        MsgDisp("Hiiragi","I see. I understand.");
+        MsgDisp("Hiiragi","I see.
+I understand.");
         MsgDisp("主人公","I'm sorry about that .......
 I'm just ......");
         VoicePlay("J060501000_05_040");

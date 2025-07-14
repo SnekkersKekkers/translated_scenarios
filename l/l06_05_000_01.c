@@ -6,8 +6,7 @@ MsgDisp("Hiiragi?","Aah, I've been looking for you.");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
 ChOpen(5,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Hm?
-Ah, ｛柊＊＊＊｝.");
+MsgDisp("主人公","Hm? Ah, ｛柊＊＊＊｝.");
 SEPlay("EV_SE_664");
 SEWait();
 ChEye(5,3);

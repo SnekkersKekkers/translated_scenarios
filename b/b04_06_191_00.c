@@ -11,10 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040619100_06_000");
-    MsgDisp("Himuro","Yeah, I feel like I learned
-something. Being able to experience 
-that event vicariously was 
-extremely valuable.");
+    MsgDisp("Himuro","Yeah, I feel like I learned something.
+Being able to experience that event
+vicariously was extremely valuable.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,9 +24,9 @@ extremely valuable.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040619100_06_010");
-    MsgDisp("Himuro","Well... so you prefer it when 
-there's more of a story? Next time
-I'll take that into consideration.");
+    MsgDisp("Himuro","Well... so you prefer it when there's more
+of a story? Next time I'll take that into
+consideration.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,10 +38,9 @@ I'll take that into consideration.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040619100_06_020");
-    MsgDisp("Himuro","It was a miss because
-it didn't suit your tastes?
-It's not just nonsense,
-that makes no sense?");
+    MsgDisp("Himuro","It was a miss because it didn't suit your
+tastes? It's not just nonsense, that makes
+no sense?");
     MsgDateResultDisp();
     break ;
     default :

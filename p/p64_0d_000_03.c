@@ -9,7 +9,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P640D00003_21_000");
-MsgDisp("Michiru","This is a small burdock... isn't it?");
+MsgDisp("Michiru","This is a small burdock...
+isn't it?");
 MsgDisp("主人公","Ummm...
 But that's a sweet potato...");
 ChEye(22,0);
@@ -22,8 +23,8 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("P640D00003_21_010");
-MsgDisp("Michiru","The colour is also weak,
-as expected it's also thin...");
+MsgDisp("Michiru","The colour is also weak, as expected it's
+also thin...");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,0,1);

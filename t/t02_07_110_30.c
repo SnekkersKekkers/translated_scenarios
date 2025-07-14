@@ -4,8 +4,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("T020711030_07_000");
-MsgDisp("Mikage","I see. I'm sorry for making you apologize
-even at the very end.");
+MsgDisp("Mikage","I see.
+I'm sorry for making you apologize even at
+the very end.");
 BGMPlay("BGM_C07_MIKAGE_B",0.01);
 ChEye(7,2);
 ChMouth(7,0);
@@ -19,8 +20,7 @@ ChMotion(7,0,1);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020711030_07_020");
 MsgDisp("Mikage","Thank you.
-Thanks to you,
-I can move forward.");
+Thanks to you, I can move forward.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

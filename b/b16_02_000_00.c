@@ -18,8 +18,8 @@ something's up though?");
     NSSEye(2,3);
     NSSMouth(2,0);
     VoicePlay("B160200000_02_020");
-    MsgDisp("Sassa","Of course I'd be worried if
-something happened to you.");
+    MsgDisp("Sassa","Of course I'd be worried if something
+happened to you.");
     break ;
     default :
     DbgAssert(0);

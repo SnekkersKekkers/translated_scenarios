@@ -17,14 +17,15 @@ MsgDisp("主人公","Yes......");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P513200000_32_010");
-MsgDisp("VP Himuro","What's wrong? Your strange behavior makes
-people around you uneasy.");
+MsgDisp("VP Himuro","What's wrong?
+Your strange behavior makes people around
+you uneasy.");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P513200000_32_020");
-MsgDisp("VP Himuro","There is still time. Think for yourself
-how you want spend the next two weeks and
-act accordingly.");
+MsgDisp("VP Himuro","There is still time.
+Think for yourself how you want spend the
+next two weeks and act accordingly.");
 MsgDisp("主人公","Yes!");
 MsgClose();
 ScrFadeOut(0);

@@ -15,8 +15,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("F010400007_04_000");
     MsgDisp("Nanatsumori","Yo.
 Are you going home right now?");
-    MsgDisp("主人公","Yes.
-You too, ｛七ツ森＊｝?");
+    MsgDisp("主人公","Yes. You too, ｛七ツ森＊｝?");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -36,9 +35,8 @@ Should we walk together?");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("F010400007_04_030");
-    MsgDisp("Nanatsumori","Yo.
-I was waiting.
-I thought we could go home together.");
+    MsgDisp("Nanatsumori","Yo. I was waiting. I thought we could go
+home together.");
     break ;
     default :
     DbgAssert(1);
@@ -125,8 +123,8 @@ Later.");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);
-        MsgDisp("主人公","(He went to the trouble of inviting me,
-so I feel guilty...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, so
+I feel guilty...)");
         break ;
         case 4:
         case 5:
@@ -134,8 +132,8 @@ so I feel guilty...)");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("F010400007_04_100");
-        MsgDisp("Nanatsumori","Oh... if you're busy, then there's
-nothing we can do.");
+        MsgDisp("Nanatsumori","Oh... if you're busy, then there's nothing
+we can do.");
         MsgDisp("主人公","Huh?");
         ChEye(4,0);
         ChMouth(4,0);
@@ -157,8 +155,8 @@ Later...");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);
-        MsgDisp("主人公","(He went to the trouble of inviting me,
-so I feel guilty...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, so
+I feel guilty...)");
         break ;
         default :
         DbgAssert(1);

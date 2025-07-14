@@ -45,8 +45,8 @@ if you're scared?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123102_01_030");
         MsgDisp("Kazama","That's fine but...
-It doesn't feel good hearing 
-you shriek so close to me.");
+It doesn't feel good hearing you shriek so
+close to me.");
         MsgDisp("主人公","Eh?");
         ChEye(1,0);
         ChMouth(1,2);
@@ -65,12 +65,11 @@ It's just a bit scary though.");
         ChMouth(1,2);
         ChCheek(1,0);
         VoicePlay("B040123102_01_050");
-        MsgDisp("Kazama","Just how much is \"a bit\"
-is important though. If you 
-scream too much, you're banned.");
-        MsgDisp("主人公","Hey, ｛風真＊＊｝.
-I'm gonna end up not being 
-able to do anything?");
+        MsgDisp("Kazama","Just how much is \"a bit\" is important
+though.
+If you scream too much, you're banned.");
+        MsgDisp("主人公","Hey, ｛風真＊＊｝. I'm gonna end up not
+being able to do anything?");
         ChMotion(1,2);
         ChEyeOpenLevel(1,0);
         Wait(8,0);
@@ -84,9 +83,9 @@ able to do anything?");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123102_01_070");
-        MsgDisp("Kazama","Then just change your scream to 
-\"Waa—\", that should be fine.");
-        MsgDisp("主人公","(That's difficult, ｛風真＊＊｝...)");
+        MsgDisp("Kazama","Then just change your scream to \"Waa—\",
+that should be fine.");
+        MsgDisp("主人公","(That's difficult, ｛風真＊＊｝... )");
         break ;
         default :
         DbgAssert(1);
@@ -100,8 +99,8 @@ able to do anything?");
     ChMotion(1,3);
     VoicePlay("B040123102_01_080");
     MsgDisp("Kazama","Isn't that good?
-It just means you're also 
-in top form today.");
+It just means you're also in top form
+today.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

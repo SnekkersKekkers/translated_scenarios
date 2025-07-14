@@ -14,14 +14,14 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H180200000_02_000");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Did you come to cheer us on?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Did you come to cheer us
+on?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("H180200000_02_010");
-    MsgDisp("Sassa","Yeah, I came to see the Haba High Nine
-and your brave figure.");
+    MsgDisp("Sassa","Yeah, I came to see the Haba High Nine and
+your brave figure.");
     MsgDisp("主人公","Yeah, thanks.
 We'll do our best!");
     ChEye(2,0);
@@ -29,9 +29,10 @@ We'll do our best!");
     ChMotion(2,1);
     VoicePlay("H180200000_02_020");
     MsgDisp("Sassa","They have the goddess of victory sitting
-on their bench. You'll definitely win.");
-    MsgDisp("主人公","(Alright, I'll do my best until
-the end as manager!)");
+on their bench.
+You'll definitely win.");
+    MsgDisp("主人公","(Alright, I'll do my best until the end as
+manager!)");
     break ;
     default :
     DbgAssert(1);

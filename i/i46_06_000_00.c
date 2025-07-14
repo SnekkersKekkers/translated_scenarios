@@ -32,12 +32,12 @@ I'll clean it up now.");
     ChMotion(6,0);
     ChEyeOpenLevel(6,8);
     VoicePlay("I460600000_06_020");
-    MsgDisp("Himuro","And don't relax just because
-you're used to the work.
+    MsgDisp("Himuro","And don't relax just because you're used
+to the work.
 You'll make more mistakes.");
     MsgDisp("主人公","O-Okay.");
-    MsgDisp("主人公","(Like ｛氷室＊＊｝ told me to,
-I'll have to get it together......!)");
+    MsgDisp("主人公","(Like ｛氷室＊＊｝ told me to, I'll have to
+get it together......!)");
     break ;
     case 4:
     case 5:
@@ -54,7 +54,8 @@ I'll clean it up now.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I460600000_06_040");
-    MsgDisp("Himuro","It's fine. I'll help.");
+    MsgDisp("Himuro","It's fine.
+I'll help.");
     MsgDisp("主人公","Huh, I'm fine!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -77,7 +78,7 @@ Thanks!");
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600000_06_070");
     MsgDisp("Himuro","............");
-    MsgDisp("主人公","(I troubled ｛氷室＊＊｝......)");
+    MsgDisp("主人公","(I troubled ｛氷室＊＊｝...... )");
     break ;
     default :
     DbgAssert(1);

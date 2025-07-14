@@ -39,8 +39,9 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,3);
     ChMotion(4,3);
     VoicePlay("B010400001_04_030");
-    MsgDisp("Nanatsumori","What, are you laughing? Well, if you think
-it's funny, that's fine.");
+    MsgDisp("Nanatsumori","What, are you laughing?
+Well, if you think it's funny, that's
+fine.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -60,9 +61,8 @@ I didn't wait for that long.");
     ChMouth(4,4);
     ChMotion(4,0);
     VoicePlay("B010400001_04_050");
-    MsgDisp("Nanatsumori","... Isn't it okay to be angry?
-Not that I want to make you mad, but...
-I'm sorry.");
+    MsgDisp("Nanatsumori","... Isn't it okay to be angry? Not that I
+want to make you mad, but... I'm sorry.");
     MsgDispSksp(0);
     break ;
     default :

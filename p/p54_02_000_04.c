@@ -3,8 +3,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I was able to give my best
-performance at my last cultural festival.
+MsgDisp("主人公","(I was able to give my best performance at
+my last cultural festival.
 I'm glad...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -32,33 +32,33 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P540200004_02_030");
-MsgDisp("Sassa","I'm sure it's not just me, 
-I think all the students who heard 
-that also thought so too.");
+MsgDisp("Sassa","I'm sure it's not just me, I think all the
+students who heard that also thought so
+too.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P540200004_02_040");
-MsgDisp("Sassa","I haven't seen you guys practicing, 
-although the sound of it can be heard
-from various places across the school.");
+MsgDisp("Sassa","I haven't seen you guys practicing,
+although the sound of it can be heard from
+various places across the school.");
 MsgDisp("主人公","Yeah...");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P540200004_02_050");
-MsgDisp("Sassa","Without even realizing it, 
-With this song and you guys' performance, 
-I think everyone has become a fan.");
+MsgDisp("Sassa","Without even realizing it, With this song
+and you guys' performance, I think
+everyone has become a fan.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P540200004_02_060");
 MsgDisp("Sassa","Somewhat, music is amazing.");
 MsgDisp("主人公","(Thank you, ｛颯砂＊＊｝...
-I'm glad I gave it my all
-these last three years!)");
+I'm glad I gave it my all these last three
+years!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

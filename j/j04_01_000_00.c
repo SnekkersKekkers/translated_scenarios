@@ -12,8 +12,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("J040100000_01_000");
     MsgDisp("Kazama","There you are.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-What's wrong?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. What's wrong?");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -53,8 +52,7 @@ I wonder if he wanted something?)");
     VoiceEVSPlay(1);
     VoicePlay("J040100000_01_030");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-What's wrong?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. What's wrong?");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -76,8 +74,8 @@ Are you free this Sunday?");
         ChMouth(1,3);
         ChMotion(1,0,1);
         VoicePlay("J040100000_01_060");
-        MsgDisp("Kazama","It's okay, this kind of uncertainty
-suits us.
+        MsgDisp("Kazama","It's okay, this kind of uncertainty suits
+us.
 See you.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -9,8 +9,8 @@ ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040511100_05_000");
-MsgDisp("Hiiragi","This is basically my first
-experience of skating.
+MsgDisp("Hiiragi","This is basically my first experience of
+skating.
 What about you?");
 MsgSel("Call me a princess on ice!","It's to the point I won't fall...","I was hoping you'd teach me...");
 switch (MsgSelRsltGet()){
@@ -21,8 +21,9 @@ switch (MsgSelRsltGet()){
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040511100_05_010");
-        MsgDisp("Hiiragi","An ice princess. Yes, your appearance
-lives up to your name.");
+        MsgDisp("Hiiragi","An ice princess.
+Yes, your appearance lives up to your
+name.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -42,8 +43,8 @@ lives up to your name.");
     ChMotion(5,2);
     VoicePlay("B040511100_05_030");
     MsgDisp("Hiiragi","Is that so.
-Hーm...In order for us to not fall, 
-we can only stand around...");
+Hーm...In order for us to not fall, we can
+only stand around...");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

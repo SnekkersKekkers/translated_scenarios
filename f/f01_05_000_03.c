@@ -15,7 +15,7 @@ Let's go.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("F010500003_05_010");
-    MsgDisp("Hiiragi","Of course. 
+    MsgDisp("Hiiragi","Of course.
 Your presence is always welcome.");
     MsgDisp("主人公","Hehe, I'm glad!
 Well then, let's go.");

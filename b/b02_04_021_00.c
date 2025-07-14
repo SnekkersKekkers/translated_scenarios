@@ -16,8 +16,8 @@ VoicePlay("B020402100_04_010");
 MsgDisp("Nanatsumori","Yeah.
 I'm in love with it.");
 VoicePlay("B020402100_04_020");
-MsgDisp("Nanatsumori","I could look at this forever.
-Heh... It's seriously nice.");
+MsgDisp("Nanatsumori","I could look at this forever. Heh... It's
+seriously nice.");
 MsgDisp("主人公","(That's embarrassing...
 ｛七ツ森＊｝ seems to like this
 coordination a lot, though!)");

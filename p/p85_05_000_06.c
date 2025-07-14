@@ -13,9 +13,8 @@ You did a great job.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("P850500006_05_010");
-MsgDisp("Hiiragi","It's not just me, 
-everyone in the student council
-committee thought so too.");
+MsgDisp("Hiiragi","It's not just me, everyone in the student
+council committee thought so too.");
 MsgDisp("主人公","Thank you.
 I'm happy to hear you say that!");
 ChEye(5,4);

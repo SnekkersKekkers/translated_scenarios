@@ -5,10 +5,10 @@ Wait(60,0);
 ChEyeOpenLevel(5,#1);
 VoiceEVSPlay(5);
 VoicePlay("T020501021_05_000");
-MsgDisp("Hiiragi","｛主人公｝,
-that......");
+MsgDisp("Hiiragi","｛主人公｝, that......");
 MsgDisp("主人公","Because I couldn't put it into words
-well...... I too, like ｛柊＊＊＊｝.");
+well......
+I too, like ｛柊＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

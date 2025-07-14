@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3);
     VoicePlay("B040724100_07_010");
     MsgDisp("Mikage","It's harder than you think.
-Go and experience the value of
-milk yourself.");
+Go and experience the value of milk
+yourself.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

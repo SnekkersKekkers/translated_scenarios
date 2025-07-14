@@ -43,8 +43,8 @@ impressions");
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B040303201_03_030");
-    MsgDisp("Honda","Yeah, the water temperature is supposed
-to match the living environment of the 
+    MsgDisp("Honda","Yeah, the water temperature is supposed to
+match the living environment of the
 organisms.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

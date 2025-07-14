@@ -21,8 +21,8 @@ MsgClose();
 SEWait();
 BGOpen("wf000",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(We're supposed to meet up in front of 
-the escalator at Habataki Station......
+MsgDisp("主人公","(We're supposed to meet up in front of the
+escalator at Habataki Station......
 But Kuya-san isn't here yet.)");
 VoicePlay("D030901400_09_010");
 MsgDisp("Kuya?","Sorry, did I make you wait?");
@@ -47,14 +47,13 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901400_09_030");
-MsgDisp("Kuya","Ahh......
-Today is a normal date with Kuya
+MsgDisp("Kuya","Ahh...... Today is a normal date with Kuya
 Shirahane.");
 ChMotion(9,1,1);
 VoicePlay("D030901400_09_040");
-MsgDisp("Kuya","I won't be wearing the Hanegasaki
-uniform anymore, and I'm no longer a
-jack of all trades.");
+MsgDisp("Kuya","I won't be wearing the Hanegasaki uniform
+anymore, and I'm no longer a jack of all
+trades.");
 MsgDisp("主人公","(It feels kind of weird, somehow......)");
 MsgClose();
 ScrFadeOut(0);
@@ -101,15 +100,16 @@ How so?");
 MsgDisp("主人公","It's because......Even though there were
 people asking for directions and asking
 you to carry their luggage......");
-MsgDisp("主人公","You didn't help them. That's
-completely unlike the Jack of All Trades.");
+MsgDisp("主人公","You didn't help them.
+That's completely unlike the Jack of All
+Trades.");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,0,1);
 VoicePlay("D030901400_09_090");
-MsgDisp("Kuya","But I told them where to go and I asked 
-someone else to carry their luggage. I 
-guess I've been giving advice?");
+MsgDisp("Kuya","But I told them where to go and I asked
+someone else to carry their luggage.
+I guess I've been giving advice?");
 MsgDisp("主人公","That's true but......
 It's so unlike Kuya-san......");
 ChEye(9,3);
@@ -125,9 +125,9 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901400_09_110");
-MsgDisp("Kuya","Right now, spending time with you
-is more important to me. So doing it
-this way is better.");
+MsgDisp("Kuya","Right now, spending time with you is more
+important to me.
+So doing it this way is better.");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,4,1);
@@ -135,9 +135,8 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_120");
 MsgDisp("Kuya","Huh......?
 Is that maybe a bit weird?");
-MsgDisp("主人公","No......
-Kuya-san, are you going to stop being
-a \"Jack of All Trades\"?");
+MsgDisp("主人公","No...... Kuya-san, are you going to stop
+being a \"Jack of All Trades\"?");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,1,1);
@@ -153,8 +152,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901400_09_140");
 MsgDisp("Kuya","Good, you finally laughed.
-Come, today will be a nice change of
-pace. Let's eat some ice cream together!");
+Come, today will be a nice change of pace.
+Let's eat some ice cream together!");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(It definitely feels like Kuya-san is
 changing. I get the feeling he's become

@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040222101_02_010");
-    MsgDisp("Sassa","Seriously?
-You're not getting quite enough exercise.");
+    MsgDisp("Sassa","Seriously? You're not getting quite enough
+exercise.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -25,9 +25,9 @@ You're not getting quite enough exercise.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040222101_02_020");
-    MsgDisp("Sassa","Oh, as expected of you! But, the descent
-is quite hard on your legs too, so lets
-conserve our energy.");
+    MsgDisp("Sassa","Oh, as expected of you!
+But, the descent is quite hard on your
+legs too, so lets conserve our energy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ conserve our energy.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040222101_02_030");
-    MsgDisp("Sassa","Yeah, it must have been tough for
-the princesses and stuff.");
+    MsgDisp("Sassa","Yeah, it must have been tough for the
+princesses and stuff.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -4,8 +4,7 @@ ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("P140600001_06_000");
 MsgDisp("Himuro","Hello.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-How was it?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝. How was it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

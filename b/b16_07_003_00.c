@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160700300_07_000");
 MsgDisp("Mikage","Ohh∋　what is it∋");
-MsgSel("There's trash on you.","I wanted to be closer to｛御影＊＊｝...");
+MsgSel("There's trash on you.","I wanted to be closer to ｛御影＊＊｝...");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(7,2);
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     NSSEye(7,1);
     NSSMouth(7,0);
     VoicePlay("B160700300_07_020");
-    MsgDisp("Mikage","...You...
-Don't say that with a straight face.");
+    MsgDisp("Mikage","...You... Don't say that with a straight
+face.");
     break ;
     default :
     DbgAssert(0);

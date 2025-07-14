@@ -5,8 +5,8 @@ ChOpen(3,255,4,2,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323100_03_000");
-MsgDisp("Honda","It felt as if my head was
-being shaken by a huge hand...
+MsgDisp("Honda","It felt as if my head was being shaken by
+a huge hand...
 Are you alright?");
 MsgSel("That was the best! I want to ride it more!","Uugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){
@@ -26,9 +26,8 @@ I'm taking a break for now.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040323100_03_020");
-    MsgDisp("Honda","You really have no choice
-but to surrender yourself,
-it's truly frightening. ");
+    MsgDisp("Honda","You really have no choice but to surrender
+yourself, it's truly frightening.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

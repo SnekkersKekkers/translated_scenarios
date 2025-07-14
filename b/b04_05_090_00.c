@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMouth(5,4);
     VoicePlay("B040509000_05_010");
-    MsgDisp("Hiiragi","It really is? A sweet scent?
+    MsgDisp("Hiiragi","It really is?
+A sweet scent?
 It's as if it were confectionary.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -27,8 +28,8 @@ It's as if it were confectionary.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040509000_05_020");
-    MsgDisp("Hiiragi","Yes...
-It must be pleasant for the plants here.");
+    MsgDisp("Hiiragi","Yes... It must be pleasant for the plants
+here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +39,7 @@ It must be pleasant for the plants here.");
     ChEye(5,2);
     ChMouth(5,2);
     VoicePlay("B040509000_05_030");
-    MsgDisp("Hiiragi","Hmー,
-It would be bad if we disturbed them
+    MsgDisp("Hiiragi","Hmー, It would be bad if we disturbed them
 during their mealtime, right?");
     MsgDateResultDisp();
     break ;

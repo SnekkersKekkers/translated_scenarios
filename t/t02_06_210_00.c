@@ -17,15 +17,14 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020621000_06_010");
-MsgDisp("Himuro","...... It feels a bit weird,
-us being here face to face.");
+MsgDisp("Himuro","...... It feels a bit weird, us being here
+face to face.");
 ChMouth(6,4);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020621000_06_020");
-MsgDisp("Himuro","
-Two years ago, I would never have
-believed I'd be seeing a sight like this.");
+MsgDisp("Himuro","Two years ago, I would never have believed
+I'd be seeing a sight like this.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -39,35 +38,31 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020621000_06_040");
-MsgDisp("Himuro","
-Meeting upperclassmen I respect and
-even going out together, and getting
-along with my teachers...");
-MsgDisp("主人公","Are you talking about ｛柊＊＊＊｝ 
-and ｛御影＊＊｝?");
+MsgDisp("Himuro","Meeting upperclassmen I respect and even
+going out together, and getting along with
+my teachers...");
+MsgDisp("主人公","Are you talking about ｛柊＊＊＊｝ and
+｛御影＊＊｝?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 ChEyeOpenLevel(6,10);
 VoicePlay("T020621000_06_050");
-MsgDisp("Himuro","
-Yes. I wasn't even sure I could make
+MsgDisp("Himuro","Yes. I wasn't even sure I could make
 friends with people in my own grade...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("T020621000_06_060");
-MsgDisp("Himuro","
-But getting to know those two was so
+MsgDisp("Himuro","But getting to know those two was so
 unexpected. I'm still having a hard time
 believing how strong our bound is.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("T020621000_06_070");
-MsgDisp("Himuro","
-... More than those two though, 
-what's always surprised me is you.");
+MsgDisp("Himuro","... More than those two though, what's
+always surprised me is you.");
 MsgClear();
 ChClose(6);
 ChCustomLayout(6,5,0,-2.5);
@@ -76,32 +71,30 @@ SEPlay("EV_SE_544");
 ChOpen(6,254,7,0,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020621000_06_080");
-MsgDisp("Himuro","......｛主人公｝.
-I've always liked you.");
+MsgDisp("Himuro","......｛主人公｝. I've always liked
+you.");
 MsgDisp("主人公","!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("T020621000_06_090");
-MsgDisp("Himuro","
-Meeting the two of them and truly
-starting my high school life, it was all
-possible because of you.");
+MsgDisp("Himuro","Meeting the two of them and truly starting
+my high school life, it was all possible
+because of you.");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("T020621000_06_100");
-MsgDisp("Himuro","
-Your existence brought me out of the
-world that I had lived in alone.");
+MsgDisp("Himuro","Your existence brought me out of the world
+that I had lived in alone.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,9);
 VoicePlay("T020621000_06_110");
-MsgDisp("Himuro","
-So that's why when I think of a future
-without you... I feel terrified.");
+MsgDisp("Himuro","So that's why when I think of a future
+without you...
+I feel terrified.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -3,8 +3,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G020410400_04_000");
-MsgDisp("Nanatsumori","By the way...... I actually have a
-photo-focused social media account.");
+MsgDisp("Nanatsumori","By the way......
+I actually have a photo-focused social
+media account.");
 MsgDisp("主人公","Umm......which one?");
 VoicePlay("G020410400_04_010");
 MsgDisp("Nanatsumori","Not Nana.
@@ -14,8 +15,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020410400_04_020");
 MsgDisp("Nanatsumori","Well, I haven't been updating it much
-lately. I'm satisfied with my offline
-life.");
+lately.
+I'm satisfied with my offline life.");
 MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -30,15 +31,15 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020410400_04_040");
 MsgDisp("Nanatsumori","It seems like most of them haven't figured
-out I'm actually a guy. I kinda want them
-to realize soon......");
+out I'm actually a guy.
+I kinda want them to realize soon......");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020410400_04_050");
 MsgDisp("Nanatsumori","That being said, it feels like bad timing
-to just come out and say 
-'Hey, 7▼co is a guy!'");
+to just come out and say 'Hey, 7▼co is a
+guy!'");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -61,7 +62,7 @@ ChEyeOpenLevel(4,#1);
 VoicePlay("G020410400_04_080");
 MsgDisp("Nanatsumori","Maybe I should just quit social media
 altogether?");
-MsgDisp("主人公","But, no matter what their feelings are, 
+MsgDisp("主人公","But, no matter what their feelings are,
 you have a lot of fans, don't you?");
 ChMotion(4,0,1);
 VoicePlay("G020410400_04_090");

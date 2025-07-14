@@ -7,8 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D100500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝, are you okay?");
-MsgDisp("主人公","Eh?
-｛柊＊＊＊｝, what's up?");
+MsgDisp("主人公","Eh? ｛柊＊＊＊｝, what's up?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -29,8 +28,8 @@ ChMouth(5,4);
 ChMotion(5,3);
 Wait(20,1);
 VoicePlay("D100500000_05_030");
-MsgDisp("Hiiragi","Yes. Sorry for disturbing you. I don't 
-remember the exact details of the dream, 
+MsgDisp("Hiiragi","Yes. Sorry for disturbing you. I don't
+remember the exact details of the dream,
 but I guess it smelled like roses?");
 ChMotion(5,0);
 VoicePlay("D100500000_05_040");
@@ -39,8 +38,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(The smell of roses...What's with that? A
-dream, huh...... Did ｛柊＊＊＊｝ doze off
-during class?)");
+MsgDisp("主人公","(The smell of roses...What's with that?
+A dream, huh......
+Did ｛柊＊＊＊｝ doze off during class?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -4,9 +4,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The souvenir for ｛氷室＊＊｝ 
-will be matcha castella with a bit of
-sweetness!)");
+MsgDisp("主人公","(The souvenir for ｛氷室＊＊｝ will be
+matcha castella with a bit of sweetness!)");
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -22,8 +21,7 @@ MsgDisp("Hiiragi","I selected the souvenir for Inori fast,
 But the other souvenirs were not decided
 yet. Sorry to keep you waiting.");
 MsgDisp("主人公","Don't worry, I just came.
-The souvenir for ｛氷室＊＊｝ is also 
-ready.");
+The souvenir for ｛氷室＊＊｝ is also ready.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -32,24 +30,22 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q110C00000_07_010");
 MsgDisp("Mikage","I see.
-Then let's get right to it and show off 
+Then let's get right to it and show off
 our souvenirs for Inori, shall we?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q110C00000_07_020");
-MsgDisp("Mikage","My choice is,
-the coffee castella with bitterness!");
+MsgDisp("Mikage","My choice is, the coffee castella with
+bitterness!");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_010");
-MsgDisp("Hiiragi","Eh?
-I chose the fine flavored sesame 
+MsgDisp("Hiiragi","Eh? I chose the fine flavored sesame
 castella!");
-MsgDisp("主人公","Eeh∋
-I had the matcha castella with a bit of
-sweetness!");
+MsgDisp("主人公","Eeh∋ I had the matcha castella with a bit
+of sweetness!");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,9);
@@ -73,17 +69,15 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("Q110C00000_07_040");
 MsgDisp("Mikage","Well, maybe deep down in his gut?
-Though he may be a bit harsh on the 
+Though he may be a bit harsh on the
 surface.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_030");
 MsgDisp("Hiiragi","Hehe, surely.
-Let's accept it,
-Because he stayed home.");
-MsgDisp("主人公","Yeah.
-I can't wait to give them to 
+Let's accept it, Because he stayed home.");
+MsgDisp("主人公","Yeah. I can't wait to give them to
 ｛氷室＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -94,16 +88,15 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q110C00000_05_040");
-MsgDisp("Hiiragi","Yes.
-This is for you. It's a beadlo.
-We painted it.");
+MsgDisp("Hiiragi","Yes. This is for you. It's a beadlo. We
+painted it.");
 MsgDisp("主人公","Eh, for me?
 So cute......!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_050");
-MsgDisp("Hiiragi","I drew green holly leaves and orange 
+MsgDisp("Hiiragi","I drew green holly leaves and orange
 paprika, and also red glasses.");
 ChEye(7,0);
 ChMouth(7,0);

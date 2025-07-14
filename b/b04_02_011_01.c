@@ -28,8 +28,7 @@ There's the smoke too.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040201101_02_020");
-    MsgDisp("Sassa","Yeah.
-If you reach out your hand, it feels
+    MsgDisp("Sassa","Yeah. If you reach out your hand, it feels
 like you can touch the sky.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

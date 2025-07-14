@@ -70,17 +70,16 @@ chair at the back of the old well?");
         ChMotion(2,4);
         VoicePlay("B040223502_02_060");
         MsgDisp("Sassa","Maybe you could only see it from my line
-of sight. Maybe it's a break spot for the
-ghosts.");
-        MsgDisp("主人公","Hehe.
-Rather than coming out the old well, 
+of sight.
+Maybe it's a break spot for the ghosts.");
+        MsgDisp("主人公","Hehe. Rather than coming out the old well,
 they're sitting behind it, huh?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040223502_02_070");
-        MsgDisp("Sassa","Yeah, they're just playing
-on their phones huh?");
+        MsgDisp("Sassa","Yeah, they're just playing on their phones
+huh?");
         MsgDisp("主人公","Suddenly it's not so scary anymore.");
         ChEye(2,3);
         ChMouth(2,3);
@@ -95,8 +94,8 @@ more funny things");
         ChMotion(2,3);
         VoicePlay("B040223502_02_090");
         MsgDisp("Sassa","Shall we try going again?");
-        MsgDisp("主人公","There might be... things we're not
-supposed to find?");
+        MsgDisp("主人公","There might be...
+things we're not supposed to find?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);

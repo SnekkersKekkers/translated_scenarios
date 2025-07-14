@@ -2,7 +2,8 @@ MsgClose();
 ChOpen(2,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020210101_02_000");
 MsgDisp("Sassa","Remember when we went out with Ryota and
-Inori? The four of us");
+Inori?
+The four of us");
 MsgDisp("主人公","Yeah. it was fun.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -37,16 +38,15 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020210101_02_050");
-MsgDisp("Sassa","......Hm?
-That's the same as usual then......");
-MsgDisp("主人公","Hehe, if ｛氷室＊＊｝ he'd be mad, you
-know?");
+MsgDisp("Sassa","......Hm? That's the same as usual
+then......");
+MsgDisp("主人公","Hehe, if ｛氷室＊＊｝ he'd be mad, you know?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210101_02_060");
-MsgDisp("Sassa","He'd probably complain a lot. But that's
-normal for him.");
+MsgDisp("Sassa","He'd probably complain a lot.
+But that's normal for him.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -64,8 +64,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210101_02_090");
-MsgDisp("Sassa","Well, 
-I normally don't really think of much.");
+MsgDisp("Sassa","Well, I normally don't really think of
+much.");
 MsgDisp("主人公","(｛颯砂＊＊｝ seems like he's the one
 thinking the most though......)");
 BGMStop();

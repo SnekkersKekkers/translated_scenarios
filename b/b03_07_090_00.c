@@ -15,7 +15,8 @@ SEPlay("EV_SE_GAYA_022",0.2,0.5);
 VoicePlay("B030709000_38_000");
 MsgDisp("Students","Whaaat?");
 VoicePlay("B030709000_38_010");
-MsgDisp("Students","Why would we do that? What the heck?");
+MsgDisp("Students","Why would we do that?
+What the heck?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

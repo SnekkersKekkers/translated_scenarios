@@ -37,8 +37,9 @@ At least that's a relief.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040223500_02_030");
-    MsgDisp("Sassa","I see. It's definitely best to put on a
-brave front here.");
+    MsgDisp("Sassa","I see.
+It's definitely best to put on a brave
+front here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

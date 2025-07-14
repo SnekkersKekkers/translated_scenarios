@@ -70,8 +70,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B05000_01_040");
-MsgDisp("Kazama","They're watching us.
-Geez... don't let it
+MsgDisp("Kazama","They're watching us. Geez... don't let it
 bother you okay?");
 MsgDisp("主人公","Umm...
 o-okay.");
@@ -95,8 +94,8 @@ ChCheek(1,0);
 VoicePlay("D140B05000_01_050");
 MsgDisp("Kazama","Yeah, it's fun.
 Right?");
-MsgDisp("主人公","(Even if you tell me to 
-not mind them... I can't...)");
+MsgDisp("主人公","(Even if you tell me to not mind them...
+I can't...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

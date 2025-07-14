@@ -49,8 +49,8 @@ That was deliberately mean.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,9);
         VoicePlay("B040501102_05_040");
-        MsgDisp("Hiiragi","I had predicted you would be
-scared, but I asked anyways.");
+        MsgDisp("Hiiragi","I had predicted you would be scared, but I
+asked anyways.");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040501102_05_050");
@@ -62,15 +62,15 @@ in comparison I am dishonest.");
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040501102_05_060");
         MsgDisp("Hiiragi","I wonder why?
-I seem to become childish
-when I am in front of you.");
+I seem to become childish when I am in
+front of you.");
         VoicePlay("B040501102_05_070");
         MsgDisp("Hiiragi","What is it about you that causes this...
 I am surprised that such feelings
 themselves remain within me.");
-        MsgDisp("主人公","｛柊＊＊＊｝, I would be happy if you
-were to talk to me about 
-whatever was on your mind.");
+        MsgDisp("主人公","｛柊＊＊＊｝, I would be happy if you were
+to talk to me about whatever was on your
+mind.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,3);
@@ -103,8 +103,8 @@ only simple words come out.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040501102_05_110");
-    MsgDisp("Hiiragi","Though, I'm slightly conscious
-of the store clerk watching us.");
+    MsgDisp("Hiiragi","Though, I'm slightly conscious of the
+store clerk watching us.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

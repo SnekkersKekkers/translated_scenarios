@@ -9,11 +9,11 @@ switch (ChPrmGet(7,6)){
     VoicePlay("Q040700000_07_000");
     MsgDisp("Mikage","Oh, good morning.
 You look excited.");
-    MsgDisp("主人公","For today's free period,
-could you look around with me?");
+    MsgDisp("主人公","For today's free period, could you look
+around with me?");
     break ;
     case 3:
-    MsgDisp("主人公","｛御影＊＊｝！");
+    MsgDisp("主人公","｛御影＊＊｝ ！");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
@@ -21,8 +21,8 @@ could you look around with me?");
     MsgDisp("Mikage","Oh, good morning.
 What's up?");
     MsgDisp("主人公","Good morning.
-｛御影＊＊｝, do you already have
-plans for today's free period?");
+｛御影＊＊｝, do you already have plans
+for today's free period?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -33,7 +33,7 @@ around with me?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公"," ｛御影＊＊｝ ！");
+    MsgDisp("主人公","｛御影＊＊｝ ！");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
@@ -45,12 +45,11 @@ You look excited today.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("Q040700000_07_040");
-    MsgDisp("Mikage","Yeah,
-Thanks to the cheerful greeting, 
-I'm fully awake. So, what's up?");
-    MsgDisp("主人公","Yes.
-For today's free period, could you look
-around with me?");
+    MsgDisp("Mikage","Yeah, Thanks to the cheerful greeting, I'm
+fully awake.
+So, what's up?");
+    MsgDisp("主人公","Yes. For today's free period, could you
+look around with me?");
     break ;
     default :
     DbgAssert(1);

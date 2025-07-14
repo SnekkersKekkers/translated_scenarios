@@ -23,16 +23,15 @@ Please take your time looking around.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I150700000_07_010");
-    MsgDisp("Mikage","I think I might end up buying
-everything you recommend,
-so I'm going home.");
+    MsgDisp("Mikage","I think I might end up buying everything
+you recommend, so I'm going home.");
     MsgDisp("主人公","Huh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("I150700000_07_020");
-    MsgDisp("Mikage","Well, keep up the fun times
-at school and at your part-time job.");
+    MsgDisp("Mikage","Well, keep up the fun times at school and
+at your part-time job.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
@@ -46,18 +45,16 @@ Why did ｛御影＊＊｝ even come?)");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("I150700000_07_030");
-    MsgDisp("Mikage","Oh.
-You're working hard
-at your part-time job.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-Welcome.
-Are you looking for something?");
+    MsgDisp("Mikage","Oh. You're working hard at your part-time
+job.");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! Welcome. Are you
+looking for something?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("I150700000_07_040");
-    MsgDisp("Mikage","You're really looking
-like a shopkeeper, huh?");
+    MsgDisp("Mikage","You're really looking like a shopkeeper,
+huh?");
     MsgDisp("主人公","Um, because I am one?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -76,20 +73,20 @@ Then, I'll buy something to apologize.");
     ChOpen(7,255,1,2,0,#1,#1,0,0);
     VoicePlay("I150700000_07_060");
     MsgDisp("Mikage","I bought too much......");
-    MsgDisp("主人公","Thank you very much
-for your large purchase.");
+    MsgDisp("主人公","Thank you very much for your large
+purchase.");
     ChEye(7,2);
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("I150700000_07_070");
-    MsgDisp("Mikage","You...... when was it that you
-became so good at business......");
+    MsgDisp("Mikage","You...... when was it that you became so
+good at business......");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I150700000_07_080");
-    MsgDisp("Mikage","Haa...... I'll have to cut back
-on the part-time job visits.");
+    MsgDisp("Mikage","Haa...... I'll have to cut back on the
+part-time job visits.");
     MsgDisp("主人公","(Part-time job visits......?
 But I managed to sell a lot!)");
     MsgClose();
@@ -106,8 +103,8 @@ But I managed to sell a lot!)");
     ChMotion(7,3);
     VoicePlay("I150700000_07_090");
     MsgDisp("Mikage","Oh, working hard?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-What are you looking for today?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! What are you looking
+for today?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -120,8 +117,7 @@ I just came in.");
     ChMotion(7,2);
     VoicePlay("I150700000_07_110");
     MsgDisp("Mikage","The mood definitely just dropped......
-Alright,
-show me something you recommend.");
+Alright, show me something you recommend.");
     MsgDisp("主人公","Understood!");
     ChEye(7,0);
     ChMouth(7,3);
@@ -141,8 +137,8 @@ show me something you recommend.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I150700000_07_130");
-    MsgDisp("Mikage","I definitely bought
-too much with this......");
+    MsgDisp("Mikage","I definitely bought too much with
+this......");
     MsgDisp("主人公","｛御影＊＊｝, are you okay?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -154,8 +150,8 @@ You don't need to worry about anything.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("I150700000_07_150");
-    MsgDisp("Mikage","Part-time job visits to
-this place are dangerous......
+    MsgDisp("Mikage","Part-time job visits to this place are
+dangerous......
 I'll go bankrupt soon.");
     MsgDisp("主人公","(｛御影＊＊｝, what happened......?
 But, he bought a lot!)");

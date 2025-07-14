@@ -14,16 +14,15 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I650500000_05_000");
     MsgDisp("Hiiragi","So it really was you.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-Are you going on a trip?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Are you going on a trip?");
     VoicePlay("I650500000_05_010");
-    MsgDisp("Hiiragi","Yes, I am visiting a patron
-who is situated quite far away.");
+    MsgDisp("Hiiragi","Yes, I am visiting a patron who is
+situated quite far away.");
     MsgDisp("主人公","Seems tough......");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("I650500000_05_020");
-    MsgDisp("Hiiragi","For you as well. 
+    MsgDisp("Hiiragi","For you as well.
 You've been working hard up until now.");
     ChEye(5,0);
     ChMotion(5,0);
@@ -34,8 +33,8 @@ I'll see you again at school.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(It must be hard on ｛柊＊＊＊｝, having to
-travel far even at this hour......)");
+    MsgDisp("主人公","(It must be hard on ｛柊＊＊＊｝, having
+to travel far even at this hour......)");
     break ;
     case 3:
     SEPlay("EV_SE_658");
@@ -47,11 +46,10 @@ travel far even at this hour......)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I650500000_05_040");
-    MsgDisp("Hiiragi","｛主人公｝.
-So you're working again today.
-Good work.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝,
-are you still working as well?");
+    MsgDisp("Hiiragi","｛主人公｝. So you're working again
+today. Good work.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, are you still working as
+well?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,1);
@@ -60,8 +58,8 @@ are you still working as well?");
     MsgDisp("Hiiragi","Yes, if it was practice or rehearsals it
 would not be a problem at all, but......");
     VoicePlay("I650500000_43_000");
-    MsgDisp("Theater Member","Chairman, if we don't hurry,
-we'll be late.");
+    MsgDisp("Theater Member","Chairman, if we don't hurry, we'll be
+late.");
     ChEye(5,0);
     ChMotion(5,4,1);
     ChEyeOpenLevel(5,#1);
@@ -77,8 +75,8 @@ Haa...... let us both work hard.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ seems tired......
-I hope I was able to distract him from
-his worries for a bit.)");
+I hope I was able to distract him from his
+worries for a bit.)");
     break ;
     case 4:
     case 5:
@@ -91,16 +89,15 @@ his worries for a bit.)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I650500000_05_080");
-    MsgDisp("Hiiragi","｛主人公｝,
-you're working hard again today.");
-    MsgDisp("主人公","Oh, ｛柊＊＊＊｝,
-did you walk here?");
+    MsgDisp("Hiiragi","｛主人公｝, you're working hard again
+today.");
+    MsgDisp("主人公","Oh, ｛柊＊＊＊｝, did you walk here?");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("I650500000_05_090");
     MsgDisp("Hiiragi","Yes, I was in the area.
-When I came to see if you were here,
-your cheerful voice resounded.");
+When I came to see if you were here, your
+cheerful voice resounded.");
     MsgDisp("主人公","I see, thank you.");
     ChEye(5,4);
     ChMotion(5,0);
@@ -121,17 +118,17 @@ Compared to that, I......");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("I650500000_05_130");
-    MsgDisp("Hiiragi","From now, when I begin to feel
-the urge to sigh at during work,
-I will remember your smiling face.");
+    MsgDisp("Hiiragi","From now, when I begin to feel the urge to
+sigh at during work, I will remember your
+smiling face.");
     VoicePlay("I650500000_05_140");
     MsgDisp("Hiiragi","See you again.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(I'm so happy that ｛柊＊＊＊｝
-said something like that to me......
+    MsgDisp("主人公","(I'm so happy that ｛柊＊＊＊｝ said
+something like that to me......
 Alright, let's work hard!)");
     break ;
     default :

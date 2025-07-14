@@ -10,12 +10,13 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610303_06_010");
 MsgDisp("Himuro","Today, some unknown guys called out to
-you. Stuff like that.");
+you.
+Stuff like that.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610303_06_020");
-MsgDisp("Himuro","There's a chance you'll get hit on. 
+MsgDisp("Himuro","There's a chance you'll get hit on.
 Are you aware of that?");
 MsgDisp("主人公","Umm......");
 ChEye(6,2);
@@ -29,8 +30,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610303_06_040");
 MsgDisp("Himuro","Sure, I have no right to interfere with
-your personal relations. But guys like
-that are dangerous.");
+your personal relations.
+But guys like that are dangerous.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -43,8 +44,8 @@ ChMouth(6,0);
 ChMotion(6,2,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610303_06_060");
-MsgDisp("Himuro","It's not something you can 
-just handle by being careful.");
+MsgDisp("Himuro","It's not something you can just handle by
+being careful.");
 MsgDisp("主人公","Ehh?
 Then, what should I do......");
 ChEye(6,0);
@@ -57,8 +58,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610303_06_080");
-MsgDisp("Himuro","If there's already a guy next to you,
-no one would dare approach.");
+MsgDisp("Himuro","If there's already a guy next to you, no
+one would dare approach.");
 MsgDisp("主人公","I see.
 But, who......?");
 ChEye(6,1);
@@ -72,8 +73,8 @@ ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G020610303_06_100");
 MsgDisp("Himuro","If there are guys swarming around you like
-today, I'll fend them off. I won't let
-anyone walk beside you.");
+today, I'll fend them off.
+I won't let anyone walk beside you.");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);

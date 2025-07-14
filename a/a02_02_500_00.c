@@ -2,16 +2,15 @@ BGOpen("sc310",0);
 ScrFadeIn(0);
 VoicePlay("A020250000_02_000");
 MsgDisp("Sassa?","Ryota, you here～?");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝!
-What's going on?");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝! What's going on?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,2,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("A020250000_02_010");
-MsgDisp("Sassa","｛主人公｝.
-You're in the same class as Ryota?");
+MsgDisp("Sassa","｛主人公｝. You're in the same class as
+Ryota?");
 MsgDisp("主人公","Yeah. And you ｛颯砂＊＊｝, you and
 ｛風真＊＊｝ know each other?");
 ChEye(2,0);
@@ -61,8 +60,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("A020250000_02_050");
-MsgDisp("Sassa","I've heard it from my parents,
-and from Ryota too......");
+MsgDisp("Sassa","I've heard it from my parents, and from
+Ryota too......");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -84,9 +83,9 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
 VoicePlay("A020250000_01_030");
-MsgDisp("Kazama","You didn't even remember me that much. 
-Though I'd be annoyed if you
-only remembered her.");
+MsgDisp("Kazama","You didn't even remember me that much.
+Though I'd be annoyed if you only
+remembered her.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
@@ -103,21 +102,22 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020250000_02_090");
-MsgDisp("Sassa","Hmm.
-So, you don't remember me either, right?");
+MsgDisp("Sassa","Hmm. So, you don't remember me either,
+right?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
-MsgDisp("主人公","Yeah, I don't remember much
-from kindergarten......");
+MsgDisp("主人公","Yeah, I don't remember much from
+kindergarten......");
 ChEyeOpenLevel(1,8);
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("A020250000_02_100");
-MsgDisp("Sassa","That's normal, I think? It's just that
-a certain someone is different.");
+MsgDisp("Sassa","That's normal, I think?
+It's just that a certain someone is
+different.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -149,10 +149,10 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020250000_02_130");
-MsgDisp("Sassa","Ah, it's bad! I gotta change class!
+MsgDisp("Sassa","Ah, it's bad!
+I gotta change class!
 See you later childhoods buddies!");
-MsgDisp("主人公","Hehe.
-See you later, ｛颯砂＊＊｝!");
+MsgDisp("主人公","Hehe. See you later, ｛颯砂＊＊｝!");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -166,8 +166,8 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("A020250000_01_080");
-MsgDisp("Kazama","Huh, looks like it's gonna get 
-noisy around here.");
+MsgDisp("Kazama","Huh, looks like it's gonna get noisy
+around here.");
 MsgDisp("主人公","(So I'm not just childhood friends with
 ｛風真＊＊｝, but also with ｛颯砂＊＊｝.
 What a coincidence......)");

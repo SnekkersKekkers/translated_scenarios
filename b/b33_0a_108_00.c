@@ -26,8 +26,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10800_06_000");
 MsgDisp("Himuro","Nozome-senpai, this is just a question;
-but if you struggle that much,
-why did you come?");
+but if you struggle that much, why did you
+come?");
 ChEye(1,0);
 ChEye(2,2);
 ChMouth(2,0);
@@ -39,7 +39,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10800_01_010");
-MsgDisp("Kazama","Could it be... 
+MsgDisp("Kazama","Could it be...
 you were led over here?");
 MsgDisp("主人公","Ehhh∋");
 ChEye(1,0);
@@ -50,15 +50,15 @@ ChMotion(6,5);
 VoicePlay("B330A10800_06_010");
 MsgDisp("Himuro","Ryota-senpai, you can't do that.
 It's working on me too.");
-MsgDisp("主人公","Umm...
-Maybe, we should wait
-outside after all?");
+MsgDisp("主人公","Umm... Maybe, we should wait outside after
+all?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B330A10800_02_020");
 MsgDisp("Sassa","Ohh, let's do that.
-Ryota, Inori. You two can go in together.");
+Ryota, Inori.
+You two can go in together.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -123,9 +123,8 @@ MsgClose();
 ChOpen(2,255,0,2,0,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 VoicePlay("B330A10800_06_030");
-MsgDisp("Himuro","Someone dropped something so
-I went to put it away
-in lost and found.");
+MsgDisp("Himuro","Someone dropped something so I went to put
+it away in lost and found.");
 ChMouth(1,0);
 MsgDisp("主人公","Haa, I'm glad...");
 ChEye(6,0);
@@ -140,8 +139,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("B330A10800_02_040");
-MsgDisp("Sassa","Ryota said someone was 
-missing so it made me anxious.");
+MsgDisp("Sassa","Ryota said someone was missing so it made
+me anxious.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);

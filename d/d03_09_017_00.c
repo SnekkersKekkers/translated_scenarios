@@ -39,8 +39,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901700_09_020");
 MsgDisp("Kuya","But you know......I'm sorry.
-Even though it's Christmas, I didn't
-bring you a gift.");
+Even though it's Christmas, I didn't bring
+you a gift.");
 MsgDisp("主人公","It's fine.
 I didn't bring anything either.");
 MsgClose();
@@ -80,8 +80,8 @@ MsgDisp("主人公","Hehe.");
 StlEye(9,1);
 StlMouth(9,1);
 VoicePlay("D030901700_09_070");
-MsgDisp("Kuya","I was able to get such a wonderful
-present from you and this city.");
+MsgDisp("Kuya","I was able to get such a wonderful present
+from you and this city.");
 StlEye(9,1);
 StlMouth(9,1);
 VoicePlay("D030901700_09_080");
@@ -94,14 +94,14 @@ StlMouth(9,1);
 StlEyeOpenLevel(9,5,1);
 VoicePlay("D030901700_09_090");
 MsgDisp("Kuya","It's true.
-If it weren't for you, I would still
-have that strange hero complex.");
+If it weren't for you, I would still have
+that strange hero complex.");
 StlEye(9,4);
 StlMouth(9,2);
 VoicePlay("D030901700_09_100");
-MsgDisp("Kuya","You brought me back to reality and kept
-me grounded. Like an Angel descended to
-Earth.");
+MsgDisp("Kuya","You brought me back to reality and kept me
+grounded.
+Like an Angel descended to Earth.");
 MsgDisp("主人公","Kuya-san......");
 MsgClose();
 ScrFadeOut(0);
@@ -162,8 +162,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901700_09_170");
-MsgDisp("Kuya","The next time we meet, it will finally
-be over.");
+MsgDisp("Kuya","The next time we meet, it will finally be
+over.");
 MsgDisp("主人公","(Kuya-san......
 \"Be over\"......maybe he means the exam?
 I have to work hard too.)");

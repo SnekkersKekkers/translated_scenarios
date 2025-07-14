@@ -13,8 +13,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F022200003_22_010");
-MsgDisp("Hikaru","That couples who confess and marry
-at the church, will give birth to twins!");
+MsgDisp("Hikaru","That couples who confess and marry at the
+church, will give birth to twins!");
 MsgDisp("主人公","Ehh, really∋");
 ChEye(22,3);
 ChMouth(22,3);
@@ -23,9 +23,8 @@ ChEyeOpenLevel(22,0);
 VoicePlay("F022200003_22_020");
 MsgDisp("Hikaru","Our Mama said it.
 It must be true♪");
-MsgDisp("主人公","Wow...
-Did both of your parents study
-at Haba High, ｛ひかる＊｝?");
+MsgDisp("主人公","Wow... Did both of your parents study at
+Haba High, ｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChEyeOpenLevel(22,0);
@@ -41,19 +40,18 @@ ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("F022200003_22_050");
-MsgDisp("Hikaru","That's wrong～
-Papa definitely studied abroad in Paris, 
-and I feel like Mama said she studied
-at an all girls high school.");
+MsgDisp("Hikaru","That's wrong～ Papa definitely studied
+abroad in Paris, and I feel like Mama said
+she studied at an all girls high school.");
 ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,5,1);
 VoicePlay("F022200003_22_060");
 MsgDisp("Hikaru","...Eh, wait a second...
-That means Haba High used to be an
-all girls school a long time ago～∋");
+That means Haba High used to be an all
+girls school a long time ago～∋");
 MsgDisp("主人公","(｛ひかる＊｝ is confused.
-I think ｛ひかる＊｝'s Mother was 
+I think ｛ひかる＊｝'s Mother was
 probably just joking...)");
 MsgClose();
 ScrFadeOut(0,0);

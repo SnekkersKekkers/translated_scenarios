@@ -25,8 +25,8 @@ swimming for a long-distance swim.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040306100_03_020");
-    MsgDisp("Honda","Sure! Ramen at the beach house is 20% 
-more delicious, right?");
+    MsgDisp("Honda","Sure! Ramen at the beach house is 20% more
+delicious, right?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +37,8 @@ more delicious, right?");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040306100_03_030");
-    MsgDisp("Honda","I think the sandy beach at the sunbathing 
-area is probably all cleaned, and there 
+    MsgDisp("Honda","I think the sandy beach at the sunbathing
+area is probably all cleaned, and there
 might not be any stones or seashells left.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

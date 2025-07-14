@@ -20,22 +20,21 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A30700_06_000");
-MsgDisp("Himuro","The sound of the visitors 
-also adds to the production.");
+MsgDisp("Himuro","The sound of the visitors also adds to the
+production.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30700_01_000");
-MsgDisp("Kazama","Maybe.
-IF it was all quiet,
-it would feel boring.");
+MsgDisp("Kazama","Maybe. IF it was all quiet, it would feel
+boring.");
 SEWait();
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30700_06_010");
-MsgDisp("Himuro","Ryota-senpai, 
-you don't really like it do you?
+MsgDisp("Himuro","Ryota-senpai, you don't really like it do
+you?
 Rollercoasters that is.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -52,23 +51,24 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A30700_02_000");
-MsgDisp("Sassa","You're not especially bad with
-this kind of stuff are you, Ryota?");
+MsgDisp("Sassa","You're not especially bad with this kind
+of stuff are you, Ryota?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30700_01_020");
-MsgDisp("Kazama","Yeah, of course. It's fine.
+MsgDisp("Kazama","Yeah, of course.
+It's fine.
 The oen who's scared is her.");
-MsgDisp("主人公","Maybe I should sit 
-this one out after all...?");
+MsgDisp("主人公","Maybe I should sit this one out after
+all...?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30700_01_030");
-MsgDisp("Kazama","It'll be fine. You're sitting 
-next to me after all.");
+MsgDisp("Kazama","It'll be fine.
+You're sitting next to me after all.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
@@ -94,14 +94,13 @@ ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30700_01_050");
-MsgDisp("Kazama","...Understood.
-Then, how should we decide on seats?");
+MsgDisp("Kazama","...Understood. Then, how should we decide
+on seats?");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","Umm... I'll be fine by myself?
-Since I might end up grabbing 
-onto the clothes of the 
-person next to me.");
+MsgDisp("主人公","Umm... I'll be fine by myself? Since I
+might end up grabbing onto the clothes of
+the person next to me.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

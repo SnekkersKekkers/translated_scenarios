@@ -12,36 +12,36 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20101_06_000");
-MsgDisp("Himuro","The giant isopod here seems to
-be poplar with young people.");
+MsgDisp("Himuro","The giant isopod here seems to be poplar
+with young people.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20101_07_000");
-MsgDisp("Mikage","You're also young enough to 
-be considered as one of them.");
+MsgDisp("Mikage","You're also young enough to be considered
+as one of them.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20101_05_000");
 MsgDisp("Hiiragi","I can see why it's of great interest.
-It truly does look as though it
-is clad in armour.");
+It truly does look as though it is clad in
+armour.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20101_07_010");
 MsgDisp("Mikage","It does look like that, it's mysterious.
-It seems that this one hasn't 
-eaten in years.");
+It seems that this one hasn't eaten in
+years.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C20101_06_010");
 MsgDisp("Himuro","...Is that why it's so popular?");
-MsgDisp("主人公","It says on the pamphlet that it's
-a \"creepy cute\" creature.");
+MsgDisp("主人公","It says on the pamphlet that it's a
+\"creepy cute\" creature.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -71,9 +71,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20101_07_030");
-MsgDisp("Mikage","Eh, I see. My bad, my bad.
-I guess you guys differ to the youths, 
-so to speak.");
+MsgDisp("Mikage","Eh, I see. My bad, my bad. I guess you
+guys differ to the youths, so to speak.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -86,9 +85,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20101_05_030");
-MsgDisp("Hiiragi","If you say so, people like you who 
-are willing to associate with people 
-like us are also rather rare.");
+MsgDisp("Hiiragi","If you say so, people like you who are
+willing to associate with people like us
+are also rather rare.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -112,10 +111,10 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B330C20101_07_050");
 MsgDisp("Mikage","Ohh, is that so?
-I'm happy, you know. The four of us
-are a creepy-cute group.");
-MsgDisp("主人公","(I'm not sure about that 
-way of putting it...)");
+I'm happy, you know.
+The four of us are a creepy-cute group.");
+MsgDisp("主人公","(I'm not sure about that way of putting
+it...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

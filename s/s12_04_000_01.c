@@ -23,8 +23,8 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("S120400001_04_010");
-    MsgDisp("Nanatsumori","Promise me that you won't eat too 
-much rice cake this year, okay?");
+    MsgDisp("Nanatsumori","Promise me that you won't eat too much
+rice cake this year, okay?");
     MsgDisp("主人公","Yessir!");
     ChEye(4,0);
     ChMouth(4,3);
@@ -57,11 +57,10 @@ It's not enough somehow......");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400001_04_050");
-    MsgDisp("Nanatsumori","......
-Negativity isn't good first thing in the
-New Year.");
-    MsgDisp("主人公","Hehe!
-We'll see each other again soon, right?");
+    MsgDisp("Nanatsumori","...... Negativity isn't good first thing
+in the New Year.");
+    MsgDisp("主人公","Hehe! We'll see each other again soon,
+right?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -73,8 +72,8 @@ Bye then.");
     MsgClose();
     ChClose(4,0,30);
     Wait(30);
-    MsgDisp("主人公","(I hope this year will be good
-as well......)");
+    MsgDisp("主人公","(I hope this year will be good as
+well......)");
     break ;
     default :
     DbgAssert(1);

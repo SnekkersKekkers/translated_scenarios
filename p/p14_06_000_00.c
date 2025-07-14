@@ -4,8 +4,7 @@ ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("P140600000_06_000");
 MsgDisp("Himuro","............");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-how was it?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝. how was it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -16,8 +15,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P140600000_06_020");
-MsgDisp("Himuro","I thought it was more like something
-that could deceive children.");
+MsgDisp("Himuro","I thought it was more like something that
+could deceive children.");
 MsgDisp("主人公","I studied really hard.");
 ChEye(6,1);
 ChMouth(6,0);
@@ -29,8 +28,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P140600000_06_040");
-MsgDisp("Himuro","I wondered if I could really get out,
-I panicked a bit......");
+MsgDisp("Himuro","I wondered if I could really get out, I
+panicked a bit......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -57,7 +56,6 @@ MsgDisp("主人公","Ah, where are you going?");
 VoicePlay("P140600000_06_080");
 MsgDisp("Himuro","I'll do it again.");
 MsgDisp("主人公","(Was he actually annoyed?
-Alright, a huge success!)
-");
+Alright, a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

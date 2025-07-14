@@ -8,8 +8,8 @@ switch (ChPrmGet(5,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I finished just in time but, 
-it's finally the runway...I'm nervous..)");
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -25,11 +25,11 @@ Thank you.");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("P730500000_05_020");
-    MsgDisp("Hiiragi","Even if I tell you to relax,
-it's difficult, right?");
+    MsgDisp("Hiiragi","Even if I tell you to relax, it's
+difficult, right?");
     MsgDisp("主人公","I'm super nervous..
-This is my first time doing something 
-like a fashion show.");
+This is my first time doing something like
+a fashion show.");
     VoicePlay("P730500000_05_030");
     MsgDisp("Hiiragi","I understand.
 I'm also always like that.");
@@ -51,12 +51,12 @@ little easier, right?");
     ChMotion(5,0);
     VoiceEVSPlay(5);
     VoicePlay("P730500000_05_050");
-    MsgDisp("Hiiragi","｛主人公｝.
-I forgot to mention something important.
-That outfit suits you very well.");
+    MsgDisp("Hiiragi","｛主人公｝. I forgot to mention
+something important. That outfit suits you
+very well.");
     MsgDisp("主人公","Thank you...!");
-    MsgDisp("主人公","(I feel like ｛柊＊＊＊｝
-gave me the push I needed.
+    MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ gave me the push
+I needed.
 Let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -66,8 +66,8 @@ Let's do our best!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I finished just in time but, 
-it's finally the runway...I'm nervous..)");
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -75,8 +75,7 @@ it's finally the runway...I'm nervous..)");
     VoiceEVSPlay(5);
     VoicePlay("P730500000_05_060");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Did you come to watch?");
     ChEye(5,4);
     VoicePlay("P730500000_05_070");
     MsgDisp("Hiiragi","This is your big moment.
@@ -88,8 +87,9 @@ Seems like I'm nervous after all.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500000_05_080");
-    MsgDisp("Hiiragi","I apologise. I didn't intend on putting
-pressure on you.");
+    MsgDisp("Hiiragi","I apologise.
+I didn't intend on putting pressure on
+you.");
     MsgDisp("主人公","No.
 I'm happy that you came to watch.");
     ChEye(5,0);
@@ -99,8 +99,8 @@ I'm happy that you came to watch.");
     MsgDisp("Hiiragi","It's the same when I'm at theatre troupe.
 I'm happiest when people come to watch.");
     VoicePlay("P730500000_05_100");
-    MsgDisp("Hiiragi","Just remember that happy feeling, 
-an forget your apprehension, okay?");
+    MsgDisp("Hiiragi","Just remember that happy feeling, an
+forget your apprehension, okay?");
     MsgDisp("主人公","...Yeah.");
     SEPlay("EV_SE_038");
     SEWait();

@@ -2,8 +2,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602001_06_000");
-MsgDisp("Himuro","You're wearing that Hazuki Kei
-T-shirt again?");
+MsgDisp("Himuro","You're wearing that Hazuki Kei T-shirt
+again?");
 MsgDisp("主人公","Yeah, I like wearing it.");
 ChEye(6,0);
 ChMouth(6,0);

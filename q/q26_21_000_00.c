@@ -13,10 +13,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("Q262100000_21_010");
-MsgDisp("Michiru","......Hehe.
-Would you have preferred someone else?
-Sorry it's me?");
-MsgDisp("主人公","(So that was ｛みちる＊｝......)");
+MsgDisp("Michiru","......Hehe. Would you have preferred
+someone else? Sorry it's me?");
+MsgDisp("主人公","(So that was ｛みちる＊｝...... )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

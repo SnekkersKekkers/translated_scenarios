@@ -10,21 +10,22 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020320201_03_010");
 MsgDisp("Honda","It's just my personal interest.
-It's not the best day to do it, 
-but I thought now would be a good time.");
+It's not the best day to do it, but I
+thought now would be a good time.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020320201_03_020");
-MsgDisp("Honda","Sure, Mii-kun is handsome, and the more 
-you talk to him, the more you realize he 
+MsgDisp("Honda","Sure, Mii-kun is handsome, and the more
+you talk to him, the more you realize he
 has great taste in conversation topics——");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020320201_03_030");
-MsgDisp("Honda","Right, right. He definitely has the
-qualities that make him popular.");
+MsgDisp("Honda","Right, right.
+He definitely has the qualities that make
+him popular.");
 ChMotion(3,2);
 VoicePlay("G020320201_03_040");
 MsgDisp("Honda","But he doesn't seem interested in playing
@@ -40,8 +41,8 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020320201_03_060");
 MsgDisp("Honda","I think you noticed something special
-about Mii-kun that I haven't seen. That's
-why you......");
+about Mii-kun that I haven't seen.
+That's why you......");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,2);
@@ -58,14 +59,16 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("G020320201_03_090");
-MsgDisp("Honda","You really are amazing! My heart and mind
-only get this busy when I'm with you.");
+MsgDisp("Honda","You really are amazing!
+My heart and mind only get this busy when
+I'm with you.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,2);
 VoicePlay("G020320201_03_100");
-MsgDisp("Honda","So, yeah. I don't think I can just step
-aside for Mii-kun......");
+MsgDisp("Honda","So, yeah.
+I don't think I can just step aside for
+Mii-kun......");
 MsgDisp("主人公","(I didn't know ｛本多＊＊｝ felt this
 way......)");
 BGMStop();

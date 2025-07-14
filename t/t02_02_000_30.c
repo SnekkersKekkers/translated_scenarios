@@ -24,14 +24,14 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020200030_02_020");
-MsgDisp("Sassa","Thanks to you,
-I can now think about why I run.");
+MsgDisp("Sassa","Thanks to you, I can now think about why I
+run.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200030_02_030");
-MsgDisp("Sassa","I'm definitely stronger now than I 
-was when I was just running.");
+MsgDisp("Sassa","I'm definitely stronger now than I was
+when I was just running.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -49,8 +49,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020200030_02_060");
-MsgDisp("Sassa","Surprisingly, I like thinking too. Did 
-you know that?");
+MsgDisp("Sassa","Surprisingly, I like thinking too.
+Did you know that?");
 ChEye(2,4);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","｛颯砂＊＊｝......");
@@ -59,7 +59,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("T020200030_02_070");
 MsgDisp("Sassa","I'll think it through, but I'll run as
-hard as I can. See you, manager.");
+hard as I can.
+See you, manager.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

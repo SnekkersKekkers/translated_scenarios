@@ -12,8 +12,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B030718000_07_010");
-MsgDisp("Mikage","What a treat,
-to be able to watch a movie in class.");
+MsgDisp("Mikage","What a treat, to be able to watch a movie
+in class.");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("ne610",0);
@@ -24,8 +24,8 @@ ChMotion(7,2,1);
 ChEyeOpenLevel(7,7);
 ScrFadeIn(0);
 VoicePlay("B030718000_07_020");
-MsgDisp("Mikage","But seriously, is this movie like
-one of Himuro's favorites or what...?");
+MsgDisp("Mikage","But seriously, is this movie like one of
+Himuro's favorites or what...?");
 MsgDisp("主人公","I think it's about to start?");
 MsgClose();
 MsgClose();

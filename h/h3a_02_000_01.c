@@ -14,10 +14,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H3A0200001_02_000");
-    MsgDisp("Sassa","｛主人公｝.
-......It's too bad.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝......
-I lost.");
+    MsgDisp("Sassa","｛主人公｝. ......It's too bad.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...... I lost.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -33,8 +31,8 @@ want any encouragement right now.");
 You were cool.
 Chin up!");
     MsgDisp("主人公","(｛颯砂＊＊｝, thank you......
-I lost, but I was able to make it
-this far......)");
+I lost, but I was able to make it this
+far......)");
     break ;
     default :
     DbgAssert(1);

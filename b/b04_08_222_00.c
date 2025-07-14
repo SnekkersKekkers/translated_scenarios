@@ -6,8 +6,8 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040822200_08_000");
-MsgDisp("Shirahane","Doesn't it kinda feel 
-like a class field trip?");
+MsgDisp("Shirahane","Doesn't it kinda feel like a class field
+trip?");
 MsgSel("Do you not like history?","Wanna study something else?","It'll be fun to study it together");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ Hey, this is a date, right?");
     ChCheek(8,5);
     VoicePlay("B040822200_08_020");
     MsgDisp("Shirahane","What do you mean∋
-You shouldn't mess with 
-people like that, ya know?");
+You shouldn't mess with people like that,
+ya know?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -39,10 +39,9 @@ people like that, ya know?");
     ChMotion(8,3,1);
     ChCheek(8,3);
     VoicePlay("B040822200_08_030");
-    MsgDisp("Shirahane","That's right!
-Since I can't actually have a class
-field trip with you.
-Today is a simulation▼");
+    MsgDisp("Shirahane","That's right! Since I can't actually have
+a class field trip with you. Today is a
+simulation▼");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -23,8 +23,8 @@ to use my head.");
     ChMotion(2,4);
     VoicePlay("B040219100_02_010");
     MsgDisp("Sassa","Yeah, that's about right.
-Even I could watch it
-without getting bored.");
+Even I could watch it without getting
+bored.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,9 +36,8 @@ without getting bored.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040219100_02_020");
-    MsgDisp("Sassa","Right right.
-Those experts who popped out every now 
-and again? That was painfulー.");
+    MsgDisp("Sassa","Right right. Those experts who popped out
+every now and again? That was painfulー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

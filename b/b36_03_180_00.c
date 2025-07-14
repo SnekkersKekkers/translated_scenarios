@@ -16,25 +16,27 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B360318000_03_010");
-MsgDisp("Honda","I don't really have anything specific in 
+MsgDisp("Honda","I don't really have anything specific in
 mind.");
 MsgDisp("主人公","Really..?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360318000_03_020");
-MsgDisp("Honda","Ah, sorry. To be honest, I actually wanted
-to talk to you, not watch a movie.");
+MsgDisp("Honda","Ah, sorry.
+To be honest, I actually wanted to talk to
+you, not watch a movie.");
 MsgDisp("主人公","Huh∋");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360318000_03_030");
-MsgDisp("Honda","Yeah, with Ryou-kun and Mii-kun around 
-earlier, I didn't get to talk to you 
+MsgDisp("Honda","Yeah, with Ryou-kun and Mii-kun around
+earlier, I didn't get to talk to you
 enough.");
-MsgDisp("主人公","Haha, I see. Well, we can save the movie
-for another time.");
+MsgDisp("主人公","Haha, I see.
+Well, we can save the movie for another
+time.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
@@ -54,7 +56,7 @@ ChMotion(3,3,1);
 VoicePlay("B360318000_03_060");
 MsgDisp("Honda","Exactly! Instead of a movie, I'll just
 chat with you～");
-MsgDisp("主人公","(｛本多＊＊｝'s stories might be longer 
+MsgDisp("主人公","(｛本多＊＊｝'s stories might be longer
 than a movie...)");
 BGMStop();
 MsgClose();

@@ -26,8 +26,8 @@ That's for the best.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040706502_07_020");
-    MsgDisp("Mikage","Even though there were many 
-thousands of them...
+    MsgDisp("Mikage","Even though there were many thousands of
+them...
 But the end must come.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
@@ -54,22 +54,21 @@ But the end must come.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040706502_07_040");
-        MsgDisp("Mikage","No, even I don't think this
-is like me either but..");
+        MsgDisp("Mikage","No, even I don't think this is like me
+either but..");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040706502_07_050");
-        MsgDisp("Mikage","...But thanks to you, 
-I might be able to get out of 
-this spiral.");
+        MsgDisp("Mikage","...But thanks to you, I might be able to
+get out of this spiral.");
         MsgDisp("主人公","Spiral?");
         ChEye(7,1);
         ChMouth(7,0);
         ChMotion(7,4);
         VoicePlay("B040706502_07_060");
-        MsgDisp("Mikage","Maybe, next year, a 
-different summer will come.");
+        MsgDisp("Mikage","Maybe, next year, a different summer will
+come.");
         MsgDisp("主人公","Eh...");
         ChEye(7,2);
         ChMouth(7,0);
@@ -89,12 +88,12 @@ get sick of me.");
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040706502_07_090");
-        MsgDisp("Mikage","Haa, it's no good.
-This isn't a conversation to be had
-under fireworks. Let's talk about this
-properly once I've collected myself.");
-        MsgDisp("主人公","(｛御影＊＊｝...
-did something happen...?)");
+        MsgDisp("Mikage","Haa, it's no good. This isn't a
+conversation to be had under fireworks.
+Let's talk about this properly once I've
+collected myself.");
+        MsgDisp("主人公","(｛御影＊＊｝... did something
+happen...?)");
         break ;
         default :
         DbgAssert(1);

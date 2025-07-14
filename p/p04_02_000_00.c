@@ -18,8 +18,8 @@ ChMouth(2,3);
 ChMotion(2,0);
 ChEyeOpenLevel(2,0);
 VoicePlay("P040200000_02_020");
-MsgDisp("Sassa","Seeing you enjoy you work makes me
-feel fired up too!");
+MsgDisp("Sassa","Seeing you enjoy you work makes me feel
+fired up too!");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

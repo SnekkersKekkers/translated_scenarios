@@ -22,8 +22,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B060300011_03_020");
-    MsgDisp("Honda","I want to talk more but it'd
-never end, huh?");
+    MsgDisp("Honda","I want to talk more but it'd never end,
+huh?");
     break ;
     default :
     DbgAssert(1);

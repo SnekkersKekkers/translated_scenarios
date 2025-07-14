@@ -12,16 +12,15 @@ MsgDisp("主人公","Ah, ｛大地＊＊｝!");
 VoicePlay("E010810000_08_010");
 MsgDisp("Shirahane","What a coincidence.
 Are you shopping too?");
-MsgDisp("主人公","Yeah.
-｛大地＊＊｝, is that food?");
+MsgDisp("主人公","Yeah. ｛大地＊＊｝, is that food?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("E010810000_08_020");
-MsgDisp("Shirahane","That's right. It's curry night!
-The Shirahane family's special curry
-is delicious～▼");
+MsgDisp("Shirahane","That's right. It's curry night! The
+Shirahane family's special curry is
+delicious～▼");
 MsgDisp("主人公","Wow, that's great!
 Now I'm getting hungry......");
 ChEye(8,5);
@@ -41,8 +40,8 @@ ChMouth(8,4);
 ChMotion(8,2,1);
 ChCheek(8,5);
 VoicePlay("E010810000_08_040");
-MsgDisp("Shirahane","Then...... would you like to come over
-to my place and eat?");
+MsgDisp("Shirahane","Then...... would you like to come over to
+my place and eat?");
 MsgDisp("主人公","......Eh?");
 ChEye(8,3);
 ChMouth(8,0);

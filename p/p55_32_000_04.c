@@ -14,21 +14,20 @@ MsgDisp("主人公","Yes, I enjoyed it with all my heart.");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P553200004_32_010");
-MsgDisp("VP Himuro","Hm.
-It seems that every time we perform 
+MsgDisp("VP Himuro","Hm. It seems that every time we perform
 game music, everyone enjoys it.");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P553200004_32_020");
-MsgDisp("VP Himuro","I, as the conductor also felt the audience smiling below me.
+MsgDisp("VP Himuro","I, as the conductor also felt the audience
+smiling below me.
 It was a huge success this time too.");
 MsgDisp("主人公","Yes, game clear!");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("P553200004_32_030");
-MsgDisp("VP Himuro","Hmm...
-Your mood is infectious.
-I look forward to your continued success!");
+MsgDisp("VP Himuro","Hmm... Your mood is infectious. I look
+forward to your continued success!");
 MsgDisp("主人公","Yes, thank you very much!");
 MsgClose();
 ScrFadeOut(0);

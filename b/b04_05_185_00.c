@@ -10,9 +10,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMouth(5,4);
     VoicePlay("B040518500_05_000");
-    MsgDisp("Hiiragi","It wasn't a love story,
-but it was a very interesting 
-documentary of a man's life.");
+    MsgDisp("Hiiragi","It wasn't a love story, but it was a very
+interesting documentary of a man's life.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +34,8 @@ But, it has piqued my interest.");
     ChMotion(5,2);
     VoicePlay("B040518500_05_020");
     MsgDisp("Hiiragi","I do not think it is that bad.
-But maybe the original 
-left a strong impression..");
+But maybe the original left a strong
+impression..");
     MsgDateResultDisp();
     break ;
     default :

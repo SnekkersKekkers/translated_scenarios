@@ -12,8 +12,8 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020140000_01_010");
-MsgDisp("Kazama","Wow, that's a good one-liner. I think so
-too.");
+MsgDisp("Kazama","Wow, that's a good one-liner.
+I think so too.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

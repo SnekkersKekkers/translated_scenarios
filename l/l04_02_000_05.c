@@ -25,16 +25,16 @@ You can make sweets, too.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200005_02_030");
-    MsgDisp("Sassa","You added a lot of good-looking
-stuff. I'll eat it at home.");
+    MsgDisp("Sassa","You added a lot of good-looking stuff.
+I'll eat it at home.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Did I add something that
-he doesn't like......?
+    MsgDisp("主人公","(Did I add something that he doesn't
+like......?
 But, he seemed pleased enough.)");
     break ;
     case 3:
@@ -55,9 +55,8 @@ for me, right?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("L040200005_02_060");
-    MsgDisp("Sassa","No, just checking.
-I'm glad you made it for me.
-Thanks.");
+    MsgDisp("Sassa","No, just checking. I'm glad you made it
+for me. Thanks.");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -71,8 +70,8 @@ Alright.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Did I add something that
-he doesn't like......?
+    MsgDisp("主人公","(Did I add something that he doesn't
+like......?
 But, he seemed pleased enough.)");
     break ;
     case 4:
@@ -89,16 +88,16 @@ Nice.");
     ChMotion(2,4);
     VoicePlay("L040200005_02_090");
     MsgDisp("Sassa","It's really well made.
-There's just something in it that I'm
-not good with.");
+There's just something in it that I'm not
+good with.");
     MsgDisp("主人公","Oh!　S-Sorry......");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("L040200005_02_100");
     MsgDisp("Sassa","Don't apologize.
-I'm just happy that you thought to
-make something for me.");
+I'm just happy that you thought to make
+something for me.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -111,8 +110,7 @@ make something for me.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(I added something he
-didn't like......
+    MsgDisp("主人公","(I added something he didn't like......
 But, he seemed pleased enough.))");
     break ;
     default :

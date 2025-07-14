@@ -20,15 +20,15 @@ ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("D100200000_02_020");
 MsgDisp("Sassa","I always get here on time.
-Even if I have to run here, I get a 
-good time.");
+Even if I have to run here, I get a good
+time.");
 MsgDisp("主人公","Don't run in the halls, okay?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D100200000_02_030");
-MsgDisp("Sassa","Huh?　What?
-This reminds me of my dream last night.");
+MsgDisp("Sassa","Huh? What? This reminds me of my dream
+last night.");
 MsgDisp("主人公","Eh, really......?
 What kind of dream was it?");
 ChEye(2,0);
@@ -43,9 +43,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D100200000_02_050");
-MsgDisp("Sassa","Yeah.
-Maybe it means something?
-I'll think about it a bit.");
+MsgDisp("Sassa","Yeah. Maybe it means something? I'll think
+about it a bit.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

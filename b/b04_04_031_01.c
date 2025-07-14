@@ -38,9 +38,9 @@ Pay attention to that too∈");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040403101_04_020");
-    MsgDisp("Nanatsumori","For sure... a human child
-could fit in there. Damn!
-That's funny, I'll take a picture.");
+    MsgDisp("Nanatsumori","For sure... a human child could fit in
+there. Damn! That's funny, I'll take a
+picture.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -51,8 +51,8 @@ That's funny, I'll take a picture.");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("B040403101_04_030");
-    MsgDisp("Nanatsumori","Your reasoning for it 
-being scary is that it's big?
+    MsgDisp("Nanatsumori","Your reasoning for it being scary is that
+it's big?
 I don't understandー...");
     MsgDateResultDisp();
     break ;

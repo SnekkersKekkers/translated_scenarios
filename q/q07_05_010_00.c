@@ -5,9 +5,8 @@ MsgDisp("主人公","(Phew, I bought a lot of souvenirs!
 But where did ｛柊＊＊＊｝ go?)");
 SEPlay("EV_SE_771");
 SEWait();
-MsgDisp("主人公","(Ah...... A cute sound!
-It's from that shop. I should take a 
-peek!)");
+MsgDisp("主人公","(Ah...... A cute sound! It's from that
+shop. I should take a peek!)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0,0);
@@ -25,19 +24,19 @@ StlEye(5,0);
 VoicePlay("Q070501000_05_000");
 MsgDisp("Hiiragi","Nice tone......");
 VoicePlay("Q070501000_34_000");
-MsgDisp("Clerk","Customer, you are very good at painting 
-and blowing. I'd love to have it as a 
-part of our product.");
+MsgDisp("Clerk","Customer, you are very good at painting
+and blowing. I'd love to have it as a part
+of our product.");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("Q070501000_05_010");
 MsgDisp("Hiiragi","Thank you.
-I hope the person I'll be presenting
-will also be pleased——");
+I hope the person I'll be presenting will
+also be pleased——");
 StlEye(5,0,1);
 SEPlay("EV_SE_777",0,0.9);
 Wait(150,1);
 SEStop("EV_SE_777",0.1);
-MsgDisp("主人公","｛柊＊＊＊｝！");
+MsgDisp("主人公","｛柊＊＊＊｝ ！");
 StlEye(5,3);
 VoicePlay("Q070501000_05_020");
 MsgDisp("Hiiragi","Eh......");
@@ -76,12 +75,12 @@ MsgDisp("主人公","It's pretty......");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("Q070501000_05_070");
-MsgDisp("Hiiragi","Holly leaves have long been used as
-It has also been used to ward off evil.");
+MsgDisp("Hiiragi","Holly leaves have long been used as It has
+also been used to ward off evil.");
 ChEye(5,4);
 VoicePlay("Q070501000_05_080");
-MsgDisp("Hiiragi","As a souvenir of the school trip and 
-your good luck charm.");
+MsgDisp("Hiiragi","As a souvenir of the school trip and your
+good luck charm.");
 MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,3);
 ChMotion(5,0);
@@ -112,8 +111,8 @@ BGMStop(2);
 MsgClose();
 ScrFadeOut(0,0);
 Wait(60,0);
-MsgDisp("主人公","(｛柊＊＊＊｝......
-Thanks for the nice gift......)");
+MsgDisp("主人公","(｛柊＊＊＊｝...... Thanks for the nice
+gift......)");
 MsgClose();
 Wait(40,0);
 MsgClose();

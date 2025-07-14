@@ -11,11 +11,10 @@ ChEye(31,2);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P143100001_31_010");
-MsgDisp("Goro","Goal?
-This is the goal?
-Did I start something?");
-MsgDisp("主人公","(Seems like he completely didn't
-even realize it was a maze.
+MsgDisp("Goro","Goal? This is the goal? Did I start
+something?");
+MsgDisp("主人公","(Seems like he completely didn't even
+realize it was a maze.
 A huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);

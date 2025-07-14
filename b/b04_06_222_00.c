@@ -27,9 +27,8 @@ I don't dislike that way of thinking.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040622200_06_020");
-    MsgDisp("Himuro","Really?
-I don't think it's something t
-o worry about though?");
+    MsgDisp("Himuro","Really? I don't think it's something t o
+worry about though?");
     MsgDateResultDisp();
     break ;
     case 2:

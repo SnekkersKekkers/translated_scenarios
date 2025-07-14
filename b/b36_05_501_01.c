@@ -27,13 +27,13 @@ but......");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550101_05_020");
-MsgDisp("Hiiragi","When I'm talking to you, I lose
-sight of my surroundings.
+MsgDisp("Hiiragi","When I'm talking to you, I lose sight of
+my surroundings.
 I'm sorry......");
 ChEyeOpenLevel(5,9);
 MsgDisp("主人公","No problem.
-I had a good time talking to you too,
-so it's fine.");
+I had a good time talking to you too, so
+it's fine.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -61,29 +61,29 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360550101_05_050");
-MsgDisp("Hiiragi","......Haha,
-Didn't you say the same thing earlier?");
+MsgDisp("Hiiragi","......Haha, Didn't you say the same thing
+earlier?");
 MsgDisp("主人公","Hehe, that's true.");
 ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550101_05_060");
 MsgDisp("Hiiragi","Whenever I'm with you, I lose track of
-time, no matter where we are. Let's go
-home.");
+time, no matter where we are.
+Let's go home.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,4);
 VoicePlay("B360550101_05_070");
-MsgDisp("Hiiragi","Otherwise, I'm afraid it'll be
-morning again.");
+MsgDisp("Hiiragi","Otherwise, I'm afraid it'll be morning
+again.");
 ChEye(5,3);
 VoicePlay("B360550101_05_080");
 MsgDisp("Hiiragi","Or maybe I've just grown into
 an old man?");
-MsgDisp("主人公","(｛柊＊＊＊｝,
-you sound like Urashima Taro......)");
+MsgDisp("主人公","(｛柊＊＊＊｝, you sound like Urashima
+Taro......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

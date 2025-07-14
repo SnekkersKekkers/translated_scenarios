@@ -35,8 +35,8 @@ Once is enough.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040723300_07_030");
-    MsgDisp("Mikage","How can you say something like
-that when your voice is like that?
+    MsgDisp("Mikage","How can you say something like that when
+your voice is like that?
 Women are amazing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

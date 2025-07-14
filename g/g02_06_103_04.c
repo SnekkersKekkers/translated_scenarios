@@ -40,14 +40,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_060");
-MsgDisp("Himuro","I can't help but think there 
-might have been a better gift.");
+MsgDisp("Himuro","I can't help but think there might have
+been a better gift.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_070");
-MsgDisp("Himuro","I was so indecisive when choosing it. The
-other final contenders weren't bad either.");
+MsgDisp("Himuro","I was so indecisive when choosing it.
+The other final contenders weren't bad
+either.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -63,7 +64,7 @@ VoicePlay("G020610304_06_090");
 MsgDisp("Himuro","In the first place, my goal was to make
 you happy, but it got replaced by my
 desire to see your happy face.");
-MsgDisp("主人公","｛氷室＊＊｝――");
+MsgDisp("主人公","｛氷室＊＊｝ ――");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -74,14 +75,14 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610304_06_110");
-MsgDisp("Himuro","No matter what you say, 
-it'll just make me hate myself even more.");
+MsgDisp("Himuro","No matter what you say, it'll just make me
+hate myself even more.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610304_06_120");
-MsgDisp("Himuro","Haa......I really hate this. 
+MsgDisp("Himuro","Haa......I really hate this.
 This isn't like me at all.");
 MsgDisp("主人公","(｛氷室＊＊｝...... Gave his utmost effort
 in choosing a present for me......)");

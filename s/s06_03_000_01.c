@@ -45,9 +45,9 @@ score.");
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("S060300001_03_050");
-    MsgDisp("Honda","I get to go with you to the
-shrine while you're wearing a kimono,
-I feel like I've won the lottery!");
+    MsgDisp("Honda","I get to go with you to the shrine while
+you're wearing a kimono, I feel like I've
+won the lottery!");
     MsgDisp("主人公","(What a relief.
 ｛本多＊＊｝ seems to be really happy!)");
     break ;
@@ -57,8 +57,8 @@ I feel like I've won the lottery!");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("S060300001_03_060");
-    MsgDisp("Honda","So, the first outfit of the year
-is a kimono.");
+    MsgDisp("Honda","So, the first outfit of the year is a
+kimono.");
     MsgDisp("主人公","Yeah
 ......What do you think?");
     ChFace(3,3);
@@ -81,10 +81,9 @@ I can't even think of what to say!");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S060300001_03_100");
-    MsgDisp("Honda","Beautiful.
-Thank you for wearing it for me.");
-    MsgDisp("主人公","(｛本多＊＊｝......
-He seems really happy!)");
+    MsgDisp("Honda","Beautiful. Thank you for wearing it for
+me.");
+    MsgDisp("主人公","(｛本多＊＊｝...... He seems really happy!)");
     break ;
     default :
     DbgAssert(1);

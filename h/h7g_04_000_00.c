@@ -6,8 +6,7 @@ ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("H7G0400000_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Oh, ｛七ツ森＊｝.
-What's up?");
+MsgDisp("主人公","Oh, ｛七ツ森＊｝. What's up?");
 ChMotion(4,1,1);
 VoicePlay("H7G0400000_04_010");
 MsgDisp("Nanatsumori","I heard your entry in the handicrafts
@@ -34,7 +33,7 @@ VoicePlay("H7G0400000_04_040");
 MsgDisp("Nanatsumori","Congrats.
 I really respect you.");
 MsgDisp("主人公","(That makes me so happy......
-I'm really glad I stayed in
-the handicrafts club!)");
+I'm really glad I stayed in the
+handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -23,15 +23,14 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("K020300001_03_010");
 MsgDisp("Honda","It was your birthday, right?
-I wanted to give this to you that day,
-but I missed it.");
+I wanted to give this to you that day, but
+I missed it.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("K020300001_03_020");
 MsgDisp("Honda","Sorry about that!");
-MsgDisp("主人公","No,
-I'm happy you remembered my birthday.
+MsgDisp("主人公","No, I'm happy you remembered my birthday.
 Thank you!");
 ChEye(3,3);
 ChMouth(3,3);
@@ -52,6 +51,6 @@ BGMStop();
 MsgClose();
 ChClose(3);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛本多＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛本多＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

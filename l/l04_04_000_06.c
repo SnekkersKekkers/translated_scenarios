@@ -19,22 +19,23 @@ I'll accept your feelings.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Ugh......
-I wish I tried a little harder......)");
+    MsgDisp("主人公","(Ugh...... I wish I tried a little
+harder......)");
     break ;
     case 3:
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("L040400006_04_020");
-    MsgDisp("Nanatsumori","This is... homemade chocolate.");
+    MsgDisp("Nanatsumori","This is...
+homemade chocolate.");
     MsgDisp("主人公","That's right.");
     ChEye(4,2);
     ChMouth(4,0);
     VoicePlay("L040400006_04_030");
     MsgDisp("Nanatsumori","I see a bit of a crazy aura......");
-    MsgDisp("主人公","Sorry, I might have messed up
-a little......");
+    MsgDisp("主人公","Sorry, I might have messed up a
+little......");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1);
@@ -47,8 +48,8 @@ Thank you.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Ugh......
-I wish I tried a little harder......)");
+    MsgDisp("主人公","(Ugh...... I wish I tried a little
+harder......)");
     break ;
     case 4:
     case 5:
@@ -75,8 +76,8 @@ But, you did your best, right?");
     ChMouth(4,3);
     ChMotion(4,3);
     VoicePlay("L040400006_04_080");
-    MsgDisp("Nanatsumori","Then, your sincerity gets
-100 points. That's most important.
+    MsgDisp("Nanatsumori","Then, your sincerity gets 100 points.
+That's most important.
 Thank you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

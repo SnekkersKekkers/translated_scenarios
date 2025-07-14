@@ -6,9 +6,9 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040122202_01_000");
-MsgDisp("Kazama","The exhibit artifacts are important, 
-but there's a history behind each 
-scratch on the pillars and floors.");
+MsgDisp("Kazama","The exhibit artifacts are important, but
+there's a history behind each scratch on
+the pillars and floors.");
 MsgSel("The castle itself was rebuilt right?","Were they cut with swords during a battle?","How cruel... there's graffiti too.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,9 +23,8 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040122202_01_010");
-        MsgDisp("Kazama","Listen up, okay?
-The fact that it has been renovated and
-repaired so many times is
+        MsgDisp("Kazama","Listen up, okay? The fact that it has been
+renovated and repaired so many times is
 itself a history.");
         MsgDateResultDisp();
         break ;
@@ -48,8 +47,8 @@ found at that time, too.");
         ChMotion(1,3);
         VoicePlay("B040122202_01_030");
         MsgDisp("Kazama","It wasn't anything like that.
-Just like graffiti from people of the 
-past or carpentry tools left behind.");
+Just like graffiti from people of the past
+or carpentry tools left behind.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,1);
@@ -104,8 +103,8 @@ Let's go.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);
         SEWait();
-        MsgDisp("主人公","(With this, we kinda look like 
-a married couple maybe?)");
+        MsgDisp("主人公","(With this, we kinda look like a married
+couple maybe?)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);
@@ -135,7 +134,7 @@ It's a fun thing to imagine.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040122202_01_100");
     MsgDisp("Kazama","I really won't forgive them.
-\"We were here\", \"We're here\"! 
+\"We were here\", \"We're here\"!
 just who are they reporting to?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

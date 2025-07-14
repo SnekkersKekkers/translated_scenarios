@@ -1,5 +1,6 @@
 VoicePlay("J030300002_03_000");
-MsgDisp("Honda","Of course...... not, I really can't!");
+MsgDisp("Honda","Of course......
+not, I really can't!");
 MsgDisp("主人公","Ehh?");
 VoicePlay("J030300002_03_010");
 MsgDisp("Honda","I have work on Wednesdays and Fridays.

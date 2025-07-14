@@ -3,8 +3,9 @@ BGMPlay("BGM_C03_HONDA_C",0.01);
 BGOpen("ad330",0);
 ScrFadeIn(0);
 VoicePlay("Y300300300_03_000");
-MsgDisp("Honda","\"Today was a huge failure... Haa, she
-mus have been really surprised too\"");
+MsgDisp("Honda","\"Today was a huge failure...
+Haa, she mus have been really
+surprised too\"");
 MsgClear();
 MsgDisp("","Whilst I was working at my part time
 job, A chemical change occurred
@@ -12,12 +13,12 @@ within me. It happens from time to
 time when I'm with her, A reaction in
 the deepest parts of my chest.");
 MsgDisp("","It's happened before too.
-before I let \"I like you\"
-slip out of my mouth.");
+before I let \"I like you\" slip out of
+my mouth.");
 MsgClear();
 VoicePlay("Y300300300_03_010");
-MsgDisp("Honda","\"Aahー,
-But today I said \"love\" didn't I...
+MsgDisp("Honda","\"Aahー, But today I said \"love\" didn't
+I...
 Seriously, I'm losing it\"");
 MsgClear();
 MsgClose();
@@ -29,10 +30,10 @@ MsgDisp("Manager","\"Honda-kun, you're a great help, but
 dating is prohibited during work.\"\"");
 MsgDisp("","I got a thorough scolding from the
 manager in the office.");
-MsgDisp("","She laughed, but during work,
-I clasped her hand didn't I...? ");
-MsgDisp("","Haa, next shift I have to 
-apologize properly.
+MsgDisp("","She laughed, but during work, I
+clasped her hand didn't I...?");
+MsgDisp("","Haa, next shift I have to apologize
+properly.
 Both to her and the manager.");
 MsgClear();
 MsgClose();
@@ -48,18 +49,18 @@ reaction... a thermal reaction?");
 MsgDisp("","An idol my sister likes has a song
 called 'Love is a Chemical Reaction'.");
 MsgClear();
-MsgDisp("","I didn't know such a chemical 
+MsgDisp("","I didn't know such a chemical
 reaction would occur within me...
 Occur within me...");
 VoicePlay("Y300300300_03_020");
 MsgDisp("Honda","\"To think it would be that
-interesting! As I thought, she's the
-best!\"");
+interesting!
+As I thought, she's the best!\"");
 VoicePlay("Y300300300_44_000");
 MsgDisp("Honda's Sister","\"Hey, bro, shut up!\"");
 MsgClear();
-MsgDisp("","Haa...
-I'm only getting scolded today...");
+MsgDisp("","Haa... I'm only getting scolded
+today...");
 BGMStop();
 MsgClear();
 MsgClose();

@@ -37,8 +37,8 @@ something.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040506201_05_030");
-    MsgDisp("Hiiragi","Light streaming incessantly
-down a blue world.
+    MsgDisp("Hiiragi","Light streaming incessantly down a blue
+world.
 Just like on a stage.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

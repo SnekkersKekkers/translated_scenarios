@@ -5,8 +5,8 @@ ChMotion(3,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040306302_03_000");
-MsgDisp("Honda","I know it's dangerous, 
-but I want to walk on the water's edge～");
+MsgDisp("Honda","I know it's dangerous, but I want to walk
+on the water's edge～");
 MsgSel("｛本多＊＊｝, do your best!","Let's see who can attack!","Hey, if you get wet, you'll catch a cold▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,10 +26,9 @@ switch (MsgSelRsltGet()){
     ChSet(3,3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306302_03_020");
-    MsgDisp("Honda","As I thought, you're the best!
-You're the only girl who I could do 
-this kind of thing with!
-...It's cold!");
+    MsgDisp("Honda","As I thought, you're the best! You're the
+only girl who I could do this kind of
+thing with! ...It's cold!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -85,9 +84,8 @@ It's dangerous, so come here.");
         ChOpen(3,255,2,0,4,#1,#1,0,0,0,30);
         SEWait();
         VoicePlay("B040306302_03_060");
-        MsgDisp("Honda","Huh? It's nothing...
-I just got a shock hearing your 
-voice just now. Am I weird?");
+        MsgDisp("Honda","Huh? It's nothing... I just got a shock
+hearing your voice just now. Am I weird?");
         MsgDisp("主人公","I got it, let's go already.
 If you get wet, you'll catch a cold▼");
         ChEye(3,3);

@@ -18,8 +18,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("T020200020_02_010");
-MsgDisp("Sassa","You really feel that way, huh? I didn't
-force or drag you into it?");
+MsgDisp("Sassa","You really feel that way, huh?
+I didn't force or drag you into it?");
 MsgDisp("主人公","Yes.
 So don't try to give up on your own.");
 ChEye(2,4);
@@ -31,21 +31,21 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020200020_02_030");
-MsgDisp("Sassa","Maybe it was already decided from 
-the first day I ran alongside you......");
+MsgDisp("Sassa","Maybe it was already decided from the
+first day I ran alongside you......");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200020_02_040");
 MsgDisp("Sassa","Let's keep running like this.
-The two of us together. ");
+The two of us together.");
 MsgDisp("主人公","Yes......!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020200020_02_050");
-MsgDisp("Sassa","Then, stand up straight
-and lift your chin a little.");
+MsgDisp("Sassa","Then, stand up straight and lift your chin
+a little.");
 MsgDisp("主人公","Hehe,
 Advice from when we ran together?");
 BGMStop(2.8);
@@ -56,8 +56,8 @@ Wait(120,0);
 StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020200020_02_060");
-MsgDisp("Sassa","Yes,
-your gaze is... on me.");
+MsgDisp("Sassa","Yes, your gaze is...
+on me.");
 VoicePlay("T020200020_02_070");
 MsgDisp("Sassa","Now all I can see is you.");
 StlEffect(1,1,60);

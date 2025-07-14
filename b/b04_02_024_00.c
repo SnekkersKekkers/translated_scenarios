@@ -8,8 +8,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 SEStop("EV_SE_517",2);
 VoicePlay("B040202400_02_000");
-MsgDisp("Sassa","Eh.
-It looks completely different from how
+MsgDisp("Sassa","Eh. It looks completely different from how
 it sounds. Cute.");
 MsgSel("It's soothing","I wonder how it works","Just like you.");
 switch (MsgSelRsltGet()){
@@ -29,8 +28,8 @@ Is it making you sleepy?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040202400_02_020");
-    MsgDisp("Sassa","It's important to ask those
-questions. I want to know too.");
+    MsgDisp("Sassa","It's important to ask those questions.
+I want to know too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -5,8 +5,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A04100_02_000");
-MsgDisp("Sassa","Ryota was asked to help out
-Mikage-sensei today, right?");
+MsgDisp("Sassa","Ryota was asked to help out Mikage-sensei
+today, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -38,9 +38,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("D140A04100_06_030");
-MsgDisp("Himuro","For example, I guess there was that
-dream where Ryota-senpai was in a flower
-garden with you?");
+MsgDisp("Himuro","For example, I guess there was that dream
+where Ryota-senpai was in a flower garden
+with you?");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -67,8 +67,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("D140A04100_06_050");
-MsgDisp("Himuro","Nozomu-senpai, did you also have a
-\"weird thing\" you wanted kept secret?");
+MsgDisp("Himuro","Nozomu-senpai, did you also have a \"weird
+thing\" you wanted kept secret?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -90,16 +90,15 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A04100_02_060");
 MsgDisp("Sassa","Scary......");
-MsgDisp("主人公","Hehe!
-｛風真＊＊｝ and ｛颯砂＊＊｝
-are no match for ｛氷室＊＊｝, huh?");
+MsgDisp("主人公","Hehe! ｛風真＊＊｝ and ｛颯砂＊＊｝ are no
+match for ｛氷室＊＊｝, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A04100_02_070");
-MsgDisp("Sassa","Inori is a strategist.
-Ah, I got it. I need to learn about
-all of Inori's \"weird things\".");
+MsgDisp("Sassa","Inori is a strategist. Ah, I got it. I
+need to learn about all of Inori's \"weird
+things\".");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -130,9 +129,8 @@ ChMotion(2,4,1);
 VoicePlay("D140A04100_02_090");
 MsgDisp("Sassa","Information is key when it comes to
 keeping Inori in check.");
-MsgDisp("主人公","(Uhm......
-｛氷室＊＊｝ is staring at me. I wonder
-what they're talking about......?)");
+MsgDisp("主人公","(Uhm...... ｛氷室＊＊｝ is staring at me. I
+wonder what they're talking about......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

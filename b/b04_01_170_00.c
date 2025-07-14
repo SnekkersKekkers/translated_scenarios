@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040117000_01_010");
-    MsgDisp("Kazama","Sorry.
-I don't care about what's trending, 
+    MsgDisp("Kazama","Sorry. I don't care about what's trending,
 so I don't know most of these songs.");
     MsgDateResultDisp();
     break ;
@@ -29,8 +28,7 @@ so I don't know most of these songs.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040117000_01_020");
-    MsgDisp("Kazama","Understood.
-It'll be fine as long as I 
+    MsgDisp("Kazama","Understood. It'll be fine as long as I
 copy you, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

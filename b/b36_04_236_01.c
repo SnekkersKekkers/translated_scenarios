@@ -9,8 +9,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","It's a good thing we made it in
-time for the night parade, isn't it?");
+MsgDisp("主人公","It's a good thing we made it in time for
+the night parade, isn't it?");
 VoicePlay("B360423601_04_000");
 MsgDisp("Nanatsumori","Yeah, we made it just 
 in the nick of time.");
@@ -24,10 +24,10 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360423601_04_020");
 MsgDisp("Nanatsumori","I feel bad for those guys but...
-I wanted to come here no matter 
-what today.");
-MsgDisp("主人公","It would have been good if we
-could've come with everyone though?");
+I wanted to come here no matter what
+today.");
+MsgDisp("主人公","It would have been good if we could've
+come with everyone though?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -37,15 +37,15 @@ I wanted to come with you.");
 MsgDisp("主人公","I-I see.");
 ChMotion(4,1,1);
 VoicePlay("B360423601_04_040");
-MsgDisp("Nanatsumori","It's not that I don't want
-them there or anything.");
+MsgDisp("Nanatsumori","It's not that I don't want them there or
+anything.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360423601_04_050");
-MsgDisp("Nanatsumori","It's just that I wanted to make
-some beautiful memories just between you
-and me during this summer vacation.");
+MsgDisp("Nanatsumori","It's just that I wanted to make some
+beautiful memories just between you and me
+during this summer vacation.");
 MsgDisp("主人公","I see...");
 ChEye(4,0);
 ChMotion(4,1,1);

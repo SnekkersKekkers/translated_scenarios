@@ -52,15 +52,15 @@ Are there any other adaptations?");
         ChMotion(7,2);
         VoicePlay("B040703302_07_040");
         MsgDisp("Mikage","Light adaptation is the opposite right?
-And there's... altitude adaptation,
-right?");
+And there's...
+altitude adaptation, right?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040703302_07_050");
         MsgDisp("Mikage","That would be easier, right?");
-        MsgDisp("主人公","Then, next time let's go somewhere
-high up and count to 10 together?");
+        MsgDisp("主人公","Then, next time let's go somewhere high up
+and count to 10 together?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,3);
@@ -93,8 +93,8 @@ It's scary to get accustomed to things.");
     ChMotion(7,0);
     VoicePlay("B040703302_07_090");
     MsgDisp("Mikage","There are a lot of high quality fish.
-Idiot fish, blackthroat sea perch, Aaah,
-I want to eat it.");
+Idiot fish, blackthroat sea perch, Aaah, I
+want to eat it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

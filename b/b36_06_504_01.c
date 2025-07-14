@@ -12,10 +12,11 @@ ChMotion(6,2,1);
 ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360650401_06_000");
-MsgDisp("Himuro","It was full of couples. It was a good idea
-for us to come together.");
-MsgDisp("主人公","I think it would've been fun if
-we all went together, don't you?");
+MsgDisp("Himuro","It was full of couples.
+It was a good idea for us to come
+together.");
+MsgDisp("主人公","I think it would've been fun if we all
+went together, don't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -34,8 +35,8 @@ ChMotion(6,0);
 VoicePlay("B360650401_06_030");
 MsgDisp("Himuro","I don't want to worry about 
 other people.");
-MsgDisp("主人公","Are you uncomfortable about being
-around lots of people?");
+MsgDisp("主人公","Are you uncomfortable about being around
+lots of people?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

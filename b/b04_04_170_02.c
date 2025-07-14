@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040417002_04_010");
     MsgDisp("Nanatsumori","Now you realize?
-Even though we've come here so
-many times together.");
+Even though we've come here so many times
+together.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -78,8 +78,8 @@ My heart is beating super fast...");
         ChMotion(4,0,1);
         VoicePlay("B040417002_04_080");
         MsgDisp("Nanatsumori","Mine too.");
-        MsgDisp("主人公","(As I thought, 
-｛七ツ森＊｝ really is cool...)");
+        MsgDisp("主人公","(As I thought, ｛七ツ森＊｝ really is
+cool...)");
         ChEye(4,0);
         ChMouth(4,0);
         ChEyeOpenLevel(4,10);
@@ -118,19 +118,18 @@ You mean to say that I'm cute?");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040417002_04_130");
-        MsgDisp("Nanatsumori","The excitement of the closed room has
-come to an end. It's over.");
+        MsgDisp("Nanatsumori","The excitement of the closed room has come
+to an end.
+It's over.");
         MsgDisp("主人公","Y-Yeah.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_140");
-        MsgDisp("Nanatsumori","Crap.
-I don' feel like singing anymore.
+        MsgDisp("Nanatsumori","Crap. I don' feel like singing anymore.
 Right?");
-        MsgDisp("主人公","(Definitely.
-That might've been a bit 
-too stimulating...)");
+        MsgDisp("主人公","(Definitely. That might've been a bit too
+stimulating...)");
         break ;
         default :
         DbgAssert(1);

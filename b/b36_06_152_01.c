@@ -19,18 +19,18 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360615201_06_010");
-MsgDisp("Himuro","I feel like it's easier to hit
-the face of a troublemaker");
+MsgDisp("Himuro","I feel like it's easier to hit the face of
+a troublemaker");
 MsgDisp("主人公","Wh......what∋");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360615201_06_020");
-MsgDisp("Himuro","I don't have any personal grudges,
-but it's different when you're involved.");
-MsgDisp("主人公","I think we should try to
-get along with everyone......");
+MsgDisp("Himuro","I don't have any personal grudges, but
+it's different when you're involved.");
+MsgDisp("主人公","I think we should try to get along with
+everyone......");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -41,8 +41,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B360615201_06_040");
-MsgDisp("Himuro","Being the only one in a lower year,
-I'm at a slight disadvantage.
+MsgDisp("Himuro","Being the only one in a lower year, I'm at
+a slight disadvantage.
 It makes me nervous.");
 MsgDisp("主人公","Is it really a disadvantage?");
 ChEye(6,0);
@@ -63,8 +63,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("B360615201_06_070");
-MsgDisp("Himuro","Though I might have to print
-out everyone's photos.");
+MsgDisp("Himuro","Though I might have to print out
+everyone's photos.");
 MsgDisp("主人公","That's not okay!");
 BGMStop();
 MsgClose();

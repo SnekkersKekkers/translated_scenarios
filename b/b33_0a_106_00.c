@@ -26,15 +26,14 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10600_01_000");
-MsgDisp("Kazama","I was forcefully dragged
-into that world...");
+MsgDisp("Kazama","I was forcefully dragged into that
+world...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A10600_02_000");
-MsgDisp("Sassa","Yeah...
-Why did they suddenly start
+MsgDisp("Sassa","Yeah... Why did they suddenly start
 singing and dancing?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -48,30 +47,29 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10600_01_010");
-MsgDisp("Kazama","I'm interested in it too, but,
-It looks like it huh, Inori?");
+MsgDisp("Kazama","I'm interested in it too, but, It looks
+like it huh, Inori?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A10600_02_010");
-MsgDisp("Sassa","Hahaha!
-Now that you mention it, Inori was so 
-drawn in, his body started moving to it.");
+MsgDisp("Sassa","Hahaha! Now that you mention it, Inori was
+so drawn in, his body started moving to
+it.");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("B330A10600_06_010");
 MsgDisp("Himuro","Eh∋
 That can't be true.");
-MsgDisp("主人公","Hehe.
-｛氷室＊＊｝, aren't you glad?");
+MsgDisp("主人公","Hehe. ｛氷室＊＊｝, aren't you glad?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330A10600_01_020");
-MsgDisp("Kazama","Yeah, good thing we decided
-on this place. I never thought
-Indian movies would suit Inori so much.");
+MsgDisp("Kazama","Yeah, good thing we decided on this place.
+I never thought Indian movies would suit
+Inori so much.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -87,8 +85,8 @@ MsgClose();
 ChClose(1,0,0);
 ChClose(6,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Thanks for waiting.
-...Huh? Where are those two?");
+MsgDisp("主人公","Thanks for waiting. ...Huh? Where are
+those two?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -117,9 +115,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10600_01_040");
-MsgDisp("Kazama","You know the panels over
-there where you stick your 
-head out and take a picture?
+MsgDisp("Kazama","You know the panels over there where you
+stick your head out and take a picture?
 Inori insisted on it.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -132,8 +129,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10600_01_050");
-MsgDisp("Kazama","Normally, he's the one who hates 
-that sort of thing the most...");
+MsgDisp("Kazama","Normally, he's the one who hates that sort
+of thing the most...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -141,10 +138,9 @@ ChEyeOpenLevel(6,0);
 ChCheek(6,5);
 VoicePlay("B330A10600_06_030");
 MsgDisp("Himuro","...I don't even understand it myself.
-Maybe the impact of the Indian movie 
-was so strong, I went crazy...");
-MsgDisp("主人公","(Ehh∋
-I wonder if ｛氷室＊＊｝ is okay...?)");
+Maybe the impact of the Indian movie was
+so strong, I went crazy...");
+MsgDisp("主人公","(Ehh∋ I wonder if ｛氷室＊＊｝ is okay...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

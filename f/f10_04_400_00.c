@@ -1,8 +1,8 @@
 BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah...
-It's ｛七ツ森＊｝ and ｛本多＊＊｝.");
+MsgDisp("主人公","Ah... It's ｛七ツ森＊｝ and
+｛本多＊＊｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -10,8 +10,7 @@ ChOpen(4,254,0,0,0,#1,#1,0,1);
 ChOpen(3,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100440000_03_000");
 MsgDisp("Honda","Yeah, yeah.
-I think #4 is a bingo
-for Mi-kun.");
+I think #4 is a bingo for Mi-kun.");
 VoicePlay("F100440000_04_000");
 MsgDisp("Nanatsumori","The makeup artist said the same thing.
 Nice call, Dahon.");
@@ -31,9 +30,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100440000_03_020");
 MsgDisp("Honda","Lip balm colors?");
-MsgDisp("主人公","Ah, that's the Habacha feature
-for mens cosmetics with
-\"Nana\".... ehhh∋");
+MsgDisp("主人公","Ah, that's the Habacha feature for mens
+cosmetics with \"Nana\".... ehhh∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -54,23 +52,22 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("F100440000_04_030");
-MsgDisp("Nanatsumori","Dahon said he knew it as soon 
-as he saw it in the magazine.");
+MsgDisp("Nanatsumori","Dahon said he knew it as soon as he saw it
+in the magazine.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100440000_03_050");
-MsgDisp("Honda","Yeah yeah, but more importantly,
-what number do you like?");
+MsgDisp("Honda","Yeah yeah, but more importantly, what
+number do you like?");
 MsgDisp("主人公","Eh, me?");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100440000_04_040");
 MsgDisp("Nanatsumori","＃１！");
-MsgDisp("主人公","(Umm,
-｛本多＊＊｝ knows about ｛七ツ森＊｝'s 
-true identity...?)");
+MsgDisp("主人公","(Umm, ｛本多＊＊｝ knows about
+｛七ツ森＊｝'s true identity...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

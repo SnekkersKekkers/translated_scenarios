@@ -9,8 +9,7 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("Q080700001_07_000");
-    MsgDisp("Mikage","
-This is the end of today's lessons.
+    MsgDisp("Mikage","This is the end of today's lessons.
 Did you enjoy it?");
     MsgDisp("主人公","Yes, thank you very much.
 May I come next time too?");
@@ -18,9 +17,9 @@ May I come next time too?");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("Q080700001_07_010");
-    MsgDisp("Mikage","Oh, sure. Happy to hear you like the
-Extracurricular lessons, Nagasaki 
-edition.");
+    MsgDisp("Mikage","Oh, sure.
+Happy to hear you like the Extracurricular
+lessons, Nagasaki edition.");
     MsgDisp("主人公","Hehe, of course!");
     break ;
     case 3:
@@ -36,9 +35,9 @@ Thank you for the lessons!");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("Q080700001_07_030");
-    MsgDisp("Mikage","Oh, if you liked it, so much
-Maybe we should hold it again the day 
-after tomorrow?");
+    MsgDisp("Mikage","Oh, if you liked it, so much Maybe we
+should hold it again the day after
+tomorrow?");
     MsgDisp("主人公","Yay!　If possible!");
     break ;
     case 4:
@@ -47,8 +46,8 @@ after tomorrow?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("Q080700001_07_040");
-    MsgDisp("Mikage","Extracurricular lesson, Nagasaki ver,
-This is the end of the first part.
+    MsgDisp("Mikage","Extracurricular lesson, Nagasaki ver, This
+is the end of the first part.
 Thank you for listening.");
     MsgDisp("主人公","Eh, first part?");
     ChEye(7,0);
@@ -63,8 +62,8 @@ come along.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("Q080700001_07_060");
-    MsgDisp("Mikage","Alright, it has been decided with at 
-least one participant.
+    MsgDisp("Mikage","Alright, it has been decided with at least
+one participant.
 See you here the day after tomorrow.");
     MsgDisp("主人公","Yes,
 Thank you very much!");

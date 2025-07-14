@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040311102_03_010");
-    MsgDisp("Honda","Thanks for worrying about me. 
+    MsgDisp("Honda","Thanks for worrying about me.
 But I'm fine - I've just bruised my butt!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
@@ -48,16 +48,16 @@ not letting that happen.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040311102_03_040");
-        MsgDisp("Honda","But your hands will get cold. And my 
-hands are unexpectedly large. 
+        MsgDisp("Honda","But your hands will get cold.
+And my hands are unexpectedly large.
 They probably won't fit well.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);
         ChCheek(3,1);
         VoicePlay("B040311102_03_050");
-        MsgDisp("Honda","I mean... your hands are pretty small, 
-huh...");
+        MsgDisp("Honda","I mean...
+your hands are pretty small, huh...");
         MsgDisp("主人公","Do you think so?");
         ChEye(3,4);
         ChMouth(3,4);
@@ -65,7 +65,8 @@ huh...");
         ChCheek(3,3);
         VoicePlay("B040311102_03_060");
         MsgDisp("Honda","...Hm? My heart's thumping a little...");
-        MsgDisp("主人公","Huh, are you okay? Shall we take a break?");
+        MsgDisp("主人公","Huh, are you okay?
+Shall we take a break?");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4,1);
@@ -94,7 +95,8 @@ The mysteries of the human body.");
         ChMotion(3,3,1);
         ChCheek(3,10);
         VoicePlay("B040311102_03_100");
-        MsgDisp("Honda","Ding-ding-ding! It's probably love!");
+        MsgDisp("Honda","Ding-ding-ding!
+It's probably love!");
         SEPlay("EV_SE_GAYA_017",1,0.5);
         SEPlay("EV_SE_GAYA_007",1,0.25);
         SEWait();

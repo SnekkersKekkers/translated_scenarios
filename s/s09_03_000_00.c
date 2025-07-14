@@ -79,14 +79,14 @@ right?");
     ChMotion(3,1,1);
     VoicePlay("S090300000_03_060");
     MsgDisp("Honda","I'll take you up on that offer!");
-    MsgDisp("主人公","Eh?
-I didn't mean to invite you though......");
+    MsgDisp("主人公","Eh? I didn't mean to invite you
+though......");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("S090300000_03_070");
-    MsgDisp("Honda","Really? Then let me ask you.
-Want to try our luck?");
+    MsgDisp("Honda","Really? Then let me ask you. Want to try
+our luck?");
     MsgSel("Yep, let's draw!","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -111,8 +111,9 @@ it's Good Luck.");
         ChMouth(3,4);
         ChMotion(3,0,1);
         VoicePlay("S090300000_03_100");
-        MsgDisp("Honda","Eh, really? If you don't feel like it,
-don't do it then.");
+        MsgDisp("Honda","Eh, really?
+If you don't feel like it, don't do it
+then.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

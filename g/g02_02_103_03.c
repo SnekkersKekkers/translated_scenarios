@@ -29,14 +29,14 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G020210303_02_040");
 MsgDisp("Sassa","It doesn't matter if you're a kid or an
-adult. I worry because it's you.");
+adult.
+I worry because it's you.");
 ChEye(2,4);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020210303_02_050");
-MsgDisp("Sassa","After all, 
-you're pretty and cute, so of course, 
-you'll attract attention～");
+MsgDisp("Sassa","After all, you're pretty and cute, so of
+course, you'll attract attention～");
 MsgDisp("主人公","Eh? That's not true......");
 ChEye(2,0);
 ChMouth(2,0);
@@ -48,13 +48,13 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020210303_02_070");
-MsgDisp("Sassa","Your charm is undeniable,
-and it's a shame to hide it.");
+MsgDisp("Sassa","Your charm is undeniable, and it's a shame
+to hide it.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("G020210303_02_080");
-MsgDisp("Sassa","Why not just show it off more? 
+MsgDisp("Sassa","Why not just show it off more?
 That might scare off the weird ones.");
 MsgDisp("主人公","Show it off?");
 ChEye(2,0);
@@ -62,7 +62,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210303_02_090");
 MsgDisp("Sassa","Yeah, just go all out.
-I want to see it too. Go ahead.");
+I want to see it too.
+Go ahead.");
 MsgDisp("主人公","(Go ahead, he says.
 ｛颯砂＊＊｝ sure is acting weird......
 Maybe it's because of this place?)");

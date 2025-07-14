@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040509001_05_020");
     MsgDisp("Hiiragi","I see, I have learned something new.
-A small ecosystem has been created
-within this establishment.");
+A small ecosystem has been created within
+this establishment.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -15,8 +15,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120200_01_020");
-MsgDisp("Kazama","Wait, are female fireflies like you? Not
-that I would know.");
+MsgDisp("Kazama","Wait, are female fireflies like you?
+Not that I would know.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -24,7 +24,7 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120200_01_030");
 MsgDisp("Kazama","Anyway, we're taking this seriously.");
-MsgDisp("主人公","(Has ｛風真＊＊｝ turned into a firefly in 
+MsgDisp("主人公","(Has ｛風真＊＊｝ turned into a firefly in
 his head?)");
 ChEye(1,4);
 ChMouth(1,2);
@@ -73,8 +73,8 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
 VoicePlay("G020120200_01_100");
-MsgDisp("Kazama","So there's no way even he can catch up. I
-won't let him catch up to the time and
+MsgDisp("Kazama","So there's no way even he can catch up.
+I won't let him catch up to the time and
 feelings I've built up with you.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -84,7 +84,7 @@ ChMouth(1,2);
 VoicePlay("G020120200_01_110");
 MsgDisp("Kazama","Listen, I'm getting to the goal first.");
 MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝ is talking
-about ｛颯砂＊＊｝......)");
+about ｛颯砂＊＊｝...... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

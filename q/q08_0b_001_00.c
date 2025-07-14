@@ -42,8 +42,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q080B00100_03_000");
 MsgDisp("Honda","Me too, me too!
-I wanna see everyone's smiling pictures,
-I want to see them.");
+I wanna see everyone's smiling pictures, I
+want to see them.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -56,8 +56,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q080B00100_03_010");
-MsgDisp("Honda","Yay!
-We're all going together for the next
+MsgDisp("Honda","Yay! We're all going together for the next
 free period too, right?");
 ChMotion(4,0,1);
 VoicePlay("Q080B00100_04_030");
@@ -92,7 +91,7 @@ ChMotion(1,0,1);
 VoicePlay("Q080B00100_01_040");
 MsgDisp("Kazama","What?
 That's not what I meant......");
-MsgDisp("主人公","Well, I'll see you at this place the 
+MsgDisp("主人公","Well, I'll see you at this place the
 morning after tomorrow.");
 ChEye(1,2);
 ChMouth(1,1);
@@ -100,9 +99,8 @@ ChMotion(1,3);
 VoicePlay("Q080B00100_01_050");
 MsgDisp("Kazama","Wait a minute.
 What's a leader supposed to do?");
-MsgDisp("主人公","(Hehe!
-I'm can't wait for the free day after 
-tomorrow!)");
+MsgDisp("主人公","(Hehe! I'm can't wait for the free day
+after tomorrow!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

@@ -14,8 +14,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,3);
     VoicePlay("S060200002_02_010");
     MsgDisp("Sassa","Shall we go, then?
-It's probably crowded, so stick close
-to me.");
+It's probably crowded, so stick close to
+me.");
     break ;
     case 4:
     case 5:

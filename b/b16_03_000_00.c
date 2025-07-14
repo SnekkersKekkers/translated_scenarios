@@ -3,8 +3,8 @@ NSSOpen(3,255,4,4,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160300000_03_000");
-MsgDisp("Honda","What's going on with me... My heart's 
-thumping like crazy.");
+MsgDisp("Honda","What's going on with me...
+My heart's thumping like crazy.");
 MsgSel("Mine too...","Are you feeling sick?");
 switch (MsgSelRsltGet()){
     case 0:

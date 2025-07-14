@@ -16,8 +16,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020730101_07_020");
-MsgDisp("Mikage","A person that boys and 
-girls just flock towards.");
+MsgDisp("Mikage","A person that boys and girls just flock
+towards.");
 MsgDisp("主人公","I-Is that so?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -48,8 +48,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 ChEyeOpenLevel(7,8);
 VoicePlay("G020730101_07_070");
-MsgDisp("Mikage","Really, 
-that's what this situation is, isn't it??");
+MsgDisp("Mikage","Really, that's what this situation is,
+isn't it??");
 MsgDisp("主人公","(Being together with ｛御影＊＊｝ and
 everyone is really fun though ......)");
 BGMStop();

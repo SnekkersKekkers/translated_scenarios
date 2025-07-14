@@ -54,9 +54,9 @@ Let's enjoy the view.");
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("B030523001_05_040");
-    MsgDisp("Hiiragi","The scenery is beautiful until you
-look down......This is the charm of riding
-the Ferris Wheel.");
+    MsgDisp("Hiiragi","The scenery is beautiful until you look
+down......This is the charm of riding the
+Ferris Wheel.");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -64,8 +64,8 @@ the Ferris Wheel.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030523001_05_050");
-    MsgDisp("Hiiragi","That feeling of falling for a long
-time, is that something you like?");
+    MsgDisp("Hiiragi","That feeling of falling for a long time,
+is that something you like?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -78,9 +78,8 @@ time, is that something you like?");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030523001_05_060");
-    MsgDisp("Hiiragi","It would be more fun if we could 
-jump together, but that may be
-dangerous.");
+    MsgDisp("Hiiragi","It would be more fun if we could jump
+together, but that may be dangerous.");
     break ;
     case 3:
     MsgDispSksp(1,0);
@@ -101,8 +100,8 @@ I'll let you steer.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030523001_05_080");
-    MsgDisp("Hiiragi","I'll hold on tightly, so turn as
-much as you like.");
+    MsgDisp("Hiiragi","I'll hold on tightly, so turn as much as
+you like.");
     break ;
     case 4:
     MsgDispSksp(1,0);
@@ -124,8 +123,8 @@ much as you like.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030523001_05_100");
-    MsgDisp("Hiiragi","The props here need a bit more
-work, somehow......");
+    MsgDisp("Hiiragi","The props here need a bit more work,
+somehow......");
     break ;
     default :
     DbgAssert(0);

@@ -27,9 +27,8 @@ Shall we go see it again?");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040505100_05_020");
-    MsgDisp("Hiiragi","No.
-But you jolted awake a 
-few times didn't you?");
+    MsgDisp("Hiiragi","No. But you jolted awake a few times
+didn't you?");
     MsgDateResultDisp();
     break ;
     case 2:

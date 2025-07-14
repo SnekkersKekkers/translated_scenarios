@@ -5,9 +5,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A03300_02_000");
-MsgDisp("Sassa","The other day, I was watching 
-this surfing contest on TV, but
-how do they decide the winner?");
+MsgDisp("Sassa","The other day, I was watching this surfing
+contest on TV, but how do they decide the
+winner?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -30,21 +30,21 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A03300_02_020");
-MsgDisp("Sassa","There's no clear result like
-in track-and-field right?");
+MsgDisp("Sassa","There's no clear result like in
+track-and-field right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("D140A03300_01_010");
-MsgDisp("Kazama","I'm guessing it's decided 
-by how artful it is?");
+MsgDisp("Kazama","I'm guessing it's decided by how artful it
+is?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03300_06_010");
 MsgDisp("Himuro","Well, for the most part it's like that.
-You ride the waves within the time 
-limit, and compete for points.");
+You ride the waves within the time limit,
+and compete for points.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -66,11 +66,10 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("D140A03300_06_030");
 MsgDisp("Himuro","Well, you're up against nature.
-You don't know when a good
-wave will come right?");
+You don't know when a good wave will come
+right?");
 MsgDisp("主人公","That's right.
-It feels wonderful to
-be one with nature.");
+It feels wonderful to be one with nature.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
@@ -96,11 +95,10 @@ ChMouth(6,3);
 ChMotion(6,3);
 ChCheek(6,0);
 VoicePlay("D140A03300_06_050");
-MsgDisp("Himuro","Yes, you won't understand
-that feeling unless you've stood 
-on the waves yourself.");
-MsgDisp("主人公","(Hm? The atmosphere is kind of weird. )
-I wonder if I said something weird?)");
+MsgDisp("Himuro","Yes, you won't understand that feeling
+unless you've stood on the waves yourself.");
+MsgDisp("主人公","(Hm? The atmosphere is kind of weird. ) I
+wonder if I said something weird?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

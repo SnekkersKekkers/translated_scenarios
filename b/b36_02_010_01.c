@@ -17,7 +17,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_000");
-MsgDisp("Sassa","Yeah, nice. Let's go.");
+MsgDisp("Sassa","Yeah, nice.
+Let's go.");
 MsgDisp("主人公","Ehhh...?
 I didn't say anything.");
 ChEye(2,0);
@@ -45,8 +46,8 @@ MsgClose();
 ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("B360201001_02_030");
 MsgDisp("Sassa","Heeh, there's a grown-up feel to it.");
-MsgDisp("主人公","Do you like ths kind 
-of fashion, ｛颯砂＊＊｝?");
+MsgDisp("主人公","Do you like ths kind of fashion,
+｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -66,17 +67,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_060");
-MsgDisp("Sassa","No, hey...
-we also look like a couple
-from the back, don't we?
-It's nice.");
+MsgDisp("Sassa","No, hey... we also look like a couple from
+the back, don't we? It's nice.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B360201001_02_070");
-MsgDisp("Sassa","It'd be troubling if we saw 
-Ryota nd Inori in a place 
-like thisー.");
+MsgDisp("Sassa","It'd be troubling if we saw Ryota nd Inori
+in a place like thisー.");
 MsgDisp("主人公","(｛颯砂＊＊｝, you seem to be super
 happy...)");
 BGMStop();

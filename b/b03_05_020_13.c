@@ -19,8 +19,9 @@ Even more so if it's the two of us.");
     MsgDispSksp(1,0);
     ChMouth(5,4);
     VoicePlay("B030502002_05_020");
-    MsgDisp("Hiiragi","Sounds good. There's something 
-that caught your eye, yes?");
+    MsgDisp("Hiiragi","Sounds good.
+There's something that caught your eye,
+yes?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

@@ -13,15 +13,14 @@ about my partner......)");
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_000");
     MsgDisp("Nanatsumori","......Ah.");
-    MsgDisp("主人公","Oh.
-｛七ツ森＊｝!");
+    MsgDisp("主人公","Oh. ｛七ツ森＊｝!");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,2,1);
     VoicePlay("O030401000_04_010");
-    MsgDisp("Nanatsumori","My stomach is about to
-start hurting, so I can't go in the
-three-legged race with you.");
+    MsgDisp("Nanatsumori","My stomach is about to start hurting, so I
+can't go in the three-legged race with
+you.");
     MsgDisp("主人公","Don't run!
 Let's pair up.");
     ChEye(4,2);
@@ -41,22 +40,21 @@ about my partner......)");
     ChOpen(4,30,0,2,1,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_030");
     MsgDisp("Nanatsumori","......Ugh.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
-Do you want to be in
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Do you want to be in
 the three-legged race with me?");
     ChEye(4,2);
     ChMouth(4,4);
     VoicePlay("O030401000_04_040");
-    MsgDisp("Nanatsumori","Don't say that with your eyes
-sparkling like that.
+    MsgDisp("Nanatsumori","Don't say that with your eyes sparkling
+like that.
 Me and exercise are......");
     MsgDisp("主人公","Please!");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("O030401000_04_050");
-    MsgDisp("Nanatsumori","Ugh...... don't look at me
-with those eyes.");
+    MsgDisp("Nanatsumori","Ugh...... don't look at me with those
+eyes.");
     break ;
     case 4:
     case 5:
@@ -69,8 +67,7 @@ about my partner......)");
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_060");
     MsgDisp("Nanatsumori","......Ah.");
-    MsgDisp("主人公","Oh, ｛七ツ森＊｝!
-Do you want to-");
+    MsgDisp("主人公","Oh, ｛七ツ森＊｝! Do you want to-");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,1,1);

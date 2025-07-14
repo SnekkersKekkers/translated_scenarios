@@ -14,28 +14,27 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,0);
     ChMotion(8,4);
     VoicePlay("S120800004_08_000");
-    MsgDisp("Shirahane","It's already our senior year 
-shrine visit huh......");
+    MsgDisp("Shirahane","It's already our senior year shrine visit
+huh......");
     MsgDisp("主人公","Yeah......");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("S120800004_08_010");
-    MsgDisp("Shirahane","Even though we attended different
-schools, it still feels like we've been
-together for such a long time.");
+    MsgDisp("Shirahane","Even though we attended different schools,
+it still feels like we've been together
+for such a long time.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("S120800004_08_020");
-    MsgDisp("Shirahane","Thanks for being nice to me,
-I guess.
+    MsgDisp("Shirahane","Thanks for being nice to me, I guess.
 Alright then, see ya");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(The last New Year's of our
-high school years, huh......
+    MsgDisp("主人公","(The last New Year's of our high school
+years, huh......
 Let's live without any regrets!)");
     break ;
     case 3:
@@ -44,9 +43,9 @@ Let's live without any regrets!)");
     ChMotion(8,4);
     ChEyeOpenLevel(8,10);
     VoicePlay("S120800004_08_030");
-    MsgDisp("Shirahane","It's our last New Year's visit
-while we're in high school, but somehow
-I want more......");
+    MsgDisp("Shirahane","It's our last New Year's visit while we're
+in high school, but somehow I want
+more......");
     MsgDisp("主人公","Eh?");
     ChEye(8,2);
     ChMouth(8,0);
@@ -54,9 +53,8 @@ I want more......");
     VoicePlay("S120800004_08_040");
     MsgDisp("Shirahane","It was just a normal shrine visit.
 Is it weird to feel this way?");
-    MsgDisp("主人公","Hehe!
-Talking to ｛大地＊＊｝
-is really fun, so it's okay!");
+    MsgDisp("主人公","Hehe! Talking to ｛大地＊＊｝ is really
+fun, so it's okay!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);

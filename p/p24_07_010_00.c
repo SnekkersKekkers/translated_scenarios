@@ -9,8 +9,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240701000_07_000");
 MsgDisp("Mikage","How is it?
-Do you think it'll somehow
-come out okay?");
+Do you think it'll somehow come out okay?");
 MsgDisp("主人公","The set also seems to be fine.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -29,7 +28,7 @@ VoicePlay("P240701000_49_000");
 MsgDisp("Narrator","Searching for his missing wife, Bai Niang,
 Xu Xian waited tirelessly by the lake.");
 VoicePlay("P240701000_46_000");
-MsgDisp("White Girl","I am the incarnation of a thousand 
+MsgDisp("White Girl","I am the incarnation of a thousand
 year-old white snake.
 You and I cannot live in the same age.");
 VoicePlay("P240701000_41_020");
@@ -38,16 +37,15 @@ I will take you home.");
 MsgDisp("主人公","...This is a lovely scene, huh?");
 VoicePlay("P240701000_07_020");
 MsgDisp("Mikage","Well yeah.
-I don't think it's right to 
-forcefully bring her back though?");
+I don't think it's right to forcefully
+bring her back though?");
 MsgDisp("主人公","Eh?");
 VoicePlay("P240701000_46_010");
-MsgDisp("White Girl","If I were to return, the pursuers
-would go after both you and yoru family.");
+MsgDisp("White Girl","If I were to return, the pursuers would go
+after both you and yoru family.");
 VoicePlay("P240701000_41_040");
-MsgDisp("Xu Xian","What meaning is there in 
-meekly allowing time to pass 
-when you aren't there?");
+MsgDisp("Xu Xian","What meaning is there in meekly allowing
+time to pass when you aren't there?");
 VoicePlay("P240701000_07_030");
 MsgDisp("Mikage","...That hurts to hear.");
 MsgDisp("主人公","?
@@ -65,16 +63,15 @@ SEPlay("EV_SE_735",0,0.8);
 SEWait();
 MsgDisp("主人公","That was spot on.");
 VoicePlay("P240701000_07_050");
-MsgDisp("Mikage","Yes, the backstage team were also
-greatly successful.");
+MsgDisp("Mikage","Yes, the backstage team were also greatly
+successful.");
 MsgDisp("主人公","Yeah!");
 VoicePlay("P240701000_49_010");
-MsgDisp("Narrator","The lightning arrows sent by the pursuers 
+MsgDisp("Narrator","The lightning arrows sent by the pursuers
 pierced through Bai Niang's back.");
 VoicePlay("P240701000_46_020");
-MsgDisp("White Girl","This is... fine.
-I can finally experience the same 
-time you do.");
+MsgDisp("White Girl","This is... fine. I can finally experience
+the same time you do.");
 VoicePlay("P240701000_41_100");
 MsgDisp("Xu Xian","Don't go...!
 Don't leave me behind.");

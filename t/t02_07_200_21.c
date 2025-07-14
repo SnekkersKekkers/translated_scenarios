@@ -10,18 +10,19 @@ ChMouth(7,4);
 ChMotion(7,0,1);
 VoicePlay("T020720021_07_010");
 MsgDisp("Mikage","Does that mean you'll accept my feelings?");
-MsgDisp("主人公","Yes.
-I don't think I can express it in words.
-So......");
+MsgDisp("主人公","Yes. I don't think I can express it in
+words. So......");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020720021_07_020");
 MsgDisp("Mikage","I see, I think you expressed it perfectly
-just now. Thank you.");
-MsgDisp("主人公","Me too...... Thank you so much for always
-being with me.");
+just now.
+Thank you.");
+MsgDisp("主人公","Me too......
+Thank you so much for always being with
+me.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);

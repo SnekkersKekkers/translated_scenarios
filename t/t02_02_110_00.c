@@ -2,7 +2,7 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("T020211000_02_000");
-MsgDisp("Sassa?","｛主人公｝,Wait.");
+MsgDisp("Sassa?","｛主人公｝, Wait.");
 SEPlay("EV_SE_872",0.5);
 Wait(46,0);
 ChOpen(2,254,7,4,0,#1,#1,0,0);
@@ -49,7 +49,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020211000_02_040");
 MsgDisp("Sassa","I've been running for a long time.
-Ever since I started track and field in 
+Ever since I started track and field in
 elementary school.");
 ChEye(2,4);
 ChMouth(2,0);
@@ -117,9 +117,9 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211000_02_140");
-MsgDisp("Sassa","The time I spent running alongside you, 
-having normal conversations
-that was the only time——");
+MsgDisp("Sassa","The time I spent running alongside you,
+having normal conversations that was the
+only time——");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -143,8 +143,9 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211000_02_180");
-MsgDisp("Sassa","So I gave up on the idea. That if you went
-to someone else, it would be your choice.");
+MsgDisp("Sassa","So I gave up on the idea.
+That if you went to someone else, it would
+be your choice.");
 MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,2);
 ChMouth(2,0);
@@ -152,14 +153,14 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020211000_02_190");
 MsgDisp("Sassa","But it didn't work.
-The times I ran alongside you
-will stay within me——");
+The times I ran alongside you will stay
+within me——");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("T020211000_02_200");
 MsgDisp("Sassa","Right here.
-My feelings for you are so big... 
+My feelings for you are so big...
 they can't ever be buried.");
 MsgDisp("主人公","！");
 MsgClear();
@@ -170,8 +171,7 @@ Wait(60);
 ChOpen(2,254,0,4,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(2);
 VoicePlay("T020211000_02_210");
-MsgDisp("Sassa","｛主人公｝,
-Once more.
+MsgDisp("Sassa","｛主人公｝, Once more.
 I want you to run with me once more.");
 ChEye(2,4);
 ChMouth(2,0);

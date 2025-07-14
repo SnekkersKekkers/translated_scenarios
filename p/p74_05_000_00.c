@@ -2,8 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm glad, 
-seems like it was somewhat of a success!)");
+MsgDisp("主人公","(I'm glad, seems like it was somewhat of a
+success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -12,7 +12,8 @@ VoicePlay("P740500000_05_000");
 MsgDisp("Hiiragi","Thank you for your hard work.
 You were so dignified and wonderful.");
 MsgDisp("主人公","Thank you.
-It's thanks to ｛柊＊＊＊｝ cheering me on!");
+It's thanks to ｛柊＊＊＊｝ cheering me
+on!");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("P740500000_05_010");

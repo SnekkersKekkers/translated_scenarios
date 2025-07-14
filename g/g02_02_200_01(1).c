@@ -44,7 +44,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220001_02_060");
 MsgDisp("Sassa","I'm not used to being left behind.");
-MsgDisp("主人公","(What's up with ｛颯砂＊＊｝......?)");
+MsgDisp("主人公","(What's up with ｛颯砂＊＊｝......? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

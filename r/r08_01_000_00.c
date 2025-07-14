@@ -5,15 +5,16 @@ ChOpen(1,34,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("R080100000_01_000");
 VoiceEVSPlay(1);
-MsgDisp("Kazama","Okay, enjoy the Christmas party
-until the end, ｛主人公｝.");
+MsgDisp("Kazama","Okay, enjoy the Christmas party until the
+end, ｛主人公｝.");
 MsgDisp("主人公","Huh, what about you, ｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("R080100000_01_010");
 MsgDisp("Kazama","I have to go watch the store for my
-Grandpa. The end of year is rough.");
+Grandpa.
+The end of year is rough.");
 MsgDisp("主人公","I see...");
 ChEye(1,0);
 ChMouth(1,2);
@@ -38,14 +39,14 @@ ChMouth(22,2);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,7);
 VoicePlay("R080100000_22_010");
-MsgDisp("Hikaru","Kazama-kun, I thought I told you
-that you can't reserve Mari!");
+MsgDisp("Hikaru","Kazama-kun, I thought I told you that you
+can't reserve Mari!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("R080100000_01_020");
-MsgDisp("Kazama","This is the first time you
-showed up at the right moment.");
+MsgDisp("Kazama","This is the first time you showed up at
+the right moment.");
 ChEye(22,0);
 ChMouth(22,1);
 ChMotion(22,0,1);
@@ -73,8 +74,8 @@ ChOpen(22,34,0,0,2,#1,#1,0,2,0,30);
 ChEye(22,0);
 ChMouth(22,2);
 VoicePlay("R080100000_22_030");
-MsgDisp("Hikaru","Honestly.
-Is he supposed to be Mari's guardian?");
+MsgDisp("Hikaru","Honestly. Is he supposed to be Mari's
+guardian?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -87,8 +88,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("R080100000_21_020");
-MsgDisp("Michiru","I see... Kazama-kun must
-have it rough, huh.");
+MsgDisp("Michiru","I see...
+Kazama-kun must have it rough, huh.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -110,10 +111,10 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc770",2);
 ScrFadeIn(0);
-MsgDisp("主人公","(So much for the last High School
-party. Yeah, I guess I had fun...)");
-MsgDisp("主人公","(｛風真＊＊｝, are you working hard all
-by yourself these days...?)");
+MsgDisp("主人公","(So much for the last High School party.
+Yeah, I guess I had fun...)");
+MsgDisp("主人公","(｛風真＊＊｝, are you working hard all by
+yourself these days...?)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -154,7 +155,8 @@ StlEye(1,1);
 StlMouth(1,1);
 StlCheek(1,7);
 VoicePlay("R080100000_01_080");
-MsgDisp("Kazama","And I... should also thank you.
+MsgDisp("Kazama","And I...
+should also thank you.
 My dream came true because of you.");
 MsgDisp("主人公","Huh?");
 StlEye(1,2);
@@ -205,9 +207,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("R080100000_01_130");
-MsgDisp("Kazama","Don't you think you
-are too dressed up to be an antique
-owner's wife, today?");
+MsgDisp("Kazama","Don't you think you are too dressed up to
+be an antique owner's wife, today?");
 MsgDisp("主人公","Huh... a wife?");
 MsgClose();
 ChClose(1,0,30);
@@ -251,8 +252,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(And just like that, my last
-Christmas as a high schooler was over...)");
+MsgDisp("主人公","(And just like that, my last Christmas as
+a high schooler was over...)");
 MsgClose();
 ChLayout(1);
 ChPrmTblAdd(1,0);

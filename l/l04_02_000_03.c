@@ -18,8 +18,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("L040200003_02_020");
-    MsgDisp("Sassa","And it looks just like something
-I'd like. Thank you.
+    MsgDisp("Sassa","And it looks just like something I'd like.
+Thank you.
 I'll eat it carefully.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -53,8 +53,8 @@ preferences, too.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200003_02_060");
-    MsgDisp("Sassa","It's almost a waste to eat it,
-but I want to eat it right now. Thanks.");
+    MsgDisp("Sassa","It's almost a waste to eat it, but I want
+to eat it right now. Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -79,39 +79,36 @@ You put some effort in.");
     VoicePlay("L040200003_02_080");
     MsgDisp("Sassa","It's more than that.
 It looks good enough to sell.");
-    MsgDisp("主人公","｛颯砂＊＊｝, you're praising me
-too much.");
+    MsgDisp("主人公","｛颯砂＊＊｝, you're praising me too much.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("L040200003_02_090");
     MsgDisp("Sassa","That's not true.
-I'm really happy you thought about
-my tastes, too.");
+I'm really happy you thought about my
+tastes, too.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200003_02_100");
-    MsgDisp("Sassa","But if it's this perfect, I don't
-want to bite it or crack it......
+    MsgDisp("Sassa","But if it's this perfect, I don't want to
+bite it or crack it......
 What should I do?");
-    MsgDisp("主人公","What?
-What should you do...... just eat it?");
+    MsgDisp("主人公","What? What should you do...... just eat
+it?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200003_02_110");
-    MsgDisp("Sassa","I can't.
-That's it, let's eat this together.
-Okay?");
+    MsgDisp("Sassa","I can't. That's it, let's eat this
+together. Okay?");
     MsgDisp("主人公","No, eat it slowly at home.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200003_02_120");
-    MsgDisp("Sassa","Got it.
-I'll stare at it until I get tired, then
-eat it. That's fine, right?");
+    MsgDisp("Sassa","Got it. I'll stare at it until I get
+tired, then eat it. That's fine, right?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

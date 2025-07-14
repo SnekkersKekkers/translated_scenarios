@@ -1,8 +1,8 @@
 BGMStop();
 BGOpen("sc710",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Even though it was my last concert, 
-that was a massive failure...");
+MsgDisp("主人公","Even though it was my last concert, that
+was a massive failure...");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(32,254,0,0,0,#1,#1,0,0);
@@ -10,7 +10,7 @@ VoicePlay("P553200003_32_000");
 MsgDisp("VP Himuro","What's wrong.");
 MsgDisp("主人公","Himuro-sensei.
 It failed by myself.
-I troubled ");
+I troubled");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);

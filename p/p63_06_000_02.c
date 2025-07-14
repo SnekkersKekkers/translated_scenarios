@@ -7,15 +7,14 @@ switch (ChPrmGet(6,6)){
     case 3:
     BGOpen("sc724",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This is my last cultural festival. We
-finally tried to make an organic cafe
+    MsgDisp("主人公","(This is my last cultural festival.
+We finally tried to make an organic cafe
 but...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600002_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Welcome!");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Welcome!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -28,8 +27,8 @@ also did my best to study cooking methods!");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("P630600002_06_020");
-    MsgDisp("Himuro","Because it's the culmination
-of the last three years.");
+    MsgDisp("Himuro","Because it's the culmination of the last
+three years.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);
@@ -48,16 +47,15 @@ of your efforts with my own eyes.");
     case 5:
     BGOpen("sc724",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This is my last cultural festival. We
-finally tried to make an organic cafe
+    MsgDisp("主人公","(This is my last cultural festival.
+We finally tried to make an organic cafe
 but...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(6);
     VoicePlay("P630600002_06_040");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","｛氷室＊＊｝!
-You came?");
+    MsgDisp("主人公","｛氷室＊＊｝! You came?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -67,8 +65,8 @@ You came?");
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("P630600002_06_060");
-    MsgDisp("Himuro","But, well I didn't think it would
-be this full-blown of a cafe.");
+    MsgDisp("Himuro","But, well I didn't think it would be this
+full-blown of a cafe.");
     MsgDisp("主人公","I tried my best!
 The menu is also legit.");
     ChEye(6,0);
@@ -89,11 +87,11 @@ somewhat complicated.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P630600002_06_090");
-    MsgDisp("Himuro","Then, I want the most heartfelt dish 
+    MsgDisp("Himuro","Then, I want the most heartfelt dish
 you've made until now, please.");
     MsgDisp("主人公","Y-Yeah?
 Then please wait a moment!");
-    MsgDisp("主人公","(What's up with ｛氷室＊＊｝?)");
+    MsgDisp("主人公","(What's up with ｛氷室＊＊｝? )");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(6,#1);

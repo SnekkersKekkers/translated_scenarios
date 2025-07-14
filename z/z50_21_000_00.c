@@ -10,16 +10,14 @@ ChMotion(21,3);
 VoicePlay("Z502100000_21_000");
 MsgDisp("Michiru","Mari.
 Are you working hard at improving?");
-MsgDisp("主人公","Hm......
-I'm not sure.
-How can I be more fashionable?");
+MsgDisp("主人公","Hm...... I'm not sure. How can I be more
+fashionable?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("Z502100000_21_010");
-MsgDisp("Michiru","Hehe.
-Leave the fashion to me.
-I'll say it clearly so listen up, okay?");
+MsgDisp("Michiru","Hehe. Leave the fashion to me. I'll say it
+clearly so listen up, okay?");
 MsgDisp("主人公","Yeah, got it!");
 ChEye(21,0);
 ChMouth(21,4);

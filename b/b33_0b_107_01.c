@@ -30,24 +30,22 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10701_03_000");
-MsgDisp("Honda","Ryo-kun's Grandpa's Antique store
-also smells like this.");
-MsgDisp("主人公","Seems like you like it,
-｛本多＊＊｝.");
+MsgDisp("Honda","Ryo-kun's Grandpa's Antique store also
+smells like this.");
+MsgDisp("主人公","Seems like you like it, ｛本多＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10701_01_020");
-MsgDisp("Kazama","Come to think of it, my Grandpa 
-said that Honda visits there a lot.");
+MsgDisp("Kazama","Come to think of it, my Grandpa said that
+Honda visits there a lot.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B10701_03_010");
-MsgDisp("Honda","Yep yep!
-I just happen to be heading in that
-direction, and before I know it,
+MsgDisp("Honda","Yep yep! I just happen to be heading in
+that direction, and before I know it,
 we're having a lively conversation!");
 ChEye(3,0);
 ChMouth(3,0);
@@ -64,8 +62,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10701_01_030");
 MsgDisp("Kazama","Not at all.
-Seems like my Grandpa 
-enjoys it too.");
+Seems like my Grandpa enjoys it too.");
 ChEyeOpenLevel(1,#1);
 ChMotion(4,0,1);
 MsgDisp("主人公","Haha!");
@@ -73,23 +70,23 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10701_03_020");
-MsgDisp("Honda","We start with antiques, then the Kazama 
-family ancestors, And once we start 
-talking about Habataki City's 
-history, we can't stop!");
+MsgDisp("Honda","We start with antiques, then the Kazama
+family ancestors, And once we start
+talking about Habataki City's history, we
+can't stop!");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10701_01_040");
-MsgDisp("Kazama","Thanks to that, he never runs 
-out of people to talk to.");
+MsgDisp("Kazama","Thanks to that, he never runs out of
+people to talk to.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B10701_03_030");
 MsgDisp("Honda","That's right!
-Maybe next time we should bring 
-Ryo-kun's grandpa here?");
+Maybe next time we should bring Ryo-kun's
+grandpa here?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

@@ -31,8 +31,8 @@ This is still in the city, you know.");
         ChMotion(1,0,1);
         VoicePlay("B040105102_01_020");
         MsgDisp("Kazama","I know what you mean.
-It's still daytime in the city,
-but in here it's suddenly dark.");
+It's still daytime in the city, but in
+here it's suddenly dark.");
         MsgDisp("主人公","Yeah, it's like there's nobody around.");
         ChEye(1,4);
         ChEyeOpenLevel(1,0);
@@ -40,9 +40,9 @@ but in here it's suddenly dark.");
         MsgDisp("Kazama","It almost feels like no one can see us.");
         ChEye(1,4);
         VoicePlay("B040105102_01_040");
-        MsgDisp("Kazama","In that way,
-The only thing that matters is the way
-the starlight shines on your face.");
+        MsgDisp("Kazama","In that way, The only thing that matters
+is the way the starlight shines on your
+face.");
         MsgDisp("主人公","On my face?");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
@@ -54,10 +54,9 @@ the starlight shines on your face.");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040105102_01_060");
-        MsgDisp("Kazama","... For that matter, why aren't
-you ever looking at me?");
-        MsgDisp("主人公","Well,
-that's because I'm listening to the
+        MsgDisp("Kazama","... For that matter, why aren't you ever
+looking at me?");
+        MsgDisp("主人公","Well, that's because I'm listening to the
 explanation about the stars...");
         ChEye(1,2);
         ChMouth(1,2);
@@ -65,8 +64,8 @@ explanation about the stars...");
         ChEyeOpenLevel(1,0);
         ChCheek(1,7);
         VoicePlay("B040105102_01_070");
-        MsgDisp("Kazama","You can look at me, lean a little
-against my shoulder, even hold my hand.");
+        MsgDisp("Kazama","You can look at me, lean a little against
+my shoulder, even hold my hand.");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -75,8 +74,8 @@ against my shoulder, even hold my hand.");
         MsgDisp("Kazama","You get it? We can do something a little
 bit different, since the two of us have
 come this far...");
-        MsgDisp("主人公","(｛風真＊＊｝,
-but aren't we still in Habataki City?)");
+        MsgDisp("主人公","(｛風真＊＊｝, but aren't we still in
+Habataki City?)");
         break ;
         default :
         DbgAssert(1);
@@ -89,8 +88,8 @@ but aren't we still in Habataki City?)");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040105102_01_090");
-    MsgDisp("Kazama","Yeah, isn't it romantic to think we
-see the same stars as ancient people?");
+    MsgDisp("Kazama","Yeah, isn't it romantic to think we see
+the same stars as ancient people?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -28,16 +28,16 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211030_02_020");
-MsgDisp("Sassa","Finally, I can start working towards my 
+MsgDisp("Sassa","Finally, I can start working towards my
 dream.");
 MsgDisp("主人公","............");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020211030_02_030");
-MsgDisp("Sassa","I can't run with you,
-but...it's okay. I'm not just a track and 
-field fanatic anymore.");
+MsgDisp("Sassa","I can't run with you, but...it's okay.
+I'm not just a track and field fanatic
+anymore.");
 MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,4);
 ChMouth(2,3);

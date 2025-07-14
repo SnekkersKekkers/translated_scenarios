@@ -29,8 +29,8 @@ They mean the same thung don't they?");
     ChMotion(8,3,1);
     VoicePlay("B040802200_08_020");
     MsgDisp("Shirahane","Sounds nice!
-I want to indulge like that 
-every once in a while.");
+I want to indulge like that every once in
+a while.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,8 +43,8 @@ every once in a while.");
     ChCheek(8,8);
     VoicePlay("B040802200_08_030");
     MsgDisp("Shirahane","They really are～▼
-Hey hey, looks like you can feed them, 
-so do you wanna do it together?");
+Hey hey, looks like you can feed them, so
+do you wanna do it together?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

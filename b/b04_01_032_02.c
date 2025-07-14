@@ -45,8 +45,8 @@ It's got a great atmosphere.");
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040103202_01_030");
-        MsgDisp("Kazama","I don't get hungry when I look
-at all the fish in the aquarium, myself.");
+        MsgDisp("Kazama","I don't get hungry when I look at all the
+fish in the aquarium, myself.");
         MsgDisp("主人公","Jeez.");
         ChEye(1,0);
         ChMouth(1,3);
@@ -108,7 +108,7 @@ Going my way～!");
 an instant. You stand out way too much.
 From here on, you can't stand around
 alone.");
-        MsgDisp("主人公","(That's not realistic, ｛風真＊＊｝...)");
+        MsgDisp("主人公","(That's not realistic, ｛風真＊＊｝... )");
         break ;
         default :
         DbgAssert(1);

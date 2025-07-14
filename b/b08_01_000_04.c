@@ -20,8 +20,8 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B080100004_01_020");
-MsgDisp("Kazama","It's late, so talk in front of 
-your house. I'm going now.");
+MsgDisp("Kazama","It's late, so talk in front of your house.
+I'm going now.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

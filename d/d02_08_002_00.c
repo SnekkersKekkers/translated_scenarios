@@ -14,8 +14,8 @@ ChEye(8,2);
 ChMotion(8,2,1);
 VoicePlay("D020800200_08_010");
 MsgDisp("Shirahane","I'm no good with exams.
-And because I'm not good with them,
-it's hard to be motivated.");
+And because I'm not good with them, it's
+hard to be motivated.");
 MsgDisp("主人公","Hahaha!");
 ChEye(8,2);
 ChMouth(8,1);
@@ -27,9 +27,8 @@ ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("D020800200_08_030");
-MsgDisp("Shirahane","There's a rumor at Hanegaku that
-there's a \"Brain Candy\" that can make 
-you smarter.");
+MsgDisp("Shirahane","There's a rumor at Hanegaku that there's a
+\"Brain Candy\" that can make you smarter.");
 MsgDisp("主人公","Brain Candy?
 That's really interesting!");
 ChEye(8,4);
@@ -39,24 +38,25 @@ VoicePlay("D020800200_08_040");
 MsgDisp("Shirahane","Isn't it?
 But I've never actually seen one.");
 MsgDisp("主人公","Now that you mention it......Haba High
-also has something called the \"Perfect 
+also has something called the \"Perfect
 Score Anpan\".");
-MsgDisp("主人公","It also makes you smarter. I heard
-you can buy it from the cafeteria——");
+MsgDisp("主人公","It also makes you smarter.
+I heard you can buy it from the
+cafeteria——");
 ChEye(8,0);
 ChMouth(8,5);
 ChMotion(8,1,1);
 VoicePlay("D020800200_08_050");
 MsgDisp("Shirahane","∈
 You can get it somehow?");
-MsgDisp("主人公","Hmm. It seems to be rare. But this
-is just a rumor, so......");
+MsgDisp("主人公","Hmm. It seems to be rare. But this is just
+a rumor, so......");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800200_08_060");
-MsgDisp("Shirahane","Maybe I need to sneak into Haba High
-and see if I can find it......");
+MsgDisp("Shirahane","Maybe I need to sneak into Haba High and
+see if I can find it......");
 MsgDisp("主人公","(Ehh∋)");
 BGMStop();
 MsgClose();

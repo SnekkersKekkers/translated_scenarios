@@ -11,5 +11,5 @@ VoicePlay("B020300001_03_010");
 MsgDisp("Honda","Yeah, I like that.
 That kind of thing looks good on you too.
 It's a new discovery!");
-MsgDisp("主人公","(｛本多＊＊｝ seems to like fashion
-like this, too.)");
+MsgDisp("主人公","(｛本多＊＊｝ seems to like fashion like
+this, too.)");

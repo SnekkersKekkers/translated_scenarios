@@ -36,9 +36,9 @@ It's not like your life is over.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P530600000_06_030");
-    MsgDisp("Himuro","Asides from that,
-I think it would be a shame if
-you were too stressed to enjoy it. ");
+    MsgDisp("Himuro","Asides from that, I think it would be a
+shame if you were too stressed to enjoy
+it.");
     MsgDisp("主人公","Ah...");
     ChEye(6,0);
     ChMouth(6,0);
@@ -72,8 +72,7 @@ What should I do, I'm so nervous...)");
     ChOpen(6,254,2,0,0,0,#1,0,0);
     VoicePlay("P530600000_06_060");
     MsgDisp("Himuro","Just as I thought.");
-    MsgDisp("主人公","Eh, ｛氷室＊＊｝?
-What are you doing here?");
+    MsgDisp("主人公","Eh, ｛氷室＊＊｝? What are you doing here?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -93,8 +92,8 @@ own, Why not take it easier?");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P530600000_06_090");
-    MsgDisp("Himuro","If you perform with that face, 
-I'll also feel uneasy.");
+    MsgDisp("Himuro","If you perform with that face, I'll also
+feel uneasy.");
     MsgDisp("主人公","Yeah, that's right huh.
 Thank you.");
     ChEye(6,0);
@@ -111,11 +110,9 @@ Thank you.");
     ChMotion(6,3);
     ChCheek(6,0);
     VoicePlay("P530600000_06_110");
-    MsgDisp("Himuro","Yeah.
-I'll listen from here.
-...Do your best.");
-    MsgDisp("主人公","(｛氷室＊＊｝...
-Alright, good luck!)");
+    MsgDisp("Himuro","Yeah. I'll listen from here. ...Do your
+best.");
+    MsgDisp("主人公","(｛氷室＊＊｝... Alright, good luck!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);

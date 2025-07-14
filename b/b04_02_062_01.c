@@ -14,7 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040206201_02_010");
-    MsgDisp("Sassa","Carved out?　This cave?
+    MsgDisp("Sassa","Carved out?
+This cave?
 ......I can feel the power radiating.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
@@ -27,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040206201_02_020");
     MsgDisp("Sassa","Like you'd expect from Habataki City!
-This city is great at creating new 
-tourist attractions.");
+This city is great at creating new tourist
+attractions.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

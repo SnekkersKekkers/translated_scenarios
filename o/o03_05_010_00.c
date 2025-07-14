@@ -11,8 +11,8 @@ about my partner......)");
     ChOpen(5,30,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("O030501000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝.
-Have you not joined a team as of yet?");
+    MsgDisp("Hiiragi","｛主人公｝. Have you not joined a team
+as of yet?");
     MsgDisp("主人公","Not yet.");
     VoicePlay("O030501000_05_010");
     MsgDisp("Hiiragi","Then, if you'll allow me to join you.");
@@ -47,15 +47,13 @@ about my partner......)");
     ChEyeOpenLevel(5,9);
     VoicePlay("O030501000_05_040");
     MsgDisp("Hiiragi","Haa, did I make it?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-What is it?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. What is it?");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("O030501000_05_050");
-    MsgDisp("Hiiragi","It looks as though you haven't
-found a partner for the
-three-legged race, yet.");
+    MsgDisp("Hiiragi","It looks as though you haven't found a
+partner for the three-legged race, yet.");
     ChEye(5,0);
     VoicePlay("O030501000_05_060");
     MsgDisp("Hiiragi","Could I ask you to pair with me?");

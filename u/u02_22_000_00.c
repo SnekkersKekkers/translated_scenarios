@@ -17,16 +17,15 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("U022200000_22_020");
-MsgDisp("Hikaru","Ahh......
-Playing with Mari is really fun♪");
+MsgDisp("Hikaru","Ahh...... Playing with Mari is really
+fun♪");
 MsgDisp("主人公","Hehe.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("U022200000_22_030");
-MsgDisp("Hikaru","Ah......
-Are you having fun, Mari? Or is only 
-Hikaru enjoying this?");
+MsgDisp("Hikaru","Ah...... Are you having fun, Mari? Or is
+only Hikaru enjoying this?");
 MsgDisp("主人公","What does it look like?");
 ChEye(22,3);
 ChMouth(22,3);
@@ -39,7 +38,6 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("U022200000_22_050");
-MsgDisp("Hikaru","Yay!
-Well then, let's sing together again 
+MsgDisp("Hikaru","Yay! Well then, let's sing together again
 next time♪");
 MsgDisp("主人公","Of course!");

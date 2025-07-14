@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,2);
     ChEyeOpenLevel(7,7);
     VoicePlay("B040723102_07_010");
-    MsgDisp("Mikage","Even if I surrender, this thing
-isn't gonna go easy on me.");
+    MsgDisp("Mikage","Even if I surrender, this thing isn't
+gonna go easy on me.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -28,8 +28,8 @@ isn't gonna go easy on me.");
     ChEyeOpenLevel(7,7);
     VoicePlay("B040723102_07_020");
     MsgDisp("Mikage","Don't get me wrong.
-My philosophy is to go down fighting; 
-no forfeits.");
+My philosophy is to go down fighting; no
+forfeits.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -65,8 +65,8 @@ Hey, what are you saying?");
         VoicePlay("B040723102_07_050");
         MsgDisp("Mikage","Hey, what are you saying.
 Phew, that was dangerous.");
-        MsgDisp("主人公","Umm...
-It's not that dangerous of a ride though.");
+        MsgDisp("主人公","Umm... It's not that dangerous of a ride
+though.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,2);
@@ -80,25 +80,25 @@ It's not that dangerous of a ride though.");
         ChEyeOpenLevel(7,10);
         VoicePlay("B040723102_07_070");
         MsgDisp("Mikage","that's right, what if this thing moved
-super fast, but was in a low place? Maybe
-even underground?");
+super fast, but was in a low place?
+Maybe even underground?");
         MsgDisp("主人公","An underground rollercoaster?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,3);
         VoicePlay("B040723102_07_080");
-        MsgDisp("Mikage","Running freely in all directions
-whilst avoiding plant roots.");
+        MsgDisp("Mikage","Running freely in all directions whilst
+avoiding plant roots.");
         MsgDisp("主人公","Hehe, like a mole.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,2);
         ChEyeOpenLevel(7,7);
         VoicePlay("B040723102_07_090");
-        MsgDisp("Mikage","If we overdo it, the crops won't 
-be able to grow though?");
-        MsgDisp("主人公","(Hehe, looks like ｛御影＊＊｝
-really does not like high places.)");
+        MsgDisp("Mikage","If we overdo it, the crops won't be able
+to grow though?");
+        MsgDisp("主人公","(Hehe, looks like ｛御影＊＊｝ really
+does not like high places.)");
         break ;
         default :
         DbgAssert(1);

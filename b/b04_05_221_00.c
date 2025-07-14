@@ -7,9 +7,9 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040522100_05_000");
-MsgDisp("Hiiragi","Generations of lords from Habataki Castle 
-must have looked out
-at the scenery from here.");
+MsgDisp("Hiiragi","Generations of lords from Habataki Castle
+must have looked out at the scenery from
+here.");
 MsgSel("Do you think they were watching the castle town?","The mountains and oceans haven't changed since long ago","They would be surprised to see it now huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,7 +26,8 @@ that.");
     DateRateSet(2);
     ChEye(5,0);
     VoicePlay("B040522100_05_020");
-    MsgDisp("Hiiragi","That's right. Nature is mighty.");
+    MsgDisp("Hiiragi","That's right.
+Nature is mighty.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,7 +39,7 @@ that.");
     ChMotion(5,4);
     VoicePlay("B040522100_05_030");
     MsgDisp("Hiiragi","I've never thought of that.
-They would be astonished to see the 
+They would be astonished to see the
 buildings in the waterfront area.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

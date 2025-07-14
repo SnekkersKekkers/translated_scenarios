@@ -42,8 +42,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 Wait(30);
-MsgDisp("主人公","(This year looks like it's going
-to be a great year!
+MsgDisp("主人公","(This year looks like it's going to be a
+great year!
 I'm glad.)");
 MsgClose();
 ScrFadeOut(0,0);

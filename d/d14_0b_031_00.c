@@ -27,11 +27,10 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D140B03100_01_010");
-MsgDisp("Kazama","That's why ramen is a dangerous 
-topic with Honda...");
-MsgDisp("主人公","Hehe.
-Wasn't ｛本多＊＊｝'s lecture 
-on ramen interesting?'");
+MsgDisp("Kazama","That's why ramen is a dangerous topic with
+Honda...");
+MsgDisp("主人公","Hehe. Wasn't ｛本多＊＊｝'s lecture on
+ramen interesting?'");
 ChMotion(4,0,1);
 VoicePlay("D140B03100_04_000");
 MsgDisp("Nanatsumori","I understand it was amazing.
@@ -43,9 +42,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D140B03100_03_010");
-MsgDisp("Honda","Why? How?
-Tell me why you dislike 
-it that much.");
+MsgDisp("Honda","Why? How? Tell me why you dislike it that
+much.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -55,8 +53,8 @@ Why do you dislike it so much?");
 ChMotion(4,2,1);
 VoicePlay("D140B03100_04_010");
 MsgDisp("Nanatsumori","It's not really that.
-I don't hate ramen. I ate it
-when I still lived at home.");
+I don't hate ramen.
+I ate it when I still lived at home.");
 MsgDisp("主人公","Then is there another 
 reason for it?");
 ChEye(4,4);
@@ -104,9 +102,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D140B03100_03_030");
-MsgDisp("Honda","Mii-kun, I'll teach you how to 
-slurp ramen well. Next time 
-it's decided, we'll have ramen!");
+MsgDisp("Honda","Mii-kun, I'll teach you how to slurp ramen
+well.
+Next time it's decided, we'll have ramen!");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);

@@ -8,7 +8,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602003_06_010");
-MsgDisp("Himuro","Nothing, I just don't think
-that look is so terrible, either.");
+MsgDisp("Himuro","Nothing, I just don't think that look is
+so terrible, either.");
 MsgDisp("主人公","(Does that mean he likes it?
 This was worth the risk!)");

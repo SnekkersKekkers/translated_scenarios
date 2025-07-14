@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("B040602302_06_000");
 MsgDisp("Himuro","Do you like the sea?");
-MsgSel("I like it!","Not really...","I like｛氷室＊＊｝!");
+MsgSel("I like it!","Not really...","I like ｛氷室＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -38,8 +38,8 @@ should we head back soon?");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602302_06_030");
-        MsgDisp("Himuro","I was trying to talk to 
-you seriously though?");
+        MsgDisp("Himuro","I was trying to talk to you seriously
+though?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -56,8 +56,7 @@ you seriously though?");
         ChMotion(6,0);
         VoicePlay("B040602302_06_050");
         MsgDisp("Himuro","What's with that?
-Did you think I would be 
-happy with that?");
+Did you think I would be happy with that?");
         MsgDisp("主人公","Ah, sorry...");
         ChEye(6,2);
         ChMouth(6,0);
@@ -71,8 +70,8 @@ apologize though?");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040602302_06_070");
-        MsgDisp("Himuro","When someone likes you, it's
-normal to feel happy I guess.");
+        MsgDisp("Himuro","When someone likes you, it's normal to
+feel happy I guess.");
         MsgDisp("主人公","Eh∋");
         ChEye(6,0);
         ChMouth(6,0);
@@ -86,9 +85,9 @@ That's how it is even for you right?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602302_06_090");
-        MsgDisp("Himuro","Still, you shouldn't overuse 
-a joke like that. Someone might
-get the wrong idea.");
+        MsgDisp("Himuro","Still, you shouldn't overuse a joke like
+that.
+Someone might get the wrong idea.");
         MsgDisp("主人公","Yeah, understood.");
         ChEye(6,0);
         ChMouth(6,2);

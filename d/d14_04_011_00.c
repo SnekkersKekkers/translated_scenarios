@@ -8,8 +8,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,0);
     VoicePlay("D140401100_04_000");
     MsgDisp("Nanatsumori","Ah, we got the same thing.
-You were also beckoned over by
-this one.");
+You were also beckoned over by this one.");
     break ;
     case 4:
     case 5:
@@ -25,8 +24,7 @@ I was in the mood for this today.");
     ChMotion(4,1);
     VoicePlay("D140401100_04_020");
     MsgDisp("Nanatsumori","Me too.
-We were both lured in 
-by this one.");
+We were both lured in by this one.");
     break ;
     default :
     DbgAssert(1);

@@ -20,8 +20,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     ScrFadeIn(0);
     VoicePlay("B060300003_03_010");
-    MsgDisp("Honda","It's something you wanted to do,
-right? Then good for you.");
+    MsgDisp("Honda","It's something you wanted to do, right?
+Then good for you.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -32,9 +32,9 @@ right? Then good for you.");
     ChMotion(3,1,1);
     ScrFadeIn(0);
     VoicePlay("B060300003_03_020");
-    MsgDisp("Honda","Sometimes when you have high
-expectations, the gap between fantasy
-and reality is big. Don't worry!");
+    MsgDisp("Honda","Sometimes when you have high expectations,
+the gap between fantasy and reality is
+big. Don't worry!");
     MsgDispSksp(0);
     break ;
     default :

@@ -38,8 +38,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D130C00000_06_010");
-MsgDisp("Himuro","Eh... have you really forgotten, 
-and you don't have anything?");
+MsgDisp("Himuro","Eh... have you really forgotten, and you
+don't have anything?");
 MsgDisp("主人公","Ah, you're talking
 about Valentine's day?");
 ChMotion(5,0);
@@ -58,8 +58,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(5,254,4,2,4,0,#1,0,0,0,30);
 VoicePlay("D130C00000_05_010");
-MsgDisp("Hiiragi","Those two have been like 
-that since this morning.");
+MsgDisp("Hiiragi","Those two have been like that since this
+morning.");
 MsgDisp("主人公","Hehe, that's 
 how they're like.");
 ChEye(5,0);

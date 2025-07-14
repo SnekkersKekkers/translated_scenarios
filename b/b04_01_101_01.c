@@ -44,8 +44,8 @@ today's world.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040110101_01_030");
     MsgDisp("Kazama","Yeah, yeah.
-But if I'm the young master, then who
-do you think you are, ordering me around?");
+But if I'm the young master, then who do
+you think you are, ordering me around?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

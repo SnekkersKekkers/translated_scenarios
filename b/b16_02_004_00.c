@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     NSSCheek(2,10);
     VoicePlay("B160200400_02_010");
     MsgDisp("Sassa","Well I mean...
-you keep brushing against me, 
-it feels soft or something. ");
+you keep brushing against me, it feels
+soft or something.");
     break ;
     case 1:
     NSSEye(2,1);

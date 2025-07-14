@@ -8,12 +8,10 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("D100400000_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-What's the issue?");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝. What's the issue?");
 ChMotion(4,1,1);
 VoicePlay("D100400000_04_010");
-MsgDisp("Nanatsumori","Do you have your Japanese Lit
-textbook?
+MsgDisp("Nanatsumori","Do you have your Japanese Lit textbook?
 I forgot mine......");
 MsgDisp("主人公","I do.
 Here, take it.");
@@ -21,16 +19,13 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D100400000_04_020");
-MsgDisp("Nanatsumori","Thank you.
-I'll give you some sweets later as
-thanks.
-Cya!");
+MsgDisp("Nanatsumori","Thank you. I'll give you some sweets later
+as thanks. Cya!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(4,0,30);
-MsgDisp("主人公","(Hehe!
-｛七ツ森＊｝  borrowed something from me.
-How rare.)");
+MsgDisp("主人公","(Hehe! ｛七ツ森＊｝ borrowed something
+from me. How rare.)");
 MsgClose();
 ScrFadeOut(0,0);

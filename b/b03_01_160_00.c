@@ -6,8 +6,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B030116000_01_000");
-MsgDisp("Kazama","You can hear a ton of noise
-even from outside.");
+MsgDisp("Kazama","You can hear a ton of noise even from
+outside.");
 MsgDispSksp(1,0);
 ChMotion(1,0);
 MsgDisp("主人公","There's a lot of games in there.

@@ -41,8 +41,8 @@ MsgDisp("主人公","！");
 VoicePlay("T020400000_04_360");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","I swear here and now that I'll cherish you
-for the rest of my life. I love you
-｛主人公｝......");
+for the rest of my life.
+I love you ｛主人公｝......");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

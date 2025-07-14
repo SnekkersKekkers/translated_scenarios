@@ -1,5 +1,5 @@
-MsgDisp("主人公","It's been lively around you 
-recently, hasn't it, ｛氷室＊＊｝?");
+MsgDisp("主人公","It's been lively around you recently,
+hasn't it, ｛氷室＊＊｝?");
 ChEye(6,2);
 ChMouth(6,1);
 ChMotion(6,2);
@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_180");
-MsgDisp("Himuro","Both Ryota-senpai and 
-Nozomu-senpai are too loud.");
+MsgDisp("Himuro","Both Ryota-senpai and Nozomu-senpai are
+too loud.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -31,15 +31,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_210");
-MsgDisp("Himuro","One way or another,
-I'm also getting caught up in the pace
-of Ryota-senpai and Nozomu-senpai...");
+MsgDisp("Himuro","One way or another, I'm also getting
+caught up in the pace of Ryota-senpai and
+Nozomu-senpai...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_220");
-MsgDisp("Himuro","I'm also starting to find it 
-hard to say no like I used to...");
+MsgDisp("Himuro","I'm also starting to find it hard to say
+no like I used to...");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);

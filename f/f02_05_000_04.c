@@ -5,8 +5,8 @@ ChMouth(5,0);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝'s birthday is
-coming up, isn't it?");
+MsgDisp("主人公","Oh, ｛柊＊＊＊｝'s birthday is coming up,
+isn't it?");
 ChMouth(5,4);
 VoicePlay("F020500004_05_000");
 MsgDisp("Hiiragi","Yes, it is. Actually, around this time of
@@ -26,15 +26,15 @@ ChMotion(5,0);
 VoicePlay("F020500004_05_020");
 MsgDisp("Hiiragi","Yes, well, I often end up taking gifts
 that are more than I deserve.");
-MsgDisp("主人公","So even if I gave you a gift,
-it'd look worthless in comparison......");
+MsgDisp("主人公","So even if I gave you a gift, it'd look
+worthless in comparison......");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,5);
 VoicePlay("F020500004_05_030");
 MsgDisp("Hiiragi","My apologies, that was insensitive of me.
-If you gave me a gift, I would treasure
-it regardless.");
+If you gave me a gift, I would treasure it
+regardless.");
 ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("F020500004_05_040");

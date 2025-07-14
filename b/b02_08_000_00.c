@@ -12,5 +12,6 @@ ChMouth(8,4);
 VoicePlay("B020800000_08_010");
 MsgDisp("Shirahane","Yeah. ... Aw man, I can't tear my eyes off
 of ya.");
-MsgDisp("主人公","(｛大地＊＊｝ seems to love these clothes.
+MsgDisp("主人公","(｛大地＊＊｝ seems to love these
+clothes.
 I'm glad I wore it!)");

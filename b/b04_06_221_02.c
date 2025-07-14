@@ -28,7 +28,7 @@ see.");
     ChMotion(6,0);
     VoicePlay("B040622102_06_020");
     MsgDisp("Himuro","Hmm, I wasn't aware of that.
-But that could definitely be true. ");
+But that could definitely be true.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -55,16 +55,17 @@ But that could definitely be true. ");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040622102_06_040");
-        MsgDisp("Himuro","Next time, you say. So do you plan 
-on coming here with me again? ");
+        MsgDisp("Himuro","Next time, you say.
+So do you plan on coming here with me
+again?");
         MsgDisp("主人公","Eh, are you not, ｛氷室＊＊｝?");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040622102_06_050");
-        MsgDisp("Himuro","It's nonsense to answer a 
-question with a question.");
+        MsgDisp("Himuro","It's nonsense to answer a question with a
+question.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
@@ -78,16 +79,16 @@ Thank you.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040622102_06_070");
-        MsgDisp("Himuro","...No, maybe I'll invite you
-here myself before that.");
+        MsgDisp("Himuro","...No, maybe I'll invite you here myself
+before that.");
         MsgDisp("主人公","Eh?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040622102_06_080");
         MsgDisp("Himuro","After coming here a few times with you,
-I've started to think that this
-place isn't so bad after all.");
+I've started to think that this place
+isn't so bad after all.");
         ChEye(6,3);
         ChMouth(6,4);
         ChMotion(6,0);

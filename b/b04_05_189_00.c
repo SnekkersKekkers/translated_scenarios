@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040518900_05_000");
     MsgDisp("Hiiragi","You felt it too, didn't you?
-That surge of emotion welling up 
-from deep inside.");
+That surge of emotion welling up from deep
+inside.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,8 +33,8 @@ Or was that just my imagination?");
     ChMouth(5,2);
     VoicePlay("B040518900_05_020");
     MsgDisp("Hiiragi","I see, I'm sorry.
-I guess I was the only one 
-really enjoying it");
+I guess I was the only one really enjoying
+it");
     MsgDateResultDisp();
     break ;
     default :

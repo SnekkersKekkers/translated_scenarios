@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(6,254,0,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like things have 
-been going well recently!)");
+MsgDisp("主人公","(Looks like things have been going well
+recently!)");
 switch (ChPrmGet(6,6)){
     case 0:
     case 1:
@@ -15,8 +15,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("X120600002_06_000");
     MsgDisp("Himuro","You're skilled.
-I'll ask you for help next 
-time a button falls off.");
+I'll ask you for help next time a button
+falls off.");
     MsgDisp("主人公","(Yay1)");
     break ;
     case 4:
@@ -25,8 +25,7 @@ time a button falls off.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("X120600002_06_010");
-    MsgDisp("Himuro","Amazing...
-To the point I want you to make 
+    MsgDisp("Himuro","Amazing... To the point I want you to make
 something for me next time.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;

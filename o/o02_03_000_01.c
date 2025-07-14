@@ -14,9 +14,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O020300001_03_000");
-    MsgDisp("Honda","Hm......
-The other team was really in sync.
-Did the all practice together?");
+    MsgDisp("Honda","Hm...... The other team was really in
+sync. Did the all practice together?");
     MsgDisp("主人公","(I lost......
 I wish I tried harder.)");
     break ;
@@ -25,15 +24,15 @@ I wish I tried harder.)");
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("O020300001_03_010");
-    MsgDisp("Honda","It looked like either team
-could've won today's match.
+    MsgDisp("Honda","It looked like either team could've won
+today's match.
 ......Until halfway through.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O020300001_03_020");
-    MsgDisp("Honda","In the last few seconds, I guess
-the other team persisted a little more?
+    MsgDisp("Honda","In the last few seconds, I guess the other
+team persisted a little more?
 Hm, that was close.");
     MsgDisp("主人公","(I lost......
 I wish I tried harder.)");
@@ -58,20 +57,20 @@ You seem okay.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("O020300001_03_050");
-    MsgDisp("Honda","You might've lost, but in the end,
-whoever moves their body more and has
-more fun is the winner! Like you, right?");
+    MsgDisp("Honda","You might've lost, but in the end, whoever
+moves their body more and has more fun is
+the winner! Like you, right?");
     MsgDisp("主人公","Hehe, maybe?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("O020300001_03_060");
     MsgDisp("Honda","Yeah yeah, that expression!
-The sports festival is still going on,
-so let's have fun!");
+The sports festival is still going on, so
+let's have fun!");
     MsgDisp("主人公","(｛本多＊＊｝, thank you.
-I lost, but I'll still enjoy
-the rest of the festival.)");
+I lost, but I'll still enjoy the rest of
+the festival.)");
     break ;
     default :
     DbgAssert(1);

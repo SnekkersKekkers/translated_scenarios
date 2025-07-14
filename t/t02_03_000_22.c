@@ -4,15 +4,15 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("T020300022_03_000");
 MsgDisp("Honda","You- what's wrong??");
-MsgDisp("主人公","Erm, well I like
-｛本多＊＊｝ too.");
+MsgDisp("主人公","Erm, well I like ｛本多＊＊｝ too.");
 ChEye(3,3);
 ChMouth(3,0);
 ChMotion(3,1,1);
 ChCheek(3,5);
 VoicePlay("T020300022_03_010");
 MsgDisp("Honda","So, can I stay with you forever?");
-MsgDisp("主人公","Hehe, yes. Please take care of me.");
+MsgDisp("主人公","Hehe, yes.
+Please take care of me.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -32,8 +32,8 @@ ScrFadeIn(0);
 VoicePlay("T020300022_03_030");
 MsgDisp("Honda","I have to be the one doing the research.");
 VoicePlay("T020300022_03_040");
-MsgDisp("Honda","From now on,
-I won't always be the one getting beaten.");
+MsgDisp("Honda","From now on, I won't always be the one
+getting beaten.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

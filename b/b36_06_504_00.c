@@ -40,16 +40,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650400_06_040");
-MsgDisp("Himuro","It's just an ordinary place
-decorated in lights. Yet people act like
-they're \"soo happy\". It's stupid.");
+MsgDisp("Himuro","It's just an ordinary place decorated in
+lights. Yet people act like they're \"soo
+happy\". It's stupid.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650400_06_050");
-MsgDisp("Himuro","......But,
-as I walk with you like this,
-I think I understand how they feel.");
+MsgDisp("Himuro","......But, as I walk with you like this, I
+think I understand how they feel.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -68,8 +67,9 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,0);
 VoicePlay("B360650400_06_080");
-MsgDisp("Himuro","What's the big deal? We had plenty of fun
-together during the day.");
+MsgDisp("Himuro","What's the big deal?
+We had plenty of fun together during the
+day.");
 ChEye(6,3);
 ChMouth(6,3);
 ChMotion(6,0);

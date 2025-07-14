@@ -7,14 +7,13 @@ switch (ChPrmGet(6,6)){
     case 3:
     BGOpen("sc723",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Seems like lots of customers
-are coming this year...)");
+    MsgDisp("主人公","(Seems like lots of customers are coming
+this year...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600001_06_000");
     MsgDisp("Himuro","Quite successful huh?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Welcome.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Welcome.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -22,8 +21,9 @@ Welcome.");
     VoicePlay("P630600001_06_010");
     MsgDisp("Himuro","What are those vegetables?
 Are you selling them?");
-    MsgDisp("主人公","Yeah, the Gardening Club grew them. We
-also prepared herb tea and herb cookies.▼");
+    MsgDisp("主人公","Yeah, the Gardening Club grew them.
+We also prepared herb tea and herb
+cookies.▼");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -41,14 +41,13 @@ Then, I'll have some.");
     case 5:
     BGOpen("sc723",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Seems like lots of customers
-are coming this year...)");
+    MsgDisp("主人公","(Seems like lots of customers are coming
+this year...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600001_06_030");
     MsgDisp("Himuro","...I missed the hype.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Welcome.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Welcome.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

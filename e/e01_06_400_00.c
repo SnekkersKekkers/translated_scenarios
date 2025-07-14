@@ -11,8 +11,8 @@ MsgDisp("Hikaru?","Oh, could it be you're embarrassed～?");
 VoicePlay("E010640000_06_010");
 MsgDisp("Himuro?","No way.");
 MsgDisp("主人公","(That voice, could it be......)");
-MsgDisp("主人公","｛氷室＊＊｝, ｛ひかる＊｝!
-Were you two out together?");
+MsgDisp("主人公","｛氷室＊＊｝, ｛ひかる＊｝! Were you two
+out together?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
@@ -30,9 +30,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
 VoicePlay("E010640000_22_020");
-MsgDisp("Hikaru","Aha ▼
-But you know, Himuro-chan is so kind.
-he doesn't just ignore Hikaru ♪");
+MsgDisp("Hikaru","Aha ▼ But you know, Himuro-chan is so
+kind. he doesn't just ignore Hikaru ♪");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,4);
@@ -51,23 +50,23 @@ ChMouth(22,3);
 ChMotion(22,0);
 ChEyeOpenLevel(22,8);
 VoicePlay("E010640000_22_030");
-MsgDisp("Hikaru","Himuro-chan is sooo cute～♪
-Whenever Hikaru gets close, Himuro will
-put distance between us. It's so funny～!");
+MsgDisp("Hikaru","Himuro-chan is sooo cute～♪ Whenever
+Hikaru gets close, Himuro will put
+distance between us. It's so funny～!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("E010640000_06_050");
-MsgDisp("Himuro","Hanatsubaki-senpai has
-no sense of personal space.");
+MsgDisp("Himuro","Hanatsubaki-senpai has no sense of
+personal space.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("E010640000_06_060");
-MsgDisp("Himuro","Besides, if we get too
-close, people will misunderstand.");
+MsgDisp("Himuro","Besides, if we get too close, people will
+misunderstand.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -103,7 +102,8 @@ ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010640000_06_080");
-MsgDisp("Himuro","Ahh, seriously. This is why——");
+MsgDisp("Himuro","Ahh, seriously.
+This is why——");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5);
@@ -122,8 +122,7 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("E010640000_06_090");
 MsgDisp("Himuro","What's with her......");
-MsgDisp("主人公","Umm......
-What did you mean by not wanting
+MsgDisp("主人公","Umm...... What did you mean by not wanting
 to be misunderstood?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -135,9 +134,8 @@ MsgDisp("Himuro","∋
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(Hmm......
-｛氷室＊＊｝'s face was bright red.
-Did I make him angry......?)");
+MsgDisp("主人公","(Hmm...... ｛氷室＊＊｝'s face was bright
+red. Did I make him angry......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

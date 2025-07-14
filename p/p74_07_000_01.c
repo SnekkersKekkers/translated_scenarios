@@ -25,15 +25,15 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P740700001_07_020");
 MsgDisp("Mikage","Then, it's fine.
-Even falling down flat on your face 
-will become a wonderful memory.");
+Even falling down flat on your face will
+become a wonderful memory.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("P740700001_07_030");
-MsgDisp("Mikage","Haha, that was a pretty 
-poor end though, huh?");
-MsgDisp("主人公","(Uuugh... I wish I had practiced more 
+MsgDisp("Mikage","Haha, that was a pretty poor end though,
+huh?");
+MsgDisp("主人公","(Uuugh... I wish I had practiced more
 carefully for the show...)");
 MsgClose();
 ScrFadeOut(0,0);

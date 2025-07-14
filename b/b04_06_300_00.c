@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     ChCheek(6,5);
     VoicePlay("B040630000_06_010");
-    MsgDisp("Himuro","I don't think it's anything 
-special but...
+    MsgDisp("Himuro","I don't think it's anything special but...
 I don't mind being complimented.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);

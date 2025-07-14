@@ -41,8 +41,7 @@ No, maybe I'm overthinking it.");
     ChMotion(6,1);
     VoicePlay("B040624101_06_030");
     MsgDisp("Himuro","I'm not really.
-If you're not interested,
-just ignore it.");
+If you're not interested, just ignore it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

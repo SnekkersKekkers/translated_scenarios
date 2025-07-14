@@ -7,15 +7,13 @@ ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("T020201021_02_000");
 MsgDisp("Sassa","......You kissed me?");
-MsgDisp("主人公","I also love
-｛颯砂＊＊｝.");
+MsgDisp("主人公","I also love ｛颯砂＊＊｝.");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020201021_02_010");
 MsgDisp("Sassa","Seriously......");
-MsgDisp("主人公","Yes.
-I'm sorry I didn't notice when
+MsgDisp("主人公","Yes. I'm sorry I didn't notice when
 ｛颯砂＊＊｝ was suffering.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -31,8 +29,10 @@ ChMotion(2,4);
 ChCheek(2,0);
 VoicePlay("T020201021_02_030");
 MsgDisp("Sassa","Now I can pursue my dreams with the person
-I love. I couldn't be happier.");
-MsgDisp("主人公","Me too. With my beloved ｛颯砂＊＊｝......");
+I love.
+I couldn't be happier.");
+MsgDisp("主人公","Me too.
+With my beloved ｛颯砂＊＊｝......");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -50,8 +50,7 @@ VoicePlay("T020201021_02_050");
 MsgDisp("Sassa","This time......it's my turn.");
 VoiceEVSPlay(2);
 VoicePlay("T020201021_02_060");
-MsgDisp("Sassa","｛主人公｝......
-I love you.");
+MsgDisp("Sassa","｛主人公｝...... I love you.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

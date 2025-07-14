@@ -16,8 +16,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("G020310307_03_020");
-MsgDisp("Honda","My little sister says she 
-hates boys because they're rough......");
+MsgDisp("Honda","My little sister says she hates boys
+because they're rough......");
 MsgDisp("主人公","Ahー......yeah, that's right.");
 ChEye(3,5);
 ChMouth(3,4);
@@ -31,12 +31,14 @@ ChMotion(3,4,1);
 VoicePlay("G020310307_03_040");
 MsgDisp("Honda","Then......what about now?");
 MsgDisp("主人公","Uumm, are you talking about how I am with
-｛本多＊＊｝? I'm fine now I think.");
+｛本多＊＊｝?
+I'm fine now I think.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G020310307_03_050");
-MsgDisp("Honda","I see. So, will my sister get over it too?
+MsgDisp("Honda","I see.
+So, will my sister get over it too?
 Her dislike of boys?");
 ChEye(3,2);
 ChMouth(3,4);
@@ -56,15 +58,15 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("G020310307_03_080");
 MsgDisp("Honda","But I was so eager to tell her about the
-baby Oryzias fish hatching. She was
-looking forward to it too.");
+baby Oryzias fish hatching.
+She was looking forward to it too.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("G020310307_03_090");
-MsgDisp("Honda","I hope she gets over her 
-dislike of boys soon......");
-MsgDisp("主人公","(I can understand both ｛本多＊＊｝'s 
+MsgDisp("Honda","I hope she gets over her dislike of boys
+soon......");
+MsgDisp("主人公","(I can understand both ｛本多＊＊｝'s
 feelings and his sister's......)");
 BGMStop();
 MsgClose();

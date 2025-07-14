@@ -49,16 +49,15 @@ No matter what I say, they stick around...
 There's no way.");
 ChMotion(4,2,1);
 VoicePlay("F110410001_04_040");
-MsgDisp("Nanatsumori","I wonder what would've happened
-if you hadn't happened to pass by...");
+MsgDisp("Nanatsumori","I wonder what would've happened if you
+hadn't happened to pass by...");
 MsgDisp("主人公","Hehe. Glad I could help.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F110410001_04_050");
-MsgDisp("Nanatsumori","Here.
-Take a takoyaki.
-My thanks for rescuing me.");
+MsgDisp("Nanatsumori","Here. Take a takoyaki. My thanks for
+rescuing me.");
 MsgDisp("主人公","(Yay! Even though ｛七ツ森＊｝ is in a
 school uniform, he still stands out,
 huh...)");

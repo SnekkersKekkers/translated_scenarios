@@ -28,9 +28,9 @@ home?");
 The herb tea too.");
     ChSet(3,4);
     VoicePlay("P630300001_03_020");
-    MsgDisp("Honda","Yep yep, then I'll have 
-one cup to start with.");
-    MsgDisp("主人公","Yes, one customer. 
+    MsgDisp("Honda","Yep yep, then I'll have one cup to start
+with.");
+    MsgDisp("主人公","Yes, one customer.
 This way please!");
     break ;
     case 4:
@@ -42,16 +42,16 @@ was well-received...))");
     ChOpen(3,254,4,0,0,#1,#1,0,0);
     VoicePlay("P630300001_03_030");
     MsgDisp("Honda","Ahー,Fuuー...
-The aroma of fresh herbs
-is spreading, huh?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-Welcome!");
+The aroma of fresh herbs is spreading,
+huh?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. Welcome!");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("P630300001_03_040");
-    MsgDisp("Honda","Herbs and fresh vegetables... The
-two-layer healing effect is amazing, huh?");
+    MsgDisp("Honda","Herbs and fresh vegetables...
+The two-layer healing effect is amazing,
+huh?");
     MsgDisp("主人公","Hehe.
 It's certainly healing, huh?");
     ChEye(3,3);

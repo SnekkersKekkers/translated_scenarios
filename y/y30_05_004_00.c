@@ -9,19 +9,18 @@ ScrFadeOut(0);
 BGOpen("ad540",0);
 ScrFadeIn(0);
 VoicePlay("Y300500400_07_000");
-MsgDisp("Mikage","\"Yanosuke!
-Are you headed home now?
+MsgDisp("Mikage","\"Yanosuke! Are you headed home now?
 Should we walk together?\"");
 MsgDisp("","Mikage-sensei is a homeroom teacher.
 He's not even an advisor for the
 student council committee I'm a part
 of.");
-MsgDisp("","But, he always looks
-out for me like this.");
+MsgDisp("","But, he always looks out for me like
+this.");
 MsgClear();
 VoicePlay("Y300500400_05_000");
-MsgDisp("Hiiragi","\"Yes. Mikage-sensei, 
-Didn't you go on a bike today\"");
+MsgDisp("Hiiragi","\"Yes. Mikage-sensei, Didn't you go on
+a bike today\"");
 MsgDisp("","As I said that, He touches the tie on
 his suit, and says; \"Today is no good
 huh?\" and gives me a smile that makes
@@ -31,24 +30,22 @@ MsgDisp("","The well-tailored business suit he
 wears makes Mikage-sensei look more
 like a young business man than a
 teacher.");
-MsgDisp("","Ah, but I like Mikage-sensei's
-other style too.");
+MsgDisp("","Ah, but I like Mikage-sensei's other
+style too.");
 MsgClose();
 ScrFadeOut(0);
 VoicePlay("Y300500400_05_010");
-MsgDisp("Hiiragi","(...Heheh.
-The day we met was a little before 
-the entrance ceremony.)");
+MsgDisp("Hiiragi","(...Heheh. The day we met was a
+little before the entrance ceremony.)");
 MsgClear();
 BGOpen("ad541",0);
 ScrFadeIn(0);
 VoicePlay("Y300500400_07_010");
-MsgDisp("Mikage","\"Ohh, are you the rumoured
-high school chairman?\"");
+MsgDisp("Mikage","\"Ohh, are you the rumoured high
+school chairman?\"");
 VoicePlay("Y300500400_05_020");
-MsgDisp("Hiiragi","\"Eh? Yes...
-My name is Hiiragi Yanosuke.
-...Are a staff member?\"");
+MsgDisp("Hiiragi","\"Eh? Yes... My name is Hiiragi
+Yanosuke. ...Are a staff member?\"");
 MsgDisp("","When I asked curiously, he showed me
 the same smile as before.");
 MsgClear();
@@ -66,21 +63,19 @@ MsgClear();
 MsgClose();
 ScrFadeOut(0);
 VoicePlay("Y300500400_06_000");
-MsgDisp("Himuro","\"Yanosuke-senpai,
-are you heading home now?\"");
-MsgDisp("","——\"Senpai\".
-The only one who calls me that is
-Himuro Inori-kun. ");
+MsgDisp("Himuro","\"Yanosuke-senpai, are you heading
+home now?\"");
+MsgDisp("","——\"Senpai\". The only one who calls
+me that is Himuro Inori-kun.");
 MsgClear();
 BGOpen("ad542",0);
 ScrFadeIn(0);
 VoicePlay("Y300500400_05_030");
-MsgDisp("Hiiragi","\"Yes.
-Inori-kun, if it's alright with you, 
-let's go together.\"");
+MsgDisp("Hiiragi","\"Yes. Inori-kun, if it's alright with
+you, let's go together.\"");
 VoicePlay("Y300500400_06_010");
 MsgDisp("Himuro","\"Ah, Kojiro-sensei is here too?
-I didn't notice because your clothes 
+I didn't notice because your clothes
 were so nice.\"");
 VoicePlay("Y300500400_07_030");
 MsgDisp("Mikage","\"\"Didn't we make eye contact just
@@ -94,10 +89,9 @@ of being the nephew of Vice Principal
 Himuro.");
 MsgDisp("","To us, that's normal.");
 MsgClear();
-MsgDisp("","However the other people around us, 
-\"take this into consideration\",
-But Mikage-sensei, 
-\"Is concerned\".");
+MsgDisp("","However the other people around us,
+\"take this into consideration\", But
+Mikage-sensei, \"Is concerned\".");
 MsgDisp("","That's my personal interpretation...
 Maybe, Inori-kun also feels the same
 way. That's why we can be together as
@@ -113,8 +107,8 @@ They're a mysterious person who makes
 the two of us... maybe Mikage-sensei
 too, smile maturely.");
 MsgDisp("主人公","\"What is everyone talking about?\"");
-MsgDisp("","A smile illuminated by the
-orange of the sunset.");
+MsgDisp("","A smile illuminated by the orange of
+the sunset.");
 MsgClear();
 MsgDisp("","｛主人公苗字｝ ｛主人公名前｝.");
 MsgDisp("","When we heard her voice, Me and Inori
@@ -129,19 +123,19 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("ad544",0);
 ScrFadeIn(0);
-MsgDisp("","Before I knew it, the four
-of us spent more time together.
+MsgDisp("","Before I knew it, the four of us
+spent more time together.
 This became natural.");
-MsgDisp("","I never imagined that such wonderful 
+MsgDisp("","I never imagined that such wonderful
 things would happen to me.");
-MsgDisp("","I now realized how important 
+MsgDisp("","I now realized how important
 Mikage-sensei, Inori-kun and her
 existence is to me.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("","If they also all felt the same, 
-I would be truly happy...");
+MsgDisp("","If they also all felt the same, I
+would be truly happy...");
 BGMStop();
 
 MsgClear();

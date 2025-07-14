@@ -50,8 +50,9 @@ suddenly jump into first place?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("N020100001_01_060");
-    MsgDisp("Kazama","I'm just joking. That being said, with you
-at this level, beating you is too easy.");
+    MsgDisp("Kazama","I'm just joking.
+That being said, with you at this level,
+beating you is too easy.");
     MsgDisp("主人公","(That's right...
 I'll really have to do better than this.)");
     break ;
@@ -62,8 +63,8 @@ I'll really have to do better than this.)");
     ScrFadeIn(0);
     VoicePlay("N020100001_01_070");
     MsgDisp("Kazama","Hmm, this is bad.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-Have you seen the results?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. Have you seen the
+results?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -82,10 +83,11 @@ There's no mistaking it at this point.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("N020100001_01_100");
-    MsgDisp("Kazama","That's the spirit! The two of us, let's
-grab the top spot from those guys there.");
-    MsgDisp("主人公","(Yes, I'll have to make my way through
-the top!)");
+    MsgDisp("Kazama","That's the spirit!
+The two of us, let's grab the top spot
+from those guys there.");
+    MsgDisp("主人公","(Yes, I'll have to make my way through the
+top!)");
     break ;
     default :
     DbgAssert(1);

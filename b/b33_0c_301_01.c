@@ -12,8 +12,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C30101_07_000");
-MsgDisp("Mikage","It feels like you can get
-whatever you wanted here.");
+MsgDisp("Mikage","It feels like you can get whatever you
+wanted here.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -24,8 +24,7 @@ ChMouth(7,4);
 ChMotion(7,5);
 VoicePlay("B330C30101_07_010");
 MsgDisp("Mikage","Eh? That...");
-MsgDisp("主人公","｛氷室＊＊｝, 
-is there something you want?");
+MsgDisp("主人公","｛氷室＊＊｝, is there something you want?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -58,9 +57,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C30101_06_020");
-MsgDisp("Himuro","You can't buy it with just 
-a bit of part-time work. But it's a 
-vintage item, so it's quite valuable.");
+MsgDisp("Himuro","You can't buy it with just a bit of
+part-time work. But it's a vintage item,
+so it's quite valuable.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -86,8 +85,8 @@ ChMouth(7,4);
 ChMotion(7,4);
 VoicePlay("B330C30101_07_040");
 MsgDisp("Mikage","O-Oi.
-I can't afford to buy 
-something that expensive...");
+I can't afford to buy something that
+expensive...");
 MsgDisp("主人公","Hehe, it's alright. I think both
 ｛氷室＊＊｝ and ｛御影＊＊｝ have no
 intention of buying it at all.");
@@ -97,8 +96,8 @@ ChMotion(7,2);
 VoicePlay("B330C30101_07_050");
 MsgDisp("Mikage","Ah, really?
 None at all, huh...");
-MsgDisp("主人公","(｛御影＊＊｝ will end up wanting
-to grant any of his student's wishes...");
+MsgDisp("主人公","(｛御影＊＊｝ will end up wanting to
+grant any of his student's wishes...");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

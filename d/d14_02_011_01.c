@@ -23,8 +23,8 @@ Yeah, we're quite similar.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("D140201101_02_020");
-    MsgDisp("Sassa","Having similar tastes in 
-food is important... yeah.");
+    MsgDisp("Sassa","Having similar tastes in food is
+important... yeah.");
     break ;
     default :
     DbgAssert(1);

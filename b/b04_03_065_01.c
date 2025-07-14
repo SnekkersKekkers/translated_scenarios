@@ -26,9 +26,8 @@ I wanted you to see itー.");
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("B040306501_03_020");
-    MsgDisp("Honda","Eh!
-Do you have an eidetic memory?
-Ahー, now I want to know more about you!");
+    MsgDisp("Honda","Eh! Do you have an eidetic memory? Ahー,
+now I want to know more about you!");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,7 +38,8 @@ Ahー, now I want to know more about you!");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040306501_03_030");
-    MsgDisp("Honda","No I'm not? I'm talking about fireworks.");
+    MsgDisp("Honda","No I'm not?
+I'm talking about fireworks.");
     MsgDateResultDisp();
     break ;
     default :

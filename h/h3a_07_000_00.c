@@ -12,8 +12,7 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0700000_07_000");
     MsgDisp("Mikage","You're pretty strong!");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! I won!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -27,9 +26,8 @@ I won!");
 and the way you won was great too.
 Congrats.");
     MsgDisp("主人公","Hehe, thank you very much!");
-    MsgDisp("主人公","(I did it!　I won the inter-high!
-I'm really glad I worked so hard
-at my club!)");
+    MsgDisp("主人公","(I did it! I won the inter-high! I'm
+really glad I worked so hard at my club!)");
     break ;
     default :
     DbgAssert(1);

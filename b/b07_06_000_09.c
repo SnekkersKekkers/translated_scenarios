@@ -1,21 +1,21 @@
-MsgDisp("主人公","Hey, I'm going to ask you
-something seriously. Is 
-that okay with you?");
+MsgDisp("主人公","Hey, I'm going to ask you something
+seriously.
+Is that okay with you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_480");
 MsgDisp("Himuro","Seriously? What is it.");
-MsgDisp("主人公","Um you know, 
-｛氷室＊＊｝ what do you think about love?");
+MsgDisp("主人公","Um you know, ｛氷室＊＊｝ what do you think
+about love?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 ChCheek(6,10);
 VoicePlay("B070600000_06_490");
 MsgDisp("Himuro","Ha...?");
-MsgDisp("主人公","I would like to know
-｛氷室＊＊｝'s view on love.'");
+MsgDisp("主人公","I would like to know ｛氷室＊＊｝'s view on
+love.'");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);
@@ -33,9 +33,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600000_06_520");
-MsgDisp("Himuro","If you're going to ask someone
-else, shouldn't you be able to
-talk about it yourself?");
+MsgDisp("Himuro","If you're going to ask someone else,
+shouldn't you be able to talk about it
+yourself?");
 MsgDisp("主人公","My view on love?
 Ummm...");
 ChEye(6,0);
@@ -43,8 +43,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600000_06_530");
 MsgDisp("Himuro","..................");
-MsgDisp("主人公","(It kinda... feels like his 
-gaze is baring into me?)");
+MsgDisp("主人公","(It kinda...
+feels like his gaze is baring into me?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

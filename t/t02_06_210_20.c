@@ -17,9 +17,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 ChCheek(6,0);
-MsgDisp("Himuro","
-I have to thank those two as well,
-for giving me a push on the back.");
+MsgDisp("Himuro","I have to thank those two as well, for
+giving me a push on the back.");
 MsgDisp("主人公","Hehe, is that so?");
 VoicePlay("T020621000_06_160");
 ChEye(6,0);
@@ -33,10 +32,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
-MsgDisp("Himuro","
-I...... haven't really grasped these
+MsgDisp("Himuro","I...... haven't really grasped these
 feelings yet.");
-MsgDisp("主人公","It's fine...... 
+MsgDisp("主人公","It's fine......
 I think I feel the same way too.");
 VoicePlay("T020621000_06_180");
 ChEye(6,0);

@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,2);
     VoicePlay("B040306202_03_010");
-    MsgDisp("Honda","No way, it's not safe at all. I was just a
-just a little tempted. I'm glad you're
-here with me!");
+    MsgDisp("Honda","No way, it's not safe at all.
+I was just a just a little tempted.
+I'm glad you're here with me!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -62,15 +62,17 @@ Coast.\"");
         MsgDisp("Honda","Ah, sorry sorry! I got too carried away.
 Making decisions on your own is dangerous,
 so I shouldn't have suggested that.");
-        MsgDisp("主人公","I see. I was feeling safe because you
-were with me ｛本多＊＊｝.");
+        MsgDisp("主人公","I see.
+I was feeling safe because you were with
+me ｛本多＊＊｝.");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4);
         ChEyeOpenLevel(3,10);
         VoicePlay("B040306202_03_050");
-        MsgDisp("Honda","That makes me happy but... I need to be 
-more careful so I don't put you in danger.");
+        MsgDisp("Honda","That makes me happy but...
+I need to be more careful so I don't put
+you in danger.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,3);
@@ -78,21 +80,22 @@ more careful so I don't put you in danger.");
         MsgDisp("Honda","But you know, I have this tendency to
 charge ahead recklessly when I get
 excited.");
-        MsgDisp("主人公","Hehe. It's one of the things 
-that makes you amazing ｛本多＊＊｝.");
+        MsgDisp("主人公","Hehe. It's one of the things that makes
+you amazing ｛本多＊＊｝.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,1);
         VoicePlay("B040306202_03_070");
         MsgDisp("Honda","What? Don't tease me. I want you to think
-I'm amazing, but I don't want to put you 
+I'm amazing, but I don't want to put you
 in danger.");
         ChEye(3,1);
         ChMouth(3,1);
         ChMotion(3,5);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040306202_03_080");
-        MsgDisp("Honda","Ah, no good. Curiosity killed the cat!");
+        MsgDisp("Honda","Ah, no good.
+Curiosity killed the cat!");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,4);

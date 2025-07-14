@@ -40,7 +40,8 @@ Thank you!");
     VoicePlay("K010300100_03_030");
     MsgDisp("Honda","Yes?");
     MsgDisp("主人公","Today is your birthday right?
-So, here. Your present.");
+So, here.
+Your present.");
     SEPlay("EV_SE_664");
     SEWait();
     ChEye(3,5);
@@ -52,8 +53,8 @@ So, here. Your present.");
     ChMouth(3,3);
     ChMotion(3,0);
     VoicePlay("K010300100_03_050");
-    MsgDisp("Honda","Someone other than your family
-remembering your birthday......
+    MsgDisp("Honda","Someone other than your family remembering
+your birthday......
 It feels special.");
     MsgDisp("主人公","Hehe, if you'd like, open it up.");
     break ;

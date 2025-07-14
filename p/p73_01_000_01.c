@@ -17,21 +17,19 @@ I like it but...)");
     VoiceEVSPlay(1);
     VoicePlay("P730100001_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Did you come to watch?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100001_01_010");
-    MsgDisp("Kazama","You're going to wear your dress
-and walk as a model, 
-How could I miss that?");
+    MsgDisp("Kazama","You're going to wear your dress and walk
+as a model, How could I miss that?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("P730100001_01_020");
-    MsgDisp("Kazama","Ah, I have to reserve a 
-seat for the camera.");
+    MsgDisp("Kazama","Ah, I have to reserve a seat for the
+camera.");
     MsgDisp("主人公","Hehe, hey.
 It's like you're at your kid's play.");
     ChEye(1,0);
@@ -41,15 +39,16 @@ It's like you're at your kid's play.");
     MsgDisp("Kazama","It's not like that. The dress and model
 are both on par with a pro. Go with
 confidence in yourself.");
-    MsgDisp("主人公","Yeah, thank you. Thanks to ｛風真＊＊｝, I
-gained some courage.");
+    MsgDisp("主人公","Yeah, thank you.
+Thanks to ｛風真＊＊｝, I gained some
+courage.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100001_01_040");
-    MsgDisp("Kazama","I'm glad. Well, on a sentimental level,
-I'm like a parent watching their kid's
-play.");
+    MsgDisp("Kazama","I'm glad.
+Well, on a sentimental level, I'm like a
+parent watching their kid's play.");
     MsgDisp("主人公","Hm?");
     SEPlay("EV_SE_038");
     SEWait();
@@ -80,8 +79,8 @@ I like it but...)");
     VoiceEVSPlay(1);
     VoicePlay("P730100001_01_060");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-What do you think of this dress?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. What do you think of
+this dress?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -92,8 +91,7 @@ What do you think of this dress?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100001_01_080");
-    MsgDisp("Kazama","You made it, 
-you're wearing it?
+    MsgDisp("Kazama","You made it, you're wearing it?
 Whether I dislike it or not means nothing.");
     ChEye(1,3);
     ChMouth(1,3);
@@ -107,8 +105,8 @@ I'm super happy.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100001_01_100");
-    MsgDisp("Kazama","With confidence, go and show the merit
-of your work with your own appeal.");
+    MsgDisp("Kazama","With confidence, go and show the merit of
+your work with your own appeal.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(1,2);

@@ -25,8 +25,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360603101_06_020");
-MsgDisp("Himuro","I just want to get ahead
-of the others as soon as I can.");
+MsgDisp("Himuro","I just want to get ahead of the others as
+soon as I can.");
 MsgDisp("主人公","Really?");
 ChEye(6,1);
 ChMouth(6,0);
@@ -38,8 +38,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B360603101_06_040");
-MsgDisp("Himuro","It's torture seeing everyone be 
-so familiar with you.");
+MsgDisp("Himuro","It's torture seeing everyone be so
+familiar with you.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -70,9 +70,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360603101_06_090");
-MsgDisp("Himuro","You were there. And all things
-considered, it wasn't so bad.
-......But it was so noisy.");
+MsgDisp("Himuro","You were there. And all things considered,
+it wasn't so bad. ......But it was so
+noisy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

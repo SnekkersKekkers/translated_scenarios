@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040722102_07_000");
-MsgDisp("Mikage","Today we're going to investigate 
-the role of the castle tower.");
+MsgDisp("Mikage","Today we're going to investigate the role
+of the castle tower.");
 MsgSel("Apparently it's the last place to barricade yourself in.","Isn't it where the lord resides?","It's a viewing platform, isn't it!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ It's not a penthouse.");
     ChMotion(7,4);
     VoicePlay("B040722102_07_020");
     MsgDisp("Mikage","Apparently not.
-If you look carefully, you'll 
-see it's quite modest.");
+If you look carefully, you'll see it's
+quite modest.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,8 @@ see it's quite modest.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040722102_07_030");
-        MsgDisp("Mikage","Hahaha.
-You really like high places don't you?");
+        MsgDisp("Mikage","Hahaha. You really like high places don't
+you?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -71,9 +71,8 @@ You like the pretty scenery, right?");
         ChMouth(7,3);
         ChMotion(7,3);
         VoicePlay("B040722102_07_060");
-        MsgDisp("Mikage","From now on, you will continue
-to see beautiful views, and hone
-your senses.");
+        MsgDisp("Mikage","From now on, you will continue to see
+beautiful views, and hone your senses.");
         MsgDisp("主人公","But, it would be even better if I would
 see it with ｛御影＊＊｝...");
         ChEye(7,0);
@@ -81,8 +80,8 @@ see it with ｛御影＊＊｝...");
         ChMotion(7,0);
         VoicePlay("B040722102_07_070");
         MsgDisp("Mikage","It can't be helped～
-This is a special service only for
-today; I'll take three steps forward.");
+This is a special service only for today;
+I'll take three steps forward.");
         MsgDisp("主人公","Hehe, thank you very much.");
         MsgClose();
         SEPlay("EV_SE_544",0.1,0.6);
@@ -94,16 +93,15 @@ today; I'll take three steps forward.");
         ChLayout(0);
         SEPlay("EV_SE_544");
         ChOpen(7,254,4,0,4,#1,#1,0,0);
-        MsgDisp("主人公","Ehh∋
-｛御影＊＊｝, you're going the other way?");
+        MsgDisp("主人公","Ehh∋ ｛御影＊＊｝, you're going the
+other way?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,3);
         VoicePlay("B040722102_07_090");
         MsgDisp("Mikage","Three steps is three steps, right?");
-        MsgDisp("主人公","(Hehe.
-｛御影＊＊｝ doesn't like high places.
-It's kind of cute?)");
+        MsgDisp("主人公","(Hehe. ｛御影＊＊｝ doesn't like high
+places. It's kind of cute?)");
         break ;
         default :
         DbgAssert(1);

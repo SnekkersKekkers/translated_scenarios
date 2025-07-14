@@ -10,14 +10,14 @@ BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(5,254,0,0,4,#1,#1,0,2);
-MsgDisp("主人公","｛颯砂＊＊｝ and ｛柊＊＊＊｝.
-Do you both like hot springs?");
+MsgDisp("主人公","｛颯砂＊＊｝ and ｛柊＊＊＊｝. Do you both
+like hot springs?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100220000_02_010");
-MsgDisp("Sassa","Would you also like to join
-the hot spring club?");
+MsgDisp("Sassa","Would you also like to join the hot spring
+club?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -38,8 +38,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100220000_05_020");
-MsgDisp("Hiiragi","Yes.
-There are two people who love hot
+MsgDisp("Hiiragi","Yes. There are two people who love hot
 springs here. What about you?");
 MsgDisp("主人公","Umm...
 I like baths but...");
@@ -53,9 +52,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("F100220000_05_030");
-MsgDisp("Hiiragi","It would be nice if we could all
-go on a hot spring tour together
-someday.");
+MsgDisp("Hiiragi","It would be nice if we could all go on a
+hot spring tour together someday.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

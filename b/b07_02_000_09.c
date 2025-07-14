@@ -5,8 +5,7 @@ ChMotion(2,4);
 VoicePlay("B070200000_02_430");
 MsgDisp("Sassa","What is it?
 Scary.");
-MsgDisp("主人公","What does ｛颯砂＊＊｝ think
-about love?");
+MsgDisp("主人公","What does ｛颯砂＊＊｝ think about love?");
 ChEye(2,5);
 ChMouth(2,4);
 ChMotion(2,5);
@@ -32,14 +31,14 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070200000_02_470");
 MsgDisp("Sassa","Hmm......But you know, that's even more
-troublesome. Asking a question like
-\"What is love?\"");
+troublesome.
+Asking a question like \"What is love?\"");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_480");
-MsgDisp("Sassa","Probably the only person who can
-easily answer something like that is
+MsgDisp("Sassa","Probably the only person who can easily
+answer something like that is
 Mikage-sensei, huh?");
 MsgDisp("主人公","Hehe.");
 ChEye(2,3);
@@ -47,13 +46,12 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B070200000_02_490");
-MsgDisp("Sassa","Right?
-Next time I'll ask you something, then.");
+MsgDisp("Sassa","Right? Next time I'll ask you something,
+then.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","(......Huh?
-But I wanted to hear how ｛颯砂＊＊｝
-feel about love......)");
+MsgDisp("主人公","(......Huh? But I wanted to hear how
+｛颯砂＊＊｝ feel about love......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

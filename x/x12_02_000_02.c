@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(2,254,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like things have been
-going well recently!)");
+MsgDisp("主人公","(Looks like things have been going well
+recently!)");
 switch (ChPrmGet(2,6)){
     case 0:
     case 1:
@@ -26,8 +26,8 @@ improving bit by bit!)");
     ChMotion(2,4);
     VoicePlay("X120200002_02_010");
     MsgDisp("Sassa","That must have taken a lot of work.
-I'm jealous of the people who can 
-wear what you make.");
+I'm jealous of the people who can wear
+what you make.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :

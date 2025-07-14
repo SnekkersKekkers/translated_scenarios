@@ -31,24 +31,23 @@ success.");
     ChMotion(7,1);
     VoicePlay("P730700002_07_020");
     MsgDisp("Mikage","I see.
-So it's a feeling that you
-want to be happy by all means?");
+So it's a feeling that you want to be
+happy by all means?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("P730700002_07_030");
-    MsgDisp("Mikage","Relax.
-You've already been able to become such 
-a cute bride. It's already a success.");
+    MsgDisp("Mikage","Relax. You've already been able to become
+such a cute bride. It's already a success.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("P730700002_07_040");
-    MsgDisp("Mikage","Hey, go out and show everyone 
-that dress. If only I saw this,
-I might be hit with divine punishment.");
+    MsgDisp("Mikage","Hey, go out and show everyone that dress.
+If only I saw this, I might be hit with
+divine punishment.");
     MsgDisp("主人公","Yes...!");
     MsgDisp("主人公","(I've gotten ｛御影＊＊｝'s seal of
 approval. Alright, let's carry myself with
@@ -66,23 +65,23 @@ festival... I have to make it a success!)");
     VoicePlay("P730700002_07_050");
     MsgDisp("Mikage","Oh! Even in such a place, there's a cute
 bride.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
-Did you come to support me?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. Did you come to
+support me?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P730700002_07_060");
-    MsgDisp("Mikage","I'll be cheering you on 
-from the closest spot.");
+    MsgDisp("Mikage","I'll be cheering you on from the closest
+spot.");
     MsgDisp("主人公","Eh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P730700002_07_070");
-    MsgDisp("Mikage","Is the spot next to the
-adorable bride empty?");
-    MsgDisp("主人公","Hehe!
-For the show I walk by myself though?");
+    MsgDisp("Mikage","Is the spot next to the adorable bride
+empty?");
+    MsgDisp("主人公","Hehe! For the show I walk by myself
+though?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -93,17 +92,16 @@ Making a bride like this walk by herself.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P730700002_07_090");
-    MsgDisp("Mikage","Then I'd be happy to play the role
-of coming to steal the bride
-during the ceremony?");
+    MsgDisp("Mikage","Then I'd be happy to play the role of
+coming to steal the bride during the
+ceremony?");
     MsgDisp("主人公","It's not a ceremony, 
 it's a show!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P730700002_07_100");
-    MsgDisp("Mikage","Gotcha.
-Then, I'll watch from the audience 
+    MsgDisp("Mikage","Gotcha. Then, I'll watch from the audience
 with my fingers in my mouth.");
     MsgDisp("主人公","Hehe, do your best.");
     SEPlay("EV_SE_038");
@@ -112,11 +110,11 @@ with my fingers in my mouth.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("P730700002_07_110");
-    MsgDisp("Mikage","Yeah, you have to go show 
-everyone this lovely dress.");
-    MsgDisp("主人公","(... Thanks to ｛御影＊＊｝,
-I feel like I've been able to relax...
-Alright, let's have some fun!)");
+    MsgDisp("Mikage","Yeah, you have to go show everyone this
+lovely dress.");
+    MsgDisp("主人公","(... Thanks to ｛御影＊＊｝, I feel
+like I've been able to relax... Alright,
+let's have some fun!)");
     break ;
     default :
     DbgAssert(1);

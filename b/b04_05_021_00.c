@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040502100_05_000");
 MsgDisp("Hiiragi","Yes, it's very nice.
-The beautiful sea, 
-and the charming brick road.");
+The beautiful sea, and the charming brick
+road.");
 MsgSel("It's nice to be able to take a leisurely stroll.","Is that a jellyfish over there?","There's no one here, it looks like we have the place to ourselves...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -36,8 +36,9 @@ They also wash up on beaches.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040502100_05_030");
-    MsgDisp("Hiiragi","Yes, it is a luxury. Let's walk down the
-brick road, just the two of us.");
+    MsgDisp("Hiiragi","Yes, it is a luxury.
+Let's walk down the brick road, just the
+two of us.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

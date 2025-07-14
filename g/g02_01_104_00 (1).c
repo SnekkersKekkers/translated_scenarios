@@ -24,8 +24,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110400_01_030");
-MsgDisp("Kazama","I like natural colors. You don't need any
-gaudy colors.");
+MsgDisp("Kazama","I like natural colors.
+You don't need any gaudy colors.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

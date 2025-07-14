@@ -27,30 +27,28 @@ The game's——");
     ChMotion(4,1,1);
     VoicePlay("P530400001_04_020");
     MsgDisp("Nanatsumori","Stop it...
-I was really looking forward to 
-the live gaming music.");
+I was really looking forward to the live
+gaming music.");
     MsgDisp("主人公","Uugh... even more pressure...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400001_04_030");
-    MsgDisp("Nanatsumori","Idiot. Because I'm looking forwards
-to it, is why you need to enjoy 
-it with all that you've got.");
+    MsgDisp("Nanatsumori","Idiot. Because I'm looking forwards to it,
+is why you need to enjoy it with all that
+you've got.");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("P530400001_04_040");
     MsgDisp("Nanatsumori","Games are meant to amuse people.
-Isn't that why you chose 
-game music?");
+Isn't that why you chose game music?");
     MsgDisp("主人公","Yeah... that's right!");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P530400001_04_050");
     MsgDisp("Nanatsumori","Right, that face.
-The face of a her
-stepping onto the field.");
+The face of a her stepping onto the field.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Then, I'm off!");
@@ -59,9 +57,9 @@ stepping onto the field.");
     ChMotion(4,0,1);
     VoicePlay("P530400001_04_060");
     MsgDisp("Nanatsumori","I wish you a good fight!");
-    MsgDisp("主人公","(Alright, for everyone who came
-all this way to listen, 
-let'd deliver a good performance!)");
+    MsgDisp("主人公","(Alright, for everyone who came all this
+way to listen, let'd deliver a good
+performance!)");
     break ;
     case 4:
     case 5:
@@ -76,10 +74,8 @@ last year. Haa, I'm nervous.)");
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("P530400001_04_070");
-    MsgDisp("Nanatsumori","｛主人公｝.
-You're stressed, huhー.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Yeah...");
+    MsgDisp("Nanatsumori","｛主人公｝. You're stressed, huhー.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Yeah...");
     VoicePlay("P530400001_04_080");
     MsgDisp("Nanatsumori","You're going to perform gaming music?
 The kind that entertains people.");
@@ -87,19 +83,17 @@ The kind that entertains people.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("P530400001_04_090");
-    MsgDisp("Nanatsumori","You're the one who creates 
-that world, so it's hopeless
-if you're like this.");
-    MsgDisp("主人公","But if I think about 
-everyone who knows this song,
-failure is scary....");
+    MsgDisp("Nanatsumori","You're the one who creates that world, so
+it's hopeless if you're like this.");
+    MsgDisp("主人公","But if I think about everyone who knows
+this song, failure is scary....");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P530400001_04_100");
     MsgDisp("Nanatsumori","That's also part of a live orchestra.
-Unexpectedly, the audience might also 
-be looking forwards to it, right?");
+Unexpectedly, the audience might also be
+looking forwards to it, right?");
     MsgDisp("主人公","Ehhh?");
     ChEye(4,3);
     ChMouth(4,3);
@@ -115,8 +109,9 @@ be looking forwards to it, right?");
     MsgDisp("Nanatsumori","You've done everything you can until now.
 ＧＯ!");
     MsgDisp("主人公","Yes, I'm off!");
-    MsgDisp("主人公","(｛七ツ森＊｝, thank you for encouraging
-me! Alright, let's do our best!)");
+    MsgDisp("主人公","(｛七ツ森＊｝, thank you for
+encouraging me!
+Alright, let's do our best!)");
     break ;
     default :
     DbgAssert(1);

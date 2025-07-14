@@ -10,8 +10,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360403201_04_000");
-MsgDisp("Nanatsumori","At this time of day,
-there are more couples here.");
+MsgDisp("Nanatsumori","At this time of day, there are more
+couples here.");
 MsgDisp("主人公","Hmm...");
 ChEye(4,2);
 ChMouth(4,3);
@@ -30,9 +30,8 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360403201_04_030");
-MsgDisp("Nanatsumori","Haha!
-Your expressions change all the time,
-I really never get bored of you.");
+MsgDisp("Nanatsumori","Haha! Your expressions change all the
+time, I really never get bored of you.");
 MsgDisp("主人公","Hey.");
 ChEye(4,4);
 ChMouth(4,3);
@@ -50,18 +49,16 @@ ChMotion(4,1,1);
 VoicePlay("B360403201_04_060");
 MsgDisp("Nanatsumori","A couple? Friends?
 Something else?");
-MsgDisp("主人公","｛七ツ森＊｝, 
-are you messing with me?");
+MsgDisp("主人公","｛七ツ森＊｝, are you messing with me?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360403201_04_070");
 MsgDisp("Nanatsumori","You got itー.
-Just watching your facial
-expressions is fun.");
-MsgDisp("主人公","Hey!
-We came to the aquarium,
-so go look at the fish?");
+Just watching your facial expressions is
+fun.");
+MsgDisp("主人公","Hey! We came to the aquarium, so go look
+at the fish?");
 ChEye(4,3);
 ChMouth(4,3);
 VoicePlay("B360403201_04_080");

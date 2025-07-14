@@ -15,8 +15,8 @@ But...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700001_07_000");
     MsgDisp("Mikage","You seem more composed, huh? ");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
-More or less, since it's my second time...");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. More or less, since
+it's my second time...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -29,8 +29,8 @@ pitiful when going up on stage, right?");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("P530700001_07_020");
-    MsgDisp("Mikage","Make use of your experience,
-and cover for them, okay?");
+    MsgDisp("Mikage","Make use of your experience, and cover for
+them, okay?");
     MsgDisp("主人公","Yes!");
     ChEye(7,0);
     ChMouth(7,0);
@@ -44,9 +44,8 @@ and cover for them, okay?");
     ChMotion(7,3);
     VoicePlay("P530700001_07_040");
     MsgDisp("Mikage","Then, go.");
-    MsgDisp("主人公","(Huh...
-Talking to ｛御影＊＊｝
-relaxed me a bit!)");
+    MsgDisp("主人公","(Huh... Talking to ｛御影＊＊｝ relaxed
+me a bit!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -60,23 +59,22 @@ But...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P530700001_07_050");
-    MsgDisp("Mikage","｛主人公｝, 
-You seem a bit more composed, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
-I'm not composed!");
+    MsgDisp("Mikage","｛主人公｝, You seem a bit more
+composed, huh?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. I'm not composed!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700001_07_060");
     MsgDisp("Mikage","I see, my bad.
-But if you keep it lively like always,
-the chances of success will increase.");
+But if you keep it lively like always, the
+chances of success will increase.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P530700001_07_070");
-    MsgDisp("Mikage","You have a mysterious power to
-make those around you feel at ease");
+    MsgDisp("Mikage","You have a mysterious power to make those
+around you feel at ease");
     MsgDisp("主人公","Eh, don't you have that power?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -88,8 +86,8 @@ Believe in your homeroom teacher.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("P530700001_07_090");
-    MsgDisp("Mikage","When you have fun, 
-everyone else has fun too.
+    MsgDisp("Mikage","When you have fun, everyone else has fun
+too.
 That's why you'll be sure to succeed.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -99,8 +97,9 @@ That's why you'll be sure to succeed.");
     VoicePlay("P530700001_07_100");
     MsgDisp("Mikage","Hey, your friends are waiting.
 Go.");
-    MsgDisp("主人公","(｛御影＊＊｝ encouraged me. Alright, I'm
-going to do my best with everyone.)");
+    MsgDisp("主人公","(｛御影＊＊｝ encouraged me.
+Alright, I'm going to do my best with
+everyone.)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

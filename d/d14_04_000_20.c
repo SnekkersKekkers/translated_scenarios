@@ -20,8 +20,8 @@ ChMotion(7,1);
 ChMotion(4,0,1);
 VoicePlay("D140400000_04_040");
 MsgDisp("Nanatsumori","Got it.
-Then, let's do it if we 
-get another chance.");
+Then, let's do it if we get another
+chance.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.7);
 BGMStop();
 ChClose(4,0,30);

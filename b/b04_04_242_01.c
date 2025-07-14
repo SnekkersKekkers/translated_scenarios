@@ -28,7 +28,7 @@ Say that again.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040424201_04_020");
-    MsgDisp("Nanatsumori","I'll leave that  to you.
+    MsgDisp("Nanatsumori","I'll leave that to you.
 I'll be off then.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

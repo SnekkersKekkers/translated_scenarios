@@ -18,8 +18,8 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("K020D00001_21_000");
 MsgDisp("Michiru","Sorry for the short notice.
-It's a little late,
-but we wanted to celebrate your birthday.");
+It's a little late, but we wanted to
+celebrate your birthday.");
 VoicePlay("K020D00001_22_010");
 ChEye(22,3);
 ChMouth(22,3);

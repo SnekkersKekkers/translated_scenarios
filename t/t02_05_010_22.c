@@ -23,8 +23,8 @@ it?");
 MsgDisp("主人公","Is it?");
 ChEyeOpenLevel(5,9);
 VoicePlay("T020501022_05_020");
-MsgDisp("Hiiragi","There's no point in playing dumb. 
-I've been bested by you so many times. ");
+MsgDisp("Hiiragi","There's no point in playing dumb.
+I've been bested by you so many times.");
 MsgDisp("主人公","Umm......");
 ChEye(5,0);
 ChMotion(5,0);
@@ -34,7 +34,7 @@ ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 ChCheek(5,0);
 VoicePlay("T020501022_05_030");
-MsgDisp("Hiiragi","Come on. 
+MsgDisp("Hiiragi","Come on.
 It's my turn now.");
 BGMStop(2.8);
 MsgClear();
@@ -44,8 +44,8 @@ Wait(120,0);
 StlOpen("ev_05_17");
 ScrFadeIn(0);
 VoicePlay("T020501022_05_040");
-MsgDisp("Hiiragi","From now on, 
-I will definitely get payback.");
+MsgDisp("Hiiragi","From now on, I will definitely get
+payback.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

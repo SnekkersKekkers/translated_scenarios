@@ -11,15 +11,14 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","...Ah!
-ＳＵＰＥＲ　ＣＨＡＲＧＥＲ's 
-new album is already out!");
+MsgDisp("主人公","...Ah! ＳＵＰＥＲ ＣＨＡＲＧＥＲ's new
+album is already out!");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B10501_04_000");
-MsgDisp("Nanatsumori","That's because it's 
-ＳＵＰＥＲ ＣＨＡＲＧＥＲ.");
+MsgDisp("Nanatsumori","That's because it's ＳＵＰＥＲ
+ＣＨＡＲＧＥＲ.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -39,8 +38,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B10501_04_010");
-MsgDisp("Nanatsumori","Yeah.
-...How should we do this?
+MsgDisp("Nanatsumori","Yeah. ...How should we do this?
 Rock-paper-scissors?");
 ChEye(3,0);
 ChMouth(3,4);
@@ -61,15 +59,15 @@ MsgDisp("Nanatsumori","Yeah.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","T-Then why don't we all
-take turns singing it?");
+MsgDisp("主人公","T-Then why don't we all take turns singing
+it?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B10501_03_020");
 MsgDisp("Honda","I'm fine even with that.
-But you'll end up listening to the
-same songs 3 times though?");
+But you'll end up listening to the same
+songs 3 times though?");
 MsgDisp("主人公","Yeah, that's fine.");
 ChEye(1,2);
 ChMouth(1,0);
@@ -77,8 +75,8 @@ ChMotion(1,0,1);
 VoicePlay("B330B10501_01_020");
 MsgDisp("Kazama","15 minutes of listening to the same song?
 Is that okay?");
-MsgDisp("主人公","Yeah.
-I look forward to hearing everyone sing!");
+MsgDisp("主人公","Yeah. I look forward to hearing everyone
+sing!");
 ChEye(1,0);
 ChEye(3,0);
 ChMouth(3,3);
@@ -97,8 +95,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B330B10501_01_030");
 MsgDisp("Kazama","Alright...
 I'll win this competition.");
-MsgDisp("主人公","(Hehe!
-It's turned into a serious game of 
+MsgDisp("主人公","(Hehe! It's turned into a serious game of
 rock, paper, scissors at karaoke.)");
 MsgClose();
 ScrFadeOut(0,0);

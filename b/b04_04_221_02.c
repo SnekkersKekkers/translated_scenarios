@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040422102_04_010");
-    MsgDisp("Nanatsumori","ＯＫ!
-I got a good spot before
-other people noticed.");
+    MsgDisp("Nanatsumori","ＯＫ! I got a good spot before other
+people noticed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -81,9 +80,8 @@ as they would say.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040422102_04_080");
-        MsgDisp("Nanatsumori","...You sometimes drop some 
-bombshell statements that I 
-don't really understand.");
+        MsgDisp("Nanatsumori","...You sometimes drop some bombshell
+statements that I don't really understand.");
         ChEye(4,2);
         VoicePlay("B040422102_04_090");
         MsgDisp("Nanatsumori","It's seriously bad for the heart.
@@ -106,9 +104,8 @@ You're so sneakyー......");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040422102_04_120");
-        MsgDisp("Nanatsumori","So...
-Could you explain why the rainbow
-is a blessing on us? Hmm?");
+        MsgDisp("Nanatsumori","So... Could you explain why the rainbow is
+a blessing on us? Hmm?");
         MsgDisp("主人公","(｛七ツ森＊｝, you're teasing me...)");
         break ;
         default :

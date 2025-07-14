@@ -27,7 +27,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100801_01_010");
-MsgDisp("Kazama","Hey, anything that's different. About me.
+MsgDisp("Kazama","Hey, anything that's different.
+About me.
 Is there anything that bothers you?");
 ChMouth(1,0);
 MsgDisp("主人公","(Bothers me......? I'm worried that
@@ -56,7 +57,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100801_01_050");
-MsgDisp("Kazama","......But, well. You were right.");
+MsgDisp("Kazama","......But, well.
+You were right.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -73,9 +75,9 @@ ChMotion(1,0);
 VoicePlay("G110100801_01_070");
 MsgDisp("Kazama","Heh...... Surprisingly, you really are
 paying attention to me. You pass.");
-MsgDisp("主人公","(Umm......
-I guess I should be quiet about the fact
-I was worried his hair was too long.)");
+MsgDisp("主人公","(Umm...... I guess I should be quiet about
+the fact I was worried his hair was too
+long.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

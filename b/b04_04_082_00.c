@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,0);
     VoicePlay("B040408200_04_010");
-    MsgDisp("Nanatsumori","Hmmー.
-If I'm gonna nap, I would
-need a proper bed.");
+    MsgDisp("Nanatsumori","Hmmー. If I'm gonna nap, I would need a
+proper bed.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -38,8 +37,8 @@ I wonder why.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,#1);
     VoicePlay("B040408200_04_030");
-    MsgDisp("Nanatsumori","That's what they say about autumn 
-and spring days like this.");
+    MsgDisp("Nanatsumori","That's what they say about autumn and
+spring days like this.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

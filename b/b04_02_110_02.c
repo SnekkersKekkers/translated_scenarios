@@ -88,8 +88,7 @@ looking up and down.");
         SEWait();
         SEPlay("EV_SE_631",0,1);
         Wait(50,1);
-        MsgDisp("主人公","(｛颯砂＊＊｝...
-Diving is prohibited!)");
+        MsgDisp("主人公","(｛颯砂＊＊｝... Diving is prohibited!)");
         SEStop("EV_SE_631",1);
         break ;
         default :

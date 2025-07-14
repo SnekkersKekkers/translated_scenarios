@@ -6,8 +6,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611102_06_000");
-MsgDisp("Himuro","Yeah. 
-Feels like I'm getting the hang of it.");
+MsgDisp("Himuro","Yeah. Feels like I'm getting the hang of
+it.");
 MsgSel("As expected of you!","I'm jealous...","Even though it's Himuro?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040611102_06_010");
-    MsgDisp("Himuro","Really?
-We've come here a few times, 
-isn't that normal?");
+    MsgDisp("Himuro","Really? We've come here a few times, isn't
+that normal?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +29,8 @@ isn't that normal?");
     ChMotion(6,0);
     VoicePlay("B040611102_06_020");
     MsgDisp("Himuro","Shall I give you some advice?
-It's pretty nerve-wracking
-when someone falls next to you.");
+It's pretty nerve-wracking when someone
+falls next to you.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -83,29 +82,28 @@ get a feel for it that way.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040611102_06_080");
-        MsgDisp("Himuro","Ah... no.
-I was just thinking about how 
-I wasn't that offended.");
+        MsgDisp("Himuro","Ah... no. I was just thinking about how I
+wasn't that offended.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040611102_06_090");
-        MsgDisp("Himuro","Even though we were t
-talking about the Himuro name.");
+        MsgDisp("Himuro","Even though we were t talking about the
+Himuro name.");
         MsgDisp("主人公","Ah... that's right.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,2);
         VoicePlay("B040611102_06_100");
-        MsgDisp("Himuro","Have I become so carefree 
-that I can just brush it off...?");
+        MsgDisp("Himuro","Have I become so carefree that I can just
+brush it off...?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040611102_06_110");
-        MsgDisp("Himuro","Or maybe it's because it was
-you who I was talking to...");
+        MsgDisp("Himuro","Or maybe it's because it was you who I was
+talking to...");
         MsgDisp("主人公","Hm?");
         ChEye(6,0);
         ChMouth(6,3);
@@ -117,10 +115,9 @@ you who I was talking to...");
         ChMouth(6,3);
         ChMotion(6,1);
         VoicePlay("B040611102_06_130");
-        MsgDisp("Himuro","It's nothing.
-At any rate, let's skate a bit more.
-I've gotten the hang of it, 
-so I want to make the most of it.");
+        MsgDisp("Himuro","It's nothing. At any rate, let's skate a
+bit more. I've gotten the hang of it, so I
+want to make the most of it.");
         MsgDisp("主人公","Yeah!");
         break ;
         default :

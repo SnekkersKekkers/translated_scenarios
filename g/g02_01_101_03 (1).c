@@ -41,14 +41,15 @@ VoicePlay("G020110103_01_050");
 MsgDisp("Kazama","And I don't really get Honda, but he helps
 me out based on how he sees the world.");
 MsgDisp("主人公","So that special kind of friendship between
-boys. That's good to hear.");
+boys.
+That's good to hear.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020110103_01_060");
-MsgDisp("Kazama","Friendship......is that what it is? I
-don't think that's quite right. It's a
-pretty tight balancing act.");
+MsgDisp("Kazama","Friendship......is that what it is?
+I don't think that's quite right.
+It's a pretty tight balancing act.");
 MsgDisp("主人公","Balancing act?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -69,7 +70,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110103_01_090");
 MsgDisp("Kazama","So please don't upset the balance we have
-right now. I'm serious.");
+right now.
+I'm serious.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

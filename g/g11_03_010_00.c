@@ -12,8 +12,7 @@ BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110301000_03_010");
 MsgDisp("Honda","You're going to the part time job, right?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
-Yes, that's right.");
+MsgDisp("主人公","Ah, ｛本多＊＊｝. Yes, that's right.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -63,11 +62,11 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110301000_03_070");
-MsgDisp("Honda","Plus, you get paid for your part time
-job, you know?");
+MsgDisp("Honda","Plus, you get paid for your part time job,
+you know?");
 MsgDisp("主人公","Hehe, the manager will get angry with you?");
 VoicePlay("G110301000_42_000");
-MsgDisp("Manager","What are you two whispering about? 
+MsgDisp("Manager","What are you two whispering about?
 Come on, I need help with the register.");
 ChEye(3,1);
 ChMouth(3,1);

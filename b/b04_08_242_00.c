@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B040824200_08_000");
 MsgDisp("Shirahane","It's a pretty place!
-Not only that, it's a
-perfect day for camping♪");
+Not only that, it's a perfect day for
+camping♪");
 MsgSel("｛大地＊＊｝,I'm counting on you♪","Camping means BBQ!","It seems inconvenient and tough...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(8,0);
     VoicePlay("B040824200_08_010");
     MsgDisp("Shirahane","Leave it to me.
-Today is a chance for me to show
-you my manliness!");
+Today is a chance for me to show you my
+manliness!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -32,8 +32,7 @@ you my manliness!");
     ChMotion(8,0,1);
     VoicePlay("B040824200_08_020");
     MsgDisp("Shirahane","Sounds good!
-Leave the cooking and
-preparation to me.");
+Leave the cooking and preparation to me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

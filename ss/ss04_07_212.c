@@ -2,5 +2,6 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("SS0407212_07_000");
-MsgDisp("Mikage","Oh oh ...... what's up?");
+MsgDisp("Mikage","Oh oh ......
+what's up?");
 MsgClose();

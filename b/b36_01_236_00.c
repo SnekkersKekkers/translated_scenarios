@@ -29,8 +29,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360123600_01_030");
-MsgDisp("Kazama","The thing that's worth 
-seeing is your happy expression.");
+MsgDisp("Kazama","The thing that's worth seeing is your
+happy expression.");
 MsgDisp("主人公","Ehh?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -43,9 +43,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360123600_01_050");
-MsgDisp("Kazama","My bad. But it was because 
-we made it in time, that I got to 
-see your sparkling expression.");
+MsgDisp("Kazama","My bad. But it was because we made it in
+time, that I got to see your sparkling
+expression.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -57,11 +57,10 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360123600_01_070");
-MsgDisp("Kazama","Hey, you're not supposed to
-be looking at me, look 
-at the night parade.");
-MsgDisp("主人公","(Thank you for bringing 
-me here, ｛風真＊＊｝ )");
+MsgDisp("Kazama","Hey, you're not supposed to be looking at
+me, look at the night parade.");
+MsgDisp("主人公","(Thank you for bringing me here,
+｛風真＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

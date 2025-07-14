@@ -1,8 +1,7 @@
 ScrFadeIn(0);
-MsgDisp("主人公","
-(Hmmm...... I ended up buying both matcha 
-and black tea castella.
-I wonder what ｛颯砂＊＊｝ bought......)");
+MsgDisp("主人公","(Hmmm...... I ended up buying both matcha
+and black tea castella. I wonder what
+｛颯砂＊＊｝ bought......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,0);
@@ -23,8 +22,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_020");
 MsgDisp("Sassa","Ah, yeah.
-It was kind of, you know, 
-carefully wrapped.");
+It was kind of, you know, carefully
+wrapped.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -38,16 +37,16 @@ ChMotion(2,3);
 VoicePlay("Q110200000_02_040");
 MsgDisp("Sassa","Haha, so you couldn't decide.
 Actually, same.");
-MsgDisp("主人公","Eeh∋　Matcha and black tea?
-Wow, they're exactly the same!");
+MsgDisp("主人公","Eeh∋ Matcha and black tea? Wow, they're
+exactly the same!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_050");
 MsgDisp("Sassa","Ahh, yeah.
 We're a perfect match, I guess?");
-MsgDisp("主人公","......Hm?
-Looks like you bought a lot of stuff......");
+MsgDisp("主人公","......Hm? Looks like you bought a lot of
+stuff......");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -59,11 +58,10 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q110200000_02_070");
-MsgDisp("Sassa","I mean, if possible, don't you want
-to end up being a perfect match?");
-MsgDisp("主人公","
-(Pff, no matter what flavor of castella
-I see, I guess I'm going to think about
+MsgDisp("Sassa","I mean, if possible, don't you want to end
+up being a perfect match?");
+MsgDisp("主人公","(Pff, no matter what flavor of castella I
+see, I guess I'm going to think about
 ｛颯砂＊＊｝ again?)");
 BGMStop();
 MsgClose();

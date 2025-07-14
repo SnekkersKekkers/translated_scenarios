@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102201_01_010");
-    MsgDisp("Kazama","If you could go anywhere, where would
-you want to go?");
+    MsgDisp("Kazama","If you could go anywhere, where would you
+want to go?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

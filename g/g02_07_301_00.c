@@ -28,8 +28,8 @@ ChMotion(7,0);
 VoicePlay("G020730100_07_030");
 MsgDisp("Mikage","I see By the way, it feels like I'm also
 included in that group of friends, right??");
-MsgDisp("主人公","When ｛御影＊＊｝ joins us,
-everyone looks like they're having fun.");
+MsgDisp("主人公","When ｛御影＊＊｝ joins us, everyone
+looks like they're having fun.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -43,7 +43,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020730100_07_050");
-MsgDisp("Mikage","Hey, don't take it so lightly. 
+MsgDisp("Mikage","Hey, don't take it so lightly.
 That actually hurts me quite a bit.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -52,8 +52,8 @@ VoicePlay("G020730100_07_060");
 MsgDisp("Mikage","I'm also worried about my bonus
 evaluation......");
 MsgDisp("主人公","(I see......teachers also have something
-like report cards. Good
-luck, ｛御影＊＊｝......!)");
+like report cards. Good luck,
+｛御影＊＊｝......! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

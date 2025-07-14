@@ -60,8 +60,8 @@ StlEye(8,1);
 StlMouth(8,1);
 VoicePlay("B050800000_08_070");
 MsgDisp("Shirahane","That's right!
-That koi isn't just any koi; 
-it's the Cupid of this pond.");
+That koi isn't just any koi; it's the
+Cupid of this pond.");
 StlEye(8,1);
 StlMouth(8,1);
 StlEyeOpenLevel(8,5);
@@ -72,8 +72,9 @@ MsgDisp("主人公","Eh, yeah.");
 StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("B050800000_08_090");
-MsgDisp("Shirahane","For this girl here too, alright? Please
-bring a wonderful love to both of us...");
+MsgDisp("Shirahane","For this girl here too, alright?
+Please bring a wonderful love to both of
+us...");
 VoicePlay("B050800000_08_100");
 MsgDisp("Shirahane","Please, I ask of you...
 Amenー...");
@@ -91,8 +92,8 @@ ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800000_08_110");
 MsgDisp("Shirahane","Alright, with this we can relax!");
-MsgDisp("主人公","｛大地＊＊｝, you did well 
-to find that heart koi!");
+MsgDisp("主人公","｛大地＊＊｝, you did well to find that
+heart koi!");
 ChEye(8,2);
 ChMouth(8,3);
 ChMotion(8,0,1);

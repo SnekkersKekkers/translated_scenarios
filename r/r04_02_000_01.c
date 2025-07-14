@@ -15,8 +15,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("R040200001_02_010");
-    MsgDisp("Sassa","I thought you were a princess
-from a distant land.");
+    MsgDisp("Sassa","I thought you were a princess from a
+distant land.");
     MsgDisp("主人公","I think you're exaggerating a bit.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -28,8 +28,8 @@ from a distant land.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("R040200001_02_030");
-    MsgDisp("Sassa","Well, when I see a dress,
-I automatically think of a princess.");
+    MsgDisp("Sassa","Well, when I see a dress, I automatically
+think of a princess.");
     MsgDisp("主人公","Huh?");
     break ;
     case 3:
@@ -44,11 +44,10 @@ Does it suit me?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R040200001_02_050");
-    MsgDisp("Sassa","Of course it does. 
-You have a different atmosphere from 
+    MsgDisp("Sassa","Of course it does.
+You have a different atmosphere from
 always, so my heart raced.");
-    MsgDisp("主人公","Hehe. 
-Have I already said you also look 
+    MsgDisp("主人公","Hehe. Have I already said you also look
 cool, ｛颯砂＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -61,7 +60,7 @@ If that's what you think.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("R040200001_02_070");
-    MsgDisp("Sassa","The length is fine, but it's a bit 
+    MsgDisp("Sassa","The length is fine, but it's a bit
 uptight, I can't eat with this.");
     break ;
     case 4:
@@ -77,8 +76,8 @@ Especially your dress.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R040200001_02_090");
-    MsgDisp("Sassa","Yeah. It makes me feel like floating 
-when I'm next to you.");
+    MsgDisp("Sassa","Yeah. It makes me feel like floating when
+I'm next to you.");
     MsgDisp("主人公","Floating?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -91,8 +90,8 @@ when I'm next to you.");
     ChMotion(2,2);
     ChCheek(2,10);
     VoicePlay("R040200001_02_110");
-    MsgDisp("Sassa","How do I look? People are
-saying I look a wedding groom.");
+    MsgDisp("Sassa","How do I look?
+People are saying I look a wedding groom.");
     MsgDisp("主人公","Yeah. You do look like a
 wedding groom.");
     ChEye(2,0);
@@ -100,8 +99,8 @@ wedding groom.");
     ChMotion(2,5);
     VoicePlay("R040200001_02_120");
     MsgDisp("Sassa","For real?
-Then you would be the bride. And
-this must be the wedding reception.");
+Then you would be the bride.
+And this must be the wedding reception.");
     MsgDisp("主人公","Huh∋");
     break ;
     default :

@@ -6,17 +6,18 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,4);
     ChEyeOpenLevel(8,10);
     VoicePlay("L040800006_08_000");
-    MsgDisp("Shirahane","This is...... handmade, right?");
-    MsgDisp("主人公","Yeah. I tried my best, but
-I couldn't do it very well......");
+    MsgDisp("Shirahane","This is......
+handmade, right?");
+    MsgDisp("主人公","Yeah. I tried my best, but I couldn't do
+it very well......");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("L040800006_08_010");
-    MsgDisp("Shirahane","Yeah, I bet you did your best.
-But...... I gotta be brave.");
-    MsgDisp("主人公","(Ugh...... I wish I had
-tried a little harder......)");
+    MsgDisp("Shirahane","Yeah, I bet you did your best. But...... I
+gotta be brave.");
+    MsgDisp("主人公","(Ugh...... I wish I had tried a little
+harder......)");
     break ;
     case 3:
     ChEye(8,2);
@@ -38,8 +39,8 @@ Like nothin' I've ever seen before.");
     VoicePlay("L040800006_08_040");
     MsgDisp("Shirahane","......Sorry if I can't
 eat it all, 'kay?");
-    MsgDisp("主人公","(Ugh...... I wish I had
-tried a little harder......)");
+    MsgDisp("主人公","(Ugh...... I wish I had tried a little
+harder......)");
     break ;
     case 4:
     case 5:
@@ -49,8 +50,7 @@ tried a little harder......)");
     ChCheek(8,8);
     VoicePlay("L040800006_08_050");
     MsgDisp("Shirahane","Handmade...... chocolate, right?");
-    MsgDisp("主人公","Yeah.
-But, it didn't go very well......
+    MsgDisp("主人公","Yeah. But, it didn't go very well......
 Sorry.");
     ChEye(8,2);
     ChMouth(8,0);
@@ -65,15 +65,15 @@ But, you did your best, eh?");
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800006_08_070");
     VoiceEVSPlay(8);
-    MsgDisp("Shirahane","Just that feelin' makes me happy.
-Thanks, ｛主人公｝.");
+    MsgDisp("Shirahane","Just that feelin' makes me happy. Thanks,
+｛主人公｝.");
     ChEye(8,0);
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("L040800006_08_080");
-    MsgDisp("Shirahane","See, the toppings must be nice
-on their own. If I eat 'em little by
-little, it might be alright.");
+    MsgDisp("Shirahane","See, the toppings must be nice on their
+own. If I eat 'em little by little, it
+might be alright.");
     MsgDisp("主人公","(｛大地＊＊｝ is so nice......
 But, I wish I had tried harder......)");
     break ;

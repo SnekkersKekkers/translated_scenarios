@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,3,1);
     VoicePlay("B030824001_08_000");
-    MsgDisp("Shirahane","It's a farm, so there's gotta be sheep
-and cows around.
+    MsgDisp("Shirahane","It's a farm, so there's gotta be sheep and
+cows around.
 Let's go!");
     MsgDispSksp(0);
     break ;

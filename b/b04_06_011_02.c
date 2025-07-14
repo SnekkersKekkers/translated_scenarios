@@ -35,9 +35,9 @@ switch (MsgSelRsltGet()){
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040601102_06_030");
-        MsgDisp("Himuro","Even though it's not like it's a 
-place I especially like, I've 
-come here three times.");
+        MsgDisp("Himuro","Even though it's not like it's a place I
+especially like, I've come here three
+times.");
         MsgDisp("主人公","Uh... I'm sorry.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -50,9 +50,8 @@ not blaming you particularly.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040601102_06_050");
-        MsgDisp("Himuro","...Well, it's fun when you're with
-someone who has a new 
-reaction each time right?");
+        MsgDisp("Himuro","...Well, it's fun when you're with someone
+who has a new reaction each time right?");
         MsgDisp("主人公","Eh...
 That——");
         ChEye(6,0);
@@ -104,8 +103,8 @@ Well, it's not that uncomfortable.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040601102_06_100");
-    MsgDisp("Himuro","Well... its's not bad but, 
-would you really word it like that?");
+    MsgDisp("Himuro","Well... its's not bad but, would you
+really word it like that?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

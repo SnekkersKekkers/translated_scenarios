@@ -39,7 +39,8 @@ this is far from a fairytale.");
     ChMotion(4,1,1);
     VoicePlay("B040423400_04_030");
     MsgDisp("Nanatsumori","If you turn it that much, that's what you
-get. You got what you deserve.");
+get.
+You got what you deserve.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

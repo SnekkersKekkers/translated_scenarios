@@ -6,8 +6,8 @@ ChMotion(21,3);
 ScrFadeIn(0);
 VoicePlay("W062100000_21_000");
 MsgDisp("Michiru","The boys are also here today...
-Let's go to the roller
-coasters first, then.");
+Let's go to the roller coasters first,
+then.");
 MsgClose();
 ScrFadeOut(0,0);
 ChEyeOpenLevel(21,#1);

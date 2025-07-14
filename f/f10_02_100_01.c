@@ -1,9 +1,8 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right, I still have some time, 
-so I'll go return the book 
-to the library.)");
+MsgDisp("主人公","(That's right, I still have some time, so
+I'll go return the book to the library.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -22,8 +21,7 @@ BGMPlay("BGM_C02_SASSA_A",0.01);
 MsgClose();
 ChOpen(2,254,4,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝,
-You sure are borrowing lots.");
+MsgDisp("主人公","｛颯砂＊＊｝, You sure are borrowing lots.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -31,8 +29,7 @@ VoicePlay("F100210001_02_010");
 MsgDisp("Sassa","Ohh, it's you.
 Did you know?
 The limit here is 20 books");
-MsgDisp("主人公","Yeah.
-｛颯砂＊＊｝, you borrowed 20 books
+MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, you borrowed 20 books
 before. Are you a bookworm?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -60,7 +57,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝...
-You're using books the wrong way.)");
+MsgDisp("主人公","(｛颯砂＊＊｝... You're using books the
+wrong way.)");
 MsgClose();
 ScrFadeOut(0);

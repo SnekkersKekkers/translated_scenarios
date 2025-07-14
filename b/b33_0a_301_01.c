@@ -29,11 +29,11 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A30101_06_010");
 MsgDisp("Himuro","...I see.
-To Nozomu-senpai, this place is
-similar to a haunted house.");
+To Nozomu-senpai, this place is similar to
+a haunted house.");
 ChMouth(1,2);
-MsgDisp("主人公","Eh... a haunted house...
-if you say it like that...");
+MsgDisp("主人公","Eh... a haunted house... if you say it
+like that...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -55,9 +55,9 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B330A30101_02_020");
-MsgDisp("Sassa","Because Inori is saying weird things,
-that boat is starting to look
-like a phantom ship.");
+MsgDisp("Sassa","Because Inori is saying weird things, that
+boat is starting to look like a phantom
+ship.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -68,9 +68,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330A30101_06_020");
-MsgDisp("Himuro","Yes.
-It is, but if it sank
-the crew must be...");
+MsgDisp("Himuro","Yes. It is, but if it sank the crew must
+be...");
 ChEyeOpenLevel(1,8);
 ChEye(2,2);
 ChMouth(2,0);
@@ -90,10 +89,10 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30101_06_040");
-MsgDisp("Himuro","Even though both Nozomu-senpai and 
-Ryota-senpai are superhuman, it's 
-good that their weak point 
-is so easy to understand.");
+MsgDisp("Himuro","Even though both Nozomu-senpai and
+Ryota-senpai are superhuman, it's good
+that their weak point is so easy to
+understand.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -123,16 +122,14 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30101_01_030");
-MsgDisp("Kazama","Ugh...
-Today's pace was completely 
-set by Inori.");
+MsgDisp("Kazama","Ugh... Today's pace was completely set by
+Inori.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A30101_02_050");
-MsgDisp("Sassa","Yeah.
-Inori's affinity with the deep sea
+MsgDisp("Sassa","Yeah. Inori's affinity with the deep sea
 corner is definitely good.");
 MsgDisp("主人公","(｛氷室＊＊｝, maybe you're overwhelming
 those two more than usual today?)");

@@ -14,15 +14,14 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("L020D00001_22_010");
-MsgDisp("Hikaru","We wanted to make handmade
-chocolate with Mari, though.");
+MsgDisp("Hikaru","We wanted to make handmade chocolate with
+Mari, though.");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("L020D00001_21_000");
-MsgDisp("Michiru","Hikaru, it's fine.
-Mari thought it through herself.
-Right?");
+MsgDisp("Michiru","Hikaru, it's fine. Mari thought it through
+herself. Right?");
 MsgDisp("主人公","Hehe, thank you.");
 BGMStop();
 MsgClose();

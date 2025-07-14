@@ -10,8 +10,8 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_070");
 MsgDisp("Shirahane","I don't know if ya prefer soy sauce or
-ketchup, but I think they're
-both super delicious.");
+ketchup, but I think they're both super
+delicious.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -23,18 +23,16 @@ ChMouth(8,3);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_090");
 MsgDisp("Shirahane","That's tough...
-Fully-cooked is delicious ta eat, 
-But I like the runny yolk 
-when it's half-done! ");
+Fully-cooked is delicious ta eat, But I
+like the runny yolk when it's half-done!");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_100");
-MsgDisp("Shirahane","Damn...
-I really wanna eat fried eggs now.
+MsgDisp("Shirahane","Damn... I really wanna eat fried eggs now.
 I'm startin' ta get hungry too...");
-MsgDisp("主人公","(Hehe!
-He really likes sunny side up eggs!)");
+MsgDisp("主人公","(Hehe! He really likes sunny side up
+eggs!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

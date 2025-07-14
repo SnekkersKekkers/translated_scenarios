@@ -21,9 +21,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     MsgDispSksp(0);
     VoicePlay("B040318500_03_010");
-    MsgDisp("Honda","Yeah, it seems like they didn't 
-make the best use of the 
-original work huh?");
+    MsgDisp("Honda","Yeah, it seems like they didn't make the
+best use of the original work huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

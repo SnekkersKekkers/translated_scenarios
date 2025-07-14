@@ -13,20 +13,20 @@ ScrFadeIn(0);
 VoicePlay("B360523600_05_000");
 MsgDisp("Hiiragi","Phew, made it on time.");
 MsgDisp("主人公","Yeah, good thing.
-But ｛柊＊＊＊｝,
-do you enjoy night parades?");
+But ｛柊＊＊＊｝, do you enjoy night
+parades?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360523600_05_010");
-MsgDisp("Hiiragi","Well if anything...... I guess
-I like seeing you enjoy it?");
+MsgDisp("Hiiragi","Well if anything......
+I guess I like seeing you enjoy it?");
 MsgDisp("主人公","Umm......");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("B360523600_05_020");
 MsgDisp("Hiiragi","Is it no good?
-But it was written in the
-Habataki date guide, right?");
+But it was written in the Habataki date
+guide, right?");
 MsgDisp("主人公","Ehh?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -36,8 +36,8 @@ MsgDisp("Hiiragi","Haha, sorry.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360523600_05_040");
-MsgDisp("Hiiragi","But my feelings are the same
-as the ones written there.");
+MsgDisp("Hiiragi","But my feelings are the same as the ones
+written there.");
 MsgDisp("主人公","I wont be deceived anymore.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -73,8 +73,8 @@ ChClose(5,0,30);
 ChCheek(5,0);
 ChLayout(1);
 VoicePlay("B360523600_05_090");
-MsgDisp("Hiiragi","I'll make do with your side
-profile for today.");
+MsgDisp("Hiiragi","I'll make do with your side profile for
+today.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

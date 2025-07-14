@@ -20,15 +20,16 @@ I knew you'd understand.");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("B040304300_03_010");
-    MsgDisp("Honda","Eh, really? I laughed so hard my stomach 
-hurt.");
+    MsgDisp("Honda","Eh, really?
+I laughed so hard my stomach hurt.");
     MsgDateResultDisp();
     break ;
     case 2:
     DateRateSet(2);
     ChSet(3,0);
     VoicePlay("B040304300_03_020");
-    MsgDisp("Honda","Is that so? Everyone has their own tastes.");
+    MsgDisp("Honda","Is that so?
+Everyone has their own tastes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

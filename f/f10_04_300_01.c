@@ -9,8 +9,8 @@ MsgDisp("Nanatsumori?","No...
 I haven't decided yet.");
 MsgDisp("主人公","(Hm? This voice...)");
 VoicePlay("F100430001_22_010");
-MsgDisp("Hikaru?","Then what are you going to do 
-with that wig and outfit?
+MsgDisp("Hikaru?","Then what are you going to do with that
+wig and outfit?
 Are you going to throw it all away?");
 VoicePlay("F100430001_04_010");
 MsgDisp("Nanatsumori?","Hikaru-san, if there's anything you like
@@ -66,9 +66,9 @@ ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("F100430001_22_040");
 MsgDisp("Hikaru","Oh no...
-I thought she found out long ago and 
-were having this kind of girl talk.");
-MsgDisp("主人公","(Girl talk with ｛七ツ森＊｝?)");
+I thought she found out long ago and were
+having this kind of girl talk.");
+MsgDisp("主人公","(Girl talk with ｛七ツ森＊｝? )");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);

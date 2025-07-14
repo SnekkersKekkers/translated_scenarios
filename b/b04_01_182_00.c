@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040118200_01_000");
-    MsgDisp("Kazama","Yeah, a masterpiece of Japanese 
-horror was born.");
+    MsgDisp("Kazama","Yeah, a masterpiece of Japanese horror was
+born.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,9 +23,8 @@ horror was born.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040118200_01_010");
-    MsgDisp("Kazama","It feels like it was made with ideas
-and passion, I like this 
-sort of thing.");
+    MsgDisp("Kazama","It feels like it was made with ideas and
+passion, I like this sort of thing.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -34,9 +33,8 @@ sort of thing.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040118200_01_020");
-    MsgDisp("Kazama","I see. So it was no good.
-Isn't that fine? People will either
-love this or hate this.");
+    MsgDisp("Kazama","I see. So it was no good. Isn't that fine?
+People will either love this or hate this.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

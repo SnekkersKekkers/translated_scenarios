@@ -34,6 +34,6 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("S110600001_06_040");
-MsgDisp("Himuro","Well, I went through all that
-trouble...I might as well keep it.");
+MsgDisp("Himuro","Well, I went through all that trouble...I
+might as well keep it.");
 MsgDisp("主人公","(......Are you actually really happy?)");

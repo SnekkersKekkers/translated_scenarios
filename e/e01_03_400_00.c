@@ -1,11 +1,11 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yeah, I think it's time to go home
-now. Wait, over there, is that......)");
+MsgDisp("主人公","(Yeah, I think it's time to go home now.
+Wait, over there, is that......)");
 VoicePlay("E010340000_22_000");
-MsgDisp("Hikaru?","Because～......
-I don't like being called that!");
+MsgDisp("Hikaru?","Because～...... I don't like being called
+that!");
 VoicePlay("E010340000_03_000");
 MsgDisp("Honda?","Do you not like it?
 Pika-chan.");
@@ -19,8 +19,8 @@ ChMouth(22,5);
 ChMotion(22,3,1);
 VoicePlay("E010340000_22_010");
 MsgDisp("Hikaru","Ah, Mari!
-Don't you think Dahon is
-calling Hikaru something weird?");
+Don't you think Dahon is calling Hikaru
+something weird?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -38,8 +38,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("E010340000_03_020");
 MsgDisp("Honda","Is that so?
-I actually like Pika-chan's sense
-for nicknaming though?");
+I actually like Pika-chan's sense for
+nicknaming though?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
@@ -56,11 +56,11 @@ ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("E010340000_22_040");
-MsgDisp("Hikaru","Even if Dahon sympathizes with me,
-it's a bit weird......
+MsgDisp("Hikaru","Even if Dahon sympathizes with me, it's a
+bit weird......
 What do you think, Mari?");
-MsgDisp("主人公","Well...... both are unique
-I like them both.");
+MsgDisp("主人公","Well...... both are unique I like them
+both.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -80,10 +80,9 @@ ChPosition(3,0);
 MsgDisp("主人公","Uh, yeah, bye bye.");
 ChSet(3,3);
 VoicePlay("E010340000_03_040");
-MsgDisp("Honda","Amazing.
-Pika-chan listens to you?
-I'm counting on you next time
-Chiru-chan gets angry with me.");
+MsgDisp("Honda","Amazing. Pika-chan listens to you? I'm
+counting on you next time Chiru-chan gets
+angry with me.");
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010340000_03_050");
@@ -91,9 +90,8 @@ MsgDisp("Honda","See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Chiru-chan......
-He's talking about ｛みちる＊｝, right?
-That seems like it could be a
-problem too......)");
+MsgDisp("主人公","(Chiru-chan...... He's talking about
+｛みちる＊｝, right? That seems like it
+could be a problem too......)");
 MsgClose();
 ScrFadeOut(0,0);

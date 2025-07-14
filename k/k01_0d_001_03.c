@@ -8,11 +8,11 @@ ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("K010D00103_22_000");
-MsgDisp("Hikaru","This may be something that'll only
-happen once in our lives.
+MsgDisp("Hikaru","This may be something that'll only happen
+once in our lives.
 Super rare.");
-MsgDisp("主人公","(Hmm, it doesn't look
-like they were too pleased......)");
+MsgDisp("主人公","(Hmm, it doesn't look like they were too
+pleased......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

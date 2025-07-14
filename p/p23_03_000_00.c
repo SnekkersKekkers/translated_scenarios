@@ -16,8 +16,8 @@ switch (ChPrmGet(3,6)){
     case 5:
     VoicePlay("P230300000_03_000");
     MsgDisp("Honda","Mitsuhime, sorry to have kept you waiting.");
-    MsgDisp("主人公","Hehe, ｛本多＊＊｝......
-Or should I say Kanbei-sama?");
+    MsgDisp("主人公","Hehe, ｛本多＊＊｝...... Or should I say
+Kanbei-sama?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -61,8 +61,8 @@ shortly.");
     MsgDisp("Honda","Now, let's go to battle!");
     MsgDisp("主人公","Y-Yeah!");
     MsgDisp("主人公","('Our version of Kuroda Kanbei and
-Mitsuhime', huh...... ｛本多＊＊｝, are you
-scheming something??)");
+Mitsuhime', huh......
+｛本多＊＊｝, are you scheming something??)");
     break ;
     default :
     DbgAssert(1);

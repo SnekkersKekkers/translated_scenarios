@@ -11,16 +11,15 @@ switch (ChPrmGet(3,6)){
     ChEyeOpenLevel(3,6);
     VoicePlay("N020300003_03_000");
     MsgDisp("Honda","Oof...");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-What's wrong?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. What's wrong?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4);
     ChEyeOpenLevel(3,#1);
     VoicePlay("N020300003_03_010");
     MsgDisp("Honda","I was trying to look for your name from
-the top, but my eyes got tired before
-I found it... Sorry.");
+the top, but my eyes got tired before I
+found it... Sorry.");
     MsgDisp("主人公","(Oof...
 I've got to study harder...)");
     break ;

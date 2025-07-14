@@ -3,8 +3,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I was able to give my best
-performance of three years.
+MsgDisp("主人公","(I was able to give my best performance of
+three years.
 I'm glad...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -19,8 +19,8 @@ ChMotion(1,3);
 VoicePlay("P540100004_01_010");
 MsgDisp("Kazama","That was a good performance.
 The world's best.");
-MsgDisp("主人公","That... you're exaggerating.
-But, thank you.");
+MsgDisp("主人公","That... you're exaggerating. But, thank
+you.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -32,10 +32,10 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P540100004_01_030");
-MsgDisp("Kazama","Although that was a good performance, 
-When I think about how you gave 
-it your all these last three years, 
-I could somewhat cry.");
+MsgDisp("Kazama","Although that was a good performance, When
+I think about how you gave it your all
+these last three years, I could somewhat
+cry.");
 MsgDisp("主人公","Hey...
 Aren't you talking like a parent?");
 ChEye(1,4);
@@ -45,8 +45,8 @@ VoicePlay("P540100004_01_040");
 MsgDisp("Kazama","Yes, that's exactly it.
 You really gave it your best.");
 MsgDisp("主人公","｛風真＊＊｝...");
-MsgDisp("主人公","(Seems like he was super satisfied! I'm
-truly happy I gave my best at the wind
+MsgDisp("主人公","(Seems like he was super satisfied!
+I'm truly happy I gave my best at the wind
 music club for these last three years.");
 MsgClose();
 ScrFadeOut(0,0);

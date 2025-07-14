@@ -13,9 +13,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B180600000_06_010");
-MsgDisp("Himuro","I was thinking of calling
-you that from now on. Calling 
-you by your last name is too formal.");
+MsgDisp("Himuro","I was thinking of calling you that from
+now on. Calling you by your last name is
+too formal.");
 MsgSel("Yeah, that's fine.","Mm~, that's a little...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,8 +23,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B180600000_06_020");
-    MsgDisp("Himuro","Thanks.
-...Well, it's not really a matter 
+    MsgDisp("Himuro","Thanks. ...Well, it's not really a matter
 of asking permission.");
     MsgDisp("主人公","(I feel kind of flustered...)");
     break ;

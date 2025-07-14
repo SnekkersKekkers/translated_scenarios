@@ -23,7 +23,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","It's alright. I'm not going to give up.");
+MsgDisp("Himuro","It's alright.
+I'm not going to give up.");
 MsgDisp("主人公","Eh......?");
 VoicePlay("T020601000_06_340");
 ChEye(6,0);
@@ -48,8 +49,7 @@ VoicePlay("T020601000_06_370");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","Until then......
-I'll wait patiently. 
+MsgDisp("Himuro","Until then...... I'll wait patiently.
 Senpai?");
 BGMStop(3.6);
 MsgClose();

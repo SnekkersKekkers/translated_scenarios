@@ -22,9 +22,8 @@ VoicePlay("G110300400_03_010");
 MsgDisp("Honda","I wonder what I would've thought of it if
 I had seen the movie before reading the
 original work?");
-MsgDisp("主人公","Hehe. 
-But you can't forget it now, 
-so you can't know.");
+MsgDisp("主人公","Hehe. But you can't forget it now, so you
+can't know.");
 ChEye(3,0);
 ChMouth(3,2);
 ChMotion(3,1);
@@ -58,16 +57,16 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300400_03_060");
-MsgDisp("Honda","Then the contents resurface in my mind. If
-I do this a few times, it'll become stuck
-in my memories.");
+MsgDisp("Honda","Then the contents resurface in my mind.
+If I do this a few times, it'll become
+stuck in my memories.");
 MsgDisp("主人公","I see.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300400_03_070");
 MsgDisp("Honda","That's right.
-That's why I think it's important to 
+That's why I think it's important to
 organize your bookshelf like this.");
 MsgDisp("主人公","(For ｛本多＊＊｝, it wasn't about
 organizing, but a chance to remember the

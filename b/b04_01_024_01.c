@@ -12,8 +12,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B040102401_01_000");
-MsgDisp("Kazama","That's terrible. What was that, a hacksaw
-to cutting something?");
+MsgDisp("Kazama","That's terrible.
+What was that, a hacksaw to cutting
+something?");
 MsgSel("It's like something's about to happen...","That's the sound of our image","Is it broken?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -45,8 +46,7 @@ The sound of the world coming to an end.");
     ChEyeOpenLevel(1,#1);
     VoicePlay("B040102401_01_030");
     MsgDisp("Kazama","Oh, that's got to be it.
-There's no way that we sound
-like that.");
+There's no way that we sound like that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

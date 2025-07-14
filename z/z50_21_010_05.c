@@ -13,14 +13,14 @@ ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("Z502101005_21_010");
 MsgDisp("Michiru","Don't dress so lightly this season.
-And try to think about wearing
-trendy items a little more.");
+And try to think about wearing trendy
+items a little more.");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("Z502101005_21_020");
-MsgDisp("Michiru","In the column Hikaru and I write,
-there's a section on trends.
+MsgDisp("Michiru","In the column Hikaru and I write, there's
+a section on trends.
 Check it out, okay?");
 MsgDisp("主人公","(The season and the trends......
 Let's be more careful from now on.)");

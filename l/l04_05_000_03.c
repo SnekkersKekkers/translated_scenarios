@@ -12,8 +12,9 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500003_05_010");
-    MsgDisp("Hiiragi","I see...... it must have been difficult
-to make something this elaborate.");
+    MsgDisp("Hiiragi","I see......
+it must have been difficult to make
+something this elaborate.");
     ChMotion(5,3);
     VoicePlay("L040500003_05_020");
     MsgDisp("Hiiragi","I will savor each bite.
@@ -22,8 +23,8 @@ Thank you very much.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Thank goodness,
-it seemed like he liked it!)");
+    MsgDisp("主人公","(Thank goodness, it seemed like he liked
+it!)");
     break ;
     case 3:
     ChEye(5,4);
@@ -47,16 +48,16 @@ choosing it.");
     ChMotion(5,0);
     VoicePlay("L040500003_05_050");
     MsgDisp("Hiiragi","Yes, it's quite the masterpiece.
-I almost want to decorate the theater
-with it.");
-    MsgDisp("主人公","What!?　That's no good.
-Make sure to eat it.");
+I almost want to decorate the theater with
+it.");
+    MsgDisp("主人公","What!? That's no good. Make sure to eat
+it.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("L040500003_05_060");
-    MsgDisp("Hiiragi","I see...... Then, I shall return and
-boast to everyone in the theatre company
-before eating it.");
+    MsgDisp("Hiiragi","I see......
+Then, I shall return and boast to everyone
+in the theatre company before eating it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -80,8 +81,8 @@ I put some effort in.");
     VoicePlay("L040500003_05_080");
     MsgDisp("Hiiragi","Some? Then, if you were to get more
 serious...... How frightening.");
-    MsgDisp("主人公","Hehe, if I got serious, it
-wouldn't lose even to the best chocolate!");
+    MsgDisp("主人公","Hehe, if I got serious, it wouldn't lose
+even to the best chocolate!");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -94,9 +95,9 @@ matter anymore.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("L040500003_05_100");
-    MsgDisp("Hiiragi","Indeed. Well then,
-I will eat this quietly by myself at
-home, such that I do not have to share.");
+    MsgDisp("Hiiragi","Indeed. Well then, I will eat this quietly
+by myself at home, such that I do not have
+to share.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

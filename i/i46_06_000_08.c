@@ -15,9 +15,9 @@ switch (ChPrmGet(6,6)){
     VoicePlay("I460600008_06_000");
     MsgDisp("Himuro","Preparations for opening are?");
     MsgDisp("主人公","Perfect.");
-    MsgDisp("主人公","Ah, here's the delivery address
-and slip. The flowers to be delivered
-are prepared, too.");
+    MsgDisp("主人公","Ah, here's the delivery address and slip.
+The flowers to be delivered are prepared,
+too.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -36,16 +36,16 @@ managing it");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600008_06_030");
-    MsgDisp("Himuro","I'm thinking that I should smack
-our manager since they've been slacking
-and leaving all the work to you recently.");
+    MsgDisp("Himuro","I'm thinking that I should smack our
+manager since they've been slacking and
+leaving all the work to you recently.");
     MsgDisp("主人公","Huh∋");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("I460600008_06_040");
-    MsgDisp("Himuro","You're the only one who can
-manage like our manager.
+    MsgDisp("Himuro","You're the only one who can manage like
+our manager.
 I'm counting on you.");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Alright, let's work hard
@@ -66,16 +66,16 @@ popular thanks to a certain someone.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600008_06_060");
-    MsgDisp("Himuro","\"There's a clerk who's
-knowledgeable and friendly, too\".
+    MsgDisp("Himuro","\"There's a clerk who's knowledgeable and
+friendly, too\".
 ......It's you, isn't it.");
     MsgDisp("主人公","What!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("I460600008_06_070");
-    MsgDisp("Himuro","What are you going to do with all
-the knowledge, anyways?
+    MsgDisp("Himuro","What are you going to do with all the
+knowledge, anyways?
 Aiming to be a florist in the future?");
     MsgDisp("主人公","I haven't thought that far ahead......");
     ChEye(6,0);
@@ -91,15 +91,15 @@ Why don't you consider it as an option?");
     VoicePlay("I460600008_06_090");
     MsgDisp("Himuro","If you make it big,
 I'll have you hire me.");
-    MsgDisp("主人公","Running a flower shop with
-｛氷室＊＊｝, huh.
+    MsgDisp("主人公","Running a flower shop with ｛氷室＊＊｝,
+huh.
 It might be nice.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I460600008_06_100");
-    MsgDisp("Himuro","......Just so you know,
-I'll have you pay me a high salary.");
+    MsgDisp("Himuro","......Just so you know, I'll have you pay
+me a high salary.");
     MsgDisp("主人公","Hehe.
 Then work hard for it, 'kay?");
     ChEye(6,0);

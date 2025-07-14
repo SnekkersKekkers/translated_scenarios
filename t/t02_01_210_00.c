@@ -11,8 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C01_RYOUTA_KOKU",0.01);
 ChOpen(1,254,0,0,3,#1,#1,0,0,0,120);
-MsgDisp("主人公","｛風真＊＊｝......!
-Why......");
+MsgDisp("主人公","｛風真＊＊｝......! Why......");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -20,7 +19,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020121000_01_010");
 MsgDisp("Kazama","I hurriedly came to school from the
-airport. Sorry, I left you alone.");
+airport.
+Sorry, I left you alone.");
 MsgDisp("主人公","......No, I wasn't alone.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -53,17 +53,17 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020121000_01_050");
-MsgDisp("Kazama","Honda got really hyped up when he 
-connected it to the church legend,
-and Nanatsumori took care of him for me.");
+MsgDisp("Kazama","Honda got really hyped up when he
+connected it to the church legend, and
+Nanatsumori took care of him for me.");
 MsgDisp("主人公","Oh I see.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020121000_01_060");
-MsgDisp("Kazama","Those guys always help me. But in the end
-it's up to me.");
+MsgDisp("Kazama","Those guys always help me.
+But in the end it's up to me.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 Wait(30,0);
@@ -71,9 +71,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("T020121000_01_070");
-MsgDisp("Kazama","I was supposed to train at my grandpa's 
-shop for three years and then go back 
-to England.");
+MsgDisp("Kazama","I was supposed to train at my grandpa's
+shop for three years and then go back to
+England.");
 MsgDisp("主人公","Eh......");
 ChEye(1,4);
 ChMouth(1,3);
@@ -140,7 +140,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020121000_01_150");
-MsgDisp("Kazama","I couldn't bring myself to tell him I was 
+MsgDisp("Kazama","I couldn't bring myself to tell him I was
 staying here. But I... finally told him.");
 MsgDisp("主人公","......Okay.");
 ChEyeOpenLevel(1,0);

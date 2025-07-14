@@ -20,15 +20,15 @@ VoicePlay("E010220000_01_000");
 MsgDisp("Kazama","Hahh...... Hahhh......");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","｛颯砂＊＊｝, ｛風真＊＊｝!
-What are you guys doing?");
+MsgDisp("主人公","｛颯砂＊＊｝, ｛風真＊＊｝! What are you
+guys doing?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010220000_02_020");
-MsgDisp("Sassa","We were eating a hamburger,
-and then Ryota said you were in the shop 
-right next to us!");
+MsgDisp("Sassa","We were eating a hamburger, and then Ryota
+said you were in the shop right next to
+us!");
 MsgDisp("主人公","The burger shop......
 Ah, this one right here?
 But that was a long time ago.");
@@ -73,8 +73,8 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010220000_01_030");
-MsgDisp("Kazama","Who's the one who started running 
-before saying anything?");
+MsgDisp("Kazama","Who's the one who started running before
+saying anything?");
 MsgDisp("主人公","Huhu, so that's how it went?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -91,8 +91,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010220000_02_060");
-MsgDisp("Sassa","Alright, then we can hang out
-together if you're done.");
+MsgDisp("Sassa","Alright, then we can hang out together if
+you're done.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,0);

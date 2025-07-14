@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040310400_03_000");
 MsgDisp("Honda","It's theorised that insects originated
 from around 400 million years ago.
-They're humanity's great, great senpai!'");
+They're humanity's great, great senpai!");
 MsgSel("Let's go greet our senpai!","I'm might not be very good with this senpai...","I'm alright with butterflies!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040310400_03_010");
     MsgDisp("Honda","Yep yep.
-Then let's start with the world's biggest 
+Then let's start with the world's biggest
 dragonfly——the giant petaltail!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -31,8 +31,9 @@ dragonfly——the giant petaltail!");
     ChMotion(3,0,1);
     ChEyeOpenLevel(3,8);
     VoicePlay("B040310400_03_020");
-    MsgDisp("Honda","Is that so? They're the great seniors of
-the earth though.");
+    MsgDisp("Honda","Is that so?
+They're the great seniors of the earth
+though.");
     MsgDateResultDisp();
     break ;
     case 2:

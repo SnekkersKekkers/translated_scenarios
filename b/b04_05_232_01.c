@@ -26,9 +26,8 @@ But, I woke up at the very top.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040523201_05_020");
-    MsgDisp("Hiiragi","With you here, 
-we can go sightseeing around Habataki
-city in the ferris wheel.");
+    MsgDisp("Hiiragi","With you here, we can go sightseeing
+around Habataki city in the ferris wheel.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,9 +38,8 @@ city in the ferris wheel.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040523201_05_030");
-    MsgDisp("Hiiragi","Hey, next time tell me
-when you can see it.
-Okay?");
+    MsgDisp("Hiiragi","Hey, next time tell me when you can see
+it. Okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

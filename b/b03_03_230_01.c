@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0,1);
     VoicePlay("B030323001_03_010");
     MsgDisp("Honda","Sounds good, they say you have to get used
-to it, right? Let's go!");
+to it, right?
+Let's go!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -78,8 +79,8 @@ I knew you'd choose that.");
     ChMouth(3,2);
     ChMotion(3,2);
     VoicePlay("B030323001_03_070");
-    MsgDisp("Honda","You can't... Do that alone,
-you know.");
+    MsgDisp("Honda","You can't...
+Do that alone, you know.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -100,8 +101,8 @@ you know.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B030323001_03_090");
-    MsgDisp("Honda","Alright!
-Now we can figure out how fear works!");
+    MsgDisp("Honda","Alright! Now we can figure out how fear
+works!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -115,8 +116,8 @@ Now we can figure out how fear works!");
     ScrFadeIn(0);
     VoicePlay("B030323001_03_100");
     MsgDisp("Honda","Well, let's go.
-You can tell me what the scariest
-part was later.");
+You can tell me what the scariest part was
+later.");
     break ;
     default :
     DbgAssert(0);

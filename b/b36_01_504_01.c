@@ -20,9 +20,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360150401_01_010");
-MsgDisp("Kazama","Really?
-We fit in just fine though.
-So it's not an issue."); 
+MsgDisp("Kazama","Really? We fit in just fine though. So
+it's not an issue."); 
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -64,8 +63,8 @@ MsgDisp("主人公","Wait, don't pull so hard!");
 VoicePlay("B360150401_01_070");
 MsgDisp("Kazama","Let's go over there.
 There's an even better view.");
-MsgDisp("主人公","(Somehow ｛風真＊＊｝
-looks like an excited puppy.)");
+MsgDisp("主人公","(Somehow ｛風真＊＊｝ looks like an
+excited puppy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

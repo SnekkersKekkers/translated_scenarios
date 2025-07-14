@@ -9,8 +9,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040503202_05_000");
-MsgDisp("Hiiragi","The light passing through
-the tube tank is beautiful.
+MsgDisp("Hiiragi","The light passing through the tube tank is
+beautiful.
 This is a sun and water garden.");
 MsgSel("Sun・and・Water Garden!","If people could enter the tube, it would become popular.","It's like we're in the south sea huh");
 switch (MsgSelRsltGet()){
@@ -56,43 +56,40 @@ consideration.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040503202_05_050");
-        MsgDisp("Hiiragi","Properly speaking, 
-Even though I'm the one who should
-be making sure you're having fun,
-it's pathetic of me.");
+        MsgDisp("Hiiragi","Properly speaking, Even though I'm the one
+who should be making sure you're having
+fun, it's pathetic of me.");
         MsgDisp("主人公","No, I'm always having fun.");
         ChEye(5,0);
         ChMouth(5,3);
         ChMotion(5,3);
         VoicePlay("B040503202_05_060");
-        MsgDisp("Hiiragi","I'm sorry.
-I'll be the one entering the tube 
-and swimming. In order to rid
-myself of my dullness.");
-        MsgDisp("主人公","Umm, the thing about entering a tube
-was a joke, so it's not doable?");
+        MsgDisp("Hiiragi","I'm sorry. I'll be the one entering the
+tube and swimming. In order to rid myself
+of my dullness.");
+        MsgDisp("主人公","Umm, the thing about entering a tube was a
+joke, so it's not doable?");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040503202_05_070");
-        MsgDisp("Hiiragi","Hey, how clueless do you think I am? I
-won't go in, I don't have my swimsuit with
-me today.");
+        MsgDisp("Hiiragi","Hey, how clueless do you think I am?
+I won't go in, I don't have my swimsuit
+with me today.");
         MsgDisp("主人公","Hehe, come on.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040503202_05_080");
-        MsgDisp("Hiiragi","You finally smiled.
-This is somewhat nice.
-When the person you like
-laughs at your words.");
+        MsgDisp("Hiiragi","You finally smiled. This is somewhat nice.
+When the person you like laughs at your
+words.");
         MsgDisp("主人公","...Eh?");
         ChEye(5,3);
         VoicePlay("B040503202_05_090");
         MsgDisp("Hiiragi","I could grow accustomed to this.
 From now on, prepare yourself, okay?");
-        MsgDisp("主人公","(｛柊＊＊＊｝...
-Just now, did you say \"Person you like\"?)");
+        MsgDisp("主人公","(｛柊＊＊＊｝... Just now, did you say
+\"Person you like\"?)");
         break ;
         default :
         DbgAssert(1);

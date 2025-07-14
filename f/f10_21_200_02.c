@@ -9,9 +9,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F102120002_21_000");
-MsgDisp("Michiru","Mari.
-You're looking lively
-and cute today too.");
+MsgDisp("Michiru","Mari. You're looking lively and cute today
+too.");
 MsgDisp("主人公","Come on, ｛みちる＊｝!
 I'm embarrassed....");
 ChClose(21,0,30);
@@ -32,8 +31,7 @@ VoicePlay("F102120002_06_010");
 MsgDisp("Himuro","...Goodbye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","???
-What's up with ｛氷室＊＊｝?");
+MsgDisp("主人公","??? What's up with ｛氷室＊＊｝?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -53,24 +51,24 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102120002_21_030");
-MsgDisp("Michiru","I don't know which of us he's 
-referring to. Even though most other
-people would call us by our first names.");
+MsgDisp("Michiru","I don't know which of us he's referring
+to. Even though most other people would
+call us by our first names.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F102120002_21_040");
-MsgDisp("Michiru","So when I asked him if he should 
-call me by my first name, he avoided 
-me for some reason. He's a weird boy.");
+MsgDisp("Michiru","So when I asked him if he should call me
+by my first name, he avoided me for some
+reason. He's a weird boy.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102120002_21_050");
 MsgDisp("Michiru","...Hey, what does he call you, Mari?");
 MsgDisp("主人公","(Isn't it actually kind of embarrassing
-for ｛氷室＊＊｝ to call girls by
-their first names?)");
+for ｛氷室＊＊｝ to call girls by their
+first names?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

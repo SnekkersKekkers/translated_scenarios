@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B030203002_02_010");
     MsgDisp("Sassa","Alright, I agree.
-This kind of matching taste
-is a pretty good thing.");
+This kind of matching taste is a pretty
+good thing.");
     MsgDispSksp(0);
     break ;
     case 1:

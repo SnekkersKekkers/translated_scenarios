@@ -32,7 +32,8 @@ It's already late.");
     ChCheek(4,7);
     VoicePlay("B060400012_04_020");
     MsgDisp("Nanatsumori","I'll walk you home.
-I want to... stay a little longer.");
+I want to...
+stay a little longer.");
     MsgDispSksp(0);
     break ;
     default :

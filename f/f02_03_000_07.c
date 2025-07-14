@@ -19,21 +19,21 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("F020300007_03_010");
 MsgDisp("Honda","Oh, and insect collecting.
-To see a bug I've only seen in books
-with my own eyes...!");
+To see a bug I've only seen in books with
+my own eyes...!");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("F020300007_03_020");
-MsgDisp("Honda","—that would be ideal. 
+MsgDisp("Honda","—that would be ideal.
 Unfortunately, I've already investigated
 every bug in my neighborhood.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("F020300007_03_030");
-MsgDisp("Honda","Although,
-it'd be different if I could go abroad.");
+MsgDisp("Honda","Although, it'd be different if I could go
+abroad.");
 MsgDisp("主人公","To see foreign bugs?");
 ChSet(3,3);
 VoicePlay("F020300007_03_040");

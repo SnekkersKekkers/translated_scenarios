@@ -6,9 +6,9 @@ SEWait();
 VoicePlay("J010600001_47_000");
 MsgDisp("Voice Mail","You've reached the voicemail service.");
 VoicePlay("J010600001_47_010");
-MsgDisp("Voice Mail","The person you're trying to reach
-is unable to answer the phone at the 
-moment. Please leave a message.");
+MsgDisp("Voice Mail","The person you're trying to reach is
+unable to answer the phone at the moment.
+Please leave a message.");
 MsgDisp("主人公","Huh, what should I do......");
 MsgSel("Leave a message","Hang up the phone");
 switch (MsgSelRsltGet()){

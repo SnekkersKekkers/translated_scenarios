@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040215101_02_020");
     MsgDisp("Sassa","Sounds good!
-Then, firstly, where do you look
-when you're throwing?");
+Then, firstly, where do you look when
+you're throwing?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

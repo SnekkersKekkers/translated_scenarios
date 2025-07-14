@@ -40,14 +40,14 @@ VoicePlay("G110400704_04_030");
 MsgDisp("Nanatsumori","...Hey.");
 MsgDisp("主人公","Yes?");
 VoicePlay("G110400704_04_040");
-MsgDisp("Nanatsumori","Do you do this to the
-other customers earlier?");
+MsgDisp("Nanatsumori","Do you do this to the other customers
+earlier?");
 MsgDisp("主人公","Earlier...");
 ChEye(4,0);
 ChMouth(4,1);
 VoicePlay("G110400704_04_050");
-MsgDisp("Nanatsumori","You know, saying that they should
-come back once they are out of work.");
+MsgDisp("Nanatsumori","You know, saying that they should come
+back once they are out of work.");
 MsgDisp("主人公","Not particularly.
 Do you not like when I do that?");
 ChEye(4,1);

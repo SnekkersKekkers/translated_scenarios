@@ -5,7 +5,8 @@ SEPlay("EV_SE_049");
 SEPlay("EV_SE_006",0,0.4);
 SEWait();
 VoicePlay("M010200000_02_000");
-MsgDisp("Sassa?","She's sleeping...... S-Sorry.
+MsgDisp("Sassa?","She's sleeping......
+S-Sorry.
 Ah, no, it's fine.");
 MsgDisp("主人公","Ehh∋　this voice is......");
 SEPlay("EV_SE_DOOR_024");
@@ -47,7 +48,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("M010200000_02_050");
 MsgDisp("Sassa","I gave up and cut it short.
-Either way, I was wondering about you so 
+Either way, I was wondering about you so
 my body wasn't feeling it.");
 MsgDisp("主人公","Di, did you? I'm sorry. I'm resting a lot,
 I think I can go to school soon.");
@@ -73,8 +74,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("M010200000_02_090");
-MsgDisp("Sassa","Ah, I'll go now. A big guy taking up
-space's just in the way.");
+MsgDisp("Sassa","Ah, I'll go now.
+A big guy taking up space's just in the
+way.");
 MsgDisp("主人公","Oh, that's not true at all.
 But, thanks.
 Watch your head, okay?");
@@ -93,5 +95,6 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(｛颯砂＊＊｝ made me feel better. Alright,
-time to sleep more and heal up quick!)");
+MsgDisp("主人公","(｛颯砂＊＊｝ made me feel better.
+Alright, time to sleep more and heal up
+quick!)");

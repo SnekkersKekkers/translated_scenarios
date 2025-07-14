@@ -16,8 +16,8 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("S120600002_06_040");
     MsgDisp("Himuro","......Were you fine being with me?
-On the last New Years of your high 
-school years.");
+On the last New Years of your high school
+years.");
     MsgDisp("主人公","Eh, what do you mean?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -31,15 +31,14 @@ with?");
     ChMouth(6,3);
     ChMotion(6,5);
     VoicePlay("S120600002_06_060");
-    MsgDisp("Himuro","Sigh......
-What a lack of confidence in that
-answer.");
+    MsgDisp("Himuro","Sigh...... What a lack of confidence in
+that answer.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("S120600002_06_070");
-    MsgDisp("Himuro","Well, if there's nothing else to
-do next year, I'll go with you again.");
+    MsgDisp("Himuro","Well, if there's nothing else to do next
+year, I'll go with you again.");
     MsgDisp("主人公","Hehe, thank you.");
     ChEye(6,0);
     ChMouth(6,4);
@@ -52,8 +51,7 @@ Happy New Years.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(My last New Years in high
-school......
+    MsgDisp("主人公","(My last New Years in high school......
 It went by so quickly.)");
     break ;
     case 4:
@@ -70,24 +68,23 @@ It went by so quickly.)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S120600002_06_120");
-    MsgDisp("Himuro","I'll give you a proper send-off
-at the graduation ceremony.");
+    MsgDisp("Himuro","I'll give you a proper send-off at the
+graduation ceremony.");
     MsgDisp("主人公","Eh?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S120600002_06_130");
-    MsgDisp("Himuro","Your graduation.
-I've been avoiding it for a while......
-But now I feel like I'm ready to let you
-go.");
+    MsgDisp("Himuro","Your graduation. I've been avoiding it for
+a while...... But now I feel like I'm
+ready to let you go.");
     MsgDisp("主人公","｛氷室＊＊｝......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("S120600002_06_140");
-    MsgDisp("Himuro","Graduation doesn't have to mean
-goodbye, right?");
+    MsgDisp("Himuro","Graduation doesn't have to mean goodbye,
+right?");
     MsgDisp("主人公","Yeah!");
     ChEye(6,0);
     ChMouth(6,3);

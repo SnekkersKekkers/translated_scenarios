@@ -33,8 +33,8 @@ ChMotion(5,0);
 VoicePlay("K020500000_05_030");
 MsgDisp("Hiiragi","I glad I got to see that face.
 Well then, apologies for the sudden visit.");
-MsgDisp("主人公","Hehe, I was surprised,
-but I'm really happy.");
+MsgDisp("主人公","Hehe, I was surprised, but I'm really
+happy.");
 ChEye(5,4);
 VoicePlay("K020500000_05_040");
 MsgDisp("Hiiragi","I see.
@@ -45,6 +45,6 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(I got a present from ｛柊＊＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛柊＊＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

@@ -31,8 +31,8 @@ I should've tried harder.)");
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("O020500001_05_020");
-    MsgDisp("Hiiragi","Yes, it doesn't look like you
-have any injuries.
+    MsgDisp("Hiiragi","Yes, it doesn't look like you have any
+injuries.
 Thank you for your hard work.");
     MsgDisp("主人公","(Haa, but I wanted to win......
 I should've tried harder.)");

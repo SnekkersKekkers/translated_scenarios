@@ -14,14 +14,13 @@ We prepared herb tea and cookies but...)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P630500000_05_000");
     MsgDisp("Hiiragi","Good day.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-You came.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! You came.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P630500000_05_010");
-    MsgDisp("Hiiragi","Yes. I heard I could
-partake in some delicious tea.");
+    MsgDisp("Hiiragi","Yes. I heard I could partake in some
+delicious tea.");
     MsgDisp("主人公","Yeah. Using the herbs the Horticulture
 club grew, we made some herb tea and
 cookies.");
@@ -44,8 +43,7 @@ We prepared herb tea and cookies but...)");
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("P630500000_05_030");
     MsgDisp("Hiiragi","Pardon the intrusion.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-You came?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! You came?");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

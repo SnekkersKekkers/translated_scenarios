@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040319200_03_000");
-    MsgDisp("Honda","Right.
-I ended up empathizing with that cat too!");
+    MsgDisp("Honda","Right. I ended up empathizing with that
+cat too!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,9 +24,9 @@ I ended up empathizing with that cat too!");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040319200_03_010");
-    MsgDisp("Honda","Did you watch that cat's 
-performance properly? You should
-give it a bit more credit.");
+    MsgDisp("Honda","Did you watch that cat's performance
+properly?
+You should give it a bit more credit.");
     MsgDateResultDisp();
     break ;
     case 2:

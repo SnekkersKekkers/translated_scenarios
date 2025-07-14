@@ -14,10 +14,10 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(7);
     VoicePlay("P230700001_07_000");
-    MsgDisp("Mikage","｛主人公｝.
-How is the Leifeng Pagoda set?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. It's a bit slanted, but
-we somehow made it in time.");
+    MsgDisp("Mikage","｛主人公｝. How is the Leifeng Pagoda
+set?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. It's a bit slanted,
+but we somehow made it in time.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -25,7 +25,7 @@ we somehow made it in time.");
     MsgDisp("Mikage","Oh, that's good huh?
 The slant gives it a more ominous look.");
     MsgDisp("主人公","Hey, this is no laughing matter.
-If it collapses, the play will be ruined. 
+If it collapses, the play will be ruined.
 I'll fix it straight away.");
     VoicePlay("P230700001_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin

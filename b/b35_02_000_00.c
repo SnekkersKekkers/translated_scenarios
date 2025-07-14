@@ -4,8 +4,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("B350200000_02_000");
 MsgDisp("Sassa?","｛主人公｝.");
-MsgDisp("主人公","｛颯砂＊＊｝?
-What's up?");
+MsgDisp("主人公","｛颯砂＊＊｝? What's up?");
 MsgClose();
 ChOpen(2,255,4,0,0,#1,#1,0,0);
 VoicePlay("B350200000_02_010");
@@ -17,16 +16,16 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B350200000_02_020");
-MsgDisp("Sassa","Then, I also just wanted to
-ask for some reason.");
+MsgDisp("Sassa","Then, I also just wanted to ask for some
+reason.");
 MsgDisp("主人公","Hehe!");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("B350200000_02_030");
-MsgDisp("Sassa","Umm, for some reason, there's a place
-I want to go with you after this.
+MsgDisp("Sassa","Umm, for some reason, there's a place I
+want to go with you after this.
 How about it?");
 MsgSel("Yeah, sounds good!","There's something I have to do today.");
 switch (MsgSelRsltGet()){
@@ -42,9 +41,8 @@ Right, let's go!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B350200000_02_050");
-    MsgDisp("Sassa","I don't know why, but for
-some reason I've set my 
-mind to a place.");
+    MsgDisp("Sassa","I don't know why, but for some reason I've
+set my mind to a place.");
     MsgClose();
     ScrFadeOut(0);
     break ;

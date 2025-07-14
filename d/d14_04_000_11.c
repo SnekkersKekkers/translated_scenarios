@@ -21,8 +21,8 @@ ChMotion(7,1);
 ChMotion(4,0,1);
 VoicePlay("D140400000_04_030");
 MsgDisp("Nanatsumori","It's okay, you don't have to push
-yourself. If it's inconvenient for 
-you, let's just cancel for this time.
-See you then.");
+yourself. If it's inconvenient for you,
+let's just cancel for this time. See you
+then.");
 BGMStop();
 ChClose(4,0,30);

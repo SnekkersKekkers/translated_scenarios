@@ -11,8 +11,7 @@ MsgDispSksp(1,0);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,6);
 VoicePlay("B030408004_04_010");
-MsgDisp("Nanatsumori","We came to their home
-even though they aren't here?
-Hm...");
+MsgDisp("Nanatsumori","We came to their home even though they
+aren't here? Hm...");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

@@ -6,8 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040222100_02_000");
-MsgDisp("Sassa","As expected, it's really high 
-when you go up to the castle tower.");
+MsgDisp("Sassa","As expected, it's really high when you go
+up to the castle tower.");
 MsgSel("Are you not good with tall places?","Do you think the lord would overlook the town from here too?","It's a bit scary...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,8 +38,8 @@ I think I'm fine with it though.");
     ChMouth(2,4);
     ChMotion(2,4,1);
     VoicePlay("B040222100_02_030");
-    MsgDisp("Sassa","The handrailings here are 
-quite low, so be careful.");
+    MsgDisp("Sassa","The handrailings here are quite low, so be
+careful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

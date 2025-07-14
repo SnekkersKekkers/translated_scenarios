@@ -29,8 +29,8 @@ It's already the second time, huh?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("S060400000_04_020");
-    MsgDisp("Nanatsumori","It's our first time meeting up
-in person this year.");
+    MsgDisp("Nanatsumori","It's our first time meeting up in person
+this year.");
     break ;
     case 4:
     case 5:

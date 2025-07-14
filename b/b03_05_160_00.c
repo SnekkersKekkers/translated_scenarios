@@ -11,8 +11,8 @@ ChMouth(5,2);
 ChMotion(5,1,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B030516000_05_000");
-MsgDisp("Hiiragi","A tornado of light and noise that makes
-no sense......
+MsgDisp("Hiiragi","A tornado of light and noise that makes no
+sense......
 Everytime I come here, it's intense.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

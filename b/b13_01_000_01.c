@@ -7,9 +7,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B130100001_01_000");
-MsgDisp("Kazama","Be extra careful today, more 
-than usual. It already looks 
-like it might show.");
+MsgDisp("Kazama","Be extra careful today, more than usual.
+It already looks like it might show.");
 MsgDisp("主人公","Eh, show∋");
 ChMouth(1,1);
 ChMotion(1,3);
@@ -21,5 +20,5 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B130100001_01_010");
 MsgDisp("Kazama","No, it's not showing!
-But there's only so much 
-I can do to guard.");
+But there's only so much I can do to
+guard.");

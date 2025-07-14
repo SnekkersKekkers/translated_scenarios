@@ -5,9 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040722201_07_000");
-MsgDisp("Mikage","Alright, 
-Let's look into the historical 
-documents at the exhibition corner? ");
+MsgDisp("Mikage","Alright, Let's look into the historical
+documents at the exhibition corner?");
 MsgSel("I can't read it at all.","Do we really have to?","You're a bit of a weirdo, huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,8 +37,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040722201_07_030");
-    MsgDisp("Mikage","Hahaha, you're like an
-elementary school kid.");
+    MsgDisp("Mikage","Hahaha, you're like an elementary school
+kid.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

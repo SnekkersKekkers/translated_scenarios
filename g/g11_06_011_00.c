@@ -6,13 +6,13 @@ ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("G110601100_06_000");
 MsgDisp("Himuro","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-What's wrong?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝. What's wrong?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601100_06_010");
-MsgDisp("Himuro","You know, you have time... after this.
+MsgDisp("Himuro","You know, you have time...
+after this.
 You quit your part time job.");
 MsgDisp("主人公","Ah... I-I see.");
 ChEye(6,0);
@@ -57,16 +57,17 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601100_06_070");
-MsgDisp("Himuro","In any case. You knew I would
-miss you... a little bit.");
+MsgDisp("Himuro","In any case.
+You knew I would miss you...
+a little bit.");
 MsgDisp("主人公","Huh.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601100_06_080");
-MsgDisp("Himuro","Well, Not that it
-would make any difference...");
+MsgDisp("Himuro","Well, Not that it would make any
+difference...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -77,9 +78,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601100_06_100");
-MsgDisp("Himuro","...Even if I can't see you at my
-part time job, I can see you
-at school.");
+MsgDisp("Himuro","...Even if I can't see you at my part time
+job, I can see you at school.");
 MsgDisp("主人公","Okay.");
 ChEye(6,2);
 ChMouth(6,1);

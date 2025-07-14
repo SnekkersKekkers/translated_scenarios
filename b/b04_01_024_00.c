@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040102400_01_010");
     MsgDisp("Kazama","It's alright.
-Wouldn't it be better if there was
-a little bit more oomph to it?");
+Wouldn't it be better if there was a
+little bit more oomph to it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -48,8 +48,8 @@ partners!");
     ChMotion(1,0);
     ChCheek(1,5);
     VoicePlay("B040102400_01_030");
-    MsgDisp("Kazama","Aah... That's something else.
-Let's listen to it again, one more time.");
+    MsgDisp("Kazama","Aah... That's something else. Let's listen
+to it again, one more time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

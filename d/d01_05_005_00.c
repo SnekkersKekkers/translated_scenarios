@@ -3,10 +3,11 @@ ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's from Habacha's Editorial
-Department. It says......)");
-MsgDisp("主人公","(\"We'd like you to sneak into the 
-Habataki Theater Company rehearsal
-studio for an insider scoop!\"......Ehh∋)");
+Department.
+It says......)");
+MsgDisp("主人公","(\"We'd like you to sneak into the Habataki
+Theater Company rehearsal studio for an
+insider scoop!\"......Ehh∋)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -15,16 +16,16 @@ BGOpen("bh500",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This is ｛柊＊＊＊｝'s home, right?
-It seems like the rehearsal studio is
-on the property......)");
+It seems like the rehearsal studio is on
+the property......)");
 MsgClose();
 SEPlay("EV_SE_723");
 Wait(50,0);
 VoicePlay("D010500500_43_000");
 MsgDisp("Theater Member A","Ooogh!　Taah!");
 VoicePlay("D010500500_05_000");
-MsgDisp("Hiiragi?","If you can't do it in practice, how
-will you be able to do it during the
+MsgDisp("Hiiragi?","If you can't do it in practice, how will
+you be able to do it during the
 performance?");
 MsgDisp("主人公","(That voice is......)");
 MsgClose();
@@ -50,9 +51,9 @@ StlEyeOpenLevel(5,5);
 VoicePlay("D010500500_33_020");
 MsgDisp("Theater Member B","The chairman is difficult today too......");
 VoicePlay("D010500500_46_000");
-MsgDisp("Theater Member C","Yeah, the chairman is on a
-completely different level......If you're
-not careful, you'll get hurt.");
+MsgDisp("Theater Member C","Yeah, the chairman is on a completely
+different level......If you're not
+careful, you'll get hurt.");
 MsgDisp("主人公","(............)");
 StlEye(5,1);
 StlMouth(5,0);
@@ -88,9 +89,8 @@ VoicePlay("D010500500_05_030");
 MsgDisp("Hiiragi","My apologies.
 I was just told that there was someone
 here for an interview......");
-MsgDisp("主人公","Yes.
-Thank you very much for allowing me to
-intrude on your important practice.");
+MsgDisp("主人公","Yes. Thank you very much for allowing me
+to intrude on your important practice.");
 VoicePlay("D010500500_05_040");
 MsgDisp("Hiiragi","I hope you are able to write a good
 article.");
@@ -108,8 +108,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500500_05_060");
-MsgDisp("Hiiragi","Thanks to Habacha's support, we have
-been recruiting new members.");
+MsgDisp("Hiiragi","Thanks to Habacha's support, we have been
+recruiting new members.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,1);
@@ -123,7 +123,8 @@ ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("D010500500_05_080");
 MsgDisp("Hiiragi","No, since the city is supporting us, we
-have to do better. It's our obligation.");
+have to do better.
+It's our obligation.");
 MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,2);
 ChMouth(5,2);
@@ -141,7 +142,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(Is ｛柊＊＊＊｝ okay......?
-I wanted to tell him to relax a bit but 
+I wanted to tell him to relax a bit but
 that's not something anyone can say.)");
 MsgClose();
 ScrFadeOut(0,0);

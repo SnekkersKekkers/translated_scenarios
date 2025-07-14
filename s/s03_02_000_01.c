@@ -43,13 +43,13 @@ What should I wear......)");
     MsgDisp("主人公","Yay.
 So where should we meet up?");
     VoicePlay("S030200001_02_070");
-    MsgDisp("Sassa","Just wait there. It's hard for
-girls to get dressed up in that way, so
-take your time. See you soon.");
+    MsgDisp("Sassa","Just wait there. It's hard for girls to
+get dressed up in that way, so take your
+time. See you soon.");
     MsgDisp("主人公","Really? Thank you.");
     VoicePlay("S030200001_02_080");
-    MsgDisp("Sassa","I'll make my way there slowly, so
-take your time, okay?
+    MsgDisp("Sassa","I'll make my way there slowly, so take
+your time, okay?
 See you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

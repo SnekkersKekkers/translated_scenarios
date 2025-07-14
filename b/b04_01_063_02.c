@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040106302_01_010");
-        MsgDisp("Kazama","You really need to
-learn to read the room better.");
+        MsgDisp("Kazama","You really need to learn to read the room
+better.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -34,8 +34,8 @@ learn to read the room better.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,7);
         VoicePlay("B040106302_01_020");
-        MsgDisp("Kazama","If they wash away, we'll just make
-new footprints.");
+        MsgDisp("Kazama","If they wash away, we'll just make new
+footprints.");
         ChEye(1,0);
         ChMouth(1,1);
         VoicePlay("B040106302_01_030");
@@ -72,8 +72,8 @@ sand. You get it?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040106302_01_070");
         MsgDisp("Kazama","Alright, good.");
-        MsgDisp("主人公","(｛風真＊＊｝, you must really cherish
-the memories we have together, huh.)");
+        MsgDisp("主人公","(｛風真＊＊｝, you must really cherish the
+memories we have together, huh.)");
         break ;
         default :
         DbgAssert(1);
@@ -86,8 +86,9 @@ the memories we have together, huh.)");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040106302_01_080");
-    MsgDisp("Kazama","Oh, that's unlike you to say. Then we'll
-leave more footprints in the future!");
+    MsgDisp("Kazama","Oh, that's unlike you to say.
+Then we'll leave more footprints in the
+future!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

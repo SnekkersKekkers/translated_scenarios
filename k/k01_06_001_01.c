@@ -19,9 +19,8 @@ ChMouth(6,3);
 ChMotion(6,0);
 ChCheek(6,5);
 VoicePlay("K010600101_06_020");
-MsgDisp("Himuro","You must have put a lot of
-thought into this......
-......Thanks.");
+MsgDisp("Himuro","You must have put a lot of thought into
+this...... ......Thanks.");
 MsgDisp("主人公","(He looks super happy......
 Thank goodness!)");
 MsgClose();

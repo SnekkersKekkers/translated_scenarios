@@ -11,14 +11,16 @@ switch (MsgSelRsltGet()){
     NSSEye(3,3);
     NSSMouth(3,3);
     VoicePlay("B160300200_03_010");
-    MsgDisp("Honda","Oh really! So I'm special to you?");
+    MsgDisp("Honda","Oh really!
+So I'm special to you?");
     break ;
     case 1:
     NSSEye(3,4);
     NSSMouth(3,4);
     VoicePlay("B160300200_03_020");
-    MsgDisp("Honda","I see... So it seems that what we just did
-isn't special to you.");
+    MsgDisp("Honda","I see...
+So it seems that what we just did isn't
+special to you.");
     break ;
     default :
     DbgAssert(0);

@@ -17,8 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040303302_03_010");
-    MsgDisp("Honda","Why not∋ I'm surrounded by so much around
-me that I don't know about!");
+    MsgDisp("Honda","Why not∋
+I'm surrounded by so much around me that I
+don't know about!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +35,8 @@ me that I don't know about!");
         ChMouth(3,4);
         ChMotion(3,0,1);
         VoicePlay("B040303302_03_020");
-        MsgDisp("Honda","No no, learn from the deep-sea fish! If
-you don't try to look, you won't see
+        MsgDisp("Honda","No no, learn from the deep-sea fish!
+If you don't try to look, you won't see
 anything.");
         MsgDateResultDisp();
         break ;
@@ -46,9 +47,10 @@ anything.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040303302_03_030");
-        MsgDisp("Honda","Did I get the wrong idea? I thought you 
-were having fun.");
-        MsgDisp("主人公","Ah, sorry. I said something strange...");
+        MsgDisp("Honda","Did I get the wrong idea?
+I thought you were having fun.");
+        MsgDisp("主人公","Ah, sorry.
+I said something strange...");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);
@@ -59,20 +61,21 @@ were having fun.");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040303302_03_050");
-        MsgDisp("Honda","If you can't see, why not try closing 
-your eyes?");
+        MsgDisp("Honda","If you can't see, why not try closing your
+eyes?");
         MsgDisp("主人公","Huh?");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);
         VoicePlay("B040303302_03_060");
-        MsgDisp("Honda","Come on, quick quick! Close your eyes!");
+        MsgDisp("Honda","Come on, quick quick!
+Close your eyes!");
         MsgClose();
         ScrFadeOut(3,30);
         Wait(40,1);
         MsgDisp("主人公","Uh, okay.");
         VoicePlay("B040303302_03_070");
-        MsgDisp("Honda","... Amazing! The deep-sea corner∋ 
+        MsgDisp("Honda","... Amazing! The deep-sea corner∋
 ...another discovery∈");
         MsgDisp("主人公","(I wonder what ｛本多＊＊｝ discovered?)");
         break ;

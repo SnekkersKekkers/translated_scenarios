@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B180400000_04_020");
     MsgDisp("Nanatsumori","Thank you.");
-    MsgDisp("主人公","It gives me a little bit of
-a ticklish feeling though.");
+    MsgDisp("主人公","It gives me a little bit of a ticklish
+feeling though.");
     ChEye(4,4);
     ChMotion(4,1,1);
     VoicePlay("B180400000_04_030");
@@ -30,11 +30,10 @@ I felt a good sensation too.");
     ChMotion(4,0,1);
     VoicePlay("B180400000_04_040");
     VoiceEVSPlay(4);
-    MsgDisp("Nanatsumori","In order to get used to
-it, I'll say it again.
-｛主人公｝.");
-    MsgDisp("主人公","(No matter how many times he 
-says it, my heart skips a beat...)");
+    MsgDisp("Nanatsumori","In order to get used to it, I'll say it
+again. ｛主人公｝.");
+    MsgDisp("主人公","(No matter how many times he says it, my
+heart skips a beat...)");
     break ;
     case 1:
     ChEye(4,2);

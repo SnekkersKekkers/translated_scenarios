@@ -23,8 +23,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040317001_03_020");
-    MsgDisp("Honda","That one? But it looks like the stomach
-area will get cold.");
+    MsgDisp("Honda","That one?
+But it looks like the stomach area will
+get cold.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +36,8 @@ area will get cold.");
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("B040317001_03_030");
-    MsgDisp("Honda","We've gotta try everything! Come on, let's
-do it together!");
+    MsgDisp("Honda","We've gotta try everything!
+Come on, let's do it together!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

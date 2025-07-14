@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,2);
     VoicePlay("B040221302_02_010");
     MsgDisp("Sassa","That's rightー.
-Hey, that big one over 
-there is cool.");
+Hey, that big one over there is cool.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +27,8 @@ there is cool.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040221302_02_020");
-    MsgDisp("Sassa","...So, in the future, we might end up
-with both a dog and a cat? 
+    MsgDisp("Sassa","...So, in the future, we might end up with
+both a dog and a cat?
 That sounds good too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -47,8 +46,8 @@ That sounds good too.");
         ChMotion(2,4);
         VoicePlay("B040221302_02_030");
         MsgDisp("Sassa","I know.
-The fact that it's hard makes 
-it all the more fun.");
+The fact that it's hard makes it all the
+more fun.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,18 +58,18 @@ it all the more fun.");
         ChMotion(2,4);
         VoicePlay("B040221302_02_040");
         MsgDisp("Sassa","I know.
-Just walking my acquaintances
-dogs is already tough.");
+Just walking my acquaintances dogs is
+already tough.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040221302_02_050");
-        MsgDisp("Sassa","...But, you know, 
-the hard work also makes it fun.
+        MsgDisp("Sassa","...But, you know, the hard work also makes
+it fun.
 Like running together.");
         MsgDisp("主人公","I see.
-But is there a doggy that
-can keep up with ｛颯砂＊＊｝'s running?'");
+But is there a doggy that can keep up with
+｛颯砂＊＊｝'s running?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
@@ -87,27 +86,27 @@ completely lose to it too.");
 hour. Even the fastest humans can only do
 about 40 kilometers per hour.");
         MsgDisp("主人公","I see.
-Then if you could beat a dog, 
-｛颯砂＊＊｝ could be world champion.");
+Then if you could beat a dog, ｛颯砂＊＊｝
+could be world champion.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040221302_02_080");
         MsgDisp("Sassa","Oh, definitely.
-Maybe I should get a dog 
-as a training partner then.");
-        MsgDisp("主人公","Hehe, might be good/
-Then you could compete
-against the dog everyday.");
+Maybe I should get a dog as a training
+partner then.");
+        MsgDisp("主人公","Hehe, might be good/ Then you could
+compete against the dog everyday.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040221302_02_090");
-        MsgDisp("Sassa","Then you'll have to join us
-for the morning walks.
+        MsgDisp("Sassa","Then you'll have to join us for the
+morning walks.
 As a witness.");
         MsgDisp("主人公","(Hehe, walking with ｛颯砂＊＊｝ and a
-doggy every morning... seems fun.)");
+doggy every morning...
+seems fun.)");
         break ;
         default :
         DbgAssert(1);

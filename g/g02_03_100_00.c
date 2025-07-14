@@ -12,9 +12,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310000_03_010");
-MsgDisp("Honda","Exactly!
-Normally, I'd take my time to observe 
-them closely, but......");
+MsgDisp("Honda","Exactly! Normally, I'd take my time to
+observe them closely, but......");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -30,15 +29,16 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310000_03_040");
-MsgDisp("Honda","Yeah, yeah that's it! If I had to choose,
-you're the one I'm really observing.");
+MsgDisp("Honda","Yeah, yeah that's it!
+If I had to choose, you're the one I'm
+really observing.");
 MsgDisp("主人公","Ehhh?");
 ChEye(3,0);
 ChMotion(3,5);
 VoicePlay("G020310000_03_050");
-MsgDisp("Honda","Look at how you react! You have this
-sparkling, bright expression, like a
-firefly's glow.");
+MsgDisp("Honda","Look at how you react!
+You have this sparkling, bright
+expression, like a firefly's glow.");
 ChMotion(3,0);
 VoicePlay("G020310000_03_060");
 MsgDisp("Honda","Fireflies glow as a courtship display, but
@@ -48,17 +48,16 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("G020310000_03_070");
-MsgDisp("Honda","That's why I want to watch you more
-and learn everything about you.");
+MsgDisp("Honda","That's why I want to watch you more and
+learn everything about you.");
 MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 ChCheek(3,10);
 VoicePlay("G020310000_03_080");
-MsgDisp("Honda","Ah!
-Maybe your expression is 
-also a courtship display∋");
+MsgDisp("Honda","Ah! Maybe your expression is also a
+courtship display∋");
 MsgDisp("主人公","(That's a bit......too much......)");
 BGMStop();
 MsgClose();

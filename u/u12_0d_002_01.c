@@ -10,9 +10,9 @@ unrequited......");
 MsgDisp("主人公","Huh......What do you mean?");
 StlEyeOpenLevel(21,#1);
 VoicePlay("U120D00201_21_000");
-MsgDisp("Michiru","Well, I guess if Mari
-herself isn't even paying attention then
-there's nothing else to say about it.");
+MsgDisp("Michiru","Well, I guess if Mari herself isn't even
+paying attention then there's nothing else
+to say about it.");
 MsgDisp("主人公","(Someone has a crush on me?
 Who in the world could it be......)");
 MsgClose();

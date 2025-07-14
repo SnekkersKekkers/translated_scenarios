@@ -23,8 +23,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","You know......I told you, 
-I've always liked you.");
+MsgDisp("Himuro","You know......I told you, I've always
+liked you.");
 MsgDisp("主人公","Y-Yes.");
 VoicePlay("T020601000_06_290");
 ChEye(6,0);

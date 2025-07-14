@@ -11,15 +11,15 @@ switch (MsgSelRsltGet()){
     NSSEye(7,2);
     NSSMouth(7,0);
     VoicePlay("B160700400_07_010");
-    MsgDisp("Mikage","Huh, was I wrong?
-Haa... Either way, I'm being tested.");
+    MsgDisp("Mikage","Huh, was I wrong? Haa... Either way, I'm
+being tested.");
     break ;
     case 1:
     NSSEye(7,1);
     NSSMouth(7,0);
     NSSEyeOpenLevel(7,6);
     VoicePlay("B160700400_07_020");
-    MsgDisp("Mikage","So you're making me wait? 
+    MsgDisp("Mikage","So you're making me wait?
 Don't get too carried away.");
     break ;
     default :

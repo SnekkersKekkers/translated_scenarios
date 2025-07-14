@@ -9,14 +9,14 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S070500000_05_000");
-    MsgDisp("Hiiragi","I can feel everyone's thoughts and
-dreams for the New Year.");
+    MsgDisp("Hiiragi","I can feel everyone's thoughts and dreams
+for the New Year.");
     MsgDisp("主人公","Yeah, the shrine is crowded......");
     ChMotion(5,0);
     VoicePlay("S070500000_05_010");
     MsgDisp("Hiiragi","Isn't it nice to be so lively?
-Our shows are the same way. I consider
-it a good luck charm.");
+Our shows are the same way.
+I consider it a good luck charm.");
     MsgDisp("主人公","(As expected of the Chairman.
 I hope the theater company will be
 successful again this year.)");
@@ -44,10 +44,10 @@ wishes for the New Year!");
     ChMotion(5,3);
     VoicePlay("S070500000_05_040");
     MsgDisp("Hiiragi","That kind of energy.
-If more people were like you, God would
-be able to grant more wishes.");
-    MsgDisp("主人公","(......｛柊＊＊＊｝, you surprisingly
-like energetic people, huh?)");
+If more people were like you, God would be
+able to grant more wishes.");
+    MsgDisp("主人公","(......｛柊＊＊＊｝, you surprisingly like
+energetic people, huh?)");
     break ;
     case 4:
     case 5:

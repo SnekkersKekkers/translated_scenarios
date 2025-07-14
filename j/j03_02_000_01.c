@@ -15,8 +15,8 @@ Sorry.");
     break ;
     case 3:
     VoicePlay("J030200001_02_020");
-    MsgDisp("Sassa","Ah, I can't on that day!
-I have stuff planned. Sorry.");
+    MsgDisp("Sassa","Ah, I can't on that day! I have stuff
+planned. Sorry.");
     MsgDisp("主人公","I see, that's too bad.");
     VoicePlay("J030200001_02_030");
     MsgDisp("Sassa","Yeah, invite me again, okay?");

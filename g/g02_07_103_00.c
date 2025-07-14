@@ -21,8 +21,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710300_07_020");
-MsgDisp("Mikage","......Ah the other day, 
-on the way home......
+MsgDisp("Mikage","......Ah the other day, on the way
+home......
 I'm sorry I said something crazy");
 ChEye(7,2);
 ChMouth(7,0);
@@ -35,8 +35,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020710300_07_040");
-MsgDisp("Mikage","You don't have to respond 
-because it's just my inner voice.");
+MsgDisp("Mikage","You don't have to respond because it's
+just my inner voice.");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -50,8 +50,8 @@ ChMotion(7,0);
 VoicePlay("G020710300_07_060");
 MsgDisp("Mikage","It would help if you could pretend you
 forgot about it.");
-MsgDisp("主人公","Well, um, 
-it's not something to apologize for.");
+MsgDisp("主人公","Well, um, it's not something to apologize
+for.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -65,9 +65,9 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020710300_07_080");
 MsgDisp("Mikage","That was my inner voice.");
-MsgDisp("主人公","(｛御影＊＊｝ was really concerned about
-it. I'm happy that he always thinks about
-me seriously......)");
+MsgDisp("主人公","(｛御影＊＊｝ was really concerned
+about it. I'm happy that he always thinks
+about me seriously......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

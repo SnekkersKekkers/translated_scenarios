@@ -1,7 +1,6 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Are you heading home now?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you heading home now?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -26,8 +25,8 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600400_06_010");
-MsgDisp("Himuro","Hey......
-Why don't you practice swimming a bit?");
+MsgDisp("Himuro","Hey...... Why don't you practice swimming
+a bit?");
 MsgDisp("主人公","Eh......");
 ChEye(6,0);
 ChMouth(6,0);
@@ -39,8 +38,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600400_06_030");
-MsgDisp("Himuro","The ocean feels nice. It's a shame. If you
-like, I can teach you.");
+MsgDisp("Himuro","The ocean feels nice.
+It's a shame.
+If you like, I can teach you.");
 MsgDisp("主人公","Really?");
 ChEye(6,1);
 ChMouth(6,1);
@@ -60,16 +60,15 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_060");
-MsgDisp("Himuro","Then, 
-this is not the time to be gentle
-or to dote on you.");
+MsgDisp("Himuro","Then, this is not the time to be gentle or
+to dote on you.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_070");
 MsgDisp("Himuro","Besides, do you know how dangerous the
-ocean is? You could get swept out by a
-wave.");
+ocean is?
+You could get swept out by a wave.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);

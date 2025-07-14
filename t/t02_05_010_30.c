@@ -14,8 +14,8 @@ Wait(16,0);
 ChEye(5,4);
 VoicePlay("T020501030_05_010");
 MsgDisp("Hiiragi","It's okay.
-Thanks to your light,
-I can clearly see the way.");
+Thanks to your light, I can clearly see
+the way.");
 ChEyeOpenLevel(5,0);
 Wait(8,0);
 ChEye(5,0);
@@ -29,9 +29,9 @@ Wait(16,0);
 ChEye(5,3);
 ChMouth(5,3);
 VoicePlay("T020501030_05_030");
-MsgDisp("Hiiragi","It's okay. I'm the chairman who graduated
-from the prestigious Haba High, you
-know?");
+MsgDisp("Hiiragi","It's okay.
+I'm the chairman who graduated from the
+prestigious Haba High, you know?");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020501030_05_040");

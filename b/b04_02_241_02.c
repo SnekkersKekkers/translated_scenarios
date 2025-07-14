@@ -24,8 +24,8 @@ vital, but I'm not good with them.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040224102_02_020");
-    MsgDisp("Sassa","Yeah, the person who thought of 
-making sausages is quite amazing");
+    MsgDisp("Sassa","Yeah, the person who thought of making
+sausages is quite amazing");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -72,14 +72,14 @@ What were you imagining?");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040224102_02_070");
-        MsgDisp("Sassa","You riding on a slightly dirty white 
-pony that's plodding along.");
+        MsgDisp("Sassa","You riding on a slightly dirty white pony
+that's plodding along.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,4);
         VoicePlay("B040224102_02_080");
-        MsgDisp("Sassa","It would be too cute
-if I saw that for real.");
+        MsgDisp("Sassa","It would be too cute if I saw that for
+real.");
         MsgClose();
         SEPlay("EV_SE_765");
         ChClose(2);
@@ -87,9 +87,8 @@ if I saw that for real.");
         VoicePlay("B040224102_02_090");
         MsgDisp("Sassa","They're here, they're here, this way!
 Lots of slightly dirty ponies!");
-        MsgDisp("主人公","(Umm...
-Is it okay to be happy about 
-how cute ｛颯砂＊＊｝ is...?)");
+        MsgDisp("主人公","(Umm... Is it okay to be happy about how
+cute ｛颯砂＊＊｝ is...?)");
         break ;
         default :
         DbgAssert(1);

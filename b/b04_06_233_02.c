@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(6,255,0,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623302_06_000");
-MsgDisp("Himuro","Seems like we might trigger
-the suspension bridge effect.");
+MsgDisp("Himuro","Seems like we might trigger the suspension
+bridge effect.");
 MsgSel("Because your heart is pounding?","Suspension bridge effect?","You're joking right? ");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,10 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040623302_06_010");
-    MsgDisp("Himuro","Yeah.
-I might mistakenly think I'm in love 
-with you. What about you? 
-Would you be mistaken?");
+    MsgDisp("Himuro","Yeah. I might mistakenly think I'm in love
+with you. What about you? Would you be
+mistaken?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +28,8 @@ Would you be mistaken?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623302_06_020");
-    MsgDisp("Himuro","It's not really something 
-to dig further into.");
+    MsgDisp("Himuro","It's not really something to dig further
+into.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -80,9 +79,9 @@ it before long.");
         ChMotion(6,0);
         ChCheek(6,0);
         VoicePlay("B040623302_06_070");
-        MsgDisp("Himuro","If you think about it, 
-There's no value in an excitement
-that's only limited to a moment.");
+        MsgDisp("Himuro","If you think about it, There's no value in
+an excitement that's only limited to a
+moment.");
         MsgDisp("主人公","What if it wasn't 
 limited to a moment?");
         ChEye(6,0);
@@ -90,16 +89,15 @@ limited to a moment?");
         ChMotion(6,5);
         VoicePlay("B040623302_06_080");
         MsgDisp("Himuro","I'll keep quiet about that.
-You'ree free to come up with your own 
+You'ree free to come up with your own
 conclusions based off the situation.");
-        MsgDisp("主人公","I see... so, 
-did your heart race, ｛氷室＊＊｝?");
+        MsgDisp("主人公","I see...
+so, did your heart race, ｛氷室＊＊｝?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040623302_06_090");
-        MsgDisp("Himuro","Unfortunately, 
-I won't fall for the 
+        MsgDisp("Himuro","Unfortunately, I won't fall for the
 suspension bridge effect.");
         MsgDisp("主人公","So that's how it is...");
         ChEye(6,0);

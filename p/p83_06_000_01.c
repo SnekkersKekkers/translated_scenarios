@@ -23,8 +23,8 @@ Could I get more cardboardー?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P830600001_06_010");
-    MsgDisp("Himuro","I came to get another chair, 
-but should I do that later?");
+    MsgDisp("Himuro","I came to get another chair, but should I
+do that later?");
     MsgDisp("主人公","It's alright!
 I'm doing things one by one.");
     ChEye(6,0);
@@ -56,14 +56,13 @@ Could I get more cardboardー?");
     ChOpen(6,254,4,0,0,#1,#1,0,0);
     VoicePlay("P830600001_06_030");
     MsgDisp("Himuro",".........");
-    MsgDisp("主人公","Huh, ｛氷室＊＊｝?
-What's wrong?");
+    MsgDisp("主人公","Huh, ｛氷室＊＊｝? What's wrong?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("P830600001_06_040");
-    MsgDisp("Himuro","No, you seemed busy so I thought it 
-was better to approach you after.");
+    MsgDisp("Himuro","No, you seemed busy so I thought it was
+better to approach you after.");
     MsgDisp("主人公","You don't have to mind though.");
     ChEye(6,0);
     ChMouth(6,0);

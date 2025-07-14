@@ -26,8 +26,8 @@ SEPlay("EV_SE_642",0,0.6);
 MsgDisp("","(*Plop*)");
 MsgDisp("主人公","Hm?
 His bus pass...");
-MsgDisp("主人公","｛七ツ森＊｝!
-Did you drop this just now!");
+MsgDisp("主人公","｛七ツ森＊｝! Did you drop this just
+now!");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,0.8);
 SEWait();
 MsgClose();
@@ -44,6 +44,7 @@ MsgClose();
 VoicePlay("F100410000_04_030");
 MsgDisp("Nanatsumori","I did it again...
 That's no good.");
-MsgDisp("主人公","(I'm glad. He said \"again\", though...)");
+MsgDisp("主人公","(I'm glad.
+He said \"again\", though...)");
 MsgClose();
 ScrFadeOut(0,0);

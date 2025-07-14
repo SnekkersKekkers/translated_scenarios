@@ -33,16 +33,16 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220101_02_050");
 MsgDisp("Sassa","I did some reflection.
-I realized that now I'm not the 
-person closest to you.");
+I realized that now I'm not the person
+closest to you.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220101_02_060");
-MsgDisp("Sassa","So, from tonight's fireflies onwards, 
-I'll cherish my time with you more.");
-MsgDisp("主人公","Hehe.
-you're acting a bit strange, ｛颯砂＊＊｝.");
+MsgDisp("Sassa","So, from tonight's fireflies onwards, I'll
+cherish my time with you more.");
+MsgDisp("主人公","Hehe. you're acting a bit strange,
+｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -52,8 +52,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220101_02_080");
-MsgDisp("Sassa","Next time we come here,
-I hope to be the closest person to you.");
+MsgDisp("Sassa","Next time we come here, I hope to be the
+closest person to you.");
 MsgDisp("主人公","(｛颯砂＊＊｝......)");
 BGMStop();
 MsgClose();

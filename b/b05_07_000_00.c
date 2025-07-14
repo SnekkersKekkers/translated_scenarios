@@ -4,12 +4,11 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message from ｛御影＊＊｝.
-\"The cherry blossoms are beautiful,
-won't you come see itー\"
-...He says.))");
-MsgDisp("主人公","(Looks like ｛御影＊＊｝ is at the forest
-park? Alright, it's good weather, let's
-head out!)");
+\"The cherry blossoms are beautiful, won't
+you come see itー\" ...He says.))");
+MsgDisp("主人公","(Looks like ｛御影＊＊｝ is at the
+forest park? Alright, it's good weather,
+let's head out!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -19,16 +18,16 @@ MsgClose();
 BGOpen("fp210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Waa...pretty!
-I have the cherry blossoms in 
-full bloom all to myself～!");
+I have the cherry blossoms in full bloom
+all to myself～!");
 VoicePlay("B050700000_07_000");
 MsgDisp("Mikage?","Hey hey, there's two of us!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 Wait(63,0);
 ChOpen(7,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛御影＊＊｝!
-Thank you for inviting me.");
+MsgDisp("主人公","Ah, ｛御影＊＊｝! Thank you for
+inviting me.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -39,8 +38,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700000_07_020");
-MsgDisp("Mikage","...The two of us had a 
-bit of a false start.");
+MsgDisp("Mikage","...The two of us had a bit of a false
+start.");
 MsgDisp("主人公","Hehe, that's right.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -65,13 +64,13 @@ ScrFadeIn(0);
 Wait(7,0);
 VoicePlay("B050700000_07_040");
 MsgDisp("Mikage","It's a special-made fruit sandwich.");
-MsgDisp("主人公","Amazing!
-Did you make this yourself, ｛御影＊＊｝?");
+MsgDisp("主人公","Amazing! Did you make this yourself,
+｛御影＊＊｝?");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("B050700000_07_050");
-MsgDisp("Mikage","I bought the bread and kiwi but
-the strawberries are home grown.");
+MsgDisp("Mikage","I bought the bread and kiwi but the
+strawberries are home grown.");
 StlEye(7,1);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5,1);
@@ -84,8 +83,8 @@ StlMouth(7,1);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700000_07_070");
 MsgDisp("Mikage","Isn't itー.
-I don't have the courage 
-to bite into it either.");
+I don't have the courage to bite into it
+either.");
 StlEye(7,2);
 StlMouth(7,1);
 VoicePlay("B050700000_07_080");
@@ -129,8 +128,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
 MsgClose();
 ScrFadeOut(0);
 SEWait();
-MsgDisp("主人公","(We were able to enjoy the cherry
-blossoms early this year.
+MsgDisp("主人公","(We were able to enjoy the cherry blossoms
+early this year.
 ｛御影＊＊｝, thank you very much!)");
 BGMStop();
 MsgClose();

@@ -21,8 +21,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020440002_04_030");
-MsgDisp("Nanatsumori","Right. 
-I want to be with you until morning.");
+MsgDisp("Nanatsumori","Right. I want to be with you until
+morning.");
 MsgDisp("主人公","Eh......");
 ChEye(4,0);
 ChMouth(4,0);
@@ -40,19 +40,21 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020440002_04_060");
-MsgDisp("Nanatsumori","Crap......
-Whats with this atmosphere......
-My mouth is running off on its own.");
+MsgDisp("Nanatsumori","Crap...... Whats with this
+atmosphere...... My mouth is running off
+on its own.");
 VoicePlay("G020440002_04_070");
-MsgDisp("Nanatsumori","Together until morning? What is that, how
-pompous, fishy, sleazyー......");
+MsgDisp("Nanatsumori","Together until morning?
+What is that, how pompous, fishy,
+sleazyー......");
 MsgDisp("主人公","Um, ｛七ツ森＊｝?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440002_04_080");
-MsgDisp("Nanatsumori","Forget what I said just now! This must be
-because of the firefly habitat.");
+MsgDisp("Nanatsumori","Forget what I said just now!
+This must be because of the firefly
+habitat.");
 MsgDisp("主人公","???");
 ChEye(4,4);
 ChMouth(4,4);

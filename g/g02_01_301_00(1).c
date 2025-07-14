@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(1,255,1,0,0,#1,#1,0,0);
 VoicePlay("G020130100_01_000");
-MsgDisp("Kazama","There are a lot of fireflies 
-flying about, huh?");
+MsgDisp("Kazama","There are a lot of fireflies flying about,
+huh?");
 MsgDisp("主人公","Yeah.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -57,8 +57,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020130100_01_080");
 MsgDisp("Kazama","That's the one thing I won't surrender.");
-MsgDisp("主人公","(｛風真＊＊｝, 
-your face is really serious......)");
+MsgDisp("主人公","(｛風真＊＊｝, your face is really
+serious......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

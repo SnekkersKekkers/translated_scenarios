@@ -33,8 +33,8 @@ ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("G110400701_04_030");
 MsgDisp("Nanatsumori","Well... it's mostly for business though.");
-MsgDisp("主人公","But you're a valued customer. Thank
-you for your continued patronage▼");
+MsgDisp("主人公","But you're a valued customer.
+Thank you for your continued patronage▼");
 ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,0);

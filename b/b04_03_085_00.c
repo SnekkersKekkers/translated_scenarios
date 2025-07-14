@@ -24,8 +24,8 @@ water, I can't catch them?");
     ChMouth(3,4);
     ChMotion(3,2);
     VoicePlay("B040308500_03_020");
-    MsgDisp("Honda","Right now they're trying very 
-hard to catch food in the water");
+    MsgDisp("Honda","Right now they're trying very hard to
+catch food in the water");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -33,8 +33,8 @@ hard to catch food in the water");
     ChSet(3,3);
     VoicePlay("B040308500_03_030");
     MsgDisp("Honda","Yep yep, that's right!
-There's an abundance of spring water, 
-so the temperature is high.");
+There's an abundance of spring water, so
+the temperature is high.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

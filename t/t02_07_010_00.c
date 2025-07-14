@@ -11,8 +11,7 @@ SEWait();
 BGMPlay("BGM_C07_MIKAGE_KOKU",0.01);
 ChLayout(0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛御影＊＊｝......
-Why are you here?");
+MsgDisp("主人公","｛御影＊＊｝...... Why are you here?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -25,9 +24,9 @@ ChMotion(7,0);
 VoicePlay("T020701000_07_020");
 MsgDisp("Mikage","Will you go with me?
 It's my graduation ceremony.");
-MsgDisp("主人公","｛御影＊＊｝'s graduation ceremony? Are
-you going to quit your job as a teacher at
-Haba High?");
+MsgDisp("主人公","｛御影＊＊｝'s graduation ceremony?
+Are you going to quit your job as a
+teacher at Haba High?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -40,8 +39,8 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020701000_07_040");
-MsgDisp("Mikage","The reason I went to Haba High was to
-fill the gap from my high school days.");
+MsgDisp("Mikage","The reason I went to Haba High was to fill
+the gap from my high school days.");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -62,7 +61,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020701000_07_070");
-MsgDisp("Mikage","Thanks to you, I no longer have an excuse 
+MsgDisp("Mikage","Thanks to you, I no longer have an excuse
 to run away from the family business.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -84,9 +83,9 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("T020701000_07_100");
-MsgDisp("Mikage","That's right. When I think back to that
-time, the moment the bowling pins
-flipped——");
+MsgDisp("Mikage","That's right.
+When I think back to that time, the moment
+the bowling pins flipped——");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -134,8 +133,8 @@ ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("T020701000_07_160");
 MsgDisp("Mikage","'Like' quickly grew into 'Love' and it
-filled that void within me. There was no
-space left.");
+filled that void within me.
+There was no space left.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);

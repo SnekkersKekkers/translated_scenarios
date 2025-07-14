@@ -8,9 +8,8 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("D130B00001_04_000");
-MsgDisp("Nanatsumori","Ah... they're holding 
-quite a lot of things.
-Maybe... it's there.");
+MsgDisp("Nanatsumori","Ah... they're holding quite a lot of
+things. Maybe... it's there.");
 MsgDisp("主人公","Ah, you guys.
 Good morning!");
 ChEye(3,0);
@@ -70,16 +69,15 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D130B00001_03_030");
 VoiceEVSPlay(3);
-MsgDisp("Honda","Eh-... then, I'm going back too.
-See you later, ｛主人公｝.");
+MsgDisp("Honda","Eh-... then, I'm going back too. See you
+later, ｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 BGMStop();
 ChClose(1,0,30);
 ChClose(4,0,30);
 ChClose(3,0,30);
-MsgDisp("主人公","(Ah... today is Valentine's day,
-so could that be what
-they're worrying over?)");
+MsgDisp("主人公","(Ah... today is Valentine's day, so could
+that be what they're worrying over?)");
 MsgClose();
 ScrFadeOut(0,0);

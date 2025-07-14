@@ -4,8 +4,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620001_06_000");
-MsgDisp("Himuro","Look, I know it's not fair to bring  
-this up here, but...");
+MsgDisp("Himuro","Look, I know it's not fair to bring this
+up here, but...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -16,7 +16,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_020");
-MsgDisp("Himuro","You know... all the PDA. 
+MsgDisp("Himuro","You know...
+all the PDA.
 ......It's kinda embarrassing.");
 MsgDisp("主人公","What?!");
 ChEye(6,1);
@@ -44,8 +45,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_060");
-MsgDisp("Himuro","If it were me,
-I'd handle it with more decorum.");
+MsgDisp("Himuro","If it were me, I'd handle it with more
+decorum.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -72,13 +73,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_100");
-MsgDisp("Himuro","Anyway, just be more aware of how 
-you act in public.");
+MsgDisp("Himuro","Anyway, just be more aware of how you act
+in public.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_110");
-MsgDisp("Himuro","You never know how people are watching or 
+MsgDisp("Himuro","You never know how people are watching or
 judging you.");
 MsgDisp("主人公","Yeah, you're right......");
 ChEye(6,2);
@@ -87,8 +88,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("G020620001_06_120");
-MsgDisp("Himuro","Like, who knows? Maybe there are more 
-people out there getting jealous and 
+MsgDisp("Himuro","Like, who knows? Maybe there are more
+people out there getting jealous and
 annoyed by it, just like me.");
 MsgDisp("主人公","(｛氷室＊＊｝......?)");
 BGMStop();

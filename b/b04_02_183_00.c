@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040218300_02_000");
     MsgDisp("Sassa","I thought so too.
-But, maybe I would've
-liked a bit more action?");
+But, maybe I would've liked a bit more
+action?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

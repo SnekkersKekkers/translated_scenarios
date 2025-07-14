@@ -12,7 +12,7 @@ Sorry.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(It can't be helped. 
+    MsgDisp("主人公","(It can't be helped.
 I'll go straight home today.)");
     break ;
     case 3:
@@ -20,7 +20,8 @@ I'll go straight home today.)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("F010200006_02_010");
-    MsgDisp("Sassa","Can't. My spending money's tight now.
+    MsgDisp("Sassa","Can't.
+My spending money's tight now.
 Well, ask me next month.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -43,9 +44,8 @@ I'll go straight home today.)");
     VoicePlay("F010200006_02_030");
     MsgDisp("Sassa","Sorry, I can't go with you.
 I can't use my pocket money freely.");
-    MsgDisp("主人公","Hehe.
-Well, next time.
-When you have a lot of pocket money.");
+    MsgDisp("主人公","Hehe. Well, next time. When you have a lot
+of pocket money.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -56,8 +56,8 @@ Go home safe.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(As expected,
-I'll walk home alone today...)");
+    MsgDisp("主人公","(As expected, I'll walk home alone
+today...)");
     break ;
     default :
     DbgAssert(1);

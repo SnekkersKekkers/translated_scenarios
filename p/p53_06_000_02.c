@@ -8,8 +8,8 @@ switch (ChPrmGet(6,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving
-it my all these last three years?)");
+Maybe it's because I've been giving it my
+all these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -21,8 +21,7 @@ it my all these last three years?)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P530600002_06_010");
-    MsgDisp("Himuro","You're so dignified,
-and seem so composed.
+    MsgDisp("Himuro","You're so dignified, and seem so composed.
 Have you grown?");
     MsgDisp("主人公","Hehe, maybe.");
     SEPlay("EV_SE_038");
@@ -31,9 +30,9 @@ Have you grown?");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("P530600002_06_020");
-    MsgDisp("Himuro","Then, I guess I'll listen to the 
-culmination of your hard work
-to my heart's content.");
+    MsgDisp("Himuro","Then, I guess I'll listen to the
+culmination of your hard work to my
+heart's content.");
     MsgDisp("主人公","I'll leave it to you1");
     MsgDisp("主人公","(This is my last concert... Alright! Let's
 have fun with all my heartー∈)");
@@ -46,8 +45,8 @@ have fun with all my heartー∈)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving
-it my all these last three years?)");
+Maybe it's because I've been giving it my
+all these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -67,9 +66,9 @@ it my all these last three years?)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P530600002_06_050");
-    MsgDisp("Himuro","That's a nice expression. I came here
-wanting to soothe your nerves, but it
-doesn't look like I'll have to.");
+    MsgDisp("Himuro","That's a nice expression.
+I came here wanting to soothe your nerves,
+but it doesn't look like I'll have to.");
     MsgDisp("主人公","That's not true.
 I'm happy you came to support me.");
     ChEye(6,0);
@@ -82,10 +81,10 @@ I'm happy you came to support me.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P530600002_06_070");
-    MsgDisp("Himuro","This is the last time I'll listen
-to your performance.");
-    MsgDisp("主人公","I need to let you hear the culmination
-of my hard work, huh?");
+    MsgDisp("Himuro","This is the last time I'll listen to your
+performance.");
+    MsgDisp("主人公","I need to let you hear the culmination of
+my hard work, huh?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,1);
@@ -100,8 +99,7 @@ I'm off now.");
     ChMotion(6,5);
     VoicePlay("P530600002_06_090");
     VoiceEVSPlay(6);
-    MsgDisp("Himuro","Ah——
-｛主人公｝.");
+    MsgDisp("Himuro","Ah—— ｛主人公｝.");
     MsgDisp("主人公","Yeah?");
     ChEye(6,0);
     ChMouth(6,0);

@@ -27,8 +27,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D120B00200_04_000");
-MsgDisp("Nanatsumori","Kazama's going to buy us something
-cold to drink.");
+MsgDisp("Nanatsumori","Kazama's going to buy us something cold to
+drink.");
 MsgDisp("主人公","Eh, really?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -62,8 +62,8 @@ StlMouth(4,0);
 Wait(6,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew......
-It's nice and cold inside the store!");
+MsgDisp("主人公","Phew...... It's nice and cold inside the
+store!");
 StlMouthOpenLevel(1,0);
 VoicePlay("D120B00200_01_030");
 MsgDisp("Kazama","............");
@@ -75,8 +75,7 @@ StlEyeOpenLevel(3,5,1);
 StlMouthOpenLevel(3,0);
 VoicePlay("D120B00200_03_010");
 MsgDisp("Honda","............");
-MsgDisp("主人公","(Eh?
-Everyone has a scary look on their
+MsgDisp("主人公","(Eh? Everyone has a scary look on their
 face......∋)");
 StlEyeOpenLevel(4,0,1);
 StlMouth(4,0);
@@ -86,9 +85,8 @@ Why don't you explain it.");
 StlEyeOpenLevel(3,#1);
 StlMouth(3,0);
 VoicePlay("D120B00200_03_020");
-MsgDisp("Honda","Right.
-I want an explanation from Ryo-kun that
-makes sense. ");
+MsgDisp("Honda","Right. I want an explanation from Ryo-kun
+that makes sense.");
 StlEyeOpenLevel(1,0,1);
 StlMouth(1,1);
 VoicePlay("D120B00200_01_040");
@@ -110,8 +108,7 @@ Everyone looks so scary......");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("D120B00200_04_040");
-MsgDisp("Nanatsumori","Hmm?
-It's not something you should worry
+MsgDisp("Nanatsumori","Hmm? It's not something you should worry
 about.");
 StlEye(3,1);
 StlMouth(3,1);
@@ -138,15 +135,15 @@ MsgDisp("Kazama","And I won't lose from now on.");
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00200_03_050");
 MsgDisp("Honda","Come to think of it, Ryo-kun has been
-standing next to me since we were
-walking here.");
+standing next to me since we were walking
+here.");
 StlEyeOpenLevel(4,5,1);
 StlMouth(4,1);
 VoicePlay("D120B00200_04_050");
-MsgDisp("Nanatsumori","Reserving your spot like that before
-we even sit is really smart......");
-MsgDisp("主人公","(Are they maybe talking about the
-way we're sitting......?)");
+MsgDisp("Nanatsumori","Reserving your spot like that before we
+even sit is really smart......");
+MsgDisp("主人公","(Are they maybe talking about the way
+we're sitting......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

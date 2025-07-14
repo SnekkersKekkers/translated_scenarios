@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(2,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223201_02_000");
-MsgDisp("Sassa","It would be good if ferris
-wheels spun a little faster.");
+MsgDisp("Sassa","It would be good if ferris wheels spun a
+little faster.");
 MsgSel("That's just a thrill ride then","Ferris wheels are supposed to be slow-spinning","That seems a bit interesting");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,8 @@ thrill ride?!");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B040223201_02_020");
-    MsgDisp("Sassa","If you put it that way, 
-the conversation is over, right?");
+    MsgDisp("Sassa","If you put it that way, the conversation
+is over, right?");
     MsgDateResultDisp();
     break ;
     case 2:

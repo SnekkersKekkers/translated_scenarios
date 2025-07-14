@@ -11,16 +11,16 @@ VoicePlay("G020810304_08_010");
 MsgDisp("Shirahane","I feel like I want to give you this whole
 view as a present.");
 MsgDisp("主人公","Hehe! The birthday present I received from
-｛大地＊＊｝ the other day was also lovely.");
+｛大地＊＊｝ the other day was also
+lovely.");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 ChCheek(8,8);
 VoicePlay("G020810304_08_020");
-MsgDisp("Shirahane","Ah......
-If you were happy with it, 
-that also makes me happy.");
+MsgDisp("Shirahane","Ah...... If you were happy with it, that
+also makes me happy.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);

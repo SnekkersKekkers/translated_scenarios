@@ -27,7 +27,8 @@ I'll go home alone today.)");
     ChMouth(21,0);
     ChMotion(21,1);
     VoicePlay("F012100006_21_020");
-    MsgDisp("Michiru","Today is a little... you know?
+    MsgDisp("Michiru","Today is a little...
+you know?
 My apologies.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -43,7 +44,8 @@ I'll go home alone.)");
     ChMotion(21,5);
     VoicePlay("F012100006_21_030");
     MsgDisp("Michiru","Teatime and Mari...
-I want to. However, I can't.");
+I want to.
+However, I can't.");
     MsgDisp("主人公","Do you have errands to run?");
     ChEye(21,4);
     ChMouth(21,4);

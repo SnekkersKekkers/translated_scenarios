@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
         ChMotion(22,3,1);
         VoicePlay("F012200002_22_000");
         MsgDisp("Hikaru","Oh, Mari!");
-        MsgDisp("主人公","If it's alright, why don't we go
-home together?");
+        MsgDisp("主人公","If it's alright, why don't we go home
+together?");
         break ;
         case 3:
         MsgDisp("主人公","｛ひかる＊｝.");
@@ -28,8 +28,7 @@ home together?");
         VoicePlay("F012200002_22_010");
         MsgDisp("Hikaru","Oh, Mari!
 Going home now?");
-        MsgDisp("主人公","Yes.
-If it's alright, why dont' we go home
+        MsgDisp("主人公","Yes. If it's alright, why dont' we go home
 together?");
         break ;
         case 4:
@@ -44,9 +43,8 @@ together?");
         VoicePlay("F012200002_22_020");
         MsgDisp("Hikaru","Mari!
 What a coincidence～");
-        MsgDisp("主人公","Hehe.
-If it's alright, why dont' we go home
-together?");
+        MsgDisp("主人公","Hehe. If it's alright, why dont' we go
+home together?");
         break ;
         default :
         DbgAssert(1);

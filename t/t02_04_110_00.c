@@ -62,14 +62,15 @@ ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,2);
 VoicePlay("T020411000_04_060");
-MsgDisp("Nanatsumori","I can't stand it. Everything that's going
-to happen in that church.");
+MsgDisp("Nanatsumori","I can't stand it.
+Everything that's going to happen in that
+church.");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_070");
-MsgDisp("Nanatsumori","Even if it means twisting your fate, 
-I can't give up.");
+MsgDisp("Nanatsumori","Even if it means twisting your fate, I
+can't give up.");
 MsgDisp("主人公","｛七ツ森＊｝......");
 ChEye(4,2);
 ChMouth(4,4);

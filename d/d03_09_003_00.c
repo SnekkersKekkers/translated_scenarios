@@ -1,15 +1,15 @@
 BGOpen("wf230",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder if that \"Kuya\" person is 
-here. I'd love to get an interview but
-I'd especially like to thank him......)");
-MsgDisp("主人公","(Will he show up again if there is
-someone in trouble like last time?)");
-MsgDisp("主人公","(But such a convenient thing like
-that definitely won't happen, huh......)");
-MsgDisp("主人公","Sigh......
-\"Kuya\"-san, I wonder where you are?");
+MsgDisp("主人公","(I wonder if that \"Kuya\" person is here.
+I'd love to get an interview but I'd
+especially like to thank him......)");
+MsgDisp("主人公","(Will he show up again if there is someone
+in trouble like last time?)");
+MsgDisp("主人公","(But such a convenient thing like that
+definitely won't happen, huh......)");
+MsgDisp("主人公","Sigh...... \"Kuya\"-san, I wonder where you
+are?");
 VoicePlay("D030900300_09_000");
 MsgDisp("Kuya?","You called?");
 MsgDisp("主人公","Eh?");
@@ -51,8 +51,8 @@ StlEye(9,0);
 VoicePlay("D030900300_09_050");
 MsgDisp("Kuya?","Thank me?
 For what, I wonder......");
-MsgDisp("主人公","The day we first met, you helped me
-when I fell——");
+MsgDisp("主人公","The day we first met, you helped me when I
+fell——");
 StlEye(9,1);
 VoicePlay("D030900300_09_060");
 MsgDisp("Kuya?","Ah, the kiss.");
@@ -62,8 +62,8 @@ StlEyeOpenLevel(9,5,1);
 VoicePlay("D030900300_09_070");
 MsgDisp("Kuya?","You're still worried about that?
 You're so polite.");
-MsgDisp("主人公","(It was a kiss on the cheek,
-now I remember......)");
+MsgDisp("主人公","(It was a kiss on the cheek, now I
+remember......)");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -108,8 +108,8 @@ VoicePlay("D030900300_09_110");
 MsgDisp("Kuya","Just Kuya is fine.
 That's what everyone calls me.");
 MsgDisp("主人公","Then......Kuya-san.
-I want to thank you again for helping
-me. I'm really grateful!");
+I want to thank you again for helping me.
+I'm really grateful!");
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_120");
 MsgDisp("Kuya","You're welcome.
@@ -124,25 +124,25 @@ MsgDisp("Kuya","I'm glad to hear that.
 For some reason, I tend to encounter
 people in troublesome situations a lot.");
 VoicePlay("D030900300_09_140");
-MsgDisp("Kuya","You know how I told you before that
-it's my \"job?\"");
-MsgDisp("Kuya","Because I have this sort of power, 
-I've become a \"Jack of All Trades\" who
-goes around helping people in need.");
+MsgDisp("Kuya","You know how I told you before that it's
+my \"job?\"");
+MsgDisp("Kuya","Because I have this sort of power, I've
+become a \"Jack of All Trades\" who goes
+around helping people in need.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900300_09_150");
-MsgDisp("Kuya","But......I guess today 
-I have a situation of my own to deal 
-with? It's a strange feeling.");
+MsgDisp("Kuya","But......I guess today I have a situation
+of my own to deal with?
+It's a strange feeling.");
 MsgDisp("主人公","Hehe.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_160");
-MsgDisp("Kuya","So you're working part-time as a 
+MsgDisp("Kuya","So you're working part-time as a
 journalist for the Habacha editorial
 department, right?");
 MsgDisp("主人公","Yep, that's right.
@@ -151,12 +151,12 @@ ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900300_09_170");
-MsgDisp("Kuya","Good luck. As a journalist you have to 
-have a keen sense for \"style\". 
-I'll cheer you on from the shadows.");
+MsgDisp("Kuya","Good luck. As a journalist you have to
+have a keen sense for \"style\". I'll cheer
+you on from the shadows.");
 MsgDisp("主人公","Thank you so much.
-Uhm, actually, I was wondering if I
-I could interview——");
+Uhm, actually, I was wondering if I I
+could interview——");
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_180");
 MsgDisp("Kuya","Here we are, then.

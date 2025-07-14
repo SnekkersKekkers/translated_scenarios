@@ -64,8 +64,8 @@ mistress?");
         ChEyeOpenLevel(1,0);
         ChCheek(1,7);
         VoicePlay("B040106502_01_060");
-        MsgDisp("Kazama","You know that means this special spot
-will always be reserved for you.");
+        MsgDisp("Kazama","You know that means this special spot will
+always be reserved for you.");
         MsgDisp("主人公","Hehe, I understand.");
         ChEye(1,0);
         ChMouth(1,3);
@@ -73,8 +73,8 @@ will always be reserved for you.");
         ChCheek(1,0);
         VoicePlay("B040106502_01_070");
         MsgDisp("Kazama","Oh, and also, it can't be cancelled.");
-        MsgDisp("主人公","(Hehe, I hope we can see it
-together again next year too...)");
+        MsgDisp("主人公","(Hehe, I hope we can see it together again
+next year too...)");
         break ;
         default :
         DbgAssert(1);

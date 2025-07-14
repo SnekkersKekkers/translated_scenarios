@@ -10,8 +10,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0,1);
     ScrFadeIn(0);
     VoicePlay("B060500004_05_000");
-    MsgDisp("Hiiragi","On a day like this, we should just
-go home early.
+    MsgDisp("Hiiragi","On a day like this, we should just go home
+early.
 Thank you for coming.");
     MsgDispSksp(0);
     break ;
@@ -35,8 +35,8 @@ Go home and get some rest.");
     ChMotion(5,2,1);
     ScrFadeIn(0);
     VoicePlay("B060500004_05_020");
-    MsgDisp("Hiiragi","I can't believe our day together 
-ends like this......Sorry.
+    MsgDisp("Hiiragi","I can't believe our day together ends like
+this......Sorry.
 Truthfully, I wish we could start over.");
     MsgDispSksp(0);
     break ;

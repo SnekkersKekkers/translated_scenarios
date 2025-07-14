@@ -8,8 +8,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("J040700000_07_000");
-MsgDisp("Mikage","What do you mean? I'm enjoying my high
-school life!");
+MsgDisp("Mikage","What do you mean?
+I'm enjoying my high school life!");
 MsgDisp("主人公","Phew, that sounds like fun.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -17,8 +17,8 @@ ChMotion(7,0);
 VoicePlay("J040700000_07_010");
 MsgDisp("Mikage","So,
 you......");
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
-Is there somewhere you want to go?");
+MsgDisp("主人公","Ah, ｛御影＊＊｝. Is there somewhere
+you want to go?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -42,8 +42,8 @@ I'll see you later.");
     MsgClose();
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(｛御影＊＊｝ I guess I should have kept
-him company......)");
+    MsgDisp("主人公","(｛御影＊＊｝ I guess I should have
+kept him company......)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

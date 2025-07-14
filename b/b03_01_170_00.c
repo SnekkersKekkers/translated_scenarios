@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B030117000_01_000");
-MsgDisp("Kazama","I'm looking forward to your
-onstage presence.");
+MsgDisp("Kazama","I'm looking forward to your onstage
+presence.");
 MsgDispSksp(1,0);
 ChEye(1,0);
 ChMouth(1,2);

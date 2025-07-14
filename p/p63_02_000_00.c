@@ -14,10 +14,9 @@ well received though...)");
     ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200000_02_000");
-    MsgDisp("Sassa","｛主人公｝.
-It's somewhat of weird smell, huh?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-You came."); 
+    MsgDisp("Sassa","｛主人公｝. It's somewhat of weird
+smell, huh?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. You came."); 
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -41,8 +40,8 @@ drink for your first time trying it♪");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P630200000_02_040");
-    MsgDisp("Sassa","Then, I'll have your recommended 
-blend and cookies please.");
+    MsgDisp("Sassa","Then, I'll have your recommended blend and
+cookies please.");
     MsgDisp("主人公","Then, this way please.
 One herb tea set please!");
     MsgClose();
@@ -62,8 +61,7 @@ well received though...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200000_02_050");
-    MsgDisp("Sassa","｛主人公｝,
-I came to visit.");
+    MsgDisp("Sassa","｛主人公｝, I came to visit.");
     MsgDisp("主人公","Nice to see you, welcome～!");
     ChEye(2,0);
     ChMouth(2,4);
@@ -76,10 +74,10 @@ everyone is matching.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P630200000_02_070");
-    MsgDisp("Sassa","Yeah.
-There's a familiar feel, it's calming.");
-    MsgDisp("主人公","The herbal tea's blend also
-has a relaxing effect.");
+    MsgDisp("Sassa","Yeah. There's a familiar feel, it's
+calming.");
+    MsgDisp("主人公","The herbal tea's blend also has a relaxing
+effect.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

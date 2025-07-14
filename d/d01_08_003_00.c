@@ -37,9 +37,8 @@ All correct answers.");
 MsgDisp("主人公","Is this your test?");
 StlEye(8,1);
 VoicePlay("D010800300_08_040");
-MsgDisp("Shirahane","Ya.
-It's been a while since I got a perfect
-score!");
+MsgDisp("Shirahane","Ya. It's been a while since I got a
+perfect score!");
 MsgDisp("主人公","Amazing!");
 StlEye(8,0);
 VoicePlay("D010800300_08_050");
@@ -48,8 +47,8 @@ MsgDisp("主人公","Eh?");
 StlEyeOpenLevel(8,5);
 VoicePlay("D010800300_08_060");
 MsgDisp("Shirahane","Ikkun, I mean Iku Honda-kun always gets
-this Perfect Score Anpan. The effect is
-actually amazing......");
+this Perfect Score Anpan.
+The effect is actually amazing......");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -63,32 +62,31 @@ other?");
 ChEye(8,0);
 ChMouth(8,0);
 VoicePlay("D010800300_08_070");
-MsgDisp("Shirahane","Not really. I saw him somewhere the
-other day and recognized him, so I
-spoke to him for the first time.");
+MsgDisp("Shirahane","Not really. I saw him somewhere the other
+day and recognized him, so I spoke to him
+for the first time.");
 MsgDisp("主人公","I see.");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,2,1);
 VoicePlay("D010800300_08_080");
-MsgDisp("Shirahane","Like Ikkun says, the sugar content
-in the bread probably helps.");
+MsgDisp("Shirahane","Like Ikkun says, the sugar content in the
+bread probably helps.");
 MsgDisp("主人公","Hehe!");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("D010800300_08_090");
-MsgDisp("Shirahane","Well, this is the last time I'll rely
-on its special powers. I have to get
-a perfect score on my own.");
+MsgDisp("Shirahane","Well, this is the last time I'll rely on
+its special powers.
+I have to get a perfect score on my own.");
 MsgDisp("主人公","Right?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("D010800300_08_100");
-MsgDisp("Shirahane","Hehe!
-Since we're already here, wanna go
+MsgDisp("Shirahane","Hehe! Since we're already here, wanna go
 home together?");
 MsgDisp("主人公","Sure!");
 MsgDisp("主人公","(......Come to think of it, where did

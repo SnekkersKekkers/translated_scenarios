@@ -3,9 +3,9 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106202_01_000");
-MsgDisp("Kazama","Aside from just being blue,
-the cave sounds are exciting too.");
-MsgSel("Boys like that kind of stuff, right?","Captain! Falling rocks overhead!","Hehe, ｛風真＊＊｝'s expedition team?'");
+MsgDisp("Kazama","Aside from just being blue, the cave
+sounds are exciting too.");
+MsgSel("Boys like that kind of stuff, right?","Captain! Falling rocks overhead!","Hehe, ｛風真＊＊｝'s expedition team?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){
@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
         ChMotion(1,3);
         ChEyeOpenLevel(1,7);
         VoicePlay("B040106202_01_010");
-        MsgDisp("Kazama","Boys?
-You're really, surprisingly just
+        MsgDisp("Kazama","Boys? You're really, surprisingly just
 lumping me in like that, huh?");
         MsgDateResultDisp();
         break ;
@@ -35,9 +34,9 @@ lumping me in like that, huh?");
         MsgDisp("Kazama","And just how many boys do you have in your
 sample size, here? You sound like you're
 talking from some high and mighty place.");
-        MsgDisp("主人公","But ever since we were kids,
-you always said that you'd investigate
-anything you were curious about...");
+        MsgDisp("主人公","But ever since we were kids, you always
+said that you'd investigate anything you
+were curious about...");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);
@@ -56,8 +55,8 @@ have never done anything like that.");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040106202_01_040");
-        MsgDisp("Kazama","I wouldn't have done it
-without you there, either.");
+        MsgDisp("Kazama","I wouldn't have done it without you there,
+either.");
         MsgDisp("主人公","Huh?");
         ChEye(1,2);
         ChMouth(1,0);
@@ -66,9 +65,8 @@ without you there, either.");
         ChCheek(1,0);
         VoicePlay("B040106202_01_060");
         MsgDisp("Kazama","I only wanted to explore with you.");
-        MsgDisp("主人公","Hehe.
-Being on your expedition team
-made everyday fun.");
+        MsgDisp("主人公","Hehe. Being on your expedition team made
+everyday fun.");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -83,8 +81,8 @@ Of course I do.");
         ChMotion(1,0,1);
         VoicePlay("B040106202_01_080");
         MsgDisp("Kazama","In that case, I'm appointing you as
-second-in-command once more. But there's
-no deserting.");
+second-in-command once more.
+But there's no deserting.");
         MsgDisp("主人公","(｛風真＊＊｝ seems like he's having fun.)");
         break ;
         default :

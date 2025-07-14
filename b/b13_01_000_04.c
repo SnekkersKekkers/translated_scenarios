@@ -6,8 +6,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B130100004_01_000");
-MsgDisp("Kazama","Your fashion today matches 
-this place perfectly.
+MsgDisp("Kazama","Your fashion today matches this place
+perfectly.
 Was that intentional?");
 ChEye(1,4);
 ChMouth(1,3);

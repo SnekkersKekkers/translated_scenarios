@@ -1,7 +1,8 @@
 BGOpen("sc500",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right. I have to weed the
-gardening club's field, don't I?)");
+MsgDisp("主人公","(That's right.
+I have to weed the gardening club's field,
+don't I?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -17,8 +18,8 @@ ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("G110700804_07_000");
-MsgDisp("Mikage","｛主人公｝,
-You've come to the right place.
+MsgDisp("Mikage","｛主人公｝, You've come to the right
+place.
 Please help me with weeding.");
 MsgDisp("主人公","Yes.
 Then, I'll start from the other side.");
@@ -32,8 +33,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700804_07_020");
-MsgDisp("Mikage","If that's the case...... I guess you don't
-dislike this kind of work?");
+MsgDisp("Mikage","If that's the case......
+I guess you don't dislike this kind of
+work?");
 MsgDisp("主人公","Yes. Weeds and insects are proof of
 organic farming, aren't they?");
 ChEye(7,0);
@@ -73,10 +75,11 @@ VoicePlay("G110700804_07_080");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
-MsgDisp("Mikage","That's right. 
+MsgDisp("Mikage","That's right.
 Who do you think made me cry?");
-MsgDisp("主人公","(Yay, ｛御影＊＊｝ praised me! I'm glad I
-worked hard in the gardening club.)");
+MsgDisp("主人公","(Yay, ｛御影＊＊｝ praised me!
+I'm glad I worked hard in the gardening
+club.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -39,13 +39,11 @@ SEPlay("EV_SE_551");
 SEWait();
 VoicePlay("B150400500_04_050");
 MsgDisp("Nanatsumori","Haa...");
-MsgDisp("主人公","Ughー...
-｛七ツ森＊｝, it hurts.");
+MsgDisp("主人公","Ughー... ｛七ツ森＊｝, it hurts.");
 VoicePlay("B150400500_04_060");
 MsgDisp("Nanatsumori","I bet.
 I'm holding you with all my strength.");
-MsgDisp("主人公","(What should I do?
-I can almost hear my 
+MsgDisp("主人公","(What should I do? I can almost hear my
 heart racing... )");
 VoicePlay("B150400500_04_070");
 MsgDisp("Nanatsumori","............");
@@ -78,15 +76,17 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B150400500_04_100");
 MsgDisp("Nanatsumori","You're the one who's mean.
-Truth is you like it. ");
+Truth is you like it.");
 ChMotion(4,0,1);
 VoicePlay("B150400500_04_110");
-MsgDisp("Nanatsumori","From now on, touch me as much 
-as you'd like. And I'll do the same.");
+MsgDisp("Nanatsumori","From now on, touch me as much as you'd
+like.
+And I'll do the same.");
 ChMotion(4,1,1);
 VoicePlay("B150400500_04_120");
 MsgDisp("Nanatsumori","We're in mutual agreement.
-It's okay. See you then.");
+It's okay.
+See you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
 MsgDisp("主人公","(I-Is it o-okay?)");

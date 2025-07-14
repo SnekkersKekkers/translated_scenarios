@@ -1,12 +1,11 @@
-MsgDisp("主人公","Hey...
-｛大地＊＊｝, do you have a 
-type of girl you like?");
+MsgDisp("主人公","Hey... ｛大地＊＊｝, do you have a type
+of girl you like?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070800000_08_400");
-MsgDisp("Shirahane","Rather than a type, 
-I think all girls are cute.");
+MsgDisp("Shirahane","Rather than a type, I think all girls are
+cute.");
 MsgDisp("主人公","Ah, you're dodging the question.");
 ChEye(8,2);
 ChMouth(8,5);
@@ -19,16 +18,16 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_420");
-MsgDisp("Shirahane","Honestly speakin', I'm super bad at 
-these kinds of conversations...");
+MsgDisp("Shirahane","Honestly speakin', I'm super bad at these
+kinds of conversations...");
 MsgDisp("主人公","Eh?");
 ChEye(8,2);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,8);
 VoicePlay("B070800000_08_430");
 MsgDisp("Shirahane","After all...
-You'd be taken aback if 
-I said I liked you right?");
+You'd be taken aback if I said I liked you
+right?");
 ChEyeOpenLevel(8,0);
 MsgDisp("主人公","T-That's not true but...");
 ChEye(8,4);

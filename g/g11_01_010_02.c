@@ -31,9 +31,9 @@ VoicePlay("G110101002_01_000");
 MsgDisp("Kazama","We've been so immersed in talking.
 Let's go home before it gets dark.");
 MsgDisp("主人公","Yeah.");
-MsgDisp("主人公","(......Huh?
-｛風真＊＊｝'s pockets are bulging?
-I wonder if he's got something in them.)");
+MsgDisp("主人公","(......Huh? ｛風真＊＊｝'s pockets are
+bulging? I wonder if he's got something in
+them.)");
 while (1){
     RunEverydaySksp(1,0,0,0,1,1);
     if (RunEverydaySkspRsltGet()){
@@ -52,15 +52,15 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110101002_01_040");
-MsgDisp("Kazama","Haha,
-as expected from your sense of smell, huh?");
+MsgDisp("Kazama","Haha, as expected from your sense of
+smell, huh?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110101002_01_050");
-MsgDisp("Kazama","I thought I'd eat these with you. It's
-sweet potato. I was secretly carrying
-them.");
+MsgDisp("Kazama","I thought I'd eat these with you.
+It's sweet potato.
+I was secretly carrying them.");
 MsgDisp("主人公","Eh, really?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -75,14 +75,14 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G110101002_01_070");
-MsgDisp("Kazama","You made that face 
-so happily when we were camping too.");
+MsgDisp("Kazama","You made that face so happily when we were
+camping too.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110101002_01_080");
-MsgDisp("Kazama","I'm going to be late, 
-So let's eat whilst walking.");
+MsgDisp("Kazama","I'm going to be late, So let's eat whilst
+walking.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

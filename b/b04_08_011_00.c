@@ -7,9 +7,9 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,2,1);
 VoicePlay("B040801100_08_000");
-MsgDisp("Shirahane","This place is so stylish that I feel
-a lil' embarrassed.");
-MsgSel("Waa! I can see the horizon shining","I wonder if we can see｛大地＊＊｝'s house from here?'","It's so high that I can't move my legs...");
+MsgDisp("Shirahane","This place is so stylish that I feel a
+lil' embarrassed.");
+MsgSel("Waa! I can see the horizon shining","I wonder if we can see ｛大地＊＊｝'s house from here?'","It's so high that I can't move my legs...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -17,9 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040801100_08_010");
-    MsgDisp("Shirahane","Aah... it's true.
-It looks so vast from up high...
-It's beautiful!");
+    MsgDisp("Shirahane","Aah... it's true. It looks so vast from up
+high... It's beautiful!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

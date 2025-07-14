@@ -8,9 +8,8 @@ switch (ChPrmGet(7,6)){
     MsgClose();
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090700000_07_000");
-    MsgDisp("Mikage","Wow, like expected, the shrine is 
-really busy and lively on New years, 
-huh.");
+    MsgDisp("Mikage","Wow, like expected, the shrine is really
+busy and lively on New years, huh.");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,3);
@@ -29,8 +28,8 @@ huh.");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("S090700000_07_030");
-        MsgDisp("Mikage","I wonder what our fortunes
-will be this year?");
+        MsgDisp("Mikage","I wonder what our fortunes will be this
+year?");
         MsgDisp("主人公","Yeah!
 I hope we get good ones.");
         ChEye(7,0);
@@ -43,8 +42,8 @@ I hope we get good ones.");
         ChMotion(7,2);
         VoicePlay("S090700000_07_040");
         MsgDisp("Mikage","That's unfortunate......
-If you don't want to do it, then it's
-best just to ignore it.");
+If you don't want to do it, then it's best
+just to ignore it.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -74,9 +73,8 @@ That's where they do fortunes, right?");
         ChMouth(7,3);
         ChMotion(7,2);
         VoicePlay("S090700000_07_070");
-        MsgDisp("Mikage","Right?
-We've come all this way, it would be a
-waste not to go.");
+        MsgDisp("Mikage","Right? We've come all this way, it would
+be a waste not to go.");
         MsgDisp("主人公","Hehe. Let's go.");
         ChEye(7,0);
         ChMouth(7,0);
@@ -87,14 +85,15 @@ waste not to go.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("S090700000_07_080");
-        MsgDisp("Mikage","I see. Are you getting tired?");
+        MsgDisp("Mikage","I see.
+Are you getting tired?");
         MsgDisp("主人公","Yeah, a little......");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("S090700000_07_090");
-        MsgDisp("Mikage","Sorry, I guess I dragged you
-around too much.");
+        MsgDisp("Mikage","Sorry, I guess I dragged you around too
+much.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -127,16 +126,15 @@ Do you want to go?");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("S090700000_07_120");
-        MsgDisp("Mikage","Good.
-My lucky right hand will give me
+        MsgDisp("Mikage","Good. My lucky right hand will give me
 Excellent Luck, watch.");
         MsgDisp("主人公","Hehe, is it really lucky? ");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("S090700000_07_130");
-        MsgDisp("Mikage","Do you know how many healthy
-calves I've raised with my right hand?
+        MsgDisp("Mikage","Do you know how many healthy calves I've
+raised with my right hand?
 Leave it to me.");
         MsgDisp("主人公","(｛御影＊＊｝ is so confident!)");
         ChEye(7,0);
@@ -150,8 +148,8 @@ Leave it to me.");
         VoicePlay("S090700000_07_140");
         MsgDisp("Mikage","Oh, I see.
 If you don't like it, then you shouldn't.");
-        MsgDisp("主人公","(｛御影＊＊｝, feels like he
-really wanted to pull fortunes......
+        MsgDisp("主人公","(｛御影＊＊｝, feels like he really
+wanted to pull fortunes......
 Did I make the wrong choice?)");
         MsgClose();
         ScrFadeOut(0,0);

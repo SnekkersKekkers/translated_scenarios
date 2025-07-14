@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040216002_02_010");
     MsgDisp("Sassa","Got it.
-But in exchange, if I get it, 
-you have to properly eat it.");
+But in exchange, if I get it, you have to
+properly eat it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,7 +46,8 @@ Girls really like this stuff huh.");
         ChMotion(2,4);
         VoicePlay("B040216002_02_030");
         MsgDisp("Sassa","What do you mean by complicated?
-Good thing? Bad thing?");
+Good thing?
+Bad thing?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,8 +63,8 @@ Good thing? Bad thing?");
         ChMouth(2,4);
         ChMotion(2,1);
         VoicePlay("B040216002_02_050");
-        MsgDisp("Sassa","...But you know, that makes 
-me want to try even more.");
+        MsgDisp("Sassa","...But you know, that makes me want to try
+even more.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -114,15 +115,15 @@ It had a delayed fall∈");
         MsgDisp("Sassa","That...
 Does that count as me winning it?");
         MsgDisp("主人公","Yeah, of course!
-It's ｛颯砂＊＊｝'s'");
+It's ｛颯砂＊＊｝'s.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040216002_02_100");
         MsgDisp("Sassa","You really are my goddess of victory.
 If you're there, I can't lose.");
-        MsgDisp("主人公","(｛颯砂＊＊｝...
-I'm happy, but isn't that exaggerated...)");
+        MsgDisp("主人公","(｛颯砂＊＊｝... I'm happy, but isn't that
+exaggerated...)");
         break ;
         default :
         DbgAssert(1);

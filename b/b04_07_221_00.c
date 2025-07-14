@@ -28,8 +28,8 @@ I-I'm good with them.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040722100_07_020");
-    MsgDisp("Mikage","It's only natural for a wooden 
-building to creak... right?");
+    MsgDisp("Mikage","It's only natural for a wooden building to
+creak... right?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -38,8 +38,8 @@ building to creak... right?");
     ChMouth(7,3);
     ChMotion(7,4);
     VoicePlay("B040722100_07_030");
-    MsgDisp("Mikage","It would be a great help if
-you could hold my hand.");
+    MsgDisp("Mikage","It would be a great help if you could hold
+my hand.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

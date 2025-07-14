@@ -3,7 +3,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140601158_06_000");
 MsgDisp("Himuro","It seems like you were tempted too.
-This is definitely from cafe Sangosho, 
+This is definitely from cafe Sangosho,
 there's no mistaking it.");
 ChEye(6,0);
 ChMouth(6,2);

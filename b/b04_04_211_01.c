@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040421101_04_010");
     MsgDisp("Nanatsumori","Oh, same.
-I even use the silhouette of a lion's
-main for reference in my work.");
+I even use the silhouette of a lion's main
+for reference in my work.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +42,7 @@ What do you like about them.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040421101_04_030");
-    MsgDisp("Nanatsumori","Haha.
-Then let's take a good look at all 
+    MsgDisp("Nanatsumori","Haha. Then let's take a good look at all
 of them, one by one.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

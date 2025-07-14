@@ -29,8 +29,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(6,0);
     ScrFadeIn(0);
     VoicePlay("R040600002_06_010");
-    MsgDisp("Himuro","I'm a little hungry, so I'm
-gonna grab some food.");
+    MsgDisp("Himuro","I'm a little hungry, so I'm gonna grab
+some food.");
     MsgDisp("主人公","Okay, see you later.");
     break ;
     case 4:

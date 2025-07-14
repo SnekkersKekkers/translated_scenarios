@@ -6,8 +6,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300001_03_000");
-    MsgDisp("Honda","Ah, perfect for replenishing my
-sugar levels. Thanks!");
+    MsgDisp("Honda","Ah, perfect for replenishing my sugar
+levels. Thanks!");
     MsgDisp("主人公","(Yeah......
 That's how it is.)");
     break ;
@@ -24,9 +24,8 @@ My sister gave me the same one.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300001_03_020");
-    MsgDisp("Honda","It's fine, it's fine.
-I already know it's delicious.
-Thanks!");
+    MsgDisp("Honda","It's fine, it's fine. I already know it's
+delicious. Thanks!");
     MsgDisp("主人公","(He seemed pleased, I guess.)");
     break ;
     case 4:
@@ -42,8 +41,8 @@ Thanks!");
     ChMotion(3,2);
     VoicePlay("L040300001_03_040");
     MsgDisp("Honda","That's weird.
-Usually, I don't mind
-obligatory chocolates......");
+Usually, I don't mind obligatory
+chocolates......");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1);
@@ -54,8 +53,8 @@ I'll enjoy them.");
     VoicePlay("L040300001_03_060");
     MsgDisp("Honda?","......Da, I wonder what this is.
 This uneasy feeling......");
-    MsgDisp("主人公","(Maybe I should've given him
-a better chocolate......)");
+    MsgDisp("主人公","(Maybe I should've given him a better
+chocolate......)");
     break ;
     default :
     DbgAssert(1);

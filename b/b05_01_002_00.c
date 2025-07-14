@@ -34,30 +34,28 @@ MsgDisp("主人公","Waa, when did you get this?
 ｛風真＊＊｝, you're like a magician!");
 StlEyeOpenLevel(1,5);
 VoicePlay("B050100200_01_030");
-MsgDisp("Kazama","I haven't heard of a magician
-that pulls out sweet potatoes.");
+MsgDisp("Kazama","I haven't heard of a magician that pulls
+out sweet potatoes.");
 StlEyeOpenLevel(1,#1);
 VoicePlay("B050100200_01_040");
 MsgDisp("Kazama","Here.
 It's piping hot, so be careful.");
-MsgDisp("主人公","Yeah.
-Looks delicious.
-Thank you for the food!");
+MsgDisp("主人公","Yeah. Looks delicious. Thank you for the
+food!");
 StlEyeOpenLevel(1,5);
 StlMouthOpenLevel(1,0);
 StlCheek(1,5);
 VoicePlay("B050100200_01_050");
 MsgDisp("Kazama","............");
-MsgDisp("主人公","Hey...
-If you stare at me like that, 
-it'll be hard for me to eat.");
+MsgDisp("主人公","Hey... If you stare at me like that, it'll
+be hard for me to eat.");
 StlEye(1,1);
 StlMouth(1,1);
 StlCheek(1,7);
 VoicePlay("B050100200_01_060");
 MsgDisp("Kazama","Eh, ah that's right.
-You just looked so dazed
-when taking a bite.");
+You just looked so dazed when taking a
+bite.");
 StlEyeOpenLevel(1,0);
 Wait(14,0);
 StlEye(1,0);
@@ -94,11 +92,11 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100200_01_090");
-MsgDisp("Kazama","When you have a nice reaction like that, 
+MsgDisp("Kazama","When you have a nice reaction like that,
 it's worthwhile for me too.");
 MsgDisp("主人公","Next time I'll be the one to surprise
-｛風真＊＊｝ with something he likes. What
-would be good for you?");
+｛風真＊＊｝ with something he likes.
+What would be good for you?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -110,9 +108,9 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChCheek(1,7);
 VoicePlay("B050100200_01_110");
-MsgDisp("Kazama","Well, what I like is always 
-right in front of me.");
-MsgDisp("主人公","(Always in front of him? 
+MsgDisp("Kazama","Well, what I like is always right in front
+of me.");
+MsgDisp("主人公","(Always in front of him?
 What is that...)");
 BGMStop();
 MsgClose();

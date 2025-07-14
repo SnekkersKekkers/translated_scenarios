@@ -3,8 +3,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 VoicePlay("G020220301_02_000");
-MsgDisp("Sassa","You know, 
-I'm interested in fashion. But it's tough.");
+MsgDisp("Sassa","You know, I'm interested in fashion.
+But it's tough.");
 MsgDisp("主人公","What's this all of a sudden?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -40,15 +40,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220301_02_050");
-MsgDisp("Sassa","No, really, it's the opposite. 
-My limbs are too long,
-and I have more muscle than average.");
+MsgDisp("Sassa","No, really, it's the opposite.
+My limbs are too long, and I have more
+muscle than average.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220301_02_060");
-MsgDisp("Sassa","Off-the-rack clothes 
-either fit too tight or are way too loose.");
+MsgDisp("Sassa","Off-the-rack clothes either fit too tight
+or are way too loose.");
 MsgDisp("主人公","Hehe, is that right.");
 ChEye(2,0);
 ChMouth(2,0);

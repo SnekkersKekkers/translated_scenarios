@@ -6,8 +6,8 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040421100_04_000");
-MsgDisp("Nanatsumori","Lots of animals are
-coming out to greet us.");
+MsgDisp("Nanatsumori","Lots of animals are coming out to greet
+us.");
 MsgSel("Let's take a closer look!","Let's take a picture with the animals!","Is there anywhere you want to see, ｛七ツ森＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,10 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040421100_04_010");
-    MsgDisp("Nanatsumori","ＯＫ.
-The animals also have facial
-expressions? Let's be sure 
-to get a proper look.");
+    MsgDisp("Nanatsumori","ＯＫ. The animals also have facial
+expressions? Let's be sure to get a proper
+look.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,8 +30,7 @@ to get a proper look.");
     ChMotion(4,1,1);
     VoicePlay("B040421100_04_020");
     MsgDisp("Nanatsumori","That's fine but...
-Let's look at the animals first, 
-shall we?");
+Let's look at the animals first, shall we?");
     MsgDateResultDisp();
     break ;
     case 2:

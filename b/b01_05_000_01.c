@@ -18,8 +18,9 @@ switch (ChPrmGet(5,6)){
     ChEye(5,0);
     ChMouth(5,4);
     VoicePlay("B010500001_05_010");
-    MsgDisp("Hiiragi","Thank you. I'll be more careful from here
-on. Then, let's be off.");
+    MsgDisp("Hiiragi","Thank you.
+I'll be more careful from here on.
+Then, let's be off.");
     MsgDispSksp(0);
     break ;
     case 3:
@@ -34,8 +35,8 @@ on. Then, let's be off.");
     MsgDispSksp(1,0);
     ChMotion(5,2);
     VoicePlay("B010500001_05_030");
-    MsgDisp("Hiiragi","I am hesitant to forgive myself
-for keeping you waiting.");
+    MsgDisp("Hiiragi","I am hesitant to forgive myself for
+keeping you waiting.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -47,12 +48,11 @@ for keeping you waiting.");
     ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_040");
     MsgDisp("Hiiragi","Ahh, thank goodness...");
-    MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
-What's wrong?");
+    MsgDisp("主人公","Oh, ｛柊＊＊＊｝. What's wrong?");
     ChMotion(5,4);
     VoicePlay("B010500001_05_050");
-    MsgDisp("Hiiragi","If you hadn't been waiting here... No,
-I'll perish the thought.");
+    MsgDisp("Hiiragi","If you hadn't been waiting here...
+No, I'll perish the thought.");
     MsgDisp("主人公","Hey, I waited for you.");
     MsgDispSksp(1,0);
     ChEye(5,4);

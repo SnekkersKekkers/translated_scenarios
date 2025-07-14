@@ -21,9 +21,9 @@ ChMouth(6,4);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 ChCheek(6,0);
-MsgDisp("Himuro","You've answered the way I hoped, 
-it's come full circle now; 
-that was beyond what I expected.");
+MsgDisp("Himuro","You've answered the way I hoped, it's come
+full circle now; that was beyond what I
+expected.");
 MsgDisp("主人公","Yeah?");
 VoicePlay("T020601000_06_160");
 ChEye(6,4);
@@ -40,8 +40,7 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoiceEVSPlay(6);
 VoicePlay("T020601000_06_170");
-MsgDisp("Himuro","｛主人公｝,
-I love you.");
+MsgDisp("Himuro","｛主人公｝, I love you.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

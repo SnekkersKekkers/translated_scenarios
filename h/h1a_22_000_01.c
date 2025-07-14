@@ -18,11 +18,10 @@ It's too bad.");
     VoicePlay("H1A2200001_22_010");
     MsgDisp("Hikaru","But it's still amazing, you know?
 You guys made it all the way here.
-Mari and everyone in the club is 
-so good!");
+Mari and everyone in the club is so good!");
     MsgDisp("主人公","(｛ひかる＊｝...... We might have
-lost, but I'm glad that I stayed as
-the baseball club manager.)");
+lost, but I'm glad that I stayed as the
+baseball club manager.)");
     break ;
     case 4:
     case 5:
@@ -43,9 +42,9 @@ You guys were so cool!");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H1A2200001_22_040");
-    MsgDisp("Hikaru","Making it all the way here is
-amazing. Hikaru's as happy as if it
-was happening to me.");
+    MsgDisp("Hikaru","Making it all the way here is amazing.
+Hikaru's as happy as if it was happening
+to me.");
     ChEye(22,3);
     ChMouth(22,0);
     ChEyeOpenLevel(22,0);
@@ -53,8 +52,8 @@ was happening to me.");
     MsgDisp("Hikaru","So, you know?
 Mari, smile?");
     MsgDisp("主人公","(｛ひかる＊｝...... We might have
-lost, but I'm glad that I stayed as
-the baseball club manager.)");
+lost, but I'm glad that I stayed as the
+baseball club manager.)");
     break ;
     default :
     DbgAssert(1);

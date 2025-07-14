@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040202300_02_000");
-MsgDisp("Sassa","Doesn't coming to the wharf really
-make you feel like doing \"that\"?");
+MsgDisp("Sassa","Doesn't coming to the wharf really make
+you feel like doing \"that\"?");
 MsgSel("YAAHO!","You mean strike a cool pose?","Yeah, I'll join you.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -35,9 +35,8 @@ It's a common thing in old movies.");
     ChMouth(2,4);
     ChMotion(2,2);
     VoicePlay("B040202300_02_030");
-    MsgDisp("Sassa","Alright.
-Put your foot on that ledge.
-Now we both stare into the distance.");
+    MsgDisp("Sassa","Alright. Put your foot on that ledge. Now
+we both stare into the distance.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

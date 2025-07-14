@@ -8,19 +8,18 @@ ScrFadeIn(0);
 VoicePlay("I562100000_21_000");
 MsgDisp("Michiru","No, Mari!
 That pastry doesn't go in the fridge.");
-MsgDisp("主人公","Hm?
-It's fresh but doesn't need to be 
+MsgDisp("主人公","Hm? It's fresh but doesn't need to be
 chilled?");
 ChEye(21,2);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("I562100000_21_010");
-MsgDisp("Michiru","If the container isn't sealed, the
-water will escape and it'll be stiff.
+MsgDisp("Michiru","If the container isn't sealed, the water
+will escape and it'll be stiff.
 Remember that.");
 MsgDisp("主人公","(Oh no.
-I need to learn how to store
-these properly......)");
+I need to learn how to store these
+properly......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

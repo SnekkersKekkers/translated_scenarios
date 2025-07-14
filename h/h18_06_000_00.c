@@ -11,8 +11,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H180600000_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","｛氷室＊＊｝!
-You came to cheer us on?");
+    MsgDisp("主人公","｛氷室＊＊｝! You came to cheer us on?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -22,8 +21,8 @@ You came to cheer us on?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H180600000_06_020");
-    MsgDisp("Himuro","Besides, you'll be showing me a
-pretty interesting match, won't you?");
+    MsgDisp("Himuro","Besides, you'll be showing me a pretty
+interesting match, won't you?");
     MsgDisp("主人公","Yeah, we're going to win!");
     ChEye(6,0);
     ChMouth(6,3);
@@ -39,8 +38,8 @@ I'll look forward to it.");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H180600000_06_040");
     MsgDisp("Himuro","It's finally time.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Did you come to cheer us on?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Did you come to cheer us
+on?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -52,24 +51,24 @@ It's the Koshien, after all.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("H180600000_06_060");
-    MsgDisp("Himuro","I was getting a little excited,
-thinking about how our team might win
-thanks to your hard work.");
+    MsgDisp("Himuro","I was getting a little excited, thinking
+about how our team might win thanks to
+your hard work.");
     MsgDisp("主人公","Y-Yeah......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     ChCheek(6,0);
     VoicePlay("H180600000_06_070");
-    MsgDisp("Himuro","You're starting to feel the
-pressure now? You've already come this
-far, so just keep aiming for the top.");
+    MsgDisp("Himuro","You're starting to feel the pressure now?
+You've already come this far, so just keep
+aiming for the top.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("H180600000_06_080");
-    MsgDisp("Himuro","Well, I'm sure you guys will be
-fine, though.");
+    MsgDisp("Himuro","Well, I'm sure you guys will be fine,
+though.");
     MsgDisp("主人公","(Alright, let's do our best......!)");
     break ;
     default :

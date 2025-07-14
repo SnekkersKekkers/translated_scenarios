@@ -12,9 +12,8 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B080400002_04_020");
-MsgDisp("Nanatsumori","... Right.
-I think you should contact them properly.
-See you.");
+MsgDisp("Nanatsumori","... Right. I think you should contact them
+properly. See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);

@@ -11,8 +11,8 @@ switch (ChPrmGet(1,6)){
     ChCheek(1,0);
     ScrFadeIn(0);
     VoicePlay("B060100012_01_000");
-    MsgDisp("Kazama","You live near anyways, 
-so I'll walke you home.");
+    MsgDisp("Kazama","You live near anyways, so I'll walke you
+home.");
     MsgDispSksp(0);
     break ;
     case 3:
@@ -24,8 +24,8 @@ so I'll walke you home.");
     ScrFadeIn(0);
     VoicePlay("B060100012_01_010");
     MsgDisp("Kazama","I'll walk you home.
-I have to keep an eye on you so 
-that you don't go out at night.");
+I have to keep an eye on you so that you
+don't go out at night.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -38,8 +38,8 @@ that you don't go out at night.");
     ScrFadeIn(0);
     VoicePlay("B060100012_01_020");
     MsgDisp("Kazama","Come on, let's go home.
-There's no way we're going our 
-separate ways here.");
+There's no way we're going our separate
+ways here.");
     MsgDispSksp(0);
     break ;
     default :

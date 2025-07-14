@@ -32,10 +32,11 @@ ChMotion(5,0,1);
 ChCheek(5,7);
 ScrFadeIn(0);
 VoicePlay("B360507001_05_020");
-MsgDisp("Hiiragi","This area is for women...... Moreover, the
-clothes are quite revealing......");
-MsgDisp("主人公","This shop has a small selection,
-but they also carry men's clothes.");
+MsgDisp("Hiiragi","This area is for women......
+Moreover, the clothes are quite
+revealing......");
+MsgDisp("主人公","This shop has a small selection, but they
+also carry men's clothes.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -66,8 +67,8 @@ ScrFadeIn(0);
 VoicePlay("B360507001_05_050");
 MsgDisp("Hiiragi","......Well, I bought it.
 It feels like a new door has been opened.");
-MsgDisp("主人公","(｛柊＊＊＊｝,
-I think sexy leather suits you......)");
+MsgDisp("主人公","(｛柊＊＊＊｝, I think sexy leather suits
+you......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

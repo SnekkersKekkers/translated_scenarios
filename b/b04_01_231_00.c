@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040123100_01_010");
     MsgDisp("Kazama","Got it.
-I'm having fun just looking at
-your facial expressions.");
+I'm having fun just looking at your facial
+expressions.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ your facial expressions.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040123100_01_020");
-    MsgDisp("Kazama","I see, you looked like you were
-having quite a lot of fun though.");
+    MsgDisp("Kazama","I see, you looked like you were having
+quite a lot of fun though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

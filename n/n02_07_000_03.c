@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700003_07_000");
-    MsgDisp("Mikage","｛主人公｝. Are you okay?
-This isn't like you.");
+    MsgDisp("Mikage","｛主人公｝. Are you okay? This isn't
+like you.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -49,8 +49,8 @@ not to do it.");
     MsgDisp("Mikage","Look, your potential extends everywhere.
 Even in your studies.
 Next time, do it right, okay?");
-    MsgDisp("主人公","(｛御影＊＊｝...
-I have to study harder...)");
+    MsgDisp("主人公","(｛御影＊＊｝... I have to study
+harder...)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(7,0,0);
@@ -74,8 +74,8 @@ I have to study harder...)");
     ChMotion(7,1);
     VoicePlay("N020700003_07_080");
     MsgDisp("Mikage","You don't have to do anything you don't
-want to... That's what you're thinking,
-right?");
+want to...
+That's what you're thinking, right?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -96,7 +96,8 @@ want to do.");
     MsgDisp("Mikage","If you agree, please study harder next
 time.");
     MsgDisp("主人公","(｛御影＊＊｝, is really worried about
-me... I have to study harder...)");
+me...
+I have to study harder...)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(7,0,0);

@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040211001_02_000");
-MsgDisp("Sassa","Heeh, we can ride on a 
-float down the watersldie?");
+MsgDisp("Sassa","Heeh, we can ride on a float down the
+watersldie?");
 MsgSel("Seems fun!","It seems a little scary though","There's a two seater one▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ Let's go!");
     ChMotion(2,3);
     VoicePlay("B040211001_02_020");
     MsgDisp("Sassa","Right right!
-It's a bit scary, but 
-that adds the best spice.");
+It's a bit scary, but that adds the best
+spice.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

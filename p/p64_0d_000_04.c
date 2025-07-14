@@ -22,8 +22,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P640D00004_21_010");
 MsgDisp("Michiru","Hehe, that's also what I think.
-These vegetables too,
-are prepared in the best way.");
+These vegetables too, are prepared in the
+best way.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -31,7 +31,7 @@ VoicePlay("P640D00004_22_020");
 MsgDisp("Hikaru","Hikaru wants to eat Mari's homecooked
 meals everyda～y▼");
 MsgDisp("主人公","(Seems like they're happy.
-I'm glad I continued with
-the Gardening Club.)");
+I'm glad I continued with the Gardening
+Club.)");
 MsgClose();
 ScrFadeOut(0,0);

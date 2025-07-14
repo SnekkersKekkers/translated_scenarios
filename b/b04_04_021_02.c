@@ -31,9 +31,8 @@ switch (MsgSelRsltGet()){
         ChMotion(4,1);
         VoicePlay("B040402102_04_020");
         MsgDisp("Nanatsumori","Honestly, a bit?");
-        MsgDisp("主人公","Sorry.
-I should have picked a
-more enjoyable place.");
+        MsgDisp("主人公","Sorry. I should have picked a more
+enjoyable place.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,0);
@@ -44,8 +43,7 @@ more enjoyable place.");
         ChMotion(4,1);
         VoicePlay("B040402102_04_040");
         MsgDisp("Nanatsumori","How should I say this...
-When I'm with you,
-I just feel at ease.");
+When I'm with you, I just feel at ease.");
         MsgDisp("主人公","At ease?");
         ChEye(4,4);
         ChMouth(4,3);
@@ -53,15 +51,14 @@ I just feel at ease.");
         MsgDisp("Nanatsumori","Right.");
         ChMotion(4,0);
         VoicePlay("B040402102_04_060");
-        MsgDisp("Nanatsumori","I don't feel anxious at all, 
-like I do at work or school.
-Both my heart and my body can 
-breathe a sigh of relief.");
+        MsgDisp("Nanatsumori","I don't feel anxious at all, like I do at
+work or school. Both my heart and my body
+can breathe a sigh of relief.");
         ChEye(4,0);
         ChMouth(4,3);
         VoicePlay("B040402102_04_070");
-        MsgDisp("Nanatsumori","It was the complete opposite
-when I met you though?
+        MsgDisp("Nanatsumori","It was the complete opposite when I met
+you though?
 My heart was racing every day.");
         MsgDisp("主人公","Your heart was 
 racing every day?");
@@ -70,8 +67,8 @@ racing every day?");
         ChMotion(4,3);
         VoicePlay("B040402102_04_080");
         MsgDisp("Nanatsumori","It was, it was.
-I wondered when you would 
-blurt out my true identity.");
+I wondered when you would blurt out my
+true identity.");
         MsgDisp("主人公","Eh..
 You thought that of me...");
         ChEye(4,0);
@@ -106,8 +103,8 @@ My heart is being made to race again.");
     ChMotion(4,3);
     VoicePlay("B040402102_04_120");
     MsgDisp("Nanatsumori","I'm sleeping, but less than average.
-But, it's fine. It's fun when 
-I'm with you.");
+But, it's fine.
+It's fun when I'm with you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -118,7 +115,7 @@ I'm with you.");
     ChMouth(4,3);
     ChMotion(4,1);
     VoicePlay("B040402102_04_130");
-    MsgDisp("Nanatsumori","That's fine right? 
+    MsgDisp("Nanatsumori","That's fine right?
 Don't stare at me, pervert.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

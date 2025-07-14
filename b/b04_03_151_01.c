@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040315101_03_010");
     MsgDisp("Honda","Yep yep.
-In terms of the score,
-the next throw is critical.");
+In terms of the score, the next throw is
+critical.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

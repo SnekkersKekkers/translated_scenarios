@@ -82,8 +82,8 @@ Let's go!");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B030223001_02_070");
-    MsgDisp("Sassa","Urgh... You got it...
-I was preparing for this anyway.");
+    MsgDisp("Sassa","Urgh... You got it... I was preparing for
+this anyway.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -98,7 +98,8 @@ I was preparing for this anyway.");
     ScrFadeIn(0);
     VoicePlay("B030223001_02_080");
     MsgDisp("Sassa","The more I look at it, the weirder it
-gets. It even spins around...");
+gets.
+It even spins around...");
     break ;
     case 4:
     MsgDispSksp(1,0);
@@ -106,8 +107,8 @@ gets. It even spins around...");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B030223001_02_090");
-    MsgDisp("Sassa","Gah... That's someone's house, right?
-Is it okay to enter without permission?");
+    MsgDisp("Sassa","Gah... That's someone's house, right? Is
+it okay to enter without permission?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

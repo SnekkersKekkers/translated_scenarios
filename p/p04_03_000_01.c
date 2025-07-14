@@ -10,8 +10,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P040300001_03_010");
-MsgDisp("Honda","The mitarashi bean paste isn't thick
-at all, and it's dripping.");
+MsgDisp("Honda","The mitarashi bean paste isn't thick at
+all, and it's dripping.");
 MsgDisp("主人公","Huh?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -31,12 +31,12 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("P040300001_03_040");
-MsgDisp("Honda","Well, they say failure is the mother
-of success. Thank you for the
-interesting mitarashi dango～");
-MsgDisp("主人公","(Ugh...... interesting, huh......
-This isn't success at all......
-it's failure......)");
+MsgDisp("Honda","Well, they say failure is the mother of
+success. Thank you for the interesting
+mitarashi dango～");
+MsgDisp("主人公","(Ugh...... interesting, huh...... This
+isn't success at all...... it's
+failure......)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

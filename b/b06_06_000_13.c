@@ -2,8 +2,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B060600013_06_000");
-MsgDisp("Himuro","Hey.
-Do you still have some time after this?");
+MsgDisp("Himuro","Hey. Do you still have some time after
+this?");
 MsgSel("Sure, it's fine.","Sorry, today's a bit......");
 switch (MsgSelRsltGet()){
     case 0:

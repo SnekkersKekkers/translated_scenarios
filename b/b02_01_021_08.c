@@ -9,8 +9,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102108_01_010");
-MsgDisp("Kazama","Not bad, but unexpected. That's the kind
-of thing you should wear, though.");
+MsgDisp("Kazama","Not bad, but unexpected.
+That's the kind of thing you should wear,
+though.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

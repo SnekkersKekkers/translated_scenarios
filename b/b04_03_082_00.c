@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040308200_03_010");
-    MsgDisp("Honda","Yep yep, 
-They heartily eat underwater, 
-And soon they'll become pupa.");
+    MsgDisp("Honda","Yep yep, They heartily eat underwater, And
+soon they'll become pupa.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +28,8 @@ And soon they'll become pupa.");
     ChMotion(3,1);
     VoicePlay("B040308200_03_020");
     MsgDisp("Honda","There is.
-There's approximately 2000 
-kinds in the world.");
+There's approximately 2000 kinds in the
+world.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

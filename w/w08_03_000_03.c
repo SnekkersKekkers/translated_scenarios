@@ -23,8 +23,8 @@ Okaay.");
     ChOpen(3,255,4,4,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300003_03_020");
-    MsgDisp("Honda","Riding with Michiru-chan would be
-a change of pace, huh?");
+    MsgDisp("Honda","Riding with Michiru-chan would be a change
+of pace, huh?");
     break ;
     default :
     DbgAssert(1);

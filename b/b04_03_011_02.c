@@ -57,15 +57,15 @@ switch (MsgSelRsltGet()){
         ChMotion(3,5);
         ChCheek(3,5);
         VoicePlay("B040301102_03_050");
-        MsgDisp("Honda","Oh I see. So girls have those sort of 
-concerns, huh.");
+        MsgDisp("Honda","Oh I see.
+So girls have those sort of concerns, huh.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,4);
         ChCheek(3,0);
         VoicePlay("B040301102_03_060");
         MsgDisp("Honda","But it's off-limits to be down there.
-Besides, isn't it impossible without 
+Besides, isn't it impossible without
 binoculars?");
         ChEye(3,5);
         MsgDisp("主人公","Pfft, I was just kidding.");
@@ -83,8 +83,9 @@ You got me.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040301102_03_090");
-        MsgDisp("Honda","Okay then, next time it's my turn to
-prank you. Be prepared for it, okay?");
+        MsgDisp("Honda","Okay then, next time it's my turn to prank
+you.
+Be prepared for it, okay?");
         MsgDisp("主人公","Really? I feel like a prank from
 ｛本多＊＊｝ is going to be something
 amazing.");
@@ -92,9 +93,9 @@ amazing.");
         ChMouth(3,3);
         ChMotion(3,2);
         VoicePlay("B040301102_03_100");
-        MsgDisp("Honda","Yup, amazing. 
-First off I'll need to gather a lot 
-of rhinoceros beetle larvae...");
+        MsgDisp("Honda","Yup, amazing.
+First off I'll need to gather a lot of
+rhinoceros beetle larvae...");
         MsgDisp("主人公","(Ummm, is he planning something weird?)");
         break ;
         default :

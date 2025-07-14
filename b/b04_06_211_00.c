@@ -29,8 +29,8 @@ What do you want to see first?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040621100_06_020");
-    MsgDisp("Himuro","I'll take the picture for you, 
-feel free to take some solo.");
+    MsgDisp("Himuro","I'll take the picture for you, feel free
+to take some solo.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

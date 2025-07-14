@@ -13,15 +13,14 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4);
     VoicePlay("L040300006_03_010");
     MsgDisp("Honda","Da, that surprised me......
-It was more powerful than I expected,
-I just......");
+It was more powerful than I expected, I
+just......");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("L040300006_03_020");
-    MsgDisp("Honda","I'll look at it more closely at
-home, okay?
-Thanks.");
+    MsgDisp("Honda","I'll look at it more closely at home,
+okay? Thanks.");
     MsgDisp("主人公","(Just looking......?
 Ugh, I should've tried harder.)");
     break ;
@@ -43,15 +42,14 @@ I can tell you did your best.");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("L040300006_03_050");
-    MsgDisp("Honda","But, you might lack the skills to
-make chocolate.
+    MsgDisp("Honda","But, you might lack the skills to make
+chocolate.
 My sister used to be the same way.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("L040300006_03_060");
-    MsgDisp("Honda","Thanks to that,
-this feels very nostalgic.
+    MsgDisp("Honda","Thanks to that, this feels very nostalgic.
 Thanks.");
     MsgDisp("主人公","(Ugh......
 I should've tried harder......)");
@@ -69,24 +67,24 @@ I should've tried harder......)");
     ChMotion(3,1);
     VoiceEVSPlay(3);
     VoicePlay("L040300006_03_080");
-    MsgDisp("Honda","｛主人公｝.
-Let's make it together next year!");
+    MsgDisp("Honda","｛主人公｝. Let's make it together next
+year!");
     MsgDisp("主人公","What?");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300006_03_090");
-    MsgDisp("Honda","I'm not sure if I can do it well,
-but I help my sister every year, and
-I know all the tricks, okay?");
+    MsgDisp("Honda","I'm not sure if I can do it well, but I
+help my sister every year, and I know all
+the tricks, okay?");
     ChEye(3,1);
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300006_03_100");
-    MsgDisp("Honda","If nothing else,
-we can try making them from cacao beans!
+    MsgDisp("Honda","If nothing else, we can try making them
+from cacao beans!
 I've always wanted to try.");
-    MsgDisp("主人公","Okay...... sorry
-I couldn't make them well.");
+    MsgDisp("主人公","Okay...... sorry I couldn't make them
+well.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,5);
@@ -97,10 +95,9 @@ I'm happy enough from your feelings.");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("L040300006_03_120");
-    MsgDisp("Honda","So, I don't want Valentine's to be
-a bad memory for you.");
-    MsgDisp("主人公","｛本多＊＊｝......
-Thank you.");
+    MsgDisp("Honda","So, I don't want Valentine's to be a bad
+memory for you.");
+    MsgDisp("主人公","｛本多＊＊｝...... Thank you.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4);

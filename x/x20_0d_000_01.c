@@ -6,8 +6,8 @@ ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("X200D00001_21_000");
-MsgDisp("Michiru","Looks like this year's Rose
-Queen has been decided.");
+MsgDisp("Michiru","Looks like this year's Rose Queen has been
+decided.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

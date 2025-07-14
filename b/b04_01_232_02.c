@@ -7,9 +7,9 @@ ScrFadeIn(0);
 ChMotion(1,4);
 ChCheek(1,5);
 VoicePlay("B040123202_01_000");
-MsgDisp("Kazama","Even though there are a lot of
-people around, if you ride this,
-it's just the two of us.");
+MsgDisp("Kazama","Even though there are a lot of people
+around, if you ride this, it's just the
+two of us.");
 MsgSel("It's a perfect locked room!","They won't know anything no matter what we do huh?","Yeah, it's like a small room.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,8);
     ChCheek(1,0);
     VoicePlay("B040123202_01_010");
-    MsgDisp("Kazama","Oh. A staple of the mystery genre?
-Am I gonna be done in here by you?");
+    MsgDisp("Kazama","Oh. A staple of the mystery genre? Am I
+gonna be done in here by you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -52,16 +52,16 @@ Am I gonna be done in here by you?");
         ChCheek(1,0);
         VoicePlay("B040123202_01_030");
         MsgDisp("Kazama","That's for sure, if we got to the peak,
-the angle won't let us be seen 
-from the carriage in front...");
+the angle won't let us be seen from the
+carriage in front...");
         MsgDisp("主人公","｛風真＊＊｝?");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,2);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123202_01_040");
-        MsgDisp("Kazama","No, I have to think about 
-how long we'll be at the top.");
+        MsgDisp("Kazama","No, I have to think about how long we'll
+be at the top.");
         MsgDisp("主人公","Eh, what's this?");
         ChMotion(1,0);
         Wait(8,0);
@@ -71,8 +71,8 @@ how long we'll be at the top.");
         ChEyeOpenLevel(1,8);
         ChCheek(1,10);
         VoicePlay("B040123202_01_050");
-        MsgDisp("Kazama","No... no, idiot. 
-That's wrong. That's not it.");
+        MsgDisp("Kazama","No... no, idiot. That's wrong. That's not
+it.");
         MsgDisp("主人公","What do you mean by that?");
         ChEye(1,4);
         ChMouth(1,4);
@@ -88,11 +88,10 @@ situation isn't it?");
         ChEye(1,4);
         ChMouth(1,1);
         VoicePlay("B040123202_01_070");
-        MsgDisp("Kazama","No, my bad, my bad.
-But, I've made up my mind. Now that I've
-made up my mind, I'm gonna do it.");
-        MsgDisp("主人公","(｛風真＊＊｝,
-what are you gonna do?)");
+        MsgDisp("Kazama","No, my bad, my bad. But, I've made up my
+mind. Now that I've made up my mind, I'm
+gonna do it.");
+        MsgDisp("主人公","(｛風真＊＊｝, what are you gonna do?)");
         break ;
         default :
         DbgAssert(1);
@@ -106,9 +105,9 @@ what are you gonna do?)");
     ChMotion(1,0);
     ChCheek(1,0);
     VoicePlay("B040123202_01_080");
-    MsgDisp("Kazama","It'd be a problem if it was just 
-a small room. But it's an attraction, 
-so this distance is allowed. ");
+    MsgDisp("Kazama","It'd be a problem if it was just a small
+room. But it's an attraction, so this
+distance is allowed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

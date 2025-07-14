@@ -15,8 +15,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P640600000_06_020");
-MsgDisp("Himuro","the aroma is good,
-the flavour is good.
+MsgDisp("Himuro","the aroma is good, the flavour is good.
 This is quite high quality.");
 MsgDisp("主人公","(Yay!
 This might be a huge success!)");

@@ -35,8 +35,8 @@ Well then, where shall we start?");
     ChMotion(5,0);
     VoicePlay("Q040500001_05_030");
     MsgDisp("Hiiragi","That is a good point.
-How about we say our preferred places
-one after another?");
+How about we say our preferred places one
+after another?");
     MsgDisp("主人公","Hehe, nice idea!");
     break ;
     default :

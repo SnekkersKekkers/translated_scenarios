@@ -7,14 +7,13 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C06000_06_000");
-MsgDisp("Himuro","Looks like Yanosuke-senpai has work
-with the theatre troupe.");
+MsgDisp("Himuro","Looks like Yanosuke-senpai has work with
+the theatre troupe.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C06000_07_000");
-MsgDisp("Mikage","Yeah.
-He puts on a normal face around us, 
+MsgDisp("Mikage","Yeah. He puts on a normal face around us,
 but he's actually really busy.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -27,8 +26,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C06000_07_010");
-MsgDisp("Mikage","Does he ever show his 
-troubled face in front of you?");
+MsgDisp("Mikage","Does he ever show his troubled face in
+front of you?");
 MsgDisp("主人公","Ummm... I wonder.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -59,15 +58,15 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D140C06000_07_030");
 MsgDisp("Mikage","This is good isn't it?
-I think there's still a chance to
-turn things around.");
+I think there's still a chance to turn
+things around.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06000_06_050");
 MsgDisp("Himuro","............");
 MsgDisp("主人公","(These two are saying that ｛柊＊＊＊｝
-and I get along really well, right? 
+and I get along really well, right?
 But a turnaround...?)");
 BGMStop();
 MsgClose();

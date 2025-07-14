@@ -14,8 +14,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010230100_06_000");
 MsgDisp("Himuro","I told you, that's not what I'm here for.");
-MsgDisp("主人公","｛颯砂＊＊｝, ｛氷室＊＊｝!
-What are you guys doing?");
+MsgDisp("主人公","｛颯砂＊＊｝, ｛氷室＊＊｝! What are you guys
+doing?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -53,9 +53,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("E010230100_02_040");
-MsgDisp("Sassa","That's enough for me.
-Come on, let's go inside together.
-Come!");
+MsgDisp("Sassa","That's enough for me. Come on, let's go
+inside together. Come!");
 MsgClose();
 SEPlay("EV_SE_856");
 MsgClose();
@@ -68,11 +67,11 @@ Nozomu-senpai, it's fine!");
 VoicePlay("E010230100_02_050");
 MsgDisp("Sassa","Don't be shy.
 Are you coming too-?");
-MsgDisp("主人公","No, sorry! You guys have fun!");
+MsgDisp("主人公","No, sorry!
+You guys have fun!");
 VoicePlay("E010230100_06_040");
 MsgDisp("Himuro","Ahh, come on...");
-MsgDisp("主人公","(Huhu!
-｛氷室＊＊｝ looked a little happy.)");
+MsgDisp("主人公","(Huhu! ｛氷室＊＊｝ looked a little happy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -35,8 +35,8 @@ cars.");
     ChMotion(1,0);
     VoicePlay("B040112101_01_020");
     MsgDisp("Kazama","Right? People trying to get rid of junk,
-people who are real salesmen...
-There's all kinds here.");
+people who are real salesmen... There's
+all kinds here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -27,9 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040424100_04_020");
     MsgDisp("Nanatsumori","I can feel a lot of eyes on me.
-For now, let's eat the freshly 
-squeezed soft serve ice cream
-made by these cows.");
+For now, let's eat the freshly squeezed
+soft serve ice cream made by these cows.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -13,9 +13,9 @@ ChEyeOpenLevel(5,0);
 Wait(16,0);
 ChEye(5,0);
 VoicePlay("T020511030_05_010");
-MsgDisp("Hiiragi","It's alright. Thanks to you, I was able to
-graduate from the prestigious Haba
-Academy.");
+MsgDisp("Hiiragi","It's alright.
+Thanks to you, I was able to graduate from
+the prestigious Haba Academy.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
@@ -24,8 +24,8 @@ ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511030_05_020");
 MsgDisp("Hiiragi","To me it's a miracle.
-If I can do this,
-I feel like I can do anything.");
+If I can do this, I feel like I can do
+anything.");
 MsgDisp("主人公","｛柊＊＊＊｝......");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);

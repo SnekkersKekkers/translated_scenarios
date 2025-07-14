@@ -33,8 +33,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220101_02_050");
-MsgDisp("Sassa","I'll do better. I know that I'm not the
-one closest to you right now.");
+MsgDisp("Sassa","I'll do better.
+I know that I'm not the one closest to you
+right now.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

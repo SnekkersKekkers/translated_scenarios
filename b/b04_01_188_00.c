@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040118800_01_000");
     MsgDisp("Kazama","Yeah, well you laughed a lot.
-That was more interesting to me
-than the movie.");
+That was more interesting to me than the
+movie.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,8 +24,8 @@ than the movie.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040118800_01_010");
-    MsgDisp("Kazama","You laughed that much, then 
-said it was \"so-so\"...
+    MsgDisp("Kazama","You laughed that much, then said it was
+\"so-so\"...
 Your evaluation criteria is a mystery.");
     MsgDateResultDisp();
     break ;
@@ -36,8 +36,8 @@ Your evaluation criteria is a mystery.");
     ChMotion(1,0,1);
     VoicePlay("B040118800_01_020");
     MsgDisp("Kazama","For sure.
-After all, your face was dead-pan 
-half way through.");
+After all, your face was dead-pan half way
+through.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

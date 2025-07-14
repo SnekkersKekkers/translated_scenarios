@@ -23,8 +23,8 @@ me about?");
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101104_01_000");
-MsgDisp("Kazama","It's been a while since I started 
-working part time with you.");
+MsgDisp("Kazama","It's been a while since I started working
+part time with you.");
 MsgDisp("主人公","Is that so......?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -34,8 +34,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110101104_01_010");
 MsgDisp("Kazama","Why does it feel like that?");
-MsgDisp("主人公","Working together is so fun
-that time just flew by.");
+MsgDisp("主人公","Working together is so fun that time just
+flew by.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,2);
@@ -43,8 +43,8 @@ ChMotion(1,2);
 ChEyeOpenLevel(1,#1);
 VoicePlay("G110101104_01_020");
 MsgDisp("Kazama","I feel the same.
-It somewhat feels like we're
-running a shop together.");
+It somewhat feels like we're running a
+shop together.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -57,8 +57,8 @@ MsgDisp("Kazama","It's given me a simulation of the future,
 while I also get paid for my part time
 job. I'm grateful for General Store simon.");
 MsgDisp("主人公","｛風真＊＊｝'s contribution to the store
-is amazing. I have to do my best to catch
-up to him.");
+is amazing.
+I have to do my best to catch up to him.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,2);

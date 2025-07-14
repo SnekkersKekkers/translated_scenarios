@@ -37,8 +37,7 @@ Are you alright? Was it that scary?");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040323500_03_030");
-    MsgDisp("Honda","Reallyー?
-The roughness is part of the
+    MsgDisp("Honda","Reallyー? The roughness is part of the
 charm of this place, isn't it?");
     MsgDateResultDisp();
     break ;

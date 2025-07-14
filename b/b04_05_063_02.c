@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040506302_05_000");
-MsgDisp("Hiiragi","The color appears completely 
-different to the summer sea.");
+MsgDisp("Hiiragi","The color appears completely different to
+the summer sea.");
 MsgSel("As I thought, the summer sea is better.","It's nice that it has many different appearances huh?","I might like the winter sea better.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -36,11 +36,11 @@ you suit the summer sea.");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040506302_05_030");
-        MsgDisp("Hiiragi","As for me. I feel like the winter sea
-suits me better.");
-        MsgDisp("主人公","Maybe.
-｛柊＊＊＊｝ suits the tense,
-crisp winter sea huh?");
+        MsgDisp("Hiiragi","As for me.
+I feel like the winter sea suits me
+better.");
+        MsgDisp("主人公","Maybe. ｛柊＊＊＊｝ suits the tense, crisp
+winter sea huh?");
         ChEye(5,4);
         ChMotion(5,2);
         VoicePlay("B040506302_05_040");
@@ -51,16 +51,17 @@ atmosphere.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040506302_05_050");
         MsgDisp("Hiiragi","The air that surrounds you is calmer and
-warmer. Once you touch it you can't let
-go—");
+warmer.
+Once you touch it you can't let go—");
         ChEye(5,4);
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040506302_05_060");
         MsgDisp("Hiiragi","...To the point I lose control of myself
 talking, that is your charm.");
-        MsgDisp("主人公","(My charm... To hear ｛柊＊＊＊｝ say that
-makes me happy...)");
+        MsgDisp("主人公","(My charm...
+To hear ｛柊＊＊＊｝ say that makes me
+happy...)");
         break ;
         default :
         DbgAssert(1);
@@ -71,8 +72,9 @@ makes me happy...)");
     DateRateSet(3);
     ChEye(5,4);
     VoicePlay("B040506302_05_070");
-    MsgDisp("Hiiragi","That's right. It's still fresh no matter
-how many times I come here.");
+    MsgDisp("Hiiragi","That's right.
+It's still fresh no matter how many times
+I come here.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -84,8 +86,8 @@ how many times I come here.");
     ChMotion(5,4);
     VoicePlay("B040506302_05_080");
     MsgDisp("Hiiragi","Is that so?
-For some reason I get excited
-every time our opinions match up.");
+For some reason I get excited every time
+our opinions match up.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

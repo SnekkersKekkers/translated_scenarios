@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020600000_06_480");
-MsgDisp("Himuro","......Haa.
-You should have said that from the start.");
+MsgDisp("Himuro","......Haa. You should have said that from
+the start.");
 VoicePlay("T020600000_06_490");
 ChEye(6,4);
 ChMouth(6,0);
@@ -34,7 +34,8 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoiceEVSPlay(6);
 VoicePlay("T020600000_06_520");
-MsgDisp("Himuro","｛主人公｝, I like you. I love you.");
+MsgDisp("Himuro","｛主人公｝, I like you.
+I love you.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

@@ -9,8 +9,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B070300000_03_130");
-MsgDisp("Honda","Really? I like all exercise.
-But exercise doesn't really like me.");
+MsgDisp("Honda","Really? I like all exercise. But exercise
+doesn't really like me.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -30,18 +30,17 @@ ChMouth(3,0);
 ChMotion(3,0);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_160");
-MsgDisp("Honda","Skilled people can make the ball seem
-like it's frozen, but for me, I freeze
-myself.");
+MsgDisp("Honda","Skilled people can make the ball seem like
+it's frozen, but for me, I freeze myself.");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070300000_03_170");
-MsgDisp("Honda","I start to wonder about the rotation
-speed and axis of the ball, so I stare
-at it when the pitcher throws. Even
-though that's not something you can see.");
+MsgDisp("Honda","I start to wonder about the rotation speed
+and axis of the ball, so I stare at it
+when the pitcher throws. Even though
+that's not something you can see.");
 MsgDisp("主人公","So I guess you strike out then?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -49,9 +48,8 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_180");
 MsgDisp("Honda","Yepyep, completely.");
-MsgDisp("主人公","(｛本多＊＊｝ seems
-moreso like a curious person than
-a sports fan.)");
+MsgDisp("主人公","(｛本多＊＊｝ seems moreso like a curious
+person than a sports fan.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

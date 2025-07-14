@@ -7,9 +7,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040822202_08_000");
 MsgDisp("Shirahane","Some of the things here are heirlooms
-offered by local noble families.
-They may have been feudal lords
-in another era.");
+offered by local noble families. They may
+have been feudal lords in another era.");
 MsgSel("Like someone in the imperial court?","I'm sure it's not limited to feudal lords?","Do you admire it?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,0,1);
     VoicePlay("B040822202_08_010");
     MsgDisp("Shirahane","That's right.
-When you think about it, it's strange 
-that such people lived just like us.");
+When you think about it, it's strange that
+such people lived just like us.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,9 +35,8 @@ that such people lived just like us.");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("B040822202_08_020");
-        MsgDisp("Shirahane","...Right?
-Each person's heirlooms are different
-depending on the individual.");
+        MsgDisp("Shirahane","...Right? Each person's heirlooms are
+different depending on the individual.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -50,13 +48,12 @@ depending on the individual.");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040822202_08_030");
-        MsgDisp("Shirahane","Ah... that's right.
-When it comes to heirlooms, each one
-of those families have an individual
-sense of what's valuable.");
+        MsgDisp("Shirahane","Ah... that's right. When it comes to
+heirlooms, each one of those families have
+an individual sense of what's valuable.");
         MsgDisp("主人公","That's right.
-by the way, does ｛大地＊＊｝
-have his own treasures?");
+by the way, does ｛大地＊＊｝ have his
+own treasures?");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,2,1);
@@ -75,9 +72,8 @@ treaures.");
         ChMouth(8,4);
         ChEyeOpenLevel(8,10);
         VoicePlay("B040822202_08_060");
-        MsgDisp("Shirahane","If it doesn't have ta be an object, 
-then I would say the time I
-spend with you.");
+        MsgDisp("Shirahane","If it doesn't have ta be an object, then I
+would say the time I spend with you.");
         MsgDisp("主人公","Eh...");
         ChEye(8,4);
         ChMouth(8,2);
@@ -104,9 +100,8 @@ I just said something cringy.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040822202_08_090");
-    MsgDisp("Shirahane","Haha! That's right, I might want
-to experience being a lord 
-at least once.");
+    MsgDisp("Shirahane","Haha! That's right, I might want to
+experience being a lord at least once.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

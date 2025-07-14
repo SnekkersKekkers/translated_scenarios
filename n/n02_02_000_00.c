@@ -20,7 +20,8 @@ Congratulations.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(I'm so happy. I got praised.)");
+    MsgDisp("主人公","(I'm so happy.
+I got praised.)");
     break ;
     case 3:
     MsgClose();
@@ -55,8 +56,8 @@ I'm glad I did my best!)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200000_02_050");
-    MsgDisp("Sassa","｛主人公｝.
-Getting the top rank is so cool.");
+    MsgDisp("Sassa","｛主人公｝. Getting the top rank is so
+cool.");
     MsgDisp("主人公","Yeah, I'm really happy!");
     ChEye(2,0);
     ChMouth(2,4);
@@ -74,14 +75,13 @@ gave it your all.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("N020200000_02_080");
-    MsgDisp("Sassa","Yeah.
-When I'm around someone like you, I get
-motivated. Congratulations!");
+    MsgDisp("Sassa","Yeah. When I'm around someone like you, I
+get motivated. Congratulations!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ really praised me,
-I'm glad I did my best.)");
+    MsgDisp("主人公","(｛颯砂＊＊｝ really praised me, I'm glad I
+did my best.)");
     break ;
     default :
     DbgAssert(1);

@@ -43,8 +43,8 @@ I wanted to go with you too.");
     VoicePlay("S030400002_04_070");
     MsgDisp("Nanatsumori","Yeah.
 The Model Agency's New Year's Party.");
-    MsgDisp("主人公","I guess it can't be helped......
-Be safe then. Byebye.");
+    MsgDisp("主人公","I guess it can't be helped...... Be safe
+then. Byebye.");
     VoicePlay("S030400002_04_080");
     MsgDisp("Nanatsumori","Thank you.
 Try not to catch a cold, okay?");

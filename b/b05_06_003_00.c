@@ -62,8 +62,8 @@ StlEye(6,1);
 StlMouth(6,0);
 StlCheek(6,10);
 VoicePlay("B050600300_06_080");
-MsgDisp("Himuro","You know, I didn't say to stare
-at my face.");
+MsgDisp("Himuro","You know, I didn't say to stare at my
+face.");
 MsgDisp("主人公","Ah......");
 StlEye(6,1);
 StlMouth(6,0);
@@ -94,8 +94,8 @@ SEPlay("EV_SE_544");
 ChOpen(6,255,2,2,0,0,#1,0,0);
 VoicePlay("B050600300_06_110");
 MsgDisp("Himuro","Haa......");
-MsgDisp("主人公","Sorry?
-I shouldn't have said that I wanted——");
+MsgDisp("主人公","Sorry? I shouldn't have said that I
+wanted——");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -104,6 +104,5 @@ MsgDisp("主人公","Eh, where are you going?");
 VoicePlay("B050600300_06_120");
 MsgDisp("Himuro","Wait there.
 I'm going to exchange more money.");
-MsgDisp("主人公","(Ehh!
-｛氷室＊＊｝ wants to get revenge?)");
+MsgDisp("主人公","(Ehh! ｛氷室＊＊｝ wants to get revenge?)");
 ChPrmTblAdd(6,0);

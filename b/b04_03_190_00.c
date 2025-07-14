@@ -11,9 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040319000_03_000");
-    MsgDisp("Honda","Yep yep. They skillfully connected the 
-various theories and explanations 
-and made it into entertainment.");
+    MsgDisp("Honda","Yep yep. They skillfully connected the
+various theories and explanations and made
+it into entertainment.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,7 +26,7 @@ and made it into entertainment.");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040319000_03_010");
     MsgDisp("Honda","Same same, I completely feel the same.
-I like history but, that kind of 
+I like history but, that kind of
 unthinkable explanation is troubling.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

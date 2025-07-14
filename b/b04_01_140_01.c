@@ -5,7 +5,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040114001_01_000");
-MsgDisp("Kazama","Listen up. Don't get separated from me.
+MsgDisp("Kazama","Listen up.
+Don't get separated from me.
 There might be some dodgy guys here.");
 MsgSel("It's so packed, we can't get separated","You're worrying too much","It's because today's show was a punk band");
 switch (MsgSelRsltGet()){
@@ -15,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,2);
     ChMotion(1,4);
     VoicePlay("B040114001_01_010");
-    MsgDisp("Kazama","I see. Then that's fine.
+    MsgDisp("Kazama","I see.
+Then that's fine.
 At any rate, stick close to me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -39,10 +41,9 @@ How can you say that?");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040114001_01_030");
-    MsgDisp("Kazama","That's dangerous...
-If anyone tries to dive off the stage
-at you, I'll definitely stop them, 
-so don't worry");
+    MsgDisp("Kazama","That's dangerous... If anyone tries to
+dive off the stage at you, I'll definitely
+stop them, so don't worry");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

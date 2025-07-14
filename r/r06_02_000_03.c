@@ -6,8 +6,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060200003_02_000");
     MsgDisp("Sassa","Woah, that's the one I brought...");
-    MsgDisp("主人公","Wow!
-Ah, ｛颯砂＊＊｝, you got the gift
+    MsgDisp("主人公","Wow! Ah, ｛颯砂＊＊｝, you got the gift
 that I brought too.");
     ChEye(2,0);
     ChMouth(2,3);
@@ -33,8 +32,8 @@ That's quite the coincidence!");
     ChMotion(2,5);
     VoicePlay("R060200003_02_040");
     MsgDisp("Sassa","...Uh, that's the one I brought.");
-    MsgDisp("主人公","Huh∋　Really? Actually you got
-the gift that I brought in, ｛颯砂＊＊｝...");
+    MsgDisp("主人公","Huh∋ Really? Actually you got the gift
+that I brought in, ｛颯砂＊＊｝...");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,5);
@@ -45,8 +44,8 @@ That's a scary coincidence...");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R060200003_02_060");
-    MsgDisp("Sassa","Well, I'm actually a little happy
-about it.");
+    MsgDisp("Sassa","Well, I'm actually a little happy about
+it.");
     MsgDisp("主人公","Hehe, it is a scary coincidence,
 huh?");
     break ;
@@ -56,10 +55,8 @@ huh?");
     ChOpen(2,34,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("R060200003_02_070");
-    MsgDisp("Sassa","｛主人公｝,
-that's my gift!");
-    MsgDisp("主人公","Huh, ｛颯砂＊＊｝, this is yours?
-Ah!");
+    MsgDisp("Sassa","｛主人公｝, that's my gift!");
+    MsgDisp("主人公","Huh, ｛颯砂＊＊｝, this is yours? Ah!");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);

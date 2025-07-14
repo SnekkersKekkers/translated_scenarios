@@ -19,14 +19,13 @@ MsgDisp("主人公","Eh?");
 NSSEye(6,6);
 NSSMouth(6,3);
 VoicePlay("T040600000_06_020");
-MsgDisp("Himuro","Of course, 
-it wasn't all good,
-And there were many troubles......");
+MsgDisp("Himuro","Of course, it wasn't all good, And there
+were many troubles......");
 NSSEye(6,4);
 NSSMouth(6,3);
 VoicePlay("T040600000_06_030");
-MsgDisp("Himuro","But I met you, 
-and now I get to walk alongside you.");
+MsgDisp("Himuro","But I met you, and now I get to walk
+alongside you.");
 NSSEye(6,4);
 NSSMouth(6,3);
 VoicePlay("T040600000_06_040");
@@ -39,15 +38,13 @@ VoiceEVSPlay(6);
 VoicePlay("T040600000_06_050");
 MsgDisp("Himuro","......｛主人公｝. Once again,
 congratulations on your graduation.");
-MsgDisp("主人公","Hehe.
-thank you, ｛氷室＊＊｝.");
+MsgDisp("主人公","Hehe. thank you, ｛氷室＊＊｝.");
 NSSEye(6,3);
 NSSMouth(6,3);
 NSSEyeOpenLevel(6,0);
 VoicePlay("T040600000_06_060");
-MsgDisp("Himuro","From now on and always,
-show me that smile closest to me,
-......only to me, okay?");
+MsgDisp("Himuro","From now on and always, show me that smile
+closest to me, ......only to me, okay?");
 SEStop("EV_SE_754",5.5);
 BGMStop();
 MsgClose();

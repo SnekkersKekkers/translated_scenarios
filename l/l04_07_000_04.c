@@ -40,16 +40,15 @@ I wanted to show my gratitude.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("L040700004_07_040");
-    MsgDisp("Mikage","Then it's one of your
-original works, huh.
+    MsgDisp("Mikage","Then it's one of your original works, huh.
 I'll accept gratefully.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("L040700004_07_050");
-    MsgDisp("Mikage","Haha. When I look closely,
-I can see your personality in
-this chocolate. It's lovely. Thanks.");
+    MsgDisp("Mikage","Haha. When I look closely, I can see your
+personality in this chocolate. It's
+lovely. Thanks.");
     MsgDisp("主人公","(He seemed happy.
 Thank goodness!)");
     MsgClose();
@@ -72,8 +71,8 @@ Thank goodness!)");
     VoicePlay("L040700004_07_070");
     MsgDisp("Mikage","Your hard work is really
 showing through.");
-    MsgDisp("主人公","There are some parts that
-I couldn't do very well......");
+    MsgDisp("主人公","There are some parts that I couldn't do
+very well......");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);

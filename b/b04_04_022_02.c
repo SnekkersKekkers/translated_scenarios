@@ -5,9 +5,9 @@ ChMouth(4,3);
 ChMotion(4,3);
 ScrFadeIn(0);
 VoicePlay("B040402202_04_000");
-MsgDisp("Nanatsumori","There are things that a photograph 
-can't depict within a 360 degree 
-panorama after all...");
+MsgDisp("Nanatsumori","There are things that a photograph can't
+depict within a 360 degree panorama after
+all...");
 MsgSel("You can't experience it with a photograph","It's all about photos...","Maybe it's an issue with your technique, ｛七ツ森＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,10 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040402202_04_010");
-    MsgDisp("Nanatsumori","Right, right.
-No matter how you edit it, and make
-it beautiful, there's no sea breeze
-blowing from a photograph.");
+    MsgDisp("Nanatsumori","Right, right. No matter how you edit it,
+and make it beautiful, there's no sea
+breeze blowing from a photograph.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -47,9 +46,9 @@ Why are you sulking?");
         ChMotion(4,1,1);
         VoicePlay("B040402202_04_030");
         MsgDisp("Nanatsumori","You're sulking? ");
-        MsgDisp("主人公","I mean... 
-We came out all this way 
-together after all.");
+        MsgDisp("主人公","I mean...
+We came out all this way together after
+all.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,2,1);
@@ -59,7 +58,8 @@ together after all.");
         ChMouth(4,2);
         VoicePlay("B040402202_04_050");
         MsgDisp("Nanatsumori","It's a date, right?
-That's right. I'm sorry.");
+That's right.
+I'm sorry.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);
@@ -70,12 +70,12 @@ Do you want to take a picture?");
         ChEye(4,0);
         ChMouth(4,4);
         VoicePlay("B040402202_04_070");
-        MsgDisp("Nanatsumori","Let's take a picture
-together, the two of us.");
+        MsgDisp("Nanatsumori","Let's take a picture together, the two of
+us.");
         ChEye(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040402202_04_080");
-        MsgDisp("Nanatsumori","Of course, it won't be for social media, 
+        MsgDisp("Nanatsumori","Of course, it won't be for social media,
 just for private use.");
         MsgDisp("主人公","Is that okay?");
         ChEye(4,0);
@@ -83,8 +83,8 @@ just for private use.");
         ChMotion(4,0,1);
         VoicePlay("B040402202_04_090");
         MsgDisp("Nanatsumori","It's okay.
-But, that adds another secret 
-that's between us.");
+But, that adds another secret that's
+between us.");
         MsgDisp("主人公","Hehe!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

@@ -29,8 +29,7 @@ MsgDisp("主人公","Eh, why is he hiding?");
 VoiceEVSPlay(6);
 VoicePlay("F100620001_06_000");
 MsgDisp("Himuro?","｛主人公｝.");
-MsgDisp("主人公","Ah!
-｛氷室＊＊｝......");
+MsgDisp("主人公","Ah! ｛氷室＊＊｝......");
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F100620001_06_010");
@@ -73,30 +72,29 @@ ChMotion(3,3);
 ChEyeOpenLevel(3,0);
 VoiceEVSPlay(3);
 VoicePlay("F100620001_03_040");
-MsgDisp("Honda","｛主人公｝,
-you too!");
+MsgDisp("Honda","｛主人公｝, you too!");
 MsgDisp("主人公","Eh, me too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,7);
 VoicePlay("F100620001_06_050");
-MsgDisp("Himuro","Haa, you just decide
-everything by yourself...");
+MsgDisp("Himuro","Haa, you just decide everything by
+yourself...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("F100620001_03_050");
-MsgDisp("Honda","If we all eat together, it'll
-taste even more delicious?");
+MsgDisp("Honda","If we all eat together, it'll taste even
+more delicious?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("F100620001_03_060");
 MsgDisp("Honda","Alright, let's go!");
-MsgDisp("主人公","(I know he suddenly barged in but, 
-I'm kind of excited for the ramen 
-shop ｛本多＊＊｝ likes so much?)");
+MsgDisp("主人公","(I know he suddenly barged in but, I'm
+kind of excited for the ramen shop
+｛本多＊＊｝ likes so much?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,9 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208302_02_000");
-MsgDisp("Sassa","This is quite transparent, 
-Hey, you can even see the 
-aquatic plants swaying.");
+MsgDisp("Sassa","This is quite transparent, Hey, you can
+even see the aquatic plants swaying.");
 MsgSel("It's like it's not in the water","The fish are completely visible too","I'd like to watch while floating on a boat.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040208302_02_010");
     MsgDisp("Sassa","Yeah, it's a strange optical illusion.
-It's like trick art, 
-it's interesting.");
+It's like trick art, it's interesting.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,7 +28,8 @@ it's interesting.");
     ChMotion(2,4);
     VoicePlay("B040208302_02_020");
     MsgDisp("Sassa","You say interesting things from time to
-time. It's in plain sight indeed.");
+time.
+It's in plain sight indeed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -58,30 +57,30 @@ firefly house right?");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040208302_02_040");
-        MsgDisp("Sassa","There was a boat near 
-the water fountain though...");
+        MsgDisp("Sassa","There was a boat near the water fountain
+though...");
         MsgDisp("主人公","Does ｛颯砂＊＊｝ not like them?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040208302_02_050");
         MsgDisp("Sassa","Boats are fine.
-But those swan paddling boats 
-are all sorts of challenging.");
+But those swan paddling boats are all
+sorts of challenging.");
         MsgDisp("主人公","Do you dislike it?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040208302_02_060");
         MsgDisp("Sassa","It's physically tough for me.
-With my height, I have to bend my neck
-and stick it out to get on.");
+With my height, I have to bend my neck and
+stick it out to get on.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040208302_02_070");
-        MsgDisp("Sassa","The swans would look like they
-have two necks won't they?");
+        MsgDisp("Sassa","The swans would look like they have two
+necks won't they?");
         MsgDisp("主人公","Eh... Hehe!");
         ChEye(2,0);
         ChMouth(2,3);

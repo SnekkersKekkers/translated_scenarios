@@ -18,8 +18,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B040606400_06_020");
-MsgDisp("Himuro","The biggest difference between you and 
-me is that I'm not a glutton.
+MsgDisp("Himuro","The biggest difference between you and me
+is that I'm not a glutton.
 Things like foods stalls won't——");
 ChEye(6,3);
 ChMouth(6,0);
@@ -40,8 +40,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B040606400_06_050");
-MsgDisp("Himuro","I see.
-To serve that at a food stall...
+MsgDisp("Himuro","I see. To serve that at a food stall...
 Good taste. Let's go.");
 MsgClose();
 SEPlay("EV_SE_626");

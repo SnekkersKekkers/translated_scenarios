@@ -11,8 +11,8 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("F020300014_03_000");
 MsgDisp("Honda","Seems like we are.");
-MsgDisp("主人公","｛本多＊＊｝, do you think you'll
-cry at the ceremony?");
+MsgDisp("主人公","｛本多＊＊｝, do you think you'll cry at
+the ceremony?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -22,9 +22,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("F020300014_03_020");
-MsgDisp("Honda","I'm not really sad for the graduation
-as much as I am interested in the
-future.");
+MsgDisp("Honda","I'm not really sad for the graduation as
+much as I am interested in the future.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);
@@ -35,21 +34,20 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F020300014_03_040");
-MsgDisp("Honda","Who knows, maybe I'll end up crying
-more than anyone else?");
+MsgDisp("Honda","Who knows, maybe I'll end up crying more
+than anyone else?");
 MsgDisp("主人公","Somehow, I can't really see that.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("F020300014_03_050");
-MsgDisp("Honda","Really?
-For me, it's like a switch goes off when
-I cry. I can't control it.");
+MsgDisp("Honda","Really? For me, it's like a switch goes
+off when I cry. I can't control it.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("F020300014_03_060");
-MsgDisp("Honda","If I'm crying so hard I can't speak,
-don't laugh at me, okay?");
+MsgDisp("Honda","If I'm crying so hard I can't speak, don't
+laugh at me, okay?");
 MsgDisp("主人公","(I want to know what that looks
 like......)");

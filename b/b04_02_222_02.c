@@ -21,8 +21,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040222202_02_010");
-        MsgDisp("Sassa","I wonder if there's anything 
-interesting in looking at that.");
+        MsgDisp("Sassa","I wonder if there's anything interesting
+in looking at that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -33,7 +33,8 @@ interesting in looking at that.");
         ChMotion(2,0);
         VoicePlay("B040222202_02_020");
         MsgDisp("Sassa","I didn't know you were interested in that
-kind of stuff. It's difficult for me.");
+kind of stuff.
+It's difficult for me.");
         MsgDisp("主人公","I wouldn't say I'm interested in it...
 ｛颯砂＊＊｝, are you bored?");
         ChEye(2,0);
@@ -49,8 +50,8 @@ interesting that you are.");
         ChMotion(2,0);
         VoicePlay("B040222202_02_040");
         MsgDisp("Sassa","Isn't that right?
-There's no common ground 
-between you and debt agreements. ");
+There's no common ground between you and
+debt agreements.");
         MsgDisp("主人公","Hey, I'm not interested in debt
 agreements, I'm interested in historical
 documents!");

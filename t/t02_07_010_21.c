@@ -9,9 +9,8 @@ ChMouth(7,4);
 ChMotion(7,0,1);
 VoicePlay("T020701022_07_010");
 MsgDisp("Mikage","Does that mean you accept my feelings?");
-MsgDisp("主人公","Yes.
-I don't think I can express my feelings
-through words alone......");
+MsgDisp("主人公","Yes. I don't think I can express my
+feelings through words alone......");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -39,8 +38,8 @@ Wait(120,0);
 StlOpen("ev_07_16");
 ScrFadeIn(0);
 VoicePlay("T020701022_07_050");
-MsgDisp("Mikage","You're thinking too much──
-you serious girl.");
+MsgDisp("Mikage","You're thinking too much── you serious
+girl.");
 VoicePlay("T020701022_07_060");
 MsgDisp("Mikage","You're mine now.");
 MsgClear();

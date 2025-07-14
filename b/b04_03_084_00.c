@@ -5,8 +5,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040308400_03_000");
-MsgDisp("Honda","I wonder if the firefly
-larvae are doing well?");
+MsgDisp("Honda","I wonder if the firefly larvae are doing
+well?");
 MsgSel("Larvae are a bit...","We can't see them at all, huh?","Do you want to try catching them?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040308400_03_010");
-    MsgDisp("Honda","Is that so? On a closer look, they flash
-their lights slowly and are actually quite
-cute.");
+    MsgDisp("Honda","Is that so?
+On a closer look, they flash their lights
+slowly and are actually quite cute.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -40,8 +40,8 @@ their meal.");
     ChMotion(3,3);
     VoicePlay("B040308400_03_030");
     MsgDisp("Honda","Alright, I'll catch some to observe.
-But, raising them is troublesome, 
-so I have to release them right away.");
+But, raising them is troublesome, so I
+have to release them right away.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -15,8 +15,8 @@ Let's go where you want to go.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q040100001_01_010");
-    MsgDisp("Kazama","Let's go. I was looking for you just now
-too.");
+    MsgDisp("Kazama","Let's go.
+I was looking for you just now too.");
     MsgDisp("主人公","I'm glad!");
     break ;
     case 4:
@@ -33,7 +33,7 @@ too.");
     MsgDisp("Kazama","I guess I lost.
 I'll spend the entire day with you.");
     MsgDisp("主人公","(Yay! I'm happy I'll able to look around
-with ｛風真＊＊｝.)");
+with ｛風真＊＊｝. )");
     break ;
     default :
     DbgAssert(1);

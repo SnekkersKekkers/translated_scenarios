@@ -14,13 +14,12 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("D010100200_01_000");
-MsgDisp("Kazama","I guess so. Under normal circumstances,
-such a high quality cup should be stored
-properly.");
+MsgDisp("Kazama","I guess so.
+Under normal circumstances, such a high
+quality cup should be stored properly.");
 VoicePlay("D010100200_34_010");
-MsgDisp("Clerk","Right, right. You get it.
-OK, I'll give it to on discount, only 
-10 RICH!");
+MsgDisp("Clerk","Right, right. You get it. OK, I'll give it
+to on discount, only 10 RICH!");
 StlEye(1,1);
 VoicePlay("D010100200_01_010");
 MsgDisp("Kazama","Even though it was in the box of 1 rich
@@ -50,7 +49,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(1,255,7,4,2,0,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Hehe, you're  such a smart shopper,
+MsgDisp("主人公","Hehe, you're such a smart shopper,
 ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -76,8 +75,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D010100200_01_060");
 MsgDisp("Kazama","The value can only be decided by someone
-understands it. Earlier it was only worth
-1 Rich.");
+understands it.
+Earlier it was only worth 1 Rich.");
 MsgDisp("主人公","I see, but now it's 5 Rich.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -91,8 +90,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010100200_01_080");
-MsgDisp("Kazama","At Grandpa's place, we'll sell it for
-a fair price.");
+MsgDisp("Kazama","At Grandpa's place, we'll sell it for a
+fair price.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -111,8 +110,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100200_01_110");
-MsgDisp("Kazama","Antiques and people are the same. If
-they aren't with people who value them
+MsgDisp("Kazama","Antiques and people are the same.
+If they aren't with people who value them
 properly, it will cause them sorrow.");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,2);

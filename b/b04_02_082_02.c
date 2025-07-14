@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040208202_02_000");
-MsgDisp("Sassa","The fireflies' home, 
-isn't in a pond, but a spring.");
+MsgDisp("Sassa","The fireflies' home, isn't in a pond, but
+a spring.");
 MsgSel("It's because the spring water is abundant.","Then it's the firefly's spring","It seems like fairies could be there.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -21,8 +21,8 @@ switch (MsgSelRsltGet()){
         ChMotion(2,0);
         VoicePlay("B040208202_02_010");
         MsgDisp("Sassa","You knew that huh?
-Seems like it's going to be tough to 
-beat you in terms of information.");
+Seems like it's going to be tough to beat
+you in terms of information.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -32,8 +32,8 @@ beat you in terms of information.");
         ChMouth(2,0);
         ChMotion(2,0,1);
         VoicePlay("B040208202_02_020");
-        MsgDisp("Sassa","I tried to act like I knew 
-a bit, but I failed.");
+        MsgDisp("Sassa","I tried to act like I knew a bit, but I
+failed.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,0);
@@ -47,8 +47,8 @@ exercise and the body too.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040208202_02_040");
-        MsgDisp("Sassa","That's because since I was little,
-that's all I did.
+        MsgDisp("Sassa","That's because since I was little, that's
+all I did.
 So I became knowledgable.");
         ChEye(2,0);
         ChMouth(2,0);
@@ -81,8 +81,8 @@ teaches it to a lot of people.");
         VoicePlay("B040208202_02_090");
         MsgDisp("Sassa","Sorry I said that.
 At any rate, I admire you.");
-        MsgDisp("主人公","(｛颯砂＊＊｝...I wonder if he's 
-worried about something.)");
+        MsgDisp("主人公","(｛颯砂＊＊｝...I wonder if he's worried
+about something.)");
         break ;
         default :
         DbgAssert(1);
@@ -96,8 +96,8 @@ worried about something.)");
     ChMotion(2,3);
     VoicePlay("B040208202_02_100");
     MsgDisp("Sassa","That's right.
-Then, from today onwards, 
-let's call it the firefly spring.");
+Then, from today onwards, let's call it
+the firefly spring.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

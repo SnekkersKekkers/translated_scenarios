@@ -78,8 +78,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020110300_01_090");
 MsgDisp("Kazama","Looks like we've got an audience here too.");
-MsgDisp("主人公","(That caught me by surprise...... What's
-up with ｛風真＊＊｝ today?)");
+MsgDisp("主人公","(That caught me by surprise......
+What's up with ｛風真＊＊｝ today?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

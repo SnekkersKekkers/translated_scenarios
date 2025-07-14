@@ -8,8 +8,9 @@ switch (ChPrmGet(7,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","Won't you take on the giant maze?～ If you
-succeed, you get to try delicious milk～");
+    MsgDisp("主人公","Won't you take on the giant maze?～
+If you succeed, you get to try delicious
+milk～");
     VoicePlay("P130700000_07_000");
     MsgDisp("Mikage?","The prize is some delicious cow milk～");
     MsgClose();
@@ -23,10 +24,10 @@ drawing more people in?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P130700000_07_020");
-    MsgDisp("Mikage","If I'm here, 
-I'll only distract the cute cow-girl.");
-    MsgDisp("主人公","I'm not a cow girl,
-this is a cow-print shirt.");
+    MsgDisp("Mikage","If I'm here, I'll only distract the cute
+cow-girl.");
+    MsgDisp("主人公","I'm not a cow girl, this is a cow-print
+shirt.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -49,8 +50,9 @@ Lost lamb, one customer coming up!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Won't you take on the giant maze?～ If you
-succeed, you get to try delicious milk～");
+    MsgDisp("主人公","Won't you take on the giant maze?～
+If you succeed, you get to try delicious
+milk～");
     VoicePlay("P130700000_07_050");
     MsgDisp("Mikage?","Ohh, it's quite popular, isn't it?");
     MsgClose();
@@ -73,8 +75,7 @@ I'm looking forward to it.");
     VoicePlay("P130700000_07_080");
     MsgDisp("Mikage","Oh.
 Then, can I have a cup?");
-    MsgDisp("主人公","Nope.
-If you can't escape successfully, 
+    MsgDisp("主人公","Nope. If you can't escape successfully,
 you can't drink milk, you know?");
     ChEye(7,0);
     ChMouth(7,3);

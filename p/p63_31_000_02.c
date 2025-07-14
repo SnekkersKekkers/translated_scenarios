@@ -11,15 +11,14 @@ VoicePlay("P633100002_31_000");
 MsgDisp("Goro","Well, it's you.
 This is a nice terrace, isn't it?");
 MsgDisp("主人公","Goro-sensei, welcome!
-This is Haba High's gardening 
-club's true capabilities.");
+This is Haba High's gardening club's true
+capabilities.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("P633100002_31_010");
-MsgDisp("Goro","Hm?
-Then, I'll get on some of that sincerity.
-Bring it to me please!");
+MsgDisp("Goro","Hm? Then, I'll get on some of that
+sincerity. Bring it to me please!");
 MsgDisp("主人公","Certainly!");
 MsgClose();
 ScrFadeOut(0);

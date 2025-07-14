@@ -11,8 +11,7 @@ ChMouth(3,2);
 ChMotion(3,1,1);
 VoicePlay("T020301000_03_260");
 MsgDisp("Honda","Is that so?
-Then,
-we'll be together forever?");
+Then, we'll be together forever?");
 MsgDisp("主人公","Yes.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -26,7 +25,8 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,10);
 ChCheek(3,0);
 VoicePlay("T020301000_03_280");
-MsgDisp("Honda","Thank you. I'm really glad I met you.");
+MsgDisp("Honda","Thank you.
+I'm really glad I met you.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

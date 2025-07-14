@@ -20,17 +20,15 @@ I'll go home alone.)");
     ChMouth(5,0);
     ChMotion(5,0);
     VoicePlay("F010500006_05_010");
-    MsgDisp("Hiiragi","Excuse me. 
-I have plans with a patron of the
-troupe.");
+    MsgDisp("Hiiragi","Excuse me.
+I have plans with a patron of the troupe.");
     MsgDisp("主人公","Okay, I'll invite you again later.");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("F010500006_05_020");
-    MsgDisp("Hiiragi","Yes.
-Whenever I talk to you, I never fail to
-enjoy it.");
+    MsgDisp("Hiiragi","Yes. Whenever I talk to you, I never fail
+to enjoy it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

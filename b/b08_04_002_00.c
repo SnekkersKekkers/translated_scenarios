@@ -4,7 +4,7 @@ BGOpen("ho210",2);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Haa, I was caught off guard...)");
-MsgDisp("主人公","(I think I
-should contact ｛七ツ森＊｝ soon...)");
+MsgDisp("主人公","(I think I should contact ｛七ツ森＊｝
+soon...)");
 MsgClose();
 ScrFadeOut(0);

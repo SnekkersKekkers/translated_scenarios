@@ -10,8 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040104300_01_000");
-    MsgDisp("Kazama","It was awesome. It was nice to laugh to
-our heart's content together.");
+    MsgDisp("Kazama","It was awesome.
+It was nice to laugh to our heart's
+content together.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,8 +34,8 @@ I had a good time.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040104300_01_020");
-    MsgDisp("Kazama","Seems like the problem might be
-with the recipient - you.");
+    MsgDisp("Kazama","Seems like the problem might be with the
+recipient - you.");
     MsgDateResultDisp();
     break ;
     default :

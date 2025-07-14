@@ -11,8 +11,9 @@ MsgDisp("主人公","Yeah...");
 VoicePlay("T020600000_06_410");
 ChEye(6,1);
 ChMouth(6,1);
-MsgDisp("Himuro","It's not sudden. I've been suppressing
-these feelings for a long time.");
+MsgDisp("Himuro","It's not sudden.
+I've been suppressing these feelings for a
+long time.");
 VoicePlay("T020600000_06_420");
 ChEye(6,1);
 ChMouth(6,1);
@@ -35,15 +36,16 @@ VoicePlay("T020600000_06_450");
 ChEye(6,2);
 ChMouth(6,1);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","And now... I'm such a wreck that
-I could cry just thinking about you.");
+MsgDisp("Himuro","And now...
+I'm such a wreck that I could cry just
+thinking about you.");
 MsgDisp("主人公","｛氷室＊＊｝......");
 VoicePlay("T020600000_06_460");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","Even so... do you think my feelings
-are sudden?");
+MsgDisp("Himuro","Even so...
+do you think my feelings are sudden?");
 VoicePlay("T020600000_06_470");
 ChEye(6,2);
 ChMouth(6,0);

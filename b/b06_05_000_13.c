@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B060500013_05_010");
-    MsgDisp("Hiiragi","Good.
-Let's stay together a bit longer then.");
+    MsgDisp("Hiiragi","Good. Let's stay together a bit longer
+then.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);

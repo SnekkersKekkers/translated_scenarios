@@ -9,7 +9,7 @@ ScrFadeOut(1,60);
 Wait(28,0);
 BGOpen("sc700",0);
 ScrFadeIn(1,60);
-MsgDisp("主人公","(And so, this year's cultural festival 
-has come to an end.)");
+MsgDisp("主人公","(And so, this year's cultural festival has
+come to an end.)");
 MsgClose();
 ScrFadeOut(0);

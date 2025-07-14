@@ -9,8 +9,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B020302131_03_010");
 MsgDisp("Honda","Is it really that surprising?
-Isn't that the natural way to feel
-when you're wearing such cute clothing?");
-MsgDisp("主人公","(｛本多＊＊｝
-seems to have really
-come to love these clothes!)");
+Isn't that the natural way to feel when
+you're wearing such cute clothing?");
+MsgDisp("主人公","(｛本多＊＊｝ seems to have really come to
+love these clothes!)");

@@ -9,8 +9,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("G020610101_06_010");
-MsgDisp("Himuro","Ah......
-——Sorry, disregard what I said just now.");
+MsgDisp("Himuro","Ah...... ——Sorry, disregard what I said
+just now.");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,2);
 ChMouth(6,0);
@@ -24,14 +24,15 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610101_06_030");
-MsgDisp("Himuro","That maybe I'm a little more special 
-to you than everyone else.");
+MsgDisp("Himuro","That maybe I'm a little more special to
+you than everyone else.");
 MsgDisp("主人公","Ah, I......");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("G020610101_06_040");
-MsgDisp("Himuro","It's fine! Don't say it.");
+MsgDisp("Himuro","It's fine!
+Don't say it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -57,8 +58,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610101_06_080");
-MsgDisp("Himuro","So, I want a little more time
-......is that okay?");
+MsgDisp("Himuro","So, I want a little more time ......is
+that okay?");
 MsgDisp("主人公","Time......
 y-yeah, I understand.");
 ChEye(6,0);

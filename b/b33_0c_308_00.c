@@ -35,8 +35,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C30800_07_000");
 MsgDisp("Mikage","Haha, that's a rough guess.
-Well, that's fine, 
-should we go check it out?");
+Well, that's fine, should we go check it
+out?");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);
@@ -80,8 +80,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30800_07_020");
-MsgDisp("Mikage","Yeah.
-The baby sheep is just about the same.");
+MsgDisp("Mikage","Yeah. The baby sheep is just about the
+same.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -95,10 +95,10 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30800_06_050");
-MsgDisp("Himuro","Kojiro-sensei, shouldn't you have 
-come in your normal overalls today?");
-MsgDisp("主人公","(Hehe!
-Maybe it's just as ｛氷室＊＊｝ says?)");
+MsgDisp("Himuro","Kojiro-sensei, shouldn't you have come in
+your normal overalls today?");
+MsgDisp("主人公","(Hehe! Maybe it's just as ｛氷室＊＊｝
+says?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

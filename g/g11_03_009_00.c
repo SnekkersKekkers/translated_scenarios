@@ -2,14 +2,14 @@ BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Lots of books are going to be delivered
-today. I'll do my best!)");
+today.
+I'll do my best!)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300900_03_000");
-MsgDisp("Honda","｛主人公｝,
-Today is going to be busy.
+MsgDisp("Honda","｛主人公｝, Today is going to be busy.
 Let's do our best!");
 MsgClose();
 ScrFadeOut(0);
@@ -21,8 +21,8 @@ MsgClose();
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","......Huh?
-｛本多＊＊｝ still hasn't taken a break?");
+MsgDisp("主人公","......Huh? ｛本多＊＊｝ still hasn't taken
+a break?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -34,8 +34,8 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300900_03_020");
-MsgDisp("Honda","When customers look at the cover, 
-it catches their eye, right?");
+MsgDisp("Honda","When customers look at the cover, it
+catches their eye, right?");
 MsgDisp("主人公","Amazing. This is ｛本多＊＊｝'s
 recommendations corner, right?'");
 ChEye(3,1);
@@ -52,8 +52,8 @@ MsgDisp("Honda","In the future, wouldn't it be so fun if we
 could gather all the books we like and
 open a bookstore together?");
 MsgDisp("主人公","A bookstore that only sells books selected
-by ｛本多＊＊｝......I bet it would be
-really popular.");
+by ｛本多＊＊｝......
+I bet it would be really popular.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

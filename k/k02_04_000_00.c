@@ -13,15 +13,14 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("K020400000_04_000");
 MsgDisp("Nanatsumori","Evening.");
-MsgDisp("主人公","｛七ツ森＊｝!?
-Um, what's up?");
+MsgDisp("主人公","｛七ツ森＊｝!? Um, what's up?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("K020400000_04_010");
 MsgDisp("Nanatsumori","What's up?
-There isn't a girl who'd forget their
-own birthday, right?");
+There isn't a girl who'd forget their own
+birthday, right?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -57,6 +56,6 @@ BGMStop();
 MsgClose();
 ChClose(4,0,30);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛七ツ森＊｝!)");
+MsgDisp("主人公","(I got a present from ｛七ツ森＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

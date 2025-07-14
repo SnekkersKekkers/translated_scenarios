@@ -6,8 +6,7 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040221102_02_000");
-MsgDisp("Sassa","Heeh.
-The baby tiger just born last month
+MsgDisp("Sassa","Heeh. The baby tiger just born last month
 is now available to see.");
 MsgSel("It's like am kitten huh?","Apparently there's also a photo session","After this, I might buy some goods to take home.");
 switch (MsgSelRsltGet()){
@@ -34,9 +33,9 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040221102_02_020");
-        MsgDisp("Sassa","It was only just born, 
-I feel bad that it has to be held 
-by so many different people.");
+        MsgDisp("Sassa","It was only just born, I feel bad that it
+has to be held by so many different
+people.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -46,8 +45,8 @@ by so many different people.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040221102_02_030");
-        MsgDisp("Sassa","It was only just born, 
-I want it to be able to rest well.");
+        MsgDisp("Sassa","It was only just born, I want it to be
+able to rest well.");
         MsgDisp("主人公","I see.
 ｛颯砂＊＊｝ is kind huh?");
         ChEye(2,0);
@@ -79,8 +78,8 @@ eyes.");
         ChMouth(2,3);
         ChMotion(2,4);
         VoicePlay("B040221102_02_070");
-        MsgDisp("Sassa","What are we doing in 
-front of the cheetah cage?");
+        MsgDisp("Sassa","What are we doing in front of the cheetah
+cage?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
@@ -101,8 +100,8 @@ child, let's go.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040221102_02_090");
-    MsgDisp("Sassa","When you see the real thing,
-you'll want a stuffed toy too...
+    MsgDisp("Sassa","When you see the real thing, you'll want a
+stuffed toy too...
 You're totally hooked, aren't you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -12,16 +12,15 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030521001_05_000");
-    MsgDisp("Hiiragi","Gift store? Good choice.
-Let's go and see what amazing things
-we can find!");
+    MsgDisp("Hiiragi","Gift store? Good choice. Let's go and see
+what amazing things we can find!");
     MsgDispSksp(0);
     break ;
     case 1:
     MsgDispSksp(1,0);
     VoicePlay("B030521001_05_010");
-    MsgDisp("Hiiragi","Sure, wherever you want to go is
-fine with me.");
+    MsgDisp("Hiiragi","Sure, wherever you want to go is fine with
+me.");
     MsgDispSksp(0);
     break ;
     default :

@@ -9,8 +9,9 @@ Hapー・py New Yeーarー!");
 MsgDisp("主人公","Oh, it's ｛ひかる＊｝.
 Happy New Year!");
 VoicePlay("S050D00000_22_010");
-MsgDisp("Hikaru","Hey, do you want to visit the shrine
-with me? Sis will come also♪");
+MsgDisp("Hikaru","Hey, do you want to visit the shrine with
+me?
+Sis will come also♪");
 MsgDisp("主人公","Sure, got it.");
 VoicePlay("S050D00000_22_020");
 MsgDisp("Hikaru","We'll come to pick you up now.

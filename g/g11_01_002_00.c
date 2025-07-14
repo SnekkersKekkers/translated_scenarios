@@ -24,16 +24,17 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoiceEVSPlay(1);
 VoicePlay("G110100200_01_000");
-MsgDisp("Kazama","｛主人公｝.
-Have you been busy recently?");
+MsgDisp("Kazama","｛主人公｝. Have you been busy
+recently?");
 MsgDisp("主人公","Eh?
 That's not been the case.");
 ChEye(1,1);
 ChMouth(1,1);
 ChMotion(1,1);
 VoicePlay("G110100200_01_010");
-MsgDisp("Kazama","...I see. Then the other day, I guess you
-were just coincidentally busy.");
+MsgDisp("Kazama","...I see.
+Then the other day, I guess you were just
+coincidentally busy.");
 MsgDisp("主人公","Recently...?");
 ChEye(1,1);
 ChMouth(1,0);
@@ -56,23 +57,23 @@ ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100200_01_040");
-MsgDisp("Kazama","Alright, alright. I completely understand
-that there was no deeper meaning behind
-your rejection.");
+MsgDisp("Kazama","Alright, alright.
+I completely understand that there was no
+deeper meaning behind your rejection.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G110100200_01_050");
-MsgDisp("Kazama","I'll invite you next time when 
-things aren't so hectic.");
+MsgDisp("Kazama","I'll invite you next time when things
+aren't so hectic.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100200_01_060");
 MsgDisp("Kazama","...Phew.");
-MsgDisp("主人公","(｛風真＊＊｝ was really worried... The
-next time he invites me, I should make
+MsgDisp("主人公","(｛風真＊＊｝ was really worried...
+The next time he invites me, I should make
 sure I accept.)");
 BGMStop();
 MsgClose();

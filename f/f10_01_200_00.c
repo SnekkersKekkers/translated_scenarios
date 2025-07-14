@@ -20,9 +20,10 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F100120000_01_010");
 MsgDisp("Kazama","Mikage-sensei's lived alone for a long
-time, so he's been teaching me some
-life hacks.");
-MsgDisp("主人公","Life hacks? Like what?");
+time, so he's been teaching me some life
+hacks.");
+MsgDisp("主人公","Life hacks?
+Like what?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -36,14 +37,13 @@ MsgDisp("Mikage","That's elementary.
 If you buy a whole loaf, it'll spoil
 before you can eat it.");
 MsgDisp("主人公","I see...
-You can only do that when you live
-alone.");
+You can only do that when you live alone.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100120000_07_020");
-MsgDisp("Mikage","We'll start from the basics, so be sure
-to take proper notes, okay?");
+MsgDisp("Mikage","We'll start from the basics, so be sure to
+take proper notes, okay?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -53,8 +53,7 @@ MsgClose();
 SEPlay("EV_SE_856");
 ChClose(1,0,30);
 ChClose(7,0,30);
-MsgDisp("主人公","(Haha.
-｛風真＊＊｝ sounds so earnest.
+MsgDisp("主人公","(Haha. ｛風真＊＊｝ sounds so earnest.
 Living alone sounds like tough work...)");
 VoicePlay("F100120000_07_030");
 MsgDisp("Mikage","First of all, wash your clothes as

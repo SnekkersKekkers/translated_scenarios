@@ -1,5 +1,5 @@
-MsgDisp("主人公","(｛颯砂＊＊｝'s last high school race
-will start soon......)");
+MsgDisp("主人公","(｛颯砂＊＊｝'s last high school race will
+start soon......)");
 MsgClose();
 BGOpen("sc624",0);
 ChLayout(1);
@@ -17,9 +17,8 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D010200700_02_010");
-MsgDisp("Sassa","......But you know,
-I guess it would be bad if I couldn't
-move anymore——");
+MsgDisp("Sassa","......But you know, I guess it would be
+bad if I couldn't move anymore——");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(2,0,30);
 ChLayout(0);
@@ -42,9 +41,8 @@ ChMotion(2,4,1);
 ChCheek(2,10);
 ScrFadeIn(0);
 VoicePlay("D010200700_02_030");
-MsgDisp("Sassa","......Alright.
-In order to not have any regrets,
-I'll run until I pass out!");
+MsgDisp("Sassa","......Alright. In order to not have any
+regrets, I'll run until I pass out!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
@@ -59,7 +57,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(Finally, the 1500m race......
-｛颯砂＊＊｝!)");
+｛颯砂＊＊｝! )");
 MsgClose();
 BGOpen("sc625",0);
 ScrFadeIn(0);
@@ -77,8 +75,8 @@ MsgClose();
 BGOpen("sc628",0);
 ScrFadeIn(0);
 VoicePlay("D010200700_47_000");
-MsgDisp("Broadcast","The winner of this year's Octathlon
-is Sassa Nozomu, a 3rd year student at
+MsgDisp("Broadcast","The winner of this year's Octathlon is
+Sassa Nozomu, a 3rd year student at
 Habataki High School. He broke the high
 school record.");
 SEPlay("EV_SE_GAYA_003",0.5);
@@ -94,8 +92,8 @@ MsgDisp("Member A","Sassa-senpai, that was amazing!
 That was your 3rd consecutive interhigh
 victory.");
 MsgDisp("主人公","Yeah, it was amazing.
-Next year, you all can make it 4 wins
-for Habataki in a row.");
+Next year, you all can make it 4 wins for
+Habataki in a row.");
 SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_GAYA_021",2);
 SEStop("EV_SE_CLAP_002",2);
@@ -108,9 +106,8 @@ MsgClose();
 BGMPlay("BGM_C02_SASSA_I",0.01);
 ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoicePlay("D010200700_02_050");
-MsgDisp("Sassa","In the end, it was a struggle to get
-first place, but I managed to pull
-through.");
+MsgDisp("Sassa","In the end, it was a struggle to get first
+place, but I managed to pull through.");
 MsgDisp("主人公","Hehe!
 Yeah, welcome back.");
 MsgClose();
@@ -139,8 +136,8 @@ StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0);
 VoicePlay("D010200700_02_080");
-MsgDisp("Sassa","If I didn't have you, I wouldn't
-have won this medal.");
+MsgDisp("Sassa","If I didn't have you, I wouldn't have won
+this medal.");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
@@ -152,8 +149,8 @@ StlMouth(2,0);
 VoicePlay("D010200700_02_100");
 MsgDisp("Sassa","Is that a bad thing to say?");
 MsgDisp("主人公","Ah......Gold medals are kind of heavy,
-aren't they? ｛颯砂＊＊｝, thank you.
-You worked hard these past 3 years.");
+aren't they? ｛颯砂＊＊｝, thank you. You
+worked hard these past 3 years.");
 SEPlay("EV_SE_CLAP_005",0.5);
 Wait(30,0);
 VoicePlay("D010200700_44_010");

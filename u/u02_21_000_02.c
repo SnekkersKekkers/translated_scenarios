@@ -18,8 +18,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("U022100002_21_020");
-MsgDisp("Michiru","If you come here as a couple on a 
-night with fireflies, it's rumored that 
+MsgDisp("Michiru","If you come here as a couple on a night
+with fireflies, it's rumored that
 something magical will happen.");
 ChEye(21,0);
 ChMouth(21,0);
@@ -31,7 +31,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("U022100002_21_040");
-MsgDisp("Michiru","When you're surrounded by beautiful 
+MsgDisp("Michiru","When you're surrounded by beautiful
 scenery, your heart sometimes begins to
 flutter. Maybe that's why.");
 MsgDisp("主人公","Yeah......
@@ -40,6 +40,6 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("U022100002_21_050");
-MsgDisp("Michiru","Hey, if Mari has a magical experience,
-let me be the first one to know, okay?");
+MsgDisp("Michiru","Hey, if Mari has a magical experience, let
+me be the first one to know, okay?");
 MsgDisp("主人公","Huh　...∋");

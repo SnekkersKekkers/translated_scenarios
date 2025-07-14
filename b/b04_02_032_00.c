@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040203200_02_010");
-    MsgDisp("Sassa","Oh, am I the only one whose out
-of the loop?
+    MsgDisp("Sassa","Oh, am I the only one whose out of the
+loop?
 That's a bit sad.");
     MsgDateResultDisp();
     break ;
@@ -39,8 +39,8 @@ They shouldn't make it and not tell us.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040203200_02_030");
-    MsgDisp("Sassa","In that case, today is the best
-day to be here.");
+    MsgDisp("Sassa","In that case, today is the best day to be
+here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -22,9 +22,9 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("P640D00001_21_010");
-MsgDisp("Michiru","The stimulus of the herbs are too strong, 
-and with one mouthful,
-a shock runs through you.");
+MsgDisp("Michiru","The stimulus of the herbs are too strong,
+and with one mouthful, a shock runs
+through you.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);

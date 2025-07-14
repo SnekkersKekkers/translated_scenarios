@@ -17,8 +17,8 @@ switch (ChPrmGet(2,6)){
     ChEyeOpenLevel(2,0);
     VoicePlay("O030200001_02_010");
     MsgDisp("Sassa","......How frustrating.");
-    MsgDisp("主人公","(I wonder if we should've
-been in more sync......)");
+    MsgDisp("主人公","(I wonder if we should've been in more
+sync......)");
     break ;
     case 3:
     MsgClose();
@@ -30,9 +30,8 @@ been in more sync......)");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("O030200001_02_030");
-    MsgDisp("Sassa","Sorry.
-It must've been hard for you to match
-strides with someone as tall as me.");
+    MsgDisp("Sassa","Sorry. It must've been hard for you to
+match strides with someone as tall as me.");
     MsgDisp("主人公","Not at all.
 Rather, sorry for making you match pace
 with me, ｛颯砂＊＊｝.");
@@ -42,10 +41,10 @@ with me, ｛颯砂＊＊｝.");
     ChEyeOpenLevel(2,0);
     VoicePlay("O030200001_02_040");
     MsgDisp("Sassa","It was nothing.
-......It's just that I wanted
-to share a win with you.");
-    MsgDisp("主人公","(Yeah,
-we should've been in better sync......)");
+......It's just that I wanted to share a
+win with you.");
+    MsgDisp("主人公","(Yeah, we should've been in better
+sync......)");
     break ;
     case 4:
     case 5:
@@ -63,8 +62,8 @@ we should've been in better sync......)");
 I should've adjusted my stride.
 I was rushing like an idiot.");
     MsgDisp("主人公","Not at all.
-It would've been easier for you
-if you were alone, ｛颯砂＊＊｝......");
+It would've been easier for you if you
+were alone, ｛颯砂＊＊｝......");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -76,18 +75,18 @@ There's no point if I'm not with you.");
     ChMotion(2,4);
     ChCheek(2,10);
     VoicePlay("O030200001_02_080");
-    MsgDisp("Sassa","With that in mind,
-I'm just happy that we were together.");
+    MsgDisp("Sassa","With that in mind, I'm just happy that we
+were together.");
     MsgDisp("主人公","Huh?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("O030200001_02_090");
-    MsgDisp("Sassa","Maybe it's not that bad
-to be tied together like this?
+    MsgDisp("Sassa","Maybe it's not that bad to be tied
+together like this?
 -Wait, what am I saying?");
-    MsgDisp("主人公","(I can't tell if ｛颯砂＊＊｝ is
-frustrated or not......)");
+    MsgDisp("主人公","(I can't tell if ｛颯砂＊＊｝ is frustrated
+or not......)");
     break ;
     default :
     DbgAssert(1);

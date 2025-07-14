@@ -48,18 +48,18 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C10700_06_010");
-MsgDisp("Himuro","I'll watch Yonosuke-senpai's heroic 
+MsgDisp("Himuro","I'll watch Yonosuke-senpai's heroic
 performance with my own eyes.");
 ChEye(5,3);
 ChMouth(5,2);
-MsgDisp("主人公","What's up with ｛氷室＊＊｝ and 
+MsgDisp("主人公","What's up with ｛氷室＊＊｝ and
 ｛御影＊＊｝?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C10700_06_020");
-MsgDisp("Himuro","Can't you see that we've been 
-defeated by your spinning?");
+MsgDisp("Himuro","Can't you see that we've been defeated by
+your spinning?");
 MsgDisp("主人公","Maybe I spun it 
 a little too much...");
 ChEye(7,0);
@@ -87,8 +87,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C10700_07_030");
-MsgDisp("Mikage","Oohhー.
-I think I'm falling for you, Yanosuke...");
+MsgDisp("Mikage","Oohhー. I think I'm falling for you,
+Yanosuke...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -103,12 +103,11 @@ MsgDisp("主人公","Eh∋");
 MsgClose();
 ScrFadeOut(0,0);
 VoicePlay("B330C10700_05_030");
-MsgDisp("Hiiragi","Well, let's enjoy 
-ourselves to the fullest?");
+MsgDisp("Hiiragi","Well, let's enjoy ourselves to the
+fullest?");
 MsgDisp("主人公","Yeah...!");
-MsgDisp("主人公","(I'm happy but, 
-Is it really okay to leave ｛氷室＊＊｝
-and ｛御影＊＊｝ behind?)");
+MsgDisp("主人公","(I'm happy but, Is it really okay to leave
+｛氷室＊＊｝ and ｛御影＊＊｝ behind?)");
 BGMStop();
 MsgClose();
 ChEye(5,0);

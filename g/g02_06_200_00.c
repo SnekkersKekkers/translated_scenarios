@@ -21,14 +21,14 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620000_06_030");
-MsgDisp("Himuro","Even today, 
-didn't you want to come with that person?");
+MsgDisp("Himuro","Even today, didn't you want to come with
+that person?");
 MsgDisp("主人公","That's not true!");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020620000_06_040");
-MsgDisp("Himuro","Ah, well. 
+MsgDisp("Himuro","Ah, well.
 You can claim whatever you want.");
 MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,2);
@@ -43,8 +43,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620000_06_060");
 MsgDisp("Himuro","What am I even doing?
-At this rate, I'll never be number
-one to you.");
+At this rate, I'll never be number one to
+you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -56,15 +56,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620000_06_080");
 MsgDisp("Himuro","Because I met you a year too late.
-I wish I had another year to build
-the kind of relationship I want with you.");
+I wish I had another year to build the
+kind of relationship I want with you.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620000_06_090");
-MsgDisp("Himuro","I wish I could lengthen the time
-I spend with you by another year......");
+MsgDisp("Himuro","I wish I could lengthen the time I spend
+with you by another year......");
 MsgDisp("主人公","(｛氷室＊＊｝......)");
 BGMStop();
 MsgClose();

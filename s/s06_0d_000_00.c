@@ -14,5 +14,5 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("S060D00000_22_000");
 MsgDisp("Hikaru","Happy New Year, Mari!");
-MsgDisp("主人公","Happy New Year!
-｛みちる＊｝, ｛ひかる＊｝!");
+MsgDisp("主人公","Happy New Year! ｛みちる＊｝,
+｛ひかる＊｝!");

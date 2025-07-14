@@ -11,7 +11,7 @@ the shop from time to time.");
 MsgDisp("","｛颯砂＊＊｝ has become a decathlete and is
 already attracting a lot of attention in
 the world of university athletics.");
-MsgDisp("","｛氷室＊＊｝ seemed unhappy about being
-left alone at school, but it seems like
-he's enjoying surfing and school life.");
+MsgDisp("","｛氷室＊＊｝ seemed unhappy about being left
+alone at school, but it seems like he's
+enjoying surfing and school life.");
 MsgClear();

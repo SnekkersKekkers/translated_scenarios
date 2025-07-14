@@ -5,14 +5,13 @@ MsgDisp("主人公","Huh? It looks like lunchtime is already
 halfway over.");
 VoicePlay("G110500803_48_000");
 MsgDisp("School Girl","That's right, let's hurry to the
-Cafeteria! Let's go before the seats are
-all taken.");
+Cafeteria!
+Let's go before the seats are all taken.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 Wait(55,0);
 SEPlay("EV_SE_DOOR_013");
 SEWait();
-MsgDisp("主人公","｛柊＊＊＊｝ Ha?
-Have you had lunch?");
+MsgDisp("主人公","｛柊＊＊＊｝ Ha? Have you had lunch?");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);

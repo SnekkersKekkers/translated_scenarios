@@ -17,14 +17,14 @@ ChEyeOpenLevel(22,0);
 VoicePlay("P740D00004_22_000");
 MsgDisp("Hikaru","It was the ultimate stage～!
 Hikaru felt like crying!");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝...
-Thank you!");
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝... Thank
+you!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P740D00004_21_010");
-MsgDisp("Michiru","I want to keep supporting Mari until 
-she puts on her real wedding dress.");
+MsgDisp("Michiru","I want to keep supporting Mari until she
+puts on her real wedding dress.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -34,9 +34,8 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P740D00004_22_020");
-MsgDisp("Hikaru","Ah... but, also I don't think I 
-want to hand her away to anyone 
-Eheh▼");
+MsgDisp("Hikaru","Ah... but, also I don't think I want to
+hand her away to anyone Eheh▼");
 MsgDisp("主人公","(Hehe! I'm glad I devoted myself to the
 handicrafts club these last three years!)");
 MsgClose();

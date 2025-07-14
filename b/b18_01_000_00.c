@@ -12,9 +12,9 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,4);
 VoicePlay("B180100000_01_010");
-MsgDisp("Kazama","I missed my chance on the day of
-the entrance ceremony, but this 
-is how I used to call you. ");
+MsgDisp("Kazama","I missed my chance on the day of the
+entrance ceremony, but this is how I used
+to call you.");
 MsgDisp("主人公","Ah, yeah.
 You used to call me like that.");
 ChCheek(1,0);
@@ -23,8 +23,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B180100000_01_020");
-MsgDisp("Kazama","So yeah, 
-that is more normal for us.
+MsgDisp("Kazama","So yeah, that is more normal for us.
 ...Right?");
 MsgSel("Yeah, that's right.","Mmm~, that was a long time ago...");
 switch (MsgSelRsltGet()){
@@ -38,8 +37,8 @@ switch (MsgSelRsltGet()){
     MsgDisp("Kazama","Isn't it, ｛主人公｝.");
     VoicePlay("B180100000_01_031");
     MsgDisp("Kazama","Well, more natural that is.");
-    MsgDisp("主人公","Hehe, it's kind of funny 
-isn't it? ｛風真＊＊｝.");
+    MsgDisp("主人公","Hehe, it's kind of funny isn't it?
+｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -53,11 +52,10 @@ perfect opportunity for a while.");
     ChMotion(1,4);
     ChEyeOpenLevel(1,0);
     VoicePlay("B180100000_01_050");
-    MsgDisp("Kazama","Seriously, I would've had no
-idea what to do if things
-stayed like this.");
-    MsgDisp("主人公","(Hehe, somehow there's a 
-tingling feeling to it...)");
+    MsgDisp("Kazama","Seriously, I would've had no idea what to
+do if things stayed like this.");
+    MsgDisp("主人公","(Hehe, somehow there's a tingling feeling
+to it...)");
     break ;
     case 1:
     ChEye(1,0);

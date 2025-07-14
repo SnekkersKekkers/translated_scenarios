@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521101_05_000");
 MsgDisp("Hiiragi","Konami the elephant looks well.");
-MsgSel("She's like Habataki zoo's poster girl","She's staring intently at｛柊＊＊＊｝?","Seems like you like her?");
+MsgSel("She's like Habataki Zoo's mascot.","She's staring intently at ｛柊＊＊＊｝?","Seems like you like her?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

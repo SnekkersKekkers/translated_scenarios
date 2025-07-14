@@ -16,8 +16,8 @@ BGMPlay("BGM_C04_NANA_A");
 ScrFadeIn(0);
 VoicePlay("G110400300_04_000");
 MsgDisp("Nanatsumori","Yo, nice work.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Are you working today?");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝. Are you working
+today?");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400300_04_010");
@@ -25,25 +25,25 @@ MsgDisp("Nanatsumori","Yeah.
 We're both working hard then.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("G110400300_04_020");
-MsgDisp("Nanatsumori","Umm, are you reporting for the 
-Habacha news?");
-MsgDisp("主人公","Yeah. I'm writing about the fun things
-and daily life about Habataki City and
-turning them into articles.");
+MsgDisp("Nanatsumori","Umm, are you reporting for the Habacha
+news?");
+MsgDisp("主人公","Yeah. I'm writing about the fun things and
+daily life about Habataki City and turning
+them into articles.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("G110400300_04_030");
 MsgDisp("Nanatsumori","Woah...");
 VoicePlay("G110400300_04_040");
 MsgDisp("Nanatsumori","So, what did you write for today?");
-MsgDisp("主人公","I'm still writing notes so I'll make
-a summary of it soon.");
+MsgDisp("主人公","I'm still writing notes so I'll make a
+summary of it soon.");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400300_04_050");
 MsgDisp("Nanatsumori","Okay then, sorry for interrupting you.
-It's time for me to take pictures so
-I'm about to go soon.");
+It's time for me to take pictures so I'm
+about to go soon.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(4);

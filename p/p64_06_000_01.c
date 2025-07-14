@@ -4,8 +4,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P640600001_06_000");
-MsgDisp("Himuro","I'm troubled now that 
-you want my feedback.");
+MsgDisp("Himuro","I'm troubled now that you want my
+feedback.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -7,8 +7,8 @@ MsgDisp("Male Student","I can't believe you have a poster.
 That's amazing, Honda!");
 VoicePlay("D010300100_44_000");
 MsgDisp("School Girl","Iku-kun is really cool∈");
-MsgDisp("主人公","(｛本多＊＊｝?
-Why is everyone standing around here?)");
+MsgDisp("主人公","(｛本多＊＊｝? Why is everyone standing
+around here?)");
 SEStop("EV_SE_736",1);
 MsgClose();
 ScrFadeOut(0);
@@ -111,8 +111,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Did ｛本多＊＊｝ put that poster up
-in his sister's room without her
+MsgDisp("主人公","(Did ｛本多＊＊｝ put that poster up in his
+sister's room without her
 permission......?)");
 MsgClose();
 ScrFadeOut(0,0);

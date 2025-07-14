@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040101000_01_010");
-    MsgDisp("Kazama","Right?
-I knew I had a good opinion.
-You can wear it next time we go out.");
+    MsgDisp("Kazama","Right? I knew I had a good opinion. You
+can wear it next time we go out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +27,8 @@ You can wear it next time we go out.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040101000_01_020");
-    MsgDisp("Kazama","You're the only person who ever
-doubts my recommendations.");
+    MsgDisp("Kazama","You're the only person who ever doubts my
+recommendations.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,9 +40,8 @@ doubts my recommendations.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040101000_01_030");
-    MsgDisp("Kazama","Huh...
-Well then, want to show me something
-that 'suits you'?");
+    MsgDisp("Kazama","Huh... Well then, want to show me
+something that 'suits you'?");
     MsgDateResultDisp();
     break ;
     default :

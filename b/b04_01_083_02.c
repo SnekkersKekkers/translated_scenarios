@@ -6,8 +6,8 @@ ScrFadeIn(0);
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B040108302_01_000");
-MsgDisp("Kazama","......
-Let's try and keep quiet for a second.");
+MsgDisp("Kazama","...... Let's try and keep quiet for a
+second.");
 MsgSel("... Hey, hey, did you hear that?","Isn't that rumor at night?","THIS. IS. MY. INNER. VOICE. BEEP.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040108302_01_010");
-    MsgDisp("Kazama","Seriously,
-you couldn't have just waited
-a second longer?");
+    MsgDisp("Kazama","Seriously, you couldn't have just waited a
+second longer?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +45,8 @@ a second longer?");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_030");
-        MsgDisp("Kazama","You should study up more about
-the mood of the atmosphere, seriously.");
+        MsgDisp("Kazama","You should study up more about the mood of
+the atmosphere, seriously.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -80,9 +79,9 @@ By all means, please continue.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040108302_01_070");
-        MsgDisp("Kazama","My bad. But if I really could
-hear your inner voice, I'm sure we could
-have a normal conversation.");
+        MsgDisp("Kazama","My bad. But if I really could hear your
+inner voice, I'm sure we could have a
+normal conversation.");
         MsgDisp("主人公","And what about your inner voice?");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
@@ -91,8 +90,9 @@ have a normal conversation.");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_080");
-        MsgDisp("Kazama","Wait a second. Thought I heard something
-weird just now...");
+        MsgDisp("Kazama","Wait a second.
+Thought I heard something weird just
+now...");
         ChEye(1,4);
         ChMouth(1,4);
         ChMotion(1,4);
@@ -109,8 +109,7 @@ introduction too?");
         ChCheek(1,0);
         VoicePlay("B040108302_01_100");
         MsgDisp("Kazama","It's our very first meeting.
-We both must really be serious types,
-huh?");
+We both must really be serious types, huh?");
         MsgDisp("主人公","(｛風真＊＊｝'s inner voice...
 I want to hear it, but maybe I don't.)");
         break ;

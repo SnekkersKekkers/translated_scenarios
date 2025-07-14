@@ -27,8 +27,8 @@ I'll be on drums.");
     ChMotion(3,4);
     VoicePlay("B040314002_03_020");
     MsgDisp("Honda","Is that right?
-Being an MC for the breaks in between
-the songs would be good too.");
+Being an MC for the breaks in between the
+songs would be good too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,8 @@ the songs would be good too.");
         ChMotion(3,5);
         VoicePlay("B040314002_03_030");
         MsgDisp("Honda","Ehー, that's harsh.
-I'm not really good at acting
-as a group though.");
+I'm not really good at acting as a group
+though.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -57,16 +57,15 @@ as a group though.");
         ChMotion(3,4);
         VoicePlay("B040314002_03_040");
         MsgDisp("Honda","Is that so?
-A long time ago, my family
-used to have a band.");
+A long time ago, my family used to have a
+band.");
         MsgDisp("主人公","Family band?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040314002_03_050");
-        MsgDisp("Honda","Right right.
-My sister played the piano, my mum the 
-guitar, my dad played the bass, 
+        MsgDisp("Honda","Right right. My sister played the piano,
+my mum the guitar, my dad played the bass,
 and I, was on the drums.");
         MsgDisp("主人公","Heeh, seems fun!");
         ChEye(3,0);
@@ -74,7 +73,7 @@ and I, was on the drums.");
         ChMotion(3,3);
         VoicePlay("B040314002_03_060");
         MsgDisp("Honda","Yep yep.
-But, my sister stopped going to piano 
+But, my sister stopped going to piano
 lessons, so it died out naturally.");
         ChEye(3,0);
         ChMouth(3,4);
@@ -106,11 +105,11 @@ I was worried.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040314002_03_110");
-        MsgDisp("Honda","About you saying that you
-were already bored of me....");
-        MsgDisp("主人公","｛本多＊＊｝ is always teaching me lots 
-of different things, I couldn't
-think such a thing?");
+        MsgDisp("Honda","About you saying that you were already
+bored of me....");
+        MsgDisp("主人公","｛本多＊＊｝ is always teaching me lots of
+different things, I couldn't think such a
+thing?");
         ChMouth(3,4);
         VoicePlay("B040314002_03_120");
         MsgDisp("Honda","Always?");
@@ -123,8 +122,8 @@ think such a thing?");
         MsgDisp("Honda","Always, huh?ー.
 Forever with you huh?ー.
 Yeah, this is the best!");
-        MsgDisp("主人公","(...Hm?
-Is he happy with some other meaning?)");
+        MsgDisp("主人公","(...Hm? Is he happy with some other
+meaning?)");
         break ;
         default :
         DbgAssert(1);

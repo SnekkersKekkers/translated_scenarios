@@ -10,8 +10,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A06002_02_000");
-MsgDisp("Sassa","I guess there's lots of things going
-on since he's in a different year?");
+MsgDisp("Sassa","I guess there's lots of things going on
+since he's in a different year?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -22,24 +22,23 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A06002_02_010");
-MsgDisp("Sassa","Do you think he's worried 
-about what we say about him when he's 
-not around?");
-MsgDisp("主人公","Hehe, I wonder if he worries
-about stuff like that?");
+MsgDisp("Sassa","Do you think he's worried about what we
+say about him when he's not around?");
+MsgDisp("主人公","Hehe, I wonder if he worries about stuff
+like that?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140A06002_01_020");
-MsgDisp("Kazama","He doesn't seem like he cares, 
-but he does. That's what's cute 
-about him.");
+MsgDisp("Kazama","He doesn't seem like he cares, but he
+does.
+That's what's cute about him.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("D140A06002_02_020");
-MsgDisp("Sassa","Maybe. Then, do you like
-that part about him too?");
+MsgDisp("Sassa","Maybe. Then, do you like that part about
+him too?");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -70,16 +69,15 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A06002_02_050");
 MsgDisp("Sassa","Then, cover your ears.");
-MsgDisp("主人公","I can't answer something 
-like that so suddenly...
+MsgDisp("主人公","I can't answer something like that so
+suddenly...
 I don't know.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A06002_01_050");
-MsgDisp("Kazama","If you say, 
-\"I don't know\", then you can't
+MsgDisp("Kazama","If you say, \"I don't know\", then you can't
 take any counter measures right?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -106,8 +104,7 @@ ChMotion(2,4,1);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A06002_02_070");
 MsgDisp("Sassa","What is?");
-MsgDisp("主人公","(?
-I wonder what's up with ｛風真＊＊｝?)");
+MsgDisp("主人公","(? I wonder what's up with ｛風真＊＊｝? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

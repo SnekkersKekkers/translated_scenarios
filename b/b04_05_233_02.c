@@ -34,8 +34,8 @@ That's the char of this attraction.");
         ChMotion(5,0);
         VoicePlay("B040523302_05_020");
         MsgDisp("Hiiragi","Somewhat, ah, please excuse me.
-It seems like I was 
-the only one having fun.");
+It seems like I was the only one having
+fun.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -52,23 +52,22 @@ it was scary but it was fun.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040523302_05_040");
-        MsgDisp("Hiiragi","It would be fine if we jumped
-together right? This I mean?");
+        MsgDisp("Hiiragi","It would be fine if we jumped together
+right?
+This I mean?");
         MsgDisp("主人公","Eh?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040523302_05_050");
-        MsgDisp("Hiiragi","If we do it together,
-it won't be scary I suppose.");
-        MsgDisp("主人公","Yeah...but, 
-If the lines get tangled
-it might be dangerous?");
+        MsgDisp("Hiiragi","If we do it together, it won't be scary I
+suppose.");
+        MsgDisp("主人公","Yeah...but, If the lines get tangled it
+might be dangerous?");
         ChEye(5,3);
         ChMouth(5,3);
         VoicePlay("B040523302_05_060");
-        MsgDisp("Hiiragi","One thick line.
-How about enjoying bungee jumping 
-as a pair? It'll feel like we're 
+        MsgDisp("Hiiragi","One thick line. How about enjoying bungee
+jumping as a pair? It'll feel like we're
 in the same boat.");
         ChMotion(5,4);
         VoicePlay("B040523302_05_070");

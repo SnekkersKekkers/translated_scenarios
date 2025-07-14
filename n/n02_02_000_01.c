@@ -23,7 +23,8 @@ consequences.");
     ChMotion(2,4);
     VoicePlay("N020200001_02_020");
     MsgDisp("Sassa","Seeing your results motivates me to do my
-best as well. Thank you.");
+best as well.
+Thank you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
@@ -35,10 +36,9 @@ best as well. Thank you.");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200001_02_030");
-    MsgDisp("Sassa","｛主人公｝.
-You got a good score on your last exams.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Thank you!");
+    MsgDisp("Sassa","｛主人公｝. You got a good score on
+your last exams.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Thank you!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -61,9 +61,8 @@ Thank you!");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200001_02_060");
-    MsgDisp("Sassa","｛主人公｝.
-That's quite impressive.
-I saw your name near the top.");
+    MsgDisp("Sassa","｛主人公｝. That's quite impressive. I
+saw your name near the top.");
     MsgDisp("主人公","Thank you.
 ｛颯砂＊＊｝, did you see your rank?");
     ChEye(2,0);
@@ -93,8 +92,8 @@ You definitely have a shot.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ really praised me,
-I'm glad I did my best!)");
+    MsgDisp("主人公","(｛颯砂＊＊｝ really praised me, I'm glad I
+did my best!)");
     break ;
     default :
     DbgAssert(1);

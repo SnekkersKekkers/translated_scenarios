@@ -6,8 +6,8 @@ MsgClose();
 ChOpen(2,33,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040206500_02_000");
-MsgDisp("Sassa","You can really feel it in your body
-when you're this close!");
+MsgDisp("Sassa","You can really feel it in your body when
+you're this close!");
 MsgSel("A summer tradition to color the night sky！　Tamaya～！","Ah, look！It's shaped like a heart∈","I'm sad it's ending.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -39,9 +39,8 @@ technology.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040206500_02_030");
-    MsgDisp("Sassa","When the firework show ends, it
-really feels like summer vacation is
-over.");
+    MsgDisp("Sassa","When the firework show ends, it really
+feels like summer vacation is over.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

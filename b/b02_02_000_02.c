@@ -10,8 +10,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B020200002_02_010");
-MsgDisp("Sassa","Yeah.
-Girls look good in that color.
-It's nice.");
+MsgDisp("Sassa","Yeah. Girls look good in that color. It's
+nice.");
 MsgDisp("主人公","(｛颯砂＊＊｝ seems to like the color pink.
 I'll have to remember that.)");

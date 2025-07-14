@@ -7,8 +7,8 @@ BGMPlay("BGM_C06_INORI_A");
 ChOpen(6,35,0,0,0,#1,#1,0,0);
 VoicePlay("G110600801_06_000");
 MsgDisp("Himuro","Good work today.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Are you heading home already?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you heading home
+already?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -20,7 +20,8 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G110600801_06_020");
 MsgDisp("Himuro","Are you coming too......?");
-MsgDisp("主人公","Is that okay? Then please excuse me!");
+MsgDisp("主人公","Is that okay?
+Then please excuse me!");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -37,8 +38,8 @@ ScrFadeIn(0);
 VoicePlay("G110600801_06_030");
 MsgDisp("Himuro","......Flowers, do you like them?");
 MsgDisp("主人公","I like them.
-I started getting attached to them
-whilst I was on the part time job.");
+I started getting attached to them whilst
+I was on the part time job.");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
@@ -50,8 +51,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G110600801_06_050");
-MsgDisp("Himuro","You were unaware? Then, you're a diehard
-fanatic.");
+MsgDisp("Himuro","You were unaware?
+Then, you're a diehard fanatic.");
 MsgDisp("主人公","Maybe it's a bit embarrassing......");
 ChEye(6,0);
 ChMouth(6,1);
@@ -65,10 +66,10 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600801_06_070");
-MsgDisp("Himuro","Don't be shy about it. 
+MsgDisp("Himuro","Don't be shy about it.
 ......I'm drawn to it..");
-MsgDisp("主人公","(Hehe, I was praised by
-｛氷室＊＊｝......!)");
+MsgDisp("主人公","(Hehe, I was praised by ｛氷室＊＊｝......!
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

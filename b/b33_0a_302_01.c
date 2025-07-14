@@ -20,8 +20,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30201_01_000");
-MsgDisp("Kazama","I'll commend you for not suggesting
-we should swim out to sea.");
+MsgDisp("Kazama","I'll commend you for not suggesting we
+should swim out to sea.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -33,24 +33,23 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A30201_02_010");
-MsgDisp("Sassa","We can peacefully play 
-with a beachball here.");
+MsgDisp("Sassa","We can peacefully play with a beachball
+here.");
 MsgClose();
 SEPlay("EV_SE_561");
 ChClose(2,0,30);
 ChClose(1,0,30);
 ChClose(6,0,30);
 VoicePlay("B330A30201_01_010");
-MsgDisp("Kazama","Then, let's hit whilst
-saying something we like!");
+MsgDisp("Kazama","Then, let's hit whilst saying something we
+like!");
 SEWait();
 VoicePlay("B330A30201_01_020");
 MsgDisp("Kazama","Soba!");
 SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
 VoicePlay("B330A30201_02_020");
-MsgDisp("Sassa","Haa∋
-You suddenly made up that rule!
+MsgDisp("Sassa","Haa∋ You suddenly made up that rule!
 Errー...Udon!");
 SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
@@ -60,8 +59,7 @@ SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
 VoicePlay("B330A30201_06_020");
 MsgDisp("Himuro","Now say something you dislike.");
-MsgDisp("主人公","Ehh∋
-Even if you say that so suddenly...!
+MsgDisp("主人公","Ehh∋ Even if you say that so suddenly...!
 N-Nothing in particular!");
 SEPlay("EV_SE_565",0.2,0.5);
 MsgDisp("","(*Swoosh*)");
@@ -85,8 +83,7 @@ ChCustomLayout(2,1.8,1.2,-0.5);
 ChOpen(2,31,3,0,3,#1,#1,0,0,0,30);
 ChPosition(2,3);
 SEWait();
-MsgDisp("主人公","Hey...
-This is because you suddenly 
+MsgDisp("主人公","Hey... This is because you suddenly
 changed the rules.");
 VoicePlay("B330A30201_06_040");
 ChEye(6,0);

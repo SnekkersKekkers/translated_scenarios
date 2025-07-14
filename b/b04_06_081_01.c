@@ -3,10 +3,10 @@ ChLayout(1);
 ChOpen(6,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040608101_06_000");
-MsgDisp("Himuro","\"I wish to die in the spring, 
-under the cherry blossoms. On the second 
-month of the lunar calendar, 
-when there is a full moon.");
+MsgDisp("Himuro","\"I wish to die in the spring, under the
+cherry blossoms. On the second month of
+the lunar calendar, when there is a full
+moon.");
 MsgSel("Umm...?","Why on the second month of the lunar calendar?","Don't die!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,10 +28,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040608101_06_020");
-    MsgDisp("Himuro","Because it's the old calendar?
-It's easy to overlook this, 
-but with the current calendar, 
-the months are out of sync.");
+    MsgDisp("Himuro","Because it's the old calendar? It's easy
+to overlook this, but with the current
+calendar, the months are out of sync.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

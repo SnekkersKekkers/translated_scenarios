@@ -43,7 +43,8 @@ ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,5);
 VoicePlay("G020320200_03_070");
-MsgDisp("Honda","No, that's not it! I mean, it is, but!");
+MsgDisp("Honda","No, that's not it!
+I mean, it is, but!");
 MsgDisp("主人公","｛本多＊＊｝......?");
 ChEye(3,2);
 ChMouth(3,0);
@@ -57,15 +58,15 @@ ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("G020320200_03_090");
 MsgDisp("Honda","I don't really get it, but my chest feels
-tight and achy. It eventually starts to
-throb.");
+tight and achy.
+It eventually starts to throb.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020320200_03_100");
 MsgDisp("Honda","So I'm not so sure I can act the same way
-in front of you two. That's what I wanted
-to tell you today.");
+in front of you two.
+That's what I wanted to tell you today.");
 MsgDisp("主人公","Yeah......I see.");
 ChEye(3,0);
 ChMouth(3,0);

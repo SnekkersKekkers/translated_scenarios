@@ -7,10 +7,10 @@ switch (ChPrmGet(2,6)){
 I promised them beforehand.");
     MsgDisp("主人公","Ah, I see.");
     VoicePlay("S030200002_02_010");
-    MsgDisp("Sassa","Sorry, even though you
-went through the trouble of inviting
-me......");
-    MsgDisp("主人公","Don't worry. It's fine.
+    MsgDisp("Sassa","Sorry, even though you went through the
+trouble of inviting me......");
+    MsgDisp("主人公","Don't worry.
+It's fine.
 Okay then, see you later?");
     VoicePlay("S030200002_02_020");
     MsgDisp("Sassa","Yeah. See you later.");

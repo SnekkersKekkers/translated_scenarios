@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     VoicePlay("B040321200_03_010");
     MsgDisp("Honda","The Asian Black Bear huh?
-I thought it would be a deformed one,
-but it's pretty realistic.");
+I thought it would be a deformed one, but
+it's pretty realistic.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

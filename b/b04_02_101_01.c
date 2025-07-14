@@ -39,9 +39,8 @@ though.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040210101_02_030");
-    MsgDisp("Sassa","Uuugh...
-Haha, if you were a curator
-you might like this place.");
+    MsgDisp("Sassa","Uuugh... Haha, if you were a curator you
+might like this place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

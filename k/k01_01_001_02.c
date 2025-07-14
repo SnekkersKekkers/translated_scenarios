@@ -4,8 +4,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("K010100102_01_000");
-MsgDisp("Kazama","Hm, it looks like you put a lot of
-thought into this gift.");
+MsgDisp("Kazama","Hm, it looks like you put a lot of thought
+into this gift.");
 MsgDisp("主人公","Is it okay?");
 ChEye(1,0);
 ChMouth(1,3);

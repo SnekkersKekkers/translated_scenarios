@@ -7,8 +7,7 @@ ChOpen(8,254,0,3,3,#1,#1,0,0);
 VoiceEVSPlay(8);
 VoicePlay("L060800000_08_000");
 MsgDisp("Shirahane","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛大地＊＊｝!
-What's up?");
+MsgDisp("主人公","Ah, ｛大地＊＊｝! What's up?");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,3,1);

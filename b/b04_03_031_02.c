@@ -21,9 +21,9 @@ switch (MsgSelRsltGet()){
         ChMouth(3,4);
         ChMotion(3,4,1);
         VoicePlay("B040303102_03_010");
-        MsgDisp("Honda","Oh, is that how you feel?
-I'm the opposite. With so many things to 
-observe, I can't calm down at all.");
+        MsgDisp("Honda","Oh, is that how you feel? I'm the
+opposite. With so many things to observe,
+I can't calm down at all.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -45,13 +45,14 @@ specimens that I observe regularly...");
         ChMotion(3,4);
         VoicePlay("B040303102_03_040");
         MsgDisp("Honda","It can't have been a calm atmosphere, huh?");
-        MsgDisp("主人公","No, it's nice. I was looking forward to 
-listening to ｛本多＊＊｝.");
+        MsgDisp("主人公","No, it's nice.
+I was looking forward to listening to
+｛本多＊＊｝.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040303102_03_050");
-        MsgDisp("Honda","Really? But today I'll speak calmly - is 
+        MsgDisp("Honda","Really? But today I'll speak calmly - is
 that okay?");
         MsgDisp("主人公","I'd be happy if you could have fun talking
 to me like you always do.");
@@ -74,7 +75,7 @@ hear about.");
         ChMouth(3,4);
         VoicePlay("B040303102_03_080");
         MsgDisp("Honda","It's strange. Lately, when I learn
-something, I find myself thinking about 
+something, I find myself thinking about
 how to talk to you about it.");
         ChEye(3,3);
         ChMouth(3,3);
@@ -82,11 +83,12 @@ how to talk to you about it.");
         ChEyeOpenLevel(3,0);
         ChCheek(3,8);
         VoicePlay("B040303102_03_090");
-        MsgDisp("Honda","But in the end, the instant we meet
-I forget about it all and I just talk to 
-you freely.");
+        MsgDisp("Honda","But in the end, the instant we meet I
+forget about it all and I just talk to you
+freely.");
         MsgDisp("主人公","(I can't believe ｛本多＊＊｝ thinks of me
-that way... I'm so happy.");
+that way...
+I'm so happy.");
         break ;
         default :
         DbgAssert(1);
@@ -99,8 +101,9 @@ that way... I'm so happy.");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040303102_03_100");
-    MsgDisp("Honda","Classic, huh... You're right, theories and
-the basics are important.");
+    MsgDisp("Honda","Classic, huh...
+You're right, theories and the basics are
+important.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

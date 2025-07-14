@@ -6,8 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040205101_02_000");
-MsgDisp("Sassa","The vibe here is quite similar to
-that other place, right?");
+MsgDisp("Sassa","The vibe here is quite similar to that
+other place, right?");
 MsgSel("The movie theater?","Aquarium's Deep Sea Corner!","The Haunted House?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -40,9 +40,9 @@ The screen there is brighter, though.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040205101_02_030");
-    MsgDisp("Sassa","You think that's funny, huh?
-Well, you got me. It's worse though
-because you're forced to sit still.");
+    MsgDisp("Sassa","You think that's funny, huh? Well, you got
+me. It's worse though because you're
+forced to sit still.");
     MsgDateResultDisp();
     break ;
     default :

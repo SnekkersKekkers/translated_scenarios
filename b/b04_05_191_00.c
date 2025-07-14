@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040519100_05_000");
-    MsgDisp("Hiiragi","It's astonishing to know
-that it's real footage.");
+    MsgDisp("Hiiragi","It's astonishing to know that it's real
+footage.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -22,9 +22,8 @@ that it's real footage.");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040519100_05_010");
-    MsgDisp("Hiiragi","Yes, thanks to it I was able
-to learn about a world 
-I didn't know before.");
+    MsgDisp("Hiiragi","Yes, thanks to it I was able to learn
+about a world I didn't know before.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

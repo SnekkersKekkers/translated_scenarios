@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040304100_03_000");
-    MsgDisp("Honda","Really? I don't get it, but if you're 
+    MsgDisp("Honda","Really? I don't get it, but if you're
 satisfied, that's great.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -22,8 +22,9 @@ satisfied, that's great.");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("B040304100_03_010");
-    MsgDisp("Honda","Eh, if that was just so-so... there's
-gotta be even more amazing matches∋");
+    MsgDisp("Honda","Eh, if that was just so-so...
+there's gotta be even more amazing
+matches∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +35,9 @@ gotta be even more amazing matches∋");
     ChMouth(3,2);
     ChMotion(3,1);
     VoicePlay("B040304100_03_020");
-    MsgDisp("Honda","Oh, really? If you'd enjoyed it, I
-would've been relieved.");
+    MsgDisp("Honda","Oh, really?
+If you'd enjoyed it, I would've been
+relieved.");
     MsgDateResultDisp();
     break ;
     default :

@@ -43,8 +43,8 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("G020830100_08_050");
-MsgDisp("Shirahane","We go to different schools, 
-but let's stay friends from now on, okay?");
+MsgDisp("Shirahane","We go to different schools, but let's stay
+friends from now on, okay?");
 MsgDisp("主人公","(｛大地＊＊｝?)");
 BGMStop();
 MsgClose();

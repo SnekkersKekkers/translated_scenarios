@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040217002_02_000");
-MsgDisp("Sassa","Hey, we have to keep going, 
-or we'll waste time.");
+MsgDisp("Sassa","Hey, we have to keep going, or we'll waste
+time.");
 MsgSel("Let's think of it like practice?","Actually, I'm hungry...","You go first");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040217002_02_010");
     MsgDisp("Sassa","Alright, let's go for 100 songs starting
-now! Let's go?");
+now!
+Let's go?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -85,8 +86,8 @@ now\"...");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040217002_02_070");
-        MsgDisp("Sassa","Aren't the lyrics exactly 
-like a full-on marriage proposal?");
+        MsgDisp("Sassa","Aren't the lyrics exactly like a full-on
+marriage proposal?");
         MsgDisp("主人公","Yeah.
 I think it's somewhat moving.");
         ChEye(2,0);

@@ -5,9 +5,9 @@ ChMouth(2,4);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040230002_02_000");
-MsgDisp("Sassa","In these sorts of situations,
-the Mom would usually be standing
-at the door and listening in right?");
+MsgDisp("Sassa","In these sorts of situations, the Mom
+would usually be standing at the door and
+listening in right?");
 MsgSel("It happens in drama and manga often huh?","I have to greet her once more","｛颯砂＊＊｝, can you go check?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040230002_02_010");
     MsgDisp("Sassa","Right right!
-She'd keep bringing in tea 
-refills or something.");
+She'd keep bringing in tea refills or
+something.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -46,8 +46,8 @@ refills or something.");
         ChMotion(2,4);
         VoicePlay("B040230002_02_030");
         MsgDisp("Sassa","Don't be so scared...
-Well, like me she's big,
-but she's a funny person.");
+Well, like me she's big, but she's a funny
+person.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -95,21 +95,20 @@ I have to go greet her...");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040230002_02_090");
-        MsgDisp("Sassa","Didn't you
-already do that when you came in?");
+        MsgDisp("Sassa","Didn't you already do that when you came
+in?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040230002_02_100");
-        MsgDisp("Sassa","Why are you both getting flustered? You
-make a good combination you know?");
-        MsgDisp("主人公","Me and ｛颯砂＊＊｝'s Mom?'");
+        MsgDisp("Sassa","Why are you both getting flustered?
+You make a good combination you know?");
+        MsgDisp("主人公","Me and ｛颯砂＊＊｝'s mom?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040230002_02_110");
-        MsgDisp("Sassa","Yeah.
-Isn't it better if you get along?
+        MsgDisp("Sassa","Yeah. Isn't it better if you get along?
 For the future... you know.");
         MsgDisp("主人公","(...Waa, what should I do, should I greet
 her again?)");

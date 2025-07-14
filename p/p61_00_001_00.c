@@ -13,9 +13,8 @@ From next week, we will start the
 preparation period for the cultural
 festival.");
 VoicePlay("P610000100_46_010");
-MsgDisp("Manager","The Gardening Club
-has decided on serving herbal tea, 
-Once you are well, please also
+MsgDisp("Manager","The Gardening Club has decided on serving
+herbal tea, Once you are well, please also
 join us in preparations.");
 MsgDisp("主人公","Yes, thank you for contacting me.");
 VoicePlay("P610000100_46_020");

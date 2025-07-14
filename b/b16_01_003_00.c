@@ -3,8 +3,8 @@ NSSOpen(1,255,2,4,#1,#1,5);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160100300_01_000");
-MsgDisp("Kazama","I learned that the streets
-at night have many dangers.");
+MsgDisp("Kazama","I learned that the streets at night have
+many dangers.");
 MsgSel("In what way?","Is it safe around here?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     NSSEyeOpenLevel(1,5);
     NSSCheek(1,0);
     VoicePlay("B160100300_01_010");
-    MsgDisp("Kazama","That's exactly it, being unaware
-is the most scary thing.");
+    MsgDisp("Kazama","That's exactly it, being unaware is the
+most scary thing.");
     break ;
     case 1:
     NSSEye(1,2);

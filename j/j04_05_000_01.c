@@ -14,8 +14,7 @@ from......｛柊＊＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello.
-This is ｛主人公苗字｝.");
+    MsgDisp("主人公","Hello. This is ｛主人公苗字｝.");
     VoicePlay("J040500001_05_000");
     MsgDisp("Hiiragi","Hi, I'm Hiiragi.
 Are you free now?");

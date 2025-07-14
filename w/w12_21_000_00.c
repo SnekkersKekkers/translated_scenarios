@@ -10,8 +10,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("W122100000_21_010");
 MsgDisp("Michiru","I'm glad.
-We should hang out again the next time
-we get the chance.");
+We should hang out again the next time we
+get the chance.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

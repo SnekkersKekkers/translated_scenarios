@@ -41,15 +41,15 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("F102230000_21_010");
-MsgDisp("Michiru","Right now I'm totally into
-making character bento.");
+MsgDisp("Michiru","Right now I'm totally into making
+character bento.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230000_22_040");
 MsgDisp("Hikaru","Right, right.
-She's making an animal series,
-but they're quite difficult.");
+She's making an animal series, but they're
+quite difficult.");
 MsgDisp("主人公","Difficult?");
 ChEye(22,2);
 ChMouth(22,3);
@@ -68,12 +68,12 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230000_22_060");
-MsgDisp("Hikaru","So, the character bento series
-will continue until I guess right.
+MsgDisp("Hikaru","So, the character bento series will
+continue until I guess right.
 Of course, it tastes good♪");
 MsgDisp("主人公","(I see. But I wonder what kind of
-character bento it was where a polar
-bear looked like a rabbit...)");
+character bento it was where a polar bear
+looked like a rabbit...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

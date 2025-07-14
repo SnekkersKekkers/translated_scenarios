@@ -28,8 +28,7 @@ what's so addictive about it.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423300_04_020");
-    MsgDisp("Nanatsumori","Hey.
-But now you've got a nice hairdo.
+    MsgDisp("Nanatsumori","Hey. But now you've got a nice hairdo.
 What style surpasses Visual Kei?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -10,8 +10,8 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","(Is this an effect of ｛御影＊＊｝'s
-production? More and more customers are
-gathering...)");
+production?
+More and more customers are gathering...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P130600000_06_000");
@@ -44,8 +44,8 @@ Dear customer, entry for one!");
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","(Is this an effect of ｛御影＊＊｝'s
-production? More and more customers are
-gathering...)");
+production?
+More and more customers are gathering...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P130600000_06_030");
@@ -59,15 +59,15 @@ Little lost lamb.");
     VoicePlay("P130600000_06_040");
     MsgDisp("Himuro","What's that?
 I don't intend on getting lost though.");
-    MsgDisp("主人公","But, you already came all this way, 
-why not have some fun?");
+    MsgDisp("主人公","But, you already came all this way, why
+not have some fun?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("P130600000_06_050");
-    MsgDisp("Himuro","...Well if you say that, 
-I'll think about——");
+    MsgDisp("Himuro","...Well if you say that, I'll think
+about——");
     MsgDisp("主人公","Yes, entry for one theーn!");
     ChEye(6,0);
     ChMouth(6,1);

@@ -35,10 +35,9 @@ I'll go home alone");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("F010400004_04_020");
-    MsgDisp("Nanatsumori","Can't. 
+    MsgDisp("Nanatsumori","Can't.
 I've got errands I already said I'd do.");
-    MsgDisp("主人公","Okay. 
-If you have errands, then there's
+    MsgDisp("主人公","Okay. If you have errands, then there's
 nothing we can do. Don't worry about it.");
     ChEye(4,2);
     ChMouth(4,4);

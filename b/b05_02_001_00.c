@@ -5,17 +5,16 @@ ChOpen(2,255,4,0,2,7,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050200100_02_000");
 MsgDisp("Sassa","Sometimes even you want to come here.");
-MsgDisp("主人公","Yeah.
-It may be scary, but it's okay when I'm
-with ｛颯砂＊＊｝.");
+MsgDisp("主人公","Yeah. It may be scary, but it's okay when
+I'm with ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 ChCheek(2,10);
 VoicePlay("B050200100_02_010");
-MsgDisp("Sassa","When you say it like that, I guess
-I have no choice.");
+MsgDisp("Sassa","When you say it like that, I guess I have
+no choice.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -36,8 +35,8 @@ Wait(80,0);
 VoicePlay("B050200100_02_020");
 MsgDisp("Sassa","Just look down at your feet.
 Don't look at anything else.");
-MsgDisp("主人公","Yeah.
-I guess it won't be so scary this way.");
+MsgDisp("主人公","Yeah. I guess it won't be so scary this
+way.");
 VoicePlay("B050200100_02_030");
 MsgDisp("Sassa","Just like that.");
 SEPlay("EV_SE_707");
@@ -116,8 +115,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B050200100_02_110");
 MsgDisp("Sassa","Well, there were a few good tricks.");
-MsgDisp("主人公","That blowing sound was probably
-the most surprising one.");
+MsgDisp("主人公","That blowing sound was probably the most
+surprising one.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,2);
@@ -125,8 +124,8 @@ ChCheek(2,10);
 VoicePlay("B050200100_02_120");
 MsgDisp("Sassa","......Yeah.
 Yeah, for me too.");
-MsgDisp("主人公","Holding onto ｛颯砂＊＊｝
-while walking made me feel a bit better.");
+MsgDisp("主人公","Holding onto ｛颯砂＊＊｝ while walking
+made me feel a bit better.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -140,8 +139,9 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 ChCheek(2,10);
 VoicePlay("B050200100_02_140");
-MsgDisp("Sassa","Just saying. If you still feel scared,
-hold onto me again, okay?");
+MsgDisp("Sassa","Just saying.
+If you still feel scared, hold onto me
+again, okay?");
 MsgDisp("主人公","Uh, sure.");
 MsgDisp("主人公","(......｛颯砂＊＊｝?)");
 BGMStop();

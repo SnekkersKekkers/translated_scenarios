@@ -15,9 +15,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10400_01_000");
-MsgDisp("Kazama","Right?
-It's calming no matter 
-when you come here.");
+MsgDisp("Kazama","Right? It's calming no matter when you
+come here.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -59,22 +58,22 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("B330A10400_02_020");
-MsgDisp("Sassa","Alright, let's do a
-rock-paper-scissors match.");
+MsgDisp("Sassa","Alright, let's do a rock-paper-scissors
+match.");
 MsgDisp("主人公","Eh? Match?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10400_06_030");
-MsgDisp("Himuro","You should watch to
-see there's no cheating.");
+MsgDisp("Himuro","You should watch to see there's no
+cheating.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10400_01_020");
-MsgDisp("Kazama","Of course the person who's most 
-likely to use a sly hand would say that.");
+MsgDisp("Kazama","Of course the person who's most likely to
+use a sly hand would say that.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
@@ -85,8 +84,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B330A10400_02_030");
-MsgDisp("Sassa","How would you use your head
-in rock-paper scissors!
+MsgDisp("Sassa","How would you use your head in rock-paper
+scissors!
 ...Shall we go?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -112,8 +111,8 @@ ChOpen(2,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,4,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330A10400_02_050");
-MsgDisp("Sassa","Haa...
-We spend the whole day on the boats today.");
+MsgDisp("Sassa","Haa... We spend the whole day on the boats
+today.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -134,8 +133,8 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A10400_02_060");
-MsgDisp("Sassa","If only I took a picture of Inori
-and Ryota's lovey dovey boat.");
+MsgDisp("Sassa","If only I took a picture of Inori and
+Ryota's lovey dovey boat.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(6,2);
@@ -143,9 +142,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10400_06_070");
-MsgDisp("Himuro","Nah, really you should have 
-taken a picture of Nozomu-senpai
-and Ryota's swan boat.");
+MsgDisp("Himuro","Nah, really you should have taken a
+picture of Nozomu-senpai and Ryota's swan
+boat.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -155,8 +154,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10400_06_080");
-MsgDisp("Himuro","I've never seen a swan boat 
-move at such a high speed...");
+MsgDisp("Himuro","I've never seen a swan boat move at such a
+high speed...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -167,8 +166,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330A10400_01_050");
 MsgDisp("Kazama","I'm drenched in sweat.");
-MsgDisp("主人公","(Hehe!
-No matter what they say, I'm glad
+MsgDisp("主人公","(Hehe! No matter what they say, I'm glad
 they all get along so well.)");
 MsgClose();
 ScrFadeOut(0,0);

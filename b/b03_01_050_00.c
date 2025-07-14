@@ -4,8 +4,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B030105000_01_000");
-MsgDisp("Kazama","Beyond this door exists a world
-of starry skies, right?");
+MsgDisp("Kazama","Beyond this door exists a world of starry
+skies, right?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
 ScrFadeOut(0,0);

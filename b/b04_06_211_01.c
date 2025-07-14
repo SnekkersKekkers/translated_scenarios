@@ -6,8 +6,8 @@ ChMouth(6,0);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040621101_06_000");
-MsgDisp("Himuro","Aren't these enclosures
-just proof of human ego?");
+MsgDisp("Himuro","Aren't these enclosures just proof of
+human ego?");
 MsgSel("But it would be an issue if they escaped...","Maybe a safari park would be better","Ego is fine!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040621101_06_010");
-    MsgDisp("Himuro","But that reasoning is for
-our own convenience too.");
+    MsgDisp("Himuro","But that reasoning is for our own
+convenience too.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -28,9 +28,9 @@ our own convenience too.");
     ChMotion(6,0);
     VoicePlay("B040621101_06_020");
     MsgDisp("Himuro","Yeah, that would probably be less
-stressful. It's better if the 
-animals are more relaxed. And for 
-the people looking too.");
+stressful. It's better if the animals are
+more relaxed. And for the people looking
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -8,8 +8,7 @@ MsgClose();
 ChOpen(8,254,2,0,4,#1,#1,0,0);
 VoicePlay("M010800000_08_000");
 MsgDisp("Shirahane","I'm coming inー......");
-MsgDisp("主人公","Eh?∋
-｛大地＊＊｝, why......?");
+MsgDisp("主人公","Eh?∋ ｛大地＊＊｝, why......?");
 ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,1,1);
@@ -31,10 +30,10 @@ ChCheek(8,2);
 VoicePlay("M010800000_08_030");
 MsgDisp("Shirahane","Yep.");
 VoicePlay("M010800000_08_040");
-MsgDisp("Shirahane","Just from you not being 'round,
-feels like I'm gonna break down myself.");
-MsgDisp("主人公","｛大地＊＊｝......Thank you.
-I'm better now, so.");
+MsgDisp("Shirahane","Just from you not being 'round, feels like
+I'm gonna break down myself.");
+MsgDisp("主人公","｛大地＊＊｝...... Thank you. I'm better
+now, so.");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
@@ -64,8 +63,7 @@ ChMouth(8,0);
 VoicePlay("M010800000_08_090");
 VoiceEVSPlay(8);
 MsgDisp("Shirahane","Atta girl.
-N'that case, night night,
-｛主人公｝.");
+N'that case, night night, ｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_690",0.2,0.5);
 BGMStop();

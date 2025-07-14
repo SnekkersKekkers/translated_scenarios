@@ -8,8 +8,8 @@ ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_010");
-MsgDisp("Kazama","Even though it's close to the city,
-it's like many miracles came together. 
+MsgDisp("Kazama","Even though it's close to the city, it's
+like many miracles came together.
 It's a special place.");
 MsgDisp("主人公","That's right.");
 ChMotion(1,0);
@@ -17,17 +17,17 @@ Wait(10,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020110201_01_020");
-MsgDisp("Kazama","We're the same, you know? A lot of
-miracles came together for us to be here.");
+MsgDisp("Kazama","We're the same, you know?
+A lot of miracles came together for us to
+be here.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_030");
-MsgDisp("Kazama","......Hey, 
-do you think we are becoming a pair
-worthy of such a special place?");
+MsgDisp("Kazama","......Hey, do you think we are becoming a
+pair worthy of such a special place?");
 MsgDisp("主人公","｛風真＊＊｝ is special, though?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -40,7 +40,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_050");
-MsgDisp("Kazama","You're going to say something like 
+MsgDisp("Kazama","You're going to say something like
 'childhood friends and classmates', right?
 It's a miracle, but also a coincidence.");
 ChMotion(1,0);
@@ -48,8 +48,7 @@ Wait(10,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("G020110201_01_060");
-MsgDisp("Kazama","But from now on, 
-we can't just wait.
+MsgDisp("Kazama","But from now on, we can't just wait.
 We have to go and get it ourselves, right?");
 MsgDisp("主人公","Umm......?");
 ChEyeOpenLevel(1,0);

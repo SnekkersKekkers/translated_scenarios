@@ -8,8 +8,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510307_05_010");
-MsgDisp("Hiiragi","Perhaps this scenery represents
-the beauty we aim for on stage.");
+MsgDisp("Hiiragi","Perhaps this scenery represents the beauty
+we aim for on stage.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,1);
@@ -43,8 +43,8 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020510307_05_060");
 MsgDisp("Hiiragi","Ah, no.
-That's something that should 
-ideally be shown on stage.");
+That's something that should ideally be
+shown on stage.");
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","It was incredibly captivating.");
 ChEye(5,2);
@@ -53,15 +53,16 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 ChCheek(5,5);
 VoicePlay("G020510307_05_070");
-MsgDisp("Hiiragi","T-Thank you. I hope you'll see it on stage
-next time......");
+MsgDisp("Hiiragi","T-Thank you.
+I hope you'll see it on stage next
+time......");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510307_05_080");
-MsgDisp("Hiiragi","It was not my intention to
-show an incomplete version.");
+MsgDisp("Hiiragi","It was not my intention to show an
+incomplete version.");
 MsgDisp("主人公","(Perhaps ｛柊＊＊＊｝ is
 embarrassed......?)");
 BGMStop();

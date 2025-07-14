@@ -8,8 +8,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("J040700002_07_000");
-MsgDisp("Mikage","Oi, you guys. Look here for a sec, will
-ya?");
+MsgDisp("Mikage","Oi, you guys.
+Look here for a sec, will ya?");
 SEVol(0.65);
 ChEye(7,0);
 ChMouth(7,0);

@@ -8,8 +8,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500001_05_000");
     MsgDisp("Hiiragi","Hello.");
-    MsgDisp("主人公","Hello, ｛柊＊＊＊｝.
-How are my results?");
+    MsgDisp("主人公","Hello, ｛柊＊＊＊｝. How are my results?");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("N020500001_05_010");
@@ -25,7 +24,8 @@ Never mind, I can't say that.");
     ChEye(5,0);
     VoicePlay("N020500001_05_030");
     MsgDisp("Hiiragi","As long as you can see it yourself, keep
-doing your best. See you.");
+doing your best.
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
@@ -45,8 +45,8 @@ count from the top.");
     ChMotion(5,4);
     VoicePlay("N020500001_05_050");
     MsgDisp("Hiiragi","Wow. But... If I'm being honest, you're
-fully capable of doing even better,
-aren't you?");
+fully capable of doing even better, aren't
+you?");
     MsgDisp("主人公","Huh.");
     ChMotion(5,0);
     VoicePlay("N020500001_05_060");
@@ -57,8 +57,8 @@ energy left in you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(The chairman is a praise and extend
-type... Alright, time to aim for the first
-place!)");
+type...
+Alright, time to aim for the first place!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -69,8 +69,7 @@ place!)");
     VoiceEVSPlay(5);
     VoicePlay("N020500001_05_070");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-How did I do?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. How did I do?");
     ChEye(5,2);
     ChMotion(5,4);
     VoicePlay("N020500001_05_080");
@@ -84,8 +83,8 @@ try harder.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("N020500001_05_100");
-    MsgDisp("Hiiragi","Haha... I'm good at motivating people.
-I got it. I'll just do my best by standing
+    MsgDisp("Hiiragi","Haha... I'm good at motivating people. I
+got it. I'll just do my best by standing
 next to you.");
     MsgDisp("主人公","(Yeah, I'll keep doing my best too!)");
     MsgClose();

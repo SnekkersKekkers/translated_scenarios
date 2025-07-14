@@ -6,8 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121302_01_000");
-MsgDisp("Kazama","For some reason the dogs
-always go up to you.");
+MsgDisp("Kazama","For some reason the dogs always go up to
+you.");
 MsgSel("Maybe I smell of something?","Apparently animals can tell the difference between good and bad people","Maybe it's cause I'm holding food?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,4);
     ChMotion(1,4);
     VoicePlay("B040121302_01_010");
-    MsgDisp("Kazama","You always have a,
-how should I put it...
+    MsgDisp("Kazama","You always have a, how should I put it...
 a fluffy smell.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -31,8 +30,8 @@ a fluffy smell.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121302_01_020");
     MsgDisp("Kazama","Oi, what does that mean?
-...Well in comparison to you anyways, 
-it doesn't look like I can win.");
+...Well in comparison to you anyways, it
+doesn't look like I can win.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -66,17 +65,17 @@ than it wanted the food.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040121302_01_050");
-        MsgDisp("Kazama","No mistake about it. I saw it
-after all. It was kinda weird.
-Maybe there was a person inside?");
+        MsgDisp("Kazama","No mistake about it. I saw it after all.
+It was kinda weird. Maybe there was a
+person inside?");
         MsgDisp("主人公","Hehe, that can't be true.");
         ChEye(1,2);
         ChMouth(1,0);
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121302_01_060");
-        MsgDisp("Kazama","I know that, but I 
-don't like that male dog.");
+        MsgDisp("Kazama","I know that, but I don't like that male
+dog.");
         MsgDisp("主人公","It was a dog, so it can't be helped.
 And, she was a girl?");
         ChEye(1,0);
@@ -91,8 +90,8 @@ Don't just say stuff like that casually?");
         ChMouth(1,2);
         ChMotion(1,4);
         VoicePlay("B040121302_01_080");
-        MsgDisp("Kazama","Eh... i-is that so?
-Well, I guess that can't be helped");
+        MsgDisp("Kazama","Eh... i-is that so? Well, I guess that
+can't be helped");
         ChEye(1,2);
         ChMouth(1,2);
         ChMotion(1,4);
@@ -100,8 +99,8 @@ Well, I guess that can't be helped");
         VoicePlay("B040121302_01_090");
         MsgDisp("Kazama","Still, it's kind of annoying when she just
 casually licked you...");
-        MsgDisp("主人公","(｛風真＊＊｝,
-really is a neat freak huh?)");
+        MsgDisp("主人公","(｛風真＊＊｝, really is a neat freak
+huh?)");
         break ;
         default :
         DbgAssert(1);

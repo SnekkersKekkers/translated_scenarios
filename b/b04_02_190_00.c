@@ -12,7 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040219000_02_000");
     MsgDisp("Sassa","If you thought it was the best, that's
-good. I slept well too.");
+good.
+I slept well too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

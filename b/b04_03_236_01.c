@@ -7,8 +7,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040323601_03_000");
-MsgDisp("Honda","The possibilities with using
-full colour LED is endless!");
+MsgDisp("Honda","The possibilities with using full colour
+LED is endless!");
 MsgSel("The pink skull bear is cute","Is that fish person's whole body glowing?","Is that meat on the bone?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,9 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040323601_03_010");
-    MsgDisp("Honda","I wonder if it's supposed to show
-a bear having its eye on a salmon.
-Hmm? ...Maybe a tuna?");
+    MsgDisp("Honda","I wonder if it's supposed to show a bear
+having its eye on a salmon. Hmm? ...Maybe
+a tuna?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

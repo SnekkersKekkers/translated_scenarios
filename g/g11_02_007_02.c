@@ -15,8 +15,8 @@ ChOpen(2,41,0,0,4,#1,#1,0,0);
 VoicePlay("G110200702_02_000");
 MsgDisp("Sassa","Apparently Mikage-sensei arranged it.
 As expected of him.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-I see. He's actually quite reliable, huh. ");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝. I see. He's actually
+quite reliable, huh.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -44,8 +44,8 @@ VoiceEVSPlay(2);
 VoicePlay("G110200702_02_020");
 MsgDisp("Sassa","｛主人公｝, let's run together to cool
 down.");
-MsgDisp("主人公","Yes. 
-How was it? Did you have a good practice?");
+MsgDisp("主人公","Yes. How was it? Did you have a good
+practice?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -53,8 +53,8 @@ VoicePlay("G110200702_02_030");
 MsgDisp("Sassa","Of course.
 Don't I look satisfied?");
 MsgDisp("主人公","(There was a lot of throwing practice
-today. I wonder if his right arm is
-okay......?)");
+today.
+I wonder if his right arm is okay......?)");
 while (1){
     RunEverydaySksp(2,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){

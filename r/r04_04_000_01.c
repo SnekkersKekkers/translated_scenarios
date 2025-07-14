@@ -17,8 +17,9 @@ It looks amazing on you.");
     MsgDisp("主人公","Really?
 Thank you!");
     VoicePlay("R040400001_04_020");
-    MsgDisp("Nanatsumori","You are definitely helping to hype
-up the venue. Good job.");
+    MsgDisp("Nanatsumori","You are definitely helping to hype up the
+venue.
+Good job.");
     break ;
     case 3:
     ChEye(4,4);
@@ -35,9 +36,9 @@ up the venue. Good job.");
 Now I'm kind of embarrassed...");
     ChMotion(4,0,1);
     VoicePlay("R040400001_04_050");
-    MsgDisp("Nanatsumori","Yeah. Wouldn't a princess look 
-better with a nice smile on her face
-instead of a nervous one?");
+    MsgDisp("Nanatsumori","Yeah. Wouldn't a princess look better with
+a nice smile on her face instead of a
+nervous one?");
     MsgDisp("主人公","Uh...");
     ChEye(4,3);
     ChMouth(4,3);
@@ -51,8 +52,8 @@ It's pretty funny.");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("R040400001_04_070");
-    MsgDisp("Nanatsumori","You look absolutely beautiful in
-that dress.");
+    MsgDisp("Nanatsumori","You look absolutely beautiful in that
+dress.");
     MsgDisp("主人公","...Really?");
     ChEye(4,4);
     ChMouth(4,3);
@@ -64,8 +65,8 @@ Your makeup looks nice too.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("R040400001_04_090");
-    MsgDisp("Nanatsumori","Absolutely. It makes you look a little
-bit different than usual.");
+    MsgDisp("Nanatsumori","Absolutely. It makes you look a little bit
+different than usual.");
     ChMotion(4,0,1);
     VoicePlay("R040400001_04_100");
     MsgDisp("Nanatsumori","I'd love to dress up like you.

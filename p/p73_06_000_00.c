@@ -7,8 +7,8 @@ switch (ChPrmGet(6,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I finished just in time but, 
-it's finally the runway...I'm nervous...)");
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -35,8 +35,8 @@ I'll wear the clothes I made myself.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P730600000_06_030");
-    MsgDisp("Himuro","Maybe...
-Can't you just display the clothes?");
+    MsgDisp("Himuro","Maybe... Can't you just display the
+clothes?");
     MsgDisp("主人公","You'll understand the clothes' charm more
 if someone is wearing it after all.");
     ChEye(6,0);
@@ -50,11 +50,11 @@ if someone is wearing it after all.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P730600000_06_050");
-    MsgDisp("Himuro","Finally.
-Then, do your best to not fall over.");
+    MsgDisp("Himuro","Finally. Then, do your best to not fall
+over.");
     MsgDisp("主人公","Thanks.");
-    MsgDisp("主人公","(My heart is pounding, but
-I have to give it my all...!)");
+    MsgDisp("主人公","(My heart is pounding, but I have to give
+it my all...!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);
@@ -63,8 +63,8 @@ I have to give it my all...!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I finished just in time but, 
-it's finally the runway...I'm nervous...)");
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -72,8 +72,8 @@ it's finally the runway...I'm nervous...)");
     VoicePlay("P730600000_06_060");
     MsgDisp("Himuro","Congratulations on your 
 modelling debut.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Hey, don't put pressure on me...");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Hey, don't put pressure on
+me...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -91,8 +91,8 @@ Hey, don't put pressure on me...");
     ChMotion(6,1);
     VoicePlay("P730600000_06_090");
     MsgDisp("Himuro","Those clothes were pretty well-made.
-Why don't you try to walk proudly 
-amongst everyone?");
+Why don't you try to walk proudly amongst
+everyone?");
     MsgDisp("主人公","Hehe, that's right.
 Thank you.");
     ChEye(6,1);
@@ -113,7 +113,7 @@ I was just stating the truth.");
     MsgDisp("Himuro","Then, please watch your step.
 I'll be watching.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Seems like after talking to ｛氷室＊＊｝, 
+    MsgDisp("主人公","(Seems like after talking to ｛氷室＊＊｝,
 my stress has been relieved.
 ...Alright, let's do our best!)");
     MsgClose();

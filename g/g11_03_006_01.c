@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300601_03_000");
-MsgDisp("Honda?","｛主人公｝, Good work.");
+MsgDisp("Honda?","｛主人公｝, good work.");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,3,#1,#1,0,0);
@@ -27,7 +27,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("G110300601_03_030");
 MsgDisp("Honda","It'll be okay if you think through it
-carefully. Hey, there's a customer!");
+carefully.
+Hey, there's a customer!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","I'm happy, but it's a big
@@ -43,8 +44,8 @@ ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300601_03_040");
-MsgDisp("Honda","｛主人公｝. How is it? Have you decided on
-a recommendation?");
+MsgDisp("Honda","｛主人公｝. How is it? Have you decided
+on a recommendation?");
 MsgDisp("主人公","No, not at all.......");
 ChEye(3,1);
 ChMouth(3,1);
@@ -71,7 +72,7 @@ ChMotion(3,1);
 VoicePlay("G110300601_03_080");
 MsgDisp("Honda","A magazine∋
 Yep yep, it's good.
-That's so 'you', nice perspective! ");
+That's so 'you', nice perspective!");
 MsgDisp("主人公","(Is it really okay......?)");
 BGMStop();
 MsgClose();

@@ -3,8 +3,8 @@ ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("D140301159_03_000");
 MsgDisp("Honda","Were you also done in by this smell?
-The aroma of the melted butter
-and the maple syrup...");
+The aroma of the melted butter and the
+maple syrup...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

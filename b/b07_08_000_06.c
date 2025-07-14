@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, what were you like 
-in middle school, ｛大地＊＊｝?");
+MsgDisp("主人公","Hey, what were you like in middle school,
+｛大地＊＊｝?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -8,8 +8,8 @@ MsgDisp("Shirahane","I haven't changed much.
 I've grown a bit taller though.");
 VoicePlay("B070800000_08_290");
 MsgDisp("Shirahane","I was decent at both studyin' and sports.
-Naturally, I didn't have a part 
-time job though.");
+Naturally, I didn't have a part time job
+though.");
 MsgDisp("主人公","I see.");
 ChEye(8,0);
 ChMouth(8,4);
@@ -30,11 +30,11 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_330");
-MsgDisp("Shirahane","Everyone stands so straight
-on the left side, I've also started 
-standing on the left side recently.");
-MsgDisp("主人公","(Do people get caught up
-in the line on escalators?)");
+MsgDisp("Shirahane","Everyone stands so straight on the left
+side, I've also started standing on the
+left side recently.");
+MsgDisp("主人公","(Do people get caught up in the line on
+escalators?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

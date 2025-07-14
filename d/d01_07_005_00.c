@@ -6,8 +6,8 @@ VoicePlay("D010700500_44_000");
 MsgDisp("School Girl","Bye then～!");
 MsgDisp("主人公","Yeah, byebye!");
 SEStop("EV_SE_845",2);
-MsgDisp("主人公","(Okay......I guess I should study for
-that test a bit before I go home......)");
+MsgDisp("主人公","(Okay......I guess I should study for that
+test a bit before I go home......)");
 MsgClose();
 ScrFadeOut(0);
 SEWait();
@@ -21,14 +21,14 @@ MsgDisp("主人公","Sigh......It's no use.
 I don't get it......");
 VoicePlay("D010700500_07_000");
 MsgDisp("Mikage?","Which one?");
-MsgDisp("主人公","Ah, ｛御影＊＊｝!
-What are you doing here?");
+MsgDisp("主人公","Ah, ｛御影＊＊｝! What are you doing
+here?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("D010700500_07_010");
-MsgDisp("Mikage","An honest girl is working hard,
-so I came here to help.");
+MsgDisp("Mikage","An honest girl is working hard, so I came
+here to help.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);
@@ -44,8 +44,8 @@ ScrFadeIn(0);
 VoicePlay("D010700500_07_020");
 MsgDisp("Mikage","——So, which part of it don't you
 understand?");
-MsgDisp("主人公","Uhm......I guess I don't even know what
-I don't know......");
+MsgDisp("主人公","Uhm......I guess I don't even know what I
+don't know......");
 StlEye(7,2);
 VoicePlay("D010700500_07_030");
 MsgDisp("Mikage","Hahaha, how refreshing.");
@@ -57,8 +57,8 @@ Will it really be alright, though?");
 StlEye(7,0,0);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("D010700500_07_050");
-MsgDisp("Mikage","An honest girl can do anything she
-tries, can't she?");
+MsgDisp("Mikage","An honest girl can do anything she tries,
+can't she?");
 MsgDisp("主人公","Y-Yeah......");
 MsgClose();
 ScrFadeOut(0);
@@ -81,8 +81,9 @@ Wait(30,0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700500_07_070");
-MsgDisp("Mikage","Got it? The best thing about you is that
-you approach everything sincerely.");
+MsgDisp("Mikage","Got it?
+The best thing about you is that you
+approach everything sincerely.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -90,8 +91,8 @@ VoicePlay("D010700500_07_080");
 MsgDisp("Mikage","There's nothing wrong with that.
 It's a good thing, so keep trying your
 best.");
-MsgDisp("主人公","｛御影＊＊｝......
-You're right, thank you so much!");
+MsgDisp("主人公","｛御影＊＊｝...... You're right, thank
+you so much!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -101,8 +102,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Thanks to ｛御影＊＊｝, I learned
-a few studying tricks!)");
+MsgDisp("主人公","(Thanks to ｛御影＊＊｝, I learned a
+few studying tricks!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

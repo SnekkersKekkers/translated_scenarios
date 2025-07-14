@@ -15,8 +15,7 @@ I like it but...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("P730200001_02_000");
     MsgDisp("Sassa","Heeー, it's like legit.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Legit?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Legit?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -28,8 +27,8 @@ Legit?");
     ChMotion(2,3);
     VoicePlay("P730200001_02_020");
     MsgDisp("Sassa","You're laughing.
-Obviously, it's weird for me to talk 
-about someone being a model.");
+Obviously, it's weird for me to talk about
+someone being a model.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -41,9 +40,9 @@ You made it, and you're wearing it too?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200001_02_040");
-    MsgDisp("Sassa","How should I put it... 
-it's like a player-coach,
-like a playing manager, right?");
+    MsgDisp("Sassa","How should I put it...
+it's like a player-coach, like a playing
+manager, right?");
     MsgDisp("主人公","Umm...");
     SEPlay("EV_SE_038");
     SEWait();
@@ -51,8 +50,9 @@ like a playing manager, right?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P730200001_02_050");
-    MsgDisp("Sassa","That's my bad. It looks like I came to put
-pressure on you.");
+    MsgDisp("Sassa","That's my bad.
+It looks like I came to put pressure on
+you.");
     MsgDisp("主人公","No, thank you for coming.
 Then, I'll do my best.");
     MsgDisp("主人公","(I'll give ｛颯砂＊＊｝ a good show!)");
@@ -73,8 +73,8 @@ I like it but...)");
     VoiceEVSPlay(2);
     VoicePlay("P730200001_02_060");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝!
-How does my first dress look?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝! How does my first dress
+look?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -86,8 +86,8 @@ You're already like a princess!");
     ChMouth(2,0);
     ChMotion(2,3);
     VoicePlay("P730200001_02_080");
-    MsgDisp("Sassa","Huh? is that no good?
-But, nothing but that comes to mind.");
+    MsgDisp("Sassa","Huh? is that no good? But, nothing but
+that comes to mind.");
     MsgDisp("主人公","Thanks you...
 I'm happy, but embarrassed.");
     ChEye(2,0);
@@ -95,8 +95,8 @@ I'm happy, but embarrassed.");
     ChMotion(2,1);
     VoicePlay("P730200001_02_090");
     MsgDisp("Sassa","Not at all.
-You're a splendid princess who's 
-not afraid to appear anywhere.");
+You're a splendid princess who's not
+afraid to appear anywhere.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Ah, I already have to go.");
@@ -104,8 +104,8 @@ not afraid to appear anywhere.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P730200001_02_100");
-    MsgDisp("Sassa","Alright, I'll also be cheering 
-you on from a good seat.
+    MsgDisp("Sassa","Alright, I'll also be cheering you on from
+a good seat.
 Have fun!");
     MsgDisp("主人公","(Alright, let's live up to ｛颯砂＊＊｝'s
 expectations!)");

@@ -25,20 +25,20 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A05102_06_010");
-MsgDisp("Himuro","What have you two been
-talking about just now?");
+MsgDisp("Himuro","What have you two been talking about just
+now?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A05102_02_010");
 MsgDisp("Sassa","Like gushing about each other?
-Even if not, you're probably 
-feeling a bit fidgety right?");
+Even if not, you're probably feeling a bit
+fidgety right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("D140A05102_02_020");
-MsgDisp("Sassa","You two are dating right? ");
+MsgDisp("Sassa","You two are dating, right? ");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -56,8 +56,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A05102_02_030");
-MsgDisp("Sassa","How is it that Ryota's 
-reaction was the best...");
+MsgDisp("Sassa","How is it that Ryota's reaction was the
+best...");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(6,1);
@@ -65,8 +65,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140A05102_06_030");
-MsgDisp("Himuro","We're not here in the first place
-to gratify your curiosity.");
+MsgDisp("Himuro","We're not here in the first place to
+gratify your curiosity.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
@@ -74,9 +74,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A05102_02_040");
-MsgDisp("Sassa","That might be true, 
-but there's at least something
-there, right, Ryota? ");
+MsgDisp("Sassa","That might be true, but there's at least
+something there, right, Ryota?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -104,7 +103,7 @@ MsgDisp("Himuro","Haa.. please do as you'd like.
 Right?");
 MsgDisp("主人公","Hehe, yeah.
 ｛風真＊＊｝ and ｛颯砂＊＊｝ are the ones
-who are nervous, aren't they?");
+who are fidgety, aren't they?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -128,8 +127,8 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D140A05102_06_050");
 MsgDisp("Himuro","Thank you very much.");
-MsgDisp("主人公","(｛風真＊＊｝ and ｛颯砂＊＊｝
-are worried about me...)");
+MsgDisp("主人公","(｛風真＊＊｝ and ｛颯砂＊＊｝ are worried
+about me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

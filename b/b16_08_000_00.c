@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     NSSEye(8,2);
     NSSMouth(8,3);
     VoicePlay("B160800000_08_010");
-    MsgDisp("Shirahane","It looked like you wanted
-to say something though.
+    MsgDisp("Shirahane","It looked like you wanted to say something
+though.
 ...Was it seriously nothing?");
     break ;
     case 1:

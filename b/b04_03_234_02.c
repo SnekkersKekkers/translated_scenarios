@@ -5,8 +5,8 @@ ChOpen(3,255,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323402_03_000");
-MsgDisp("Honda","I really like the structure of
-the planetary gear mechanism itself.");
+MsgDisp("Honda","I really like the structure of the
+planetary gear mechanism itself.");
 MsgSel("If you think about difficult things, you might end up motion-sick ","If you like it, how about another round?","Planetary gear mechanism??");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040323402_03_020");
-        MsgDisp("Honda","If I don't think about anything, 
-I'll get even more motion sick.");
+        MsgDisp("Honda","If I don't think about anything, I'll get
+even more motion sick.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,0);
@@ -43,9 +43,8 @@ like I'm on some unknown planet.");
         ChMotion(3,3);
         VoicePlay("B040323402_03_040");
         MsgDisp("Honda","See, it distracted you a bit right?");
-        MsgDisp("主人公","I'm sorry I invited you 
-even though you're not good
-with these sorts of things.");
+        MsgDisp("主人公","I'm sorry I invited you even though you're
+not good with these sorts of things.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,4);
@@ -58,8 +57,8 @@ it like I had just now.");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040323402_03_060");
-        MsgDisp("Honda","And that's why, if it's with you, 
-it's worthwhile going anywhere!");
+        MsgDisp("Honda","And that's why, if it's with you, it's
+worthwhile going anywhere!");
         MsgDisp("主人公","Hehe, then I'll invite you again.");
         ChEye(3,0);
         ChMouth(3,0);

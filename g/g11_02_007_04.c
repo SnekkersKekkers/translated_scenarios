@@ -3,8 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Practice time should almost be over,
 right......)");
 VoicePlay("G110200704_02_000");
-MsgDisp("Sassa","Manager!
-When you're done cleaning up,
+MsgDisp("Sassa","Manager! When you're done cleaning up,
 let's go for a run and cool down together!");
 VoicePlay("G110200704_42_000");
 MsgDisp("Member A","That's nice.
@@ -42,8 +41,9 @@ ChMotion(2,1);
 VoicePlay("G110200704_02_030");
 MsgDisp("Sassa","Once in a while, it's good to cool down
 with everyone, right?");
-MsgDisp("主人公","Yeah, that's right. Maybe it would be good
-to have scheduled a few times a week?");
+MsgDisp("主人公","Yeah, that's right.
+Maybe it would be good to have scheduled a
+few times a week?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -55,8 +55,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200704_02_050");
-MsgDisp("Sassa","It's because of you that I can
-do this here, right now.");
+MsgDisp("Sassa","It's because of you that I can do this
+here, right now.");
 MsgDisp("主人公","Eh......");
 VoicePlay("G110200704_34_040");
 MsgDisp("Member C","Three, two, three, fourー.");
@@ -76,7 +76,6 @@ ScrFadeOut(0,0);
 MsgClose();
 ChClose(2,0,0);
 SEWait();
-MsgDisp("主人公","(｛颯砂＊＊｝......
-I'm so happy.
-Well, I'll continue doing my best!)");
+MsgDisp("主人公","(｛颯砂＊＊｝...... I'm so happy. Well,
+I'll continue doing my best!)");
 MsgClose();

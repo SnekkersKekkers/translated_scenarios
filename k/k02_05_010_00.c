@@ -46,7 +46,7 @@ MsgClose();
 ChClose(5);
 Wait(30);
 MsgDisp("主人公","(I'm so happy......
-This year looks like it's
-going to be a great one!)");
+This year looks like it's going to be a
+great one!)");
 MsgClose();
 ScrFadeOut(0,0);

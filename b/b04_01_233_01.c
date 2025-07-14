@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,1);
     ChMotion(1,3);
     VoicePlay("B040123301_01_020");
-    MsgDisp("Kazama","Fun?
-This is one of those punishment games...");
+    MsgDisp("Kazama","Fun? This is one of those punishment
+games...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,7 +38,7 @@ This is one of those punishment games...");
     ChMotion(1,1);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040123301_01_030");
-    MsgDisp("Kazama","It didn't fall off, did it? 
+    MsgDisp("Kazama","It didn't fall off, did it?
 I don't need that kind of effect.");
     MsgDateResultDisp();
     break ;

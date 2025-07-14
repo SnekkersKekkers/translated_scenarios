@@ -52,16 +52,17 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C05002_05_010");
-MsgDisp("Hiiragi","I'm glad. Then, Inori, 
-let's have some fun whilst being 
-their distraction.");
+MsgDisp("Hiiragi","I'm glad.
+Then, Inori, let's have some fun whilst
+being their distraction.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C05002_07_020");
-MsgDisp("Mikage","Haa, don't pay so much attention 
-to what others are thinking.");
-MsgDisp("主人公","(Having lunch with ｛御影＊＊｝ alone...
+MsgDisp("Mikage","Haa, don't pay so much attention to what
+others are thinking.");
+MsgDisp("主人公","(Having lunch with ｛御影＊＊｝
+alone...
 Maybe it is a bit embarrassing?)");
 BGMStop();
 MsgClose();

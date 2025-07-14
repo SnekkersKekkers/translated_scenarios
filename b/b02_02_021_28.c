@@ -11,14 +11,14 @@ ChMouth(2,2);
 ChMotion(2,0);
 VoicePlay("B020202128_02_010");
 MsgDisp("Sassa","It's not that I dislike it.
-I just thought it would be easy
-to spot you from a distance.");
+I just thought it would be easy to spot
+you from a distance.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B020202128_02_020");
-MsgDisp("Sassa","But, I was kind of wrong. Combining strong
-colors and a strong personality is a new
-discovery for me.");
-MsgDisp("主人公","(He seems to have started to like
-clothes in bright colors like this.)");
+MsgDisp("Sassa","But, I was kind of wrong.
+Combining strong colors and a strong
+personality is a new discovery for me.");
+MsgDisp("主人公","(He seems to have started to like clothes
+in bright colors like this.)");

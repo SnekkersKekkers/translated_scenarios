@@ -18,9 +18,8 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","That's right,
-you said you had something you wanted 
-to talk to me about, right?");
+MsgDisp("主人公","That's right, you said you had something
+you wanted to talk to me about, right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -32,8 +31,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101001_01_010");
-MsgDisp("Kazama","It's been a long time since 
-we held hands so naturally like that.");
+MsgDisp("Kazama","It's been a long time since we held hands
+so naturally like that.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -73,7 +72,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G110101001_01_080");
-MsgDisp("Kazama","Yeah, that's right. IT's natural now.");
+MsgDisp("Kazama","Yeah, that's right.
+IT's natural now.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

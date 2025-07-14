@@ -12,8 +12,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_430");
-    MsgDisp("Honda","I thought the order form was
-around here, do you know where it went?");
+    MsgDisp("Honda","I thought the order form was around here,
+do you know where it went?");
     MsgDisp("主人公","I already took care of it.
 Ah, did I overstep?");
     ChEye(3,3);
@@ -21,8 +21,8 @@ Ah, did I overstep?");
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_440");
     MsgDisp("Honda","Ah, then it's fine.
-It was a rush order, so the manager
-called me.");
+It was a rush order, so the manager called
+me.");
     ChMotion(3,1,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_450");
@@ -36,8 +36,8 @@ Thanks!");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_460");
-    MsgDisp("Honda","The manager wanted to change
-the shelf layout a little......");
+    MsgDisp("Honda","The manager wanted to change the shelf
+layout a little......");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -56,17 +56,17 @@ working, so you have some ideas, right?");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_490");
-    MsgDisp("Honda","And, the manager asking for your
-opinion means that your work and
-existence has been recognized.");
+    MsgDisp("Honda","And, the manager asking for your opinion
+means that your work and existence has
+been recognized.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_500");
     MsgDisp("Honda","I want to hear your opinion, too.
 Keep it up!");
-    MsgDisp("主人公","(My hard work has been
-recognized...... I'm so happy!)");
+    MsgDisp("主人公","(My hard work has been recognized......
+I'm so happy!)");
     break ;
     default :
     DbgAssert(1);

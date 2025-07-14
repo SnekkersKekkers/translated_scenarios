@@ -27,8 +27,8 @@ We synced pretty well.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("O030700000_07_020");
-    MsgDisp("Mikage","Oh no, the stares from
-the other staff hurt......");
+    MsgDisp("Mikage","Oh no, the stares from the other staff
+hurt......");
     MsgDisp("主人公","(We did it, first place!)");
     break ;
     case 4:
@@ -44,16 +44,15 @@ We got first!");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("O030700000_07_040");
-    MsgDisp("Mikage","Compared to just running normally,
-maybe we were a little faster together?");
+    MsgDisp("Mikage","Compared to just running normally, maybe
+we were a little faster together?");
     MsgDisp("主人公","Hehe!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O030700000_07_050");
-    MsgDisp("Mikage","Thanks to you, I had fun
-at this sports festival.
-Thanks.");
+    MsgDisp("Mikage","Thanks to you, I had fun at this sports
+festival. Thanks.");
     MsgDisp("主人公","(We did it!
 An uncontested victory!)");
     break ;

@@ -9,6 +9,6 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("D140D00100_21_000");
-MsgDisp("Michiru","Oh no, it seems like today isn't
-good? Next time, then.");
+MsgDisp("Michiru","Oh no, it seems like today isn't good?
+Next time, then.");
 BGMStop();

@@ -9,24 +9,24 @@ MsgDisp("Honda?","Mii-kun, come out.");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝!
-Are you looking for ｛七ツ森＊｝ again?
-He really is like a lost cat.");
+MsgDisp("主人公","｛本多＊＊｝! Are you looking for
+｛七ツ森＊｝ again? He really is like a
+lost cat.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("F100340002_03_020");
 MsgDisp("Honda","Yeah he's hiding somewhere.
-Apparently, you're the hint this 
-time. Help me look for him?");
+Apparently, you're the hint this time.
+Help me look for him?");
 MsgDisp("主人公","I'm the hint?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100340002_03_030");
-MsgDisp("Honda","Right right, that's what it said on 
-the message. That I should look with 
-you. Where do you think he is?");
+MsgDisp("Honda","Right right, that's what it said on the
+message. That I should look with you.
+Where do you think he is?");
 MsgDisp("主人公","even if you ask me that...
 where could he be?");
 ChEye(3,3);
@@ -70,17 +70,16 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F100340002_03_060");
-MsgDisp("Honda","Mii-kun is a cat, so don't 
-chase him. He'll come to you
-if he gets lonely.");
+MsgDisp("Honda","Mii-kun is a cat, so don't chase him.
+He'll come to you if he gets lonely.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100340002_04_020");
-MsgDisp("Nanatsumori","I'm a person, so
-don't treat me like a cat.");
-MsgDisp("主人公","Hehe.
-But just where were you, ｛七ツ森＊｝?");
+MsgDisp("Nanatsumori","I'm a person, so don't treat me like a
+cat.");
+MsgDisp("主人公","Hehe. But just where were you,
+｛七ツ森＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -95,9 +94,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("F100340002_03_080");
-MsgDisp("Honda","Well, I got the message before 
-I met up with you. If he wasn't
-watching, how would he know?");
+MsgDisp("Honda","Well, I got the message before I met up
+with you.
+If he wasn't watching, how would he know?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);

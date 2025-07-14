@@ -10,12 +10,11 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("B320C00002_06_000");
-MsgDisp("Himuro","How you said that just now made 
-this sound like a school field trip.");
+MsgDisp("Himuro","How you said that just now made this sound
+like a school field trip.");
 ChMotion(5,4);
 VoicePlay("B320C00002_05_000");
-MsgDisp("Hiiragi","Yes.
-Mikage-sensei, please conduct today
+MsgDisp("Hiiragi","Yes. Mikage-sensei, please conduct today
 with that sort of feeling.");
 ChEye(7,0);
 ChMouth(7,3);

@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323201_03_000");
 MsgDisp("Honda","10 minutes, 33 seconds!
-Isn't this the longest attraction you
-can enjoy at the amusement park?");
+Isn't this the longest attraction you can
+enjoy at the amusement park?");
 MsgSel("It felt shorter than that though","It's not about the duration, it's about the quality","The haunted house is long too");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040323201_03_010");
-    MsgDisp("Honda","Rightー!
-If it felt short to you,
-you must've enjoyed it!");
+    MsgDisp("Honda","Rightー! If it felt short to you, you
+must've enjoyed it!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

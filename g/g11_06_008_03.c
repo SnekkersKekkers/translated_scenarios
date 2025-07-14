@@ -5,8 +5,8 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("G110600803_06_000");
-MsgDisp("Himuro","｛主人公｝.
-Are you already finished for today?");
+MsgDisp("Himuro","｛主人公｝. Are you already finished
+for today?");
 MsgDisp("主人公","Ah, good work today.
 Yeah, ｛氷室＊＊｝ let's go together.");
 ChEye(6,0);
@@ -68,14 +68,15 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("G110600803_06_070");
-MsgDisp("Himuro","It's fine. If I think it's a failure, it's
-a failure. That's all.");
+MsgDisp("Himuro","It's fine.
+If I think it's a failure, it's a failure.
+That's all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G110600803_06_080");
-MsgDisp("Himuro","Well, I don't want you to expect failure, 
+MsgDisp("Himuro","Well, I don't want you to expect failure,
 so forget what I asked you today.");
 MsgDisp("主人公","Hehe, I got it!");
 MsgDisp("主人公","(I'm looking forward to it......!)");

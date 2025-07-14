@@ -26,8 +26,8 @@ Let's get some of the spring's power.");
     ChMotion(5,4);
     VoicePlay("B040508300_05_020");
     MsgDisp("Hiiragi","That's at night time isn't it?
-So, it's alright and you can still 
-have peace of mind. ");
+So, it's alright and you can still have
+peace of mind.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ have peace of mind. ");
     ChMouth(5,3);
     VoicePlay("B040508300_05_030");
     MsgDisp("Hiiragi","Let's cool off for a bit.
-I'm afraid I might not be able
-to get out of there.");
+I'm afraid I might not be able to get out
+of there.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

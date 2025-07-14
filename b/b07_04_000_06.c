@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, ｛七ツ森＊｝ what were you
-like in middle school?");
+MsgDisp("主人公","Hey, ｛七ツ森＊｝ what were you like in
+middle school?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -45,10 +45,9 @@ ChCheek(4,0);
 VoicePlay("B070400000_04_400");
 MsgDisp("Nanatsumori","It's hard to explain...
 I'll think about how to answer this.
-I'm sorry but I think 
-I'll pass for today.");
-MsgDisp("主人公","(What the heck kind of middle 
-school student was he...)");
+I'm sorry but I think I'll pass for today.");
+MsgDisp("主人公","(What the heck kind of middle school
+student was he...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -19,24 +19,22 @@ ChMouth(2,2);
 ChMotion(2,0);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200200_02_020");
-MsgDisp("Sassa","The other day, I told you
-I would think of a 
-counter-attack.");
+MsgDisp("Sassa","The other day, I told you I would think of
+a counter-attack.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B150200200_02_030");
-MsgDisp("Sassa","I thought I could grab your hand,
-and stop you from moving.");
+MsgDisp("Sassa","I thought I could grab your hand, and stop
+you from moving.");
 MsgDisp("主人公","Umm, I guess I got carried away. ");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B150200200_02_040");
-MsgDisp("Sassa","Carried away, huh...
-I couldn't keep up at all.
-Trying to clasp your hand 
-in mine was impossible.");
+MsgDisp("Sassa","Carried away, huh... I couldn't keep up at
+all. Trying to clasp your hand in mine was
+impossible.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -48,20 +46,20 @@ ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("B150200200_02_060");
-MsgDisp("Sassa","Yeah, hey. Let's stop.
-I'm good at controlling myself...
-but I'd hate it if something happened.");
+MsgDisp("Sassa","Yeah, hey. Let's stop. I'm good at
+controlling myself... but I'd hate it if
+something happened.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B150200200_02_070");
-MsgDisp("Sassa","You understood. 
+MsgDisp("Sassa","You understood.
 I'm counting on you?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(As I thought, it seems like
-I really did worry ｛颯砂＊＊｝...)");
+MsgDisp("主人公","(As I thought, it seems like I really did
+worry ｛颯砂＊＊｝... )");
 MsgClose();
 ScrFadeOut(0,0);

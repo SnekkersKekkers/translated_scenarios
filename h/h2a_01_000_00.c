@@ -25,12 +25,11 @@ Looks like everyone did their best!");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("H2A0100000_01_020");
-    MsgDisp("Kazama","You were a great manager, weren't
-you?
+    MsgDisp("Kazama","You were a great manager, weren't you?
 Much better than Mikage-sensei.");
-    MsgDisp("主人公","(Looks like everyone did their
-best. I'm glad I could support them
-as their manager until now!)");
+    MsgDisp("主人公","(Looks like everyone did their best.
+I'm glad I could support them as their
+manager until now!)");
     break ;
     case 4:
     case 5:
@@ -43,36 +42,35 @@ as their manager until now!)");
     VoicePlay("H2A0100000_01_030");
     MsgDisp("Kazama","Winning championships is pretty
 amazing.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Yes, it's thanks to everyone's hard work.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Yes, it's thanks to
+everyone's hard work.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("H2A0100000_01_040");
-    MsgDisp("Kazama","Maybe that's true,
-but I think you're the most amazing.");
+    MsgDisp("Kazama","Maybe that's true, but I think you're the
+most amazing.");
     MsgDisp("主人公","Hm?");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("H2A0100000_01_050");
-    MsgDisp("Kazama","You need a lot of knowledge to
-take proper care of the players, right?");
+    MsgDisp("Kazama","You need a lot of knowledge to take proper
+care of the players, right?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H2A0100000_01_060");
-    MsgDisp("Kazama","Studying hard and working hard,
-only someone as stubborn as you could
-pull it off.");
-    MsgDisp("主人公","Geez, you don't need to call me
-stubborn. But thanks!");
+    MsgDisp("Kazama","Studying hard and working hard, only
+someone as stubborn as you could pull it
+off.");
+    MsgDisp("主人公","Geez, you don't need to call me stubborn.
+But thanks!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H2A0100000_01_070");
-    MsgDisp("Kazama","Yeah.
-But starting tomorrow, I'll have you
+    MsgDisp("Kazama","Yeah. But starting tomorrow, I'll have you
 working exclusively for me.");
     MsgDisp("主人公","Hehe, sure, sure.");
     ChEye(1,4);

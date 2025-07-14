@@ -11,15 +11,15 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Pretty.
-The surface of the water is sparkling!");
+MsgDisp("主人公","Pretty. The surface of the water is
+sparkling!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30401_04_000");
 MsgDisp("Nanatsumori","The weather is nice.
-Well isn't it the ideal 
-weather for a walk?");
+Well isn't it the ideal weather for a
+walk?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -31,9 +31,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B30401_03_000");
-MsgDisp("Honda","Mii-kun has something 
-planned right? He chose this 
-place specifically after all.");
+MsgDisp("Honda","Mii-kun has something planned right?
+He chose this place specifically after
+all.");
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
@@ -43,8 +43,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30401_04_010");
-MsgDisp("Nanatsumori","Not really, I didn't think about 
-it that deeply. Is there a problem?");
+MsgDisp("Nanatsumori","Not really, I didn't think about it that
+deeply.
+Is there a problem?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -53,9 +54,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30401_04_020");
-MsgDisp("Nanatsumori","Kazama.
-If you have any suggestions, 
-go for it.");
+MsgDisp("Nanatsumori","Kazama. If you have any suggestions, go
+for it.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -80,8 +80,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30401_01_020");
-MsgDisp("Kazama","I transfer my right 
-to answer over to Dahon.");
+MsgDisp("Kazama","I transfer my right to answer over to
+Dahon.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -101,12 +101,10 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30401_04_050");
-MsgDisp("Nanatsumori","RIght.
-This is a day without any plans, 
-so we'll just go with what you want.");
+MsgDisp("Nanatsumori","RIght. This is a day without any plans, so
+we'll just go with what you want.");
 ChMouth(1,3);
-MsgDisp("主人公","(Hmm.
-I'm having fun just by being with
+MsgDisp("主人公","(Hmm. I'm having fun just by being with
 everyone though you know?)");
 BGMStop();
 MsgClose();

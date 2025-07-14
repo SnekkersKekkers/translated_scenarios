@@ -5,8 +5,8 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040122101_01_000");
-MsgDisp("Kazama","I wonder what the lord of Habataki
-Castle was thinking as he stood here.");
+MsgDisp("Kazama","I wonder what the lord of Habataki Castle
+was thinking as he stood here.");
 MsgSel("What are you thinking, ｛風真＊＊｝?","To unify the nation by force∈","Maybe that it was a bit tall and scary");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040122101_01_010");
-    MsgDisp("Kazama","\"What is this elusive person
-next to me thinking?\"");
+    MsgDisp("Kazama","\"What is this elusive person next to me
+thinking?\"");
     ChEyeOpenLevel(1,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -1,13 +1,13 @@
-MsgDisp("主人公","Recently, it's been super lively
-around ｛風真＊＊｝ hasn't it?");
+MsgDisp("主人公","Recently, it's been super lively around
+｛風真＊＊｝ hasn't it?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_150");
 MsgDisp("Kazama","Are you talking about Honda and
 Nanatsumori?");
-MsgDisp("主人公","Yeah.｛風真＊＊｝ also looks 
-like he's having fun.");
+MsgDisp("主人公","Yeah. ｛風真＊＊｝ also looks like he's
+having fun.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -21,12 +21,10 @@ ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("B070100002_01_170");
 MsgDisp("Kazama","Well, my household is kind of special.
-With them having lived abroad so long, 
-it can't be helped that 
-people are curious.");
-MsgDisp("主人公","I see... I'm sorry.
-I might've also asked you 
-things out of curiosity.");
+With them having lived abroad so long, it
+can't be helped that people are curious.");
+MsgDisp("主人公","I see... I'm sorry. I might've also asked
+you things out of curiosity.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -40,16 +38,15 @@ ChMotion(1,0);
 VoicePlay("B070100002_01_190");
 MsgDisp("Kazama","Don't \"Huh?\" me.
 Come on, what's yoru question.");
-MsgDisp("主人公","That...
-What's the most important
-thing to you, ｛風真＊＊｝?");
+MsgDisp("主人公","That... What's the most important thing to
+you, ｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_200");
-MsgDisp("Kazama","Right, I forgot, 
-You're the type to only throw fast balls.");
+MsgDisp("Kazama","Right, I forgot, You're the type to only
+throw fast balls.");
 ChEye(1,4);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -68,8 +65,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("B070100002_01_220");
 MsgDisp("Kazama","It is isn't it?");
-MsgDisp("主人公","(I want to treasure the time
-the two of us spend talking together.)");
+MsgDisp("主人公","(I want to treasure the time the two of us
+spend talking together.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

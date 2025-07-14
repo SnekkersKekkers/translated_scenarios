@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040824101_08_010");
-    MsgDisp("Shirahane","Right!
-It's made with freshly squeezed milk,
-so I'm sure it'll be super delicious!");
+    MsgDisp("Shirahane","Right! It's made with freshly squeezed
+milk, so I'm sure it'll be super
+delicious!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,7 +28,8 @@ so I'm sure it'll be super delicious!");
     ChMouth(8,4);
     ChMotion(8,4,1);
     VoicePlay("B040824101_08_020");
-    MsgDisp("Shirahane","I want to... eat ice cream.");
+    MsgDisp("Shirahane","I want to...
+eat ice cream.");
     MsgDateResultDisp();
     break ;
     case 2:

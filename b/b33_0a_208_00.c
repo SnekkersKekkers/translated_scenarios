@@ -17,23 +17,22 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoiceEVSPlay(2);
 VoicePlay("B330A20800_02_000");
-MsgDisp("Sassa","｛主人公｝.
-Can you ride it 3 times?");
+MsgDisp("Sassa","｛主人公｝. Can you ride it 3 times?");
 MsgDisp("主人公","Yes?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A20800_01_000");
 MsgDisp("Kazama","Don't push yourself.
-There'll have been no point in 
-coming if it makes you sick.");
+There'll have been no point in coming if
+it makes you sick.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20800_06_000");
 MsgDisp("Himuro","That's right.
-Then, Ryota-senpai should let
-someone else go as well.");
+Then, Ryota-senpai should let someone else
+go as well.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -43,16 +42,16 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A20800_06_010");
-MsgDisp("Himuro","Isn't that where the 
-conversation was going?");
+MsgDisp("Himuro","Isn't that where the conversation was
+going?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20800_02_010");
-MsgDisp("Sassa","Then how about this: we each take 
-turns going with her; one person takes 
-the rollercoaster, one the ferris wheel,
-and another teacups. Keep the peace.");
+MsgDisp("Sassa","Then how about this: we each take turns
+going with her; one person takes the
+rollercoaster, one the ferris wheel, and
+another teacups. Keep the peace.");
 ChMouth(1,0);
 ChMotion(1,0,1);
 ChEye(2,3);
@@ -60,8 +59,8 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A20800_02_020");
-MsgDisp("Sassa","If we're going with this, 
-I'll take the rollercoaster.");
+MsgDisp("Sassa","If we're going with this, I'll take the
+rollercoaster.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -96,8 +95,7 @@ ChMotion(2,0);
 VoicePlay("B330A20800_02_030");
 MsgDisp("Sassa","Haha, he's 
 thanking you so earnestly.");
-MsgDisp("主人公","Hehe!
-Thank you, ｛風真＊＊｝.");
+MsgDisp("主人公","Hehe! Thank you, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -119,9 +117,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330A20800_01_050");
 MsgDisp("Kazama","Haa, got it.
 Everyone can't go against you.");
-MsgDisp("主人公","(Yay!
-We're all here anyways, so I
-wanna have fun with everyone.)");
+MsgDisp("主人公","(Yay! We're all here anyways, so I wanna
+have fun with everyone.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

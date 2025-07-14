@@ -20,9 +20,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0,1);
     ScrFadeIn(0);
     VoicePlay("B060500002_05_010");
-    MsgDisp("Hiiragi","I was able to relax a bit thanks
-to you. It's a nice way to spend the
-day.");
+    MsgDisp("Hiiragi","I was able to relax a bit thanks to you.
+It's a nice way to spend the day.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -33,9 +32,9 @@ day.");
     ChMotion(5,0,1);
     ScrFadeIn(0);
     VoicePlay("B060500002_05_020");
-    MsgDisp("Hiiragi","I get a lot of different emotions
-when I'm with you. Because of that, it
-can be tough. But I enjoy this feeling.");
+    MsgDisp("Hiiragi","I get a lot of different emotions when I'm
+with you. Because of that, it can be
+tough. But I enjoy this feeling.");
     MsgDispSksp(0);
     break ;
     default :

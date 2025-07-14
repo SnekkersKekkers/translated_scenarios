@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     VoicePlay("B040404300_04_000");
     MsgDisp("Nanatsumori","Rakugo feels like a refined art form.
-The stories have punch lines, 
-it makes you feel refreshed.");
+The stories have punch lines, it makes you
+feel refreshed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,9 +23,9 @@ it makes you feel refreshed.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040404300_04_010");
-    MsgDisp("Nanatsumori","Are you a person who's picky about 
-Rakugo? Damn... are you good at
-stories? If so, let me hear it.");
+    MsgDisp("Nanatsumori","Are you a person who's picky about Rakugo?
+Damn... are you good at stories? If so,
+let me hear it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

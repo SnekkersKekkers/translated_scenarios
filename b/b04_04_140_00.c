@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040414000_04_010");
-    MsgDisp("Nanatsumori","Right!
-I still haven't cooled down...
-It was awesome!");
+    MsgDisp("Nanatsumori","Right! I still haven't cooled down... It
+was awesome!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,9 +37,8 @@ What do you mean by \"so-so\"?");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040414000_04_030");
-    MsgDisp("Nanatsumori","Haha, me too.
-I guess it's because we're listening 
-to it live. I can't get enough
+    MsgDisp("Nanatsumori","Haha, me too. I guess it's because we're
+listening to it live. I can't get enough
 of this reverberationー...!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

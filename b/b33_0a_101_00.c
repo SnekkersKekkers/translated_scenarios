@@ -34,8 +34,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A10100_06_000");
-MsgDisp("Himuro","...You seem kind of 
-dissatisfied Ryota-senpai.");
+MsgDisp("Himuro","...You seem kind of dissatisfied
+Ryota-senpai.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -72,9 +72,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("B330A10100_06_010");
-MsgDisp("Himuro","Pfft.
-Hey, this is because you're 
-telling weird lies.");
+MsgDisp("Himuro","Pfft. Hey, this is because you're telling
+weird lies.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -88,8 +87,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10100_06_020");
 MsgDisp("Himuro","Ryota-senpai was jealous that
-Nozomu-senpai knew things about 
-you that he didn't.");
+Nozomu-senpai knew things about you that
+he didn't.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -107,8 +106,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10100_01_060");
 MsgDisp("Kazama","Shut up.");
-MsgDisp("主人公","(Hehe, everyone always
-ends up teasing ｛風真＊＊｝...)");
+MsgDisp("主人公","(Hehe, everyone always ends up teasing
+｛風真＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

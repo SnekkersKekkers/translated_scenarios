@@ -9,9 +9,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510300_05_010");
-MsgDisp("Hiiragi","That reminds me, 
-a similar thing occurred when we were on 
-that sightseeing boat.");
+MsgDisp("Hiiragi","That reminds me, a similar thing occurred
+when we were on that sightseeing boat.");
 MsgDisp("主人公","Hehe, yes.
 A lot of seagulls gathered around us.");
 ChMotion(5,3);
@@ -27,10 +26,10 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510300_05_030");
-MsgDisp("Hiiragi","Just like the stage and the deck,
-we're on a wooden platform.");
-MsgDisp("主人公","Is this your spirit as an
-actor, ｛柊＊＊＊｝?");
+MsgDisp("Hiiragi","Just like the stage and the deck, we're on
+a wooden platform.");
+MsgDisp("主人公","Is this your spirit as an actor,
+｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

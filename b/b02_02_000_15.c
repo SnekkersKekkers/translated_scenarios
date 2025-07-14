@@ -12,5 +12,5 @@ VoicePlay("B020200015_02_010");
 MsgDisp("Sassa","Yeah. Man, what a shame. If I had worn it
 too, wouldn't our meeting have been really
 exciting?");
-MsgDisp("主人公","(Too bad. I wanted to have matching
-clothes.)");
+MsgDisp("主人公","(Too bad.
+I wanted to have matching clothes.)");

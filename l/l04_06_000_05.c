@@ -19,17 +19,16 @@ You're setting the bar high.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600005_06_020");
-    MsgDisp("Himuro","Well, it's fine.
-I shouldn't be picky about a gift. 
-Thanks.");
+    MsgDisp("Himuro","Well, it's fine. I shouldn't be picky
+about a gift. Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(Could it be that I put
-something in he doesn't like?)");
+    MsgDisp("主人公","(Could it be that I put something in he
+doesn't like?)");
     break ;
     case 3:
     ChEye(6,0);
@@ -43,24 +42,24 @@ something in he doesn't like?)");
     ChMotion(6,0);
     VoicePlay("L040600005_06_040");
     MsgDisp("Himuro","I see that.
-But, maybe you should've tried just
-a little harder.");
+But, maybe you should've tried just a
+little harder.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600005_06_050");
-    MsgDisp("Himuro","If you want to make someone 100%
-happy, maybe you should find out
-their preferences.");
+    MsgDisp("Himuro","If you want to make someone 100% happy,
+maybe you should find out their
+preferences.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(Could it be that I put
-something in he doesn't like?)");
+    MsgDisp("主人公","(Could it be that I put something in he
+doesn't like?)");
     break ;
     case 4:
     case 5:
@@ -101,8 +100,8 @@ return it.");
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(Could it be that I put
-something in he doesn't like?)");
+    MsgDisp("主人公","(Could it be that I put something in he
+doesn't like?)");
     break ;
     default :
     DbgAssert(1);

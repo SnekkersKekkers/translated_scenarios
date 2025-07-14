@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040209002_02_000");
-MsgDisp("Sassa","When I come here, 
-I can't help but think of salad.");
+MsgDisp("Sassa","When I come here, I can't help but think
+of salad.");
 MsgSel("Are you hungry?","Vegetables are important huh?","You can't eat the grass here.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -55,7 +55,7 @@ I'm not a cow.");
         ChMotion(2,3);
         VoicePlay("B040209002_02_040");
         MsgDisp("Sassa","I won't eat it!
-There's no dressing. ");
+There's no dressing.");
         MsgDisp("主人公","Is that what's bothering you?");
         ChEye(2,0);
         ChMouth(2,3);
@@ -69,15 +69,14 @@ Does ｛颯砂＊＊｝ like salad?");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040209002_02_060");
-        MsgDisp("Sassa","Vegetables help with nutrition, 
-and at least, are very 
-important to athletes.");
+        MsgDisp("Sassa","Vegetables help with nutrition, and at
+least, are very important to athletes.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040209002_02_070");
-        MsgDisp("Sassa","Ah, but if you made them at home,
-I would eat lots of it.");
+        MsgDisp("Sassa","Ah, but if you made them at home, I would
+eat lots of it.");
         MsgDisp("主人公","Homegrown vegetables?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -99,8 +98,8 @@ I'll try studying up on cooking then.");
         ChMotion(2,0);
         VoicePlay("B040209002_02_100");
         MsgDisp("Sassa","Aah, sorry, sorry.
-You would look nice with
-an apron and kerchief.");
+You would look nice with an apron and
+kerchief.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);

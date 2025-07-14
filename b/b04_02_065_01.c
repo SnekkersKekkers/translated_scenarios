@@ -6,8 +6,8 @@ MsgClose();
 ChOpen(2,33,4,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040206501_02_000");
-MsgDisp("Sassa","The big fireworks are nice but the
-themed ones are also fun.");
+MsgDisp("Sassa","The big fireworks are nice but the themed
+ones are also fun.");
 MsgSel("Yeah, like the Niagara Falls one！","I prefer the big ones.","Sparklers are the most beautiful in their fragility.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040206501_02_010");
     MsgDisp("Sassa","Ah, I liked that one too.
-It's both skillful and powerful. ");
+It's both skillful and powerful.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

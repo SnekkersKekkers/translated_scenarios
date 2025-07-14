@@ -9,7 +9,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0,1);
     VoicePlay("R060700005_07_000");
     MsgDisp("Mikage","I see, is this a famous type of gift?
-Very enlightening. Thank you.");
+Very enlightening.
+Thank you.");
     MsgDisp("主人公","(It seems that he really likes
 my gift!)");
     break ;
@@ -20,8 +21,7 @@ my gift!)");
     ChMouth(7,0);
     ChMotion(7,2,1);
     VoicePlay("R060700005_07_010");
-    MsgDisp("Mikage","Woah.
-I can't afford these types of things
+    MsgDisp("Mikage","Woah. I can't afford these types of things
 myself, so thank you.");
     MsgDisp("主人公","(It seems that he really likes
 my gift!)");

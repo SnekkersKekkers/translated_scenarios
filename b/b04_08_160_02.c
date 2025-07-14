@@ -6,8 +6,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040816002_08_000");
 MsgDisp("Shirahane","Ah, this game!
-The one that's made in collaboration
-with that quiz show!");
+The one that's made in collaboration with
+that quiz show!");
 MsgSel("Can ｛大地＊＊｝ do it?","｛大地＊＊｝ is also a quiz king!","Let's try it together!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -21,8 +21,8 @@ switch (MsgSelRsltGet()){
         ChMouth(8,4);
         ChMotion(8,4,1);
         VoicePlay("B040816002_08_010");
-        MsgDisp("Shirahane","Do I look like such a
-good-for-nothing guy?
+        MsgDisp("Shirahane","Do I look like such a good-for-nothing
+guy?
 I feel kinda dejected...");
         MsgDateResultDisp();
         break ;
@@ -33,9 +33,8 @@ I feel kinda dejected...");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("B040816002_08_020");
-        MsgDisp("Shirahane","Huh?
-Do I really look like such
-a good-for-nothing guy?");
+        MsgDisp("Shirahane","Huh? Do I really look like such a
+good-for-nothing guy?");
         MsgDisp("主人公","It's not like that...");
         ChEye(8,1);
         ChMouth(8,3);
@@ -57,8 +56,8 @@ Just you wait!");
         ChOpen(8,255,0,2,4,#1,#1,0,0);
         ChMotion(8,4,1);
         VoicePlay("B040816002_08_040");
-        MsgDisp("Shirahane","Again...
-Another trick question screwed me over.");
+        MsgDisp("Shirahane","Again... Another trick question screwed me
+over.");
         MsgDisp("主人公","It was just one more question.
 That was close, wasn't it?");
         ChEye(8,2);
@@ -67,8 +66,7 @@ That was close, wasn't it?");
         VoicePlay("B040816002_08_050");
         MsgDisp("Shirahane","Haa..
 This is so uncool.");
-        MsgDisp("主人公","No.
-｛大地＊＊｝ was amazing! Everyone 
+        MsgDisp("主人公","No. ｛大地＊＊｝ was amazing! Everyone
 watching was cheering him on!");
         ChEye(8,2);
         ChMouth(8,0);
@@ -77,8 +75,7 @@ watching was cheering him on!");
         ChEye(8,5);
         ChMouth(8,2);
         ChMotion(8,1,1);
-        MsgDisp("主人公","Hey.
-This is unlike you, ｛大地＊＊｝.
+        MsgDisp("主人公","Hey. This is unlike you, ｛大地＊＊｝.
 Let's cheer up!");
         ChEye(8,0);
         ChMouth(8,1);
@@ -89,8 +86,7 @@ Let's cheer up!");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("B040816002_08_080");
-        MsgDisp("Shirahane","Ah...
-Hearin' your voice switched me on.
+        MsgDisp("Shirahane","Ah... Hearin' your voice switched me on.
 I'll try once again!");
         MsgClose();
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");

@@ -29,12 +29,12 @@ MsgDisp("主人公","Woah, so cute!
 Are these all Japanese sweets?");
 StlEyeOpenLevel(21,5);
 VoicePlay("D012100100_21_030");
-MsgDisp("Michiru","That's right. The concept is
-\"Light Sweets for Japanese Teenagers\".
-I made them myself.");
+MsgDisp("Michiru","That's right. The concept is \"Light Sweets
+for Japanese Teenagers\". I made them
+myself.");
 VoicePlay("D012100100_21_040");
-MsgDisp("Michiru","I wanted them to look pretty
-but also have a mild and sweet taste.");
+MsgDisp("Michiru","I wanted them to look pretty but also have
+a mild and sweet taste.");
 MsgDisp("主人公","I'm curious to know how they taste......!");
 StlEyeOpenLevel(21,#1);
 VoicePlay("D012100100_21_050");
@@ -43,14 +43,12 @@ Why don't you give them a try.");
 MsgDisp("主人公","Is it really okay?");
 StlEyeOpenLevel(21,5);
 VoicePlay("D012100100_21_060");
-MsgDisp("Michiru","Hehe.
-Of course. I prepared them for this
+MsgDisp("Michiru","Hehe. Of course. I prepared them for this
 reason, so please enjoy.");
 MsgDisp("主人公","Okay, thanks for the food!");
-MsgDisp("主人公",".........!
-｛みちる＊｝, these are amazing!
-So yummy and the texture is completely
-new to me......!");
+MsgDisp("主人公",".........! ｛みちる＊｝, these are
+amazing! So yummy and the texture is
+completely new to me......!");
 StlEye(21,1);
 VoicePlay("D012100100_21_070");
 MsgDisp("Michiru","What a relief!
@@ -70,9 +68,9 @@ StlEye(21,1);
 VoicePlay("D012100100_21_090");
 MsgDisp("Michiru","......Mmm, delicious!
 I'd say it's a great success▼");
-MsgDisp("主人公","(｛みちる＊｝ looks really happy!
-I think these sweets will be successful!
-As expected of ｛みちる＊｝......!)");
+MsgDisp("主人公","(｛みちる＊｝ looks really happy! I
+think these sweets will be successful! As
+expected of ｛みちる＊｝......! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

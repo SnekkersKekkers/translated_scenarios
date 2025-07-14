@@ -17,7 +17,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("U110D00002_22_000");
-MsgDisp("Hikaru","Heyhey, Mari. Let's eat snacks♪
+MsgDisp("Hikaru","Heyhey, Mari.
+Let's eat snacks♪
 And this tea is Hikaru's favorite!");
 MsgClose();
 ScrFadeOut(0);
@@ -40,9 +41,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("U110D00002_21_010");
-MsgDisp("Michiru","Hehe. Well then, when 
-we're all ready for bed, let's meet up
-in Mari's room. Okay?");
+MsgDisp("Michiru","Hehe. Well then, when we're all ready for
+bed, let's meet up in Mari's room. Okay?");
 MsgClose();
 BGMStop();
 ScrFadeOut(0);
@@ -64,12 +64,12 @@ ScrFadeIn(0);
 MsgDisp("主人公","......Hmm, that's a bit surprising.");
 VoicePlay("U110D00002_21_020");
 MsgDisp("Michiru","You mean Hikaru, right?
-She's a different person at home
-compared to how she is at school.");
+She's a different person at home compared
+to how she is at school.");
 StlEyeOpenLevel(22,5);
 VoicePlay("U110D00002_22_020");
-MsgDisp("Hikaru","You don't need to put on a persona
-at home, right?
+MsgDisp("Hikaru","You don't need to put on a persona at
+home, right?
 Well then, it's time for girl talk～♪");
 StlEye(22,0);
 MsgClose();

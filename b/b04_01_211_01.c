@@ -7,8 +7,9 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040121101_01_000");
-MsgDisp("Kazama","An exhibition in a form so 
-close to nature... it's really elaborate.");
+MsgDisp("Kazama","An exhibition in a form so close to
+nature...
+it's really elaborate.");
 MsgSel("That polar bear dive was amazing.","Feeding time on monkey mountain was amazing","The orangutan tightrope walking was amazing");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040121101_01_010");
     MsgDisp("Kazama","Yeah, that surprised me.
-It was especially impressive seeing 
-it from under water.");
+It was especially impressive seeing it
+from under water.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,10 +31,9 @@ it from under water.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040121101_01_020");
-    MsgDisp("Kazama","There were all kinds of
-clever ones and wicked ones.
-Maybe it's not so different 
-from school?");
+    MsgDisp("Kazama","There were all kinds of clever ones and
+wicked ones.
+Maybe it's not so different from school?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,8 @@ from school?");
     ChMotion(1,4);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040121101_01_030");
-    MsgDisp("Kazama","I was really nervous about it carrying 
-its kid from such a high place.");
+    MsgDisp("Kazama","I was really nervous about it carrying its
+kid from such a high place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

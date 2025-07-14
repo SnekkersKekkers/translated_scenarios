@@ -3,5 +3,6 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("SS0406250_06_000");
-MsgDisp("Himuro","Oh, sorry. Did I bump into you?");
+MsgDisp("Himuro","Oh, sorry.
+Did I bump into you?");
 MsgClose();

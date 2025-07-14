@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040119200_01_000");
     MsgDisp("Kazama","Featuring cat paws that much...
-Well, I do think they were
-decisive in that decision.");
+Well, I do think they were decisive in
+that decision.");
     MsgDispSksp(1,0);
     ChEye(1,0);
     ChMotion(1,0);
@@ -28,8 +28,8 @@ decisive in that decision.");
     ChMotion(1,3);
     VoicePlay("B040119200_01_010");
     MsgDisp("Kazama","I feel the same.
-It was just the every day life of a
-cat. Well, it was well-made.");
+It was just the every day life of a cat.
+Well, it was well-made.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,10 +41,9 @@ cat. Well, it was well-made.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040119200_01_020");
-    MsgDisp("Kazama","Right.
-I wasn't expecting much in the 
-first place, so I guess this is 
-about right.");
+    MsgDisp("Kazama","Right. I wasn't expecting much in the
+first place, so I guess this is about
+right.");
     MsgDispSksp(1,0);
     ChEye(1,0);
     MsgDateResultDisp();

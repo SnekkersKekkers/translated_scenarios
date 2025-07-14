@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040630002_06_010");
-    MsgDisp("Himuro","What are you going
-to do by looking at it?
+    MsgDisp("Himuro","What are you going to do by looking at it?
 ...Well, it's fine.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
@@ -29,8 +28,8 @@ to do by looking at it?
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040630002_06_020");
-    MsgDisp("Himuro","Heeh, you sure are diligent.
-Could you teach me too? Senpai.");
+    MsgDisp("Himuro","Heeh, you sure are diligent. Could you
+teach me too? Senpai.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -86,16 +85,16 @@ Just now was——");
         ChMouth(6,1);
         ChMotion(6,1);
         VoicePlay("B040630002_06_080");
-        MsgDisp("Himuro","You were greatly mistaken to
-think that nothing would happen 
-just because you're going to
-your junior's house.");
+        MsgDisp("Himuro","You were greatly mistaken to think that
+nothing would happen just because you're
+going to your junior's house.");
         ChEye(6,1);
         ChMouth(6,0);
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040630002_06_090");
-        MsgDisp("Himuro","I'm... a man too.");
+        MsgDisp("Himuro","I'm...
+a man too.");
         MsgDisp("主人公","Yeah, that's right.
 Thanks.");
         ChEye(6,0);
@@ -108,10 +107,10 @@ Thanks.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040630002_06_110");
-        MsgDisp("Himuro","Seriously, you throw me
-for a loop so easily.");
-        MsgDisp("主人公","(...?
-｛氷室＊＊｝ seems happy for some reason?)");
+        MsgDisp("Himuro","Seriously, you throw me for a loop so
+easily.");
+        MsgDisp("主人公","(...? ｛氷室＊＊｝ seems happy for some
+reason?)");
         break ;
         default :
         DbgAssert(1);

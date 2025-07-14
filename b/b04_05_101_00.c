@@ -29,7 +29,8 @@ you taught me.");
     ChMotion(5,4);
     VoicePlay("B040510100_05_020");
     MsgDisp("Hiiragi","Come to think of it, I think I see it
-every morning. ...Does it resemble me?");
+every morning.
+...Does it resemble me?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +41,8 @@ every morning. ...Does it resemble me?");
     ChMotion(5,2);
     VoicePlay("B040510100_05_030");
     MsgDisp("Hiiragi","Habataki-style pottery?
-I wonder which part of it 
-is Habataki style...");
+I wonder which part of it is Habataki
+style...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

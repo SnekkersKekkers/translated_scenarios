@@ -13,8 +13,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B080400002_04_000");
 MsgDisp("Nanatsumori","You're welcome.
-Make sure you do your
-skincare properl——");
+Make sure you do your skincare properl——");
 Wait(30,0);
 ChPosition(4,1);
 Wait(60,0);

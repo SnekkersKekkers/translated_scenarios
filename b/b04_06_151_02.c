@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040615102_06_010");
-        MsgDisp("Himuro","Can you stop giving me
-such clumsy consolation?");
+        MsgDisp("Himuro","Can you stop giving me such clumsy
+consolation?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -31,17 +31,16 @@ such clumsy consolation?");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040615102_06_020");
-        MsgDisp("Himuro","Can you stop giving me
-such clumsy consolation?");
+        MsgDisp("Himuro","Can you stop giving me such clumsy
+consolation?");
         MsgDisp("主人公","Ah, sorry.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,5);
         VoicePlay("B040615102_06_030");
         MsgDisp("Himuro","...That's wrong.
-I was taking my anger out on you 
-just now. I'm the one
-who should say sorry.");
+I was taking my anger out on you just now.
+I'm the one who should say sorry.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -55,25 +54,25 @@ either?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040615102_06_050");
-        MsgDisp("Himuro","No, that's impossible. 
+        MsgDisp("Himuro","No, that's impossible.
 I've shown you my uncool side.");
-        MsgDisp("主人公","I want to see all 
-sides of ｛氷室＊＊｝ though?");
+        MsgDisp("主人公","I want to see all sides of ｛氷室＊＊｝
+though?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040615102_06_060");
         MsgDisp("Himuro","...What's with that line?
-Hearing that, I'm the one
-who'll get embarrassed.");
+Hearing that, I'm the one who'll get
+embarrassed.");
         MsgDisp("主人公","It's just my true feelings.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040615102_06_070");
-        MsgDisp("Himuro","I'm happy but, 
-I only want to show you my good side.");
+        MsgDisp("Himuro","I'm happy but, I only want to show you my
+good side.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -86,8 +85,7 @@ I only want to show you my good side.");
         ChMotion(6,1);
         VoicePlay("B040615102_06_090");
         MsgDisp("Himuro","Right, watch carefully now.
-Cause I'm gonna get aim 
-for a strike next.");
+Cause I'm gonna get aim for a strike next.");
         MsgDisp("主人公","Hehe, yeah!");
         break ;
         default :

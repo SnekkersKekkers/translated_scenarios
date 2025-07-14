@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(5,255,4,0,4,#1,#1,0,0);
 VoicePlay("B040502300_05_000");
-MsgDisp("Hiiragi","You can always feel the 
-salty sea breeze here.
+MsgDisp("Hiiragi","You can always feel the salty sea breeze
+here.
 I like it.");
 MsgSel("It's a popular date spot.","Ah, a black-tailed gull!","I also like it.");
 switch (MsgSelRsltGet()){
@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040502300_05_010");
     MsgDisp("Hiiragi","I see.
-So it's a place everyone likes,
-before I voiced my opinion.");
+So it's a place everyone likes, before I
+voiced my opinion.");
     MsgDateResultDisp();
     break ;
     case 1:

@@ -4,16 +4,15 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh?
-｛風真＊＊｝, good morning!
-Were you maybe waiting for me?");
+MsgDisp("主人公","Oh? ｛風真＊＊｝, good morning! Were you
+maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_000");
-MsgDisp("Kazama","Waiting or not, we're going the same
-way, aren't we?");
+MsgDisp("Kazama","Waiting or not, we're going the same way,
+aren't we?");
 MsgDisp("主人公","That's true.
 It really feels like we're back in
 elementary school again.");
@@ -21,9 +20,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_010");
-MsgDisp("Kazama","I guess so. When I look at you, I don't 
-notice anything different. It's like
-you haven't grown at all.");
+MsgDisp("Kazama","I guess so. When I look at you, I don't
+notice anything different. It's like you
+haven't grown at all.");
 MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
 haven't you?");
 ChEye(1,4);
@@ -52,9 +51,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_050");
-MsgDisp("Kazama","Yes, yes, everything's fine.
-It's just business as usual for you
-again today. Let's go.");
+MsgDisp("Kazama","Yes, yes, everything's fine. It's just
+business as usual for you again today.
+Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
@@ -73,8 +72,8 @@ NSSOpen(1,254,6,2,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_181");
-MsgDisp("Kazama","Hey, do you remember what I asked you
-on the day of the entrance ceremony?");
+MsgDisp("Kazama","Hey, do you remember what I asked you on
+the day of the entrance ceremony?");
 MsgDisp("主人公","Hm?");
 NSSEye(1,2);
 NSSMouth(1,2);
@@ -84,9 +83,9 @@ You're way too carefree.");
 NSSEye(1,0);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_200");
-MsgDisp("Kazama","Fine. I'll ask you again.
-It's about that time in first grade,
-when the two of us——");
+MsgDisp("Kazama","Fine. I'll ask you again. It's about that
+time in first grade, when the two of
+us——");
 MsgClose();
 ScrFadeOut(0,0,30);
 NSSClose();
@@ -106,12 +105,10 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_220");
-MsgDisp("Kazama","Hahaha.
-Did you just do that on purpose?
+MsgDisp("Kazama","Hahaha. Did you just do that on purpose?
 ......Yeah, that would make sense.");
-MsgDisp("主人公","Geez.
-There's no way I would just step into
-a puddle on purpose......");
+MsgDisp("主人公","Geez. There's no way I would just step
+into a puddle on purpose......");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -134,9 +131,8 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChCheek(1,5);
 VoicePlay("D020100000_01_250");
-MsgDisp("Kazama","Oy∈
-Don't just lift your legs up like that
-here!");
+MsgDisp("Kazama","Oy∈ Don't just lift your legs up like
+that here!");
 MsgDisp("主人公","Ah, sorry.
 I guess it's rude to do that......");
 ChEye(1,0);
@@ -145,9 +141,9 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,7);
 ChCheek(1,7);
 VoicePlay("D020100000_01_260");
-MsgDisp("Kazama","That's not it! You're wearing a skirt, 
-so when you raise your legs like that 
-you can see things∋");
+MsgDisp("Kazama","That's not it!
+You're wearing a skirt, so when you raise
+your legs like that you can see things∋");
 MsgDisp("主人公","?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -156,8 +152,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 Wait(10,0);
 VoicePlay("D020100000_01_270");
-MsgDisp("Kazama","It's fine, I understand now. 
-I underestimated how much of a natural 
+MsgDisp("Kazama","It's fine, I understand now.
+I underestimated how much of a natural
 airhead you are."); 
 MsgDisp("Kazama","I'll have to keep my eyes on you from now
 until we graduate......");

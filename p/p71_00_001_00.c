@@ -7,13 +7,12 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("P710000100_44_000");
-MsgDisp("Manager","Hello.
-From next week onwards, for two weeks
-we will enter the preparation period
+MsgDisp("Manager","Hello. From next week onwards, for two
+weeks we will enter the preparation period
 for the cultural festival.");
 VoicePlay("P710000100_44_010");
-MsgDisp("Manager","The handicrafts club have 
-decided on doing a fashion show.
+MsgDisp("Manager","The handicrafts club have decided on doing
+a fashion show.
 Please also join us in the preparations.");
 VoicePlay("P710000100_44_020");
 MsgDisp("Manager","Then, get well soon.");

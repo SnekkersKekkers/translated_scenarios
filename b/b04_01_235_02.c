@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(1,255,0,0,0,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123502_01_000");
-MsgDisp("Kazama","Apparently these sorts of places 
-attract spirits don't they?");
+MsgDisp("Kazama","Apparently these sorts of places attract
+spirits don't they?");
 MsgSel("There's a fleeing soldier behind ｛風真＊＊｝...","Then, they wouldn't need staff would they?","Eh, i-is that so...?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123502_01_010");
         MsgDisp("Kazama","Sure, sure.
-Behind you is the spirit of a
-gluttonous women...");
+Behind you is the spirit of a gluttonous
+women...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -33,17 +33,16 @@ gluttonous women...");
         ChMouth(1,2);
         ChMotion(1,3);
         VoicePlay("B040123502_01_020");
-        MsgDisp("Kazama","Is there not anyone else
-but the fallen warrior?");
+        MsgDisp("Kazama","Is there not anyone else but the fallen
+warrior?");
         MsgDisp("主人公","Umm, anyone else?");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123502_01_030");
-        MsgDisp("Kazama","Right.
-Something that I would be
-even more scared of.");
+        MsgDisp("Kazama","Right. Something that I would be even more
+scared of.");
         MsgDisp("主人公","What are you scared of, ｛風真＊＊｝?");
         ChEye(1,0);
         ChMouth(1,0);
@@ -52,9 +51,8 @@ even more scared of.");
         VoicePlay("B040123502_01_040");
         MsgDisp("Kazama","I won't tell you that easily.");
         MsgDisp("主人公","Eh, is there such a thing?
-I thought ｛風真＊＊｝ could do 
-anything, and didn't have anything 
-he was scared of. ");
+I thought ｛風真＊＊｝ could do anything,
+and didn't have anything he was scared of.");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -66,16 +64,17 @@ he was scared of. ");
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123502_01_060");
-        MsgDisp("Kazama","It's not quite being scared, 
-but even I have weaknesses.");
-        MsgDisp("主人公","Is that so? Tell me.");
+        MsgDisp("Kazama","It's not quite being scared, but even I
+have weaknesses.");
+        MsgDisp("主人公","Is that so?
+Tell me.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123502_01_070");
-        MsgDisp("Kazama","Well, since you're super naive, 
-I'll give you a special hint.");
+        MsgDisp("Kazama","Well, since you're super naive, I'll give
+you a special hint.");
         MsgClose();
         SEPlay("EV_SE_544");
         ChClose(1,0,30);
@@ -93,8 +92,8 @@ I can't see anything though.");
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040123502_01_090");
-        MsgDisp("Kazama","There's some fluffy thing 
-peering into them, right?");
+        MsgDisp("Kazama","There's some fluffy thing peering into
+them, right?");
         MsgDisp("主人公","Eh?");
         ChEye(1,4);
         ChMouth(1,3);

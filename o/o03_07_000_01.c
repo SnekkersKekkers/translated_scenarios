@@ -28,8 +28,8 @@ And we were so close......)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("O030700001_07_020");
-    MsgDisp("Mikage","But everyone got pretty loud
-when they saw us, right?");
+    MsgDisp("Mikage","But everyone got pretty loud when they saw
+us, right?");
     MsgDisp("主人公","(Yeah, it'll be a good memory......
 But, I wish we had won.)");
     break ;
@@ -55,8 +55,8 @@ That's why it's so fun.");
     ChMotion(7,0);
     VoicePlay("O030700001_07_050");
     MsgDisp("Mikage","Good work.");
-    MsgDisp("主人公","(We didn't get first place, but,
-I'm glad I went with ｛御影＊＊｝......)");
+    MsgDisp("主人公","(We didn't get first place, but, I'm glad
+I went with ｛御影＊＊｝...... )");
     MsgClose();
     break ;
     default :

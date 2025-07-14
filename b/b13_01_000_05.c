@@ -10,8 +10,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,10);
 ScrFadeIn(0);
 VoicePlay("B130100005_01_000");
-MsgDisp("Kazama","Look, I live alone, you know. When you
-show up dressed like that...");
+MsgDisp("Kazama","Look, I live alone, you know.
+When you show up dressed like that...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

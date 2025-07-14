@@ -8,8 +8,7 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700000_07_000");
-    MsgDisp("Mikage","｛主人公｝.
-Top of the grade.");
+    MsgDisp("Mikage","｛主人公｝. Top of the grade.");
     MsgDisp("主人公","Yes, I did my best!");
     ChEye(7,0);
     ChMouth(7,3);
@@ -35,15 +34,15 @@ I did it!)");
     VoicePlay("N020700000_07_030");
     MsgDisp("Mikage","Well done.
 Thanks to you, I'm in a great mood too.");
-    MsgDisp("主人公","｛御影＊＊｝, it makes me happy that you
-feel that way.");
+    MsgDisp("主人公","｛御影＊＊｝, it makes me happy that
+you feel that way.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("N020700000_07_040");
     MsgDisp("Mikage","Hey, being too good of a student can have
-it's downsides too. Don't push yourself
-too hard.");
+it's downsides too.
+Don't push yourself too hard.");
     MsgDisp("主人公","(｛御影＊＊｝ praised me!
 I'll do my best next time too.)");
     MsgClose();
@@ -56,7 +55,8 @@ I'll do my best next time too.)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700000_07_050");
-    MsgDisp("Mikage","｛主人公｝, look where you're on the list.
+    MsgDisp("Mikage","｛主人公｝, look where you're on the
+list.
 Very cool of you.");
     MsgDisp("主人公","Yes, I did my best!");
     ChEye(7,0);

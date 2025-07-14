@@ -42,9 +42,9 @@ We're first place!");
     ChMouth(5,3);
     ChEyeOpenLevel(5,#1);
     VoicePlay("O030500000_05_030");
-    MsgDisp("Hiiragi","Yes, thank you! I was able to
-experience the joy of running through
-the tape first, thanks to you.");
+    MsgDisp("Hiiragi","Yes, thank you! I was able to experience
+the joy of running through the tape first,
+thanks to you.");
     MsgDisp("主人公","(We did it, first place!
 A victory for both of us!)");
     break ;

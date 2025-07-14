@@ -2,8 +2,8 @@ SEPlay("EV_SE_DOOR_014");
 BGOpen("ar100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Welcome!");
-MsgDisp("主人公","...Alright, coming right up. Okay,
-come this way to your seat.");
+MsgDisp("主人公","...Alright, coming right up.
+Okay, come this way to your seat.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -41,8 +41,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for waiting, here's two
-pancakes and your hot coffee.");
+MsgDisp("主人公","Thank you for waiting, here's two pancakes
+and your hot coffee.");
 SEPlay("EV_SE_001",0,0.5);
 SEWait();
 SEPlay("EV_SE_827",0,0.6);
@@ -54,8 +54,7 @@ ChMotion(4,1);
 MsgDisp("主人公","Huh, was something wrong with it?");
 ChEye(4,2);
 VoicePlay("G110400700_04_040");
-MsgDisp("Nanatsumori","No...
-The hot coffee just burned my
+MsgDisp("Nanatsumori","No... The hot coffee just burned my
 tongue.");
 MsgDisp("主人公","Oh, really?
 Hehe!");

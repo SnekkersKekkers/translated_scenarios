@@ -29,8 +29,8 @@ You look like a figure skater.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040211100_02_020");
-        MsgDisp("Sassa","The gap between your actions
-and what you said is pretty big?");
+        MsgDisp("Sassa","The gap between your actions and what you
+said is pretty big?");
         MsgDateResultDisp();
         }
     break ;
@@ -40,8 +40,8 @@ and what you said is pretty big?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040211100_02_030");
-    MsgDisp("Sassa","If you can do that,
-you'll somewhat manage.");
+    MsgDisp("Sassa","If you can do that, you'll somewhat
+manage.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

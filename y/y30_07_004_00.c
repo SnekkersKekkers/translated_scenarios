@@ -3,8 +3,8 @@ MsgType(3);
 BGOpen("ad740",0);
 ScrFadeIn(0);
 VoicePlay("Y300700400_05_000");
-MsgDisp("Hiiragi","Mikage-sensei, 
-what are your plans for this weekend?");
+MsgDisp("Hiiragi","Mikage-sensei, what are your plans
+for this weekend?");
 MsgDisp("","The student council room after
 school. Yansosuke, who was reporting
 activities onto his laptop, looked up
@@ -46,13 +46,15 @@ Yanosuke was inviting us out. Will
 you go too?\"");
 MsgClear();
 VoicePlay("Y300700400_06_010");
-MsgDisp("Himuro","\"I'll go. After all, I was the one
-who suggested it.\"");
-MsgDisp("","He shows a sulky expression and
-turns his face away.");
+MsgDisp("Himuro","\"I'll go.
+After all, I was the one who
+suggested it.\"");
+MsgDisp("","He shows a sulky expression and turns
+his face away.");
 VoicePlay("Y300700400_07_030");
 MsgDisp("Mikage","\"Oh, so you two decided this
-together? That's nice.\"");
+together?
+That's nice.\"");
 MsgClear();
 MsgDisp("","A theatre troupe chairman scholarship
 student. The other, the nephew of a
@@ -67,8 +69,8 @@ each other and developed a
 friendship.");
 MsgClear();
 VoicePlay("Y300700400_06_020");
-MsgDisp("Himuro","\"Kojiro-sensei, 
-you're smiling more than usual?\"");
+MsgDisp("Himuro","\"Kojiro-sensei, you're smiling more
+than usual?\"");
 VoicePlay("Y300700400_07_040");
 MsgDisp("Mikage","\"That's because you two invited me
 out, of course I'm happy.\"");
@@ -80,35 +82,36 @@ MsgDisp("","Maybe he's opened up considerably.");
 MsgClear();
 BGOpen("ad742",0);
 VoicePlay("Y300700400_07_050");
-MsgDisp("Mikage","\"Then, where should 
-the three of us go?\"");
+MsgDisp("Mikage","\"Then, where should the three of us
+go?\"");
 VoicePlay("Y300700400_05_020");
 MsgDisp("Hiiragi","\"......\"");
 MsgDisp("","When hearing that, there was an odd
-pause. Yanosuke looked at me
-apologetically.");
+pause.
+Yanosuke looked at me apologetically.");
 VoicePlay("Y300700400_05_030");
 MsgDisp("Hiiragi","\"How about...inviting her too?\"");
 MsgClear();
 VoicePlay("Y300700400_07_060");
-MsgDisp("Mikage","\"Sounds good! Let's invite her?\"");
+MsgDisp("Mikage","\"Sounds good!
+Let's invite her?\"");
 MsgDisp("","Seems like I wasn't their target.
 But I'm happy to talk to these two
 like a normal high school boy.");
 VoicePlay("Y300700400_06_030");
-MsgDisp("Himuro","\"Kojiro-sensei,
-you're laughing too much.\"");
-MsgDisp("","Inori glares at me, 
-looking uncomfortable.");
+MsgDisp("Himuro","\"Kojiro-sensei, you're laughing too
+much.\"");
+MsgDisp("","Inori glares at me, looking
+uncomfortable.");
 MsgClear();
 VoicePlay("Y300700400_07_070");
-MsgDisp("Mikage","\"Oi, wait. That doesn't mean I want
-to do the inviting?\"");
+MsgDisp("Mikage","\"Oi, wait.
+That doesn't mean I want to do the
+inviting?\"");
 BGOpen("ad743",0);
 VoicePlay("Y300700400_07_080");
 MsgDisp("Mikage","\"Let's go?\"");
-MsgDisp("","\"First, rockー\"
-\"Rock-paper-scissors\"
+MsgDisp("","\"First, rockー\" \"Rock-paper-scissors\"
 \"Go!\"");
 MsgClear();
 MsgClose();

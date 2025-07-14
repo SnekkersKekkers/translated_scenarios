@@ -6,9 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121202_01_000");
-MsgDisp("Kazama","It's the same at Simon's, there's 
-often a reason for a product 
-being popular.");
+MsgDisp("Kazama","It's the same at Simon's, there's often a
+reason for a product being popular.");
 MsgSel("They even have lion oven gloves","The fox lint roller looks handy!","That sea otter coaster is kinda cute▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040121202_01_010");
     MsgDisp("Kazama","Its main is in the way.
-It looks like it might burn, 
-is that okay?");
+It looks like it might burn, is that okay?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -32,9 +30,8 @@ is that okay?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040121202_01_020");
-    MsgDisp("Kazama","Ahh. Nice. It does seem 
-like it'll be useful.
-How much is it?");
+    MsgDisp("Kazama","Ahh. Nice. It does seem like it'll be
+useful. How much is it?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -65,8 +62,7 @@ That sea otter seems kind of heartless.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040121202_01_040");
-        MsgDisp("Kazama","Really?
-He kinda looks like he'd smash any 
+        MsgDisp("Kazama","Really? He kinda looks like he'd smash any
 cup you put down with his shell.");
         ChEye(1,0);
         ChMouth(1,0);
@@ -81,22 +77,21 @@ It seems kinda cool.");
         ChMotion(1,4);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040121202_01_060");
-        MsgDisp("Kazama","No, don't look too close, actually.
-it's dangerous. Yeah, dangerous.
-That's why you're banned.");
-        MsgDisp("主人公","Hey..
-what do you mean souvenirs are banned?");
+        MsgDisp("Kazama","No, don't look too close, actually. it's
+dangerous. Yeah, dangerous. That's why
+you're banned.");
+        MsgDisp("主人公","Hey.. what do you mean souvenirs are
+banned?");
         ChEye(1,4);
         ChMouth(1,0);
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121202_01_070");
         MsgDisp("Kazama","It's fine.
-This bear eraser is just
-right for you.");
-        MsgDisp("主人公","Come to think of it, 
-That cute bear plush over there, 
-kinda looks like you? ｛風真＊＊｝.");
+This bear eraser is just right for you.");
+        MsgDisp("主人公","Come to think of it, That cute bear plush
+over there, kinda looks like you?
+｛風真＊＊｝.");
         ChEye(1,0);
         ChMouth(1,4);
         ChMotion(1,1);
@@ -113,10 +108,10 @@ well, that's fine.");
         SEWait();
         VoicePlay("B040121202_01_090");
         MsgDisp("Kazama","Excuse me.
-Please let me buy this bear eraser
-and bear plushie over there.");
-        MsgDisp("主人公","(｛風真＊＊｝, is the bear the only
-one that gets special treatment?)");
+Please let me buy this bear eraser and
+bear plushie over there.");
+        MsgDisp("主人公","(｛風真＊＊｝, is the bear the only one
+that gets special treatment?)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);

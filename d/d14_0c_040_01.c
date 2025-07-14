@@ -12,8 +12,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C04001_05_000");
-MsgDisp("Hiiragi","He said he's preparing for 
-his year's assembly.");
+MsgDisp("Hiiragi","He said he's preparing for his year's
+assembly.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -32,15 +32,14 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("D140C04001_05_020");
-MsgDisp("Hiiragi","Hm?
-I cannot let Inori-kun hear 
-what you just said.");
+MsgDisp("Hiiragi","Hm? I cannot let Inori-kun hear what you
+just said.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("D140C04001_07_020");
-MsgDisp("Mikage","Yeah, you said it like you
-don't care either way.");
+MsgDisp("Mikage","Yeah, you said it like you don't care
+either way.");
 MsgDisp("主人公","Eh?
 That's not the case though.");
 ChEye(5,0);
@@ -53,18 +52,19 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C04001_07_030");
-MsgDisp("Mikage","Ohh, you're pressing down
-with the questions.");
+MsgDisp("Mikage","Ohh, you're pressing down with the
+questions.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C04001_05_040");
-MsgDisp("Hiiragi","Do you like him, think he's cute,
-despise him? Stuff like that.");
-MsgDisp("主人公","Hmm... he has a cute side for sure, 
-but there are probably also times
-where I detest him a bit.");
+MsgDisp("Hiiragi","Do you like him, think he's cute, despise
+him?
+Stuff like that.");
+MsgDisp("主人公","Hmm... he has a cute side for sure, but
+there are probably also times where I
+detest him a bit.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -91,23 +91,22 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C04001_07_050");
 MsgDisp("Mikage","｛主人公｝, Yanosuke, Inori...
-I think you're all so diligent
-to the point it's funny.");
+I think you're all so diligent to the
+point it's funny.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C04001_05_070");
-MsgDisp("Hiiragi","I aim to be diligent but... 
-funny? I don't understand.");
+MsgDisp("Hiiragi","I aim to be diligent but... funny? I don't
+understand.");
 MsgDisp("主人公","Yeah.
 I also don't get it.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C04001_07_060");
-MsgDisp("Mikage","Hahaha.
-See, It's funny as 
-soon as you speak.");
+MsgDisp("Mikage","Hahaha. See, It's funny as soon as you
+speak.");
 MsgDisp("主人公","(｛御影＊＊｝ thinks we're funny...)");
 BGMStop();
 MsgClose();

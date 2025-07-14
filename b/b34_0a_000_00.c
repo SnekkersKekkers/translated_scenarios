@@ -26,13 +26,13 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B340A00000_06_000");
-MsgDisp("Himuro","Nozomu-senpai, don't you like 
-it straight up more?");
+MsgDisp("Himuro","Nozomu-senpai, don't you like it straight
+up more?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B340A00000_01_000");
 MsgDisp("Kazama","Well, maybe it's fine once in a while?
-I'll invite you again. 
+I'll invite you again.
 Then, see you all.");
 MsgClose();

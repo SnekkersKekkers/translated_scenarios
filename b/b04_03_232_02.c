@@ -5,8 +5,8 @@ ChOpen(3,255,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323202_03_000");
-MsgDisp("Honda","I'm gradually starting to understand
-the good points of ferris wheels.");
+MsgDisp("Honda","I'm gradually starting to understand the
+good points of ferris wheels.");
 MsgSel("If you look into the distance, it's not scary.","The feeling that you're detaching yourself from the surface feels nice.","We get to take our time to talk, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040323202_03_010");
     MsgDisp("Honda","That's right.
-If you only look at the 
-ground, you'll get dizzy.");
+If you only look at the ground, you'll get
+dizzy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -44,23 +44,22 @@ sort of feeling too?");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040323202_03_030");
-        MsgDisp("Honda","Yep yep, 
-Suddenly being separated from the hustle 
-and bustle is an interesting experience.");
+        MsgDisp("Honda","Yep yep, Suddenly being separated from the
+hustle and bustle is an interesting
+experience.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040323202_03_040");
-        MsgDisp("Honda","...Hm? I see.
-Maybe that strange feeling
+        MsgDisp("Honda","...Hm? I see. Maybe that strange feeling
 was born from that.");
         MsgDisp("主人公","Strange feeling?");
         ChEye(3,0);
         ChMotion(3,1);
         VoicePlay("B040323202_03_050");
-        MsgDisp("Honda","Something like, hey, 
-I'm sitting opposite you in an empty
-space, right? It's like an interview.");
+        MsgDisp("Honda","Something like, hey, I'm sitting opposite
+you in an empty space, right?
+It's like an interview.");
         MsgDisp("主人公","Yeah, it's a bit odd.");
         ChEye(3,4);
         ChMouth(3,3);
@@ -74,8 +73,7 @@ I mean, maybe warm or happy...");
         ChMotion(3,5);
         ChCheek(3,10);
         VoicePlay("B040323202_03_070");
-        MsgDisp("Honda","Huh?
-Could this be, the bittersweet
+        MsgDisp("Honda","Huh? Could this be, the bittersweet
 springtime of youth feeling?");
         SEPlay("EV_SE_GAYA_024",0.5,0.5);
         SEPlay("EV_SE_GAYA_017",1);
@@ -91,8 +89,7 @@ Come!");
         ChClose(3);
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
         SEWait();
-        MsgDisp("主人公","Ehh!
-Wait up, ｛本多＊＊｝ ～!");
+        MsgDisp("主人公","Ehh! Wait up, ｛本多＊＊｝ ～!");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(3,253,0,0,0,#1,#1,0,0);

@@ -27,8 +27,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100901_01_010");
 MsgDisp("Kazama","That's the only time the bell ever rang.
-So when I leave here with you, I
-get the feeling something might happen.");
+So when I leave here with you, I get the
+feeling something might happen.");
 MsgDisp("主人公","Hehe, really?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -38,8 +38,7 @@ MsgDisp("Kazama","I wonder if that's a good thing
 or not?");
 ChMouthOpenLevel(1,0);
 VoicePlay("A010000000_01_021");
-MsgDisp("Ryota","Over here!
-I think I heard it over here!
+MsgDisp("Ryota","Over here! I think I heard it over here!
 Come!");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -63,13 +62,13 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100901_01_060");
 MsgDisp("Kazama","Yeah, I wonder if we can meet the younger
-version of ourselves? Let's go to check it
-out!");
+version of ourselves?
+Let's go to check it out!");
 MsgDisp("主人公","Wait, what?!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("主人公","(How mysterious......
-It really did sound like ｛風真＊＊｝'s 
+It really did sound like ｛風真＊＊｝'s
 voice from a long time ago.)");
 MsgClose();

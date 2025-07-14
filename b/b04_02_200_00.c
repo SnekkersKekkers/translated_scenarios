@@ -29,8 +29,8 @@ Alright, let's go all the way to the top!");
         ChMotion(2,0,1);
         VoicePlay("B040220000_02_020");
         MsgDisp("Sassa","That's no good.
-If you don't push yourself,
-you won't get better.");
+If you don't push yourself, you won't get
+better.");
         MsgDateResultDisp();
         }
     break ;
@@ -53,8 +53,8 @@ just a bit more.");
     ChMotion(2,3);
     VoicePlay("B040220000_02_040");
     MsgDisp("Sassa","Is that so.
-First of all, let's learn
-how to fall without injury.");
+First of all, let's learn how to fall
+without injury.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

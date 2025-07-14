@@ -24,15 +24,15 @@ But it was a good game.");
     ChMotion(6,0);
     VoicePlay("H4A0600001_06_020");
     MsgDisp("Himuro","Even now, you're a top athlete.
-I think you should be proud for making
-it onto this stage.");
+I think you should be proud for making it
+onto this stage.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H4A0600001_06_030");
     MsgDisp("Himuro","Good work these past three years.");
-    MsgDisp("主人公","(I lost, but I'm glad I stayed
-in the rhythmic gymnastics club.)");
+    MsgDisp("主人公","(I lost, but I'm glad I stayed in the
+rhythmic gymnastics club.)");
     break ;
     case 4:
     case 5:
@@ -42,8 +42,8 @@ in the rhythmic gymnastics club.)");
     ScrFadeIn(0);
     VoicePlay("H4A0600001_06_040");
     MsgDisp("Himuro","Good job.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝......
-Sorry you came all this way.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝...... Sorry you came all
+this way.");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -55,9 +55,8 @@ What are you apologizing?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H4A0600001_06_060");
-    MsgDisp("Himuro","If you say something like it's
-because you didn't win, that's just
-nonsense.");
+    MsgDisp("Himuro","If you say something like it's because you
+didn't win, that's just nonsense.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -73,8 +72,8 @@ beautiful.");
     VoicePlay("H4A0600001_06_080");
     MsgDisp("Himuro","You showed me something nice.
 Rest well today.");
-    MsgDisp("主人公","(I lost, but I'm glad I stayed
-in the rhythmic gymnastics club.)");
+    MsgDisp("主人公","(I lost, but I'm glad I stayed in the
+rhythmic gymnastics club.)");
     break ;
     default :
     DbgAssert(1);

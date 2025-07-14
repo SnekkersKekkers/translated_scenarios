@@ -2,8 +2,7 @@ MsgClose();
 ChClose(1,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-｛風真＊＊｝ isn't here yet?");
+MsgDisp("主人公","Huh? ｛風真＊＊｝ isn't here yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -31,9 +30,9 @@ MsgDisp("主人公","???");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110100001_34_030");
-MsgDisp("Guy","Well, quickly. From reality to the sea of
-the virtual world, let's goo and surf the
-net.");
+MsgDisp("Guy","Well, quickly.
+From reality to the sea of the virtual
+world, let's goo and surf the net.");
 MsgDisp("主人公","Ehh∋
 Hey, what are you talking about!");
 ChPosition(34,2);
@@ -76,8 +75,8 @@ VoicePlay("B110100001_01_020");
 MsgDisp("Kazama","Wait a minute!");
 MsgDispSksp(0);
 VoicePlay("B110100001_34_060");
-MsgDisp("Guy","Nope!
-I'm returning to the sea of the internet!");
+MsgDisp("Guy","Nope! I'm returning to the sea of the
+internet!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -96,7 +95,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B110100001_01_050");
 MsgDisp("Kazama","Sorry, this was because I was late.
-But you now, Habataki City
-has a lot of weird stuff?");
+But you now, Habataki City has a lot of
+weird stuff?");
 MsgDisp("主人公","T-That might be true...
 Shall we go now...");

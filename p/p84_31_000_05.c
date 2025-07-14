@@ -18,10 +18,10 @@ ChMouth(31,4);
 ChMotion(31,2);
 ChEyeOpenLevel(31,0);
 VoicePlay("P843100005_31_020");
-MsgDisp("Goro","It's okay because I had asked 
-you to do the impossible. But if you had
-other work to do, I wanted you to 
-at least say it beforehand.");
+MsgDisp("Goro","It's okay because I had asked you to do
+the impossible. But if you had other work
+to do, I wanted you to at least say it
+beforehand.");
 MsgDisp("主人公","I'm sorry...");
 ChEye(31,1);
 ChMouth(31,1);
@@ -32,8 +32,8 @@ Ah, adieu...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Goro-sensei seems like he's in
-pain... I even made him accompany me on my
+MsgDisp("主人公","(Goro-sensei seems like he's in pain... I
+even made him accompany me on my
 errands... That was a huge fail.)");
 MsgClose();
 ScrFadeOut(0);

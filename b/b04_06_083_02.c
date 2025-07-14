@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,3);
     VoicePlay("B040608302_06_010");
     MsgDisp("Himuro","The definition of global warming is vague
-but, This climate is subtropical. Maybe
-the climate is changing.");
+but, This climate is subtropical.
+Maybe the climate is changing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,8 @@ I don't want to see you exhausted.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608302_06_030");
-        MsgDisp("Himuro","It's gonna be painful if 
-you get too carried away.");
+        MsgDisp("Himuro","It's gonna be painful if you get too
+carried away.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -84,8 +84,8 @@ You'd better hydrate properly.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040608302_06_070");
-        MsgDisp("Himuro","That's right, loosen the 
-clothes around your neck.");
+        MsgDisp("Himuro","That's right, loosen the clothes around
+your neck.");
         MsgDisp("主人公","Yeah...Eh?");
         ChEye(6,0);
         ChMouth(6,0);

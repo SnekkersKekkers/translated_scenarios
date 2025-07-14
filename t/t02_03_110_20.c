@@ -34,8 +34,8 @@ Wait(120,0);
 StlOpen("ev_03_18");
 ScrFadeIn(0);
 VoicePlay("T020311000_03_190");
-MsgDisp("Honda","I found you, the one I love, from now 
-on I'll always be by your side.");
+MsgDisp("Honda","I found you, the one I love, from now on
+I'll always be by your side.");
 VoicePlay("T020311000_03_200");
 MsgDisp("Honda","This is important, so I'll say it again
 and again.");

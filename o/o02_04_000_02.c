@@ -34,24 +34,24 @@ And we were so close......)");
     ChOpen(4,30,0,2,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400002_04_020");
-    MsgDisp("Nanatsumori","Close.
-It looked like you were almost there.");
+    MsgDisp("Nanatsumori","Close. It looked like you were almost
+there.");
     MsgDisp("主人公","It's a real shame......");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("O020400002_04_030");
     MsgDisp("Nanatsumori","Guess so.
-But I wanted to see you red in the face
-a little more.");
+But I wanted to see you red in the face a
+little more.");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("O020400002_04_040");
     MsgDisp("Nanatsumori","Well, it's good you weren't hurt.
 Good work.");
-    MsgDisp("主人公","(Hm, but I wanted to show
-｛七ツ森＊｝ a win.)");
+    MsgDisp("主人公","(Hm, but I wanted to show ｛七ツ森＊｝
+a win.)");
     break ;
     default :
     DbgAssert(1);

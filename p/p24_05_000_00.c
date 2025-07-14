@@ -20,16 +20,16 @@ ChEye(5,2);
 ChMouth(5,0);
 ChMotion(5,2);
 VoicePlay("P240500000_05_000");
-MsgDisp("Hiiragi","Tonight is the last time
-I will meet you like this.");
+MsgDisp("Hiiragi","Tonight is the last time I will meet you
+like this.");
 MsgDisp("主人公","...Why is that?");
 ChEye(5,2);
 ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240500000_05_010");
-MsgDisp("Hiiragi","There are many in the castle who 
-do not think favourably of me.");
+MsgDisp("Hiiragi","There are many in the castle who do not
+think favourably of me.");
 MsgDisp("主人公","But you...
 Aren't you the castle lord?");
 ChEye(5,1);
@@ -45,8 +45,8 @@ ChMouth(5,0);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240500000_05_030");
-MsgDisp("Hiiragi","However, 
-My governance is the flames of my ideals.
+MsgDisp("Hiiragi","However, My governance is the flames of my
+ideals.
 I cannot let it be extinguished.");
 SEPlay("EV_SE_736",0.2,0.7);
 VoicePlay("P240500000_40_010");
@@ -54,8 +54,8 @@ MsgDisp("Male Student A","Wow that's impressive...");
 VoicePlay("P240500000_48_000");
 MsgDisp("School Girl A","Yes, it's wonderful...");
 SEStop("EV_SE_736",2);
-MsgDisp("主人公","The lord's heart has reached
-the people of the town.");
+MsgDisp("主人公","The lord's heart has reached the people of
+the town.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -66,8 +66,8 @@ ChMouth(5,0);
 ChMotion(5,5);
 VoicePlay("P240500000_05_050");
 MsgDisp("Hiiragi","And that is why I cannot get you involved.
-There are people who seek a reason 
-to take down this figurehead.");
+There are people who seek a reason to take
+down this figurehead.");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,0);
@@ -81,8 +81,8 @@ StlEye(5,0);
 StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("P240500000_05_070");
-MsgDisp("Hiiragi","Now, 
-there are horses and attendants ahead.");
+MsgDisp("Hiiragi","Now, there are horses and attendants
+ahead.");
 MsgDisp("主人公","My lord...");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("P240500000_05_080");
@@ -91,8 +91,9 @@ MsgDisp("主人公","This...?");
 StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("P240500000_05_090");
-MsgDisp("Hiiragi","It is a sword that has been with me 
-since my infancy. It is a part of myself.");
+MsgDisp("Hiiragi","It is a sword that has been with me since
+my infancy.
+It is a part of myself.");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("P240500000_05_100");
 MsgDisp("Hiiragi","It will protect and guide you.
@@ -134,8 +135,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("P240500000_05_120");
-MsgDisp("Hiiragi","I was unaware of it 
-when I wrote this script.");
+MsgDisp("Hiiragi","I was unaware of it when I wrote this
+script.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -159,7 +160,8 @@ ChMouth(5,2);
 ChMotion(5,5);
 ChCheek(5,5);
 VoicePlay("P240500000_42_030");
-MsgDisp("Male Student B","That was great, huh. So moving!");
+MsgDisp("Male Student B","That was great, huh.
+So moving!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -180,8 +182,7 @@ ChMotion(5,3);
 Wait(22,1);
 VoiceEVSPlay(5);
 VoicePlay("P240500000_05_160");
-MsgDisp("Hiiragi","｛主人公｝, everyone, 
-thank you.");
+MsgDisp("Hiiragi","｛主人公｝, everyone, thank you.");
 SEPlay("EV_SE_752");
 Wait(50,0);
 MsgDisp("主人公","(｛柊＊＊＊｝...I'm glad.)");

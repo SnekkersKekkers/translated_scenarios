@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040503101_05_010");
-    MsgDisp("Hiiragi","I wonder why the south sea
-is this colourful.");
+    MsgDisp("Hiiragi","I wonder why the south sea is this
+colourful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

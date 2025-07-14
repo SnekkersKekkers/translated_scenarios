@@ -35,7 +35,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C10600_06_000");
-MsgDisp("Himuro","...If Yanosuke-senpai is appraising it, 
+MsgDisp("Himuro","...If Yanosuke-senpai is appraising it,
 Maybe my perspective is off....?");
 ChEye(5,3);
 ChMouth(5,2);
@@ -44,13 +44,13 @@ ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("B330C10600_07_000");
 MsgDisp("Mikage","What's wrong, Inori?
-This isn't a movie that should 
-make you think that hard.");
+This isn't a movie that should make you
+think that hard.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("B330C10600_06_010");
-MsgDisp("Himuro","Yeah, it was a very happy-go-lucky, 
+MsgDisp("Himuro","Yeah, it was a very happy-go-lucky,
 stressful movie.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -60,8 +60,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10600_07_010");
-MsgDisp("Mikage","Even when watching the movie, 
-our impressions can differ this much.");
+MsgDisp("Mikage","Even when watching the movie, our
+impressions can differ this much.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -73,20 +73,20 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C10600_07_020");
 MsgDisp("Mikage","I see.
-I think I was watching it from
-the boy's parents perspective.");
+I think I was watching it from the boy's
+parents perspective.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10600_05_020");
-MsgDisp("Hiiragi","Did you and Inori-kun watch it as if
-you were the protagonist boy?");
+MsgDisp("Hiiragi","Did you and Inori-kun watch it as if you
+were the protagonist boy?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C10600_06_020");
-MsgDisp("Himuro","Yes, I was anxious since I
-didn't understand his values.");
+MsgDisp("Himuro","Yes, I was anxious since I didn't
+understand his values.");
 MsgDisp("主人公","My heart was pounding a lot.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -100,19 +100,17 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10600_07_030");
-MsgDisp("Mikage","As expected of Yanosuke.
-So that's what it means someone says
-\"It's a movie you can watch
-over and over again.\"");
+MsgDisp("Mikage","As expected of Yanosuke. So that's what it
+means someone says \"It's a movie you can
+watch over and over again.\"");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C10600_06_030");
-MsgDisp("Himuro","Sorry.
-Shall we watch it again,
-in the next viewing?");
-MsgDisp("主人公","Yeah, I also want to see it 
-from a different perspective.");
+MsgDisp("Himuro","Sorry. Shall we watch it again, in the
+next viewing?");
+MsgDisp("主人公","Yeah, I also want to see it from a
+different perspective.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -124,9 +122,8 @@ ChMotion(5,4);
 VoicePlay("B330C10600_05_040");
 MsgDisp("Hiiragi","Yes, I'm looking forward to hearing
 everyone's thoughts on the second viewing.");
-MsgDisp("主人公","(This might be the first time 
-I've ever watched the same
-movie twice in a row?)");
+MsgDisp("主人公","(This might be the first time I've ever
+watched the same movie twice in a row?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(5,0);

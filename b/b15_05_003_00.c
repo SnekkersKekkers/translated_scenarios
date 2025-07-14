@@ -26,14 +26,14 @@ ChEyeOpenLevel(5,9);
 ChCheek(5,7);
 VoicePlay("B150500300_05_040");
 MsgDisp("Hiiragi","T-Therefore.
-It is troubling because
-you're a charming woman.");
+It is troubling because you're a charming
+woman.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,0);
 VoicePlay("B150500300_05_050");
-MsgDisp("Hiiragi","Haa... understand?
-The me you know is only one part.");
+MsgDisp("Hiiragi","Haa... understand? The me you know is only
+one part.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500300_05_060");
@@ -44,8 +44,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B150500300_05_070");
-MsgDisp("Hiiragi","I'm happy with our relationship 
-the way it is now.
+MsgDisp("Hiiragi","I'm happy with our relationship the way it
+is now.
 You understand that right?");
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500300_05_080");

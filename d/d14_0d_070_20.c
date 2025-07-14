@@ -3,8 +3,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("D140D07020_22_000");
-MsgDisp("Hikaru","Aren't you a bit curious about
-Sassa's hairband?");
+MsgDisp("Hikaru","Aren't you a bit curious about Sassa's
+hairband?");
 MsgDisp("主人公","Curious?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -30,8 +30,8 @@ ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("D140D07020_21_020");
 MsgDisp("Michiru","Eh?");
-MsgDisp("主人公","The best part? So is 
-there another reason?");
+MsgDisp("主人公","The best part?
+So is there another reason?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
@@ -47,10 +47,9 @@ VoicePlay("D140D07020_22_030");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
-MsgDisp("Hikaru","According to Hikaru's sources, 
-it's said that it was a precious
-gift from his Father, who 
-used to be an athlete.");
+MsgDisp("Hikaru","According to Hikaru's sources, it's said
+that it was a precious gift from his
+Father, who used to be an athlete.");
 VoicePlay("D140D07020_21_040");
 ChEye(21,4);
 ChMouth(21,3);
@@ -58,7 +57,8 @@ ChMotion(21,3);
 MsgDisp("Michiru","What a wonderful rumour.
 Right, Mari?");
 MsgDisp("主人公","(｛颯砂＊＊｝'s father was also an
-athlete... that makes a lot of sense.)");
+athlete...
+that makes a lot of sense.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

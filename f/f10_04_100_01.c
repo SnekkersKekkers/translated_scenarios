@@ -12,9 +12,8 @@ MsgDisp("Nanatsumori","So it's you.");
 MsgDisp("主人公","Do you have class duties today?");
 ChMotion(4,1,1);
 VoicePlay("F100410001_04_010");
-MsgDisp("Nanatsumori","Right.
-Once I deliver the log to the 
-staff room, I'll be finished.");
+MsgDisp("Nanatsumori","Right. Once I deliver the log to the staff
+room, I'll be finished.");
 MsgDisp("主人公","Hehe, thank you 
 for your hard work.");
 ChMotion(4,0,1);
@@ -58,8 +57,8 @@ MsgDisp("主人公","Phew...");
 SEPlay("EV_SE_643");
 MsgDisp("","(*Thud*)");
 VoicePlay("F100410001_04_060");
-MsgDisp("Nanatsumori","Geez...
-You don't have to drop something too.");
+MsgDisp("Nanatsumori","Geez... You don't have to drop something
+too.");
 MsgDisp("主人公","(I also dropped the log∋)");
 MsgClose();
 ScrFadeOut(0,0);

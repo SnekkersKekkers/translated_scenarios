@@ -26,15 +26,14 @@ Is this a date?)");
 Where do you want me to meet you?");
         MsgDisp("主人公","How about we meet at ｛待ち合わせ場所｝?");
         VoicePlay("J060101000_01_030");
-        MsgDisp("Kazama","OK.
-Well, we can be wherever we are.
-I can see you anywhere, right?");
-        MsgDisp("主人公","Hmmm.
-You have to be at the meeting point.
+        MsgDisp("Kazama","OK. Well, we can be wherever we are. I can
+see you anywhere, right?");
+        MsgDisp("主人公","Hmmm. You have to be at the meeting point.
 Get it?");
         VoicePlay("J060101000_01_040");
         MsgDisp("Kazama","Yes, it's better to see each other right
-away. It's a date, after all.");
+away.
+It's a date, after all.");
         VoicePlay("J060101000_01_050");
         MsgDisp("Kazama","Then I'll look forward to it.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -77,19 +76,19 @@ I'm sorry I did that. ......)");
         MsgDisp("主人公","Um, ...... sorry?
 Just ......");
         VoicePlay("J060101000_01_100");
-        MsgDisp("Kazama","It's fine. Even though it's not good.");
+        MsgDisp("Kazama","It's fine.
+Even though it's not good.");
         VoicePlay("J060101000_01_110");
         MsgDisp("Kazama","I'll make sure I have a plan next time.");
         MsgDisp("主人公","Uh-huh.
 See you later?");
         VoicePlay("J060101000_01_120");
-        MsgDisp("Kazama","If we can be together,
-It doesn't matter where you are.......");
+        MsgDisp("Kazama","If we can be together, It doesn't matter
+where you are.......");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hmmm ......
-You went to the trouble of inviting me,
-I'm sorry I did that. ......)");
+        MsgDisp("主人公","(Hmmm ...... You went to the trouble of
+inviting me, I'm sorry I did that. ......)");
         break ;
         default :
         DbgAssert(1);

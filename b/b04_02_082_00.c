@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040208200_02_000");
-MsgDisp("Sassa","The perimeter of the pond is a good 
-course to take a walk.
+MsgDisp("Sassa","The perimeter of the pond is a good course
+to take a walk.
 Especially at this time of year.");
 MsgSel("Yes, lovely flowers are blooming too","The doggies seem happy too","Does this make you want to run?");
 switch (MsgSelRsltGet()){
@@ -28,9 +28,8 @@ There's also some growing wildly.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040208200_02_020");
-    MsgDisp("Sassa","Yeah, they'll be happy, but 
-it's a lot of work to bring 
-them all the way here.");
+    MsgDisp("Sassa","Yeah, they'll be happy, but it's a lot of
+work to bring them all the way here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

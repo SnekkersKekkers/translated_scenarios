@@ -12,8 +12,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402107_04_010");
-MsgDisp("Nanatsumori","Yeah.
-It looks straight out of a picture book.
-I mean, I think it's cute.");
-MsgDisp("主人公","(Awesome!
-｛七ツ森＊｝ seems to have liked it!)");
+MsgDisp("Nanatsumori","Yeah. It looks straight out of a picture
+book. I mean, I think it's cute.");
+MsgDisp("主人公","(Awesome! ｛七ツ森＊｝ seems to have
+liked it!)");

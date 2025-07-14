@@ -32,8 +32,8 @@ Let's go.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B030421002_04_020");
-    MsgDisp("Nanatsumori","Today's optimal route is, here.
-... Well, let's get a move on.");
+    MsgDisp("Nanatsumori","Today's optimal route is, here. ... Well,
+let's get a move on.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Yeah!");
     MsgDispSksp(0);

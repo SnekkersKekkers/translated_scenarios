@@ -19,7 +19,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B080600002_06_030");
-MsgDisp("Himuro","I'm going home. See you.");
+MsgDisp("Himuro","I'm going home.
+See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);

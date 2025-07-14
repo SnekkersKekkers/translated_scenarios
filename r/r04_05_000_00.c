@@ -10,8 +10,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("R040500000_05_000");
     MsgDisp("Hiiragi","Good evening.
 Glad you're here.");
-    MsgDisp("主人公","Yeah.
-Merry Christmas, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Yeah. Merry Christmas, ｛柊＊＊＊｝.");
     break ;
     case 3:
     MsgClose();
@@ -19,8 +18,7 @@ Merry Christmas, ｛柊＊＊＊｝.");
     VoiceEVSPlay(5);
     VoicePlay("R040500000_05_010");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-Merry Christmas!");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Merry Christmas!");
     VoicePlay("R040500000_05_020");
     MsgDisp("Hiiragi","Merry Christmas.");
     break ;
@@ -30,15 +28,14 @@ Merry Christmas!");
     MsgDisp("Hiiragi?","At last.");
     MsgClose();
     ChOpen(5,34,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-Merry Christmas!");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Merry Christmas!");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,3);
     VoicePlay("R040500000_05_040");
     MsgDisp("Hiiragi","Merry Christmas.
-I've been here for a long time
-waiting for you...");
+I've been here for a long time waiting for
+you...");
     break ;
     default :
     DbgAssert(1);

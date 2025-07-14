@@ -39,9 +39,8 @@ This smell isn't ramen, right∋");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("R040300002_03_020");
-    MsgDisp("Honda","Sorry! I'm interested in this
-castle ramen right now.
-I'm gonna go!");
+    MsgDisp("Honda","Sorry! I'm interested in this castle ramen
+right now. I'm gonna go!");
     MsgDisp("主人公","Sure.
 Okay then, see you later.");
     break ;
@@ -56,15 +55,14 @@ Okay then, see you later.");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("R040300002_03_030");
-    MsgDisp("Honda","Hey!
-Don't make noise in a place like this!
-Bad belly!");
+    MsgDisp("Honda","Hey! Don't make noise in a place like
+this! Bad belly!");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("R040300002_03_040");
-    MsgDisp("Honda","Whew, even princes get hungry,
-so I'm gonna eat a feast!");
+    MsgDisp("Honda","Whew, even princes get hungry, so I'm
+gonna eat a feast!");
     MsgDisp("主人公","Hehe!
 See you later then.");
     break ;

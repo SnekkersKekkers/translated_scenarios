@@ -13,8 +13,8 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402101_04_010");
 MsgDisp("Nanatsumori","Oh, that's a good bashful look.
-That sort of expression
-fits today's look well.");
+That sort of expression fits today's look
+well.");
 MsgDisp("主人公","(So embarrassing...
 But he seemed to like it.
 I'm glad!)");

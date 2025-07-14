@@ -38,8 +38,8 @@ Let's hold hands next time.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040723500_07_030");
-    MsgDisp("Mikage","What are you saying; whilst
-you're trembling like that?");
+    MsgDisp("Mikage","What are you saying; whilst you're
+trembling like that?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

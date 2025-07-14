@@ -1,8 +1,7 @@
-MsgDisp("","After graduating, I went on
-to the same vocational school as
-｛七ツ森＊｝.");
-MsgDisp("","｛風真＊＊｝ and ｛本多＊＊｝
-went to first rate universities.");
+MsgDisp("","After graduating, I went on to the same
+vocational school as ｛七ツ森＊｝.");
+MsgDisp("","｛風真＊＊｝ and ｛本多＊＊｝ went to first
+rate universities.");
 MsgClear();
 MsgDisp("","｛風真＊＊｝ and ｛本多＊＊｝ are studying
 hard at top universities towards their

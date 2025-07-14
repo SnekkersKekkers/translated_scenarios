@@ -9,16 +9,15 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360417000_04_000");
-MsgDisp("Nanatsumori","Well.
-what are you gonna sing?
-You can go first.");
+MsgDisp("Nanatsumori","Well. what are you gonna sing? You can go
+first.");
 MsgDisp("主人公","We can start from ｛七ツ森＊｝.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B360417000_04_010");
-MsgDisp("Nanatsumori","I'm gonna flip the switch after
-I've seen your performance.");
+MsgDisp("Nanatsumori","I'm gonna flip the switch after I've seen
+your performance.");
 MsgDisp("主人公","Hmm...
 What should I do...");
 ChEye(4,4);
@@ -46,9 +45,8 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B360417000_04_050");
-MsgDisp("Nanatsumori","It's risky for me when it's just 
-the two of us in a dimly lit room 
-together.");
+MsgDisp("Nanatsumori","It's risky for me when it's just the two
+of us in a dimly lit room together.");
 MsgDisp("主人公","Do you not remember the song?
 I'll look it up for you.
 The opening lyrics——");

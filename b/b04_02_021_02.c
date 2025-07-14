@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,4,1);
         VoicePlay("B040202102_02_010");
-        MsgDisp("Sassa","Really?
-I think it's nice that they're handmade.");
+        MsgDisp("Sassa","Really? I think it's nice that they're
+handmade.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -30,25 +30,25 @@ I think it's nice that they're handmade.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040202102_02_020");
-        MsgDisp("Sassa","I guess. The look of being
-perfectly aligned and the look of
-everything clashing, both are good.");
+        MsgDisp("Sassa","I guess. The look of being perfectly
+aligned and the look of everything
+clashing, both are good.");
         MsgDisp("主人公","Yeah, that's true.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040202102_02_030");
-        MsgDisp("Sassa","Even so, if you look closely,
-every single one of them is different.");
+        MsgDisp("Sassa","Even so, if you look closely, every single
+one of them is different.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040202102_02_040");
-        MsgDisp("Sassa","Even though they differ in
-color and shape, they are spread out
-evenly and create a sense of unity.");
-        MsgDisp("主人公","That big brick looks kind of
-like ｛颯砂＊＊｝.");
+        MsgDisp("Sassa","Even though they differ in color and
+shape, they are spread out evenly and
+create a sense of unity.");
+        MsgDisp("主人公","That big brick looks kind of like
+｛颯砂＊＊｝.");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,3);
@@ -69,25 +69,24 @@ is you then......");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040202102_02_070");
-        MsgDisp("Sassa","Try not to step on bricks
-like those.
+        MsgDisp("Sassa","Try not to step on bricks like those.
 Come, let's go.");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,3);
         ChCheek(2,0);
         VoicePlay("B040202102_02_080");
-        MsgDisp("Sassa","Ah, that brick there looks
-like Vice Principal Himuro, doesn't it?");
+        MsgDisp("Sassa","Ah, that brick there looks like Vice
+Principal Himuro, doesn't it?");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,4);
         ChEyeOpenLevel(2,0);
         VoicePlay("B040202102_02_090");
-        MsgDisp("Sassa","And that one, with the weird
-haircut. It's Mikage-sensei!");
-        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ looks
-like he's enjoying himself.)");
+        MsgDisp("Sassa","And that one, with the weird haircut.
+It's Mikage-sensei!");
+        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ looks like he's
+enjoying himself.)");
         break ;
         default :
         DbgAssert(1);

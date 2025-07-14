@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040505101_05_000");
 MsgDisp("Hiiragi","How was today's starry sky?");
-MsgSel("It was beautiful!","It's no match for the real thing.","I was only looking at｛柊＊＊＊｝▼");
+MsgSel("It was beautiful!","It's no match for the real thing.","I was only looking at ｛柊＊＊＊｝▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -35,8 +35,8 @@ I guess that's how it is.");
     ChMotion(5,4);
     VoicePlay("B040505101_05_030");
     MsgDisp("Hiiragi","Yes, I noticed.
-Then, please let me hear the
-reasoning as to why that is.");
+Then, please let me hear the reasoning as
+to why that is.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

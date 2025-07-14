@@ -2,9 +2,9 @@ MsgDisp("","｛風真＊＊｝ is going on to a top
 university. He is also genuinely helping
 out his grandfather with his work.");
 MsgClear();
-MsgDisp("","｛風真＊＊｝ is waiting for me on that hill
-every morning. The other day he said to
-me, \"If we were married and lived
+MsgDisp("","｛風真＊＊｝ is waiting for me on that
+hill every morning. The other day he said
+to me, \"If we were married and lived
 together, we wouldn't have to meet up.\"");
 MsgDisp("","But it was ｛風真＊＊｝ who said we should
 have a ceremony in front of our families

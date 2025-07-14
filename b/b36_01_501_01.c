@@ -18,13 +18,12 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B360150101_01_010");
-MsgDisp("Kazama","Look, that mountain looked
-really big back in the day right?");
+MsgDisp("Kazama","Look, that mountain looked really big back
+in the day right?");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Are you talking about 
-that play mound? Has it really
-been there that long...?");
+MsgDisp("主人公","Are you talking about that play mound?
+Has it really been there that long...?");
 ChMotion(1,2);
 Wait(8,0);
 ChEye(1,2);
@@ -32,11 +31,10 @@ ChMouth(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360150101_01_020");
 MsgDisp("Kazama","It has?
-There was definitely a hole on the 
-back where we went in and 
-talked about stuff.");
-MsgDisp("主人公","｛風真＊＊｝, amazing!
-Your memory is really good.");
+There was definitely a hole on the back
+where we went in and talked about stuff.");
+MsgDisp("主人公","｛風真＊＊｝, amazing! Your memory is
+really good.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,2);
@@ -72,21 +70,19 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("B360150101_01_060");
-MsgDisp("Kazama","Did we go into one of those
-holesand talk, or was my
-memory wrong to begin with?");
+MsgDisp("Kazama","Did we go into one of those holesand talk,
+or was my memory wrong to begin with?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360150101_01_070");
-MsgDisp("Kazama","I can't be making fun 
-of you like this, can I?");
+MsgDisp("Kazama","I can't be making fun of you like this,
+can I?");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe.");
-MsgDisp("主人公","(It's like searching for
-memories with ｛風真＊＊｝,
-It's kind of fun.)");
+MsgDisp("主人公","(It's like searching for memories with
+｛風真＊＊｝, It's kind of fun.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

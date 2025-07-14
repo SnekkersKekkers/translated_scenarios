@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020710303_07_000");
-MsgDisp("Mikage","Do you ever get approached by
-strange characters like today?");
+MsgDisp("Mikage","Do you ever get approached by strange
+characters like today?");
 MsgDisp("主人公","Sometimes, but not often......");
 ChEye(7,2);
 ChMouth(7,0);
@@ -20,8 +20,7 @@ VoicePlay("G020710303_07_020");
 MsgDisp("Mikage","But today's guy didn't have much sense,
 did he? If it were me, I'd do it a bit
 more elegantly.");
-MsgDisp("主人公","Eh......ehh∈
-｛御影＊＊｝ too? 
+MsgDisp("主人公","Eh......ehh∈ ｛御影＊＊｝ too?
 Are you saying you do that kind of thing∋");
 ChEye(7,4);
 ChMouth(7,0);
@@ -36,19 +35,18 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710303_07_040");
 MsgDisp("Mikage","Ah, sorry about that.");
-MsgDisp("主人公","Ah......
-I said that even though you helped me, 
-I'm sorry.");
+MsgDisp("主人公","Ah...... I said that even though you
+helped me, I'm sorry.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710303_07_050");
 MsgDisp("Mikage","It's my fault for being late.
-But anyways, It seems 
-I saw a new side to you just now.");
+But anyways, It seems I saw a new side to
+you just now.");
 MsgDisp("主人公","(Maybe it's because of this place......
-I spoke to ｛御影＊＊｝
-in a way I normally wouldn't......)");
+I spoke to ｛御影＊＊｝ in a way I
+normally wouldn't......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -11,8 +11,7 @@ ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("G110400702_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Welcome!");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(4);
@@ -28,8 +27,8 @@ ScrFadeIn(0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G110400702_04_010");
 MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","(｛七ツ森＊｝ is intensely looking at his
-phone.)");
+MsgDisp("主人公","(｛七ツ森＊｝ is intensely looking at
+his phone.)");
 MsgDisp("主人公","(I wonder what he's looking at...)");
 while (1){
     RunEverydaySksp(4,0,1,1,0,0);
@@ -56,15 +55,13 @@ ChMouth(4,0);
 ChMotion(4,0);
 MsgDisp("Nanatsumori","It's no use.
 It's fine.");
-MsgDisp("主人公","Yeah.
-Especially since you're a model,
+MsgDisp("主人公","Yeah. Especially since you're a model,
 you're always sparkling.");
 VoicePlay("G110400702_04_060");
 ChEye(4,1);
 ChMouth(4,1);
 MsgDisp("Nanatsumori","Don't take it so seriously...");
-MsgDisp("主人公","Really?
-｛七ツ森＊｝, you're so cool.");
+MsgDisp("主人公","Really? ｛七ツ森＊｝, you're so cool.");
 VoicePlay("G110400702_04_070");
 ChMouthOpenLevel(4,0);
 ChCheek(4,8);
@@ -72,8 +69,9 @@ MsgDisp("Nanatsumori","............");
 VoicePlay("G110400702_04_080");
 ChMotion(4,1);
 ChMouthOpenLevel(4,#1);
-MsgDisp("Nanatsumori","It's no use. I've already had three
-cup of coffees, I can't have another.");
+MsgDisp("Nanatsumori","It's no use.
+I've already had three cup of coffees, I
+can't have another.");
 MsgDisp("主人公","(I guess I shouldn't have said
 anything.)");
 BGMStop();

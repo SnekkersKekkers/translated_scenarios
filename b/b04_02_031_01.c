@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040203101_02_000");
-MsgDisp("Sassa","For us land creatures, this place is
-like a completely different world.");
+MsgDisp("Sassa","For us land creatures, this place is like
+a completely different world.");
 MsgSel("Is that fish the boss?","Sardine Tornado!","It looks like it's food time");
 switch (MsgSelRsltGet()){
     case 0:
@@ -41,9 +41,9 @@ What else can we say?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040203101_02_030");
-    MsgDisp("Sassa","I found some information about it
-over there. It seems that the amount
-and frequency of the feeding is 
+    MsgDisp("Sassa","I found some information about it over
+there. It seems that the amount and
+frequency of the feeding is
 well-controlled.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

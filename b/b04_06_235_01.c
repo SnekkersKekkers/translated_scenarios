@@ -14,10 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040623501_06_010");
-    MsgDisp("Himuro","Yeah, agreed.
-I wonder if it would be scary if we
-understood it. That's 
-an excellent viewpoint.");
+    MsgDisp("Himuro","Yeah, agreed. I wonder if it would be
+scary if we understood it. That's an
+excellent viewpoint.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -48,8 +48,8 @@ I'll go home alone.)");
     ChMouth(22,2);
     ChMotion(22,4,1);
     VoicePlay("F012200004_22_040");
-    MsgDisp("Hikaru","Yep. Sorry, Mari.
-Please don't hate Hikaru for this.");
+    MsgDisp("Hikaru","Yep. Sorry, Mari. Please don't hate Hikaru
+for this.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -40,14 +40,14 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020340002_03_050");
 MsgDisp("Honda","Right, right!
-Once you start with one, two, three,
-it could get pretty interesting.");
+Once you start with one, two, three, it
+could get pretty interesting.");
 MsgDisp("主人公","Y-Yeah......");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020340002_03_060");
-MsgDisp("Honda","Ah, I see. 
+MsgDisp("Honda","Ah, I see.
 Sorry, didn't mean to worry you.");
 MsgDisp("主人公","Eh, but——");
 ChEye(3,0);

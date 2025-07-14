@@ -40,8 +40,7 @@ It's not a mansion.");
     ChMotion(2,0);
     VoicePlay("B040201100_02_030");
     MsgDisp("Sassa","Are you okay?
-Try to look ahead instead of looking
-down.");
+Try to look ahead instead of looking down.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

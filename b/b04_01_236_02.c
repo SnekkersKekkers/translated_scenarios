@@ -33,9 +33,9 @@ My body is moving on it's own...");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040123602_01_020");
-    MsgDisp("Kazama","Yeah, no matter what industry
-you're in, a pro's work is 
-always overwhelmingly impressive.");
+    MsgDisp("Kazama","Yeah, no matter what industry you're in, a
+pro's work is always overwhelmingly
+impressive.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -53,8 +53,8 @@ always overwhelmingly impressive.");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123602_01_030");
         MsgDisp("Kazama","Who wants to see you dance?
-Hey, have you heard what \"Obstruction
-of business\" is?");
+Hey, have you heard what \"Obstruction of
+business\" is?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -71,8 +71,8 @@ of business\" is?");
         ChMotion(1,0);
         VoicePlay("B040123602_01_050");
         MsgDisp("Kazama","No, not \"eh?\".
-If you're going to join, I'm
-not going to leave you alone.");
+If you're going to join, I'm not going to
+leave you alone.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -97,9 +97,8 @@ not going to leave you alone.");
         ScrFadeIn(0,30);
         ChMotion(1,3);
         VoicePlay("B040123602_01_070");
-        MsgDisp("Kazama","Hahaha!
-Your strange dancing attracted 
-the fish man.");
+        MsgDisp("Kazama","Hahaha! Your strange dancing attracted the
+fish man.");
         MsgDisp("主人公","Hey.");
         ChEye(1,0);
         ChMouth(1,3);
@@ -107,10 +106,10 @@ the fish man.");
         ChCheek(1,7);
         VoicePlay("B040123602_01_080");
         MsgDisp("Kazama","But, thank you.
-Just one word of yours gave me
-yet another unforgettable memory.");
-        MsgDisp("主人公","(｛風真＊＊｝...
-I also made some amazing memories.)");
+Just one word of yours gave me yet another
+unforgettable memory.");
+        MsgDisp("主人公","(｛風真＊＊｝... I also made some amazing
+memories.)");
         break ;
         default :
         DbgAssert(1);

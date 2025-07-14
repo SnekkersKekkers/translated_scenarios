@@ -18,5 +18,5 @@ VoicePlay("B020202104_02_020");
 MsgDisp("Sassa","I see.
 Matching up with me could be dangerous,
 but I'm glad it's with you.");
-MsgDisp("主人公","(Hehe, seems like he liked
-my fashion today!)");
+MsgDisp("主人公","(Hehe, seems like he liked my fashion
+today!)");

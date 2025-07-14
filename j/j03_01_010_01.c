@@ -4,12 +4,11 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Ah, a phone call from ｛風真＊＊｝.)");
+    MsgDisp("主人公","(Ah, a phone call from ｛風真＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello. 
-｛主人公苗字｝ speaking.");
+    MsgDisp("主人公","Hello. ｛主人公苗字｝ speaking.");
     VoicePlay("J030101001_01_000");
     MsgDisp("Kazama","Ah, it's me.
 I got your message.");
@@ -27,7 +26,7 @@ See you later.");
 Let's stop for today......)");
     break ;
     case 3:
-    MsgDisp("主人公","(Ah, a phone call from ｛風真＊＊｝!)");
+    MsgDisp("主人公","(Ah, a phone call from ｛風真＊＊｝! )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -36,9 +35,8 @@ Let's stop for today......)");
     MsgDisp("Kazama","I got your message.");
     MsgDisp("主人公","Ah, what's your answer?");
     VoicePlay("J030101001_01_040");
-    MsgDisp("Kazama","That's unfortunate but......
-I can't on that day.
-Sorry.");
+    MsgDisp("Kazama","That's unfortunate but...... I can't on
+that day. Sorry.");
     MsgDisp("主人公","I see.
 Can I call you another time?");
     VoicePlay("J030101001_01_050");
@@ -49,7 +47,7 @@ Can I call you another time?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Ah, it's from ｛風真＊＊｝!)");
+    MsgDisp("主人公","(Ah, it's from ｛風真＊＊｝! )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -63,13 +61,12 @@ Thanks for calling earlier.");
 It's the only day I can't cancel stuff.");
     MsgDisp("主人公","I see......");
     VoicePlay("J030101001_01_080");
-    MsgDisp("Kazama","Come on, cheer up.
-It just means you have to stay excited
-a little longer. See ya?");
+    MsgDisp("Kazama","Come on, cheer up. It just means you have
+to stay excited a little longer. See ya?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(It's too bad but it can't be helped,
-I'll invite him again some other time.)");
+    MsgDisp("主人公","(It's too bad but it can't be helped, I'll
+invite him again some other time.)");
     break ;
     default :
     DbgAssert(1);

@@ -28,8 +28,8 @@ I see, I'll keep that in mind.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040610400_06_020");
-    MsgDisp("Himuro","You came just to look at 
-something you find gross?
+    MsgDisp("Himuro","You came just to look at something you
+find gross?
 That's rude.");
     MsgDateResultDisp();
     break ;

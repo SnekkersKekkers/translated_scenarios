@@ -7,12 +7,11 @@ ChMotion(22,3,1);
 VoicePlay("H8G2200000_22_000");
 MsgDisp("Hikaru","Wait, wait!
 Mari, you're amazing!");
-MsgDisp("主人公","Hm, ｛ひかる＊｝.
-What is it?");
+MsgDisp("主人公","Hm, ｛ひかる＊｝. What is it?");
 ChMotion(22,4,1);
 VoicePlay("H8G2200000_22_010");
-MsgDisp("Hikaru","You got a student award for being
-in the student council, right?
+MsgDisp("Hikaru","You got a student award for being in the
+student council, right?
 Haba High's model student award♪");
 MsgDisp("主人公","Ah, yes.
 That's right.");
@@ -21,8 +20,8 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("H8G2200000_22_020");
 MsgDisp("Hikaru","I knew it～
-It's rare to find a girl as serious,
-cute, and good as Mari.");
+It's rare to find a girl as serious, cute,
+and good as Mari.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,2,1);
@@ -38,7 +37,7 @@ VoicePlay("H8G2200000_22_040");
 MsgDisp("Hikaru","Mari's the etoile of Haba High.
 Congratulations on the award♪");
 MsgDisp("主人公","(Getting praised this much......
-I'm really glad I stayed in
-the student council!)");
+I'm really glad I stayed in the student
+council!)");
 MsgClose();
 ScrFadeOut(0,0);

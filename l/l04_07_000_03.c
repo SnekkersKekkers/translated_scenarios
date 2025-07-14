@@ -12,15 +12,15 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("L040700003_07_010");
-    MsgDisp("Mikage","It looks delicious, and more than that,
-I can see the feelings of the person who
+    MsgDisp("Mikage","It looks delicious, and more than that, I
+can see the feelings of the person who
 made it. Thanks.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,4);
     VoicePlay("L040700003_07_020");
-    MsgDisp("Mikage","Guess I'll have to display this
-for a while～!");
+    MsgDisp("Mikage","Guess I'll have to display this for a
+while～!");
     MsgDisp("主人公","(Thank goodness.
 He seemed really happy!)");
     MsgClose();
@@ -34,8 +34,8 @@ He seemed really happy!)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700003_07_030");
-    MsgDisp("Mikage","Wow, you're pretty good
-at making these, huh～?");
+    MsgDisp("Mikage","Wow, you're pretty good at making these,
+huh～?");
     MsgDisp("主人公","You knew it was handmade?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -71,8 +71,8 @@ How is it?");
     ChMotion(7,1);
     VoicePlay("L040700003_07_070");
     MsgDisp("Mikage","It's not just how it is.
-I can't imagine a better chocolate
-than this.");
+I can't imagine a better chocolate than
+this.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,5);
@@ -83,17 +83,17 @@ than this.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("L040700003_07_090");
-    MsgDisp("Mikage","I really like making things myself,
-too, so I'm happy about this.");
+    MsgDisp("Mikage","I really like making things myself, too,
+so I'm happy about this.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("L040700003_07_100");
-    MsgDisp("Mikage","Ohー, there's even that topping
-I like......
+    MsgDisp("Mikage","Ohー, there's even that topping I
+like......
 You're a good person.");
-    MsgDisp("主人公","It's making me a little shy,
-being praised this much.");
+    MsgDisp("主人公","It's making me a little shy, being praised
+this much.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

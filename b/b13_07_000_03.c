@@ -11,5 +11,5 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B130700003_07_010");
 MsgDisp("Mikage","There's no chance of winning.
-I'll definitely end up looking, 
-but don't get mad.");
+I'll definitely end up looking, but don't
+get mad.");

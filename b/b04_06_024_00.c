@@ -27,8 +27,8 @@ The mood also gets full marks.
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040602400_06_020");
-    MsgDisp("Himuro","In some way, I respect the fact
-you can be that shameless.
+    MsgDisp("Himuro","In some way, I respect the fact you can be
+that shameless.
 Please continue the way you are.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

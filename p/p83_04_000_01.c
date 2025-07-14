@@ -10,8 +10,8 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Supply management is not that easy...");
     VoicePlay("P830400001_46_000");
     MsgDisp("School Girl","Excuse meー.
-We don't have enough
-flowers for decoration.");
+We don't have enough flowers for
+decoration.");
     MsgDisp("主人公","Flowers?
 Please just wait a second.");
     MsgClose();
@@ -23,8 +23,8 @@ Please just wait a second.");
     ChMotion(4,1,1);
     VoicePlay("P830400001_04_000");
     MsgDisp("Nanatsumori","...Seems difficultー.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Sorry, I'm a bit busy right now...");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Sorry, I'm a bit busy
+right now...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -38,8 +38,8 @@ Let me just wait here slowly.");
     MsgDisp("主人公","Supply management is not that easy...");
     VoicePlay("P830400001_46_010");
     MsgDisp("School Girl","Excuse meー.
-We don't have enough
-flowers for decoration.");
+We don't have enough flowers for
+decoration.");
     MsgDisp("主人公","Flowers, right?
 Please just wait a second.");
     MsgClose();
@@ -51,8 +51,8 @@ Please just wait a second.");
     VoicePlay("P830400001_04_020");
     MsgDisp("Nanatsumori","Good work.
 Now...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Sorry, I'm a bit busy right now...");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Sorry, I'm a bit busy
+right now...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -63,7 +63,7 @@ Sorry, I'm a bit busy right now...");
     ChMotion(4,0,1);
     VoicePlay("P830400001_04_040");
     MsgDisp("Nanatsumori","I'll help.
-Just watching is kind of... ");
+Just watching is kind of...");
     break ;
     default :
     DbgAssert(1);

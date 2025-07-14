@@ -9,9 +9,8 @@ VoicePlay("B150400400_04_000");
 MsgDisp("Nanatsumori","I told you didn't I?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B150400400_04_010");
-MsgDisp("Nanatsumori","Touching me all over.
-You've already destroyed me.
-I told you next time will 
+MsgDisp("Nanatsumori","Touching me all over. You've already
+destroyed me. I told you next time will
 already be no good.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -36,11 +35,11 @@ ScrFadeOut(0);
 SEPlay("EV_SE_551");
 SEWait();
 VoicePlay("B150400400_04_050");
-MsgDisp("Nanatsumori","Even though I really
-wanted to cherish you...");
+MsgDisp("Nanatsumori","Even though I really wanted to cherish
+you...");
 VoicePlay("B150400400_04_060");
 MsgDisp("Nanatsumori","This is making me lose confidence.
-Come on, understand... ");
+Come on, understand...");
 MsgDisp("主人公","｛七ツ森＊｝......");
 MsgClose();
 ScrFadeIn(0);
@@ -67,8 +66,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B150400400_04_100");
-MsgDisp("Nanatsumori","This was payback for everything
-until now. See you!");
+MsgDisp("Nanatsumori","This was payback for everything until now.
+See you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);

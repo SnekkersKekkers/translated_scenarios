@@ -11,8 +11,8 @@ Wait(8,0);
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B040110100_01_000");
-MsgDisp("Kazama","It's good to treasure our history
-like Habataki City does.");
+MsgDisp("Kazama","It's good to treasure our history like
+Habataki City does.");
 MsgSel("Habataki City's history is wonderful","That mask looks familiar to me...","It's like I'm experiencing the romance of ancient times.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,8 +47,8 @@ local history here in the medieval ages.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040110100_01_030");
-    MsgDisp("Kazama","It's important to be more interested
-in your local history.");
+    MsgDisp("Kazama","It's important to be more interested in
+your local history.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -1,6 +1,5 @@
-MsgDisp("","Me ｛風真＊＊｝,
-and ｛本多＊＊｝ went on to study at
-first-rate universities.");
+MsgDisp("","Me ｛風真＊＊｝, and ｛本多＊＊｝ went on
+to study at first-rate universities.");
 MsgDisp("","｛七ツ森＊｝ is going to a vocational
 school.");
 MsgClear();

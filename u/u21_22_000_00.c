@@ -14,9 +14,9 @@ MsgDisp("主人公","What?
 ......Jewelry?");
 ChMotion(22,0,1);
 VoicePlay("U212200000_22_010");
-MsgDisp("Hikaru","Yeah. Hikaru got it for work but
-doesn't need it anymore. Mari can use it
-if she wants to.");
+MsgDisp("Hikaru","Yeah. Hikaru got it for work but doesn't
+need it anymore. Mari can use it if she
+wants to.");
 MsgDisp("主人公","Are you sure?");
 ChEye(22,3);
 ChMouth(22,3);

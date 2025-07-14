@@ -17,49 +17,47 @@ ChOpen(36,254,0,0,1,#1,#1,0,0);
 VoicePlay("D020100200_36_000");
 MsgDisp("Ryota's Grandpa","Welcome.
 ......Oh, you're the reporter.");
-MsgDisp("主人公","I wanted to thank you for all your
-help last time. Ah, I didn't come to
-interview you today......");
+MsgDisp("主人公","I wanted to thank you for all your help
+last time. Ah, I didn't come to interview
+you today......");
 ChEye(36,0);
 ChMouth(36,0);
 VoicePlay("D020100200_36_010");
-MsgDisp("Ryota's Grandpa","I'm happy you stopped by even
-though it's not for work.");
+MsgDisp("Ryota's Grandpa","I'm happy you stopped by even though it's
+not for work.");
 ChEyeOpenLevel(36,#1);
 VoicePlay("D020100200_36_020");
-MsgDisp("Ryota's Grandpa","I asked Ryota to help me with bug
-drying. So he's working hard in
-the back.");
+MsgDisp("Ryota's Grandpa","I asked Ryota to help me with bug drying.
+So he's working hard in the back.");
 MsgDisp("主人公","Eh, ｛風真＊＊｝ is here?");
 ChEye(36,1);
 ChMouth(36,0);
 VoicePlay("D020100200_36_030");
-MsgDisp("Ryota's Grandpa","Yes......
-You're not here to see Ryota either?
-That makes me even happier.");
+MsgDisp("Ryota's Grandpa","Yes...... You're not here to see Ryota
+either? That makes me even happier.");
 ChEye(36,0);
 MsgDisp("主人公","Hehe! Uhm......What's that thing you were
 talking about, \"bug drying\"?");
 ChEye(36,0);
 ChMouth(36,2);
 VoicePlay("D020100200_36_040");
-MsgDisp("Ryota's Grandpa","Ahh, you know how we have so many
-books? We dry them out with air to get
-rid of any insects from the summer.");
+MsgDisp("Ryota's Grandpa","Ahh, you know how we have so many books?
+We dry them out with air to get rid of any
+insects from the summer.");
 MsgDisp("主人公","I see, you have to air the books out
 too.");
 ChEye(36,2);
 ChMouth(36,0);
 VoicePlay("D020100200_36_050");
-MsgDisp("Ryota's Grandpa","Yes, it requires a lot of patience
-and can be quite challenging. So it's
-difficult for me to do alone.");
+MsgDisp("Ryota's Grandpa","Yes, it requires a lot of patience and can
+be quite challenging.
+So it's difficult for me to do alone.");
 ChEye(36,0);
 ChMouth(36,0);
 VoicePlay("D020100200_36_060");
-MsgDisp("Ryota's Grandpa","Ryota seems to like this kind of
-work, though. He does it quietly and
-obediently, differently from his father.");
+MsgDisp("Ryota's Grandpa","Ryota seems to like this kind of work,
+though. He does it quietly and obediently,
+differently from his father.");
 BGMVol(0.5,1.5);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(36,2);
@@ -69,8 +67,7 @@ ChOpen(1,255,0,4,2,#1,#1,0,1);
 VoicePlay("D020100200_01_070");
 MsgDisp("Kazama","Grandpa, that's enough.
 Dad and I are different.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝.
-Sorry to intrude.");
+MsgDisp("主人公","Ah, ｛風真＊＊｝. Sorry to intrude.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -85,9 +82,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D020100200_01_090");
-MsgDisp("Kazama","You guys can talk about whatever but
-don't interrogate him about anything,
-okay?");
+MsgDisp("Kazama","You guys can talk about whatever but don't
+interrogate him about anything, okay?");
 ChEye(36,0);
 ChMouth(36,1);
 VoicePlay("D020100200_36_070");

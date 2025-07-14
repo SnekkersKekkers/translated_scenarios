@@ -28,6 +28,6 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("S110100001_01_040");
-MsgDisp("Kazama","The two of us can just share one
-fortune, okay?");
+MsgDisp("Kazama","The two of us can just share one fortune,
+okay?");
 MsgDisp("主人公","(I want to pick one too!)");

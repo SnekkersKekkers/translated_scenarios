@@ -5,9 +5,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040314001_03_000");
-MsgDisp("Honda","During the performance,
-people in the audience were
-bumping into each other huh?");
+MsgDisp("Honda","During the performance, people in the
+audience were bumping into each other huh?");
 MsgSel("That's how you enjoy it?","Were they fighting?","Shall we copy them next time?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040314001_03_010");
-    MsgDisp("Honda","Ehh?
-But then you won't hear 
-the song or music.");
+    MsgDisp("Honda","Ehh? But then you won't hear the song or
+music.");
     MsgDateResultDisp();
     break ;
     case 1:

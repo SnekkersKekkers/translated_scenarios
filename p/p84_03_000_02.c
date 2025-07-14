@@ -18,19 +18,17 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(3,254,0,4,0,#1,#1,0,0);
 VoicePlay("P840300002_03_000");
-MsgDisp("Honda","Hーm, 
-I'm sure that your smile at the end, 
+MsgDisp("Honda","Hーm, I'm sure that your smile at the end,
 made that girl super relieved.");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P840300002_03_010");
-MsgDisp("Honda","You're amazing after all.
-Not only are you perfect 
-at materials management, 
-but you're also kind and considerate.");
-MsgDisp("主人公","(Hehe, I was praised by ｛本多＊＊｝!)");
+MsgDisp("Honda","You're amazing after all. Not only are you
+perfect at materials management, but
+you're also kind and considerate.");
+MsgDisp("主人公","(Hehe, I was praised by ｛本多＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

@@ -4,8 +4,7 @@ ChCheek(1,8);
 Wait(60,0);
 VoiceEVSPlay(1);
 VoicePlay("T020120000_01_370");
-MsgDisp("Kazama","｛主人公｝,
-Was that a promise kiss?");
+MsgDisp("Kazama","｛主人公｝, Was that a promise kiss?");
 ChEye(1,3);
 MsgDisp("主人公","Yes, I also like ｛風真＊＊｝.
 Thank you for always thinking of me.");
@@ -17,7 +16,8 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,6);
 VoicePlay("T020120000_01_380");
 MsgDisp("Kazama","......Hey, what should I tell Inori and
-Sassa? About your kiss.");
+Sassa?
+About your kiss.");
 MsgDisp("主人公","Ah, you don't need to tell them about
 that.");
 ChMotion(1,0,1);
@@ -35,8 +35,8 @@ ChMotion(1,3);
 ChCheek(1,0);
 ChMotion(1,0);
 VoicePlay("T020120000_01_410");
-MsgDisp("Kazama","May we always be happy and healthy
-and may we be able to get married. ");
+MsgDisp("Kazama","May we always be happy and healthy and may
+we be able to get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020120000_01_420");
@@ -58,14 +58,13 @@ MsgDisp("Kazama","......Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020120000_01_450");
-MsgDisp("Kazama","I found and bought it when I
-was in England.");
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_460");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝......
-Thank you.");
+MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
@@ -85,8 +84,8 @@ VoicePlay("T020120000_01_490");
 MsgDisp("Kazama","Actually, this should come from me, right?");
 MsgDisp("主人公","......｛風真＊＊｝.");
 VoicePlay("T020120000_01_500");
-MsgDisp("Kazama","You're the only one for me,
-I'll never let you go.");
+MsgDisp("Kazama","You're the only one for me, I'll never let
+you go.");
 BGMStop();
 MsgClear();
 StlEffect(1,1,60);
@@ -109,7 +108,8 @@ StlEyeOpenLevel(1,0,1);
 Wait(6,0);
 StlEyeOpenLevel(1,#1);
 VoicePlay("T020120000_01_520");
-MsgDisp("Kazama","Then, come on! My bride.");
+MsgDisp("Kazama","Then, come on!
+My bride.");
 MsgClose();
 ScrFadeOut(0,1,120);
 StlClose();

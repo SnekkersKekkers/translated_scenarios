@@ -57,9 +57,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620100_06_080");
-MsgDisp("Himuro","For now, I admit defeat,
-but I have no intention of giving up 
-that place to him forever.");
+MsgDisp("Himuro","For now, I admit defeat, but I have no
+intention of giving up that place to him
+forever.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

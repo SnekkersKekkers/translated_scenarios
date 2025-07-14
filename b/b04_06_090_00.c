@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040609000_06_010");
-    MsgDisp("Himuro","Which one... Ah, it really is.
-Not too sweet, there's a 
-refreshing feeling to it.");
+    MsgDisp("Himuro","Which one... Ah, it really is. Not too
+sweet, there's a refreshing feeling to it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +29,8 @@ refreshing feeling to it.");
     ChMotion(6,4);
     VoicePlay("B040609000_06_020");
     MsgDisp("Himuro","Do you dislike it?
-If that's the case, why not just stop 
-coming to the botanical garden? ");
+If that's the case, why not just stop
+coming to the botanical garden?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -40,10 +39,10 @@ coming to the botanical garden? ");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040609000_06_030");
-    MsgDisp("Himuro","...That's kind of hardcore.
-I never thought you'd be into
-that sorta thing. Alright, let's see
-the carnivorous plants first.");
+    MsgDisp("Himuro","...That's kind of hardcore. I never
+thought you'd be into that sorta thing.
+Alright, let's see the carnivorous plants
+first.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

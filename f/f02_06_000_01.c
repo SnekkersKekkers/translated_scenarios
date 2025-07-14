@@ -26,8 +26,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("F020600001_06_020");
-MsgDisp("Himuro","Overall, it's just not a very
-realistic story.");
+MsgDisp("Himuro","Overall, it's just not a very realistic
+story.");
 MsgDisp("主人公","...so you know the story well?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -40,8 +40,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600001_06_040");
 MsgDisp("Himuro","It's more like, because there's so many
-similar stories, that story just
-refuses to go away.");
+similar stories, that story just refuses
+to go away.");
 MsgDisp("主人公","...you really do know it well, huh?");
 ChEye(6,0);
 ChMouth(6,0);

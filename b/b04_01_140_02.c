@@ -5,8 +5,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ScrFadeIn(0);
 VoicePlay("B040114002_01_000");
-MsgDisp("Kazama","There are lots of people here, 
-but strangely, I don't mind it.");
+MsgDisp("Kazama","There are lots of people here, but
+strangely, I don't mind it.");
 MsgSel("It is darkest under the lamp post","No matter what you do, no one will notice, huh?","Yeah, everyone looks like they're dreaming");
 switch (MsgSelRsltGet()){
     case 0:
@@ -45,10 +45,10 @@ I-I'm not doing anything.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040114002_01_030");
-        MsgDisp("Kazama","What you even plan to sneakily 
-do in a place like this?");
-        MsgDisp("主人公","I see, the only thing you could
-do is listen to the music here.");
+        MsgDisp("Kazama","What you even plan to sneakily do in a
+place like this?");
+        MsgDisp("主人公","I see, the only thing you could do is
+listen to the music here.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,1);
@@ -56,8 +56,8 @@ do is listen to the music here.");
         ChCheek(1,7);
         VoicePlay("B040114002_01_040");
         MsgDisp("Kazama","That's right.
-Well, let's proudly hold hands
-and enjoy it, shall we?");
+Well, let's proudly hold hands and enjoy
+it, shall we?");
         MsgDisp("主人公","Hehe, yeah.");
         MsgClose();
         ScrFadeOut(0,0);
@@ -83,20 +83,19 @@ and enjoy it, shall we?");
         ChMotion(1,3);
         VoicePlay("B040114002_01_050");
         MsgDisp("Kazama","That's right.
-I wasn't a fan of that band, but
-I still kinda liked the song.");
+I wasn't a fan of that band, but I still
+kinda liked the song.");
         MsgDisp("主人公","Heeh, that's surprising.");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,4);
         ChCheek(1,7);
         VoicePlay("B040114002_01_060");
-        MsgDisp("Kazama","Well, your side profile and this song
-is imprinted on me as a set. This
-feels like the background music 
-to your merry self.");
-        MsgDisp("主人公","(｛風真＊＊｝, did you not 
-look at the stage...?)");
+        MsgDisp("Kazama","Well, your side profile and this song is
+imprinted on me as a set. This feels like
+the background music to your merry self.");
+        MsgDisp("主人公","(｛風真＊＊｝, did you not look at the
+stage...?)");
         break ;
         default :
         DbgAssert(1);

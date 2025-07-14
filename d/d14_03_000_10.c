@@ -19,8 +19,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140300000_03_020");
-MsgDisp("Honda","Yay! Then, let's hurry?
-We have to quickly get a good seat.");
+MsgDisp("Honda","Yay! Then, let's hurry? We have to quickly
+get a good seat.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

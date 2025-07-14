@@ -14,22 +14,23 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,4,0,4,#1,#1,0,1);
 ChOpen(2,255,3,0,4,#1,#1,0,2);
-MsgDisp("主人公","｛柊＊＊＊｝, ｛颯砂＊＊｝.
-It's rare seeing you two together.");
+MsgDisp("主人公","｛柊＊＊＊｝, ｛颯砂＊＊｝. It's rare
+seeing you two together.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010520100_02_010");
 MsgDisp("Sassa","Ah, it's you!
-Oh yeah, if you're free why don't
-you help out too?");
+Oh yeah, if you're free why don't you help
+out too?");
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);
 VoicePlay("E010520100_05_010");
-MsgDisp("Hiiragi","I was answering a survey
-for Habacha when I ran into Sassa.");
-MsgDisp("主人公","I see! I work part time
-at Habacha, so I can't answer the survey.");
+MsgDisp("Hiiragi","I was answering a survey for Habacha when
+I ran into Sassa.");
+MsgDisp("主人公","I see!
+I work part time at Habacha, so I can't
+answer the survey.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -39,8 +40,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("E010520100_05_020");
-MsgDisp("Hiiragi","Yeah.
-I was interested in knowing how
+MsgDisp("Hiiragi","Yeah. I was interested in knowing how
 you'd respond.");
 MsgDisp("主人公","What was the question?");
 ChEye(5,0);
@@ -71,15 +71,14 @@ ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("E010520100_02_060");
 MsgDisp("Sassa","Let me rewrite what I wrote earlier.");
-MsgDisp("主人公","Um?
-｛颯砂＊＊｝...... I wonder what's wrong.");
+MsgDisp("主人公","Um? ｛颯砂＊＊｝...... I wonder what's
+wrong.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010520100_05_040");
-MsgDisp("Hiiragi","Do you currently have a
-girlfriend or boyfriend
-or someone you like?");
+MsgDisp("Hiiragi","Do you currently have a girlfriend or
+boyfriend or someone you like?");
 MsgDisp("主人公","Huh ∋");
 ChEye(5,4);
 ChMouth(5,4);
@@ -108,8 +107,8 @@ ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("E010520100_02_080");
 MsgDisp("Sassa","I'm not telling you!");
-MsgDisp("主人公","(So that's why you wanted me to take
-the survey......)");
+MsgDisp("主人公","(So that's why you wanted me to take the
+survey......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

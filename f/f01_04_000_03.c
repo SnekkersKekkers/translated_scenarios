@@ -18,8 +18,8 @@ Well then, let's go.");
     MsgDisp("Nanatsumori","OK.
 I needed someone to talk to.");
     MsgDisp("主人公","Hehe, I'm glad.
-Well then, what should we talk about
-while we walk?");
+Well then, what should we talk about while
+we walk?");
     break ;
     case 4:
     case 5:

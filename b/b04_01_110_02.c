@@ -32,9 +32,8 @@ do with water.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040111002_01_020");
-    MsgDisp("Kazama","Right?
-If you lay flat on your back,
-you can really build up speed, right?");
+    MsgDisp("Kazama","Right? If you lay flat on your back, you
+can really build up speed, right?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -63,8 +62,8 @@ you can really build up speed, right?");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040111002_01_040");
-        MsgDisp("Kazama","Even though fate ties us together,
-seems we still have our differences.");
+        MsgDisp("Kazama","Even though fate ties us together, seems
+we still have our differences.");
         MsgDisp("主人公","Huh? You don't like the big kersplash?");
         ChEye(1,0);
         ChMouth(1,1);
@@ -72,8 +71,8 @@ seems we still have our differences.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040111002_01_050");
         MsgDisp("Kazama","It's not like I'm scared.
-I just don't like feeling like I'm
-being chucked out like that.");
+I just don't like feeling like I'm being
+chucked out like that.");
         MsgDisp("主人公","Hehe, ｛風真＊＊｝ has to be treated with
 care, right?");
         ChMotion(1,0);
@@ -94,17 +93,17 @@ care, right?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040111002_01_080");
         MsgDisp("Kazama","Well, whatever you say.
-I like what I like,
-and I don't like what I don't.");
+I like what I like, and I don't like what
+I don't.");
         MsgDisp("主人公","I see...
-Doesn't going down on a two-seater
-float sound like fun?");
+Doesn't going down on a two-seater float
+sound like fun?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,3);
         VoicePlay("B040111002_01_090");
-        MsgDisp("Kazama","Hey!
-You should have mentioned that sooner.");
+        MsgDisp("Kazama","Hey! You should have mentioned that
+sooner.");
         ChEye(1,1);
         ChMouth(1,2);
         ChMotion(1,2);

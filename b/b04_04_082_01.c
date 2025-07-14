@@ -25,9 +25,8 @@ the feeling is ruined.");
     ChMouth(4,5);
     ChMotion(4,5,1);
     VoicePlay("B040408201_04_020");
-    MsgDisp("Nanatsumori","Bwah...
-Don't go near that!
-Actually, don't bring it to me∋");
+    MsgDisp("Nanatsumori","Bwah... Don't go near that! Actually,
+don't bring it to me∋");
     MsgDateResultDisp();
     break ;
     case 2:

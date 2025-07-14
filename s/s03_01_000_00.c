@@ -19,9 +19,8 @@ Are you going to visit the shrine?");
 Please treat me well this year too.");
     VoicePlay("S030100000_01_030");
     MsgDisp("Kazama","Same to you.");
-    MsgDisp("主人公","Hehe.
-Oh, right, why don't you go visit the
-shrine now?");
+    MsgDisp("主人公","Hehe. Oh, right, why don't you go visit
+the shrine now?");
     break ;
     case 4:
     case 5:

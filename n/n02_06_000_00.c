@@ -13,8 +13,9 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("N020600000_06_010");
-    MsgDisp("Himuro","It's surprisingly good. W-Well, as long as
-it's not a fluke, I mean.");
+    MsgDisp("Himuro","It's surprisingly good.
+W-Well, as long as it's not a fluke, I
+mean.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);

@@ -6,9 +6,9 @@ ChMotion(3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040310101_03_000");
-MsgDisp("Honda","It looks like there's a trip for 
+MsgDisp("Honda","It looks like there's a trip for
 elementary school students today.");
-MsgSel("How nostalgic, I remember coming a long time ago","I want to hear｛本多＊＊｝'s commentary though'","We might not be able to take our time looking around, huh?");
+MsgSel("How nostalgic, I remember coming a long time ago.","I want to hear ｛本多＊＊｝'s commentary though.","We might not be able to take our time looking around, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -31,8 +31,8 @@ for the bus back home...");
     ChCheek(3,5);
     VoicePlay("B040310101_03_020");
     MsgDisp("Honda","That's fine but...
-There's lots of things I want 
-to talk to you about today...");
+There's lots of things I want to talk to
+you about today...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

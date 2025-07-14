@@ -5,8 +5,8 @@ ChMotion(5,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030508001_05_000");
-MsgDisp("Hiiragi","Let's walk slowly so we can take in
-the feeling of spring.");
+MsgDisp("Hiiragi","Let's walk slowly so we can take in the
+feeling of spring.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Okay!");
 MsgDispSksp(0);

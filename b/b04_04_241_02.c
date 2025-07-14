@@ -6,7 +6,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040424102_04_000");
 MsgDisp("Nanatsumori","Then what should we do today?");
-MsgSel("The cow milking experience▼","Let's interact with sheep!","Let's do what｛七ツ森＊｝ wants");
+MsgSel("The cow milking experience▼","Let's interact with sheep!","Let's do what ｛七ツ森＊｝ wants");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -25,8 +25,8 @@ I'll watch.");
     ChMotion(4,2,1);
     VoicePlay("B040424102_04_020");
     MsgDisp("Nanatsumori","You go enjoy it yourself.
-I can't let sheep or cows lick me,
-no matter what.");
+I can't let sheep or cows lick me, no
+matter what.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -63,10 +63,10 @@ Shall I go home?");
 what should we doー...");
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040424102_04_060");
-        MsgDisp("Nanatsumori","Milking... is not my style,
-and I'm not good at interacting
-with animals...but I also don't
-want to just stare off into space...");
+        MsgDisp("Nanatsumori","Milking... is not my style, and I'm not
+good at interacting with animals...but I
+also don't want to just stare off into
+space...");
         MsgDisp("主人公","It feels like you don't like arms very
 much?");
         ChEye(4,2);
@@ -89,8 +89,8 @@ We came all the way here...");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_090");
-        MsgDisp("Nanatsumori","We both decided to go 
-on a date here today.");
+        MsgDisp("Nanatsumori","We both decided to go on a date here
+today.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,3,1);
         VoicePlay("B040424102_04_100");
@@ -101,16 +101,15 @@ farm date to 100％.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_110");
-        MsgDisp("Nanatsumori","Alright.
-It's not like we have to do s
+        MsgDisp("Nanatsumori","Alright. It's not like we have to do s
 something to make it a date.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040424102_04_120");
-        MsgDisp("Nanatsumori","The time we spend thinking about what
-to do together like this, 
-is good enough for me.");
+        MsgDisp("Nanatsumori","The time we spend thinking about what to
+do together like this, is good enough for
+me.");
         MsgDisp("主人公","(｛七ツ森＊｝......)");
         break ;
         default :

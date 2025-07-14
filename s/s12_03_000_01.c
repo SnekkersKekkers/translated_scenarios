@@ -22,8 +22,7 @@ We're here.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300001_03_010");
-    MsgDisp("Honda","Yeah, let's chat a lot this year
-too.
+    MsgDisp("Honda","Yeah, let's chat a lot this year too.
 I think we have a good head start.");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
@@ -68,16 +67,15 @@ Good luck!");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300001_03_070");
-    MsgDisp("Honda","Alright! I can win with your
-support!
-See you soon!");
+    MsgDisp("Honda","Alright! I can win with your support! See
+you soon!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(Yeah, this year will be another
-good one.)");
+    MsgDisp("主人公","(Yeah, this year will be another good
+one.)");
     break ;
     default :
     DbgAssert(1);

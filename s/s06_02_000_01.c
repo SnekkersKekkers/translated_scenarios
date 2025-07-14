@@ -22,24 +22,23 @@ Do you like it?");
     ChMotion(2,3);
     VoicePlay("S060200001_02_020");
     MsgDisp("Sassa","You look good like this.
-And you're going to be at my side today
-in this outfit?");
+And you're going to be at my side today in
+this outfit?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("S060200001_02_030");
     MsgDisp("Sassa","I have no words.");
-    MsgDisp("主人公","(Yes!
-｛颯砂＊＊｝ seems to like it.)");
+    MsgDisp("主人公","(Yes! ｛颯砂＊＊｝ seems to like it.)");
     break ;
     case 3:
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("S060200001_02_040");
-    MsgDisp("Sassa","This right here. 
-Like I thought, it's the perfect thing
-to wear on New Years.");
+    MsgDisp("Sassa","This right here.
+Like I thought, it's the perfect thing to
+wear on New Years.");
     MsgDisp("主人公","Really? Did I live up to your
 expectations?");
     ChEye(2,3);
@@ -48,11 +47,10 @@ expectations?");
     ChEyeOpenLevel(2,0);
     VoicePlay("S060200001_02_050");
     MsgDisp("Sassa","Yeah, it looks amazing on you.
-I wish I could see you in kimono all
-the time.");
-    MsgDisp("主人公","Hehe!
-I'm happy- but that sounds like it would
-be difficult?");
+I wish I could see you in kimono all the
+time.");
+    MsgDisp("主人公","Hehe! I'm happy- but that sounds like it
+would be difficult?");
     MsgDisp("主人公","(He seems to be really happy.
 I'm glad I wore a kimono!)");
     break ;
@@ -78,15 +76,15 @@ my best.");
     VoicePlay("S060200001_02_080");
     MsgDisp("Sassa","All for me?");
     MsgDisp("主人公","Yeah, for our shrine visit.
-｛颯砂＊＊｝ seemed like he was
-looking forward to it.");
+｛颯砂＊＊｝ seemed like he was looking
+forward to it.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("S060200001_02_090");
     MsgDisp("Sassa","Yeah, to be honest, I had high
-expectations. But this is even better
-than what I was expecting!");
+expectations. But this is even better than
+what I was expecting!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -94,8 +92,8 @@ than what I was expecting!");
     VoicePlay("S060200001_02_100");
     MsgDisp("Sassa","Yeah......
 Wow, so beautiful......");
-    MsgDisp("主人公","(Yes!
-I'm happy that ｛颯砂＊＊｝ likes it!)");
+    MsgDisp("主人公","(Yes! I'm happy that ｛颯砂＊＊｝ likes
+it!)");
     break ;
     default :
     DbgAssert(1);

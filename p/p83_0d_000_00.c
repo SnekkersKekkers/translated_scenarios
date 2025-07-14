@@ -2,8 +2,8 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Umm... I'll  clean up around here, 
-After that, I'll serve tea?");
+MsgDisp("主人公","Umm... I'll clean up around here, After
+that, I'll serve tea?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -35,10 +35,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P830D00000_22_020");
-MsgDisp("Hikaru","I see～...
-There are people working hard behind 
-the scenes so that Hikaru and everyone
-else can enjoy it, right?");
+MsgDisp("Hikaru","I see～... There are people working hard
+behind the scenes so that Hikaru and
+everyone else can enjoy it, right?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

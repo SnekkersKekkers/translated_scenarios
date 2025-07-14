@@ -10,15 +10,16 @@ switch (ChPrmGet(1,6)){
     VoicePlay("X110100000_01_000");
     MsgDisp("Kazama","Looks like the baseball team won?
 That's great.");
-    MsgDisp("主人公","Thank you. It would make me happy if I was
-able to help them win.");
+    MsgDisp("主人公","Thank you.
+It would make me happy if I was able to
+help them win.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("X110100000_01_010");
     MsgDisp("Kazama","No doubt about it.
-Without you, I don't think
-they could have played.");
+Without you, I don't think they could have
+played.");
     MsgDisp("主人公","(Hehe, he's exaggerating.
 But that makes me happy!)");
     break ;
@@ -40,8 +41,8 @@ match?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("X110100000_01_040");
-    MsgDisp("Kazama","I don't know what the players think, but
-I think you're hitting it out of the park.");
+    MsgDisp("Kazama","I don't know what the players think, but I
+think you're hitting it out of the park.");
     MsgDisp("主人公","(｛風真＊＊｝ was pleased.
 I'm glad I did my best as a manager!)");
     break ;

@@ -16,11 +16,11 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,3);
     VoicePlay("H1A2100001_21_010");
     MsgDisp("Michiru","That's what competition is.
-But I'll never forget everyone's 
-bravery, and yours, Mari.");
-    MsgDisp("主人公","(That's true. We might have lost,
-but I'm glad that I stayed as
-the baseball club manager......)");
+But I'll never forget everyone's bravery,
+and yours, Mari.");
+    MsgDisp("主人公","(That's true.
+We might have lost, but I'm glad that I
+stayed as the baseball club manager......)");
     break ;
     case 4:
     case 5:
@@ -39,18 +39,18 @@ But it was a wonderful match.");
     ChMouth(21,0);
     ChMotion(21,4);
     VoicePlay("H1A2100001_21_040");
-    MsgDisp("Michiru","The players were doing their best,
-and so were you, Mari, cheering for 
-them. It moved me so much I cried.");
+    MsgDisp("Michiru","The players were doing their best, and so
+were you, Mari, cheering for them.
+It moved me so much I cried.");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("H1A2100001_21_050");
     MsgDisp("Michiru","So don't be too discouraged.
 Let's keep our heads up!");
-    MsgDisp("主人公","(That's right......! We might have
-lost, but I'm glad that I stayed as
-the baseball club manager!)");
+    MsgDisp("主人公","(That's right......!
+We might have lost, but I'm glad that I
+stayed as the baseball club manager!)");
     break ;
     default :
     DbgAssert(1);

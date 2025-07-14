@@ -25,10 +25,10 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100004_01_020");
-MsgDisp("Kazama","It doesn't seem impossible
-If we're just talking about you.");
-MsgDisp("主人公","Naturally.
-Well, is there anything you want?");
+MsgDisp("Kazama","It doesn't seem impossible If we're just
+talking about you.");
+MsgDisp("主人公","Naturally. Well, is there anything you
+want?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

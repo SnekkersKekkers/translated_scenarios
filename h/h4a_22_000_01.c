@@ -17,16 +17,16 @@ we were so close to winning～......");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H4A2200001_22_010");
-    MsgDisp("Hikaru","Yeah. Hikaru and everyone
-in the team was perfect, but the
-winning school was even more amazing.");
+    MsgDisp("Hikaru","Yeah. Hikaru and everyone in the team was
+perfect, but the winning school was even
+more amazing.");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H4A2200001_22_020");
-    MsgDisp("Hikaru","But you know, Hikaru had a lot of
-fun just doing rhythmic gymnastics with
-Mari and the others. Really!");
+    MsgDisp("Hikaru","But you know, Hikaru had a lot of fun just
+doing rhythmic gymnastics with Mari and
+the others. Really!");
     MsgDisp("主人公","(We didn't win, but I'm glad I stayed in
 the rhythmic gymnastics club......)");
     break ;
@@ -43,15 +43,14 @@ Mari, I'm sorry.");
     ChMotion(22,2,1);
     VoicePlay("H4A2200001_22_040");
     MsgDisp("Hikaru","Hikaru should've tried harder.
-It's definitely Hikaru's fault that
-we lost......");
+It's definitely Hikaru's fault that we
+lost......");
     MsgDisp("主人公","Not at all.
 The opponent was just too strong.");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H4A2200001_22_050");
-    MsgDisp("Hikaru","Yeah......
-But I wanted to win with Mari
+    MsgDisp("Hikaru","Yeah...... But I wanted to win with Mari
 and everyone else......");
     ChEye(22,0);
     ChMouth(22,3);
@@ -61,8 +60,8 @@ and everyone else......");
 Everyone did their best after all.
 Good work, Mari!");
     MsgDisp("主人公","(｛ひかる＊｝...... we didn't win, but
-I'm glad I stayed in the
-rhythmic gymnastics club......)");
+I'm glad I stayed in the rhythmic
+gymnastics club......)");
     break ;
     default :
     DbgAssert(1);

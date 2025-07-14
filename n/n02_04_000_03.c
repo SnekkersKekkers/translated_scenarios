@@ -28,15 +28,14 @@ Your name... where is it on the list?");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("N020400003_04_030");
-    MsgDisp("Nanatsumori","Hm?
-Huh, for real∋
-This is not good. Not good at all.");
+    MsgDisp("Nanatsumori","Hm? Huh, for real∋ This is not good. Not
+good at all.");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("N020400003_04_040");
-    MsgDisp("Nanatsumori","Huh... do you need some cheering up?
-I'll buy you a juice later.");
+    MsgDisp("Nanatsumori","Huh... do you need some cheering up? I'll
+buy you a juice later.");
     MsgDisp("主人公","(Oof... I really have to study harder...)");
     break ;
     case 4:
@@ -45,8 +44,7 @@ I'll buy you a juice later.");
     ChMouth(4,0);
     VoiceEVSPlay(4);
     VoicePlay("N020400003_04_050");
-    MsgDisp("Nanatsumori","｛主人公｝.
-Are you kidding me...?");
+    MsgDisp("Nanatsumori","｛主人公｝. Are you kidding me...?");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝...");
     VoicePlay("N020400003_04_060");
     MsgDisp("Nanatsumori","Do you feel physically okay?
@@ -62,8 +60,8 @@ concerning...");
     ChMotion(4,0,1);
     VoicePlay("N020400003_04_080");
     MsgDisp("Nanatsumori","Maybe I shouldn't say this but, if you
-need anything I'm here. I'll help you as
-much as I can.");
+need anything I'm here.
+I'll help you as much as I can.");
     MsgDisp("主人公","(Oof... I really have to study harder...)");
     break ;
     default :

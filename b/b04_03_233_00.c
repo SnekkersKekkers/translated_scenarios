@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B040323300_03_010");
-    MsgDisp("Honda","I wonder if there's an 
-addictive aspect to it...");
+    MsgDisp("Honda","I wonder if there's an addictive aspect to
+it...");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -24,9 +24,8 @@ addictive aspect to it...");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040323300_03_020");
-    MsgDisp("Honda","Is that so? I'm glad.
-It's important to have the 
-same sense of values.");
+    MsgDisp("Honda","Is that so? I'm glad. It's important to
+have the same sense of values.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,9 +36,8 @@ same sense of values.");
     ChMouth(3,0);
     ChMotion(3,2);
     VoicePlay("B040323300_03_030");
-    MsgDisp("Honda","Yeah yeah,
-I don't think I'll ever forget the 
-feeling I had the moment I jumped.
+    MsgDisp("Honda","Yeah yeah, I don't think I'll ever forget
+the feeling I had the moment I jumped.
 ...In many ways.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

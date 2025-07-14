@@ -21,9 +21,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040604200_06_010");
-    MsgDisp("Himuro","Well, it wasn't a bad way to 
-spend the time. It's alright
-if it's once in a while.");
+    MsgDisp("Himuro","Well, it wasn't a bad way to spend the
+time.
+It's alright if it's once in a while.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

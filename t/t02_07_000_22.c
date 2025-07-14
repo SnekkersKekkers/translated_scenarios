@@ -24,8 +24,8 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("T020700022_07_030");
-MsgDisp("Mikage","Which means we aren't just giving up 
-like we have been until now, right?");
+MsgDisp("Mikage","Which means we aren't just giving up like
+we have been until now, right?");
 MsgDisp("主人公","Yes. I got it.");
 ChEye(7,2);
 ChMouth(7,0);

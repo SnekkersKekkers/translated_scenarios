@@ -4,8 +4,8 @@ MsgDisp("主人公","Yes.");
 VoicePlay("M010100000_01_000");
 MsgDisp("Kazama?","It's me.
 I came to see how you were doing.");
-MsgDisp("主人公","Eehh∈　｛風真＊＊｝∋
-P, Please come in......");
+MsgDisp("主人公","Eehh∈ ｛風真＊＊｝∋ P, Please come
+in......");
 SEPlay("EV_SE_DOOR_007");
 Wait(18);
 MsgClose();
@@ -37,9 +37,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("M010100000_01_040");
-MsgDisp("Kazama","Aa. When I was in England,
-Mom made them for me a lot.
-Icing Cookies.");
+MsgDisp("Kazama","Aa. When I was in England, Mom made them
+for me a lot. Icing Cookies.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -66,7 +65,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("M010100000_01_080");
-MsgDisp("Kazama","Good answer. Later, then.");
+MsgDisp("Kazama","Good answer.
+Later, then.");
 MsgClose();
 SEPlay("EV_SE_690",0.1,0.5);
 BGMStop();

@@ -7,8 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(8);
 VoicePlay("D020800600_08_000");
 MsgDisp("Shirahane","｛主人公｝.");
-MsgDisp("主人公","Hmm?
-What is it, ｛大地＊＊｝?");
+MsgDisp("主人公","Hmm? What is it, ｛大地＊＊｝?");
 VoicePlay("D020800600_08_030");
 ChEye(8,3);
 ChMouth(8,3);
@@ -31,8 +30,8 @@ MsgDisp("主人公","Uhm, it's not that......
 It's just a little surprising.");
 VoicePlay("D020800600_08_050");
 ChMotion(8,2,1);
-MsgDisp("Shirahane","I guess saying it suddenly like
-that would shock anyone.");
+MsgDisp("Shirahane","I guess saying it suddenly like that would
+shock anyone.");
 VoicePlay("D020800600_08_060");
 ChEye(8,3);
 ChMouth(8,3);

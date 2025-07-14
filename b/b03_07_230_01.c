@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030723001_07_010");
-    MsgDisp("Mikage","Then that's what's coming up next...
-... Understood.");
+    MsgDisp("Mikage","Then that's what's coming up next... ...
+Understood.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -133,8 +133,8 @@ so let's go.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B030723001_07_100");
-    MsgDisp("Mikage","Whoa...
-This has a seriously cool atmosphere.");
+    MsgDisp("Mikage","Whoa... This has a seriously cool
+atmosphere.");
     break ;
     default :
     DbgAssert(0);

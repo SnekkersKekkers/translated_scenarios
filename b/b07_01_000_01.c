@@ -13,10 +13,10 @@ Wait(8,0);
 ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("B070100000_01_020");
-MsgDisp("Kazama","I'm not interested, there are so many 
-stupid shows. Especially variety shows? 
-Pranks and stuff. Watching those 
-makes me feel bad.");
+MsgDisp("Kazama","I'm not interested, there are so many
+stupid shows. Especially variety shows?
+Pranks and stuff. Watching those makes me
+feel bad.");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","sometimes they do pretty extreme stuff...");
 ChEye(1,0);
@@ -36,9 +36,9 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_050");
-MsgDisp("Kazama","The \"Eating Around the Globe Series\"
-is good too. The episode about British
-home cooking was incredible.");
+MsgDisp("Kazama","The \"Eating Around the Globe Series\" is
+good too. The episode about British home
+cooking was incredible.");
 MsgDisp("主人公","(Umm, ｛風真＊＊｝ does like TV...)");
 BGMStop();
 MsgClose();

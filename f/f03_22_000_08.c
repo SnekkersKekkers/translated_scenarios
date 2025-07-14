@@ -1,5 +1,5 @@
-MsgDisp("主人公","What kind of person does 
-｛ひかる＊｝ like?");
+MsgDisp("主人公","What kind of person does ｛ひかる＊｝
+like?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -17,9 +17,8 @@ Sorry, I don't know.");
 MsgDisp("主人公","I-I see.");
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_370");
-MsgDisp("Hikaru","I love talking about people's 
-love lives. But love hasn't blossomed
-for me yet.");
+MsgDisp("Hikaru","I love talking about people's love lives.
+But love hasn't blossomed for me yet.");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -32,8 +31,8 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 ChCheek(22,5);
 VoicePlay("F032200000_22_390");
-MsgDisp("Hikaru","Hey, if Hikaru falls in love,
-can I ask Marie for lots of advice?");
+MsgDisp("Hikaru","Hey, if Hikaru falls in love, can I ask
+Marie for lots of advice?");
 MsgDisp("主人公","Of course!
 I'm looking forward to it!");
 BGMStop();

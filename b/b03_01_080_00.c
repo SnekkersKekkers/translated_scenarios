@@ -7,8 +7,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B030108000_01_000");
-MsgDisp("Kazama","This is the best time to
-see cherry blossoms. Shall we go see?");
+MsgDisp("Kazama","This is the best time to see cherry
+blossoms.
+Shall we go see?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah!");
 MsgDispSksp(0);

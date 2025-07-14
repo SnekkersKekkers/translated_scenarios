@@ -14,8 +14,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q100C00000_07_000");
-MsgDisp("Mikage","
-Maybe some of the craftsmen at that time
+MsgDisp("Mikage","Maybe some of the craftsmen at that time
 were directors like Yanosuke.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -31,7 +30,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q100C00000_05_020");
 MsgDisp("Hiiragi","Thank you.
-It's strange because it really seems so 
+It's strange because it really seems so
 when you say it.");
 ChEye(5,4);
 ChMotion(5,0);
@@ -39,9 +38,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("Q100C00000_07_010");
-MsgDisp("Mikage","......Oh.
-Speaking of glasses, let's not forget
-Inori's souvenirs.");
+MsgDisp("Mikage","......Oh. Speaking of glasses, let's not
+forget Inori's souvenirs.");
 MsgDisp("主人公","Hehe, that's true.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -59,15 +57,14 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("Q100C00000_05_030");
 MsgDisp("Hiiragi","There are many shops.
-I wonder what I should choose to make 
-him happy......");
+I wonder what I should choose to make him
+happy......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q100C00000_07_020");
-MsgDisp("Mikage","Yeah......
-If you go into the wrong, he's gonna 
-drag it for a long time.");
+MsgDisp("Mikage","Yeah...... If you go into the wrong, he's
+gonna drag it for a long time.");
 SEPlay("EV_SE_837");
 SEWait();
 ChMouth(5,2);
@@ -87,25 +84,23 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q100C00000_05_050");
-MsgDisp("Hiiragi","\"When it comes to souvenirs, you can't 
-miss the classics\"
-It says.");
+MsgDisp("Hiiragi","\"When it comes to souvenirs, you can't
+miss the classics\" It says.");
 MsgDisp("主人公","Speaking of classics......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q100C00000_07_040");
-MsgDisp("Mikage","Well, let's all buy our\"classic\"
-souvenir, and meet here again.");
+MsgDisp("Mikage","Well, let's all buy our\"classic\" souvenir,
+and meet here again.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q100C00000_05_060");
-MsgDisp("Hiiragi","Sure.
-I will also go buy souvenirs for the 
+MsgDisp("Hiiragi","Sure. I will also go buy souvenirs for the
 people of the Habataki Theatre Company.");
-MsgDisp("主人公","Then I will also
-go look for souvenirs for my family.");
+MsgDisp("主人公","Then I will also go look for souvenirs for
+my family.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -115,8 +110,7 @@ MsgClose();
 SEPlay("EV_SE_856");
 ChClose(5,0,30);
 ChClose(7,0,30);
-MsgDisp("主人公","(Alright, I guess I'll
-start by buying a souvenir for 
-｛氷室＊＊｝?)");
+MsgDisp("主人公","(Alright, I guess I'll start by buying a
+souvenir for ｛氷室＊＊｝? )");
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,5 +14,6 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402113_04_010");
 MsgDisp("Nanatsumori","Definitely just cute.");
-MsgDisp("主人公","(Oh, good! ｛七ツ森＊｝ seems to like
-clothes like these, too!)");
+MsgDisp("主人公","(Oh, good!
+｛七ツ森＊｝ seems to like clothes like
+these, too!)");

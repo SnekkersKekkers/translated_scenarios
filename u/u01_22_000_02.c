@@ -13,7 +13,7 @@ It's Hikaru♪");
 MsgDisp("主人公","Hehe, yep.
 What's up?");
 VoicePlay("U012200002_22_010");
-MsgDisp("Hikaru","Hey so, let's go to the forest park 
+MsgDisp("Hikaru","Hey so, let's go to the forest park
 together.
 It's the home of fireflies♪");
 MsgSel("Of course, let's go.","I'm busy today......Sorry.");

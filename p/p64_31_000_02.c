@@ -3,9 +3,8 @@ ChMouth(31,0);
 ChMotion(31,4);
 ScrFadeIn(0);
 VoicePlay("P643100002_31_000");
-MsgDisp("Goro","I'm happy to look at
-something beautiful whilst
-enjoying some delicious tea.");
+MsgDisp("Goro","I'm happy to look at something beautiful
+whilst enjoying some delicious tea.");
 MsgDisp("主人公","Hehe, did you enjoy it?");
 ChEye(31,2);
 ChMouth(31,2);

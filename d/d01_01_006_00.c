@@ -1,8 +1,8 @@
 BGOpen("wf400",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Huh?
-The event hall is packed......)");
+MsgDisp("主人公","(......Huh? The event hall is
+packed......)");
 MsgDisp("主人公","(\"Charity Auction Ongoing!\", huh......
 Wow, it's free to enter!)");
 VoicePlay("D010100600_31_000");
@@ -22,8 +22,8 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("D010100600_31_020");
-MsgDisp("Goro","Geez, if you worry like that, you
-won't get anything done!");
+MsgDisp("Goro","Geez, if you worry like that, you won't
+get anything done!");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,5);
@@ -45,8 +45,8 @@ MsgDisp("主人公","(Haa, that surprised me. But I managed to
 get to the auction in time. I wonder
 what's happening here......?)");
 VoicePlay("D010100600_01_000");
-MsgDisp("Kazama?","——Charity Auction Catalog:
-Collection Number 1");
+MsgDisp("Kazama?","——Charity Auction Catalog: Collection
+Number 1");
 MsgDisp("主人公","(Huh?
 That voice, that's......)");
 StlOpen("ev_01_13");
@@ -55,13 +55,12 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 VoicePlay("D010100600_01_010");
-MsgDisp("Kazama","A champaigne glass designed by
-Mr. Goro Hanatsubaki.");
-MsgDisp("主人公","(Eh......
-Ehh∋　｛風真＊＊｝∋)");
+MsgDisp("Kazama","A champaigne glass designed by Mr.
+Goro Hanatsubaki.");
+MsgDisp("主人公","(Eh...... Ehh∋ ｛風真＊＊｝∋ )");
 VoicePlay("D010100600_01_020");
-MsgDisp("Kazama","Goro Hanatsubaki is a world famous
-fashion designer.");
+MsgDisp("Kazama","Goro Hanatsubaki is a world famous fashion
+designer.");
 MsgDisp("Kazama","This is a great piece that beautifully
 showcases his talents.");
 StlEyeOpenLevel(1,5);
@@ -74,9 +73,9 @@ Even with so many guests......
 He's doing such a great job!)");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D010100600_01_040");
-MsgDisp("Kazama","525 Rich going once......
-525 Rich going twice. Is there anyone 
-else who would like to bid?");
+MsgDisp("Kazama","525 Rich going once...... 525 Rich going
+twice. Is there anyone else who would like
+to bid?");
 StlEye(1,1);
 StlMouthOpenLevel(1,0);
 VoicePlay("D010100600_01_050");
@@ -113,8 +112,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D010100600_01_070");
 MsgDisp("Kazama","That's my line.");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","Hehe, come to think of it, we made
-eye contact once in there, didn't we?");
+MsgDisp("主人公","Hehe, come to think of it, we made eye
+contact once in there, didn't we?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -131,9 +130,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100600_01_090");
-MsgDisp("Kazama","Even though it's a charity, they
-selected me, a highschooler of all
-people.");
+MsgDisp("Kazama","Even though it's a charity, they selected
+me, a highschooler of all people.");
 MsgDisp("Kazama","Because my dad used to do this......");
 MsgDisp("主人公","I see.
 Well maybe in the future, ｛風真＊＊｝,
@@ -144,8 +142,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100600_01_100");
 MsgDisp("Kazama","I don't want to.
-Everyone says that. But I'm different
-from him.");
+Everyone says that.
+But I'm different from him.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -160,15 +158,16 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100600_01_120");
-MsgDisp("Kazama","Because, you know. I think everything 
-has a proper value. I don't like it 
-when things are under or overpriced.");
+MsgDisp("Kazama","Because, you know. I think everything has
+a proper value. I don't like it when
+things are under or overpriced.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100600_01_130");
-MsgDisp("Kazama","......It's getting late already. Let's go.");
+MsgDisp("Kazama","......It's getting late already.
+Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

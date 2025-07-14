@@ -6,8 +6,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611101_06_000");
-MsgDisp("Himuro","It might be good to
-train your sense of balance.");
+MsgDisp("Himuro","It might be good to train your sense of
+balance.");
 MsgSel("I wonder who will fall first?","Is this similar to surfing?","Aren't your legs shaking?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ I don't feel like I'll lose though.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040611101_06_020");
-    MsgDisp("Himuro","In the sense that 
-core strength is essential.");
+    MsgDisp("Himuro","In the sense that core strength is
+essential.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

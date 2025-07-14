@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040118600_01_000");
     MsgDisp("Kazama","I'm glad.
-Well, I could feel your excitement too, 
-it was fun.");
+Well, I could feel your excitement too, it
+was fun.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,9 +25,8 @@ it was fun.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040118600_01_010");
-    MsgDisp("Kazama","Really?
-Who was so excited that they 
-threw their popcorn?");
+    MsgDisp("Kazama","Really? Who was so excited that they threw
+their popcorn?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,9 +36,8 @@ threw their popcorn?");
     ChMotion(1,3);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118600_01_020");
-    MsgDisp("Kazama","Yeah, the total production cost
-and the amount of gunpowder was
-staggering though.");
+    MsgDisp("Kazama","Yeah, the total production cost and the
+amount of gunpowder was staggering though.");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();

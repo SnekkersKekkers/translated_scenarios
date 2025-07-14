@@ -1,7 +1,8 @@
 BGOpen("sc500",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Oh yeah. Should I check out the new
-items in this month's Habacha feature?)");
+MsgDisp("主人公","(Oh yeah.
+Should I check out the new items in this
+month's Habacha feature?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -30,7 +31,7 @@ BGOpen("ev004",0);
 ChNanaType(1);
 ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝. ");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400201_04_010");
@@ -41,23 +42,23 @@ MsgDisp("Nanatsumori","Why you came here I mean.");
 ChMotion(4,2);
 VoicePlay("G110400201_04_030");
 MsgDisp("Nanatsumori","I think it's this.
-Look at the new items in this 
-month's Habacha magazine.");
+Look at the new items in this month's
+Habacha magazine.");
 VoicePlay("G110400201_04_040");
-MsgDisp("Nanatsumori","...I'm guessing you looked and
-it's all sold out. Bingo?");
+MsgDisp("Nanatsumori","...I'm guessing you looked and it's all
+sold out. Bingo?");
 MsgDisp("主人公","...Bingo.
 How did you know?");
 VoicePlay("G110400201_04_050");
-MsgDisp("Nanatsumori","If you see a girl walk into a 
-coffee shop alone with that look on
-her face, you can easily guess.");
+MsgDisp("Nanatsumori","If you see a girl walk into a coffee shop
+alone with that look on her face, you can
+easily guess.");
 MsgDisp("主人公","Hehe, I see.
 That's impressive, ｛七ツ森＊｝.");
 ChMotion(4,1);
 VoicePlay("G110400201_04_060");
-MsgDisp("Nanatsumori","Oh. This item from Habacha. I heard
-it sold out the day it was released.");
+MsgDisp("Nanatsumori","Oh. This item from Habacha. I heard it
+sold out the day it was released.");
 MsgDisp("主人公","I see...");
 VoicePlay("G110400201_04_070");
 MsgDisp("Nanatsumori","But I have good news for you.");

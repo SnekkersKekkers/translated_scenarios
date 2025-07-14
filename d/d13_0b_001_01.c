@@ -25,9 +25,9 @@ MsgDisp("Honda","Merry Merry Christmas!");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("D130B00101_04_000");
-MsgDisp("Nanatsumori","The gift exchange is done and now we
-have some free time. This is the last
-Christmas Party of high school, huh.");
+MsgDisp("Nanatsumori","The gift exchange is done and now we have
+some free time. This is the last Christmas
+Party of high school, huh.");
 ChEye(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
@@ -76,8 +76,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("D130B00101_03_040");
 MsgDisp("Honda","You know, the four of us made a lot of
-good memories together...... I'm really 
-grateful for Haba High.");
+good memories together......
+I'm really grateful for Haba High.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -87,8 +87,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D130B00101_04_020");
-MsgDisp("Nanatsumori","It's not like Dahon to say that kind
-of thing.
+MsgDisp("Nanatsumori","It's not like Dahon to say that kind of
+thing.
 But I agree with you.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -149,9 +149,8 @@ ChMotion(1,3);
 VoicePlay("D130B00101_01_080");
 MsgDisp("Kazama","No way!
 Ahahaha!");
-MsgDisp("主人公","(Hehe!
-I have so many good memories with these
-guys, just now was a new one!)");
+MsgDisp("主人公","(Hehe! I have so many good memories with
+these guys, just now was a new one!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -10,8 +10,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q080D00000_21_000");
-MsgDisp("Michiru","Wandering around with your best friends
-is amazing.");
+MsgDisp("Michiru","Wandering around with your best friends is
+amazing.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

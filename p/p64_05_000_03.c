@@ -6,8 +6,8 @@ ScrFadeIn(0);
 VoicePlay("P640500003_05_000");
 MsgDisp("Hiiragi","Hmm, 
 I'm sure it tastes good...");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-Thank you for your purchase.");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Thank you for your
+purchase.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

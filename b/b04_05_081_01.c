@@ -37,8 +37,8 @@ for you.");
     ChMotion(5,3);
     VoicePlay("B040508101_05_030");
     MsgDisp("Hiiragi","That's right.
-It's as if I can hear their 
-happy sounding voices.");
+It's as if I can hear their happy sounding
+voices.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

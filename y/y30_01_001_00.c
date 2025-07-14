@@ -25,9 +25,9 @@ VoicePlay("Y300100100_47_000");
 MsgDisp("Ryota's Mom","\"Sorry, Ryota Your father's job was
 suddenly decided\"");
 VoicePlay("Y300100100_43_000");
-MsgDisp("Ryota's Dad","\"I'm leaving on Monday morning. If
-you have friends you want to talk to,
-See them tomorrow\"");
+MsgDisp("Ryota's Dad","\"I'm leaving on Monday morning.
+If you have friends you want to talk
+to, See them tomorrow\"");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -47,10 +47,10 @@ MsgDisp("","On sunday I locked myself in my room,
 I looked up the distance to England
 in the encyclopedia I received for
 graduating.");
-MsgDisp("","9000 kilometers......
-We had never even travelled to
-neighboring towns by ourselves.
-This distance is hopeless for us.");
+MsgDisp("","9000 kilometers...... We had never
+even travelled to neighboring towns
+by ourselves. This distance is
+hopeless for us.");
 MsgDisp("","After learning that, I lost the
 strength to go and see her.");
 MsgClear();
@@ -59,17 +59,17 @@ MsgDisp("Kazama","(Wishing on a pinwheel?
 We were separated forever.
 What a cruel fate......)");
 MsgClear();
-MsgDisp("","I don't remember much for
-a while after arriving in England.");
+MsgDisp("","I don't remember much for a while
+after arriving in England.");
 MsgDisp("","Children are resilient.
-In order to protect themselves,
-they can distract their minds.");
+In order to protect themselves, they
+can distract their minds.");
 MsgDisp("","But, the first Christmas......");
 MsgClear();
 VoicePlay("Y300100100_47_010");
-MsgDisp("Ryota's Mom","\"How about sending
-Christmas and New Year greetings,
-to your friends at home?\"");
+MsgDisp("Ryota's Mom","\"How about sending Christmas and New
+Year greetings, to your friends at
+home?\"");
 MsgDisp("","\"My friends at home\"- With that
 simple comment the feelings I
 supressed poured out......");
@@ -77,22 +77,23 @@ VoicePlay("Y300100100_47_020");
 MsgDisp("Ryota's Mom","\"What's wrong Ryota?\"");
 MsgClear();
 MsgDisp("","- I couldn't stop crying.");
-MsgDisp("","After bothering my mom,
-I sat at my desk and wrote a card.");
+MsgDisp("","After bothering my mom, I sat at my
+desk and wrote a card.");
 MsgDisp("","\"Merry Christmas\"
 \"Happy New Year\"");
 MsgDisp("","The colorful letters on the card were
 the stark opposite of my feelings, -
 I couldn't write a word.");
 MsgClear();
-MsgDisp("","I lied to my mother,
-I didn't want to do it this year.
+MsgDisp("","I lied to my mother, I didn't want to
+do it this year.
 But I couldn't fool myself.");
-MsgDisp("","I can't write or call. The reality of
-our goodbye weighed on me.");
+MsgDisp("","I can't write or call.
+The reality of our goodbye weighed on
+me.");
 MsgDisp("","After that year, Every holiday, I
-would stare at the card. I was
-completely helpless.");
+would stare at the card.
+I was completely helpless.");
 MsgClear();
 VoicePlay("Y300100100_01_060");
 MsgDisp("Kazama","\"Maybe this year I can write

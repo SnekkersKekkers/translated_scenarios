@@ -14,8 +14,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020111000_01_210");
 MsgDisp("Kazama","It was here, where we reunited, that I was
-able to face you for the first time. Thank
-you.");
+able to face you for the first time.
+Thank you.");
 MsgDisp("主人公","No, thank you too.");
 ChEye(1,2);
 ChMouth(1,3);
@@ -30,8 +30,7 @@ Wait(12,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_230");
-MsgDisp("Kazama","｛主人公｝,
-You were my everything.");
+MsgDisp("Kazama","｛主人公｝, You were my everything.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);

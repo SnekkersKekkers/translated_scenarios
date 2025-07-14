@@ -2,8 +2,8 @@ BGOpen("ex070",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Good day!
-I'm here to have the notes and photos
-I took for my interviews checked.");
+I'm here to have the notes and photos I
+took for my interviews checked.");
 VoicePlay("D030901000_41_000");
 MsgDisp("Tanaka Shin","Ah, thanks for the hard work!
 Let me take a look.");
@@ -29,8 +29,8 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901000_09_020");
-MsgDisp("Kuya","My sister called me here to help her
-with something.");
+MsgDisp("Kuya","My sister called me here to help her with
+something.");
 VoicePlay("D030901000_45_000");
 MsgDisp("Shirahane Mayo","Kuya, over here!");
 ChEye(9,0);
@@ -44,8 +44,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
 MsgDisp("主人公","(I can't believe I ran into him here......
 I wonder how his studies are going?)");
-MsgDisp("主人公","......!
-I need to focus on my work too!
+MsgDisp("主人公","......! I need to focus on my work too!
 Please check my work!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -68,9 +67,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_050");
-MsgDisp("Kuya","Yeah.
-Are you finished now too?
-Do you have some time to spare?");
+MsgDisp("Kuya","Yeah. Are you finished now too? Do you
+have some time to spare?");
 MsgDisp("主人公","Yeah.");
 BGMStop();
 MsgClose();
@@ -85,8 +83,8 @@ ChMouth(9,0);
 ChMotion(9,0);
 ScrFadeIn(0);
 VoicePlay("D030901000_09_060");
-MsgDisp("Kuya","I really wanted to see you today no
-matter what.");
+MsgDisp("Kuya","I really wanted to see you today no matter
+what.");
 MsgDisp("主人公","Eh?");
 ChMotion(9,4,1);
 VoicePlay("D030901000_09_070");
@@ -99,8 +97,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901000_09_080");
-MsgDisp("Kuya","Chocolate.
-Because today is Valentine's Day.");
+MsgDisp("Kuya","Chocolate. Because today is Valentine's
+Day.");
 MsgDisp("主人公","Eh, but......
 Sorry, I don't have anything prepared——");
 ChEye(9,3);
@@ -110,8 +108,8 @@ VoicePlay("D030901000_09_090");
 MsgDisp("Kuya","It's fine.
 I wanted to give it to you.");
 MsgDisp("主人公","Thank you so much.
-But isn't it weird to get chocolate
-from a guy?");
+But isn't it weird to get chocolate from a
+guy?");
 ChMotion(9,0,1);
 ChCheek(9,4);
 VoicePlay("D030901000_09_100");
@@ -145,33 +143,31 @@ ChMotion(9,4,1);
 VoicePlay("D030901000_09_140");
 MsgDisp("Kuya","Ah......But yesterday I spent the whole
 day making those chocolates.");
-MsgDisp("主人公","Hehe.
-It looks really yummy. I'm excited to
-eat it!");
+MsgDisp("主人公","Hehe. It looks really yummy. I'm excited
+to eat it!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901000_09_150");
 MsgDisp("Kuya","I'm glad.
-I'm very grateful for you, for scolding
-me and giving me goals.");
+I'm very grateful for you, for scolding me
+and giving me goals.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);
 VoicePlay("D030901000_09_160");
-MsgDisp("Kuya","So you don't need to give me anything
-in return. I'm sure you'll keep teaching
-me a lot of new things.");
+MsgDisp("Kuya","So you don't need to give me anything in
+return. I'm sure you'll keep teaching me a
+lot of new things.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_170");
-MsgDisp("Kuya","Ah......Is it okay to say that?
-But you know, I'm hopeful. Haha!");
-MsgDisp("主人公","(Hehe!
-Kuya-san seems to be \"studying\" hard!
-I need to work hard too!)");
+MsgDisp("Kuya","Ah......Is it okay to say that? But you
+know, I'm hopeful. Haha!");
+MsgDisp("主人公","(Hehe! Kuya-san seems to be \"studying\"
+hard! I need to work hard too!)");
 MsgClose();
 ScrFadeOut(0,0);

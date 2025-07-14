@@ -10,8 +10,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040612100_06_000");
-MsgDisp("Himuro","...There's surprisingly
-more people than I thought.");
+MsgDisp("Himuro","...There's surprisingly more people than I
+thought.");
 MsgSel("Let's find some bargains!","Setting up a store seems fun.","It's an environmentally friendly event, isn't it?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -43,8 +43,8 @@ even within this crowd?");
     ChMotion(6,4);
     VoicePlay("B040612100_06_030");
     MsgDisp("Himuro","Hmm, how surprising.
-I didn't think you were interested
-in environmental issues.");
+I didn't think you were interested in
+environmental issues.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

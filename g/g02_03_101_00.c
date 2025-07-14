@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(3,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020310100_03_000");
 MsgDisp("Honda","Hey, do you remember when we went out with
-Ryo-kun and Mii-kun, the four of us? Did
-you have fun?");
+Ryo-kun and Mii-kun, the four of us?
+Did you have fun?");
 MsgDisp("主人公","Yeah, I had fun.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -17,8 +17,8 @@ ChEye(3,2);
 ChMotion(3,4);
 VoiceEVSPlay(3);
 VoicePlay("G020310100_03_020");
-MsgDisp("Honda","｛主人公｝. Do you think I've been acting
-weird lately? Have I been mean?");
+MsgDisp("Honda","｛主人公｝. Do you think I've been
+acting weird lately? Have I been mean?");
 MsgDisp("主人公","......Why is that?");
 ChEye(3,4);
 ChMouth(3,4);

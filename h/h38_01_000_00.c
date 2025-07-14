@@ -23,11 +23,10 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("H380100000_01_020");
     MsgDisp("Kazama","Haha, you'll be fine.
-If it's you, you'll win it all in just
-a single point!");
-    MsgDisp("主人公","(Alright!
-Let's do our best, to show off to
-｛風真＊＊｝ too!)");
+If it's you, you'll win it all in just a
+single point!");
+    MsgDisp("主人公","(Alright! Let's do our best, to show off
+to ｛風真＊＊｝ too!)");
     break ;
     case 4:
     case 5:
@@ -37,32 +36,31 @@ Let's do our best, to show off to
     VoiceEVSPlay(1);
     VoicePlay("H380100000_01_030");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Did you come to cheer me on?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Did you come to cheer me
+on?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H380100000_01_040");
-    MsgDisp("Kazama","I was so worried that I couldn't
-sit still.
+    MsgDisp("Kazama","I was so worried that I couldn't sit
+still.
 Listen, don't do anything rash.");
-    MsgDisp("主人公","Yeah, I'll definitely win,
-so just watch me!");
+    MsgDisp("主人公","Yeah, I'll definitely win, so just watch
+me!");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,4);
     VoicePlay("H380100000_01_050");
-    MsgDisp("Kazama","......Geez, are you even listening to
-what I'm saying?");
+    MsgDisp("Kazama","......Geez, are you even listening to what
+I'm saying?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H380100000_01_060");
     MsgDisp("Kazama","I'll be watching.
 So, make sure you won't have any regrets.");
-    MsgDisp("主人公","Yeah.
-It's reassuring just having you here,
-｛風真＊＊｝.");
+    MsgDisp("主人公","Yeah. It's reassuring just having you
+here, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -70,9 +68,8 @@ It's reassuring just having you here,
     MsgDisp("Kazama","Don't worry.
 I'll pick up you later with the best
 reaction.");
-    MsgDisp("主人公","(Alright.
-Let's do our best,
-for ｛風真＊＊｝ too!)");
+    MsgDisp("主人公","(Alright. Let's do our best, for
+｛風真＊＊｝ too!)");
     break ;
     default :
     DbgAssert(1);

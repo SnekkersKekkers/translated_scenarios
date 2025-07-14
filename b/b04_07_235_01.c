@@ -5,8 +5,9 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723501_07_000");
-MsgDisp("Mikage","The haunted house is kinda like
-the school festival. It's nice.");
+MsgDisp("Mikage","The haunted house is kinda like the school
+festival.
+It's nice.");
 MsgSel("There's a handmade feeling to it.","The ghosts weren't scary, right?","But you were scared, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3);
     VoicePlay("B040723501_07_010");
     MsgDisp("Mikage","I see, that's exactly it.
-I felt like they were preparing 
-with all their might.");
+I felt like they were preparing with all
+their might.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

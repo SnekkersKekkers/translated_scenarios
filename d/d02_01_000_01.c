@@ -4,16 +4,15 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh?
-｛風真＊＊｝, good morning!
-Were you maybe waiting for me?");
+MsgDisp("主人公","Oh? ｛風真＊＊｝, good morning! Were you
+maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_000");
-MsgDisp("Kazama","Waiting or not, we're going the same
-way, aren't we?");
+MsgDisp("Kazama","Waiting or not, we're going the same way,
+aren't we?");
 MsgDisp("主人公","That's true.
 It really feels like we're back in
 elementary school again.");
@@ -21,9 +20,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_010");
-MsgDisp("Kazama","I guess so. When I look at you, I don't 
-notice anything different. It's like
-you haven't grown at all.");
+MsgDisp("Kazama","I guess so. When I look at you, I don't
+notice anything different. It's like you
+haven't grown at all.");
 MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
 haven't you?");
 ChEye(1,4);
@@ -52,9 +51,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_050");
-MsgDisp("Kazama","Yes, yes, everything's fine.
-It's just business as usual for you
-again today. Let's go.");
+MsgDisp("Kazama","Yes, yes, everything's fine. It's just
+business as usual for you again today.
+Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
@@ -105,9 +104,8 @@ ChOpen(1,254,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(1,3);
 VoicePlay("D020100000_01_150");
-MsgDisp("Kazama","Hahaha!
-A bubbly and clumsy person.
-That's good. You're too funny.");
+MsgDisp("Kazama","Hahaha! A bubbly and clumsy person. That's
+good. You're too funny.");
 MsgDisp("主人公","Geez......");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -129,8 +127,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_170");
 MsgDisp("Kazama","Ah, maybe you should just take off your
-shoes and let me carry you until
-we get to the shoe lockers.");
+shoes and let me carry you until we get to
+the shoe lockers.");
 MsgDisp("Kazama","Here, piggyback ride.");
 MsgDisp("主人公","W-Wait, ｛風真＊＊｝∋
 I said I'm fine so......
@@ -160,8 +158,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 VoicePlay("D020100000_01_180");
-MsgDisp("Kazama","Whatever.
-I don't care at all if they stare.");
+MsgDisp("Kazama","Whatever. I don't care at all if they
+stare.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","It bothers me!");
 SEStop("EV_SE_515",1);

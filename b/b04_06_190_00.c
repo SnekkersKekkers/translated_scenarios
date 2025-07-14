@@ -11,9 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040619000_06_000");
-    MsgDisp("Himuro","The visuals were impressive, 
-the production was good, 
-and it was worth seeing.");
+    MsgDisp("Himuro","The visuals were impressive, the
+production was good, and it was worth
+seeing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,10 +24,10 @@ and it was worth seeing.");
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040619000_06_010");
-    MsgDisp("Himuro","That's a fair assessment.
-The pictures looked nice, but the 
-story was lacking. I wish they put
-a little more effort into it.");
+    MsgDisp("Himuro","That's a fair assessment. The pictures
+looked nice, but the story was lacking. I
+wish they put a little more effort into
+it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ a little more effort into it.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040619000_06_020");
-    MsgDisp("Himuro","Isn't that because
-you're lacking information?");
+    MsgDisp("Himuro","Isn't that because you're lacking
+information?");
     MsgDateResultDisp();
     break ;
     default :

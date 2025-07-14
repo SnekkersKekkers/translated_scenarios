@@ -27,8 +27,8 @@ ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("L020D00006_22_020");
 MsgDisp("Hikaru","That's true, but......
-I think there are people who really
-wanted Mari's chocolates.");
+I think there are people who really wanted
+Mari's chocolates.");
 MsgDisp("主人公","(Hm, maybe I should've gotten
 chocolate.)");
 BGMStop();

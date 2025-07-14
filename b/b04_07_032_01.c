@@ -6,8 +6,8 @@ ChMouth(7,3);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040703201_07_000");
-MsgDisp("Mikage","Then, choose your own theme and 
-walk around and look freely.");
+MsgDisp("Mikage","Then, choose your own theme and walk
+around and look freely.");
 MsgSel("My... theme...","｛御影＊＊｝, aren't you having fun?","There's a cafe over there, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3,1);
     VoicePlay("B040703201_07_010");
     MsgDisp("Mikage","Oii, that's not it.
-I meant the theme of the
-class field trip.");
+I meant the theme of the class field trip.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

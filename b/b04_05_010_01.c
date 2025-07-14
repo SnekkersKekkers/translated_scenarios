@@ -8,8 +8,9 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B040501001_05_000");
-MsgDisp("Hiiragi","Ah, that's nice. How about wearing clothes
-like this once in a while?");
+MsgDisp("Hiiragi","Ah, that's nice.
+How about wearing clothes like this once
+in a while?");
 MsgSel("Really, I might buy it!","Is that so...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:

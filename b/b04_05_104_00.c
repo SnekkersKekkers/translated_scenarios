@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040510400_05_010");
-    MsgDisp("Hiiragi","Leg? Are you already tired?
-Hm, are you talking about the insect legs?");
+    MsgDisp("Hiiragi","Leg? Are you already tired? Hm, are you
+talking about the insect legs?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -28,8 +28,8 @@ Hm, are you talking about the insect legs?");
     ChMotion(5,2);
     VoicePlay("B040510400_05_020");
     MsgDisp("Hiiragi","Eh, is that so...
-Let's pass by the butterfly 
-specimen corner.");
+Let's pass by the butterfly specimen
+corner.");
     MsgDateResultDisp();
     break ;
     case 2:

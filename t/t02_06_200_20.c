@@ -44,8 +44,8 @@ VoicePlay("T020620000_06_150");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","So, just for now,
-let me have that smile all to myself.");
+MsgDisp("Himuro","So, just for now, let me have that smile
+all to myself.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

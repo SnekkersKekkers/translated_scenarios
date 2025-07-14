@@ -24,30 +24,30 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10500_07_000");
 MsgDisp("Mikage","Speaking of, we need a theme...");
-MsgDisp("主人公","How about buying things the
-theater troupe needs?");
+MsgDisp("主人公","How about buying things the theater troupe
+needs?");
 ChEye(5,0);
 ChMouth(5,2);
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B330C10500_07_010");
-MsgDisp("Mikage","That's nice isn't it? Seems fun.");
+MsgDisp("Mikage","That's nice isn't it?
+Seems fun.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C10500_06_010");
-MsgDisp("Himuro","Yeah.
-Seems like it would be helpful
-for Yanosuke-senpai too.");
+MsgDisp("Himuro","Yeah. Seems like it would be helpful for
+Yanosuke-senpai too.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C10500_05_010");
 MsgDisp("Hiiragi","Is that alright?
-Even though the four of were 
-finally able to go out together?");
+Even though the four of were finally able
+to go out together?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -57,8 +57,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330C10500_06_020");
-MsgDisp("Himuro","But what would you need for the 
-theater troupe... stuff like props?");
+MsgDisp("Himuro","But what would you need for the theater
+troupe...
+stuff like props?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -69,8 +70,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10500_07_030");
-MsgDisp("Mikage","Being chairman is tough huh. Today I'll do
-anything, even carry your bags.");
+MsgDisp("Mikage","Being chairman is tough huh.
+Today I'll do anything, even carry your
+bags.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
@@ -123,7 +125,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Amazing!");
 VoicePlay("B330C10500_05_050");
 MsgDisp("Hiiragi","I received some good fortune from
-everyone. I'll share it with you all.");
+everyone.
+I'll share it with you all.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,5);
@@ -134,8 +137,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10500_05_060");
-MsgDisp("Hiiragi","No, not even the theater 
-company can eat this much.");
+MsgDisp("Hiiragi","No, not even the theater company can eat
+this much.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -166,9 +169,9 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C10500_05_070");
 MsgDisp("Hiiragi","Me too, please.");
-MsgDisp("主人公","Ehh∋ ｛柊＊＊＊｝ and ｛御影＊＊｝, you
-guys don't even like instant noodles, do
-you?");
+MsgDisp("主人公","Ehh∋ ｛柊＊＊＊｝ and ｛御影＊＊｝,
+you guys don't even like instant noodles,
+do you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -185,11 +188,11 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10500_05_090");
-MsgDisp("Hiiragi","Today was a first-prize kind 
-of day right until the end.");
+MsgDisp("Hiiragi","Today was a first-prize kind of day right
+until the end.");
 MsgDisp("主人公","(Hehe, I'm glad.
-Seeing ｛柊＊＊＊｝ enjoy himself
-makes me super happy!)");
+Seeing ｛柊＊＊＊｝ enjoy himself makes me
+super happy!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

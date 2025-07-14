@@ -28,8 +28,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B140100000_01_020");
-MsgDisp("Kazama","Yeah, this is the first time
-something like this has happened.");
+MsgDisp("Kazama","Yeah, this is the first time something
+like this has happened.");
 MsgDisp("主人公","...I'm happy.");
 ChMotion(1,0);
 Wait(12,0);
@@ -37,8 +37,8 @@ ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("B140100000_01_030");
 MsgDisp("Kazama","I see.
-We've known each other a long time, 
-but there are still \"firsts\" for us.");
+We've known each other a long time, but
+there are still \"firsts\" for us.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

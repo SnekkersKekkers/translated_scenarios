@@ -16,12 +16,13 @@ ChMotion(4,1,1);
 BGOpen("ne610",0);
 ScrFadeIn(0);
 VoicePlay("B030418000_04_010");
-MsgDisp("Nanatsumori","This is limited edition popcorn,
-but be careful not to eat too much
-since it's so good.");
+MsgDisp("Nanatsumori","This is limited edition popcorn, but be
+careful not to eat too much since it's so
+good.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe, is that an issue for ｛七ツ森＊｝
-too? Oh, it's starting.");
+too?
+Oh, it's starting.");
 MsgDispSksp(0);
 MsgClose();
 MsgClose();

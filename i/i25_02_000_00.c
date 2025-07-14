@@ -10,10 +10,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I250200000_02_000");
-    MsgDisp("Sassa","｛主人公｝,
-good work.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Welcome.");
+    MsgDisp("Sassa","｛主人公｝, good work.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -26,22 +24,22 @@ Are you looking for something?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I250200000_02_020");
-    MsgDisp("Sassa","Yeah, I came to buy this
-comic that I like.");
+    MsgDisp("Sassa","Yeah, I came to buy this comic that I
+like.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I250200000_02_030");
-    MsgDisp("Sassa","A crazy manga where a dog is the
-main character.
+    MsgDisp("Sassa","A crazy manga where a dog is the main
+character.
 Do you know it?");
     MsgDisp("主人公","A dog is the main character?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I250200000_02_040");
-    MsgDisp("Sassa","It's a little old, but a new
-edition just came out.
+    MsgDisp("Sassa","It's a little old, but a new edition just
+came out.
 If you want, you can borrow it from me.");
     MsgDisp("主人公","Hehe, okay.
 Thanks.");
@@ -55,8 +53,8 @@ It's that.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝
-really likes dogs......)");
+    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ really likes
+dogs......)");
     break ;
     case 3:
     VoicePlay("I250200000_02_060");
@@ -72,9 +70,9 @@ really likes dogs......)");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("I250200000_02_080");
-    MsgDisp("Sassa","You know, talking to you like this
-feels interesting compared to talking
-at school or when we go out.");
+    MsgDisp("Sassa","You know, talking to you like this feels
+interesting compared to talking at school
+or when we go out.");
     MsgDisp("主人公","Interesting?");
     ChEye(2,0);
     ChMouth(2,3);
@@ -89,21 +87,20 @@ This, please.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I250200000_02_100");
-    MsgDisp("Sassa","Yeah. We have one in the
-school library, but I wanted to buy
-the new edition that just came out.");
+    MsgDisp("Sassa","Yeah. We have one in the school library,
+but I wanted to buy the new edition that
+just came out.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I250200000_02_110");
-    MsgDisp("Sassa","I'll have to review it as soon
-as I get home.");
+    MsgDisp("Sassa","I'll have to review it as soon as I get
+home.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝,
-what are you studying?)");
+    MsgDisp("主人公","(｛颯砂＊＊｝, what are you studying?)");
     break ;
     case 4:
     case 5:
@@ -120,31 +117,29 @@ what are you studying?)");
     VoicePlay("I250200000_02_130");
     MsgDisp("Sassa","I'm not here for anything today.
 Just hanging out.");
-    MsgDisp("主人公","Yeah, it's easy to wander into
-a bookstore.");
+    MsgDisp("主人公","Yeah, it's easy to wander into a
+bookstore.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,0);
     VoicePlay("I250200000_02_140");
     MsgDisp("Sassa","You're a good shopkeeper.
-Just you being here makes the store
-nicer.");
+Just you being here makes the store nicer.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,2);
     VoicePlay("I250200000_02_150");
-    MsgDisp("Sassa","Haa...... I want to work
-part-time here, too.");
-    MsgDisp("主人公","Huh?
-You, ｛颯砂＊＊｝, in a bookstore?");
+    MsgDisp("Sassa","Haa...... I want to work part-time here,
+too.");
+    MsgDisp("主人公","Huh? You, ｛颯砂＊＊｝, in a bookstore?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("I250200000_02_160");
     MsgDisp("Sassa","You don't need to be so surprised.");
     MsgDisp("主人公","Hehe, sorry.
-But maybe I do want to see you
-wearing this apron, ｛颯砂＊＊｝.");
+But maybe I do want to see you wearing
+this apron, ｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,0);
@@ -157,23 +152,22 @@ job here.");
     ChMotion(2,1);
     ChEyeOpenLevel(2,0);
     VoicePlay("I250200000_02_180");
-    MsgDisp("Sassa","Let me know next time
-you guys are hiring. I'm already trained
-for heavy lifting, you know?");
+    MsgDisp("Sassa","Let me know next time you guys are hiring.
+I'm already trained for heavy lifting, you
+know?");
     MsgDisp("主人公","Hehe, I'll let you know.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I250200000_02_190");
-    MsgDisp("Sassa","Until then, I'll come to see
-your apron──
-I mean, the books, okay?");
+    MsgDisp("Sassa","Until then, I'll come to see your
+apron── I mean, the books, okay?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Working with ｛颯砂＊＊｝
-would make the store really lively!)");
+    MsgDisp("主人公","(Working with ｛颯砂＊＊｝ would make the
+store really lively!)");
     break ;
     default :
     DbgAssert(1);

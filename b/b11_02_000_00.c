@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛颯砂＊＊｝
-still isn't here yet...");
+MsgDisp("主人公","Looks like ｛颯砂＊＊｝ still isn't here
+yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -11,13 +11,14 @@ Did something happen?)");
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110200000_33_000");
-MsgDisp("Guy","There's a world that I want 
-to show you. Won't you see it?");
+MsgDisp("Guy","There's a world that I want to show you.
+Won't you see it?");
 MsgDisp("主人公","Eh∋
 W-What is it?");
 VoicePlay("B110200000_33_010");
-MsgDisp("Guy","The true, conspiracy-filled 
-reality of the world. I'll show you.");
+MsgDisp("Guy","The true, conspiracy-filled reality of the
+world.
+I'll show you.");
 ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
@@ -69,8 +70,8 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110200000_33_040");
-MsgDisp("Guy","D-Don't get carried away 
-just because you're big～!");
+MsgDisp("Guy","D-Don't get carried away just because
+you're big～!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(33);
@@ -79,8 +80,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B110200000_02_040");
-MsgDisp("Sassa","What's with that guy, 
-spouting about how big people are...");
+MsgDisp("Sassa","What's with that guy, spouting about how
+big people are...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -88,9 +89,8 @@ VoicePlay("B110200000_02_050");
 MsgDisp("Sassa","Ah, more importantly, I'm sorry.
 It's my fault for being late.
 Were you scared?");
-MsgDisp("主人公","No.
-I felt safe because ｛颯砂＊＊｝
-was there.");
+MsgDisp("主人公","No. I felt safe because ｛颯砂＊＊｝ was
+there.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -103,8 +103,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("B110200000_02_070");
-MsgDisp("Sassa","Hmmm...
-I don't dislike it when you say it.");
+MsgDisp("Sassa","Hmmm... I don't dislike it when you say
+it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);

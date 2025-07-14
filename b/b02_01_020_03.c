@@ -11,5 +11,4 @@ ChMotion(1,0);
 VoicePlay("B020102003_01_010");
 MsgDisp("Kazama","Not particularly.
 But because of you, I think it looks good.");
-MsgDisp("主人公","(Awesome!
-｛風真＊＊｝ complimented me!)");
+MsgDisp("主人公","(Awesome! ｛風真＊＊｝ complimented me!)");

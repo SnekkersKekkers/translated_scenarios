@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040518400_05_000");
     MsgDisp("Hiiragi","Yes, it made people of all ages and
-genders happy. That is what I should aim
-for.");
+genders happy.
+That is what I should aim for.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,8 +24,8 @@ for.");
     ChMotion(5,2);
     VoicePlay("B040518400_05_010");
     MsgDisp("Hiiragi","Everyone has their own interpretations.
-As for my rating,
-I thought it was wonderful.");
+As for my rating, I thought it was
+wonderful.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -33,9 +33,8 @@ I thought it was wonderful.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040518400_05_020");
-    MsgDisp("Hiiragi","Differences in interpretation,
-differences in explanation.
-I'd like to know why the 
+    MsgDisp("Hiiragi","Differences in interpretation, differences
+in explanation. I'd like to know why the
 ratings are so different.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

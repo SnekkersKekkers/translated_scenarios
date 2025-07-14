@@ -12,9 +12,9 @@ MsgClear();
 VoicePlay("Y300300500_03_000");
 MsgDisp("Honda","(If I don't see her, the chemical
 reaction does not occur.)");
-MsgDisp("","Soon after entering university, 
-I came here to help a
-professor with his lecture.");
+MsgDisp("","Soon after entering university, I
+came here to help a professor with
+his lecture.");
 MsgDisp("","Right, this is——");
 MsgClear();
 MsgClose();
@@ -27,14 +27,14 @@ MsgClear();
 MsgDisp("主人公","\"\"Amazing, to think you were able to
 start helping a professor in first
 year!\"");
-MsgDisp("","You were happy as usual, 
-but if I go to Nagasaki, 
-I won't be able to see you, you know?");
+MsgDisp("","You were happy as usual, but if I go
+to Nagasaki, I won't be able to see
+you, you know?");
 MsgClear();
-MsgDisp("","Seeing my sulky expression,
-you laughed pleasantly and said:");
-MsgDisp("主人公","\"Once you're done with helping, 
-I'll also go visit Nagasaki!\"");
+MsgDisp("","Seeing my sulky expression, you
+laughed pleasantly and said:");
+MsgDisp("主人公","\"Once you're done with helping, I'll
+also go visit Nagasaki!\"");
 MsgClear();
 MsgDisp("","Hmー...... Hmm... between two weeks of
 not seeing you, and then being able
@@ -54,17 +54,18 @@ Meganebashi bridge?\"");
 MsgDisp("","Our meeting place, Meganebashi. That
 was her idea. I even said I would go
 to the airport.");
-MsgDisp("","Thinking back now, maybe this
-is indeed better as a setting?");
+MsgDisp("","Thinking back now, maybe this is
+indeed better as a setting?");
 MsgDisp("","While I was looking at the surface of
 the river, a familiar voice calls out
 for me.");
 MsgClear();
-MsgDisp("主人公","\"｛本多＊＊｝!
-Shall we go explore together?\"");
+MsgDisp("主人公","\"｛本多＊＊｝! Shall we go explore
+together?\"");
 VoicePlay("Y300300500_03_010");
-MsgDisp("Honda","\"Of course. I'll commentate on
-everything thoroughly!\"");
+MsgDisp("Honda","\"Of course.
+I'll commentate on everything
+thoroughly!\"");
 MsgClear();
 MsgDisp("","After two weeks, That warmth within
 me has arisen again.");

@@ -2,8 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ahh...
-Even though it was my last stage...)");
+MsgDisp("主人公","(Ahh... Even though it was my last
+stage...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -26,9 +26,8 @@ VoicePlay("P743100005_31_020");
 MsgDisp("Goro","But you know, the wedding dress you made
 was on the level of global fashion shows.
 I was also inspired.");
-MsgDisp("主人公","(Haa...
-I was super happy with my dress but...
-I wish I had been more prepared...)");
+MsgDisp("主人公","(Haa... I was super happy with my dress
+but... I wish I had been more prepared...)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);

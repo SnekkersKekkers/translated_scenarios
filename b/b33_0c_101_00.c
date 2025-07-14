@@ -12,8 +12,8 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 ChEye(5,3);
 VoicePlay("B330C10100_05_000");
-MsgDisp("Hiiragi","It's like the four of us are 
-going on a cruise.");
+MsgDisp("Hiiragi","It's like the four of us are going on a
+cruise.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -30,14 +30,14 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10100_05_020");
-MsgDisp("Hiiragi","Yes, I have been able to go to 
-remote islands too.");
+MsgDisp("Hiiragi","Yes, I have been able to go to remote
+islands too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B330C10100_06_000");
-MsgDisp("Himuro","Do you ever wish you could return
-to those days, Yanosuke-senpai?");
+MsgDisp("Himuro","Do you ever wish you could return to those
+days, Yanosuke-senpai?");
 ChEye(5,0);
 ChMouth(5,2);
 MsgDisp("主人公","Eh...");
@@ -46,8 +46,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10100_05_030");
-MsgDisp("Hiiragi","...No.
-I have not gotten used to it yet, 
+MsgDisp("Hiiragi","...No. I have not gotten used to it yet,
 but I love life at Haba High.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -60,15 +59,15 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10100_05_040");
 MsgDisp("Hiiragi","I apologise.
-But, I do hold a bit of nostalgia 
-for those days.");
+But, I do hold a bit of nostalgia for
+those days.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B330C10100_07_020");
 MsgDisp("Mikage","I see.
-Isn't that proof that you're staring 
-to have more freedom now?");
+Isn't that proof that you're staring to
+have more freedom now?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -116,8 +115,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10100_05_080");
-MsgDisp("Hiiragi","It's thanks to you all that I now have
-the freedom to reminisce about the past.");
+MsgDisp("Hiiragi","It's thanks to you all that I now have the
+freedom to reminisce about the past.");
 MsgDisp("主人公","(Alright, let's enjoy this 4 person boat
 trip!)");
 MsgClose();

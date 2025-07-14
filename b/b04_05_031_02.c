@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040503102_05_000");
-MsgDisp("Hiiragi","The sound of the water, the darkness,
-the air temperature...
+MsgDisp("Hiiragi","The sound of the water, the darkness, the
+air temperature...
 it's all so calming.");
 MsgSel("｛柊＊＊＊｝ is like a fish","Maybe I want a little more excitement?","It should be feeding time soon");
 switch (MsgSelRsltGet()){
@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_010");
-    MsgDisp("Hiiragi","Hehe.
-Yes, I wonder if they'd keep me here.");
+    MsgDisp("Hiiragi","Hehe. Yes, I wonder if they'd keep me
+here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -62,9 +62,9 @@ Or I was too reliant on you.");
         ChMouth(5,0);
         ChMotion(5,4);
         VoicePlay("B040503102_05_050");
-        MsgDisp("Hiiragi","Right. Before I realized it, 
-I was only seeking comfort in the 
-times in which I was with you.");
+        MsgDisp("Hiiragi","Right. Before I realized it, I was only
+seeking comfort in the times in which I
+was with you.");
         ChEye(5,0);
         ChMouth(5,3);
         ChMotion(5,0);
@@ -76,8 +76,8 @@ times in which I was with you.");
 Huh, Yanosuke-sama∈");
         VoicePlay("B040503102_46_000");
         MsgDisp("Woman B","Waa, amazing, is it really?
-I wonder if that girl is
-Yanosuke-sama's girlfriend?");
+I wonder if that girl is Yanosuke-sama's
+girlfriend?");
         VoicePlay("B040503102_45_010");
         MsgDisp("Woman A","Ehー, no way.
 That would be impossible.");
@@ -85,8 +85,8 @@ That would be impossible.");
         VoicePlay("B040503102_05_070");
         MsgDisp("Hiiragi","This person is my special someone.
 I apologize for the disturbance.");
-        MsgDisp("主人公","(Ehhh∋
-That's embarrassing, ｛柊＊＊＊｝...!)");
+        MsgDisp("主人公","(Ehhh∋ That's embarrassing,
+｛柊＊＊＊｝...! )");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -109,8 +109,9 @@ My heart is still pounding...)");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_090");
-    MsgDisp("Hiiragi","It appears that way. The fish are
-beginning to get restless too.");
+    MsgDisp("Hiiragi","It appears that way.
+The fish are beginning to get restless
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

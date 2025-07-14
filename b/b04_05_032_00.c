@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040503200_05_010");
     MsgDisp("Hiiragi","That's right.
-It's completely different to 
-when they're waddling on land.");
+It's completely different to when they're
+waddling on land.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ I over exaggerated a little.");
     ChMotion(5,0);
     VoicePlay("B040503200_05_030");
     MsgDisp("Hiiragi","That's right, I'm jealous.
-I wonder how much fun it would be
-to be able to swim like that.");
+I wonder how much fun it would be to be
+able to swim like that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

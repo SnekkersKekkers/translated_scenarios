@@ -13,5 +13,5 @@ No matter how much I tried, I couldn't
 pull it off. I guess I don't have the
 sense of style you do?");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like clothes
-like this, too.)");
+｛本多＊＊｝ seems to like clothes like
+this, too.)");

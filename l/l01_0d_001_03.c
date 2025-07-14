@@ -12,8 +12,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("L010D00103_22_000");
 MsgDisp("Hikaru","Yeah yeah!
-There are lots of guys who like this
-kind of thing!");
+There are lots of guys who like this kind
+of thing!");
 MsgDisp("主人公","Yeah, they came out great!");
 MsgClose();
 ScrFadeOut(0,0);

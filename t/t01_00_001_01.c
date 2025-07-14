@@ -18,6 +18,6 @@ BGOpen("ex170",0);
 EnvPlay("SE_ENV_BG_EV019_CO0",1);
 ScrFadeIn(0);
 MsgDisp("主人公","It's nostalgic......");
-MsgDisp("主人公","(I feel like even when I was little,
-I ran down this road; beckoned by 
-the sound of the bell.)");
+MsgDisp("主人公","(I feel like even when I was little, I ran
+down this road; beckoned by the sound of
+the bell.)");

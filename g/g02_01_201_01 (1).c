@@ -23,9 +23,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020120101_01_030");
-MsgDisp("Kazama","Then that settles it. I'll keep coming
-here with you as long as the fireflies are
-around.");
+MsgDisp("Kazama","Then that settles it.
+I'll keep coming here with you as long as
+the fireflies are around.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -46,8 +46,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120101_01_060");
 MsgDisp("Kazama","You can do whatever whenever with whoever.
-Same goes for here. Come with whoever you
-want.");
+Same goes for here.
+Come with whoever you want.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

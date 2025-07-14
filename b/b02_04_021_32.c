@@ -12,9 +12,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402132_04_010");
-MsgDisp("Nanatsumori","Yes, that expression exactly! It's not
-just about the clothes, but the
+MsgDisp("Nanatsumori","Yes, that expression exactly!
+It's not just about the clothes, but the
 person wearing it that makes it sexy too.");
-MsgDisp("主人公","(Umm...?
-But ｛七ツ森＊｝ seems to have really
-come to like these kinds of clothes.)");
+MsgDisp("主人公","(Umm...? But ｛七ツ森＊｝ seems to have
+really come to like these kinds of
+clothes.)");

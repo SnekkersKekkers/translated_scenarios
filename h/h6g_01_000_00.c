@@ -6,14 +6,13 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("H6G0100000_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛風真＊＊｝?
-What is it?");
+MsgDisp("主人公","Oh, ｛風真＊＊｝? What is it?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("H6G0100000_01_010");
-MsgDisp("Kazama","I heard you won an award for
-the gardening club.");
+MsgDisp("Kazama","I heard you won an award for the gardening
+club.");
 MsgDisp("主人公","Ah, yes.
 The roses I grew were rated highly.");
 ChEye(1,4);
@@ -27,8 +26,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("H6G0100000_01_030");
-MsgDisp("Kazama","Just, I don't feel too good about
-you getting too into this.");
+MsgDisp("Kazama","Just, I don't feel too good about you
+getting too into this.");
 MsgDisp("主人公","Huh?
 They're just plants, you know?");
 ChEye(1,0);
@@ -49,12 +48,11 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("H6G0100000_01_060");
-MsgDisp("Kazama","Well, I guess this just means that
-even plants can feel your kindness.
-Congrats.");
+MsgDisp("Kazama","Well, I guess this just means that even
+plants can feel your kindness. Congrats.");
 MsgDisp("主人公","Hehe, thanks!");
 MsgDisp("主人公","(｛風真＊＊｝ went out of his way to
-congratulate me. I'm glad I worked so
-hard for the gardening club!)");
+congratulate me. I'm glad I worked so hard
+for the gardening club!)");
 MsgClose();
 ScrFadeOut(0,0);

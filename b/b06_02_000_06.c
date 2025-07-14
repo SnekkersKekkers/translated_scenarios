@@ -16,8 +16,8 @@ switch (ChPrmGet(2,6)){
     ChEyeOpenLevel(2,0);
     ScrFadeIn(0);
     VoicePlay("B060200006_02_000");
-    MsgDisp("Sassa","I'm really happy I invited you
-today! I hope you feel the same way.");
+    MsgDisp("Sassa","I'm really happy I invited you today!
+I hope you feel the same way.");
     MsgDispSksp(0);
     break ;
     default :

@@ -35,9 +35,8 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("Q090B00000_04_010");
-MsgDisp("Nanatsumori","Wait ......
-You're taking that thing seriously, 
-aren't you?");
+MsgDisp("Nanatsumori","Wait ...... You're taking that thing
+seriously, aren't you?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);

@@ -5,20 +5,19 @@ MsgDisp("主人公","(Well, I guess it's time to go home.
 ......Huh?)");
 VoiceEVSPlay(6);
 VoicePlay("E010630100_06_000");
-MsgDisp("Himuro?","｛主人公｝,
-What a coincidence.");
+MsgDisp("Himuro?","｛主人公｝, What a coincidence.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah...... ｛氷室＊＊｝!
-Were you out shopping?");
+MsgDisp("主人公","Ah...... ｛氷室＊＊｝! Were you out
+shopping?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630100_06_010");
 MsgDisp("Himuro","No, I'm meeting someone.
-It's 30 minutes before the appointment,
-so he should be here by now.");
+It's 30 minutes before the appointment, so
+he should be here by now.");
 MsgDisp("主人公","Eh, 30 minutes early......?");
 ChPosition(6,1);
 MsgClose();
@@ -34,32 +33,30 @@ ChMotion(6,0,1);
 VoicePlay("E010630100_06_020");
 MsgDisp("Himuro","Kojiro-senpai......
 Why are you here?");
-MsgDisp("主人公","Huh? Isn't ｛御影＊＊｝
-the person you're meeting with?");
+MsgDisp("主人公","Huh? Isn't ｛御影＊＊｝ the person
+you're meeting with?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630100_06_030");
 MsgDisp("Himuro","No way.
-Kojiro-sensei isn't the type to
-arrive 30 minutes early.");
+Kojiro-sensei isn't the type to arrive 30
+minutes early.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010630100_07_010");
-MsgDisp("Mikage","Hey now,
-I don't know what you're talking about,
-but isn't that pretty mean?");
+MsgDisp("Mikage","Hey now, I don't know what you're talking
+about, but isn't that pretty mean?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010630100_07_020");
-MsgDisp("Mikage","Although I may seem like this,
-I keep to time and promises,
-you know?");
+MsgDisp("Mikage","Although I may seem like this, I keep to
+time and promises, you know?");
 VoicePlay("E010630100_32_000");
-MsgDisp("VP Himuro?","If that's the case,
-will you please keep your promise with me?");
+MsgDisp("VP Himuro?","If that's the case, will you please keep
+your promise with me?");
 ChEye(7,5);
 ChMouth(7,4);
 ChMotion(7,0,1);
@@ -74,8 +71,8 @@ ChOpen(32,254,0,1,0,#1,#1,0,0,0,30);
 ChOpen(7,255,1,2,0,#1,#1,0,2,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
 VoicePlay("E010630100_32_010");
-MsgDisp("VP Himuro","The promise is to not wander
-around the school in overalls.");
+MsgDisp("VP Himuro","The promise is to not wander around the
+school in overalls.");
 MsgDisp("主人公","Himuro-sensei ∋
 Ah, so the person you're meeting is......");
 VoicePlay("E010630100_06_050");
@@ -87,16 +84,15 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010630100_07_040");
-MsgDisp("Mikage","Ah-...... what a coincidence.
-I can't believe we ran into
-each other here.");
+MsgDisp("Mikage","Ah-...... what a coincidence. I can't
+believe we ran into each other here.");
 ChEye(7,5);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010630100_07_050");
-MsgDisp("Mikage","Ummー
-The sales are about to begin at the
-supermarket. I'll go ahead-");
+MsgDisp("Mikage","Ummー The sales are about to begin at the
+supermarket.
+I'll go ahead-");
 ChEye(32,1);
 ChMouth(32,1);
 ChEyeOpenLevel(32,0);

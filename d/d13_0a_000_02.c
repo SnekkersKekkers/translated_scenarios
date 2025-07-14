@@ -6,7 +6,7 @@ ChOpen(6,254,0,0,0,#1,#1,0,0,0,30);
 ChOpen(2,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(1,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, what's up? 
+MsgDisp("主人公","Ah, what's up?
 Everyone's altogether.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -17,9 +17,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130A00002_01_000");
-MsgDisp("Kazama","Yeah. 
-The fact that you're empty handed
-is making Inori feel down.");
+MsgDisp("Kazama","Yeah. The fact that you're empty handed is
+making Inori feel down.");
 MsgDisp("主人公","Eh?");
 ChEye(6,1);
 ChMouth(6,0);

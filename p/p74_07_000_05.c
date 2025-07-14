@@ -10,10 +10,9 @@ SEWait();
 ChOpen(7,254,0,2,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("P740700005_07_000");
-MsgDisp("Mikage","｛主人公｝,
-Are you okay? Are you hurt?");
-MsgDisp("主人公","｛御影＊＊｝...
-Yes, I'm okay...");
+MsgDisp("Mikage","｛主人公｝, Are you okay?
+Are you hurt?");
+MsgDisp("主人公","｛御影＊＊｝... Yes, I'm okay...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -30,8 +29,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P740700005_07_030");
-MsgDisp("Mikage","For better or worse, 
-you were still the leading part today.");
+MsgDisp("Mikage","For better or worse, you were still the
+leading part today.");
 MsgDisp("主人公","Uuugh...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -45,11 +44,12 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P740700005_07_050");
-MsgDisp("Mikage","That's right. I'm sure
-at that time, you'll remember today too.");
+MsgDisp("Mikage","That's right.
+I'm sure at that time, you'll remember
+today too.");
 MsgDisp("主人公","(｛御影＊＊｝, you're kind...
-But if I prepared more carefully, 
-I'm sure this would be a nicer memory...)");
+But if I prepared more carefully, I'm sure
+this would be a nicer memory...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

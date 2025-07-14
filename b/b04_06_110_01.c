@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040611001_06_010");
     MsgDisp("Himuro","I'm glad then.
-It makes it worthwhile for 
-me to come here too.");
+It makes it worthwhile for me to come here
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,10 +29,9 @@ me to come here too.");
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("B040611001_06_020");
-    MsgDisp("Himuro","Ah, right.
-But, if I was given the choice, 
-the sea would be better.
-Here... we're in closer proximity.");
+    MsgDisp("Himuro","Ah, right. But, if I was given the choice,
+the sea would be better. Here... we're in
+closer proximity.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

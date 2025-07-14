@@ -45,9 +45,8 @@ sync......)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O030600001_06_050");
-    MsgDisp("Himuro","I'm not good at matching others,
-so it feels like this
-targeted my weakness.");
+    MsgDisp("Himuro","I'm not good at matching others, so it
+feels like this targeted my weakness.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0,1);

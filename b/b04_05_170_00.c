@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040517000_05_000");
 MsgDisp("Hiiragi","It seems you're up next.
 Please go ahead.");
-MsgSel("I want to hear｛柊＊＊＊｝'s beautiful voice'","Let's do a duet together","Please listen to my song");
+MsgSel("I want to hear ｛柊＊＊＊｝'s beautiful voice'","Let's do a duet together","Please listen to my song");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     VoicePlay("B040517000_05_010");
     MsgDisp("Hiiragi","Thank you.
-But before that,
-you're up first.");
+But before that, you're up first.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +26,8 @@ you're up first.");
     ChMotion(5,4);
     VoicePlay("B040517000_05_020");
     MsgDisp("Hiiragi","That won't do.
-If we sing together, I won't be
-able to enjoy your voice.");
+If we sing together, I won't be able to
+enjoy your voice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

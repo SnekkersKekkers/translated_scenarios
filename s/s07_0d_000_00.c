@@ -35,8 +35,8 @@ ChMotion(22,5,1);
 VoicePlay("S070D00000_22_020");
 MsgDisp("Hikaru","Eeーh, sis.
 What does that mean～∋");
-MsgDisp("主人公","(The two of them are already doing
-well this year, huh.)");
+MsgDisp("主人公","(The two of them are already doing well
+this year, huh.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

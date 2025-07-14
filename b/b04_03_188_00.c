@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040318800_03_000");
     MsgDisp("Honda","Yep yep.
-I felt like I was being 
-forced to laugh.");
+I felt like I was being forced to laugh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,9 +35,8 @@ forced to laugh.");
     ChMouth(3,4);
     ChMotion(3,2);
     VoicePlay("B040318800_03_020");
-    MsgDisp("Honda","Huh?
-I wonder if my sense 
-of humour is off..");
+    MsgDisp("Honda","Huh? I wonder if my sense of humour is
+off..");
     MsgDateResultDisp();
     break ;
     default :

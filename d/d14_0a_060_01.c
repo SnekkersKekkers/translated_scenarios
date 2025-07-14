@@ -14,8 +14,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A06001_01_010");
-MsgDisp("Kazama","Who else would we be asking
-other than you... geez.");
+MsgDisp("Kazama","Who else would we be asking other than
+you... geez.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -25,8 +25,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("D140A06001_06_020");
-MsgDisp("Himuro","We know that you and Nozomu-senpai
-are quickly growing close.");
+MsgDisp("Himuro","We know that you and Nozomu-senpai are
+quickly growing close.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -43,25 +43,24 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D140A06001_01_030");
-MsgDisp("Kazama","I'm not saying it's an especially
-bad thing. That the two of them 
-are going out, I guess.");
+MsgDisp("Kazama","I'm not saying it's an especially bad
+thing. That the two of them are going out,
+I guess.");
 MsgDisp("主人公","Umm...yeah.
-Maybe we have been 
-going out recently.");
+Maybe we have been going out recently.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06001_01_040");
-MsgDisp("Kazama","Haa... that's why we asked you
-] if anything had happened today.");
+MsgDisp("Kazama","Haa... that's why we asked you ] if
+anything had happened today.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06001_06_040");
-MsgDisp("Himuro","It's rare for Nozomu-senpai
-to not come to lunch.");
+MsgDisp("Himuro","It's rare for Nozomu-senpai to not come to
+lunch.");
 ChEye(1,0);
 MsgDisp("主人公","Ah!
 In that case...");
@@ -88,11 +87,10 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06001_01_070");
-MsgDisp("Kazama","Tell him to spend his 
-allowance more wisely.
-...Geez.");
-MsgDisp("主人公","(I see, both of them are
-worried about me and ｛颯砂＊＊｝...)");
+MsgDisp("Kazama","Tell him to spend his allowance more
+wisely. ...Geez.");
+MsgDisp("主人公","(I see, both of them are worried about me
+and ｛颯砂＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

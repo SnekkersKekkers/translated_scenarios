@@ -6,8 +6,8 @@ ChMouth(4,2);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040410101_04_000");
-MsgDisp("Nanatsumori","Retro goods are popular, but 
-this is still too retro.");
+MsgDisp("Nanatsumori","Retro goods are popular, but this is still
+too retro.");
 MsgSel("These are not goods, these are cultural assets!","Maybe they'll become in fashion again?","It's not good just because it's old.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -24,8 +24,8 @@ Think about where we are.");
     DateRateSet(2);
     ChMotion(4,2,1);
     VoicePlay("B040410101_04_020");
-    MsgDisp("Nanatsumori","Is that something that
-happens every 100 years?");
+    MsgDisp("Nanatsumori","Is that something that happens every 100
+years?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,7 @@ happens every 100 years?");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040410101_04_030");
-    MsgDisp("Nanatsumori","Right.
-These items were used to be studied
+    MsgDisp("Nanatsumori","Right. These items were used to be studied
 before they became retro items.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

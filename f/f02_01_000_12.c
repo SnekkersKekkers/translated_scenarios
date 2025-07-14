@@ -10,7 +10,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("F020100012_01_000");
-MsgDisp("Kazama","That's right... 
+MsgDisp("Kazama","That's right...
 it's time for a new year.
 All that time really passed in a blink.");
 MsgDisp("主人公","Yeah, a lot happened.");
@@ -30,8 +30,8 @@ MsgDisp("Kazama","Of course.
 I had a very calm year, so there's no
 question about it.");
 MsgDisp("主人公","I see, that's good.
-When the new year starts,
-I hope it stays calm...");
+When the new year starts, I hope it stays
+calm...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);

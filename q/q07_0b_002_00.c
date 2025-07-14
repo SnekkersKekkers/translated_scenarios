@@ -1,8 +1,9 @@
 BGOpen("sc823",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow, so cute. The building and the flowers
-and cobblestones are all so pretty!");
+MsgDisp("主人公","Wow, so cute.
+The building and the flowers and
+cobblestones are all so pretty!");
 MsgClose();
 ChOpen(1,254,0,0,3,10,#1,0,0,0,30);
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
@@ -43,8 +44,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(4,1,1);
 VoicePlay("Q070B00200_04_000");
-MsgDisp("Nanatsumori","Mr. Glover's wife was Japanese.
-......is what the pamphlet says.");
+MsgDisp("Nanatsumori","Mr. Glover's wife was Japanese. ......is
+what the pamphlet says.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -61,8 +62,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q070B00200_03_010");
-MsgDisp("Honda","Heyheyhey, everyone! Let's take one last
-picture, with all of us!");
+MsgDisp("Honda","Heyheyhey, everyone!
+Let's take one last picture, with all of
+us!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

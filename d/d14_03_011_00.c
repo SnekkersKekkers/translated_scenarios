@@ -21,10 +21,9 @@ What a coincidence!");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("D140301100_03_020");
-    MsgDisp("Honda","...Hey, 
-I'm getting too excited right?
-It's just that we chose 
-the same menu item.");
+    MsgDisp("Honda","...Hey, I'm getting too excited right?
+It's just that we chose the same menu
+item.");
     break ;
     default :
     DbgAssert(1);

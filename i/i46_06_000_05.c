@@ -12,13 +12,12 @@ switch (ChPrmGet(6,6)){
 a specific flower?");
     VoicePlay("I460600005_40_010");
     MsgDisp("Male Customer","Umm......");
-    MsgDisp("主人公","If it's for a gift,
-the mini bouquets and arrangements
-are popular.");
+    MsgDisp("主人公","If it's for a gift, the mini bouquets and
+arrangements are popular.");
     VoicePlay("I460600005_40_020");
     MsgDisp("Male Customer","I, see......");
-    MsgDisp("主人公","There are also male clerks if
-you'd like me to call one over?");
+    MsgDisp("主人公","There are also male clerks if you'd like
+me to call one over?");
     VoicePlay("I460600005_40_030");
     MsgDisp("Male Customer","Ah...... yes, please.");
     MsgDisp("","　　　　　　　　　　 ・
@@ -32,8 +31,8 @@ you'd like me to call one over?");
     ChOpen(6,35,0,0,4,#1,#1,0,0);
     VoicePlay("I460600005_06_000");
     MsgDisp("Himuro","All done.");
-    MsgDisp("主人公","Thanks.
-For helping me out with that customer.");
+    MsgDisp("主人公","Thanks. For helping me out with that
+customer.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -64,11 +63,10 @@ that dried flower?");
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,35,3,0,4,#1,#1,0,0);
     VoicePlay("I460600005_06_030");
-    MsgDisp("Himuro","The dried flowers you made are
-being received pretty well.");
-    MsgDisp("主人公","I was thinking that even flowers
-that have lost their vigor can still
-be enjoyed.");
+    MsgDisp("Himuro","The dried flowers you made are being
+received pretty well.");
+    MsgDisp("主人公","I was thinking that even flowers that have
+lost their vigor can still be enjoyed.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -87,8 +85,8 @@ You really are swee-");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600005_06_060");
-    MsgDisp("Himuro","Well, this talent for business
-will surely come in handy later, right?");
+    MsgDisp("Himuro","Well, this talent for business will surely
+come in handy later, right?");
     MsgDisp("主人公","(Um...... I guess
 he's complimenting me?)");
     break ;

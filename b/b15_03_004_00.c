@@ -10,8 +10,7 @@ ChMotion(3,4,1);
 VoicePlay("B150300400_03_010");
 MsgDisp("Honda","I've got a whole traffic jam of emotions
 going on inside me. Happiness, anxiety,
-confusion... My mind's all over the
-place.");
+confusion... My mind's all over the place.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -24,9 +23,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B150300400_03_030");
-MsgDisp("Honda","Maybe a big bang! Just kidding. I don't 
-really get it, but when you touch me, 
-something deep inside my chest starts 
+MsgDisp("Honda","Maybe a big bang! Just kidding. I don't
+really get it, but when you touch me,
+something deep inside my chest starts
 getting out of hand.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -42,7 +41,7 @@ ChMotion(3,3,1);
 VoicePlay("B150300400_03_050");
 MsgDisp("Honda","It's kind of scary and frustrating...
 it's just a really weird feeling!");
-MsgDisp("主人公","But ｛本多＊＊｝, you seem to be enjoying 
+MsgDisp("主人公","But ｛本多＊＊｝, you seem to be enjoying
 it?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -64,8 +63,9 @@ ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300400_03_080");
 MsgDisp("Honda","Hehe, thanks!");
-MsgDisp("主人公","(He thanked me... but this means I can
-keep touching ｛本多＊＊｝ in the future.)");
+MsgDisp("主人公","(He thanked me...
+but this means I can keep touching
+｛本多＊＊｝ in the future.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

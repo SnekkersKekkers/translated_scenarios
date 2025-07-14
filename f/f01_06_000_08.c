@@ -12,5 +12,4 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(6);
 SEWait();
 Wait(60,0);
-MsgDisp("主人公","(｛氷室＊＊｝
-looked mad...)");
+MsgDisp("主人公","(｛氷室＊＊｝ looked mad...)");

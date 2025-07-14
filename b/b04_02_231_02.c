@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(2,255,4,0,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223102_02_000");
-MsgDisp("Sassa","When it comes to rollercoasters, 
-I never know when to stop, you know?");
+MsgDisp("Sassa","When it comes to rollercoasters, I never
+know when to stop, you know?");
 MsgSel("When your feet begin to stagger","Isn't once enough?","I wish it was longer");
 switch (MsgSelRsltGet()){
     case 0:
@@ -42,23 +42,22 @@ But, you need to say it sooner.");
         ChMotion(2,5);
         VoicePlay("B040223102_02_030");
         MsgDisp("Sassa","Eh? Did you dislike it that much?");
-        MsgDisp("主人公","No.
-It's just that I don't ride it many times.");
+        MsgDisp("主人公","No. It's just that I don't ride it many
+times.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040223102_02_040");
         MsgDisp("Sassa","I see, but make sure you tell me?
-I also quite like things 
-that aren't coasters.");
+I also quite like things that aren't
+coasters.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,2);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223102_02_050");
-        MsgDisp("Sassa","...Ah, 
-But there are things 
-I'm not eager about.");
+        MsgDisp("Sassa","...Ah, But there are things I'm not eager
+about.");
         MsgDisp("主人公","Hehe.");
         ChEye(2,0);
         ChMouth(2,3);
@@ -76,23 +75,23 @@ Things like haunted houses.");
         ChMotion(2,3);
         VoicePlay("B040223102_02_080");
         MsgDisp("Sassa","But, that's that.
-If I'm with you,
-anything is fine.");
+If I'm with you, anything is fine.");
         MsgDisp("主人公","That goes for me too.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223102_02_090");
         MsgDisp("Sassa","Then, let's try each other's weaknesses
-once. It's a gentleman's agreement.");
+once.
+It's a gentleman's agreement.");
         MsgDisp("主人公","Yes.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223102_02_100");
         MsgDisp("Sassa","Alright, then next...");
-        MsgDisp("主人公","(｛颯砂＊＊｝,
-Thanks for always looking out for me.)");
+        MsgDisp("主人公","(｛颯砂＊＊｝, Thanks for always looking
+out for me.)");
         break ;
         default :
         DbgAssert(1);

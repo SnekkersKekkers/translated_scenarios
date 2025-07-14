@@ -18,16 +18,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B04102_03_000");
-MsgDisp("Honda","Yeah, I'm always content with 
-Haba High's cafeteria?");
+MsgDisp("Honda","Yeah, I'm always content with Haba High's
+cafeteria?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B04102_01_010");
-MsgDisp("Kazama","I'm not talking about that. I'm talking
-about your incessant machine-gun rapid
-questions.");
+MsgDisp("Kazama","I'm not talking about that.
+I'm talking about your incessant
+machine-gun rapid questions.");
 MsgDisp("主人公","Ahaha...");
 ChEye(3,0);
 ChMouth(3,4);
@@ -41,8 +41,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_020");
 MsgDisp("Kazama","Hey, let's end it for today already.
 I give up...");
-MsgDisp("主人公","Today ｛七ツ森＊｝ isn't here so 
-｛風真＊＊｝ is the only listener isn't he?");
+MsgDisp("主人公","Today ｛七ツ森＊｝ isn't here so
+｛風真＊＊｝ is the only listener isn't
+he?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -56,7 +57,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D140B04102_01_040");
 MsgDisp("Kazama","Ahh, so that's how you're playing it?
-The deflection technique. ");
+The deflection technique.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -77,25 +78,25 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("D140B04102_01_060");
-MsgDisp("Kazama","Oi, why do you keep jumping 
-in when I say \"Eh?\"?");
+MsgDisp("Kazama","Oi, why do you keep jumping in when I say
+\"Eh?\"?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D140B04102_03_040");
 MsgDisp("Honda","That's because you're questioning
-something right? I'm the one teaching, so
-ask me anything.");
+something right?
+I'm the one teaching, so ask me anything.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_070");
-MsgDisp("Kazama","Haa... I now realize 
-the importance of Nanatsumori.");
+MsgDisp("Kazama","Haa... I now realize the importance of
+Nanatsumori.");
 MsgDisp("主人公","(Hehe, good work, ｛風真＊＊｝.
-Next time let's invite ｛七ツ森＊｝
-too and go as a four.)");
+Next time let's invite ｛七ツ森＊｝ too
+and go as a four.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

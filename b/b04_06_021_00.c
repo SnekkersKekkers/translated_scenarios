@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040602100_06_010");
     MsgDisp("Himuro","Well, this wasn't a bad time.
-It's fine to have something like
-this once in a while.");
+It's fine to have something like this once
+in a while.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ this once in a while.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040602100_06_020");
-    MsgDisp("Himuro","Is that the first thing
-that caught your eye?");
+    MsgDisp("Himuro","Is that the first thing that caught your
+eye?");
     MsgDateResultDisp();
     break ;
     case 2:

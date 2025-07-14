@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060300000_03_000");
         MsgDisp("Honda","That's the way to do it!
 So, how do you want to meet up?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝.
-What do you think?");
+        MsgDisp("主人公","At ｛待ち合わせ場所｝. What do you think?");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);
@@ -70,8 +69,7 @@ See you later?");
         BGMStop();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(｛本多＊＊｝,
-I've been invited on a date.
+        MsgDisp("主人公","(｛本多＊＊｝, I've been invited on a date.
 I'm looking forward to Sunday!)");
         break ;
         default :
@@ -96,8 +94,9 @@ I'm looking forward to Sunday!)");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("J060300000_03_070");
-        MsgDisp("Honda","But, well, it couldn't be helped. It was
-my fault for asking him out so suddenly.");
+        MsgDisp("Honda","But, well, it couldn't be helped.
+It was my fault for asking him out so
+suddenly.");
         VoicePlay("J060300000_03_080");
         MsgDisp("Honda","See you later.");
         MsgClose();
@@ -105,8 +104,8 @@ my fault for asking him out so suddenly.");
         BGMStop();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(He took the time to invite me over,
-I'm sorry I did that ......)");
+        MsgDisp("主人公","(He took the time to invite me over, I'm
+sorry I did that ......)");
         break ;
         case 4:
         case 5:

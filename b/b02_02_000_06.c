@@ -9,6 +9,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3,1);
 VoicePlay("B020200006_02_010");
-MsgDisp("Sassa","It's alright to mess up. You won't know it
-doesn't work until you've tried it.");
-MsgDisp("主人公","(To mess up... Are my clothes that weird?)");
+MsgDisp("Sassa","It's alright to mess up.
+You won't know it doesn't work until
+you've tried it.");
+MsgDisp("主人公","(To mess up...
+Are my clothes that weird?)");

@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040421301_04_010");
-    MsgDisp("Nanatsumori","Comrade!
-Elegant and cool. I can't resist
+    MsgDisp("Nanatsumori","Comrade! Elegant and cool. I can't resist
 their occasional spoiled side.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -28,9 +27,9 @@ their occasional spoiled side.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040421301_04_020");
-    MsgDisp("Nanatsumori","I see. If you ask me which one
-I like, I lean towards kitties.
-I like their cool side.");
+    MsgDisp("Nanatsumori","I see. If you ask me which one I like, I
+lean towards kitties. I like their cool
+side.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

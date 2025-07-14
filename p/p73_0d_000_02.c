@@ -2,8 +2,8 @@ BGMStop();
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year the handicrafts club
-is doing traditional wedding dresses...
+MsgDisp("主人公","(This year the handicrafts club is doing
+traditional wedding dresses...
 I think it turned out beautifully but...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
@@ -23,7 +23,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P730D00002_21_010");
 MsgDisp("Michiru","It's totally a culimation of your hard
-work. The best finish.");
+work.
+The best finish.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -44,20 +45,20 @@ ChMotion(21,3);
 SEPlay("EV_SE_038");
 SEWait();
 VoicePlay("P730D00002_21_030");
-MsgDisp("Michiru","This will be your best high school 
-show. Enjoy it, okay?");
+MsgDisp("Michiru","This will be your best high school show.
+Enjoy it, okay?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P730D00002_22_020");
 MsgDisp("Hikaru","Imagine that Hikaru is your groom, next to
-you! You won't be nervous like that,
-right?");
+you!
+You won't be nervous like that, right?");
 MsgDisp("主人公","Hehe.
 The, I'm off!");
 MsgDisp("主人公","(This is my last fashion show of high
-school! I absolutely have to make this a
-success!)");
+school!
+I absolutely have to make this a success!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

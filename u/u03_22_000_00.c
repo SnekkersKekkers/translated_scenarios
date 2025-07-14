@@ -21,10 +21,10 @@ I'll treasure it.");
     MsgDisp("Hikaru","Ehehe▼
 You'll match with Hikaru♪");
     SEPlay("EV_SE_083");
-    MsgDisp("主人公","(\"I got Camellia lipstick!)");
+    MsgDisp("主人公","(I got Camellia lipstick!)");
     SEPlay("EV_SE_080");
-    MsgDisp("主人公","(I feel like my sense of fashion
-is getting better......)");
+    MsgDisp("主人公","(I feel like my sense of fashion is
+getting better......)");
     ChMotion(22,3,1);
     VoicePlay("U032200000_22_030");
     MsgDisp("Hikaru","Okay, see you at school!
@@ -45,8 +45,7 @@ Too bad.");
     VoicePlay("U032200000_22_050");
     MsgDisp("Hikaru","It's about time to go now.
 See you later～!");
-    MsgDisp("主人公","Okay.
-See you later, ｛ひかる＊｝.");
+    MsgDisp("主人公","Okay. See you later, ｛ひかる＊｝.");
     break ;
     default :
     DbgAssert(0);

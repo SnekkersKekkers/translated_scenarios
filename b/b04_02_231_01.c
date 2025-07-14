@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(2,255,3,0,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223101_02_000");
-MsgDisp("Sassa","Apparently sitting at the 
-end of a rollercoaster is most fun.");
+MsgDisp("Sassa","Apparently sitting at the end of a
+rollercoaster is most fun.");
 MsgSel("Let's do a field study","I prefer then front","Let's keep riding until we get to the back");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040223101_02_010");
-    MsgDisp("Sassa","If you don't experience it for yourself, 
+    MsgDisp("Sassa","If you don't experience it for yourself,
 you won't know1");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -6,8 +6,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,2,1);
 VoicePlay("B040802202_08_000");
-MsgDisp("Shirahane","Come ta think of it, this beach
-has a boy who's super good at surfin'?
+MsgDisp("Shirahane","Come ta think of it, this beach has a boy
+who's super good at surfin'?
 Should I try it too?");
 MsgSel("I'll be cheering for you, do your best!","Who are you trying to imitate?","Seems tough...");
 switch (MsgSelRsltGet()){
@@ -44,9 +44,8 @@ I'm already fired up now!");
         ChEye(8,4);
         ChMouth(8,3);
         VoicePlay("B040802202_08_030");
-        MsgDisp("Shirahane","Well, I'm definitely just imitating 
-but maybe I'll end up being good
-at it?");
+        MsgDisp("Shirahane","Well, I'm definitely just imitating but
+maybe I'll end up being good at it?");
         ChEye(8,4);
         ChMouth(8,0);
         ChMotion(8,0,1);

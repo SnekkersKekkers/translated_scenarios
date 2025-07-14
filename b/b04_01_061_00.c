@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040106100_01_020");
     MsgDisp("Kazama","Sounds good to me.
-Better than being shoved in the ocean
-like sardines in a can.");
+Better than being shoved in the ocean like
+sardines in a can.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +40,8 @@ like sardines in a can.");
     ChMotion(1,3);
     VoicePlay("B040106100_01_030");
     MsgDisp("Kazama","Nice one, I agree.
-We can look for beach glass and
-beautiful stones, too.");
+We can look for beach glass and beautiful
+stones, too.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

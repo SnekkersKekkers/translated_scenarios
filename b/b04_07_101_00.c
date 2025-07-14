@@ -29,7 +29,8 @@ home.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040710100_07_020");
-    MsgDisp("Mikage","Do your best. Nice fight!");
+    MsgDisp("Mikage","Do your best.
+Nice fight!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

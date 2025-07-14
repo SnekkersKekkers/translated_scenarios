@@ -15,22 +15,21 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F102230002_21_000");
 MsgDisp("Michiru","You're right on time again.");
-MsgDisp("主人公","Hehe, are you checking character 
-bento answers again?");
+MsgDisp("主人公","Hehe, are you checking character bento
+answers again?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102230002_21_010");
-MsgDisp("Michiru","Right.
-Hey... if you still can't guess it today, 
-I guess I'll go t a cooking class...");
+MsgDisp("Michiru","Right. Hey... if you still can't guess it
+today, I guess I'll go t a cooking
+class...");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("F102230002_22_010");
 MsgDisp("Hikaru","Now, now!
-Then, shall we go ahead with 
-the answer～?");
+Then, shall we go ahead with the answer～?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -72,17 +71,17 @@ ChMouth(22,2);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F102230002_22_050");
-MsgDisp("Hikaru","...I mean, if it's a brown animal 
-with its bones exposed, there's 
-only one thing that comes to mind...");
+MsgDisp("Hikaru","...I mean, if it's a brown animal with its
+bones exposed, there's only one thing that
+comes to mind...");
 MsgDisp("主人公","Eh...?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F102230002_22_060");
-MsgDisp("Hikaru","It's nothing?
-Big sis, we're graduating from the animal
-series! What should we do next～?");
+MsgDisp("Hikaru","It's nothing? Big sis, we're graduating
+from the animal series! What should we do
+next～?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

@@ -20,12 +20,11 @@ I think love is still quite far off.");
     StlEye(22,0);
     StlMouth(22,1);
     VoicePlay("U130D00002_22_000");
-    MsgDisp("Hikaru","Family is more important than
-love to him. I guess he thinks of 
-Mari like his sister?");
-    MsgDisp("主人公","(S-Sister......
-I guess it would be good if I was more
-aggressive with ｛本多＊＊｝?)");
+    MsgDisp("Hikaru","Family is more important than love to him.
+I guess he thinks of Mari like his sister?");
+    MsgDisp("主人公","(S-Sister...... I guess it would be good
+if I was more aggressive with ｛本多＊＊｝?
+)");
     break ;
     case 3:
     StlEye(22,0);
@@ -38,23 +37,23 @@ aggressive with ｛本多＊＊｝?)");
 good terms.");
     StlEyeOpenLevel(22,5,1);
     VoicePlay("U130D00002_22_010");
-    MsgDisp("Hikaru","Honda-kun seems to have fun with
-Mari! Love might still be a long way
-off, though?");
+    MsgDisp("Hikaru","Honda-kun seems to have fun with Mari!
+Love might still be a long way off,
+though?");
     MsgDisp("主人公","Oh, I see......");
     StlEye(21,0);
     VoicePlay("U130D00002_21_020");
-    MsgDisp("Michiru","But if Mari works on their
-relationship little by little, maybe he
-will develop new feelings?");
+    MsgDisp("Michiru","But if Mari works on their relationship
+little by little, maybe he will develop
+new feelings?");
     StlEye(22,0);
     StlMouth(22,0);
     VoicePlay("U130D00002_22_020");
     MsgDisp("Hikaru","Teach Dahon about love.
 Okay, Mari?");
     MsgDisp("主人公","Y-Yeah.");
-    MsgDisp("主人公","(Teach ｛本多＊＊｝
-about love. I wonder if I can do it......)");
+    MsgDisp("主人公","(Teach ｛本多＊＊｝ about love.
+I wonder if I can do it......)");
     break ;
     case 4:
     case 5:
@@ -64,14 +63,13 @@ about love. I wonder if I can do it......)");
     StlMouth(21,0);
     StlNear(1,0,15);
     VoicePlay("U130D00002_21_030");
-    MsgDisp("Michiru","Hehe.
-The relationship you two have feels
+    MsgDisp("Michiru","Hehe. The relationship you two have feels
 special.");
     StlMouth(22,1);
     StlCheek(22,5);
     VoicePlay("U130D00002_22_030");
-    MsgDisp("Hikaru","Dahon has been smiling a lot
-lately when he thinks of Mari.
+    MsgDisp("Hikaru","Dahon has been smiling a lot lately when
+he thinks of Mari.
 It's a bittersweet feeling for him.");
     MsgDisp("主人公","Ah, is that so?");
     StlEye(21,0);
@@ -88,8 +86,8 @@ for Mari.");
     StlMouth(22,0);
     StlCheek(22,0);
     VoicePlay("U130D00002_22_050");
-    MsgDisp("Hikaru","He's still a beginner in love so
-make sure to teach him properly.♪");
+    MsgDisp("Hikaru","He's still a beginner in love so make sure
+to teach him properly.♪");
     MsgDisp("主人公","(｛本多＊＊｝ is also in love, huh?)");
     break ;
     default :

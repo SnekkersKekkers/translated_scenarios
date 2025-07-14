@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("B040506300_05_010");
-    MsgDisp("Hiiragi","Did you not hear it 
-over the sound of the waves?
-\"Doesn't the winter sea give off
+    MsgDisp("Hiiragi","Did you not hear it over the sound of the
+waves? \"Doesn't the winter sea give off
 the image of a strict father?\"");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

@@ -15,15 +15,14 @@ I like it but...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700001_07_000");
     MsgDisp("Mikage","Heeh, it's splendid, huh.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-Did you come to see it?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! Did you come to see
+it?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P730700001_07_010");
-    MsgDisp("Mikage","Yes, 
-There's no way I can miss my 
-cute student's big moment.");
+    MsgDisp("Mikage","Yes, There's no way I can miss my cute
+student's big moment.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -44,8 +43,8 @@ The model is good too, huh?");
     ChMotion(7,0);
     VoicePlay("P730700001_07_040");
     MsgDisp("Mikage","That's a nice expression.
-Walk with that smile and
-some confidence, okay?");
+Walk with that smile and some confidence,
+okay?");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(7,0);
@@ -55,8 +54,8 @@ some confidence, okay?");
     MsgDisp("Mikage","Well, it's your turn.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alーright.
-Let's charm both ｛御影＊＊｝ the audience 
-and the customers.)");
+Let's charm both ｛御影＊＊｝ the
+audience and the customers.)");
     break ;
     case 4:
     case 5:
@@ -69,8 +68,8 @@ I like it but...)");
     VoicePlay("P730700001_07_060");
     MsgDisp("Mikage","Oh, amazing.
 I wondered if it was a princess.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-I don't know about princess...");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! I don't know about
+princess...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

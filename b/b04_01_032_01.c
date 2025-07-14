@@ -30,8 +30,8 @@ Alright, let's wait for it to happen!");
     ChMotion(1,3);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040103201_01_020");
-    MsgDisp("Kazama","∋
-No, seriously, some just got in my mouth.");
+    MsgDisp("Kazama","∋ No, seriously, some just got in my
+mouth.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -40,8 +40,9 @@ No, seriously, some just got in my mouth.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040103201_01_030");
-    MsgDisp("Kazama","That sounds nice. Next time let's have a
-relaxing lunch here.");
+    MsgDisp("Kazama","That sounds nice.
+Next time let's have a relaxing lunch
+here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

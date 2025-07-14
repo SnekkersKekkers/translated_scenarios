@@ -23,8 +23,8 @@ I wish I tried harder.)");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("O020600001_06_020");
-    MsgDisp("Himuro","You were the clear winner
-when it comes to desperation.");
+    MsgDisp("Himuro","You were the clear winner when it comes to
+desperation.");
     MsgDisp("主人公","(I lost......
 I wish I tried harder.)");
     break ;
@@ -40,14 +40,14 @@ I wish I tried harder.)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O020600001_06_040");
-    MsgDisp("Himuro","It's really childish to be
-so frustrated that you start crying.");
+    MsgDisp("Himuro","It's really childish to be so frustrated
+that you start crying.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("O020600001_06_050");
-    MsgDisp("Himuro","That's enough,
-I thought your team would win, you know?");
+    MsgDisp("Himuro","That's enough, I thought your team would
+win, you know?");
     MsgDisp("主人公","......Yeah, thanks.");
     ChEye(6,3);
     ChMouth(6,4);

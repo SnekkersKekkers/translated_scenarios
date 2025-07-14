@@ -20,9 +20,8 @@ What should I do, I'm so nervous...)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700000_07_010");
-    MsgDisp("Mikage","If you're that anxious,
-you won't be able to enjoy yourself,
-you know?");
+    MsgDisp("Mikage","If you're that anxious, you won't be able
+to enjoy yourself, you know?");
     MsgDisp("主人公","But...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -51,7 +50,7 @@ worst thing would already be averted.");
     ChMotion(7,3);
     VoicePlay("P530700000_07_050");
     MsgDisp("Mikage","Then, go.");
-    MsgDisp("主人公","(Yeah, it's just as ｛御影＊＊｝ says. 
+    MsgDisp("主人公","(Yeah, it's just as ｛御影＊＊｝ says.
 I'll do what I can...!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -65,16 +64,16 @@ What should I do, I'm so nervous...)");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700000_07_060");
-    MsgDisp("Mikage","What's this, what's this, 
-I can't watch this.");
+    MsgDisp("Mikage","What's this, what's this, I can't watch
+this.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700000_07_070");
     MsgDisp("Mikage","You like wind instruments, don't you?
-Why are you making that face
-when doing something you like?");
+Why are you making that face when doing
+something you like?");
     MsgDisp("主人公","But, I'm thinking about what if I fail...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -83,8 +82,8 @@ when doing something you like?");
     MsgDisp("Mikage","Fail? If you ask me, Continuing this club
 with your friends and standing on this
 stage is already a success.");
-    MsgDisp("主人公","But, If I make a mistake, 
-I'll just be a nuisance to everyone.");
+    MsgDisp("主人公","But, If I make a mistake, I'll just be a
+nuisance to everyone.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -97,9 +96,8 @@ wouldn't right?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P530700000_07_100");
-    MsgDisp("Mikage","Right?
-You've come this far with good friends, 
-it's already a success.");
+    MsgDisp("Mikage","Right? You've come this far with good
+friends, it's already a success.");
     MsgDisp("主人公","｛御影＊＊｝...");
     SEPlay("EV_SE_038");
     SEWait();
@@ -107,8 +105,8 @@ it's already a success.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P530700000_07_110");
-    MsgDisp("Mikage","All that's left is for you to be
-satisfied with yourself.
+    MsgDisp("Mikage","All that's left is for you to be satisfied
+with yourself.
 Come on, go enjoy it");
     MsgDisp("主人公","(Yeah, it's just as ｛御影＊＊｝ says.
 Let's go enjoy it!)");

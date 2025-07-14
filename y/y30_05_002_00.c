@@ -40,26 +40,26 @@ slightest bit of academic ability,
 who can't keep up with lessons,
 student council work is the only
 thing I can rely on.");
-MsgDisp("","If I can't do at least this much, 
-then I don't feel like I deserve 
-to be here.");
-MsgDisp("","These are the pathetic thoughts 
-I imposed on myself.");
+MsgDisp("","If I can't do at least this much,
+then I don't feel like I deserve to
+be here.");
+MsgDisp("","These are the pathetic thoughts I
+imposed on myself.");
 MsgClear();
 VoicePlay("D010500100_05_110");
 MsgDisp("Hiiragi","\"The student council work is the
 condition for me being allowed to
 stay here.\"");
-MsgDisp("","Ah... there I go again.
-I once again said something 
-to make her worry.");
-MsgDisp("","I'm the same as a
-little kid wanting attention....");
+MsgDisp("","Ah... there I go again. I once again
+said something to make her worry.");
+MsgDisp("","I'm the same as a little kid wanting
+attention....");
 MsgClear();
-MsgDisp("","Why is that? I always end up saying
-unnecessary things in front of her.");
+MsgDisp("","Why is that?
+I always end up saying unnecessary
+things in front of her.");
 MsgDisp("","I can't make her worry any more than
-this. From now on I have to be 
+this. From now on I have to be
 careful and eat lunch as she says.");
 MsgClear();
 VoicePlay("Y300500200_05_030");

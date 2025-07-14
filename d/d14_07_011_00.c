@@ -21,9 +21,8 @@ When in doubt, this is the right one.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("D140701100_07_020");
-    MsgDisp("Mikage","Well, having the same taste in
-food is the most important thing of all,
-right?");
+    MsgDisp("Mikage","Well, having the same taste in food is the
+most important thing of all, right?");
     break ;
     default :
     DbgAssert(1);

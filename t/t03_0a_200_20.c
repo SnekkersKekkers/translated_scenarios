@@ -1,6 +1,5 @@
 MsgDisp("","On graduation day, we left the church and
-told ｛颯砂＊＊｝ and ｛氷室＊＊｝ about
-us.");
+told ｛颯砂＊＊｝ and ｛氷室＊＊｝ about us.");
 MsgDisp("","｛颯砂＊＊｝ widened his eyes and said
 'That's not a confession! that's a
 proposal∋ Ryota, that's too sudden!',

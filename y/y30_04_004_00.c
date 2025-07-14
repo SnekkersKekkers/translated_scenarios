@@ -3,11 +3,11 @@ BGMPlay("BGM_C04_NANA_C",0.01);
 BGOpen("ad440",0);
 ScrFadeIn(0);
 MsgDisp("","It's finally lunch time.");
-MsgDisp("","I wonder how many more reactions
-I've gotten on the photo 
-I posted this morning ");
-MsgDisp("","I check my phone, 
-and access my social media.");
+MsgDisp("","I wonder how many more reactions I've
+gotten on the photo I posted this
+morning");
+MsgDisp("","I check my phone, and access my
+social media.");
 MsgClear();
 BGOpen("ad441",0);
 VoicePlay("Y300400400_03_000");
@@ -25,13 +25,14 @@ Show me, he said, clinging on to me.");
 MsgDisp("","Finding him all sorts of troublesome,
 I silently put my phone back in my
 pocket.");
-MsgDisp("","Dahon doesn't seem to mind and 
-and switches to a different topic.");
+MsgDisp("","Dahon doesn't seem to mind and and
+switches to a different topic.");
 MsgClear();
 VoicePlay("Y300400400_03_010");
 MsgDisp("Honda","\"Today, let's all go to the
-cafeteria. I invited Ryo-kun too!\"");
-MsgDisp("","Without having a reason to refuse, 
+cafeteria.
+I invited Ryo-kun too!\"");
+MsgDisp("","Without having a reason to refuse,
 \"Sure\" I replied.");
 MsgClear();
 BGOpen("ad440",0);
@@ -41,8 +42,8 @@ MsgDisp("","The sounds of footsteps drew near.");
 BGOpen("ad442",0);
 VoicePlay("Y300400400_01_000");
 MsgDisp("Kazama","\"Hey, have you seen her?\"");
-MsgDisp("","By \"her\" I'm guessing he's
-talking about ｛主人公苗字｝.");
+MsgDisp("","By \"her\" I'm guessing he's talking
+about ｛主人公苗字｝.");
 MsgDisp("","We shake our heads.");
 MsgClear();
 MsgDisp("","Me and Dahon look at Kazama, who is
@@ -55,23 +56,23 @@ roar with laughter, And the person
 we're talking about appears.");
 BGOpen("ad440",0);
 MsgClear();
-MsgDisp("主人公","\"\"What is everyone talking 
-so happily about?\"");
-MsgDisp("","\"We're talking about you\", 
-we say in unison.");
+MsgDisp("主人公","\"\"What is everyone talking so happily
+about?\"");
+MsgDisp("","\"We're talking about you\", we say in
+unison.");
 MsgClear();
-MsgDisp("","Dahon invited her to lunch as
-she blinked in puzzlement.");
+MsgDisp("","Dahon invited her to lunch as she
+blinked in puzzlement.");
 MsgDisp("","She also responded with an ＯＫ.");
 MsgClear();
-MsgDisp("","I glanced at Kazama, 
-who was happily smiling broadly.");
+MsgDisp("","I glanced at Kazama, who was happily
+smiling broadly.");
 MsgDisp("","Dahon... was even happier.");
 MsgDisp("","I was laughing somewhat too.");
 MsgClear();
 MsgDisp("","Recently, I feel like the four of us
-have been laughing together 
-a lot like this.");
+have been laughing together a lot
+like this.");
 MsgDisp("","Are we...good friends?");
 BGMStop();
 MsgClear();

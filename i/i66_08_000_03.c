@@ -35,9 +35,9 @@ Right away......");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800003_08_020");
-    MsgDisp("Shirahane","I've broken puzzle rings before
-by rushing through them......
-It ain't good to rush things. 'Kay?");
+    MsgDisp("Shirahane","I've broken puzzle rings before by rushing
+through them...... It ain't good to rush
+things. 'Kay?");
     MsgDisp("主人公","(Haa......
 I messed up......)");
     break ;
@@ -69,8 +69,8 @@ Right away......");
 It seems that the flap is still locked,
 could you try unlocking it once more?");
     VoicePlay("I660800003_45_020");
-    MsgDisp("Woman Customer","Ah...... sorry!
-I thought that it was unlocked......");
+    MsgDisp("Woman Customer","Ah...... sorry! I thought that it was
+unlocked......");
     SEPlay("EV_SE_661");
     SEWait();
     ChEye(8,3);
@@ -83,11 +83,11 @@ I thought that it was unlocked......");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800003_08_050");
-    MsgDisp("Shirahane","It's easier t'see the cause
-if ya slow down and look properly.
+    MsgDisp("Shirahane","It's easier t'see the cause if ya slow
+down and look properly.
 You can do it, yeah?");
-    MsgDisp("主人公","(｛大地＊＊｝......
-Yeah, let's look carefully.)");
+    MsgDisp("主人公","(｛大地＊＊｝...... Yeah, let's look
+carefully.)");
     break ;
     default :
     DbgAssert(1);

@@ -38,14 +38,14 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoiceEVSPlay(2);
 VoicePlay("T020200021_02_040");
-MsgDisp("Sassa","｛主人公｝......
-Thank you.");
+MsgDisp("Sassa","｛主人公｝...... Thank you.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020200021_02_050");
 MsgDisp("Sassa","But, it won't have just been for these
-three years. This will continue forever.");
+three years.
+This will continue forever.");
 MsgDisp("主人公","Yes!");
 ChEye(2,4);
 ChMouth(2,4);

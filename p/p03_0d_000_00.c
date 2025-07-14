@@ -2,8 +2,8 @@ BGOpen("sc720",0);
 BGMPlay("BGM_PLACE_SHOP");
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for waiting. Here is your
-matcha and mitarashi dango.");
+MsgDisp("主人公","Thank you for waiting.
+Here is your matcha and mitarashi dango.");
 MsgDisp("主人公","(Phew...... I didn't think this many
 customers would come......)");
 MsgClose();
@@ -27,9 +27,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P030D00000_22_010");
-MsgDisp("Hikaru","Your Japanese-style cafe is doing
-so well～! As expected, since you're
-here as the face of the cafe▼");
+MsgDisp("Hikaru","Your Japanese-style cafe is doing so
+well～! As expected, since you're here as
+the face of the cafe▼");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

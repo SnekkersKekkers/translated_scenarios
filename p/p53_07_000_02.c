@@ -21,8 +21,8 @@ these last three years?)");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P530700002_07_010");
-    MsgDisp("Mikage","I came to see your nervous face,
-but I'm disappointed.");
+    MsgDisp("Mikage","I came to see your nervous face, but I'm
+disappointed.");
     MsgDisp("主人公","Hey. I'm nervous since it's my last
 performance.");
     ChEye(7,0);
@@ -42,8 +42,8 @@ Himuro's last time conducting? So repay
 him with a good performance.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alright! I'll have to let both
-Himuro-sensei and ｛御影＊＊｝ listen to
-the culmination of my performances!)");
+Himuro-sensei and ｛御影＊＊｝ listen
+to the culmination of my performances!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -63,8 +63,8 @@ these last three years?)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700002_07_050");
-    MsgDisp("Mikage","I thought you'd be a bit more nervous, 
-but it's impressive.");
+    MsgDisp("Mikage","I thought you'd be a bit more nervous, but
+it's impressive.");
     MsgDisp("主人公","Yes. I did everything I could for the last
 three years.");
     ChEye(7,0);
@@ -82,26 +82,24 @@ three years.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P530700002_07_080");
-    MsgDisp("Mikage","Then I guess I won't have a chance
-to encourage you or 
-relieve your stress.");
+    MsgDisp("Mikage","Then I guess I won't have a chance to
+encourage you or relieve your stress.");
     MsgDisp("主人公","Ummm...
 Then, please encourage me.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P530700002_07_090");
-    MsgDisp("Mikage","...Haaa
-Then, instead of thanking you, 
+    MsgDisp("Mikage","...Haaa Then, instead of thanking you,
 I'll thank you.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P530700002_07_100");
-    MsgDisp("Mikage","I only get scolded by Himuro-sensei, but 
-Thanks to you, I can hold my head high in 
-front of him, You're even the heart 
-of the concert band.");
+    MsgDisp("Mikage","I only get scolded by Himuro-sensei, but
+Thanks to you, I can hold my head high in
+front of him, You're even the heart of the
+concert band.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(7,0);
@@ -111,9 +109,8 @@ of the concert band.");
     MsgDisp("Mikage","Alright, everyone is waiting.
 Put them at ease with your smile.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Alright!
-I have to show them the culmination 
-of my hard work!)");
+    MsgDisp("主人公","(Alright! I have to show them the
+culmination of my hard work!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -27,8 +27,8 @@ you'll run into people.");
     ChMotion(7,5);
     VoicePlay("B040703200_07_020");
     MsgDisp("Mikage","Hahaha, that'll be a good contest.
-There are studies that show that
-penguins don't swim very fast.");
+There are studies that show that penguins
+don't swim very fast.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,10 +39,9 @@ penguins don't swim very fast.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040703200_07_030");
-    MsgDisp("Mikage","Oh, that's good.
-Penguins look like they're bi-pedal, 
-upright walkers but they're not.
-Take a good look.");
+    MsgDisp("Mikage","Oh, that's good. Penguins look like
+they're bi-pedal, upright walkers but
+they're not. Take a good look.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

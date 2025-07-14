@@ -25,9 +25,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("P840200004_02_010");
-MsgDisp("Sassa","The combination of the yakisoba
-stand and okonomiyaki stand made a
-delicious smell. Amazing!");
+MsgDisp("Sassa","The combination of the yakisoba stand and
+okonomiyaki stand made a delicious smell.
+Amazing!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

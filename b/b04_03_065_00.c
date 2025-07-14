@@ -25,9 +25,8 @@ It's a feeling of Japan's summer.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040306500_03_020");
-    MsgDisp("Honda","Yep yep.
-Whether you look at it from above,
-below, it's heart-shaped no matter
+    MsgDisp("Honda","Yep yep. Whether you look at it from
+above, below, it's heart-shaped no matter
 which way you look at it.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
@@ -39,8 +38,8 @@ which way you look at it.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040306500_03_030");
-    MsgDisp("Honda","Hey concentrate with all your
-might whilst the fun continues!");
+    MsgDisp("Honda","Hey concentrate with all your might whilst
+the fun continues!");
     MsgDateResultDisp();
     break ;
     default :

@@ -30,8 +30,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360615200_06_030");
-MsgDisp("Himuro","I was worried you wouldn't have fun if
-we went out......");
+MsgDisp("Himuro","I was worried you wouldn't have fun if we
+went out......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -50,8 +50,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360615200_06_060");
-MsgDisp("Himuro","I was worried that once it was just
-the two of us, you wouldn't enjoy as much.");
+MsgDisp("Himuro","I was worried that once it was just the
+two of us, you wouldn't enjoy as much.");
 MsgDisp("主人公","That's not the case......");
 ChEye(6,0);
 ChMouth(6,4);
@@ -62,14 +62,14 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360615200_06_080");
-MsgDisp("Himuro","Now that I feel relieved, I feel
-like all the unnecessary energy is gone.");
+MsgDisp("Himuro","Now that I feel relieved, I feel like all
+the unnecessary energy is gone.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B360615200_06_090");
-MsgDisp("Himuro","I'll get it right in the middle,
-watch closely.");
+MsgDisp("Himuro","I'll get it right in the middle, watch
+closely.");
 MsgDisp("主人公","Hehe, yeah......!");
 BGMStop();
 MsgClose();

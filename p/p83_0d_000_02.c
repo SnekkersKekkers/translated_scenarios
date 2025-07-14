@@ -2,8 +2,8 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder if there are any 
-problems with the floor...)");
+MsgDisp("主人公","(I wonder if there are any problems with
+the floor...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -22,19 +22,19 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P830D00002_21_010");
-MsgDisp("Michiru","It's finally our last cultural festival
-of high school.
+MsgDisp("Michiru","It's finally our last cultural festival of
+high school.
 What are you doing this year?");
 MsgDisp("主人公","I'm in charge of the floor here.
-I'll do things like dealing with
-lost children.");
+I'll do things like dealing with lost
+children.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P830D00002_22_010");
 MsgDisp("Hikaru","So cool～!
-It's a job that only Mari, 
-who's done it every year can do～");
+It's a job that only Mari, who's done it
+every year can do～");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);

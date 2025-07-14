@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
 I have to hurry and buy one!");
     break ;
     case 1:
-    MsgDisp("主人公","Hm......
-I guess I don't really need to get one.");
+    MsgDisp("主人公","Hm...... I guess I don't really need to
+get one.");
     break ;
     default :
     DbgAssert(0);

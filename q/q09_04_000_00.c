@@ -25,8 +25,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("Q090400000_04_020");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Good morning!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Good morning!");
     ChEye(4,2);
     ChMouth(4,3);
     VoicePlay("Q090400000_04_030");
@@ -48,8 +47,8 @@ Are we leaving already?");
     ChMotion(4,2,1);
     VoicePlay("Q090400000_04_050");
     MsgDisp("Nanatsumori","Mornin..");
-    MsgDisp("主人公","｛七ツ森＊｝, Good morning!
-...... Are you sleepy?");
+    MsgDisp("主人公","｛七ツ森＊｝, good morning! ...... Are
+you sleepy?");
     ChMotion(4,0,1);
     VoicePlay("Q090400000_04_060");
     MsgDisp("Nanatsumori","I couldn't sleep.");
@@ -59,9 +58,8 @@ Are you ok?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("Q090400000_04_070");
-    MsgDisp("Nanatsumori","Np.
-I'm such a kid, not able to 
-sleep out of excitement.");
+    MsgDisp("Nanatsumori","Np. I'm such a kid, not able to sleep out
+of excitement.");
     MsgDisp("主人公","Hehe!
 Lets's have fun today!");
     ChEye(4,1);

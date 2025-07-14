@@ -11,7 +11,8 @@ VoicePlay("B080300001_03_030")MsgDisp("Honda","Really? That's good then.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
-VoicePlay("B080300001_03_040")MsgDisp("Honda","Well, good night. See you later.");
+VoicePlay("B080300001_03_040")MsgDisp("Honda","Well, good night.
+See you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(3);

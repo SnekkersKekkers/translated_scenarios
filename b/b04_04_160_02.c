@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040416002_04_010");
-    MsgDisp("Nanatsumori","Really?
-I never go to the arcade by
-myself after all.");
+    MsgDisp("Nanatsumori","Really? I never go to the arcade by myself
+after all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -57,24 +56,23 @@ Cute.");
         ChMotion(4,0,1);
         VoicePlay("B040416002_04_040");
         MsgDisp("Nanatsumori","Why?");
-        MsgDisp("主人公","After all, ｛七ツ森＊｝ is a very popular
-high school model. If this photo
-were to be leaked...");
+        MsgDisp("主人公","After all, ｛七ツ森＊｝ is a very
+popular high school model.
+If this photo were to be leaked...");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040416002_04_050");
         MsgDisp("Nanatsumori","Ahh, so that's what.
 You really are a worrywart, aren't you?");
-        MsgDisp("主人公","I mean, won't that cause 
-you trouble, ｛七ツ森＊｝?");
+        MsgDisp("主人公","I mean, won't that cause you trouble,
+｛七ツ森＊｝?");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040416002_04_060");
         MsgDisp("Nanatsumori","It won't.
-If you'd like, I could 
-even post it here?");
+If you'd like, I could even post it here?");
         MsgDisp("主人公","Ehhh∋");
         ChEye(4,3);
         ChMouth(4,3);
@@ -108,10 +106,9 @@ You're super attractive yourself.");
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040416002_04_120");
-        MsgDisp("Nanatsumori","Even when we're on a date, 
-I'm more worried about how defenseless
-you are than my true identity 
-being revealed.");
+        MsgDisp("Nanatsumori","Even when we're on a date, I'm more
+worried about how defenseless you are than
+my true identity being revealed.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);

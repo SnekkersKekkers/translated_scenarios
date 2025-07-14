@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(1,255,1,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110000_01_000");
-MsgDisp("Kazama","This is amazing...... It's like a
-dream......");
+MsgDisp("Kazama","This is amazing......
+It's like a dream......");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(16,0);
@@ -35,8 +35,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110000_01_040");
-MsgDisp("Kazama","Not necessarily. Since I was happy just
-seeing you, even if it was a dream.");
+MsgDisp("Kazama","Not necessarily.
+Since I was happy just seeing you, even if
+it was a dream.");
 MsgDisp("主人公","｛風真＊＊｝......");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -44,9 +45,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110000_01_050");
-MsgDisp("Kazama","Even after coming back, I keep having
-the same dream. But now, I can get in the
-garden too.");
+MsgDisp("Kazama","Even after coming back, I keep having the
+same dream.
+But now, I can get in the garden too.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);

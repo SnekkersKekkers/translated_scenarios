@@ -22,18 +22,17 @@ Ah, there.)");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("Q040100000_01_010");
-    MsgDisp("Kazama","｛主人公｝.
-Good morning.");
-    MsgDisp("主人公","Good morning. 
+    MsgDisp("Kazama","｛主人公｝. Good morning.");
+    MsgDisp("主人公","Good morning.
 So, how about we go around together for
 today's free period?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Where is ｛風真＊＊｝......)");
+    MsgDisp("主人公","(Where is ｛風真＊＊｝...... )");
     VoiceEVSPlay(1);
     VoicePlay("Q040100000_01_020");
-    MsgDisp("Kazama?"," ｛主人公｝.");
+    MsgDisp("Kazama?","｛主人公｝.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
@@ -53,7 +52,7 @@ the same time though.");
     MsgDisp("Kazama","Nope, I was a millisecond faster in
 spotting you first.");
     MsgDisp("主人公","Come on......
-For today's free period, can we go 
+For today's free period, can we go
 together?");
     ChEye(1,4);
     ChMouth(1,3);

@@ -20,8 +20,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("G020310305_03_020");
 MsgDisp("Honda","I have lots of observation subjects in
-Habataki City. Hey, we talked about this
-before, huh?");
+Habataki City.
+Hey, we talked about this before, huh?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -39,10 +39,11 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("G020310305_03_050");
-MsgDisp("Honda","Oh, it's not just living things. This town
-is full of fascinating things to observe.");
-MsgDisp("主人公","Hehe!
-Then ｛本多＊＊｝ is busy everyday, huh?");
+MsgDisp("Honda","Oh, it's not just living things.
+This town is full of fascinating things to
+observe.");
+MsgDisp("主人公","Hehe! Then ｛本多＊＊｝ is busy everyday,
+huh?");
 ChSet(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310305_03_060");
@@ -60,8 +61,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310305_03_080");
-MsgDisp("Honda","No matter what I'm doing, 
-you just seem to pop into my head?");
+MsgDisp("Honda","No matter what I'm doing, you just seem to
+pop into my head?");
 MsgDisp("主人公","(I'm also an observation subject......)");
 BGMStop();
 MsgClose();

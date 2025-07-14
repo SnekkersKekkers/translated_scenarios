@@ -30,8 +30,7 @@ It was a good match.)");
     ScrFadeIn(0);
     VoicePlay("O040200002_02_020");
     MsgDisp("Sassa","A draw, huh......
-I wanted to show you
-my good side, though.");
+I wanted to show you my good side, though.");
     MsgDisp("主人公","(Even though we were so close......
 Too bad it was a draw.)");
     break ;

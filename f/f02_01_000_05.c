@@ -12,15 +12,15 @@ ChMotion(1,0);
 VoicePlay("F020100005_01_000");
 MsgDisp("Kazama","Why do you sound so grim?
 You've been studying diligently, right?");
-MsgDisp("主人公","I have. But ｛風真＊＊｝'s idea of
-'studying diligently' might be
-different from mine.");
+MsgDisp("主人公","I have.
+But ｛風真＊＊｝'s idea of 'studying
+diligently' might be different from mine.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100005_01_010");
-MsgDisp("Kazama","It's fine if you have your own
-standards, you know.");
+MsgDisp("Kazama","It's fine if you have your own standards,
+you know.");
 MsgDisp("主人公","｛風真＊＊｝ has a part-time job at the
 store, lives alone, and does his own
 housework. It's amazing.");
@@ -50,9 +50,10 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100005_01_050");
 MsgDisp("Kazama","I've always dreamt of being in the same
-class as you and getting the same work
-as you. What's wrong with that?");
-MsgDisp("主人公","I see... so it makes you happy?");
+class as you and getting the same work as
+you. What's wrong with that?");
+MsgDisp("主人公","I see...
+so it makes you happy?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

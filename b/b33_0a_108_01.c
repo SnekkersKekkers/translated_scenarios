@@ -13,8 +13,8 @@ ChOpen(2,255,0,0,4,#1,#1,0,3);
 ChOpen(6,255,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
 VoicePlay("B330A10801_06_000");
-MsgDisp("Himuro","Ryota-senpai, you really 
-like haunted houses don't you...");
+MsgDisp("Himuro","Ryota-senpai, you really like haunted
+houses don't you...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -31,9 +31,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10801_01_010");
-MsgDisp("Kazama","Well in summer, there's normally
-a lot of people who have
-good reactions.");
+MsgDisp("Kazama","Well in summer, there's normally a lot of
+people who have good reactions.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -110,9 +109,8 @@ VoicePlay("B330A10801_01_040");
 MsgDisp("Kazama","Yeah, 
 we got split up along the way.");
 VoicePlay("B330A10801_06_040");
-MsgDisp("Himuro","What, why are you saying it 
-as if it was some divine 
-force at play?");
+MsgDisp("Himuro","What, why are you saying it as if it was
+some divine force at play?");
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
@@ -123,11 +121,10 @@ ChOpen(1,255,0,0,2,8,#1,0,3,0,30);
 SEPlay("EV_SE_544",0,0.5);
 ChOpen(6,255,2,0,0,0,#1,0,3,0,30);
 VoicePlay("B330A10801_06_050");
-MsgDisp("Himuro","You and Ryota-senpai were clearly
-just trying to be alone right?");
-MsgDisp("主人公","Ehh?
-It was scary... so I just wanted
-to get out quickly?");
+MsgDisp("Himuro","You and Ryota-senpai were clearly just
+trying to be alone right?");
+MsgDisp("主人公","Ehh? It was scary... so I just wanted to
+get out quickly?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -156,24 +153,24 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10801_06_070");
-MsgDisp("Himuro","I thought her and Ryota-senpai 
-would just vanish, so I hurried.");
+MsgDisp("Himuro","I thought her and Ryota-senpai would just
+vanish, so I hurried.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B330A10801_02_050");
 MsgDisp("Sassa","Seriously, Ryota.
 What a cruel guy.");
-MsgDisp("主人公","We were just waiting here?
-Right, ｛風真＊＊｝?");
+MsgDisp("主人公","We were just waiting here? Right,
+｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10801_01_060");
 MsgDisp("Kazama","Ohh, of course.
-I didn't think about getting separated 
-on purpose and things like that at all.");
+I didn't think about getting separated on
+purpose and things like that at all.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -192,8 +189,8 @@ ChMotion(1,0);
 VoicePlay("B330A10801_01_070");
 MsgDisp("Kazama","And why is that?
 Hey?");
-MsgDisp("主人公","(｛風真＊＊｝, you were thinking
-of something like that...)");
+MsgDisp("主人公","(｛風真＊＊｝, you were thinking of
+something like that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

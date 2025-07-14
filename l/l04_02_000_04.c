@@ -12,17 +12,16 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("L040200004_02_010");
-    MsgDisp("Sassa","You thought about my taste,
-and the presentation is perfect.");
+    MsgDisp("Sassa","You thought about my taste, and the
+presentation is perfect.");
     MsgDisp("主人公","The taste is good too, you know?");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("L040200004_02_020");
-    MsgDisp("Sassa","Then I'll confirm the taste
-and eat it slowly at home.
-Thanks.");
+    MsgDisp("Sassa","Then I'll confirm the taste and eat it
+slowly at home. Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -52,8 +51,7 @@ I'm super happy.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("L040200004_02_050");
-    MsgDisp("Sassa","Yeah, of course.
-I'm excited to eat it!
+    MsgDisp("Sassa","Yeah, of course. I'm excited to eat it!
 Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

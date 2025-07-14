@@ -25,8 +25,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("S110D00000_21_010");
-MsgDisp("Michiru","I guess it's good that it
-won't get worse than that?");
+MsgDisp("Michiru","I guess it's good that it won't get worse
+than that?");
 ChEye(22,2);
 ChMouth(22,4);
 ChMotion(22,2,1);
@@ -36,15 +36,15 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("S110D00000_21_020");
-MsgDisp("Michiru","Hikaru, aren't you enjoying 
-this a little too much?");
+MsgDisp("Michiru","Hikaru, aren't you enjoying this a little
+too much?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("S110D00000_22_030");
-MsgDisp("Hikaru","Ehe▼
-Well, I'm not going to worry about it♪");
-MsgDisp("主人公","(The two of them are both looking
-forward to the future.)");
+MsgDisp("Hikaru","Ehe▼ Well, I'm not going to worry about
+it♪");
+MsgDisp("主人公","(The two of them are both looking forward
+to the future.)");
 MsgClose();
 ScrFadeOut(0,0);

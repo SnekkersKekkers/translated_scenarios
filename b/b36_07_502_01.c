@@ -10,17 +10,18 @@ ChMotion(7,0,1);
 BGMPlay("BGM_C07_MIKAGE_C",0.01);
 ScrFadeIn(0);
 VoicePlay("B360750201_07_000");
-MsgDisp("Mikage","The great thing about Habataki City
-is you can enjoy the scenery on your
-way home too.");
+MsgDisp("Mikage","The great thing about Habataki City is you
+can enjoy the scenery on your way home
+too.");
 MsgDisp("主人公","Yeah, you can see the mountains and the
-sea. There are many beautiful places.");
+sea.
+There are many beautiful places.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750201_07_010");
-MsgDisp("Mikage","You and Inori may know the city well,
-but it seems there are still many things
+MsgDisp("Mikage","You and Inori may know the city well, but
+it seems there are still many things
 Yanosuke doesn't know.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -50,8 +51,9 @@ ChMouth(7,4);
 ChMotion(7,4);
 ChEyeOpenLevel(7,10);
 VoicePlay("B360750201_07_050");
-MsgDisp("Mikage","......Geez, they're so easygoing. If it
-was me I would stay until the very end～");
+MsgDisp("Mikage","......Geez, they're so easygoing.
+If it was me I would stay until the very
+end～");
 MsgDisp("主人公","(｛御影＊＊｝ is always thinking about
 his students......)");
 BGMStop();

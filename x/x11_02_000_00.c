@@ -36,10 +36,9 @@ Everyone worked really hard!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("X110200000_02_030");
-    MsgDisp("Sassa","With a manager like you,
-the players can do their best.");
-    MsgDisp("主人公","(Yay!
-｛颯砂＊＊｝ complimented me!)");
+    MsgDisp("Sassa","With a manager like you, the players can
+do their best.");
+    MsgDisp("主人公","(Yay! ｛颯砂＊＊｝ complimented me!)");
     break ;
     default :
     DbgAssert(1);

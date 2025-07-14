@@ -2,9 +2,9 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-MsgDisp("主人公","(It's gotten late now.
-Haaa... I don't have a lot of days
-left at Habataki High School...)");
+MsgDisp("主人公","(It's gotten late now. Haaa... I don't
+have a lot of days left at Habataki High
+School...)");
 MsgClose();
 ScrFadeOut(0,0);
 Wait(40,0);
@@ -19,8 +19,7 @@ ChEye(5,4);
 ChMotion(5,4);
 VoiceEVSPlay(5);
 VoicePlay("D130C00200_05_000");
-MsgDisp("Hiiragi","｛主人公｝.
-Are you headed home now?");
+MsgDisp("Hiiragi","｛主人公｝. Are you headed home now?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -33,8 +32,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D130C00200_05_010");
-MsgDisp("Hiiragi","Yes, well to be more precise; 
-the three of us were.");
+MsgDisp("Hiiragi","Yes, well to be more precise; the three of
+us were.");
 MsgDisp("主人公","?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -70,16 +69,16 @@ MsgDisp("Mikage","Oh, is that all of us now?");
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("D130C00200_05_020");
-MsgDisp("Hiiragi","Using the vegetables the horticulture
-club grew, Mikage-sensei prepared 
-a barbecue for us.");
+MsgDisp("Hiiragi","Using the vegetables the horticulture club
+grew, Mikage-sensei prepared a barbecue
+for us.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D130C00200_06_030");
-MsgDisp("Himuro","I'll have a little bit 
-as long as it's not eggplant.");
+MsgDisp("Himuro","I'll have a little bit as long as it's not
+eggplant.");
 ChEye(7,3);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -95,11 +94,11 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D130C00200_07_020");
 MsgDisp("Mikage","You and Yanosuke too.
-This secret barbecue, is your 
-last party at Habataki High School.");
+This secret barbecue, is your last party
+at Habataki High School.");
 MsgDisp("主人公","Thank you very much...!");
-MsgDisp("主人公","(I'm so happy to have had 
-a barbecue with everyone at the end!)");
+MsgDisp("主人公","(I'm so happy to have had a barbecue with
+everyone at the end!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

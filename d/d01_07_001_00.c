@@ -33,8 +33,7 @@ MsgDisp("Mikage?","You did it, Molly!∈");
 MsgClose();
 SEPlay("EV_SE_544",0,0.4);
 ChOpen(7,37,0,0,3,#1,#1,0,0);
-MsgDisp("主人公","｛御影＊＊｝.
-Did something happen?");
+MsgDisp("主人公","｛御影＊＊｝. Did something happen?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -55,8 +54,8 @@ VoicePlay("D010700100_07_030");
 MsgDisp("Mikage","Here, take a look.
 Isn't she cute?");
 StlEye(7,1);
-MsgDisp("主人公","She really is......!
-｛御影＊＊｝, congratulations!");
+MsgDisp("主人公","She really is......! ｛御影＊＊｝,
+congratulations!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700100_07_040");
 MsgDisp("Mikage","Ahh, thank you!
@@ -83,8 +82,8 @@ ScrFadeIn(0);
 VoicePlay("D010700100_07_070");
 MsgDisp("Mikage","Huh......Come to think of it, why did you
 come running over here?");
-MsgDisp("主人公","I came to get something I forgot
-and then I heard your voice so......");
+MsgDisp("主人公","I came to get something I forgot and then
+I heard your voice so......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -92,8 +91,8 @@ VoicePlay("D010700100_07_080");
 MsgDisp("Mikage","Oh.
 I was just surprised, my bad.");
 MsgDisp("主人公","It's fine.
-I'm grateful I was able to celebrate
-this with you, ｛御影＊＊｝.");
+I'm grateful I was able to celebrate this
+with you, ｛御影＊＊｝.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -107,26 +106,26 @@ ChMouth(7,0);
 ChMotion(7,4);
 ChEyeOpenLevel(7,0);
 VoicePlay("D010700100_07_100");
-MsgDisp("Mikage","Yep, and while the heir of ranch was
-off having fun with you guys, Molly
+MsgDisp("Mikage","Yep, and while the heir of ranch was off
+having fun with you guys, Molly
 unexpectedly became a mother.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("D010700100_07_110");
-MsgDisp("Mikage","I have things I need to do too, just
-like Molly.");
+MsgDisp("Mikage","I have things I need to do too, just like
+Molly.");
 MsgDisp("主人公","｛御影＊＊｝......?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D010700100_07_120");
-MsgDisp("Mikage","Right.
-I'll put some pictures up of Molly and
-her baby. Come check them out anytime!");
+MsgDisp("Mikage","Right. I'll put some pictures up of Molly
+and her baby. Come check them out anytime!");
 MsgDisp("主人公","Ah, okay.");
-MsgDisp("主人公","(｛御影＊＊｝ has things to do, huh......?
+MsgDisp("主人公","(｛御影＊＊｝ has things to do,
+huh......?
 Does he mean something besides teaching?)");
 BGMStop();
 MsgClose();

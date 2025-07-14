@@ -15,15 +15,15 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("P230600001_06_000");
-    MsgDisp("Himuro","We were able to make quite an impressive 
+    MsgDisp("Himuro","We were able to make quite an impressive
 set, weren't we?");
     MsgDisp("主人公","We barely just made it though.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P230600001_06_010");
-    MsgDisp("Himuro","After this, all that's left is 
-to watch over it until it ends safely.
+    MsgDisp("Himuro","After this, all that's left is to watch
+over it until it ends safely.
 It'd be nice if there were no failures.");
     MsgDisp("主人公","It'll be alright.
 Everyone gave it their best!");

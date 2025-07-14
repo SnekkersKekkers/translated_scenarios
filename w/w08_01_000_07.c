@@ -26,8 +26,8 @@ switch (ChPrmGet(1,6)){
     ChEye(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("W080100007_01_020");
-    MsgDisp("Kazama","I'd love to hear how you came up
-with this combination.");
+    MsgDisp("Kazama","I'd love to hear how you came up with this
+combination.");
     break ;
     default :
     DbgAssert(1);

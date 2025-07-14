@@ -5,8 +5,8 @@ ChMotion(3,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040308102_03_000");
-MsgDisp("Honda","Even the grafted sakura flowers, 
-are blooming splendidly.");
+MsgDisp("Honda","Even the grafted cherry blossoms, are
+blooming splendidly.");
 MsgSel("They have an amazing life force huh?","Grafted tress you say?","I want to have a more peaceful cherry blossom viewing?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -48,8 +48,9 @@ cloning technology!");
         DateRateSet(1);
         ChSet(3,4,1);
         VoicePlay("B040308102_03_030");
-        MsgDisp("Honda","Is that so? This sort of chaotic
-atmosphere is fun too.");
+        MsgDisp("Honda","Is that so?
+This sort of chaotic atmosphere is fun
+too.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -73,8 +74,8 @@ viewing of high school?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040308102_03_060");
-        MsgDisp("Honda","Was I able to say something that'll 
-remain in your memory?");
+        MsgDisp("Honda","Was I able to say something that'll remain
+in your memory?");
         MsgDisp("主人公","Yeah, of course.");
         ChEye(3,0);
         ChMouth(3,3);
@@ -88,9 +89,9 @@ It's super exciting.");
         VoicePlay("B040308102_03_080");
         MsgDisp("Honda","So that's why, if I could give you
 something back I would be happy.");
-        MsgDisp("主人公","You've taught me so many things, 
-Not just here, 
-but all the places we go to together.");
+        MsgDisp("主人公","You've taught me so many things, Not just
+here, but all the places we go to
+together.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,2);
@@ -102,18 +103,17 @@ but all the places we go to together.");
         ChMotion(3,4);
         ChCheek(3,5);
         VoicePlay("B040308102_03_100");
-        MsgDisp("Honda","It's not that I like teaching people, 
-It seems like I like teaching you.");
+        MsgDisp("Honda","It's not that I like teaching people, It
+seems like I like teaching you.");
         ChCheek(3,0);
         MsgDisp("主人公","That's not true.
-You seem to enjoy teaching other people, 
+You seem to enjoy teaching other people,
 ｛本多＊＊｝.");
         ChEye(3,5);
         ChMouth(3,0);
         ChMotion(3,2);
         VoicePlay("B040308102_03_110");
-        MsgDisp("Honda","Huh? Umm...
-I wonder if that's a positive
+        MsgDisp("Honda","Huh? Umm... I wonder if that's a positive
 affirmation or not...");
         ChEye(3,3);
         ChMouth(3,3);

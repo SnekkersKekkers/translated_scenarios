@@ -32,15 +32,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B360650300_06_030");
-MsgDisp("Himuro","Honestly, I don't really know
-what to talk about.");
+MsgDisp("Himuro","Honestly, I don't really know what to talk
+about.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650300_06_040");
-MsgDisp("Himuro","There are all sorts of emotions
-going on inside of me.");
+MsgDisp("Himuro","There are all sorts of emotions going on
+inside of me.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -51,14 +51,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650300_06_060");
-MsgDisp("Himuro","I'm happy I was able to escape
-......but I also feel guilty.");
+MsgDisp("Himuro","I'm happy I was able to escape ......but I
+also feel guilty.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650300_06_070");
-MsgDisp("Himuro","I want to say something clever,
-but I can't think of anything");
+MsgDisp("Himuro","I want to say something clever, but I
+can't think of anything");
 MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,1);
 ChMouth(6,0);

@@ -10,18 +10,17 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_020");
 MsgDisp("Himuro","It's normal.
-It's more concerning to be indifferent 
+It's more concerning to be indifferent
 about what's going on in the world.");
 MsgDisp("主人公","I see...
-Do you watch programs
-related to the ocean?");
+Do you watch programs related to the
+ocean?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_030");
 MsgDisp("Himuro","If it's a variety show, no.
-I'll watch a documentary
-once in a while.");
+I'll watch a documentary once in a while.");
 MsgDisp("主人公","Those that follow the ocean's ecosystem?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -36,11 +35,11 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B070600000_06_050");
-MsgDisp("Himuro","You say it's like me, 
-But what do you know about me?");
+MsgDisp("Himuro","You say it's like me, But what do you know
+about me?");
 MsgDisp("主人公","Hehe, that's right.
-Then, from now on too, could you 
-tell me lots of different things?");
+Then, from now on too, could you tell me
+lots of different things?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

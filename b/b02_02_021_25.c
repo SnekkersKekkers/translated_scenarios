@@ -2,8 +2,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
 VoicePlay("B020202125_02_000");
-MsgDisp("Sassa","Those clothes are kind of
-weirdly overwhelming.
+MsgDisp("Sassa","Those clothes are kind of weirdly
+overwhelming.
 It's making me a little on edge...");
 MsgDisp("主人公","Ah, I'm sorry.
 Do you hate it?");

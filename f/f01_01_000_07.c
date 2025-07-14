@@ -63,8 +63,8 @@ Well, another time.");
     VoiceEVSPlay(1);
     VoicePlay("F010100007_01_020");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Huh?
-｛風真＊＊｝, I thought you already left.");
+    MsgDisp("主人公","Huh? ｛風真＊＊｝, I thought you already
+left.");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,4);
@@ -79,8 +79,8 @@ Well, another time.");
     ChCheek(1,7);
     VoicePlay("F010100007_01_040");
     MsgDisp("Kazama","It's alright every once in a while.
-This is how it would be if we were 
-in different classes.");
+This is how it would be if we were in
+different classes.");
     ChMouth(1,2);
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
@@ -103,7 +103,7 @@ Should I greet you here tomorrow, too?");
         ChMotion(1,0);
         ChCheek(1,0);
         VoicePlay("F010100007_01_090");
-        MsgDisp("Kazama","That works. 
+        MsgDisp("Kazama","That works.
 We'll eat your favorite sweets.");
         break ;
         case 2:

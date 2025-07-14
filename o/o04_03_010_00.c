@@ -29,8 +29,8 @@ Looking forward to it.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("O040301000_03_020");
-    MsgDisp("Honda","Starting from how we'll attack,
-we need to plan a strategy......");
+    MsgDisp("Honda","Starting from how we'll attack, we need to
+plan a strategy......");
     MsgDisp("主人公","(R-Right now?)");
     break ;
     case 4:
@@ -43,8 +43,7 @@ My team is......");
     ChOpen(3,30,3,3,3,#1,#1,0,0);
     VoicePlay("O040301000_03_030");
     MsgDisp("Honda","Over here!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
-Are we on the same team?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝! Are we on the same team?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -52,16 +51,15 @@ Are we on the same team?");
     VoicePlay("O040301000_03_040");
     MsgDisp("Honda","Yeah yeah!
 It was worth making a wish.");
-    MsgDisp("主人公","Huh?
-Were you wishing for us to be
-on the same team?");
+    MsgDisp("主人公","Huh? Were you wishing for us to be on the
+same team?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("O040301000_03_050");
-    MsgDisp("Honda","I did. Since I wanted to have
-the best sports festival with you. Now,
-if we win, I'll have no other complaints!");
+    MsgDisp("Honda","I did. Since I wanted to have the best
+sports festival with you. Now, if we win,
+I'll have no other complaints!");
     MsgDisp("主人公","Hehe, yeah!
 Let's do our best!");
     break ;

@@ -1,12 +1,11 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm a second year student starting
-today. I wonder what this year will
-be like? 
+MsgDisp("主人公","(I'm a second year student starting today.
+I wonder what this year will be like?
 Hehe, I'm looking forward to it!)");
 VoicePlay("D010100001_01_000");
-MsgDisp("Kazama?","Don't just stand here and smile all
-by yourself.
+MsgDisp("Kazama?","Don't just stand here and smile all by
+yourself.
 ......Geez, what a crazy person.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -20,9 +19,8 @@ StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D010100001_01_010");
 MsgDisp("Kazama","Well, I guess I get why you're smiling.");
-MsgDisp("主人公","Uhm......
-No way, are we in the same class again
-this year?");
+MsgDisp("主人公","Uhm...... No way, are we in the same class
+again this year?");
 StlEye(1,2);
 StlMouth(1,2);
 Wait(30,1);

@@ -7,6 +7,6 @@ ChMotion(3,1);
 ScrFadeIn(0);
 VoicePlay("B060300006_03_000");
 MsgDisp("Honda","What a relief, I'm glad you had fun.
-Seeing that look on your face makes me 
+Seeing that look on your face makes me
 happy.");
 MsgDispSksp(0);

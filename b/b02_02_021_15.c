@@ -13,5 +13,5 @@ VoicePlay("B020202115_02_010");
 MsgDisp("Sassa","It's not that it's odd.
 More like the opposite, it suits you?
 Wait, no, what is the opposite...?");
-MsgDisp("主人公","(He seems a little troubled,
-but maybe not in a bad way?)");
+MsgDisp("主人公","(He seems a little troubled, but maybe not
+in a bad way?)");

@@ -5,8 +5,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","It's almost time for the culture
-festival performance.");
+MsgDisp("主人公","It's almost time for the culture festival
+performance.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -33,14 +33,14 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F020100008_01_030");
-MsgDisp("Kazama","I like having fun after school with all
-my friends and teachers like this.");
+MsgDisp("Kazama","I like having fun after school with all my
+friends and teachers like this.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100008_01_040");
 MsgDisp("Kazama","The performance is coming up.
-You should have fun during this time 
+You should have fun during this time
 before it's over.");
-MsgDisp("主人公","(｛風真＊＊｝,
-I hope you also enjoy the festival.)");
+MsgDisp("主人公","(｛風真＊＊｝, I hope you also enjoy the
+festival.)");

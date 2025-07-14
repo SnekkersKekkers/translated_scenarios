@@ -14,9 +14,8 @@ ChEyeOpenLevel(6,0);
 VoicePlay("D140C04002_06_000");
 MsgDisp("Himuro","Have I or Yanosuke-senpai
 ever been noisy?");
-MsgDisp("主人公","...Ah, 
-It's cause ｛御影＊＊｝
-isn't here today.");
+MsgDisp("主人公","...Ah, It's cause ｛御影＊＊｝ isn't
+here today.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -28,23 +27,22 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C04002_05_000");
-MsgDisp("Hiiragi","Inori-kun, you sure are 
-in a bad mood, aren't you?");
+MsgDisp("Hiiragi","Inori-kun, you sure are in a bad mood,
+aren't you?");
 MsgDisp("主人公","Isn't he more 
 irritable than usual?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C04002_05_010");
-MsgDisp("Hiiragi","Heheh, being irritable is
-a key part of who he is.");
+MsgDisp("Hiiragi","Heheh, being irritable is a key part of
+who he is.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C04002_06_020");
-MsgDisp("Himuro","Haa... there was something I 
-wanted to talk to Kojiro sensei 
-about too today.");
+MsgDisp("Himuro","Haa... there was something I wanted to
+talk to Kojiro sensei about too today.");
 ChEye(5,0);
 ChMotion(5,4);
 MsgDisp("主人公","I see.
@@ -54,8 +52,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C04002_06_030");
-MsgDisp("Himuro","I wanted to talk to 
-Kojiro-sensei, not you.");
+MsgDisp("Himuro","I wanted to talk to Kojiro-sensei, not
+you.");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -73,8 +71,8 @@ VoicePlay("D140C04002_05_030");
 MsgDisp("Hiiragi","It's Mikage-sensei.
 Looks like he's finished his work.");
 MsgDisp("主人公","That's good.
-You'll be able to talk 
-to him now won't you?");
+You'll be able to talk to him now won't
+you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -94,19 +92,18 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 ChCheek(6,5);
 VoicePlay("D140C04002_06_060");
-MsgDisp("Himuro","He'll probably say something like, 
-\"Oh, you missed me Inori?\", 
-That's why, I'm good for today.");
+MsgDisp("Himuro","He'll probably say something like, \"Oh,
+you missed me Inori?\", That's why, I'm
+good for today.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C04002_05_050");
 MsgDisp("Hiiragi","Heheh, understood.
-Alright, with this it'll surely
-become lively, won't it?");
-MsgDisp("主人公","(Looks like because ｛御影＊＊｝ is 
-coming, both of them 
-suddenly perked up?)");
+Alright, with this it'll surely become
+lively, won't it?");
+MsgDisp("主人公","(Looks like because ｛御影＊＊｝ is
+coming, both of them suddenly perked up?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

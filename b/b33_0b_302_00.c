@@ -18,9 +18,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B30200_03_000");
-MsgDisp("Honda","He really is a model—. 
-Mii-kun looks photogenic 
-even in a place like this.");
+MsgDisp("Honda","He really is a model—.
+Mii-kun looks photogenic even in a place
+like this.");
 MsgDisp("主人公","Hehe, that's right huh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -33,9 +33,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("B330B30200_01_010");
-MsgDisp("Kazama","That's because Nanatsumori 
-is a professional. But that 
-goes for even us too right?");
+MsgDisp("Kazama","That's because Nanatsumori is a
+professional.
+But that goes for even us too right?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -51,17 +51,17 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B30200_01_020");
-MsgDisp("Kazama","For example... Honda's hair.
-With the sea breeze blowing on it, 
-it looks more effortless than usual...");
+MsgDisp("Kazama","For example... Honda's hair. With the sea
+breeze blowing on it, it looks more
+effortless than usual...");
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30200_04_020");
-MsgDisp("Nanatsumori","There's a limit to how
-effortless you can be.");
+MsgDisp("Nanatsumori","There's a limit to how effortless you can
+be.");
 ChEye(3,0);
 ChMouth(3,4);
 VoicePlay("B330B30200_03_020");
@@ -70,14 +70,14 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B330B30200_01_030");
-MsgDisp("Kazama","Then, even my hair that's 
-blowing in the wind is more——");
+MsgDisp("Kazama","Then, even my hair that's blowing in the
+wind is more——");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30200_04_030");
-MsgDisp("Nanatsumori","...The cowlick on the top of your 
-head is wagging energetically.");
+MsgDisp("Nanatsumori","...The cowlick on the top of your head is
+wagging energetically.");
 ChMouth(1,1);
 ChEyeOpenLevel(1,8);
 MsgDisp("主人公","(Pfft...!)");
@@ -88,12 +88,11 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoiceEVSPlay(1);
 VoicePlay("B330B30200_01_040");
-MsgDisp("Kazama","｛主人公｝.
-You just laughed didn't you?");
-MsgDisp("主人公","No, I was just thinking about how 
-both of your hairstyles have
-changed, and how you give 
-off different vibes now.");
+MsgDisp("Kazama","｛主人公｝. You just laughed didn't
+you?");
+MsgDisp("主人公","No, I was just thinking about how both of
+your hairstyles have changed, and how you
+give off different vibes now.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -107,18 +106,16 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B330B30200_04_040");
-MsgDisp("Nanatsumori","Well, models can also look like 
-a different person just by 
-changing their hairstyle.");
+MsgDisp("Nanatsumori","Well, models can also look like a
+different person just by changing their
+hairstyle.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30200_04_050");
-MsgDisp("Nanatsumori","But...
-Kazama's way of looking at 
-things is just too funny.");
-MsgDisp("主人公","(Hehe!
-Ah... but, maybe my hair has 
+MsgDisp("Nanatsumori","But... Kazama's way of looking at things
+is just too funny.");
+MsgDisp("主人公","(Hehe! Ah... but, maybe my hair has
 changed drastically too?)");
 MsgClose();
 ScrFadeOut(0,0);

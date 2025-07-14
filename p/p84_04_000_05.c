@@ -1,7 +1,7 @@
 ScrFadeIn(0);
 VoicePlay("P840400005_48_000");
-MsgDisp("School Girl","No, I have to hurry, 
-The good seats will be taken～!");
+MsgDisp("School Girl","No, I have to hurry, The good seats will
+be taken～!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 SEWait();
 MsgDisp("主人公","You can't run in the hallways...
@@ -25,8 +25,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("P840400005_04_010");
-MsgDisp("Nanatsumori","It's the student council's job
-to look after lost items right?
+MsgDisp("Nanatsumori","It's the student council's job to look
+after lost items right?
 Don't panic, keep calm.");
 MsgDisp("主人公","Yes.");
 ChEye(4,2);

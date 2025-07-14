@@ -9,5 +9,5 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140601157_06_010");
 MsgDisp("Himuro","No......Just in case, I was thinking I
-could give you the radish sprouts if
-I can't handle them.");
+could give you the radish sprouts if I
+can't handle them.");

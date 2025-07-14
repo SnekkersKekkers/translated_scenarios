@@ -13,8 +13,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝,
-are you working part-time?");
+    MsgDisp("Hiiragi","｛主人公｝, are you working part-time?");
     MsgDisp("主人公","Yes, that's right.
 ｛柊＊＊＊｝, are you alone?");
     ChMotion(5,4);
@@ -44,8 +43,8 @@ today, too.");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_030");
-    MsgDisp("Hiiragi","｛主人公｝,
-if I may have a moment of your time.");
+    MsgDisp("Hiiragi","｛主人公｝, if I may have a moment of
+your time.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, you came.");
     VoicePlay("I350500000_05_040");
     MsgDisp("Hiiragi","Yes, we come here for meetings.");
@@ -53,19 +52,18 @@ if I may have a moment of your time.");
     ChMotion(5,4);
     VoicePlay("I350500000_05_050");
     MsgDisp("Hiiragi","I am thankful for it.
-It means that the theatre troupe
-is doing well.");
+It means that the theatre troupe is doing
+well.");
     ChMotion(5,0);
     VoicePlay("I350500000_05_060");
     MsgDisp("Hiiragi","Ah, and another thing.
-The meetings we have here always
-end up going well.");
+The meetings we have here always end up
+going well.");
     MsgDisp("主人公","Hm?　Really?");
     ChEye(5,4);
     VoicePlay("I350500000_05_070");
-    MsgDisp("Hiiragi","Yes.
-Perhaps it's due to the smell of coffee,
-and your smile?");
+    MsgDisp("Hiiragi","Yes. Perhaps it's due to the smell of
+coffee, and your smile?");
     VoicePlay("I350500000_43_000");
     MsgDisp("Theater Member","Chairman?");
     ChEye(5,0);
@@ -97,8 +95,8 @@ Let's do our best smiling!)");
     ChEye(5,4);
     VoicePlay("I350500000_05_100");
     MsgDisp("Hiiragi","Good evening.
-May I order two cups of coffee
-for delivery?");
+May I order two cups of coffee for
+delivery?");
     MsgDisp("主人公","Yes, understood.");
     ChEye(5,0);
     MsgDisp("","　　　　　　　　　　 ・
@@ -106,8 +104,8 @@ for delivery?");
 　　　　　　　　　　 ・");
     SEPlay("EV_SE_043");
     Wait(60,0);
-    MsgDisp("主人公","Then, please write down the
-delivery address.");
+    MsgDisp("主人公","Then, please write down the delivery
+address.");
     ChMotion(5,4);
     VoicePlay("I350500000_05_110");
     MsgDisp("Hiiragi","No need, I will
@@ -119,8 +117,8 @@ show you there myself.");
     MsgDisp("Hiiragi","I will deliver it with you.
 Let us go.");
     MsgDisp("主人公","Huh∋");
-    MsgDisp("主人公","(Wouldn't it have been easier
-to get takeout......??)");
+    MsgDisp("主人公","(Wouldn't it have been easier to get
+takeout......??)");
     break ;
     default :
     DbgAssert(1);

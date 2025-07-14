@@ -1,22 +1,22 @@
 BGOpen("sc816",2);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's past lights out time,
-I have to go to bed early too......)");
+MsgDisp("主人公","(It's past lights out time, I have to go
+to bed early too......)");
 SEPlay("EV_SE_670");
 SEWait();
 SEPlay("EV_SE_579");
-MsgDisp("主人公","(Eh∋　Who could it be at this hour......
-......wait, from ｛氷室＊＊｝?)");
+MsgDisp("主人公","(Eh∋ Who could it be at this hour......
+......wait, from ｛氷室＊＊｝? )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();
 MsgDisp("主人公","He, hello......?");
 VoicePlay("Q190600000_06_000");
-MsgDisp("Himuro","...... Why are you answering.
-Isn't it past lights out time?");
-MsgDisp("主人公","Aren't you, ｛氷室＊＊｝,
-the one who called?");
+MsgDisp("Himuro","...... Why are you answering. Isn't it
+past lights out time?");
+MsgDisp("主人公","Aren't you, ｛氷室＊＊｝, the one who
+called?");
 VoicePlay("Q190600000_06_010");
 MsgDisp("Himuro","You could just not answer.");
 MsgDisp("主人公","Come on......");
@@ -70,8 +70,8 @@ MsgDisp("Himuro","I just forgot to put them on.
 More importantly, how is it there?
 Are you enjoying?");
 MsgDisp("主人公","Hehe, yeah!
-The weather is great,
-And it's a very nice place.");
+The weather is great, And it's a very nice
+place.");
 StlEye(6,2,0);
 StlMouth(6,2);
 StlEyeOpenLevel(6,5,1);
@@ -96,15 +96,14 @@ You're so dishonest.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("Q190600000_06_120");
-MsgDisp("Himuro","Well, you'll be back after two more
-days. I'll talk to you then.");
+MsgDisp("Himuro","Well, you'll be back after two more days.
+I'll talk to you then.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("Q190600000_06_130");
 MsgDisp("Himuro","Be careful.
 Don't get boisterous.");
-MsgDisp("主人公","Hehe, yeah.
-Thanks, ｛氷室＊＊｝.");
+MsgDisp("主人公","Hehe, yeah. Thanks, ｛氷室＊＊｝.");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);

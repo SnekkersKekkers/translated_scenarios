@@ -45,8 +45,8 @@ Well, I completely don't get it though.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040210102_02_030");
-        MsgDisp("Sassa","Seriously?
-You should have said a bit sooner.");
+        MsgDisp("Sassa","Seriously? You should have said a bit
+sooner.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -83,15 +83,15 @@ I thought you liked it.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040210102_02_080");
-        MsgDisp("Sassa","Then, well, we came all this way, 
-why don't we take a look?");
+        MsgDisp("Sassa","Then, well, we came all this way, why
+don't we take a look?");
         MsgDisp("主人公","Yeah, since we came all the way.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040210102_02_090");
-        MsgDisp("Sassa","Is this what it feels like
-to be with your fated person?");
+        MsgDisp("Sassa","Is this what it feels like to be with your
+fated person?");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);

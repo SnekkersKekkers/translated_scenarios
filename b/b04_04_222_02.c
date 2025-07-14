@@ -9,7 +9,7 @@ ChMotion(4,1,1);
 VoicePlay("B040422202_04_000");
 MsgDisp("Nanatsumori","For some reason we came here...
 Do you like this place?");
-MsgSel("Yeah, I do!","Not really...","If I'm with｛七ツ森＊｝▼");
+MsgSel("Yeah, I do!","Not really...","If I'm with ｛七ツ森＊｝▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040422202_04_010");
     MsgDisp("Nanatsumori","Got it.
-I feel like I'm getting somewhat 
-interested too. ");
+I feel like I'm getting somewhat
+interested too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -71,12 +71,11 @@ I don't think it's suited for a date.");
         ChMouth(4,0);
         ChMotion(4,1,1);
         VoicePlay("B040422202_04_060");
-        MsgDisp("Nanatsumori","So?
-Is the reason you came here
-with me is because it's fun?");
+        MsgDisp("Nanatsumori","So? Is the reason you came here with me is
+because it's fun?");
         MsgDisp("主人公","That's because...
-It feels like we're going
-back in time, the two of us.");
+It feels like we're going back in time,
+the two of us.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,3,1);
@@ -89,8 +88,8 @@ so you're having delusions.");
         ChMotion(4,1,1);
         VoicePlay("B040422202_04_080");
         MsgDisp("Nanatsumori","But, they are delusions?
-Are we following the story of the
-town girl and the lord, then?");
+Are we following the story of the town
+girl and the lord, then?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,2,1);

@@ -5,8 +5,8 @@ ChOpen(3,255,4,4,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323302_03_000");
-MsgDisp("Honda","Huh? What's this feeling?
-It's neither fun or scary.");
+MsgDisp("Honda","Huh? What's this feeling? It's neither fun
+or scary.");
 MsgSel("Are you alright? Don't push yourself?","Let's confirm it. And go again.","I'm still a bit scared");
 switch (MsgSelRsltGet()){
     case 0:
@@ -20,9 +20,8 @@ switch (MsgSelRsltGet()){
         ChMouth(3,1);
         ChMotion(3,0);
         VoicePlay("B040323302_03_010");
-        MsgDisp("Honda","Aahhー.
-Don't interfere when I'm
-trying to convince myself!");
+        MsgDisp("Honda","Aahhー. Don't interfere when I'm trying to
+convince myself!");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -35,14 +34,14 @@ trying to convince myself!");
         MsgDisp("Honda","I'm not pushing myself.
 This is a new feeling for me.
 What about you?");
-        MsgDisp("主人公","Yeah, I think
-I'm getting used to it a little.");
+        MsgDisp("主人公","Yeah, I think I'm getting used to it a
+little.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,5);
         VoicePlay("B040323302_03_030");
-        MsgDisp("Honda","Maybe,
-we've both reached the other side of fear?");
+        MsgDisp("Honda","Maybe, we've both reached the other side
+of fear?");
         MsgDisp("主人公","Hehe.");
         ChEye(3,3);
         ChMouth(3,3);
@@ -63,18 +62,17 @@ too is scary right?");
         ChMotion(3,0);
         VoicePlay("B040323302_03_060");
         MsgDisp("Honda","Yeah, that might be even scarier.");
-        MsgDisp("主人公","Hehe.
-We're still not fully on the 
-other side yet, huh?");
+        MsgDisp("主人公","Hehe. We're still not fully on the other
+side yet, huh?");
         ChSet(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040323302_03_070");
-        MsgDisp("Honda","Yeah, I'm fine with either side as long
-as I can have conversations
-with you like this.");
-        MsgDisp("主人公","(From now on too, I hope I can 
-keep having fun conversations 
-with ｛本多＊＊｝ like this.)");
+        MsgDisp("Honda","Yeah, I'm fine with either side as long as
+I can have conversations with you like
+this.");
+        MsgDisp("主人公","(From now on too, I hope I can keep having
+fun conversations with ｛本多＊＊｝ like
+this.)");
         break ;
         default :
         DbgAssert(1);
@@ -100,7 +98,8 @@ with ｛本多＊＊｝ like this.)");
     ChCheek(3,8);
     VoicePlay("B040323302_03_090");
     MsgDisp("Honda","Yep yep.
-As I thought... me too.");
+As I thought...
+me too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

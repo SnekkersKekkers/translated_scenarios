@@ -32,8 +32,8 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("T020401000_04_360");
 MsgDisp("Nanatsumori","My high school life was so much fun thanks
-to you. Thank you for everything until
-now.");
+to you.
+Thank you for everything until now.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

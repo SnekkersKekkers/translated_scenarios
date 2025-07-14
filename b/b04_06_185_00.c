@@ -22,10 +22,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040618500_06_010");
-    MsgDisp("Himuro","It was a good story though...
-it made me think about a lot of
-different things. But I 
-agree with you. ");
+    MsgDisp("Himuro","It was a good story though... it made me
+think about a lot of different things. But
+I agree with you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

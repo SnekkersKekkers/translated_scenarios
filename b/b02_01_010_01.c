@@ -6,8 +6,8 @@ ScrFadeIn(0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020101001_01_000");
-MsgDisp("Kazama","... Seriously?
-Ugh, I don't understand you.");
+MsgDisp("Kazama","... Seriously? Ugh, I don't understand
+you.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
 ChMouth(1,2);

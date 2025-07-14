@@ -14,8 +14,8 @@ No helping it, let's have a good match!");
     ChOpen(2,30,3,0,4,#1,#1,0,0);
     VoicePlay("O040201100_02_010");
     MsgDisp("Sassa","So you're on the other team.
-I don't wanna do this,
-but no holding back!");
+I don't wanna do this, but no holding
+back!");
     break ;
     case 4:
     case 5:

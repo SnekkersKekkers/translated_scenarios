@@ -26,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040623100_06_020");
     MsgDisp("Himuro","You won in a way didn't you?
-Since this is an attraction 
-for enjoying the thrill.");
+Since this is an attraction for enjoying
+the thrill.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

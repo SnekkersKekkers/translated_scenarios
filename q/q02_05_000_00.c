@@ -13,8 +13,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("Q020500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝,
-Good morning.
+    MsgDisp("Hiiragi","｛主人公｝, good morning.
 Are you enjoying the school trip?");
     MsgDisp("主人公","Good morning.
 Yes, and you ｛柊＊＊＊｝?");
@@ -54,13 +53,13 @@ school trip.");
         ChMotion(5,0,1);
         VoicePlay("Q020500000_05_050");
         MsgDisp("Hiiragi","No, I apologize for the invitation out of
-the blue. To each our own, let us enjoy
-Nagasaki.");
+the blue.
+To each our own, let us enjoy Nagasaki.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
-        MsgDisp("主人公","(I feel a bit bad refusing,
-he even invited me......)");
+        MsgDisp("主人公","(I feel a bit bad refusing, he even
+invited me......)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -78,21 +77,21 @@ he even invited me......)");
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("Q020500000_05_060");
-    MsgDisp("Hiiragi","｛主人公｝, Good morning.");
+    MsgDisp("Hiiragi","｛主人公｝, good morning.");
     MsgDisp("主人公","Ah, good morning!");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("Q020500000_05_070");
     MsgDisp("Hiiragi","I never knew school trips are so fun.");
-    MsgDisp("主人公","Hehe,
-I'm happy for you, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Hehe, I'm happy for you, ｛柊＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,3);
     Wait(20,1);
     VoicePlay("Q020500000_05_080");
-    MsgDisp("Hiiragi","Thank you. It's my first time, so I am
-excited more than everyone else.");
+    MsgDisp("Hiiragi","Thank you.
+It's my first time, so I am excited more
+than everyone else.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("Q020500000_05_090");
@@ -121,9 +120,8 @@ I'll get ready quickly!");
         VoicePlay("Q020500000_05_120");
         MsgDisp("Hiiragi","Oh right, please take your time.
 I will rejoice here as I wait for you.");
-        MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝ looks so excited.
-I'm sure it will be a wonderful school
-trip!)");
+        MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝ looks so excited. I'm
+sure it will be a wonderful school trip!)");
         MsgClose();
         ScrFadeOut(0,0);
         ChClose(5,0,0);
@@ -135,8 +133,7 @@ trip!)");
         ChEyeOpenLevel(5,9);
         VoicePlay("Q020500000_05_130");
         MsgDisp("Hiiragi","Is that so......
-It's unfortunate, but it can't be 
-helped.");
+It's unfortunate, but it can't be helped.");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -147,8 +144,8 @@ surroundings.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
-        MsgDisp("主人公","(He even invited me, 
-I fell a bit bad......)");
+        MsgDisp("主人公","(He even invited me, I fell a bit
+bad......)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

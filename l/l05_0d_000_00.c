@@ -12,15 +12,14 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("L050D00000_22_000");
-MsgDisp("Hikaru","You'll definitely get something
-in return for Valentine's Day▼");
+MsgDisp("Hikaru","You'll definitely get something in return
+for Valentine's Day▼");
 MsgDisp("主人公","Y-You think so?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("L050D00000_21_010");
-MsgDisp("Michiru","Yes.
-Today's the day when Mari's feelings
+MsgDisp("Michiru","Yes. Today's the day when Mari's feelings
 will be returned. I'm excited.");
 MsgDisp("主人公","(My feelings will be returned......)");
 BGMStop();

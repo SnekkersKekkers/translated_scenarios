@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040418600_04_000");
     MsgDisp("Nanatsumori","They got the theory down.
-If it's well executed,
-it feels really good!");
+If it's well executed, it feels really
+good!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,8 +25,8 @@ it feels really good!");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("B040418600_04_010");
-    MsgDisp("Nanatsumori","Well, if you were looking for a story,
-I guess that's the impression you'll get.
+    MsgDisp("Nanatsumori","Well, if you were looking for a story, I
+guess that's the impression you'll get.
 But the action was awesome, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -36,8 +36,8 @@ But the action was awesome, right?");
     DateRateSet(2);
     ChMotion(4,2,1);
     VoicePlay("B040418600_04_020");
-    MsgDisp("Nanatsumori","Well, I guess it's not 
-really suited for girls.");
+    MsgDisp("Nanatsumori","Well, I guess it's not really suited for
+girls.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

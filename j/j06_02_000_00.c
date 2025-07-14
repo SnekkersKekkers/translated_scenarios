@@ -15,23 +15,24 @@ switch (MsgSelRsltGet()){
         ChMotion(2,3);
         VoicePlay("J060200000_02_000");
         MsgDisp("Sassa","That's good, that's a deal.");
-        MsgDisp("主人公","Then on ｛日付｝,
-At ｛待ち合わせ場所｝?");
+        MsgDisp("主人公","Then on ｛日付｝, At
+｛待ち合わせ場所｝?");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,4);
         ChEyeOpenLevel(2,0);
         VoicePlay("J060200000_02_010");
-        MsgDisp("Sassa","All right. I'll be looking forward to
-seeing you on the day.");
+        MsgDisp("Sassa","All right.
+I'll be looking forward to seeing you on
+the day.");
         MsgClose();
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝.
-...... This is a date, right?)");
+        MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝. ......
+This is a date, right?)");
         break ;
         case 4:
         case 5:
@@ -41,14 +42,15 @@ seeing you on the day.");
         VoicePlay("J060200000_02_020");
         MsgDisp("Sassa","Really? Yes, absolutely! Okay, let's
 decide where we're going to meet.");
-        MsgDisp("主人公","Yeah. Okay, then,
-How about we meet at ｛待ち合わせ場所｝?");
+        MsgDisp("主人公","Yeah. Okay, then, How about we meet at
+｛待ち合わせ場所｝?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("J060200000_02_030");
-        MsgDisp("Sassa","Yeah, it's fine. Well, you're loud, so
-you'll stand out wherever you are, right?");
+        MsgDisp("Sassa","Yeah, it's fine.
+Well, you're loud, so you'll stand out
+wherever you are, right?");
         MsgDisp("主人公","Hmmm...easy to spot, huh?");
         ChEye(2,0);
         ChMouth(2,3);
@@ -63,8 +65,7 @@ See you.");
         BGMStop();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(｛颯砂＊＊｝.
-He asked me out on a date.
+        MsgDisp("主人公","(｛颯砂＊＊｝. He asked me out on a date.
 I'm looking forward to it!!)");
         break ;
         default :
@@ -89,7 +90,8 @@ I'm looking forward to it!!)");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("J060200000_02_060");
-        MsgDisp("Sassa","I see. Well, it can't be helped then.
+        MsgDisp("Sassa","I see.
+Well, it can't be helped then.
 I'll ask you out again.");
         MsgDisp("主人公","Sorry, okay?");
         ChEye(2,0);

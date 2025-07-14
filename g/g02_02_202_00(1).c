@@ -13,9 +13,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220200_02_020");
-MsgDisp("Sassa","He can do everything - 
-studying, sports, you name it - 
-but he doesn't do anything.");
+MsgDisp("Sassa","He can do everything - studying, sports,
+you name it - but he doesn't do anything.");
 MsgDisp("主人公","｛風真＊＊｝ lives alone and has his
 grandfather's shop and Simon's job to
 handle, so it's probably tough for him.");
@@ -31,19 +30,19 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220200_02_040");
 MsgDisp("Sassa","My goals are straightforward, and I just
-keep at them until I'm satisfied. It's
-simple.");
+keep at them until I'm satisfied.
+It's simple.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220200_02_050");
-MsgDisp("Sassa","But Ryota's different. I can't even begin
-to understand what he's aiming for or what
-he's worried about.");
+MsgDisp("Sassa","But Ryota's different.
+I can't even begin to understand what he's
+aiming for or what he's worried about.");
 MsgDisp("主人公","I think your goals are really challenging
-too, ｛颯砂＊＊｝. I can't do anything to
-help......");
+too, ｛颯砂＊＊｝.
+I can't do anything to help......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -61,7 +60,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220200_02_080");
-MsgDisp("Sassa","Alright, it's not exactly a competition, 
+MsgDisp("Sassa","Alright, it's not exactly a competition,
 but I feel like I'm competing with Ryota.");
 MsgDisp("主人公","｛颯砂＊＊｝ and ｛風真＊＊｝ in a
 competition?");

@@ -8,8 +8,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600001_06_000");
     MsgDisp("Himuro","Huh.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-You came to see me?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. You came to see me?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -31,7 +30,8 @@ time.)");
     VoicePlay("N020600001_06_030");
     MsgDisp("Himuro","Do you want to hold that spot?
 Well, next time, you should aim higher.");
-    MsgDisp("主人公","Y-Yeah! I'll do my best.");
+    MsgDisp("主人公","Y-Yeah!
+I'll do my best.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);

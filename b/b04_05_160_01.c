@@ -25,7 +25,8 @@ it.");
     ChMotion(5,4);
     VoicePlay("B040516001_05_020");
     MsgDisp("Hiiragi","A long time ago, I would play this in the
-hotspring district. I've missed it.");
+hotspring district.
+I've missed it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

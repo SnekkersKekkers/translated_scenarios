@@ -13,5 +13,5 @@ VoicePlay("B020102101_01_010");
 MsgDisp("Kazama","Yeah.
 No objections from me.
 A full 10/10.");
-MsgDisp("主人公","(Hehe. I'm glad
-I decided to wear this outfit!)");
+MsgDisp("主人公","(Hehe. I'm glad I decided to wear this
+outfit!)");

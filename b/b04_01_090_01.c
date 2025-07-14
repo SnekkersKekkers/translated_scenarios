@@ -40,9 +40,9 @@ Well, you're probably right.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040109001_01_030");
-    MsgDisp("Kazama","That's probably right. You can see a lot
-of insects around here too, not just
-plants.");
+    MsgDisp("Kazama","That's probably right.
+You can see a lot of insects around here
+too, not just plants.");
     MsgDispSksp(1,0);
     ChEye(1,0);
     MsgDateResultDisp();

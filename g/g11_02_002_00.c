@@ -8,9 +8,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hmm...
-It doesn't seem like ｛颯砂＊＊｝ is here.
-It can't be helped, time to go home...)");
+MsgDisp("主人公","(Hmm... It doesn't seem like ｛颯砂＊＊｝
+is here. It can't be helped, time to go
+home...)");
 VoicePlay("G110200200_02_000");
 MsgDisp("Sassa?","Heeey!
 Over here, over here!");
@@ -25,8 +25,8 @@ ChOpen(2,41,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200200_02_010");
 MsgDisp("Sassa","Huh...what are you doing here?");
-MsgDisp("主人公","I thought maybe ｛颯砂＊＊｝ was
-out running here.");
+MsgDisp("主人公","I thought maybe ｛颯砂＊＊｝ was out
+running here.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -68,14 +68,14 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,0);
 VoicePlay("G110200200_02_060");
-MsgDisp("Sassa","Then, I have to become the person
-who was written about in that article.");
+MsgDisp("Sassa","Then, I have to become the person who was
+written about in that article.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("G110200200_02_070");
-MsgDisp("Sassa","Wouldn't it be awful if your article
-was like fake news?");
+MsgDisp("Sassa","Wouldn't it be awful if your article was
+like fake news?");
 MsgDisp("主人公","Hehe, yeah.
 I'm rooting for you!");
 ChEye(2,0);
@@ -90,7 +90,7 @@ BGMStop(2);
 SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I would be happy if my article was 
-even a little bit of help to ｛颯砂＊＊｝!)");
+MsgDisp("主人公","(I would be happy if my article was even a
+little bit of help to ｛颯砂＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

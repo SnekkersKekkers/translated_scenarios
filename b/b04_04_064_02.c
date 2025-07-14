@@ -24,14 +24,14 @@ ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_030");
 MsgDisp("Nanatsumori","We can keep in contact with our phones,
-but before that, if you were to
-get mixed up with some dopey people...");
+but before that, if you were to get mixed
+up with some dopey people...");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B040406402_04_040");
-MsgDisp("Nanatsumori","Or, if you ran into another
-guy from our school...");
+MsgDisp("Nanatsumori","Or, if you ran into another guy from our
+school...");
 MsgDisp("主人公","｛七ツ森＊｝......");
 MsgDisp("主人公","Are you jealous?");
 ChEye(4,5);
@@ -51,17 +51,16 @@ ChMotion(4,0,1);
 VoicePlay("B040406402_04_070");
 MsgDisp("Nanatsumori","I'm worried about
 your wellbeing! Me!");
-MsgDisp("主人公","Yeah.
-I'm sorry, okay? I'll be careful,
-so don't get angry.");
+MsgDisp("主人公","Yeah. I'm sorry, okay? I'll be careful, so
+don't get angry.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 ChCheek(4,8);
 VoicePlay("B040406402_04_080");
 MsgDisp("Nanatsumori","I'm not mad.
-I'm just worrying too much
-on my own accord.");
+I'm just worrying too much on my own
+accord.");
 MsgDisp("主人公","Thank you.");
 ChEye(4,0);
 ChMouth(4,4);
@@ -72,8 +71,8 @@ Let me hold them.");
 SEPlay("EV_SE_504");
 SEWait();
 VoicePlay("B040406402_04_100");
-MsgDisp("Nanatsumori","So that even if anything happens, 
-we wpn't get separated. ");
+MsgDisp("Nanatsumori","So that even if anything happens, we wpn't
+get separated.");
 MsgDisp("主人公","YEah.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -89,16 +88,16 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040406402_04_110");
 MsgDisp("Nanatsumori","Ahh, hey.
-You've got cotton candy stuck
-next to your mouth.");
+You've got cotton candy stuck next to your
+mouth.");
 MsgDisp("主人公","Eh, really?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_120");
 MsgDisp("Nanatsumori","...Yeah, I'll take it off.
-I wonder if this is how Fathers
-with daughters feelー......");
+I wonder if this is how Fathers with
+daughters feelー......");
 MsgDisp("主人公","Ah, you're treating me 
 like a child!");
 ChEye(4,4);
@@ -118,8 +117,8 @@ MsgClose();
 ChClose(4,0,30);
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 ScrQuake(1);
-MsgDisp("主人公","Waa, ｛七ツ森＊｝
-You're running too fast～!
+MsgDisp("主人公","Waa, ｛七ツ森＊｝ You're running too
+fast～!
 You're letting go of my hand.");
 VoicePlay("B040406402_04_150");
 MsgDisp("Nanatsumori","I won't let go, so it's alright.");

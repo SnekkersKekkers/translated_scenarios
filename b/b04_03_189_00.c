@@ -11,9 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040318900_03_000");
-    MsgDisp("Honda","My body started moving naturally,
-isn't that amazing? I'd like to 
-watch other Indian movies too.");
+    MsgDisp("Honda","My body started moving naturally, isn't
+that amazing?
+I'd like to watch other Indian movies too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,8 +24,8 @@ watch other Indian movies too.");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040318900_03_010");
-    MsgDisp("Honda","Both the dancing and singing, 
-it was fresh for me.");
+    MsgDisp("Honda","Both the dancing and singing, it was fresh
+for me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

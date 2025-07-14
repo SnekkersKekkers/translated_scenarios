@@ -1,9 +1,10 @@
 MsgClose();
 ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020210307_02_000");
-MsgDisp("Sassa","Yeah, that's right. I ran into you at the
-library before, right?");
-MsgDisp("主人公","Ah......you were reading that difficult 
+MsgDisp("Sassa","Yeah, that's right.
+I ran into you at the library before,
+right?");
+MsgDisp("主人公","Ah......you were reading that difficult
 book called \"Exercise Theory\", right?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -21,8 +22,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210307_02_030");
-MsgDisp("Sassa","It wasn't a health and physical 
-education book, was it?");
+MsgDisp("Sassa","It wasn't a health and physical education
+book, was it?");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -52,14 +53,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210307_02_070");
-MsgDisp("Sassa","Next time, let's sneak into the 
-career counseling room together.");
+MsgDisp("Sassa","Next time, let's sneak into the career
+counseling room together.");
 MsgDisp("主人公","Huh? We'll get in trouble, you know?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("G020210307_02_080");
-MsgDisp("Sassa","That's what makes it exciting. 
+MsgDisp("Sassa","That's what makes it exciting.
 You'll feel your heart racing, won't you?");
 MsgDisp("主人公","(But if we get caught by Himmuro-sensei
 ......I'm more nervous than excited,

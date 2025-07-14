@@ -39,27 +39,27 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020420101_04_060");
-MsgDisp("Nanatsumori","I'm sorry. I didn't mean to take
-it all out on you.");
+MsgDisp("Nanatsumori","I'm sorry.
+I didn't mean to take it all out on you.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("G020420101_04_070");
-MsgDisp("Nanatsumori","Maybe it's my fault... but whenever
-I see you and him laughing together
-I——");
+MsgDisp("Nanatsumori","Maybe it's my fault...
+but whenever I see you and him laughing
+together I——");
 MsgDisp("主人公","｛七ツ森＊｝......");
 VoicePlay("G020420101_04_080");
-MsgDisp("Nanatsumori","It sucks. It makes me
-100% jealous.");
+MsgDisp("Nanatsumori","It sucks.
+It makes me 100% jealous.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("G020420101_04_090");
 MsgDisp("Nanatsumori","I'm sorry ｛主人公｝.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems hurt... I wonder
-if I did something wrong...)");
+MsgDisp("主人公","(｛七ツ森＊｝ seems hurt...
+I wonder if I did something wrong...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

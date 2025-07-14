@@ -32,7 +32,8 @@ with me?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("Q020400000_04_030");
-        MsgDisp("Nanatsumori","Yeah true. Let's have fun.");
+        MsgDisp("Nanatsumori","Yeah true.
+Let's have fun.");
         MsgDisp("主人公","(Free time with ｛七ツ森＊｝!
 I'm really excited!)");
         break ;
@@ -61,8 +62,7 @@ I feel bad......)");
     ChOpen(4,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020400000_04_050");
     MsgDisp("Nanatsumori","Mornin'.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
-Good morning.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Good morning.");
     ChEye(4,3);
     ChMouth(4,3);
     VoicePlay("Q020400000_04_060");
@@ -94,7 +94,8 @@ blast!)");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("Q020400000_04_100");
-        MsgDisp("Nanatsumori","For real...? Got it");
+        MsgDisp("Nanatsumori","For real...?
+Got it");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);

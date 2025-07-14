@@ -2,8 +2,8 @@ BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(There are a lot of magazines with
-impressive gifts these days. Hmm, it's
-hard to display them......)");
+impressive gifts these days.
+Hmm, it's hard to display them......)");
 VoicePlay("G110300602_03_000");
 MsgDisp("Honda?","Is it a magazine with a luxurious gift?
 Does the item come with a booklet?");
@@ -32,8 +32,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G110300602_03_030");
-MsgDisp("Honda","Right?
-I wonder who thought of that?
+MsgDisp("Honda","Right? I wonder who thought of that?
 That's a great idea.");
 MsgDisp("主人公","I think ｛本多＊＊｝ would come up with
 something even more interesting.");
@@ -53,8 +52,8 @@ MsgClose();
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","......Ah, ｛本多＊＊｝.
-Isn't it time to head back up already?");
+MsgDisp("主人公","......Ah, ｛本多＊＊｝. Isn't it time to
+head back up already?");
 ChMotion(3,1);
 VoicePlay("G110300602_03_050");
 MsgDisp("Honda","Yeees, a bit more and I think I've
@@ -71,8 +70,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300602_03_070");
-MsgDisp("Honda","Right right, 
-I can't resolve this problem well......");
+MsgDisp("Honda","Right right, I can't resolve this problem
+well......");
 MsgDisp("主人公","(｛本多＊＊｝, you're thinking of something
 outrageous aren't you......)");
 BGMStop();

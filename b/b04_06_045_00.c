@@ -10,9 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040604500_06_000");
-    MsgDisp("Himuro","Yeah, I caught a glimpse of 
-a different dimension. I wonder how it 
-feels to be a different person...");
+    MsgDisp("Himuro","Yeah, I caught a glimpse of a different
+dimension. I wonder how it feels to be a
+different person...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,9 +35,9 @@ huh.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040604500_06_020");
-    MsgDisp("Himuro","In what respect? I want to have a thorough 
-discussion. If we do that, I'm sure we'll be able 
-to understand each other better.");
+    MsgDisp("Himuro","In what respect? I want to have a thorough
+discussion. If we do that, I'm sure we'll
+be able to understand each other better.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

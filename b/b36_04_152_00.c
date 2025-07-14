@@ -18,8 +18,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B360415200_04_010");
 MsgDisp("Nanatsumori","Should we wager something?");
-MsgDisp("主人公","By wager, do you mean
-like juice or something?");
+MsgDisp("主人公","By wager, do you mean like juice or
+something?");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -30,22 +30,22 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B360415200_04_030");
-MsgDisp("Nanatsumori","Something like... your time?");
+MsgDisp("Nanatsumori","Something like...
+your time?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B360415200_04_040");
-MsgDisp("Nanatsumori","Counting up the points, the more points
-I get, the more of your time I receive.
-The more points you get, the more time
-I'll give back.");
-MsgDisp("主人公","Hey, what is the advantage
-of that wager...");
+MsgDisp("Nanatsumori","Counting up the points, the more points I
+get, the more of your time I receive. The
+more points you get, the more time I'll
+give back.");
+MsgDisp("主人公","Hey, what is the advantage of that
+wager...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360415200_04_050");
-MsgDisp("Nanatsumori","Ah...
-That's right, sorry.
-That only benefits me.");
+MsgDisp("Nanatsumori","Ah... That's right, sorry. That only
+benefits me.");
 MsgDisp("主人公","Hey.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -53,15 +53,13 @@ ChMotion(4,2,1);
 ChCheek(4,5);
 VoicePlay("B360415200_04_060");
 MsgDisp("Nanatsumori","But, I was being kinda serious.
-If we end up not being able
-to go home...");
+If we end up not being able to go home...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B360415200_04_070");
-MsgDisp("Nanatsumori","...and. That was close!
-I was about to blurt out something
-really cheap∋");
+MsgDisp("Nanatsumori","...and. That was close! I was about to
+blurt out something really cheap∋");
 MsgDisp("主人公","｛七ツ森＊｝?");
 ChEye(4,1);
 ChMouth(4,1);

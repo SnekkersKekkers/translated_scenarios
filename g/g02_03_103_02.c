@@ -9,8 +9,9 @@ day today in matching outfits.");
 MsgDisp("主人公","Hehe, yeah we did.");
 ChSet(3,4);
 VoicePlay("G020310302_03_010");
-MsgDisp("Honda","Without planning it in advance, 
-we started to look alike. That means——");
+MsgDisp("Honda","Without planning it in advance, we started
+to look alike.
+That means——");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -32,12 +33,12 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310302_03_050");
-MsgDisp("Honda","Some people say matching outfits 
-are embarrassing, but I don't get it.");
+MsgDisp("Honda","Some people say matching outfits are
+embarrassing, but I don't get it.");
 ChMotion(3,1);
 VoicePlay("G020310302_03_060");
-MsgDisp("Honda","We should be happy that our 
-tastes are so similar.");
+MsgDisp("Honda","We should be happy that our tastes are so
+similar.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

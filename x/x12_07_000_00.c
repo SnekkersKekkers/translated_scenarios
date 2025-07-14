@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like things have 
-been going well recently!)");
+MsgDisp("主人公","(Looks like things have been going well
+recently!)");
 switch (ChPrmGet(7,6)){
     case 0:
     case 1:
@@ -15,8 +15,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0);
     VoicePlay("X120700000_07_000");
     MsgDisp("Mikage","Looks like you've been working hard at the
-orchestra. Vice-Principal Himuro praised
-you too.");
+orchestra.
+Vice-Principal Himuro praised you too.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
@@ -26,9 +26,9 @@ you too.");
     ChMotion(7,1);
     VoicePlay("X120700000_07_010");
     MsgDisp("Mikage","Looks like you're enjoying the orchestra.
-I wonder if by hearing your sound, 
-the Gardening Club's plants will 
-grow well too?");
+I wonder if by hearing your sound, the
+Gardening Club's plants will grow well
+too?");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :

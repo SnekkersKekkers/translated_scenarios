@@ -13,25 +13,24 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700600_07_010");
-MsgDisp("Mikage","There were a lot of sudden
-cancellations. I guess everyone had
-better things to do.");
+MsgDisp("Mikage","There were a lot of sudden cancellations.
+I guess everyone had better things to do.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700600_07_020");
 MsgDisp("Mikage","Did you not have something better to do
 today?");
-MsgDisp("主人公","Nothing in particular. But you know, 
-isn't it fun to hang out with your 
-friends and teachers on off days?");
+MsgDisp("主人公","Nothing in particular. But you know, isn't
+it fun to hang out with your friends and
+teachers on off days?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D010700600_07_030");
-MsgDisp("Mikage","Ahh, I get that. It's something new 
-and different from school.
-......Should we wait a bit longer?");
+MsgDisp("Mikage","Ahh, I get that. It's something new and
+different from school. ......Should we
+wait a bit longer?");
 MsgClose();
 ChClose(7);
 MsgDisp("","　　　　　　　　　　 ・
@@ -49,17 +48,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700600_07_050");
-MsgDisp("Mikage","Should we forget the extracurricular
-class and just have some fun?");
-MsgDisp("主人公","Yes!
-This way you don't have any extra
+MsgDisp("Mikage","Should we forget the extracurricular class
+and just have some fun?");
+MsgDisp("主人公","Yes! This way you don't have any extra
 paperwork to do.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700600_07_060");
-MsgDisp("Mikage","Oy!　You're right!
-So......what about bowling?");
+MsgDisp("Mikage","Oy! You're right! So......what about
+bowling?");
 MsgDisp("主人公","Eh?");
 BGMStop();
 MsgClose();
@@ -92,8 +90,8 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("D010700600_07_080");
-MsgDisp("Mikage","How do I look? You can't tell it's my 
-first time, right?");
+MsgDisp("Mikage","How do I look?
+You can't tell it's my first time, right?");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("D010700600_07_090");
@@ -132,23 +130,23 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700600_07_130");
-MsgDisp("Mikage","It's not only bowling. Your sensei
-can't even do some things you students
-take for granted.");
+MsgDisp("Mikage","It's not only bowling.
+Your sensei can't even do some things you
+students take for granted.");
 MsgDisp("主人公","Eh?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D010700600_07_140");
-MsgDisp("Mikage","I went to high school overseas. Because
-I skipped a grade, I was younger than my 
+MsgDisp("Mikage","I went to high school overseas. Because I
+skipped a grade, I was younger than my
 classmates and didn't have any friends.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D010700600_07_150");
-MsgDisp("Mikage","That's why, now, I'm just piggybacking
-on everyone else's high school life.");
+MsgDisp("Mikage","That's why, now, I'm just piggybacking on
+everyone else's high school life.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

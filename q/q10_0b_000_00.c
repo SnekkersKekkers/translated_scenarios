@@ -2,8 +2,7 @@ BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc822",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","
-Reflection on the water surface makes it
+MsgDisp("主人公","Reflection on the water surface makes it
 really look like a pair of glasses!");
 MsgClose();
 ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
@@ -86,19 +85,19 @@ ChMouth(1,3);
 ChMotion(1,3,1);
 VoicePlay("Q100B00000_01_030");
 MsgDisp("Kazama","Wait a sec.
-I heard that the udon from the 
-Gotō Islands are delicious.");
+I heard that the udon from the Gotō
+Islands are delicious.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("Q100B00000_04_040");
-MsgDisp("Nanatsumori","I keep saying it,
-but noodles are a NG for me.");
+MsgDisp("Nanatsumori","I keep saying it, but noodles are a NG for
+me.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("Q100B00000_03_030");
-MsgDisp("Honda","Udon from the Gotō Islands? 
+MsgDisp("Honda","Udon from the Gotō Islands?
 That also sounds unmissable!");
 ChEye(4,2);
 ChMouth(4,1);
@@ -109,19 +108,18 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("Q100B00000_01_040");
-MsgDisp("Kazama","How about a light udon for lunch,
-and the chanpon ramen at night?");
-MsgDisp("主人公","(Hmmm?
-Dinner is served at the hotel, 
+MsgDisp("Kazama","How about a light udon for lunch, and the
+chanpon ramen at night?");
+MsgDisp("主人公","(Hmmm? Dinner is served at the hotel,
 right......?)");
 ChMouth(1,2);
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q100B00000_03_040");
-MsgDisp("Honda","I won't be fooled. Dinner will be 
-provided by the hotel, and you're not 
-allowed to leave at night.");
+MsgDisp("Honda","I won't be fooled.
+Dinner will be provided by the hotel, and
+you're not allowed to leave at night.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,4);
@@ -132,7 +130,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q100B00000_04_060");
-MsgDisp("Nanatsumori","Well, how about taking the middle and 
+MsgDisp("Nanatsumori","Well, how about taking the middle and
 going on a castella tour for now.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -141,8 +139,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q100B00000_03_050");
-MsgDisp("Honda","Meh...... Well, fine!
-But if I get hungry,
+MsgDisp("Honda","Meh...... Well, fine! But if I get hungry,
 I'll go eat champon noodles on my own.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -162,7 +159,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q100B00000_03_060");
 MsgDisp("Honda","Let's start by you, Mi-kun.
-Let's go to your recommendated castella 
+Let's go to your recommendated castella
 shop!");
 ChEye(1,0);
 ChMouth(1,3);

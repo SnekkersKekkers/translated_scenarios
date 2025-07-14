@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,4);
     VoicePlay("B040621200_06_010");
     MsgDisp("Himuro","You have a point.
-If there's no demand, 
-why not make one?");
+If there's no demand, why not make one?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -43,8 +42,8 @@ why not make one?");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040621200_06_030");
-    MsgDisp("Himuro","Are you planning on
-squandering your money?");
+    MsgDisp("Himuro","Are you planning on squandering your
+money?");
     MsgDateResultDisp();
     break ;
     default :

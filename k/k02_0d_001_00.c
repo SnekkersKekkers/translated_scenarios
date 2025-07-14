@@ -31,9 +31,8 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("K020D00100_22_010");
-MsgDisp("Hikaru","We put a lot of thought into choosing
-it for you, Mari.
-Ehehe▼");
+MsgDisp("Hikaru","We put a lot of thought into choosing it
+for you, Mari. Ehehe▼");
 MsgClose();
 SEPlay("EV_SE_856");
 BGMStop();

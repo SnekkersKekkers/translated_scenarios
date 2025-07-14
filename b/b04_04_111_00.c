@@ -48,8 +48,8 @@ If you're good, you're good.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("B040411100_04_040");
-    MsgDisp("Nanatsumori","I can teach you the
-trick to not fall over.");
+    MsgDisp("Nanatsumori","I can teach you the trick to not fall
+over.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

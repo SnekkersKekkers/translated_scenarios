@@ -23,16 +23,16 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("G020110101_01_030");
-MsgDisp("Kazama","Geez, I give up. Listen. 
-Recently, Sassa and Inori seem to
-get along well with you too.");
+MsgDisp("Kazama","Geez, I give up. Listen. Recently, Sassa
+and Inori seem to get along well with you
+too.");
 ChEye(1,1);
 ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_040");
-MsgDisp("Kazama","I found you a long time ago. It's not
-about who gets there first, okay?");
+MsgDisp("Kazama","I found you a long time ago.
+It's not about who gets there first, okay?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -59,8 +59,9 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_070");
 MsgDisp("Kazama","Haa......this place is dangerous.");
-MsgDisp("主人公","(Just now...... could that be ｛風真＊＊｝
-'s inner voice?')");
+MsgDisp("主人公","(Just now......
+could that be ｛風真＊＊｝'s inner
+voice?')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

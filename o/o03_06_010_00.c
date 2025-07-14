@@ -10,8 +10,7 @@ about my partner......)");
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030601000_06_000");
     MsgDisp("Himuro","You don't have a partner?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Yeah, not yet.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Yeah, not yet.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -31,14 +30,13 @@ about my partner......)");
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030601000_06_020");
     MsgDisp("Himuro","Are you looking for a partner?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Yeah, I am.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Yeah, I am.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O030601000_06_030");
-    MsgDisp("Himuro","If you don't pull on my leg,
-I can run with you.");
+    MsgDisp("Himuro","If you don't pull on my leg, I can run
+with you.");
     MsgDisp("主人公","I, I'll do my best.");
     break ;
     case 4:
@@ -64,8 +62,8 @@ got rejected, right?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O030601000_06_050");
-    MsgDisp("Himuro","You haven't found a partner
-for the three-legged race, have you?");
+    MsgDisp("Himuro","You haven't found a partner for the
+three-legged race, have you?");
     MsgDisp("主人公","N, not yet.");
     ChEye(6,0);
     ChMouth(6,0);

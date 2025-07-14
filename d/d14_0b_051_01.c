@@ -27,9 +27,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B05101_04_010");
-MsgDisp("Nanatsumori","Kazama.
-You actually want to know
-don't you?");
+MsgDisp("Nanatsumori","Kazama. You actually want to know don't
+you?");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","?");
 ChEye(3,0);
@@ -42,16 +41,15 @@ ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B05101_04_020");
-MsgDisp("Nanatsumori","That's... you know.
-Are you two getting to
-a good place?");
+MsgDisp("Nanatsumori","That's...
+you know.
+Are you two getting to a good place?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D140B05101_01_010");
-MsgDisp("Kazama","Actually, Nanatsumori, 
-I don't want to hear 
-it after all.");
+MsgDisp("Kazama","Actually, Nanatsumori, I don't want to
+hear it after all.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -95,9 +93,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B05101_03_050");
-MsgDisp("Honda","We're... getting along really well!
-So close that you  guys are 
-getting jealous!");
+MsgDisp("Honda","We're... getting along really well! So
+close that you guys are getting jealous!");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -116,8 +113,8 @@ ChMotion(3,3,1);
 VoicePlay("D140B05101_03_060");
 MsgDisp("Honda","Haha!
 So are you both jelly?");
-MsgDisp("主人公","(｛風真＊＊｝ and ｛七ツ森＊｝
-are worried about us...?)");
+MsgDisp("主人公","(｛風真＊＊｝ and ｛七ツ森＊｝ are
+worried about us...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

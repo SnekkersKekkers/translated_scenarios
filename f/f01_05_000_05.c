@@ -21,8 +21,8 @@ Let's go.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("F010500005_05_020");
-    MsgDisp("Hiiragi","Well then, let us settle this dispute at
-a cafe.");
+    MsgDisp("Hiiragi","Well then, let us settle this dispute at a
+cafe.");
     MsgDisp("主人公","Hehe, okay!");
     break ;
     case 4:

@@ -29,15 +29,15 @@ ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("Q070C00200_07_010");
 MsgDisp("Mikage","The traders who once lived here traveled
-around a lot like you, Yanosuke. Then
-they decided to stay here in Nagasaki.");
+around a lot like you, Yanosuke. Then they
+decided to stay here in Nagasaki.");
 ChEye(5,0);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Q070C00200_07_020");
-MsgDisp("Mikage","There's stuff you can't learn unless
-you come here. There's stuff you can only
+MsgDisp("Mikage","There's stuff you can't learn unless you
+come here. There's stuff you can only
 understand if you touch and feel them.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -55,9 +55,9 @@ MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 ChClose(7,0,30);
 ChClose(5,0,30);
-MsgDisp("主人公","( I wanted to tell ｛氷室＊＊｝
-the story about ｛御影＊＊｝...
-Right! I'll just tell him in the report.)");
+MsgDisp("主人公","( I wanted to tell ｛氷室＊＊｝ the story
+about ｛御影＊＊｝... Right! I'll just
+tell him in the report.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

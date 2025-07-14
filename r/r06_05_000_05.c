@@ -10,8 +10,8 @@ switch (ChPrmGet(5,6)){
     VoicePlay("R060500005_05_000");
     MsgDisp("Hiiragi","Yeah, this is not bad.
 Thank you very much.");
-    MsgDisp("主人公","(It seems that he's really
-happy with my gift!)");
+    MsgDisp("主人公","(It seems that he's really happy with my
+gift!)");
     break ;
     case 3:
     case 4:
@@ -22,8 +22,8 @@ happy with my gift!)");
     VoicePlay("R060500005_05_010");
     MsgDisp("Hiiragi","Woah, this is pretty cool.
 I look forward to using this.");
-    MsgDisp("主人公","(It seems that he's really
-happy with my gift!)");
+    MsgDisp("主人公","(It seems that he's really happy with my
+gift!)");
     break ;
     default :
     DbgAssert(1);

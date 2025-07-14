@@ -5,8 +5,8 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408501_04_000");
-MsgDisp("Nanatsumori","Surely with it being this cold, 
-there won't be any bugs.");
+MsgDisp("Nanatsumori","Surely with it being this cold, there
+won't be any bugs.");
 MsgSel("They're definitely hibernating!","Apparently mosquitoes hibernate nowadays.","Are you that bad with bugs?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040408501_04_010");
     MsgDisp("Nanatsumori","Right, tight.
-You can just keep sleeping like this, 
+You can just keep sleeping like this,
 little bugs...");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

@@ -5,8 +5,8 @@ ChMouth(3,2);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B040302102_03_000");
-MsgDisp("Honda","Hm? That person we just passed,
-I think I know them from somewhere...");
+MsgDisp("Honda","Hm? That person we just passed, I think I
+know them from somewhere...");
 MsgSel("A friend of yours?","I haven't passed by anyone...","Maybe they were looking at ｛本多＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -35,8 +35,8 @@ I don't have that many friends.");
         ChEye(3,0);
         ChMouth(3,2);
         ChMotion(3,0,1);
-        MsgDisp("主人公","Really? 
-You don't give off that impression.");
+        MsgDisp("主人公","Really? You don't give off that
+impression.");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,0,1);
@@ -74,17 +74,17 @@ even now.");
         ChMouth(3,0);
         ChMotion(3,0,1);
         VoicePlay("B040302102_03_070");
-        MsgDisp("Honda","It's you, for sure. Because something I
-didn't have in junior high, and something
-I have now - it's you.");
+        MsgDisp("Honda","It's you, for sure.
+Because something I didn't have in junior
+high, and something I have now - it's you.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,4,1);
         ChCheek(3,5);
         VoicePlay("B040302102_03_080");
-        MsgDisp("Honda","I haven't changed at all,
-but the difference between having you
-and not having you is immense.");
+        MsgDisp("Honda","I haven't changed at all, but the
+difference between having you and not
+having you is immense.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0,1);
@@ -109,8 +109,8 @@ do something.");
         ChLayout(1);
         VoicePlay("B040302102_03_110");
         MsgDisp("Honda","...what I wonder?");
-        MsgDisp("主人公","(｛本多＊＊｝,
-is there something you want me to do?)");
+        MsgDisp("主人公","(｛本多＊＊｝, is there something you want
+me to do?)");
         break ;
         default :
         DbgAssert(1);
@@ -123,9 +123,8 @@ is there something you want me to do?)");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("B040302102_03_120");
-    MsgDisp("Honda","Eh?∋
-Does that mean I saw something I wasn't
-supposed to?");
+    MsgDisp("Honda","Eh?∋ Does that mean I saw something I
+wasn't supposed to?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -136,8 +135,8 @@ supposed to?");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040302102_03_130");
-    MsgDisp("Honda","Recently I've been getting approached
-by children, but not so much by adults.");
+    MsgDisp("Honda","Recently I've been getting approached by
+children, but not so much by adults.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

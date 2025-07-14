@@ -92,16 +92,15 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F100130000_21_030");
 MsgDisp("Michiru","Well, it went just as expected.");
-MsgDisp("主人公","Um...
-Was there something you wanted to talk
-about?");
+MsgDisp("主人公","Um... Was there something you wanted to
+talk about?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F100130000_22_050");
 MsgDisp("Hikaru","No, nothing.");
 MsgDisp("主人公","(They really just came to mess with
-｛風真＊＊｝...)");
+｛風真＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

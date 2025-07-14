@@ -11,24 +11,23 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B070100000_01_070");
-MsgDisp("Kazama","Delicious. Especially fresh
-soba, fewly-made.");
-MsgDisp("主人公","I can see you making 
-it yourself, ｛風真＊＊｝.");
+MsgDisp("Kazama","Delicious. Especially fresh soba,
+fewly-made.");
+MsgDisp("主人公","I can see you making it yourself,
+｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_080");
-MsgDisp("Kazama","Come to think of it, when I was
-younger, my Grandpa did teach
-me how to make it.");
+MsgDisp("Kazama","Come to think of it, when I was younger,
+my Grandpa did teach me how to make it.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,2);
 VoicePlay("B070100000_01_090");
-MsgDisp("Kazama","I couldn't do it well at all, 
-so in the end I made it into sobagaki.");
+MsgDisp("Kazama","I couldn't do it well at all, so in the
+end I made it into sobagaki.");
 MsgDisp("主人公","Sobagaki... that sounds delicious too!
 Ah——");
 SEPlay("EV_SE_017");

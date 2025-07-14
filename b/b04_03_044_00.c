@@ -10,8 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040304400_03_000");
-    MsgDisp("Honda","Y-Yeah. It's hard to put into words,
-but... it was definitely a new experience.");
+    MsgDisp("Honda","Y-Yeah.
+It's hard to put into words, but...
+it was definitely a new experience.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -22,8 +23,8 @@ but... it was definitely a new experience.");
     ChMouth(3,3);
     ChMotion(3,2);
     VoicePlay("B040304400_03_010");
-    MsgDisp("Honda","Were you okay? I felt like I was about to 
-be swept away.");
+    MsgDisp("Honda","Were you okay?
+I felt like I was about to be swept away.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +36,8 @@ be swept away.");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040304400_03_020");
-    MsgDisp("Honda","Hahaha, yeah. Honestly, the two of us felt
-out of place.");
+    MsgDisp("Honda","Hahaha, yeah.
+Honestly, the two of us felt out of place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

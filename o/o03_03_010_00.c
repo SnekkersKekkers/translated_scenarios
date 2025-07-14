@@ -9,10 +9,10 @@ about my partner......)");
     SEWait();
     ChOpen(3,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030301000_03_000");
-    MsgDisp("Honda","Could it be that you're still
-looking for a partner?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-Yeah, I haven't found one yet.");
+    MsgDisp("Honda","Could it be that you're still looking for
+a partner?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. Yeah, I haven't found one
+yet.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -30,11 +30,9 @@ about my partner......)");
     ChOpen(3,30,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("O030301000_03_020");
-    MsgDisp("Honda","｛主人公｝,
-What's up?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-I haven't found a partner for the
-three-legged race, yet......");
+    MsgDisp("Honda","｛主人公｝, What's up?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. I haven't found a partner
+for the three-legged race, yet......");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1,1);

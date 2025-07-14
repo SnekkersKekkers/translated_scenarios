@@ -4,15 +4,16 @@ Wait(12,0);
 ChEye(1,0);
 VoicePlay("G020110001_01_000");
 MsgDisp("Kazama","......This is the Home of Fireflies,
-right? Doesn't it kinda smell like roses?");
+right?
+Doesn't it kinda smell like roses?");
 MsgDisp("主人公","Huh......?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110001_01_010");
-MsgDisp("Kazama","Yeah, that doesn't make sense...... And
-you're not really the roses type.");
+MsgDisp("Kazama","Yeah, that doesn't make sense......
+And you're not really the roses type.");
 MsgDisp("主人公","Rude.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -25,8 +26,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110001_01_030");
-MsgDisp("Kazama","Not a fan? I liked how you smelled
-like cookies when we were kids.");
+MsgDisp("Kazama","Not a fan?
+I liked how you smelled like cookies when
+we were kids.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -53,8 +55,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110001_01_070");
-MsgDisp("Kazama","I didn't start off liking sweets. My
-memories of you made me like this.");
+MsgDisp("Kazama","I didn't start off liking sweets.
+My memories of you made me like this.");
 MsgDisp("主人公","Then I'll make you lots of cookies.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -67,9 +69,9 @@ ChMotion(1,1);
 VoicePlay("G020110001_01_090");
 MsgDisp("Kazama","......Huh? It doesn't smell like roses
 anymore.");
-MsgDisp("主人公","(I can't belive I'm the reason ｛風真＊＊｝
-likes sweets...... That's kind of
-embarrassing.");
+MsgDisp("主人公","(I can't belive I'm the reason
+｛風真＊＊｝ likes sweets......
+That's kind of embarrassing.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

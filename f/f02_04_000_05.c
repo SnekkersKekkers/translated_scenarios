@@ -8,8 +8,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Exams are coming up......");
 VoicePlay("F020400005_04_000");
 MsgDisp("Nanatsumori","Ahhh.");
-MsgDisp("主人公","Huh?
-｛七ツ森＊｝, aren't you nervous?");
+MsgDisp("主人公","Huh? ｛七ツ森＊｝, aren't you nervous?");
 ChMotion(4,1,1);
 VoicePlay("F020400005_04_010");
 MsgDisp("Nanatsumori","I'm comfortable.
@@ -18,13 +17,13 @@ MsgDisp("主人公","I see......");
 ChMotion(4,0,1);
 VoicePlay("F020400005_04_020");
 MsgDisp("Nanatsumori","I've just got to be patient now.
-I'm not trying to get high scores or 
+I'm not trying to get high scores or
 anything.");
 MsgDisp("主人公","I see......
 Do you like studying?");
 VoicePlay("F020400005_04_030");
-MsgDisp("Nanatsumori","Well, I'm aware that my academic
-abilities are of no use to the world.");
+MsgDisp("Nanatsumori","Well, I'm aware that my academic abilities
+are of no use to the world.");
 ChMotion(4,0,1);
 VoicePlay("F020400005_04_040");
 MsgDisp("Nanatsumori","So, stuff like studying......

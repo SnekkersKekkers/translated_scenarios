@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(6,254,0,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like things have 
-been going well recently!)");
+MsgDisp("主人公","(Looks like things have been going well
+recently!)");
 switch (ChPrmGet(6,6)){
     case 0:
     case 1:
@@ -14,8 +14,8 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("X120600001_06_000");
-    MsgDisp("Himuro","Wow... how pretty.
-You're skilled at raising plants.");
+    MsgDisp("Himuro","Wow... how pretty. You're skilled at
+raising plants.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

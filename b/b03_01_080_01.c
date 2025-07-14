@@ -6,8 +6,8 @@ ScrFadeIn(0);
 ChMouth(1,3);
 VoicePlay("B030108001_01_000");
 MsgDisp("Kazama","It's starting to warm up...
-This time of year makes me think
-of a lot of things.");
+This time of year makes me think of a lot
+of things.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe, I see.");
 MsgDispSksp(0);

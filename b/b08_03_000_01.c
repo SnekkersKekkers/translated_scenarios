@@ -19,7 +19,8 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("B080300001_03_010");
 MsgDisp("Honda","Oh? Isn't your phone ringing?");
-MsgDisp("主人公","Ah, it is. I wonder who it's from.");
+MsgDisp("主人公","Ah, it is.
+I wonder who it's from.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 ChEye(3,4);

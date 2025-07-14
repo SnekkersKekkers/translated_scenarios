@@ -11,8 +11,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("R060300005_03_000");
-    MsgDisp("Honda","Mhmm. It's nice to get a gift
-like this, huh.");
+    MsgDisp("Honda","Mhmm. It's nice to get a gift like this,
+huh.");
     MsgDisp("主人公","(He seems really happy
 with my gift!)");
     break ;

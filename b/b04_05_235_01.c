@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040523502_05_000");
-MsgDisp("Hiiragi","He's got a really good constitution,
-the ghost from the well.");
+MsgDisp("Hiiragi","He's got a really good constitution, the
+ghost from the well.");
 MsgSel("As expected! You have a good eye, huh?","Impressive and scary...","I can't see that well!");
 switch (MsgSelRsltGet()){
     case 0:

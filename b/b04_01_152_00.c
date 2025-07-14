@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040115200_01_010");
-    MsgDisp("Kazama","Geez, you're
-so carefree, you don't even care 
-about other people's feelings.");
+    MsgDisp("Kazama","Geez, you're so carefree, you don't even
+care about other people's feelings.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,9 +28,8 @@ about other people's feelings.");
     ChMouth(1,1);
     ChMotion(1,3);
     VoicePlay("B040115200_01_020");
-    MsgDisp("Kazama","If you understand, 
-calm down first and listen to 
-what I have to say.");
+    MsgDisp("Kazama","If you understand, calm down first and
+listen to what I have to say.");
     MsgDateResultDisp();
     break ;
     case 2:

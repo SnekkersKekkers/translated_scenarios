@@ -11,7 +11,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040612102_06_000");
 MsgDisp("Himuro","Are you interested in that mug?");
-MsgSel("I want to match with｛氷室＊＊｝.","I'm just looking.","I'm super interested.");
+MsgSel("I want to match with ｛氷室＊＊｝.","I'm just looking.","I'm super interested.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){
@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040612102_06_010");
-        MsgDisp("Himuro","If you're buying it,
-just buy your own one.");
+        MsgDisp("Himuro","If you're buying it, just buy your own
+one.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -43,17 +43,16 @@ I'll but it.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040612102_06_030");
-        MsgDisp("Himuro","Is that because you don't 
-want a present from me?");
+        MsgDisp("Himuro","Is that because you don't want a present
+from me?");
         MsgDisp("主人公","It's not like that though...");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040612102_06_040");
-        MsgDisp("Himuro","Then, could you just accept 
-it without complaint?");
-        MsgDisp("主人公","Then, I'll buy 
-｛氷室＊＊｝'s one?
+        MsgDisp("Himuro","Then, could you just accept it without
+complaint?");
+        MsgDisp("主人公","Then, I'll buy ｛氷室＊＊｝'s one?
 Let's buy each other presents.");
         ChEye(6,0);
         ChMouth(6,2);
@@ -78,8 +77,8 @@ I'll cherish it.");
         ChOpen(6,253,0,0,0,#1,#1,0,0);
         VoicePlay("B040612102_06_070");
         MsgDisp("Himuro","Yeah, do that.
-Since we went to the trouble 
-of buying presents for each other.");
+Since we went to the trouble of buying
+presents for each other.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
@@ -111,7 +110,7 @@ Then, let's go somewhere else.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040612102_06_100");
-    MsgDisp("Himuro","Then why no  buy it?
+    MsgDisp("Himuro","Then why no buy it?
 It's fate you came across it here.
 And above all else, it's perfect for you.");
     MsgDispSksp(1,0);

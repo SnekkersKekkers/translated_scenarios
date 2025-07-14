@@ -5,10 +5,9 @@ ChMouth(4,1);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408302_04_000");
-MsgDisp("Nanatsumori","Haa...
-There's no point in coming 
-here in the summer.");
-MsgSel("Isn't nature pretty?","It's fun because I'm with｛七ツ森＊｝.","Shall we eat kakigori from the stall?");
+MsgDisp("Nanatsumori","Haa... There's no point in coming here in
+the summer.");
+MsgSel("Isn't nature pretty?","It's fun because I'm with ｛七ツ森＊｝.","Shall we eat kakigori from the stall?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -18,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(4,8);
     VoicePlay("B040408302_04_010");
     MsgDisp("Nanatsumori","I don't get it.
-I think there are more
-leaves in the spring.");
+I think there are more leaves in the
+spring.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -51,8 +50,8 @@ seeing me be a hater?");
         ChEyeOpenLevel(4,0);
         VoicePlay("B040408302_04_040");
         MsgDisp("Nanatsumori","...What are you saying?");
-        MsgDisp("主人公","That when I'm with ｛七ツ森＊｝, 
-it's fun no matter where we are.");
+        MsgDisp("主人公","That when I'm with ｛七ツ森＊｝, it's
+fun no matter where we are.");
         ChEye(4,4);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040408302_04_050");
@@ -67,13 +66,12 @@ Then it's the same for me.");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040408302_04_070");
-        MsgDisp("Nanatsumori","But, when I'm here, I have that 
-feeling as much as I feel fear.");
+        MsgDisp("Nanatsumori","But, when I'm here, I have that feeling as
+much as I feel fear.");
         MsgDisp("主人公","Fear?");
         ChMotion(4,0,1);
         VoicePlay("B040408302_04_080");
-        MsgDisp("Nanatsumori","Right.
-There's lots of bugs I'm scared of.
+        MsgDisp("Nanatsumori","Right. There's lots of bugs I'm scared of.
 And, it's super hot.");
         MsgDisp("主人公","Ah.,
 Sorry, I didn't notice.");
@@ -82,22 +80,22 @@ Sorry, I didn't notice.");
         ChMotion(4,1,1);
         VoicePlay("B040408302_04_090");
         MsgDisp("Nanatsumori","No, I'm also sorry.
-I got irritated on my own, 
-and took it out on you.");
+I got irritated on my own, and took it out
+on you.");
         MsgDisp("主人公","No, it's alright.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040408302_04_100");
-        MsgDisp("Nanatsumori","You and I both have fun when
-we're together, right?");
+        MsgDisp("Nanatsumori","You and I both have fun when we're
+together, right?");
         MsgDisp("主人公","Yeah.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,3,1);
         VoicePlay("B040408302_04_110");
-        MsgDisp("Nanatsumori","Then, I'll pull myself together, 
-and let's resume our date.");
+        MsgDisp("Nanatsumori","Then, I'll pull myself together, and let's
+resume our date.");
         MsgDisp("主人公","Yeah!");
         break ;
         default :
@@ -111,9 +109,8 @@ and let's resume our date.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040408302_04_120");
-    MsgDisp("Nanatsumori","Agreed.
-Ah, but I won't treat you
-to kakigori, okay?");
+    MsgDisp("Nanatsumori","Agreed. Ah, but I won't treat you to
+kakigori, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

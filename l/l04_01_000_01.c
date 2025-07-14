@@ -14,11 +14,10 @@ No, I didn't.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("L040100001_01_010");
-    MsgDisp("Kazama","Well, I guess you can buy these
-anywhere. I'll accept your feelings
-gratefully.");
-    MsgDisp("主人公","(Hm, maybe I should've
-given him a better one?)");
+    MsgDisp("Kazama","Well, I guess you can buy these anywhere.
+I'll accept your feelings gratefully.");
+    MsgDisp("主人公","(Hm, maybe I should've given him a better
+one?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -43,8 +42,7 @@ Just, everyone is giving me these.");
     ChMouth(1,2);
     ChMotion(1,1);
     VoicePlay("L040100001_01_040");
-    MsgDisp("Kazama","Yeah.
-Simon's customers, and grandmothers
+    MsgDisp("Kazama","Yeah. Simon's customers, and grandmothers
 out for shopping at the mall.");
     ChEye(1,4);
     ChMouth(1,2);
@@ -55,9 +53,8 @@ out for shopping at the mall.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hm......
-Should I have given him
-a better chocolate?)");
+    MsgDisp("主人公","(Hm...... Should I have given him a better
+chocolate?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -68,9 +65,8 @@ a better chocolate?)");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("L040100001_01_060");
-    MsgDisp("Kazama","Uh......
-you're okay with these expressing your
-feelings, right?");
+    MsgDisp("Kazama","Uh...... you're okay with these expressing
+your feelings, right?");
     MsgDisp("主人公","Um...... Yes.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,0);
@@ -85,15 +81,14 @@ Then, I'll cherish these.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("L040100001_01_080");
-    MsgDisp("Kazama","It's not about how the chocolate
-looks.
+    MsgDisp("Kazama","It's not about how the chocolate looks.
 Your feelings are what matters.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Maybe I should've given him
-a better chocolate......)");
+    MsgDisp("主人公","(Maybe I should've given him a better
+chocolate......)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

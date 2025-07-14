@@ -22,8 +22,9 @@ I wonder how they practice.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040104200_01_010");
-    MsgDisp("Kazama","Guess so. It felt like things we had
-probably seen before.");
+    MsgDisp("Kazama","Guess so.
+It felt like things we had probably seen
+before.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +36,9 @@ probably seen before.");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040104200_01_020");
-    MsgDisp("Kazama","What's up? It's rare for you to give such
-a harsh criticism.");
+    MsgDisp("Kazama","What's up?
+It's rare for you to give such a harsh
+criticism.");
     MsgDateResultDisp();
     break ;
     default :

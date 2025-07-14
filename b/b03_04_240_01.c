@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B030424001_04_010");
-    MsgDisp("Nanatsumori","It would just be a bunch
-of grassland otherwise.
+    MsgDisp("Nanatsumori","It would just be a bunch of grassland
+otherwise.
 Well, let's go...");
     MsgDispSksp(0);
     break ;

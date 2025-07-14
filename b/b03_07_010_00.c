@@ -17,7 +17,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B030701000_07_010");
-MsgDisp("Mikage","Ooh, look, that store has a
-reward program.");
+MsgDisp("Mikage","Ooh, look, that store has a reward
+program.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

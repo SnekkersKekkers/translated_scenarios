@@ -24,8 +24,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330B20701_01_000");
 MsgDisp("Kazama","I think bears are braver.");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","Hehe!
-Is there an enclosure you liked,
+MsgDisp("主人公","Hehe! Is there an enclosure you liked,
 ｛本多＊＊｝?");
 ChMouth(1,2);
 ChEye(3,4);
@@ -35,16 +34,16 @@ VoicePlay("B330B20701_03_000");
 MsgDisp("Honda","I can't decide on just one.
 I loved them all.");
 MsgDisp("主人公","I see.
-Is there not an animal
-you particularly like?");
+Is there not an animal you particularly
+like?");
 ChMouth(1,0);
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B20701_03_010");
-MsgDisp("Honda","I don't know about a favorite, 
-but there's something about
-cockatiels that I'm drawn to.");
+MsgDisp("Honda","I don't know about a favorite, but there's
+something about cockatiels that I'm drawn
+to.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -72,16 +71,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20701_03_030");
-MsgDisp("Honda","Males sing a lot, and even talk.
-They like their flock a lot, 
-and are always in groups. I have a
-lot more fun with everyone too.");
+MsgDisp("Honda","Males sing a lot, and even talk. They like
+their flock a lot, and are always in
+groups. I have a lot more fun with
+everyone too.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B20701_03_040");
-MsgDisp("Honda","Even the way their crest jumps around; 
-I relate even to their appreances! ");
+MsgDisp("Honda","Even the way their crest jumps around; I
+relate even to their appreances!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -91,10 +90,9 @@ MsgDisp("Kazama","So you're aware that
 you talk a lot.");
 ChMotion(4,0,1);
 VoicePlay("B330B20701_04_020");
-MsgDisp("Nanatsumori","Yeah, this is the most 
-surprising part of today.");
-MsgDisp("主人公","(Hehe!
-I think it's interesting to get to
+MsgDisp("Nanatsumori","Yeah, this is the most surprising part of
+today.");
+MsgDisp("主人公","(Hehe! I think it's interesting to get to
 know everyone's personalities more!)");
 BGMStop();
 MsgClose();

@@ -7,8 +7,7 @@ ScrFadeIn(0);
 VoicePlay("T020801000_08_000");
 MsgDisp("Shirahane","The door is open......
 What is th——");
-MsgDisp("主人公","Eh, ｛大地＊＊｝∋
-Why are you here......");
+MsgDisp("主人公","Eh, ｛大地＊＊｝∋ Why are you here......");
 ChEye(8,4);
 ChMouth(8,5);
 ChMotion(8,4,1);
@@ -44,8 +43,8 @@ MsgClear();
 BGOpen("ev009",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's a picture of a mermaid and a young
-man. It's a bit sad, but they look
-happy......)");
+man.
+It's a bit sad, but they look happy......)");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -71,7 +70,8 @@ VoicePlay("T020801000_08_030");
 MsgDisp("Shirahane","Haa......sorry for the wait.");
 ChEye(8,4);
 ChEyeOpenLevel(8,10);
-MsgDisp("主人公","No, it's okay. Why are we here?");
+MsgDisp("主人公","No, it's okay.
+Why are we here?");
 ChEye(8,4);
 ChMouth(8,0);
 VoicePlay("T020801000_08_040");
@@ -144,8 +144,8 @@ VoicePlay("T020801000_08_140");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,2,1);
-MsgDisp("Shirahane","But, being a half-assed man,
-I never confessed to you.");
+MsgDisp("Shirahane","But, being a half-assed man, I never
+confessed to you.");
 VoicePlay("T020801000_08_150");
 ChEye(8,4);
 ChMouth(8,4);

@@ -19,7 +19,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P840200000_02_020");
 MsgDisp("Sassa","Now I know how hard the student council
-works. Thank you for your service.");
+works.
+Thank you for your service.");
 MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,0);
 ChMouth(2,3);

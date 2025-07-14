@@ -16,11 +16,11 @@ to be placed in front of each classroom.)");
     ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200000_02_000");
-    MsgDisp("Sassa","｛主人公｝.
-How come you're sweating that much?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-I was carrying some buckets with water 
-in it for extinguishing fires.");
+    MsgDisp("Sassa","｛主人公｝. How come you're sweating
+that much?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. I was carrying some
+buckets with water in it for extinguishing
+fires.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -34,8 +34,7 @@ charge of this floor.");
     VoicePlay("P830200000_02_020");
     MsgDisp("Sassa","If it's that much physical work, tell me.
 Hey, which classroom too next?");
-    MsgDisp("主人公","Ah...
-｛颯砂＊＊｝, thank you!");
+    MsgDisp("主人公","Ah... ｛颯砂＊＊｝, thank you!");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);
@@ -53,10 +52,8 @@ to be placed in front of each classroom.)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200000_02_030");
-    MsgDisp("Sassa","｛主人公｝.
-I was waiting for you.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-But...");
+    MsgDisp("Sassa","｛主人公｝. I was waiting for you.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. But...");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,3);
@@ -64,8 +61,8 @@ But...");
     MsgDisp("Sassa","Even though it's the student council
 committee, you still have to do this kind
 of manual labour huh...");
-    MsgDisp("主人公","Yeah, it's overall management 
-so it can be anything. ");
+    MsgDisp("主人公","Yeah, it's overall management so it can be
+anything.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,3);

@@ -25,8 +25,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110303_01_030");
-MsgDisp("Kazama","What's this? If you were a firefly-wait,
-no. The adults don't eat food.");
+MsgDisp("Kazama","What's this?
+If you were a firefly-wait, no.
+The adults don't eat food.");
 MsgDisp("主人公","Rude, I'm not that into eating.");
 ChEye(1,3);
 ChMouth(1,3);
@@ -61,7 +62,8 @@ ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020110303_01_080");
-MsgDisp("Kazama","What's this? Hold still for a sec.");
+MsgDisp("Kazama","What's this?
+Hold still for a sec.");
 SEPlay("EV_SE_FOOT_039");
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -111,10 +113,10 @@ ChEye(1,1);
 ChMouth(1,1);
 ChMotion(1,1);
 VoicePlay("G020110303_01_140");
-MsgDisp("Kazama","You're so persistent! Don't ever come near
-her again!");
-MsgDisp("主人公","(｛風真＊＊｝, it was just a firefly
-this time.)");
+MsgDisp("Kazama","You're so persistent!
+Don't ever come near her again!");
+MsgDisp("主人公","(｛風真＊＊｝, it was just a firefly this
+time.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

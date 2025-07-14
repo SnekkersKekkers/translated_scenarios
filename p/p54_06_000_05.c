@@ -45,9 +45,9 @@ MsgDisp("Himuro","It doesn't change the fact that you gave
 it your all for three years, so why not
 hold your head high?");
 MsgDisp("主人公","...Thank you.");
-MsgDisp("主人公","(I might have failed in the end,
-But I made so many memories these 
-last three years in the wind music club.)");
+MsgDisp("主人公","(I might have failed in the end, But I
+made so many memories these last three
+years in the wind music club.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

@@ -31,10 +31,9 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
-MsgDisp("Himuro","
-If those two found out we were doing
-this kind of stuff, I seriously wonder
-how they would react.");
+MsgDisp("Himuro","If those two found out we were doing this
+kind of stuff, I seriously wonder how they
+would react.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020621000_06_250");
 ChEye(6,0);

@@ -25,12 +25,11 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P740500003_05_020");
-MsgDisp("Hiiragi","Isn't the rest up to you to decide
-how to make the most out of this failure?");
-MsgDisp("主人公","(That's right.
-I have to do some self-reflection...
-I need to participate in 
-club activities more properly.)");
+MsgDisp("Hiiragi","Isn't the rest up to you to decide how to
+make the most out of this failure?");
+MsgDisp("主人公","(That's right. I have to do some
+self-reflection... I need to participate
+in club activities more properly.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

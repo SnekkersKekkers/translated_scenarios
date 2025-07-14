@@ -18,8 +18,9 @@ Good job everyone.");
 VoicePlay("T040220000_01_000");
 MsgDisp("Kazama","You're laughing carefree aren't you.");
 VoicePlay("T040220000_02_010");
-MsgDisp("Sassa","It's pretty tough. I learned that surfing
-can help strengthen your core.");
+MsgDisp("Sassa","It's pretty tough.
+I learned that surfing can help strengthen
+your core.");
 VoicePlay("T040220000_06_000");
 MsgDisp("Himuro","As expected of Nozomu-senpai.
 I think you'll be out in the water soon.");
@@ -36,8 +37,8 @@ BGMStop(5);
 ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040220000_02_030");
-MsgDisp("Sassa","Next time, I'll invite Ryota and Inori
-and we'll all go surfing together.
+MsgDisp("Sassa","Next time, I'll invite Ryota and Inori and
+we'll all go surfing together.
 How about we try other sports together?");
 MsgClose();
 ScrFadeOut(0,0,300);

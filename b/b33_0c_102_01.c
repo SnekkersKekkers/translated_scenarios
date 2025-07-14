@@ -37,21 +37,21 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330C10201_06_000");
-MsgDisp("Himuro","Heeh...
-This feels like a lesson by Kojiro-sensei.");
+MsgDisp("Himuro","Heeh... This feels like a lesson by
+Kojiro-sensei.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10201_05_020");
-MsgDisp("Hiiragi","This definitely feels 
-like a class field trip.");
+MsgDisp("Hiiragi","This definitely feels like a class field
+trip.");
 MsgDisp("主人公","Hehe. I guess so.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10201_07_020");
-MsgDisp("Mikage","Well, it is typical to have
-a class field trip here.");
+MsgDisp("Mikage","Well, it is typical to have a class field
+trip here.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -71,8 +71,8 @@ VoicePlay("B330C10201_06_020");
 MsgDisp("Himuro","I've never taken Kojiro-sensei's class.");
 ChEye(5,4);
 ChMouth(5,4);
-MsgDisp("主人公","Yeah, this feels like we're
-in the same class as ｛氷室＊＊｝ now.");
+MsgDisp("主人公","Yeah, this feels like we're in the same
+class as ｛氷室＊＊｝ now.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -92,9 +92,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10201_07_050");
-MsgDisp("Mikage","Did you invite Inori here so
-he could get a taste of 
-what that would feel like?");
+MsgDisp("Mikage","Did you invite Inori here so he could get
+a taste of what that would feel like?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -111,8 +110,8 @@ ChCheek(6,10);
 VoicePlay("B330C10201_06_040");
 MsgDisp("Himuro","...Thank you very much.
 I'm kind of happy.");
-MsgDisp("主人公","(｛氷室＊＊｝
-wanted to take classes together...
+MsgDisp("主人公","(｛氷室＊＊｝ wanted to take classes
+together...
 ｛柊＊＊＊｝ is kind isn't he?)");
 BGMStop();
 MsgClose();

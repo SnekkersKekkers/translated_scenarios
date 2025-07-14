@@ -25,14 +25,15 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110400_01_030");
-MsgDisp("Kazama","I like natural colors. You don't need
-flashy colors or anything like that");
+MsgDisp("Kazama","I like natural colors.
+You don't need flashy colors or anything
+like that");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110400_01_040");
-MsgDisp("Kazama","Maybe even white clothes. 
-Just your natural color is enough for me. 
+MsgDisp("Kazama","Maybe even white clothes.
+Just your natural color is enough for me.
 Yeah, transparent and colorless......");
 MsgDisp("主人公","Transparent clothes would be impossible,
 you know......?");
@@ -41,23 +42,23 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChCheek(1,7);
 VoicePlay("G020110400_01_050");
-MsgDisp("Kazama","Eh! I-Idiot!
-No, I mean not that it's see-through,
-but that you don't need to dress up!");
+MsgDisp("Kazama","Eh! I-Idiot! No, I mean not that it's
+see-through, but that you don't need to
+dress up!");
 MsgDisp("主人公","So, light clothing?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("G020110400_01_060");
-MsgDisp("Kazama","Hm?　No, wait.
-I don't mean light clothing or exposure.");
+MsgDisp("Kazama","Hm? No, wait. I don't mean light clothing
+or exposure.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110400_01_070");
-MsgDisp("Kazama","Let me rephrase. 
-I mean, colors and shapes that don't 
+MsgDisp("Kazama","Let me rephrase.
+I mean, colors and shapes that don't
 distract from who you are naturally.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -72,8 +73,8 @@ ChMotion(1,2);
 VoicePlay("G020110400_01_090");
 MsgDisp("Kazama","......Could it be, my true
 feelings......∋");
-MsgDisp("主人公","(｛風真＊＊｝ fashion preferences are quite
-unique......)");
+MsgDisp("主人公","(｛風真＊＊｝ fashion preferences are
+quite unique......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

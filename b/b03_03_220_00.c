@@ -5,8 +5,8 @@ ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B030322000_03_000");
 MsgDisp("Honda","It's easy to defend, and difficult to
-attack. Habataki Castle is a pretty famous
-castle.");
+attack.
+Habataki Castle is a pretty famous castle.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

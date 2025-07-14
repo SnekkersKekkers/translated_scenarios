@@ -20,9 +20,8 @@ I'll go home alone.)");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("F010200004_02_010");
-    MsgDisp("Sassa","Sorry. You invited me,
-but I can't go with you today.
-Maybe another time.");
+    MsgDisp("Sassa","Sorry. You invited me, but I can't go with
+you today. Maybe another time.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

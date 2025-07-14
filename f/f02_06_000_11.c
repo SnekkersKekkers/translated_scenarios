@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛氷室＊＊｝, how are you
-spending your winter break?");
+MsgDisp("主人公","｛氷室＊＊｝, how are you spending your
+winter break?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -21,7 +21,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600011_06_010");
 MsgDisp("Himuro","Yes, socializing with relatives truly is
-awful. But I can't just brush them off.");
+awful.
+But I can't just brush them off.");
 MsgDisp("主人公","Haha, how distinguished of you.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -9,5 +9,5 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140101161_01_010");
-MsgDisp("Kazama","Or maybe we should try dividing one
-into two pieces?");
+MsgDisp("Kazama","Or maybe we should try dividing one into
+two pieces?");

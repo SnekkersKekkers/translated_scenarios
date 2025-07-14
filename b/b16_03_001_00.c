@@ -12,15 +12,16 @@ switch (MsgSelRsltGet()){
     NSSMouth(3,3);
     NSSEyeOpenLevel(3,0);
     VoicePlay("B160300100_03_010");
-    MsgDisp("Honda","Haha then go ahead! Touch me as much as
-you like!");
+    MsgDisp("Honda","Haha then go ahead!
+Touch me as much as you like!");
     break ;
     case 1:
     NSSEye(3,0);
     NSSMouth(3,4);
     VoicePlay("B160300100_03_020");
-    MsgDisp("Honda","I see... but doing it unconsciously with
-other people is kinda of...");
+    MsgDisp("Honda","I see...
+but doing it unconsciously with other
+people is kinda of...");
     break ;
     default :
     DbgAssert(0);

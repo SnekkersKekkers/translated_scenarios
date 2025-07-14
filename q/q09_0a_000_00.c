@@ -4,7 +4,7 @@ ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("Q090A00000_01_000");
-MsgDisp("Kazama","｛主人公｝, good morning. ");
+MsgDisp("Kazama","｛主人公｝, good morning.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -16,8 +16,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q090A00000_01_010");
-MsgDisp("Kazama","It's business as usual for me, but Sassa said 
-he went running this morning.");
+MsgDisp("Kazama","It's business as usual for me, but Sassa
+said he went running this morning.");
 MsgDisp("主人公","Eeh∋");
 ChEye(2,0);
 ChMouth(2,4);
@@ -32,7 +32,8 @@ ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("Q090A00000_02_020");
 MsgDisp("Sassa","I was fine.
-I went jogging around the hotel and Mikage-sensei ran alongside me.");
+I went jogging around the hotel and
+Mikage-sensei ran alongside me.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -62,8 +63,7 @@ ChMotion(1,0,1);
 VoicePlay("Q090A00000_01_040");
 MsgDisp("Kazama","Who knows?
 Anyways, let's go.");
-MsgDisp("主人公","Yeah!
-Oh, of course. We need to buy a 
+MsgDisp("主人公","Yeah! Oh, of course. We need to buy a
 souvenir for ｛氷室＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);

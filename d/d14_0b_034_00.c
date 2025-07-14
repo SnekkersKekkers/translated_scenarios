@@ -13,9 +13,8 @@ ChCheek(4,0);
 MsgDisp("主人公","Mmm, lunch was delicious!");
 ChMouth(1,2);
 VoicePlay("D140B03400_01_000");
-MsgDisp("Kazama","Come to think of it, 
-you had home economics today,
-didn't you?");
+MsgDisp("Kazama","Come to think of it, you had home
+economics today, didn't you?");
 MsgDisp("主人公","Yeah.");
 ChMouth(1,0);
 VoicePlay("D140B03400_01_010");
@@ -33,8 +32,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B03400_01_020");
-MsgDisp("Kazama","Even despite that, 
-you're eating so heartily...");
+MsgDisp("Kazama","Even despite that, you're eating so
+heartily...");
 MsgDisp("主人公","That's a separate matter.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -65,8 +64,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D140B03400_01_030");
 MsgDisp("Kazama","Did you have enough ingredients?");
-MsgDisp("主人公","I calculated the portions for everyone
-and brough a little extra.");
+MsgDisp("主人公","I calculated the portions for everyone and
+brough a little extra.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -84,7 +83,7 @@ ChMotion(4,1,1);
 VoicePlay("D140B03400_04_030");
 MsgDisp("Nanatsumori","I'm ready to eat now.");
 MsgDisp("主人公","(Everyone's eyes are serious...
-I was thinking after lunch but. 
+I was thinking after lunch but.
 maybe it's better to bring it out now?)");
 BGMStop();
 MsgClose();

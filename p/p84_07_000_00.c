@@ -12,8 +12,8 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840700000_07_000");
 MsgDisp("Mikage","Oh, 
 that seems like a content expression.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
-I heard that the guests praised me...");
+MsgDisp("主人公","Ah, ｛御影＊＊｝. I heard that the
+guests praised me...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -24,9 +24,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P840700000_07_020");
-MsgDisp("Mikage","On their way home, 
-the guests stopped by the staff room 
-to praise you.");
+MsgDisp("Mikage","On their way home, the guests stopped by
+the staff room to praise you.");
 MsgDisp("主人公","So that's how it is.
 I'm happy.");
 ChEye(7,0);
@@ -39,8 +38,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P840700000_07_040");
-MsgDisp("Mikage","I was told it was a result 
-of your homeroom teacher's teachings.
+MsgDisp("Mikage","I was told it was a result of your
+homeroom teacher's teachings.
 Even though I didn't do anything.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -49,8 +48,8 @@ VoicePlay("P840700000_07_050");
 MsgDisp("Mikage","Thanks to you I was praised.
 Thank you.");
 MsgDisp("主人公","(Yay, everyone praised me!
-It seems it was worth giving 
-my best in the preparations.)");
+It seems it was worth giving my best in
+the preparations.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

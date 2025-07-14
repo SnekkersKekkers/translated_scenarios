@@ -19,8 +19,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("P240501000_05_010");
-MsgDisp("Hiiragi","Just now, 
-I viewed it from the audience.
+MsgDisp("Hiiragi","Just now, I viewed it from the audience.
 It looks splendid.");
 MsgDisp("主人公","Hehe, I'm glad.
 All thats left to do is give our support.");
@@ -41,24 +40,23 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ScrFadeIn(0);
 VoicePlay("P240501000_40_000");
-MsgDisp("Castle Lord","Tonight is the last time
-I will meet you like this.");
+MsgDisp("Castle Lord","Tonight is the last time I will meet you
+like this.");
 VoicePlay("P240501000_47_000");
 MsgDisp("Town girl","...Why is that?");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240501000_05_030");
 MsgDisp("Hiiragi","It's perfect.");
-MsgDisp("主人公","That's because of ｛柊＊＊＊｝'s 
-acting direction.");
+MsgDisp("主人公","That's because of ｛柊＊＊＊｝'s acting
+direction.");
 ChEye(5,0);
 VoicePlay("P240501000_05_040");
-MsgDisp("Hiiragi","No.
-My advice was not needed.
-Look, this is a vital scene.");
+MsgDisp("Hiiragi","No. My advice was not needed. Look, this
+is a vital scene.");
 VoicePlay("P240501000_40_020");
-MsgDisp("Castle Lord","There are many in the castle who 
-do not think favourably of me.");
+MsgDisp("Castle Lord","There are many in the castle who do not
+think favourably of me.");
 VoicePlay("P240501000_47_010");
 MsgDisp("Town girl","But you...
 Aren't you the castle lord?");
@@ -71,14 +69,14 @@ will go with that person. That is the era
 we live in.");
 ChEyeOpenLevel(5,0);
 VoicePlay("P240501000_40_050");
-MsgDisp("Castle Lord","However, 
-My governance is the flames of my ideals.
+MsgDisp("Castle Lord","However, My governance is the flames of my
+ideals.
 I cannot let it be extinguished.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("P240501000_05_050");
 MsgDisp("Hiiragi","That line just now...
-It sounds completely different 
-compared to when I wrote it.");
+It sounds completely different compared to
+when I wrote it.");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -120,10 +118,12 @@ ChMouth(5,3);
 ChMotion(5,3);
 Wait(22,0);
 VoicePlay("P240501000_05_090");
-MsgDisp("Hiiragi","Yes, it was a great success. Producing a
-play like this with everyone is fun.");
+MsgDisp("Hiiragi","Yes, it was a great success.
+Producing a play like this with everyone
+is fun.");
 MsgDisp("主人公","(Seems like ｛柊＊＊＊｝ also enjoyed our
-school play. That's a relief...)");
+school play.
+That's a relief...)");
 MsgClose();
 MsgClose();
 ScrFadeOut(0,0);

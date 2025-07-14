@@ -13,10 +13,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06102_06_000");
-MsgDisp("Himuro","If Yanosuke-senpai is saying that, 
-he must be very busy.");
-MsgDisp("主人公","Right.
-He's our class homeroom teacher, 
+MsgDisp("Himuro","If Yanosuke-senpai is saying that, he must
+be very busy.");
+MsgDisp("主人公","Right. He's our class homeroom teacher,
 And the advisor for both the gardening
 club and track and field club.");
 ChEye(5,2);
@@ -30,8 +29,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06102_06_010");
 MsgDisp("Himuro","Yanosuke-senpai also has three duties.
-Theatre troupe, student council 
-and his studies.");
+Theatre troupe, student council and his
+studies.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -49,16 +48,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C06102_06_030");
-MsgDisp("Himuro","Recently you've been spending more
-time with kojiro-sensei, haven't you?");
+MsgDisp("Himuro","Recently you've been spending more time
+with kojiro-sensei, haven't you?");
 MsgDisp("主人公","Umm...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C06102_05_030");
-MsgDisp("Hiiragi","Please be at ease.
-We're always with you, so of
-course we noticed. Outside of that, 
+MsgDisp("Hiiragi","Please be at ease. We're always with you,
+so of course we noticed. Outside of that,
 I don't think anyone else will.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -73,8 +71,8 @@ VoicePlay("D140C06102_05_040");
 MsgDisp("Hiiragi","We are your friends after all.");
 MsgDisp("主人公","Hehe.
 Yeah, thank you.");
-MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are 
-worried about me and ｛御影＊＊｝.)");
+MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are worried
+about me and ｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

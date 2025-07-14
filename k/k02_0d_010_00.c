@@ -10,9 +10,8 @@ SEPlay("EV_SE_DOOR_022");
 Wait(20,1);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","......Oh?
-｛みちる＊｝, ｛ひかる＊｝!
-What is it?");
+MsgDisp("主人公","......Oh? ｛みちる＊｝,
+｛ひかる＊｝! What is it?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -23,9 +22,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("K020D01000_22_000");
-MsgDisp("Hikaru","Right, right!
-It's on New Year's Day, so we'll never
-forget. Happy birthday, Mari♪");
+MsgDisp("Hikaru","Right, right! It's on New Year's Day, so
+we'll never forget. Happy birthday, Mari♪");
 MsgDisp("主人公","Thank you!");
 ChEye(22,3);
 ChMouth(22,3);
@@ -33,9 +31,8 @@ ChMotion(22,4,1);
 SEPlay("EV_SE_665");
 SEWait();
 VoicePlay("K020D01000_22_010");
-MsgDisp("Hikaru","Ehehe▼
-Here's the present we chose for you.
-Take your time and open it later♪");
+MsgDisp("Hikaru","Ehehe▼ Here's the present we chose for
+you. Take your time and open it later♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

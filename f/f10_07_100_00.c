@@ -2,8 +2,8 @@ ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I have biology with ｛御影＊＊｝ next.
-I wonder if there's something 
-I can help with...)");
+I wonder if there's something I can help
+with...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -22,8 +22,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("F100710000_07_010");
 MsgDisp("Mikage","｛主人公｝, what's up.");
-MsgDisp("主人公","Is there anything I can do
-to help you prepare for biology next?");
+MsgDisp("主人公","Is there anything I can do to help you
+prepare for biology next?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -39,8 +39,8 @@ VoicePlay("F100710000_07_030");
 MsgDisp("Mikage","Oh, wait, wait.
 You came all this way already.
 I'll serve you some tea.");
-MsgDisp("主人公","Hehe. This is kind of like ｛御影＊＊｝'s
-house.'");
+MsgDisp("主人公","Hehe. This is kind of like ｛御影＊＊｝
+'s house.'");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -63,12 +63,12 @@ ChOpen(7,37,1,0,0,#1,#1,0,0);
 VoicePlay("F100710000_07_050");
 MsgDisp("Mikage","I don't mind.
 Well, let's go.");
-MsgDisp("主人公","Today we're in the science room,
-and not the classroom though...");
+MsgDisp("主人公","Today we're in the science room, and not
+the classroom though...");
 VoicePlay("F100710000_07_060");
 MsgDisp("Mikage","That's right.");
-MsgDisp("主人公","If you show up dressed like that, 
-you'll get scolded by Himuro-sensei?");
+MsgDisp("主人公","If you show up dressed like that, you'll
+get scolded by Himuro-sensei?");
 ChEye(7,5);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -84,9 +84,8 @@ MsgDisp("Mikage","Sorry, so ahead.
 I'll go after I change into my suit.");
 MsgDisp("主人公","Hehe, yes.");
 SEStop("EV_SE_SCHOOL_002",1);
-MsgDisp("主人公","(I couldn't help out, but
-I'm glad I came to see how he was doing.
-It would be tough if he got scolded
-by Himuro-sensei again.)");
+MsgDisp("主人公","(I couldn't help out, but I'm glad I came
+to see how he was doing. It would be tough
+if he got scolded by Himuro-sensei again.)");
 MsgClose();
 ScrFadeOut(0,0);

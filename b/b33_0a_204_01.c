@@ -14,12 +14,11 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20401_02_000");
-MsgDisp("Sassa","The name of \"Firefly Habitat\"
-was decided by the public right?");
-MsgDisp("主人公","Yeah.
-Contributions were taken in by the 
-park office and Habcha
-editorial department.");
+MsgDisp("Sassa","The name of \"Firefly Habitat\" was decided
+by the public right?");
+MsgDisp("主人公","Yeah. Contributions were taken in by the
+park office and Habcha editorial
+department.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -31,8 +30,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A20401_02_010");
 MsgDisp("Sassa","It's nice and easy to understand.
-Then, what sort of name
-would you give it Inori?");
+Then, what sort of name would you give it
+Inori?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -96,8 +95,7 @@ ChMouth(6,3);
 ChMotion(6,5);
 ChCheek(6,0);
 VoicePlay("B330A20401_06_040");
-MsgDisp("Himuro","...Is that the one
-where you drop an axe? 
+MsgDisp("Himuro","...Is that the one where you drop an axe?
 Mercury and the Woodman?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -105,8 +103,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20401_01_040");
 MsgDisp("Kazama","Shut up.");
-MsgDisp("主人公","Hehe, I think both are good.
-｛颯砂＊＊｝?");
+MsgDisp("主人公","Hehe, I think both are good. ｛颯砂＊＊｝?");
 ChEye(1,3);
 ChMotion(1,3);
 ChCheek(1,0);
@@ -130,13 +127,14 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20401_01_050");
-MsgDisp("Kazama","...Geez, you got caught up 
-in the heat of the moment.");
+MsgDisp("Kazama","...Geez, you got caught up in the heat of
+the moment.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20401_06_050");
-MsgDisp("Himuro","I see... enthusiasm is important.
+MsgDisp("Himuro","I see...
+enthusiasm is important.
 I've learned something.");
 ChEye(1,0);
 ChMouth(1,0);

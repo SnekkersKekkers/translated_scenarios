@@ -25,9 +25,9 @@ Let's get along well again this year.");
     case 5:
     ChOpen(5,255,4,0,4,#1,#1,0,0);
     VoicePlay("S060500000_05_020");
-    MsgDisp("Hiiragi","Happy New Year! Did I keep you 
-waiting long?");
-    MsgDisp("主人公","No, it's fine. 
+    MsgDisp("Hiiragi","Happy New Year!
+Did I keep you waiting long?");
+    MsgDisp("主人公","No, it's fine.
 Happy New Year, ｛柊＊＊＊｝.");
     break ;
     default :

@@ -9,14 +9,15 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200802_02_000");
 MsgDisp("Sassa","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Are you training on your lunch break too?");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Are you training on your
+lunch break too?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G110200802_02_010");
-MsgDisp("Sassa","Yeah, with you. When the weather's nice I
-feel like moving about.");
+MsgDisp("Sassa","Yeah, with you.
+When the weather's nice I feel like moving
+about.");
 MsgDisp("主人公","Hehe, maybe.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -45,7 +46,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200802_02_040");
-MsgDisp("Sassa","Ah, yeah. Right, right.");
+MsgDisp("Sassa","Ah, yeah.
+Right, right.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -64,7 +66,8 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200802_02_070");
 MsgDisp("Sassa","You looked like you were having so much
-fun milking it. It was troubling......");
+fun milking it.
+It was troubling......");
 SEStop("EV_SE_FOOT_037",1.5);
 MsgClose();
 ScrFadeOut(0);
@@ -93,8 +96,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G110200802_02_100");
-MsgDisp("Sassa","Oh, sorry. I'm such an idiot. I'll try my
-best to forget about it......");
+MsgDisp("Sassa","Oh, sorry.
+I'm such an idiot.
+I'll try my best to forget about it......");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_626");

@@ -8,8 +8,8 @@ ChMouth(1,2);
 VoicePlay("T020120000_01_200");
 MsgDisp("Kazama","Huh, really......?");
 ChEye(1,3);
-MsgDisp("主人公","Yes, I also like ｛風真＊＊｝. Thank you
-for always thinking of me.");
+MsgDisp("主人公","Yes, I also like ｛風真＊＊｝.
+Thank you for always thinking of me.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -18,22 +18,24 @@ ChMotion(1,0);
 ChCheek(1,6);
 VoicePlay("T020120000_01_210");
 MsgDisp("Kazama","I have to thank those guys too.");
-MsgDisp("主人公","Hehe, yeah. Thank the first-grade 
-elementary school student ｛風真＊＊｝.");
+MsgDisp("主人公","Hehe, yeah.
+Thank the first-grade elementary school
+student ｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020120000_01_220");
-MsgDisp("Kazama","That's right. It's thanks to everyone's
-help that my wish came true.");
+MsgDisp("Kazama","That's right.
+It's thanks to everyone's help that my
+wish came true.");
 MsgDisp("主人公","The pinwheel wish......");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("T020120000_01_240");
-MsgDisp("Kazama","May we always be happy and healthy
-and may we be able to get married. ");
+MsgDisp("Kazama","May we always be happy and healthy and may
+we be able to get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020120000_01_250");
@@ -55,14 +57,13 @@ MsgDisp("Kazama","......Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020120000_01_280");
-MsgDisp("Kazama","I found and bought it when I
-was in England.");
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_290");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝......
-Thank you.");
+MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
@@ -80,8 +81,7 @@ StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020120000_01_320");
-MsgDisp("Kazama","｛主人公｝,
-Look this way.");
+MsgDisp("Kazama","｛主人公｝, Look this way.");
 MsgDisp("主人公","Eh......okay.");
 VoicePlay("T020120000_01_330");
 MsgDisp("Kazama","Before those guys come......");
@@ -109,7 +109,8 @@ StlEyeOpenLevel(1,0,1);
 Wait(6,0);
 StlEyeOpenLevel(1,#1);
 VoicePlay("T020120000_01_360");
-MsgDisp("Kazama","Then, come on! My bride.");
+MsgDisp("Kazama","Then, come on!
+My bride.");
 MsgClose();
 ScrFadeOut(0,1,120);
 StlClose();

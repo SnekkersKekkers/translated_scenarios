@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040501101_05_020");
-    MsgDisp("Hiiragi","I don't think you can opt 
-to take them separately?");
+    MsgDisp("Hiiragi","I don't think you can opt to take them
+separately?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,8 +37,8 @@ to take them separately?");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040501101_05_030");
-    MsgDisp("Hiiragi","Are you referring both to 
-the height and the price?
+    MsgDisp("Hiiragi","Are you referring both to the height and
+the price?
 Hahaha, you're a funny person.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

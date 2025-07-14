@@ -44,14 +44,15 @@ What was that about?)");
     break ;
     case 5:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Oh? It's a call from　｛颯砂＊＊｝ )");
+    MsgDisp("主人公","(Oh? It's a call from ｛颯砂＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
     MsgDisp("主人公","Yes, hello.");
     VoicePlay("J040200001_02_040");
-    MsgDisp("Sassa","Hey, I'm here. I was wondering if you
-don't mind if I call you right now.?");
+    MsgDisp("Sassa","Hey, I'm here.
+I was wondering if you don't mind if I
+call you right now.?");
     MsgDisp("主人公","Yeah, I'm fine.
 So?");
     VoicePlay("J040200001_02_050");

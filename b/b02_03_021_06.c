@@ -8,8 +8,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B020302106_03_010");
-MsgDisp("Honda","Yeah, stylish minimalism! Your outfit
-today is so refined and without any
-excess.");
-MsgDisp("主人公","(Yay! Looks like　｛本多＊＊｝
-really likes it.)");
+MsgDisp("Honda","Yeah, stylish minimalism!
+Your outfit today is so refined and
+without any excess.");
+MsgDisp("主人公","(Yay! Looks like ｛本多＊＊｝ really likes
+it.)");

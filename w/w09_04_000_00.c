@@ -14,8 +14,9 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,255,2,2,3,#1,#1,0,0);
     VoicePlay("W090400000_04_010");
-    MsgDisp("Nanatsumori","This is what amusement parks are 
-about, huh? What do you think...?");
+    MsgDisp("Nanatsumori","This is what amusement parks are about,
+huh?
+What do you think...?");
     break ;
     case 4:
     case 5:

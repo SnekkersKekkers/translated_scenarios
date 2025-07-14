@@ -12,11 +12,11 @@ ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,1);
 VoicePlay("P743100000_31_010");
-MsgDisp("Goro","The modeling was perfect too. It's like
-I'm looking at a younger version of
-myself▼");
-MsgDisp("主人公","(Yay, a huge success! I got
-praised by Goro-sensei♪)");
+MsgDisp("Goro","The modeling was perfect too.
+It's like I'm looking at a younger version
+of myself▼");
+MsgDisp("主人公","(Yay, a huge success!
+I got praised by Goro-sensei♪)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);

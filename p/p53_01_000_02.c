@@ -87,16 +87,16 @@ I'll be okay no matter what the result is.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P530100002_01_070");
-    MsgDisp("Kazama","Wow, that's so cool. I'm fell in love
-all over again.");
+    MsgDisp("Kazama","Wow, that's so cool.
+I'm fell in love all over again.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P530100002_01_080");
     MsgDisp("Kazama","I've always thought that you are a
-charming ghost. But it seems like you have
-guts too?");
+charming ghost.
+But it seems like you have guts too?");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(1,4);
@@ -106,7 +106,8 @@ guts too?");
     MsgDisp("Kazama","Come on, do your best.");
     MsgDisp("主人公","Yeah......!");
     MsgDisp("主人公","(Alright, ｛風真＊＊｝ I can't let my
-performance go bad! I will try my best!)");
+performance go bad!
+I will try my best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

@@ -21,25 +21,25 @@ ChCheek(1,0);
 VoicePlay("B070100001_01_440");
 MsgDisp("Kazama","Actually, stop-it.
 What is up with you.");
-MsgDisp("主人公","Yeah.
-This is sudden, but I just thought about 
-how I'm here with ｛風真＊＊｝ right now.");
+MsgDisp("主人公","Yeah. This is sudden, but I just thought
+about how I'm here with ｛風真＊＊｝ right
+now.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,5);
 VoicePlay("B070100001_01_450");
 MsgDisp("Kazama","Yeah, I'm here.
-I guess the several year gap 
-has been buried quite a bit.");
+I guess the several year gap has been
+buried quite a bit.");
 MsgDisp("主人公","Yeah.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("B070100001_01_460");
-MsgDisp("Kazama","Even though we haven't met in 
-many years, we're too natural.");
+MsgDisp("Kazama","Even though we haven't met in many years,
+we're too natural.");
 MsgDisp("主人公","Yeah.
 ...");
 ChEye(1,4);
@@ -68,8 +68,8 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("B070100001_01_490");
-MsgDisp("Kazama","Sorry. This ends with your win.
-I'm at an disadvantage...");
+MsgDisp("Kazama","Sorry. This ends with your win. I'm at an
+disadvantage...");
 MsgDisp("主人公","(Yay!
 But, my heart is racing so fast...)");
 BGMStop();

@@ -13,8 +13,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G110200800_02_010");
 MsgDisp("Sassa","Yeah, it's all thanks to you.
-Join me for a cool down,
-run!");
+Join me for a cool down, run!");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -32,8 +31,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200800_02_030");
-MsgDisp("Sassa","Yeah. I was able to beat 4 of the
-records I signed up to compete in.");
+MsgDisp("Sassa","Yeah. I was able to beat 4 of the records
+I signed up to compete in.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -44,18 +43,19 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200800_02_050");
-MsgDisp("Sassa","It feels like I was made for
-first place at sports day.
+MsgDisp("Sassa","It feels like I was made for first place
+at sports day.
 Is that childish?");
 MsgDisp("主人公","Not at all.
-I think it's amazing you can keep
-that place for so long.");
+I think it's amazing you can keep that
+place for so long.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200800_02_060");
-MsgDisp("Sassa","Yeah, thank you. I'm really happy
-that I've been able to do that.");
+MsgDisp("Sassa","Yeah, thank you.
+I'm really happy that I've been able to do
+that.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -71,7 +71,7 @@ MsgClose();
 ChClose(2,0,0);
 BGOpen("ex110",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(He's gone... huh? Wasn't this
-supposed to be a cool down run?)");
+MsgDisp("主人公","(He's gone... huh? Wasn't this supposed to
+be a cool down run?)");
 MsgClose();
 ScrFadeOut(0,0);

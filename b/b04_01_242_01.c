@@ -6,8 +6,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040124201_01_000");
 MsgDisp("Kazama","Then, let's start right away.
-I'm counting on you to prepare
-the vegetables.");
+I'm counting on you to prepare the
+vegetables.");
 MsgSel("Let's have tomato curry for lunch!","This kitchen knife seems very sharp.","Let's just throw these vegetables into the curry as they are");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     ChCheek(1,5);
     VoicePlay("B040124201_01_010");
-    MsgDisp("Kazama","O-Oh, nice.
-It kinda... feels like we're 
+    MsgDisp("Kazama","O-Oh, nice. It kinda... feels like we're
 living together, doesn't it?");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
@@ -33,8 +32,8 @@ living together, doesn't it?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040124201_01_020");
-    MsgDisp("Kazama","That's why you need to stop
-raising weird danger flags.
+    MsgDisp("Kazama","That's why you need to stop raising weird
+danger flags.
 You're banned from knives today.");
     MsgDateResultDisp();
     break ;

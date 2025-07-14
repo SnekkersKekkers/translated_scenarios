@@ -12,8 +12,8 @@ ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040611000_06_000");
 MsgDisp("Himuro","Thank you for choosing me.
-From this point, I vow that I will 
-make you happy forever.");
+From this point, I vow that I will make
+you happy forever.");
 MsgClose();
 ScrFadeOut(0,0,300);
 StlClose();

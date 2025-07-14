@@ -6,8 +6,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106401_01_000");
 MsgDisp("Kazama","It's a lot of fun here.");
-MsgDisp("主人公","Yeah, everyone seems to be having
-a great time.");
+MsgDisp("主人公","Yeah, everyone seems to be having a great
+time.");
 ChMouth(1,0);
 VoicePlay("B040106401_01_010");
 MsgDisp("Kazama","And what about you?");

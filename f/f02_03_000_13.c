@@ -11,11 +11,10 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300013_03_000");
-MsgDisp("Honda","Yepyep!
-Thanks to that, I'm all busy with 
+MsgDisp("Honda","Yepyep! Thanks to that, I'm all busy with
 preparations.");
-MsgDisp("主人公","Preparations?
-Were you assigned some kind of role?");
+MsgDisp("主人公","Preparations? Were you assigned some kind
+of role?");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -30,16 +29,16 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("F020300013_03_020");
 MsgDisp("Honda","I want to get around as much as possible
-in my free time,
-so I'm also making a guidebook.");
+in my free time, so I'm also making a
+guidebook.");
 MsgDisp("主人公","A-Amazing......!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("F020300013_03_030");
-MsgDisp("Honda","It'll be fine even if something
-unexpected comes up, because I'm adding
-alternate routes as well.");
+MsgDisp("Honda","It'll be fine even if something unexpected
+comes up, because I'm adding alternate
+routes as well.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

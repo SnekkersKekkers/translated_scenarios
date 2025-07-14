@@ -20,15 +20,16 @@ MsgDisp("主人公","Hmm?
 Are you not happy about it?");
 ChMotion(5,0);
 VoicePlay("S110500001_05_020");
-MsgDisp("Hiiragi","I'm happy, but I'm usually unlucky
-in raffles. This is unexpected.");
+MsgDisp("Hiiragi","I'm happy, but I'm usually unlucky in
+raffles.
+This is unexpected.");
 ChMouth(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,9);
 VoicePlay("S110500001_05_030");
 MsgDisp("Hiiragi","It's a bit uncomfortable for me.
-I'd rather have bad luck. It's better
-to be cautious.");
+I'd rather have bad luck.
+It's better to be cautious.");
 MsgDisp("主人公","Eeh!");
 ChEye(5,2);
 ChMouth(5,4);
@@ -38,6 +39,5 @@ VoicePlay("S110500001_05_040");
 MsgDisp("Hiiragi","How's the saying go again......
 Familiar bad things are less stressful
 than unfamiliar good things......");
-MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝
-got Excellent Luck and got lost in
-thought......)");
+MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ got Excellent Luck and
+got lost in thought......)");

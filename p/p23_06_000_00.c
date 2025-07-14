@@ -18,14 +18,14 @@ turns out I really am anxious.)");
     MsgClose();
     SEPlay("EV_SE_544",0,0.5);
     ChOpen(6,38,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Eh...ah, ｛氷室＊＊｝. ");
+    MsgDisp("主人公","Eh...ah, ｛氷室＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P230600000_06_010");
-    MsgDisp("Himuro","You've practiced a lot, haven't you? So,
-you'll be fine if you do it just as you
-always have.");
+    MsgDisp("Himuro","You've practiced a lot, haven't you?
+So, you'll be fine if you do it just as
+you always have.");
     MsgDisp("主人公","Yeah, that's right...");
     ChEye(6,0);
     ChMouth(6,0);
@@ -51,14 +51,14 @@ YOu can't stay calm like this.");
     VoicePlay("P230600000_06_040");
     MsgDisp("Himuro","It's alright.
 I'm the same.");
-    MsgDisp("主人公","｛氷室＊＊｝...
-Yeah, thank you.");
+    MsgDisp("主人公","｛氷室＊＊｝... Yeah, thank you.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("P230600000_06_050");
-    MsgDisp("Himuro","Don't mention it. I feel as though you've
-given me some strength too.");
+    MsgDisp("Himuro","Don't mention it.
+I feel as though you've given me some
+strength too.");
     VoicePlay("P230600000_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin
 shortly.");

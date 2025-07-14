@@ -11,8 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,7,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝...
-What are you doing here?");
+MsgDisp("主人公","｛颯砂＊＊｝... What are you doing here?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -35,14 +34,14 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020201000_02_040");
-MsgDisp("Sassa","You would say that my practice and
-my training was hard work.");
+MsgDisp("Sassa","You would say that my practice and my
+training was hard work.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020201000_02_050");
-MsgDisp("Sassa","But I don't put in any effort. 
+MsgDisp("Sassa","But I don't put in any effort.
 I just like it and it's fun, that's all.");
 MsgDisp("主人公","It's so ｛颯砂＊＊｝ -like.
 That's amazing.");
@@ -56,8 +55,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020201000_02_070");
 MsgDisp("Sassa","Set a big goal, and just run towards it.
-Don't worry about what others think,
-just run.");
+Don't worry about what others think, just
+run.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -74,10 +73,9 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020201000_02_100");
-MsgDisp("Sassa","I didn't listen to the advice
-of my seniors or teammates.
-I wasn't happy even if we won.
-I was a nasty jerk.");
+MsgDisp("Sassa","I didn't listen to the advice of my
+seniors or teammates. I wasn't happy even
+if we won. I was a nasty jerk.");
 MsgDisp("主人公","Eh...");
 ChEye(2,2);
 ChMouth(2,0);
@@ -98,9 +96,9 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020201000_02_130");
-MsgDisp("Sassa","The time I spent running alongside you, 
-having normal conversations
-that was the only time——");
+MsgDisp("Sassa","The time I spent running alongside you,
+having normal conversations that was the
+only time——");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -119,16 +117,16 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020201000_02_160");
-MsgDisp("Sassa","I don't want to be some track and field 
-fanatic isolated from everyone else,
-I want to make my dreams come
-true as Nozomu Sassa.");
+MsgDisp("Sassa","I don't want to be some track and field
+fanatic isolated from everyone else, I
+want to make my dreams come true as Nozomu
+Sassa.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020201000_02_170");
-MsgDisp("Sassa","It was the time we spent together
-that made me realize that.");
+MsgDisp("Sassa","It was the time we spent together that
+made me realize that.");
 MsgClear();
 ChClose(2);
 ChCustomLayout(2,5,0,-2.8);
@@ -137,8 +135,9 @@ SEPlay("EV_SE_544");
 ChOpen(2,254,7,4,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(2);
 VoicePlay("T020201000_02_180");
-MsgDisp("Sassa","｛主人公｝, I want to run with you. I want
-to make my dreams come true with you.");
+MsgDisp("Sassa","｛主人公｝, I want to run with you.
+I want to make my dreams come true with
+you.");
 MsgDisp("主人公","!");
 ChEye(2,4);
 ChMouth(2,0);

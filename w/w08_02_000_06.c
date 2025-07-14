@@ -24,7 +24,8 @@ How many minutes does one loop take?");
     ScrFadeIn(0);
     VoicePlay("W080200006_02_020");
     MsgDisp("Sassa","...With Michiru-san, huh.
-S-Sure. Shall we go?");
+S-Sure.
+Shall we go?");
     break ;
     default :
     DbgAssert(1);

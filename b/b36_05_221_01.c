@@ -46,19 +46,20 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(5,0,30);
 VoicePlay("B360522101_05_060");
 MsgDisp("Hiiragi","We can see the castle being dyed in red
-from here. It looks beautiful.");
+from here.
+It looks beautiful.");
 MsgDisp("主人公","Ah, you're right......
 The castle and sky are both dyed red.");
 VoicePlay("B360522101_05_070");
-MsgDisp("Hiiragi","You can't see this view from inside
-the castle.");
+MsgDisp("Hiiragi","You can't see this view from inside the
+castle.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,255,4,3,4,#1,#1,0,0);
 VoicePlay("B360522101_05_080");
 MsgDisp("Hiiragi","What a strange coincidence.
-If we made it in time for the viewing,
-we wouldn't have seen this.");
+If we made it in time for the viewing, we
+wouldn't have seen this.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522101_05_090");

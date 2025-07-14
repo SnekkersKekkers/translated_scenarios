@@ -6,8 +6,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040416001_04_000");
 MsgDisp("Nanatsumori","You know the crane games.
-The prizes are just toys, but 
-I'm weirdly drawn to it?");
+The prizes are just toys, but I'm weirdly
+drawn to it?");
 MsgSel("It's like a treasure within reach but you can't get to","wouldn't it be quicker to buy it?","It's because you're still a kid.");
 switch (MsgSelRsltGet()){
     case 0:

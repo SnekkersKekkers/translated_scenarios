@@ -59,8 +59,7 @@ Valentine's chocolate.");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","｛風真＊＊｝!
-I was looking for you.");
+    MsgDisp("主人公","｛風真＊＊｝! I was looking for you.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -68,7 +67,8 @@ I was looking for you.");
     MsgDisp("Kazama","I thought so.
 That's why I came here for you.");
     MsgDisp("主人公","Hehe, thank you.
-Well, here. Your chocolate.");
+Well, here.
+Your chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(1,4);
@@ -82,9 +82,8 @@ Well, here. Your chocolate.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100000_01_070");
-    MsgDisp("Kazama","Well, even if there are, it seems
-like I'm the highest priority,
-so I'll forgive you.");
+    MsgDisp("Kazama","Well, even if there are, it seems like I'm
+the highest priority, so I'll forgive you.");
     break ;
     default :
     DbgAssert(1);

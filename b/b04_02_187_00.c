@@ -22,8 +22,8 @@ There were too many characters.");
     ChMotion(2,3);
     VoicePlay("B040218700_02_010");
     MsgDisp("Sassa","It was so-so, wasn't it!
-To be honest, that's the only 
-think I could think of.");
+To be honest, that's the only think I
+could think of.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

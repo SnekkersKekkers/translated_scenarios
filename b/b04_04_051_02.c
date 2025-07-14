@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040405102_04_000");
-MsgDisp("Nanatsumori","Aren't there a lot of outrageous
-stories about the constellations?");
+MsgDisp("Nanatsumori","Aren't there a lot of outrageous stories
+about the constellations?");
 MsgSel("Zeus was especially bad.","I don't think so","Surprisingly, you've actually been seriously listening?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,10 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040405102_04_010");
-    MsgDisp("Nanatsumori","I feel the same.
-He was messing things up here and there.
-And he used the constellations
-to cover up his tracks.");
+    MsgDisp("Nanatsumori","I feel the same. He was messing things up
+here and there. And he used the
+constellations to cover up his tracks.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +28,8 @@ to cover up his tracks.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("B040405102_04_020");
-    MsgDisp("Nanatsumori","Hmm...
-Are you the type to find it romantic?");
+    MsgDisp("Nanatsumori","Hmm... Are you the type to find it
+romantic?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -56,16 +55,16 @@ Are you the type to find it romantic?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040405102_04_040");
-        MsgDisp("Nanatsumori","I don't sleep every time
-I come here, after all.");
+        MsgDisp("Nanatsumori","I don't sleep every time I come here,
+after all.");
         MsgDisp("主人公","Ah, sorry...");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);
         ChCheek(4,8);
         VoicePlay("B040405102_04_050");
-        MsgDisp("Nanatsumori","Actually, it'll be pretty bad
-if I don't focus on the commentary");
+        MsgDisp("Nanatsumori","Actually, it'll be pretty bad if I don't
+focus on the commentary");
         MsgDisp("主人公","Why?");
         ChEye(4,0);
         ChMouth(4,0);
@@ -88,14 +87,13 @@ my ears.");
         MsgDisp("主人公","Yeah..");
         ChMotion(4,0,1);
         VoicePlay("B040405102_04_090");
-        MsgDisp("Nanatsumori","The beautiful story of a man
-and a woman coincides
-with our own.");
+        MsgDisp("Nanatsumori","The beautiful story of a man and a woman
+coincides with our own.");
         MsgDisp("主人公","Yeah...");
         ChEye(4,0);
         VoicePlay("B040405102_04_100");
-        MsgDisp("Nanatsumori","In that dream like state, 
-I look over next to me...");
+        MsgDisp("Nanatsumori","In that dream like state, I look over next
+to me...");
         MsgDisp("主人公","Yeah...
 Hm?");
         ChEye(4,4);

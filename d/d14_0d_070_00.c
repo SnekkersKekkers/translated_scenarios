@@ -1,5 +1,5 @@
-MsgDisp("主人公","Come to think of it, 
-there's something I want to ask you two...");
+MsgDisp("主人公","Come to think of it, there's something I
+want to ask you two...");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -9,11 +9,11 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07000_22_000");
-MsgDisp("Hikaru","Something Mari wants to ask us?
-Is it about love? Style? Which is it?");
+MsgDisp("Hikaru","Something Mari wants to ask us? Is it
+about love? Style? Which is it?");
 MsgDisp("主人公","No, that's not it.
-You two are twin sisters but your 
-hair colors are completely different?");
+You two are twin sisters but your hair
+colors are completely different?");
 ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,3,1);
@@ -48,8 +48,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("D140D07000_21_030");
-MsgDisp("Michiru","Uncle and Himeko 
-are also completely different.
+MsgDisp("Michiru","Uncle and Himeko are also completely
+different.
 Right, Hikaru?");
 ChEye(22,0);
 ChMouth(22,0);

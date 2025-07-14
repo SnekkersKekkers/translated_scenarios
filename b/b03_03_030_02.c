@@ -4,8 +4,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030303002_03_000");
-MsgDisp("Honda","There's the Water Garden,
-and the Deep Sea Corner.
+MsgDisp("Honda","There's the Water Garden, and the Deep Sea
+Corner.
 Where are you thinking?");
 MsgSel("Let's go to the aquarium.","Water Garden sounds nice","Let's go to the Deep Sea Corner");
 switch (MsgSelRsltGet()){

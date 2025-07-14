@@ -20,8 +20,7 @@ with my gift.)");
     ChMouth(4,3);
     ChMotion(4,3);
     VoicePlay("R060400004_04_010");
-    MsgDisp("Nanatsumori","Nice...
-I'm seriously impressed right now.
+    MsgDisp("Nanatsumori","Nice... I'm seriously impressed right now.
 I'll cherish it.");
     MsgDisp("主人公","(Yay! He's really happy
 with my gift.)");

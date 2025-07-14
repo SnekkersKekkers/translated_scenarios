@@ -11,8 +11,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("Q260200000_02_010");
 MsgDisp("Sassa","You ∋");
-MsgDisp("主人公","Eh, ｛颯砂＊＊｝?
-Wait, so that was......");
+MsgDisp("主人公","Eh, ｛颯砂＊＊｝? Wait, so that was......");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -31,7 +30,7 @@ SEPlay("EV_SE_799");
 MsgClose();
 ChClose(2);
 SEWait();
-MsgDisp("主人公","(Eeh∋
-Then, that thing just now was......?)");
+MsgDisp("主人公","(Eeh∋ Then, that thing just now
+was......?)");
 MsgClose();
 ScrFadeOut(0,0);

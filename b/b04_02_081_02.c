@@ -44,7 +44,8 @@ I learned a lot from that.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040208102_02_030");
-        MsgDisp("Sassa","That's right. It's a once a year contest.
+        MsgDisp("Sassa","That's right.
+It's a once a year contest.
 It's the same as my interhigh.");
         MsgDisp("主人公","In preparation for a certain time, you've
 also been giving it your all for one year,
@@ -53,10 +54,9 @@ right? That kind of thing?");
         ChMouth(2,4);
         ChMotion(2,4,1);
         VoicePlay("B040208102_02_040");
-        MsgDisp("Sassa","Yeah.
-But the cherry blossoms will continue 
-every year, I go to the interhigh a 
-limited amount of times.");
+        MsgDisp("Sassa","Yeah. But the cherry blossoms will
+continue every year, I go to the interhigh
+a limited amount of times.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -90,8 +90,8 @@ huh?");
         ChMotion(2,3);
         ChCheek(2,10);
         VoicePlay("B040208102_02_090");
-        MsgDisp("Sassa","Eh? No, what am I saying?
-Forget it, I'm sorry!");
+        MsgDisp("Sassa","Eh? No, what am I saying? Forget it, I'm
+sorry!");
         MsgDisp("主人公","(｛颯砂＊＊｝......)");
         break ;
         default :

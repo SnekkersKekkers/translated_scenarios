@@ -12,9 +12,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("B040418200_04_000");
-    MsgDisp("Nanatsumori","Really?
-The motif was super interesting, but it
-wasn't great as a horror movie.");
+    MsgDisp("Nanatsumori","Really? The motif was super interesting,
+but it wasn't great as a horror movie.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,8 +24,7 @@ wasn't great as a horror movie.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040418200_04_010");
-    MsgDisp("Nanatsumori","Right.
-The motif being a closet completely 
+    MsgDisp("Nanatsumori","Right. The motif being a closet completely
 threw me for a loop.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

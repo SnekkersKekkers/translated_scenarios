@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, ｛氷室＊＊｝, 
-what were you like in middle school?");
+MsgDisp("主人公","Hey, ｛氷室＊＊｝, what were you like in
+middle school?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -10,16 +10,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_310");
-MsgDisp("Himuro","Just to preface, that doesn't 
-mean I haven't grown up.");
+MsgDisp("Himuro","Just to preface, that doesn't mean I
+haven't grown up.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B070600000_06_320");
 MsgDisp("Himuro","What, you're laughing at that?");
-MsgDisp("主人公","I was just imagining  what kind of 
-middle schooler you were like...");
+MsgDisp("主人公","I was just imagining what kind of middle
+schooler you were like...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

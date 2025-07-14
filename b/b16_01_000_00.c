@@ -3,7 +3,7 @@ NSSOpen(1,255,0,2,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160100000_01_000");
-MsgDisp("Kazama","What's up with that? 
+MsgDisp("Kazama","What's up with that?
 I am here, you know.");
 MsgSel("Yeah, I know.","I'm glad.");
 switch (MsgSelRsltGet()){

@@ -26,9 +26,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020320000_03_320");
-MsgDisp("Honda","No.
-Because with all these unexpected things,
-it's just too much fun.");
+MsgDisp("Honda","No. Because with all these unexpected
+things, it's just too much fun.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -54,8 +53,8 @@ Wait(60,0);
 SEPlay("EV_SE_695");
 Wait(120,0);
 VoicePlay("T020320000_03_350");
-MsgDisp("Honda","Haa......
-Let's stay like this for a while.");
+MsgDisp("Honda","Haa...... Let's stay like this for a
+while.");
 Wait(120,0);
 MsgClose();
 ScrFadeOut(0,1,120);

@@ -48,8 +48,7 @@ I've been defeated...");
         VoicePlay("B040410102_04_040");
         MsgDisp("Nanatsumori","To be honest, yeah it's not.");
         MsgDisp("主人公","I see.
-Sorry, I'm the only one having 
-fun here...");
+Sorry, I'm the only one having fun here...");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);
@@ -61,9 +60,8 @@ You're having fun, right?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040410102_04_060");
-        MsgDisp("Nanatsumori","...Alright!
-Then, how about you be my teacher
-and show me how to enjoy this?");
+        MsgDisp("Nanatsumori","...Alright! Then, how about you be my
+teacher and show me how to enjoy this?");
         MsgDisp("主人公","Eh?");
         ChEye(4,0);
         ChMouth(4,4);
@@ -106,8 +104,8 @@ from that angle∋");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040410102_04_110");
-    MsgDisp("Nanatsumori","Well... yeah, actually.
-Can you show me how to enjoy this?");
+    MsgDisp("Nanatsumori","Well... yeah, actually. Can you show me
+how to enjoy this?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

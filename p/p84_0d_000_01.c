@@ -13,8 +13,8 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P840D00001_22_000");
-MsgDisp("Hikaru","That looks like it's
-just been crammed in....");
+MsgDisp("Hikaru","That looks like it's just been crammed
+in....");
 VoicePlay("P840D00001_48_000");
 MsgDisp("School Girl","Huh? Have you seen the documents that were
 here?");
@@ -29,14 +29,14 @@ ChMouth(22,0);
 ChMotion(22,1,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("P840D00001_22_010");
-MsgDisp("Hikaru","Do you think it's been tightly
-shoved into that cardboard box?");
+MsgDisp("Hikaru","Do you think it's been tightly shoved into
+that cardboard box?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P840D00001_21_010");
-MsgDisp("Michiru","Haa... you can't do this alone.
-We'll help.");
+MsgDisp("Michiru","Haa... you can't do this alone. We'll
+help.");
 MsgDisp("主人公","(UUugh...Maybe I was too careless.
 A huge fail...)");
 MsgClose();

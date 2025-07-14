@@ -28,8 +28,8 @@ who worked so hard. I wanted her to
 take the stage");
 MsgClear();
 VoicePlay("Y300700200_45_000");
-MsgDisp("School Girl B","\"For now, 
-should we stop the school play?\"");
+MsgDisp("School Girl B","\"For now, should we stop the school
+play?\"");
 MsgDisp("","The quiet voices of the female
 students rippled across the
 classroom.");
@@ -47,29 +47,29 @@ MsgDisp("","The students said that all at once.
 It's a matter of memorizing the
 lines...");
 MsgClear();
-MsgDisp("主人公","\"Um, ｛御影＊＊｝... You accompanied
-me for all my practices, so do you
-remember the lines?\"");
-MsgDisp("","Everyone in the class's eyes
-looked at me, all at once.");
+MsgDisp("主人公","\"Um, ｛御影＊＊｝... You
+accompanied me for all my practices,
+so do you remember the lines?\"");
+MsgDisp("","Everyone in the class's eyes looked
+at me, all at once.");
 VoicePlay("Y300700200_07_020");
 MsgDisp("Mikage","\"Wait, wait. we can't do that. How
 would the teacher even be the lead
 part?\"");
 MsgClear();
-MsgDisp("","\"Why is it bad?\"
-\"This is an emergency.\"");
+MsgDisp("","\"Why is it bad?\" \"This is an
+emergency.\"");
 SEPlay("EV_SE_713");
 Wait(30,0);
 SEPlay("EV_SE_815",0,0.8);
 Wait(20,0);
 SEPlay("EV_SE_621");
 Wait(30,0);
-MsgDisp("","The male students pf the class 
-stood on their seats.");
+MsgDisp("","The male students pf the class stood
+on their seats.");
 VoicePlay("Y300700200_07_030");
-MsgDisp("Mikage","\"I understand you guys' 
-feelings but...\"");
+MsgDisp("Mikage","\"I understand you guys' feelings
+but...\"");
 SEPlay("EV_SE_788",1.5,0.7,0.2);
 SEPlay("EV_SE_GAYA_007",0.5,0.7,0.2);
 MsgDisp("","Even I am not that shameless.");
@@ -102,12 +102,13 @@ feelings of your students, make a
 decision Mikage-sensei.\"");
 VoicePlay("Y300700200_07_050");
 MsgDisp("Mikage","\"Y-Yes...\"");
-MsgDisp("","I never thought Vice Principal 
-Himuro would push me like this.");
+MsgDisp("","I never thought Vice Principal Himuro
+would push me like this.");
 MsgClear();
 VoicePlay("Y300700200_32_020");
-MsgDisp("VP Himuro","\"I have experience with this too. And
-such, now I have no regrets of it.\"");
+MsgDisp("VP Himuro","\"I have experience with this too.
+And such, now I have no regrets of
+it.\"");
 VoicePlay("Y300700200_07_060");
 MsgDisp("Mikage","\"Eh? Vice Principal Himuro was in a
 school play∋\"");
@@ -116,7 +117,7 @@ guard down a little, as if he was
 reminiscing about the past.");
 MsgClear();
 VoicePlay("Y300700200_32_030");
-MsgDisp("VP Himuro","Talk with it carefully with your 
+MsgDisp("VP Himuro","Talk with it carefully with your
 students and make decision.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ScrFadeOut(0);
@@ -133,21 +134,21 @@ BGOpen("ad720",0);
 BGMPlay("BGM_C07_MIKAGE_I",0.01);
 ScrFadeIn(0);
 VoicePlay("Y300700200_07_070");
-MsgDisp("Mikage","\"If everyone wishes for it,
-I'll do it.
+MsgDisp("Mikage","\"If everyone wishes for it, I'll do
+it.
 Is it okay?\"");
 SEPlay("EV_SE_741",1);
 SEPlay("EV_SE_793",1,0.6);
 VoicePlay("Y300700200_42_020");
 MsgDisp("Male Student","\"As expected of Mikagecchi!\"");
 VoicePlay("Y300700200_44_010");
-MsgDisp("School Girl A","\"I want to see Mikage-sensei
-as the lead!\"");
+MsgDisp("School Girl A","\"I want to see Mikage-sensei as the
+lead!\"");
 SEStop("EV_SE_741",2);
 SEStop("EV_SE_793",2);
 MsgClear();
-MsgDisp("","A sparkling smile looked at me
-from the window seat.");
+MsgDisp("","A sparkling smile looked at me from
+the window seat.");
 MsgDisp("","Haa...
 I can't back out now...");
 BGMStop();

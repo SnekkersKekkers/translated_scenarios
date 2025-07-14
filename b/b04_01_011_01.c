@@ -43,8 +43,8 @@ nose and pulling your ears?");
     ChMotion(1,3);
     VoicePlay("B040101101_01_030");
     MsgDisp("Kazama","Only you would be able to point something
-like that out. You're a funny person, you
-know?");
+like that out.
+You're a funny person, you know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

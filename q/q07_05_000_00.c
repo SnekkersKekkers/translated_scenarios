@@ -4,18 +4,18 @@ BGOpen("sc820",0);
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...... look, ｛柊＊＊＊｝!
-The windmills and flowers are so pretty.");
+MsgDisp("主人公","Wow...... look, ｛柊＊＊＊｝! The
+windmills and flowers are so pretty.");
 ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q070500000_05_000");
-MsgDisp("Hiiragi","I have never been to the Netherlands,
-I'm sure the landscape is like this.");
+MsgDisp("Hiiragi","I have never been to the Netherlands, I'm
+sure the landscape is like this.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_010");
-MsgDisp("Hiiragi","I feel like I'm travelling abroad,
-I love it.");
+MsgDisp("Hiiragi","I feel like I'm travelling abroad, I love
+it.");
 MsgDisp("主人公","The Netherlands with ｛柊＊＊＊｝......
 Sounds fun.");
 ChEye(5,3);
@@ -36,41 +36,38 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝!
-Look, that tall tower.");
+MsgDisp("主人公","｛柊＊＊＊｝! Look, that tall tower.");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("Q070500000_05_030");
 MsgDisp("Hiiragi","It's amazing.
-It looks taller than the keep of 
-Habataki Castle.");
-MsgDisp("主人公","Hehe, yes.
-Ah...... but the castle,
-It's on top of Mount Habataki.");
+It looks taller than the keep of Habataki
+Castle.");
+MsgDisp("主人公","Hehe, yes. Ah...... but the castle, It's
+on top of Mount Habataki.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q070500000_05_040");
 MsgDisp("Hiiragi","I see, this is near the sea.
-In terms of elevation, the tower of 
+In terms of elevation, the tower of
 Habataki Castle is higher.");
 ChEye(5,4);
 ChMotion(5,3);
 VoicePlay("Q070500000_05_050");
-MsgDisp("Hiiragi","
-I like your overflowing love for your 
+MsgDisp("Hiiragi","I like your overflowing love for your
 hometown. I, too, will learn from you as
 the Habataki theatre chairperson.");
 MsgDisp("主人公","What?
 I didn't mean it like that......");
 ChMotion(5,4);
 VoicePlay("Q070500000_05_060");
-MsgDisp("Hiiragi","Even if you come to a foreign country,
-you do not forget the city of Habataki.
+MsgDisp("Hiiragi","Even if you come to a foreign country, you
+do not forget the city of Habataki.
 It's wonderful.");
-MsgDisp("主人公","(I guess ｛柊＊＊＊｝ feels completely
-in a foreign country?
+MsgDisp("主人公","(I guess ｛柊＊＊＊｝ feels completely in
+a foreign country?
 Huis ten Bosch was so much fun......!)");
 BGMStop(2);
 MsgClose();
@@ -89,8 +86,8 @@ BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("Q070500000_05_070");
-MsgDisp("Hiiragi","｛主人公｝.
-This place is also very aesthetic.");
+MsgDisp("Hiiragi","｛主人公｝. This place is also very
+aesthetic.");
 MsgDisp("主人公","The flower beds and buildings are so
 pretty.");
 ChEye(5,4);
@@ -103,8 +100,8 @@ MsgDisp("主人公","Yes......");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_090");
-MsgDisp("Hiiragi","Nagasaki is lovely, but,
-Do you still miss Habataki City more?");
+MsgDisp("Hiiragi","Nagasaki is lovely, but, Do you still miss
+Habataki City more?");
 MsgDisp("主人公","No, since it's only been three days.
 And you, ｛柊＊＊＊｝?");
 ChEye(5,2);
@@ -112,14 +109,13 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("Q070500000_05_100");
-MsgDisp("Hiiragi","I'm getting a little curious about 
-the theatre members.");
+MsgDisp("Hiiragi","I'm getting a little curious about the
+theatre members.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q070500000_05_110");
-MsgDisp("Hiiragi","But since I'm with you,
-I'm more inclined to continue with the 
-school trip.");
+MsgDisp("Hiiragi","But since I'm with you, I'm more inclined
+to continue with the school trip.");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(5,4);
 ChMotion(5,0);

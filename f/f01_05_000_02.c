@@ -21,8 +21,7 @@ together?");
         ChOpen(5,254,0,0,4,#1,#1,0,0);
         VoicePlay("F010500002_05_010");
         MsgDisp("Hiiragi","Are you going home as well?");
-        MsgDisp("主人公","Yep.
-If its okay, how about we walk home
+        MsgDisp("主人公","Yep. If its okay, how about we walk home
 together?");
         break ;
         case 4:
@@ -33,8 +32,8 @@ together?");
         ChOpen(5,254,0,4,4,#1,#1,0,0);
         VoicePlay("F010500002_05_020");
         MsgDisp("Hiiragi","Meeting others unexpectedly after the bell
-rings is one of the greatest pleasures
-of high school life. You, especially.");
+rings is one of the greatest pleasures of
+high school life. You, especially.");
         MsgDisp("主人公","Hehe.
 How about we walk home together?");
         break ;

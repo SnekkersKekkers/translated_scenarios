@@ -32,9 +32,8 @@ I wanted to hear your opinion.");
     ChMouth(5,2);
     ChMotion(5,2);
     VoicePlay("B040504500_05_020");
-    MsgDisp("Hiiragi","Ugh...
-It's your opinion, and I'll accept it
-in earnest...Please give me a moment.");
+    MsgDisp("Hiiragi","Ugh... It's your opinion, and I'll accept
+it in earnest...Please give me a moment.");
     MsgDateResultDisp();
     break ;
     default :

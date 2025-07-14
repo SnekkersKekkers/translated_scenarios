@@ -32,8 +32,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("D130C00100_07_010");
-MsgDisp("Mikage","Then, shall we say \"Merry
-Christmas\" one more time?");
+MsgDisp("Mikage","Then, shall we say \"Merry Christmas\" one
+more time?");
 MsgDisp("主人公","Hehe, yes.");
 ChEye(5,3);
 ChMouth(5,3);
@@ -67,9 +67,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D130C00100_05_020");
-MsgDisp("Hiiragi","But everyone would probably
-be thinking of you when
-they choose their presents.");
+MsgDisp("Hiiragi","But everyone would probably be thinking of
+you when they choose their presents.");
 MsgDisp("主人公","EH?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -80,9 +79,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D130C00100_07_040");
-MsgDisp("Mikage","Hmm, then it would probably
-be faster for everyone 
-o give you a present.");
+MsgDisp("Mikage","Hmm, then it would probably be faster for
+everyone o give you a present.");
 MsgDisp("主人公","Ehh?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -98,8 +96,8 @@ MsgDisp("Himuro","Yeah, that seems alright.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","Ehhh∋");
-MsgDisp("主人公","(I'm happy, but that's not a
-present exchange anymore!)");
+MsgDisp("主人公","(I'm happy, but that's not a present
+exchange anymore!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

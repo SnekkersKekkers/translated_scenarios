@@ -27,8 +27,9 @@ I'm happy to hear you feel the same.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("B040523100_05_020");
-    MsgDisp("Hiiragi","Are you alright? Sorry, it seems like only
-I enjoyed myself.");
+    MsgDisp("Hiiragi","Are you alright?
+Sorry, it seems like only I enjoyed
+myself.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,8 +38,8 @@ I enjoyed myself.");
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040523100_05_030");
-    MsgDisp("Hiiragi","...Heheh.
-Next time, let's cheer the whole time.");
+    MsgDisp("Hiiragi","...Heheh. Next time, let's cheer the whole
+time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

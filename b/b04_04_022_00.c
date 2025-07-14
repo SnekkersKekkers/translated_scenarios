@@ -26,10 +26,9 @@ but it is big.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040402200_04_020");
-    MsgDisp("Nanatsumori","Sounds nice.
-I want to see it for myself and not from 
-a picture in a guide book. I want
-to take pictures of nice things.");
+    MsgDisp("Nanatsumori","Sounds nice. I want to see it for myself
+and not from a picture in a guide book. I
+want to take pictures of nice things.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +41,8 @@ to take pictures of nice things.");
     ChEyeOpenLevel(4,8);
     VoicePlay("B040402200_04_030");
     MsgDisp("Nanatsumori","That was kinda sly.
-There's no need for the heart mark 
-at the end of your sentence.");
+There's no need for the heart mark at the
+end of your sentence.");
     MsgDateResultDisp();
     break ;
     default :

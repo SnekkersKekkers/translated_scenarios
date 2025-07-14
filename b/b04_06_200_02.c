@@ -78,8 +78,8 @@ give me your hand?");
         ScrQuake(1);
         Wait(80,0);
         MsgDisp("主人公","Hey, that was mean!
-You tugged on me on purpose
-just now didn't you? ");
+You tugged on me on purpose just now
+didn't you?");
         MsgClose();
         ChLayout(0);
         ChOpen(6,32,1,3,3,#1,#1,0,0);
@@ -105,8 +105,8 @@ This is payback for laughing at me. ");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040620002_06_090");
-        MsgDisp("Himuro","We both need to be
-careful or we'll get hurt.
+        MsgDisp("Himuro","We both need to be careful or we'll get
+hurt.
 Come on, give me your hand.");
         MsgDisp("主人公","............");
         SEPlay("EV_SE_760");
@@ -118,15 +118,15 @@ Come on, give me your hand.");
         ChEyeOpenLevel(6,7);
         ChCheek(6,0);
         VoicePlay("B040620002_06_100");
-        MsgDisp("Himuro","...You tried to get back 
-at me just now didn't you?");
+        MsgDisp("Himuro","...You tried to get back at me just now
+didn't you?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040620002_06_110");
-        MsgDisp("Himuro","I don't know anymore, 
-I'm leaving you here.");
+        MsgDisp("Himuro","I don't know anymore, I'm leaving you
+here.");
         MsgDisp("主人公","Ehhh∋　How cruel!");
         break ;
         default :

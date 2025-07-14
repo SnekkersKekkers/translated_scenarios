@@ -4,8 +4,8 @@ ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like things have 
-been going well recently!)");
+MsgDisp("主人公","(Looks like things have been going well
+recently!)");
 switch (ChPrmGet(4,6)){
     case 0:
     case 1:
@@ -13,8 +13,8 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("X120400001_04_000");
     MsgDisp("Nanatsumori","Is that an edible flower?
-No, I just thought it 
-looked tasty, that's all.");
+No, I just thought it looked tasty, that's
+all.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
@@ -23,8 +23,8 @@ looked tasty, that's all.");
     ChMouth(4,3);
     VoicePlay("X120400001_04_010");
     MsgDisp("Nanatsumori","It's super pretty.
-Maybe you'll discover a
-new species of flower?");
+Maybe you'll discover a new species of
+flower?");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :

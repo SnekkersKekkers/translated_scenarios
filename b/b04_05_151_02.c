@@ -44,8 +44,8 @@ my occupation?");
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040515102_05_030");
-        MsgDisp("Hiiragi","Being \"familiar\" and \"skilled\"
-are considerably different.");
+        MsgDisp("Hiiragi","Being \"familiar\" and \"skilled\" are
+considerably different.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -56,8 +56,8 @@ are considerably different.");
         ChMotion(5,2);
         ChEyeOpenLevel(5,8);
         VoicePlay("B040515102_05_040");
-        MsgDisp("Hiiragi","I'm sorry to say, 
-but I have very little experience.");
+        MsgDisp("Hiiragi","I'm sorry to say, but I have very little
+experience.");
         MsgDisp("主人公","Umm, I'm sorry.");
         ChEye(5,0);
         ChMouth(5,4);
@@ -69,18 +69,17 @@ I phrased it weirdly.");
         ChMouth(5,4);
         ChMotion(5,2);
         VoicePlay("B040515102_05_060");
-        MsgDisp("Hiiragi","But, I really am familiar with it.
-Back when our theater group used to 
-tour the country, we stayed in places 
-with bowling alleys.");
+        MsgDisp("Hiiragi","But, I really am familiar with it. Back
+when our theater group used to tour the
+country, we stayed in places with bowling
+alleys.");
         MsgDisp("主人公","I see, 
 hotels have bowling facilities.");
         ChEye(5,4);
         VoicePlay("B040515102_05_070");
-        MsgDisp("Hiiragi","Indeed, 
-but I wasn't allowed to play.
-Despite appearances, I've been a 
-lead actor since I was little.");
+        MsgDisp("Hiiragi","Indeed, but I wasn't allowed to play.
+Despite appearances, I've been a lead
+actor since I was little.");
         MsgDisp("主人公","I see..");
         ChEye(5,0);
         ChMouth(5,3);
@@ -94,8 +93,8 @@ Did you make that face intentionally?");
         ChMotion(5,4);
         VoicePlay("B040515102_05_090");
         MsgDisp("Hiiragi","That's right, it's not a particularly sad
-story. I grew up being cared for by
-everyone.");
+story.
+I grew up being cared for by everyone.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

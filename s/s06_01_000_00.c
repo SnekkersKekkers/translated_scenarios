@@ -25,10 +25,9 @@ Same to you, treat me well this year.");
     ChMotion(1,3);
     VoicePlay("S060100000_01_010");
     MsgDisp("Kazama","Happy New Year.
-Somehow, it relaxes me when
-I see you.");
-    MsgDisp("主人公","Hehe, I think I feel the same
-way. Happy New Year again!");
+Somehow, it relaxes me when I see you.");
+    MsgDisp("主人公","Hehe, I think I feel the same way.
+Happy New Year again!");
     break ;
     case 4:
     case 5:

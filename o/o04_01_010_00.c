@@ -10,8 +10,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoicePlay("O040101000_01_000");
     MsgDisp("Kazama","Isn't this great?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-We're together.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! We're together.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -29,8 +28,7 @@ There's no way we're losing.");
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoicePlay("O040101000_01_020");
     MsgDisp("Kazama","You're with me.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Let's do our best.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Let's do our best.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -43,8 +41,8 @@ we're invincible.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("O040101000_01_040");
-    MsgDisp("Kazama","Let's show them all how well
-we work together.");
+    MsgDisp("Kazama","Let's show them all how well we work
+together.");
     MsgDisp("主人公","Um...... to who?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -63,8 +61,7 @@ Let's go!");
     VoicePlay("O040101000_01_060");
     MsgDisp("Kazama","Huh?
 So this is our destiny.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Are we on the same team?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Are we on the same team?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -75,17 +72,15 @@ Because that's our fate.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O040101000_01_080");
-    MsgDisp("Kazama","Now that we're together,
-we'll double the other team's score,
-got it?");
+    MsgDisp("Kazama","Now that we're together, we'll double the
+other team's score, got it?");
     MsgDisp("主人公","Hehe.
 Yeah, let's do our best!");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("O040101000_01_090");
-    MsgDisp("Kazama","Nice.
-I'll fill the basket up so much
+    MsgDisp("Kazama","Nice. I'll fill the basket up so much
 it'll start overflowing.");
     break ;
     default :

@@ -7,8 +7,7 @@ ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("T020220022_02_000");
 MsgDisp("Sassa","Hey! What's wrong?");
-MsgDisp("主人公","That means I love 
-｛颯砂＊＊｝ too?");
+MsgDisp("主人公","That means I love ｛颯砂＊＊｝ too?");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -35,17 +34,17 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("T020220022_02_040");
-MsgDisp("Sassa","I mean, 
-you do always get the better of me.");
+MsgDisp("Sassa","I mean, you do always get the better of
+me.");
 MsgDisp("主人公","That's because I couldn't express it well
 in words.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020220022_02_050");
-MsgDisp("Sassa","I understood it anyways. From now on, I
-can pursue my dreams with you, the one I
-love.");
+MsgDisp("Sassa","I understood it anyways.
+From now on, I can pursue my dreams with
+you, the one I love.");
 MsgDisp("主人公","Yes.");
 ChEye(2,4);
 ChMouth(2,4);
@@ -63,8 +62,7 @@ VoicePlay("T020220022_02_070");
 MsgDisp("Sassa","Now it's my turn to hug you.");
 VoiceEVSPlay(2);
 VoicePlay("T020220022_02_080");
-MsgDisp("Sassa","｛主人公｝......
-I love you.");
+MsgDisp("Sassa","｛主人公｝...... I love you.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

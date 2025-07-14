@@ -10,14 +10,14 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("T040200000_02_000");
 MsgDisp("Sassa","We've walked on this road a lot, huh.");
-MsgDisp("主人公","｛颯砂＊＊｝ ran here often. ");
+MsgDisp("主人公","｛颯砂＊＊｝ ran here often.");
 NSSEye(2,3);
 NSSMouth(2,3);
 NSSEyeOpenLevel(2,0);
 VoicePlay("T040200000_02_010");
-MsgDisp("Sassa","That's right. From now on, I'll be mindful
-of what's around me so I don't act
-recklessly.");
+MsgDisp("Sassa","That's right.
+From now on, I'll be mindful of what's
+around me so I don't act recklessly.");
 MsgDisp("主人公","Yes, if it's ｛颯砂＊＊｝, it'll be
 alright.");
 NSSEye(2,4);
@@ -35,9 +35,9 @@ MsgDisp("主人公","Eh?　Really?");
 NSSEye(2,3);
 NSSMouth(2,3);
 VoicePlay("T040200000_02_040");
-MsgDisp("Sassa","What, why are you surprised? It's easier
-to run in a uniform than it is to run in a
-party outfit.");
+MsgDisp("Sassa","What, why are you surprised?
+It's easier to run in a uniform than it is
+to run in a party outfit.");
 MsgDisp("主人公","Hehe, yes......!");
 NSSEye(2,3);
 NSSMouth(2,3);

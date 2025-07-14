@@ -22,8 +22,8 @@ sure to make memories with friends, kay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(Aah, it really is a shame, 
-but I guess it can't be helped......)");
+    MsgDisp("主人公","(Aah, it really is a shame, but I guess it
+can't be helped......)");
     break ;
     case 3:
     break ;

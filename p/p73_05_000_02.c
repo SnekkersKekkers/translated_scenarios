@@ -22,7 +22,7 @@ The wedding dress...");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500002_05_010");
-    MsgDisp("Hiiragi","To be able to see you in a wedding dress, 
+    MsgDisp("Hiiragi","To be able to see you in a wedding dress,
 I'm a lucky person.");
     MsgDisp("主人公","Come on, you're exaggerating?");
     ChEye(5,0);
@@ -30,9 +30,9 @@ I'm a lucky person.");
     ChMotion(5,0);
     ChCheek(5,0);
     VoicePlay("P730500002_05_020");
-    MsgDisp("Hiiragi","That's what I really think. If you weren't
-part of the Handicrafts club, I wouldn't
-be able to see this.");
+    MsgDisp("Hiiragi","That's what I really think.
+If you weren't part of the Handicrafts
+club, I wouldn't be able to see this.");
     ChEye(5,4);
     VoicePlay("P730500002_05_030");
     MsgDisp("Hiiragi","I'm grateful.");
@@ -44,19 +44,18 @@ wedding dress.");
     ChMotion(5,3);
     Wait(20,1);
     VoicePlay("P730500002_05_040");
-    MsgDisp("Hiiragi","Yes, think of it as a reward to yourself, 
+    MsgDisp("Hiiragi","Yes, think of it as a reward to yourself,
 and enjoy.");
     SEPlay("EV_SE_038");
     SEWait();
-    MsgDisp("主人公","｛柊＊＊＊｝...
-Yes, I'll enjoy it.");
+    MsgDisp("主人公","｛柊＊＊＊｝... Yes, I'll enjoy it.");
     ChMotion(5,0);
     VoicePlay("P730500002_05_050");
     MsgDisp("Hiiragi","I'll also be cheering you on from the
 audience.");
     MsgDisp("主人公","(Well, this is my last show.
-In order to not regret it,
-I'll go forth with all of my heart...!)");
+In order to not regret it, I'll go forth
+with all of my heart...!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);
@@ -89,8 +88,8 @@ when I look at you, no words come out.");
     ChMotion(5,0);
     VoicePlay("P730500002_05_080");
     MsgDisp("Hiiragi","Do not fret.
-You're that wonderful that 
-I hesitated to call out to you.");
+You're that wonderful that I hesitated to
+call out to you.");
     MsgDisp("主人公","Really? I'm happy.");
     ChEye(5,4);
     ChMouth(5,4);
@@ -98,8 +97,8 @@ I hesitated to call out to you.");
     ChCheek(5,0);
     Wait(20,1);
     VoicePlay("P730500002_05_090");
-    MsgDisp("Hiiragi","Yes, it's to the extent that I want
-to take you away like this.");
+    MsgDisp("Hiiragi","Yes, it's to the extent that I want to
+take you away like this.");
     MsgDisp("主人公","Eh...?");
     ChEye(5,4);
     ChMouth(5,4);
@@ -117,8 +116,8 @@ happiness with everyone in the audience.
 Have fun.");
     MsgDisp("主人公","...Yeah!");
     MsgDisp("主人公","(Alright, this is my last runway.
-In order to not regret it,
-I'll go forth with all of my heart...!)");
+In order to not regret it, I'll go forth
+with all of my heart...!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040124102_01_010");
-    MsgDisp("Kazama","Yeah, they're always sleeping 
-peacefully after all.");
+    MsgDisp("Kazama","Yeah, they're always sleeping peacefully
+after all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,8 +25,7 @@ peacefully after all.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040124102_01_020");
-    MsgDisp("Kazama","If you know, 
-don't smell it on purpose.
+    MsgDisp("Kazama","If you know, don't smell it on purpose.
 You really are a funny one.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -72,10 +71,9 @@ I thought that too.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040124102_01_060");
-        MsgDisp("Kazama","If we stayed here, the
-sunset might dye it orange.");
-        MsgDisp("主人公","Hehe.
-Such a big pinwheel could probably
+        MsgDisp("Kazama","If we stayed here, the sunset might dye it
+orange.");
+        MsgDisp("主人公","Hehe. Such a big pinwheel could probably
 grant a lot of wishes, right?");
         ChEye(1,2);
         ChMouth(1,3);
@@ -97,8 +95,8 @@ grant a lot of wishes, right?");
         VoicePlay("B040124102_01_090");
         MsgDisp("Kazama","Really?
 Well, that's good then.");
-        MsgDisp("主人公","(I'd like to hear
-｛風真＊＊｝'s wish one day.)");
+        MsgDisp("主人公","(I'd like to hear ｛風真＊＊｝'s wish one
+day.)");
         break ;
         default :
         DbgAssert(1);

@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020710101_07_000");
-MsgDisp("Mikage","When you stand here, 
-you can hear people's inner voices, right?");
+MsgDisp("Mikage","When you stand here, you can hear people's
+inner voices, right?");
 MsgDisp("主人公","Yes, 
 that's how it goes in the rumour.");
 ChEye(7,0);
@@ -37,9 +37,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710101_07_050");
-MsgDisp("Mikage","Yanosuke and Inori. Maybe they're angry
-because they want to have fun together
-like the other day?");
+MsgDisp("Mikage","Yanosuke and Inori.
+Maybe they're angry because they want to
+have fun together like the other day?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);

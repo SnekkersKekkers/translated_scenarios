@@ -17,9 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040409000_04_010");
-    MsgDisp("Nanatsumori","...Really.
-It has a beautiful smell,
-a bit different to perfume.");
+    MsgDisp("Nanatsumori","...Really. It has a beautiful smell, a bit
+different to perfume.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

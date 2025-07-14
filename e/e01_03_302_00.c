@@ -3,8 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yeah, I think I'll head home soon.)");
 VoicePlay("E010330200_03_000");
-MsgDisp("Honda?","Kojiro-sensei,
-I was no good after all......");
+MsgDisp("Honda?","Kojiro-sensei, I was no good after
+all......");
 VoicePlay("E010330200_07_000");
 MsgDisp("Mikage?","Did you borrow a lot of books again?");
 MsgDisp("主人公","Ah, whose voice was that just now?");
@@ -54,8 +54,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("E010330200_03_040");
-MsgDisp("Honda","Haa...... you two are laughing,
-but are you serious?");
+MsgDisp("Honda","Haa...... you two are laughing, but are
+you serious?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -65,7 +65,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010330200_03_050");
-MsgDisp("Honda","No, I cant. 
+MsgDisp("Honda","No, I cant.
 I accidentally went back the other day.
 My family scolded me.");
 ChEye(3,2);
@@ -73,11 +73,11 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010330200_03_060");
-MsgDisp("Honda","I can't go to the new one 
-until I return them......");
+MsgDisp("Honda","I can't go to the new one until I return
+them......");
 MsgDisp("主人公","I see.
-Next time try your best
-to just return them, okay?");
+Next time try your best to just return
+them, okay?");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -92,8 +92,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChPosition(7,0);
 VoicePlay("E010330200_07_050");
-MsgDisp("Mikage","Next time you go to return them,
-I'll join you to keep an eye on you.");
+MsgDisp("Mikage","Next time you go to return them, I'll join
+you to keep an eye on you.");
 MsgDisp("主人公","Yeah, that's reassuring.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -103,15 +103,16 @@ MsgDisp("Mikage","But I might end up borrowing something
 too. It'll be hard to ignore his
 recommendations and not borrow something,
 you know?");
-MsgDisp("主人公","Ah......
-That certainly sounds...... difficult");
+MsgDisp("主人公","Ah...... That certainly sounds......
+difficult");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010330200_07_070");
 MsgDisp("Mikage","Right?");
-MsgDisp("主人公","(｛本多＊＊｝, good luck! I hope you can go
-to the new library soon!)");
+MsgDisp("主人公","(｛本多＊＊｝, good luck!
+I hope you can go to the new library
+soon!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

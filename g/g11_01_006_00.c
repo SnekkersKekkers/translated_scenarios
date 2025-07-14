@@ -18,8 +18,8 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Speaking of,
-what did you want to talk about?");
+MsgDisp("主人公","Speaking of, what did you want to talk
+about?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -30,8 +30,9 @@ ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100600_01_010");
-MsgDisp("Kazama","It was regarding Sassa. I thought I had so
-many things to ask......but I stopped.");
+MsgDisp("Kazama","It was regarding Sassa.
+I thought I had so many things to
+ask......but I stopped.");
 MsgDisp("主人公","｛颯砂＊＊｝......?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -44,8 +45,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100600_01_030");
-MsgDisp("Kazama","If I keep gossiping about him, 
-he'll come running so I'll stop here.");
+MsgDisp("Kazama","If I keep gossiping about him, he'll come
+running so I'll stop here.");
 SEPlay("EV_SE_646",0,0.8);
 SEWait();
 ChEye(1,2);

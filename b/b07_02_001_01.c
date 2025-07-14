@@ -1,13 +1,12 @@
-MsgDisp("主人公","｛颯砂＊＊｝.
-You've been hanging out with ｛風真＊＊｝
-a lot lately, huh?");
+MsgDisp("主人公","｛颯砂＊＊｝. You've been hanging out with
+｛風真＊＊｝ a lot lately, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200001_02_010");
 MsgDisp("Sassa","I guess so.
-Maybe it's because we used to hang out
-a lot when we were kids.");
+Maybe it's because we used to hang out a
+lot when we were kids.");
 MsgDisp("主人公","That's true......");
 ChEye(2,0);
 ChMouth(2,4);
@@ -21,7 +20,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200001_02_030");
 MsgDisp("Sassa","That guy says very specific things
-sometimes. It's a bit shocking.");
+sometimes.
+It's a bit shocking.");
 MsgDisp("主人公","Hehe, that sounds like ｛風真＊＊｝.
 What kind of things?");
 ChEye(2,0);
@@ -45,9 +45,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B070200001_02_060");
-MsgDisp("Sassa","So then Ryota lost and had to carry
-my backpack. It was so heavy that he 
-couldn't walk.");
+MsgDisp("Sassa","So then Ryota lost and had to carry my
+backpack.
+It was so heavy that he couldn't walk.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);

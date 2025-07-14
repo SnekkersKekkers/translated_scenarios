@@ -14,8 +14,7 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650700000_07_000");
     MsgDisp("Mikage","You got a nice greeting, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-Are you refueling?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! Are you refueling?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -26,9 +25,8 @@ Are you refueling?");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("I650700000_07_020");
-    MsgDisp("Mikage","Right.
-I refueled on your energy, too.
-See you later.");
+    MsgDisp("Mikage","Right. I refueled on your energy, too. See
+you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
@@ -44,8 +42,8 @@ See you later.");
     VoicePlay("I650700000_07_030");
     MsgDisp("Mikage","Yo.
 There's a lot of vigor at this stand.");
-    MsgDisp("主人公","Hehe!　Yes.
-That's Stallion Gasoline's motto.");
+    MsgDisp("主人公","Hehe! Yes. That's Stallion Gasoline's
+motto.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -57,12 +55,11 @@ Do you think they'd hire me, too?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I650700000_07_050");
-    MsgDisp("Mikage","See, aren't the male uniforms kinda
-close in color to what I'm wearing......
+    MsgDisp("Mikage","See, aren't the male uniforms kinda close
+in color to what I'm wearing......
 Or not?");
-    MsgDisp("主人公","Hehe, you're going to
-get scolded by Vice Principal Himuro
-again, you know?");
+    MsgDisp("主人公","Hehe, you're going to get scolded by Vice
+Principal Himuro again, you know?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -75,8 +72,8 @@ See you.");
     SEPlay("EV_SE_751",1);
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(But working with ｛御影＊＊｝
-might be fun?)");
+    MsgDisp("主人公","(But working with ｛御影＊＊｝ might be
+fun?)");
     break ;
     case 4:
     case 5:
@@ -91,8 +88,7 @@ might be fun?)");
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     SEWait();
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-Welcome!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -118,18 +114,17 @@ Thank you very much.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I650700000_07_090");
-    MsgDisp("Mikage","Oh, I left drinks for everyone
-in your break room, so drink up when
-you get a chance!");
+    MsgDisp("Mikage","Oh, I left drinks for everyone in your
+break room, so drink up when you get a
+chance!");
     MsgDisp("主人公","Yay!
 Thank you very much.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("I650700000_07_100");
-    MsgDisp("Mikage","Yeah.
-It's my favorite brand of milk.
-It's good.");
+    MsgDisp("Mikage","Yeah. It's my favorite brand of milk. It's
+good.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

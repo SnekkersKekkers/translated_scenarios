@@ -20,8 +20,7 @@ happy about my gift!)");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("R060600005_06_010");
-    MsgDisp("Himuro","A present from you means a lot
-to me.
+    MsgDisp("Himuro","A present from you means a lot to me.
 I'll treasure this.");
     MsgDisp("主人公","(It seems that he's
 happy about my gift!)");

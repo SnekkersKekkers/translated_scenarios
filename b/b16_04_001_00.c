@@ -4,9 +4,8 @@ NSSOpen(4,255,0,0,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160400100_04_000");
-MsgDisp("Nanatsumori","All men are wolves. 
-Do you understand the meaning 
-of that?");
+MsgDisp("Nanatsumori","All men are wolves.
+Do you understand the meaning of that?");
 MsgSel("｛七ツ森＊｝ is a lion▼","Roar!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -20,9 +19,9 @@ But, that's a big hit for me▼");
     NSSEye(4,2);
     NSSMouth(4,2);
     VoicePlay("B160400100_04_020");
-    MsgDisp("Nanatsumori","Yeah, don't fool around. 
-You're more like the lamb, so
-don't get eaten by a wolf, okay?");
+    MsgDisp("Nanatsumori","Yeah, don't fool around.
+You're more like the lamb, so don't get
+eaten by a wolf, okay?");
     break ;
     default :
     DbgAssert(0);

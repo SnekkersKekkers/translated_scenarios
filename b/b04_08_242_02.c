@@ -5,8 +5,8 @@ ChMouth(8,0);
 ChMotion(8,2);
 ScrFadeIn(0);
 VoicePlay("B040824202_08_000");
-MsgDisp("Shirahane","If we did this at night, 
-we could have a campfire...");
+MsgDisp("Shirahane","If we did this at night, we could have a
+campfire...");
 MsgSel("It's definitely fun even during the day!","Won't that be dangerous?","I'm not really into causing a ruckus...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -45,8 +45,8 @@ We'll enjoy the facility's campfire.");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("B040824202_08_030");
-        MsgDisp("Shirahane","I wasn't particularly thinkin' of 
-making a fuss or anythin'.");
+        MsgDisp("Shirahane","I wasn't particularly thinkin' of making a
+fuss or anythin'.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -63,8 +63,8 @@ I wasn't plannin' on fullin' around.");
         ChMotion(8,0,1);
         VoicePlay("B040824202_08_050");
         MsgDisp("Shirahane","How should I put it...
-dont'cha yearn for it? Relaxin' 
-round a campfire?");
+dont'cha yearn for it?
+Relaxin' round a campfire?");
         ChEye(8,4);
         ChMouth(8,0);
         ChMotion(8,2,1);
@@ -83,15 +83,14 @@ round a campfire?");
         ChMotion(8,3,1);
         ChEyeOpenLevel(8,0);
         VoicePlay("B040824202_08_080");
-        MsgDisp("Shirahane","If you're being for real, 
-let's prepare it together!
+        MsgDisp("Shirahane","If you're being for real, let's prepare it
+together!
 Let's get some firewood...");
         ChEye(8,3);
         ChMotion(8,2,1);
         VoicePlay("B040824202_08_090");
-        MsgDisp("Shirahane","As for the place, somewhere by 
-the lakeside would be good.
-Hehe!");
+        MsgDisp("Shirahane","As for the place, somewhere by the
+lakeside would be good. Hehe!");
         MsgDisp("主人公","(｛大地＊＊｝, that seems fun!
 I'll have to help too!)");
         break ;

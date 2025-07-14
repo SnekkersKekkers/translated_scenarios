@@ -28,8 +28,8 @@ don't know what's wonderful about it.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040210100_02_020");
-    MsgDisp("Sassa","This headband isn't the string 
-for the mask, you know.");
+    MsgDisp("Sassa","This headband isn't the string for the
+mask, you know.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

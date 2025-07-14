@@ -3,5 +3,6 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("SS9202220_02_000");
-MsgDisp("Sassa","I'm fine. I won't lose them.");
+MsgDisp("Sassa","I'm fine.
+I won't lose them.");
 MsgClose();

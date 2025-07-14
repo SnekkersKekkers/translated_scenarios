@@ -11,28 +11,28 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Male Student","Excuse meー.
 Do you have any cardboard～?");
     MsgDisp("主人公","Yeーs, it's all gathered behind the gym.
-Please write a note of the quantity
-you need, your class, and your name.");
+Please write a note of the quantity you
+need, your class, and your name.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P830700001_07_000");
-    MsgDisp("Mikage","｛主人公｝.
-You seem busy, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-Did you need something?");
+    MsgDisp("Mikage","｛主人公｝. You seem busy, huh?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! Did you need
+something?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P830700001_07_010");
-    MsgDisp("Mikage","That's right, I am asking for
-the hard working Miss Diligent, alone.");
+    MsgDisp("Mikage","That's right, I am asking for the hard
+working Miss Diligent, alone.");
     MsgDisp("主人公","Yes...?");
     VoicePlay("P830700001_46_000");
-    MsgDisp("School Girl A","Um, excuse me～ But we don't have enough
-blackout curtains.");
+    MsgDisp("School Girl A","Um, excuse me～
+But we don't have enough blackout
+curtains.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -54,18 +54,17 @@ Please wait a moment.");
     MsgDisp("Male Student","Excuse meー.
 Do you have any cardboard～?");
     MsgDisp("主人公","Yeーs, it's all gathered behind the gym.
-Please write a note of the quantity
-you need, your class, and your name.");
+Please write a note of the quantity you
+need, your class, and your name.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P830700001_07_030");
-    MsgDisp("Mikage","｛主人公｝,
-You're busy.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-Did you want something?");
+    MsgDisp("Mikage","｛主人公｝, You're busy.");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! Did you want
+something?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -76,14 +75,14 @@ I came to talk to Miss Diligent.");
 But I'm a bit busy right no——");
     VoicePlay("P830700001_46_010");
     MsgDisp("School Girl A","Um, excuse me.
-There's not enough blackout
-curtains in our class.");
+There's not enough blackout curtains in
+our class.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P830700001_07_050");
-    MsgDisp("Mikage","If I had you all to myself,
-everyone would be angry with me.
+    MsgDisp("Mikage","If I had you all to myself, everyone would
+be angry with me.
 I'll cheer you on from behind the scenes.");
     ChEye(7,0);
     ChMouth(7,0);

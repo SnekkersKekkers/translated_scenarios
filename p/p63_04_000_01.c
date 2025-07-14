@@ -17,15 +17,13 @@ well-received...)");
     ChLayout(1);
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Welcome～1");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome～1");
     ChEye(4,2);
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("P630400001_04_010");
-    MsgDisp("Nanatsumori","Do you eat the herb tea and
-vegetables together?
-Here.");
+    MsgDisp("Nanatsumori","Do you eat the herb tea and vegetables
+together? Here.");
     MsgDisp("主人公","Nope. You drink the herb tea here though,
 but the Gardening Club's organic
 vegetables are sold directly.");
@@ -34,8 +32,8 @@ vegetables are sold directly.");
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_020");
     MsgDisp("Nanatsumori","Ah, so that's how it is.");
-    MsgDisp("主人公","They're picked in the 
-morning so, it's fresh.");
+    MsgDisp("主人公","They're picked in the morning so, it's
+fresh.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("P630400001_04_030");
@@ -55,11 +53,10 @@ well-received...)");
     VoiceEVSPlay(4);
     VoicePlay("P630400001_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Welcome～!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome～!");
     VoicePlay("P630400001_04_050");
-    MsgDisp("Nanatsumori","Yeah.
-Can you eat vegetables here too this year?");
+    MsgDisp("Nanatsumori","Yeah. Can you eat vegetables here too this
+year?");
     MsgDisp("主人公","Nope. You can drink herb tea though. The
 vegetables are sold directly. They're
 vegetables organically grown by the
@@ -68,11 +65,10 @@ Gardening Club.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_060");
-    MsgDisp("Nanatsumori","Eeh.
-Looking at it from this distance, 
-the colour is good.");
-    MsgDisp("主人公","They're picked in the morning,
-so they're very fresh.");
+    MsgDisp("Nanatsumori","Eeh. Looking at it from this distance, the
+colour is good.");
+    MsgDisp("主人公","They're picked in the morning, so they're
+very fresh.");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,1,1);
@@ -83,8 +79,7 @@ so they're very fresh.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_080");
-    MsgDisp("Nanatsumori","ＯＫ.
-Then, I'll have some tea first then 
+    MsgDisp("Nanatsumori","ＯＫ. Then, I'll have some tea first then
 I'll have a look over there.");
     MsgDisp("主人公","Yes, then please come in!");
     break ;

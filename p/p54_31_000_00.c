@@ -4,8 +4,8 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm glad!
-My first performance seems 
-to be a huge success!)");
+My first performance seems to be a huge
+success!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(31,254,4,0,0,#1,#1,0,0);
@@ -18,8 +18,8 @@ ChMouth(31,2);
 ChMotion(31,2);
 VoicePlay("P543100000_31_010");
 MsgDisp("Goro","It was the best.
-I'm familiar with this song, 
-but it's like I've seen a new world!");
+I'm familiar with this song, but it's like
+I've seen a new world!");
 MsgDisp("主人公","(Yay! This is the result of practicing
 regularly!)");
 MsgClose();

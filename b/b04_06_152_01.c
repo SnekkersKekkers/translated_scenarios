@@ -8,7 +8,7 @@ ChMotion(6,0,1);
 VoicePlay("B040615201_06_000");
 MsgDisp("Himuro","Are you thirsty?
 Shall we get something to drink?");
-MsgSel("Let's go buy it together.","I want to concentrate ","Is it｛氷室＊＊｝'s treat?'");
+MsgSel("Let's go buy it together.","I want to concentrate ","Is it ｛氷室＊＊｝'s treat?'");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040615201_06_010");
-    MsgDisp("Himuro","Yeah, let's do that. 
+    MsgDisp("Himuro","Yeah, let's do that.
 We should probably take a break soon.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -28,8 +28,8 @@ We should probably take a break soon.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040615201_06_020");
-    MsgDisp("Himuro","Hmm, isn't it important to take a 
-break every once in a while?");
+    MsgDisp("Himuro","Hmm, isn't it important to take a break
+every once in a while?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

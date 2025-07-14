@@ -9,7 +9,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1,1);
 VoicePlay("B060700004_07_000");
-MsgDisp("Mikage","Even though you finally had a day off,
-was this really okay?");
+MsgDisp("Mikage","Even though you finally had a day off, was
+this really okay?");
 MsgClose();
 ScrFadeOut(0,0);

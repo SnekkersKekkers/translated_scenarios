@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040208400_02_010");
     MsgDisp("Sassa","I get it.
-The mushrooms growing around 
-here look delicious too.");
+The mushrooms growing around here look
+delicious too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

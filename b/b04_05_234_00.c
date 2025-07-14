@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040523400_05_010");
-    MsgDisp("Hiiragi","No no, 
-The kids around us were surprised too.");
+    MsgDisp("Hiiragi","No no, The kids around us were surprised
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,8 +25,8 @@ The kids around us were surprised too.");
     ChEye(5,3);
     ChMouth(5,3);
     VoicePlay("B040523400_05_020");
-    MsgDisp("Hiiragi","We were just like towels 
-in the washing machine.");
+    MsgDisp("Hiiragi","We were just like towels in the washing
+machine.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

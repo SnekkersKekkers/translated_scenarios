@@ -35,9 +35,8 @@ It's about time for a photo opp.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040423600_04_020");
-    MsgDisp("Nanatsumori","Yeah.
-It's kinda like... I feel like
-I'm flying in the sky like this?");
+    MsgDisp("Nanatsumori","Yeah. It's kinda like... I feel like I'm
+flying in the sky like this?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -23,15 +23,16 @@ ChMotion(1,1);
 VoicePlay("G110100100_01_000");
 MsgDisp("Kazama","Phew......I talked this much.
 It's this time already.");
-MsgDisp("主人公","It's gotten so late, huh? ......hey, but
-didn't you have business with me?");
+MsgDisp("主人公","It's gotten so late, huh?
+......hey, but didn't you have business
+with me?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100100_01_010");
-MsgDisp("Kazama","Ah, that's right huh. It's completely
-trivial, it's just about the school
-cafeteria.");
+MsgDisp("Kazama","Ah, that's right huh.
+It's completely trivial, it's just about
+the school cafeteria.");
 MsgDisp("主人公","Cafeteria?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -57,14 +58,14 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100100_01_050");
 MsgDisp("Kazama","That's why I said it was trivial.
-Or is it bad to call you for 
-something trivial?");
+Or is it bad to call you for something
+trivial?");
 MsgDisp("主人公","Hehe, that's not true.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100100_01_060");
-MsgDisp("Kazama","Then, I'll invite you to walk together 
+MsgDisp("Kazama","Then, I'll invite you to walk together
 again when our menus overlap.");
 BGMStop();
 MsgClose();

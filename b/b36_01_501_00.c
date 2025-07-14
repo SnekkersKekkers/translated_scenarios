@@ -22,8 +22,8 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("B360150100_01_010");
-MsgDisp("Kazama","Hey, we used to play here together
-a long time ago, right?");
+MsgDisp("Kazama","Hey, we used to play here together a long
+time ago, right?");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(1,2);
 ChMouth(1,3);
@@ -44,9 +44,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B360150100_01_040");
-MsgDisp("Kazama","Since I've been away, I've
-started to feel nostalgic for
-this place and the memories I have here.");
+MsgDisp("Kazama","Since I've been away, I've started to feel
+nostalgic for this place and the memories
+I have here.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -60,45 +60,47 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360150100_01_060");
-MsgDisp("Kazama","You've only started to think
-about it like this recently.");
-MsgDisp("主人公","Hehe. There are things I still remember, though?");
+MsgDisp("Kazama","You've only started to think about it like
+this recently.");
+MsgDisp("主人公","Hehe. There are things I still remember,
+though?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360150100_01_070");
-MsgDisp("Kazama","Yeah.
-It's enough to remember just the important things.");
+MsgDisp("Kazama","Yeah. It's enough to remember just the
+important things.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360150100_01_080");
-MsgDisp("Kazama","When I walk through town with you, it all starts
-coming back to me.");
+MsgDisp("Kazama","When I walk through town with you, it all
+starts coming back to me.");
 MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B360150100_01_090");
-MsgDisp("Kazama","But, it's impossible when 
-we're with the others, right?");
+MsgDisp("Kazama","But, it's impossible when we're with the
+others, right?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B360150100_01_100");
-MsgDisp("Kazama","That's why, it's not the place that's important. 
+MsgDisp("Kazama","That's why, it's not the place that's
+important.
 Being alone with you is.");
-MsgDisp("主人公","From now on too, I want to go to lots of different places 
-in Habataki City with you.");
+MsgDisp("主人公","From now on too, I want to go to lots of
+different places in Habataki City with
+you.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360150100_01_110");
-MsgDisp("Kazama","Right.
-...Well, maybe I'll invite those guys
-along once in about ten times.");
+MsgDisp("Kazama","Right. ...Well, maybe I'll invite those
+guys along once in about ten times.");
 MsgDisp("主人公","(Hehe, they'd probably be mad if they
 heard that?)");
 BGMStop();

@@ -13,16 +13,15 @@ VoicePlay("P640200003_02_010");
 MsgDisp("Sassa","Have you tried
 drinking this herb tea?");
 MsgDisp("主人公","Ah, no.
-Because I was hectic 
-over setting up the shop....");
+Because I was hectic over setting up the
+shop....");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P640200003_02_020");
-MsgDisp("Sassa","I thought so.
-In a way I'm relieved.
-It would be troubling if you
-thought this was delicious.");
+MsgDisp("Sassa","I thought so. In a way I'm relieved. It
+would be troubling if you thought this was
+delicious.");
 MsgDisp("主人公","Umm... was it not delicious?");
 ChEye(2,2);
 ChMouth(2,4);
@@ -38,8 +37,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P640200003_02_040");
 MsgDisp("Sassa","Ah, no, no.
-I can't let you drink 
-something like that.");
+I can't let you drink something like that.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);

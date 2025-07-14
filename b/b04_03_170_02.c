@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040317002_03_010");
-    MsgDisp("Honda","Gotcha. The scoring system sounds 
+    MsgDisp("Honda","Gotcha. The scoring system sounds
 interesting. Let's examine that first.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -27,7 +27,7 @@ interesting. Let's examine that first.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040317002_03_020");
-    MsgDisp("Honda","It'd be a pain if I scored too many 100s, 
+    MsgDisp("Honda","It'd be a pain if I scored too many 100s,
 no? We wouldn't be able to leave if I won
 that many free hours.");
     MsgDispSksp(1,0);
@@ -83,8 +83,9 @@ Any requests?");
         SEPlay("EV_SE_768",0,0.6);
         ScrFadeIn(0);
         VoicePlay("B040317002_03_060");
-        MsgDisp("Honda","No matter how many times I try... I can't 
-do it. Alright, next song.");
+        MsgDisp("Honda","No matter how many times I try...
+I can't do it.
+Alright, next song.");
         MsgDisp("主人公","Um, how about we take a short break?");
         ChEye(3,1);
         ChMouth(3,4);
@@ -96,8 +97,8 @@ I absolutely won't do.");
         ChMotion(3,4);
         VoicePlay("B040317002_03_080");
         MsgDisp("Honda","Your wishes mean more to me than anything
-else. I'm not gonna stop till I get that
-100!");
+else.
+I'm not gonna stop till I get that 100!");
         BGMPlay("BGM_KARAOKE_JPOP",0.01,0.8);
         Wait(30,1);
         MsgDisp("主人公","Really!?");

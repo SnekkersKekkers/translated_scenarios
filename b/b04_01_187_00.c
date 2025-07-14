@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118700_01_000");
-    MsgDisp("Kazama","Well, the ability to enjoy 
-anything is a talent in itself.");
+    MsgDisp("Kazama","Well, the ability to enjoy anything is a
+talent in itself.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,7 @@ it is such a pain.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040118700_01_020");
-    MsgDisp("Kazama","I'm glad we 
-value the same things.
+    MsgDisp("Kazama","I'm glad we value the same things.
 That's my oly relief.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -22,22 +22,21 @@ VoicePlay("F020800005_08_010");
 MsgDisp("Shirahane","That might be it...");
 ChEye(8,2);
 VoicePlay("F020800005_08_020");
-MsgDisp("Shirahane","At this rate, a perfect
-score is goin' to escape me again....");
+MsgDisp("Shirahane","At this rate, a perfect score is goin' to
+escape me again....");
 MsgDisp("主人公","Eh∋");
 ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,0,1);
 VoicePlay("F020800005_08_030");
-MsgDisp("Shirahane","No matter how much I study for
-subjects I'm not good at, I always 
-end up fallin' for trick questions...");
+MsgDisp("Shirahane","No matter how much I study for subjects
+I'm not good at, I always end up fallin'
+for trick questions...");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("F020800005_08_040");
 MsgDisp("Shirahane","How can I see
 through the trap?");
-MsgDisp("主人公","(A perfect score...
-escapes him again?
-｛大地＊＊｝...)");
+MsgDisp("主人公","(A perfect score... escapes him again?
+｛大地＊＊｝... )");

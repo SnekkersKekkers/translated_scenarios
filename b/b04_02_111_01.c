@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040211101_02_000");
-MsgDisp("Sassa","Figure skaters sense 
-of balance is amazing, huh?
+MsgDisp("Sassa","Figure skaters sense of balance is
+amazing, huh?
 I wonder how they train");
 MsgSel("They revolve like a spinning top, huh?","Isn't it natural born talent?","Amusement park coffee cups?");
 switch (MsgSelRsltGet()){
@@ -30,8 +30,8 @@ end. How do they do it?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040211101_02_020");
-    MsgDisp("Sassa","There's no way it's natural 
-for every figure skater.");
+    MsgDisp("Sassa","There's no way it's natural for every
+figure skater.");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -24,17 +24,17 @@ But, as the advisor, I'm super stoked.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("H2A0700000_07_020");
-    MsgDisp("Mikage","Thanks to you guys, I'm in the
-best mood. Thanks.");
+    MsgDisp("Mikage","Thanks to you guys, I'm in the best mood.
+Thanks.");
     MsgDisp("主人公","It's because everyone did
 their best.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("H2A0700000_07_030");
-    MsgDisp("Mikage","Thanks to you, the members were able
-to concentrate on this competition. Sorry
-I put so much pressure on you, manager.");
+    MsgDisp("Mikage","Thanks to you, the members were able to
+concentrate on this competition. Sorry I
+put so much pressure on you, manager.");
     MsgDisp("主人公","No, not at all......");
     ChEye(7,0);
     ChMouth(7,3);
@@ -45,12 +45,11 @@ I put so much pressure on you, manager.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("H2A0700000_07_050");
-    MsgDisp("Mikage","Come on, everyone's looking over
-here like they want to thank you.
+    MsgDisp("Mikage","Come on, everyone's looking over here like
+they want to thank you.
 Go on.");
-    MsgDisp("主人公","(We did it! We won!
-I'm glad I did my best for the club
-with everyone!)");
+    MsgDisp("主人公","(We did it! We won! I'm glad I did my best
+for the club with everyone!)");
     break ;
     default :
     DbgAssert(1);

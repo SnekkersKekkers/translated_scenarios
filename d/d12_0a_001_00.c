@@ -3,9 +3,10 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, a message from ｛氷室＊＊｝......)");
-MsgDisp("主人公","(It says......\"Right now there's a surfing lesson 
-being held at the beach. Ryota-senpai and Nozomu-senpai are
+MsgDisp("主人公","(Ah, a message from ｛氷室＊＊｝...... )");
+MsgDisp("主人公","(It says......\"Right now there's a surfing
+lesson being held at the beach.
+Ryota-senpai and Nozomu-senpai are
 students if you'd like to come watch.\")");
 MsgDisp("主人公","(That sounds kind of interesting?
 Alright, let's go!)");
@@ -50,8 +51,8 @@ Why are you here.");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D120A00100_02_000");
-MsgDisp("Sassa","Yo.
-Are you here for the surfing class too?");
+MsgDisp("Sassa","Yo. Are you here for the surfing class
+too?");
 MsgDisp("主人公","Nope, I'm just here to observe.");
 StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
@@ -69,8 +70,8 @@ MsgDisp("Kazama","Inori, this is your doing, isn't it?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D120A00100_02_010");
-MsgDisp("Sassa","Hey, how much longer should we keep
-this pose?");
+MsgDisp("Sassa","Hey, how much longer should we keep this
+pose?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
@@ -84,12 +85,12 @@ MsgDisp("Sassa","Eh......");
 StlEyeOpenLevel(1,0);
 StlMouth(1,0);
 VoicePlay("D120A00100_01_030");
-MsgDisp("Kazama","All because Sassa had to ask you
-to teach us to surf......");
+MsgDisp("Kazama","All because Sassa had to ask you to teach
+us to surf......");
 StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
-MsgDisp("主人公","(｛氷室＊＊｝ looks like he's having a 
-lot of fun?)");
+MsgDisp("主人公","(｛氷室＊＊｝ looks like he's having a lot
+of fun?)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -106,22 +107,21 @@ ChLayout(4);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("D120A00100_02_030");
-MsgDisp("Sassa","Hey, isn't it about time we go in
-the water......");
+MsgDisp("Sassa","Hey, isn't it about time we go in the
+water......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D120A00100_06_040");
-MsgDisp("Himuro","Don't underestimate the ocean. 
+MsgDisp("Himuro","Don't underestimate the ocean.
 It's still too early for that.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120A00100_01_040");
-MsgDisp("Kazama","Sigh......
-This is the first time I've ever heard
-of surfing on the sand......");
+MsgDisp("Kazama","Sigh...... This is the first time I've
+ever heard of surfing on the sand......");
 MsgDisp("主人公","｛風真＊＊｝, are you okay?");
 ChMouth(1,0);
 ChEyeOpenLevel(1,#1);

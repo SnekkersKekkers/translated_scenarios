@@ -6,8 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("H6G0500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
-What is it?");
+MsgDisp("主人公","Oh, ｛柊＊＊＊｝. What is it?");
 ChEye(5,4);
 VoicePlay("H6G0500000_05_010");
 MsgDisp("Hiiragi","I heard that you won an award in the
@@ -22,8 +21,8 @@ MsgDisp("Hiiragi","Yes, I practically flew here.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("H6G0500000_05_030");
-MsgDisp("Hiiragi","I see that even plants can feel
-the kindness that you possess.");
+MsgDisp("Hiiragi","I see that even plants can feel the
+kindness that you possess.");
 MsgDisp("主人公","That's......");
 ChEye(5,4);
 ChMotion(5,0);

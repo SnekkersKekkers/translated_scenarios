@@ -16,8 +16,8 @@ I wonder what I should wear?)");
     break ;
     case 3:
     VoicePlay("S030400001_04_020");
-    MsgDisp("Nanatsumori","Geez......
-You sound like you're doing well.");
+    MsgDisp("Nanatsumori","Geez...... You sound like you're doing
+well.");
     MsgDisp("主人公","Of course, it's a New Year!");
     VoicePlay("S030400001_04_030");
     MsgDisp("Nanatsumori","Well, that's true.
@@ -28,8 +28,7 @@ home for New Years.");
 I'll come pick you up after I get ready.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!
-A shrine visit with ｛七ツ森＊｝.
+    MsgDisp("主人公","(Yay! A shrine visit with ｛七ツ森＊｝.
 What should I wear......)");
     break ;
     case 4:
@@ -38,16 +37,15 @@ What should I wear......)");
     MsgDisp("Nanatsumori","ＯＫ.");
     MsgDisp("主人公","Yay.");
     VoicePlay("S030400001_04_060");
-    MsgDisp("Nanatsumori","It's cold outside so make sure
-you prepare for that...Ah.");
+    MsgDisp("Nanatsumori","It's cold outside so make sure you prepare
+for that...Ah.");
     MsgDisp("主人公","Huh?");
     VoicePlay("S030400001_04_070");
-    MsgDisp("Nanatsumori","Maybe I'll get to see something
-even more beautiful......");
+    MsgDisp("Nanatsumori","Maybe I'll get to see something even more
+beautiful......");
     VoicePlay("S030400001_04_080");
-    MsgDisp("Nanatsumori","Don't rush to get ready, take
-your time. I'll come pick you up when
-you're done.");
+    MsgDisp("Nanatsumori","Don't rush to get ready, take your time.
+I'll come pick you up when you're done.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Is he expecting something......

@@ -13,8 +13,8 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600001_06_010");
-    MsgDisp("Himuro","I got this chocolate from my
-part-time job, too.
+    MsgDisp("Himuro","I got this chocolate from my part-time
+job, too.
 Is it popular?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -29,9 +29,8 @@ Is it popular?");
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("L040600001_06_020");
-    MsgDisp("Himuro","Thanks.
-Though it looks like you're doing this
-out of obligation.");
+    MsgDisp("Himuro","Thanks. Though it looks like you're doing
+this out of obligation.");
     MsgDisp("主人公","What?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -66,17 +65,17 @@ It's from a shop with a good reputation.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600001_06_060");
-    MsgDisp("Himuro","Ha...... don't worry about it.
-I was the one thinking of nonsense and
-expecting too much.");
+    MsgDisp("Himuro","Ha...... don't worry about it. I was the
+one thinking of nonsense and expecting too
+much.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(Should I have given him
-a better chocolate......?)");
+    MsgDisp("主人公","(Should I have given him a better
+chocolate......?)");
     break ;
     default :
     DbgAssert(1);

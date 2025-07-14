@@ -25,14 +25,14 @@ StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("T040620000_02_000");
 MsgDisp("Sassa","......Yes, this strengthens your core as
-you ride on top of the waves. Sounds fun,
-huh?");
+you ride on top of the waves.
+Sounds fun, huh?");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("T040620000_06_010");
-MsgDisp("Himuro","As expected of Nozomu-senpai. It looks
-like we can move on to practicing in the
-ocean now.");
+MsgDisp("Himuro","As expected of Nozomu-senpai.
+It looks like we can move on to practicing
+in the ocean now.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("T040620000_06_020");
@@ -63,9 +63,9 @@ BGMStop(5);
 ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040620000_06_050");
-MsgDisp("Himuro","Those two couldn't wait to show off 
-their best side to you,
-......and of course, me too.");
+MsgDisp("Himuro","Those two couldn't wait to show off their
+best side to you, ......and of course, me
+too.");
 MsgClose();
 ScrFadeOut(0,0,300);
 Wait(300,0);

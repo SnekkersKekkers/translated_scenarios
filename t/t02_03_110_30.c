@@ -13,7 +13,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020311000_03_220");
-MsgDisp("Honda","Thank you. 
+MsgDisp("Honda","Thank you.
 For accepting my feelings.");
 MsgDisp("主人公","｛本多＊＊｝......");
 ChEye(3,0);
@@ -21,8 +21,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("T020311000_03_230");
 MsgDisp("Honda","But the one thing I can devote my life to
-is you. That's the only thing that won't
-change.");
+is you.
+That's the only thing that won't change.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -31,21 +31,20 @@ VoicePlay("T020311000_03_240");
 MsgDisp("Honda","I'll always wish for your happiness!");
 ChEye(3,0);
 ChEyeOpenLevel(3,10);
-MsgDisp("主人公","｛本多＊＊｝......
-Thank you......");
+MsgDisp("主人公","｛本多＊＊｝...... Thank you......");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020311000_03_250");
-MsgDisp("Honda","Hey, don't make that look.
-Look up. Even if we're not together,
-let's do our best.");
+MsgDisp("Honda","Hey, don't make that look. Look up. Even
+if we're not together, let's do our best.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("T020311000_03_260");
 MsgDisp("Honda","I'll be careful not to bury myself in
-books again! See you.");
+books again!
+See you.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

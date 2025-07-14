@@ -8,8 +8,8 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("N020100002_01_000");
-    MsgDisp("Kazama","｛主人公｝.
-Your grades are quite average, huh.");
+    MsgDisp("Kazama","｛主人公｝. Your grades are quite
+average, huh.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,2);
@@ -17,7 +17,8 @@ Your grades are quite average, huh.");
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100002_01_010");
     MsgDisp("Kazama","Well, you know, this doesn't seem quite
-like you. This isn't funny.");
+like you.
+This isn't funny.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -42,8 +43,8 @@ like you. This isn't funny.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("N020100002_01_050");
-    MsgDisp("Kazama","For better or worse, your charm is in
-your usualness, right?
+    MsgDisp("Kazama","For better or worse, your charm is in your
+usualness, right?
 I'm guessing studying isn't unusual.");
     ChEye(1,4);
     ChMouth(1,2);
@@ -54,8 +55,8 @@ Just think about that.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Sigh. Below average...
-Yeah, I'll do my best.)");
+    MsgDisp("主人公","(Sigh. Below average... Yeah, I'll do my
+best.)");
     break ;
     case 4:
     case 5:
@@ -84,7 +85,8 @@ Be yourself and go for it.");
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100002_01_100");
     MsgDisp("Kazama","You know, the real fun starts when you
-score a bit higher. See you.");
+score a bit higher.
+See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
     MsgDisp("主人公","(Alright, ｛風真＊＊｝ should be surprised

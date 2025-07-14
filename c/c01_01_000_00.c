@@ -5,7 +5,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010100000_01_000");
 MsgDisp("Kazama","You need something?");
-MsgDisp("主人公","｛風真＊＊｝,so, uhm——");
+MsgDisp("主人公","｛風真＊＊｝, so, uhm——");
 VoicePlay("C010100000_01_010");
 MsgDisp("Kazama","I'll hear you out.
 But think carefully about what you say?");

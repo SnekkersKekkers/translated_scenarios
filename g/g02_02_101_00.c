@@ -3,8 +3,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020210100_02_000");
-MsgDisp("Sassa","The fireflies here are really unique. Look
-at their colors and how they light up.");
+MsgDisp("Sassa","The fireflies here are really unique.
+Look at their colors and how they light
+up.");
 MsgDisp("主人公","Yeah.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -22,22 +23,22 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210100_02_030");
-MsgDisp("Sassa","Ryota can do anything,
-It's like he's superman......");
+MsgDisp("Sassa","Ryota can do anything, It's like he's
+superman......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210100_02_040");
 MsgDisp("Sassa","And Inori......
-I can't even figure him out at all. 
+I can't even figure him out at all.
 He's a funny guy.");
 MsgDisp("主人公","Hehe.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210100_02_050");
-MsgDisp("Sassa","Compared to them, 
-I'm just the serious one, right?");
+MsgDisp("Sassa","Compared to them, I'm just the serious
+one, right?");
 MsgDisp("主人公","｛颯砂＊＊｝ is also a funny superman.");
 ChEye(2,0);
 ChMouth(2,2);
@@ -50,15 +51,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210100_02_070");
-MsgDisp("Sassa","Well, that's fine. But I just think of
-myself as a super serious, straight-laced
-guy.");
+MsgDisp("Sassa","Well, that's fine.
+But I just think of myself as a super
+serious, straight-laced guy.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020210100_02_080");
-MsgDisp("Sassa","So I need to keep improving myself
-, so I don't fall behind those two. 
+MsgDisp("Sassa","So I need to keep improving myself , so I
+don't fall behind those two.
 And so you don't get bored of me!");
 MsgDisp("主人公","I don't think that'll happen though......");
 ChEye(2,2);

@@ -40,9 +40,9 @@ you've already blown us all away.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200002_02_040");
-    MsgDisp("Sassa","You look so good that I don't care
-about all the things I was
-going to talk to you about.");
+    MsgDisp("Sassa","You look so good that I don't care about
+all the things I was going to talk to you
+about.");
     MsgDisp("主人公","Thank you...");
     SEPlay("EV_SE_038");
     SEWait();
@@ -52,9 +52,9 @@ going to talk to you about.");
     ChEyeOpenLevel(2,0);
     VoicePlay("P730200002_02_050");
     MsgDisp("Sassa","Don't worry about anything.
-If you show up on stage like that,
-smiling warmly, you've already won.");
-    MsgDisp("主人公","(Thak you for helping me gain confidence, 
+If you show up on stage like that, smiling
+warmly, you've already won.");
+    MsgDisp("主人公","(Thak you for helping me gain confidence,
 ｛颯砂＊＊｝!
 Alrーiight, let's do our best!)");
     MsgClose();
@@ -74,21 +74,21 @@ make it pretty but...)");
     ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoicePlay("P730200002_02_060");
     MsgDisp("Sassa","Is that a bride?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-This year we're doing wedding dresses.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. This year we're doing
+wedding dresses.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
     VoicePlay("P730200002_02_070");
-    MsgDisp("Sassa","You've already won overall, 
-it's been decided.");
+    MsgDisp("Sassa","You've already won overall, it's been
+decided.");
     MsgDisp("主人公","Won overall?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200002_02_080");
-    MsgDisp("Sassa","Sorry to everyone else. 
-but when you're this lovely and cute, 
+    MsgDisp("Sassa","Sorry to everyone else.
+but when you're this lovely and cute,
 you're already overall victorious.");
     MsgDisp("主人公","It's not a matter of win or lose?
 But, thank you.");
@@ -105,8 +105,8 @@ confidence. Thank you. I'm off then.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P730200002_02_100");
-    MsgDisp("Sassa","Yeah, go with the intention 
-of getting a winning run.");
+    MsgDisp("Sassa","Yeah, go with the intention of getting a
+winning run.");
     MsgDisp("主人公","(Hehe, I think I feel better now.
 Alーright, let;s do our best!)");
     MsgClose();

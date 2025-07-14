@@ -46,8 +46,8 @@ my team is......");
     VoiceEVSPlay(6);
     VoicePlay("O040601000_06_040");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Could it be that we're on the same team?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Could it be that we're on
+the same team?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

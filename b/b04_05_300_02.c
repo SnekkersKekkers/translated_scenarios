@@ -48,8 +48,8 @@ I do it myself.");
         ChMotion(5,4);
         VoicePlay("B040530002_05_030");
         MsgDisp("Hiiragi","No no.
-It would be a waste for someone 
-to do the cleaning.");
+It would be a waste for someone to do the
+cleaning.");
         MsgDisp("主人公","A waste?");
         ChEye(5,4);
         VoicePlay("B040530002_05_040");
@@ -67,30 +67,29 @@ to do the cleaning.");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040530002_05_070");
-        MsgDisp("Hiiragi","Yes, that's it. I like tidying up,
-especially when things are really messy.");
+        MsgDisp("Hiiragi","Yes, that's it.
+I like tidying up, especially when things
+are really messy.");
         MsgDisp("主人公","Hehe, that's right.");
         ChEye(5,2);
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040530002_05_080");
-        MsgDisp("Hiiragi","Yes, 
-As reality is filled with problems 
+        MsgDisp("Hiiragi","Yes, As reality is filled with problems
 you cannot tidy away...");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040530002_05_090");
-        MsgDisp("Hiiragi","The more you clean,
-the tidier it becomes.
+        MsgDisp("Hiiragi","The more you clean, the tidier it becomes.
 It feels really good.");
-        MsgDisp("主人公","Umm, are you talking
-about the theater troupe?");
+        MsgDisp("主人公","Umm, are you talking about the theater
+troupe?");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040530002_05_100");
         MsgDisp("Hiiragi","Partly, but there's also something else
-lately, a special presence I 
-have no idea how to handle.");
+lately, a special presence I have no idea
+how to handle.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040530002_05_110");
@@ -108,8 +107,8 @@ can simply be put away with a lint roller.");
         ChMotion(5,0);
         VoicePlay("B040530002_05_130");
         MsgDisp("Hiiragi","A day will come where I'll have to settle
-things with you properly. Until then, I'll
-keep working hard.");
+things with you properly.
+Until then, I'll keep working hard.");
         MsgDisp("主人公","(Settle things?
 What is he planning to do with me...?)");
         break ;

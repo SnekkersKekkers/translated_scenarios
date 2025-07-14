@@ -6,8 +6,7 @@ ChOpen(6,254,5,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D100610000_06_000");
 MsgDisp("Himuro","Pfft.");
-MsgDisp("主人公","Eh, ｛氷室＊＊｝.
-What's wrong?");
+MsgDisp("主人公","Eh, ｛氷室＊＊｝. What's wrong?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

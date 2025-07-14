@@ -21,7 +21,8 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("S060500002_05_020");
-    MsgDisp("Hiiragi","Well, let's go. Watch your step.");
+    MsgDisp("Hiiragi","Well, let's go.
+Watch your step.");
     break ;
     default :
     DbgAssert(1);

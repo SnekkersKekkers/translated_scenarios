@@ -9,8 +9,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630100_06_010");
-MsgDisp("Himuro","You surround yourself with many
-friends and a variety of people.");
+MsgDisp("Himuro","You surround yourself with many friends
+and a variety of people.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -38,30 +38,29 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020630100_06_050");
 MsgDisp("Himuro","That's not what I'm saying.
-I just respect that you get along
-with all kinds of people.");
+I just respect that you get along with all
+kinds of people.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630100_06_060");
 MsgDisp("Himuro","Generally speaking, if you poorly make
-friends of the opposite sex, it can
-go wrong. But you're doing great.");
+friends of the opposite sex, it can go
+wrong. But you're doing great.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630100_06_070");
-MsgDisp("Himuro","... Nevermind, forget what I said.
-I'm not sure if it's working 
-that well.");
+MsgDisp("Himuro","... Nevermind, forget what I said. I'm not
+sure if it's working that well.");
 MsgDisp("主人公","Huh∋");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630100_06_080");
-MsgDisp("Himuro","Maybe not being self-aware is the
-key to not causing trouble.");
+MsgDisp("Himuro","Maybe not being self-aware is the key to
+not causing trouble.");
 MsgDisp("主人公","Ummm...?");
 ChEye(6,0);
 ChMouth(6,4);

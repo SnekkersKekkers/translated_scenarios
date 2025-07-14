@@ -18,8 +18,8 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,2,1);
 VoicePlay("T020940030_09_020");
-MsgDisp("Kuya","I was in awe of your kindness, 
-but it wasn't directed at just me.");
+MsgDisp("Kuya","I was in awe of your kindness, but it
+wasn't directed at just me.");
 ChEye(9,4);
 ChMouth(9,4);
 ChEyeOpenLevel(9,0);
@@ -31,9 +31,9 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("T020940030_09_040");
-MsgDisp("Kuya","Thank you for everything. I feel like I've
-changed, even just a little, thanks to
-you.");
+MsgDisp("Kuya","Thank you for everything.
+I feel like I've changed, even just a
+little, thanks to you.");
 ChEye(9,4);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -52,9 +52,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("T020940030_09_070");
-MsgDisp("Kuya","But, I would be happy if you would smile 
-like you have until now
-......okay?");
+MsgDisp("Kuya","But, I would be happy if you would smile
+like you have until now ......okay?");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

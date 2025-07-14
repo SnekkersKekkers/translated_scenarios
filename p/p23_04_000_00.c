@@ -15,17 +15,17 @@ switch (ChPrmGet(4,6)){
 performance...... I have to make sure I
 don't forget my lines.)");
     VoicePlay("P230400000_04_000");
-    MsgDisp("Nanatsumori?","What are we going to do if you're scared 
+    MsgDisp("Nanatsumori?","What are we going to do if you're scared
 even before the performance begins?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     MsgClose();
     ChNanaType(1);
     ChOpen(4,38,0,2,3,#1,#1,0,0,0,60);
-    MsgDisp("主人公","｛七ツ森＊｝...Eh-∋");
-    MsgDisp("主人公","｛七ツ森＊｝, haven't you even done your
-beast makeup yet? The show is about to
-start!");
+    MsgDisp("主人公","｛七ツ森＊｝... Eh-∋");
+    MsgDisp("主人公","｛七ツ森＊｝, haven't you even done
+your beast makeup yet?
+The show is about to start!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -41,8 +41,8 @@ cool...)");
     ChMotion(4,0,1);
     VoicePlay("P230400000_04_020");
     MsgDisp("Nanatsumori","Hey hey.
-Save your admiration for this look for
-the last scene, okay?");
+Save your admiration for this look for the
+last scene, okay?");
     VoicePlay("P230400000_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin
 shortly.");

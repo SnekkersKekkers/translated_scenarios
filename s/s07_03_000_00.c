@@ -12,10 +12,10 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoicePlay("S070300000_03_000");
     MsgDisp("Honda","It's packed.
-Exactly how a New Year's shrine visit 
+Exactly how a New Year's shrine visit
 should be.");
-    MsgDisp("主人公","Yeah.
-Everyone looks like they're having fun.");
+    MsgDisp("主人公","Yeah. Everyone looks like they're having
+fun.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -41,10 +41,9 @@ good health. Hm, and also for my animals.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S070300000_03_040");
-    MsgDisp("Honda","Hm, yeah.
-If I take too long the next in line will
-have to wait. I'll just combine it and
-say \"Everyone's Health\" instead.");
+    MsgDisp("Honda","Hm, yeah. If I take too long the next in
+line will have to wait. I'll just combine
+it and say \"Everyone's Health\" instead.");
     MsgDisp("主人公","Hehe!");
     break ;
     case 4:
@@ -53,32 +52,32 @@ say \"Everyone's Health\" instead.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S070300000_03_050");
-    MsgDisp("Honda","This is exactly what I expected from a
-New Year's visit!
+    MsgDisp("Honda","This is exactly what I expected from a New
+Year's visit!
 It's not exciting if it's not crowded.");
     MsgDisp("主人公","Hehe, yeah.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("S070300000_03_060");
-    MsgDisp("Honda","Since we've got some time before we can 
-pray, I'll try to think of something 
-to wish for.");
+    MsgDisp("Honda","Since we've got some time before we can
+pray, I'll try to think of something to
+wish for.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("S070300000_03_070");
     MsgDisp("Honda","The number one would be your health.
-Next is for me, my family, 
-fish and insects......");
+Next is for me, my family, fish and
+insects......");
     MsgDisp("主人公","You'll make the next person in line wait.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,5,1);
     VoicePlay("S070300000_03_080");
     MsgDisp("Honda","Ah, you're right.
-Okay, I'll combine it all and wish 
-for the health of my favorite things.");
+Okay, I'll combine it all and wish for the
+health of my favorite things.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);

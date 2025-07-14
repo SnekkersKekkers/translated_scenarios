@@ -20,8 +20,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711020_07_020");
-MsgDisp("Mikage","No, it's okay. Now I can really
-graduate.......");
+MsgDisp("Mikage","No, it's okay.
+Now I can really graduate.......");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,1);

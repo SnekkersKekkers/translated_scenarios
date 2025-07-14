@@ -7,15 +7,13 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("H380400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","｛七ツ森＊｝!
-You came to cheer me on?");
+    MsgDisp("主人公","｛七ツ森＊｝! You came to cheer me on?");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("H380400000_04_010");
-    MsgDisp("Nanatsumori","Yeah.
-Nice, your gi looks even
-better than usual today.");
+    MsgDisp("Nanatsumori","Yeah. Nice, your gi looks even better than
+usual today.");
     MsgDisp("主人公","Hehe, it's because I'm all fired up.");
     ChEye(4,0);
     ChMouth(4,3);
@@ -36,8 +34,7 @@ I'll do my best!");
     VoiceEVSPlay(4);
     VoicePlay("H380400000_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝!
-You came to cheer me on?");
+    MsgDisp("主人公","｛七ツ森＊｝! You came to cheer me on?");
     VoicePlay("H380400000_04_050");
     MsgDisp("Nanatsumori","Yeah.");
     ChEye(4,2);
@@ -56,8 +53,8 @@ just a little......");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("H380400000_04_080");
-    MsgDisp("Nanatsumori","Ah...... yeah, I see.
-Sorry, that was uncalled for.");
+    MsgDisp("Nanatsumori","Ah...... yeah, I see. Sorry, that was
+uncalled for.");
     MsgDisp("主人公","That's not true!
 Thank you for worrying about me,
 ｛七ツ森＊｝.");
@@ -65,11 +62,10 @@ Thank you for worrying about me,
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("H380400000_04_090");
-    MsgDisp("Nanatsumori","Yeah. I'll be cheering for you
-with everything I have.
-......In my heart.");
-    MsgDisp("主人公","(｛七ツ森＊｝......
-Alright, I have to do my best!)");
+    MsgDisp("Nanatsumori","Yeah. I'll be cheering for you with
+everything I have. ......In my heart.");
+    MsgDisp("主人公","(｛七ツ森＊｝...... Alright, I have to
+do my best!)");
     break ;
     default :
     DbgAssert(1);

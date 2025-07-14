@@ -34,7 +34,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoiceEVSPlay(1);
 VoicePlay("Q120B00000_01_010");
-MsgDisp("Kazama","｛主人公｝, could you enjoy it properly?");
+MsgDisp("Kazama","｛主人公｝, could you enjoy it
+properly?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -63,9 +64,9 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q120B00000_01_020");
-MsgDisp("Kazama","That's right.
-The report is waiting. Nanatsumori, you 
-can't just give reports of castellas.");
+MsgDisp("Kazama","That's right. The report is waiting.
+Nanatsumori, you can't just give reports
+of castellas.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -109,8 +110,8 @@ ChMotion(1,0);
 VoicePlay("Q120B00000_01_050");
 MsgDisp("Kazama","Well, that's it for today.
 See you at school.");
-MsgDisp("主人公","(I really made a lot of good memories 
-with these four of us.)");
+MsgDisp("主人公","(I really made a lot of good memories with
+these four of us.)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

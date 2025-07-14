@@ -20,8 +20,8 @@ switch (ChPrmGet(6,6)){
     MsgDisp("Himuro","I couldn't help but admire you.
 Congrats on winning.");
     MsgDisp("主人公","(I did it!
-I'm really glad I stayed in the
-judo club!)");
+I'm really glad I stayed in the judo
+club!)");
     break ;
     case 4:
     case 5:
@@ -31,8 +31,7 @@ judo club!)");
     ScrFadeIn(0);
     VoicePlay("H3A0600000_06_020");
     MsgDisp("Himuro","Strong......");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-You were watching?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! You were watching?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -44,8 +43,8 @@ It was brilliant.");
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("H3A0600000_06_040");
-    MsgDisp("Himuro","......Maybe I should work out
-a little more too.");
+    MsgDisp("Himuro","......Maybe I should work out a little
+more too.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -59,8 +58,8 @@ a little more too.");
     VoicePlay("H3A0600000_06_060");
     MsgDisp("Himuro","Anyways, congrats on winning.");
     MsgDisp("主人公","(I did it!
-I'm really glad I stayed in the
-judo club!)");
+I'm really glad I stayed in the judo
+club!)");
     break ;
     default :
     DbgAssert(1);

@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040311100_03_010");
-        MsgDisp("Honda","Niceー!
-I wish I could skate like youー.
-I admire you.");
+        MsgDisp("Honda","Niceー! I wish I could skate like youー. I
+admire you.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -38,8 +37,8 @@ I admire you.");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040311100_03_030");
-    MsgDisp("Honda","You're on the right level
-to skate with me.");
+    MsgDisp("Honda","You're on the right level to skate with
+me.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -50,8 +49,7 @@ to skate with me.");
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("B040311100_03_040");
-    MsgDisp("Honda","Eh? Is that so.
-I was hoping that you
+    MsgDisp("Honda","Eh? Is that so. I was hoping that you
 could teach me thoughー.");
     MsgDateResultDisp();
     break ;

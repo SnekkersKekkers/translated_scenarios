@@ -15,8 +15,7 @@ I'm going with Michiru-san, huh.");
     ScrFadeIn(0);
     VoicePlay("W080200000_02_010");
     MsgDisp("Sassa","I'm going with Michiru-san, huh.
-I'm looking forward to the roller 
-coaster!");
+I'm looking forward to the roller coaster!");
     break ;
     case 4:
     case 5:

@@ -10,9 +10,9 @@ ChMotion(4,1);
 ChEyeOpenLevel(4,9);
 ScrFadeIn(0);
 VoicePlay("B040403302_04_000");
-MsgDisp("Nanatsumori","Hmmー......
-as I get used to looking at them, 
-these guys start to seem kinda cute...");
+MsgDisp("Nanatsumori","Hmmー...... as I get used to looking at
+them, these guys start to seem kinda
+cute...");
 ChEyeOpenLevel(4,#1);
 MsgSel("Yeah, they're creepy cute▼","Hmmm....","They're not cute at all");
 switch (MsgSelRsltGet()){
@@ -22,10 +22,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040403302_04_010");
-    MsgDisp("Nanatsumori","Is that a compliment? 
-Let's look at the merch section later.
-Maybe they'll have some deep sea fish
-items.");
+    MsgDisp("Nanatsumori","Is that a compliment? Let's look at the
+merch section later. Maybe they'll have
+some deep sea fish items.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +35,9 @@ items.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040403302_04_020");
-    MsgDisp("Nanatsumori","Is it no good? Well, it might 
-be too much for girls, I guess.");
+    MsgDisp("Nanatsumori","Is it no good?
+Well, it might be too much for girls, I
+guess.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -72,17 +72,15 @@ That's unfortunate.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040403302_04_050");
-        MsgDisp("Nanatsumori","That's not it.
-I prefer it when someone gives me their
-opinion clearly, rather than being
-overly considerate.");
+        MsgDisp("Nanatsumori","That's not it. I prefer it when someone
+gives me their opinion clearly, rather
+than being overly considerate.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040403302_04_060");
-        MsgDisp("Nanatsumori","Besides, isn't it because our
-tastes are different that we can 
-respect the other?");
+        MsgDisp("Nanatsumori","Besides, isn't it because our tastes are
+different that we can respect the other?");
         MsgDisp("主人公","Yeah, that's right.");
         ChEye(4,4);
         ChMouth(4,4);
@@ -95,9 +93,8 @@ I want to like the same things.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040403302_04_080");
-        MsgDisp("Nanatsumori","Isn't it super fun to have
-someone you can share your empathy
-and discomfort with? ");
+        MsgDisp("Nanatsumori","Isn't it super fun to have someone you can
+share your empathy and discomfort with?");
         MsgDisp("主人公","Yep!");
         ChEye(4,4);
         ChMouth(4,3);

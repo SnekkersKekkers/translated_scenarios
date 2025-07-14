@@ -16,7 +16,7 @@ When I was just standing there.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("F010500007_05_010");
-    MsgDisp("Hiiragi","It is not a coincidence, but an 
+    MsgDisp("Hiiragi","It is not a coincidence, but an
 opportunity.
 How about we walk together?");
     break ;
@@ -26,16 +26,16 @@ How about we walk together?");
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,5,0,3,#1,#1,0,0);
     VoicePlay("F010500007_05_020");
-    MsgDisp("Hiiragi","Just in time... at last...");
-    MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
-What's wrong?");
+    MsgDisp("Hiiragi","Just in time...
+at last...");
+    MsgDisp("主人公","Oh, ｛柊＊＊＊｝. What's wrong?");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("F010500007_05_030");
-    MsgDisp("Hiiragi","In truth, I wanted to walk with you,
-so I decided to wait for five people
-to come out.");
+    MsgDisp("Hiiragi","In truth, I wanted to walk with you, so I
+decided to wait for five people to come
+out.");
     break ;
     default :
     DbgAssert(1);
@@ -105,8 +105,9 @@ That is an lovely idea.");
         ChMouth(5,0);
         ChMotion(5,0);
         VoicePlay("F010500007_05_080");
-        MsgDisp("Hiiragi","Ah, my apologies. 
-It was a bad time. Another time, then.");
+        MsgDisp("Hiiragi","Ah, my apologies.
+It was a bad time.
+Another time, then.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
@@ -130,8 +131,7 @@ My apologies.");
         ChEyeOpenLevel(5,#1);
         VoicePlay("F010500007_05_100");
         MsgDisp("Hiiragi","Do not be.
-I am sorry that I made you decline,
-too.");
+I am sorry that I made you decline, too.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

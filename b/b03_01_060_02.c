@@ -5,6 +5,6 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030106001_01_000");
-MsgDisp("Kazama","If you walk slowly,
-you might find something interesting.");
+MsgDisp("Kazama","If you walk slowly, you might find
+something interesting.");
 MsgDispSksp(0);

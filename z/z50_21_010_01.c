@@ -6,8 +6,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("Z502101001_21_000");
-MsgDisp("Michiru","Close.
-You're keeping up with trends, but......");
+MsgDisp("Michiru","Close. You're keeping up with trends,
+but......");
 MsgDisp("主人公","Trends......
 You mean, this?");
 ChEye(21,4);

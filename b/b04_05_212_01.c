@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040521201_05_010");
     MsgDisp("Hiiragi","Yes, it looks a little bit discontent.
-I wonder if it has a problem 
-with its hairstyle?");
+I wonder if it has a problem with its
+hairstyle?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -42,8 +42,8 @@ Its hair is peculiar and interesting");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040521201_05_030");
-    MsgDisp("Hiiragi","I felt a bit of affinity to him,
-so I'm happy.");
+    MsgDisp("Hiiragi","I felt a bit of affinity to him, so I'm
+happy.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

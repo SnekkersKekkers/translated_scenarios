@@ -17,8 +17,8 @@ SEPlay("EV_SE_DOOR_011",0,1);
 Wait(80,0);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","(Ugh......
-I guess I'm a bit burnt out......)");
+MsgDisp("主人公","(Ugh...... I guess I'm a bit burnt
+out......)");
 VoicePlay("D010400700_04_000");
 MsgDisp("Nanatsumori?","Come here.");
 MsgDisp("主人公","......Eh?");
@@ -69,8 +69,8 @@ You're doing too much.");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400700_04_060");
-MsgDisp("Nanatsumori","I know I'm a hypocrite for saying this
-but when you feel tired, you should rest
+MsgDisp("Nanatsumori","I know I'm a hypocrite for saying this but
+when you feel tired, you should rest
 properly.");
 MsgDisp("主人公","Y......Yeah.");
 StlEye(4,0);
@@ -81,9 +81,8 @@ MsgDisp("Nanatsumori","That's not a reassuring answer......");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400700_04_080");
-MsgDisp("Nanatsumori","Alright.
-This is an order. Disobedience is not
-permitted. Go straight home today.");
+MsgDisp("Nanatsumori","Alright. This is an order. Disobedience is
+not permitted. Go straight home today.");
 MsgDisp("主人公","Okay......");
 MsgClose();
 ScrFadeOut(0);
@@ -121,8 +120,7 @@ BGMStop();
 ChClose(4,0,30);
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","Ahh～!
-｛七ツ森＊｝ ～∋");
+MsgDisp("主人公","Ahh～! ｛七ツ森＊｝ ～∋");
 SEWait();
 MsgClose();
 PlPrmTblAdd(70);

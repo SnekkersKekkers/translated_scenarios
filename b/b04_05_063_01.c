@@ -26,8 +26,8 @@ It's rough in the sea too.");
     ChMotion(5,3);
     VoicePlay("B040506301_05_020");
     MsgDisp("Hiiragi","Yes, an old letter from abroad.
-That seems like it would be the 
-beginning of a wonderful story.");
+That seems like it would be the beginning
+of a wonderful story.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030521002_05_000");
-    MsgDisp("Hiiragi","They may have some new products
-in stock.
+    MsgDisp("Hiiragi","They may have some new products in stock.
 Let's check it out!");
     MsgDispSksp(0);
     break ;

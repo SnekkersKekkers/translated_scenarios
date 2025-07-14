@@ -22,11 +22,11 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B140600000_06_020");
-MsgDisp("Himuro","The way we've been together 
-for two days straight.");
+MsgDisp("Himuro","The way we've been together for two days
+straight.");
 MsgDisp("主人公","Ah, I see!
-It's because yesterday was 
-the school christmas party.");
+It's because yesterday was the school
+christmas party.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -38,27 +38,26 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B140600000_06_040");
-MsgDisp("Himuro","If that was the case,
-I wouldn't have come.
-Rather... I'm having fun.");
+MsgDisp("Himuro","If that was the case, I wouldn't have
+come. Rather... I'm having fun.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600000_06_050");
-MsgDisp("Himuro","The illuminations are nice, but
-what I really enjoy is seeing you 
-watching and enjoying them.");
+MsgDisp("Himuro","The illuminations are nice, but what I
+really enjoy is seeing you watching and
+enjoying them.");
 MsgDisp("主人公","Umm...thank you.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600000_06_060");
-MsgDisp("Himuro","Having said all that, well, 
-Merry Christmas right?");
+MsgDisp("Himuro","Having said all that, well, Merry
+Christmas right?");
 MsgDisp("主人公","Heheh, yeah!
 ｛氷室＊＊｝, Merry Christmas.");
-MsgDisp("主人公","(I see, both today and yesterday, 
-I've been with ｛氷室＊＊｝.
+MsgDisp("主人公","(I see, both today and yesterday, I've
+been with ｛氷室＊＊｝.
 My heart is racing a bit...)");
 BGMStop();
 MsgClose();

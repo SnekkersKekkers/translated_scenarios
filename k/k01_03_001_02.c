@@ -11,8 +11,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("K010300102_03_010");
-MsgDisp("Honda","You definitely thought about my taste,
-and did your best to choose this.");
+MsgDisp("Honda","You definitely thought about my taste, and
+did your best to choose this.");
 MsgDisp("主人公","Yeah.");
 ChEye(3,3);
 ChMouth(3,3);

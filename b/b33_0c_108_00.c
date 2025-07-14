@@ -22,30 +22,30 @@ ChOpen(7,255,2,2,4,0,#1,0,3);
 ScrFadeIn(0);
 ChMouth(5,3);
 VoicePlay("B330C10800_05_000");
-MsgDisp("Hiiragi","The moment I jump into the sky,
-I feel as though I have been liberated
-from everything.");
+MsgDisp("Hiiragi","The moment I jump into the sky, I feel as
+though I have been liberated from
+everything.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C10800_06_000");
 MsgDisp("Himuro","That's close to how it's like for me too.
-My facial muscles naturally relax 
-just before falling.");
+My facial muscles naturally relax just
+before falling.");
 MsgDisp("主人公","You two are amazing...
 Isn't it scary?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("B330C10800_07_000");
-MsgDisp("Mikage","Yeah, 
-what kind of thought process is that?");
+MsgDisp("Mikage","Yeah, what kind of thought process is
+that?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10800_05_010");
-MsgDisp("Hiiragi","Then, what do you feel the
-moment you jump, Mikage-sensei?");
+MsgDisp("Hiiragi","Then, what do you feel the moment you
+jump, Mikage-sensei?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -62,8 +62,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10800_07_020");
-MsgDisp("Mikage","Right.
-Like, will the safety rope break?
+MsgDisp("Mikage","Right. Like, will the safety rope break?
 Did I even put it on in the first place?
 Stuff like that.");
 MsgDisp("主人公","Y-Yeah...");
@@ -76,9 +75,8 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("B330C10800_07_030");
-MsgDisp("Mikage","Never?
-Then, why is there such a 
-big air cushion there?");
+MsgDisp("Mikage","Never? Then, why is there such a big air
+cushion there?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -128,8 +126,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330C10800_06_060");
-MsgDisp("Himuro","Haha, that's right, just
-try not to miss the mark.");
+MsgDisp("Himuro","Haha, that's right, just try not to miss
+the mark.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

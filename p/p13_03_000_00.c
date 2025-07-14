@@ -18,9 +18,9 @@ gathering...)");
     VoicePlay("P130300000_03_000");
     MsgDisp("Honda","Ah, perhaps......
 Molly, as in Kojiro-sensei's pet cow∋");
-    MsgDisp("主人公","｛本多＊＊｝, welcome!
-Yes, it's ｛御影＊＊｝'s family cow Molly.
-If you like, do you want to try the maze?");
+    MsgDisp("主人公","｛本多＊＊｝, welcome! Yes, it's
+｛御影＊＊｝'s family cow Molly. If
+you like, do you want to try the maze?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -33,11 +33,12 @@ and the maze came out!");
     case 4:
     case 5:
     MsgDisp("主人公","It's a maze～
-If you can reach the finish line, 
-you get to drink freshly squeezed milk～");
+If you can reach the finish line, you get
+to drink freshly squeezed milk～");
     VoicePlay("P130300000_03_020");
     MsgDisp("Honda?","You get to drink cow milk if you clear the
-maze∋ Super interesting∈");
+maze∋
+Super interesting∈");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome.");
@@ -53,10 +54,10 @@ I'm just here to welcome people.");
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("P130300000_03_040");
-    MsgDisp("Honda","Ah, I see. I wanted to go in together, but
-I guess the poster girl can't leave her
-spot.");
-    MsgDisp("主人公","Ah, I did make some traps in the maze, 
+    MsgDisp("Honda","Ah, I see.
+I wanted to go in together, but I guess
+the poster girl can't leave her spot.");
+    MsgDisp("主人公","Ah, I did make some traps in the maze,
 though?");
     ChEye(3,5);
     ChMouth(3,4);

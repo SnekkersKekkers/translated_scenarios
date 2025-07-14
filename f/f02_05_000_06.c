@@ -12,8 +12,7 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500006_05_000");
 MsgDisp("Hiiragi","Yes, it will be a lot of fun.");
-MsgDisp("主人公","｛柊＊＊＊｝,
-don't you like exercise?");
+MsgDisp("主人公","｛柊＊＊＊｝, don't you like exercise?");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F020500006_05_010");
@@ -26,8 +25,7 @@ participate in them often, right?");
 ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("F020500006_05_020");
-MsgDisp("Hiiragi","Yes. But even the times I did
-participate,
+MsgDisp("Hiiragi","Yes. But even the times I did participate,
 I just held up the signs.");
 MsgDisp("主人公","Well then, for the Haba High Sports
 Festival, let's enjoy it as much as we
@@ -43,8 +41,8 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("F020500006_05_040");
 MsgDisp("Hiiragi","Can I ask one question, though?
-What kind of competition is the
-giant ball rolling one?");
+What kind of competition is the giant ball
+rolling one?");
 MsgDisp("主人公","Um, well, it's like the name says.
 You roll a giant ball.");
 ChEye(5,3);

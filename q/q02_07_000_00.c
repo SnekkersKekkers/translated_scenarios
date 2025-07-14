@@ -58,7 +58,8 @@ won't be any others. Are you sure?");
         VoicePlay("Q020700000_07_050");
         MsgDisp("Mikage","Well, let's enjoy.");
         MsgDisp("主人公","(Extracurricular Lesson: Nagasaki
-Chapter...... Hehe, I'm excited!)");
+Chapter......
+Hehe, I'm excited!)");
         break ;
         case 1:
         ChEye(7,2);
@@ -76,9 +77,8 @@ opportunity. Make sure to enjoy it to the
 fullest so you won't regret it in the end.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(Hmmm......
-｛御影＊＊｝ looks lonely...... I feel a
-bit bad.)");
+        MsgDisp("主人公","(Hmmm...... ｛御影＊＊｝ looks
+lonely...... I feel a bit bad.)");
         break ;
         default :
         DbgAssert(0);
@@ -93,14 +93,14 @@ bit bad.)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020700000_07_080");
     MsgDisp("Mikage","Oh, you seem energetic today. ");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
-good morning!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. good morning!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("Q020700000_07_090");
-    MsgDisp("Mikage","Good morning! Do you already have plans
-for the free period?");
+    MsgDisp("Mikage","Good morning!
+Do you already have plans for the free
+period?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -129,17 +129,16 @@ participant, the event will go ahead.");
         ChMotion(7,1);
         VoicePlay("Q020700000_07_130");
         VoiceEVSPlay(7);
-        MsgDisp("Mikage","Okay, roll call!
-｛主人公｝.");
+        MsgDisp("Mikage","Okay, roll call! ｛主人公｝.");
         MsgDisp("主人公","Um... present?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,0);
         VoicePlay("Q020700000_07_140");
         MsgDisp("Mikage","All right, we're off!");
-        MsgDisp("主人公","(Hehe, ｛御影＊＊｝ seems really excited.
-I'm really excited to spend this free
-period together with him!)");
+        MsgDisp("主人公","(Hehe, ｛御影＊＊｝ seems really
+excited. I'm really excited to spend this
+free period together with him!)");
         break ;
         case 1:
         ChEye(7,2);

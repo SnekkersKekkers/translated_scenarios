@@ -19,8 +19,8 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("T020401000_04_280");
 MsgDisp("Nanatsumori","Ah, I see......
-You say cute things
-And your actions are bold......");
+You say cute things And your actions are
+bold......");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -49,8 +49,8 @@ Wait(60,0);
 SEPlay("EV_SE_695");
 Wait(120,0);
 VoicePlay("T020401000_04_310");
-MsgDisp("Nanatsumori","I like you more
-......so, do you understand?");
+MsgDisp("Nanatsumori","I like you more ......so, do you
+understand?");
 Wait(120,0);
 MsgClose();
 ScrFadeOut(0,1,120);

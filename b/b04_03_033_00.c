@@ -14,8 +14,9 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChSet(3,0,1);
     VoicePlay("B040303300_03_010");
-    MsgDisp("Honda","That's how they adapted to their deep-sea 
-environment. I find them unique.");
+    MsgDisp("Honda","That's how they adapted to their deep-sea
+environment.
+I find them unique.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +28,8 @@ environment. I find them unique.");
     ChMotion(3,1);
     VoiceEVSPlay(3);
     VoicePlay("B040303300_03_020");
-    MsgDisp("Honda","｛主人公｝, nice observation! In the deep
-sea at depths of 200 meters or more,
+    MsgDisp("Honda","｛主人公｝, nice observation! In the
+deep sea at depths of 200 meters or more,
 having that mouth is necessary for
 efficiently capturing prey.");
     MsgDispSksp(1,0);
@@ -41,9 +42,9 @@ efficiently capturing prey.");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040303300_03_030");
-    MsgDisp("Honda","Oops, you got caught. That's how they
-lured creatures, and then with that big
-mouth - snap!");
+    MsgDisp("Honda","Oops, you got caught.
+That's how they lured creatures, and then
+with that big mouth - snap!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

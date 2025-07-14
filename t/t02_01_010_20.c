@@ -12,28 +12,29 @@ Thank you for always thinking of me.");
 ChEye(1,4);
 ChMouth(1,2);
 ChCheek(1,6);
-MsgDisp("主人公","I'm sorry I've disappointed ｛風真＊＊｝ so
-much by forgetting so many things.");
+MsgDisp("主人公","I'm sorry I've disappointed ｛風真＊＊｝
+so much by forgetting so many things.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020101000_01_190");
-MsgDisp("Kazama","It's okay. You remembered the most
-important memory of all.");
+MsgDisp("Kazama","It's okay.
+You remembered the most important memory
+of all.");
 MsgDisp("主人公","A wish made by a pinwheel......");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020101000_01_200");
-MsgDisp("Kazama","Ah, the wish we made together. 
+MsgDisp("Kazama","Ah, the wish we made together.
 It really came true.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("T020101000_01_220");
-MsgDisp("Kazama","May we always be happy and healthy,
-and may we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020101000_01_230");
@@ -55,14 +56,13 @@ MsgDisp("Kazama","......Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020101000_01_260");
-MsgDisp("Kazama","I found and bought it when I
-was in England.");
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020101000_01_270");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝......
-Thank you.");
+MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
@@ -80,8 +80,8 @@ StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020101000_01_300");
-MsgDisp("Kazama","｛主人公｝,
-Let me see your face properly.");
+MsgDisp("Kazama","｛主人公｝, Let me see your face
+properly.");
 MsgDisp("主人公","Eh?");
 VoicePlay("T020101000_01_310");
 MsgDisp("Kazama","I won't let you forget again.");
@@ -101,7 +101,7 @@ Wait(6,0);
 ScrFadeIn(0);
 VoicePlay("T020101000_01_320");
 MsgDisp("Kazama","It's ringing...!
-Our wedding bells. ");
+Our wedding bells.");
 StlEyeOpenLevel(1,0,1);
 Wait(6,0);
 StlEyeOpenLevel(1,#1);

@@ -26,8 +26,8 @@ it suits you.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("R040500001_05_020");
-    MsgDisp("Hiiragi","I should warn you though, 
-you have too much on your plate.
+    MsgDisp("Hiiragi","I should warn you though, you have too
+much on your plate.
 It might ruin your dress.");
     MsgDisp("主人公","Yeah...");
     ChEye(5,4);
@@ -50,17 +50,17 @@ You can just stay here, young lady.");
     ChMotion(5,4);
     VoicePlay("R040500001_05_050");
     MsgDisp("Hiiragi","I think I figured it out.
-The reason I couldn't find you is
-because of you and that dress.");
+The reason I couldn't find you is because
+of you and that dress.");
     ChEye(5,4);
     VoicePlay("R040500001_05_060");
-    MsgDisp("Hiiragi","I can see why the other boys
-would want to be in your way.");
+    MsgDisp("Hiiragi","I can see why the other boys would want to
+be in your way.");
     MsgDisp("主人公","Umm...");
     ChMotion(5,3);
     VoicePlay("R040500001_05_070");
-    MsgDisp("Hiiragi","May I pretend to be an escort
-to kidnap you?");
+    MsgDisp("Hiiragi","May I pretend to be an escort to kidnap
+you?");
     MsgDisp("主人公","Huuh?");
     ChEye(5,3);
     ChMouth(5,3);

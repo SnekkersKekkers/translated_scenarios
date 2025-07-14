@@ -11,16 +11,16 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020140003_01_010");
 MsgDisp("Kazama","I picked it up at the beach with Grandpa a
-long time ago. And, obviously, it's not
-for sale.");
+long time ago.
+And, obviously, it's not for sale.");
 MsgDisp("主人公","Okay.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020140003_01_020");
 MsgDisp("Kazama","But apparently, people have shown up
-wanting that driftwood. At a pretty high
-price too.");
+wanting that driftwood.
+At a pretty high price too.");
 MsgDisp("主人公","Really? That's amazing!");
 ChEye(1,2);
 ChMouth(1,3);
@@ -68,9 +68,9 @@ ChMotion(1,0);
 VoicePlay("G020140003_01_080");
 MsgDisp("Kazama","Yep. It's nothing fancy, but it's
 definitely a fragrant wood.");
-MsgDisp("主人公","That's amazing! So you've had a really
-discerning eye since you were little,
-｛風真＊＊｝.");
+MsgDisp("主人公","That's amazing!
+So you've had a really discerning eye
+since you were little, ｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

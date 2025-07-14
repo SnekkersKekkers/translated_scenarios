@@ -34,9 +34,8 @@ We were just going around in circles.");
     ChMotion(2,4,1);
     ScrFadeIn(0);
     VoicePlay("B060200003_02_020");
-    MsgDisp("Sassa","Things got a bit awkward,
-didn't they? I don't mind, but are you
-okay?");
+    MsgDisp("Sassa","Things got a bit awkward, didn't they?
+I don't mind, but are you okay?");
     MsgDispSksp(0);
     break ;
     default :

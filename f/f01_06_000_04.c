@@ -29,7 +29,8 @@ I'll go home alone...)");
     ChMotion(6,0);
     VoicePlay("F010600004_06_020");
     MsgDisp("Himuro","I have plans, so no.");
-    MsgDisp("主人公","I see. That's unfortunate.");
+    MsgDisp("主人公","I see.
+That's unfortunate.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -51,7 +52,8 @@ I'll go home alone...)");
     ChCheek(6,0);
     VoicePlay("F010600004_06_040");
     MsgDisp("Himuro","...I'm busy today.");
-    MsgDisp("主人公","I see. That's unfortunate.
+    MsgDisp("主人公","I see.
+That's unfortunate.
 Well, I'll invite you again.");
     ChEye(6,0);
     ChMouth(6,0);

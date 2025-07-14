@@ -29,31 +29,32 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020340000_03_040");
-MsgDisp("Honda","But there's one issue. 
-If I change colors again, 
-it will really damage my hair.");
+MsgDisp("Honda","But there's one issue.
+If I change colors again, it will really
+damage my hair.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020340000_03_050");
-MsgDisp("Honda","Just between us, my dad worries about
-hair loss, so if it's genetic,
-in the future I might......");
+MsgDisp("Honda","Just between us, my dad worries about hair
+loss, so if it's genetic, in the future I
+might......");
 MsgDisp("主人公","............");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020340000_03_060");
-MsgDisp("Honda","You can imagine it now, right? I
-definitely have to do it!");
-MsgDisp("主人公","Eh, don't do it! Don't do it!");
+MsgDisp("Honda","You can imagine it now, right?
+I definitely have to do it!");
+MsgDisp("主人公","Eh, don't do it!
+Don't do it!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020340000_03_070");
-MsgDisp("Honda","Haa～,maybe I should stop messing 
-with my hair and start focusing on 
-what's good for it, like my dad......");
+MsgDisp("Honda","Haa～,maybe I should stop messing with my
+hair and start focusing on what's good for
+it, like my dad......");
 MsgDisp("主人公","(｛本多＊＊｝, I don't think you need to
 worry that much......)");
 BGMStop();

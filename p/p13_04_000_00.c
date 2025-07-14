@@ -28,15 +28,16 @@ you try it?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P130400000_04_020");
-    MsgDisp("Nanatsumori","What's that? The whole idea seems pretty
-funny, so I'll give it a shot.");
+    MsgDisp("Nanatsumori","What's that?
+The whole idea seems pretty funny, so I'll
+give it a shot.");
     MsgDisp("主人公","Then, entry for one!");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","It's a maze～
-If you can reach the finish line, 
-you get to drink freshly squeezed milk～");
+If you can reach the finish line, you get
+to drink freshly squeezed milk～");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
@@ -44,14 +45,15 @@ you get to drink freshly squeezed milk～");
     VoicePlay("P130400000_04_030");
     MsgDisp("Nanatsumori","That sort of flair......
 is super interesting.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! This is a maze for the
-cow, Molly. By all means, please enter～!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝! This is a maze for
+the cow, Molly. By all means, please
+enter～!");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P130400000_04_040");
-    MsgDisp("Nanatsumori","Enough about the cow Molly, 
-what's with the freshly squeezed milk?");
+    MsgDisp("Nanatsumori","Enough about the cow Molly, what's with
+the freshly squeezed milk?");
     MsgDisp("主人公","It's super delicious?");
     ChEye(4,0);
     ChMouth(4,3);

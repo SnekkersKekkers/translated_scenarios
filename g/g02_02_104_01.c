@@ -4,8 +4,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210401_02_000");
 MsgDisp("Sassa","This scenery, it's only for a limited
-time, isn't it? I'm glad I can see it with
-you.");
+time, isn't it?
+I'm glad I can see it with you.");
 MsgDisp("主人公","Yeah/");
 ChEye(2,0);
 ChMouth(2,0);
@@ -40,12 +40,11 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210401_02_050");
-MsgDisp("Sassa","Looking at the long run, 
-the time I get to spend with you now 
-might be special.");
-MsgDisp("主人公","(I see...... maybe these three years at
-Haba High School are a special period
-after all.)");
+MsgDisp("Sassa","Looking at the long run, the time I get to
+spend with you now might be special.");
+MsgDisp("主人公","(I see......
+maybe these three years at Haba High
+School are a special period after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

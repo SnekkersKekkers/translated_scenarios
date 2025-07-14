@@ -32,9 +32,9 @@ It's fine as long as you're satisfied,
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("H2A0200001_02_020");
-    MsgDisp("Sassa","You're not just my manager.
-Winning on my own isn't enough...... I
-wanted the team to take the championship.");
+    MsgDisp("Sassa","You're not just my manager. Winning on my
+own isn't enough...... I wanted the team
+to take the championship.");
     MsgDisp("主人公","｛颯砂＊＊｝......");
     ChEye(2,4);
     ChMouth(2,0);
@@ -52,9 +52,9 @@ I could've given you a medal, too.");
 Everyone's in the waiting room.
 Let's go.");
     ChClose(2);
-    MsgDisp("主人公","(We might have lost, but
-I'm glad that I stayed as
-the track and field club manager......)");
+    MsgDisp("主人公","(We might have lost, but I'm glad that I
+stayed as the track and field club
+manager......)");
     break ;
     default :
     DbgAssert(1);

@@ -129,9 +129,8 @@ Well, another time.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(8,0,30);
         Wait(30);
-        MsgDisp("主人公","(Right...
-He went to the trouble of inviting me,
-but it just wasn't right...)");
+        MsgDisp("主人公","(Right... He went to the trouble of
+inviting me, but it just wasn't right...)");
         break ;
         case 4:
         case 5:
@@ -150,8 +149,8 @@ but it just wasn't right...)");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("F010800007_08_130");
-        MsgDisp("Shirahane","Okay.
-In that case, be careful on yer way home.");
+        MsgDisp("Shirahane","Okay. In that case, be careful on yer way
+home.");
         MsgClose();
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -24,8 +24,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,1);
     VoicePlay("B040620001_06_020");
-    MsgDisp("Himuro","No.
-If you want that, do it by yourself.
+    MsgDisp("Himuro","No. If you want that, do it by yourself.
 Then, I'll laugh at you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

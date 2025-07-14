@@ -12,10 +12,8 @@ BGMPlay("BGM_C01_RYOUTA_A");
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("K020100001_01_000");
-MsgDisp("Kazama","｛主人公｝.
-Sorry for the short notice.");
-MsgDisp("主人公","Hm?
-｛風真＊＊｝, what's up?");
+MsgDisp("Kazama","｛主人公｝. Sorry for the short notice.");
+MsgDisp("主人公","Hm? ｛風真＊＊｝, what's up?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -56,8 +54,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("K020100001_01_050");
 MsgDisp("Kazama","You can't.
-I don't know what expression to have
-while standing here.");
+I don't know what expression to have while
+standing here.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -71,6 +69,6 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(I got a present from ｛風真＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛風真＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

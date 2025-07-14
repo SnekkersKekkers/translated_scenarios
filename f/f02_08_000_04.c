@@ -6,9 +6,8 @@ BGMStop();
 BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it, 
-it's ｛大地＊＊｝'s birthday soon, 
-isn't it?");
+MsgDisp("主人公","Come to think of it, it's ｛大地＊＊｝'s
+birthday soon, isn't it?");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,0);
@@ -36,5 +35,5 @@ ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("F020800004_08_030");
 MsgDisp("Shirahane","Hehe!");
-MsgDisp("主人公","(｛大地＊＊｝ really has 
-such a nice laugh.)");
+MsgDisp("主人公","(｛大地＊＊｝ really has such a nice
+laugh.)");

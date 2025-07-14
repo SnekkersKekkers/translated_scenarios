@@ -3,8 +3,7 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛氷室＊＊｝.
-Are you heading home now?");
+MsgDisp("主人公","｛氷室＊＊｝. Are you heading home now?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -37,8 +36,8 @@ ChOpen(6,100,0,0,0,#1,#1,0,0);
 VoicePlay("G110600702_06_020");
 MsgDisp("Himuro","......?　What.");
 MsgDisp("主人公","(Come to think of it, he used to play bass
-too. He's not only athletic, but good with his
-hands too......?)");
+too. He's not only athletic, but good with
+his hands too......?)");
 while (1){
     RunEverydaySksp(6,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -56,8 +55,9 @@ ChMotion(6,0);
 VoicePlay("G110600702_06_040");
 MsgDisp("Himuro","What......? Why are you staring at my arm
 all of a sudden.");
-MsgDisp("主人公","Ah, sorry. I'm just thinking about before,
-that time we went to the livehouse.");
+MsgDisp("主人公","Ah, sorry.
+I'm just thinking about before, that time
+we went to the livehouse.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -87,8 +87,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600702_06_080");
 MsgDisp("Himuro","Of course not.
-It's just that you only see me
-doing the things I'm good at.");
+It's just that you only see me doing the
+things I'm good at.");
 MsgDisp("主人公","Is that right......?
 Then, ｛氷室＊＊｝'s weaknesses——");
 ChEye(6,1);

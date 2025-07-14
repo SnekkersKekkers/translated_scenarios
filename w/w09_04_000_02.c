@@ -14,8 +14,8 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,255,0,0,3,#1,#1,0,0);
     VoicePlay("W090400002_04_010");
-    MsgDisp("Nanatsumori","We have to pick a color for the
-gondola. Any color fine with you?");
+    MsgDisp("Nanatsumori","We have to pick a color for the gondola.
+Any color fine with you?");
     break ;
     case 4:
     case 5:
@@ -28,8 +28,8 @@ gondola. Any color fine with you?");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("W090400002_04_030");
-    MsgDisp("Nanatsumori","Okay. Well then,
-let's enjoy this alone time we have.");
+    MsgDisp("Nanatsumori","Okay. Well then, let's enjoy this alone
+time we have.");
     break ;
     default :
     DbgAssert(1);

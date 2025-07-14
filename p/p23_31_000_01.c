@@ -28,7 +28,8 @@ ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("P233100001_31_020");
 MsgDisp("Goro","A story will unfold from the stage you
-created. I'll watch it from here.");
+created.
+I'll watch it from here.");
 MsgDisp("主人公","Yes!");
 MsgClose();
 ScrFadeOut(0);

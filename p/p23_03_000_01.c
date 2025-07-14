@@ -23,9 +23,8 @@ Seems like we made it in time.");
     ChMouth(3,0);
     ChMotion(3,3,1);
     VoicePlay("P230300001_03_010");
-    MsgDisp("Honda","Can you believe the wall
-fell over at the last rehearsal?
-Haha.");
+    MsgDisp("Honda","Can you believe the wall fell over at the
+last rehearsal? Haha.");
     MsgDisp("主人公","Hey, this is no laughing matter?
 But, thanks for fixing it.");
     ChEye(3,4);
@@ -33,11 +32,10 @@ But, thanks for fixing it.");
     ChMotion(3,0,1);
     VoicePlay("P230300001_03_020");
     MsgDisp("Honda","Maybe the blend of adhesive wasn't good?
-I played around with it a lot,
-mixing dyes to make it less noticeable.");
-    MsgDisp("主人公","Hehe.
-But it was like an experiment;
-it was a lot of fun.");
+I played around with it a lot, mixing dyes
+to make it less noticeable.");
+    MsgDisp("主人公","Hehe. But it was like an experiment; it
+was a lot of fun.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -56,8 +54,8 @@ shortly.");
     MsgDisp("Honda","I guess the rest will have to be fixed
 during scene changes?
 Hey, let's enjoy the show.");
-    MsgDisp("主人公","(Alright, now all that's left is
-to wish the show is a success!)");
+    MsgDisp("主人公","(Alright, now all that's left is to wish
+the show is a success!)");
     break ;
     default :
     DbgAssert(1);

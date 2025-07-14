@@ -32,19 +32,17 @@ Your expression is seriously stiff.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400000_04_030");
-    MsgDisp("Nanatsumori","How about I draw the character 
-for 'person' in your palm?
+    MsgDisp("Nanatsumori","How about I draw the character for
+'person' in your palm?
 You play a large instrument, right?");
-    MsgDisp("主人公","Eh...
-Ahaha, are you casting a 
-good luck spell?");
+    MsgDisp("主人公","Eh... Ahaha, are you casting a good luck
+spell?");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P530400000_04_040");
-    MsgDisp("Nanatsumori","Right.
-It seems to be extremely 
-effective according to some people～?");
+    MsgDisp("Nanatsumori","Right. It seems to be extremely effective
+according to some people～?");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(4,4);
@@ -57,8 +55,8 @@ I'm off now!");
     VoicePlay("P530400000_04_060");
     MsgDisp("Nanatsumori","Yeah.");
     MsgDisp("主人公","(Before I knew it, my stress was coming
-off... ｛七ツ森＊｝, Thank you! Alr-ight!
-let's give it our best!)");
+off... ｛七ツ森＊｝, Thank you!
+Alr-ight! let's give it our best!)");
     break ;
     case 4:
     case 5:
@@ -73,7 +71,7 @@ Can I even do it properly....)");
     VoicePlay("P530400000_04_070");
     MsgDisp("Nanatsumori","Whats this.
 Stressed?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝...yeah.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝... yeah.");
     ChMotion(4,1,1);
     VoicePlay("P530400000_04_080");
     MsgDisp("Nanatsumori","So it's like that, I see.");
@@ -81,9 +79,8 @@ Stressed?");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("P530400000_04_090");
-    MsgDisp("Nanatsumori","Showcasing your craft in front of a 
-huge audience, on a large stage 
-is difficult. ");
+    MsgDisp("Nanatsumori","Showcasing your craft in front of a huge
+audience, on a large stage is difficult.");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("P530400000_04_100");
@@ -94,16 +91,16 @@ performance. Of course, I am too.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400000_04_110");
-    MsgDisp("Nanatsumori","Don't worry about making mistakes, 
-just enjoy the music to the fullest.");
+    MsgDisp("Nanatsumori","Don't worry about making mistakes, just
+enjoy the music to the fullest.");
     MsgDisp("主人公","Enjoy the music...");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P530400000_04_120");
     MsgDisp("Nanatsumori","Right, right.
-...hey, you're getting excited,
-aren't you?");
+...hey, you're getting excited, aren't
+you?");
     MsgDisp("主人公","Hehe!");
     SEPlay("EV_SE_038");
     SEWait();
@@ -114,8 +111,9 @@ aren't you?");
     MsgDisp("Nanatsumori","ＧＯ!
 Have fun to the fullest!");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(｛七ツ森＊｝, thank you for encouraging
-me! Alright, let's do our best!)");
+    MsgDisp("主人公","(｛七ツ森＊｝, thank you for
+encouraging me!
+Alright, let's do our best!)");
     break ;
     default :
     DbgAssert(1);

@@ -20,15 +20,15 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,0);
 VoicePlay("P240200000_02_010");
 MsgDisp("Sassa","I can't do that.");
-MsgDisp("主人公","...Then I will cry, 
-I will continue to await help.");
+MsgDisp("主人公","...Then I will cry, I will continue to
+await help.");
 StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("P240200000_02_020");
 MsgDisp("Sassa","...That will not come true.
-The gatekeeper of hell, Cerebus 
-will not tolerate intruders.");
+The gatekeeper of hell, Cerebus will not
+tolerate intruders.");
 SEPlay("EV_SE_678",0,1);
 Wait(100,0);
 SEStop("EV_SE_678",1.5);
@@ -66,8 +66,8 @@ VoicePlay("P240200000_02_050");
 MsgDisp("Sassa","Don't cry.
 I regret forcing you into my world.");
 ChEyeOpenLevel(2,0);
-MsgDisp("主人公","(... Eh?
-｛颯砂＊＊｝, isn't that a bit off-script?)");
+MsgDisp("主人公","(... Eh? ｛颯砂＊＊｝, isn't that a bit
+off-script?)");
 SEPlay("EV_SE_GAYA_008",0.5,0.5);
 VoicePlay("P240200000_39_000");
 MsgDisp("Male Customer","Eh, that's somewhat off?");
@@ -121,17 +121,17 @@ ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 SEStop("EV_SE_GAYA_006",2);
 VoicePlay("P240200000_02_090");
-MsgDisp("Sassa","No, for that beautiful smile is the
-only light in my melancholy world.
+MsgDisp("Sassa","No, for that beautiful smile is the only
+light in my melancholy world.
 A most precious treasure.");
 MsgDisp("主人公","Hades-sama.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("P240200000_02_100");
-MsgDisp("Sassa","If detaining you in this underworld 
-sullens your beautiful face, 
-then I shall send you back to earth.");
+MsgDisp("Sassa","If detaining you in this underworld
+sullens your beautiful face, then I shall
+send you back to earth.");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,2);
@@ -153,8 +153,8 @@ Persephone will stay with us.");
 SEStop("EV_SE_681",1);
 VoicePlay("P240200000_49_000");
 MsgDisp("Narrator","Persephone was then drawn to Hades'
-sincerity and wanted to marry the king 
-of the underworld.");
+sincerity and wanted to marry the king of
+the underworld.");
 MsgClose();
 SEPlay("EV_SE_GAYA_021",0,0.9);
 SEPlay("EV_SE_CLAP_002");
@@ -180,17 +180,16 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P240200000_02_140");
-MsgDisp("Sassa","...Hey, 
-Am I forcibly dragging you into
-this like Hades is? ");
+MsgDisp("Sassa","...Hey, Am I forcibly dragging you into
+this like Hades is?");
 MsgDisp("主人公","Eh? 
 What are you talking about?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("P240200000_02_150");
-MsgDisp("Sassa","I wonder if I could give up 
-on you for the sake of your smile too.");
+MsgDisp("Sassa","I wonder if I could give up on you for the
+sake of your smile too.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

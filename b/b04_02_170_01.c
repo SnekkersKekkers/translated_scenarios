@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040217001_02_010");
-    MsgDisp("Sassa","Any you say, 
-I'm not as knowledgable as you are.");
+    MsgDisp("Sassa","Any you say, I'm not as knowledgable as
+you are.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

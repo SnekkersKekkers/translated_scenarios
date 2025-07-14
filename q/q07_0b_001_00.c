@@ -2,9 +2,8 @@ BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc820",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow!
-The field is filled with golden flowers!
-So pretty......");
+MsgDisp("主人公","Wow! The field is filled with golden
+flowers! So pretty......");
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,30);
 ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
@@ -14,15 +13,14 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070B00100_03_000");
-MsgDisp("Honda","Mhmmhm.
-They're called Marigolds.
-They all have different types of yellow.");
+MsgDisp("Honda","Mhmmhm. They're called Marigolds. They all
+have different types of yellow.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("Q070B00100_01_000");
-MsgDisp("Kazama","The Dutch classic is the tulip, but 
-these are pretty too.");
+MsgDisp("Kazama","The Dutch classic is the tulip, but these
+are pretty too.");
 ChMotion(1,0);
 ChEye(4,0);
 ChMouth(4,3);
@@ -54,8 +52,8 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("Q070B00100_03_020");
 MsgDisp("Honda","Ta-da!
-I knew it would be useful,
-So I brought a mini tripod with me!");
+I knew it would be useful, So I brought a
+mini tripod with me!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -100,8 +98,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q070B00100_01_030");
 MsgDisp("Kazama","Nanatsumori, you really like taking
-photos, huh. What are you gonna do with
-all of those?");
+photos, huh.
+What are you gonna do with all of those?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

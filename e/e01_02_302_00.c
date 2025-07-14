@@ -10,10 +10,12 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,255,3,0,4,#1,#1,0,1);
 ChOpen(7,255,0,0,0,#1,#1,0,2);
 VoicePlay("E010230200_07_000");
-MsgDisp("Mikage","Ohh, it's you this time. Today's the day I
-run into all the funny ones.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝, hello. Hum, what do you
-mean by \"funny ones\"......?");
+MsgDisp("Mikage","Ohh, it's you this time.
+Today's the day I run into all the funny
+ones.");
+MsgDisp("主人公","Ah, ｛御影＊＊｝, hello.
+Hum, what do you mean by \"funny
+ones\"......?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -33,16 +35,17 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010230200_02_010");
-MsgDisp("Sassa","Oh, that's right,
-I got food advice from Mikage-sensei.");
+MsgDisp("Sassa","Oh, that's right, I got food advice from
+Mikage-sensei.");
 MsgDisp("主人公","I see.
-｛御影＊＊｝, you're a vegetable expert!");
+｛御影＊＊｝, you're a vegetable
+expert!");
 ChMouth(2,5);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_020");
-MsgDisp("Mikage","I'm the track and field adviser too, 
+MsgDisp("Mikage","I'm the track and field adviser too,
 though, right?");
 MsgDisp("主人公","Really?");
 ChEye(2,5);
@@ -65,9 +68,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_040");
-MsgDisp("Mikage","That's fine. But Sassa,
-like I said earlier, you're already
-training perfectly, aren't you?");
+MsgDisp("Mikage","That's fine.
+But Sassa, like I said earlier, you're
+already training perfectly, aren't you?");
 ChEye(2,0);
 ChMouth(2,0);
 ChEye(7,0);

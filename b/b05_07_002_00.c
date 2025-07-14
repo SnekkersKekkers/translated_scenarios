@@ -55,8 +55,8 @@ StlMouth(7,0);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700200_07_030");
 MsgDisp("Mikage","Calm down...");
-MsgDisp("主人公","(｛御影＊＊｝, amazing...
-He's calmed down an enraged horse...)");
+MsgDisp("主人公","(｛御影＊＊｝, amazing... He's calmed
+down an enraged horse...)");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700200_07_040");
@@ -73,7 +73,7 @@ StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700200_07_060");
 MsgDisp("Mikage","...Good girl.");
-MsgDisp("主人公","(Hehe, looks like she's become completely 
+MsgDisp("主人公","(Hehe, looks like she's become completely
 well-behaved.
 But, a lover he says...)");
 MsgClose();

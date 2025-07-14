@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1,1);
     VoicePlay("B040302201_03_010");
     MsgDisp("Honda","Yeah. I like waterfowl on the coast too,
-but... when you're on a boat- look!
-There are the seabirds!");
+but... when you're on a boat- look! There
+are the seabirds!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,8 @@ There are the seabirds!");
     ChMotion(3,5,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040302201_03_020");
-    MsgDisp("Honda","That's it! I'll buy some, so wait there
-for a sec!");
+    MsgDisp("Honda","That's it!
+I'll buy some, so wait there for a sec!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

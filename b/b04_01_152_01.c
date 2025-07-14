@@ -43,8 +43,7 @@ Then, coach also can't lose.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040115201_01_030");
-    MsgDisp("Kazama","...Geez.
-Just where does that confidence
+    MsgDisp("Kazama","...Geez. Just where does that confidence
 come from?");
     MsgDateResultDisp();
     break ;

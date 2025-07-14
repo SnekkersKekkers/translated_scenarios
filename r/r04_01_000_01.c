@@ -13,8 +13,9 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("R040100001_01_010");
-    MsgDisp("Kazama","Yeah, really. In the right angle,
-it looks like you're shining.");
+    MsgDisp("Kazama","Yeah, really.
+In the right angle, it looks like you're
+shining.");
     MsgDisp("主人公","Hehe, thank you.");
     break ;
     case 3:
@@ -40,8 +41,8 @@ powerful.");
     ChEyeOpenLevel(1,8);
     VoicePlay("R040100001_01_040");
     MsgDisp("Kazama","Don't play dumb.
-You are very attractive today. Just
-don't let it get it to your head.");
+You are very attractive today.
+Just don't let it get it to your head.");
     MsgDisp("主人公","Jeez, stop being weird!");
     break ;
     case 4:
@@ -51,16 +52,15 @@ don't let it get it to your head.");
     ChMotion(1,0);
     ChCheek(1,7);
     VoicePlay("R040100001_01_050");
-    MsgDisp("Kazama","I don't need anything else in
-front of me other than you
-and that dress.");
+    MsgDisp("Kazama","I don't need anything else in front of me
+other than you and that dress.");
     MsgDisp("主人公","｛風真＊＊｝......");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("R040100001_01_060");
-    MsgDisp("Kazama","Thanks for coming in that 
-beautiful dress for me.");
+    MsgDisp("Kazama","Thanks for coming in that beautiful dress
+for me.");
     MsgDisp("主人公","Umm...｛風真＊＊｝?");
     ChEye(1,0);
     ChMouth(1,1);

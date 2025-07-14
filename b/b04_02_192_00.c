@@ -37,8 +37,8 @@ the animal's perspective.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040219200_02_020");
-    MsgDisp("Sassa","We have to at least give credit
-to that cat's perspective.");
+    MsgDisp("Sassa","We have to at least give credit to that
+cat's perspective.");
     MsgDateResultDisp();
     break ;
     default :

@@ -48,16 +48,15 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(30,0);
 ChOpen(5,255,0,0,4,#1,#1,0,3);
 SEWait();
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-You got bullseye twice in a row.");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝. You got bullseye twice
+in a row.");
 ChEye(5,4);
 VoicePlay("B330C30500_05_000");
 MsgDisp("Hiiragi","Perhaps I have just
 gotten the hang of it.");
 VoiceEVSPlay(6);
 VoicePlay("B330C30500_06_020");
-MsgDisp("Himuro","｛主人公｝, over here.
-Please.");
+MsgDisp("Himuro","｛主人公｝, over here. Please.");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(7,0);
@@ -76,9 +75,8 @@ SEWait();
 VoicePlay("B330C30500_06_030");
 MsgDisp("Himuro","It's a bit off.
 Do it again.");
-MsgDisp("主人公","Ehh?
-｛氷室＊＊｝, do your best?
-...Is that okay?");
+MsgDisp("主人公","Ehh? ｛氷室＊＊｝, do your best? ...Is that
+okay?");
 SEPlay("EV_SE_086");
 Wait(15,1);
 SEPlay("EV_SE_087");
@@ -97,15 +95,15 @@ VoicePlay("B330C30500_07_020");
 MsgDisp("Mikage","It's Yanosuke's victory.");
 ChEye(5,3);
 VoicePlay("B330C30500_05_010");
-MsgDisp("Hiiragi","This is my first victory 
-against Inori-kun.");
+MsgDisp("Hiiragi","This is my first victory against
+Inori-kun.");
 ChEye(5,4);
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C30500_06_040");
-MsgDisp("Himuro","The quality of your 
-cheering was different.");
+MsgDisp("Himuro","The quality of your cheering was
+different.");
 MsgDisp("主人公","Cheering quality?");
 ChEye(6,1);
 ChMouth(6,0);
@@ -139,8 +137,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,3,0,3,#1,#1,0,0,0,30);
 VoicePlay("B330C30500_07_040");
-MsgDisp("Mikage","When you're here, things
-liven up by themselves.");
+MsgDisp("Mikage","When you're here, things liven up by
+themselves.");
 MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();

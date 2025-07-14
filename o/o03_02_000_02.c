@@ -9,8 +9,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,30,2,2,2,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200002_02_000");
-    MsgDisp("Sassa","Haa...... Sorry.
-I have to match your pace......");
+    MsgDisp("Sassa","Haa...... Sorry. I have to match your
+pace......");
     MsgDisp("主人公","(Ugh,
 I should've tried harder......)");
     break ;
@@ -48,8 +48,7 @@ I should've tried harder......)");
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("O030200002_02_050");
-    MsgDisp("Sassa","Ahaha......
-This might be the first time
+    MsgDisp("Sassa","Ahaha...... This might be the first time
 I've placed last in athletics.");
     ChEye(2,2);
     ChMouth(2,0);

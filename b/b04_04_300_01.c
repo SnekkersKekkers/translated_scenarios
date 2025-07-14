@@ -17,9 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040430001_04_010");
-    MsgDisp("Nanatsumori","That is something girls would be
-curious about, after all. Okay.
-If you'd like, I can do your makeup too?");
+    MsgDisp("Nanatsumori","That is something girls would be curious
+about, after all. Okay. If you'd like, I
+can do your makeup too?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -42,9 +42,8 @@ They're delicate.");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040430001_04_030");
-    MsgDisp("Nanatsumori","Sure. What are we commemorating?
-Oh, but don't post this on
-social media.");
+    MsgDisp("Nanatsumori","Sure. What are we commemorating? Oh, but
+don't post this on social media.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

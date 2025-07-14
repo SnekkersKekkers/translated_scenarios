@@ -6,8 +6,8 @@ ChMotion(3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040303101_03_000");
-MsgDisp("Honda","You can go first. Which section do you
-want to visit first?");
+MsgDisp("Honda","You can go first.
+Which section do you want to visit first?");
 MsgSel("Maybe... penguins?","I might want to see the big crabs?","Hmmm, I'm not sure...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040303101_03_010");
-    MsgDisp("Honda","Hm... With that kind of enthusiasm, 
-the penguins might be sad, you know? 
-Come on, let's try it again!");
+    MsgDisp("Honda","Hm... With that kind of enthusiasm, the
+penguins might be sad, you know? Come on,
+let's try it again!");
     MsgDateResultDisp();
     break ;
     case 1:

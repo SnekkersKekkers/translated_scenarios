@@ -2,8 +2,7 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_000");
-MsgDisp("Kazama?","｛主人公｝,
-Did I make it in time...");
+MsgDisp("Kazama?","｛主人公｝, Did I make it in time...");
 MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_872",0.5);
 Wait(49,0);
@@ -27,8 +26,7 @@ MsgClose();
 BGOpen("sc010",0);
 ChOpen(1,254,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝,
-Here......?");
+MsgDisp("主人公","｛風真＊＊｝, Here......?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -63,8 +61,8 @@ ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020111000_01_050");
-MsgDisp("Kazama","But on the day of the entrance ceremony, 
-I saw your dazzling face and that promise 
+MsgDisp("Kazama","But on the day of the entrance ceremony, I
+saw your dazzling face and that promise
 was blown away in an instant.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -73,8 +71,8 @@ ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("T020111000_01_060");
 MsgDisp("Kazama","At that moment, I felt like I was being
-scolded by my younger self. Don't just
-give up.");
+scolded by my younger self.
+Don't just give up.");
 MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,3);
@@ -88,9 +86,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020111000_01_080");
-MsgDisp("Kazama","I felt like I was being reminded of
-the time we were suddenly separated 
-by 9000 kilometers.");
+MsgDisp("Kazama","I felt like I was being reminded of the
+time we were suddenly separated by 9000
+kilometers.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -98,8 +96,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020111000_01_090");
 MsgDisp("Kazama","And then I finally realized.
-If I give up on you,
-I'm not myself anymore.");
+If I give up on you, I'm not myself
+anymore.");
 MsgDisp("主人公","Eh......");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
@@ -153,6 +151,5 @@ ChOpen(1,254,7,4,2,#1,#1,0,0);
 ChMouth(1,2);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_150");
-MsgDisp("Kazama","｛主人公｝,
-You are my everything.
+MsgDisp("Kazama","｛主人公｝, You are my everything.
 Always was, and always will be.");

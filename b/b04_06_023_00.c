@@ -23,9 +23,9 @@ we have no choice but to do that.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040602300_06_020");
-    MsgDisp("Himuro","I think that's a bit too abstract. 
-Then, let's first decided on a 
-theme to talk about!");
+    MsgDisp("Himuro","I think that's a bit too abstract.
+Then, let's first decided on a theme to
+talk about!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,10 +36,9 @@ theme to talk about!");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040602300_06_030");
-    MsgDisp("Himuro","A staring contest?
-...I'm good at it though?
-I'll go along with it, so
-just try to make me laugh.");
+    MsgDisp("Himuro","A staring contest? ...I'm good at it
+though? I'll go along with it, so just try
+to make me laugh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

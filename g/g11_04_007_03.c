@@ -37,8 +37,8 @@ ChLayout(1);
 ChNanaType(1);
 ChOpen(4,35,0,2,0,#1,#1,0,0,0,60);
 VoicePlay("G110400703_04_020");
-MsgDisp("Nanatsumori","Sorry again. Thank you very much
-for your help.");
+MsgDisp("Nanatsumori","Sorry again.
+Thank you very much for your help.");
 SEPlay("EV_SE_753");
 SEWait();
 SEPlay("EV_SE_753");
@@ -85,19 +85,18 @@ ChNanaType(1);
 ChOpen(4,100,1,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400703_04_050");
-MsgDisp("Nanatsumori","The schedule for a shoot was
-moved by a week...");
-MsgDisp("主人公","Aah!
-Was it like today, next week?
-Either way, that's a relief.");
+MsgDisp("Nanatsumori","The schedule for a shoot was moved by a
+week...");
+MsgDisp("主人公","Aah! Was it like today, next week? Either
+way, that's a relief.");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("G110400703_04_060");
-MsgDisp("Nanatsumori","That's what happened. I didn't
-want to be late or anything.");
-MsgDisp("主人公","Hehe. Please take this time
-for yourself today then.");
+MsgDisp("Nanatsumori","That's what happened.
+I didn't want to be late or anything.");
+MsgDisp("主人公","Hehe. Please take this time for yourself
+today then.");
 ChMotion(4,1);
 VoicePlay("G110400703_04_070");
 MsgDisp("Nanatsumori","I will.");
@@ -106,10 +105,10 @@ ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,0);
 VoicePlay("G110400703_04_080");
-MsgDisp("Nanatsumori","Aah... that's enough,
-it can be a pain sometimes.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems very serious
-about his work.)");
+MsgDisp("Nanatsumori","Aah... that's enough, it can be a pain
+sometimes.");
+MsgDisp("主人公","(｛七ツ森＊｝ seems very serious about
+his work.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

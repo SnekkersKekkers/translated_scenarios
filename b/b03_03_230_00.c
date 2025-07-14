@@ -27,8 +27,8 @@ Alright, let's go!");
     ChMotion(3,2);
     ScrFadeIn(0);
     VoicePlay("B030323000_03_020");
-    MsgDisp("Honda","So far we don't have
-a single thing to worry about.");
+    MsgDisp("Honda","So far we don't have a single thing to
+worry about.");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -49,9 +49,9 @@ My sister likes riding it too.");
     ChMotion(3,4);
     ScrFadeIn(0);
     VoicePlay("B030323000_03_040");
-    MsgDisp("Honda","I like looking at the way it's built. It
-kind of looks like spokes on a wheel bike,
-don't you think?");
+    MsgDisp("Honda","I like looking at the way it's built.
+It kind of looks like spokes on a wheel
+bike, don't you think?");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -93,8 +93,8 @@ I haven't readied my mind yet!");
     ChMotion(3,4);
     ScrFadeIn(0);
     VoicePlay("B030323000_03_080");
-    MsgDisp("Honda","It's hard to get your ears
-used to the dizziness.");
+    MsgDisp("Honda","It's hard to get your ears used to the
+dizziness.");
     break ;
     default :
     DbgAssert(0);

@@ -9,19 +9,18 @@ ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q070100000_01_000");
-MsgDisp("Kazama","It really has a unique shape. Some grind
-flour and some pump water, so they have
-different uses.");
+MsgDisp("Kazama","It really has a unique shape.
+Some grind flour and some pump water, so
+they have different uses.");
 MsgDisp("主人公","Is that so.
-｛風真＊＊｝, 
-You really know alot, huh?");
+｛風真＊＊｝, You really know alot, huh?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q070100000_01_010");
 MsgDisp("Kazama","I mean, some traditional tools are
-similar. Isn't it a well known shape to
-us?");
+similar.
+Isn't it a well known shape to us?");
 MsgDisp("主人公","You mean the pinwheel of the Habataki
 Castle?");
 ChEye(1,4);
@@ -61,9 +60,8 @@ ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("Q070100000_01_050");
-MsgDisp("Kazama","Maybe.
-Looks like if you climb it, you can see
-the whole field.");
+MsgDisp("Kazama","Maybe. Looks like if you climb it, you can
+see the whole field.");
 MsgDisp("主人公","It really does look like the Habataki
 Castle Keep, doesn't it?");
 ChEye(1,4);
@@ -77,8 +75,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q070100000_01_070");
 MsgDisp("Kazama","Well then, Miss Habataki Castle Princess,
-how about we go to the Keep of 
-the Netherlands?");
+how about we go to the Keep of the
+Netherlands?");
 MsgDisp("主人公","Hehe, if I may!");
 MsgDisp("主人公","(Right, we're gonna move on after this.
 Huis ten Bosch was so much fun......)");
@@ -105,11 +103,11 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("Q070100000_01_090");
-MsgDisp("Kazama","It's amazing how the owner came to
-a foreign country 9000km from the UK,
-such a long time ago.");
-MsgDisp("主人公","Do you understand the feeling
-he may have had, ｛風真＊＊｝?");
+MsgDisp("Kazama","It's amazing how the owner came to a
+foreign country 9000km from the UK, such a
+long time ago.");
+MsgDisp("主人公","Do you understand the feeling he may have
+had, ｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -121,8 +119,9 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("Q070100000_01_110");
-MsgDisp("Kazama","I guess so. The owner spent the rest of
-his life here, though.");
+MsgDisp("Kazama","I guess so.
+The owner spent the rest of his life here,
+though.");
 MsgDisp("主人公","I'm sure he really liked it here.");
 ChEye(1,0);
 ChMouth(1,4);
@@ -131,8 +130,8 @@ VoicePlay("Q070100000_01_120");
 MsgDisp("Kazama","I also liked the UK.
 But......I had a reason to come back.");
 MsgDisp("主人公","I see.
-But thanks to that, we were able to go
-to school together.");
+But thanks to that, we were able to go to
+school together.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);

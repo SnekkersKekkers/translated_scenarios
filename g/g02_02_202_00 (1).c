@@ -41,8 +41,8 @@ MsgDisp("Sassa","But what Ryota wants is probably
 different. I don't have a clue what he's
 working for and what he worries about.");
 MsgDisp("主人公","I think your goal also puts a lot of
-pressure on you, ｛颯砂＊＊｝. And I can't
-do anything to help......");
+pressure on you, ｛颯砂＊＊｝.
+And I can't do anything to help......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -54,8 +54,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220200_02_070");
-MsgDisp("Sassa","Yeah, really. And I bet it's the same with
-Ryota.");
+MsgDisp("Sassa","Yeah, really.
+And I bet it's the same with Ryota.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

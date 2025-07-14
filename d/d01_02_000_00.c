@@ -6,8 +6,7 @@ But thanks to that, I get to see a
 beautiful sunset.)");
 VoicePlay("D010200000_02_000");
 MsgDisp("Sassa?","Hey!");
-MsgDisp("主人公","Huh?
-Is that......｛颯砂＊＊｝?");
+MsgDisp("主人公","Huh? Is that......｛颯砂＊＊｝?");
 VoicePlay("D010200000_02_010");
 MsgDisp("Sassa","Over here!
 Come this way!");
@@ -27,8 +26,8 @@ ScrFadeIn(0);
 VoicePlay("D010200000_02_020");
 MsgDisp("Sassa","Aaaah......!
 That feels good!");
-MsgDisp("主人公","｛颯砂＊＊｝ are you done training
-for today?");
+MsgDisp("主人公","｛颯砂＊＊｝ are you done training for
+today?");
 StlEye(2,1);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
@@ -64,7 +63,8 @@ SEPlay("EV_SE_608");
 SEWait();
 ChOpen(2,254,3,3,3,#1,#1,0,0);
 VoicePlay("D010200000_02_060");
-MsgDisp("Sassa","Ah, that's my bad. My hand slipped!");
+MsgDisp("Sassa","Ah, that's my bad.
+My hand slipped!");
 MsgDisp("主人公","Geez......");
 ChEye(2,3);
 ChMouth(2,3);
@@ -76,16 +76,16 @@ ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200000_02_080");
-MsgDisp("Sassa","Ah......I got a bit carried away. My pants
-are wet.");
+MsgDisp("Sassa","Ah......I got a bit carried away.
+My pants are wet.");
 MsgDisp("主人公","You get what you deserve!");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D010200000_02_090");
-MsgDisp("Sassa","Sorry.
-Training went well today, the sunset
-is beautiful, and then you showed up.");
+MsgDisp("Sassa","Sorry. Training went well today, the
+sunset is beautiful, and then you showed
+up.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -102,8 +102,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D010200000_02_120");
-MsgDisp("Sassa","Under the light of the setting sun,
-you looked beautiful, like a goddess.");
+MsgDisp("Sassa","Under the light of the setting sun, you
+looked beautiful, like a goddess.");
 MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,0);
 ChMouth(2,3);

@@ -42,8 +42,7 @@ Just how hard do you have to fall?");
     ChMotion(1,3);
     VoicePlay("B040120000_01_030");
     MsgDisp("Kazama","Well done.
-Now, if you're scared, 
-give me your hand.");
+Now, if you're scared, give me your hand.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -55,9 +54,8 @@ give me your hand.");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040120000_01_040");
-    MsgDisp("Kazama","Hm?
-That's not like you.
-Are you scheming something?");
+    MsgDisp("Kazama","Hm? That's not like you. Are you scheming
+something?");
     MsgDateResultDisp();
     break ;
     default :

@@ -10,9 +10,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B080700004_07_010");
-MsgDisp("Mikage","I'm guessing you have something
-to talk about, right? Listen carefully.
-See you.");
+MsgDisp("Mikage","I'm guessing you have something to talk
+about, right? Listen carefully. See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);

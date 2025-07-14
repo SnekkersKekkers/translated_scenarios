@@ -40,10 +40,9 @@ I'm so happy, can I open it?");
     ChOpen(8,35,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(8);
     VoicePlay("K010800100_08_030");
-    MsgDisp("Shirahane","｛主人公｝.
-What's the matter?");
-    MsgDisp("主人公","It's your birthday today,
-right, ｛大地＊＊｝?");
+    MsgDisp("Shirahane","｛主人公｝. What's the matter?");
+    MsgDisp("主人公","It's your birthday today, right,
+｛大地＊＊｝?");
     ChEye(8,0);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -73,8 +72,8 @@ Can I open 'er up right here?");
     VoicePlay("K010800100_08_060");
     MsgDisp("Shirahane","......!
 W-What's the matter?");
-    MsgDisp("主人公","Today is your birthday,
-right, ｛大地＊＊｝?
+    MsgDisp("主人公","Today is your birthday, right,
+｛大地＊＊｝?
 I brought you a present.");
     SEPlay("EV_SE_664");
     SEWait();

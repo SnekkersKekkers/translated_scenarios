@@ -21,8 +21,8 @@ player in the future?");
     MsgDisp("Nanatsumori","I'll be right back. Your too brilliant
 one-handed backbreaker... I heard that you
 made the audience go \"myriad?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-It's a practice match, though, and we won.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. It's a practice
+match, though, and we won.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

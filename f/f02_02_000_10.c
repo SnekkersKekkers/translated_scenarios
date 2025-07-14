@@ -11,8 +11,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200010_02_000");
-MsgDisp("Sassa","We've already done enough worrying,
-so let's take it easy.");
+MsgDisp("Sassa","We've already done enough worrying, so
+let's take it easy.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -30,8 +30,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("F020200010_02_030");
-MsgDisp("Sassa","The harder you work to prepare,
-the more nervous you get.");
+MsgDisp("Sassa","The harder you work to prepare, the more
+nervous you get.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -65,11 +65,10 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200010_02_080");
-MsgDisp("Sassa","That's good. 
-If you do it every time and practice,
-you can do the same during the show.");
-MsgDisp("主人公","Got it.
-Thanks, ｛颯砂＊＊｝.");
-MsgDisp("主人公","(Thanks to ｛颯砂＊＊｝,
-the performance will be fun...
+MsgDisp("Sassa","That's good.
+If you do it every time and practice, you
+can do the same during the show.");
+MsgDisp("主人公","Got it. Thanks, ｛颯砂＊＊｝.");
+MsgDisp("主人公","(Thanks to ｛颯砂＊＊｝, the performance
+will be fun...
 I think?)");

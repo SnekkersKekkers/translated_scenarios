@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020320300_03_000");
-MsgDisp("Honda","There are different types of love,
-aren't there?");
+MsgDisp("Honda","There are different types of love, aren't
+there?");
 MsgDisp("主人公","Hehe, what's this all of a sudden?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -24,8 +24,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320300_03_030");
-MsgDisp("Honda","But there was one thing they all had
-in common. Can you guess?");
+MsgDisp("Honda","But there was one thing they all had in
+common.
+Can you guess?");
 MsgDisp("主人公","Eh......
 What was it?");
 ChEye(3,0);
@@ -45,36 +46,38 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020320300_03_060");
-MsgDisp("Honda","There are many ways to do it, 
-but am I making you happy?");
+MsgDisp("Honda","There are many ways to do it, but am I
+making you happy?");
 MsgDisp("主人公","Eh......");
 ChEye(3,5);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020320300_03_070");
-MsgDisp("Honda","I know! I know I'm saying something weird
-all of a sudden!");
+MsgDisp("Honda","I know!
+I know I'm saying something weird all of a
+sudden!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320300_03_080");
-MsgDisp("Honda","If I'm boring you with my talk,
-please let me know.");
+MsgDisp("Honda","If I'm boring you with my talk, please let
+me know.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020320300_03_090");
 MsgDisp("Honda","Like, if my talk about firefly behavior
-was boring, I can switch to beetle 
+was boring, I can switch to beetle
 hibernation methods——");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020320300_03_100");
-MsgDisp("Honda","Wait, forget that. I feel like my sister
-would scold me for that one.");
-MsgDisp("主人公","(Hehe!
-I enjoy ｛本多＊＊｝'s talks though......)");
+MsgDisp("Honda","Wait, forget that.
+I feel like my sister would scold me for
+that one.");
+MsgDisp("主人公","(Hehe! I enjoy ｛本多＊＊｝'s talks
+though......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

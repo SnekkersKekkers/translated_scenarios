@@ -18,23 +18,22 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B040606401_06_020");
-MsgDisp("Himuro","Yeah.
-So that the shop keeper can make a 
-proper profit. That's why
-it breaks so easily.");
-MsgDisp("主人公","...Isn't that just 'cause you're
-bad at it, ｛氷室＊＊｝?");
+MsgDisp("Himuro","Yeah. So that the shop keeper can make a
+proper profit. That's why it breaks so
+easily.");
+MsgDisp("主人公","...Isn't that just 'cause you're bad at
+it, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B040606401_06_030");
-MsgDisp("Himuro","...Understood. Alright.
-Let's have a contest.");
+MsgDisp("Himuro","...Understood. Alright. Let's have a
+contest.");
 SEPlay("EV_SE_626");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(Did I accidentally fire 
-something up in him...?)");
+MsgDisp("主人公","(Did I accidentally fire something up in
+him...?)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

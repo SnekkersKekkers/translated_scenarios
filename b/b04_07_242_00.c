@@ -32,8 +32,8 @@ It can't be bad.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040724200_07_020");
-    MsgDisp("Mikage","Those vegetables were all 
-beauties grown at the gardening club.
+    MsgDisp("Mikage","Those vegetables were all beauties grown
+at the gardening club.
 Please prepare them deliciously.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

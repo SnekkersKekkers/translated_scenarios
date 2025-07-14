@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChCheek(1,5);
     VoicePlay("B040123101_01_010");
     MsgDisp("Kazama","That's right.
-Seeing you so happy, 
-makes me happy too.");
+Seeing you so happy, makes me happy too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +29,8 @@ makes me happy too.");
     ChMotion(1,3);
     VoicePlay("B040123101_01_020");
     MsgDisp("Kazama","Haha, that's fine.
-I don't think that kind of 
-hairstyle looks bad.");
+I don't think that kind of hairstyle looks
+bad.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,9 +41,8 @@ hairstyle looks bad.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040123101_01_030");
-    MsgDisp("Kazama","What was it?
-Open your mouth a bit, come on.
-Aaahー.");
+    MsgDisp("Kazama","What was it? Open your mouth a bit, come
+on. Aaahー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -6,8 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040203102_02_000");
-MsgDisp("Sassa","If they're in the same tank as the
-sharks, won't they get eaten?");
+MsgDisp("Sassa","If they're in the same tank as the sharks,
+won't they get eaten?");
 MsgSel("Sawsharks look strong","That's just the way nature works","The small fish can't relax, I guess");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,10 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040203102_02_010");
-    MsgDisp("Sassa","That's it, those teeth!
-What's with that∋ They just have to
-swing around and effortlessly hurt all
-those little fish.");
+    MsgDisp("Sassa","That's it, those teeth! What's with that∋
+They just have to swing around and
+effortlessly hurt all those little fish.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,7 +36,7 @@ those little fish.");
         VoicePlay("B040203102_02_020");
         MsgDisp("Sassa","Well, I guess that's true......
 But wouldn't a different reaction be
-better? ");
+better?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,11 +61,11 @@ That's what winning truly means.");
         ChMouth(2,4);
         ChMotion(2,1);
         VoicePlay("B040203102_02_050");
-        MsgDisp("Sassa","Because I'm blessed with
-this body, I need to use it efficiently
-to my advantage and win.");
-        MsgDisp("主人公","(｛颯砂＊＊｝ always 
-has competition on his mind......)");
+        MsgDisp("Sassa","Because I'm blessed with this body, I need
+to use it efficiently to my advantage and
+win.");
+        MsgDisp("主人公","(｛颯砂＊＊｝ always has competition on his
+mind......)");
         break ;
         default :
         DbgAssert(1);
@@ -80,8 +79,8 @@ has competition on his mind......)");
     ChMotion(2,3);
     VoicePlay("B040203102_02_060");
     MsgDisp("Sassa","That's true.
-It feels unsafe if scary things are
-always wandering around.");
+It feels unsafe if scary things are always
+wandering around.");
     MsgDisp("主人公","(Hmm, more or less, I guess.)");
     break ;
     default :

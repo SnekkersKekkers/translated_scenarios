@@ -16,7 +16,8 @@ ChMouth(4,3);
 ChEyeOpenLevel(4,#1);
 VoicePlay("G020420300_04_020");
 MsgDisp("Nanatsumori","It's like a glittery hair accessory,
-right? ...It's pretty.");
+right?
+...It's pretty.");
 MsgDisp("主人公","Really?
 I would love to see it.");
 ChMotion(4,0,1);
@@ -42,8 +43,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020420300_04_070");
-MsgDisp("Nanatsumori","Even in a romantic place like this,
-you're the same as usual.");
+MsgDisp("Nanatsumori","Even in a romantic place like this, you're
+the same as usual.");
 MsgDisp("主人公","Really?");
 VoicePlay("G020420300_04_080");
 MsgDisp("Nanatsumori","Really.");
@@ -51,8 +52,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("G020420300_04_090");
-MsgDisp("Nanatsumori","I... I'm really falling for the magic
-of this place.");
+MsgDisp("Nanatsumori","I... I'm really falling for the magic of
+this place.");
 MsgDisp("主人公","(The magic of the fireflies habitat?)");
 BGMStop();
 MsgClose();

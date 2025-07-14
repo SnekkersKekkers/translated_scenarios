@@ -8,8 +8,8 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110600000_06_000");
-    MsgDisp("Himuro","The baseball club won their
-match, right? Congratulations.");
+    MsgDisp("Himuro","The baseball club won their match, right?
+Congratulations.");
     MsgDisp("主人公","｛氷室＊＊｝, Thank you!");
     MsgDisp("主人公","(I'm glad we won...!)");
     break ;
@@ -20,19 +20,17 @@ match, right? Congratulations.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110600000_06_010");
-    MsgDisp("Himuro","I heard the baseball club won 
-their practice match?");
-    MsgDisp("主人公","｛氷室＊＊｝.
-Yeah, we did it!");
+    MsgDisp("Himuro","I heard the baseball club won their
+practice match?");
+    MsgDisp("主人公","｛氷室＊＊｝. Yeah, we did it!");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("X110600000_06_020");
-    MsgDisp("Himuro","This is a result that couldn't
-have been achieved without you as 
-manager. Thank you for your
-hard work.");
-    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝!)");
+    MsgDisp("Himuro","This is a result that couldn't have been
+achieved without you as manager.
+Thank you for your hard work.");
+    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝! )");
     break ;
     default :
     DbgAssert(1);

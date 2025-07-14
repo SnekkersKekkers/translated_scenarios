@@ -3,8 +3,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140501061_05_000");
 MsgDisp("Hiiragi","You bought it too, huh?
-People say if you eat it, you can
-get perfect marks.");
+People say if you eat it, you can get
+perfect marks.");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);

@@ -10,7 +10,8 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     ChEyeOpenLevel(5,0);
     VoicePlay("O040500001_05_000");
-    MsgDisp("Hiiragi","We've lost. What a shame.");
+    MsgDisp("Hiiragi","We've lost.
+What a shame.");
     MsgDisp("主人公","(We lost......
 I should've tried harder.)");
     break ;

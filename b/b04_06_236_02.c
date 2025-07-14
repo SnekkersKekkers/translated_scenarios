@@ -11,9 +11,9 @@ ChMotion(6,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040623602_06_000");
-MsgDisp("Himuro","The last time I came here,
-the theme was completely different.");
-MsgSel("I wonder how it'll be in 10 years?","I want to see little｛氷室＊＊｝.","What theme was it?");
+MsgDisp("Himuro","The last time I came here, the theme was
+completely different.");
+MsgSel("I wonder how it'll be in 10 years?","I want to see little ｛氷室＊＊｝.","What theme was it?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){
@@ -39,8 +39,8 @@ a shorter timeframe.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623602_06_020");
-        MsgDisp("Himuro","The theme will probably change, 
-and we will have changed as well.");
+        MsgDisp("Himuro","The theme will probably change, and we
+will have changed as well.");
         MsgDisp("主人公","Us too?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -53,20 +53,19 @@ It's 10 years into the future?");
         ChMotion(6,0);
         VoicePlay("B040623602_06_040");
         MsgDisp("Himuro","We'll have graduated.
-And there's a chance
-we'll have jobs too.");
+And there's a chance we'll have jobs too.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623602_06_050");
-        MsgDisp("Himuro","My relationship with 
-you may have changed too.");
+        MsgDisp("Himuro","My relationship with you may have changed
+too.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040623602_06_060");
-        MsgDisp("Himuro","...No, I'll be troubled
-if it hasn't changed.");
+        MsgDisp("Himuro","...No, I'll be troubled if it hasn't
+changed.");
         MsgDisp("主人公","Why would 
 that be a problem?");
         ChEye(6,0);
@@ -81,15 +80,14 @@ Please forgive me for that.");
         ChMouth(6,4);
         ChMotion(6,1);
         VoicePlay("B040623602_06_080");
-        MsgDisp("Himuro","It's fine if you don't understand.
-But... I hope you're looking 
-forward to it.");
+        MsgDisp("Himuro","It's fine if you don't understand. But...
+I hope you're looking forward to it.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040623602_06_090");
-        MsgDisp("Himuro","For our relationship to change, 
-in a good way in the future.");
+        MsgDisp("Himuro","For our relationship to change, in a good
+way in the future.");
         MsgDisp("主人公","...Yeah, got it!");
         ChEye(6,0);
         ChMouth(6,4);

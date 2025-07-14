@@ -7,7 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040308101_03_000");
 MsgDisp("Honda","The blizzard of falling cherry blossoms is
-nice. I'm captivated by it.");
+nice.
+I'm captivated by it.");
 MsgSel("It's really like pink snow","Ah, it's falling into my mouth","There's like 3 centimetres thick of fallen snow");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B040308101_03_010");
-    MsgDisp("Honda","Yep yep, they're largish snow 
-flakes with well-developed crystals. ");
+    MsgDisp("Honda","Yep yep, they're largish snow flakes with
+well-developed crystals.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -30,9 +31,8 @@ flakes with well-developed crystals. ");
     ChMouth(3,1);
     ChMotion(3,5);
     VoicePlay("B040308101_03_020");
-    MsgDisp("Honda","Haha!
-Awaaa, It's fallen into my mouth too... 
-No, I swallowed it∋");
+    MsgDisp("Honda","Haha! Awaaa, It's fallen into my mouth
+too... No, I swallowed it∋");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -46,8 +46,8 @@ No, I swallowed it∋");
     ChMotion(3,3);
     VoicePlay("B040308101_03_030");
     MsgDisp("Honda","Yep yep.
-Over there, there's fresh snow that 
-no one has stepped on!");
+Over there, there's fresh snow that no one
+has stepped on!");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

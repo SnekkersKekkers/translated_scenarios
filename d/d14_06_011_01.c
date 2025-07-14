@@ -16,8 +16,8 @@ So you got it too?");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("D140601101_06_010");
-    MsgDisp("Himuro","I thought you would choose this
-one. I definitely understand.");
+    MsgDisp("Himuro","I thought you would choose this one.
+I definitely understand.");
     break ;
     default :
     DbgAssert(1);

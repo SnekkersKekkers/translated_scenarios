@@ -16,8 +16,8 @@ BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020160000_01_010");
 MsgDisp("Kazama","Did I make it in time?");
-MsgDisp("主人公","｛風真＊＊｝!
-The graduation ceremony is already over∋");
+MsgDisp("主人公","｛風真＊＊｝! The graduation ceremony is
+already over∋");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -35,7 +35,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("T020160000_01_040");
-MsgDisp("Kazama","I want you to look back on the past three 
+MsgDisp("Kazama","I want you to look back on the past three
 years since your entrance ceremony.");
 MsgDisp("主人公","Eeehhh∋");
 ChEye(1,0);

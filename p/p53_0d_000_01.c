@@ -2,8 +2,9 @@ BGMStop();
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year's program is Game Music. I have
-to be careful to to mess it up......)");
+MsgDisp("主人公","(This year's program is Game Music.
+I have to be careful to to mess it
+up......)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -19,8 +20,8 @@ ChMotion(21,3);
 VoicePlay("P530D00001_21_000");
 MsgDisp("Michiru","I heard this year is about Game Music.
 How is it going?");
-MsgDisp("主人公","Ah, ｛ひかる＊｝, ｛みちる＊｝.
-Did you come to support us?");
+MsgDisp("主人公","Ah, ｛ひかる＊｝, ｛みちる＊｝. Did
+you come to support us?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

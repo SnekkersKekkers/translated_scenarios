@@ -12,8 +12,7 @@ ChMotion(5,0,1);
 ScrFadeIn(0);
 VoicePlay("B360550300_05_000");
 MsgDisp("Hiiragi","We played a lot again today.");
-MsgDisp("主人公","Yeah.
-｛柊＊＊＊｝, are you tired?");
+MsgDisp("主人公","Yeah. ｛柊＊＊＊｝, are you tired?");
 ChEye(5,4);
 VoicePlay("B360550300_05_010");
 MsgDisp("Hiiragi","Yes. I'm livelier now than during
@@ -28,23 +27,21 @@ Inori-kun makes my head a little tired.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_030");
-MsgDisp("Hiiragi","Of course it's fun, but
-too many things cross my mind.");
+MsgDisp("Hiiragi","Of course it's fun, but too many things
+cross my mind.");
 MsgDisp("主人公","Something unnecessary?");
 ChEye(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550300_05_040");
-MsgDisp("Hiiragi","Inori's precise management
-and Mikage-sensei's humor......");
+MsgDisp("Hiiragi","Inori's precise management and
+Mikage-sensei's humor......");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_050");
-MsgDisp("Hiiragi","There's no way I could imitate those
-I feel inferior to them
-It's pathetic.......");
-MsgDisp("主人公","Huh∋
-｛柊＊＊＊｝ feels inferior?");
+MsgDisp("Hiiragi","There's no way I could imitate those I
+feel inferior to them It's pathetic.......");
+MsgDisp("主人公","Huh∋ ｛柊＊＊＊｝ feels inferior?");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,8);
@@ -60,10 +57,11 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B360550300_05_080");
-MsgDisp("Hiiragi","If that's the case, how can I
-describe you? You make me feel this way.");
-MsgDisp("主人公","(Huh?
-It's troubling if you say that......)");
+MsgDisp("Hiiragi","If that's the case, how can I describe
+you?
+You make me feel this way.");
+MsgDisp("主人公","(Huh? It's troubling if you say
+that......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

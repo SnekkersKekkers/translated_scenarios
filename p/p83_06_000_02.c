@@ -16,8 +16,7 @@ is difficult...");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P830600002_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-What's the matter?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! What's the matter?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -47,14 +46,13 @@ is difficult...");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P830600002_06_030");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-What's the matter?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! What's the matter?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P830600002_06_040");
-    MsgDisp("Himuro","Haven't you seen a mother looking 
-for her own child around here?");
+    MsgDisp("Himuro","Haven't you seen a mother looking for her
+own child around here?");
     MsgDisp("主人公","Eh, did you find a lost child?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -64,22 +62,22 @@ for her own child around here?");
 This is the kid.");
     VoicePlay("P830600002_45_000");
     MsgDisp("Girl","Uuugh... *sniff*...");
-    MsgDisp("主人公","It's alright, 
-We'll find your Mom soon okay?");
+    MsgDisp("主人公","It's alright, We'll find your Mom soon
+okay?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P830600002_06_060");
-    MsgDisp("Himuro","Should I take her to the 
-lost children centre?");
+    MsgDisp("Himuro","Should I take her to the lost children
+centre?");
     MsgDisp("主人公","I'll take her!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P830600002_06_070");
     MsgDisp("Himuro","Then let's go together.
-If I gave up halfway, 
-it would weigh on my conscience.");
+If I gave up halfway, it would weigh on my
+conscience.");
     MsgDisp("主人公","Yeah, I got it.
 Thank you.");
     MsgClose();

@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(5,255,0,4,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523301_05_000");
-MsgDisp("Hiiragi","The show starts the
-moment you sign the waiver.");
+MsgDisp("Hiiragi","The show starts the moment you sign the
+waiver.");
 MsgSel("My hands are shaking...","It's my own responsibility huh...","You can't sign so lightly");
 switch (MsgSelRsltGet()){
     case 0:

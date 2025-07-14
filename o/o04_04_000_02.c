@@ -22,8 +22,8 @@ But we were so close......)");
     ChOpen(4,30,0,2,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040400002_04_010");
-    MsgDisp("Nanatsumori","Seriously!?
-Didn't it look like we were in the lead?");
+    MsgDisp("Nanatsumori","Seriously!? Didn't it look like we were in
+the lead?");
     MsgDisp("主人公","(A draw, huh......
 But we were so close......)");
     break ;

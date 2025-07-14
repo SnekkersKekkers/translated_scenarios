@@ -3,8 +3,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630004_06_000");
-MsgDisp("Himuro","What are these grown adults 
-and high school students doing?");
+MsgDisp("Himuro","What are these grown adults and high
+school students doing?");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -17,7 +17,8 @@ ChMotion(6,0);
 VoicePlay("G020630004_06_020");
 MsgDisp("Himuro","Sometimes we keep each other in check,
 cooperate, or sneak around like this.");
-MsgDisp("主人公","Keep each other in check? Sneak around?");
+MsgDisp("主人公","Keep each other in check?
+Sneak around?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
@@ -72,8 +73,9 @@ VoicePlay("G020630004_06_100");
 MsgDisp("Himuro","Like how Mr. Kojiro and the others
 wouldn't understand what you and I are
 talking about right now.");
-MsgDisp("主人公","(That's true, but...... something about
-that doesn't sit right......)");
+MsgDisp("主人公","(That's true, but......
+something about that doesn't sit
+right......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

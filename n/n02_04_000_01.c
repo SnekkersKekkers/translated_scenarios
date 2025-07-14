@@ -12,9 +12,10 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
     ChMotion(4,1,1);
     VoicePlay("N020400001_04_010");
-    MsgDisp("Nanatsumori","It's surprising. But still impressive.");
-    MsgDisp("主人公","(Oof... that's a bit confusing,
-but I'm glad I did my best!)");
+    MsgDisp("Nanatsumori","It's surprising.
+But still impressive.");
+    MsgDisp("主人公","(Oof... that's a bit confusing, but I'm
+glad I did my best!)");
     break ;
     case 3:
     ChEye(4,4);

@@ -43,8 +43,8 @@ BGOpen("ev004",0);
 ChNanaType(1);
 ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝!
-Are you working right now?");
+MsgDisp("主人公","｛七ツ森＊｝! Are you working right
+now?");
 VoicePlay("G110400301_04_010");
 MsgDisp("Nanatsumori","Yeah, I'm almost done for the day.
 I just wanted a bite to eat.");
@@ -56,20 +56,22 @@ VoicePlay("G110400301_04_020");
 MsgDisp("Nanatsumori","Do you want me to leave?");
 MsgDisp("主人公","Huh?");
 VoicePlay("G110400301_04_030");
-MsgDisp("Nanatsumori","Ms. Habacha's newest reporter.
-Nana is now available.");
-MsgDisp("主人公","Hehe! Are you letting me do
-an interview then?");
+MsgDisp("Nanatsumori","Ms. Habacha's newest reporter. Nana is now
+available.");
+MsgDisp("主人公","Hehe! Are you letting me do an interview
+then?");
 ChMotion(4,2);
 VoicePlay("G110400301_04_040");
-MsgDisp("Nanatsumori","Let me think. As long as I can 
-give you a review of what I just ate.");
+MsgDisp("Nanatsumori","Let me think.
+As long as I can give you a review of what
+I just ate.");
 MsgDisp("主人公","I'm sure Nana-kun's fans would be
 overjoyed!");
 ChEye(4,1);
 ChMouth(4,1);
 VoicePlay("G110400301_04_050");
-MsgDisp("Nanatsumori","Don't... don't take it so seriously.
+MsgDisp("Nanatsumori","Don't...
+don't take it so seriously.
 It was a joke.");
 MsgDisp("主人公","(He was groaning with his eyes...)");
 while (1){
@@ -79,8 +81,8 @@ while (1){
         }
     BGMVol(0.5,2);
     VoicePlay("G110400301_04_070");
-    MsgDisp("Nanatsumori","I don't know if I just do that
-naturally or if I'm good at acting...");
+    MsgDisp("Nanatsumori","I don't know if I just do that naturally
+or if I'm good at acting...");
     }
 VoicePlay("G110400301_04_060");
 ChMouth(4,2);
@@ -94,9 +96,9 @@ ChMouth(4,1);
 ChMotion(4,0);
 MsgDisp("Nanatsumori","Oof...
 touche.");
-MsgDisp("主人公","(Hehe! It would be interesting to
-write an article about this conversation
-with ｛七ツ森＊｝!)");
+MsgDisp("主人公","(Hehe! It would be interesting to write an
+article about this conversation with
+｛七ツ森＊｝! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

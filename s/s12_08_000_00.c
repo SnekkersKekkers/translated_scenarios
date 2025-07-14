@@ -40,9 +40,8 @@ I knew it.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("S120800000_08_030");
-    MsgDisp("Shirahane","Right?
-It makes you feel all warm and fuzzy
-inside.");
+    MsgDisp("Shirahane","Right? It makes you feel all warm and
+fuzzy inside.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     break ;
     case 4:
@@ -63,8 +62,8 @@ If you're happy, then I'm happy too.");
     MsgDisp("主人公","Hehe.");
     ChMotion(8,0,1);
     VoicePlay("S120800000_08_060");
-    MsgDisp("Shirahane","Well I'm in a good mood so, let
-me walk you home.");
+    MsgDisp("Shirahane","Well I'm in a good mood so, let me walk
+you home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     break ;
     default :

@@ -15,8 +15,8 @@ MsgClose();
 SEWait();
 BGOpen("ho000",2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝,
-Thank you for walking me home.");
+MsgDisp("主人公","｛御影＊＊｝, Thank you for walking me
+home.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -27,15 +27,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B050700100_07_020");
-MsgDisp("Mikage","Is it because I submitted to your
-fierce attack the other day?");
+MsgDisp("Mikage","Is it because I submitted to your fierce
+attack the other day?");
 MsgDisp("主人公","Are you...
 talking about skinship?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B050700100_07_030");
-MsgDisp("Mikage","That's right. 
+MsgDisp("Mikage","That's right.
 This type.");
 MsgClose();
 ScrFadeOut(0);
@@ -55,15 +55,15 @@ StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700100_07_050");
 MsgDisp("Mikage","Thank you.
-You saw how troubled I was and
-stopped playing around right?");
+You saw how troubled I was and stopped
+playing around right?");
 MsgDisp("主人公","Eh....");
 StlEye(7,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5);
 VoicePlay("B050700100_07_060");
-MsgDisp("Mikage","This is as much retaliation
-as I can muster.");
+MsgDisp("Mikage","This is as much retaliation as I can
+muster.");
 MsgDisp("主人公","......｛御影＊＊｝?");
 StlEye(7,0,0);
 StlMouth(7,1);
@@ -87,8 +87,8 @@ SEStop("EV_SE_781",0.4);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050700100_07_090");
-MsgDisp("Mikage","I don't have the guts, 
-so I couldn't even move a single step.");
+MsgDisp("Mikage","I don't have the guts, so I couldn't even
+move a single step.");
 MsgDisp("主人公","...What's wrong?");
 ChEye(7,2);
 ChMouth(7,3);
@@ -99,9 +99,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700100_07_110");
-MsgDisp("Mikage","That sort of cowardly me, 
-thanks to you was able to
-take a small step today.");
+MsgDisp("Mikage","That sort of cowardly me, thanks to you
+was able to take a small step today.");
 MsgDisp("主人公","Take a step?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -131,8 +130,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
 MsgDisp("主人公","(｛御影＊＊｝ held my hand in his...
-But, what did he mean by take a 
-step forward?)");
+But, what did he mean by take a step
+forward?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

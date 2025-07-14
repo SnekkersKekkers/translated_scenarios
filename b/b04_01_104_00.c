@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040110400_01_010");
-    MsgDisp("Kazama","Oh, that's the Morpho, said to be
-the most beautiful butterfly in
-the world. They have lots of collectors.");
+    MsgDisp("Kazama","Oh, that's the Morpho, said to be the most
+beautiful butterfly in the world.
+They have lots of collectors.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

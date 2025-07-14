@@ -12,8 +12,8 @@ switch (ChPrmGet(1,6)){
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(It's already time to start... Haa, I hope
-I haven't forgotten my lines.");
+    MsgDisp("主人公","(It's already time to start...
+Haa, I hope I haven't forgotten my lines.");
     VoicePlay("P230100000_01_000");
     MsgDisp("Kazama?","Cinderella?");
     MsgDisp("主人公","Ah, yes!");
@@ -52,8 +52,8 @@ play.");
     ChMotion(1,0);
     VoicePlay("P230100000_01_040");
     MsgDisp("Kazama","So, we already enjoyed ourselves enough.
-After that, all that's left to do is
-give our best for everyone.");
+After that, all that's left to do is give
+our best for everyone.");
 
     MsgDisp("主人公","Yes, that's right!");
     SEPlay("EV_SE_038");

@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChEye(4,2);
     ChMouth(4,1);
     VoicePlay("B040422101_04_010");
-    MsgDisp("Nanatsumori","For now I'm taking a picture 
-of the mountains.");
+    MsgDisp("Nanatsumori","For now I'm taking a picture of the
+mountains.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -36,8 +36,7 @@ of the mountains.");
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040422101_04_030");
-    MsgDisp("Nanatsumori","Where?
-I need to take a good picture of
+    MsgDisp("Nanatsumori","Where? I need to take a good picture of
 the mountains and the sky!");
     ChEyeOpenLevel(4,#1);
     MsgDispSksp(1,0);

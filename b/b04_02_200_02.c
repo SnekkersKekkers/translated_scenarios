@@ -26,8 +26,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040220002_02_020");
-    MsgDisp("Sassa","I see. If you don't push yourself, there's
-no meaning.");
+    MsgDisp("Sassa","I see.
+If you don't push yourself, there's no
+meaning.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,8 +44,8 @@ no meaning.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040220002_02_030");
-        MsgDisp("Sassa","Hey, if you get too carried away,
-you'll get injured.");
+        MsgDisp("Sassa","Hey, if you get too carried away, you'll
+get injured.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -55,7 +56,8 @@ you'll get injured.");
         ChMotion(2,4);
         VoicePlay("B040220002_02_040");
         MsgDisp("Sassa","Oh, seems like you're getting the hang of
-it. There is.");
+it.
+There is.");
         MsgDisp("主人公","Really?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -67,9 +69,8 @@ it. There is.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040220002_02_060");
-        MsgDisp("Sassa","Then, before that, 
-we have to practice using the
-advanced course first.");
+        MsgDisp("Sassa","Then, before that, we have to practice
+using the advanced course first.");
         MsgDisp("主人公","Hehe, alright.");
         ChClose(2);
         SEPlay("EV_SE_536");
@@ -95,11 +96,12 @@ Make sure to take me along, okay?");
         ChMotion(2,3);
         ChEyeOpenLevel(2,0);
         VoicePlay("B040220002_02_090");
-        MsgDisp("Sassa","Yeah, of course! It's a promise...
+        MsgDisp("Sassa","Yeah, of course!
+It's a promise...
 I'll take you to the highest point.");
         MsgDisp("主人公","｛颯砂＊＊｝...");
-        MsgDisp("主人公","(I wonder, it sounds like he's not 
-just talking about skiing?)");
+        MsgDisp("主人公","(I wonder, it sounds like he's not just
+talking about skiing?)");
         break ;
         default :
         DbgAssert(1);

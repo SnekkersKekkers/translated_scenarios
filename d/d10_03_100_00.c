@@ -6,8 +6,7 @@ ChOpen(3,254,5,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("D100310000_03_000");
-MsgDisp("Honda","｛主人公｝.
-Good timing!");
+MsgDisp("Honda","｛主人公｝. Good timing!");
 MsgDisp("主人公","｛本多＊＊｝, what's wrong?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -26,9 +25,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D100310000_03_030");
-MsgDisp("Honda","So, I was thinking we could check out
-the gardening club together. Like in the
-dream.");
+MsgDisp("Honda","So, I was thinking we could check out the
+gardening club together.
+Like in the dream.");
 MsgDisp("主人公","Hehe, sure.");
 ChEye(3,3);
 ChMouth(3,3);

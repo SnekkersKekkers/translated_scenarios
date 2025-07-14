@@ -1,8 +1,8 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's a nice day today... I still
-have time in my lunch break today,
+MsgDisp("主人公","(It's a nice day today...
+I still have time in my lunch break today,
 so I'll go to the courtyard.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -11,22 +11,22 @@ ChOpen(5,254,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
 ChEye(5,4);
 VoicePlay("G110500600_05_000");
-MsgDisp("Hiiragi","Greetings. Ah, want to use
-one of the canvas' today?");
+MsgDisp("Hiiragi","Greetings. Ah, want to use one of the
+canvas' today?");
 MsgDisp("主人公","Hm, I wasn't sure yet...
 Will you, ｛柊＊＊＊｝?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("G110500600_05_010");
-MsgDisp("Hiiragi","I was just preparing for the meeting
-in the student council room.
+MsgDisp("Hiiragi","I was just preparing for the meeting in
+the student council room.
 See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 MsgDisp("主人公","(｛柊＊＊＊｝ is as busy as ever.
-Speaking of, I just noticed the drawing
-he made earlier...)");
+Speaking of, I just noticed the drawing he
+made earlier...)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -55,8 +55,8 @@ Wait(30,0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500600_05_030");
 MsgDisp("Hiiragi","Huh, has today already ended?");
-MsgDisp("主人公","Yeah. The weather was so nice that
-I really didn't do much progress.");
+MsgDisp("主人公","Yeah. The weather was so nice that I
+really didn't do much progress.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
@@ -79,8 +79,8 @@ I just enjoy this time of day.");
 VoicePlay("G110500600_05_060");
 MsgDisp("Hiiragi","Can you show me sometime?
 Your drawings, I mean.");
-MsgDisp("主人公","I'll try to draw something
-that you will like then.");
+MsgDisp("主人公","I'll try to draw something that you will
+like then.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
@@ -88,10 +88,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500600_05_070");
-MsgDisp("Hiiragi","Okay, I'll look forward to it and
-cheer you on from the window.");
-MsgDisp("主人公","Huh?
-｛柊＊＊＊｝, I would get nervous if
+MsgDisp("Hiiragi","Okay, I'll look forward to it and cheer
+you on from the window.");
+MsgDisp("主人公","Huh? ｛柊＊＊＊｝, I would get nervous if
 you were watching me draw.");
 ChEye(5,1);
 ChEye(5,0);

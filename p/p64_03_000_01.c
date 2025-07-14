@@ -17,9 +17,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("P640300001_03_020");
-MsgDisp("Honda","The bitter and distinctly 
-strong taste must mean it's good 
-for the body, right...");
+MsgDisp("Honda","The bitter and distinctly strong taste
+must mean it's good for the body, right...");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);

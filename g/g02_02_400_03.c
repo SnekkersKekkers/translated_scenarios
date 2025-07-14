@@ -3,16 +3,17 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 VoicePlay("G020240003_02_000");
-MsgDisp("Sassa","My Mom's a track-and-field athlete too,
-so she really pays attention to our meals.");
+MsgDisp("Sassa","My Mom's a track-and-field athlete too, so
+she really pays attention to our meals.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240003_02_010");
-MsgDisp("Sassa","She ensures breakfast and dinner 
-is strictly managed.");
-MsgDisp("主人公","That's how it is. You eat at the school
-cafeteria a lot, right?");
+MsgDisp("Sassa","She ensures breakfast and dinner is
+strictly managed.");
+MsgDisp("主人公","That's how it is.
+You eat at the school cafeteria a lot,
+right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -27,15 +28,16 @@ ChMotion(2,3);
 VoicePlay("G020240003_02_030");
 MsgDisp("Sassa","If all three meals were strictly
 controlled, I'd get bored quickly.");
-MsgDisp("主人公","Your Mom is amazing huh. She really knows
-everything about ｛颯砂＊＊｝.");
+MsgDisp("主人公","Your Mom is amazing huh.
+She really knows everything about
+｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240003_02_040");
 MsgDisp("Sassa","Well, she is my Mom after all.");
-MsgDisp("主人公","By sticking to the plan, ｛颯砂＊＊｝
-is also doing great.");
+MsgDisp("主人公","By sticking to the plan, ｛颯砂＊＊｝ is
+also doing great.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);

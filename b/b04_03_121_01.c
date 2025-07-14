@@ -10,8 +10,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ScrFadeIn(0);
 VoicePlay("B040312101_03_000");
-MsgDisp("Honda","Those handmade accessories 
-are amazingly well-made.");
+MsgDisp("Honda","Those handmade accessories are amazingly
+well-made.");
 MsgSel("I wonder if I should try making some too?","Are you going to buy it?","Why don't you try making some too, ｛本多＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:

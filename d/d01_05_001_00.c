@@ -28,8 +28,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500100_05_010");
 MsgDisp("Hiiragi","I have work to attend to in the student
-council room today. I was just in the
-mood for a change of scenery.");
+council room today. I was just in the mood
+for a change of scenery.");
 MsgDisp("主人公","Eh? During lunch?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -61,18 +61,17 @@ StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("D010500100_05_040");
 MsgDisp("Hiiragi","You will have less food.");
-MsgDisp("主人公","Only half. I won't give you all of
-it, okay?");
+MsgDisp("主人公","Only half.
+I won't give you all of it, okay?");
 StlMouth(5,1);
 VoicePlay("D010500100_05_050");
 MsgDisp("Hiiragi","Haha, thank you......");
-MsgDisp("主人公","｛柊＊＊＊｝, why don't
-you eat properly?");
+MsgDisp("主人公","｛柊＊＊＊｝, why don't you eat properly?");
 StlEye(5,1);
 StlMouth(5,0);
 VoicePlay("D010500100_05_060");
-MsgDisp("Hiiragi","When I'm busy I cannot just stop what
-I am doing to eat.");
+MsgDisp("Hiiragi","When I'm busy I cannot just stop what I am
+doing to eat.");
 StlEye(5,0);
 StlMouth(5,0);
 MsgDisp("主人公","That kind of thing is a big no-no.
@@ -87,8 +86,8 @@ StlEyeOpenLevel(5,0);
 Wait(6,0);
 StlEye(5,1);
 VoicePlay("D010500100_05_080");
-MsgDisp("Hiiragi","Please feel free to eat your
-delicious looking chicken.");
+MsgDisp("Hiiragi","Please feel free to eat your delicious
+looking chicken.");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -104,8 +103,8 @@ ChMotion(5,3);
 Wait(24,1);
 VoicePlay("D010500100_05_090");
 MsgDisp("Hiiragi","Thank you for the food.
-I have to go back to the student
-council room now.");
+I have to go back to the student council
+room now.");
 MsgDisp("主人公","I'll come and help you.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -113,20 +112,20 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500100_05_100");
 MsgDisp("Hiiragi","I can't let myself be spoiled like that.
-You have done your job well. The work is
-is mine to complete.");
+You have done your job well.
+The work is is mine to complete.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500100_05_110");
-MsgDisp("Hiiragi","The student council work is a 
-requirement for me to be here.");
+MsgDisp("Hiiragi","The student council work is a requirement
+for me to be here.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is 
-dealing with too many things on his own...
+MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is dealing with
+too many things on his own...
 And what does he mean by requirement?)");
 MsgClose();
 ScrFadeOut(0,0);

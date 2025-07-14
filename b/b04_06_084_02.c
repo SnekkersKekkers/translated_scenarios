@@ -6,8 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608402_06_000");
 MsgDisp("Himuro","It's peaceful.
-You can really let your 
-guard down.");
+You can really let your guard down.");
 MsgSel("It's an nice Indian Summer.","Autumn sure is nice.","There's not enough excitement though.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("B040608402_06_010");
-    MsgDisp("Himuro","Heh?
-You used those words correctly.
+    MsgDisp("Himuro","Heh? You used those words correctly.
 There's a lot of people who misinterpret
 what it means, I'm impressed.");
     MsgDispSksp(1,0);
@@ -31,8 +29,8 @@ what it means, I'm impressed.");
     ChMotion(6,0);
     VoicePlay("B040608402_06_020");
     MsgDisp("Himuro","That's right, I agree.
-It's neither hot or cold, it's 
-peaceful and calming to the mind.");
+It's neither hot or cold, it's peaceful
+and calming to the mind.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -72,8 +70,8 @@ something stimulating?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040608402_06_060");
-        MsgDisp("Himuro","If you get that flustered, 
-I'll have trouble responding.");
+        MsgDisp("Himuro","If you get that flustered, I'll have
+trouble responding.");
         MsgDisp("主人公","Ugh, sorry.");
         ChEye(6,0);
         ChMouth(6,4);
@@ -91,13 +89,12 @@ I'll have trouble responding.");
         MsgDisp("Himuro","...Fuuu!");
         MsgDisp("主人公","∋");
         ScrFadeIn(0);
-        MsgDisp("主人公","｛氷室＊＊｝∋　My ear!");
+        MsgDisp("主人公","｛氷室＊＊｝∋ My ear!");
         ChEye(6,0);
         ChMouth(6,3);
         ChMotion(6,5);
         VoicePlay("B040608402_06_090");
-        MsgDisp("Himuro","Haha!
-That's the excitement you wanted 
+        MsgDisp("Himuro","Haha! That's the excitement you wanted
 right? an external stimulation!");
         MsgDisp("主人公","(How annoying...)");
         break ;

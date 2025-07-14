@@ -18,9 +18,9 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("I350100000_01_010");
-    MsgDisp("Kazama","I'm in the middle of a shift
-at Simon's, too. The manager asked me
-to get a cake for a customer.");
+    MsgDisp("Kazama","I'm in the middle of a shift at Simon's,
+too. The manager asked me to get a cake
+for a customer.");
     MsgDisp("主人公","So, you want takeout.
 Order received.");
     ChEye(1,0);
@@ -51,15 +51,14 @@ shop near Simon's......)");
     case 3:
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
-    MsgDisp("主人公","Welcome.
-Ah, ｛風真＊＊｝, what's up?");
+    MsgDisp("主人公","Welcome. Ah, ｛風真＊＊｝, what's up?");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,0,3,#1,#1,0,0);
     VoicePlay("I350100000_01_030");
     MsgDisp("Kazama","What, am I not allowed here?
-I was just thinking of having
-a cup of coffee.");
+I was just thinking of having a cup of
+coffee.");
     MsgDisp("主人公","Hehe, I see.
 Then, please have a seat here.");
     MsgClose();
@@ -101,8 +100,8 @@ It was worth the trip coming here.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I350100000_01_080");
-    MsgDisp("Kazama","Next time, I'll take my time
-sipping the coffee.
+    MsgDisp("Kazama","Next time, I'll take my time sipping the
+coffee.
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -110,8 +109,8 @@ See you.");
     ChClose(1,0,30);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(｛風真＊＊｝ came all this way
-to check on me.
+    MsgDisp("主人公","(｛風真＊＊｝ came all this way to check
+on me.
 I'm so happy!)");
     break ;
     case 4:
@@ -124,12 +123,10 @@ I'm so happy!)");
     MsgDisp("主人公","Yes, this is Cafe Alucard.");
     VoicePlay("I350100000_01_090");
     MsgDisp("Kazama?","Hello.");
-    MsgDisp("主人公","Hm?
-Is that you, ｛風真＊＊｝?");
+    MsgDisp("主人公","Hm? Is that you, ｛風真＊＊｝?");
     VoicePlay("I350100000_01_100");
-    MsgDisp("Kazama","Correct.
-There would've been a penalty
-for getting it wrong, you know.");
+    MsgDisp("Kazama","Correct. There would've been a penalty for
+getting it wrong, you know.");
     MsgDisp("主人公","Hehe.
 What is it all of a sudden?");
     VoicePlay("I350100000_01_110");
@@ -151,15 +148,13 @@ Thank you for your order.");
     Wait(75,0);
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,0,3,#1,#1,0,0);
-    MsgDisp("主人公","Welcome.
-......Hm, ｛風真＊＊｝?
-You said someone else would......");
+    MsgDisp("主人公","Welcome. ......Hm, ｛風真＊＊｝? You said
+someone else would......");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3,1);
     VoicePlay("I350100000_01_120");
-    MsgDisp("Kazama","Yeah, I just became free at
-a good time.
+    MsgDisp("Kazama","Yeah, I just became free at a good time.
 I came myself.");
     MsgDisp("主人公","I see.
 Then would you like some coffee?");
@@ -168,8 +163,8 @@ Then would you like some coffee?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("I350100000_01_130");
-    MsgDisp("Kazama","Uh......
-If it's just a little...... no, I can't.");
+    MsgDisp("Kazama","Uh...... If it's just a little...... no, I
+can't.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -182,7 +177,8 @@ You said you were free......");
     ChMouth(1,3);
     ChMotion(1,4);
     VoicePlay("I350100000_01_150");
-    MsgDisp("Kazama","Ah, aah. It was just for a moment?");
+    MsgDisp("Kazama","Ah, aah.
+It was just for a moment?");
     MsgDisp("主人公","Huh, one moment?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -195,8 +191,8 @@ You said you were free......");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","......Wait, ｛風真＊＊｝,
-you forgot the cake!");
+    MsgDisp("主人公","......Wait, ｛風真＊＊｝, you forgot the
+cake!");
     break ;
     default :
     DbgAssert(1);

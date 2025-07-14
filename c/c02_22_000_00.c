@@ -9,8 +9,7 @@ SEWait();
 VoicePlay("C022200000_22_000");
 MsgDisp("Hikaru","......Hello, Mari.
 Did you know that disaster is brewing?");
-MsgDisp("主人公","｛ひかる＊｝.
-......Disaster?");
+MsgDisp("主人公","｛ひかる＊｝. ......Disaster?");
 VoicePlay("C022200000_22_010");
 MsgDisp("Hikaru","Hey, do you remember being cold to any of
 the boys around you, lately?");
@@ -32,9 +31,9 @@ near Mari is like that right now.
 ......Did you notice?");
 MsgDisp("主人公","Eh?");
 VoicePlay("C022200000_22_050");
-MsgDisp("Hikaru","Hikaru thinks Mari knows, but
-if annoyance \"boils up\" long enough
-suddenly one day... Boom! You know?");
+MsgDisp("Hikaru","Hikaru thinks Mari knows, but if annoyance
+\"boils up\" long enough suddenly one day...
+Boom! You know?");
 VoicePlay("C022200000_22_060");
 MsgDisp("Hikaru","So it's better to handle it before it
 comes to that. Kay?");

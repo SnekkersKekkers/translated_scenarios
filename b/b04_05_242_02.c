@@ -19,9 +19,8 @@ switch (MsgSelRsltGet()){
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040524201_05_010");
-        MsgDisp("Hiiragi","No.
-I think a hammock in the middle 
-of nature will feel good.");
+        MsgDisp("Hiiragi","No. I think a hammock in the middle of
+nature will feel good.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -34,16 +33,16 @@ of nature will feel good.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040524201_05_030");
-        MsgDisp("Hiiragi","If I am speaking honestly,
-I am a bit sleep deprived.");
+        MsgDisp("Hiiragi","If I am speaking honestly, I am a bit
+sleep deprived.");
         MsgDisp("主人公","Eh? Are you alright?");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040524201_05_040");
-        MsgDisp("Hiiragi","Yes, it's nothing to worry about.
-But, I wanted to be completely honest 
-with you. That's how I feel.");
+        MsgDisp("Hiiragi","Yes, it's nothing to worry about. But, I
+wanted to be completely honest with you.
+That's how I feel.");
         ChEye(5,2);
         VoicePlay("B040524201_05_050");
         MsgDisp("Hiiragi","Am I troubling you?");

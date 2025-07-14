@@ -27,9 +27,8 @@ I'm good at climbing trees though?");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040824201_08_020");
-    MsgDisp("Shirahane","Hmー.
-When you go camping, I think you're going
-to get dirty to some extent, right?");
+    MsgDisp("Shirahane","Hmー. When you go camping, I think you're
+going to get dirty to some extent, right?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -40,8 +39,8 @@ to get dirty to some extent, right?");
     ChEyeOpenLevel(8,0);
     VoicePlay("B040824201_08_030");
     MsgDisp("Shirahane","Hehe, that's right.
-Then, let's look for a tree
-that's good for climbing!");
+Then, let's look for a tree that's good
+for climbing!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

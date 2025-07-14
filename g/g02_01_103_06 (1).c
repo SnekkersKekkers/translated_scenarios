@@ -20,16 +20,18 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3,1);
 VoicePlay("G020110306_01_020");
-MsgDisp("Kazama","Don't be angry. I love the face you make
-when you're surprised.");
+MsgDisp("Kazama","Don't be angry.
+I love the face you make when you're
+surprised.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110306_01_030");
 MsgDisp("Kazama","So I'm always thinking of how to surprise
 you.");
-MsgDisp("主人公","You are? But I'd rather not be surprised
-that often.");
+MsgDisp("主人公","You are?
+But I'd rather not be surprised that
+often.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -68,9 +70,11 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110306_01_080");
-MsgDisp("Kazama","You got a point there. So the surprise
-that outdoes all that is......");
-MsgDisp("主人公","Well, what? What is it?");
+MsgDisp("Kazama","You got a point there.
+So the surprise that outdoes all that
+is......");
+MsgDisp("主人公","Well, what?
+What is it?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

@@ -5,9 +5,9 @@ MsgClose();
 BGOpen("sc801",0);
 ScrFadeIn(0);
 VoicePlay("Q070201000_48_000");
-MsgDisp("Tour Guide","Here is a toilet break. We will leave in 
-15 minutes. Oh...... just in time, 
-the sunset over the bay is beautiful!");
+MsgDisp("Tour Guide","Here is a toilet break. We will leave in
+15 minutes. Oh...... just in time, the
+sunset over the bay is beautiful!");
 VoicePlay("Q070201000_38_000");
 MsgDisp("Students","Yeeess.");
 VoicePlay("Q070201000_44_000");
@@ -24,8 +24,7 @@ MsgClose();
 Wait(40,0);
 VoicePlay("Q070201000_02_000");
 MsgDisp("Sassa?","Hey, Over here∈");
-MsgDisp("主人公","Eh?
-Ah...... ｛颯砂＊＊｝!");
+MsgDisp("主人公","Eh? Ah...... ｛颯砂＊＊｝!");
 MsgClose();
 EnvAutoSet(0);
 EnvPlay("SE_ENV_BG_AD006_CO1",0,0.9);
@@ -45,8 +44,8 @@ MsgDisp("主人公","Really beautiful......");
 StlEye(2,2);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_030");
-MsgDisp("Sassa","Also, this is a glass ball from 
-Nagasaki Glass.");
+MsgDisp("Sassa","Also, this is a glass ball from Nagasaki
+Glass.");
 StlNear(1,0,30);
 StlEye(2,1);
 StlMouth(2,1);
@@ -66,17 +65,15 @@ StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("Q070201000_02_050");
-MsgDisp("Sassa","Wow......
-It's as if we have a little sun in our 
-hands.");
+MsgDisp("Sassa","Wow...... It's as if we have a little sun
+in our hands.");
 MsgDisp("主人公","So pretty......");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("Q070201000_02_060");
-MsgDisp("Sassa","...... yeah.
-I'll never forget this moment for the 
-rest of my life......");
+MsgDisp("Sassa","...... yeah. I'll never forget this moment
+for the rest of my life......");
 MsgDisp("主人公","Me too......");
 StlEye(2,1);
 StlMouth(2,1);
@@ -94,10 +91,9 @@ MsgDisp("主人公","Eh?");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_090");
-MsgDisp("Sassa","That was poetic good enough for me, 
-wasn't it?");
-MsgDisp("主人公","Hehe, yes.
-Thanks, ｛颯砂＊＊｝.");
+MsgDisp("Sassa","That was poetic good enough for me, wasn't
+it?");
+MsgDisp("主人公","Hehe, yes. Thanks, ｛颯砂＊＊｝.");
 StlEye(2,2);
 StlMouth(2,0);
 VoicePlay("Q070201000_07_000");
@@ -122,8 +118,8 @@ BGMStop(2);
 MsgClose();
 ScrFadeOut(0);
 Wait(30,0);
-MsgDisp("主人公","(｛颯砂＊＊｝......
-Thank you for the pretty gift.)");
+MsgDisp("主人公","(｛颯砂＊＊｝...... Thank you for the
+pretty gift.)");
 MsgClose();
 EnvAutoSet(1);
 StlClose();

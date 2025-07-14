@@ -50,9 +50,8 @@ I like it.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040205102_02_040");
-        MsgDisp("Sassa","And they'll force you to
-watch scary videos while you lay back
-in the chair.");
+        MsgDisp("Sassa","And they'll force you to watch scary
+videos while you lay back in the chair.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -68,8 +67,7 @@ The same as a movie theater?");
         MsgDisp("Sassa","Oh......You're right.
 That's just a normal horror movie.
 And what about the star theme?");
-        MsgDisp("主人公","Hehe.
-Let's leave the horror movies to the
+        MsgDisp("主人公","Hehe. Let's leave the horror movies to the
 movie theaters, shall we?");
         ChEye(2,3);
         ChMouth(2,4);
@@ -77,8 +75,8 @@ movie theaters, shall we?");
         ChEyeOpenLevel(2,0);
         VoicePlay("B040205102_02_070");
         MsgDisp("Sassa","Yeah, agreed.
-That would be easier to do than a 
-complete overhaul of the planetarium.");
+That would be easier to do than a complete
+overhaul of the planetarium.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -104,8 +102,8 @@ something.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040205102_02_100");
-    MsgDisp("Sassa","When the stars twinkle in my eyes
-it blinds me, though.");
+    MsgDisp("Sassa","When the stars twinkle in my eyes it
+blinds me, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

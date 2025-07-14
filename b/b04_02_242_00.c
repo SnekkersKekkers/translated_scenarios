@@ -5,8 +5,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040224200_02_000");
-MsgDisp("Sassa","Well then, hmm,
-where should we put our tent?");
+MsgDisp("Sassa","Well then, hmm, where should we put our
+tent?");
 MsgSel("｛颯砂＊＊｝, I'm counting on you♪","When there's camping, there's BBQs!","It seems to be a lot of inconvenience and trouble...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040224200_02_010");
     MsgDisp("Sassa","Leave it to me!
-Well first, let's start with putting
-up the sun tarp...");
+Well first, let's start with putting up
+the sun tarp...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ up the sun tarp...");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040224200_02_020");
-    MsgDisp("Sassa","That's fine, but there's 
-an order to it right?");
+    MsgDisp("Sassa","That's fine, but there's an order to it
+right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

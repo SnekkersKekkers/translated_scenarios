@@ -32,9 +32,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     ScrFadeIn(0);
     VoicePlay("B060600003_06_020");
-    MsgDisp("Himuro","Well, sometimes there are days
-like this. You can consider it a
-learning experience.");
+    MsgDisp("Himuro","Well, sometimes there are days like this.
+You can consider it a learning experience.");
     MsgDispSksp(0);
     break ;
     default :

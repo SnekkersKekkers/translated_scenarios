@@ -51,8 +51,8 @@ We got the gold medal!");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("O030200000_02_050");
-    MsgDisp("Sassa","I'm already at the point
-where I could live like this.
+    MsgDisp("Sassa","I'm already at the point where I could
+live like this.
 Aren't you the best partner for me?");
     MsgDisp("主人公","(I did it!
 I'm glad I did my best!)");

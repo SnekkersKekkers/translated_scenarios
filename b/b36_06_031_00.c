@@ -33,15 +33,15 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360603100_06_040");
-MsgDisp("Himuro","When it's just us two
-I don't know what to talk about......");
+MsgDisp("Himuro","When it's just us two I don't know what to
+talk about......");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360603100_06_050");
-MsgDisp("Himuro","When I was feeling anxious, I
-had a lot of things I wanted to say.");
+MsgDisp("Himuro","When I was feeling anxious, I had a lot of
+things I wanted to say.");
 MsgDisp("主人公","Really?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -52,8 +52,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B360603100_06_070");
-MsgDisp("Himuro","Please stay with me until
-I think of something to talk about.");
+MsgDisp("Himuro","Please stay with me until I think of
+something to talk about.");
 MsgDisp("主人公","Yeah, I will.");
 ChEye(6,0);
 ChMouth(6,3);
@@ -70,8 +70,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360603100_06_100");
-MsgDisp("Himuro","Well, even if it's late I'll let
-you know if I think of something.
+MsgDisp("Himuro","Well, even if it's late I'll let you know
+if I think of something.
 We can take it slow.");
 BGMStop();
 MsgClose();

@@ -22,25 +22,24 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210305_02_030");
-MsgDisp("Sassa","Probably from that time we did 
-the milking experience.");
+MsgDisp("Sassa","Probably from that time we did the milking
+experience.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210305_02_040");
-MsgDisp("Sassa","Remember? 
-We were facing each other across the cow?");
-MsgDisp("主人公","Y-Yeah. That time ｛颯砂＊＊｝, was just
-watching back then and didn't really do
-much.");
+MsgDisp("Sassa","Remember? We were facing each other across
+the cow?");
+MsgDisp("主人公","Y-Yeah.
+That time ｛颯砂＊＊｝, was just watching
+back then and didn't really do much.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("G020210305_02_050");
-MsgDisp("Sassa","Yeah.
-Seeing you have so much fun milking the 
-cow, felt strange......");
+MsgDisp("Sassa","Yeah. Seeing you have so much fun milking
+the cow, felt strange......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

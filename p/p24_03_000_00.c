@@ -12,8 +12,8 @@ ChMotion(3,0,1);
 BGMPlay("BGM_ENGEKI_C",0.01);
 ScrFadeIn(0,60);
 VoicePlay("P240300000_03_000");
-MsgDisp("Honda","On this occasion, 
-Araki Murashige-dono has rebelled.
+MsgDisp("Honda","On this occasion, Araki Murashige-dono has
+rebelled.
 We must urge him to change his mind.");
 MsgDisp("主人公","Are we even able to do such a thing?");
 ChEye(3,0);
@@ -28,10 +28,10 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_020");
-MsgDisp("Honda","But our failure hasn't been decided,
-has it?");
+MsgDisp("Honda","But our failure hasn't been decided, has
+it?");
 MsgDisp("主人公","(S-Somewhat...... He's returned to being
-the usual ｛本多＊＊｝∋)");
+the usual ｛本多＊＊｝∋ )");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -45,7 +45,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_040");
 MsgDisp("Honda","Who is the one who can resolve any
-dilemma... In this country?");
+dilemma...
+In this country?");
 SEPlay("EV_SE_GAYA_008",0,0.7);
 Wait(90,0);
 MsgDisp("主人公","(Come on, he's become ｛本多＊＊｝ again!)");
@@ -57,8 +58,8 @@ VoicePlay("P240300000_03_050");
 MsgDisp("Honda","...Ahem.
 You don't understand, Mitsu.");
 MsgDisp("主人公","I-I don't understand.
-Mitsu is terribly sorry, 
-but she doesn't understand.");
+Mitsu is terribly sorry, but she doesn't
+understand.");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -120,15 +121,15 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("P240300000_03_110");
 MsgDisp("Honda","Yeah, it was a huge success!");
-MsgDisp("主人公","Hey, didn't you revert back to your 
-usual self during the play?");
+MsgDisp("主人公","Hey, didn't you revert back to your usual
+self during the play?");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("P240300000_03_120");
-MsgDisp("Honda","Yeah, actually I was going to play
-Kuroda Kabei like myself, but I stopped 
-since you glared at me scarily.");
+MsgDisp("Honda","Yeah, actually I was going to play Kuroda
+Kabei like myself, but I stopped since you
+glared at me scarily.");
 MsgDisp("主人公","Geez... I really wondered what was going
 to happen.");
 ChEye(3,0);
@@ -144,8 +145,8 @@ MsgDisp("Honda","That's right, let's continue with the two
 of us! Our own school play! Ah, should we
 borrow these costumes too?");
 MsgDisp("主人公","(Hehe, that seems kind of fun?
-Seems like the play was a success, 
-that's good!)");
+Seems like the play was a success, that's
+good!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

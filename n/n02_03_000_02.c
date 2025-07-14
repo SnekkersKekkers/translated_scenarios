@@ -10,8 +10,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("N020300002_03_000");
     MsgDisp("Honda","Hmm?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-What's up?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. What's up?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4);
@@ -27,8 +26,7 @@ My score was disappointing, huh.)");
     ChMotion(3,4,1);
     VoicePlay("N020300002_03_020");
     MsgDisp("Honda","Did you already check the exam results?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-Yeah, I did check.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. Yeah, I did check.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0);
@@ -41,7 +39,8 @@ Umm, are you feeling down?");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("N020300002_03_040");
-    MsgDisp("Honda","I see, I see! That's good.
+    MsgDisp("Honda","I see, I see!
+That's good.
 Then, it's none of my business.");
     MsgDisp("主人公","(Oof... I mean, it was my score that made
 you ask that...)");
@@ -54,8 +53,7 @@ you ask that...)");
     VoicePlay("N020300002_03_050");
     MsgDisp("Honda","Hmm, what is it?
 This feeling of haziness...");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
-What's up?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. What's up?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0);

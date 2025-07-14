@@ -12,10 +12,9 @@ ChMotion(5,0,1);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("B360523601_05_000");
-MsgDisp("Hiiragi","｛主人公｝,
-are you having fun?");
-MsgDisp("主人公","Yeah, I didn't think you'd be
-able to come to the Night Parade today!");
+MsgDisp("Hiiragi","｛主人公｝, are you having fun?");
+MsgDisp("主人公","Yeah, I didn't think you'd be able to come
+to the Night Parade today!");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360523601_05_010");
@@ -24,8 +23,8 @@ But now I feel a little more guilty.");
 MsgDisp("主人公","Eh?");
 ChEyeOpenLevel(5,0);
 VoicePlay("B360523601_05_020");
-MsgDisp("Hiiragi","Because Inori-kun and Mikage-sensei
-can't see your sparkling face right now.");
+MsgDisp("Hiiragi","Because Inori-kun and Mikage-sensei can't
+see your sparkling face right now.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360523601_05_030");
@@ -34,12 +33,12 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(5);
 VoicePlay("B360523601_05_040");
-MsgDisp("Hiiragi","I feel bad for those two,
-but I'll have it to myself for now.
+MsgDisp("Hiiragi","I feel bad for those two, but I'll have it
+to myself for now.
 Shall we sit side by side?");
 MsgDisp("主人公","(｛柊＊＊＊｝, you must have thought about
-it a lot before inviting me...... Thank
-you.)");
+it a lot before inviting me......
+Thank you.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

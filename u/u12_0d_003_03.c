@@ -5,7 +5,7 @@ StlEyeOpenLevel(22,5,1);
 StlMouth(22,2);
 StlCheek(22,0);
 VoicePlay("U120D00303_22_000");
-MsgDisp("Hikaru","Hmm, so does that mean she's not 
+MsgDisp("Hikaru","Hmm, so does that mean she's not
 interested in love?");
 StlEye(21,1);
 StlMouth(21,0);

@@ -6,7 +6,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B060200011_02_000");
-    MsgDisp("Sassa","Isn't it about time?　Let's leave.");
+    MsgDisp("Sassa","Isn't it about time?
+Let's leave.");
     break ;
     case 3:
     ChEye(2,0);

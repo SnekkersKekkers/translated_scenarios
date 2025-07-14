@@ -26,9 +26,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040609001_06_020");
-    MsgDisp("Himuro","Not really.
-Isn't that good? People who like
-greenery have a kind image.");
+    MsgDisp("Himuro","Not really. Isn't that good? People who
+like greenery have a kind image.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

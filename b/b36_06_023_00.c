@@ -30,8 +30,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B360602300_06_030");
-MsgDisp("Himuro","I feel more comfortable when it's just
-the two of us after all.");
+MsgDisp("Himuro","I feel more comfortable when it's just the
+two of us after all.");
 MsgDisp("主人公","I see.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -43,8 +43,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B360602300_06_050");
-MsgDisp("Himuro","Would you rather be with everyone
-than just have us two together?");
+MsgDisp("Himuro","Would you rather be with everyone than
+just have us two together?");
 MsgDisp("主人公","Hmm......
 I think either is enjoyable.");
 ChEye(6,1);
@@ -57,8 +57,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360602300_06_070");
-MsgDisp("Himuro","It's like I'm the only one
-having fun. It's ticking me off.");
+MsgDisp("Himuro","It's like I'm the only one having fun.
+It's ticking me off.");
 MsgDisp("主人公","I don't think that's the case though......");
 ChEye(6,0);
 ChMouth(6,0);

@@ -21,19 +21,17 @@ We weren't really in sync......)");
     ChOpen(4,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030400001_04_010");
-    MsgDisp("Nanatsumori","You won't get first
-if you're with me.
+    MsgDisp("Nanatsumori","You won't get first if you're with me.
 Remember that next time.");
-    MsgDisp("主人公","I thought that I would
-be in sync with you, ｛七ツ森＊｝......
+    MsgDisp("主人公","I thought that I would be in sync with
+you, ｛七ツ森＊｝......
 It was close.");
     ChEye(4,2);
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("O030400001_04_020");
-    MsgDisp("Nanatsumori","Really?
-I did try, but you can't count on me
-for exercise.");
+    MsgDisp("Nanatsumori","Really? I did try, but you can't count on
+me for exercise.");
     MsgDisp("主人公","(Hm......
 I guess that's it.)");
     break ;
@@ -47,8 +45,8 @@ I guess that's it.)");
     VoicePlay("O030400001_04_030");
     MsgDisp("Nanatsumori","My bad.
 You got pulled by my leg......");
-    MsgDisp("主人公","No.
-It's because I couldn't match you......");
+    MsgDisp("主人公","No. It's because I couldn't match
+you......");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("O030400001_04_040");
@@ -64,16 +62,16 @@ though.");
     ChMouth(4,0);
     ChMotion(4,2,1);
     VoicePlay("O030400001_04_060");
-    MsgDisp("Nanatsumori","I don't think I can win
-in exercise. Sorry.");
+    MsgDisp("Nanatsumori","I don't think I can win in exercise.
+Sorry.");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("O030400001_04_070");
-    MsgDisp("Nanatsumori","I'll become a man
-you can rely on in other areas.");
-    MsgDisp("主人公","(｛七ツ森＊｝......
-But, it really is a shame.)");
+    MsgDisp("Nanatsumori","I'll become a man you can rely on in other
+areas.");
+    MsgDisp("主人公","(｛七ツ森＊｝...... But, it really is a
+shame.)");
     break ;
     default :
     DbgAssert(1);

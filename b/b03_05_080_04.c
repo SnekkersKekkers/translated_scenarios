@@ -5,8 +5,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030508004_05_000");
-MsgDisp("Hiiragi","The cold air is crisp. Winter is really
-beautiful.
+MsgDisp("Hiiragi","The cold air is crisp.
+Winter is really beautiful.
 Aren't you cold?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah, thank you.

@@ -21,8 +21,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030123002_01_010");
-    MsgDisp("Kazama","Right.
-Let's find a good spot to watch from.");
+    MsgDisp("Kazama","Right. Let's find a good spot to watch
+from.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);

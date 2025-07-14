@@ -7,9 +7,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B040724202_07_000");
-MsgDisp("Mikage","When you go camping together, you 
-can see a side of the other person 
-that is usually hidden");
+MsgDisp("Mikage","When you go camping together, you can see
+a side of the other person that is usually
+hidden");
 MsgSel("It's perfect for marriage interviews","｛御影＊＊｝'s hidden side?'","It's a little scary...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
         ChMotion(7,2);
         VoicePlay("B040724202_07_010");
         MsgDisp("Mikage","Marriage interview camping...
-It would kinda be like a marriage 
-crash course.");
+It would kinda be like a marriage crash
+course.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -35,18 +35,17 @@ crash course.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040724202_07_020");
-        MsgDisp("Mikage","\"Marriage Interview Camping?\"
-It might be like a simulation of
-what it would be like to live together.");
+        MsgDisp("Mikage","\"Marriage Interview Camping?\" It might be
+like a simulation of what it would be like
+to live together.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040724202_07_030");
-        MsgDisp("Mikage","But what I'm talking about, 
-is more like seeing the other
-person's vitality.");
-        MsgDisp("主人公","｛御影＊＊｝'s vitality is so strong, you
-can see it even on the regular?'");
+        MsgDisp("Mikage","But what I'm talking about, is more like
+seeing the other person's vitality.");
+        MsgDisp("主人公","｛御影＊＊｝'s vitality is so strong,
+you can see it even on the regular?'");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -90,11 +89,10 @@ I had fun.");
         ChMouth(7,3);
         ChMotion(7,5);
         VoicePlay("B040724202_07_070");
-        MsgDisp("Mikage","Then, 
-This \"Marriage Interview Camp\"
-was a huge success!");
-        MsgDisp("主人公","(Hehe, I had fun. It would be great if we
-could come again.)");
+        MsgDisp("Mikage","Then, This \"Marriage Interview Camp\" was a
+huge success!");
+        MsgDisp("主人公","(Hehe, I had fun.
+It would be great if we could come again.)");
         break ;
         default :
         DbgAssert(1);
@@ -119,9 +117,8 @@ I'm out of things to reveal.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040724202_07_090");
-    MsgDisp("Mikage","Right.
-In front of nature, humans are completely
-naked. aah, I don't mean that
+    MsgDisp("Mikage","Right. In front of nature, humans are
+completely naked. aah, I don't mean that
 in a weird way.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

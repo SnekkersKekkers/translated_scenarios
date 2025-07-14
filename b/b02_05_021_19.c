@@ -8,8 +8,7 @@ MsgDisp("主人公","Um, ｛柊＊＊＊｝?");
 ChMotion(5,0);
 VoicePlay("B020502119_05_010");
 MsgDisp("Hiiragi","You're living proof of that.
-Your true charm is brought out
-by clothes that aren't flashy.");
+Your true charm is brought out by clothes
+that aren't flashy.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝
-seems to like these clothes!)");
+｛柊＊＊＊｝ seems to like these clothes!)");

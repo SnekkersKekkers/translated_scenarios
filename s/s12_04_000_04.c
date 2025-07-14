@@ -14,16 +14,15 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("S120400004_04_000");
-    MsgDisp("Nanatsumori","It's our last New Year's visit
-as high schoolers, huh?");
+    MsgDisp("Nanatsumori","It's our last New Year's visit as high
+schoolers, huh?");
     MsgDisp("主人公","Time passed by so quickly.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("S120400004_04_010");
-    MsgDisp("Nanatsumori","Right.
-There isn't much of it left, but I'm
-looking forward to the rest of it.");
+    MsgDisp("Nanatsumori","Right. There isn't much of it left, but
+I'm looking forward to the rest of it.");
     MsgDisp("主人公","Treat me well.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -41,15 +40,14 @@ Let's spend our time without regrets!)");
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("S120400004_04_020");
-    MsgDisp("Nanatsumori","Our last New Year's visit of
-our high school days......");
+    MsgDisp("Nanatsumori","Our last New Year's visit of our high
+school days......");
     MsgDisp("主人公","You're right......");
     ChMotion(4,1,1);
     VoicePlay("S120400004_04_030");
-    MsgDisp("Nanatsumori","We're graduating from
-Habataki High School soon too.");
-    MsgDisp("主人公","Yep.
-Three years passed in the blink of an
+    MsgDisp("Nanatsumori","We're graduating from Habataki High School
+soon too.");
+    MsgDisp("主人公","Yep. Three years passed in the blink of an
 eye.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,0);
@@ -75,8 +73,8 @@ make ourselves sad.");
     ChMotion(4,1);
     VoicePlay("S120400004_04_060");
     MsgDisp("Nanatsumori","Haa......");
-    MsgDisp("主人公","｛七ツ森＊｝, already sighing
-in the New Year?");
+    MsgDisp("主人公","｛七ツ森＊｝, already sighing in the
+New Year?");
     ChEye(4,4);
     ChMouth(4,0);
     ChMotion(4,0,1);
@@ -93,8 +91,7 @@ three years.");
     ChMotion(4,1,1);
     VoicePlay("S120400004_04_090");
     MsgDisp("Nanatsumori","So many things happened.
-The memories are suddenly all coming
-back.");
+The memories are suddenly all coming back.");
     MsgDisp("主人公","Memories, huh......");
     ChEye(4,2);
     ChMouth(4,3);

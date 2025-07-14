@@ -20,14 +20,14 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("L060100000_01_020");
-MsgDisp("Kazama","Sorry.
-I still have a lot to do, so I gotta go.");
+MsgDisp("Kazama","Sorry. I still have a lot to do, so I
+gotta go.");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(It looks like ｛風真＊＊｝ has a lot
-of return gifts to give.
-Hm...... this is obligatory.)");
+MsgDisp("主人公","(It looks like ｛風真＊＊｝ has a lot of
+return gifts to give. Hm...... this is
+obligatory.)");
 MsgClose();
 ScrFadeOut(0,0);

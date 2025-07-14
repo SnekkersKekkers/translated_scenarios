@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     ChMotion(3,4);
     VoicePlay("B040310102_03_010");
-    MsgDisp("Honda","Yep yep, 
-The permanent dinosaur exhibit
+    MsgDisp("Honda","Yep yep, The permanent dinosaur exhibit
 here is also well done.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -62,8 +61,8 @@ Even though it's your personal opinion?");
         MsgDisp("Honda","You don't know, huh...
 I'll tell you everything that I know.");
         MsgDisp("主人公","Sorry, that was a weird way to put it.
-I enjoyed the museum though,
-my favourite thing was...");
+I enjoyed the museum though, my favourite
+thing was...");
         ChEye(3,1);
         ChMouth(3,1);
         ChMotion(3,5);

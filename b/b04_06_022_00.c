@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,3);
     VoicePlay("B040602200_06_010");
     MsgDisp("Himuro","It's the source of life after all.
-Undoubtedly, it's the greatest 
-thing on earth.");
+Undoubtedly, it's the greatest thing on
+earth.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ thing on earth.");
     ChMotion(6,0);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040602200_06_020");
-    MsgDisp("Himuro","With the size of this ship,
-that would be impossible.");
+    MsgDisp("Himuro","With the size of this ship, that would be
+impossible.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -38,9 +38,8 @@ that would be impossible.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040602200_06_030");
-    MsgDisp("Himuro","Definitely.
-I'll never get tired of seeing it, 
-seeing you in such high spirits.");
+    MsgDisp("Himuro","Definitely. I'll never get tired of seeing
+it, seeing you in such high spirits.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

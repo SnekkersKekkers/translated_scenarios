@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(1,255,0,0,3,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123501_01_000");
-MsgDisp("Kazama","Around the prison cell, I felt 
-something touching my back.");
+MsgDisp("Kazama","Around the prison cell, I felt something
+touching my back.");
 MsgSel("Yeah, there was some lukewarm air blowing","Sorry, that might have been me...","Eh, you're kidding∋　What, whatー∋");
 switch (MsgSelRsltGet()){
     case 0:

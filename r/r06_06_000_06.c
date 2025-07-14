@@ -11,8 +11,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("R060600006_06_000");
     MsgDisp("Himuro","Hmm...
 Is this a hobby of yours?");
-    MsgDisp("主人公","(Hmm, he seems pleased
-with my gift... I think?)");
+    MsgDisp("主人公","(Hmm, he seems pleased with my gift...
+I think?)");
     break ;
     case 3:
     case 4:
@@ -23,8 +23,8 @@ with my gift... I think?)");
     VoicePlay("R060600006_06_010");
     MsgDisp("Himuro","Well, it's the thought that counts.
 Thanks.");
-    MsgDisp("主人公","(Hmm, he seems pleased
-with my gift... I think?)");
+    MsgDisp("主人公","(Hmm, he seems pleased with my gift...
+I think?)");
     break ;
     default :
     DbgAssert(1);

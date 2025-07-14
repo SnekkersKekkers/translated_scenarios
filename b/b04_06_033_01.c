@@ -16,10 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040603301_06_010");
-    MsgDisp("Himuro","Definitely.
-If I encountered one in the ocean
-I'd be kinda...No,
-considerably surprised.");
+    MsgDisp("Himuro","Definitely. If I encountered one in the
+ocean I'd be kinda...No, considerably
+surprised.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

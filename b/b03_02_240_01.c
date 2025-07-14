@@ -5,8 +5,8 @@ ChMotion(2,3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030224001_02_000");
-MsgDisp("Sassa","Ahh...～ This is a great place.
-The air is so crisp, too.");
+MsgDisp("Sassa","Ahh...～ This is a great place. The air is
+so crisp, too.");
 MsgSel("I wonder if there are animals?","Want to head to the campground?");
 switch (MsgSelRsltGet()){
     case 0:

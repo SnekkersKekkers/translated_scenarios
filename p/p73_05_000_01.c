@@ -23,9 +23,9 @@ expression, yes?");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500001_05_010");
-    MsgDisp("Hiiragi","It would be a shame if you couldn't 
-look cheerful even when wearing
-a dress that wonderful.");
+    MsgDisp("Hiiragi","It would be a shame if you couldn't look
+cheerful even when wearing a dress that
+wonderful.");
     MsgDisp("主人公","But, I'm nervous.");
     ChEye(5,4);
     ChMouth(5,4);
@@ -42,8 +42,8 @@ it will be complete.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("P730500001_05_040");
-    MsgDisp("Hiiragi","However, if you don't smile,
-it won't be complete.");
+    MsgDisp("Hiiragi","However, if you don't smile, it won't be
+complete.");
     MsgDisp("主人公","Hehe, yeah!");
     SEPlay("EV_SE_038");
     SEWait();
@@ -52,8 +52,8 @@ it won't be complete.");
     VoicePlay("P730500001_05_050");
     MsgDisp("Hiiragi","Yes, now it's complete.
 Have fun.");
-    MsgDisp("主人公","(Smile... huh?
-Alright, let's do our best!)");
+    MsgDisp("主人公","(Smile... huh? Alright, let's do our
+best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);
@@ -74,10 +74,9 @@ I think it turned out well but...)");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("P730500001_05_070");
-    MsgDisp("Hiiragi","I was so captivated that
-I forgot to greet you.");
-    MsgDisp("主人公","Really?
-Hearing ｛柊＊＊＊｝ say that, 
+    MsgDisp("Hiiragi","I was so captivated that I forgot to greet
+you.");
+    MsgDisp("主人公","Really? Hearing ｛柊＊＊＊｝ say that,
 helped me gain some confidence.");
     ChEye(5,3);
     ChMouth(5,3);
@@ -90,8 +89,8 @@ many times as you want.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P730500001_05_090");
-    MsgDisp("Hiiragi","If you smile like that, 
-you'll be invincible.");
+    MsgDisp("Hiiragi","If you smile like that, you'll be
+invincible.");
     MsgDisp("主人公","Eh?");
     ChEye(5,4);
     ChMotion(5,4);
@@ -104,7 +103,7 @@ audience on stage");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("P730500001_05_110");
-    MsgDisp("Hiiragi","It'll be  alright.
+    MsgDisp("Hiiragi","It'll be alright.
 Believe in me.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -113,10 +112,9 @@ Believe in me.");
     ChMotion(5,0,1);
     VoicePlay("P730500001_05_120");
     MsgDisp("Hiiragi","Alright, have fun.");
-    MsgDisp("主人公","Yeah.
-｛柊＊＊＊｝, thank you!");
-    MsgDisp("主人公","(While not forgetting to smile,
-I'll do my best!)");
+    MsgDisp("主人公","Yeah. ｛柊＊＊＊｝, thank you!");
+    MsgDisp("主人公","(While not forgetting to smile, I'll do my
+best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

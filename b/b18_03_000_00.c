@@ -42,8 +42,9 @@ refreshing!");
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B180300000_03_050");
-    MsgDisp("Honda","I see. Don't worry about it. It was just
-a sudden idea!");
+    MsgDisp("Honda","I see.
+Don't worry about it.
+It was just a sudden idea!");
     MsgDisp("主人公","(Did I do something wrong...?)");
     break ;
     default :

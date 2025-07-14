@@ -8,8 +8,8 @@ ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C06101_07_000");
 MsgDisp("Mikage","Inori sure seems busy, huh?");
-MsgDisp("主人公","He said he had class duty
-and was helping the teacher.");
+MsgDisp("主人公","He said he had class duty and was helping
+the teacher.");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(7,0);
@@ -34,8 +34,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C06101_07_020");
 MsgDisp("Mikage","It's surprising right?
-I thought he was
-more of a free spirit.");
+I thought he was more of a free spirit.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -52,18 +51,18 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140C06101_05_030");
-MsgDisp("Hiiragi","There's a saying that goes
-\"You should look for an older wife
-even if it means wearing golden sandals.\"
-That's what you are to Inori.");
+MsgDisp("Hiiragi","There's a saying that goes \"You should
+look for an older wife even if it means
+wearing golden sandals.\" That's what you
+are to Inori.");
 MsgDisp("主人公","Eh? Wife?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C06101_05_040");
 MsgDisp("Hiiragi","Why are you that surprised?
-Everyone knows that you two have 
-been getting along recently.");
+Everyone knows that you two have been
+getting along recently.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

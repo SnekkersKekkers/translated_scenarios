@@ -3,8 +3,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610400_06_000");
-MsgDisp("Himuro","Lately, my mom keeps asking me:
-\"Did something good happen?\"");
+MsgDisp("Himuro","Lately, my mom keeps asking me: \"Did
+something good happen?\"");
 MsgDisp("主人公","Really! Did something actually happen?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -16,8 +16,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610400_06_020");
-MsgDisp("Himuro","But when I thought about it more, 
-I realized every time she asked was after
+MsgDisp("Himuro","But when I thought about it more, I
+realized every time she asked was after
 the days I hung out with you.");
 MsgDisp("主人公","Eh!");
 ChEye(6,0);
@@ -38,7 +38,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020610400_06_050");
-MsgDisp("Himuro","In my opinion, what's amazing isn't my 
+MsgDisp("Himuro","In my opinion, what's amazing isn't my
 mom, but actually you.");
 MsgDisp("主人公","Eh, me?");
 ChEye(6,0);
@@ -64,7 +64,7 @@ ChCheek(6,0);
 VoicePlay("G020610400_06_080");
 MsgDisp("Himuro","At this rate, she'll probably say the same
 thing again when I get home today.");
-MsgDisp("主人公","(Hehe, feels like I've glimpsed another 
+MsgDisp("主人公","(Hehe, feels like I've glimpsed another
 side of the Himuro family......!)");
 BGMStop();
 MsgClose();

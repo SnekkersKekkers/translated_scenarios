@@ -46,8 +46,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500802_05_030");
 MsgDisp("Hiiragi","I must have made a mistake inputting the
-information. I'll start over from the
-beginning.");
+information.
+I'll start over from the beginning.");
 MsgDisp("主人公","Y-Yes.......");
 MsgDisp("主人公","(Ah∈
 under the laptop——)");
@@ -101,10 +101,12 @@ ChEye(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("G110500802_05_080");
-MsgDisp("Hiiragi","No, that's no good at all. I couldn't even
-do this job by myself......");
-MsgDisp("主人公","That's not true at all. After all, your
-calculations were right, right?");
+MsgDisp("Hiiragi","No, that's no good at all.
+I couldn't even do this job by
+myself......");
+MsgDisp("主人公","That's not true at all.
+After all, your calculations were right,
+right?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -126,8 +128,8 @@ VoicePlay("G110500802_05_110");
 MsgDisp("Hiiragi","Thank you.
 I feel a little more confident now.
 You give very good compliments.");
-MsgDisp("主人公","(Yay!
-But I want to help ｛柊＊＊＊｝ even more.)");
+MsgDisp("主人公","(Yay! But I want to help ｛柊＊＊＊｝ even
+more.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

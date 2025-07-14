@@ -4,8 +4,8 @@ ChCheek(1,6);
 Wait(60,0);
 VoicePlay("T020100000_01_410");
 MsgDisp("Kazama","......A kiss? Then......");
-MsgDisp("主人公","I also like ｛風真＊＊｝. Thank you for
-always thinking of me.");
+MsgDisp("主人公","I also like ｛風真＊＊｝.
+Thank you for always thinking of me.");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -35,8 +35,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("T020100000_01_460");
-MsgDisp("Kazama","May we always be happy and healthy,
-and may we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020100000_01_470");
@@ -58,14 +58,13 @@ MsgDisp("Kazama","......Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful......!");
 VoicePlay("T020100000_01_500");
-MsgDisp("Kazama","I found and bought it when I
-was in England." );
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_510");
 MsgDisp("Kazama","——I'll definitely give it to you one
 day.");
-MsgDisp("主人公","｛風真＊＊｝......
-Thank you.");
+MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
@@ -82,8 +81,8 @@ MsgDisp("Kazama","Like this......");
 StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoicePlay("T020100000_01_540");
-MsgDisp("Kazama","Let's go ahead and hold the ceremony 
-like this. ");
+MsgDisp("Kazama","Let's go ahead and hold the ceremony like
+this.");
 MsgDisp("主人公","......Yes.");
 VoicePlay("T020100000_01_550");
 MsgDisp("Kazama","This kiss is our promise.");
@@ -104,11 +103,13 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("T020100000_01_390");
-MsgDisp("Kazama","The bell is ringing...! Come on!");
+MsgDisp("Kazama","The bell is ringing...!
+Come on!");
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,1);
 VoicePlay("T020100000_01_580");
-MsgDisp("Kazama","I don't need any more wishes. I have you.");
+MsgDisp("Kazama","I don't need any more wishes.
+I have you.");
 MsgClose();
 ScrFadeOut(0,1,120);
 StlClose();

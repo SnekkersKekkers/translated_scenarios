@@ -3,9 +3,8 @@ ChMouth(8,0);
 ChMotion(8,2);
 ChCheek(8,4);
 VoicePlay("B060800013_08_000");
-MsgDisp("Shirahane","...Hey.
-I wanna stay with ya a bit longer...
-won't ya accompany me?");
+MsgDisp("Shirahane","...Hey. I wanna stay with ya a bit
+longer... won't ya accompany me?");
 MsgSel("Yeah, that's fine.","Sorry, today is a bit...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -37,8 +36,8 @@ Be careful on your way home, 'kay?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(I wonder if it was bad
-for me to turn him down?)");
+    MsgDisp("主人公","(I wonder if it was bad for me to turn him
+down?)");
     MsgClose();
     ScrFadeOut(0);
     break ;

@@ -7,17 +7,16 @@ MsgDisp("Nanatsumori?","｛主人公｝.");
 MsgClose();
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Huh?
-｛七ツ森＊｝, you still haven't gone home?");
+MsgDisp("主人公","Huh? ｛七ツ森＊｝, you still haven't
+gone home?");
 VoicePlay("B350400000_04_010");
-MsgDisp("Nanatsumori","There's no way I can go
-home feeling this unsatisfied.");
+MsgDisp("Nanatsumori","There's no way I can go home feeling this
+unsatisfied.");
 MsgDisp("主人公","Eh?");
 ChMotion(4,1,1);
 VoicePlay("B350400000_04_020");
-MsgDisp("Nanatsumori","If you're still okay for time,
-could you hang out with 
-me a little longer?");
+MsgDisp("Nanatsumori","If you're still okay for time, could you
+hang out with me a little longer?");
 MsgSel("Yeah, of course!","I have something to take care of...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -46,9 +45,8 @@ Let's play to our heart's content...");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B350400000_04_060");
-    MsgDisp("Nanatsumori","Don't mind it.
-I'll find a way to burn it off by myself 
-somewhere before heading 
+    MsgDisp("Nanatsumori","Don't mind it. I'll find a way to burn it
+off by myself somewhere before heading
 home. Later...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

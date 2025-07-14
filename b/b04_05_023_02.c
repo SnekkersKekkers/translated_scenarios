@@ -26,14 +26,14 @@ switch (MsgSelRsltGet()){
         ChMouth(5,3);
         ChMotion(5,5);
         VoicePlay("B040502302_05_020");
-        MsgDisp("Hiiragi","Haha.
-You really are an interesting person.");
+        MsgDisp("Hiiragi","Haha. You really are an interesting
+person.");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040502302_05_030");
-        MsgDisp("Hiiragi","You won't know if it's a mushroom
-unless you ask the artist");
+        MsgDisp("Hiiragi","You won't know if it's a mushroom unless
+you ask the artist");
         MsgDisp("主人公","Ah, that's right.
 My apologies.");
         ChEye(5,4);
@@ -46,15 +46,16 @@ Just don't be too certain.");
         ChMotion(5,4);
         VoicePlay("B040502302_05_050");
         MsgDisp("Hiiragi","I suppose it was the artist's intentions
-to evoke different images
-within the people looking at it.");
-        MsgDisp("主人公","I see. Then, what do you think it is,
+to evoke different images within the
+people looking at it.");
+        MsgDisp("主人公","I see.
+Then, what do you think it is,
 ｛柊＊＊＊｝?");
         ChEye(5,2);
         ChMotion(5,1);
         VoicePlay("B040502302_05_060");
-        MsgDisp("Hiiragi","...Hey, for today I can
-only see it as a mushroom.");
+        MsgDisp("Hiiragi","...Hey, for today I can only see it as a
+mushroom.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040502302_05_070");
@@ -65,11 +66,9 @@ Please take some responsibility.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040502302_05_080");
-        MsgDisp("Hiiragi","Hehe.
-I wonder why I have so much 
-fun when I'm with you.");
-        MsgDisp("主人公","(｛柊＊＊＊｝,
-you laughed a lot today.
+        MsgDisp("Hiiragi","Hehe. I wonder why I have so much fun when
+I'm with you.");
+        MsgDisp("主人公","(｛柊＊＊＊｝, you laughed a lot today.
 I'm somewhat happy...)");
         break ;
         default :
@@ -81,8 +80,8 @@ I'm somewhat happy...)");
     DateRateSet(3);
     ChEye(5,4);
     VoicePlay("B040502302_05_090");
-    MsgDisp("Hiiragi","You've really gotten invested
-in this, haven't you?");
+    MsgDisp("Hiiragi","You've really gotten invested in this,
+haven't you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

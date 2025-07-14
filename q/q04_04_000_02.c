@@ -6,7 +6,8 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("Q040400002_04_000");
-    MsgDisp("Nanatsumori","My bad. I already planned on going alone.");
+    MsgDisp("Nanatsumori","My bad.
+I already planned on going alone.");
     MsgDisp("主人公","I see......");
     ChEye(4,0);
     ChMouth(4,0);

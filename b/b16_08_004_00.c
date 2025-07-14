@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     NSSCheek(8,10);
     VoicePlay("B160800400_08_010");
     MsgDisp("Shirahane","You're teasin'.
-You say a \"bit more\", 
-but how much more?");
+You say a \"bit more\", but how much more?");
     break ;
     case 1:
     NSSEye(8,2);

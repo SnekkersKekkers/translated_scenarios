@@ -11,5 +11,4 @@ ChCheek(6,10);
 VoicePlay("B020602114_06_010");
 MsgDisp("Himuro","Especially when it's you wearing it.");
 MsgDisp("主人公","(I'm glad!
-｛氷室＊＊｝ seems to
-like these clothes!)");
+｛氷室＊＊｝ seems to like these clothes!)");

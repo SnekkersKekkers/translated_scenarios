@@ -12,8 +12,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040302300_03_010");
-    MsgDisp("Honda","Exactly, the sea is the soup of life. This
-is also the scent of living creatures!");
+    MsgDisp("Honda","Exactly, the sea is the soup of life.
+This is also the scent of living
+creatures!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +35,8 @@ Are you setting up a joke?");
     DateRateSet(1);
     ChSet(3,2,1);
     VoicePlay("B040302300_03_030");
-    MsgDisp("Honda","True...
-Why do water sports seem so challenging?");
+    MsgDisp("Honda","True... Why do water sports seem so
+challenging?");
     MsgDateResultDisp();
     break ;
     default :

@@ -14,8 +14,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,8);
 VoicePlay("E010310000_03_010");
-MsgDisp("Honda","Huhu,
-is it possible that you also～......?");
+MsgDisp("Honda","Huhu, is it possible that you
+also～......?");
 MsgDisp("主人公","Eh? What?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -27,8 +27,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010310000_03_030");
-MsgDisp("Honda","There's new ramen shop that just opened
-in the shopping district!");
+MsgDisp("Honda","There's new ramen shop that just opened in
+the shopping district!");
 MsgDisp("主人公","Huhu, is that why you're here?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -42,7 +42,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("E010310000_03_050");
-MsgDisp("Honda","The chaccha type one seems interesting, 
+MsgDisp("Honda","The chaccha type one seems interesting,
 don't you think?");
 MsgDisp("主人公","Yeah, seems fun and delicious.");
 ChEye(3,0);
@@ -58,9 +58,9 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010310000_03_070");
 MsgDisp("Honda","Is that so? Why?");
-MsgDisp("主人公","Because I won't be able to 
-eat dinner then. Are you gonna be able to,
-｛本多＊＊｝?");
+MsgDisp("主人公","Because I won't be able to eat dinner
+then.
+Are you gonna be able to, ｛本多＊＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

@@ -6,8 +6,8 @@ ChMouth(6,4);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040615101_06_000");
-MsgDisp("Himuro","Since we're here anyways,
-why not have a contest?");
+MsgDisp("Himuro","Since we're here anyways, why not have a
+contest?");
 MsgSel("I-Impossible!","Go easy on me, okay?","I won't lose!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040615101_06_010");
-    MsgDisp("Himuro","You're deciding it's impossible 
-before you even try?");
+    MsgDisp("Himuro","You're deciding it's impossible before you
+even try?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -37,8 +37,7 @@ before you even try?");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040615101_06_030");
-    MsgDisp("Himuro","If you're gonna do it,
-you have to win.
+    MsgDisp("Himuro","If you're gonna do it, you have to win.
 Let's both do our best.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

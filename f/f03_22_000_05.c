@@ -17,9 +17,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_210");
-MsgDisp("Hikaru","Yeah!
-That's why if Mari falls in love, she
-should ask Hikaru all sorts of stuff♪");
+MsgDisp("Hikaru","Yeah! That's why if Mari falls in love,
+she should ask Hikaru all sorts of stuff♪");
 MsgDisp("主人公","Thank you.");
 ChEye(22,0);
 ChMouth(22,3);
@@ -32,8 +31,8 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_230");
-MsgDisp("Hikaru","When I talk about love, her 
-reactions are really funny～!");
+MsgDisp("Hikaru","When I talk about love, her reactions are
+really funny～!");
 MsgDisp("主人公","(............)");
 BGMStop();
 MsgClose();

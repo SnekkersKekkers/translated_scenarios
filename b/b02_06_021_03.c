@@ -9,6 +9,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602103_06_010");
-MsgDisp("Himuro","That's not the issue... I'm in trouble.");
+MsgDisp("Himuro","That's not the issue...
+I'm in trouble.");
 MsgDisp("主人公","(Oh, so he likes it?
 I'm glad!)");

@@ -12,8 +12,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B050600000_06_010");
 MsgDisp("Himuro","......like a cherry blossom carpet?");
-MsgDisp("主人公","I guess it's more like a futon
-than a carpet?");
+MsgDisp("主人公","I guess it's more like a futon than a
+carpet?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -32,8 +32,7 @@ SEPlay("EV_SE_645");
 Wait(20,0);
 BGMPlay("BGM_C06_INORI_B",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Eh, hold on......!
-｛氷室＊＊｝∋");
+MsgDisp("主人公","Eh, hold on......! ｛氷室＊＊｝∋");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600000_06_030");
@@ -50,15 +49,15 @@ StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("B050600000_06_050");
 MsgDisp("Himuro","A comfortable bed and a stunning view.
-Cherry Blossoms as far as the eye can 
-see. So beautiful......it's scary.");
+Cherry blossoms as far as the eye can see.
+So beautiful......it's scary.");
 StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);
 VoicePlay("B050600000_06_060");
 MsgDisp("Himuro","Everything I was thinking about,
-everything that worried me, is
-drifting away.");
+everything that worried me, is drifting
+away.");
 MsgDisp("主人公","Is something bothering you?");
 StlEye(6,1);
 StlMouth(6,1);
@@ -70,8 +69,8 @@ StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
 VoicePlay("B050600000_06_080");
-MsgDisp("Himuro","Ah, I guess you don't have any
-worries so you don't need to lay down.");
+MsgDisp("Himuro","Ah, I guess you don't have any worries so
+you don't need to lay down.");
 MsgDisp("主人公","Geez!");
 MsgClose();
 ScrFadeOut(0);
@@ -92,8 +91,8 @@ SEPlay("EV_SE_645",0.5,0.6);
 Wait(20,0);
 MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Haa......I was just shocked when
-you suddenly laid down.");
+MsgDisp("主人公","Haa......I was just shocked when you
+suddenly laid down.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -104,9 +103,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B050600000_06_110");
-MsgDisp("Himuro","Today might be the first and last time
-we get to see the cherry blossoms
-together.");
+MsgDisp("Himuro","Today might be the first and last time we
+get to see the cherry blossoms together.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,4);

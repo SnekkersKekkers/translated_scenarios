@@ -24,7 +24,8 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,#1);
     VoicePlay("F010100005_01_020");
     MsgDisp("Kazama","This way.
-Thanks for inviting me. Let's go!");
+Thanks for inviting me.
+Let's go!");
     break ;
     case 4:
     case 5:
@@ -44,7 +45,7 @@ Thanks for inviting me. Let's go!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("F010100005_01_050");
-    MsgDisp("Kazama","I get it. 
+    MsgDisp("Kazama","I get it.
 This way can be good, too.
 Well, should we go?");
     MsgDisp("主人公","Hehe, yep!");

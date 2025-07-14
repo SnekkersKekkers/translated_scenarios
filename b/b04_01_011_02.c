@@ -33,9 +33,9 @@ Then we'll start back-to-back!");
         ChMotion(1,3);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040101102_01_020");
-        MsgDisp("Kazama","I know that.
-... Sheesh, no matter where you go,
-it's not like it's going to collapse.");
+        MsgDisp("Kazama","I know that. ... Sheesh, no matter where
+you go, it's not like it's going to
+collapse.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -69,8 +69,8 @@ worried for me.");
         SEWait();
         VoicePlay("B040101102_01_060");
         MsgDisp("Kazama","Here, what about this?");
-        MsgDisp("主人公","Jeez, I already said don't do it
-because it's dangerous.");
+        MsgDisp("主人公","Jeez, I already said don't do it because
+it's dangerous.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -86,8 +86,8 @@ Don't make that face at me.");
         VoicePlay("B040101102_01_080");
         MsgDisp("Kazama","Look, I'm safe now, okay?
 We can make another lap around like this!");
-        MsgDisp("主人公","(Hehe, it's just like being
-back in first grade with him.)");
+        MsgDisp("主人公","(Hehe, it's just like being back in first
+grade with him.)");
         break ;
         default :
         DbgAssert(1);

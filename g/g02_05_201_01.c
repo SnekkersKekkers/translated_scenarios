@@ -15,8 +15,8 @@ deepen our relationship little by little.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("G020520101_05_030");
-MsgDisp("Hiiragi","And I thought it would 
-continue like that forever.");
+MsgDisp("Hiiragi","And I thought it would continue like that
+forever.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520101_05_040");
 MsgDisp("Hiiragi","......But, I was wrong.
@@ -34,16 +34,15 @@ ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520101_05_060");
-MsgDisp("Hiiragi","But unlike in a play, 
-there might not be a beautiful ending.");
+MsgDisp("Hiiragi","But unlike in a play, there might not be a
+beautiful ending.");
 ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,1);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520101_05_070");
-MsgDisp("Hiiragi","In fact, 
-I might have to step off the stage that 
-features you as the heroine.");
+MsgDisp("Hiiragi","In fact, I might have to step off the
+stage that features you as the heroine.");
 MsgDisp("主人公","I'm......the heroine?");
 ChMouth(5,4);
 ChMotion(5,0);
@@ -51,15 +50,15 @@ VoicePlay("G020520101_05_080");
 MsgDisp("Hiiragi","Yes, that will never change.");
 ChMotion(5,4);
 VoicePlay("G020520101_05_090");
-MsgDisp("Hiiragi","Continuing to share the same stage 
-with you and staying by your side
-is not a simple task.");
+MsgDisp("Hiiragi","Continuing to share the same stage with
+you and staying by your side is not a
+simple task.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020520101_05_100");
 MsgDisp("Hiiragi","But I've experienced that place before.
-And that is why, I will return to it. ");
+And that is why, I will return to it.");
 MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,4);
 ChMotion(5,0);
@@ -67,8 +66,8 @@ VoicePlay("G020520101_05_110");
 MsgDisp("Hiiragi","It's alright.
 This script is yet to be finished.
 Wouldn't you say so?");
-MsgDisp("主人公","(A stage where I'm the heroine......? I
-don't know how I should respond to
+MsgDisp("主人公","(A stage where I'm the heroine......?
+I don't know how I should respond to
 that......)");
 BGMStop();
 MsgClose();

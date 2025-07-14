@@ -5,22 +5,21 @@ Come to think of it, I feel good lately.
 Maybe it's because I've been exercising?)");
 VoiceEVSPlay(2);
 VoicePlay("G110200100_02_000");
-MsgDisp("Sassa?","｛主人公｝.
-You look like you're well.");
+MsgDisp("Sassa?","｛主人公｝. You look like you're well.");
 MsgClose();
 SEPlay("EV_SE_625");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 MsgClose();
 ChOpen(2,41,3,0,3,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Are you running?");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Are you running?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G110200100_02_010");
 MsgDisp("Sassa","Yeah, I was just going for a quick run
-before lunch. How about joining me?");
+before lunch.
+How about joining me?");
 MsgDisp("主人公","Won't I get in ｛颯砂＊＊｝'s way......?");
 ChEye(2,3);
 ChMouth(2,3);
@@ -81,7 +80,7 @@ BGMStop();
 SEPlay("EV_SE_626");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Phew......I'm a bit tired but
-It was fun running with ｛颯砂＊＊｝.)");
+MsgDisp("主人公","(Phew......I'm a bit tired but It was fun
+running with ｛颯砂＊＊｝. )");
 MsgClose();
 ScrFadeOut(0,0);

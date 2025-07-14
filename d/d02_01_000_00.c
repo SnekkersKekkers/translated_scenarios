@@ -4,16 +4,15 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh?
-｛風真＊＊｝, good morning!
-Were you maybe waiting for me?");
+MsgDisp("主人公","Oh? ｛風真＊＊｝, good morning! Were you
+maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_000");
-MsgDisp("Kazama","Waiting or not, we're going the same
-way, aren't we?");
+MsgDisp("Kazama","Waiting or not, we're going the same way,
+aren't we?");
 MsgDisp("主人公","That's true.
 It really feels like we're back in
 elementary school again.");
@@ -21,9 +20,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_010");
-MsgDisp("Kazama","I guess so. When I look at you, I don't 
-notice anything different. It's like
-you haven't grown at all.");
+MsgDisp("Kazama","I guess so. When I look at you, I don't
+notice anything different. It's like you
+haven't grown at all.");
 MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
 haven't you?");
 ChEye(1,4);
@@ -52,9 +51,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_050");
-MsgDisp("Kazama","Yes, yes, everything's fine.
-It's just business as usual for you
-again today. Let's go.");
+MsgDisp("Kazama","Yes, yes, everything's fine. It's just
+business as usual for you again today.
+Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
@@ -73,20 +72,21 @@ NSSOpen(1,254,3,3,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_051");
-MsgDisp("Kazama","So, remember that bell that we used
-to hear ringing?");
-MsgDisp("主人公","Hehe, yeah. It was strange. It feels
-kind of like a dream.");
+MsgDisp("Kazama","So, remember that bell that we used to
+hear ringing?");
+MsgDisp("主人公","Hehe, yeah.
+It was strange.
+It feels kind of like a dream.");
 NSSEye(1,4);
 NSSMouth(1,0);
 VoicePlay("D020100000_01_060");
-MsgDisp("Kazama","Yeah, but it wasn't a dream. I remember
-it clearly.");
+MsgDisp("Kazama","Yeah, but it wasn't a dream.
+I remember it clearly.");
 NSSEye(1,0);
 NSSMouth(1,0);
 VoicePlay("D020100000_01_070");
-MsgDisp("Kazama","Isn't the fact that we both have the 
-same memory is proof enough?");
+MsgDisp("Kazama","Isn't the fact that we both have the same
+memory is proof enough?");
 MsgDisp("主人公","That's true.
 The two of us wouldn't have the same
 dream, I guess?");
@@ -99,8 +99,8 @@ NSSEye(1,6);
 NSSMouth(1,0);
 VoicePlay("D020100000_01_090");
 MsgDisp("Kazama","So, you know......
-That thing that happened after the 
-bell rang——");
+That thing that happened after the bell
+rang——");
 MsgClose();
 ScrFadeOut(0,0,30);
 NSSClose();
@@ -126,17 +126,18 @@ ChOpen(1,254,7,2,3,#1,#1,0,0,0,30);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_110");
-MsgDisp("Kazama","That's good. Phew......I'm glad the splash
-wasn't a big deal.");
+MsgDisp("Kazama","That's good.
+Phew......I'm glad the splash wasn't a big
+deal.");
 MsgDisp("主人公","I never trip.");
 ChMotion(1,0);
 Wait(10,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("D020100000_01_120");
-MsgDisp("Kazama","You didn't just now, but I remember
-the times you did. Back in first grade
-you were a handful to take care of.");
+MsgDisp("Kazama","You didn't just now, but I remember the
+times you did. Back in first grade you
+were a handful to take care of.");
 MsgDisp("主人公","(Ugh......I don't have a comeback for
 that.)");
 MsgClose();

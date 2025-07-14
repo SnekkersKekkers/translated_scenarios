@@ -3,8 +3,7 @@ ChLayout(2);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("Q020B00100_01_000");
-MsgDisp("Kazama?","｛主人公｝,
-Good morning.");
+MsgDisp("Kazama?","｛主人公｝, good morning.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
@@ -18,8 +17,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q020B00100_03_000");
-MsgDisp("Honda","Good morning! Hey, let's go together for
-the free period!");
+MsgDisp("Honda","Good morning!
+Hey, let's go together for the free
+period!");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -56,9 +56,9 @@ This will get fun.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("Q020B00100_01_030");
-    MsgDisp("Kazama","Well then, let's get going. There are a
-lot of people here, so we need to plan
-ahead.");
+    MsgDisp("Kazama","Well then, let's get going.
+There are a lot of people here, so we need
+to plan ahead.");
     MsgDisp("主人公","Yeah!");
     break ;
     case 1:
@@ -82,14 +82,16 @@ You can't.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("Q020B00100_03_020");
-    MsgDisp("Honda","That's right. I'm sure she must've
-promised to go with somebody else already.");
+    MsgDisp("Honda","That's right.
+I'm sure she must've promised to go with
+somebody else already.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0,1);
     VoicePlay("Q020B00100_01_050");
-    MsgDisp("Kazama","It can't be helped. You've got to be
-careful going there, though.");
+    MsgDisp("Kazama","It can't be helped.
+You've got to be careful going there,
+though.");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,2,1);

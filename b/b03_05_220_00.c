@@ -9,8 +9,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B030522000_05_000");
 MsgDisp("Hiiragi","The grandeur of Habataki Castle.
-It makes you want to improve your
-own home.");
+It makes you want to improve your own
+home.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B030522000_05_010");
@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B030522000_05_020");
     MsgDisp("Hiiragi","That's fine.
-When you go up the castle, the first
-thing that comes to mind is the tower.");
+When you go up the castle, the first thing
+that comes to mind is the tower.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Hehe, yeah.
 I want to feel like a lord.");

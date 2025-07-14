@@ -81,5 +81,4 @@ You've become the centre of my world.");
 ChMotion(4,3,1);
 VoiceEVSPlay(4);
 VoicePlay("T020401000_04_120");
-MsgDisp("Nanatsumori","｛主人公｝.
-Please go out with me.");
+MsgDisp("Nanatsumori","｛主人公｝. Please go out with me.");

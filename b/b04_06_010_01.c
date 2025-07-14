@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040601001_06_010");
-    MsgDisp("Himuro","...You're so accepting of that,
-that it's worrying.");
+    MsgDisp("Himuro","...You're so accepting of that, that it's
+worrying.");
     MsgDateResultDisp();
     break ;
     case 1:

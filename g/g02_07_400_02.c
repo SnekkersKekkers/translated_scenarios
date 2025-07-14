@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("G020740002_07_000");
-MsgDisp("Mikage","On the last day of summer vacation,
-you know how it feels like you haven't 
+MsgDisp("Mikage","On the last day of summer vacation, you
+know how it feels like you haven't
 finished your homework at all?");
 MsgDisp("主人公","Eh?
 Why are you asking all of a sudden?");
@@ -14,15 +14,16 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020740002_07_010");
-MsgDisp("Mikage","I'm talking about dreams. I have these
-kinds of nightmares quite often.");
+MsgDisp("Mikage","I'm talking about dreams.
+I have these kinds of nightmares quite
+often.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020740002_07_020");
 MsgDisp("Mikage","I've seen this dream many times, you know
-how there's dream fortune-telling? So I
-decided to look into it.");
+how there's dream fortune-telling?
+So I decided to look into it.");
 MsgDisp("主人公","What did it say?");
 ChEye(7,2);
 ChMouth(7,0);

@@ -39,9 +39,8 @@ understand it from his work.");
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040610300_06_030");
-    MsgDisp("Himuro","Wow, you can understand this
-sort of perception.
-Amazing... I kinda respect it.");
+    MsgDisp("Himuro","Wow, you can understand this sort of
+perception. Amazing... I kinda respect it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

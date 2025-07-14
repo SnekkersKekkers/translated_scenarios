@@ -11,8 +11,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_000");
-MsgDisp("Himuro","Phew, 
-the set changes went smoothly until now.");
+MsgDisp("Himuro","Phew, the set changes went smoothly until
+now.");
 MsgDisp("主人公","Yeah.
 Ah, this is the last scene, huh♪");
 MsgClose();
@@ -23,25 +23,25 @@ BGMVol(0.5,2);
 SEPlay("EV_SE_674",0.5,0.4);
 ScrFadeIn(0);
 VoicePlay("P240601000_48_000");
-MsgDisp("Orihime","I thought as long as I could 
-weave on the loom, that was enough.");
+MsgDisp("Orihime","I thought as long as I could weave on the
+loom, that was enough.");
 VoicePlay("P240601000_48_010");
 MsgDisp("Orihime","Until I met you, Hikoboshi-sama.");
 VoicePlay("P240601000_43_020");
 MsgDisp("Hikoboshi","...If you say such, it is the same for me.");
 VoicePlay("P240601000_43_030");
 MsgDisp("Hikoboshi","Day after day, I would steadily pull ox
-and plough the fields. 
-That was my world. All that I ever knew.");
+and plough the fields. That was my world.
+All that I ever knew.");
 VoicePlay("P240601000_43_040");
 MsgDisp("Hikoboshi","However, since the day I was called by the
-Celestial Emperor and the day I first
-laid eyes on you, everything changed.");
+Celestial Emperor and the day I first laid
+eyes on you, everything changed.");
 VoicePlay("P240601000_06_010");
 MsgDisp("Himuro","...Things have changed, huh.");
 VoicePlay("P240601000_06_020");
-MsgDisp("Himuro","After all, 
-Hikiboshi didn't want to end up like this.");
+MsgDisp("Himuro","After all, Hikiboshi didn't want to end up
+like this.");
 MsgDisp("主人公","Eh?");
 SEStop("EV_SE_674",3);
 MsgClose();
@@ -64,8 +64,8 @@ MsgDisp("Himuro","Firstly, if it were destined to be
 separated by the celestial emperor,
 wouldn't it have been better to not have
 met her at all?");
-MsgDisp("主人公","Hmmm...
-But no one know what fate holds, right?");
+MsgDisp("主人公","Hmmm... But no one know what fate holds,
+right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -75,9 +75,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_060");
-MsgDisp("Himuro","...Then if you were Orihime, 
-do you think you would be 
-happy to meet Hikiboshi?");
+MsgDisp("Himuro","...Then if you were Orihime, do you think
+you would be happy to meet Hikiboshi?");
 MsgDisp("主人公","Yeah, I think so.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -89,9 +88,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_080");
-MsgDisp("Himuro","Well, if I were Hikiboshi,
-Even after I met Orihime, 
-I wouldn't become undisciplined. ");
+MsgDisp("Himuro","Well, if I were Hikiboshi, Even after I
+met Orihime, I wouldn't become
+undisciplined.");
 MsgDisp("主人公","Hehe, that's just like you, ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);

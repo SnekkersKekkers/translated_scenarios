@@ -21,8 +21,8 @@ I am inexperienced, but curious.");
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("B040502301_05_020");
-    MsgDisp("Hiiragi","I'd like to try it out
-to see if I like it or not.");
+    MsgDisp("Hiiragi","I'd like to try it out to see if I like it
+or not.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +34,8 @@ to see if I like it or not.");
     ChMotion(5,3);
     VoicePlay("B040502301_05_030");
     MsgDisp("Hiiragi","I see.
-So that means someone caught an 
-octopus there...you're amazing!");
+So that means someone caught an octopus
+there...you're amazing!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

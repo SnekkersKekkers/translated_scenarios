@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040605100_06_010");
     MsgDisp("Himuro","Then it was worth coming here.
-The most important thing is 
-that you liked it.");
+The most important thing is that you liked
+it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

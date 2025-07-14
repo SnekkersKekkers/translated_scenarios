@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like things have 
-been going well recently!)");
+MsgDisp("主人公","(Looks like things have been going well
+recently!)");
 switch (ChPrmGet(3,6)){
     case 0:
     case 1:
@@ -15,8 +15,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0);
     VoicePlay("X120300002_03_000");
     MsgDisp("Honda","You're good with your hands too?
-You can make anything, 
-that's so coool!");
+You can make anything, that's so coool!");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
@@ -26,8 +25,7 @@ that's so coool!");
     ChMotion(3,3);
     VoicePlay("X120300002_03_010");
     MsgDisp("Honda","Your creations have become art.
-Could you teach me how
-to make them too?");
+Could you teach me how to make them too?");
     MsgDisp("主人公","(Yay! I got praised!)");
     break ;
     default :

@@ -5,8 +5,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040524101_05_000");
-MsgDisp("Hiiragi","There was a sign at the entrance 
-reporting that a \"lamb was born.\"");
+MsgDisp("Hiiragi","There was a sign at the entrance reporting
+that a \"lamb was born.\"");
 MsgSel("I want to eat some extra rich farm ice cream","Let's hold one and take a picture","I wonder if lots were born?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -36,8 +36,8 @@ both things would be cute.");
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040524101_05_030");
-    MsgDisp("Hiiragi","Yeah there's not enough 
-information on that poster.
+    MsgDisp("Hiiragi","Yeah there's not enough information on
+that poster.
 Let's go and check it out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

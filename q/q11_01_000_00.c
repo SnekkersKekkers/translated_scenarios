@@ -1,5 +1,5 @@
 ScrFadeIn(0);
-MsgDisp("主人公","I wonder if ｛風真＊＊｝ is still 
+MsgDisp("主人公","I wonder if ｛風真＊＊｝ is still
 shopping......");
 VoicePlay("Q110100000_01_000");
 MsgDisp("Kazama?","Would you like a freshly baked castella?");
@@ -38,9 +38,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_050");
-MsgDisp("Kazama","Right?
-It's very detailed.
-I liked it so much I also bought one.");
+MsgDisp("Kazama","Right? It's very detailed. I liked it so
+much I also bought one.");
 MsgDisp("主人公","So, we're matching, right?
 Thanks!");
 ChEye(1,0);
@@ -53,9 +52,8 @@ MsgDisp("主人公","Eh?");
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_070");
-MsgDisp("Kazama","Nothing.
-The cake will be gone after 
-you eat it, but this one is a keepsake.");
+MsgDisp("Kazama","Nothing. The cake will be gone after you
+eat it, but this one is a keepsake.");
 MsgDisp("主人公","Yeah, I'll treasure it.");
 BGMStop();
 MsgClose();

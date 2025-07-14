@@ -21,8 +21,8 @@ I'm proud to think that he's our senior.");
     ChMouth(5,4);
     VoicePlay("B040504600_05_010");
     MsgDisp("Hiiragi","Is that so?
-I thought it was a most impressive
-musical performance however.");
+I thought it was a most impressive musical
+performance however.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -31,8 +31,8 @@ musical performance however.");
     ChMouth(5,0);
     ChMotion(5,4);
     VoicePlay("B040504600_05_020");
-    MsgDisp("Hiiragi","Even the best performance
-can't satisfy everyone...
+    MsgDisp("Hiiragi","Even the best performance can't satisfy
+everyone...
 I've learned something new.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

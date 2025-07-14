@@ -31,8 +31,8 @@ Even though I did my best......)");
     ChMouth(1,3);
     ChEyeOpenLevel(1,#1);
     VoicePlay("O040100001_01_020");
-    MsgDisp("Kazama","If this was a pair competition,
-we would've won.");
+    MsgDisp("Kazama","If this was a pair competition, we
+would've won.");
     MsgDisp("主人公","(Hm. It's frustrating......)");
     break ;
     default :

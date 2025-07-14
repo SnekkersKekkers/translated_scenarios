@@ -11,15 +11,14 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,3,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("F010200007_02_000");
-    MsgDisp("Sassa","｛主人公｝. 
-Are you going home now?");
+    MsgDisp("Sassa","｛主人公｝. Are you going home now?");
     MsgDisp("主人公","Mhm. You too?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("F010200007_02_010");
-    MsgDisp("Sassa","Yeah,
-I was hoping you would go home with me.
+    MsgDisp("Sassa","Yeah, I was hoping you would go home with
+me.
 What do you think?");
     break ;
     case 4:
@@ -30,14 +29,12 @@ What do you think?");
     VoiceEVSPlay(2);
     VoicePlay("F010200007_02_020");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Oh, ｛颯砂＊＊｝.
-Were you waiting for me?");
+    MsgDisp("主人公","Oh, ｛颯砂＊＊｝. Were you waiting for me?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("F010200007_02_030");
-    MsgDisp("Sassa","Yeah.
-I thought we could go home together.
+    MsgDisp("Sassa","Yeah. I thought we could go home together.
 What do you think?");
     break ;
     default :
@@ -66,9 +63,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("F010200007_02_050");
-        MsgDisp("Sassa","I see... that's fine.
-I wanted to go home with you today.
-Let's go.");
+        MsgDisp("Sassa","I see... that's fine. I wanted to go home
+with you today. Let's go.");
         MsgDisp("主人公","Heheh, sure.");
         break ;
         default :
@@ -129,8 +125,8 @@ The timing must be bad.");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
-        MsgDisp("主人公","(He went to the trouble of inviting me,
-so I feel guilty...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, so
+I feel guilty...)");
         break ;
         case 4:
         case 5:
@@ -153,8 +149,8 @@ Thank you for inviting me.");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
-        MsgDisp("主人公","(He went to the trouble of inviting me,
-so I feel guilty...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, so
+I feel guilty...)");
         break ;
         default :
         DbgAssert(1);

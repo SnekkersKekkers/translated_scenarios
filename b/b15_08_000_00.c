@@ -18,8 +18,7 @@ ChEye(8,4);
 ChMouth(8,4);
 VoicePlay("B150800000_08_020");
 MsgDisp("Shirahane","Do you like touchin' people?");
-MsgDisp("主人公","No.
-It's because it's ｛大地＊＊｝?");
+MsgDisp("主人公","No. It's because it's ｛大地＊＊｝?");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,1,1);
@@ -45,8 +44,8 @@ It's just, a bit embarrasin'.");
 ChEye(8,3);
 ChMouth(8,3);
 VoicePlay("B150800000_08_060");
-MsgDisp("Shirahane","Go easy on the ticklin', 
-alright? See you.");
+MsgDisp("Shirahane","Go easy on the ticklin', alright?
+See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);

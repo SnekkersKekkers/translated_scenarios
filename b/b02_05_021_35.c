@@ -12,8 +12,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502135_05_010");
 MsgDisp("Hiiragi","It looks good.
-You own it well, so it fits you
-well as well.");
+You own it well, so it fits you well as
+well.");
 MsgDisp("主人公","(｛柊＊＊＊｝ complimented me.♪
-I'm glad I checked what's
-trending!)");
+I'm glad I checked what's trending!)");

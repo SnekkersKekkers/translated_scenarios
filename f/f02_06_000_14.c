@@ -29,8 +29,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("F020600014_06_030");
-MsgDisp("Himuro","Rather, the school might be nice and
-quiet for once.
+MsgDisp("Himuro","Rather, the school might be nice and quiet
+for once.
 Your grade was noisy.");
 MsgDisp("主人公","I see...");
 ChEye(6,2);
@@ -43,6 +43,6 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600014_06_050");
 MsgDisp("Himuro","No matter how much you're going to miss
-me, it won't change the fact that we
-can't graduate together.");
+me, it won't change the fact that we can't
+graduate together.");
 MsgDisp("主人公","(｛氷室＊＊｝...)");

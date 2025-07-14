@@ -1,22 +1,21 @@
 BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh... over there is...
-｛颯砂＊＊｝ and ｛氷室＊＊｝?)");
+MsgDisp("主人公","(Huh... over there is... ｛颯砂＊＊｝ and
+｛氷室＊＊｝? )");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(6,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","Good afternoon?
-What are you two in the middle 
-of talking about?");
+What are you two in the middle of talking
+about?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100240000_02_000");
-MsgDisp("Sassa","Inori, isn't she making a face
-like \"It's so unusual for these
-two to be talking\"?");
+MsgDisp("Sassa","Inori, isn't she making a face like \"It's
+so unusual for these two to be talking\"?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -39,8 +38,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240000_02_020");
-MsgDisp("Sassa","Despite the way it looks,
-We have quite a lot in common.");
+MsgDisp("Sassa","Despite the way it looks, We have quite a
+lot in common.");
 MsgDisp("主人公","Really?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -52,8 +51,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100240000_02_030");
-MsgDisp("Sassa","Inori and I both like
-spending time on our own..");
+MsgDisp("Sassa","Inori and I both like spending time on our
+own..");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -63,25 +62,23 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("F100240000_06_040");
-MsgDisp("Himuro","When Nozomu-senpai is concentrating
-on his athletics, he's alone the 
-whole time.");
+MsgDisp("Himuro","When Nozomu-senpai is concentrating on his
+athletics, he's alone the whole time.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("F100240000_02_040");
-MsgDisp("Sassa","And Inori is alone when he's
-on the surfboard.");
-MsgDisp("主人公","I see... 
-they're completely different sports,
-but they have some similarities.");
+MsgDisp("Sassa","And Inori is alone when he's on the
+surfboard.");
+MsgDisp("主人公","I see...
+they're completely different sports, but
+they have some similarities.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240000_02_050");
-MsgDisp("Sassa","Right.
-So I can learn a lot from his mental 
-aspects and way of thinking.");
+MsgDisp("Sassa","Right. So I can learn a lot from his
+mental aspects and way of thinking.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -94,18 +91,16 @@ ChMotion(2,0);
 VoicePlay("F100240000_02_060");
 MsgDisp("Sassa","No, it's interesting to hear how you can
 ride the wave and at the same time and
-display techniques that force
-others to yield.");
-MsgDisp("主人公","Finding commonalities and learning
-from different sports,
-you're both amazing...");
+display techniques that force others to
+yield.");
+MsgDisp("主人公","Finding commonalities and learning from
+different sports, you're both amazing...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240000_02_070");
-MsgDisp("Sassa","Yeah, maybe it's easier to listen 
-to him earnestly than if we 
-did similar sports.");
+MsgDisp("Sassa","Yeah, maybe it's easier to listen to him
+earnestly than if we did similar sports.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -120,9 +115,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240000_02_080");
-MsgDisp("Sassa","I'm stubborn when it comes to 
-athletics, so I can accept the opinions
-of someone like Inori.");
+MsgDisp("Sassa","I'm stubborn when it comes to athletics,
+so I can accept the opinions of someone
+like Inori.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

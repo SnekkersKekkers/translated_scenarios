@@ -53,9 +53,8 @@ Do you want to pull fortunes?");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_040");
-        MsgDisp("Nanatsumori","ＯＫ.
-We can only do this during New Years,
-right?");
+        MsgDisp("Nanatsumori","ＯＫ. We can only do this during New
+Years, right?");
         MsgDisp("主人公","Hehe!");
         break ;
         case 1:
@@ -87,8 +86,8 @@ What should we do......");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("S090400000_04_070");
-    MsgDisp("Nanatsumori","Fortunes.
-Are you brave enough to give it a try?");
+    MsgDisp("Nanatsumori","Fortunes. Are you brave enough to give it
+a try?");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -97,23 +96,22 @@ Are you brave enough to give it a try?");
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_080");
         MsgDisp("Nanatsumori","Ooh......So strong.");
-        MsgDisp("主人公","Is ｛七ツ森＊｝ afraid of
-drawing fortunes?");
+        MsgDisp("主人公","Is ｛七ツ森＊｝ afraid of drawing
+fortunes?");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("S090400000_04_090");
-        MsgDisp("Nanatsumori","How do you think it's
-possible for such a little piece of
-paper to influence your life for the
-rest of the year?");
+        MsgDisp("Nanatsumori","How do you think it's possible for such a
+little piece of paper to influence your
+life for the rest of the year?");
         MsgDisp("主人公","Hehe!");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_100");
-        MsgDisp("Nanatsumori","Well, for better or for worse
-an exciting life is a fun life.
+        MsgDisp("Nanatsumori","Well, for better or for worse an exciting
+life is a fun life.
 Let's go!");
         break ;
         case 1:
@@ -122,7 +120,7 @@ Let's go!");
         ChMotion(4,2,1);
         VoicePlay("S090400000_04_110");
         MsgDisp("Nanatsumori","I see.
-......When you say it like that, I don't 
+......When you say it like that, I don't
 want to back down.");
         MsgDisp("主人公","Did you want to try?
 Let's go.");
@@ -130,8 +128,7 @@ Let's go.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("S090400000_04_120");
-        MsgDisp("Nanatsumori","No.
-I feel like it's fate for me to try
+        MsgDisp("Nanatsumori","No. I feel like it's fate for me to try
 especially because you don't want to.");
         MsgDisp("主人公","???");
         ChEye(4,0);

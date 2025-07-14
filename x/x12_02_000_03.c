@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(2,254,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like things have 
-been going well recently!)");
+MsgDisp("主人公","(Looks like things have been going well
+recently!)");
 switch (ChPrmGet(2,6)){
     case 0:
     case 1:
@@ -14,9 +14,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("X120200003_02_000");
-    MsgDisp("Sassa","The student council work 
-is tough right? I say thanks 
-on behalf of everyone.
+    MsgDisp("Sassa","The student council work is tough right?
+I say thanks on behalf of everyone.
 Thank you for always!");
     MsgDisp("主人公","(Yay!)");
     break ;
@@ -26,8 +25,8 @@ Thank you for always!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("X120200003_02_010");
-    MsgDisp("Sassa","People always take the student council's 
-work as if it were a given, but, 
+    MsgDisp("Sassa","People always take the student council's
+work as if it were a given, but,
 seriously, thank you for everything.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;

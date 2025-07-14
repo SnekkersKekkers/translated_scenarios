@@ -10,8 +10,8 @@ ChMotion(5,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040512100_05_000");
-MsgDisp("Hiiragi","This chaotic vibe is nice
-—just like a festival.");
+MsgDisp("Hiiragi","This chaotic vibe is nice —just like a
+festival.");
 MsgSel("Let's look for some lucky finds!","Setting up a stall seems fun huh?","It's an environmentally event huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("B040512100_05_010");
-    MsgDisp("Hiiragi","I wonder what a 
-lucky find is to you.
+    MsgDisp("Hiiragi","I wonder what a lucky find is to you.
 I'm looking forward to it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

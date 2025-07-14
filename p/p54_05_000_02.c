@@ -17,8 +17,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("P540500002_05_010");
-MsgDisp("Hiiragi","Heheh.
-There's a lot of people who are 
+MsgDisp("Hiiragi","Heheh. There's a lot of people who are
 thinking the same as me.");
 MsgDisp("主人公","I'm happy.
 It was worth giving it my best.");
@@ -26,8 +25,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P540500002_05_020");
-MsgDisp("Hiiragi","On the back of the enjoyable music, 
-are your efforts from day after day.
+MsgDisp("Hiiragi","On the back of the enjoyable music, are
+your efforts from day after day.
 Congratulations on the success!");
 MsgDisp("主人公","Yes, thank you!");
 MsgDisp("主人公","(｛柊＊＊＊｝ praised me!

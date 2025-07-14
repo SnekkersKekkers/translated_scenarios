@@ -18,8 +18,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30801_07_000");
-MsgDisp("Mikage","Inori, you sure are excited 
-aren't you? That's cute.");
+MsgDisp("Mikage","Inori, you sure are excited aren't you?
+That's cute.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -38,9 +38,8 @@ ChMotion(5,0,1);
 VoicePlay("B330C30801_05_000");
 MsgDisp("Hiiragi","Yes, please tell me 
 about today's plans.");
-MsgDisp("主人公","(Hehe!
-Both of them are looking forward
-to camping with ｛御影＊＊｝ )");
+MsgDisp("主人公","(Hehe! Both of them are looking forward to
+camping with ｛御影＊＊｝ )");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -57,9 +56,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30801_07_020");
-MsgDisp("Mikage","Right. 
-Apparently watching the flickering flames
-will make your bonds deepen?");
+MsgDisp("Mikage","Right. Apparently watching the flickering
+flames will make your bonds deepen?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -77,8 +75,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30801_07_030");
-MsgDisp("Mikage","Right, it not only goes
-for friendship but love too?");
+MsgDisp("Mikage","Right, it not only goes for friendship but
+love too?");
 ChEye(5,0);
 MsgDisp("主人公","Ehh?");
 ChEye(6,0);
@@ -118,9 +116,9 @@ ChMotion(7,1);
 VoicePlay("B330C30801_07_050");
 MsgDisp("Mikage","You two seem really motivated.
 That's just like high school boys.");
-MsgDisp("主人公","(｛御影＊＊｝ seems to be having the 
-most fun though...I wonder if the 
-campfire effect is true...?)");
+MsgDisp("主人公","(｛御影＊＊｝ seems to be having the
+most fun though...I wonder if the campfire
+effect is true...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

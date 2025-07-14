@@ -52,13 +52,15 @@ ChMouth(21,4);
 ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("Q070D00000_21_020");
-MsgDisp("Michiru","Oh no...... Take it again, please!");
+MsgDisp("Michiru","Oh no......
+Take it again, please!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q070D00000_22_040");
-MsgDisp("Hikaru","But it's so funny. Even Hikaru would ask
-for another take though♪");
+MsgDisp("Hikaru","But it's so funny.
+Even Hikaru would ask for another take
+though♪");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -89,22 +91,22 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("Q070D00000_21_040");
 MsgDisp("Michiru","It seems it was modeled after a tall tower
-overseas. It was originally a church's
-bell.");
+overseas.
+It was originally a church's bell.");
 MsgDisp("主人公","Huh, wow......!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("Q070D00000_21_050");
 MsgDisp("Michiru","I love how it looks.
-I hope I can get to see the real one
-one day.");
+I hope I can get to see the real one one
+day.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("Q070D00000_22_060");
-MsgDisp("Hikaru","Right!
-Let's go to see the real one one day!");
+MsgDisp("Hikaru","Right! Let's go to see the real one one
+day!");
 MsgDisp("主人公","Nice idea!");
 ChEye(21,0);
 ChMouth(21,3);
@@ -125,9 +127,9 @@ VoicePlay("Q070D00000_21_070");
 MsgDisp("Michiru","Hehe.");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(After this, we're going to 
-Nagasaki city. Huis ten Bosch was
-so much fun and pretty......!)");
+MsgDisp("主人公","(After this, we're going to Nagasaki city.
+Huis ten Bosch was so much fun and
+pretty......!)");
 BGMStop(2);
 Wait(60,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -164,8 +166,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("Q070D00000_21_100");
 MsgDisp("Michiru","The cobblestone contains a heart-shaped
-stone. It's said that if you're able
-to find it, your love will come true.");
+stone. It's said that if you're able to
+find it, your love will come true.");
 ChSet(21,0);
 ChEye(22,0);
 ChMouth(22,3);
@@ -173,8 +175,8 @@ ChMotion(22,3,1);
 VoicePlay("Q070D00000_22_090");
 MsgDisp("Hikaru","Yepyep. Apparently love will find you if
 you touch it, so let's search together♪");
-MsgDisp("主人公","Huh, ｛みちる＊｝, ｛ひかる＊｝, do you two
-have a crush?");
+MsgDisp("主人公","Huh, ｛みちる＊｝, ｛ひかる＊｝, do
+you two have a crush?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -200,7 +202,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(21);
 MsgDisp("主人公","(It turned into a search for the
-heart...... That's fun too, though!)");
+heart......
+That's fun too, though!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

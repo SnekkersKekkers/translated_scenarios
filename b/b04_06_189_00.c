@@ -11,10 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,5);
     VoicePlay("B040618900_06_000");
-    MsgDisp("Himuro","Definitely.
-I don't understand why they 
-suddenly broke into dance.
-Really, it was wonderful.");
+    MsgDisp("Himuro","Definitely. I don't understand why they
+suddenly broke into dance. Really, it was
+wonderful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,8 +25,8 @@ Really, it was wonderful.");
     ChMotion(6,4);
     VoicePlay("B040618900_06_010");
     MsgDisp("Himuro","I felt that way too at first.
-But, before I knew it, 
-I was already into it.");
+But, before I knew it, I was already into
+it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +37,8 @@ I was already into it.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040618900_06_020");
-    MsgDisp("Himuro","You failed as soon as you 
-came to your senses.");
+    MsgDisp("Himuro","You failed as soon as you came to your
+senses.");
     MsgDateResultDisp();
     break ;
     default :

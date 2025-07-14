@@ -27,8 +27,8 @@ not get so frantic.");
     ChMotion(6,4);
     VoicePlay("B040616000_06_020");
     MsgDisp("Himuro","Alright, I accept your challenge.
-Just so you know, I have no 
-intention of losing.");
+Just so you know, I have no intention of
+losing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,8 +39,8 @@ intention of losing.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040616000_06_030");
-    MsgDisp("Himuro","The machine is the one telling 
-your fortune right...
+    MsgDisp("Himuro","The machine is the one telling your
+fortune right...
 Is there any point in that?");
     MsgDateResultDisp();
     break ;

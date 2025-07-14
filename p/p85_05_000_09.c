@@ -17,8 +17,9 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P850500009_05_010");
 MsgDisp("Hiiragi","It was because I worried you.");
-MsgDisp("主人公","hat's not true. It's because my
-preparations weren't enough...");
+MsgDisp("主人公","hat's not true.
+It's because my preparations weren't
+enough...");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P850500009_05_020");
@@ -29,16 +30,16 @@ ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("P850500009_05_030");
 MsgDisp("Hiiragi","It's alright.
-Many years later, we'll be able to 
-look back on this and laugh.");
+Many years later, we'll be able to look
+back on this and laugh.");
 MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P850500009_05_040");
 MsgDisp("Hiiragi","See, so look up.");
 MsgDisp("主人公","(Haa... even though it was the last
-cultural festival of my school life...
-I wanted to end it with a smile.)");
+cultural festival of my school life... I
+wanted to end it with a smile.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

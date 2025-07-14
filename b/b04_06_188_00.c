@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040618800_06_000");
-    MsgDisp("Himuro","Looks like we have 
-different senses of humor.");
+    MsgDisp("Himuro","Looks like we have different senses of
+humor.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,9 +23,8 @@ different senses of humor.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040618800_06_010");
-    MsgDisp("Himuro","If you enjoyed yourself, 
-that's good. If you didn't 
-it was unrewarding.");
+    MsgDisp("Himuro","If you enjoyed yourself, that's good.
+If you didn't it was unrewarding.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

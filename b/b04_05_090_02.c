@@ -9,8 +9,8 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B040509002_05_000");
 MsgDisp("Hiiragi","Tropical plant illumination...
-It seems to be open at night 
-for a limited time.");
+It seems to be open at night for a limited
+time.");
 MsgSel("It's like a jungle expedition team.","I wonder if the flowers bloom even at night...","Seems fun let's go!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -31,10 +31,9 @@ There's a disquieting feeling to it.");
     ChMouth(5,4);
     ChMotion(5,2);
     VoicePlay("B040509002_05_020");
-    MsgDisp("Hiiragi","Apparently it's a survival
-strategy that focuses on moths.
-There's something to be learnt 
-from that way of thinking...");
+    MsgDisp("Hiiragi","Apparently it's a survival strategy that
+focuses on moths. There's something to be
+learnt from that way of thinking...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -68,18 +67,17 @@ It seems a bit too late for us.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040509002_05_050");
-        MsgDisp("Hiiragi","I'm sorry for getting
-you excited for nothing.");
+        MsgDisp("Hiiragi","I'm sorry for getting you excited for
+nothing.");
         MsgDisp("主人公","No.
 It is unfortunate though...");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040509002_05_060");
-        MsgDisp("Hiiragi","I see, well let's ask Mikage-sensei.
-I'm sure he grows it at the horticulture 
-club or at home; a plant that
-blooms at night.");
+        MsgDisp("Hiiragi","I see, well let's ask Mikage-sensei. I'm
+sure he grows it at the horticulture club
+or at home; a plant that blooms at night.");
         MsgDisp("主人公","Umm... I wanted to go to the botanical
 garden at night with ｛柊＊＊＊｝.");
         ChEye(5,3);
@@ -91,11 +89,10 @@ garden at night with ｛柊＊＊＊｝.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040509002_05_080");
-        MsgDisp("Hiiragi","The crucial part is to be with 
-you at night, and not to look
-at plants!");
-        MsgDisp("主人公","(｛柊＊＊＊｝, You can't say those kinds of
-things at a botanical garden?)");
+        MsgDisp("Hiiragi","The crucial part is to be with you at
+night, and not to look at plants!");
+        MsgDisp("主人公","(｛柊＊＊＊｝, You can't say those kinds
+of things at a botanical garden?)");
         break ;
         default :
         DbgAssert(1);

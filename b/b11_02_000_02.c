@@ -1,8 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Seems like ｛颯砂＊＊｝
-still isn't here...");
+MsgDisp("主人公","Seems like ｛颯砂＊＊｝ still isn't here...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -14,15 +13,16 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110200002_35_000");
-MsgDisp("Guy","Oh, it's been a while since I've felt 
-such a spark! How about we go to 
-that café over there and talk?");
+MsgDisp("Guy","Oh, it's been a while since I've felt such
+a spark! How about we go to that café
+over there and talk?");
 MsgDisp("主人公","W-What∋
 I have nothing to talk about.");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110200002_35_010");
-MsgDisp("Guy","Ah, you don't? I do.
+MsgDisp("Guy","Ah, you don't?
+I do.
 Alright let's go.");
 VoicePlay("B110200002_02_000");
 MsgDisp("Sassa?","What business do you 
@@ -47,8 +47,8 @@ ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110200002_35_030");
 MsgDisp("Guy","Yeah, nice!
-There's a demand for this kind 
-of muscular beauty nowadays?");
+There's a demand for this kind of muscular
+beauty nowadays?");
 MsgDispSksp(1,5);
 ChEye(2,0);
 ChMouth(2,0);
@@ -72,10 +72,10 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110200002_35_050");
-MsgDisp("Guy","That girl? She'd probably sell well 
-anywhere, but as for you, Mr. Muscle,
-I'll take you under my wing. 
-Take your time and think it over.");
+MsgDisp("Guy","That girl? She'd probably sell well
+anywhere, but as for you, Mr. Muscle, I'll
+take you under my wing. Take your time and
+think it over.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(35);
@@ -88,12 +88,12 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B110200002_02_040");
-MsgDisp("Sassa","Yeah... wait, why am I 
-the one getting worried over?");
+MsgDisp("Sassa","Yeah... wait, why am I the one getting
+worried over?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B110200002_02_050");
-MsgDisp("Sassa","Sorry, things got weird 
-because I was late.
+MsgDisp("Sassa","Sorry, things got weird because I was
+late.
 Come on, let's go now.");

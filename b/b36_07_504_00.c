@@ -8,13 +8,14 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360750400_07_000");
 MsgDisp("Mikage","Let's head home before it gets dark.");
-MsgDisp("主人公","The lights are beautiful when it
-gets dark out, aren't they?");
+MsgDisp("主人公","The lights are beautiful when it gets dark
+out, aren't they?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750400_07_010");
-MsgDisp("Mikage","......It's beautiful, right? No it's not.
+MsgDisp("Mikage","......It's beautiful, right?
+No it's not.
 Let's go.");
 MsgDisp("主人公","......Okay.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -53,9 +54,10 @@ ChMouth(7,0);
 ChMotion(7,4);
 ChEyeOpenLevel(7,10);
 VoicePlay("B360750400_07_050");
-MsgDisp("Mikage","That being said, it's time we prepare
-to go home.");
-MsgDisp("主人公","(Thank you for bringing me, ｛御影＊＊｝.)");
+MsgDisp("Mikage","That being said, it's time we prepare to
+go home.");
+MsgDisp("主人公","(Thank you for bringing me,
+｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

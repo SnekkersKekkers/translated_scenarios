@@ -2,8 +2,7 @@ BGOpen("sc000",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yep, nice weather!
-I guess I'll take a walk along the
-beach.)");
+I guess I'll take a walk along the beach.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -17,8 +16,8 @@ MsgDisp("Guy A","The waves are nice today.");
 VoicePlay("D010600000_42_010");
 MsgDisp("Guy B","Right?
 The perfect day for surfing.");
-MsgDisp("主人公","(Eh......
-There are a lot of surfers out today.)");
+MsgDisp("主人公","(Eh...... There are a lot of surfers out
+today.)");
 MsgDisp("主人公","(......Huh?
 Over at the cafe, is that——)");
 SEPlay("EV_SE_531",0,0.3);
@@ -53,8 +52,9 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600000_06_030");
 MsgDisp("Himuro","What's with that surprised look.");
-MsgDisp("主人公","It's not like that. I think it's
-amazing. I want to watch you do it!");
+MsgDisp("主人公","It's not like that.
+I think it's amazing.
+I want to watch you do it!");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -81,8 +81,8 @@ MsgDisp("Guy A","What a horrible thing to say.
 You shouldn't take it personally.");
 MsgDisp("主人公","Eh?");
 VoicePlay("D010600000_42_030");
-MsgDisp("Guy B","That guy is famous good at surfing but, 
-he doesn't get along with us well.");
+MsgDisp("Guy B","That guy is famous good at surfing but, he
+doesn't get along with us well.");
 MsgDisp("主人公","I see......");
 MsgDisp("主人公","(｛氷室＊＊｝, isn't that lonely......?)");
 MsgClose();

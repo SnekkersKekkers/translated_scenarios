@@ -23,9 +23,9 @@ switch (ChPrmGet(1,6)){
     VoicePlay("I130100001_01_000");
     MsgDisp("Kazama","......Hm?
 What are you doing here?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-I'll be working part-time here
-starting today. Let's work hard together.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. I'll be working
+part-time here starting today. Let's work
+hard together.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -50,9 +50,8 @@ Let's work hard together.");
     VoiceEVSPlay(1);
     VoicePlay("I130100001_01_030");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-I'm working part-time here now.
-Let's work hard together.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! I'm working part-time
+here now. Let's work hard together.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -68,9 +67,8 @@ I'll train you perfectly, okay?");
     VoicePlay("I130100001_01_050");
     MsgDisp("Kazama","No.
 Work is work.");
-    MsgDisp("主人公","(Ugh......
-｛風真＊＊｝ looks strict.
-But, let's do our best!)");
+    MsgDisp("主人公","(Ugh...... ｛風真＊＊｝ looks strict. But,
+let's do our best!)");
     MsgClose();
     break ;
     case 4:
@@ -82,8 +80,7 @@ But, let's do our best!)");
     VoiceEVSPlay(1);
     VoicePlay("I130100001_01_060");
     MsgDisp("Kazama","｛主人公｝, you, that apron......");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Does it suit me?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Does it suit me?");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -108,8 +105,8 @@ Try saying it one more time.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I130100001_01_100");
-    MsgDisp("Kazama","Well, keep calling me
-that while we're in the store.");
+    MsgDisp("Kazama","Well, keep calling me that while we're in
+the store.");
     MsgDisp("主人公","Um......
 Okay.");
     ChEye(1,0);
@@ -125,8 +122,9 @@ Okay.");
     VoicePlay("I130100001_01_120");
     MsgDisp("Kazama","That was close.");
     MsgDisp("主人公","Hehe, geez.");
-    MsgDisp("主人公","(Working part-time with ｛風真＊＊｝
-is going to be fun...... I guess?)");
+    MsgDisp("主人公","(Working part-time with ｛風真＊＊｝ is
+going to be fun......
+I guess?)");
     break ;
     default :
     DbgAssert(1);

@@ -11,12 +11,10 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250400000_04_000");
     MsgDisp("Nanatsumori","......Ah.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Welcome!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome!");
     VoicePlay("I250400000_04_010");
     MsgDisp("Nanatsumori","Working?");
-    MsgDisp("主人公","Yeah.
-Did you come to buy a book,
+    MsgDisp("主人公","Yeah. Did you come to buy a book,
 ｛七ツ森＊｝?");
     ChEye(4,0);
     ChMouth(4,4);
@@ -40,12 +38,11 @@ Good luck with work.");
     VoicePlay("I250400000_04_030");
     MsgDisp("Nanatsumori","Yo.
 Good work.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Welcome!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome!");
     ChMotion(4,0,1);
     VoicePlay("I250400000_04_040");
-    MsgDisp("Nanatsumori","Hey, where are all the magazines
-with appendixes?");
+    MsgDisp("Nanatsumori","Hey, where are all the magazines with
+appendixes?");
     MsgDisp("主人公","I'll show you.
 Please follow me.");
     ChEye(4,4);
@@ -59,8 +56,8 @@ You're kinda cool.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(All the covers in the sweets
-magazine cover are so cute.
+    MsgDisp("主人公","(All the covers in the sweets magazine
+cover are so cute.
 They look delicious......)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
@@ -81,17 +78,15 @@ Good work.");
     ChMouth(4,3);
     ChMotion(4,2);
     VoicePlay("I250400000_04_080");
-    MsgDisp("Nanatsumori","......Ah.
-Aah, this is poison to my eyes.
+    MsgDisp("Nanatsumori","......Ah. Aah, this is poison to my eyes.
 Hm, poison, or heaven?");
     MsgDisp("主人公","......Right?");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("I250400000_04_090");
-    MsgDisp("Nanatsumori","Mm.
-I'll buy this as an apology
-for saying too much.");
+    MsgDisp("Nanatsumori","Mm. I'll buy this as an apology for saying
+too much.");
     MsgDisp("主人公","Hehe, thank you very much!");
     ChEye(4,0);
     ChMouth(4,4);
@@ -99,8 +94,8 @@ for saying too much.");
     ChCheek(4,5);
     VoicePlay("I250400000_04_100");
     MsgDisp("Nanatsumori","......No prob.
-Want to head to this specialty
-sweets shop with me next time?");
+Want to head to this specialty sweets shop
+with me next time?");
     MsgDisp("主人公","(......Is he inviting me on a date?)");
     break ;
     default :

@@ -8,7 +8,7 @@ MsgClose();
 ScrFadeOut(1,60);
 BGOpen("sc700",0);
 ScrFadeIn(1,60);
-MsgDisp("主人公","(And so, the curtain fell on the last 
+MsgDisp("主人公","(And so, the curtain fell on the last
 cultural festival of my high school life.)");
 MsgClose();
 ScrFadeOut(0);

@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040621300_06_020");
-    MsgDisp("Himuro","If you were to handle them
-roughly, that would be sad.");
+    MsgDisp("Himuro","If you were to handle them roughly, that
+would be sad.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -38,8 +38,7 @@ roughly, that would be sad.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040621300_06_030");
-    MsgDisp("Himuro","I agree.
-It's so defenseless that you'd 
+    MsgDisp("Himuro","I agree. It's so defenseless that you'd
 feel anxious. We have to be careful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

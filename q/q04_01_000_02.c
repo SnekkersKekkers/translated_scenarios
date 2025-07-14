@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,8);
     VoicePlay("Q040100002_01_000");
     MsgDisp("Kazama","Wait, seriously...?
-I already made plans with somebody else. 
+I already made plans with somebody else.
 Sorry about that.");
     MsgDisp("主人公","I see......
 Sorry for asking.");

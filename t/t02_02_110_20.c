@@ -4,22 +4,21 @@ ChCheek(2,0);
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
-MsgDisp("主人公","Yeah, I like
-｛颯砂＊＊｝ too.");
+MsgDisp("主人公","Yeah, I like ｛颯砂＊＊｝ too.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020211020_02_000");
 MsgDisp("Sassa","Really...?");
-MsgDisp("主人公","Yes, I want to run with
-｛颯砂＊＊｝ too.");
+MsgDisp("主人公","Yes, I want to run with ｛颯砂＊＊｝ too.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("T020211020_02_010");
-MsgDisp("Sassa","Thank you. I can chase my dreams together 
-with you, my beloved.");
+MsgDisp("Sassa","Thank you.
+I can chase my dreams together with you,
+my beloved.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,1);

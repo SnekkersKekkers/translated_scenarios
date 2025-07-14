@@ -11,9 +11,8 @@ switch (MsgSelRsltGet()){
     ChEye(4,4);
     ChMotion(4,2,1);
     VoicePlay("B040418700_04_000");
-    MsgDisp("Nanatsumori","Hmm.
-I got tired of thinking about 
-it halfway through.");
+    MsgDisp("Nanatsumori","Hmm. I got tired of thinking about it
+halfway through.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,9 +23,9 @@ it halfway through.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040418700_04_010");
-    MsgDisp("Nanatsumori","Yeah. It wasn't bad,
-but I can't openly say it was great.
-It was a bit unsatisfying.");
+    MsgDisp("Nanatsumori","Yeah. It wasn't bad, but I can't openly
+say it was great. It was a bit
+unsatisfying.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +36,8 @@ It was a bit unsatisfying.");
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040418700_04_020");
-    MsgDisp("Nanatsumori","Then, I guess we made a mistake
-with our movie choice.");
+    MsgDisp("Nanatsumori","Then, I guess we made a mistake with our
+movie choice.");
     MsgDateResultDisp();
     break ;
     default :

@@ -13,17 +13,19 @@ switch (ChPrmGet(3,6)){
     ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("Q020300000_03_000");
-    MsgDisp("Honda","｛主人公｝.
-Good morning! Did you sleep well?");
-    MsgDisp("主人公","Good morning. Mhm, yes I did. ｛本多＊＊｝,
-how about you?");
+    MsgDisp("Honda","｛主人公｝. Good morning! Did you sleep
+well?");
+    MsgDisp("主人公","Good morning.
+Mhm, yes I did.
+｛本多＊＊｝, how about you?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("Q020300000_03_010");
-    MsgDisp("Honda","Me too. As the well-slept duo, let's go
-together for today's free period!");
+    MsgDisp("Honda","Me too.
+As the well-slept duo, let's go together
+for today's free period!");
     MsgSel("Sure, I'm coming！","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
@@ -37,10 +39,10 @@ together for today's free period!");
         ChMouth(3,3);
         ChMotion(3,4,1);
         VoicePlay("Q020300000_03_030");
-        MsgDisp("Honda","No problem, now what should we do? There
-are so many places I want to go to.");
+        MsgDisp("Honda","No problem, now what should we do?
+There are so many places I want to go to.");
         MsgDisp("主人公","(Hehe. I can't wait for the free period
-together with ｛本多＊＊｝!)");
+together with ｛本多＊＊｝! )");
         break ;
         case 1:
         ChEye(3,2);
@@ -70,8 +72,8 @@ I feel bad......)");
     ChOpen(3,254,5,3,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("Q020300000_03_060");
-    MsgDisp("Honda","｛主人公｝.
-Found you!　I was looking for you!");
+    MsgDisp("Honda","｛主人公｝. Found you! I was looking
+for you!");
     MsgDisp("主人公","｛本多＊＊｝, good morning!");
     ChEye(3,0);
     ChMouth(3,3);
@@ -92,8 +94,8 @@ to take and all, so what do you think?");
 consider the places you want to see too so
 I can update the overall layout and we can
 walk around smoothly.");
-        MsgDisp("主人公","As expected of ｛本多＊＊｝. I'm looking
-forward to this!");
+        MsgDisp("主人公","As expected of ｛本多＊＊｝.
+I'm looking forward to this!");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1,1);
@@ -116,7 +118,8 @@ be the two of us going around together");
         ChMotion(3,0,1);
         VoicePlay("Q020300000_03_110");
         MsgDisp("Honda","It can't be helped, I'll follow Plan B
-instead. So, have fun on your end too.");
+instead.
+So, have fun on your end too.");
         MsgDisp("主人公","(He even invited me,
 I feel bad......)");
         break ;

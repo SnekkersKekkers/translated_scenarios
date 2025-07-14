@@ -1,7 +1,7 @@
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ahh, this is such nice weather...... Ah,
-I need to move classrooms in the
+MsgDisp("主人公","(Ahh, this is such nice weather......
+Ah, I need to move classrooms in the
 afternoon, I have to prepare in advance.)");
 VoiceEVSPlay(7);
 VoicePlay("G110700700_07_000");
@@ -18,9 +18,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700700_07_010");
-MsgDisp("Mikage","Well yeah, 
-even if I come just to check it out, 
-I end up getting my hands dirty anyways.");
+MsgDisp("Mikage","Well yeah, even if I come just to check it
+out, I end up getting my hands dirty
+anyways.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -42,7 +42,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700700_07_040");
-MsgDisp("Mikage","You're saying such kind things. 
+MsgDisp("Mikage","You're saying such kind things.
 Well, I wish that were the case.");
 SEPlay("EV_SE_SCHOOL_002");
 MsgClose();
@@ -74,15 +74,14 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G110700700_07_070");
-MsgDisp("Mikage","Hmm? 
-No, this won't do. Vice Principal Himuro
-will give me a good scolding.");
+MsgDisp("Mikage","Hmm? No, this won't do. Vice Principal
+Himuro will give me a good scolding.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Hehe ｛御影＊＊｝,
-Are you going to make in time for class?)");
+MsgDisp("主人公","(Hehe ｛御影＊＊｝, Are you going to
+make in time for class?)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,8 +12,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040123601_01_000");
-MsgDisp("Kazama","You can't go home without 
-seeing this light parade.");
+MsgDisp("Kazama","You can't go home without seeing this
+light parade.");
 MsgSel("Let's save a spot next time.","Hehe, you really love this huh?","How much firefly power is this?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,8 +50,8 @@ Everyone loves this kind of thing.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040123601_01_030");
-    MsgDisp("Kazama","50000 fireflies?
-Don't go making up new units.");
+    MsgDisp("Kazama","50000 fireflies? Don't go making up new
+units.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

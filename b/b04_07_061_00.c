@@ -7,8 +7,8 @@ ChMotion(7,4);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040706100_07_000");
-MsgDisp("Mikage","Even though it's a class field trip, 
-we're going for a dip in the sea.
+MsgDisp("Mikage","Even though it's a class field trip, we're
+going for a dip in the sea.
 Come on, let's go.");
 MsgSel("｛御影＊＊｝, come with us too","What are we supposed to learn here?","How about we cool off at the beach hut?");
 switch (MsgSelRsltGet()){
@@ -40,8 +40,8 @@ She's alive and well even in summer.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040706100_07_030");
-    MsgDisp("Mikage","Let's go, let's go. We have to watch
-out for heat stroke too.");
+    MsgDisp("Mikage","Let's go, let's go.
+We have to watch out for heat stroke too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

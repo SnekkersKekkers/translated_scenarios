@@ -2,13 +2,13 @@ BGOpen("sc210",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(What nice weather......
-I still have some break time, 
-so maybe I'll do some sketching?)");
+I still have some break time, so maybe
+I'll do some sketching?)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","(Okay, that's enough for today. ——That's
-right ｛柊＊＊＊｝,Might still be in the
+right ｛柊＊＊＊｝, Might still be in the
 student council room. Let's go and take a
 look.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -41,15 +41,14 @@ ChMouth(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500900_05_020");
 MsgDisp("Hiiragi","............");
-MsgDisp("主人公","Ahaha.
-｛柊＊＊＊｝'s jokes are funny.'");
+MsgDisp("主人公","Ahaha. ｛柊＊＊＊｝'s jokes are funny.'");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChMouth(5,1);
 ChEyeOpenLevel(5,13);
 VoicePlay("G110500900_05_030");
-MsgDisp("Hiiragi","It's funny when a usually dull
-guy says it, isn't it?");
+MsgDisp("Hiiragi","It's funny when a usually dull guy says
+it, isn't it?");
 MsgDisp("主人公","｛柊＊＊＊｝ is always fun though?");
 ChEye(5,0);
 ChMouth(5,1);
@@ -59,8 +58,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500900_05_040");
-MsgDisp("Hiiragi","Haha, thank you,
-I can't compare to you though.");
+MsgDisp("Hiiragi","Haha, thank you, I can't compare to you
+though.");
 MsgDisp("主人公","Seriously. The picture I drew, Isn't good
 to the extent I can show ｛柊＊＊＊｝.");
 SEStop("EV_SE_712",0);

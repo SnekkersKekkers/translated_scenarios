@@ -29,8 +29,8 @@ VoicePlay("T040500000_05_030");
 MsgDisp("Hiiragi","Ah, you laughed.
 That's the laugh that I love.
 Then this must be the right direction.");
-MsgDisp("主人公","It's not just me,
-Is ｛柊＊＊＊｝ smiling too?");
+MsgDisp("主人公","It's not just me, Is ｛柊＊＊＊｝ smiling
+too?");
 NSSEye(5,3);
 NSSCheek(5,5);
 VoicePlay("T040500000_05_040");

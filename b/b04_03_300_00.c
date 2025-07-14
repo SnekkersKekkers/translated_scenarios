@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040330000_03_010");
     MsgDisp("Honda","Is that so?
-Maybe it's because there's
-only things I like.");
+Maybe it's because there's only things I
+like.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -41,8 +41,8 @@ only things I like.");
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("B040330000_03_030");
-    MsgDisp("Honda","Really?
-My younger sister's room is more amazing.");
+    MsgDisp("Honda","Really? My younger sister's room is more
+amazing.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

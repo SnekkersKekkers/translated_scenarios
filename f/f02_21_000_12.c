@@ -10,9 +10,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100012_21_000");
-MsgDisp("Michiru","After spring break, we'll
-go up a year. We'll become 
-upperclassmen.");
+MsgDisp("Michiru","After spring break, we'll go up a year.
+We'll become upperclassmen.");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(21,0);
 ChMouth(21,3);
@@ -24,8 +23,9 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F022100012_21_020");
-MsgDisp("Michiru","I think Mari will be completely
-fine though. Hikaru...I worry for her.");
+MsgDisp("Michiru","I think Mari will be completely fine
+though.
+Hikaru...I worry for her.");
 MsgDisp("主人公","Hehe!");
 MsgClose();
 ScrFadeOut(0,0);

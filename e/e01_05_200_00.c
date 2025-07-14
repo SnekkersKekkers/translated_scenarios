@@ -32,8 +32,7 @@ ChMotion(5,0,1);
 VoicePlay("E010520000_05_020");
 MsgDisp("Hiiragi","Things like this become necessary
 sometimes due to the nature of my job.");
-MsgDisp("主人公","Um......
-｛氷室＊＊｝ do you have yours
+MsgDisp("主人公","Um...... ｛氷室＊＊｝ do you have yours
 custom made too?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -46,8 +45,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520000_05_030");
 MsgDisp("Hiiragi","I'd recommend it.
-Wearing something that suits your body
-is part of the foundations of fashion.");
+Wearing something that suits your body is
+part of the foundations of fashion.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

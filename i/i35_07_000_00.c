@@ -20,8 +20,8 @@ Nice.");
     ChMotion(7,1);
     VoicePlay("I350700000_07_010");
     MsgDisp("Mikage","I see, keep at it.
-There's fun to be had here that
-you can't get at school.");
+There's fun to be had here that you can't
+get at school.");
     MsgDisp("主人公","Yes, and I also get paid here.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -47,14 +47,13 @@ I'll show you to your seat.");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_030");
     MsgDisp("Mikage","Oh, there you are.");
-    MsgDisp("主人公","｛御影＊＊｝,
-you came!");
+    MsgDisp("主人公","｛御影＊＊｝, you came!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I350700000_07_040");
-    MsgDisp("Mikage","To see you hard at work,
-and to receive some of that energy.");
+    MsgDisp("Mikage","To see you hard at work, and to receive
+some of that energy.");
     MsgDisp("主人公","Hm, energy......?
 Is something the matter?");
     ChEye(7,0);
@@ -63,8 +62,8 @@ Is something the matter?");
     VoicePlay("I350700000_07_050");
     MsgDisp("Mikage","Nothing much, just the usual.
 Well, one cup of coffee.");
-    MsgDisp("主人公","Understood.
-Please sit wherever you'd like.");
+    MsgDisp("主人公","Understood. Please sit wherever you'd
+like.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     MsgDisp("","　　　　　　　　　　 ・
@@ -77,8 +76,7 @@ Please sit wherever you'd like.");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("I350700000_07_060");
-    MsgDisp("Mikage","｛主人公｝.
-A refill, please.");
+    MsgDisp("Mikage","｛主人公｝. A refill, please.");
     MsgDisp("主人公","Ah, yes.
 ......｛御影＊＊｝, you're taking it
 quite slow today.");
@@ -100,8 +98,8 @@ the middle of something?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I350700000_07_090");
-    MsgDisp("Mikage","Hm, if I had to say,
-I guess I'm nowhere near it?");
+    MsgDisp("Mikage","Hm, if I had to say, I guess I'm nowhere
+near it?");
     MsgDisp("主人公","(I wonder if he's slacking off......)");
     MsgClose();
     BGMStop();
@@ -118,16 +116,15 @@ I guess I'm nowhere near it?");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_100");
     MsgDisp("Mikage","Yo, you're working, huh.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
-Welcome!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝! Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I350700000_07_110");
     MsgDisp("Mikage","Nice smile.
 Feels like we're at school.");
-    MsgDisp("主人公","I wouldn't say \"welcome\"
-at school, though.");
+    MsgDisp("主人公","I wouldn't say \"welcome\" at school,
+though.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -150,8 +147,8 @@ Would you like to have a cake with it?");
     VoicePlay("I350700000_07_140");
     MsgDisp("Mikage","I get it,
 I'll have a cake set, then.");
-    MsgDisp("主人公","Yes!
-Thank you for your continued patronage.");
+    MsgDisp("主人公","Yes! Thank you for your continued
+patronage.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -160,8 +157,8 @@ Thank you for your continued patronage.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(ALright!
-｛御影＊＊｝ ate a lot of delicious cakes.)");
+    MsgDisp("主人公","(ALright! ｛御影＊＊｝ ate a lot of
+delicious cakes.)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -8,13 +8,14 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360750401_07_000");
 MsgDisp("Mikage","Let's head home before it gets dark.");
-MsgDisp("主人公","The stars are beautiful when it
-gets dark out, aren't they?");
+MsgDisp("主人公","The stars are beautiful when it gets dark
+out, aren't they?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750401_07_010");
-MsgDisp("Mikage","......It's beautiful, right? No it's not.
+MsgDisp("Mikage","......It's beautiful, right?
+No it's not.
 Let's go.");
 MsgDisp("主人公","......Okay.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -60,7 +61,8 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("B360750401_07_060");
 MsgDisp("Mikage","Let's keep it a secret between us.");
-MsgDisp("主人公","(Thank you for bringing me, ｛御影＊＊｝ )");
+MsgDisp("主人公","(Thank you for bringing me,
+｛御影＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

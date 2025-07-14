@@ -10,9 +10,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B020202111_02_010");
-MsgDisp("Sassa","Yeah. When I see you so fashionable,
-I start worrying like, \"Do I look okay?\"
-in an anxious way.");
+MsgDisp("Sassa","Yeah. When I see you so fashionable, I
+start worrying like, \"Do I look okay?\" in
+an anxious way.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);

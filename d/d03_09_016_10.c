@@ -51,8 +51,8 @@ MsgDisp("主人公","Ah......True.");
 ChEye(9,3);
 ChMotion(9,4,1);
 VoicePlay("D030901610_09_030");
-MsgDisp("Kuya","Sorry, but can you guys
-wait until later for a photo session?");
+MsgDisp("Kuya","Sorry, but can you guys wait until later
+for a photo session?");
 MsgDisp("主人公","See you all later......!");
 ChEye(9,0);
 ChMouth(9,4);
@@ -80,12 +80,12 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,1,1);
 VoicePlay("D030901610_09_060");
-MsgDisp("Kuya","My jealousy. I thought you were going 
-to be taken away by that big group of 
+MsgDisp("Kuya","My jealousy. I thought you were going to
+be taken away by that big group of
 students so I did something immature.");
 MsgDisp("主人公","It's fine......
-Even though you came, I wasn't able to
-pay attention to you......");
+Even though you came, I wasn't able to pay
+attention to you......");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -94,15 +94,14 @@ MsgDisp("Kuya","......Hehe.
 Jealousy, huh.");
 ChMotion(9,2,1);
 VoicePlay("D030901610_09_080");
-MsgDisp("Kuya","If I was a student at Haba High,
-maybe I would feel jealous everyday.");
+MsgDisp("Kuya","If I was a student at Haba High, maybe I
+would feel jealous everyday.");
 ChEye(9,3);
 ChMouth(9,0);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901610_09_090");
-MsgDisp("Kuya","......Yeah.
-I think Hanegasaki High School was a good
-decision.");
+MsgDisp("Kuya","......Yeah. I think Hanegasaki High School
+was a good decision.");
 MsgDisp("主人公","???");
 ChEye(9,3);
 ChMouth(9,0);

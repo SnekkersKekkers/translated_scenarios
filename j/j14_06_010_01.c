@@ -16,7 +16,8 @@ I'm looking forward to it.)");
     break ;
     case 1:
     VoicePlay("J140601001_06_020");
-    MsgDisp("Himuro","Oh, yeah. That's okay then.
+    MsgDisp("Himuro","Oh, yeah.
+That's okay then.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

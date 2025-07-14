@@ -5,8 +5,8 @@ ChOpen(3,255,2,4,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323301_03_000");
-MsgDisp("Honda","...Isn't one coming-of-age
-ceremony in a lifetime enough?");
+MsgDisp("Honda","...Isn't one coming-of-age ceremony in a
+lifetime enough?");
 MsgSel("This is just a rehearsal, you know?","The jump platform is calling","Next time, just watch without jumping.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -37,8 +37,8 @@ jumping that draws you in so much...?");
     ChMotion(3,1);
     VoicePlay("B040323301_03_030");
     MsgDisp("Honda","I see...
-Maybe something will change 
-if I observe it objectively.");
+Maybe something will change if I observe
+it objectively.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -8,9 +8,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B040330002_03_000");
-MsgDisp("Honda","There's a separate room to
-raise insects and fish.");
-MsgSel("Are they｛本多＊＊｝'s pets?'","Won't they run away?","Haa, that's good.");
+MsgDisp("Honda","There's a separate room to raise insects
+and fish.");
+MsgSel("Are they ｛本多＊＊｝'s pets?'","Won't they run away?","Haa, that's good.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -34,8 +34,8 @@ But I give them names.");
     ChMotion(3,3);
     VoicePlay("B040330002_03_020");
     MsgDisp("Honda","They have, they have.
-When I feed them, I sometimes
-forget to close the lid.");
+When I feed them, I sometimes forget to
+close the lid.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -51,8 +51,8 @@ forget to close the lid.");
         DateRateSet(0);
         ChSet(3,2);
         VoicePlay("B040330002_03_030");
-        MsgDisp("Honda","Eh, do you dislike coming 
-to my room that much?");
+        MsgDisp("Honda","Eh, do you dislike coming to my room that
+much?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -70,17 +70,16 @@ them.");
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040330002_03_050");
-        MsgDisp("Honda","Then, let's put the creatures aside, 
-And try some fortune telling?");
+        MsgDisp("Honda","Then, let's put the creatures aside, And
+try some fortune telling?");
         MsgDisp("主人公","Eh, ｛本多＊＊｝, you can fortune-tell?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040330002_03_060");
-        MsgDisp("Honda","Yep yep, 
-Yeah, I like the concept based on the
-Five Elements theory and I've
-read quite a few books on it");
+        MsgDisp("Honda","Yep yep, Yeah, I like the concept based on
+the Five Elements theory and I've read
+quite a few books on it");
         ChMotion(3,4);
         VoicePlay("B040330002_03_070");
         MsgDisp("Honda","But it's more about compatibility, I
@@ -92,8 +91,8 @@ the world is connected and has a flow.");
         ChMotion(3,3);
         VoicePlay("B040330002_03_080");
         MsgDisp("Honda","When you compliment me like this, it
-motivates me to grow even more! That's the
-positive flow.");
+motivates me to grow even more!
+That's the positive flow.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,4);

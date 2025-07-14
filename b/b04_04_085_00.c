@@ -27,8 +27,8 @@ Let's go somewhere warm quickly.");
     ChMotion(4,1,1);
     VoicePlay("B040408500_04_020");
     MsgDisp("Nanatsumori","Of course.
-If pink breath came out of you, 
-I would take a picture right away.");
+If pink breath came out of you, I would
+take a picture right away.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,9 +40,8 @@ I would take a picture right away.");
     ChMotion(4,2,1);
     ChCheek(4,8);
     VoicePlay("B040408500_04_030");
-    MsgDisp("Nanatsumori","No...
-That warmed me up from 
-the core just now.");
+    MsgDisp("Nanatsumori","No... That warmed me up from the core just
+now.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

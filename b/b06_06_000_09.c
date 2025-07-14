@@ -18,8 +18,8 @@ switch (ChPrmGet(6,6)){
     ChEyeOpenLevel(6,0);
     ScrFadeIn(0);
     VoicePlay("B060600009_06_000");
-    MsgDisp("Himuro","......I guess the choice of location
-was a mistake.");
+    MsgDisp("Himuro","......I guess the choice of location was a
+mistake.");
     break ;
     default :
     DbgAssert(1);

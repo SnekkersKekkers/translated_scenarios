@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040223200_02_020");
-    MsgDisp("Sassa","If you want to sleep,
-there's better places for it.");
+    MsgDisp("Sassa","If you want to sleep, there's better
+places for it.");
     MsgDateResultDisp();
     break ;
     case 2:

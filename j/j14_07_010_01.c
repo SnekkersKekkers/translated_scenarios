@@ -3,9 +3,8 @@ switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J140701001_07_000");
     MsgDisp("Mikage","Okay, it's settled.");
-    MsgDisp("主人公","Then,
-I'll meet you at the ｛待ち合わせ場所｝
-okay?");
+    MsgDisp("主人公","Then, I'll meet you at the
+｛待ち合わせ場所｝ okay?");
     VoicePlay("J140701001_07_010");
     MsgDisp("Mikage","Oh, I'll let them know.
 See you.");
@@ -17,7 +16,8 @@ I'm looking forward to it.)");
     case 1:
     VoicePlay("J140701001_07_020");
     MsgDisp("Mikage","Well then, I guess it can't be helped.
-I'll call you again. See you.");
+I'll call you again.
+See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(He went to the trouble of inviting me,

@@ -43,18 +43,17 @@ Where do you want to meet up?");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("J060100000_01_030");
-        MsgDisp("Kazama","Ok.
-Well, you know, we could be anywhere.
+        MsgDisp("Kazama","Ok. Well, you know, we could be anywhere.
 I'm sure we can meet, right?");
-        MsgDisp("主人公","Hmmm.
-You have to be at the meeting point.
+        MsgDisp("主人公","Hmmm. You have to be at the meeting point.
 Don't you get it?");
         ChEye(1,3);
         ChMouth(1,3);
         ChMotion(1,3,1);
         VoicePlay("J060100000_01_040");
         MsgDisp("Kazama","Yes, it's better to see each other right
-away. It's a date, after all.");
+away.
+It's a date, after all.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -124,7 +123,8 @@ I'm just ......");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("J060100000_01_100");
-        MsgDisp("Kazama","It's fine. Even though it's not good.");
+        MsgDisp("Kazama","It's fine.
+Even though it's not good.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,0);

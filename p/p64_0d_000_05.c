@@ -14,8 +14,8 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P640D00005_22_010");
-MsgDisp("Hikaru","Hikaru thinks she's 
-starting to hate vegetables.");
+MsgDisp("Hikaru","Hikaru thinks she's starting to hate
+vegetables.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
@@ -27,8 +27,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("P640D00005_21_020");
-MsgDisp("Michiru","There's still room for improvement... I
-get the impression it's annunfomoshed
+MsgDisp("Michiru","There's still room for improvement...
+I get the impression it's annunfomoshed
 product.");
 MsgDisp("主人公","(Uughh...
 I failed  at the very end...)");

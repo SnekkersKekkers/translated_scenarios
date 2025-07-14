@@ -39,7 +39,8 @@ I definitely shouldn't call him that.)");
     ChOpen(7,254,2,2,0,#1,#1,0,0);
     VoicePlay("F010700001_07_020");
     MsgDisp("Mikage","Hm, it's you...
-But no, no no no. Not that.");
+But no, no no no.
+Not that.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

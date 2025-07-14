@@ -42,8 +42,9 @@ first...");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B010100001_01_030");
-    MsgDisp("Kazama","I see, thank you. But next time I don't
-want to keep you waiting.");
+    MsgDisp("Kazama","I see, thank you.
+But next time I don't want to keep you
+waiting.");
     MsgDispSksp(0);
     break ;
     case 4:

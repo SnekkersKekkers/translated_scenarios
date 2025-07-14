@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040110300_01_000");
 MsgDisp("Kazama","The artist who spread his wings from
-Habataki into the greater world. His
-teenage works can only be seen here.");
+Habataki into the greater world.
+His teenage works can only be seen here.");
 MsgSel("Wasn't some of it donated to Haba High?","Both he and his works are beautiful","He seems like one of Vice Principal Himuro's students.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -31,8 +31,8 @@ activities, though.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040110300_01_020");
-    MsgDisp("Kazama","What do his looks have to do with it?
-... Sheesh, women are always like this...");
+    MsgDisp("Kazama","What do his looks have to do with it? ...
+Sheesh, women are always like this...");
     MsgDateResultDisp();
     break ;
     case 2:

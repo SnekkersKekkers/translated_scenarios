@@ -12,8 +12,8 @@ ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040711000_07_000");
 MsgDisp("Mikage","My love for you......
-It doesn't matter if it overflows, 
-or if it spills.");
+It doesn't matter if it overflows, or if
+it spills.");
 MsgClose();
 ScrFadeOut(0,0,300);
 StlClose();

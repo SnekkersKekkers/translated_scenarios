@@ -25,8 +25,8 @@ Did I do something wrong?");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040410400_04_020");
-    MsgDisp("Nanatsumori","No, I was the one who decided
-to come after all.
+    MsgDisp("Nanatsumori","No, I was the one who decided to come
+after all.
 Why I did, I don't know though...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -39,9 +39,8 @@ Why I did, I don't know though...");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040410400_04_030");
-    MsgDisp("Nanatsumori","...You.
-I seriously respect it.
-I'm kind of patheticー...");
+    MsgDisp("Nanatsumori","...You. I seriously respect it. I'm kind
+of patheticー...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

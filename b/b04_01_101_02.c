@@ -6,9 +6,9 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040110102_01_000");
-MsgDisp("Kazama","In the long history of Habataki City,
-I wonder if our ancestors ever
-met like we are now?");
+MsgDisp("Kazama","In the long history of Habataki City, I
+wonder if our ancestors ever met like we
+are now?");
 MsgSel("Maybe they were hunter-gatherers?","Maybe they fought on the battlefield together?","Maybe they lived together in Habataki Castle?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -51,8 +51,8 @@ Well, I guess that is just like you.");
         ChMotion(1,3);
         VoicePlay("B040110102_01_030");
         MsgDisp("Kazama","You aren't saying you're a princess,
-right? You're like the cheerful town
-peasant.");
+right?
+You're like the cheerful town peasant.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -74,8 +74,8 @@ years ago too, right?");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040110102_01_050");
         MsgDisp("Kazama","Ooh, I bet your ancestor was one of those
-strange ones, always causing trouble
-for my ancestors, right?");
+strange ones, always causing trouble for
+my ancestors, right?");
         MsgDisp("主人公","Huh?
 Do I cause trouble for you?");
         ChMotion(1,4);
@@ -94,15 +94,15 @@ It's like, in a good way, you know.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,0);
         VoicePlay("B040110102_01_070");
-        MsgDisp("Kazama","... I'm saying our ancestors
-must have been just like this.");
+        MsgDisp("Kazama","... I'm saying our ancestors must have
+been just like this.");
         ChEye(1,2);
         ChMouth(1,0);
         ChMotion(1,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040110102_01_080");
-        MsgDisp("Kazama","Haah, I don't think I'll be
-breaking this spiral, either...");
+        MsgDisp("Kazama","Haah, I don't think I'll be breaking this
+spiral, either...");
         MsgDisp("主人公","(Umm... What is that supposed to mean?)");
         break ;
         default :

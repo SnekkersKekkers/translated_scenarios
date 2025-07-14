@@ -16,8 +16,7 @@ There's a huge audience...)");
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_000");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-You came?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. You came?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -34,15 +33,16 @@ You have to enjoy playing it, no?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P530200001_02_030");
-    MsgDisp("Sassa","Hey if you make that troubled face, 
-it doesn't seem like an fun game, does it?");
+    MsgDisp("Sassa","Hey if you make that troubled face, it
+doesn't seem like an fun game, does it?");
     MsgDisp("主人公","Yeah...");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("P530200001_02_040");
     MsgDisp("Sassa","What was it called again?
-A boring game... a shit game...");
+A boring game...
+a shit game...");
     MsgDisp("主人公","Eh?
 Hey, you can't say that kind of stuff!");
     ChEye(2,0);
@@ -73,52 +73,52 @@ There's a huge audience...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_070");
-    MsgDisp("Sassa","｛主人公｝, 
-I came to listen to some gaming music.");
-    MsgDisp("主人公","｛颯砂＊＊｝. Thank you. ");
+    MsgDisp("Sassa","｛主人公｝, I came to listen to some
+gaming music.");
+    MsgDisp("主人公","｛颯砂＊＊｝. Thank you.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P530200001_02_080");
     MsgDisp("Sassa","Guess it's a popular game?
-Even I know it. ");
-    MsgDisp("主人公","Yeah.
-That's why the audience is filled up.
-I can't be nervous...");
+Even I know it.");
+    MsgDisp("主人公","Yeah. That's why the audience is filled
+up. I can't be nervous...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P530200001_02_090");
-    MsgDisp("Sassa","That's nice. It's definitely better that
-people are here.");
+    MsgDisp("Sassa","That's nice.
+It's definitely better that people are
+here.");
     MsgDisp("主人公","That's right, but...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P530200001_02_100");
-    MsgDisp("Sassa","In order for these people to listen 
-and enjoy your music, you've been 
-giving it your all, right? ");
+    MsgDisp("Sassa","In order for these people to listen and
+enjoy your music, you've been giving it
+your all, right?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P530200001_02_110");
     MsgDisp("Sassa","That's what makes it different to when I
-compete. I do it to set my own records.");
+compete.
+I do it to set my own records.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P530200001_02_120");
-    MsgDisp("Sassa","Your performance is meaningless
-if many people don't listen to it, 
-right?");
-    MsgDisp("主人公","Yeah... that's right, huh.
-Thank you, ｛颯砂＊＊｝!");
+    MsgDisp("Sassa","Your performance is meaningless if many
+people don't listen to it, right?");
+    MsgDisp("主人公","Yeah... that's right, huh. Thank you,
+｛颯砂＊＊｝!");
     MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝ says.
-For the many people who want to hear it, 
-I have to give it my all!)");
+For the many people who want to hear it, I
+have to give it my all!)");
     break ;
     default :
     DbgAssert(1);

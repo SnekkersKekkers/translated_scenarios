@@ -77,7 +77,8 @@ Then... next time?");
         MsgDisp("Mikage","The strike is a double-edged
 sword.");
         MsgDisp("主人公","(Double-edged sword...?
-Even so, ｛御影＊＊｝ has improved a lot.)");
+Even so, ｛御影＊＊｝ has improved a
+lot.)");
         break ;
         default :
         DbgAssert(1);

@@ -15,9 +15,8 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B030830000_08_020");
-MsgDisp("Shirahane","... Oh.
-Well, mine AND my brother's room...
-If that's alright?");
+MsgDisp("Shirahane","... Oh. Well, mine AND my brother's
+room... If that's alright?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe!");
 MsgDispSksp(0);

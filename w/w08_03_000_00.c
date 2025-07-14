@@ -23,7 +23,8 @@ huh?");
     ScrFadeIn(0);
     VoicePlay("W080300000_03_020");
     MsgDisp("Honda","Ah, I'm going with Michiru-chan?
-I see. Hm, Okaaay.");
+I see.
+Hm, Okaaay.");
     break ;
     default :
     DbgAssert(1);

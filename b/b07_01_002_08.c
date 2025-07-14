@@ -11,11 +11,11 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100002_01_450");
 MsgDisp("Kazama","Then, what is it this time?
-The things you're thinking about
-are way beyond my expectations.");
+The things you're thinking about are way
+beyond my expectations.");
 MsgDisp("主人公","I was thinking that suddenly being with
-｛風真＊＊｝ is like a dream. So I ended up
-staring. It's weird isn't it?");
+｛風真＊＊｝ is like a dream. So I ended
+up staring. It's weird isn't it?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -38,8 +38,8 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_480");
 MsgDisp("Kazama","But, well.
-Both time and distance don't
-mean anything to us.");
+Both time and distance don't mean anything
+to us.");
 MsgDisp("主人公","Hehe, 
 yeah, that's right.");
 ChEye(1,4);
@@ -54,8 +54,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_500");
-MsgDisp("Kazama","As I thought, it's nice to be 
-reflected in your eyes.");
+MsgDisp("Kazama","As I thought, it's nice to be reflected in
+your eyes.");
 MsgDisp("主人公","(It's a bit embarrassing, but I'm happy.)");
 BGMStop();
 MsgClose();

@@ -26,8 +26,8 @@ Your expressive power was crazy.");
     VoicePlay("H4A0600000_06_020");
     MsgDisp("Himuro","Yeah.
 Congrats on winning.");
-    MsgDisp("主人公","(I'm really glad
-I stayed in the rhythmic gymnastics club!
+    MsgDisp("主人公","(I'm really glad I stayed in the rhythmic
+gymnastics club!
 Today's the best day ever!)");
     break ;
     case 4:
@@ -38,8 +38,7 @@ Today's the best day ever!)");
     ScrFadeIn(0);
     VoicePlay("H4A0600000_06_030");
     MsgDisp("Himuro","Congrats.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
-Thanks.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Thanks.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -68,10 +67,10 @@ Me too......");
     ChMotion(6,1);
     ChCheek(6,10);
     VoicePlay("H4A0600000_06_070");
-    MsgDisp("Himuro","Nothing!
-......Anyways, congrats on winning.");
-    MsgDisp("主人公","(I'm really glad I stayed in
-the rhythmic gymnastics club......
+    MsgDisp("Himuro","Nothing! ......Anyways, congrats on
+winning.");
+    MsgDisp("主人公","(I'm really glad I stayed in the rhythmic
+gymnastics club......
 Today's the best day ever!)");
     break ;
     default :

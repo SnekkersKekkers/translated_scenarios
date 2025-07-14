@@ -9,8 +9,8 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B030120000_01_000");
-MsgDisp("Kazama","It's nice feeling excited
-on the way to the slopes.");
+MsgDisp("Kazama","It's nice feeling excited on the way to
+the slopes.");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

@@ -11,8 +11,8 @@ Wait(40,0);
 ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoicePlay("D010100100_01_000");
 MsgDisp("Kazama","Eh, you're in a pretty good mood, huh?");
-MsgDisp("主人公","｛風真＊＊｝.
-There's a really nice breeze right now.");
+MsgDisp("主人公","｛風真＊＊｝. There's a really nice breeze
+right now.");
 SEStop("EV_SE_597",2);
 ChEye(1,4);
 ChMouth(1,3);
@@ -32,9 +32,9 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100100_01_030");
-MsgDisp("Kazama","Ahh, a ritual of yours?
-I wouldn't want to disturb a sunbather
-with too much time on their hands. Bye.");
+MsgDisp("Kazama","Ahh, a ritual of yours? I wouldn't want to
+disturb a sunbather with too much time on
+their hands. Bye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
@@ -61,15 +61,14 @@ StlMouthOpenLevel(1,0);
 VoicePlay("D010100100_01_050");
 MsgDisp("Kazama","............");
 MsgDisp("主人公","(It's such an intimate feeling......
-Somehow it feels like we're the only
-two people in this world right now......)");
+Somehow it feels like we're the only two
+people in this world right now......)");
 StlEye(1,1);
 StlMouth(1,1);
 StlCheek(1,7);
 VoiceEVSPlay(1);
 VoicePlay("D010100100_01_060");
-MsgDisp("Kazama","｛主人公｝.
-You know......");
+MsgDisp("Kazama","｛主人公｝. You know......");
 MsgDisp("主人公","......What?");
 SEPlay("EV_SE_597",0,0.8);
 StlEyeOpenLevel(1,0);
@@ -82,8 +81,8 @@ VoicePlay("D010100100_44_000");
 MsgDisp("School Girl","Gym is next so I'm going to change～
 Huh, are those two hiding or something?");
 VoicePlay("D010100100_42_010");
-MsgDisp("Male Student","Oy, what are you guys doing behind
-the curtains∋");
+MsgDisp("Male Student","Oy, what are you guys doing behind the
+curtains∋");
 BGMVol(0.5,2);
 StlClose();
 SEPlay("EV_SE_545",0.2);

@@ -10,8 +10,7 @@ SEPlay("EV_SE_513");
 SEWait();
 VoicePlay("B330A20500_02_000");
 MsgDisp("Sassa","Alright! I did it!");
-MsgDisp("主人公","Amazing!
-｛颯砂＊＊｝, that's a strike!");
+MsgDisp("主人公","Amazing! ｛颯砂＊＊｝, that's a strike!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,255,3,3,3,0,#1,0,3,0,30);
@@ -32,12 +31,12 @@ VoicePlay("B330A20500_02_020");
 MsgDisp("Sassa","Next, it's Inori.
 Do your best!");
 VoicePlay("B330A20500_06_000");
-MsgDisp("Himuro","High five... I see.
-Id I get a strike,
-I get to do that...");
+MsgDisp("Himuro","High five...
+I see.
+Id I get a strike, I get to do that...");
 VoicePlay("B330A20500_01_000");
-MsgDisp("Kazama","If you have crooked thoughts, the 
-ball won't roll straight you know?");
+MsgDisp("Kazama","If you have crooked thoughts, the ball
+won't roll straight you know?");
 VoicePlay("B330A20500_06_010");
 MsgDisp("Himuro","...That goes for you too.");
 ChEye(2,0);
@@ -68,8 +67,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A20500_06_040");
-MsgDisp("Himuro","Ryota-senpai, please cast away
-your wicked thoughts.");
+MsgDisp("Himuro","Ryota-senpai, please cast away your wicked
+thoughts.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -93,8 +92,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A20500_06_050");
-MsgDisp("Himuro","Does the trajectory of the ball 
-reflect the person who threw it?");
+MsgDisp("Himuro","Does the trajectory of the ball reflect
+the person who threw it?");
 MsgDisp("主人公","Hehe, maybe?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -113,8 +112,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20500_01_030");
-MsgDisp("Kazama","It's like Inori has turned 
-the other way in a huff.");
+MsgDisp("Kazama","It's like Inori has turned the other way
+in a huff.");
 MsgDisp("主人公","Hehe, true.");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);
@@ -123,8 +122,8 @@ ChMotion(2,3);
 VoicePlay("B330A20500_02_060");
 MsgDisp("Sassa","Then, it's you next.");
 MsgDisp("主人公","Eh!");
-MsgDisp("主人公","(Somehow...
-Maybe I'm nervous in a different way?)");
+MsgDisp("主人公","(Somehow... Maybe I'm nervous in a
+different way?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

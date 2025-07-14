@@ -20,8 +20,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140200000_02_040");
 MsgDisp("Sassa","I see...
-If you feel like it another time, 
-come and join us.");
+If you feel like it another time, come and
+join us.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.7);
 BGMStop();
 ChClose(2,0,30);

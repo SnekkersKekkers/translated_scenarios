@@ -34,10 +34,11 @@ ScrFadeIn(0);
 SEPlay("EV_SE_834",1,0.5);
 Wait(50,1);
 VoicePlay("D010500200_40_010");
-MsgDisp("Male Student A","Other side!　Come on!");
+MsgDisp("Male Student A","Other side!
+Come on!");
 MsgDisp("主人公","(The field is full of people......
-Looks like there's another class out
-there playing soccer.)");
+Looks like there's another class out there
+playing soccer.)");
 VoicePlay("D010500200_39_020");
 MsgDisp("Male Student B","Hiiragi!　Here!");
 MsgDisp("主人公","(Is that ｛柊＊＊＊｝'s class?)");
@@ -58,13 +59,14 @@ ScrFadeIn(0);
 SEPlay("EV_SE_725",0.5);
 Wait(60,0);
 VoicePlay("D010500200_40_040");
-MsgDisp("Male Student A","O-Oy!　Are you okay∋");
+MsgDisp("Male Student A","O-Oy!
+Are you okay∋");
 VoicePlay("D010500200_05_010");
 MsgDisp("Hiiragi","Yeah, but was that a goal just now∋");
 SEStop("EV_SE_725",1);
 VoicePlay("D010500200_40_050");
-MsgDisp("Male Student A","Ahh, that kick was a little
-slow but it was right on course!");
+MsgDisp("Male Student A","Ahh, that kick was a little slow but it
+was right on course!");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500200_05_020");
@@ -112,8 +114,8 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,30,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
-Earlier you scored a goal, huh?");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Earlier you scored a
+goal, huh?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

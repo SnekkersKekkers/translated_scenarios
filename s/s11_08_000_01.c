@@ -38,26 +38,24 @@ MsgDisp("Shirahane","............");
 ChEye(8,2);
 ChMouth(8,4);
 VoicePlay("S110800001_08_060");
-MsgDisp("Shirahane","If you get too carried away, you will
-miss your good fortune——");
+MsgDisp("Shirahane","If you get too carried away, you will miss
+your good fortune——");
 ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,1,1);
 VoicePlay("S110800001_08_070");
-MsgDisp("Shirahane","Ehー∋
-Why do I gotta get lectured just
+MsgDisp("Shirahane","Ehー∋ Why do I gotta get lectured just
 because I got Excellent Luck?");
-MsgDisp("主人公","Even if you're very happy, try to
-stay calm. Isn't that what it means?");
+MsgDisp("主人公","Even if you're very happy, try to stay
+calm.
+Isn't that what it means?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("S110800001_08_080");
-MsgDisp("Shirahane","Ah, that's what it means!
-You worded it better.
-......Hehe!");
-MsgDisp("主人公","(｛大地＊＊｝ looks happy.
-It's said that good fortune comes to
-those who smile.
+MsgDisp("Shirahane","Ah, that's what it means! You worded it
+better. ......Hehe!");
+MsgDisp("主人公","(｛大地＊＊｝ looks happy. It's said that
+good fortune comes to those who smile.
 ｛大地＊＊｝ will have a great year!)");

@@ -15,8 +15,9 @@ make it a success!)");
     SEWait();
     ChOpen(6,254,3,0,0,#1,#1,0,0);
     VoicePlay("P730600002_06_000");
-    MsgDisp("Himuro","It's amazing huh. To think you can
-handmake even such a thing.");
+    MsgDisp("Himuro","It's amazing huh.
+To think you can handmake even such a
+thing.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -28,8 +29,8 @@ handmake even such a thing.");
     ChMouth(6,3);
     ChMotion(6,1);
     VoicePlay("P730600002_06_020");
-    MsgDisp("Himuro","Even if you don't hear it from me,
-you already know it.
+    MsgDisp("Himuro","Even if you don't hear it from me, you
+already know it.
 Walk proudly, okay?");
     MsgDisp("主人公","Yeah...!");
     ChEye(6,0);
@@ -41,8 +42,8 @@ Walk proudly, okay?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("P730600002_06_040");
-    MsgDisp("Himuro","To think I know someone like you
-with this much talent.");
+    MsgDisp("Himuro","To think I know someone like you with this
+much talent.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(6,0);
@@ -70,24 +71,23 @@ festival... I have to make it a success!)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730600002_06_060");
     MsgDisp("Himuro","Ah...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
-Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Did you come to watch?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("P730600002_06_070");
     MsgDisp("Himuro","...Yeah.");
-    MsgDisp("主人公","This year
-I made a wedding dress.
+    MsgDisp("主人公","This year I made a wedding dress.
 How does it look?");
     ChEye(6,1);
     ChMouth(6,1);
     ChMotion(6,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("P730600002_06_080");
-    MsgDisp("Himuro","How does it look, you say.... To be
-honest, I'm completely not interested.");
+    MsgDisp("Himuro","How does it look, you say....
+To be honest, I'm completely not
+interested.");
     MsgDisp("主人公","Ehhh∋");
     ChEye(6,1);
     ChMouth(6,0);
@@ -114,8 +114,8 @@ This feels like I'm sending off a bride...");
     MsgDisp("Himuro","It's nothing.
 ...I'll be waiting from here.");
     MsgDisp("主人公","(｛氷室＊＊｝, what's wrong?
-But this is my last stage, 
-so let's carefully follow this through!)");
+But this is my last stage, so let's
+carefully follow this through!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);

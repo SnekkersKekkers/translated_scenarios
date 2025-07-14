@@ -15,9 +15,9 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("P240700000_07_000");
-MsgDisp("Mikage","I wonder how long has passed since
-I've waited for you to pass by...");
-MsgDisp("主人公","I am the incarnation of a thousand 
+MsgDisp("Mikage","I wonder how long has passed since I've
+waited for you to pass by...");
+MsgDisp("主人公","I am the incarnation of a thousand
 year-old white snake.
 You and I cannot live in the same age.");
 ChEye(7,0);
@@ -34,10 +34,10 @@ ChMouth(7,1);
 ChMotion(7,0,1);
 VoicePlay("P240700000_07_020");
 MsgDisp("Mikage","So what.
-I'd rather live in sorrow 
-than without you.");
-MsgDisp("主人公","If I were to return, the pursuers
-would go after both you and yoru family.");
+I'd rather live in sorrow than without
+you.");
+MsgDisp("主人公","If I were to return, the pursuers would go
+after both you and yoru family.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);
@@ -46,9 +46,8 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("P240700000_07_030");
-MsgDisp("Mikage","What meaning is there in 
-meekly allowing time to pass 
-when you aren't there?");
+MsgDisp("Mikage","What meaning is there in meekly allowing
+time to pass when you aren't there?");
 StlEyeOpenLevel(7,5,1);
 VoicePlay("P240700000_07_040");
 MsgDisp("Mikage","I don't need any more time apart from you.
@@ -79,15 +78,14 @@ ScrFadeOut(0,0);
 StlClose();
 MsgDisp("主人公","Ah...!");
 VoicePlay("P240700000_49_010");
-MsgDisp("Narrator","The lightning arrows sent by the pursuers 
+MsgDisp("Narrator","The lightning arrows sent by the pursuers
 pierced through Bai Niang's back.");
 BGOpen("sc744",0);
 MsgClose();
 ChOpen(7,38,0,2,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","This is... fine.
-I can finally experience the same 
-time you do.");
+MsgDisp("主人公","This is... fine. I can finally experience
+the same time you do.");
 ChEye(7,2);
 ChMouth(7,1);
 ChMotion(7,2);
@@ -116,13 +114,12 @@ ScrFadeIn(0);
 VoicePlay("P240700000_07_070");
 MsgDisp("Mikage","Phew... Somehow I managed to stand in as a
 substitute.");
-MsgDisp("主人公","｛御影＊＊｝!
-The applause was huge!");
+MsgDisp("主人公","｛御影＊＊｝! The applause was huge!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("P240700000_07_080");
-MsgDisp("Mikage","I had to give it my all for the students 
+MsgDisp("Mikage","I had to give it my all for the students
 who are feeling frustrated");
 MsgDisp("主人公","Yes,
 Thank you very much!");
@@ -132,16 +129,15 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("P240700000_07_090");
 MsgDisp("Mikage","That goes for me too.
-While I was saying the lines, 
-it helped me organize my own thoughts.");
+While I was saying the lines, it helped me
+organize my own thoughts.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("P240700000_07_100");
-MsgDisp("Mikage","\"What meaning is there in 
-meekly allowing time to pass 
-when you aren't there?\"......");
+MsgDisp("Mikage","\"What meaning is there in meekly allowing
+time to pass when you aren't there?\"......");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

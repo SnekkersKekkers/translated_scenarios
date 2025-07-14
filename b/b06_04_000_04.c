@@ -24,8 +24,8 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B060400004_04_010");
-    MsgDisp("Nanatsumori","They say failure is the
-stepping stone to success.
+    MsgDisp("Nanatsumori","They say failure is the stepping stone to
+success.
 Let's both cheer up.");
     MsgDispSksp(0);
     break ;
@@ -38,8 +38,8 @@ Let's both cheer up.");
     ScrFadeIn(0);
     VoicePlay("B060400004_04_020");
     MsgDisp("Nanatsumori","It's my fault...sorry.
-I know you were working hard to
-make this a good time.");
+I know you were working hard to make this
+a good time.");
     MsgDispSksp(0);
     break ;
     default :

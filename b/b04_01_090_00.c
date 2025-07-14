@@ -27,8 +27,8 @@ You look like a honeybee.");
     ChMotion(1,1);
     VoicePlay("B040109000_01_020");
     MsgDisp("Kazama","Yeah, it is.
-It must be hard to adapt this place
-to where the plants originate from.");
+It must be hard to adapt this place to
+where the plants originate from.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

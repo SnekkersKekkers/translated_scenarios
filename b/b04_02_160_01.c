@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040216001_02_010");
-    MsgDisp("Sassa","Yeah, I might be able
-to aim for a high score.");
+    MsgDisp("Sassa","Yeah, I might be able to aim for a high
+score.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

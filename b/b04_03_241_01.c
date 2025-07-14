@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040324101_03_010");
-    MsgDisp("Honda","Yep yep, I want to 
-drink freshly-squeezed milk!");
+    MsgDisp("Honda","Yep yep, I want to drink freshly-squeezed
+milk!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,9 +26,8 @@ drink freshly-squeezed milk!");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040324101_03_020");
-    MsgDisp("Honda","Right right, 
-when it comes to handling animals,
-it's better safe than sorry!");
+    MsgDisp("Honda","Right right, when it comes to handling
+animals, it's better safe than sorry!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

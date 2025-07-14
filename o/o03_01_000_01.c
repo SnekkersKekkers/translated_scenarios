@@ -11,9 +11,8 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,1);
     ChMotion(1,1);
     VoicePlay("O030100001_01_000");
-    MsgDisp("Kazama","I thought that if it was us,
-we definitely could've gotten
-first place......");
+    MsgDisp("Kazama","I thought that if it was us, we definitely
+could've gotten first place......");
     MsgDisp("主人公","(Ah, we were so close.)");
     break ;
     case 3:
@@ -32,8 +31,8 @@ I'm sorry.");
     ChMotion(1,0);
     VoicePlay("O030100001_01_020");
     MsgDisp("Kazama","This is a problem.
-Do you want to spend the rest
-of the day tied together?");
+Do you want to spend the rest of the day
+tied together?");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,1);
@@ -65,8 +64,7 @@ at the same time?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O030100001_01_060");
-    MsgDisp("Kazama","Being too in sync
-is a problem, too.
+    MsgDisp("Kazama","Being too in sync is a problem, too.
 Well, you didn't get hurt, so it's okay.");
     MsgDisp("主人公","But I wanted to win
 first place, you know?");
@@ -77,10 +75,10 @@ first place, you know?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("O030100001_01_070");
-    MsgDisp("Kazama","Then should we blend in
-during the next race?");
+    MsgDisp("Kazama","Then should we blend in during the next
+race?");
     MsgDisp("主人公","(We didn't win, but it was fun
-participating with ｛風真＊＊｝.)");
+participating with ｛風真＊＊｝. )");
     break ;
     default :
     DbgAssert(1);

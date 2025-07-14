@@ -9,8 +9,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,30,3,3,3,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020200000_02_000");
-    MsgDisp("Sassa","Haha, you're surprisingly
-strong, huh?
+    MsgDisp("Sassa","Haha, you're surprisingly strong, huh?
 You did it!");
     MsgDisp("主人公","(I did it, I won!)");
     break ;
@@ -45,25 +44,24 @@ You did it!");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("O020200000_02_040");
-    MsgDisp("Sassa","Huh.
-Somehow, I feel like I'm
-more happy than you?");
+    MsgDisp("Sassa","Huh. Somehow, I feel like I'm more happy
+than you?");
     MsgDisp("主人公","Huh?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("O020200000_02_050");
-    MsgDisp("Sassa","Because, just seeing you working
-hard, I feel like I get motivated, too.");
+    MsgDisp("Sassa","Because, just seeing you working hard, I
+feel like I get motivated, too.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("O020200000_02_060");
     MsgDisp("Sassa","This was just tug of war, right?
-If you were in a race,
-I might have lost my voice.");
-    MsgDisp("主人公","(｛颯砂＊＊｝ is happy
-like he just won himself.
+If you were in a race, I might have lost
+my voice.");
+    MsgDisp("主人公","(｛颯砂＊＊｝ is happy like he just won
+himself.
 I'm so happy......)");
     break ;
     default :

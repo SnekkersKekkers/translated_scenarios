@@ -7,8 +7,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220100_02_010");
-MsgDisp("Sassa","Is it......? They all look desperate to
-me, not pretty or anything.");
+MsgDisp("Sassa","Is it......?
+They all look desperate to me, not pretty
+or anything.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -29,14 +30,16 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220100_02_040");
-MsgDisp("Sassa","Sorry, sorry. Don't look at me like that.
+MsgDisp("Sassa","Sorry, sorry.
+Don't look at me like that.
 I don't want to get any lamer than this.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220100_02_050");
 MsgDisp("Sassa","I think there's still time to the finish
-line. The real race starts now.");
+line.
+The real race starts now.");
 MsgDisp("主人公","(｛颯砂＊＊｝......)");
 BGMStop();
 MsgClose();

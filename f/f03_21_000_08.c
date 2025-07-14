@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey, what's your ideal guy like, 
+MsgDisp("主人公","Hey, what's your ideal guy like,
 ｛みちる＊｝?");
 ChEye(21,5);
 ChMouth(21,4);
@@ -31,9 +31,9 @@ MsgDisp("主人公","What?");
 ChMotion(21,4);
 ChCheek(21,6);
 VoicePlay("F032100000_21_450");
-MsgDisp("Michiru","We have to have the same values, 
-mutual respect, and always hold
-the same love for the ot——");
+MsgDisp("Michiru","We have to have the same values, mutual
+respect, and always hold the same love for
+the ot——");
 ChEye(21,2);
 ChMouth(21,5);
 ChMotion(21,5);
@@ -43,8 +43,8 @@ VoicePlay("F032100000_21_460");
 MsgDisp("Michiru","No, I can't!
 Mari, please forgive me!");
 MsgDisp("主人公","(｛みちる＊｝ is super bashful.
-Maybe she's actually super
-interested in romance?)");
+Maybe she's actually super interested in
+romance?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -17,7 +17,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210400_02_020");
-MsgDisp("Sassa","So, I used to be a bit popular back then. 
+MsgDisp("Sassa","So, I used to be a bit popular back then.
 Because my legs were always fast.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -31,9 +31,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210400_02_040");
-MsgDisp("Sassa","But it wasn't like that. Even in
-elementary school, the guy who was second
-to me in speed was more popular.");
+MsgDisp("Sassa","But it wasn't like that.
+Even in elementary school, the guy who was
+second to me in speed was more popular.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
@@ -47,9 +47,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020210400_02_060");
-MsgDisp("Sassa","Yeah, it was. 
-Even the teachers joined in and taught 
-him secret strategies to beat me.");
+MsgDisp("Sassa","Yeah, it was.
+Even the teachers joined in and taught him
+secret strategies to beat me.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -63,7 +63,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020210400_02_080");
-MsgDisp("Sassa","Oh, thanks. 
+MsgDisp("Sassa","Oh, thanks.
 In the end, I never lost once.");
 ChEye(2,0);
 ChMouth(2,3);

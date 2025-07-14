@@ -6,8 +6,9 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("F010700003_07_000");
-    MsgDisp("Mikage","Oh, that's fine. If you'll give me a
-moment, I'll get ready!");
+    MsgDisp("Mikage","Oh, that's fine.
+If you'll give me a moment, I'll get
+ready!");
     MsgDisp("主人公","Yes, thank you!");
     break ;
     case 3:
@@ -33,8 +34,8 @@ I didn't ride my bike today.");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("F010700003_07_030");
-    MsgDisp("Mikage","If you're going to be that happy,
-maybe I should forget my bike everyday.");
+    MsgDisp("Mikage","If you're going to be that happy, maybe I
+should forget my bike everyday.");
     break ;
     default :
     DbgAssert(1);

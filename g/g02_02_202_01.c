@@ -17,8 +17,8 @@ ChMotion(2,4);
 VoicePlay("G020220201_02_020");
 MsgDisp("Sassa","I don't know if he was born like that, but
 it's impressive.");
-MsgDisp("主人公","Hahah, it sounds like you like
-｛氷室＊＊｝, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Hahah, it sounds like you like ｛氷室＊＊｝,
+｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
@@ -46,7 +46,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220201_02_060");
 MsgDisp("Sassa","Haven't even noticed it yourself,
-huh...... Yeah, Inori's amazing.");
+huh......
+Yeah, Inori's amazing.");
 ChEye(2,5);
 ChMouth(2,2);
 ChMotion(2,2);

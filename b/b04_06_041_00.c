@@ -22,9 +22,9 @@ I enjoyed seeing you get so excited.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040604100_06_010");
-    MsgDisp("Himuro","I agree that it wasn't bad.
-It's unfortunate, but it lacked
-excitement. I have hopes for the next one.");
+    MsgDisp("Himuro","I agree that it wasn't bad. It's
+unfortunate, but it lacked excitement. I
+have hopes for the next one.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

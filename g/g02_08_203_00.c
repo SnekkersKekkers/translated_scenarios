@@ -14,8 +14,7 @@ ChMouthOpenLevel(8,0);
 ChCheek(8,6);
 VoicePlay("G020820300_08_010");
 MsgDisp("Shirahane","............");
-MsgDisp("主人公","......｛大地＊＊｝?
-What's wrong?");
+MsgDisp("主人公","......｛大地＊＊｝? What's wrong?");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,2,1);
@@ -23,8 +22,8 @@ VoicePlay("G020820300_08_020");
 MsgDisp("Shirahane","Do you know the rumours surrounding this
 place?");
 VoicePlay("G020820300_08_030");
-MsgDisp("Shirahane","When you're here with someone, 
-you can sometimes hear their inner voice.");
+MsgDisp("Shirahane","When you're here with someone, you can
+sometimes hear their inner voice.");
 ChEye(8,4);
 ChMouth(8,4);
 ChMouthOpenLevel(8,0);

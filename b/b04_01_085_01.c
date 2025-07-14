@@ -3,8 +3,8 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040108501_01_000");
-MsgDisp("Kazama","There are rumors about other living
-things here besides the fireflies, right?");
+MsgDisp("Kazama","There are rumors about other living things
+here besides the fireflies, right?");
 MsgSel("A guardian spirit?","Want to drop something in the pond?","Huh, it's that cold in the gazebo?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,9 +26,8 @@ to be a spirit in a pond, right?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040108501_01_020");
-    MsgDisp("Kazama","Yeah, I do.
-... Hey, wait!
-I don't have an axe or anything.");
+    MsgDisp("Kazama","Yeah, I do. ... Hey, wait! I don't have an
+axe or anything.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

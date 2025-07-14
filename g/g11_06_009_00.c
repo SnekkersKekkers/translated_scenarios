@@ -36,8 +36,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600900_06_030");
-MsgDisp("Himuro","I guess you haven't realized it. You're
-tired, and it's showing on your face.");
+MsgDisp("Himuro","I guess you haven't realized it.
+You're tired, and it's showing on your
+face.");
 MsgDisp("主人公","Uh......");
 ChEye(6,2);
 ChMouth(6,0);
@@ -52,29 +53,30 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600900_06_050");
-MsgDisp("Himuro","No need. 
-It's not like you collapsed just now, 
-so there's no need to apologize.");
+MsgDisp("Himuro","No need.
+It's not like you collapsed just now, so
+there's no need to apologize.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600900_06_060");
-MsgDisp("Himuro","Studying, exercise, leisure...... 
+MsgDisp("Himuro","Studying, exercise, leisure......
 I get you have a lot of priorities.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600900_06_070");
-MsgDisp("Himuro","But rest is equally as... No, it's even
-more important. Even you should understand
-that.");
+MsgDisp("Himuro","But rest is equally as...
+No, it's even more important.
+Even you should understand that.");
 MsgDisp("主人公","Yes.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600900_06_080");
-MsgDisp("Himuro","Well, we can't stay here. Let's head home.");
+MsgDisp("Himuro","Well, we can't stay here.
+Let's head home.");
 MsgDisp("主人公","Eh, but......");
 ChEye(6,0);
 ChMouth(6,0);

@@ -3,13 +3,13 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("G020440003_04_000");
-MsgDisp("Nanatsumori","I'm bad with bugs, but fireflies at
-night are a different story.");
+MsgDisp("Nanatsumori","I'm bad with bugs, but fireflies at night
+are a different story.");
 MsgDisp("主人公","Hehe.");
 ChMotion(4,1,1);
 VoicePlay("G020440003_04_010");
-MsgDisp("Nanatsumori","You can't see the bodies but the
-light is really beautiful.");
+MsgDisp("Nanatsumori","You can't see the bodies but the light is
+really beautiful.");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020440003_04_020");
@@ -27,8 +27,8 @@ ChEye(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020440003_04_040");
 MsgDisp("Nanatsumori","They are also communicating...
-Mostly for courtship, but also doing
-their best to appeal to each other.");
+Mostly for courtship, but also doing their
+best to appeal to each other.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -48,10 +48,10 @@ ChMouth(4,5);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("G020440003_04_070");
-MsgDisp("Nanatsumori","Get it!　Please!
-I don't want to do skinship with it!");
-MsgDisp("主人公","(｛七ツ森＊｝,
-you really don't like bugs...)");
+MsgDisp("Nanatsumori","Get it! Please! I don't want to do
+skinship with it!");
+MsgDisp("主人公","(｛七ツ森＊｝, you really don't like
+bugs...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

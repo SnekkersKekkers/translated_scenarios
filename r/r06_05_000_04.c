@@ -20,8 +20,8 @@ happy with my gift.)");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("R060500004_05_010");
-    MsgDisp("Hiiragi","Did you choose this gift with
-me in mind? ...I hope you did.
+    MsgDisp("Hiiragi","Did you choose this gift with me in mind?
+...I hope you did.
 Thank you, I'll treasure this.");
     MsgDisp("主人公","(Yay! He seems really
 happy with my gift.)");

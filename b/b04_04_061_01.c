@@ -7,8 +7,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406101_04_000");
-MsgDisp("Nanatsumori","Ahー...
-the beach in mid summer is hot and
+MsgDisp("Nanatsumori","Ahー... the beach in mid summer is hot and
 dazzling no matter where you are...");
 MsgSel("Here, some sunscreen!","Let's aim for a tan!","It sure feels like summer!");
 switch (MsgSelRsltGet()){
@@ -18,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040406101_04_010");
-    MsgDisp("Nanatsumori","You really are thoughtful/
-But, I'm all prepared, so it's fine.
+    MsgDisp("Nanatsumori","You really are thoughtful/ But, I'm all
+prepared, so it's fine.
 Thank you.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
@@ -38,9 +37,8 @@ It'll affect my work.");
     ChEye(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040406101_04_030");
-    MsgDisp("Nanatsumori","Ahー...
-When you say that it just
-makes it even hotter...");
+    MsgDisp("Nanatsumori","Ahー... When you say that it just makes it
+even hotter...");
     MsgDateResultDisp();
     break ;
     default :

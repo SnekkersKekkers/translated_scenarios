@@ -20,8 +20,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("P830D00001_21_000");
-MsgDisp("Michiru","Don't push yourself too hard, 
-we came to check up on you.");
+MsgDisp("Michiru","Don't push yourself too hard, we came to
+check up on you.");
 MsgDisp("主人公","Hehe, thank you.
 I'm managing supplies just now.");
 ChEye(22,2);
@@ -33,8 +33,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P830D00001_21_010");
-MsgDisp("Michiru","Hehe.
-As expected of the second time.
+MsgDisp("Michiru","Hehe. As expected of the second time.
 Mari, you're so cool.");
 MsgClose();
 ScrFadeOut(0,0);

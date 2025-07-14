@@ -16,10 +16,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B150600100_06_020");
-MsgDisp("Himuro","Do you have no learning abilities?
-Are you a chicken that forgets 
-after three steps? No, you're
-a human, why don't you learn?");
+MsgDisp("Himuro","Do you have no learning abilities? Are you
+a chicken that forgets after three steps?
+No, you're a human, why don't you learn?");
 MsgDisp("主人公","Sorry...");
 ChEye(6,0);
 ChMouth(6,2);
@@ -74,10 +73,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600100_06_100");
-MsgDisp("Himuro","I know that it'll be pointless 
-even if I told you to stop 
-doing it altogether, so it's
-a compromise. Got it?");
+MsgDisp("Himuro","I know that it'll be pointless even if I
+told you to stop doing it altogether, so
+it's a compromise. Got it?");
 MsgDisp("主人公","Y-Yeah...");
 ChEye(6,0);
 ChMouth(6,0);

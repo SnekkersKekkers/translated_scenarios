@@ -8,8 +8,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040401001_04_000");
 MsgDisp("Nanatsumori","Ohhhー...how's this?
-Doesn't it like it was especially
-designed for you?");
+Doesn't it like it was especially designed
+for you?");
 MsgSel("Really, I'll go but it!","I wonder...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,9 +18,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,1);
     ChMotion(4,5,1);
     VoicePlay("B040401001_04_010");
-    MsgDisp("Nanatsumori","Seriously∋
-Well, if you like it, I won't stop you.
-I feel a sense of responsibility...");
+    MsgDisp("Nanatsumori","Seriously∋ Well, if you like it, I won't
+stop you. I feel a sense of
+responsibility...");
     MsgDateResultDisp();
     break ;
     case 1:

@@ -41,8 +41,8 @@ Huh, aren't these the popular kind?");
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040521200_05_030");
-    MsgDisp("Hiiragi","Polarized light lenses that 
-look like eagle eyes...
+    MsgDisp("Hiiragi","Polarized light lenses that look like
+eagle eyes...
 I'd like to try them.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

@@ -33,8 +33,8 @@ Maybe there's more, let's keep looking.");
     ChMotion(6,3);
     VoicePlay("B040612101_06_020");
     MsgDisp("Himuro","I like them.
-It's thanks to you that I came
-across it. Okay, let's buy it.");
+It's thanks to you that I came across it.
+Okay, let's buy it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +46,8 @@ across it. Okay, let's buy it.");
     ChMotion(6,1);
     VoicePlay("B040612101_06_030");
     MsgDisp("Himuro","Popularity doesn't matter.
-Lots of old CD's become out 
-of print, that's all.");
+Lots of old CD's become out of print,
+that's all.");
     MsgDateResultDisp();
     break ;
     default :

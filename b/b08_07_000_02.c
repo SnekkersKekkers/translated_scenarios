@@ -11,7 +11,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B080700002_07_010");
-MsgDisp("Mikage","I see. 
+MsgDisp("Mikage","I see.
 Then, goodnight.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

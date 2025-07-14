@@ -26,8 +26,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C30600_07_000");
-MsgDisp("Mikage","That calico cat's performance 
-brought me to tears～");
+MsgDisp("Mikage","That calico cat's performance brought me
+to tears～");
 MsgDisp("主人公","Yes it was so cute.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -41,22 +41,22 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B330C30600_05_000");
 MsgDisp("Hiiragi","Hmmm...
 A cat as a leading part...");
-MsgDisp("主人公","Was it not interesting 
-for you, ｛柊＊＊＊｝?");
+MsgDisp("主人公","Was it not interesting for you,
+｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C30600_05_010");
-MsgDisp("Hiiragi","No, to think that a drama between
-cat and human could occur.
+MsgDisp("Hiiragi","No, to think that a drama between cat and
+human could occur.
 It was amazing.");
 ChEye(5,0);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30600_07_010");
-MsgDisp("Mikage","Could this be used in a Habataki
-Theater Company performance?");
+MsgDisp("Mikage","Could this be used in a Habataki Theater
+Company performance?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -69,18 +69,17 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C30600_05_020");
-MsgDisp("Hiiragi","The plays are live, and you
-never know what is going occur.
+MsgDisp("Hiiragi","The plays are live, and you never know
+what is going occur.
 You can't predict anything with animals.");
-MsgDisp("主人公","It would be troubling if a cat
-suddenly ran into the audience.");
+MsgDisp("主人公","It would be troubling if a cat suddenly
+ran into the audience.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C30600_06_020");
-MsgDisp("Himuro","Wouldn't entertainment that
-includes those kinds of
-events be interesting? ");
+MsgDisp("Himuro","Wouldn't entertainment that includes those
+kinds of events be interesting?");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,4);

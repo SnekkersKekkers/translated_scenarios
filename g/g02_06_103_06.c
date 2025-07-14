@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("G020610306_06_000");
-MsgDisp("Himuro","Tey say that the light of fireflies 
+MsgDisp("Himuro","Tey say that the light of fireflies
 represents the souls of the dead, right?");
 MsgDisp("主人公","Yeah, seems that way, huh?");
 ChEye(6,0);
@@ -14,15 +14,17 @@ VoicePlay("G020610306_06_010");
 MsgDisp("Himuro","If they can fly around so freely, there's
 no need for them to ride eggplants and
 cucumbers.");
-MsgDisp("主人公","Eggplants and cucumbers? Oh, do you mean
-the ones prepared during Obon......?");
+MsgDisp("主人公","Eggplants and cucumbers?
+Oh, do you mean the ones prepared during
+Obon......?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("G020610306_06_020");
-MsgDisp("Himuro","Yeah, the spirit horses. I don't get the
-point of putting legs on eggplants.");
+MsgDisp("Himuro","Yeah, the spirit horses.
+I don't get the point of putting legs on
+eggplants.");
 MsgDisp("主人公","Do you dislike them that much?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -43,8 +45,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610306_06_050");
 MsgDisp("Himuro","Ugh......");
-MsgDisp("主人公","WOuld you still dislike them even 
-if they were cooked deliciously?");
+MsgDisp("主人公","WOuld you still dislike them even if they
+were cooked deliciously?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

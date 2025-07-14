@@ -22,9 +22,8 @@ I see.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040604300_06_010");
-    MsgDisp("Himuro","Maybe it's because we both 
-didn't prepare for it enough.
-Should we try studying a 
+    MsgDisp("Himuro","Maybe it's because we both didn't prepare
+for it enough. Should we try studying a
 little for the next one?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -37,8 +36,8 @@ little for the next one?");
     ChMotion(6,4);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040604300_06_020");
-    MsgDisp("Himuro","Do you even know enough about 
-Rakugo to say that it was a miss?");
+    MsgDisp("Himuro","Do you even know enough about Rakugo to
+say that it was a miss?");
     MsgDateResultDisp();
     break ;
     default :

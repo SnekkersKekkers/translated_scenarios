@@ -1,8 +1,8 @@
 BGOpen("wf000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Today I have an interview with
-Kuya-san. Alright, let's try our best!");
+MsgDisp("主人公","Today I have an interview with Kuya-san.
+Alright, let's try our best!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -60,11 +60,10 @@ ChMotion(9,0,1);
 ScrFadeIn(0);
 ChMotion(9,4,1);
 VoicePlay("D030900500_09_050");
-MsgDisp("Kuya","Phew......
-It took us a while to get here, huh.");
-MsgDisp("主人公","Yeah......
-I think I understand now, why Kuya-san
-is a \"Jack of All Trades\".");
+MsgDisp("Kuya","Phew...... It took us a while to get here,
+huh.");
+MsgDisp("主人公","Yeah...... I think I understand now, why
+Kuya-san is a \"Jack of All Trades\".");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -80,22 +79,23 @@ ChMotion(9,2,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900500_09_070");
 MsgDisp("Kuya","That's weird, huh?
-I don't even try but somehow I always
-get involved.");
+I don't even try but somehow I always get
+involved.");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900500_09_080");
-MsgDisp("Kuya","If you take it too seriously, it'll
-make you anxious, so I try to just take
-it easy.");
+MsgDisp("Kuya","If you take it too seriously, it'll make
+you anxious, so I try to just take it
+easy.");
 MsgDisp("主人公","I see......");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900500_09_090");
-MsgDisp("Kuya","I bet you're tired of dealing with all
-of this. Wait here a minute, okay?");
+MsgDisp("Kuya","I bet you're tired of dealing with all of
+this.
+Wait here a minute, okay?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
@@ -115,30 +115,29 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030900500_09_100");
 MsgDisp("Kuya","So?
 Is it tasty?");
-MsgDisp("主人公","Yep!
-It's really yummy! This is from that
+MsgDisp("主人公","Yep! It's really yummy! This is from that
 food truck that comes around sometimes?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,3,1);
 VoicePlay("D030900500_09_110");
 MsgDisp("Kuya","That's it.
-They have one of a kind food, but I
-don't see them here often.");
+They have one of a kind food, but I don't
+see them here often.");
 VoicePlay("D030900500_09_120");
-MsgDisp("Kuya","Thanks to you I finally get to eat 
-from them.");
-MsgDisp("主人公","That's not really something I can
-take credit for......");
+MsgDisp("Kuya","Thanks to you I finally get to eat from
+them.");
+MsgDisp("主人公","That's not really something I can take
+credit for......");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900500_09_130");
 MsgDisp("Kuya","If you hadn't asked me out on a date
-today, I wouldn't have ran into that
-food truck and been able to get this
-\"Soft Cream Bread\"?");
+today, I wouldn't have ran into that food
+truck and been able to get this \"Soft
+Cream Bread\"?");
 MsgDisp("主人公","......But this is an interview?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -160,8 +159,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900500_09_160");
 MsgDisp("Kuya","This soft cream bread is interesting,
-right? Doesn't it appeal to your
-\"art\"istic side?");
+right?
+Doesn't it appeal to your \"art\"istic side?");
 MsgDisp("主人公","Hmm......
 For me its a bit much......");
 ChEye(9,3);
@@ -169,9 +168,9 @@ ChMouth(9,2);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900500_09_170");
-MsgDisp("Kuya","Huh? I thought you'd be on the same 
-page as me. Maybe you should refine
-your \"art\" a bit too?");
+MsgDisp("Kuya","Huh? I thought you'd be on the same page
+as me. Maybe you should refine your \"art\"
+a bit too?");
 MsgDisp("主人公","Yep, I'll try my best......");
 ChEye(9,3);
 ChMouth(9,0);
@@ -179,8 +178,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900500_09_180");
 MsgDisp("Kuya","Yeah, good luck.");
-MsgDisp("主人公","(Interviewing Mr.\"Jack of All Trades\"
-was really hard. I kept getting caught
-up in everything happening......)");
+MsgDisp("主人公","(Interviewing Mr.\"Jack of All Trades\" was
+really hard. I kept getting caught up in
+everything happening......)");
 MsgClose();
 ScrFadeOut(0,0);

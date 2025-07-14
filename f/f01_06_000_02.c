@@ -21,8 +21,8 @@ together?");
         ChOpen(6,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010600002_06_010");
         MsgDisp("Himuro","Are you going home now?");
-        MsgDisp("主人公","Yes.
-If it's alright, we should go together.");
+        MsgDisp("主人公","Yes. If it's alright, we should go
+together.");
         break ;
         case 4:
         case 5:

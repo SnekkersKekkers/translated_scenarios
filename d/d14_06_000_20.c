@@ -20,8 +20,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("D140600000_06_040");
 MsgDisp("Himuro","What's that?
-Well, I guess I can 
-understand how you feel.");
+Well, I guess I can understand how you
+feel.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.7);
 BGMStop();
 ChClose(6,0,30);

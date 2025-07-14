@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛七ツ森＊｝,
-hasn't arrived yet...");
+MsgDisp("主人公","Looks like ｛七ツ森＊｝, hasn't arrived
+yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -43,23 +43,21 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B110400000_04_020");
-MsgDisp("Nanatsumori","I see, I see. That's good?
-You should definitely never 
-go with a stranger.");
+MsgDisp("Nanatsumori","I see, I see. That's good? You should
+definitely never go with a stranger.");
 MsgDispSksp(0);
 ChEye(33,0);
 ChMouth(33,1);
 VoicePlay("B110400000_33_050");
-MsgDisp("Guy","Aren't you curious about a
-world no one knows about?");
+MsgDisp("Guy","Aren't you curious about a world no one
+knows about?");
 MsgDispSksp(1,5);
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B110400000_04_030");
 MsgDisp("Nanatsumori","Ah right.
-You have no business with 
-her anymore.");
+You have no business with her anymore.");
 MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
@@ -76,8 +74,8 @@ MsgDispSksp(0);
 ChEye(33,2);
 ChMouth(33,1);
 VoicePlay("B110400000_33_070");
-MsgDisp("Guy","They're not interested huh,
-no one is listening...");
+MsgDisp("Guy","They're not interested huh, no one is
+listening...");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(33,0,30);
@@ -87,10 +85,9 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B110400000_04_050");
-MsgDisp("Nanatsumori","I'm very sorry.
-It was my fault for being late.
-I let such a cheap-looking 
-guy mess with you...");
+MsgDisp("Nanatsumori","I'm very sorry. It was my fault for being
+late. I let such a cheap-looking guy mess
+with you...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,1,1);

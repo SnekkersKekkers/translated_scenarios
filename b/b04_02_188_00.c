@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("B040218800_02_000");
-    MsgDisp("Sassa","That surprise after the end
-credits totally got me.");
+    MsgDisp("Sassa","That surprise after the end credits
+totally got me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,7 +23,8 @@ credits totally got me.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040218800_02_010");
-    MsgDisp("Sassa","Is that so? I was satisfied.
+    MsgDisp("Sassa","Is that so?
+I was satisfied.
 It was hard to not laugh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -8,13 +8,13 @@ switch (ChPrmGet(1,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110100003_01_000");
-    MsgDisp("Kazama","Congrats.
-I heard you did a really difficult move.
-Just don't do anything too dangerous.");
+    MsgDisp("Kazama","Congrats. I heard you did a really
+difficult move. Just don't do anything too
+dangerous.");
     MsgDisp("主人公","Yeah, thanks!");
     MsgDisp("主人公","(Receiving a compliment makes me
-happy...... I'll try not to worry him too
-much!)");
+happy......
+I'll try not to worry him too much!)");
     break ;
     case 4:
     case 5:
@@ -23,10 +23,10 @@ much!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110100003_01_010");
-    MsgDisp("Kazama","Congrats.
-I heard you had a great performance?");
-    MsgDisp("主人公","Yeah, my new technique was
-a success during the practice match.");
+    MsgDisp("Kazama","Congrats. I heard you had a great
+performance?");
+    MsgDisp("主人公","Yeah, my new technique was a success
+during the practice match.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -34,9 +34,8 @@ a success during the practice match.");
     MsgDisp("Kazama","I have no doubt it was a beautiful
 victory...... I heard there were a lot of
 spectators at your performance.");
-    MsgDisp("主人公","(Yay!
-I'm glad I've been working hard at the 
-Rhythmic Gymnastics club!)");
+    MsgDisp("主人公","(Yay! I'm glad I've been working hard at
+the Rhythmic Gymnastics club!)");
     break ;
     default :
     DbgAssert(1);

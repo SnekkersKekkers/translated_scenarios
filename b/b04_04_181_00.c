@@ -35,8 +35,7 @@ That's what's most important.");
     ChMotion(4,1,1);
     VoicePlay("B040418100_04_020");
     MsgDisp("Nanatsumori","I feel the same.
-This genre doesn't suit
-either of us, huh?");
+This genre doesn't suit either of us, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

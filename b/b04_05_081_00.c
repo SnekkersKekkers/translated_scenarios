@@ -6,10 +6,10 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040508100_05_000");
-MsgDisp("Hiiragi","This is a present limited 
-to only this time of year.
+MsgDisp("Hiiragi","This is a present limited to only this
+time of year.
 Let's enjoy it.");
-MsgSel("｛本多＊＊｝ suits the falling cherry blossoms, huh","Being able to see the falling cherry blossoms is so fleeting...","I want to eat some delicious sakura mochi");
+MsgSel("｛本多＊＊｝ suits the falling cherry blossoms, huh?","Being able to see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -29,8 +29,7 @@ Those are the joys of being an actor.");
     DateRateSet(2);
     ChEye(5,0);
     VoicePlay("B040508100_05_020");
-    MsgDisp("Hiiragi","Hehe.
-You're a bit different to usual too.
+    MsgDisp("Hiiragi","Hehe. You're a bit different to usual too.
 The power of cherry blossoms are amazing.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

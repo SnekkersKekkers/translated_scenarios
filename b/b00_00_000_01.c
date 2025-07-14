@@ -4,5 +4,5 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","He's still not here...
-Could it be that I
-got the meeting place wrong?");
+Could it be that I got the meeting place
+wrong?");

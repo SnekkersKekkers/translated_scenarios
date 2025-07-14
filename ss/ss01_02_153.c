@@ -3,5 +3,6 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("SS0102153_02_000");
-MsgDisp("Sassa","Are you okay?　Are you okay?");
+MsgDisp("Sassa","Are you okay?
+Are you okay?");
 MsgClose();

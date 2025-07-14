@@ -13,8 +13,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("S110700001_07_010");
-MsgDisp("Mikage","Well, it's because I'm spending
-New Years with the garden bell. ");
+MsgDisp("Mikage","Well, it's because I'm spending New Years
+with the garden bell.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -25,9 +25,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("S110700001_07_030");
-MsgDisp("Mikage","I know. I guess I should go apologize 
-to Vice Principal Himuro before the 
-Excellent Luck wears off......");
+MsgDisp("Mikage","I know. I guess I should go apologize to
+Vice Principal Himuro before the Excellent
+Luck wears off......");
 MsgDisp("主人公","Ehh∋
 Did you do something?");
 ChEye(7,2);
@@ -35,5 +35,5 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("S110700001_07_040");
 MsgDisp("Mikage","......Nope, not yet.");
-MsgDisp("主人公","(His Excellent Luck will run out
-too quickly......)");
+MsgDisp("主人公","(His Excellent Luck will run out too
+quickly......)");

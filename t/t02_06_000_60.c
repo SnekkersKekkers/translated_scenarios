@@ -7,9 +7,8 @@ ChMouth(6,4);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020600000_06_530");
-MsgDisp("Himuro","Ah......I see
-I guess, 
-that was just my own selfish expectation.");
+MsgDisp("Himuro","Ah......I see I guess, that was just my
+own selfish expectation.");
 MsgDisp("主人公","｛氷室＊＊｝......");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
@@ -17,8 +16,8 @@ VoicePlay("T020600000_06_540");
 ChEye(6,2);
 ChMouth(6,4);
 ChMotion(6,0);
-MsgDisp("Himuro","Why do you look so sad after
-rejecting someone else?");
+MsgDisp("Himuro","Why do you look so sad after rejecting
+someone else?");
 MsgDisp("主人公","Even so...");
 VoicePlay("T020600000_06_550");
 ChEye(6,2);
@@ -50,8 +49,8 @@ VoicePlay("T020600000_06_590");
 ChEye(6,2);
 ChMouth(6,3);
 ChMotion(6,2);
-MsgDisp("Himuro","......No, 
-there is no way I could forget it.");
+MsgDisp("Himuro","......No, there is no way I could forget
+it.");
 VoicePlay("T020600000_06_600");
 ChEye(6,2);
 ChMouth(6,1);

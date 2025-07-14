@@ -44,8 +44,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620203_06_060");
-MsgDisp("Himuro","All in all, you're spending a lot
-of time with Kojirou-sensei these days.");
+MsgDisp("Himuro","All in all, you're spending a lot of time
+with Kojirou-sensei these days.");
 MsgDisp("主人公","Y-Yeah......");
 ChEye(6,0);
 ChMouth(6,3);
@@ -56,8 +56,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("G020620203_06_080");
-MsgDisp("Himuro","In fact, I'm glad it was Kojiro-sensei 
-who took the place by your side.");
+MsgDisp("Himuro","In fact, I'm glad it was Kojiro-sensei who
+took the place by your side.");
 MsgDisp("主人公","Eh......?");
 ChEye(6,0);
 ChMouth(6,3);
@@ -73,7 +73,8 @@ ChMotion(6,1);
 VoicePlay("G020620203_06_100");
 MsgDisp("Himuro","So expect to see a more grown-up version
 of me.");
-MsgDisp("主人公","Y-Yeah. I got it.");
+MsgDisp("主人公","Y-Yeah.
+I got it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

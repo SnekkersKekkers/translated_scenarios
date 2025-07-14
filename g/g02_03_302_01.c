@@ -36,8 +36,9 @@ MsgDisp("主人公","｛本多＊＊｝ did?");
 ChEye(3,4);
 ChMotion(3,1);
 VoicePlay("G020330201_03_050");
-MsgDisp("Honda","Right, right. There are some things I
-can't back down on until I'm satisfied.");
+MsgDisp("Honda","Right, right.
+There are some things I can't back down on
+until I'm satisfied.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -53,8 +54,8 @@ MsgDisp("Honda","But unfortunately, it was just that one
 time. They asked me to understand their
 position too, so");
 MsgDisp("主人公","(He got asked by the teacher to understand
-their position...... That's so typical of
-｛本多＊＊｝ huh?)");
+their position......
+That's so typical of ｛本多＊＊｝ huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

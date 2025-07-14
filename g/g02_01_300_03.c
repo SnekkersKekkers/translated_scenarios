@@ -11,8 +11,9 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("G020130003_01_010");
-MsgDisp("Kazama","That reminds me. They talked about
-this place too, remember?");
+MsgDisp("Kazama","That reminds me.
+They talked about this place too,
+remember?");
 MsgDisp("主人公","｛本多＊＊｝ and ｛七ツ森＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -46,8 +47,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130003_01_050");
-MsgDisp("Kazama","Yeah, there is that. But right now I'm the
-only one here.");
+MsgDisp("Kazama","Yeah, there is that.
+But right now I'm the only one here.");
 MsgDisp("主人公","Should we visit all together next time?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -55,8 +56,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130003_01_060");
 MsgDisp("Kazama","......Nah, let's come just the two of us
-next time too. Make sure no one realizes,
-okay?");
+next time too.
+Make sure no one realizes, okay?");
 MsgDisp("主人公","I think they'd figure it out pretty
 quick......");
 ChEyeOpenLevel(1,0);
@@ -69,7 +70,7 @@ MsgDisp("Kazama","Most likely. And if they find out, they'll
 probably keep bringing it up for a
 week...... So don't say anything.");
 MsgDisp("主人公","(Hahah, it sounds like ｛風真＊＊｝ loves
-｛本多＊＊｝ and ｛七ツ森＊｝.)");
+｛本多＊＊｝ and ｛七ツ森＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

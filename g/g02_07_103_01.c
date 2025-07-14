@@ -11,7 +11,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710301_07_010");
 MsgDisp("Mikage","t reminds me of that day with the cherry
-blossom petals falling. Do you remember?");
+blossom petals falling.
+Do you remember?");
 MsgDisp("主人公","｛御影＊＊｝ made strawberry fruit
 sandwiches for me.");
 ChEye(7,0);
@@ -19,20 +20,19 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020710301_07_020");
 MsgDisp("Mikage","They turned out well.");
-MsgDisp("主人公","Haha, the cherry blossoms were 
-beautiful that day too.");
+MsgDisp("主人公","Haha, the cherry blossoms were beautiful
+that day too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710301_07_030");
-MsgDisp("Mikage","Watching the fireflies here just 
-reminded me of that.");
+MsgDisp("Mikage","Watching the fireflies here just reminded
+me of that.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020710301_07_040");
-MsgDisp("Mikage","Like this, 
-without us even realizing it,
+MsgDisp("Mikage","Like this, without us even realizing it,
 our memories keep growing......");
 MsgDisp("主人公","Yes.");
 ChEye(7,2);
@@ -48,8 +48,8 @@ ChMotion(7,0);
 VoicePlay("G020710301_07_060");
 MsgDisp("Mikage","It's nothing.
 Let's keep making lots of memories.");
-MsgDisp("主人公","(｛御影＊＊｝......
-seemed a little lonely just now......)");
+MsgDisp("主人公","(｛御影＊＊｝...... seemed a little
+lonely just now......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040501000_05_010");
     MsgDisp("Hiiragi","It suits you very well.
-And more than anything,
-that smile looks great on you.");
+And more than anything, that smile looks
+great on you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +41,9 @@ Women's garments are tricky.");
     ChMouth(5,2);
     ChMotion(5,2);
     VoicePlay("B040501000_05_030");
-    MsgDisp("Hiiragi","Was it a huge miss? I wonder what's so
-different to your usual look...");
+    MsgDisp("Hiiragi","Was it a huge miss?
+I wonder what's so different to your usual
+look...");
     MsgDateResultDisp();
     break ;
     default :

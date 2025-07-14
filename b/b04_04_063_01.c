@@ -7,8 +7,8 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406301_04_000");
 MsgDisp("Nanatsumori","There's nothing I can take pictures of...
-It's cold... Is there anything 
-to gain from coming here?");
+It's cold... Is there anything to gain
+from coming here?");
 MsgSel("Maybe the chilly ambience is better?","｛七ツ森＊｝ is here!","There's no need for that.");
 switch (MsgSelRsltGet()){
     case 0:

@@ -22,8 +22,8 @@ Are you okay?");
     MsgDispSksp(0);
     ScrFadeIn(0);
     VoicePlay("B060300002_03_010");
-    MsgDisp("Honda","\"Not bad\" is the way the perfect
-way to describe it.");
+    MsgDisp("Honda","\"Not bad\" is the way the perfect way to
+describe it.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -35,8 +35,8 @@ way to describe it.");
     MsgDispSksp(0);
     ScrFadeIn(0);
     VoicePlay("B060300002_03_020");
-    MsgDisp("Honda","As long as you had a good time,
-I'm relieved.");
+    MsgDisp("Honda","As long as you had a good time, I'm
+relieved.");
     MsgDispSksp(0);
     break ;
     default :

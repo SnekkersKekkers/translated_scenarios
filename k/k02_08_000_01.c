@@ -26,9 +26,10 @@ S'a little late though.");
 MsgDisp("主人公","This is......");
 VoicePlay("K020800001_08_020");
 MsgDisp("Shirahane","The other day was your birthday, right?
-I wanted t'give this to you then,
-but I couldn't find the time......");
-MsgDisp("主人公","I'm so happy...... thank you!");
+I wanted t'give this to you then, but I
+couldn't find the time......");
+MsgDisp("主人公","I'm so happy......
+thank you!");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,0,1);
@@ -49,6 +50,6 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMStop();
 ChClose(8,0,30);
-MsgDisp("主人公","(I got a present from ｛大地＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛大地＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

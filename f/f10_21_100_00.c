@@ -8,9 +8,8 @@ Wait(15,0);
 ChOpen(21,254,2,2,2,#1,#1,0,0);
 VoicePlay("F102110000_21_000");
 MsgDisp("Michiru","Haa...");
-MsgDisp("主人公","｛みちる＊｝!
-You're sighing, 
-is something the matter?");
+MsgDisp("主人公","｛みちる＊｝! You're sighing, is
+something the matter?");
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102110000_21_010");
@@ -30,8 +29,8 @@ ChMotion(21,2);
 VoicePlay("F102110000_21_030");
 MsgDisp("Michiru","But there's nothing I can do.
 Ahh...");
-MsgDisp("主人公","Um, if it's of any help, 
-you can consult me about it?");
+MsgDisp("主人公","Um, if it's of any help, you can consult
+me about it?");
 ChEye(21,2);
 ChMouth(21,3);
 ChMotion(21,0);

@@ -9,7 +9,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 ChOpen(2,254,3,2,0,#1,#1,0,0);
 VoicePlay("P740200001_02_000");
-MsgDisp("Sassa","Are you alright? 
+MsgDisp("Sassa","Are you alright?
 You're not injured?");
 MsgDisp("主人公","Yeah.
 But, I failed...");
@@ -24,10 +24,10 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P740200001_02_020");
-MsgDisp("Sassa","But, that's not related to whether 
-your work is good, or whether 
-the show was a success.");
-MsgDisp("主人公","(Thank you, ｛颯砂＊＊｝...I should have
+MsgDisp("Sassa","But, that's not related to whether your
+work is good, or whether the show was a
+success.");
+MsgDisp("主人公","(Thank you, ｛颯砂＊＊｝... I should have
 participated more in club more during the
 preparation period, and practiced more for
 the show.)");

@@ -15,15 +15,13 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P543100001_31_010");
-MsgDisp("Goro","Hm～...
-I felt like I saw a new world.
-But it appears it might've
-just been my imagination.");
+MsgDisp("Goro","Hm～... I felt like I saw a new world. But
+it appears it might've just been my
+imagination.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Ughn, 
-I want Goro-sensei to hear 
-a perfect performance...)");
+MsgDisp("主人公","(Ughn, I want Goro-sensei to hear a
+perfect performance...)");
 MsgClose();
 ScrFadeOut(0);

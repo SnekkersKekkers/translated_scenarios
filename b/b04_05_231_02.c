@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(5,255,4,3,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523102_05_000");
-MsgDisp("Hiiragi","When you look at it from 
-here, it's that high...
+MsgDisp("Hiiragi","When you look at it from here, it's that
+high...
 It's like jumping in the sky.");
 MsgSel("That's terrifying.","If it was at night, it'd be a milkyway railroad.","Do you like roller coasters a lot?");
 switch (MsgSelRsltGet()){
@@ -26,8 +26,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040523102_05_020");
-    MsgDisp("Hiiragi","Incredible.
-A night-sky trip with you on a 
+    MsgDisp("Hiiragi","Incredible. A night-sky trip with you on a
 rollercoaster...I'm free anytime.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -62,15 +61,14 @@ What's wrong?");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040523102_05_050");
-        MsgDisp("Hiiragi","Sorry.
-I remember being told 
-that a long time ago.");
+        MsgDisp("Hiiragi","Sorry. I remember being told that a long
+time ago.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523102_05_060");
-        MsgDisp("Hiiragi","I forgot what city it was in, 
-But long ago, my parents took
-me to an amusement park.");
+        MsgDisp("Hiiragi","I forgot what city it was in, But long
+ago, my parents took me to an amusement
+park.");
         MsgDisp("主人公","That's a wonderful memory.");
         ChMouth(5,4);
         ChMotion(5,0);
@@ -81,8 +79,8 @@ I was like a normal kid again.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040523102_05_080");
-        MsgDisp("Hiiragi","So I got all excited and 
-rode the rollercoaster for ages.");
+        MsgDisp("Hiiragi","So I got all excited and rode the
+rollercoaster for ages.");
         MsgDisp("主人公","Hehe, you've liked it for ages huh?");
         VoicePlay("B040523102_05_090");
         MsgDisp("Hiiragi","Yes.
@@ -92,8 +90,8 @@ I wonder why?");
         ChMotion(5,2);
         VoicePlay("B040523102_05_100");
         MsgDisp("Hiiragi","I guess it was unusual for me.
-My mother also forced herself
-to come along, ");
+My mother also forced herself to come
+along,");
         MsgDisp("主人公","It must have been tough for your Mom.
 But, I think she was happy.");
         ChEye(5,4);
@@ -110,8 +108,9 @@ Because ｛柊＊＊＊｝ seems happy.");
         ChMouth(5,4);
         ChMotion(5,3);
         VoicePlay("B040523102_05_130");
-        MsgDisp("Hiiragi","Thank you. So, one more time? Then I'll
-follow wherever you want to go.");
+        MsgDisp("Hiiragi","Thank you.
+So, one more time?
+Then I'll follow wherever you want to go.");
         MsgDisp("主人公","Hehe, yeah.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         MsgClose();

@@ -46,8 +46,8 @@ Huh? That's your specialty.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040308202_03_030");
-        MsgDisp("Honda","When I'm with you, I'm always
-discovering new things.");
+        MsgDisp("Honda","When I'm with you, I'm always discovering
+new things.");
         MsgDisp("主人公","You're exaggerating there.");
         ChEye(3,4);
         ChMouth(3,0);
@@ -60,8 +60,8 @@ discovering new things.");
         ChMotion(3,2);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308202_03_050");
-        MsgDisp("Honda","That's also what it was like with
-my sister when she was younger...");
+        MsgDisp("Honda","That's also what it was like with my
+sister when she was younger...");
         MsgDisp("主人公","Your sister?");
         ChEye(3,0);
         ChMouth(3,0);
@@ -75,10 +75,10 @@ started to instill some doubt within me.");
         ChMotion(3,0);
         VoicePlay("B040308202_03_070");
         MsgDisp("Honda","But, lately nothing clicks anymore.
-Even though she used to love talking 
-about bugs, it's weird huh?");
-        MsgDisp("主人公","Hehe, I think I 
-understand your sister's feelings.");
+Even though she used to love talking about
+bugs, it's weird huh?");
+        MsgDisp("主人公","Hehe, I think I understand your sister's
+feelings.");
         ChSet(3,5);
         VoicePlay("B040308202_03_080");
         MsgDisp("Honda","Ehh! Could it be that it doesn't click for
@@ -91,8 +91,8 @@ interesting.");
         VoicePlay("B040308202_03_090");
         MsgDisp("Honda","I'm glad.
 Then, let's go another round!");
-        MsgDisp("主人公","(Hehe, 
-must've been tough on his sister, huh?)");
+        MsgDisp("主人公","(Hehe, must've been tough on his sister,
+huh?)");
         break ;
         default :
         DbgAssert(1);
@@ -105,8 +105,8 @@ must've been tough on his sister, huh?)");
     ChEye(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040308202_03_100");
-    MsgDisp("Honda","Exercise...
-Yep yep, that might be good too.");
+    MsgDisp("Honda","Exercise... Yep yep, that might be good
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

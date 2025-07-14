@@ -6,9 +6,9 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040115100_01_000");
-MsgDisp("Kazama","Let's start with one game,
-with no handicap.");
-MsgSel("I won't lose!","｛風真＊＊｝'s ball looks heavy.'","A competition is kinda...");
+MsgDisp("Kazama","Let's start with one game, with no
+handicap.");
+MsgSel("I won't lose!","｛風真＊＊｝'s ball looks heavy.","A competition is kinda...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

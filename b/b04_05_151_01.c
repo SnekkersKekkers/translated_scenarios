@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040515101_05_000");
 MsgDisp("Hiiragi","I see.
-So even people with weak skills
-can get good scores");
+So even people with weak skills can get
+good scores");
 MsgSel("There are skilled women players, after all!","But it's still about strength, right?","Shall we take a lesson together?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040515101_05_010");
     MsgDisp("Hiiragi","This is the iron law of any art.
-Today we shall carefully observe 
-all the skilled players!");
+Today we shall carefully observe all the
+skilled players!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,9 +38,8 @@ all the skilled players!");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040515101_05_030");
-    MsgDisp("Hiiragi","Agreed.
-Maybe this way, we can both relinquish
-being unskilled at it?");
+    MsgDisp("Hiiragi","Agreed. Maybe this way, we can both
+relinquish being unskilled at it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

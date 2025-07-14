@@ -40,9 +40,8 @@ I just know it's a pretty sound.");
     ChMouth(4,2);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040402400_04_030");
-    MsgDisp("Nanatsumori","Right.
-Well, everyone has their
-own likes and dislikes.");
+    MsgDisp("Nanatsumori","Right. Well, everyone has their own likes
+and dislikes.");
     MsgDateResultDisp();
     break ;
     default :

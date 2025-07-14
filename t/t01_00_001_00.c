@@ -1,7 +1,6 @@
 BGOpen("sc121",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛風真＊＊｝,
-you said you'd come back
+MsgDisp("主人公","(｛風真＊＊｝, you said you'd come back
 before our graduation......)");
 MsgDisp("主人公","(——Ah, Maybe he's over there...?)");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -15,8 +14,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-MsgDisp("主人公","(......I wish he contacted me
-but I wonder
+MsgDisp("主人公","(......I wish he contacted me but I wonder
 if something happened......?)");
 SEPlay("EV_SE_597",0.5,0.2);
 Wait(70,0);
@@ -27,13 +25,11 @@ Wait(100,0);
 SEStop("EV_SE_795",2.8);
 MsgDisp("主人公","(Church bells......)");
 VoicePlay("T010000100_01_000");
-MsgDisp("Ryota","Ah, hey the bell! 
+MsgDisp("Ryota","Ah, hey the bell!
 I heard it again!");
-MsgDisp("主人公","(Ehh∈
-｛風真＊＊｝?)");
+MsgDisp("主人公","(Ehh∈ ｛風真＊＊｝? )");
 VoicePlay("T010000100_01_010");
-MsgDisp("Ryota","Over here! I think I 
-heard it over here!
+MsgDisp("Ryota","Over here! I think I heard it over here!
 Come!");
 SEPlay("EV_SE_FOOT_008",0,0.1);
 Wait(5,0);
@@ -51,9 +47,8 @@ MsgClose();
 BGOpen("ev018",0);
 ScrFadeIn(0);
 VoicePlay("T010000100_01_020");
-MsgDisp("Ryota","This is an old church,
-it's not in use 
-anymore. ");
+MsgDisp("Ryota","This is an old church, it's not in use
+anymore.");
 BGMStop(3)MsgClose();
 ScrFadeOut(0,1);
 Wait(100,0);

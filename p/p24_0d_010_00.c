@@ -8,14 +8,15 @@ couples～! I'll interrupt their dates, And
 ruin their love lives∈");
 VoicePlay("P240D01000_44_000");
 MsgDisp("Purple","The star of lovers▼
-Purple Angel! Take that!");
+Purple Angel!
+Take that!");
 VoicePlay("P240D01000_45_000");
 MsgDisp("Pink","The guardian of love.
 Pink Angel!
 Finishing blow!");
 VoicePlay("P240D01000_46_000");
-MsgDisp("White","A beginner of love...? Love hunter,
-White angel!
+MsgDisp("White","A beginner of love...?
+Love hunter, White angel!
 \"Love Heart Forever\".");
 SEPlay("EV_SE_809");
 Wait(100,0);
@@ -35,8 +36,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P240D01000_21_000");
-MsgDisp("Michiru","Hehe.
-But it's our makeup that makes the 
+MsgDisp("Michiru","Hehe. But it's our makeup that makes the
 stage so exciting, right?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -58,7 +58,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P240D01000_21_010");
 MsgDisp("Michiru","Then, I would've been pink angel.
-Love......Guardian. Hehe, sounds good.");
+Love......Guardian.
+Hehe, sounds good.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -84,8 +85,8 @@ VoicePlay("P240D01000_22_040");
 MsgDisp("Hikaru","Hikaru too!
 I want to make love bloom in Mari's
 innocent heart▼");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝...
-Thank you!");
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝... Thank
+you!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21);

@@ -13,10 +13,9 @@ From next week, we will start the
 preparation period for the cultural
 festival.");
 VoicePlay("P610000102_46_010");
-MsgDisp("Manager","The Gardening Club have decided 
-to host an Organic Cafe. 
-Once you are well, please also
-join us in preparations.");
+MsgDisp("Manager","The Gardening Club have decided to host an
+Organic Cafe. Once you are well, please
+also join us in preparations.");
 MsgDisp("主人公","Yes, thank you for contacting me.");
 VoicePlay("P610000102_46_020");
 MsgDisp("Manager","hen, please get well soon.");

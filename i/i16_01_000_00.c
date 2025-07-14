@@ -24,8 +24,8 @@ too much change?");
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,2,2,#1,#1,0,0);
     VoicePlay("I160100000_01_000");
-    MsgDisp("Kazama","How did you give him more change
-than what he paid?");
+    MsgDisp("Kazama","How did you give him more change than what
+he paid?");
     MsgDisp("主人公","(I messed up......
 I'll stay calm and do better next time.)");
     break ;
@@ -35,9 +35,8 @@ I'll stay calm and do better next time.)");
     SEWait();
     MsgDisp("主人公","Thank you very much!");
     VoicePlay("I160100000_41_010");
-    MsgDisp("Male Customer","Huh......
-I asked for a ribbon on this gift,
-didn't I?");
+    MsgDisp("Male Customer","Huh...... I asked for a ribbon on this
+gift, didn't I?");
     MsgDisp("主人公","Ah∈　My apologies.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -51,8 +50,8 @@ Please wait a while here.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("I160100000_01_020");
-    MsgDisp("Kazama","I'll pack this up for you,
-so take care of the next customer.");
+    MsgDisp("Kazama","I'll pack this up for you, so take care of
+the next customer.");
     MsgDisp("主人公","(I messed up......
 Let's stay calm and continue.)");
     break ;

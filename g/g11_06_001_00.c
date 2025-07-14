@@ -1,7 +1,8 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛氷室＊＊｝ wasn't there. I wanted to
-apologize for the three-legged race......)");
+MsgDisp("主人公","(｛氷室＊＊｝ wasn't there.
+I wanted to apologize for the three-legged
+race......)");
 MsgDisp("主人公","(Ah, maybe......)");
 MsgClose();
 ScrFadeOut(0);
@@ -30,8 +31,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600100_06_020");
-MsgDisp("Himuro","Well, it's fine. I was the one who decided
-to partner up with you.");
+MsgDisp("Himuro","Well, it's fine.
+I was the one who decided to partner up
+with you.");
 MsgDisp("主人公","You're not angry?");
 ChEye(6,0);
 ChMouth(6,0);

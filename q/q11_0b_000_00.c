@@ -54,7 +54,7 @@ ChMotion(4,2,1);
 ChMouthOpenLevel(4,5);
 VoicePlay("Q110B00000_04_010");
 MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","Hey, may I go to that craft shop over 
+MsgDisp("主人公","Hey, may I go to that craft shop over
 there?");
 ChEye(1,0);
 Wait(60,1);
@@ -109,21 +109,19 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q110B00000_01_040");
-MsgDisp("Kazama","While you were looking at souvenirs
-We've been doing beadlo painting lessons.");
+MsgDisp("Kazama","While you were looking at souvenirs We've
+been doing beadlo painting lessons.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q110B00000_03_040");
-MsgDisp("Honda","Yeahyeah.
-We all made paintings on that one.
-Can you guess which one is by who?");
+MsgDisp("Honda","Yeahyeah. We all made paintings on that
+one. Can you guess which one is by who?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q110B00000_04_030");
-MsgDisp("Nanatsumori","
-We all have strong personalities, so it
+MsgDisp("Nanatsumori","We all have strong personalities, so it
 Became a flashy only-one.");
 ChEye(1,4);
 ChMouth(1,3);

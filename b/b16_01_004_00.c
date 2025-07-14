@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     NSSMouth(1,0);
     NSSEyeOpenLevel(1,5);
     VoicePlay("B160100400_01_010");
-    MsgDisp("Kazama","If you understand then, 
-it's your own responsibility.
+    MsgDisp("Kazama","If you understand then, it's your own
+responsibility.
 No matter what I do.");
     break ;
     case 1:
@@ -22,9 +22,8 @@ No matter what I do.");
     NSSEyeOpenLevel(1,5);
     NSSCheek(1,0);
     VoicePlay("B160100400_01_020");
-    MsgDisp("Kazama","You...
-you should have more sense 
-of self-perseverance.");
+    MsgDisp("Kazama","You... you should have more sense of
+self-perseverance.");
     break ;
     default :
     DbgAssert(0);

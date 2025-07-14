@@ -18,11 +18,10 @@ You did your best, huh.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("L040700005_07_020");
-    MsgDisp("Mikage","Sneaking in something that I don't
-like is just like you, and I like that,
-you know?");
-    MsgDisp("主人公","(Huh......?
-Was it not to ｛御影＊＊｝'s tastes?)");
+    MsgDisp("Mikage","Sneaking in something that I don't like is
+just like you, and I like that, you know?");
+    MsgDisp("主人公","(Huh......? Was it not to ｛御影＊＊｝
+'s tastes?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -41,8 +40,8 @@ Is something wrong?");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700005_07_040");
-    MsgDisp("Mikage","You thought hard to choose
-this topping, right?");
+    MsgDisp("Mikage","You thought hard to choose this topping,
+right?");
     MsgDisp("主人公","Yes.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -51,8 +50,8 @@ this topping, right?");
     MsgDisp("Mikage","Then it's okay!
 I'll accept gratefully.");
     MsgDisp("主人公","(Ah, could it be......
-I added something
-｛御影＊＊｝ doesn't like......?)");
+I added something ｛御影＊＊｝ doesn't
+like......?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -74,25 +73,24 @@ How is it?");
     ChMotion(7,0);
     VoicePlay("L040700005_07_070");
     MsgDisp("Mikage","It's good.
-You considered a lot
-while making it, right?");
+You considered a lot while making it,
+right?");
     ChEye(7,1);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700005_07_080");
-    MsgDisp("Mikage","It is interesting that you're
-trying to tease me with this, though.");
+    MsgDisp("Mikage","It is interesting that you're trying to
+tease me with this, though.");
     MsgDisp("主人公","Huh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("L040700005_07_090");
-    MsgDisp("Mikage","Like adding salt to a watermelon
-to make it sweeter?
+    MsgDisp("Mikage","Like adding salt to a watermelon to make
+it sweeter?
 Or maybe you're just having fun with me.");
-    MsgDisp("主人公","(Salt?　Having fun?
-......Ah!　Could it be that I added
-something he doesn't like?)");
+    MsgDisp("主人公","(Salt? Having fun? ......Ah! Could it be
+that I added something he doesn't like?)");
     MsgClose();
     BGMStop();
     MsgClose();

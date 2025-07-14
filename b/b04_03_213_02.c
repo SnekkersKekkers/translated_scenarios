@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("B040321302_03_010");
-    MsgDisp("Honda","Ah, that's it! Sorry everyone, we scared
-you.");
+    MsgDisp("Honda","Ah, that's it!
+Sorry everyone, we scared you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ you.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040321302_03_020");
-    MsgDisp("Honda","...Sorry, did you notice too? I had some 
-strong ramen earlier.");
+    MsgDisp("Honda","...Sorry, did you notice too?
+I had some strong ramen earlier.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -57,7 +57,8 @@ strong ramen earlier.");
         ChMotion(3,2);
         ChEyeOpenLevel(3,8);
         VoicePlay("B040321302_03_040");
-        MsgDisp("Honda","Wait wait, I got it... that's it!");
+        MsgDisp("Honda","Wait wait, I got it...
+that's it!");
         MsgDisp("主人公","What is it?");
         ChEye(3,0);
         ChMouth(3,4);
@@ -91,13 +92,13 @@ date, she sprayed some perfume on me.");
         ChMotion(3,2);
         ChCheek(3,0);
         VoicePlay("B040321302_03_080");
-        MsgDisp("Honda","Woah, why is everyone suddenly gathering 
+        MsgDisp("Honda","Woah, why is everyone suddenly gathering
 around?");
         ChEye(3,4);
         ChMouth(3,4);
         VoicePlay("B040321302_03_090");
         MsgDisp("Honda","Huh? Could it be... the perfume?");
-        MsgDisp("主人公","Wow, they've all flocked around 
+        MsgDisp("主人公","Wow, they've all flocked around
 ｛本多＊＊｝.");
         ChEye(3,0);
         ChMouth(3,3);

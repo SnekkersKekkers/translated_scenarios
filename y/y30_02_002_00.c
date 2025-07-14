@@ -13,14 +13,14 @@ accumulating in the bucket, continued
 at a steady rhythm. Somehow, a
 strange feeling started to weigh on
 me.");
-MsgDisp("","She's only milking the cow, 
-somehow I feel strange.");
+MsgDisp("","She's only milking the cow, somehow I
+feel strange.");
 MsgClear();
 MsgDisp("主人公","\"\"Hey, ｛颯砂＊＊｝. It's freshly
 squeezed. It's delicious!\"");
-MsgDisp("","When she recommends it with a smile 
-like that, I have no choice 
-but to drink it.");
+MsgDisp("","When she recommends it with a smile
+like that, I have no choice but to
+drink it.");
 MsgDisp("","But, it's really strange.
 I don't even like cow's milk...?");
 MsgClear();
@@ -31,8 +31,8 @@ It's good?\"");
 MsgDisp("","When she's the one telling me, I'll
 accept anything. I wouldn't be like
 this with other people.");
-MsgDisp("","Not only accept it, 
-but it even changes my tastebuds.
+MsgDisp("","Not only accept it, but it even
+changes my tastebuds.
 What does it mean?");
 MsgClear();
 MsgClose();
@@ -46,8 +46,8 @@ MsgDisp("","When we left Habataki ranch, she
 noticed that I was making a face of
 mixed-feelings, and looked at me
 worriedly.");
-MsgDisp("主人公","\"\"｛颯砂＊＊｝, 
-Are you not good with cow milk?\"");
+MsgDisp("主人公","\"\"｛颯砂＊＊｝, Are you not good with
+cow milk?\"");
 MsgClear();
 MsgDisp("","I said I didn't like it if it was
 warm—— but, I just didn't like it

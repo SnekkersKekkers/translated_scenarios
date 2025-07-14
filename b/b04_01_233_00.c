@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040123300_01_010");
-    MsgDisp("Kazama","I realized there's still a lot 
-about you that I don't know.");
+    MsgDisp("Kazama","I realized there's still a lot about you
+that I don't know.");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
@@ -42,8 +42,8 @@ No one benefits off this.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040123300_01_030");
-    MsgDisp("Kazama","Haa, it's not about what you 
-say, but how you say it.");
+    MsgDisp("Kazama","Haa, it's not about what you say, but how
+you say it.");
     MsgDateResultDisp();
     break ;
     default :

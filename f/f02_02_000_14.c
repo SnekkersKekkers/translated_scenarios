@@ -8,9 +8,9 @@ ScrFadeIn(0);
 VoicePlay("F020200014_02_000");
 MsgDisp("Sassa","It's almost time for graduation, huh.
 It arrived in the blink of an eye...");
-MsgDisp("主人公","Yeah. I won't be walking down this road
-in my uniform much longer.
-I'm going to miss it.");
+MsgDisp("主人公","Yeah. I won't be walking down this road in
+my uniform much longer. I'm going to miss
+it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -31,8 +31,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("F020200014_02_030");
-MsgDisp("Sassa","I'm grateful for my classes,
-my club, hurdles...");
+MsgDisp("Sassa","I'm grateful for my classes, my club,
+hurdles...");
 MsgDisp("主人公","Yeah.
 ...Oh, you forgot your teacher!");
 ChEye(2,0);
@@ -56,8 +56,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200014_02_060");
-MsgDisp("Sassa","There's still time until graduation,
-so I'll say my thanks for you then.
+MsgDisp("Sassa","There's still time until graduation, so
+I'll say my thanks for you then.
 I'll keep them just a little longer.");
 MsgDisp("主人公","Um, okay.");
 MsgDisp("主人公","(Graduation...

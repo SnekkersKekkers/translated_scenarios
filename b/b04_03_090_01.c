@@ -21,8 +21,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040309001_03_010");
-    MsgDisp("Honda","Is that right? If it were me, I would join
-in with the fun.");
+    MsgDisp("Honda","Is that right?
+If it were me, I would join in with the
+fun.");
     MsgDateResultDisp();
     break ;
     case 1:

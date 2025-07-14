@@ -13,35 +13,33 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200000_02_000");
-MsgDisp("Sassa","Yeah.
-To think there's a place like 
-this in the city.");
+MsgDisp("Sassa","Yeah. To think there's a place like this
+in the city.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200000_02_010");
-MsgDisp("Sassa","I've been in Habataki City for a 
-long time, but it seems like
-there are things I still 
-don't know about.");
-MsgDisp("主人公","It seems like this is only
-available for a limited time.");
+MsgDisp("Sassa","I've been in Habataki City for a long
+time, but it seems like there are things I
+still don't know about.");
+MsgDisp("主人公","It seems like this is only available for a
+limited time.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B140200000_02_020");
-MsgDisp("Sassa","Limited time huh... that's fine.");
+MsgDisp("Sassa","Limited time huh...
+that's fine.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200000_02_030");
-MsgDisp("Sassa","I've spent both days of Christmas with 
-you, so I want to be able to make 
-this into a special memory.");
+MsgDisp("Sassa","I've spent both days of Christmas with
+you, so I want to be able to make this
+into a special memory.");
 MsgDisp("主人公","Hehe, yeah!");
-MsgDisp("主人公","(I'm glad I got to spend 
-both days of Christmas with
-｛颯砂＊＊｝ )");
+MsgDisp("主人公","(I'm glad I got to spend both days of
+Christmas with ｛颯砂＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

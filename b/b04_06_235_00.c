@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040623500_06_010");
     MsgDisp("Himuro","Were you able to enjoy it thoroughly?
-That's good. ");
+That's good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,8 +26,8 @@ That's good. ");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623500_06_020");
-    MsgDisp("Himuro","Did you not know you had a 
-weakness for this sort of thing?");
+    MsgDisp("Himuro","Did you not know you had a weakness for
+this sort of thing?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -36,9 +36,8 @@ weakness for this sort of thing?");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040623500_06_030");
-    MsgDisp("Himuro","Wow, you're pretty calm.
-But, I agree. I'm fed up with
-those see-through productions.");
+    MsgDisp("Himuro","Wow, you're pretty calm. But, I agree. I'm
+fed up with those see-through productions.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -43,8 +43,8 @@ Just what kind of palace is this?");
     ChEye(1,4);
     ChMouth(1,3);
     VoicePlay("B040101100_01_030");
-    MsgDisp("Kazama","Hey, just don't look down and
-focus your attention up.
+    MsgDisp("Kazama","Hey, just don't look down and focus your
+attention up.
 You'll be okay, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

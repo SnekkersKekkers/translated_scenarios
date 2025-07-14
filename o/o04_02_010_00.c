@@ -16,14 +16,13 @@ Let's do this!");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("O040201000_02_010");
-    MsgDisp("Sassa","Even if it's just the ball toss,
-let's not slack off.");
+    MsgDisp("Sassa","Even if it's just the ball toss, let's not
+slack off.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,0);
     VoicePlay("O040201000_02_020");
-    MsgDisp("Sassa","Alright,
-I'm gonna put every single ball
+    MsgDisp("Sassa","Alright, I'm gonna put every single ball
 into the basket!");
     break ;
     case 3:
@@ -40,8 +39,8 @@ Let's do this!");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("O040201000_02_040");
-    MsgDisp("Sassa","Alright, we're definitely
-winning this match!
+    MsgDisp("Sassa","Alright, we're definitely winning this
+match!
 Let's both do our best!");
     MsgDisp("主人公","Yeah!");
     ChEye(2,0);
@@ -60,29 +59,28 @@ Let's both do our best!");
     VoicePlay("O040201000_02_060");
     MsgDisp("Sassa","You're on my team.
 Let's do our best together!");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Yeah!");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Yeah!");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("O040201000_02_070");
-    MsgDisp("Sassa","If I'm with you,
-I don't feel like losing at all.");
-    MsgDisp("主人公","Even if you weren't with me,
-Wouldn't you still win, ｛颯砂＊＊｝?");
+    MsgDisp("Sassa","If I'm with you, I don't feel like losing
+at all.");
+    MsgDisp("主人公","Even if you weren't with me, Wouldn't you
+still win, ｛颯砂＊＊｝?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("O040201000_02_080");
-    MsgDisp("Sassa","That's true, but when I'm with you,
-that feeling is even stronger.");
+    MsgDisp("Sassa","That's true, but when I'm with you, that
+feeling is even stronger.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("O040201000_02_090");
-    MsgDisp("Sassa","Ball tosses and relays
-are the same when it comes to winning.
+    MsgDisp("Sassa","Ball tosses and relays are the same when
+it comes to winning.
 Let's aim for victory together!");
     MsgDisp("主人公","Yeah!");
     break ;

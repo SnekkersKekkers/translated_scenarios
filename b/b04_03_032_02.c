@@ -21,8 +21,9 @@ switch (MsgSelRsltGet()){
         ChMouth(3,2);
         ChMotion(3,2);
         VoicePlay("B040303202_03_010");
-        MsgDisp("Honda","Deep-sea fish are really sensitive. They
-can't survive in outdoor environments.");
+        MsgDisp("Honda","Deep-sea fish are really sensitive.
+They can't survive in outdoor
+environments.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,7 +59,7 @@ fun.");
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040303202_03_050");
-        MsgDisp("Honda","Yup! You're the best at breaking down my 
+        MsgDisp("Honda","Yup! You're the best at breaking down my
 boring fixed ideas∈");
         MsgDisp("主人公","I'm glad but...
 You're exaggerating.");
@@ -66,8 +67,8 @@ You're exaggerating.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040303202_03_060");
-        MsgDisp("Honda","But, if you weren't with me, my deep-sea 
-fish would have never been able to fly 
+        MsgDisp("Honda","But, if you weren't with me, my deep-sea
+fish would have never been able to fly
 through the sky.");
         MsgDisp("主人公","(I'd be very happy if I was able to
 inspire ｛本多＊＊｝ )");
@@ -83,9 +84,9 @@ inspire ｛本多＊＊｝ )");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040303202_03_070");
-    MsgDisp("Honda","That's right. It might be worth thinking
-about what attracts people to this
-facility.");
+    MsgDisp("Honda","That's right.
+It might be worth thinking about what
+attracts people to this facility.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -96,8 +97,8 @@ facility.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040303202_03_080");
-    MsgDisp("Honda","That's true. People have been making fish 
-swim in the sky since long ago. Look at 
+    MsgDisp("Honda","That's true. People have been making fish
+swim in the sky since long ago. Look at
 kites, for example.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -25,15 +25,15 @@ Thank goodness.)");
     ChMouth(5,3);
     ChMotion(5,3,1);
     VoicePlay("L040500004_05_020");
-    MsgDisp("Hiiragi","Indeed, I can see your
-personality in this.");
+    MsgDisp("Hiiragi","Indeed, I can see your personality in
+this.");
     MsgDisp("主人公","Yes, it's handmade.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500004_05_030");
-    MsgDisp("Hiiragi","I can see that you made it
-while keeping me in mind.");
+    MsgDisp("Hiiragi","I can see that you made it while keeping
+me in mind.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("L040500004_05_040");
@@ -43,8 +43,8 @@ while keeping me in mind.");
     ChMotion(5,0);
     VoicePlay("L040500004_05_050");
     MsgDisp("Hiiragi","There is no chance that I wouldn't.
-It's the only chocolate in the world
-that was made exclusively for me, no?");
+It's the only chocolate in the world that
+was made exclusively for me, no?");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);
@@ -70,9 +70,9 @@ You may see some rough edges.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("L040500004_05_080");
-    MsgDisp("Hiiragi","Rough?　If by chance such a part
-exists, it too was made by you while
-keeping me in mind.");
+    MsgDisp("Hiiragi","Rough? If by chance such a part exists, it
+too was made by you while keeping me in
+mind.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("L040500004_05_090");
@@ -84,8 +84,8 @@ I feel a little shy.");
     ChMotion(5,0);
     VoicePlay("L040500004_05_100");
     MsgDisp("Hiiragi","Today is that kind of day, no?
-I can say things that would usually be
-too embarrassing.");
+I can say things that would usually be too
+embarrassing.");
     MsgDisp("主人公","Is that so?");
     ChMotion(5,4);
     VoicePlay("L040500004_05_110");
@@ -102,8 +102,8 @@ Thank you very much.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ seems happy.
-But he might be a little confused
-about Valentine's Day?)");
+But he might be a little confused about
+Valentine's Day?)");
     break ;
     default :
     DbgAssert(1);

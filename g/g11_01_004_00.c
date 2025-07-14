@@ -2,9 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's tie to go home now.)");
-MsgDisp("主人公","(......Huh?
-｛風真＊＊｝ is over there, huh.
-Let's go for a chat before heading home.)");
+MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is over there,
+huh. Let's go for a chat before heading
+home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -22,8 +22,8 @@ ScrFadeIn(0);
 VoicePlay("G110100400_01_000");
 MsgDisp("Kazama","It's weird to say it again, but......
 It's good huh, being Rose Queen.");
-MsgDisp("主人公","Yeah......
-But, is it really okay for it to be me?");
+MsgDisp("主人公","Yeah...... But, is it really okay for it
+to be me?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -39,8 +39,8 @@ stand proudly, and loudly.");
 MsgDisp("主人公","Y-Yeah.
 You say that but......");
 VoicePlay("G110100400_41_000");
-MsgDisp("Male Student","Isn't that the Rose Queen-senpai
-over there?");
+MsgDisp("Male Student","Isn't that the Rose Queen-senpai over
+there?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -61,8 +61,8 @@ MsgClose();
 SEPlay("EV_SE_645");
 ChClose(1,0,30);
 VoicePlay("G110100400_01_040");
-MsgDisp("Kazama?","Hey, 
-I can hear everything you guys are saying!");
+MsgDisp("Kazama?","Hey, I can hear everything you guys are
+saying!");
 VoicePlay("G110100400_41_020");
 MsgDisp("Male Student","We're very sorry.");
 VoicePlay("G110100400_48_010");

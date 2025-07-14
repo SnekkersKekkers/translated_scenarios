@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040602202_06_000");
 MsgDisp("Himuro","What's wrong?
 ...Are you thinking about something?");
-MsgSel("I was thinking about｛氷室＊＊｝.","It's nothing","I'm worrying about my tests...");
+MsgSel("I was thinking about ｛氷室＊＊｝.","It's nothing","I'm worrying about my tests...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){
@@ -20,9 +20,8 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602202_06_010");
-        MsgDisp("Himuro","If you have something
-to say, just say it?
-Since I'm here anyways? ");
+        MsgDisp("Himuro","If you have something to say, just say it?
+Since I'm here anyways?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -45,8 +44,8 @@ about, Why don't you ask me directly?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602202_06_040");
-        MsgDisp("Himuro","Besides, if you suddenly
-say something like that——");
+        MsgDisp("Himuro","Besides, if you suddenly say something
+like that——");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
@@ -118,8 +117,8 @@ Then, that's fine.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040602202_06_130");
-    MsgDisp("Himuro","Study anxiety can be 
-relieved just by studying.
+    MsgDisp("Himuro","Study anxiety can be relieved just by
+studying.
 If you're motivated, I can teach you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

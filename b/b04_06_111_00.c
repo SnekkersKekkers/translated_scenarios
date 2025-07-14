@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040611100_06_020");
-        MsgDisp("Himuro","You're hesitant now but you still
-want to be called princess? ");
+        MsgDisp("Himuro","You're hesitant now but you still want to
+be called princess?");
         MsgDateResultDisp();
         }
     break ;
@@ -40,8 +40,7 @@ want to be called princess? ");
     ChMotion(6,0);
     VoicePlay("B040611100_06_030");
     MsgDisp("Himuro","Then, let's go slowly.
-You'll fall if you hurry, 
-so be careful.");
+You'll fall if you hurry, so be careful.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -53,8 +52,8 @@ so be careful.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040611100_06_040");
-    MsgDisp("Himuro","Even though we came all the 
-way here, that's all you've got?");
+    MsgDisp("Himuro","Even though we came all the way here,
+that's all you've got?");
     MsgDateResultDisp();
     break ;
     default :

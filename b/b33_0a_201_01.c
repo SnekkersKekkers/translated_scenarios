@@ -24,8 +24,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A20101_06_000");
-MsgDisp("Himuro","The smell of the sea and the
-sound of the waves are nice too.");
+MsgDisp("Himuro","The smell of the sea and the sound of the
+waves are nice too.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -48,16 +48,16 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A20101_01_010");
-MsgDisp("Kazama","I'm not like you guys
-where I'm good at swimming.
+MsgDisp("Kazama","I'm not like you guys where I'm good at
+swimming.
 And, there's her.");
 MsgDisp("主人公","Eh, me?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330A20101_06_010");
-MsgDisp("Himuro","If something happens, 
-I'll swim you back to shore.");
+MsgDisp("Himuro","If something happens, I'll swim you back
+to shore.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
@@ -100,9 +100,9 @@ ChMotion(1,1);
 VoicePlay("B330A20101_01_030");
 MsgDisp("Kazama","I'm just not that good.
 I'll improve by then.");
-MsgDisp("主人公","(\"By then...?\"
-This is just a sightseeing boat to begin 
-with, I think it should be safe...)");
+MsgDisp("主人公","(\"By then...?\" This is just a sightseeing
+boat to begin with, I think it should be
+safe...)");
 MsgClose();
 ScrFadeOut(0);
 ChEye(1,0);

@@ -28,16 +28,16 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100200_01_030");
 MsgDisp("Kazama","Oi, don't give me a vague reply.
-I've been holding back because
-we had a promise.");
+I've been holding back because we had a
+promise.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100200_01_040");
 MsgDisp("Kazama","If you break it...
-I'll return the favour three-fold, 
-English style.");
+I'll return the favour three-fold, English
+style.");
 MsgDisp("主人公","Three-fold∋
 ...Got it.");
 ChEye(1,4);

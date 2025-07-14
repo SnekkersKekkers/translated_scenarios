@@ -19,26 +19,25 @@ MsgDisp("主人公","Oh, I see.");
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("F020500003_05_020");
-MsgDisp("Hiiragi","However, please allow me to tell you
-the real truth of the matter instead.");
+MsgDisp("Hiiragi","However, please allow me to tell you the
+real truth of the matter instead.");
 ChMotion(5,4);
 VoicePlay("F020500003_05_030");
-MsgDisp("Hiiragi","It seems that the church's basement
-houses an LED-grown vegetable experiment
-for the coming doomsday.");
+MsgDisp("Hiiragi","It seems that the church's basement houses
+an LED-grown vegetable experiment for the
+coming doomsday.");
 ChEye(5,3);
 VoicePlay("F020500003_05_040");
-MsgDisp("Hiiragi","Also, those vegetables are being used
-to raise livestock.");
+MsgDisp("Hiiragi","Also, those vegetables are being used to
+raise livestock.");
 MsgDisp("主人公","Um......
 So it's the same rumor?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("F020500003_05_050");
-MsgDisp("Hiiragi","Is it? I guess you are right.
-But at least there is some reasoning
-behind it.");
+MsgDisp("Hiiragi","Is it? I guess you are right. But at least
+there is some reasoning behind it.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("F020500003_05_060");
@@ -58,5 +57,5 @@ ChMotion(5,0,1);
 VoicePlay("F020500003_05_080");
 MsgDisp("Hiiragi","If this information leaks, then
 Mikage-sensei will most likely be fired.");
-MsgDisp("主人公","(｛柊＊＊＊｝, isn't
-｛御影＊＊｝ just playing with you?)");
+MsgDisp("主人公","(｛柊＊＊＊｝, isn't ｛御影＊＊｝ just
+playing with you?)");

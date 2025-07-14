@@ -37,9 +37,9 @@ I would come again.");
     ChCheek(4,7);
     ScrFadeIn(0);
     VoicePlay("B060400000_04_020");
-    MsgDisp("Nanatsumori","Basic words like \"It was fun\" 
-won't cut it. I don't know
-what to say...");
+    MsgDisp("Nanatsumori","Basic words like \"It was fun\" won't cut
+it.
+I don't know what to say...");
     MsgDispSksp(0);
     break ;
     default :

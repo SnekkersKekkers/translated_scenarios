@@ -18,15 +18,16 @@ ChMotion(21,4);
 VoicePlay("P730D00001_21_000");
 MsgDisp("Michiru","Lovely...
 It really suits you.");
-MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝.
-Did you come to watch the show?");
+MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝. Did you
+come to watch the show?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("P730D00001_22_010");
-MsgDisp("Hikaru","Yep yep! It somewhat feels like we're
-working together▼");
+MsgDisp("Hikaru","Yep yep!
+It somewhat feels like we're working
+together▼");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -47,8 +48,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P730D00001_22_020");
 MsgDisp("Hikaru","Mari is a princess today! Right?");
-MsgDisp("主人公","(Princess... huh?
-Alright, I have to look gorgeous!)");
+MsgDisp("主人公","(Princess... huh? Alright, I have to look
+gorgeous!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

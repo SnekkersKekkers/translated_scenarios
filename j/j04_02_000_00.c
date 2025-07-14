@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoicePlay("J040200000_02_000");
     MsgDisp("Sassa","Found it!");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝,what's wrong?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝, what's wrong?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -56,8 +56,7 @@ What was that about?)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("J040200000_02_040");
-    MsgDisp("Sassa","｛主人公｝.
-It was found immediately.
+    MsgDisp("Sassa","｛主人公｝. It was found immediately.
 Because you stand out.");
     MsgDisp("主人公","Eh, I don't think so?
 So, what can I do for you?");
@@ -86,8 +85,7 @@ Yeah, then I guess I don't have a choice.");
         MsgDisp("Sassa","Don't apologize.
 You didn't do anything wrong.
 I'll call on you again.");
-        MsgDisp("主人公","Yeah.
-｛颯砂＊＊｝,Thank you.");
+        MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, Thank you.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -101,8 +99,9 @@ See you later.");
         MsgClose();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(He invited me to join him...... I wonder
-what he wanted this coming Sunday?)");
+        MsgDisp("主人公","(He invited me to join him......
+I wonder what he wanted this coming
+Sunday?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

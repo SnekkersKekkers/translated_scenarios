@@ -1,6 +1,6 @@
-MsgDisp("主人公","｛氷室＊＊｝, ｛風真＊＊｝, ｛颯砂＊＊｝
-and I... will always continue
-to get along this well right?");
+MsgDisp("主人公","｛氷室＊＊｝, ｛風真＊＊｝, ｛颯砂＊＊｝ and
+I... will always continue to get along
+this well right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -18,15 +18,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_410");
-MsgDisp("Himuro","But, I don't think this 
-relationship will last forever.");
+MsgDisp("Himuro","But, I don't think this relationship will
+last forever.");
 MsgDisp("主人公","That....");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_420");
-MsgDisp("Himuro","Ryota-senpai probably has something 
-more important than us.");
+MsgDisp("Himuro","Ryota-senpai probably has something more
+important than us.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -44,16 +44,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_450");
-MsgDisp("Himuro","Generally, 
-there's nothing that stays the same.");
+MsgDisp("Himuro","Generally, there's nothing that stays the
+same.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600001_06_460");
-MsgDisp("Himuro","Besides, it's not like things are the 
-best now. The relationship after 
-the change might surprisingly 
-be more comfortable.");
+MsgDisp("Himuro","Besides, it's not like things are the best
+now. The relationship after the change
+might surprisingly be more comfortable.");
 MsgDisp("主人公","(I see...)");
 BGMStop();
 MsgClose();

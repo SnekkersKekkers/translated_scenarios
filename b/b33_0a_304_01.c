@@ -19,7 +19,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30401_06_000");
-MsgDisp("Himuro","Forest parks have a lot of waterfront areas.");
+MsgDisp("Himuro","Forest parks have a lot of waterfront
+areas.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -36,9 +37,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30401_06_010");
-MsgDisp("Himuro","Energy, huh...
-Nozomu-senpai is surprisingly understanding of non-scientific 
-things isn't he?");
+MsgDisp("Himuro","Energy, huh... Nozomu-senpai is
+surprisingly understanding of
+non-scientific things isn't he?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
@@ -49,28 +50,29 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A30401_01_010");
-MsgDisp("Kazama","Well, your training is normally
-pretty scientific afer all.");
+MsgDisp("Kazama","Well, your training is normally pretty
+scientific afer all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30401_06_020");
-MsgDisp("Himuro","Right.
-But if Nozomu-senpai incorporated that kind of Eastern energy..");
+MsgDisp("Himuro","Right. But if Nozomu-senpai incorporated
+that kind of Eastern energy..");
 ChMouth(1,3);
 MsgDisp("主人公","Yeah, he might set great records!");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A30401_02_020");
-MsgDisp("Sassa","You think so? I'll try it, then.
+MsgDisp("Sassa","You think so?
+I'll try it, then.
 How should I go about it with this energy?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330A30401_06_030");
-MsgDisp("Himuro","Hmm...
-First let's take a break in the gazebo and absorb the spring's energy? ");
+MsgDisp("Himuro","Hmm... First let's take a break in the
+gazebo and absorb the spring's energy?");
 ChMouth(1,2);
 ChEye(2,0);
 ChMouth(2,3);
@@ -81,7 +83,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B330A30401_01_020");
-MsgDisp("Kazama","Can four people fit in such a cramped space?");
+MsgDisp("Kazama","Can four people fit in such a cramped
+space?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);

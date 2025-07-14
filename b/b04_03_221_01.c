@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322101_03_000");
 MsgDisp("Honda","Cypress, Pine, Zelkova...
-Procuring wood must have
-been difficult at the time.");
+Procuring wood must have been difficult at
+the time.");
 MsgSel("I wonder how they carried it?","It's a splendid main pillar!","I wonder how much it cost?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +30,8 @@ They used a large sleigh to carry it.");
     ChMotion(3,1);
     VoicePlay("B040322101_03_020");
     MsgDisp("Honda","Yep yep, that huge pillar is Zelkova.
-It's hard and sturdy, 
-with beautiful grain!");
+It's hard and sturdy, with beautiful
+grain!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

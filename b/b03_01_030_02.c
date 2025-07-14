@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B030103002_01_020");
-    MsgDisp("Kazama","Okay, let's go. That's an outdoor
-facility.");
+    MsgDisp("Kazama","Okay, let's go.
+That's an outdoor facility.");
     MsgDispSksp(0);
     break ;
     case 2:

@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(3,255,0,0,3,#1,#1,0,0);
 ChLayout(1);
 VoicePlay("B040302301_03_000");
-MsgDisp("Honda","Hey look. Tetrapods.
-I really like them y'know. That shape.");
+MsgDisp("Honda","Hey look. Tetrapods. I really like them
+y'know. That shape.");
 MsgSel("They look cute like sugar candy.","Tetrapods...?","There are loads of crabs here.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040302301_03_010");
-    MsgDisp("Honda","Yup, if they were more colourful, they 
+    MsgDisp("Honda","Yup, if they were more colourful, they
 might look just like sugar candy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -19,8 +19,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("Z502101004_21_020");
-MsgDisp("Michiru","And you have to make sure that
-you're wearing trendy items.
-Check the column Hikaru and I write. Okay?");
+MsgDisp("Michiru","And you have to make sure that you're
+wearing trendy items. Check the column
+Hikaru and I write. Okay?");
 MsgDisp("主人公","(The season and the trends......
 Let's be more careful from now on.)");

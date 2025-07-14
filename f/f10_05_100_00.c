@@ -13,9 +13,8 @@ VoicePlay("F100510000_48_000");
 MsgDisp("School Girl A","He's been like that 
 for a while now...");
 VoicePlay("F100510000_44_000");
-MsgDisp("School Girl B","What's up with Yanosuke-kun, 
-I wonder...? Is he feeling
-unwell?");
+MsgDisp("School Girl B","What's up with Yanosuke-kun, I wonder...?
+Is he feeling unwell?");
 MsgDisp("主人公","(Eh...｛柊＊＊＊｝?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -35,20 +34,20 @@ ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("F100510000_05_020");
-MsgDisp("Hiiragi","No, it is my own problem.
-No, it's my problem. I've wasted 
-precious time on nothing again.");
+MsgDisp("Hiiragi","No, it is my own problem. No, it's my
+problem. I've wasted precious time on
+nothing again.");
 VoicePlay("F100510000_05_030");
-MsgDisp("Hiiragi","I thought I'd study,
-opened my notebook and textbook,
-but then I just sat there in a daze...");
+MsgDisp("Hiiragi","I thought I'd study, opened my notebook
+and textbook, but then I just sat there in
+a daze...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","Ah, he left...");
-MsgDisp("主人公","(Working in a theater company 
-and studying for school is tough,
-isn't it... I wish I could help somehow.)");
+MsgDisp("主人公","(Working in a theater company and studying
+for school is tough, isn't it...
+I wish I could help somehow.)");
 MsgClose();
 ScrFadeOut(0,0);

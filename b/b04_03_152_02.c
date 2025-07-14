@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040315202_03_010");
-    MsgDisp("Honda","Once you've got your form solid,
-they say your score will follow too...
+    MsgDisp("Honda","Once you've got your form solid, they say
+your score will follow too...
 Well, I'm just saying what I've heard.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -28,8 +28,8 @@ Well, I'm just saying what I've heard.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040315202_03_020");
-    MsgDisp("Honda","They say\"You become good
-because you like it\", It's true huh.");
+    MsgDisp("Honda","They say\"You become good because you like
+it\", It's true huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -17,9 +17,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(8,0);
     ChCheek(8,3);
     VoicePlay("B040830000_08_010");
-    MsgDisp("Shirahane","Thanks.
-You said you were coming, so I got fired
-up in cleaning—! Hehe!");
+    MsgDisp("Shirahane","Thanks. You said you were coming, so I got
+fired up in cleaning—! Hehe!");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -33,8 +32,8 @@ up in cleaning—! Hehe!");
     ChMotion(8,0,1);
     VoicePlay("B040830000_08_020");
     MsgDisp("Shirahane","I wan't really aware of it...
-Well, both me and Nii-chan 
-are guys, after all.");
+Well, both me and Nii-chan are guys, after
+all.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

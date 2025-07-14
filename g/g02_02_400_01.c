@@ -4,23 +4,23 @@ VoicePlay("G020240001_02_000");
 MsgDisp("Sassa","I was asked by an acquaintance to walk
 their dogs, but there are times when I
 can't because of my training.");
-MsgDisp("主人公","I see. 
+MsgDisp("主人公","I see.
 That seems a bit lonely, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240001_02_010");
-MsgDisp("Sassa","Well, yeah. 
+MsgDisp("Sassa","Well, yeah.
 Each one of them are so cute.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240001_02_020");
 MsgDisp("Sassa","So the other day, I happened to run into
-them. The owner, an old man, was walking
-them.");
-MsgDisp("主人公","The doggies must have been 
-happy to see you huh?");
+them.
+The owner, an old man, was walking them.");
+MsgDisp("主人公","The doggies must have been happy to see
+you huh?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -34,16 +34,15 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020240001_02_040");
-MsgDisp("Sassa","Apparently.
-Because they're usually so quiet, 
-their explosiveness was incredible.");
+MsgDisp("Sassa","Apparently. Because they're usually so
+quiet, their explosiveness was incredible.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240001_02_050");
 MsgDisp("Sassa","We ended up running sprints along the
-beach. I lost count of how many we
-did......");
+beach.
+I lost count of how many we did......");
 MsgDisp("主人公","Hehe, seems fun.");
 ChEye(2,0);
 ChMouth(2,2);
@@ -64,8 +63,8 @@ ChMotion(2,3);
 VoicePlay("G020240001_02_080");
 MsgDisp("Sassa","So I ended up pushing myself even harder
 after my training......");
-MsgDisp("主人公","(The dogs must have had so much 
-fun training with ｛颯砂＊＊｝, huh!)");
+MsgDisp("主人公","(The dogs must have had so much fun
+training with ｛颯砂＊＊｝, huh!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

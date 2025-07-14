@@ -5,8 +5,8 @@ switch (ChPrmGet(2,6)){
     MsgClose();
     ChOpen(2,255,3,0,3,#1,#1,0,0);
     VoicePlay("W090200000_02_000");
-    MsgDisp("Sassa","Coasters are the best
-right before the big drop.");
+    MsgDisp("Sassa","Coasters are the best right before the big
+drop.");
     break ;
     case 3:
     MsgClose();

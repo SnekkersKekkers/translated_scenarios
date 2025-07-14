@@ -2,8 +2,8 @@ BGOpen("ev018",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("T022200000_22_000");
-MsgDisp("Hikaru?","Hehe!
-Did you come here following that legend?");
+MsgDisp("Hikaru?","Hehe! Did you come here following that
+legend?");
 MsgClear();
 SEPlay("EV_SE_872",0.5,0.5);
 Wait(15,0);
@@ -13,8 +13,7 @@ ChOpen(22,254,0,0,3,#1,#1,5,0);
 MsgDisp("主人公","Ah ｛ひかる＊｝!");
 ChMotion(22,4,1);
 VoicePlay("T022200000_22_010");
-MsgDisp("Hikaru","Hehehe.
-You're finally graduating.
+MsgDisp("Hikaru","Hehehe. You're finally graduating.
 Congratulations, Mari and Hikaru!");
 MsgDisp("主人公","Hehe!!");
 Wait(60,0);
@@ -35,7 +34,7 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_040");
-MsgDisp("Hikaru","It was truly a fulfilling time. 
+MsgDisp("Hikaru","It was truly a fulfilling time.
 It was the best time of my life!");
 MsgDisp("主人公","Right.");
 ChEye(22,0);
@@ -87,16 +86,16 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_110");
 MsgDisp("Hikaru","Really......thank you.");
-MsgDisp("主人公","｛ひかる＊｝......
-I'm also happy to have had so many 
-memories with ｛ひかる＊｝.");
+MsgDisp("主人公","｛ひかる＊｝...... I'm also happy to
+have had so many memories with
+｛ひかる＊｝.");
 ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,2,1);
 ChCheek(22,8);
 VoicePlay("T022200000_22_120");
-MsgDisp("Hikaru","Mari......
-Hikaru feels like she's going to cry......");
+MsgDisp("Hikaru","Mari...... Hikaru feels like she's going
+to cry......");
 MsgDisp("主人公","Hehe.
 Here's a handkerchief.");
 ChEye(22,2);
@@ -116,8 +115,8 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("T022200000_22_150");
-MsgDisp("Hikaru","I'm sorry for calling you\"Mari\"
-without permission when we first met.");
+MsgDisp("Hikaru","I'm sorry for calling you\"Mari\" without
+permission when we first met.");
 MsgDisp("主人公","Ah......that's right.
 Why was that?");
 ChEye(22,0);
@@ -133,8 +132,8 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("T022200000_22_170");
-MsgDisp("Hikaru","Ehehe.
-Hey, will we continue to be best friends?");
+MsgDisp("Hikaru","Ehehe. Hey, will we continue to be best
+friends?");
 MsgDisp("主人公","Of course!");
 ChEye(22,3);
 ChMouth(22,3);

@@ -15,9 +15,8 @@ switch (ChPrmGet(4,6)){
 We looked around a lot, not?");
     ChMotion(4,1,1);
     VoicePlay("Q080400001_04_010");
-    MsgDisp("Nanatsumori","True.
-Let's spend the next free period together 
-too.");
+    MsgDisp("Nanatsumori","True. Let's spend the next free period
+together too.");
     MsgDisp("主人公","Yeah, great idea!");
     break ;
     case 3:
@@ -33,8 +32,8 @@ I'm happy I could spent it with
 ｛七ツ森＊｝!");
     ChMotion(4,1,1);
     VoicePlay("Q080400001_04_030");
-    MsgDisp("Nanatsumori","Then, wanna spend the free 
-time the day after tomorrow together?");
+    MsgDisp("Nanatsumori","Then, wanna spend the free time the day
+after tomorrow together?");
     MsgDisp("主人公","Yes!");
     break ;
     case 4:

@@ -9,8 +9,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020110301_01_010");
 MsgDisp("Kazama","Since I came back, all the seasons've been
-familiar but new at the same time. It's
-really great.");
+familiar but new at the same time.
+It's really great.");
 MsgDisp("主人公","Yeah! When we're together, it's fun no
 matter where we go.");
 ChMotion(1,0);
@@ -28,8 +28,8 @@ ChMouth(1,3);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110301_01_030");
-MsgDisp("Kazama","Mm, it's all just kinda gray to me. I
-mean, yeah, there was fun stuff too.");
+MsgDisp("Kazama","Mm, it's all just kinda gray to me.
+I mean, yeah, there was fun stuff too.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -67,15 +67,16 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_080");
-MsgDisp("Kazama",".........No, there is just one thing
-that bothers me.");
+MsgDisp("Kazama",".........No, there is just one thing that
+bothers me.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,7);
 VoicePlay("G020110301_01_090");
 MsgDisp("Kazama","The pool......");
-MsgDisp("主人公","The pool......? Oh, that cute floatie?");
+MsgDisp("主人公","The pool......?
+Oh, that cute floatie?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -98,8 +99,9 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110301_01_120");
-MsgDisp("Kazama","C'mon, knock it off already. You thinking
-I'm cute doesn't make me happy.");
+MsgDisp("Kazama","C'mon, knock it off already.
+You thinking I'm cute doesn't make me
+happy.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -107,9 +109,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_130");
 MsgDisp("Kazama","(sigh) I wanna go to a timeline where I
 didn't borrow that floatie that day......");
-MsgDisp("主人公","(｛風真＊＊｝ using a floatie to stay above
-water...... might be something I want to
-see again.)");
+MsgDisp("主人公","(｛風真＊＊｝ using a floatie to stay
+above water......
+might be something I want to see again.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

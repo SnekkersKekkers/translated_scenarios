@@ -8,7 +8,7 @@ ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("D140501058_05_010");
-MsgDisp("Hiiragi","And, since it is a popular 
-menu item at \"Cafe Coral Reef\",
-it will surely be delicious.");
+MsgDisp("Hiiragi","And, since it is a popular menu item at
+\"Cafe Coral Reef\", it will surely be
+delicious.");
 ChMouth(5,4);

@@ -5,9 +5,9 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040710400_07_000");
-MsgDisp("Mikage","Travelling butterflies are 
-interesting insects. It's worth
-looking into them.");
+MsgDisp("Mikage","Travelling butterflies are interesting
+insects.
+It's worth looking into them.");
 MsgSel("Uugh, creepy.","It's like they're on a field trip.","They travel 4000 km∈");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040710400_07_010");
-    MsgDisp("Mikage","Well, tens of thousands of 
-them are a bit much, right?");
+    MsgDisp("Mikage","Well, tens of thousands of them are a bit
+much, right?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -38,8 +38,8 @@ It must be wonderful.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040710400_07_030");
-    MsgDisp("Mikage","I wonder where in that small body 
-do they have all that energy?");
+    MsgDisp("Mikage","I wonder where in that small body do they
+have all that energy?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

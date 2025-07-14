@@ -10,7 +10,7 @@ ChMotion(3,3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360318001_03_000");
-MsgDisp("Honda","I heard the caramel popcorn here is super 
+MsgDisp("Honda","I heard the caramel popcorn here is super
 good!");
 ChEye(3,0);
 ChMouth(3,0);
@@ -28,22 +28,23 @@ MsgDisp("主人公","No, the popcorn here is just really
 popular.");
 ChMouth(3,4);
 VoicePlay("B360318001_03_030");
-MsgDisp("Honda","I see... wait a second.");
+MsgDisp("Honda","I see...
+wait a second.");
 MsgDisp("主人公","What's wrong?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360318001_03_040");
-MsgDisp("Honda","I just pictured you and Mii-kun eating 
-popcorn together, and it made me feel... 
+MsgDisp("Honda","I just pictured you and Mii-kun eating
+popcorn together, and it made me feel...
 uneasy.");
 MsgDisp("主人公","What?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B360318001_03_050");
-MsgDisp("Honda","Is this... jealousy? It's weird, right? 
-I mean, we're alone together.");
+MsgDisp("Honda","Is this... jealousy? It's weird, right? I
+mean, we're alone together.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -56,8 +57,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360318001_03_070");
 MsgDisp("Honda","It's actually kind of fascinating.");
-MsgDisp("主人公","(Uh, ｛本多＊＊｝... what about the 
-movie?)");
+MsgDisp("主人公","(Uh, ｛本多＊＊｝... what about the movie?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

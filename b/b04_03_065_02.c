@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040306502_03_000");
 MsgDisp("Honda","A hidden gem.
 We have the best spot this year!");
-MsgSel("As expected of｛本多＊＊｝!","We got to hear the \"boom!\" up close","It seems like there's a lot of mosquitoes huh?");
+MsgSel("As expected of ｛本多＊＊｝!","We got to hear the \"boom!\" up close","It seems like there's a lot of mosquitoes huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("B040306502_03_010");
-    MsgDisp("Honda","The kids I'm acquainted
-with told me about this place.");
+    MsgDisp("Honda","The kids I'm acquainted with told me about
+this place.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ with told me about this place.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040306502_03_020");
-    MsgDisp("Honda","Yeah. It was so powerful,
-it reverberated in my stomach.");
+    MsgDisp("Honda","Yeah. It was so powerful, it reverberated
+in my stomach.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +46,8 @@ it reverberated in my stomach.");
         ChMotion(3,2);
         VoicePlay("B040306502_03_030");
         MsgDisp("Honda","A trade off for the large-flowered
-fireworks. We can't have everything and
-anything.");
+fireworks.
+We can't have everything and anything.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -81,12 +81,12 @@ This is lemongrass.");
         ChMouth(3,3);
         ChMotion(3,3);
         VoicePlay("B040306502_03_060");
-        MsgDisp("Honda","Yep yep. It's a herb with insect-repellent
-effects. My own specially mixed, original
-cocktail!");
-        MsgDisp("主人公","Amazing! It has a nice smell, 
-and mosquitoes won't go near it.
-｛本多＊＊｝, thank you.");
+        MsgDisp("Honda","Yep yep.
+It's a herb with insect-repellent effects.
+My own specially mixed, original cocktail!");
+        MsgDisp("主人公","Amazing! It has a nice smell, and
+mosquitoes won't go near it. ｛本多＊＊｝,
+thank you.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);
@@ -104,15 +104,15 @@ Do you feel anything else?");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040306502_03_090");
-        MsgDisp("Honda","There's a possibility the components
-of lemongrass have an effect
-of a love potion.");
+        MsgDisp("Honda","There's a possibility the components of
+lemongrass have an effect of a love
+potion.");
         MsgDisp("主人公","Eehhh!");
         ChSet(3,4);
         ChCheek(3,10);
         VoicePlay("B040306502_03_100");
-        MsgDisp("Honda","I was wondering if
-you'd fall in love with me.");
+        MsgDisp("Honda","I was wondering if you'd fall in love with
+me.");
         MsgDisp("主人公","You don't have to do that...");
         MsgClose();
         SEPlay("EV_SE_628");

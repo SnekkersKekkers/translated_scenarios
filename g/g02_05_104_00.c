@@ -19,9 +19,8 @@ MsgDisp("Hiiragi","I am aware of the reason.
 It is you.");
 ChMotion(5,2);
 VoicePlay("G020510400_05_030");
-MsgDisp("Hiiragi","Watching the fireflies,
-In the midst of so many,
-I wonder if I can be chosen by you.");
+MsgDisp("Hiiragi","Watching the fireflies, In the midst of so
+many, I wonder if I can be chosen by you.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510400_05_040");
 MsgDisp("Hiiragi","That sort of impatience wells up from
@@ -33,7 +32,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510400_05_050");
 MsgDisp("Hiiragi","The fireflies are doing their best too.
-I need to shine brightly as well. 
+I need to shine brightly as well.
 So that you might choose me.");
 MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,4);
@@ -43,11 +42,11 @@ a beautiful scenery, maybe that's when
 I'll have gained confidence in myself?");
 ChMotion(5,4);
 VoicePlay("G020510400_05_070");
-MsgDisp("Hiiragi","For now it's no good. It appears I'm
-emotionally invested in a single
-firefly...");
-MsgDisp("主人公","(Today, I have a feeling ｛柊＊＊＊｝
-is different to usual......)");
+MsgDisp("Hiiragi","For now it's no good.
+It appears I'm emotionally invested in a
+single firefly...");
+MsgDisp("主人公","(Today, I have a feeling ｛柊＊＊＊｝ is
+different to usual......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

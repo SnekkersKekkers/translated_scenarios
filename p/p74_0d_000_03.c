@@ -10,8 +10,8 @@ ChOpen(21,254,4,4,4,#1,#1,0,1);
 ChOpen(22,254,0,2,2,#1,#1,0,2);
 VoicePlay("P740D00003_21_000");
 MsgDisp("Michiru","Good work.
-I guess it was a bit hard 
-to walk in that dress?");
+I guess it was a bit hard to walk in that
+dress?");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,0,1);
@@ -32,9 +32,9 @@ VoicePlay("P740D00003_22_010");
 MsgDisp("Hikaru","Right, right.
 Mari is most important.
 Right, sis?");
-MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝...
-I should have prepared a 
-bit more thoroughly....");
+MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝... I
+should have prepared a bit more
+thoroughly....");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

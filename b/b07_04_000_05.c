@@ -14,8 +14,8 @@ ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("B070400000_04_280");
 MsgDisp("Nanatsumori","It's about time I tell...
-No, I can't. These things need
-to be done in order.");
+No, I can't.
+These things need to be done in order.");
 ChEye(4,1);
 ChMouth(4,0);
 VoicePlay("B070400000_04_290");
@@ -31,9 +31,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B070400000_04_310");
-MsgDisp("Nanatsumori","Right right.
-One of those hobbies is photography.
-ＯＫ?");
+MsgDisp("Nanatsumori","Right right. One of those hobbies is
+photography. ＯＫ?");
 SEPlay("EV_SE_045");
 SEWait();
 ChEye(4,0);
@@ -43,13 +42,14 @@ VoicePlay("B070400000_04_320");
 MsgDisp("Nanatsumori","Save complete.
 Yes, good work～");
 MsgDisp("主人公","Ah, hey!
-I must've been making a really
-weird face just now∋");
+I must've been making a really weird face
+just now∋");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_330");
-MsgDisp("Nanatsumori","No, no. It was the best.
+MsgDisp("Nanatsumori","No, no.
+It was the best.
 I think I'll make this my wallpaper.");
 MsgDisp("主人公","(That's... embarrassing～!)");
 BGMStop();

@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040630001_06_010");
-    MsgDisp("Himuro","I thought you'd say that, 
-so I prepared some beforehand.
+    MsgDisp("Himuro","I thought you'd say that, so I prepared
+some beforehand.
 Wait a moment.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
@@ -29,8 +29,8 @@ Wait a moment.");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("B040630001_06_020");
-    MsgDisp("Himuro","I do. Could it be
-that you like it too?");
+    MsgDisp("Himuro","I do.
+Could it be that you like it too?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

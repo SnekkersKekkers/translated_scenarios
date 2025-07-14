@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208300_02_000");
-MsgDisp("Sassa","Since it's this hot, 
-won't the fireflies be defeated too?");
+MsgDisp("Sassa","Since it's this hot, won't the fireflies
+be defeated too?");
 MsgSel("Will they be alright...?","I can't wait for nighttime","It's more refreshing here than elsewhere though?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ this time happily at least.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040208300_02_020");
-    MsgDisp("Sassa","Somewhat, 
-it's like you've become a firefly.");
+    MsgDisp("Sassa","Somewhat, it's like you've become a
+firefly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

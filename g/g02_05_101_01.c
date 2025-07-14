@@ -21,12 +21,14 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020510101_05_030");
 MsgDisp("Hiiragi","Speaking of having something to
-oneself...... You're not just mine either?");
+oneself......
+You're not just mine either?");
 MsgDisp("主人公","｛柊＊＊＊｝......?");
 ChEye(5,4);
 VoicePlay("G020510101_05_040");
-MsgDisp("Hiiragi","But I believe I'm the closest
-person to you. Am I right?");
+MsgDisp("Hiiragi","But I believe I'm the closest person to
+you.
+Am I right?");
 MsgDisp("主人公","Umm......");
 ChMotion(5,4);
 VoicePlay("G020510101_05_050");

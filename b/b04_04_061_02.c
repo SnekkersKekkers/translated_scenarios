@@ -36,8 +36,8 @@ I'll keep watch from here.");
         ChMouthOpenLevel(4,0);
         VoicePlay("B040406102_04_030");
         MsgDisp("Nanatsumori","............");
-        MsgDisp("主人公","Um, if you dislike it, how about 
-we do something else?");
+        MsgDisp("主人公","Um, if you dislike it, how about we do
+something else?");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040406102_04_040");
@@ -52,9 +52,8 @@ Let's swim. ＧＯ!");
 tan, It'll affect my modelling work, so
 I've been told to avoid this kind of
 thing.");
-        MsgDisp("主人公","Ah... I see.
-I'm sorry for not taking
-that into consideration.");
+        MsgDisp("主人公","Ah... I see. I'm sorry for not taking that
+into consideration.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);
@@ -79,9 +78,9 @@ tan.");
         ChMouth(4,3);
         ChMotion(4,3,1);
         VoicePlay("B040406102_04_090");
-        MsgDisp("Nanatsumori","We'll look like a couple, 
-But I'll just accept it for today.
-It's a date after all, right? ");
+        MsgDisp("Nanatsumori","We'll look like a couple, But I'll just
+accept it for today.
+It's a date after all, right?");
         MsgDisp("主人公","(｛七ツ森＊｝...)");
         break ;
         default :
@@ -95,9 +94,9 @@ It's a date after all, right? ");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040406102_04_100");
-    MsgDisp("Nanatsumori","That's a weird way to put it, 
-but I agree. Let's bury ourselves 
-in the sand and take a nap.");
+    MsgDisp("Nanatsumori","That's a weird way to put it, but I agree.
+Let's bury ourselves in the sand and take
+a nap.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -107,9 +106,9 @@ in the sand and take a nap.");
     ChEye(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040406102_04_110");
-    MsgDisp("Nanatsumori","What do you mean
-by playing in the water? Well it'll
-probably be better than swimming...");
+    MsgDisp("Nanatsumori","What do you mean by playing in the water?
+Well it'll probably be better than
+swimming...");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

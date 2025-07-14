@@ -6,7 +6,8 @@ ChMouth(3,1);
 ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B040315102_03_000");
-MsgDisp("Honda","Oh, the no. 7 and 10 pins are still left.");
+MsgDisp("Honda","Oh, the no.
+7 and 10 pins are still left.");
 MsgSel("Everyone has days like this.","It's tough even for pros?","Let's knock down one for sure.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,9 +30,9 @@ switch (MsgSelRsltGet()){
         DateRateSet(1);
         ChSet(3,2);
         VoicePlay("B040315102_03_020");
-        MsgDisp("Honda","Hah... official records say it's 
-less common than a perfect game. 
-Ah, it's impossible...");
+        MsgDisp("Honda","Hah... official records say it's less
+common than a perfect game. Ah, it's
+impossible...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -48,7 +49,8 @@ Ah, it's impossible...");
         ChMotion(3,4);
         VoicePlay("B040315102_03_040");
         MsgDisp("Honda","When you say that, I start to feel
-confident. You're good at influencing me.");
+confident.
+You're good at influencing me.");
         MsgDisp("主人公","I didn't mean to?");
         ChEye(3,4);
         ChMouth(3,4);
@@ -81,8 +83,9 @@ That I can do it.");
         SEPlay("EV_SE_544");
         ChOpen(3,255,5,3,3,#1,#1,0,0);
         VoicePlay("B040315102_03_080");
-        MsgDisp("Honda","That's incredible! The odds of me knocking
-down a split 7 and 10 are astronomical!");
+        MsgDisp("Honda","That's incredible!
+The odds of me knocking down a split 7 and
+10 are astronomical!");
         MsgDisp("主人公","It's 'cause you're skilled, ｛本多＊＊｝.");
         ChEye(3,3);
         ChMouth(3,3);

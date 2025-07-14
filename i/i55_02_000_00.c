@@ -5,8 +5,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Welcome!
-Ah, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Welcome! Ah, ｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,0,#1,#1,0,0);
@@ -25,16 +24,15 @@ Did you need something today?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I550200000_02_020");
-    MsgDisp("Sassa","Right, my place is going to have
-some guests over soon, so I was asked
-to get some snacks.");
+    MsgDisp("Sassa","Right, my place is going to have some
+guests over soon, so I was asked to get
+some snacks.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I550200000_02_030");
-    MsgDisp("Sassa","Hm......
-Seasonal snacks for three, please.
-I'll leave it to you.");
+    MsgDisp("Sassa","Hm...... Seasonal snacks for three,
+please. I'll leave it to you.");
     MsgDisp("主人公","Yes.
 Please wait a little.");
     ChEye(2,0);
@@ -49,8 +47,8 @@ Ah, were you okay with sweets?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I550200000_02_050");
-    MsgDisp("Sassa","Me?
-I'll eat anything as long as it's good.");
+    MsgDisp("Sassa","Me? I'll eat anything as long as it's
+good.");
     MsgDisp("主人公","Hehe, it's all delicious.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -71,8 +69,8 @@ tastes......!)");
     ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("I550200000_02_080");
     MsgDisp("Sassa","Ooh, you're working hard.");
-    MsgDisp("主人公","Hehe, are you looking
-for something in particular?");
+    MsgDisp("主人公","Hehe, are you looking for something in
+particular?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -94,43 +92,42 @@ Please follow me.");
     ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoicePlay("I550200000_02_100");
     MsgDisp("Sassa","Thanks for the food.
-It was good. I liked the matcha.");
+It was good.
+I liked the matcha.");
     MsgDisp("主人公","How were the dango?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I550200000_02_110");
     MsgDisp("Sassa","They were a little small for me.
-But, I guess that's what Japanese
-sweets are about.");
+But, I guess that's what Japanese sweets
+are about.");
     MsgDisp("主人公","Y-Yeah......");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I550200000_02_120");
-    MsgDisp("Sassa","I'll grab something to eat
-on my way home.
-See you. Thanks for the food!");
+    MsgDisp("Sassa","I'll grab something to eat on my way home.
+See you.
+Thanks for the food!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(｛颯砂＊＊｝...... did the small
-amount of food just serve as
-an appetizer?)");
+    MsgDisp("主人公","(｛颯砂＊＊｝...... did the small amount of
+food just serve as an appetizer?)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-Welcome.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I550200000_02_130");
-    MsgDisp("Sassa","｛主人公｝,
-you're working hard again today, huh.");
+    MsgDisp("Sassa","｛主人公｝, you're working hard again
+today, huh.");
     MsgDisp("主人公","Yes, what are you looking for
 today?");
     ChEye(2,0);
@@ -145,21 +142,20 @@ So I just ended up coming.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("I550200000_02_150");
-    MsgDisp("Sassa","......Hm?
-I realized this as I was saying it,
-but aren't my actions kinda bad?");
+    MsgDisp("Sassa","......Hm? I realized this as I was saying
+it, but aren't my actions kinda bad?");
     MsgDisp("主人公","Huh, I don't think so.
 You came to check on me, right?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I550200000_02_160");
-    MsgDisp("Sassa","If you say that, then it's fine, but
-A big guy like me coming to a store like
-this for no reason...... isn't it weird?");
-    MsgDisp("主人公","Not at all, the manager would be
-happy that you came in for no reason. We
-have a lot of single male customers, too.");
+    MsgDisp("Sassa","If you say that, then it's fine, but A big
+guy like me coming to a store like this
+for no reason...... isn't it weird?");
+    MsgDisp("主人公","Not at all, the manager would be happy
+that you came in for no reason. We have a
+lot of single male customers, too.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -169,9 +165,9 @@ have a lot of single male customers, too.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I550200000_02_180");
-    MsgDisp("Sassa","Got it. Then I'll have something
-to eat. Please give me something with
-volume and matcha.");
+    MsgDisp("Sassa","Got it. Then I'll have something to eat.
+Please give me something with volume and
+matcha.");
     MsgDisp("主人公","(｛颯砂＊＊｝ really cares about my
 part-time job.
 That makes me happy.)");

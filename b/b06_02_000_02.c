@@ -21,8 +21,7 @@ Thank you.");
     ChMotion(2,4,1);
     ScrFadeIn(0);
     VoicePlay("B060200002_02_010");
-    MsgDisp("Sassa","Thanks!
-That was a nice change of pace.
+    MsgDisp("Sassa","Thanks! That was a nice change of pace.
 I'll invite you out next time.");
     MsgDispSksp(0);
     break ;
@@ -36,8 +35,8 @@ I'll invite you out next time.");
     ScrFadeIn(0);
     VoicePlay("B060200002_02_020");
     MsgDisp("Sassa","Something like this is good.
-Let's go again sometime! Next time, I'll
-invite you.");
+Let's go again sometime!
+Next time, I'll invite you.");
     MsgDispSksp(0);
     break ;
     default :

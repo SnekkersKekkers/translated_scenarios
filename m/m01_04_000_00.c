@@ -11,8 +11,7 @@ ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("M010400000_04_000");
 MsgDisp("Nanatsumori","If you're asking about her, I just
 finished introducing myself.");
-MsgDisp("主人公","｛七ツ森＊｝∋
-Why......");
+MsgDisp("主人公","｛七ツ森＊｝∋ Why......");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -42,20 +41,19 @@ VoicePlay("M010400000_04_040");
 MsgDisp("Nanatsumori","............");
 ChMouthOpenLevel(4,#1);
 VoicePlay("M010400000_04_050");
-MsgDisp("Nanatsumori","When you're not at school,
-it's like the sound's left the world,
-it feels too quiet.");
+MsgDisp("Nanatsumori","When you're not at school, it's like the
+sound's left the world, it feels too
+quiet.");
 ChMotion(4,2,1);
 VoicePlay("M010400000_04_060");
-MsgDisp("Nanatsumori","I could feel all over again
-how big your existence is
-inside of me.");
+MsgDisp("Nanatsumori","I could feel all over again how big your
+existence is inside of me.");
 MsgDisp("主人公","｛七ツ森＊｝......");
 ChMotion(4,1,1);
 VoiceEVSPlay(4);
 VoicePlay("M010400000_04_070");
-MsgDisp("Nanatsumori","｛主人公｝.
-Next week, think you'll be able to come?");
+MsgDisp("Nanatsumori","｛主人公｝. Next week, think you'll be
+able to come?");
 MsgDisp("主人公","Mm.
 I'm better now.
 Thanks for worrying.");
@@ -74,8 +72,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("M010400000_04_100");
-MsgDisp("Nanatsumori","Good.
-Next week I'll be waiting at school.
+MsgDisp("Nanatsumori","Good. Next week I'll be waiting at school.
 Let me hear your energetic voice.");
 ChEye(4,4);
 ChMouth(4,3);

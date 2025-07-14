@@ -45,8 +45,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040201102_02_030");
-        MsgDisp("Sassa","I don't think so, but I think
-they probably have days like that.
+        MsgDisp("Sassa","I don't think so, but I think they
+probably have days like that.
 Couple only days.");
         MsgDisp("主人公","Eh, what if its like that
 today......");
@@ -57,15 +57,15 @@ today......");
         VoicePlay("B040201102_02_040");
         MsgDisp("Sassa","It's not a big deal, right?
 It's not like there's a certificate.");
-        MsgDisp("主人公","That's true, proving it
-would be difficult, I guess.");
+        MsgDisp("主人公","That's true, proving it would be
+difficult, I guess.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040201102_02_050");
         MsgDisp("Sassa","I guess......
-It's not like I'm going to do that
-in public......");
+It's not like I'm going to do that in
+public......");
         MsgDisp("主人公","In public?");
         ChEye(2,0);
         ChMouth(2,0);
@@ -79,8 +79,7 @@ I mean, unless you want me to show you...?");
         ChEyeOpenLevel(2,7);
         VoicePlay("B040201102_02_070");
         MsgDisp("Sassa","That's not right either......");
-        MsgDisp("主人公","(｛颯砂＊＊｝ seems
-troubled......)");
+        MsgDisp("主人公","(｛颯砂＊＊｝ seems troubled......)");
         break ;
         default :
         DbgAssert(1);

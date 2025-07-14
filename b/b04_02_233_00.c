@@ -39,8 +39,8 @@ Next time just watch from below.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223300_02_030");
-    MsgDisp("Sassa","Yeah, this was born as a ritual,
-and changed into an attraction.
+    MsgDisp("Sassa","Yeah, this was born as a ritual, and
+changed into an attraction.
 It's super interesting.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321101_03_000");
 MsgDisp("Honda","They're all packed out today.
-Let's be efficient in 
-seeing lots of things!");
+Let's be efficient in seeing lots of
+things!");
 MsgSel("Seems like the reptile zone is empty.","The naked mole rat is an amazing name huh?","There's a new born corner?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,10 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("B040321101_03_010");
-    MsgDisp("Honda","Really?
-Reptiles are so interesting though.
-Then, let's set off for the
-giant tortoise pasture!");
+    MsgDisp("Honda","Really? Reptiles are so interesting
+though. Then, let's set off for the giant
+tortoise pasture!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,9 +30,9 @@ giant tortoise pasture!");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("B040321101_03_020");
-    MsgDisp("Honda","There it is～, the naked mole rat.
-Well, I'm purely interested. Even though
-it's a mouse it can live for 30 years～");
+    MsgDisp("Honda","There it is～, the naked mole rat. Well,
+I'm purely interested. Even though it's a
+mouse it can live for 30 years～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

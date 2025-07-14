@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(6,255,0,3,3,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623301_06_000");
-MsgDisp("Himuro","It feels like you're 
-challenging your limits.
+MsgDisp("Himuro","It feels like you're challenging your
+limits.
 It's great, isn't it?");
 MsgSel("I can't understand it...","I may have surpassed my limits!","I want to surpass them in a different way");
 switch (MsgSelRsltGet()){
@@ -29,8 +29,8 @@ trying to understand?");
     ChEyeOpenLevel(6,0);
     VoicePlay("B040623301_06_020");
     MsgDisp("Himuro","That's right.
-With this, let's go beyond 
-our limits together.");
+With this, let's go beyond our limits
+together.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,7 +41,7 @@ our limits together.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623301_06_030");
-    MsgDisp("Himuro","In another way you say... 
+    MsgDisp("Himuro","In another way you say...
 Like skydiving?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

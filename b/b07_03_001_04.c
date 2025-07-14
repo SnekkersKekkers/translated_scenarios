@@ -1,6 +1,6 @@
-MsgDisp("主人公","Lately, I've been seeing you, ｛風真＊＊｝,
-and ｛七ツ森＊｝ together a lot. What do
-you guys talk about?");
+MsgDisp("主人公","Lately, I've been seeing you,
+｛風真＊＊｝, and ｛七ツ森＊｝ together
+a lot. What do you guys talk about?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -17,8 +17,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300001_03_240");
-MsgDisp("Honda","But, well, we don't really talk about 
-that stuff.");
+MsgDisp("Honda","But, well, we don't really talk about that
+stuff.");
 MsgDisp("主人公","Really? Now I'm even more curious...");
 ChEye(3,4);
 ChMouth(3,0);
@@ -36,8 +36,9 @@ respond properly, though.");
 MsgDisp("主人公","Hehe, I can imagine that.");
 ChSet(3,3);
 VoicePlay("B070300001_03_270");
-MsgDisp("Honda","Oh, I remember now! We talk about you a
-lot when we're together.");
+MsgDisp("Honda","Oh, I remember now!
+We talk about you a lot when we're
+together.");
 MsgDisp("主人公","Huh?!");
 ChEye(3,4);
 ChMouth(3,4);

@@ -40,10 +40,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B330B20301_03_010");
-MsgDisp("Honda","The yellow bananas we normally
-eat are green at harvest.
-If you let them ripen more,
-they'll be delicious.");
+MsgDisp("Honda","The yellow bananas we normally eat are
+green at harvest. If you let them ripen
+more, they'll be delicious.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -54,10 +53,10 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("B330B20301_03_020");
-MsgDisp("Honda","If they ripen too much on the
-tree, they'll lose their flavor, 
-but I wonder about these ones. Ah, you 
-can't just pick them as you like okay?");
+MsgDisp("Honda","If they ripen too much on the tree,
+they'll lose their flavor, but I wonder
+about these ones. Ah, you can't just pick
+them as you like okay?");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -73,10 +72,10 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20301_04_040");
-MsgDisp("Nanatsumori","Who would be happy to 
-take a picture of a banana?");
-MsgDisp("主人公","Hey, it says there's a 
-tasting corner over there?");
+MsgDisp("Nanatsumori","Who would be happy to take a picture of a
+banana?");
+MsgDisp("主人公","Hey, it says there's a tasting corner over
+there?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -87,8 +86,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B20301_01_020");
-MsgDisp("Kazama","It says it's the fruits harvested
-at this botanical garden.");
+MsgDisp("Kazama","It says it's the fruits harvested at this
+botanical garden.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

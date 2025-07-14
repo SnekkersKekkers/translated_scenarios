@@ -7,9 +7,9 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040323602_03_000");
-MsgDisp("Honda","That tuna man has been flocking
-around in front of us for a while.");
-MsgSel("Does he have business with｛本多＊＊｝?","Is he｛本多＊＊｝'s acquaintance?'","Does he want to dance with us?");
+MsgDisp("Honda","That tuna man has been flocking around in
+front of us for a while.");
+MsgSel("Does he have business with ｛本多＊＊｝?","Is he ｛本多＊＊｝'s acquaintance?'","Does he want to dance with us?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){
@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040323602_03_010");
-        MsgDisp("Honda","Eh, I don't have any 
-business with him though?");
+        MsgDisp("Honda","Eh, I don't have any business with him
+though?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -49,9 +49,8 @@ aquarium, so I told the caretaker.");
         VoicePlay("B040323602_03_040");
         MsgDisp("Honda","He definitely remembers me, so he's
 showing me a dance as a thanks.");
-        MsgDisp("主人公","Hehe.
-It's like a mix of the \"Grateful Crane\" 
-and Urashima Taro.");
+        MsgDisp("主人公","Hehe. It's like a mix of the \"Grateful
+Crane\" and Urashima Taro.");
         ChFace(3,4);
         ChMotion(3,0);
         VoicePlay("B040323602_03_050");
@@ -63,15 +62,14 @@ that time must be you.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040323602_03_060");
-        MsgDisp("Honda","After all, the crane becomes a
-beautiful woman and appears
-before her benefactor right?");
+        MsgDisp("Honda","After all, the crane becomes a beautiful
+woman and appears before her benefactor
+right?");
         ChMouth(3,3);
         ChCheek(3,8);
         VoicePlay("B040323602_03_070");
-        MsgDisp("Honda","Well, in my surroundings, 
-the beautiful woman that 
-appears before me is you. ");
+        MsgDisp("Honda","Well, in my surroundings, the beautiful
+woman that appears before me is you.");
         MsgDisp("主人公","｛本多＊＊｝...");
         ChEye(3,3);
         ChMouth(3,3);
@@ -79,9 +77,9 @@ appears before me is you. ");
         ChEyeOpenLevel(3,0);
         ChCheek(3,0);
         VoicePlay("B040323602_03_080");
-        MsgDisp("Honda","Well instead of weaving, 
-can you cook me something that's 
-full of docosahexaenoic acid? ");
+        MsgDisp("Honda","Well instead of weaving, can you cook me
+something that's full of docosahexaenoic
+acid?");
         MsgDisp("主人公","(Let's take on the challenge...)");
         break ;
         default :

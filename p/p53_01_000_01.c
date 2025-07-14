@@ -18,21 +18,22 @@ than last year. Ah, I'm nervous......)");
     VoiceEVSPlay(1);
     VoicePlay("P530100001_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-Did you come to support us?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. Did you come to support
+us?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("P530100001_01_010");
-    MsgDisp("Kazama","Wow, this is a huge success. Surely,
-there's no way we can make a mistake here
-right?");
+    MsgDisp("Kazama","Wow, this is a huge success.
+Surely, there's no way we can make a
+mistake here right?");
     MsgDisp("主人公","Ah, No......");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("P530100001_01_020");
-    MsgDisp("Kazama","Oh, hey. I was just kidding.");
+    MsgDisp("Kazama","Oh, hey.
+I was just kidding.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -53,8 +54,7 @@ if you make a small mistake.");
     VoicePlay("P530100001_01_050");
     MsgDisp("Kazama","Everyone, just think of these as
 vegetables grown by Mikage-sensei, okay?");
-    MsgDisp("主人公","Huh?
-Hehe, then ｛風真＊＊｝ too?");
+    MsgDisp("主人公","Huh? Hehe, then ｛風真＊＊｝ too?");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,3);
@@ -70,8 +70,8 @@ Hehe, then ｛風真＊＊｝ too?");
     MsgDisp("Kazama","Think everyone else as vegetables, and go
 harvest them okay?");
     MsgDisp("主人公","Hehe, yeah!");
-    MsgDisp("主人公","(Alright, ｛風真＊＊｝ thanks to that,
-I think I was able to relax a bit?
+    MsgDisp("主人公","(Alright, ｛風真＊＊｝ thanks to that, I
+think I was able to relax a bit?
 I'll do my bestー!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -90,8 +90,7 @@ last year. Ah, I'm nervous......)");
     ChOpen(1,254,0,4,2,#1,#1,0,0);
     VoicePlay("P530100001_01_080");
     MsgDisp("Kazama","As expected.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-What did you expect?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. What did you expect?");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -108,8 +107,8 @@ What did you expect?");
     ChMotion(1,0);
     VoicePlay("P530100001_01_110");
     MsgDisp("Kazama","A strong sense of responsibility is one of
-your great points. Everyone has been
-practicing, aren't they?");
+your great points.
+Everyone has been practicing, aren't they?");
     MsgDisp("主人公","I see, that's right.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -121,9 +120,11 @@ practicing, aren't they?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("P530100001_01_130");
-    MsgDisp("Kazama","Well, I guess I'd prefer your solo concert though.");
+    MsgDisp("Kazama","Well, I guess I'd prefer your solo concert
+though.");
     MsgDisp("主人公","Hehe, thank you, ｛風真＊＊｝.
-Thanks to you, I think I will be able to play well!");
+Thanks to you, I think I will be able to
+play well!");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(1,0);

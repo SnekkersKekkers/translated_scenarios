@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040205100_02_010");
-    MsgDisp("Sassa","Really?
-I couldn't relax. It felt like something
-could be hidden in the dark. ");
+    MsgDisp("Sassa","Really? I couldn't relax. It felt like
+something could be hidden in the dark.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -26,8 +25,8 @@ could be hidden in the dark. ");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040205100_02_020");
-    MsgDisp("Sassa","Eh? You must have heard someone
-else. I can't sleep when it's this dark.");
+    MsgDisp("Sassa","Eh? You must have heard someone else. I
+can't sleep when it's this dark.");
     MsgDateResultDisp();
     break ;
     case 2:

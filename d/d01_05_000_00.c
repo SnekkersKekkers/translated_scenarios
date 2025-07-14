@@ -3,10 +3,11 @@ ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's from Habacha's Editorial
-Department. It says......");
-MsgDisp("主人公","(\"You received permission to
-interview the Habataki Theater Company\"
-......Alright, let's go!)");
+Department.
+It says......");
+MsgDisp("主人公","(\"You received permission to interview the
+Habataki Theater Company\" ......Alright,
+let's go!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -23,8 +24,8 @@ VoicePlay("D010500000_47_000");
 MsgDisp("Woman Customer B","Yeah, he was lovely～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(It looks like the play just finished.
-｛柊＊＊＊｝ was really popular. Now, where
-are the dressing rooms......?)");
+｛柊＊＊＊｝ was really popular.
+Now, where are the dressing rooms......?)");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("wf411",0);
@@ -48,8 +49,7 @@ StlMouth(5,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D010500000_05_010");
-MsgDisp("Hiiragi","｛主人公｝.
-What are you doing here?");
+MsgDisp("Hiiragi","｛主人公｝. What are you doing here?");
 MsgDisp("主人公","Eh......｛柊＊＊＊｝, is that you?");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500000_05_020");
@@ -70,8 +70,8 @@ StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500000_05_050");
 MsgDisp("Hiiragi","Haha, that's the spirit.
-Wait a minute. I'll change my clothes
-and come back.");
+Wait a minute.
+I'll change my clothes and come back.");
 MsgDisp("主人公","Okay......!");
 MsgClose();
 ScrFadeOut(0,0);
@@ -83,7 +83,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛柊＊＊＊｝ as a woman looks lovely......
+MsgDisp("主人公","(｛柊＊＊＊｝ as a woman looks
+lovely......
 He was so beautiful it made me nervous.)");
 VoicePlay("D010500000_05_060");
 MsgDisp("Hiiragi","Excuse me.
@@ -114,8 +115,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500000_05_090");
 MsgDisp("Hiiragi","Because of that honesty, I will answer
-anything you want as long as time
-permits.");
+anything you want as long as time permits.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

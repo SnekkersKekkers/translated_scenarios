@@ -35,7 +35,8 @@ but also pretty bad.");
         VoiceEVSPlay(7);
         VoicePlay("B040703102_07_020");
         MsgDisp("Mikage","｛主人公｝, stay here for a bit.");
-        MsgDisp("主人公","Y-Yes. I'm sorry.");
+        MsgDisp("主人公","Y-Yes.
+I'm sorry.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,4);
@@ -61,17 +62,16 @@ It's a waste.");
         ChMouth(7,3);
         ChMotion(7,2);
         VoicePlay("B040703102_07_050");
-        MsgDisp("Mikage","I'm also constantly apologising to 
+        MsgDisp("Mikage","I'm also constantly apologising to
 Vice-Principal Himuro, after all.");
         MsgDisp("主人公","Hehe.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,0);
         VoicePlay("B040703102_07_060");
-        MsgDisp("Mikage","That's right. You should laugh.
-You shouldn't apologize so excessively.
-Only apologize when it's
-absolutely necessary.");
+        MsgDisp("Mikage","That's right. You should laugh. You
+shouldn't apologize so excessively. Only
+apologize when it's absolutely necessary.");
         MsgDisp("主人公","Yes.");
         ChEye(7,0);
         ChMouth(7,0);
@@ -84,8 +84,8 @@ absolutely necessary.");
         VoicePlay("B040703102_07_080");
         MsgDisp("Mikage","I'll buy you a Giant Isopod pen set.");
         MsgDisp("主人公","(｛御影＊＊｝ is kind.
-...But let's be more careful 
-about forgetting things.)");
+...But let's be more careful about
+forgetting things.)");
         break ;
         default :
         DbgAssert(1);

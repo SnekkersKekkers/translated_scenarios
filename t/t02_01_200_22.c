@@ -8,8 +8,8 @@ What's wrong?");
 ChEye(1,3);
 MsgDisp("主人公","I'm sorry,
 I can't put it into words......");
-MsgDisp("主人公","Thank you for always thinking of me. I
-also like ｛風真＊＊｝.");
+MsgDisp("主人公","Thank you for always thinking of me.
+I also like ｛風真＊＊｝.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -28,7 +28,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("T020120000_01_550");
-MsgDisp("Kazama","What should I tell Sassa and Inori? 
+MsgDisp("Kazama","What should I tell Sassa and Inori?
 About your passionate hug.");
 MsgDisp("主人公","You don't have to mention it.");
 ChMotion(1,0,1);
@@ -46,8 +46,8 @@ ChMotion(1,3);
 ChCheek(1,0);
 ChMotion(1,0);
 VoicePlay("T020120000_01_580");
-MsgDisp("Kazama","May we always be happy and healthy,
-and may we be able to get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we be able to get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020120000_01_590");
@@ -69,14 +69,13 @@ MsgDisp("Kazama","......Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020120000_01_620");
-MsgDisp("Kazama","I found and bought it when I
-was in England.");
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_630");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝......
-Thank you.");
+MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
@@ -120,7 +119,8 @@ StlEyeOpenLevel(1,0,1);
 Wait(6,0);
 StlEyeOpenLevel(1,#1);
 VoicePlay("T020120000_01_690");
-MsgDisp("Kazama","Then, come on! My bride.");
+MsgDisp("Kazama","Then, come on!
+My bride.");
 MsgClose();
 ScrFadeOut(0,1,120);
 StlClose();

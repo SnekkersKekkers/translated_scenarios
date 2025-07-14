@@ -12,14 +12,15 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B350300000_03_010");
-MsgDisp("Honda","Yeah, I know. That's why I came here.");
+MsgDisp("Honda","Yeah, I know.
+That's why I came here.");
 MsgDisp("主人公","Huh?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B350300000_03_020");
-MsgDisp("Honda","Hey, are you free after this? Do you wanna
-go somewhere together?");
+MsgDisp("Honda","Hey, are you free after this?
+Do you wanna go somewhere together?");
 MsgSel("Yeah, of course!","I've already got plans...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,15 +28,16 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,5,1);
     VoicePlay("B350300000_03_030");
-    MsgDisp("Honda","Ah I'm so glad. If I had gone home like 
-that, I'd be regretting it by now.");
+    MsgDisp("Honda","Ah I'm so glad.
+If I had gone home like that, I'd be
+regretting it by now.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B350300000_03_040");
-    MsgDisp("Honda","I'm glad I gathered the courage. So, shall
-we head out right away?");
+    MsgDisp("Honda","I'm glad I gathered the courage.
+So, shall we head out right away?");
     MsgDisp("主人公","Hehe, sure!");
     break ;
     case 1:
@@ -43,25 +45,26 @@ we head out right away?");
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("B350300000_03_050");
-    MsgDisp("Honda","Oh, I see. Well, it can't be helped then.");
+    MsgDisp("Honda","Oh, I see.
+Well, it can't be helped then.");
     MsgDisp("主人公","Sorry...");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("B350300000_03_060");
-    MsgDisp("Honda","Don't apologize! The idea was pretty
-sudden after all.");
+    MsgDisp("Honda","Don't apologize!
+The idea was pretty sudden after all.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B350300000_03_070");
-    MsgDisp("Honda","But next time! Let's definitely go
-somewhere together.");
+    MsgDisp("Honda","But next time!
+Let's definitely go somewhere together.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     MsgDisp("主人公","(｛本多＊＊｝, seemed to be putting on a
-brave face... Maybe I did something
-wrong...)");
+brave face...
+Maybe I did something wrong...)");
     break ;
     default :
     DbgAssert(0);

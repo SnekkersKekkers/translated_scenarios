@@ -11,8 +11,8 @@ StlOpen("ev_05_20");
 ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040511000_05_000");
-MsgDisp("Hiiragi","I won't be shy or hesitant anymore. Your
-smile......is mine.");
+MsgDisp("Hiiragi","I won't be shy or hesitant anymore.
+Your smile......is mine.");
 MsgClose();
 ScrFadeOut(0,0,300);
 StlClose();

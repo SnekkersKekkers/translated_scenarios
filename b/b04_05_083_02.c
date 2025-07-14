@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040508302_05_000");
-MsgDisp("Hiiragi","Over there, the walking pavement
-stretches deep into the forest. ");
+MsgDisp("Hiiragi","Over there, the walking pavement stretches
+deep into the forest.");
 MsgSel("It's a popular walking course","Seems like there's lots of mosquitoes...","Evening, the time of the fireflies is wonderful");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     VoicePlay("B040508302_05_010");
     MsgDisp("Hiiragi","That's nice.
-It's hot, so let's take our 
-time walking in the shade.");
+It's hot, so let's take our time walking
+in the shade.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +41,8 @@ though...");
         ChEye(5,2);
         ChEyeOpenLevel(5,8);
         VoicePlay("B040508302_05_030");
-        MsgDisp("Hiiragi","I think even now is enough of 
-a wonderful time.");
+        MsgDisp("Hiiragi","I think even now is enough of a wonderful
+time.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -52,8 +52,8 @@ a wonderful time.");
         ChMouth(5,2);
         ChEyeOpenLevel(5,8);
         VoicePlay("B040508302_05_040");
-        MsgDisp("Hiiragi","I think even now is enough of 
-a wonderful time though?");
+        MsgDisp("Hiiragi","I think even now is enough of a wonderful
+time though?");
         MsgDisp("主人公","Ah, sorry.
 That's not what I meant.");
         ChEye(5,3);
@@ -80,8 +80,8 @@ The fact I did something so childish.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040508302_05_090");
-        MsgDisp("Hiiragi","A powerspot that makes you mean 
-to the person you like a lot.
+        MsgDisp("Hiiragi","A powerspot that makes you mean to the
+person you like a lot.
 I'm not happy about it.");
         MsgDisp("主人公","Eh, like a lot...");
         ChEye(5,2);
@@ -90,8 +90,7 @@ I'm not happy about it.");
         ChCheek(5,7);
         VoicePlay("B040508302_05_100");
         MsgDisp("Hiiragi","Ah, just now that was my inner voice.");
-        MsgDisp("主人公","(｛柊＊＊＊｝'s liked person...
-Ehhh∈)");
+        MsgDisp("主人公","(｛柊＊＊＊｝'s liked person... Ehhh∈)");
         break ;
         default :
         DbgAssert(1);

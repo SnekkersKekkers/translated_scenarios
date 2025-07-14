@@ -5,8 +5,9 @@ MsgClose();
 ChOpen(2,255,4,0,2,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223401_02_000");
-MsgDisp("Sassa","Kids are amazing. They laugh even when
-being spun at that speed.");
+MsgDisp("Sassa","Kids are amazing.
+They laugh even when being spun at that
+speed.");
 MsgSel("They were a bit noisy","I feel somewhat frustrated...","Maybe they're good at spinning?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040223401_02_010");
     MsgDisp("Sassa","Don't have fun when you're at an amusement
-park? That's an unreasonable ask.");
+park?
+That's an unreasonable ask.");
     MsgDateResultDisp();
     break ;
     case 1:

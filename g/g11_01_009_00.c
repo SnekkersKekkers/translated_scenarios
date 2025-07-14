@@ -1,9 +1,10 @@
 BGOpen("sc510",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he had
-something he wanted to talk to me about.
-......I wonder if something happened?)");
+MsgDisp("主人公","(That's right......｛風真＊＊｝ said he
+had something he wanted to talk to me
+about. ......I wonder if something
+happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -22,22 +23,24 @@ SEPlay("EV_SE_084");
 Wait(100,0);
 VoicePlay("G110100900_01_000");
 MsgDisp("Kazama","It's chilly, huh.
-Sorry about the cold. 
+Sorry about the cold.
 Let's continue anyway.");
-MsgDisp("主人公","Y-Yeah. Was there something you wanted to
-talk about?");
+MsgDisp("主人公","Y-Yeah.
+Was there something you wanted to talk
+about?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100900_01_010");
-MsgDisp("Kazama","I had something to say... But the 
-moment we sat next to each other 
+MsgDisp("Kazama","I had something to say...
+But the moment we sat next to each other
 in the cold, it totally slipped my mind.");
 MsgDisp("主人公","Eh?");
-MsgDisp("主人公","(｛風真＊＊｝, your hands. They look really
-cold. They're even shivering a little.)");
+MsgDisp("主人公","(｛風真＊＊｝, your hands.
+They look really cold.
+They're even shivering a little.)");
 while (1){
     RunEverydaySksp(1,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){

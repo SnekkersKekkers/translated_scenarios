@@ -6,9 +6,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("T020500030_05_000");
-MsgDisp("Hiiragi","No.
-Please don't apologize.
-Your smile is my guide.");
+MsgDisp("Hiiragi","No. Please don't apologize. Your smile is
+my guide.");
 BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 ChMotion(5,0);
 Wait(12,0);
@@ -28,8 +27,8 @@ ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("T020500030_05_030");
 MsgDisp("Hiiragi","Furthermore, I was able to graduate from a
-great school, right? Although it was a
-close call.");
+great school, right?
+Although it was a close call.");
 MsgDisp("主人公","Hehe, yeah......");
 ChEye(5,4);
 ChMotion(5,0);

@@ -15,17 +15,16 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P740600001_06_010");
 MsgDisp("Himuro","Well, isn't it fine?
-You're not in the modelling club, 
-but the handicrafts club.");
+You're not in the modelling club, but the
+handicrafts club.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("P740600001_06_020");
 MsgDisp("Himuro","In a way it made me laugh.");
 MsgDisp("主人公","Uuugh...");
-MsgDisp("主人公","(｛氷室＊＊｝,
-I guess you're trying to comfort me, but
-Haa, a huge fail...)");
+MsgDisp("主人公","(｛氷室＊＊｝, I guess you're trying to
+comfort me, but Haa, a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

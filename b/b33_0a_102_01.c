@@ -12,8 +12,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChPosition(6,2);
 ScrFadeIn(0);
-MsgDisp("主人公","...Huh?
-Where's ｛風真＊＊｝?");
+MsgDisp("主人公","...Huh? Where's ｛風真＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -23,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10201_06_000");
-MsgDisp("Himuro","Despite how he looks, 
-he's surprisingly caring. ");
+MsgDisp("Himuro","Despite how he looks, he's surprisingly
+caring.");
 MsgDisp("主人公","Hehe, that's right.");
 VoicePlay("B330A10201_01_000");
 MsgDisp("Kazama","Here, your tickets.");
@@ -46,9 +45,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10201_06_010");
-MsgDisp("Himuro","Why...
-This is Ryota-senpai 
-we're talking about.");
+MsgDisp("Himuro","Why... This is Ryota-senpai we're talking
+about.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -64,9 +62,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10201_06_020");
-MsgDisp("Himuro","Haa...
-I praised him just now,
-but I take it back.");
+MsgDisp("Himuro","Haa... I praised him just now, but I take
+it back.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -107,8 +104,9 @@ MsgClose();
 ChClose(1,0,30);
 ChClose(2,0,30);
 ChClose(6,0,30);
-MsgDisp("主人公","(Hehe, it's true. Seems like ｛風真＊＊｝
-is surprisingly caring?)");
+MsgDisp("主人公","(Hehe, it's true.
+Seems like ｛風真＊＊｝ is surprisingly
+caring?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -8,7 +8,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Then, I'll go get changed.");
 MsgDispSksp(1,0);
 VoicePlay("B030506000_05_000");
-MsgDisp("Hiiragi","I'll be waiting here. Be careful.");
+MsgDisp("Hiiragi","I'll be waiting here.
+Be careful.");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0);

@@ -15,10 +15,9 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040124202_01_010");
-    MsgDisp("Kazama","Apparently sitting around
-the same fire strengthens bonds. Well,
-we don't need that kind of thing,
-though.");
+    MsgDisp("Kazama","Apparently sitting around the same fire
+strengthens bonds. Well, we don't need
+that kind of thing, though.");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
@@ -31,8 +30,8 @@ though.");
     ChMotion(1,3);
     VoicePlay("B040124202_01_020");
     MsgDisp("Kazama","There it is.
-Everything really is related to
-food for you, isn't it?");
+Everything really is related to food for
+you, isn't it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -50,8 +49,8 @@ food for you, isn't it?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040124202_01_030");
         MsgDisp("Kazama","Well, that's true, though...
-don't fan out the flames of 
-our conversation...");
+don't fan out the flames of our
+conversation...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -63,8 +62,7 @@ our conversation...");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040124202_01_040");
         MsgDisp("Kazama","You have more to add to that right?
-Like  when we gaze at the 
-fire together...");
+Like when we gaze at the fire together...");
         MsgDisp("主人公","Gazing?");
         ChEye(1,4);
         ChMouth(1,2);
@@ -77,15 +75,15 @@ Y-Yeah?");
         ScrFadeOut(3,30);
         Wait(40,1);
         VoicePlay("B040124202_01_060");
-        MsgDisp("Kazama","Alright, then what do 
-you see beyond that fire?");
+        MsgDisp("Kazama","Alright, then what do you see beyond that
+fire?");
         MsgDisp("主人公","Ummm...｛風真＊＊｝?");
         VoicePlay("B040124202_01_070");
-        MsgDisp("Kazama","Right.
-It's just me and you warming ourselves
-by the fire. What do you think of that?");
-        MsgDisp("主人公","Yeah, I feel kinda, 
-overwhelmingly at peace?");
+        MsgDisp("Kazama","Right. It's just me and you warming
+ourselves by the fire. What do you think
+of that?");
+        MsgDisp("主人公","Yeah, I feel kinda, overwhelmingly at
+peace?");
         VoicePlay("B040124202_01_080");
         MsgDisp("Kazama","Alright!");
         SEPlay("EV_SE_524",0,1);

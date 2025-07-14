@@ -29,8 +29,8 @@ at advertising themselves?");
     ChMotion(6,0);
     VoicePlay("B040603300_06_020");
     MsgDisp("Himuro","Well, that's true.
-well, we're here anyways, might as
-well take it easy here.");
+well, we're here anyways, might as well
+take it easy here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

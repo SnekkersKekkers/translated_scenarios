@@ -25,9 +25,8 @@ That dance was addictiveー...");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040418900_04_010");
-    MsgDisp("Nanatsumori","I get what you mean.
-It's probably not a matter of reason.
-i think it's about going 
+    MsgDisp("Nanatsumori","I get what you mean. It's probably not a
+matter of reason. i think it's about going
 along with the flow.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -38,8 +37,8 @@ along with the flow.");
     ChMotion(4,0);
     VoicePlay("B040418900_04_020");
     MsgDisp("Nanatsumori","I see.
-It might be a love-it-or-hate-it
-sort of genre.");
+It might be a love-it-or-hate-it sort of
+genre.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

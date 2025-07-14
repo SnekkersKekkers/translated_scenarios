@@ -23,16 +23,14 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B360618000_06_020");
-MsgDisp("Himuro","I don't think those two
-would believe that I'm sneaking
-around like this.");
+MsgDisp("Himuro","I don't think those two would believe that
+I'm sneaking around like this.");
 MsgDisp("主人公","Eh, sneaking around∋");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360618000_06_030");
-MsgDisp("Himuro","Yeah.
-The atmosphere isn't nice if there's
+MsgDisp("Himuro","Yeah. The atmosphere isn't nice if there's
 too many people.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -57,15 +55,15 @@ MsgDisp("主人公","?");
 SEPlay("EV_SE_065",0.2,0.6);
 SEPlay("EV_SE_504",0.2,0.6);
 SEWait();
-MsgDisp("主人公","Eh!
-｛氷室＊＊｝, your hand......");
+MsgDisp("主人公","Eh! ｛氷室＊＊｝, your hand......");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,10);
 VoicePlay("B360618000_06_070");
 MsgDisp("Himuro","I know.
-Don't you get it? I did it on purpose.");
+Don't you get it?
+I did it on purpose.");
 MsgDisp("主人公","O-Oh.");
 ChEye(6,2);
 ChMouth(6,0);

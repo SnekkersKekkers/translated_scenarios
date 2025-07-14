@@ -9,8 +9,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D130C00001_05_000");
 MsgDisp("Hiiragi","｛主人公｝, over here.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-｛氷室＊＊｝ and ｛御影＊＊｝ too.");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝. ｛氷室＊＊｝ and
+｛御影＊＊｝ too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -28,8 +28,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("D130C00001_05_010");
-MsgDisp("Hiiragi","Inori-kun couldn't see you, 
-so he became restless.");
+MsgDisp("Hiiragi","Inori-kun couldn't see you, so he became
+restless.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -81,15 +81,14 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("D130C00001_07_030");
-MsgDisp("Mikage","｛主人公｝,
-don't make Inori so 
-worked up, okay?");
+MsgDisp("Mikage","｛主人公｝, don't make Inori so worked
+up, okay?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D130C00001_05_030");
-MsgDisp("Hiiragi","But there was some reasoning 
-as to why he said that.
+MsgDisp("Hiiragi","But there was some reasoning as to why he
+said that.
 I was looking forward to it a little.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -97,7 +96,7 @@ BGMStop();
 ChClose(5,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(Umm...Ah!
-was everyone fretting over
-Valentine's chocolates?)");
+was everyone fretting over Valentine's
+chocolates?)");
 MsgClose();
 ScrFadeOut(0,0);

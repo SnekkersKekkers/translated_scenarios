@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     ChCheek(2,0);
     VoicePlay("B060200013_02_010");
-    MsgDisp("Sassa","Okay, there's somewhere I want to
-take you!
+    MsgDisp("Sassa","Okay, there's somewhere I want to take
+you!
 Let's go!");
     MsgDispSksp(0);
     MsgClose();

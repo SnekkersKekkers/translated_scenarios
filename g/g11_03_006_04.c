@@ -42,22 +42,24 @@ while (1){
     ChMouth(3,1);
     ChMotion(3,2);
     VoicePlay("G110300604_03_040");
-    MsgDisp("Honda","Haha, toooo bad. I won't tell you the
-answer even if you tickle me.");
+    MsgDisp("Honda","Haha, toooo bad.
+I won't tell you the answer even if you
+tickle me.");
     }
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300604_03_050");
-MsgDisp("Honda","Beep beep! That's right!
+MsgDisp("Honda","Beep beep!
+That's right!
 I cut my hair yesterday.");
 ChEye(3,0);
 ChMouth(3,2);
 ChMotion(3,1);
 VoicePlay("G110300604_03_060");
 MsgDisp("Honda","......But did you hear the question
-properly? You accidentally got it right,
-but......");
+properly?
+You accidentally got it right, but......");
 MsgDisp("主人公","(Hehe! Working part-time with ｛本多＊＊｝
 is so fun!)");
 BGMStop();

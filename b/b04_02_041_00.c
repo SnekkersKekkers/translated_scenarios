@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040204100_02_000");
     MsgDisp("Sassa","Like I expected from the champion!
-The difference between him and the
-other person was huge∈");
+The difference between him and the other
+person was huge∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,8 +33,8 @@ other person was huge∈");
     ChMotion(2,2);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040204100_02_020");
-    MsgDisp("Sassa","If this one was bad, none of the
-rest will suffice either.");
+    MsgDisp("Sassa","If this one was bad, none of the rest will
+suffice either.");
     MsgDateResultDisp();
     break ;
     default :

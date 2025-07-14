@@ -33,7 +33,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020301000_03_340");
 MsgDisp("Honda","Meeting you has made me look forward to my
-future. Thank you so much.");
+future.
+Thank you so much.");
 ChSet(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020301000_03_350");

@@ -40,8 +40,7 @@ Take care of it next time too.");
     VoicePlay("I660800005_08_030");
     MsgDisp("Shirahane","That customer sure was happy.
 Good thing I trusted you with this.");
-    MsgDisp("主人公","(Yay!
-｛大地＊＊｝ praised me!)");
+    MsgDisp("主人公","(Yay! ｛大地＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:
@@ -56,9 +55,8 @@ Lemme check.");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800005_08_050");
-    MsgDisp("Shirahane","Ooh!
-Not a single smudge in sight......
-A full 100 points!");
+    MsgDisp("Shirahane","Ooh! Not a single smudge in sight...... A
+full 100 points!");
     ChEyeOpenLevel(8,#1);
     MsgDisp("主人公","Yay!");
     VoicePlay("I660800005_39_020");
@@ -69,8 +67,8 @@ My car looks good as new∋");
     ChMotion(8,3,1);
     VoicePlay("I660800005_08_060");
     MsgDisp("Shirahane","Leave it t'us!
-With her techniques, any car can look
-good as new～!");
+With her techniques, any car can look good
+as new～!");
     MsgDisp("主人公","That's......");
     VoicePlay("I660800005_39_030");
     MsgDisp("Male Customer","It really is amazing.
@@ -81,8 +79,8 @@ I'll ask for you again, pretty lady.");
     ChEyeOpenLevel(8,7);
     VoicePlay("I660800005_08_070");
     MsgDisp("Shirahane","That's no good, sir.
-You should be leaving with a clean
-car and heart.");
+You should be leaving with a clean car and
+heart.");
     VoicePlay("I660800005_39_040");
     MsgDisp("Male Customer","Sorry, sorry, Dai-chan.
 Well, I'll ask for her again next time!");

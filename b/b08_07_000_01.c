@@ -21,7 +21,7 @@ ChMotion(7,3);
 VoicePlay("B080700001_07_010");
 MsgDisp("Mikage","...Hm? 
 It's your phone.");
-MsgDisp("主人公","Ah, yes. 
+MsgDisp("主人公","Ah, yes.
 Please wait a moment.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);

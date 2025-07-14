@@ -5,8 +5,8 @@ ChMouth(6,3);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040614001_06_000");
-MsgDisp("Himuro","Each time I come here,
-my heart starts thudding.");
+MsgDisp("Himuro","Each time I come here, my heart starts
+thudding.");
 MsgSel("You get palpitations?","That felt like a shock to the system to me.","Really, are you okay?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040614001_06_010");
-    MsgDisp("Himuro","That joke isn't just nonsense,
-there's no sense.");
+    MsgDisp("Himuro","That joke isn't just nonsense, there's no
+sense.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,10 +27,9 @@ there's no sense.");
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040614001_06_020");
-    MsgDisp("Himuro","Do you feel a rush of adrenaline?
-I wonder if it's stimulating for 
-both of us? This experience
-is hard to come by.");
+    MsgDisp("Himuro","Do you feel a rush of adrenaline? I wonder
+if it's stimulating for both of us? This
+experience is hard to come by.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

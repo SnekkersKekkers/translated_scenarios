@@ -11,15 +11,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_010");
-MsgDisp("Himuro","We were getting along so well,
-but before I knew it, I was just
-watching from a distance.");
+MsgDisp("Himuro","We were getting along so well, but before
+I knew it, I was just watching from a
+distance.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_020");
-MsgDisp("Himuro","You seem to be having more fun
-than when you're with me.");
+MsgDisp("Himuro","You seem to be having more fun than when
+you're with me.");
 MsgDisp("主人公","That's not——");
 ChEye(6,2);
 ChMouth(6,0);
@@ -36,17 +36,16 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_050");
-MsgDisp("Himuro","At first, 
-I thought I'd do anything to take back 
-that position, but......");
+MsgDisp("Himuro","At first, I thought I'd do anything to
+take back that position, but......");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_060");
-MsgDisp("Himuro","Watching you two have fun together
-made me start to question if
-my actions were the right ones.");
+MsgDisp("Himuro","Watching you two have fun together made me
+start to question if my actions were the
+right ones.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -59,8 +58,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_080");
 MsgDisp("Himuro","Do you want me to stay out of the way?
-Or do you want to be close to me
-like before?");
+Or do you want to be close to me like
+before?");
 MsgDisp("主人公","I.........");
 ChEye(6,2);
 ChMouth(6,0);
@@ -86,28 +85,28 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_120");
-MsgDisp("Himuro","Yeah, I got it.
-but...... it made me happy.");
+MsgDisp("Himuro","Yeah, I got it. but...... it made me
+happy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_130");
-MsgDisp("Himuro","Because it looked like you still
-had some feelings for me.");
+MsgDisp("Himuro","Because it looked like you still had some
+feelings for me.");
 MsgDisp("主人公","Ugh......");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020620101_06_140");
-MsgDisp("Himuro","Knowing that, there's no way I can
-back down quietly.");
+MsgDisp("Himuro","Knowing that, there's no way I can back
+down quietly.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020620101_06_150");
-MsgDisp("Himuro","Take responsibility for instigating
-this within me.");
+MsgDisp("Himuro","Take responsibility for instigating this
+within me.");
 MsgDisp("主人公","(Did I accidentally flip a switch......?)");
 BGMStop();
 MsgClose();

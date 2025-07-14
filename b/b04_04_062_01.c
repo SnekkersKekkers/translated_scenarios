@@ -5,10 +5,9 @@ ChMouth(4,4);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040406201_04_000");
-MsgDisp("Nanatsumori","Oh...
-it's super pretty from this angle.
-I wonder if I can take a good one.");
-MsgSel("If it's｛七ツ森＊｝, he can do it!","Burn it in your mind's eye instead of taking a picture!","Quantity wins!");
+MsgDisp("Nanatsumori","Oh... it's super pretty from this angle. I
+wonder if I can take a good one.");
+MsgSel("If it's ｛七ツ森＊｝, he can do it!","Burn it in your mind's eye instead of taking a picture!","Quantity wins!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -29,8 +28,8 @@ There's no need to get worked up.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040406201_04_020");
-    MsgDisp("Nanatsumori","after I've engraved it into my memory, 
-I need to take one for the record.");
+    MsgDisp("Nanatsumori","after I've engraved it into my memory, I
+need to take one for the record.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -39,9 +38,9 @@ I need to take one for the record.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040406201_04_030");
-    MsgDisp("Nanatsumori","That's right.
-Alright. My phone is fully charged.
-Let's take pictures of this blue world.");
+    MsgDisp("Nanatsumori","That's right. Alright. My phone is fully
+charged. Let's take pictures of this blue
+world.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

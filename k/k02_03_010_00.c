@@ -15,8 +15,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("K020301000_03_000");
-MsgDisp("Honda","I couldn't find the right timing
-to give this to you until now.");
+MsgDisp("Honda","I couldn't find the right timing to give
+this to you until now.");
 MsgDisp("主人公","Hm?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -39,8 +39,8 @@ ChMouth(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("K020301000_03_030");
-MsgDisp("Honda","Since it'd be weird to suddenly
-give you a present at the shrine, right?");
+MsgDisp("Honda","Since it'd be weird to suddenly give you a
+present at the shrine, right?");
 MsgDisp("主人公","Hehe, I see.");
 ChMouth(3,0);
 ChMouth(3,3);

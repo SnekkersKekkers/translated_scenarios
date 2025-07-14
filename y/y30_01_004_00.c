@@ -20,8 +20,8 @@ MsgDisp("","Honda really is strange. It's as if
 he senses when we're losing interest,
 and he'll change the topic by
 throwing more material in there.");
-MsgDisp("","Is he innately good at 
-the art of conversation?");
+MsgDisp("","Is he innately good at the art of
+conversation?");
 MsgClear();
 BGOpen("ad142",0);
 VoicePlay("Y300100400_04_000");
@@ -32,17 +32,17 @@ MsgDisp("","It's just as Nanatsumori says. But,
 strangely even to myself I end up
 saying things that Honda would be
 happy about.");
-MsgDisp("","That's also one of the amazing
-things about Honda.");
+MsgDisp("","That's also one of the amazing things
+about Honda.");
 MsgClear();
 BGOpen("ad140",0);
 MsgDisp("","Still, it's as Nanatsumori said.
 That was enough for today.");
 VoicePlay("Y300100400_01_010");
-MsgDisp("Kazama","\"I thought
-we wouldn't see her after all.\"");
-MsgDisp("","When I said that, both of them
-sighed in disappointment.
+MsgDisp("Kazama","\"I thought we wouldn't see her after
+all.\"");
+MsgDisp("","When I said that, both of them sighed
+in disappointment.
 I probably looked the same.");
 MsgClear();
 MsgDisp("","When we're up on the rooftop like
@@ -53,17 +53,16 @@ invite her today. If this was going
 to happen, I should've just asked her
 upfront.");
 MsgClear();
-MsgDisp("","Sometimes,
-when we were on the rooftop,
-she would unexpectedly show up.");
+MsgDisp("","Sometimes, when we were on the
+rooftop, she would unexpectedly show
+up.");
 VoicePlay("Y300100400_03_010");
 MsgDisp("Honda","\"Ahー, there she is!
 Ryo-kun, Mii-kun, look!
 Over here\"");
 MsgClear();
-MsgDisp("","Honda called out to us whilst
-holding onto the handrails of 
-the rooftop.");
+MsgDisp("","Honda called out to us whilst holding
+onto the handrails of the rooftop.");
 VoicePlay("Y300100400_04_010");
 MsgDisp("Nanatsumori","\"What do you think, Ryo-kun?\"");
 VoicePlay("Y300100400_01_020");
@@ -72,11 +71,11 @@ MsgClear();
 MsgDisp("","Looking from the rooftop towards the
 school gates, we should see her small
 back.");
-MsgDisp("","With her bag in her right hand, 
-Her retreating figure had a
+MsgDisp("","With her bag in her right hand, Her
+retreating figure had a
 characteristic bounce in her step.");
-MsgDisp("","As I was about to call out, 
-Honda shook his head.");
+MsgDisp("","As I was about to call out, Honda
+shook his head.");
 MsgClear();
 VoicePlay("Y300100400_03_020");
 MsgDisp("Honda","\"It's a telekinesis experiment.
@@ -88,8 +87,8 @@ MsgDisp("Honda","Just have 'Turn around!' in mind.
 That's all. Ready?∈");
 MsgClear();
 MsgDisp("","\"The next instant, she turned around.
-With her usual, indescribable, 
-gentle expression.\"");
+With her usual, indescribable, gentle
+expression.\"");
 MsgDisp("","——Hey, who's voice did you hear?");
 BGMStop();
 MsgClear();

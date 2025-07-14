@@ -5,8 +5,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030621000_06_000");
-MsgDisp("Himuro","Are you sure you didn't invite the
-wrong person?");
+MsgDisp("Himuro","Are you sure you didn't invite the wrong
+person?");
 MsgDisp("主人公","It wasn't a mistake!");
 MsgDispSksp(1,0);
 ChEye(6,0);

@@ -15,8 +15,8 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("S120200000_02_000");
-    MsgDisp("Sassa","｛主人公｝,
-it's been a great start to the New Year.
+    MsgDisp("Sassa","｛主人公｝, it's been a great start to
+the New Year.
 Thank you.");
     MsgDisp("主人公","I feel the same way.");
     ChEye(2,0);
@@ -52,7 +52,8 @@ We've been walking a lot.");
     ChEyeOpenLevel(2,0);
     VoicePlay("S120200000_02_040");
     MsgDisp("Sassa","That's a relief.
-I'll walk you home today. Let's go.");
+I'll walk you home today.
+Let's go.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     break ;
     case 4:
@@ -63,11 +64,10 @@ I'll walk you home today. Let's go.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120200000_02_050");
-    MsgDisp("Sassa","Visiting the shrine on New Year's
-gives such a refreshing feeling.");
-    MsgDisp("主人公","Yeah.
-｛颯砂＊＊｝,
-thanks for coming with me.");
+    MsgDisp("Sassa","Visiting the shrine on New Year's gives
+such a refreshing feeling.");
+    MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, thanks for coming with
+me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -86,8 +86,8 @@ Do you have more time?");
     ChCheek(2,10);
     VoicePlay("S120200000_02_080");
     MsgDisp("Sassa","I'll take you home.
-Come, let's walk slowly. We can talk
-on the way there.");
+Come, let's walk slowly.
+We can talk on the way there.");
     MsgDisp("主人公","Hehe, okay.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     break ;

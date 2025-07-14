@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321202_03_000");
 MsgDisp("Honda","It's a talking cockatiel plushie.");
-MsgSel("The golden feather on its head is cute.","It seems a bit loud huh?","It looks a bit like｛本多＊＊｝?");
+MsgSel("The golden feather on its head is cute.","It seems a bit loud huh?","It looks a bit like ｛本多＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -57,8 +57,8 @@ But it's cute.");
         ChMotion(3,1);
         VoicePlay("B040321202_03_040");
         MsgDisp("Honda","Yep yep.
-It's cool that it doesn't play
-it back just as it is.");
+It's cool that it doesn't play it back
+just as it is.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);
@@ -91,11 +91,10 @@ I'm sorry to the store clerk!");
         ChOpen(3,255,2,2,2,#1,#1,0,0);
         VoicePlay("B040321202_03_070");
         MsgDisp("Honda","Haa, seems like it was broken.
-I might become weak around 
-cockatiels now...");
-        MsgDisp("主人公","Hehe, 
-Then, after this let's take our
-time to look around.");
+I might become weak around cockatiels
+now...");
+        MsgDisp("主人公","Hehe, Then, after this let's take our time
+to look around.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);

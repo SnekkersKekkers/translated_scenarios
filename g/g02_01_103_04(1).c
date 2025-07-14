@@ -2,15 +2,15 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110304_01_000");
-MsgDisp("Kazama","Night parades are great,
-but this place is amazing too.");
+MsgDisp("Kazama","Night parades are great, but this place is
+amazing too.");
 MsgDisp("主人公","Yeah, it's so peaceful here.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110304_01_010");
-MsgDisp("Kazama","Yeah, 
-the other place has a lot of noise too.");
+MsgDisp("Kazama","Yeah, the other place has a lot of noise
+too.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
@@ -56,15 +56,15 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110304_01_080");
-MsgDisp("Kazama","They're all out there,
-shining and flying while shouting the
-names of the ones they love.");
+MsgDisp("Kazama","They're all out there, shining and flying
+while shouting the names of the ones they
+love.");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("G020110304_01_090");
-MsgDisp("Kazama","It's not quiet at all. They're all
-desperate.");
+MsgDisp("Kazama","It's not quiet at all.
+They're all desperate.");
 MsgDisp("主人公","I see.
 They're all searching for a partner.");
 ChEye(1,4);
@@ -78,18 +78,18 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110304_01_110");
-MsgDisp("Kazama","Just like me,
-thinking only about your happy face 
-while choosing your birthday present.");
-MsgDisp("主人公","Yeah, it made me happy. 
+MsgDisp("Kazama","Just like me, thinking only about your
+happy face while choosing your birthday
+present.");
+MsgDisp("主人公","Yeah, it made me happy.
 Thank you, as always.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110304_01_120");
 MsgDisp("Kazama","That's it, that face of yours.
-Unlike fireflies,
-I get to see that face every year.");
+Unlike fireflies, I get to see that face
+every year.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -102,8 +102,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110304_01_140");
 MsgDisp("Kazama","Ahー, I can't wait for your birthday to
 come again.");
-MsgDisp("主人公","(If that were the case,
-I'd age quickly......)");
+MsgDisp("主人公","(If that were the case, I'd age
+quickly......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

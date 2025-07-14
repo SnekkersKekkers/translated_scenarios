@@ -7,7 +7,7 @@ ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040222102_02_000");
 MsgDisp("Sassa","You like the view from here don't you?");
-MsgSel("Yeah, because Habataki City looks beautiful","It's only natural as a Habataki citizen!","If I can watch with｛颯砂＊＊｝, anywhere is okay▼");
+MsgSel("Yeah, because Habataki City looks beautiful","It's only natural as a Habataki citizen!","If I can watch with ｛颯砂＊＊｝, anywhere is okay▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040222102_02_010");
-    MsgDisp("Sassa","I think your sort of love 
-for your hometown is always great.");
+    MsgDisp("Sassa","I think your sort of love for your
+hometown is always great.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ for your hometown is always great.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040222102_02_020");
-    MsgDisp("Sassa","Huh?
-Did I press some sort of weird switch?");
+    MsgDisp("Sassa","Huh? Did I press some sort of weird
+switch?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -86,9 +86,8 @@ Rotations of a Year\" together.");
         VoicePlay("B040222102_02_080");
         MsgDisp("Sassa","A combination and order that fulfills both
 efficiency and satisfaction...");
-        MsgDisp("主人公","(Ummm...｛颯砂＊＊｝,
-This is beginning to look
-like a training program.)");
+        MsgDisp("主人公","(Ummm...｛颯砂＊＊｝, This is beginning to
+look like a training program.)");
         break ;
         default :
         DbgAssert(1);

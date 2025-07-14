@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040723202_07_000");
 MsgDisp("Mikage","What will we do if 
 this stops halfway...?");
-MsgSel("That's great; we get to ride longer.","It might be nice to get stuck with｛御影＊＊｝.","Let's believe in Habataki Land Town.");
+MsgSel("That's great; we get to ride longer.","It might be nice to get stuck with ｛御影＊＊｝.","Let's believe in Habataki Land Town.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -44,8 +44,8 @@ What would we do if we were at the top...");
         VoicePlay("B040723202_07_030");
         MsgDisp("Mikage","Do you really like
 this that much?");
-        MsgDisp("主人公","Yes.
-Especially when I'm with ｛御影＊＊｝.");
+        MsgDisp("主人公","Yes. Especially when I'm with
+｛御影＊＊｝.");
         ChEye(7,1);
         ChMouth(7,0);
         ChMotion(7,2);
@@ -89,7 +89,8 @@ Now!");
         ChMotion(7,0);
         VoicePlay("B040723202_07_080");
         MsgDisp("Mikage","Oh, we did it.
-How was it? Were you satisfied?");
+How was it?
+Were you satisfied?");
         MsgDisp("主人公","Yes!
 Ah, I saw Habataki Castle!");
         ChEye(7,2);
@@ -118,9 +119,8 @@ Don't stand up～");
         ScrFadeIn(0);
         VoicePlay("B040723202_07_110");
         MsgDisp("Mikage","Haa, that was fun～......");
-        MsgDisp("主人公","(I ended up getting to ride the
-ferris wheel twice,
-｛御影＊＊｝, thank you.)");
+        MsgDisp("主人公","(I ended up getting to ride the ferris
+wheel twice, ｛御影＊＊｝, thank you.)");
         break ;
         default :
         DbgAssert(1);

@@ -11,7 +11,8 @@ VoicePlay("G020130101_01_010");
 MsgDisp("Kazama","There's a story about that, isn't there?
 About small fish gathering together to
 protect themselves.");
-MsgDisp("主人公","Hehe, yeah. There is.");
+MsgDisp("主人公","Hehe, yeah.
+There is.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -24,8 +25,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130101_01_030");
-MsgDisp("Kazama","People I don't know well are 
-surrounding you. 
+MsgDisp("Kazama","People I don't know well are surrounding
+you.
 It's kind of hard to get close.");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,0);
@@ -38,8 +39,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020130101_01_050");
-MsgDisp("Kazama","Am I just one of many to you? To me,
-you're special.");
+MsgDisp("Kazama","Am I just one of many to you?
+To me, you're special.");
 MsgDisp("主人公","｛風真＊＊｝ you're my one and only
 precious childhood friend.");
 ChEye(1,2);

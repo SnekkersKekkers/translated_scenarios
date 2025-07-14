@@ -28,8 +28,8 @@ I'd like to age like that.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040521102_05_020");
-    MsgDisp("Hiiragi","Maybe they used to go on dates 
-here often? Just like us.");
+    MsgDisp("Hiiragi","Maybe they used to go on dates here often?
+Just like us.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +46,8 @@ here often? Just like us.");
         ChMotion(5,0);
         VoicePlay("B040521102_05_030");
         MsgDisp("Hiiragi","You think they're former employees...
-Can we go with something
-a little more romantic?");
+Can we go with something a little more
+romantic?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,9 +59,8 @@ a little more romantic?");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040521102_05_050");
-        MsgDisp("Hiiragi","Even after they retired, 
-they wondered how the animals 
-they were looking after were, 
+        MsgDisp("Hiiragi","Even after they retired, they wondered how
+the animals they were looking after were,
 And came to check how they were doing.");
         ChEye(5,3);
         ChMotion(5,0);
@@ -75,8 +74,8 @@ I was impolite, wasn't I?");
 this by myself.");
         ChMotion(5,4);
         VoicePlay("B040521102_05_080");
-        MsgDisp("Hiiragi","I couldn't really
-play with friends my age.");
+        MsgDisp("Hiiragi","I couldn't really play with friends my
+age.");
         MsgDisp("主人公","｛柊＊＊＊｝...");
         ChEye(5,2);
         VoicePlay("B040521102_05_090");
@@ -85,8 +84,8 @@ I was just imagining things for fun.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040521102_05_100");
-        MsgDisp("Hiiragi","If the me back then saw us now, 
-I wonder what he would imagine?");
+        MsgDisp("Hiiragi","If the me back then saw us now, I wonder
+what he would imagine?");
         MsgDisp("主人公","Yeah, I wonder?");
         ChEye(5,3);
         ChMouth(5,4);

@@ -7,12 +7,11 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,254,3,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700002_07_000");
-    MsgDisp("Mikage","They say that the judo practice
-match was decided by one glorious 
-ippon? That's amazing.");
+    MsgDisp("Mikage","They say that the judo practice match was
+decided by one glorious ippon?
+That's amazing.");
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(Yay!
-I was praised by ｛御影＊＊｝ 1)");
+    MsgDisp("主人公","(Yay! I was praised by ｛御影＊＊｝ 1)");
     break ;
     case 4:
     case 5:
@@ -20,11 +19,9 @@ I was praised by ｛御影＊＊｝ 1)");
     ChOpen(7,254,1,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700002_07_010");
-    MsgDisp("Mikage","They say you won all your practice
-matches with an ippon?
-Congrats.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
-Thank you very much.");
+    MsgDisp("Mikage","They say you won all your practice matches
+with an ippon? Congrats.");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. Thank you very much.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

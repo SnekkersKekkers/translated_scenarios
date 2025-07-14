@@ -10,9 +10,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("K010400102_04_010");
-MsgDisp("Nanatsumori","I was thinking of buying this
-the other day.
-Nice timing. Good, good.");
+MsgDisp("Nanatsumori","I was thinking of buying this the other
+day. Nice timing. Good, good.");
 MsgDisp("主人公","(Yeah, seems like
 he liked it.)");
 BGMStop();

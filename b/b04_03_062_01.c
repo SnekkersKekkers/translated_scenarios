@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306201_03_010");
-    MsgDisp("Honda","Yeah, listen closely. When no one's
-talking, you can only hear the sound of
-the waves echoing.");
+    MsgDisp("Honda","Yeah, listen closely.
+When no one's talking, you can only hear
+the sound of the waves echoing.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

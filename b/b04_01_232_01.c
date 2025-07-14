@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040123201_01_010");
-    MsgDisp("Kazama","Right. All I could see in 
-front of me was the sky.");
+    MsgDisp("Kazama","Right. All I could see in front of me was
+the sky.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -6,8 +6,8 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040602102_06_000");
 MsgDisp("Himuro","This place has a nice atmosphere.
-Like I can experience something 
-outside of the ordinary.");
+Like I can experience something outside of
+the ordinary.");
 MsgSel("Is it a nice atmosphere the same as it being unusual?","Once in a while, I want to forget about my everyday life.","Maybe it depends on who you're with");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,8 +33,8 @@ Forget what I just said.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602102_06_020");
-        MsgDisp("Himuro","It's not like I'm dissatisfied
-with my everyday life though?");
+        MsgDisp("Himuro","It's not like I'm dissatisfied with my
+everyday life though?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -45,28 +45,28 @@ with my everyday life though?");
         ChMotion(6,0);
         VoicePlay("B040602102_06_030");
         MsgDisp("Himuro","I see...
-Escapism is nonsense, but times
-like this are necessary too.");
+Escapism is nonsense, but times like this
+are necessary too.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602102_06_040");
-        MsgDisp("Himuro","Even so, once in a while you'll 
-make me say something that
-makes me take a step back.");
+        MsgDisp("Himuro","Even so, once in a while you'll make me
+say something that makes me take a step
+back.");
         MsgDisp("主人公","Is that so?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602102_06_050");
-        MsgDisp("Himuro","Normally, that's how 
-it always feels though.");
+        MsgDisp("Himuro","Normally, that's how it always feels
+though.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602102_06_060");
-        MsgDisp("Himuro","... I also want to get 
-some form of payback.");
+        MsgDisp("Himuro","... I also want to get some form of
+payback.");
         MsgDisp("主人公","Ehh.
 Payback...");
         ChEye(6,0);
@@ -80,16 +80,16 @@ on the head, catching you off guard.");
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040602102_06_080");
-        MsgDisp("Himuro","...Haa, I feel like I
-can't do that at all.");
+        MsgDisp("Himuro","...Haa, I feel like I can't do that at
+all.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         ChCheek(6,10);
         VoicePlay("B040602102_06_090");
-        MsgDisp("Himuro","If I could see through your thoughts,
-I wouldn't be that troubled
-in the first place. ");
+        MsgDisp("Himuro","If I could see through your thoughts, I
+wouldn't be that troubled in the first
+place.");
         MsgDisp("主人公","｛氷室＊＊｝, you're feeling troubled?");
         ChEye(6,0);
         ChMouth(6,0);

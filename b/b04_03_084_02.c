@@ -66,18 +66,16 @@ out of the ground.");
         ChMotion(3,3);
         VoicePlay("B040308402_03_060");
         MsgDisp("Honda","Yep yep, I'll also wriggle with them～");
-        MsgDisp("主人公","Hehe, ｛本多＊＊｝
-is always moving around.");
+        MsgDisp("主人公","Hehe, ｛本多＊＊｝ is always moving around.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040308402_03_070");
         MsgDisp("Honda","That's right.
-In order to go out with you, 
-I'm active all year round.");
-        MsgDisp("主人公","Hehe, 
-You said it as if you were 
-some animal or insect.");
+In order to go out with you, I'm active
+all year round.");
+        MsgDisp("主人公","Hehe, You said it as if you were some
+animal or insect.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,0);
@@ -103,8 +101,8 @@ I'm flying around the town with you?");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040308402_03_110");
-        MsgDisp("Honda","But the insect lifespan is short, 
-So they have to lay eggs quickly...");
+        MsgDisp("Honda","But the insect lifespan is short, So they
+have to lay eggs quickly...");
         MsgDisp("主人公","Eh?");
         ChEye(3,5);
         ChMouth(3,5);

@@ -13,8 +13,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H1A0100000_01_000");
     MsgDisp("Kazama","Wow, you really did it.
 I feel kind of impressed.");
-    MsgDisp("主人公","Yeah.
-It's because everyone did their best!");
+    MsgDisp("主人公","Yeah. It's because everyone did their
+best!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -25,8 +25,8 @@ It's because everyone did their best!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H1A0100000_01_020");
-    MsgDisp("Kazama","All I know is that you were
-always working hard for everyone.");
+    MsgDisp("Kazama","All I know is that you were always working
+hard for everyone.");
     MsgDisp("主人公","Thanks, ｛風真＊＊｝!");
     MsgDisp("主人公","(We won!
 I'm glad I did my best for the club!)");
@@ -39,15 +39,14 @@ I'm glad I did my best for the club!)");
     VoicePlay("H1A0100000_01_030");
     MsgDisp("Kazama","Thank goodness.
 Congrats on the win.");
-    MsgDisp("主人公","｛風真＊＊｝!
-Thank you!");
+    MsgDisp("主人公","｛風真＊＊｝! Thank you!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H1A0100000_01_040");
     MsgDisp("Kazama","A smile befitting a winner.");
-    MsgDisp("主人公","Yeah......!
-What should I do, I'm so happy......");
+    MsgDisp("主人公","Yeah......! What should I do, I'm so
+happy......");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.9);
     ChClose(1,0,30);
@@ -67,8 +66,8 @@ You don't have to hold back your tears.");
     MsgDisp("Kazama","Good for you.");
     MsgDisp("主人公","Yeah.");
     VoicePlay("H1A0100000_01_070");
-    MsgDisp("Kazama","It took up a lot of your time,
-so I wasn't a huge fan of it, you know?");
+    MsgDisp("Kazama","It took up a lot of your time, so I wasn't
+a huge fan of it, you know?");
     MsgDisp("主人公","Hm?");
     ChClose(1,0,0);
     ChLayout(1);
@@ -79,9 +78,9 @@ so I wasn't a huge fan of it, you know?");
     ScrFadeIn(0);
     SEWait();
     VoicePlay("H1A0100000_01_080");
-    MsgDisp("Kazama","But it's thanks to the baseball
-club that I could see your face light
-up like this...... so I'll forgive them.");
+    MsgDisp("Kazama","But it's thanks to the baseball club that
+I could see your face light up like
+this...... so I'll forgive them.");
     MsgDisp("主人公","Hehe, geez.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -89,8 +88,8 @@ up like this...... so I'll forgive them.");
     VoicePlay("H1A0100000_01_090");
     MsgDisp("Kazama","Come on, go over to them.
 See you.");
-    MsgDisp("主人公","(Ooh...... I'm so happy.
-I'll always remember today!)");
+    MsgDisp("主人公","(Ooh...... I'm so happy. I'll always
+remember today!)");
     break ;
     default :
     DbgAssert(1);

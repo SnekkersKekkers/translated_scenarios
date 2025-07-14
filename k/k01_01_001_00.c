@@ -14,8 +14,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("K010100100_01_000");
     MsgDisp("Kazama","What is it?
 You're a noisy one.");
-    MsgDisp("主人公","What,
-it's ｛風真＊＊｝'s birthday today, right?
+    MsgDisp("主人公","What, it's ｛風真＊＊｝'s birthday today,
+right?
 Happy birthday.");
     SEPlay("EV_SE_664");
     SEWait();
@@ -29,8 +29,7 @@ You can do it if you try.");
 Anyways, do you want to open it?");
     break ;
     case 3:
-    MsgDisp("主人公","Ah, he's here.
-｛風真＊＊｝!");
+    MsgDisp("主人公","Ah, he's here. ｛風真＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -46,9 +45,8 @@ Here, a present.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("K010100100_01_030");
-    MsgDisp("Kazama","Amazing.
-Even just remembering would be enough,
-you know?");
+    MsgDisp("Kazama","Amazing. Even just remembering would be
+enough, you know?");
     ChEye(1,0);
     ChMotion(1,0);
     MsgDisp("主人公","Gosh, I won't forget it.
@@ -66,8 +64,7 @@ Anyways, do you want to open it?");
     ChMotion(1,3);
     VoiceEVSPlay(1);
     VoicePlay("K010100100_01_040");
-    MsgDisp("Kazama","｛主人公｝.
-I've been waiting for you.");
+    MsgDisp("Kazama","｛主人公｝. I've been waiting for you.");
     MsgDisp("主人公","Hehe, thank you for waiting.
 Happy birthday!
 I hope you'll like your present.");
@@ -77,10 +74,10 @@ I hope you'll like your present.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("K010100100_01_050");
-    MsgDisp("Kazama","Well, I'm already happy enough
-that you remembered.");
-    MsgDisp("主人公","Gosh.
-Alright already, open up your present.");
+    MsgDisp("Kazama","Well, I'm already happy enough that you
+remembered.");
+    MsgDisp("主人公","Gosh. Alright already, open up your
+present.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

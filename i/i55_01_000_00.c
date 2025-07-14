@@ -8,14 +8,13 @@ switch (ChPrmGet(1,6)){
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-Welcome!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. Welcome!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_000");
-    MsgDisp("Kazama","Well don't you look just like
-the daughter of a dango-shop owner?");
+    MsgDisp("Kazama","Well don't you look just like the daughter
+of a dango-shop owner?");
     MsgDisp("主人公","Hehe, the uniform is cute,
 isn't it?");
     ChEye(1,0);
@@ -23,10 +22,10 @@ isn't it?");
     ChMotion(1,3);
     VoicePlay("I550100000_01_010");
     MsgDisp("Kazama","It's nice.
-You just need the wig, and then
-it'd be perfect.");
-    MsgDisp("主人公","Well, I guess being a lord would
-suit you then, ｛風真＊＊｝.");
+You just need the wig, and then it'd be
+perfect.");
+    MsgDisp("主人公","Well, I guess being a lord would suit you
+then, ｛風真＊＊｝.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -37,29 +36,28 @@ suit you then, ｛風真＊＊｝.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I550100000_01_030");
-    MsgDisp("Kazama","Isn't that what they say
-at sushi restaurants?");
+    MsgDisp("Kazama","Isn't that what they say at sushi
+restaurants?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I550100000_01_040");
-    MsgDisp("Kazama","If you're the face of
-the shop, I can get why it'd thrive.");
+    MsgDisp("Kazama","If you're the face of the shop, I can get
+why it'd thrive.");
     MsgDisp("主人公","Really?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_050");
-    MsgDisp("Kazama","Just don't throw your charm around
-too much.
+    MsgDisp("Kazama","Just don't throw your charm around too
+much.
 Well, see ya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ came to check
-on me.)");
+    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ came to check on me.)");
     break ;
     case 3:
     MsgClose();
@@ -79,8 +77,8 @@ Will you be taking it home?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_080");
-    MsgDisp("Kazama","Yeah, I'll be eating it on
-the porch with my grandpa.");
+    MsgDisp("Kazama","Yeah, I'll be eating it on the porch with
+my grandpa.");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,4);
@@ -96,9 +94,9 @@ But, I'm working right now......");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_100");
-    MsgDisp("Kazama","So you can't come. I think grandpa
-would be happy to see you dressed like
-this, so I'll bring him next time.");
+    MsgDisp("Kazama","So you can't come. I think grandpa would
+be happy to see you dressed like this, so
+I'll bring him next time.");
     MsgDisp("主人公","Hehe, okay.
 Please come with him next time, then.");
     ChEye(1,0);
@@ -118,14 +116,12 @@ Hehe, I'm happy.)");
     VoiceEVSPlay(1);
     VoicePlay("I550100000_01_120");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-Welcome.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. Welcome.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_130");
-    MsgDisp("Kazama","Today......
-I'll have some of the
+    MsgDisp("Kazama","Today...... I'll have some of the
 recommended sweets, please.");
     MsgDisp("主人公","Yes, understood.");
     MsgClose();
@@ -144,8 +140,8 @@ He's my classmate.");
     MsgClose();
     ChOpen(1,255,0,4,3,#1,#1,0,0);
     VoicePlay("I550100000_01_140");
-    MsgDisp("Kazama","......Nice to meet you,
-I'm her classmate Ryota.");
+    MsgDisp("Kazama","......Nice to meet you, I'm her classmate
+Ryota.");
     MsgClose();
     ScrFadeOut(0);
     ChEye(1,0);

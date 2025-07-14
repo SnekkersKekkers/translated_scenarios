@@ -2,7 +2,7 @@ ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200022_32_000");
 MsgDisp("VP Himuro","First is a \"touch\".
-Lightly touch the other person, and 
+Lightly touch the other person, and
 immediately release for a quick glance.");
 ChEye(32,0);
 ChMouth(32,0);
@@ -13,9 +13,9 @@ make them pay attention to you.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200022_32_020");
-MsgDisp("VP Himuro","Finally, we have the \"long touch\".
-Touch and hold on one area. This means
-staring or some other drastic action.");
+MsgDisp("VP Himuro","Finally, we have the \"long touch\". Touch
+and hold on one area. This means staring
+or some other drastic action.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200022_32_030");

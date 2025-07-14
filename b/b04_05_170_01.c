@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040517001_05_000");
-MsgDisp("Hiiragi","I'd like to hear the 
-song you sang to me before.");
+MsgDisp("Hiiragi","I'd like to hear the song you sang to me
+before.");
 MsgSel("Eh, what was it?","Then, shall we sing together?","\"My heart is always pounding?\"");
 switch (MsgSelRsltGet()){
     case 0:

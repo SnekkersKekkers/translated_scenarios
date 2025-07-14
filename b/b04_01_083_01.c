@@ -4,8 +4,8 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040108301_01_000");
-MsgDisp("Kazama","Doesn't it feel good, just
-to look at this clean, transparent water?");
+MsgDisp("Kazama","Doesn't it feel good, just to look at this
+clean, transparent water?");
 MsgSel("It's like the underwater plants are swaying in the wind","Fireflies like cleanliness, right?","Be really careful not to fall in!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0,1);
     VoicePlay("B040108301_01_010");
     MsgDisp("Kazama","It really doesn't look like they're
-underwater. That's a good eye.");
+underwater.
+That's a good eye.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

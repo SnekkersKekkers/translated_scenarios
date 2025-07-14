@@ -8,8 +8,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
-Are you free?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝! Are you free?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0,1);
@@ -21,8 +20,7 @@ Are you free?");
 Valentine's chocolate.");
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
-Are you free?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝! Are you free?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -34,8 +32,8 @@ Can I guess?");
     ChMotion(3,2);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300000_03_020");
-    MsgDisp("Honda","No! I won't.
-I'd be awkward if I was wrong.");
+    MsgDisp("Honda","No! I won't. I'd be awkward if I was
+wrong.");
     MsgDisp("主人公","Hehe!
 Here you go.
 Valentine's chocolate.");
@@ -44,8 +42,7 @@ Valentine's chocolate.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
-I was looking for you.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝! I was looking for you.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -58,8 +55,8 @@ I was looking for you.");
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300000_03_040");
     MsgDisp("Honda","Today's Valentine's, right?
-I've held off on eating chocolate
-just for today.");
+I've held off on eating chocolate just for
+today.");
     MsgDisp("主人公","Huh!?
 Well...... here you go.
 Go ahead.");

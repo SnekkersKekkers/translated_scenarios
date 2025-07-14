@@ -7,8 +7,8 @@ switch (ChPrmGet(3,6)){
 today.");
     MsgDisp("主人公","I see......");
     VoicePlay("S030300002_03_010");
-    MsgDisp("Honda","My mom and sister won't give me
-Osechi if I don't finish it today.
+    MsgDisp("Honda","My mom and sister won't give me Osechi if
+I don't finish it today.
 They say....Sorry.");
     MsgDisp("主人公","No problem.
 Good luck with the cleaning.");
@@ -25,9 +25,8 @@ I'll just go alone.)");
     MsgDisp("主人公","I see.
 I guess we can't then.");
     VoicePlay("S030300002_03_040");
-    MsgDisp("Honda","Yeah, I guess not.
-I can't take you with me either......
-Sorry.");
+    MsgDisp("Honda","Yeah, I guess not. I can't take you with
+me either...... Sorry.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(It can't be helped......

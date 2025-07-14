@@ -18,8 +18,7 @@ ChMouth(31,4);
 ChMotion(31,1);
 VoicePlay("P733100002_31_010");
 MsgDisp("Goro","Yep yep.
-When I see your dress, 
-I could cry a bit.");
+When I see your dress, I could cry a bit.");
 MsgDisp("主人公","Ehhh?");
 ChEye(31,0);
 ChMouth(31,0);

@@ -8,9 +8,8 @@ ChMouth(3,0);
 ChMotion(3,3);
 ChMotion(3,3);
 VoicePlay("B040308201_03_000");
-MsgDisp("Honda","It's not just fireflies, 
-but soon other insects will
-start moving soon too.");
+MsgDisp("Honda","It's not just fireflies, but soon other
+insects will start moving soon too.");
 MsgSel("Eh, that's a bit scary","Are the fireflies preparing their light?","I wonder if the hasty fireflies will emerge.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +29,8 @@ Even my sister used to be okay was it...");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040308201_03_020");
-    MsgDisp("Honda","Yep yep, but
-fireflies start glowing when they're eggs.
+    MsgDisp("Honda","Yep yep, but fireflies start glowing when
+they're eggs.
 It's a weak light, but amazing!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -43,8 +42,8 @@ It's a weak light, but amazing!");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("B040308201_03_030");
-    MsgDisp("Honda","In fireflies, the males emerge first, 
-so maybe the males are the hasty ones.");
+    MsgDisp("Honda","In fireflies, the males emerge first, so
+maybe the males are the hasty ones.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040306101_03_010");
-    MsgDisp("Honda","Yeah, it's getting close to 70 degrees. 
+    MsgDisp("Honda","Yeah, it's getting close to 70 degrees.
 Be careful of burns.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

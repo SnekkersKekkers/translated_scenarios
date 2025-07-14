@@ -8,8 +8,7 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,34,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Merry Christmas!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Merry Christmas!");
     VoicePlay("R040400000_04_000");
     MsgDisp("Nanatsumori","Merry Christmas.");
     break ;
@@ -21,8 +20,7 @@ Merry Christmas!");
     VoiceEVSPlay(4);
     VoicePlay("R040400000_04_010");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Merry Christmas!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Merry Christmas!");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -39,8 +37,7 @@ You seem to be in high spirits.");
     VoiceEVSPlay(4);
     VoicePlay("R040400000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
-Merry Christmas!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Merry Christmas!");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,1,1);

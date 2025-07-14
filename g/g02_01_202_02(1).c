@@ -10,8 +10,8 @@ ChMotion(1,1);
 VoicePlay("G020120202_01_010");
 MsgDisp("Kazama","I wonder?
 It must be a huge number though.");
-MsgDisp("主人公","It would be nice if each of them
-found their partners.");
+MsgDisp("主人公","It would be nice if each of them found
+their partners.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -32,7 +32,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020120202_01_040");
-MsgDisp("Kazama","You know for those sorts of questions, 
+MsgDisp("Kazama","You know for those sorts of questions,
 that guy would probably answer properly.");
 MsgDisp("主人公","Eh?");
 ChEye(1,4);
@@ -47,8 +47,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120202_01_060");
 MsgDisp("Kazama","I can't do that. ");
-MsgDisp("主人公","I don't think anyone can do 
-what ｛本多＊＊｝ does.");
+MsgDisp("主人公","I don't think anyone can do what
+｛本多＊＊｝ does.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -84,9 +84,10 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020120202_01_110");
 MsgDisp("Kazama","I might be at a disadvantage now, but I'll
-manage. I have a reason I can't back down.");
+manage.
+I have a reason I can't back down.");
 MsgDisp("主人公","(｛風真＊＊｝, So that's how you think of
-｛本多＊＊｝......)");
+｛本多＊＊｝...... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

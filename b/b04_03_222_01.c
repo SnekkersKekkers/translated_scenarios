@@ -14,7 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040322201_03_010");
     MsgDisp("Honda","Heeh, a charm to commemorate attending the
-castle. Should I get one?");
+castle.
+Should I get one?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,9 +26,9 @@ castle. Should I get one?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040322201_03_020");
-    MsgDisp("Honda","Interesting!
-It's a reproduction of the onigawara 
-tiles from when the castle was built.");
+    MsgDisp("Honda","Interesting! It's a reproduction of the
+onigawara tiles from when the castle was
+built.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,10 +39,9 @@ tiles from when the castle was built.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040322201_03_030");
-    MsgDisp("Honda","Haha, the view from the castle 
-tower and the stone walls,
-and the last one is a secret.
-... Shall I buy one?");
+    MsgDisp("Honda","Haha, the view from the castle tower and
+the stone walls, and the last one is a
+secret. ... Shall I buy one?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

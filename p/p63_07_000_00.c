@@ -15,21 +15,20 @@ delicious but...)");
     VoicePlay("P630700000_07_000");
     MsgDisp("Mikage","Yoo, 
 how are the customers?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
-It's going so-so.");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. It's going so-so.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P630700000_07_010");
     MsgDisp("Mikage","I see.
-Herbal tea and cookies are delicious, 
-so people should gather by word of mouth.");
+Herbal tea and cookies are delicious, so
+people should gather by word of mouth.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P630700000_07_020");
-    MsgDisp("Mikage","Firstly could I indulge in
-a little breather first?");
+    MsgDisp("Mikage","Firstly could I indulge in a little
+breather first?");
     MsgDisp("主人公","Yes.
 A herb tea set coming up～!");
     break ;
@@ -43,23 +42,22 @@ delicious but...)");
     VoicePlay("P630700000_07_030");
     MsgDisp("Mikage","How is it, how is it?
 It's deserted huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
-There were people who
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. There were people who
 took a quick peek but....");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P630700000_07_040");
     MsgDisp("Mikage","Don't make that face.
-Leave it to me, I'm great 
-at drawing in customers.");
+Leave it to me, I'm great at drawing in
+customers.");
     MsgDisp("主人公","Ehhh?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("P630700000_07_050");
-    MsgDisp("Mikage","Although I have more responsibilities
-than attracting customers.
+    MsgDisp("Mikage","Although I have more responsibilities than
+attracting customers.
 First, let's taste them.");
     MsgDisp("主人公","Yes.
 A herb tea set coming up～!");

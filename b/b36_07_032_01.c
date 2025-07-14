@@ -18,8 +18,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B360703201_07_010");
 MsgDisp("Mikage","Actually, I couldn't sleep last night.
-I was like an elementary student before
-a field trip.");
+I was like an elementary student before a
+field trip.");
 MsgDisp("主人公","Ehh∋
 Is that so?");
 ChEye(7,0);
@@ -31,8 +31,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360703201_07_030");
-MsgDisp("Mikage","Inori especially would love to hear
-this kind of thing, right?");
+MsgDisp("Mikage","Inori especially would love to hear this
+kind of thing, right?");
 MsgDisp("主人公","Hehe.
 Okay, I understand.");
 ChEye(7,0);

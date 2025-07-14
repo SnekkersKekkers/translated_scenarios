@@ -21,18 +21,18 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_040");
-MsgDisp("Shirahane","Coincidentally, when the comedy shows 
-are on, the show my older sister wants
-to watch is on at the same time.");
+MsgDisp("Shirahane","Coincidentally, when the comedy shows are
+on, the show my older sister wants to
+watch is on at the same time.");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070800000_08_050");
-MsgDisp("Shirahane","And so, at those times the 
-lady of the house, my older sister
-is top priority.");
+MsgDisp("Shirahane","And so, at those times the lady of the
+house, my older sister is top priority.");
 MsgDisp("主人公","(I see..
-｛大地＊＊｝ is interested in everything.)");
+｛大地＊＊｝ is interested in
+everything.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -11,8 +11,8 @@ MsgDisp("主人公","Huh?");
 ChEye(4,1);
 ChMotion(4,1);
 VoicePlay("B020400005_04_010");
-MsgDisp("Nanatsumori","I'd say it's too early to be 
-ahead of the fashion change...
+MsgDisp("Nanatsumori","I'd say it's too early to be ahead of the
+fashion change...
 You're just dressed too lightly.");
-MsgDisp("主人公","(Urgh... I definitely don't have
-enough on...)");
+MsgDisp("主人公","(Urgh... I definitely don't have enough
+on...)");

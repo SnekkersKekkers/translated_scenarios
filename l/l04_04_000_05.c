@@ -14,16 +14,15 @@ Did something happen?");
     ChMouth(4,3);
     ChMotion(4,2);
     VoicePlay("L040400005_04_010");
-    MsgDisp("Nanatsumori","Nah, I just thought I saw
-something weird.
+    MsgDisp("Nanatsumori","Nah, I just thought I saw something weird.
 Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Could it be that I put
-something in that he doesn't like......?)");
+    MsgDisp("主人公","(Could it be that I put something in that
+he doesn't like......?)");
     break ;
     case 3:
     ChEye(4,0);
@@ -48,8 +47,8 @@ Thank you.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Could it be that I put
-something in that he doesn't like......?)");
+    MsgDisp("主人公","(Could it be that I put something in that
+he doesn't like......?)");
     break ;
     case 4:
     case 5:
@@ -81,8 +80,8 @@ I won't lose, alright?");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Could it be that I put
-something in that he doesn't like......?)");
+    MsgDisp("主人公","(Could it be that I put something in that
+he doesn't like......?)");
     break ;
     default :
     DbgAssert(1);

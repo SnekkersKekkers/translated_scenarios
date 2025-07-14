@@ -10,6 +10,6 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B060700009_07_000");
 MsgDisp("Mikage","Sorry for dragging you around.
-If you haven't learned your lesson,
-I'll see you next time.");
+If you haven't learned your lesson, I'll
+see you next time.");
 MsgDispSksp(0);

@@ -35,7 +35,7 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("T020720022_07_040");
-MsgDisp("Mikage","Doesn't that mean we've given up on this 
+MsgDisp("Mikage","Doesn't that mean we've given up on this
 being one-sided?");
 MsgDisp("主人公","Yes. I got it.");
 ChEye(7,2);

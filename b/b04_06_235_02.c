@@ -27,9 +27,8 @@ Isn't that a win?");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040623502_06_020");
-    MsgDisp("Himuro","Really?
-Aren't you starting to 
-realize the pattern by now?");
+    MsgDisp("Himuro","Really? Aren't you starting to realize the
+pattern by now?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -67,17 +66,16 @@ That's a bad habit of mine.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623502_06_060");
-        MsgDisp("Himuro","I was considering what made 
-this place special, but if 
-I made you uncomfortable,
+        MsgDisp("Himuro","I was considering what made this place
+special, but if I made you uncomfortable,
 I've got my priorities wrong.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         ChCheek(6,8);
         VoicePlay("B040623502_06_070");
-        MsgDisp("Himuro","...Having fun with you
-is the biggest priority.");
+        MsgDisp("Himuro","...Having fun with you is the biggest
+priority.");
         MsgDisp("主人公","｛氷室＊＊｝......");
         ChEye(6,0);
         ChMouth(6,4);

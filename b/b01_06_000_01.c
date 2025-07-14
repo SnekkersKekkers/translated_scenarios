@@ -68,8 +68,8 @@ I'll get here first from now on.");
     ChMotion(6,0);
     VoicePlay("B010600001_06_070");
     MsgDisp("Himuro","I didn't want to keep you waiting.
-Wasting someone's time is the 
-worst thing a person can do.");
+Wasting someone's time is the worst thing
+a person can do.");
     MsgDisp("主人公","But isn't it fun to wait a little,
 wondering anxiously when the person will
 arrive?");
@@ -84,8 +84,8 @@ arrive?");
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("B010600001_06_090");
-    MsgDisp("Himuro","... I'm seriously jealous of how 
-carefree you are.");
+    MsgDisp("Himuro","... I'm seriously jealous of how carefree
+you are.");
     MsgDispSksp(0);
     break ;
     default :

@@ -20,17 +20,17 @@ before the ride actually starts.");
     MsgClose();
     ChOpen(3,255,1,0,3,#1,#1,0,0);
     VoicePlay("W090300000_03_020");
-    MsgDisp("Honda","Rides like this are less scary
-and more fun if you scream as loud
-as you can. Wanna try?");
+    MsgDisp("Honda","Rides like this are less scary and more
+fun if you scream as loud as you can.
+Wanna try?");
     MsgDisp("主人公","Hehe, okay.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4);
     ChEyeOpenLevel(3,0);
     VoicePlay("W090300000_03_030");
-    MsgDisp("Honda","Cough! ...Ah, phew.
-Okay, my vocal chords are ready.");
+    MsgDisp("Honda","Cough! ...Ah, phew. Okay, my vocal chords
+are ready.");
     break ;
     default :
     DbgAssert(1);

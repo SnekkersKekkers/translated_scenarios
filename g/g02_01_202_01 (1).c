@@ -46,8 +46,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020120201_01_060");
 MsgDisp("Kazama","To me, the time that I'd built up with you
-couldn't be outdone by anyone. That was
-the one absolute.");
+couldn't be outdone by anyone.
+That was the one absolute.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -81,9 +81,10 @@ ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020120201_01_110");
 MsgDisp("Kazama","Like I'm gonna lose to the underclassman
-who popped out of nowhere. You know?");
+who popped out of nowhere.
+You know?");
 MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝ is talking
-about ｛氷室＊＊｝......)");
+about ｛氷室＊＊｝...... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

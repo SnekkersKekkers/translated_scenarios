@@ -34,10 +34,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040208501_02_030");
-    MsgDisp("Sassa","Right.
-But if you hold it, your hands will get
-covered in mud. I often got scolded
-a lot when I got home.");
+    MsgDisp("Sassa","Right. But if you hold it, your hands will
+get covered in mud. I often got scolded a
+lot when I got home.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

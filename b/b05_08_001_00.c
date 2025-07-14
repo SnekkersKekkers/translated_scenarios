@@ -5,8 +5,8 @@ ChOpen(8,255,0,0,3,#1,#1,4,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_000");
-MsgDisp("Shirahane","Haa... that was amazingー!
-My heart is still racing.");
+MsgDisp("Shirahane","Haa... that was amazingー! My heart is
+still racing.");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0,1);
@@ -28,8 +28,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B050800100_08_030");
 MsgDisp("Shirahane","Ahー...but it's this time already.
-I guess we should go home soon,
-though...");
+I guess we should go home soon, though...");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,2,1);
@@ -85,7 +84,8 @@ MsgDisp("主人公","Hehe.");
 StlEye(8,2);
 StlMouth(8,1);
 VoicePlay("B050800100_08_090");
-MsgDisp("Shirahane","I also... want to make it big.");
+MsgDisp("Shirahane","I also...
+want to make it big.");
 VoicePlay("B050800100_08_100");
 MsgDisp("Shirahane","In what, I don't know though.
 I just don't wanna end up a borin' guy.");
@@ -93,23 +93,23 @@ StlEye(8,1);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("B050800100_08_110");
-MsgDisp("Shirahane","Actually, I heard about someone
-who used to come here to image train
-for their dreams. They were a former 
-student at Hane School.");
+MsgDisp("Shirahane","Actually, I heard about someone who used
+to come here to image train for their
+dreams. They were a former student at Hane
+School.");
 StlEye(8,1);
 StlMouth(8,0);
 VoicePlay("B050800100_08_120");
-MsgDisp("Shirahane","And that person made their dream come 
-true and is a successful artist now.");
+MsgDisp("Shirahane","And that person made their dream come true
+and is a successful artist now.");
 MsgDisp("主人公","Amazing...!");
 StlEye(8,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("B050800100_08_130");
-MsgDisp("Shirahane","Watching that huge stage today
-made me curious about how that person
-must have felt as a high schooler.");
+MsgDisp("Shirahane","Watching that huge stage today made me
+curious about how that person must have
+felt as a high schooler.");
 StlEye(8,2);
 StlMouth(8,0);
 VoicePlay("B050800100_08_140");
@@ -126,8 +126,8 @@ ChOpen(8,255,0,3,0,0,#1,4,0);
 ScrFadeIn(0);
 VoicePlay("B050800100_08_150");
 MsgDisp("Shirahane","Hehe...!");
-MsgDisp("主人公","Hehe!
-Do you think your dream will come true?");
+MsgDisp("主人公","Hehe! Do you think your dream will come
+true?");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
@@ -146,17 +146,16 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B050800100_08_180");
-MsgDisp("Shirahane","Yeah.
-I've never met that famed senior though.");
+MsgDisp("Shirahane","Yeah. I've never met that famed senior
+though.");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_190");
-MsgDisp("Shirahane","Alright!
-I don't know what it is,
-but I'm gonna give it my bestー∈");
-MsgDisp("主人公","(Hehe! I wonder where ｛大地＊＊｝'s dream
-will take him?')");
+MsgDisp("Shirahane","Alright! I don't know what it is, but I'm
+gonna give it my bestー∈");
+MsgDisp("主人公","(Hehe! I wonder where ｛大地＊＊｝'s
+dream will take him?')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

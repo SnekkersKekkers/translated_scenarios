@@ -16,16 +16,18 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("P530D00002_22_000");
-MsgDisp("Hikaru","It's true. So you don't need Hikaru's and
-other's support?");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝!
-Did you come to see the performance?");
+MsgDisp("Hikaru","It's true.
+So you don't need Hikaru's and other's
+support?");
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝! Did you
+come to see the performance?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P530D00002_21_010");
-MsgDisp("Michiru","Of course. Because it's Mari's culmination
-of her stage performance.");
+MsgDisp("Michiru","Of course.
+Because it's Mari's culmination of her
+stage performance.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -47,8 +49,8 @@ ChMotion(22,3,1);
 VoicePlay("P530D00002_22_020");
 MsgDisp("Hikaru","Hikaru too!
 Goodluck, Mari♪");
-MsgDisp("主人公","(Alright.
-Let's give it our best performance!)");
+MsgDisp("主人公","(Alright. Let's give it our best
+performance!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

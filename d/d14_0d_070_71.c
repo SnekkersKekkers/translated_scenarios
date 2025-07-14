@@ -23,8 +23,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("D140D07071_21_010");
-MsgDisp("Michiru","I'm just making a guess, but I bet
-he's growing flowers and spices at home?");
+MsgDisp("Michiru","I'm just making a guess, but I bet he's
+growing flowers and spices at home?");
 MsgDisp("主人公","At home......?
 Not at the gardening club?");
 ChEye(21,0);

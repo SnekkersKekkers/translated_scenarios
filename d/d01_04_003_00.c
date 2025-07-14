@@ -13,8 +13,7 @@ MsgDisp("Nanatsumori","That's not it.");
 ChMotion(4,1,1);
 VoicePlay("D010400300_04_020");
 MsgDisp("Nanatsumori","Want to come with me to the agency?");
-MsgDisp("主人公","Eh?
-By agency do you mean your modeling
+MsgDisp("主人公","Eh? By agency do you mean your modeling
 agency∋");
 ChEye(4,1);
 ChMouth(4,3);
@@ -47,9 +46,8 @@ StlMouthOpenLevel(4,0);
 VoicePlay("D010400300_04_040");
 MsgDisp("Nanatsumori","............");
 VoicePlay("D010400300_41_010");
-MsgDisp("Staff A","Great～!
-Stay just like that, let me take a few
-shots～");
+MsgDisp("Staff A","Great～! Stay just like that, let me take
+a few shots～");
 SEPlay("EV_SE_041");
 Wait(35,0);
 SEPlay("EV_SE_041");
@@ -67,16 +65,16 @@ He looks great in that outfit worn by
 legendary high school model Hazuki Kei!");
 VoicePlay("D010400300_34_030");
 MsgDisp("Staff C","Doesn't he!
-It's a different kind of sexy from 
-Hazuki Kei, though......");
+It's a different kind of sexy from Hazuki
+Kei, though......");
 VoicePlay("D010400300_34_040");
 MsgDisp("Staff C","I think I'll become his fan!");
 VoicePlay("D010400300_44_010");
-MsgDisp("Staff B","Yeah!
-I think this will be good for Hazuki
+MsgDisp("Staff B","Yeah! I think this will be good for Hazuki
 Kei's birthday project!");
 MsgDisp("主人公","(It's true......
-｛七ツ森＊｝ looks so lovely and handsome!)");
+｛七ツ森＊｝ looks so lovely and
+handsome!)");
 MsgDisp("主人公","(And that outfit, it's a remake of
 something worn by the legendary Hazuki
 Kei......Amazing!)");
@@ -111,8 +109,8 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("D010400300_04_060");
 MsgDisp("Nanatsumori","......So?");
-MsgDisp("主人公","That was really inspiring......I was able 
-to experience a real life photoshoot. 
+MsgDisp("主人公","That was really inspiring......I was able
+to experience a real life photoshoot.
 That outfit looked great on you too!");
 ChEye(4,4);
 ChMouth(4,3);
@@ -121,8 +119,8 @@ VoicePlay("D010400300_04_070");
 MsgDisp("Nanatsumori","I'm glad.");
 ChEye(4,0);
 VoicePlay("D010400300_04_080");
-MsgDisp("Nanatsumori","I wanted you to have a chance to see
-that Hazuki Kei project too.");
+MsgDisp("Nanatsumori","I wanted you to have a chance to see that
+Hazuki Kei project too.");
 MsgDisp("主人公","Thanks.
 I'll definitely buy the magazine!");
 VoicePlay("D010400300_41_060");

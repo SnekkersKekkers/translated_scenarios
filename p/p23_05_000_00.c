@@ -11,16 +11,15 @@ switch (ChPrmGet(5,6)){
     BGOpen("sc740",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(It's almost time to perform
-Haa, I'm so anxious......)");
+    MsgDisp("主人公","(It's almost time to perform Haa, I'm so
+anxious......)");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,38,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P230500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-I' m getting nervous——");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. I' m getting nervous——");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -63,7 +62,7 @@ stage outweighs that.");
     ChMotion(5,4);
     VoicePlay("P230500000_05_060");
     MsgDisp("Hiiragi","Of course the script is of importance.
-But, the ones who are performing are you, 
+But, the ones who are performing are you,
 and me.");
     MsgDisp("主人公","Y-Yeah.");
     ChEye(5,3);
@@ -76,8 +75,8 @@ grateful towards everyone, okay?");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P230500000_05_080");
-    MsgDisp("Hiiragi","If everyone enjoys it, then it's a
-great success.");
+    MsgDisp("Hiiragi","If everyone enjoys it, then it's a great
+success.");
     MsgDisp("主人公","Yes, let's try to enjoy it.");
     VoicePlay("P230500001_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin

@@ -5,8 +5,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B030408000_04_000");
 MsgDisp("Nanatsumori","There's a crowd...
-Well, I guess that we're part of
-the crowd too, huh?");
+Well, I guess that we're part of the crowd
+too, huh?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe, let's go!");
 MsgDispSksp(0);

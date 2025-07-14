@@ -13,8 +13,8 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("L040100005_01_010");
     MsgDisp("Kazama","I see......
-Well, having a lot of different things
-is good too, right?");
+Well, having a lot of different things is
+good too, right?");
     MsgDisp("主人公","Yeah.
 I hope it suits your taste.");
     ChEye(1,0);
@@ -23,9 +23,8 @@ I hope it suits your taste.");
     VoicePlay("L040100005_01_020");
     MsgDisp("Kazama","Thanks.
 I'll eat it later.");
-    MsgDisp("主人公","(Did I add too much on it?
-Ah...... maybe, did I add something he
-doesn't like?)");
+    MsgDisp("主人公","(Did I add too much on it? Ah...... maybe,
+did I add something he doesn't like?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -49,16 +48,15 @@ Thanks.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100005_01_050");
-    MsgDisp("Kazama","Well, there's such a thing as
-trying too hard, you know?
+    MsgDisp("Kazama","Well, there's such a thing as trying too
+hard, you know?
 Well, that's just like you, though.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Oh, could it be that
-I put something in that ｛風真＊＊｝
-doesn't like??)");
+    MsgDisp("主人公","(Oh, could it be that I put something in
+that ｛風真＊＊｝ doesn't like??)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -75,8 +73,8 @@ into these.");
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("L040100005_01_070");
-    MsgDisp("Kazama","Let's see...... Hm?
-Well, I can see how serious you were.");
+    MsgDisp("Kazama","Let's see...... Hm? Well, I can see how
+serious you were.");
     MsgDisp("主人公","......Was it too much?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -88,15 +86,14 @@ It's about the feelings in it.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100005_01_090");
-    MsgDisp("Kazama","I'll accept whatever feelings
-you have.
+    MsgDisp("Kazama","I'll accept whatever feelings you have.
 Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(......Ah, could it be that
-I put something he didn't like in?)");
+    MsgDisp("主人公","(......Ah, could it be that I put
+something he didn't like in?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

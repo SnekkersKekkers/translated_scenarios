@@ -9,8 +9,8 @@ switch (ChPrmGet(5,6)){
 the joint practice with another school.
 Your strength and flexibility are your
 true strengths.");
-    MsgDisp("主人公","Thank you, 
-I'll practice more and get even better!");
+    MsgDisp("主人公","Thank you, I'll practice more and get even
+better!");
     MsgDisp("主人公","(I'm glad I gave it my all!)");
     break ;
     case 4:
@@ -31,8 +31,7 @@ practice?");
     MsgDisp("Hiiragi","Yes, I was curious.
 Your dance was overwhelming with emotion.
 I'll come to see it again.");
-    MsgDisp("主人公","(Yay!
-I was praised by ｛柊＊＊＊｝ )");
+    MsgDisp("主人公","(Yay! I was praised by ｛柊＊＊＊｝ )");
     break ;
     default :
     DbgAssert(1);

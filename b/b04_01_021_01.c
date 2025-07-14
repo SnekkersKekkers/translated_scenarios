@@ -6,8 +6,9 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040102101_01_000");
-MsgDisp("Kazama","This place is so underrated. The sea, the
-sandy beaches, even the brick road.");
+MsgDisp("Kazama","This place is so underrated.
+The sea, the sandy beaches, even the brick
+road.");
 MsgSel("Yeah, I think it could be more popular too.","Do you think it's because of the name?","But I don't want it to get crowded.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,9 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040102101_01_010");
-    MsgDisp("Kazama","Exactly.
-Just like how I feel about antiques,
-these things need proper appreciation.");
+    MsgDisp("Kazama","Exactly. Just like how I feel about
+antiques, these things need proper
+appreciation.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +30,8 @@ these things need proper appreciation.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040102101_01_020");
-    MsgDisp("Kazama","Not really, do you think it
-needs a better name?");
+    MsgDisp("Kazama","Not really, do you think it needs a better
+name?");
     MsgDateResultDisp();
     break ;
     case 2:

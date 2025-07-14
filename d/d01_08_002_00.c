@@ -2,9 +2,9 @@ BGOpen("sc623",0);
 BGMPlay("BGM_CLUB_IVENT",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(We're at the National Track and
-Field Tournament! Just now I saw 
-｛颯砂＊＊｝ surrounded by reporters.)");
+MsgDisp("主人公","(We're at the National Track and Field
+Tournament! Just now I saw ｛颯砂＊＊｝
+surrounded by reporters.)");
 MsgDisp("主人公","(Isn't ｛大地＊＊｝ also here today?
 I wonder which events he'll do?)");
 VoicePlay("D010800200_46_000");
@@ -33,8 +33,8 @@ SEPlay("EV_SE_847",0.5);
 MsgDisp("主人公","(Woah, everyone is so fast!
 Like you'd expect, ｛颯砂＊＊｝ is in the
 lead!)");
-MsgDisp("主人公","(The guy in the orange behind him
-is also very fast!
+MsgDisp("主人公","(The guy in the orange behind him is also
+very fast!
 ......Wait, is that?)");
 SEStop("EV_SE_792",1);
 SEStop("EV_SE_847",1);
@@ -49,17 +49,17 @@ BGMPlay("BGM_C08_DAICHI_I",0.01,0.6);
 SEPlay("EV_SE_791",0.5,0.8);
 SEPlay("EV_SE_GAYA_003",0.5);
 ScrFadeIn(0);
-MsgDisp("主人公","It's ｛大地＊＊｝∈");
+MsgDisp("主人公","It's ｛大地＊＊｝ ∈");
 VoicePlay("D010800200_42_020");
 MsgDisp("Male Student","Go Daichi!");
-MsgDisp("主人公","(I feel like he might be able
-to catch up to ｛颯砂＊＊｝!)");
+MsgDisp("主人公","(I feel like he might be able to catch up
+to ｛颯砂＊＊｝! )");
 MsgDisp("主人公","(What should I do......
 I don't know who to root for......!)");
 SEPlay("EV_SE_793",0.3);
 SEPlay("EV_SE_GAYA_011");
-MsgDisp("主人公","Try your best!
-｛大地＊＊｝, ｛颯砂＊＊｝∈");
+MsgDisp("主人公","Try your best! ｛大地＊＊｝, ｛颯砂＊＊｝
+∈");
 SEStop("EV_SE_791",2);
 SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_793",2);
@@ -75,8 +75,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc624",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝ got 1st and ｛大地＊＊｝
-got 2nd, huh?
+MsgDisp("主人公","(｛颯砂＊＊｝ got 1st and ｛大地＊＊｝ got
+2nd, huh?
 In the end it was a close match......)");
 MsgDisp("主人公","(The two of them are really amazing.
 My heart is still racing......)");
@@ -91,8 +91,8 @@ VoicePlay("D010800200_08_010");
 MsgDisp("Shirahane","Ya really came!
 That makes me happy!");
 MsgDisp("主人公","I saw it.
-The 400m race was really exciting all
-the way to the end!");
+The 400m race was really exciting all the
+way to the end!");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
@@ -124,7 +124,7 @@ After all, the king is a genius!
 So I can relax now.");
 MsgDisp("主人公","(｛大地＊＊｝ was also amazing, though.
 ......By king, does he maybe mean
-｛颯砂＊＊｝?)");
+｛颯砂＊＊｝? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

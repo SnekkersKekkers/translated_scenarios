@@ -5,8 +5,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("P650700006_07_000");
-MsgDisp("Mikage","｛主人公｝, 
-Hooray, yeah?
+MsgDisp("Mikage","｛主人公｝, Hooray, yeah?
 Our reputation was good.");
 MsgDisp("主人公","Was it really?
 I'm glad.");
@@ -20,8 +19,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P650700006_07_020");
-MsgDisp("Mikage","Furthermore, the vegetables
-and herbs should be happy too.");
+MsgDisp("Mikage","Furthermore, the vegetables and herbs
+should be happy too.");
 MsgDisp("主人公","Hehe, yes.");
 ChEye(7,0);
 ChMouth(7,0);

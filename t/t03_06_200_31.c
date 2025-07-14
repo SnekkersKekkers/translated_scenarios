@@ -1,4 +1,4 @@
-MsgDisp("","We'll be spending less time together than 
+MsgDisp("","We'll be spending less time together than
 we did in high school, but that's okay.");
 MsgDisp("","Someday, when we make our vows to each
 other, I hope we will be blessed with

@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040708102_07_010");
-    MsgDisp("Mikage","Excited, huh? That's just like you.
-I'm sure something happy 
-will happen.");
+    MsgDisp("Mikage","Excited, huh?
+That's just like you.
+I'm sure something happy will happen.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -66,36 +66,36 @@ know it myself though.");
         ChEye(7,0);
         ChMouth(7,0);
         VoicePlay("B040708102_07_050");
-        MsgDisp("Mikage","Well, maybe I'm just anxious
-about not growing every year?");
+        MsgDisp("Mikage","Well, maybe I'm just anxious about not
+growing every year?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040708102_07_060");
-        MsgDisp("Mikage","You guys are growing up so fast
-around me, right? What about
-me in comparison?");
+        MsgDisp("Mikage","You guys are growing up so fast around me,
+right?
+What about me in comparison?");
         MsgDisp("主人公","｛御影＊＊｝'s growth, huh...?");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,1);
         VoicePlay("B040708102_07_070");
-        MsgDisp("Mikage","Well, I guess the cherry blossoms
-have the power to make me think
-about things out of character?");
+        MsgDisp("Mikage","Well, I guess the cherry blossoms have the
+power to make me think about things out of
+character?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040708102_07_080");
-        MsgDisp("Mikage","On the other hand, 
-you guys are growing well.
+        MsgDisp("Mikage","On the other hand, you guys are growing
+well.
 I'm happy.");
         ChEye(7,1);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040708102_07_090");
-        MsgDisp("Mikage","You guys, the plants in the
-gardening club, Molly at home...
+        MsgDisp("Mikage","You guys, the plants in the gardening
+club, Molly at home...
 you're all only growing bigger...");
         ChEye(7,2);
         ChMouth(7,0);

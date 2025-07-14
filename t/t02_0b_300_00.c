@@ -1,8 +1,8 @@
 BGOpen("sc211",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......｛風真＊＊｝,
-missed the graduation ceremony......)");
+MsgDisp("主人公","(......｛風真＊＊｝, missed the graduation
+ceremony......)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 VoiceEVSPlay(1);
@@ -10,18 +10,17 @@ VoicePlay("T020B30000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,4,3,#1,#1,0,0);
-MsgDisp("主人公","｛風真＊＊｝!
-You're back!");
-MsgDisp("主人公","But...the graduation ceremony is 
-already over.");
+MsgDisp("主人公","｛風真＊＊｝! You're back!");
+MsgDisp("主人公","But...the graduation ceremony is already
+over.");
 ChClose(1,0,30);
 ChLayout(0);
 SEPlay("EV_SE_544");
 ChOpen(1,254,0,2,3,8,#1,0,0,0,30);
 VoicePlay("T020B21000_01_010");
 MsgDisp("Kazama","Sorry. I did try to hurry though.");
-MsgDisp("主人公","Yeah.
-I'm glad we could graduate together......");
+MsgDisp("主人公","Yeah. I'm glad we could graduate
+together......");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);
@@ -33,9 +32,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020B21000_01_030");
-MsgDisp("Kazama","I remember waiting for you on 
-that hill on the day of
-the entrance ceremony.");
+MsgDisp("Kazama","I remember waiting for you on that hill on
+the day of the entrance ceremony.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -66,15 +64,17 @@ ChOpen(1,254,0,2,3,0,#1,0,1,0,30);
 SEPlay("EV_SE_544");
 ChOpen(3,254,1,3,3,#1,#1,0,2);
 VoicePlay("T020B21000_03_000");
-MsgDisp("Honda","Welcome back Ryota-kun! I'm glad we were
-able to graduate together.");
+MsgDisp("Honda","Welcome back Ryota-kun!
+I'm glad we were able to graduate
+together.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020B21000_01_070");
-MsgDisp("Kazama","That's right. I'm back.");
-MsgDisp("主人公","｛本多＊＊｝.
-Congratualitions on your graduation!");
+MsgDisp("Kazama","That's right.
+I'm back.");
+MsgDisp("主人公","｛本多＊＊｝. Congratualitions on your
+graduation!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -87,9 +87,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("T020B21000_03_020");
-MsgDisp("Honda","Huh? 
-The only one left is Mii-kun.
-I wonder where he went.");
+MsgDisp("Honda","Huh? The only one left is Mii-kun. I
+wonder where he went.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);
@@ -119,8 +118,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("T020B21000_04_010");
-MsgDisp("Nanatsumori","Well, I guess that's typical Kazama 
-until the end.");
+MsgDisp("Nanatsumori","Well, I guess that's typical Kazama until
+the end.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -167,9 +166,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("T020B21000_04_040");
-MsgDisp("Nanatsumori","Huh?
-Wait a minute.
-Did I do something wrong?");
+MsgDisp("Nanatsumori","Huh? Wait a minute. Did I do something
+wrong?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -187,8 +185,9 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("T020B21000_04_050");
-MsgDisp("Nanatsumori","Even you... I was just waiting here for
-everyone to arrive......");
+MsgDisp("Nanatsumori","Even you...
+I was just waiting here for everyone to
+arrive......");
 ChEye(1,0);
 ChMouth(1,0);
 ChEye(4,2);
@@ -220,16 +219,16 @@ ChMouth(1,1);
 ChMotion(1,0);
 ChCheek(1,7);
 VoicePlay("T020B21000_01_130");
-MsgDisp("Kazama","There's no such thing. 
+MsgDisp("Kazama","There's no such thing.
 ...Honda, were you watching?∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020B21000_03_070");
-MsgDisp("Honda","Yes yes, I heard you had arrived. 
-Now, let's look back on the last
-three years together");
+MsgDisp("Honda","Yes yes, I heard you had arrived.
+Now, let's look back on the last three
+years together");
 ChEye(1,2);
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);

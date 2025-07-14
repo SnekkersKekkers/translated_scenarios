@@ -38,9 +38,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("A020700000_07_020");
-MsgDisp("Mikage?","What's up with you guys, forgotten 
-me already? You just saw me at the staff 
-introduction!");
+MsgDisp("Mikage?","What's up with you guys, forgotten me
+already?
+You just saw me at the staff introduction!");
 SEPlay("EV_SE_788",0.3,0.3);
 SEPlay("EV_SE_GAYA_007",0.2,0.5);
 SEPlay("EV_SE_861",0.2,0.5);
@@ -106,15 +106,14 @@ ChMouth(32,1);
 VoicePlay("A020700000_32_010");
 MsgDisp("VP Himuro","Hmm.");
 MsgDisp("主人公","(The vice principal!
-If I remember correctly, his name's 
+If I remember correctly, his name's
 Himuro......)");
 BGMPlay("BGM_HANYOU_C",0.01);
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("A020700000_32_020");
-MsgDisp("VP Himuro","Ahem.
-Mikage-sensei, follow me to the staff 
-room immediately.");
+MsgDisp("VP Himuro","Ahem. Mikage-sensei, follow me to the
+staff room immediately.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -180,8 +179,7 @@ ChMotion(7,0);
 SEStop("EV_SE_GAYA_017");
 VoicePlay("A020700000_07_110");
 MsgDisp("Mikage","Well, I guess today you get a special
-edition version of me.
-So? Where were we?");
+edition version of me. So? Where were we?");
 VoicePlay("A020700000_42_090");
 MsgDisp("Male Student A","You barely told us your name.");
 SEPlay("EV_SE_864",0.2,0.4);
@@ -191,27 +189,26 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("A020700000_07_120");
-MsgDisp("Mikage","Wait wait wait! Shh! Shh!
-Stop the noise, I tell you!");
+MsgDisp("Mikage","Wait wait wait! Shh! Shh! Stop the noise,
+I tell you!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("A020700000_07_130");
-MsgDisp("Mikage","......Alright, let me introduce myself 
+MsgDisp("Mikage","......Alright, let me introduce myself
 again. I'm Mikage Kojiro, born on 25 May,
 I'm a cheerful and easy-going type O.");
-MsgDisp("主人公","(Hehe, it's the first time I've had
-a teacher tell us his birthday 
-in his introduction!)");
+MsgDisp("主人公","(Hehe, it's the first time I've had a
+teacher tell us his birthday in his
+introduction!)");
 SEStop("EV_SE_864",1.5)SEStop("EV_SE_GAYA_016",1);
 SEStop("EV_SE_788",1);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("A020700000_07_140");
-MsgDisp("Mikage","It's already time.
-Before we go, is there someone
-who desperately needs an answer to
+MsgDisp("Mikage","It's already time. Before we go, is there
+someone who desperately needs an answer to
 their question?");
 VoicePlay("A020700000_45_030");
 MsgDisp("School Girl B","Sensei, what subject do you 
@@ -220,19 +217,18 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("A020700000_07_150");
-MsgDisp("Mikage","That's essential information, right?
-I teach biology.
-I'm also the advisor for gardening 
-and track-and-field clubs.
-Although for track-and-field, I  
-merely serve as decoration.");
+MsgDisp("Mikage","That's essential information, right? I
+teach biology. I'm also the advisor for
+gardening and track-and-field clubs.
+Although for track-and-field, I merely
+serve as decoration.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("A020700000_07_160");
 MsgDisp("Mikage","Alright, last one......
 You, who's smiling, by the window.");
-MsgDisp("主人公","Smiling, by the window......... 
+MsgDisp("主人公","Smiling, by the window.........
 Does he mean me∋");
 ChEye(7,0);
 ChMouth(7,3);
@@ -240,9 +236,9 @@ ChMotion(7,0);
 VoicePlay("A020700000_07_170");
 MsgDisp("Mikage","Yeah, you,
 Give us a nice end question.");
-MsgDisp("主人公","What a request——
-Emm...... Ah, why did you draw a cow 
-on the black board?");
+MsgDisp("主人公","What a request—— Emm......
+Ah, why did you draw a cow on the black
+board?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -259,9 +255,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_190");
-MsgDisp("Mikage","Class over! Didn't I say 
-\"last question\"? If I have to tell you 
-everything, a year isn't enough!");
+MsgDisp("Mikage","Class over! Didn't I say \"last question\"?
+If I have to tell you everything, a year
+isn't enough!");
 SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.9);
 SEPlay("EV_SE_788",0.2);

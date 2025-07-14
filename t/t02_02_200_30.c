@@ -17,8 +17,8 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220030_02_010");
-MsgDisp("Sassa","Ryota and Inori would yell at me
-if I made you apologize.");
+MsgDisp("Sassa","Ryota and Inori would yell at me if I made
+you apologize.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -29,17 +29,16 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220030_02_030");
-MsgDisp("Sassa","I can't run with you, but...
-It's okay. I'm not just a track and 
-field fanatic anymore.");
+MsgDisp("Sassa","I can't run with you, but... It's okay.
+I'm not just a track and field fanatic
+anymore.");
 MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("T020220030_02_040");
-MsgDisp("Sassa","It would make me happy if you watched
-me run sometime.
-Phew... See you then.");
+MsgDisp("Sassa","It would make me happy if you watched me
+run sometime. Phew... See you then.");
 ChEye(2,4);
 BGMStop(3.6);
 MsgClose();

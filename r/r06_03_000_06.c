@@ -13,8 +13,8 @@ switch (ChPrmGet(3,6)){
     VoicePlay("R060300006_03_000");
     MsgDisp("Honda","Umm...
 How do I use this?");
-    MsgDisp("主人公","(Hmm, he seems to like my
-gift... I think?)");
+    MsgDisp("主人公","(Hmm, he seems to like my gift...
+I think?)");
     break ;
     case 3:
     case 4:
@@ -23,10 +23,11 @@ gift... I think?)");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("R060300006_03_010");
-    MsgDisp("Honda","Right, I could ask for your signature 
-on it. Then, it would be more valuable.");
-    MsgDisp("主人公","(Hmm, he seems to like my
-gift... I think?)");
+    MsgDisp("Honda","Right, I could ask for your signature on
+it.
+Then, it would be more valuable.");
+    MsgDisp("主人公","(Hmm, he seems to like my gift...
+I think?)");
     break ;
     default :
     DbgAssert(1);

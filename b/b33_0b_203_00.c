@@ -26,17 +26,17 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B330B20300_04_010");
-MsgDisp("Nanatsumori","I came across something 
-that looks like an insect...");
+MsgDisp("Nanatsumori","I came across something that looks like an
+insect...");
 ChEye(1,2);
 ChMotion(1,0);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20300_03_000");
-MsgDisp("Honda","This place is a recreation of a 
-tropical rainforest. There'll 
-be lots of strange insects too.");
+MsgDisp("Honda","This place is a recreation of a tropical
+rainforest.
+There'll be lots of strange insects too.");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -56,18 +56,18 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B20300_01_010");
-MsgDisp("Kazama","This is because you're talking 
-about bugs to Nanatsumori.");
-MsgDisp("主人公","Hey, there are also a lot of
-different kinds of flowers, so why
-don't you concentrate on looking 
-at them when walking around?");
+MsgDisp("Kazama","This is because you're talking about bugs
+to Nanatsumori.");
+MsgDisp("主人公","Hey, there are also a lot of different
+kinds of flowers, so why don't you
+concentrate on looking at them when
+walking around?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B20300_01_020");
-MsgDisp("Kazama","Sounds good, for example that red
-flower over there is weird. 
+MsgDisp("Kazama","Sounds good, for example that red flower
+over there is weird.
 Shall we go check it out?");
 ChEye(4,2);
 ChMouth(4,0);
@@ -80,9 +80,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20300_03_020");
-MsgDisp("Honda","That flower is a Sarracenia.
-It may look like that, but it's a 
-carnivorous plant.
+MsgDisp("Honda","That flower is a Sarracenia. It may look
+like that, but it's a carnivorous plant.
 It digests in its leaves.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -101,7 +100,7 @@ ChMotion(3,3,1);
 VoicePlay("B330B20300_03_030");
 MsgDisp("Honda","Let's all go take a closer look!");
 MsgDisp("主人公","(｛本多＊＊｝ is so lively.
-As for ｛七ツ森＊｝... 
+As for ｛七ツ森＊｝...
 he looks a bit pitiful?)");
 BGMStop();
 MsgClose();

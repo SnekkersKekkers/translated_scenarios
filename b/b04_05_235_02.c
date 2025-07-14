@@ -6,9 +6,9 @@ ChOpen(5,255,2,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040523501_05_000");
-MsgDisp("Hiiragi","I'd love to have the honour 
-of producing something like this.");
-MsgSel("It seems like it'll be a wonderful haunted house","A Haunted House by Habataki Theater Troupe?","If it's｛柊＊＊＊｝, the ghost would be too pretty.");
+MsgDisp("Hiiragi","I'd love to have the honour of producing
+something like this.");
+MsgSel("It seems like it'll be a wonderful haunted house.","A Haunted House by Habataki Theater Troupe?","If it's ｛柊＊＊＊｝, the ghost would be too pretty.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040523501_05_010");
-    MsgDisp("Hiiragi","Heheheh....
-I'll let you experience real fear.");
+    MsgDisp("Hiiragi","Heheheh.... I'll let you experience real
+fear.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -58,8 +58,7 @@ I said I would be a producer...");
         ChMotion(5,0);
         VoicePlay("B040523501_05_040");
         MsgDisp("Hiiragi","Thank you.
-But beauty and fear aren't
-that far apart.");
+But beauty and fear aren't that far apart.");
         ChEye(5,4);
         ChMouth(5,0);
         ChMotion(5,1);
@@ -82,8 +81,7 @@ But, what I said was genuine.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040523501_05_080");
-        MsgDisp("Hiiragi","...Yes.
-So to me, you are much scarier
+        MsgDisp("Hiiragi","...Yes. So to me, you are much scarier
 than this haunted house.");
         MsgDisp("主人公","Ehh?");
         ChEye(5,4);

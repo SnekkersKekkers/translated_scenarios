@@ -11,17 +11,17 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120301_01_010");
 MsgDisp("Kazama","Why are you responding like it's got
-nothing to do with you? I'm actually
-talking about you.");
+nothing to do with you?
+I'm actually talking about you.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120301_01_020");
-MsgDisp("Kazama","You need to be a bit more self-aware. Do
-you understand just how magnetic a person
-you are?");
+MsgDisp("Kazama","You need to be a bit more self-aware.
+Do you understand just how magnetic a
+person you are?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -60,8 +60,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120301_01_070");
 MsgDisp("Kazama","You're the only one whose opinion I care
-about at school. I'm not interested in
-anyone else.");
+about at school.
+I'm not interested in anyone else.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -70,7 +70,8 @@ MsgDisp("Kazama","......But what you have is something
 totally different. Everyone like you, no
 strings attached. Your family doesn't
 matter.");
-MsgDisp("主人公","That's not true...... But thanks.");
+MsgDisp("主人公","That's not true......
+But thanks.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

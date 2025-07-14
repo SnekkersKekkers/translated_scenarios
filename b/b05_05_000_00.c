@@ -28,8 +28,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B050500000_05_020");
-MsgDisp("Hiiragi","The deck of the ship looks exactly
-like the stage.");
+MsgDisp("Hiiragi","The deck of the ship looks exactly like
+the stage.");
 MsgDisp("主人公","Hehe, that's true.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -46,8 +46,8 @@ ChMouth(5,2);
 ChMotion(5,0,1);
 VoicePlay("B050500000_05_040");
 MsgDisp("Hiiragi","So suddenly too, I wonder......");
-MsgDisp("主人公","I wonder if they think we're
-going to feed them?");
+MsgDisp("主人公","I wonder if they think we're going to feed
+them?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -79,7 +79,8 @@ Wait(50,0);
 StlEyeOpenLevel(5,5);
 VoicePlay("B050500000_05_070");
 MsgDisp("Hiiragi","Good job!
-......Did you see that?　It caught it.");
+......Did you see that?
+It caught it.");
 MsgDisp("主人公","Yeah, that was cute!
 My turn now......Catch!");
 SEStop("EV_SE_729",0.5);
@@ -115,8 +116,8 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("B050500000_05_100");
-MsgDisp("Hiiragi","Let's come again sometime to
-the ship's stage.");
+MsgDisp("Hiiragi","Let's come again sometime to the ship's
+stage.");
 MsgDisp("主人公","Yeah!");
 BGMStop();
 MsgClose();

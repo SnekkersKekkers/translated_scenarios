@@ -6,7 +6,8 @@ ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B040301100_03_000");
 MsgDisp("Honda","Hmmm, It looks like a satellite photo of
-Habataki City. Pretty cool.");
+Habataki City.
+Pretty cool.");
 MsgSel("Wow! The horizon looks like it's glittering!","Can we see ｛本多＊＊｝'s house from here?","It's so high, I can't move...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,9 +28,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,3,1);
     VoicePlay("B040301100_03_020");
-    MsgDisp("Honda","Wait a second... Our usual supermarket
-should be... Ah, I can't see it behind the
-parking lot.");
+    MsgDisp("Honda","Wait a second...
+Our usual supermarket should be...
+Ah, I can't see it behind the parking lot.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,7 +42,7 @@ parking lot.");
     ChMotion(3,0,1);
     VoicePlay("B040301100_03_030");
     MsgDisp("Honda","I see, you can't help it if you're scared.
-That reinforced glass floor over there... 
+That reinforced glass floor over there...
 no, you can't right?");
     MsgDateResultDisp();
     break ;

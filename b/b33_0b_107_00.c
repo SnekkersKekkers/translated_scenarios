@@ -27,8 +27,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10700_01_000");
-MsgDisp("Kazama","Nanatsumori, the exhibition 
-corner is nice, you know?");
+MsgDisp("Kazama","Nanatsumori, the exhibition corner is
+nice, you know?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
@@ -42,8 +42,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330B10700_01_010");
 MsgDisp("Kazama","Just look.
-Things from hundreds of years ago
-are right before our eyes.");
+Things from hundreds of years ago are
+right before our eyes.");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
@@ -54,9 +54,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10700_03_010");
 MsgDisp("Honda","Right right.
-Most of the items here are 
-masterpieces made by 
-artisans from that era.");
+Most of the items here are masterpieces
+made by artisans from that era.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -67,18 +66,17 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10700_01_020");
-MsgDisp("Kazama","There's even something
-connected to my family...");
+MsgDisp("Kazama","There's even something connected to my
+family...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B10700_03_020");
-MsgDisp("Honda","Oh that!
-The folding screen that was directly 
-bestowed to a Kazama family ancestor 
-by the Lord of Habataki Castle.");
-MsgDisp("主人公","Even though it's so old,
-it's beautiful even now.");
+MsgDisp("Honda","Oh that! The folding screen that was
+directly bestowed to a Kazama family
+ancestor by the Lord of Habataki Castle.");
+MsgDisp("主人公","Even though it's so old, it's beautiful
+even now.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -87,8 +85,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330B10700_01_030");
 MsgDisp("Kazama","Of course.
-It was kept carefully 
-in our storehouse.");
+It was kept carefully in our storehouse.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -105,8 +102,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B10700_03_030");
-MsgDisp("Honda","The old lady in my neighborhood 
-also calls Ryo-kun young master.");
+MsgDisp("Honda","The old lady in my neighborhood also calls
+Ryo-kun young master.");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
@@ -114,8 +111,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B330B10700_01_050");
 MsgDisp("Kazama","It's fine for the elderly to do it.
 let's move ont the next one.");
-MsgDisp("主人公","(｛風真＊＊｝, are you feeling 
-a bit embarrassed?)");
+MsgDisp("主人公","(｛風真＊＊｝, are you feeling a bit
+embarrassed?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

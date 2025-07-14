@@ -18,15 +18,16 @@ MsgDisp("主人公","Y-Yeah?");
 ChEye(3,0);
 ChMotion(3,0,1);
 VoicePlay("B150300200_03_030");
-MsgDisp("Honda","But today, it didn't seem like you were 
+MsgDisp("Honda","But today, it didn't seem like you were
 doing anything special.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300200_03_040");
-MsgDisp("Honda","You were just gently touching my head and 
-body... and yet, I felt really happy.");
+MsgDisp("Honda","You were just gently touching my head and
+body...
+and yet, I felt really happy.");
 MsgDisp("主人公","｛本多＊＊｝...");
 ChEye(3,0);
 ChMouth(3,4);
@@ -47,17 +48,17 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B150300200_03_070");
-MsgDisp("Honda","But you know, if that's true, then I'm 
-glad. Because it would mean that we both 
+MsgDisp("Honda","But you know, if that's true, then I'm
+glad. Because it would mean that we both
 have feelings for each other, right?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B150300200_03_080");
-MsgDisp("Honda","Alright, the path ahead is clear! I'm
-going to explore this theory further!");
-MsgDisp("主人公","(Explore further... How exactly is he
-going to do that?)");
+MsgDisp("Honda","Alright, the path ahead is clear!
+I'm going to explore this theory further!");
+MsgDisp("主人公","(Explore further...
+How exactly is he going to do that?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

@@ -29,8 +29,8 @@ Can you also let me know what you think?");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040423201_04_020");
-    MsgDisp("Nanatsumori","I'll also take some pictures after
-looking at a nice view.");
+    MsgDisp("Nanatsumori","I'll also take some pictures after looking
+at a nice view.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,9 +41,8 @@ looking at a nice view.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423201_04_030");
-    MsgDisp("Nanatsumori","Actually... I took one, secretly.
-Because you were making 
-such a nice expression.");
+    MsgDisp("Nanatsumori","Actually... I took one, secretly. Because
+you were making such a nice expression.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -28,8 +28,8 @@ Sure thing.");
     BGOpen("tr420",0);
     ScrFadeIn(0);
     VoicePlay("B030423001_04_020");
-    MsgDisp("Nanatsumori","Caring about my hair at an amusement
-park is pretty girly...
+    MsgDisp("Nanatsumori","Caring about my hair at an amusement park
+is pretty girly...
 Alright, I'm ready.");
     break ;
     case 1:
@@ -74,8 +74,8 @@ I want to look away, but...");
     ScrFadeIn(0);
     VoicePlay("B030423001_04_060");
     MsgDisp("Nanatsumori","I'm turning on my serious switch too!
-My messed up hair will be a testament
-to my bravery......!");
+My messed up hair will be a testament to
+my bravery......!");
     break ;
     case 3:
     MsgDispSksp(1,0);
@@ -83,8 +83,8 @@ to my bravery......!");
     ChMouth(4,0);
     VoicePlay("B030423001_04_070");
     MsgDisp("Nanatsumori","You got it.
-But it's absolutely against the rules
-to turn the handle like you're a DJ.");
+But it's absolutely against the rules to
+turn the handle like you're a DJ.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -120,8 +120,8 @@ Well, let's go.");
     ChMotion(4,1,1);
     VoicePlay("B030423001_04_100");
     MsgDisp("Nanatsumori","This was your decision, wasn't it?
-If you start to whine about it later,
-I'm going to laugh, you know?");
+If you start to whine about it later, I'm
+going to laugh, you know?");
     break ;
     default :
     DbgAssert(0);

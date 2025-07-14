@@ -25,16 +25,17 @@ As expected of Mikage-sensei...");
     VoicePlay("P130500000_05_010");
     MsgDisp("Hiiragi","Yes, I felt as if I were drawn in.
 What is this?");
-    MsgDisp("主人公","A giant maze
-If you can reach the end goal,
-you get to drink freshly squeezed milk?");
+    MsgDisp("主人公","A giant maze If you can reach the end
+goal, you get to drink freshly squeezed
+milk?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,0);
     ChEyeOpenLevel(5,9);
     VoicePlay("P130500000_05_020");
-    MsgDisp("Hiiragi","Wow, that's overwhelming... At any rate,
-I'll take the challenge, please.");
+    MsgDisp("Hiiragi","Wow, that's overwhelming...
+At any rate, I'll take the challenge,
+please.");
     MsgDisp("主人公","Yay♪
 Entry for one please～!");
     MsgClose();
@@ -44,8 +45,8 @@ Entry for one please～!");
     case 5:
     ScrFadeIn(0);
     MsgDisp("主人公","It's a maze～
-If you can reach the finish line, 
-you get to drink freshly squeezed milk～");
+If you can reach the finish line, you get
+to drink freshly squeezed milk～");
     MsgClose();
     ChOpen(5,254,0,3,2,#1,#1,0,0);
     VoicePlay("P130500000_05_030");

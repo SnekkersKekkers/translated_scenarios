@@ -24,8 +24,7 @@ I guess he didn't like that?)");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,4,2,4,#1,#1,5,0);
     VoicePlay("F010800001_08_010");
-    MsgDisp("Shirahane","No good.
-I can't even think of a reply...
+    MsgDisp("Shirahane","No good. I can't even think of a reply...
 Later.");
     MsgClose();
     BGMStop();
@@ -47,8 +46,8 @@ It seems like that name's no good.)");
     ChMotion(8,0,1);
     VoicePlay("F010800001_08_030");
     MsgDisp("Shirahane","That's no good.
-No matter how you look at it, it's
-no good.");
+No matter how you look at it, it's no
+good.");
     MsgDisp("主人公","Do you not like it when I call you
 that?");
     ChEye(8,2);

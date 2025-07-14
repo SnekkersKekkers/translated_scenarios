@@ -16,8 +16,8 @@ switch (ChPrmGet(5,6)){
     VoicePlay("S120500002_05_000");
     MsgDisp("Hiiragi","Thanks for today.");
     MsgDisp("主人公","No, thank you.
-Is this your last shrine visit as a
-high schooler?");
+Is this your last shrine visit as a high
+schooler?");
     ChEye(5,4);
     ChMouth(5,0);
     ChMotion(5,4);
@@ -28,19 +28,18 @@ high schooler?");
     ChMouth(5,4);
     ChMotion(5,2);
     VoicePlay("S120500002_05_020");
-    MsgDisp("Hiiragi","No, it's just that, for me,
-graduating isn't such a nice thing.");
+    MsgDisp("Hiiragi","No, it's just that, for me, graduating
+isn't such a nice thing.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("S120500002_05_030");
-    MsgDisp("Hiiragi","My New Years mood is ruined because
-of you.
-Cya.");
+    MsgDisp("Hiiragi","My New Years mood is ruined because of
+you. Cya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ is studying and
-working hard......
+    MsgDisp("主人公","(｛柊＊＊＊｝ is studying and working
+hard......
 I have to try hard too.)");
     BGMStop();
     MsgClose();
@@ -54,23 +53,22 @@ I have to try hard too.)");
     ScrFadeIn(0);
     ChEye(5,4);
     VoicePlay("S120500002_05_040");
-    MsgDisp("Hiiragi","The Gods are taking in all the
-wishes of Habataki's residents, I guess
-it's hard for them this time of year
-as well.");
-    MsgDisp("主人公","Yeah. There were so many people
-this year, too.");
+    MsgDisp("Hiiragi","The Gods are taking in all the wishes of
+Habataki's residents, I guess it's hard
+for them this time of year as well.");
+    MsgDisp("主人公","Yeah. There were so many people this year,
+too.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("S120500002_05_050");
-    MsgDisp("Hiiragi","I actually prayed for something
-extra this year too.");
+    MsgDisp("Hiiragi","I actually prayed for something extra this
+year too.");
     MsgDisp("主人公","Something extra?");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S120500002_05_060");
-    MsgDisp("Hiiragi","Yeah.
-I prayed to graduate properly with you.");
+    MsgDisp("Hiiragi","Yeah. I prayed to graduate properly with
+you.");
     MsgDisp("主人公","Hehe.");
     ChEye(5,0);
     VoicePlay("S120500002_05_070");
@@ -90,9 +88,9 @@ I prayed to graduate properly with you.");
     ScrFadeIn(0);
     ChEye(5,4);
     VoicePlay("S120500002_05_120");
-    MsgDisp("Hiiragi","The shrine was really crowded this
-year. Its sad to think that this is
-the last year.");
+    MsgDisp("Hiiragi","The shrine was really crowded this year.
+Its sad to think that this is the last
+year.");
     MsgDisp("主人公","Eh?");
     ChEye(5,2);
     ChMouth(5,4);
@@ -100,8 +98,8 @@ the last year.");
     VoicePlay("S120500002_05_130");
     MsgDisp("Hiiragi","Ah, I guess it's not the last one.
 But our last one as students.");
-    MsgDisp("主人公","Yeah, I guess that's true if
-we graduate properly.");
+    MsgDisp("主人公","Yeah, I guess that's true if we graduate
+properly.");
     ChEye(5,3);
     ChMouth(5,2);
     ChMotion(5,0);
@@ -119,8 +117,7 @@ You're like this too.");
     ChMotion(5,0);
     VoicePlay("S120500002_05_160");
     MsgDisp("Hiiragi","I have a new goal this year.
-I want to discover an unknown side of
-you.");
+I want to discover an unknown side of you.");
     MsgDisp("主人公","Uhm......");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();

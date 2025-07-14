@@ -30,8 +30,8 @@ Let's scream our lungs out!");
     ChMouth(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B030123001_01_020");
-    MsgDisp("Kazama","Everyone else's screams
-make for great sound effects, don't they?");
+    MsgDisp("Kazama","Everyone else's screams make for great
+sound effects, don't they?");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -87,7 +87,8 @@ from going on a roller coaster...");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B030123001_01_070");
-    MsgDisp("Kazama","Sounds good. Looks like it's empty.");
+    MsgDisp("Kazama","Sounds good.
+Looks like it's empty.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -99,8 +100,8 @@ from going on a roller coaster...");
     ChMotion(1,0,1);
     ScrFadeIn(0);
     VoicePlay("B030123001_01_080");
-    MsgDisp("Kazama","That person there looked
-a little pale, are they okay...?");
+    MsgDisp("Kazama","That person there looked a little pale,
+are they okay...?");
     break ;
     case 4:
     MsgDispSksp(1,0);
@@ -108,7 +109,8 @@ a little pale, are they okay...?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030123001_01_090");
-    MsgDisp("Kazama","It's here. That's totally that.");
+    MsgDisp("Kazama","It's here.
+That's totally that.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

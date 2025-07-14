@@ -15,8 +15,8 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_010");
-    MsgDisp("Kazama","Yeah. A friendly childhood rival...
-Is that too cliche?");
+    MsgDisp("Kazama","Yeah. A friendly childhood rival... Is
+that too cliche?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
@@ -67,10 +67,8 @@ next time.");
     ChMotion(1,3);
     VoiceEVSPlay(1);
     VoicePlay("N020100000_01_060");
-    MsgDisp("Kazama","｛主人公｝.
-You did it, top rank.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
-Thank you!");
+    MsgDisp("Kazama","｛主人公｝. You did it, top rank.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. Thank you!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

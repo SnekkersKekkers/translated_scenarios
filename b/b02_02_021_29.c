@@ -17,5 +17,5 @@ ChMotion(2,4);
 VoicePlay("B020202129_02_020");
 MsgDisp("Sassa","Well, I guess it depends on who's wearing
 it!");
-MsgDisp("主人公","(He seems to have started to like
-this kind of fashion.)");
+MsgDisp("主人公","(He seems to have started to like this
+kind of fashion.)");

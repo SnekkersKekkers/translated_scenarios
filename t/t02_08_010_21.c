@@ -43,8 +43,8 @@ StlOpen("ev_08_10");
 ScrFadeIn(0);
 VoicePlay("T020801000_08_290");
 MsgDisp("Shirahane","I love you.
-When I go to college,
-let's be together forever.");
+When I go to college, let's be together
+forever.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

@@ -27,17 +27,17 @@ Now, the bill......");
     ChMouth(8,4);
     ChMotion(8,0,1);
     VoicePlay("I660800004_08_020");
-    MsgDisp("Shirahane","The windows were so clean,
-I almost stuck my head in the car
-thinking they were open.");
+    MsgDisp("Shirahane","The windows were so clean, I almost stuck
+my head in the car thinking they were
+open.");
     MsgDisp("主人公","Ahaha!");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,3,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800004_08_030");
-    MsgDisp("Shirahane","Amazin'......
-Will ya teach me your techniques?");
+    MsgDisp("Shirahane","Amazin'...... Will ya teach me your
+techniques?");
     MsgDisp("主人公","(｛大地＊＊｝ praised me!
 Let's keep doing our best!)");
     break ;
@@ -62,28 +62,27 @@ Now, the bill......");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800004_08_060");
-    MsgDisp("Shirahane","......Hey.
-Is there some new window cleaner fluid?");
+    MsgDisp("Shirahane","......Hey. Is there some new window
+cleaner fluid?");
     MsgDisp("主人公","Hm?　It's the usual one.
 What's up?");
     ChEye(8,3);
     VoicePlay("I660800004_08_070");
-    MsgDisp("Shirahane","It was shinin', or rather, it was
-so clean ya couldn't even see the glass.");
+    MsgDisp("Shirahane","It was shinin', or rather, it was so clean
+ya couldn't even see the glass.");
     ChEye(8,0);
     ChMouth(8,2);
     ChMotion(8,0,1);
-    MsgDisp("主人公","Well, it's difficult for our
-customers to see out the window if it's
-dirty. So we should clean it well, right?");
+    MsgDisp("主人公","Well, it's difficult for our customers to
+see out the window if it's dirty.
+So we should clean it well, right?");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("I660800004_08_080");
     MsgDisp("Shirahane","You're a real master of service.
 Good!");
-    MsgDisp("主人公","(Yay!
-｛大地＊＊｝ praised me!)");
+    MsgDisp("主人公","(Yay! ｛大地＊＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

@@ -14,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040306200_03_010");
-    MsgDisp("Honda","That's right. It's easy to live here, so
-it's become a habitat for living
-creatures.");
+    MsgDisp("Honda","That's right.
+It's easy to live here, so it's become a
+habitat for living creatures.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,9 @@ creatures.");
     ChMouth(3,4);
     ChMotion(3,3);
     VoicePlay("B040306200_03_020");
-    MsgDisp("Honda","Let's see～ Wait, isn't this the part
-where we both fall in!?");
+    MsgDisp("Honda","Let's see～
+Wait, isn't this the part where we both
+fall in!?");
     MsgDateResultDisp();
     break ;
     case 2:

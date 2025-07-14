@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040601000_06_010");
-    MsgDisp("Himuro","Good.
-I'm looking forward to seeing you in it.");
+    MsgDisp("Himuro","Good. I'm looking forward to seeing you in
+it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ I'm looking forward to seeing you in it.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040601000_06_020");
-    MsgDisp("Himuro","What's with the hesitation? That
-nonsense makes no sense.");
+    MsgDisp("Himuro","What's with the hesitation?
+That nonsense makes no sense.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,9 +39,8 @@ nonsense makes no sense.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040601000_06_030");
-    MsgDisp("Himuro","What's with that, you don't care
-about my opinion and just want me to
-hang around?");
+    MsgDisp("Himuro","What's with that, you don't care about my
+opinion and just want me to hang around?");
     MsgDateResultDisp();
     break ;
     default :

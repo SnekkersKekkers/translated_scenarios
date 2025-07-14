@@ -11,7 +11,8 @@ MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ also.");
 ChEye(5,2);
 VoicePlay("G020510000_05_020");
 MsgDisp("Hiiragi","Right now, I'm the only one looking at
-you. Thinking about that, it's scary.");
+you.
+Thinking about that, it's scary.");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
 ChMotion(5,0);

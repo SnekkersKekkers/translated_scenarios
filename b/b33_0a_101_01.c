@@ -16,8 +16,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("B330A10101_01_000");
-MsgDisp("Kazama","｛主人公｝, 
-where do you want to go?");
+MsgDisp("Kazama","｛主人公｝, where do you want to go?");
 MsgDisp("主人公","Eh, me? ");
 ChEye(2,0);
 ChMouth(2,4);
@@ -67,21 +66,20 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10101_06_010");
-MsgDisp("Himuro","Right.
-Nozomu-senpai, is there 
-something wrong with it?");
+MsgDisp("Himuro","Right. Nozomu-senpai, is there something
+wrong with it?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A10101_02_030");
-MsgDisp("Sassa","Uh, it looks like it'd be 
-easy to move around in but...");
+MsgDisp("Sassa","Uh, it looks like it'd be easy to move
+around in but...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10101_01_020");
-MsgDisp("Kazama","No, you're not supposed to move
-around in these sorts of clothes.
+MsgDisp("Kazama","No, you're not supposed to move around in
+these sorts of clothes.
 You know that much right?");
 MsgDisp("主人公","Eh? Why?");
 ChMouth(1,2);
@@ -111,22 +109,21 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10101_01_040");
 MsgDisp("Kazama","The city is filled with people like Sassa.
-I can't leave you alone when
-you're dressed like this.");
+I can't leave you alone when you're
+dressed like this.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("B330A10101_02_050");
 MsgDisp("Sassa","What do you mean by \"like\" me?
-It's not something I
-have to be guilty over!");
+It's not something I have to be guilty
+over!");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330A10101_06_030");
-MsgDisp("Himuro","Nozomu-senpai, 
-You saying that with a red 
+MsgDisp("Himuro","Nozomu-senpai, You saying that with a red
 face isn't persuading us.");
 ChEye(1,0);
 ChMouth(1,2);

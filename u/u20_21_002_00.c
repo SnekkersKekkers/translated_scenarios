@@ -14,7 +14,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U202100200_21_010");
-MsgDisp("Michiru","I guess so? 
+MsgDisp("Michiru","I guess so?
 If it smells nice, I'll buy it.
 Okay, Mari can have this one.");
 MsgDisp("主人公","Eh, really?

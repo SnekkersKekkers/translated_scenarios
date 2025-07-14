@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040321100_03_010");
     MsgDisp("Honda","Yep yep.
-I somewhat even want to
-go inside the cage.");
+I somewhat even want to go inside the
+cage.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +42,8 @@ Ah, let's take a video too.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040321100_03_030");
-    MsgDisp("Honda","Eh? I want to see everything.
-You too right?");
+    MsgDisp("Honda","Eh? I want to see everything. You too
+right?");
     MsgDateResultDisp();
     break ;
     default :

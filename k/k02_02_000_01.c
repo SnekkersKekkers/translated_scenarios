@@ -20,8 +20,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("K020200001_02_010");
-MsgDisp("Sassa","It's a little late,
-but here's your birthday present.");
+MsgDisp("Sassa","It's a little late, but here's your
+birthday present.");
 MsgDisp("主人公","Oh.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -44,6 +44,6 @@ BGMStop();
 MsgClose();
 ChClose(2);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛颯砂＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛颯砂＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

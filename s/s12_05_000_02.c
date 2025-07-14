@@ -16,8 +16,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("S120500001_05_000");
     MsgDisp("Hiiragi","All of our enthusiasm blew away
 the cold.");
-    MsgDisp("主人公","Yep.
-You were really fun today, thanks for
+    MsgDisp("主人公","Yep. You were really fun today, thanks for
 bringing me.");
     VoicePlay("S120500001_05_010");
     MsgDisp("Hiiragi","Yeah. Bye then.");
@@ -42,9 +41,9 @@ I hope we have a good year......)");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S120500001_05_030");
-    MsgDisp("Hiiragi","Anyway, it's good that we were
-able to visit this year. Thanks for your
-hard work.");
+    MsgDisp("Hiiragi","Anyway, it's good that we were able to
+visit this year.
+Thanks for your hard work.");
     ChEye(5,0);
     VoicePlay("S120500001_05_040");
     MsgDisp("Hiiragi","Okay, let's go home.
@@ -63,9 +62,9 @@ I'll take you.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120500001_05_070");
-    MsgDisp("Hiiragi","It's crowded and there's a lot of
-people, but because everyone's here to
-pray, it was refreshing.");
+    MsgDisp("Hiiragi","It's crowded and there's a lot of people,
+but because everyone's here to pray, it
+was refreshing.");
     MsgDisp("主人公","Yeah, you're right.
 I was also able to make a good wish.
 What about ｛柊＊＊＊｝?");
@@ -78,16 +77,15 @@ distracted while doing so.");
     MsgDisp("主人公","Eh? Distracted?");
     ChMotion(5,4);
     VoicePlay("S120500001_05_090");
-    MsgDisp("Hiiragi","When I put my hands together,
-instead of praying for the success of
-the theater, I started thinking about
-you.");
+    MsgDisp("Hiiragi","When I put my hands together, instead of
+praying for the success of the theater, I
+started thinking about you.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("S120500001_05_100");
-    MsgDisp("Hiiragi","Well, I guess it's good for both
-you and the theater to be well. So
-there's no problem right?");
+    MsgDisp("Hiiragi","Well, I guess it's good for both you and
+the theater to be well.
+So there's no problem right?");
     MsgDisp("主人公","Uhm......yeah.");
     ChEye(5,4);
     VoicePlay("S120500001_05_110");

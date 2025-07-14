@@ -1,44 +1,42 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh..
-Looks like ｛風真＊＊｝ isn't here yet...");
+MsgDisp("主人公","Huh.. Looks like ｛風真＊＊｝ isn't here
+yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","｛風真＊＊｝ sure is late...");
 VoicePlay("B110100002_35_000");
-MsgDisp("?Boy","Hmm, I can't do this without getting 
-at least one. I finally found my 
-cash cow... no, I mean, talent!");
+MsgDisp("?Boy","Hmm, I can't do this without getting at
+least one. I finally found my cash cow...
+no, I mean, talent!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110100002_35_010");
-MsgDisp("Guy","Eh?
-It's here, it's here, my money maker～!");
+MsgDisp("Guy","Eh? It's here, it's here, my money
+maker～!");
 MsgDisp("主人公","Eh∋
 Money maker?");
 ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110100002_35_020");
-MsgDisp("Guy","Yeah, I won't let other agencies 
-have you. How about we cut out the 
-middle man and do 80 percent 
-management?");
+MsgDisp("Guy","Yeah, I won't let other agencies have you.
+How about we cut out the middle man and do
+80 percent management?");
 MsgDisp("主人公","What does that mean?");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110100002_35_030");
-MsgDisp("Guy","Ehh∋
-The kids these days are sharp. 
-Okay, let's split it 50-50!");
+MsgDisp("Guy","Ehh∋ The kids these days are sharp. Okay,
+let's split it 50-50!");
 MsgDisp("主人公","U-Um...");
 ChEye(35,0);
 ChMouth(35,0);
 ChEyeOpenLevel(35,0);
 VoicePlay("B110100002_35_040");
-MsgDisp("Guy","No more than this. 
+MsgDisp("Guy","No more than this.
 Alright, let's settle here!");
 ChPosition(35,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -52,20 +50,21 @@ do you have with her?");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110100002_35_050");
-MsgDisp("Guy","Wow, cha-ching! Second box! 
+MsgDisp("Guy","Wow, cha-ching!
+Second box!
 We also manage male talent!");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B110100002_01_010");
-MsgDisp("Kazama","Are you alright? 
+MsgDisp("Kazama","Are you alright?
 He hasn't done anything to you?");
 MsgDisp("主人公","Yeah, I'm alright.");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110100002_35_060");
-MsgDisp("Guy","I wouldn't do anything reckless 
-to our precious talent.");
+MsgDisp("Guy","I wouldn't do anything reckless to our
+precious talent.");
 MsgDispSksp(1,5);
 ChEye(1,2);
 ChMouth(1,2);
@@ -93,8 +92,8 @@ ChEye(35,1);
 ChMouth(35,1);
 ChEyeOpenLevel(35,0);
 VoicePlay("B110100002_35_080");
-MsgDisp("Guy","Being ignored is the hardest 
-thing at this age.");
+MsgDisp("Guy","Being ignored is the hardest thing at this
+age.");
 MsgDispSksp(1,5);
 ChEye(1,0);
 ChMouth(1,1);

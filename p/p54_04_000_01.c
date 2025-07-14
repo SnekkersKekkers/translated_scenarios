@@ -23,8 +23,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P540400001_04_020");
 MsgDisp("Nanatsumori","Well, in a way it was a success?
-I was so nervous I didn't 
-have time to sleep.");
+I was so nervous I didn't have time to
+sleep.");
 MsgDisp("主人公","(Ughh...
 I should have practiced more...)");
 MsgClose();

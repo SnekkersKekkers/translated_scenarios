@@ -18,8 +18,8 @@ Now, do as you please.");
     NSSEye(5,0);
     NSSMouth(5,4);
     VoicePlay("B160500400_05_020");
-    MsgDisp("Hiiragi","No, I have no intention of continuously 
-letting myself be beaten. ");
+    MsgDisp("Hiiragi","No, I have no intention of continuously
+letting myself be beaten.");
     break ;
     default :
     DbgAssert(0);

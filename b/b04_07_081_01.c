@@ -5,8 +5,8 @@ ChMotion(7,3);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040708101_07_000");
-MsgDisp("Mikage","The cherry blossoms are lit
-up at night huh...");
+MsgDisp("Mikage","The cherry blossoms are lit up at night
+huh...");
 MsgSel("I want to see it.","I want to see them in the sun","I wonder what they're like at night?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +30,8 @@ during the day.");
     ChMotion(7,5);
     VoicePlay("B040708101_07_020");
     MsgDisp("Mikage","You are always right.
-Right, flowers should be 
-seen with the sun.");
+Right, flowers should be seen with the
+sun.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -45,8 +45,8 @@ seen with the sun.");
     ChMotion(7,2);
     VoicePlay("B040708101_07_030");
     MsgDisp("Mikage","I'm guessing quite magical?
-But, if I were a flower, it'd be 
-too bright, and I'd want them to stop.");
+But, if I were a flower, it'd be too
+bright, and I'd want them to stop.");
     MsgDateResultDisp();
     break ;
     default :

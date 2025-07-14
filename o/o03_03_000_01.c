@@ -14,10 +14,10 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("O030300001_03_000");
-    MsgDisp("Honda","I think we did well enough
-by not coming last, right?");
-    MsgDisp("主人公","(Hm, I wish we could've
-been a little more in sync......)");
+    MsgDisp("Honda","I think we did well enough by not coming
+last, right?");
+    MsgDisp("主人公","(Hm, I wish we could've been a little more
+in sync......)");
     break ;
     case 3:
     ChEye(3,0);
@@ -46,9 +46,9 @@ No, we were definitely out of sync......)");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O030300001_03_040");
-    MsgDisp("Honda","Hm, why are you apologizing? A team
-in a three-legged race has two people,
-right? Then, I should apologize, too.");
+    MsgDisp("Honda","Hm, why are you apologizing? A team in a
+three-legged race has two people, right?
+Then, I should apologize, too.");
     MsgDisp("主人公","No, but......");
     ChEye(3,0);
     ChMouth(3,3);
@@ -57,9 +57,8 @@ right? Then, I should apologize, too.");
     MsgDisp("Honda","I'm satisfied, you know?
 I was glad to just be in a team with you.
 Anything more would be asking too much.");
-    MsgDisp("主人公","(Ugh......
-But I still wish we were a little
-more in sync......)");
+    MsgDisp("主人公","(Ugh...... But I still wish we were a
+little more in sync......)");
     break ;
     default :
     DbgAssert(1);

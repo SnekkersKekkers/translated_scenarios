@@ -13,8 +13,8 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("S120D00004_21_000");
-MsgDisp("Michiru","Our last shrine visit as high
-schoolers is over, huh...");
+MsgDisp("Michiru","Our last shrine visit as high schoolers is
+over, huh...");
 MsgDisp("主人公","Yeah......");
 ChEye(21,0);
 ChMouth(21,0);
@@ -36,14 +36,16 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("S120D00004_21_020");
-MsgDisp("Michiru","......I can't. It's been a sad feeling
-since the New Year started.");
+MsgDisp("Michiru","......I can't.
+It's been a sad feeling since the New Year
+started.");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("S120D00004_22_010");
 MsgDisp("Hikaru","We'll still be friends even after we
-graduate, right? The three of us.");
+graduate, right?
+The three of us.");
 MsgDisp("主人公","Of course!");
 ChEye(21,0);
 ChMouth(21,0);
@@ -78,9 +80,9 @@ MsgClose();
 SEPlay("EV_SE_856");
 ChClose(21,0,30);
 ChClose(22,0,30);
-MsgDisp("主人公","(Graduation...huh?
-Okay, there's only a little bit of
-high school life left. Let's have fun!)");
+MsgDisp("主人公","(Graduation...huh? Okay, there's only a
+little bit of high school life left. Let's
+have fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

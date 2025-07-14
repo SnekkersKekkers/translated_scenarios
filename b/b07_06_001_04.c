@@ -1,6 +1,5 @@
-MsgDisp("主人公","Hey, ｛氷室＊＊｝.
-What do you normally talk about with
-｛風真＊＊｝ and ｛颯砂＊＊｝?");
+MsgDisp("主人公","Hey, ｛氷室＊＊｝. What do you normally talk
+about with ｛風真＊＊｝ and ｛颯砂＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -44,8 +43,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B070600001_06_300");
-MsgDisp("Himuro","——Well, there are other things we 
-talk about, but I can't say those.");
+MsgDisp("Himuro","——Well, there are other things we talk
+about, but I can't say those.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -54,7 +53,8 @@ VoicePlay("B070600001_06_310");
 MsgDisp("Himuro","Because it's talk between men.
 That's all.");
 MsgDisp("主人公","(Talk between men...
-I'm a bit... no, I'm quite curious.)");
+I'm a bit...
+no, I'm quite curious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

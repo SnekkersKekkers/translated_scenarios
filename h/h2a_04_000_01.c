@@ -15,9 +15,9 @@ Good work.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("H2A0400001_04_010");
-    MsgDisp("Nanatsumori","Hey...... stop that.
-Do you want me to comfort you?
-Me, who's super bad at sports?");
+    MsgDisp("Nanatsumori","Hey...... stop that. Do you want me to
+comfort you? Me, who's super bad at
+sports?");
     MsgDisp("主人公","......Hehe, ahaha!");
     ChEye(4,4);
     ChMouth(4,3);
@@ -25,9 +25,9 @@ Me, who's super bad at sports?");
     VoicePlay("H2A0400001_04_020");
     MsgDisp("Nanatsumori","Don't laugh at me.
 Well, as long as you're happy, I guess.");
-    MsgDisp("主人公","(We might have lost, but
-I'm glad that I stayed as
-the track and field club manager......)");
+    MsgDisp("主人公","(We might have lost, but I'm glad that I
+stayed as the track and field club
+manager......)");
     break ;
     case 4:
     case 5:
@@ -38,10 +38,8 @@ the track and field club manager......)");
     ScrFadeIn(0);
     VoiceEVSPlay(4);
     VoicePlay("H2A0400001_04_030");
-    MsgDisp("Nanatsumori","｛主人公｝.
-Good work.");
-    MsgDisp("主人公","｛七ツ森＊｝......
-Ugh......");
+    MsgDisp("Nanatsumori","｛主人公｝. Good work.");
+    MsgDisp("主人公","｛七ツ森＊｝...... Ugh......");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,1,1);
@@ -66,15 +64,15 @@ Your smiling face.");
     ChMouth(4,3);
     VoicePlay("H2A0400001_04_080");
     MsgDisp("Nanatsumori","Even if you all didn't win the
-championships, I know how amazing our
-Haba High track team is, including you.");
+championships, I know how amazing our Haba
+High track team is, including you.");
     ChMotion(4,3,1);
     VoicePlay("H2A0400001_04_090");
     MsgDisp("Nanatsumori","So you don't need to cry.
 I'm proud of you, actually.");
-    MsgDisp("主人公","(We might have lost, but
-I'm glad that I stayed as
-the track and field club manager......)");
+    MsgDisp("主人公","(We might have lost, but I'm glad that I
+stayed as the track and field club
+manager......)");
     break ;
     default :
     DbgAssert(1);

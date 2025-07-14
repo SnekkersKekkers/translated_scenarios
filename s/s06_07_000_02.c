@@ -14,9 +14,8 @@ It's better if we visit the shrine early");
     ChMouth(7,0);
     ChMotion(7,0,1);
     VoicePlay("S060700002_07_010");
-    MsgDisp("Mikage","Okay, let's take our time going
-there. We can think of a wish along the
-way.");
+    MsgDisp("Mikage","Okay, let's take our time going there.
+We can think of a wish along the way.");
     break ;
     case 4:
     case 5:

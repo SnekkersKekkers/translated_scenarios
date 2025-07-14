@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040402201_04_010");
-    MsgDisp("Nanatsumori","Yeah. 
-Seems like we can enjoy a multi-color
-world until the sun sinks 
+    MsgDisp("Nanatsumori","Yeah. Seems like we can enjoy a
+multi-color world until the sun sinks
 under the horizon.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -29,9 +28,9 @@ under the horizon.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040402201_04_020");
-    MsgDisp("Nanatsumori","Haha, will you come with me?
-If there's another opportunity,
-definitely. Thank you.");
+    MsgDisp("Nanatsumori","Haha, will you come with me? If there's
+another opportunity, definitely. Thank
+you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

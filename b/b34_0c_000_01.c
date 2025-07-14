@@ -37,8 +37,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B340C00001_06_010");
-MsgDisp("Himuro","I don't normally take 
-on roles like this...");
+MsgDisp("Himuro","I don't normally take on roles like
+this...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

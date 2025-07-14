@@ -14,8 +14,7 @@ MsgDisp("主人公","Oh, ｛みちる＊｝ and ｛ひかる＊｝.
 Good morning!");
 ChMotion(22,4,1);
 VoicePlay("F100130002_22_000");
-MsgDisp("Hikaru","Aha▼
-The three of us have gathered here
+MsgDisp("Hikaru","Aha▼ The three of us have gathered here
 early, so today will be a good day♪");
 ChEye(21,0);
 ChMouth(21,0);
@@ -55,7 +54,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F100130002_21_020");
 MsgDisp("Michiru","That's right.
-It's different from when she's with 
+It's different from when she's with
 Kazama-kun.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -80,8 +79,8 @@ VoicePlay("F100130002_21_030");
 MsgDisp("Michiru","Haha, as expected of Kazama-kun.
 When it's regarding Mari, he's quick to
 understand.");
-MsgDisp("主人公","(...what in the world was he
-quick to understand?)");
+MsgDisp("主人公","(...what in the world was he quick to
+understand?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

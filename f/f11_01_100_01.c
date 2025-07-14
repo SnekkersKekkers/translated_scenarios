@@ -7,8 +7,7 @@ SEWait();
 ChOpen(1,254,0,2,3,0,#1,0,0);
 VoicePlay("F110110001_01_000");
 MsgDisp("Kazama","Hah...");
-MsgDisp("主人公","Oh, ｛風真＊＊｝.
-What's the matter?");
+MsgDisp("主人公","Oh, ｛風真＊＊｝. What's the matter?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -68,12 +67,13 @@ ChEye(1,2);
 ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F110110001_01_060");
-MsgDisp("Kazama","I'll see you later. If you have time,
-let's walk around together.");
+MsgDisp("Kazama","I'll see you later.
+If you have time, let's walk around
+together.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(It's another bad year for ｛風真＊＊｝, 
+MsgDisp("主人公","(It's another bad year for ｛風真＊＊｝,
 huh...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -15,8 +15,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0,1);
     ScrFadeIn(0);
     VoicePlay("B060200009_02_000");
-    MsgDisp("Sassa","I invited you but I didn't plan 
-well enough. Sorry.");
+    MsgDisp("Sassa","I invited you but I didn't plan well
+enough. Sorry.");
     MsgDispSksp(0);
     break ;
     default :

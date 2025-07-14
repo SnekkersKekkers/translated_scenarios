@@ -5,8 +5,8 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 ChMouth(1,4);
 VoicePlay("B040108300_01_000");
-MsgDisp("Kazama","When it's this hot out,
-won't the fireflies be exhausted?");
+MsgDisp("Kazama","When it's this hot out, won't the
+fireflies be exhausted?");
 MsgSel("They're probably resting a few feet under","I've heard the water here is cool in summer and warm in winter","Huh? There are no fireflies!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040108300_01_010");
-    MsgDisp("Kazama","You...
-That phrase means they're in a grave.");
+    MsgDisp("Kazama","You... That phrase means they're in a
+grave.");
     MsgDateResultDisp();
     break ;
     case 1:

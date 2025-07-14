@@ -29,8 +29,7 @@ We can still have a good time from here!");
     ChMouth(3,1);
     ChMotion(3,1);
     VoicePlay("B040323600_03_020");
-    MsgDisp("Honda","Hey.
-If everyone crowds in from the back,
+    MsgDisp("Honda","Hey. If everyone crowds in from the back,
 the people at the front will be in danger.");
     MsgDateResultDisp();
     break ;
@@ -41,8 +40,8 @@ the people at the front will be in danger.");
     ChMotion(3,3);
     VoicePlay("B040323600_03_030");
     MsgDisp("Honda","There's no need to give up.
-Come on, let's enjoy the whole 
-thing, the big crowd included!");
+Come on, let's enjoy the whole thing, the
+big crowd included!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

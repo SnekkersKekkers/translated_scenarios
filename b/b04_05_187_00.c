@@ -10,9 +10,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040518700_05_000");
-    MsgDisp("Hiiragi","Yeah,
-the story unfolded quickly 
-and I was naturally drawn in.");
+    MsgDisp("Hiiragi","Yeah, the story unfolded quickly and I was
+naturally drawn in.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

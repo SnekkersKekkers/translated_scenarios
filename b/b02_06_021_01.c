@@ -2,8 +2,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602101_06_000");
-MsgDisp("Himuro","Hmm...
-I guess that outfit is alright, too.");
+MsgDisp("Himuro","Hmm... I guess that outfit is alright,
+too.");
 MsgDisp("主人公","Really?");
 ChEye(6,0);
 ChMouth(6,4);

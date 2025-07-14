@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040430000_04_010");
     MsgDisp("Nanatsumori","Is that so?
-This is my first time bringing a girl
-up here, so it's kinda embarrassing.");
+This is my first time bringing a girl up
+here, so it's kinda embarrassing.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -33,8 +33,8 @@ up here, so it's kinda embarrassing.");
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040430000_04_020");
-    MsgDisp("Nanatsumori","It's a bit messy, but
-it's not unclean, okay?");
+    MsgDisp("Nanatsumori","It's a bit messy, but it's not unclean,
+okay?");
     MsgDateResultDisp();
     break ;
     case 2:

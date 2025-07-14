@@ -11,15 +11,15 @@ ChMotion(7,3);
 VoicePlay("P140700000_07_010");
 MsgDisp("Mikage","Seems like you guys made something
 amazing.");
-MsgDisp("主人公","｛御影＊＊｝, you finally reached the goal,
-huh?");
+MsgDisp("主人公","｛御影＊＊｝, you finally reached the
+goal, huh?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P140700000_07_020");
 MsgDisp("Mikage","Yeah, I was completely defeated.
-Thanks to that, the participation
-prize milk tastes even better.");
+Thanks to that, the participation prize
+milk tastes even better.");
 MsgDisp("主人公","Yay! This is a result of everyone in class
 researching really hard!");
 ChEye(7,0);

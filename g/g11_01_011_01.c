@@ -24,7 +24,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("G110101101_01_000");
 MsgDisp("Kazama","Right, right.
-Simon's hiring results are in. ");
+Simon's hiring results are in.");
 MsgDisp("主人公","Eh, really?");
 ChEye(1,0);
 ChMouth(1,2);

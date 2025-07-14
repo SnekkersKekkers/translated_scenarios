@@ -17,8 +17,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130001_01_020");
-MsgDisp("Kazama","I'm always okay with spending my time
-only with you. It's just that I don't hate
+MsgDisp("Kazama","I'm always okay with spending my time only
+with you. It's just that I don't hate
 being with them.");
 MsgDisp("主人公","Huh? But, ｛風真＊＊｝, you always look
 like you're having a lot of fun when
@@ -27,16 +27,17 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020130001_01_030");
-MsgDisp("Kazama","There you go again. You really don't get
-it. Listen, I'm not being with them.");
+MsgDisp("Kazama","There you go again.
+You really don't get it.
+Listen, I'm not being with them.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130001_01_040");
 MsgDisp("Kazama","I'm being with you, and you're being with
-them. The two things are totally
-different.");
+them.
+The two things are totally different.");
 MsgDisp("主人公","Ummm......");
 ChEye(1,0);
 ChMouth(1,2);

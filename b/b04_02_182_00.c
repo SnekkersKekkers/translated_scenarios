@@ -21,8 +21,7 @@ Well, that's fine.");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B040218200_02_010");
-    MsgDisp("Sassa","Sorry.
-I wasn't watching it properly
+    MsgDisp("Sassa","Sorry. I wasn't watching it properly
 enough to talk about it.");
     MsgDateResultDisp();
     break ;
@@ -33,8 +32,8 @@ enough to talk about it.");
     ChMotion(2,3);
     VoicePlay("B040218200_02_020");
     MsgDisp("Sassa","I feel the same.
-If you had said earlier, 
-I would've left right away.");
+If you had said earlier, I would've left
+right away.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

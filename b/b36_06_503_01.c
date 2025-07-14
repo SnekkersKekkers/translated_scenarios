@@ -20,8 +20,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650301_06_010");
 MsgDisp("Himuro","Why shoulders are so stiff.
-......Why did I decide to hang out
-with those guys?");
+......Why did I decide to hang out with
+those guys?");
 MsgDisp("主人公","You didn't enjoy?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -44,8 +44,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360650301_06_050");
-MsgDisp("Himuro","I mean it's not like I'm good
-friends with them!");
+MsgDisp("Himuro","I mean it's not like I'm good friends with
+them!");
 MsgDisp("主人公","Huh, is that so?");
 ChEye(6,1);
 ChMouth(6,0);
@@ -57,8 +57,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650301_06_070");
-MsgDisp("Himuro","......But it's not like we're on
-bad terms either.");
+MsgDisp("Himuro","......But it's not like we're on bad terms
+either.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -71,9 +71,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650301_06_090");
-MsgDisp("Himuro","You really don't think it's
-a bad thing do you?
-Jeez......");
+MsgDisp("Himuro","You really don't think it's a bad thing do
+you? Jeez......");
 MsgDisp("主人公","(You're not being honest, huh?)");
 BGMStop();
 MsgClose();

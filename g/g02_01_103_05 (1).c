@@ -38,9 +38,9 @@ VoicePlay("G020110305_01_040");
 MsgDisp("Kazama","And each day started to feel long again so
 I started putting together a plan to come
 back here.");
-MsgDisp("主人公","You're amazing, ｛風真＊＊｝...... The way
-you made what you came up with into
-reality, I mean.");
+MsgDisp("主人公","You're amazing, ｛風真＊＊｝......
+The way you made what you came up with
+into reality, I mean.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -53,16 +53,16 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110305_01_060");
 MsgDisp("Kazama","And since I came back, each day just goes
-by so fast. Like, it makes me wish I could
-stop time.");
+by so fast.
+Like, it makes me wish I could stop time.");
 MsgDisp("主人公","Yeah, time flies when you're having fun.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110305_01_070");
-MsgDisp("Kazama","Yes, yes. And thank you very much for
-that.");
+MsgDisp("Kazama","Yes, yes.
+And thank you very much for that.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,0);
@@ -73,7 +73,8 @@ VoicePlay("G020110305_01_080");
 MsgDisp("Kazama","Oh, but there was that one time where time
 really did stop. Wrapped up in the
 curtains in the classroom.");
-MsgDisp("主人公","Oh, yeah. When you......");
+MsgDisp("主人公","Oh, yeah.
+When you......");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

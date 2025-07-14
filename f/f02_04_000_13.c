@@ -23,9 +23,8 @@ MsgDisp("主人公","Yeah, same!");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("F020400013_04_020");
-MsgDisp("Nanatsumori","Habataki City is famous for its ocean
-and mountains, but Nagasaki is
-different.");
+MsgDisp("Nanatsumori","Habataki City is famous for its ocean and
+mountains, but Nagasaki is different.");
 ChMotion(4,0,1);
 VoicePlay("F020400013_04_030");
 MsgDisp("Nanatsumori","First of all, I want to try a castella
@@ -36,9 +35,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400013_04_040");
-MsgDisp("Nanatsumori","What?
-I've seen it in pictures,
-but I want to feel the real thing");
+MsgDisp("Nanatsumori","What? I've seen it in pictures, but I want
+to feel the real thing");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
@@ -47,5 +45,5 @@ MsgDisp("Nanatsumori","The contrast between the yellow and the
 brown, the soft and smooth texture, the
 light sweetness...... ah, I can't wait.");
 MsgDisp("主人公","(Uh huh......
-Is ｛七ツ森＊｝ really interested
-in the whole shape of the castella?)");
+Is ｛七ツ森＊｝ really interested in
+the whole shape of the castella?)");

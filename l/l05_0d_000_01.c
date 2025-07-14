@@ -13,8 +13,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("L050D00001_22_000");
-MsgDisp("Hikaru","Make sure to properly accept
-his feelings in return, 'kay?");
+MsgDisp("Hikaru","Make sure to properly accept his feelings
+in return, 'kay?");
 MsgDisp("主人公","Y-Yeah.
 I'm a little nervous......");
 ChEye(21,0);

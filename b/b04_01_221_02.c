@@ -6,8 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040122102_01_000");
-MsgDisp("Kazama","There's a coin operated 
-telescope over there.");
+MsgDisp("Kazama","There's a coin operated telescope over
+there.");
 MsgSel("Can you see all the way to Hanegasaki Beach?","My lord, let's take a look at how the people live!","There's that prank where it gets all black around your eyes.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -70,16 +70,14 @@ Then, you go first.");
         SEWait();
         BGOpen("tr321",0);
         ScrFadeIn(0);
-        MsgDisp("主人公","Amazing!
-Look, you can see the beautiful
+        MsgDisp("主人公","Amazing! Look, you can see the beautiful
 sky and mountains");
         VoicePlay("B040122102_01_050");
         MsgDisp("Kazama","Oi, don't get so carried away");
         SEPlay("EV_SE_026",0,0.4);
         SEWait();
-        MsgDisp("主人公","Eh∋
-｛風真＊＊｝!
-Something just flashed just now∈");
+        MsgDisp("主人公","Eh∋ ｛風真＊＊｝! Something just flashed
+just now∈");
         VoicePlay("B040122102_01_060");
         MsgDisp("Kazama","Got it, got it.
 It's dangerous, so that'll be all.");
@@ -109,11 +107,11 @@ it's now red around your eyes.");
         ChMotion(1,0);
         VoicePlay("B040122102_01_090");
         MsgDisp("Kazama","You don'have to do anything.
-Just do your best at whatever, 
-and be yourself.");
+Just do your best at whatever, and be
+yourself.");
         MsgDisp("主人公","(Even if you praise me...
-I'm still worried about the
-area around my eyes～!)");
+I'm still worried about the area around my
+eyes～!)");
         break ;
         default :
         DbgAssert(1);

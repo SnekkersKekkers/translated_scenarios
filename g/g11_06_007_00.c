@@ -30,8 +30,8 @@ BGOpen("ev006",1);
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛氷室＊＊｝, you were about to say
-'game centre', were you planning to go?");
+MsgDisp("主人公","｛氷室＊＊｝, you were about to say 'game
+centre', were you planning to go?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -41,24 +41,25 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600700_06_030");
-MsgDisp("Himuro","Well, yeah. I was wondering if I should
-practice a bit.");
+MsgDisp("Himuro","Well, yeah.
+I was wondering if I should practice a
+bit.");
 MsgDisp("主人公","Practice?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600700_06_040");
-MsgDisp("Himuro","Practice to be able to get the crane game 
+MsgDisp("Himuro","Practice to be able to get the crane game
 prizes out in one shot.");
 MsgDisp("主人公","Eh......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600700_06_050");
-MsgDisp("Himuro","Because I was frustrated 
-the last time we went together.");
-MsgDisp("主人公","(｛氷室＊＊｝, 
-was disappointed over that......)");
+MsgDisp("Himuro","Because I was frustrated the last time we
+went together.");
+MsgDisp("主人公","(｛氷室＊＊｝, was disappointed over
+that......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

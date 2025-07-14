@@ -2,8 +2,8 @@ BGOpen("sc722",0);
 BGMPlay("BGM_PLACE_SHOP",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year the Gardening Club's program
-is a cafe. I have to prepare herb tea and
+MsgDisp("主人公","(This year the Gardening Club's program is
+a cafe. I have to prepare herb tea and
 cookies though...)");
 MsgClose();
 ChOpen(31,254,2,2,2,#1,#1,0,0);

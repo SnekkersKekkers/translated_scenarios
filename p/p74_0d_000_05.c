@@ -29,15 +29,15 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("P740D00005_22_010");
 MsgDisp("Hikaru","It's alright!
-To Hikaru, Mari is the world's 
-number one cutest bride!");
+To Hikaru, Mari is the world's number one
+cutest bride!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P740D00005_21_020");
 MsgDisp("Michiru","I can't deny that?");
 MsgDisp("主人公","(It was a fail even at the end...
-But, I'm glad I continued with the 
+But, I'm glad I continued with the
 handicrafts club for three years...)");
 MsgClose();
 ScrFadeOut(0,0);

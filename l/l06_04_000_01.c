@@ -34,14 +34,14 @@ This is the triple return.");
 MsgDisp("主人公","Thanks so much!");
 ChMotion(4,0);
 VoicePlay("L060400001_04_050");
-MsgDisp("Nanatsumori","Not sure if you'll like it,
-but that's all my feelings right now.
+MsgDisp("Nanatsumori","Not sure if you'll like it, but that's all
+my feelings right now.
 See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(4);
-MsgDisp("主人公","(I got a White Day present
-from ｛七ツ森＊｝!
+MsgDisp("主人公","(I got a White Day present from
+｛七ツ森＊｝!
 I'm so happy.)");

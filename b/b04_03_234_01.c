@@ -5,8 +5,8 @@ ChOpen(3,255,2,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323401_03_000");
-MsgDisp("Honda","Phew...
-Looks like you went easy on me this time.");
+MsgDisp("Honda","Phew... Looks like you went easy on me
+this time.");
 MsgSel("I wanted it to spin faster...","It's most fun at this speed huh","Do you dislike tea cups?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,2);
     ChMotion(3,0);
     VoicePlay("B040323401_03_010");
-    MsgDisp("Honda","Sorry,
-can you tell me what you're 
-trying to achieve?");
+    MsgDisp("Honda","Sorry, can you tell me what you're trying
+to achieve?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -26,8 +25,8 @@ trying to achieve?");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040323401_03_020");
-    MsgDisp("Honda","I don't think it'll ever get
-to a point where I enjoy it.");
+    MsgDisp("Honda","I don't think it'll ever get to a point
+where I enjoy it.");
     MsgDateResultDisp();
     break ;
     case 2:

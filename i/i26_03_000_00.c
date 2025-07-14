@@ -19,16 +19,15 @@ switch (ChPrmGet(3,6)){
     Wait(40);
     VoicePlay("I260300000_03_010");
     MsgDisp("Honda","......Phew, thank goodness.
-I told you I'd take care of
-the heavy stuff, right?");
-    MsgDisp("主人公","｛本多＊＊｝, thanks......
-But I can't leave everything to you.");
+I told you I'd take care of the heavy
+stuff, right?");
+    MsgDisp("主人公","｛本多＊＊｝, thanks...... But I can't
+leave everything to you.");
     ChEye(3,1);
     ChMouth(3,4);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_020");
-    MsgDisp("Honda","That doesn't mean you
-should be reckless.
+    MsgDisp("Honda","That doesn't mean you should be reckless.
 At least use a cart.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_030");
@@ -67,49 +66,46 @@ I'll leave the cash register to you.");
     ChMouth(3,4);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_060");
-    MsgDisp("Honda","What do you mean?
-......Ah, a customer.
+    MsgDisp("Honda","What do you mean? ......Ah, a customer.
 Welcome!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_070");
-    MsgDisp("Honda","Then, can you just keep a record
-of the books sold and their prices?");
+    MsgDisp("Honda","Then, can you just keep a record of the
+books sold and their prices?");
     MsgDisp("主人公","Hm, but this......");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_080");
-    MsgDisp("Honda","We can't close up shop
-just because the cash register isn't
-working, right?");
+    MsgDisp("Honda","We can't close up shop just because the
+cash register isn't working, right?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_090");
     MsgDisp("Honda","I'll enter today's sales later.
-As long as you keep the records,
-it'll be easy.");
+As long as you keep the records, it'll be
+easy.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_100");
-    MsgDisp("Honda","Ah, for payments, use the spare
-money and calculator in that drawer.");
-    MsgDisp("主人公","Yeah......
-Thanks, ｛本多＊＊｝.");
+    MsgDisp("Honda","Ah, for payments, use the spare money and
+calculator in that drawer.");
+    MsgDisp("主人公","Yeah...... Thanks, ｛本多＊＊｝.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_110");
-    MsgDisp("Honda","Come on, stop looking like you're
-about to cry. The customers are
-waiting for your smile, so smile!");
-    MsgDisp("主人公","(Haa...... I made a lot of
-extra work for ｛本多＊＊｝.)");
+    MsgDisp("Honda","Come on, stop looking like you're about to
+cry. The customers are waiting for your
+smile, so smile!");
+    MsgDisp("主人公","(Haa...... I made a lot of extra work for
+｛本多＊＊｝. )");
     break ;
     default :
     DbgAssert(1);

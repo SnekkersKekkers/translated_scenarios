@@ -16,18 +16,17 @@ well-received...)");
     VoicePlay("P630100001_01_000");
     MsgDisp("Kazama","Pardon the intrusion.
 I came to enjoy some herbal tea.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
-Welcome. This year we're also 
-doing a vegetable sale.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝! Welcome. This year we're
+also doing a vegetable sale.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("P630100001_01_010");
     MsgDisp("Kazama","Heeh, your vegetables, huh?
-Somehow, I think I can tell 
-which it is just by looking.");
-    MsgDisp("主人公","Yes, because the person who 
-grew them is written down.");
+Somehow, I think I can tell which it is
+just by looking.");
+    MsgDisp("主人公","Yes, because the person who grew them is
+written down.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -56,17 +55,15 @@ Are there still the vegetables you grew?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P630100001_01_040");
-    MsgDisp("Kazama","I came in because I was interested in
-the herbs and vegetables you grew.");
-    MsgDisp("主人公","Welcome.
-You can drink herb tea here, though
-the vegetables are sold.");
+    MsgDisp("Kazama","I came in because I was interested in the
+herbs and vegetables you grew.");
+    MsgDisp("主人公","Welcome. You can drink herb tea here,
+though the vegetables are sold.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P630100001_01_050");
-    MsgDisp("Kazama","Understood.
-I'll buy some vegetables as a 
+    MsgDisp("Kazama","Understood. I'll buy some vegetables as a
 souvenir for my Grandpa.");
     MsgDisp("主人公","Yeah, I hope he likes it.");
     MsgClose();

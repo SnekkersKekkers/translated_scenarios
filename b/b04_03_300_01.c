@@ -18,9 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040330001_03_010");
-    MsgDisp("Honda","Yep yep, 
-If you're interested, 
-take anything you like.");
+    MsgDisp("Honda","Yep yep, If you're interested, take
+anything you like.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -44,9 +43,8 @@ Should I make one?");
     ChFace(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040330001_03_030");
-    MsgDisp("Honda","Eh? Yeah.
-What are you going to do with them
-if you don't read the books?");
+    MsgDisp("Honda","Eh? Yeah. What are you going to do with
+them if you don't read the books?");
     MsgDateResultDisp();
     break ;
     default :

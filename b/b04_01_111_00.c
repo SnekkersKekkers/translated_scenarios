@@ -20,7 +20,8 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         ChCheek(1,7);
         VoicePlay("B040111100_01_010");
-        MsgDisp("Kazama","The Princess of Ice... Uh-huh.");
+        MsgDisp("Kazama","The Princess of Ice...
+Uh-huh.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -45,8 +46,8 @@ Feeling satisfied?");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040111100_01_030");
     MsgDisp("Kazama","That's not like you.
-I expected to see you put up
-more of a struggle than that.");
+I expected to see you put up more of a
+struggle than that.");
     MsgDateResultDisp();
     break ;
     case 2:

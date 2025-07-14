@@ -17,11 +17,11 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H2A0100001_01_010");
-    MsgDisp("Kazama","I'm sure everyone is already happy
-enough that we came this close to winning
-the championships, right?");
-    MsgDisp("主人公","Yeah.
-A lot of them set new personal bests.");
+    MsgDisp("Kazama","I'm sure everyone is already happy enough
+that we came this close to winning the
+championships, right?");
+    MsgDisp("主人公","Yeah. A lot of them set new personal
+bests.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -35,9 +35,8 @@ I know you put your all into this.");
     VoicePlay("H2A0100001_01_030");
     MsgDisp("Kazama","Come on, show me your usual
 cheerful face.");
-    MsgDisp("主人公","(Yeah......
-It's frustrating, but I'm glad I did
-my best. Thank you, ｛風真＊＊｝!)");
+    MsgDisp("主人公","(Yeah...... It's frustrating, but I'm glad
+I did my best. Thank you, ｛風真＊＊｝! )");
     break ;
     case 4:
     case 5:
@@ -47,8 +46,8 @@ my best. Thank you, ｛風真＊＊｝!)");
     ScrFadeIn(0);
     VoicePlay("H2A0100001_01_040");
     MsgDisp("Kazama","......You did your best.");
-    MsgDisp("主人公","｛風真＊＊｝......
-But we didn't win the championships.");
+    MsgDisp("主人公","｛風真＊＊｝...... But we didn't win the
+championships.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -69,13 +68,13 @@ If they weren't, I wouldn't forgive them.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H2A0100001_01_070");
-    MsgDisp("Kazama","Here comes your last job.
-This is the time to show everyone what
-you've got, right? Everyone's waiting.");
+    MsgDisp("Kazama","Here comes your last job. This is the time
+to show everyone what you've got, right?
+Everyone's waiting.");
     MsgDisp("主人公","Yeah......!");
     MsgDisp("主人公","(That's right.
-We all did our best, so let's end it
-on a high note!)");
+We all did our best, so let's end it on a
+high note!)");
     break ;
     default :
     DbgAssert(1);

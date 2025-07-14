@@ -5,9 +5,8 @@ ChMotion(2,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030208002_02_000");
-MsgDisp("Sassa","The sun is pretty intense,
-so let's walk in the shade as much
-as we can.");
+MsgDisp("Sassa","The sun is pretty intense, so let's walk
+in the shade as much as we can.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Okay, sounds good.");
 MsgDispSksp(0);

@@ -3,8 +3,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(......Huh? It's a message from
-｛氷室＊＊｝. It says \"I'd like to talk,
-do you have time?\"......)");
+｛氷室＊＊｝. It says \"I'd like to talk, do
+you have time?\"......)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -18,9 +18,9 @@ BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,2,2,1,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's been a while since he came
-out of the water but......｛氷室＊＊｝
-hasn't said a word at all......)");
+MsgDisp("主人公","(It's been a while since he came out of
+the water but......｛氷室＊＊｝ hasn't said
+a word at all......)");
 while (1){
     RunEverydaySksp(6,0,0,1,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -53,9 +53,9 @@ VoicePlay("G110600200_06_050");
 MsgDisp("Himuro","Don't make me say it twice. You know the
 valentine's chocolate you gave me? It was
 delicious! That's all.");
-MsgDisp("主人公","Ah! I'm glad.
-Maybe it's because I tried my best.
-......Is that what you came here to say?");
+MsgDisp("主人公","Ah! I'm glad. Maybe it's because I tried
+my best. ......Is that what you came here
+to say?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
@@ -85,8 +85,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G110600200_06_090");
-MsgDisp("Himuro","Even if they're readily made easily, 
-The meaning behind them is complex......");
+MsgDisp("Himuro","Even if they're readily made easily, The
+meaning behind them is complex......");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -106,8 +106,9 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("G110600200_06_120");
-MsgDisp("Himuro","It's nothing! It looks like there's some
-nice waves coming, I'm off!");
+MsgDisp("Himuro","It's nothing!
+It looks like there's some nice waves
+coming, I'm off!");
 MsgDisp("主人公","(｛氷室＊＊｝......?)");
 BGMStop();
 MsgClose();

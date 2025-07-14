@@ -25,7 +25,8 @@ Time to call it a day.");
     ScrFadeIn(0);
     VoicePlay("B060400002_04_010");
     MsgDisp("Nanatsumori","What was today's climax?
-I can't remember... what was it?");
+I can't remember...
+what was it?");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -37,8 +38,8 @@ I can't remember... what was it?");
     ScrFadeIn(0);
     VoicePlay("B060400002_04_020");
     MsgDisp("Nanatsumori","It's fine to be a little unsatisfied.
-...That being said, I'm looking 
-forward to next time.");
+...That being said, I'm looking forward to
+next time.");
     MsgDispSksp(0);
     break ;
     default :

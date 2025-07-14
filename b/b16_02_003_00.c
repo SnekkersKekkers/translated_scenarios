@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     NSSMouth(2,2);
     VoicePlay("B160200300_02_020");
     MsgDisp("Sassa","...I see.
-That's a good way of
-getting my attention.");
+That's a good way of getting my attention.");
     break ;
     default :
     DbgAssert(0);

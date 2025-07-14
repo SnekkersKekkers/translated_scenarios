@@ -13,7 +13,8 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B060100011_01_010");
-    MsgDisp("Kazama","See you. Be careful on your way home.");
+    MsgDisp("Kazama","See you.
+Be careful on your way home.");
     break ;
     case 4:
     case 5:

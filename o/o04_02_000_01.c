@@ -19,8 +19,7 @@ I should've tried harder.)");
     ChOpen(2,30,3,2,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040200001_02_010");
-    MsgDisp("Sassa","I hate losing in
-any kind of competition.
+    MsgDisp("Sassa","I hate losing in any kind of competition.
 Aah, so frustrating!");
     MsgDisp("主人公","(We lost......
 I should've tried harder.)");
@@ -31,8 +30,7 @@ I should've tried harder.)");
     ChOpen(2,30,2,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040200001_02_020");
-    MsgDisp("Sassa","Seriously......
-I wanted to win for you.
+    MsgDisp("Sassa","Seriously...... I wanted to win for you.
 This sucks......");
     MsgDisp("主人公","(We lost......
 I should've tried harder.)");

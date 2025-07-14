@@ -32,9 +32,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ScrFadeIn(0);
-MsgDisp("主人公","Hey, ｛大地＊＊｝.
-You're not as energetic as usual.
-Are you feeling okay?");
+MsgDisp("主人公","Hey, ｛大地＊＊｝. You're not as
+energetic as usual. Are you feeling okay?");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
@@ -63,9 +62,8 @@ MsgDisp("Shirahane","......I......
 ......I have a goal.");
 MsgDisp("主人公","A goal?");
 VoicePlay("D020800800_08_070");
-MsgDisp("Shirahane","Yeah.
-But I have to be careful and consider
-both you and myself.");
+MsgDisp("Shirahane","Yeah. But I have to be careful and
+consider both you and myself.");
 MsgDisp("主人公","(｛大地＊＊｝ isn't his usual self.
 I wonder what his goal is......?)");
 MsgClose();

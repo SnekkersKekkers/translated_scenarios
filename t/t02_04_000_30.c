@@ -13,8 +13,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("T020400000_04_380");
-MsgDisp("Nanatsumori","I'm sorry. I never wanted to make you look
-so sad.");
+MsgDisp("Nanatsumori","I'm sorry.
+I never wanted to make you look so sad.");
 MsgDisp("主人公","But......");
 ChEye(4,2);
 ChMouth(4,4);

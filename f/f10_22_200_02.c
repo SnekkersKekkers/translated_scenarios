@@ -31,11 +31,10 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F102220002_22_010");
-MsgDisp("Hikaru","Ahaha!
-Uncle is still plenty young～
+MsgDisp("Hikaru","Ahaha! Uncle is still plenty young～
 Right, Mari.");
-MsgDisp("主人公","Definitely.
-How old are you anyways, Goro-sensei?");
+MsgDisp("主人公","Definitely. How old are you anyways,
+Goro-sensei?");
 ChEye(22,5);
 ChMouth(22,5);
 ChMotion(22,5,1);
@@ -74,26 +73,24 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F102220002_22_050");
-MsgDisp("Hikaru","Well he was a classmate of the
-chairman's, so it's obvious isn't it?
+MsgDisp("Hikaru","Well he was a classmate of the chairman's,
+so it's obvious isn't it?
 Looks like it's a delicate subject.");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F102220002_22_060");
-MsgDisp("Hikaru","But...
-I feel like he hasn't changed at
+MsgDisp("Hikaru","But... I feel like he hasn't changed at
 all since we were little.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F102220002_22_070");
-MsgDisp("Hikaru","...Ah!
-Then, I wonder if we'll be like that
-too? Immortal!");
+MsgDisp("Hikaru","...Ah! Then, I wonder if we'll be like
+that too? Immortal!");
 MsgDisp("主人公","(I think that's impossible but...
-Goro-sensei doesn't look
-like he's aged...)");
+Goro-sensei doesn't look like he's
+aged...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

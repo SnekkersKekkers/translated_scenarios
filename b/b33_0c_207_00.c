@@ -30,9 +30,9 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B330C20700_05_000");
-MsgDisp("Hiiragi","Yes, after reaching the top, 
-we went down in one loop.
-Like my body was floating. ");
+MsgDisp("Hiiragi","Yes, after reaching the top, we went down
+in one loop.
+Like my body was floating.");
 MsgDisp("主人公","Y-Yeah...
 That was the scariest part.");
 ChEye(7,2);
@@ -44,23 +44,24 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20700_05_010");
-MsgDisp("Hiiragi","Is the rollercoaster here
-really that impressive?");
+MsgDisp("Hiiragi","Is the rollercoaster here really that
+impressive?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C20700_06_010");
 MsgDisp("Himuro","I think it's pretty large-scale.
-HAbataki city puts a lot of
-effort in this sort of thing.");
+HAbataki city puts a lot of effort in this
+sort of thing.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C20700_05_020");
-MsgDisp("Hiiragi","I see... I'm happy.");
-MsgDisp("主人公","｛柊＊＊＊｝, you haven't been to 
-theme parks much have you?");
+MsgDisp("Hiiragi","I see...
+I'm happy.");
+MsgDisp("主人公","｛柊＊＊＊｝, you haven't been to theme
+parks much have you?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -68,10 +69,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20700_05_030");
-MsgDisp("Hiiragi","Yes.
-But thanks to that, experiencing the 
-rollercoaster today with everyone
-was even more fun!");
+MsgDisp("Hiiragi","Yes. But thanks to that, experiencing the
+rollercoaster today with everyone was even
+more fun!");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
@@ -109,16 +109,15 @@ ChOpen(5,255,0,4,4,#1,#1,0,0);
 ChEye(5,3);
 VoicePlay("B330C20700_05_050");
 MsgDisp("Hiiragi","Thank you.
-Then, please allow me 
-to sit next to you.");
+Then, please allow me to sit next to you.");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20700_05_060");
 MsgDisp("Hiiragi","I wonder if those two will get mad?");
-MsgDisp("主人公","(Hehe!
-｛柊＊＊＊｝ looks like he's having fun.)");
+MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝ looks like he's having
+fun.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

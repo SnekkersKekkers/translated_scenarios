@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040415102_04_000");
-MsgDisp("Nanatsumori","If you think about it properly, 
-bowling is a simple game.");
+MsgDisp("Nanatsumori","If you think about it properly, bowling is
+a simple game.");
 MsgSel("Maybe it would look better if the pins were more vibrant","Apparently they hold events to hold customers?","I like it though.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,9 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040415102_04_010");
     MsgDisp("Nanatsumori","Looks like that's how it is in other
-places. I wonder if they'll also set
-up some interesting gambits
-here tooー.");
+places. I wonder if they'll also set up
+some interesting gambits here tooー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,10 +29,9 @@ here tooー.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040415102_04_020");
-    MsgDisp("Nanatsumori","Eh?
-This place does something that fun?
-Then, next time let's come 
-here on an event day!");
+    MsgDisp("Nanatsumori","Eh? This place does something that fun?
+Then, next time let's come here on an
+event day!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -49,8 +47,7 @@ here on an event day!");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040415102_04_030");
-        MsgDisp("Nanatsumori","Hmm.
-If I get better, I wonder if I'll be
+        MsgDisp("Nanatsumori","Hmm. If I get better, I wonder if I'll be
 able to see the fun part of it?");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
@@ -92,8 +89,8 @@ but share the fun too.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040415102_04_090");
-        MsgDisp("Nanatsumori","It's super fun chatting to 
-you like this even now.");
+        MsgDisp("Nanatsumori","It's super fun chatting to you like this
+even now.");
         MsgDisp("主人公","Hehe!");
         ChEye(4,4);
         ChMouth(4,3);
@@ -105,8 +102,8 @@ you like this even now.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040415102_04_110");
-        MsgDisp("Nanatsumori","Alright!
-Shall we continue where we left off?!");
+        MsgDisp("Nanatsumori","Alright! Shall we continue where we left
+off?!");
         MsgDisp("主人公","Okayー!");
         break ;
         default :

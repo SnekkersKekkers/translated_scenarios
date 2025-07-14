@@ -1,3 +1,3 @@
 MsgDisp("主人公","The mail is here......
-I didn't get any New Years Cards
-this year......");
+I didn't get any New Years Cards this
+year......");

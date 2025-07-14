@@ -56,15 +56,15 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(6,0);
         VoicePlay("B040621202_06_040");
         MsgDisp("Himuro","...I don't really need it.
-But since we're here, 
-I'll gratefully receive it.");
+But since we're here, I'll gratefully
+receive it.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621202_06_050");
         MsgDisp("Himuro","Ah, it's not like I particularly like
-stuffed animals or anything. Just to be
-sure.");
+stuffed animals or anything.
+Just to be sure.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,4);
@@ -87,8 +87,8 @@ I'm fine with any.");
         ChCheek(6,0);
         VoicePlay("B040621202_06_080");
         MsgDisp("Himuro","Eh... huh?");
-        MsgDisp("主人公","Yeah, for some reason 
-it looks like ｛氷室＊＊｝ I guess?");
+        MsgDisp("主人公","Yeah, for some reason it looks like
+｛氷室＊＊｝ I guess?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -102,8 +102,8 @@ Is my gaze that mean?");
         ChMotion(6,1);
         VoicePlay("B040621202_06_100");
         MsgDisp("Himuro","And he seems kind of cheeky?
-He gives of the vibe that he 
-rejects everything.");
+He gives of the vibe that he rejects
+everything.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

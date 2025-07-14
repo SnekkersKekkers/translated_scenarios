@@ -29,8 +29,8 @@ I don't want to look at it.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040203301_02_020");
-    MsgDisp("Sassa","You look at this and get that
-kind of idea?");
+    MsgDisp("Sassa","You look at this and get that kind of
+idea?");
     MsgDateResultDisp();
     break ;
     case 2:

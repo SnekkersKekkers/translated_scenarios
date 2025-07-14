@@ -23,8 +23,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("I460600002_06_010");
     MsgDisp("Himuro","Yeah.
 ......My sense is being tested.");
-    MsgDisp("主人公","Wouldn't it be easier if you
-decide on a flower as the center?");
+    MsgDisp("主人公","Wouldn't it be easier if you decide on a
+flower as the center?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -68,8 +68,8 @@ lying about that?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600002_06_070");
-    MsgDisp("Himuro","First, you were asked to do this
-because you have good sense, right?");
+    MsgDisp("Himuro","First, you were asked to do this because
+you have good sense, right?");
     MsgDisp("主人公","I guess so......");
     ChEye(6,0);
     ChMouth(6,0);
@@ -77,8 +77,7 @@ because you have good sense, right?");
     VoicePlay("I460600002_06_080");
     MsgDisp("Himuro","This might be your calling, huh?
 I think it suits you.");
-    MsgDisp("主人公","Really?
-Then maybe I'll open a flower shop
+    MsgDisp("主人公","Really? Then maybe I'll open a flower shop
 in the future.");
     ChEye(6,0);
     ChMouth(6,3);

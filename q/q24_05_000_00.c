@@ -5,8 +5,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q240500000_05_000");
-MsgDisp("Hiiragi","
-We are doing the\"Pillow Fight\".
+MsgDisp("Hiiragi","We are doing the\"Pillow Fight\".
 So it really does take place.");
 MsgDisp("主人公","Eh?");
 ChEye(5,3);
@@ -28,8 +27,7 @@ ChMotion(5,4);
 VoicePlay("Q240500000_05_030");
 MsgDisp("Hiiragi","How dare you......
 I declare a fight for the honor!");
-MsgDisp("主人公","
-(Is ｛柊＊＊＊｝  acting like in a 
+MsgDisp("主人公","(Is ｛柊＊＊＊｝ acting like in a
 historical drama......?
 Alright, me too!)");
 EnvStop(1);

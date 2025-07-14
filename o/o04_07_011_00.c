@@ -19,8 +19,8 @@ Let's all do our best!");
     ChMotion(7,1);
     VoicePlay("O040701100_07_010");
     MsgDisp("Mikage","I'm competing on this team!
-I won't lose even if I'm against you,
-you know?");
+I won't lose even if I'm against you, you
+know?");
     break ;
     case 4:
     case 5:

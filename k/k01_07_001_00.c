@@ -15,8 +15,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0);
     VoiceEVSPlay(7);
     VoicePlay("K010700100_07_000");
-    MsgDisp("Mikage","｛主人公｝.
-You're in high spirits today.");
+    MsgDisp("Mikage","｛主人公｝. You're in high spirits
+today.");
     MsgDisp("主人公","Since it's your birthday, ｛御影＊＊｝.
 Here, take this.");
     SEPlay("EV_SE_664");
@@ -79,8 +79,8 @@ Here's your present.");
     ChEyeOpenLevel(7,10);
     VoicePlay("K010700100_07_060");
     MsgDisp("Mikage","Thank you!
-So, what is it? What did you
-choose for me?");
+So, what is it?
+What did you choose for me?");
     MsgDisp("主人公","Please open it up and see!");
     break ;
     default :

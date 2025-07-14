@@ -36,9 +36,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D130B00000_03_010");
-MsgDisp("Honda","Right right. If there's something you 
-need to discuss, it's with Ryo-kun.
-Juuuust you two!");
+MsgDisp("Honda","Right right. If there's something you need
+to discuss, it's with Ryo-kun. Juuuust you
+two!");
 MsgClose();
 SEPlay("EV_SE_856");
 ChClose(3,0,30);
@@ -56,8 +56,8 @@ ChClose(1,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(1,254,0,0,2,#1,#1,0,0,0,30);
-MsgDisp("主人公","｛風真＊＊｝, what business
-did you have with me?");
+MsgDisp("主人公","｛風真＊＊｝, what business did you have
+with me?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -68,7 +68,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(Ah... today is Valentine's day, 
-I wonder if he's worried over that...?)");
+MsgDisp("主人公","(Ah... today is Valentine's day, I wonder
+if he's worried over that...?)");
 MsgClose();
 ScrFadeOut(0,0);

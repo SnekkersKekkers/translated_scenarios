@@ -35,8 +35,8 @@ How about watching it again?");
     ChMotion(2,3);
     VoicePlay("B040218900_02_020");
     MsgDisp("Sassa","Ah, that's right.
-Everyone was getting excited, I felt
-like I was the only one being left out.");
+Everyone was getting excited, I felt like
+I was the only one being left out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

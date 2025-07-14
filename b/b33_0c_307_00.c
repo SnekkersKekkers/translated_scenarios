@@ -15,10 +15,10 @@ ScrFadeIn(0);
 ChEye(6,0);
 ChMouth(6,3);
 VoicePlay("B330C30700_06_000");
-MsgDisp("Himuro","The face of this zoo as I thought, 
-is the elephant, Konami.");
-MsgDisp("主人公","You've been to this 
-place for a long time huh?");
+MsgDisp("Himuro","The face of this zoo as I thought, is the
+elephant, Konami.");
+MsgDisp("主人公","You've been to this place for a long time
+huh?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -41,14 +41,14 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330C30700_06_020");
-MsgDisp("Himuro","...If Yanosuke-senpai wants to
-try it, that's fine.");
+MsgDisp("Himuro","...If Yanosuke-senpai wants to try it,
+that's fine.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B330C30700_07_010");
-MsgDisp("Mikage","Alright, They probably sell notebooks
-and pens at the kiosk.
+MsgDisp("Mikage","Alright, They probably sell notebooks and
+pens at the kiosk.
 Wait here.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -85,18 +85,17 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30700_07_020");
-MsgDisp("Mikage","I got too carried away
-with the sketch session.");
+MsgDisp("Mikage","I got too carried away with the sketch
+session.");
 MsgDisp("主人公","Yes.
 The sketches turned out well.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C30700_07_030");
-MsgDisp("Mikage","Now that we've come this far, 
-let's color it and finish it off
-on our own. Today's sketching
-contest ends here.");
+MsgDisp("Mikage","Now that we've come this far, let's color
+it and finish it off on our own.
+Today's sketching contest ends here.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);
@@ -107,8 +106,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30700_05_020");
 MsgDisp("Hiiragi","It was fun sketching with everyone.");
-MsgDisp("主人公","(Hehe!｛柊＊＊＊｝ seems to be having fun.
-Alright, I'll also finish it at home.)");
+MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝ seems to be having
+fun. Alright, I'll also finish it at
+home.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

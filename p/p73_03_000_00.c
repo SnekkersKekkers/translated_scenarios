@@ -8,16 +8,15 @@ switch (ChPrmGet(3,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I finished just in time but, 
-it's finally the runway...I'm nervous..)");
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoicePlay("P730300000_03_000");
     MsgDisp("Honda","Ah, I found you.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
-Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝! Did you come to watch?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -41,8 +40,8 @@ see you.∈");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I finished just in time but, 
-it's finally the runway...I'm nervous..)");
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -55,16 +54,16 @@ it's finally the runway...I'm nervous..)");
     ChMotion(3,4,1);
     VoicePlay("P730300000_03_040");
     MsgDisp("Honda","Yeah, makeup and fashion can completely
-change your appearance. Girls are truly
-amazing.");
+change your appearance.
+Girls are truly amazing.");
     MsgDisp("主人公","Am I really that different?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P730300000_03_050");
     MsgDisp("Honda","Yeah, you're completely different.
-But I like both the you now, 
-and your usual self too.");
+But I like both the you now, and your
+usual self too.");
     MsgDisp("主人公","Eh.");
     SEPlay("EV_SE_038");
     SEWait();

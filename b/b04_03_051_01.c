@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B040305101_03_010");
-    MsgDisp("Honda","Eh, I actually made it pretty seriously, 
+    MsgDisp("Honda","Eh, I actually made it pretty seriously,
 you know?");
     MsgDateResultDisp();
     break ;
@@ -27,7 +27,7 @@ you know?");
     ChMotion(3,1);
     VoicePlay("B040305101_03_020");
     MsgDisp("Honda","I covered a desk light with black paper.
-Then, I invited my family as guests into 
+Then, I invited my family as guests into
 the room.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -40,8 +40,8 @@ the room.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040305101_03_030");
-    MsgDisp("Honda","Sure, I can show you anytime! It's quick
-to make.");
+    MsgDisp("Honda","Sure, I can show you anytime!
+It's quick to make.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

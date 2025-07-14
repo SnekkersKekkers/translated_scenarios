@@ -7,9 +7,9 @@ ChOpen(4,255,0,2,1,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B040423402_04_000");
-MsgDisp("Nanatsumori","You...
-you're spinning the handle too much.");
-MsgSel("Are you dizzy?","I wanted to make｛七ツ森＊｝ dizzy","That's what the handle is for!");
+MsgDisp("Nanatsumori","You... you're spinning the handle too
+much.");
+MsgSel("Are you dizzy?","I wanted to make ｛七ツ森＊｝ dizzy","That's what the handle is for!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -43,8 +43,8 @@ switch (MsgSelRsltGet()){
         ChMouth(4,1);
         ChMotion(4,1,1);
         VoicePlay("B040423402_04_030");
-        MsgDisp("Nanatsumori","You don't need to do that, 
-my head is already spinning.");
+        MsgDisp("Nanatsumori","You don't need to do that, my head is
+already spinning.");
         MsgDisp("主人公","Are you tired?");
         ChEye(4,0);
         ChMouth(4,0);
@@ -68,15 +68,14 @@ Why are you laughing?");
         ChMotion(4,0,1);
         VoicePlay("B040423402_04_070");
         MsgDisp("Nanatsumori","I wonder why?");
-        MsgDisp("主人公","Somehow, ｛七ツ森＊｝,
-looks a bit mean...");
+        MsgDisp("主人公","Somehow, ｛七ツ森＊｝, looks a bit
+mean...");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423402_04_080");
-        MsgDisp("Nanatsumori","Really?
-My head is spinning right now.
-And it's because of you.");
+        MsgDisp("Nanatsumori","Really? My head is spinning right now. And
+it's because of you.");
         MsgDisp("主人公","(???)");
         break ;
         default :

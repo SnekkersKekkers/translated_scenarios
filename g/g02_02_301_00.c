@@ -23,8 +23,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("G020230100_02_030");
-MsgDisp("Sassa","Hmm......
-Hey, that fast one over there is me.");
+MsgDisp("Sassa","Hmm...... Hey, that fast one over there is
+me.");
 MsgDisp("主人公","Hehe, which one?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -53,8 +53,8 @@ VoicePlay("G020230100_02_070");
 MsgDisp("Sassa","Well, the more competitors, the more fired
 up I get.");
 MsgDisp("主人公","(Now that I think about it, I might be
-talking to more people...... But I don't
-think I'm super popular.)");
+talking to more people......
+But I don't think I'm super popular.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

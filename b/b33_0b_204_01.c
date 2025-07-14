@@ -13,9 +13,8 @@ ChMotion(4,0,1);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B330B20401_04_000");
-MsgDisp("Nanatsumori","...So.
-What should we do now that
-we've finished walking around?");
+MsgDisp("Nanatsumori","...So. What should we do now that we've
+finished walking around?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -32,8 +31,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B330B20401_04_010");
-MsgDisp("Nanatsumori","...Kazama.
-I have a bad feeling about
+MsgDisp("Nanatsumori","...Kazama. I have a bad feeling about
 turning to Dahon.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -44,10 +42,9 @@ MsgDisp("主人公","?");
 ChEye(1,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20401_03_010");
-MsgDisp("Honda","There are so many interesting places. 
-Like under the big rocks, 
-in the hollow of the trees,
-and behind the leaves...");
+MsgDisp("Honda","There are so many interesting places.
+Like under the big rocks, in the hollow of
+the trees, and behind the leaves...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);

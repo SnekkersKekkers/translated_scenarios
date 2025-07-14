@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040206300_02_010");
-    MsgDisp("Sassa","What are you planning on doing
-out here with just us two!");
+    MsgDisp("Sassa","What are you planning on doing out here
+with just us two!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,10 +27,10 @@ out here with just us two!");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040206300_02_020");
-    MsgDisp("Sassa","I don't know what you mean by sad. When 
-I come out here to run, the only thing 
-that's sad is the washed up seaweed
-that gets in the way.");
+    MsgDisp("Sassa","I don't know what you mean by sad. When I
+come out here to run, the only thing
+that's sad is the washed up seaweed that
+gets in the way.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

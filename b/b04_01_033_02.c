@@ -5,8 +5,8 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 ChMouth(1,3);
 VoicePlay("B040103302_01_000");
-MsgDisp("Kazama","Look, it's your favorite. The deep sea
-corner.");
+MsgDisp("Kazama","Look, it's your favorite.
+The deep sea corner.");
 MsgSel("Don't you like it too?","No matter how many times we come here, it's always interesting","Looks like it's time for dinner");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,4);
     ChMotion(1,4);
     VoicePlay("B040103302_01_010");
-    MsgDisp("Kazama","Yeah, I do. I guess whatever you like,
-I like too.");
+    MsgDisp("Kazama","Yeah, I do.
+I guess whatever you like, I like too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ I like too.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040103302_01_020");
-    MsgDisp("Kazama","I think that about you too,
-reflected in the tank.");
+    MsgDisp("Kazama","I think that about you too, reflected in
+the tank.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -72,8 +72,8 @@ reflected in the tank.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,7);
         VoicePlay("B040103302_01_050");
-        MsgDisp("Kazama","It's not really weird,
-or embarrassing at all.");
+        MsgDisp("Kazama","It's not really weird, or embarrassing at
+all.");
         SEPlay("EV_SE_064");
         SEWait();
         ChEye(1,4);
@@ -89,19 +89,18 @@ or embarrassing at all.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,0);
         VoicePlay("B040103302_01_070");
-        MsgDisp("Kazama","If anyone wants to laugh,
-go ahead and let them.");
+        MsgDisp("Kazama","If anyone wants to laugh, go ahead and let
+them.");
         MsgDisp("主人公","Oh, yeah...");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0,1);
         VoicePlay("B040103302_01_080");
-        MsgDisp("Kazama","You should just always
-be your natural self.");
-        MsgDisp("主人公","Yeah.
-Thank you, ｛風真＊＊｝.");
-        MsgDisp("主人公","(Is ｛風真＊＊｝ able to
-make his stomach growl any time...?)");
+        MsgDisp("Kazama","You should just always be your natural
+self.");
+        MsgDisp("主人公","Yeah. Thank you, ｛風真＊＊｝.");
+        MsgDisp("主人公","(Is ｛風真＊＊｝ able to make his stomach
+growl any time...?)");
         break ;
         default :
         DbgAssert(1);

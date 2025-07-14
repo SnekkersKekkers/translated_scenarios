@@ -23,14 +23,14 @@ ChMotion(2,4);
 ChCheek(2,0);
 VoiceEVSPlay(2);
 VoicePlay("T020200022_02_020");
-MsgDisp("Sassa","｛主人公｝......
-Thank you.");
+MsgDisp("Sassa","｛主人公｝...... Thank you.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020200022_02_030");
 MsgDisp("Sassa","But, it won't have just been for these
-three years. This will continue forever.");
+three years.
+This will continue forever.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -47,7 +47,8 @@ StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020200022_02_050");
 MsgDisp("Sassa","I'm not going to just let myself get
-beaten anymore. Look at me.");
+beaten anymore.
+Look at me.");
 VoicePlay("T020200022_02_060");
 MsgDisp("Sassa","I wanted to touch you too.
 ...as I love you so much.");

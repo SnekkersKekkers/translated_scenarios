@@ -11,8 +11,8 @@ BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝. You still take care of the
-plants even on your lunch break?");
+MsgDisp("主人公","｛御影＊＊｝. You still take care of
+the plants even on your lunch break?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -23,8 +23,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700500_07_010");
-MsgDisp("Mikage","The more time you invest into it, 
-the more beautiful they will grow.");
+MsgDisp("Mikage","The more time you invest into it, the more
+beautiful they will grow.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

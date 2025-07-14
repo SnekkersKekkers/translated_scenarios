@@ -10,17 +10,16 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_000");
-MsgDisp("Sassa","Yeah, I don't know what it's called,
-It doesn't look like a tulip.");
+MsgDisp("Sassa","Yeah, I don't know what it's called, It
+doesn't look like a tulip.");
 MsgDisp("主人公","It's called a marigold.
 So pretty......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_010");
-MsgDisp("Sassa","Yeah.
-We came at the right time, didn't we?
-This kind of thing is important.");
+MsgDisp("Sassa","Yeah. We came at the right time, didn't
+we? This kind of thing is important.");
 MsgDisp("主人公","Hehe, yes.");
 ChEye(2,0);
 ChMouth(2,3);
@@ -34,16 +33,15 @@ ChMotion(2,3);
 VoicePlay("Q070200000_02_030");
 MsgDisp("Sassa","Is it something to laugh so hard
 about......");
-MsgDisp("主人公","I think it's good,
-That you're able to think that you're 
-lucky.");
+MsgDisp("主人公","I think it's good, That you're able to
+think that you're lucky.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("Q070200000_02_040");
-MsgDisp("Sassa","Yes, I think so too. Even now,
-I'm able to go Nagasaki sightseeing with
-you like this. Aren't we lucky?");
+MsgDisp("Sassa","Yes, I think so too. Even now, I'm able to
+go Nagasaki sightseeing with you like
+this. Aren't we lucky?");
 MsgDisp("主人公","( ｛颯砂＊＊｝ ......)");
 MsgClose();
 ScrFadeOut(0);
@@ -76,9 +74,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("Q070200000_02_080");
-MsgDisp("Sassa","C'mon, look, Cuz I'm on a school trip,
-I haven't been able to train,
-So my body has weakened.");
+MsgDisp("Sassa","C'mon, look, Cuz I'm on a school trip, I
+haven't been able to train, So my body has
+weakened.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -124,34 +122,30 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_120");
-MsgDisp("Sassa","So this is a foreigner's mansion 
-made 150 years ago......");
+MsgDisp("Sassa","So this is a foreigner's mansion made 150
+years ago......");
 MsgDisp("主人公","Yeah, it says he's a trader.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_130");
-MsgDisp("Sassa","Then there were no planes,
-So I guess he was ready not able to go 
-home.");
+MsgDisp("Sassa","Then there were no planes, So I guess he
+was ready not able to go home.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_140");
-MsgDisp("Sassa","Hmmm......
-I mean, it's not so easy to shut down a 
-returning way.");
+MsgDisp("Sassa","Hmmm...... I mean, it's not so easy to
+shut down a returning way.");
 MsgDisp("主人公","Cutting off the retreat, huh......
 It sure should be difficult.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_150");
-MsgDisp("Sassa","It's like if I don't win all the races 
-at the tournament,
-that I'd quit athletics.");
-MsgDisp("主人公","Eeh?
-...... ｛颯砂＊＊｝?");
+MsgDisp("Sassa","It's like if I don't win all the races at
+the tournament, that I'd quit athletics.");
+MsgDisp("主人公","Eeh? ...... ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -161,23 +155,23 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_170");
-MsgDisp("Sassa","But on the otherside, 
-I know you'd have to have such willpower 
-to challenge the dream beyond.");
+MsgDisp("Sassa","But on the otherside, I know you'd have to
+have such willpower to challenge the dream
+beyond.");
 MsgDisp("主人公","You can do this, ｛颯砂＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_180");
-MsgDisp("Sassa","Why is it that when you say so,
-I feel as if I could really do it?");
+MsgDisp("Sassa","Why is it that when you say so, I feel as
+if I could really do it?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q070200000_02_190");
 MsgDisp("Sassa","I'm so simple.");
-MsgDisp("主人公","｛颯砂＊＊｝, you're not simple as you 
+MsgDisp("主人公","｛颯砂＊＊｝, you're not simple as you
 think. Aren't you the one who trains
 everyday with a detailed training menu?");
 ChEye(2,0);
@@ -185,14 +179,14 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_200");
 MsgDisp("Sassa","Thank you.
-If I think that you are watching me 
-like that──");
+If I think that you are watching me like
+that──");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_210");
-MsgDisp("Sassa","Like the traders who came here,
-Maybe I could push myself too ......");
+MsgDisp("Sassa","Like the traders who came here, Maybe I
+could push myself too ......");
 MsgDisp("主人公","(I'd be happy if I could help ｛颯砂＊＊｝
 in any way......)");
 BGMStop();

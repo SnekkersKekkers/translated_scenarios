@@ -19,9 +19,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140100000_01_040");
-MsgDisp("Kazama","What's up? That's not like you.
-If you feel up for it,
-you can come by later.");
+MsgDisp("Kazama","What's up? That's not like you. If you
+feel up for it, you can come by later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.7);
 BGMStop();

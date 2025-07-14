@@ -27,7 +27,7 @@ ChMouth(7,3);
 ChMotion(7,5,1);
 VoicePlay("B330C20501_07_000");
 MsgDisp("Mikage","Sounds good.
-Then, if you beat me I'll give you a 
+Then, if you beat me I'll give you a
 \"Habataki Mixed juice\" as a gift.");
 BGMStop();
 MsgClose();
@@ -64,9 +64,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20501_05_020");
-MsgDisp("Hiiragi","If that bitterness of his was 
-an act, I'll let him join t
-he theater troupe.");
+MsgDisp("Hiiragi","If that bitterness of his was an act, I'll
+let him join t he theater troupe.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("B330C20501_07_010");
 MsgDisp("Mikage","O-i, I bought it.");
@@ -101,8 +100,8 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20501_06_030");
 MsgDisp("Himuro","We were talking about whether
-Kojiro-sensei purposefully
-let us steal the thunder.");
+Kojiro-sensei purposefully let us steal
+the thunder.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -117,8 +116,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C20501_07_040");
-MsgDisp("Mikage","Let's have one last tearful
-game; a bowling match.
+MsgDisp("Mikage","Let's have one last tearful game; a
+bowling match.
 I definitely won't lose?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -126,19 +125,18 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("B330C20501_06_040");
-MsgDisp("Himuro","Pfft... sounds good.
-Not going easy on each other,
-and keep going until we win.
+MsgDisp("Himuro","Pfft... sounds good. Not going easy on
+each other, and keep going until we win.
 Bring it on.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20501_05_040");
 MsgDisp("Hiiragi","Sounds good.");
-MsgDisp("主人公","(I can understand why ｛御影＊＊｝ is 
-popular with the male students too...
-Both ｛柊＊＊＊｝ and ｛氷室＊＊｝
-look like they're having fun...)");
+MsgDisp("主人公","(I can understand why ｛御影＊＊｝ is
+popular with the male students too... Both
+｛柊＊＊＊｝ and ｛氷室＊＊｝ look like
+they're having fun...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

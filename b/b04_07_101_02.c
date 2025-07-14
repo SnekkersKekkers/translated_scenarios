@@ -64,9 +64,9 @@ I'm going to look around once more!");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040710102_07_060");
-    MsgDisp("Mikage","Yeah, you sit too. 
-You need to take a break every 
-once in a while.");
+    MsgDisp("Mikage","Yeah, you sit too.
+You need to take a break every once in a
+while.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -77,8 +77,8 @@ once in a while.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040710102_07_070");
-    MsgDisp("Mikage","Oooh, Madonna-chan's cute voice
-is cheering me up!");
+    MsgDisp("Mikage","Oooh, Madonna-chan's cute voice is
+cheering me up!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

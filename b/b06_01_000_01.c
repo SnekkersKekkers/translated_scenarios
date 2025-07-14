@@ -33,8 +33,8 @@ Well, maybe I'm being hasty...");
     ChMotion(1,0,1);
     ScrFadeIn(0);
     VoicePlay("B060100001_01_020");
-    MsgDisp("Kazama","Looking at your face, I'm guessing 
-you enjoyed this as much as I did?
+    MsgDisp("Kazama","Looking at your face, I'm guessing you
+enjoyed this as much as I did?
 Alright, let's come again.");
     MsgDispSksp(0);
     break ;

@@ -6,8 +6,7 @@ Huh?)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
 ChOpen(3,253,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝!
-Did I have the wrong time?");
+MsgDisp("主人公","｛本多＊＊｝! Did I have the wrong time?");
 switch (ChPrmGet(3,6)){
     case 0:
     case 1:
@@ -16,8 +15,9 @@ switch (ChPrmGet(3,6)){
     VoicePlay("B010300002_03_000");
     MsgDisp("Honda","Looks like I'm the one who got it wrong.
 You're here so early.");
-    MsgDisp("主人公","I see. I was surprised because I thought I
-was running late.");
+    MsgDisp("主人公","I see.
+I was surprised because I thought I was
+running late.");
     MsgDispSksp(1,0);
     ChEye(3,0);
     ChMouth(3,0);
@@ -73,8 +73,9 @@ What kind of dream was it?");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B010300002_03_070");
-    MsgDisp("Honda","I forgot after I saw you. The real you is
-more important than my dreams.");
+    MsgDisp("Honda","I forgot after I saw you.
+The real you is more important than my
+dreams.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","(｛本多＊＊｝...)");
     MsgDispSksp(0);

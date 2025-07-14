@@ -32,8 +32,8 @@ and still?");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040223202_02_020");
-        MsgDisp("Sassa","I've never had to force
-myself when I'm with you.");
+        MsgDisp("Sassa","I've never had to force myself when I'm
+with you.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -43,8 +43,8 @@ myself when I'm with you.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040223202_02_030");
-        MsgDisp("Sassa","I wasn't pushed into anything,
-but I feel troubled.");
+        MsgDisp("Sassa","I wasn't pushed into anything, but I feel
+troubled.");
         MsgDisp("主人公","Troubled?");
         ChEye(2,0);
         ChMouth(2,0);
@@ -57,15 +57,16 @@ But, in front of me is your smile.");
         ChMotion(2,4);
         VoicePlay("B040223202_02_050");
         MsgDisp("Sassa","I'm being attacked in a way I both like
-and cannot stand. For 15 minutes too.");
+and cannot stand.
+For 15 minutes too.");
         MsgDisp("主人公","Ehh!
 Then, what should we do next time?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223202_02_060");
-        MsgDisp("Sassa","I've already admitted my feelings, 
-so it's already okay for next time.");
+        MsgDisp("Sassa","I've already admitted my feelings, so it's
+already okay for next time.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -74,9 +75,9 @@ so it's already okay for next time.");
         MsgDisp("Sassa","That's why, from next time, just think
 that \"This person is struggling huhー\" and
 that'll be enough.");
-        MsgDisp("主人公","Hehe, if you put it that way, 
-I'll end up laughing at ｛颯砂＊＊｝
-who's making a troubled face.");
+        MsgDisp("主人公","Hehe, if you put it that way, I'll end up
+laughing at ｛颯砂＊＊｝ who's making a
+troubled face.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,0);
@@ -87,10 +88,9 @@ who's making a troubled face.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223202_02_090");
-        MsgDisp("Sassa","Besides, if you laugh more, 
-the ratio of things I like about 
-this situation will increase,
-which will help me. ");
+        MsgDisp("Sassa","Besides, if you laugh more, the ratio of
+things I like about this situation will
+increase, which will help me.");
         MsgDisp("主人公","(｛颯砂＊＊｝...)");
         break ;
         default :

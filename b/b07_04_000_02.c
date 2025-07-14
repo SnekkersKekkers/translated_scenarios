@@ -27,11 +27,10 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B070400000_04_090");
-MsgDisp("Nanatsumori","Cream-filled sweets after 
-your mouth turns bright red.
+MsgDisp("Nanatsumori","Cream-filled sweets after your mouth turns
+bright red.
 It's supreme.");
-MsgDisp("主人公","Hmm...
-But, if you do that every meal, 
+MsgDisp("主人公","Hmm... But, if you do that every meal,
 won't that destroy your stomach?");
 ChEye(4,0);
 ChMouth(4,2);
@@ -52,8 +51,8 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B070400000_04_120");
-MsgDisp("Nanatsumori","No, not \"Eh!\" What's this perfect 
-punchline thing you're trying? 
+MsgDisp("Nanatsumori","No, not \"Eh!\" What's this perfect
+punchline thing you're trying?
 Am I becoming the straight man here?∋");
 MsgDisp("主人公","(A one-man comedy act?)");
 BGMStop();

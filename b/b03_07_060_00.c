@@ -23,9 +23,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B030706000_07_020");
-MsgDisp("Mikage","Feel free to let your hair down.
-... Uh, just don't tell vice principal
-Himuro, okay?");
+MsgDisp("Mikage","Feel free to let your hair down. ... Uh,
+just don't tell vice principal Himuro,
+okay?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);

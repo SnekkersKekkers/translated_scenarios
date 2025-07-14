@@ -5,9 +5,9 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040824102_08_000");
-MsgDisp("Shirahane","Apparently some bigger farms run
-a side business alongside farming
-and manage things on a larger scale.");
+MsgDisp("Shirahane","Apparently some bigger farms run a side
+business alongside farming and manage
+things on a larger scale.");
 MsgSel("Seems like that requires lots of different skills.","That's more profitable right?","Seems like they leave nothing undone...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,10 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,3,1);
     VoicePlay("B040824102_08_010");
-    MsgDisp("Shirahane","Seems like it.
-You not only need technical skills, 
-but management skills too, I'm sure
-it's a heavy responsibility.");
+    MsgDisp("Shirahane","Seems like it. You not only need technical
+skills, but management skills too, I'm
+sure it's a heavy responsibility.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +28,8 @@ it's a heavy responsibility.");
     ChMotion(8,0,1);
     VoicePlay("B040824102_08_020");
     MsgDisp("Shirahane","That's right.
-But, you need to put in the effort 
-to make it succeed.");
+But, you need to put in the effort to make
+it succeed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +44,7 @@ to make it succeed.");
         ChEye(8,2);
         ChMouth(8,4);
         VoicePlay("B040824102_08_030");
-        MsgDisp("Shirahane","Well, it's no good
-if you expand without
+        MsgDisp("Shirahane","Well, it's no good if you expand without
 thinking about it...");
         MsgDateResultDisp();
         break ;
@@ -58,8 +56,8 @@ thinking about it...");
         ChMotion(8,2,1);
         VoicePlay("B040824102_08_040");
         MsgDisp("Shirahane","That's right...
-To be successful, ordinary 
-efforts aren't enough.");
+To be successful, ordinary efforts aren't
+enough.");
         ChMotion(8,0,1);
         VoicePlay("B040824102_08_050");
         MsgDisp("Shirahane","That's why successful people aren't just
@@ -84,8 +82,8 @@ work and take pride in it.");
         ChMotion(8,4,1);
         ChEyeOpenLevel(8,10);
         VoicePlay("B040824102_08_080");
-        MsgDisp("Shirahane","You can't be successful 
-without having an objective.");
+        MsgDisp("Shirahane","You can't be successful without having an
+objective.");
         ChEye(8,0);
         ChEyeOpenLevel(8,0);
         VoicePlay("B040824102_08_090");

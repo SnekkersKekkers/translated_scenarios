@@ -10,14 +10,14 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P640600002_06_010");
-MsgDisp("Himuro","...Honestly, it's nonsense 
-to serve vegetable sticks here.");
+MsgDisp("Himuro","...Honestly, it's nonsense to serve
+vegetable sticks here.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P640600002_06_020");
-MsgDisp("Himuro","But when I tried the peppers, 
-I didn't think they'd be this sweet.");
+MsgDisp("Himuro","But when I tried the peppers, I didn't
+think they'd be this sweet.");
 MsgDisp("主人公","Hehe, fresh vegetables
 are delicious, huh?");
 ChEye(6,0);
@@ -25,7 +25,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("P640600002_06_030");
 MsgDisp("Himuro","It's not just that.
-Is it because of the variety? 
+Is it because of the variety?
 Or how it was grown?");
 ChEye(6,0);
 ChMouth(6,0);

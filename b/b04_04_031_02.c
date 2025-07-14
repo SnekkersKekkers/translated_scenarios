@@ -9,8 +9,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403102_04_000");
-MsgDisp("Nanatsumori","What? There's a queue over there.
-...Shall we go?");
+MsgDisp("Nanatsumori","What? There's a queue over there. ...Shall
+we go?");
 MsgSel("There's a sushi restaurant there, let's go!","The aquarium is sparkling, it's so pretty!","I don't wanna stand in line...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,9 +50,8 @@ the lights is incredible. Damn.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040403102_04_030");
-        MsgDisp("Nanatsumori","Ah... right.
-Then, let's just wander around
-then head home.");
+        MsgDisp("Nanatsumori","Ah... right. Then, let's just wander
+around then head home.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -76,10 +75,9 @@ I made you feel weird.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040403102_04_060");
-        MsgDisp("Nanatsumori","Look.
-If I'm causing you to make that face, 
-there was no point for me 
-to have come here today.");
+        MsgDisp("Nanatsumori","Look. If I'm causing you to make that
+face, there was no point for me to have
+come here today.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,2,1);
@@ -110,9 +108,8 @@ Hey!");
         ChMotion(4,3,1);
         ChCheek(4,5);
         VoicePlay("B040403102_04_100");
-        MsgDisp("Nanatsumori","Ahaha! Okay, okay.
-I got to see the expression I wanted 
-to see today.");
+        MsgDisp("Nanatsumori","Ahaha! Okay, okay. I got to see the
+expression I wanted to see today.");
         break ;
         default :
         DbgAssert(1);

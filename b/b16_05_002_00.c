@@ -3,8 +3,8 @@ NSSOpen(5,255,0,4,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160500200_05_000");
-MsgDisp("Hiiragi","Before I noticed it, you were 
-there, continuously by my side.");
+MsgDisp("Hiiragi","Before I noticed it, you were there,
+continuously by my side.");
 MsgSel("Is that so?","It's only for ｛柊＊＊＊｝, though?");
 switch (MsgSelRsltGet()){
     case 0:

@@ -3,8 +3,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B020300013_03_000");
 MsgDisp("Honda",".........");
-MsgDisp("主人公","Umm, ｛本多＊＊｝?
-Is there something weird about my yukata?");
+MsgDisp("主人公","Umm, ｛本多＊＊｝? Is there something weird
+about my yukata?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);

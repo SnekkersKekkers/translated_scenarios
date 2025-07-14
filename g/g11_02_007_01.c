@@ -1,14 +1,15 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
-You had a good time today too.");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝. You had a good time today
+too.");
 MsgClose();
 SEPlay("EV_SE_628");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("G110200701_02_000");
-MsgDisp("Sassa","Is that so? Thank you.
+MsgDisp("Sassa","Is that so?
+Thank you.
 Next, I'll do the high jump.");
 MsgClose();
 SEPlay("EV_SE_672");
@@ -45,8 +46,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200701_02_030");
-MsgDisp("Sassa","Until then, 
-I'm doing this to keep my body warm.
+MsgDisp("Sassa","Until then, I'm doing this to keep my body
+warm.
 My bad, can we run together once more?");
 MsgDisp("主人公","Yes, of course.
 If you're okay with me.");
@@ -74,8 +75,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200701_02_070");
-MsgDisp("Sassa","For me, running like this whilst
-talking to you is the best.
+MsgDisp("Sassa","For me, running like this whilst talking
+to you is the best.
 Thank you, as always!");
 MsgDisp("主人公","｛颯砂＊＊｝......");
 ChEye(2,0);

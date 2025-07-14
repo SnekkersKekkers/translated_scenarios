@@ -11,10 +11,11 @@ ChMouth(31,0);
 ChMotion(31,3);
 ScrFadeIn(0);
 VoicePlay("P243101000_31_000");
-MsgDisp("Goro","Hmmm....
-It seems to be a hit with the audience.");
-MsgDisp("主人公","Yes, so far so good. Now we're going to
-change the stage, off we go!");
+MsgDisp("Goro","Hmmm.... It seems to be a hit with the
+audience.");
+MsgDisp("主人公","Yes, so far so good.
+Now we're going to change the stage, off
+we go!");
 ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,4);
@@ -45,8 +46,8 @@ VoicePlay("P243101000_31_020");
 MsgDisp("Goro","Yahoo!
 The stage change was perfect♪");
 MsgDisp("主人公","Yes! I think the audience will be
-surprised to know that Goro-sensei
-helped out.");
+surprised to know that Goro-sensei helped
+out.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
@@ -56,7 +57,7 @@ high school feeling. Thank you▼");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","( I changed the set with Goro-sensei, 
+MsgDisp("主人公","( I changed the set with Goro-sensei,
 this'll be a nice memory!)");
 MsgClose();
 ScrFadeOut(0);

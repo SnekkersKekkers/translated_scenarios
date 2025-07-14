@@ -25,8 +25,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30400_04_010");
-MsgDisp("Nanatsumori","Right.
-This is a good location all year round.");
+MsgDisp("Nanatsumori","Right. This is a good location all year
+round.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -53,8 +53,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B30400_04_030");
-MsgDisp("Nanatsumori","The model is the one
-sitting in that chair.");
+MsgDisp("Nanatsumori","The model is the one sitting in that
+chair.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,0);
@@ -81,19 +81,18 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30400_04_050");
-MsgDisp("Nanatsumori","...I kinda get the feeling Dahon 
-means something different when
-he says kids love nature.");
+MsgDisp("Nanatsumori","...I kinda get the feeling Dahon means
+something different when he says kids love
+nature.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30400_04_060");
-MsgDisp("Nanatsumori","But, the fact that there's a
-stylist here means they're 
-putting a lot of effort 
-into today's shoot.");
-MsgDisp("主人公","(Does that mean that woman
-is an incredible stylist?)");
+MsgDisp("Nanatsumori","But, the fact that there's a stylist here
+means they're putting a lot of effort into
+today's shoot.");
+MsgDisp("主人公","(Does that mean that woman is an
+incredible stylist?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

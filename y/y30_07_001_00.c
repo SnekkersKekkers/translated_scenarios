@@ -5,9 +5,9 @@ ScrFadeIn(0);
 VoicePlay("Y300700100_07_000");
 MsgDisp("Mikage","\"They've grown well this year too,
 huh.\"");
-MsgDisp("","Both hands are filled with bright
-red strawberries I harvested.");
-MsgDisp("","This is the third year of growing 
+MsgDisp("","Both hands are filled with bright red
+strawberries I harvested.");
+MsgDisp("","This is the third year of growing
 strawberries at Habataki green farm.
 This year they're the best quality/");
 MsgClear();
@@ -22,8 +22,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("ad711",0);
 ScrFadeIn(0);
-MsgDisp("","When I think of that girl's smile, 
-I naturally start feeling happy too.
+MsgDisp("","When I think of that girl's smile, I
+naturally start feeling happy too.
 She has a strange charm.");
 SEPlay("EV_SE_813");
 Wait(30,0);
@@ -40,9 +40,9 @@ smile, but I feel a weird tension.
 MsgDisp("","I'll make a fruit sandwich.");
 SEPlay("EV_SE_811");
 Wait(30,0);
-MsgDisp("","Whilst cooling it with ice, 
-I'll whip some fresh cream in a bowl
-I like this kind of work.");
+MsgDisp("","Whilst cooling it with ice, I'll whip
+some fresh cream in a bowl I like
+this kind of work.");
 MsgClear();
 SEStop("EV_SE_811",2);
 MsgDisp("","The once-liquid cream becomes heavier

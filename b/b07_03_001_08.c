@@ -4,7 +4,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B070300001_03_580");
 MsgDisp("Honda","Hmm? Is there something on my face?");
-MsgDisp("主人公","Oh, sorry. I was just staring.");
+MsgDisp("主人公","Oh, sorry.
+I was just staring.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -15,8 +16,9 @@ MsgDisp("主人公","Heh, okay.");
 ChMotion(3,0);
 VoicePlay("B070300001_03_600");
 MsgDisp("Honda","Is there something on your mind?");
-MsgDisp("主人公","I was just thinking your hair is really 
-smooth ｛本多＊＊｝. It looks lovely.");
+MsgDisp("主人公","I was just thinking your hair is really
+smooth ｛本多＊＊｝.
+It looks lovely.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -49,10 +51,10 @@ ChMouth(3,3);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300001_03_650");
-MsgDisp("Honda","Wanna feel it? I'll make an exception
-just for you!");
-MsgDisp("主人公","(I'd love to, but is it okay? I'm
-feeling a bit nervous...)");
+MsgDisp("Honda","Wanna feel it?
+I'll make an exception just for you!");
+MsgDisp("主人公","(I'd love to, but is it okay?
+I'm feeling a bit nervous...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

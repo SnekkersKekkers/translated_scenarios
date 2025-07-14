@@ -17,10 +17,9 @@ switch (ChPrmGet(3,6)){
     VoicePlay("S120300005_03_000");
     MsgDisp("Honda","Sigh, time's up.
 We arrived back at your house.");
-    MsgDisp("主人公","Yeah, thanks for taking me.
-What we talked about earlier, what did
-you mean about regretting something 
-on our shrine visit?");
+    MsgDisp("主人公","Yeah, thanks for taking me. What we talked
+about earlier, what did you mean about
+regretting something on our shrine visit?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -31,8 +30,8 @@ on our shrine visit?");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300005_03_020");
-    MsgDisp("Honda","I need to take a long look at you,
-so I remember you many years from now.");
+    MsgDisp("Honda","I need to take a long look at you, so I
+remember you many years from now.");
     MsgDisp("主人公","Ehh?");
     ChClose(3);
     ChLayout(0);
@@ -70,10 +69,9 @@ You won't make me forget it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(My heart is racing......
-Like ｛本多＊＊｝ says, I want to spend
-the rest of my high school life without
-regrets!)");
+    MsgDisp("主人公","(My heart is racing...... Like ｛本多＊＊｝
+says, I want to spend the rest of my high
+school life without regrets!)");
     break ;
     case 4:
     case 5:
@@ -82,23 +80,22 @@ regrets!)");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("S120300005_03_070");
-    MsgDisp("Honda","No problem. I should be the one
-thanking you.");
+    MsgDisp("Honda","No problem.
+I should be the one thanking you.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("S120300005_03_080");
-    MsgDisp("Honda","I was able to talk to you a lot
-about next year and figure things out.
+    MsgDisp("Honda","I was able to talk to you a lot about next
+year and figure things out.
 All the things I have to do.");
     MsgDisp("主人公","Really?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("S120300005_03_090");
-    MsgDisp("Honda","Yeah. I can see my destination.
-Even if I don't know if I can get there
-just yet.");
+    MsgDisp("Honda","Yeah. I can see my destination. Even if I
+don't know if I can get there just yet.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -110,8 +107,7 @@ And you, I guess?");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("S120300005_03_110");
-    MsgDisp("Honda","Yeah.
-There's still some time left until
+    MsgDisp("Honda","Yeah. There's still some time left until
 graduation. So I'm thinking about it.");
     ChEye(3,4);
     ChMouth(3,3);

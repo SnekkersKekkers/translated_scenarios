@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040709002_07_000");
-MsgDisp("Mikage","This is also a laboratory
-for genetic modification.
+MsgDisp("Mikage","This is also a laboratory for genetic
+modification.
 Let's take a peek.");
 MsgSel("Natural is best.","Like square watermelons?","Like disease-resistant rice?");
 switch (MsgSelRsltGet()){
@@ -21,10 +21,9 @@ switch (MsgSelRsltGet()){
         ChMouth(7,0);
         ChMotion(7,0,1);
         VoicePlay("B040709002_07_010");
-        MsgDisp("Mikage","Unfortunately for you, 
-The fruits and vegetables you guys
-eat have all been modified for 
-the most part.");
+        MsgDisp("Mikage","Unfortunately for you, The fruits and
+vegetables you guys eat have all been
+modified for the most part.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -56,18 +55,16 @@ students various stimuli will affect them.");
         ChMouth(7,0);
         ChMotion(7,1);
         VoicePlay("B040709002_07_050");
-        MsgDisp("Mikage","But you know, 
-isn't that change to various stimuli
-just growth?");
+        MsgDisp("Mikage","But you know, isn't that change to various
+stimuli just growth?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,4);
         VoicePlay("B040709002_07_060");
-        MsgDisp("Mikage","...Wow, that's a rare example of
-when I said something good.");
-        MsgDisp("主人公","Hehe.
-｛御影＊＊｝, I want to grow up being
-stimulated in all sorts of ways.");
+        MsgDisp("Mikage","...Wow, that's a rare example of when I
+said something good.");
+        MsgDisp("主人公","Hehe. ｛御影＊＊｝, I want to grow up
+being stimulated in all sorts of ways.");
         ChEye(7,0);
         ChMouth(7,1);
         ChMotion(7,1);
@@ -82,7 +79,8 @@ stimulated in all sorts of ways.");
 my high school years, when I should've be
 growing. That's why I'm getting it from
 you guys now...");
-        MsgDisp("主人公","(｛御影＊＊｝'s time at high school...')");
+        MsgDisp("主人公","(｛御影＊＊｝'s time at high
+school...')");
         break ;
         default :
         DbgAssert(1);

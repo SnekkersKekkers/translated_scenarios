@@ -10,8 +10,7 @@ MsgDisp("主人公","Mmm, delicious♪");
 ChMouthOpenLevel(1,0);
 VoicePlay("D140B06002_01_000");
 MsgDisp("Kazama","............");
-MsgDisp("主人公","......?
-｛風真＊＊｝, is there something
+MsgDisp("主人公","......? ｛風真＊＊｝, is there something
 on my face?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -44,10 +43,8 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("D140B06002_03_020");
-MsgDisp("Honda","Aaah!
-Ryo-kun, if we hear the answer, 
-won't we be the ones feeling 
-lonely?");
+MsgDisp("Honda","Aaah! Ryo-kun, if we hear the answer,
+won't we be the ones feeling lonely?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -69,8 +66,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B06002_01_040");
 MsgDisp("Kazama","Shut up.");
 ChEyeOpenLevel(3,#1);
-MsgDisp("主人公","(｛風真＊＊｝ is worried about
-me and ｛七ツ森＊｝...?)");
+MsgDisp("主人公","(｛風真＊＊｝ is worried about me and
+｛七ツ森＊｝...? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

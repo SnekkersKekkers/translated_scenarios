@@ -13,16 +13,15 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_750");
     MsgDisp("Honda","Hey hey.
-I can't find the magazines that
-were brought in earlier.");
+I can't find the magazines that were
+brought in earlier.");
     MsgDisp("主人公","Ah, today's magazines are
 already out.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_760");
-    MsgDisp("Honda","Already?
-So all we need to do is take out
+    MsgDisp("Honda","Already? So all we need to do is take out
 the new books. I'll do that.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -41,16 +40,16 @@ I didn't do anything special, right?");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_790");
-    MsgDisp("Honda","If you're not doing anything
-special, it just means that you're
-working well on the daily tasks.");
+    MsgDisp("Honda","If you're not doing anything special, it
+just means that you're working well on the
+daily tasks.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_800");
-    MsgDisp("Honda","If you ever quit this job,
-I'm sure the manager would be in trouble.");
+    MsgDisp("Honda","If you ever quit this job, I'm sure the
+manager would be in trouble.");
     MsgDisp("主人公","(I'm happy to hear him say that!)");
     break ;
     case 4:
@@ -67,14 +66,14 @@ The manager was running around, too......");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("I260300000_03_820");
-    MsgDisp("Honda","One of our veteran part-timers
-suddenly couldn't come in.");
+    MsgDisp("Honda","One of our veteran part-timers suddenly
+couldn't come in.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_830");
-    MsgDisp("Honda","Just when the rest of us are
-new part-timers. It's tough without just
-one more person who understands the work.");
+    MsgDisp("Honda","Just when the rest of us are new
+part-timers. It's tough without just one
+more person who understands the work.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1,1);
@@ -96,8 +95,8 @@ I'll go get changed quickly!");
     MsgDisp("Honda","Da-...... We somehow got through the peak
 hours......");
     MsgDisp("主人公","Good work.
-It's the first time I've seen you
-this tired, ｛本多＊＊｝.");
+It's the first time I've seen you this
+tired, ｛本多＊＊｝.");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,0,1);

@@ -12,9 +12,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B330B10401_03_000");
-MsgDisp("Honda","There's a legend here that you 
-can hear the heart's 
-inner voice here right?");
+MsgDisp("Honda","There's a legend here that you can hear
+the heart's inner voice here right?");
 MsgDisp("主人公","Yeah, it's pretty mysterious.");
 ChMouth(1,2);
 ChEye(3,0);
@@ -52,22 +51,20 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B330B10401_01_020");
-MsgDisp("Kazama","Wait wait, 
-Why are you guys the only 
-one hearing something?");
+MsgDisp("Kazama","Wait wait, Why are you guys the only one
+hearing something?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B10401_03_020");
-MsgDisp("Honda","Isn't it because it's 
-Ryo-kun's inner voice?");
+MsgDisp("Honda","Isn't it because it's Ryo-kun's inner
+voice?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B330B10401_04_020");
-MsgDisp("Nanatsumori","I see, 
-the person themselves can't hear
+MsgDisp("Nanatsumori","I see, the person themselves can't hear
 their own inner voice.");
 ChEye(1,4);
 ChMouth(1,2);
@@ -82,8 +79,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330B10401_01_040");
 MsgDisp("Kazama","No, that's enough.
-Let's have a tea break, 
-okay?");
+Let's have a tea break, okay?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
@@ -91,9 +87,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B10401_04_030");
-MsgDisp("Nanatsumori","Kazama, 
-Do you really have such 
-shameful thoughts?");
+MsgDisp("Nanatsumori","Kazama, Do you really have such shameful
+thoughts?");
 ChEye(1,4);
 ChMouth(1,1);
 ChMotion(1,0);
@@ -102,7 +97,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B10401_03_030");
-MsgDisp("Honda","Is that so? Ryo-kun?");
+MsgDisp("Honda","Is that so?
+Ryo-kun?");
 MsgDisp("主人公","......｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -110,8 +106,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B10401_01_050");
 MsgDisp("Kazama","It's nothing.
-Got it. Then, shall we 
-all listen carefully?");
+Got it.
+Then, shall we all listen carefully?");
 MsgClose();
 ScrFadeOut(0);
 ChMotion(4,0);
@@ -167,8 +163,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10401_03_050");
 MsgDisp("Honda","Let's listen to it one more time.");
-MsgDisp("主人公","(Umm... everyone's eyes 
-are kind of scary.)");
+MsgDisp("主人公","(Umm... everyone's eyes are kind of
+scary.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

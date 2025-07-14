@@ -8,8 +8,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B040511000_05_000");
-MsgDisp("Hiiragi","I'm not great with exercise,
-but I like swimming.
+MsgDisp("Hiiragi","I'm not great with exercise, but I like
+swimming.
 What about you?");
 MsgSel("Call me the mermaid of Habataki City!","I was hoping you could teach me how to swim...","Can I bring a float?");
 switch (MsgSelRsltGet()){
@@ -32,8 +32,8 @@ Just like a mermaid princess.");
         ChMouth(5,2);
         VoicePlay("B040511000_05_020");
         MsgDisp("Hiiragi","You're swimming though?
-Make sure to properly give me a 
-shout if you need any help.");
+Make sure to properly give me a shout if
+you need any help.");
         MsgDateResultDisp();
         }
     break ;
@@ -42,8 +42,8 @@ shout if you need any help.");
     ChMotion(5,4);
     VoicePlay("B040511000_05_030");
     MsgDisp("Hiiragi","Let's do the fundamentals then.
-For anything more than that,
-let's learn it together.");
+For anything more than that, let's learn
+it together.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

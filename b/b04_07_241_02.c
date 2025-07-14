@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040724102_07_000");
 MsgDisp("Mikage","Phew... haaa...
 This place is so calming.");
-MsgSel("It's just like｛御影＊＊｝'s home","｛御影＊＊｝'s family home is also a ranch, right?","You can't live here.");
+MsgSel("It's just like ｛御影＊＊｝'s home.","｛御影＊＊｝'s family home is also a ranch, right?","You can't live here.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,5);
     ChEyeOpenLevel(7,8);
     VoicePlay("B040724102_07_010");
-    MsgDisp("Mikage","Welcome.
-It smells a bit, but make 
+    MsgDisp("Mikage","Welcome. It smells a bit, but make
 yourself at home～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -59,17 +58,17 @@ Apparently she produces a lot of milk.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040724102_07_050");
-        MsgDisp("Mikage","There are so many girls I'm 
-interested in, but I haven't 
-been able to see them at all.");
+        MsgDisp("Mikage","There are so many girls I'm interested in,
+but I haven't been able to see them at
+all.");
         MsgDisp("主人公","｛御影＊＊｝?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040724102_07_060");
         MsgDisp("Mikage","Don't look so worried.
-There's a girl here I'm interested 
-in too, after all.");
+There's a girl here I'm interested in too,
+after all.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,1);
@@ -89,9 +88,9 @@ gardening club are all important.");
         VoicePlay("B040724102_07_090");
         MsgDisp("Mikage","Ah, and the brats in our class.");
         MsgDisp("主人公","(I wonder if ｛御影＊＊｝ will quit
-being a teacher one day and work
-on a farm...that's a long way 
-off though, right?)");
+being a teacher one day and work on a
+farm...that's a long way off though,
+right?)");
         break ;
         default :
         DbgAssert(1);

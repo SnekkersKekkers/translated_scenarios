@@ -11,15 +11,14 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("J060700001_07_000");
-    MsgDisp("Mikage","Wow.
-You are pretty serious, aren't you?
+    MsgDisp("Mikage","Wow. You are pretty serious, aren't you?
 I'm impressed.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("J060700001_07_010");
-    MsgDisp("Mikage","I'll see those who're participating
-on Sunday then.");
+    MsgDisp("Mikage","I'll see those who're participating on
+Sunday then.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

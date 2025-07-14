@@ -18,9 +18,8 @@ switch (MsgSelRsltGet()){
         ChMotion(8,3,1);
         ChCheek(8,8);
         VoicePlay("B040811100_08_010");
-        MsgDisp("Shirahane","Really!
-Yer a princess on the ice.
-I can't take my eyes off you...");
+        MsgDisp("Shirahane","Really! Yer a princess on the ice. I can't
+take my eyes off you...");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -42,8 +41,8 @@ I can't take my eyes off you...");
     ChMotion(8,0,1);
     VoicePlay("B040811100_08_030");
     MsgDisp("Shirahane","That's already good.
-The rest is a matter of
-gettin' used to it.");
+The rest is a matter of gettin' used to
+it.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

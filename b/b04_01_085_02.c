@@ -4,8 +4,8 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040108502_01_000");
-MsgDisp("Kazama","Something about this place
-makes me want to come here regularly.");
+MsgDisp("Kazama","Something about this place makes me want
+to come here regularly.");
 MsgSel("It's charming in every season, right?","｛風真＊＊｝ likes the fireflies' home, huh?","Maybe something is guiding you here");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040108502_01_010");
     MsgDisp("Kazama","Yeah it is.
-I fall in love with each season every
-time I visit.");
+I fall in love with each season every time
+I visit.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +46,8 @@ just talk about nothing in particular.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108502_01_030");
-        MsgDisp("Kazama","Hey, you don't happen
-to be hearing anything, do you?");
+        MsgDisp("Kazama","Hey, you don't happen to be hearing
+anything, do you?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -57,8 +57,8 @@ to be hearing anything, do you?");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040108502_01_040");
-        MsgDisp("Kazama","Wait a minute. There's no way, but
-can you hear that?");
+        MsgDisp("Kazama","Wait a minute.
+There's no way, but can you hear that?");
         MsgDisp("主人公","Huh? Hear what?");
         ChEye(1,0);
         ChMouth(1,2);
@@ -78,8 +78,8 @@ not trying to check your hearing.");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040108502_01_070");
-        MsgDisp("Kazama","See, you can hear your partner's
-inner voice here, right?");
+        MsgDisp("Kazama","See, you can hear your partner's inner
+voice here, right?");
         MsgDisp("主人公","... No.
 ... I don't hear anything?");
         ChEye(1,4);
@@ -87,18 +87,18 @@ inner voice here, right?");
         ChMotion(1,4);
         VoicePlay("B040108502_01_080");
         MsgDisp("Kazama","That's good, then.
-After all, it wouldn't be fair if just
-one of us could hear it.");
+After all, it wouldn't be fair if just one
+of us could hear it.");
         ChEye(1,0);
         ChMouth(1,4);
         ChEyeOpenLevel(1,7);
         ChMouthOpenLevel(1,2);
         VoicePlay("B040108502_01_090");
-        MsgDisp("Kazama","... Let's always be together
-from here on out.");
+        MsgDisp("Kazama","... Let's always be together from here on
+out.");
         ChMouth(1,2);
-        MsgDisp("主人公","Whoa!
-｛風真＊＊｝, I think I just heard it!");
+        MsgDisp("主人公","Whoa! ｛風真＊＊｝, I think I just heard
+it!");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);
@@ -122,8 +122,8 @@ so I learned how to do it a little.");
         VoicePlay("B040108502_01_120");
         MsgDisp("Kazama","Sorry, but that was the greatest reaction
 to get.");
-        MsgDisp("主人公","(But earlier, he said that we'd
-always be together, right?)");
+        MsgDisp("主人公","(But earlier, he said that we'd always be
+together, right?)");
         break ;
         default :
         DbgAssert(1);

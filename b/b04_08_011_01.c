@@ -7,8 +7,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,4,1);
 VoicePlay("B040801101_08_000");
-MsgDisp("Shirahane","I like high places, but
-Somehow this place isn't calmin'...");
+MsgDisp("Shirahane","I like high places, but Somehow this place
+isn't calmin'...");
 MsgSel("Then, shall we go home already?","I like it though"," I'm not calm but I think it's for a different reason...");
 switch (MsgSelRsltGet()){
     case 0:

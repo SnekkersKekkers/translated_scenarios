@@ -26,8 +26,8 @@ Let's go and see what we can find!");
     ChMotion(3,1);
     VoicePlay("B030324001_03_020");
     MsgDisp("Honda","Yeppers, good idea.
-Imagine that we're surviving
-on a deserted island!");
+Imagine that we're surviving on a deserted
+island!");
     MsgDispSksp(0);
     break ;
     default :

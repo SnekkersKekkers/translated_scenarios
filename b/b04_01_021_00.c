@@ -6,8 +6,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040102100_01_000");
-MsgDisp("Kazama","It's not so bad,
-walking around without a real purpose.");
+MsgDisp("Kazama","It's not so bad, walking around without a
+real purpose.");
 MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","It feels like we have it all to ourselves...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -40,9 +40,9 @@ What, is that really that unusual?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040102100_01_030");
-    MsgDisp("Kazama","Yeah,
-but you have that aura that just attracts
-people to you. We'll never be safe.");
+    MsgDisp("Kazama","Yeah, but you have that aura that just
+attracts people to you.
+We'll never be safe.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -56,17 +56,17 @@ I do that on a regular basis.");
         MsgDisp("主人公","Eh, is that so?");
         ChMotion(4,0,1);
         VoicePlay("B040408402_04_060");
-        MsgDisp("Nanatsumori","I don't... jog everyday though.
-If it's necessary for work, 
-I'll also go to the gym.");
+        MsgDisp("Nanatsumori","I don't... jog everyday though. If it's
+necessary for work, I'll also go to the
+gym.");
         MsgDisp("主人公","｛七ツ森＊｝, you're amazing.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040408402_04_070");
         MsgDisp("Nanatsumori","Not really.
-I knew being a model needed small 
-efforts even in every day life.");
+I knew being a model needed small efforts
+even in every day life.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -83,14 +83,13 @@ What are you doing?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040408402_04_100");
-        MsgDisp("Nanatsumori","We're going to exercise, right?
-If it's only a little, I can join you
-for a bit. Dash!");
+        MsgDisp("Nanatsumori","We're going to exercise, right? If it's
+only a little, I can join you for a bit.
+Dash!");
         MsgClose();
         ChClose(4,0,30);
         SEPlay("EV_SE_FOOT_005",1);
-        MsgDisp("主人公","Eh∋
-｛七ツ森＊｝, wait up～!");
+        MsgDisp("主人公","Eh∋ ｛七ツ森＊｝, wait up～!");
         SEPlay("EV_SE_FOOT_007",0.25);
         SEWait();
         VoicePlay("B040408402_04_110");

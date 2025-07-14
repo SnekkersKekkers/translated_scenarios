@@ -24,8 +24,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,1);
 VoicePlay("P533100001_31_020");
-MsgDisp("Goro","Yes, have a good time. I'm looking
-forwards to seeing how it's like.");
+MsgDisp("Goro","Yes, have a good time.
+I'm looking forwards to seeing how it's
+like.");
 MsgDisp("主人公","(Alright, let's do our best!)");
 MsgClose();
 ScrFadeOut(0);

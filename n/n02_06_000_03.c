@@ -14,8 +14,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     ChEyeOpenLevel(6,8);
     VoicePlay("N020600003_06_010");
-    MsgDisp("Himuro","Unbelievable.
-The lack of effort. That's all.");
+    MsgDisp("Himuro","Unbelievable. The lack of effort. That's
+all.");
     MsgDisp("主人公","(Oof...
 I have to study harder...)");
     break ;
@@ -62,17 +62,17 @@ That was not a good idea.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("N020600003_06_070");
-    MsgDisp("Himuro","If you need help, talk to me. I think
-there are some things I can understand in
-your senior exam.");
+    MsgDisp("Himuro","If you need help, talk to me.
+I think there are some things I can
+understand in your senior exam.");
     MsgDisp("主人公","Okay, thank you...");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("N020600003_06_080");
     MsgDisp("Himuro","If you really want it, you'll be at the
-top of the list in no time. I'm rooting
-for you.");
+top of the list in no time.
+I'm rooting for you.");
     MsgDisp("主人公","(Oof...
 I have to study harder...)");
     break ;

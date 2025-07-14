@@ -14,8 +14,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoiceEVSPlay(7);
 VoicePlay("G110700400_07_010");
-MsgDisp("Mikage","｛主人公｝. Please stop by the gardening
-club for a bit on your way home.");
+MsgDisp("Mikage","｛主人公｝. Please stop by the
+gardening club for a bit on your way home.");
 MsgDisp("主人公","Eh......Ah, okay!");
 MsgClose();
 ScrFadeOut(0);
@@ -36,7 +36,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_030");
-MsgDisp("Mikage","As expected. 
+MsgDisp("Mikage","As expected.
 Aren't you feeling a bit tired?");
 MsgDisp("主人公","Eh?
 But that's not true......");
@@ -44,8 +44,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700400_07_040");
-MsgDisp("Mikage","Never mind that. Just try taking a deep
-breath.");
+MsgDisp("Mikage","Never mind that.
+Just try taking a deep breath.");
 MsgDisp("主人公","......Huu, fuuu......");
 ChEye(7,0);
 ChMouth(7,0);
@@ -72,12 +72,13 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G110700400_07_080");
-MsgDisp("Mikage","Okay, then. Take another deep breath
-before you go home.");
+MsgDisp("Mikage","Okay, then.
+Take another deep breath before you go
+home.");
 Wait(30,0);
 SEPlay("EV_SE_080");
-MsgDisp("主人公","(Huh? I think I feel a bit better......
-it must be thanks to ｛御影＊＊｝.)");
+MsgDisp("主人公","(Huh? I think I feel a bit better...... it
+must be thanks to ｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

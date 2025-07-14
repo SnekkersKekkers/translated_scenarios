@@ -21,15 +21,15 @@ MsgDisp("Himuro","\"I guess she's hanging out with other
 girls. You two, don't be so easy to
 read, and obviously down in the
 dumps.\"");
-MsgDisp("","Inori says this in his usual 
-way as he shakes his head.");
+MsgDisp("","Inori says this in his usual way as
+he shakes his head.");
 MsgClear();
-MsgDisp("","Even though he's a year below us, 
-he always seems to have 
-a more mature side to him.");
-MsgDisp("","Maybe he said that just now, 
-because he had noticed the 
-slightly stagnant atmosphere.");
+MsgDisp("","Even though he's a year below us, he
+always seems to have a more mature
+side to him.");
+MsgDisp("","Maybe he said that just now, because
+he had noticed the slightly stagnant
+atmosphere.");
 VoicePlay("Y300200400_01_000");
 MsgDisp("Kazama","\"You turned to look at the rooftop
 door time and time again though? \"");
@@ -50,15 +50,17 @@ MsgDisp("","I watch at the two of them like this,
 and while laughing, Ryota turns to me
 and starts talking to me.");
 VoicePlay("Y300200400_01_010");
-MsgDisp("Kazama","\"Hm? Why are you so quiet...Did you eat something weird?\"");
-MsgDisp("","I can understand how they feel, wanting to force things to be more
+MsgDisp("Kazama","\"Hm? Why are you so quiet...Did you
+eat something weird?\"");
+MsgDisp("","I can understand how they feel,
+wanting to force things to be more
 exciting.");
-MsgDisp("","This weekend, the four of us including her, are heading out
+MsgDisp("","This weekend, the four of us
+including her, are heading out
 together for the first time.");
 MsgClear();
-MsgDisp("","The four of us were going
-to talk about this weekend 
-during lunch.");
+MsgDisp("","The four of us were going to talk
+about this weekend during lunch.");
 VoicePlay("Y300200400_02_000");
 MsgDisp("Sassa","\"I'm good.
 I know it's just us, but should we

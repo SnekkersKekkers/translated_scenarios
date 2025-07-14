@@ -4,8 +4,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020110100_01_000");
 MsgDisp("Kazama","There are so many fireflies here.");
-MsgDisp("主人公","They seem to have a lot of companions 
-and look like they're having fun.");
+MsgDisp("主人公","They seem to have a lot of companions and
+look like they're having fun.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -31,11 +31,11 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_040");
-MsgDisp("Kazama","And ......this one! Flying around us with
-this delicate distance, that's Inori
-Firefly.");
-MsgDisp("主人公","Hehe.
-The, what about ｛風真＊＊｝ firefly?");
+MsgDisp("Kazama","And ......this one!
+Flying around us with this delicate
+distance, that's Inori Firefly.");
+MsgDisp("主人公","Hehe. The, what about ｛風真＊＊｝
+firefly?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -53,8 +53,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_070");
-MsgDisp("Kazama","......Well, 
-being here alone with you......
+MsgDisp("Kazama","......Well, being here alone with
+you......
 means we're in a dominant position, right?");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
@@ -67,9 +67,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110100_01_090");
-MsgDisp("Kazama","If you were a firefly, 
-no matter how bright you shine,
-I wouldn't care......");
+MsgDisp("Kazama","If you were a firefly, no matter how
+bright you shine, I wouldn't care......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

@@ -28,8 +28,8 @@ I feel like my heart is even warmer.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040614000_06_020");
-    MsgDisp("Himuro","I guess it doesn't 
-resonate with you...huh?");
+    MsgDisp("Himuro","I guess it doesn't resonate with
+you...huh?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -38,8 +38,8 @@ resonate with you...huh?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040614000_06_030");
-    MsgDisp("Himuro","Yeah, maybe that's how it is
-if you're not used to it.");
+    MsgDisp("Himuro","Yeah, maybe that's how it is if you're not
+used to it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

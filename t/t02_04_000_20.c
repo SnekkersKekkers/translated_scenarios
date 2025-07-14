@@ -18,7 +18,8 @@ VoicePlay("T020400000_04_200");
 MsgDisp("Nanatsumori","I've moved on from being an ambiguous
 person. From now on, I want to cherish you
 as a man.");
-MsgDisp("主人公","Thank you. I too......");
+MsgDisp("主人公","Thank you.
+I too......");
 ChMouth(4,0);
 ChMotion(4,1,1);
 ChCheek(4,0);

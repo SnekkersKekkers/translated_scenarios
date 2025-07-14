@@ -16,9 +16,9 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("P640100003_01_020");
-MsgDisp("Kazama","That might be true, 
-and the flavour might be good, 
-but appearances matter too, you know?");
+MsgDisp("Kazama","That might be true, and the flavour might
+be good, but appearances matter too, you
+know?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -26,7 +26,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("P640100003_01_030");
 MsgDisp("Kazama","I don't have the courage to eat that.");
 MsgDisp("主人公","(A huge failure...
-I should have put more effort into 
+I should have put more effort into
 preparations for the Gardening Club...)");
 MsgClose();
 ScrFadeOut(0,0);

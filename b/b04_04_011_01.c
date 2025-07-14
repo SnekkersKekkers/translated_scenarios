@@ -6,8 +6,8 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040401101_04_000");
-MsgDisp("Nanatsumori","If it were evening, the scenery would 
-be completely different to now.");
+MsgDisp("Nanatsumori","If it were evening, the scenery would be
+completely different to now.");
 MsgSel("I want to take a picture of the sky at sunset.","I want to see it too","There would probably be more couples...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,9 +28,8 @@ The subject is too wide though.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040401101_04_020");
-    MsgDisp("Nanatsumori","Right?
-Should we... come together some day?
-If it's convenient.");
+    MsgDisp("Nanatsumori","Right? Should we... come together some
+day? If it's convenient.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +40,8 @@ If it's convenient.");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040401101_04_030");
-    MsgDisp("Nanatsumori","So?
-You don't have to say it with that face.");
+    MsgDisp("Nanatsumori","So? You don't have to say it with that
+face.");
     MsgDateResultDisp();
     break ;
     default :

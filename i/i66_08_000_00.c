@@ -11,8 +11,8 @@ switch (ChPrmGet(8,6)){
     MsgDisp("Male Customer","Wait, wait!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_010");
-    MsgDisp("Male Customer","There's a car over here, too,
-so be careful.");
+    MsgDisp("Male Customer","There's a car over here, too, so be
+careful.");
     MsgDisp("主人公","I'm so sorry!");
     VoicePlay("I660800000_45_000");
     MsgDisp("Woman Customer","Excuse me!
@@ -25,16 +25,15 @@ The gas flap is still open!");
     ChOpen(8,35,0,3,4,10,#1,0,0);
     VoicePlay("I660800000_08_000");
     MsgDisp("Shirahane","Leave it t'me.
-Go close that gas flap, and then take
-care of the bill!");
+Go close that gas flap, and then take care
+of the bill!");
     MsgDisp("主人公","｛大地＊＊｝, thank you.
 Sorry for the bother......");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("I660800000_08_010");
-    MsgDisp("Shirahane","Everyone makes mistakes in the
-beginnin'.
+    MsgDisp("Shirahane","Everyone makes mistakes in the beginnin'.
 C'mon, hurry.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -49,8 +48,8 @@ C'mon, hurry.");
     MsgDisp("Male Customer","Stop, stop!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_040");
-    MsgDisp("Male Customer","Geez...... look behind properly,
-my car's right there!");
+    MsgDisp("Male Customer","Geez...... look behind properly, my car's
+right there!");
     MsgDisp("主人公","I'm so sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
@@ -60,8 +59,8 @@ my car's right there!");
     ChMotion(8,3,1);
     VoicePlay("I660800000_08_020");
     MsgDisp("Shirahane","So sorry, bro!
-She's still gettin' used to it,
-so please understand!");
+She's still gettin' used to it, so please
+understand!");
     VoicePlay("I660800000_39_050");
     MsgDisp("Male Customer","Dai-chan, I'm counting on you.");
     SEPlay("EV_SE_589",1);
@@ -77,11 +76,10 @@ Sorry to bother you.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("I660800000_08_040");
-    MsgDisp("Shirahane","Don't rush and look around properly
-and you'll be fine.
-'Kay?");
-    MsgDisp("主人公","(｛大地＊＊｝......
-I'll have to be more careful from now on.)");
+    MsgDisp("Shirahane","Don't rush and look around properly and
+you'll be fine. 'Kay?");
+    MsgDisp("主人公","(｛大地＊＊｝...... I'll have to be more
+careful from now on.)");
     break ;
     default :
     DbgAssert(1);

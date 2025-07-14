@@ -27,8 +27,8 @@ You could even see Hanegasaki beach.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040123200_01_020");
-    MsgDisp("Kazama","So that's why it suddenly 
-got quiet halfway through.");
+    MsgDisp("Kazama","So that's why it suddenly got quiet
+halfway through.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -38,8 +38,9 @@ got quiet halfway through.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040123200_01_030");
-    MsgDisp("Kazama","So even you have things you're 
-not good with. That's good intel.");
+    MsgDisp("Kazama","So even you have things you're not good
+with.
+That's good intel.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

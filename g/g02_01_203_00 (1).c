@@ -44,8 +44,8 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120300_01_050");
-MsgDisp("Kazama","So is it sporty clothes? Or the wild
-stuff?");
+MsgDisp("Kazama","So is it sporty clothes?
+Or the wild stuff?");
 MsgDisp("主人公","Mmmm, I like the clothes you usually wear,
 ｛風真＊＊｝.");
 ChEye(1,0);
@@ -59,8 +59,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3,1);
 VoicePlay("G020120300_01_070");
-MsgDisp("Kazama","Hold it, that's what you meant∋ That's
-just the uniform for Simon.");
+MsgDisp("Kazama","Hold it, that's what you meant∋
+That's just the uniform for Simon.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -72,9 +72,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120300_01_090");
-MsgDisp("Kazama","But you better get ready. I'm going to
-start wearing aprons in all sorts of
-colors to our dates from now on.");
+MsgDisp("Kazama","But you better get ready.
+I'm going to start wearing aprons in all
+sorts of colors to our dates from now on.");
 MsgDisp("主人公","(A colorful ｛風真＊＊｝ might be a bit
 like these fireflies......)");
 BGMStop();

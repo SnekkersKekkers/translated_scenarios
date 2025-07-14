@@ -5,9 +5,9 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B040302202_03_000");
-MsgDisp("Honda","Oh! They're accepting suggestions for the 
+MsgDisp("Honda","Oh! They're accepting suggestions for the
 name of the tour boat.");
-MsgSel("I wonder if they didn't have one until now?","What about the usual: Habataki?","How about calling it HMS｛本多＊＊｝?");
+MsgSel("I wonder if they didn't have one until now?","What about the usual: Habataki?","How about calling it HMS ｛本多＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -57,8 +57,7 @@ It'll look like I own it.");
         ChMotion(3,4,1);
         VoicePlay("B040302202_03_040");
         MsgDisp("Honda","They definitely won't pick it.");
-        MsgDisp("主人公","Maybe.
-Then what about just ｛本多＊＊｝?");
+        MsgDisp("主人公","Maybe. Then what about just ｛本多＊＊｝?");
         ChEye(3,1);
         ChMouth(3,4);
         ChMotion(3,2,1);
@@ -75,31 +74,32 @@ Ah, what about Habataki?");
         ChMouth(3,0);
         ChMotion(3,4,1);
         VoicePlay("B040302202_03_070");
-        MsgDisp("Honda","If it was up to me,
-I would name it after you too.");
+        MsgDisp("Honda","If it was up to me, I would name it after
+you too.");
         MsgDisp("主人公","Really?");
         ChEye(3,3);
         ChMouth(3,0);
         ChMotion(3,5,1);
         VoicePlay("B040302202_03_080");
-        MsgDisp("Honda","That's it! What about a secret nickname
-just between us; Rose Queen?");
+        MsgDisp("Honda","That's it!
+What about a secret nickname just between
+us; Rose Queen?");
         MsgDisp("主人公","Oh? After the Habataki High School
 Festival Rose Queen?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1,1);
         VoicePlay("B040302202_03_090");
-        MsgDisp("Honda","Yes! Because the Rose Queen for me 
-has always been you.");
+        MsgDisp("Honda","Yes! Because the Rose Queen for me has
+always been you.");
         ChEye(3,4);
         ChMouth(3,3);
         ChMotion(3,3,1);
         ChCheek(3,5);
         VoicePlay("B040302202_03_100");
         MsgDisp("Honda","What?");
-        MsgDisp("主人公","(｛本多＊＊｝...
-I'm happy, but a kind of shy as well.)");
+        MsgDisp("主人公","(｛本多＊＊｝... I'm happy, but a kind of
+shy as well.)");
         break ;
         default :
         DbgAssert(1);

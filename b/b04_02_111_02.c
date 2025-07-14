@@ -77,8 +77,8 @@ That would be most effective.");
         ChMotion(2,0);
         VoicePlay("B040211102_02_060");
         MsgDisp("Sassa","Right, it's like a hot drink.
-If you drink it, you'll have breathe a 
-\"Hooo—to\" sigh of relief. ");
+If you drink it, you'll have breathe a
+\"Hooo—to\" sigh of relief.");
         MsgDisp("主人公","Yeah.");
         ChEye(2,0);
         ChMouth(2,2);
@@ -86,8 +86,7 @@ If you drink it, you'll have breathe a
         VoicePlay("B040211102_02_070");
         MsgDisp("Sassa","Huh...
 I thought that was funny though...");
-        MsgDisp("主人公","(｛颯砂＊＊｝...?
-Was that a pun?)");
+        MsgDisp("主人公","(｛颯砂＊＊｝...? Was that a pun?)");
         break ;
         default :
         DbgAssert(1);

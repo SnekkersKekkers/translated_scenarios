@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040203302_02_000");
-MsgDisp("Sassa","This place kind of reminds me of a 
-sunken ship.");
+MsgDisp("Sassa","This place kind of reminds me of a sunken
+ship.");
 MsgSel("Ah, an oarfish!","There's a shadow in boat window......","I think that sunken ship had treasure");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3,1);
     VoicePlay("B040203302_02_010");
-    MsgDisp("Sassa","Eh, where?　
+    MsgDisp("Sassa","Eh, where?
 Hey, are you listening to me?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -57,15 +57,15 @@ Sigh......Stop messing around.");
         ChMotion(2,3);
         VoicePlay("B040203302_02_050");
         MsgDisp("Sassa","No good.
-I can tell by your face that you'll do
-it again.");
+I can tell by your face that you'll do it
+again.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040203302_02_060");
-        MsgDisp("Sassa","......Now that I think about it,
-this place has the same vibe as a 
-Haunted House.");
+        MsgDisp("Sassa","......Now that I think about it, this
+place has the same vibe as a Haunted
+House.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,4);
@@ -77,9 +77,9 @@ ghost ship.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040203302_02_080");
-        MsgDisp("Sassa","The people that died on the
-sunken ship becomes ghosts. It's
-basically the same.");
+        MsgDisp("Sassa","The people that died on the sunken ship
+becomes ghosts.
+It's basically the same.");
         MsgDisp("主人公","U-Uhm......");
         ChEye(2,0);
         ChMouth(2,0);
@@ -91,8 +91,8 @@ basically the same.");
         ChMouth(2,0);
         ChMotion(2,3);
         VoicePlay("B040203302_02_100");
-        MsgDisp("Sassa","When it's dark, it's easy to
-trip, so it's good for us to hold hands.");
+        MsgDisp("Sassa","When it's dark, it's easy to trip, so it's
+good for us to hold hands.");
         MsgDisp("主人公","Y-Yeah.");
         ChLayout(0);
         ChEye(2,0);
@@ -100,8 +100,7 @@ trip, so it's good for us to hold hands.");
         ChMotion(2,2);
         VoicePlay("B040203302_02_110");
         MsgDisp("Sassa","Okay, let's go this way.");
-        MsgDisp("主人公","(｛颯砂＊＊｝, this
-isn't a haunted house.)");
+        MsgDisp("主人公","(｛颯砂＊＊｝, this isn't a haunted house.)");
         break ;
         default :
         DbgAssert(1);

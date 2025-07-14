@@ -10,8 +10,8 @@ MsgDisp("","It was a day in my 3rd year of
 elementary school. If I hadn't come
 to Habataki City, I wouldn't be here
 now.");
-MsgDisp("","I also definitely wouldn't
-have become a model.");
+MsgDisp("","I also definitely wouldn't have
+become a model.");
 MsgClear();
 MsgDisp("","\"Reality\" is bothersome.");
 MsgDisp("","That's why—— I wanted to live in a
@@ -38,7 +38,7 @@ talking about meeting up for real.
 Honestly, it was a pain, and I
 thought about turning him down,
 but...");
-MsgDisp("","I knew he lived in the neighbouring 
+MsgDisp("","I knew he lived in the neighbouring
 Habataki City.
 In the end, I went the next day.");
 MsgClear();
@@ -51,8 +51,8 @@ an internet cafe, we got really into
 talking about my social media and PC
 accessories, those kinds of mundane
 topics.");
-MsgDisp("","Before I realized,
-it was already evening.");
+MsgDisp("","Before I realized, it was already
+evening.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -79,13 +79,12 @@ charge of looking for new talent at
 the Habataki City model offices.\"");
 MsgDisp("","Huh? This office, if I'm not
 mistak—— Isn't that the place that
-debuts legendary high school
-models?");
+debuts legendary high school models?");
 MsgClear();
-MsgDisp("","I only took his business card,
-and went home like that.");
-MsgDisp("","At that time, a new 
-feeling was born within me.");
+MsgDisp("","I only took his business card, and
+went home like that.");
+MsgDisp("","At that time, a new feeling was born
+within me.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -107,8 +106,8 @@ and even part non-Japanese. His
 aesthetics are god-tier.");
 MsgDisp("","I probably started disguising myself
 on social media because of him.");
-MsgDisp("","To be the object of envy and
-have the power to influence others. 
+MsgDisp("","To be the object of envy and have the
+power to influence others.
 Or something like that.");
 MsgClear();
 MsgDisp("","...! Something is stirring within me
@@ -121,14 +120,14 @@ out the business card that was
 crudely crammed into my trouser
 pocket.");
 MsgDisp("","Model office.
-If I accept their offer, 
-I'll become a model too.");
+If I accept their offer, I'll become
+a model too.");
 MsgClear();
 MsgDisp("","Even though the world of SNS is fun
 enough, if I could become a model...
 does it get more exciting than this?");
-MsgDisp("","Not a \"manufactured\" me, but could
-I myself influence someone?");
+MsgDisp("","Not a \"manufactured\" me, but could I
+myself influence someone?");
 MsgDisp("","I reached peak excitement.");
 MsgClear();
 VoicePlay("Y300400200_04_000");
@@ -136,17 +135,18 @@ MsgDisp("Nanatsumori","\"Um, hello...?\"");
 MsgDisp("","I called the number on the business
 card. I heard the voice of the talent
 scout man I met just a while ago.");
-MsgDisp("","After that... I don't exactly 
-remember what we talked about.");
+MsgDisp("","After that...
+I don't exactly remember what we
+talked about.");
 MsgClear();
-MsgDisp("","My modeling contract would start
-once I became a high school student.");
+MsgDisp("","My modeling contract would start once
+I became a high school student.");
 MsgDisp("","In order for me to both be able to
 work and go to school, I would live
 in Habataki City where the office
 was. Of course, I would live alone.");
-MsgDisp("","...So I decided to go to a 
-high school in Habataki City.");
+MsgDisp("","...So I decided to go to a high
+school in Habataki City.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -156,18 +156,19 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClear();
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("","Either Haba High
-or Hane School was fine.");
-MsgDisp("","But, maybe I unconsciously 
-wanted to match him.
+MsgDisp("","Either Haba High or Hane School was
+fine.");
+MsgDisp("","But, maybe I unconsciously wanted to
+match him.
 The legendary high school model.");
 MsgClear();
-MsgDisp("","So... I managed to do well on
-the entrance exam. Strange.");
+MsgDisp("","So... I managed to do well on the
+entrance exam. Strange.");
 VoicePlay("Y300400200_04_010");
 MsgDisp("Nanatsumori","\"...Oh, crap!\"");
-MsgDisp("","It's time already∋ I have to hurry up
-and head to the shoot.");
+MsgDisp("","It's time already∋
+I have to hurry up and head to the
+shoot.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 SEWait();
 BGMStop();

@@ -21,23 +21,21 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("K020801000_08_010");
-MsgDisp("Shirahane","C'mon, there's still somethin'
-left today, right?");
+MsgDisp("Shirahane","C'mon, there's still somethin' left today,
+right?");
 MsgDisp("主人公","Something left......?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("K020801000_08_020");
 MsgDisp("Shirahane","Your birthday.");
-MsgDisp("主人公","Eh......
-｛大地＊＊｝, you remembered?");
+MsgDisp("主人公","Eh...... ｛大地＊＊｝, you remembered?");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("K020801000_08_030");
-MsgDisp("Shirahane","'Course.
-'S'a happy day for everyone around
-the world, how could I forget it?");
+MsgDisp("Shirahane","'Course. 'S'a happy day for everyone
+around the world, how could I forget it?");
 ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);

@@ -27,8 +27,8 @@ I'm glad I did my best!)");
     ChOpen(4,30,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030400000_04_010");
-    MsgDisp("Nanatsumori","Ooh, winning first at
-the sports festival......");
+    MsgDisp("Nanatsumori","Ooh, winning first at the sports
+festival......");
     MsgDisp("主人公","Yeah.
 We were perfectly in sync!");
     ChEye(4,0);
@@ -40,10 +40,10 @@ Guess we're compatible?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("O030400000_04_030");
-    MsgDisp("Nanatsumori","Let's pair up again if we want
-to get first place in sports.");
-    MsgDisp("主人公","(I did it!
-I got first place with ｛七ツ森＊｝!)");
+    MsgDisp("Nanatsumori","Let's pair up again if we want to get
+first place in sports.");
+    MsgDisp("主人公","(I did it! I got first place with
+｛七ツ森＊｝! )");
     break ;
     case 4:
     case 5:
@@ -52,8 +52,8 @@ I got first place with ｛七ツ森＊｝!)");
     ChOpen(4,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030400000_04_040");
-    MsgDisp("Nanatsumori","Seriously, first place at
-the sports festival?");
+    MsgDisp("Nanatsumori","Seriously, first place at the sports
+festival?");
     MsgDisp("主人公","We were perfectly in sync, right?
 Yay!");
     ChEye(4,0);
@@ -74,11 +74,11 @@ What am I saying......");
     ChMotion(4,2,1);
     ChCheek(4,8);
     VoicePlay("O030400000_04_070");
-    MsgDisp("Nanatsumori","I get kinda happy and kinda nervous
-when we get along like this. My heart
-won't stop pounding...... I'm in trouble.");
-    MsgDisp("主人公","(｛七ツ森＊｝......?
-I'm so happy we won first place!)");
+    MsgDisp("Nanatsumori","I get kinda happy and kinda nervous when
+we get along like this. My heart won't
+stop pounding...... I'm in trouble.");
+    MsgDisp("主人公","(｛七ツ森＊｝......? I'm so happy we
+won first place!)");
     break ;
     default :
     DbgAssert(1);

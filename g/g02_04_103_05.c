@@ -8,9 +8,9 @@ ChMouth(4,4);
 VoicePlay("G020410305_04_000");
 MsgDisp("Nanatsumori","Huh, what is it?
 Is it me you're laughing at?");
-MsgDisp("主人公","Nope. It's just so nice here and
-it's dimly lit so I was wondering if
-you were getting sleepy, ｛七ツ森＊｝.");
+MsgDisp("主人公","Nope. It's just so nice here and it's
+dimly lit so I was wondering if you were
+getting sleepy, ｛七ツ森＊｝.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -27,16 +27,15 @@ ChMotion(4,0,1);
 VoicePlay("G020410305_04_030");
 MsgDisp("Nanatsumori","Immersed...
 but not in a dream?");
-MsgDisp("主人公","Yeah, like how you were in the music
-room, ｛七ツ森＊｝?");
+MsgDisp("主人公","Yeah, like how you were in the music room,
+｛七ツ森＊｝?");
 ChEye(4,4);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("G020410305_04_040");
 MsgDisp("Nanatsumori","T-That was...");
-MsgDisp("主人公","Hehe. Even if the situation
-is different, it probably has the
-same feeling.");
+MsgDisp("主人公","Hehe. Even if the situation is different,
+it probably has the same feeling.");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);

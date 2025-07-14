@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040519000_05_000");
-    MsgDisp("Hiiragi","Yes, the costumes, the props,
-everywhere you looked it was perfect.");
+    MsgDisp("Hiiragi","Yes, the costumes, the props, everywhere
+you looked it was perfect.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -22,8 +22,8 @@ everywhere you looked it was perfect.");
     ChEye(5,2);
     ChMotion(5,4);
     VoicePlay("B040519000_05_010");
-    MsgDisp("Hiiragi","I agree that the second
-half felt a bit rushed.
+    MsgDisp("Hiiragi","I agree that the second half felt a bit
+rushed.
 But even so, it was still great.");
     MsgDateResultDisp();
     break ;
@@ -34,8 +34,7 @@ But even so, it was still great.");
     ChMotion(5,1);
     VoicePlay("B040519000_05_020");
     MsgDisp("Hiiragi","A miss...
-Then what would have 
-been a hit for you?");
+Then what would have been a hit for you?");
     MsgDateResultDisp();
     break ;
     default :

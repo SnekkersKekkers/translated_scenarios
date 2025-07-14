@@ -17,23 +17,23 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("F020300011_03_010");
-MsgDisp("Honda","Every neighborhood, I get pestered by
-the kids in my neighborhood and
-end up making them.");
+MsgDisp("Honda","Every neighborhood, I get pestered by the
+kids in my neighborhood and end up making
+them.");
 ChMotion(3,4);
 VoicePlay("F020300011_03_020");
 MsgDisp("Honda","But there's less and less snow each year,
 and when factoring in the weather,
 temperature, and humidity..."); 
-MsgDisp("Honda","Yeah, it gets hard to choose the
-optimal day.");
+MsgDisp("Honda","Yeah, it gets hard to choose the optimal
+day.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("F020300011_03_030");
 MsgDisp("Honda","Sure, the fun's in the process, but it'd
-be pretty depressing if the snowman
-melted right away, right?");
+be pretty depressing if the snowman melted
+right away, right?");
 MsgDisp("主人公","Absolutely.
 Especially for the kids.");
 ChEye(3,0);

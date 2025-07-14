@@ -10,7 +10,7 @@ let's open it.)");
 SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
-MsgDisp("主人公","(A photo book of \"The Sandy Beaches of
-the World\".)");
+MsgDisp("主人公","(A photo book of \"The Sandy Beaches of the
+World\".)");
 MsgDisp("主人公","(Woah, a beautiful book of photos...
 I wish I can go to beaches like this.)");

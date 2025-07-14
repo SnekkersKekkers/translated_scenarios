@@ -6,7 +6,7 @@ MsgDisp("主人公","(Mmm, that bath felt good......)");
 VoicePlay("D010500700_40_000");
 MsgDisp("Male Student","You've got this, Hiiragi!
 You're so good!");
-MsgDisp("主人公","(Eh, ｛柊＊＊＊｝?)");
+MsgDisp("主人公","(Eh, ｛柊＊＊＊｝? )");
 SEStop("EV_SE_852",1);
 MsgClose();
 ScrFadeOut(0,0);
@@ -29,17 +29,15 @@ VoicePlay("D010500700_38_000");
 MsgDisp("Students","Woah, amazing!");
 SEStop("EV_SE_GAYA_025",2);
 VoicePlay("D010500700_40_020");
-MsgDisp("Male Student","It's not over yet!
-I bet you can't return this serve!
-......Here!");
+MsgDisp("Male Student","It's not over yet! I bet you can't return
+this serve! ......Here!");
 SEPlay("EV_SE_851",0,0.8);
 Wait(30,0);
 SEPlay("EV_SE_849",0.5);
 Wait(20,0);
 VoicePlay("D010500700_05_020");
 MsgDisp("Hiiragi","Ha!");
-MsgDisp("主人公","Wow......
-｛柊＊＊＊｝, good luck!");
+MsgDisp("主人公","Wow...... ｛柊＊＊＊｝, good luck!");
 VoicePlay("D010500700_05_030");
 MsgDisp("Hiiragi","Hm?");
 VoicePlay("D010500700_05_040");
@@ -54,8 +52,8 @@ Wait(15,0);
 MsgDisp("主人公","Ahh∋");
 SEPlay("EV_SE_GAYA_016");
 VoicePlay("D010500700_40_030");
-MsgDisp("Male Student","Ahahaha, don't just suddenly smash 
-it towards the girls!");
+MsgDisp("Male Student","Ahahaha, don't just suddenly smash it
+towards the girls!");
 SEStop("EV_SE_GAYA_016",1.5);
 BGMVol(0.5,2);
 MsgClose();
@@ -76,18 +74,17 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500700_05_060");
 MsgDisp("Hiiragi","I was trying to show you a good side of
-me......I feel like I missed a once in a 
+me......I feel like I missed a once in a
 lifetime opportunity.");
-MsgDisp("主人公","Hehe.
-｛柊＊＊＊｝, you're really good at table
-tennis though!");
+MsgDisp("主人公","Hehe. ｛柊＊＊＊｝, you're really good at
+table tennis though!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D010500700_05_070");
-MsgDisp("Hiiragi","You think so? Even if it's only table 
-tennis, it's nice being complimented by 
-you for sports.");
+MsgDisp("Hiiragi","You think so?
+Even if it's only table tennis, it's nice
+being complimented by you for sports.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -113,7 +110,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500700_05_110");
-MsgDisp("Hiiragi","Next time I'll try harder to not hit you 
+MsgDisp("Hiiragi","Next time I'll try harder to not hit you
 in the head, okay?");
 MsgDisp("主人公","Hehe, thank you.");
 ChEye(5,4);
@@ -125,8 +122,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝ looks like he's enjoying
-the school trip?
+MsgDisp("主人公","(｛柊＊＊＊｝ looks like he's enjoying the
+school trip?
 I'm happy for him......)");
 MsgClose();
 ScrFadeOut(0,0);

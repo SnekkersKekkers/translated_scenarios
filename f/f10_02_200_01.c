@@ -1,14 +1,15 @@
 BGOpen("sc310",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(We're moving classrooms for 
-the next lesson... I'll head back early.)");
+MsgDisp("主人公","(We're moving classrooms for the next
+lesson...
+I'll head back early.)");
 VoicePlay("F100220001_02_000");
 MsgDisp("Sassa?","Heeh, nice.
 Is that a national hot spring travelogue?");
 VoicePlay("F100220001_05_000");
-MsgDisp("Hiiragi?","Yes, 
-It was a gift from an audience member.");
+MsgDisp("Hiiragi?","Yes, It was a gift from an audience
+member.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,1);
@@ -20,25 +21,25 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100220001_02_010");
-MsgDisp("Sassa","Ooh, and with this, 
-all the members are here.");
+MsgDisp("Sassa","Ooh, and with this, all the members are
+here.");
 MsgDisp("主人公","Eh, me too?");
 ChMotion(2,2);
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100220001_05_010");
-MsgDisp("Hiiragi","Yes. You're the vice president, 
-just like I am.");
+MsgDisp("Hiiragi","Yes. You're the vice president, just like
+I am.");
 MsgDisp("主人公","Hehe.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100220001_05_020");
-MsgDisp("Hiiragi","Then, I shall share some with you too. 
-It was a gift from an audience member.
-Natural hot spring salts you
-can enjoy even at home.");
+MsgDisp("Hiiragi","Then, I shall share some with you too. It
+was a gift from an audience member.
+Natural hot spring salts you can enjoy
+even at home.");
 SEPlay("EV_SE_535");
 SEWait();
 ChMotion(2,0);
@@ -49,8 +50,8 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("F100220001_02_020");
-MsgDisp("Sassa","Yes, with this you've fully
-joined our club.");
+MsgDisp("Sassa","Yes, with this you've fully joined our
+club.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -4,17 +4,17 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("G020340003_03_000");
-MsgDisp("Honda","I'm finally satisfied with the ramen
-soup I've been working on for so long.");
+MsgDisp("Honda","I'm finally satisfied with the ramen soup
+I've been working on for so long.");
 MsgDisp("主人公","Eh!
 You made the soup from scratch......?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020340003_03_010");
-MsgDisp("Honda","Right, right! he base is a chicken broth,
-and then I adjust the flavor with soy
-sauce or miso.");
+MsgDisp("Honda","Right, right!
+he base is a chicken broth, and then I
+adjust the flavor with soy sauce or miso.");
 ChMotion(3,4);
 VoicePlay("G020340003_03_020");
 MsgDisp("Honda","When I want something lighter, I mix in
@@ -41,8 +41,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020340003_03_050");
-MsgDisp("Honda","it's just a hobby, 
-so I don't have to worry about costs.");
+MsgDisp("Honda","it's just a hobby, so I don't have to
+worry about costs.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

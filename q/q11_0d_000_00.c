@@ -6,8 +6,8 @@ ChOpen(21,254,3,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q110D00000_21_000");
 MsgDisp("Michiru","Sorry to keep you waiting.");
-MsgDisp("主人公","｛みちる＊｝.
-Were you able to buy souvenirs?");
+MsgDisp("主人公","｛みちる＊｝. Were you able to buy
+souvenirs?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -24,8 +24,8 @@ ChMotion(22,5,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("Q110D00000_22_000");
 MsgDisp("Hikaru","Sorry to keep you both waiting～♪");
-MsgDisp("主人公","｛ひかる＊｝, 
-you're in a good mood, aren't you?");
+MsgDisp("主人公","｛ひかる＊｝, you're in a good mood,
+aren't you?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -42,16 +42,15 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("Q110D00000_22_020");
-MsgDisp("Hikaru","As a memory, of the school trip,
-a matching one for us all▼
+MsgDisp("Hikaru","As a memory, of the school trip, a
+matching one for us all▼
 How do you think?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Q110D00000_21_030");
-MsgDisp("Michiru","Oh no......
-I also bought for us three as memory......
-Look......");
+MsgDisp("Michiru","Oh no...... I also bought for us three as
+memory...... Look......");
 MsgDisp("主人公","Actually, me too......");
 ChEye(22,0);
 ChMouth(22,0);
@@ -73,7 +72,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q110D00000_21_040");
 MsgDisp("Michiru","Yeah, really.
-How could you forget such an interesting 
+How could you forget such an interesting
 event?");
 MsgDisp("主人公","Hehe!
 Yeah, I'll never forget......!");

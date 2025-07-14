@@ -13,10 +13,11 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_000");
-    MsgDisp("Himuro","......Hey, did you get the price
-of that bouquet wrong earlier?");
+    MsgDisp("Himuro","......Hey, did you get the price of that
+bouquet wrong earlier?");
     MsgDisp("主人公","Um, 5 roses......
-2 baby's breaths...... Ah, you're right!");
+2 baby's breaths......
+Ah, you're right!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -49,9 +50,9 @@ You're still just a beginner.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_040");
-    MsgDisp("Himuro","This isn't something that can be
-simply forgiven just because you're not
-used to this. Be more aware.");
+    MsgDisp("Himuro","This isn't something that can be simply
+forgiven just because you're not used to
+this. Be more aware.");
     MsgDisp("主人公","Yes......");
     MsgDisp("主人公","(｛氷室＊＊｝ got mad at me......
 I'll have to get it together......)");
@@ -74,8 +75,8 @@ nicely because it was too big......");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_060");
-    MsgDisp("Himuro","Honestly...... haven't you done this
-with the ribbons a million times now?");
+    MsgDisp("Himuro","Honestly...... haven't you done this with
+the ribbons a million times now?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -86,8 +87,8 @@ I'll do it this time.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_080");
-    MsgDisp("Himuro","And after work, go practice tying
-big bouquets.
+    MsgDisp("Himuro","And after work, go practice tying big
+bouquets.
 ......I'll stay, too.");
     MsgDisp("主人公","Huh, really......?");
     ChEye(6,0);
@@ -95,11 +96,11 @@ big bouquets.
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("I460600003_06_090");
-    MsgDisp("Himuro","It'd just be annoying for me
-to be dragged down by you.");
+    MsgDisp("Himuro","It'd just be annoying for me to be dragged
+down by you.");
     MsgDisp("主人公","I guess so, thanks.");
-    MsgDisp("主人公","(Let's try harder so we don't
-cause more trouble......!)");
+    MsgDisp("主人公","(Let's try harder so we don't cause more
+trouble......!)");
     break ;
     default :
     DbgAssert(1);

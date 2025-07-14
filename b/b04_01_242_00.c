@@ -5,8 +5,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040124200_01_000");
-MsgDisp("Kazama","It's different from what
-I'm used to in the kitchen.");
+MsgDisp("Kazama","It's different from what I'm used to in
+the kitchen.");
 MsgSel("｛風真＊＊｝, I'm counting on you♪","Camping means BBQ!","It seems super inconvenient and difficult...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040124200_01_010");
-    MsgDisp("Kazama","ＯＫ! Then first is fire.
-I'd like to say let's start a fire, but
-let's count on modern conveniences here.");
+    MsgDisp("Kazama","ＯＫ! Then first is fire. I'd like to say
+let's start a fire, but let's count on
+modern conveniences here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ let's count on modern conveniences here.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040124200_01_020");
-    MsgDisp("Kazama","Yeah, they were selling 
-ingredients at the ranch.
+    MsgDisp("Kazama","Yeah, they were selling ingredients at the
+ranch.
 Let's have yakiniku, the two of us!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -41,9 +41,9 @@ Let's have yakiniku, the two of us!");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040124200_01_030");
-    MsgDisp("Kazama","Isn't that what you want? Geez...
-you're not allowed to use any convenient
-tools for the rest of the day.");
+    MsgDisp("Kazama","Isn't that what you want? Geez... you're
+not allowed to use any convenient tools
+for the rest of the day.");
     MsgDateResultDisp();
     break ;
     default :

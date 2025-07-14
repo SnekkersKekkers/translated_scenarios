@@ -27,9 +27,8 @@ Stop making such a lonely face.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("Q120400000_04_030");
-    MsgDisp("Nanatsumori","Right.
-See ya then. Thanks to you, 
-I enjoyed the school trip.");
+    MsgDisp("Nanatsumori","Right. See ya then. Thanks to you, I
+enjoyed the school trip.");
     break ;
     case 3:
     ChEye(4,0);
@@ -43,8 +42,8 @@ I'm at the hotel.");
     ChMotion(4,1,1);
     VoicePlay("Q120400000_04_040");
     MsgDisp("Nanatsumori","Did you want to play more?");
-    MsgDisp("主人公","It's not playing, we're
-spending our free period together. Right?");
+    MsgDisp("主人公","It's not playing, we're spending our free
+period together. Right?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -52,16 +51,15 @@ spending our free period together. Right?");
     MsgDisp("Nanatsumori","True.");
     ChEye(4,0);
     VoicePlay("Q120400000_04_060");
-    MsgDisp("Nanatsumori","Thanks to your presence,
-I enjoyed the school trip more than I
-thought I would.");
+    MsgDisp("Nanatsumori","Thanks to your presence, I enjoyed the
+school trip more than I thought I would.");
     MsgDisp("主人公","Me too.
 I had a great time.");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_070");
-    MsgDisp("Nanatsumori","Well, I guess we're both satisfied with 
-the result. Make sure to rest well.
-I'll see you later.");
+    MsgDisp("Nanatsumori","Well, I guess we're both satisfied with
+the result. Make sure to rest well. I'll
+see you later.");
     break ;
     case 4:
     case 5:
@@ -84,7 +82,7 @@ Free time.");
 stuff like school events.");
     ChMotion(4,1,1);
     VoicePlay("Q120400000_04_110");
-    MsgDisp("Nanatsumori","I wondered if you actually wanted to go 
+    MsgDisp("Nanatsumori","I wondered if you actually wanted to go
 around more other places.");
     MsgDisp("主人公","And you, ｛七ツ森＊｝?");
     ChMotion(4,0,1);

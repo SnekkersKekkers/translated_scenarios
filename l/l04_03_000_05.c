@@ -6,23 +6,22 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("L040300005_03_000");
-    MsgDisp("Honda","Thank you!
-......Hm? This is handmade, right?");
+    MsgDisp("Honda","Thank you! ......Hm? This is handmade,
+right?");
     ChMotion(3,4);
     VoicePlay("L040300005_03_010");
-    MsgDisp("Honda","Then is this topping something
-that you like?");
+    MsgDisp("Honda","Then is this topping something that you
+like?");
     MsgDisp("主人公","What?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300005_03_020");
-    MsgDisp("Honda","Ah, but I don't really mind this
-kind of thing, so it's okay!
+    MsgDisp("Honda","Ah, but I don't really mind this kind of
+thing, so it's okay!
 I'll eat it.");
-    MsgDisp("主人公","(......?
-I wonder if it didn't suit ｛本多＊＊｝'s
-taste......)");
+    MsgDisp("主人公","(......? I wonder if it didn't suit
+｛本多＊＊｝'s taste......)");
     break ;
     case 3:
     ChEye(3,0);
@@ -36,9 +35,8 @@ taste......)");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300005_03_040");
-    MsgDisp("Honda","Nothing!
-You gave it to me,
-so I'll give it a try.");
+    MsgDisp("Honda","Nothing! You gave it to me, so I'll give
+it a try.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -74,17 +72,16 @@ Then it's fine!");
     ChMotion(3,4);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300005_03_090");
-    MsgDisp("Honda","I'm just happy to get
-handmade chocolate from you!");
+    MsgDisp("Honda","I'm just happy to get handmade chocolate
+from you!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300005_03_100");
     MsgDisp("Honda","Then, I'll savor this, okay?
 Thanks!");
-    MsgDisp("主人公","(......?
-I wonder if there was something in it
-that he didn't like......)");
+    MsgDisp("主人公","(......? I wonder if there was something
+in it that he didn't like......)");
     break ;
     default :
     DbgAssert(1);
