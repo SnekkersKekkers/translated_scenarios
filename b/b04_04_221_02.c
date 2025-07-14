@@ -45,7 +45,7 @@ other people noticed.");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040422102_04_030");
-        MsgDisp("Nanatsumori","...Blessing on what>");
+        MsgDisp("Nanatsumori","...Blessing on what?");
         MsgDateResultDisp();
         break ;
         case 4:

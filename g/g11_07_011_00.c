@@ -1,7 +1,7 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(During the school festival,,
-We had an organic café here......)");
+MsgDisp("主人公","(During the school festival,
+there was an organic café here......)");
 MsgDisp("主人公","(That's right, I should go take a look at
 the vegetable garden.)");
 MsgClose();

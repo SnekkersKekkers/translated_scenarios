@@ -60,7 +60,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B070700001_07_320");
-MsgDisp("Mikage","Yanosuke will go, \"That's hardly fair,\"
+MsgDisp("Mikage","Yanosuke will go, \"That's hardly fair\"
 and Inori will normally say something 
 like \"How childish\",
 nonsensical stuff like that.");

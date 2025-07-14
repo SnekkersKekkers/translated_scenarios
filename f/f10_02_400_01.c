@@ -7,7 +7,7 @@ VoicePlay("F100240001_06_000");
 MsgDisp("Himuro?","That's impossible.");
 VoicePlay("F100240001_02_000");
 MsgDisp("Sassa?","It's not impossible.");
-MsgDisp("主人公","(Those voices just now,..)");
+MsgDisp("主人公","(Those voices just now...)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,4,0,0,#1,#1,0,1);

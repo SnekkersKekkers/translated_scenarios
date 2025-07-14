@@ -8,7 +8,7 @@ MsgDisp("Sassa","Hey... you're not listening
 to anything I'm saying, 
 are you?");
 MsgDisp("主人公","Ah... it was an accident.
-I'm sorry>");
+I'm sorry?");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);

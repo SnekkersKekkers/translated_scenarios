@@ -27,8 +27,7 @@ It would be a shame to rest, you know?");
     ChMotion(3,5);
     VoicePlay("B040303200_03_020");
     MsgDisp("Honda","Oh, I see. An exhibition weaving together
-the three states of water – 'solid,'
-'liquid,' and 'gas.' That's the water
+the three states of water – 'solid', 'liquid', and 'gas.' That's the water
 garden for you!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

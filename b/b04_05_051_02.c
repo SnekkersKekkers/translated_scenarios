@@ -52,7 +52,7 @@ I'm sorry.");
         MsgDisp("Hiiragi","There's no need to apologize.
 Not only was I able to see the 
 beautiful stars, but also your
-comfortable sleeping face,");
+comfortable sleeping face.");
         MsgDisp("主人公","Ehh∈
 ｛柊＊＊＊｝, you saw?");
         ChMotion(5,4);

@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I have my part time job today!)");
 VoiceEVSPlay(3);
 VoicePlay("G110301000_03_000");
-MsgDisp("Honda?","｛主人公｝. Wait up,wait up!");
+MsgDisp("Honda?","｛主人公｝. Wait up, wait up!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();

@@ -4,7 +4,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020140003_01_000");
-MsgDisp("Kazama","Hey,you know my Grandpa's shop has
+MsgDisp("Kazama","Hey, you know my Grandpa's shop has
 driftwood on display.");
 ChEye(1,0);
 ChMouth(1,0);

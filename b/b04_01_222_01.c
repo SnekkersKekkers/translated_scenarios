@@ -11,7 +11,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B040122201_01_000");
 MsgDisp("Kazama","I feel like I stand taller
 when I come here.");
-MsgSel("The atmosphere is different from outside the castle","This is where your ancestors lived after all, ｛風真＊＊｝","Yeah, my voice gets all quiet too...");
+MsgSel("The atmosphere is different from outside the castle","This is where your ancestors lived after all, ｛風真＊＊｝.","Yeah, my voice gets all quiet too...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

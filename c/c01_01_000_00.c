@@ -9,7 +9,7 @@ MsgDisp("主人公","｛風真＊＊｝,so, uhm——");
 VoicePlay("C010100000_01_010");
 MsgDisp("Kazama","I'll hear you out.
 But think carefully about what you say?");
-MsgDisp("主人公","R,right.");
+MsgDisp("主人公","R-Right.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -23,9 +23,9 @@ MsgDisp("主人公","I, I'm sorry......");
 VoicePlay("C010100000_01_040");
 MsgDisp("Kazama","I know you are. But don't put me through
 this kind of thing anymore. Yeah?");
-MsgDisp("主人公","Yeah,thanks!");
+MsgDisp("主人公","Yeah, thanks!");
 VoicePlay("C010100000_01_050");
-MsgDisp("Kazama","Aa,later.");
+MsgDisp("Kazama","Aa, later.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Thank goodness......

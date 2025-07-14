@@ -52,7 +52,7 @@ if you make a small mistake.");
     ChMotion(1,0);
     VoicePlay("P530100001_01_050");
     MsgDisp("Kazama","Everyone, just think of these as
-vegetables grown by Mikage-sensei,okay?");
+vegetables grown by Mikage-sensei, okay?");
     MsgDisp("主人公","Huh?
 Hehe, then ｛風真＊＊｝ too?");
     ChEye(1,0);
@@ -67,9 +67,9 @@ Hehe, then ｛風真＊＊｝ too?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100001_01_070");
-    MsgDisp("Kazama","Think everyone else as vegetables,and go
+    MsgDisp("Kazama","Think everyone else as vegetables, and go
 harvest them okay?");
-    MsgDisp("主人公","Hehe,Yeah!");
+    MsgDisp("主人公","Hehe, yeah!");
     MsgDisp("主人公","(Alright, ｛風真＊＊｝ thanks to that,
 I think I was able to relax a bit?
 I'll do my bestー!)");

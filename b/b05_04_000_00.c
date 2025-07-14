@@ -116,7 +116,7 @@ There are quite a lot of guys who copy
 Nana's hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
 MsgDisp("Woman Customer B","That's right.
-Ah,ーー, I got  a huge frightー!");
+Ahー That scared meー!");
 MsgDisp("主人公","(I'm glad...
 Looks like they didn't even 
 discover it was \"Nana\". )");

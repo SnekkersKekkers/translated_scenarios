@@ -55,8 +55,7 @@ ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("F100630000_22_030");
-MsgDisp("Hikaru","Even big sis,ー,
-suggested something like \"Himurin\"?
+MsgDisp("Hikaru","Even though you suggested something like \"Himurin\"?
 No way～...");
 MsgDisp("主人公","H-Himurin?");
 ChEye(21,0);

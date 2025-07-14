@@ -37,7 +37,7 @@ VoicePlay("F020700002_07_030");
 MsgDisp("Mikage","...And, just like that he passed by 
 that person. Since then, Vice Principal 
 Himuro hasn't tolerated tardiness
-for even one second,");
+for even one second.");
 MsgDisp("主人公","Is that true?");
 ChEye(7,0);
 ChMouth(7,0);

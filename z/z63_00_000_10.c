@@ -1,6 +1,6 @@
 MsgDisp("主人公","It's time for university exams!
 Which exam should I take?");
-MsgSel("First-rate university.","Second-rate university,","Third-rate university.");
+MsgSel("First-rate university","Second-rate university","Third-rate university");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Of course, a first-rate university!

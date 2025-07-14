@@ -1,5 +1,5 @@
 MsgDisp("","After graduation, I went on to attend
-a first-rate university with ｛本多＊＊｝ ");
+a first-rate university with ｛本多＊＊｝.");
 MsgClear();
 MsgDisp("","｛本多＊＊｝'s research theme is people. He
 started spending time in the lab from his

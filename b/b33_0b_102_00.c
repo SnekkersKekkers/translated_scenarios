@@ -50,7 +50,7 @@ the fleeing small fish.");
 ChSet(3,3,1);
 VoicePlay("B330B10200_03_010");
 MsgDisp("Honda","Ding ding ding!
-Ryo-kun, you're spot on,");
+Ryo-kun, you're spot on.");
 MsgDisp("主人公","Heeh...!");
 ChMotion(4,1,1);
 VoicePlay("B330B10200_04_020");

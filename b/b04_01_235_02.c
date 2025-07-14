@@ -53,7 +53,7 @@ even more scared of.");
         MsgDisp("Kazama","I won't tell you that easily.");
         MsgDisp("主人公","Eh, is there such a thing?
 I thought ｛風真＊＊｝ could do 
-anything,and didn't have anything 
+anything, and didn't have anything 
 he was scared of. ");
         ChEye(1,0);
         ChMouth(1,2);

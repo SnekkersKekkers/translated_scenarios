@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("B040602302_06_000");
 MsgDisp("Himuro","Do you like the sea?");
-MsgSel("I like it!","Not really...","I like｛氷室＊＊｝");
+MsgSel("I like it!","Not really...","I like｛氷室＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

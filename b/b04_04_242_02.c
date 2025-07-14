@@ -54,7 +54,7 @@ a little longer.");
         ChMotion(4,1,1);
         VoicePlay("B040424202_04_040");
         MsgDisp("Nanatsumori","ＯＫ.
-Let's take it easy,");
+Let's take it easy.");
         MsgClose();
         ChClose(4,0,30);
         MsgDisp("","　　　　　　　　　　 ・

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040602202_06_000");
 MsgDisp("Himuro","What's wrong?
 ...Are you thinking about something?");
-MsgSel("I was thinking about｛氷室＊＊｝","It's nothing","I'm worrying about my tests...");
+MsgSel("I was thinking about｛氷室＊＊｝.","It's nothing","I'm worrying about my tests...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){

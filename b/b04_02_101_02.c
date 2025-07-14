@@ -7,7 +7,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040210102_02_000");
 MsgDisp("Sassa","Hey, are you actually having fun here?");
-MsgSel("Yeah, because I'm with ｛颯砂＊＊｝","Of course, I'm having fun▼","Honestly I think this is a huge fail");
+MsgSel("Yeah, because I'm with ｛颯砂＊＊｝.","Of course, I'm having fun▼","Honestly I think this is a huge fail");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

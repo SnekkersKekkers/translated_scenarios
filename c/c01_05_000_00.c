@@ -5,13 +5,13 @@ SEPlay("EV_SE_663");
 Wait(10,0);
 SEWait();
 VoicePlay("C010500000_05_000");
-MsgDisp("Hiiragi","Yes,this is Hiiragi.");
+MsgDisp("Hiiragi","Yes, this is Hiiragi.");
 MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
 It's ｛主人公苗字｝......");
 VoicePlay("C010500000_05_010");
 MsgDisp("Hiiragi","......Yes.
 What business is this regarding?");
-MsgDisp("主人公","(Uu,this feels awkward......
+MsgDisp("主人公","(Umm, this feels awkward......
 But if I don't explain it now......)");
 MsgDisp("主人公","S-So......");
 MsgDisp("","　　　　　　　　　　 ・

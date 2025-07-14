@@ -32,7 +32,7 @@ VoicePlay("Y300400400_03_010");
 MsgDisp("Honda","\"Today, let's all go to the
 cafeteria. I invited Ryo-kun too!\"");
 MsgDisp("","Without having a reason to refuse, 
-\"Sure,\" I replied.");
+\"Sure\" I replied.");
 MsgClear();
 BGOpen("ad440",0);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

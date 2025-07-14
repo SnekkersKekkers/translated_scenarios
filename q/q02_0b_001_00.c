@@ -13,7 +13,7 @@ SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","Ah.
-Good morning,everyone!");
+Good morning, everyone!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -6,7 +6,7 @@ ChMotion(6,4,1);
 ScrFadeIn(0);
 VoicePlay("B040608502_06_000");
 MsgDisp("Himuro","The tip of your nose is getting red.");
-MsgSel("How embarrassing...","So's yours, ｛氷室＊＊｝","指摘しなくても......");
+MsgSel("How embarrassing...","So is yours, ｛氷室＊＊｝.","You shouldn't point it out though...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

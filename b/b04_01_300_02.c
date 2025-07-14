@@ -51,7 +51,7 @@ same safety helmets, right?");
         ChMotion(1,1);
         BGMPlay("BGM_C01_RYOUTA_C",0.01);
         VoicePlay("B040130002_01_030");
-        MsgDisp("Kazama","Yeah,it was hard to dispose of, 
+        MsgDisp("Kazama","Yeah, it was hard to dispose of, 
 so I held onto it.");
         ChEye(1,4);
         ChMouth(1,3);

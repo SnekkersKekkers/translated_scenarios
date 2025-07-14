@@ -9,7 +9,7 @@ ChMouth(5,4);
 VoicePlay("B040510300_05_000");
 MsgDisp("Hiiragi","I want to be able to interpret something
 of our great senior's work.");
-MsgSel("He's the pride of Haba Students!","It seems like it'll be difficult for me","It looks a little like｛柊＊＊＊｝");
+MsgSel("He's the pride of Haba Students!","It seems like it'll be difficult for me","It looks a little like｛柊＊＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

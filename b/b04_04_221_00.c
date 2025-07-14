@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040422100_04_000");
 MsgDisp("Nanatsumori","Hmー.
 The view is nice, as I thought.");
-MsgSel("You can see the whole of Habataki City in one sweep of the eye▼","Just the scenery?","I'm happy to see this with｛七ツ森＊｝");
+MsgSel("You can see the whole of Habataki City in one sweep of the eye▼","Just the scenery?","I'm happy to see this with｛七ツ森＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

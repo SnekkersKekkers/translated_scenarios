@@ -11,7 +11,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040612102_06_000");
 MsgDisp("Himuro","Are you interested in that mug?");
-MsgSel("I want to match with｛氷室＊＊｝","I'm just looking.","I'm super interested.");
+MsgSel("I want to match with｛氷室＊＊｝.","I'm just looking.","I'm super interested.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){

@@ -18,8 +18,8 @@ I... still can't shake this
 weird feelin'.\"");
 MsgClear();
 MsgDisp("","Big bro looked fondly at me, 
-\"Haha,\" he laughed.");
-MsgDisp("","Upon this, I also laughed \"Heheh,\".");
+\"Haha\", he laughed.");
+MsgDisp("","Upon this, I also laughed \"Heheh\".");
 MsgDisp("","Now, I thought I'm really
 glad Big bro is here.");
 MsgClear();

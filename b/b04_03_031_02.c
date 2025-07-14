@@ -46,7 +46,7 @@ specimens that I observe regularly...");
         VoicePlay("B040303102_03_040");
         MsgDisp("Honda","It can't have been a calm atmosphere, huh?");
         MsgDisp("主人公","No, it's nice. I was looking forward to 
-listening to ｛本多＊＊｝ ");
+listening to ｛本多＊＊｝.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);

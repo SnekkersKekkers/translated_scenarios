@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040723202_07_000");
 MsgDisp("Mikage","What will we do if 
 this stops halfway...?");
-MsgSel("That's great; we get to ride longer.","It might be nice to get stuck with｛御影＊＊｝","Let's believe in Habataki Land Town.");
+MsgSel("That's great; we get to ride longer.","It might be nice to get stuck with｛御影＊＊｝.","Let's believe in Habataki Land Town.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -34,7 +34,7 @@ ChMotion(2,4);
 VoicePlay("B070200001_02_230");
 MsgDisp("Sassa","Ryota doesn't talk about antiques
 and Inori doesn't talk about surfing.");
-MsgDisp("主人公","Oh......I see");
+MsgDisp("主人公","Oh......I see.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

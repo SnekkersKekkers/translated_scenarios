@@ -56,7 +56,7 @@ because you like it\", It's true huh.");
         ChMotion(3,0,1);
         VoicePlay("B040315202_03_040");
         MsgDisp("Honda","Huh? that's not like you.
-Be more honest,");
+Be more honest.");
         MsgDisp("主人公","Hehe, yes.");
         ChEye(3,0);
         ChMouth(3,3);

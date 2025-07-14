@@ -39,7 +39,7 @@ ChMotion(5,4);
 VoicePlay("B360518001_05_050");
 MsgDisp("Hiiragi","Mikage-sensei, me, you, and Inori-kun all
 lined up with serious expressions......");
-MsgDisp("主人公","......Ahahaha");
+MsgDisp("主人公","......Ahahaha.");
 ChMotion(5,0);
 VoicePlay("B360518001_05_060");
 MsgDisp("Hiiragi","Right?");

@@ -111,7 +111,7 @@ you who I was talking to...");
         ChMouth(6,3);
         ChMotion(6,0);
         VoicePlay("B040611102_06_120");
-        MsgDisp("Himuro","...That's right, so it's like that,");
+        MsgDisp("Himuro","...That's right, so it's like that.");
         MsgDisp("主人公","Eh? What is?");
         ChEye(6,0);
         ChMouth(6,3);

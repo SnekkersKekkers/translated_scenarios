@@ -60,7 +60,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600001_06_630");
-MsgDisp("Himuro","...I won't tell you,");
+MsgDisp("Himuro","...I won't tell you.");
 MsgDisp("主人公","Urk... why?");
 ChEye(6,1);
 ChMouth(6,0);

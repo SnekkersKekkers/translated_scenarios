@@ -69,7 +69,7 @@ Ah, what about Habataki?");
         ChMouth(3,1);
         ChMotion(3,5,1);
         VoicePlay("B040302202_03_060");
-        MsgDisp("Honda","Darn, that's not good either,");
+        MsgDisp("Honda","Darn, that's not good either.");
         MsgDisp("主人公","Hehe, it's difficult isn't it?");
         ChEye(3,0);
         ChMouth(3,0);

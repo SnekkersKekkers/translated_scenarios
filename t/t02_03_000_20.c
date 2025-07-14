@@ -2,7 +2,7 @@ ChEyeOpenLevel(3,#1);
 ChMouthOpenLevel(3,#1);
 ChCheek(3,0);
 MsgDisp("主人公","I also like
-｛本多＊＊｝ ");
+｛本多＊＊｝.");
 ChEye(3,3);
 ChMouth(3,4);
 ChMotion(3,4);

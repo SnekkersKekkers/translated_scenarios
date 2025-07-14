@@ -40,7 +40,7 @@ ChMotion(22,4,1);
 VoicePlay("E010540000_22_020");
 MsgDisp("Hikaru","Hikaru and Mari are always together▼
 Right?");
-MsgDisp("主人公","Hehe,yeah.
+MsgDisp("主人公","Hehe, yeah.
 But what are ｛柊＊＊＊｝ and ｛ひかる＊｝
 doing?");
 ChEye(5,0);

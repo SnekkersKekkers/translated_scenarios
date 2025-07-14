@@ -19,7 +19,7 @@ ChMotion(4,1,1);
 VoicePlay("M010400000_04_010");
 MsgDisp("Nanatsumori","What do you mean 'why'?
 Obviously I came to do a sick visit.");
-MsgDisp("主人公","Ah,right......");
+MsgDisp("主人公","Ah, right......");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

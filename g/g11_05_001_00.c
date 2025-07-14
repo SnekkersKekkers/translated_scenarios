@@ -14,7 +14,7 @@ VoicePlay("G110500100_05_000");
 MsgDisp("Hiiragi","I stopped by the staffroom to pick up some
 handouts for the student council room. I
 have a lot of errands to run.");
-MsgDisp("主人公","That seems difficult,I'll help too.");
+MsgDisp("主人公","That seems difficult, I'll help too.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
 MsgClose();

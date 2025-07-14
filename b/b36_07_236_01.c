@@ -42,7 +42,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 MsgDisp("Mikage","That's good, right～?");
-MsgDisp("主人公","Thank you, ｛御影＊＊｝ ");
+MsgDisp("主人公","Thank you, ｛御影＊＊｝.");
 VoicePlay("B360723601_07_050");
 ChEye(7,2);
 ChMouth(7,0);

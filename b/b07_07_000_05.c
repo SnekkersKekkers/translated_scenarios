@@ -1,4 +1,4 @@
-MsgDisp("主人公","What are your hobbies, ｛御影＊＊｝ ");
+MsgDisp("主人公","What are your hobbies, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

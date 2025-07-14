@@ -82,7 +82,7 @@ MsgDisp("Kazama","So, please forgive me for showing
 up in front of you weirdly tense
 that morning.");
 MsgDisp("主人公","I was really surprised on the morning 
-of the entrance ceremony,you know?");
+of the entrance ceremony, you know?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -33,7 +33,7 @@ Happy New Year.");
     VoicePlay("S060200000_02_020");
     MsgDisp("Sassa","｛主人公｝,
 Happy New Year.");
-    MsgDisp("主人公","Yep,Happy New Year.");
+    MsgDisp("主人公","Yep, Happy New Year.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

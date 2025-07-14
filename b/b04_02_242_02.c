@@ -77,7 +77,7 @@ it would be more fun with you.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040224202_02_070");
-        MsgDisp("Sassa","Aahー, you tricked me huh1");
+        MsgDisp("Sassa","Aahー, you tricked me huh!");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);

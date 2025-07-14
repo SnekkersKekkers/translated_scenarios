@@ -11,7 +11,7 @@ This is ｛主人公｝......");
 VoicePlay("C010400000_04_010");
 MsgDisp("Nanatsumori","I know who this is.
 And? What now?");
-MsgDisp("主人公","(Uu,This sucks...... But if I don't have a
+MsgDisp("主人公","(Ugh, this sucks...... But if I don't have a
 proper talk with him now......)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -21,7 +21,7 @@ MsgDisp("Nanatsumori","That's enough, I get it.");
 VoicePlay("C010400000_04_030");
 MsgDisp("Nanatsumori","Hell, I'm sorry too. I should've talked to
 you directly and confirmed it. I'm sorry.");
-MsgDisp("主人公","MmMm,I should have
+MsgDisp("主人公","Yeah, I should have
 contacted you sooner......");
 VoicePlay("C010400000_04_040");
 MsgDisp("Nanatsumori","You're fine.

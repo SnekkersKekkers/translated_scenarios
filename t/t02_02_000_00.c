@@ -149,7 +149,7 @@ ChMotion(2,4);
 VoicePlay("T020200000_02_180");
 MsgDisp("Sassa","My records aren't improving at all.
 I don't know why. I've been thinking 
-about it,and watching my 
+about it, and watching my 
 juniors practice......");
 ChEye(2,4);
 ChMouth(2,0);

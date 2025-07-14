@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
         ChMouth(7,5);
         ChMotion(7,1);
         VoicePlay("B040710102_07_010");
-        MsgDisp("Mikage","Wait, wait, you're scary,");
+        MsgDisp("Mikage","Wait, wait, you're scary.");
         MsgDateResultDisp();
         break ;
         case 4:

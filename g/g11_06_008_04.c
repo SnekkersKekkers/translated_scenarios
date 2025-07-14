@@ -6,7 +6,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,35,0,0,0,#1,#1,0,0);
 VoicePlay("G110600804_06_000");
-MsgDisp("Himuro","That's right, but,");
+MsgDisp("Himuro","That's right, but.");
 MsgDisp("主人公","Then, will you surf today?");
 ChEye(6,0);
 ChMouth(6,3);

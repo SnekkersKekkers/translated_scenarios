@@ -17,7 +17,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230000_02_020");
 MsgDisp("Sassa","Inori will say, 'That's surprising, you
-went to a place like that,' but in the
+went to a place like that', but in the
 end, he'll cutely say, 'Take me next
 time.'");
 MsgDisp("主人公","Hehe, yeah, it was so natural I could

@@ -51,7 +51,7 @@ ChMotion(3,1,1);
 VoicePlay("T020300000_03_060");
 MsgDisp("Honda","Yes.
 So I talked to you about various things —
-Maybe it was around that time,");
+Maybe it was around that time.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);

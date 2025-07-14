@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040602201_06_000");
 MsgDisp("Himuro","Do you like boats?");
-MsgSel("I like them!","Not really...","I like｛氷室＊＊｝");
+MsgSel("I like them!","Not really...","I like｛氷室＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

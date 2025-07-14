@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040622101_06_000");
 MsgDisp("Himuro","Fools and smoke. 
 You know the saying.");
-MsgSel("I like high places.","Everyone here is the same type of person,","Hey, but fools and scissors are about how you use them!");
+MsgSel("I like high places.","Everyone here is the same type of person.","Hey, but fools and scissors are about how you use them!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

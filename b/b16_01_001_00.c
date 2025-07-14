@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160100100_01_000");
 MsgDisp("Kazama","You're testing me, 
 aren't you?");
-MsgSel("Nope, I believe in｛風真＊＊｝","It's only natural...");
+MsgSel("Nope, I believe in ｛風真＊＊｝!","It's only natural...");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(1,2);

@@ -44,7 +44,7 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100002_01_030");
-MsgDisp("Kazama","Hmm?　No wait,......I swear there were
+MsgDisp("Kazama","Hmm?　No wait......I swear there were
 others.");
 MsgDisp("主人公","Eh——");
 MsgClose();

@@ -107,7 +107,7 @@ It's because you said something weird.");
         ChMotion(6,3);
         VoicePlay("B040606102_06_110");
         MsgDisp("Himuro","Right, it's your fault.
-Reflect on it,.");
+Reflect on it.");
         MsgDisp("主人公","Mmm......Sorry.");
         ChEye(6,0);
         ChMouth(6,0);

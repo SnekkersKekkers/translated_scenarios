@@ -16,7 +16,7 @@ VoiceEVSPlay(7);
 VoicePlay("G110700400_07_010");
 MsgDisp("Mikage","｛主人公｝. Please stop by the gardening
 club for a bit on your way home.");
-MsgDisp("主人公","Eh......Ah,okay!");
+MsgDisp("主人公","Eh......Ah, okay!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7);
@@ -51,7 +51,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_050");
-MsgDisp("Mikage","Once more,");
+MsgDisp("Mikage","Once more.");
 MsgDisp("主人公","......Huu, fuuu......");
 ChEye(7,0);
 ChMouth(7,0);

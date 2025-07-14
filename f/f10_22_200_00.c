@@ -41,7 +41,7 @@ ChMotion(31,0);
 VoicePlay("F102220000_31_030");
 MsgDisp("Goro","Oh my, my.
 I have to get going home now.
-See you～,");
+See you～.");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(31);

@@ -186,7 +186,7 @@ ChClose(7);
 VoicePlay("B330C20300_05_060");
 MsgDisp("Hiiragi","Please excuse us.");
 VoicePlay("B330C20300_06_090");
-MsgDisp("Himuro","Sorry,");
+MsgDisp("Himuro","Sorry.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("主人公","(Hmmm...

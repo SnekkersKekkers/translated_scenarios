@@ -34,7 +34,7 @@ VoicePlay("B070100002_01_260");
 MsgDisp("Kazama","They could go on without me, but 
 no—they drag me in to continue 
 right where they left off.");
-MsgDisp("主人公","They want you to join in, ｛風真＊＊｝ /");
+MsgDisp("主人公","They want you to join in, ｛風真＊＊｝.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

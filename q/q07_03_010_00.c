@@ -50,7 +50,7 @@ MsgDisp("Honda","｛主人公｝, sorry for keeping you
 waiting.");
 MsgDisp("主人公","No, I'm fine.
 But it really is impressive that so many 
-know about you, ｛本多＊＊｝ ");
+know about you, ｛本多＊＊｝.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("Q070301000_03_020");

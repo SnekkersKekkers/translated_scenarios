@@ -16,7 +16,7 @@ switch (ChPrmGet(3,6)){
     case 5:
     VoicePlay("P230300001_03_000");
     MsgDisp("Honda","Hooray!
-The set was well-put together,");
+The set was well-put together.");
     MsgDisp("主人公","Good work.
 Seems like we made it in time.");
     ChEye(3,0);

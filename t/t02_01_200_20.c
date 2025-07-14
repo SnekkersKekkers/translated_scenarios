@@ -6,8 +6,7 @@ Wait(12,0);
 ChEye(1,5);
 ChMouth(1,2);
 VoicePlay("T020120000_01_200");
-MsgDisp("Kazama","Huh, really......>
-?");
+MsgDisp("Kazama","Huh, really......?");
 ChEye(1,3);
 MsgDisp("主人公","Yes, I also like ｛風真＊＊｝. Thank you
 for always thinking of me.");
@@ -20,7 +19,7 @@ ChCheek(1,6);
 VoicePlay("T020120000_01_210");
 MsgDisp("Kazama","I have to thank those guys too.");
 MsgDisp("主人公","Hehe, yeah. Thank the first-grade 
-elementary school student ｛風真＊＊｝ ");
+elementary school student ｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040830001_08_000");
 MsgDisp("Shirahane","Huh?
 ...There's kind of a nice smell?");
-MsgSel("Is that so?","Is it a tasty smell?","To me, it smells of｛大地＊＊｝");
+MsgSel("Is that so?","Is it a tasty smell?","To me, it smells like ｛大地＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

@@ -316,7 +316,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("A020100000_01_200");
 MsgDisp("Kazama","Don't go thinking something dumb like, 
 \"I'm curious about that \"Young Master\"  
-stuff,\" got it?");
+stuff\", got it?");
 MsgDisp("主人公","∋
 (He read my mind......)");
 ChEye(1,3);

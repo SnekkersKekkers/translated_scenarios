@@ -52,7 +52,7 @@ Sorry for saying something so careless.");
         ChMotion(2,5);
         VoicePlay("B040215102_02_050");
         MsgDisp("Sassa","No, I'm the one who should apologize. Even
-though this was supposed to be a date,");
+though this was supposed to be a date.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);

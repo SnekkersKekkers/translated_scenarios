@@ -33,7 +33,7 @@ MsgDisp("Himuro","...Goodbye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 MsgDisp("主人公","???
-What's up with ｛氷室＊＊｝ ");
+What's up with ｛氷室＊＊｝?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);

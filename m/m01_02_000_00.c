@@ -32,15 +32,15 @@ ChMotion(2,0);
 VoicePlay("M010200000_02_030");
 MsgDisp("Sassa","I hit my head.
 Come to think of it, sorry.
-That what woke you up?");
-MsgDisp("主人公","Uh-uh,I was awake a little before.");
+That's what woke you up?");
+MsgDisp("主人公","Uhm, I was awake a little before.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("M010200000_02_040");
 MsgDisp("Sassa","That right.
 Mm, your color looks pretty good.");
-MsgDisp("主人公","Mm,I'm okay now.
+MsgDisp("主人公","Mm, I'm okay now.
 But ｛颯砂＊＊｝, what about practice?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -20,7 +20,7 @@ Have been entrusted with management of
 the cultural festival. 
 Please also join us in preparations.");
 VoicePlay("P810500100_41_030");
-MsgDisp("Student Council President","...Then,get well soon.");
+MsgDisp("Student Council President","...Then, get well soon.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Management of the cultural festival huh?

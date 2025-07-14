@@ -23,7 +23,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210200_02_030");
-MsgDisp("Sassa","I know I should say that myself but,");
+MsgDisp("Sassa","I know I should say that myself but.");
 MsgDisp("主人公","Yeah, it's tough.");
 ChEye(2,0);
 ChMouth(2,2);

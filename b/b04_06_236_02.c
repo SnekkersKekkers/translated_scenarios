@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B040623602_06_000");
 MsgDisp("Himuro","The last time I came here,
 the theme was completely different.");
-MsgSel("I wonder how it'll be in 10 years?","I want to see little｛氷室＊＊｝","What theme was it?");
+MsgSel("I wonder how it'll be in 10 years?","I want to see little｛氷室＊＊｝.","What theme was it?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){

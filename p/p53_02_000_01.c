@@ -116,7 +116,7 @@ if many people don't listen to it,
 right?");
     MsgDisp("主人公","Yeah... that's right, huh.
 Thank you, ｛颯砂＊＊｝!");
-    MsgDisp("主人公","(Yeah,it's just as ｛颯砂＊＊｝ says.
+    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝ says.
 For the many people who want to hear it, 
 I have to give it my all!)");
     break ;

@@ -69,7 +69,7 @@ VoicePlay("B360650101_06_080");
 MsgDisp("Himuro","Who are you looking at?
 Is it one of those two?
 Or someone else?");
-MsgDisp("主人公","Right now...... I'm looking at ｛氷室＊＊｝");
+MsgDisp("主人公","Right now...... I'm looking at ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

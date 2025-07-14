@@ -30,7 +30,7 @@ VoicePlay("G020120301_01_030");
 MsgDisp("Kazama","Put yourself in my shoes......");
 MsgDisp("主人公","But you're the one who's surrounded by all
 those girls at school and at Simon,
-｛風真＊＊｝ ");
+｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

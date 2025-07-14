@@ -56,7 +56,7 @@ maybe I did something wrong......)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
-    MsgDisp("主人公","Hello,, ｛氷室＊＊｝?");
+    MsgDisp("主人公","Hello, ｛氷室＊＊｝?");
     VoicePlay("S040600000_06_050");
     MsgDisp("Himuro","Ah, yeah......
 Happy New Year.");
@@ -75,7 +75,7 @@ you free today?");
         VoicePlay("S040600000_06_080");
         MsgDisp("Himuro","Nothing.
 I'll come pick you up, so wait for me.");
-        MsgDisp("主人公","Alright,got it!");
+        MsgDisp("主人公","Alright, got it!");
         VoicePlay("S040600000_06_090");
         MsgDisp("Himuro","Oh, don't rush to get ready.
 I'll come slowly.");

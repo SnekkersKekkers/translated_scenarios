@@ -17,7 +17,7 @@ VoicePlay("G110701000_07_000");
 MsgDisp("Mikage","Congratulations!
 Each time I see your face, 
 I'll say it 100 more times, okay?");
-MsgDisp("主人公","Hehe,thank you very much!");
+MsgDisp("主人公","Hehe, thank you very much!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

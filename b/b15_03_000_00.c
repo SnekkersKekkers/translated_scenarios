@@ -22,7 +22,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B150300000_03_030");
 MsgDisp("Honda","According to cultural anthropologists, 
-there's a term called 'social distance,' 
+there's a term called 'social distance',
 which is where you can talk to someone but
 you can't quite reach them physically.");
 ChEye(3,0);
@@ -30,9 +30,9 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300000_03_040");
-MsgDisp("Honda","There's 'personal distance,' where you
+MsgDisp("Honda","There's 'personal distance', where you
 can read each other's expressions, and
-'intimate distance,' where you can touch
+'intimate distance', where you can touch
 easily.");
 MsgDisp("主人公","Oh, is that so?");
 ChEye(3,4);

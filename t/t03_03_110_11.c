@@ -10,7 +10,7 @@ MsgDisp("","Although it's difficult research,
 ｛本多＊＊｝ explains it in a fascinating
 way that piques my interest. So when I
 told him I'd be happy to help out even if
-it was just a little, he said,\"You're the
+it was just a little, he said, \"You're the
 reason I get excited! Let me see!\" whilst
 getting closer to me.");
 MsgClear();

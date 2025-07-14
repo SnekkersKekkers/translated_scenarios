@@ -81,7 +81,7 @@ Just now was——");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040630002_06_070");
-        MsgDisp("Himuro","..>Haa, really what nonsense.");
+        MsgDisp("Himuro","..Haa, really what nonsense.");
         ChEye(6,1);
         ChMouth(6,1);
         ChMotion(6,1);

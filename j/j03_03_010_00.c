@@ -8,7 +8,7 @@ switch (ChPrmGet(3,6)){
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes,this is ｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, this is ｛主人公苗字｝.");
     VoicePlay("J030301000_03_000");
     MsgDisp("Honda","Hello.
 This is about the voicemail!");

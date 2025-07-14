@@ -42,7 +42,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D140A04002_02_020");
-MsgDisp("Sassa","Well yeah. Wanna try running together>");
+MsgDisp("Sassa","Well yeah. Wanna try running together?");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,1);

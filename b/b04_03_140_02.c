@@ -88,8 +88,8 @@ Maybe your sister got bored of it?");
         ChMotion(3,1);
         VoicePlay("B040314002_03_080");
         MsgDisp("Honda","That's right, my sister's interests change
-quickly,mand by the time I finish my
-research and analysis,she's already bored
+quickly, and by the time I finish my
+research and analysis, she's already bored
 of me.");
         ChSet(3,4);
         VoicePlay("B040314002_03_090");

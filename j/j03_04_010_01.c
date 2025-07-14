@@ -35,7 +35,7 @@ See you.");
 It's ｛主人公苗字｝.");
     VoicePlay("J030401001_04_030");
     MsgDisp("Nanatsumori","Sorry about the voicemail.");
-    MsgDisp("主人公","Er,well.
+    MsgDisp("主人公","Er, well.
 So, can you?");
     VoicePlay("J030401001_04_040");
     MsgDisp("Nanatsumori","I have an appointment that day.

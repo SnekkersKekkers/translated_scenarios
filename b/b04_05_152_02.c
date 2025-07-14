@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040515202_05_000");
 MsgDisp("Hiiragi","Shall we have a serious match soon?");
-MsgSel("I can't match up with｛柊＊＊＊｝","Alright, I won't lose!","Let's bet a Habataki Juice on it.");
+MsgSel("I can't match up with｛柊＊＊＊｝.","Alright, I won't lose!","Let's bet a Habataki Juice on it.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){

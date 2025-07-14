@@ -34,7 +34,7 @@ that ｛柊＊＊＊｝ isn't standing on stage.");
     MsgDisp("Hiiragi","I feel that way too.
 But thanks to that, I learned the joys 
 of creating a play with everyone.");
-    MsgDisp("主人公","Yeah. Though,I think thanks to ｛柊＊＊＊｝
+    MsgDisp("主人公","Yeah. Though, I think thanks to ｛柊＊＊＊｝
 's advice, the two leads felt more
 reassured.");
     VoicePlay("P230500001_47_000");

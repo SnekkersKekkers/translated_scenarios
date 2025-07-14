@@ -30,7 +30,7 @@ VoicePlay("D140B06100_03_020");
 MsgDisp("Honda","Right?
 they say love is blind and Ryo-kun 
 has obviously been more 
-conscious of you recently,");
+conscious of you recently.");
 MsgDisp("主人公","That's...");
 ChEye(4,3);
 ChMouth(4,4);

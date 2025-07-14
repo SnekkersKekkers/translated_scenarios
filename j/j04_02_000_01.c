@@ -8,13 +8,13 @@ switch (ChPrmGet(2,6)){
     break ;
     case 4:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Oh?　It's a call from ｛颯砂＊＊｝ )");
+    MsgDisp("主人公","(Oh? It's a call from ｛颯砂＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes,hello.");
+    MsgDisp("主人公","Yes, hello.");
     VoicePlay("J040200001_02_000");
-    MsgDisp("Sassa","Ah,It's me.
+    MsgDisp("Sassa","Ah, it's me.
 Now, do you have a second?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040200001_02_010");

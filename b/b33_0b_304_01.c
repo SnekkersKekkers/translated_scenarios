@@ -96,7 +96,7 @@ VoicePlay("B330B30401_04_040");
 MsgDisp("Nanatsumori","Ah, wait.
 Them you can decide.
 What do you want to do?");
-MsgDisp("主人公","Eh... me>");
+MsgDisp("主人公","Eh... me?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

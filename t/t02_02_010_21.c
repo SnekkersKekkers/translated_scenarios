@@ -8,7 +8,7 @@ ChCheek(2,10);
 VoicePlay("T020201021_02_000");
 MsgDisp("Sassa","......You kissed me?");
 MsgDisp("主人公","I also love
-｛颯砂＊＊｝ ");
+｛颯砂＊＊｝.");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,0);

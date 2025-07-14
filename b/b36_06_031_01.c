@@ -12,7 +12,7 @@ ChMotion(6,2,1);
 ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360603101_06_000");
-MsgDisp("Himuro","Finally we're alone");
+MsgDisp("Himuro","We're finally alone.");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);

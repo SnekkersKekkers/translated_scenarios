@@ -110,7 +110,7 @@ unintentionally run in a higher gear.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040208502_02_120");
-        MsgDisp("Sassa","A little more seriously,");
+        MsgDisp("Sassa","A little more seriously.");
         MsgDisp("主人公","｛颯砂＊＊｝, keep at it!∈");
         ChEye(2,0);
         ChMouth(2,3);

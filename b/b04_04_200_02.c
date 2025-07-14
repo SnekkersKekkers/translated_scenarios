@@ -82,7 +82,7 @@ about style and treat it with importance.");
         VoicePlay("B040420002_04_090");
         MsgDisp("Nanatsumori","Well yeah?
 If you took that from me,
-I would have nothing left,");
+I would have nothing left.");
         MsgDisp("主人公","That's not true.
 I respect that of you 
 very much, ｛七ツ森＊｝.");

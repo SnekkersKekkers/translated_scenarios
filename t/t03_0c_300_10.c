@@ -8,7 +8,7 @@ Habataki.");
 MsgClear();
 MsgDisp("","｛柊＊＊＊｝ is thinking of a new play for
 the theatre company. \"I think everyone
-will be surprised,\" he said happily.
+will be surprised\", he said happily.
 ｛氷室＊＊｝ is currently training hard
 every day to enter an upcoming surfing
 competition. And ｛御影＊＊｝ has started

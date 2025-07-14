@@ -16,7 +16,7 @@ ChMouth(32,0);
 VoicePlay("P513200002_32_010");
 MsgDisp("VP Himuro","It's a great song choice. This song will
 be felt differently by first-year,
-second-year,and third-year students.");
+second-year, and third-year students.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P513200002_32_020");

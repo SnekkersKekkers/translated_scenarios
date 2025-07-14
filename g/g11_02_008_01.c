@@ -46,7 +46,7 @@ SEPlay("EV_SE_FOOT_037");
 ChOpen(2,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200801_02_040");
-MsgDisp("Sassa","Haa,Haa,Haa...... I feel more calm when I
+MsgDisp("Sassa","Haa, haa, haa...... I feel more calm when I
 run with you like this.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);

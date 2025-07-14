@@ -10,7 +10,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_000");
-MsgDisp("Honda","Mhm,mhm.
+MsgDisp("Honda","Yepyep.
 Tulips are the dutch classic,
 But the marigolds are amazing too!");
 ChEye(3,3);

@@ -12,7 +12,7 @@ VoicePlay("J010300001_03_010");
 MsgDisp("Honda","——Unfortunately, I can't take your 
 call at the moment!");
 VoicePlay("J010300001_03_020");
-MsgDisp("Honda","I'll call you back later,so please 
+MsgDisp("Honda","I'll call you back later, so please 
 leave your message!");
 MsgDisp("主人公","Huh, voicemail.
 Hmm, what should I do?......");

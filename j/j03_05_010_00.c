@@ -8,7 +8,7 @@ switch (ChPrmGet(5,6)){
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes,It's ｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030501000_05_000");
     MsgDisp("Hiiragi","Hi it's Hiiragi.
 Thank you for your message.
@@ -24,11 +24,11 @@ Well then.");
 I can't wait for ｛日付｝ to come.)");
     break ;
     case 3:
-    MsgDisp("主人公","(Oh, it's a call from ｛柊＊＊＊｝)");
+    MsgDisp("主人公","(Oh, it's a call from ｛柊＊＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes,It's ｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030501000_05_020");
     MsgDisp("Hiiragi","Hello, this is Hiiragi.");
     MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
@@ -36,8 +36,8 @@ Did you get my voicemail?");
     VoicePlay("J030501000_05_030");
     MsgDisp("Hiiragi","Yes, thanks for the invitation.
 And don't worry, I can go");
-    MsgDisp("主人公","Okay,on ｛日付｝
-I'll be waiting you at ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Okay, on ｛日付｝
+I'll be waiting for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030501000_05_040");
     MsgDisp("Hiiragi","I'm looking forward to it.
 Well then.");
@@ -52,7 +52,7 @@ I can't wait for ｛日付｝ to come.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes,It's ｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030501000_05_050");
     MsgDisp("Hiiragi","I'm Hiiragi.
 Sorry I couldn't get to the phone.");

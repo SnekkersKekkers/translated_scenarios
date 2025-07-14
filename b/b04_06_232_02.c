@@ -8,7 +8,7 @@ VoicePlay("B040623202_06_000");
 MsgDisp("Himuro","Haven't you noticed?
 For guys, you have to overcome a 
 high hurdle to ride on here.");
-MsgSel("I'm sure there are guys that like it? ","But I want to ride it with｛氷室＊＊｝","I haven't noticed at all.");
+MsgSel("I'm sure there are guys that like it? ","But I want to ride it with｛氷室＊＊｝.","I haven't noticed at all.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -6,7 +6,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040230001_02_000");
 MsgDisp("Sassa","It's quite barren huh?");
-MsgSel("There's a lot of trophies huh?","I want to see｛颯砂＊＊｝'s albums'","There's a lot of green huh?");
+MsgSel("There's a lot of trophies huh?","I want to see｛颯砂＊＊｝'s albums.","There's a lot of green huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -30,7 +30,7 @@ competitions I'm interested in.");
     ChMotion(2,0);
     VoicePlay("B040230001_02_020");
     MsgDisp("Sassa","That's fine, it's my middle school album.
-Well, I'm the biggest one there though,");
+Well, I'm the biggest one there though.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

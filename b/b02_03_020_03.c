@@ -15,4 +15,4 @@ interested in that kind of fashion before,
 but recently I've been noticing it more
 because of you.");
 MsgDisp("主人公","(Yay! It seems like I managed to 
-pull it off well,)");
+pull it off well.)");

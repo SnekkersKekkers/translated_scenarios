@@ -43,7 +43,7 @@ MsgDisp("Shirahane","No lie?");
 MsgDisp("主人公","Mm.");
 VoicePlay("M010800000_08_060");
 MsgDisp("Shirahane","Starting next week we'll meet again?");
-MsgDisp("主人公","Hehe,I'll go to work too.");
+MsgDisp("主人公","Hehe, I'll go to work too.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

@@ -37,7 +37,7 @@ performance as usual.");
     MsgDisp("Sassa","Relax.
 Don't worry, practice never fails.");
     MsgDisp("主人公","...Yeah!");
-    MsgDisp("主人公",")｛颯砂＊＊｝ said it, so
+    MsgDisp("主人公".")｛颯砂＊＊｝ said it, so
 it can't be wrong, huh?
 I'll use everything I practiced!)");
     break ;
@@ -58,7 +58,7 @@ It's almost time for the real performance.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P530200000_02_050");
-    MsgDisp("Sassa","I'm glad I came a little early,.
+    MsgDisp("Sassa","I'm glad I came a little early.
 You're getting nervous.");
     MsgDisp("主人公","Y-Yeah.
 It's even worse when you think

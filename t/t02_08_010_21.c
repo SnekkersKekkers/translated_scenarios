@@ -20,7 +20,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 MsgDisp("Shirahane","It's no good.
-I'm still no match for you,");
+I'm still no match for you.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("T020801000_08_270");
 ChEye(8,3);

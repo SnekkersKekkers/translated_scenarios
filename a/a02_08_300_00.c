@@ -91,7 +91,7 @@ ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("A020830000_08_060");
 MsgDisp("Shirahane","It's not weird per se.
-Just,suppose I'd call it unexpected, or
+Just, suppose I'd call it unexpected, or
 you could say it's got me worried......");
 ChEye(8,2);
 ChMouth(8,0);

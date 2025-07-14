@@ -33,7 +33,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020230201_02_040");
 MsgDisp("Sassa","Ehhhー?
 I don't know who else
-you've seen it with but,");
+you've seen it with but.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

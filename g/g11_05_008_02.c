@@ -24,7 +24,7 @@ MsgClose();
 ChOpen(5,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
-MsgDisp("主人公","I searched the desk,drawers and all the
+MsgDisp("主人公","I searched the desk, drawers and all the
 places it could possibly be, but I
 couldn't find anything......");
 ChEye(5,1);

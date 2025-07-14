@@ -115,7 +115,7 @@ Inori's a special participant too.");
 ChEye(5,4);
 MsgDisp("主人公","I'm so happy!
 Thank you so much, ｛柊＊＊＊｝,
-｛御影＊＊｝, and ｛氷室＊＊｝ ");
+｛御影＊＊｝, and ｛氷室＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

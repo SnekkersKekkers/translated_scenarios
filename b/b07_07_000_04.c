@@ -13,7 +13,7 @@ ChMotion(7,0);
 VoicePlay("B070700000_07_190");
 MsgDisp("Mikage","During those times I'll listen 
 to it as well I guess?");
-MsgDisp("主人公","You like classical music huh>
+MsgDisp("主人公","You like classical music huh?
 That's very like ｛御影＊＊｝.");
 ChEye(7,0);
 ChMouth(7,3);

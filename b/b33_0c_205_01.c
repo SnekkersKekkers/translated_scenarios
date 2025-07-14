@@ -69,7 +69,7 @@ an act, I'll let him join t
 he theater troupe.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("B330C20501_07_010");
-MsgDisp("Mikage","O-i, I bought it,");
+MsgDisp("Mikage","O-i, I bought it.");
 MsgClose();
 ChClose(5,0,30);
 ChClose(6,0,30);

@@ -22,7 +22,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100320001_03_010");
 MsgDisp("Honda","Sakkun is fighting for every tenth of a 
-second,so I thought if he cut his hair,
+second, so I thought if he cut his hair,
 even with the same muscle mass as now,
 he's'd be able to improve my record");
 MsgDisp("主人公","Ehh?

@@ -58,7 +58,7 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_510");
 MsgDisp("Mikage","Huhu, so you think that?
 But there is one thing that 
-we're all concerned over,");
+we're all concerned over.");
 MsgDisp("主人公","?");
 ChEye(7,0);
 ChMouth(7,0);

@@ -8,7 +8,7 @@ VoicePlay("B040408302_04_000");
 MsgDisp("Nanatsumori","Haa...
 There's no point in coming 
 here in the summer.");
-MsgSel("Isn't nature pretty?","It's fun because I'm with｛七ツ森＊｝","Shall we eat kakigori from the stall?");
+MsgSel("Isn't nature pretty?","It's fun because I'm with｛七ツ森＊｝.","Shall we eat kakigori from the stall?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -97,7 +97,7 @@ we're together, right?");
         ChMotion(4,3,1);
         VoicePlay("B040408302_04_110");
         MsgDisp("Nanatsumori","Then, I'll pull myself together, 
-and let's resume our date,");
+and let's resume our date.");
         MsgDisp("主人公","Yeah!");
         break ;
         default :

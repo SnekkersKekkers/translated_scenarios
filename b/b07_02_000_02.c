@@ -11,7 +11,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("B070200000_02_070");
-MsgDisp("Sassa","I definitely prefer udon over soba ");
+MsgDisp("Sassa","I definitely prefer udon over soba.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

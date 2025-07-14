@@ -25,11 +25,11 @@ that she was enjoying herself.");
 MsgClear();
 MsgDisp("","Even when she was still here, I would
 feel a sudden sense of unease every
-time she mentioned the school trip,.");
+time she mentioned the school trip.");
 MsgDisp("","Whenever she would talk about it
 happily, that unease turned into
 irritation. There were a few times
-when I interrupted her too,");
+when I interrupted her too.");
 MsgDisp("","Why are you so simple-minded?
 I... won't be there.");
 MsgClear();

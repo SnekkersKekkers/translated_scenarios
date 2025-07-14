@@ -82,7 +82,7 @@ VoicePlay("D140B03100_01_030");
 MsgDisp("Kazama","...Yes?");
 VoicePlay("D140B03100_04_040");
 MsgDisp("Nanatsumori","In other words, 
-I'm not good at slurping,");
+I'm not good at slurping.");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);

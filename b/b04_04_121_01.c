@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040412101_04_000");
 MsgDisp("Nanatsumori","Oh.
 This top is really cool.");
-MsgSel("It suits you, ｛七ツ森＊｝","Isn't this vintage?","It just looks like an old shirt...");
+MsgSel("It suits you, ｛七ツ森＊｝.","Isn't this vintage?","It just looks like an old shirt...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

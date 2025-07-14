@@ -12,7 +12,7 @@ at me.");
 VoicePlay("Y300700400_07_000");
 MsgDisp("Mikage","\"That's right, in the morning I have
 to look after my plants. After that
-I'm free. Why do you want to know?\"\"");
+I'm free. Why do you want to know?\"");
 MsgClear();
 MsgDisp("","Whilst being chairman of Habataki
 Theatre Company, Yanosuke is also a
@@ -108,7 +108,7 @@ BGOpen("ad743",0);
 VoicePlay("Y300700400_07_080");
 MsgDisp("Mikage","\"Let's go?\"");
 MsgDisp("","\"First, rockー\"
-\"Rock-paper-scissors,\"
+\"Rock-paper-scissors\"
 \"Go!\"");
 MsgClear();
 MsgClose();
