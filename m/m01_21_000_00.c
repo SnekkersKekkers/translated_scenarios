@@ -17,7 +17,7 @@ MsgDisp("Michiru","Mari......
 I know my coming's a bother but
 I was so worried, I just couldn't......");
 MsgDisp("主人公","Hehe.
-I'm all right now.");
+I'm alright now.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);

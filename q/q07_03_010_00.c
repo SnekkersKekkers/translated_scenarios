@@ -80,7 +80,7 @@ MsgDisp("Woman D","Yeah.
 I wonder where the quiz king is......");
 StlEye(3,1);
 StlMouth(3,1);
-MsgDisp("主人公"," ｛本多＊＊｝ ?");
+MsgDisp("主人公"," ｛本多＊＊｝?");
 StlEye(3,3);
 StlMouth(3,2);
 VoicePlay("Q070301000_03_050");

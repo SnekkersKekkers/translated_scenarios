@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     case 5:
     VoicePlay("J040400000_04_000");
     MsgDisp("Nanatsumori","Found you.");
-    MsgDisp("主人公","｛七ツ森＊｝, what's wrong ?");
+    MsgDisp("主人公","｛七ツ森＊｝, what's wrong?");
     ChMotion(4,1,1);
     VoicePlay("J040400000_04_010");
     MsgDisp("Nanatsumori","This Sunday.

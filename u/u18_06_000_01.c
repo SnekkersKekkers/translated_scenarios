@@ -15,7 +15,7 @@ Sorry, ｛氷室＊＊｝......)");
     MsgDisp("主人公","Umm......");
     MsgDisp("主人公","It says... \"Just now I ran into the
 Hanatsubaki twins and they smiled and
-winked at me. What's that about?");
+winked at me. What's that about?\"");
     MsgDisp("主人公","(Geez, those two......!
 They're bothering ｛氷室＊＊｝!)");
     break ;

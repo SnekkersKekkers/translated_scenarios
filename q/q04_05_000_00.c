@@ -36,7 +36,7 @@ Morning.");
     VoicePlay("Q040500000_05_020");
     MsgDisp("Hiiragi","｛主人公｝, good morning. Were you looking
 for me?");
-    MsgDisp("主人公","I was. If you're all right with it, I was
+    MsgDisp("主人公","I was. If you're alright with it, I was
 thinking if we could go together for
 today's free time period!");
     break ;
