@@ -38,7 +38,7 @@ MsgDisp("主人公","You have a brother too!
 I didn't know that......");
 MsgDisp("主人公","(Now that I think about it, isn't there
 also someone named \"Shirahane\" working at
-Habacha?)");
+Habatcher?)");
 ChMotion(8,0,1);
 VoicePlay("D020800300_08_040");
 MsgDisp("Shirahane","Bro and Sis usually speak normal Japanese,

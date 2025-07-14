@@ -29,7 +29,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P740200002_02_030");
-MsgDisp("Sassa","It wasn't just me, The audience around me
+MsgDisp("Sassa","It wasn't just me, the audience around me
 also said you looked like a princess.");
 MsgDisp("主人公","Yay, I'm happy.");
 ChEye(2,0);

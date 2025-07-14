@@ -18,7 +18,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720001_07_020");
-MsgDisp("Mikage","Well, without knowing it, The superiority
+MsgDisp("Mikage","Well, without knowing it, the superiority
 or inferiority is decided before you know
 it.");
 MsgDisp("主人公","Superiority or inferiority?");

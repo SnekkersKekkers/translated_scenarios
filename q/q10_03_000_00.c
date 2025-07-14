@@ -73,7 +73,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q100300000_03_090");
-MsgDisp("Honda","Then, You praised me for being romantic.
+MsgDisp("Honda","Then, you praised me for being romantic.
 I did it!");
 MsgDisp("主人公","(So you're always thinking about me while
 talking......

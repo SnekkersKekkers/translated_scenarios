@@ -30,7 +30,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100440000_03_020");
 MsgDisp("Honda","Lip balm colors?");
-MsgDisp("主人公","Ah, that's the Habacha feature for mens
+MsgDisp("主人公","Ah, that's the Habatcher feature for mens
 cosmetics with \"Nana\".... ehhh∋");
 ChEye(3,3);
 ChMouth(3,3);

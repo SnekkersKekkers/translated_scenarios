@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040308200_03_010");
-    MsgDisp("Honda","Yep yep, They heartily eat underwater, And
+    MsgDisp("Honda","Yep yep, they heartily eat underwater, And
 soon they'll become pupa.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

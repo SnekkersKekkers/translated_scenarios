@@ -65,7 +65,7 @@ ChMotion(3,0);
 VoicePlay("G110300601_03_070");
 MsgDisp("Honda","Anything?");
 MsgDisp("主人公","Umm......something I read recently......
-How about 'Habacha'?");
+How about 'Habatcher'?");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);

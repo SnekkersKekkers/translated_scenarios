@@ -24,11 +24,11 @@ This is a date, right?)");
         VoicePlay("J060201000_02_020");
         MsgDisp("Sassa","Really? Cool! Okay, let's decide where
 we're going to meet.");
-        MsgDisp("主人公","Yeah. Okay, then, How about we meet at
+        MsgDisp("主人公","Yeah. Okay, then, how about we meet at
 ｛待ち合わせ場所｝?");
         VoicePlay("J060201000_02_030");
         MsgDisp("Sassa","Yeah, it's fine.
-Well, you're loud, so you'll stand out
+Well, you're striking, so you'll stand out
 wherever you are, right?");
         MsgDisp("主人公","Hmmm...easy to find, isn't it?");
         VoicePlay("J060201000_02_040");

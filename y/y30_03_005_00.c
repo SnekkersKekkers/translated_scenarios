@@ -67,7 +67,7 @@ MsgDisp("Honda","\"Of course.
 I'll commentate on everything
 thoroughly!\"");
 MsgClear();
-MsgDisp("","After two weeks, That warmth within
+MsgDisp("","After two weeks, that warmth within
 me has arisen again.");
 BGMStop();
 MsgClear();

@@ -4,7 +4,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,9);
 ChCheek(1,5);
 VoicePlay("SS0501350_01_000");
-MsgDisp("Kazama","I said I wanted to take him home, You're
+MsgDisp("Kazama","I said I wanted to take him home, you're
 in trouble, right?");
 MsgClose();
 ChCheek(1,0);

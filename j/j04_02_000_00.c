@@ -56,7 +56,7 @@ What was that about?)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("J040200000_02_040");
-    MsgDisp("Sassa","｛主人公｝. It was found immediately.
+    MsgDisp("Sassa","｛主人公｝. I found you immediately.
 Because you stand out.");
     MsgDisp("主人公","Eh, I don't think so?
 So, what can I do for you?");

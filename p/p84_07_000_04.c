@@ -13,7 +13,7 @@ MsgDisp("主人公","(I'm glad it ended without any
 problems...)");
 VoiceEVSPlay(7);
 VoicePlay("P840700004_07_000");
-MsgDisp("Mikage?","｛主人公｝, That was excellent.");
+MsgDisp("Mikage?","｛主人公｝, that was excellent.");
 MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

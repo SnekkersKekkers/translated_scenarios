@@ -14,7 +14,7 @@ well-received...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200001_02_000");
-    MsgDisp("Sassa","｛主人公｝, You're selling fresh
+    MsgDisp("Sassa","｛主人公｝, you're selling fresh
 vegetables?");
     MsgDisp("主人公","｛颯砂＊＊｝, welcome! Yes, we're selling
 organic vegetables and herb tea.");
@@ -55,7 +55,7 @@ well-received...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200001_02_030");
-    MsgDisp("Sassa","｛主人公｝, These vegetables look
+    MsgDisp("Sassa","｛主人公｝, these vegetables look
 delicious.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝ you came.");
     ChEye(2,3);
@@ -89,7 +89,7 @@ parent huh?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("P630200001_02_070");
-    MsgDisp("Sassa","Instead of saying \"Eh\", You should be
+    MsgDisp("Sassa","Instead of saying \"Eh\", you should be
 happy?");
     MsgDisp("主人公","Hehe, I see.
 Thank you.");

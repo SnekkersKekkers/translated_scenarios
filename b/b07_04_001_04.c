@@ -15,7 +15,7 @@ He's always talking.");
 ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_300");
-MsgDisp("Nanatsumori","When it comes to Habacha or other popular
+MsgDisp("Nanatsumori","When it comes to Habatcher or other popular
 things, the baton is passed on to me.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,2);

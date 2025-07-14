@@ -2,7 +2,7 @@ MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, it's from Habacha's Editorial
+MsgDisp("主人公","(Ah, it's from Habatcher's Editorial
 Department.
 It says......");
 MsgDisp("主人公","(\"You received permission to interview the
@@ -58,7 +58,7 @@ StlMouth(5,1);
 VoicePlay("D010500000_05_030");
 MsgDisp("Hiiragi","And you?");
 MsgDisp("主人公","Oh, me?
-I'm here to do an interview for Habacha.");
+I'm here to do an interview for Habatcher.");
 StlMouth(5,0);
 VoicePlay("D010500000_05_040");
 MsgDisp("Hiiragi","I'm all ears.

@@ -89,7 +89,7 @@ out of three rounds.");
         SEPlay("EV_SE_062");
         SEWait();
         MsgDisp("主人公","Ehhh∋　Sneaky!");
-        MsgDisp("主人公","(Hey...｛柊＊＊＊｝, You really hate to
+        MsgDisp("主人公","(Hey...｛柊＊＊＊｝, you really hate to
 lose huh...)");
         MsgClose();
         ScrFadeOut(0,0);

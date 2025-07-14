@@ -73,7 +73,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B050300000_03_070");
 MsgDisp("Honda","\"The nostalgic sound of your footsteps as
-you approach me\"——, That scene really
+you approach me\"——, that scene really
 draws you in.");
 ChEye(3,0);
 ChMouth(3,4);

@@ -74,7 +74,7 @@ out of the ground.");
         MsgDisp("Honda","That's right.
 In order to go out with you, I'm active
 all year round.");
-        MsgDisp("主人公","Hehe, You said it as if you were some
+        MsgDisp("主人公","Hehe, you said it as if you were some
 animal or insect.");
         ChEye(3,4);
         ChMouth(3,4);

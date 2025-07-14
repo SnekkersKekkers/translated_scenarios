@@ -93,7 +93,7 @@ I'm sorry to the store clerk!");
         MsgDisp("Honda","Haa, seems like it was broken.
 I might become weak around cockatiels
 now...");
-        MsgDisp("主人公","Hehe, Then, after this let's take our time
+        MsgDisp("主人公","Hehe, then, after this let's take our time
 to look around.");
         ChEye(3,0);
         ChMouth(3,0);

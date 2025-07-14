@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     ChMotion(3,4);
     VoicePlay("B040310102_03_010");
-    MsgDisp("Honda","Yep yep, The permanent dinosaur exhibit
+    MsgDisp("Honda","Yep yep, the permanent dinosaur exhibit
 here is also well done.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

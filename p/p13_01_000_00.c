@@ -52,7 +52,7 @@ Ticket for one～!");
     case 5:
     ScrFadeIn(0);
     MsgDisp("主人公","This is a maze～
-If you can reach the goal, You get to
+If you can reach the goal, you get to
 drink freshly squeezed milk～");
     VoiceEVSPlay(1);
     VoicePlay("P130100000_01_040");

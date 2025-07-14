@@ -46,7 +46,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010130100_01_020");
-MsgDisp("Kazama","......Hmm? You, just now, That was a bit
+MsgDisp("Kazama","......Hmm? You, just now, that was a bit
 of a funny reaction, wasn't it?");
 MsgDisp("主人公","No, not at all.
 I think your bangs suit you.");

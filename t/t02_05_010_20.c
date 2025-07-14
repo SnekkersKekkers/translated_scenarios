@@ -19,7 +19,7 @@ ChEyeOpenLevel(5,9);
 ChCheek(5,0);
 VoiceEVSPlay(5);
 VoicePlay("T020501020_05_010");
-MsgDisp("Hiiragi","｛主人公｝, That was all thanks to you.");
+MsgDisp("Hiiragi","｛主人公｝, that was all thanks to you.");
 MsgDisp("主人公","But I......didn't do anything......");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);

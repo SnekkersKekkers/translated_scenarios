@@ -23,7 +23,7 @@ ChMotion(1,3);
 VoicePlay("D020100100_01_020");
 MsgDisp("Kazama","What are you doing then?");
 MsgDisp("主人公","Uhm, I wanted to showcase the store for my
-part-time job at Habacha.");
+part-time job at Habatcher.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

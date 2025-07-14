@@ -70,7 +70,7 @@ aquariums just pander to people?");
         ChMotion(6,0);
         VoicePlay("B040603102_06_060");
         MsgDisp("Himuro","They cram it with artificial stuff, set up
-a mood, Then, well, expect us to enjoy it.");
+a mood, then, well, expect us to enjoy it.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

@@ -17,7 +17,7 @@ all these last three years?)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, This is your last stage, I
+    MsgDisp("Hiiragi","｛主人公｝, this is your last stage, I
 look forward to it.");
     MsgDisp("主人公","｛柊＊＊＊｝, thank you!
 I'll do my best so I can show the results
@@ -41,7 +41,7 @@ That's right, isn't it?");
     ChMotion(5,0);
     VoicePlay("P530500002_05_030");
     MsgDisp("Hiiragi","You're reliable. No matter what the result
-is, Your last three years of hard work is
+is, your last three years of hard work is
 the real deal. Your current self is proof
 of it.");
     SEPlay("EV_SE_038");
@@ -75,7 +75,7 @@ all these last three years?)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_050");
-    MsgDisp("Hiiragi","｛主人公｝, This is your last
+    MsgDisp("Hiiragi","｛主人公｝, this is your last
 performance, correct?");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Thank you for coming.");
     ChEye(5,2);

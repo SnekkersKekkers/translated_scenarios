@@ -18,8 +18,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_570");
-MsgDisp("Himuro","To stare for no reason, To touch me for no
-reason, To hang out together for no
+MsgDisp("Himuro","To stare for no reason, to touch me for no
+reason, to hang out together for no
 reason...");
 ChEye(6,0);
 ChMouth(6,0);

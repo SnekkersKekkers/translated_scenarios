@@ -23,7 +23,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("B150100100_01_020");
-MsgDisp("Kazama","...Geez, You're just touching, that's not
+MsgDisp("Kazama","...Geez, you're just touching, that's not
 called skinship.");
 ChEye(1,0);
 ChMouth(1,1);

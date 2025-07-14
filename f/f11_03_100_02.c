@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("F110310002_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝, You're not doing it this
+MsgDisp("主人公","Ah, ｛本多＊＊｝, you're not doing it this
 year?");
 ChMouth(3,4);
 ChMotion(3,4,1);

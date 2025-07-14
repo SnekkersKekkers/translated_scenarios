@@ -2,7 +2,7 @@ BGOpen("ho000",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, it's an email from Habacha's
+MsgDisp("主人公","(Ah, it's an email from Habatcher's
 Editorial Department.)");
 MsgDisp("主人公","(Let's see, it says......
 \"A fishing tournament is being held at the
@@ -37,7 +37,7 @@ VoicePlay("D010100700_01_010");
 MsgDisp("Kazama","I should be asking you that question.
 You're such a busybody.");
 MsgDisp("主人公","Geez, I'm doing my part-time job for
-Habacha.");
+Habatcher.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -108,7 +108,7 @@ ChEye(1,2);
 ChMotion(1,3);
 VoicePlay("D010100700_01_060");
 MsgDisp("Kazama","Thank you.
-......Wait, is this a Habacha interview?");
+......Wait, is this a Habatcher interview?");
 MsgDisp("主人公","Ah......Right!
 A small interview, then.
 Can you tell us about fly fishing?");

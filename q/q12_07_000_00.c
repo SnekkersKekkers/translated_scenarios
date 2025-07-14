@@ -90,7 +90,7 @@ Don't get soggy.");
     ChMotion(7,1);
     VoicePlay("Q120700000_07_100");
     MsgDisp("Mikage","Ah yes, the MVP award.
-If you see the tulips every year, You get
+If you see the tulips every year, you get
 reminded of this school trip.");
     MsgDisp("主人公","Yes. Will you also remember,
 ｛御影＊＊｝?");

@@ -40,7 +40,7 @@ ChEyeOpenLevel(1,10);
 VoicePlay("B070100001_01_280");
 MsgDisp("Kazama","We can be together like this because
 you're there. if you weren't, it wouldn't
-be like this. Everyone likes you——");
+be like this. Everyone likes——");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

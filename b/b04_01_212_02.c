@@ -89,7 +89,7 @@ banned?");
         VoicePlay("B040121202_01_070");
         MsgDisp("Kazama","It's fine.
 This bear eraser is just right for you.");
-        MsgDisp("主人公","Come to think of it, That cute bear plush
+        MsgDisp("主人公","Come to think of it, that cute bear plush
 over there, kinda looks like you?
 ｛風真＊＊｝.");
         ChEye(1,0);

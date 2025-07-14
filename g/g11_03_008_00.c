@@ -9,7 +9,7 @@ BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300800_03_000");
-MsgDisp("Honda","｛主人公｝, You have a good eye.");
+MsgDisp("Honda","｛主人公｝, you have a good eye.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

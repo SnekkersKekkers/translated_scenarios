@@ -1,2 +1,2 @@
-MsgDisp("","After graduating, I got a job at Habacha
+MsgDisp("","After graduating, I got a job at Habatcher
 Editorial Department.");

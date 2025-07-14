@@ -93,7 +93,7 @@ ChEyeOpenLevel(6,8);
 ChCheek(6,5);
 VoicePlay("D140C04002_06_060");
 MsgDisp("Himuro","He'll probably say something like, \"Oh,
-you missed me Inori?\", That's why, I'm
+you missed me Inori?\", that's why, I'm
 good for today.");
 ChEye(5,4);
 ChMouth(5,4);

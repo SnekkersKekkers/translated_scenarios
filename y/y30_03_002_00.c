@@ -50,7 +50,7 @@ MsgClear();
 MsgDisp("","From time to time, when I hear this
 voice, my chest feels warm...");
 MsgDisp("主人公","\"Please let me interview you for
-Habacha!\"");
+Habatcher!\"");
 MsgDisp("","She said it whilst breathing heavily.
 She must have ran to catch up with
 me.");

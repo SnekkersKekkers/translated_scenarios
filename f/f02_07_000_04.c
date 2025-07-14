@@ -21,7 +21,7 @@ MsgDisp("Mikage","I'm not happy at all. It feels like my
 neck is getting tighter and tighter every
 year... ahh, damn it.");
 MsgDisp("主人公","I'm happy that I'll be able to celebrate
-｛御影＊＊｝ 's birthday though.'");
+｛御影＊＊｝'s birthday though.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -44,4 +44,4 @@ ChMotion(7,4);
 VoicePlay("F020700004_07_040");
 MsgDisp("Mikage","It's a joke...");
 MsgDisp("主人公","(I wonder what ｛御影＊＊｝ wants...?
-I wonder if it's time he wants...))");
+I wonder if it's time he wants...)");

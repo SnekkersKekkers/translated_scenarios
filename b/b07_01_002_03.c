@@ -45,7 +45,7 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_200");
-MsgDisp("Kazama","Right, I forgot, You're the type to only
+MsgDisp("Kazama","Right, I forgot, you're the type to only
 throw fast balls.");
 ChEye(1,4);
 ChMotion(1,0);

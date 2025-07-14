@@ -48,7 +48,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110500200_05_030");
-MsgDisp("Hiiragi","Not, 'Eh?', The two of us acted together
+MsgDisp("Hiiragi","Not, 'Eh?', the two of us acted together
 in a play, and reunited here.");
 MsgDisp("主人公","This isn't Habataki Castle, but the
 student council room, you know.");

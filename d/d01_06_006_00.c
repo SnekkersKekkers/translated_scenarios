@@ -2,7 +2,7 @@ BGOpen("ho210",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah......it's from Habacha's editorial
+MsgDisp("主人公","(Ah......it's from Habatcher's editorial
 department.)");
 MsgDisp("主人公","(Let's see, It says \"Surfing exhibition in
 progress at Habataki Beach\"......
@@ -51,7 +51,7 @@ ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("D010600600_34_030");
 MsgDisp("Live","What a nice cutback!
-One, Two, ......another one, he's going
+One, two, ......another one, he's going
 crazy!");
 SEPlay("EV_SE_793",0.2,0.5);
 SEPlay("EV_SE_CLAP_004",0,0.5);

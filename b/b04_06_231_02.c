@@ -99,7 +99,7 @@ upgrade after all.");
     ChMotion(6,0);
     VoicePlay("B040623102_06_110");
     MsgDisp("Himuro","It might be good to take action.
-If there's a lot of demand, They might
+If there's a lot of demand, they might
 come up with a plan to improve it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

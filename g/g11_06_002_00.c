@@ -85,7 +85,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G110600200_06_090");
-MsgDisp("Himuro","Even if they're readily made easily, The
+MsgDisp("Himuro","Even if they're readily made easily, the
 meaning behind them is complex......");
 ChEye(6,2);
 ChMouth(6,0);

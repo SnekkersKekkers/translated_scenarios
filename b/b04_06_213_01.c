@@ -9,7 +9,7 @@ ChMouth(6,5);
 ChMotion(6,5,1);
 VoicePlay("B040621301_06_000");
 MsgDisp("Himuro","W-Wait?
-Why are thy coming up to me?");
+Why are they coming up to me?");
 MsgSel("You sure are popular!","Maybe they think you're of the same kind?","They all love Papa Himuro▼");
 switch (MsgSelRsltGet()){
     case 0:

@@ -23,7 +23,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B150700400_07_030");
-MsgDisp("Mikage","Hey, You said you were caught in a trance,
+MsgDisp("Mikage","Hey, you said you were caught in a trance,
 unaware. Once the waves are in motion, you
 won't be able to stop it, you know?");
 ChEye(7,0);

@@ -4,7 +4,7 @@ ScrFadeIn(0);
 VoicePlay("G110400300_34_000");
 MsgDisp("Clerk","Welcome.");
 MsgDisp("主人公","(Phew... I need to take a break from
-Habacha coverage. I'm so thirsty.)");
+Habatcher coverage. I'm so thirsty.)");
 SEStop("EV_SE_DOOR_014");
 MsgClose();
 ScrFadeOut(0);
@@ -25,7 +25,7 @@ MsgDisp("Nanatsumori","Yeah.
 We're both working hard then.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("G110400300_04_020");
-MsgDisp("Nanatsumori","Umm, are you reporting for the Habacha
+MsgDisp("Nanatsumori","Umm, are you reporting for the Habatcher
 news?");
 MsgDisp("主人公","Yeah. I'm writing about the fun things and
 daily life about Habataki City and turning

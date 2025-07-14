@@ -50,8 +50,7 @@ He said he gets nervous around women.");
     case 4:
     case 5:
     VoicePlay("I460600005_47_000");
-    MsgDisp("Woman Customer","Could I purchase
-that dried flower?");
+    MsgDisp("Woman Customer","Could I purchase that dried flower?");
     MsgDisp("主人公","Yes!");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

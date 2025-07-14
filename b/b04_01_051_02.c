@@ -40,7 +40,7 @@ here it's suddenly dark.");
         MsgDisp("Kazama","It almost feels like no one can see us.");
         ChEye(1,4);
         VoicePlay("B040105102_01_040");
-        MsgDisp("Kazama","In that way, The only thing that matters
+        MsgDisp("Kazama","In that way, the only thing that matters
 is the way the starlight shines on your
 face.");
         MsgDisp("主人公","On my face?");

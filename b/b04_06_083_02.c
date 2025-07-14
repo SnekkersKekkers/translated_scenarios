@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,3);
     VoicePlay("B040608302_06_010");
     MsgDisp("Himuro","The definition of global warming is vague
-but, This climate is subtropical.
+but, this climate is subtropical.
 Maybe the climate is changing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

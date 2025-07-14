@@ -18,7 +18,7 @@ ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("G110700804_07_000");
-MsgDisp("Mikage","｛主人公｝, You've come to the right
+MsgDisp("Mikage","｛主人公｝, you've come to the right
 place.
 Please help me with weeding.");
 MsgDisp("主人公","Yes.

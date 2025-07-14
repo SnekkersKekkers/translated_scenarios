@@ -52,15 +52,14 @@ ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("G020230201_02_070");
 MsgDisp("Sassa","Alright, just as planned.");
-MsgDisp("主人公","Planned.");
+MsgDisp("主人公","Right.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230201_02_080");
-MsgDisp("Sassa","Actually, I've been simulating what to say
+MsgDisp("Sassa","Actually, I've been practicing what to say
 to you here since yesterday.");
-MsgDisp("主人公","Hehe, 
-it's like your track training, huh?");
+MsgDisp("主人公","Hehe, training just like you do for track, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -69,7 +68,7 @@ MsgDisp("Sassa","Exactly. Always plan ahead, that's my
 motto.");
 MsgDisp("主人公","(He's always thinking about so much
 different things for me......
-thank you, ｛颯砂＊＊｝ )");
+Thank you, ｛颯砂＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

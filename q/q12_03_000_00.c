@@ -63,7 +63,7 @@ There's still hope∈");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_070");
-    MsgDisp("Honda","｛主人公｝, You're amazing.
+    MsgDisp("Honda","｛主人公｝, you're amazing.
 I'm gonna peek into the kitchen!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -92,7 +92,7 @@ Nagasaki with this trip.");
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("Q120300000_03_100");
-    MsgDisp("Honda","I mean, There isn't a place I dislike
+    MsgDisp("Honda","I mean, there isn't a place I dislike
 where I went with you. ......Hmm?");
     ChEye(3,2);
     ChMouth(3,3);

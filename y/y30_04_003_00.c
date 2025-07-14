@@ -84,7 +84,7 @@ MsgClear();
 MsgDisp("","\"Biscuit Kingdom \" in particular was
 a nice choice.");
 MsgDisp("","On top of the lightly-salted
-biscuits, There's fruits, there's
+biscuits, there's fruits, there's
 sweets and side dishes in an hors
 d'oeuvre style dessert.");
 MsgDisp("","Ah... It seems like the manager's

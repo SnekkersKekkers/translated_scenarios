@@ -1,6 +1,6 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, this month's feature of Habacha is on
+MsgDisp("主人公","(Ah, this month's feature of Habatcher is on
 limited time sweets.)");
 MsgDisp("主人公","Hehe! I'm gonna try to eat some
 by myself.");
@@ -33,7 +33,7 @@ VoicePlay("G110400100_04_010");
 MsgDisp("Nanatsumori","Yeah. I'm on break right now. What are you
 doing here?");
 MsgDisp("主人公","I'm looking for some limited time sweets
-that were on Habacha this month▼");
+that were on Habatcher this month▼");
 ChEye(4,2);
 VoicePlay("G110400100_04_020");
 MsgDisp("Nanatsumori","I see...");

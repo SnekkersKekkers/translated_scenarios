@@ -68,8 +68,8 @@ ChMouth(31,4);
 ChMotion(31,2);
 VoicePlay("D200000000_31_060");
 MsgDisp("Goro","Hello♪ But right now I'm Goro
-Hanatsubaki, special advisor of Habacha!");
-MsgDisp("主人公","Uhm......Habacha?
+Hanatsubaki, special advisor of Habatcher!");
+MsgDisp("主人公","Uhm......Habatcher?
 That's Habataki City's information
 magazine \"Habataki Watcher \", right?......");
 ChEye(31,3);
@@ -78,7 +78,7 @@ ChMotion(31,3);
 VoicePlay("D200000000_31_070");
 MsgDisp("Goro","That's right.
 And starting today, you're a new member of
-Habacha's editorial team.");
+Habatcher's editorial team.");
 MsgDisp("主人公","Eh?");
 ChEye(31,0);
 ChMouth(31,0);

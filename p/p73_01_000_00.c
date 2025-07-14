@@ -67,7 +67,7 @@ look on your face?");
     ChOpen(1,254,0,0,3,#1,#1,0,0);
     ChEye(1,4);
     VoicePlay("P730100000_01_050");
-    MsgDisp("Kazama","If you get stiff, The work you went to the
+    MsgDisp("Kazama","If you get stiff, the work you went to the
 trouble of making will get ruined, right?");
     MsgDisp("主人公","Y-Yeah.");
     ChEye(1,0);

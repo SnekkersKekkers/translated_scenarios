@@ -57,7 +57,7 @@ them, I was regretting my own
 patheticness.");
 MsgDisp("","Once we pass through this street,
 we'll already reach the road leading
-up to the shrine, The number of
+up to the shrine, the number of
 people heading to the first shrine
 visit was already beginning to
 increase.");

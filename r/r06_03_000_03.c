@@ -24,7 +24,7 @@ Then I'm gonna open it right now.");
     ChOpen(3,34,3,3,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("R060300003_03_020");
-    MsgDisp("Honda","｛主人公｝, You got the jackpot!");
+    MsgDisp("Honda","｛主人公｝, you got the jackpot!");
     MsgDisp("主人公","｛本多＊＊｝. what's the jackpot?");
     ChEye(3,0);
     ChMouth(3,3);

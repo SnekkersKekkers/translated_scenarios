@@ -97,7 +97,7 @@ MsgDisp("主人公","Hehe, yes. Thanks, ｛颯砂＊＊｝.");
 StlEye(2,2);
 StlMouth(2,0);
 VoicePlay("Q070201000_07_000");
-MsgDisp("Mikage","Ohoho, How great, you two!");
+MsgDisp("Mikage","Ohoho, how great, you two!");
 SEPlay("EV_SE_045");
 MsgDisp("","(Flash)");
 StlEye(2,2,0);

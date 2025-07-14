@@ -3,7 +3,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_080");
 Wait(20,0);
 MsgDisp("主人公","(Your hard work as an employee of
-Habacha's Editorial Department has been
+Habatcher's Editorial Department has been
 recognized. As a result, your \"Journalist
 Level\" has increased!)");
 MsgClose();
@@ -32,7 +32,7 @@ MsgDisp("Shirahane Mayo","That's right! If you're okay with it,
 would you like to continue working at our
 company in the future?");
 VoicePlay("D240000003_45_020");
-MsgDisp("Shirahane Mayo","With you, Habacha will become even
+MsgDisp("Shirahane Mayo","With you, Habatcher will become even
 more......No, with you here, Habataki City
 will become even more lively.");
 ChEye(31,0);
@@ -41,7 +41,7 @@ ChMotion(31,3);
 VoicePlay("D240000003_41_030");
 MsgDisp("Tanaka Shin","I'd welcome that idea too!
 Please give it some thought!");
-MsgDisp("主人公","(Do I want to work in Habacha's Editorial
+MsgDisp("主人公","(Do I want to work in Habatcher's Editorial
 Department......I guess I should think
 about it a bit more?)");
 MsgClose();

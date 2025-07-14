@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 VoicePlay("P840400005_48_000");
-MsgDisp("School Girl","No, I have to hurry, The good seats will
+MsgDisp("School Girl","No, I have to hurry, the good seats will
 be taken～!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 SEWait();

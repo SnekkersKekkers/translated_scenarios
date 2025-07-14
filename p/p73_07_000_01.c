@@ -21,7 +21,7 @@ it?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P730700001_07_010");
-    MsgDisp("Mikage","Yes, There's no way I can miss my cute
+    MsgDisp("Mikage","Yes, there's no way I can miss my cute
 student's big moment.");
     ChEye(7,0);
     ChMouth(7,0);

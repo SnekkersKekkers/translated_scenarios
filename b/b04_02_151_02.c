@@ -94,7 +94,7 @@ breakthrough.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040215102_02_110");
-        MsgDisp("Sassa","It was far from doing nothing, To me,
+        MsgDisp("Sassa","It was far from doing nothing, to me,
 you're the world's best coach.");
         MsgDisp("主人公","(Even if it was just a little bit, I'm
 happy to to think that I helped

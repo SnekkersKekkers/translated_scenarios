@@ -47,8 +47,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("F020200003_02_060");
-MsgDisp("Sassa","Haha, well, it's a lot of rumors.
+MsgDisp("Sassa","Haha, well, they're just rumors.
 I feel bad for Mikage-sensei, you know?
 But they're interesting.");
-MsgDisp("主人公","(...and so on.
+MsgDisp("主人公","(...It went like that.
 We left school happily talking.)");

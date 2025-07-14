@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("SS0102312_02_000");
-MsgDisp("Sassa","Hair bands are a must.");
+MsgDisp("Sassa","The hairband is a must.");
 MsgClose();

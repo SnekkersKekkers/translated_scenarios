@@ -46,7 +46,7 @@ received.)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P630700001_07_030");
-    MsgDisp("Mikage","｛主人公｝, This is a so-so turnout
+    MsgDisp("Mikage","｛主人公｝, this is a so-so turnout
 huh?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝. Welcome!");
     ChEye(7,0);

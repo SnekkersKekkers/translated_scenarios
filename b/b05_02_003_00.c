@@ -98,7 +98,7 @@ VoicePlay("B050200300_31_070");
 MsgDisp("Goro","Yep. I went with \"Goro's Fresh
 Collection\"\"!");
 MsgDisp("主人公","Ah, that fashion collection is featured on
-Habacha......");
+Habatcher......");
 StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);

@@ -16,7 +16,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("Q020C00100_05_000");
-MsgDisp("Hiiragi","Mr. Mikage, There could be a chance she's
+MsgDisp("Hiiragi","Mr. Mikage, there could be a chance she's
 already reserved her time for somebody
 else...");
 ChEye(7,0);

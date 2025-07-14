@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("L040400002_04_000");
     MsgDisp("Nanatsumori","Ah, this is......");
     MsgDisp("主人公","I got a little excited!
-It's a popular chocolate I saw on Habacha.");
+It's a popular chocolate I saw on Habatcher.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0);
@@ -31,7 +31,7 @@ Thank goodness!)");
     VoicePlay("L040400002_04_020");
     MsgDisp("Nanatsumori","Oh, this is......");
     MsgDisp("主人公","It's a popular chocolate featured on
-Habacha.
+Habatcher.
 I went a little all out.");
     ChEye(4,0);
     ChMouth(4,3);

@@ -75,7 +75,7 @@ your breath.");
         VoicePlay("B040508502_05_080");
         MsgDisp("Hiiragi","Ah, please excuse me.
 Winter is a wonderful thing, isn't it?");
-        MsgDisp("主人公","(Hey, ｛柊＊＊＊｝, You say weird things
+        MsgDisp("主人公","(Hey, ｛柊＊＊＊｝, you say weird things
 from time to time don't you...)");
         break ;
         default :

@@ -75,7 +75,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30701_04_040");
-MsgDisp("Nanatsumori","It's not about the model, The way this guy
+MsgDisp("Nanatsumori","It's not about the model, the way this guy
 lives is full of charm.");
 ChEyeOpenLevel(1,#1);
 ChEye(3,0);

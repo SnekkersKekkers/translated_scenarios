@@ -26,10 +26,10 @@ out too?");
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);
 VoicePlay("E010520100_05_010");
-MsgDisp("Hiiragi","I was answering a survey for Habacha when
+MsgDisp("Hiiragi","I was answering a survey for Habatcher when
 I ran into Sassa.");
 MsgDisp("主人公","I see!
-I work part time at Habacha, so I can't
+I work part time at Habatcher, so I can't
 answer the survey.");
 ChEye(2,0);
 ChMouth(2,0);

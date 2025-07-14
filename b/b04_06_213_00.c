@@ -7,9 +7,8 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040621300_06_000");
 MsgDisp("Himuro","Uwa.
-What a fluffy mass..");
-MsgSel("It's cute right!","Let's pet them!","They look so 
-delicate, it's scary.");
+So much fluff...");
+MsgSel("It's cute, right!","Let's pet them!","They look so delicate, it's scary.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -17,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040621300_06_010");
-    MsgDisp("Himuro","Well it is cute.");
+    MsgDisp("Himuro","Well, it is cute.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +37,8 @@ would be sad.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040621300_06_030");
-    MsgDisp("Himuro","I agree. It's so defenseless that you'd
-feel anxious. We have to be careful.");
+    MsgDisp("Himuro","I agree. It's so defenseless it makes you anxious.
+    We have to be careful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

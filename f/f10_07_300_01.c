@@ -57,7 +57,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
 VoicePlay("F100730001_07_030");
-MsgDisp("Mikage","O-Oh, Time to style it...
+MsgDisp("Mikage","O-Oh, time to style it...
 That's right, maybe about 15 minutes?");
 ChEye(22,0);
 ChMouth(22,3);

@@ -123,7 +123,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330A10101_06_030");
-MsgDisp("Himuro","Nozomu-senpai, You saying that with a red
+MsgDisp("Himuro","Nozomu-senpai, you saying that with a red
 face isn't persuading us.");
 ChEye(1,0);
 ChMouth(1,2);

@@ -87,7 +87,7 @@ StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400000_46_030");
 MsgDisp("Woman Customer A","Nana▼ｃо-san, that's amazing!
-An interview with Habacha!");
+An interview with Habatcher!");
 VoicePlay("D010400000_47_030");
 MsgDisp("Woman Customer B","Amazing!
 I want to hear it too～!");
@@ -100,7 +100,7 @@ VoicePlay("D010400000_04_030");
 MsgDisp("Witch","......ＮＯ.
 In the truth lies darkness.");
 MsgDisp("主人公","Then just the parts that aren't secrets!
-From Nanaco directly to all her Habacha
+From Nanaco directly to all her Habatcher
 fans! Go ahead∈");
 StlEye(4,0,0);
 StlMouth(4,0);

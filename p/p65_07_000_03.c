@@ -12,7 +12,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P650700003_07_010");
-MsgDisp("Mikage","Hey, hey, There's no point even if you
+MsgDisp("Mikage","Hey, hey, there's no point even if you
 make that gloomy face.");
 MsgDisp("主人公","Yes...");
 ChEye(7,2);

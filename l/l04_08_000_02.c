@@ -7,7 +7,7 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,1,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("L040800002_08_000");
-    MsgDisp("Shirahane","I saw this on Habacha!
+    MsgDisp("Shirahane","I saw this on Habatcher!
 They're super steep!");
     MsgDisp("主人公","Yeah, I went all out.");
     ChEye(8,2);
@@ -57,7 +57,7 @@ Thank goodness!)");
     ChCheek(8,8);
     VoicePlay("L040800002_08_050");
     MsgDisp("Shirahane","This...... It's the chocolates on
-Habacha......");
+Habatcher......");
     MsgDisp("主人公","Hehe, I got a little excited▼");
     ChEye(8,3);
     ChMouth(8,4);

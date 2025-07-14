@@ -23,7 +23,7 @@ I like it but...)");
     ChMotion(1,0);
     VoicePlay("P730100001_01_010");
     MsgDisp("Kazama","You're going to wear your dress and walk
-as a model, How could I miss that?");
+as a model, how could I miss that?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);

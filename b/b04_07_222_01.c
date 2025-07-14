@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040722201_07_000");
-MsgDisp("Mikage","Alright, Let's look into the historical
+MsgDisp("Mikage","Alright, let's look into the historical
 documents at the exhibition corner?");
 MsgSel("I can't read it at all.","Do we really have to?","You're a bit of a weirdo, huh?");
 switch (MsgSelRsltGet()){

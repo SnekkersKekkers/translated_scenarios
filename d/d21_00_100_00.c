@@ -7,7 +7,7 @@ Goro-sensei. It says:)");
 MsgDisp("主人公","(\"It seems like a new spot has opened up
 in a corner of the Forest Park Please make
 sure to write about it♪\")");
-MsgDisp("主人公","(Alright, as Habacha's newest staff
+MsgDisp("主人公","(Alright, as Habatcher's newest staff
 member, let's get to it!)");
 MsgClose();
 ScrFadeOut(0);

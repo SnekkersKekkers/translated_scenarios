@@ -33,7 +33,7 @@ StlOpen("ev_0b_01");
 ScrFadeIn(0);
 VoicePlay("D110D00000_22_020");
 MsgDisp("Hikaru","We can see it, you know......
-3 Differently colored, Tres～bien roses,
+3 Differently colored, tres～bien roses,
 all gathered together in harmony.");
 VoicePlay("D110D00000_21_010");
 MsgDisp("Michiru","That's the feeling Mari has nurtured.

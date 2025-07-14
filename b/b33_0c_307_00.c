@@ -47,7 +47,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B330C30700_07_010");
-MsgDisp("Mikage","Alright, They probably sell notebooks and
+MsgDisp("Mikage","Alright, they probably sell notebooks and
 pens at the kiosk.
 Wait here.");
 MsgClose();

@@ -73,7 +73,7 @@ SEWait();
 VoicePlay("B040406402_04_100");
 MsgDisp("Nanatsumori","So that even if anything happens, we wpn't
 get separated.");
-MsgDisp("主人公","YEah.");
+MsgDisp("主人公","Yeah.");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(4,2);

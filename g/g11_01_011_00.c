@@ -34,7 +34,7 @@ VoicePlay("G110101100_01_010");
 MsgDisp("Kazama","Good.
 That's a good attitude.");
 MsgDisp("主人公","Hehe. But, because ｛風真＊＊｝ taught me
-so many different things, The number of
+so many different things, the number of
 things I can do has genuinely increased.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);

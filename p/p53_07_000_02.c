@@ -98,7 +98,7 @@ I'll thank you.");
     VoicePlay("P530700002_07_100");
     MsgDisp("Mikage","I only get scolded by Himuro-sensei, but
 Thanks to you, I can hold my head high in
-front of him, You're even the heart of the
+front of him, you're even the heart of the
 concert band.");
     SEPlay("EV_SE_038");
     SEWait();

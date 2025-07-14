@@ -2,7 +2,7 @@ BGOpen("sc500",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Oh yeah.
 Should I check out the new items in this
-month's Habacha feature?)");
+month's Habatcher feature?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -43,7 +43,7 @@ ChMotion(4,2);
 VoicePlay("G110400201_04_030");
 MsgDisp("Nanatsumori","I think it's this.
 Look at the new items in this month's
-Habacha magazine.");
+Habatcher magazine.");
 VoicePlay("G110400201_04_040");
 MsgDisp("Nanatsumori","...I'm guessing you looked and it's all
 sold out. Bingo?");
@@ -57,7 +57,7 @@ MsgDisp("主人公","Hehe, I see.
 That's impressive, ｛七ツ森＊｝.");
 ChMotion(4,1);
 VoicePlay("G110400201_04_060");
-MsgDisp("Nanatsumori","Oh. This item from Habacha. I heard it
+MsgDisp("Nanatsumori","Oh. This item from Habatcher. I heard it
 sold out the day it was released.");
 MsgDisp("主人公","I see...");
 VoicePlay("G110400201_04_070");

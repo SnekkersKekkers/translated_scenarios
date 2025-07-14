@@ -17,7 +17,7 @@ VoicePlay("D010400500_41_010");
 MsgDisp("Male Student B","Isn't it～
 It's different when a model wears it.");
 MsgDisp("主人公","(Ah...... It looks like the boys are
-looking at the latest edition of Habacha.)");
+looking at the latest edition of Habatcher.)");
 VoicePlay("D010400500_41_020");
 MsgDisp("Male Student B","Nana really is cool huh～");
 MsgDisp("主人公","！");

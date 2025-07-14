@@ -7,7 +7,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_080");
 MsgDisp("Kazama","Inori is the one who's one-sidedly
 involving himself with me.");
-MsgDisp("主人公","But when you talk to ｛氷室＊＊｝, You look
+MsgDisp("主人公","But when you talk to ｛氷室＊＊｝, you look
 like you're having so much fun,
 ｛風真＊＊｝.");
 ChEye(1,0);

@@ -11,7 +11,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P640500004_05_010");
-MsgDisp("Hiiragi","It looked lovely too, This is the first
+MsgDisp("Hiiragi","It looked lovely too, this is the first
 time I've seen a salad this showy.");
 MsgDisp("主人公","I'm glad you liked it!");
 ChEye(5,4);

@@ -33,7 +33,7 @@ ChMotion(2,3);
 VoicePlay("Q070200000_02_030");
 MsgDisp("Sassa","Is it something to laugh so hard
 about......");
-MsgDisp("主人公","I think it's good, That you're able to
+MsgDisp("主人公","I think it's good, that you're able to
 think that you're lucky.");
 ChEye(2,0);
 ChMouth(2,4);

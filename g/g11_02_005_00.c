@@ -5,9 +5,9 @@ It feels nice......)");
 SEPlay("EV_SE_671");
 SEWait();
 MsgDisp("主人公","Those footsteps......
-could it be......");
+Could it be......");
 VoicePlay("G110200500_02_000");
-MsgDisp("Sassa?","Oh-, there you are.
+MsgDisp("Sassa?","Oh, there you are.
 Let's run together!");
 MsgClose();
 ScrFadeOut(0);
@@ -26,7 +26,7 @@ ScrFadeIn(0);
 VoicePlay("G110200500_02_010");
 MsgDisp("Sassa","Yeah.
 You look like a fine athlete.");
-MsgDisp("主人公","Haa......｛颯砂＊＊｝, You're a bit fast
+MsgDisp("主人公","Haa......｛颯砂＊＊｝, you're a bit fast
 today......");
 ChEye(2,0);
 ChMouth(2,0);
@@ -55,14 +55,14 @@ VoicePlay("G110200500_02_030");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
-MsgDisp("Sassa","Sorry sorry, 
+MsgDisp("Sassa","Sorry, sorry. 
 I wasn't laughing at you.");
 VoicePlay("G110200500_02_050");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 MsgDisp("Sassa","I wasn't holding back or anything.
-You're just getting stronger.");
+You're just getting better.");
 MsgDisp("主人公","Really?");
 MsgClose();
 SEStop("EV_SE_FOOT_037",1.5);
@@ -83,9 +83,8 @@ SEPlay("EV_SE_626");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I always move about, so I could run with
-ease! But, don't sleep, ｛颯砂＊＊｝......
-)");
+MsgDisp("主人公","(I always work out, so I can run with
+ease! But, don't sleep, ｛颯砂＊＊｝...)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

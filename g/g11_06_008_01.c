@@ -38,13 +38,13 @@ ScrFadeIn(0);
 VoicePlay("G110600801_06_030");
 MsgDisp("Himuro","......Flowers, do you like them?");
 MsgDisp("主人公","I like them.
-I started getting attached to them whilst
-I was on the part time job.");
+I started getting attached to them while
+working.");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600801_06_040");
-MsgDisp("Himuro","You always smile at the flowers whilst
+MsgDisp("Himuro","You always smile at the flowers while
 you're working, don't you?");
 MsgDisp("主人公","Eh, is that so?");
 ChEye(6,0);
@@ -68,8 +68,8 @@ ChCheek(6,10);
 VoicePlay("G110600801_06_070");
 MsgDisp("Himuro","Don't be shy about it.
 ......I'm drawn to it..");
-MsgDisp("主人公","(Hehe, I was praised by ｛氷室＊＊｝......!
-)");
+MsgDisp("主人公","(Hehe, I was praised by
+｛氷室＊＊｝......!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

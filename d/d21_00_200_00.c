@@ -1,6 +1,6 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Today I'm on the hunt for a new Habacha
+MsgDisp("主人公","(Today I'm on the hunt for a new Habatcher
 Article, I think I'll walk around town!)");
 MsgClose();
 ScrFadeOut(0);

@@ -85,7 +85,7 @@ SEPlay("EV_SE_DOOR_011",0,1);
 SEWait();
 MsgClear();
 MsgDisp("","When the three of us are talking like
-this, The topic of our conversation,
+this, the topic of our conversation,
 she comes over.");
 MsgDisp("","Truly, an interesting person.");
 BGMStop();

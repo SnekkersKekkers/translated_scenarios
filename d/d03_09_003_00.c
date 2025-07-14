@@ -35,7 +35,7 @@ MsgDisp("主人公","Eh, how did you know?");
 StlEye(9,0);
 VoicePlay("D030900300_09_030");
 MsgDisp("Kuya?","I heard it from someone I know.
-Someone in the Habacha editorial
+Someone in the Habatcher editorial
 department.");
 MsgDisp("Kuya?","To be honest, she's my older sister.");
 MsgDisp("主人公","Someone in the editorial department......
@@ -143,7 +143,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_160");
 MsgDisp("Kuya","So you're working part-time as a
-journalist for the Habacha editorial
+journalist for the Habatcher editorial
 department, right?");
 MsgDisp("主人公","Yep, that's right.
 So, you know......");

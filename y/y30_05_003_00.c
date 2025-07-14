@@ -6,7 +6,7 @@ ScrFadeIn(0);
 MsgDisp("","I did something that cannot be
 undone.");
 VoicePlay("Y300500300_05_010");
-MsgDisp("Hiiragi","(To those two, to their families, How
+MsgDisp("Hiiragi","(To those two, to their families, how
 would I even apologize....)");
 MsgClear();
 MsgClose();
@@ -63,7 +63,7 @@ MsgDisp("","But, by chance, maybe it's a good
 thing you got to see the real me.");
 MsgDisp("","Being chairman and in the student
 council... I'm only good at keeping
-up with appearances, This is the real
+up with appearances, this is the real
 me.");
 MsgClear();
 MsgDisp("主人公","\"No, ｛柊＊＊＊｝, for the sake of

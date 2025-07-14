@@ -58,7 +58,7 @@ Nice, how interesting!");
     ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("R060700003_07_070");
-    MsgDisp("Mikage","｛主人公｝, You got a present, right?");
+    MsgDisp("Mikage","｛主人公｝, you got a present, right?");
     MsgDisp("主人公","Yeah.");
     ChEye(7,0);
     ChMouth(7,0);

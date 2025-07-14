@@ -3,7 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yes, That was a good performance from
+MsgDisp("主人公","(Yes, that was a good performance from
 everyone!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);

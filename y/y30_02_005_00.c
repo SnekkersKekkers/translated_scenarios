@@ -10,7 +10,7 @@ Wait(80,0);
 SEStop("EV_SE_770",3);
 VoicePlay("Y300200500_02_000");
 MsgDisp("Sassa","\"That's why I told you not to go over
-there so much, You'll just get
+there so much, you'll just get
 drenched again.\"");
 MsgClear();
 MsgDisp("","I've continued training on the sand

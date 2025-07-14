@@ -18,7 +18,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,3);
 VoicePlay("B070701000_07_010");
-MsgDisp("Mikage","No, You think about everything so
+MsgDisp("Mikage","No, you think about everything so
 seriously.");
 ChEye(7,0);
 ChMouth(7,0);

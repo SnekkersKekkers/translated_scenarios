@@ -12,7 +12,7 @@ SEPlay("EV_SE_618");
 SEWait();
 ChMouth(1,3);
 VoicePlay("D120B00000_01_000");
-MsgDisp("Kazama","......Ah. For this Habacha entry, are we
+MsgDisp("Kazama","......Ah. For this Habatcher entry, are we
 doing a special feature on Nanatsumori?");
 ChEye(4,2);
 ChMouth(4,2);

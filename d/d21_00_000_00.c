@@ -1,7 +1,7 @@
 BGOpen("ne000",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I wonder what I should write about for
-the next Habacha Column......
+the next Habatcher Column......
 Okay, first let's explore the city!)");
 MsgClose();
 ScrFadeOut(0);

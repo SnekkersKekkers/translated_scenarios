@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
         ChMouth(7,0);
         ChMotion(7,0,1);
         VoicePlay("B040709002_07_010");
-        MsgDisp("Mikage","Unfortunately for you, The fruits and
+        MsgDisp("Mikage","Unfortunately for you, the fruits and
 vegetables you guys eat have all been
 modified for the most part.");
         MsgDateResultDisp();

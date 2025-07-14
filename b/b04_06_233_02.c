@@ -79,7 +79,7 @@ it before long.");
         ChMotion(6,0);
         ChCheek(6,0);
         VoicePlay("B040623302_06_070");
-        MsgDisp("Himuro","If you think about it, There's no value in
+        MsgDisp("Himuro","If you think about it, there's no value in
 an excitement that's only limited to a
 moment.");
         MsgDisp("主人公","What if it wasn't 

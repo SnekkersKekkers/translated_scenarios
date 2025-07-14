@@ -59,7 +59,7 @@ together?");
     ChMotion(1,3);
     VoicePlay("Q040100000_01_050");
     MsgDisp("Kazama","Ah......
-This time, You beat me to it.");
+This time, you beat me to it.");
     MsgDisp("主人公","Hehe, yay!");
     break ;
     default :

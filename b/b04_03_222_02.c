@@ -84,7 +84,7 @@ Could you take a picture of us?");
         MsgClose();
         ScrFadeIn(0);
         VoicePlay("B040322202_03_070");
-        MsgDisp("Honda","...Yep yep, Turns out this sort of picture
+        MsgDisp("Honda","...Yep yep, turns out this sort of picture
 is better than you in armor.");
         MsgClose();
         SEPlay("EV_SE_544");

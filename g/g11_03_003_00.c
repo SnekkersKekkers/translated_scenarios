@@ -1,7 +1,7 @@
 BGOpen("sc130",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Habacha comes out today!
+MsgDisp("主人公","(Habatcher comes out today!
 I'll drop by the bookstore.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -25,7 +25,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G110300300_03_010");
-MsgDisp("Honda","The latest edition of 'Habacha' just sold
+MsgDisp("Honda","The latest edition of 'Habatcher' just sold
 out......");
 MsgDisp("主人公","Ah, I see.
 But, I understand.");

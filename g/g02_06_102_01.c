@@ -16,10 +16,10 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610201_06_020");
-MsgDisp("Himuro","I always thought it was sorry how people
+MsgDisp("Himuro","I always thought it was pathetic how people
 were swayed by others, but recently,
 that's all that's been happening.");
-MsgDisp("主人公","Is that right?");
+MsgDisp("主人公","Is that so?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -56,13 +56,13 @@ VoicePlay("G020610201_06_070");
 MsgDisp("Himuro","I'm reluctant, but I know I have to endure
 this troublesome game of give and take.");
 MsgDisp("主人公","Then......
-Do your best, right?");
+Do your best, okay?");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610201_06_080");
-MsgDisp("Himuro","Haa......cruel.");
+MsgDisp("Himuro","Haa......how cruel.");
 MsgDisp("主人公","Ehhh∋");
 BGMStop();
 MsgClose();

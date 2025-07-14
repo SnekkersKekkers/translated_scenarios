@@ -39,7 +39,7 @@ I was just kidding.");
     ChMotion(1,0);
     VoicePlay("P530100001_01_030");
     MsgDisp("Kazama","The people in the venue, they are all
-complete amateurs. So, They won't notice
+complete amateurs. So, they won't notice
 if you make a small mistake.");
     MsgDisp("主人公","That's not true......");
     ChEye(1,0);

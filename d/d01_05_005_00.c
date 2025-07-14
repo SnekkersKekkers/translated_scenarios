@@ -2,7 +2,7 @@ MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, it's from Habacha's Editorial
+MsgDisp("主人公","(Ah, it's from Habatcher's Editorial
 Department.
 It says......)");
 MsgDisp("主人公","(\"We'd like you to sneak into the Habataki
@@ -108,7 +108,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500500_05_060");
-MsgDisp("Hiiragi","Thanks to Habacha's support, we have been
+MsgDisp("Hiiragi","Thanks to Habatcher's support, we have been
 recruiting new members.");
 ChEye(5,2);
 ChMouth(5,4);

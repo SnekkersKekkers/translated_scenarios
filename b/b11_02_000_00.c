@@ -31,7 +31,7 @@ ChEye(33,2);
 ChMouth(33,2);
 VoicePlay("B110200000_33_020");
 MsgDisp("Guy","Huh?
-Damn.. you're huge.");
+Damn... you're huge.");
 MsgDispSksp(1,5);
 ChEye(33,1);
 ChMouth(33,1);
@@ -110,5 +110,5 @@ ChMouth(2,4);
 ChMotion(2,2);
 ChCheek(2,0);
 VoicePlay("B110200000_02_080");
-MsgDisp("Sassa","Alright, Let's pull ourselves together and
+MsgDisp("Sassa","Alright, let's pull ourselves together and
 get going.");

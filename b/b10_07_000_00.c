@@ -1,7 +1,7 @@
 BGOpen("ex000",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Haa...
-Why did I say that...))");
+Why did I say that...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","Ah, it's from ｛御影＊＊｝...");
 SEPlay("SYS_SE_PHONE_POWER_ON");

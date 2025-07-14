@@ -75,7 +75,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300501_03_070");
-MsgDisp("Honda","Yeah yeah, That way we don't have to buy
+MsgDisp("Honda","Yeah yeah, that way we don't have to buy
 an expensive book.
 It won't be a waste.");
 MsgDisp("主人公","(If you say that out loud, wouldn't the

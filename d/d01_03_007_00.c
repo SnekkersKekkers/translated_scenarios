@@ -69,7 +69,7 @@ MsgDisp("主人公","(Hehe! It ended in the middle of what he
 was saying. ｛本多＊＊｝ was amazing
 though......)");
 MsgDisp("主人公","(I wonder if he'll let me interview him
-for Habacha?)");
+for Habatcher?)");
 MsgClose();
 Wait(40,0);
 MsgDisp("","　　　　　　　　　　 ・

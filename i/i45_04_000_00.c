@@ -116,7 +116,7 @@ else......");
     SEWait();
     VoicePlay("I450400000_04_120");
     MsgDisp("Nanatsumori","............");
-    MsgDisp("主人公","Um, ｛七ツ森＊｝, You're a little
+    MsgDisp("主人公","Um, ｛七ツ森＊｝, you're a little
 close......");
     MsgClose();
     ChEye(4,5);

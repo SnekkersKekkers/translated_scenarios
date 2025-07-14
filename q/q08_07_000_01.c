@@ -46,7 +46,7 @@ tomorrow?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("Q080700001_07_040");
-    MsgDisp("Mikage","Extracurricular lesson, Nagasaki ver, This
+    MsgDisp("Mikage","Extracurricular lesson, Nagasaki ver, this
 is the end of the first part.
 Thank you for listening.");
     MsgDisp("主人公","Eh, first part?");

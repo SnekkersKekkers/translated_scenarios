@@ -1,6 +1,6 @@
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, it's from Habacha's editorial
+MsgDisp("主人公","(Ah, it's from Habatcher's editorial
 department. It says......\"Can you please
 cover the event at Habataki Farm\"......)");
 MsgDisp("主人公","(Yeah! Of course I'll go.)");
@@ -90,7 +90,7 @@ MsgDisp("Mikage","Ehh......I didn't know you were interested
 in this kind of thing?");
 MsgDisp("主人公","Ah, not really, I just wanted to get an
 interview for my part-time job at
-Habacha......");
+Habatcher......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

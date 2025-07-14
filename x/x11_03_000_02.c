@@ -21,7 +21,7 @@ Congratulations!");
     ScrFadeIn(0);
     VoicePlay("X110300002_03_010");
     MsgDisp("Honda","I heard it! You won by a knockout, didn't
-you? I wish I could have seen it, Your
+you? I wish I could have seen it, your
 brilliant shoulder throw!");
     MsgDisp("主人公","Ah, ｛本多＊＊｝. Hmmm, thanks!");
     ChEye(3,3);

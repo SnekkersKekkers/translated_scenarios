@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgSel("Want to go to the Gift Store?","Let's go to Wan Nyan House","Don't ask");
+MsgSel("Want to go to the Gift Store?","Let's go to Woof Meow House","Don't ask");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

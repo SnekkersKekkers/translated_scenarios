@@ -94,7 +94,7 @@ MsgDisp("Mikage","They broke the shower, it's now a
 fountain.
 I'm going to the front desk.");
 VoicePlay("Q070701000_21_030");
-MsgDisp("Michiru","Mikage-sensei, You shouldn't go outside
+MsgDisp("Michiru","Mikage-sensei, you shouldn't go outside
 dressed like that......");
 StlEye(7,1);
 StlMouth(7,1);

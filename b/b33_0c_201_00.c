@@ -13,7 +13,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20100_06_000");
 MsgDisp("Himuro","Out of all the attractions at the
-aquarium, This place is especially
+aquarium, this place is especially
 interesting.");
 VoicePlay("B330C20100_05_000");
 MsgDisp("Hiiragi","I feel the same.

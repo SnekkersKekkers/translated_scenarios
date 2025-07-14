@@ -166,7 +166,7 @@ Let's decide this now!");
 SEPlay("EV_SE_793",0.3,0.8);
 SEPlay("EV_SE_GAYA_011");
 VoicePlay("D010600200_38_010");
-MsgDisp("Students","PULL∈");
+MsgDisp("Students","HO∈");
 MsgDisp("主人公","(Himuro-telepathy......?
 Thanks to you two the sports festival is
 so much fun......!)");
@@ -207,7 +207,7 @@ VoicePlay("D010600200_06_080");
 MsgDisp("Himuro","Next year we will definitely win.");
 MsgDisp("主人公","(Will Vice Principal Himuro participate
 again next year? Even though that's after
-I graduated, I think I want to watch
+I graduate, I think I want to watch
 it......?)");
 BGMStop();
 MsgClose();

@@ -103,7 +103,7 @@ When should we do it?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208402_02_100");
-    MsgDisp("Sassa","Yeah, There's fireflies here at least, so
+    MsgDisp("Sassa","Yeah, there's fireflies here at least, so
 there must be fish here too?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

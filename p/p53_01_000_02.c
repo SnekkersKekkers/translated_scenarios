@@ -68,7 +68,7 @@ the past three years?)");
     VoiceEVSPlay(1);
     VoicePlay("P530100002_01_040");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, You came?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, you came?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

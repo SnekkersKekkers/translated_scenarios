@@ -89,7 +89,7 @@ I had fun.");
         ChMouth(7,3);
         ChMotion(7,5);
         VoicePlay("B040724202_07_070");
-        MsgDisp("Mikage","Then, This \"Marriage Interview Camp\" was a
+        MsgDisp("Mikage","Then, this \"Marriage Interview Camp\" was a
 huge success!");
         MsgDisp("主人公","(Hehe, I had fun.
 It would be great if we could come again.)");

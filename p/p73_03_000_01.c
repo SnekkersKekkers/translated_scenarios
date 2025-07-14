@@ -31,7 +31,7 @@ have to patient with this kind of work?");
     ChMotion(3,1,1);
     VoicePlay("P730300001_03_020");
     MsgDisp("Honda","You'll be wearing and walking in the
-fruits of your labour, There's no way I
+fruits of your labour, there's no way I
 can miss that.");
     MsgDisp("主人公","That's p-pressureー...
 I'll do my best.");

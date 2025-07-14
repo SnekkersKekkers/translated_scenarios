@@ -77,7 +77,7 @@ try some fortune telling?");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040330002_03_060");
-        MsgDisp("Honda","Yep yep, Yeah, I like the concept based on
+        MsgDisp("Honda","Yep yep, yeah, I like the concept based on
 the Five Elements theory and I've read
 quite a few books on it");
         ChMotion(3,4);

@@ -4,7 +4,7 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgSel("Want to check out the Gift Shop?","Let's go to Wan Nyan House","Don't ask");
+MsgSel("Want to check out the Gift Shop?","Let's go to Woof Meow House","Don't ask");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);
@@ -20,7 +20,7 @@ Let's check it out!");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B030521002_05_010");
-    MsgDisp("Hiiragi","Wan Nyan.");
+    MsgDisp("Hiiragi","Woof Meow.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Hehe, yeah.
 Let's go see the cats and dogs!");

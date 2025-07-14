@@ -82,7 +82,7 @@ ChMouth(1,3);
 VoicePlay("G020120201_01_110");
 MsgDisp("Kazama","I won't lose to some sudden upstart
 junior. Right?");
-MsgDisp("主人公","(｛風真＊＊｝, You're talking about
+MsgDisp("主人公","(｛風真＊＊｝, you're talking about
 ｛氷室＊＊｝ right......?)");
 BGMStop();
 MsgClose();

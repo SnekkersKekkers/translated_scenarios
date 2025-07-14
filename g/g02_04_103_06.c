@@ -10,7 +10,7 @@ VoicePlay("G020410306_04_010");
 MsgDisp("Nanatsumori","Out of all my classmates, you're the only
 one who knows all the different side of
 me.");
-MsgDisp("主人公","YEah");
+MsgDisp("主人公","Yeah");
 ChMotion(4,0,1);
 VoicePlay("G020410306_04_020");
 MsgDisp("Nanatsumori","Before, I told you I crossdressed.");

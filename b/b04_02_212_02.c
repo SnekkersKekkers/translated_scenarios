@@ -54,7 +54,7 @@ everyone?");
         MsgDisp("Sassa","I see, I'll try my best to become like
 that...then maybe I can be made into some
 kind of mascot character?");
-        MsgDisp("主人公","Hehe, If` it's ｛颯砂＊＊｝, How about a
+        MsgDisp("主人公","Hehe, If` it's ｛颯砂＊＊｝, how about a
 character like that horse plushie?");
         ChEye(2,0);
         ChMouth(2,3);

@@ -2,7 +2,7 @@ BGOpen("ho210",2);
 ScrFadeIn(0);
 SEPlay("EV_SE_080");
 Wait(20,0);
-MsgDisp("主人公","(I became a Habacha journalist.
+MsgDisp("主人公","(I became a Habatcher journalist.
 I gave in my first article and got
 \"Journalist Level 1\"!)");
 SEPlay("EV_SE_787");

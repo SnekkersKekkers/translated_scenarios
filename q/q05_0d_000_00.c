@@ -37,7 +37,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("Q050D00000_21_010");
     MsgDisp("Michiru","Let's make lot of memories together.");
     MsgDisp("主人公","(Together with ｛ひかる＊｝ and
-｛みちる＊｝, This is gonna be fun!)");
+｛みちる＊｝, this is gonna be fun!)");
     break ;
     case 1:
     ChEye(22,2);

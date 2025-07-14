@@ -75,7 +75,7 @@ quiet too.");
         Wait(70,0);
         MsgDisp("主人公","(When he says, \"we\", ｛御影＊＊｝ means
 me and him, right?
-I feel kind of weird...))");
+I feel kind of weird...)");
         SEStop("EV_SE_GAYA_023",1);
         break ;
         default :

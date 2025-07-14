@@ -35,9 +35,9 @@ This way please!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","((This year we're serving herb tea and
+    MsgDisp("主人公","(This year we're serving herb tea and
 selling vegetables. It would be nice if it
-was well-received...))");
+was well-received...)");
     MsgClose();
     ChOpen(3,254,4,0,0,#1,#1,0,0);
     VoicePlay("P630300001_03_030");

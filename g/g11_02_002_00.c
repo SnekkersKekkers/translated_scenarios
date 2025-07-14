@@ -51,7 +51,7 @@ BGMVol(0.5,2);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoicePlay("G110200200_02_040");
-MsgDisp("Sassa","Ah, I read the Habacha column!");
+MsgDisp("Sassa","Ah, I read the Habatcher column!");
 MsgDisp("主人公","Really?
 ...How was it?");
 ChEye(2,1);

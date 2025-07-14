@@ -28,7 +28,7 @@ immediately circled 'advance onto
 high school'.");
 MsgClear();
 VoicePlay("Y300600100_42_000");
-MsgDisp("Male Student","\"Must be nice to be Himuroー, The high
+MsgDisp("Male Student","\"Must be nice to be Himuroー, the high
 school's vice principal is his
 relative.\"");
 MsgDisp("","After homeroom endedー, immediately

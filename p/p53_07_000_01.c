@@ -59,7 +59,7 @@ But...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P530700001_07_050");
-    MsgDisp("Mikage","｛主人公｝, You seem a bit more
+    MsgDisp("Mikage","｛主人公｝, you seem a bit more
 composed, huh?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝. I'm not composed!");
     ChEye(7,0);

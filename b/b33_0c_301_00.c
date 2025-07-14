@@ -78,7 +78,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30100_07_020");
-MsgDisp("Mikage","Ohh, You're thinking about it huh～ Male
+MsgDisp("Mikage","Ohh, you're thinking about it huh～ Male
 high school students, man! 4 people
 walking side by side. So, how should we do
 this?");

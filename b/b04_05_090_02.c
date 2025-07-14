@@ -91,7 +91,7 @@ garden at night with ｛柊＊＊＊｝.");
         VoicePlay("B040509002_05_080");
         MsgDisp("Hiiragi","The crucial part is to be with you at
 night, and not to look at plants!");
-        MsgDisp("主人公","(｛柊＊＊＊｝, You can't say those kinds
+        MsgDisp("主人公","(｛柊＊＊＊｝, you can't say those kinds
 of things at a botanical garden?)");
         break ;
         default :

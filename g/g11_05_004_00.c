@@ -70,7 +70,7 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500400_05_050");
-MsgDisp("Hiiragi","Because, when I see you, You're calmly
+MsgDisp("Hiiragi","Because, when I see you, you're calmly
 facing the canvas. Or happily hanging out
 with the Hanatsubakis──");
 VoicePlay("G110500400_05_060");

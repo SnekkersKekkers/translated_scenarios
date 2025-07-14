@@ -73,7 +73,7 @@ VoicePlay("D010200300_02_070");
 MsgDisp("Sassa","So, what are you up to?");
 MsgDisp("主人公","I'm also working part-time.
 I'm trying to get something fun to report
-on for Habacha.");
+on for Habatcher.");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_080");
@@ -94,7 +94,7 @@ StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_100");
 MsgDisp("Sassa","Ooh, that's good.
-If you talk about the Octathlon on Habacha
+If you talk about the Octathlon on Habatcher
 it might get some more attention!");
 BGMStop();
 MsgClose();

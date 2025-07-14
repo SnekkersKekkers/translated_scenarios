@@ -18,7 +18,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020110000_01_020");
 MsgDisp("Kazama","It's in a garden where lot's of flowers
-are blooming, You were hanging out with
+are blooming, you were hanging out with
 some guys I didn't know.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);

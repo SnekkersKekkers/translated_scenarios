@@ -62,7 +62,7 @@ need, your class, and your name.");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P830700001_07_030");
-    MsgDisp("Mikage","｛主人公｝, You're busy.");
+    MsgDisp("Mikage","｛主人公｝, you're busy.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝! Did you want
 something?");
     ChEye(7,0);

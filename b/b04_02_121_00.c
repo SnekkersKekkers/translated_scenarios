@@ -10,8 +10,8 @@ ChMouth(2,2);
 ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040212100_02_000");
-MsgDisp("Sassa","The flea market is popular huh?");
-MsgSel("Let's find some bargains!","It seems like fin to set up a store","It's an environmentally-friendly event");
+MsgDisp("Sassa","The flea market is popular, huh?");
+MsgSel("Let's find some bargains!","It seems fun to set up a store.","It's an environmentally-friendly event.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
