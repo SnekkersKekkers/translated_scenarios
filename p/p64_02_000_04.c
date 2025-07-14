@@ -4,7 +4,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoiceEVSPlay(2);
 VoicePlay("P640200004_02_000");
-MsgDisp("Sassa","｛主人公｝, Thank you for the meal.");
+MsgDisp("Sassa","｛主人公｝, thank you for the meal.");
 MsgDisp("主人公","｛颯砂＊＊｝, how did it taste?");
 ChEye(2,0);
 ChMouth(2,4);

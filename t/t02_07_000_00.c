@@ -13,7 +13,7 @@ ChLayout(0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020700000_07_010");
 MsgDisp("Mikage","Congratulations on graduating.");
-MsgDisp("主人公","｛御影＊＊｝, Thank you, but why
+MsgDisp("主人公","｛御影＊＊｝, thank you, but why
 ......are you here?");
 ChEye(7,2);
 ChMouth(7,3);

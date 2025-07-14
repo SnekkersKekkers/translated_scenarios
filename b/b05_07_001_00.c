@@ -15,7 +15,7 @@ MsgClose();
 SEWait();
 BGOpen("ho000",2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝, Thank you for walking me
+MsgDisp("主人公","｛御影＊＊｝, thank you for walking me
 home.");
 ChEye(7,0);
 ChMouth(7,0);

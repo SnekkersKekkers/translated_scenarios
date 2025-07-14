@@ -96,7 +96,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","｛颯砂＊＊｝, are you not good with milk?");
 VoicePlay("B050200000_02_100");
 MsgDisp("Sassa","I can drink it.
-But isn't it kind of warm?");
+But warm milk is kind of...");
 MsgDisp("主人公","Freshly squeezed is delicious though.");
 ChEye(2,0);
 ChMouth(2,3);

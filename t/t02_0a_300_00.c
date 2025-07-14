@@ -125,7 +125,7 @@ ScrFadeIn(0);
 VoicePlay("T020A30000_06_010");
 MsgDisp("Himuro","Senpais, congratulations on your
 graduation.");
-MsgDisp("主人公","｛氷室＊＊｝, Thank you.");
+MsgDisp("主人公","｛氷室＊＊｝, thank you.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);

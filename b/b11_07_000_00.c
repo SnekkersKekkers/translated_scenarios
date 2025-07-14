@@ -99,7 +99,7 @@ ChPosition(7,0);
 VoicePlay("B110700000_07_060");
 MsgDisp("Mikage","Phew...
 poor guy.");
-MsgDisp("主人公","Umm...｛御影＊＊｝, Thank you very much
+MsgDisp("主人公","Umm...｛御影＊＊｝, thank you very much
 for saving me.");
 ChEye(7,2);
 ChMouth(7,3);

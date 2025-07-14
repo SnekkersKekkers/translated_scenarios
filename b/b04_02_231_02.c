@@ -90,7 +90,7 @@ It's a gentleman's agreement.");
         ChMotion(2,4);
         VoicePlay("B040223102_02_100");
         MsgDisp("Sassa","Alright, then next...");
-        MsgDisp("主人公","(｛颯砂＊＊｝, Thanks for always looking
+        MsgDisp("主人公","(｛颯砂＊＊｝, thanks for always looking
 out for me.)");
         break ;
         default :

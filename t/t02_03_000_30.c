@@ -28,5 +28,5 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoiceEVSPlay(3);
 VoicePlay("T020300030_03_030");
-MsgDisp("Honda","｛主人公｝, Thank you.
+MsgDisp("Honda","｛主人公｝, thank you.
 But I don't want this to be the end.");

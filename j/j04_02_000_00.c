@@ -85,7 +85,7 @@ Yeah, then I guess I don't have a choice.");
         MsgDisp("Sassa","Don't apologize.
 You didn't do anything wrong.
 I'll call on you again.");
-        MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, Thank you.");
+        MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, thank you.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

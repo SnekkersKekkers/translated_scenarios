@@ -6,7 +6,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChOpen(2,253,4,0,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, Thank you for walking me
+MsgDisp("主人公","｛颯砂＊＊｝, thank you for walking me
 home.");
 MsgDispSksp(1,4);
 ChEye(2,0);

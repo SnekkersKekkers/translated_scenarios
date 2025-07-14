@@ -37,7 +37,7 @@ ChEyeOpenLevel(8,#1);
 VoicePlay("A020830000_08_010");
 MsgDisp("Shirahane?","I just finished up, so I'll pitch
 in here.");
-MsgDisp("主人公","Ah, Thanks.
+MsgDisp("主人公","Ah, thanks.
 Uhm......");
 ChMouth(8,3);
 ChMotion(8,0,1);

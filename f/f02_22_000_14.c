@@ -37,7 +37,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200014_22_040");
-MsgDisp("Hikaru","Mari, Thank you for always being my
+MsgDisp("Hikaru","Mari, thank you for always being my
 friend. We'll continue to be friends from
 here on out, right?");
 MsgDisp("主人公","Yeah, of course!");

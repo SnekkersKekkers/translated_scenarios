@@ -45,7 +45,7 @@ You look excited today.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("Q040700000_07_040");
-    MsgDisp("Mikage","Yeah, Thanks to the cheerful greeting, I'm
+    MsgDisp("Mikage","Yeah, thanks to the cheerful greeting, I'm
 fully awake.
 So, what's up?");
     MsgDisp("主人公","Yes. For today's free period, could you

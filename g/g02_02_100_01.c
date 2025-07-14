@@ -26,7 +26,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoiceEVSPlay(2);
 VoicePlay("G020210001_02_030");
-MsgDisp("Sassa","｛主人公｝, Thanks for today......");
+MsgDisp("Sassa","｛主人公｝, thanks for today......");
 MsgDisp("主人公","Umm...... ｛颯砂＊＊｝, I also had
 fun......");
 ChEye(2,0);

@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_000");
-    MsgDisp("Honda","｛主人公｝, Thanks for going with me
+    MsgDisp("Honda","｛主人公｝, thanks for going with me
 for the free period.");
     ChEye(3,4);
     ChMouth(3,4);

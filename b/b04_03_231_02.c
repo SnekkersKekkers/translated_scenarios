@@ -119,7 +119,7 @@ Come on, let's go!");
         VoicePlay("B040323102_03_110");
         MsgDisp("Honda","As I thought...
 I think that's fine for now.");
-        MsgDisp("主人公","(｛本多＊＊｝, Thank you for challenging
+        MsgDisp("主人公","(｛本多＊＊｝, thank you for challenging
 yourself.)");
         break ;
         default :

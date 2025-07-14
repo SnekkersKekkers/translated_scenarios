@@ -8,7 +8,7 @@ ChCheek(1,0);
 VoicePlay("T020101000_01_670");
 MsgDisp("Kazama","......I see.");
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
-MsgDisp("主人公","｛風真＊＊｝, Thank you for always
+MsgDisp("主人公","｛風真＊＊｝, thank you for always
 thinking of me but......I'm sorry.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -48,7 +48,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020101000_01_720");
-MsgDisp("Kazama","But, Thank you.");
+MsgDisp("Kazama","But, thank you.");
 MsgDisp("主人公","｛風真＊＊｝......");
 ChEye(1,2);
 ChMouth(1,3);

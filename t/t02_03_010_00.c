@@ -69,7 +69,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("T020301000_03_090");
-MsgDisp("Honda","Haha, Thanks to you, I realized that
+MsgDisp("Honda","Haha, thanks to you, I realized that
 people are most important to me.
 My family, my friends......you.");
 ChEye(3,4);
