@@ -85,9 +85,8 @@ VoicePlay("B070701000_07_100");
 MsgDisp("Mikage","So, you shouldn't think about it so
 seriously right?");
 MsgDisp("主人公","Yes...");
-MsgDisp("主人公","(It was weighing on ｛御影＊＊｝'s
-mind that I had asked him about love
-before...)");
+MsgDisp("主人公","(It was weighing on ｛御影＊＊｝'s mind
+that I had asked him about love before...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

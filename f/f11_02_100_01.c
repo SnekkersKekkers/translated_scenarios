@@ -46,8 +46,8 @@ ChEyeOpenLevel(2,8);
 VoicePlay("F110210001_02_040");
 MsgDisp("Sassa","Well, I did make that promise...");
 MsgDisp("主人公","Hehe. Seems like the culture festival is
-becoming more like ｛颯砂＊＊｝'s track
-and field class.");
+becoming more like ｛颯砂＊＊｝'s track and
+field class.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

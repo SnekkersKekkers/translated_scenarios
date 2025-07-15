@@ -113,8 +113,8 @@ happy.");
 VoicePlay("D010200100_02_050");
 MsgDisp("Sassa","But I want to get first place in every
 event......");
-MsgDisp("主人公","(Eh......Was that ｛颯砂＊＊｝'s voice
-just now?)");
+MsgDisp("主人公","(Eh......Was that ｛颯砂＊＊｝'s voice just
+now?)");
 VoicePlay("D010200100_39_080");
 MsgDisp("Manager","That's enough. Sassa is just competing on
 a different level from us. Nothing we say

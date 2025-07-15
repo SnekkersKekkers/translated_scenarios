@@ -98,8 +98,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100200_01_090");
 MsgDisp("Kazama","I sound just like dad, don't I?");
-MsgDisp("主人公","｛風真＊＊｝'s dad has an antique store
-in England, right?");
+MsgDisp("主人公","｛風真＊＊｝'s dad has an antique store in
+England, right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

@@ -36,8 +36,8 @@ ChMotion(2,3);
 VoicePlay("P640200004_02_040");
 MsgDisp("Sassa","Seeing you working in an apron, I'd become
 a regular if this were an everyday shop.");
-MsgDisp("主人公","(Seems like this fits ｛颯砂＊＊｝'s
-tastes perfectly.
+MsgDisp("主人公","(Seems like this fits ｛颯砂＊＊｝'s tastes
+perfectly.
 Yay, a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

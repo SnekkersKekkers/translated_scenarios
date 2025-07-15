@@ -84,8 +84,7 @@ BGMStop();
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(I always work out, so I can run with
-ease!
-But, don't sleep, ｛颯砂＊＊｝... )");
+ease! But, don't sleep, ｛颯砂＊＊｝... )");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

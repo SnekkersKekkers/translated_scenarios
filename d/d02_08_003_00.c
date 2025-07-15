@@ -71,8 +71,8 @@ ChEyeOpenLevel(8,0);
 ChCheek(8,5);
 VoicePlay("D020800300_08_070");
 MsgDisp("Shirahane","Hehe......Really?");
-MsgDisp("主人公","(Hehe! I bet ｛大地＊＊｝'s siblings
-also shine brightly.)");
+MsgDisp("主人公","(Hehe! I bet ｛大地＊＊｝'s siblings also
+shine brightly.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

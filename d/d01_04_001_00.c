@@ -174,8 +174,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(4,0,30);
 MsgDisp("主人公","(The sweets were delicious but......
-Feeling ｛七ツ森＊｝'s hand on my
-cheek made my heart race like crazy......)");
+Feeling ｛七ツ森＊｝'s hand on my cheek
+made my heart race like crazy......)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(4,0);

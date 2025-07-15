@@ -45,8 +45,8 @@ VoicePlay("F100330000_22_020");
 MsgDisp("Hikaru","That's right, it's a 
 super cute lette♪");
 ChMouth(21,0);
-MsgDisp("主人公","I see, so ｛本多＊＊｝'s sister is a fan
-of you two?");
+MsgDisp("主人公","I see, so ｛本多＊＊｝'s sister is a fan of
+you two?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

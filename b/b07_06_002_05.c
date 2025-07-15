@@ -37,8 +37,7 @@ MsgDisp("Himuro","If you're worried about being the only
 girl, that's nonsense.
 That's all.");
 MsgDisp("主人公","Yeah, thank you.");
-MsgDisp("主人公","(That's ｛氷室＊＊｝'s way of supporting
-me.
+MsgDisp("主人公","(That's ｛氷室＊＊｝'s way of supporting me.
 I'm happy.)");
 BGMStop();
 MsgClose();

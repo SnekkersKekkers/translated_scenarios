@@ -34,8 +34,7 @@ VoicePlay("F020200011_02_030");
 MsgDisp("Sassa","I'd like to be decent about it, but I'm
 not as tasteful as Ryota and others.
 It'll end up a joke.");
-MsgDisp("主人公","I'm looking forward to ｛颯砂＊＊｝'s
-joke.");
+MsgDisp("主人公","I'm looking forward to ｛颯砂＊＊｝'s joke.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

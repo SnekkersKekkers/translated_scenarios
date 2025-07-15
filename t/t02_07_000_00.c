@@ -107,7 +107,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020700000_07_130");
 MsgDisp("Mikage","On the night of the christmas party, I
 became sure of my own feelings.");
-MsgDisp("主人公","｛御影＊＊｝'s......feelings?");
+MsgDisp("主人公","｛御影＊＊｝'s...... feelings?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

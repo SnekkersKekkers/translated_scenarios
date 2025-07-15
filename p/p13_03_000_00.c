@@ -19,8 +19,8 @@ gathering...)");
     MsgDisp("Honda","Ah, perhaps......
 Molly, as in Kojiro-sensei's pet cow∋");
     MsgDisp("主人公","｛本多＊＊｝, welcome! Yes, it's
-｛御影＊＊｝'s family cow Molly. If
-you like, do you want to try the maze?");
+｛御影＊＊｝'s family cow Molly. If you
+like, do you want to try the maze?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

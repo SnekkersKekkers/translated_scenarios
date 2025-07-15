@@ -45,8 +45,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020120300_01_050");
 MsgDisp("Kazama","The sporty type?
 Wild type?");
-MsgDisp("主人公","Hmm, ｛風真＊＊｝'s usual fashion is
-nice.");
+MsgDisp("主人公","Hmm, ｛風真＊＊｝'s usual fashion is nice.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
