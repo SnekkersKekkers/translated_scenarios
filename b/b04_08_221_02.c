@@ -39,7 +39,7 @@ Or are you serious?");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("B040822102_08_030");
-        MsgDisp("Shirahane","...But that's right, Everytime I come here
+        MsgDisp("Shirahane","...But that's right, everytime I come here
 with you, it feels brand new.");
         ChEye(8,4);
         ChMouth(8,0);

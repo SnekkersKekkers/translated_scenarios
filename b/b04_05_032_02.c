@@ -56,7 +56,7 @@ consideration.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040503202_05_050");
-        MsgDisp("Hiiragi","Properly speaking, Even though I'm the one
+        MsgDisp("Hiiragi","Properly speaking, even though I'm the one
 who should be making sure you're having
 fun, it's pathetic of me.");
         MsgDisp("主人公","No, I'm always having fun.");

@@ -66,7 +66,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q100400000_04_080");
 MsgDisp("Nanatsumori","Dw. I've already checked most of the
-shops, All I have to do now is buy. More
+shops, all I have to do now is buy. More
 importantly......");
 ChEye(4,4);
 ChMouth(4,3);

@@ -40,7 +40,7 @@ MsgDisp("Male Student","\"Ah, Himuro-senpai!
 Just the person I needed.\"");
 MsgDisp("","Just as I was coming out the
 staffroom, having finished some
-business, A junior suddenly called
+business, a junior suddenly called
 out to me.");
 VoicePlay("Y300600500_40_010");
 MsgDisp("Male Student","\"Could you do a final check of the

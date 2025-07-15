@@ -8,7 +8,7 @@ MsgDisp("","Absentmindedly, and being unable to
 focus, I put the wrong shoes on,
 tripped on a step, and wore my
 outdoor shoes into school.");
-MsgDisp("","Finally, In spite of me being in the
+MsgDisp("","Finally, in spite of me being in the
 middle of the lesson I checked my
 phone, and almost had it confiscated
 by the teacher.");

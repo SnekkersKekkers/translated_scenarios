@@ -15,7 +15,7 @@ MsgDisp("Nanatsumori","This is what I call a masterpiece.
 It's so worth shooting.");
 MsgDisp("主人公","Yeah, for sure.
 Oh, with this scenery in the background,
-Shall I take a picture, ｛七ツ森＊｝?");
+shall I take a picture, ｛七ツ森＊｝?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

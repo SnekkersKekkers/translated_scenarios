@@ -44,7 +44,7 @@ rollercoaster...I'm free anytime.");
         ChMotion(5,5);
         VoicePlay("B040523102_05_030");
         MsgDisp("Hiiragi","Ah, 
-There are lots of other things too.");
+there are lots of other things too.");
         MsgDateResultDisp();
         break ;
         case 4:

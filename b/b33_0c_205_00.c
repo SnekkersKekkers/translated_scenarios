@@ -77,7 +77,7 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20500_05_020");
 MsgDisp("Hiiragi","Inori-kun, 
-Please teach me next too.");
+please teach me next too.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

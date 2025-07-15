@@ -77,7 +77,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C05100_07_030");
-MsgDisp("Mikage","｛主人公｝, Why is it only you who is
+MsgDisp("Mikage","｛主人公｝, why is it only you who is
 that surprised?");
 ChEye(5,3);
 ChMouth(5,2);

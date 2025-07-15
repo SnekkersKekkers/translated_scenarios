@@ -18,7 +18,7 @@ ChEye(5,4);
 ChMotion(5,3);
 VoicePlay("B360501100_05_010");
 MsgDisp("Hiiragi","Yeah. You can see the sea, mountains, the
-town, All of Habataki City.");
+town, all of Habataki City.");
 VoicePlay("B360501100_05_020");
 MsgDisp("Hiiragi","This is really a wonderful spot.");
 MsgDisp("主人公","Yeah. You can see all the great parts of

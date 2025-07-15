@@ -11,7 +11,7 @@ VoicePlay("M010700000_07_020");
 MsgDisp("Mikage","Just now I heard about it from your mom.
 Don't force yourself, heal up right.
 Later.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝, Please waii——Ahhh!");
+MsgDisp("主人公","Ah, ｛御影＊＊｝, please waii——Ahhh!");
 ScrQuake(1);
 VoicePlay("M010700000_07_030");
 MsgDisp("Mikage","Hey, you alright?∋");

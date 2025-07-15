@@ -54,7 +54,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_070");
-MsgDisp("Nanatsumori","Well......your feelings aside, Is this
+MsgDisp("Nanatsumori","Well......your feelings aside, is this
 what they call male camaraderie?");
 ChEye(4,4);
 ChMouth(4,0);

@@ -38,7 +38,7 @@ Is that okay?");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040623202_06_030");
-        MsgDisp("Himuro","...By the way, Have you gone on here with
+        MsgDisp("Himuro","...By the way, have you gone on here with
 other guys?");
         MsgDisp("主人公","Are you curious?");
         ChEye(6,0);

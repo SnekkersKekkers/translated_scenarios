@@ -45,7 +45,7 @@ Let's go for a swim first.");
     ChEyeOpenLevel(6,0);
     VoicePlay("B040606101_06_030");
     MsgDisp("Himuro","I had a proper meal before leaving the
-house, Unfortunately you're mistaken.");
+house, unfortunately you're mistaken.");
     MsgDateResultDisp();
     break ;
     default :

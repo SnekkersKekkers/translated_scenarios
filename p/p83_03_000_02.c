@@ -76,7 +76,7 @@ matter?");
     VoicePlay("P830300002_03_060");
     MsgDisp("Honda","A takoyaki meal ticket isn't really lost
 property...");
-    MsgDisp("主人公","Eh, Did ｛本多＊＊｝ lose it?");
+    MsgDisp("主人公","Eh, did ｛本多＊＊｝ lose it?");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,2,1);

@@ -6,7 +6,7 @@ ChMotion(7,3);
 VoicePlay("P640700004_07_000");
 MsgDisp("Mikage","Delicious! A salad with freshly harvested
 vegetables is the best!");
-MsgDisp("主人公","｛御影＊＊｝, Do you like it?");
+MsgDisp("主人公","｛御影＊＊｝, do you like it?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

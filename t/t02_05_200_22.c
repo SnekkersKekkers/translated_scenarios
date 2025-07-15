@@ -9,7 +9,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,9);
 VoiceEVSPlay(5);
 VoicePlay("T020520022_05_000");
-MsgDisp("Hiiragi","｛主人公｝, What's the matter?");
+MsgDisp("Hiiragi","｛主人公｝, what's the matter?");
 MsgDisp("主人公","I was worried I couldn't fully express it
 in words......
 I also like ｛柊＊＊＊｝.");

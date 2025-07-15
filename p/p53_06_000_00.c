@@ -86,7 +86,7 @@ Well, I thought as much.");
     VoicePlay("P530600000_06_080");
     MsgDisp("Himuro","You're getting more nervous than
 necessary. You're not performing on your
-own, Why not take it easier?");
+own, why not take it easier?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

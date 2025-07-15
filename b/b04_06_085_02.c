@@ -97,7 +97,7 @@ just now?");
 than if you were to thank me for being
 worried.");
         MsgDisp("主人公","Yeah... um, 
-Well, thanks after all.");
+well, thanks after all.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

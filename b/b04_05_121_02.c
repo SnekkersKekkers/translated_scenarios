@@ -47,7 +47,7 @@ still for a long time.");
         ChMotion(5,0);
         VoicePlay("B040512102_05_030");
         MsgDisp("Hiiragi","Are you interested?");
-        MsgDisp("主人公","｛柊＊＊＊｝, Do you not like it that
+        MsgDisp("主人公","｛柊＊＊＊｝, do you not like it that
 much?");
         ChEye(5,2);
         ChMotion(5,4);

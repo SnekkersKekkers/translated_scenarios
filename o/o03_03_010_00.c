@@ -30,7 +30,7 @@ about my partner......)");
     ChOpen(3,30,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("O030301000_03_020");
-    MsgDisp("Honda","｛主人公｝, What's up?");
+    MsgDisp("Honda","｛主人公｝, what's up?");
     MsgDisp("主人公","Ah, ｛本多＊＊｝. I haven't found a partner
 for the three-legged race, yet......");
     ChEye(3,4);

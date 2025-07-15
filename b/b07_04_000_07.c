@@ -36,7 +36,7 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 ChCheek(4,10);
 VoicePlay("B070400000_04_460");
-MsgDisp("Nanatsumori","Ah～...no, What's up with that poem just
+MsgDisp("Nanatsumori","Ah～...no, what's up with that poem just
 now. No, forget it. Forget just now.");
 MsgDisp("主人公","The sky that is your dream...
 The little flowers blooming by the

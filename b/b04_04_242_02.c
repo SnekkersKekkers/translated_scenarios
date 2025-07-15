@@ -35,7 +35,7 @@ Let's take it easy.");
         ChMotion(4,0,1);
         VoicePlay("B040424202_04_020");
         MsgDisp("Nanatsumori","Not yet you say, 
-When will you move?");
+when will you move?");
         MsgDateResultDisp();
         break ;
         case 4:

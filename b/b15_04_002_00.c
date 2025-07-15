@@ -18,7 +18,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B150400200_04_020");
-MsgDisp("Nanatsumori","Ahー, Heyー...
+MsgDisp("Nanatsumori","Ahー, heyー...
 Ah～...");
 MsgDisp("主人公","Sorry, 
 I won't touch you anymore.");

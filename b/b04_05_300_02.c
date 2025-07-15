@@ -75,7 +75,7 @@ are really messy.");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040530002_05_080");
-        MsgDisp("Hiiragi","Yes, As reality is filled with problems
+        MsgDisp("Hiiragi","Yes, as reality is filled with problems
 you cannot tidy away...");
         ChEye(5,3);
         ChMotion(5,0);

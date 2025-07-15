@@ -30,7 +30,7 @@ to come.)");
     MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030601000_06_020");
     MsgDisp("Himuro","Hey, it's me.");
-    MsgDisp("主人公","Oh, ｛氷室＊＊｝, Did you get my voicemail?");
+    MsgDisp("主人公","Oh, ｛氷室＊＊｝, did you get my voicemail?");
     VoicePlay("J030601000_06_030");
     MsgDisp("Himuro","Heard it.
 Okay, let's go.");

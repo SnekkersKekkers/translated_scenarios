@@ -33,7 +33,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720001_07_040");
 MsgDisp("Mikage","But even if you're here and participating,
-As long as you can do it, any result will
+as long as you can do it, any result will
 be fine. It will be good for the future.");
 ChEye(7,0);
 ChMouth(7,0);

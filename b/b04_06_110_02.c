@@ -63,7 +63,7 @@ Can we not?");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040611002_06_060");
-        MsgDisp("Himuro","Well, since you're insistent, IU'll think
+        MsgDisp("Himuro","Well, since you're insistent, I'll think
 about it.");
         MsgDisp("主人公","Yay!");
         MsgClose();

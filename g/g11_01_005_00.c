@@ -22,7 +22,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100500_01_000");
-MsgDisp("Kazama","Speaking of, What will you do with the
+MsgDisp("Kazama","Speaking of, what will you do with the
 wedding dresses from the cultural
 festival?");
 MsgDisp("主人公","It'll be on display on the mannequin in

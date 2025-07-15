@@ -68,7 +68,7 @@ MsgDisp("","Perhaps, she actually enjoyed skiing
 with me...");
 MsgDisp("","Suddenly I had this feeling.");
 MsgClear();
-MsgDisp("","Maybe I made a weird face, As she
+MsgDisp("","Maybe I made a weird face, as she
 tilted her head slightly, as if
 something was strange.");
 VoicePlay("Y300500100_05_050");

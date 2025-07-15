@@ -5,7 +5,7 @@ MsgDisp("主人公","(Well, I guess it's time to go home.
 ......Huh?)");
 VoiceEVSPlay(6);
 VoicePlay("E010630100_06_000");
-MsgDisp("Himuro?","｛主人公｝, What a coincidence.");
+MsgDisp("Himuro?","｛主人公｝, what a coincidence.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,0);

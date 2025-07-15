@@ -16,7 +16,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("P640600004_06_020");
-MsgDisp("Himuro","The appearance is also stylish, Isn't this
+MsgDisp("Himuro","The appearance is also stylish, isn't this
 the skill of a pro?");
 MsgDisp("主人公","That was the result of giving it my best,
 I guess.");

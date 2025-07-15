@@ -2,7 +2,7 @@ ScrFadeIn(0);
 VoicePlay("P840500002_39_000");
 MsgDisp("Male Student","Excuse me!
 Do you have any cardboard boxes?");
-MsgDisp("主人公","Yeーs, In this rental notebook, please
+MsgDisp("主人公","Yeーs, in this rental notebook, please
 write your year, class, and number of
 items taken. FInally press this counter
 machine for the number of items.");

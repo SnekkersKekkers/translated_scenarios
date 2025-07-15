@@ -31,7 +31,7 @@ MsgDispSksp(0);
 ChEye(33,0);
 ChMouth(33,1);
 VoicePlay("B110500000_33_020");
-MsgDisp("Guy","Hm, No can do, no can do.
+MsgDisp("Guy","Hm, no can do, no can do.
 It's unfortunate, but you're not the
 seeing type.");
 MsgDispSksp(1,5);
@@ -44,7 +44,7 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110500000_33_030");
-MsgDisp("Guy","I said you can't, Only the chosen ones can
+MsgDisp("Guy","I said you can't, only the chosen ones can
 see——");
 MsgDispSksp(1,5);
 ChEye(5,0);
@@ -57,7 +57,7 @@ MsgDispSksp(0);
 ChEye(33,2);
 ChMouth(33,1);
 VoicePlay("B110500000_33_040");
-MsgDisp("Guy","No, Is this guy scary?
+MsgDisp("Guy","No, is this guy scary?
 Is he?");
 MsgDisp("主人公","............");
 ChEye(33,2);

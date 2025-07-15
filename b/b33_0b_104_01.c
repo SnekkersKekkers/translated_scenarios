@@ -51,7 +51,7 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B330B10401_01_020");
-MsgDisp("Kazama","Wait wait, Why are you guys the only one
+MsgDisp("Kazama","Wait wait, why are you guys the only one
 hearing something?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -87,7 +87,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B10401_04_030");
-MsgDisp("Nanatsumori","Kazama, Do you really have such shameful
+MsgDisp("Nanatsumori","Kazama, do you really have such shameful
 thoughts?");
 ChEye(1,4);
 ChMouth(1,1);

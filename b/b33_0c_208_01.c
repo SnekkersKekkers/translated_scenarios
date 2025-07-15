@@ -99,7 +99,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B330C20801_07_050");
-MsgDisp("Mikage","Right, it works for catching fish, Put the
+MsgDisp("Mikage","Right, it works for catching fish, put the
 hook into its bottom, then out the head.");
 ChEye(5,0);
 ChMouth(5,4);

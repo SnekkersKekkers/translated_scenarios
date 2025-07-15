@@ -49,7 +49,7 @@ ChMouth(1,3);
 ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_060");
-MsgDisp("Kazama","Well, In the end I ended up getting
+MsgDisp("Kazama","Well, in the end I ended up getting
 dragged into it.");
 MsgDisp("主人公","(Hehe, as I thought ｛風真＊＊｝ is a good
 listener.)");

@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛風真＊＊｝, Recently you've been around
+MsgDisp("主人公","｛風真＊＊｝, recently you've been around
 ｛颯砂＊＊｝ and ｛氷室＊＊｝ a lot but, what
 sort of things do you talk about?");
 ChEye(1,2);

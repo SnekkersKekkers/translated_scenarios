@@ -50,7 +50,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020130100_01_070");
 MsgDisp("Kazama","It doesn't matter what firefly is around
-you, In the end, the one to stand by your
+you, in the end, the one to stand by your
 side is going to be me.");
 ChEye(1,4);
 ChMouth(1,2);

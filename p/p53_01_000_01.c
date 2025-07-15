@@ -27,7 +27,7 @@ us?");
     MsgDisp("Kazama","Wow, this is a huge success.
 Surely, there's no way we can make a
 mistake here right?");
-    MsgDisp("主人公","Ah, No......");
+    MsgDisp("主人公","Ah, no......");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);

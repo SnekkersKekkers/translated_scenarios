@@ -100,7 +100,7 @@ MsgDisp("主人公","Yes......");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_090");
-MsgDisp("Hiiragi","Nagasaki is lovely, but, Do you still miss
+MsgDisp("Hiiragi","Nagasaki is lovely, but, do you still miss
 Habataki City more?");
 MsgDisp("主人公","No, since it's only been three days.
 And you, ｛柊＊＊＊｝?");

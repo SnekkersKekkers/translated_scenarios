@@ -6,7 +6,7 @@ ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,5,0,3,#1,#1,0,2,0,30);
 VoicePlay("Q020C00100_07_000");
 MsgDisp("Mikage","Well then,
-Shall we go?");
+shall we go?");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);

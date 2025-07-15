@@ -70,7 +70,7 @@ over.");
     MsgDisp("Hiiragi","Haha! You said mean things, so I'm getting
 back at you.");
     MsgDisp("主人公","Come on......
-Ah, look, Shall we go?");
+Ah, look, shall we go?");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q090500000_05_090");

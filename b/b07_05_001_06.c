@@ -18,7 +18,7 @@ MsgDisp("主人公","Dependent on me?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_450");
-MsgDisp("Hiiragi","Right...but, Our bond is surprisingly
+MsgDisp("Hiiragi","Right...but, our bond is surprisingly
 strong.
 Please do not fret.");
 MsgDisp("主人公","Y-Yeah.");

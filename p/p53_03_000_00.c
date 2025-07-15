@@ -16,7 +16,7 @@ I'm getting nervous...)");
     ChOpen(3,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300000_03_000");
-    MsgDisp("Honda","｛主人公｝, What's the matter?");
+    MsgDisp("Honda","｛主人公｝, what's the matter?");
     MsgDisp("主人公","Ah, ｛本多＊＊｝... I'm a bit nervous...");
     ChEye(3,4);
     ChMouth(3,4);

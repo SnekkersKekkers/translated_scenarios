@@ -19,7 +19,7 @@ MsgDisp("Hiiragi","I am aware of the reason.
 It is you.");
 ChMotion(5,2);
 VoicePlay("G020510400_05_030");
-MsgDisp("Hiiragi","Watching the fireflies, In the midst of so
+MsgDisp("Hiiragi","Watching the fireflies, in the midst of so
 many, I wonder if I can be chosen by you.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510400_05_040");

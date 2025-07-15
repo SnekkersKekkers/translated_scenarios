@@ -29,7 +29,7 @@ ChMotion(1,4);
 VoicePlay("B360121201_01_030");
 MsgDisp("Kazama","I feel like someone's
 looking at me.");
-MsgDisp("主人公","Hehe ｛風真＊＊｝, Don't you want to hang
+MsgDisp("主人公","Hehe ｛風真＊＊｝, don't you want to hang
 out with everyone?");
 ChEye(1,0);
 ChMouth(1,2);

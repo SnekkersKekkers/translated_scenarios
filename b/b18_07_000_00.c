@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3);
     VoicePlay("B180700000_07_020");
     MsgDisp("Mikage","Oh, 
-Then, let's go with that for now.");
+then, let's go with that for now.");
     MsgDisp("主人公","Hehe, yeah.");
     ChEye(7,2);
     ChMouth(7,0);

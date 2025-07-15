@@ -44,7 +44,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P540100005_01_050");
-MsgDisp("Kazama","Oi, really, Don't tell me you're not
+MsgDisp("Kazama","Oi, really, don't tell me you're not
 satisfied with me.");
 MsgDisp("主人公","No, thank you. ｛風真＊＊｝.");
 ChEye(1,4);

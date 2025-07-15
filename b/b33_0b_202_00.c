@@ -86,7 +86,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20200_03_040");
 MsgDisp("Honda","No matter how he acted, when he came to
-like a woman, A romance was born.");
+like a woman, a romance was born.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

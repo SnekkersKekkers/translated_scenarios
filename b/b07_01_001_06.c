@@ -18,7 +18,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_310");
 MsgDisp("Kazama","Who knows?
 His evaluation criteria is a mystery,
-Well, he definitely finds us interesting.");
+well, he definitely finds us interesting.");
 MsgDisp("主人公","Hehe. It would be nice if we could all
 stick together from now on too.");
 ChMotion(1,0);

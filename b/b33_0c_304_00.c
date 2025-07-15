@@ -67,7 +67,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C30400_07_030");
-MsgDisp("Mikage","Since we're going anyways, Shall we get a
+MsgDisp("Mikage","Since we're going anyways, shall we get a
 boy-girl pair?");
 ChEye(6,0);
 ChMouth(6,0);

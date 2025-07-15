@@ -11,7 +11,7 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("D140B06000_04_000");
 MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","Huh? ｛七ツ森＊｝, What's wrong?");
+MsgDisp("主人公","Huh? ｛七ツ森＊｝, what's wrong?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);

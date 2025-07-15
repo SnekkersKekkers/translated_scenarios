@@ -8,7 +8,7 @@ ChMotion(2,5);
 ChCheek(2,10);
 ScrFadeIn(0);
 VoicePlay("B130200005_02_000");
-MsgDisp("Sassa","Wait a second, Don't move around so
+MsgDisp("Sassa","Wait a second, don't move around so
 vigorously.");
 MsgDisp("主人公","Eh? What's wrong?");
 ChEye(2,0);

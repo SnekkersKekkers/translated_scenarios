@@ -61,7 +61,7 @@ romantic?");
         VoicePlay("B040521102_05_050");
         MsgDisp("Hiiragi","Even after they retired, they wondered how
 the animals they were looking after were,
-And came to check how they were doing.");
+and came to check how they were doing.");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040521102_05_060");

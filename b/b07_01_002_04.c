@@ -1,6 +1,6 @@
 MsgDisp("主人公","Recently, ｛風真＊＊｝ you're with
 ｛本多＊＊｝ and ｛七ツ森＊｝ a lot but,
-What sort of things do you talk about?");
+what sort of things do you talk about?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);

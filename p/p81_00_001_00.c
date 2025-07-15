@@ -15,7 +15,7 @@ MsgDisp("Student Council President","From next week, for two weeks onwards we
 will begin the preparation period for the
 cultural festival.");
 VoicePlay("P810500100_41_020");
-MsgDisp("Student Council President","We, the student council executives, Have
+MsgDisp("Student Council President","We, the student council executives, have
 been entrusted with management of the
 cultural festival. Please also join us in
 preparations.");

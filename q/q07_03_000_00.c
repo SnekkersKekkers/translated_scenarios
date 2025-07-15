@@ -59,7 +59,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q070300000_03_050");
-MsgDisp("Honda","｛主人公｝, Here, look over there?");
+MsgDisp("Honda","｛主人公｝, here, look over there?");
 MsgDisp("主人公","Eh?
 Wow, such a big tower.");
 ChEye(3,0);

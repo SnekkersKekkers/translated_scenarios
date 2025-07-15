@@ -18,7 +18,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10201_05_000");
-MsgDisp("Hiiragi","Mikage-sensei, Rays and manta rays are
+MsgDisp("Hiiragi","Mikage-sensei, rays and manta rays are
 differen't are they not?");
 ChEye(7,0);
 ChMouth(7,0);

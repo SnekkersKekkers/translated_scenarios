@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to head home.
 ......Huh?)");
 VoicePlay("E010630200_06_000");
-MsgDisp("Himuro?","Reiichi-san, What do you think of that
+MsgDisp("Himuro?","Reiichi-san, what do you think of that
 Japanese sweet shop over there?");
 VoicePlay("E010630200_32_000");
 MsgDisp("VP Himuro?","I think if it's that product, it'll be

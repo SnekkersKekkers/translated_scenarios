@@ -33,7 +33,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C30100_06_010");
 MsgDisp("Himuro","Yanosuke-senpai, 
-Please don't get lost.");
+please don't get lost.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0,1);

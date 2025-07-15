@@ -26,7 +26,7 @@ VoicePlay("G020110102_01_030");
 MsgDisp("Kazama","If Honda and Nanatsumori were fireflies,
 they'd probably be glowing in rainbow
 colors.");
-MsgDisp("主人公","Hehe, What about ｛風真＊＊｝?");
+MsgDisp("主人公","Hehe, what about ｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

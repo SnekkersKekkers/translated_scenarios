@@ -60,7 +60,7 @@ SEPlay("EV_SE_712");
 VoicePlay("G110500900_05_040");
 MsgDisp("Hiiragi","Haha, thank you, I can't compare to you
 though.");
-MsgDisp("主人公","Seriously. The picture I drew, Isn't good
+MsgDisp("主人公","Seriously. The picture I drew, isn't good
 to the extent I can show ｛柊＊＊＊｝.");
 SEStop("EV_SE_712",0);
 ChEye(5,0);

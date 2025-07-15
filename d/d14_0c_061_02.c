@@ -16,7 +16,7 @@ VoicePlay("D140C06102_06_000");
 MsgDisp("Himuro","If Yanosuke-senpai is saying that, he must
 be very busy.");
 MsgDisp("主人公","Right. He's our class homeroom teacher,
-And the advisor for both the gardening
+and the advisor for both the gardening
 club and track and field club.");
 ChEye(5,2);
 ChMouth(5,4);

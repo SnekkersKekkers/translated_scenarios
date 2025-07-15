@@ -62,7 +62,7 @@ people heading to the first shrine
 visit was already beginning to
 increase.");
 MsgClear();
-MsgDisp("","Then suddenly, A woman wearing a
+MsgDisp("","Then suddenly, a woman wearing a
 kimono came into view. That woman
 shyly smiled to the family besides
 her.");

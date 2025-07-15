@@ -54,7 +54,7 @@ ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110500001_34_040");
 MsgDisp("Guy","No, no this is reality, 
-Isn't it weird?");
+isn't it weird?");
 MsgClose();
 SEPlay("EV_SE_580");
 ChClose(34);

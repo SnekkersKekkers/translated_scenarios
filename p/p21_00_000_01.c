@@ -11,7 +11,7 @@ MsgDisp("Chairperson","Hello. We are preparing for the cultural
 festival for the next two weeks.");
 VoicePlay("P210000001_45_010");
 MsgDisp("Chairperson","This year, we'll be hosting a school play,
-Please do your best to help with the
+please do your best to help with the
 preparations.");
 VoicePlay("P210000001_45_020");
 MsgDisp("Chairperson","Well then, take care.");

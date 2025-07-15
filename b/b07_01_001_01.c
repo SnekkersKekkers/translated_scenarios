@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛風真＊＊｝, Recently you've been talking
+MsgDisp("主人公","｛風真＊＊｝, recently you've been talking
 to ｛颯砂＊＊｝ often haven't you?");
 ChEye(1,2);
 ChMouth(1,0);

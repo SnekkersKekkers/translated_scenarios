@@ -31,7 +31,7 @@ VoicePlay("B070100002_01_360");
 MsgDisp("Kazama","What makes me seem like a girl?
 I can't accept it all.");
 MsgDisp("主人公","Umm, 
-What you ask...");
+what you ask...");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);

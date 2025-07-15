@@ -48,7 +48,7 @@ ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("B050800000_08_050");
 MsgDisp("Shirahane","Mr. Koi, Mr Koi,
-Please listen to me...");
+please listen to me...");
 MsgDisp("主人公","Waa, there's so many beautiful koi!");
 VoicePlay("B050800000_08_060");
 MsgDisp("Shirahane","Please give me your 

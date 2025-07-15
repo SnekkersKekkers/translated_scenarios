@@ -12,7 +12,7 @@ ChMotion(3,2,1);
 VoicePlay("T020320000_03_240");
 MsgDisp("Honda","I don't need to tell those two about that,
 right?");
-MsgDisp("主人公","Eh, Don't tell them.∋");
+MsgDisp("主人公","Eh, don't tell them.∋");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);

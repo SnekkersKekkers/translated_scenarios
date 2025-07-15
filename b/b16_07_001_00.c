@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160700100_07_000");
 MsgDisp("Mikage","...Heyー,
-You know, even I'm a guy too.");
+you know, even I'm a guy too.");
 MsgSel("I know that?","What does that mean?");
 switch (MsgSelRsltGet()){
     case 0:

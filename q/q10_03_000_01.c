@@ -30,7 +30,7 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("Q100300001_03_040");
 MsgDisp("Honda","Ah, look!
-That castella mascot, Isn't it cute?");
+That castella mascot, isn't it cute?");
 MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(3);
@@ -38,7 +38,7 @@ SEWait();
 VoicePlay("Q100300001_03_050");
 MsgDisp("Honda","Mhmhm, it's well made.
 There's some coarse grains at the bottom,
-And it's mouth-watering.");
+and it's mouth-watering.");
 VoicePlay("Q100300001_03_060");
 MsgDisp("Honda","Wait a bit!
 I'm gonna buy a keyholder of this mascot.");

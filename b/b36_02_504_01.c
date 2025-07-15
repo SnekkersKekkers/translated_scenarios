@@ -17,7 +17,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B360250401_02_010");
-MsgDisp("Sassa","When it's like this, It'd be nice if they
+MsgDisp("Sassa","When it's like this, it'd be nice if they
 also did it everyday.");
 MsgDisp("主人公","Isn't it special because it's for a
 limited time?");

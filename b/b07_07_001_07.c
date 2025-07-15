@@ -55,7 +55,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 ChCheek(7,4);
 VoicePlay("B070700001_07_600");
-MsgDisp("Mikage","Urgh, Gyaargh∈");
+MsgDisp("Mikage","Urgh, gyaargh∈");
 MsgDisp("主人公","Kyaa∋");
 ChEye(7,3);
 ChMouth(7,3);
