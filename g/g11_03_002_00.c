@@ -27,7 +27,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("G110300200_03_010");
-MsgDisp("Honda","Yep yep, Are you here......
+MsgDisp("Honda","Yep yep, are you here......
 to buy a reference book?");
 MsgDisp("主人公","Yeah, you guessed it.");
 ChEye(3,3);

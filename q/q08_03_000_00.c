@@ -15,7 +15,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("Q080300000_03_000");
     MsgDisp("Honda","Today was a full day.");
     MsgDisp("主人公","Yeah, it's because of you, ｛本多＊＊｝,
-Thanks for asking me!");
+thanks for asking me!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);

@@ -27,7 +27,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P740300003_03_020");
-MsgDisp("Honda","Nope, Since you weren't injured, you
+MsgDisp("Honda","Nope, since you weren't injured, you
 failed safely successfully!");
 MsgDisp("主人公","(｛本多＊＊｝, were you trying to cheer me
 up? But, I definitely didn't practice

@@ -93,7 +93,7 @@ ChMotion(5,0);
 VoicePlay("F100510002_05_080");
 MsgDisp("Hiiragi","That's right. I only just understood the
 meaning of \"past progressive tense.\",
-There's still a long way to go. Please
+there's still a long way to go. Please
 continue to help me, teacher.");
 MsgDisp("主人公","(I'm also having fun studying with
 ｛柊＊＊＊｝...! )");

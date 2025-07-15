@@ -48,7 +48,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P540200004_02_050");
-MsgDisp("Sassa","Without even realizing it, With this song
+MsgDisp("Sassa","Without even realizing it, with this song
 and you guys' performance, I think
 everyone has become a fan.");
 ChEye(2,0);

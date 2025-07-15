@@ -67,7 +67,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102110002_21_090");
-MsgDisp("Michiru","So Marie, please! I'll lend you this book,
+MsgDisp("Michiru","So Mari, please! I'll lend you this book,
 so please read it. Won't you share my
 feelings with me?");
 ChEye(21,4);
@@ -75,7 +75,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102110002_21_100");
 MsgDisp("Michiru","It's really painful to feel sad alone.
-Marie, let's worry together and talk about
+Mari, let's worry together and talk about
 it?");
 MsgDisp("主人公","(She's really emotionally invested in this
 manga. ｛みちる＊｝ really is a girly

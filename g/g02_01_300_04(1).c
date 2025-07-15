@@ -55,7 +55,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020130004_01_060");
 MsgDisp("Kazama","Nanatsumori enjoys purposefully making me
 deal with Honda.");
-MsgDisp("主人公","Hehe, At the centre of you three, is
+MsgDisp("主人公","Hehe, at the centre of you three, is
 ｛風真＊＊｝, huh.");
 ChEye(1,0);
 ChMouth(1,0);

@@ -9,7 +9,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140A04101_01_000");
 MsgDisp("Kazama","Right. It's not just a physical thing,
-There's also a lot of invisible force.");
+there's also a lot of invisible force.");
 MsgDisp("主人公","Hehe. It's because ｛颯砂＊＊｝ is always
 lively.");
 ChEye(6,0);

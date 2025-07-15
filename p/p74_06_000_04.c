@@ -51,7 +51,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P740600004_06_060");
-MsgDisp("Himuro","If there's a next time, Let me run as a
+MsgDisp("Himuro","If there's a next time, let me run as a
 candidate for the groom.");
 MsgDisp("主人公","Hehe, sure!");
 ChEye(6,0);

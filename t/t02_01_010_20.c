@@ -80,7 +80,7 @@ StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020101000_01_300");
-MsgDisp("Kazama","｛主人公｝, Let me see your face
+MsgDisp("Kazama","｛主人公｝, let me see your face
 properly.");
 MsgDisp("主人公","Eh?");
 VoicePlay("T020101000_01_310");

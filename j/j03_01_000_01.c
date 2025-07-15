@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Sorry.
 I have something on that day...");
     MsgDisp("主人公","Oh, I see,
-That's too bad......");
+that's too bad......");
     VoicePlay("J030100001_01_010");
     MsgDisp("Kazama","Yeah, see you around, mh?");
     MsgDisp("主人公","Yeah.

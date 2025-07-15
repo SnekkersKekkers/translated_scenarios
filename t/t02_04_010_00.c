@@ -77,7 +77,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("T020401000_04_110");
 MsgDisp("Nanatsumori","Now, 
-You've become the centre of my world.");
+you've become the centre of my world.");
 ChMotion(4,3,1);
 VoiceEVSPlay(4);
 VoicePlay("T020401000_04_120");

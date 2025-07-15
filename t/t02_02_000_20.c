@@ -47,7 +47,7 @@ VoicePlay("T020200020_02_050");
 MsgDisp("Sassa","Then, stand up straight and lift your chin
 a little.");
 MsgDisp("主人公","Hehe,
-Advice from when we ran together?");
+advice from when we ran together?");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

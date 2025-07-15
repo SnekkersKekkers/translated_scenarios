@@ -8,5 +8,5 @@ SEWait();
 MsgDisp("主人公","Hello, ｛本多＊＊｝?");
 VoicePlay("J140301000_03_000");
 MsgDisp("Honda","Oh, well!
-I know it's sudden, but.., Are you free
+I know it's sudden, but.., are you free
 this coming Sunday?");

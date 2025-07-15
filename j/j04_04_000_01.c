@@ -20,7 +20,7 @@ now?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040400001_04_010");
     MsgDisp("Nanatsumori","This coming Sunday,
-Are you free??");
+are you free??");
     MsgSel("Yeah, I'm free.", "I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:

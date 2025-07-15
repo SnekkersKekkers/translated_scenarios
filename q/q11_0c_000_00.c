@@ -76,7 +76,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_030");
 MsgDisp("Hiiragi","Hehe, surely.
-Let's accept it, Because he stayed home.");
+Let's accept it, because he stayed home.");
 MsgDisp("主人公","Yeah. I can't wait to give them to
 ｛氷室＊＊｝.");
 ChEye(7,0);

@@ -19,7 +19,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020210300_02_020");
-MsgDisp("Sassa","......Ah, Although sometimes I do reckless
+MsgDisp("Sassa","......Ah, although sometimes I do reckless
 things......");
 MsgDisp("主人公","Hm?");
 ChEye(2,0);

@@ -38,7 +38,7 @@ Let's go around together the next day too!");
     VoicePlay("Q080200000_02_030");
     MsgDisp("Sassa","Yes.
 Enjoyed alot.");
-    MsgDisp("主人公","Because we walked a lot, My legs are a bit
+    MsgDisp("主人公","Because we walked a lot, my legs are a bit
 tired.");
     ChEye(2,3);
     ChMouth(2,3);

@@ -1,3 +1,3 @@
 VoicePlay("J050601006_06_000");
-MsgDisp("Himuro","It might be cold, though, Wanna go to the
+MsgDisp("Himuro","It might be cold, though, wanna go to the
 beach?");

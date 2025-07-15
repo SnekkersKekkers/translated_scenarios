@@ -62,7 +62,7 @@ own child around here?");
 This is the kid.");
     VoicePlay("P830600002_45_000");
     MsgDisp("Girl","Uuugh... *sniff*...");
-    MsgDisp("主人公","It's alright, We'll find your Mom soon
+    MsgDisp("主人公","It's alright, we'll find your Mom soon
 okay?");
     ChEye(6,0);
     ChMouth(6,0);

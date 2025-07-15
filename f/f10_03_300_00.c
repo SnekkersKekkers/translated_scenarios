@@ -105,7 +105,7 @@ ChMotion(22,4,1);
 VoicePlay("F100330000_22_050");
 MsgDisp("Hikaru","The only one who likes 
 them is Dahon.");
-MsgDisp("主人公","(Pika-chan, Chiru-chan, Dahon, Marie...I
+MsgDisp("主人公","(Pika-chan, Chiru-chan, Dahon, Mari...I
 wonder what other people would think if
 they heard that?)");
 BGMStop();

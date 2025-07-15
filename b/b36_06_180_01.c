@@ -27,7 +27,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360618001_06_020");
 MsgDisp("Himuro","......Plus,
-Everyone's after you.");
+everyone's after you.");
 MsgDisp("主人公","Huh?
 That's not true——");
 ChEye(6,0);

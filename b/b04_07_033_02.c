@@ -93,7 +93,7 @@ It's scary to get accustomed to things.");
     ChMotion(7,0);
     VoicePlay("B040703302_07_090");
     MsgDisp("Mikage","There are a lot of high quality fish.
-Idiot fish, blackthroat sea perch, Aaah, I
+Idiot fish, blackthroat sea perch, aaah, I
 want to eat it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

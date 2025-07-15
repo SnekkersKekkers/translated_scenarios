@@ -45,7 +45,7 @@ ChMouth(5,0);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240500000_05_030");
-MsgDisp("Hiiragi","However, My governance is the flames of my
+MsgDisp("Hiiragi","However, my governance is the flames of my
 ideals.
 I cannot let it be extinguished.");
 SEPlay("EV_SE_736",0.2,0.7);

@@ -2,7 +2,7 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("T020211000_02_000");
-MsgDisp("Sassa?","｛主人公｝, Wait.");
+MsgDisp("Sassa?","｛主人公｝, wait.");
 SEPlay("EV_SE_872",0.5);
 Wait(46,0);
 ChOpen(2,254,7,4,0,#1,#1,0,0);
@@ -171,7 +171,7 @@ Wait(60);
 ChOpen(2,254,0,4,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(2);
 VoicePlay("T020211000_02_210");
-MsgDisp("Sassa","｛主人公｝, Once more.
+MsgDisp("Sassa","｛主人公｝, once more.
 I want you to run with me once more.");
 ChEye(2,4);
 ChMouth(2,0);

@@ -96,7 +96,7 @@ management staff, huh?");
     MsgDisp("Kazama","Yeah, yeah.
 Later then, don't push yourself too hard.");
     MsgDisp("主人公","Y-Yeah.
-Ah, ｛風真＊＊｝, Didn't you have some
+Ah, ｛風真＊＊｝, didn't you have some
 errands?");
     ChEye(1,0);
     ChMouth(1,3);

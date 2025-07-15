@@ -23,7 +23,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 VoicePlay("Q070201000_02_000");
-MsgDisp("Sassa?","Hey, Over here∈");
+MsgDisp("Sassa?","Hey, over here∈");
 MsgDisp("主人公","Eh? Ah...... ｛颯砂＊＊｝!");
 MsgClose();
 EnvAutoSet(0);

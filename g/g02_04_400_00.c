@@ -59,7 +59,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440000_04_090");
-MsgDisp("Nanatsumori","Yeah. Of course, My job was the catalyst,
+MsgDisp("Nanatsumori","Yeah. Of course, my job was the catalyst,
 but it was you who really changed my mind.");
 ChEye(4,2);
 ChMouth(4,0);

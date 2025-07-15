@@ -2,7 +2,7 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Umm... I'll clean up around here, After
+MsgDisp("主人公","Umm... I'll clean up around here, after
 that, I'll serve tea?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");

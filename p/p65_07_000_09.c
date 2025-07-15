@@ -27,7 +27,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P650700009_07_030");
-MsgDisp("Mikage","Vegetables aren't just for show, Make sure
+MsgDisp("Mikage","Vegetables aren't just for show, make sure
 you eat them at home.
 They're misshapen, but delicious.");
 MsgDisp("主人公","Yes...");

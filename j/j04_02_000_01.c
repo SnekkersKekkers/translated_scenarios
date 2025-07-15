@@ -57,7 +57,7 @@ call you right now.?");
 So?");
     VoicePlay("J040200001_02_050");
     MsgDisp("Sassa","Let's see, this Sunday,
-Are you free?");
+are you free?");
     MsgSel("Yeah, I'm free.","Sorry, I have to run an errand......");
     switch (MsgSelRsltGet()){
         case 0:

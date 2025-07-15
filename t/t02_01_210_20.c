@@ -82,7 +82,7 @@ StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020121000_01_320");
-MsgDisp("Kazama","｛主人公｝, Look this way.");
+MsgDisp("Kazama","｛主人公｝, look this way.");
 MsgDisp("主人公","Eh...okay.");
 VoicePlay("T020121000_01_330");
 MsgDisp("Kazama","Before those guys come...");

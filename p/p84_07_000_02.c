@@ -20,7 +20,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P840700002_07_020");
-MsgDisp("Mikage","...Nevertheless, For only one piece to be
+MsgDisp("Mikage","...Nevertheless, for only one piece to be
 left, seems like that was a great
 calculations.");
 MsgDisp("主人公","Yes. It was a coincidence but I was

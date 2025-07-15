@@ -8,7 +8,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q090200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, Mornin. Thanks in advance
+    MsgDisp("Sassa","｛主人公｝, mornin. Thanks in advance
 for today!");
     MsgDisp("主人公","Yeah!
 Well, let's go.");
@@ -36,7 +36,7 @@ Let's have fun today.");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q090200000_02_030");
-    MsgDisp("Sassa","｛主人公｝, Mornin.");
+    MsgDisp("Sassa","｛主人公｝, mornin.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,0);

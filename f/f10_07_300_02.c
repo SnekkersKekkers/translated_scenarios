@@ -45,7 +45,7 @@ ChEyeOpenLevel(22,10);
 VoicePlay("F100730002_22_010");
 MsgDisp("Hikaru","Hmm, it's actually boring that there's no
 problem.
-Right, Marie?");
+Right, Mari?");
 MsgDisp("主人公","Eh, um...
 I think it's good that he looks
 teacher-like...");

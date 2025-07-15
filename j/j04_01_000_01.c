@@ -62,7 +62,7 @@ Sunday.");
         break ;
         case 1:
         VoicePlay("J040100001_01_060");
-        MsgDisp("Kazama","......Good grief, Who are you saying no to
+        MsgDisp("Kazama","......Good grief, who are you saying no to
 and making plans.");
         MsgDisp("主人公","Uh, I'm sorry......");
         VoicePlay("J040100001_01_070");

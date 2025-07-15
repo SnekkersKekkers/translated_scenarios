@@ -11,8 +11,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("Q090300000_03_000");
-    MsgDisp("Honda","Good morning,
-Good day!");
+    MsgDisp("Honda","Good morning!");
     MsgDisp("主人公","Yeah, good morning, ｛本多＊＊｝.");
     ChEye(3,0);
     ChMouth(3,4);
@@ -24,9 +23,9 @@ Have no regrets——");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("Q090300000_03_020");
-    MsgDisp("Honda","Oh, look, We're wasting time, let's get
+    MsgDisp("Honda","Oh, look, we're wasting time, let's get
 going!");
-    MsgDisp("主人公","S, Sure!");
+    MsgDisp("主人公","S-Sure!");
     break ;
     case 3:
     ChEye(3,0);

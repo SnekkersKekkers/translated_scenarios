@@ -122,7 +122,7 @@ VoicePlay("P240700000_07_080");
 MsgDisp("Mikage","I had to give it my all for the students
 who are feeling frustrated");
 MsgDisp("主人公","Yes,
-Thank you very much!");
+thank you very much!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

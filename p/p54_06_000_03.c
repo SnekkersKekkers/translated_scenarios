@@ -36,7 +36,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P540600003_06_040");
-MsgDisp("Himuro","Well, On the point that I had my
+MsgDisp("Himuro","Well, on the point that I had my
 expectations betrayed, I want an apology.");
 MsgDisp("主人公","(I should have given it my all on a
 regular basis...)");

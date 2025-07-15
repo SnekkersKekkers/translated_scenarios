@@ -33,7 +33,7 @@ I'm doing things one by one.");
     VoicePlay("P830600001_06_020");
     MsgDisp("Himuro","Ah, right.");
     MsgDisp("主人公","Umm, 
-First things first, the cardboard——");
+first things first, the cardboard——");
     VoicePlay("P830600001_48_000");
     MsgDisp("School Girl","Excuse me!
 Do you have any spare duct tape?");

@@ -56,7 +56,7 @@ VoicePlay("T020160000_01_070");
 MsgDisp("Kazama","Hey, shall we go to a coffee shop?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","Ah......｛風真＊＊｝,Wait!");
+MsgDisp("主人公","Ah......｛風真＊＊｝, wait!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop(6);
 MsgClose();

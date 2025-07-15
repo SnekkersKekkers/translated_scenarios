@@ -71,7 +71,7 @@ was the real me.");
 MsgClear();
 MsgDisp("","Managerー......");
 MsgDisp("","The only one who knew both sides of
-me, Interacted with both normally,
+me, interacted with both normally,
 was her.");
 MsgDisp("","When I was with her, I could laugh
 naturally without caring which I was.");

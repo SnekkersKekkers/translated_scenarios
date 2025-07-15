@@ -26,7 +26,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P640700005_07_030");
-MsgDisp("Mikage","You guys carefully raised them, Aren't
+MsgDisp("Mikage","You guys carefully raised them, aren't
 they like your children? Both with
 vegetables and herbs, you can't slack of
 until the end.");

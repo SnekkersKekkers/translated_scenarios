@@ -26,7 +26,7 @@ I'm glad I did my best.)");
     ChMotion(3,0,1);
     VoiceEVSPlay(3);
     VoicePlay("O020300000_03_010");
-    MsgDisp("Honda","｛主人公｝, Congrats!");
+    MsgDisp("Honda","｛主人公｝, congrats!");
     MsgDisp("主人公","Ah, ｛本多＊＊｝. You were watching?");
     ChEye(3,0);
     ChMouth(3,3);

@@ -10,7 +10,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 ChMotion(22,3,1);
 VoicePlay("P630D00002_22_000");
-MsgDisp("Hikaru","What's here, Amazing～!
+MsgDisp("Hikaru","What's here, amazing～!
 Seems like it's just in the middle of
 school!");
 ChEye(21,0);

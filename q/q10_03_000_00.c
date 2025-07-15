@@ -9,7 +9,7 @@ ChMotion(3,3,1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q100300000_03_000");
-MsgDisp("Honda","｛主人公｝, Look! They're glasses.");
+MsgDisp("Honda","｛主人公｝, look! They're glasses.");
 MsgDisp("主人公","They really are round, huh?");
 ChEye(3,0);
 ChMouth(3,3);

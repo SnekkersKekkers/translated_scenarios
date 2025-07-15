@@ -43,7 +43,7 @@ Leave the bodyguard duties to me.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P830200002_02_020");
-    MsgDisp("Sassa","In exchange, When this has been settled,
+    MsgDisp("Sassa","In exchange, when this has been settled,
 let's walk around together.");
     MsgDisp("主人公","Yeah, got it!");
     MsgClose();

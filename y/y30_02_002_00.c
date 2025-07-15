@@ -46,7 +46,7 @@ MsgDisp("","When we left Habataki ranch, she
 noticed that I was making a face of
 mixed-feelings, and looked at me
 worriedly.");
-MsgDisp("主人公","\"\"｛颯砂＊＊｝, Are you not good with
+MsgDisp("主人公","\"\"｛颯砂＊＊｝, are you not good with
 cow milk?\"");
 MsgClear();
 MsgDisp("","I said I didn't like it if it was

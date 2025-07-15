@@ -63,7 +63,7 @@ MsgClear();
 MsgDisp("","And her.");
 MsgDisp("","She supported me with everything.
 Even though her new life was
-difficult, She stayed close to me,
+difficult, she stayed close to me,
 with her warm, lovely smile.");
 MsgClear();
 MsgDisp("","Today, for the opening performance, I

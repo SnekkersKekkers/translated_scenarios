@@ -65,7 +65,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("G020110201_01_080");
 MsgDisp("Kazama","I guess, 
-This is my freedom to declare it.");
+this is my freedom to declare it.");
 MsgDisp("主人公","(Somewhat, I feel like I just heard
 something quite significant.)");
 BGMStop();

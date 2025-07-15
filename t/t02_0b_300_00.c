@@ -177,7 +177,7 @@ MsgDisp("Kazama","Well, did you?");
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("T020B21000_03_050");
-MsgDisp("Honda","Yes you did, Haha!");
+MsgDisp("Honda","Yes you did, haha!");
 ChEye(1,4);
 ChEye(3,0);
 MsgDisp("主人公","Hehe!");

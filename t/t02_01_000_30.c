@@ -74,7 +74,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_850");
-MsgDisp("Kazama","......｛主人公｝, Congratulations on
+MsgDisp("Kazama","......｛主人公｝, congratulations on
 your graduation.");
 BGMStop(3.6);
 MsgClose();

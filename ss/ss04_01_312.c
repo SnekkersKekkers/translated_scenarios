@@ -3,5 +3,5 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("SS0401312_01_000");
 MsgDisp("Kazama","Us,
-We're not kids anymore.");
+we're not kids anymore.");
 MsgClose();

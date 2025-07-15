@@ -67,7 +67,7 @@ Let's do our best together!");
     VoicePlay("O040201000_02_070");
     MsgDisp("Sassa","If I'm with you, I don't feel like losing
 at all.");
-    MsgDisp("主人公","Even if you weren't with me, Wouldn't you
+    MsgDisp("主人公","Even if you weren't with me, wouldn't you
 still win, ｛颯砂＊＊｝?");
     ChEye(2,0);
     ChMouth(2,3);

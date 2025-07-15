@@ -61,7 +61,7 @@ VoicePlay("P240100000_01_040");
 MsgDisp("Kazama","You...");
 VoicePlay("P240100000_46_010");
 MsgDisp("Stepsister A","Hohoho, 
-They won't fit your feet, right? ");
+they won't fit your feet, right? ");
 ChEye(1,4);
 VoicePlay("P240100000_48_010");
 MsgDisp("Stepsister B","Stand back, Cinderella!");
@@ -176,7 +176,7 @@ MsgDisp("Kazama","I was worried too.
 But thanks to you, it all worked out,
 right?");
 MsgDisp("主人公","Yeah, we got a huge round of applause,
-Everyone seemed really happy.");
+everyone seemed really happy.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

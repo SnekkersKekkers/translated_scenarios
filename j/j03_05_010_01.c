@@ -33,7 +33,7 @@ Now, if you'll excuse me.");
     MsgDisp("Hiiragi","Yes, it is Hiiragi.
 Thanks for your message.");
     MsgDisp("主人公","Yes,
-Are you free then?");
+are you free then?");
     VoicePlay("J030501001_05_030");
     MsgDisp("Hiiragi","I had plans that day......
 Sorry.");

@@ -61,7 +61,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360550101_05_050");
-MsgDisp("Hiiragi","......Haha, Didn't you say the same thing
+MsgDisp("Hiiragi","......Haha, didn't you say the same thing
 earlier?");
 MsgDisp("主人公","Hehe, that's true.");
 ChEye(5,2);

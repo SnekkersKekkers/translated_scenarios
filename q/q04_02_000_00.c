@@ -47,7 +47,7 @@ So you left the hotel?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("Q040200000_02_040");
-    MsgDisp("Sassa","I mean, Wouldn't it be annoying if I ran
+    MsgDisp("Sassa","I mean, wouldn't it be annoying if I ran
 inside the lobby?
 ......Anyways, what's up?");
     MsgDisp("主人公","Oh, right.

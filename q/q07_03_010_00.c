@@ -5,7 +5,7 @@ ChOpen(3,254,0,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("Q070301000_46_000");
-MsgDisp("Woman A","Wait, Huh?
+MsgDisp("Woman A","Wait, huh?
 Isn't that person from the quiz show?");
 VoicePlay("Q070301000_47_000");
 MsgDisp("Woman B","Eh! Omg.

@@ -79,7 +79,7 @@ something you like?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P530700000_07_080");
-    MsgDisp("Mikage","Fail? If you ask me, Continuing this club
+    MsgDisp("Mikage","Fail? If you ask me, continuing this club
 with your friends and standing on this
 stage is already a success.");
     MsgDisp("主人公","But, if I make a mistake, I'll just be a

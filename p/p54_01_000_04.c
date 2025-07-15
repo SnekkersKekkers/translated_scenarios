@@ -32,7 +32,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P540100004_01_030");
-MsgDisp("Kazama","Although that was a good performance, When
+MsgDisp("Kazama","Although that was a good performance, when
 I think about how you gave it your all
 these last three years, I could somewhat
 cry.");

@@ -11,7 +11,7 @@ SEWait();
 ChOpen(3,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P740300005_03_000");
-MsgDisp("Honda","｛主人公｝, Are you alright?");
+MsgDisp("Honda","｛主人公｝, are you alright?");
 MsgDisp("主人公","Uuugh,
 I'm so embarrassed...");
 ChEye(3,4);

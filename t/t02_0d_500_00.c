@@ -86,7 +86,7 @@ ChMotion(22,3,1);
 VoicePlay("T020D50000_22_030");
 MsgDisp("Hikaru","That goes for Hikaru too!
 I was so happy when it was the three of us
-together, Marie, big sis and I!");
+together, Mari, big sis and I!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

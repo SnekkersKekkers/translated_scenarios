@@ -180,7 +180,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P240200000_02_140");
-MsgDisp("Sassa","...Hey, Am I forcibly dragging you into
+MsgDisp("Sassa","...Hey, am I forcibly dragging you into
 this like Hades is?");
 MsgDisp("主人公","Eh? 
 What are you talking about?");

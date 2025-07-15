@@ -31,7 +31,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P540700002_07_030");
-MsgDisp("Mikage","Alright, rather than talking to me, Go see
+MsgDisp("Mikage","Alright, rather than talking to me, go see
 your friends instead.
 Everyone is probably lonely without you.");
 MsgDisp("主人公","Yes!");

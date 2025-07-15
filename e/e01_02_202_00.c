@@ -57,7 +57,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010220200_02_040");
 MsgDisp("Sassa","Also, he's a big guy just like me,
-Sometimes we don't have a lot of choice.");
+sometimes we don't have a lot of choice.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

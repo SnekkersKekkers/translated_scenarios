@@ -69,7 +69,7 @@ will go with that person. That is the era
 we live in.");
 ChEyeOpenLevel(5,0);
 VoicePlay("P240501000_40_050");
-MsgDisp("Castle Lord","However, My governance is the flames of my
+MsgDisp("Castle Lord","However, my governance is the flames of my
 ideals.
 I cannot let it be extinguished.");
 ChEyeOpenLevel(5,#1);

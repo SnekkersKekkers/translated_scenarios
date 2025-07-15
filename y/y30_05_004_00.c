@@ -21,7 +21,7 @@ MsgClear();
 VoicePlay("Y300500400_05_000");
 MsgDisp("Hiiragi","\"Yes. Mikage-sensei, Didn't you go on
 a bike today\"");
-MsgDisp("","As I said that, He touches the tie on
+MsgDisp("","As I said that, he touches the tie on
 his suit, and says; \"Today is no good
 huh?\" and gives me a smile that makes
 me happy too.");
@@ -111,7 +111,7 @@ MsgDisp("","A smile illuminated by the orange of
 the sunset.");
 MsgClear();
 MsgDisp("","｛主人公苗字｝ ｛主人公名前｝.");
-MsgDisp("","When we heard her voice, Me and Inori
+MsgDisp("","When we heard her voice, me and Inori
 made a little eye contact, and looked
 at Mikage-sensei.");
 MsgDisp("","Then, he raised his shoulders and

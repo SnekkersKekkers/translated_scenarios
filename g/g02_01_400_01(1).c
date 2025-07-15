@@ -41,7 +41,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020140001_01_050");
-MsgDisp("Kazama","Right, From the ridiculous ones, to the
+MsgDisp("Kazama","Right, from the ridiculous ones, to the
 wonderful ones, I want lots of memories.");
 ChEye(1,0);
 ChMouth(1,3);

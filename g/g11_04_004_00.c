@@ -50,7 +50,7 @@ MsgDisp("Nanatsumori","Just like you did the other day.
 Give a shot for people who want new items
 and keep up with the trends.");
 MsgDisp("主人公","I see,
-Wow, I'm looking forward to it.");
+wow, I'm looking forward to it.");
 ChMotion(4,2);
 VoicePlay("G110400400_04_050");
 MsgDisp("Nanatsumori","I'm looking forward to it too.

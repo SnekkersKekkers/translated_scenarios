@@ -1,4 +1,4 @@
-MsgDisp("主人公","Then, We'll meet at the ｛待ち合わせ場所｝
+MsgDisp("主人公","Then, we'll meet at the ｛待ち合わせ場所｝
 okay?");
 ChEye(5,4);
 ChMouth(5,4);

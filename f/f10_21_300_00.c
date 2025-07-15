@@ -25,7 +25,7 @@ ChMotion(22,4,1);
 VoicePlay("F102130000_22_000");
 MsgDisp("Hikaru","Ha～i, Mari▼
 Today's weather sure is nice isn't it♪");
-MsgDisp("主人公","｛ひかる＊｝! Yeah, Makes you want to
+MsgDisp("主人公","｛ひかる＊｝! Yeah, makes you want to
 go out somewhere, doesn't it?");
 ChEye(21,3);
 ChMouth(21,3);

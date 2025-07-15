@@ -32,7 +32,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P540200005_02_030");
-MsgDisp("Sassa","The times we ran on the field, Putting
+MsgDisp("Sassa","The times we ran on the field, putting
 equipment away....
 Things like changing in the clubroom.");
 ChEye(2,0);

@@ -17,7 +17,7 @@ for the free period.");
     ChMotion(3,4,1);
     VoicePlay("Q120300000_03_010");
     MsgDisp("Honda","I pulled you around,
-Aren't you tired?");
+aren't you tired?");
     MsgDisp("主人公","Nope. Thanks to our fun guide, I'm not
 tired at all.");
     ChEye(3,3);
@@ -110,7 +110,7 @@ fun.");
     MsgDisp("Honda","Is that so? Then I'm happy! Well then,
 let's spend the free period together
 again.");
-    MsgDisp("主人公","Eh, Hmm?
+    MsgDisp("主人公","Eh, hmm?
 Isn't today the end of the school trip?");
     ChEye(3,0);
     ChMouth(3,3);

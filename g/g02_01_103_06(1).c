@@ -60,8 +60,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020110306_01_070");
 MsgDisp("Kazama","Like how I disappeared suddenly, suddenly
 came back, and ended up in the same class.");
-MsgDisp("主人公","Hehe, 
-HEhe, all of it was a surprise.");
+MsgDisp("主人公","Hehe, it was a surprise.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);

@@ -66,7 +66,7 @@ come along.");
 one participant.
 See you here the day after tomorrow.");
     MsgDisp("主人公","Yes,
-Thank you very much!");
+thank you very much!");
     break ;
     default :
     DbgAssert(1);

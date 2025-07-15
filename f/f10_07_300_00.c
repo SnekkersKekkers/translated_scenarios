@@ -97,7 +97,7 @@ ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F100730000_22_050");
 MsgDisp("Hikaru","No way, 
-That's not convincing at aalll.");
+that's not convincing at aalll.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
         ChMotion(2,3);
         VoicePlay("J060200000_02_000");
         MsgDisp("Sassa","That's good, that's a deal.");
-        MsgDisp("主人公","Then on ｛日付｝, At
+        MsgDisp("主人公","Then on ｛日付｝, at
 ｛待ち合わせ場所｝?");
         ChEye(2,3);
         ChMouth(2,3);

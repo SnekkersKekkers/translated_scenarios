@@ -152,7 +152,7 @@ ChMotion(3,4,1);
 VoicePlay("Q070300000_03_150");
 MsgDisp("Honda","Really? I'm glad to hear that, but it
 doesn't quite ring a bell for me. I always
-ask myself, Am I ok with that?");
+ask myself, am I ok with that?");
 MsgDisp("主人公","Eeh?");
 ChEye(3,0);
 ChMouth(3,4);

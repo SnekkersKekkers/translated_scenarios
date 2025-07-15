@@ -44,7 +44,7 @@ right?");
     ChEyeOpenLevel(3,0);
     VoicePlay("X110300003_03_040");
     MsgDisp("Honda","I know there will be a lot of pressure,
-Good luck for the next match!");
+good luck for the next match!");
     MsgDisp("主人公","(Yay!
 Let's keep up the good work!)");
     break ;

@@ -21,7 +21,7 @@ ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("F110510002_45_000");
 MsgDisp("Woman Customer A","Clerk-san, 
-Where's the tastiest yakisoba?");
+where's the tastiest yakisoba?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

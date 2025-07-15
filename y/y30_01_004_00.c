@@ -71,7 +71,7 @@ MsgClear();
 MsgDisp("","Looking from the rooftop towards the
 school gates, we should see her small
 back.");
-MsgDisp("","With her bag in her right hand, Her
+MsgDisp("","With her bag in her right hand, her
 retreating figure had a
 characteristic bounce in her step.");
 MsgDisp("","As I was about to call out, Honda

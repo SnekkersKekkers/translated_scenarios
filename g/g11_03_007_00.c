@@ -49,7 +49,7 @@ ChMouth(3,1);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G110300700_03_050");
-MsgDisp("Honda","Ah, this is, An original counting song
+MsgDisp("Honda","Ah, this is, an original counting song
 that my Mother used to sing to me when I
 was little.");
 ChEye(3,0);

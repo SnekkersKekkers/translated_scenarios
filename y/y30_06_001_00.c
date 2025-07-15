@@ -76,7 +76,7 @@ MsgDisp("","Connections, leaking exam questions.
 The way they talked about those
 things so innocently, proved they
 didn't know Reiichi-san at all.");
-MsgDisp("","Ironically enough, His words made me
+MsgDisp("","Ironically enough, his words made me
 realize something. When I advance
 onto the high school division——");
 MsgClear();

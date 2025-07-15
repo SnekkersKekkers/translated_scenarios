@@ -84,7 +84,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("M010200000_02_100");
-MsgDisp("Sassa","Shut up!! Hn, Glad I could see your
+MsgDisp("Sassa","Shut up!! Hn, glad I could see your
 healthier looking face. Later.");
 MsgClose();
 SEPlay("EV_SE_690",0.1,0.5);

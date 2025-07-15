@@ -36,7 +36,7 @@ plan a strategy......");
     case 4:
     case 5:
     MsgDisp("主人公","Um,
-My team is......");
+my team is......");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();

@@ -59,7 +59,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("Q100200000_02_070");
-MsgDisp("Sassa","Alright, Gotta find them all.
+MsgDisp("Sassa","Alright, gotta find them all.
 Let's go!");
 MsgClose();
 ChClose(2);

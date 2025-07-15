@@ -26,7 +26,7 @@ VoicePlay("G020410306_04_040");
 MsgDisp("Nanatsumori","You don't think anything of it?");
 VoicePlay("G020410306_04_050");
 MsgDisp("Nanatsumori","Like it doesn't feel gross or startling,
-How should I say it......don't you think
+how should I say it......don't you think
 having various sides is kind of creepy?");
 MsgDisp("主人公","Eh?
 Why would I think that?");

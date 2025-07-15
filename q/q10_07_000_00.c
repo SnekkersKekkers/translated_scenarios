@@ -157,7 +157,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q100700000_07_120");
 MsgDisp("Mikage","So, extracurricular lesson Nagasaki
-version, We're breaking up for now.");
+version, we're breaking up for now.");
 MsgDisp("主人公","Okay!");
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,7 +6,7 @@ ChClose(1,0,0);
 BGMPlay("BGM_ENGEKI_A",0.01);
 ScrFadeIn(0);
 VoicePlay("P240101000_45_000");
-MsgDisp("Wizard","Don't cry Cinderella, Using this pumpkin
+MsgDisp("Wizard","Don't cry Cinderella, using this pumpkin
 carriage, I shall take you to the ball.");
 VoicePlay("P240101000_44_000");
 MsgDisp("Cinderella","What a wonderful carriage.");

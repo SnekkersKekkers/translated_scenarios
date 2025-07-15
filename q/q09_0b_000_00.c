@@ -29,7 +29,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("Q090B00000_01_010");
 MsgDisp("Kazama","Anyways,
-Listen to what I say for today.");
+listen to what I say for today.");
 MsgDisp("主人公","Hm?");
 ChEye(4,2);
 ChMouth(4,4);

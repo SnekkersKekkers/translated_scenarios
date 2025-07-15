@@ -80,7 +80,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("T020121000_01_790");
-MsgDisp("Kazama","...｛主人公｝, Congratulations on your
+MsgDisp("Kazama","...｛主人公｝, congratulations on your
 graduation.");
 BGMStop(3.6);
 MsgClose();

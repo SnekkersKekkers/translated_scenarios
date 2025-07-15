@@ -91,7 +91,7 @@ But I couldn't fool myself.");
 MsgDisp("","I can't write or call.
 The reality of our goodbye weighed on
 me.");
-MsgDisp("","After that year, Every holiday, I
+MsgDisp("","After that year, every holiday, I
 would stare at the card.
 I was completely helpless.");
 MsgClear();

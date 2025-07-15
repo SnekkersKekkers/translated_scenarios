@@ -33,7 +33,7 @@ I'll work harder!)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("X110200003_02_020");
-    MsgDisp("Sassa","｛主人公｝, Congratulations! I heard
+    MsgDisp("Sassa","｛主人公｝, congratulations! I heard
 that you've decided on a great new move.");
     MsgDisp("主人公","Thank you ｛颯砂＊＊｝, though it's a joint
 practice.");

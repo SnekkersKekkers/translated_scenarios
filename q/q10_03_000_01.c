@@ -9,7 +9,7 @@ MsgDisp("Honda","Hmm, what should I do.");
 MsgDisp("主人公","Is it the souvenirs......?");
 ChMotion(3,0,1);
 VoicePlay("Q100300001_03_010");
-MsgDisp("Honda","Yeah it is, My little sister told me to
+MsgDisp("Honda","Yeah it is, my little sister told me to
 \"Buy me a cute one\".");
 MsgDisp("主人公","Your little sister really is funny.");
 ChEye(3,4);

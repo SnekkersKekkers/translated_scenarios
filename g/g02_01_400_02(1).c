@@ -4,7 +4,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChMouth(1,2);
 VoicePlay("G020140002_01_000");
-MsgDisp("Kazama","......I returned here, Am I getting
+MsgDisp("Kazama","......I returned here, am I getting
 accustomed too fast?");
 ChEye(1,0);
 ChMouth(1,3);

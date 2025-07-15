@@ -19,7 +19,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100230000_21_000");
-MsgDisp("Michiru","Hehe. I guess we should ask Marie for her
+MsgDisp("Michiru","Hehe. I guess we should ask Mari for her
 opinion here too, right?");
 ChEye(2,0);
 ChMouth(2,2);

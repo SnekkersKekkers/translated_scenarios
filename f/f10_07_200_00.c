@@ -31,7 +31,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720000_05_010");
 MsgDisp("Hiiragi","Yes, I'm very deeply interested.");
-MsgDisp("主人公","｛柊＊＊＊｝, Are you interested in
+MsgDisp("主人公","｛柊＊＊＊｝, are you interested in
 biology and chemistry?");
 ChEye(5,0);
 ChMouth(5,2);

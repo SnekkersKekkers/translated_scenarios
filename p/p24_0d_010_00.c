@@ -66,7 +66,7 @@ ChMotion(22,3,1);
 VoicePlay("P240D01000_22_030");
 MsgDisp("Hikaru","I mean, even if we don't go on stage,
 Hikaru and the others are always Cupids
-for love. But only for Marie♪");
+for love. But only for Mari♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

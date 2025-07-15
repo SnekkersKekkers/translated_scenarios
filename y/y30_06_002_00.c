@@ -11,7 +11,7 @@ double-booked.");
 MsgClear();
 MsgDisp("","Every year, on New year's day, we go
 on our first shrine visit of the
-year, After that we go around to
+year, after that we go around to
 greet everyone, that is the rule of
 the Himuro house.");
 MsgDisp("","In doing the rounds, of course, we
@@ -37,9 +37,9 @@ MsgDisp("","So, technically speaking, I didn't
 double-book.");
 VoicePlay("Y300600200_45_000");
 MsgDisp("Yuki","\"Big brother, are you going?\"");
-MsgDisp("","Already having gotten ready, My
+MsgDisp("","Already having gotten ready, my
 brother Yuuki called out for me,
-Today I was scheduled to go to the
+today I was scheduled to go to the
 New year's shrine with my family.");
 MsgClear();
 MsgClose();

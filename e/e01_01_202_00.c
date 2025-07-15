@@ -154,7 +154,7 @@ ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("E010120200_02_070");
 MsgDisp("Sassa","Hehe,
-He's just at the right speed.");
+he's just at the right speed.");
 MsgDisp("主人公","∋");
 ChEye(2,0);
 ChMouth(2,3);

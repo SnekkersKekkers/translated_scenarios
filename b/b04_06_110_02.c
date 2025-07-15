@@ -45,8 +45,8 @@ It feels similar to a rollercoaster.");
         VoicePlay("B040611002_06_030");
         MsgDisp("Himuro","That one?
 Together?");
-        MsgDisp("主人公","Yeah/
-Can we not?");
+        MsgDisp("主人公","Yeah.
+You don't want to?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,2);

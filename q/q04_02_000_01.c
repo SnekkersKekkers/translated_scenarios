@@ -23,7 +23,7 @@ Off we go then!");
     ChMotion(2,0);
     VoicePlay("Q040200001_02_020");
     MsgDisp("Sassa","Come on,
-There's no way I won't go.");
+there's no way I won't go.");
     MsgDisp("主人公","Hehe, thanks.");
     break ;
     case 4:

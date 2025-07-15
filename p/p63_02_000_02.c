@@ -96,7 +96,7 @@ written on the bag.");
     ChMotion(2,1);
     VoicePlay("P630200002_02_080");
     MsgDisp("Sassa","Alright. Then, I'll buy some of your
-vegetables first, Before they're sold out.");
+vegetables first, before they're sold out.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(2);

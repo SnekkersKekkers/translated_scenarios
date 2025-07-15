@@ -112,14 +112,14 @@ ChMouth(21,3);
 ChMotion(21,3);
 ChCheek(21,5);
 VoicePlay("T022100000_21_140");
-MsgDisp("Michiru","Hehe. Marie really is a goddess of
+MsgDisp("Michiru","Hehe. Mari really is a goddess of
 happiness. Thank you for being there for
 me for the past three years.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("T022100000_21_150");
-MsgDisp("Michiru","I owe it all to Marie that I was able to
+MsgDisp("Michiru","I owe it all to Mari that I was able to
 have such a fun high school life. Even
 after we graduated, will we still be
 friends?");
