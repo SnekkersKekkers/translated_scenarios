@@ -55,7 +55,7 @@ VoicePlay("G110200500_02_030");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
-MsgDisp("Sassa","Sorry, sorry. 
+MsgDisp("Sassa","Sorry, sorry.
 I wasn't laughing at you.");
 VoicePlay("G110200500_02_050");
 ChEye(2,1);
@@ -84,7 +84,8 @@ BGMStop();
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(I always work out, so I can run with
-ease! But, don't sleep, ｛颯砂＊＊｝...)");
+ease!
+But, don't sleep, ｛颯砂＊＊｝... )");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

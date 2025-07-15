@@ -25,8 +25,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G110300300_03_010");
-MsgDisp("Honda","The latest edition of 'Habatcher' just sold
-out......");
+MsgDisp("Honda","The latest edition of 'Habatcher' just
+sold out......");
 MsgDisp("主人公","Ah, I see.
 But, I understand.");
 MsgClose();

@@ -31,7 +31,7 @@ you always have.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P230600000_06_020");
-    MsgDisp("Himuro","Still nervous? 
+    MsgDisp("Himuro","Still nervous?
 Then...give me your hand.");
     MsgDisp("主人公","My hand?");
     ChClose(6,0,30);

@@ -97,8 +97,8 @@ It makes me happy.)");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("B040108102_01_090");
-    MsgDisp("Kazama","Yeah, London has quite a few cherry blossoms
-around.
+    MsgDisp("Kazama","Yeah, London has quite a few cherry
+blossoms around.
 I always liked the ones I saw there, too.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

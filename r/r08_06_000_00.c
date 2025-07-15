@@ -59,7 +59,8 @@ StlMouth(6,1);
 VoicePlay("R080600000_06_020");
 MsgDisp("Himuro","What are you doing?");
 MsgDisp("主人公","Ah...｛氷室＊＊｝, that's what I need to ask
-you. Are you praying?");
+you.
+Are you praying?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);

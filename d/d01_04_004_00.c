@@ -15,8 +15,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝! I was reading Habatcher
-and lost track of time.");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝! I was reading
+Habatcher and lost track of time.");
 VoicePlay("D010400400_04_010");
 MsgDisp("Nanatsumori","Habatcher?");
 MsgDisp("主人公","Yeah.

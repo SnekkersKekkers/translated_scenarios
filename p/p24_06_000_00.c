@@ -42,7 +42,9 @@ VoicePlay("P240600000_06_030");
 MsgDisp("Himuro","However, since the day I was called by the
 Celestial Emperor and the day I first laid
 eyes on you, everything changed.");
-MsgDisp("主人公","(｛氷室＊＊｝'s not wearing his glasses—so close! This is nothing like what we practiced!)");
+MsgDisp("主人公","(｛氷室＊＊｝'s not wearing his glasses—so
+close!
+This is nothing like what we practiced!)");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);

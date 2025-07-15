@@ -108,8 +108,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500500_05_060");
-MsgDisp("Hiiragi","Thanks to Habatcher's support, we have been
-recruiting new members.");
+MsgDisp("Hiiragi","Thanks to Habatcher's support, we have
+been recruiting new members.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,1);

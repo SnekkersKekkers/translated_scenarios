@@ -1,7 +1,7 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, this month's feature of Habatcher is on
-limited time sweets.)");
+MsgDisp("主人公","(Ah, this month's feature of Habatcher is
+on limited time sweets.)");
 MsgDisp("主人公","Hehe! I'm gonna try to eat some
 by myself.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

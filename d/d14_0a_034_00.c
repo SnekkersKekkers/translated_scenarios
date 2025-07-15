@@ -91,7 +91,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("D140A03400_02_030");
-MsgDisp("Sassa","Sorry. I mean, I guess I'm also a childhood friend.");
+MsgDisp("Sassa","Sorry. I mean, I guess I'm also a
+childhood friend.");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
@@ -103,7 +104,8 @@ MsgDisp("Himuro","Ugh...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
-MsgDisp("主人公","But ｛氷室＊＊｝, you go to the same school as us.");
+MsgDisp("主人公","But ｛氷室＊＊｝, you go to the same school
+as us.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

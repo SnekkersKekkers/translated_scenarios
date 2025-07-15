@@ -16,9 +16,10 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610201_06_020");
-MsgDisp("Himuro","I always thought it was pathetic how people
-were swayed by others, but recently,
-that's all that's been happening.");
+MsgDisp("Himuro","I always thought it was pathetic how
+people were swayed by others, but
+recently, that's all that's been
+happening.");
 MsgDisp("主人公","Is that so?");
 ChEye(6,0);
 ChMouth(6,0);

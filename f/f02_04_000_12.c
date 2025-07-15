@@ -13,8 +13,8 @@ VoicePlay("F020400012_04_000");
 MsgDisp("Nanatsumori","Taking pictures of cherry blossoms, eating
 limited cherry blossom sweets, taking
 pictures——");
-MsgDisp("主人公","You must have a lot of limited-time cherry blossom
-themed things then, right?");
+MsgDisp("主人公","You must have a lot of limited-time cherry
+blossom themed things then, right?");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);

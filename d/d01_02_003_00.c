@@ -93,9 +93,9 @@ field?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_100");
-MsgDisp("Sassa","Ooh, that's good.
-If you talk about the Octathlon on Habatcher
-it might get some more attention!");
+MsgDisp("Sassa","Ooh, that's good. If you talk about the
+Octathlon on Habatcher it might get some
+more attention!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

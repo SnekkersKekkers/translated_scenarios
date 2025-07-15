@@ -41,8 +41,8 @@ ChMotion(31,3);
 VoicePlay("D240000003_41_030");
 MsgDisp("Tanaka Shin","I'd welcome that idea too!
 Please give it some thought!");
-MsgDisp("主人公","(Do I want to work in Habatcher's Editorial
-Department......I guess I should think
-about it a bit more?)");
+MsgDisp("主人公","(Do I want to work in Habatcher's
+Editorial Department......I guess I should
+think about it a bit more?)");
 MsgClose();
 ScrFadeOut(0,0);

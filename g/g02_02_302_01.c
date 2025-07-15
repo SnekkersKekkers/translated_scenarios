@@ -59,7 +59,8 @@ ChMotion(2,0);
 VoicePlay("G020230201_02_080");
 MsgDisp("Sassa","Actually, I've been practicing what to say
 to you here since yesterday.");
-MsgDisp("主人公","Hehe, training just like you do for track, huh?");
+MsgDisp("主人公","Hehe, training just like you do for track,
+huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

@@ -43,9 +43,8 @@ StlMouth(1,0);
 EfctOpen(6);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","∋ 
-Wait... no way... Ryota!? 
-Er, ｛風真＊＊｝?");
+MsgDisp("主人公","∋ Wait... no way... Ryota!? Er,
+｛風真＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
 Wait(30,1);
@@ -108,9 +107,8 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("A020100000_01_060");
-MsgDisp("Kazama","Yeah. I didn't expect this either. 
-I told your mom yesterday.
-Did she not tell you?");
+MsgDisp("Kazama","Yeah. I didn't expect this either. I told
+your mom yesterday. Did she not tell you?");
 MsgDisp("主人公","Sorry ｛風真＊＊｝, I was so surprised to
 hear that you came back, maybe I wasn't
 listening all that well...");

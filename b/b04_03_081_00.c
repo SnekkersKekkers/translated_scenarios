@@ -39,8 +39,8 @@ a sense of strength.");
     ChMotion(3,1,1);
     VoicePlay("B040308100_03_030");
     MsgDisp("Honda","It's nice huh?
-That aroma of the pickled cherry blossom leaf is
-good.");
+That aroma of the pickled cherry blossom
+leaf is good.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
