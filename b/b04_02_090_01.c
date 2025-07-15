@@ -28,8 +28,8 @@ Mikage-sensei.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040209001_02_020");
-    MsgDisp("Sassa","Hmmー,
-Girls like flowers after all.");
+    MsgDisp("Sassa","Hmmー
+Girls really do like flowers.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

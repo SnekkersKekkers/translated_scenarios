@@ -62,7 +62,7 @@ a limited amount of times.");
         ChMotion(2,0);
         VoicePlay("B040208102_02_050");
         MsgDisp("Sassa","I have to make it bloom splendidly.");
-        MsgDisp("主人公","Yeah, If it's ｛颯砂＊＊｝, it'll be
+        MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝, it'll be
 alright.");
         ChEye(2,0);
         ChMouth(2,4);

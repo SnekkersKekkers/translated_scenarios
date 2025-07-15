@@ -79,7 +79,7 @@ humidity.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040215102_02_090");
-        MsgDisp("Sassa","That's why, If I'm only looking for the
+        MsgDisp("Sassa","That's why, if I'm only looking for the
 cause in my own body, I'll be in deep
 trouble.");
         ChEye(2,3);

@@ -153,7 +153,7 @@ ChMotion(4,0,1);
 VoicePlay("A020410000_04_180");
 MsgDisp("Nanatsumori","So you call me \"Nanatsumori Minoru\"
 alright? Habataki student, normal guy. OK?");
-MsgDisp("主人公","Yeah, OK!");
+MsgDisp("主人公","Yeah, ok!");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);

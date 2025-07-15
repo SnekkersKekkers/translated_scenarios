@@ -43,7 +43,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_050");
-MsgDisp("Himuro","And as you may have guessed, A relative of
+MsgDisp("Himuro","And as you may have guessed, a relative of
 Reiichi-sa......
 of Vice principal Himuro.");
 MsgDisp("主人公","Oh......I see!");

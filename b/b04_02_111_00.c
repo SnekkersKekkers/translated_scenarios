@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
         ChMouth(2,3);
         ChMotion(2,3,1);
         VoicePlay("B040211100_02_010");
-        MsgDisp("Sassa","Yeah,
-You look like a figure skater.");
+        MsgDisp("Sassa","Yeah, you look like a figure skater.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);

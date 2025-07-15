@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040208200_02_010");
     MsgDisp("Sassa","It's not just the ones being looked after,
-There's also some growing wildly.");
+there's also some growing wildly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

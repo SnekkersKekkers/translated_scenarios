@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040122102_01_010");
-    MsgDisp("Kazama","Haha,
-You really do like Hanegasaki beach.");
+    MsgDisp("Kazama","Haha, you like Hanegasaki Beach a lot.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

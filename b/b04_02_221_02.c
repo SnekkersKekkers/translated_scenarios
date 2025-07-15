@@ -78,7 +78,7 @@ changes depending on season and time.");
         ChMotion(2,4);
         VoicePlay("B040222102_02_070");
         MsgDisp("Sassa","I see... If we're taking in the difference
-of seasons, Let's think of a \"Date
+of seasons, let's think of a \"Date
 Rotations of a Year\" together.");
         ChEye(2,0);
         ChMouth(2,2);

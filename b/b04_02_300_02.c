@@ -72,8 +72,7 @@ person.");
         SEPlay("EV_SE_DOOR_023");
         SEWait();
         VoicePlay("B040230002_02_060");
-        MsgDisp("Sassa","Haha, 
-Mom, what are you doing?");
+        MsgDisp("Sassa","Haha, Mom, what are you doing?");
         SEPlay("EV_SE_540");
         SEWait();
         VoicePlay("B040230002_02_070");

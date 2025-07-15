@@ -58,7 +58,7 @@ onto it.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040130002_01_040");
-        MsgDisp("Kazama","I went to England soon after, So I only
+        MsgDisp("Kazama","I went to England soon after, so I only
 wore it for a few months.");
         MsgDisp("主人公","That's right...");
         ChMotion(1,0);

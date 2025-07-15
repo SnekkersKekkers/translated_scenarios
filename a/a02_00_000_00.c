@@ -29,7 +29,7 @@ VoicePlay("A020000000_46_000");
 MsgDisp("Clerk","Thank you very much.");
 SEWait();
 MsgDisp("主人公","(Hehe～ I'll start my high school life
-tomorrow with this brand-new pen!) Let's
+tomorrow with this brand-new pen! Let's
 make it special!)");
 SEPlay("EV_SE_653");
 Wait(30,0);

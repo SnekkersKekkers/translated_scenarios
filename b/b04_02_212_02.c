@@ -54,7 +54,7 @@ everyone?");
         MsgDisp("Sassa","I see, I'll try my best to become like
 that...then maybe I can be made into some
 kind of mascot character?");
-        MsgDisp("主人公","Hehe, If` it's ｛颯砂＊＊｝, how about a
+        MsgDisp("主人公","Hehe, if` it's ｛颯砂＊＊｝, how about a
 character like that horse plushie?");
         ChEye(2,0);
         ChMouth(2,3);
@@ -68,7 +68,7 @@ that's nice.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040221202_02_060");
-        MsgDisp("Sassa","Then, Let's find a plush that looks like
+        MsgDisp("Sassa","Then, let's find a plush that looks like
 you! If I'm a horse, you're a... pony?");
         MsgDisp("主人公","(Umm... are we limited to horses?)");
         break ;

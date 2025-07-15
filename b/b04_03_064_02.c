@@ -49,7 +49,7 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("B040306402_03_070");
 MsgDisp("Honda","That's why, when we're having fun like
-this, It feels like we're swimming in a
+this, it feels like we're swimming in a
 sea of soup in a bowl?");
 MsgDisp("主人公","Ehh, in a bowl?");
 ChEye(3,3);

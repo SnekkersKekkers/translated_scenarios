@@ -67,8 +67,7 @@ I'll grab us drinks.");
         SEWait();
         VoicePlay("B040103202_33_010");
         MsgDisp("Guy","You were hiding out here.
-The beautiful sea fairy of Habataki City,
-Little Miss Clione, right?");
+The beautiful sea fairy of Habataki City, Little Miss Clione, huh?");
         MsgDisp("主人公","I-I think you're mistaken...");
         VoicePlay("B040103202_01_050");
         MsgDisp("Kazama?","Ｇｏ　ａｗａｙ！");

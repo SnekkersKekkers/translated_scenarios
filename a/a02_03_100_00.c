@@ -68,7 +68,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020310000_03_090");
-MsgDisp("Honda","And I've confirmed it myself, Each and
+MsgDisp("Honda","And I've confirmed it myself, each and
 every classroom in Haba High too!");
 MsgDisp("主人公","Amazing, I hadn't noticed at all!
 But how come?");

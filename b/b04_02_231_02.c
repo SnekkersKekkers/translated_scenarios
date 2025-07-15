@@ -56,7 +56,7 @@ coasters.");
         ChMotion(2,2);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223102_02_050");
-        MsgDisp("Sassa","...Ah, But there are things I'm not eager
+        MsgDisp("Sassa","...Ah, but there are things I'm not eager
 about.");
         MsgDisp("主人公","Hehe.");
         ChEye(2,0);

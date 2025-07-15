@@ -47,7 +47,7 @@ to it so much you couldn't wait?");
     ChMotion(1,3);
     ChCheek(1,0);
     VoicePlay("B010100002_01_050");
-    MsgDisp("Kazama","Heh, Answering a question with a question.
+    MsgDisp("Kazama","Heh, answering a question with a question.
 ... Ahh, you're a dangerous one.");
     MsgDispSksp(0);
     break ;

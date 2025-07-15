@@ -5,7 +5,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B040301100_03_000");
-MsgDisp("Honda","Hmmm, It looks like a satellite photo of
+MsgDisp("Honda","Hmmm, it looks like a satellite photo of
 Habataki City.
 Pretty cool.");
 MsgSel("Wow! The horizon looks like it's glittering!","Can we see ｛本多＊＊｝'s house from here?","It's so high, I can't move...");

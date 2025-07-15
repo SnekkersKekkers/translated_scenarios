@@ -24,7 +24,7 @@ kinda overlapped with our situation?!");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118500_01_010");
-    MsgDisp("Kazama","You say it was so-so, So it was neither
+    MsgDisp("Kazama","You say it was so-so, so it was neither
 good or bad?
 That was a meaningless use of time.");
     MsgDateResultDisp();

@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040108102_01_000");
 MsgDisp("Kazama","When I'm looking at the cherry blossoms,
 I'm reminded of all kinds of things.");
-MsgSel("Elementary school entrance ceremony?","Are there cherry blossoms in England?","Haba High entrance ceremony?");
+MsgSel("The elementary school entrance ceremony?","Are there cherry blossoms in England?","The Haba High entrance ceremony?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){
@@ -97,7 +97,7 @@ It makes me happy.)");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("B040108102_01_090");
-    MsgDisp("Kazama","Yeah, Long has quite a few cherry blossoms
+    MsgDisp("Kazama","Yeah, London has quite a few cherry blossoms
 around.
 I always liked the ones I saw there, too.");
     MsgDispBGSksp(1,1);

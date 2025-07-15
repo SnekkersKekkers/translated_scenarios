@@ -2,7 +2,7 @@ ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("B020502121_05_000");
-MsgDisp("Hiiragi","I see, So it is possible to coordinate
+MsgDisp("Hiiragi","I see, so it is possible to coordinate
 like this, too.");
 MsgDisp("主人公","Does everything match well?");
 ChEye(5,0);

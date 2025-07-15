@@ -116,7 +116,7 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("A020430000_04_080");
 MsgDisp("Nanatsumori?","Thanks for the food.");
-MsgDisp("主人公","Thank you for coming, Now, for the
+MsgDisp("主人公","Thank you for coming, now, for the
 bill——");
 SEPlay("EV_SE_043");
 SEWait();
@@ -124,7 +124,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);
 SEPlay("EV_SE_DOOR_014",0.5);
-MsgDisp("主人公","(That customer really threw me off, First
+MsgDisp("主人公","(That customer really threw me off, first
 the amount of food, and then he came back
 looking so differently......)");
 MsgDisp("主人公","Now, I'll get to cleaning up! ......Hmm?

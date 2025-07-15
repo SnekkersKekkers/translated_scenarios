@@ -49,7 +49,7 @@ all kinds here.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040112101_01_030");
     MsgDisp("Kazama","You think so? Grandpa might find it an
-interesting venture, But Dad... Might
+interesting venture, but Dad... Might
 think it's too much trouble.");
     MsgDateResultDisp();
     break ;

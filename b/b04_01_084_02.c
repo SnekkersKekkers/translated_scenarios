@@ -101,8 +101,7 @@ You get it?");
         VoicePlay("B040108402_01_080");
         MsgDisp("Kazama","Didn't you just say you missed body
 warmth? So, here. My hand.");
-        MsgDisp("主人公","Hehe,
-Yeah, thank you.");
+        MsgDisp("主人公","Hehe, yeah, thank you.");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);

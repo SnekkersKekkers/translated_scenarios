@@ -47,7 +47,7 @@ won't be anyone there?");
         ChMotion(2,4);
         VoicePlay("B040208402_02_040");
         MsgDisp("Sassa","Ah, is that right?");
-        MsgDisp("主人公","Hehe, Are you thinking back to the horror
+        MsgDisp("主人公","Hehe, are you thinking back to the horror
 movie?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -59,7 +59,7 @@ of those scenarios.");
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040208402_02_060");
-        MsgDisp("Sassa","I can't win against ghosts, But if it's a
+        MsgDisp("Sassa","I can't win against ghosts, but if it's a
 physical fight...
 I might stand a chance.");
         MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
