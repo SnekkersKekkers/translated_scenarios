@@ -65,7 +65,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("G020130003_01_070");
-MsgDisp("Kazama","Well, If they do, they'll drag the topic
+MsgDisp("Kazama","Well, if they do, they'll drag the topic
 on for a week......
 so keep quite about it, okay?");
 MsgDisp("主人公","(Hehe ｛風真＊＊｝, It seems you really

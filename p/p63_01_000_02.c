@@ -73,7 +73,7 @@ a souvenir.");
     MsgDisp("Kazama","Is that so. Then, can I have something
 from the cafe first? What's your
 recommendation?");
-    MsgDisp("主人公","Actually, If you want to taste the
+    MsgDisp("主人公","Actually, if you want to taste the
 vegetables as they are, maybe a salad?");
     ChEye(1,4);
     ChMouth(1,3);

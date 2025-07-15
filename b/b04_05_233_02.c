@@ -61,7 +61,7 @@ This I mean?");
         VoicePlay("B040523302_05_050");
         MsgDisp("Hiiragi","If we do it together, it won't be scary I
 suppose.");
-        MsgDisp("主人公","Yeah...but, If the lines get tangled it
+        MsgDisp("主人公","Yeah...but, if the lines get tangled it
 might be dangerous?");
         ChEye(5,3);
         ChMouth(5,3);

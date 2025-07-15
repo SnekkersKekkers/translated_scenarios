@@ -116,7 +116,7 @@ MsgDisp("","I'm not being influenced by
 Hazuki-sa——");
 MsgClear();
 MsgDisp("","As she continued to laugh lightly,
-The continuation fo the words in my
+the continuation fo the words in my
 head, were swallowed alongside with
 the piping hot coffee.");
 BGMStop();

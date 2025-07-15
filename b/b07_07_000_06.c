@@ -48,7 +48,7 @@ ChMotion(7,3);
 VoicePlay("B070700000_07_360");
 MsgDisp("Mikage","Alright, this mutually beneficial
 relationship is called \"symbiosis\";
-Remember that～, It'll come up on the
+Remember that～, it'll come up on the
 test～");
 MsgDisp("主人公","Hehe, it's like a biology lesson.");
 MsgDisp("主人公","(I feel like it's thanks to

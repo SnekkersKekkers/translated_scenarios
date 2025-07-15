@@ -44,7 +44,7 @@ sort of feeling too?");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040323202_03_030");
-        MsgDisp("Honda","Yep yep, Suddenly being separated from the
+        MsgDisp("Honda","Yep yep, suddenly being separated from the
 hustle and bustle is an interesting
 experience.");
         ChEye(3,4);

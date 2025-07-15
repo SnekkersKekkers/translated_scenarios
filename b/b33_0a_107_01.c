@@ -38,7 +38,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A10701_01_020");
 MsgDisp("Kazama","Then, which one should we talk about?
-１, The castle lantern.
+１, the castle lantern.
 ２, the legend of the lone pillar.");
 ChEye(1,0);
 ChMouth(1,3);

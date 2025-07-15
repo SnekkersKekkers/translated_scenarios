@@ -38,7 +38,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240000_02_020");
-MsgDisp("Sassa","Despite the way it looks, We have quite a
+MsgDisp("Sassa","Despite the way it looks, we have quite a
 lot in common.");
 MsgDisp("主人公","Really?");
 ChEye(6,0);

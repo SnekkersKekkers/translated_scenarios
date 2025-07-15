@@ -94,7 +94,7 @@ acid?");
     ChMotion(3,1);
     VoicePlay("B040323602_03_090");
     MsgDisp("Honda","Hahaha, 
-The tuna doesn't have any friends!");
+the tuna doesn't have any friends!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

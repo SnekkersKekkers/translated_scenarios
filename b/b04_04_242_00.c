@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040424200_04_010");
     MsgDisp("Nanatsumori","Oh, oh—.
-You say, \"I'll leave it to you\", Even
+You say, \"I'll leave it to you\", even
 though I'm the indoors type...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

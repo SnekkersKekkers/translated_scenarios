@@ -11,7 +11,7 @@ MsgDisp("主人公","Hmmm...");
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_110");
 MsgDisp("Nanatsumori","He's so chatty, loud about everything,
-Like an out-of-control robot.");
+like an out-of-control robot.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);
 ChMouth(4,4);

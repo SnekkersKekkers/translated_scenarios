@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040324100_03_010");
-    MsgDisp("Honda","Yep yep, Like piercing through it with a
+    MsgDisp("Honda","Yep yep, like piercing through it with a
 big fork, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -73,7 +73,7 @@ much as I feel fear.");
         VoicePlay("B040408302_04_080");
         MsgDisp("Nanatsumori","Right. There's lots of bugs I'm scared of.
 And, it's super hot.");
-        MsgDisp("主人公","Ah.,
+        MsgDisp("主人公","Ah.
 Sorry, I didn't notice.");
         ChEye(4,4);
         ChMouth(4,2);

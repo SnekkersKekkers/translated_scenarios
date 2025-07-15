@@ -40,7 +40,7 @@ should enjoy it as much as you can.");
 MsgDisp("主人公","Yes!");
 VoicePlay("D030901500_09_060");
 MsgDisp("Kuya","Okay, time to hang up.
-If I talk to you for too long, It'll
+If I talk to you for too long, it'll
 interfere with your studies.");
 MsgDisp("主人公","U-Uhm......");
 VoicePlay("D030901500_09_070");

@@ -82,7 +82,7 @@ something you like?");
     MsgDisp("Mikage","Fail? If you ask me, Continuing this club
 with your friends and standing on this
 stage is already a success.");
-    MsgDisp("主人公","But, If I make a mistake, I'll just be a
+    MsgDisp("主人公","But, if I make a mistake, I'll just be a
 nuisance to everyone.");
     ChEye(7,0);
     ChMouth(7,0);

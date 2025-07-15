@@ -72,7 +72,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600200_06_090");
-MsgDisp("Himuro","Hey, Could you get a better hold of
+MsgDisp("Himuro","Hey, could you get a better hold of
 yourself?
 You are a year older than me after all.");
 MsgDisp("主人公","Y-Yeah...

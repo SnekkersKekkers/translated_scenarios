@@ -67,7 +67,7 @@ very happy with it.");
         VoicePlay("B040516002_05_060");
         MsgDisp("Hiiragi","Ah, 
 do you doubt my technique?");
-        MsgDisp("主人公","No, If I got to see your happy face when
+        MsgDisp("主人公","No, if I got to see your happy face when
 you were able to win, ｛柊＊＊＊｝,
 anything would be good with me.");
         ChEye(5,3);

@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
     BGMPlay("BGM_C05_HIIRAGI_C",0.01);
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","｛柊＊＊＊｝, We couldn't take home the
+    MsgDisp("主人公","｛柊＊＊＊｝, we couldn't take home the
 championship......
 It's so frustrating......");
     VoicePlay("H2A0500001_05_000");

@@ -78,7 +78,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q100400000_04_100");
-MsgDisp("Nanatsumori","When you're done shopping, Let's round up
+MsgDisp("Nanatsumori","When you're done shopping, let's round up
 with some traditional sweets.");
 MsgDisp("主人公","Agree-d!");
 MsgClose();

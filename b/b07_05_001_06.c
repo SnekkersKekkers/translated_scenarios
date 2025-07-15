@@ -34,7 +34,7 @@ ChMotion(5,4);
 VoicePlay("B070500001_05_470");
 MsgDisp("Hiiragi","It's a joke. But even though we completely
 differ in terms of age, gender, club
-activities and interests, We still
+activities and interests, we still
 naturally gathered together.");
 ChEye(5,4);
 VoicePlay("B070500001_05_480");

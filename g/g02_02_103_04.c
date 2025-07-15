@@ -37,7 +37,7 @@ ChMotion(2,0);
 VoicePlay("G020210304_02_040");
 MsgDisp("Sassa","Really? Oh, I mean what I think would make
 you happy. Not what I like.");
-MsgDisp("主人公","Yeah, If it's something ｛颯砂＊＊｝ likes,
+MsgDisp("主人公","Yeah, if it's something ｛颯砂＊＊｝ likes,
 wouldn't it be better if I gave it as a
 present?");
 ChEye(2,0);

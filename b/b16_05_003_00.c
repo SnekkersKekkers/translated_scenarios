@@ -3,7 +3,7 @@ NSSOpen(5,255,0,0,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160500300_05_000");
-MsgDisp("Hiiragi","With this, If I were to take your hand,
+MsgDisp("Hiiragi","With this, if I were to take your hand,
 what would you do?");
 MsgSel("Because it's ｛柊＊＊＊｝, anything is fine.","...What should I do?");
 switch (MsgSelRsltGet()){

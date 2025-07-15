@@ -52,7 +52,7 @@ right? Don't worry.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("Q080200000_02_050");
-    MsgDisp("Sassa","Then, Let's go around the free day after
+    MsgDisp("Sassa","Then, let's go around the free day after
 tomorrow together too, okay?");
     MsgDisp("主人公","Yeah!");
     ChEye(2,0);

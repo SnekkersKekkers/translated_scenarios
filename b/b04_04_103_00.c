@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040410300_04_000");
 MsgDisp("Nanatsumori","Take Hazuki Kei for example.
 The alumni of our school are incredible.");
-MsgSel("I kinda don't get their tastes...","It's ｛七ツ森＊｝'s turn next'","I can really understand their thoughts!");
+MsgSel("I kinda don't get their tastes...","It's ｛七ツ森＊｝'s turn next.","I can really understand their thoughts!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B040410300_04_010");
-    MsgDisp("Nanatsumori","If you understood this trichromatic world,
-I's like to hear lots more about it...");
+    MsgDisp("Nanatsumori","If you understand this trichromatic world,
+I'd like you to tell me more about it...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

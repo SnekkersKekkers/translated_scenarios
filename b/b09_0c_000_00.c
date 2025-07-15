@@ -11,7 +11,7 @@ VoicePlay("B090C00000_06_000");
 MsgDisp("Himuro","Don't tell me she's still sleeping?");
 VoicePlay("B090C00000_07_000");
 MsgDisp("Mikage","Oi—,
-If you're sleeping, wake up～");
+if you're sleeping, wake up～");
 VoicePlay("B090C00000_05_010");
 MsgDisp("Hiiragi","Ummm... If you've received this message,
 please get in touch. We'll be waiting.");

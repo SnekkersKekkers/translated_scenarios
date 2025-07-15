@@ -67,7 +67,7 @@ anything.");
     ChMouth(2,0);
     ChMotion(2,3);
     VoicePlay("P830200000_02_050");
-    MsgDisp("Sassa","Even so, If you have to carry this many
+    MsgDisp("Sassa","Even so, if you have to carry this many
 things, tell me.");
     ChEye(2,0);
     ChMouth(2,0);

@@ -11,7 +11,7 @@ VoicePlay("G020220300_02_010");
 MsgDisp("Sassa","If you were a firefly, which would you
 prefer?");
 MsgDisp("主人公","Eh,
-If I were a firefly?");
+if I were a firefly?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

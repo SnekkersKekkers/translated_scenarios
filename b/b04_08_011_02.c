@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,4,1);
     VoicePlay("B040801102_08_010");
-    MsgDisp("Shirahane","That's right, If only I was cool like the
+    MsgDisp("Shirahane","That's right, if only I was cool like the
 high school model Nana...");
     MsgDateResultDisp();
     break ;

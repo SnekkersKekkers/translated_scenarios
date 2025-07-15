@@ -53,7 +53,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 ChEyeOpenLevel(7,7);
 VoicePlay("B330C20401_07_030");
-MsgDisp("Mikage","But, living alone, If I heard a strange
+MsgDisp("Mikage","But, living alone, if I heard a strange
 voice...");
 MsgDisp("主人公","Eh... that's scary.");
 ChEye(6,0);

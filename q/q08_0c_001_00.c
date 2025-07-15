@@ -31,7 +31,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q080C00100_05_020");
-MsgDisp("Hiiragi","So also the free day after tomorrow, Let's
+MsgDisp("Hiiragi","So also the free day after tomorrow, let's
 go around together too.");
 MsgDisp("主人公","Hehe, yes.
 I'm looking forward!");

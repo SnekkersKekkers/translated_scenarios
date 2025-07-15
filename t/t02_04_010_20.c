@@ -24,7 +24,7 @@ everything turns into happiness.");
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("T020401000_04_160");
-MsgDisp("Nanatsumori","Ahー, If I get any happier, I might break
+MsgDisp("Nanatsumori","Ahー, if I get any happier, I might break
 down.");
 ChEye(4,4);
 ChMouth(4,4);

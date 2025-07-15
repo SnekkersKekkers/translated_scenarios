@@ -48,8 +48,8 @@ Let's swim. ＧＯ!");
         ChMouth(4,0);
         ChMotion(4,0);
         VoicePlay("B040406102_04_050");
-        MsgDisp("Nanatsumori","Actually, If I got injured, or get a bad
-tan, It'll affect my modelling work, so
+        MsgDisp("Nanatsumori","Actually, if I got injured, or get a bad
+tan, it'll affect my modelling work, so
 I've been told to avoid this kind of
 thing.");
         MsgDisp("主人公","Ah... I see. I'm sorry for not taking that

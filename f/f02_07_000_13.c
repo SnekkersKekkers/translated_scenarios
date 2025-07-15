@@ -55,7 +55,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F020700013_07_060");
-MsgDisp("Mikage","That's troubling then. But, If I'm going
+MsgDisp("Mikage","That's troubling then. But, if I'm going
 to get scolded anyways, I want to throw
 pillows... It really is no good, huh～");
 MsgDisp("主人公","Umm, I think you should find something

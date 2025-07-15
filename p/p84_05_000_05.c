@@ -44,7 +44,7 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("P840500005_05_030");
 MsgDisp("Hiiragi","There's no need to be impatient in dealing
-with these matters, Let's approach it with
+with these matters, let's approach it with
 composure.");
 MsgDisp("主人公","(Haa... it's as ｛柊＊＊＊｝ says. I have
 to work more calmly... I failed even

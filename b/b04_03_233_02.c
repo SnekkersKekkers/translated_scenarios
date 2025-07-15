@@ -48,7 +48,7 @@ of fear?");
         ChMotion(3,3);
         VoicePlay("B040323302_03_040");
         MsgDisp("Honda","Heey,
-We jumped from that height right?");
+we jumped from that height right?");
         ChEye(3,2);
         ChMouth(3,4);
         ChMotion(3,2);

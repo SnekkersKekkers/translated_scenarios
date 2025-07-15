@@ -92,7 +92,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30600_06_040");
-MsgDisp("Himuro","Then, it's as Ryota-senpai says, Let's
+MsgDisp("Himuro","Then, it's as Ryota-senpai says, let's
 head to a coffee shop and discuss our
 impressions.");
 ChEye(2,0);

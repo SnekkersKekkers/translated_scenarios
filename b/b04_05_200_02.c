@@ -108,7 +108,7 @@ he's bad at earnestly is so cool...)");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040520002_05_110");
-    MsgDisp("Hiiragi","Yes, If you're afraid of getting injured,
+    MsgDisp("Hiiragi","Yes, if you're afraid of getting injured,
 you can't do anything.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

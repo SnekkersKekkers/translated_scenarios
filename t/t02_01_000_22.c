@@ -89,7 +89,7 @@ StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_720");
-MsgDisp("Kazama","｛主人公｝, Let's go ahead and hold the
+MsgDisp("Kazama","｛主人公｝, let's go ahead and hold the
 ceremony like this.");
 MsgDisp("主人公","......Yes.");
 VoicePlay("T020100000_01_730");

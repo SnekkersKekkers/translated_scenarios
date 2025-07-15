@@ -115,7 +115,7 @@ ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("B330C10701_05_060");
 MsgDisp("Hiiragi","I suspected as much,
-Let's go for the end!");
+let's go for the end!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

@@ -1,7 +1,7 @@
 BGOpen("sc607",0);
 ScrFadeIn(0);
 VoicePlay("P710000000_44_000");
-MsgDisp("Manager","For this year's cultural festival, We, the
+MsgDisp("Manager","For this year's cultural festival, we, the
 Handicrafts Club will host a fashion show
 in the gymnasium!");
 VoicePlay("P710000000_44_010");

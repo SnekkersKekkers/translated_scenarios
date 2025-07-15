@@ -68,7 +68,7 @@ penguins!");
         VoicePlay("B040403202_04_050");
         MsgDisp("Nanatsumori","Right. If I was only looking up, my neck
 would start to hurtー.");
-        MsgDisp("主人公","Hehe, Ahaha!");
+        MsgDisp("主人公","Hehe, ahaha!");
         ChEye(4,3);
         ChMouth(4,4);
         ChMotion(4,0,1);

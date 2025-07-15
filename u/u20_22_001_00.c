@@ -22,5 +22,5 @@ MsgDisp("Hikaru","Refresh your body, refresh your mind♪
 Or something like that.");
 ChMotion(22,4,1);
 VoicePlay("U202200100_22_020");
-MsgDisp("Hikaru","With that in mind, Let's refresh ourselves
+MsgDisp("Hikaru","With that in mind, let's refresh ourselves
 even more▼");

@@ -100,7 +100,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B070101000_01_110");
 MsgDisp("Kazama","Stop it, 
-If you say anything more off──");
+if you say anything more off──");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

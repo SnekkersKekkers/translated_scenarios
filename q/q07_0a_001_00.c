@@ -65,7 +65,7 @@ ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("Q070A00100_02_030");
 MsgDisp("Sassa","I'm sure Inori would say something like \"I
-see, Ryota-senpai is boring\", If he were
+see, Ryota-senpai is boring\", if he were
 here.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);

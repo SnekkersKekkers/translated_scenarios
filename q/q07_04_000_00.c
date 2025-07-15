@@ -75,7 +75,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q070400000_04_090");
-MsgDisp("Nanatsumori","After we climb this tower, Let's go to the
+MsgDisp("Nanatsumori","After we climb this tower, let's go to the
 next place.");
 MsgDisp("主人公","Agreed!");
 BGMStop(2);

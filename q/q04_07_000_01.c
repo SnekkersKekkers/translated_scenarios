@@ -14,7 +14,7 @@ Of course, I'm coming.");
     ChEyeOpenLevel(7,8);
     VoicePlay("Q040700001_07_010");
     MsgDisp("Mikage","Haha, extracurricular lesson Nagasaki
-edition, Let's go!");
+edition, let's go!");
     MsgDisp("主人公","Yes, let's go!");
     break ;
     case 3:
