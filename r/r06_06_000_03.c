@@ -83,7 +83,7 @@ mine...");
     ChMotion(6,5);
     VoicePlay("R060600003_06_110");
     MsgDisp("Himuro","Really?
-... that's incredible.");
+...Amazing.");
     MsgDisp("主人公","A Christmas miracle?");
     ChEye(6,0);
     ChMouth(6,4);

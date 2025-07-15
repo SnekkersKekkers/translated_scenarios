@@ -38,7 +38,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A03400_06_010");
 MsgDisp("Himuro","Well, yeah.
-His possessiveness is that strong it's
+His possessiveness is so strong it's
 almost refreshing.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -46,8 +46,7 @@ ChMotion(1,0,1);
 VoicePlay("D140A03400_01_030");
 MsgDisp("Kazama","It's just a normal conversation.
 Right?");
-MsgDisp("主人公","Yeah, was there 
-something weird about it?");
+MsgDisp("主人公","Yeah, was there something weird about it?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -92,8 +91,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("D140A03400_02_030");
-MsgDisp("Sassa","Sorry. I mean, I'm their childhood friend
-also, after all.");
+MsgDisp("Sassa","Sorry. I mean, I guess I'm also a childhood friend.");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
@@ -105,8 +103,7 @@ MsgDisp("Himuro","Ugh...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
-MsgDisp("主人公","｛氷室＊＊｝, you're in the same school as
-us right?");
+MsgDisp("主人公","But ｛氷室＊＊｝, you go to the same school as us.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

@@ -24,7 +24,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_270");
 MsgDisp("Himuro","Nozomu-senpai will bring up a trivial
-topic, And Ryota-senpai will brush them
+topic, and Ryota-senpai will brush them
 off.");
 ChEye(6,0);
 ChMouth(6,0);

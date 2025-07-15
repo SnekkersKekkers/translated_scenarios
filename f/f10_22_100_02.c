@@ -13,7 +13,7 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F102210002_22_000");
-MsgDisp("Hikaru","No, it wasn't Hikaru'd doing, it was just
+MsgDisp("Hikaru","No, it wasn't Hikaru's doing, it was just
 that your work was charming♪");
 VoicePlay("F102210002_40_010");
 MsgDisp("Garden Club Member","Hanatsubaki-san, you are truly amazing!

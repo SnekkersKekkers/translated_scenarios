@@ -17,7 +17,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P840600004_06_010");
 MsgDisp("Himuro","You responded well. You were used to
-dealing with kids, And you described her
+dealing with kids, and you described her
 features p perfectly on the school
 broadcast.");
 MsgDisp("主人公","Is that so?");

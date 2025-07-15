@@ -104,7 +104,7 @@ ChMotion(4,0,1);
 VoicePlay("A020410000_04_100");
 MsgDisp("Nanatsumori?","Well, he's a model you know.");
 MsgDisp("主人公","He's all, he's got style, he's got that
-special wild vibe, And his face......when
+special wild vibe, and his face......when
 he's doing that 'shhh'......pose?");
 ChEye(4,0);
 ChMouth(4,1);

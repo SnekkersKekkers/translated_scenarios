@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040609000_06_000");
 MsgDisp("Himuro","It might be fitting to say it's a sea of
 green.");
-MsgSel("That flower is producing a super nice fragrance...","It sure is humid isn't it?","I wonder where the carnivorous plants are?");
+MsgSel("That flower is producing a super nice fragrance...","It sure is humid here, isn't it?","I wonder where the carnivorous plants are?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

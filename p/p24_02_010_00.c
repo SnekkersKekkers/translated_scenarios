@@ -79,7 +79,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 VoicePlay("P240201000_49_000");
 MsgDisp("Narrator","Afterwards, Persephone was drawn to Hades'
-sincerity, And wished to marry the king of
+sincerity, and wished to marry the king of
 the underworld.");
 BGMStop();
 SEPlay("EV_SE_GAYA_021");

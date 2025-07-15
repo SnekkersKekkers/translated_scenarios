@@ -87,7 +87,7 @@ talk to me to check on my progress.");
 MsgDisp("","\"Good luck with the preparations.\"
 \"Thank you for staying up late.\"");
 MsgDisp("","I often received words of
-encouragement, And although it's
+encouragement, and although it's
 late, I felt as if I had become part
 of this school.");
 MsgClear();

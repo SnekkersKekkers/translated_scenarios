@@ -34,7 +34,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100700_01_020");
 MsgDisp("Kazama","It's not so bad.
-Time flows slowly for us, And everyone
+Time flows slowly for us, and everyone
 else is busy as usual.");
 ChEye(1,1);
 ChMouth(1,0);

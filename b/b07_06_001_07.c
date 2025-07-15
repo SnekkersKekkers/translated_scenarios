@@ -25,8 +25,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_500");
 MsgDisp("Himuro","So? 
-How ca w fix this?");
-MsgDisp("主人公","Ummm, If we stay like this for a while, I
+How can we fix this?");
+MsgDisp("主人公","Ummm, if we stay like this for a while, I
 think I'll calm down.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -50,7 +50,7 @@ ChMotion(6,4);
 VoicePlay("B070600001_06_540");
 MsgDisp("Himuro","I think it's spread to me.");
 MsgDisp("主人公","(｛氷室＊＊｝'s face is also red...
-what happened to us?)");
+What happened to us?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -31,7 +31,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("F032100000_21_160");
-MsgDisp("Michiru","Their hair is beautifully arranged, And
+MsgDisp("Michiru","Their hair is beautifully arranged, and
 their clothes made entirely of silk. A
 clash of the two competitor's power and
 skills.");

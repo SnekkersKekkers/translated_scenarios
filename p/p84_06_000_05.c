@@ -38,7 +38,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P840600005_06_030");
-MsgDisp("Himuro","We can't see the girl, And we passed by
+MsgDisp("Himuro","We can't see the girl, and we passed by
 her mother.");
 MsgDisp("主人公","But, I'm glad it's somehow worked out.");
 ChEye(6,1);

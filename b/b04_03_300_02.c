@@ -70,7 +70,7 @@ them.");
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040330002_03_050");
-        MsgDisp("Honda","Then, let's put the creatures aside, And
+        MsgDisp("Honda","Then, let's put the creatures aside, and
 try some fortune telling?");
         MsgDisp("主人公","Eh, ｛本多＊＊｝, you can fortune-tell?");
         ChEye(3,0);

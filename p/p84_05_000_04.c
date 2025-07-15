@@ -1,7 +1,7 @@
 ScrFadeIn(0);
 VoicePlay("P840500004_44_000");
 MsgDisp("School Girl","As for the noise, I talked to the class
-representative, And the matter was able to
+representative, and the matter was able to
 be settled.");
 MsgDisp("主人公","Really? I'm glad. Thank you for your hard
 work!");

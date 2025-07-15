@@ -59,8 +59,7 @@ StlMouth(6,1);
 VoicePlay("R080600000_06_020");
 MsgDisp("Himuro","What are you doing?");
 MsgDisp("主人公","Ah...｛氷室＊＊｝, that's what I need to ask
-you, Eh......
-are you praying?");
+you. Are you praying?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -78,7 +77,7 @@ StlEye(6,2);
 StlMouth(6,0);
 VoicePlay("R080600000_06_050");
 MsgDisp("Himuro","When I saw you at the party...
-it felt like the finale was here.");
+It felt like the finale was here.");
 MsgDisp("主人公","The finale...");
 StlEye(6,2);
 StlMouth(6,0);
@@ -118,8 +117,7 @@ StlEyeOpenLevel(6,0,1);
 VoicePlay("R080600000_06_120");
 MsgDisp("Himuro","I wish that I could enjoy it like I did
 this year's, but I know that's impossible.");
-MsgDisp("主人公","You can never be too sure, 
-right?");
+MsgDisp("主人公","You can't say that for sure, can you?");
 StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("R080600000_06_130");

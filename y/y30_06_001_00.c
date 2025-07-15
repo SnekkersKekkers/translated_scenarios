@@ -110,7 +110,7 @@ BGOpen("ad612",0);
 ScrFadeIn(0);
 MsgDisp("","Until now, I had decided without
 doubt. But I began to be skeptical of
-my path, And so, the legs that had
+my path, and so, the legs that had
 intended to go home, turned towards
 the sea.");
 MsgDisp("","My insignificant existence, my

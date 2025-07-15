@@ -53,7 +53,7 @@ MsgClear();
 MsgDisp("","I'm simple-minded, so being praised
 lifts my spirits.");
 MsgDisp("","With more confidence, I removed my
-gaze from the camera, And looked
+gaze from the camera, and looked
 towards a corner in the studio.");
 MsgDisp("","There she was.");
 MsgClear();

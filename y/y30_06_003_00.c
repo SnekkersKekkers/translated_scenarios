@@ -6,11 +6,11 @@ MsgDisp("","Today has been a continuation of
 failures since morning.");
 MsgDisp("","Absentmindedly, and being unable to
 focus, I put the wrong shoes on,
-tripped on a step, And wore my
+tripped on a step, and wore my
 outdoor shoes into school.");
 MsgDisp("","Finally, In spite of me being in the
 middle of the lesson I checked my
-phone, And almost had it confiscated
+phone, and almost had it confiscated
 by the teacher.");
 MsgDisp("","I was already at my limit.");
 MsgClear();

@@ -54,7 +54,7 @@ ChMotion(7,3);
 VoicePlay("G020740001_07_060");
 MsgDisp("Mikage","If it means I get to eat Hiyashi Chuuka at
 the school cafeteria.");
-MsgDisp("主人公","(｛御影＊＊｝, Tt would be good if you
+MsgDisp("主人公","(｛御影＊＊｝, it would be good if you
 didn't make Himuro-sensei angry
 again......)");
 BGMStop();

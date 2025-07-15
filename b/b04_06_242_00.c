@@ -5,8 +5,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("B040624200_06_000");
-MsgDisp("Himuro","It's nothing but nature huh.");
-MsgSel("｛氷室＊＊｝, I'll be counting on you♪","Camping means ＢＢＱ!","This seems like a lot of inconvenience...");
+MsgDisp("Himuro","There's nothing but nature, huh?");
+MsgSel("｛氷室＊＊｝, I'll be counting on you♪","Camping means BBQ!","This seems like a lot of inconvenience...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

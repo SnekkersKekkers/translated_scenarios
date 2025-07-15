@@ -43,7 +43,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("D140C06100_07_020");
 MsgDisp("Mikage","There's you who's worried about Yanosuke,
-Inori who's worried about that, And me
+Inori who's worried about that, and me
 who's looking on with a smile.");
 ChEye(6,0);
 ChMouth(6,0);

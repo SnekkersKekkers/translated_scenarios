@@ -60,8 +60,7 @@ VoicePlay("G110600803_06_060");
 MsgDisp("Himuro","Yeah. The best bouquets get turned into
 goods to sell. But, it would be offensive
 to give a half-hearted one.");
-MsgDisp("主人公","So, 
-what would make it a failure?");
+MsgDisp("主人公","So, what would make it a failure?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

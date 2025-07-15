@@ -28,7 +28,7 @@ loom, that was enough.");
 VoicePlay("P240601000_48_010");
 MsgDisp("Orihime","Until I met you, Hikoboshi-sama.");
 VoicePlay("P240601000_43_020");
-MsgDisp("Hikoboshi","...If you say such, it is the same for me.");
+MsgDisp("Hikoboshi","...Your truth is also my truth.");
 VoicePlay("P240601000_43_030");
 MsgDisp("Hikoboshi","Day after day, I would steadily pull ox
 and plough the fields. That was my world.
@@ -40,7 +40,7 @@ eyes on you, everything changed.");
 VoicePlay("P240601000_06_010");
 MsgDisp("Himuro","...Things have changed, huh.");
 VoicePlay("P240601000_06_020");
-MsgDisp("Himuro","After all, Hikiboshi didn't want to end up
+MsgDisp("Himuro","After all, Hikoboshi didn't want to end up
 like this.");
 MsgDisp("主人公","Eh?");
 SEStop("EV_SE_674",3);
@@ -76,7 +76,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_060");
 MsgDisp("Himuro","...Then if you were Orihime, do you think
-you would be happy to meet Hikiboshi?");
+you would be happy to meet Hikoboshi?");
 MsgDisp("主人公","Yeah, I think so.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -88,7 +88,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_080");
-MsgDisp("Himuro","Well, if I were Hikiboshi, Even after I
+MsgDisp("Himuro","Well, if I were Hikoboshi, Even after I
 met Orihime, I wouldn't become
 undisciplined.");
 MsgDisp("主人公","Hehe, that's just like you, ｛氷室＊＊｝.");

@@ -12,9 +12,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("G110600804_06_010");
-MsgDisp("Himuro","So, you're going on an excursion?");
+MsgDisp("Himuro","Want to take a trip?");
 MsgDisp("主人公","Hehe, yeah!
-Please excuse me.");
+Sorry to disturb.");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -31,7 +31,7 @@ VoicePlay("G110600804_06_020");
 MsgDisp("Himuro","How long are you going to continue the
 part time job?");
 MsgDisp("主人公","I guess for as long as I can.
-and how about you, ｛氷室＊＊｝?");
+What about you, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

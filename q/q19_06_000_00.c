@@ -70,7 +70,7 @@ MsgDisp("Himuro","I just forgot to put them on.
 More importantly, how is it there?
 Are you enjoying?");
 MsgDisp("主人公","Hehe, yeah!
-The weather is great, And it's a very nice
+The weather is great, and it's a very nice
 place.");
 StlEye(6,2,0);
 StlMouth(6,2);

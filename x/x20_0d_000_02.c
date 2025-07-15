@@ -25,8 +25,7 @@ I'm super happy for you...!");
 VoicePlay("X200D00002_22_010");
 MsgDisp("Hikaru","Hikaru is also super happy...!
 Mari, you did it▼");
-MsgDisp("主人公","(I'm...
-Rose Queen!)");
+MsgDisp("主人公","(I'm the Rose Queen...!)");
 SEPlay("EV_SE_082");
 MsgDisp("","(I received a \"Queen's Gown\" as proof of
 my status as Rose Queen!)");

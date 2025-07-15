@@ -75,7 +75,7 @@ for me.");
     ChCheek(1,0);
     VoicePlay("R040100001_01_080");
     MsgDisp("Kazama","Don't get cocky!");
-    MsgDisp("主人公","(Hehe! ｛風真＊＊｝ seemed to really like
+    MsgDisp("主人公","(Hehe! ｛風真＊＊｝ seems to really like
 my dress.)");
     break ;
     default :

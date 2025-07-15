@@ -59,10 +59,10 @@ I wouldn't lie about this.");
     ChMotion(6,3);
     VoicePlay("R040600001_06_070");
     MsgDisp("Himuro","Well, um...
-your dress.
+Your dress.
 It's nice.");
     MsgDisp("主人公","Thank you.
-Don't you think you look nice, ｛氷室＊＊｝?");
+You look pretty nice too, ｛氷室＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

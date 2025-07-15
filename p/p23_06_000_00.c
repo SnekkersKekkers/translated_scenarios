@@ -31,9 +31,9 @@ you always have.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P230600000_06_020");
-    MsgDisp("Himuro","Still nervous, 
-Then...lend me your hand.");
-    MsgDisp("主人公","Hand?");
+    MsgDisp("Himuro","Still nervous? 
+Then...give me your hand.");
+    MsgDisp("主人公","My hand?");
     ChClose(6,0,30);
     ChLayout(0);
     MsgClose();
@@ -43,7 +43,7 @@ Then...lend me your hand.");
     SEWait();
     VoicePlay("P230600000_06_030");
     MsgDisp("Himuro","...I thought so, they're cold.
-YOu can't stay calm like this.");
+You can't stay calm like this.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -51,7 +51,7 @@ YOu can't stay calm like this.");
     VoicePlay("P230600000_06_040");
     MsgDisp("Himuro","It's alright.
 I'm the same.");
-    MsgDisp("主人公","｛氷室＊＊｝... Yeah, thank you.");
+    MsgDisp("主人公","｛氷室＊＊｝... yeah, thank you.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

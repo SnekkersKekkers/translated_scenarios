@@ -76,7 +76,7 @@ I know that, but I'm pissed.");
         ChMouth(6,1);
         ChMotion(6,0);
         VoicePlay("B040606102_06_070");
-        MsgDisp("Himuro","The sea is a special place to me, And I'm
+        MsgDisp("Himuro","The sea is a special place to me, and I'm
 here with you now.");
         ChEye(6,0);
         ChMouth(6,1);

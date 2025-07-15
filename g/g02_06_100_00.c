@@ -3,7 +3,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610000_06_000");
-MsgDisp("Himuro","......Beautiful");
+MsgDisp("Himuro","......Beautiful.");
 MsgDisp("主人公","Yeah......");
 ChEye(6,0);
 ChMouth(6,4);
@@ -23,15 +23,15 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020610000_06_030");
-MsgDisp("Himuro","Yeah. Even if I thought so in my heart, I
-could never really say it out loud..");
+MsgDisp("Himuro","Yeah. I used to think that even if I
+thought so in my heart, I'd never be able to say
+it outloud.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("G020610000_06_040");
-MsgDisp("Himuro","It felt frustrating, like admitting it was
-embarrassing......");
+MsgDisp("Himuro","It felt frustrating, though it's embarrassing to admit it......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

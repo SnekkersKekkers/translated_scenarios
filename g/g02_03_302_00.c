@@ -53,7 +53,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020330200_03_070");
-MsgDisp("Honda","Right, right, And then suddenly, everyone
+MsgDisp("Honda","Right, right, and then suddenly, everyone
 disappeared.");
 ChEye(3,0);
 ChMouth(3,0);

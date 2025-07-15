@@ -16,10 +16,9 @@ VoicePlay("P240600000_06_000");
 MsgDisp("Himuro","............");
 MsgDisp("主人公","(...Huh? At this part, Hikoboshi is
 supposed to take Orihime's hand...)");
-MsgDisp("主人公","Hikiboshi-sama...?");
+MsgDisp("主人公","Hikoboshi-sama...?");
 VoicePlay("P240600000_06_010");
-MsgDisp("Himuro","! ...If you say such, it is the same for
-me.");
+MsgDisp("Himuro","! ...Thy truth is also my truth.");
 MsgClose();
 BGMVol(0.5,2);
 SEPlay("EV_SE_551",0,0.7);
@@ -43,9 +42,7 @@ VoicePlay("P240600000_06_030");
 MsgDisp("Himuro","However, since the day I was called by the
 Celestial Emperor and the day I first laid
 eyes on you, everything changed.");
-MsgDisp("主人公","(｛氷室＊＊｝, doesn't have his glasses and
-he's a lot closer, this is completely
-different to when we practiced...!)");
+MsgDisp("主人公","(｛氷室＊＊｝'s not wearing his glasses—so close! This is nothing like what we practiced!)");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -59,7 +56,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("P240600000_06_060");
-MsgDisp("Himuro","This, isn't like me at all...");
+MsgDisp("Himuro","This isn't like me at all...");
 MsgDisp("主人公","(Ugh...what should we do?
 This is different to the script...
 No, I'll just keep going.)");
@@ -111,7 +108,7 @@ ChCheek(6,10);
 VoicePlay("P240600000_06_100");
 MsgDisp("Himuro","Not so much ad-libbing, but more like my
 true feelings...");
-MsgDisp("主人公","Hehe, for you to incorporate that, Isn't
+MsgDisp("主人公","Hehe, for you to incorporate that, isn't
 that amazing, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -122,7 +119,7 @@ that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝?");
+MsgDisp("主人公","(｛氷室＊＊｝)?");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(6,0);

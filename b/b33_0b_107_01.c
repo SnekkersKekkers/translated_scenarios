@@ -71,7 +71,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10701_03_020");
 MsgDisp("Honda","We start with antiques, then the Kazama
-family ancestors, And once we start
+family ancestors, and once we start
 talking about Habataki City's history, we
 can't stop!");
 ChEye(1,0);

@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060101000_01_000");
         MsgDisp("Kazama","Okay, that's settled.
 What about the meeting place?");
-        MsgDisp("主人公","How about we meet at ｛待ち合わせ場所｝?");
+        MsgDisp("主人公","How about we meet at the ｛待ち合わせ場所｝?");
         VoicePlay("J060101000_01_010");
         MsgDisp("Kazama","Roger that.
 I'm looking forward to it.");
@@ -24,7 +24,7 @@ Is this a date?)");
         VoicePlay("J060101000_01_020");
         MsgDisp("Kazama","Copy that.
 Where do you want me to meet you?");
-        MsgDisp("主人公","How about we meet at ｛待ち合わせ場所｝?");
+        MsgDisp("主人公","How about we meet at the ｛待ち合わせ場所｝?");
         VoicePlay("J060101000_01_030");
         MsgDisp("Kazama","OK. Well, we can be wherever we are. I can
 see you anywhere, right?");

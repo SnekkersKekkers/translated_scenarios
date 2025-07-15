@@ -4,8 +4,8 @@ BGOpen("ad330",0);
 ScrFadeIn(0);
 VoicePlay("Y300300300_03_000");
 MsgDisp("Honda","\"Today was a huge failure...
-Haa, she mus have been really
-surprised too\"");
+Haa, she must have been really
+surprised too.\"");
 MsgClear();
 MsgDisp("","Whilst I was working at my part time
 job, A chemical change occurred

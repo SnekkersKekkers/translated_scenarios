@@ -34,7 +34,7 @@ switch (ChPrmGet(3,6)){
     ChEyeOpenLevel(3,0);
     VoicePlay("R040300002_03_010");
     MsgDisp("Honda","Sniff...
-This smell isn't ramen, right∋");
+That smell is ramen, isn't it∋");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);

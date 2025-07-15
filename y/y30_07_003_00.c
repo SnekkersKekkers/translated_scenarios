@@ -74,7 +74,7 @@ MsgClear();
 MsgDisp("","Tulip flower fortune telling uses the
 language of flowers to give a
 different meaning for each flower.");
-MsgDisp("","I cheated a little, And gave Miss
+MsgDisp("","I cheated a little, and gave Miss
 Diligent a bulb that would bloom into
 pink.");
 MsgDisp("","After all, that's the prize for the

@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,1);
     VoicePlay("B040611101_06_010");
-    MsgDisp("Himuro","That's assuming we fall no?
-I don't feel like I'll lose though.");
+    MsgDisp("Himuro","That's assuming we fall, no?
+I don't feel like I'll lose, though.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

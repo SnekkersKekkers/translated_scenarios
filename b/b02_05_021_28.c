@@ -10,7 +10,7 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B020502128_05_010");
-MsgDisp("Hiiragi","It is easy to move in, And dries quickly
+MsgDisp("Hiiragi","It is easy to move in, and dries quickly
 even when you sweat in it. So if you were
 to wear it as practice clothes...");
 MsgDisp("主人公","Practice clothes?");

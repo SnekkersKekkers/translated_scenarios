@@ -52,7 +52,7 @@ gone?\" and we burst into laughter.");
 MsgClear();
 MsgDisp("","Kazama seems even more upset.");
 MsgDisp("","Finding that amusing, the two of us
-roar with laughter, And the person
+roar with laughter, and the person
 we're talking about appears.");
 BGOpen("ad440",0);
 MsgClear();

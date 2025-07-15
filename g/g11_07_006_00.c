@@ -26,7 +26,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700600_07_010");
 MsgDisp("Mikage","Plants look their loveliest in the
-morning, And the earlier you water them,
+morning, and the earlier you water them,
 the better.");
 ChEye(7,0);
 ChMouth(7,0);

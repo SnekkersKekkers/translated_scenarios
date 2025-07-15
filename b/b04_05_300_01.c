@@ -8,7 +8,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040530001_05_000");
-MsgDisp("Hiiragi","There's a training room in here, And
+MsgDisp("Hiiragi","There's a training room in here, and
 there's some members even live on-site.
 It's always noisy, you know?");
 MsgSel("It's quiet today huh?","Is this the only place where you can be alone, ｛柊＊＊＊｝?","Do you memorize your lines in this room?");

@@ -9,7 +9,7 @@ VoicePlay("B040610500_06_000");
 MsgDisp("Himuro","There are a lot of avant garde works.
 I guess art goes in and out of fashion as
 well.");
-MsgSel("It's amazing that such things can be made","I completely don't get it.","Is there a point to that aerodynamic shape?");
+MsgSel("It's amazing that such things can be made.","I don't get it at all.","Is there a point to that aerodynamic shape?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

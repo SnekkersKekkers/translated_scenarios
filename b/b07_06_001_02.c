@@ -5,7 +5,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_090");
-MsgDisp("Himuro","Rather than talking, he;s the one
+MsgDisp("Himuro","Rather than talking, he's the one
 approaching me.");
 ChEye(6,0);
 ChMouth(6,0);
