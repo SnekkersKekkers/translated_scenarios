@@ -26,7 +26,7 @@ Can you suggest a meeting place?");
         ChMotion(5,0);
         VoicePlay("J060500000_05_010");
         MsgDisp("Hiiragi","Yes, ma'am.
-To be able to accept the invitation, It is
+To be able to accept the invitation, it is
 such a pleasure.");
         ChMouth(5,3);
         VoicePlay("J060500000_05_020");

@@ -53,7 +53,7 @@ Seems like I shouldn't call him that.)");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("F010200001_02_050");
-    MsgDisp("Sassa","Uh, no matter how much you like it, It
+    MsgDisp("Sassa","Uh, no matter how much you like it, it
 doesn't seem right.");
     MsgDisp("主人公","Sorry. Do you dislike it?");
     ChEye(2,0);

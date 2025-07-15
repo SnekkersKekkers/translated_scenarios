@@ -4,7 +4,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah......it's from Habatcher's editorial
 department.)");
-MsgDisp("主人公","(Let's see, It says \"Surfing exhibition in
+MsgDisp("主人公","(Let's see, it says \"Surfing exhibition in
 progress at Habataki Beach\"......
 Alright, I'll cover it!)");
 MsgClose();

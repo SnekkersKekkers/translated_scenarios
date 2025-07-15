@@ -36,7 +36,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C10600_06_000");
 MsgDisp("Himuro","...If Yanosuke-senpai is appraising it,
-Maybe my perspective is off....?");
+maybe my perspective is off....?");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(7,0);

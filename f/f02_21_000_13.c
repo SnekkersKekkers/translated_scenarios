@@ -22,7 +22,7 @@ ChMotion(21,0);
 VoicePlay("F022100013_21_010");
 MsgDisp("Michiru","Even though we have free time, we're not
 free to do what we want the entire trip,
-So we have to plan our sightseeing within
+so we have to plan our sightseeing within
 the time limit, okay?");
 MsgDisp("主人公","Right.");
 ChEye(21,0);

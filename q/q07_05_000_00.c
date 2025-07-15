@@ -44,7 +44,7 @@ VoicePlay("Q070500000_05_030");
 MsgDisp("Hiiragi","It's amazing.
 It looks taller than the keep of Habataki
 Castle.");
-MsgDisp("主人公","Hehe, yes. Ah...... but the castle, It's
+MsgDisp("主人公","Hehe, yes. Ah...... but the castle, it's
 on top of Mount Habataki.");
 ChEye(5,0);
 ChMouth(5,4);

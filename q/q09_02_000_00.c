@@ -49,7 +49,7 @@ today, aren't you?");
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("Q090200000_02_050");
-    MsgDisp("Sassa","Yeah, It's the same.
+    MsgDisp("Sassa","Yeah, it's the same.
 All for one, make sure not to make
 regrets.");
     ChEye(2,0);

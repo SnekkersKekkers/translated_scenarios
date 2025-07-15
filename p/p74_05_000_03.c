@@ -19,7 +19,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("P740500003_05_010");
 MsgDisp("Hiiragi","You weren't injured.
 If you get out the stains from the dress,
-It seems as though it'll also be fine.");
+it seems as though it'll also be fine.");
 MsgDisp("主人公","Y-Yeah...");
 ChEye(5,0);
 ChMouth(5,4);

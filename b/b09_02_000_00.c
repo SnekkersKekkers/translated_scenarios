@@ -5,7 +5,7 @@ Ah, I got a message.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090200000_02_000");
-MsgDisp("Sassa","Umm, It's Sassa.
+MsgDisp("Sassa","Umm, it's Sassa.
 What was up with today?");
 MsgDisp("主人公","(It's ｛颯砂＊＊｝! Ah...?)");
 VoicePlay("B090200000_02_010");

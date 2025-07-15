@@ -3,7 +3,7 @@ BGOpen("sc820",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Amazing...... Flowers and nice buildings
-spread out, It's like being in a foreign
+spread out, it's like being in a foreign
 country!");
 VoicePlay("Q070401000_04_000");
 MsgDisp("Nanatsumori","............");
@@ -66,7 +66,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q070401000_04_090");
-MsgDisp("Nanatsumori","But I thought if I could be with you, It
+MsgDisp("Nanatsumori","But I thought if I could be with you, it
 might be different.
 I got really excited.");
 MsgDisp("主人公","I'm having so much fun right now too!");

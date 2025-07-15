@@ -23,7 +23,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("F110310002_03_030");
-MsgDisp("Honda","I always cut my own hair, So I wanted to
+MsgDisp("Honda","I always cut my own hair, so I wanted to
 show off my skills.");
 MsgDisp("主人公","But no one could beat you in a quiz
 battle, right?");

@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
         DateRateSet(1);
         ChSet(3,4);
         VoicePlay("B040322102_03_010");
-        MsgDisp("Honda","Umm, But the water moats are meant to
+        MsgDisp("Honda","Umm, but the water moats are meant to
 guard the castle?");
         MsgDateResultDisp();
         break ;

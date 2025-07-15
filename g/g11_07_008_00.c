@@ -60,7 +60,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G110700800_07_060");
-MsgDisp("Mikage","Haha, It's too early to be thinking of
+MsgDisp("Mikage","Haha, it's too early to be thinking of
 that. The weather's going to be nice for a
 while.");
 MsgDisp("主人公","(Since I've joined the gardening club, I

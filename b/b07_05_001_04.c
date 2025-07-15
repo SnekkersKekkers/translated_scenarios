@@ -20,7 +20,7 @@ ChMouth(5,4);
 VoicePlay("B070500001_05_300");
 MsgDisp("Hiiragi","Are you disappointed?");
 MsgDisp("主人公","Hmm, I thought it would be a bit different
-to usual, So maybe I was a little hopeful?");
+to usual, so maybe I was a little hopeful?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B070500001_05_310");

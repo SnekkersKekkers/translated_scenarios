@@ -52,7 +52,7 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("Q070B00100_03_020");
 MsgDisp("Honda","Ta-da!
-I knew it would be useful, So I brought a
+I knew it would be useful, so I brought a
 mini tripod with me!");
 ChEye(4,0);
 ChMouth(4,3);

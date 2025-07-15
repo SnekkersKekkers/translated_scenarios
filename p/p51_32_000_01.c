@@ -22,7 +22,7 @@ think so.");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P513200001_32_020");
-MsgDisp("VP Himuro","Now, It's time for finishing touches.
+MsgDisp("VP Himuro","Now, it's time for finishing touches.
 Give it your all right up until the big
 day!");
 VoicePlay("P513200001_38_000");

@@ -45,7 +45,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600500_06_060");
 MsgDisp("Himuro","Would you be okay with anyone?");
-MsgDisp("主人公","That's not true, It's because it's
+MsgDisp("主人公","That's not true, it's because it's
 ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -24,7 +24,7 @@ Ummm, tea...");
     ChMotion(6,0);
     VoicePlay("P830600000_06_010");
     MsgDisp("Himuro","You're worked up huh?");
-    MsgDisp("主人公","Yeah, everyone is busy, So I have to do my
+    MsgDisp("主人公","Yeah, everyone is busy, so I have to do my
 best!");
     ChEye(6,0);
     ChMouth(6,0);

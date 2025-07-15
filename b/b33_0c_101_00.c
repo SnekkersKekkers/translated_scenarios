@@ -104,7 +104,7 @@ ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(7,255,0,0,0,#1,#1,0,3,0,30);
 VoicePlay("B330C10100_05_070");
 MsgDisp("Hiiragi","Inori-kun asks anything without any
-reservations, It's a nice feeling.");
+reservations, it's a nice feeling.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

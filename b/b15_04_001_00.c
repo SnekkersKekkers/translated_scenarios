@@ -26,7 +26,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B150400100_04_030");
-MsgDisp("Nanatsumori","...Ah, But I said that \"It's fine if it's
+MsgDisp("Nanatsumori","...Ah, but I said that \"It's fine if it's
 me\" didn't I...");
 ChEye(4,4);
 ChMouth(4,2);

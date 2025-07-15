@@ -40,7 +40,7 @@ the door. Ryota-senpai, you weren't
 just looking at the door, weren't you
 staring at it the whole time?\"");
 MsgDisp("","When Ryota joins him on this topic,
-It lightens up to the usual mood at
+it lightens up to the usual mood at
 once. Both Ryota and Inori seem to
 enjoy messing around like this.");
 MsgDisp("","Of course, me too.");

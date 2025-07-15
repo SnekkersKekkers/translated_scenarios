@@ -16,7 +16,7 @@ MsgClear();
 MsgDisp("","I've continued training on the sand
 since graduation. I also got a part
 time job to run with dogs.");
-MsgDisp("","But, It's different to when I was in
+MsgDisp("","But, it's different to when I was in
 Haba High...");
 SEStop("EV_SE_679");
 MsgClear();
@@ -27,7 +27,7 @@ MsgDisp("","｛主人公名前｝. We have another member
 now.");
 MsgDisp("","At first the dogs tilted their heads
 confusedly at her, as if saying
-\"Huh?\", But it's gotten to the point
+\"Huh?\", but it's gotten to the point
 where they listen to her more than
 me.");
 MsgClear();

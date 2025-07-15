@@ -12,7 +12,7 @@ MsgDisp("Hiiragi","Thank you for your hard work.");
 MsgDisp("主人公","｛柊＊＊＊｝...");
 ChMotion(5,4);
 VoicePlay("P740500001_05_010");
-MsgDisp("Hiiragi","Your clothes were wonderful, Maybe you
+MsgDisp("Hiiragi","Your clothes were wonderful, maybe you
 just get enough practice for the walking?");
 MsgDisp("主人公","...Yeah. I wasn't attentive to that side
 of things.");

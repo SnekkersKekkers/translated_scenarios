@@ -32,7 +32,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210000_02_040");
 MsgDisp("Sassa","I don't know how many competitors there
-are, But this competition is for you, and
+are, but this competition is for you, and
 I'm going to win it! ......Or something");
 ChEye(2,0);
 ChMouth(2,4);

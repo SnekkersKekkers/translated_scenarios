@@ -47,7 +47,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10600_01_010");
-MsgDisp("Kazama","I'm interested in it too, but, It looks
+MsgDisp("Kazama","I'm interested in it too, but, it looks
 like it huh, Inori?");
 ChEye(2,3);
 ChMouth(2,3);

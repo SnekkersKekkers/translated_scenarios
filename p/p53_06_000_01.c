@@ -29,7 +29,7 @@ there's a lot of customers.");
     ChMotion(6,0);
     VoicePlay("P530600001_06_020");
     MsgDisp("Himuro","Are you?
-On the other hand, It's mostly people who
+On the other hand, it's mostly people who
 simply want to enjoy the music.");
     ChEye(6,0);
     ChMouth(6,4);

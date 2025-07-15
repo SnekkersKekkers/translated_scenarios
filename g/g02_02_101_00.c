@@ -23,7 +23,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210100_02_030");
-MsgDisp("Sassa","Ryota can do anything, It's like he's
+MsgDisp("Sassa","Ryota can do anything, it's like he's
 superman......");
 ChEye(2,0);
 ChMouth(2,4);

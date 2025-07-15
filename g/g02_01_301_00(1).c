@@ -37,7 +37,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130100_01_050");
-MsgDisp("Kazama","Normally I think I'm special, So I endure
+MsgDisp("Kazama","Normally I think I'm special, so I endure
 it......but truthfully, I'm impatient.");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,0);

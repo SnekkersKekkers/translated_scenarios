@@ -27,7 +27,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_030");
-MsgDisp("Nanatsumori","......I mean, It's only thanks to those
+MsgDisp("Nanatsumori","......I mean, it's only thanks to those
 guys that I can say this.");
 MsgDisp("主人公","......Those guys?");
 ChEye(4,0);

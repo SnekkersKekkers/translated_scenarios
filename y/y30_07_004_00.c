@@ -59,7 +59,7 @@ MsgClear();
 MsgDisp("","A theatre troupe chairman scholarship
 student. The other, the nephew of a
 well-known teacher of the school.");
-MsgDisp("","They're different kind of people, But
+MsgDisp("","They're different kind of people, but
 are living daily lives that the
 average student couldn't even
 imagine.");

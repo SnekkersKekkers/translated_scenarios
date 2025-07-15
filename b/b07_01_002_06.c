@@ -37,7 +37,7 @@ ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_370");
-MsgDisp("Kazama","Ah, I see, It's general knowledge for
+MsgDisp("Kazama","Ah, I see, it's general knowledge for
 people who deal in antiques to be able to
 do Western and Japanese dressmaking to a
 certain extent.");

@@ -10,7 +10,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_000");
-MsgDisp("Sassa","Yeah, I don't know what it's called, It
+MsgDisp("Sassa","Yeah, I don't know what it's called, it
 doesn't look like a tulip.");
 MsgDisp("主人公","It's called a marigold.
 So pretty......");
@@ -75,7 +75,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("Q070200000_02_080");
 MsgDisp("Sassa","C'mon, look, Cuz I'm on a school trip, I
-haven't been able to train, So my body has
+haven't been able to train, so my body has
 weakened.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -129,7 +129,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_130");
-MsgDisp("Sassa","Then there were no planes, So I guess he
+MsgDisp("Sassa","Then there were no planes, so I guess he
 was ready not able to go home.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -185,7 +185,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_210");
-MsgDisp("Sassa","Like the traders who came here, Maybe I
+MsgDisp("Sassa","Like the traders who came here, maybe I
 could push myself too ......");
 MsgDisp("主人公","(I'd be happy if I could help ｛颯砂＊＊｝
 in any way......)");

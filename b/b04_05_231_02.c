@@ -66,7 +66,7 @@ time ago.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523102_05_060");
-        MsgDisp("Hiiragi","I forgot what city it was in, But long
+        MsgDisp("Hiiragi","I forgot what city it was in, but long
 ago, my parents took me to an amusement
 park.");
         MsgDisp("主人公","That's a wonderful memory.");

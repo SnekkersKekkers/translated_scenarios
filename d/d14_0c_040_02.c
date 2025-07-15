@@ -14,7 +14,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("D140C04002_06_000");
 MsgDisp("Himuro","Have I or Yanosuke-senpai
 ever been noisy?");
-MsgDisp("主人公","...Ah, It's cause ｛御影＊＊｝ isn't
+MsgDisp("主人公","...Ah, it's cause ｛御影＊＊｝ isn't
 here today.");
 ChEye(6,0);
 ChMouth(6,0);

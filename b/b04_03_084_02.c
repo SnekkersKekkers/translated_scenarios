@@ -101,7 +101,7 @@ I'm flying around the town with you?");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040308402_03_110");
-        MsgDisp("Honda","But the insect lifespan is short, So they
+        MsgDisp("Honda","But the insect lifespan is short, so they
 have to lay eggs quickly...");
         MsgDisp("主人公","Eh?");
         ChEye(3,5);

@@ -110,7 +110,7 @@ I'm so happy.");
     MsgDisp("Kazama","Yeah. School trips are so much fun, aren't
 they? We don't have this kind of thing in
 the UK.");
-    MsgDisp("主人公","Oh yeah, It's the first time for you,
+    MsgDisp("主人公","Oh yeah, it's the first time for you,
 ｛風真＊＊｝.");
     ChEye(1,4);
     ChMouth(1,3);

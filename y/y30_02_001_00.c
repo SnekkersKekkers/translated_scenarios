@@ -25,7 +25,7 @@ MsgDisp("","To reach my dream, I need to train
 hard enough to win every event;
 otherwise, it's impossible.");
 MsgDisp("","My seniors were right in their
-advice, But that's the same as giving
+advice, but that's the same as giving
 up on my dreams...");
 MsgDisp("","I have no confidence that I could
 explain it well. No matter what I

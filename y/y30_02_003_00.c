@@ -19,7 +19,7 @@ seniors, and just continued
 practicing in a way that I was
 satisfied with.");
 MsgClear();
-MsgDisp("","I insisted on doing it my way, But In
+MsgDisp("","I insisted on doing it my way, but In
 the end, I couldn't win overall
 victory by placing first in all
 events.");

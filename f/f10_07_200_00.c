@@ -91,7 +91,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F100720000_07_040");
-MsgDisp("Mikage","If he's that happy, Maybe I'll make a
+MsgDisp("Mikage","If he's that happy, maybe I'll make a
 blackboard for him next time.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,0);

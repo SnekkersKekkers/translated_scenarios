@@ -29,7 +29,7 @@ VoicePlay("B050100300_01_020");
 MsgDisp("Kazama","You're the one who must be cold, having to
 stand there the entire time.");
 MsgDisp("主人公","A little...
-But, It was really exciting seeing
+But, it was really exciting seeing
 ｛風真＊＊｝ glide across the ice!");
 ChEye(1,4);
 ChMouth(1,3);

@@ -26,7 +26,7 @@ MsgDisp("","And that's why, I went to her house
 to tell her the news in person.");
 SEPlay("EV_SE_DOOR_022");
 MsgDisp("","When she saw my face, she was a bit
-surprised, But immediately
+surprised, but immediately
 congratulated me. It seems she saw it
 on TV.");
 MsgClear();

@@ -29,7 +29,7 @@ Well, it's not bad.");
     ChMotion(6,0);
     VoicePlay("B040608102_06_020");
     MsgDisp("Himuro","Well, if it's once in a while, I don't
-want to do frivolous things, But it's a
+want to do frivolous things, but it's a
 nice change of pace.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

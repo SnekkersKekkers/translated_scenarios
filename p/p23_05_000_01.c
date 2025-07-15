@@ -24,7 +24,7 @@ tough to prepare.");
     VoicePlay("P230500001_05_010");
     MsgDisp("Hiiragi","That's right.
 It was a full-fledged set.");
-    MsgDisp("主人公","But, It's somewhat strange that
+    MsgDisp("主人公","But, it's somewhat strange that
 ｛柊＊＊＊｝ isn't standing on stage.");
     ChEye(5,0);
     ChMouth(5,4);

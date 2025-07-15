@@ -28,7 +28,7 @@ ChMotion(1,1);
 VoicePlay("G020140003_01_030");
 MsgDisp("Kazama","My grandpa is troubled.
 He'd give it as a gift if it were just one
-person, But there's quite a few of them.");
+person, but there's quite a few of them.");
 MsgDisp("主人公","Ehhh∋
 Is he going to give it away?");
 ChEye(1,4);

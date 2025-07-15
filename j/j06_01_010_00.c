@@ -83,7 +83,7 @@ Even though it's not good.");
         MsgDisp("主人公","Uh-huh.
 See you later?");
         VoicePlay("J060101000_01_120");
-        MsgDisp("Kazama","If we can be together, It doesn't matter
+        MsgDisp("Kazama","If we can be together, it doesn't matter
 where you are.......");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();

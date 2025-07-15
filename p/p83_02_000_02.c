@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("P830200002_48_000");
     MsgDisp("School Girl","Excuse me.
 The smell of the yakisoba stand next door
-quite strong, It's bothering us....");
+quite strong, it's bothering us....");
     MsgDisp("主人公","Eh?");
     VoicePlay("P830200002_48_010");
     MsgDisp("School Girl","It's ruining the flavour of our matcha
@@ -57,7 +57,7 @@ let's walk around together.");
     VoicePlay("P830200002_48_030");
     MsgDisp("School Girl","Excuse me.
 The smell of the yakisoba stand next door
-quite strong, It's bothering us....");
+quite strong, it's bothering us....");
     MsgDisp("主人公","Eh?");
     VoicePlay("P830200002_48_040");
     MsgDisp("School Girl","It's ruining the flavour of our matcha

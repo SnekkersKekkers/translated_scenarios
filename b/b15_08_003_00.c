@@ -6,7 +6,7 @@ ScrFadeIn(0);
 ChMotion(8,4,1);
 VoicePlay("B150800300_08_000");
 MsgDisp("Shirahane","Aah～, 
-It's completely no good..");
+it's completely no good..");
 ChEye(8,2);
 ChMouth(8,4);
 VoicePlay("B150800300_08_010");

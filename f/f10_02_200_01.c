@@ -8,7 +8,7 @@ VoicePlay("F100220001_02_000");
 MsgDisp("Sassa?","Heeh, nice.
 Is that a national hot spring travelogue?");
 VoicePlay("F100220001_05_000");
-MsgDisp("Hiiragi?","Yes, It was a gift from an audience
+MsgDisp("Hiiragi?","Yes, it was a gift from an audience
 member.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);

@@ -7,7 +7,7 @@ It's thanks to Inori-kun");
 MsgDisp("主人公","｛氷室＊＊｝?");
 VoicePlay("B070500001_05_020");
 MsgDisp("Hiiragi","Right, Inori-kun might be a year below us,
-But he knows much more about the world
+but he knows much more about the world
 than I do. He's an adult.");
 MsgDisp("主人公","｛氷室＊＊｝ is an adult?");
 ChEye(5,4);

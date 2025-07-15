@@ -42,7 +42,7 @@ practice.");
     ChMotion(2,4);
     VoicePlay("X110200003_02_030");
     MsgDisp("Sassa","I'd like to go and support you to see your
-new technique, But it's not safe if
+new technique, but it's not safe if
 someone like me is peeking in ......");
     MsgDisp("主人公","Huh, that's not true, though, ｛颯砂＊＊｝
 must be busy with track and field

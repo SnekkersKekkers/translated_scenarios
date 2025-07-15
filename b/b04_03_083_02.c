@@ -49,7 +49,7 @@ appeal.");
         VoicePlay("B040308302_03_040");
         MsgDisp("Honda","They're definitely polishing their
 strategies right about now.");
-        MsgDisp("主人公","If ｛本多＊＊｝ were a firefly, He'd come
+        MsgDisp("主人公","If ｛本多＊＊｝ were a firefly, he'd come
 up with some amazing strategies huh?");
         ChEye(3,3);
         ChMouth(3,3);

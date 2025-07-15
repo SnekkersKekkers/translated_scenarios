@@ -42,7 +42,7 @@ Instagrammable?");
         MsgDisp("Hiiragi","I hear that word from time to time, so
 it's used in these sorts of situations.");
         MsgDisp("主人公","That's right. When you see beautiful
-things, when you see cute things, It's a
+things, when you see cute things, it's a
 feeling you get when you want to take a
 picture.");
         ChEye(5,4);

@@ -31,7 +31,7 @@ VoicePlay("B070700000_07_260");
 MsgDisp("Mikage","Thanks to that, the usual reaction of
 \"Heeh?\" comes much quicker.
 Then, what do you think?");
-MsgDisp("主人公","Uummm, It's amazing that you can make
+MsgDisp("主人公","Uummm, it's amazing that you can make
 anything yourself.
 How long have you been doing this for?");
 ChEye(7,0);

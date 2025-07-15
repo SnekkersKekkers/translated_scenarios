@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     break ;
     case 3:
     MsgDisp("主人公","Alright, and. I finished moving the
-chairs, So what should I carry, and where
+chairs, so what should I carry, and where
 do I carry it to next...?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -39,7 +39,7 @@ Then I'll be going now!");
     case 4:
     case 5:
     MsgDisp("主人公","Alright, and. I finished moving the
-chairs, So what should I carry, and where
+chairs, so what should I carry, and where
 do I carry it to next...?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

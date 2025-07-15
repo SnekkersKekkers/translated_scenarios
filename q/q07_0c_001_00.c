@@ -71,7 +71,7 @@ MsgClose();
 ChOpen(5,254,2,4,4,#1,#1,0,1,0,30);
 ChOpen(7,254,4,0,0,#1,#1,0,2,0,30);
 VoicePlay("Q070C00100_05_030");
-MsgDisp("Hiiragi","True, even though we just left, It feels
+MsgDisp("Hiiragi","True, even though we just left, it feels
 nostalgic.
 It's fascinating.");
 ChEye(7,0);

@@ -18,7 +18,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q110C00000_05_000");
 MsgDisp("Hiiragi","I selected the souvenir for Inori fast,
-But the other souvenirs were not decided
+but the other souvenirs were not decided
 yet. Sorry to keep you waiting.");
 MsgDisp("主人公","Don't worry, I just came.
 The souvenir for ｛氷室＊＊｝ is also ready.");

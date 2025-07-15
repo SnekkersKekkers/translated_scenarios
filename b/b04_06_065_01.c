@@ -63,7 +63,7 @@ How should I take that?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606501_06_050");
-        MsgDisp("Himuro","...But, It's not like we have to stop
+        MsgDisp("Himuro","...But, it's not like we have to stop
 hanging out after you graduate.");
         ChEye(6,2);
         ChMouth(6,0);

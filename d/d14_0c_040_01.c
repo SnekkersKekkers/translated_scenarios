@@ -105,7 +105,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C04001_07_060");
-MsgDisp("Mikage","Hahaha. See, It's funny as soon as you
+MsgDisp("Mikage","Hahaha. See, it's funny as soon as you
 speak.");
 MsgDisp("主人公","(｛御影＊＊｝ thinks we're funny...)");
 BGMStop();

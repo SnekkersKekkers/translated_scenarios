@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P640600005_06_010");
-MsgDisp("Himuro","...I say that, But you didn't pay much
+MsgDisp("Himuro","...I say that, but you didn't pay much
 attention to appearances either.");
 MsgDisp("主人公","Ugh...");
 ChEye(6,0);

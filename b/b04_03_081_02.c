@@ -83,13 +83,13 @@ in your memory?");
         VoicePlay("B040308102_03_070");
         MsgDisp("Honda","When I'm with you, I start to question the
 things I thought were natural or obvious,
-It's super exciting.");
+it's super exciting.");
         ChEye(3,0);
         ChMouth(3,0);
         VoicePlay("B040308102_03_080");
         MsgDisp("Honda","So that's why, if I could give you
 something back I would be happy.");
-        MsgDisp("主人公","You've taught me so many things, Not just
+        MsgDisp("主人公","You've taught me so many things, not just
 here, but all the places we go to
 together.");
         ChEye(3,4);
@@ -103,7 +103,7 @@ together.");
         ChMotion(3,4);
         ChCheek(3,5);
         VoicePlay("B040308102_03_100");
-        MsgDisp("Honda","It's not that I like teaching people, It
+        MsgDisp("Honda","It's not that I like teaching people, it
 seems like I like teaching you.");
         ChCheek(3,0);
         MsgDisp("主人公","That's not true.

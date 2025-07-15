@@ -66,7 +66,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601100_06_080");
-MsgDisp("Himuro","Well, Not that it would make any
+MsgDisp("Himuro","Well, not that it would make any
 difference...");
 ChEye(6,2);
 ChMouth(6,0);

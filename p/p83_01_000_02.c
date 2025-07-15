@@ -27,7 +27,7 @@ school you know?");
 school by yourself?");
     MsgDisp("主人公","Of course. I've spent three years managing
 the cultural festival as part of the
-student council, It wasn't just for show.");
+student council, it wasn't just for show.");
     ChEye(1,0);
     VoicePlay("P830100002_48_000");
     MsgDisp("School Girl","Excuse me!

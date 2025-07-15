@@ -45,7 +45,7 @@ Well, let's go!");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Sorry, did I keep you
 waiting?");
     VoicePlay("Q090500000_05_040");
-    MsgDisp("Hiiragi","I waited, But waiting for excitement
+    MsgDisp("Hiiragi","I waited, but waiting for excitement
 doesn't feel bad at all.");
     MsgDisp("主人公","So I should have come later?");
     ChEye(5,4);

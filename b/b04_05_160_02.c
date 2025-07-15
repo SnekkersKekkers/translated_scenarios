@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     VoicePlay("B040516002_05_020");
     MsgDisp("Hiiragi","The form of the bear will make it
-difficult to catch, But, I'll try it.");
+difficult to catch, but, I'll try it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

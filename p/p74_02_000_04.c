@@ -27,7 +27,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P740200004_02_020");
 MsgDisp("Sassa","I'm happy that your show was a success,
-But I had mixed feelings also..");
+but I had mixed feelings also..");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

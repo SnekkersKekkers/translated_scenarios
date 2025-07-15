@@ -11,7 +11,7 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200801_02_000");
-MsgDisp("Sassa","｛主人公｝, So, you were here.");
+MsgDisp("Sassa","｛主人公｝, so, you were here.");
 MsgDisp("主人公","Yeah, I was in charge of the club
 expenses.
 But......It's over.");

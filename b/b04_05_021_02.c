@@ -53,7 +53,7 @@ sunset on a beach, correct?");
         ChMotion(5,0);
         VoicePlay("B040502102_05_040");
         MsgDisp("Hiiragi","It's neither sunset, nor are we at a
-beach, But do you want to try it?");
+beach, but do you want to try it?");
         MsgDisp("主人公","Eh, are you really going to do it?");
         ChEye(5,4);
         ChMouth(5,3);

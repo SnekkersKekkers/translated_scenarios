@@ -14,7 +14,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_350");
-MsgDisp("Mikage","I don't know about those guys but, It's
+MsgDisp("Mikage","I don't know about those guys but, it's
 definitely more interesting for me when
 you're around?");
 ChEye(7,4);

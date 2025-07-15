@@ -16,7 +16,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("Q070B00200_01_000");
 MsgDisp("Kazama","Yeah.
 It reminds me of the UK.");
-MsgDisp("主人公","Huh, So there're many pretty buildings
+MsgDisp("主人公","Huh, so there're many pretty buildings
 like these?");
 ChEye(1,0);
 ChMouth(1,0);

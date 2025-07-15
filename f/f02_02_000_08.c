@@ -21,7 +21,7 @@ ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("F020200008_02_010");
 MsgDisp("Sassa","Are you surprised?
-I guess when I draw, It comes out weird.");
+I guess when I draw, it comes out weird.");
 MsgDisp("主人公","No, it's not that.
 ...What are you drawing?");
 ChEye(2,0);

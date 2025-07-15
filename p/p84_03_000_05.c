@@ -35,7 +35,7 @@ ChMotion(3,0,1);
 VoicePlay("P840300005_03_020");
 MsgDisp("Honda","Is something the matter?");
 MsgDisp("主人公","Seems like I lost the lost items notebook,
-So the management is already in a
+so the management is already in a
 disarray...");
 ChEye(3,0);
 ChMouth(3,4);

@@ -35,7 +35,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B070600000_06_050");
-MsgDisp("Himuro","You say it's like me, But what do you know
+MsgDisp("Himuro","You say it's like me, but what do you know
 about me?");
 MsgDisp("主人公","Hehe, that's right.
 Then, from now on too, could you tell me

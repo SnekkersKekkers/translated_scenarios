@@ -29,7 +29,7 @@ It's amazing!\" she said.");
 MsgDisp("","When I saw that smile, I felt as if a
 warmth arose within me.");
 MsgClear();
-MsgDisp("","That was strange, But it's a bit of a
+MsgDisp("","That was strange, but it's a bit of a
 nostalgic feeling.");
 VoicePlay("Y300300100_03_010");
 MsgDisp("Honda","(Huh...is it close to the feeling

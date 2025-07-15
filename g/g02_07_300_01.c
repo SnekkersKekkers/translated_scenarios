@@ -40,7 +40,7 @@ ChMotion(7,2);
 VoicePlay("G020730001_07_050");
 MsgDisp("Mikage","Next time, 
 please come with both of them.");
-MsgDisp("主人公","Yes, But, I'd also like to see it with
+MsgDisp("主人公","Yes, but, I'd also like to see it with
 ｛御影＊＊｝ again.");
 ChEye(7,0);
 ChMouth(7,0);

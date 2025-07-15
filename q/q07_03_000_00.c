@@ -10,7 +10,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_000");
-MsgDisp("Honda","Yepyep. Tulips are the dutch classic, But
+MsgDisp("Honda","Yepyep. Tulips are the dutch classic, but
 the marigolds are amazing too!");
 ChEye(3,3);
 ChMouth(3,3);
@@ -41,7 +41,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("Q070300000_03_040");
-MsgDisp("Honda","It means there's a short pause, So maybe
+MsgDisp("Honda","It means there's a short pause, so maybe
 that windmill will start moving?
 Let's just have a look, shall we?");
 MsgDisp("主人公","Yay!");
@@ -111,7 +111,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_100");
-MsgDisp("Honda","True. It's so well managed, It's hard to
+MsgDisp("Honda","True. It's so well managed, it's hard to
 believe the building is over 150 years
 old.");
 ChEye(3,0);
@@ -142,7 +142,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_140");
-MsgDisp("Honda","Yeah. Focusing on field research, It's
+MsgDisp("Honda","Yeah. Focusing on field research, it's
 someone who studies everything that exists
 in nature.");
 MsgDisp("主人公","Wow! That sounds very ｛本多＊＊｝ like.");
@@ -150,7 +150,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q070300000_03_150");
-MsgDisp("Honda","Really? I'm glad to hear that, But it
+MsgDisp("Honda","Really? I'm glad to hear that, but it
 doesn't quite ring a bell for me. I always
 ask myself, Am I ok with that?");
 MsgDisp("主人公","Eeh?");

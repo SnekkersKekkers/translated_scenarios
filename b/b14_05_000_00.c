@@ -27,7 +27,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B140500000_05_020");
-MsgDisp("Hiiragi","...Though, when I see your expression, It
+MsgDisp("Hiiragi","...Though, when I see your expression, it
 seems that I don't stand a chance.");
 ChEye(5,3);
 ChMouth(5,4);

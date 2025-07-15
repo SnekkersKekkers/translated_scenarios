@@ -45,7 +45,7 @@ both of them are quite predictable.");
 ChEye(5,4);
 VoicePlay("G020530000_05_070");
 MsgDisp("Hiiragi","But, it's wonderful to have this kind of
-relationship. This is my first time, So,
+relationship. This is my first time, so,
 I'm truly happy.");
 MsgDisp("主人公","(It would be great if ｛柊＊＊＊｝,
 ｛氷室＊＊｝ and ｛御影＊＊｝ could

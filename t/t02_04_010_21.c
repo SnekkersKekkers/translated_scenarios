@@ -25,7 +25,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("T020401000_04_220");
-MsgDisp("Nanatsumori","Haha, It's not that.
+MsgDisp("Nanatsumori","Haha, it's not that.
 How......how many times have you thrown my
 heart into total chaos?");
 ChEye(4,4);

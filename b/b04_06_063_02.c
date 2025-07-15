@@ -70,7 +70,7 @@ funny, so I'll go along with it.");
         ChMouth(6,3);
         ChMotion(6,0);
         VoicePlay("B040606302_06_060");
-        MsgDisp("Himuro","Still, I've never made a racket before, So
+        MsgDisp("Himuro","Still, I've never made a racket before, so
 you'll need to direct me properly.");
         MsgDisp("主人公","Of course!");
         ChEye(6,0);

@@ -17,7 +17,7 @@ made wonderful memories. Thank you!");
     ChMotion(5,4);
     VoicePlay("Q120500000_05_010");
     MsgDisp("Hiiragi","This is my first school trip and I can't
-compare, But it is the best ever.");
+compare, but it is the best ever.");
     MsgDisp("主人公","Hehe! I'm happy.");
     ChEye(5,0);
     ChMotion(5,0);

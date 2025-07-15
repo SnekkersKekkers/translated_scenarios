@@ -38,7 +38,7 @@ VoicePlay("Y300400300_04_000");
 MsgDisp("Nanatsumori","\"A hot drink, and I'll leave the
 sweets to your recommendation.\"");
 MsgClear();
-MsgDisp("","For an instant, her eyes widened, But
+MsgDisp("","For an instant, her eyes widened, but
 soon her usual smile returned.");
 MsgDisp("主人公","\"Certainly!\"");
 MsgDisp("","Crap. This communication. Feels
@@ -101,10 +101,10 @@ MsgClear();
 MsgDisp("","The reason I drop by \"Cafe Alucard\"
 so frequently.");
 MsgDisp("","It's true it's because it's close to
-my work though, But I also like this
+my work though, but I also like this
 'soothing' quality");
 MsgDisp("","It's not in the least because I come
-to see her, It's not for that kind of
+to see her, it's not for that kind of
 impure reason.");
 MsgClear();
 MsgDisp("","Not particularly...

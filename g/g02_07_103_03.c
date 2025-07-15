@@ -42,7 +42,7 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710303_07_050");
 MsgDisp("Mikage","It's my fault for being late.
-But anyways, It seems I saw a new side to
+But anyways, it seems I saw a new side to
 you just now.");
 MsgDisp("主人公","(Maybe it's because of this place......
 I spoke to ｛御影＊＊｝ in a way I

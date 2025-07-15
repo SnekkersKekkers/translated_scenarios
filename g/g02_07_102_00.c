@@ -34,7 +34,7 @@ VoicePlay("G020710200_07_040");
 MsgDisp("Mikage","Maybe there's someone like Vice Principal
 Himuro with a baton conducting them?");
 MsgDisp("主人公","Hehe,
-It's like a wind ensemble, how cute.");
+it's like a wind ensemble, how cute.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);

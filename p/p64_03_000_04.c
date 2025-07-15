@@ -16,7 +16,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P640300004_03_020");
-MsgDisp("Honda","The appearance is also pretty, It's a
+MsgDisp("Honda","The appearance is also pretty, it's a
 shame it'll end after the cultural
 festivalー.");
 ChEye(3,3);

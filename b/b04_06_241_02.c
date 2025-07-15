@@ -88,7 +88,7 @@ it at that for now.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040624102_06_090");
-    MsgDisp("Himuro","It's the only white one, So, I guess it is
+    MsgDisp("Himuro","It's the only white one, so, I guess it is
 special.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

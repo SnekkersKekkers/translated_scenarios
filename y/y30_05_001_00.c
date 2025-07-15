@@ -14,7 +14,7 @@ BGOpen("ad511",0);
 ScrFadeIn(0);
 MsgDisp("","Phew...I wonder if she's having fun
 skiing with me?");
-MsgDisp("","With the guys and girls around us, It
+MsgDisp("","With the guys and girls around us, it
 seems to mostly be the guy who's
 teaching. Or both of them are
 skilled....");

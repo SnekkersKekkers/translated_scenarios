@@ -93,7 +93,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110501000_05_080");
-MsgDisp("Hiiragi","Yes, that may be true, But I'm also your
+MsgDisp("Hiiragi","Yes, that may be true, but I'm also your
 classmate, and a member of the student
 council.");
 ChEye(5,0);

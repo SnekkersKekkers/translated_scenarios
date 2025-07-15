@@ -81,7 +81,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110101002_01_080");
-MsgDisp("Kazama","I'm going to be late, So let's eat whilst
+MsgDisp("Kazama","I'm going to be late, so let's eat whilst
 walking.");
 BGMStop();
 MsgClose();

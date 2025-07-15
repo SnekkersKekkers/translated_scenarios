@@ -80,7 +80,7 @@ you to enjoy.");
     VoicePlay("P630200002_02_060");
     MsgDisp("Sassa","Then, I want a salad of vegetables you
 grew.");
-    MsgDisp("主人公","Everyone grew them, So if you request just
+    MsgDisp("主人公","Everyone grew them, so if you request just
 mine, it's a bit hard to do.");
     ChEye(2,0);
     ChMouth(2,0);

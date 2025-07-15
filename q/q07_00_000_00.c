@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","We arrived at Huis ten Bosch!
 wow, so many orange flowers!
 So cute ......");
-MsgDisp("主人公","The windmills is also gorgeous, It's as if
+MsgDisp("主人公","The windmills is also gorgeous, it's as if
 I'm overseas.
 Hehe, this is exciting.");
 MsgDisp("主人公","(So, where should I go next?)");

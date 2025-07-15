@@ -29,7 +29,7 @@ Seems like we could get along.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040603202_06_020");
-    MsgDisp("Himuro","Well definitely, It might be funny for it
+    MsgDisp("Himuro","Well definitely, it might be funny for it
 if someone had a lover's quarrel.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

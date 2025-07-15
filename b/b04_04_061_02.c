@@ -78,7 +78,7 @@ tan.");
         ChMouth(4,3);
         ChMotion(4,3,1);
         VoicePlay("B040406102_04_090");
-        MsgDisp("Nanatsumori","We'll look like a couple, But I'll just
+        MsgDisp("Nanatsumori","We'll look like a couple, but I'll just
 accept it for today.
 It's a date after all, right?");
         MsgDisp("主人公","(｛七ツ森＊｝...)");

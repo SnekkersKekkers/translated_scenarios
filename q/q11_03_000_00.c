@@ -20,7 +20,7 @@ VoicePlay("Q110300000_03_020");
 MsgDisp("Honda","Yes, I have matcha and you get chocolate.
 My sister gets the plain flavored one.");
 MsgDisp("主人公","Hehe, 
-It's a nice keepsake.");
+it's a nice keepsake.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

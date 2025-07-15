@@ -4,7 +4,7 @@ ChLayout(1);
 ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311101_03_000");
-MsgDisp("Honda","Yep yep, It's only a bit, but I might be
+MsgDisp("Honda","Yep yep, it's only a bit, but I might be
 getting better.");
 MsgSel("You're improving fast!","You might be better than me...","Pride is the cause of accidents!");
 switch (MsgSelRsltGet()){

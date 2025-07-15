@@ -29,7 +29,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P650700007_07_030");
 MsgDisp("Mikage","This might be your last cultural festival,
-But with soil, and your love, plants will
+but with soil, and your love, plants will
 grow. From now on too, keep gardening!");
 MsgDisp("主人公","(Uuugh, even though this was the last
 cultural festival of my high school

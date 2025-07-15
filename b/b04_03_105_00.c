@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040310500_03_000");
 MsgDisp("Honda","...As I thought, I had a feeling it's
 useless for me to step into this space...");
-MsgSel("Eh, It's moving to me though!","Ummm...is it upside down","I feel like I could draw this too.");
+MsgSel("Eh, it's moving to me though!","Ummm...is it upside down","I feel like I could draw this too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

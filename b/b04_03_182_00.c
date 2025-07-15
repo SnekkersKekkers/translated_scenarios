@@ -35,7 +35,7 @@ next to me.");
     ChSet(3,2);
     VoicePlay("B040318200_03_020");
     MsgDisp("Honda","Hmmm... I knew it wouldn't be popular with
-the general public, But I thought you
+the general public, but I thought you
 would like itー...");
     MsgDateResultDisp();
     break ;

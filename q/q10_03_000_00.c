@@ -16,7 +16,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q100300000_03_010");
 MsgDisp("Honda","It's a beautiful archway. Even though it's
-been restored, It's amazing how the shape
+been restored, it's amazing how the shape
 hasn't changed for centuries.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -59,7 +59,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q100300000_03_070");
-MsgDisp("Honda","Like, I have so much to tell you, So I was
+MsgDisp("Honda","Like, I have so much to tell you, so I was
 in trouble.");
 MsgDisp("主人公","Hehe, I never knew.");
 ChEye(3,0);

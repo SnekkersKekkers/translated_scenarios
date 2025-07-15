@@ -23,7 +23,7 @@ ChMouth(8,3);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_090");
 MsgDisp("Shirahane","That's tough...
-Fully-cooked is delicious ta eat, But I
+Fully-cooked is delicious ta eat, but I
 like the runny yolk when it's half-done!");
 ChEye(8,4);
 ChMouth(8,4);

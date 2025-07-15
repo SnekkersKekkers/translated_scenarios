@@ -30,7 +30,7 @@ You're the unsung hero huh.");
     ChSet(3,3);
     VoicePlay("P830300000_03_020");
     MsgDisp("Honda","That's right, I'll be waiting here for
-you, So once you can catch a break, let's
+you, so once you can catch a break, let's
 go around the school together!");
     MsgDisp("主人公","Hehe, yeah.
 Definitely!");

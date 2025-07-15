@@ -39,7 +39,7 @@ here.");
     ChEye(5,2);
     ChMouth(5,2);
     VoicePlay("B040509000_05_030");
-    MsgDisp("Hiiragi","Hmー, It would be bad if we disturbed them
+    MsgDisp("Hiiragi","Hmー, it would be bad if we disturbed them
 during their mealtime, right?");
     MsgDateResultDisp();
     break ;

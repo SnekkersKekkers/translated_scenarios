@@ -90,7 +90,7 @@ Himuro.");
 MsgDisp("","To us, that's normal.");
 MsgClear();
 MsgDisp("","However the other people around us,
-\"take this into consideration\", But
+\"take this into consideration\", but
 Mikage-sensei, \"Is concerned\".");
 MsgDisp("","That's my personal interpretation...
 Maybe, Inori-kun also feels the same

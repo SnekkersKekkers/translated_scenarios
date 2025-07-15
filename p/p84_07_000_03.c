@@ -25,7 +25,7 @@ VoicePlay("P840700003_07_020");
 MsgDisp("Mikage","Hm? Why are you making a depressed-looking
 face?");
 MsgDisp("主人公","I messed up the number of cardboard to
-order, So now there's lots left over.");
+order, so now there's lots left over.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

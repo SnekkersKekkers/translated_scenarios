@@ -56,7 +56,7 @@ MsgDisp("","I ran over to the scene.");
 MsgClear();
 MsgDisp("","She seemed a little surprised to see
 the face of her new coworker suddenly
-appearin', But with a smile she
+appearin', but with a smile she
 introduced herself right away.");
 MsgDisp("","...Yeah, we're in the same grade!");
 MsgDisp("","I don't know why I said \"Yeah!\", but

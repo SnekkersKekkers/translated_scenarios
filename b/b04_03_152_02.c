@@ -29,7 +29,7 @@ Well, I'm just saying what I've heard.");
     ChMotion(3,1);
     VoicePlay("B040315202_03_020");
     MsgDisp("Honda","They say\"You become good because you like
-it\", It's true huh.");
+it\", it's true huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

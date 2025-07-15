@@ -35,7 +35,7 @@ enjoy the rest!");
     VoicePlay("Q120300000_03_030");
     MsgDisp("Honda","The free activity is over.
 It was sooo fun.");
-    MsgDisp("主人公","Yeah, thanks to you, ｛本多＊＊｝, It was
+    MsgDisp("主人公","Yeah, thanks to you, ｛本多＊＊｝, it was
 very fulfilling.");
     ChEye(3,0);
     ChMouth(3,0);

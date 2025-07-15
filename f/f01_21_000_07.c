@@ -130,7 +130,7 @@ Did I do something wrong?)");
         ChMouth(21,0);
         ChMotion(21,5);
         VoicePlay("F012100007_21_100");
-        MsgDisp("Michiru","No, It's alright.
+        MsgDisp("Michiru","No, it's alright.
 Well then, another time?");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

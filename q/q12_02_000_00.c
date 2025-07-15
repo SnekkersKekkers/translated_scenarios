@@ -76,7 +76,7 @@ It went by so fast, didn't it?");
     ChMotion(2,0);
     VoicePlay("Q120200000_02_070");
     MsgDisp("Sassa","Because we went ultra-max sightseeing
-together, So I'm very satisfied.");
+together, so I'm very satisfied.");
     MsgDisp("主人公","Hehe. I also enjoyed looking with you,
 ｛颯砂＊＊｝.");
     ChEye(2,0);
