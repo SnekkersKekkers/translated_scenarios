@@ -19,7 +19,8 @@ ChMotion(1,3);
 VoicePlay("G020110303_01_020");
 MsgDisp("Kazama","I empathize with them.");
 MsgDisp("主人公","I think you'd shine a really pretty color
-if you were a firefly, ｛風真＊＊｝.");
+if you were a firefly,
+｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -33,8 +34,9 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3,1);
 VoicePlay("G020110303_01_040");
-MsgDisp("Kazama","Hahah. Then I'd guess you'd be flying
-around even though you're female.");
+MsgDisp("Kazama","Hahah.
+Then I'd guess you'd be flying around even
+though you're female.");
 EfctClose();
 EfctOpen(7);
 ChEye(1,0);
@@ -44,7 +46,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110303_01_050");
 MsgDisp("Kazama","......That makes it harder for me to find
 you, so hold still a bit more, would you?");
-MsgDisp("主人公","Hahah. What are you getting upset over?");
+MsgDisp("主人公","Hahah.
+What are you getting upset over?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -54,10 +57,11 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110303_01_070");
-MsgDisp("Kazama","......Mm? Actually, hasn't one of them
-been hanging out in front of us for a
-while now?");
-MsgDisp("主人公","Wah! It stopped on my head∋");
+MsgDisp("Kazama","...... Mm?
+Actually, hasn't one of them been hanging
+out in front of us for a while now?");
+MsgDisp("主人公","Wah!
+It stopped on my head∋");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);

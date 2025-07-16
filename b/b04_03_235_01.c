@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("B040323501_03_010");
-    MsgDisp("Honda","Ehhh! First of all, the route is
-different!");
+    MsgDisp("Honda","Ehhh!
+First of all, the route is different!");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -39,7 +39,8 @@ coming, isn't it?");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040323501_03_030");
-    MsgDisp("Honda","Nice! After this, let's check each other's
+    MsgDisp("Honda","Nice!
+After this, let's check each other's
 answers!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

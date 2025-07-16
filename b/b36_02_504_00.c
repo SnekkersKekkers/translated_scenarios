@@ -13,14 +13,13 @@ ScrFadeIn(0);
 VoicePlay("B360250400_02_000");
 MsgDisp("Sassa","The scenery is completely different to
 just a moment ago.");
-MsgDisp("主人公","Yeah. Because the illuminations are
-pretty.");
+MsgDisp("主人公","Yeah.
+Because the illuminations are pretty.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360250400_02_010");
-MsgDisp("Sassa","Haha, 
-maybe I phrased it poorly.");
+MsgDisp("Sassa","Haha, maybe I phrased it poorly.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);

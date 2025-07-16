@@ -29,8 +29,9 @@ Wanna try?");
     ChMotion(3,4);
     ChEyeOpenLevel(3,0);
     VoicePlay("W090300000_03_030");
-    MsgDisp("Honda","Cough! ...Ah, phew. Okay, my vocal chords
-are ready.");
+    MsgDisp("Honda","Cough!
+... Ah, phew.
+Okay, my vocal chords are ready.");
     break ;
     default :
     DbgAssert(1);

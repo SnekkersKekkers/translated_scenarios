@@ -21,15 +21,16 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010230200_02_000");
 MsgDisp("Sassa","Mikage-sensei, I'm super serious.
-......You're funny, though.");
+...... You're funny, though.");
 MsgDisp("主人公","What??");
 ChMotion(2,0);
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("E010230200_07_010");
-MsgDisp("Mikage","Hahaha! In my opinion you're both serious
-and funny!");
+MsgDisp("Mikage","Hahaha!
+In my opinion you're both serious and
+funny!");
 MsgDisp("主人公","???");
 ChEye(2,0);
 ChMouth(2,4);
@@ -38,8 +39,8 @@ VoicePlay("E010230200_02_010");
 MsgDisp("Sassa","Oh, that's right, I got food advice from
 Mikage-sensei.");
 MsgDisp("主人公","I see.
-｛御影＊＊｝, you're a vegetable
-expert!");
+｛御影＊＊｝, you're a
+vegetable expert!");
 ChMouth(2,5);
 ChEye(7,0);
 ChMouth(7,0);
@@ -96,7 +97,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("E010230200_07_070");
-MsgDisp("Mikage","｛主人公｝, don't you think so too?");
+MsgDisp("Mikage","｛主人公｝, don't you
+think so too?");
 ChMotion(2,0);
 MsgDisp("主人公","Eh, me?");
 ChEye(7,0);
@@ -128,7 +130,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010230200_02_060");
 MsgDisp("Sassa","......You hungry?");
-MsgDisp("主人公","(Eh...... Right away?)");
+MsgDisp("主人公","(Eh......
+Right away?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -20,8 +20,8 @@ school.)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P830500000_05_000");
     MsgDisp("Hiiragi","Good work.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Have the guests arrived
-yet?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Have the guests arrived yet?");
     VoicePlay("P830500000_05_010");
     MsgDisp("Hiiragi","Some groups have arrived.
 They're waiting in the reception room.");
@@ -50,9 +50,9 @@ After that...");
     VoiceEVSPlay(5);
     VoicePlay("P830500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! I'm sorry to keep you
-waiting. I've prepared the tea and
-confectionaries for the guests.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! I'm sorry to
+keep you waiting. I've prepared the tea
+and confectionaries for the guests.");
     ChEye(5,4);
     VoicePlay("P830500000_05_040");
     MsgDisp("Hiiragi","Yes.
@@ -67,8 +67,9 @@ people present due to their relations with
 the theatre troupe.");
     VoicePlay("P830500000_05_060");
     MsgDisp("Hiiragi","Please leave it to me.");
-    MsgDisp("主人公","...Okay. Then, please let me prepare the
-maps for directions inside the school.");
+    MsgDisp("主人公","... Okay.
+Then, please let me prepare the maps for
+directions inside the school.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("P830500000_05_070");

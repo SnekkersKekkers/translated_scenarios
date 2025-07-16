@@ -6,8 +6,7 @@ ChMouth(4,4);
 ChMotion(4,2);
 ScrFadeIn(0);
 VoicePlay("B040417002_04_000");
-MsgDisp("Nanatsumori","This room...
-is surprisingly closed off.");
+MsgDisp("Nanatsumori","This room... is surprisingly closed off.");
 MsgSel("When you become aware of it, it's a bit embarrassing...","Shall we do something heart-racing?","It's a bit hot, huh");
 switch (MsgSelRsltGet()){
     case 0:
@@ -48,7 +47,7 @@ together.");
         ChEye(4,0);
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_040");
-        MsgDisp("Nanatsumori","...So?
+        MsgDisp("Nanatsumori","... So?
 What exactly are you going to do?");
         MsgDisp("主人公","How about I get a bit closer?");
         ChMotion(4,0,1);
@@ -78,7 +77,8 @@ My heart is beating super fast...");
         ChMotion(4,0,1);
         VoicePlay("B040417002_04_080");
         MsgDisp("Nanatsumori","Mine too.");
-        MsgDisp("主人公","(As I thought, ｛七ツ森＊｝ really is
+        MsgDisp("主人公","(As I thought,
+｛七ツ森＊｝ really is
 cool...)");
         ChEye(4,0);
         ChMouth(4,0);
@@ -91,8 +91,7 @@ cool...)");
         ChMouthOpenLevel(4,#1);
         VoicePlay("B040417002_04_100");
         MsgDisp("Nanatsumori","You really are cute.");
-        MsgDisp("主人公","∈
-Did you read my mind∋");
+        MsgDisp("主人公","∈ Did you read my mind∋");
         ChEye(4,4);
         ChMouth(4,0);
         ChMotion(4,0,1);
@@ -126,9 +125,11 @@ It's over.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_140");
-        MsgDisp("Nanatsumori","Crap. I don' feel like singing anymore.
+        MsgDisp("Nanatsumori","Crap.
+I don' feel like singing anymore.
 Right?");
-        MsgDisp("主人公","(Definitely. That might've been a bit too
+        MsgDisp("主人公","(Definitely.
+That might've been a bit too
 stimulating...)");
         break ;
         default :

@@ -30,8 +30,9 @@ How do you control your body so well?");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040320000_03_020");
-        MsgDisp("Honda","Mmhm...... It's a good thing there are
-many different types of princesses.");
+        MsgDisp("Honda","Mmhm......
+It's a good thing there are many different
+types of princesses.");
         MsgDateResultDisp();
         }
     break ;

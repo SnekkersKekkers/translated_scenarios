@@ -10,12 +10,12 @@ Wait(40,0);
 BGOpen("sc330",0);
 ScrFadeIn(0);
 VoicePlay("F100510000_48_000");
-MsgDisp("School Girl A","He's been like that 
-for a while now...");
+MsgDisp("School Girl A","He's been like that for a while now...");
 VoicePlay("F100510000_44_000");
 MsgDisp("School Girl B","What's up with Yanosuke-kun, I wonder...?
 Is he feeling unwell?");
-MsgDisp("主人公","(Eh...｛柊＊＊＊｝?)");
+MsgDisp("主人公","(Eh...
+｛柊＊＊＊｝? )");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

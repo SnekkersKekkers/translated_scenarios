@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("B040402200_04_010");
-    MsgDisp("Nanatsumori","Well, I wouldn't say grand, 
-but it is big.");
+    MsgDisp("Nanatsumori","Well, I wouldn't say grand, but it is big.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

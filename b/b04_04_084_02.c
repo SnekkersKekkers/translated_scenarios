@@ -5,8 +5,7 @@ ChMouth(4,4);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408402_04_000");
-MsgDisp("Nanatsumori","Hmー...
-it feels super nice today.");
+MsgDisp("Nanatsumori","Hmー... it feels super nice today.");
 MsgSel("It's a perfectly clear autumn day.","Should we do some exercise?","It's an indian summer.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -56,10 +55,11 @@ I do that on a regular basis.");
         MsgDisp("主人公","Eh, is that so?");
         ChMotion(4,0,1);
         VoicePlay("B040408402_04_060");
-        MsgDisp("Nanatsumori","I don't... jog everyday though. If it's
-necessary for work, I'll also go to the
-gym.");
-        MsgDisp("主人公","｛七ツ森＊｝, you're amazing.");
+        MsgDisp("Nanatsumori","I don't... jog everyday though.
+If it's necessary for work, I'll also go
+to the gym.");
+        MsgDisp("主人公","｛七ツ森＊｝, you're
+amazing.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);
@@ -89,7 +89,8 @@ Dash!");
         MsgClose();
         ChClose(4,0,30);
         SEPlay("EV_SE_FOOT_005",1);
-        MsgDisp("主人公","Eh∋ ｛七ツ森＊｝, wait up～!");
+        MsgDisp("主人公","Eh∋
+｛七ツ森＊｝, wait up～!");
         SEPlay("EV_SE_FOOT_007",0.25);
         SEWait();
         VoicePlay("B040408402_04_110");

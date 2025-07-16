@@ -16,7 +16,8 @@ car wash......)");
     SEStop("EV_SE_589",1);
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. What's up?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+What's up?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -28,7 +29,7 @@ a familiar voice somewhere.");
     ChMotion(6,1);
     VoicePlay("I650600000_06_020");
     MsgDisp("Himuro","Well, work hard.
-......Bye.");
+...... Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -65,7 +66,7 @@ But it's worth doing.");
     ChMotion(6,0);
     VoicePlay("I650600000_06_060");
     MsgDisp("Himuro","Well, just don't overdo it.
-......Bye.");
+...... Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -124,15 +125,16 @@ I had this leftover, so take it.");
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("I650600000_06_120");
-    MsgDisp("Himuro","Right. Since it's over for you if you lose
-your voice.");
+    MsgDisp("Himuro","Right.
+Since it's over for you if you lose your
+voice.");
     MsgDisp("主人公","Hehe, thank you!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I650600000_06_130");
     MsgDisp("Himuro","You're welcome.
-......Bye.");
+...... Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

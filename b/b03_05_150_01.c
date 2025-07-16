@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,3);
     VoicePlay("B030515000_05_010");
-    MsgDisp("Hiiragi","Everything is worth trying. Understood.");
+    MsgDisp("Hiiragi","Everything is worth trying.
+Understood.");
     MsgDispSksp(0);
     break ;
     case 1:

@@ -37,8 +37,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C04101_07_010");
-MsgDisp("Mikage","I'm happy that you 
-think that Yanosuke.");
+MsgDisp("Mikage","I'm happy that you think that Yanosuke.");
 MsgDisp("主人公","Yes.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -52,8 +51,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
 VoicePlay("D140C04101_07_020");
-MsgDisp("Mikage","Hey, so it's an issue 
-of time for you?");
+MsgDisp("Mikage","Hey, so it's an issue of time for you?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -92,7 +90,8 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D140C04101_05_060");
 MsgDisp("Hiiragi","Ahh, yes. That's right. If I don't study
 hard now, that's yet another problem.");
-MsgDisp("主人公","(Hehe. ｛柊＊＊＊｝, let's do our best
+MsgDisp("主人公","(Hehe.
+｛柊＊＊＊｝, let's do our best
 together!)");
 BGMStop();
 MsgClose();

@@ -12,8 +12,9 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100004_01_010");
-    MsgDisp("Kazama","Thanks. It has my taste in it too. I
-really like stuff like this.");
+    MsgDisp("Kazama","Thanks.
+It has my taste in it too.
+I really like stuff like this.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -101,7 +102,7 @@ of my taste and your sense, right?");
     ChMouth(1,4);
     ChMotion(1,4);
     VoicePlay("L040100004_01_120");
-    MsgDisp("Kazama","......Oh no.
+    MsgDisp("Kazama","...... Oh no.
 I don't think I can eat this anymore.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

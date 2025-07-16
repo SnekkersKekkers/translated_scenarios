@@ -43,7 +43,8 @@ Cute.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040421201_04_030");
-    MsgDisp("Nanatsumori","Alright! Then, let's choose carefully.
+    MsgDisp("Nanatsumori","Alright!
+Then, let's choose carefully.
 That's right... if it's with you...");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

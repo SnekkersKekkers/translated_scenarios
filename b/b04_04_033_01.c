@@ -10,15 +10,13 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040403301_04_000");
 MsgDisp("Nanatsumori","The deep sea fish' shape has evolved in a
-strange way.
-hasn't it?");
+strange way. hasn't it?");
 MsgSel("It's interesting.","Huh, it looks like you, ｛七ツ森＊｝.","It looks like I can learn to make weird faces here!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
     VoicePlay("B040403301_04_010");
-    MsgDisp("Nanatsumori","That pretty much sums 
-it up in a word.");
+    MsgDisp("Nanatsumori","That pretty much sums it up in a word.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,9 +27,9 @@ it up in a word.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040403301_04_020");
-    MsgDisp("Nanatsumori","Seriously∋ It really does... the color,
-the spiky parts, it really might look like
-me.");
+    MsgDisp("Nanatsumori","Seriously∋
+It really does... the color, the spiky
+parts, it really might look like me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

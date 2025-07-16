@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛颯砂＊＊｝ has gotten really popular
-lately, huh?");
+MsgDisp("主人公","｛颯砂＊＊｝ has gotten really
+popular lately, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

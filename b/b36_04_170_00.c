@@ -9,9 +9,10 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360417000_04_000");
-MsgDisp("Nanatsumori","Well. what are you gonna sing? You can go
-first.");
-MsgDisp("主人公","We can start from ｛七ツ森＊｝.");
+MsgDisp("Nanatsumori","Well. what are you gonna sing?
+You can go first.");
+MsgDisp("主人公","We can start from
+｛七ツ森＊｝.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -59,8 +60,7 @@ VoicePlay("B360417000_04_060");
 MsgDisp("Nanatsumori","Ahhh, hey!
 Don't say such cute things!
 I'm really gonna do something drastic!");
-MsgDisp("主人公","∋
-T-Those are amazing lyrics...");
+MsgDisp("主人公","∋ T-Those are amazing lyrics...");
 ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,0,1);

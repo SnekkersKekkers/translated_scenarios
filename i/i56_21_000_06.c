@@ -27,8 +27,9 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("I562100006_21_020");
-MsgDisp("Michiru","Geez. This is because you tried to do
-everything with one hand.");
+MsgDisp("Michiru","Geez.
+This is because you tried to do everything
+with one hand.");
 MsgDisp("主人公","Uh, sorry......");
 ChEye(21,4);
 ChMouth(21,4);

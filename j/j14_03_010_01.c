@@ -4,7 +4,8 @@ switch (MsgSelRsltGet()){
     VoicePlay("J140301001_03_000");
     MsgDisp("Honda","Okay, decided!");
     MsgDisp("主人公","Then, I'll meet you at the
-｛待ち合わせ場所｝ Do you think it's okay?");
+｛待ち合わせ場所｝ Do you
+think it's okay?");
     VoicePlay("J140301001_03_010");
     MsgDisp("Honda","Right.
 I'll let them know.

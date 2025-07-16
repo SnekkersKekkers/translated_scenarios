@@ -28,7 +28,8 @@ It's of a different quality to the others.");
     MsgDisp("Kazama","You have a talent for music. ...What's
 more, you earnestly polish it every single
 day. That's impressive.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

@@ -4,8 +4,10 @@ BGMPlay("BGM_C21_MICHIRU_A",0.01);
 ChOpen(21,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("F122100001_21_000");
-MsgDisp("Michiru","Mari. Let's go home together.");
-MsgDisp("主人公","Ah, ｛みちる＊｝. Sure, let's go.");
+MsgDisp("Michiru","Mari.
+Let's go home together.");
+MsgDisp("主人公","Ah, ｛みちる＊｝.
+Sure, let's go.");
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();

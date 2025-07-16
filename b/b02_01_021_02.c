@@ -13,5 +13,4 @@ VoicePlay("B020102102_01_010");
 MsgDisp("Kazama","But don't you think you stand out a
 little?
 Don't leave my side.");
-MsgDisp("主人公","(Seems like he liked
-my outfit today!)");
+MsgDisp("主人公","(Seems like he liked my outfit today!)");

@@ -5,8 +5,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030315000_03_000");
-MsgDisp("Honda","Bowling or darts,
-which do you feel like?");
+MsgDisp("Honda","Bowling or darts, which do you feel like?");
 MsgSel("Let's go bowling","Darts Corner sounds good");
 switch (MsgSelRsltGet()){
     case 0:
@@ -24,8 +23,9 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     MsgDispSksp(1,0);
     VoicePlay("B030315000_03_020");
-    MsgDisp("Honda","Alrighty. It's easy to play, but hard to
-master. Surprisingly deep, isn't it?");
+    MsgDisp("Honda","Alrighty.
+It's easy to play, but hard to master.
+Surprisingly deep, isn't it?");
     MsgDispSksp(0);
     break ;
     default :

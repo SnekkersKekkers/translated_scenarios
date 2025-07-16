@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020310101_03_000");
-MsgDisp("Honda","......Hm? 
+MsgDisp("Honda","...... Hm?
 Why are you looking around?");
 MsgDisp("主人公","Eh?
 I was just looking at the fireflies?");
@@ -53,8 +53,8 @@ fireflies! Let's go to see them!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(3);
-MsgDisp("主人公","(Just now, ｛本多＊＊｝'s face was very
-serious huh......)");
+MsgDisp("主人公","(Just now, ｛本多＊＊｝'s face was
+very serious huh......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

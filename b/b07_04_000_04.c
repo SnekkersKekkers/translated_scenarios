@@ -1,4 +1,5 @@
-MsgDisp("主人公","｛七ツ森＊｝ do you listen to music?
+MsgDisp("主人公","｛七ツ森＊｝ do you
+listen to music?
 What kind of music do you like?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -12,8 +13,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_210");
-MsgDisp("Nanatsumori","Yeah. To put it in simple terms, it's a
-song made by an amateur.");
+MsgDisp("Nanatsumori","Yeah.
+To put it in simple terms, it's a song
+made by an amateur.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_220");
@@ -25,8 +27,7 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B070400000_04_230");
-MsgDisp("Nanatsumori","Well, I'm similar to them
-in a sense-");
+MsgDisp("Nanatsumori","Well, I'm similar to them in a sense-");
 MsgDisp("主人公","Hmm?");
 ChEye(4,0);
 ChMouth(4,2);

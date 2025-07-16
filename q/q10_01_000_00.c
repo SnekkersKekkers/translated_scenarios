@@ -26,8 +26,9 @@ VoicePlay("Q100100000_01_020");
 MsgDisp("Kazama","I heard that his glasses also haven't
 changed in decades.
 They're similar in terms of durability.");
-MsgDisp("主人公","Yeah. I'm sure round glasses would also
-suit Vice Principal Himuro.");
+MsgDisp("主人公","Yeah.
+I'm sure round glasses would also suit
+Vice Principal Himuro.");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -58,10 +59,12 @@ ScrFadeIn(0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q100100000_01_050");
-MsgDisp("Kazama","Huh...... There sure are a lot of stylish
-shops around here.");
-MsgDisp("主人公","If it's coming from ｛風真＊＊｝ then
-there's no doubt about it, right?");
+MsgDisp("Kazama","Huh......
+There sure are a lot of stylish shops
+around here.");
+MsgDisp("主人公","If it's coming from
+｛風真＊＊｝ then there's no
+doubt about it, right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -82,7 +85,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q100100000_01_080");
 MsgDisp("Kazama","But before that.
-......Do you smell something freshly
+...... Do you smell something freshly
 baked?");
 MsgDisp("主人公","I do......!
 Castella comes first, right?");

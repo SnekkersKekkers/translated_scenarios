@@ -20,4 +20,5 @@ MsgDisp("Hiiragi","I do not want it to be exposed to anyone
 but myself.
 What a strange feeling.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems really happy!)");
+｛柊＊＊＊｝ seems really
+happy!)");

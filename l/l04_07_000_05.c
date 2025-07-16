@@ -20,8 +20,9 @@ You did your best, huh.");
     VoicePlay("L040700005_07_020");
     MsgDisp("Mikage","Sneaking in something that I don't like is
 just like you, and I like that, you know?");
-    MsgDisp("主人公","(Huh......? Was it not to ｛御影＊＊｝
-'s tastes?)");
+    MsgDisp("主人公","(Huh......?
+Was it not to
+｛御影＊＊｝ 's tastes?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -49,8 +50,8 @@ right?");
     VoicePlay("L040700005_07_050");
     MsgDisp("Mikage","Then it's okay!
 I'll accept gratefully.");
-    MsgDisp("主人公","(Ah, could it be......
-I added something ｛御影＊＊｝ doesn't
+    MsgDisp("主人公","(Ah, could it be...... I added something
+｛御影＊＊｝ doesn't
 like......?)");
     MsgClose();
     BGMStop();

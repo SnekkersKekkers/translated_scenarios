@@ -14,7 +14,8 @@ switch (ChPrmGet(7,6)){
     VoicePlay("O030700002_07_000");
     MsgDisp("Mikage","We were completely treated as a joke.
 Sorry.");
-    MsgDisp("主人公","(Ugh...... Last, huh......
+    MsgDisp("主人公","(Ugh......
+Last, huh......
 Too bad......)");
     break ;
     case 3:
@@ -29,11 +30,12 @@ best until the very end?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("O030700002_07_020");
-    MsgDisp("Mikage","Exactly. But thanks to you, I got a memory
-that I won't forget even in 10 years......
-right?");
-    MsgDisp("主人公","(Hm...... The memory of getting last,
-huh...... It's frustrating.)");
+    MsgDisp("Mikage","Exactly.
+But thanks to you, I got a memory that I
+won't forget even in 10 years...... right?");
+    MsgDisp("主人公","(Hm......
+The memory of getting last, huh......
+It's frustrating.)");
     break ;
     case 4:
     case 5:
@@ -62,8 +64,8 @@ of your sports festival memories.");
     MsgDisp("主人公","Hehe.
 I'm glad we got to go together.");
     MsgDisp("主人公","(I'm frustrated we got last, but I'm glad
-｛御影＊＊｝ was with me in the
-three-legged race......)");
+｛御影＊＊｝ was with me
+in the three-legged race......)");
     break ;
     default :
     DbgAssert(1);

@@ -64,8 +64,9 @@ rag please!");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P830100001_01_040");
     MsgDisp("Kazama","I'll carry this over.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Didn't you have
-something you needed to do?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Didn't you have something you needed to
+do?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -86,9 +87,11 @@ You seem busy, so I can just do it later.");
     ChOpen(1,254,0,2,2,0,#1,0,0);
     ChMotion(1,1);
     VoicePlay("P830100001_01_060");
-    MsgDisp("Kazama","Phew... It's a tough job being the
-management staff, huh?");
-    MsgDisp("主人公","｛風真＊＊｝, thank you for helping me.");
+    MsgDisp("Kazama","Phew...
+It's a tough job being the management
+staff, huh?");
+    MsgDisp("主人公","｛風真＊＊｝, thank you for
+helping me.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -96,8 +99,8 @@ management staff, huh?");
     MsgDisp("Kazama","Yeah, yeah.
 Later then, don't push yourself too hard.");
     MsgDisp("主人公","Y-Yeah.
-Ah, ｛風真＊＊｝, didn't you have some
-errands?");
+Ah, ｛風真＊＊｝, didn't you
+have some errands?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

@@ -37,8 +37,9 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B150500500_05_050");
 MsgDisp("Hiiragi","Haa..
 I want to do that too.");
-MsgDisp("主人公","｛柊＊＊＊｝, you're going to leave?
-...I'll stop now.");
+MsgDisp("主人公","｛柊＊＊＊｝, you're going to
+leave?
+... I'll stop now.");
 Wait(40,1);
 ChEye(5,0);
 ChMouth(5,0);
@@ -51,14 +52,15 @@ ChMouth(5,3);
 ChMotion(5,4);
 VoicePlay("B150500500_05_070");
 MsgDisp("Hiiragi","Even if you end up in tears from my
-counterattack, I won't stop...Heh, this is
-going to be fun, isn't it?");
+counterattack, I won't stop...
+Heh, this is going to be fun, isn't it?");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B150500500_05_080");
 MsgDisp("Hiiragi","Let's go, little kitty.");
-MsgDisp("主人公","(What should I do... ｛柊＊＊＊｝ is...)");
+MsgDisp("主人公","(What should I do...
+｛柊＊＊＊｝ is...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

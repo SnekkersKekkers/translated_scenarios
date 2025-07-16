@@ -87,13 +87,15 @@ I had a lot of fun.");
     MsgDisp("Kazama","Yeah.
 It's thanks to you inviting me.");
     MsgDisp("主人公","Hehe, yeah.
-I'm happy I asked you, ｛風真＊＊｝.");
+I'm happy I asked you,
+｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,0);
     VoiceEVSPlay(1);
     VoicePlay("Q080100001_01_100");
-    MsgDisp("Kazama","｛主人公｝, this time from me to you.");
+    MsgDisp("Kazama","｛主人公｝, this time from
+me to you.");
     MsgDisp("主人公","Eh?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -117,7 +119,8 @@ the UK.");
     ChMotion(1,0);
     VoicePlay("Q080100001_01_130");
     MsgDisp("Kazama","Yes, and it would be meaningless without
-you. Right?");
+you.
+Right?");
     MsgDisp("主人公","...... Maybe, yeah.");
     ChEye(1,0);
     ChMouth(1,3);

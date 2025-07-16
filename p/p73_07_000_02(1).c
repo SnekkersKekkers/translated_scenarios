@@ -24,7 +24,8 @@ festival... I have to make it a success!)");
     MsgDisp("Mikage","What's wrong, you look stressed.
 You're a cute bride, you know?
 You have to smile brightly.");
-    MsgDisp("主人公","Yes. I really want to make this a certain
+    MsgDisp("主人公","Yes.
+I really want to make this a certain
 success.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -49,9 +50,9 @@ such a cute bride. It's already a success.");
 If only I saw this, I might be hit with
 divine punishment.");
     MsgDisp("主人公","Yes...!");
-    MsgDisp("主人公","(I've gotten ｛御影＊＊｝'s seal of
-approval. Alright, let's carry myself with
-confidence!)");
+    MsgDisp("主人公","(I've gotten ｛御影＊＊｝'s
+seal of approval. Alright, let's carry
+myself with confidence!)");
     break ;
     case 4:
     case 5:
@@ -63,10 +64,11 @@ festival... I have to make it a success!)");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700002_07_050");
-    MsgDisp("Mikage","Oh! Even in such a place, there's a cute
+    MsgDisp("Mikage","Oh!
+Even in such a place, there's a cute
 bride.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. Did you come to
-support me?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Did you come to support me?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -80,8 +82,8 @@ spot.");
     VoicePlay("P730700002_07_070");
     MsgDisp("Mikage","Is the spot next to the adorable bride
 empty?");
-    MsgDisp("主人公","Hehe! For the show I walk by myself
-though?");
+    MsgDisp("主人公","Hehe!
+For the show I walk by myself though?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -95,14 +97,14 @@ Making a bride like this walk by herself.");
     MsgDisp("Mikage","Then I'd be happy to play the role of
 coming to steal the bride during the
 ceremony?");
-    MsgDisp("主人公","It's not a ceremony, 
-it's a show!");
+    MsgDisp("主人公","It's not a ceremony, it's a show!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P730700002_07_100");
-    MsgDisp("Mikage","Gotcha. Then, I'll watch from the audience
-with my fingers in my mouth.");
+    MsgDisp("Mikage","Gotcha.
+Then, I'll watch from the audience with my
+fingers in my mouth.");
     MsgDisp("主人公","Hehe, do your best.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -112,9 +114,10 @@ with my fingers in my mouth.");
     VoicePlay("P730700002_07_110");
     MsgDisp("Mikage","Yeah, you have to go show everyone this
 lovely dress.");
-    MsgDisp("主人公","(... Thanks to ｛御影＊＊｝, I feel
-like I've been able to relax... Alright,
-let's have some fun!)");
+    MsgDisp("主人公","(... Thanks to
+｛御影＊＊｝, I feel like
+I've been able to relax... Alright, let's
+have some fun!)");
     break ;
     default :
     DbgAssert(1);

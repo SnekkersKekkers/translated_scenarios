@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("S120600002_06_000");
     MsgDisp("Himuro","I'll take my leave here.
-......Happy New Years.");
+...... Happy New Years.");
     MsgDisp("主人公","Yeah, same to you!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -80,8 +80,7 @@ graduation together.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("S120600002_06_110");
-    MsgDisp("Himuro","Ah......It's nothing.
-I'll take you home.
+    MsgDisp("Himuro","Ah......It's nothing. I'll take you home.
 Let's go.");
     MsgDisp("主人公","(｛氷室＊＊｝......?)");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");

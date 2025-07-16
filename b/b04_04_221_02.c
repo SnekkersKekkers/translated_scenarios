@@ -6,8 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040422102_04_000");
-MsgDisp("Nanatsumori","Ah...
-is that a rainbow over there?");
+MsgDisp("Nanatsumori","Ah... is that a rainbow over there?");
 MsgSel("You have to hurry and take a picture∈","There was a light drizzle after all, just now","Looks like the sky is giving their blessing▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040422102_04_010");
-    MsgDisp("Nanatsumori","ＯＫ! I got a good spot before other
-people noticed.");
+    MsgDisp("Nanatsumori","ＯＫ!
+I got a good spot before other people
+noticed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -59,17 +59,15 @@ people noticed.");
         ChMouth(4,4);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040422102_04_050");
-        MsgDisp("Nanatsumori","...Eh?
+        MsgDisp("Nanatsumori","... Eh?
 That means——");
-        MsgDisp("主人公","Umm, 
-I meant a blessing on us.");
+        MsgDisp("主人公","Umm, I meant a blessing on us.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040422102_04_060");
         MsgDisp("Nanatsumori","On us?");
-        MsgDisp("主人公","COngratulations, 
-as they would say.");
+        MsgDisp("主人公","COngratulations, as they would say.");
         ChEye(4,5);
         ChMouth(4,1);
         ChMotion(4,1,1);
@@ -86,7 +84,8 @@ statements that I don't really understand.");
         VoicePlay("B040422102_04_090");
         MsgDisp("Nanatsumori","It's seriously bad for the heart.
 I'm sure you don't mean it though.");
-        MsgDisp("主人公","Umm... I'm sorry, okay?");
+        MsgDisp("主人公","Umm...
+I'm sorry, okay?");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,1,1);

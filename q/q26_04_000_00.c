@@ -29,8 +29,8 @@ VoicePlay("Q260400000_04_030");
 MsgDisp("Nanatsumori","I didn't do anything.
 I'm sure I haven't......
 But, I am sorry.");
-MsgDisp("主人公","(He's panicking......
-So I really touched ｛七ツ森＊｝ Just
+MsgDisp("主人公","(He's panicking...... So I really touched
+｛七ツ森＊｝ Just
 now......)");
 MsgClose();
 ScrFadeOut(0,0);

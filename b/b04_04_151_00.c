@@ -37,8 +37,9 @@ I am a guy after all.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040415100_04_030");
-    MsgDisp("Nanatsumori","Right. We came here to have fun, so let's
-just enjoy it the way we like.");
+    MsgDisp("Nanatsumori","Right.
+We came here to have fun, so let's just
+enjoy it the way we like.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

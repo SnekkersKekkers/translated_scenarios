@@ -36,7 +36,8 @@ ChMotion(7,2);
 ScrFadeIn(0);
 VoicePlay("B360723601_07_030");
 MsgDisp("Mikage","Wow......");
-MsgDisp("主人公","｛御影＊＊｝, it's a skull bear!");
+MsgDisp("主人公","｛御影＊＊｝, it's a skull
+bear!");
 VoicePlay("B360723601_07_040");
 ChEye(7,2);
 ChMouth(7,0);
@@ -55,9 +56,11 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
-MsgDisp("Mikage","Fine! How about we stay until the skull
-bear passes by?");
-MsgDisp("主人公","(Yay! I got to watch the Night Parade with
+MsgDisp("Mikage","Fine!
+How about we stay until the skull bear
+passes by?");
+MsgDisp("主人公","(Yay!
+I got to watch the Night Parade with
 ｛御影＊＊｝ today!)");
 BGMStop();
 MsgClose();

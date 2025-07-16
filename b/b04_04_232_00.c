@@ -6,8 +6,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423200_04_000");
-MsgDisp("Nanatsumori","Mm.
-the ferris wheel isnnice.");
+MsgDisp("Nanatsumori","Mm. the ferris wheel isnnice.");
 MsgSel("You can enjoy a beautiful view♪","It was so nice I fell asleep...","It was high, narrow, and scary...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +27,7 @@ I even forgot to take pictures.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("B040423200_04_020");
-    MsgDisp("Nanatsumori","Well, it is like
-one big cradle.");
+    MsgDisp("Nanatsumori","Well, it is like one big cradle.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

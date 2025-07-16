@@ -15,7 +15,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P240701000_07_010");
-MsgDisp("Mikage","Alright, this is the last scene. ");
+MsgDisp("Mikage","Alright, this is the last scene.");
 MsgDisp("主人公","Yes.
 Everyone, give it your best...!");
 BGMVol(0.5,2);
@@ -32,8 +32,7 @@ MsgDisp("White Girl","I am the incarnation of a thousand
 year-old white snake.
 You and I cannot live in the same age.");
 VoicePlay("P240701000_41_020");
-MsgDisp("Xu Xian","Even if that is so,
-I will take you home.");
+MsgDisp("Xu Xian","Even if that is so, I will take you home.");
 MsgDisp("主人公","...This is a lovely scene, huh?");
 VoicePlay("P240701000_07_020");
 MsgDisp("Mikage","Well yeah.
@@ -48,11 +47,9 @@ MsgDisp("Xu Xian","What meaning is there in meekly allowing
 time to pass when you aren't there?");
 VoicePlay("P240701000_07_030");
 MsgDisp("Mikage","...That hurts to hear.");
-MsgDisp("主人公","?
-It's almost time for the sound effects.");
+MsgDisp("主人公","? It's almost time for the sound effects.");
 VoicePlay("P240701000_33_050");
-MsgDisp("Fahai","Don't mingle with humans, 
-you demon!");
+MsgDisp("Fahai","Don't mingle with humans, you demon!");
 VoicePlay("P240701000_41_060");
 MsgDisp("Xu Xian","It's dangerous!");
 VoicePlay("P240701000_33_070");
@@ -70,8 +67,9 @@ VoicePlay("P240701000_49_010");
 MsgDisp("Narrator","The lightning arrows sent by the pursuers
 pierced through Bai Niang's back.");
 VoicePlay("P240701000_46_020");
-MsgDisp("White Girl","This is... fine. I can finally experience
-the same time you do.");
+MsgDisp("White Girl","This is... fine.
+I can finally experience the same time you
+do.");
 VoicePlay("P240701000_41_100");
 MsgDisp("Xu Xian","Don't go...!
 Don't leave me behind.");
@@ -98,7 +96,8 @@ MsgDisp("Mikage","Then, let's gather everyone and celebrate!
 Let's go!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(Hehe, looks like ｛御影＊＊｝ is the
+MsgDisp("主人公","(Hehe, looks like
+｛御影＊＊｝ is the
 happiest? He's helped us a lot since the
 preparation period.)");
 MsgClose();

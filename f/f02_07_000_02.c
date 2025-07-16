@@ -9,10 +9,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700002_07_000");
-MsgDisp("Mikage","Our school's church legends...
-there are many tales surrounding it,
-aren't there?");
-MsgDisp("主人公","Yes. The story about the Prince and the
+MsgDisp("Mikage","Our school's church legends... there are
+many tales surrounding it, aren't there?");
+MsgDisp("主人公","Yes.
+The story about the Prince and the
 Princess is most famous though.");
 ChEye(7,4);
 ChMouth(7,0);
@@ -58,8 +58,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F020700002_07_060");
-MsgDisp("Mikage","I'm too scared to ask 
-him about it though.");
+MsgDisp("Mikage","I'm too scared to ask him about it though.");
 MsgDisp("主人公","I'm curious...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -67,5 +66,6 @@ ChMotion(7,1);
 VoicePlay("F020700002_07_070");
 MsgDisp("Mikage","Don't.
 That curiosity will be fatal.");
-MsgDisp("主人公","(...We walked home happily whilst talking
+MsgDisp("主人公","(...
+We walked home happily whilst talking
 about this story.)");

@@ -4,8 +4,9 @@ ChOpen(7,255,1,0,4,#1,#1,0,0);
 VoicePlay("G020710201_07_000");
 MsgDisp("Mikage","Hey, you know the rumor about this place,
 right?");
-MsgDisp("主人公","Yeah. You can hear the inner voices of
-people you're with......");
+MsgDisp("主人公","Yeah.
+You can hear the inner voices of people
+you're with......");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -24,8 +25,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710201_07_030");
-MsgDisp("Mikage","If I could hear it,
-I could deal with it.");
+MsgDisp("Mikage","If I could hear it, I could deal with it.");
 MsgDisp("主人公","......Then why did you invite me here
 today?");
 ChEye(7,0);

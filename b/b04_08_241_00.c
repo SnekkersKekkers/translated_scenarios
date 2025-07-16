@@ -38,8 +38,9 @@ after all");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040824100_08_030");
-    MsgDisp("Shirahane","Seriously! Is it interested in us? Heey,
-should we get closer?");
+    MsgDisp("Shirahane","Seriously!
+Is it interested in us?
+Heey, should we get closer?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

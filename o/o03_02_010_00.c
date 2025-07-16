@@ -2,15 +2,15 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
     ChOpen(2,30,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("O030201000_02_000");
-    MsgDisp("Sassa","｛主人公｝. Do you have a partner?");
+    MsgDisp("Sassa","｛主人公｝.
+Do you have a partner?");
     MsgDisp("主人公","No, not yet.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -20,16 +20,15 @@ about my partner......)");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
     ChOpen(2,30,3,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("O030201000_02_020");
-    MsgDisp("Sassa","｛主人公｝. Let's do the three-legged
-race together!");
+    MsgDisp("Sassa","｛主人公｝.
+Let's do the three-legged race together!");
     MsgDisp("主人公","Really?
 I was just looking for a partner!");
     ChEye(2,3);
@@ -44,16 +43,17 @@ Please go easy on me.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();
     ChOpen(2,30,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("O030201000_02_040");
-    MsgDisp("Sassa","｛主人公｝. Did I made it in time!?");
-    MsgDisp("主人公","Hm? ｛颯砂＊＊｝, what is it?");
+    MsgDisp("Sassa","｛主人公｝.
+Did I made it in time!?");
+    MsgDisp("主人公","Hm?
+｛颯砂＊＊｝, what is it?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);

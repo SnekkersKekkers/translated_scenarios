@@ -1,7 +1,7 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","...Alright.
+MsgDisp("主人公","... Alright.
 Time to head home.");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
@@ -9,7 +9,8 @@ ChOpen(1,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("E010110100_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","｛風真＊＊｝! Were you working today?");
+MsgDisp("主人公","｛風真＊＊｝!
+Were you working today?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -43,8 +44,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("E010110100_01_040");
-MsgDisp("Kazama","......Info? I wonder if I'm being
-monitored......");
+MsgDisp("Kazama","...... Info?
+I wonder if I'm being monitored......");
 MsgDisp("主人公","｛風真＊＊｝, that's......");
 ChEye(1,0);
 ChMouth(1,3);

@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,4,1);
     VoicePlay("B040817000_08_010");
-    MsgDisp("Shirahane","Eh? You can go first. I'm still preparing
-my heart.");
+    MsgDisp("Shirahane","Eh?
+You can go first.
+I'm still preparing my heart.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,7 +28,7 @@ my heart.");
     ChCheek(8,3);
     VoicePlay("B040817000_08_020");
     MsgDisp("Shirahane","It's kinda embarrassing but...
-I'll make sure not ta drag you down.'");
+I'll make sure not ta drag you down. '");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

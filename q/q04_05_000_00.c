@@ -3,7 +3,8 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Hmmm, ｛柊＊＊＊｝ is... there!)");
+    MsgDisp("主人公","(Hmmm, ｛柊＊＊＊｝ is...
+there!)");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
@@ -14,7 +15,8 @@ Hey, can we go together for today's free
 period?");
     break ;
     case 3:
-    MsgDisp("主人公","(Hmmm, ｛柊＊＊＊｝ is... there!)");
+    MsgDisp("主人公","(Hmmm, ｛柊＊＊＊｝ is...
+there!)");
     MsgDisp("主人公","｛柊＊＊＊｝ ！");
     MsgClose();
     SEPlay("EV_SE_544");
@@ -23,13 +25,14 @@ period?");
     MsgDisp("Hiiragi","Good morning.
 Why are you in such a hurry?");
     MsgDisp("主人公","Yeah, I wanted to look around with you,
-｛柊＊＊＊｝, for the free period.
-How about it?");
+｛柊＊＊＊｝, for the free
+period. How about it?");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(｛柊＊＊＊｝ is...... there!)");
-    MsgDisp("主人公","｛柊＊＊＊｝! Morning.");
+    MsgDisp("主人公","｛柊＊＊＊｝!
+Morning.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,254,0,4,4,#1,#1,0,0);

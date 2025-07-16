@@ -15,14 +15,13 @@ ChOpen(4,253,0,1,2,#1,#1,0,3);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B330B10700_04_000");
-MsgDisp("Nanatsumori","...So.
+MsgDisp("Nanatsumori","... So.
 What should we do here?");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B10700_03_000");
-MsgDisp("Honda","Mii-kun,
-you look discontent.");
+MsgDisp("Honda","Mii-kun, you look discontent.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -109,8 +108,8 @@ ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B10700_01_050");
-MsgDisp("Kazama","It's fine for the elderly to do it.
-let's move ont the next one.");
+MsgDisp("Kazama","It's fine for the elderly to do it. let's
+move ont the next one.");
 MsgDisp("主人公","(｛風真＊＊｝, are you feeling a bit
 embarrassed?)");
 BGMStop();

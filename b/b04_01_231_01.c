@@ -41,8 +41,9 @@ bad.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040123101_01_030");
-    MsgDisp("Kazama","What was it? Open your mouth a bit, come
-on. Aaahー.");
+    MsgDisp("Kazama","What was it?
+Open your mouth a bit, come on.
+Aaahー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

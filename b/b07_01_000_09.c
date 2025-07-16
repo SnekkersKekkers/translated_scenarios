@@ -48,9 +48,9 @@ VoicePlay("B070100000_01_540");
 MsgDisp("Kazama","So to only extract \"love\" from the
 equation is difficult.
 I can't do it.");
-MsgDisp("主人公","I see.
-I guess I should also think about it more
-seriously, like you do, ｛風真＊＊｝?");
+MsgDisp("主人公","I see. I guess I should also think about
+it more seriously, like you do,
+｛風真＊＊｝?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -58,8 +58,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_550");
-MsgDisp("Kazama","...Seriously. I'm seriously counting on
-you.");
+MsgDisp("Kazama","... Seriously.
+I'm seriously counting on you.");
 MsgDisp("主人公","(He's relying on me a lot....)");
 BGMStop();
 MsgClose();

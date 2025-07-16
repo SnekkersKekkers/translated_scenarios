@@ -14,7 +14,7 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3,1);
 VoicePlay("D140A06101_01_000");
-MsgDisp("Kazama","......∋　Haa∋");
+MsgDisp("Kazama","......∋ Haa∋");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -64,8 +64,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06101_06_050");
 MsgDisp("Himuro","So, how about it?");
-MsgDisp("主人公","Sweet nothings...
-could you give me an example?");
+MsgDisp("主人公","Sweet nothings... could you give me an
+example?");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
@@ -88,7 +88,8 @@ VoicePlay("D140A06101_01_030");
 MsgDisp("Kazama","When you're stuck, you always throw it
 back to me huh?");
 MsgDisp("主人公","(Hehe! sweet nothings huh... what would it
-feel like if ｛颯砂＊＊｝ said it?)");
+feel like if ｛颯砂＊＊｝ said
+it?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

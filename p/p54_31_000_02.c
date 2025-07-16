@@ -11,8 +11,7 @@ ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("P543100002_31_000");
 MsgDisp("Goro","It's nice isn't it, game music?
 I like it～♪");
-MsgDisp("主人公","Hehe, 
-thank you very much.");
+MsgDisp("主人公","Hehe, thank you very much.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);

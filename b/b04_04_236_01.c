@@ -35,8 +35,9 @@ be that.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423601_04_020");
-    MsgDisp("Nanatsumori","...Pfft! You put it well. The sweetness
-and spice are just right.");
+    MsgDisp("Nanatsumori","... Pfft!
+You put it well.
+The sweetness and spice are just right.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

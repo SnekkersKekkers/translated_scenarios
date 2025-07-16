@@ -5,9 +5,9 @@ MsgDisp("主人公","(I still have time for my lunch break...
 I wonder what I should do.)");
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, a message. From ｛柊＊＊＊｝... it
-says \"I'll be waiting in the student
-council room.\")");
+MsgDisp("主人公","(Ah, a message.
+From ｛柊＊＊＊｝... it says \"I'll
+be waiting in the student council room.\")");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);
@@ -39,8 +39,9 @@ ChEyeOpenLevel(5,12);
 VoicePlay("G110500300_05_010");
 MsgDisp("Hiiragi","Don't tell me you already forgot.
 Kitten-chan?");
-MsgDisp("主人公","Huh∋ Could it be... From our previous
-skinship?");
+MsgDisp("主人公","Huh∋
+Could it be...
+From our previous skinship?");
 VoicePlay("G110500300_05_020");
 MsgDisp("Hiiragi","Yeah. At night, you suddenly change when
 our distance comes together. Our next
@@ -113,8 +114,8 @@ ChCheek(5,7);
 VoicePlay("G110500300_05_080");
 MsgDisp("Hiiragi","Y-Yeah.
 We are working... right?");
-MsgDisp("主人公","(Phew... that surprised me... I was
-getting a little nervous.)");
+MsgDisp("主人公","(Phew... that surprised me...
+I was getting a little nervous.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

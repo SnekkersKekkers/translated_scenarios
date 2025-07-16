@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040115201_01_010");
-    MsgDisp("Kazama","Alright, you're getting
-too carried away.");
+    MsgDisp("Kazama","Alright, you're getting too carried away.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -43,8 +42,8 @@ Then, coach also can't lose.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040115201_01_030");
-    MsgDisp("Kazama","...Geez. Just where does that confidence
-come from?");
+    MsgDisp("Kazama","... Geez.
+Just where does that confidence come from?");
     MsgDateResultDisp();
     break ;
     default :

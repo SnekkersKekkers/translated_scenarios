@@ -5,7 +5,8 @@ MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110610000_06_000");
 MsgDisp("Himuro","......");
-MsgDisp("主人公","｛氷室＊＊｝? Is something wrong?");
+MsgDisp("主人公","｛氷室＊＊｝?
+Is something wrong?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -37,8 +38,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F110610000_06_050");
-MsgDisp("Himuro","Sigh... That's annoying. Feeling guilty
-wouldn't help either.");
+MsgDisp("Himuro","Sigh...
+That's annoying.
+Feeling guilty wouldn't help either.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -55,7 +57,7 @@ See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(I think I'll go check out ｛氷室＊＊｝'s
-class later.)");
+MsgDisp("主人公","(I think I'll go check out
+｛氷室＊＊｝'s class later.)");
 MsgClose();
 ScrFadeOut(0,0);

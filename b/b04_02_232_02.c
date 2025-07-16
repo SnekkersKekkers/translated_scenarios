@@ -76,8 +76,8 @@ already okay for next time.");
 that \"This person is struggling huhー\" and
 that'll be enough.");
         MsgDisp("主人公","Hehe, if you put it that way, I'll end up
-laughing at ｛颯砂＊＊｝ who's making a
-troubled face.");
+laughing at ｛颯砂＊＊｝ who's
+making a troubled face.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,0);

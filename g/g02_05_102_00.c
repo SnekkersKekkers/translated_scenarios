@@ -1,14 +1,16 @@
 MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510200_05_000");
-MsgDisp("Hiiragi","......This place feels really comfortable.
+MsgDisp("Hiiragi","...... This place feels really
+comfortable.
 Makes me want to stay here forever.");
-MsgDisp("主人公","Yeah. But this is the fireflies home, you
-know?");
+MsgDisp("主人公","Yeah.
+But this is the fireflies home, you know?");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("G020510200_05_010");
-MsgDisp("Hiiragi","Certainly. I'm intruding.");
+MsgDisp("Hiiragi","Certainly.
+I'm intruding.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020510200_05_020");

@@ -47,7 +47,8 @@ something from that long ago.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108102_01_040");
-        MsgDisp("Kazama","Haah. My bad.
+        MsgDisp("Kazama","Haah.
+My bad.
 That's just so you, too.");
         MsgDisp("主人公","I'm sorry.
 I wasn't really thinking...");
@@ -64,8 +65,8 @@ But you know, I remember.");
         MsgDisp("Kazama","You were just a scared, timid little kid.
 And from the day on that we were in the
 same class, we always went home together.");
-        MsgDisp("主人公","Yeah. You were always
-cheering me up.");
+        MsgDisp("主人公","Yeah.
+You were always cheering me up.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0,1);
@@ -82,8 +83,8 @@ But, thank you.");
         MsgDisp("Kazama","Oh-hoh. That honesty is nice. A proper
 thank you. From here on out, thank me
 everyday.");
-        MsgDisp("主人公","(｛風真＊＊｝, you've cared about me for
-so long now...
+        MsgDisp("主人公","(｛風真＊＊｝, you've cared about me for so
+long now...
 It makes me happy.)");
         break ;
         default :
@@ -113,8 +114,9 @@ I always liked the ones I saw there, too.");
     ChMotion(1,4);
     ChCheek(1,5);
     VoicePlay("B040108102_01_100");
-    MsgDisp("Kazama","Right? We were in the same school, same
-class. It was almost too good to be true.");
+    MsgDisp("Kazama","Right?
+We were in the same school, same class.
+It was almost too good to be true.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -34,7 +34,8 @@ isn't such a nice thing.");
     ChMotion(5,0);
     VoicePlay("S120500002_05_030");
     MsgDisp("Hiiragi","My New Years mood is ruined because of
-you. Cya.");
+you.
+Cya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
@@ -56,8 +57,8 @@ I have to try hard too.)");
     MsgDisp("Hiiragi","The Gods are taking in all the wishes of
 Habataki's residents, I guess it's hard
 for them this time of year as well.");
-    MsgDisp("主人公","Yeah. There were so many people this year,
-too.");
+    MsgDisp("主人公","Yeah.
+There were so many people this year, too.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("S120500002_05_050");
@@ -67,8 +68,8 @@ year too.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S120500002_05_060");
-    MsgDisp("Hiiragi","Yeah. I prayed to graduate properly with
-you.");
+    MsgDisp("Hiiragi","Yeah.
+I prayed to graduate properly with you.");
     MsgDisp("主人公","Hehe.");
     ChEye(5,0);
     VoicePlay("S120500002_05_070");
@@ -104,9 +105,10 @@ properly.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("S120500002_05_140");
-    MsgDisp("Hiiragi","......I see.
+    MsgDisp("Hiiragi","...... I see.
 Is that how you think about it?");
-    MsgDisp("主人公","Eh? I don't mean it like that......");
+    MsgDisp("主人公","Eh?
+I don't mean it like that......");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);

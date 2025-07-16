@@ -2,9 +2,11 @@ BGOpen("wf230",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D030900100_09_000");
-MsgDisp("Kuya?","So...... Did you get separated from your
-mother around here?");
-MsgDisp("主人公","(......Huh?)");
+MsgDisp("Kuya?","So......
+Did you get separated from your mother
+around here?");
+MsgDisp("主人公","(......
+Huh?)");
 VoicePlay("D030900100_44_000");
 MsgDisp("Boy","I don't know.
 Uーwah!");
@@ -17,8 +19,8 @@ BGMPlay("BGM_C09_KUYA_I",0.01);
 ChLayout(1);
 ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030900100_44_010");
-MsgDisp("Boy","Hiccup...... Big brother Kuya, piggyback
-ride.");
+MsgDisp("Boy","Hiccup......
+Big brother Kuya, piggyback ride.");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -27,15 +29,16 @@ MsgDisp("Kuya?","Sure. Maybe I'll be able to hear you more
 clearly like that. It'll make you look
 like a baby, though.");
 VoicePlay("D030900100_44_020");
-MsgDisp("Boy","Sniff...... I don't want the piggyback
-ride anymore.");
+MsgDisp("Boy","Sniff......
+I don't want the piggyback ride anymore.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900100_09_030");
-MsgDisp("Kuya?","Alright. Come with me, I'll help you find
-your mother.");
+MsgDisp("Kuya?","Alright.
+Come with me, I'll help you find your
+mother.");
 MsgDisp("主人公","Uhm!");
 ChEye(9,3);
 ChMouth(9,0);
@@ -76,7 +79,8 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030900100_09_060");
 MsgDisp("Kuya?","It's nothing, please don't worry about it.
 This is my job.");
-MsgDisp("主人公","(......Job?)");
+MsgDisp("主人公","(......
+Job?)");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -93,7 +97,8 @@ MsgDisp("主人公","Do you run into that mother and her son
 often?");
 ChMotion(9,3,1);
 VoicePlay("D030900100_09_070");
-MsgDisp("Kuya?","Yeah. That kid is very energetic and gets
+MsgDisp("Kuya?","Yeah.
+That kid is very energetic and gets
 separated from his mother often.");
 ChEye(9,3);
 ChMouth(9,0);
@@ -120,9 +125,8 @@ VoicePlay("D030900100_09_100");
 MsgDisp("Kuya?","You should \"exercise\" frequently too so
 you can be prepared for anything.
 That way you won't have any worries.");
-MsgDisp("主人公","Ah......Right.
-I usually work on my \"fitness\" in various
-ways.");
+MsgDisp("主人公","Ah......Right. I usually work on my
+\"fitness\" in various ways.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

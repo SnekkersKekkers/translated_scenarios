@@ -6,7 +6,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("F010300006_03_000");
-    MsgDisp("Honda","Sorry. I told my folks I'd be home ASAP.
+    MsgDisp("Honda","Sorry.
+I told my folks I'd be home ASAP.
 Well then, seeya!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

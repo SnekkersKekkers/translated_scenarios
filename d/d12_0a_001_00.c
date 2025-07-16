@@ -39,10 +39,9 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("D120A00100_06_010");
 MsgDisp("Himuro","Ryota-senpai, aren't you too wobbly?
-Nozomu-senpai you're......perfect as
+Nozomu-senpai you're...... perfect as
 expected.");
-MsgDisp("主人公","Hehe, you guys are
-really into it, huh?");
+MsgDisp("主人公","Hehe, you guys are really into it, huh?");
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("D120A00100_01_000");
@@ -51,13 +50,14 @@ Why are you here.");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D120A00100_02_000");
-MsgDisp("Sassa","Yo. Are you here for the surfing class
-too?");
+MsgDisp("Sassa","Yo.
+Are you here for the surfing class too?");
 MsgDisp("主人公","Nope, I'm just here to observe.");
 StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
 VoicePlay("D120A00100_01_010");
-MsgDisp("Kazama","Observe? What's with that.");
+MsgDisp("Kazama","Observe?
+What's with that.");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -120,8 +120,9 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120A00100_01_040");
-MsgDisp("Kazama","Sigh...... This is the first time I've
-ever heard of surfing on the sand......");
+MsgDisp("Kazama","Sigh......
+This is the first time I've ever heard of
+surfing on the sand......");
 MsgDisp("主人公","｛風真＊＊｝, are you okay?");
 ChMouth(1,0);
 ChEyeOpenLevel(1,#1);
@@ -131,7 +132,7 @@ ChMotion(6,1);
 VoicePlay("D120A00100_06_050");
 MsgDisp("Himuro","Okay, that's it for today's class.
 Let's go get some juice.");
-MsgDisp("主人公","(Today's class......does that mean there
+MsgDisp("主人公","(Today's class...... does that mean there
 will be second one......?
 I think I want to watch it again......)");
 BGMStop();

@@ -1,7 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? ｛氷室＊＊｝ hasn't come yet...");
+MsgDisp("主人公","Huh?
+｛氷室＊＊｝ hasn't come yet...");
 VoicePlay("B110600000_33_000");
 MsgDisp("Guy","Hey, do you want to know?
 Or do you not want to know?");
@@ -78,7 +79,7 @@ MsgClose();
 ChClose(6);
 ChPosition(33,0);
 VoicePlay("B110600000_06_050");
-MsgDisp("Himuro","...Hello.
+MsgDisp("Himuro","... Hello.
 Is this the police?");
 ChEye(33,2);
 ChMouth(33,2);
@@ -102,12 +103,12 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B110600000_06_070");
-MsgDisp("Himuro","No... It was my fault for being late in
-the first place.");
+MsgDisp("Himuro","No...
+It was my fault for being late in the
+first place.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B110600000_06_080");
-MsgDisp("Himuro","Let's go already.
-before we get caught up in something weird
-again.");
+MsgDisp("Himuro","Let's go already. before we get caught up
+in something weird again.");

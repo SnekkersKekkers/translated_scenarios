@@ -5,8 +5,7 @@ ChEyeOpenLevel(2,10);
 VoicePlay("B020202103_02_000");
 MsgDisp("Sassa","Oh crap...
 Where should I look when we're talking?");
-MsgDisp("主人公","Um, are my clothes today
-weird-looking?");
+MsgDisp("主人公","Um, are my clothes today weird-looking?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

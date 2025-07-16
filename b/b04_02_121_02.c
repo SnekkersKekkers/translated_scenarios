@@ -62,8 +62,7 @@ drinks.");
         MsgDisp("Sassa","This is hush money.");
         SEPlay("EV_SE_535");
         SEWait();
-        MsgDisp("主人公","Ehh?
-...peppers?");
+        MsgDisp("主人公","Ehh? ...peppers?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,2);

@@ -4,15 +4,15 @@ ScrFadeIn(0);
 ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("X210100000_01_000");
-MsgDisp("Kazama","｛主人公｝. Congratulations on being
-Rose Queen.");
+MsgDisp("Kazama","｛主人公｝.
+Congratulations on being Rose Queen.");
 MsgDisp("主人公","｛風真＊＊｝, thank you.
 But, I wonder if I'm really good enough.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("X210100000_01_010");
-MsgDisp("Kazama","...No.
+MsgDisp("Kazama","... No.
 It could only be you.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -39,8 +39,9 @@ MsgDisp("Kazama","That's why it does feel like it's a bit
 late. Well, it is a good thing that the
 right things are being valued by the
 masses.");
-MsgDisp("主人公","Ehh? You're treating me like a work of art
-or a product.");
+MsgDisp("主人公","Ehh?
+You're treating me like a work of art or a
+product.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -57,8 +58,8 @@ VoicePlay("X210100000_01_060");
 MsgDisp("Kazama","That's why, it is only right that you
 became Rose Queen.");
 MsgDisp("主人公","Thank you.
-I'm happy to hear ｛風真＊＊｝ say it like
-that.");
+I'm happy to hear ｛風真＊＊｝
+say it like that.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

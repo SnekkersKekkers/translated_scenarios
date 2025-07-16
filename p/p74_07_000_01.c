@@ -2,7 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa... I fell...)");
+MsgDisp("主人公","(Haa...
+I fell...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -33,8 +34,9 @@ ChMotion(7,2);
 VoicePlay("P740700001_07_030");
 MsgDisp("Mikage","Haha, that was a pretty poor end though,
 huh?");
-MsgDisp("主人公","(Uuugh... I wish I had practiced more
-carefully for the show...)");
+MsgDisp("主人公","(Uuugh...
+I wish I had practiced more carefully for
+the show...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

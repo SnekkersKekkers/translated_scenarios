@@ -20,7 +20,8 @@ switch (ChPrmGet(4,6)){
     ChLayout(1);
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-    MsgDisp("主人公","Eh? Ah, I didn't say that to
+    MsgDisp("主人公","Eh?
+Ah, I didn't say that to
 ｛七ツ森＊｝?");
     ChEye(4,2);
     ChMouth(4,3);
@@ -34,7 +35,8 @@ everyone, so I have to do this carefully!");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P830400002_04_020");
-    MsgDisp("Nanatsumori","Oh... As expected of the student council
+    MsgDisp("Nanatsumori","Oh...
+As expected of the student council
 committee.");
     break ;
     case 4:

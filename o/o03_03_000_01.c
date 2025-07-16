@@ -57,8 +57,9 @@ Then, I should apologize, too.");
     MsgDisp("Honda","I'm satisfied, you know?
 I was glad to just be in a team with you.
 Anything more would be asking too much.");
-    MsgDisp("主人公","(Ugh...... But I still wish we were a
-little more in sync......)");
+    MsgDisp("主人公","(Ugh......
+But I still wish we were a little more in
+sync......)");
     break ;
     default :
     DbgAssert(1);

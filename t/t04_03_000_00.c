@@ -27,14 +27,15 @@ VoicePlay("T040300000_03_020");
 MsgDisp("Honda","A big tree pops out.
 When I was younger I thought it was like
 my own house.");
-MsgDisp("主人公","｛本多＊＊｝ is also from a family of four
-isn't he?");
+MsgDisp("主人公","｛本多＊＊｝ is also from a
+family of four isn't he?");
 NSSEye(3,0);
 NSSMouth(3,0);
 NSSEyeOpenLevel(3,0);
 VoicePlay("T040300000_03_030");
-MsgDisp("Honda","Yeah. But you now, things are different
-now. That is, your house and my house.");
+MsgDisp("Honda","Yeah.
+But you now, things are different now.
+That is, your house and my house.");
 MsgDisp("主人公","Eh?");
 NSSEye(3,1);
 NSSMouth(3,3);

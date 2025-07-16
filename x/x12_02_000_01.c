@@ -17,8 +17,9 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","Thanks to the Gardening Club, the flower
 bed at school are always so beautiful.
 We're all grateful. Thank you!");
-    MsgDisp("主人公","(Yay! I'm glad I gave it my all in the
-Gardening Club activities.)");
+    MsgDisp("主人公","(Yay!
+I'm glad I gave it my all in the Gardening
+Club activities.)");
     break ;
     case 4:
     case 5:
@@ -29,8 +30,9 @@ Gardening Club activities.)");
     MsgDisp("Sassa","I wasn't interesting in things like
 flowers, but seeing the ones you grew
 strangely puts me at ease. It's nice.");
-    MsgDisp("主人公","(Yay! I'm glad I gave it my all in the
-gardening club!)");
+    MsgDisp("主人公","(Yay!
+I'm glad I gave it my all in the gardening
+club!)");
     break ;
     default :
     DbgAssert(1);

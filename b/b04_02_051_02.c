@@ -64,11 +64,12 @@ The same as a movie theater?");
         ChMouth(2,4);
         ChMotion(2,5);
         VoicePlay("B040205102_02_060");
-        MsgDisp("Sassa","Oh......You're right.
-That's just a normal horror movie.
-And what about the star theme?");
-        MsgDisp("主人公","Hehe. Let's leave the horror movies to the
-movie theaters, shall we?");
+        MsgDisp("Sassa","Oh......You're right. That's just a normal
+horror movie. And what about the star
+theme?");
+        MsgDisp("主人公","Hehe.
+Let's leave the horror movies to the movie
+theaters, shall we?");
         ChEye(2,3);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -81,15 +82,14 @@ overhaul of the planetarium.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040205102_02_080");
-        MsgDisp("Sassa","How about we watch a movie
-next time?");
+        MsgDisp("Sassa","How about we watch a movie next time?");
         MsgDisp("主人公","A horror movie?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040205102_02_090");
-        MsgDisp("Sassa","No......A movie about stars or
-something.");
+        MsgDisp("Sassa","No......
+A movie about stars or something.");
         break ;
         default :
         DbgAssert(1);

@@ -16,5 +16,6 @@ VoicePlay("B020400013_04_010");
 MsgDisp("Nanatsumori","Ah, yeah. ... But there's something
 else... Unlike models I see, there's
 something somehow moe about it...");
-MsgDisp("主人公","(... Moe? But at least ｛七ツ森＊｝
-seems to really like it!)");
+MsgDisp("主人公","(... Moe? But at least
+｛七ツ森＊｝ seems to
+really like it!)");

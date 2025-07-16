@@ -42,8 +42,9 @@ Ah, let's take a video too.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040321100_03_030");
-    MsgDisp("Honda","Eh? I want to see everything. You too
-right?");
+    MsgDisp("Honda","Eh?
+I want to see everything.
+You too right?");
     MsgDateResultDisp();
     break ;
     default :

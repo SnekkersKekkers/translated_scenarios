@@ -43,7 +43,7 @@ part of its throat.");
     VoicePlay("B040503201_05_030");
     MsgDisp("Hiiragi","It really is.
 Thank you.
-...That was a close call.");
+... That was a close call.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

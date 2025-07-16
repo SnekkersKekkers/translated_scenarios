@@ -20,8 +20,7 @@ with my gift...)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("R060200007_02_010");
-    MsgDisp("Sassa","Hmm, be careful for what
-you wish for.");
+    MsgDisp("Sassa","Hmm, be careful for what you wish for.");
     MsgDisp("主人公","(Darn, I don't think he's really happy
 with my gift...)");
     break ;

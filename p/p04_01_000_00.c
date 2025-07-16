@@ -3,7 +3,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("P040100000_01_000");
-MsgDisp("Kazama","Wow...... This is made pretty well.");
+MsgDisp("Kazama","Wow......
+This is made pretty well.");
 MsgDisp("主人公","Yeah, the cooking team worked hard!");
 ChEye(1,0);
 ChMouth(1,3);

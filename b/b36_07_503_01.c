@@ -25,8 +25,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B360750301_07_020");
-MsgDisp("Mikage","Eh...... As expected of you I wonder if I
-can be that bold～");
+MsgDisp("Mikage","Eh......
+As expected of you I wonder if I can be
+that bold～");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -46,8 +47,9 @@ ChMotion(7,5);
 VoicePlay("B360750301_07_050");
 MsgDisp("Mikage","Ah, it's no good.
 The obstacle is tougher than expected.");
-MsgDisp("主人公","(If ｛柊＊＊＊｝ and ｛氷室＊＊｝ were
-there, I wonder if ｛御影＊＊｝ would
+MsgDisp("主人公","(If ｛柊＊＊＊｝ and
+｛氷室＊＊｝ were there, I wonder
+if ｛御影＊＊｝ would
 come.)");
 BGMStop();
 MsgClose();

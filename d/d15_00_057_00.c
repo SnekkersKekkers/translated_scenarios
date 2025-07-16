@@ -16,22 +16,23 @@ ChEye ( 5,0 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150005700_05_010" ) ;
-MsgDisp ( "Hiiragi","I received a lot from my loyal patrons. I
-actually brought some with me." ) ;
+MsgDisp ( "Hiiragi","I received a lot from my loyal patrons.
+I actually brought some with me." ) ;
 MsgDisp ( "主人公","Eh?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,2 ) ;
 VoicePlay ( "D150005700_07_010" ) ;
-MsgDisp ( "Mikage","As expected of Yanosuke. This is the first
-time I've seen someone bring yokan to
-school." ) ;
+MsgDisp ( "Mikage","As expected of Yanosuke.
+This is the first time I've seen someone
+bring yokan to school." ) ;
 ChEye ( 5,2 ) ;
 ChMouth ( 5,2 ) ;
 ChMotion ( 5,5 ) ;
 VoicePlay ( "D150005700_05_020" ) ;
-MsgDisp ( "Hiiragi","Eh? My apologies. Is that against school
-policy?" ) ;
+MsgDisp ( "Hiiragi","Eh?
+My apologies.
+Is that against school policy?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,3 ) ;
@@ -43,8 +44,9 @@ ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150005700_05_030" ) ;
-MsgDisp ( "Hiiragi","Okay. Let's finish off today's lunch with
-some yokan and tea." ) ;
+MsgDisp ( "Hiiragi","Okay.
+Let's finish off today's lunch with some
+yokan and tea." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,5 ) ;

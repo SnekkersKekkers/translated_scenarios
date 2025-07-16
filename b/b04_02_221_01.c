@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040222101_02_010");
-    MsgDisp("Sassa","Seriously? You're not getting quite enough
-exercise.");
+    MsgDisp("Sassa","Seriously?
+You're not getting quite enough exercise.");
     MsgDateResultDisp();
     break ;
     case 1:

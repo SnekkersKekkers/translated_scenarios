@@ -43,8 +43,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020310001_03_060");
-MsgDisp("Honda","Yeah! My sister's sign is to stay silent
-with a straight face for five seconds.");
+MsgDisp("Honda","Yeah!
+My sister's sign is to stay silent with a
+straight face for five seconds.");
 ChMouth(3,3);
 VoicePlay("G020310001_03_070");
 MsgDisp("Honda","When she does that, I either stop talking
@@ -56,14 +57,14 @@ VoicePlay("G020310001_03_080");
 MsgDisp("Honda","Wanna try it?
 Look at me with a straight face and stay
 silent for five seconds.");
-MsgDisp("主人公","O-Okay.
-.........");
+MsgDisp("主人公","O-Okay. .........");
 ChEye(3,5);
 ChMouth(3,3);
 ChMotion(3,4);
 ChCheek(3,5);
 VoicePlay("G020310001_03_090");
-MsgDisp("Honda","H......Huh?");
+MsgDisp("Honda","H......
+Huh?");
 MsgDisp("主人公","Eh, did something happen?");
 ChEye(3,4);
 ChMouth(3,0);

@@ -21,8 +21,9 @@ schoolers, huh?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("S120400004_04_010");
-    MsgDisp("Nanatsumori","Right. There isn't much of it left, but
-I'm looking forward to the rest of it.");
+    MsgDisp("Nanatsumori","Right.
+There isn't much of it left, but I'm
+looking forward to the rest of it.");
     MsgDisp("主人公","Treat me well.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -47,8 +48,8 @@ school days......");
     VoicePlay("S120400004_04_030");
     MsgDisp("Nanatsumori","We're graduating from Habataki High School
 soon too.");
-    MsgDisp("主人公","Yep. Three years passed in the blink of an
-eye.");
+    MsgDisp("主人公","Yep.
+Three years passed in the blink of an eye.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,0);
     VoicePlay("S120400004_04_040");
@@ -73,14 +74,14 @@ make ourselves sad.");
     ChMotion(4,1);
     VoicePlay("S120400004_04_060");
     MsgDisp("Nanatsumori","Haa......");
-    MsgDisp("主人公","｛七ツ森＊｝, already sighing in the
-New Year?");
+    MsgDisp("主人公","｛七ツ森＊｝, already
+sighing in the New Year?");
     ChEye(4,4);
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("S120400004_04_070");
     MsgDisp("Nanatsumori","That's not it.
-I guess I can feel the......weight of the
+I guess I can feel the...... weight of the
 three years.");
     MsgDisp("主人公","???");
     VoicePlay("S120400004_04_080");

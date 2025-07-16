@@ -3,7 +3,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B070300001_03_580");
-MsgDisp("Honda","Hmm? Is there something on my face?");
+MsgDisp("Honda","Hmm?
+Is there something on my face?");
 MsgDisp("主人公","Oh, sorry.
 I was just staring.");
 ChEye(3,0);

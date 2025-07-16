@@ -22,8 +22,9 @@ ChMotion(3,1,1);
 VoicePlay("B330B30700_03_000");
 MsgDisp("Honda","Hmm, an interesting comment!
 What do you find strange about it?");
-MsgDisp("主人公","Hmmm... Maybe it's the cute colour s or
-how fluffy it feels?");
+MsgDisp("主人公","Hmmm...
+Maybe it's the cute colour s or how fluffy
+it feels?");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,5,1);
@@ -37,8 +38,8 @@ ChMotion(1,0,1);
 VoicePlay("B330B30700_01_000");
 MsgDisp("Kazama","That's typical of Honda.");
 ChFace(3,0);
-MsgDisp("主人公","Huh, ｛七ツ森＊｝. What are you looking
-at so seriously?");
+MsgDisp("主人公","Huh, ｛七ツ森＊｝.
+What are you looking at so seriously?");
 ChEye(1,0);
 ChMouth(1,0);
 ChEye(4,0);
@@ -77,8 +78,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30700_04_020");
-MsgDisp("Nanatsumori","Hm. Unfortunately, neither of you have
-said itー.");
+MsgDisp("Nanatsumori","Hm.
+Unfortunately, neither of you have said
+itー.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -102,8 +104,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30700_04_040");
-MsgDisp("Nanatsumori","Right. That's why I'm curious as to why it
-was here.");
+MsgDisp("Nanatsumori","Right.
+That's why I'm curious as to why it was
+here.");
 MsgDisp("主人公","(There definitely wasn't one...
 But, it's cute so it's fine♪)");
 BGMStop();

@@ -11,8 +11,7 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,255,2,2,0,0,#1,0,0);
     VoicePlay("W090600001_06_010");
-    MsgDisp("Himuro","Well, I guess it's better if it's
-you.");
+    MsgDisp("Himuro","Well, I guess it's better if it's you.");
     break ;
     case 4:
     case 5:

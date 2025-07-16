@@ -45,7 +45,7 @@ Can you not?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("F010600006_06_040");
-    MsgDisp("Himuro","...I can't.
+    MsgDisp("Himuro","... I can't.
 But...");
     MsgDisp("主人公","Can I ask you another time?");
     ChEye(6,2);
@@ -53,7 +53,7 @@ But...");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("F010600006_06_050");
-    MsgDisp("Himuro","...Another time.
+    MsgDisp("Himuro","... Another time.
 I would appreciate it.");
     MsgDisp("主人公","Got it.
 Well, bye-bye.");

@@ -10,15 +10,17 @@ switch (ChPrmGet(4,6)){
     case 3:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango～!");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
     ChOpen(4,254,0,4,0,#1,#1,0,0,0,60);
     VoicePlay("P030400000_04_000");
     MsgDisp("Nanatsumori","......A yukata.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Welcome～!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+Welcome～!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,2,1);
@@ -35,8 +37,8 @@ delicious.");
     MsgDisp("主人公","Hm?");
     ChMotion(4,1,1);
     VoicePlay("P030400000_04_030");
-    MsgDisp("Nanatsumori","Nothing. Then, I'll take what you
-recommend.");
+    MsgDisp("Nanatsumori","Nothing.
+Then, I'll take what you recommend.");
     MsgDisp("主人公","Yes!
 One dango set, coming right up～!");
     break ;
@@ -44,15 +46,17 @@ One dango set, coming right up～!");
     case 5:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango～!");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
     ChOpen(4,254,0,4,4,#1,#1,0,0,0,60);
     VoicePlay("P030400000_04_040");
     MsgDisp("Nanatsumori","Ah......");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Welcome!");
     ChEye(4,0);
     ChMouth(4,2);
     VoicePlay("P030400000_04_050");
@@ -64,8 +68,8 @@ customers would come......)");
     MsgDisp("Nanatsumori","I was drawn here by the sweet smell of
 mitarashi paste, and here you are in a
 yukata. Escape is impossible.");
-    MsgDisp("主人公","Hehe! Would you like the recommended dango
-set?");
+    MsgDisp("主人公","Hehe!
+Would you like the recommended dango set?");
     ChEye(4,3);
     ChMouth(4,4);
     ChCheek(4,7);

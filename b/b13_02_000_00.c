@@ -12,11 +12,10 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("B130200000_02_010");
-MsgDisp("Sassa","...It's your chest.
+MsgDisp("Sassa","... It's your chest.
 I'm at the exact height to see it.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B130200000_02_020");
-MsgDisp("Sassa","N-No, I'm not looking, 
-I'm not looking.");
+MsgDisp("Sassa","N-No, I'm not looking, I'm not looking.");

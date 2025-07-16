@@ -25,7 +25,8 @@ to aim for a high spot in the contest.");
     MsgDisp("Hiiragi","I don't know a lot about orchestra, but I
 know that your sound quality is beautiful.
 You have a wonderful ability.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

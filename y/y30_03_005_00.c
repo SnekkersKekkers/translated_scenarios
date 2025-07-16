@@ -22,7 +22,8 @@ ScrFadeOut(0);
 BGOpen("ad351",0);
 ScrFadeIn(0);
 MsgDisp("","A place with our precious memories!
-Meganebashi... No, Nagasaki!");
+Meganebashi...
+No, Nagasaki!");
 MsgClear();
 MsgDisp("主人公","\"\"Amazing, to think you were able to
 start helping a professor in first
@@ -60,8 +61,8 @@ MsgDisp("","While I was looking at the surface of
 the river, a familiar voice calls out
 for me.");
 MsgClear();
-MsgDisp("主人公","\"｛本多＊＊｝! Shall we go explore
-together?\"");
+MsgDisp("主人公","\"｛本多＊＊｝!
+Shall we go explore together?\"");
 VoicePlay("Y300300500_03_010");
 MsgDisp("Honda","\"Of course.
 I'll commentate on everything

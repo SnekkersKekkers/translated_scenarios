@@ -27,8 +27,8 @@ MsgDisp("Nanatsumori","I don't really want a big fuss either, but
 when it comes to anniversaries and such, I
 think it's better for families to do
 something.");
-MsgDisp("主人公","I see......
-your mom must feel a bit lonely, huh?");
+MsgDisp("主人公","I see...... your mom must feel a bit
+lonely, huh?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -47,12 +47,13 @@ MsgDisp("Nanatsumori","My dad and sister are always late coming
 home from work, so on those days, I spend
 a little time with my mom and we have a
 small party.");
-MsgDisp("主人公","Hehe ｛七ツ森＊｝, is gentle isn't he?");
+MsgDisp("主人公","Hehe ｛七ツ森＊｝, is
+gentle isn't he?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410401_04_070");
-MsgDisp("Nanatsumori","You only realized that now? ");
+MsgDisp("Nanatsumori","You only realized that now?");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410401_04_080");

@@ -5,8 +5,8 @@ ChOpen(8,255,0,0,3,#1,#1,4,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_000");
-MsgDisp("Shirahane","Haa... that was amazingー! My heart is
-still racing.");
+MsgDisp("Shirahane","Haa... that was amazingー!
+My heart is still racing.");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0,1);
@@ -27,7 +27,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B050800100_08_030");
-MsgDisp("Shirahane","Ahー...but it's this time already.
+MsgDisp("Shirahane","Ahー... but it's this time already.
 I guess we should go home soon, though...");
 ChEye(8,4);
 ChMouth(8,0);
@@ -84,8 +84,7 @@ MsgDisp("主人公","Hehe.");
 StlEye(8,2);
 StlMouth(8,1);
 VoicePlay("B050800100_08_090");
-MsgDisp("Shirahane","I also...
-want to make it big.");
+MsgDisp("Shirahane","I also... want to make it big.");
 VoicePlay("B050800100_08_100");
 MsgDisp("Shirahane","In what, I don't know though.
 I just don't wanna end up a borin' guy.");
@@ -126,8 +125,8 @@ ChOpen(8,255,0,3,0,0,#1,4,0);
 ScrFadeIn(0);
 VoicePlay("B050800100_08_150");
 MsgDisp("Shirahane","Hehe...!");
-MsgDisp("主人公","Hehe! Do you think your dream will come
-true?");
+MsgDisp("主人公","Hehe!
+Do you think your dream will come true?");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
@@ -138,7 +137,7 @@ ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_170");
-MsgDisp("Shirahane","...BUt, I'm fired up now!
+MsgDisp("Shirahane","... BUt, I'm fired up now!
 Thanks to that senior!");
 MsgDisp("主人公","He's a wonderful senpai isn't he?");
 ChEye(8,3);
@@ -146,16 +145,18 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B050800100_08_180");
-MsgDisp("Shirahane","Yeah. I've never met that famed senior
-though.");
+MsgDisp("Shirahane","Yeah.
+I've never met that famed senior though.");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_190");
-MsgDisp("Shirahane","Alright! I don't know what it is, but I'm
-gonna give it my bestー∈");
-MsgDisp("主人公","(Hehe! I wonder where ｛大地＊＊｝'s
-dream will take him?')");
+MsgDisp("Shirahane","Alright!
+I don't know what it is, but I'm gonna
+give it my bestー∈");
+MsgDisp("主人公","(Hehe!
+I wonder where ｛大地＊＊｝'s
+dream will take him? ')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

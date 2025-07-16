@@ -11,7 +11,8 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H380600000_06_000");
     MsgDisp("Himuro","Are you nervous?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! You came?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+You came?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -25,7 +26,8 @@ like.");
     MsgDisp("Himuro","Besides, I wanted to see what you've been
 working so hard at these past three years
 with my own eyes.");
-    MsgDisp("主人公","Yeah. Thank you.");
+    MsgDisp("主人公","Yeah.
+Thank you.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -47,7 +49,8 @@ school.");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H380600000_06_050");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. You came?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+You came?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

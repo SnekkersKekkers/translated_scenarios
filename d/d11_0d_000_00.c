@@ -12,7 +12,8 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("D110D00000_22_000");
 MsgDisp("Hikaru","Ma～ri▼");
-MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.");
+MsgDisp("主人公","Ah, ｛みちる＊｝,
+｛ひかる＊｝.");
 ChMotion(22,4,1);
 VoicePlay("D110D00000_22_010");
 MsgDisp("Hikaru","You've built a bed of flowers in your
@@ -22,8 +23,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("D110D00000_21_000");
-MsgDisp("Michiru","Hehe. Is Mari gathering her \"favorite
-flowers\"?");
+MsgDisp("Michiru","Hehe.
+Is Mari gathering her \"favorite flowers\"?");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -32,9 +33,9 @@ ChClose(22,0,0);
 StlOpen("ev_0a_01");
 ScrFadeIn(0);
 VoicePlay("D110D00000_22_020");
-MsgDisp("Hikaru","We can see it, you know......
-3 differently colored, tres～bien roses,
-all gathered together in harmony.");
+MsgDisp("Hikaru","We can see it, you know...... 3
+differently colored, tres～bien roses, all
+gathered together in harmony.");
 VoicePlay("D110D00000_21_010");
 MsgDisp("Michiru","That's the feeling Mari has nurtured.
 I'm certain they will all cherish Mari.");
@@ -79,7 +80,8 @@ flower bed, call Hikaru♪ Hikaru can tell
 you about \"Mari's Garden\"▼");
 MsgDisp("主人公","(A flower bed of 3 differently colored
 roses is inside me......? If I want to
-know more I can call ｛ひかる＊｝! )");
+know more I can call
+｛ひかる＊｝! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

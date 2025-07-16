@@ -47,8 +47,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B330B20700_01_010");
-MsgDisp("Kazama","Seriously, 
-I'll go back and look for it? ");
+MsgDisp("Kazama","Seriously, I'll go back and look for it?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -65,8 +64,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B330B20700_03_020");
-MsgDisp("Honda","Because it's been eaten 
-by the black goat!");
+MsgDisp("Honda","Because it's been eaten by the black goat!");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,1,1);

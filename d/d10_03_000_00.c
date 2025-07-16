@@ -16,10 +16,10 @@ ChLayout(0);
 SEPlay("EV_SE_544",0,0.7,0.1);
 ChOpen(3,254,5,0,4,0,#1,0,0);
 VoicePlay("D100300000_03_010");
-MsgDisp("Honda","Sniff sniff......Huh?
+MsgDisp("Honda","Sniff sniff......
+Huh?
 It's gone.");
-MsgDisp("主人公","Ehh∈
-What is it?");
+MsgDisp("主人公","Ehh∈ What is it?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(3);
 ChLayout(1);

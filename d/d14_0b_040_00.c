@@ -9,8 +9,8 @@ ChCheek(4,0);
 VoicePlay("D140B04000_03_000");
 MsgDisp("Honda","Poor Ryo-kun...");
 VoicePlay("D140B04000_04_000");
-MsgDisp("Nanatsumori","It can't be helped.
-that's the rules of school duty.");
+MsgDisp("Nanatsumori","It can't be helped. that's the rules of
+school duty.");
 MsgDisp("主人公","Once in a while I'll be asked to do work
 during lunch break...");
 ChEye(4,0);
@@ -52,8 +52,9 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B04000_03_030");
 MsgDisp("Honda","Yeah, he's cute!");
-MsgDisp("主人公","(I never imagined ｛本多＊＊｝ and
-｛七ツ森＊｝ would call him cute...)");
+MsgDisp("主人公","(I never imagined ｛本多＊＊｝
+and ｛七ツ森＊｝ would
+call him cute...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

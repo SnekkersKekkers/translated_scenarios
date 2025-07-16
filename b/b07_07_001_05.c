@@ -7,9 +7,11 @@ VoicePlay("B070700001_07_340");
 MsgDisp("Mikage","What's up?
 Why are you saying weird things all of a
 sudden?");
-MsgDisp("主人公","It's just that when ｛御影＊＊｝,
-｛柊＊＊＊｝ and ｛氷室＊＊｝ are together,
-I get that sort of feeling...");
+MsgDisp("主人公","It's just that when
+｛御影＊＊｝,
+｛柊＊＊＊｝ and
+｛氷室＊＊｝ are together, I get
+that sort of feeling...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -73,9 +75,8 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_430");
 MsgDisp("Mikage","So, don't think about weird things
 anymore.");
-MsgDisp("主人公","(I'm happy but...
-that doesn't seem to really answer the
-question.)");
+MsgDisp("主人公","(I'm happy but... that doesn't seem to
+really answer the question.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

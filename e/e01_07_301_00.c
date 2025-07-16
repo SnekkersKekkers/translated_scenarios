@@ -2,10 +2,10 @@ ChLayout(1);
 BGOpen("fp100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ok, I think it's time to head home.
-......Huh? Who's that over there——)");
+...... Huh?
+Who's that over there——)");
 VoicePlay("E010730100_07_000");
-MsgDisp("Mikage?","That's amazing
-Is it easy to use?");
+MsgDisp("Mikage?","That's amazing Is it easy to use?");
 VoicePlay("E010730100_03_000");
 MsgDisp("Honda?","It's the best!
 I check it out all the time.");
@@ -13,21 +13,23 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(3,255,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛御影＊＊｝, ｛本多＊＊｝. What are you
-two talking about?");
+MsgDisp("主人公","｛御影＊＊｝,
+｛本多＊＊｝.
+What are you two talking about?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("E010730100_07_010");
-MsgDisp("Mikage","Yo. The story is Honda's wish came true
-and he got a treasure.");
+MsgDisp("Mikage","Yo.
+The story is Honda's wish came true and he
+got a treasure.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoiceEVSPlay(3);
 VoicePlay("E010730100_03_010");
-MsgDisp("Honda","｛主人公｝, I'll let you take a peek
-too.");
+MsgDisp("Honda","｛主人公｝, I'll let you
+take a peek too.");
 MsgDisp("主人公","Huh...... a peek?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -47,15 +49,16 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,#1);
 VoicePlay("E010730100_03_030");
-MsgDisp("Honda","Yeah! The magnification is 1000 times∈
-It's amazing, you definitely have to see!");
-MsgDisp("主人公","Hehe. ｛本多＊＊｝, I'm happy for you.");
+MsgDisp("Honda","Yeah!
+The magnification is 1000 times∈ It's
+amazing, you definitely have to see!");
+MsgDisp("主人公","Hehe.
+｛本多＊＊｝, I'm happy for you.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010730100_07_030");
-MsgDisp("Mikage","You did well at your job and
-bought it.");
+MsgDisp("Mikage","You did well at your job and bought it.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -98,7 +101,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Me, a subject of ｛本多＊＊｝'s research?
+MsgDisp("主人公","(Me, a subject of ｛本多＊＊｝'s
+research?
 There's no way......)");
 MsgClose();
 ScrFadeOut(0,0);

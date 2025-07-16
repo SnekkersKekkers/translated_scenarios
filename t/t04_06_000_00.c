@@ -36,8 +36,9 @@ NSSEye(6,4);
 NSSMouth(6,4);
 VoiceEVSPlay(6);
 VoicePlay("T040600000_06_050");
-MsgDisp("Himuro","......｛主人公｝. Once again,
-congratulations on your graduation.");
+MsgDisp("Himuro","...... ｛主人公｝.
+Once again, congratulations on your
+graduation.");
 MsgDisp("主人公","Hehe. thank you, ｛氷室＊＊｝.");
 NSSEye(6,3);
 NSSMouth(6,3);

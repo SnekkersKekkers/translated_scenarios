@@ -9,7 +9,8 @@ ChMotion(3,3,1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q100300000_03_000");
-MsgDisp("Honda","｛主人公｝, look! They're glasses.");
+MsgDisp("Honda","｛主人公｝, look!
+They're glasses.");
 MsgDisp("主人公","They really are round, huh?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -30,8 +31,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q100300000_03_030");
-MsgDisp("Honda","Yeah. Maybe our ancestors too, came to see
-the Glasses Bridge like this.");
+MsgDisp("Honda","Yeah.
+Maybe our ancestors too, came to see the
+Glasses Bridge like this.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -39,13 +41,14 @@ VoicePlay("Q100300000_03_040");
 MsgDisp("Honda","Coming together would be impossible, but
 maybe passing each other on the bridge or
 something?");
-MsgDisp("主人公","｛本多＊＊｝...... Are you telling romantic
-stories today?");
+MsgDisp("主人公","｛本多＊＊｝......
+Are you telling romantic stories today?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q100300000_03_050");
-MsgDisp("Honda","Huh? You got it?");
+MsgDisp("Honda","Huh?
+You got it?");
 MsgDisp("主人公","Eeeh?");
 ChEye(3,0);
 ChMouth(3,0);

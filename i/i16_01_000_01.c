@@ -14,14 +14,14 @@ Alright, let's wipe it!)");
     ChMouth(1,3);
     VoicePlay("I160100001_01_000");
     MsgDisp("Kazama","Oh, I'm impressed.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. I can't get rid of the
-dirt on the glass well.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+I can't get rid of the dirt on the glass
+well.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("I160100001_01_010");
-    MsgDisp("Kazama","I think the other side
-is dirty, right?");
+    MsgDisp("Kazama","I think the other side is dirty, right?");
     MsgDisp("主人公","......Ah.");
     ChEye(1,2);
     ChMouth(1,3);

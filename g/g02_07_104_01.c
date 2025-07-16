@@ -39,8 +39,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710401_07_050");
-MsgDisp("Mikage","Haa...... I was quickly pulled back to the
-reality of Habataki City.");
+MsgDisp("Mikage","Haa......
+I was quickly pulled back to the reality
+of Habataki City.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -56,8 +57,9 @@ VoicePlay("G020710401_07_070");
 MsgDisp("Mikage","Oh, is that so? Thank you very much. But
 actually, the system only works for real
 couples.");
-MsgDisp("主人公","(Hehe. ｛御影＊＊｝, thank you for
-always entertaining me like this!)");
+MsgDisp("主人公","(Hehe.
+｛御影＊＊｝, thank you
+for always entertaining me like this!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

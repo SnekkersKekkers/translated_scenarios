@@ -11,8 +11,9 @@ ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;
 ChMotion ( 6,3 ) ;
 VoicePlay ( "D150001601_06_000" ) ;
-MsgDisp ( "Himuro","That's true. I have to agree with
-Ryota-senpai's opinion today." ) ;
+MsgDisp ( "Himuro","That's true.
+I have to agree with Ryota-senpai's
+opinion today." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,2 ) ;
 ChMotion ( 1,1 ) ;
@@ -39,14 +40,16 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,2 ) ;
 ChMotion ( 1,0 ) ;
 VoicePlay ( "D150001601_01_030" ) ;
-MsgDisp ( "Kazama","He's right. Wouldn't it be weird if there
-were four people sitting in front of you?" ) ;
+MsgDisp ( "Kazama","He's right.
+Wouldn't it be weird if there were four
+people sitting in front of you?" ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,2 ) ;
 ChMotion ( 6,1 ) ;
 VoicePlay ( "D150001601_06_020" ) ;
-MsgDisp ( "Himuro","Right. That would probably feel about the
-same as eating alone." ) ;
+MsgDisp ( "Himuro","Right.
+That would probably feel about the same as
+eating alone." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,3 ) ;

@@ -5,8 +5,8 @@ VoicePlay("R060600001_43_000");
 MsgDisp("Santa","Ho Ho Ho!
 I have a gift for you.
 Merry Christmas!");
-MsgDisp("主人公","(I wonder what gift I got...
-let's open it.)");
+MsgDisp("主人公","(I wonder what gift I got... let's open
+it.)");
 SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");

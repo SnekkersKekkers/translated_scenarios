@@ -4,7 +4,8 @@ VoicePlay("G020510401_05_000");
 MsgDisp("Hiiragi","I've been performing in plays themed
 around romance without ever experiencing
 real romance myself......");
-MsgDisp("主人公","｛柊＊＊＊｝, what's this all of a sudden?");
+MsgDisp("主人公","｛柊＊＊＊｝, what's this all of
+a sudden?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020510401_05_010");
@@ -14,8 +15,8 @@ inner voice you can hear here.");
 MsgDisp("主人公","Ehh?");
 ChEye(5,3);
 VoicePlay("G020510401_05_020");
-MsgDisp("Hiiragi","Heheh. I'm half-joking, but also
-half-serious.");
+MsgDisp("Hiiragi","Heheh.
+I'm half-joking, but also half-serious.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020510401_05_030");

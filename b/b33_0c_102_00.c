@@ -48,8 +48,9 @@ that you can remove the cloudiness caused
 by limescale by scraping the acrylic,
 rather than washing it.");
 ChMouth(5,2);
-MsgDisp("主人公","Ehhh? Then, if it keeps getting thinner
-and thinner...");
+MsgDisp("主人公","Ehhh?
+Then, if it keeps getting thinner and
+thinner...");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
@@ -82,17 +83,17 @@ VoicePlay("B330C10200_07_030");
 MsgDisp("Mikage","Yeah, probably something like snails or
 shrimp.
 They eat the algae in the tank.");
-MsgDisp("主人公","It's amazing huh.
-for the creatures you keep t o clean up
-for you.");
+MsgDisp("主人公","It's amazing huh. for the creatures you
+keep t o clean up for you.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10200_05_040");
-MsgDisp("Hiiragi","Hmm. But, I want to clean it with my own
-hands.");
-MsgDisp("主人公","(Hehe. ｛柊＊＊＊｝ really likes
+MsgDisp("Hiiragi","Hmm.
+But, I want to clean it with my own hands.");
+MsgDisp("主人公","(Hehe.
+｛柊＊＊＊｝ really likes
 cleaning.)");
 BGMStop();
 MsgClose();

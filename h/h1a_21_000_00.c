@@ -51,8 +51,9 @@ you, Mari?");
     ChMouth(21,3);
     ChMotion(21,0);
     VoicePlay("H1A2100000_21_040");
-    MsgDisp("Michiru","Hehe. Those baseball players are quite
-lucky, no?");
+    MsgDisp("Michiru","Hehe.
+Those baseball players are quite lucky,
+no?");
     MsgDisp("主人公","(I'm glad that I stayed as the baseball
 club manager!)");
     MsgClose();

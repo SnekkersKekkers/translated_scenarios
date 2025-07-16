@@ -25,15 +25,17 @@ switch (ChPrmGet(1,6)){
     VoicePlay("W090100000_01_020");
     MsgDisp("Kazama","Looks like we're in the front row.
 Will you be okay?");
-    MsgDisp("主人公","Yeah. It will be fun.");
+    MsgDisp("主人公","Yeah.
+It will be fun.");
     ChEyeOpenLevel(1,0);
     Wait(10,0);
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("W090100000_01_030");
-    MsgDisp("Kazama","Alright. Since there's no one in front of
-us, it feels like we're alone.");
+    MsgDisp("Kazama","Alright.
+Since there's no one in front of us, it
+feels like we're alone.");
     break ;
     default :
     DbgAssert(1);

@@ -45,9 +45,8 @@ This is going to be fun!)");
         VoicePlay("Q020100000_01_040");
         MsgDisp("Kazama","Ah, is that so.
 Don't wander off and get lost.
-......Well then.");
-        MsgDisp("主人公","(He even invited me,
-I feel bad......)");
+...... Well then.");
+        MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
         DbgAssert(0);
@@ -71,7 +70,8 @@ I feel bad......)");
     MsgDisp("Kazama","Good morning.
 About the free period, have you decided
 who you're going with?");
-    MsgDisp("主人公","No. ｛風真＊＊｝, have you?");
+    MsgDisp("主人公","No.
+｛風真＊＊｝, have you?");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,0);
@@ -86,10 +86,11 @@ who you're going with?");
         ChMotion(1,3);
         ChCheek(1,0);
         VoicePlay("Q020100000_01_080");
-        MsgDisp("Kazama","Phew. You worried me for a second there.
+        MsgDisp("Kazama","Phew.
+You worried me for a second there.
 Don't suddenly go quiet on me.");
-        MsgDisp("主人公","Sorry. I was thinking of where I want to
-go.");
+        MsgDisp("主人公","Sorry.
+I was thinking of where I want to go.");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -107,8 +108,7 @@ So, where do you want to go?");
         VoicePlay("Q020100000_01_100");
         MsgDisp("Kazama","Oh, so you already have a prior
 commitment? Alright. Have fun.");
-        MsgDisp("主人公","(He even invited me,
-I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
         DbgAssert(0);

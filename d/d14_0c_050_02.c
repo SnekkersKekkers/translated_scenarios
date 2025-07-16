@@ -45,8 +45,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C05002_06_020");
-MsgDisp("Himuro","...Are you also 
-alright with that?");
+MsgDisp("Himuro","...Are you also alright with that?");
 MsgDisp("主人公","Yeah, of course.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -61,8 +60,8 @@ ChMotion(7,1);
 VoicePlay("D140C05002_07_020");
 MsgDisp("Mikage","Haa, don't pay so much attention to what
 others are thinking.");
-MsgDisp("主人公","(Having lunch with ｛御影＊＊｝
-alone...
+MsgDisp("主人公","(Having lunch with
+｛御影＊＊｝ alone...
 Maybe it is a bit embarrassing?)");
 BGMStop();
 MsgClose();

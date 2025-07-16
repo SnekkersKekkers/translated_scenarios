@@ -29,7 +29,8 @@ Those are the joys of being an actor.");
     DateRateSet(2);
     ChEye(5,0);
     VoicePlay("B040508100_05_020");
-    MsgDisp("Hiiragi","Hehe. You're a bit different to usual too.
+    MsgDisp("Hiiragi","Hehe.
+You're a bit different to usual too.
 The power of cherry blossoms are amazing.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

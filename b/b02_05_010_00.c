@@ -14,6 +14,5 @@ VoicePlay("B020501000_05_010");
 MsgDisp("Hiiragi","Gorgeous and elegant...
 Next to you, I find it somehow hard to
 compose myself.");
-MsgDisp("主人公","(He seems to like
-this swimsuit!)");
+MsgDisp("主人公","(He seems to like this swimsuit!)");
 ChCheek(5,0);

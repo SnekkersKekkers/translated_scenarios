@@ -1,21 +1,23 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright,
-Time to head home......)");
+MsgDisp("主人公","(Alright, Time to head home......)");
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A",0.01);
 ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("E010210100_02_000");
-MsgDisp("Sassa","｛主人公｝, what a coincidence.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Going out?");
+MsgDisp("Sassa","｛主人公｝, what a
+coincidence.");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Going out?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010210100_02_010");
 MsgDisp("Sassa","Yeah, I was at the hospital.");
-MsgDisp("主人公","Eh...... Are you hurt?");
+MsgDisp("主人公","Eh......
+Are you hurt?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -30,15 +32,15 @@ VoicePlay("E010210100_02_030");
 MsgDisp("Sassa","Ah, you don't need to worry.
 He overstretched at a university sports
 event, and tore a muscle.");
-MsgDisp("主人公","Is that so?
-I hope he gets well soon.
-But ｛颯砂＊＊｝, is your dad......");
+MsgDisp("主人公","Is that so? I hope he gets well soon. But
+｛颯砂＊＊｝, is your dad......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010210100_02_040");
 MsgDisp("Sassa","Yeah, he's a university sports professor.");
-MsgDisp("主人公","Awesome! ｛颯砂＊＊｝, did you get your
+MsgDisp("主人公","Awesome!
+｛颯砂＊＊｝, did you get your
 athletic abilities from your dad then?");
 ChEye(2,0);
 ChMouth(2,4);

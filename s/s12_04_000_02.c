@@ -38,7 +38,8 @@ year......)");
     ChMouth(4,0);
     ChMotion(4,1);
     VoicePlay("S120400002_04_020");
-    MsgDisp("Nanatsumori","Phew. We finally got out of that crowd of
+    MsgDisp("Nanatsumori","Phew.
+We finally got out of that crowd of
 people.");
     MsgDisp("主人公","Hehe!
 Are you tired?");

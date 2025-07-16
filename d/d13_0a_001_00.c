@@ -12,7 +12,7 @@ ChOpen(2,34,0,0,4,#1,#1,0,1,0,30);
 ChOpen(6,34,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","We're all gathered here, huh?
-...Hehe!");
+... Hehe!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -100,8 +100,9 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D130A00100_06_040");
 MsgDisp("Himuro","Then, if you would please.");
-MsgDisp("主人公","(Ehh∋ You can't just ask me something
-like that so suddenly...)");
+MsgDisp("主人公","(Ehh∋
+You can't just ask me something like that
+so suddenly...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

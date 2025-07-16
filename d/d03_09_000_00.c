@@ -52,8 +52,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900000_09_040");
 MsgDisp("Kuya?","I got kissed on the cheek.");
-MsgDisp("主人公","∈
-I'm really sorry!");
+MsgDisp("主人公","∈ I'm really sorry!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);
@@ -76,9 +75,9 @@ ChMotion(9,0,1);
 VoicePlay("D030900000_09_070");
 MsgDisp("Kuya?","Yeah.
 That's from that new cafe, isn't it?");
-MsgDisp("主人公","Yes! I'm a part-time journalist so I go
-around the city gathering
-information......");
+MsgDisp("主人公","Yes!
+I'm a part-time journalist so I go around
+the city gathering information......");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -104,20 +103,21 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(9);
 MsgDisp("主人公","(He's gone.
-......Ah, I forgot to thank him!)");
+...... Ah, I forgot to thank him!)");
 MsgSel("Get his name","Let him go");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Excuse me!
 What's your name——");
     VoicePlay("D030900000_09_110");
-    MsgDisp("Kuya?","Sorry! But I have something to do, cya
-later!");
+    MsgDisp("Kuya?","Sorry!
+But I have something to do, cya later!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.4);
     MsgDisp("主人公","Later, huh.
 I wonder if I'll see him again......?");
-    MsgDisp("主人公","(Anyway...... I kissed that guy. How
-embarrassing!)");
+    MsgDisp("主人公","(Anyway......
+I kissed that guy.
+How embarrassing!)");
     break ;
     case 1:
     MsgDisp("主人公","(I don't know him at all and I'll probably

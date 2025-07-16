@@ -1,4 +1,5 @@
-MsgDisp("主人公","｛柊＊＊＊｝, do you listen to music?
+MsgDisp("主人公","｛柊＊＊＊｝, do you listen to
+music?
 Is there a type you like?");
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -6,8 +7,7 @@ VoicePlay("B070500000_05_150");
 MsgDisp("Hiiragi","Yes, I like music. But I'm not fussy about
 genre. It's a matter of whether I like the
 melody.");
-MsgDisp("主人公","I see, what kind 
-of songs do you like?");
+MsgDisp("主人公","I see, what kind of songs do you like?");
 VoicePlay("B070500000_05_160");
 MsgDisp("Hiiragi","Pop, Enka, Rock, anything.
 Ah, rap is a bit difficult for me to

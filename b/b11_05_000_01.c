@@ -2,8 +2,8 @@ MsgClose();
 ChClose(5,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, it looks like ｛柊＊＊＊｝ hasn't
-arrived yet...");
+MsgDisp("主人公","Huh, it looks like ｛柊＊＊＊｝
+hasn't arrived yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -53,8 +53,7 @@ Is it a bug?");
 ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110500001_34_040");
-MsgDisp("Guy","No, no this is reality, 
-isn't it weird?");
+MsgDisp("Guy","No, no this is reality, isn't it weird?");
 MsgClose();
 SEPlay("EV_SE_580");
 ChClose(34);

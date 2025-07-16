@@ -12,8 +12,8 @@ ChOpen(5,254,0,3,4,#1,#1,0,0);
 ChMotion(5,3);
 Wait(20,0);
 VoicePlay("P540500000_05_000");
-MsgDisp("Hiiragi","Congratulations. The applause wouldn't
-quite stop.");
+MsgDisp("Hiiragi","Congratulations.
+The applause wouldn't quite stop.");
 MsgDisp("主人公","Thank you ｛柊＊＊＊｝!");
 ChEye(5,4);
 ChMouth(5,4);
@@ -31,8 +31,9 @@ MsgDisp("Hiiragi","You're a strong performer.
 And a strong-minded person.
 Congratulations on the concert's success.");
 MsgDisp("主人公","Thank you!");
-MsgDisp("主人公","(Yay! ｛柊＊＊＊｝ seems happy! It was
-worth giving my all practicing.)");
+MsgDisp("主人公","(Yay!
+｛柊＊＊＊｝ seems happy!
+It was worth giving my all practicing.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

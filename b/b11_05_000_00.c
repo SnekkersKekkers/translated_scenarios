@@ -1,17 +1,19 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛柊＊＊＊｝ isn't here yet...");
+MsgDisp("主人公","Looks like ｛柊＊＊＊｝ isn't
+here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛柊＊＊＊｝, did something happen?");
+MsgDisp("主人公","｛柊＊＊＊｝, did something
+happen?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500000_33_000");
 MsgDisp("Guy","Do you want to see it or not?");
-MsgDisp("主人公","Eh∈　See what...?");
+MsgDisp("主人公","Eh∈ See what...?");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110500000_33_010");
@@ -25,8 +27,7 @@ MsgClose();
 ChOpen(5,253,0,0,0,#1,#1,0,1,0,30);
 MsgDispSksp(1,5);
 VoicePlay("B110500000_05_000");
-MsgDisp("Hiiragi","Just where do you 
-intend on taking her?");
+MsgDisp("Hiiragi","Just where do you intend on taking her?");
 MsgDispSksp(0);
 ChEye(33,0);
 ChMouth(33,1);

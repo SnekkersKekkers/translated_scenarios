@@ -52,8 +52,9 @@ I was looking forward to listening to
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040303102_03_050");
-        MsgDisp("Honda","Really? But today I'll speak calmly - is
-that okay?");
+        MsgDisp("Honda","Really?
+But today I'll speak calmly - is that
+okay?");
         MsgDisp("主人公","I'd be happy if you could have fun talking
 to me like you always do.");
         ChEye(3,0);
@@ -86,8 +87,8 @@ how to talk to you about it.");
         MsgDisp("Honda","But in the end, the instant we meet I
 forget about it all and I just talk to you
 freely.");
-        MsgDisp("主人公","(I can't believe ｛本多＊＊｝ thinks of me
-that way...
+        MsgDisp("主人公","(I can't believe ｛本多＊＊｝
+thinks of me that way...
 I'm so happy.");
         break ;
         default :

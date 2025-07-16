@@ -52,8 +52,9 @@ her. You should settle this on your
 own.");
 MsgClear();
 BGOpen("ad131",0);
-MsgDisp("","｛主人公名前｝... I've known. From the
-day of the entrance ceremony.");
+MsgDisp("","｛主人公名前｝... I've
+known. From the day of the entrance
+ceremony.");
 MsgDisp("","The reason why I'm here, isn't to
 keep the promise I made with Dad.");
 MsgDisp("","Saying I'm training with Grandpa is
@@ -69,8 +70,8 @@ VoicePlay("Y300100300_01_060");
 MsgDisp("Kazama","\"Grandpa... thank you.
 I'm off.\"");
 MsgClear();
-MsgDisp("","But... what should I tell her? I
-can't just leave without saying
+MsgDisp("","But... what should I tell her?
+I can't just leave without saying
 anything like I did 10 years ago.");
 MsgDisp("","There's only two months until
 graduation.");

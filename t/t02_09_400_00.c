@@ -21,7 +21,7 @@ ChEye(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("T020940000_09_020");
-MsgDisp("Kuya","Is that what you're asking me? ");
+MsgDisp("Kuya","Is that what you're asking me?");
 MsgDisp("主人公","Eh......");
 ChEye(9,3);
 ChMouth(9,0);
@@ -36,9 +36,9 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("T020940000_09_040");
-MsgDisp("Kuya","Well...... I accidentally ended up at
-Hanegasaki lighthouse...... so I hurried
-over here.");
+MsgDisp("Kuya","Well......
+I accidentally ended up at Hanegasaki
+lighthouse...... so I hurried over here.");
 ChEye(9,0);
 ChEyeOpenLevel(9,10);
 MsgDisp("主人公","Eh......?");

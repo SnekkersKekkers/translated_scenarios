@@ -6,15 +6,16 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoicePlay("H7G0200000_02_000");
-MsgDisp("Sassa","Congrats! You won an award in the contest,
-right?");
+MsgDisp("Sassa","Congrats!
+You won an award in the contest, right?");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("H7G0200000_02_010");
-MsgDisp("Sassa","Wow. You're being so casual about it. I
-thought you'd be more happy about it.");
+MsgDisp("Sassa","Wow.
+You're being so casual about it.
+I thought you'd be more happy about it.");
 MsgDisp("主人公","That's not true.
 I'm really happy.");
 ChEye(2,0);

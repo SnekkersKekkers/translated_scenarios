@@ -3,14 +3,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020610101_06_000");
-MsgDisp("Himuro","......Hey. What do you think of me?");
+MsgDisp("Himuro","...... Hey.
+What do you think of me?");
 MsgDisp("主人公","Eh......?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("G020610101_06_010");
-MsgDisp("Himuro","Ah...... ——Sorry, disregard what I said
-just now.");
+MsgDisp("Himuro","Ah......
+——Sorry, disregard what I said just now.");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,2);
 ChMouth(6,0);
@@ -60,8 +61,7 @@ ChMotion(6,0);
 VoicePlay("G020610101_06_080");
 MsgDisp("Himuro","So, I want a little more time ......is
 that okay?");
-MsgDisp("主人公","Time......
-y-yeah, I understand.");
+MsgDisp("主人公","Time...... y-yeah, I understand.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);

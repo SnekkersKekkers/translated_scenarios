@@ -81,7 +81,8 @@ stick it out to get on.");
         VoicePlay("B040208302_02_070");
         MsgDisp("Sassa","The swans would look like they have two
 necks won't they?");
-        MsgDisp("主人公","Eh... Hehe!");
+        MsgDisp("主人公","Eh...
+Hehe!");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
@@ -92,7 +93,8 @@ necks won't they?");
         ChMotion(2,3);
         VoicePlay("B040208302_02_090");
         MsgDisp("Sassa","Plus, I can't get both legs in so I have
-to paddle with one foot.... Haa...");
+to paddle with one foot....
+Haa...");
         MsgDisp("主人公","(I kind of want to see this...?)");
         break ;
         default :

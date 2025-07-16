@@ -11,13 +11,13 @@ switch (ChPrmGet(3,6)){
     case 3:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango..");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChOpen(3,254,5,0,3,0,#1,0,0);
     VoicePlay("P030300000_03_000");
-    MsgDisp("Honda","The dango being roasted smells so
-good.");
+    MsgDisp("Honda","The dango being roasted smells so good.");
     MsgDisp("主人公","Welcome.");
     ChEye(3,3);
     ChMouth(3,3);
@@ -25,29 +25,33 @@ good.");
     VoicePlay("P030300000_03_010");
     MsgDisp("Honda","The smell of the mitarashi paste is the
 best too!");
-    MsgDisp("主人公","Hehe. ｛本多＊＊｝, are you here to take a
-break?");
+    MsgDisp("主人公","Hehe.
+｛本多＊＊｝, are you here to take
+a break?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P030300000_03_020");
-    MsgDisp("Honda","Yeah. Then, please show me the menu with
-the specials.");
-    MsgDisp("主人公","Yes, allow me to show you to
-your seat!");
+    MsgDisp("Honda","Yeah.
+Then, please show me the menu with the
+specials.");
+    MsgDisp("主人公","Yes, allow me to show you to your seat!");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P030300000_03_030");
-    MsgDisp("Honda","｛主人公｝. Wow, matching yukata.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Welcome～");
+    MsgDisp("Honda","｛主人公｝.
+Wow, matching yukata.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Welcome～");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

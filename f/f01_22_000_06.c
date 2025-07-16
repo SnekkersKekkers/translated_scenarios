@@ -12,7 +12,8 @@ Another time!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(22);
-    MsgDisp("主人公","(...It can't be helped.
+    MsgDisp("主人公","(...
+It can't be helped.
 I'll go home alone.)");
     break ;
     case 3:
@@ -42,8 +43,9 @@ I'll go home alone.)");
     ChMouth(22,5);
     ChMotion(22,2,1);
     VoicePlay("F012200006_22_030");
-    MsgDisp("Hikaru","Oh... Hikaru wants to, but... Hikaru is
-busy...");
+    MsgDisp("Hikaru","Oh...
+Hikaru wants to, but...
+Hikaru is busy...");
     MsgDisp("主人公","That's fine.
 Well, how about another time?");
     ChEye(22,2);

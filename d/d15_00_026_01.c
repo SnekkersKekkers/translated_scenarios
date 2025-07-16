@@ -23,13 +23,14 @@ ChMouth ( 2,3 ) ;
 ChMotion ( 2,4 ) ;
 ChCheek ( 2,5 ) ;
 VoicePlay ( "D150002601_02_010" ) ;
-MsgDisp ( "Sassa","R...Really." ) ;
+MsgDisp ( "Sassa","R...
+Really." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150002601_06_010" ) ;
-MsgDisp ( "Himuro","Why are you getting embarrassed? It's
-obvious." ) ;
+MsgDisp ( "Himuro","Why are you getting embarrassed?
+It's obvious." ) ;
 ChEye ( 2,3 ) ;
 ChMouth ( 2,3 ) ;
 ChMotion ( 2,3 ) ;
@@ -42,9 +43,11 @@ ChMouth ( 6,1 ) ;
 ChMotion ( 6,4 ) ;
 ChCheek ( 6,5 ) ;
 VoicePlay ( "D150002601_06_020" ) ;
-MsgDisp ( "Himuro","Huh? What are you talking about. That
-wouldn't make any sense." ) ;
-MsgDisp ( "主人公","Right. ｛氷室＊＊｝ isn't really a doggy,
+MsgDisp ( "Himuro","Huh?
+What are you talking about.
+That wouldn't make any sense." ) ;
+MsgDisp ( "主人公","Right.
+｛氷室＊＊｝ isn't really a doggy,
 he's more of a cute kitty." ) ;
 ChEye ( 2,3 ) ;
 ChMouth ( 2,3 ) ;

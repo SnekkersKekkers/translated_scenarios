@@ -22,8 +22,9 @@ switch (MsgSelRsltGet()){
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040511002_05_010");
-        MsgDisp("Hiiragi","Eh? So suddenly? We're swimming, so we
-cant't.");
+        MsgDisp("Hiiragi","Eh?
+So suddenly?
+We're swimming, so we cant't.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -53,8 +54,8 @@ hurry.");
         ChClose(5);
         ChCheek(5,0);
         SEWait();
-        MsgDisp("主人公","｛柊＊＊＊｝, you shouldn't run by the
-pool side.");
+        MsgDisp("主人公","｛柊＊＊＊｝, you shouldn't run
+by the pool side.");
         MsgClose();
         SEPlay("EV_SE_508");
         SEWait();

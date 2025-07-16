@@ -11,7 +11,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360303101_03_000");
 MsgDisp("Honda","Hey, was I being pushy today?");
-MsgDisp("主人公","Huh? Why do you ask?");
+MsgDisp("主人公","Huh?
+Why do you ask?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -31,7 +32,8 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B360303101_03_030");
 MsgDisp("Honda","Oh look, it's a sunfish!");
-MsgDisp("主人公","Hehe. You're interested in sunfish too?");
+MsgDisp("主人公","Hehe.
+You're interested in sunfish too?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -45,7 +47,8 @@ ChMotion(3,4,1);
 VoicePlay("B360303101_03_050");
 MsgDisp("Honda","I am interested in sunfish, but I like you
 even more!");
-MsgDisp("主人公","(Uh... I got compared to a sunfish...)");
+MsgDisp("主人公","(Uh...
+I got compared to a sunfish...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

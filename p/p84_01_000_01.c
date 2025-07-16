@@ -1,8 +1,9 @@
 MsgClose();
 ChClose(1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","...Huh? My wallet isn't there! W-What
-should I do?");
+MsgDisp("主人公","... Huh?
+My wallet isn't there!
+W-What should I do?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -15,7 +16,8 @@ VoicePlay("P840100001_01_000");
 MsgDisp("Kazama","I have the \"lost and found\"-san's lost
 item.");
 MsgDisp("主人公","That's my wallet!
-Thank you for finding it, ｛風真＊＊｝...");
+Thank you for finding it,
+｛風真＊＊｝...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

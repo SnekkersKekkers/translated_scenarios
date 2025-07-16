@@ -46,8 +46,7 @@ food than us, right?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121301_01_030");
-    MsgDisp("Kazama","It may be fun,
-but it must be noisy...");
+    MsgDisp("Kazama","It may be fun, but it must be noisy...");
     MsgDateResultDisp();
     break ;
     default :

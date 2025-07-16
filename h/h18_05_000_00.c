@@ -13,8 +13,8 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("H180500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Did you come to support
-us?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+Did you come to support us?");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("H180500000_05_010");

@@ -16,8 +16,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("S120100000_01_000");
     MsgDisp("Kazama","This is it.
 The best way to start the year.");
-    MsgDisp("主人公","Yeah. Thank you for coming with
-me.");
+    MsgDisp("主人公","Yeah.
+Thank you for coming with me.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -25,7 +25,8 @@ me.");
     VoicePlay("S120100000_01_010");
     MsgDisp("Kazama","It's good to be honest.
 That's my request for you this year.");
-    MsgDisp("主人公","Geez...... Even this year, ｛風真＊＊｝ is
+    MsgDisp("主人公","Geez......
+Even this year, ｛風真＊＊｝ is
 the same as always.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -58,7 +59,8 @@ I feel refreshed somehow.");
     VoicePlay("S120100000_01_040");
     MsgDisp("Kazama","Hmm, somehow you always seem refreshed
 though.");
-    MsgDisp("主人公","Hmm? What do you mean?");
+    MsgDisp("主人公","Hmm?
+What do you mean?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -91,9 +93,9 @@ Let me take you home.");
     VoicePlay("S120100000_01_070");
     MsgDisp("Kazama","Going to the shrine with you felt like a
 distant dream.");
-    MsgDisp("主人公","Is this your first time?
-Hmm......Didn't you go before in when we
-were in kindergarten?");
+    MsgDisp("主人公","Is this your first time? Hmm......Didn't
+you go before in when we were in
+kindergarten?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -101,8 +103,8 @@ were in kindergarten?");
     MsgDisp("Kazama","But not together.
 We might have just passed by each other at
 the shrine by chance.");
-    MsgDisp("主人公","｛風真＊＊｝ as a kindergartener, how
-cute......");
+    MsgDisp("主人公","｛風真＊＊｝ as a
+kindergartener, how cute......");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);

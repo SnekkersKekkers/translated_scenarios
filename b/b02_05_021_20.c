@@ -9,8 +9,9 @@ MsgDisp("主人公","Really?");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("B020502120_05_010");
-MsgDisp("Hiiragi","Yes. Walking briskly will even increase
-your charm.");
+MsgDisp("Hiiragi","Yes.
+Walking briskly will even increase your
+charm.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝, seems to like these
-clothes!)");
+｛柊＊＊＊｝, seems to like
+these clothes!)");

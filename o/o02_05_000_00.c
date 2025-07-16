@@ -9,8 +9,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,30,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020500000_05_000");
-    MsgDisp("Hiiragi","Congratulations. You put forth much
-effort.");
+    MsgDisp("Hiiragi","Congratulations.
+You put forth much effort.");
     MsgDisp("主人公","(I did it!
 I'm happy I won.)");
     break ;
@@ -32,8 +32,9 @@ I'm happy I won.)");
     ChMotion(5,3);
     Wait(15,0);
     VoicePlay("O020500000_05_020");
-    MsgDisp("Hiiragi","Congratulations! I had believed you would
-emerge victorious.");
+    MsgDisp("Hiiragi","Congratulations!
+I had believed you would emerge
+victorious.");
     MsgDisp("主人公","(I did it!
 I'm glad I did my best!)");
     break ;

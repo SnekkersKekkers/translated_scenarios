@@ -8,10 +8,12 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,255,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Welcome.");
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, so you work here.");
+    MsgDisp("Hiiragi","｛主人公｝, so you work
+here.");
     MsgDisp("主人公","Yes, and you, ｛柊＊＊＊｝?");
     ChMotion(5,4);
     VoicePlay("I250500000_05_010");
@@ -26,9 +28,9 @@ I shall go look.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(I see, ｛柊＊＊＊｝ is the chairman of a
-theater company...... I can't believe I
-know such a great person.)");
+    MsgDisp("主人公","(I see, ｛柊＊＊＊｝ is the
+chairman of a theater company...... I
+can't believe I know such a great person.)");
     break ;
     case 3:
     MsgDisp("主人公","Welcome.");
@@ -37,13 +39,15 @@ know such a great person.)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_030");
-    MsgDisp("Hiiragi","｛主人公｝, so you were working today.");
+    MsgDisp("Hiiragi","｛主人公｝, so you were
+working today.");
     MsgDisp("主人公","Yes, and you, ｛柊＊＊＊｝?");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I250500000_05_040");
-    MsgDisp("Hiiragi","Hm? Even if I cannot study, I can still
-read books, no?");
+    MsgDisp("Hiiragi","Hm?
+Even if I cannot study, I can still read
+books, no?");
     MsgDisp("主人公","Um......
 I didn't mean......");
     ChEye(5,4);
@@ -65,8 +69,9 @@ easier to understand, I will return.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(......Hm? What did ｛柊＊＊＊｝ come for?
-Could it be that he came to check on me?)");
+    MsgDisp("主人公","(......Hm? What did
+｛柊＊＊＊｝ come for? Could it
+be that he came to check on me?)");
     break ;
     case 4:
     case 5:
@@ -88,7 +93,8 @@ Ah, I see it is over there.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(Hehe, how admirable.
-｛柊＊＊＊｝ is doing his best studying.)");
+｛柊＊＊＊｝ is doing his best
+studying.)");
     SEWait();
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -103,8 +109,8 @@ Ah, I see it is over there.");
 Let me take that for you.");
     SEPlay("EV_SE_043");
     SEWait();
-    MsgDisp("主人公","......Hm? \"Habataki City Dating
-Guidebook\"?");
+    MsgDisp("主人公","...... Hm? \"
+Habataki City Dating Guidebook\"?");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("I250500000_05_110");

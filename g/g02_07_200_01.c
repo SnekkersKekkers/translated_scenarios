@@ -60,8 +60,9 @@ ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("G020720001_07_080");
 MsgDisp("Mikage","There must be some fireflies left.");
-MsgDisp("主人公","(The remaining fireflies...... Could it be
-｛御影＊＊｝......? )");
+MsgDisp("主人公","(The remaining fireflies......
+Could it be ｛御影＊＊｝......?
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

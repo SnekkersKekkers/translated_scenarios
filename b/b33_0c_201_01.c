@@ -59,8 +59,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B330C20101_07_020");
-MsgDisp("Mikage","This is why you're a young 
-person too.");
+MsgDisp("Mikage","This is why you're a young person too.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

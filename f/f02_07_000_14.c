@@ -5,16 +5,16 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Graduation is 
-coming up soon...");
+MsgDisp("主人公","Graduation is coming up soon...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700014_07_000");
-MsgDisp("Mikage","That's right...
-the three years I spent with you guys
-really were fun.");
-MsgDisp("主人公","Yes. ｛御影＊＊｝, thank you very much.");
+MsgDisp("Mikage","That's right... the three years I spent
+with you guys really were fun.");
+MsgDisp("主人公","Yes.
+｛御影＊＊｝, thank you
+very much.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

@@ -11,7 +11,8 @@ VoicePlay("G110300601_03_010");
 MsgDisp("Honda","This is a message from the manager.
 They're entrusting the monthly staff book
 recommendation to you.");
-MsgDisp("主人公","Ehh∋　Me?");
+MsgDisp("主人公","Ehh∋
+Me?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -21,7 +22,8 @@ MsgDisp("Honda","Right, right, if the manager didn't trust
 you, they wouldn't let you give monthly
 recommendations to the customer, would
 they?");
-MsgDisp("主人公","｛本多＊＊｝, what should I do......");
+MsgDisp("主人公","｛本多＊＊｝, what should I
+do......");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -44,8 +46,9 @@ ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300601_03_040");
-MsgDisp("Honda","｛主人公｝. How is it? Have you decided
-on a recommendation?");
+MsgDisp("Honda","｛主人公｝.
+How is it?
+Have you decided on a recommendation?");
 MsgDisp("主人公","No, not at all.......");
 ChEye(3,1);
 ChMouth(3,1);
@@ -64,7 +67,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300601_03_070");
 MsgDisp("Honda","Anything?");
-MsgDisp("主人公","Umm......something I read recently......
+MsgDisp("主人公","Umm...... something I read recently......
 How about 'Habatcher'?");
 ChEye(3,0);
 ChMouth(3,1);

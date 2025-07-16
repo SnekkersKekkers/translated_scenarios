@@ -29,8 +29,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C04102_06_020");
-MsgDisp("Himuro","He's your homeroom 
-teacher, right?");
+MsgDisp("Himuro","He's your homeroom teacher, right?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);

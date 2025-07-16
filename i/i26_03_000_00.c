@@ -18,11 +18,11 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     Wait(40);
     VoicePlay("I260300000_03_010");
-    MsgDisp("Honda","......Phew, thank goodness.
+    MsgDisp("Honda","...... Phew, thank goodness.
 I told you I'd take care of the heavy
 stuff, right?");
-    MsgDisp("主人公","｛本多＊＊｝, thanks...... But I can't
-leave everything to you.");
+    MsgDisp("主人公","｛本多＊＊｝, thanks......
+But I can't leave everything to you.");
     ChEye(3,1);
     ChMouth(3,4);
     ChMotion(3,1,1);
@@ -40,7 +40,8 @@ carelessness can lead to accidents.");
     VoicePlay("I260300000_03_040");
     MsgDisp("Honda","Then, leave the rest to me.
 I'll leave the cash register to you.");
-    MsgDisp("主人公","(Haa...... I made ｛本多＊＊｝ worry.)");
+    MsgDisp("主人公","(Haa......
+I made ｛本多＊＊｝ worry.)");
     break ;
     case 4:
     case 5:
@@ -66,7 +67,8 @@ I'll leave the cash register to you.");
     ChMouth(3,4);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_060");
-    MsgDisp("Honda","What do you mean? ......Ah, a customer.
+    MsgDisp("Honda","What do you mean?
+...... Ah, a customer.
 Welcome!");
     ChEye(3,0);
     ChMouth(3,3);
@@ -95,7 +97,8 @@ easy.");
     VoicePlay("I260300000_03_100");
     MsgDisp("Honda","Ah, for payments, use the spare money and
 calculator in that drawer.");
-    MsgDisp("主人公","Yeah...... Thanks, ｛本多＊＊｝.");
+    MsgDisp("主人公","Yeah......
+Thanks, ｛本多＊＊｝.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -104,7 +107,8 @@ calculator in that drawer.");
     MsgDisp("Honda","Come on, stop looking like you're about to
 cry. The customers are waiting for your
 smile, so smile!");
-    MsgDisp("主人公","(Haa...... I made a lot of extra work for
+    MsgDisp("主人公","(Haa......
+I made a lot of extra work for
 ｛本多＊＊｝. )");
     break ;
     default :

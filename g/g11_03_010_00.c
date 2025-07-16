@@ -4,7 +4,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I have my part time job today!)");
 VoiceEVSPlay(3);
 VoicePlay("G110301000_03_000");
-MsgDisp("Honda?","｛主人公｝. Wait up, wait up!");
+MsgDisp("Honda?","｛主人公｝.
+Wait up, wait up!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
@@ -12,7 +13,8 @@ BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110301000_03_010");
 MsgDisp("Honda","You're going to the part time job, right?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. Yes, that's right.");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Yes, that's right.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

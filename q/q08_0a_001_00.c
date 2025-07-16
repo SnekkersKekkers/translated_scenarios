@@ -45,7 +45,8 @@ ChMotion(2,4,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q080A00100_02_020");
 MsgDisp("Sassa","Yeah, right.");
-MsgDisp("主人公","Yeah! Deal.");
+MsgDisp("主人公","Yeah!
+Deal.");
 ChEye(1,0);
 MsgDisp("主人公","(The next free period is going to be fun!
 I can't wait!)");

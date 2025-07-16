@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B160800000_08_010");
     MsgDisp("Shirahane","It looked like you wanted to say something
 though.
-...Was it seriously nothing?");
+... Was it seriously nothing?");
     break ;
     case 1:
     NSSEye(8,4);

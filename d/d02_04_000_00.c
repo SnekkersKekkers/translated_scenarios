@@ -31,7 +31,8 @@ I won't worry about it then.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("D020400000_04_040");
-    MsgDisp("Nanatsumori","Ah......I see.
+    MsgDisp("Nanatsumori","Ah......
+I see.
 You're really brave, aren't you?");
     MsgDisp("主人公","Am I?");
     ChEye(4,0);

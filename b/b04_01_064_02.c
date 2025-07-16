@@ -48,8 +48,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ChLayout(0);
 VoicePlay("B040106402_01_030");
-MsgDisp("Kazama","... Hey, you're alright. Look up, it's
-just the warning firework.");
+MsgDisp("Kazama","... Hey, you're alright.
+Look up, it's just the warning firework.");
 ScrFadeIn(0);
 MsgDisp("主人公","Phew, that startled me.");
 ChEyeOpenLevel(1,0);
@@ -72,8 +72,10 @@ MsgDisp("主人公","?");
 ChMouth(1,2);
 ChCheek(1,10);
 VoicePlay("B040106402_01_060");
-MsgDisp("Kazama","About... What I was thinking of.");
-MsgDisp("主人公","Huh? What was it?");
+MsgDisp("Kazama","About...
+What I was thinking of.");
+MsgDisp("主人公","Huh?
+What was it?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -89,7 +91,8 @@ Wait(30,1);
 VoicePlay("B040106402_01_080");
 MsgDisp("Kazama","Anyway, don't worry about it.
 Let's start making our way over.");
-MsgDisp("主人公","Huh? Um, okay.");
+MsgDisp("主人公","Huh?
+Um, okay.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

@@ -28,8 +28,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B20301_03_000");
-MsgDisp("Honda","But, 
-they've gotten pretty ripe.");
+MsgDisp("Honda","But, they've gotten pretty ripe.");
 ChMouth(1,2);
 ChEye(4,0);
 ChMouth(4,0);
@@ -47,7 +46,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20301_04_020");
-MsgDisp("Nanatsumori","Heeh. 
+MsgDisp("Nanatsumori","Heeh.
 Then are these ones not delicious?");
 ChEye(3,0);
 ChMouth(3,4);

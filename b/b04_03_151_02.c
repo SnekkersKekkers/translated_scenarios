@@ -6,8 +6,7 @@ ChMouth(3,1);
 ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B040315102_03_000");
-MsgDisp("Honda","Oh, the no.
-7 and 10 pins are still left.");
+MsgDisp("Honda","Oh, the no. 7 and 10 pins are still left.");
 MsgSel("Everyone has days like this.","It's tough even for pros?","Let's knock down one for sure.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -31,8 +30,8 @@ switch (MsgSelRsltGet()){
         ChSet(3,2);
         VoicePlay("B040315102_03_020");
         MsgDisp("Honda","Hah... official records say it's less
-common than a perfect game. Ah, it's
-impossible...");
+common than a perfect game.
+Ah, it's impossible...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -42,7 +41,8 @@ impossible...");
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040315102_03_030");
-        MsgDisp("Honda","Right. I'll go for the safe one.");
+        MsgDisp("Honda","Right.
+I'll go for the safe one.");
         MsgDisp("主人公","You can do it ｛本多＊＊｝!");
         ChEye(3,0);
         ChMouth(3,0);
@@ -56,9 +56,9 @@ You're good at influencing me.");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040315102_03_050");
-        MsgDisp("Honda","Really? If it was unintentional, then
-maybe I'm just pretty susceptible to
-you...");
+        MsgDisp("Honda","Really?
+If it was unintentional, then maybe I'm
+just pretty susceptible to you...");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -70,7 +70,8 @@ That I can do it.");
         ChMouth(3,3);
         ChMotion(3,3);
         VoicePlay("B040315102_03_070");
-        MsgDisp("Honda","Yup. If you say that, I can do it!");
+        MsgDisp("Honda","Yup.
+If you say that, I can do it!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(3);
@@ -86,7 +87,8 @@ That I can do it.");
         MsgDisp("Honda","That's incredible!
 The odds of me knocking down a split 7 and
 10 are astronomical!");
-        MsgDisp("主人公","It's 'cause you're skilled, ｛本多＊＊｝.");
+        MsgDisp("主人公","It's 'cause you're skilled,
+｛本多＊＊｝.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,4);

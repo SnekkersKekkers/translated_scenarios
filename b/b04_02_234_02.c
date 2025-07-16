@@ -31,15 +31,14 @@ life.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223402_02_020");
-        MsgDisp("Sassa","Yeah yeah,
-I thank you for your kindness.");
+        MsgDisp("Sassa","Yeah yeah, I thank you for your kindness.");
         MsgDisp("主人公","Hehe, good.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,3);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223402_02_030");
-        MsgDisp("Sassa","Hey, don't get too carried away. ");
+        MsgDisp("Sassa","Hey, don't get too carried away.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
@@ -76,8 +75,8 @@ like both versions of you.");
         ChEyeOpenLevel(2,0);
         ChCheek(2,0);
         VoicePlay("B040223402_02_080");
-        MsgDisp("Sassa","Wai-...Oi, you're getting caught up in
-that.
+        MsgDisp("Sassa","Wai-...
+Oi, you're getting caught up in that.
 What do you think of me liking you?");
         MsgDisp("主人公","Yeah, I'm happy.");
         ChEye(2,0);
@@ -87,7 +86,8 @@ What do you think of me liking you?");
         MsgDisp("Sassa","Yeah. I'm glad that you're pleased with
 it. I'll get better at spinning and come
 back again.");
-        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ said that he likes me!)");
+        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ said that he
+likes me!)");
         break ;
         default :
         DbgAssert(1);

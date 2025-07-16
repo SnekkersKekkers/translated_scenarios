@@ -20,8 +20,9 @@ MsgSel("Of course, let's go.","I'm busy today......Sorry.");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U012200002_22_020");
-    MsgDisp("Hikaru","Yayay! Ok then, let's rendezvous at the
-forest park.");
+    MsgDisp("Hikaru","Yayay!
+Ok then, let's rendezvous at the forest
+park.");
     MsgDisp("主人公","Ok, gotcha.
 See you there soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -29,8 +30,9 @@ See you there soon.");
     break ;
     case 1:
     VoicePlay("U012200002_22_030");
-    MsgDisp("Hikaru","Fine then～ You busy dummy!
-......Sniff.");
+    MsgDisp("Hikaru","Fine then～
+You busy dummy!
+...... Sniff.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(She took the time to invite me...

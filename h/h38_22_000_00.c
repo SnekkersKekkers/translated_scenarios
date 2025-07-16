@@ -9,10 +9,11 @@ switch (ChPrmGet(22,6)){
     ChOpen(22,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H382200000_22_000");
-    MsgDisp("Hikaru","Hi～ Mari!
+    MsgDisp("Hikaru","Hi～
+Mari!
 You're looking cool♪");
-    MsgDisp("主人公","Ah, ｛ひかる＊｝. Did you come to
-cheer me on?");
+    MsgDisp("主人公","Ah, ｛ひかる＊｝.
+Did you come to cheer me on?");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);
@@ -34,7 +35,8 @@ high school girl.");
     ScrFadeIn(0);
     VoicePlay("H382200000_22_020");
     MsgDisp("Hikaru","Mari, I came to cheer you on♪");
-    MsgDisp("主人公","Ah, ｛ひかる＊｝. Thank you!");
+    MsgDisp("主人公","Ah, ｛ひかる＊｝.
+Thank you!");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,2,1);

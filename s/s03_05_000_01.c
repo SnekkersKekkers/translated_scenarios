@@ -49,8 +49,7 @@ I'll head there slowly, so don't rush.");
 Okay then, see you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Well then,
-What should I wear......)");
+    MsgDisp("主人公","(Well then, What should I wear......)");
     break ;
     default :
     DbgAssert(1);

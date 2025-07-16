@@ -10,11 +10,12 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("I230300000_03_000");
-    MsgDisp("Honda","Hm? I heard that there was someone new
-coming today, was that you?");
+    MsgDisp("Honda","Hm?
+I heard that there was someone new coming
+today, was that you?");
     MsgDisp("主人公","Yes, it's me.
-｛本多＊＊｝, I'm looking forward to
-working together.");
+｛本多＊＊｝, I'm looking forward
+to working together.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -56,7 +57,8 @@ have questions, okay?");
     ChMotion(3,3,1);
     VoiceEVSPlay(3);
     VoicePlay("I230300000_03_050");
-    MsgDisp("Honda","｛主人公｝. Welcome.");
+    MsgDisp("Honda","｛主人公｝.
+Welcome.");
     MsgDisp("主人公","｛本多＊＊｝, you work here?");
     ChEye(3,3);
     ChMouth(3,3);

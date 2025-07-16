@@ -19,8 +19,8 @@ VoicePlay("P240D00000_21_000");
 MsgDisp("Michiru","You interfere with people's love lives,
 you should be kicked by a horse!");
 VoicePlay("P240D00000_47_020");
-MsgDisp("Opponent","Curse you!
-\"Flora Angels\" Stop interfering～∈");
+MsgDisp("Opponent","Curse you! \"
+Flora Angels\" Stop interfering～ ∈");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -46,8 +46,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P240D00000_21_020");
 MsgDisp("Michiru","Finishing move!");
-MsgDisp("主人公","'Love heart forever!'
-Take that!");
+MsgDisp("主人公","'Love heart forever!
+' Take that!");
 SEPlay("EV_SE_810",0,0.8);
 ScrFadeOut(0,1,60);
 VoicePlay("P240D00000_47_030");
@@ -80,8 +80,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P240D00000_22_040");
-MsgDisp("Hikaru","Aha▼ It's a win for Hikaru and her
-friends～♪");
+MsgDisp("Hikaru","Aha▼
+It's a win for Hikaru and her friends～♪");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -112,8 +112,8 @@ ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("P240D00000_21_050");
 MsgDisp("Michiru","No way, that's embarrassing...");
-MsgDisp("主人公","(I didn't know that's how it ended...
-no one told me!)");
+MsgDisp("主人公","(I didn't know that's how it ended... no
+one told me!)");
 SEStop("EV_SE_GAYA_006",1);
 BGMStop();
 SEStop("EV_SE_GAYA_028",1);

@@ -39,8 +39,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610001_06_050");
-MsgDisp("Himuro","But I'd......
-be happy if you were by my side.");
+MsgDisp("Himuro","But I'd...... be happy if you were by my
+side.");
 MsgDisp("主人公","Eh.");
 ChEye(6,0);
 ChMouth(6,0);

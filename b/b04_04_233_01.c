@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040423301_04_020");
-    MsgDisp("Nanatsumori","Seriously∋ Everyone born in that country
-is a hero...");
+    MsgDisp("Nanatsumori","Seriously∋
+Everyone born in that country is a hero...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

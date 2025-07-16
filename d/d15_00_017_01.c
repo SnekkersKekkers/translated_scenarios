@@ -5,8 +5,8 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001701_01_000" ) ;
-MsgDisp ( "Kazama","Come to think of it, that recipe that
-you taught me was very useful." ) ;
+MsgDisp ( "Kazama","Come to think of it, that recipe that you
+taught me was very useful." ) ;
 ChEye ( 7,1 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,1 ) ;
@@ -18,7 +18,8 @@ ChEye ( 1,1 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,0 ) ;
 VoicePlay ( "D150001701_01_010" ) ;
-MsgDisp ( "Kazama","Right. I understand." ) ;
+MsgDisp ( "Kazama","Right.
+I understand." ) ;
 MsgDisp ( "主人公","Abuse it......?
 What kind of dish are you talking about?" ) ;
 ChEye ( 1,0 ) ;
@@ -43,8 +44,8 @@ ChMouth ( 7,3 ) ;
 ChMotion ( 7,1 ) ;
 VoicePlay ( "D150001701_07_010" ) ;
 MsgDisp ( "Mikage","You know, like how school lunches often
-have bread instead of rice. That's where I
-got the idea from." ) ;
+have bread instead of rice.
+That's where I got the idea from." ) ;
 MsgDisp ( "主人公","Ahh, so you just eat bread in place of
 rice?" ) ;
 ChEye ( 1,3 ) ;

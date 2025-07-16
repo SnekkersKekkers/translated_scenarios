@@ -1,6 +1,7 @@
 MsgDisp("主人公","Lately, I've been seeing you,
-｛風真＊＊｝, and ｛七ツ森＊｝ together
-a lot. What do you guys talk about?");
+｛風真＊＊｝, and
+｛七ツ森＊｝ together a
+lot. What do you guys talk about?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -19,7 +20,8 @@ ChMotion(3,4);
 VoicePlay("B070300001_03_240");
 MsgDisp("Honda","But, well, we don't really talk about that
 stuff.");
-MsgDisp("主人公","Really? Now I'm even more curious...");
+MsgDisp("主人公","Really?
+Now I'm even more curious...");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -47,7 +49,8 @@ VoicePlay("B070300001_03_280");
 MsgDisp("Honda","Oh, right... I guess that's why we don't
 end up talking about favorite types or
 anything when we hang out.");
-MsgDisp("主人公","(......Hmm?)");
+MsgDisp("主人公","(......
+Hmm?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

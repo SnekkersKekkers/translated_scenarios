@@ -14,15 +14,16 @@ switch (ChPrmGet(2,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120200002_02_000");
-    MsgDisp("Sassa","Good. I got to start the year off with
-you.");
+    MsgDisp("Sassa","Good.
+I got to start the year off with you.");
     MsgDisp("主人公","Yeah, treat me well this year.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("S120200002_02_010");
-    MsgDisp("Sassa","Yeah, let's start it off with a run! I'll
-run and train a bit. Cya!");
+    MsgDisp("Sassa","Yeah, let's start it off with a run!
+I'll run and train a bit.
+Cya!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
@@ -38,8 +39,7 @@ Alright, I'll try my best too!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120200002_02_020");
-    MsgDisp("Sassa","The start of the year is
-important.");
+    MsgDisp("Sassa","The start of the year is important.");
     MsgDisp("主人公","And visiting the shrine on New Year's is
 important too.");
     ChEye(2,3);
@@ -67,8 +67,7 @@ start to the New Year!");
     MsgDisp("Sassa","Let's walk home with that same sort of
 energy.
 Like you're running.");
-    MsgDisp("主人公","Hehe, we're not really running,
-right?");
+    MsgDisp("主人公","Hehe, we're not really running, right?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -94,7 +93,8 @@ Even though I feel like it");
     MsgDisp("Sassa","What, were you watching me?
 It's okay for me to be serious once in a
 while.");
-    MsgDisp("主人公","Isn't ｛颯砂＊＊｝ always serious?");
+    MsgDisp("主人公","Isn't ｛颯砂＊＊｝ always
+serious?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

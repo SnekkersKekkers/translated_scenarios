@@ -19,8 +19,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020130201_01_020");
 MsgDisp("Kazama","But for that, you need to train your eyes
 first, or it's meaningless.");
-MsgDisp("主人公","With ｛風真＊＊｝'s eyes there's bound to
-be no mistakes, huh?");
+MsgDisp("主人公","With ｛風真＊＊｝'s eyes there's
+bound to be no mistakes, huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -67,8 +67,8 @@ ChMotion(1,0);
 VoicePlay("G020130201_01_090");
 MsgDisp("Kazama","It's fine if no one understands.
 As long as I do.");
-MsgDisp("主人公","(｛風真＊＊｝...... I'm happy, but
-embarrassed.)");
+MsgDisp("主人公","(｛風真＊＊｝......
+I'm happy, but embarrassed.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

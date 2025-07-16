@@ -12,7 +12,8 @@ ChCheek(2,10);
 VoicePlay("T020200020_02_000");
 MsgDisp("Sassa","Eh......");
 MsgDisp("主人公","I was also happy to have the opportunity
-to help ｛颯砂＊＊｝ achieve his dream.");
+to help ｛颯砂＊＊｝ achieve his
+dream.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -26,7 +27,8 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200020_02_020");
-MsgDisp("Sassa","......Yeah. I promise.");
+MsgDisp("Sassa","...... Yeah.
+I promise.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -46,8 +48,7 @@ ChMotion(2,0);
 VoicePlay("T020200020_02_050");
 MsgDisp("Sassa","Then, stand up straight and lift your chin
 a little.");
-MsgDisp("主人公","Hehe,
-advice from when we ran together?");
+MsgDisp("主人公","Hehe, advice from when we ran together?");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -56,8 +57,7 @@ Wait(120,0);
 StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020200020_02_060");
-MsgDisp("Sassa","Yes, your gaze is...
-on me.");
+MsgDisp("Sassa","Yes, your gaze is... on me.");
 VoicePlay("T020200020_02_070");
 MsgDisp("Sassa","Now all I can see is you.");
 StlEffect(1,1,60);

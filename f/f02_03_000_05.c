@@ -32,5 +32,5 @@ VoicePlay("F020300005_03_030");
 MsgDisp("Honda","Once I do that, the scope of the exams is
 irrelevant, so I only read the parts that
 interest me.");
-MsgDisp("主人公","(Uh... That's a very unique
-perspective...)");
+MsgDisp("主人公","(Uh...
+That's a very unique perspective...)");

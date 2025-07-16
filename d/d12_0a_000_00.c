@@ -9,7 +9,8 @@ ChOpen(2,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("D120A00000_01_000");
-MsgDisp("Kazama","｛主人公｝, let's eat together.");
+MsgDisp("Kazama","｛主人公｝, let's eat
+together.");
 MsgDisp("主人公","Ah, lunch with everyone?
 Hehe, we're really close, huh?");
 ChEye(6,0);
@@ -57,8 +58,8 @@ ScrFadeIn(0);
 Wait(40,0);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_020");
-MsgDisp("Kazama","Huh......This is really a big serving,
-isn't it?");
+MsgDisp("Kazama","Huh......
+This is really a big serving, isn't it?");
 VoicePlay("D120A00000_47_000");
 MsgDisp("Staff","A service for the young master▼
 Itadakimasu.");
@@ -67,8 +68,9 @@ StlMouth(1,0);
 VoicePlay("D120A00000_01_030");
 MsgDisp("Kazama","Please stop.
 Don't call me \"Young Master\".");
-MsgDisp("主人公","Hehe. A lot of people call ｛風真＊＊｝ a
-young master, huh?");
+MsgDisp("主人公","Hehe. A lot of people call
+｛風真＊＊｝ a young master,
+huh?");
 StlEyeOpenLevel(1,#1);
 StlEye(6,0);
 StlMouth(6,1);
@@ -84,7 +86,8 @@ StlMouth(2,1);
 VoicePlay("D120A00000_02_010");
 MsgDisp("Sassa","Auntie!
 This is way too much.");
-MsgDisp("主人公","Ehh∋ ｛颯砂＊＊｝'s serving......");
+MsgDisp("主人公","Ehh∋
+｛颯砂＊＊｝'s serving......");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_040");
@@ -101,8 +104,9 @@ StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("D120A00000_02_020");
-MsgDisp("Sassa","Crap. Everyone back up a bit, it's going
-to spill.");
+MsgDisp("Sassa","Crap.
+Everyone back up a bit, it's going to
+spill.");
 StlEye(6,1,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0,1);

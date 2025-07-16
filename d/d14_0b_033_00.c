@@ -21,7 +21,7 @@ us quite hungry, hasn't it?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("D140B03300_01_010");
-MsgDisp("Kazama","Yeah. 
+MsgDisp("Kazama","Yeah.
 PE for fourth period is rough.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -70,7 +70,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D140B03300_03_030");
-MsgDisp("Honda","This? Then, I'll trade you this for that,
+MsgDisp("Honda","This?
+Then, I'll trade you this for that,
 Mii-kun.");
 ChEye(4,4);
 ChMouth(4,4);
@@ -83,8 +84,8 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D140B03300_03_040");
-MsgDisp("Honda","Eh! Then, the negotiations have broken
-down.");
+MsgDisp("Honda","Eh!
+Then, the negotiations have broken down.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -94,8 +95,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("D140B03300_04_040");
-MsgDisp("Nanatsumori","It's Dahon's fault
-for making me mad.");
+MsgDisp("Nanatsumori","It's Dahon's fault for making me mad.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -107,7 +107,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B03300_01_050");
 MsgDisp("Kazama","Haa...");
-MsgDisp("主人公","(Hehe! 
+MsgDisp("主人公","(Hehe!
 We're kind of like a family!)");
 BGMStop();
 MsgClose();

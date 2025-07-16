@@ -36,7 +36,8 @@ What should I wear?)");
         case 1:
         VoicePlay("S040300000_03_040");
         MsgDisp("Honda","Dang, no way.");
-        MsgDisp("主人公","Uhm......Sorry.");
+        MsgDisp("主人公","Uhm......
+Sorry.");
         VoicePlay("S040300000_03_050");
         MsgDisp("Honda","It's fine, I guess it was too sudden.
 See you later!");
@@ -97,7 +98,8 @@ Well then, what should we wear?)");
         case 1:
         VoicePlay("S040300000_03_140");
         MsgDisp("Honda","No way.........");
-        MsgDisp("主人公","Uhm......｛本多＊＊｝?");
+        MsgDisp("主人公","Uhm......
+｛本多＊＊｝?");
         VoicePlay("S040300000_03_150");
         MsgDisp("Honda","Ah, yeah.
 It's okay, I just froze for a second.");

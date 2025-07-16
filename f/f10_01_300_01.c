@@ -8,7 +8,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100130001_01_000");
-MsgDisp("Kazama","...I've got a bad feeling.
+MsgDisp("Kazama","... I've got a bad feeling.
 Later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -34,7 +34,8 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100130001_22_010");
 MsgDisp("Hikaru","Oh... are you still upset about what
-happened earlier? Sorry♪");
+happened earlier?
+Sorry♪");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
 ChOpen(21,254,0,0,0,#1,#1,0,2);
@@ -42,8 +43,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F100130001_21_000");
-MsgDisp("Michiru","Haha. We have no problem with you,
-Kazama-kun. We just came to see Mari.");
+MsgDisp("Michiru","Haha.
+We have no problem with you, Kazama-kun.
+We just came to see Mari.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -74,7 +76,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100130001_22_030");
-MsgDisp("Hikaru","Oh! But you know, it's not just with
+MsgDisp("Hikaru","Oh!
+But you know, it's not just with
 Kazama-kun!");
 ChEye(1,0);
 ChMouth(1,2);
@@ -91,8 +94,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F100130001_21_020");
-MsgDisp("Michiru","Hehe. That's right, so you can't
-monopolize her.");
+MsgDisp("Michiru","Hehe.
+That's right, so you can't monopolize her.");
 ChEye(22,3);
 ChEye(1,2);
 ChMouth(1,2);

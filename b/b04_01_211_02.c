@@ -30,8 +30,7 @@ to them?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040121102_01_020");
-    MsgDisp("Kazama","They're looking at you strangely,
-not me.");
+    MsgDisp("Kazama","They're looking at you strangely, not me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -94,8 +93,7 @@ would grow to like you.");
         MsgDisp("Kazama","After all, everyone naturally gathers
 around you, besides, is there anyone who
 doesn't like you?");
-        MsgDisp("主人公","Umm... 
-a person who doesn't like me...");
+        MsgDisp("主人公","Umm... a person who doesn't like me...");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0,1);

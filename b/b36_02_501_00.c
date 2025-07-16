@@ -12,24 +12,27 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B360250100_02_000");
 MsgDisp("Sassa","Right, we're here?");
-MsgDisp("主人公","Eh? ｛颯砂＊＊｝, did you want to come to
-this park?");
+MsgDisp("主人公","Eh?
+｛颯砂＊＊｝, did you want to come
+to this park?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B360250100_02_010");
-MsgDisp("Sassa","Right. This park has been here for a
-while. We probably played here together.");
-MsgDisp("主人公","Eh! You remember?");
+MsgDisp("Sassa","Right.
+This park has been here for a while.
+We probably played here together.");
+MsgDisp("主人公","Eh!
+You remember?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360250100_02_020");
-MsgDisp("Sassa","...Well,
-that's what Ryota said.");
+MsgDisp("Sassa","...Well, that's what Ryota said.");
 MsgDisp("主人公","Hehe, I see.
-｛風真＊＊｝ remembers lots of things.");
+｛風真＊＊｝ remembers lots of
+things.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -62,15 +65,13 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B360250100_02_070");
 MsgDisp("Sassa","Ah!");
-MsgDisp("主人公","Eh,
-did you remember something?");
+MsgDisp("主人公","Eh, did you remember something?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360250100_02_080");
 MsgDisp("Sassa","Nope, completely blank.");
-MsgDisp("主人公","(What... 
-that was surprising.)");
+MsgDisp("主人公","(What... that was surprising.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

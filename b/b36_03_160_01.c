@@ -40,7 +40,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 VoicePlay("B360316001_03_030");
-MsgDisp("Honda","Ugh... I can't keep up at all...");
+MsgDisp("Honda","Ugh...
+I can't keep up at all...");
 MsgDisp("主人公","｛本多＊＊｝ you picked a really
 high-difficulty stage right off the bat.");
 ChEye(3,2);
@@ -59,8 +60,8 @@ ChMotion(3,2,1);
 VoicePlay("B360316001_03_050");
 MsgDisp("Honda","You said that person was cool earlier,
 so...");
-MsgDisp("主人公","Huh∋ You went overboard just because of
-that?");
+MsgDisp("主人公","Huh∋
+You went overboard just because of that?");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,4,1);

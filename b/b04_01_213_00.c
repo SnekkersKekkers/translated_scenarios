@@ -30,8 +30,7 @@ I don't get that.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121300_01_020");
-    MsgDisp("Kazama","That question assumes that
-I  like either.");
+    MsgDisp("Kazama","That question assumes that I like either.");
     MsgDateResultDisp();
     break ;
     case 2:

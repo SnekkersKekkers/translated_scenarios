@@ -63,7 +63,8 @@ MsgDisp("Sassa","Alright, gotta find them all.
 Let's go!");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","( ｛颯砂＊＊｝ is quite romantic, huh?)");
+MsgDisp("主人公","( ｛颯砂＊＊｝ is quite romantic,
+huh?)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -74,8 +75,7 @@ MsgClose();
 ChOpen(2,254,2,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q100200000_02_080");
-MsgDisp("Sassa","There's lots of yummy-looking stuff 
-here.");
+MsgDisp("Sassa","There's lots of yummy-looking stuff here.");
 MsgDisp("主人公","Yeah, I wanna eat Castella.");
 ChEye(2,0);
 ChMouth(2,4);

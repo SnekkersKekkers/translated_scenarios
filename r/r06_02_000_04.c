@@ -9,8 +9,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,4);
     VoicePlay("R060200004_02_000");
     MsgDisp("Sassa","Oh, you have good taste.");
-    MsgDisp("主人公","(Yay! He's really happy with
-my gift.)");
+    MsgDisp("主人公","(Yay!
+He's really happy with my gift.)");
     break ;
     case 3:
     case 4:
@@ -21,8 +21,8 @@ my gift.)");
     VoicePlay("R060200004_02_010");
     MsgDisp("Sassa","This is just what I wanted.
 This must be fate!");
-    MsgDisp("主人公","(Yay! He's really happy with
-my gift.)");
+    MsgDisp("主人公","(Yay!
+He's really happy with my gift.)");
     break ;
     default :
     DbgAssert(1);

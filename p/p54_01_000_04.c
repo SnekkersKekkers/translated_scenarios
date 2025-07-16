@@ -19,8 +19,8 @@ ChMotion(1,3);
 VoicePlay("P540100004_01_010");
 MsgDisp("Kazama","That was a good performance.
 The world's best.");
-MsgDisp("主人公","That... you're exaggerating. But, thank
-you.");
+MsgDisp("主人公","That... you're exaggerating.
+But, thank you.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -14,5 +14,5 @@ ChMotion(4,0,1);
 VoicePlay("B020402117_04_010");
 MsgDisp("Nanatsumori","Not to mention how good it looks on you.
 All of it is perfect.");
-MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ seems to like
-clothes like these, too!)");
+MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ seems
+to like clothes like these, too!)");

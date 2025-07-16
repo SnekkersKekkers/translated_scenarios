@@ -10,15 +10,14 @@ ChEye(5,3);
 ChMouth(5,3);
 VoicePlay("K020501100_05_000");
 MsgDisp("Hiiragi","We cannot let it end here.
-......Happy birthday.");
+...... Happy birthday.");
 MsgDisp("主人公","You remembered.
 ｛柊＊＊＊｝, thank you!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("K020501100_05_010");
-MsgDisp("Hiiragi","I would never forget
-your special day.");
+MsgDisp("Hiiragi","I would never forget your special day.");
 MsgDisp("主人公","Hehe, thank you.");
 SEPlay("EV_SE_665");
 SEWait();
@@ -27,7 +26,8 @@ ChMotion(5,0);
 VoicePlay("K020501100_05_020");
 MsgDisp("Hiiragi","I'm not sure if this suits your tastes,
 but please accept this.");
-MsgDisp("主人公","Oh......? A present?");
+MsgDisp("主人公","Oh......?
+A present?");
 ChEye(5,2);
 VoicePlay("K020501100_05_030");
 MsgDisp("Hiiragi","It's quite embarrassing.
@@ -38,7 +38,7 @@ me, ｛柊＊＊＊｝.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("K020501100_05_040");
-MsgDisp("Hiiragi","......If it's to your liking, then that's
+MsgDisp("Hiiragi","...... If it's to your liking, then that's
 how it is.
 However, if not......");
 MsgDisp("主人公","I'd be happy with anything you got me!");

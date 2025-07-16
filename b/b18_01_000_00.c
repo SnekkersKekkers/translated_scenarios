@@ -24,7 +24,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B180100000_01_020");
 MsgDisp("Kazama","So yeah, that is more normal for us.
-...Right?");
+... Right?");
 MsgSel("Yeah, that's right.","Mmm~, that was a long time ago...");
 switch (MsgSelRsltGet()){
     case 0:

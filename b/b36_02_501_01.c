@@ -12,8 +12,7 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B360250101_02_000");
 MsgDisp("Sassa","Alright, we're here.");
-MsgDisp("主人公","Eh... 
-did you want to come to this park?");
+MsgDisp("主人公","Eh... did you want to come to this park?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -29,7 +28,8 @@ VoicePlay("B360250101_02_020");
 MsgDisp("Sassa","To be honest, the main part was inviting
 you out.
 After that, the details are kinda fuzzy.");
-MsgDisp("主人公","Hehe. Well, we came all the way here.
+MsgDisp("主人公","Hehe.
+Well, we came all the way here.
 Shall we hang out in the park?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -41,7 +41,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B360250101_02_040");
-MsgDisp("Sassa","I'm going to climb it for  abit!");
+MsgDisp("Sassa","I'm going to climb it for abit!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);

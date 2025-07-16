@@ -2,9 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to go home, I guess.)");
-MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is over there.
-Might as well chat a bit before I head
-home.)");
+MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is
+over there. Might as well chat a bit
+before I head home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -34,11 +34,11 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100901_01_020");
-MsgDisp("Kazama","I wonder if that's a good thing
-or not?");
+MsgDisp("Kazama","I wonder if that's a good thing or not?");
 ChMouthOpenLevel(1,0);
 VoicePlay("A010000000_01_021");
-MsgDisp("Ryota","Over here! I think I heard it over here!
+MsgDisp("Ryota","Over here!
+I think I heard it over here!
 Come!");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -56,7 +56,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100901_01_050");
 MsgDisp("Kazama","Did you hear that?");
-MsgDisp("主人公","Y-Yeah, the kid version of ｛風真＊＊｝?");
+MsgDisp("主人公","Y-Yeah, the kid version of
+｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -68,7 +69,7 @@ MsgDisp("主人公","Wait, what?!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(How mysterious......
-It really did sound like ｛風真＊＊｝'s
-voice from a long time ago.)");
+MsgDisp("主人公","(How mysterious...... It really did sound
+like ｛風真＊＊｝'s voice from a
+long time ago.)");
 MsgClose();

@@ -11,15 +11,13 @@ switch (MsgSelRsltGet()){
     NSSEye(5,3);
     NSSMouth(5,3);
     VoicePlay("B160500000_05_010");
-    MsgDisp("Hiiragi","Heheh, I suppose it cannot 
-be helped then?");
+    MsgDisp("Hiiragi","Heheh, I suppose it cannot be helped then?");
     break ;
     case 1:
     NSSEye(5,2);
     NSSMouth(5,4);
     VoicePlay("B160500000_05_020");
-    MsgDisp("Hiiragi","In spite of that,
-you are persistent...");
+    MsgDisp("Hiiragi","In spite of that, you are persistent...");
     break ;
     default :
     DbgAssert(0);

@@ -12,7 +12,7 @@ BGOpen("sc320",0);
 ChOpen(32,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F100740002_44_000");
-MsgDisp("School Girl A","Ehhh, why is Vice Principal Himuro here? ");
+MsgDisp("School Girl A","Ehhh, why is Vice Principal Himuro here?");
 VoicePlay("F100740002_42_010");
 MsgDisp("Male Student A","We have biology next right?
 Where's Mikagecchi?");
@@ -20,20 +20,21 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("F100740002_32_000");
-MsgDisp("VP Himuro","...Quiet. I have something to tell
-Mikage-sensei, so I'll have to wait here.");
+MsgDisp("VP Himuro","... Quiet.
+I have something to tell Mikage-sensei, so
+I'll have to wait here.");
 VoicePlay("F100740002_41_020");
 MsgDisp("Male Student B","Did Mikagecchi do something wrong?");
 VoicePlay("F100740002_45_000");
 MsgDisp("School Girl B","Is he gonna get scolded by Himuro-sensei?
 Poor guy.");
-MsgDisp("主人公","(Ehh? ｛御影＊＊｝ was praised the
-other day, so it'll be alright, right...?)");
+MsgDisp("主人公","(Ehh? ｛御影＊＊｝ was
+praised the other day, so it'll be
+alright, right...?)");
 SEPlay("EV_SE_DOOR_019");
 Wait(50,0);
 VoicePlay("F100740002_07_000");
-MsgDisp("Mikage","Oh, you're all awfully
-quiet tod——");
+MsgDisp("Mikage","Oh, you're all awfully quiet tod——");
 VoicePlay("F100740002_07_010");
 MsgDisp("Mikage","Gah, Vice-Principal Himuro∋");
 ChEye(32,0);
@@ -87,13 +88,14 @@ VoicePlay("F100740002_32_050");
 MsgDisp("VP Himuro","Your homeroom teacher is acknowledged not
 only by students, but also by parents.
 You can take pride in that.");
-MsgDisp("主人公","｛御影＊＊｝, that's amazing right?!");
+MsgDisp("主人公","｛御影＊＊｝, that's
+amazing right?!");
 VoicePlay("F100740002_41_060");
 MsgDisp("Male Student B","Mikagecchi, you're awesome!");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740002_32_060");
-MsgDisp("VP Himuro","...That is all.
+MsgDisp("VP Himuro","... That is all.
 Then, move onto your lesson.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -114,17 +116,17 @@ MsgDisp("Mikage","Thank you. It's all thanks to you guys.
 I'm looking forward to the next
 evaluation!");
 VoicePlay("F100740002_42_070");
-MsgDisp("Male Student A","Mikagechi, treat us
-when you get a raise!");
+MsgDisp("Male Student A","Mikagechi, treat us when you get a raise!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F100740002_07_070");
-MsgDisp("Mikage","Sure. I'll treat each of you to lunch
-once.");
+MsgDisp("Mikage","Sure.
+I'll treat each of you to lunch once.");
 MsgDisp("主人公","(Himuro-sensei went out of his way to do
 that in front of everyone...
-｛御影＊＊｝, I'm so happy for you!)");
+｛御影＊＊｝, I'm so happy
+for you!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

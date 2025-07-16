@@ -62,8 +62,8 @@ StlMouth(4,0);
 Wait(6,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew...... It's nice and cold inside the
-store!");
+MsgDisp("主人公","Phew......
+It's nice and cold inside the store!");
 StlMouthOpenLevel(1,0);
 VoicePlay("D120B00200_01_030");
 MsgDisp("Kazama","............");
@@ -75,18 +75,20 @@ StlEyeOpenLevel(3,5,1);
 StlMouthOpenLevel(3,0);
 VoicePlay("D120B00200_03_010");
 MsgDisp("Honda","............");
-MsgDisp("主人公","(Eh? Everyone has a scary look on their
+MsgDisp("主人公","(Eh?
+Everyone has a scary look on their
 face......∋)");
 StlEyeOpenLevel(4,0,1);
 StlMouth(4,0);
 VoicePlay("D120B00200_04_020");
-MsgDisp("Nanatsumori","......So.
+MsgDisp("Nanatsumori","...... So.
 Why don't you explain it.");
 StlEyeOpenLevel(3,#1);
 StlMouth(3,0);
 VoicePlay("D120B00200_03_020");
-MsgDisp("Honda","Right. I want an explanation from Ryo-kun
-that makes sense.");
+MsgDisp("Honda","Right.
+I want an explanation from Ryo-kun that
+makes sense.");
 StlEyeOpenLevel(1,0,1);
 StlMouth(1,1);
 VoicePlay("D120B00200_01_040");
@@ -108,8 +110,8 @@ Everyone looks so scary......");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("D120B00200_04_040");
-MsgDisp("Nanatsumori","Hmm? It's not something you should worry
-about.");
+MsgDisp("Nanatsumori","Hmm?
+It's not something you should worry about.");
 StlEye(3,1);
 StlMouth(3,1);
 VoicePlay("D120B00200_03_040");

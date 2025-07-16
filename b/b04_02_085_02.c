@@ -99,13 +99,15 @@ unintentionally run in a higher gear.");
         ChMotion(2,4);
         VoicePlay("B040208502_02_100");
         MsgDisp("Sassa","Try cheering me on a bit as a test.");
-        MsgDisp("主人公","Ehhh? Here?");
+        MsgDisp("主人公","Ehhh?
+Here?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3,1);
         VoicePlay("B040208502_02_110");
         MsgDisp("Sassa","Yes, please!");
-        MsgDisp("主人公","Ummm... ｛颯砂＊＊｝, do your best!");
+        MsgDisp("主人公","Ummm...
+｛颯砂＊＊｝, do your best!");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -116,7 +118,7 @@ unintentionally run in a higher gear.");
         ChMouth(2,3);
         ChMotion(2,3,1);
         VoicePlay("B040208502_02_130");
-        MsgDisp("Sassa","...Crap, something's come.
+        MsgDisp("Sassa","... Crap, something's come.
 I'll be of for a bit!");
         MsgDisp("主人公","Ehhh∋");
         ChEye(2,0);

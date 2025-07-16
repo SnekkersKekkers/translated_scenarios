@@ -6,16 +6,16 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040421300_04_000");
-MsgDisp("Nanatsumori","Ha...
-how soothing...");
+MsgDisp("Nanatsumori","Ha... how soothing...");
 MsgSel("Both their appearance and sounds are cute","I wonder if it's alright to hold them?","I can feel the arrogance of mankind...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
     ChMotion(4,1,1);
     VoicePlay("B040421300_04_010");
-    MsgDisp("Nanatsumori","Right... They way they look when they come
-up to you... they're like angels.");
+    MsgDisp("Nanatsumori","Right...
+They way they look when they come up to
+you... they're like angels.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

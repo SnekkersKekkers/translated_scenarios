@@ -42,8 +42,9 @@ They're delicate.");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040430001_04_030");
-    MsgDisp("Nanatsumori","Sure. What are we commemorating? Oh, but
-don't post this on social media.");
+    MsgDisp("Nanatsumori","Sure.
+What are we commemorating?
+Oh, but don't post this on social media.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

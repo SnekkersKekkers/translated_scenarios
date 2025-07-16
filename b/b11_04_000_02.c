@@ -1,15 +1,18 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? ｛七ツ森＊｝ still isn't here...");
+MsgDisp("主人公","Huh?
+｛七ツ森＊｝ still isn't
+here...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛七ツ森＊｝, you're late...");
+MsgDisp("主人公","｛七ツ森＊｝, you're
+late...");
 VoicePlay("B110400002_35_000");
-MsgDisp("?Boy","...Okay! Then for tonight's meeting, we'll
-go to the usual three star sushi
-restaurant!");
+MsgDisp("?Boy","... Okay!
+Then for tonight's meeting, we'll go to
+the usual three star sushi restaurant!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,1,0,#1,#1,0,0);
@@ -62,21 +65,22 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,1);
 VoicePlay("B110400002_35_050");
-MsgDisp("Guy","Is that so... right, right! This isn't
-really our turf so standing out is a bit
-risky you know...");
+MsgDisp("Guy","Is that so... right, right!
+This isn't really our turf so standing out
+is a bit risky you know...");
 MsgDispSksp(1,5);
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B110400002_04_030");
-MsgDisp("Nanatsumori","...Ah.
+MsgDisp("Nanatsumori","... Ah.
 It's the company director.");
 MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110400002_35_060");
-MsgDisp("Guy","Crap! Then pass on my regards to your
+MsgDisp("Guy","Crap!
+Then pass on my regards to your
 president～!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -89,8 +93,9 @@ ChMotion(4,2,1);
 VoicePlay("B110400002_04_040");
 MsgDisp("Nanatsumori","That old man is apparently an alumnus of
 our school.");
-MsgDisp("主人公","Ehh∋ He's kinda famous around here,
-right? ...Not exactly in a good way.");
+MsgDisp("主人公","Ehh∋
+He's kinda famous around here, right?
+... Not exactly in a good way.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -102,5 +107,5 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B110400002_04_060");
-MsgDisp("Nanatsumori","...Well, whatever.
+MsgDisp("Nanatsumori","... Well, whatever.
 Let's go.");

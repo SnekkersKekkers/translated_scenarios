@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B040508502_05_000");
-MsgDisp("Hiiragi","Haaー. We came on such a cold day didn't
-we?");
+MsgDisp("Hiiragi","Haaー.
+We came on such a cold day didn't we?");
 MsgSel("It's cold because you think it's cold!","Haaー,Haaー, my breath is really pure white!","Shall we hold hands?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -41,8 +41,7 @@ breath.");
         DateRateSet(5);
         ChEye(5,2);
         VoicePlay("B040508502_05_030");
-        MsgDisp("Hiiragi","Hey hey, 
-you'll run out of breath.");
+        MsgDisp("Hiiragi","Hey hey, you'll run out of breath.");
         MsgDisp("主人公","Yes.");
         ChEye(5,0);
         ChMouth(5,2);
@@ -75,8 +74,9 @@ your breath.");
         VoicePlay("B040508502_05_080");
         MsgDisp("Hiiragi","Ah, please excuse me.
 Winter is a wonderful thing, isn't it?");
-        MsgDisp("主人公","(Hey, ｛柊＊＊＊｝, you say weird things
-from time to time don't you...)");
+        MsgDisp("主人公","(Hey, ｛柊＊＊＊｝, you say
+weird things from time to time don't
+you...)");
         break ;
         default :
         DbgAssert(1);

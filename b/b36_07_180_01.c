@@ -24,7 +24,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360718001_07_020");
 MsgDisp("Mikage","Are you anxious?");
-MsgDisp("主人公","Yeah. Just a little......");
+MsgDisp("主人公","Yeah.
+Just a little......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -44,8 +45,9 @@ ChMouth(7,3);
 ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("B360718001_07_050");
-MsgDisp("Mikage","Yeah. It's hard to keep a balance between
-study and play.");
+MsgDisp("Mikage","Yeah.
+It's hard to keep a balance between study
+and play.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -68,8 +70,9 @@ ChMotion(7,5);
 VoicePlay("B360718001_07_080");
 MsgDisp("Mikage","So it's okay.
 Go and do what you want.");
-MsgDisp("主人公","(Talkin to ｛御影＊＊｝ makes me feel
-more at ease about my future......)");
+MsgDisp("主人公","(Talkin to ｛御影＊＊｝
+makes me feel more at ease about my
+future......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

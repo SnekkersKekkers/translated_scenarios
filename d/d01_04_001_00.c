@@ -3,10 +3,12 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","Ah...... ｛七ツ森＊｝ sent me a
+MsgDisp("主人公","Ah......
+｛七ツ森＊｝ sent me a
 message.");
-MsgDisp("主人公","\"I'm at the park nearby\" ......Eh,
-｛七ツ森＊｝, is around here∋");
+MsgDisp("主人公","\"I'm at the park nearby\" ......
+Eh, ｛七ツ森＊｝, is
+around here∋");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -24,8 +26,8 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChNanaType(1);
 ChOpen(4,35,0,4,3,#1,#1,0,0,0,60);
-MsgDisp("主人公","｛七ツ森＊｝! It's because you
-surprised me......");
+MsgDisp("主人公","｛七ツ森＊｝!
+It's because you surprised me......");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -69,7 +71,7 @@ StlEye(4,0);
 StlMouth(4,0);
 BGMPlay("BGM_C04_NANA_B",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Yep～, so yummy～▼
+MsgDisp("主人公","Yep～ , so yummy～▼
 Cream is really the best!");
 StlEye(4,0);
 StlMouth(4,0);
@@ -82,7 +84,8 @@ StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400100_04_060");
 MsgDisp("Nanatsumori","Okay, I got it.");
-MsgDisp("主人公","O-Okay......Thanks.");
+MsgDisp("主人公","O-Okay......
+Thanks.");
 StlEye(4,1);
 StlMouth(4,1);
 StlCheek(4,10);
@@ -139,8 +142,9 @@ ChMotion(4,2,1);
 VoicePlay("D010400100_04_130");
 MsgDisp("Nanatsumori","No......
 There isn't, not anymore.");
-MsgDisp("主人公","Good. It was embarrassing so I keep
-checking to see if there's anymore left.");
+MsgDisp("主人公","Good.
+It was embarrassing so I keep checking to
+see if there's anymore left.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -174,8 +178,9 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(4,0,30);
 MsgDisp("主人公","(The sweets were delicious but......
-Feeling ｛七ツ森＊｝'s hand on my cheek
-made my heart race like crazy......)");
+Feeling ｛七ツ森＊｝'s hand
+on my cheek made my heart race like
+crazy......)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(4,0);

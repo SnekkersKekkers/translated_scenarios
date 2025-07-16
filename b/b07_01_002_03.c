@@ -6,8 +6,9 @@ ChMotion(1,0);
 VoicePlay("B070100002_01_150");
 MsgDisp("Kazama","Are you talking about Honda and
 Nanatsumori?");
-MsgDisp("主人公","Yeah. ｛風真＊＊｝ also looks like he's
-having fun.");
+MsgDisp("主人公","Yeah.
+｛風真＊＊｝ also looks like
+he's having fun.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -38,8 +39,9 @@ ChMotion(1,0);
 VoicePlay("B070100002_01_190");
 MsgDisp("Kazama","Don't \"Huh?\" me.
 Come on, what's yoru question.");
-MsgDisp("主人公","That... What's the most important thing to
-you, ｛風真＊＊｝?");
+MsgDisp("主人公","That...
+What's the most important thing to you,
+｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);

@@ -32,21 +32,18 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C30100_06_010");
-MsgDisp("Himuro","Yanosuke-senpai, 
-please don't get lost.");
+MsgDisp("Himuro","Yanosuke-senpai, please don't get lost.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C30100_05_010");
-MsgDisp("Hiiragi","I have no confidence 
-that I won't.");
+MsgDisp("Hiiragi","I have no confidence that I won't.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30100_07_010");
-MsgDisp("Mikage","Then shall we all 
-hold hands walking?");
+MsgDisp("Mikage","Then shall we all hold hands walking?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -98,8 +95,9 @@ VoicePlay("B330C30100_07_030");
 MsgDisp("Mikage","Don't get so mad.
 Since the four of us are together, I
 wanted to make things more heart-pounding.");
-MsgDisp("主人公","(Hey... but it's rare to see ｛柊＊＊＊｝
-and ｛氷室＊＊｝ both go along with it
+MsgDisp("主人公","(Hey... but it's rare to see
+｛柊＊＊＊｝ and
+｛氷室＊＊｝ both go along with it
 today?)");
 BGMStop();
 MsgClose();

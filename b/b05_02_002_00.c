@@ -10,14 +10,16 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B050200200_02_000");
-MsgDisp("Sassa","Hm? Are you cold?");
+MsgDisp("Sassa","Hm?
+Are you cold?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoiceEVSPlay(2);
 VoicePlay("B050200200_02_010");
 MsgDisp("Sassa","｛主人公｝, come here.");
-MsgDisp("主人公","Sure. Why?");
+MsgDisp("主人公","Sure.
+Why?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -39,10 +41,11 @@ StlEye(2,0);
 StlMouth(2,0);
 SEVol(0.3,2);
 VoicePlay("B050200200_02_030");
-MsgDisp("Sassa","Woo......It was waiting for us.
+MsgDisp("Sassa","Woo......
+It was waiting for us.
 Let's warm up.");
-MsgDisp("主人公","Yep, it's nice and warm. Thanks,
-｛颯砂＊＊｝.");
+MsgDisp("主人公","Yep, it's nice and warm.
+Thanks, ｛颯砂＊＊｝.");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
@@ -60,7 +63,7 @@ StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200200_02_060");
 MsgDisp("Sassa","Eh?
-......Together?");
+...... Together?");
 MsgDisp("主人公","Yeah?");
 StlEye(2,2);
 StlMouth(2,1);
@@ -68,8 +71,9 @@ StlEyeOpenLevel(2,5,1);
 StlCheek(2,10);
 VoicePlay("B050200200_02_070");
 MsgDisp("Sassa","That's crazy, though.
-......You all covered in......steam.");
-MsgDisp("主人公","Eh......EH∋
+...... You all covered in...... steam.");
+MsgDisp("主人公","Eh......
+EH∋
 That's kind of embarrassing......");
 StlEye(2,1);
 StlMouth(2,1);
@@ -123,15 +127,17 @@ VoicePlay("B050200200_02_130");
 MsgDisp("Sassa","That hot spring feeling was great.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","Hehe. ｛颯砂＊＊｝ must really like hot
+MsgDisp("主人公","Hehe.
+｛颯砂＊＊｝ must really like hot
 springs.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("B050200200_02_140");
-MsgDisp("Sassa","Ahh. Instead of going to a hot spring,
-next time we can just come to the pool.");
+MsgDisp("Sassa","Ahh.
+Instead of going to a hot spring, next
+time we can just come to the pool.");
 MsgDisp("主人公","(｛颯砂＊＊｝'s face is still red.
 Is that from the heat of the
 jacuzzi......?)");

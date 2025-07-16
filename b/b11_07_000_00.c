@@ -1,12 +1,14 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh...｛御影＊＊｝ still hasn't come
-yet.");
+MsgDisp("主人公","Huh...
+｛御影＊＊｝ still hasn't
+come yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","Hmm. ｛御影＊＊｝ is late...");
+MsgDisp("主人公","Hmm.
+｛御影＊＊｝ is late...");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
@@ -39,8 +41,9 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110700000_33_030");
-MsgDisp("Guy","Hm? No can do, you weren't chosen. That's
-why I can't take you.");
+MsgDisp("Guy","Hm?
+No can do, you weren't chosen.
+That's why I can't take you.");
 MsgDispSksp(1,5);
 ChEye(7,1);
 ChMouth(7,4);
@@ -97,10 +100,10 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChPosition(7,0);
 VoicePlay("B110700000_07_060");
-MsgDisp("Mikage","Phew...
-poor guy.");
-MsgDisp("主人公","Umm...｛御影＊＊｝, thank you very much
-for saving me.");
+MsgDisp("Mikage","Phew... poor guy.");
+MsgDisp("主人公","Umm...
+｛御影＊＊｝, thank you
+very much for saving me.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,5);

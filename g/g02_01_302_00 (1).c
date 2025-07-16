@@ -48,8 +48,9 @@ VoicePlay("G020130200_01_060");
 MsgDisp("Kazama","Lively meals really are great.
 Oh, and also, you shouldn't underestimate
 the soba there.");
-MsgDisp("主人公","Yeah. The sets and the rice bowls, it's
-all tasty.");
+MsgDisp("主人公","Yeah.
+The sets and the rice bowls, it's all
+tasty.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -64,7 +65,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130200_01_080");
-MsgDisp("Kazama","Really? Sorry.");
+MsgDisp("Kazama","Really?
+Sorry.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -87,8 +89,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020130200_01_110");
 MsgDisp("Kazama","I'm excited to go to the cafeteria
 together.");
-MsgDisp("主人公","(Right, ｛風真＊＊｝ lives alone.
-Of course he'd want to have fun
+MsgDisp("主人公","(Right, ｛風真＊＊｝ lives
+alone. Of course he'd want to have fun
 meals......)");
 BGMStop();
 MsgClose();

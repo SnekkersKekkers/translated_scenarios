@@ -1,6 +1,7 @@
 MsgDisp("主人公","Recently, the four of us; me, you,
-｛柊＊＊＊｝ and ｛氷室＊＊｝ h ave been
-hanging out regularly huh?");
+｛柊＊＊＊｝ and
+｛氷室＊＊｝ h ave been hanging out
+regularly huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -51,8 +52,7 @@ VoicePlay("B070700001_07_500");
 MsgDisp("Mikage","Inori is the same.
 I think both of them know that, somewhere,
 in some way.");
-MsgDisp("主人公","Then, our bond will
-be everlasting...");
+MsgDisp("主人公","Then, our bond will be everlasting...");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -68,8 +68,7 @@ VoicePlay("B070700001_07_520");
 MsgDisp("Mikage","That's you.
 That's why, it's up to you to decide what
 will happen, right?");
-MsgDisp("主人公","(Ehh?
-even if you say that...)");
+MsgDisp("主人公","(Ehh? even if you say that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

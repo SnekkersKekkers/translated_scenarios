@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040124101_01_010");
-    MsgDisp("Kazama","Phewー... Thanks to you, I inhaled the
-smell of the animals with all of my might.");
+    MsgDisp("Kazama","Phewー...
+Thanks to you, I inhaled the smell of the
+animals with all of my might.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,8 +28,9 @@ smell of the animals with all of my might.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040124101_01_020");
-    MsgDisp("Kazama","Nice! Are you the one doing it? Just
-imagining it is fun.");
+    MsgDisp("Kazama","Nice!
+Are you the one doing it?
+Just imagining it is fun.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +43,8 @@ imagining it is fun.");
     ChEyeOpenLevel(1,8);
     VoiceEVSPlay(1);
     VoicePlay("B040124101_01_030");
-    MsgDisp("Kazama","｛主人公｝. With that, it's settled
-right?");
+    MsgDisp("Kazama","｛主人公｝.
+With that, it's settled right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

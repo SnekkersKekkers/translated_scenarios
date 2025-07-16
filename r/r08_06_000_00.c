@@ -8,7 +8,8 @@ high school life is over...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,34,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","(Ah... It's ｛氷室＊＊｝. )");
+MsgDisp("主人公","(Ah...
+It's ｛氷室＊＊｝. )");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -19,8 +20,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(Huh? That's not the way to his house. And
-he's acting strange......)");
+MsgDisp("主人公","(Huh?
+That's not the way to his house.
+And he's acting strange......)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.4);
 BGMStop();
 MsgClose();
@@ -31,8 +33,9 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(｛氷室＊＊｝, where on earth did you go? He
-should be here somewhere... Ah.)");
+MsgDisp("主人公","(｛氷室＊＊｝, where on earth did you go?
+He should be here somewhere...
+Ah.)");
 MsgClose();
 ChLayout(1);
 ChClose(6,0,0);
@@ -58,9 +61,8 @@ StlEye(6,0);
 StlMouth(6,1);
 VoicePlay("R080600000_06_020");
 MsgDisp("Himuro","What are you doing?");
-MsgDisp("主人公","Ah...｛氷室＊＊｝, that's what I need to ask
-you.
-Are you praying?");
+MsgDisp("主人公","Ah...｛氷室＊＊｝, that's what I need to
+ask you. Are you praying?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -131,13 +133,14 @@ StlMouth(6,0);
 VoicePlay("R080600000_06_140");
 MsgDisp("Himuro","Haha, you look troubled.");
 MsgDisp("主人公","Not at all. I'm glad I was able to hear
-how you feel, ｛氷室＊＊｝. Thank you.");
+how you feel, ｛氷室＊＊｝. Thank
+you.");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("R080600000_06_150");
-MsgDisp("Himuro","You thanking me is kind of ironic. ... But
-hey, that's fine.");
+MsgDisp("Himuro","You thanking me is kind of ironic.
+... But hey, that's fine.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("R080600000_06_160");
@@ -148,8 +151,9 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("R080600000_06_170");
-MsgDisp("Himuro","And... Merry Christmas. Just wanted to let
-you know.");
+MsgDisp("Himuro","And...
+Merry Christmas.
+Just wanted to let you know.");
 MsgDisp("主人公","Hehe, yeah.
 Merry Christmas, ｛氷室＊＊｝!");
 BGMStop(3);

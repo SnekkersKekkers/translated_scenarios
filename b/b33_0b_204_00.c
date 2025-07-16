@@ -16,8 +16,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20400_03_000");
-MsgDisp("Honda","Yep yep, 
-the perfect day for a picnic.");
+MsgDisp("Honda","Yep yep, the perfect day for a picnic.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -37,7 +36,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B20400_03_010");
 VoiceEVSPlay(3);
-MsgDisp("Honda","Bento huhー. If only we had planned it.
+MsgDisp("Honda","Bento huhー.
+If only we had planned it.
 Right, ｛主人公｝.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
@@ -65,7 +65,8 @@ ChMotion(3,4,1);
 VoicePlay("B330B20400_03_030");
 VoiceEVSPlay(3);
 MsgDisp("Honda","Then, let's make a note of what everyone
-likes? Right, ｛主人公｝.");
+likes?
+Right, ｛主人公｝.");
 MsgDisp("主人公","(I'm in charge of the bentos∋)");
 BGMStop();
 MsgClose();

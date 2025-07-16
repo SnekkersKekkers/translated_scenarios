@@ -57,10 +57,12 @@ would be jealous of the couples.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040603202_06_040");
-        MsgDisp("Himuro","Why? It's a penguin, so it doesn't matter
+        MsgDisp("Himuro","Why?
+It's a penguin, so it doesn't matter
 either way?");
-        MsgDisp("主人公","But if I were a penguin, and ｛氷室＊＊｝
-came here on a date ...");
+        MsgDisp("主人公","But if I were a penguin, and
+｛氷室＊＊｝ came here on a date
+...");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,0);
@@ -78,8 +80,7 @@ your own?");
         VoicePlay("B040603202_06_070");
         MsgDisp("Himuro","Why would I have to come to a place like
 this with someone other than you?");
-        MsgDisp("主人公","No, I'm just talking 
-in hypotheticals...");
+        MsgDisp("主人公","No, I'm just talking in hypotheticals...");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -92,21 +93,23 @@ in hypotheticals...");
         VoicePlay("B040603202_06_090");
         MsgDisp("Himuro","The person penguin you would see me with
 is Reiichi-san.");
-        MsgDisp("主人公","Reiichi-san...
-you mean vice president Himuro?");
+        MsgDisp("主人公","Reiichi-san... you mean vice president
+Himuro?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);
         VoicePlay("B040603202_06_100");
-        MsgDisp("Himuro","Right. I was definitely dragged out for
-some troublesome reason against my will.");
+        MsgDisp("Himuro","Right.
+I was definitely dragged out for some
+troublesome reason against my will.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040603202_06_110");
         MsgDisp("Himuro","Next time, envision my reluctant
 expression too.");
-        MsgDisp("主人公","(...Yeah, I can imagine that.)");
+        MsgDisp("主人公","(...
+Yeah, I can imagine that.)");
         break ;
         default :
         DbgAssert(1);

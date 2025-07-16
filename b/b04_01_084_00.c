@@ -41,8 +41,8 @@ transparent.");
     ChMotion(1,3);
     VoicePlay("B040108400_01_030");
     MsgDisp("Kazama","... Sheesh, what would you be doing, going
-around in circles like that? Being out
-with you isn't so bad, though.");
+around in circles like that?
+Being out with you isn't so bad, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

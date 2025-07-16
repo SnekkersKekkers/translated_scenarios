@@ -62,14 +62,15 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B360150100_01_060");
 MsgDisp("Kazama","You've only started to think about it like
 this recently.");
-MsgDisp("主人公","Hehe. There are things I still remember,
-though?");
+MsgDisp("主人公","Hehe.
+There are things I still remember, though?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360150100_01_070");
-MsgDisp("Kazama","Yeah. It's enough to remember just the
-important things.");
+MsgDisp("Kazama","Yeah.
+It's enough to remember just the important
+things.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -99,8 +100,9 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360150100_01_110");
-MsgDisp("Kazama","Right. ...Well, maybe I'll invite those
-guys along once in about ten times.");
+MsgDisp("Kazama","Right.
+... Well, maybe I'll invite those guys
+along once in about ten times.");
 MsgDisp("主人公","(Hehe, they'd probably be mad if they
 heard that?)");
 BGMStop();

@@ -10,8 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like there's 
-lots of baby sheep!");
+MsgDisp("主人公","Looks like there's lots of baby sheep!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -21,13 +20,14 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30800_05_000");
-MsgDisp("Hiiragi","I'm curious. ");
+MsgDisp("Hiiragi","I'm curious.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoiceEVSPlay(6);
 VoicePlay("B330C30800_06_010");
-MsgDisp("Himuro","｛主人公｝, what do you think?");
+MsgDisp("Himuro","｛主人公｝, what do you
+think?");
 MsgDisp("主人公","Hmm...
 Maybe not fluffy, but soft?");
 ChEye(7,0);
@@ -55,7 +55,7 @@ MsgDisp("主人公","Yeah, the babies... hm?");
 VoicePlay("B330C30800_05_010");
 MsgDisp("Hiiragi","Huh... it's not a sheep.");
 VoicePlay("B330C30800_06_030");
-MsgDisp("Himuro","It's a goat. ");
+MsgDisp("Himuro","It's a goat.");
 MsgClose();
 ChOpen(7,255,2,0,0,#1,#1,0,3,0,30);
 ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
@@ -80,8 +80,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30800_07_020");
-MsgDisp("Mikage","Yeah. The baby sheep is just about the
-same.");
+MsgDisp("Mikage","Yeah.
+The baby sheep is just about the same.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -97,7 +97,8 @@ ChMotion(6,0);
 VoicePlay("B330C30800_06_050");
 MsgDisp("Himuro","Kojiro-sensei, shouldn't you have come in
 your normal overalls today?");
-MsgDisp("主人公","(Hehe! Maybe it's just as ｛氷室＊＊｝
+MsgDisp("主人公","(Hehe!
+Maybe it's just as ｛氷室＊＊｝
 says?)");
 MsgClose();
 ScrFadeOut(0,0);

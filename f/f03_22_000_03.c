@@ -11,7 +11,8 @@ VoicePlay("F032200000_22_110");
 MsgDisp("Hikaru","Rhythmic gymnastics, synchronized
 swimming, figure skating.
 There are lots of other ones too.");
-MsgDisp("主人公","Hmm. Is that why you're doing rhythmic
+MsgDisp("主人公","Hmm.
+Is that why you're doing rhythmic
 gymnastics at school?");
 ChEye(22,0);
 ChMouth(22,3);

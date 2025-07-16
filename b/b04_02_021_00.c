@@ -38,8 +38,9 @@ floating around there I think. Look.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040202100_02_030");
-    MsgDisp("Sassa","Yeah. Even if we run as fast as we can it
-won't cause any trouble.");
+    MsgDisp("Sassa","Yeah.
+Even if we run as fast as we can it won't
+cause any trouble.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

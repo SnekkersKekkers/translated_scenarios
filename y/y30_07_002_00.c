@@ -47,18 +47,19 @@ MsgDisp("","The students said that all at once.
 It's a matter of memorizing the
 lines...");
 MsgClear();
-MsgDisp("主人公","\"Um, ｛御影＊＊｝... You
-accompanied me for all my practices,
-so do you remember the lines?\"");
+MsgDisp("主人公","\"Um, ｛御影＊＊｝...
+You accompanied me for all my
+practices, so do you remember the
+lines?\"");
 MsgDisp("","Everyone in the class's eyes looked
 at me, all at once.");
 VoicePlay("Y300700200_07_020");
-MsgDisp("Mikage","\"Wait, wait. we can't do that. How
-would the teacher even be the lead
-part?\"");
+MsgDisp("Mikage","\"Wait, wait. we can't do that.
+How would the teacher even be the
+lead part?\"");
 MsgClear();
-MsgDisp("","\"Why is it bad?\" \"This is an
-emergency.\"");
+MsgDisp("","\"Why is it bad?\"
+\"This is an emergency.\"");
 SEPlay("EV_SE_713");
 Wait(30,0);
 SEPlay("EV_SE_815",0,0.8);
@@ -82,8 +83,7 @@ BGMStop();
 Wait(120,0);
 BGOpen("ad721",0);
 VoicePlay("Y300700200_32_000");
-MsgDisp("VP Himuro","\"Mikage-sensei...
-come here.\"");
+MsgDisp("VP Himuro","\"Mikage-sensei... come here.\"");
 VoicePlay("Y300700200_07_040");
 MsgDisp("Mikage","\"Ah, yes.
 Everyone be quiet.\"");
@@ -110,8 +110,9 @@ MsgDisp("VP Himuro","\"I have experience with this too.
 And such, now I have no regrets of
 it.\"");
 VoicePlay("Y300700200_07_060");
-MsgDisp("Mikage","\"Eh? Vice Principal Himuro was in a
-school play∋\"");
+MsgDisp("Mikage","\"Eh?
+Vice Principal Himuro was in a school
+play∋\"");
 MsgDisp("","I think Vice principal Himuro let his
 guard down a little, as if he was
 reminiscing about the past.");

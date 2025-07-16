@@ -15,7 +15,8 @@ switch (ChPrmGet(4,6)){
     VoicePlay("F010400007_04_000");
     MsgDisp("Nanatsumori","Yo.
 Are you going home right now?");
-    MsgDisp("主人公","Yes. You too, ｛七ツ森＊｝?");
+    MsgDisp("主人公","Yes.
+You too, ｛七ツ森＊｝?");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -35,8 +36,9 @@ Should we walk together?");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("F010400007_04_030");
-    MsgDisp("Nanatsumori","Yo. I was waiting. I thought we could go
-home together.");
+    MsgDisp("Nanatsumori","Yo.
+I was waiting.
+I thought we could go home together.");
     break ;
     default :
     DbgAssert(1);

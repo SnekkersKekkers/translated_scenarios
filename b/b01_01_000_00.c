@@ -2,7 +2,8 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm late...
-Ah, ｛風真＊＊｝ is already here!)");
+Ah, ｛風真＊＊｝ is already
+here!)");
 switch (ChPrmGet(1,6)){
     case 0:
     case 1:
@@ -28,8 +29,7 @@ switch (ChPrmGet(1,6)){
     Wait(16,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B010100000_01_010");
-    MsgDisp("Kazama","......
-Are you doing that on purpose?");
+    MsgDisp("Kazama","...... Are you doing that on purpose?");
     MsgDisp("主人公","Huh?");
     MsgDispSksp(1,0);
     ChEye(1,2);
@@ -37,8 +37,9 @@ Are you doing that on purpose?");
     ChMotion(1,0);
     ChCheek(1,0);
     VoicePlay("B010100000_01_020");
-    MsgDisp("Kazama","There's no way... Nevermind. Be more
-careful next time.");
+    MsgDisp("Kazama","There's no way...
+Nevermind.
+Be more careful next time.");
     MsgDispSksp(0);
     break ;
     case 3:

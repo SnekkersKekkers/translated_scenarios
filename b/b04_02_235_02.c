@@ -72,7 +72,8 @@ chair at the back of the old well?");
         MsgDisp("Sassa","Maybe you could only see it from my line
 of sight.
 Maybe it's a break spot for the ghosts.");
-        MsgDisp("主人公","Hehe. Rather than coming out the old well,
+        MsgDisp("主人公","Hehe.
+Rather than coming out the old well,
 they're sitting behind it, huh?");
         ChEye(2,0);
         ChMouth(2,3);
@@ -94,8 +95,8 @@ more funny things");
         ChMotion(2,3);
         VoicePlay("B040223502_02_090");
         MsgDisp("Sassa","Shall we try going again?");
-        MsgDisp("主人公","There might be...
-things we're not supposed to find?");
+        MsgDisp("主人公","There might be... things we're not
+supposed to find?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);
@@ -107,8 +108,8 @@ Let's go elsewhere!");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         SEWait();
-        MsgDisp("主人公","(Hehe ｛颯砂＊＊｝ is bad with haunted
-houses, It's a bit cute!)");
+        MsgDisp("主人公","(Hehe ｛颯砂＊＊｝ is bad with
+haunted houses, It's a bit cute!)");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(2,253,0,0,4,#1,#1,0,0);

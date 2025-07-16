@@ -16,7 +16,8 @@ There's a huge audience...)");
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_000");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. You came?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+You came?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -41,8 +42,7 @@ doesn't seem like an fun game, does it?");
     ChMotion(2,4);
     VoicePlay("P530200001_02_040");
     MsgDisp("Sassa","What was it called again?
-A boring game...
-a shit game...");
+A boring game... a shit game...");
     MsgDisp("主人公","Eh?
 Hey, you can't say that kind of stuff!");
     ChEye(2,0);
@@ -59,7 +59,8 @@ Hey, you can't say that kind of stuff!");
     MsgDisp("Sassa","Then, please play as if you're playing a
 fun game!");
     MsgDisp("主人公","Hehe, I got it!");
-    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝ says.
+    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝
+says.
 Games have to be fun!)");
     break ;
     case 4:
@@ -73,17 +74,19 @@ There's a huge audience...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_070");
-    MsgDisp("Sassa","｛主人公｝, I came to listen to some
-gaming music.");
-    MsgDisp("主人公","｛颯砂＊＊｝. Thank you.");
+    MsgDisp("Sassa","｛主人公｝, I came to
+listen to some gaming music.");
+    MsgDisp("主人公","｛颯砂＊＊｝.
+Thank you.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P530200001_02_080");
     MsgDisp("Sassa","Guess it's a popular game?
 Even I know it.");
-    MsgDisp("主人公","Yeah. That's why the audience is filled
-up. I can't be nervous...");
+    MsgDisp("主人公","Yeah.
+That's why the audience is filled up.
+I can't be nervous...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -114,11 +117,11 @@ I do it to set my own records.");
     VoicePlay("P530200001_02_120");
     MsgDisp("Sassa","Your performance is meaningless if many
 people don't listen to it, right?");
-    MsgDisp("主人公","Yeah... that's right, huh. Thank you,
-｛颯砂＊＊｝!");
-    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝ says.
-For the many people who want to hear it, I
-have to give it my all!)");
+    MsgDisp("主人公","Yeah... that's right, huh.
+Thank you, ｛颯砂＊＊｝!");
+    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝
+says. For the many people who want to hear
+it, I have to give it my all!)");
     break ;
     default :
     DbgAssert(1);

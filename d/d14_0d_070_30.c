@@ -43,7 +43,8 @@ VoicePlay("D140D07030_22_020");
 MsgDisp("Hikaru","Right, right!
 I occasionally heard that a first year was
 reading library books!");
-MsgDisp("主人公","(Amazing! Like I thought, ｛本多＊＊｝
+MsgDisp("主人公","(Amazing!
+Like I thought, ｛本多＊＊｝
 really likes to study......)");
 BGMStop();
 MsgClose();

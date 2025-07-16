@@ -1,13 +1,12 @@
-MsgDisp("主人公","What kind of person does ｛ひかる＊｝
-like?");
+MsgDisp("主人公","What kind of person does
+｛ひかる＊｝ like?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_350");
 MsgDisp("Hikaru","Mari is my type▼");
-MsgDisp("主人公","That's not it, 
-I was talking about boys.");
+MsgDisp("主人公","That's not it, I was talking about boys.");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -24,7 +23,7 @@ ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_380");
 MsgDisp("Hikaru","So, my first love is yet to come.
-...It's a bit embarrassing.");
+... It's a bit embarrassing.");
 MsgDisp("主人公","Hehe!");
 ChEye(22,4);
 ChMouth(22,0);

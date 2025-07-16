@@ -9,15 +9,16 @@ So Iku-senpai is good at Shogi too.");
 VoicePlay("E010320200_03_000");
 MsgDisp("Honda?","Back when I was in elementary school I
 would play against my Dad on Saturdays.");
-MsgDisp("主人公","｛本多＊＊｝, ｛氷室＊＊｝, what are you guys
-up to?");
+MsgDisp("主人公","｛本多＊＊｝, ｛氷室＊＊｝,
+what are you guys up to?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(6);
 VoicePlay("E010320200_06_010");
-MsgDisp("Himuro","｛主人公｝, eavesdropping is impolite.");
+MsgDisp("Himuro","｛主人公｝, eavesdropping
+is impolite.");
 MsgDisp("主人公","I just happened to be passing by.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -44,8 +45,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("E010320200_03_020");
-MsgDisp("Honda","Really? Isn't Shogi better when it's
-played face to face against people?");
+MsgDisp("Honda","Really?
+Isn't Shogi better when it's played face
+to face against people?");
 MsgDisp("主人公","Ah, it would be interesting to watch the
 two of you compete.");
 ChEye(6,0);
@@ -66,7 +68,8 @@ ChMotion(3,5,1);
 ChPosition(3,0);
 VoicePlay("E010320200_03_030");
 MsgDisp("Honda","Ehh∋
-Why? Let's play at school next time!");
+Why?
+Let's play at school next time!");
 VoicePlay("E010320200_06_060");
 MsgDisp("Himuro","If we make it a rule to not talk during
 the game, I'll consider it.
@@ -85,8 +88,9 @@ MsgDisp("Honda","Banning talking is no fun.
 That old man seemed to be having fun
 listening to me too......");
 MsgDisp("主人公","(｛氷室＊＊｝ is probably avoiding
-｛本多＊＊｝ because all the chatter makes
-it hard for him to concentrate?)");
+｛本多＊＊｝ because all the
+chatter makes it hard for him to
+concentrate?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

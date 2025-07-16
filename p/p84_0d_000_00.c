@@ -6,8 +6,9 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 ScrFadeIn(0);
 VoicePlay("P840D00000_22_000");
-MsgDisp("Hikaru","Amazing. You tidied it up in an instant,
-and even served everyone tea...");
+MsgDisp("Hikaru","Amazing.
+You tidied it up in an instant, and even
+served everyone tea...");
 MsgDisp("主人公","There's enough for you guys too.
 Yes, help yourself.");
 ChEye(21,0);

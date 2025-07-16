@@ -10,8 +10,8 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Hey hey.
 You're holding my gift!");
     MsgDisp("主人公","This is your gift, ｛本多＊＊｝?
-Ah, ｛本多＊＊｝, you also got the present
-I brought.");
+Ah, ｛本多＊＊｝, you also got the
+present I brought.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -24,7 +24,8 @@ Then I'm gonna open it right now.");
     ChOpen(3,34,3,3,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("R060300003_03_020");
-    MsgDisp("Honda","｛主人公｝, you got the jackpot!");
+    MsgDisp("Honda","｛主人公｝, you got the
+jackpot!");
     MsgDisp("主人公","｛本多＊＊｝. what's the jackpot?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -33,8 +34,8 @@ Then I'm gonna open it right now.");
     MsgDisp("Honda","Your present, cause that's the one I
 picked.");
     MsgDisp("主人公","Huuh, really?
-Hey, ｛本多＊＊｝, did you know you got the
-present I brought in?");
+Hey, ｛本多＊＊｝, did you know
+you got the present I brought in?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);
@@ -46,10 +47,12 @@ okay if I open this?");
     case 4:
     case 5:
     VoicePlay("R060300003_03_050");
-    MsgDisp("Honda?","Huh∋　Seriously∋");
+    MsgDisp("Honda?","Huh∋
+Seriously∋");
     MsgClose();
     ChOpen(3,34,1,4,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. What's wrong?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+What's wrong?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0,1);
@@ -69,8 +72,8 @@ reality.");
     VoicePlay("R060300003_03_080");
     MsgDisp("Honda","Ding Ding Ding!
 Right on the money!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝, did you know that you
-also got the present I brought?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝, did you know
+that you also got the present I brought?");
     ChEye(3,5);
     ChMouth(3,4);
     ChMotion(3,5,1);

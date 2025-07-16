@@ -8,19 +8,22 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝! Are you free?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+Are you free?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("L040300000_03_000");
-    MsgDisp("Honda","Hm? What's up?");
+    MsgDisp("Honda","Hm?
+What's up?");
     SEPlay("EV_SE_665");
     SEWait();
     MsgDisp("主人公","Here you go.
 Valentine's chocolate.");
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝! Are you free?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+Are you free?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -32,8 +35,9 @@ Can I guess?");
     ChMotion(3,2);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300000_03_020");
-    MsgDisp("Honda","No! I won't. I'd be awkward if I was
-wrong.");
+    MsgDisp("Honda","No!
+I won't.
+I'd be awkward if I was wrong.");
     MsgDisp("主人公","Hehe!
 Here you go.
 Valentine's chocolate.");
@@ -42,7 +46,8 @@ Valentine's chocolate.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝! I was looking for you.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+I was looking for you.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);

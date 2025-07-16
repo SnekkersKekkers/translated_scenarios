@@ -12,7 +12,8 @@ ChMotion(5,0,1);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("B360523601_05_000");
-MsgDisp("Hiiragi","｛主人公｝, are you having fun?");
+MsgDisp("Hiiragi","｛主人公｝, are you having
+fun?");
 MsgDisp("主人公","Yeah, I didn't think you'd be able to come
 to the Night Parade today!");
 ChEye(5,4);

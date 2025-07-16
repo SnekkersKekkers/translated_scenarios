@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛御影＊＊｝, please have this
-Valentine's chocolate.");
+    MsgDisp("主人公","｛御影＊＊｝, please have
+this Valentine's chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(7,0);
@@ -29,8 +29,8 @@ no choice but to take it.");
     ChEyeOpenLevel(7,#1);
     break ;
     case 3:
-    MsgDisp("主人公","｛御影＊＊｝, will you take this
-Valentine's chocolate?");
+    MsgDisp("主人公","｛御影＊＊｝, will you
+take this Valentine's chocolate?");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(7,0);
@@ -50,19 +50,19 @@ I won't return it even if you ask, 'kay?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛御影＊＊｝, please have this
-Valentine's chocolate.");
+    MsgDisp("主人公","｛御影＊＊｝, please have
+this Valentine's chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700000_07_050");
-    MsgDisp("Mikage","Oh, I've been waiting
-for your chocolate～");
-    MsgDisp("主人公","Hehe, thanks for waiting.
-But ｛御影＊＊｝, you already got a lot
-from other girls in class, right?");
+    MsgDisp("Mikage","Oh, I've been waiting for your chocolate～");
+    MsgDisp("主人公","Hehe, thanks for waiting. But
+｛御影＊＊｝, you already
+got a lot from other girls in class,
+right?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

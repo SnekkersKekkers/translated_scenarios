@@ -51,7 +51,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200007_02_050");
-MsgDisp("Sassa","...Again, if your schedule allows...
+MsgDisp("Sassa","... Again, if your schedule allows...
 How about you take a morning walk with me?");
 MsgDisp("主人公","Haha, I'll think about it.");
 ChEye(2,0);

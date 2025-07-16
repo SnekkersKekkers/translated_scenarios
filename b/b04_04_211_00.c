@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040421100_04_010");
-    MsgDisp("Nanatsumori","ＯＫ. The animals also have facial
-expressions? Let's be sure to get a proper
-look.");
+    MsgDisp("Nanatsumori","ＯＫ.
+The animals also have facial expressions?
+Let's be sure to get a proper look.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

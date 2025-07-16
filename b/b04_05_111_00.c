@@ -42,9 +42,8 @@ name.");
     DateRateSet(2);
     ChMotion(5,2);
     VoicePlay("B040511100_05_030");
-    MsgDisp("Hiiragi","Is that so.
-Hーm...In order for us to not fall, we can
-only stand around...");
+    MsgDisp("Hiiragi","Is that so. Hーm...In order for us to not
+fall, we can only stand around...");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

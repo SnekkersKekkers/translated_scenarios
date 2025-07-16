@@ -59,21 +59,21 @@ ChOpen(2,255,3,0,3,#1,#1,0,3,0,0);
 ChOpen(1,255,0,2,2,0,#1,0,3,0,0);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, amazing∈ You got a spare!");
+MsgDisp("主人公","｛颯砂＊＊｝, amazing∈ You got a
+spare!");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A20501_02_040");
-MsgDisp("Sassa","It hit the side of 
-the 7th pin nicely!");
+MsgDisp("Sassa","It hit the side of the 7th pin nicely!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20501_01_020");
 MsgDisp("Kazama","Bravーo.
-...Geez, you couldn't at least let me win
+... Geez, you couldn't at least let me win
 in the end huh?");
 ChEyeOpenLevel(1,#1);
 ChEye(6,0);
@@ -92,8 +92,9 @@ ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A20501_02_050");
 MsgDisp("Sassa","Yeah, that was fun.");
-MsgDisp("主人公","(Yeah! Just watching it had me on the edge
-of my seat...)");
+MsgDisp("主人公","(Yeah!
+Just watching it had me on the edge of my
+seat...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

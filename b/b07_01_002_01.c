@@ -1,21 +1,22 @@
-MsgDisp("主人公","｛風真＊＊｝, recently you've been talking
-to ｛本多＊＊｝ a lot haven't you?");
+MsgDisp("主人公","｛風真＊＊｝, recently you've
+been talking to ｛本多＊＊｝ a
+lot haven't you?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_010");
-MsgDisp("Kazama","Talking? Is that really what it looks
-like?");
+MsgDisp("Kazama","Talking?
+Is that really what it looks like?");
 MsgDisp("主人公","Eh?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_020");
-MsgDisp("Kazama","That's just Honda
-one-sidedly rattling on.");
-MsgDisp("主人公","Hehe. ｛本多＊＊｝ is good at teaching
+MsgDisp("Kazama","That's just Honda one-sidedly rattling on.");
+MsgDisp("主人公","Hehe.
+｛本多＊＊｝ is good at teaching
 isn't he?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -25,7 +26,8 @@ MsgDisp("Kazama","Teaching demon more like. But he's clever
 at sparking your interest, which makes it
 worse. In the end, I still end up
 listening.");
-MsgDisp("主人公","Hehe, isn't ｛風真＊＊｝ a good listener?");
+MsgDisp("主人公","Hehe, isn't ｛風真＊＊｝ a good
+listener?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -51,7 +53,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_060");
 MsgDisp("Kazama","Well, in the end I ended up getting
 dragged into it.");
-MsgDisp("主人公","(Hehe, as I thought ｛風真＊＊｝ is a good
+MsgDisp("主人公","(Hehe, as I thought
+｛風真＊＊｝ is a good
 listener.)");
 BGMStop();
 MsgClose();

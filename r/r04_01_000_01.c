@@ -61,7 +61,8 @@ other than you and that dress.");
     VoicePlay("R040100001_01_060");
     MsgDisp("Kazama","Thanks for coming in that beautiful dress
 for me.");
-    MsgDisp("主人公","Umm...｛風真＊＊｝?");
+    MsgDisp("主人公","Umm...
+｛風真＊＊｝?");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,1);
@@ -75,8 +76,9 @@ for me.");
     ChCheek(1,0);
     VoicePlay("R040100001_01_080");
     MsgDisp("Kazama","Don't get cocky!");
-    MsgDisp("主人公","(Hehe! ｛風真＊＊｝ seems to really like
-my dress.)");
+    MsgDisp("主人公","(Hehe!
+｛風真＊＊｝ seems to really
+like my dress.)");
     break ;
     default :
     DbgAssert(1);

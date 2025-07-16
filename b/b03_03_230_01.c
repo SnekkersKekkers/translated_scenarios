@@ -101,8 +101,8 @@ Do that alone, you know.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B030323001_03_090");
-    MsgDisp("Honda","Alright! Now we can figure out how fear
-works!");
+    MsgDisp("Honda","Alright!
+Now we can figure out how fear works!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

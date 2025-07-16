@@ -6,7 +6,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("G020720300_07_000");
 MsgDisp("Mikage","Hey, can I consult you about my problems?");
-MsgDisp("主人公","Eh? 
+MsgDisp("主人公","Eh?
 Yes, it's fine with me.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -14,8 +14,7 @@ ChMotion(7,3);
 VoicePlay("G020720300_07_010");
 MsgDisp("Mikage","Well, I wonder how it would be like to get
 married?");
-MsgDisp("主人公","Ehh∋
-what's this all of a sudden?");
+MsgDisp("主人公","Ehh∋ what's this all of a sudden?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -30,7 +29,8 @@ MsgDisp("Mikage","It's a good conversation, but I don't know
 how I feel about marrying her off to an
 unknown place.");
 MsgDisp("主人公","Molly-chan is the cow that Is being raised
-on ｛御影＊＊｝'s family farm, right?");
+on ｛御影＊＊｝'s family
+farm, right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -77,8 +77,9 @@ ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("G020720300_07_100");
-MsgDisp("Mikage","Yeah. Thanks to you, I feel better now. As
-expected of the Molly of Haba High.");
+MsgDisp("Mikage","Yeah.
+Thanks to you, I feel better now.
+As expected of the Molly of Haba High.");
 MsgDisp("主人公","(Ehh?)");
 BGMStop();
 MsgClose();

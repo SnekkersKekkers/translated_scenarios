@@ -4,10 +4,10 @@ ScrFadeIn(0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("H380700000_07_000");
-MsgDisp("Mikage","｛主人公｝, making it to the Interhigh
-tournament is amazing.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝! Did you come to
-support me?");
+MsgDisp("Mikage","｛主人公｝, making it to
+the Interhigh tournament is amazing.");
+MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Did you come to support me?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -35,11 +35,13 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("H380700000_07_040");
-MsgDisp("Mikage","Hm? Shouldn't you be saying \"osu!\"? Or is
-that in karate?");
-MsgDisp("主人公","(Hehe, thanks to ｛御影＊＊｝, I feel a
-lot more relaxed......
-Alright, let's aim to win......!)");
+MsgDisp("Mikage","Hm?
+Shouldn't you be saying \"osu!\"
+? Or is that in karate?");
+MsgDisp("主人公","(Hehe, thanks to
+｛御影＊＊｝, I feel a lot
+more relaxed...... Alright, let's aim to
+win......!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

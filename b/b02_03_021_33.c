@@ -2,8 +2,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B020302133_03_000");
-MsgDisp("Honda","Mhmm. I'm reminded of how good your taste
-is.");
+MsgDisp("Honda","Mhmm.
+I'm reminded of how good your taste is.");
 MsgDisp("主人公","Huh?");
 ChEye(3,0);
 ChMouth(3,3);

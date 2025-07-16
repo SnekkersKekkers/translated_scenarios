@@ -14,7 +14,8 @@ estimation, I decided on a time and an
 area to count. There were more of them
 than when I came alone last time.");
 MsgDisp("主人公","The fireflies here are also one of
-｛本多＊＊｝'s observation subjects, huh?'");
+｛本多＊＊｝'s observation
+subjects, huh?'");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -42,8 +43,9 @@ VoicePlay("G020310305_03_050");
 MsgDisp("Honda","Oh, it's not just living things.
 This town is full of fascinating things to
 observe.");
-MsgDisp("主人公","Hehe! Then ｛本多＊＊｝ is busy everyday,
-huh?");
+MsgDisp("主人公","Hehe!
+Then ｛本多＊＊｝ is busy
+everyday, huh?");
 ChSet(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310305_03_060");
@@ -54,7 +56,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("G020310305_03_070");
-MsgDisp("Honda","Exactly. 
+MsgDisp("Honda","Exactly.
 You're my main focus these days.");
 ChEye(3,0);
 ChMouth(3,3);

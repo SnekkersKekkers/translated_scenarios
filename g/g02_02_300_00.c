@@ -27,7 +27,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020230000_02_030");
-MsgDisp("Sassa","Right? 
+MsgDisp("Sassa","Right?
 I observe those guys quite a bit.");
 ChEye(2,0);
 ChMouth(2,3);
@@ -57,8 +57,9 @@ from them, okay? It'd be hilarious if you
 said exactly the same thing again.");
 MsgDisp("主人公","Hehe, yeah!");
 MsgDisp("主人公","(｛颯砂＊＊｝ really understands
-｛風真＊＊｝ and ｛氷室＊＊｝ huh......
-......and me too.)");
+｛風真＊＊｝ and
+｛氷室＊＊｝ huh...... ......and me
+too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

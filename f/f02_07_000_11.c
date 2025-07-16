@@ -11,8 +11,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F020700011_07_000");
 MsgDisp("Mikage","That's right.");
-MsgDisp("主人公","Are you not
-looking forward to it?");
+MsgDisp("主人公","Are you not looking forward to it?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -43,8 +42,7 @@ ChMotion(7,3);
 VoicePlay("F020700011_07_040");
 MsgDisp("Mikage","Sorry, sorry.
 I'm boring you with my conversation.");
-MsgDisp("主人公","Ah, but
-you'll be able to see Molly-chan?");
+MsgDisp("主人公","Ah, but you'll be able to see Molly-chan?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

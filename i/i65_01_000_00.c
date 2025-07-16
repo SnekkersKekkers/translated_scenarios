@@ -13,13 +13,13 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650100000_01_000");
     MsgDisp("Kazama","I see, so you were the cause.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! What is it?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+What is it?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_010");
-    MsgDisp("Kazama","Your voice is drawing
-the customers in.");
+    MsgDisp("Kazama","Your voice is drawing the customers in.");
     MsgDisp("主人公","Um, I don't think......");
     ChEye(1,2);
     ChMouth(1,3);
@@ -57,13 +57,15 @@ Alright, let's work hard!)");
     ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("I650100000_01_050");
     MsgDisp("Kazama","You're energetic.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. What's up?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+What's up?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_060");
-    MsgDisp("Kazama","What. Is it that weird that I'd come to a
-gas station?");
+    MsgDisp("Kazama","What.
+Is it that weird that I'd come to a gas
+station?");
     MsgDisp("主人公","Not at all.
 But, are you refuelling something?");
     ChEye(1,0);
@@ -104,9 +106,9 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hehe, but I think only ｛風真＊＊｝ could
-be fully refueled with just a smile, you
-know?)");
+    MsgDisp("主人公","(Hehe, but I think only
+｛風真＊＊｝ could be fully
+refueled with just a smile, you know?)");
     break ;
     case 4:
     case 5:
@@ -119,20 +121,22 @@ know?)");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,255,1,1,1,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. What's up?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+What's up?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);
     VoicePlay("I650100000_01_110");
     MsgDisp("Kazama","I was in the area.
-......Hey, does that guy come often?");
+...... Hey, does that guy come often?");
     MsgDisp("主人公","Yeah, he's a regular, you know?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("I650100000_01_120");
     MsgDisp("Kazama","Hey, get a different part-time job.");
-    MsgDisp("主人公","Huh∋　Why?");
+    MsgDisp("主人公","Huh∋
+Why?");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -161,8 +165,9 @@ They're fashionable and fun old-timers.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("I650100000_01_160");
-    MsgDisp("Kazama","Ah, I see. ......Geez. Don't make me
-worry.");
+    MsgDisp("Kazama","Ah, I see.
+...... Geez.
+Don't make me worry.");
     MsgDisp("主人公","They jokingly ask me if I want a ride
 pretty often.");
     ChEye(1,0);
@@ -178,7 +183,8 @@ pretty often.");
     VoicePlay("I650100000_01_180");
     MsgDisp("Kazama","Listening? Your powers of attraction work
 on all ages. Keep your smiles at just 20%.");
-    MsgDisp("主人公","Geez!　What are you talking about?");
+    MsgDisp("主人公","Geez!
+What are you talking about?");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,3);
@@ -190,8 +196,9 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Geez...... I can't help customers with an
-angry face.)");
+    MsgDisp("主人公","(Geez......
+I can't help customers with an angry
+face.)");
     break ;
     default :
     DbgAssert(1);

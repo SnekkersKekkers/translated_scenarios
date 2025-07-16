@@ -15,14 +15,16 @@ SEWait();
 MsgDisp("主人公","Pardon the intrusion.");
 VoiceEVSPlay(5);
 VoicePlay("G110500200_05_000");
-MsgDisp("Hiiragi?","｛主人公｝, what's the matter?");
+MsgDisp("Hiiragi?","｛主人公｝, what's the
+matter?");
 BGOpen("ev005",0);
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ChOpen(5,100,0,0,1,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
-MsgDisp("主人公","Eh......｛柊＊＊＊｝,exactly why?");
+MsgDisp("主人公","Eh......
+｛柊＊＊＊｝, exactly why?");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,2);
@@ -65,7 +67,8 @@ VoicePlay("G110500200_05_050");
 MsgDisp("Hiiragi","Ah, that's the signal for the show to
 begin.");
 MsgDisp("主人公","(Even now, I think it's amazing I was able
-to perform alongside ｛柊＊＊＊｝...... )");
+to perform alongside
+｛柊＊＊＊｝...... )");
 SEStop("EV_SE_SCHOOL_002",1);
 BGMStop();
 MsgClose();

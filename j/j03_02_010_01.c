@@ -4,11 +4,14 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Ah, a phone call from ｛颯砂＊＊｝. )");
+    MsgDisp("主人公","(Ah, a phone call from
+｛颯砂＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello. ｛主人公苗字｝ speaking.");
+    MsgDisp("主人公","Hello.
+｛主人公苗字｝
+speaking.");
     VoicePlay("J030201001_02_000");
     MsgDisp("Sassa","Ah, it's me.
 I just got your message.");
@@ -18,7 +21,8 @@ Are you able to go?");
     MsgDisp("Sassa","Sorry, I have plans on that day......");
     MsgDisp("主人公","I see, that's too bad.");
     VoicePlay("J030201001_02_020");
-    MsgDisp("Sassa","Yeah. Call me again.
+    MsgDisp("Sassa","Yeah.
+Call me again.
 Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
@@ -26,7 +30,8 @@ Bye.");
 go......)");
     break ;
     case 3:
-    MsgDisp("主人公","(Ah, a phone call from ｛颯砂＊＊｝. )");    
+    MsgDisp("主人公","(Ah, a phone call from
+｛颯砂＊＊｝. )");    
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -36,8 +41,9 @@ go......)");
 I got your message earlier.");
     MsgDisp("主人公","So, what do you say?");
     VoicePlay("J030201001_02_040");
-    MsgDisp("Sassa","I can't go on that day. You went through
-the trouble of calling... Sorry");
+    MsgDisp("Sassa","I can't go on that day.
+You went through the trouble of calling...
+Sorry");
     MsgDisp("主人公","Nah, thanks for taking the time to contact
 me.");
     VoicePlay("J030201001_02_050");

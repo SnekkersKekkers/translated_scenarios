@@ -9,15 +9,18 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa! Look, ｛風真＊＊｝, it's beautiful!");
+MsgDisp("主人公","Waa!
+Look, ｛風真＊＊｝, it's
+beautiful!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B140100100_01_000");
 MsgDisp("Kazama","I'm looking at it.
 It is pretty, you included.");
-MsgDisp("主人公","Hehe! ｛風真＊＊｝, did you already know
-about this?");
+MsgDisp("主人公","Hehe!
+｛風真＊＊｝, did you already
+know about this?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -75,8 +78,8 @@ MsgDisp("Kazama","Our differences are so drastic.
 It's a bit scary not knowing what comes
 after.");
 ChMotion(1,0);
-MsgDisp("主人公","(｛風真＊＊｝... What's going to happen
-once we graduate?)");
+MsgDisp("主人公","(｛風真＊＊｝...
+What's going to happen once we graduate?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

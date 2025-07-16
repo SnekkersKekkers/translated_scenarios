@@ -36,11 +36,12 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710305_07_040");
-MsgDisp("Mikage","Remember? You were studying for tests by
-yourself after school.");
+MsgDisp("Mikage","Remember?
+You were studying for tests by yourself
+after school.");
 MsgDisp("主人公","Ah, thanks to Mikage's teachings
-｛御影＊＊｝, I learned how to study a
-bit better!");
+｛御影＊＊｝, I learned
+how to study a bit better!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -55,8 +56,8 @@ VoicePlay("G020710305_07_060");
 MsgDisp("Mikage","Listen, being kind and gentle is a great
 quality of yours, but make sure to speak
 up when you're in trouble.");
-MsgDisp("主人公","Yes. but, ｛御影＊＊｝ is always
-nearby......");
+MsgDisp("主人公","Yes. but, ｛御影＊＊｝ is
+always nearby......");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

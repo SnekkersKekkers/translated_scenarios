@@ -19,8 +19,7 @@ thank you. Farewell.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Was I a little too
-excited......?)");
+    MsgDisp("主人公","(Was I a little too excited......?)");
     break ;
     case 3:
     ChEye(5,4);
@@ -39,10 +38,10 @@ Thank you for going out of your way.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("L040500002_05_040");
-    MsgDisp("Hiiragi","Haha. Was my reaction enough to justify
-the expense?");
-    MsgDisp("主人公","Hm,
-it was alright, I suppose?");
+    MsgDisp("Hiiragi","Haha.
+Was my reaction enough to justify the
+expense?");
+    MsgDisp("主人公","Hm, it was alright, I suppose?");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,0);
@@ -60,8 +59,8 @@ the taste.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Thank goodness, ｛柊＊＊＊｝ seems
-happy!)");
+    MsgDisp("主人公","(Thank goodness, ｛柊＊＊＊｝
+seems happy!)");
     break ;
     case 4:
     case 5:
@@ -87,7 +86,8 @@ this.");
     MsgDisp("Hiiragi","This chocolate is the fruit of your time
 and effort.
 That makes me very happy.");
-    MsgDisp("主人公","｛柊＊＊＊｝, you're exaggerating a bit.");
+    MsgDisp("主人公","｛柊＊＊＊｝, you're
+exaggerating a bit.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -100,7 +100,8 @@ important. You gave me your time.");
     ChMotion(5,4);
     VoicePlay("L040500002_05_110");
     MsgDisp("Hiiragi","And...... would you give me your time to
-eat this as well? Let us eat it together.");
+eat this as well?
+Let us eat it together.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

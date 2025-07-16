@@ -26,7 +26,8 @@ ScrFadeIn(0);
 VoicePlay("G110200500_02_010");
 MsgDisp("Sassa","Yeah.
 You look like a fine athlete.");
-MsgDisp("主人公","Haa......｛颯砂＊＊｝, you're a bit fast
+MsgDisp("主人公","Haa......
+｛颯砂＊＊｝, you're a bit fast
 today......");
 ChEye(2,0);
 ChMouth(2,0);
@@ -34,7 +35,8 @@ ChMotion(2,0);
 VoicePlay("G110200500_02_020");
 MsgDisp("Sassa","Yes I'm serious today too.
 But, you're doing completely fine.");
-MsgDisp("主人公","Y-Yeah. Somewhat.");
+MsgDisp("主人公","Y-Yeah.
+Somewhat.");
 MsgDisp("主人公","(｛颯砂＊＊｝, I wonder if he's really
 running all out......
 His mouth, is he smiling?)");
@@ -48,8 +50,8 @@ while (1){
     ChEye(2,1);
     ChMouth(2,0);
     ChMotion(2,1);
-    MsgDisp("Sassa","Haha! You're jumping around like that with
-ease.");
+    MsgDisp("Sassa","Haha!
+You're jumping around like that with ease.");
     }
 VoicePlay("G110200500_02_030");
 ChEye(2,1);
@@ -84,7 +86,8 @@ BGMStop();
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(I always work out, so I can run with
-ease! But, don't sleep, ｛颯砂＊＊｝... )");
+ease!
+But, don't sleep, ｛颯砂＊＊｝... )");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

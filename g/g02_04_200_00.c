@@ -32,8 +32,7 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020420000_04_050");
-MsgDisp("Nanatsumori","......In what way, 
-do you see me?");
+MsgDisp("Nanatsumori","......In what way, do you see me?");
 MsgDisp("主人公","That......");
 ChEye(4,2);
 ChMouth(4,0);
@@ -51,7 +50,7 @@ MsgDisp("主人公","That's ......");
 ChEye(4,0);
 ChMouth(4,1);
 VoicePlay("G020420000_04_080");
-MsgDisp("Nanatsumori","......Crap.
+MsgDisp("Nanatsumori","...... Crap.
 This question feels awkward.");
 ChEye(4,0);
 ChMouth(4,0);

@@ -1,4 +1,5 @@
-MsgDisp("主人公","(...Ah!
+MsgDisp("主人公","(...
+Ah!
 I don't have enough pocket money!)");
 ChEye(1,0);
 ChMouth(1,3);
@@ -23,7 +24,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140200000_02_030");
-MsgDisp("Sassa","Haha. Looks like you're broke right now.
+MsgDisp("Sassa","Haha.
+Looks like you're broke right now.
 I'll invite you another time then.");
 BGMStop();
 ChClose(2,0,30);

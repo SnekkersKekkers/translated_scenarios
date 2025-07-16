@@ -9,8 +9,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Thank you for walking me home.");
 ChMotion(5,2);
 VoicePlay("B080500002_05_000");
-MsgDisp("Hiiragi","No, then...
-huh?");
+MsgDisp("Hiiragi","No, then... huh?");
 Wait(30,0);
 ChEye(5,0);
 ChMouth(5,0);

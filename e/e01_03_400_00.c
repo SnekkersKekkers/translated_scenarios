@@ -4,8 +4,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Yeah, I think it's time to go home now.
 Wait, over there, is that......)");
 VoicePlay("E010340000_22_000");
-MsgDisp("Hikaru?","Because～...... I don't like being called
-that!");
+MsgDisp("Hikaru?","Because～......
+I don't like being called that!");
 VoicePlay("E010340000_03_000");
 MsgDisp("Honda?","Do you not like it?
 Pika-chan.");
@@ -91,7 +91,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Chiru-chan...... He's talking about
-｛みちる＊｝, right? That seems like it
-could be a problem too......)");
+｛みちる＊｝, right? That
+seems like it could be a problem
+too......)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,14 +6,16 @@ ChMotion(3,5,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B050300300_03_000");
-MsgDisp("Honda","Huh? Wait a minute......");
+MsgDisp("Honda","Huh?
+Wait a minute......");
 MsgDisp("主人公","What's wrong?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("B050300300_03_010");
-MsgDisp("Honda","It looks like one is missing.
-１, ２, ３......Like I thought.");
+MsgDisp("Honda","It looks like one is missing. １, ２,
+３......
+Like I thought.");
 MsgDisp("主人公","?");
 ChEye(3,2);
 ChMouth(3,4);
@@ -77,8 +79,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B050300300_03_090");
-MsgDisp("Honda","Yeah......But the rest of them are still
-here.
+MsgDisp("Honda","Yeah......
+But the rest of them are still here.
 So let's come and feed them again!");
 ChEye(3,0);
 ChMouth(3,3);

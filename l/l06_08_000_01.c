@@ -7,7 +7,8 @@ ChOpen(8,254,0,0,4,#1,#1,4,0);
 VoiceEVSPlay(8);
 VoicePlay("L060800001_08_000");
 MsgDisp("Shirahane","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛大地＊＊｝! What's up?");
+MsgDisp("主人公","Ah, ｛大地＊＊｝!
+What's up?");
 ChEye(8,3);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
@@ -40,8 +41,9 @@ ChEyeOpenLevel(8,0);
 SEPlay("EV_SE_665");
 SEWait();
 VoicePlay("L060800001_08_030");
-MsgDisp("Shirahane","Heheh. Here it is. I hope you end up
-likin' it.");
+MsgDisp("Shirahane","Heheh.
+Here it is.
+I hope you end up likin' it.");
 MsgDisp("主人公","Huh, a present?
 Thanks......!");
 ChEye(8,4);

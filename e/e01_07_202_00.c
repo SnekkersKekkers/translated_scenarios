@@ -1,7 +1,8 @@
 ChLayout(1);
 BGOpen("wf000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, I guess it's time to go home. Huh?
+MsgDisp("主人公","(Well, I guess it's time to go home.
+Huh?
 What's that on the other side——)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
@@ -9,8 +10,9 @@ SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(2,255,0,0,4,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛御影＊＊｝, ｛颯砂＊＊｝! Are you two
-out together?");
+MsgDisp("主人公","｛御影＊＊｝,
+｛颯砂＊＊｝!
+Are you two out together?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

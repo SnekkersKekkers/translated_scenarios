@@ -58,7 +58,7 @@ carried away.");
         ChEyeOpenLevel(6,7);
         VoicePlay("B040608302_06_040");
         MsgDisp("Himuro","............");
-        MsgDisp("主人公","? What's wrong? ");
+        MsgDisp("主人公","? What's wrong?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -77,7 +77,7 @@ But it's alright——");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040608302_06_060");
-        MsgDisp("Himuro","...You're sweating quite a bit too.
+        MsgDisp("Himuro","... You're sweating quite a bit too.
 Let's move to the shade.
 You'd better hydrate properly.");
         ChEye(6,0);
@@ -86,7 +86,8 @@ You'd better hydrate properly.");
         VoicePlay("B040608302_06_070");
         MsgDisp("Himuro","That's right, loosen the clothes around
 your neck.");
-        MsgDisp("主人公","Yeah...Eh?");
+        MsgDisp("主人公","Yeah...
+Eh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

@@ -6,8 +6,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423501_04_000");
-MsgDisp("Nanatsumori","I'd like to try being
-a ghost extra...");
+MsgDisp("Nanatsumori","I'd like to try being a ghost extra...");
 MsgSel("L-Looks like you're serious about it...","Would you want to be a Japanese style or Western style ghost?","Would it be aright with the agency?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040423501_04_010");
-    MsgDisp("Nanatsumori","Hehe... I believe I can scare you with
-100％ confidence...");
+    MsgDisp("Nanatsumori","Hehe...
+I believe I can scare you with 100％
+confidence...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,8 +39,7 @@ I'd like to try being both.");
     ChEye(4,2);
     ChMouth(4,2);
     VoicePlay("B040423501_04_030");
-    MsgDisp("Nanatsumori","No, I wasn't 
-expecting a serious answer...");
+    MsgDisp("Nanatsumori","No, I wasn't expecting a serious answer...");
     MsgDateResultDisp();
     break ;
     default :

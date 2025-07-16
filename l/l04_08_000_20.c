@@ -5,45 +5,50 @@ switch (ChPrmGet(8,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah...... there! ｛大地＊＊｝!");
+    MsgDisp("主人公","Ah...... there!
+｛大地＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(8);
     VoicePlay("L040800000_08_000");
-    MsgDisp("Shirahane","｛主人公｝. Hm, what's the matter with
-you today?");
+    MsgDisp("Shirahane","｛主人公｝.
+Hm, what's the matter with you today?");
     MsgDisp("主人公","Um, today's Valentine's, so I came to give
 you chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛大地＊＊｝, there you are!");
+    MsgDisp("主人公","Ah, ｛大地＊＊｝, there you
+are!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(8);
     VoicePlay("L040800000_08_010");
-    MsgDisp("Shirahane","｛主人公｝. What's the matter? Need
-somethin' with me?");
+    MsgDisp("Shirahane","｛主人公｝.
+What's the matter?
+Need somethin' with me?");
     MsgDisp("主人公","Yeah, something to do with you,
 ｛大地＊＊｝.");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("L040800000_08_020");
-    MsgDisp("Shirahane","Huh...... Did we have somethin'
-planned......?");
-    MsgDisp("主人公","Hehe! Here you go. I brought you
-Valentine's chocolate.");
+    MsgDisp("Shirahane","Huh......
+Did we have somethin' planned......?");
+    MsgDisp("主人公","Hehe!
+Here you go.
+I brought you Valentine's chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(8,0);
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("L040800000_08_030");
-    MsgDisp("Shirahane","Huh...... For me?
+    MsgDisp("Shirahane","Huh......
+For me?
 Yay!");
     break ;
     case 4:
@@ -54,7 +59,8 @@ Yay!");
     ChOpen(8,254,0,4,4,#1,#1,6,0);
     VoicePlay("L040800000_08_040");
     VoiceEVSPlay(8);
-    MsgDisp("Shirahane","Ah...... ｛主人公｝.");
+    MsgDisp("Shirahane","Ah......
+｛主人公｝.");
     MsgDisp("主人公","Thank goodness you're here.
 I have something I want to give you,
 ｛大地＊＊｝.");
@@ -79,7 +85,8 @@ Valentine's chocolate!");
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800000_08_070");
     MsgDisp("Shirahane","Actually, I was really lookin' forward t'
-this. Heheh!");
+this.
+Heheh!");
     break ;
     default :
     DbgAssert(1);

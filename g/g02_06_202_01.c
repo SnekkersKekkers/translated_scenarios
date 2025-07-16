@@ -24,8 +24,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_030");
 MsgDisp("Himuro","It's about Nozomu-senpai.
-You're getting......
-along with him now, aren't you?");
+You're getting...... along with him now,
+aren't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -37,8 +37,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620200_06_050");
-MsgDisp("Himuro","......Sorry. That was a nasty thing to
-say.");
+MsgDisp("Himuro","...... Sorry.
+That was a nasty thing to say.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -80,7 +80,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_110");
-MsgDisp("Himuro","......But don't get me wrong.
+MsgDisp("Himuro","...... But don't get me wrong.
 This isn't a declaration of defeat.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -23,8 +23,9 @@ I hope it holds up until the end.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("P230100001_01_010");
-    MsgDisp("Kazama","Right. This must be how a parent feels
-watching after their own child.");
+    MsgDisp("Kazama","Right.
+This must be how a parent feels watching
+after their own child.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);

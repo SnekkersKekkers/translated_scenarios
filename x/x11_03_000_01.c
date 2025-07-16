@@ -24,7 +24,8 @@ Thanks for your support!");
     MsgDisp("Honda","I heard it!
 The track and field team, they said many
 new records were set.");
-    MsgDisp("主人公","｛本多＊＊｝. Yeah, I know!");
+    MsgDisp("主人公","｛本多＊＊｝.
+Yeah, I know!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1);

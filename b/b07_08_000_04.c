@@ -1,4 +1,5 @@
-MsgDisp("主人公","｛大地＊＊｝, do you listen to music?");
+MsgDisp("主人公","｛大地＊＊｝, do you listen to
+music?");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,2,1);
@@ -23,8 +24,9 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_190");
-MsgDisp("Shirahane","Oh... By the way, I like listening ta
-music, but singing is a bit...");
+MsgDisp("Shirahane","Oh...
+By the way, I like listening ta music, but
+singing is a bit...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -44,8 +46,8 @@ ChMouth(8,3);
 VoicePlay("B070800000_08_220");
 MsgDisp("Shirahane","I'm surprisingly more on the ball when I
 can hear music than when it's quiet.");
-MsgDisp("主人公","(I see...
-he listens to a wide range of music.
+MsgDisp("主人公","(I see... he listens to a wide range of
+music.
 I wonder if he doesn't like singing?)");
 BGMStop();
 MsgClose();

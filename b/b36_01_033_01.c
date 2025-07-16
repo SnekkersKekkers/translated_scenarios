@@ -13,8 +13,7 @@ ChMotion(1,1);
 VoicePlay("B360103301_01_000");
 MsgDisp("Kazama","Looking at it again, this place is quite
 intricately decorated.");
-MsgDisp("主人公","Ehh, did you only 
-notice this now?");
+MsgDisp("主人公","Ehh, did you only notice this now?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -23,14 +22,13 @@ VoicePlay("B360103301_01_010");
 MsgDisp("Kazama","That's right.
 I'm not restlessly looking around like you
 are, I'm always concentrated.");
-MsgDisp("主人公","But there's so much 
-interesting fish here?");
+MsgDisp("主人公","But there's so much interesting fish here?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360103301_01_020");
-MsgDisp("Kazama","Right. Well, to me you're much more
-interesting.");
+MsgDisp("Kazama","Right.
+Well, to me you're much more interesting.");
 MsgDisp("主人公","Ehh?
 That's cruel.");
 ChEye(1,4);
@@ -39,8 +37,9 @@ ChMotion(1,0);
 VoicePlay("B360103301_01_030");
 MsgDisp("Kazama","I'm not calling you weird, I'm calling you
 cute.");
-MsgDisp("主人公","Hmmph. But, are you saying the fish here
-aren't cute?");
+MsgDisp("主人公","Hmmph.
+But, are you saying the fish here aren't
+cute?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

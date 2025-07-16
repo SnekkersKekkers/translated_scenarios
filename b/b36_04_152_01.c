@@ -12,10 +12,12 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B360415201_04_000");
 MsgDisp("Nanatsumori","Alright, got it!");
-MsgDisp("主人公","｛七ツ森＊｝, you're good at darts.");
+MsgDisp("主人公","｛七ツ森＊｝, you're good
+at darts.");
 ChMotion(4,0,1);
 VoicePlay("B360415201_04_010");
-MsgDisp("Nanatsumori","Really? I think I'm just average though.
+MsgDisp("Nanatsumori","Really?
+I think I'm just average though.
 Let's take a little break.");
 MsgDisp("主人公","Yeah.");
 ChEye(4,0);
@@ -44,8 +46,9 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B360415201_04_050");
-MsgDisp("Nanatsumori","Ugh... When you say that, I kinda feel
-seriously bad for them.");
+MsgDisp("Nanatsumori","Ugh...
+When you say that, I kinda feel seriously
+bad for them.");
 MsgDisp("主人公","...We are doing something bad after all,
 huh?");
 ChEye(4,0);
@@ -56,8 +59,7 @@ MsgDisp("Nanatsumori","You're not at fault at all.
 You can rest assured.");
 ChMotion(4,2,1);
 VoicePlay("B360415201_04_070");
-MsgDisp("Nanatsumori","If this makes them resent 
-me then...");
+MsgDisp("Nanatsumori","If this makes them resent me then...");
 ChMotion(4,0,1);
 VoicePlay("B360415201_04_080");
 MsgDisp("Nanatsumori","That means the rival battle is about to

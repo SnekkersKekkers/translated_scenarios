@@ -1,4 +1,5 @@
-MsgDisp("主人公","What's ｛颯砂＊＊｝'s favorite food?");
+MsgDisp("主人公","What's ｛颯砂＊＊｝'s favorite
+food?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -33,7 +34,8 @@ ChMotion(2,3);
 ChEyeOpenLevel(2,7);
 VoicePlay("B070200000_02_100");
 MsgDisp("Sassa","Avoiding it, huh?");
-MsgDisp("主人公","(So ｛颯砂＊＊｝ likes udon......)");
+MsgDisp("主人公","(So ｛颯砂＊＊｝ likes
+udon......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

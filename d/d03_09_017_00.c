@@ -38,9 +38,8 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901700_09_020");
-MsgDisp("Kuya","But you know......I'm sorry.
-Even though it's Christmas, I didn't bring
-you a gift.");
+MsgDisp("Kuya","But you know......I'm sorry. Even though
+it's Christmas, I didn't bring you a gift.");
 MsgDisp("主人公","It's fine.
 I didn't bring anything either.");
 MsgClose();
@@ -129,8 +128,7 @@ ChEyeOpenLevel(9,6);
 VoicePlay("D030901700_09_130");
 MsgDisp("Kuya","And that already happened, huh?
 We kissed once.");
-MsgDisp("主人公","!
-That was......");
+MsgDisp("主人公","! That was......");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -143,7 +141,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901700_09_150");
 MsgDisp("Kuya","I'm really happy I met you.
-......Merry Christmas.");
+...... Merry Christmas.");
 MsgDisp("主人公","Merry Christmas, Kuya-san.");
 MsgClose();
 ScrFadeOut(0);
@@ -164,8 +162,8 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030901700_09_170");
 MsgDisp("Kuya","The next time we meet, it will finally be
 over.");
-MsgDisp("主人公","(Kuya-san......
-\"Be over\"......maybe he means the exam?
+MsgDisp("主人公","(Kuya-san...... \"
+Be over\"...... maybe he means the exam?
 I have to work hard too.)");
 BGMStop();
 MsgClose();

@@ -20,8 +20,9 @@ gift!)");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R060200005_02_010");
-    MsgDisp("Sassa","Woah! You picked this for me, huh. I like
-this gift, then.");
+    MsgDisp("Sassa","Woah!
+You picked this for me, huh.
+I like this gift, then.");
     MsgDisp("主人公","(It seems like he is really happy with my
 gift!)");
     break ;

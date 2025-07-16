@@ -31,10 +31,11 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_040");
-MsgDisp("Kazama","And ......this one!
+MsgDisp("Kazama","And ...... this one!
 Flying around us with this delicate
 distance, that's Inori Firefly.");
-MsgDisp("主人公","Hehe. The, what about ｛風真＊＊｝
+MsgDisp("主人公","Hehe.
+The, what about ｛風真＊＊｝
 firefly?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -54,8 +55,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_070");
 MsgDisp("Kazama","......Well, being here alone with
-you......
-means we're in a dominant position, right?");
+you...... means we're in a dominant
+position, right?");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -73,8 +74,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110100_01_100");
-MsgDisp("Kazama","Listen. Even if I were a firefly, I'd
-still reach you first.");
+MsgDisp("Kazama","Listen.
+Even if I were a firefly, I'd still reach
+you first.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

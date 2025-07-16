@@ -52,7 +52,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020120300_01_060");
-MsgDisp("Kazama","Yes! That answer gets a perfect 100!");
+MsgDisp("Kazama","Yes!
+That answer gets a perfect 100!");
 MsgDisp("主人公","Hahah, you look really good in an apron
 after all, ｛風真＊＊｝.");
 ChEye(1,2);
@@ -75,8 +76,8 @@ VoicePlay("G020120300_01_090");
 MsgDisp("Kazama","But you better get ready.
 I'm going to start wearing aprons in all
 sorts of colors to our dates from now on.");
-MsgDisp("主人公","(A colorful ｛風真＊＊｝ might be a bit
-like these fireflies......)");
+MsgDisp("主人公","(A colorful ｛風真＊＊｝ might
+be a bit like these fireflies......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

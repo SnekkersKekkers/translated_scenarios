@@ -23,7 +23,8 @@ It's thanks to you♪");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Yay! I'm truly glad I gave it my best
-these last three years!)");
+MsgDisp("主人公","(Yay!
+I'm truly glad I gave it my best these
+last three years!)");
 MsgClose();
 ScrFadeOut(0);

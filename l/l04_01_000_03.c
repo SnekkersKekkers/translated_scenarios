@@ -29,8 +29,7 @@ Thank goodness!)");
     ChMouth(1,1);
     ChMotion(1,0);
     VoicePlay("L040100003_01_020");
-    MsgDisp("Kazama","This is......
-handmade, right?");
+    MsgDisp("Kazama","This is...... handmade, right?");
     MsgDisp("主人公","Yeah, I did my best.");
     ChEye(1,0);
     ChMouth(1,3);

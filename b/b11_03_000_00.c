@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm... looks like ｛本多＊＊｝ isn't here
-yet.");
+MsgDisp("主人公","Hm... looks like ｛本多＊＊｝
+isn't here yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -13,8 +13,7 @@ ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110300000_33_000");
 MsgDisp("Guy","Another lost child.
 Don't worry, I'm here.");
-MsgDisp("主人公","∋
-Er..?");
+MsgDisp("主人公","∋ Er..?");
 ChEye(33,0);
 ChMouth(33,0);
 ChEyeOpenLevel(33,8);
@@ -43,24 +42,27 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110300000_33_020");
-MsgDisp("Guy","W-What's with you... ugh. I can only
-handle one person at a time.");
+MsgDisp("Guy","W-What's with you... ugh.
+I can only handle one person at a time.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 MsgDispSksp(1,5);
 VoiceEVSPlay(3);
 VoicePlay("B110300000_03_020");
-MsgDisp("Honda","｛主人公｝. If it's just one, you'll
-let me go first, right?");
+MsgDisp("Honda","｛主人公｝.
+If it's just one, you'll let me go first,
+right?");
 MsgDispSksp(0);
-MsgDisp("主人公","Huh? Sure... go ahead!");
+MsgDisp("主人公","Huh?
+Sure... go ahead!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 MsgDispSksp(1,5);
 VoicePlay("B110300000_03_030");
-MsgDisp("Honda","Alrighty! Looking forward to it!");
+MsgDisp("Honda","Alrighty!
+Looking forward to it!");
 MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);

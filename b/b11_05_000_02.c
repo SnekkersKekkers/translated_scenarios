@@ -7,7 +7,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("B110500002_35_000");
-MsgDisp("?Boy","Ehh? The girl I approached was a member of
+MsgDisp("?Boy","Ehh?
+The girl I approached was a member of
 Habataki Theatre Troupe～?");
 VoicePlay("B110500002_35_010");
 MsgDisp("?Boy","That makes it easier, right? Theatre is
@@ -55,7 +56,8 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110500002_35_050");
-MsgDisp("Guy","Hm? Really～?");
+MsgDisp("Guy","Hm?
+Really～?");
 MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,0);
@@ -66,8 +68,9 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,1);
 VoicePlay("B110500002_35_060");
-MsgDisp("Guy","Ehh? You're messing with me. Hey, stop
-pulling my leg～!");
+MsgDisp("Guy","Ehh?
+You're messing with me.
+Hey, stop pulling my leg～!");
 MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,0);
@@ -92,8 +95,9 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B110500002_05_040");
-MsgDisp("Hiiragi","Haa... I'm sorry, that was my fault for
-being late.");
+MsgDisp("Hiiragi","Haa...
+I'm sorry, that was my fault for being
+late.");
 MsgDisp("主人公","No, it's alright.
 But I ended up looking like a member of
 the Habataki Theatre Company...");

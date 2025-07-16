@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("B060400004_04_000");
     MsgDisp("Nanatsumori","Be careful on your way home.
-...Haa～");
+... Haa～");
     MsgDispSksp(0);
     break ;
     case 3:
@@ -37,7 +37,7 @@ Let's both cheer up.");
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B060400004_04_020");
-    MsgDisp("Nanatsumori","It's my fault...sorry.
+    MsgDisp("Nanatsumori","It's my fault... sorry.
 I know you were working hard to make this
 a good time.");
     MsgDispSksp(0);

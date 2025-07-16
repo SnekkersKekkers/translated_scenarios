@@ -12,9 +12,9 @@ switch (ChPrmGet(6,6)){
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550600000_06_010");
-    MsgDisp("Himuro","5 daifuku and 5 mitarashi dango,
-please.");
-    MsgDisp("主人公","Very well. ......Wait, ｛氷室＊＊｝∋");
+    MsgDisp("Himuro","5 daifuku and 5 mitarashi dango, please.");
+    MsgDisp("主人公","Very well.
+...... Wait, ｛氷室＊＊｝∋");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -48,8 +48,7 @@ It's for guests.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(I guess he was running
-an errand......?)");
+    MsgDisp("主人公","(I guess he was running an errand......?)");
     break ;
     case 3:
     MsgClose();
@@ -62,8 +61,9 @@ an errand......?)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I550600000_06_070");
-    MsgDisp("Himuro","What? You look surprised. Am I not allowed
-here?");
+    MsgDisp("Himuro","What?
+You look surprised.
+Am I not allowed here?");
     MsgDisp("主人公","No way!
 Welcome.");
     ChEye(6,0);
@@ -85,8 +85,7 @@ tasty seasonal fruit inside.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I550600000_06_100");
-    MsgDisp("Himuro","How many are you going to
-make me eat?");
+    MsgDisp("Himuro","How many are you going to make me eat?");
     MsgDisp("主人公","I see.
 I'll get it ready now.");
     MsgDisp("","　　　　　　　　　　 ・
@@ -104,8 +103,8 @@ Well, work hard.");
     BGMStop();
     ChClose(6);
     MsgDisp("主人公","(I guess he's having a snack?
-｛氷室＊＊｝ eating Japanese sweets might be
-a little surprising......)");
+｛氷室＊＊｝ eating Japanese sweets
+might be a little surprising......)");
     break ;
     case 4:
     case 5:
@@ -116,15 +115,16 @@ a little surprising......)");
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550600000_06_120");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Welcome.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I550600000_06_130");
     MsgDisp("Himuro","This place is always busy.");
     MsgDisp("主人公","Yes, I'm thankful for that.
-But ｛氷室＊＊｝, do you come here that
-often?");
+But ｛氷室＊＊｝, do you come here
+that often?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -154,7 +154,7 @@ How are these?");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("I550600000_06_170");
-    MsgDisp("Himuro","......Yeah.
+    MsgDisp("Himuro","...... Yeah.
 Good choices.");
     MsgDisp("主人公","Hehe, I'm glad.");
     ChEye(6,0);
@@ -176,13 +176,13 @@ Just means you've gotten good at this.");
     ChMotion(6,0);
     VoicePlay("I550600000_06_200");
     MsgDisp("Himuro","Well, see you.
-......Keep up the good work.");
+...... Keep up the good work.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(Could it be that ｛氷室＊＊｝ came to cheer
-me on?)");
+    MsgDisp("主人公","(Could it be that ｛氷室＊＊｝ came
+to cheer me on?)");
     break ;
     default :
     DbgAssert(1);

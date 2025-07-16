@@ -2,8 +2,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("D140401161_04_000");
-MsgDisp("Nanatsumori","Ah, you got the Perfect Score Anpan
-too.");
+MsgDisp("Nanatsumori","Ah, you got the Perfect Score Anpan too.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);

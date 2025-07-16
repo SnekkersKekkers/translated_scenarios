@@ -15,8 +15,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("B330A10500_01_000");
-MsgDisp("Kazama","｛主人公｝, who do you want to hear
-sing?");
+MsgDisp("Kazama","｛主人公｝, who do you
+want to hear sing?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -42,8 +42,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("B330A10500_02_010");
-MsgDisp("Sassa","That's just how Inori is, 
-like a kid.");
+MsgDisp("Sassa","That's just how Inori is, like a kid.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -57,8 +56,8 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10500_06_020");
 MsgDisp("Himuro","Ha?
-I can sing. Come on, 
-pick a song.");
+I can sing.
+Come on, pick a song.");
 ChEye(1,0);
 ChEyeOpenLevel(1,8);
 MsgDisp("主人公","(Both of them are good at handling
@@ -85,8 +84,9 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10500_01_030");
-MsgDisp("Kazama","Right? Even if we sang about love, and
-romance and whatnot with this group...");
+MsgDisp("Kazama","Right?
+Even if we sang about love, and romance
+and whatnot with this group...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
@@ -103,9 +103,10 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoiceEVSPlay(1);
 VoicePlay("B330A10500_01_040");
-MsgDisp("Kazama","｛主人公｝, choose already. If we keep
-up like this, we'll have run out of time
-without having sung a single song.");
+MsgDisp("Kazama","｛主人公｝, choose
+already. If we keep up like this, we'll
+have run out of time without having sung a
+single song.");
 MsgDisp("主人公","Umm...
 Then how about Haba High's anthem?");
 ChMouth(1,0);

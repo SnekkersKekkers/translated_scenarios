@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(1,255,0,2,2,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123302_01_000");
-MsgDisp("Kazama","Haa... I get it, 
-you like this don't you?");
+MsgDisp("Kazama","Haa...
+I get it, you like this don't you?");
 MsgSel("I like watching ｛風真＊＊｝ jump.","It's scary, but that's what makes it addictive...","Maybe... I like it?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -21,8 +21,7 @@ switch (MsgSelRsltGet()){
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123302_01_010");
-        MsgDisp("Kazama","Well,
-I don't like watching you jump.");
+        MsgDisp("Kazama","Well, I don't like watching you jump.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -75,8 +74,8 @@ Let's go.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);
         SEWait();
-        MsgDisp("主人公","(｛風真＊＊｝ thank you for always
-worrying about me.)");
+        MsgDisp("主人公","(｛風真＊＊｝ thank you for always worrying
+about me.)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);

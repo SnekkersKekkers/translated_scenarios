@@ -1,7 +1,7 @@
 BGOpen("sc810",0);
 ChLayout(1);
-MsgDisp("主人公","(｛みちる＊｝ and ｛ひかる＊｝
-are......
+MsgDisp("主人公","(｛みちる＊｝ and
+｛ひかる＊｝ are......
 Ah, there!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -9,7 +9,8 @@ Wait(40,0);
 ChOpen(21,254,0,0,0,#1,#1,0,1);
 SEPlay("EV_SE_544");
 ChOpen(22,254,0,0,3,#1,#1,0,2);
-MsgDisp("主人公","Good morning! ｛みちる＊｝,
+MsgDisp("主人公","Good morning!
+｛みちる＊｝,
 ｛ひかる＊｝.");
 ChMotion(21,3);
 VoicePlay("Q090D00000_21_000");
@@ -19,8 +20,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q090D00000_22_000");
-MsgDisp("Hikaru","Yeah! I want to visit souvenir shops and
-stuff!");
+MsgDisp("Hikaru","Yeah!
+I want to visit souvenir shops and stuff!");
 MsgDisp("主人公","Right.
 Well, let's get going, shall we?");
 ChEye(22,3);

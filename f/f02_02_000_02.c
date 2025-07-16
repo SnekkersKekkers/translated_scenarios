@@ -34,7 +34,8 @@ VoicePlay("F020200002_02_030");
 MsgDisp("Sassa","But I heard he's assembling a team of
 exceptional players and putting them in
 special training at the church.");
-MsgDisp("主人公","Huh? ｛颯砂＊＊｝, are you one of them?");
+MsgDisp("主人公","Huh?
+｛颯砂＊＊｝, are you one of them?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -56,5 +57,6 @@ VoicePlay("F020200002_02_060");
 MsgDisp("Sassa","Come on.
 It's not a manga, so no matter how fast
 you run, a dust cloud won't appear.");
-MsgDisp("主人公","(...We had fun going home, while
-discussing that story.)");
+MsgDisp("主人公","(...
+We had fun going home, while discussing
+that story.)");

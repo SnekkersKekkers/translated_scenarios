@@ -27,8 +27,7 @@ I'm glad.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040722200_07_020");
-    MsgDisp("Mikage","Hmm, I'll keep that in mind
-for next time.");
+    MsgDisp("Mikage","Hmm, I'll keep that in mind for next time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -17,7 +17,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, here it is!");
 VoicePlay("D010700100_07_000");
 MsgDisp("Mikage?","Woah, you did it!");
-MsgDisp("主人公","(Hm? That voice coming from the prep
+MsgDisp("主人公","(Hm?
+That voice coming from the prep
 room......)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -33,7 +34,8 @@ MsgDisp("Mikage?","You did it, Molly!∈");
 MsgClose();
 SEPlay("EV_SE_544",0,0.4);
 ChOpen(7,37,0,0,3,#1,#1,0,0);
-MsgDisp("主人公","｛御影＊＊｝. Did something happen?");
+MsgDisp("主人公","｛御影＊＊｝.
+Did something happen?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -54,7 +56,8 @@ VoicePlay("D010700100_07_030");
 MsgDisp("Mikage","Here, take a look.
 Isn't she cute?");
 StlEye(7,1);
-MsgDisp("主人公","She really is......! ｛御影＊＊｝,
+MsgDisp("主人公","She really is......!
+｛御影＊＊｝,
 congratulations!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700100_07_040");
@@ -62,13 +65,12 @@ MsgDisp("Mikage","Ahh, thank you!
 She did such a great job～");
 StlEye(7,0);
 VoicePlay("D010700100_07_050");
-MsgDisp("Mikage","Look at her eyes.
-They look just like Molly's.
-Pitch black and huge......Right?");
+MsgDisp("Mikage","Look at her eyes. They look just like
+Molly's. Pitch black and huge......Right?");
 MsgDisp("主人公","Yeah!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700100_07_060");
-MsgDisp("Mikage","......She kind of reminds me of you.
+MsgDisp("Mikage","...... She kind of reminds me of you.
 Kind of teary-eyed.");
 MsgDisp("主人公","Eh?");
 MsgClose();
@@ -80,8 +82,9 @@ MsgClose();
 ChOpen(7,37,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700100_07_070");
-MsgDisp("Mikage","Huh......Come to think of it, why did you
-come running over here?");
+MsgDisp("Mikage","Huh......
+Come to think of it, why did you come
+running over here?");
 MsgDisp("主人公","I came to get something I forgot and then
 I heard your voice so......");
 ChEye(7,0);
@@ -124,8 +127,7 @@ VoicePlay("D010700100_07_120");
 MsgDisp("Mikage","Right. I'll put some pictures up of Molly
 and her baby. Come check them out anytime!");
 MsgDisp("主人公","Ah, okay.");
-MsgDisp("主人公","(｛御影＊＊｝ has things to do,
-huh......?
+MsgDisp("主人公","(｛御影＊＊｝ has things to do, huh......?
 Does he mean something besides teaching?)");
 BGMStop();
 MsgClose();

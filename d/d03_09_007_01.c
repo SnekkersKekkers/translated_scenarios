@@ -5,9 +5,10 @@ BGOpen("wf200",1);
 MsgClose();
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Wow...... The sea is beautiful today
-too.)");
-MsgDisp("主人公","(......Ah.
+MsgDisp("主人公","(Wow......
+The sea is beautiful today too.)");
+MsgDisp("主人公","(......
+Ah.
 Kuya-san is over there!)");
 MsgDisp("主人公","Kuya——");
 MsgClose();
@@ -19,7 +20,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
 MsgDisp("主人公","(Wow, he seems really busy......)");
 MsgDisp("主人公","............");
-MsgDisp("主人公","(Yeah. I should stop getting in Kuya-san's
+MsgDisp("主人公","(Yeah.
+I should stop getting in Kuya-san's
 way......)");
 MsgClose();
 ScrFadeOut(0,0);

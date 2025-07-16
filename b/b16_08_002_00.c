@@ -3,8 +3,8 @@ NSSOpen(8,255,1,3,#1,#1,8);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160800200_08_000");
-MsgDisp("Shirahane","Seriously you're...
-kind of perverted aren't ya?");
+MsgDisp("Shirahane","Seriously you're... kind of perverted
+aren't ya?");
 MsgSel("Huhu...","T-That's wrong!");
 switch (MsgSelRsltGet()){
     case 0:

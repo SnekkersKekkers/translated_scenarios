@@ -62,7 +62,8 @@ What was that about?)");
     VoicePlay("J040300000_03_040");
     MsgDisp("Honda","Oh, there you are.
 I looked for you!");
-    MsgDisp("主人公","Oh, ｛本多＊＊｝. What's wrong?");
+    MsgDisp("主人公","Oh, ｛本多＊＊｝.
+What's wrong?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -80,7 +81,8 @@ Are you free this Sunday?");
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("J040300000_03_060");
-        MsgDisp("Honda","Eh!　I see......");
+        MsgDisp("Honda","Eh!
+I see......");
         MsgDisp("主人公","I'm sorry......");
         ChEye(3,0);
         ChMouth(3,0);

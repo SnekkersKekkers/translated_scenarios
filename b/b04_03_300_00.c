@@ -41,8 +41,8 @@ like.");
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("B040330000_03_030");
-    MsgDisp("Honda","Really? My younger sister's room is more
-amazing.");
+    MsgDisp("Honda","Really?
+My younger sister's room is more amazing.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

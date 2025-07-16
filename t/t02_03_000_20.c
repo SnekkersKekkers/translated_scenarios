@@ -41,8 +41,8 @@ MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);
 VoicePlay("T020300020_03_040");
-MsgDisp("Honda","Huu...... I want it to stay like this
-forever.");
+MsgDisp("Honda","Huu......
+I want it to stay like this forever.");
 Wait(120,0);
 MsgClose();
 ScrFadeOut(0,1,120);

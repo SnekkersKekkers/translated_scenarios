@@ -23,16 +23,16 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("G020230100_02_030");
-MsgDisp("Sassa","Hmm...... Hey, that fast one over there is
-me.");
+MsgDisp("Sassa","Hmm......
+Hey, that fast one over there is me.");
 MsgDisp("主人公","Hehe, which one?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020230100_02_040");
-MsgDisp("Sassa","Ahー,there you are......
-over there, in the most crowded spot.");
+MsgDisp("Sassa","Ahー,there you are...... over there, in
+the most crowded spot.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

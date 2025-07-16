@@ -15,8 +15,9 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("H1A0300000_03_010");
-MsgDisp("Honda","Congrats! You're really amazing, winning
-on a huge stage like this.");
+MsgDisp("Honda","Congrats!
+You're really amazing, winning on a huge
+stage like this.");
 MsgDisp("主人公","I'm just the manager, though.");
 ChEye(3,0);
 ChMouth(3,3);

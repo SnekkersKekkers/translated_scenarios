@@ -45,8 +45,8 @@ switch (MsgSelRsltGet()){
         ChMotion(5,0);
         VoicePlay("B040503202_05_030");
         MsgDisp("Hiiragi","Are you trying to make me laugh?");
-        MsgDisp("主人公","Umm... I'm sorry
-Was that dull?");
+        MsgDisp("主人公","Umm...
+I'm sorry Was that dull?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040503202_05_040");
@@ -88,8 +88,8 @@ words.");
         VoicePlay("B040503202_05_090");
         MsgDisp("Hiiragi","I could grow accustomed to this.
 From now on, prepare yourself, okay?");
-        MsgDisp("主人公","(｛柊＊＊＊｝... Just now, did you say
-\"Person you like\"?)");
+        MsgDisp("主人公","(｛柊＊＊＊｝...
+Just now, did you say \"Person you like\"?)");
         break ;
         default :
         DbgAssert(1);

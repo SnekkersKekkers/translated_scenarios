@@ -12,13 +12,13 @@ ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("P540100005_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","｛風真＊＊｝... I, I failed...");
+MsgDisp("主人公","｛風真＊＊｝...
+I, I failed...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("P540100005_01_010");
-MsgDisp("Kazama","But, 
-you performed properly until the end.");
+MsgDisp("Kazama","But, you performed properly until the end.");
 MsgDisp("主人公","Ugh...");
 ChEye(1,4);
 ChMouth(1,3);
@@ -46,12 +46,13 @@ ChMotion(1,3);
 VoicePlay("P540100005_01_050");
 MsgDisp("Kazama","Oi, really, don't tell me you're not
 satisfied with me.");
-MsgDisp("主人公","No, thank you. ｛風真＊＊｝.");
+MsgDisp("主人公","No, thank you.
+｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
-MsgDisp("主人公","(I failed though...The fact that I'm this
-frustrated is proof of how hard I worked
-these three years...)");
+MsgDisp("主人公","(I failed though...
+The fact that I'm this frustrated is proof
+of how hard I worked these three years...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

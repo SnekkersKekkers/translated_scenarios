@@ -8,7 +8,8 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","Yeah. Seems like everyone is enjoying the
+    MsgDisp("主人公","Yeah.
+Seems like everyone is enjoying the
 cultural festival...!");
     VoicePlay("P830100002_01_000");
     MsgDisp("Kazama?","Don't walk around smirking and talking to
@@ -17,14 +18,15 @@ yourself.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(1,254,0,0,3,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Hey, I'm patrolling the
-school you know?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Hey, I'm patrolling the school you know?");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("P830100002_01_010");
-    MsgDisp("Kazama","Ha? Will you be alright patrolling the
-school by yourself?");
+    MsgDisp("Kazama","Ha?
+Will you be alright patrolling the school
+by yourself?");
     MsgDisp("主人公","Of course. I've spent three years managing
 the cultural festival as part of the
 student council, it wasn't just for show.");
@@ -49,7 +51,8 @@ I'm going too.");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","Yeah. Seems like everyone is enjoying the
+    MsgDisp("主人公","Yeah.
+Seems like everyone is enjoying the
 cultural festival...!");
     VoicePlay("P830100002_01_030");
     MsgDisp("Kazama?","What are you slacking off for?");
@@ -57,9 +60,9 @@ cultural festival...!");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(1,254,0,0,3,8,#1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! I'm not slacking off,
-right now I'm patrolling around the
-school.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+I'm not slacking off, right now I'm
+patrolling around the school.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);

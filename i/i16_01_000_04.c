@@ -11,10 +11,10 @@ switch (ChPrmGet(1,6)){
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,0,0,#1,#1,0,0);
     VoicePlay("I160100004_01_000");
-    MsgDisp("Kazama","Oh, you were pretty
-careful with it, huh?");
-    MsgDisp("主人公","Yeah. But, I wish I could've had it
-finished sooner......");
+    MsgDisp("Kazama","Oh, you were pretty careful with it, huh?");
+    MsgDisp("主人公","Yeah.
+But, I wish I could've had it finished
+sooner......");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -36,8 +36,9 @@ delivery items!");
     VoicePlay("I160100004_01_020");
     MsgDisp("Kazama","Good work.
 Yeah, you were pretty fast.");
-    MsgDisp("主人公","Really? I'm worried I made a mistake
-somewhere though.");
+    MsgDisp("主人公","Really?
+I'm worried I made a mistake somewhere
+though.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -56,8 +57,9 @@ ropes.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I160100004_01_050");
-    MsgDisp("Kazama","Hey. It's good that you're smiling, but
-watch the volume.");
+    MsgDisp("Kazama","Hey.
+It's good that you're smiling, but watch
+the volume.");
     MsgDisp("主人公","(Alright, let's continue to work hard
 without forgetting why we started∈)");
     break ;

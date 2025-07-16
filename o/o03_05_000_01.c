@@ -12,8 +12,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("O030500001_05_000");
     MsgDisp("Hiiragi","Thank you for your efforts.
 We did well in the standings.");
-    MsgDisp("主人公","(We were so close
-to first place......)");
+    MsgDisp("主人公","(We were so close to first place......)");
     break ;
     case 3:
     MsgClose();
@@ -22,8 +21,8 @@ to first place......)");
     VoicePlay("O030500001_05_010");
     MsgDisp("Hiiragi","I thank you.
 It was fun to run in sync with you.");
-    MsgDisp("主人公","(Yeah...... But we were so close to first
-place......)");
+    MsgDisp("主人公","(Yeah......
+But we were so close to first place......)");
     break ;
     case 4:
     case 5:
@@ -43,8 +42,8 @@ I couldn't get in sync......");
     MsgDisp("Hiiragi","Not at all.
 Falling out of sync and looking at each
 other was fun in its own way.");
-    MsgDisp("主人公","(Hehe...... But we were so close to first
-place......)");
+    MsgDisp("主人公","(Hehe......
+But we were so close to first place......)");
     break ;
     default :
     DbgAssert(1);

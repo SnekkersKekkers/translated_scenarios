@@ -5,22 +5,25 @@ VoicePlay("F102220001_31_000");
 MsgDisp("Goro?","Oh my!
 I wonder why Ikkaku won't wear it?!");
 VoicePlay("F102220001_22_000");
-MsgDisp("Hikaru?","Ahー... Uncle's fashion designs only suit
-a select few after all...");
+MsgDisp("Hikaru?","Ahー...
+Uncle's fashion designs only suit a select
+few after all...");
 MsgDisp("主人公","(That voice...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(31,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛ひかる＊｝. Goro-sensei is also here
-again?");
+MsgDisp("主人公","｛ひかる＊｝.
+Goro-sensei is also here again?");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);
 VoicePlay("F102220001_31_010");
-MsgDisp("Goro","Hello. I came here because I wanted
-someone to try on my new work.");
-MsgDisp("主人公","Eh, you mean ｛ひかる＊｝?");
+MsgDisp("Goro","Hello.
+I came here because I wanted someone to
+try on my new work.");
+MsgDisp("主人公","Eh, you mean
+｛ひかる＊｝?");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -34,8 +37,7 @@ ChMotion(31,5);
 VoicePlay("F102220001_31_020");
 MsgDisp("Goro","Right. Even so, he ran away as soon as he
 saw the clothes! Come on!");
-MsgDisp("主人公","What in the world design 
-was it?");
+MsgDisp("主人公","What in the world design was it?");
 ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,3);
@@ -43,8 +45,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102220001_22_020");
-MsgDisp("Hikaru","Amazing～? Lacy, fluffy shorts and a gold
-riders jacket.");
+MsgDisp("Hikaru","Amazing～?
+Lacy, fluffy shorts and a gold riders
+jacket.");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,0,1);

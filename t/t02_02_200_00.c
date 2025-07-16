@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝...... Why are you here?");
+MsgDisp("主人公","｛颯砂＊＊｝......
+Why are you here?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -35,8 +36,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220000_02_040");
-MsgDisp("Sassa","Yeah. So now the only thing left is for me
-to tell you.");
+MsgDisp("Sassa","Yeah.
+So now the only thing left is for me to
+tell you.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -156,9 +158,9 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoiceEVSPlay(2);
 VoicePlay("T020220000_02_210");
-MsgDisp("Sassa","｛主人公｝, I want to run with you.
-I want to make my dreams come true with
-you.");
+MsgDisp("Sassa","｛主人公｝, I want to run
+with you. I want to make my dreams come
+true with you.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

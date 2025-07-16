@@ -12,7 +12,8 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_000");
-    MsgDisp("Nanatsumori","Last...... God.");
+    MsgDisp("Nanatsumori","Last......
+God.");
     MsgDisp("主人公","(Last, huh......
 We weren't in sync at all......)");
     break ;
@@ -24,8 +25,7 @@ We weren't in sync at all......)");
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_010");
     MsgDisp("Nanatsumori","Last is pretty embarrassing......");
-    MsgDisp("主人公","I don't think we were
-in sync at all......");
+    MsgDisp("主人公","I don't think we were in sync at all......");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("O030400002_04_020");

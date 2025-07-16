@@ -25,7 +25,8 @@ switch (ChPrmGet(7,6)){
     VoicePlay("X120700002_07_010");
     MsgDisp("Mikage","There's a warmth to your work.
 It calms me just looking at it.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

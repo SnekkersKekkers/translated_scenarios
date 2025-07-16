@@ -13,14 +13,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C06000_07_000");
-MsgDisp("Mikage","Yeah. He puts on a normal face around us,
-but he's actually really busy.");
+MsgDisp("Mikage","Yeah.
+He puts on a normal face around us, but
+he's actually really busy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06000_06_010");
-MsgDisp("Himuro","Hey, is he like that 
-even in front of you.");
+MsgDisp("Himuro","Hey, is he like that even in front of you.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -28,7 +28,8 @@ ChMotion(7,1);
 VoicePlay("D140C06000_07_010");
 MsgDisp("Mikage","Does he ever show his troubled face in
 front of you?");
-MsgDisp("主人公","Ummm... I wonder.");
+MsgDisp("主人公","Ummm...
+I wonder.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -65,9 +66,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06000_06_050");
 MsgDisp("Himuro","............");
-MsgDisp("主人公","(These two are saying that ｛柊＊＊＊｝
-and I get along really well, right?
-But a turnaround...?)");
+MsgDisp("主人公","(These two are saying that
+｛柊＊＊＊｝ and I get along
+really well, right? But a turnaround...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

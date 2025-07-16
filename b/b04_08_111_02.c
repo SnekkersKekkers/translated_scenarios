@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040811102_08_010");
-    MsgDisp("Shirahane","Hmm, it's all about feeling...
-do you not get it?");
+    MsgDisp("Shirahane","Hmm, it's all about feeling... do you not
+get it?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -44,8 +44,8 @@ I said something weird.");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("B040811102_08_030");
-        MsgDisp("Shirahane","Ah... forgive me. For suddenly giving this
-kinda analogy.");
+        MsgDisp("Shirahane","Ah... forgive me.
+For suddenly giving this kinda analogy.");
         MsgDisp("主人公","No, it's fine.");
         ChEye(8,4);
         ChMouth(8,0);
@@ -76,7 +76,7 @@ been completely different by now.");
         ChMotion(8,0,1);
         ChEyeOpenLevel(8,0);
         VoicePlay("B040811102_08_080");
-        MsgDisp("Shirahane","...To think!
+        MsgDisp("Shirahane","... To think!
 I said something weird again!");
         ChEye(8,3);
         ChMouth(8,3);

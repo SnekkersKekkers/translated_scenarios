@@ -11,7 +11,7 @@ ChMouth(1,1);
 ChMotion(1,1);
 VoicePlay("Q230100000_01_000");
 MsgDisp("Kazama","Why did you come?
-...It can't be helped, hide behind me!");
+... It can't be helped, hide behind me!");
 ChEyeOpenLevel(1,#1);
 ChMouthOpenLevel(1,#1);
 ChCheek(1,0);

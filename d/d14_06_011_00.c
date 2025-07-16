@@ -16,7 +16,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("D140601100_06_010");
     MsgDisp("Himuro","Ah, the same thing......
-......Are you copying me?");
+...... Are you copying me?");
     break ;
     default :
     DbgAssert(1);

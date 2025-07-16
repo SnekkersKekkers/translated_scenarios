@@ -5,12 +5,13 @@ SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,5,0,3,#1,#1,0,2,0,30);
 VoicePlay("Q020C00100_07_000");
-MsgDisp("Mikage","Well then,
-shall we go?");
+MsgDisp("Mikage","Well then, shall we go?");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","Eh! ｛御影＊＊｝ and ｛柊＊＊＊｝?");
+MsgDisp("主人公","Eh!
+｛御影＊＊｝ and
+｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -31,8 +32,9 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("Q020C00100_05_010");
-MsgDisp("Hiiragi","｛主人公｝. Would you be inclined to
-spend today's free period with us?");
+MsgDisp("Hiiragi","｛主人公｝.
+Would you be inclined to spend today's
+free period with us?");
 MsgSel("Yes, please！","Sorry, it's just......");
 switch (MsgSelRsltGet()){
     case 0:
@@ -74,8 +76,9 @@ Well then, let's finally go.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
-    MsgDisp("主人公","(Hehe. I have the feeling this will become
-a fun free period!)");
+    MsgDisp("主人公","(Hehe.
+I have the feeling this will become a fun
+free period!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

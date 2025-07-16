@@ -43,8 +43,7 @@ Thanks, it was fun.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("Q080500001_05_050");
-    MsgDisp("Hiiragi","But the fun's not over yet, 
-right?");
+    MsgDisp("Hiiragi","But the fun's not over yet, right?");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q080500001_05_060");

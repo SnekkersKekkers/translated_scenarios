@@ -2,7 +2,7 @@ SEPlay("EV_SE_DOOR_014");
 BGOpen("ar100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Welcome!");
-MsgDisp("主人公","...Alright, coming right up.
+MsgDisp("主人公","... Alright, coming right up.
 Okay, come this way to your seat.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -54,16 +54,17 @@ ChMotion(4,1);
 MsgDisp("主人公","Huh, was something wrong with it?");
 ChEye(4,2);
 VoicePlay("G110400700_04_040");
-MsgDisp("Nanatsumori","No... The hot coffee just burned my
-tongue.");
+MsgDisp("Nanatsumori","No...
+The hot coffee just burned my tongue.");
 MsgDisp("主人公","Oh, really?
 Hehe!");
 ChMotion(4,2);
 VoicePlay("G110400700_04_050");
 MsgDisp("Nanatsumori","Haha!
-Really?　You think I'm funny?");
-MsgDisp("主人公","(｛七ツ森＊｝ makes me laugh more here
-than when we're at school, huh?)");
+Really?
+You think I'm funny?");
+MsgDisp("主人公","(｛七ツ森＊｝ makes me laugh more here than
+when we're at school, huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,7 +12,8 @@ ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410101_04_010");
 MsgDisp("Nanatsumori","Yeah...");
-MsgDisp("主人公","｛七ツ森＊｝... are you listening?");
+MsgDisp("主人公","｛七ツ森＊｝... are you
+listening?");
 ChEye(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020410101_04_020");
@@ -40,14 +41,13 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020410101_04_060");
-MsgDisp("Nanatsumori","But it hurts when you look the
-other way.");
+MsgDisp("Nanatsumori","But it hurts when you look the other way.");
 MsgDisp("主人公","｛七ツ森＊｝......");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020410101_04_070");
-MsgDisp("Nanatsumori","...Maybe I'm just jealous.
+MsgDisp("Nanatsumori","... Maybe I'm just jealous.
 That would be a pain.");
 MsgDisp("主人公","(Jealous?)");
 BGMStop();

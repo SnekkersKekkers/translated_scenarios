@@ -15,12 +15,14 @@ switch (ChPrmGet(22,6)){
     ChMotion(22,3,1);
     VoicePlay("F012200007_22_000");
     MsgDisp("Hikaru","Oh, it's Mari.");
-    MsgDisp("主人公","｛ひかる＊｝. Are you going home now?");
+    MsgDisp("主人公","｛ひかる＊｝.
+Are you going home now?");
     ChEye(22,0);
     ChMouth(22,0);
     ChMotion(22,4,1);
     VoicePlay("F012200007_22_010");
-    MsgDisp("Hikaru","Yep! Ah, how about Hikaru and Mari go home
+    MsgDisp("Hikaru","Yep!
+Ah, how about Hikaru and Mari go home
 together?");
     break ;
     case 4:
@@ -30,7 +32,8 @@ together?");
     ChMotion(22,3,1);
     VoicePlay("F012200007_22_020");
     MsgDisp("Hikaru","Found you, Mari!");
-    MsgDisp("主人公","｛ひかる＊｝. Are you going home now?");
+    MsgDisp("主人公","｛ひかる＊｝.
+Are you going home now?");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);
@@ -121,8 +124,7 @@ Goodbye.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(22);
-        MsgDisp("主人公","(Hm,
-did I do something bad?)");
+        MsgDisp("主人公","(Hm, did I do something bad?)");
         break ;
         case 4:
         case 5:
@@ -142,8 +144,7 @@ Bye-bye, Mari.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(22);
-        MsgDisp("主人公","(Hm,
-did I do something bad?)");
+        MsgDisp("主人公","(Hm, did I do something bad?)");
         break ;
         default :
         DbgAssert(1);

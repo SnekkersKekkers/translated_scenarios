@@ -87,8 +87,8 @@ You got me.");
 you.
 Be prepared for it, okay?");
         MsgDisp("主人公","Really? I feel like a prank from
-｛本多＊＊｝ is going to be something
-amazing.");
+｛本多＊＊｝ is going to be
+something amazing.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,2);

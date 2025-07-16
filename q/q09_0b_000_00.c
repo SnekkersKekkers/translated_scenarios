@@ -28,15 +28,15 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("Q090B00000_01_010");
-MsgDisp("Kazama","Anyways,
-listen to what I say for today.");
+MsgDisp("Kazama","Anyways, listen to what I say for today.");
 MsgDisp("主人公","Hm?");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("Q090B00000_04_010");
-MsgDisp("Nanatsumori","Wait ...... You're taking that thing
-seriously, aren't you?");
+MsgDisp("Nanatsumori","Wait ......
+You're taking that thing seriously, aren't
+you?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -62,7 +62,7 @@ MsgDisp("Kazama","...... Oh well.
 Let's go normally.");
 ChEye(4,0);
 VoicePlay("Q090B00000_04_030");
-MsgDisp("Nanatsumori","Well, that's that. 
+MsgDisp("Nanatsumori","Well, that's that.
 Agreed.");
 ChEye(3,0);
 ChEye(3,4);

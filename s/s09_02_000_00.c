@@ -88,8 +88,9 @@ Let's go.");
     ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090200000_02_080");
     MsgDisp("Sassa","It's a mess with so many moving people.");
-    MsgDisp("主人公","Phew...... ｛颯砂＊＊｝, thanks for
-guarding me.");
+    MsgDisp("主人公","Phew......
+｛颯砂＊＊｝, thanks for guarding
+me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -120,7 +121,8 @@ We've got just one shot for the year.");
         MsgDisp("Sassa","It's okay.
 Don't give up, even if you don't get a
 good one.");
-        MsgDisp("主人公","Eh?　But it's just one try......");
+        MsgDisp("主人公","Eh?
+But it's just one try......");
         break ;
         case 1:
         ChEye(2,0);

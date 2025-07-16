@@ -18,8 +18,9 @@ switch (MsgSelRsltGet()){
         ChMotion(8,3,1);
         ChCheek(8,8);
         VoicePlay("B040811100_08_010");
-        MsgDisp("Shirahane","Really! Yer a princess on the ice. I can't
-take my eyes off you...");
+        MsgDisp("Shirahane","Really!
+Yer a princess on the ice.
+I can't take my eyes off you...");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);

@@ -27,15 +27,13 @@ ChMotion(2,4);
 VoicePlay("D140A06102_02_010");
 MsgDisp("Sassa","Yeah, I was curious.
 Maybe he's harsh on us, but sweet on you?");
-MsgDisp("主人公","Hmm, I think 
-it's about the same?");
+MsgDisp("主人公","Hmm, I think it's about the same?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A06102_01_020");
-MsgDisp("Kazama","Hmmm, \"that's nonsense\", 
-stuff like that?");
+MsgDisp("Kazama","Hmmm, \"that's nonsense\", stuff like that?");
 MsgDisp("主人公","Hehe, something like that.");
 ChEye(1,0);
 ChMotion(1,0);
@@ -57,8 +55,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140A06102_01_040");
-MsgDisp("Kazama","Haha, is he easy 
-or hard to understand?");
+MsgDisp("Kazama","Haha, is he easy or hard to understand?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -105,8 +102,8 @@ VoicePlay("D140A06102_01_070");
 MsgDisp("Kazama","Well, he said he's a step ahead of me so
 it's fine, right?");
 MsgDisp("主人公","(Um... they're definitely talking about
-the relationship between ｛氷室＊＊｝ and
-me.)");
+the relationship between
+｛氷室＊＊｝ and me.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

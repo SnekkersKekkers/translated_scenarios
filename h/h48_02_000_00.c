@@ -13,8 +13,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("H480200000_02_000");
     MsgDisp("Sassa","How are you feeling?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Did you come to cheer me
-on?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Did you come to cheer me on?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

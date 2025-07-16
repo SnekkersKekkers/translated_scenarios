@@ -1,7 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm running late... ｛氷室＊＊｝ is...
+MsgDisp("主人公","(I'm running late...
+｛氷室＊＊｝ is...
 Already here!)");
 MsgDisp("主人公","I'm sorry for keeping you waiting!");
 BGMPlay("BGM_C06_INORI_A",0.01);
@@ -60,7 +61,8 @@ Thank you though, sorry.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B010600000_06_060");
-    MsgDisp("Himuro","... Oh. I see.
+    MsgDisp("Himuro","... Oh.
+I see.
 Well, then.");
     MsgDispSksp(0);
     break ;

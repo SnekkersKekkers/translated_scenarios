@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040211102_02_010");
-    MsgDisp("Sassa","Alright,
-we're getting some exercise in!");
+    MsgDisp("Sassa","Alright, we're getting some exercise in!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -71,7 +70,7 @@ That would be most effective.");
         ChOpen(2,253,4,0,4,#1,#1,10,0);
         SEPlay("EV_SE_565");
         SEWait();
-        MsgDisp("主人公","Waa, it's so warm. ");
+        MsgDisp("主人公","Waa, it's so warm.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -86,7 +85,8 @@ If you drink it, you'll have breathe a
         VoicePlay("B040211102_02_070");
         MsgDisp("Sassa","Huh...
 I thought that was funny though...");
-        MsgDisp("主人公","(｛颯砂＊＊｝...? Was that a pun?)");
+        MsgDisp("主人公","(｛颯砂＊＊｝...?
+Was that a pun?)");
         break ;
         default :
         DbgAssert(1);

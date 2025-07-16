@@ -9,7 +9,8 @@ BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("G110700300_07_000");
-MsgDisp("Mikage","｛主人公｝. Are you a bit lost?");
+MsgDisp("Mikage","｛主人公｝.
+Are you a bit lost?");
 MsgDisp("主人公","Ah, ｛御影＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -41,8 +42,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700300_07_040");
-MsgDisp("Mikage","Uh... forget what I said. You're a pretty
-girl, so try to shine.");
+MsgDisp("Mikage","Uh... forget what I said.
+You're a pretty girl, so try to shine.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -71,9 +72,9 @@ ChMotion(7,1);
 VoicePlay("G110700300_07_080");
 MsgDisp("Mikage","Look, afternoon classes are starting.
 See you later.");
-MsgDisp("主人公","(｛御影＊＊｝... Maybe he was concerned
-about the test I did badly in the other
-day...?)");
+MsgDisp("主人公","(｛御影＊＊｝...
+Maybe he was concerned about the test I
+did badly in the other day...?)");
 SEStop("EV_SE_SCHOOL_002",1);
 BGMStop();
 MsgClose();

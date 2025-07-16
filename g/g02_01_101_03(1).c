@@ -45,8 +45,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020110103_01_060");
-MsgDisp("Kazama","Friendship? It feels a little different
-though. I'd say it's a subtle balance.");
+MsgDisp("Kazama","Friendship?
+It feels a little different though.
+I'd say it's a subtle balance.");
 MsgDisp("主人公","Balance?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -74,8 +75,8 @@ ChMotion(1,0);
 VoicePlay("G020110103_01_100");
 MsgDisp("Kazama","Well, even if the balance is off, I'll be
 right back next to you.");
-MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is talking
-about.)");
+MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is
+talking about.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

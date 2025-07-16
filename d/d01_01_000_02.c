@@ -13,8 +13,8 @@ StlOpen("ev_01_07");
 StlEye(1,1);
 StlMouth(1,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝...... Wait. No way, we're
-in the same class this year too?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝...... Wait. No way,
+we're in the same class this year too?");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("D010100002_01_010");
@@ -42,8 +42,9 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100002_01_030");
-MsgDisp("Kazama","Hmm? No wait......I swear there were
-others.");
+MsgDisp("Kazama","Hmm?
+No wait......
+I swear there were others.");
 MsgDisp("主人公","Eh——");
 MsgClose();
 BGMStop(1.5);

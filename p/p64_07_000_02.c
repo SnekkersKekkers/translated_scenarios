@@ -5,7 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("P640700002_07_000");
-MsgDisp("Mikage","Haa... I feel so calm.");
+MsgDisp("Mikage","Haa...
+I feel so calm.");
 MsgDisp("主人公","｛御影＊＊｝, how is it?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -34,10 +35,11 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P640700002_07_040");
-MsgDisp("Mikage","Haa... I want to buy some to take home,
-but I'll hold back.");
-MsgDisp("主人公","(Yay, ｛御影＊＊｝ praised me!
-I'm glad I gave it my all in
+MsgDisp("Mikage","Haa...
+I want to buy some to take home, but I'll
+hold back.");
+MsgDisp("主人公","(Yay, ｛御影＊＊｝
+praised me! I'm glad I gave it my all in
 preparations!)");
 MsgClose();
 ScrFadeOut(0,0);

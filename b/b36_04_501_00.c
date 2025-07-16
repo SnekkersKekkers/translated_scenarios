@@ -11,14 +11,13 @@ BGMPlay("BGM_C04_NANA_C",0.01);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B360450100_04_000");
-MsgDisp("Nanatsumori","A date like this in 
-the park isn't bad.");
+MsgDisp("Nanatsumori","A date like this in the park isn't bad.");
 MsgDisp("主人公","Yeah.");
 ChMotion(4,0,1);
 VoicePlay("B360450100_04_010");
 MsgDisp("Nanatsumori","Even more so that it's in your
 neighborhood.");
-MsgDisp("主人公","Why? ");
+MsgDisp("主人公","Why?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -52,7 +51,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B360450100_04_060");
 MsgDisp("Nanatsumori","I see.
-...Yeah, maybe that's true.");
+... Yeah, maybe that's true.");
 MsgDisp("主人公","Hehe!");
 BGMStop();
 MsgClose();

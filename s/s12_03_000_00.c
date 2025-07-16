@@ -15,16 +15,17 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     VoiceEVSPlay(3);
     VoicePlay("S120300000_03_000");
-    MsgDisp("Honda","｛主人公｝, aren't you tired from all
-the walking?");
+    MsgDisp("Honda","｛主人公｝, aren't you
+tired from all the walking?");
     MsgDisp("主人公","It's okay, I'm fine.
 Is ｛本多＊＊｝ okay?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300000_03_010");
-    MsgDisp("Honda","Yeah. I have to go fishing with my dad
-tonight. So, cya later!");
+    MsgDisp("Honda","Yeah.
+I have to go fishing with my dad tonight.
+So, cya later!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
@@ -42,10 +43,12 @@ year......)");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300000_03_020");
-    MsgDisp("Honda","Phew! There were a lot of people, but it
-was fun!");
-    MsgDisp("主人公","Yeah! I got to talk to ｛本多＊＊｝ about a
-lot of things. It was fun.");
+    MsgDisp("Honda","Phew!
+There were a lot of people, but it was
+fun!");
+    MsgDisp("主人公","Yeah! I got to talk to
+｛本多＊＊｝ about a lot of
+things. It was fun.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

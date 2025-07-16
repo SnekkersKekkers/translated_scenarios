@@ -6,7 +6,8 @@ ScrFadeIn(0);
 VoicePlay("B150200100_02_000");
 MsgDisp("Sassa","Wait, you.
 I still don't really get it.");
-MsgDisp("主人公","Eh? What is it...");
+MsgDisp("主人公","Eh?
+What is it...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -21,8 +22,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B150200100_02_020");
-MsgDisp("Sassa","What did you think
-you went too far on?");
+MsgDisp("Sassa","What did you think you went too far on?");
 MsgDisp("主人公","...Skinship?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -63,7 +63,7 @@ being beaten. Haa... I'll think of an
 attack on my way home. See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(I wonder if I've troubled ｛颯砂＊＊｝...
-)");
+MsgDisp("主人公","(I wonder if I've troubled
+｛颯砂＊＊｝... )");
 MsgClose();
 ScrFadeOut(0,0);

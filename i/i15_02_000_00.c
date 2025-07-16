@@ -6,7 +6,8 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Welcome! Ah, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Welcome!
+Ah, ｛颯砂＊＊｝.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -26,8 +27,7 @@ in.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("I150200000_02_020");
-    MsgDisp("Sassa","Maybe I'm a little
-out of place here?");
+    MsgDisp("Sassa","Maybe I'm a little out of place here?");
     MsgDisp("主人公","No, not at all.
 Ah, ｛風真＊＊｝'s in the back.");
     ChEye(2,0);
@@ -61,10 +61,12 @@ Say hi to Ryota for me, too.");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(Boys' relationships are interesting......
-I hope ｛颯砂＊＊｝ will come back.)");
+I hope ｛颯砂＊＊｝ will come
+back.)");
     break ;
     case 3:
-    MsgDisp("主人公","Welcome! Ah, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Welcome!
+Ah, ｛颯砂＊＊｝.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -73,7 +75,8 @@ I hope ｛颯砂＊＊｝ will come back.)");
     VoicePlay("I150200000_02_070");
     MsgDisp("Sassa","I came to visit while you're working.
 Looks like you're working hard.");
-    MsgDisp("主人公","Yeah. Thanks.");
+    MsgDisp("主人公","Yeah.
+Thanks.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -111,7 +114,8 @@ but he still came to support me......)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Welcome! Ah, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Welcome!
+Ah, ｛颯砂＊＊｝.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -128,14 +132,14 @@ What are you looking for today, sir?");
     VoicePlay("I150200000_02_120");
     MsgDisp("Sassa","Hm, I'll take this store's most valuable
 item!");
-    MsgDisp("主人公","Ahaha,
-no customer acts like that.");
+    MsgDisp("主人公","Ahaha, no customer acts like that.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("I150200000_02_130");
-    MsgDisp("Sassa","Hm? No good? Aren't some rich people like
-that?");
+    MsgDisp("Sassa","Hm?
+No good?
+Aren't some rich people like that?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -147,8 +151,7 @@ for the most valuable thing in this store.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I150200000_02_150");
-    MsgDisp("Sassa","See, it's right
-in front of me.");
+    MsgDisp("Sassa","See, it's right in front of me.");
     MsgDisp("主人公","Huh?");
     ChEye(2,3);
     ChMouth(2,3);
@@ -164,8 +167,8 @@ See you.");
     BGMStop();
     ChClose(2);
     SEWait();
-    MsgDisp("主人公","(The store's most valuable thing......
-is me!?)");
+    MsgDisp("主人公","(The store's most valuable thing...... is
+me!?)");
     break ;
     default :
     DbgAssert(1);

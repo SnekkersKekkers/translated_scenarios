@@ -9,10 +9,9 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360703200_07_000");
-MsgDisp("Mikage","They were having fun today,
-weren't they?");
-MsgDisp("主人公","Hehe, it looked like ｛御影＊＊｝ had
-fun too.");
+MsgDisp("Mikage","They were having fun today, weren't they?");
+MsgDisp("主人公","Hehe, it looked like
+｛御影＊＊｝ had fun too.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -25,8 +24,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B360703200_07_020");
-MsgDisp("Mikage","Well...... First, it'd probably be an
-intense discussion with Inori.");
+MsgDisp("Mikage","Well......
+First, it'd probably be an intense
+discussion with Inori.");
 MsgDisp("主人公","It might be a good match.");
 ChEye(7,0);
 ChMouth(7,0);

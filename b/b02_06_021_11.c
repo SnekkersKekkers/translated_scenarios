@@ -10,4 +10,5 @@ ChMotion(6,4);
 VoicePlay("B020602111_06_010");
 MsgDisp("Himuro","Going for that 'out of my league' vibe?");
 MsgDisp("主人公","(I'm glad!
-｛氷室＊＊｝ seems to be really pleased!)");
+｛氷室＊＊｝ seems to be really
+pleased!)");

@@ -3,8 +3,7 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G020710400_07_000");
-MsgDisp("Mikage","Hey, 
-do you like shoujo manga too?");
+MsgDisp("Mikage","Hey, do you like shoujo manga too?");
 MsgDisp("主人公","I read popular ones and watch the dramas
 based on them.");
 ChEye(7,0);
@@ -13,7 +12,9 @@ ChMotion(7,0);
 VoicePlay("G020710400_07_010");
 MsgDisp("Mikage","I see, maybe I should try reading them
 too......");
-MsgDisp("主人公","Eh? ｛御影＊＊｝, are you interested?");
+MsgDisp("主人公","Eh?
+｛御影＊＊｝, are you
+interested?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -41,14 +42,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710400_07_050");
-MsgDisp("Mikage","What? Why are you laughing?");
+MsgDisp("Mikage","What?
+Why are you laughing?");
 MsgDisp("主人公","It might be a female character, you know?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710400_07_060");
-MsgDisp("Mikage","What? So that's why they were laughing
-too.");
+MsgDisp("Mikage","What?
+So that's why they were laughing too.");
 MsgDisp("主人公","(A shoujo manga character that resembles
 ｛御影＊＊｝......
 Maybe a glamorous young lady?)");

@@ -16,8 +16,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("G110300602_03_010");
-MsgDisp("Honda","Right? Ah, but I actually like this sort
-of magazine.");
+MsgDisp("Honda","Right?
+Ah, but I actually like this sort of
+magazine.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -32,10 +33,11 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G110300602_03_030");
-MsgDisp("Honda","Right? I wonder who thought of that?
+MsgDisp("Honda","Right?
+I wonder who thought of that?
 That's a great idea.");
-MsgDisp("主人公","I think ｛本多＊＊｝ would come up with
-something even more interesting.");
+MsgDisp("主人公","I think ｛本多＊＊｝ would come
+up with something even more interesting.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -52,8 +54,8 @@ MsgClose();
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","......Ah, ｛本多＊＊｝. Isn't it time to
-head back up already?");
+MsgDisp("主人公","...... Ah, ｛本多＊＊｝.
+Isn't it time to head back up already?");
 ChMotion(3,1);
 VoicePlay("G110300602_03_050");
 MsgDisp("Honda","Yeees, a bit more and I think I've

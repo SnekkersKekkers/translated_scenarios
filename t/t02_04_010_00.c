@@ -33,8 +33,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("T020401000_04_040");
-MsgDisp("Nanatsumori","But......I didn't overcome these trials
-for you like the prince in the legend.");
+MsgDisp("Nanatsumori","But......
+I didn't overcome these trials for you
+like the prince in the legend.");
 ChEye(4,4);
 ChMouth(4,0);
 VoicePlay("T020401000_04_050");
@@ -76,9 +77,9 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("T020401000_04_110");
-MsgDisp("Nanatsumori","Now, 
-you've become the centre of my world.");
+MsgDisp("Nanatsumori","Now, you've become the centre of my world.");
 ChMotion(4,3,1);
 VoiceEVSPlay(4);
 VoicePlay("T020401000_04_120");
-MsgDisp("Nanatsumori","｛主人公｝. Please go out with me.");
+MsgDisp("Nanatsumori","｛主人公｝.
+Please go out with me.");

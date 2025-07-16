@@ -1,8 +1,7 @@
 MsgClose();
 ChOpen(1,255,0,4,3,#1,#1,0,0);
 VoicePlay("G020110101_01_000");
-MsgDisp("Kazama","When we come here, 
-you look cute.");
+MsgDisp("Kazama","When we come here, you look cute.");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -16,7 +15,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_020");
 MsgDisp("Kazama","What am I saying......");
-MsgDisp("主人公","Umm......I'm embarrassed.");
+MsgDisp("主人公","Umm......
+I'm embarrassed.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -59,9 +59,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_070");
 MsgDisp("Kazama","Haa......this place is dangerous.");
-MsgDisp("主人公","(Just now......
-could that be ｛風真＊＊｝'s inner
-voice?')");
+MsgDisp("主人公","(Just now...... could that be
+｛風真＊＊｝'s inner voice?')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

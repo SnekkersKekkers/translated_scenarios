@@ -27,8 +27,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040206500_02_020");
-    MsgDisp("Sassa","Yeah, that's some amazing 
-technology.");
+    MsgDisp("Sassa","Yeah, that's some amazing technology.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

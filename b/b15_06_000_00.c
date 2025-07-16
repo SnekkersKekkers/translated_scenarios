@@ -4,8 +4,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150600000_06_000");
-MsgDisp("Himuro","...As I thought,
-girls do skinship a lot.");
+MsgDisp("Himuro","...As I thought, girls do skinship a lot.");
 MsgDisp("主人公","Is that so?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -60,8 +59,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B150600000_06_080");
-MsgDisp("Himuro","Ah, actually no it's not. You need to
-restrain yourself with me too. Okay?");
+MsgDisp("Himuro","Ah, actually no it's not.
+You need to restrain yourself with me too.
+Okay?");
 MsgDisp("主人公","U-Understood.");
 ChEye(6,0);
 ChMouth(6,2);

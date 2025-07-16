@@ -8,7 +8,8 @@ switch (ChPrmGet(1,6)){
     break ;
     case 4:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Huh? It's ｛風真＊＊｝. )");
+    MsgDisp("主人公","(Huh?
+It's ｛風真＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -29,7 +30,8 @@ Are you free?");
         MsgDisp("Kazama","What's that.");
         MsgDisp("主人公","Kinda, you know.");
         VoicePlay("J040100001_01_030");
-        MsgDisp("Kazama","Just a quick errand. Yes, I understand.
+        MsgDisp("Kazama","Just a quick errand.
+Yes, I understand.
 So...");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
@@ -44,11 +46,13 @@ Maybe I did something bad......)");
     break ;
     case 5:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Huh? It's ｛風真＊＊｝ )");
+    MsgDisp("主人公","(Huh?
+It's ｛風真＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello. ｛風真＊＊｝?");
+    MsgDisp("主人公","Hello.
+｛風真＊＊｝?");
     VoicePlay("J040100001_01_040");
     MsgDisp("Kazama","Yes, it's me.");
     MsgDisp("主人公","｛風真＊＊｝, what's wrong?");

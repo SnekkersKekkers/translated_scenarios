@@ -20,25 +20,27 @@ switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U100D00001_22_020");
     MsgDisp("Hikaru","Aha▼
-Yay! I'm excited!");
-    MsgDisp("主人公","Hehe. Ok then, I'll get ready to come over
-okay?");
+Yay!
+I'm excited!");
+    MsgDisp("主人公","Hehe.
+Ok then, I'll get ready to come over okay?");
     VoicePlay("U100D00001_22_030");
     MsgDisp("Hikaru","Take care.
 A bientotー♪");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(A sleepover......This will be fun!)");
+    MsgDisp("主人公","(A sleepover......
+This will be fun!)");
     break ;
     case 1:
     VoicePlay("U100D00001_22_040");
-    MsgDisp("Hikaru","Ah～n, that's unfortunate......
-Well then......maybe another time?");
+    MsgDisp("Hikaru","Ah～ n, that's unfortunate......
+Well then...... maybe another time?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Even though she went through the trouble
-of inviting me......Was that the right
-choice?)");
+of inviting me......
+Was that the right choice?)");
     break ;
     default :
     DbgAssert(0);

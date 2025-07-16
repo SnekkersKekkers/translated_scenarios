@@ -45,7 +45,7 @@ Why are you sulking?");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040402202_04_030");
-        MsgDisp("Nanatsumori","You're sulking? ");
+        MsgDisp("Nanatsumori","You're sulking?");
         MsgDisp("主人公","I mean...
 We came out all this way together after
 all.");

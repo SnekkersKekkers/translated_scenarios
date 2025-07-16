@@ -3,7 +3,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ChCheek(4,5);
 VoicePlay("B130400000_04_000");
-MsgDisp("Nanatsumori","...But even so, what are you wearing
+MsgDisp("Nanatsumori","... But even so, what are you wearing
 today?
 With the chest, it's too bold.");
 ChEye(4,0);

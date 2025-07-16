@@ -17,5 +17,6 @@ MsgDisp("Sassa","I also arrived early, but Inori was
 already here when I got here?");
 ChEye(1,0);
 ChMouth(1,0);
-MsgDisp("主人公","Hehe. Sorry to keep you waiting, everyone.
+MsgDisp("主人公","Hehe.
+Sorry to keep you waiting, everyone.
 Then, shall we go?");

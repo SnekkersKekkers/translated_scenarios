@@ -41,7 +41,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020140003_01_050");
-MsgDisp("Kazama","......Geez, does it need to be said?
+MsgDisp("Kazama","...... Geez, does it need to be said?
 It's a piece of driftwood I picked up as a
 kid.");
 ChEyeOpenLevel(1,0);
@@ -64,10 +64,12 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020140003_01_080");
-MsgDisp("Kazama","Yeah. It's not a big deal, but I'm pretty
-sure it's fragrant wood.");
-MsgDisp("主人公","Amazing! Since he was young, ｛風真＊＊｝
-has had a great discerning eye.");
+MsgDisp("Kazama","Yeah.
+It's not a big deal, but I'm pretty sure
+it's fragrant wood.");
+MsgDisp("主人公","Amazing! Since he was young,
+｛風真＊＊｝ has had a great
+discerning eye.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -96,8 +98,8 @@ ChMouth(1,3);
 VoicePlay("G020140003_01_120");
 MsgDisp("Kazama","It doesn't seem like you can sell
 something like that for a high price?");
-MsgDisp("主人公","(｛風真＊＊｝ has had a good eye for
-things since he was little huh......)");
+MsgDisp("主人公","(｛風真＊＊｝ has had a good eye for things
+since he was little huh......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

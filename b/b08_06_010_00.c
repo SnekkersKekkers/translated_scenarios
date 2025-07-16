@@ -1,6 +1,6 @@
 MsgDisp("主人公","Hello?");
 VoicePlay("B080601000_06_000");
-MsgDisp("Himuro","...Hello.
+MsgDisp("Himuro","... Hello.
 Is now a good time?");
 MsgDisp("主人公","Ah, um...");
 VoicePlay("B080601000_06_010");

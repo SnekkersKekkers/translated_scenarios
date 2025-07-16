@@ -8,14 +8,14 @@ ScrFadeIn(0);
 ChMouthOpenLevel(4,0);
 VoicePlay("P140400001_04_000");
 MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝, welcome back!
+MsgDisp("主人公","Ah, ｛七ツ森＊｝, welcome
+back!
 How was it?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("P140400001_04_010");
-MsgDisp("Nanatsumori","Is it a maze
-or a cardboard walk?");
+MsgDisp("Nanatsumori","Is it a maze or a cardboard walk?");
 MsgDisp("主人公","Eh?");
 ChEye(4,2);
 ChMouth(4,4);

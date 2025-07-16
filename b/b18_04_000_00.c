@@ -31,7 +31,8 @@ I felt a good sensation too.");
     VoicePlay("B180400000_04_040");
     VoiceEVSPlay(4);
     MsgDisp("Nanatsumori","In order to get used to it, I'll say it
-again. ｛主人公｝.");
+again.
+｛主人公｝.");
     MsgDisp("主人公","(No matter how many times he says it, my
 heart skips a beat...)");
     break ;

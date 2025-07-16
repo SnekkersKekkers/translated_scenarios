@@ -6,8 +6,8 @@ MsgDisp("主人公","(The book I wanted was sold out before.
 VoiceEVSPlay(3);
 VoicePlay("G110300100_03_000");
 MsgDisp("Honda?","｛主人公｝, welcome!");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. You're working today,
-huh?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+You're working today, huh?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,0,#1,#1,0,0);
@@ -38,7 +38,8 @@ ScrFadeIn(0);
 VoicePlay("G110300100_03_030");
 MsgDisp("Honda","Is this it?
 The book you were looking for before?");
-MsgDisp("主人公","Yeah. That's right.");
+MsgDisp("主人公","Yeah.
+That's right.");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,0);

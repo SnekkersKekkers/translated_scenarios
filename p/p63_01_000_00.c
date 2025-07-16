@@ -15,7 +15,8 @@ We prepared herb tea and cookies, but...)");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630100000_01_000");
     MsgDisp("Kazama","You're working hard, huh.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Welcome!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -45,13 +46,13 @@ We prepared herb tea and cookies, but...)");
     ChMotion(1,1);
     VoicePlay("P630100000_01_030");
     MsgDisp("Kazama","Hmm, a cafe huh?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Welcome!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P630100000_01_040");
-    MsgDisp("Kazama","The poster girl makes an 
-appearance huh?");
+    MsgDisp("Kazama","The poster girl makes an appearance huh?");
     MsgDisp("主人公","No, I'm the producer.
 So we made tea and cookies with the herb
 tea the Gardening Club grew.");

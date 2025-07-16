@@ -5,11 +5,10 @@ it...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090A00000_02_000");
-MsgDisp("Sassa","Huh... it went to voicemail. What should
-we do?");
+MsgDisp("Sassa","Huh... it went to voicemail.
+What should we do?");
 VoicePlay("B090A00000_01_000");
-MsgDisp("Kazama","Maybe she's running here 
-in a panic.");
+MsgDisp("Kazama","Maybe she's running here in a panic.");
 VoicePlay("B090A00000_06_000");
 MsgDisp("Himuro","Maybe she got the week wrong?");
 VoicePlay("B090A00000_02_010");

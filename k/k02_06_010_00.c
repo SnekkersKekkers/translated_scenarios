@@ -24,9 +24,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("K020601000_06_010");
 MsgDisp("Himuro","It's your birthday today, right?
-......Happy birthday.");
-MsgDisp("主人公","This is......
-a present?");
+...... Happy birthday.");
+MsgDisp("主人公","This is...... a present?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -44,8 +43,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("K020601000_06_040");
-MsgDisp("Himuro","Still,
-today was doubly as happy, right?");
+MsgDisp("Himuro","Still, today was doubly as happy, right?");
 MsgDisp("主人公","Hehe, well said.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -62,7 +60,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
 Wait(30);
-MsgDisp("主人公","(I got to celebrate with ｛氷室＊＊｝......
+MsgDisp("主人公","(I got to celebrate with
+｛氷室＊＊｝......
 This year looks to be a great one!)");
 MsgClose();
 ScrFadeOut(0,0);

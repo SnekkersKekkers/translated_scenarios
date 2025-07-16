@@ -3,7 +3,7 @@ NSSOpen(7,255,2,0,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160700200_07_000");
-MsgDisp("Mikage","...Hey.
+MsgDisp("Mikage","... Hey.
 That tickles.");
 MsgSel("It's because I'm tickling you.","Where about?");
 switch (MsgSelRsltGet()){

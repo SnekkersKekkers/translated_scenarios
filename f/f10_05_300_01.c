@@ -10,24 +10,26 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530001_05_000");
-MsgDisp("Hiiragi","Farewell. Take care.");
-MsgDisp("主人公","｛柊＊＊＊｝, thank you for your hard
-work.");
+MsgDisp("Hiiragi","Farewell.
+Take care.");
+MsgDisp("主人公","｛柊＊＊＊｝, thank you for your
+hard work.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("F100530001_05_010");
-MsgDisp("Hiiragi","｛主人公｝. An important job of the
-student council is to enforce greetings.");
-MsgDisp("主人公","You really do l
-ike them, don't you?");
+MsgDisp("Hiiragi","｛主人公｝.
+An important job of the student council is
+to enforce greetings.");
+MsgDisp("主人公","You really do l ike them, don't you?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("F100530001_05_020");
-MsgDisp("Hiiragi","Yes. Everyone greets me in all sorts of
-fun ways.");
+MsgDisp("Hiiragi","Yes.
+Everyone greets me in all sorts of fun
+ways.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -100,8 +102,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F100530001_22_030");
-MsgDisp("Hikaru","See? You were
-mistaken big sis.");
+MsgDisp("Hikaru","See?
+You were mistaken big sis.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -116,8 +118,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100530001_22_040");
-MsgDisp("Hikaru","Yepyep, 
-salut, Yanosuke-san.");
+MsgDisp("Hikaru","Yepyep, salut, Yanosuke-san.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -138,8 +139,9 @@ MsgClose();
 ChClose(5,0,30);
 ChLayout(1);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","(Hmm... I guess I'm being forced to say it
-after all...?)");
+MsgDisp("主人公","(Hmm...
+I guess I'm being forced to say it after
+all...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

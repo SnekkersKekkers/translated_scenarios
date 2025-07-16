@@ -56,14 +56,14 @@ MsgDisp("Mikage","But, I wish they hinted at it in a more
 roundabout way, like a fortune-teller.
 They were just so blunt about it, you
 know?");
-MsgDisp("主人公","Umm,
-being a teacher is tough, huh......");
+MsgDisp("主人公","Umm, being a teacher is tough, huh......");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020740002_07_070");
 MsgDisp("Mikage","Yeah, I guess?");
-MsgDisp("主人公","(......So the fortune was really spot on?)");
+MsgDisp("主人公","(......
+So the fortune was really spot on?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

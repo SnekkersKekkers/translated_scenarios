@@ -27,7 +27,8 @@ MsgDisp("主人公","｛大地＊＊｝, you remembered?");
 ChEye(8,3);
 ChMouth(8,3);
 VoicePlay("K020801100_08_030");
-MsgDisp("Shirahane","Yeah. Heheh!");
+MsgDisp("Shirahane","Yeah.
+Heheh!");
 ChMotion(8,3,1);
 VoicePlay("K020801100_08_040");
 MsgDisp("Shirahane","Happy birthday.

@@ -16,15 +16,16 @@ Wait(16,0);
 ChEye(5,4);
 VoicePlay("T020501000_05_010");
 MsgDisp("Hiiragi","Congratulations on your graduation.");
-MsgDisp("主人公","｛柊＊＊＊｝ you too, congratulations on
-your graduation.");
+MsgDisp("主人公","｛柊＊＊＊｝ you too,
+congratulations on your graduation.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChMouth(5,3);
 VoicePlay("T020501000_05_020");
-MsgDisp("Hiiragi","Yes. I'm graduating with you...... I can't
-believe it.");
+MsgDisp("Hiiragi","Yes.
+I'm graduating with you......
+I can't believe it.");
 MsgDisp("主人公","Eh......");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -86,12 +87,11 @@ ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020501000_05_090");
-MsgDisp("Hiiragi","But,
-you always cared about what I did.");
+MsgDisp("Hiiragi","But, you always cared about what I did.");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","But......I wanted to support ｛柊＊＊＊｝
-even more, but there was nothing I could
-do.");
+MsgDisp("主人公","But......I wanted to support
+｛柊＊＊＊｝ even more, but
+there was nothing I could do.");
 ChMotion(5,1);
 Wait(30,0);
 ChEye(5,4);

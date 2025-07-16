@@ -14,10 +14,10 @@ received.)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700001_07_000");
-    MsgDisp("Mikage","This year has had a 
-good start, hasn;t it?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. Seems like the
-vegetables sale is drawing attention.");
+    MsgDisp("Mikage","This year has had a good start, hasn;t it?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Seems like the vegetables sale is drawing
+attention.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -46,9 +46,10 @@ received.)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P630700001_07_030");
-    MsgDisp("Mikage","｛主人公｝, this is a so-so turnout
-huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. Welcome!");
+    MsgDisp("Mikage","｛主人公｝, this is a
+so-so turnout huh?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -68,10 +69,12 @@ There's quite a lot of kinds huh?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P630700001_07_060");
-    MsgDisp("Mikage","...Oh. Then, I'll have the blend for sound
-sleep please.");
-    MsgDisp("主人公","Yes. Then one original blend herbal tea
-for sound sleep then!");
+    MsgDisp("Mikage","... Oh.
+Then, I'll have the blend for sound sleep
+please.");
+    MsgDisp("主人公","Yes.
+Then one original blend herbal tea for
+sound sleep then!");
     break ;
     default :
     DbgAssert(1);

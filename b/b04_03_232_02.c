@@ -33,8 +33,7 @@ dizzy.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040323202_03_020");
-        MsgDisp("Honda","Heeh, so there's that
-sort of feeling too?");
+        MsgDisp("Honda","Heeh, so there's that sort of feeling too?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -73,12 +72,14 @@ I mean, maybe warm or happy...");
         ChMotion(3,5);
         ChCheek(3,10);
         VoicePlay("B040323202_03_070");
-        MsgDisp("Honda","Huh? Could this be, the bittersweet
-springtime of youth feeling?");
+        MsgDisp("Honda","Huh?
+Could this be, the bittersweet springtime
+of youth feeling?");
         SEPlay("EV_SE_GAYA_024",0.5,0.5);
         SEPlay("EV_SE_GAYA_017",1);
         SEWait();
-        MsgDisp("主人公","｛本多＊＊｝, you're talking a bit loud?");
+        MsgDisp("主人公","｛本多＊＊｝, you're talking a bit
+loud?");
         ChEye(3,1);
         ChMouth(3,0);
         ChMotion(3,1);
@@ -89,7 +90,8 @@ Come!");
         ChClose(3);
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
         SEWait();
-        MsgDisp("主人公","Ehh! Wait up, ｛本多＊＊｝ ～!");
+        MsgDisp("主人公","Ehh!
+Wait up, ｛本多＊＊｝ ～!");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(3,253,0,0,0,#1,#1,0,0);

@@ -1,8 +1,9 @@
 BGOpen("sc310",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝
-and...... ｛颯砂＊＊｝? )");
+MsgDisp("主人公","(Ah, ｛みちる＊｝,
+｛ひかる＊｝ and......
+｛颯砂＊＊｝? )");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,0,0,2,#1,#1,0,0,0,30);
@@ -19,8 +20,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100230000_21_000");
-MsgDisp("Michiru","Hehe. I guess we should ask Mari for her
-opinion here too, right?");
+MsgDisp("Michiru","Hehe.
+I guess we should ask Mari for her opinion
+here too, right?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
@@ -34,8 +36,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100230000_22_010");
-MsgDisp("Hikaru","We're talking about
-Sassa-kun's gap moe.");
+MsgDisp("Hikaru","We're talking about Sassa-kun's gap moe.");
 ChEye(2,5);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -49,15 +50,15 @@ Sassa-kun is the epitome of gap moe.");
 MsgDisp("主人公","...Gap moe?");
 ChMotion(22,4,1);
 VoicePlay("F100230000_22_020");
-MsgDisp("Hikaru","That's no good, Mari.
-when we're talking about Sassa-kun, you
-can't leave this out.");
+MsgDisp("Hikaru","That's no good, Mari. when we're talking
+about Sassa-kun, you can't leave this out.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F100230000_21_020");
-MsgDisp("Michiru","Right. He has an image of being big and
-strong, but he's afraid of ghosts.");
+MsgDisp("Michiru","Right.
+He has an image of being big and strong,
+but he's afraid of ghosts.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,5);

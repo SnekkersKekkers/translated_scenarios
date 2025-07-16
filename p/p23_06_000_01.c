@@ -47,8 +47,7 @@ shortly.");
     ChMouth(6,4);
     ChMotion(6,0,1);
     VoicePlay("P230600001_06_040");
-    MsgDisp("Himuro","Well, 
-you can literally see the backstage.");
+    MsgDisp("Himuro","Well, you can literally see the backstage.");
     MsgDisp("主人公","Hehe.");
     break ;
     default :

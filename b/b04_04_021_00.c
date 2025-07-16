@@ -3,8 +3,8 @@ ChSet(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040402100_04_000");
-MsgDisp("Nanatsumori","Ahー... I wonder if this is what they call
-peace.");
+MsgDisp("Nanatsumori","Ahー...
+I wonder if this is what they call peace.");
 MsgSel("It's nice to be able to take a leisurely walk.","Is that a jellyfish over there?","There's no one here, it looks like we have it to ourselves...");
 switch (MsgSelRsltGet()){
     case 0:

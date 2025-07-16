@@ -63,8 +63,9 @@ Well, another time.");
     VoiceEVSPlay(1);
     VoicePlay("F010100007_01_020");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Huh? ｛風真＊＊｝, I thought you already
-left.");
+    MsgDisp("主人公","Huh?
+｛風真＊＊｝, I thought you
+already left.");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,4);
@@ -119,8 +120,9 @@ We'll eat your favorite sweets.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("F010100007_01_120");
-        MsgDisp("Kazama","I see. Maybe another time.
-...Hah.");
+        MsgDisp("Kazama","I see.
+Maybe another time.
+... Hah.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

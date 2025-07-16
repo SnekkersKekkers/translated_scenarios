@@ -12,8 +12,7 @@ VoicePlay("T020601000_06_140");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","Hey, 
-isn't this the first time?");
+MsgDisp("Himuro","Hey, isn't this the first time?");
 MsgDisp("主人公","?");
 VoicePlay("T020601000_06_150");
 ChEye(6,0);
@@ -29,8 +28,7 @@ VoicePlay("T020601000_06_160");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,3);
-MsgDisp("Himuro","On that note, 
-come here.");
+MsgDisp("Himuro","On that note, come here.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

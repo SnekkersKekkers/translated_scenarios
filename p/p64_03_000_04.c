@@ -3,7 +3,8 @@ ChSet(3,3);
 ScrFadeIn(0);
 VoicePlay("P640300004_03_000");
 MsgDisp("Honda","This salad is super delicious!");
-MsgDisp("主人公","Really? That's good!");
+MsgDisp("主人公","Really?
+That's good!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -26,7 +27,8 @@ VoicePlay("P640300004_03_030");
 MsgDisp("Honda","That's right!
 How about serving the vegetables you grew
 in the school cafeteria?");
-MsgDisp("主人公","(Yay! I was praised by ｛本多＊＊｝. )");
+MsgDisp("主人公","(Yay!
+I was praised by ｛本多＊＊｝. )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

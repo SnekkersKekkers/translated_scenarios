@@ -26,7 +26,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B070501000_05_020");
 MsgDisp("Hiiragi","After that, I've been thinking about it in
 my own way.
-...Even now.");
+... Even now.");
 MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,0);
 ChMouth(5,4);
@@ -72,8 +72,9 @@ VoicePlay("B070501000_05_080");
 MsgDisp("Hiiragi","That's why, I don't know if I can express
 this to you in my own words, but, could
 you please listen?");
-MsgDisp("主人公","Umm...But I was only asking what you
-thought about love, ｛柊＊＊＊｝?");
+MsgDisp("主人公","Umm...
+But I was only asking what you thought
+about love, ｛柊＊＊＊｝?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -86,8 +87,7 @@ ChMotion(5,4);
 VoicePlay("B070501000_05_100");
 MsgDisp("Hiiragi","...Could I have jumped to a wrong
 conclusion?");
-MsgDisp("主人公","I'm sorry for asking 
-something strange...");
+MsgDisp("主人公","I'm sorry for asking something strange...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -102,8 +102,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("B070501000_05_120");
-MsgDisp("Hiiragi","Fuu... I nearly said 
-something outrageous.");
+MsgDisp("Hiiragi","Fuu...
+I nearly said something outrageous.");
 MsgDisp("主人公","(｛柊＊＊＊｝...? It seems like he's
 thinking very thoroughly about love. But,
 what kind of outrageous thing was he

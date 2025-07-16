@@ -12,8 +12,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","It's a good thing we made it in time for
 the night parade, isn't it?");
 VoicePlay("B360423601_04_000");
-MsgDisp("Nanatsumori","Yeah, we made it just 
-in the nick of time.");
+MsgDisp("Nanatsumori","Yeah, we made it just in the nick of time.");
 MsgDisp("主人公","Hehe!
 It's pretty.");
 ChMotion(4,0,1);
@@ -50,20 +49,17 @@ MsgDisp("主人公","I see...");
 ChEye(4,0);
 ChMotion(4,1,1);
 VoicePlay("B360423601_04_060");
-MsgDisp("Nanatsumori","With this, I can be satisfied.
-what about you?");
-MsgDisp("主人公","I think we made 
-some good memories?");
+MsgDisp("Nanatsumori","With this, I can be satisfied. what about
+you?");
+MsgDisp("主人公","I think we made some good memories?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360423601_04_070");
-MsgDisp("Nanatsumori","There's no need for 
-the question mark.");
+MsgDisp("Nanatsumori","There's no need for the question mark.");
 ChEye(4,0);
 VoicePlay("B360423601_04_080");
-MsgDisp("Nanatsumori","I think we both made
-some good memories.");
+MsgDisp("Nanatsumori","I think we both made some good memories.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);

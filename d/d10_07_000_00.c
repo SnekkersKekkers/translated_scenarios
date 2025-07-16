@@ -15,8 +15,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D100700000_07_010");
-MsgDisp("Mikage","You looked kind of sleepy in
-class.");
+MsgDisp("Mikage","You looked kind of sleepy in class.");
 MsgDisp("主人公","Did I really......?");
 ChEye(7,0);
 ChMouth(7,3);

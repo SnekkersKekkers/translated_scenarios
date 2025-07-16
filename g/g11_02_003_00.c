@@ -21,8 +21,10 @@ ChOpen(2,41,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200300_02_000");
-MsgDisp("Sassa","｛主人公｝. You're here?");
-MsgDisp("主人公","｛颯砂＊＊｝, you're running today too?");
+MsgDisp("Sassa","｛主人公｝.
+You're here?");
+MsgDisp("主人公","｛颯砂＊＊｝, you're running today
+too?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
@@ -41,8 +43,7 @@ ChOpen(2,100,1,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200300_02_020");
 MsgDisp("Sassa","Yes, this is good.");
-MsgDisp("主人公","Haa, haa......
-really?");
+MsgDisp("主人公","Haa, haa...... really?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -55,7 +56,8 @@ ChMotion(2,0);
 VoicePlay("G110200300_02_040");
 MsgDisp("Sassa","When we stand in line like this, it
 reminds me of the three-legged race.");
-MsgDisp("主人公","Eh? From the sports festival?");
+MsgDisp("主人公","Eh?
+From the sports festival?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -96,7 +98,8 @@ BGMStop();
 SEPlay("EV_SE_672");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Phew...... That was a bit tiring, but I
-had a lot of fun!)");
+MsgDisp("主人公","(Phew......
+That was a bit tiring, but I had a lot of
+fun!)");
 MsgClose();
 ScrFadeOut(0,0);

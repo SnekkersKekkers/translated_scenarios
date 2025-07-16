@@ -5,7 +5,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040616002_06_000");
-MsgDisp("Himuro","Do you come here often? ");
+MsgDisp("Himuro","Do you come here often?");
 MsgSel("Yeah! I'm a regular","I come here with my friends","I don't think I come that often");
 switch (MsgSelRsltGet()){
     case 0:
@@ -66,8 +66,9 @@ enjoy them.");
         MsgDisp("Himuro","That's why...
 Could you include me in the list of people
 you come here with?");
-        MsgDisp("主人公","...Ah. Hehe, of course! Then, I'll invite
-you next time okay?");
+        MsgDisp("主人公","... Ah.
+Hehe, of course!
+Then, I'll invite you next time okay?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -79,10 +80,12 @@ you next time okay?");
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040616002_06_080");
-        MsgDisp("Himuro","...Haa. Why is it that I could only phrase
-it like that....");
-        MsgDisp("主人公","(?) ｛氷室＊＊｝ seems to be worried about
-something?)");
+        MsgDisp("Himuro","... Haa.
+Why is it that I could only phrase it like
+that....");
+        MsgDisp("主人公","(?)
+｛氷室＊＊｝ seems to be worried
+about something?)");
         break ;
         default :
         DbgAssert(1);

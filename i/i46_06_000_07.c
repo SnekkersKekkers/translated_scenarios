@@ -46,22 +46,23 @@ You know a lot about flowers.");
     MsgDisp("Himuro","Our manager also complimented you.
 Well, keep it up.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(I'm happy that I'm helpful
-to everyone!)");
+    MsgDisp("主人公","(I'm happy that I'm helpful to everyone!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. You should put those
-preserved flowers further from the fresh
-ones.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+You should put those preserved flowers
+further from the fresh ones.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600007_06_050");
-    MsgDisp("Himuro","Ah...... To keep them away from the high
+    MsgDisp("Himuro","Ah......
+To keep them away from the high
 temperatures and humidity, huh.");
-    MsgDisp("主人公","Right. They last longer if they're not in
-direct sun, too.");
+    MsgDisp("主人公","Right.
+They last longer if they're not in direct
+sun, too.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,3);

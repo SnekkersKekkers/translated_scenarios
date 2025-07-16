@@ -22,5 +22,5 @@ MsgDisp("Hiiragi","It's nothing. Just being able to find
 fashion in something so casual and easy to
 move in... I find it impressive.");
 MsgDisp("主人公","(Oh, good.
-｛柊＊＊＊｝ seems to have come to like
-clothes like these.)");
+｛柊＊＊＊｝ seems to have come
+to like clothes like these.)");

@@ -17,7 +17,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B040106401_01_020");
 MsgDisp("Kazama","In that case, good.");
-MsgDisp("主人公","Hehe. And you?");
+MsgDisp("主人公","Hehe.
+And you?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

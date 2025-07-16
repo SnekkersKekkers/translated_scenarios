@@ -46,22 +46,21 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C05102_05_010");
-MsgDisp("Hiiragi","This atmosphere...
-it's not a school cafeteria, but a family
-dining table.");
+MsgDisp("Hiiragi","This atmosphere... it's not a school
+cafeteria, but a family dining table.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D140C05102_07_020");
 MsgDisp("Mikage","Ohh, that sounds interesting.
 I'm the Dad, and you're the Mom.");
-MsgDisp("主人公","E...Ehhh∋");
+MsgDisp("主人公","E...
+Ehhh∋");
 VoicePlay("D140C05102_06_030");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
-MsgDisp("Himuro","He said that
-without hesitation...");
+MsgDisp("Himuro","He said that without hesitation...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -89,9 +88,10 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140C05102_07_030");
 MsgDisp("Mikage","It's great, Yanosuke.");
-MsgDisp("主人公","(｛柊＊＊＊｝ and ｛御影＊＊｝ seem to
-be having fun...
-But ｛氷室＊＊｝ seems a bit dissatisfied?)");
+MsgDisp("主人公","(｛柊＊＊＊｝ and
+｛御影＊＊｝ seem to be
+having fun... But ｛氷室＊＊｝
+seems a bit dissatisfied?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

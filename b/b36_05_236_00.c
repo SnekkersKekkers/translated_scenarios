@@ -13,8 +13,8 @@ ScrFadeIn(0);
 VoicePlay("B360523600_05_000");
 MsgDisp("Hiiragi","Phew, made it on time.");
 MsgDisp("主人公","Yeah, good thing.
-But ｛柊＊＊＊｝, do you enjoy night
-parades?");
+But ｛柊＊＊＊｝, do you enjoy
+night parades?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360523600_05_010");
@@ -57,7 +57,8 @@ MsgClose();
 ChOpen(5,255,0,3,4,#1,#1,0,0,0,30);
 VoicePlay("B360523600_05_060");
 MsgDisp("Hiiragi","See, my field of vision has narrowed.");
-MsgDisp("主人公","Um...... ｛柊＊＊＊｝?");
+MsgDisp("主人公","Um......
+｛柊＊＊＊｝?");
 ChEye(5,4);
 VoicePlay("B360523600_05_070");
 MsgDisp("Hiiragi","What is it?");

@@ -39,5 +39,6 @@ VoicePlay("S110500001_05_040");
 MsgDisp("Hiiragi","How's the saying go again......
 Familiar bad things are less stressful
 than unfamiliar good things......");
-MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ got Excellent Luck and
-got lost in thought......)");
+MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ got
+Excellent Luck and got lost in
+thought......)");

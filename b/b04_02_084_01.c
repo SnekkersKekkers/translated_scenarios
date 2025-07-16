@@ -14,8 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,2,1);
     VoicePlay("B040208401_02_010");
-    MsgDisp("Sassa","Shhh. There, near the hole in the tree,
-looking this way.");
+    MsgDisp("Sassa","Shhh.
+There, near the hole in the tree, looking
+this way.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

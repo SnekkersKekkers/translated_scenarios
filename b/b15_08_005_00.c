@@ -5,7 +5,8 @@ ChOpen(8,255,0,1,4,0,0,4,0);
 ScrFadeIn(0);
 VoicePlay("B150800500_08_000");
 MsgDisp("Shirahane","............");
-MsgDisp("主人公","Ah... I'm sorry.");
+MsgDisp("主人公","Ah...
+I'm sorry.");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("B150800500_08_010");
@@ -40,8 +41,9 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B150800500_08_060");
-MsgDisp("Shirahane","Hehe! This is a trial to climb the stairs
-to adulthood right?");
+MsgDisp("Shirahane","Hehe!
+This is a trial to climb the stairs to
+adulthood right?");
 MsgDisp("主人公","Umm...");
 ChEye(8,0);
 ChMouth(8,4);

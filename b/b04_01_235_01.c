@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040123501_01_010");
-    MsgDisp("Kazama","Right, it was just 
-like a 4D experience.");
+    MsgDisp("Kazama","Right, it was just like a 4D experience.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

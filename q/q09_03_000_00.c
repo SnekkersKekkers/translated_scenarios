@@ -35,7 +35,8 @@ going!");
     VoicePlay("Q090300000_03_030");
     MsgDisp("Honda","｛主人公｝, good morning.
 I was waiting for you.");
-    MsgDisp("主人公","Eh? ｛本多＊＊｝, how early.");
+    MsgDisp("主人公","Eh?
+｛本多＊＊｝, how early.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -56,7 +57,8 @@ We need to use time wisely.");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q090300000_03_060");
-    MsgDisp("Honda","｛主人公｝. Good morning!");
+    MsgDisp("Honda","｛主人公｝.
+Good morning!");
     MsgDisp("主人公","｛本多＊＊｝, how early.");
     ChEye(3,4);
     ChMouth(3,0);
@@ -77,8 +79,8 @@ Oh yeah, so it's a field trip?");
     ChMotion(3,1,1);
     VoicePlay("Q090300000_03_090");
     MsgDisp("Honda","Okay, so are you ready?");
-    MsgDisp("主人公","Yeah! I'm looking forward to our last free
-time.");
+    MsgDisp("主人公","Yeah!
+I'm looking forward to our last free time.");
     ChSet(3,3);
     VoicePlay("Q090300000_03_100");
     MsgDisp("Honda","I wonder what discoveries can you and I

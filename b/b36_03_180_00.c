@@ -41,21 +41,22 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B360318000_03_040");
-MsgDisp("Honda","Yay! Thanks!");
+MsgDisp("Honda","Yay!
+Thanks!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360318000_03_050");
 MsgDisp("Honda","So, what topic should we talk about?
 Comedy, history, science..?");
-MsgDisp("主人公","It sounds like we're picking movie
-genres.");
+MsgDisp("主人公","It sounds like we're picking movie genres.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360318000_03_060");
-MsgDisp("Honda","Exactly! Instead of a movie, I'll just
-chat with you～");
+MsgDisp("Honda","Exactly!
+Instead of a movie, I'll just chat with
+you～");
 MsgDisp("主人公","(｛本多＊＊｝'s stories might be longer
 than a movie...)");
 BGMStop();

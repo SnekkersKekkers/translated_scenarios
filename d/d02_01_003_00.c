@@ -16,11 +16,12 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 VoicePlay("D020100300_01_000");
 MsgDisp("Kazama?","I'm not an elementary school kid anymore.
-......Sorry.");
+...... Sorry.");
 MsgDisp("主人公","(Ah, that voice......)");
 VoicePlay("D020100300_01_010");
-MsgDisp("Kazama","Dad. I'll come over there so I can talk to
-you properly.");
+MsgDisp("Kazama","Dad.
+I'll come over there so I can talk to you
+properly.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 Wait(60);
@@ -46,7 +47,8 @@ VoicePlay("D020100300_01_030");
 MsgDisp("Kazama","I feel like something like this happened
 before.");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","Ah......Yeah.");
+MsgDisp("主人公","Ah......
+Yeah.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -55,7 +57,8 @@ VoicePlay("D020100300_01_040");
 MsgDisp("Kazama","Everytime I talk to my dad, you just
 happen to be here.");
 MsgDisp("主人公","Like I thought, it was your dad......
-｛風真＊＊｝, are you going to England?");
+｛風真＊＊｝, are you going to
+England?");
 ChMotion(1,0);
 Wait(16,0);
 ChEye(1,4);

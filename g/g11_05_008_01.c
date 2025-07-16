@@ -7,7 +7,8 @@ VoicePlay("G110500801_40_000");
 MsgDisp("Male Student","Good work todayー.
 Please lock up.");
 MsgDisp("主人公","Yeees.");
-MsgDisp("主人公","(Huh? ｛柊＊＊＊｝...... )");
+MsgDisp("主人公","(Huh?
+｛柊＊＊＊｝...... )");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);

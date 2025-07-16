@@ -8,7 +8,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("S110700001_07_000");
 MsgDisp("Mikage","Ooh, Excellent Luck!");
-MsgDisp("主人公","｛御影＊＊｝, that's amazing!");
+MsgDisp("主人公","｛御影＊＊｝, that's
+amazing!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

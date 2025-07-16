@@ -8,7 +8,7 @@ VoicePlay("M010200000_02_000");
 MsgDisp("Sassa?","She's sleeping......
 S-Sorry.
 Ah, no, it's fine.");
-MsgDisp("主人公","Ehh∋　this voice is......");
+MsgDisp("主人公","Ehh∋ this voice is......");
 SEPlay("EV_SE_DOOR_024");
 SEWait();
 VoicePlay("M010200000_02_010");
@@ -24,7 +24,8 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("M010200000_02_020");
 MsgDisp("Sassa","Excuse me......
-And? How you holding up?");
+And?
+How you holding up?");
 MsgDisp("主人公","｛颯砂＊＊｝, are YOU okay?
 Did you run into something?");
 ChEye(2,0);
@@ -42,7 +43,8 @@ VoicePlay("M010200000_02_040");
 MsgDisp("Sassa","That right.
 Mm, your color looks pretty good.");
 MsgDisp("主人公","Mm, I'm okay now.
-But ｛颯砂＊＊｝, what about practice?");
+But ｛颯砂＊＊｝, what about
+practice?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

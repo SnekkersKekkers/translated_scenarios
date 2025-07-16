@@ -11,9 +11,10 @@ switch (MsgSelRsltGet()){
         case 4:
         case 5:
         VoicePlay("J060801000_08_000");
-        MsgDisp("Daichi","I'll meetcha there! Wait...... where
-should we meet up?");
-        MsgDisp("主人公","Does the ｛待ち合わせ場所｝ sound good?");
+        MsgDisp("Daichi","I'll meetcha there!
+Wait...... where should we meet up?");
+        MsgDisp("主人公","Does the ｛待ち合わせ場所｝
+sound good?");
         VoicePlay("J060801000_08_010");
         MsgDisp("Daichi","Let's do that.
 Well I'll see ya on the day!");

@@ -36,8 +36,7 @@ ChMotion(5,4);
 VoicePlay("B330C10701_05_010");
 MsgDisp("Hiiragi","It seems as there weren't many of them,
 but we were lucky.");
-MsgDisp("主人公","Thanks to that,
-we all rode together.");
+MsgDisp("主人公","Thanks to that, we all rode together.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -65,8 +64,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("B330C10701_06_010");
-MsgDisp("Himuro","Yes. It was an issue more with the
-steerer, than the size.");
+MsgDisp("Himuro","Yes.
+It was an issue more with the steerer,
+than the size.");
 MsgDisp("主人公","Umm... are you two okay?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -99,8 +99,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,255,0,4,4,#1,#1,0,0,0,30);
 VoicePlay("B330C10701_05_040");
-MsgDisp("Hiiragi","...Phew. Shall we ride on a two person one
-next?");
+MsgDisp("Hiiragi","... Phew.
+Shall we ride on a two person one next?");
 MsgDisp("主人公","Ehh?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -109,19 +109,20 @@ VoicePlay("B330C10701_05_050");
 MsgDisp("Hiiragi","Just now, those two were there, so I held
 back. But if I'm with you, I can really go
 for it, right?");
-MsgDisp("主人公","Hehe! Bring it on!@");
+MsgDisp("主人公","Hehe!
+Bring it on! @");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("B330C10701_05_060");
-MsgDisp("Hiiragi","I suspected as much,
-let's go for the end!");
+MsgDisp("Hiiragi","I suspected as much, let's go for the end!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
 MsgDisp("主人公","(I feel sorry for ｛氷室＊＊｝ and
-｛御影＊＊｝ but... I'm glad to be
-having fun with ｛柊＊＊＊｝! )");
+｛御影＊＊｝ but... I'm
+glad to be having fun with
+｛柊＊＊＊｝! )");
 BGMStop();
 MsgClose();
 ChLayout(2);

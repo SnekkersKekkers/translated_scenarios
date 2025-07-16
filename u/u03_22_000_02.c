@@ -24,13 +24,14 @@ friendship.");
     SEPlay("EV_SE_083");
     MsgDisp("主人公","(\"I got a forest scented candle!)");
     SEPlay("EV_SE_080");
-    MsgDisp("主人公","(My body is feeling lighter
-somehow......)");
+    MsgDisp("主人公","(My body is feeling lighter somehow......)");
     ChMotion(22,3,1);
     VoicePlay("U032200002_22_030");
     MsgDisp("Hikaru","It's around time we go home.
 See you at school♪");
-    MsgDisp("主人公","Yeah. See you later, ｛ひかる＊｝!");
+    MsgDisp("主人公","Yeah.
+See you later,
+｛ひかる＊｝!");
     break ;
     case 1:
     MsgDisp("主人公","I'm sorry but......no");
@@ -46,7 +47,9 @@ See you at school♪");
     MsgDisp("Hikaru","Ok, I see.
 Well, that's enough for today.
 See you next later?");
-    MsgDisp("主人公","Okay. See you later, ｛ひかる＊｝.");
+    MsgDisp("主人公","Okay.
+See you later,
+｛ひかる＊｝.");
     break ;
     default :
     DbgAssert(0);

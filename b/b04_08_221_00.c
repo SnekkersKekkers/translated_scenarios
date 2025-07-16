@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(8,4);
     ChMotion(8,0,1);
     VoicePlay("B040822100_08_010");
-    MsgDisp("Shirahane","...What do you mean by 
-\"even higher\"?");
+    MsgDisp("Shirahane","...What do you mean by \"even higher\"?");
     MsgDateResultDisp();
     break ;
     case 1:

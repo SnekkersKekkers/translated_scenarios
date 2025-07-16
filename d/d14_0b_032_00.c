@@ -23,8 +23,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B03200_04_010");
-MsgDisp("Nanatsumori","Even though you 
-could get it yourself.");
+MsgDisp("Nanatsumori","Even though you could get it yourself.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

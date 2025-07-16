@@ -6,8 +6,9 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("T020500030_05_000");
-MsgDisp("Hiiragi","No. Please don't apologize. Your smile is
-my guide.");
+MsgDisp("Hiiragi","No.
+Please don't apologize.
+Your smile is my guide.");
 BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 ChMotion(5,0);
 Wait(12,0);

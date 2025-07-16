@@ -16,7 +16,8 @@ ChMotion(1,0);
 VoicePlay("K020101000_01_000");
 MsgDisp("Kazama","You should thank me for everything at
 once.");
-MsgDisp("主人公","Huh? All at once?");
+MsgDisp("主人公","Huh?
+All at once?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -31,7 +32,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("K020101000_01_020");
 MsgDisp("Kazama","I would forget New Year's before I forget
 your birthday.");
-MsgDisp("主人公","Hehe. ｛風真＊＊｝, thank you.");
+MsgDisp("主人公","Hehe.
+｛風真＊＊｝, thank you.");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(1,2);
@@ -49,8 +51,9 @@ ChMotion(1,0);
 VoicePlay("K020101000_01_040");
 MsgDisp("Kazama","That's why you should thank me for
 everything at once.");
-MsgDisp("主人公","Yeah. Thank you. Please treat me well this
-year too.");
+MsgDisp("主人公","Yeah.
+Thank you.
+Please treat me well this year too.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

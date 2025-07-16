@@ -6,9 +6,10 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("T020200022_02_000");
-MsgDisp("Sassa","Wait. That 
-......hug∋");
-MsgDisp("主人公","Yes. I also like ｛颯砂＊＊｝.");
+MsgDisp("Sassa","Wait.
+That ...... hug∋");
+MsgDisp("主人公","Yes.
+I also like ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -23,7 +24,8 @@ ChMotion(2,4);
 ChCheek(2,0);
 VoiceEVSPlay(2);
 VoicePlay("T020200022_02_020");
-MsgDisp("Sassa","｛主人公｝...... Thank you.");
+MsgDisp("Sassa","｛主人公｝......
+Thank you.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -50,8 +52,8 @@ MsgDisp("Sassa","I'm not going to just let myself get
 beaten anymore.
 Look at me.");
 VoicePlay("T020200022_02_060");
-MsgDisp("Sassa","I wanted to touch you too.
-...as I love you so much.");
+MsgDisp("Sassa","I wanted to touch you too. ...as I love
+you so much.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

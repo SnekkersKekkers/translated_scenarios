@@ -21,8 +21,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,255,2,2,2,0,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080600007_06_020");
-    MsgDisp("Himuro","Well, it doesn't matter who
-I ride with.");
+    MsgDisp("Himuro","Well, it doesn't matter who I ride with.");
     break ;
     default :
     DbgAssert(1);

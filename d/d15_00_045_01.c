@@ -10,7 +10,8 @@ ChEye ( 5,4 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,4 ) ;
 VoicePlay ( "D150004501_05_000" ) ;
-MsgDisp ( "Hiiragi","Yes. I have been very busy." ) ;
+MsgDisp ( "Hiiragi","Yes.
+I have been very busy." ) ;
 ChEye ( 4,4 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,3 ) ;
@@ -38,16 +39,19 @@ ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150004501_05_020" ) ;
-MsgDisp ( "Hiiragi","Really? I'll take you up on that offer.
+MsgDisp ( "Hiiragi","Really?
+I'll take you up on that offer.
 Let's meet after lunch." ) ;
 ChEye ( 4,2 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,1 ) ;
 VoicePlay ( "D150004501_04_030" ) ;
-MsgDisp ( "Nanatsumori","Ah...Don't expect much from me. You'll be
-the main one teaching, right?" ) ;
-MsgDisp ( "主人公","(Ehhh? A post-lunch study session...I hope
-we can do more of these.)" ) ;
+MsgDisp ( "Nanatsumori","Ah...
+Don't expect much from me.
+You'll be the main one teaching, right?" ) ;
+MsgDisp ( "主人公","(Ehhh?
+A post-lunch study session...
+I hope we can do more of these.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

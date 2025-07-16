@@ -2,14 +2,16 @@ BGOpen("ho210",2);
 ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah, ｛ひかる＊｝ is calling.");
+MsgDisp("主人公","Ah, ｛ひかる＊｝ is
+calling.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("C022200000_22_000");
-MsgDisp("Hikaru","......Hello, Mari.
+MsgDisp("Hikaru","...... Hello, Mari.
 Did you know that disaster is brewing?");
-MsgDisp("主人公","｛ひかる＊｝. ......Disaster?");
+MsgDisp("主人公","｛ひかる＊｝.
+...... Disaster?");
 VoicePlay("C022200000_22_010");
 MsgDisp("Hikaru","Hey, do you remember being cold to any of
 the boys around you, lately?");
@@ -36,7 +38,8 @@ MsgDisp("Hikaru","Hikaru thinks Mari knows, but if annoyance
 Boom! You know?");
 VoicePlay("C022200000_22_060");
 MsgDisp("Hikaru","So it's better to handle it before it
-comes to that. Kay?");
+comes to that.
+Kay?");
 MsgDisp("主人公","But, how should I......");
 VoicePlay("C022200000_22_070");
 MsgDisp("Hikaru","The first thing is to know which boy is

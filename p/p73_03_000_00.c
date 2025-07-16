@@ -9,14 +9,16 @@ switch (ChPrmGet(3,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous..)");
+the runway...
+I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoicePlay("P730300000_03_000");
     MsgDisp("Honda","Ah, I found you.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝! Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+Did you come to watch?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -41,7 +43,8 @@ see you.∈");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous..)");
+the runway...
+I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

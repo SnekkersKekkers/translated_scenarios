@@ -41,8 +41,9 @@ gushes out.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040508201_05_030");
-    MsgDisp("Hiiragi","Yes. Habataki City is an exceedingly nice
-place to live in for fireflies, yes?");
+    MsgDisp("Hiiragi","Yes.
+Habataki City is an exceedingly nice place
+to live in for fireflies, yes?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

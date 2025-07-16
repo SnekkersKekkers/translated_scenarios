@@ -25,16 +25,16 @@ ChMouth(8,3);
 ChCheek(8,6);
 VoicePlay("G020810301_08_030");
 MsgDisp("Shirahane","You always look sparkling too, you know?");
-MsgDisp("主人公","｛大地＊＊｝ is the one who always
-shines?");
+MsgDisp("主人公","｛大地＊＊｝ is the one who
+always shines?");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,0,1);
 ChCheek(8,8);
 VoicePlay("G020810301_08_040");
 MsgDisp("Shirahane","Eh......?");
-MsgDisp("主人公","The smile ｛大地＊＊｝ has during work is
-wonderful.");
+MsgDisp("主人公","The smile ｛大地＊＊｝ has
+during work is wonderful.");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,4,1);
@@ -46,17 +46,18 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("G020810301_08_060");
-MsgDisp("Shirahane","......But, it feels good to smile, right?
+MsgDisp("Shirahane","...... But, it feels good to smile, right?
 I always want to feel happy.");
 MsgDisp("主人公","I see");
 ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("G020810301_08_070");
-MsgDisp("Shirahane","Hehe! I guess that's why I'm smiling ven
-now?");
-MsgDisp("主人公","(Hehe! ｛大地＊＊｝ is a really bright
-person.)");
+MsgDisp("Shirahane","Hehe!
+I guess that's why I'm smiling ven now?");
+MsgDisp("主人公","(Hehe!
+｛大地＊＊｝ is a really
+bright person.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

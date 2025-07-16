@@ -52,16 +52,16 @@ It feels different from usual.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S070700000_07_060");
-    MsgDisp("Mikage","I guess so.
-\"This year for sure!\" will work until
-early January or so?");
+    MsgDisp("Mikage","I guess so. \"
+This year for sure!\" will work until early
+January or so?");
     MsgDisp("主人公","Hehe, and what happens after that?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S070700000_07_070");
     MsgDisp("Mikage","Don't even think about that today.
-......You'll spoil the fun.");
+...... You'll spoil the fun.");
     ChEye(7,0);
     ChMouth(7,3);
     VoicePlay("S070700000_07_080");
@@ -88,10 +88,11 @@ of all your time. I'm the same way.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S070700000_07_110");
-    MsgDisp("Mikage","Yeah. I wish I had unlimited wishes.
+    MsgDisp("Mikage","Yeah.
+I wish I had unlimited wishes.
 You're usually limited to three, right?");
-    MsgDisp("主人公","Hehe, I wonder what's ｛御影＊＊｝'s
-wish?");
+    MsgDisp("主人公","Hehe, I wonder what's
+｛御影＊＊｝'s wish?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);

@@ -71,8 +71,7 @@ us before.");
         ChClose(3);
         SEWait();
         VoicePlay("B040322202_03_060");
-        MsgDisp("Honda","Excuse me, 
-could you take a picture of us?");
+        MsgDisp("Honda","Excuse me, could you take a picture of us?");
         MsgDisp("主人公","(｛本多＊＊｝?)");
         MsgClose();
         ScrFadeOut(0);
@@ -97,8 +96,9 @@ is better than you in armor.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040322202_03_090");
-        MsgDisp("Honda","Yeah. I should've taken lots of normal
-pictures with you first.");
+        MsgDisp("Honda","Yeah.
+I should've taken lots of normal pictures
+with you first.");
         MsgDisp("主人公","I see, I too——");
         ChEye(3,0);
         ChMouth(3,3);
@@ -106,7 +106,9 @@ pictures with you first.");
         VoicePlay("B040322202_03_100");
         MsgDisp("Honda","Then after that, wearing armour would be
 interesting, yep yep.");
-        MsgDisp("主人公","(...Hm? Interesting?)");
+        MsgDisp("主人公","(...
+Hm?
+Interesting?)");
         break ;
         default :
         DbgAssert(1);

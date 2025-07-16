@@ -26,8 +26,7 @@ My only rival is myself.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040202302_02_020");
-    MsgDisp("Sassa","Yeah, I can see his face in
-the sunset.");
+    MsgDisp("Sassa","Yeah, I can see his face in the sunset.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,7 +42,7 @@ the sunset.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040202302_02_030");
-        MsgDisp("Sassa","......Ah, thank you.
+        MsgDisp("Sassa","...... Ah, thank you.
 It was just a joke, though......");
         MsgDateResultDisp();
         break ;
@@ -67,8 +66,9 @@ I don't plan on losing either.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040202302_02_060");
-        MsgDisp("Sassa","I think I understand. Sorry. That's my
-bad.");
+        MsgDisp("Sassa","I think I understand.
+Sorry.
+That's my bad.");
         MsgDisp("主人公","Eh?");
         ChEye(2,4);
         ChMouth(2,0);
@@ -91,8 +91,9 @@ That's a promise.");
 like this, it really feels like an anime
 after all, huh?");
         MsgDisp("主人公","Hehe!");
-        MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I truly believe he
-will make his dreams come true.)");
+        MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I truly
+believe he will make his dreams come
+true.)");
         break ;
         default :
         DbgAssert(1);

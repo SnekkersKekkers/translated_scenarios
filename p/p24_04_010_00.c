@@ -4,12 +4,10 @@ BGMPlay("BGM_ENGEKI_D",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P240401000_45_000");
-MsgDisp("Bell","I...
-I love you. I love you...!
-Please...");
+MsgDisp("Bell","I... I love you. I love you...! Please...");
 VoicePlay("P240401000_39_010");
-MsgDisp("Beast","Oh... oh! I'm returning to my original
-form!");
+MsgDisp("Beast","Oh... oh!
+I'm returning to my original form!");
 VoicePlay("P240401000_39_020");
 MsgDisp("Beast","Thank you.
 It's thanks to you!");
@@ -55,10 +53,10 @@ VoicePlay("P240401000_04_040");
 MsgDisp("Nanatsumori","...What about your true feelings?");
 MsgDisp("主人公","True feelings?
 I...");
-MsgDisp("主人公","｛七ツ森＊｝ is ｛七ツ森＊｝. Even
-if your appearance is different, it
-doesn't make any difference to me...I
-guess?");
+MsgDisp("主人公","｛七ツ森＊｝ is
+｛七ツ森＊｝. Even if your
+appearance is different, it doesn't make
+any difference to me...I guess?");
 ChEye(4,3);
 ChMouthOpenLevel(4,0);
 ChCheek(4,7);

@@ -39,9 +39,9 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_340");
 MsgDisp("Hikaru","Ehe▼");
-MsgDisp("主人公","(｛ひかる＊｝ is very talented after
-all. It's good to have lots of different
-dreams for the future.)");
+MsgDisp("主人公","(｛ひかる＊｝ is very talented after all.
+It's good to have lots of different dreams
+for the future.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

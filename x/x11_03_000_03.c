@@ -10,7 +10,8 @@ switch (ChPrmGet(3,6)){
     VoicePlay("X110300003_03_000");
     MsgDisp("Honda","Good job on the joint practice!
 I heard you decided on a new move?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Yes, I did my best!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Yes, I did my best!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);
@@ -18,7 +19,8 @@ I heard you decided on a new move?");
     VoicePlay("X110300003_03_010");
     MsgDisp("Honda","I'll have to ask you to show it to me
 sometime.");
-    MsgDisp("主人公","(I did it! I got praised by ｛本多＊＊｝! )");
+    MsgDisp("主人公","(I did it!
+I got praised by ｛本多＊＊｝! )");
     break ;
     case 4:
     case 5:
@@ -36,8 +38,7 @@ newspaper club from another school, right?");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("X110300003_03_030");
-    MsgDisp("Honda","Still, it's an attention-getter.
-right?");
+    MsgDisp("Honda","Still, it's an attention-getter. right?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);

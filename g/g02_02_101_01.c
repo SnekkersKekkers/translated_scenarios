@@ -32,15 +32,17 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("G020210101_02_040");
-MsgDisp("Sassa","Yeah. He'd say what be blunt and even say
+MsgDisp("Sassa","Yeah.
+He'd say what be blunt and even say
 abusive language——");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020210101_02_050");
-MsgDisp("Sassa","......Hm? That's the same as usual
-then......");
-MsgDisp("主人公","Hehe, if ｛氷室＊＊｝ he'd be mad, you know?");
+MsgDisp("Sassa","...... Hm?
+That's the same as usual then......");
+MsgDisp("主人公","Hehe, if ｛氷室＊＊｝ he'd be mad,
+you know?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -58,7 +60,8 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020210101_02_080");
-MsgDisp("Sassa","Me......I would be quiet.");
+MsgDisp("Sassa","Me......
+I would be quiet.");
 MsgDisp("主人公","Ehh?");
 ChEye(2,0);
 ChMouth(2,4);

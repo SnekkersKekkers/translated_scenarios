@@ -14,8 +14,9 @@ ChMouth(9,4);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900600_09_000");
-MsgDisp("Kuya","Hey. Did you come here to see me again
-today too?");
+MsgDisp("Kuya","Hey.
+Did you come here to see me again today
+too?");
 ChEye(9,2);
 ChMouth(9,4);
 ChMotion(9,2,1);
@@ -35,8 +36,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900600_09_020");
 MsgDisp("Kuya","Understood.");
-MsgDisp("主人公","Uhm......What's with the basket and
-tongs?");
+MsgDisp("主人公","Uhm......
+What's with the basket and tongs?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -71,9 +72,11 @@ Getting to pick chestnuts in this town is
 a pretty rare experience.");
 ChEyeOpenLevel(9,#1);
 VoicePlay("D030900600_36_030");
-MsgDisp("Man","Hahaha!　I guess so!
+MsgDisp("Man","Hahaha!
+I guess so!
 I'm really grateful!");
-MsgDisp("主人公","Phew......Chestnut picking was fun, huh?");
+MsgDisp("主人公","Phew......
+Chestnut picking was fun, huh?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -131,8 +134,9 @@ ChMouth(9,0);
 ChMotion(9,3,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900600_09_110");
-MsgDisp("Kuya","Ah...... I guess I feel the same way about
-what happened earlier.");
+MsgDisp("Kuya","Ah......
+I guess I feel the same way about what
+happened earlier.");
 ChEye(9,3);
 ChMouth(9,3);
 ChMotion(9,0,1);

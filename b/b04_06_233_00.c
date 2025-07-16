@@ -5,7 +5,8 @@ MsgClose();
 ChOpen(6,255,0,3,3,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623300_06_000");
-MsgDisp("Himuro","Ahaha! This is the best!");
+MsgDisp("Himuro","Ahaha!
+This is the best!");
 MsgSel("I could get used to this thrill!","Hey, that's enough...","That was a very interesting experience...");
 switch (MsgSelRsltGet()){
     case 0:

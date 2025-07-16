@@ -16,7 +16,7 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020330001_03_020");
 MsgDisp("Honda","Ryo might get mad though.
-Like, 'Why didn't you invite me?'");
+Like, 'Why didn't you invite me? '");
 MsgDisp("主人公","Is that so......?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -36,7 +36,7 @@ ChMouth(3,3);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020330001_03_050");
-MsgDisp("Honda","Why didn't you tell me?' in his blunt
+MsgDisp("Honda","Why didn't you tell me? ' in his blunt
 tone.
 So troublesomeー.");
 MsgDisp("主人公","It doesn't seem that way to me.
@@ -45,8 +45,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020330001_03_060");
-MsgDisp("Honda","Yeah. It's a different kind of fun from
-being with you.");
+MsgDisp("Honda","Yeah.
+It's a different kind of fun from being
+with you.");
 ChMotion(3,0);
 VoicePlay("G020330001_03_070");
 MsgDisp("Honda","Watching their reactions, those two are

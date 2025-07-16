@@ -20,7 +20,8 @@ switch (MsgSelRsltGet()){
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040515202_05_010");
-        MsgDisp("Hiiragi","Huh? What's the matter, where's your usual
+        MsgDisp("Hiiragi","Huh?
+What's the matter, where's your usual
 guts?");
         MsgDateResultDisp();
         break ;
@@ -65,8 +66,8 @@ Ah, you did it huh?");
         ChOpen(5,255,0,2,4,#1,#1,0,0);
         VoicePlay("B040515202_05_050");
         MsgDisp("Hiiragi","There was no need for a handicap.");
-        MsgDisp("主人公","｛柊＊＊＊｝'s method of teaching was
-successful.
+        MsgDisp("主人公","｛柊＊＊＊｝'s method of teaching
+was successful.
 Thank you.");
         ChMotion(5,4);
         VoicePlay("B040515202_05_060");
@@ -88,8 +89,10 @@ out of three rounds.");
         SEPlay("EV_SE_869");
         SEPlay("EV_SE_062");
         SEWait();
-        MsgDisp("主人公","Ehhh∋　Sneaky!");
-        MsgDisp("主人公","(Hey...｛柊＊＊＊｝, you really hate to
+        MsgDisp("主人公","Ehhh∋
+Sneaky!");
+        MsgDisp("主人公","(Hey...
+｛柊＊＊＊｝, you really hate to
 lose huh...)");
         MsgClose();
         ScrFadeOut(0,0);

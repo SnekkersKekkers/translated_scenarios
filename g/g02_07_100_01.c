@@ -54,9 +54,9 @@ VoicePlay("G020710001_07_070");
 MsgDisp("Mikage","Ah, that was just, well, in the heat of
 the moment. Forget about it. That's
 strange......what am I even saying.");
-MsgDisp("主人公","(Only me?
-Just now, if that was ｛御影＊＊｝'s
-inner voice, I'd be happy......)");
+MsgDisp("主人公","(Only me? Just now, if that was
+｛御影＊＊｝'s inner voice,
+I'd be happy......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

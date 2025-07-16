@@ -14,15 +14,17 @@ ScrFadeIn(0);
 MsgDisp("主人公","What a pretty color...");
 ChEye(5,4);
 VoicePlay("B140500100_05_000");
-MsgDisp("Hiiragi","Yes. Habataki City is devoted to ensuring
-their residents have a good time.");
+MsgDisp("Hiiragi","Yes.
+Habataki City is devoted to ensuring their
+residents have a good time.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B140500100_05_010");
 MsgDisp("Hiiragi","Am I also giving you a good time?");
-MsgDisp("主人公","Yeah. I'll spend both Christmas Eve and
-day with ｛柊＊＊＊｝.");
+MsgDisp("主人公","Yeah.
+I'll spend both Christmas Eve and day with
+｛柊＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -56,7 +58,8 @@ VoicePlay("B140500100_05_050");
 MsgDisp("Hiiragi","How about it?
 Won't you come to our side of the world?");
 MsgDisp("主人公","Ehhh∋");
-MsgDisp("主人公","｛柊＊＊＊｝, was that a joke...?)");
+MsgDisp("主人公","｛柊＊＊＊｝, was that a
+joke...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

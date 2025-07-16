@@ -34,7 +34,7 @@ Looking forward to it!");
     ChMotion(4,1,1);
     VoicePlay("O040401000_04_020");
     MsgDisp("Nanatsumori","Ah, aah.
-......You, aren't serious about this,
+...... You, aren't serious about this,
 right?");
     break ;
     case 4:
@@ -47,9 +47,10 @@ right?");
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("O040401000_04_030");
-    MsgDisp("Nanatsumori","｛主人公｝. Looks like we're on the
-same team?");
-    MsgDisp("主人公","｛七ツ森＊｝! Looking forward to it!");
+    MsgDisp("Nanatsumori","｛主人公｝.
+Looks like we're on the same team?");
+    MsgDisp("主人公","｛七ツ森＊｝!
+Looking forward to it!");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -62,7 +63,8 @@ expectations, though.");
     ChMotion(4,0,1);
     VoicePlay("O040401000_04_050");
     MsgDisp("Nanatsumori","Together......
-Yeah. Let's do this.");
+Yeah.
+Let's do this.");
     break ;
     default :
     DbgAssert(1);

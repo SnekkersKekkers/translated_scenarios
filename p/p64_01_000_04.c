@@ -4,7 +4,8 @@ ChMotion(1,0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("P640100004_01_000");
-MsgDisp("Kazama","｛主人公｝, thank you for the meal.");
+MsgDisp("Kazama","｛主人公｝, thank you for
+the meal.");
 MsgDisp("主人公","Was it delicious?");
 ChEye(1,3);
 ChMouth(1,3);
@@ -37,11 +38,11 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P640100004_01_040");
-MsgDisp("Kazama","I see, 
-I'll buy some before they sell out.");
+MsgDisp("Kazama","I see, I'll buy some before they sell out.");
 ChClose(1,0,30);
-MsgDisp("主人公","(Yay! I'm so glad I've worked hard for
-three years to make people this happy!)");
+MsgDisp("主人公","(Yay!
+I'm so glad I've worked hard for three
+years to make people this happy!)");
 MsgClose();
 ScrFadeOut(0,0);
 BGMStop();

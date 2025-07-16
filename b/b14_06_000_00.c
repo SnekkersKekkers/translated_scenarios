@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGOpen("ex300",2);
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa...pretty!
+MsgDisp("主人公","Waa... pretty!
 It's a blue illumination.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -31,8 +31,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B140600000_06_030");
-MsgDisp("Himuro","Right.
-we met yesterday, and today too...");
+MsgDisp("Himuro","Right. we met yesterday, and today too...");
 MsgDisp("主人公","Do you dislike it...?");
 ChEye(6,0);
 ChMouth(6,4);

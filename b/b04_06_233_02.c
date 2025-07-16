@@ -56,10 +56,8 @@ into.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623302_06_040");
-        MsgDisp("Himuro","Seems like it
-didn't have any effect...");
-        MsgDisp("主人公","Did you want
-your heart to flutter?");
+        MsgDisp("Himuro","Seems like it didn't have any effect...");
+        MsgDisp("主人公","Did you want your heart to flutter?");
         ChEye(6,1);
         ChMouth(6,1);
         ChMotion(6,1);
@@ -82,8 +80,7 @@ it before long.");
         MsgDisp("Himuro","If you think about it, there's no value in
 an excitement that's only limited to a
 moment.");
-        MsgDisp("主人公","What if it wasn't 
-limited to a moment?");
+        MsgDisp("主人公","What if it wasn't limited to a moment?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,5);
@@ -91,8 +88,8 @@ limited to a moment?");
         MsgDisp("Himuro","I'll keep quiet about that.
 You'ree free to come up with your own
 conclusions based off the situation.");
-        MsgDisp("主人公","I see...
-so, did your heart race, ｛氷室＊＊｝?");
+        MsgDisp("主人公","I see... so, did your heart race,
+｛氷室＊＊｝?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
@@ -106,9 +103,9 @@ suspension bridge effect.");
         ChEyeOpenLevel(6,0);
         ChCheek(6,10);
         VoicePlay("B040623302_06_100");
-        MsgDisp("Himuro","...Well, it's a bit late 
-for that anyways.");
-        MsgDisp("主人公","Eh? Did you say something?");
+        MsgDisp("Himuro","...Well, it's a bit late for that anyways.");
+        MsgDisp("主人公","Eh?
+Did you say something?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

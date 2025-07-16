@@ -6,8 +6,9 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040422201_04_000");
-MsgDisp("Nanatsumori","Hmm... It's a love story between a
-townsgirl and a lord.");
+MsgDisp("Nanatsumori","Hmm...
+It's a love story between a townsgirl and
+a lord.");
 MsgSel("It's a tragic love, but it's wonderful...","Aren't their situations too different?","Seems kind of far-fetched...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -40,8 +41,7 @@ They fell in love after all.");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("B040422201_04_030");
-    MsgDisp("Nanatsumori","Uwah, that's a cruel 
-way of putting it...");
+    MsgDisp("Nanatsumori","Uwah, that's a cruel way of putting it...");
     MsgDateResultDisp();
     break ;
     default :

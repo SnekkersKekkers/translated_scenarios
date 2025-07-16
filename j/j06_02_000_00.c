@@ -31,8 +31,8 @@ the day.");
         BGMStop();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝. ......
-This is a date, right?)");
+        MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝.
+...... This is a date, right?)");
         break ;
         case 4:
         case 5:
@@ -42,7 +42,8 @@ This is a date, right?)");
         VoicePlay("J060200000_02_020");
         MsgDisp("Sassa","Really? Yes, absolutely! Okay, let's
 decide where we're going to meet.");
-        MsgDisp("主人公","Yeah. Okay, then, how about we meet at the
+        MsgDisp("主人公","Yeah.
+Okay, then, how about we meet at the
 ｛待ち合わせ場所｝?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -65,7 +66,8 @@ See you.");
         BGMStop();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(｛颯砂＊＊｝. He asked me out on a date.
+        MsgDisp("主人公","(｛颯砂＊＊｝.
+He asked me out on a date.
 I'm looking forward to it!!)");
         break ;
         default :

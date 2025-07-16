@@ -39,7 +39,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A20701_02_010");
 MsgDisp("Sassa","Watching you relax, is making us feel
-relaxed too. Right?");
+relaxed too.
+Right?");
 ChCheek(1,0);
 ChCheek(6,0);
 ChEye(1,2);
@@ -53,8 +54,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330A20701_06_010");
-MsgDisp("Himuro","He said \"Right\", 
-Ryota-senpai.");
+MsgDisp("Himuro","He said \"Right\", Ryota-senpai.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -65,7 +65,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChCheek(2,0);
 VoicePlay("B330A20701_02_020");
-MsgDisp("Sassa","Hm? What's up.");
+MsgDisp("Sassa","Hm?
+What's up.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -97,8 +98,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A20701_06_030");
-MsgDisp("Himuro","Yeah,
-let's go with that.");
+MsgDisp("Himuro","Yeah, let's go with that.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
@@ -106,7 +106,8 @@ ChCheek(2,5);
 VoicePlay("B330A20701_02_040");
 MsgDisp("Sassa","So, just hold the kitten longer.
 Don't mind us.");
-MsgDisp("主人公","(...I'm super curious.)");
+MsgDisp("主人公","(...
+I'm super curious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

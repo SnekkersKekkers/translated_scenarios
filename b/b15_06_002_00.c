@@ -47,9 +47,9 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("B150600200_06_060");
-MsgDisp("Himuro","Heeh? You're touching me even though I'm a
-guy? In a way, that's even more of a
-problem.");
+MsgDisp("Himuro","Heeh?
+You're touching me even though I'm a guy?
+In a way, that's even more of a problem.");
 MsgDisp("主人公","Ugh...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -86,7 +86,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 SEWait();
-MsgDisp("主人公","(Alright, I need to 
-act like the senior!)");
+MsgDisp("主人公","(Alright, I need to act like the senior!)");
 MsgClose();
 ScrFadeOut(0,0);

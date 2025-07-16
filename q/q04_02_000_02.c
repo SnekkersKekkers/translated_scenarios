@@ -21,8 +21,9 @@ Let's enjoy the day though!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Sigh...... How unlucky. I guess it can't
-be helped.)");
+    MsgDisp("主人公","(Sigh......
+How unlucky.
+I guess it can't be helped.)");
     break ;
     case 3:
     break ;

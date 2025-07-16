@@ -14,7 +14,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","Thank you for today, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Thank you for today,
+｛柊＊＊＊｝.
 What are you doing later?");
     ChMotion(5,4);
     VoicePlay("S120500000_05_060");
@@ -49,14 +50,15 @@ year......)");
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for taking me.
-｛柊＊＊＊｝, what are you doing after
-this?");
+｛柊＊＊＊｝, what are you doing
+after this?");
     ChMotion(5,4);
     VoicePlay("S120500000_05_130");
     MsgDisp("Hiiragi","There will be a New Year's show soon, so
 there is a lot for us to do.
 Rehearsals, meetings, etcetera.");
-    MsgDisp("主人公","I see......That's rough.");
+    MsgDisp("主人公","I see......
+That's rough.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

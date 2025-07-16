@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     NSSEye(4,6);
     NSSMouth(4,4);
     VoicePlay("B160400300_04_010");
-    MsgDisp("Nanatsumori","Ah...right.
+    MsgDisp("Nanatsumori","Ah... right.
 Now that you've answered so honestly, I
 don't know how to respond.");
     break ;
@@ -19,9 +19,9 @@ don't know how to respond.");
     NSSEye(4,2);
     NSSMouth(4,3);
     VoicePlay("B160400300_04_020");
-    MsgDisp("Nanatsumori","It's not at teasing level.
-Well...I don't hate it, so I'll allow it.
-Feel free to continue.");
+    MsgDisp("Nanatsumori","It's not at teasing level. Well...I don't
+hate it, so I'll allow it. Feel free to
+continue.");
     break ;
     default :
     DbgAssert(0);

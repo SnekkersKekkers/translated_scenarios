@@ -6,7 +6,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("H6G0100000_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛風真＊＊｝? What is it?");
+MsgDisp("主人公","Oh, ｛風真＊＊｝?
+What is it?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -43,13 +44,14 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("H6G0100000_01_050");
 MsgDisp("Kazama","Don't forget!
-......Geez.");
+...... Geez.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("H6G0100000_01_060");
 MsgDisp("Kazama","Well, I guess this just means that even
-plants can feel your kindness. Congrats.");
+plants can feel your kindness.
+Congrats.");
 MsgDisp("主人公","Hehe, thanks!");
 MsgDisp("主人公","(｛風真＊＊｝ went out of his way to
 congratulate me. I'm glad I worked so hard

@@ -16,7 +16,7 @@ BGMPlay("BGM_C06_INORI_B");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600100_06_000");
-MsgDisp("Himuro","......So, what?
+MsgDisp("Himuro","...... So, what?
 Why did you come all the way here?");
 MsgDisp("主人公","Ah......I wanted to apologize for
 something that happened at the sports
@@ -39,15 +39,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600100_06_030");
-MsgDisp("Himuro","I'm not that childish.
-......but.");
+MsgDisp("Himuro","I'm not that childish. ......but.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600100_06_040");
 MsgDisp("Himuro","I did doubt my physical ability for a bit.
-Maybe I wasn't that good at
-exercise......that's what I thought.");
+Maybe I wasn't that good at exercise......
+that's what I thought.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -63,7 +63,7 @@ ChMotion(4,1,1);
 VoicePlay("B360417001_04_080");
 MsgDisp("Nanatsumori","Hm?");
 MsgDisp("主人公","On the stage the whole time!
-...I guess?");
+... I guess?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

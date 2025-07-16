@@ -9,10 +9,10 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,30,2,2,2,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200002_02_000");
-    MsgDisp("Sassa","Haa...... Sorry. I have to match your
-pace......");
-    MsgDisp("主人公","(Ugh,
-I should've tried harder......)");
+    MsgDisp("Sassa","Haa......
+Sorry.
+I have to match your pace......");
+    MsgDisp("主人公","(Ugh, I should've tried harder......)");
     break ;
     case 3:
     MsgClose();
@@ -33,8 +33,7 @@ I went faster than I should've.");
     ChEyeOpenLevel(2,0);
     VoicePlay("O030200002_02_030");
     MsgDisp("Sassa","But, last, huh......");
-    MsgDisp("主人公","(Ugh,
-I should've tried harder......)");
+    MsgDisp("主人公","(Ugh, I should've tried harder......)");
     break ;
     case 4:
     case 5:
@@ -48,8 +47,9 @@ I should've tried harder......)");
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("O030200002_02_050");
-    MsgDisp("Sassa","Ahaha...... This might be the first time
-I've placed last in athletics.");
+    MsgDisp("Sassa","Ahaha......
+This might be the first time I've placed
+last in athletics.");
     ChEye(2,2);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -57,8 +57,7 @@ I've placed last in athletics.");
     MsgDisp("Sassa","And in the competition with you?
 I'm sorry, I was rushing.
 I wanted to win for you......");
-    MsgDisp("主人公","(Ugh,
-I should've tried harder......)");
+    MsgDisp("主人公","(Ugh, I should've tried harder......)");
     break ;
     default :
     DbgAssert(1);

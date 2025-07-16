@@ -17,27 +17,30 @@ ChMotion(2,4);
 VoicePlay("G020220201_02_020");
 MsgDisp("Sassa","Maybe it's just his natural trait, but
 it's impressive.");
-MsgDisp("主人公","Haha, ｛颯砂＊＊｝ likes those things about
-｛氷室＊＊｝ doesn't he?");
+MsgDisp("主人公","Haha, ｛颯砂＊＊｝ likes those
+things about ｛氷室＊＊｝ doesn't
+he?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220201_02_030");
-MsgDisp("Sassa","Hmm...... You're saying this like it's
-someone else's business.");
+MsgDisp("Sassa","Hmm......
+You're saying this like it's someone
+else's business.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020220201_02_040");
-MsgDisp("Sassa","No, not 'eh'. ");
+MsgDisp("Sassa","No, not 'eh'.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020220201_02_050");
-MsgDisp("Sassa","Haa......I thought I was the closest to
-you, but Inori slipped past me.");
+MsgDisp("Sassa","Haa......
+I thought I was the closest to you, but
+Inori slipped past me.");
 MsgDisp("主人公","Eh......");
 ChEye(2,0);
 ChMouth(2,0);

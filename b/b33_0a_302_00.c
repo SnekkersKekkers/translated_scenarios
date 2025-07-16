@@ -15,8 +15,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A30200_02_000");
-MsgDisp("Sassa","Trying to look cool
-under the parasol.");
+MsgDisp("Sassa","Trying to look cool under the parasol.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
@@ -43,14 +42,13 @@ ChClose(6,0,30);
 ChClose(2,0,30);
 Wait(40,0);
 VoicePlay("B330A30200_01_010");
-MsgDisp("Kazama","Never mind that,
-just leave me alone.");
+MsgDisp("Kazama","Never mind that, just leave me alone.");
 VoicePlay("B330A30200_02_030");
-MsgDisp("Sassa","But we came all 
-this way as a four.");
+MsgDisp("Sassa","But we came all this way as a four.");
 VoicePlay("B330A30200_06_010");
-MsgDisp("Himuro","Right. But it's not like we were going for
-a long swim or anything.");
+MsgDisp("Himuro","Right.
+But it's not like we were going for a long
+swim or anything.");
 MsgClose();
 SEPlay("EV_SE_560");
 Wait(40,0);
@@ -68,8 +66,7 @@ SEWait();
 MsgDisp("主人公","Hehe, we're finally a four.");
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30200_01_020");
-MsgDisp("Kazama","Then, what are we 
-going to do as a four?");
+MsgDisp("Kazama","Then, what are we going to do as a four?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
@@ -88,8 +85,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330A30200_06_030");
-MsgDisp("Himuro","Is that fine with you
-too, Ryota-senpai?");
+MsgDisp("Himuro","Is that fine with you too, Ryota-senpai?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -120,7 +116,8 @@ MsgDisp("Himuro","I expected that of Nozomu-senpai, but you
 and Ryota-senpai also have an aptitude for
 it.");
 VoicePlay("B330A30200_02_050");
-MsgDisp("Sassa","Inori! Look, we're going one last time!
+MsgDisp("Sassa","Inori!
+Look, we're going one last time!
 The two of us are heading there together!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -140,8 +137,8 @@ Wait(70,0);
 VoicePlay("B330A30200_01_040");
 MsgDisp("Kazama","Yo, how was that!");
 VoicePlay("B330A30200_02_060");
-MsgDisp("Sassa","Alright! That was good just now, wasn't
-it!");
+MsgDisp("Sassa","Alright!
+That was good just now, wasn't it!");
 MsgDisp("主人公","You were both amazing!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -155,8 +152,7 @@ ChOpen(1,31,0,0,3,#1,#1,0,3,0,30);
 ChCustomLayout(2,1.8,1.2,-0.5);
 ChOpen(2,31,3,0,4,#1,#1,0,3,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","You've both improved
-a lot haven't you?");
+MsgDisp("主人公","You've both improved a lot haven't you?");
 ChEyeOpenLevel(1,0);
 ChEye(6,0);
 ChMouth(6,4);
@@ -165,7 +161,8 @@ VoicePlay("B330A30200_06_060");
 MsgDisp("Himuro","Ryota-senpai and Nozomu senpai have
 natural potential.
 Of course, that goes for you too.");
-MsgDisp("主人公","Really? Thanks.");
+MsgDisp("主人公","Really?
+Thanks.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -176,7 +173,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A30200_02_070");
-MsgDisp("Sassa","Right. Thanks Inori-sensei.");
+MsgDisp("Sassa","Right.
+Thanks Inori-sensei.");
 VoicePlay("B330A30200_01_060");
 VoicePlay("B330A30200_02_080");
 ChEye(1,0);
@@ -196,8 +194,8 @@ ChCheek(6,5);
 MsgDisp("Himuro","...Then, as for the tuition fee, you guys
 will treat me to the next meal at the
 school cafeteria.");
-MsgDisp("主人公","(Hehe, that's just like ｛氷室＊＊｝.
-But it was super fun.
+MsgDisp("主人公","(Hehe, that's just like
+｛氷室＊＊｝. But it was super fun.
 I want to come here with everyone again!)");
 BGMStop();
 MsgClose();

@@ -14,10 +14,11 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B330B30300_04_000");
-MsgDisp("Nanatsumori","Ah... The top in that window. It looks
-like it would suit you.");
-MsgDisp("主人公","Waa, it's so stylish!
-...it costs a lot though.");
+MsgDisp("Nanatsumori","Ah...
+The top in that window.
+It looks like it would suit you.");
+MsgDisp("主人公","Waa, it's so stylish! ...it costs a lot
+though.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -28,8 +29,9 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B330B30300_03_000");
-MsgDisp("Honda","Seriously! My sister says it a lot, girl's
-clothes are expensive.");
+MsgDisp("Honda","Seriously!
+My sister says it a lot, girl's clothes
+are expensive.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -53,8 +55,7 @@ That's an astonishing price...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","Yeah, 
-that's because they're popular now.");
+MsgDisp("主人公","Yeah, that's because they're popular now.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

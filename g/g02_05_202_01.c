@@ -30,7 +30,8 @@ to turn things around.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_040");
 MsgDisp("Hiiragi","Consequently, I am in despair.");
-MsgDisp("主人公","Umm...... Well, I also like
+MsgDisp("主人公","Umm......
+Well, I also like
 ｛御影＊＊｝, but——");
 ChEye(5,2);
 ChMouth(5,4);
@@ -54,10 +55,12 @@ I wouldn't even know where to start......");
 ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520201_05_080");
-MsgDisp("Hiiragi","Huu...... I am an actor...... maybe I
-should attempt imitating Mikage-sensei?");
+MsgDisp("Hiiragi","Huu......
+I am an actor...... maybe I should attempt
+imitating Mikage-sensei?");
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","Eh? ｛柊＊＊＊｝ imitating
+MsgDisp("主人公","Eh?
+｛柊＊＊＊｝ imitating
 ｛御影＊＊｝∋");
 ChEye(5,4);
 ChMouth(5,0);

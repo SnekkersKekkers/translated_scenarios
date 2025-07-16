@@ -3,8 +3,9 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you headed to the
-beach after this, today too?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Are you headed to the beach after this,
+today too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -15,7 +16,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("G110600700_06_010");
-MsgDisp("Himuro","No......yes, I'm going to the beach.
+MsgDisp("Himuro","No...... yes, I'm going to the beach.
 I guess you're coming?");
 MsgDisp("主人公","Ah, yes!");
 SEStop("EV_SE_SCHOOL_002",2);
@@ -30,8 +31,8 @@ BGOpen("ev006",1);
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛氷室＊＊｝, you were about to say 'game
-centre', were you planning to go?");
+MsgDisp("主人公","｛氷室＊＊｝, you were about to say
+'game centre', were you planning to go?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

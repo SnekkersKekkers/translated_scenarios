@@ -9,8 +9,9 @@ MsgClose();
 ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa...! The illumination is beautiful! The
-blue world is expanding...");
+MsgDisp("主人公","Waa...!
+The illumination is beautiful!
+The blue world is expanding...");
 ChMouth(4,3);
 VoicePlay("B140400000_04_000");
 MsgDisp("Nanatsumori","Yeah.
@@ -24,8 +25,7 @@ MsgDisp("主人公","Eh?");
 ChMotion(4,0,1);
 VoicePlay("B140400000_04_020");
 MsgDisp("Nanatsumori","What day it is today?");
-MsgDisp("主人公","The 25th of December, 
-so Christmas Day?");
+MsgDisp("主人公","The 25th of December, so Christmas Day?");
 VoicePlay("B140400000_04_030");
 MsgDisp("Nanatsumori","What about yesterday?");
 MsgDisp("主人公","Christmas eve.
@@ -38,8 +38,7 @@ MsgDisp("Nanatsumori","...Pfft!");
 MsgDisp("主人公","Eh...
 Did I say something weird?");
 VoicePlay("B140400000_04_050");
-MsgDisp("Nanatsumori","No, I just thought that
-was so like you.");
+MsgDisp("Nanatsumori","No, I just thought that was so like you.");
 MsgDisp("主人公","???");
 ChMotion(4,0,1);
 ChCheek(4,5);
@@ -59,13 +58,15 @@ ChMotion(4,3,1);
 ChCheek(4,8);
 VoiceEVSPlay(4);
 VoicePlay("B140400000_04_080");
-MsgDisp("Nanatsumori","｛主人公｝, Merry Christmas.
-I hope I can say this to you again next
-year.");
-MsgDisp("主人公","｛七ツ森＊｝, Merry Christmas.");
+MsgDisp("Nanatsumori","｛主人公｝, Merry
+Christmas. I hope I can say this to you
+again next year.");
+MsgDisp("主人公","｛七ツ森＊｝, Merry
+Christmas.");
 MsgDisp("主人公","(I see, I've spent both today and
-yesterday with ｛七ツ森＊｝.
-My heart is racing a little...)");
+yesterday with
+｛七ツ森＊｝. My heart is
+racing a little...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

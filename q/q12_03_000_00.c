@@ -10,22 +10,23 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_000");
-    MsgDisp("Honda","｛主人公｝, thanks for going with me
-for the free period.");
+    MsgDisp("Honda","｛主人公｝, thanks for
+going with me for the free period.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("Q120300000_03_010");
-    MsgDisp("Honda","I pulled you around,
-aren't you tired?");
-    MsgDisp("主人公","Nope. Thanks to our fun guide, I'm not
-tired at all.");
+    MsgDisp("Honda","I pulled you around, aren't you tired?");
+    MsgDisp("主人公","Nope.
+Thanks to our fun guide, I'm not tired at
+all.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("Q120300000_03_020");
-    MsgDisp("Honda","Really? It's our last night, but let's
-enjoy the rest!");
+    MsgDisp("Honda","Really?
+It's our last night, but let's enjoy the
+rest!");
     MsgDisp("主人公","Hehe, yeah.");
     break ;
     case 3:
@@ -35,8 +36,8 @@ enjoy the rest!");
     VoicePlay("Q120300000_03_030");
     MsgDisp("Honda","The free activity is over.
 It was sooo fun.");
-    MsgDisp("主人公","Yeah, thanks to you, ｛本多＊＊｝, it was
-very fulfilling.");
+    MsgDisp("主人公","Yeah, thanks to you, ｛本多＊＊｝,
+it was very fulfilling.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -63,25 +64,29 @@ There's still hope∈");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_070");
-    MsgDisp("Honda","｛主人公｝, you're amazing.
+    MsgDisp("Honda","｛主人公｝, you're
+amazing.
 I'm gonna peek into the kitchen!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(3);
     SEWait();
-    MsgDisp("主人公","(Hehe! I'm happy I was able to look around
-with ｛本多＊＊｝ )");
+    MsgDisp("主人公","(Hehe!
+I'm happy I was able to look around with
+｛本多＊＊｝ )");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Haah...... So the school trip is over
-tomorrow. Early, isn't it?");
+    MsgDisp("主人公","Haah......
+So the school trip is over tomorrow.
+Early, isn't it?");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("Q120300000_03_080");
-    MsgDisp("Honda","Yeah. Y'know, I really got to like
-Nagasaki with this trip.");
+    MsgDisp("Honda","Yeah.
+Y'know, I really got to like Nagasaki with
+this trip.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -93,7 +98,8 @@ Nagasaki with this trip.");
     ChMotion(3,4,1);
     VoicePlay("Q120300000_03_100");
     MsgDisp("Honda","I mean, there isn't a place I dislike
-where I went with you. ......Hmm?");
+where I went with you.
+...... Hmm?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,5,1);
@@ -101,8 +107,8 @@ where I went with you. ......Hmm?");
     MsgDisp("Honda","Daaah, in the way I put it, Nagasaki is no
 longer relevant, I guess?");
     MsgDisp("主人公","Hehe, but it's also true for me that
-anywhere with you, ｛本多＊＊｝, becomes
-fun.");
+anywhere with you, ｛本多＊＊｝,
+becomes fun.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -134,8 +140,8 @@ period together like this forever.");
     MsgDisp("Honda","See you then!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(Forever......? I wonder what he
-meant......?)");
+    MsgDisp("主人公","(Forever......?
+I wonder what he meant......?)");
     break ;
     default :
     DbgAssert(1);

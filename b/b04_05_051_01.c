@@ -14,8 +14,9 @@ switch (MsgSelRsltGet()){
     DateRateSet(3);
     ChEye(5,4);
     VoicePlay("B040505101_05_010");
-    MsgDisp("Hiiragi","Yes. I know they're man-made lights, but I
-was completely taken by it.");
+    MsgDisp("Hiiragi","Yes.
+I know they're man-made lights, but I was
+completely taken by it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

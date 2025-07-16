@@ -19,8 +19,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140C03400_07_000");
-MsgDisp("Mikage","Yeah. What's this all of a sudden,
-Yanosuke?");
+MsgDisp("Mikage","Yeah.
+What's this all of a sudden, Yanosuke?");
 VoicePlay("D140C03400_05_010");
 MsgDisp("Hiiragi","You own pets right?");
 ChEye(6,0);
@@ -41,8 +41,7 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C03400_05_020");
-MsgDisp("Hiiragi","Could you not own a 
-dogs or a cat?");
+MsgDisp("Hiiragi","Could you not own a dogs or a cat?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -65,8 +64,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("D140C03400_06_010");
-MsgDisp("Himuro","You mean the chickens
-we keep at school?");
+MsgDisp("Himuro","You mean the chickens we keep at school?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

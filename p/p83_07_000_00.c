@@ -15,7 +15,8 @@ guest list?)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P830700000_07_000");
     MsgDisp("Mikage","Oh, do your best, yeah?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! What's the matter?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+What's the matter?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -33,11 +34,11 @@ I'll cheer you on secretly from the
 shadows.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
-    MsgDisp("主人公","(Hehe. ｛御影＊＊｝ came to cheer me
-on.)");
+    MsgDisp("主人公","(Hehe.
+｛御影＊＊｝ came to
+cheer me on.)");
     VoicePlay("P830700000_36_000");
-    MsgDisp("Male Customer","Excuse me, 
-I hope this is the reception.");
+    MsgDisp("Male Customer","Excuse me, I hope this is the reception.");
     MsgDisp("主人公","Ah, yes!");
     break ;
     case 4:
@@ -50,10 +51,11 @@ guest list?)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P830700000_07_030");
-    MsgDisp("Mikage","｛主人公｝. How is the student council
-work?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. I'm working at
-reception, attending to the guests.");
+    MsgDisp("Mikage","｛主人公｝.
+How is the student council work?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+I'm working at reception, attending to the
+guests.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

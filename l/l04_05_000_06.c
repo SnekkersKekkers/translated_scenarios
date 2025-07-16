@@ -20,8 +20,8 @@ Well, farewell.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Ugh...... I wish I had tried a little
-harder......)");
+    MsgDisp("主人公","(Ugh......
+I wish I had tried a little harder......)");
     break ;
     case 3:
     ChEye(5,4);
@@ -57,8 +57,9 @@ this chocolate.");
     BGMStop();
     ChClose(5);
     ChEyeOpenLevel(5,#1);
-    MsgDisp("主人公","(Ugh...... I wish I had tried a little
-harder. I bothered ｛柊＊＊＊｝. )");
+    MsgDisp("主人公","(Ugh......
+I wish I had tried a little harder.
+I bothered ｛柊＊＊＊｝. )");
     break ;
     case 4:
     case 5:
@@ -86,21 +87,22 @@ I am in quite the pleasant mood.");
     MsgDisp("Hiiragi","The objective of a gift is to make the
 recipient happy, is it not? Please look at
 me. Do I look sad?");
-    MsgDisp("主人公","No, you look like you're
-having fun.");
+    MsgDisp("主人公","No, you look like you're having fun.");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("L040500006_05_100");
-    MsgDisp("Hiiragi","Exactly. Thanks to your lovely chocolate,
-I am in quite a good mood.");
+    MsgDisp("Hiiragi","Exactly.
+Thanks to your lovely chocolate, I am in
+quite a good mood.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500006_05_110");
     MsgDisp("Hiiragi","This chocolate as a whole may resemble
 you.");
-    MsgDisp("主人公","｛柊＊＊＊｝, that's a little......");
+    MsgDisp("主人公","｛柊＊＊＊｝, that's a
+little......");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);

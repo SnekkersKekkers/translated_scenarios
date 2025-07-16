@@ -12,8 +12,8 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20401_06_000");
 MsgDisp("Himuro","Even though this Forest Park is vast, this
-is the only place with fireflies...
-how mysterious.");
+is the only place with fireflies... how
+mysterious.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -27,8 +27,7 @@ VoicePlay("B330C20401_07_000");
 MsgDisp("Mikage","It's easy to live in such clean water
 right? I wonder if they live longer if the
 temperature is stable.");
-MsgDisp("主人公","This place is special 
-to the fireflies.");
+MsgDisp("主人公","This place is special to the fireflies.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -72,8 +71,9 @@ ChMotion(7,5);
 VoicePlay("B330C20401_07_040");
 MsgDisp("Mikage","Yes yes, I see how it is.
 I'm alone in any case.");
-MsgDisp("主人公","(Hehe. I wonder if ｛御影＊＊｝ is
-lonely living alone? )");
+MsgDisp("主人公","(Hehe.
+I wonder if ｛御影＊＊｝
+is lonely living alone? )");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(5,0);

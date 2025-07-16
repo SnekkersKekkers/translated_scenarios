@@ -63,8 +63,7 @@ regardless of what the result is.");
         ChMotion(8,2,1);
         VoicePlay("S090800000_08_050");
         MsgDisp("Shirahane","I see......Well we'd be wasting time
-waiting in the line, I guess.
-Let's go.");
+waiting in the line, I guess. Let's go.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -81,7 +80,8 @@ Let's go.");
     VoicePlay("S090800000_08_060");
     MsgDisp("Shirahane","Fortunes.");
     MsgDisp("主人公","Ah, you're right.
-Do you want to draw one, ｛大地＊＊｝?");
+Do you want to draw one,
+｛大地＊＊｝?");
     ChEye(8,4);
     ChMouth(8,3);
     ChMotion(8,2,1);
@@ -97,8 +97,8 @@ What about you?");
         VoicePlay("S090800000_08_080");
         MsgDisp("Shirahane","Got it.
 Let's go.");
-        MsgDisp("主人公","Hey, ｛大地＊＊｝. Aren't you pretty
-excited for this?");
+        MsgDisp("主人公","Hey, ｛大地＊＊｝.
+Aren't you pretty excited for this?");
         ChMotion(8,3,1);
         VoicePlay("S090800000_08_090");
         MsgDisp("Shirahane","Of course I am. It's the start of the New
@@ -116,8 +116,7 @@ can't get a bad result!");
         VoicePlay("S090800000_08_110");
         MsgDisp("Shirahane","Oh......
 Yeah, okay then.");
-        MsgDisp("主人公","Maybe you actually wanted
-to pull one?");
+        MsgDisp("主人公","Maybe you actually wanted to pull one?");
         ChMotion(8,4,1);
         VoicePlay("S090800000_08_120");
         MsgDisp("Shirahane","Nah.

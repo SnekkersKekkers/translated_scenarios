@@ -71,8 +71,9 @@ Is it okay if I take it?");
     ChMotion(2,4);
     ChCheek(2,10);
     VoicePlay("L040200002_02_070");
-    MsgDisp("Sassa","Thanks. I'm kind of glad that you went out
-of your way like this for me.");
+    MsgDisp("Sassa","Thanks.
+I'm kind of glad that you went out of your
+way like this for me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

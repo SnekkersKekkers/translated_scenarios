@@ -25,8 +25,8 @@ ChEyeOpenLevel(8,0);
 VoicePlay("D010800100_08_020");
 MsgDisp("Shirahane","Thank'ya for coming～!");
 SEStop("EV_SE_589",2);
-MsgDisp("主人公","(Hehe, ｛大地＊＊｝ is doing well today,
-too.)");
+MsgDisp("主人公","(Hehe, ｛大地＊＊｝ is doing
+well today, too.)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(8);
@@ -36,7 +36,8 @@ StlEye(8,0);
 StlMouth(8,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_030");
-MsgDisp("Shirahane","Alright, alright......Okay, stop!
+MsgDisp("Shirahane","Alright, alright......
+Okay, stop!
 Thanks like always, Kondo-san!");
 VoicePlay("D010800100_43_020");
 MsgDisp("Male Customer A","It's time for the big girl, today.
@@ -75,7 +76,8 @@ That's okay, right?
 Daichi-kun▼");
 StlEyeOpenLevel(8,#1);
 VoicePlay("D010800100_08_080");
-MsgDisp("Shirahane","For our lady customers......Sure!
+MsgDisp("Shirahane","For our lady customers......
+Sure!
 Ya can have two handfuls!");
 SEPlay("EV_SE_634");
 Wait(50,0);
@@ -91,7 +93,8 @@ ChOpen(8,35,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_090");
 MsgDisp("Shirahane","Thank ya for coming～!");
-MsgDisp("主人公","｛大地＊＊｝ was popular today, huh?");
+MsgDisp("主人公","｛大地＊＊｝ was popular
+today, huh?");
 ChEye(8,2);
 ChMouth(8,3);
 VoicePlay("D010800100_08_100");
@@ -105,10 +108,10 @@ ChMotion(8,2,1);
 VoicePlay("D010800100_08_110");
 MsgDisp("Shirahane","Now that I think about it, everyone always
 comes over during my shift.
-......I guess they wanted to see me?");
+...... I guess they wanted to see me?");
 MsgDisp("主人公","Hehe, I'm sure that's it.
-Because ｛大地＊＊｝ is such a famous
-salesman.");
+Because ｛大地＊＊｝ is such
+a famous salesman.");
 ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,4,1);
@@ -118,8 +121,9 @@ VoicePlay("D010800100_08_120");
 MsgDisp("Shirahane","You're praising me too much～
 Saying I'm some popular salesman!");
 MsgDisp("主人公","(Hehe! Customers really seem to love
-｛大地＊＊｝. His popularity is a bit
-different from ｛風真＊＊｝'s, though.)");
+｛大地＊＊｝. His popularity
+is a bit different from
+｛風真＊＊｝'s , though.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

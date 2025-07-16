@@ -18,8 +18,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040423202_04_010");
-    MsgDisp("Nanatsumori","Yeah. I want to know how many couples have
-had their love fulfilled with that.");
+    MsgDisp("Nanatsumori","Yeah.
+I want to know how many couples have had
+their love fulfilled with that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +47,8 @@ had their love fulfilled with that.");
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_030");
         MsgDisp("Nanatsumori","Yes?");
-        MsgDisp("主人公","Ummm... I was wondering if the jinx is
-true.");
+        MsgDisp("主人公","Ummm...
+I was wondering if the jinx is true.");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);
@@ -57,12 +58,12 @@ true.");
         ChCheek(4,0);
         VoiceEVSPlay(4);
         VoicePlay("B040423202_04_050");
-        MsgDisp("Nanatsumori","｛主人公｝. I'm asking you this
-seriously.");
+        MsgDisp("Nanatsumori","｛主人公｝.
+I'm asking you this seriously.");
         MsgDisp("主人公","Y-Yeah.");
         VoicePlay("B040423202_04_060");
         MsgDisp("Nanatsumori","Are you in love?
-...With me?");
+... With me?");
         MsgDisp("主人公","...Eh∋");
         ChEye(4,4);
         ChMouth(4,4);
@@ -91,9 +92,8 @@ the most harmful thing.");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040423202_04_110");
-        MsgDisp("Nanatsumori","That's why....
-you shouldn't fluster the other person,
-but look at them properly.");
+        MsgDisp("Nanatsumori","That's why.... you shouldn't fluster the
+other person, but look at them properly.");
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_120");
         MsgDisp("Nanatsumori","I can still stay calm.
@@ -104,14 +104,15 @@ That's for sure.");
         ChMotion(4,0,1);
         VoicePlay("B040423202_04_130");
         MsgDisp("Nanatsumori","I don't want you to be unhappy.
-...Do you understand?
+... Do you understand?
 What I want to say.");
         MsgDisp("主人公","Yeah, I understand.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,3,1);
         VoicePlay("B040423202_04_140");
-        MsgDisp("Nanatsumori","Mm. Alright.");
+        MsgDisp("Nanatsumori","Mm.
+Alright.");
         MsgDisp("主人公","(｛七ツ森＊｝... you really are worried
 about me.)");
         break ;
@@ -126,8 +127,9 @@ about me.)");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040423202_04_150");
-    MsgDisp("Nanatsumori","You're too anxious. Your face is bright
-red. Cute.");
+    MsgDisp("Nanatsumori","You're too anxious.
+Your face is bright red.
+Cute.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

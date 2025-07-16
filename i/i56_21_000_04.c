@@ -6,8 +6,8 @@ Wait(15,0);
 ChOpen(21,35,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("I562100004_21_000");
-MsgDisp("Michiru","Ah...... We're running low on Mame
-Daifuku.");
+MsgDisp("Michiru","Ah......
+We're running low on Mame Daifuku.");
 MsgDisp("主人公","It's okay.
 I requested more earlier.");
 ChEye(21,4);

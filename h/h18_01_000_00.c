@@ -11,7 +11,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H180100000_01_000");
     MsgDisp("Kazama","Yo.
 You're working pretty hard.");
-    MsgDisp("主人公","｛風真＊＊｝, did you come to cheer us on?");
+    MsgDisp("主人公","｛風真＊＊｝, did you come to
+cheer us on?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -22,8 +23,7 @@ You're working pretty hard.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("H180100000_01_020");
-    MsgDisp("Kazama","You're part of the team too,
-aren't you?");
+    MsgDisp("Kazama","You're part of the team too, aren't you?");
     MsgDisp("主人公","Ah...... yeah!");
     ChEye(1,4);
     ChMouth(1,3);
@@ -31,8 +31,8 @@ aren't you?");
     VoicePlay("H180100000_01_030");
     MsgDisp("Kazama","Look, everyone's waiting for you.
 Go on.");
-    MsgDisp("主人公","(Alright. Let's aim for the championship
-together!)");
+    MsgDisp("主人公","(Alright.
+Let's aim for the championship together!)");
     break ;
     case 4:
     case 5:
@@ -45,7 +45,8 @@ together!)");
     VoicePlay("H180100000_01_040");
     MsgDisp("Kazama","It's amazing, winning enough to make it
 this far.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! You came?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+You came?");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -97,7 +98,8 @@ together for this......");
     MsgDisp("Kazama","I'm just saying you have to win.
 Got it?");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Alright. Let's get a win in front of
+    MsgDisp("主人公","(Alright.
+Let's get a win in front of
 ｛風真＊＊｝! )");
     break ;
     default :

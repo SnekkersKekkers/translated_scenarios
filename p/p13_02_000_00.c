@@ -18,7 +18,8 @@ gathering...)");
     VoicePlay("P130200000_02_000");
     MsgDisp("Sassa","As expected from Mikage's class.
 A lot of effort was put in.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Welcome.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -32,7 +33,7 @@ cow-patterned t-shirt as a present!");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("P130200000_02_020");
-    MsgDisp("Sassa","Matching with you, huh......interesting.
+    MsgDisp("Sassa","Matching with you, huh...... interesting.
 I'll break the record.");
     MsgDisp("主人公","Then, admission for oーne!");
     MsgClose();
@@ -54,7 +55,8 @@ gathering...)");
     ChOpen(2,254,3,0,3,#1,#1,0,0);
     VoicePlay("P130200000_02_030");
     MsgDisp("Sassa","Eeeh, you made something super impressive.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Are you going to try it?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Are you going to try it?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

@@ -28,8 +28,7 @@ Then, let's bet on one drink.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040615202_06_020");
-    MsgDisp("Himuro","Isn't it important to 
-challenge yourself?");
+    MsgDisp("Himuro","Isn't it important to challenge yourself?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,7 +45,7 @@ challenge yourself?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040615202_06_030");
-        MsgDisp("Himuro","...Hm.
+        MsgDisp("Himuro","... Hm.
 How boring.");
         MsgDateResultDisp();
         break ;
@@ -71,16 +70,14 @@ Amazing!");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040615202_06_060");
-        MsgDisp("Himuro","Well, it's not a 100
-percent success rate.");
+        MsgDisp("Himuro","Well, it's not a 100 percent success rate.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,4);
         VoicePlay("B040615202_06_070");
         MsgDisp("Himuro","But, the probability raises depending on
 the reward.");
-        MsgDisp("主人公","You want a drink
-or something?");
+        MsgDisp("主人公","You want a drink or something?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,2);

@@ -57,8 +57,8 @@ has a uniform beauty.");
 think I'll be able to discover lots of new
 things. It'll be difficult to do while
 skiing.");
-        MsgDisp("主人公","Then, today shall we do what ｛本多＊＊｝
-wants to do?");
+        MsgDisp("主人公","Then, today shall we do what
+｛本多＊＊｝ wants to do?");
         ChSet(3,5);
         VoicePlay("B040320002_03_050");
         MsgDisp("Honda","Eh!");
@@ -67,8 +67,8 @@ wants to do?");
         ChMotion(3,2);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040320002_03_060");
-        MsgDisp("Honda","Phewー. Thank you, you always put me
-first.");
+        MsgDisp("Honda","Phewー.
+Thank you, you always put me first.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -80,8 +80,9 @@ first.");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040320002_03_080");
-        MsgDisp("Honda","Yeah. Look, in a world of pure white,
-you're still gorgeous!");
+        MsgDisp("Honda","Yeah.
+Look, in a world of pure white, you're
+still gorgeous!");
         MsgDisp("主人公","Eh.");
         ChEye(3,0);
         ChMouth(3,0);
@@ -96,8 +97,8 @@ observe you.");
         VoicePlay("B040320002_03_100");
         MsgDisp("Honda","Hey, let's skii!
 This is a waste of time!");
-        MsgDisp("主人公","(Observe me he says...
-that's a little embarrassing.)");
+        MsgDisp("主人公","(Observe me he says... that's a little
+embarrassing.)");
         break ;
         default :
         DbgAssert(1);

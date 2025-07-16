@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛七ツ森＊｝, hasn't arrived
-yet...");
+MsgDisp("主人公","Looks like ｛七ツ森＊｝,
+hasn't arrived yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

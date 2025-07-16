@@ -8,8 +8,7 @@ ScrFadeIn(0);
 ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("B040511101_05_000");
-MsgDisp("Hiiragi","Well, it seems like
-I can somewhat stand.");
+MsgDisp("Hiiragi","Well, it seems like I can somewhat stand.");
 MsgSel("Your outer figure is like an athlete's.","Be careful not to get hurt.","Shall I give you a push?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -37,8 +36,9 @@ break from the stage or school.");
     ChMouth(5,2);
     ChMotion(5,2);
     VoicePlay("B040511101_05_030");
-    MsgDisp("Hiiragi","Eh? Why is that? I don't understand your
-intentions...");
+    MsgDisp("Hiiragi","Eh?
+Why is that?
+I don't understand your intentions...");
     MsgDateResultDisp();
     break ;
     default :

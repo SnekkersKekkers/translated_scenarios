@@ -2,7 +2,9 @@ MsgClose();
 ChClose(2,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? ｛颯砂＊＊｝ still isn't here yet..");
+MsgDisp("主人公","Huh?
+｛颯砂＊＊｝ still isn't here
+yet..");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -22,9 +24,8 @@ SEPlay("EV_SE_550");
 MsgClose();
 ChOpen(2,31,3,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110200001_02_000");
-MsgDisp("Sassa","Of course not.
-don't just take someone's name as you
-like.");
+MsgDisp("Sassa","Of course not. don't just take someone's
+name as you like.");
 MsgDisp("主人公","Ah, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -41,7 +42,8 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B110200001_02_020");
-MsgDisp("Sassa","Hm? What are you saying?");
+MsgDisp("Sassa","Hm?
+What are you saying?");
 MsgDisp("主人公","I don't get it...");
 MsgDispSksp(1,5);
 ChEye(2,0);
@@ -55,14 +57,14 @@ MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110200001_34_030");
-MsgDisp("Guy","Yeah, cause this is the
-rendevouz point.");
+MsgDisp("Guy","Yeah, cause this is the rendevouz point.");
 MsgDispSksp(1,5);
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("B110200001_02_040");
-MsgDisp("Sassa","Idiot! You'll get heatstroke.");
+MsgDisp("Sassa","Idiot!
+You'll get heatstroke.");
 MsgDispSksp(0);
 VoicePlay("B110200001_34_040");
 MsgDisp("Guy","Eh?");

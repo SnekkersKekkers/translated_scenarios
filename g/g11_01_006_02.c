@@ -1,8 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......today ｛風真＊＊｝
-invited me to walk home together.)");
+MsgDisp("主人公","(That's right......today
+｛風真＊＊｝ invited me to walk
+home together.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -54,8 +55,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100602_01_040");
-MsgDisp("Kazama","Phew...... Frankly it's frustrating, but
-it can't be helped now.");
+MsgDisp("Kazama","Phew......
+Frankly it's frustrating, but it can't be
+helped now.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,2);
@@ -63,9 +65,11 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_050");
-MsgDisp("Kazama","Hm? Doesn't that sunset cloud somewhat
-look like Honda's face?");
-MsgDisp("主人公","Eh? Which one?");
+MsgDisp("Kazama","Hm?
+Doesn't that sunset cloud somewhat look
+like Honda's face?");
+MsgDisp("主人公","Eh?
+Which one?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
@@ -74,8 +78,7 @@ ChMotion(1,1);
 VoicePlay("G110100602_01_060");
 MsgDisp("Kazama","This is our time together.
 Don't disturb us!");
-MsgDisp("主人公","Hehe, 
-it doesn't look like him at all.");
+MsgDisp("主人公","Hehe, it doesn't look like him at all.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

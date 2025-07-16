@@ -19,8 +19,7 @@ Ah, you can see Haba High.");
 MsgDisp("主人公","Eh, where?");
 ChMotion(4,0,1);
 VoicePlay("B360401100_04_010");
-MsgDisp("Nanatsumori","There/
-Hey, come closer this way.");
+MsgDisp("Nanatsumori","There/ Hey, come closer this way.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChClose(4,0,30);
@@ -43,7 +42,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360401100_04_040");
-MsgDisp("Nanatsumori","Ah...sorry.
+MsgDisp("Nanatsumori","Ah... sorry.
 I got too close.");
 MsgDisp("主人公","N-No.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

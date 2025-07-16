@@ -54,8 +54,9 @@ disaster.");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("I460600001_06_040");
-    MsgDisp("Himuro","But your will to learn isn't bad. And your
-view isn't either. Excellent.");
+    MsgDisp("Himuro","But your will to learn isn't bad.
+And your view isn't either.
+Excellent.");
     MsgDisp("主人公","(｛氷室＊＊｝ praised me!)");
     break ;
     case 4:
@@ -64,8 +65,7 @@ view isn't either. Excellent.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("I460600001_06_050");
-    MsgDisp("Himuro","Sales have gone up ever since
-you joined.");
+    MsgDisp("Himuro","Sales have gone up ever since you joined.");
     MsgDisp("主人公","Huh, I wonder why?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -73,15 +73,14 @@ you joined.");
     VoicePlay("I460600001_06_060");
     MsgDisp("Himuro","Your customer service, right?
 Always smiling and butting in with advice.");
-    MsgDisp("主人公","That doesn't sound like
-a compliment......");
+    MsgDisp("主人公","That doesn't sound like a compliment......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600001_06_070");
     MsgDisp("Himuro","It is.
-......I'm jealous.");
+...... I'm jealous.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -102,15 +101,15 @@ sociability might do you some good.");
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("I460600001_06_100");
-    MsgDisp("Himuro","Some people might get
-the wrong idea.");
+    MsgDisp("Himuro","Some people might get the wrong idea.");
     MsgDisp("主人公","Wrong idea......?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I460600001_06_110");
     MsgDisp("Himuro","It's fine if you don't get it.");
-    MsgDisp("主人公","(......I wonder what he meant?)");
+    MsgDisp("主人公","(......
+I wonder what he meant?)");
     break ;
     default :
     DbgAssert(1);

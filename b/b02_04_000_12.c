@@ -10,7 +10,8 @@ blunder.");
 MsgDisp("主人公","Huh?");
 ChEye(4,0);
 VoicePlay("B020400012_04_010");
-MsgDisp("Nanatsumori","Also. You can't get away with just
-changing the things you can't see.");
+MsgDisp("Nanatsumori","Also.
+You can't get away with just changing the
+things you can't see.");
 MsgDisp("主人公","(Ah, shoot!
 I'm wearing the same thing as before...)");

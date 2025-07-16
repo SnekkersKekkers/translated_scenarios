@@ -78,8 +78,9 @@ It is unfortunate though...");
         MsgDisp("Hiiragi","I see, well let's ask Mikage-sensei. I'm
 sure he grows it at the horticulture club
 or at home; a plant that blooms at night.");
-        MsgDisp("主人公","Umm... I wanted to go to the botanical
-garden at night with ｛柊＊＊＊｝.");
+        MsgDisp("主人公","Umm...
+I wanted to go to the botanical garden at
+night with ｛柊＊＊＊｝.");
         ChEye(5,3);
         ChMouth(5,2);
         ChMotion(5,5);
@@ -91,8 +92,8 @@ garden at night with ｛柊＊＊＊｝.");
         VoicePlay("B040509002_05_080");
         MsgDisp("Hiiragi","The crucial part is to be with you at
 night, and not to look at plants!");
-        MsgDisp("主人公","(｛柊＊＊＊｝, you can't say those kinds
-of things at a botanical garden?)");
+        MsgDisp("主人公","(｛柊＊＊＊｝, you can't say those kinds of
+things at a botanical garden?)");
         break ;
         default :
         DbgAssert(1);

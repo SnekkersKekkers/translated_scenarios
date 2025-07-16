@@ -43,8 +43,9 @@ fundamentals of storytelling.");
 MsgClear();
 BGOpen("ad342",0);
 VoicePlay("Y300300400_03_010");
-MsgDisp("Honda","\"Okay. The today's theme, is about
-the things she likes!\"");
+MsgDisp("Honda","\"Okay.
+The today's theme, is about the
+things she likes!\"");
 MsgDisp("","When I said that, their eyes changed.
 I couldn't see MIi-kun's well though.");
 MsgDisp("","Yes, Mii-kun.
@@ -70,7 +71,8 @@ to say \"you don't get it\".");
 MsgDisp("","These two's responses were to be
 expected. Alright, alright...I nod.
 The two look at me suspiciously.");
-MsgDisp("","Alright! Now's the best time.");
+MsgDisp("","Alright!
+Now's the best time.");
 MsgClear();
 VoicePlay("Y300300400_03_030");
 MsgDisp("Honda","\"Right, right, that's her.

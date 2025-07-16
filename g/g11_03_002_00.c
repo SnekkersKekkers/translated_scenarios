@@ -21,14 +21,14 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300200_03_000");
 MsgDisp("Honda","｛主人公｝, welcome.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. You had a shift today,
-huh?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+You had a shift today, huh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("G110300200_03_010");
-MsgDisp("Honda","Yep yep, are you here......
-to buy a reference book?");
+MsgDisp("Honda","Yep yep, are you here...... to buy a
+reference book?");
 MsgDisp("主人公","Yeah, you guessed it.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -48,8 +48,8 @@ VoicePlay("G110300200_03_030");
 MsgDisp("Honda","This one.
 It has really interesting explanations.");
 MsgDisp("主人公","Hee, thank you.
-If it's ｛本多＊＊｝'s recommendation, it
-must be good right?");
+If it's ｛本多＊＊｝'s
+recommendation, it must be good right?");
 ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,2);
@@ -68,8 +68,8 @@ ChMotion(3,1);
 VoicePlay("G110300200_03_060");
 MsgDisp("Honda","This might be a tactic to throw you off?");
 MsgDisp("主人公","Ehhhh∋");
-MsgDisp("主人公","(But I'm kind of happy that ｛本多＊＊｝
-sees me as a rival?)");
+MsgDisp("主人公","(But I'm kind of happy that
+｛本多＊＊｝ sees me as a rival?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

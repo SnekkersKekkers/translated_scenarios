@@ -6,15 +6,16 @@ VoicePlay("P640500002_05_000");
 MsgDisp("Hiiragi","These are splendid vegetables, yes.
 I'll enjoy it in a hotpot with the theater
 troupe staff.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Thank you for your
-purchase.");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Thank you for your purchase.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("P640500002_05_010");
 MsgDisp("Hiiragi","Wasn't it difficult to grow until now?");
-MsgDisp("主人公","Yes. But, I'm happy that you can enjoy
-eating them.");
+MsgDisp("主人公","Yes.
+But, I'm happy that you can enjoy eating
+them.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

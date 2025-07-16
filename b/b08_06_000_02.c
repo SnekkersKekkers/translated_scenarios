@@ -9,7 +9,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B080600001_06_030");
-MsgDisp("Himuro","...Hmph.
+MsgDisp("Himuro","... Hmph.
 Then I'm going home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

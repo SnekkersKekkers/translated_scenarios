@@ -31,12 +31,12 @@ high school years?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100004_01_020");
-    MsgDisp("Kazama","......Geez, did you just realize that?
+    MsgDisp("Kazama","...... Geez, did you just realize that?
 Such an ungrateful person.
 You're still the same as always.");
     MsgDisp("主人公","Geez, seems like there's going to be a lot
-of nagging from ｛風真＊＊｝ this year
-too...");
+of nagging from ｛風真＊＊｝
+this year too...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -107,15 +107,14 @@ Do you have any regrets?");
     MsgDisp("Kazama","When I was overseas, I imagined what it
 would be like to visit the shrine with you
 every year.");
-    MsgDisp("主人公","Yeah, I hope we can keep going
-together.");
+    MsgDisp("主人公","Yeah, I hope we can keep going together.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoiceEVSPlay(1);
     VoicePlay("S120100004_01_090");
-    MsgDisp("Kazama","｛主人公｝, the weather's changed a bit
-somehow......
+    MsgDisp("Kazama","｛主人公｝, the weather's
+changed a bit somehow......
 Is it going to snow?");
     MsgDisp("主人公","Perhaps rain?");
     ChEye(1,0);

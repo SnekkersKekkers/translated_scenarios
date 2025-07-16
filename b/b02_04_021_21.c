@@ -16,5 +16,5 @@ VoicePlay("B020402121_04_010");
 MsgDisp("Nanatsumori","It isn't weird.
 That's some really skillful styling.
 Now I see...!");
-MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ seems to like these
-clothes, too.)");
+MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ seems
+to like these clothes, too.)");

@@ -5,9 +5,8 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,0 ) ;
 VoicePlay ( "D150001201_01_000" ) ;
-MsgDisp ( "Kazama","Come to think of it, the three of
-us used to trade side dishes back in
-kindergarten." ) ;
+MsgDisp ( "Kazama","Come to think of it, the three of us used
+to trade side dishes back in kindergarten." ) ;
 ChEye ( 2,0 ) ;
 ChMouth ( 2,3 ) ;
 ChMotion ( 2,4 ) ;
@@ -27,7 +26,8 @@ ChEyeOpenLevel ( 2,0 ) ;
 VoicePlay ( "D150001201_02_010" ) ;
 MsgDisp ( "Sassa","You'd give me your side dish?
 Good job, Ryota." ) ;
-MsgDisp ( "主人公","Sure. Here you go.
+MsgDisp ( "主人公","Sure.
+Here you go.
 Say ahh～" ) ;
 ChEye ( 1,5 ) ;
 ChMouth ( 1,4 ) ;

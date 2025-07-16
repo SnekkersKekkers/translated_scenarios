@@ -1,4 +1,5 @@
-MsgDisp("主人公","What are your hobbies, ｛御影＊＊｝?");
+MsgDisp("主人公","What are your hobbies,
+｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -58,8 +59,7 @@ VoicePlay("B070700000_07_290");
 MsgDisp("Mikage","That's probably why I get so excited
 during the cultural festival preparation
 period.");
-MsgDisp("主人公","(It seems more like carpentry 
-than DIY...)");
+MsgDisp("主人公","(It seems more like carpentry than DIY...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

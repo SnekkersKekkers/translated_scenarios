@@ -34,7 +34,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoiceEVSPlay(3);
 VoicePlay("F100620000_03_010");
-MsgDisp("Honda","｛主人公｝, you're here too!");
+MsgDisp("Honda","｛主人公｝, you're here
+too!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -46,13 +47,13 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100620000_06_020");
-MsgDisp("Himuro","I ran away because
-I realized...");
+MsgDisp("Himuro","I ran away because I realized...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F100620000_03_030");
-MsgDisp("Honda","So! When should we do it?");
+MsgDisp("Honda","So!
+When should we do it?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -60,7 +61,8 @@ VoicePlay("F100620000_06_030");
 MsgDisp("Himuro","That's why I said I'm not going.");
 ChSet(3,5);
 VoicePlay("F100620000_03_040");
-MsgDisp("Honda","Ehhh! Why∋");
+MsgDisp("Honda","Ehhh!
+Why∋");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);

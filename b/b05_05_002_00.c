@@ -8,7 +8,8 @@ ScrFadeIn(0);
 VoicePlay("B050500200_05_000");
 MsgDisp("Hiiragi","Where around here would the spring water
 be?");
-MsgDisp("主人公","Hmm......｛柊＊＊＊｝, is there something
+MsgDisp("主人公","Hmm......
+｛柊＊＊＊｝, is there something
 on your mind?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -106,7 +107,8 @@ ScrFadeIn(0);
 VoicePlay("B050500200_05_100");
 MsgDisp("Hiiragi","Today I got great power, from both the
 water and you.");
-MsgDisp("主人公","Huh? I don't think I have that sort of
+MsgDisp("主人公","Huh?
+I don't think I have that sort of
 ability......");
 ChEye(5,4);
 ChMouth(5,4);
@@ -128,8 +130,8 @@ SEPlay("EV_SE_626");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(Unifying power......
-I wonder if ｛柊＊＊＊｝ is having some
-trouble at work......?)");
+I wonder if ｛柊＊＊＊｝ is
+having some trouble at work......?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(5,0);

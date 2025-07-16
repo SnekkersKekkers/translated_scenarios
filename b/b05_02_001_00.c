@@ -5,8 +5,9 @@ ChOpen(2,255,4,0,2,7,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050200100_02_000");
 MsgDisp("Sassa","Sometimes even you want to come here.");
-MsgDisp("主人公","Yeah. It may be scary, but it's okay when
-I'm with ｛颯砂＊＊｝.");
+MsgDisp("主人公","Yeah.
+It may be scary, but it's okay when I'm
+with ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -35,8 +36,8 @@ Wait(80,0);
 VoicePlay("B050200100_02_020");
 MsgDisp("Sassa","Just look down at your feet.
 Don't look at anything else.");
-MsgDisp("主人公","Yeah. I guess it won't be so scary this
-way.");
+MsgDisp("主人公","Yeah.
+I guess it won't be so scary this way.");
 VoicePlay("B050200100_02_030");
 MsgDisp("Sassa","Just like that.");
 SEPlay("EV_SE_707");
@@ -62,13 +63,13 @@ StlEyeOpenLevel(2,5,1);
 VoicePlay("B050200100_02_060");
 MsgDisp("Sassa","What, just a hand?");
 MsgDisp("主人公","EH∋
-A hand? Where?");
+A hand?
+Where?");
 StlEye(2,0);
 StlMouth(2,0);
 StlCheek(2,10);
 VoicePlay("B050200100_02_070");
-MsgDisp("Sassa","It wasn't a ghost, it was just your
-hand.");
+MsgDisp("Sassa","It wasn't a ghost, it was just your hand.");
 MsgDisp("主人公","Oh.
 I was startled so I just......
 Sorry.");
@@ -122,10 +123,10 @@ ChMouth(2,4);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("B050200100_02_120");
-MsgDisp("Sassa","......Yeah.
+MsgDisp("Sassa","...... Yeah.
 Yeah, for me too.");
-MsgDisp("主人公","Holding onto ｛颯砂＊＊｝ while walking
-made me feel a bit better.");
+MsgDisp("主人公","Holding onto ｛颯砂＊＊｝ while
+walking made me feel a bit better.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

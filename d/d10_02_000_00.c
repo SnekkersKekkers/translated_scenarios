@@ -27,8 +27,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D100200000_02_030");
-MsgDisp("Sassa","Huh? What? This reminds me of my dream
-last night.");
+MsgDisp("Sassa","Huh?
+What?
+This reminds me of my dream last night.");
 MsgDisp("主人公","Eh, really......?
 What kind of dream was it?");
 ChEye(2,0);
@@ -38,13 +39,15 @@ VoicePlay("D100200000_02_040");
 MsgDisp("Sassa","There was a garden with blooming roses,
 your house, maybe......So I ran up to you
 and you said what you said just now.");
-MsgDisp("主人公","Eh......That's an interesting dream.");
+MsgDisp("主人公","Eh......
+That's an interesting dream.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D100200000_02_050");
-MsgDisp("Sassa","Yeah. Maybe it means something? I'll think
-about it a bit.");
+MsgDisp("Sassa","Yeah.
+Maybe it means something?
+I'll think about it a bit.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

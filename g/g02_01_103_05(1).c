@@ -35,9 +35,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110305_01_040");
 MsgDisp("Kazama","I started feeling like each day was long
 again and began planning my return here.");
-MsgDisp("主人公","｛風真＊＊｝, you're amazing......
-being able to plan and execute what you
-think of.");
+MsgDisp("主人公","｛風真＊＊｝, you're
+amazing...... being able to plan and
+execute what you think of.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);

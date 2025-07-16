@@ -8,8 +8,8 @@ ChCheek(5,5);
 VoicePlay("T020501020_05_000");
 MsgDisp("Hiiragi","Eh......");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","｛柊＊＊＊｝ is always trying his very
-best, he looks so cool.");
+MsgDisp("主人公","｛柊＊＊＊｝ is always trying
+his very best, he looks so cool.");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -19,7 +19,8 @@ ChEyeOpenLevel(5,9);
 ChCheek(5,0);
 VoiceEVSPlay(5);
 VoicePlay("T020501020_05_010");
-MsgDisp("Hiiragi","｛主人公｝, that was all thanks to you.");
+MsgDisp("Hiiragi","｛主人公｝, that was all
+thanks to you.");
 MsgDisp("主人公","But I......didn't do anything......");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
@@ -27,8 +28,8 @@ Wait(10,0);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020501020_05_020");
-MsgDisp("Hiiragi","Hey. If you make that face, I'll be
-troubled.");
+MsgDisp("Hiiragi","Hey.
+If you make that face, I'll be troubled.");
 ChMotion(5,0,1);
 Wait(16,0);
 ChEye(5,4);
@@ -40,7 +41,7 @@ MsgDisp("主人公","｛柊＊＊＊｝......");
 ChEye(5,0);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020501020_05_040");
-MsgDisp("Hiiragi","Please continue to show it to me. ");
+MsgDisp("Hiiragi","Please continue to show it to me.");
 MsgDisp("主人公","Yes.");
 BGMStop(2.8);
 MsgClear();

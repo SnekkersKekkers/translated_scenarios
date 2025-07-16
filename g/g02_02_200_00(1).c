@@ -27,8 +27,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220000_02_040");
-MsgDisp("Sassa","If there's a chance,
-I'll chase after it.");
+MsgDisp("Sassa","If there's a chance, I'll chase after it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

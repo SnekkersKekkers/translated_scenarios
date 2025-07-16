@@ -9,7 +9,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(21,30,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,30,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","Ah, ｛ひかる＊｝ and ｛みちる＊｝!");
+MsgDisp("主人公","Ah, ｛ひかる＊｝ and
+｛みちる＊｝!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,1);
@@ -32,7 +33,8 @@ ChMotion(21,2);
 VoicePlay("Q070701000_21_010");
 MsgDisp("Michiru","......? It's kind of noisy in the men's
 bath.");
-MsgDisp("主人公","Yes...... I wonder what's going on.");
+MsgDisp("主人公","Yes......
+I wonder what's going on.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3);
@@ -48,7 +50,8 @@ ChMotion(21,4);
 VoicePlay("Q070701000_21_020");
 MsgDisp("Michiru","Oh well......
 Mari, we're going too.");
-MsgDisp("主人公","Eeh∋ ｛みちる＊｝, you too!");
+MsgDisp("主人公","Eeh∋
+｛みちる＊｝, you too!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(21,0,0);
@@ -62,8 +65,7 @@ Wait(40,0);
 SEPlay("EV_SE_854",1,0.3);
 Wait(60,0);
 VoicePlay("Q070701000_07_010");
-MsgDisp("Mikage","Hold it tight∈
-I'll call someone.");
+MsgDisp("Mikage","Hold it tight∈ I'll call someone.");
 Wait(20,0);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,1);
 Wait(80,0);
@@ -110,7 +112,7 @@ ChOpen(21,30,0,0,4,#1,#1,0,1,0,30);
 ChOpen(22,30,0,0,2,7,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("Q070701000_07_050");
-MsgDisp("Mikage","......My bad.
+MsgDisp("Mikage","...... My bad.
 I'm holding the tap with my shirt.
 Can you tell the front desk person?");
 MsgDisp("主人公","Ah, yes!
@@ -128,13 +130,14 @@ VoicePlay("Q070701000_21_040");
 MsgDisp("Michiru","That's good, you'll owe Mikage-sensei.
 Right, Mari?");
 MsgDisp("主人公","Eh?
-Y, yes. We need to hurry!");
+Y, yes.
+We need to hurry!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(I can't believe ｛御影＊＊｝ popped
-out......
-haah, I was so surprised.)");
+MsgDisp("主人公","(I can't believe
+｛御影＊＊｝ popped
+out...... haah, I was so surprised.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

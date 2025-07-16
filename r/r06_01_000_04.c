@@ -21,8 +21,8 @@ He's perfectly happy with my gift.)");
     ChMotion(1,0);
     ChCheek(1,5);
     VoicePlay("R060100004_01_010");
-    MsgDisp("Kazama","Awesome... it's just what I wanted. Thank
-you.");
+    MsgDisp("Kazama","Awesome... it's just what I wanted.
+Thank you.");
     MsgDisp("主人公","(Yay!
 He's perfectly happy with my gift.)");
     break ;

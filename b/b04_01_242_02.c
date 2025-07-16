@@ -48,9 +48,8 @@ you, isn't it?");
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040124202_01_030");
-        MsgDisp("Kazama","Well, that's true, though...
-don't fan out the flames of our
-conversation...");
+        MsgDisp("Kazama","Well, that's true, though... don't fan out
+the flames of our conversation...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -68,8 +67,7 @@ Like when we gaze at the fire together...");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040124202_01_050");
-        MsgDisp("Kazama","Try imagining 
-a flickering fire.");
+        MsgDisp("Kazama","Try imagining a flickering fire.");
         MsgDisp("主人公","Eh?
 Y-Yeah?");
         ScrFadeOut(3,30);
@@ -77,7 +75,8 @@ Y-Yeah?");
         VoicePlay("B040124202_01_060");
         MsgDisp("Kazama","Alright, then what do you see beyond that
 fire?");
-        MsgDisp("主人公","Ummm...｛風真＊＊｝?");
+        MsgDisp("主人公","Ummm...
+｛風真＊＊｝?");
         VoicePlay("B040124202_01_070");
         MsgDisp("Kazama","Right. It's just me and you warming
 ourselves by the fire. What do you think

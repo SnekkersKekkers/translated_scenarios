@@ -5,8 +5,8 @@ ChOpen(3,255,2,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323401_03_000");
-MsgDisp("Honda","Phew... Looks like you went easy on me
-this time.");
+MsgDisp("Honda","Phew...
+Looks like you went easy on me this time.");
 MsgSel("I wanted it to spin faster...","It's most fun at this speed huh","Do you dislike tea cups?");
 switch (MsgSelRsltGet()){
     case 0:

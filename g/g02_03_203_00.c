@@ -76,7 +76,8 @@ VoicePlay("G020320300_03_100");
 MsgDisp("Honda","Wait, forget that.
 I feel like my sister would scold me for
 that one.");
-MsgDisp("主人公","(Hehe! I enjoy ｛本多＊＊｝'s talks
+MsgDisp("主人公","(Hehe!
+I enjoy ｛本多＊＊｝'s talks
 though......)");
 BGMStop();
 MsgClose();

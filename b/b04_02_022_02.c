@@ -77,9 +77,9 @@ That makes me happy.");
 you, right?
 Ah, I don't mean that in a weird way.");
         MsgDisp("主人公","Hehe, I think I understand?");
-        MsgDisp("主人公","(I hope ｛颯砂＊＊｝ and I can continue
-going to many different places in the
-future.)");
+        MsgDisp("主人公","(I hope ｛颯砂＊＊｝ and I can
+continue going to many different places in
+the future.)");
         break ;
         default :
         DbgAssert(1);

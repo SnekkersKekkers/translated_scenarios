@@ -16,8 +16,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B150700400_07_020");
-MsgDisp("Mikage","You were like the 
-Thousand-Armed Kannon.");
+MsgDisp("Mikage","You were like the Thousand-Armed Kannon.");
 MsgDisp("主人公","Umm...");
 ChEye(7,0);
 ChMouth(7,0);

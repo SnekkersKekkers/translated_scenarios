@@ -11,13 +11,13 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,7,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝...... Why are you here?");
+MsgDisp("主人公","｛颯砂＊＊｝......
+Why are you here?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200000_02_010");
-MsgDisp("Sassa","I came running, thinking
-you were here.");
+MsgDisp("Sassa","I came running, thinking you were here.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -65,7 +65,8 @@ ChMotion(2,0);
 VoicePlay("T020200000_02_080");
 MsgDisp("Sassa","Because if I do that, my dreams will never
 come true.");
-MsgDisp("主人公","｛颯砂＊＊｝ is not a bad guy......");
+MsgDisp("主人公","｛颯砂＊＊｝ is not a bad
+guy......");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -88,7 +89,8 @@ MsgDisp("Sassa","But you supported me, and in the end, my
 seniors encouraged me. Ultimately, I was
 the only one who stuck to my guns...");
 MsgDisp("主人公","No, Senpai said it too.
-｛颯砂＊＊｝'s dream is everyone's dream.");
+｛颯砂＊＊｝'s dream is everyone's
+dream.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -111,8 +113,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020200000_02_140");
-MsgDisp("Sassa","I have to thank you 
-a hundred times more.");
+MsgDisp("Sassa","I have to thank you a hundred times more.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -132,8 +133,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020200000_02_170");
-MsgDisp("Sassa","Since then, it was 
-completely hopeless.");
+MsgDisp("Sassa","Since then, it was completely hopeless.");
 MsgDisp("主人公","Eh?");
 ChEye(2,2);
 ChMouth(2,0);
@@ -146,8 +146,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020200000_02_190");
-MsgDisp("Sassa","But all that comes to mind is......
-you.");
+MsgDisp("Sassa","But all that comes to mind is...... you.");
 MsgDisp("主人公","Me......?");
 ChEye(2,4);
 ChMouth(2,4);
@@ -156,8 +155,9 @@ VoicePlay("T020200000_02_200");
 MsgDisp("Sassa","Look, on Christmas Eve, it was really hard
 to run in the suit, but you still got a
 good time, right?");
-MsgDisp("主人公","Hehe. It's been a while since we were able
-to practice together.");
+MsgDisp("主人公","Hehe.
+It's been a while since we were able to
+practice together.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

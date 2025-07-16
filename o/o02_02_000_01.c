@@ -51,8 +51,9 @@ But I still wanted to win.");
 victory is sure to come. Let's do our best
 until the end.");
     MsgDisp("主人公","(Haa...... How frustrating. But, like
-｛颯砂＊＊｝ said, let's do our best until
-the end of the sports festival.)");
+｛颯砂＊＊｝ said, let's do our
+best until the end of the sports
+festival.)");
     break ;
     case 4:
     case 5:
@@ -75,7 +76,8 @@ Just one more push......");
     VoicePlay("O020200001_02_080");
     MsgDisp("Sassa","Aah, not a push.
 You have to pull, right?");
-    MsgDisp("主人公","Huh?　Hehe, yeah.
+    MsgDisp("主人公","Huh?
+Hehe, yeah.
 Since it's tug of war.");
     ChEye(2,3);
     ChMouth(2,3);

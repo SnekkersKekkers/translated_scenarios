@@ -14,7 +14,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","Ah......I see.");
+MsgDisp("Himuro","Ah......
+I see.");
 MsgDisp("主人公","｛氷室＊＊｝......");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
@@ -49,7 +50,8 @@ VoicePlay("T020601000_06_370");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","Until then...... I'll wait patiently.
+MsgDisp("Himuro","Until then......
+I'll wait patiently.
 Senpai?");
 BGMStop(3.6);
 MsgClose();

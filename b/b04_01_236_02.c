@@ -70,9 +70,9 @@ business\" is?");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040123602_01_050");
-        MsgDisp("Kazama","No, not \"eh?\".
-If you're going to join, I'm not going to
-leave you alone.");
+        MsgDisp("Kazama","No, not \"eh?\"
+. If you're going to join, I'm not going
+to leave you alone.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -97,8 +97,9 @@ leave you alone.");
         ScrFadeIn(0,30);
         ChMotion(1,3);
         VoicePlay("B040123602_01_070");
-        MsgDisp("Kazama","Hahaha! Your strange dancing attracted the
-fish man.");
+        MsgDisp("Kazama","Hahaha!
+Your strange dancing attracted the fish
+man.");
         MsgDisp("主人公","Hey.");
         ChEye(1,0);
         ChMouth(1,3);
@@ -108,8 +109,8 @@ fish man.");
         MsgDisp("Kazama","But, thank you.
 Just one word of yours gave me yet another
 unforgettable memory.");
-        MsgDisp("主人公","(｛風真＊＊｝... I also made some amazing
-memories.)");
+        MsgDisp("主人公","(｛風真＊＊｝...
+I also made some amazing memories.)");
         break ;
         default :
         DbgAssert(1);

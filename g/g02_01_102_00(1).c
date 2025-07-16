@@ -3,7 +3,7 @@ ChOpen(1,255,0,0,2,#1,#1,0,0);
 VoicePlay("G020110200_01_000");
 MsgDisp("Kazama","......Hey, we've gone out together quite a
 lot, haven't we?");
-MsgDisp("主人公","Yeah. 
+MsgDisp("主人公","Yeah.
 I wonder how many times it's been.");
 ChEye(1,0);
 ChMouth(1,3);

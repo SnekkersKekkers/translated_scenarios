@@ -56,13 +56,14 @@ that.)");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("F010400001_04_040");
-    MsgDisp("Nanatsumori","...Still NG.
+    MsgDisp("Nanatsumori","... Still NG.
 I don't like it...");
     MsgDisp("主人公","You don't like it when I call you that?");
     ChMotion(4,0,1);
     VoicePlay("F010400001_04_050");
     MsgDisp("Nanatsumori","I just don't want you to call me that.
-Please. Seriously...");
+Please.
+Seriously...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

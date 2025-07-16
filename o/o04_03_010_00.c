@@ -35,15 +35,15 @@ plan a strategy......");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Um,
-my team is......");
+    MsgDisp("主人公","Um, my team is......");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
     ChOpen(3,30,3,3,3,#1,#1,0,0);
     VoicePlay("O040301000_03_030");
     MsgDisp("Honda","Over here!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝! Are we on the same team?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+Are we on the same team?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -51,8 +51,9 @@ my team is......");
     VoicePlay("O040301000_03_040");
     MsgDisp("Honda","Yeah yeah!
 It was worth making a wish.");
-    MsgDisp("主人公","Huh? Were you wishing for us to be on the
-same team?");
+    MsgDisp("主人公","Huh?
+Were you wishing for us to be on the same
+team?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);

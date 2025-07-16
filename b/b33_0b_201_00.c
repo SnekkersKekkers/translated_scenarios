@@ -18,8 +18,8 @@ ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20100_04_000");
-MsgDisp("Nanatsumori","Eh∋ That's not like you to say that,
-Dahon.");
+MsgDisp("Nanatsumori","Eh∋
+That's not like you to say that, Dahon.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -50,7 +50,8 @@ VoicePlay("B330B20100_01_010");
 MsgDisp("Kazama","If I gave it the benefit of the doubt,
 would I think it's cute?
 No, I wouldn't.");
-MsgDisp("主人公","Hehe! ｛本多＊＊｝, are you satisfied?");
+MsgDisp("主人公","Hehe!
+｛本多＊＊｝, are you satisfied?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -75,8 +76,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B20100_01_020");
-MsgDisp("Kazama","Nanatsumori might 
-faint when he sees it.");
+MsgDisp("Kazama","Nanatsumori might faint when he sees it.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,5,1);

@@ -6,7 +6,8 @@ VoicePlay("B070700000_07_060");
 MsgDisp("Mikage","Fresh meat and vegetables are truly
 delicious～");
 MsgDisp("主人公","Then, the stuff you like to eat are the
-vegetables you grew, ｛御影＊＊｝ ——");
+vegetables you grew,
+｛御影＊＊｝ ——");
 ChEye(7,3);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -50,8 +51,7 @@ MsgDisp("Mikage","Yeah. But, for some reason, it's not on
 the school cafeteria menu. If I have one
 complaint about Habataki High School, it's
 that");
-MsgDisp("主人公","(That's true...
-why is that?)");
+MsgDisp("主人公","(That's true... why is that?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

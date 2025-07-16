@@ -9,8 +9,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A04001_06_000");
-MsgDisp("Himuro","I saw him being so energetic 
-in PE.");
+MsgDisp("Himuro","I saw him being so energetic in PE.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -45,8 +44,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("D140A04001_06_020");
-MsgDisp("Himuro","Yeah. This is the first time I've thought
-I'm glad I was in a different year.");
+MsgDisp("Himuro","Yeah.
+This is the first time I've thought I'm
+glad I was in a different year.");
 MsgDisp("主人公","(Do boys hate losing in sports that
 much...?)");
 BGMStop();

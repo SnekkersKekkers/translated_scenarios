@@ -33,7 +33,8 @@ even gloss over it.");
     VoicePlay("P730100002_01_020");
     MsgDisp("Kazama","Haa, you wearing a wedding dress is
 unrivalled.");
-    MsgDisp("主人公","Really? I'm happy!");
+    MsgDisp("主人公","Really?
+I'm happy!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -50,10 +51,9 @@ unrivalled.");
     VoicePlay("P730100002_01_040");
     MsgDisp("Kazama","Too bad the tuxedo wouldn't make it in
 time.");
-    MsgDisp("主人公","Hehe, 
-I'll have to go by myself for today!");
-    MsgDisp("主人公","(Thanks to ｛風真＊＊｝, I think my nerves
-have lessened.
+    MsgDisp("主人公","Hehe, I'll have to go by myself for today!");
+    MsgDisp("主人公","(Thanks to ｛風真＊＊｝, I think
+my nerves have lessened.
 This is my last runway, let's enjoy it.)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -66,7 +66,8 @@ This is my last runway, let's enjoy it.)");
     MsgDisp("主人公","(This year we're showing traditional
 wedding dresses. I think I was able to
 make it pretty but...)");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, did you come to watch?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, did you come
+to watch?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -87,7 +88,8 @@ enjoy for later...");
     MsgDisp("Kazama","There was no need to wait until later. Now
 is good. Right now, at this very moment, I
 like the way you look like a bride.");
-    MsgDisp("主人公","｛風真＊＊｝... Thank you.");
+    MsgDisp("主人公","｛風真＊＊｝...
+Thank you.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3,1);

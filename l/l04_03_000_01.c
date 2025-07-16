@@ -7,7 +7,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1);
     VoicePlay("L040300001_03_000");
     MsgDisp("Honda","Ah, perfect for replenishing my sugar
-levels. Thanks!");
+levels.
+Thanks!");
     MsgDisp("主人公","(Yeah......
 That's how it is.)");
     break ;
@@ -24,8 +25,9 @@ My sister gave me the same one.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300001_03_020");
-    MsgDisp("Honda","It's fine, it's fine. I already know it's
-delicious. Thanks!");
+    MsgDisp("Honda","It's fine, it's fine.
+I already know it's delicious.
+Thanks!");
     MsgDisp("主人公","(He seemed pleased, I guess.)");
     break ;
     case 4:
@@ -51,7 +53,7 @@ chocolates......");
 I'll enjoy them.");
     ChClose(3);
     VoicePlay("L040300001_03_060");
-    MsgDisp("Honda?","......Da, I wonder what this is.
+    MsgDisp("Honda?","...... Da, I wonder what this is.
 This uneasy feeling......");
     MsgDisp("主人公","(Maybe I should've given him a better
 chocolate......)");

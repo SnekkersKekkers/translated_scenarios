@@ -9,13 +9,14 @@ It's amazing, huh?\"");
 MsgDisp("","When I heard that, I realized.");
 MsgDisp("","Recently I had been hanging out with
 Ryota-senpai, Nozomu-senpai and
-｛主人公苗字｝ -senpai a lot.");
+｛主人公苗字｝
+-senpai a lot.");
 MsgClear();
 MsgDisp("","I wonder what triggered this.");
 MsgDisp("","I can't remember now, but it much
 have been her....
-｛主人公苗字｝ -senpai was the
-reason.");
+｛主人公苗字｝
+-senpai was the reason.");
 MsgDisp("","Maybe because I met her shortly after
 entering high school, I started to
 make friends with seniors in the year

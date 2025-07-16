@@ -17,8 +17,7 @@ ChMotion(6,0);
 VoicePlay("B140600100_06_010");
 MsgDisp("Himuro","I should be saying that.
 I also had fun.");
-MsgDisp("主人公","Huh... could it be,
-you're being honest?");
+MsgDisp("主人公","Huh... could it be, you're being honest?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -71,10 +70,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600100_06_090");
-MsgDisp("Himuro","It's proof that you're 
-changing me.");
-MsgDisp("主人公","Is that...
-a good thing?");
+MsgDisp("Himuro","It's proof that you're changing me.");
+MsgDisp("主人公","Is that... a good thing?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

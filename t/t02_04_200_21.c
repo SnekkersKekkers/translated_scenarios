@@ -14,7 +14,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("T020420000_04_190");
-MsgDisp("Nanatsumori","Why? Is that normal?");
+MsgDisp("Nanatsumori","Why?
+Is that normal?");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -44,8 +45,8 @@ StlOpen("ev_04_17");
 ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("T020420000_04_230");
-MsgDisp("Nanatsumori","｛主人公｝...... I love you,
-seriously......");
+MsgDisp("Nanatsumori","｛主人公｝......
+I love you, seriously......");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

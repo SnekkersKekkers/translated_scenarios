@@ -26,7 +26,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30400_07_010");
-MsgDisp("Mikage","...What's that, Inori.
+MsgDisp("Mikage","... What's that, Inori.
 Are you interested in that \"two-person\"
 world?");
 ChEye(6,0);
@@ -50,8 +50,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C30400_07_020");
-MsgDisp("Mikage","｛主人公｝, you look like you're
-interested too.");
+MsgDisp("Mikage","｛主人公｝, you look like
+you're interested too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -84,8 +84,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoiceEVSPlay(7);
 VoicePlay("B330C30400_07_040");
-MsgDisp("Mikage","｛主人公｝, you have three choices of
-fate.");
+MsgDisp("Mikage","｛主人公｝, you have three
+choices of fate.");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -103,8 +103,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30400_07_050");
 MsgDisp("Mikage","It's only natural.");
-MsgDisp("主人公","(Ehhh∋ Even if you say that so
-suddenly...!)");
+MsgDisp("主人公","(Ehhh∋
+Even if you say that so suddenly...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

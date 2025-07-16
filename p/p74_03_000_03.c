@@ -11,14 +11,16 @@ SEWait();
 ChOpen(3,254,1,0,4,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P740300003_03_000");
-MsgDisp("Honda","｛主人公｝, you're not injured right?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. I'm alright, but I
-failed.");
+MsgDisp("Honda","｛主人公｝, you're not
+injured right?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+I'm alright, but I failed.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("P740300003_03_010");
-MsgDisp("Honda","Eh? Your beautiful dress was well liked.
+MsgDisp("Honda","Eh?
+Your beautiful dress was well liked.
 To the point people were sighing in awe.");
 MsgDisp("主人公","Y-Yeah...
 But, I fell down...

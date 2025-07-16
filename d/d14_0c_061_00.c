@@ -7,8 +7,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C06100_06_000");
-MsgDisp("Himuro","Yanosuke-senpai left 
-the school in a car.");
+MsgDisp("Himuro","Yanosuke-senpai left the school in a car.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -22,8 +21,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06100_06_010");
 MsgDisp("Himuro","He didn't say anything to you?");
-MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ is busy, so there's no
-way he can tell me everything.");
+MsgDisp("主人公","Yeah.
+｛柊＊＊＊｝ is busy, so
+there's no way he can tell me everything.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -50,9 +50,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C06100_06_030");
-MsgDisp("Himuro","What's with that?
-acting like you're the only one who's
-spectating.");
+MsgDisp("Himuro","What's with that? acting like you're the
+only one who's spectating.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -65,13 +64,13 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
 VoicePlay("D140C06100_07_030");
-MsgDisp("Mikage","Eh? ");
+MsgDisp("Mikage","Eh?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("D140C06100_06_050");
-MsgDisp("Himuro","Look. It's not just me who's worried about
-you.");
+MsgDisp("Himuro","Look.
+It's not just me who's worried about you.");
 MsgDisp("主人公","Um...");
 ChEye(7,0);
 ChMouth(7,4);
@@ -83,8 +82,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("D140C06100_06_060");
-MsgDisp("Himuro","Heeh.... Then, let's leave it here for
-today.");
+MsgDisp("Himuro","Heeh....
+Then, let's leave it here for today.");
 MsgDisp("主人公","(Both of them are worried about my
 relationship with ｛柊＊＊＊｝...
 I'm thankful.)");

@@ -7,7 +7,8 @@ VoicePlay("R080100000_01_000");
 VoiceEVSPlay(1);
 MsgDisp("Kazama","Okay, enjoy the Christmas party until the
 end, ｛主人公｝.");
-MsgDisp("主人公","Huh, what about you, ｛風真＊＊｝?");
+MsgDisp("主人公","Huh, what about you,
+｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -74,8 +75,8 @@ ChOpen(22,34,0,0,2,#1,#1,0,2,0,30);
 ChEye(22,0);
 ChMouth(22,2);
 VoicePlay("R080100000_22_030");
-MsgDisp("Hikaru","Honestly. Is he supposed to be Mari's
-guardian?");
+MsgDisp("Hikaru","Honestly.
+Is he supposed to be Mari's guardian?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -140,11 +141,11 @@ StlMouth(1,2);
 StlCheek(1,3);
 ScrFadeIn(0);
 VoicePlay("R080100000_01_060");
-MsgDisp("Kazama","...Welcome.
+MsgDisp("Kazama","... Welcome.
 Can I help you?");
-MsgDisp("主人公","Hehe, yes you can. ｛風真＊＊｝, thank you
-for the lovely glove box. I didn't thank
-you earlier.");
+MsgDisp("主人公","Hehe, yes you can. ｛風真＊＊｝,
+thank you for the lovely glove box. I
+didn't thank you earlier.");
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("R080100000_01_070");
@@ -155,8 +156,7 @@ StlEye(1,1);
 StlMouth(1,1);
 StlCheek(1,7);
 VoicePlay("R080100000_01_080");
-MsgDisp("Kazama","And I...
-should also thank you.
+MsgDisp("Kazama","And I... should also thank you.
 My dream came true because of you.");
 MsgDisp("主人公","Huh?");
 StlEye(1,2);
@@ -168,8 +168,8 @@ MsgDisp("主人公","So pretty...");
 StlEye(1,3);
 StlMouth(1,2);
 VoicePlay("R080100000_01_100");
-MsgDisp("Kazama","Yeah. It's open for a little longer
-today.");
+MsgDisp("Kazama","Yeah.
+It's open for a little longer today.");
 StlEye(1,2);
 MsgClose();
 ScrFadeOut(0,0);
@@ -220,13 +220,12 @@ SEWait();
 ChEyeOpenLevel(1,0);
 VoicePlay("R080100000_01_140");
 MsgDisp("Kazama","You're scratching a lot there.
-...Here.");
+... Here.");
 ChEyeOpenLevel(1,10);
 MsgClose();
 ScrFadeOut(0,0,30);
 SEPlay("EV_SE_505");
-MsgDisp("","
-Chuu");
+MsgDisp("","Chuu");
 MsgDisp("主人公","∋");
 ChEye(1,4);
 ChMouth(1,3);

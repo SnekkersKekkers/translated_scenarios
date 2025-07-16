@@ -51,8 +51,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B150400400_04_080");
-MsgDisp("Nanatsumori","If you want, I can 
-do more than this?");
+MsgDisp("Nanatsumori","If you want, I can do more than this?");
 MsgDisp("主人公","That...");
 ChEye(4,0);
 ChMouth(4,3);

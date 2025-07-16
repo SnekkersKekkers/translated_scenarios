@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
         ChMotion(1,3);
         VoicePlay("B040115202_01_020");
         MsgDisp("Kazama","Hey, don't look at me.
-...Geez, this is what happens when you get
-too carried away.");
+... Geez, this is what happens when you
+get too carried away.");
         ChEyeOpenLevel(1,0);
         MsgDateResultDisp();
         break ;
@@ -84,14 +84,14 @@ Hey, do your best.");
         ChEye(1,3);
         ChMouth(1,1);
         VoicePlay("B040115202_01_060");
-        MsgDisp("Kazama","....Seriously,
-wait a second.");
+        MsgDisp("Kazama","....Seriously, wait a second.");
         ChEye(1,0);
         ChMouth(1,2);
         Wait(60,1);
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);
-        MsgDisp("主人公","Hehe. Maybe I can beat ｛風真＊＊｝?");
+        MsgDisp("主人公","Hehe.
+Maybe I can beat ｛風真＊＊｝?");
         SEPlay("EV_SE_086");
         Wait(15,1);
         SEPlay("EV_SE_869");
@@ -106,8 +106,7 @@ That is my promise.");
         SEPlay("EV_SE_869");
         SEPlay("EV_SE_062");
         SEWait();
-        MsgDisp("主人公","(Hey, 
-he really does hate to lose.)");
+        MsgDisp("主人公","(Hey, he really does hate to lose.)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);
@@ -124,8 +123,9 @@ he really does hate to lose.)");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040115202_01_080");
-    MsgDisp("Kazama","Nice. The penalty game will be to make a
-funny face with all your might.");
+    MsgDisp("Kazama","Nice.
+The penalty game will be to make a funny
+face with all your might.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -71,14 +71,15 @@ this!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Welcome! ......Ah, ｛本多＊＊｝.");
+    MsgDisp("主人公","Welcome!
+...... Ah, ｛本多＊＊｝.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I650300000_03_080");
     MsgDisp("Honda","It's pretty busy, huh?
 The customers just keep on coming.
-......But, I'm a little surprised.");
+...... But, I'm a little surprised.");
     MsgDisp("主人公","Hm?");
     ChEye(3,4);
     ChMouth(3,4);
@@ -115,14 +116,13 @@ it's more tedious......");
     VoicePlay("I650300000_03_130");
     MsgDisp("Honda","But, you chose this part-time job, so it's
 not really my place to say anything.");
-    MsgDisp("主人公","Not at all, thanks for
-worrying about me.");
+    MsgDisp("主人公","Not at all, thanks for worrying about me.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I650300000_03_140");
-    MsgDisp("Honda","Yeah. Just do your best without getting
-hurt!");
+    MsgDisp("Honda","Yeah.
+Just do your best without getting hurt!");
     MsgDisp("主人公","(｛本多＊＊｝ is so nice......
 I'll have to make sure I don't worry
 ｛本多＊＊｝ too much.)");

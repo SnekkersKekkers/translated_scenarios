@@ -4,14 +4,14 @@ ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("B350200000_02_000");
 MsgDisp("Sassa?","｛主人公｝.");
-MsgDisp("主人公","｛颯砂＊＊｝? What's up?");
+MsgDisp("主人公","｛颯砂＊＊｝?
+What's up?");
 MsgClose();
 ChOpen(2,255,4,0,0,#1,#1,0,0);
 VoicePlay("B350200000_02_010");
 MsgDisp("Sassa","I wanted to ask you that.
 What's wrong?");
-MsgDisp("主人公","Hmm, for some reason 
-I just wanted to ask.");
+MsgDisp("主人公","Hmm, for some reason I just wanted to ask.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

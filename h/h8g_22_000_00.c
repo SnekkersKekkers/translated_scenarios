@@ -7,7 +7,8 @@ ChMotion(22,3,1);
 VoicePlay("H8G2200000_22_000");
 MsgDisp("Hikaru","Wait, wait!
 Mari, you're amazing!");
-MsgDisp("主人公","Hm, ｛ひかる＊｝. What is it?");
+MsgDisp("主人公","Hm, ｛ひかる＊｝.
+What is it?");
 ChMotion(22,4,1);
 VoicePlay("H8G2200000_22_010");
 MsgDisp("Hikaru","You got a student award for being in the

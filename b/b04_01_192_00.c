@@ -41,9 +41,9 @@ Well, it was well-made.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040119200_01_020");
-    MsgDisp("Kazama","Right. I wasn't expecting much in the
-first place, so I guess this is about
-right.");
+    MsgDisp("Kazama","Right.
+I wasn't expecting much in the first
+place, so I guess this is about right.");
     MsgDispSksp(1,0);
     ChEye(1,0);
     MsgDateResultDisp();

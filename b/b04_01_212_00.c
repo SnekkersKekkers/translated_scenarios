@@ -44,9 +44,9 @@ things.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040121200_01_030");
-    MsgDisp("Kazama","Seriously...? That's something that ladies
-who like that kind of thing often wear,
-right?");
+    MsgDisp("Kazama","Seriously...?
+That's something that ladies who like that
+kind of thing often wear, right?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

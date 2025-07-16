@@ -45,14 +45,16 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020120203_01_060");
 MsgDisp("Kazama","When you're with him, you don't have to be
 cautious and he doesn't speak bluntly.");
-MsgDisp("主人公","Yeah. ｛風真＊＊｝, you get along with
+MsgDisp("主人公","Yeah.
+｛風真＊＊｝, you get along with
 ｛七ツ森＊｝, right?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120203_01_070");
-MsgDisp("Kazama","Haa? There it is again. YOu really see it
-that way, huh......");
+MsgDisp("Kazama","Haa?
+There it is again.
+YOu really see it that way, huh......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

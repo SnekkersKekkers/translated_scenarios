@@ -22,8 +22,9 @@ Well, let's go, Pika-chan!");
     ChOpen(3,255,5,4,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300004_03_020");
-    MsgDisp("Honda","Gah, not what I expected. Well... I don't
-mind this once in a while.");
+    MsgDisp("Honda","Gah, not what I expected.
+Well...
+I don't mind this once in a while.");
     break ;
     default :
     DbgAssert(1);

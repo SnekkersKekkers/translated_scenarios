@@ -1,15 +1,15 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah...... it's my phone. It's from the club
-president.");
+MsgDisp("主人公","Ah...... it's my phone.
+It's from the club president.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 MsgDisp("主人公","Yes, hello.");
 VoicePlay("P510000100_33_000");
-MsgDisp("Manager","Hello? I called to inform you about
-something.");
+MsgDisp("Manager","Hello?
+I called to inform you about something.");
 VoicePlay("P510000100_33_010");
 MsgDisp("Manager","We are preparing for the cultural festival
 for the next two weeks. Our club's

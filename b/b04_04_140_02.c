@@ -5,8 +5,7 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 ScrFadeIn(0);
 VoicePlay("B040414002_04_000");
-MsgDisp("Nanatsumori","Both rock and visual 
-kei bands are cool...");
+MsgDisp("Nanatsumori","Both rock and visual kei bands are cool...");
 MsgSel("Let's judge based off their music!","Does ｛七ツ森＊｝ want to try it too?","They're overflowing with individuality aren't they?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -59,14 +58,13 @@ in terms of outfits.");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("B040414002_04_060");
-        MsgDisp("Nanatsumori","But, if I could,
-it would be funー....");
+        MsgDisp("Nanatsumori","But, if I could, it would be funー....");
         MsgDisp("主人公","Right...");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040414002_04_070");
-        MsgDisp("Nanatsumori","...Pfft!
+        MsgDisp("Nanatsumori","... Pfft!
 Even you're considering it.");
         MsgDisp("主人公","It's making me imagin e all sorts of
 things.");
@@ -82,8 +80,7 @@ amateur band?");
         ChMotion(4,0,1);
         VoicePlay("B040414002_04_090");
         MsgDisp("Nanatsumori","You can do the vocals.
-I'll...
-pretend to play some instruments");
+I'll... pretend to play some instruments");
         MsgDisp("主人公","That's unfair!
 Then, I'll also, pretend to do some
 vocals...");

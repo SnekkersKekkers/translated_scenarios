@@ -5,7 +5,8 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Next is...... Ah, it's ｛颯砂＊＊｝. )");
+    MsgDisp("主人公","(Next is......
+Ah, it's ｛颯砂＊＊｝. )");
     MsgClose();
     ChOpen(2,30,4,0,2,#1,#1,0,0);
     VoicePlay("O080200000_02_000");
@@ -14,7 +15,8 @@ during a folk dance?");
     MsgDisp("主人公","A smile, I guess?");
     break ;
     case 3:
-    MsgDisp("主人公","(Next is...... Ah, it's ｛颯砂＊＊｝. )");
+    MsgDisp("主人公","(Next is......
+Ah, it's ｛颯砂＊＊｝. )");
     MsgClose();
     ChOpen(2,30,4,0,0,#1,#1,10,0);
     VoicePlay("O080200000_02_010");
@@ -31,13 +33,15 @@ partner, though?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Next is...... Ah, it's ｛颯砂＊＊｝. )");
+    MsgDisp("主人公","(Next is......
+Ah, it's ｛颯砂＊＊｝. )");
     MsgClose();
     ChOpen(2,30,4,0,4,#1,#1,0,0);
     VoicePlay("O080200000_02_030");
     MsgDisp("Sassa","Last time I held hands and danced with you
 was in kindergarten, right?");
-    MsgDisp("主人公","Huh!　You remember?");
+    MsgDisp("主人公","Huh!
+You remember?");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,4);

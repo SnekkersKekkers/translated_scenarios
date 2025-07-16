@@ -17,7 +17,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("D140D07091_21_000");
-MsgDisp("Michiru","Aah......I wanted to ask that too.
+MsgDisp("Michiru","Aah......
+I wanted to ask that too.
 We would do anything for Mari.");
 ChEye(22,2);
 ChMouth(22,0);

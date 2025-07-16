@@ -50,8 +50,8 @@ ChMotion(6,0);
 VoicePlay("G020640002_06_070");
 MsgDisp("Himuro","I can't imagine that.
 I don't think that would be me anymore.");
-MsgDisp("主人公","I would have liked to see ｛氷室＊＊｝ like
-that though.");
+MsgDisp("主人公","I would have liked to see
+｛氷室＊＊｝ like that though.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -73,7 +73,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("G020640002_06_100");
-MsgDisp("Himuro","Also......the pecking order seems strict.
+MsgDisp("Himuro","Also...... the pecking order seems strict.
 I'm sorry about that.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -82,8 +82,8 @@ VoicePlay("G020640002_06_110");
 MsgDisp("Himuro","Turns out surfing is the best......
 I love the ocean.
 It's spacious and free.");
-MsgDisp("主人公","(Hehe, ｛氷室＊＊｝ looks good talking about
-the things he loves......)");
+MsgDisp("主人公","(Hehe, ｛氷室＊＊｝ looks good
+talking about the things he loves......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

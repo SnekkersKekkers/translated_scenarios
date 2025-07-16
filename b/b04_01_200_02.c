@@ -72,8 +72,8 @@ human form.");
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_050");
-        MsgDisp("Kazama","There it is.
-\"Umm...\", no.
+        MsgDisp("Kazama","There it is. \"
+Umm...\" , no.
 Put yourself in my shoes for once!");
         MsgDisp("主人公","｛風真＊＊｝, are you angry?");
         ChEye(1,1);
@@ -108,7 +108,8 @@ I'll just leave it as it is after all.");
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040120002_01_100");
-        MsgDisp("Kazama","Haa.. It was a battle I had no chance of
+        MsgDisp("Kazama","Haa..
+It was a battle I had no chance of
 winning...");
         MsgDisp("主人公","(When you say \"chance of winning\", against
 what???))");

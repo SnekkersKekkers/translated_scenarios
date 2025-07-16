@@ -44,8 +44,7 @@ VoicePlay("B150600300_06_050");
 MsgDisp("Himuro","I was at fault too for saying it would be
 fine in moderation, but I didn't think it
 would get to this extent.");
-MsgDisp("主人公","Do you hate being
-touched that much?");
+MsgDisp("主人公","Do you hate being touched that much?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -61,8 +60,7 @@ MsgDisp("Himuro","I'll search for meaning in those actions,
 and then I can't help but become conscious
 of what comes after. ...You understand,
 right?");
-MsgDisp("主人公","Y-Yeah...
-somewhat. ");
+MsgDisp("主人公","Y-Yeah... somewhat.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

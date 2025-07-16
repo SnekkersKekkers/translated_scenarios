@@ -4,8 +4,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc010",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...... This will be the last time I
-walk down this road......)");
+MsgDisp("主人公","(Haa......
+This will be the last time I walk down
+this road......)");
 VoiceEVSPlay(1);
 VoicePlay("T020160000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
@@ -16,8 +17,8 @@ BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020160000_01_010");
 MsgDisp("Kazama","Did I make it in time?");
-MsgDisp("主人公","｛風真＊＊｝! The graduation ceremony is
-already over∋");
+MsgDisp("主人公","｛風真＊＊｝!
+The graduation ceremony is already over∋");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -30,7 +31,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("T020160000_01_030");
-MsgDisp("Kazama","No, not'Eh'. ");
+MsgDisp("Kazama","No, not'Eh'.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -56,7 +57,8 @@ VoicePlay("T020160000_01_070");
 MsgDisp("Kazama","Hey, shall we go to a coffee shop?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","Ah......｛風真＊＊｝, wait!");
+MsgDisp("主人公","Ah......
+｛風真＊＊｝, wait!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop(6);
 MsgClose();

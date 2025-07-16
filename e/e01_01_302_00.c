@@ -1,13 +1,14 @@
 BGOpen("wf210",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","...Alright.
+MsgDisp("主人公","... Alright.
 Time to head home.");
 SEPlay("EV_SE_597",0.3,0.2);
 Wait(100,0);
 SEPlay("EV_SE_662",0,1);
 Wait(50,0);
-MsgDisp("主人公","Oh! Something just flew by......");
+MsgDisp("主人公","Oh!
+Something just flew by......");
 SEStop("EV_SE_597",2);
 SEPlay("EV_SE_639");
 SEWait();
@@ -21,7 +22,8 @@ ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010130200_01_010");
 MsgDisp("Kazama","What's going on?
 You're standing around.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝! Going out?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Going out?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -51,15 +53,15 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010130200_01_050");
-MsgDisp("Kazama","What a crazy coincidence
-......damn it.");
+MsgDisp("Kazama","What a crazy coincidence ......damn it.");
 VoicePlay("E010130200_04_000");
 MsgDisp("Nanatsumori?","Hah hah......
 Where did I drop it......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","Hmm? This voice......");
+MsgDisp("主人公","Hmm?
+This voice......");
 ChPosition(1,1);
 MsgClose();
 SEPlay("EV_SE_544");
@@ -71,8 +73,9 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2);
 VoicePlay("E010130200_04_010");
-MsgDisp("Nanatsumori","Uh-...... My ticket for the event, I seem
-to have dropped it.");
+MsgDisp("Nanatsumori","Uh-......
+My ticket for the event, I seem to have
+dropped it.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -98,9 +101,9 @@ Don't drop it again, alright?");
 ChEye(4,0);
 SEPlay("EV_SE_662");
 SEWait();
-MsgDisp("主人公","｛風真＊＊｝ said he's going too.
-Aren't you two just brought together by
-fate?");
+MsgDisp("主人公","｛風真＊＊｝ said he's going
+too. Aren't you two just brought together
+by fate?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -133,7 +136,8 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 ChClose(4,0,30);
-MsgDisp("主人公","(Hehehe! Wouldn't it be awesome if their
-seats were right next to each other!)");
+MsgDisp("主人公","(Hehehe!
+Wouldn't it be awesome if their seats were
+right next to each other!)");
 MsgClose();
 ScrFadeOut(0,0);

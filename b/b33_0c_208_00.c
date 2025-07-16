@@ -25,12 +25,13 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C20800_07_010");
-MsgDisp("Mikage","｛主人公｝, I brought some vegetables
-too Please prepare them.");
+MsgDisp("Mikage","｛主人公｝, I brought some
+vegetables too Please prepare them.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
-MsgDisp("主人公","Yes. These are vegetables you grew, right,
+MsgDisp("主人公","Yes.
+These are vegetables you grew, right,
 ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -47,8 +48,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20800_05_000");
-MsgDisp("Hiiragi","Absolutely. You do it by rubbing some wood
-together right?");
+MsgDisp("Hiiragi","Absolutely.
+You do it by rubbing some wood together
+right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

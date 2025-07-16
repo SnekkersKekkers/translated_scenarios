@@ -1,5 +1,6 @@
 MsgDisp("主人公","I wonder if I'll always be together with
-｛柊＊＊＊｝, ｛氷室＊＊｝ and
+｛柊＊＊＊｝,
+｛氷室＊＊｝ and
 ｛御影＊＊｝?");
 ChEye(5,0);
 ChMouth(5,2);
@@ -18,15 +19,15 @@ MsgDisp("主人公","Dependent on me?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_450");
-MsgDisp("Hiiragi","Right...but, our bond is surprisingly
+MsgDisp("Hiiragi","Right... but, our bond is surprisingly
 strong.
 Please do not fret.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(5,0);
 VoicePlay("B070500001_05_460");
 MsgDisp("Hiiragi","Even if you were to carelessly say \"Let's
-not hang out anymore!\", I think we may be
-surprisingly stubborn.");
+not hang out anymore!\"
+, I think we may be surprisingly stubborn.");
 MsgDisp("主人公","Eh?
 I wouldn't say that!");
 ChMouth(5,4);
@@ -42,8 +43,8 @@ MsgDisp("Hiiragi","It's strange isn't it? I don't even
 understand the reasoning myself. It's
 difficult to destroy something you do not
 understand.");
-MsgDisp("主人公","Yeah. Yeah, we're definitely a weird
-lineup.");
+MsgDisp("主人公","Yeah.
+Yeah, we're definitely a weird lineup.");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("B070500001_05_490");
@@ -52,10 +53,12 @@ the center.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_500");
-MsgDisp("Hiiragi","Are you ready? ");
-MsgDisp("主人公","(Then it seems like ｛柊＊＊＊｝ likes
-being with me, ｛氷室＊＊｝ and
-｛御影＊＊｝. I'm happy...)");
+MsgDisp("Hiiragi","Are you ready?");
+MsgDisp("主人公","(Then it seems like
+｛柊＊＊＊｝ likes being with
+me, ｛氷室＊＊｝ and
+｛御影＊＊｝. I'm
+happy...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

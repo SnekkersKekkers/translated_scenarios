@@ -9,7 +9,8 @@ switch (ChPrmGet(3,6)){
     ScrFadeIn(0);
     VoicePlay("B060300004_03_000");
     MsgDisp("Honda","Sorry, are we done?
-I'm so sleepy......I might collapse.");
+I'm so sleepy......
+I might collapse.");
     MsgDispSksp(0);
     break ;
     case 3:

@@ -7,15 +7,16 @@ BGMPlay("BGM_SPORTS_DAY",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D120A00200_47_000");
-MsgDisp("Broadcast","Next up:  Men's 100m Dash.");
+MsgDisp("Broadcast","Next up: Men's 100m Dash.");
 MsgClose();
 SEPlay("EV_SE_625");
 SEWait();
 ChOpen(2,30,3,0,4,#1,#1,0,0);
 VoicePlay("D120A00200_02_000");
 MsgDisp("Sassa","Hey, are you coming?");
-MsgDisp("主人公","Hehe, even if I don't, ｛颯砂＊＊｝ will
-still come in first place, right?");
+MsgDisp("主人公","Hehe, even if I don't,
+｛颯砂＊＊｝ will still come in
+first place, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -30,8 +31,8 @@ SEWait();
 VoicePlay("D120A00200_01_000");
 MsgDisp("Kazama","Sassa, you need to be more considerate of
 your running mates.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝. Are the two of you
-running together?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Are the two of you running together?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -59,9 +60,10 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(It's about time for ｛風真＊＊｝ and
-｛颯砂＊＊｝ to start. ......Huh? Over
-there, is that——)");
+MsgDisp("主人公","(It's about time for
+｛風真＊＊｝ and
+｛颯砂＊＊｝ to start. ......Huh?
+Over there, is that——)");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_0a_04");
@@ -71,8 +73,9 @@ StlMouth(1,0);
 StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Eh! I can't believe it......They're in
-the same race∋)");
+MsgDisp("主人公","(Eh!
+I can't believe it......
+They're in the same race∋)");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
@@ -82,8 +85,8 @@ Let's have fun like we did back in
 kindergarten.");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D120A00200_01_020");
-MsgDisp("Kazama","......Geez. You really don't remember
-anything, huh?");
+MsgDisp("Kazama","...... Geez.
+You really don't remember anything, huh?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D120A00200_02_040");
@@ -161,7 +164,8 @@ ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("D120A00200_01_050");
 MsgDisp("Kazama","What are you doing?");
-MsgDisp("主人公","I saw ｛風真＊＊｝ going this way so......
+MsgDisp("主人公","I saw ｛風真＊＊｝ going this
+way so......
 Are you sad?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -190,7 +194,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120A00200_01_090");
-MsgDisp("Kazama","But......Thank you.
+MsgDisp("Kazama","But......
+Thank you.
 I get to share this feeling with you.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);

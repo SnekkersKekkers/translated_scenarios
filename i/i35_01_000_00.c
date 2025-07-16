@@ -45,13 +45,15 @@ See you later.");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(Hm? Come to think of it, there's a cake
-shop near Simon's......)");
+    MsgDisp("主人公","(Hm?
+Come to think of it, there's a cake shop
+near Simon's......)");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
-    MsgDisp("主人公","Welcome. Ah, ｛風真＊＊｝, what's up?");
+    MsgDisp("主人公","Welcome.
+Ah, ｛風真＊＊｝, what's up?");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,0,3,#1,#1,0,0);
@@ -73,7 +75,7 @@ Then, please have a seat here.");
     MsgDisp("主人公","Here's our original blend.");
     VoicePlay("I350100000_01_040");
     MsgDisp("Kazama","Smells good.
-......Yeah, it's delicious.");
+...... Yeah, it's delicious.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,35,0,0,3,#1,#1,0,0,0,30);
@@ -81,7 +83,7 @@ Then, please have a seat here.");
     VoicePlay("I350100000_01_050");
     MsgDisp("Kazama","It's too bad, but time's up.
 It's time for me to go.");
-    MsgDisp("主人公","Huh∈　Already∋");
+    MsgDisp("主人公","Huh∈ Already∋");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,4);
@@ -109,8 +111,8 @@ See you.");
     ChClose(1,0,30);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(｛風真＊＊｝ came all this way to check
-on me.
+    MsgDisp("主人公","(｛風真＊＊｝ came all this way to check on
+me.
 I'm so happy!)");
     break ;
     case 4:
@@ -123,10 +125,12 @@ I'm so happy!)");
     MsgDisp("主人公","Yes, this is Cafe Alucard.");
     VoicePlay("I350100000_01_090");
     MsgDisp("Kazama?","Hello.");
-    MsgDisp("主人公","Hm? Is that you, ｛風真＊＊｝?");
+    MsgDisp("主人公","Hm?
+Is that you, ｛風真＊＊｝?");
     VoicePlay("I350100000_01_100");
-    MsgDisp("Kazama","Correct. There would've been a penalty for
-getting it wrong, you know.");
+    MsgDisp("Kazama","Correct.
+There would've been a penalty for getting
+it wrong, you know.");
     MsgDisp("主人公","Hehe.
 What is it all of a sudden?");
     VoicePlay("I350100000_01_110");
@@ -148,8 +152,9 @@ Thank you for your order.");
     Wait(75,0);
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,0,3,#1,#1,0,0);
-    MsgDisp("主人公","Welcome. ......Hm, ｛風真＊＊｝? You said
-someone else would......");
+    MsgDisp("主人公","Welcome.
+...... Hm, ｛風真＊＊｝?
+You said someone else would......");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3,1);
@@ -163,8 +168,8 @@ Then would you like some coffee?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("I350100000_01_130");
-    MsgDisp("Kazama","Uh...... If it's just a little...... no, I
-can't.");
+    MsgDisp("Kazama","Uh......
+If it's just a little...... no, I can't.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -191,8 +196,8 @@ It was just for a moment?");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","......Wait, ｛風真＊＊｝, you forgot the
-cake!");
+    MsgDisp("主人公","......Wait, ｛風真＊＊｝, you
+forgot the cake!");
     break ;
     default :
     DbgAssert(1);

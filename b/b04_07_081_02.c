@@ -60,8 +60,7 @@ disrespectful to the cherry blossoms.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040708102_07_040");
-        MsgDisp("Mikage","Right, even I don't
-know it myself though.");
+        MsgDisp("Mikage","Right, even I don't know it myself though.");
         MsgDisp("主人公","Eh?");
         ChEye(7,0);
         ChMouth(7,0);
@@ -75,7 +74,8 @@ growing every year?");
         MsgDisp("Mikage","You guys are growing up so fast around me,
 right?
 What about me in comparison?");
-        MsgDisp("主人公","｛御影＊＊｝'s growth, huh...?");
+        MsgDisp("主人公","｛御影＊＊｝'s growth,
+huh...?");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,1);
@@ -95,8 +95,8 @@ I'm happy.");
         ChMotion(7,0);
         VoicePlay("B040708102_07_090");
         MsgDisp("Mikage","You guys, the plants in the gardening
-club, Molly at home...
-you're all only growing bigger...");
+club, Molly at home... you're all only
+growing bigger...");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,2);

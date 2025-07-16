@@ -79,7 +79,8 @@ attitude.");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040324102_03_060");
         MsgDisp("Honda","\"It's really important to enjoy your meal
-properly!\" She said.");
+properly!\"
+She said.");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4);
@@ -101,8 +102,8 @@ He's kind, and always amuses everyone.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040324102_03_090");
-        MsgDisp("Honda","Ehh∋ ... Does that \"everyone\" include
-you?");
+        MsgDisp("Honda","Ehh∋
+... Does that \"everyone\" include you?");
         MsgDisp("主人公","Of course!");
         ChEye(3,3);
         ChMouth(3,3);

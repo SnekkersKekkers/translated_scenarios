@@ -3,7 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like I got here a little early...
 Huh?)");
-MsgDisp("主人公","｛氷室＊＊｝! You're already here?");
+MsgDisp("主人公","｛氷室＊＊｝!
+You're already here?");
 BGMPlay("BGM_C06_INORI_A",0.01);
 switch (ChPrmGet(6,6)){
     case 0:
@@ -73,7 +74,8 @@ Enough, I'm leaving you behind.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);
-    MsgDisp("主人公","Wah! I'm sorry, I'm sorry!");
+    MsgDisp("主人公","Wah!
+I'm sorry, I'm sorry!");
     MsgDispSksp(0);
     break ;
     default :

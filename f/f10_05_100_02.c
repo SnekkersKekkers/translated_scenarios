@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is studying hard
-in the library...?
+MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is
+studying hard in the library...?
 I'll go check it out.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -16,14 +16,14 @@ MsgDisp("Hiiragi?","｛主人公｝, you came.");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 ChOpen(5,254,0,4,4,#1,#1,0,0);
-MsgDisp("主人公","Yeah, you sure are working
-hard, huh?");
+MsgDisp("主人公","Yeah, you sure are working hard, huh?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100510002_05_010");
-MsgDisp("Hiiragi","Yes. After I found the middle school
-textbook, I was no longer dumbfounded.");
+MsgDisp("Hiiragi","Yes.
+After I found the middle school textbook,
+I was no longer dumbfounded.");
 MsgDisp("主人公","I'm glad.
 If you keep progressing like this, you'll
 be alright.");
@@ -31,8 +31,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100510002_05_020");
-MsgDisp("Hiiragi","It is reassuring to 
-hear you say that.");
+MsgDisp("Hiiragi","It is reassuring to hear you say that.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -75,8 +74,9 @@ ChMouth(5,4);
 VoicePlay("F100510002_05_060");
 MsgDisp("Hiiragi","Thank you.
 You are my teacher.");
-MsgDisp("主人公","No. I'm also learning a lot too. Thank
-you.");
+MsgDisp("主人公","No.
+I'm also learning a lot too.
+Thank you.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

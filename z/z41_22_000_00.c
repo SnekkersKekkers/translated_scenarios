@@ -21,7 +21,6 @@ MsgDisp("Hikaru","If you really don't know, ask Hikaru.
 Okay?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(I wonder
-if I've hurt someone......)");
+MsgDisp("主人公","(I wonder if I've hurt someone......)");
 MsgClose();
 ScrFadeOut(0,0);

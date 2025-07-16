@@ -20,8 +20,7 @@ ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B070800000_08_130");
 MsgDisp("Shirahane","Hehe!");
-MsgDisp("主人公","Then, out of those 
-which do you like most?");
+MsgDisp("主人公","Then, out of those which do you like most?");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);

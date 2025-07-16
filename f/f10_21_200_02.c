@@ -9,8 +9,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F102120002_21_000");
-MsgDisp("Michiru","Mari. You're looking lively and cute today
-too.");
+MsgDisp("Michiru","Mari.
+You're looking lively and cute today too.");
 MsgDisp("主人公","Come on, ｛みちる＊｝!
 I'm embarrassed....");
 ChClose(21,0,30);
@@ -67,8 +67,8 @@ ChMotion(21,0);
 VoicePlay("F102120002_21_050");
 MsgDisp("Michiru","...Hey, what does he call you, Mari?");
 MsgDisp("主人公","(Isn't it actually kind of embarrassing
-for ｛氷室＊＊｝ to call girls by their
-first names?)");
+for ｛氷室＊＊｝ to call girls by
+their first names?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

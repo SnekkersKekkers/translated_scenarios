@@ -3,8 +3,9 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 Wait(20,0);
 VoicePlay("D010700000_07_000");
-MsgDisp("Mikage","Alright. Once you're finished taking
-notes, you can leave.");
+MsgDisp("Mikage","Alright.
+Once you're finished taking notes, you can
+leave.");
 SEPlay("EV_SE_666",0.8,0.6);
 VoicePlay("D010700000_42_000");
 MsgDisp("Male Student","It's over, time for food!");
@@ -18,8 +19,8 @@ SEPlay("EV_SE_544");
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("D010700000_07_010");
-MsgDisp("Mikage","｛主人公｝, please come to the science
-lab prep room after lunch～");
+MsgDisp("Mikage","｛主人公｝, please come to
+the science lab prep room after lunch～");
 MsgDisp("主人公","Ah, yes sir.");
 SEStop("EV_SE_SCHOOL_002",1.5);
 MsgClose();
@@ -43,7 +44,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D010700000_07_020");
 MsgDisp("Mikage","Haha, you got here quickly.");
-MsgDisp("主人公","Ah, yeah......Sorry.");
+MsgDisp("主人公","Ah, yeah......
+Sorry.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -73,7 +75,8 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 Wait(30,0);
-MsgDisp("主人公","Wow......It's delicious.
+MsgDisp("主人公","Wow......
+It's delicious.
 This tea has such a beautiful color......");
 StlEye(7,0);
 StlMouth(7,0);
@@ -97,8 +100,8 @@ VoicePlay("D010700000_07_080");
 MsgDisp("Mikage","Drink it slowly.
 It will warm your stomach and increase
 your appetite.");
-MsgDisp("主人公","Come to think of it......I'm getting a bit
-hungry now——");
+MsgDisp("主人公","Come to think of it......
+I'm getting a bit hungry now——");
 StlEye(7,0);
 StlMouth(7,1);
 SEPlay("EV_SE_017");
@@ -108,7 +111,8 @@ StlMouth(7,0);
 VoicePlay("D010700000_07_090");
 MsgDisp("Mikage","It's super effective.
 You're easy to read, huh?");
-MsgDisp("主人公","Ugh......How embarrassing.");
+MsgDisp("主人公","Ugh......
+How embarrassing.");
 StlEye(7,1);
 StlMouth(7,0);
 VoicePlay("D010700000_07_100");
@@ -121,7 +125,8 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 SEPlay("EV_SE_080");
-MsgDisp("主人公","(Weird...... Thanks to ｛御影＊＊｝, I
+MsgDisp("主人公","(Weird......
+Thanks to ｛御影＊＊｝, I
 feel like I got some strength back!)");
 MsgClose();
 SEStop("EV_SE_080");

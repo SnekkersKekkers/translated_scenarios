@@ -1,4 +1,5 @@
-MsgDisp("主人公","What kind of music does ｛本多＊＊｝ like?");
+MsgDisp("主人公","What kind of music does
+｛本多＊＊｝ like?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -38,8 +39,9 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300000_03_240");
 MsgDisp("Honda","Want to do it with me instead?");
-MsgDisp("主人公","(Uhm......I can sort of understand his
-sister's feelings......)");
+MsgDisp("主人公","(Uhm......
+I can sort of understand his sister's
+feelings......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

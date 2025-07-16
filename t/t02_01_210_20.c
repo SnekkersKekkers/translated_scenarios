@@ -64,7 +64,8 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020121000_01_290");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝... Thank you.");
+MsgDisp("主人公","｛風真＊＊｝...
+Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);

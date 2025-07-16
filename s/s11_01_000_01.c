@@ -16,7 +16,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("S110100001_01_010");
 MsgDisp("Kazama","It says Very Good Luck.");
-MsgDisp("主人公","Wow! That's great.");
+MsgDisp("主人公","Wow!
+That's great.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);

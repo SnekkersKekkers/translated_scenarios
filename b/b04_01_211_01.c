@@ -8,8 +8,7 @@ ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040121101_01_000");
 MsgDisp("Kazama","An exhibition in a form so close to
-nature...
-it's really elaborate.");
+nature... it's really elaborate.");
 MsgSel("That polar bear dive was amazing.","Feeding time on monkey mountain was amazing","The orangutan tightrope walking was amazing");
 switch (MsgSelRsltGet()){
     case 0:

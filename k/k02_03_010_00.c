@@ -27,8 +27,8 @@ SEWait();
 VoicePlay("K020301000_03_010");
 MsgDisp("Honda","Here's your present!
 Today's your birthday, right?");
-MsgDisp("主人公","Could it be that......
-you had this with you this whole time?");
+MsgDisp("主人公","Could it be that...... you had this with
+you this whole time?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

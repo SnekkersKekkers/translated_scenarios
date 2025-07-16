@@ -34,7 +34,8 @@ ChEyeOpenLevel(6,0);
 VoicePlay("F020600002_06_030");
 MsgDisp("Himuro","Although... maybe if you have a stomach
 ache.");
-MsgDisp("主人公","Huh? ｛氷室＊＊｝, do you pray when your
+MsgDisp("主人公","Huh?
+｛氷室＊＊｝, do you pray when your
 stomach hurts?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -58,4 +59,5 @@ ChMotion(6,1);
 VoicePlay("F020600002_06_060");
 MsgDisp("Himuro","...you don't get it all, do you.");
 MsgDisp("主人公","(We got way off topic from the legend, but
-I had fun going home with ｛氷室＊＊｝. )");
+I had fun going home with
+｛氷室＊＊｝. )");

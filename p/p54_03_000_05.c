@@ -12,9 +12,11 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,0,4,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P540300005_03_000");
-MsgDisp("Honda","｛主人公｝. Good work.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. Even though it was my
-last, I still failed...");
+MsgDisp("Honda","｛主人公｝.
+Good work.");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Even though it was my last, I still
+failed...");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);

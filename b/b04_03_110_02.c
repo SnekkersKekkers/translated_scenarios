@@ -32,8 +32,8 @@ it.");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040311002_03_020");
-        MsgDisp("Honda","Eh... that's harsh. Yes, I'll learn how to
-swim first.");
+        MsgDisp("Honda","Eh... that's harsh.
+Yes, I'll learn how to swim first.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -43,7 +43,8 @@ swim first.");
         ChMouth(3,2);
         ChMotion(3,1);
         VoicePlay("B040311002_03_030");
-        MsgDisp("Honda","Ehー. You don't have to put it like that.
+        MsgDisp("Honda","Ehー.
+You don't have to put it like that.
 I'm starting to float a little you know?");
         ChEye(3,4);
         ChMouth(3,4);
@@ -52,18 +53,19 @@ I'm starting to float a little you know?");
         MsgDisp("Honda","You're right, speed isn't the main issue
 here...
 But floating is the first step, right?");
-        MsgDisp("主人公","｛本多＊＊｝, you always look so relaxed
-floating, don't you?");
+        MsgDisp("主人公","｛本多＊＊｝, you always look so
+relaxed floating, don't you?");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040311002_03_050");
-        MsgDisp("Honda","Huh? Your words somewhat have a bite to
-them today.");
+        MsgDisp("Honda","Huh?
+Your words somewhat have a bite to them
+today.");
         MsgDisp("主人公","Eh, that's not what I meant!");
         MsgDisp("主人公","It's just that I think it's amazing that
-｛本多＊＊｝ enjoys even the things he's
-bad at.");
+｛本多＊＊｝ enjoys even the
+things he's bad at.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);

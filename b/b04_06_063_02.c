@@ -56,8 +56,8 @@ Do as you'd like.");
         ChMouth(6,3);
         ChMotion(6,5);
         VoicePlay("B040606302_06_040");
-        MsgDisp("Himuro","Pfft... To think I would get a response
-like that.");
+        MsgDisp("Himuro","Pfft...
+To think I would get a response like that.");
         MsgDisp("主人公","Eh, can we not?");
         ChEye(6,0);
         ChMouth(6,3);

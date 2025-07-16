@@ -5,8 +5,9 @@ ChOpen(7,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("P650700007_07_000");
-MsgDisp("Mikage","｛主人公｝. The customers were not
-happy, did you notice too?");
+MsgDisp("Mikage","｛主人公｝.
+The customers were not happy, did you
+notice too?");
 MsgDisp("主人公","Ah, yes...
 As I thought, it was no good huh?");
 ChEye(7,2);

@@ -27,8 +27,8 @@ hometown is always great.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040222102_02_020");
-    MsgDisp("Sassa","Huh? Did I press some sort of weird
-switch?");
+    MsgDisp("Sassa","Huh?
+Did I press some sort of weird switch?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -86,7 +86,8 @@ Rotations of a Year\" together.");
         VoicePlay("B040222102_02_080");
         MsgDisp("Sassa","A combination and order that fulfills both
 efficiency and satisfaction...");
-        MsgDisp("主人公","(Ummm...｛颯砂＊＊｝, this is beginning to
+        MsgDisp("主人公","(Ummm...
+｛颯砂＊＊｝, this is beginning to
 look like a training program.)");
         break ;
         default :

@@ -11,7 +11,8 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H480600000_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","｛氷室＊＊｝! Did you come to cheer me on?");
+    MsgDisp("主人公","｛氷室＊＊｝!
+Did you come to cheer me on?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -24,15 +25,16 @@ gymnastics?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H480600000_06_020");
-    MsgDisp("Himuro","Yeah. And I'll be cheering for you while
-I'm at it.");
+    MsgDisp("Himuro","Yeah.
+And I'll be cheering for you while I'm at
+it.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("H480600000_06_030");
     MsgDisp("Himuro","So, do your best to entertain me.");
-    MsgDisp("主人公","(Alright. I'll show him a good
-performance!)");
+    MsgDisp("主人公","(Alright.
+I'll show him a good performance!)");
     break ;
     case 4:
     case 5:
@@ -40,7 +42,8 @@ performance!)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H480600000_06_040");
     MsgDisp("Himuro","Not heading up?");
-    MsgDisp("主人公","Huh∋ Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Huh∋
+Ah, ｛氷室＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -68,7 +71,7 @@ It's not like you.");
     MsgDisp("Himuro","Have some confidence. Messing up because
 you're nervous is the stupidest thing you
 could do now. Don't let me down.");
-    MsgDisp("主人公","......You're right.
+    MsgDisp("主人公","...... You're right.
 I'll do my best!");
     ChEye(6,0);
     ChMouth(6,3);

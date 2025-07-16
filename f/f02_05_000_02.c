@@ -23,7 +23,7 @@ ChMotion(5,0);
 VoicePlay("F020500002_05_020");
 MsgDisp("Hiiragi","That is not all.
 I heard that a student near the church
-heard a cry that sounded like a 'Moo～'.");
+heard a cry that sounded like a 'Moo～ '.");
 MsgDisp("主人公","......a cow?");
 ChMotion(5,3);
 VoicePlay("F020500002_05_030");

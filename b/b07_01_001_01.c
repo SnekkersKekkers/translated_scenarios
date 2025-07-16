@@ -1,5 +1,6 @@
-MsgDisp("主人公","｛風真＊＊｝, recently you've been talking
-to ｛颯砂＊＊｝ often haven't you?");
+MsgDisp("主人公","｛風真＊＊｝, recently you've
+been talking to ｛颯砂＊＊｝
+often haven't you?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -37,15 +38,15 @@ VoicePlay("B070100001_01_050");
 MsgDisp("Kazama","Even though there were easier targets than
 me.
 FOr some reason he only chased me.");
-MsgDisp("主人公","｛颯砂＊＊｝ really likes ｛風真＊＊｝
-doesn't he?");
+MsgDisp("主人公","｛颯砂＊＊｝ really likes
+｛風真＊＊｝ doesn't he?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100001_01_060");
-MsgDisp("Kazama","More than him liking me...
-it was like I was just right.
+MsgDisp("Kazama","More than him liking me... it was like I
+was just right.
 Like a suitable prey, it was terrifying.");
 MsgDisp("主人公","Hehe.");
 ChEyeOpenLevel(1,0);

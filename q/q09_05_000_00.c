@@ -42,8 +42,8 @@ Well, let's go!");
     VoiceEVSPlay(5);
     VoicePlay("Q090500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Sorry, did I keep you
-waiting?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Sorry, did I keep you waiting?");
     VoicePlay("Q090500000_05_040");
     MsgDisp("Hiiragi","I waited, but waiting for excitement
 doesn't feel bad at all.");
@@ -67,8 +67,9 @@ over.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("Q090500000_05_080");
-    MsgDisp("Hiiragi","Haha! You said mean things, so I'm getting
-back at you.");
+    MsgDisp("Hiiragi","Haha!
+You said mean things, so I'm getting back
+at you.");
     MsgDisp("主人公","Come on......
 Ah, look, shall we go?");
     ChEye(5,4);

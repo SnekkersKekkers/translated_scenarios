@@ -7,13 +7,14 @@ VoicePlay("G020610305_06_000");
 MsgDisp("Himuro","It's beautiful huh......
 I may not forget this scenery for the rest
 of my life.");
-MsgDisp("主人公","Yeah. It seems like we'll remember this
-whenever summer comes, huh?");
+MsgDisp("主人公","Yeah.
+It seems like we'll remember this whenever
+summer comes, huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610305_06_010");
-MsgDisp("Himuro","......If we're talking about memories,
+MsgDisp("Himuro","...... If we're talking about memories,
 spring.
 I recall when you and I met.");
 MsgDisp("主人公","Eh......?");
@@ -62,8 +63,8 @@ ChMotion(6,2);
 VoicePlay("G020610305_06_070");
 MsgDisp("Himuro","......Haa If I could turn back time, I'd
 want to do it over......");
-MsgDisp("主人公","(｛氷室＊＊｝...... So that's how you
-felt......)");
+MsgDisp("主人公","(｛氷室＊＊｝......
+So that's how you felt......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

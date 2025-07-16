@@ -12,8 +12,7 @@ Thank you very much.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Hm,
-well, I guess that's it......)");
+    MsgDisp("主人公","(Hm, well, I guess that's it......)");
     break ;
     case 3:
     ChEye(5,0);

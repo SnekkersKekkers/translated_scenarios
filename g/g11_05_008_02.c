@@ -49,8 +49,7 @@ MsgDisp("Hiiragi","I must have made a mistake inputting the
 information.
 I'll start over from the beginning.");
 MsgDisp("主人公","Y-Yes.......");
-MsgDisp("主人公","(Ah∈
-under the laptop——)");
+MsgDisp("主人公","(Ah∈ under the laptop——)");
 while (1){
     RunEverydaySksp(5,0,0,0,1,0);
     if (RunEverydaySkspRsltGet()){
@@ -81,8 +80,7 @@ ChMouth(5,0);
 ChEyeOpenLevel(5,13);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500802_05_040");
-MsgDisp("Hiiragi","Eh!
-could it be under the computer?");
+MsgDisp("Hiiragi","Eh! could it be under the computer?");
 MsgClose();
 ScrFadeOut(0,0,30);
 ChClose(5,0,0);
@@ -94,8 +92,7 @@ MsgClose();
 ChOpen(5,254,3,3,4,#1,#1,0,0);
 ChMouth(5,3);
 VoicePlay("G110500802_05_070");
-MsgDisp("Hiiragi","It's there∈
-I'm sorry for the trouble.");
+MsgDisp("Hiiragi","It's there∈ I'm sorry for the trouble.");
 MsgDisp("主人公","No, I'm glad it's been found!");
 ChEye(5,2);
 ChMotion(5,1);
@@ -128,8 +125,9 @@ VoicePlay("G110500802_05_110");
 MsgDisp("Hiiragi","Thank you.
 I feel a little more confident now.
 You give very good compliments.");
-MsgDisp("主人公","(Yay! But I want to help ｛柊＊＊＊｝ even
-more.)");
+MsgDisp("主人公","(Yay!
+But I want to help ｛柊＊＊＊｝
+even more.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

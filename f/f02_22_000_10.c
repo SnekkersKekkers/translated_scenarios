@@ -10,16 +10,15 @@ ChEye(22,4);
 ChMouth(22,4);
 ChMotion(22,2,1);
 VoicePlay("F022200010_22_000");
-MsgDisp("Hikaru","Haa... Haba High's cultural festival is so
-fun, it's sad to think this is our last
-one.");
+MsgDisp("Hikaru","Haa...
+Haba High's cultural festival is so fun,
+it's sad to think this is our last one.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200010_22_010");
-MsgDisp("Hikaru","Ah, that's right!
-i wonder who will be the leading role for
-our school play～♪");
+MsgDisp("Hikaru","Ah, that's right! i wonder who will be the
+leading role for our school play～♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

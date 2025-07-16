@@ -21,7 +21,8 @@ ChMouth(3,0);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020320200_03_030");
-MsgDisp("Honda","Yeah! When you're with Ryo-kun, your laugh
+MsgDisp("Honda","Yeah!
+When you're with Ryo-kun, your laugh
 sounds a little different.");
 MsgDisp("主人公","Is that, right......?");
 ChEye(3,0);
@@ -67,21 +68,23 @@ VoicePlay("G020320200_03_100");
 MsgDisp("Honda","So I'm not so sure I can act the same way
 in front of you two.
 That's what I wanted to tell you today.");
-MsgDisp("主人公","Yeah......I see.");
+MsgDisp("主人公","Yeah......
+I see.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020320200_03_110");
-MsgDisp("Honda","Yeah. But I really do like both of you a
-lot, okay?");
+MsgDisp("Honda","Yeah.
+But I really do like both of you a lot,
+okay?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020320200_03_120");
 MsgDisp("Honda","It's just that, right now, seeing you two
 together hurts a little......");
-MsgDisp("主人公","(Hehe, I'm glad I heard ｛本多＊＊｝'s true
-feelings.)");
+MsgDisp("主人公","(Hehe, I'm glad I heard
+｛本多＊＊｝'s true feelings.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

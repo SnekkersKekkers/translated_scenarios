@@ -2,9 +2,9 @@ BGMPlay("BGM_PLACE_TRAVEL",0.01);
 BGOpen("sc820",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Amazing...... Flowers and nice buildings
-spread out, it's like being in a foreign
-country!");
+MsgDisp("主人公","Amazing......
+Flowers and nice buildings spread out,
+it's like being in a foreign country!");
 VoicePlay("Q070401000_04_000");
 MsgDisp("Nanatsumori","............");
 VoicePlay("Q070401000_04_010");

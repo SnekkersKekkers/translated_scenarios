@@ -9,7 +9,8 @@ MsgDisp("主人公","Hello, ｛本多＊＊｝?");
 VoicePlay("C010300000_03_010");
 MsgDisp("Honda","Sorry but, I don't know if I can even talk
 properly with you?");
-MsgDisp("主人公","(Uu......Seems he's really mad.
+MsgDisp("主人公","(Uu......
+Seems he's really mad.
 But if I don't explain it now....)");
 MsgDisp("主人公","Then could you just listen?
 So, uhm......");
@@ -18,7 +19,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010300000_03_020");
 MsgDisp("Honda","......Sorry!");
-MsgDisp("主人公","Eh? Why is ｛本多＊＊｝ the one
+MsgDisp("主人公","Eh?
+Why is ｛本多＊＊｝ the one
 saying......");
 VoicePlay("C010300000_03_030");
 MsgDisp("Honda","If I just talked to you properly like this
@@ -30,7 +32,8 @@ MsgDisp("Honda","Then, this conversation's over!
 Next talk, let's make it a more beneficial
 one?");
 VoicePlay("C010300000_03_050");
-MsgDisp("Honda","Then......Later, yeah?");
+MsgDisp("Honda","Then......
+Later, yeah?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Thank goodness......

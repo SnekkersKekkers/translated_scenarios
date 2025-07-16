@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("B050700100_07_000");
 MsgDisp("Mikage","Then, I'll walk you home.
-...We can talk whilst walking.");
+... We can talk whilst walking.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
 MsgClose();
 ScrFadeOut(0);
@@ -15,8 +15,8 @@ MsgClose();
 SEWait();
 BGOpen("ho000",2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝, thank you for walking me
-home.");
+MsgDisp("主人公","｛御影＊＊｝, thank you
+for walking me home.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -29,8 +29,7 @@ ChMotion(7,1);
 VoicePlay("B050700100_07_020");
 MsgDisp("Mikage","Is it because I submitted to your fierce
 attack the other day?");
-MsgDisp("主人公","Are you...
-talking about skinship?");
+MsgDisp("主人公","Are you... talking about skinship?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

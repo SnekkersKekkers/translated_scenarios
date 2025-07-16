@@ -29,7 +29,8 @@ your face.");
     ScrFadeIn(0);
     VoicePlay("B060100002_01_020");
     MsgDisp("Kazama","I guess time's up... but I'm fully
-charged. Thanks.");
+charged.
+Thanks.");
     MsgDispSksp(0);
     break ;
     default :

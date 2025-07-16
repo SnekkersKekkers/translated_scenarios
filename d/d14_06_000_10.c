@@ -19,7 +19,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140600000_06_020");
-MsgDisp("Himuro","Yeah. 
+MsgDisp("Himuro","Yeah.
 Then, let's go.");
 BGMStop();
 MsgClose();

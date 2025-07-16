@@ -67,8 +67,9 @@ theatre troupe and people in the town....");
         ChMouth(5,4);
         ChMotion(5,2);
         VoicePlay("B040506502_05_060");
-        MsgDisp("Hiiragi","Ha... Once again, I was so dazzled by you
-I couldn't see my surroundings...");
+        MsgDisp("Hiiragi","Ha...
+Once again, I was so dazzled by you I
+couldn't see my surroundings...");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040506502_05_070");
@@ -81,10 +82,10 @@ If, from now on too──");
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040506502_05_080");
-        MsgDisp("Hiiragi","...I'll continue next time.
+        MsgDisp("Hiiragi","... I'll continue next time.
 Definitely.");
-        MsgDisp("主人公","(｛柊＊＊＊｝... I wonder what you were
-going to say...)");
+        MsgDisp("主人公","(｛柊＊＊＊｝...
+I wonder what you were going to say...)");
         break ;
         default :
         DbgAssert(1);

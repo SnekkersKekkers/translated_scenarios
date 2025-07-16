@@ -10,7 +10,8 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540600002_06_000");
 MsgDisp("Himuro","Good work.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝! How was it?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+How was it?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -38,7 +39,8 @@ ChMotion(6,0);
 VoicePlay("P540600002_06_040");
 MsgDisp("Himuro","I should be saying thanks, thank you.
 For a good time.");
-MsgDisp("主人公","(Yay! I was praised by ｛氷室＊＊｝! )");
+MsgDisp("主人公","(Yay!
+I was praised by ｛氷室＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

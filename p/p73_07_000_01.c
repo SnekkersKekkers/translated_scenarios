@@ -15,8 +15,8 @@ I like it but...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700001_07_000");
     MsgDisp("Mikage","Heeh, it's splendid, huh.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! Did you come to see
-it?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Did you come to see it?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -30,7 +30,7 @@ student's big moment.");
     MsgDisp("Mikage","I mean...
 You made that dress right?");
     MsgDisp("主人公","Yes.
-...Um how does it look?");
+... Um how does it look?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -53,9 +53,9 @@ okay?");
     VoicePlay("P730700001_07_050");
     MsgDisp("Mikage","Well, it's your turn.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Alーright.
-Let's charm both ｛御影＊＊｝ the
-audience and the customers.)");
+    MsgDisp("主人公","(Alーright. Let's charm both
+｛御影＊＊｝ the audience
+and the customers.)");
     break ;
     case 4:
     case 5:
@@ -68,8 +68,8 @@ I like it but...)");
     VoicePlay("P730700001_07_060");
     MsgDisp("Mikage","Oh, amazing.
 I wondered if it was a princess.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! I don't know about
-princess...");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+I don't know about princess...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -98,8 +98,9 @@ A serious and adorable princess?");
     VoicePlay("P730700001_07_100");
     MsgDisp("Mikage","The, go off and show your charm.");
     MsgDisp("主人公","...Yes!");
-    MsgDisp("主人公","(A princess.. huh? Alright, let's try to
-conduct myself elegantly!)");
+    MsgDisp("主人公","(A princess.. huh?
+Alright, let's try to conduct myself
+elegantly!)");
     break ;
     default :
     DbgAssert(1);

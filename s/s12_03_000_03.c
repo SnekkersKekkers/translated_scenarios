@@ -34,15 +34,17 @@ I can still keep going——");
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("S120300003_03_020");
-    MsgDisp("Honda","Not! Sorry! Why would I force you to keep
-going?");
+    MsgDisp("Honda","Not!
+Sorry!
+Why would I force you to keep going?");
     MsgDisp("主人公","Hehe!");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("S120300003_03_030");
-    MsgDisp("Honda","Why don't you go inside already? Let's
-talk more at school. Cya!");
+    MsgDisp("Honda","Why don't you go inside already?
+Let's talk more at school.
+Cya!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
@@ -59,8 +61,9 @@ This year will be another good year.)");
     ChMotion(3,0,1);
     VoicePlay("S120300003_03_040");
     MsgDisp("Honda","Ah, we're here.");
-    MsgDisp("主人公","Yeah. Thank you. But as for your
-wish......");
+    MsgDisp("主人公","Yeah.
+Thank you.
+But as for your wish......");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -94,15 +97,16 @@ They're gods after all.");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("S120300003_03_090");
-    MsgDisp("Honda","Haha, you're right! Then I won't worry.
+    MsgDisp("Honda","Haha, you're right!
+Then I won't worry.
 Byebye!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(Thank you for praying for me
-......｛本多＊＊｝.
+    MsgDisp("主人公","(Thank you for praying for me ......
+｛本多＊＊｝.
 This year will be another good year.)");
     break ;
     default :

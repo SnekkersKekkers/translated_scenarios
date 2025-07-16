@@ -2,12 +2,13 @@ ChLayout(2);
 BGOpen("sc210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Today's weather is nice too.
-...Huh, what class did I have in the
+... Huh, what class did I have in the
 afternoon?)");
 VoicePlay("F100730001_22_000");
 MsgDisp("Hikaru?","Ah.
 Mari, this way!");
-MsgDisp("主人公","Hm? ｛ひかる＊｝?");
+MsgDisp("主人公","Hm?
+｛ひかる＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
@@ -20,8 +21,7 @@ VoicePlay("F100730001_07_000");
 MsgDisp("Mikage","Is this the same as last time?");
 ChMotion(22,4,1);
 VoicePlay("F100730001_22_010");
-MsgDisp("Hikaru","We won't let you 
-get away today.");
+MsgDisp("Hikaru","We won't let you get away today.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -51,8 +51,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F100730001_21_010");
-MsgDisp("Michiru","How long did it 
-take to style it?");
+MsgDisp("Michiru","How long did it take to style it?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -129,14 +128,14 @@ ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,254,0,0,2,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100730001_22_060");
-MsgDisp("Hikaru","...Hey. Aren't we dealing with this too
-well?");
+MsgDisp("Hikaru","... Hey.
+Aren't we dealing with this too well?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F100730001_21_040");
-MsgDisp("Michiru","Probably. There's no way it's the same as
-a plant.");
+MsgDisp("Michiru","Probably.
+There's no way it's the same as a plant.");
 MsgDisp("主人公","(They both seem very suspicious?)");
 SEStop("EV_SE_SCHOOL_002",1);
 BGMStop();

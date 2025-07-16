@@ -52,15 +52,16 @@ absurd.");
 exhibit featuring deep-sea fish 'swimming'
 in the sky might be possible, right? I'm
 getting really excited∈");
-        MsgDisp("主人公","Hehe, ｛本多＊＊｝ looks like you're having
-fun.");
+        MsgDisp("主人公","Hehe, ｛本多＊＊｝ looks like
+you're having fun.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040303202_03_050");
-        MsgDisp("Honda","Yup! You're the best at breaking down my
-boring fixed ideas∈");
+        MsgDisp("Honda","Yup!
+You're the best at breaking down my boring
+fixed ideas∈");
         MsgDisp("主人公","I'm glad but...
 You're exaggerating.");
         ChEye(3,3);

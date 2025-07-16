@@ -29,8 +29,8 @@ tendency to take belongings.");
     ChMotion(2,5);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040221100_02_020");
-    MsgDisp("Sassa","Amazing. Let's take one with the
-elephants∈");
+    MsgDisp("Sassa","Amazing.
+Let's take one with the elephants∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

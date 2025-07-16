@@ -7,14 +7,15 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("H180400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","｛七ツ森＊｝! Did you come to support
-us?");
+    MsgDisp("主人公","｛七ツ森＊｝!
+Did you come to support us?");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("H180400000_04_010");
-    MsgDisp("Nanatsumori","Well...... After all, we're winning,
-right? Haba High is.");
+    MsgDisp("Nanatsumori","Well......
+After all, we're winning, right?
+Haba High is.");
     MsgDisp("主人公","Hehe, of course!");
     ChEye(4,0);
     ChMouth(4,3);
@@ -35,8 +36,7 @@ Good work, oh famous manager.");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("H180400000_04_040");
-    MsgDisp("Nanatsumori",".........
-Don't you look pretty happy?");
+    MsgDisp("Nanatsumori","......... Don't you look pretty happy?");
     MsgDisp("主人公","Well, we managed to make it here.
 Win or lose, I'm still excited.");
     ChEye(4,0);

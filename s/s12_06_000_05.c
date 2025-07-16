@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120600002_06_040");
-    MsgDisp("Himuro","......Were you fine being with me?
+    MsgDisp("Himuro","...... Were you fine being with me?
 On the last New Years of your high school
 years.");
     MsgDisp("主人公","Eh, what do you mean?");
@@ -31,8 +31,8 @@ with?");
     ChMouth(6,3);
     ChMotion(6,5);
     VoicePlay("S120600002_06_060");
-    MsgDisp("Himuro","Sigh...... What a lack of confidence in
-that answer.");
+    MsgDisp("Himuro","Sigh......
+What a lack of confidence in that answer.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);

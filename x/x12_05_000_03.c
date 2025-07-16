@@ -26,7 +26,8 @@ difficult of tasks. Thank you for always.");
 activities with you, is the most sparkling
 time within my high school life. Thank you
 for always.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

@@ -11,8 +11,7 @@ ChMouth(5,3);
 VoicePlay("K010500102_05_010");
 MsgDisp("Hiiragi","Yes, thank you for this wonderful gift.
 I will cherish it.");
-MsgDisp("主人公","(Yeah, seems like
-he liked it.)");
+MsgDisp("主人公","(Yeah, seems like he liked it.)");
 MsgClose();
 BGMStop();
 MsgClose();

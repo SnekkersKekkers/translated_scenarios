@@ -29,24 +29,24 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_030");
 MsgDisp("Sassa","So, what castella did you pick?");
-MsgDisp("主人公","Matcha.
-...... and black tea.");
+MsgDisp("主人公","Matcha. ...... and black tea.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("Q110200000_02_040");
 MsgDisp("Sassa","Haha, so you couldn't decide.
 Actually, same.");
-MsgDisp("主人公","Eeh∋ Matcha and black tea? Wow, they're
-exactly the same!");
+MsgDisp("主人公","Eeh∋
+Matcha and black tea?
+Wow, they're exactly the same!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_050");
 MsgDisp("Sassa","Ahh, yeah.
 We're a perfect match, I guess?");
-MsgDisp("主人公","......Hm? Looks like you bought a lot of
-stuff......");
+MsgDisp("主人公","...... Hm?
+Looks like you bought a lot of stuff......");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

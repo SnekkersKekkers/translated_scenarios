@@ -7,7 +7,8 @@ SEWait();
 ChOpen(1,254,0,2,3,0,#1,0,0);
 VoicePlay("F110110001_01_000");
 MsgDisp("Kazama","Hah...");
-MsgDisp("主人公","Oh, ｛風真＊＊｝. What's the matter?");
+MsgDisp("主人公","Oh, ｛風真＊＊｝.
+What's the matter?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -49,9 +50,9 @@ ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("F110110001_01_040");
-MsgDisp("Kazama","Huh? The Respect-Senior-Citizens
-association? ...Oh, my grandfather's
-suggestion.");
+MsgDisp("Kazama","Huh?
+The Respect-Senior-Citizens association?
+... Oh, my grandfather's suggestion.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -59,7 +60,8 @@ VoicePlay("F110110001_01_050");
 MsgDisp("Kazama","Sorry everyone!
 Don't follow me!");
 VoicePlay("F110110001_48_010");
-MsgDisp("School Girl A","Huh? Kazama-senpai!");
+MsgDisp("School Girl A","Huh?
+Kazama-senpai!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(16,0);
@@ -73,7 +75,7 @@ together.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(It's another bad year for ｛風真＊＊｝,
-huh...)");
+MsgDisp("主人公","(It's another bad year for
+｛風真＊＊｝, huh...)");
 MsgClose();
 ScrFadeOut(0,0);

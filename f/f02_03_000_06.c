@@ -12,8 +12,7 @@ ChMotion(3,1);
 VoicePlay("F020300006_03_000");
 MsgDisp("Honda","Yep-yep.
 I wonder if we'll start practicing soon.");
-MsgDisp("主人公","You sure look happy about that,
-don't you?");
+MsgDisp("主人公","You sure look happy about that, don't you?");
 ChMotion(3,4);
 VoicePlay("F020300006_03_010");
 MsgDisp("Honda","That's right～
@@ -24,8 +23,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F020300006_03_020");
-MsgDisp("Honda","Yep. I can learn the rules and tactics
-just fine, but my body can't keep up.");
+MsgDisp("Honda","Yep.
+I can learn the rules and tactics just
+fine, but my body can't keep up.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);

@@ -1,6 +1,6 @@
 MsgDisp("主人公","Recently, we've been hanging out more as a
-group of four with ｛風真＊＊｝ and
-｛七ツ森＊｝.");
+group of four with ｛風真＊＊｝
+and ｛七ツ森＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -64,7 +64,8 @@ group.");
 ChMotion(3,4);
 VoicePlay("B070300001_03_380");
 MsgDisp("Honda","Does that clear up your worries?");
-MsgDisp("主人公","(How kind...... Thank you, ｛本多＊＊｝. )");
+MsgDisp("主人公","(How kind......
+Thank you, ｛本多＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

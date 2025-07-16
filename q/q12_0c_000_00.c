@@ -1,8 +1,7 @@
 BGOpen("sc810",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","The school trip is ending 
-tommorow......");
+MsgDisp("主人公","The school trip is ending tommorow......");
 MsgClose();
 ChOpen(5,254,0,4,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -21,7 +20,8 @@ ChMotion(5,4);
 VoicePlay("Q120C00000_05_010");
 MsgDisp("Hiiragi","\"Until home is the trip\"......
 Is it that thing?");
-MsgDisp("主人公","Hehe. ｛御影＊＊｝ really likes
+MsgDisp("主人公","Hehe.
+｛御影＊＊｝ really likes
 promises.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -48,9 +48,10 @@ VoicePlay("Q120C00000_07_020");
 MsgDisp("Mikage","Good for you, Yanosuke. I pretended to be
 leading class, but I was also enjoying
 myself. Don't tell anyone, ok?");
-MsgDisp("主人公","( ｛柊＊＊＊｝, ｛御影＊＊｝, Also
-thank you ｛氷室＊＊｝.
-It was a very enjoying school trip.)");
+MsgDisp("主人公","( ｛柊＊＊＊｝,
+｛御影＊＊｝, Also thank
+you ｛氷室＊＊｝. It was a very
+enjoying school trip.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

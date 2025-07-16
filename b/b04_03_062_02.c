@@ -80,8 +80,9 @@ you in danger.");
         MsgDisp("Honda","But you know, I have this tendency to
 charge ahead recklessly when I get
 excited.");
-        MsgDisp("主人公","Hehe. It's one of the things that makes
-you amazing ｛本多＊＊｝.");
+        MsgDisp("主人公","Hehe.
+It's one of the things that makes you
+amazing ｛本多＊＊｝.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,1);

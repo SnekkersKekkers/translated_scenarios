@@ -11,10 +11,9 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("R060300005_03_000");
-    MsgDisp("Honda","Mhmm. It's nice to get a gift like this,
-huh.");
-    MsgDisp("主人公","(He seems really happy
-with my gift!)");
+    MsgDisp("Honda","Mhmm.
+It's nice to get a gift like this, huh.");
+    MsgDisp("主人公","(He seems really happy with my gift!)");
     break ;
     case 3:
     case 4:
@@ -25,8 +24,7 @@ with my gift!)");
     VoicePlay("R060300005_03_010");
     MsgDisp("Honda","Mhmm.
 I like this gift.");
-    MsgDisp("主人公","(He seems really
-happy with my gift!)");
+    MsgDisp("主人公","(He seems really happy with my gift!)");
     break ;
     default :
     DbgAssert(1);

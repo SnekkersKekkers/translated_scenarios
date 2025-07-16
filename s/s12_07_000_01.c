@@ -59,14 +59,15 @@ It's going to be a great year!)");
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you so much for taking me.
-｛御影＊＊｝, do you have to go to
-school now?");
+｛御影＊＊｝, do you have
+to go to school now?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S120700001_07_030");
-    MsgDisp("Mikage","Ahh. They call me in, but I don't have
-much to do.");
+    MsgDisp("Mikage","Ahh.
+They call me in, but I don't have much to
+do.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

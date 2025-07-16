@@ -2,8 +2,7 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Umm, 
-the blackout curtains I prepared——");
+MsgDisp("主人公","Umm, the blackout curtains I prepared——");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -13,9 +12,11 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P830D00001_22_000");
-MsgDisp("Hikaru","Hii～, Mari♪
+MsgDisp("Hikaru","Hii～
+, Mari♪
 You're hard at work, huh?");
-MsgDisp("主人公","Ah, ｛ひかる＊｝, ｛みちる＊｝!");
+MsgDisp("主人公","Ah, ｛ひかる＊｝,
+｛みちる＊｝!");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
@@ -33,7 +34,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P830D00001_21_010");
-MsgDisp("Michiru","Hehe. As expected of the second time.
+MsgDisp("Michiru","Hehe.
+As expected of the second time.
 Mari, you're so cool.");
 MsgClose();
 ScrFadeOut(0,0);

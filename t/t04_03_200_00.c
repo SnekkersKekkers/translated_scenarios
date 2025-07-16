@@ -30,9 +30,9 @@ noise in the first place?");
 VoicePlay("T040320000_04_010");
 MsgDisp("Nanatsumori","Right.");
 VoicePlay("T040320000_03_030");
-MsgDisp("Honda","Eh? Your voice is usually quiet, but maybe
-it gets louder only when you're
-telepathic?");
+MsgDisp("Honda","Eh?
+Your voice is usually quiet, but maybe it
+gets louder only when you're telepathic?");
 VoicePlay("T040320000_04_020");
 MsgDisp("Nanatsumori","Haa......
 I'm starting to get confused.");

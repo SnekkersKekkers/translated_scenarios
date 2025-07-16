@@ -34,8 +34,9 @@ uncomfortable. I knew that
 intuitively.");
 MsgClear();
 VoicePlay("Y300200100_02_000");
-MsgDisp("Sassa","(...This way, I'm not an idiot, but
-just an unlikable person...)");
+MsgDisp("Sassa","(...
+This way, I'm not an idiot, but just
+an unlikable person...)");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -51,9 +52,9 @@ MsgDisp("","That time, manager, you heard me talk
 to my seniors, right?
 Despite this...");
 MsgClear();
-MsgDisp("主人公","\"Congratulations. For a first year to
-win overall victory, I think it's
-amazing.\"");
+MsgDisp("主人公","\"Congratulations.
+For a first year to win overall
+victory, I think it's amazing.\"");
 MsgDisp("","That's all you said.
 But those words saved me.");
 MsgDisp("","I probably wouldn't have been able to

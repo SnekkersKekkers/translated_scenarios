@@ -4,8 +4,8 @@ ScrFadeIn(0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("H280700000_07_000");
-MsgDisp("Mikage","｛主人公｝, our track team really is
-strong.");
+MsgDisp("Mikage","｛主人公｝, our track team
+really is strong.");
 MsgDisp("主人公","Geez, please don't talk about it like
 you're not involved at all.");
 ChEye(7,0);

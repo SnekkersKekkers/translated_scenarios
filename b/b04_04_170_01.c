@@ -26,8 +26,9 @@ Is it okay for me to join halfway in?");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040417001_04_020");
-    MsgDisp("Nanatsumori","Oh... Looks like you have confidence in
-your singing ability.");
+    MsgDisp("Nanatsumori","Oh...
+Looks like you have confidence in your
+singing ability.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

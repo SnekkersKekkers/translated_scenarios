@@ -10,8 +10,9 @@ ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,1 ) ;
 VoicePlay ( "D150001301_03_000" ) ;
-MsgDisp ( "Honda","It's fun to talk. It makes everything
-ten times as delicious." ) ;
+MsgDisp ( "Honda","It's fun to talk.
+It makes everything ten times as
+delicious." ) ;
 MsgDisp ( "主人公","Yeah, you always tell such fun stories." ) ;
 ChEye ( 3,4 ) ;
 ChMouth ( 3,2 ) ;
@@ -45,8 +46,9 @@ ChEye ( 3,3 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150001301_03_030" ) ;
-MsgDisp ( "Honda","Thanks, Ryou-kun. Okay, so today's topic
-is kind of a long one." ) ;
+MsgDisp ( "Honda","Thanks, Ryou-kun.
+Okay, so today's topic is kind of a long
+one." ) ;
 ChEye ( 1,2 ) ;
 ChMouth ( 1,2 ) ;
 VoicePlay ( "D150001301_01_030" ) ;

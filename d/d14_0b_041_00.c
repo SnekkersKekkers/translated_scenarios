@@ -24,8 +24,8 @@ ChEye(4,3);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("D140B04100_04_020");
-MsgDisp("Nanatsumori","Ah... Could it be he forgot his phone at
-home?");
+MsgDisp("Nanatsumori","Ah...
+Could it be he forgot his phone at home?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -38,7 +38,8 @@ VoicePlay("D140B04100_04_030");
 MsgDisp("Nanatsumori","It's lunch break now, so he went home to
 get it.
 His house is quite close right?");
-MsgDisp("主人公","Eh? Ah, yeah.
+MsgDisp("主人公","Eh?
+Ah, yeah.
 That's right but...");
 ChEye(4,0);
 ChMouth(4,0);
@@ -55,8 +56,8 @@ MsgDisp("Honda","Heeh. It must be convenient to have your
 house so close by. ...Right?");
 MsgDisp("主人公","(It's definitely convenient but But it's a
 big shock when you forget something. I'm
-sure ｛風真＊＊｝ is super frustrated
-about now...)");
+sure ｛風真＊＊｝ is super
+frustrated about now...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

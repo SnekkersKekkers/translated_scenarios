@@ -31,7 +31,8 @@ club!)");
     ScrFadeIn(0);
     VoicePlay("H3A0600000_06_020");
     MsgDisp("Himuro","Strong......");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! You were watching?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+You were watching?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

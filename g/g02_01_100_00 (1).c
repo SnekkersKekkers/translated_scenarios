@@ -62,7 +62,8 @@ VoicePlay("G020110000_01_070");
 MsgDisp("Kazama","......But for some reason, we're both
 still tiny primary schoolers.");
 MsgDisp("主人公","Hahah.");
-MsgDisp("主人公","(So ｛風真＊＊｝ dreams about me......)");
+MsgDisp("主人公","(So ｛風真＊＊｝ dreams about
+me......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

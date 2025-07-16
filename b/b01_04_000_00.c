@@ -1,8 +1,9 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm late! ｛七ツ森＊｝ is... Ah, he's
-already here!)");
+MsgDisp("主人公","(I'm late!
+｛七ツ森＊｝ is...
+Ah, he's already here!)");
 BGMPlay("BGM_C04_NANA_A",0.01);
 switch (ChPrmGet(4,6)){
     case 0:
@@ -35,14 +36,14 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,1);
     VoicePlay("B010400000_04_020");
     MsgDisp("Nanatsumori","I'll forgive you, since you came running.");
-    MsgDisp("主人公","Ugh... Sorry.");
+    MsgDisp("主人公","Ugh...
+Sorry.");
     MsgDispSksp(1,0);
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("B010400000_04_030");
-    MsgDisp("Nanatsumori","Haha,
-what a funny face～");
+    MsgDisp("Nanatsumori","Haha, what a funny face～");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -57,14 +58,16 @@ what a funny face～");
     VoicePlay("B010400000_04_040");
     MsgDisp("Nanatsumori","You're late!
 Seriously, I was so worried.");
-    MsgDisp("主人公","Ugh... I'm sorry.");
+    MsgDisp("主人公","Ugh...
+I'm sorry.");
     MsgDispSksp(1,0);
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,2);
     VoicePlay("B010400000_04_050");
-    MsgDisp("Nanatsumori","Ah... No, I'm sorry for yelling. I'll keep
-my cool.");
+    MsgDisp("Nanatsumori","Ah...
+No, I'm sorry for yelling.
+I'll keep my cool.");
     MsgDispSksp(0);
     break ;
     default :

@@ -13,8 +13,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,4,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500007_05_010");
-    MsgDisp("Hiiragi","Yeah. I'll hang out with
-Hanatsubaki-san.");
+    MsgDisp("Hiiragi","Yeah.
+I'll hang out with Hanatsubaki-san.");
     break ;
     case 4:
     case 5:

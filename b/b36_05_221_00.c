@@ -22,26 +22,28 @@ VoicePlay("B360522100_05_010");
 MsgDisp("Hiiragi","Yeah. The sky and castle are dyed
 red...... It's like \"The Flapping Castle
 is on Fire\".");
-MsgDisp("主人公","Eh? Is that a performance by the Habataki
+MsgDisp("主人公","Eh?
+Is that a performance by the Habataki
 Theater Company?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522100_05_020");
-MsgDisp("Hiiragi","Yes. Before starting our activities, I
-would come here on my own.");
+MsgDisp("Hiiragi","Yes.
+Before starting our activities, I would
+come here on my own.");
 MsgDisp("主人公","I see.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B360522100_05_030");
-MsgDisp("Hiiragi","Yes. Back then, I would think of a play
-set in this castle.");
+MsgDisp("Hiiragi","Yes.
+Back then, I would think of a play set in
+this castle.");
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360522100_05_040");
 MsgDisp("Hiiragi","The idea for that performance was born
 from the fiery red sky and castle tower.");
-MsgDisp("主人公","......The play was born from
-this view.");
+MsgDisp("主人公","......The play was born from this view.");
 ChMotion(5,3);
 Wait(22,0);
 ChEye(5,3);

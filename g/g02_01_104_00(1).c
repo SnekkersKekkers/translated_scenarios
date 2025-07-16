@@ -51,8 +51,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("G020110400_01_060");
-MsgDisp("Kazama","Hm? No, wait. I don't mean light clothing
-or exposure.");
+MsgDisp("Kazama","Hm?
+No, wait.
+I don't mean light clothing or exposure.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -73,8 +74,8 @@ ChMotion(1,2);
 VoicePlay("G020110400_01_090");
 MsgDisp("Kazama","......Could it be, my true
 feelings......∋");
-MsgDisp("主人公","(｛風真＊＊｝ fashion preferences are
-quite unique......)");
+MsgDisp("主人公","(｛風真＊＊｝ fashion preferences are quite
+unique......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

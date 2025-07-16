@@ -33,8 +33,7 @@ me.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040203202_02_020");
-        MsgDisp("Sassa","That makes me feel kind of
-good.");
+        MsgDisp("Sassa","That makes me feel kind of good.");
         MsgDisp("主人公","What do you mean?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -43,16 +42,16 @@ good.");
         MsgDisp("Sassa","I like teaching you things about the city
 that you don't know but it's rare that I
 know these things.");
-        MsgDisp("主人公","Ah, I see how that could
-be frustrating.");
+        MsgDisp("主人公","Ah, I see how that could be frustrating.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040203202_02_040");
-        MsgDisp("Sassa","Yeah. It makes me want to start learning
-more bits of information.");
-        MsgDisp("主人公","Hehe, ｛颯砂＊＊｝ can gather information
-by foot.");
+        MsgDisp("Sassa","Yeah.
+It makes me want to start learning more
+bits of information.");
+        MsgDisp("主人公","Hehe, ｛颯砂＊＊｝ can gather
+information by foot.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);

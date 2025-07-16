@@ -5,7 +5,8 @@ BGMStop();
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
-MsgDisp("主人公","I'm sorry. I......");
+MsgDisp("主人公","I'm sorry.
+I......");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -42,8 +43,8 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("T020200030_02_050");
-MsgDisp("Sassa","I can't run with you but
-......It's okay.");
+MsgDisp("Sassa","I can't run with you but ......
+It's okay.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);

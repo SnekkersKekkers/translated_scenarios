@@ -6,8 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040621100_06_000");
-MsgDisp("Himuro","I can hear all sorts 
-of different cries...");
+MsgDisp("Himuro","I can hear all sorts of different cries...");
 MsgSel("Let's get a closer look!","Let's take a picture with the animals!","｛氷室＊＊｝, is there anywhere you want to go?");
 switch (MsgSelRsltGet()){
     case 0:

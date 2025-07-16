@@ -34,8 +34,9 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20801_06_010");
 MsgDisp("Himuro","...Right?");
-MsgDisp("主人公","Hehe! Maybe ｛御影＊＊｝ is having the
-most fun?");
+MsgDisp("主人公","Hehe!
+Maybe ｛御影＊＊｝ is
+having the most fun?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -46,8 +47,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20801_06_020");
-MsgDisp("Himuro","There's no point 
-if you don't like it.");
+MsgDisp("Himuro","There's no point if you don't like it.");
 MsgClose();
 ChClose(6,0,30);
 ChClose(5,0,30);
@@ -61,7 +61,8 @@ ChOpen(7,255,0,0,4,#1,#1,0,3);
 VoicePlay("B330C20801_07_010");
 MsgDisp("Mikage","What's up?
 We have to catch enough fish for everyone!");
-MsgDisp("主人公","｛御影＊＊｝, we're fishing this time?");
+MsgDisp("主人公","｛御影＊＊｝, we're
+fishing this time?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -105,8 +106,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20801_05_020");
-MsgDisp("Hiiragi","Will it be easier to catch
-them this way?");
+MsgDisp("Hiiragi","Will it be easier to catch them this way?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

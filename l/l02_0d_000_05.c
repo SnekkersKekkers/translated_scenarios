@@ -15,14 +15,15 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("L020D00005_21_000");
 MsgDisp("Michiru","Since it's the last one, I really wanted
-to make chocolate together, but......
-you know?");
+to make chocolate together, but...... you
+know?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("L020D00005_22_010");
 MsgDisp("Hikaru","But Hikaru would be happy receiving
-chocolate from Mari too▼ Right?");
+chocolate from Mari too▼
+Right?");
 MsgDisp("主人公","Hehe, thank you!");
 BGMStop();
 MsgClose();

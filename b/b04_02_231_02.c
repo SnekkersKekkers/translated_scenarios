@@ -41,9 +41,10 @@ But, you need to say it sooner.");
         ChMouth(2,0);
         ChMotion(2,5);
         VoicePlay("B040223102_02_030");
-        MsgDisp("Sassa","Eh? Did you dislike it that much?");
-        MsgDisp("主人公","No. It's just that I don't ride it many
-times.");
+        MsgDisp("Sassa","Eh?
+Did you dislike it that much?");
+        MsgDisp("主人公","No.
+It's just that I don't ride it many times.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);

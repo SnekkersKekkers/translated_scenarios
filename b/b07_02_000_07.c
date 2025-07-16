@@ -1,5 +1,5 @@
-MsgDisp("主人公","I want to know ｛颯砂＊＊｝'s dreams for
-the future.");
+MsgDisp("主人公","I want to know ｛颯砂＊＊｝'s
+dreams for the future.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -26,7 +26,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200000_02_370");
-MsgDisp("Sassa","That's right so......please.
+MsgDisp("Sassa","That's right so...... please.
 Ask me that question again after the
 inter-high.");
 MsgDisp("主人公","Hehe, sure.

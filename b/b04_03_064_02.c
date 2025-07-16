@@ -65,6 +65,6 @@ ChClose(3);
 SEWait();
 MsgDisp("主人公","(He's off...
 ｛本多＊＊｝'s way of thinking is
-amazing...')");
+amazing... ')");
 MsgClose();
 ScrFadeOut(0);

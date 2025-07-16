@@ -8,8 +8,8 @@ MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("F100330002_03_000");
-MsgDisp("Honda","｛主人公｝, are you going to the
-cafeteria today?");
+MsgDisp("Honda","｛主人公｝, are you going
+to the cafeteria today?");
 MsgDisp("主人公","Ah, you too, ｛本多＊＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -77,8 +77,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F100330002_21_020");
-MsgDisp("Michiru","If so, why not do 
-it over lunch?");
+MsgDisp("Michiru","If so, why not do it over lunch?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -90,8 +89,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100330002_22_040");
-MsgDisp("Hikaru","Then come on, Mari, 
-let's go together.");
+MsgDisp("Hikaru","Then come on, Mari, let's go together.");
 MsgDisp("主人公","Eh, me too∋");
 MsgDisp("主人公","(I got caught up in this...
 But, I hope this will be able to reach

@@ -1,24 +1,23 @@
 ChClose(5,0,0);
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...why
-did I say such a thing...)");
+MsgDisp("主人公","(Haa...why did I say such a thing...)");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","My phone... Ah, ｛柊＊＊＊｝!");
+MsgDisp("主人公","My phone...
+Ah, ｛柊＊＊＊｝!");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","...Hello?");
 VoicePlay("B100500000_05_000");
 MsgDisp("Hiiragi","It's Hiiragi.
-...By any chance, are you still outside?");
+... By any chance, are you still outside?");
 MsgDisp("主人公","Yeah...
 Um, I——");
 VoicePlay("B100500000_05_010");
 MsgDisp("Hiiragi","I'm very sorry...
 For having that kind of attitude.");
 VoicePlay("B100500000_05_020");
-MsgDisp("Hiiragi","And leaving you alone at 
-this hour.");
+MsgDisp("Hiiragi","And leaving you alone at this hour.");
 MsgDisp("主人公","No, it was my fault...");
 VoicePlay("B100500000_05_030");
 MsgDisp("Hiiragi","I'm troubled...

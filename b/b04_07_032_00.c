@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040703200_07_010");
-    MsgDisp("Mikage","Don't do that,
-you'll run into people.");
+    MsgDisp("Mikage","Don't do that, you'll run into people.");
     MsgDateResultDisp();
     break ;
     case 1:

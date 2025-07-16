@@ -45,16 +45,18 @@ MsgDisp("Nanatsumori","I think it's this.
 Look at the new items in this month's
 Habatcher magazine.");
 VoicePlay("G110400201_04_040");
-MsgDisp("Nanatsumori","...I'm guessing you looked and it's all
-sold out. Bingo?");
-MsgDisp("主人公","...Bingo.
+MsgDisp("Nanatsumori","... I'm guessing you looked and it's all
+sold out.
+Bingo?");
+MsgDisp("主人公","... Bingo.
 How did you know?");
 VoicePlay("G110400201_04_050");
 MsgDisp("Nanatsumori","If you see a girl walk into a coffee shop
 alone with that look on her face, you can
 easily guess.");
 MsgDisp("主人公","Hehe, I see.
-That's impressive, ｛七ツ森＊｝.");
+That's impressive,
+｛七ツ森＊｝.");
 ChMotion(4,1);
 VoicePlay("G110400201_04_060");
 MsgDisp("Nanatsumori","Oh. This item from Habatcher. I heard it

@@ -30,7 +30,7 @@ a fluffy smell.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121302_01_020");
     MsgDisp("Kazama","Oi, what does that mean?
-...Well in comparison to you anyways, it
+... Well in comparison to you anyways, it
 doesn't look like I can win.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -90,8 +90,8 @@ Don't just say stuff like that casually?");
         ChMouth(1,2);
         ChMotion(1,4);
         VoicePlay("B040121302_01_080");
-        MsgDisp("Kazama","Eh... i-is that so? Well, I guess that
-can't be helped");
+        MsgDisp("Kazama","Eh... i-is that so?
+Well, I guess that can't be helped");
         ChEye(1,2);
         ChMouth(1,2);
         ChMotion(1,4);
@@ -99,8 +99,7 @@ can't be helped");
         VoicePlay("B040121302_01_090");
         MsgDisp("Kazama","Still, it's kind of annoying when she just
 casually licked you...");
-        MsgDisp("主人公","(｛風真＊＊｝, really is a neat freak
-huh?)");
+        MsgDisp("主人公","(｛風真＊＊｝, really is a neat freak huh?)");
         break ;
         default :
         DbgAssert(1);

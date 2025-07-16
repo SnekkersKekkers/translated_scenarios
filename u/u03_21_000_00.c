@@ -22,8 +22,7 @@ I'll cherish it.");
     MsgDisp("Michiru","No problem.
 Hehe, let's match with each other.");
     SEPlay("EV_SE_083");
-    MsgDisp("主人公","(\"I got a limited edition
-handbag!\")");
+    MsgDisp("主人公","(\"I got a limited edition handbag!\")");
     SEPlay("EV_SE_080");
     MsgDisp("主人公","(I feel like my fashion sense has become
 better......)");
@@ -33,7 +32,8 @@ better......)");
     VoicePlay("U032100000_21_030");
     MsgDisp("Michiru","Ok then, let's end here today.
 See you later?");
-    MsgDisp("主人公","｛みちる＊｝, see you soon!");
+    MsgDisp("主人公","｛みちる＊｝, see you
+soon!");
     break ;
     case 1:
     MsgDisp("主人公","I'm sorry but no......");
@@ -49,7 +49,9 @@ Understood.");
     VoicePlay("U032100000_21_050");
     MsgDisp("Michiru","Well then, it's about time to leave.
 See you at school.");
-    MsgDisp("主人公","Okay. See you later, ｛みちる＊｝.");
+    MsgDisp("主人公","Okay.
+See you later,
+｛みちる＊｝.");
     break ;
     default :
     DbgAssert(0);

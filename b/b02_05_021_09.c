@@ -11,4 +11,5 @@ MsgDisp("Hiiragi","Though, it would be appropriate to see you
 run like that.
 I'd love to see it.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems really happy!)");
+｛柊＊＊＊｝ seems really
+happy!)");

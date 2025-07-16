@@ -29,8 +29,7 @@ MsgDisp("VP Himuro","With the hope of bringing harmony into the
 hearts of first years, second years and
 third years and alumni, I waved my
 conductor baton.");
-MsgDisp("主人公","As for me,
-I inconvenienced everyone...");
+MsgDisp("主人公","As for me, I inconvenienced everyone...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P553200009_32_040");

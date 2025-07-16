@@ -1,9 +1,10 @@
 BGOpen("wf400",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Huh? The event hall is
-packed......)");
-MsgDisp("主人公","(\"Charity Auction Ongoing!\", huh......
+MsgDisp("主人公","(......
+Huh?
+The event hall is packed......)");
+MsgDisp("主人公","(\"Charity Auction Ongoing!\" , huh......
 Wow, it's free to enter!)");
 VoicePlay("D010100600_31_000");
 MsgDisp("Goro?","You, wait a minute.");
@@ -16,8 +17,7 @@ ChMouth(31,4);
 ChMotion(31,3);
 VoicePlay("D010100600_31_010");
 MsgDisp("Goro","Yeah, it's exactly as I thought.");
-MsgDisp("主人公","?
-Uhm, what do you mean......?");
+MsgDisp("主人公","? Uhm, what do you mean......?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
@@ -29,7 +29,8 @@ ChMouth(31,3);
 ChMotion(31,5);
 VoicePlay("D010100600_31_030");
 MsgDisp("Goro","Make haste, alright, ＧＯ～∈");
-MsgDisp("主人公","Y......Yes!");
+MsgDisp("主人公","Y......
+Yes!");
 BGMStop();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
@@ -57,7 +58,9 @@ ScrFadeIn(0);
 VoicePlay("D010100600_01_010");
 MsgDisp("Kazama","A champaigne glass designed by Mr.
 Goro Hanatsubaki.");
-MsgDisp("主人公","(Eh...... Ehh∋ ｛風真＊＊｝∋ )");
+MsgDisp("主人公","(Eh......
+Ehh∋
+｛風真＊＊｝∋ )");
 VoicePlay("D010100600_01_020");
 MsgDisp("Kazama","Goro Hanatsubaki is a world famous fashion
 designer.");
@@ -133,9 +136,9 @@ VoicePlay("D010100600_01_090");
 MsgDisp("Kazama","Even though it's a charity, they selected
 me, a highschooler of all people.");
 MsgDisp("Kazama","Because my dad used to do this......");
-MsgDisp("主人公","I see.
-Well maybe in the future, ｛風真＊＊｝,
-you can be just like your dad——");
+MsgDisp("主人公","I see. Well maybe in the future,
+｛風真＊＊｝, you can be just
+like your dad——");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -166,14 +169,14 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100600_01_130");
-MsgDisp("Kazama","......It's getting late already.
+MsgDisp("Kazama","...... It's getting late already.
 Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝, did something happen
-between you and your dad......?)");
+MsgDisp("主人公","(｛風真＊＊｝, did something happen between
+you and your dad......?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

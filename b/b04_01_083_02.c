@@ -99,8 +99,7 @@ now...");
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040108302_01_090");
-        MsgDisp("Kazama","......
-THIS. IS. HIS. INNER. VOICE. BEEP.");
+        MsgDisp("Kazama","...... THIS. IS. HIS. INNER. VOICE. BEEP.");
         MsgDisp("主人公","Hehe, your inner voice did a self
 introduction too?");
         ChEye(1,2);

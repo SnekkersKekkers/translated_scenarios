@@ -15,17 +15,17 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
 VoicePlay("G020110304_01_020");
-MsgDisp("Kazama","A quiet night parade......
-yeah, that would be nice, huh.");
+MsgDisp("Kazama","A quiet night parade...... yeah, that
+would be nice, huh.");
 MsgDisp("主人公","That's right, huh.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110304_01_030");
-MsgDisp("Kazama","Shh. Listen carefully.");
-MsgDisp("主人公","Eh, okay.
-.........");
+MsgDisp("Kazama","Shh.
+Listen carefully.");
+MsgDisp("主人公","Eh, okay. .........");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

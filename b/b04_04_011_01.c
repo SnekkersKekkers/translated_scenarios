@@ -28,8 +28,9 @@ The subject is too wide though.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040401101_04_020");
-    MsgDisp("Nanatsumori","Right? Should we... come together some
-day? If it's convenient.");
+    MsgDisp("Nanatsumori","Right?
+Should we... come together some day?
+If it's convenient.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +41,8 @@ day? If it's convenient.");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040401101_04_030");
-    MsgDisp("Nanatsumori","So? You don't have to say it with that
-face.");
+    MsgDisp("Nanatsumori","So?
+You don't have to say it with that face.");
     MsgDateResultDisp();
     break ;
     default :

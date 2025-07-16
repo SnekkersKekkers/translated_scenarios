@@ -18,7 +18,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("X200D00000_21_010");
-MsgDisp("Michiru","Right. It's the last challenge for female
+MsgDisp("Michiru","Right.
+It's the last challenge for female
 students.");
 MsgDisp("主人公","Hey, what is \"Rose Queen\"?");
 ChEye(22,0);
@@ -54,8 +55,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("X200D00000_21_040");
-MsgDisp("Michiru","Hehe. Mari has a chance in two years,
-right?");
+MsgDisp("Michiru","Hehe.
+Mari has a chance in two years, right?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

@@ -19,8 +19,7 @@ ChOpen(4,254,0,2,2,#1,#1,0,0,0,60);
 VoicePlay("P840400005_04_000");
 MsgDisp("Nanatsumori","Hey hey.
 You can't run in the hallways.");
-MsgDisp("主人公","Ah, it's useless,
-I just...");
+MsgDisp("主人公","Ah, it's useless, I just...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);

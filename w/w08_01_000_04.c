@@ -14,8 +14,8 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     ChEye(1,0);
     VoicePlay("W080100004_01_010");
-    MsgDisp("Kazama","Alright. We're just gonna have to ride
-this.");
+    MsgDisp("Kazama","Alright.
+We're just gonna have to ride this.");
     break ;
     case 4:
     case 5:

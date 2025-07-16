@@ -30,7 +30,7 @@ Have a nice time!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Ah...after talking toGoro-sensei, my
+MsgDisp("主人公","(Ah... after talking toGoro-sensei, my
 nerves have somehow gone away.
 Alright, let's do our best!)");
 MsgClose();

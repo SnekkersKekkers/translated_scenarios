@@ -33,16 +33,16 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A10600_02_000");
-MsgDisp("Sassa","Yeah... Why did they suddenly start
-singing and dancing?");
+MsgDisp("Sassa","Yeah...
+Why did they suddenly start singing and
+dancing?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10600_06_000");
 MsgDisp("Himuro","That's what makes it good, isn't it?
 You get it right?");
-MsgDisp("主人公","Yeah, just the music
-alone got me excited!");
+MsgDisp("主人公","Yeah, just the music alone got me excited!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -53,16 +53,17 @@ ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A10600_02_010");
-MsgDisp("Sassa","Hahaha! Now that you mention it, Inori was
-so drawn in, his body started moving to
-it.");
+MsgDisp("Sassa","Hahaha!
+Now that you mention it, Inori was so
+drawn in, his body started moving to it.");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("B330A10600_06_010");
 MsgDisp("Himuro","Eh∋
 That can't be true.");
-MsgDisp("主人公","Hehe. ｛氷室＊＊｝, aren't you glad?");
+MsgDisp("主人公","Hehe.
+｛氷室＊＊｝, aren't you glad?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -85,17 +86,16 @@ MsgClose();
 ChClose(1,0,0);
 ChClose(6,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Thanks for waiting. ...Huh? Where are
-those two?");
+MsgDisp("主人公","Thanks for waiting.
+... Huh?
+Where are those two?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A10600_02_020");
-MsgDisp("Sassa","They haven't come back 
-from the toilet.");
+MsgDisp("Sassa","They haven't come back from the toilet.");
 VoicePlay("B330A10600_06_020");
-MsgDisp("Himuro","Ryota-senpai,
-let's do it together please.");
+MsgDisp("Himuro","Ryota-senpai, let's do it together please.");
 VoicePlay("B330A10600_01_030");
 MsgDisp("Kazama","Do it yourself.
 I'll take a picture.");
@@ -137,10 +137,12 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,0);
 ChCheek(6,5);
 VoicePlay("B330A10600_06_030");
-MsgDisp("Himuro","...I don't even understand it myself.
+MsgDisp("Himuro","... I don't even understand it myself.
 Maybe the impact of the Indian movie was
 so strong, I went crazy...");
-MsgDisp("主人公","(Ehh∋ I wonder if ｛氷室＊＊｝ is okay...?)");
+MsgDisp("主人公","(Ehh∋
+I wonder if ｛氷室＊＊｝ is
+okay...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

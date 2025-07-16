@@ -59,7 +59,8 @@ anything, do you?");
         VoicePlay("B040108502_01_040");
         MsgDisp("Kazama","Wait a minute.
 There's no way, but can you hear that?");
-        MsgDisp("主人公","Huh? Hear what?");
+        MsgDisp("主人公","Huh?
+Hear what?");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -97,8 +98,9 @@ of us could hear it.");
         MsgDisp("Kazama","... Let's always be together from here on
 out.");
         ChMouth(1,2);
-        MsgDisp("主人公","Whoa! ｛風真＊＊｝, I think I just heard
-it!");
+        MsgDisp("主人公","Whoa!
+｛風真＊＊｝, I think I just
+heard it!");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);
@@ -107,7 +109,8 @@ it!");
         VoicePlay("B040108502_01_100");
         MsgDisp("Kazama","Haha, my bad.
 Well, at least I know you aren't lying.");
-        MsgDisp("主人公","Huh? You mean what just happened was...");
+        MsgDisp("主人公","Huh?
+You mean what just happened was...");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);

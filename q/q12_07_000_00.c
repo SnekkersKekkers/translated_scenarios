@@ -23,7 +23,8 @@ extracurricular lesson.");
 Well, I'll spare you that smile.
 No reports due today.");
     MsgDisp("主人公","Hehe, ok!
-Thank you so much, ｛御影＊＊｝.");
+Thank you so much,
+｛御影＊＊｝.");
     break ;
     case 3:
     VoicePlay("Q120700000_07_020");
@@ -92,7 +93,8 @@ Don't get soggy.");
     MsgDisp("Mikage","Ah yes, the MVP award.
 If you see the tulips every year, you get
 reminded of this school trip.");
-    MsgDisp("主人公","Yes. Will you also remember,
+    MsgDisp("主人公","Yes.
+Will you also remember,
 ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -104,8 +106,9 @@ Good memories last forever.
 So, enjoy your school trip to the end!");
     ChClose(7);
     MsgDisp("主人公","(Good memories last forever...... I hope
-the school trip with ｛御影＊＊｝ will
-be a memory of a lifetime.)");
+the school trip with
+｛御影＊＊｝ will be a
+memory of a lifetime.)");
     break ;
     default :
     DbgAssert(1);

@@ -6,8 +6,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510002_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝. Information desk this
-year?");
+MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
+Information desk this year?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -20,8 +20,7 @@ SEWait();
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("F110510002_45_000");
-MsgDisp("Woman Customer A","Clerk-san, 
-where's the tastiest yakisoba?");
+MsgDisp("Woman Customer A","Clerk-san, where's the tastiest yakisoba?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -36,13 +35,14 @@ ChEye(5,4);
 ChEyeOpenLevel(5,0);
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 SEWait();
-MsgDisp("主人公","Amazing... ");
+MsgDisp("主人公","Amazing...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510002_05_030");
-MsgDisp("Hiiragi","Yes. I would also recommend the Tennis
-club's salt yakisoba.");
+MsgDisp("Hiiragi","Yes.
+I would also recommend the Tennis club's
+salt yakisoba.");
 MsgDisp("主人公","Woah, it looks delicious.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -59,9 +59,9 @@ MsgDisp("Hiiragi","Understood.
 I will see you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(The yakisoba ｛柊＊＊＊｝ recommends
-sound good... Since it's our last year I
-have to wonder about the royal sauce
-yakisoba.)");
+MsgDisp("主人公","(The yakisoba ｛柊＊＊＊｝
+recommends sound good... Since it's our
+last year I have to wonder about the royal
+sauce yakisoba.)");
 MsgClose();
 ScrFadeOut(0,0);

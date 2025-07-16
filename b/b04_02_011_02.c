@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,5);
     VoicePlay("B040201102_02_010");
     MsgDisp("Sassa","Woah, awesome!
-......Hey, are you even listening to me?");
+...... Hey, are you even listening to me?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -48,8 +48,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("Sassa","I don't think so, but I think they
 probably have days like that.
 Couple only days.");
-        MsgDisp("主人公","Eh, what if its like that
-today......");
+        MsgDisp("主人公","Eh, what if its like that today......");
         ChEye(2,3);
         ChMouth(2,4);
         ChMotion(2,4);

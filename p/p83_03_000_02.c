@@ -19,8 +19,8 @@ Be careful not to lose your belongings.");
     VoiceEVSPlay(3);
     VoicePlay("P830300002_03_000");
     MsgDisp("Honda","｛主人公｝, good work.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Are you enjoying the
-cultural festival?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Are you enjoying the cultural festival?");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -68,8 +68,8 @@ Be careful not to lose your belongings.");
     VoiceEVSPlay(3);
     VoicePlay("P830300002_03_050");
     MsgDisp("Honda","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Yeah, is something the
-matter?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Yeah, is something the matter?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);

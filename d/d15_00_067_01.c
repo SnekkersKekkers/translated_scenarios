@@ -6,14 +6,15 @@ ChMouth ( 6,0 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150006701_06_000" ) ;
 MsgDisp ( "Himuro","What factors help you choose a menu?" ) ;
-MsgDisp ( "主人公","Uhm. I guess I just ask my stomach." ) ;
+MsgDisp ( "主人公","Uhm.
+I guess I just ask my stomach." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,2 ) ;
 VoicePlay ( "D150006701_07_000" ) ;
-MsgDisp ( "Mikage","I have to consult my wallet too. The food
-here is good so I always get the large
-size." ) ;
+MsgDisp ( "Mikage","I have to consult my wallet too.
+The food here is good so I always get the
+large size." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;
 ChMotion ( 6,1 ) ;
@@ -47,11 +48,12 @@ ChEye ( 6,0 ) ;
 ChMouth ( 6,3 ) ;
 ChMotion ( 6,4 ) ;
 VoicePlay ( "D150006701_06_040" ) ;
-MsgDisp ( "Himuro","......Uh, okay. I like all of them but
-seafood flavor is my favorite." ) ;
-MsgDisp ( "主人公","(Hehe, ｛氷室＊＊｝ seems to be enjoying
-himself. I'm looking forward to trying his
-recommendations!)" ) ;
+MsgDisp ( "Himuro","...... Uh, okay.
+I like all of them but seafood flavor is
+my favorite." ) ;
+MsgDisp ( "主人公","(Hehe, ｛氷室＊＊｝ seems to be
+enjoying himself. I'm looking forward to
+trying his recommendations!)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

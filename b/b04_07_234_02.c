@@ -79,8 +79,9 @@ pulls you to it like you do.");
         ChMotion(7,1);
         ChEyeOpenLevel(7,10);
         VoicePlay("B040723402_07_070");
-        MsgDisp("Mikage","Yeah. Any guy riding this should be
-grateful to the girl.");
+        MsgDisp("Mikage","Yeah.
+Any guy riding this should be grateful to
+the girl.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,5);

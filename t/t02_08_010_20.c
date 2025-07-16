@@ -1,7 +1,8 @@
 ChEye(8,3);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
-MsgDisp("主人公","I also...... like ｛大地＊＊｝.");
+MsgDisp("主人公","I also...... like
+｛大地＊＊｝.");
 VoicePlay("T020801000_08_170");
 ChEye(8,0);
 ChMouth(8,4);
@@ -22,7 +23,7 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 MsgDisp("Shirahane","All right, the legend came true!
 I just opened two doors!");
-MsgDisp("主人公","Ah......that's right.
+MsgDisp("主人公","Ah...... that's right.
 The church and lighthouse door both
 opened, right?");
 VoicePlay("T020801000_08_200");

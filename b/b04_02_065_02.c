@@ -80,8 +80,9 @@ It's fine to enjoy it the way you see it.");
         ChMotion(2,0);
         ChCheek(2,10);
         VoicePlay("B040206502_02_080");
-        MsgDisp("Sassa","Easy. I get different results just when
-you're there, watching me.");
+        MsgDisp("Sassa","Easy.
+I get different results just when you're
+there, watching me.");
         ChEye(2,4);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -93,8 +94,9 @@ of special powers?");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040206502_02_100");
-        MsgDisp("Sassa","Ahh. So, just watch me. That's all you
-need to do!");
+        MsgDisp("Sassa","Ahh.
+So, just watch me.
+That's all you need to do!");
         SEPlay("EV_SE_534",0,1);
         Wait(50,1);
         SEPlay("EV_SE_527",0,1);
@@ -104,10 +106,11 @@ need to do!");
         ChMotion(2,0);
         ChCheek(2,0);
         VoicePlay("B040206502_02_110");
-        MsgDisp("Sassa","Oh! I guess it's almost time for the grand
+        MsgDisp("Sassa","Oh!
+I guess it's almost time for the grand
 finale?");
-        MsgDisp("主人公","(If I want to help ｛颯砂＊＊｝ I need to
-support him even more!)");
+        MsgDisp("主人公","(If I want to help ｛颯砂＊＊｝ I
+need to support him even more!)");
         SEStop("EV_SE_534",1);
         SEStop("EV_SE_527",1);
         break ;

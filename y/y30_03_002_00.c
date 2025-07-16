@@ -73,8 +73,7 @@ she didn't even ask. I must have
 talked about a lot of things that
 weren't asked. But she nodded happily
 and kept listening.");
-MsgDisp("","...I, 
-really do like talking to her.");
+MsgDisp("","...I, really do like talking to her.");
 BGMStop();
 MsgClear();
 MsgClose();

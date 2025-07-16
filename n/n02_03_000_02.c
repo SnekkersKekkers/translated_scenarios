@@ -10,7 +10,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("N020300002_03_000");
     MsgDisp("Honda","Hmm?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. What's up?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+What's up?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4);
@@ -26,14 +27,16 @@ My score was disappointing, huh.)");
     ChMotion(3,4,1);
     VoicePlay("N020300002_03_020");
     MsgDisp("Honda","Did you already check the exam results?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Yeah, I did check.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Yeah, I did check.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("N020300002_03_030");
     MsgDisp("Honda","Ah, you did?
 Umm, are you feeling down?");
-    MsgDisp("主人公","Umm... No.");
+    MsgDisp("主人公","Umm...
+No.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -42,8 +45,9 @@ Umm, are you feeling down?");
     MsgDisp("Honda","I see, I see!
 That's good.
 Then, it's none of my business.");
-    MsgDisp("主人公","(Oof... I mean, it was my score that made
-you ask that...)");
+    MsgDisp("主人公","(Oof...
+I mean, it was my score that made you ask
+that...)");
     break ;
     case 4:
     case 5:
@@ -53,7 +57,8 @@ you ask that...)");
     VoicePlay("N020300002_03_050");
     MsgDisp("Honda","Hmm, what is it?
 This feeling of haziness...");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. What's up?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+What's up?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0);
@@ -74,8 +79,8 @@ people's exam results...");
 appeared higher up.
 I wonder why...");
     MsgDisp("主人公","(To be honest, it is a bit embarrassing to
-be with ｛本多＊＊｝ who is currently
-leading the grade...)");
+be with ｛本多＊＊｝ who is
+currently leading the grade...)");
     break ;
     default :
     DbgAssert(1);

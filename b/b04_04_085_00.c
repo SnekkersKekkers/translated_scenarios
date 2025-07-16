@@ -40,8 +40,8 @@ take a picture right away.");
     ChMotion(4,2,1);
     ChCheek(4,8);
     VoicePlay("B040408500_04_030");
-    MsgDisp("Nanatsumori","No... That warmed me up from the core just
-now.");
+    MsgDisp("Nanatsumori","No...
+That warmed me up from the core just now.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

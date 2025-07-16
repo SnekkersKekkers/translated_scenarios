@@ -7,8 +7,9 @@ ChOpen(22,254,0,3,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("L020D00004_22_000");
-MsgDisp("Hikaru","Hi～ Mari. It's our last Valentine's in
-high school♪");
+MsgDisp("Hikaru","Hi～
+Mari.
+It's our last Valentine's in high school♪");
 MsgDisp("主人公","Yeah.
 Thanks for your help!");
 ChEye(21,4);

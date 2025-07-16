@@ -24,8 +24,9 @@ ChMouth(5,3);
 ChMotion(5,0,1);
 VoicePlay("P810500001_05_020");
 MsgDisp("Hiiragi","Let's give it our best this year too.");
-MsgDisp("主人公","Yeah! But, don't severely overwork
-yourself, okay?");
+MsgDisp("主人公","Yeah!
+But, don't severely overwork yourself,
+okay?");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("P810500001_05_030");

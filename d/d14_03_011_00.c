@@ -16,12 +16,13 @@ What a coincidence!");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("D140301100_03_010");
-    MsgDisp("Honda","Yay! You're the same as me!");
+    MsgDisp("Honda","Yay!
+You're the same as me!");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("D140301100_03_020");
-    MsgDisp("Honda","...Hey, I'm getting too excited right?
+    MsgDisp("Honda","... Hey, I'm getting too excited right?
 It's just that we chose the same menu
 item.");
     break ;

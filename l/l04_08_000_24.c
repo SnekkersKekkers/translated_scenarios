@@ -7,7 +7,8 @@ switch (ChPrmGet(8,6)){
     VoicePlay("L040800004_08_000");
     MsgDisp("Shirahane","Ah, it's handmade!");
     MsgDisp("主人公","Yeah.
-I did my best to make it. How is it?");
+I did my best to make it.
+How is it?");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -49,7 +50,8 @@ Thank goodness!)");
     ChEyeOpenLevel(8,10);
     ChCheek(8,8);
     VoicePlay("L040800004_08_050");
-    MsgDisp("Shirahane","Wow...... Handmade chocolate!");
+    MsgDisp("Shirahane","Wow......
+Handmade chocolate!");
     MsgDisp("主人公","Yeah, I did my best to make it.");
     ChEye(8,4);
     ChMouth(8,0);
@@ -64,7 +66,8 @@ You really can do anything.");
     VoicePlay("L040800004_08_070");
     VoiceEVSPlay(8);
     MsgDisp("Shirahane","I should be thankin' you.
-Really, thanks, ｛主人公｝.");
+Really, thanks,
+｛主人公｝.");
     ChEye(8,4);
     ChMouth(8,0);
     ChMotion(8,0,1);
@@ -76,11 +79,12 @@ now......");
     ChMotion(8,4,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800004_08_090");
-    MsgDisp("Shirahane","Hmm. But I'd need to eat it all. What a
-pickle......");
+    MsgDisp("Shirahane","Hmm.
+But I'd need to eat it all.
+What a pickle......");
     ChEyeOpenLevel(8,#1);
-    MsgDisp("主人公","Hehe. But it can go bad, so eat it quick,
-okay?");
+    MsgDisp("主人公","Hehe.
+But it can go bad, so eat it quick, okay?");
     ChEye(8,4);
     ChMouth(8,3);
     ChMotion(8,3,1);

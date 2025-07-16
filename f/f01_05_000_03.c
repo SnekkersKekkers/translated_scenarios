@@ -26,8 +26,7 @@ Well then, let's go.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("F010500003_05_020");
-    MsgDisp("Hiiragi","Oh,
-I was thinking that, as well.");
+    MsgDisp("Hiiragi","Oh, I was thinking that, as well.");
     MsgDisp("主人公","Good!
 Well then, let's go!");
     break ;

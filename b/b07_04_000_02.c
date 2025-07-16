@@ -20,8 +20,7 @@ MsgDisp("Nanatsumori","Well yea.");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("B070400000_04_080");
-MsgDisp("Nanatsumori","I can also handle spicy 
-stuff pretty well.");
+MsgDisp("Nanatsumori","I can also handle spicy stuff pretty well.");
 MsgDisp("主人公","Heeh... amazing!");
 ChEye(4,0);
 ChMouth(4,3);
@@ -30,8 +29,9 @@ VoicePlay("B070400000_04_090");
 MsgDisp("Nanatsumori","Cream-filled sweets after your mouth turns
 bright red.
 It's supreme.");
-MsgDisp("主人公","Hmm... But, if you do that every meal,
-won't that destroy your stomach?");
+MsgDisp("主人公","Hmm...
+But, if you do that every meal, won't that
+destroy your stomach?");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -44,7 +44,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_110");
-MsgDisp("Nanatsumori","...Do it again.
+MsgDisp("Nanatsumori","... Do it again.
 Aim for the perfect punchline.");
 MsgDisp("主人公","Eh∋");
 ChEye(4,1);
@@ -52,8 +52,8 @@ ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B070400000_04_120");
 MsgDisp("Nanatsumori","No, not \"Eh!\" What's this perfect
-punchline thing you're trying?
-Am I becoming the straight man here?∋");
+punchline thing you're trying? Am I
+becoming the straight man here?∋");
 MsgDisp("主人公","(A one-man comedy act?)");
 BGMStop();
 MsgClose();

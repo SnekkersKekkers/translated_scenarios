@@ -6,8 +6,9 @@ VoicePlay("P040700000_07_000");
 MsgDisp("Mikage","The matcha tea and dango are both
 delicious.
 You really did your best.");
-MsgDisp("主人公","Yes. These are the results of the efforts
-of the cooking team.");
+MsgDisp("主人公","Yes.
+These are the results of the efforts of
+the cooking team.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

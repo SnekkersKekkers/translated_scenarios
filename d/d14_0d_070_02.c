@@ -20,8 +20,7 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("D140D07002_21_010");
-MsgDisp("Michiru","It's like I'm the moon, 
-Hikaru is the sun?");
+MsgDisp("Michiru","It's like I'm the moon, Hikaru is the sun?");
 MsgDisp("主人公","Yeah, I feel like I understand.");
 ChEye(22,0);
 ChMouth(22,3);
@@ -34,8 +33,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("D140D07002_21_020");
-MsgDisp("Michiru","Hikaru. Don't say anything unnecessary,
-okay?");
+MsgDisp("Michiru","Hikaru.
+Don't say anything unnecessary, okay?");
 MsgDisp("主人公","?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -49,8 +48,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07002_21_030");
-MsgDisp("Michiru","I'm...
-a calm moon.");
+MsgDisp("Michiru","I'm... a calm moon.");
 MsgDisp("主人公","???");
 ChEye(22,0);
 ChMouth(22,3);

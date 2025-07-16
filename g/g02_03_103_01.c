@@ -14,8 +14,8 @@ VoicePlay("G020310301_03_010");
 MsgDisp("Honda","She got really mad and told me that if I'm
 going to invite a girl over, I should make
 the place cleaner.");
-MsgDisp("主人公","Really? I thought it was clean
-enough......");
+MsgDisp("主人公","Really?
+I thought it was clean enough......");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

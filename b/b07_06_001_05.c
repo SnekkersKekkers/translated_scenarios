@@ -5,22 +5,19 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600001_06_320");
 MsgDisp("Himuro","Why?");
-MsgDisp("主人公","That's...
-cause I'm the only girl.");
+MsgDisp("主人公","That's... cause I'm the only girl.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_330");
-MsgDisp("Himuro","It's nonsense to distinguish 
-by genders.");
+MsgDisp("Himuro","It's nonsense to distinguish by genders.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_340");
-MsgDisp("Himuro","Of course.
-there are things you can only talk about
-among guys.");
+MsgDisp("Himuro","Of course. there are things you can only
+talk about among guys.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

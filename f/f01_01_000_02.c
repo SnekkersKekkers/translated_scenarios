@@ -31,8 +31,8 @@ If it's alright, lets go together.");
         ChOpen(1,254,0,4,3,#1,#1,0,0);
         VoiceEVSPlay(1);
         VoicePlay("F010100002_01_020");
-        MsgDisp("Kazama","｛主人公｝. Are we leaving at the same
-time again?");
+        MsgDisp("Kazama","｛主人公｝.
+Are we leaving at the same time again?");
         MsgDisp("主人公","Seems like it.
 We're in the same class, after all.
 Should we go together?");

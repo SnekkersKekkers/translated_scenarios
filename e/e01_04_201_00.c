@@ -4,8 +4,7 @@ ScrFadeIn(0);
 VoicePlay("E010420100_02_000");
 MsgDisp("Sassa?","Oh, I come here often.");
 VoicePlay("E010420100_04_000");
-MsgDisp("Nanatsumori?","Maybe I'll come again
-if I feel like it.");
+MsgDisp("Nanatsumori?","Maybe I'll come again if I feel like it.");
 MsgDisp("主人公","Huh?
 That voice just now was-");
 MsgClose();
@@ -13,15 +12,16 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
 ChOpen(4,255,0,0,3,#1,#1,0,1);
 ChOpen(2,40,3,0,4,#1,#1,0,2);
-MsgDisp("主人公","｛七ツ森＊｝, ｛颯砂＊＊｝! I didn't
-expect to see you two together.");
+MsgDisp("主人公","｛七ツ森＊｝,
+｛颯砂＊＊｝!
+I didn't expect to see you two together.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoiceEVSPlay(2);
 VoicePlay("E010420100_02_010");
-MsgDisp("Sassa","｛主人公｝. We bumped into each other
-by chance.");
+MsgDisp("Sassa","｛主人公｝.
+We bumped into each other by chance.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -64,8 +64,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("E010420100_04_040");
-MsgDisp("Nanatsumori","......Sorry,
-I'll pass on running.");
+MsgDisp("Nanatsumori","......Sorry, I'll pass on running.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -74,8 +73,9 @@ VoicePlay("E010420100_02_050");
 MsgDisp("Sassa","It's impossible.
 If you have the leash, you have no choice
 but to run.");
-MsgDisp("主人公","(Haha! ｛七ツ森＊｝ and ｛颯砂＊＊｝,
-you really like dogs, don't you?)");
+MsgDisp("主人公","(Haha! ｛七ツ森＊｝ and
+｛颯砂＊＊｝, you really like
+dogs, don't you?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

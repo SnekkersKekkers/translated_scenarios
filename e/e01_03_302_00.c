@@ -103,8 +103,8 @@ MsgDisp("Mikage","But I might end up borrowing something
 too. It'll be hard to ignore his
 recommendations and not borrow something,
 you know?");
-MsgDisp("主人公","Ah...... That certainly sounds......
-difficult");
+MsgDisp("主人公","Ah......
+That certainly sounds...... difficult");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

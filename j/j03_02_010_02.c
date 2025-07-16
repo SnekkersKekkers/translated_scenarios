@@ -1,6 +1,7 @@
 Wait(20,0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","(Ah, a phone call from ｛颯砂＊＊｝. )");
+MsgDisp("主人公","(Ah, a phone call from
+｛颯砂＊＊｝. )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -19,6 +20,5 @@ MsgDisp("Sassa","Yeah, try to remember it.
 Bye.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(I'll be careful 
-next time I ask him out.)");
+MsgDisp("主人公","(I'll be careful next time I ask him out.)");
 MsgClose();

@@ -4,8 +4,7 @@ ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020710101_07_000");
 MsgDisp("Mikage","When you stand here, you can hear people's
 inner voices, right?");
-MsgDisp("主人公","Yes, 
-that's how it goes in the rumour.");
+MsgDisp("主人公","Yes, that's how it goes in the rumour.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -46,8 +45,8 @@ ChMotion(7,4);
 VoicePlay("G020710101_07_060");
 MsgDisp("Mikage","Haa, at least give it a rest for today,
 Ah, could that be the inner voice?");
-MsgDisp("主人公","(Does that mean......
-those two want to be here with me?
+MsgDisp("主人公","(Does that mean...... those two want to be
+here with me?
 If that's the case, I'd be happy.)");
 BGMStop();
 MsgClose();

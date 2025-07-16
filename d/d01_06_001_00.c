@@ -28,14 +28,14 @@ BGMPlay("BGM_C06_INORI_A",0.01);
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you having your lunch
-up here too?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you having
+your lunch up here too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600100_06_010");
 MsgDisp("Himuro","Yeah.
-......Alright, time to get started.");
+...... Alright, time to get started.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
@@ -87,12 +87,13 @@ VoicePlay("D010600100_06_070");
 MsgDisp("Himuro","The dehydrated eggs and vegetables
 regained some moisture from soaking in the
 broth.");
-MsgDisp("主人公","Geez. Right, maybe you would like to have
-the side from my lunch?");
+MsgDisp("主人公","Geez.
+Right, maybe you would like to have the
+side from my lunch?");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600100_06_080");
-MsgDisp("Himuro","......If you're giving it to me, I'll eat
+MsgDisp("Himuro","...... If you're giving it to me, I'll eat
 it.
 Give it here.");
 MsgClose();
@@ -159,15 +160,16 @@ VoicePlay("D010600100_06_150");
 MsgDisp("Himuro","It's black on the outside and white on the
 inside, and when it gets heated up, the
 texture becomes gross and mushy.");
-MsgDisp("主人公","Are you trying to say that you......
-hate eggplant?");
+MsgDisp("主人公","Are you trying to say that you...... hate
+eggplant?");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600100_06_160");
 MsgDisp("Himuro","I wouldn't say hate, it just has issues.");
-MsgDisp("主人公","(｛氷室＊＊｝ hates eggplant......I think.)");
+MsgDisp("主人公","(｛氷室＊＊｝ hates eggplant......
+I think.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -31,8 +31,9 @@ See you later.");
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("R040500002_05_010");
-    MsgDisp("Hiiragi","Yeah, the ambiance here feels nice. I can
-feel that everyone is having fun... Ah.");
+    MsgDisp("Hiiragi","Yeah, the ambiance here feels nice.
+I can feel that everyone is having fun...
+Ah.");
     MsgDisp("主人公","Is that the guest of honor?");
     ChEye(5,4);
     ChMotion(5,0);

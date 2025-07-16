@@ -65,8 +65,9 @@ ChMotion(9,0,1);
 VoicePlay("D030900800_09_050");
 MsgDisp("Kuya","But unlike last time, I helped the right
 person, right?");
-MsgDisp("主人公","Hehe! But you know, I never expected I'd
-run into Kuya-san on the route to school.");
+MsgDisp("主人公","Hehe!
+But you know, I never expected I'd run
+into Kuya-san on the route to school.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -78,9 +79,9 @@ ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
-MsgDisp("主人公","Ah......Come to think of it.
-Kuya-san, you're in senior year so it's
-almost time for entrance exams."); 
+MsgDisp("主人公","Ah......Come to think of it. Kuya-san,
+you're in senior year so it's almost time
+for entrance exams."); 
 MsgDisp("主人公","Have you decided on a career path?");
 ChEye(9,0);
 ChMouth(9,4);
@@ -101,8 +102,9 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900800_09_090");
 MsgDisp("Kuya","Is that surprising?");
-MsgDisp("主人公","No...... Are you distracted by all the
-things that keep happening?");
+MsgDisp("主人公","No......
+Are you distracted by all the things that
+keep happening?");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,4,1);

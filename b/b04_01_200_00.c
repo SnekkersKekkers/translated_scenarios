@@ -54,8 +54,9 @@ Now, if you're scared, give me your hand.");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040120000_01_040");
-    MsgDisp("Kazama","Hm? That's not like you. Are you scheming
-something?");
+    MsgDisp("Kazama","Hm?
+That's not like you.
+Are you scheming something?");
     MsgDateResultDisp();
     break ;
     default :

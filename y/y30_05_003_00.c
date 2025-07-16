@@ -45,13 +45,11 @@ everyone enjoy it, this is the
 opposite. I'm plucking at people's
 dreams..");
 MsgDisp("","Furthermore, I did it
-unconsciously...
-how horrible.");
+unconsciously... how horrible.");
 MsgClear();
 VoicePlay("Y300500300_05_030");
-MsgDisp("Hiiragi","(...I can't go home.
-I can't face everyone at the theatre
-troupe.)");
+MsgDisp("Hiiragi","(...I can't go home. I can't face
+everyone at the theatre troupe.)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -66,10 +64,10 @@ council... I'm only good at keeping
 up with appearances, this is the real
 me.");
 MsgClear();
-MsgDisp("主人公","\"No, ｛柊＊＊＊｝, for the sake of
-everyone always gives it his best in
-both the theatre troupe and student
-council.\"");
+MsgDisp("主人公","\"No, ｛柊＊＊＊｝, for the
+sake of everyone always gives it his
+best in both the theatre troupe and
+student council.\"");
 MsgDisp("","Even when you see me like this, you
 still say that.");
 MsgClear();
@@ -94,7 +92,8 @@ this, to you who spoke to me kindly,
 even if it's just a little, I want to
 repay it.... I want to make amends.");
 MsgDisp("","It's not like I'm being forgiven for
-anything. But...");
+anything.
+But...");
 MsgClear();
 VoicePlay("Y300500300_05_050");
 MsgDisp("Hiiragi","(But, what I should do...

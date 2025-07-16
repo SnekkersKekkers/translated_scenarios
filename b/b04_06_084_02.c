@@ -63,8 +63,7 @@ That's the first time I heard that.");
         ChMouth(6,4);
         ChMotion(6,4);
         VoicePlay("B040608402_06_050");
-        MsgDisp("Himuro","Then, shall I try 
-something stimulating?");
+        MsgDisp("Himuro","Then, shall I try something stimulating?");
         MsgDisp("主人公","Eh∋");
         ChEye(6,0);
         ChMouth(6,0);
@@ -89,13 +88,15 @@ trouble responding.");
         MsgDisp("Himuro","...Fuuu!");
         MsgDisp("主人公","∋");
         ScrFadeIn(0);
-        MsgDisp("主人公","｛氷室＊＊｝∋ My ear!");
+        MsgDisp("主人公","｛氷室＊＊｝∋
+My ear!");
         ChEye(6,0);
         ChMouth(6,3);
         ChMotion(6,5);
         VoicePlay("B040608402_06_090");
-        MsgDisp("Himuro","Haha! That's the excitement you wanted
-right? an external stimulation!");
+        MsgDisp("Himuro","Haha!
+That's the excitement you wanted right? an
+external stimulation!");
         MsgDisp("主人公","(How annoying...)");
         break ;
         default :

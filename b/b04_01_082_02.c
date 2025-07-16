@@ -46,8 +46,8 @@ thinking.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108202_01_030");
-        MsgDisp("Kazama","What do you mean, feel better. ... Sheesh,
-I'm not the type to do that.");
+        MsgDisp("Kazama","What do you mean, feel better.
+... Sheesh, I'm not the type to do that.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -64,8 +64,8 @@ I really said some careless stuff.");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108202_01_050");
-        MsgDisp("Kazama","Haah. Well, I guess you didn't know, did
-you?");
+        MsgDisp("Kazama","Haah.
+Well, I guess you didn't know, did you?");
         ChEye(1,4);
         ChMouth(1,4);
         ChMotion(1,2);
@@ -129,9 +129,9 @@ I'm really happy.)");
     ChMouth(1,2);
     ChMotion(1,0,1);
     VoicePlay("B040108202_01_110");
-    MsgDisp("Kazama","Pink? Doesn't that feel a little
-suspicious? There's not atmosphere about
-that at all.");
+    MsgDisp("Kazama","Pink?
+Doesn't that feel a little suspicious?
+There's not atmosphere about that at all.");
     MsgDateResultDisp();
     break ;
     default :

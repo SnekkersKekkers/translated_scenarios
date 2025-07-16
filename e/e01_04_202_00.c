@@ -24,8 +24,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("E010420200_05_010");
-MsgDisp("Hiiragi","｛主人公｝, hello. Are you shopping as
-well?");
+MsgDisp("Hiiragi","｛主人公｝, hello.
+Are you shopping as well?");
 MsgDisp("主人公","Yeah.");
 ChEye(4,1);
 ChMouth(4,3);
@@ -87,11 +87,12 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("E010420200_04_040");
-MsgDisp("Nanatsumori","......His energy is definitely different.
+MsgDisp("Nanatsumori","...... His energy is definitely different.
 Is that what happens when you're at a
 leader level?");
-MsgDisp("主人公","(Hehe! I guess ｛七ツ森＊｝ really
-respects ｛柊＊＊＊｝ )");
+MsgDisp("主人公","(Hehe!
+I guess ｛七ツ森＊｝
+really respects ｛柊＊＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

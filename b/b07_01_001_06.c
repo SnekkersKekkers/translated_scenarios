@@ -1,6 +1,6 @@
 MsgDisp("主人公","Recently, it's become normal for the four
-of us; me, you ｛颯砂＊＊｝ and ｛氷室＊＊｝
-to be together.");
+of us; me, you ｛颯砂＊＊｝ and
+｛氷室＊＊｝ to be together.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -19,8 +19,9 @@ VoicePlay("B070100001_01_310");
 MsgDisp("Kazama","Who knows?
 His evaluation criteria is a mystery,
 well, he definitely finds us interesting.");
-MsgDisp("主人公","Hehe. It would be nice if we could all
-stick together from now on too.");
+MsgDisp("主人公","Hehe.
+It would be nice if we could all stick
+together from now on too.");
 ChMotion(1,0);
 Wait(10,0);
 ChEye(1,4);

@@ -36,8 +36,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110302_01_040");
-MsgDisp("Kazama","Really? If you're not comfortable, then we
-can stop.......");
+MsgDisp("Kazama","Really?
+If you're not comfortable, then we can
+stop.......");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -45,7 +46,8 @@ VoicePlay("G020110302_01_050");
 MsgDisp("Kazama","But it's only embarrassing because it
 happens by chance, right? If it was always
 like this, wouldn't it be okay?");
-MsgDisp("主人公","Eh? Always, you say?");
+MsgDisp("主人公","Eh?
+Always, you say?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);

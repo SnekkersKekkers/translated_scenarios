@@ -21,7 +21,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100007_01_010");
 MsgDisp("Kazama","Too normal.");
-MsgDisp("主人公","Then, what does ｛風真＊＊｝ want?");
+MsgDisp("主人公","Then, what does ｛風真＊＊｝
+want?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
@@ -46,7 +47,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F020100007_01_040");
-MsgDisp("Kazama","Right? I wonder, what's the best way to do
-it...");
+MsgDisp("Kazama","Right?
+I wonder, what's the best way to do it...");
 MsgDisp("主人公","(｛風真＊＊｝, are you seriously thinking
 about it?)");

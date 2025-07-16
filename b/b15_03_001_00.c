@@ -3,7 +3,8 @@ ChOpen(3,255,4,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300100_03_000");
 MsgDisp("Honda","As I thought, it's different.");
-MsgDisp("主人公","Huh? What is?");
+MsgDisp("主人公","Huh?
+What is?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -24,7 +25,8 @@ ChMotion(3,2,1);
 VoicePlay("B150300100_03_030");
 MsgDisp("Honda","I even tried being close with my younger
 sister and she got really mad at me...");
-MsgDisp("主人公","Wow... I'm sorry about that.");
+MsgDisp("主人公","Wow...
+I'm sorry about that.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

@@ -7,7 +7,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040221300_02_000");
 MsgDisp("Sassa","Crap...
-They're smelling me a lot. ");
+They're smelling me a lot.");
 MsgSel("I wonder if it'a  nice smell?","You're popular huh?","Maybe they think you're one of their own?");
 switch (MsgSelRsltGet()){
     case 0:

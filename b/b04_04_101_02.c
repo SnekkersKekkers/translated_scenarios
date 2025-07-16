@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
         ChMotion(4,2,1);
         VoicePlay("B040410102_04_010");
         MsgDisp("Nanatsumori","Ahh, right.
-...Looks like this'll take a while.");
+... Looks like this'll take a while.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -60,8 +60,9 @@ You're having fun, right?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040410102_04_060");
-        MsgDisp("Nanatsumori","...Alright! Then, how about you be my
-teacher and show me how to enjoy this?");
+        MsgDisp("Nanatsumori","... Alright!
+Then, how about you be my teacher and show
+me how to enjoy this?");
         MsgDisp("主人公","Eh?");
         ChEye(4,0);
         ChMouth(4,4);
@@ -83,14 +84,13 @@ Is it really okay for me to be teacher?");
         VoicePlay("B040410102_04_090");
         MsgDisp("Nanatsumori","It's fine.
 If you would please, Sensei.");
-        MsgDisp("主人公","...All right.
+        MsgDisp("主人公","... All right.
 Then, please form a line and follow me.");
         ChEye(4,4);
         ChMouth(4,5);
         ChMotion(4,1,1);
         VoicePlay("B040410102_04_100");
-        MsgDisp("Nanatsumori","You're coming for me 
-from that angle∋");
+        MsgDisp("Nanatsumori","You're coming for me from that angle∋");
         MsgDisp("主人公","(Hehe!)");
         break ;
         default :
@@ -104,8 +104,8 @@ from that angle∋");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040410102_04_110");
-    MsgDisp("Nanatsumori","Well... yeah, actually. Can you show me
-how to enjoy this?");
+    MsgDisp("Nanatsumori","Well... yeah, actually.
+Can you show me how to enjoy this?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -114,8 +114,7 @@ how to enjoy this?");
     DateRateSet(2);
     ChMotion(4,0,1);
     VoicePlay("B040410102_04_120");
-    MsgDisp("Nanatsumori","I am with you and 
-looking at it though.");
+    MsgDisp("Nanatsumori","I am with you and looking at it though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

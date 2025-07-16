@@ -1,8 +1,9 @@
 BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh? Over there......is that who I think
-it is?)");
+MsgDisp("主人公","(Huh?
+Over there...... is that who I think it
+is?)");
 BGMPlay("BGM_C09_KUYA_A",0.01);
 MsgClose();
 ChOpen(9,254,0,0,0,#1,#1,0,0);
@@ -12,14 +13,14 @@ ChMouth(9,0);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900900_09_000");
 MsgDisp("Kuya","Ah......");
-MsgDisp("主人公","Hello. Is there something going on around
-here?");
+MsgDisp("主人公","Hello.
+Is there something going on around here?");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,4,1);
 VoicePlay("D030900900_09_010");
-MsgDisp("Kuya","......Nope. I'm wondering where I should
-go.");
+MsgDisp("Kuya","...... Nope.
+I'm wondering where I should go.");
 MsgDisp("主人公","Eh?");
 ChEye(9,0);
 ChMouth(9,4);
@@ -118,8 +119,8 @@ MsgDisp("Kuya","Wait a second.");
 ChMotion(9,4,1);
 VoicePlay("D030900900_09_120");
 MsgDisp("Kuya","I want to ask you something.
-It may be a bit early but......Have you
-decided on your career yet?");
+It may be a bit early but......
+Have you decided on your career yet?");
 MsgDisp("主人公","I......");
 MsgSel("I will go to university","I haven't decided yet");
 switch (MsgSelRsltGet()){
@@ -131,7 +132,8 @@ switch (MsgSelRsltGet()){
     VoicePlay("D030900900_09_130");
     MsgDisp("Kuya","I see.
 Will it be a first-rate university?");
-    MsgDisp("主人公","I'm not sure but......I'll try.");
+    MsgDisp("主人公","I'm not sure but......
+I'll try.");
     ChEye(9,0);
     ChMouth(9,0);
     VoicePlay("D030900900_09_140");
@@ -156,20 +158,22 @@ A first-rate university.");
     MsgDisp("Kuya","Right now it's completely impossible for
 me.
 I'm missing everything I need.");
-    MsgDisp("主人公","That...... Do you mean you're going to
-study hard from now on?");
+    MsgDisp("主人公","That......
+Do you mean you're going to study hard
+from now on?");
     ChEye(9,3);
     ChMouth(9,0);
     ChMotion(9,4,1);
     VoicePlay("D030900900_09_180");
-    MsgDisp("Kuya","Yeah. Then, next spring, I'll enter the
-same university as you.");
+    MsgDisp("Kuya","Yeah.
+Then, next spring, I'll enter the same
+university as you.");
     ChEye(9,3);
     ChMouth(9,0);
     ChMotion(9,0,1);
     ChEyeOpenLevel(9,6);
     VoicePlay("D030900900_09_190");
-    MsgDisp("Kuya","......To be honest with you.
+    MsgDisp("Kuya","...... To be honest with you.
 I have such a good time when I'm with you.
 You make me feel so fulfilled.");
     ChEye(9,3);
@@ -195,7 +199,7 @@ prioritize my \"studies\" over interviews.)");
     break ;
     case 1:
     MsgDisp("主人公","I can't answer that right now.
-......Why do you ask?");
+...... Why do you ask?");
     ChEye(9,4);
     ChMouth(9,4);
     ChMotion(9,0,1);
@@ -212,20 +216,23 @@ you.");
     ChMouth(9,0);
     ChMotion(9,2,1);
     VoicePlay("D030900900_09_240");
-    MsgDisp("Kuya","Sigh...... Worrying about a career
-definitely doesn't suit me.");
+    MsgDisp("Kuya","Sigh......
+Worrying about a career definitely doesn't
+suit me.");
     ChEye(9,0);
     ChMouth(9,4);
     ChMotion(9,0,1);
     ChEyeOpenLevel(9,6);
     VoicePlay("D030900900_09_250");
-    MsgDisp("Kuya","......I'm sorry? Interviews are getting a
-bit troublesome. Bye.");
+    MsgDisp("Kuya","...... I'm sorry?
+Interviews are getting a bit troublesome.
+Bye.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(9);
-    MsgDisp("主人公","(Haa...... They're getting a bit
-troublesome for me too.)");
+    MsgDisp("主人公","(Haa......
+They're getting a bit troublesome for me
+too.)");
     break ;
     default :
     DbgAssert(0);

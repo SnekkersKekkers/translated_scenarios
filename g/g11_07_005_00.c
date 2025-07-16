@@ -1,7 +1,8 @@
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","......Hey? It looks like someones in the
-gardening club's fields.");
+MsgDisp("主人公","...... Hey?
+It looks like someones in the gardening
+club's fields.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -11,8 +12,9 @@ BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝. You still take care of
-the plants even on your lunch break?");
+MsgDisp("主人公","｛御影＊＊｝.
+You still take care of the plants even on
+your lunch break?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -52,8 +54,9 @@ ChMotion(7,1);
 VoicePlay("G110700500_07_050");
 MsgDisp("Mikage","Damn, lunch time is over.
 See you then.");
-MsgDisp("主人公","(Effort...... Is he talking about how we
-went out together?)");
+MsgDisp("主人公","(Effort......
+Is he talking about how we went out
+together?)");
 SEStop("EV_SE_SCHOOL_002",1);
 BGMStop();
 MsgClose();

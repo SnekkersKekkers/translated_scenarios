@@ -13,8 +13,9 @@ VoicePlay("Y300800300_09_000");
 MsgDisp("Kuya","\"Dai-chan.\"");
 MsgDisp("","Big bro looked at me while smilin'.");
 VoicePlay("Y300800300_08_010");
-MsgDisp("Daichi","\"Big bro. I... still can't shake this
-weird feelin'.\"");
+MsgDisp("Daichi","\"Big bro.
+I... still can't shake this weird
+feelin'.\"");
 MsgClear();
 MsgDisp("","Big bro looked fondly at me, \"Haha\",
 he laughed.");
@@ -47,8 +48,7 @@ MsgDisp("","Why do she understand my feelin's?");
 MsgClear();
 VoicePlay("Y300800300_09_030");
 MsgDisp("Kuya","\"She says it's a woman's intuition.\"");
-MsgDisp("","With that, 
-big bro left my rom.");
+MsgDisp("","With that, big bro left my rom.");
 MsgDisp("","Big sis's intuition...");
 MsgClear();
 SEPlay("EV_SE_DOOR_007");

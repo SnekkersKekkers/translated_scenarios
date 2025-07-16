@@ -7,7 +7,8 @@ ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0);
 VoicePlay("E010430200_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝. Are you working?");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Are you working?");
 ChMotion(4,1,1);
 VoicePlay("E010430200_04_010");
 MsgDisp("Nanatsumori","Yeah.

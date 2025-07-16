@@ -59,8 +59,8 @@ It's not enough somehow......");
     VoicePlay("S120400001_04_050");
     MsgDisp("Nanatsumori","...... Negativity isn't good first thing
 in the New Year.");
-    MsgDisp("主人公","Hehe! We'll see each other again soon,
-right?");
+    MsgDisp("主人公","Hehe!
+We'll see each other again soon, right?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

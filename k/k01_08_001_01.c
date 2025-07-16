@@ -19,7 +19,8 @@ ChMotion(8,3,1);
 VoicePlay("K010800101_08_020");
 VoiceEVSPlay(8);
 MsgDisp("Shirahane","Both of us are happy▼
-Thanks so much, ｛主人公｝.");
+Thanks so much,
+｛主人公｝.");
 MsgDisp("主人公","(He looks super happy!
 Thank goodness!)");
 BGMStop();

@@ -50,8 +50,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360123600_01_060");
-MsgDisp("Kazama","And also,
-I have you all to myself.");
+MsgDisp("Kazama","And also, I have you all to myself.");
 MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,4);
 ChMouth(1,3);

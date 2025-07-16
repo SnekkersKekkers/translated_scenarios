@@ -5,7 +5,8 @@ ChMouth(6,1);
 ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("T020600000_06_320");
-MsgDisp("Himuro","Ha∋　Wait......!");
+MsgDisp("Himuro","Ha∋
+Wait......!");
 MsgDisp("主人公","I also like ｛氷室＊＊｝!");
 VoicePlay("T020600000_06_330");
 ChEye(6,3);

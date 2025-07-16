@@ -1,13 +1,14 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you heading home now?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Are you heading home now?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110600400_06_000");
 MsgDisp("Himuro","Ah, it's you.
 Today I plan on going to the beach.
-......If you want, you can come?");
+...... If you want, you can come?");
 MsgDisp("主人公","Yes......!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -25,8 +26,8 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600400_06_010");
-MsgDisp("Himuro","Hey...... Why don't you practice swimming
-a bit?");
+MsgDisp("Himuro","Hey......
+Why don't you practice swimming a bit?");
 MsgDisp("主人公","Eh......");
 ChEye(6,0);
 ChMouth(6,0);

@@ -11,7 +11,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A05000_06_000");
-MsgDisp("Himuro","Yes. To be honest, I don't feel very
+MsgDisp("Himuro","Yes.
+To be honest, I don't feel very
 comfortable.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -69,8 +70,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A05000_02_030");
-MsgDisp("Sassa","Inori. It looks like we don't stand a
-chance.");
+MsgDisp("Sassa","Inori.
+It looks like we don't stand a chance.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

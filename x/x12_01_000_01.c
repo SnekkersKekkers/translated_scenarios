@@ -24,9 +24,8 @@ As expected, you have good senses.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("X120100001_01_010");
-    MsgDisp("Kazama","Haha, 
-you've done very well.");
-    MsgDisp("主人公","(Yay! 
+    MsgDisp("Kazama","Haha, you've done very well.");
+    MsgDisp("主人公","(Yay!
 I was praised!)");
     break ;
     default :

@@ -2,12 +2,13 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("T020311000_03_000");
-MsgDisp("Honda?","｛主人公｝, I don't want you to go that
-far.");
+MsgDisp("Honda?","｛主人公｝, I don't want
+you to go that far.");
 SEPlay("EV_SE_872",0.5);
 Wait(50,0);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Eh......｛本多＊＊｝?");
+MsgDisp("主人公","Eh......
+｛本多＊＊｝?");
 ChMotion(3,4,1);
 VoicePlay("T020311000_03_010");
 MsgDisp("Honda","Come with me.");

@@ -43,8 +43,7 @@ okay?");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("B040430000_04_030");
-    MsgDisp("Nanatsumori","Well, I'll take that 
-as a compliment.");
+    MsgDisp("Nanatsumori","Well, I'll take that as a compliment.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

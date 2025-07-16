@@ -3,8 +3,7 @@ NSSOpen(5,255,4,2,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160500400_05_000");
-MsgDisp("Hiiragi","Your movements..
-are expertful.");
+MsgDisp("Hiiragi","Your movements.. are expertful.");
 MsgSel("No one can stop me, you know?","Are you going to admit defeat?");
 switch (MsgSelRsltGet()){
     case 0:

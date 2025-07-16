@@ -15,8 +15,8 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,3);
     VoicePlay("H382100000_21_000");
     MsgDisp("Michiru","Hehe, how cool.");
-    MsgDisp("主人公","Ah, ｛みちる＊｝! Did you come to
-support me?");
+    MsgDisp("主人公","Ah, ｛みちる＊｝!
+Did you come to support me?");
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,0);
@@ -42,8 +42,8 @@ Alright, let's do our best!)");
     ChMotion(21,0);
     VoicePlay("H382100000_21_020");
     MsgDisp("Michiru","Mari.");
-    MsgDisp("主人公","Ah, ｛みちる＊｝. Did you come to
-support me?");
+    MsgDisp("主人公","Ah, ｛みちる＊｝.
+Did you come to support me?");
     ChEye(21,4);
     ChMouth(21,4);
     ChMotion(21,4);

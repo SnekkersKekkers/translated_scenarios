@@ -1,7 +1,8 @@
 BGOpen("ar500",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","My name is ｛主人公苗字｝.
+MsgDisp("主人公","My name is
+｛主人公苗字｝.
 It's my pleasure to work here starting
 today.");
 VoicePlay("I532100000_49_000");
@@ -19,10 +20,12 @@ switch (ChPrmGet(21,6)){
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
     Wait(15,0);
     ChOpen(21,35,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Huh, ｛みちる＊｝? You work here?");
+    MsgDisp("主人公","Huh, ｛みちる＊｝?
+You work here?");
     ChMotion(21,3);
     VoicePlay("I532100000_21_010");
-    MsgDisp("Michiru","Right. This place is affiliated with the
+    MsgDisp("Michiru","Right.
+This place is affiliated with the
 Hanatsubaki family.");
     MsgDisp("主人公","I see.
 Let's work hard together!");
@@ -43,7 +46,8 @@ I'll have to work hard at this job!)");
     VoicePlay("I532100000_21_030");
     MsgDisp("Michiru","Mari.
 Welcome to Princess Tsubaki.");
-    MsgDisp("主人公","Huh, ｛みちる＊｝? You work here?");
+    MsgDisp("主人公","Huh, ｛みちる＊｝?
+You work here?");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,3);
@@ -59,8 +63,7 @@ It's a lovely store!");
     MsgDisp("Michiru","Right.
 Let's have fun working together.");
     MsgDisp("主人公","I'm looking forward to it!");
-    MsgDisp("主人公","(Yeah, let's work hard
-and have fun!)");
+    MsgDisp("主人公","(Yeah, let's work hard and have fun!)");
     break ;
     case 4:
     case 5:
@@ -70,16 +73,17 @@ and have fun!)");
     ChOpen(21,35,3,0,0,#1,#1,0,0);
     VoicePlay("I532100000_21_060");
     MsgDisp("Michiru","Mari, welcome.");
-    MsgDisp("主人公","Huh, ｛みちる＊｝? You work here?");
+    MsgDisp("主人公","Huh, ｛みちる＊｝?
+You work here?");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,4);
     VoicePlay("I532100000_21_070");
-    MsgDisp("Michiru","Right. I couldn't wait to see you after I
-heard you were coming to work here,
-Mari......");
-    MsgDisp("主人公","Hehe. I'm looking forward to working with
-you.");
+    MsgDisp("Michiru","Right.
+I couldn't wait to see you after I heard
+you were coming to work here, Mari......");
+    MsgDisp("主人公","Hehe.
+I'm looking forward to working with you.");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,0);

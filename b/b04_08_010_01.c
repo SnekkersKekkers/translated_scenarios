@@ -26,7 +26,8 @@ ta buy it.");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("B040801001_08_020");
-    MsgDisp("Shirahane","Sorry! I was messin' with ya to see your
+    MsgDisp("Shirahane","Sorry!
+I was messin' with ya to see your
 reaction!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -59,7 +59,8 @@ Let's both do our best!");
     VoicePlay("O040201000_02_060");
     MsgDisp("Sassa","You're on my team.
 Let's do our best together!");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Yeah!");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Yeah!");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);

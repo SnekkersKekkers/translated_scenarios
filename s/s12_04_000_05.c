@@ -43,8 +43,8 @@ school.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(Our last year of high school......
-Thanks to ｛七ツ森＊｝, I think I'll
-enjoy it too.)");
+Thanks to ｛七ツ森＊｝, I
+think I'll enjoy it too.)");
     break ;
     case 4:
     case 5:
@@ -80,8 +80,8 @@ Maybe we can keep meeting like this.");
     MsgDisp("Nanatsumori","I......more with you——");
     ChMouth(4,3);
     VoicePlay("S120400005_04_090");
-    MsgDisp("Nanatsumori","......Stop. I don't want to talk about
-this now.");
+    MsgDisp("Nanatsumori","...... Stop.
+I don't want to talk about this now.");
     MsgDisp("主人公","｛七ツ森＊｝?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -101,8 +101,8 @@ Then, see you later.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(We're graduating soon......
-Like ｛七ツ森＊｝ says, I still have a
-lot of things to do!)");
+Like ｛七ツ森＊｝ says, I
+still have a lot of things to do!)");
     break ;
     default :
     DbgAssert(1);

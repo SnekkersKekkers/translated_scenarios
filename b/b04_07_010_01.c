@@ -5,7 +5,7 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,5);
 ScrFadeIn(0);
 VoicePlay("B040701001_07_000");
-MsgDisp("Mikage","Oh. 
+MsgDisp("Mikage","Oh.
 Wouldn't this be nice?");
 MsgSel("Really, I'll go buy it!","Is that so...?","It doesn't suit me!");
 switch (MsgSelRsltGet()){
@@ -37,7 +37,8 @@ You didn't fall for it.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040701001_07_030");
-    MsgDisp("Mikage","Right. I was playing too much.");
+    MsgDisp("Mikage","Right.
+I was playing too much.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

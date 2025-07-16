@@ -10,18 +10,19 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,3,3,#1,#1,0,2);
 ChMotion(22,4,1);
 VoicePlay("P630D00000_22_000");
-MsgDisp("Hikaru","Ye～s▼
+MsgDisp("Hikaru","Ye～ s▼
 We came to hang out!");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
+MsgDisp("主人公","｛みちる＊｝,
+｛ひかる＊｝.
 Welcome!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("P630D00000_21_000");
-MsgDisp("Michiru","A nice fragrance...
-is it herbal tea?");
-MsgDisp("主人公","Right. We used the herbs the horticulture
-club grew to make tea and cookies.");
+MsgDisp("Michiru","A nice fragrance... is it herbal tea?");
+MsgDisp("主人公","Right.
+We used the herbs the horticulture club
+grew to make tea and cookies.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -35,7 +36,7 @@ ChMotion(21,3);
 VoicePlay("P630D00000_21_010");
 MsgDisp("Michiru","Let's do that.
 Then, let's go by Mari's recommendation.");
-MsgDisp("主人公","Certainly. Two customers, this way
-pleーase!");
+MsgDisp("主人公","Certainly.
+Two customers, this way pleーase!");
 MsgClose();
 ScrFadeOut(0,0);

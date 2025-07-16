@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523401_05_010");
-    MsgDisp("Hiiragi","Yes, you were spinning 
-the cup daringly.");
+    MsgDisp("Hiiragi","Yes, you were spinning the cup daringly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +37,7 @@ It's a bit interesting.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523401_05_030");
-    MsgDisp("Hiiragi","If it spills that 
-would be a catastrophe?");
+    MsgDisp("Hiiragi","If it spills that would be a catastrophe?");
     MsgDateResultDisp();
     break ;
     default :

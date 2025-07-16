@@ -38,7 +38,7 @@ This is the perfect way to get tired.");
     ScrFadeIn(0);
     VoicePlay("B060400001_04_020");
     MsgDisp("Nanatsumori","It's a shame we have to go home already.
-...I had so much fun.");
+... I had so much fun.");
     MsgDispSksp(0);
     break ;
     default :

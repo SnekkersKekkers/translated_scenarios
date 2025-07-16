@@ -9,8 +9,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110304_01_010");
-MsgDisp("Kazama","True. The noise is one of the amazing
-things over there.");
+MsgDisp("Kazama","True.
+The noise is one of the amazing things
+over there.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
@@ -23,8 +24,10 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110304_01_030");
-MsgDisp("Kazama","Shhhh. Try listening close for a bit.");
-MsgDisp("主人公","Huh? Okay. .........");
+MsgDisp("Kazama","Shhhh.
+Try listening close for a bit.");
+MsgDisp("主人公","Huh?
+Okay. .........");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -49,7 +52,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110304_01_070");
-MsgDisp("Kazama","No. What the fireflies are saying.");
+MsgDisp("Kazama","No.
+What the fireflies are saying.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

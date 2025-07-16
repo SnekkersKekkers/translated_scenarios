@@ -1,5 +1,6 @@
-MsgDisp("主人公","(Huh? What's with me? My heart is racing
-so fast......)");
+MsgDisp("主人公","(Huh?
+What's with me?
+My heart is racing so fast......)");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -14,15 +15,15 @@ VoicePlay("B070200001_02_420");
 MsgDisp("Sassa","Are you feeling sick?
 That's no good, you should get some rest.");
 MsgDisp("主人公","No, I'm not sick......
-I was looking at ｛颯砂＊＊｝ and it
-suddenly started.");
+I was looking at ｛颯砂＊＊｝ and
+it suddenly started.");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B070200001_02_430");
 MsgDisp("Sassa","Eh∋");
-MsgDisp("主人公","......Yeah. I think it calmed down a bit,
-though.");
+MsgDisp("主人公","...... Yeah.
+I think it calmed down a bit, though.");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,2);

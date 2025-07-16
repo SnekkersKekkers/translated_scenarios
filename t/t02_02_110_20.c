@@ -10,7 +10,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020211020_02_000");
 MsgDisp("Sassa","Really...?");
-MsgDisp("主人公","Yes, I want to run with ｛颯砂＊＊｝ too.");
+MsgDisp("主人公","Yes, I want to run with
+｛颯砂＊＊｝ too.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -31,7 +32,8 @@ ChMotion(2,0);
 ChEyeOpenLevel(2,10);
 ChCheek(2,0);
 VoicePlay("T020211020_02_030");
-MsgDisp("Sassa","......Yeah. Let's keep running together.");
+MsgDisp("Sassa","...... Yeah.
+Let's keep running together.");
 MsgDisp("主人公","Yes......!");
 BGMStop(2.8);
 MsgClear();

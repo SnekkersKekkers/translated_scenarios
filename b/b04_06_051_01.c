@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040605101_06_010");
-    MsgDisp("Himuro","Definitely. If you didn't have a strong
-imagination, you wouldn't think of it.");
+    MsgDisp("Himuro","Definitely.
+If you didn't have a strong imagination,
+you wouldn't think of it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +29,9 @@ imagination, you wouldn't think of it.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040605101_06_020");
-    MsgDisp("Himuro","Right. How does that look like a bear or a
-human? I seriously don't get it.");
+    MsgDisp("Himuro","Right.
+How does that look like a bear or a human?
+I seriously don't get it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

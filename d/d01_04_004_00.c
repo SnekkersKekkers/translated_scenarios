@@ -15,8 +15,9 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝! I was reading
-Habatcher and lost track of time.");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+I was reading Habatcher and lost track of
+time.");
 VoicePlay("D010400400_04_010");
 MsgDisp("Nanatsumori","Habatcher?");
 MsgDisp("主人公","Yeah.
@@ -24,9 +25,9 @@ This month is a Nana edition▼");
 ChMotion(4,0,1);
 VoicePlay("D010400400_04_020");
 MsgDisp("Nanatsumori","I see......");
-MsgDisp("主人公","Hey, I was wondering......For interviews
-do you usually carry make-up or something
-like that with you?");
+MsgDisp("主人公","Hey, I was wondering......
+For interviews do you usually carry
+make-up or something like that with you?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -37,8 +38,9 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D010400400_04_040");
-MsgDisp("Nanatsumori","Ok. Since there's no one around......Let's
-hang out a bit.");
+MsgDisp("Nanatsumori","Ok.
+Since there's no one around......
+Let's hang out a bit.");
 MsgDisp("主人公","?");
 MsgClose();
 ScrFadeOut(0);
@@ -55,26 +57,26 @@ StlMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("D010400400_04_050");
 MsgDisp("Nanatsumori","......Perfect.");
-MsgDisp("主人公","Amazing...... ｛七ツ森＊｝ really looks
+MsgDisp("主人公","Amazing......
+｛七ツ森＊｝ really looks
 like a girl∈");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400400_04_060");
-MsgDisp("Nanatsumori","Well...... I'm also good at this sort of
-thing.");
+MsgDisp("Nanatsumori","Well......
+I'm also good at this sort of thing.");
 StlEye(4,1,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("D010400400_04_070");
-MsgDisp("Nanatsumori","You've also become really cute,
-you know?");
+MsgDisp("Nanatsumori","You've also become really cute, you know?");
 MsgDisp("主人公","Really?");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("D010400400_04_080");
-MsgDisp("Nanatsumori","Really. Come on, let's take a photo
-together.");
+MsgDisp("Nanatsumori","Really.
+Come on, let's take a photo together.");
 MsgDisp("主人公","S-Sure.");
 MsgDisp("主人公","(Woah......
 I look so different∋)");
@@ -102,7 +104,8 @@ ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow......That was really fun!");
+MsgDisp("主人公","Wow......
+That was really fun!");
 VoicePlay("D010400400_04_110");
 MsgDisp("Nanatsumori","That's the most important part.");
 MsgDisp("主人公","You not only carry makeup with you, but

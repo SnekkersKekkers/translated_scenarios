@@ -12,7 +12,8 @@ ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("P540500005_05_000");
 MsgDisp("Hiiragi","｛主人公｝, good work.");
-MsgDisp("主人公","｛柊＊＊＊｝... I messed up...");
+MsgDisp("主人公","｛柊＊＊＊｝...
+I messed up...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

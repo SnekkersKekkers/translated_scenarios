@@ -15,8 +15,7 @@ VoicePlay("K010200102_02_010");
 MsgDisp("Sassa","How?
 You chose it for me.
 It's great.");
-MsgDisp("主人公","(Hm, seems like
-he liked it.)");
+MsgDisp("主人公","(Hm, seems like he liked it.)");
 MsgClose();
 BGMStop();
 MsgClose();

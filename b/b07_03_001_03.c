@@ -5,7 +5,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300001_03_150");
-MsgDisp("Honda","Yepyep, that's true! ");
+MsgDisp("Honda","Yepyep, that's true!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);

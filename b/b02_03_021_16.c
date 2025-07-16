@@ -13,5 +13,5 @@ VoicePlay("B020302116_03_010");
 MsgDisp("Honda","Because you flipped the switch, right?
 Let's have fun together today!");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like clothes like
-this, too.)");
+｛本多＊＊｝ seems to like
+clothes like this, too.)");

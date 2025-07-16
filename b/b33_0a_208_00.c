@@ -17,7 +17,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoiceEVSPlay(2);
 VoicePlay("B330A20800_02_000");
-MsgDisp("Sassa","｛主人公｝. Can you ride it 3 times?");
+MsgDisp("Sassa","｛主人公｝.
+Can you ride it 3 times?");
 MsgDisp("主人公","Yes?");
 ChEye(1,2);
 ChMouth(1,0);
@@ -75,14 +76,13 @@ VoicePlay("B330A20800_06_020");
 MsgDisp("Himuro","I hate the teacups.");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","Eh, the teacups 
-are so fun though?");
+MsgDisp("主人公","Eh, the teacups are so fun though?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20800_01_030");
-MsgDisp("Kazama","...Got it.
+MsgDisp("Kazama","... Got it.
 I'll take the teacups.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -93,22 +93,23 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B330A20800_02_030");
-MsgDisp("Sassa","Haha, he's 
-thanking you so earnestly.");
-MsgDisp("主人公","Hehe! Thank you, ｛風真＊＊｝.");
+MsgDisp("Sassa","Haha, he's thanking you so earnestly.");
+MsgDisp("主人公","Hehe!
+Thank you, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A20800_01_040");
 MsgDisp("Kazama","Then, you guys go on the roller coaster.
 We'll wait here.");
-MsgDisp("主人公","Eh? Isn't everyone going?");
+MsgDisp("主人公","Eh?
+Isn't everyone going?");
 ChMouth(1,2);
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20800_06_040");
-MsgDisp("Himuro","...It can't be helped.
+MsgDisp("Himuro","... It can't be helped.
 Ryota-senpai, let's go.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -117,8 +118,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330A20800_01_050");
 MsgDisp("Kazama","Haa, got it.
 Everyone can't go against you.");
-MsgDisp("主人公","(Yay! We're all here anyways, so I wanna
-have fun with everyone.)");
+MsgDisp("主人公","(Yay!
+We're all here anyways, so I wanna have
+fun with everyone.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

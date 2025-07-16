@@ -50,9 +50,9 @@ VoicePlay("G020640003_06_080");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
-MsgDisp("Himuro","But, even still...
-if I was older, I would be graduating a
-year earlier, and you might not like that.");
+MsgDisp("Himuro","But, even still... if I was older, I would
+be graduating a year earlier, and you
+might not like that.");
 VoicePlay("G020640003_06_090");
 ChEye(6,0);
 ChMouth(6,0);

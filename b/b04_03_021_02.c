@@ -5,8 +5,9 @@ ChMouth(3,2);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B040302102_03_000");
-MsgDisp("Honda","Hm? That person we just passed, I think I
-know them from somewhere...");
+MsgDisp("Honda","Hm?
+That person we just passed, I think I know
+them from somewhere...");
 MsgSel("A friend of yours?","I haven't passed by anyone...","Maybe they were looking at ｛本多＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -20,7 +21,8 @@ switch (MsgSelRsltGet()){
         ChMouth(3,0);
         ChMotion(3,0,1);
         VoicePlay("B040302102_03_010");
-        MsgDisp("Honda","No. I don't have that many friends.");
+        MsgDisp("Honda","No.
+I don't have that many friends.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -35,8 +37,8 @@ I don't have that many friends.");
         ChEye(3,0);
         ChMouth(3,2);
         ChMotion(3,0,1);
-        MsgDisp("主人公","Really? You don't give off that
-impression.");
+        MsgDisp("主人公","Really?
+You don't give off that impression.");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,0,1);
@@ -123,8 +125,9 @@ me to do?)");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("B040302102_03_120");
-    MsgDisp("Honda","Eh?∋ Does that mean I saw something I
-wasn't supposed to?");
+    MsgDisp("Honda","Eh?∋
+Does that mean I saw something I wasn't
+supposed to?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

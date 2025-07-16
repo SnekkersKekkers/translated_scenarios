@@ -6,7 +6,8 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(32,254,0,1,1,#1,#1,0,0);
 VoicePlay("P553200000_32_000");
-MsgDisp("VP Himuro","Ahem! Once you are satisfied, you will not
+MsgDisp("VP Himuro","Ahem!
+Once you are satisfied, you will not
 improve.");
 MsgDisp("主人公","Ah, Himuro-sensei.
 Yes...");

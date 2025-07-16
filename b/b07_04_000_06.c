@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, ｛七ツ森＊｝ what were you like in
-middle school?");
+MsgDisp("主人公","Hey, ｛七ツ森＊｝ what
+were you like in middle school?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -14,8 +14,7 @@ MsgDisp("主人公","???");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_360");
-MsgDisp("Nanatsumori","To put it simply,
-it was a dark past.");
+MsgDisp("Nanatsumori","To put it simply, it was a dark past.");
 MsgDisp("主人公","Dark past...");
 ChEye(4,0);
 ChMouth(4,2);

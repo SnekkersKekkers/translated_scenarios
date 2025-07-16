@@ -22,8 +22,7 @@ ChMotion(2,3);
 VoicePlay("D100210000_02_020");
 MsgDisp("Sassa","You and I were standing on a white podium
 together.");
-MsgDisp("主人公","Did you dream that we won a
-tournament?");
+MsgDisp("主人公","Did you dream that we won a tournament?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

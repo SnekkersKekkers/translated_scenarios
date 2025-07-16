@@ -2,7 +2,8 @@ MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510400_05_000");
 MsgDisp("Hiiragi","How does it appear to you?");
-MsgDisp("主人公","Huh? It's a beautiful and lovely scenery.");
+MsgDisp("主人公","Huh?
+It's a beautiful and lovely scenery.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -45,8 +46,9 @@ VoicePlay("G020510400_05_070");
 MsgDisp("Hiiragi","For now it's no good.
 It appears I'm emotionally invested in a
 single firefly...");
-MsgDisp("主人公","(Today, I have a feeling ｛柊＊＊＊｝ is
-different to usual......)");
+MsgDisp("主人公","(Today, I have a feeling
+｛柊＊＊＊｝ is different to
+usual......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

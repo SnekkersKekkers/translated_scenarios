@@ -18,7 +18,8 @@ What about the meeting place?");
 I'm looking forward to it.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(An invitation from ｛風真＊＊｝......
+        MsgDisp("主人公","(An invitation from
+｛風真＊＊｝......
 Is this a date?)");
         break ;
         case 5:
@@ -28,9 +29,11 @@ Where do you want me to meet you?");
         MsgDisp("主人公","How about we meet at the
 ｛待ち合わせ場所｝?");
         VoicePlay("J060101000_01_030");
-        MsgDisp("Kazama","OK. Well, we can be wherever we are. I can
-see you anywhere, right?");
-        MsgDisp("主人公","Hmmm. You have to be at the meeting point.
+        MsgDisp("Kazama","OK.
+Well, we can be wherever we are.
+I can see you anywhere, right?");
+        MsgDisp("主人公","Hmmm.
+You have to be at the meeting point.
 Get it?");
         VoicePlay("J060101000_01_040");
         MsgDisp("Kazama","Yes, it's better to see each other right
@@ -57,7 +60,8 @@ I'm a little nervous.)");
         break ;
         case 4:
         VoicePlay("J060101000_01_060");
-        MsgDisp("Kazama","U...... Oh, yeah.
+        MsgDisp("Kazama","U......
+Oh, yeah.
 No good?");
         MsgDisp("主人公","Yeah, sorry.
 Just a little bit. ......");
@@ -89,8 +93,9 @@ See you later?");
 where you are.......");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hmmm ...... You went to the trouble of
-inviting me, I'm sorry I did that. ......)");
+        MsgDisp("主人公","(Hmmm ......
+You went to the trouble of inviting me,
+I'm sorry I did that. ......)");
         break ;
         default :
         DbgAssert(1);

@@ -25,8 +25,8 @@ ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,1);
 VoicePlay("D240000003_45_000");
-MsgDisp("Shirahane Mayo","Congratulations! You're now a full-fledged
-reporter.");
+MsgDisp("Shirahane Mayo","Congratulations!
+You're now a full-fledged reporter.");
 VoicePlay("D240000003_45_010");
 MsgDisp("Shirahane Mayo","That's right! If you're okay with it,
 would you like to continue working at our

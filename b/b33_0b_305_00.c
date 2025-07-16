@@ -31,8 +31,8 @@ VoicePlay("B330B30500_01_010");
 MsgDisp("Kazama","Was it that impressive?");
 ChMotion(4,0,1);
 VoicePlay("B330B30500_04_000");
-MsgDisp("Nanatsumori","Ah... this is a nice feeling. I like this
-reverberation.");
+MsgDisp("Nanatsumori","Ah... this is a nice feeling.
+I like this reverberation.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -44,8 +44,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B30500_04_010");
-MsgDisp("Nanatsumori","No, 
-not in particular.");
+MsgDisp("Nanatsumori","No, not in particular.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -85,8 +84,10 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("B330B30500_04_040");
-MsgDisp("Nanatsumori","｛主人公｝, you get it right?");
-MsgDisp("主人公","(That's just like ｛七ツ森＊｝.
+MsgDisp("Nanatsumori","｛主人公｝, you get it
+right?");
+MsgDisp("主人公","(That's just like
+｛七ツ森＊｝.
 I feel a bit bad for those two though...)");
 MsgClose();
 ScrFadeOut(0,0);

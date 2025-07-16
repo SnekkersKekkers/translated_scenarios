@@ -1,5 +1,7 @@
-MsgDisp("主人公","What kind of person am I to ｛氷室＊＊｝,
-｛柊＊＊＊｝ and ｛御影＊＊｝?");
+MsgDisp("主人公","What kind of person am I to
+｛氷室＊＊｝,
+｛柊＊＊＊｝ and
+｛御影＊＊｝?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -37,7 +39,8 @@ MsgDisp("Himuro","If you're worried about being the only
 girl, that's nonsense.
 That's all.");
 MsgDisp("主人公","Yeah, thank you.");
-MsgDisp("主人公","(That's ｛氷室＊＊｝'s way of supporting me.
+MsgDisp("主人公","(That's ｛氷室＊＊｝'s way of
+supporting me.
 I'm happy.)");
 BGMStop();
 MsgClose();

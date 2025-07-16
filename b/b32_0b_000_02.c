@@ -1,7 +1,7 @@
 BGMPlay("BGM_HANYOU_A",0.01);
 ChMouth(4,3);
 VoicePlay("B320B00002_04_000");
-MsgDisp("Nanatsumori","Yeah. 
+MsgDisp("Nanatsumori","Yeah.
 I set two alarms today.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -23,5 +23,6 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B320B00002_04_010");
-MsgDisp("Nanatsumori","Pfft. You're like a kid looking forward to
-the school trip.");
+MsgDisp("Nanatsumori","Pfft.
+You're like a kid looking forward to the
+school trip.");

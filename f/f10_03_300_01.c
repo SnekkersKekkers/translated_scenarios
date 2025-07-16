@@ -5,7 +5,8 @@ VoicePlay("F100330001_22_000");
 MsgDisp("Hikaru?","Mari!
 This way, this way!");
 MsgDisp("主人公","Hm?");
-MsgDisp("主人公","｛ひかる＊｝, what's everyone up to?");
+MsgDisp("主人公","｛ひかる＊｝, what's
+everyone up to?");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(22,254,0,0,3,#1,#1,0,1,0,30);
@@ -26,7 +27,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F100330001_21_010");
 MsgDisp("Michiru","Honda's sister seems to be very interested
-in fashion. Hehe.");
+in fashion.
+Hehe.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -38,8 +40,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100330001_22_020");
-MsgDisp("Hikaru","Aha▼ What a precocious child～♪ Her
-future will be bright.");
+MsgDisp("Hikaru","Aha▼
+What a precocious child～♪
+Her future will be bright.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

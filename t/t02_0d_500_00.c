@@ -8,7 +8,9 @@ SEWait();
 BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
-MsgDisp("主人公","Ah. ｛みちる＊｝, ｛ひかる＊｝!");
+MsgDisp("主人公","Ah.
+｛みちる＊｝,
+｛ひかる＊｝!");
 ChMotion(22,4,1);
 VoicePlay("T020D50000_22_000");
 MsgDisp("Hikaru","Congratulations on your graduation, Mari♪");
@@ -16,8 +18,9 @@ MsgDisp("主人公","Yes, congratulations on your graduation,
 you guys...");
 ChMotion(21,4);
 VoicePlay("T020D50000_21_010");
-MsgDisp("Michiru","Yeah. Now that it's ended, we won't be
-walking home together?");
+MsgDisp("Michiru","Yeah.
+Now that it's ended, we won't be walking
+home together?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
 MsgClose();
 ScrFadeOut(0);
@@ -31,14 +34,15 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0);
 ScrFadeIn(0);
-MsgDisp("主人公","...Huh?
+MsgDisp("主人公","... Huh?
 Now that I think of it, this——");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("T020D50000_21_020");
-MsgDisp("Michiru","Yeah. This is the first time the three of
-us have gone home together.");
+MsgDisp("Michiru","Yeah.
+This is the first time the three of us
+have gone home together.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -52,14 +56,16 @@ ChMotion(21,4);
 VoicePlay("T020D50000_21_030");
 MsgDisp("Michiru","...Hey, Mari do you remember the day we
 first met?");
-MsgDisp("主人公","Ah... yes. I feel like I was startled by a
-lot of things to begin with.");
+MsgDisp("主人公","Ah... yes.
+I feel like I was startled by a lot of
+things to begin with.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("T020D50000_22_020");
-MsgDisp("Hikaru","Right! But, still I'm really happy you
-became friends with Hikaru!");
+MsgDisp("Hikaru","Right!
+But, still I'm really happy you became
+friends with Hikaru!");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -77,9 +83,10 @@ ChMotion(21,4);
 VoicePlay("T020D50000_21_050");
 MsgDisp("Michiru","?");
 MsgDisp("主人公","There were a lot of strange things
-happening, yes... but ｛みちる＊｝ and
-｛ひかる＊｝ were always my friends
-and everyday was so fun!");
+happening, yes... but
+｛みちる＊｝ and
+｛ひかる＊｝ were
+always my friends and everyday was so fun!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -94,7 +101,8 @@ VoicePlay("T020D50000_21_060");
 MsgDisp("Michiru","Me too.
 Because of Mari and Hikaru, every day
 really shines...");
-MsgDisp("主人公","Hehe. This is the first time you've said
+MsgDisp("主人公","Hehe.
+This is the first time you've said
 something like that.");
 ChEye(22,0);
 ChMouth(22,0);
@@ -105,8 +113,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("T020D50000_21_070");
-MsgDisp("Michiru","...Hmm. I guess it's a little
-embarrassing.");
+MsgDisp("Michiru","... Hmm.
+I guess it's a little embarrassing.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

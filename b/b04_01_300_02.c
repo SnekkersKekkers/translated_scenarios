@@ -78,8 +78,7 @@ same as before.");
         VoicePlay("B040130002_01_060");
         MsgDisp("Kazama","And you're the same as before.
 Actually, above my imagination actually.");
-        MsgDisp("主人公","I see,
-we've grown quite a lot.");
+        MsgDisp("主人公","I see, we've grown quite a lot.");
         ChEye(1,4);
         ChMouth(1,4);
         ChMotion(1,4);
@@ -131,8 +130,9 @@ neighborhood who was my friend now.");
         VoicePlay("B040130002_01_120");
         MsgDisp("Kazama","Why would I tell you, idiot?
 I'm not saying it, idiot!");
-        MsgDisp("主人公","(Ugh... I got scolded... But, my heart is
-racing somehow...)");
+        MsgDisp("主人公","(Ugh...
+I got scolded...
+But, my heart is racing somehow...)");
         BGMStop();
         break ;
         default :

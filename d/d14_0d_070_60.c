@@ -27,9 +27,9 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("D140D07060_22_020");
-MsgDisp("Hikaru","It can't be helped～ Since his relative is
-a famed vice principal in the same
-school... right?");
+MsgDisp("Hikaru","It can't be helped～
+Since his relative is a famed vice
+principal in the same school... right?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);

@@ -25,9 +25,11 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B150700000_07_030");
-MsgDisp("Mikage","Haaa.. Don't overdo it. You'll shatter my
-image of Miss Diligent.");
-MsgDisp("主人公","I wanted to touch ｛御影＊＊｝...");
+MsgDisp("Mikage","Haaa..
+Don't overdo it.
+You'll shatter my image of Miss Diligent.");
+MsgDisp("主人公","I wanted to touch
+｛御影＊＊｝...");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);

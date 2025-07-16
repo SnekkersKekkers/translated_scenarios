@@ -33,7 +33,8 @@ ChEye(3,4);
 ChMouth(3,1);
 ChMotion(3,5);
 VoicePlay("B070300000_03_050");
-MsgDisp("Honda","Ehh! You too?
+MsgDisp("Honda","Ehh!
+You too?
 That makes me sad......");
 ChEye(3,4);
 ChMouth(3,4);

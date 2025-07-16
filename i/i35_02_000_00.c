@@ -7,7 +7,8 @@ switch (ChPrmGet(2,6)){
     case 2:
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
-    MsgDisp("主人公","Welcome! Ah, ｛颯砂＊＊｝?");
+    MsgDisp("主人公","Welcome!
+Ah, ｛颯砂＊＊｝?");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,3,0,4,#1,#1,0,0);
@@ -22,8 +23,9 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","I guess I'm lucky today.
 I got lured in by the smell of coffee, and
 you were here.");
-    MsgDisp("主人公","Hehe. The coffee at Alucard is the best,
-you know?");
+    MsgDisp("主人公","Hehe.
+The coffee at Alucard is the best, you
+know?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -49,29 +51,31 @@ It was good.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("I350200000_02_040");
-    MsgDisp("Sassa","Yeah. Your uniform was amazing. I'll come
-again.");
+    MsgDisp("Sassa","Yeah.
+Your uniform was amazing.
+I'll come again.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(2);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(......Uniform?
+    MsgDisp("主人公","(......
+Uniform?
 Not the coffee?)");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome♪");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Welcome♪");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,3,0,3,#1,#1,0,0);
     VoicePlay("I350200000_02_050");
     MsgDisp("Sassa","This is it, that smell and your voice.
 This place really is great.");
-    MsgDisp("主人公","Hehe, it seems like you
-like it here?");
+    MsgDisp("主人公","Hehe, it seems like you like it here?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -91,7 +95,8 @@ Ha......");
     ChMotion(2,4);
     VoicePlay("I350200000_02_080");
     MsgDisp("Sassa","It might be kind of addictive.");
-    MsgDisp("主人公","Huh?　You're exaggerating......");
+    MsgDisp("主人公","Huh?
+You're exaggerating......");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -137,7 +142,8 @@ entrance here. Come this way.");
     ChOpen(2,40,2,0,0,#1,#1,10,0);
     VoicePlay("I350200000_02_130");
     MsgDisp("Sassa","H, huh......");
-    MsgDisp("主人公","What is it? ｛颯砂＊＊｝.");
+    MsgDisp("主人公","What is it?
+｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -164,8 +170,9 @@ See you.");
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("I350200000_02_170");
-    MsgDisp("Sassa","Haaa...... What am I thinking while
-training...... I'm seriously sick.");
+    MsgDisp("Sassa","Haaa......
+What am I thinking while training......
+I'm seriously sick.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
@@ -173,8 +180,8 @@ training...... I'm seriously sick.");
     SEWait();
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","(He left......
-I wonder what ｛颯砂＊＊｝ was thinking
-while running?)");
+I wonder what ｛颯砂＊＊｝ was
+thinking while running?)");
     break ;
     default :
     DbgAssert(1);

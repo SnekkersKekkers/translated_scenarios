@@ -20,8 +20,7 @@ ChMotion(4,2,1);
 VoicePlay("B150400200_04_020");
 MsgDisp("Nanatsumori","Ahー, heyー...
 Ah～...");
-MsgDisp("主人公","Sorry, 
-I won't touch you anymore.");
+MsgDisp("主人公","Sorry, I won't touch you anymore.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
@@ -39,8 +38,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B150400200_04_050");
-MsgDisp("Nanatsumori","But... even I don't dislike it. If I
-could, I would also——");
+MsgDisp("Nanatsumori","But... even I don't dislike it.
+If I could, I would also——");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

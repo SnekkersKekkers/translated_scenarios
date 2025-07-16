@@ -27,8 +27,9 @@ I like it.");
     ChMotion(21,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("F012100005_21_020");
-    MsgDisp("Michiru","Of course! Being able to talk with Mari
-after school... it makes me so happy.");
+    MsgDisp("Michiru","Of course!
+Being able to talk with Mari after
+school... it makes me so happy.");
     MsgDisp("主人公","Haha, me too, I guess?");
     ChEye(21,0);
     ChMouth(21,3);

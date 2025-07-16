@@ -54,8 +54,9 @@ This is enough after all.");
         MsgDisp("Mikage","I see.
 But if you're serious, don't hold back.
 You always accompany me, after all.");
-        MsgDisp("主人公","Eh? That's not my intention. I'm also
-having fun...");
+        MsgDisp("主人公","Eh?
+That's not my intention.
+I'm also having fun...");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,3);
@@ -79,7 +80,9 @@ It's a win-win situation.");
         ChMotion(7,3);
         VoicePlay("B040723302_07_080");
         MsgDisp("Mikage","As punishment, I'm jumping again.");
-        MsgDisp("主人公","Eh...Ehhh∋ ｛御影＊＊｝∋");
+        MsgDisp("主人公","Eh...
+Ehhh∋
+｛御影＊＊｝∋");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
@@ -91,8 +94,8 @@ It's a win-win situation.");
         SEWait();
         VoicePlay("B040723302_07_090");
         MsgDisp("Mikage","Uwaaah∈");
-        MsgDisp("主人公","(I wonder if ｛御影＊＊｝ will be
-okay?)");
+        MsgDisp("主人公","(I wonder if ｛御影＊＊｝
+will be okay?)");
         break ;
         default :
         DbgAssert(1);

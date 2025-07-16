@@ -23,7 +23,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("G020420100_04_030");
-MsgDisp("Nanatsumori","Haa......sorry.
+MsgDisp("Nanatsumori","Haa...... sorry.
 It's not to do with anything that happened
 on our date today.");
 ChEye(4,2);
@@ -36,8 +36,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020420100_04_050");
-MsgDisp("Nanatsumori","Did I do something to 
-make you dislike me?");
+MsgDisp("Nanatsumori","Did I do something to make you dislike me?");
 MsgDisp("主人公","Eh?");
 ChEye(4,2);
 ChMouth(4,2);
@@ -57,9 +56,9 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("G020420100_04_080");
 MsgDisp("Nanatsumori","PLease......don't come to dislike me.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems like he's
-hurting...... I wonder if there's
-something I did to cause this......)");
+MsgDisp("主人公","(｛七ツ森＊｝ seems like he's hurting......
+I wonder if there's something I did to
+cause this......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,8 +14,7 @@ ChOpen(2,255,0,0,4,#1,#1,0,3);
 SEPlay("EV_SE_817");
 ScrFadeIn(0);
 Wait(30,0);
-MsgDisp("主人公","Waa...that was intense, 
-that speed...");
+MsgDisp("主人公","Waa...that was intense, that speed...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -26,8 +25,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30700_01_000");
-MsgDisp("Kazama","Maybe. IF it was all quiet, it would feel
-boring.");
+MsgDisp("Kazama","Maybe.
+IF it was all quiet, it would feel boring.");
 SEWait();
 ChEye(6,0);
 ChMouth(6,0);
@@ -45,8 +44,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A30700_06_020");
-MsgDisp("Himuro","It just felt that 
-way for some reason.");
+MsgDisp("Himuro","It just felt that way for some reason.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -74,28 +72,25 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A30700_02_010");
-MsgDisp("Sassa","You said that so
-smoothly just now.");
+MsgDisp("Sassa","You said that so smoothly just now.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30700_01_040");
-MsgDisp("Kazama","I just feel bad 
-cause she's scared?");
+MsgDisp("Kazama","I just feel bad cause she's scared?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A30700_06_030");
-MsgDisp("Himuro","That's what we mean,
-Ryota-senpai.");
+MsgDisp("Himuro","That's what we mean, Ryota-senpai.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30700_01_050");
-MsgDisp("Kazama","...Understood. Then, how should we decide
-on seats?");
+MsgDisp("Kazama","... Understood.
+Then, how should we decide on seats?");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Umm... I'll be fine by myself? Since I
@@ -124,8 +119,7 @@ ScrFadeOut(0);
 VoicePlay("B330A30700_01_070");
 VoicePlay("B330A30700_02_030");
 VoicePlay("B330A30700_06_050");
-MsgDisp("Everyone","Rock-, paper, 
-scissors, shoot!");
+MsgDisp("Everyone","Rock-, paper, scissors, shoot!");
 VoicePlay("B330A30700_01_080");
 VoicePlay("B330A30700_02_040");
 VoicePlay("B330A30700_06_060");

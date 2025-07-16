@@ -18,8 +18,9 @@ ScrFadeIn(0);
 Wait(60);
 MsgDisp("主人公","This month's student council posterー?");
 VoicePlay("T040520000_05_010");
-MsgDisp("Hiiragi","Yes. I got some advice from Inori-kun, so
-I could make everyone understand clearly.");
+MsgDisp("Hiiragi","Yes.
+I got some advice from Inori-kun, so I
+could make everyone understand clearly.");
 VoicePlay("T040520000_06_000");
 MsgDisp("Himuro","That's right.
 The message you want to deliver is just
@@ -27,7 +28,7 @@ The message you want to deliver is just
 VoicePlay("T040520000_05_020");
 MsgDisp("Hiiragi","Yes I've been wasting my time thus far.
 Next month's message has been decided.
-'Say your greetings!'.");
+'Say your greetings! '.");
 VoicePlay("T040520000_06_010");
 MsgDisp("Himuro","This is great isn't it? I like
 Yanosuke-senpai's simple series of

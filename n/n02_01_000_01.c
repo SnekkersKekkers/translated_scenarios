@@ -63,8 +63,8 @@ I'll really have to do better than this.)");
     ScrFadeIn(0);
     VoicePlay("N020100001_01_070");
     MsgDisp("Kazama","Hmm, this is bad.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Have you seen the
-results?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Have you seen the results?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -78,7 +78,8 @@ this.");
     VoicePlay("N020100001_01_090");
     MsgDisp("Kazama","Trust me on this.
 There's no mistaking it at this point.");
-    MsgDisp("主人公","Yeah... You're right!");
+    MsgDisp("主人公","Yeah...
+You're right!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

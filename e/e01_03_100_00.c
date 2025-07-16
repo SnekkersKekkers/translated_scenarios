@@ -16,7 +16,8 @@ ChEyeOpenLevel(3,8);
 VoicePlay("E010310000_03_010");
 MsgDisp("Honda","Huhu, is it possible that you
 also～......?");
-MsgDisp("主人公","Eh? What?");
+MsgDisp("主人公","Eh?
+What?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -57,10 +58,11 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010310000_03_070");
-MsgDisp("Honda","Is that so? Why?");
+MsgDisp("Honda","Is that so?
+Why?");
 MsgDisp("主人公","Because I won't be able to eat dinner
-then.
-Are you gonna be able to, ｛本多＊＊｝?");
+then. Are you gonna be able to,
+｛本多＊＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

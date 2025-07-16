@@ -7,7 +7,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020120100_01_010");
-MsgDisp("Kazama","No, not 'Huh?'.
+MsgDisp("Kazama","No, not 'Huh? '.
 I'm talking about you.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -23,8 +23,9 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_030");
-MsgDisp("Kazama","......Sorry. But I want to know how you
-feel, even just a little.");
+MsgDisp("Kazama","...... Sorry.
+But I want to know how you feel, even just
+a little.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -45,8 +46,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120100_01_060");
-MsgDisp("Kazama","Hah. I'm a lowlife, taking advantage of
-those feelings of yours to bring you here.");
+MsgDisp("Kazama","Hah.
+I'm a lowlife, taking advantage of those
+feelings of yours to bring you here.");
 MsgDisp("主人公","You're not a lowlife.");
 ChEye(1,0);
 ChMouth(1,4);
@@ -63,8 +65,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_080");
 MsgDisp("Kazama","I guess being at a slight disadvantage is
 just the right handicap.");
-MsgDisp("主人公","(I think ｛風真＊＊｝ is worried about
-something......)");
+MsgDisp("主人公","(I think ｛風真＊＊｝ is
+worried about something......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

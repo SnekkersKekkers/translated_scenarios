@@ -12,8 +12,9 @@ BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛御影＊＊｝. Do you look after the
-plants on your lunch break too?");
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Do you look after the plants on your lunch
+break too?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -36,8 +37,9 @@ VoicePlay("G110700700_07_030");
 MsgDisp("Mikage","That's right. It's easy to tell when an
 animal is in a bad mood, like Momo at the
 farm the other day.");
-MsgDisp("主人公","Hehe. ｛御影＊＊｝ can understand the
-feelings of both plants and animals.");
+MsgDisp("主人公","Hehe. ｛御影＊＊｝ can
+understand the feelings of both plants and
+animals.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -60,16 +62,17 @@ ChMotion(7,0);
 VoicePlay("G110700700_07_050");
 MsgDisp("Mikage","Oh, that's the warning bell.
 Go get ready for the next class.");
-MsgDisp("主人公","Yes. But, next up is ｛御影＊＊｝'s
-biology class, isn't it?");
+MsgDisp("主人公","Yes. But, next up is
+｛御影＊＊｝'s biology
+class, isn't it?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("G110700700_07_060");
 MsgDisp("Mikage","Ah, that's right, isn't it?
 Then, shall we go together?");
-MsgDisp("主人公","｛御影＊＊｝ are you going in those
-clothes?");
+MsgDisp("主人公","｛御影＊＊｝ are you
+going in those clothes?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -80,8 +83,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Hehe ｛御影＊＊｝, Are you going to
-make in time for class?)");
+MsgDisp("主人公","(Hehe ｛御影＊＊｝, Are
+you going to make in time for class?)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

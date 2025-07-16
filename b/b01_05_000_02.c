@@ -3,8 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like I got here a little early...
 Huh?)");
-MsgDisp("主人公","｛柊＊＊＊｝! This is before our meeting
-time, right?");
+MsgDisp("主人公","｛柊＊＊＊｝!
+This is before our meeting time, right?");
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 switch (ChPrmGet(5,6)){
     case 0:
@@ -33,8 +33,9 @@ Well, let's be off then!");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B010500002_05_020");
-    MsgDisp("Hiiragi","Yes. Though I am sure I would enjoy
-walking with you more.");
+    MsgDisp("Hiiragi","Yes.
+Though I am sure I would enjoy walking
+with you more.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -42,7 +43,8 @@ walking with you more.");
     MsgClose();
     ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_030");
-    MsgDisp("Hiiragi","Yes. I wanted to see your surprised face.");
+    MsgDisp("Hiiragi","Yes.
+I wanted to see your surprised face.");
     MsgDisp("主人公","Hey, that's mean.");
     ChMouth(5,4);
     ChMotion(5,4);

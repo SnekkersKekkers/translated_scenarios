@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040323101_03_010");
     MsgDisp("Honda","Okay... what is it about roller coasters
-that fascinates you so much? Let's
-reconfirm it!");
+that fascinates you so much?
+Let's reconfirm it!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ reconfirm it!");
     ChEye(3,1);
     ChSet(3,2);
     VoicePlay("B040323101_03_020");
-    MsgDisp("Honda","Ehhhー... You want to see my face frozen
-in fear?");
+    MsgDisp("Honda","Ehhhー...
+You want to see my face frozen in fear?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,8 +37,7 @@ in fear?");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B040323101_03_030");
-    MsgDisp("Honda","Well, I kind of get 
-why you can't miss it.");
+    MsgDisp("Honda","Well, I kind of get why you can't miss it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

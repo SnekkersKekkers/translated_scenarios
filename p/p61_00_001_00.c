@@ -1,12 +1,12 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","A phone call...
-it's from the club leader.");
+MsgDisp("主人公","A phone call... it's from the club leader.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
-MsgDisp("主人公","Yes. Hello?");
+MsgDisp("主人公","Yes.
+Hello?");
 VoicePlay("P610000100_46_000");
 MsgDisp("Manager","I'm sorry for calling you on a day off.
 From next week, we will start the

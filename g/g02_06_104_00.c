@@ -5,7 +5,8 @@ ChMotion(6,0);
 VoicePlay("G020610400_06_000");
 MsgDisp("Himuro","Lately, my mom keeps asking me: \"Did
 something good happen?\"");
-MsgDisp("主人公","Really! Did something actually happen?");
+MsgDisp("主人公","Really!
+Did something actually happen?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -45,9 +46,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610400_06_060");
-MsgDisp("Himuro","Yeah. It's true that having a mom who
-notices subtle changes is amazing,
-but......");
+MsgDisp("Himuro","Yeah.
+It's true that having a mom who notices
+subtle changes is amazing, but......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

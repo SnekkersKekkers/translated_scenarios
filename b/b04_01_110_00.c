@@ -22,7 +22,9 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         ChCheek(1,7);
         VoicePlay("B040111000_01_010");
-        MsgDisp("Kazama","A... Mermaid. In Habataki City.");
+        MsgDisp("Kazama","A...
+Mermaid.
+In Habataki City.");
         MsgDispSksp(1,7);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -59,7 +61,8 @@ through?");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040111000_01_040");
-    MsgDisp("Kazama","Nice. Ask for a big one, please.");
+    MsgDisp("Kazama","Nice.
+Ask for a big one, please.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

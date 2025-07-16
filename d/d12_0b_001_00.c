@@ -40,15 +40,16 @@ distance......");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D120B00100_01_010");
 MsgDisp("Kazama","True.");
-MsgDisp("主人公","Hey! What are you guys doing up on the
-rooftop?");
+MsgDisp("主人公","Hey!
+What are you guys doing up on the rooftop?");
 StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00100_03_020");
 MsgDisp("Honda","We were trying telepathy on you!");
 MsgDisp("主人公","Eh, telepathy?");
 VoicePlay("D120B00100_03_030");
-MsgDisp("Honda","Yeah! Out of the three of us, we wanted to
-see whose telepathy could reach you first!");
+MsgDisp("Honda","Yeah!
+Out of the three of us, we wanted to see
+whose telepathy could reach you first!");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D120B00100_01_020");
 MsgDisp("Kazama","Hey, it was mine, wasn't it?");
@@ -59,14 +60,14 @@ StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00100_03_040");
 MsgDisp("Honda","Mine was the most surprising, right?");
 StlEyeOpenLevel(1,#1);
-MsgDisp("主人公","S......Sorry!
-I felt like someone was watching me but I
-couldn't tell who it was!");
+MsgDisp("主人公","S......Sorry! I felt like someone was
+watching me but I couldn't tell who it
+was!");
 StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00100_03_050");
 MsgDisp("Honda","I see.
-Thanks for your help anyway.∈ Be careful
-on the way home!");
+Thanks for your help anyway.
+∈ Be careful on the way home!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
@@ -75,8 +76,9 @@ BGOpen("sc130",1);
 Wait(15,1);
 ScrFadeIn(0);
 MsgDisp("主人公","(They're all waving together......Hehe!
-It's probably who ｛本多＊＊｝ comes up
-with such weird games for them to play?)");
+It's probably who ｛本多＊＊｝
+comes up with such weird games for them to
+play?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

@@ -64,7 +64,8 @@ prolonged trip.");
 all over the country, but it wasn't on a
 sea voyage.");
         MsgDisp("主人公","I see.
-｛柊＊＊＊｝ is accustomed to travelling.");
+｛柊＊＊＊｝ is accustomed to
+travelling.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040502202_05_060");

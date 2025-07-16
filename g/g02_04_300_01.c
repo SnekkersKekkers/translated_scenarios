@@ -53,8 +53,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020430001_04_100");
 MsgDisp("Nanatsumori","I actually like this group.");
-MsgDisp("主人公","(Hehe! I bet everyone else feels the same
-way.)");
+MsgDisp("主人公","(Hehe!
+I bet everyone else feels the same way.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

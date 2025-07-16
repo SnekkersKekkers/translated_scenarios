@@ -34,8 +34,9 @@ Please don't look at me?");
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_020");
         MsgDisp("Nanatsumori","Is that so?");
-        MsgDisp("主人公","Yeah. There's a sort of grown-up, sexy
-look to it...");
+        MsgDisp("主人公","Yeah.
+There's a sort of grown-up, sexy look to
+it...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,1,1);
@@ -47,7 +48,7 @@ look to it...");
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_040");
         MsgDisp("Nanatsumori","Eh?
-...What did you think I was?");
+... What did you think I was?");
         MsgDisp("主人公","I thought you were a model who could fit
 into any situation.");
         ChEye(4,0);
@@ -55,10 +56,11 @@ into any situation.");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040423302_04_050");
-        MsgDisp("Nanatsumori","...Wow.
+        MsgDisp("Nanatsumori","... Wow.
 That's kind of surprising.");
         ChEyeOpenLevel(4,#1);
-        MsgDisp("主人公","Really? ｛七ツ森＊｝'s work photos
+        MsgDisp("主人公","Really?
+｛七ツ森＊｝'s work photos
 always show a different world.");
         ChEye(4,5);
         ChMouth(4,2);

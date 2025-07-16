@@ -17,13 +17,13 @@ Off we go then!");
     ChMotion(2,0);
     VoicePlay("Q040200001_02_010");
     MsgDisp("Sassa","Sure.");
-    MsgDisp("主人公","Awesome! I'm glad you agreed.");
+    MsgDisp("主人公","Awesome!
+I'm glad you agreed.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,0);
     VoicePlay("Q040200001_02_020");
-    MsgDisp("Sassa","Come on,
-there's no way I won't go.");
+    MsgDisp("Sassa","Come on, there's no way I won't go.");
     MsgDisp("主人公","Hehe, thanks.");
     break ;
     case 4:

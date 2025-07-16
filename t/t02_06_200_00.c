@@ -25,7 +25,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020620000_06_020");
 MsgDisp("Himuro","That's because I was pushed by those two.");
-MsgDisp("主人公","Could it be...... ｛風真＊＊｝ and
+MsgDisp("主人公","Could it be......
+｛風真＊＊｝ and
 ｛颯砂＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -47,7 +48,8 @@ SEPlay("EV_SE_544");
 ChOpen(6,254,7,0,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020620000_06_050");
-MsgDisp("Himuro","｛主人公｝, I've always loved you.");
+MsgDisp("Himuro","｛主人公｝, I've always
+loved you.");
 MsgDisp("主人公","!");
 ChEye(6,4);
 ChMouth(6,3);

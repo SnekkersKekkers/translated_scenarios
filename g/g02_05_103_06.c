@@ -10,8 +10,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("G020510306_05_010");
-MsgDisp("Hiiragi","Yes. You and I had sweet sake there. Why
-am I remembering it now......");
+MsgDisp("Hiiragi","Yes.
+You and I had sweet sake there.
+Why am I remembering it now......");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510306_05_020");
 MsgDisp("Hiiragi","This place is also mysterious.

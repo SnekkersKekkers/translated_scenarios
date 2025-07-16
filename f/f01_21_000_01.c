@@ -24,7 +24,7 @@ her that.)");
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
     ChOpen(21,254,0,5,4,#1,#1,0,0);
     VoicePlay("F012100001_21_010");
-    MsgDisp("Michiru","...Huh?
+    MsgDisp("Michiru","... Huh?
 Are you talking to me?");
     MsgDisp("主人公","Yes.");
     ChEye(21,2);
@@ -55,8 +55,9 @@ Are you joking?");
     ChMouth(21,0);
     ChMotion(21,5);
     VoicePlay("F012100001_21_040");
-    MsgDisp("Michiru","No... But wouldn't even Mari get mad for
-the second time?");
+    MsgDisp("Michiru","No...
+But wouldn't even Mari get mad for the
+second time?");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

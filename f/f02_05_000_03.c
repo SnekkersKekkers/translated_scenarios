@@ -44,12 +44,13 @@ VoicePlay("F020500003_05_060");
 MsgDisp("Hiiragi","After all, it seems that the leaders of
 the initiative are Vice Principal Himuro
 and Chairman Amanohashi.");
-MsgDisp("主人公","Is that what ｛御影＊＊｝ said?");
+MsgDisp("主人公","Is that what ｛御影＊＊｝
+said?");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,3);
 VoicePlay("F020500003_05_070");
-MsgDisp("Hiiragi","Yes......is that okay?
+MsgDisp("Hiiragi","Yes...... is that okay?
 This will be our secret.
 You understand, right?");
 MsgDisp("主人公","Um, sure......");
@@ -57,5 +58,6 @@ ChMotion(5,0,1);
 VoicePlay("F020500003_05_080");
 MsgDisp("Hiiragi","If this information leaks, then
 Mikage-sensei will most likely be fired.");
-MsgDisp("主人公","(｛柊＊＊＊｝, isn't ｛御影＊＊｝ just
-playing with you?)");
+MsgDisp("主人公","(｛柊＊＊＊｝, isn't
+｛御影＊＊｝ just playing
+with you?)");

@@ -24,5 +24,6 @@ ChMotion(4,2);
 VoicePlay("B020401001_04_020");
 MsgDisp("Nanatsumori","Not quite right...
 Such a waste...");
-MsgDisp("主人公","(Aww... ｛七ツ森＊｝ doesn't seem to
-like this swimsuit much...)");
+MsgDisp("主人公","(Aww...
+｛七ツ森＊｝ doesn't seem
+to like this swimsuit much...)");

@@ -39,7 +39,8 @@ Were you dreaming?");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040605100_06_030");
-    MsgDisp("Himuro","Haa... I can't believe this.");
+    MsgDisp("Himuro","Haa...
+I can't believe this.");
     MsgDateResultDisp();
     break ;
     default :

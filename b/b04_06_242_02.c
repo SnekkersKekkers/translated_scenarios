@@ -39,7 +39,7 @@ it.");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040624202_06_030");
-        MsgDisp("Himuro","...Wait here.
+        MsgDisp("Himuro","... Wait here.
 I'll cook another batch.");
         MsgDisp("主人公","Eh, that would be such a waste!");
         ChEye(6,0);
@@ -49,8 +49,8 @@ I'll cook another batch.");
         MsgDisp("Himuro","That's true but...
 Then, you should eat only the nicely
 cooked parts.");
-        MsgDisp("主人公","Thanks. But, let's eat the burnt parts
-together?");
+        MsgDisp("主人公","Thanks.
+But, let's eat the burnt parts together?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -61,7 +61,7 @@ together?");
         ChMouth(6,4);
         ChMotion(6,1);
         VoicePlay("B040624202_06_060");
-        MsgDisp("Himuro","...Ah, I see.
+        MsgDisp("Himuro","... Ah, I see.
 Then, do as you'd like.");
         MsgDisp("主人公","Okay.");
         ChEye(6,0);
@@ -92,7 +92,7 @@ That's all.");
     ChMotion(6,0,1);
     VoicePlay("B040624202_06_090");
     MsgDisp("Himuro","Thanks for saying that.
-...No, that wasn't sarcastic.");
+... No, that wasn't sarcastic.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

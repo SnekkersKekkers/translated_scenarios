@@ -2,19 +2,21 @@ BGOpen("ho210",2);
 ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","(Ah, a phone call......A private number?)");
+MsgDisp("主人公","(Ah, a phone call......
+A private number?)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 MsgDisp("主人公","......Hello?");
 VoicePlay("D030901200_09_000");
 MsgDisp("Kuya","Hello.
-It's me......can you hear me?");
+It's me...... can you hear me?");
 MsgDisp("主人公","That voice, Kuya-san!
 I was a little hesitant to answer because
 of the private number.");
 VoicePlay("D030901200_09_010");
-MsgDisp("Kuya","Ah......I'm calling from my home phone.
+MsgDisp("Kuya","Ah......
+I'm calling from my home phone.
 Maybe sis made it that way.");
 MsgDisp("主人公","What about your cellphone?");
 VoicePlay("D030901200_09_020");
@@ -33,12 +35,13 @@ VoicePlay("D030901200_09_040");
 MsgDisp("Kuya","Haha, I get that.
 But unlike you, I wasn't studying much
 back then.");
-MsgDisp("主人公","Hehe. What about Kuya-san, how's studying
-for entrance exams going?");
+MsgDisp("主人公","Hehe.
+What about Kuya-san, how's studying for
+entrance exams going?");
 VoicePlay("D030901200_09_050");
-MsgDisp("Kuya","I'm desperate......I can't stop thinking
-about you and I hate that I can't
-concentrate on studying.");
+MsgDisp("Kuya","I'm desperate......
+I can't stop thinking about you and I hate
+that I can't concentrate on studying.");
 MsgDisp("主人公","I-I see.
 Maybe we should study together, then?");
 VoicePlay("D030901200_09_060");

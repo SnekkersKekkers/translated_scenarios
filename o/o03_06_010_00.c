@@ -2,15 +2,15 @@ switch (ChPrmGet(6,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030601000_06_000");
     MsgDisp("Himuro","You don't have a partner?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Yeah, not yet.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Yeah, not yet.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -22,15 +22,15 @@ I'll pair with you.");
 Thanks.");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030601000_06_020");
     MsgDisp("Himuro","Are you looking for a partner?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Yeah, I am.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+Yeah, I am.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -41,13 +41,11 @@ with you.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     VoicePlay("O030601000_48_000");
     MsgDisp("School Girl A","I wanna run with Himuro-kun～!");
     VoicePlay("O030601000_46_000");
-    MsgDisp("School Girl B","But you just
-got rejected, right?");
+    MsgDisp("School Girl B","But you just got rejected, right?");
     VoicePlay("O030601000_48_010");
     MsgDisp("School Girl A","Huh～!");
     MsgDisp("主人公","......?");
@@ -56,7 +54,8 @@ got rejected, right?");
     SEWait();
     ChOpen(6,30,2,0,0,0,#1,0,0);
     VoicePlay("O030601000_06_040");
-    MsgDisp("Himuro","Haa...... I finally found you.");
+    MsgDisp("Himuro","Haa......
+I finally found you.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);

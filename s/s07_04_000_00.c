@@ -49,7 +49,8 @@ festivals......");
     ChMotion(4,0);
     ScrFadeIn(0);
     VoicePlay("S070400000_04_050");
-    MsgDisp("Nanatsumori","Ah......Right.
+    MsgDisp("Nanatsumori","Ah......
+Right.
 Your hand.");
     MsgDisp("主人公","Eh?");
     VoicePlay("S070400000_04_060");
@@ -72,8 +73,9 @@ Sure......");
     SEPlay("EV_SE_504");
     SEWait();
     VoicePlay("S070400000_04_080");
-    MsgDisp("Nanatsumori","ＯＫ. This way we don't get any notices
-for lost children.");
+    MsgDisp("Nanatsumori","ＯＫ.
+This way we don't get any notices for lost
+children.");
     MsgDisp("主人公","Hehe!");
     break ;
     default :

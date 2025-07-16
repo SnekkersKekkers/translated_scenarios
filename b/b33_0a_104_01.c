@@ -22,8 +22,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10401_06_000");
 MsgDisp("Himuro","That's fine.
-...But, wouldn't things get interesting if
-that rumor was true?");
+... But, wouldn't things get interesting
+if that rumor was true?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
@@ -79,7 +79,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A10401_02_020");
 MsgDisp("Sassa","Nothing in special huh?
-...Well, shall we go?
+... Well, shall we go?
 Let's hear some inner voices.");
 ChEye(1,4);
 ChMotion(1,0);
@@ -96,7 +96,8 @@ ChClose(6,0,30);
 ChClose(1,0,30);
 ChLayout(1);
 ChOpen(1,255,0,4,2,8,#1,0,0,0,30);
-MsgDisp("主人公","...Huh? ｛風真＊＊｝, aren't you coming?");
+MsgDisp("主人公","... Huh?
+｛風真＊＊｝, aren't you coming?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -111,7 +112,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10401_01_040");
 MsgDisp("Kazama","This happens all the time.
-...Geez, I'm not supposed to be type to
+... Geez, I'm not supposed to be type to
 get teased.");
 MsgClose();
 SEPlay("EV_SE_626");

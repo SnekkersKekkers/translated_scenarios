@@ -16,8 +16,8 @@ I think it is.");
     VoicePlay("N020700002_07_010");
     MsgDisp("Mikage","Whether you push a little harder or not,
 it's okay.");
-    MsgDisp("主人公","(Hmm... Maybe I should study a little bit
-harder?)");
+    MsgDisp("主人公","(Hmm...
+Maybe I should study a little bit harder?)");
     break ;
     case 3:
     MsgClose();
@@ -39,8 +39,8 @@ not just about studying.");
     ChMotion(7,2);
     VoicePlay("N020700002_07_040");
     MsgDisp("Mikage","Good luck, serious girl.");
-    MsgDisp("主人公","(Hmm... Maybe I should study a little bit
-harder?)");
+    MsgDisp("主人公","(Hmm...
+Maybe I should study a little bit harder?)");
     break ;
     case 4:
     case 5:

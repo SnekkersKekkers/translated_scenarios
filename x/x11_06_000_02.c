@@ -24,7 +24,8 @@ You did it.");
     MsgDisp("Himuro","It's the talk of the school.
 The judo club landed a splendid ippon
 during their practice match.");
-    MsgDisp("主人公","｛氷室＊＊｝. Yeah, I'm happy!");
+    MsgDisp("主人公","｛氷室＊＊｝.
+Yeah, I'm happy!");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);

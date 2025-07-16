@@ -6,7 +6,7 @@ SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Frog umbrella\")");
 MsgDisp("主人公","(Oh, a frog!? But...... yeah, cute! Hehe,
-seems like something ｛本多＊＊｝ would
-choose.)");
+seems like something ｛本多＊＊｝
+would choose.)");
 MsgClose();
 ScrFadeOut(0,0);

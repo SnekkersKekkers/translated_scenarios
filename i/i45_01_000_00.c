@@ -15,7 +15,9 @@ Welcome!");
     VoicePlay("I450100000_01_010");
     MsgDisp("Kazama","You look like a bee, flying around all
 those flowers, you know?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. A bee...... What's up?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+A bee......
+What's up?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -35,8 +37,8 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hm, did ｛風真＊＊｝ just come to check
-on me?)");
+    MsgDisp("主人公","(Hm, did ｛風真＊＊｝ just come
+to check on me?)");
     break ;
     case 3:
     MsgClose();
@@ -44,13 +46,15 @@ on me?)");
     ChOpen(1,255,0,0,3,8,#1,0,0);
     VoicePlay("I450100000_01_040");
     MsgDisp("Kazama","There you are, worker bee.");
-    MsgDisp("主人公","｛風真＊＊｝. Geez, I'd rather be called a
-butterfly than a bee, you know?");
+    MsgDisp("主人公","｛風真＊＊｝.
+Geez, I'd rather be called a butterfly
+than a bee, you know?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I450100000_01_050");
-    MsgDisp("Kazama","Butterfly? You seem more like a bee.
+    MsgDisp("Kazama","Butterfly?
+You seem more like a bee.
 Hardworking and friendly.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -69,7 +73,8 @@ Hardworking and friendly.");
     MsgDisp("Kazama","Here's a candy.
 I'll put it in your apron pocket, so eat
 it secretly later.");
-    MsgDisp("主人公","Hehe, okay. Thanks, ｛風真＊＊｝.");
+    MsgDisp("主人公","Hehe, okay.
+Thanks, ｛風真＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.01);
     ChClose(1,0,30);
@@ -85,8 +90,8 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Let's replenish our sugar with
-｛風真＊＊｝'s candy and get back to
-work!)");
+｛風真＊＊｝'s candy and get back
+to work!)");
     break ;
     case 4:
     case 5:
@@ -95,7 +100,8 @@ work!)");
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450100000_01_090");
     MsgDisp("Kazama","Yo, you're here.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Welcome!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Welcome!");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -135,7 +141,7 @@ I'll try.");
     MsgClose();
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Thank you for waiting.
-......How is it?");
+...... How is it?");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);

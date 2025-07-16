@@ -11,7 +11,8 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("I250200000_02_000");
     MsgDisp("Sassa","｛主人公｝, good work.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Welcome.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -82,7 +83,7 @@ or when we go out.");
 Ah, but not in a bad way.
 This, please.");
     MsgDisp("主人公","Yes, thank you very much.
-......\"Animal Nutrition\"?");
+......\" Animal Nutrition\"?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -129,9 +130,10 @@ Just you being here makes the store nicer.");
     ChMouth(2,3);
     ChMotion(2,2);
     VoicePlay("I250200000_02_150");
-    MsgDisp("Sassa","Haa...... I want to work part-time here,
-too.");
-    MsgDisp("主人公","Huh? You, ｛颯砂＊＊｝, in a bookstore?");
+    MsgDisp("Sassa","Haa......
+I want to work part-time here, too.");
+    MsgDisp("主人公","Huh?
+You, ｛颯砂＊＊｝, in a bookstore?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -166,8 +168,8 @@ apron── I mean, the books, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Working with ｛颯砂＊＊｝ would make the
-store really lively!)");
+    MsgDisp("主人公","(Working with ｛颯砂＊＊｝ would
+make the store really lively!)");
     break ;
     default :
     DbgAssert(1);

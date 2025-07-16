@@ -20,12 +20,14 @@ VoiceEVSPlay ( 3 ) ;
 VoicePlay ( "D150003600_03_010" ) ;
 MsgDisp ( "Honda","｛主人公｝, compare us." ) ;
 MsgDisp ( "主人公","Uhm......
-Yeah. ｛本多＊＊｝ is a bit taller." ) ;
+Yeah.
+｛本多＊＊｝ is a bit taller." ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,4 ) ;
 VoicePlay ( "D150003600_03_020" ) ;
-MsgDisp ( "Honda","Oh. Maybe I was just imagining things." ) ;
+MsgDisp ( "Honda","Oh.
+Maybe I was just imagining things." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,1 ) ;
@@ -36,9 +38,9 @@ ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,0 ) ;
 VoicePlay ( "D150003600_03_030" ) ;
-MsgDisp ( "Honda","I'm not sure. But talking to Nori-kun is
-comfortable because our eyes are on the
-same level." ) ;
+MsgDisp ( "Honda","I'm not sure.
+But talking to Nori-kun is comfortable
+because our eyes are on the same level." ) ;
 MsgDisp ( "主人公","Hehe. I think I know what you mean. There
 are a lot of tall people. Like
 Mikage-sensei." ) ;
@@ -53,9 +55,10 @@ ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;
 ChMotion ( 6,4 ) ;
 VoicePlay ( "D150003600_06_020" ) ;
-MsgDisp ( "Himuro","I guess it's not a complex then. I'll keep
-growing though." ) ;
-MsgDisp ( "主人公","Really? I think ｛氷室＊＊｝ is fine the
+MsgDisp ( "Himuro","I guess it's not a complex then.
+I'll keep growing though." ) ;
+MsgDisp ( "主人公","Really?
+I think ｛氷室＊＊｝ is fine the
 way he is now～......" ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
@@ -64,7 +67,8 @@ VoicePlay ( "D150003600_06_030" ) ;
 MsgDisp ( "Himuro","What. Why? Iku-senpai already explained
 himself. What's your reasoning?" ) ;
 MsgDisp ( "主人公","(I might get in trouble if I tell
-｛氷室＊＊｝ that his height suits him.)" ) ;
+｛氷室＊＊｝ that his height suits
+him.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

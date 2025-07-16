@@ -9,7 +9,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("H8G0300000_03_000");
 MsgDisp("Honda","｛主人公｝, congrats!");
-MsgDisp("主人公","Huh, ｛本多＊＊｝∋ Is this about......");
+MsgDisp("主人公","Huh, ｛本多＊＊｝∋
+Is this about......");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -38,7 +39,8 @@ VoicePlay("H8G0300000_03_040");
 MsgDisp("Honda","To you, it might seem like any other
 result, but to me, I think it's a really
 big accomplishment.");
-MsgDisp("主人公","｛本多＊＊｝...... Thank you.");
+MsgDisp("主人公","｛本多＊＊｝......
+Thank you.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

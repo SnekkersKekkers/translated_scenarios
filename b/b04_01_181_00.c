@@ -37,8 +37,9 @@ so-so.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040118100_01_020");
-    MsgDisp("Kazama","Right. When it's this far off the mark, it
-now feels good.");
+    MsgDisp("Kazama","Right.
+When it's this far off the mark, it now
+feels good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

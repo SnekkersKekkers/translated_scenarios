@@ -19,7 +19,8 @@ There are so many people.");
         ChMotion(5,4);
         VoicePlay("S090500000_05_010");
         MsgDisp("Hiiragi","Right, there's no other choice.");
-        MsgDisp("主人公","Hehe ｛柊＊＊＊｝ likes fortunes?");
+        MsgDisp("主人公","Hehe ｛柊＊＊＊｝ likes
+fortunes?");
         ChEye(5,0);
         ChMotion(5,3);
         VoicePlay("S090500000_05_020");
@@ -95,13 +96,12 @@ to pull fortunes.)");
     VoicePlay("S090500000_05_080");
     MsgDisp("Hiiragi","Are you waiting for your turn over there
 too?");
-    MsgDisp("主人公","Oh, this is the line for
-drawing fortunes!");
+    MsgDisp("主人公","Oh, this is the line for drawing fortunes!");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S090500000_05_090");
     MsgDisp("Hiiragi","It seems so.
-......Should we get in line too?");
+...... Should we get in line too?");
     MsgSel("Let's line up.","I'm tired, let's not");
     switch (MsgSelRsltGet()){
         case 0:
@@ -109,16 +109,17 @@ drawing fortunes!");
         ChMouth(5,3);
         ChMotion(5,3);
         VoicePlay("S090500000_05_100");
-        MsgDisp("Hiiragi","Right. When you get this far, there's no
-sense in backing out.");
-        MsgDisp("主人公","Hehe. Yep. Which hand should I use to
-pull?");
+        MsgDisp("Hiiragi","Right.
+When you get this far, there's no sense in
+backing out.");
+        MsgDisp("主人公","Hehe.
+Yep.
+Which hand should I use to pull?");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("S090500000_05_110");
-        MsgDisp("Hiiragi","Let's hold hands until we get
-there.");
+        MsgDisp("Hiiragi","Let's hold hands until we get there.");
         MsgDisp("主人公","Eh, sure.");
         MsgDisp("主人公","(It's a little embarrassing.)");
         ChEye(5,0);
@@ -132,7 +133,8 @@ there.");
         VoicePlay("S090500000_05_120");
         MsgDisp("Hiiragi","Maybe after a little break then......
 Ah, never mind......");
-        MsgDisp("主人公","(......He looks disappointed.
+        MsgDisp("主人公","(......
+He looks disappointed.
 Did I do something wrong?)");
         MsgClose();
         ScrFadeOut(0,0);

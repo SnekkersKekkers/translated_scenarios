@@ -15,7 +15,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("D140B03100_03_000");
-MsgDisp("Honda","Yes. 
+MsgDisp("Honda","Yes.
 That's why ramen is profound.");
 ChEye(1,2);
 ChMouth(1,1);
@@ -29,12 +29,13 @@ ChMotion(1,1);
 VoicePlay("D140B03100_01_010");
 MsgDisp("Kazama","That's why ramen is a dangerous topic with
 Honda...");
-MsgDisp("主人公","Hehe. Wasn't ｛本多＊＊｝'s lecture on
-ramen interesting?'");
+MsgDisp("主人公","Hehe.
+Wasn't ｛本多＊＊｝'s lecture on
+ramen interesting? '");
 ChMotion(4,0,1);
 VoicePlay("D140B03100_04_000");
 MsgDisp("Nanatsumori","I understand it was amazing.
-...But, I don't eat ramen.");
+... But, I don't eat ramen.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -42,8 +43,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D140B03100_03_010");
-MsgDisp("Honda","Why? How? Tell me why you dislike it that
-much.");
+MsgDisp("Honda","Why?
+How?
+Tell me why you dislike it that much.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -55,8 +57,7 @@ VoicePlay("D140B03100_04_010");
 MsgDisp("Nanatsumori","It's not really that.
 I don't hate ramen.
 I ate it when I still lived at home.");
-MsgDisp("主人公","Then is there another 
-reason for it?");
+MsgDisp("主人公","Then is there another reason for it?");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("D140B03100_04_020");
@@ -79,8 +80,7 @@ ChMotion(1,0);
 VoicePlay("D140B03100_01_030");
 MsgDisp("Kazama","...Yes?");
 VoicePlay("D140B03100_04_040");
-MsgDisp("Nanatsumori","In other words, 
-I'm not good at slurping.");
+MsgDisp("Nanatsumori","In other words, I'm not good at slurping.");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -91,10 +91,9 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B03100_01_040");
-MsgDisp("Kazama","There's something 
-cute about that.");
+MsgDisp("Kazama","There's something cute about that.");
 VoicePlay("D140B03100_04_060");
-MsgDisp("Nanatsumori","...I can't eat ramen after all.
+MsgDisp("Nanatsumori","... I can't eat ramen after all.
 Never in front of other people.");
 ChEye(1,0);
 ChMouth(1,3);

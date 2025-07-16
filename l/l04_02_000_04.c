@@ -21,7 +21,8 @@ presentation is perfect.");
     ChEyeOpenLevel(2,0);
     VoicePlay("L040200004_02_020");
     MsgDisp("Sassa","Then I'll confirm the taste and eat it
-slowly at home. Thanks.");
+slowly at home.
+Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -51,7 +52,8 @@ I'm super happy.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("L040200004_02_050");
-    MsgDisp("Sassa","Yeah, of course. I'm excited to eat it!
+    MsgDisp("Sassa","Yeah, of course.
+I'm excited to eat it!
 Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -68,15 +70,15 @@ Thank goodness.)");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("L040200004_02_060");
-    MsgDisp("Sassa","Wow...... Is this handmade?
+    MsgDisp("Sassa","Wow......
+Is this handmade?
 For me?");
     MsgDisp("主人公","Yeah, of course!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("L040200004_02_070");
-    MsgDisp("Sassa","Handmade things just feel special,
-right?");
+    MsgDisp("Sassa","Handmade things just feel special, right?");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -89,15 +91,13 @@ Thanks.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("L040200004_02_090");
-    MsgDisp("Sassa","Today, I'll carry it around to
-show off.");
+    MsgDisp("Sassa","Today, I'll carry it around to show off.");
     MsgDisp("主人公","What!?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("L040200004_02_100");
-    MsgDisp("Sassa","It'd be a waste to eat this
-right away.");
+    MsgDisp("Sassa","It'd be a waste to eat this right away.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

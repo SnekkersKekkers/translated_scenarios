@@ -6,14 +6,14 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("F100340001_03_000");
-MsgDisp("Honda","｛主人公｝. Have you seen Mii-kun? He's
-nowhere to be found.");
+MsgDisp("Honda","｛主人公｝.
+Have you seen Mii-kun?
+He's nowhere to be found.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("F100340001_03_010");
-MsgDisp("Honda","Even though recess
-is almost over.");
+MsgDisp("Honda","Even though recess is almost over.");
 MsgDisp("主人公","Hmm, I haven't seen him?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -54,28 +54,30 @@ ChPosition(3,1);
 MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","You were right! Amazing, ｛本多＊＊｝.");
+MsgDisp("主人公","You were right!
+Amazing, ｛本多＊＊｝.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("F100340001_04_000");
 MsgDisp("Nanatsumori","Haa... so noisy.
 What are you two doing?");
-MsgDisp("主人公","｛本多＊＊｝ was guessing where you were,
-｛七ツ森＊｝.
+MsgDisp("主人公","｛本多＊＊｝ was guessing where
+you were, ｛七ツ森＊｝.
 How did you know?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("F100340001_03_060");
-MsgDisp("Honda","Yep, yep, to me, Mii-kun is a cat. It's
-the kind of place cats like; quiet and
-cool... so I thought this might be it.");
+MsgDisp("Honda","Yep, yep, to me, Mii-kun is a cat.
+It's the kind of place cats like; quiet
+and cool... so I thought this might be it.");
 ChMouth(4,1);
 ChMotion(4,0,1);
 MsgDisp("主人公","Hehe, a cat huh...
-｛七ツ森＊｝ is definitely cat like?");
+｛七ツ森＊｝ is
+definitely cat like?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -1,10 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he
-had something he wanted to talk to me
-about on the way home ......I wonder what
-it is?)");
+MsgDisp("主人公","(That's right......｛風真＊＊｝ said he had
+something he wanted to talk to me about on
+the way home ......I wonder what it is?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -28,7 +27,8 @@ VoicePlay("G110101102_01_000");
 MsgDisp("Kazama","Ah, right.
 Apparently a customer from Simon called
 for you?");
-MsgDisp("主人公","Really? I'm happy.");
+MsgDisp("主人公","Really?
+I'm happy.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

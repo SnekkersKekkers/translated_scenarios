@@ -8,7 +8,8 @@ ScrFadeIn(0);
 VoicePlay("W012100000_21_000");
 MsgDisp("Michiru","Mari.
 Have a second?");
-MsgDisp("主人公","｛みちる＊｝. What's up?");
+MsgDisp("主人公","｛みちる＊｝.
+What's up?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -16,7 +17,8 @@ VoicePlay("W012100000_21_010");
 MsgDisp("Michiru","Why don't we go to the amusement park this
 Sunday?
 I have some tickets...");
-MsgDisp("主人公","Just the two of us, ｛みちる＊｝?");
+MsgDisp("主人公","Just the two of us,
+｛みちる＊｝?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
@@ -41,7 +43,8 @@ I wonder who else will be coming.)");
     ChMouth(21,4);
     ChMotion(21,0);
     VoicePlay("W012100000_21_040");
-    MsgDisp("Michiru","I see, errands huh. Maybe next time, then.
+    MsgDisp("Michiru","I see, errands huh.
+Maybe next time, then.
 Okay?");
     MsgDisp("主人公","(I feel a little bad saying that after she
 invited me.)");

@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChEyeOpenLevel(5,0);
     VoicePlay("B040506101_05_010");
-    MsgDisp("Hiiragi","Despite what it
-looks like, I am smiling?");
+    MsgDisp("Hiiragi","Despite what it looks like, I am smiling?");
     MsgDateResultDisp();
     break ;
     case 1:

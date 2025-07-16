@@ -8,8 +8,8 @@ ScrFadeIn(0);
 VoicePlay("I562100000_21_000");
 MsgDisp("Michiru","No, Mari!
 That pastry doesn't go in the fridge.");
-MsgDisp("主人公","Hm? It's fresh but doesn't need to be
-chilled?");
+MsgDisp("主人公","Hm?
+It's fresh but doesn't need to be chilled?");
 ChEye(21,2);
 ChMouth(21,0);
 ChMotion(21,4);

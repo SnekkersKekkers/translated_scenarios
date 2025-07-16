@@ -7,7 +7,8 @@ write your year, class, and number of
 items taken. FInally press this counter
 machine for the number of items.");
 VoicePlay("P840500002_39_010");
-MsgDisp("Male Student","ＯＫ! I'll press three times.");
+MsgDisp("Male Student","ＯＫ!
+I'll press three times.");
 SEPlay("EV_SE_757");
 SEWait();
 SEPlay("EV_SE_757");
@@ -36,7 +37,8 @@ ChMotion(5,0);
 VoicePlay("P840500002_05_020");
 MsgDisp("Hiiragi","I also want to be able to reassess things
 nearby like you do.");
-MsgDisp("主人公","(Yay! I was praised by ｛柊＊＊＊｝! )");
+MsgDisp("主人公","(Yay!
+I was praised by ｛柊＊＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

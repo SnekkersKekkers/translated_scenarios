@@ -9,8 +9,10 @@ ScrFadeIn(0);
 SEPlay("EV_SE_513");
 SEWait();
 VoicePlay("B330A20500_02_000");
-MsgDisp("Sassa","Alright! I did it!");
-MsgDisp("主人公","Amazing! ｛颯砂＊＊｝, that's a strike!");
+MsgDisp("Sassa","Alright!
+I did it!");
+MsgDisp("主人公","Amazing!
+｛颯砂＊＊｝, that's a strike!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,255,3,3,3,0,#1,0,3,0,30);
@@ -122,8 +124,8 @@ ChMotion(2,3);
 VoicePlay("B330A20500_02_060");
 MsgDisp("Sassa","Then, it's you next.");
 MsgDisp("主人公","Eh!");
-MsgDisp("主人公","(Somehow... Maybe I'm nervous in a
-different way?)");
+MsgDisp("主人公","(Somehow...
+Maybe I'm nervous in a different way?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

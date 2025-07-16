@@ -26,15 +26,17 @@ ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("G020540002_05_040");
 MsgDisp("Hiiragi","Are you not able to hear it?");
-MsgDisp("主人公","Eh∋ ｛柊＊＊＊｝ can hear it?");
+MsgDisp("主人公","Eh∋
+｛柊＊＊＊｝ can hear it?");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("G020540002_05_050");
-MsgDisp("Hiiragi","Huhu. I was just checking if you could
-hear them.");
-MsgDisp("主人公","(Ugh...... ｛柊＊＊＊｝ from time to time
-will say unexpected things that surprise
-me......)");
+MsgDisp("Hiiragi","Huhu.
+I was just checking if you could hear
+them.");
+MsgDisp("主人公","(Ugh...... ｛柊＊＊＊｝ from
+time to time will say unexpected things
+that surprise me......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

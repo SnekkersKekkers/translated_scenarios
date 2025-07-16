@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("S030400002_04_010");
     MsgDisp("Nanatsumori","It's really cold outside.
 I don't want to catch a cold.");
-    MsgDisp("主人公","Ah......yeah.
+    MsgDisp("主人公","Ah...... yeah.
 I guess that's true.");
     VoicePlay("S030400002_04_020");
     MsgDisp("Nanatsumori","Yeah.
@@ -39,12 +39,14 @@ Let's go alone then.)");
     VoicePlay("S030400002_04_060");
     MsgDisp("Nanatsumori","Haa......
 I wanted to go with you too.");
-    MsgDisp("主人公","Ah......Work?");
+    MsgDisp("主人公","Ah......
+Work?");
     VoicePlay("S030400002_04_070");
     MsgDisp("Nanatsumori","Yeah.
 The Model Agency's New Year's Party.");
-    MsgDisp("主人公","I guess it can't be helped...... Be safe
-then. Byebye.");
+    MsgDisp("主人公","I guess it can't be helped......
+Be safe then.
+Byebye.");
     VoicePlay("S030400002_04_080");
     MsgDisp("Nanatsumori","Thank you.
 Try not to catch a cold, okay?");

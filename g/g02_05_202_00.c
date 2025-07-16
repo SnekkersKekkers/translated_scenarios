@@ -2,7 +2,9 @@ MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020520200_05_000");
 MsgDisp("Hiiragi","......Inori-kun is by your side, isn't he?");
-MsgDisp("主人公","Eh? ｛氷室＊＊｝? Where?");
+MsgDisp("主人公","Eh?
+｛氷室＊＊｝?
+Where?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -32,8 +34,7 @@ that, I want to scold myself.");
 ChEye(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520200_05_050");
-MsgDisp("Hiiragi","There's no one who is 
-as adorable as you.");
+MsgDisp("Hiiragi","There's no one who is as adorable as you.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020520200_05_060");
@@ -46,8 +47,8 @@ VoicePlay("G020520200_05_070");
 MsgDisp("Hiiragi","Although I have no idea what I should do
 Today, I'm just making that declaration.");
 MsgDisp("主人公","(Eh, declaration?
-｛柊＊＊＊｝, what are you planning to
-do......)");
+｛柊＊＊＊｝, what are you
+planning to do......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

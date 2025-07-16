@@ -16,8 +16,7 @@ This is it.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("D140101100_01_010");
-    MsgDisp("Kazama","You too, huh?
-we get along well.");
+    MsgDisp("Kazama","You too, huh? we get along well.");
     break ;
     default :
     DbgAssert(1);

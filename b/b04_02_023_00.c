@@ -35,8 +35,9 @@ It's a common thing in old movies.");
     ChMouth(2,4);
     ChMotion(2,2);
     VoicePlay("B040202300_02_030");
-    MsgDisp("Sassa","Alright. Put your foot on that ledge. Now
-we both stare into the distance.");
+    MsgDisp("Sassa","Alright.
+Put your foot on that ledge.
+Now we both stare into the distance.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

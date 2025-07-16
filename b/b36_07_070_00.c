@@ -46,8 +46,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B360707000_07_050");
 MsgDisp("Mikage","It's croquette curry tonight.");
-MsgDisp("主人公","Hehe, ｛御影＊＊｝, are you good at
-shopping?");
+MsgDisp("主人公","Hehe, ｛御影＊＊｝, are
+you good at shopping?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -61,8 +61,8 @@ ChMotion(7,5);
 VoicePlay("B360707000_07_070");
 MsgDisp("Mikage","That being said, dinner on your own can be
 lonely.");
-MsgDisp("主人公","｛御影＊＊｝, do you always have dinner
-alone?");
+MsgDisp("主人公","｛御影＊＊｝, do you
+always have dinner alone?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -70,8 +70,8 @@ VoicePlay("B360707000_07_080");
 MsgDisp("Mikage","Yeah. That's why I always look forward to
 the school cafeteria. Tell Yanosuke and
 Inori to invite me too.");
-MsgDisp("主人公","(｛御影＊＊｝, I'd love to have dinner
-with you......)");
+MsgDisp("主人公","(｛御影＊＊｝, I'd love to have dinner with
+you......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

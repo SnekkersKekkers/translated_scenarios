@@ -1,4 +1,5 @@
-MsgDisp("主人公","｛氷室＊＊｝, do you listen to music?
+MsgDisp("主人公","｛氷室＊＊｝, do you listen to
+music?
 Is there a type you like.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -11,8 +12,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600000_06_200");
-MsgDisp("Himuro","What sort of image do
-you have of me?");
+MsgDisp("Himuro","What sort of image do you have of me?");
 MsgDisp("主人公","I feel like you might listen to classical
 music maybe?");
 ChEye(6,1);

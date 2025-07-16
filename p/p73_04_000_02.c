@@ -34,8 +34,7 @@ After this, let me take a picture.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P730400002_04_030");
-    MsgDisp("Nanatsumori","Well, we're here anyways, 
-right?");
+    MsgDisp("Nanatsumori","Well, we're here anyways, right?");
     SEPlay("EV_SE_038");
     SEWait();
     ChMotion(4,0,1);
@@ -66,7 +65,8 @@ make it pretty but...)");
     ChOpen(4,254,0,3,3,#1,#1,5,0,0,60);
     VoicePlay("P730400002_04_050");
     MsgDisp("Nanatsumori","............");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. ...what's wrong?");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+...what's wrong?");
     ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_060");
     MsgDisp("Nanatsumori","You're beautiful.");

@@ -3,7 +3,8 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yayー! A huge success∈)");
+MsgDisp("主人公","(Yayー!
+A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

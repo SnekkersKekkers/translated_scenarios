@@ -1,8 +1,7 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Umm, what was my
-next lesson again?)");
+MsgDisp("主人公","(Umm, what was my next lesson again?)");
 VoicePlay("F100630000_06_000");
 MsgDisp("Himuro?","At any rate, please stop that.
 That's all.
@@ -10,13 +9,15 @@ Well then.");
 VoicePlay("F100630000_22_000");
 MsgDisp("Hikaru?","Ehhh∋
 Himuro-chan, wait～!");
-MsgDisp("主人公","(Hm? These voices...)");
+MsgDisp("主人公","(Hm?
+These voices...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(22,254,0,0,2,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝. What's
-wrong?");
+MsgDisp("主人公","｛みちる＊｝,
+｛ひかる＊｝.
+What's wrong?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);
@@ -42,8 +43,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100630000_22_020");
-MsgDisp("Hikaru","\"Himuhimu\", 
-\"Himuron\", and \"Inorinrin\"!");
+MsgDisp("Hikaru","\"Himuhimu\", \"Himuron\", and \"Inorinrin\"!");
 MsgDisp("主人公","T-That's...");
 ChEye(21,4);
 ChMouth(21,4);

@@ -7,7 +7,8 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200601_02_000");
-MsgDisp("Sassa","｛主人公｝, how's the time?");
+MsgDisp("Sassa","｛主人公｝, how's the
+time?");
 MsgDisp("主人公","Same as always.
 How is it that you always run at exactly
 the same time?");
@@ -32,8 +33,9 @@ VoicePlay("G110200601_02_030");
 MsgDisp("Sassa","Unreasonable and reckless are my
 specialties.
 Well, I'm off now!");
-MsgDisp("主人公","(Hehe! ｛颯砂＊＊｝, you seem to be having
-a lot more fun than before?)");
+MsgDisp("主人公","(Hehe!
+｛颯砂＊＊｝, you seem to be
+having a lot more fun than before?)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -49,10 +51,10 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200601_02_040");
-MsgDisp("Sassa","｛主人公｝. Has there been any change
-in my form?");
-MsgDisp("主人公","Umm...... No, I don't think anything's
-changed.");
+MsgDisp("Sassa","｛主人公｝.
+Has there been any change in my form?");
+MsgDisp("主人公","Umm......
+No, I don't think anything's changed.");
 ChEye(2,0);
 ChMouth(2,1);
 ChMotion(2,0);

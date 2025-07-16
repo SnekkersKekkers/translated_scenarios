@@ -17,7 +17,8 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","Looks like you've been working hard at the
 school orchestra. Apparently Himuro-sensei
 praised you. You're amazing.");
-    MsgDisp("主人公","(Yay! I'm glad I worked hard!)");
+    MsgDisp("主人公","(Yay!
+I'm glad I worked hard!)");
     break ;
     case 4:
     case 5:
@@ -33,7 +34,8 @@ that push on the back.");
     ChMotion(2,4);
     VoicePlay("X120200000_02_020");
     MsgDisp("Sassa","Thank you.");
-    MsgDisp("主人公","(Yay! I was praised by ｛颯砂＊＊｝ )");
+    MsgDisp("主人公","(Yay!
+I was praised by ｛颯砂＊＊｝ )");
     break ;
     default :
     DbgAssert(1);

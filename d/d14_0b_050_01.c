@@ -15,8 +15,7 @@ VoicePlay("D140B05001_03_000");
 MsgDisp("Honda","Today's meal is delicious too today!");
 MsgDisp("主人公","Yeah!");
 VoicePlay("D140B05001_01_000");
-MsgDisp("Kazama","Suddenly, I don't feel 
-like eating.");
+MsgDisp("Kazama","Suddenly, I don't feel like eating.");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -33,8 +32,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoiceEVSPlay(3);
 VoicePlay("D140B05001_03_010");
-MsgDisp("Honda","｛主人公｝, you have something on your
-mouth.
+MsgDisp("Honda","｛主人公｝, you have
+something on your mouth.
 Here, I'll get it for you.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -55,7 +54,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B05001_04_020");
-MsgDisp("Nanatsumori","Kazama... I'll join you.");
+MsgDisp("Nanatsumori","Kazama...
+I'll join you.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -73,8 +73,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B05001_04_030");
-MsgDisp("Nanatsumori","Dahon, this, 
-is jealousy.");
+MsgDisp("Nanatsumori","Dahon, this, is jealousy.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

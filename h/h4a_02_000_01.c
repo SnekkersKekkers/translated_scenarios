@@ -15,7 +15,8 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H4A0200001_02_000");
     MsgDisp("Sassa","｛主人公｝, good work.");
-    MsgDisp("主人公","｛颯砂＊＊｝. Sorry you came all this way.");
+    MsgDisp("主人公","｛颯砂＊＊｝.
+Sorry you came all this way.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -27,8 +28,9 @@ matters.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("H4A0200001_02_020");
-    MsgDisp("Sassa","That's how sports are. That's why it's
-both fun and hard...... right?");
+    MsgDisp("Sassa","That's how sports are.
+That's why it's both fun and hard......
+right?");
     MsgDisp("主人公","Y-Yeah......");
     ChEye(2,0);
     ChMouth(2,4);
@@ -42,7 +44,8 @@ disrespectful of your own hard work.");
     ChMotion(2,1);
     VoicePlay("H4A0200001_02_040");
     MsgDisp("Sassa","It's something no one else but you can do.
-Right? Look forward and keep going!");
+Right?
+Look forward and keep going!");
     MsgDisp("主人公","(It's just as ｛颯砂＊＊｝ says.
 I lost, but I'm glad I stayed in the
 rhythmic gymnastics club.)");

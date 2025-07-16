@@ -21,8 +21,8 @@ even the future generations was created by
 accident.");
 VoicePlay("Q100500000_05_020");
 MsgDisp("Hiiragi","There must have been an amazing director.");
-MsgDisp("主人公","...... Maybe someone like you ｛柊＊＊＊｝
-?");
+MsgDisp("主人公","...... Maybe someone like you
+｛柊＊＊＊｝ ?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("Q100500000_05_030");
@@ -79,8 +79,9 @@ MsgDisp("Hiiragi","Well then, see you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(...... Hey, that smells good...... Ah,
-it's a castella tasting!)");
+MsgDisp("主人公","(......
+Hey, that smells good......
+Ah, it's a castella tasting!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

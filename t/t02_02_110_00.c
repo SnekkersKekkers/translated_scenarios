@@ -6,7 +6,8 @@ MsgDisp("Sassa?","｛主人公｝, wait.");
 SEPlay("EV_SE_872",0.5);
 Wait(46,0);
 ChOpen(2,254,7,4,0,#1,#1,0,0);
-MsgDisp("主人公","Eh......｛颯砂＊＊｝?");
+MsgDisp("主人公","Eh......
+｛颯砂＊＊｝?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -34,7 +35,7 @@ MsgDisp("主人公","This is the track-and-field club's ground.");
 VoicePlay("T020211000_02_030");
 MsgDisp("Sassa","Ah, how pathetic.
 I'm pulling you into my territory...
-...But I want you to listen to me here.");
+... But I want you to listen to me here.");
 MsgClose();
 ScrFadeOut(0,1);
 MsgType(1);
@@ -105,8 +106,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020211000_02_120");
-MsgDisp("Sassa","But you,
-treated both sides of me equally.");
+MsgDisp("Sassa","But you, treated both sides of me equally.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -160,8 +160,8 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("T020211000_02_200");
 MsgDisp("Sassa","Right here.
-My feelings for you are so big...
-they can't ever be buried.");
+My feelings for you are so big... they
+can't ever be buried.");
 MsgDisp("主人公","！");
 MsgClear();
 ChClose(2);

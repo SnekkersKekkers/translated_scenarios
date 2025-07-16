@@ -18,14 +18,15 @@ ChOpen(6,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100240002_02_010");
 MsgDisp("Sassa","Yo.
 Do you have PE next?");
-MsgDisp("主人公","Yeah. What about you two?");
+MsgDisp("主人公","Yeah.
+What about you two?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100240002_02_020");
-MsgDisp("Sassa","I'm just getting 
-some advice from Inori.");
-MsgDisp("主人公","Amazing. Is ｛氷室＊＊｝ really your coach,
+MsgDisp("Sassa","I'm just getting some advice from Inori.");
+MsgDisp("主人公","Amazing.
+Is ｛氷室＊＊｝ really your coach,
 ｛颯砂＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -88,15 +89,17 @@ and holds back at first, but ultimately,
 he stayed with me until the end.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","I see... ｛颯砂＊＊｝ and ｛氷室＊＊｝
-understands each other. Amazing...");
+MsgDisp("主人公","I see... ｛颯砂＊＊｝ and
+｛氷室＊＊｝ understands each
+other. Amazing...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100240002_02_080");
 MsgDisp("Sassa","Well, if it's just us two guys, it's
 pretty straightforward, right?");
-MsgDisp("主人公","(...If it's just the two of them?
+MsgDisp("主人公","(...
+If it's just the two of them?
 What does that mean, I wonder...?)");
 BGMStop();
 MsgClose();

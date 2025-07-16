@@ -11,10 +11,12 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250400000_04_000");
     MsgDisp("Nanatsumori","......Ah.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Welcome!");
     VoicePlay("I250400000_04_010");
     MsgDisp("Nanatsumori","Working?");
-    MsgDisp("主人公","Yeah. Did you come to buy a book,
+    MsgDisp("主人公","Yeah.
+Did you come to buy a book,
 ｛七ツ森＊｝?");
     ChEye(4,0);
     ChMouth(4,4);
@@ -38,7 +40,8 @@ Good luck with work.");
     VoicePlay("I250400000_04_030");
     MsgDisp("Nanatsumori","Yo.
 Good work.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Welcome!");
     ChMotion(4,0,1);
     VoicePlay("I250400000_04_040");
     MsgDisp("Nanatsumori","Hey, where are all the magazines with
@@ -78,25 +81,28 @@ Good work.");
     ChMouth(4,3);
     ChMotion(4,2);
     VoicePlay("I250400000_04_080");
-    MsgDisp("Nanatsumori","......Ah. Aah, this is poison to my eyes.
+    MsgDisp("Nanatsumori","...... Ah.
+Aah, this is poison to my eyes.
 Hm, poison, or heaven?");
     MsgDisp("主人公","......Right?");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("I250400000_04_090");
-    MsgDisp("Nanatsumori","Mm. I'll buy this as an apology for saying
-too much.");
+    MsgDisp("Nanatsumori","Mm.
+I'll buy this as an apology for saying too
+much.");
     MsgDisp("主人公","Hehe, thank you very much!");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1);
     ChCheek(4,5);
     VoicePlay("I250400000_04_100");
-    MsgDisp("Nanatsumori","......No prob.
+    MsgDisp("Nanatsumori","...... No prob.
 Want to head to this specialty sweets shop
 with me next time?");
-    MsgDisp("主人公","(......Is he inviting me on a date?)");
+    MsgDisp("主人公","(......
+Is he inviting me on a date?)");
     break ;
     default :
     DbgAssert(1);

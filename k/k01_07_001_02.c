@@ -15,8 +15,7 @@ ChMotion(7,0);
 VoicePlay("K010700102_07_010");
 MsgDisp("Mikage","Did you try imagining what I'd like?
 Thank you.");
-MsgDisp("主人公","(Yeah, seems like
-he liked it.)");
+MsgDisp("主人公","(Yeah, seems like he liked it.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -37,15 +37,16 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330C10201_06_000");
-MsgDisp("Himuro","Heeh... This feels like a lesson by
-Kojiro-sensei.");
+MsgDisp("Himuro","Heeh...
+This feels like a lesson by Kojiro-sensei.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10201_05_020");
 MsgDisp("Hiiragi","This definitely feels like a class field
 trip.");
-MsgDisp("主人公","Hehe. I guess so.");
+MsgDisp("主人公","Hehe.
+I guess so.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -82,7 +83,8 @@ ChEye(7,0);
 ChMouth(7,2);
 ChMotion(7,2);
 VoicePlay("B330C10201_07_040");
-MsgDisp("Mikage","Hm? Yanosuke?");
+MsgDisp("Mikage","Hm?
+Yanosuke?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -108,7 +110,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B330C10201_06_040");
-MsgDisp("Himuro","...Thank you very much.
+MsgDisp("Himuro","... Thank you very much.
 I'm kind of happy.");
 MsgDisp("主人公","(｛氷室＊＊｝ wanted to take classes
 together...

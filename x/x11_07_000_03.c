@@ -12,7 +12,9 @@ difficult move during the rhythmic
 gymnastics club's joint practice.
 Congrats.");
     MsgDisp("主人公","Yes, thank you very much1");
-    MsgDisp("主人公","(Yay! I was praised by ｛御影＊＊｝! )");
+    MsgDisp("主人公","(Yay!
+I was praised by
+｛御影＊＊｝! )");
     break ;
     case 4:
     case 5:
@@ -22,7 +24,8 @@ Congrats.");
     VoicePlay("X110700003_07_010");
     MsgDisp("Mikage","Haa...
 I wanted to see it too.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. What's up?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+What's up?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -36,7 +39,8 @@ rhythmic gymnastics club's joint practice.");
     VoicePlay("X110700003_07_030");
     MsgDisp("Mikage","Apparently it was beautiful.
 I'll come cheer you on one day.");
-    MsgDisp("主人公","(To think that ｛御影＊＊｝ is cheering
+    MsgDisp("主人公","(To think that
+｛御影＊＊｝ is cheering
 for me, I'm happy.)");
     break ;
     default :

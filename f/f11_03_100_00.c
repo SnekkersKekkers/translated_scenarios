@@ -4,13 +4,15 @@ ChOpen(3,254,1,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F110310000_03_000");
 MsgDisp("Honda","Welcome, welcome.");
-MsgDisp("主人公","Huh? ｛本多＊＊｝, what are you doing?");
+MsgDisp("主人公","Huh?
+｛本多＊＊｝, what are you doing?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F110310000_03_010");
 MsgDisp("Honda","Quiz Haircut Battle!");
-MsgDisp("主人公","Huh? What?");
+MsgDisp("主人公","Huh?
+What?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -30,8 +32,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F110310000_03_040");
-MsgDisp("Honda","Is that so? Well then, I'm off to find
-customers. Seeya.");
+MsgDisp("Honda","Is that so?
+Well then, I'm off to find customers.
+Seeya.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 VoicePlay("F110310000_03_050");

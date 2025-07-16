@@ -42,8 +42,7 @@ I think we have a good head start.");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("S120300001_03_030");
-    MsgDisp("Honda","About that,
-I hope I didn't talk too much.");
+    MsgDisp("Honda","About that, I hope I didn't talk too much.");
     MsgDisp("主人公","Hehe, it was fine.");
     ChEye(3,3);
     ChMouth(3,3);
@@ -67,8 +66,9 @@ Good luck!");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300001_03_070");
-    MsgDisp("Honda","Alright! I can win with your support! See
-you soon!");
+    MsgDisp("Honda","Alright!
+I can win with your support!
+See you soon!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();

@@ -5,16 +5,16 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","The school trip is coming up,
-right?");
+MsgDisp("主人公","The school trip is coming up, right?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300013_03_000");
-MsgDisp("Honda","Yepyep! Thanks to that, I'm all busy with
+MsgDisp("Honda","Yepyep!
+Thanks to that, I'm all busy with
 preparations.");
-MsgDisp("主人公","Preparations? Were you assigned some kind
-of role?");
+MsgDisp("主人公","Preparations?
+Were you assigned some kind of role?");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -45,5 +45,5 @@ ChMotion(3,1);
 VoicePlay("F020300013_03_040");
 MsgDisp("Honda","Oh, if you'd like......
 I can be your guide, too.");
-MsgDisp("主人公","(I'm already aboard the ｛本多＊＊｝
-tour......)");
+MsgDisp("主人公","(I'm already aboard the
+｛本多＊＊｝ tour......)");

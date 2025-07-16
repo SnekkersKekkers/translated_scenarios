@@ -4,7 +4,8 @@ switch (MsgSelRsltGet()){
     VoicePlay("J140201001_02_000");
     MsgDisp("Sassa","Oh, that's nice.");
     MsgDisp("主人公","Then, I'll meet you at the
-｛待ち合わせ場所｝ Is it okay with you?");
+｛待ち合わせ場所｝ Is it
+okay with you?");
     VoicePlay("J140201001_02_010");
     MsgDisp("Sassa","I'll let them know.
 See you on the day!");

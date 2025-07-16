@@ -23,8 +23,9 @@ it?");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040304500_03_010");
-    MsgDisp("Honda","Really? I thought it was good. What part
-was just okay for you?");
+    MsgDisp("Honda","Really?
+I thought it was good.
+What part was just okay for you?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -33,7 +34,8 @@ was just okay for you?");
     ChMouth(3,2);
     ChMotion(3,1);
     VoicePlay("B040304500_03_020");
-    MsgDisp("Honda","Huh... Were you really watching the same
+    MsgDisp("Honda","Huh...
+Were you really watching the same
 performance as me?");
     MsgDateResultDisp();
     break ;

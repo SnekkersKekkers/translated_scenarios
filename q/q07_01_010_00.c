@@ -3,29 +3,31 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, a message. It's from
-｛風真＊＊｝...... )");
+MsgDisp("主人公","(Ah, a message.
+It's from ｛風真＊＊｝...... )");
 MsgDisp("主人公","(\"After the lights go off, meet me in the
-lobby.\"......Just that?
-I wonder what he's up to......)");
+lobby.\"......Just that? I wonder what he's
+up to......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,30,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,30,0,0,3,#1,#1,0,2,0,30);
-MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.");
+MsgDisp("主人公","Ah, ｛みちる＊｝,
+｛ひかる＊｝.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("Q070101000_21_000");
 MsgDisp("Michiru","Mari, what's up?");
-MsgDisp("主人公","Eh? ｛風真＊＊｝ sent me a message to meet
-him in the lobby.");
+MsgDisp("主人公","Eh?
+｛風真＊＊｝ sent me a message
+to meet him in the lobby.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q070101000_21_010");
-MsgDisp("Michiru","Hehe. Looks like you're having fun huh,
-Mari?");
+MsgDisp("Michiru","Hehe.
+Looks like you're having fun huh, Mari?");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,5,1);
@@ -57,17 +59,18 @@ MsgClose();
 BGOpen("sc810",2);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is up to......
-If we get caught by a teacher, we'll get
-punished.)");
+MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is
+up to...... If we get caught by a teacher,
+we'll get punished.)");
 VoiceEVSPlay(1);
 VoicePlay("Q070101000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,254,0,0,3,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝. What's wrong? It's
-already dark outside.");
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
+What's wrong?
+It's already dark outside.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -116,8 +119,8 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("Q070101000_07_030");
-MsgDisp("Mikage","Uh...... that's certainly something. But
-give up, and return, for your sake.");
+MsgDisp("Mikage","Uh...... that's certainly something.
+But give up, and return, for your sake.");
 ChEye(1,2);
 ChMouth(1,0);
 MsgClose();
@@ -171,15 +174,17 @@ MsgDisp("主人公","Wow...... so beautiful∈");
 StlMouth(1,0);
 VoicePlay("Q070101000_01_070");
 MsgDisp("Kazama","Yeah, we should thank Mikage-sensei.");
-MsgDisp("主人公","Eh? Wait, you mean like, for the 12th
+MsgDisp("主人公","Eh?
+Wait, you mean like, for the 12th
 floor......");
 StlEye(1,0);
 VoicePlay("Q070101000_01_080");
-MsgDisp("Kazama","Yeah. I mean, we're together all the time.
+MsgDisp("Kazama","Yeah.
+I mean, we're together all the time.
 You, me, and him.");
 MsgDisp("主人公","Yeah. But I need to thank you,
-｛風真＊＊｝. You're the one who took me
-here.");
+｛風真＊＊｝. You're the one who
+took me here.");
 StlEyeOpenLevel(1,5);
 VoicePlay("Q070101000_01_090");
 MsgDisp("Kazama","Thank you too.

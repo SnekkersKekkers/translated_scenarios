@@ -7,7 +7,8 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("G110200800_02_000");
 MsgDisp("Sassa","Thanks for your help, manager!");
-MsgDisp("主人公","｛颯砂＊＊｝, that's a nice record.");
+MsgDisp("主人公","｛颯砂＊＊｝, that's a nice
+record.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -31,8 +32,9 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200800_02_030");
-MsgDisp("Sassa","Yeah. I was able to beat 4 of the records
-I signed up to compete in.");
+MsgDisp("Sassa","Yeah.
+I was able to beat 4 of the records I
+signed up to compete in.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -71,7 +73,8 @@ MsgClose();
 ChClose(2,0,0);
 BGOpen("ex110",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(He's gone... huh? Wasn't this supposed to
-be a cool down run?)");
+MsgDisp("主人公","(He's gone... huh?
+Wasn't this supposed to be a cool down
+run?)");
 MsgClose();
 ScrFadeOut(0,0);

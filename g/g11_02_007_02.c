@@ -15,8 +15,9 @@ ChOpen(2,41,0,0,4,#1,#1,0,0);
 VoicePlay("G110200702_02_000");
 MsgDisp("Sassa","Apparently Mikage-sensei arranged it.
 As expected of him.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝. I see. He's actually
-quite reliable, huh.");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+I see.
+He's actually quite reliable, huh.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -42,10 +43,11 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200702_02_020");
-MsgDisp("Sassa","｛主人公｝, let's run together to cool
-down.");
-MsgDisp("主人公","Yes. How was it? Did you have a good
-practice?");
+MsgDisp("Sassa","｛主人公｝, let's run
+together to cool down.");
+MsgDisp("主人公","Yes.
+How was it?
+Did you have a good practice?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -70,7 +72,7 @@ VoicePlay("G110200702_02_040");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
-MsgDisp("Sassa","Arm?
+MsgDisp("Sassa","My arm?
 Maybe I threw a bit too much?");
 VoicePlay("G110200702_02_060");
 ChEye(2,1);
@@ -97,7 +99,7 @@ SEStop("EV_SE_FOOT_037",2);
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I'm glad......it looks like they were
+MsgDisp("主人公","(I'm glad...... it looks like they were
 able to train more carefree than usual.
 I'm grateful to Mikage-sensei!)");
 MsgClose();

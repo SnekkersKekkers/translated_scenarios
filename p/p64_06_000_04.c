@@ -31,7 +31,7 @@ ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("P640600004_06_040");
-MsgDisp("Himuro","No! 
+MsgDisp("Himuro","No!
 There's no deep meaning to that!");
 ChEye(6,0);
 ChMouth(6,4);

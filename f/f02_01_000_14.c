@@ -29,8 +29,9 @@ ChMotion(1,0);
 VoicePlay("F020100014_01_020");
 MsgDisp("Kazama","I couldn't sleep at all that day because
 of the jet lag.");
-MsgDisp("主人公","Eh∋ So that's how it was. But weren't you
-fine the morning after?");
+MsgDisp("主人公","Eh∋
+So that's how it was.
+But weren't you fine the morning after?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

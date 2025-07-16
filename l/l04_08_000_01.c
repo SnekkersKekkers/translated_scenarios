@@ -8,8 +8,7 @@ switch (ChPrmGet(8,6)){
     VoicePlay("L040800001_08_000");
     MsgDisp("Shirahane","Ah, this is the fifth I got.
 Thanks for the obligatory chocolate.");
-    MsgDisp("主人公","(Hm,
-well, that's how it is......)");
+    MsgDisp("主人公","(Hm, well, that's how it is......)");
     break ;
     case 3:
     ChEye(8,0);

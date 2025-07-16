@@ -50,8 +50,7 @@ already spinning.");
         ChMouth(4,0);
         VoicePlay("B040423402_04_040");
         MsgDisp("Nanatsumori","No.");
-        MsgDisp("主人公","Then, did you not 
-get enough sleep?");
+        MsgDisp("主人公","Then, did you not get enough sleep?");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -63,19 +62,19 @@ get enough sleep?");
         ChMotion(4,1,1);
         VoicePlay("B040423402_04_060");
         MsgDisp("Nanatsumori","............");
-        MsgDisp("主人公","?
-Why are you laughing?");
+        MsgDisp("主人公","? Why are you laughing?");
         ChMotion(4,0,1);
         VoicePlay("B040423402_04_070");
         MsgDisp("Nanatsumori","I wonder why?");
-        MsgDisp("主人公","Somehow, ｛七ツ森＊｝, looks a bit
-mean...");
+        MsgDisp("主人公","Somehow, ｛七ツ森＊｝,
+looks a bit mean...");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423402_04_080");
-        MsgDisp("Nanatsumori","Really? My head is spinning right now. And
-it's because of you.");
+        MsgDisp("Nanatsumori","Really?
+My head is spinning right now.
+And it's because of you.");
         MsgDisp("主人公","(???)");
         break ;
         default :

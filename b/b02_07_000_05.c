@@ -11,5 +11,6 @@ VoicePlay("B020700005_07_010");
 MsgDisp("Mikage","You just now noticed it.
 Here, let's buy something to wear over
 here.");
-MsgDisp("主人公","(Ugh... I'm not wearing enough layers.
+MsgDisp("主人公","(Ugh...
+I'm not wearing enough layers.
 What a failure...)");

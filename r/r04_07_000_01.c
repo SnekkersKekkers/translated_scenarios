@@ -77,8 +77,7 @@ Do you really like it?");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("R040700001_07_090");
-    MsgDisp("Mikage","Yeah, I would want to see it
-on a stage.");
+    MsgDisp("Mikage","Yeah, I would want to see it on a stage.");
     MsgDisp("主人公","Hehe, you mean it?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -92,7 +91,8 @@ wouldn't lie.");
     ChEyeOpenLevel(7,8);
     VoicePlay("R040700001_07_110");
     MsgDisp("Mikage","It's beautiful.");
-    MsgDisp("主人公","｛御影＊＊｝...... Thank you very much.");
+    MsgDisp("主人公","｛御影＊＊｝......
+Thank you very much.");
     break ;
     default :
     DbgAssert(1);

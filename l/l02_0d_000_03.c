@@ -7,7 +7,8 @@ ChOpen(22,254,0,3,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("L020D00003_22_000");
-MsgDisp("Hikaru","Hi～ Mari.
+MsgDisp("Hikaru","Hi～
+Mari.
 Today's Valentine's♪");
 MsgDisp("主人公","Yeah, I'm ready.");
 ChEye(21,4);

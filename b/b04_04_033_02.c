@@ -87,8 +87,7 @@ different that we can respect the other?");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040403302_04_070");
-        MsgDisp("Nanatsumori","Of course, 
-I want to like the same things.");
+        MsgDisp("Nanatsumori","Of course, I want to like the same things.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -111,7 +110,7 @@ about different things, ＯＫ?");
         ChMotion(4,2,1);
         ChCheek(4,10);
         VoicePlay("B040403302_04_100");
-        MsgDisp("Nanatsumori","...Thank you.
+        MsgDisp("Nanatsumori","... Thank you.
 Hehe.");
         MsgDisp("主人公","(｛七ツ森＊｝ seems happy.)");
         break ;

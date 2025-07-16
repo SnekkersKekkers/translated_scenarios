@@ -7,8 +7,9 @@ ScrFadeIn(0);
 VoicePlay("B040506402_05_000");
 MsgDisp("Hiiragi","Our home field.
 The hometown festival.");
-MsgDisp("主人公","Yeah. Habataki City is now completely your
-home town, isn't it, ｛柊＊＊＊｝?");
+MsgDisp("主人公","Yeah.
+Habataki City is now completely your home
+town, isn't it, ｛柊＊＊＊｝?");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -37,8 +38,9 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("B040506402_05_040");
-MsgDisp("Hiiragi","Huh? Would it have been better if I
-refused at least once?");
+MsgDisp("Hiiragi","Huh?
+Would it have been better if I refused at
+least once?");
 MsgDisp("主人公","You have to accept a favor.");
 ChEye(5,3);
 ChMouth(5,3);
@@ -60,14 +62,16 @@ ChMouth(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("B040506402_05_060");
 MsgDisp("Hiiragi","Uh...");
-MsgDisp("主人公","Eh? ｛柊＊＊＊｝, what's wrong?");
+MsgDisp("主人公","Eh?
+｛柊＊＊＊｝, what's wrong?");
 ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040506402_05_070");
 MsgDisp("Hiiragi","Haaー I'm alright.
 I'm happy about everyone's feelings...");
-MsgDisp("主人公","｛柊＊＊＊｝... That's good.");
+MsgDisp("主人公","｛柊＊＊＊｝...
+That's good.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B040506402_05_080");

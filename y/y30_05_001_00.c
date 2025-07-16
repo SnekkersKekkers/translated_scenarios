@@ -4,16 +4,17 @@ BGOpen("ad510",0);
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ScrFadeIn(0);
 VoicePlay("Y300500100_05_010");
-MsgDisp("Hiiragi","(Phew...I'm about halfway there.
-I somehow have to catch up with her.
+MsgDisp("Hiiragi","(Phew...I'm about halfway there. I
+somehow have to catch up with her.
 Alright, let's go.)");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ad511",0);
 ScrFadeIn(0);
-MsgDisp("","Phew...I wonder if she's having fun
-skiing with me?");
+MsgDisp("","Phew...
+I wonder if she's having fun skiing
+with me?");
 MsgDisp("","With the guys and girls around us, it
 seems to mostly be the guy who's
 teaching. Or both of them are
@@ -26,8 +27,9 @@ MsgDisp("","Whilst I was looking for her inside
 the resthouse, I happened to see a
 happy looking poster.");
 VoicePlay("Y300500100_05_020");
-MsgDisp("Hiiragi","\"Hn? Kamakura Cafe?\"");
-MsgDisp("","...Yes, this is it.
+MsgDisp("Hiiragi","\"Hn?
+Kamakura Cafe?\"");
+MsgDisp("","... Yes, this is it.
 Surely she'll enjoy this!");
 MsgClear();
 MsgClose();
@@ -62,8 +64,8 @@ MsgDisp("Hiiragi","\"I'm the one who should be saying
 that.
 I enjoyed skiing.\"");
 MsgClear();
-MsgDisp("主人公","\"Hehe. Then, shall we go again this
-season?\"");
+MsgDisp("主人公","\"Hehe.
+Then, shall we go again this season?\"");
 MsgDisp("","Perhaps, she actually enjoyed skiing
 with me...");
 MsgDisp("","Suddenly I had this feeling.");

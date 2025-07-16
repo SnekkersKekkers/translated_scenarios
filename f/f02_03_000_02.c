@@ -14,7 +14,8 @@ VoicePlay("F020300002_03_000");
 MsgDisp("Honda","Perhaps you've heard of Vice Principal
 Himuro's black magic∋ Or maybe...
 Kojiro-sensei's Molly∋");
-MsgDisp("主人公","Huh∋　 What's that?");
+MsgDisp("主人公","Huh∋
+What's that?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);

@@ -35,13 +35,13 @@ MsgDisp("主人公","Yeah.");
 MsgClose();
 ScrFadeOut(0);
 VoicePlay("B330A30501_01_010");
-MsgDisp("Kazama","Lift your chin a bit...that's right.
+MsgDisp("Kazama","Lift your chin a bit... that's right.
 And try lifting your arm too.");
 MsgDisp("主人公","Y-Yeah.");
 VoicePlay("B330A30501_02_010");
 MsgDisp("Sassa","Lift your heel a bit on your hind leg, and
 stand on your toe.");
-MsgDisp("主人公","Umm, l-like this? ");
+MsgDisp("主人公","Umm, l-like this?");
 VoicePlay("B330A30501_06_010");
 MsgDisp("Himuro","Don't put too much force on release.
 Making a gentle curve, quickly let go.");
@@ -92,8 +92,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30501_06_030");
 MsgDisp("Himuro","My method of teaching is better.");
-MsgDisp("主人公","(Haa... Maybe it'll be difficult for me to
-be taught properly?)");
+MsgDisp("主人公","(Haa...
+Maybe it'll be difficult for me to be
+taught properly?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -28,7 +28,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040203300_02_020");
     MsgDisp("Sassa","Uh, it says that it's edible.
-......20 Rich per cup∋
+...... 20 Rich per cup∋
 Luxury ingredients.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

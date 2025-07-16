@@ -11,10 +11,10 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200801_02_000");
-MsgDisp("Sassa","｛主人公｝, so, you were here.");
+MsgDisp("Sassa","｛主人公｝, so, you were
+here.");
 MsgDisp("主人公","Yeah, I was in charge of the club
-expenses.
-But......It's over.");
+expenses. But......It's over.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -80,7 +80,8 @@ ChMotion(2,0);
 VoicePlay("G110200801_02_080");
 MsgDisp("Sassa","It seems like this'll drag on for a
 while......");
-MsgDisp("主人公","Umm......The high-altitude training?");
+MsgDisp("主人公","Umm......
+The high-altitude training?");
 ChEye(2,2);
 ChMouth(2,1);
 ChMotion(2,1);
@@ -92,7 +93,7 @@ ChMouth(2,1);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("G110200801_02_100");
-MsgDisp("Sassa","......What am I saying∋
+MsgDisp("Sassa","...... What am I saying∋
 This is no good, I need to push myself
 harder!");
 MsgClose();

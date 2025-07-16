@@ -6,7 +6,8 @@ SEWait();
 VoicePlay("J010300001_03_000");
 MsgDisp("Honda","Honda here.
 Thanks for calling in!");
-MsgDisp("主人公","Ah, ｛本多＊＊｝? It's
+MsgDisp("主人公","Ah, ｛本多＊＊｝?
+It's
 ｛主人公苗字｝.");
 VoicePlay("J010300001_03_010");
 MsgDisp("Honda","——Unfortunately, I can't take your call

@@ -3,8 +3,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600000_06_000");
-MsgDisp("Himuro","There really are a lot of cherry
-blossoms.");
+MsgDisp("Himuro","There really are a lot of cherry blossoms.");
 MsgDisp("主人公","Yeah.
 They're soft to step on.");
 ChEye(6,0);
@@ -32,7 +31,8 @@ SEPlay("EV_SE_645");
 Wait(20,0);
 BGMPlay("BGM_C06_INORI_B",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Eh, hold on......! ｛氷室＊＊｝∋");
+MsgDisp("主人公","Eh, hold on......!
+｛氷室＊＊｝∋");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600000_06_030");
@@ -50,7 +50,7 @@ StlMouth(6,0);
 VoicePlay("B050600000_06_050");
 MsgDisp("Himuro","A comfortable bed and a stunning view.
 Cherry blossoms as far as the eye can see.
-So beautiful......it's scary.");
+So beautiful...... it's scary.");
 StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);
@@ -91,8 +91,9 @@ SEPlay("EV_SE_645",0.5,0.6);
 Wait(20,0);
 MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Haa......I was just shocked when you
-suddenly laid down.");
+MsgDisp("主人公","Haa......
+I was just shocked when you suddenly laid
+down.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

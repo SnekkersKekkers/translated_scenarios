@@ -3,8 +3,9 @@ BGMPlay("BGM_C08_DAICHI_I",0.01);
 BGOpen("ad810",0);
 ScrFadeIn(0);
 MsgDisp("主人公","\"Starting from today, I'll be working
-here. I'm ｛主人公苗字｝. I
-look forward to working with you!\"");
+here. I'm
+｛主人公苗字｝.
+I look forward to working with you!\"");
 MsgDisp("","A cheerful and lively voice echoes
 through our workplace.");
 MsgClear();
@@ -32,7 +33,7 @@ hard.");
 MsgDisp("","Even so, despite it being her first
 day, she's completing her work
 quickly.");
-MsgDisp("","...As expected.
+MsgDisp("","... As expected.
 She's quick witted too.");
 MsgClear();
 VoicePlay("Y300800100_40_000");
@@ -75,8 +76,8 @@ a short break in the office's
 breakroom.\"");
 VoicePlay("Y300800100_08_000");
 MsgDisp("Shirahane","\"Ya can help yourself to any drink
-here durin' your break. Well then,
-what would ya like? \"");
+here durin' your break.
+Well then, what would ya like? \"");
 MsgDisp("","Bein' a busy body, I unintentionally
 was meddlin'.");
 MsgClear();

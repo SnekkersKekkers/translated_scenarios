@@ -1,6 +1,7 @@
-MsgDisp("主人公","｛御影＊＊｝, recently, you're around
-｛柊＊＊＊｝ and ｛氷室＊＊｝ a lot, but
-what sort of things do you talk about?");
+MsgDisp("主人公","｛御影＊＊｝, recently,
+you're around ｛柊＊＊＊｝ and
+｛氷室＊＊｝ a lot, but what sort
+of things do you talk about?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -30,7 +31,8 @@ VoicePlay("B070700001_07_280");
 MsgDisp("Mikage","Yeah, but Yanosuke also knows so, he'll
 quietly tell me that he \"added some slight
 misinformation\" on the side.");
-MsgDisp("主人公","Heeh...｛柊＊＊＊｝ is funny.
+MsgDisp("主人公","Heeh...
+｛柊＊＊＊｝ is funny.
 Is ｛氷室＊＊｝ fooled?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -69,8 +71,9 @@ VoicePlay("B070700001_07_330");
 MsgDisp("Mikage","Mostly grades～
 Well, I have to keep confidentiality.
 Don't worry, focus on your studies.");
-MsgDisp("主人公","(Ehh...What exactly are those three
-talking about when it comes to me?)");
+MsgDisp("主人公","(Ehh...
+What exactly are those three talking about
+when it comes to me?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

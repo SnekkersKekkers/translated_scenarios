@@ -21,8 +21,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("S120200003_02_000");
     MsgDisp("Sassa","No problem.
 We got to your house so quickly.");
-    MsgDisp("主人公","It's because time flies when we
-talk.");
+    MsgDisp("主人公","It's because time flies when we talk.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -46,8 +45,8 @@ Cya.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(This year, ｛颯砂＊＊｝ is also trying his
-best.
+    MsgDisp("主人公","(This year, ｛颯砂＊＊｝ is also
+trying his best.
 I need to work hard too!)");
     break ;
     case 4:
@@ -74,8 +73,8 @@ Thanks for walking me back.");
     MsgDisp("Sassa","This is our last year of high school, so I
 prayed earnestly.");
     MsgDisp("主人公","I see.
-Since it's ｛颯砂＊＊｝, I'm sure you'll do
-well.");
+Since it's ｛颯砂＊＊｝, I'm sure
+you'll do well.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,5);
@@ -87,8 +86,9 @@ well.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S120200003_02_070");
-    MsgDisp("Sassa","No. When you talk to me like that, I
-really start to believe I can do it.");
+    MsgDisp("Sassa","No.
+When you talk to me like that, I really
+start to believe I can do it.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

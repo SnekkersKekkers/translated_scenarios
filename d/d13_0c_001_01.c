@@ -11,7 +11,8 @@ ChOpen(5,34,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D130C00101_05_000");
-MsgDisp("Hiiragi","｛主人公｝, I finally found you.");
+MsgDisp("Hiiragi","｛主人公｝, I finally
+found you.");
 MsgDisp("主人公","｛柊＊＊＊｝, what's up?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -36,7 +37,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D130C00101_07_000");
 MsgDisp("Mikage","That's a little cold.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝, ｛御影＊＊｝!");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝,
+｛御影＊＊｝!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -130,8 +132,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D130C00101_07_050");
-MsgDisp("Mikage","I'm telling you, it'll be
-fine, Yanosuke.");
+MsgDisp("Mikage","I'm telling you, it'll be fine, Yanosuke.");
 ChMouth(5,4);
 ChEye(7,0);
 ChMouth(7,0);

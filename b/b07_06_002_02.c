@@ -16,8 +16,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600002_06_100");
-MsgDisp("Himuro","I mean you can't 
-ignore his existence.");
+MsgDisp("Himuro","I mean you can't ignore his existence.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -32,14 +31,16 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_120");
 MsgDisp("Himuro","Despite that, he's so friendly it's
 seriously annoying...");
-MsgDisp("主人公","Hehe. You like ｛御影＊＊｝ don't you?");
+MsgDisp("主人公","Hehe.
+You like ｛御影＊＊｝
+don't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B070600002_06_130");
 MsgDisp("Himuro","Why's that?
-...But, I don't dislike him.");
+... But, I don't dislike him.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -56,7 +57,8 @@ MsgDisp("Himuro","I feel like he's always looking after us.
 I'm sure Reiichi has a hard time with
 that.");
 MsgDisp("主人公","(He may say those things but I think
-｛氷室＊＊｝ trusts ｛御影＊＊｝ )");
+｛氷室＊＊｝ trusts
+｛御影＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

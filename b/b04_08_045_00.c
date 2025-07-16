@@ -10,9 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,3,1);
     VoicePlay("B040804500_08_000");
-    MsgDisp("Shirahane","Yeah... it was super moving... I can't
-believe that their chairman is the same
-age as us...");
+    MsgDisp("Shirahane","Yeah... it was super moving...
+I can't believe that their chairman is the
+same age as us...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

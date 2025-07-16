@@ -22,8 +22,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020640001_06_030");
-MsgDisp("Himuro","I stopped. Because...... I thought it was
-very \"Himuro-like\".");
+MsgDisp("Himuro","I stopped.
+Because......
+I thought it was very \"Himuro-like\".");
 MsgDisp("主人公","Eh?");
 ChEye(6,1);
 ChMouth(6,0);

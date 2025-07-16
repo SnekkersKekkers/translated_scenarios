@@ -4,8 +4,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("Q240400000_04_000");
-MsgDisp("Nanatsumori","
-Don't you feel the fighting spirit∋");
+MsgDisp("Nanatsumori","Don't you feel the fighting spirit∋");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,5,1);
@@ -25,8 +24,7 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q240400000_04_030");
-MsgDisp("Nanatsumori","The pillow fight......
-is starting!");
+MsgDisp("Nanatsumori","The pillow fight...... is starting!");
 EnvStop(1);
 EnvAutoSet(0);
 MsgClose();

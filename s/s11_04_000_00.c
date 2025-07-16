@@ -35,7 +35,6 @@ VoicePlay("S110400000_04_040");
 MsgDisp("Nanatsumori","Cold buns will taste better when you
 reheat them. And even if something is
 cold, it can still taste good.");
-MsgDisp("主人公","(｛七ツ森＊｝ is really
-optimistic......)");
+MsgDisp("主人公","(｛七ツ森＊｝ is really optimistic......)");
 MsgClose();
 ScrFadeOut(0,0);

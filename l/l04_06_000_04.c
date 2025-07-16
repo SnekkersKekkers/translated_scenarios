@@ -6,8 +6,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("L040600004_06_000");
-    MsgDisp("Himuro","Thanks for going through
-that trouble.");
+    MsgDisp("Himuro","Thanks for going through that trouble.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -50,18 +49,17 @@ Actually making these by hand.");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("L040600004_06_050");
-    MsgDisp("Himuro","......Ah, is that so.
+    MsgDisp("Himuro","...... Ah, is that so.
 Well, the return gift has to be just as
 good, I guess.");
-    MsgDisp("主人公","It wasn't just for
-a good return, though.");
+    MsgDisp("主人公","It wasn't just for a good return, though.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("L040600004_06_060");
     MsgDisp("Himuro","I know.
 I'm just saying I want to give you one.
-......Anyways, thanks.");
+...... Anyways, thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

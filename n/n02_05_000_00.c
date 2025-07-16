@@ -8,8 +8,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500000_05_000");
     MsgDisp("Hiiragi","Hello.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Are you also here to see
-the results?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Are you also here to see the results?");
     ChMouth(5,4);
     VoicePlay("N020500000_05_010");
     MsgDisp("Hiiragi","Yes.");
@@ -23,8 +23,9 @@ You did fantastically.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("N020500000_05_030");
-    MsgDisp("Hiiragi","Congratulations. I have to work hard like
-you do. See you.");
+    MsgDisp("Hiiragi","Congratulations.
+I have to work hard like you do.
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
@@ -39,8 +40,9 @@ I did my best!)");
     VoicePlay("N020500000_05_040");
     MsgDisp("Hiiragi","Since you got the top rank, I want you to
 be my private tutor.");
-    MsgDisp("主人公","Hehe... As long as you don't mind tough
-study sessions!");
+    MsgDisp("主人公","Hehe...
+As long as you don't mind tough study
+sessions!");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("N020500000_05_050");
@@ -68,17 +70,18 @@ hidden it at all.");
     ChOpen(5,254,0,4,3,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("N020500000_05_080");
-    MsgDisp("Hiiragi","｛主人公｝. You got the first place,
-congratulations.");
-    MsgDisp("主人公","｛柊＊＊＊｝! Thank you!");
+    MsgDisp("Hiiragi","｛主人公｝.
+You got the first place, congratulations.");
+    MsgDisp("主人公","｛柊＊＊＊｝!
+Thank you!");
     ChEye(5,0);
     ChMotion(5,3);
     VoicePlay("N020500000_05_090");
     MsgDisp("Hiiragi","I will start paying more attention again.
 I might be taking advantage of my
 position.");
-    MsgDisp("主人公","｛柊＊＊＊｝, you might be just trying too
-hard.");
+    MsgDisp("主人公","｛柊＊＊＊｝, you might be just
+trying too hard.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

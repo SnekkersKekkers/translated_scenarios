@@ -42,8 +42,7 @@ It's kind of moving.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040606500_06_030");
-    MsgDisp("Himuro","Isn't this about enjoying 
-fleeting beauty?");
+    MsgDisp("Himuro","Isn't this about enjoying fleeting beauty?");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

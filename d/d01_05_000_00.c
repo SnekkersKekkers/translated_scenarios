@@ -6,8 +6,8 @@ MsgDisp("主人公","(Ah, it's from Habatcher's Editorial
 Department.
 It says......");
 MsgDisp("主人公","(\"You received permission to interview the
-Habataki Theater Company\" ......Alright,
-let's go!)");
+Habataki Theater Company\" ......
+Alright, let's go!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -18,14 +18,14 @@ ScrFadeIn(0);
 SEPlay("EV_SE_637",0,0.4);
 Wait(30,0);
 VoicePlay("D010500000_45_000");
-MsgDisp("Woman Customer A","Yanosuke-sama was beautiful today
-too.");
+MsgDisp("Woman Customer A","Yanosuke-sama was beautiful today too.");
 VoicePlay("D010500000_47_000");
 MsgDisp("Woman Customer B","Yeah, he was lovely～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(It looks like the play just finished.
-｛柊＊＊＊｝ was really popular.
-Now, where are the dressing rooms......?)");
+｛柊＊＊＊｝ was really
+popular. Now, where are the dressing
+rooms......?)");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("wf411",0);
@@ -49,11 +49,14 @@ StlMouth(5,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D010500000_05_010");
-MsgDisp("Hiiragi","｛主人公｝. What are you doing here?");
-MsgDisp("主人公","Eh......｛柊＊＊＊｝, is that you?");
+MsgDisp("Hiiragi","｛主人公｝.
+What are you doing here?");
+MsgDisp("主人公","Eh......
+｛柊＊＊＊｝, is that you?");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500000_05_020");
-MsgDisp("Hiiragi","Yes. We're just cleaning up the stage.");
+MsgDisp("Hiiragi","Yes.
+We're just cleaning up the stage.");
 StlMouth(5,1);
 VoicePlay("D010500000_05_030");
 MsgDisp("Hiiragi","And you?");
@@ -83,19 +86,18 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛柊＊＊＊｝ as a woman looks
-lovely......
+MsgDisp("主人公","(｛柊＊＊＊｝ as a woman looks lovely......
 He was so beautiful it made me nervous.)");
 VoicePlay("D010500000_05_060");
 MsgDisp("Hiiragi","Excuse me.
 Sorry to keep you waiting.");
-MsgDisp("主人公","It's fine, I'm sorry for disturbing 
-you.");
+MsgDisp("主人公","It's fine, I'm sorry for disturbing you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","(Ah......He's back to normal.)");
+MsgDisp("主人公","(Ah......
+He's back to normal.)");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -103,7 +105,7 @@ VoicePlay("D010500000_05_070");
 MsgDisp("Hiiragi","Hm?
 You look a bit disappointed now.");
 MsgDisp("主人公","Ah, it's not like that!
-......Alright, I'm sorry.");
+...... Alright, I'm sorry.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -126,8 +128,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(Phew......That was a good interview!
-｛柊＊＊＊｝ shared a lot with me, even
-though we didn't have much time.)");
+｛柊＊＊＊｝ shared a lot with
+me, even though we didn't have much time.)");
 MsgClose();
 Wait(40,0);
 ChPrmTblAdd(5,0);

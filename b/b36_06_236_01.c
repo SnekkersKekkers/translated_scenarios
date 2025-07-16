@@ -11,8 +11,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 BGMPlay("BGM_PLACE_AMUSE_NIGHT",0.01);
 VoicePlay("B360623601_06_000");
-MsgDisp("Himuro","You said you like the Night Parade,
-right?");
+MsgDisp("Himuro","You said you like the Night Parade, right?");
 MsgDisp("主人公","Yeah.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -39,8 +38,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360623601_06_040");
-MsgDisp("Himuro","If someone else invites
-you here——");
+MsgDisp("Himuro","If someone else invites you here——");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -53,7 +51,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360623601_06_060");
-MsgDisp("Himuro","Sorry. Forget about it.");
+MsgDisp("Himuro","Sorry.
+Forget about it.");
 MsgDisp("主人公","No, thank you for today.
 And thank you for inviting me after.");
 ChEye(6,0);

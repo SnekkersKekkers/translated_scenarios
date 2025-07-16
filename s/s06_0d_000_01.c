@@ -14,8 +14,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("S060D00001_22_010");
-MsgDisp("Hikaru","Hikaru and sis will escort 
-Mari today▼");
+MsgDisp("Hikaru","Hikaru and sis will escort Mari today▼");
 MsgDisp("主人公","Hehe, thanks.");
 MsgDisp("主人公","(I'm happy they praised me!
 I'm so glad I dressed up!)");

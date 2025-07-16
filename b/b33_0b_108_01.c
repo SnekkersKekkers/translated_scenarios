@@ -89,7 +89,8 @@ ChClose(3,0,30);
 ChClose(4,0,30);
 ScrQuake(0);
 SEWait();
-MsgDisp("主人公","(Waa～! ｛風真＊＊｝ is so mean∈))");
+MsgDisp("主人公","(Waa～!
+｛風真＊＊｝ is so mean∈))");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

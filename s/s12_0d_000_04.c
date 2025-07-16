@@ -27,7 +27,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("S120D00004_22_000");
 MsgDisp("Hikaru","I want to play with Mari even more.
-......Right?");
+...... Right?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -36,7 +36,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("S120D00004_21_020");
-MsgDisp("Michiru","......I can't.
+MsgDisp("Michiru","...... I can't.
 It's been a sad feeling since the New Year
 started.");
 ChEye(22,4);

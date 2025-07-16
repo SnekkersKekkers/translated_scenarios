@@ -62,7 +62,7 @@ much?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040330002_03_040");
-        MsgDisp("Honda","...I see.
+        MsgDisp("Honda","... I see.
 You really dislike them that much?");
         MsgDisp("主人公","No, it's just that I'm not very good with
 them.");
@@ -72,7 +72,8 @@ them.");
         VoicePlay("B040330002_03_050");
         MsgDisp("Honda","Then, let's put the creatures aside, and
 try some fortune telling?");
-        MsgDisp("主人公","Eh, ｛本多＊＊｝, you can fortune-tell?");
+        MsgDisp("主人公","Eh, ｛本多＊＊｝, you can
+fortune-tell?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);

@@ -7,14 +7,14 @@ ChMouth(4,4);
 ChCheek(4,8);
 VoicePlay("T020420000_04_110");
 MsgDisp("Nanatsumori","Really......?");
-MsgDisp("主人公","Do you......
-not believe me?");
+MsgDisp("主人公","Do you...... not believe me?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_120");
-MsgDisp("Nanatsumori","Wow...... This is so great, it feels like
-I'm dreaming......");
+MsgDisp("Nanatsumori","Wow......
+This is so great, it feels like I'm
+dreaming......");
 MsgDisp("主人公","Hehe, but it's not a dream, you know?");
 ChEye(4,4);
 ChMouth(4,3);
@@ -31,8 +31,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_150");
-MsgDisp("Nanatsumori","But, before that.
-......come here.");
+MsgDisp("Nanatsumori","But, before that. ......come here.");
 MsgDisp("主人公","Yes.");
 BGMStop(2.8);
 MsgClear();

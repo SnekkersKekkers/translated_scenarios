@@ -16,8 +16,8 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,3);
     VoicePlay("H2A2100000_21_000");
     MsgDisp("Michiru","Mari, congratulations!");
-    MsgDisp("主人公","｛みちる＊｝! It's because everyone did
-their best!");
+    MsgDisp("主人公","｛みちる＊｝!
+It's because everyone did their best!");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,0);
@@ -44,7 +44,8 @@ field club manager!)");
     ChMotion(21,3);
     VoicePlay("H2A2100000_21_020");
     MsgDisp("Michiru","Amazing, you won!");
-    MsgDisp("主人公","Thanks! It's thanks to your support,
+    MsgDisp("主人公","Thanks!
+It's thanks to your support,
 ｛みちる＊｝.");
     ChEye(21,0);
     ChMouth(21,0);
@@ -60,9 +61,9 @@ I was cheering for you though, Mari.");
     MsgDisp("Michiru","Mari's here, and a lot of great members
 are here. It really is a great team.
 Really, congratulations on winning.");
-    MsgDisp("主人公","(｛みちる＊｝...... I'm glad that I
-stayed as the track and field club
-manager!)");
+    MsgDisp("主人公","(｛みちる＊｝......
+I'm glad that I stayed as the track and
+field club manager!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

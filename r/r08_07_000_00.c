@@ -31,8 +31,9 @@ StlOpen("ev_07_15");
 StlEye(7,1);
 StlMouth(7,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝∋ Ah, thank you very
-much... Were you chasing me for this?");
+MsgDisp("主人公","｛御影＊＊｝∋
+Ah, thank you very much...
+Were you chasing me for this?");
 StlEye(7,1,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5,1);
@@ -49,7 +50,8 @@ StlMouth(7,0);
 VoicePlay("R080700000_07_030");
 MsgDisp("Mikage","Phew... our last Christmas party together
 is over.");
-MsgDisp("主人公","Yeah... I'll miss them.");
+MsgDisp("主人公","Yeah...
+I'll miss them.");
 StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,0);
@@ -57,8 +59,7 @@ VoicePlay("R080700000_07_040");
 MsgDisp("Mikage","Since I'm a teacher at Habataki High, I've
 always been attending the Christmas
 parties.");
-MsgDisp("主人公","I see...
-so you'll be here next year,
+MsgDisp("主人公","I see... so you'll be here next year,
 ｛御影＊＊｝.");
 StlEye(7,1);
 StlMouth(7,1);
@@ -72,8 +73,7 @@ VoicePlay("R080700000_07_060");
 MsgDisp("Mikage","Not only parties, you helped me do a lot
 of things I wasn't able to do in high
 school.");
-MsgDisp("主人公","Well, it was just things
-I wanted to do.");
+MsgDisp("主人公","Well, it was just things I wanted to do.");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("R080700000_07_070");
@@ -106,8 +106,8 @@ ChMotion(7,0);
 VoicePlay("R080700000_07_090");
 MsgDisp("Mikage","Oh... look at that.
 The party's over.");
-MsgDisp("主人公","Yes...｛御影＊＊｝, these three years
-we spent at Christmas parties have been so
+MsgDisp("主人公","Yes...｛御影＊＊｝, these three years we
+spent at Christmas parties have been so
 fun.");
 MsgClose();
 SEPlay("EV_SE_FOOT_039");
@@ -128,8 +128,7 @@ MsgDisp("","(Pat pat)");
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("R080700000_07_110");
-MsgDisp("Mikage","My precious Serious-chan,
-thank you.");
+MsgDisp("Mikage","My precious Serious-chan, thank you.");
 MsgDisp("主人公","M-My head...");
 ChEye(7,2);
 ChMouth(7,0);

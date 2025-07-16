@@ -21,18 +21,18 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ScrFadeIn(0);
 VoicePlay("B330A20801_02_000");
-MsgDisp("Sassa","Haa... As I thought, the rollercoaster
-here is really the best.");
-MsgDisp("主人公","Yeah, 
-it really packs a punch...");
+MsgDisp("Sassa","Haa...
+As I thought, the rollercoaster here is
+really the best.");
+MsgDisp("主人公","Yeah, it really packs a punch...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A20801_02_010");
-MsgDisp("Sassa","Haha. You were really tense. All hunched
-up.");
-MsgDisp("主人公","Hey, 
-haven't you laughed enough?");
+MsgDisp("Sassa","Haha.
+You were really tense.
+All hunched up.");
+MsgDisp("主人公","Hey, haven't you laughed enough?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -47,8 +47,7 @@ ChEyeOpenLevel(1,8);
 ChMouthOpenLevel(1,0);
 VoicePlay("B330A20801_01_000");
 MsgDisp("Kazama","............");
-MsgDisp("主人公","Umm... what's up 
-with you two?");
+MsgDisp("主人公","Umm... what's up with you two?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
@@ -72,8 +71,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B330A20801_01_020");
-MsgDisp("Kazama","Wait. Aren't we going to do
-rock-paper-scissors next also?");
+MsgDisp("Kazama","Wait.
+Aren't we going to do rock-paper-scissors
+next also?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -124,8 +124,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20801_06_040");
-MsgDisp("Himuro","You're awfully calm, 
-Nozomu-senpai.");
+MsgDisp("Himuro","You're awfully calm, Nozomu-senpai.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -137,8 +136,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A20801_02_050");
-MsgDisp("Sassa","Heheh,
-let's ride as a four then.");
+MsgDisp("Sassa","Heheh, let's ride as a four then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2,0,30);

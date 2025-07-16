@@ -27,9 +27,9 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoiceEVSPlay(6);
 VoicePlay("D140C05101_06_000");
-MsgDisp("Himuro","｛主人公｝, you like Habataki mixed
-juice right?
-...Do you want it?");
+MsgDisp("Himuro","｛主人公｝, you like
+Habataki mixed juice right?
+... Do you want it?");
 ChMouth(5,4);
 MsgDisp("主人公","Is that okay?");
 ChEye(7,0);
@@ -42,8 +42,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("D140C05101_06_010");
-MsgDisp("Himuro","...Understood. I'll also bring one for
-Yanosuke-senpai and Kojiro-sensei.");
+MsgDisp("Himuro","... Understood.
+I'll also bring one for Yanosuke-senpai
+and Kojiro-sensei.");
 MsgClose();
 SEPlay("EV_SE_621");
 Wait(10,0);
@@ -59,8 +60,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C05101_07_010");
-MsgDisp("Mikage","We're just a 
-side thought though.");
+MsgDisp("Mikage","We're just a side thought though.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -81,8 +81,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140C05101_07_020");
-MsgDisp("Mikage","Well, that's
-fine isn't it.");
+MsgDisp("Mikage","Well, that's fine isn't it.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

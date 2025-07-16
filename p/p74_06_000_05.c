@@ -2,15 +2,16 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I fell...
-even though it was my last stage...)");
+MsgDisp("主人公","(I fell... even though it was my last
+stage...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("P740600005_06_000");
 MsgDisp("Himuro","Good work.");
-MsgDisp("主人公","｛氷室＊＊｝... Thank you.");
+MsgDisp("主人公","｛氷室＊＊｝...
+Thank you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -34,8 +35,9 @@ VoicePlay("P740600005_06_030");
 MsgDisp("Himuro","You did well.
 Truly, thank you for your hard work these
 last three years.");
-MsgDisp("主人公","(｛氷室＊＊｝... I failed in the end, but
-these were a good three years, huh?)");
+MsgDisp("主人公","(｛氷室＊＊｝...
+I failed in the end, but these were a good
+three years, huh?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

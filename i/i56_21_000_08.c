@@ -19,8 +19,8 @@ BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);
 ChOpen(21,35,0,4,0,#1,#1,0,0);
 VoicePlay("I562100008_21_000");
-MsgDisp("Michiru","Hehe. Looks like you have a fan, huh,
-Mari?");
+MsgDisp("Michiru","Hehe.
+Looks like you have a fan, huh, Mari?");
 MsgDisp("主人公","Hm?");
 ChEye(21,0);
 ChMouth(21,0);

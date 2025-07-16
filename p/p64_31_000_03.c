@@ -3,8 +3,8 @@ ChMouth(31,0);
 ChMotion(31,0);
 ScrFadeIn(0);
 VoicePlay("P643100003_31_000");
-MsgDisp("Goro","...Hey. That mysterious plant, is it black
-magic?");
+MsgDisp("Goro","... Hey.
+That mysterious plant, is it black magic?");
 MsgDisp("主人公","Eh, which are you talking about?");
 ChEye(31,0);
 ChMouth(31,0);

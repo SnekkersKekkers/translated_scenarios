@@ -9,8 +9,8 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200802_02_000");
 MsgDisp("Sassa","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Are you training on your
-lunch break too?");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Are you training on your lunch break too?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -40,7 +40,7 @@ ChOpen(2,100,0,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200802_02_030");
 MsgDisp("Sassa","Hey, remember when we went to the ranch?");
-MsgDisp("主人公","Yeah. 
+MsgDisp("主人公","Yeah.
 We milked cows, right?");
 ChEye(2,1);
 ChMouth(2,0);

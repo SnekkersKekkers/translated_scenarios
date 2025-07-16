@@ -8,8 +8,8 @@ MsgDisp("主人公","(Will he show up again if there is someone
 in trouble like last time?)");
 MsgDisp("主人公","(But such a convenient thing like that
 definitely won't happen, huh......)");
-MsgDisp("主人公","Sigh...... \"Kuya\"-san, I wonder where you
-are?");
+MsgDisp("主人公","Sigh...... \"
+Kuya\"-san, I wonder where you are?");
 VoicePlay("D030900300_09_000");
 MsgDisp("Kuya?","You called?");
 MsgDisp("主人公","Eh?");
@@ -76,7 +76,8 @@ ChMotion(9,4,1);
 VoicePlay("D030900300_09_080");
 MsgDisp("Kuya?","Your face is red.
 Are you okay?");
-MsgDisp("主人公","(Woah......So close!)");
+MsgDisp("主人公","(Woah......
+So close!)");
 MsgDisp("主人公","Uhm, I'm fine!
 By the way, that uniform......");
 MsgClose();
@@ -98,8 +99,8 @@ VoicePlay("D030900300_09_100");
 MsgDisp("Kuya","I am Kuya Shirahane.
 A second year student at Hanegasaki
 Academy.");
-MsgDisp("主人公","I'm ｛主人公姓名｝. A first year student at
-Habataki High School.
+MsgDisp("主人公","I'm ｛主人公姓名｝. A first
+year student at Habataki High School.
 Uhm......Shirahane-san?");
 ChEye(9,0);
 ChMouth(9,0);
@@ -107,9 +108,8 @@ ChMotion(9,4,1);
 VoicePlay("D030900300_09_110");
 MsgDisp("Kuya","Just Kuya is fine.
 That's what everyone calls me.");
-MsgDisp("主人公","Then......Kuya-san.
-I want to thank you again for helping me.
-I'm really grateful!");
+MsgDisp("主人公","Then......Kuya-san. I want to thank you
+again for helping me. I'm really grateful!");
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_120");
 MsgDisp("Kuya","You're welcome.
@@ -135,8 +135,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900300_09_150");
 MsgDisp("Kuya","But......I guess today I have a situation
-of my own to deal with?
-It's a strange feeling.");
+of my own to deal with? It's a strange
+feeling.");
 MsgDisp("主人公","Hehe.");
 ChEye(9,3);
 ChMouth(9,0);

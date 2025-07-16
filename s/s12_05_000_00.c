@@ -43,9 +43,9 @@ It seems this year will be a good year.");
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("S120500000_05_030");
-    MsgDisp("Hiiragi","Yeah. We don't know if our wishes will
-come true, so it's up to us to try our
-best.");
+    MsgDisp("Hiiragi","Yeah.
+We don't know if our wishes will come
+true, so it's up to us to try our best.");
     MsgDisp("主人公","You're right.
 Okay, let's try our best.");
     ChEye(5,3);
@@ -78,8 +78,8 @@ Let me take you home.");
     MsgDisp("Hiiragi","There was a huge turnout.
 Are you tired at all?");
     MsgDisp("主人公","I'm fine.
-｛柊＊＊＊｝, are you used to so many
-people at your performances?");
+｛柊＊＊＊｝, are you used to so
+many people at your performances?");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("S120500000_05_090");

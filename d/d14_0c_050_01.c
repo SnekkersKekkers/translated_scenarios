@@ -26,8 +26,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C05001_06_000");
-MsgDisp("Himuro","?
-What do you mean?");
+MsgDisp("Himuro","? What do you mean?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -69,8 +68,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C05001_06_010");
-MsgDisp("Himuro","Kojiro-sensei is
-number one most childish.");
+MsgDisp("Himuro","Kojiro-sensei is number one most childish.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -102,8 +100,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05001_06_030");
-MsgDisp("Himuro","Then, I'll 
-take you up on that.");
+MsgDisp("Himuro","Then, I'll take you up on that.");
 ChEye(5,4);
 ChEye(6,0);
 ChMouth(6,0);

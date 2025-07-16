@@ -8,8 +8,8 @@ MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝. Are you heading home
-already?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Are you heading home already?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -78,7 +78,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F100640001_01_050");
 MsgDisp("Kazama","I also have some business with him now,
 too.");
-MsgDisp("主人公","(...Hmm?)");
+MsgDisp("主人公","(...
+Hmm?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

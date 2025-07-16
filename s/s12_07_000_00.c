@@ -36,8 +36,8 @@ scold me for it.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(I visited the shrine with
-｛御影＊＊｝! Looks like this year will
-be another good year!)");
+｛御影＊＊｝! Looks like
+this year will be another good year!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -49,10 +49,10 @@ be another good year!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120700000_07_030");
-    MsgDisp("Mikage","My body and spirit both feel
-refreshed.");
-    MsgDisp("主人公","Yeah. ｛御影＊＊｝, thanks for coming
-with me.");
+    MsgDisp("Mikage","My body and spirit both feel refreshed.");
+    MsgDisp("主人公","Yeah.
+｛御影＊＊｝, thanks for
+coming with me.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -83,8 +83,7 @@ first thing in the year.");
     MsgDisp("Mikage","It's nice it was so lively, even if it's a
 little tiring.
 Are you okay?");
-    MsgDisp("主人公","The liveliness is what made it
-fun.");
+    MsgDisp("主人公","The liveliness is what made it fun.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

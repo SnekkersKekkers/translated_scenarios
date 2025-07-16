@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I think I'll go home now.
-......Huh?)");
+...... Huh?)");
 VoicePlay("E010620200_04_000");
 MsgDisp("Nanatsumori?","That guy is crazy.");
 VoicePlay("E010620200_06_000");
@@ -22,8 +22,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620200_06_010");
 MsgDisp("Himuro","Hi.");
-MsgDisp("主人公","I didn't expect to see you
-two together.");
+MsgDisp("主人公","I didn't expect to see you two together.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1);
@@ -59,8 +58,7 @@ ChMouth(4,4);
 ChMotion(4,2);
 ChCheek(4,7);
 VoicePlay("E010620200_04_030");
-MsgDisp("Nanatsumori","It was......
-an angel.");
+MsgDisp("Nanatsumori","It was...... an angel.");
 MsgDisp("主人公","???");
 ChEye(6,0);
 ChMouth(6,4);
@@ -80,7 +78,8 @@ ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("E010620200_04_050");
 MsgDisp("Nanatsumori","He was also sneaking around Himuro-kun's
-feet. ......Right?");
+feet.
+...... Right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -93,14 +92,16 @@ ChMouth(4,3);
 ChMotion(4,0);
 ChCheek(4,0);
 VoicePlay("E010620200_04_060");
-MsgDisp("Nanatsumori","Hahaha! Himuro-kun, you've been drawn to
-the cat too, huh?");
+MsgDisp("Nanatsumori","Hahaha!
+Himuro-kun, you've been drawn to the cat
+too, huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("E010620200_06_070");
-MsgDisp("Himuro","Haa...... I have to admit it.");
+MsgDisp("Himuro","Haa......
+I have to admit it.");
 MsgDisp("主人公","(Hehe, they both like cats.
 It's a bit of a surprise.)");
 BGMStop();

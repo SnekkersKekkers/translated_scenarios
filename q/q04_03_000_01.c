@@ -23,7 +23,8 @@ With you, it sure will be fun.");
     ChSet(3,3);
     VoicePlay("Q040300001_03_020");
     MsgDisp("Honda","Of course it's A-OK with me!");
-    MsgDisp("主人公","Awesome! Let's get going then.");
+    MsgDisp("主人公","Awesome!
+Let's get going then.");
     break ;
     default :
     DbgAssert(1);

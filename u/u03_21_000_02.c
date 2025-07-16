@@ -16,7 +16,8 @@ MsgSel("Accept Camellia perfume","Don't accept it");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Thank you!
-I this for me to use, ｛みちる＊｝?");
+I this for me to use,
+｛みちる＊｝?");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,3);
@@ -34,7 +35,9 @@ considerate person......)");
     VoicePlay("U032100002_21_030");
     MsgDisp("Michiru","Thank you for hanging out with me today.
 Well then, see you at school.");
-    MsgDisp("主人公","Okay. See you later, ｛みちる＊｝!");
+    MsgDisp("主人公","Okay.
+See you later,
+｛みちる＊｝!");
     break ;
     case 1:
     MsgDisp("主人公","I'm sorry but......no thanks.");
@@ -51,7 +54,9 @@ No worries.");
     VoicePlay("U032100002_21_050");
     MsgDisp("Michiru","Thanks for today.
 See you at school then?");
-    MsgDisp("主人公","Yeah. See you later, ｛みちる＊｝.");
+    MsgDisp("主人公","Yeah.
+See you later,
+｛みちる＊｝.");
     break ;
     default :
     DbgAssert(0);

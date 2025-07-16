@@ -12,8 +12,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040402301_04_010");
-    MsgDisp("Nanatsumori","Yeah. I'm more like a red type of person,
-so this is hurting my eyes...");
+    MsgDisp("Nanatsumori","Yeah.
+I'm more like a red type of person, so
+this is hurting my eyes...");
     MsgDateResultDisp();
     break ;
     case 1:

@@ -6,8 +6,9 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040221102_02_000");
-MsgDisp("Sassa","Heeh. The baby tiger just born last month
-is now available to see.");
+MsgDisp("Sassa","Heeh.
+The baby tiger just born last month is now
+available to see.");
 MsgSel("It's like am kitten huh?","Apparently there's also a photo session","After this, I might buy some goods to take home.");
 switch (MsgSelRsltGet()){
     case 0:

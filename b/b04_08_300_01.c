@@ -6,7 +6,7 @@ ChMotion(8,2);
 ScrFadeIn(0);
 VoicePlay("B040830001_08_000");
 MsgDisp("Shirahane","Huh?
-...There's kind of a nice smell?");
+... There's kind of a nice smell?");
 MsgSel("Is that so?","Is it a tasty smell?","To me, it smells like ｛大地＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,9 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(8,0);
     ChCheek(8,3);
     VoicePlay("B040830001_08_010");
-    MsgDisp("Shirahane","...Ah. That's right, it's your smell! You
-smell this nice.");
+    MsgDisp("Shirahane","... Ah.
+That's right, it's your smell!
+You smell this nice.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -95,9 +95,8 @@ conversation.");
         VoicePlay("B040510102_05_100");
         MsgDisp("Hiiragi","Haa, well at the end of the day, I like
 the you now.
-...Is that okay?");
-        MsgDisp("主人公","(Umm, 
-I'm happy but it's embarrassing.)");
+... Is that okay?");
+        MsgDisp("主人公","(Umm, I'm happy but it's embarrassing.)");
         break ;
         default :
         DbgAssert(1);

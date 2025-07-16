@@ -4,8 +4,9 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh? ｛風真＊＊｝, good morning! Were you
-maybe waiting for me?");
+MsgDisp("主人公","Oh?
+｛風真＊＊｝, good morning!
+Were you maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -23,8 +24,8 @@ VoicePlay("D020100000_01_010");
 MsgDisp("Kazama","I guess so. When I look at you, I don't
 notice anything different. It's like you
 haven't grown at all.");
-MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
-haven't you?");
+MsgDisp("主人公","｛風真＊＊｝, you've changed a
+lot though, haven't you?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -75,14 +76,15 @@ VoicePlay("D020100000_01_121");
 MsgDisp("Kazama","Looks like it's going well......
 The wish I made to the pinwheel.");
 MsgDisp("主人公","I see.
-If ｛風真＊＊｝ thinks so, maybe so.");
+If ｛風真＊＊｝ thinks so,
+maybe so.");
 NSSEye(1,3);
 NSSMouth(1,2);
 NSSMouthOpenLevel(1,0);
 VoicePlay("D020100000_01_130");
 MsgDisp("Kazama","Hm?");
-MsgDisp("主人公","｛風真＊＊｝'s wish is also my wish,
-so......");
+MsgDisp("主人公","｛風真＊＊｝'s wish is also my
+wish, so......");
 NSSEye(1,6);
 NSSMouth(1,3);
 NSSCheek(1,7);
@@ -96,8 +98,7 @@ NSSClose();
 SEStop("EV_SE_754",0.01);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
-MsgDisp("主人公","Kyaa∈
-There's a puddle here......");
+MsgDisp("主人公","Kyaa∈ There's a puddle here......");
 BGOpen("sc100",0);
 MsgClose();
 ChOpen(1,254,0,3,3,#1,#1,0,0);
@@ -158,8 +159,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 VoicePlay("D020100000_01_180");
-MsgDisp("Kazama","Whatever. I don't care at all if they
-stare.");
+MsgDisp("Kazama","Whatever.
+I don't care at all if they stare.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","It bothers me!");
 SEStop("EV_SE_515",1);

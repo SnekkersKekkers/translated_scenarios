@@ -11,7 +11,8 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("F020400014_04_000");
-MsgDisp("Nanatsumori","Oh. We've almost joined the ranks of the
+MsgDisp("Nanatsumori","Oh.
+We've almost joined the ranks of the
 adults.");
 MsgDisp("主人公","Seems so.");
 ChEye(4,0);
@@ -30,7 +31,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("F020400014_04_030");
-MsgDisp("Nanatsumori","Yep. In the three years since coming to
+MsgDisp("Nanatsumori","Yep.
+In the three years since coming to
 Habataki City, I've grown as a person.");
 VoicePlay("F020400014_04_040");
 MsgDisp("Nanatsumori","He told me, 'If you only ever do what you

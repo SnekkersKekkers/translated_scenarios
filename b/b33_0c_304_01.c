@@ -26,7 +26,7 @@ ChMotion(7,4);
 VoicePlay("B330C30401_07_010");
 MsgDisp("Mikage","There's many things you can do here?
 The botanical garden, the museum, the
-pool...you can also just relax.");
+pool... you can also just relax.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -41,8 +41,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C30401_06_010");
-MsgDisp("Himuro","It's pointless just 
-standing around here.");
+MsgDisp("Himuro","It's pointless just standing around here.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -123,8 +122,8 @@ ChMotion(6,3);
 VoicePlay("B330C30401_06_040");
 MsgDisp("Himuro","But, he does look more energised?");
 MsgDisp("主人公","(Are these two actually worried about
-｛御影＊＊｝ or are they just teasing
-him....)");
+｛御影＊＊｝ or are they
+just teasing him....)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

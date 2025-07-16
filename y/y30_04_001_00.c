@@ -13,7 +13,7 @@ annual special photo shoot. The
 legendary high school model, Hazuki
 Kei.");
 MsgClear();
-MsgDisp("","...This is a strange feeling.
+MsgDisp("","... This is a strange feeling.
 How should I put it——");
 MsgDisp("","Is it okay to be conceited?");
 MsgDisp("","A successful high school model.
@@ -30,7 +30,7 @@ MsgDisp("","I was suddenly jolted back to reality
 by the words of a female staff member
 on set.");
 MsgClear();
-MsgDisp("","...That's right.
+MsgDisp("","... That's right.
 This shoot isn't a special feature of
 Nana.");
 MsgDisp("","This is just a page in Hazuki-san's
@@ -58,8 +58,9 @@ towards a corner in the studio.");
 MsgDisp("","There she was.");
 MsgClear();
 BGOpen("ad411",0);
-MsgDisp("","...Pfft. Her eyes are sparkling as
-she's looking at me.");
+MsgDisp("","... Pfft.
+Her eyes are sparkling as she's
+looking at me.");
 MsgDisp("","Nice face. Ah...I was surprised our
 eyes met. Yes, exactly. That's what I
 wanted to see.");
@@ -93,7 +94,7 @@ BGOpen("ad412",0);
 VoicePlay("Y300400100_41_020");
 MsgDisp("Staff B","\"Nana-kun, are you tired?
 Let's take a bit of a break!\"");
-MsgDisp("","...I've done it.
+MsgDisp("","... I've done it.
 What am I thinking while I'm working?");
 MsgClear();
 MsgDisp("","The staff scattered, stepping away.

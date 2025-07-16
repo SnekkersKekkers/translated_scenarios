@@ -1,5 +1,6 @@
-MsgDisp("主人公","(Huh? What's going on with me? I'm feeling
-so nervous...)");
+MsgDisp("主人公","(Huh?
+What's going on with me?
+I'm feeling so nervous...)");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -18,8 +19,8 @@ VoicePlay("B070300001_03_500");
 MsgDisp("Honda","This is bad!
 Your face is getting even redder!
 Do you have a fever?");
-MsgDisp("主人公","W-Wait! Um... could you not look at me so
-closely?");
+MsgDisp("主人公","W-Wait!
+Um... could you not look at me so closely?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

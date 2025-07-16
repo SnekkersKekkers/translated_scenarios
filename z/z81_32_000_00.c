@@ -1,7 +1,8 @@
 ChLayout(1);
 BGOpen("sc520",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Ah, the bell's about to ring!
+MsgDisp("主人公","(......
+Ah, the bell's about to ring!
 I have to get back to class.)");
 SEPlay("EV_SE_049");
 ScrQuake(1);
@@ -17,7 +18,7 @@ I'm sorry!");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200000_32_010");
-MsgDisp("VP Himuro","......It'll be too late for apologies if
+MsgDisp("VP Himuro","...... It'll be too late for apologies if
 you get hurt.
 Take care from this point on.");
 MsgDisp("主人公","Yes, sir.");
@@ -61,8 +62,9 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("Z813200000_32_050");
-MsgDisp("VP Himuro","Hm...... very well. I will be a practical
-model for your studies, if you'd like.");
+MsgDisp("VP Himuro","Hm...... very well.
+I will be a practical model for your
+studies, if you'd like.");
 MsgSel("I'll be counting on you!","I'll figure it out myself.");
 switch (MsgSelRsltGet()){
     case 0:

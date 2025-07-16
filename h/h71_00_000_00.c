@@ -1,7 +1,6 @@
 BGOpen("sc101",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Alright, let's join
-the handicrafts club!");
+MsgDisp("主人公","Alright, let's join the handicrafts club!");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc607",0);

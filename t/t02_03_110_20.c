@@ -14,12 +14,14 @@ ChMotion(3,4,1);
 VoicePlay("T020311000_03_160");
 MsgDisp("Honda","Is that okay?
 I was expecting to be turned down......");
-MsgDisp("主人公","Huh? Why?");
+MsgDisp("主人公","Huh?
+Why?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020311000_03_170");
-MsgDisp("Honda","No. I see, I did it!");
+MsgDisp("Honda","No.
+I see, I did it!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

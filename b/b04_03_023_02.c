@@ -83,9 +83,9 @@ But hey, new discovery.");
         MsgDisp("Honda","My mind becomes clearer while running.
 Just the act of putting my legs forward
 leaves no room for unnecessary thoughts.");
-        MsgDisp("主人公","Hehe, yeah. ｛本多＊＊｝ you're always
-thinking about all sorts of things, so
-running might be good for you.");
+        MsgDisp("主人公","Hehe, yeah. ｛本多＊＊｝ you're
+always thinking about all sorts of things,
+so running might be good for you.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -101,8 +101,9 @@ Don't stare at me so hard!");
         ChMotion(3,0);
         ChEyeOpenLevel(3,#1);
         VoicePlay("B040302302_03_100");
-        MsgDisp("Honda","Why? I'm just interested in everything
-about you, so I can't help it.");
+        MsgDisp("Honda","Why?
+I'm just interested in everything about
+you, so I can't help it.");
         MsgDisp("主人公","(But still...!
 So embarrassing...)");
         break ;

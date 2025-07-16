@@ -5,7 +5,8 @@ ChMouth(6,1);
 ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("T020601000_06_250");
-MsgDisp("Himuro","Ha∋　Wait......!");
+MsgDisp("Himuro","Ha∋
+Wait......!");
 MsgDisp("主人公","Do you get it now?
 I also like ｛氷室＊＊｝!");
 VoicePlay("T020601000_06_260");
@@ -23,8 +24,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","You know......I told you, I've always
-liked you.");
+MsgDisp("Himuro","You know......
+I told you, I've always liked you.");
 MsgDisp("主人公","Y-Yes.");
 VoicePlay("T020601000_06_290");
 ChEye(6,0);
@@ -42,7 +43,7 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoicePlay("T020601000_06_300");
 MsgDisp("Himuro","I won't let you go again.
-And you too......don't let me go.");
+And you too...... don't let me go.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

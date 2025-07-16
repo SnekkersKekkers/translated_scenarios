@@ -1,5 +1,6 @@
 MsgDisp("主人公","What do you usually talk about with
-｛氷室＊＊｝ and ｛御影＊＊｝?");
+｛氷室＊＊｝ and
+｛御影＊＊｝?");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,2);
@@ -12,8 +13,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_290");
 MsgDisp("Hiiragi","Are you asking about when you're not
-around?
-...there's nothing different.");
+around? ...there's nothing different.");
 MsgDisp("主人公","I see.");
 ChEye(5,4);
 ChMouth(5,4);

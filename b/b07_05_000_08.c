@@ -28,16 +28,15 @@ ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("B070500000_05_390");
 MsgDisp("Hiiragi","I really like everyone like that.");
-MsgDisp("主人公","Umm, so that means...
-all the girls at Haba High is your type.");
+MsgDisp("主人公","Umm, so that means... all the girls at
+Haba High is your type.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B070500000_05_400");
 MsgDisp("Hiiragi","Yes.
 So, that includes you too.");
-MsgDisp("主人公","(Is it okay to be
-happy about that...)");
+MsgDisp("主人公","(Is it okay to be happy about that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

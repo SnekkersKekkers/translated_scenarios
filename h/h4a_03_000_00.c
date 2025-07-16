@@ -7,7 +7,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛本多＊＊｝! I won!");
+MsgDisp("主人公","Ah, ｛本多＊＊｝!
+I won!");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);

@@ -4,7 +4,8 @@ ChMotion(5,0,1);
 ScrFadeIn(0);
 VoicePlay("P840500000_05_000");
 MsgDisp("Hiiragi","The guests were extremely pleased.");
-MsgDisp("主人公","Really? I'm glad.");
+MsgDisp("主人公","Really?
+I'm glad.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -23,6 +24,7 @@ Thank you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(Yay! A huge success∈)");
+MsgDisp("主人公","(Yay!
+A huge success∈)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -24,8 +24,9 @@ ChEye(5,3);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020500022_05_020");
-MsgDisp("Hiiragi","Haha. You always seem to enjoy having me
-wrapped around your finger.");
+MsgDisp("Hiiragi","Haha.
+You always seem to enjoy having me wrapped
+around your finger.");
 MsgDisp("主人公","Is ｛柊＊＊＊｝ having fun too?");
 ChEye(5,4);
 ChMotion(5,0,1);
@@ -34,8 +35,9 @@ Wait(16,0);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020500022_05_030");
-MsgDisp("Hiiragi","Yes. I get to be with you...... I couldn't
-be happier.");
+MsgDisp("Hiiragi","Yes.
+I get to be with you......
+I couldn't be happier.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(12,0);

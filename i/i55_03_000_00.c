@@ -12,7 +12,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("I550300000_03_000");
     MsgDisp("Honda","Ah, you're working hard.");
-    MsgDisp("主人公","Hm, ｛本多＊＊｝? What's up?");
+    MsgDisp("主人公","Hm, ｛本多＊＊｝?
+What's up?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -38,8 +39,8 @@ Thanks.");
 Work hard, 'kay?
 See you.");
     MsgDisp("主人公","(It suits me......
-It makes me happy that ｛本多＊＊｝ said
-that.)");
+It makes me happy that
+｛本多＊＊｝ said that.)");
     break ;
     case 3:
     ChEye(3,0);
@@ -47,7 +48,8 @@ that.)");
     ChMotion(3,1,1);
     VoicePlay("I550300000_03_040");
     MsgDisp("Honda","Hello.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Welcome.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -59,8 +61,7 @@ you work here.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I550300000_03_060");
-    MsgDisp("Honda","So, I'd like to know what you
-recommend.");
+    MsgDisp("Honda","So, I'd like to know what you recommend.");
     MsgDisp("主人公","What I recommend......
 Who are you giving the gift to?");
     ChEye(3,0);
@@ -78,13 +79,16 @@ keep for a while would be good.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I550300000_03_080");
-    MsgDisp("Honda","Thanks! Your sense for this kind of thing
-is good. Well, good luck with work.");
-    MsgDisp("主人公","(I'm happy ｛本多＊＊｝ complimented me!)");
+    MsgDisp("Honda","Thanks!
+Your sense for this kind of thing is good.
+Well, good luck with work.");
+    MsgDisp("主人公","(I'm happy ｛本多＊＊｝
+complimented me!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛本多＊＊｝, welcome. Running an errand?");
+    MsgDisp("主人公","｛本多＊＊｝, welcome.
+Running an errand?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -123,7 +127,7 @@ compliment me, you know?");
 promoting it because it's new, you
 actually know what's special about it.");
     MsgDisp("主人公","Hehe, thanks.
-......By the way, are you doing okay on
+...... By the way, are you doing okay on
 time?");
     ChEye(3,5);
     ChMouth(3,4);

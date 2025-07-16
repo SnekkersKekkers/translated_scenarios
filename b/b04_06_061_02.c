@@ -28,7 +28,7 @@ Just answer casually?");
     ChMotion(6,0);
     VoicePlay("B040606102_06_020");
     MsgDisp("Himuro","A safe answer.
-...But, that's how it is for most people.");
+... But, that's how it is for most people.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -64,8 +64,7 @@ Then, what am I to you?");
         VoicePlay("B040606102_06_050");
         MsgDisp("Himuro","Should I keep watching you talk to the
 guys around here?");
-        MsgDisp("主人公","No, I was just making 
-a joke just now....");
+        MsgDisp("主人公","No, I was just making a joke just now....");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,1);
@@ -107,7 +106,8 @@ It's because you said something weird.");
         VoicePlay("B040606102_06_110");
         MsgDisp("Himuro","Right, it's your fault.
 Reflect on it.");
-        MsgDisp("主人公","Mmm......Sorry.");
+        MsgDisp("主人公","Mmm......
+Sorry.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

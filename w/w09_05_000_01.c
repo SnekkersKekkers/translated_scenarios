@@ -12,8 +12,7 @@ So I appreciate moments like this.");
     MsgClose();
     ChOpen(5,255,0,3,3,#1,#1,0,0);
     VoicePlay("W090500001_05_010");
-    MsgDisp("Hiiragi","It's like going to an exciting,
-new world.");
+    MsgDisp("Hiiragi","It's like going to an exciting, new world.");
     break ;
     case 4:
     case 5:
@@ -26,8 +25,8 @@ new world.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("W090500001_05_030");
-    MsgDisp("Hiiragi","Yeah. Especially if I can ride it with
-you.");
+    MsgDisp("Hiiragi","Yeah.
+Especially if I can ride it with you.");
     break ;
     default :
     DbgAssert(1);

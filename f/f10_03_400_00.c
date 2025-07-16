@@ -11,7 +11,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","Ah, ｛本多＊＊｝, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛本多＊＊｝,
+｛七ツ森＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -39,14 +40,14 @@ VoicePlay("F100340000_03_020");
 MsgDisp("Honda","That's right.
 I wonder if Mii-kun and I have bad
 compatibility?");
-MsgDisp("主人公","Mii-kun, huh...hehe.
+MsgDisp("主人公","Mii-kun, huh... hehe.
 Now that I hear it again, it is funny.");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,1,1);
 ChCheek(4,6);
 VoicePlay("F100340000_04_020");
-MsgDisp("Nanatsumori","...You're laughing.
+MsgDisp("Nanatsumori","... You're laughing.
 Dahon, do something about that nickname.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -83,9 +84,9 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("F100340000_03_050");
 MsgDisp("Honda","Huh, Mii-kun!
-...He's gone.");
-MsgDisp("主人公","Yeah. What were 
-you talking about?");
+... He's gone.");
+MsgDisp("主人公","Yeah.
+What were you talking about?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -114,8 +115,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("F100340000_03_090");
 MsgDisp("Honda","Yepyep, that sounds good.
 I'll say that to Mii-kun next time.");
-MsgDisp("主人公","(What kind of thing will ｛七ツ森＊｝
-reply?)");
+MsgDisp("主人公","(What kind of thing will
+｛七ツ森＊｝ reply?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -18,9 +18,9 @@ ChMotion(7,5);
 VoicePlay("G020710000_07_020");
 MsgDisp("Mikage","That sounded a bit like a lecture just
 now.");
-MsgDisp("主人公","It's like I'm occupying ｛御影＊＊｝'s
-lesson by myself.
-I'm happy.");
+MsgDisp("主人公","It's like I'm occupying
+｛御影＊＊｝'s lesson by
+myself. I'm happy.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -49,8 +49,8 @@ VoicePlay("G020710000_07_060");
 MsgDisp("Mikage","Saying \"If you're okay with it, then it's
 okay.\" is pitiful.
 Ugh, I hate it, hate it.");
-MsgDisp("主人公","(I wonder what's up with ｛御影＊＊｝
-today......)");
+MsgDisp("主人公","(I wonder what's up with
+｛御影＊＊｝ today......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

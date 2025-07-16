@@ -70,8 +70,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330B10401_01_030");
-MsgDisp("Kazama","You're not hearing 
-anything either, right?");
+MsgDisp("Kazama","You're not hearing anything either, right?");
 MsgDisp("主人公","Y-Yeah.
 Wait, let me listen carefully?");
 ChEye(1,2);
@@ -134,15 +133,15 @@ ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B10401_01_060");
-MsgDisp("Kazama","Ha? 
+MsgDisp("Kazama","Ha?
 I was falsely accused from the start.");
 ChEyeOpenLevel(1,0);
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B10401_03_040");
-MsgDisp("Honda","And if you didn't hear it...
-then was it your inner voice?");
+MsgDisp("Honda","And if you didn't hear it... then was it
+your inner voice?");
 ChEye(1,0);
 ChMouth(1,2);
 MsgDisp("主人公","Ehhh∈");

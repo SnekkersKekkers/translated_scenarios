@@ -2,7 +2,8 @@ MsgClose();
 ChClose(1,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? ｛風真＊＊｝ isn't here yet?");
+MsgDisp("主人公","Huh?
+｛風真＊＊｝ isn't here yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -13,14 +14,13 @@ MsgClose();
 SEPlay("EV_SE_557");
 ChOpen(34,254,0,1,0,#1,#1,0,0);
 MsgDisp("主人公","Ehh∋
-...Me?");
+... Me?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110100001_34_010");
 MsgDisp("Guy","Yes, you.
 Because you understand me.");
-MsgDisp("主人公","Umm... 
-just who are you?");
+MsgDisp("主人公","Umm... just who are you?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110100001_34_020");
@@ -75,8 +75,8 @@ VoicePlay("B110100001_01_020");
 MsgDisp("Kazama","Wait a minute!");
 MsgDispSksp(0);
 VoicePlay("B110100001_34_060");
-MsgDisp("Guy","Nope! I'm returning to the sea of the
-internet!");
+MsgDisp("Guy","Nope!
+I'm returning to the sea of the internet!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

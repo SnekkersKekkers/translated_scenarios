@@ -24,8 +24,7 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A03300_02_010");
-MsgDisp("Sassa","Could it be anyone 
-but you, Inori?");
+MsgDisp("Sassa","Could it be anyone but you, Inori?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -59,8 +58,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D140A03300_01_020");
-MsgDisp("Kazama","That's quite a
-rough estimate.");
+MsgDisp("Kazama","That's quite a rough estimate.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
@@ -75,14 +73,14 @@ ChMouth(6,4);
 ChMotion(6,4);
 ChCheek(6,3);
 VoicePlay("D140A03300_06_040");
-MsgDisp("Himuro","...Well yeah.
+MsgDisp("Himuro","... Well yeah.
 That's what I like about it too.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D140A03300_02_040");
 MsgDisp("Sassa","Hmm, that's nice.
-You said it was wonderful...right?");
+You said it was wonderful... right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -97,8 +95,9 @@ ChCheek(6,0);
 VoicePlay("D140A03300_06_050");
 MsgDisp("Himuro","Yes, you won't understand that feeling
 unless you've stood on the waves yourself.");
-MsgDisp("主人公","(Hm? The atmosphere is kind of weird. ) I
-wonder if I said something weird?)");
+MsgDisp("主人公","(Hm?
+The atmosphere is kind of weird. )
+I wonder if I said something weird?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

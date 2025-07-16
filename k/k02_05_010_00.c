@@ -28,8 +28,7 @@ SEWait();
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("K020501000_05_020");
-MsgDisp("Hiiragi","Please take this.
-ーA new year's gift.");
+MsgDisp("Hiiragi","Please take this. ーA new year's gift.");
 MsgDisp("主人公","Ah, a birthday present!");
 VoicePlay("K020501000_05_030");
 MsgDisp("Hiiragi","I hope it suits your tastes.");

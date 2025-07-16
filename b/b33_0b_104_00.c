@@ -42,15 +42,17 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B10400_01_010");
-MsgDisp("Kazama","...Indeed. I'm sure there are some weird
-insects in there too.");
+MsgDisp("Kazama","... Indeed.
+I'm sure there are some weird insects in
+there too.");
 ChMouthOpenLevel(4,0);
 VoicePlay("B330B10400_04_010");
 MsgDisp("Nanatsumori","............");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
-MsgDisp("主人公","｛七ツ森＊｝, what's wrong?");
+MsgDisp("主人公","｛七ツ森＊｝, what's
+wrong?");
 ChEyeOpenLevel(1,0);
 ChEye(4,2);
 ChMouth(4,4);
@@ -125,12 +127,13 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B10400_01_040");
-MsgDisp("Kazama","Heeh. It's been a long time since I've
-seen a rice fish.");
+MsgDisp("Kazama","Heeh.
+It's been a long time since I've seen a
+rice fish.");
 ChEye(4,2);
 ChMouth(4,3);
-MsgDisp("主人公","(Hehe! In the end, everyone is having fun
-here!)");
+MsgDisp("主人公","(Hehe!
+In the end, everyone is having fun here!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

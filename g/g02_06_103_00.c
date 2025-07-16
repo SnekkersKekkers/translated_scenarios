@@ -17,7 +17,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610300_06_020");
-MsgDisp("Himuro","......Lately, I've been feeling pretty
+MsgDisp("Himuro","...... Lately, I've been feeling pretty
 nervous.
 Like, when we hang out or talk.");
 ChEye(6,0);
@@ -80,8 +80,8 @@ VoicePlay("G020610300_06_110");
 MsgDisp("Himuro","Why are you responding?
 It's a monologue.");
 MsgDisp("主人公","(Though I got scolded ......
-I feel like I heard ｛氷室＊＊｝'s true
-feelings.)");
+I feel like I heard ｛氷室＊＊｝'s
+true feelings.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

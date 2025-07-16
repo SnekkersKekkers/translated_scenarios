@@ -5,7 +5,8 @@ Wait(10,0);
 SEWait();
 VoicePlay("J010200001_02_000");
 MsgDisp("Sassa","Sassa speaking.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝? Is it OK to call you now?");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝?
+Is it OK to call you now?");
 VoicePlay("J010200001_02_010");
 MsgDisp("Sassa","I'm busy at the moment, but feel free to
 leave your name and message and I'll get

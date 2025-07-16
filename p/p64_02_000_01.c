@@ -6,8 +6,8 @@ ChEyeOpenLevel(2,0);
 VoicePlay("P640200001_02_000");
 MsgDisp("Sassa","I-It's bitter?
 Is herb tea like this?");
-MsgDisp("主人公","｛颯砂＊＊｝? Huh, are you not good with
-herbs?");
+MsgDisp("主人公","｛颯砂＊＊｝?
+Huh, are you not good with herbs?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -15,16 +15,14 @@ VoicePlay("P640200001_02_010");
 MsgDisp("Sassa","Is there truly anyone who's good with
 this?
 I somehow managed to drink it all though.");
-MsgDisp("主人公","Ah... 
-maybe I blended it wrong?");
+MsgDisp("主人公","Ah... maybe I blended it wrong?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P640200001_02_020");
-MsgDisp("Sassa","I thought so...
-even if it's good for my body, it's still
-bitter.");
+MsgDisp("Sassa","I thought so... even if it's good for my
+body, it's still bitter.");
 MsgDisp("主人公","Uuugh... sorry.");
 ChEye(2,0);
 ChMouth(2,4);

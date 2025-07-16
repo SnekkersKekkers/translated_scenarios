@@ -5,7 +5,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("H6G2100000_21_000");
 MsgDisp("Michiru","Mari!");
-MsgDisp("主人公","Hm, what is it, ｛みちる＊｝?");
+MsgDisp("主人公","Hm, what is it,
+｛みちる＊｝?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

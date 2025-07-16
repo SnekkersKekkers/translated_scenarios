@@ -1,8 +1,8 @@
 BGOpen("wf000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright...... Maybe I should get home
-now?)");
+MsgDisp("主人公","(Alright......
+Maybe I should get home now?)");
 VoiceEVSPlay(3);
 VoicePlay("E010310100_03_000");
 MsgDisp("Honda?","｛主人公｝.");
@@ -16,7 +16,8 @@ ChMotion(3,4,1);
 VoicePlay("E010310100_03_010");
 MsgDisp("Honda","It's like I've been waiting for you.");
 MsgDisp("主人公","That's true, what a coincidence.
-Are you waiting for someone, ｛本多＊＊｝?");
+Are you waiting for someone,
+｛本多＊＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -25,7 +26,8 @@ MsgDisp("Honda","Yeah, my little sister.
 Her cram school lesson's over.
 I've been asked to come get her.");
 MsgDisp("主人公","I see.
-｛本多＊＊｝, you don't go to cram school?");
+｛本多＊＊｝, you don't go to cram
+school?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -33,7 +35,8 @@ VoicePlay("E010310100_03_030");
 MsgDisp("Honda","Nah, I've been there before though.
 I was told I was being a bother to other
 students, so they got me to stop coming.");
-MsgDisp("主人公","Whattt? What did you do?");
+MsgDisp("主人公","Whattt?
+What did you do?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);

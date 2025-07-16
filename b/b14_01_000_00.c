@@ -19,8 +19,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B140100000_01_010");
-MsgDisp("Kazama","We were together
-today and yesterday.");
+MsgDisp("Kazama","We were together today and yesterday.");
 MsgDisp("主人公","That's right.
 On both days of Christmas.");
 ChEye(1,4);

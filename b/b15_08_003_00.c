@@ -5,13 +5,11 @@ ChOpen(8,255,0,2,1,#1,#1,4,0);
 ScrFadeIn(0);
 ChMotion(8,4,1);
 VoicePlay("B150800300_08_000");
-MsgDisp("Shirahane","Aah～, 
-it's completely no good..");
+MsgDisp("Shirahane","Aah～, it's completely no good..");
 ChEye(8,2);
 ChMouth(8,4);
 VoicePlay("B150800300_08_010");
-MsgDisp("Shirahane","I thought it was ticklish, 
-but it's not.");
+MsgDisp("Shirahane","I thought it was ticklish, but it's not.");
 MsgDisp("主人公","Eh?");
 ChEye(8,3);
 ChMouth(8,4);
@@ -26,16 +24,14 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("B150800300_08_030");
-MsgDisp("Shirahane","But, it's no good, 
-I can't endure this.");
+MsgDisp("Shirahane","But, it's no good, I can't endure this.");
 ChMouth(8,4);
 VoicePlay("B150800300_08_040");
 MsgDisp("Shirahane","If we don't stop this now——");
 ChMotion(8,0,1);
 ChCheek(8,8);
 VoicePlay("B150800300_08_050");
-MsgDisp("Shirahane","I might...
-do something indecent to you.");
+MsgDisp("Shirahane","I might... do something indecent to you.");
 MsgDisp("主人公","Eh...?");
 ChEye(8,4);
 ChMouth(8,4);

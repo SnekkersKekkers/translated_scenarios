@@ -41,15 +41,17 @@ VoicePlay("T020621000_06_040");
 MsgDisp("Himuro","Meeting upperclassmen I respect and even
 going out together, and getting along with
 my teachers...");
-MsgDisp("主人公","Are you talking about ｛柊＊＊＊｝ and
+MsgDisp("主人公","Are you talking about
+｛柊＊＊＊｝ and
 ｛御影＊＊｝?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 ChEyeOpenLevel(6,10);
 VoicePlay("T020621000_06_050");
-MsgDisp("Himuro","Yes. I wasn't even sure I could make
-friends with people in my own grade...");
+MsgDisp("Himuro","Yes.
+I wasn't even sure I could make friends
+with people in my own grade...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -71,8 +73,8 @@ SEPlay("EV_SE_544");
 ChOpen(6,254,7,0,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020621000_06_080");
-MsgDisp("Himuro","......｛主人公｝. I've always liked
-you.");
+MsgDisp("Himuro","...... ｛主人公｝.
+I've always liked you.");
 MsgDisp("主人公","!");
 ChEye(6,0);
 ChMouth(6,0);

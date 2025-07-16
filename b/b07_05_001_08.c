@@ -9,8 +9,7 @@ MsgDisp("主人公","I wanted to take a proper look at
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_620");
-MsgDisp("Hiiragi","By all means,
-it's no problem.");
+MsgDisp("Hiiragi","By all means, it's no problem.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -25,10 +24,9 @@ so lovely. And that's why I wanted to show
 it to you too.");
 ChEye(5,3);
 VoicePlay("B070500001_05_650");
-MsgDisp("Hiiragi","Come on, 
-take a closer look.");
-MsgDisp("主人公","Ummm... I'm starting to feel somewhat
-embarrassed.");
+MsgDisp("Hiiragi","Come on, take a closer look.");
+MsgDisp("主人公","Ummm...
+I'm starting to feel somewhat embarrassed.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);

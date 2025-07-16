@@ -32,10 +32,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,2);
 VoicePlay("F022100003_21_040");
-MsgDisp("Michiru","But... I might want
-to give it a try.");
-MsgDisp("主人公","(｛みちる＊｝, that seems fun!
-this seems like a rumour girls would
-like?)");
+MsgDisp("Michiru","But...
+I might want to give it a try.");
+MsgDisp("主人公","(｛みちる＊｝, that seems fun! this seems
+like a rumour girls would like?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -37,8 +37,9 @@ It'll affect my work.");
     ChEye(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040406101_04_030");
-    MsgDisp("Nanatsumori","Ahー... When you say that it just makes it
-even hotter...");
+    MsgDisp("Nanatsumori","Ahー...
+When you say that it just makes it even
+hotter...");
     MsgDateResultDisp();
     break ;
     default :

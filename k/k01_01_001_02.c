@@ -13,8 +13,7 @@ ChMotion(1,3);
 VoicePlay("K010100102_01_010");
 MsgDisp("Kazama","Did you choose it?
 Then, I like it.");
-MsgDisp("主人公","(Yeah, seems like
-he liked it.)");
+MsgDisp("主人公","(Yeah, seems like he liked it.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

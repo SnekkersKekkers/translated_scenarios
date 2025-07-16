@@ -8,8 +8,7 @@ switch (ChPrmGet(6,6)){
     case 3:
     VoicePlay("I460600005_40_000");
     MsgDisp("Male Customer","............");
-    MsgDisp("主人公","Are you looking for
-a specific flower?");
+    MsgDisp("主人公","Are you looking for a specific flower?");
     VoicePlay("I460600005_40_010");
     MsgDisp("Male Customer","Umm......");
     MsgDisp("主人公","If it's for a gift, the mini bouquets and
@@ -31,8 +30,8 @@ me to call one over?");
     ChOpen(6,35,0,0,4,#1,#1,0,0);
     VoicePlay("I460600005_06_000");
     MsgDisp("Himuro","All done.");
-    MsgDisp("主人公","Thanks. For helping me out with that
-customer.");
+    MsgDisp("主人公","Thanks.
+For helping me out with that customer.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -86,8 +85,8 @@ You really are swee-");
     VoicePlay("I460600005_06_060");
     MsgDisp("Himuro","Well, this talent for business will surely
 come in handy later, right?");
-    MsgDisp("主人公","(Um...... I guess
-he's complimenting me?)");
+    MsgDisp("主人公","(Um......
+I guess he's complimenting me?)");
     break ;
     default :
     DbgAssert(1);

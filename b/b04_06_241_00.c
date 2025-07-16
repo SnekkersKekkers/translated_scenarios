@@ -36,8 +36,7 @@ I feel more refreshed than usual.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040624100_06_030");
-    MsgDisp("Himuro","I'm sure they
-find us unusual too?");
+    MsgDisp("Himuro","I'm sure they find us unusual too?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

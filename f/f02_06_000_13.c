@@ -24,14 +24,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600013_06_020");
 MsgDisp("Himuro","...I'm not asking for one.");
-MsgDisp("主人公","Wouldn't it be nice if ｛氷室＊＊｝ could go
-too?");
+MsgDisp("主人公","Wouldn't it be nice if ｛氷室＊＊｝
+could go too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600013_06_030");
 MsgDisp("Himuro","Are you telling me to skip a grade?");
-MsgDisp("主人公","If it's ｛氷室＊＊｝, he could do it.");
+MsgDisp("主人公","If it's ｛氷室＊＊｝, he could do
+it.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -44,8 +45,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600013_06_050");
-MsgDisp("Himuro","I'd have to decide then.
-...but, it probably wouldn't be bad.");
+MsgDisp("Himuro","I'd have to decide then. ...but, it
+probably wouldn't be bad.");
 MsgDisp("主人公","Then we could go on the school trip
 together, right?");
 ChEye(6,1);
@@ -62,5 +63,6 @@ ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("F020600013_06_070");
 MsgDisp("Himuro","That's completely different!");
-MsgDisp("主人公","(...I'll see if I can get ｛氷室＊＊｝ a
-souvenir.)");
+MsgDisp("主人公","(...
+I'll see if I can get ｛氷室＊＊｝
+a souvenir.)");

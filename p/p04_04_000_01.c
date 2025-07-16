@@ -20,7 +20,8 @@ VoicePlay("P040400001_04_020");
 MsgDisp("Nanatsumori","The dango are hard.
 The tea, bitter.
 It's not really tasty.");
-MsgDisp("主人公","(Ugh...... I messed up......)");
+MsgDisp("主人公","(Ugh......
+I messed up......)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

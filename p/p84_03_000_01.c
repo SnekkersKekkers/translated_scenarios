@@ -28,8 +28,8 @@ MsgDisp("Honda","Well, if I help too, we can finish quicker
 and head to the food stalls!
 I'm famished.");
 MsgDisp("主人公","(I didn't even realize I was making such a
-scary face... a huge fail. It's important
-to get help.)");
+scary face... a huge fail.
+It's important to get help.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

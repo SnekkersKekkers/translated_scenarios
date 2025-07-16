@@ -5,8 +5,7 @@ ChMouth(8,3);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040824201_08_000");
-MsgDisp("Shirahane","Hey, do you want
-to try climbing a tree?");
+MsgDisp("Shirahane","Hey, do you want to try climbing a tree?");
 MsgSel("That's dangerous?","My clothes will get dirty...","Sounds good!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +26,9 @@ I'm good at climbing trees though?");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040824201_08_020");
-    MsgDisp("Shirahane","Hmー. When you go camping, I think you're
-going to get dirty to some extent, right?");
+    MsgDisp("Shirahane","Hmー.
+When you go camping, I think you're going
+to get dirty to some extent, right?");
     MsgDateResultDisp();
     break ;
     case 2:

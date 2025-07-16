@@ -16,7 +16,8 @@ When in doubt, this is the right one.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("D140701100_07_010");
-    MsgDisp("Mikage","Huh? Are you copying me?");
+    MsgDisp("Mikage","Huh?
+Are you copying me?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

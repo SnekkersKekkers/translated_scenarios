@@ -32,8 +32,7 @@ VoicePlay("F020700003_07_030");
 MsgDisp("Mikage","What's the deal with it being an ostrich?
 If it was a cow, horse or sheep I could
 kind of get it.");
-MsgDisp("主人公","Do you have any 
-clue as to why?");
+MsgDisp("主人公","Do you have any clue as to why?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -41,7 +40,8 @@ VoicePlay("F020700003_07_040");
 MsgDisp("Mikage","I like ostrich meat.
 I'm curious about it, and I've even eaten
 it at home.");
-MsgDisp("主人公","Eh? Is it tasty?");
+MsgDisp("主人公","Eh?
+Is it tasty?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -53,10 +53,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700003_07_060");
-MsgDisp("Mikage","I'll say stuff like that 
-when I'm asked.");
+MsgDisp("Mikage","I'll say stuff like that when I'm asked.");
 MsgDisp("主人公","Then, that rumor was definitely made by
-someone who heard ｛御影＊＊｝.");
+someone who heard
+｛御影＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -79,6 +79,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F020700003_07_090");
 MsgDisp("Mikage","Haa... there's a grain of truth even in
-rumors. How troubling.");
-MsgDisp("主人公","(I wonder if ｛御影＊＊｝ is up to
-something in the church...)");
+rumors.
+How troubling.");
+MsgDisp("主人公","(I wonder if ｛御影＊＊｝
+is up to something in the church...)");

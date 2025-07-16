@@ -6,8 +6,7 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603102_06_000");
-MsgDisp("Himuro","Does it feel like...
-you're in the ocean?");
+MsgDisp("Himuro","Does it feel like... you're in the ocean?");
 MsgSel("Yeah, of course!","An aquarium is an aquarium","Do you think that, ｛氷室＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040603102_06_010");
-    MsgDisp("Himuro","Well, maybe that's a
-normal perspective.");
+    MsgDisp("Himuro","Well, maybe that's a normal perspective.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -12,9 +12,8 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500003_05_010");
-    MsgDisp("Hiiragi","I see......
-it must have been difficult to make
-something this elaborate.");
+    MsgDisp("Hiiragi","I see...... it must have been difficult to
+make something this elaborate.");
     ChMotion(5,3);
     VoicePlay("L040500003_05_020");
     MsgDisp("Hiiragi","I will savor each bite.
@@ -50,8 +49,9 @@ choosing it.");
     MsgDisp("Hiiragi","Yes, it's quite the masterpiece.
 I almost want to decorate the theater with
 it.");
-    MsgDisp("主人公","What!? That's no good. Make sure to eat
-it.");
+    MsgDisp("主人公","What!?
+That's no good.
+Make sure to eat it.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("L040500003_05_060");
@@ -62,7 +62,8 @@ in the theatre company before eating it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(I'm glad ｛柊＊＊＊｝ liked it!)");
+    MsgDisp("主人公","(I'm glad ｛柊＊＊＊｝ liked
+it!)");
     break ;
     case 4:
     case 5:
@@ -90,8 +91,7 @@ even to the best chocolate!");
     MsgDisp("Hiiragi","This already wouldn't lose.
 To me, for this to be any better......
 It wouldn't just be a chocolate anymore.");
-    MsgDisp("主人公","Then Valentine's wouldn't
-matter anymore.");
+    MsgDisp("主人公","Then Valentine's wouldn't matter anymore.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("L040500003_05_100");

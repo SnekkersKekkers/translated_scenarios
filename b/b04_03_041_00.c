@@ -10,8 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040304100_03_000");
-    MsgDisp("Honda","Really? I don't get it, but if you're
-satisfied, that's great.");
+    MsgDisp("Honda","Really?
+I don't get it, but if you're satisfied,
+that's great.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -22,9 +23,8 @@ satisfied, that's great.");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("B040304100_03_010");
-    MsgDisp("Honda","Eh, if that was just so-so...
-there's gotta be even more amazing
-matches∋");
+    MsgDisp("Honda","Eh, if that was just so-so... there's
+gotta be even more amazing matches∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -11,8 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040618700_06_000");
-    MsgDisp("Himuro","Really? Wasn't the story progression kind
-of cheap?");
+    MsgDisp("Himuro","Really?
+Wasn't the story progression kind of
+cheap?");
     MsgDateResultDisp();
     break ;
     case 1:

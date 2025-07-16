@@ -33,12 +33,13 @@ ChOpen(8,255,0,3,3,0,#1,0,0);
 SEStop("EV_SE_717",0.5);
 VoicePlay("B050800300_08_020");
 MsgDisp("Shirahane","Sorry to keep ya waiting!");
-MsgDisp("主人公","Yeah. That's a big bag, did you buy
-something?");
+MsgDisp("主人公","Yeah.
+That's a big bag, did you buy something?");
 ChEye(8,0);
 ChMouth(8,3);
 VoicePlay("B050800300_08_030");
-MsgDisp("Shirahane","Hehe! Hehe, why don't we hang out a little
+MsgDisp("Shirahane","Hehe!
+Hehe, why don't we hang out a little
 longer?");
 MsgDisp("主人公","Eh, that's fine but...");
 ChEye(8,3);
@@ -63,7 +64,8 @@ ScrFadeIn(0);
 VoicePlay("B050800300_08_050");
 MsgDisp("Shirahane","How's it?
 Does it suit me?");
-MsgDisp("主人公","Ahaha! ｛大地＊＊｝ is so cute!");
+MsgDisp("主人公","Ahaha!
+｛大地＊＊｝ is so cute!");
 StlEye(8,2);
 StlMouth(8,0);
 VoicePlay("B050800300_08_060");
@@ -92,8 +94,10 @@ StlEye(8,2);
 StlMouth(8,0);
 VoicePlay("B050800300_08_100");
 MsgDisp("Shirahane","As I thought, it's different for a model.
-That's how it is. Haha!");
-MsgDisp("主人公","(...But I wonder how one would look cool
+That's how it is.
+Haha!");
+MsgDisp("主人公","(...
+But I wonder how one would look cool
 wearing that hat and doll?)");
 BGMStop();
 MsgClose();

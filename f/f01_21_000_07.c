@@ -17,7 +17,8 @@ switch (ChPrmGet(21,6)){
     ChMouth(21,3);
     ChMotion(21,0);
     VoicePlay("F012100007_21_010");
-    MsgDisp("Michiru","Hehe. Shall we go home together?");
+    MsgDisp("Michiru","Hehe.
+Shall we go home together?");
     break ;
     case 4:
     case 5:
@@ -26,7 +27,8 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,1);
     VoicePlay("F012100007_21_020");
     MsgDisp("Michiru","Oh, Mari!");
-    MsgDisp("主人公","｛みちる＊｝. What's up?");
+    MsgDisp("主人公","｛みちる＊｝.
+What's up?");
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,0);
@@ -115,8 +117,7 @@ Well, another time?");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(21);
-        MsgDisp("主人公","(Hmm,
-Did I do something wrong?)");
+        MsgDisp("主人公","(Hmm, Did I do something wrong?)");
         break ;
         case 4:
         case 5:
@@ -135,8 +136,7 @@ Well then, another time?");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(21);
-        MsgDisp("主人公","(Hmm,
-Did I do something wrong?)");
+        MsgDisp("主人公","(Hmm, Did I do something wrong?)");
         break ;
         default :
         DbgAssert(1);

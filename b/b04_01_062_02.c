@@ -19,8 +19,9 @@ switch (MsgSelRsltGet()){
         ChMotion(1,3);
         ChEyeOpenLevel(1,7);
         VoicePlay("B040106202_01_010");
-        MsgDisp("Kazama","Boys? You're really, surprisingly just
-lumping me in like that, huh?");
+        MsgDisp("Kazama","Boys?
+You're really, surprisingly just lumping
+me in like that, huh?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -49,8 +50,9 @@ were curious about...");
         VoicePlay("B040106202_01_030");
         MsgDisp("Kazama","Ahh, that's right.
 Like that ringing bell?");
-        MsgDisp("主人公","Yeah. If it was just me myself, I would
-have never done anything like that.");
+        MsgDisp("主人公","Yeah.
+If it was just me myself, I would have
+never done anything like that.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -65,7 +67,8 @@ either.");
         ChCheek(1,0);
         VoicePlay("B040106202_01_060");
         MsgDisp("Kazama","I only wanted to explore with you.");
-        MsgDisp("主人公","Hehe. Being on your expedition team made
+        MsgDisp("主人公","Hehe.
+Being on your expedition team made
 everyday fun.");
         ChEye(1,0);
         ChMouth(1,2);

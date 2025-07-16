@@ -31,7 +31,7 @@ ChMouth ( 4,2 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150002400_04_010" ) ;
 MsgDisp ( "Nanatsumori","You're so loud.
-......And you, what do you think?" ) ;
+...... And you, what do you think?" ) ;
 MsgDisp ( "主人公","Hmm, I wonder.
 I might still be growing." ) ;
 ChEye ( 2,4 ) ;
@@ -39,15 +39,16 @@ ChMouth ( 2,3 ) ;
 ChMotion ( 2,4 ) ;
 ChEyeOpenLevel ( 2, - 1 ) ;
 VoicePlay ( "D150002400_02_030" ) ;
-MsgDisp ( "Sassa","Not that. Nanatsumori is
-asking what you like." ) ;
+MsgDisp ( "Sassa","Not that.
+Nanatsumori is asking what you like." ) ;
 MsgDisp ( "主人公","What I like?" ) ;
 ChEye ( 4,0 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150002400_04_020" ) ;
-MsgDisp ( "Nanatsumori","Your preferred height. Maybe you like tall
-or maybe not, that kind of thing." ) ;
+MsgDisp ( "Nanatsumori","Your preferred height.
+Maybe you like tall or maybe not, that
+kind of thing." ) ;
 MsgDisp ( "主人公","(Uhm......
 I guess I'd say bigger is better......?)" ) ;
 BGMStop (  ) ;

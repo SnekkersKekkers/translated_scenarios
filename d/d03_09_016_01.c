@@ -26,7 +26,7 @@ Then I'll try to be as fine of a man as
 those guys think I am.");
 ChMotion(9,4,1);
 VoicePlay("D030901600_09_070");
-MsgDisp("Kuya","......But, can I ask you a favor.
+MsgDisp("Kuya","...... But, can I ask you a favor.
 Can you be my escort for this festival?");
 MsgDisp("主人公","Of course.
 There's not a lot of time left, so let's

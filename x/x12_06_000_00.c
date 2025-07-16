@@ -27,7 +27,8 @@ improved significantly.");
     MsgDisp("Himuro","Reiichi san praised your musical
 performance.
 You did it.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

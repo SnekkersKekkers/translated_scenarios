@@ -10,7 +10,8 @@ It looks like the boys are playing
 soccer.)");
 VoiceEVSPlay(5);
 VoicePlay("G110500700_05_000");
-MsgDisp("Hiiragi?","｛主人公｝, don't look away, okay?");
+MsgDisp("Hiiragi?","｛主人公｝, don't look
+away, okay?");
 SEStop("EV_SE_834",2);
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -23,7 +24,8 @@ ScrFadeIn(0);
 Wait(30,0);
 VoicePlay("G110500700_05_010");
 MsgDisp("Hiiragi","Haha, hasn't this happened before?");
-MsgDisp("主人公","When ｛柊＊＊＊｝ scored his first goal?");
+MsgDisp("主人公","When ｛柊＊＊＊｝ scored his
+first goal?");
 ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 ChCheek(5,5);

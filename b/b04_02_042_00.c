@@ -36,8 +36,9 @@ Well, it was still a good experience.");
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("B040204200_02_020");
-    MsgDisp("Sassa","Seriously? I guess I was the only one
-having a lot of fun......");
+    MsgDisp("Sassa","Seriously?
+I guess I was the only one having a lot of
+fun......");
     MsgDateResultDisp();
     break ;
     default :

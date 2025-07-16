@@ -7,7 +7,7 @@ SEWait();
 MsgDisp("主人公","｛風真＊＊｝, hello.");
 VoicePlay("J030101002_01_000");
 MsgDisp("Kazama","Hey, I got your message.");
-MsgDisp("主人公","Thanks. 
+MsgDisp("主人公","Thanks.
 So, what do you say?");
 VoicePlay("J030101002_01_010");
 MsgDisp("Kazama","It's on my work day so I can't come. Next

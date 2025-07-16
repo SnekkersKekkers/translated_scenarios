@@ -1,14 +1,15 @@
 BGOpen("bh120",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(So this is ｛風真＊＊｝'s Grandpa's
-Store......)");
+MsgDisp("主人公","(So this is ｛風真＊＊｝'s
+Grandpa's Store......)");
 MsgDisp("主人公","(I've known him for so long and yet I've
 never been here......)");
 VoicePlay("D020100100_01_000");
 MsgDisp("Kazama?","This suspicious person has staring at our
 store for a while now.");
-MsgDisp("主人公","Eh......Ah, ｛風真＊＊｝!");
+MsgDisp("主人公","Eh......
+Ah, ｛風真＊＊｝!");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,255,0,0,3,10,#1,0,0);

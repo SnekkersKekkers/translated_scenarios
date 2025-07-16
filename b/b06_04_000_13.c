@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChCheek(4,7);
     VoicePlay("B060400013_04_010");
     MsgDisp("Nanatsumori","Alright.
-...Haha!");
+... Haha!");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);
@@ -31,7 +31,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,2,1);
     VoicePlay("B060400013_04_020");
-    MsgDisp("Nanatsumori","...Right.
+    MsgDisp("Nanatsumori","... Right.
 Then, I'll see you next time.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(4);

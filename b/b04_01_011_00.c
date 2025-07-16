@@ -31,7 +31,7 @@ It's dangerous.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040101100_01_020");
-    MsgDisp("Kazama","...Jeez, can you seriously see it?
+    MsgDisp("Kazama","... Jeez, can you seriously see it?
 Just what kind of palace is this?");
     MsgDateResultDisp();
     break ;

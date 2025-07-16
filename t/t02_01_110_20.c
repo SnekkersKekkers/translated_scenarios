@@ -32,7 +32,8 @@ VoicePlay("T020111000_01_180");
 MsgDisp("Kazama","I'll never let you go again.");
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_190");
-MsgDisp("Kazama","｛主人公｝, you are my everything.
+MsgDisp("Kazama","｛主人公｝, you are my
+everything.
 I love you.");
 MsgClear();
 StlEffect(1,1,60);

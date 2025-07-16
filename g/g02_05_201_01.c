@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("G020520101_05_000");
-MsgDisp("Hiiragi","｛主人公｝, please listen to me as if I
-were talking to myself.");
+MsgDisp("Hiiragi","｛主人公｝, please listen
+to me as if I were talking to myself.");
 MsgDisp("主人公","Eh?
 O-Okay.");
 VoicePlay("G020520101_05_010");
@@ -19,7 +19,7 @@ MsgDisp("Hiiragi","And I thought it would continue like that
 forever.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520101_05_040");
-MsgDisp("Hiiragi","......But, I was wrong.
+MsgDisp("Hiiragi","...... But, I was wrong.
 We drifted apart in one go.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","｛柊＊＊＊｝......");

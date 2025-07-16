@@ -11,13 +11,15 @@ switch (MsgSelRsltGet()){
     NSSEye(3,3);
     NSSMouth(3,3);
     VoicePlay("B160300000_03_010");
-    MsgDisp("Honda","Really? Then, we're in the same boat.");
+    MsgDisp("Honda","Really?
+Then, we're in the same boat.");
     break ;
     case 1:
     NSSEye(3,0);
     NSSMouth(3,4);
     VoicePlay("B160300000_03_020");
-    MsgDisp("Honda","Indeed. Maybe something's wrong with me?");
+    MsgDisp("Honda","Indeed.
+Maybe something's wrong with me?");
     break ;
     default :
     DbgAssert(0);

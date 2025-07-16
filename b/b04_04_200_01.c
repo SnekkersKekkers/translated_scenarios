@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040420001_04_010");
-    MsgDisp("Nanatsumori","Okay? What?
+    MsgDisp("Nanatsumori","Okay?
+What?
 Don't just say nonsense.");
     MsgDateResultDisp();
     break ;
@@ -26,8 +27,8 @@ Don't just say nonsense.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040420001_04_020");
-    MsgDisp("Nanatsumori","Our tempo is a bit dodgy but...
-well, lets skate.");
+    MsgDisp("Nanatsumori","Our tempo is a bit dodgy but... well, lets
+skate.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

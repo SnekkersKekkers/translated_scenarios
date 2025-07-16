@@ -1,7 +1,8 @@
 BGOpen("wf210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew...... I hope I was able to get some
-interesting information......)");
+MsgDisp("主人公","(Phew......
+I hope I was able to get some interesting
+information......)");
 SEPlay("EV_SE_769",0,0.6);
 Wait(100,1);
 SEPlay("EV_SE_770",0,0.5);
@@ -23,16 +24,19 @@ StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
 VoicePlay("D010200300_02_010");
-MsgDisp("Sassa","Aha. You're soaking wet. Look, your
-shivering so much.");
+MsgDisp("Sassa","Aha.
+You're soaking wet.
+Look, your shivering so much.");
 MsgDisp("主人公","｛颯砂＊＊｝ ！");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_020");
-MsgDisp("Sassa","Oh!　It's you. What's up?");
+MsgDisp("Sassa","Oh!
+It's you.
+What's up?");
 MsgDisp("主人公","I came this way because I thought I heard
 ｛颯砂＊＊｝'s voice.
-......Those dogs are huge.");
+...... Those dogs are huge.");
 StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0);
@@ -40,7 +44,8 @@ VoicePlay("D010200300_02_030");
 MsgDisp("Sassa","Aren't they cool?
 In addition to my training, I also have a
 part-time job walking dogs.");
-MsgDisp("主人公","They seem to cherish ｛颯砂＊＊｝ a lot.");
+MsgDisp("主人公","They seem to cherish ｛颯砂＊＊｝
+a lot.");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
@@ -58,7 +63,8 @@ Running in the sand is good exercise and I
 get paid for part-time work.");
 MsgDisp("主人公","Hehe, everyone ends up happy!");
 SEPlay("EV_SE_769",0,0.9);
-MsgDisp("","(Woof! Woof!)");
+MsgDisp("","(Woof!
+Woof!)");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
@@ -79,8 +85,9 @@ StlMouth(2,0);
 VoicePlay("D010200300_02_080");
 MsgDisp("Sassa","I see.
 I wish I could help you somehow.");
-MsgDisp("主人公","Really? Well, you could tell me a bit
-about yourself, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Really?
+Well, you could tell me a bit about
+yourself, ｛颯砂＊＊｝.");
 StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);

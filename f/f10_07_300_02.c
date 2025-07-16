@@ -2,7 +2,7 @@ ChLayout(2);
 BGOpen("sc310",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Now, the next class is...
-Ah, over there is...——)");
+Ah, over there is... ——)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -54,8 +54,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F100730002_21_020");
-MsgDisp("Michiru","Right, he seems like
-a normal teacher.");
+MsgDisp("Michiru","Right, he seems like a normal teacher.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -88,7 +87,8 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("F100730002_07_020");
 MsgDisp("Mikage","...Uncle?");
-MsgDisp("主人公","Ehh!　Goro-sensei∋");
+MsgDisp("主人公","Ehh!
+Goro-sensei∋");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -108,12 +108,12 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100730002_22_040");
 MsgDisp("Hikaru","Yeah, I'm sure uncle will like
-Mikage-sensei▼
-right, Mari?");
+Mikage-sensei▼ right, Mari?");
 MsgDisp("主人公","Y-Yeah.");
 MsgDisp("主人公","(Goro-sensei's fashion is quite original
-though...?
-Will ｛御影＊＊｝ be alright...)");
+though...? Will
+｛御影＊＊｝ be
+alright...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

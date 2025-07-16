@@ -4,11 +4,14 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛本多＊＊｝ )");
+    MsgDisp("主人公","(Oh, it's a phone call from
+｛本多＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello. ｛主人公苗字｝ speaking");
+    MsgDisp("主人公","Hello.
+｛主人公苗字｝
+speaking");
     VoicePlay("J030301001_03_000");
     MsgDisp("Honda","Hey, it's me.
 Is this a good time?
@@ -28,7 +31,8 @@ See you later.");
     MsgDisp("主人公","(Hmmm, too bad ......)");
     break ;
     case 3:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛本多＊＊｝ )");
+    MsgDisp("主人公","(Oh, it's a phone call from
+｛本多＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -54,7 +58,8 @@ Well, I'll see you later?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛本多＊＊｝ )");
+    MsgDisp("主人公","(Oh, it's a phone call from
+｛本多＊＊｝ )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -71,8 +76,9 @@ Bingo.");
 all though.");
     MsgDisp("主人公","Sorry for the bad timing.");
     VoicePlay("J030301001_03_090");
-    MsgDisp("Honda","What? Why are you apologizing? This is no
-one's fault.");
+    MsgDisp("Honda","What?
+Why are you apologizing?
+This is no one's fault.");
     VoicePlay("J030301001_03_100");
     MsgDisp("Honda","Okay, well, I'll see you soon.
 I'll schedule the next one.
@@ -83,7 +89,8 @@ Blow your mind!");
 Thanks for the invite!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He had a prior engagement......Too bad!)");
+    MsgDisp("主人公","(He had a prior engagement......
+Too bad!)");
     break ;
     default :
     DbgAssert(1);

@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020320301_03_000");
-MsgDisp("Honda","Hey, I have...
-a bit of a question for you.");
+MsgDisp("Honda","Hey, I have... a bit of a question for
+you.");
 MsgDisp("主人公","Yeah, what is it?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -37,17 +37,18 @@ VoicePlay("G020320301_03_050");
 MsgDisp("Honda","Do you think they were more interested in
 the ecology stuff than environmental
 issues?");
-MsgDisp("主人公","Hmm...... Maybe that's not the kind of
-things they wished to hear.");
+MsgDisp("主人公","Hmm......
+Maybe that's not the kind of things they
+wished to hear.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020320301_03_060");
-MsgDisp("Honda","Ehh∋ Then what kind of things did they
-want to hear?");
-MsgDisp("主人公","Umm, for example......
-things like holding hands or having a good
-time together......");
+MsgDisp("Honda","Ehh∋
+Then what kind of things did they want to
+hear?");
+MsgDisp("主人公","Umm, for example...... things like holding
+hands or having a good time together......");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);

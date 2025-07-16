@@ -76,7 +76,7 @@ that.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040622202_06_070");
-        MsgDisp("Himuro","...What does it mean?
+        MsgDisp("Himuro","... What does it mean?
 It's just as I said.
 Nothing more, nothing less.");
         MsgDisp("主人公","Hehe.");
@@ -85,8 +85,7 @@ Nothing more, nothing less.");
         ChMotion(6,4);
         VoicePlay("B040622202_06_080");
         MsgDisp("Himuro","why are you laughing?");
-        MsgDisp("主人公","I was just happy you're 
-enjoying yourself.");
+        MsgDisp("主人公","I was just happy you're enjoying yourself.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
@@ -104,8 +103,8 @@ Spending time with you like this.");
         ChMotion(6,4);
         VoicePlay("B040622202_06_110");
         MsgDisp("Himuro","Maybe that's the reason I come along.");
-        MsgDisp("主人公","(Seems like ｛氷室＊＊｝ is also having
-fun...
+        MsgDisp("主人公","(Seems like ｛氷室＊＊｝ is also
+having fun...
 I'm glad.)");
         break ;
         default :

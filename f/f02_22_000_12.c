@@ -24,8 +24,9 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F022200012_22_020");
-MsgDisp("Hikaru","Ah～ I hope I can be in the same class as
-Mari this time though.");
+MsgDisp("Hikaru","Ah～
+I hope I can be in the same class as Mari
+this time though.");
 MsgDisp("主人公","Hehe!
 That's right, isn't it?");
 MsgClose();

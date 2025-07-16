@@ -22,24 +22,23 @@ ChMotion(3,1,1);
 VoicePlay("P240300000_03_010");
 MsgDisp("Honda","It'll be most difficult.
 However, that's what makes it fun.");
-MsgDisp("主人公","?
-But what about you if you fail?");
+MsgDisp("主人公","? But what about you if you fail?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_020");
 MsgDisp("Honda","But our failure hasn't been decided, has
 it?");
-MsgDisp("主人公","(S-Somewhat...... He's returned to being
-the usual ｛本多＊＊｝∋ )");
+MsgDisp("主人公","(S-Somewhat......
+He's returned to being the usual
+｛本多＊＊｝∋ )");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_030");
 MsgDisp("Honda","... Someone must carry out Nobunaga-sama's
 orders.");
-MsgDisp("主人公","But,
-why must it be you who does it?");
+MsgDisp("主人公","But, why must it be you who does it?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -49,13 +48,14 @@ dilemma...
 In this country?");
 SEPlay("EV_SE_GAYA_008",0,0.7);
 Wait(90,0);
-MsgDisp("主人公","(Come on, he's become ｛本多＊＊｝ again!)");
+MsgDisp("主人公","(Come on, he's become
+｛本多＊＊｝ again!)");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 SEStop("EV_SE_GAYA_008",1);
 VoicePlay("P240300000_03_050");
-MsgDisp("Honda","...Ahem.
+MsgDisp("Honda","... Ahem.
 You don't understand, Mitsu.");
 MsgDisp("主人公","I-I don't understand.
 Mitsu is terribly sorry, but she doesn't
@@ -130,8 +130,9 @@ VoicePlay("P240300000_03_120");
 MsgDisp("Honda","Yeah, actually I was going to play Kuroda
 Kabei like myself, but I stopped since you
 glared at me scarily.");
-MsgDisp("主人公","Geez... I really wondered what was going
-to happen.");
+MsgDisp("主人公","Geez...
+I really wondered what was going to
+happen.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

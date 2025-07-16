@@ -13,5 +13,5 @@ VoicePlay("B020102131_01_010");
 MsgDisp("Kazama","Yeah.
 I like the way you dress naturally.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have started to love
-clothes like these, too!)");
+｛風真＊＊｝ seems to have
+started to love clothes like these, too!)");

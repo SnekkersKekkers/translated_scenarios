@@ -83,8 +83,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100200_01_070");
-MsgDisp("Kazama","Nope, it's worth 100 times more than 
-that.");
+MsgDisp("Kazama","Nope, it's worth 100 times more than that.");
 MsgDisp("主人公","100 times∋");
 ChEye(1,0);
 ChMouth(1,3);
@@ -98,8 +97,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100200_01_090");
 MsgDisp("Kazama","I sound just like dad, don't I?");
-MsgDisp("主人公","｛風真＊＊｝'s dad has an antique store in
-England, right?");
+MsgDisp("主人公","｛風真＊＊｝'s dad has an antique
+store in England, right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

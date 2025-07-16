@@ -1,7 +1,6 @@
 ScrFadeIn(0);
 VoicePlay("P840300005_48_000");
-MsgDisp("School Girl","Excuse me,
-I found a lost meal ticket.");
+MsgDisp("School Girl","Excuse me, I found a lost meal ticket.");
 MsgDisp("主人公","Ah, thank you very much.
 Please write an entry of where you found
 it in this lost items notebook.");
@@ -18,8 +17,8 @@ ChOpen(3,254,1,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P840300005_03_000");
 MsgDisp("Honda","｛主人公｝, good work.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. Did you find your meal
-ticket?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Did you find your meal ticket?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -27,8 +26,7 @@ VoicePlay("P840300005_03_010");
 MsgDisp("Honda","No. I bought another one, so let's eat
 together later. My lost items are my own
 responsibility.");
-MsgDisp("主人公","Y-Yeah...
-that's right huh?");
+MsgDisp("主人公","Y-Yeah... that's right huh?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

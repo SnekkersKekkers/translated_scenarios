@@ -17,8 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040415202_04_010");
-    MsgDisp("Nanatsumori","Alright. I'll definitely get that drink,
-so get ready, okay?");
+    MsgDisp("Nanatsumori","Alright.
+I'll definitely get that drink, so get
+ready, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -85,8 +86,9 @@ Alright, high five!");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040415202_04_070");
-        MsgDisp("Nanatsumori","Ahー, this feels nice. So? Have you
-decided on a prize for the wager?");
+        MsgDisp("Nanatsumori","Ahー, this feels nice.
+So?
+Have you decided on a prize for the wager?");
         MsgDisp("主人公","I'm still...");
         ChEye(4,4);
         ChMouth(4,3);
@@ -106,8 +108,7 @@ something, right?");
         ChMouth(4,1);
         ChMotion(4,1,1);
         VoicePlay("B040415202_04_100");
-        MsgDisp("Nanatsumori","No, 
-I did think of something but...");
+        MsgDisp("Nanatsumori","No, I did think of something but...");
         MsgDisp("主人公","Eh, what?
 Tell me.");
         ChEye(4,2);
@@ -123,8 +124,9 @@ Let's stop.");
         ChMouth(4,1);
         ChMotion(4,0,1);
         VoicePlay("B040415202_04_120");
-        MsgDisp("Nanatsumori","Yeah. If I told you this, I'd definitely
-regret it.");
+        MsgDisp("Nanatsumori","Yeah.
+If I told you this, I'd definitely regret
+it.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);

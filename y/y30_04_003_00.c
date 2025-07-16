@@ -41,8 +41,9 @@ MsgClear();
 MsgDisp("","For an instant, her eyes widened, but
 soon her usual smile returned.");
 MsgDisp("主人公","\"Certainly!\"");
-MsgDisp("","Crap. This communication. Feels
-nice...!");
+MsgDisp("","Crap.
+This communication.
+Feels nice...!");
 MsgClear();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -59,8 +60,8 @@ SEWait();
 MsgDisp("","...It's coming.");
 MsgDisp("主人公","\"Sorry to have kept you waiting. I
 brought you dessert. ...It's
-specifically for ｛七ツ森＊｝,
-right?\"");
+specifically for
+｛七ツ森＊｝, right?\"");
 MsgDisp("","Unbelievable...");
 MsgClear();
 SEPlay("EV_SE_001",0,0.6);
@@ -68,12 +69,10 @@ Wait(70,0);
 SEPlay("EV_SE_827",0.1);
 SEWait();
 ScrFadeIn(0);
-MsgDisp("","She placed two 
-desserts on my table.");
+MsgDisp("","She placed two desserts on my table.");
 MsgDisp("","\"Banana＆chocolate sundaeー\" and
 \"Biscuit kingdom\"...");
-MsgDisp("","I see...
-that's how it is!");
+MsgDisp("","I see... that's how it is!");
 MsgClear();
 MsgDisp("","I seriously get it.");
 MsgDisp("","Right. Currently when I finish work,

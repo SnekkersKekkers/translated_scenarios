@@ -14,14 +14,14 @@ switch (ChPrmGet(8,6)){
     VoicePlay("I660800008_08_000");
     MsgDisp("Shirahane","Good work.
 It was pretty busy today.");
-    MsgDisp("主人公","Yeah. It's time for us to go home now,
-too.");
+    MsgDisp("主人公","Yeah.
+It's time for us to go home now, too.");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800008_08_010");
-    MsgDisp("Shirahane","Right. Time for us high schoolers to get
-home.");
+    MsgDisp("Shirahane","Right.
+Time for us high schoolers to get home.");
     ChEye(8,3);
     ChMouth(8,4);
     ChMotion(8,4,1);
@@ -29,7 +29,8 @@ home.");
     VoicePlay("I660800008_08_020");
     MsgDisp("Shirahane","Though I wanna stay with ya just a little
 longer.");
-    MsgDisp("主人公","Geez, ｛大地＊＊｝. Hehe!");
+    MsgDisp("主人公","Geez, ｛大地＊＊｝.
+Hehe!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
@@ -52,9 +53,11 @@ have some tea together?");
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800008_08_050");
     MsgDisp("Shirahane","Doesn't it seem like the manager really
-likes us both? Haha!");
-    MsgDisp("主人公","(Hehe! I've been working here a while, so
-I'm glad.)");
+likes us both?
+Haha!");
+    MsgDisp("主人公","(Hehe!
+I've been working here a while, so I'm
+glad.)");
     break ;
     case 4:
     case 5:
@@ -63,13 +66,15 @@ I'm glad.)");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
     ChOpen(8,35,0,3,3,#1,#1,0,0);
-    MsgDisp("主人公","Haa...... Seems like it's calmed down a
-bit.");
+    MsgDisp("主人公","Haa......
+Seems like it's calmed down a bit.");
     VoiceEVSPlay(8);
     VoicePlay("I660800008_08_060");
-    MsgDisp("Shirahane","｛主人公｝. Nice work t'day.");
-    MsgDisp("主人公","｛大地＊＊｝. Ah...... hehe! There's oil
-on your nose.");
+    MsgDisp("Shirahane","｛主人公｝.
+Nice work t'day.");
+    MsgDisp("主人公","｛大地＊＊｝.
+Ah...... hehe!
+There's oil on your nose.");
     ChEye(8,5);
     ChMouth(8,5);
     ChMotion(8,1,1);
@@ -86,7 +91,7 @@ Just wait a bit......");
     VoicePlay("I660800008_08_080");
     MsgDisp("Shirahane","Ah, 'kay......");
     MsgDisp("主人公","There, I got it.
-......What is it?");
+...... What is it?");
     ChEye(8,4);
     ChMouth(8,4);
     ChMotion(8,4,1);
@@ -128,11 +133,12 @@ So, don't worry 'bout it.");
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("I660800008_08_130");
-    MsgDisp("Shirahane","......But I don't really wanna take over
-the store, do you? Right?");
-    MsgDisp("主人公","(Hehe! I've been working here a while, and
-it looks like I've been
-acknowledged......!)");
+    MsgDisp("Shirahane","...... But I don't really wanna take over
+the store, do you?
+Right?");
+    MsgDisp("主人公","(Hehe!
+I've been working here a while, and it
+looks like I've been acknowledged......!)");
     break ;
     default :
     DbgAssert(1);

@@ -1,14 +1,15 @@
-MsgDisp("主人公","｛風真＊＊｝, recently you've been around
-｛颯砂＊＊｝ and ｛氷室＊＊｝ a lot but, what
-sort of things do you talk about?");
+MsgDisp("主人公","｛風真＊＊｝, recently you've
+been around ｛颯砂＊＊｝ and
+｛氷室＊＊｝ a lot but, what sort
+of things do you talk about?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_180");
 MsgDisp("Kazama","Sassa keeps pestering me to do sports.");
-MsgDisp("主人公","｛風真＊＊｝ can do any sport, so he
-probably just thinks it's a shame.");
+MsgDisp("主人公","｛風真＊＊｝ can do any sport,
+so he probably just thinks it's a shame.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -27,8 +28,9 @@ MsgDisp("Kazama","Inori joins Hayasusa and keeps saying
 things like I should do track and field or
 go surfing. In the end, it's like, \"Why
 not try e-sports instead?\"");
-MsgDisp("主人公","Hehe, ｛氷室＊＊｝ wants to go surfing with
-｛風真＊＊｝ doesn't he?");
+MsgDisp("主人公","Hehe, ｛氷室＊＊｝ wants to go
+surfing with ｛風真＊＊｝
+doesn't he?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -52,8 +54,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100001_01_230");
-MsgDisp("Kazama","They tend to listen 
-to what you say, so...");
+MsgDisp("Kazama","They tend to listen to what you say, so...");
 MsgDisp("主人公","(Hehe, ｛風真＊＊｝ too.
 He seems to perfectly be having fun!)");
 BGMStop();

@@ -8,8 +8,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛七ツ森＊｝'s modeling
-agency!)");
+snacks to ｛七ツ森＊｝'s
+modeling agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -30,15 +30,17 @@ I'm delivering from Cafe Alucard.");
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400005_04_000");
     MsgDisp("Nanatsumori","Are you...... working?");
-    MsgDisp("主人公","｛七ツ森＊｝! Yeah, it's my first
-delivery job. ｛七ツ森＊｝, are you on
+    MsgDisp("主人公","｛七ツ森＊｝! Yeah, it's
+my first delivery job.
+｛七ツ森＊｝, are you on
 break?");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("I360400005_04_010");
-    MsgDisp("Nanatsumori","Yeah. I think it's fine if you just leave
-that on the table.");
+    MsgDisp("Nanatsumori","Yeah.
+I think it's fine if you just leave that
+on the table.");
     MsgDisp("主人公","Okay.
 I'll do that.");
     ChEye(4,4);
@@ -51,15 +53,17 @@ I'll do that.");
     ChMouth(4,3);
     VoicePlay("I360400005_04_030");
     MsgDisp("Nanatsumori","Nah, I just felt the power of the service
-industry. Impressive.");
-    MsgDisp("主人公","(Hehe! ｛七ツ森＊｝ praised me. I did
-it!)");
+industry.
+Impressive.");
+    MsgDisp("主人公","(Hehe!
+｛七ツ森＊｝ praised me.
+I did it!)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛七ツ森＊｝'s modeling
-agency!)");
+snacks to ｛七ツ森＊｝'s
+modeling agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -81,8 +85,10 @@ I'm delivering from Cafe Alucard.");
     VoiceEVSPlay(4);
     VoicePlay("I360400005_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝. I came to deliver this!");
-    MsgDisp("主人公","......Hm? There aren't many people around.
+    MsgDisp("主人公","｛七ツ森＊｝.
+I came to deliver this!");
+    MsgDisp("主人公","...... Hm?
+There aren't many people around.
 Did you just get on break?");
     ChEye(4,4);
     ChMouth(4,0);
@@ -102,7 +108,8 @@ Yes, I'm working right now......");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("I360400005_04_070");
-    MsgDisp("Nanatsumori","Aah...... I see.
+    MsgDisp("Nanatsumori","Aah......
+I see.
 That's true.");
     ChEye(4,0);
     ChMouth(4,0);

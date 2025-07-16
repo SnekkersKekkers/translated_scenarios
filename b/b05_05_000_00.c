@@ -53,7 +53,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500000_05_050");
 MsgDisp("Hiiragi","I get it.
-......Wait here a minute.
+...... Wait here a minute.
 I'll go buy some.");
 MsgClose();
 SEStop("EV_SE_729",1);
@@ -79,10 +79,11 @@ Wait(50,0);
 StlEyeOpenLevel(5,5);
 VoicePlay("B050500000_05_070");
 MsgDisp("Hiiragi","Good job!
-......Did you see that?
+...... Did you see that?
 It caught it.");
 MsgDisp("主人公","Yeah, that was cute!
-My turn now......Catch!");
+My turn now......
+Catch!");
 SEStop("EV_SE_729",0.5);
 SEPlay("EV_SE_668",0,0.6);
 SEWait();
@@ -95,8 +96,9 @@ MsgDisp("Hiiragi","Come, it's tasty!
 Haha, come here too!");
 SEStop("EV_SE_729",1);
 MsgDisp("主人公","(Hehe, it's my first time seeing
-｛柊＊＊＊｝ smile so innocently.
-I guess it's a bit cute......?)");
+｛柊＊＊＊｝ smile so
+innocently. I guess it's a bit
+cute......?)");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -110,8 +112,9 @@ ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B050500000_05_090");
-MsgDisp("Hiiragi","Yeah. The seagulls coming onto the stage
-with us like that.");
+MsgDisp("Hiiragi","Yeah.
+The seagulls coming onto the stage with us
+like that.");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);

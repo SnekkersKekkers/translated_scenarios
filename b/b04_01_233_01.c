@@ -5,8 +5,7 @@ MsgClose();
 ChOpen(1,255,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123301_01_000");
-MsgDisp("Kazama","Why... 
-did we come here again?");
+MsgDisp("Kazama","Why... did we come here again?");
 MsgSel("I felt like something was calling me","Maybe it'll become fun one day?","A part of the harness fell off");
 switch (MsgSelRsltGet()){
     case 0:
@@ -25,8 +24,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,1);
     ChMotion(1,3);
     VoicePlay("B040123301_01_020");
-    MsgDisp("Kazama","Fun? This is one of those punishment
-games...");
+    MsgDisp("Kazama","Fun?
+This is one of those punishment games...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

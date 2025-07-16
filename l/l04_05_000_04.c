@@ -70,9 +70,9 @@ You may see some rough edges.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("L040500004_05_080");
-    MsgDisp("Hiiragi","Rough? If by chance such a part exists, it
-too was made by you while keeping me in
-mind.");
+    MsgDisp("Hiiragi","Rough?
+If by chance such a part exists, it too
+was made by you while keeping me in mind.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("L040500004_05_090");

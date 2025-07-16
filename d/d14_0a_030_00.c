@@ -38,8 +38,9 @@ ChMouth(2,3);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("D140A03000_02_010");
-MsgDisp("Sassa","Haha! Ryota, you're messed up. Just seeing
-her makes you smile?");
+MsgDisp("Sassa","Haha!
+Ryota, you're messed up.
+Just seeing her makes you smile?");
 ChEye(1,4);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -103,8 +104,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03000_06_050");
 MsgDisp("Himuro","Huh?");
-MsgDisp("主人公","(Yep...... I knew this seating arrangement
-would be weird......)");
+MsgDisp("主人公","(Yep......
+I knew this seating arrangement would be
+weird......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

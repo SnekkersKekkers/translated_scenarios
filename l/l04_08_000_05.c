@@ -8,14 +8,15 @@ switch (ChPrmGet(8,6)){
     ChEyeOpenLevel(8,10);
     VoicePlay("L040800005_08_000");
     MsgDisp("Shirahane","Handmade chocolate!
-......Hm?");
+...... Hm?");
     MsgDisp("主人公","What is it?");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("L040800005_08_010");
     MsgDisp("Shirahane","This...... might be somethin' I'm not good
-with. But, I'll be fine.");
+with.
+But, I'll be fine.");
     MsgDisp("主人公","(Could it be that I put in something he
 doesn't like......)");
     break ;
@@ -37,8 +38,9 @@ really like.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("L040800005_08_040");
-    MsgDisp("Shirahane","But it's all good! If I pinch my nose, I
-can eat it. Thanks!");
+    MsgDisp("Shirahane","But it's all good!
+If I pinch my nose, I can eat it.
+Thanks!");
     MsgDisp("主人公","(Something he doesn't like......
 I should've checked more thoroughly.)");
     break ;

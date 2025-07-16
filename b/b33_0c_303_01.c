@@ -37,8 +37,9 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("B330C30301_05_010");
-MsgDisp("Hiiragi","Yes. But we kept doing the same rotation
-each time.");
+MsgDisp("Hiiragi","Yes.
+But we kept doing the same rotation each
+time.");
 ChEyeOpenLevel(5,0);
 ChEye(6,0);
 ChMouth(6,0);
@@ -59,8 +60,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C30301_06_020");
-MsgDisp("Himuro","Heeh... As expected of the track-and-field
-club's phantom advisor.");
+MsgDisp("Himuro","Heeh...
+As expected of the track-and-field club's
+phantom advisor.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

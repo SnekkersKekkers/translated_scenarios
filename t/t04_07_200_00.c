@@ -21,14 +21,15 @@ VoicePlay("T040720000_06_000");
 MsgDisp("Himuro","Why is that the case?
 Shouldn't the person who wants to do it be
 in charge?");
-MsgDisp("主人公","Eh∋ ｛氷室＊＊｝, do you not want a
+MsgDisp("主人公","Eh∋
+｛氷室＊＊｝, do you not want a
 barbecue......?");
 VoicePlay("T040720000_07_020");
-MsgDisp("Mikage","Inori,
-so thats what you meant.");
+MsgDisp("Mikage","Inori, so thats what you meant.");
 VoicePlay("T040720000_06_010");
 MsgDisp("Himuro","I-I never said I didn't want to do it!");
-MsgDisp("主人公","Hehe! Thank you, ｛氷室＊＊｝.");
+MsgDisp("主人公","Hehe!
+Thank you, ｛氷室＊＊｝.");
 VoicePlay("T040720000_06_020");
 MsgDisp("Himuro","Huh, so they're forming a united front
 like that.

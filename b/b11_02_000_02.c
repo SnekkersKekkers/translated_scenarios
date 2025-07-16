@@ -1,12 +1,13 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Seems like ｛颯砂＊＊｝ still isn't here...");
+MsgDisp("主人公","Seems like ｛颯砂＊＊｝ still
+isn't here...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(｛颯砂＊＊｝ you're late...
-did something happen?)");
+MsgDisp("主人公","(｛颯砂＊＊｝ you're late... did something
+happen?)");
 SEPlay("EV_SE_524");
 SEWait();
 MsgClose();
@@ -25,8 +26,7 @@ MsgDisp("Guy","Ah, you don't?
 I do.
 Alright let's go.");
 VoicePlay("B110200002_02_000");
-MsgDisp("Sassa?","What business do you 
-have with her?");
+MsgDisp("Sassa?","What business do you have with her?");
 ChEye(35,2);
 ChMouth(35,2);
 VoicePlay("B110200002_35_020");

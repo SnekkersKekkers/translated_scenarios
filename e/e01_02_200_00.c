@@ -17,11 +17,13 @@ MsgDisp("Sassa","Just like Ryota said, you're here!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010220000_01_000");
-MsgDisp("Kazama","Hahh...... Hahhh......");
+MsgDisp("Kazama","Hahh......
+Hahhh......");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","｛颯砂＊＊｝, ｛風真＊＊｝! What are you
-guys doing?");
+MsgDisp("主人公","｛颯砂＊＊｝,
+｛風真＊＊｝!
+What are you guys doing?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

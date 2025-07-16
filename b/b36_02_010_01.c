@@ -25,8 +25,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_010");
-MsgDisp("Sassa","Well, I know you like 
-shopping after all.");
+MsgDisp("Sassa","Well, I know you like shopping after all.");
 MsgDisp("主人公","Is that why we're here?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -52,15 +51,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360201001_02_040");
-MsgDisp("Sassa","Hmm, I'm fine with 
-whatever you wear.");
+MsgDisp("Sassa","Hmm, I'm fine with whatever you wear.");
 MsgDisp("主人公","Ehh?
 Think about it more properly.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_050");
-MsgDisp("Sassa","...Yeah. It's nice.
+MsgDisp("Sassa","... Yeah.
+It's nice.
 This sort of feeling.");
 MsgDisp("主人公","This sort of fashion?");
 ChEye(2,0);
@@ -68,7 +67,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_060");
 MsgDisp("Sassa","No, hey... we also look like a couple from
-the back, don't we? It's nice.");
+the back, don't we?
+It's nice.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

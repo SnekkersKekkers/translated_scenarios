@@ -3,5 +3,6 @@ NSSMouth(4,1);
 NSSEyeOpenLevel(4,0);
 VoicePlay("AP0504512_04_000");
 MsgDisp("Nanatsumori","Uu......!
-Endurance, me! Endure it......");
+Endurance, me!
+Endure it......");
 MsgClose();

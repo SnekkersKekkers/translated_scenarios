@@ -6,16 +6,14 @@ switch (ChPrmGet(3,6)){
     ChOpen(3,255,1,0,3,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300001_03_000");
-    MsgDisp("Honda","Then, I'm with
-Pika-chan?");
+    MsgDisp("Honda","Then, I'm with Pika-chan?");
     break ;
     case 3:
     MsgClose();
     ChOpen(3,255,0,0,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300001_03_010");
-    MsgDisp("Honda","Hey, isn't this an unusual
-combination?");
+    MsgDisp("Honda","Hey, isn't this an unusual combination?");
     break ;
     case 4:
     case 5:

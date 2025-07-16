@@ -21,8 +21,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F022100002_21_020");
-MsgDisp("Michiru","Right. There's a famous rumor that says
-he's actually an android.");
+MsgDisp("Michiru","Right.
+There's a famous rumor that says he's
+actually an android.");
 MsgDisp("主人公","(I-I see...
 Himuro-sensei is an android...)");
 ChEye(21,0);
@@ -45,7 +46,7 @@ ChMotion(21,4);
 VoicePlay("F022100002_21_050");
 MsgDisp("Michiru","I wonder if Mikage-sensei will be
 alright...");
-MsgDisp("主人公","(｛みちる＊｝, are you really worried
-even though it's just a rumor?)");
+MsgDisp("主人公","(｛みちる＊｝, are you really worried even
+though it's just a rumor?)");
 MsgClose();
 ScrFadeOut(0,0);

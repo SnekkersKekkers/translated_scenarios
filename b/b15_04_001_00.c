@@ -19,8 +19,9 @@ ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B150400100_04_020");
-MsgDisp("Nanatsumori","Wrong. Girls shouldn't touch guys' bodies
-with that innocent look on their face.");
+MsgDisp("Nanatsumori","Wrong.
+Girls shouldn't touch guys' bodies with
+that innocent look on their face.");
 MsgDisp("主人公","Yes...");
 ChEye(4,2);
 ChMouth(4,2);
@@ -52,12 +53,13 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B150400100_04_070");
-MsgDisp("Nanatsumori","...No, it's my fault for not being able to
-convey what I wanted properly. Sorry...
-later then.");
+MsgDisp("Nanatsumori","... No, it's my fault for not being able
+to convey what I wanted properly.
+Sorry... later then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
-MsgDisp("主人公","(Seems like I worried ｛七ツ森＊｝... )");
+MsgDisp("主人公","(Seems like I worried
+｛七ツ森＊｝... )");
 MsgClose();
 ScrFadeOut(0,0);

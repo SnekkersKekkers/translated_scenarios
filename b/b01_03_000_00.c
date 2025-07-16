@@ -1,7 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm running late... ｛本多＊＊｝ is...
+MsgDisp("主人公","(I'm running late...
+｛本多＊＊｝ is...
 Oh!)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
@@ -66,7 +67,8 @@ You should just show up late all the time.");
     ChMotion(3,4);
     VoicePlay("B010300000_03_060");
     MsgDisp("Honda","Then I can build up antibodies to it, and
-that will give me peace of mind. Right?");
+that will give me peace of mind.
+Right?");
     MsgDisp("主人公","I just won't be late again!");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);

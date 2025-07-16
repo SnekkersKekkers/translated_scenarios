@@ -53,8 +53,7 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("D140B05000_01_030");
-MsgDisp("Kazama","Shut up, 
-quickly eat.");
+MsgDisp("Kazama","Shut up, quickly eat.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -70,10 +69,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B05000_01_040");
-MsgDisp("Kazama","They're watching us. Geez... don't let it
-bother you okay?");
-MsgDisp("主人公","Umm...
-o-okay.");
+MsgDisp("Kazama","They're watching us.
+Geez... don't let it bother you okay?");
+MsgDisp("主人公","Umm... o-okay.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -85,8 +83,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B05000_03_030");
-MsgDisp("Honda","This is a fun 
-lunch time, isn't it♪");
+MsgDisp("Honda","This is a fun lunch time, isn't it♪");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3,1);

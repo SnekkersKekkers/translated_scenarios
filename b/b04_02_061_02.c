@@ -58,9 +58,9 @@ ride a killer whale?");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040206102_02_040");
-        MsgDisp("Sassa","Are you really going to ride
-that......");
-        MsgDisp("主人公","Eh? N-No?");
+        MsgDisp("Sassa","Are you really going to ride that......");
+        MsgDisp("主人公","Eh?
+N-No?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
@@ -68,13 +68,13 @@ that......");
         MsgDisp("Sassa","I'm not saying no.
 But you know, me floating in the ocean all
 by myself, straddling that thing...");
-        MsgDisp("主人公","Hehe, that would be cute,
-though?");
+        MsgDisp("主人公","Hehe, that would be cute, though?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206102_02_060");
-        MsgDisp("Sassa","Cute? What's with that?");
+        MsgDisp("Sassa","Cute?
+What's with that?");
         MsgDisp("主人公","I think it would be fun if we rode one
 together.");
         ChEye(2,0);
@@ -83,28 +83,32 @@ together.");
         ChCheek(2,10);
         VoicePlay("B040206102_02_070");
         MsgDisp("Sassa","Me...with you?");
-        MsgDisp("主人公","Yeah. It's hard to stay afloat with two
-people on top.");
+        MsgDisp("主人公","Yeah.
+It's hard to stay afloat with two people
+on top.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040206102_02_080");
-        MsgDisp("Sassa","......Woah, the orca actually has hidden
+        MsgDisp("Sassa","...... Woah, the orca actually has hidden
 potential.
 I didn't think of that......");
-        MsgDisp("主人公","Uhm......? If ｛颯砂＊＊｝ doesn't want
+        MsgDisp("主人公","Uhm......?
+If ｛颯砂＊＊｝ doesn't want
 to......");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);
         VoicePlay("B040206102_02_090");
-        MsgDisp("Sassa","Let's go! Hurry! Before they run out of
-rentals.");
+        MsgDisp("Sassa","Let's go!
+Hurry!
+Before they run out of rentals.");
         MsgClose();
         SEPlay("EV_SE_580");
         ChClose(2);
         SEWait();
-        MsgDisp("主人公","(Huh? What's up with ｛颯砂＊＊｝? )");
+        MsgDisp("主人公","(Huh?
+What's up with ｛颯砂＊＊｝? )");
         break ;
         default :
         DbgAssert(1);

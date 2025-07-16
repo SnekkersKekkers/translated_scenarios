@@ -14,8 +14,8 @@ switch (ChPrmGet(22,6)){
     ChMouth(22,2);
     VoicePlay("H282200000_22_000");
     MsgDisp("Hikaru","Wow, this place is huge......");
-    MsgDisp("主人公","Ah, ｛ひかる＊｝. Did you come to
-cheer us on?");
+    MsgDisp("主人公","Ah, ｛ひかる＊｝.
+Did you come to cheer us on?");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);
@@ -42,8 +42,8 @@ Haba High will win!");
     ScrFadeIn(0);
     VoicePlay("H282200000_22_030");
     MsgDisp("Hikaru","Mari!");
-    MsgDisp("主人公","Ah, ｛ひかる＊｝! Did you come to
-cheer us on?");
+    MsgDisp("主人公","Ah, ｛ひかる＊｝!
+Did you come to cheer us on?");
     ChMotion(22,3,1);
     VoicePlay("H282200000_22_040");
     MsgDisp("Hikaru","I came to cheer Mari on▼");
@@ -53,8 +53,9 @@ I'm the manager, you know?");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("H282200000_22_050");
-    MsgDisp("Hikaru","Yeah. Isn't the Haba High track team
-pretty strong already?");
+    MsgDisp("Hikaru","Yeah.
+Isn't the Haba High track team pretty
+strong already?");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,3,1);

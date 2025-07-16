@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C01_RYOUTA_KOKU",0.01);
 ChOpen(1,254,0,0,3,#1,#1,0,0,0,120);
-MsgDisp("主人公","｛風真＊＊｝......! Why......");
+MsgDisp("主人公","｛風真＊＊｝......!
+Why......");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -25,14 +26,13 @@ MsgDisp("主人公","......No, I wasn't alone.");
 ChEye(1,0);
 ChMouth(1,2);
 MsgDisp("主人公","I came over here because I heard the bell
-with ｛風真＊＊｝ back in elementary
-school.");
+with ｛風真＊＊｝ back in
+elementary school.");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("T020121000_01_020");
-MsgDisp("Kazama","∋
-Seriously......?");
+MsgDisp("Kazama","∋ Seriously......?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -141,7 +141,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020121000_01_150");
 MsgDisp("Kazama","I couldn't bring myself to tell him I was
-staying here. But I... finally told him.");
+staying here.
+But I... finally told him.");
 MsgDisp("主人公","......Okay.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);

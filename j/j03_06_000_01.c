@@ -36,7 +36,7 @@ See you later.");
 Well, I don't have a choice.
 I'll invite you next time, okay?");
     VoicePlay("J030600001_06_060");
-    MsgDisp("Himuro","......Alright.
+    MsgDisp("Himuro","...... Alright.
 Be sure to invite me.");
     MsgDisp("主人公","Yeah, I'll see you later..");
     SEPlay("SYS_SE_PHONE_POWER_ON");

@@ -13,7 +13,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040502200_05_010");
-    MsgDisp("Hiiragi","Agreed. There's no other way to put it.");
+    MsgDisp("Hiiragi","Agreed.
+There's no other way to put it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

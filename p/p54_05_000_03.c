@@ -3,8 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa... maybe I didn't
-practice enough...)");
+MsgDisp("主人公","(Haa... maybe I didn't practice enough...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(5,254,0,4,4,#1,#1,0,0);
@@ -12,8 +11,8 @@ VoicePlay("P540500003_05_000");
 MsgDisp("Hiiragi","That was an interesting sound.
 I've become a little curious about game
 music.");
-MsgDisp("主人公","Interesting...? I think that's where I
-messed up.");
+MsgDisp("主人公","Interesting...?
+I think that's where I messed up.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);

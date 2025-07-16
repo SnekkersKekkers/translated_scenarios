@@ -16,5 +16,6 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("B130500005_05_010");
-MsgDisp("Hiiragi","It's about your outfit. Hah... I'm a guy
-too, you know.");
+MsgDisp("Hiiragi","It's about your outfit.
+Hah...
+I'm a guy too, you know.");

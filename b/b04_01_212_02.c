@@ -62,14 +62,14 @@ That sea otter seems kind of heartless.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040121202_01_040");
-        MsgDisp("Kazama","Really? He kinda looks like he'd smash any
-cup you put down with his shell.");
+        MsgDisp("Kazama","Really?
+He kinda looks like he'd smash any cup you
+put down with his shell.");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,1);
         VoicePlay("B040121202_01_050");
-        MsgDisp("Kazama","Um, what about these
-wolf-shaped scissors?");
+        MsgDisp("Kazama","Um, what about these wolf-shaped scissors?");
         MsgDisp("主人公","Waa, it's true!
 It seems kinda cool.");
         ChEye(1,0);
@@ -98,8 +98,7 @@ over there, kinda looks like you?
         ChEyeOpenLevel(1,8);
         ChCheek(1,5);
         VoicePlay("B040121202_01_080");
-        MsgDisp("Kazama","Cute you say...
-well, that's fine.");
+        MsgDisp("Kazama","Cute you say... well, that's fine.");
         ChEyeOpenLevel(1,0);
         Wait(30,1);
         MsgClose();

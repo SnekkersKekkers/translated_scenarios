@@ -3,7 +3,8 @@ ChOpen(3,255,2,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300200_03_000");
 MsgDisp("Honda","Maybe it's not about technique after all.");
-MsgDisp("主人公","Huh? What do you mean?");
+MsgDisp("主人公","Huh?
+What do you mean?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -26,8 +27,7 @@ ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300200_03_040");
 MsgDisp("Honda","You were just gently touching my head and
-body...
-and yet, I felt really happy.");
+body... and yet, I felt really happy.");
 MsgDisp("主人公","｛本多＊＊｝...");
 ChEye(3,0);
 ChMouth(3,4);
@@ -36,8 +36,7 @@ VoicePlay("B150300200_03_050");
 MsgDisp("Honda","Could it be that the reason I feel so
 happy isn't about the technique at all,
 but the fact that it's you doing it?");
-MsgDisp("主人公","I'd be really happy if that's the
-case...");
+MsgDisp("主人公","I'd be really happy if that's the case...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,5,1);

@@ -25,8 +25,9 @@ something could be hidden in the dark.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040205100_02_020");
-    MsgDisp("Sassa","Eh? You must have heard someone else. I
-can't sleep when it's this dark.");
+    MsgDisp("Sassa","Eh?
+You must have heard someone else.
+I can't sleep when it's this dark.");
     MsgDateResultDisp();
     break ;
     case 2:

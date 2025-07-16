@@ -3,7 +3,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     VoicePlay("J030200001_02_000");
-    MsgDisp("Sassa","......Ah, this day is not good for me.
+    MsgDisp("Sassa","...... Ah, this day is not good for me.
 Sorry.");
     MsgDisp("主人公","I see, too bad.");
     VoicePlay("J030200001_02_010");
@@ -15,8 +15,9 @@ Sorry.");
     break ;
     case 3:
     VoicePlay("J030200001_02_020");
-    MsgDisp("Sassa","Ah, I can't on that day! I have stuff
-planned. Sorry.");
+    MsgDisp("Sassa","Ah, I can't on that day!
+I have stuff planned.
+Sorry.");
     MsgDisp("主人公","I see, that's too bad.");
     VoicePlay("J030200001_02_030");
     MsgDisp("Sassa","Yeah, invite me again, okay?");
@@ -30,7 +31,8 @@ planned. Sorry.");
     case 4:
     case 5:
     VoicePlay("J030200001_02_050");
-    MsgDisp("Sassa","Ahh......I can't!
+    MsgDisp("Sassa","Ahh......
+I can't!
 I have plans on that day......");
     MsgDisp("主人公","I see, can't be helped!");
     VoicePlay("J030200001_02_060");
@@ -43,7 +45,8 @@ Bye......");
     MsgDisp("主人公","B-Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmph... I called at a bad time.)");
+    MsgDisp("主人公","(Hmph...
+I called at a bad time.)");
     break ;
     default :
     DbgAssert(1);

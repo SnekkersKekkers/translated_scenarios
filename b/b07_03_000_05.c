@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, ｛本多＊＊｝, tell me about your
-hobbies.");
+MsgDisp("主人公","Hey, ｛本多＊＊｝, tell me about
+your hobbies.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -38,7 +38,8 @@ VoicePlay("B070300000_03_290");
 MsgDisp("Honda","Maintaining a small ecosystem of plants,
 fish, and insects in an aquarium doesn't
 take much effort.");
-MsgDisp("主人公","Really? That's incredible!");
+MsgDisp("主人公","Really?
+That's incredible!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

@@ -48,7 +48,8 @@ MsgDisp("主人公","∋");
 SEStop("EV_SE_AMUSE_008",1);
 VoicePlay("B050500100_05_030");
 MsgDisp("Hiiragi","That is unacceptable.");
-MsgDisp("主人公","Eh......｛柊＊＊＊｝?");
+MsgDisp("主人公","Eh......
+｛柊＊＊＊｝?");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 StlOpen("ev_05_03");
@@ -63,7 +64,8 @@ StlEyeOpenLevel(5,5);
 SEPlay("EV_SE_623",0.3);
 SEWait();
 VoicePlay("B050500100_39_010");
-MsgDisp("Ghost","Eh......Ah, yes.");
+MsgDisp("Ghost","Eh......
+Ah, yes.");
 MsgDisp("主人公","｛柊＊＊＊｝?");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("B050500100_05_050");
@@ -115,8 +117,9 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B050500100_05_090");
 MsgDisp("Hiiragi","What about you?
 I didn't spoil your fun, did I?");
-MsgDisp("主人公","Ah, I guess because of ｛柊＊＊＊｝ it was
-a bit less scary?");
+MsgDisp("主人公","Ah, I guess because of
+｛柊＊＊＊｝ it was a bit less
+scary?");
 ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,8);

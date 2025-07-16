@@ -23,8 +23,9 @@ I'm looking forward to reading it.");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040304600_03_010");
-    MsgDisp("Honda","Really? The brilliance of the performance
-somehow got through to me too.");
+    MsgDisp("Honda","Really?
+The brilliance of the performance somehow
+got through to me too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +36,8 @@ somehow got through to me too.");
     ChMouth(3,2);
     ChMotion(3,1);
     VoicePlay("B040304600_03_020");
-    MsgDisp("Honda","...Shh. Shitara-san's fans are looking
-this way.");
+    MsgDisp("Honda","... Shh.
+Shitara-san's fans are looking this way.");
     MsgDateResultDisp();
     break ;
     default :

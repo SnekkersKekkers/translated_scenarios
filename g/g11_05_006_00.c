@@ -11,8 +11,8 @@ ChOpen(5,254,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
 ChEye(5,4);
 VoicePlay("G110500600_05_000");
-MsgDisp("Hiiragi","Greetings. Ah, want to use one of the
-canvas' today?");
+MsgDisp("Hiiragi","Greetings.
+Ah, want to use one of the canvas' today?");
 MsgDisp("主人公","Hm, I wasn't sure yet...
 Will you, ｛柊＊＊＊｝?");
 ChEye(5,0);
@@ -55,8 +55,9 @@ Wait(30,0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500600_05_030");
 MsgDisp("Hiiragi","Huh, has today already ended?");
-MsgDisp("主人公","Yeah. The weather was so nice that I
-really didn't do much progress.");
+MsgDisp("主人公","Yeah.
+The weather was so nice that I really
+didn't do much progress.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
@@ -90,8 +91,9 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("G110500600_05_070");
 MsgDisp("Hiiragi","Okay, I'll look forward to it and cheer
 you on from the window.");
-MsgDisp("主人公","Huh? ｛柊＊＊＊｝, I would get nervous if
-you were watching me draw.");
+MsgDisp("主人公","Huh?
+｛柊＊＊＊｝, I would get
+nervous if you were watching me draw.");
 ChEye(5,1);
 ChEye(5,0);
 ChMouth(5,1);

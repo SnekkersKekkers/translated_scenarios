@@ -26,7 +26,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423401_04_020");
-    MsgDisp("Nanatsumori","Ah...I guess that's how it seems.
+    MsgDisp("Nanatsumori","Ah...
+I guess that's how it seems.
 You've got some good senses.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

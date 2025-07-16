@@ -10,7 +10,8 @@ SEWait();
 ChOpen(5,254,0,4,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("P740500003_05_000");
-MsgDisp("Hiiragi","｛主人公｝, are you alright?");
+MsgDisp("Hiiragi","｛主人公｝, are you
+alright?");
 MsgDisp("主人公","Yeah, but it was a fail...");
 ChEye(5,4);
 ChMouth(5,4);

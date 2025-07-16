@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1,1);
     VoicePlay("B040304400_03_000");
     MsgDisp("Honda","Y-Yeah.
-It's hard to put into words, but...
-it was definitely a new experience.");
+It's hard to put into words, but... it was
+definitely a new experience.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

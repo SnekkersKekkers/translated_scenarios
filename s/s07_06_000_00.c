@@ -16,8 +16,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     ChEyeOpenLevel(6,8);
     VoicePlay("S070600000_06_010");
-    MsgDisp("Himuro","I feel tired and the year just
-started.");
+    MsgDisp("Himuro","I feel tired and the year just started.");
     MsgDisp("主人公","Geez, don't say that.");
     ChEye(6,2);
     ChMouth(6,0);
@@ -56,7 +55,7 @@ thing in a larger area.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S070600000_06_060");
-    MsgDisp("Himuro","......Or something like that.
+    MsgDisp("Himuro","...... Or something like that.
 I guess there's no point in complaining
 about it now.");
     break ;

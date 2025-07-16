@@ -33,7 +33,8 @@ ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,1 ) ;
 VoicePlay ( "D150001600_06_020" ) ;
-MsgDisp ( "Himuro","Huh? What do you mean?" ) ;
+MsgDisp ( "Himuro","Huh?
+What do you mean?" ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,3 ) ;

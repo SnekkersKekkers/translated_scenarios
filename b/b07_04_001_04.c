@@ -1,5 +1,6 @@
-MsgDisp("主人公","Hey. When I'm not there, ｛七ツ森＊｝
-what do you and the others talk about?");
+MsgDisp("主人公","Hey. When I'm not there,
+｛七ツ森＊｝ what do you
+and the others talk about?");
 VoicePlay("B070400001_04_270");
 MsgDisp("Nanatsumori","All sorts.");
 MsgDisp("主人公","For example?");
@@ -42,8 +43,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_340");
-MsgDisp("Nanatsumori","And... the rest is that. A secret
-conversation between boys.");
+MsgDisp("Nanatsumori","And... the rest is that.
+A secret conversation between boys.");
 MsgDisp("主人公","Eh?");
 ChEye(4,0);
 ChMouth(4,3);

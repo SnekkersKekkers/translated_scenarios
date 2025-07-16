@@ -6,8 +6,7 @@ ChMotion(6,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040601101_06_000");
-MsgDisp("Himuro","Are you smoke, 
-or are you an idiot?");
+MsgDisp("Himuro","Are you smoke, or are you an idiot?");
 MsgSel("What does that mean?","You also like it huh, ｛氷室＊＊｝?","It's not like that?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,7 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,1);
     VoicePlay("B040601101_06_020");
-    MsgDisp("Himuro","...Heh, is that your response?
+    MsgDisp("Himuro","... Heh, is that your response?
 How interesting.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

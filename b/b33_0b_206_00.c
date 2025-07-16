@@ -21,8 +21,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B20600_04_000");
-MsgDisp("Nanatsumori","At the end of the
-day, it's a movie?");
+MsgDisp("Nanatsumori","At the end of the day, it's a movie?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(3,0);

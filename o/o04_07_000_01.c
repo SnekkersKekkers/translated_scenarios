@@ -12,8 +12,7 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("O040700001_07_000");
-    MsgDisp("Mikage","It's too bad,
-but wasn't it still fun?");
+    MsgDisp("Mikage","It's too bad, but wasn't it still fun?");
     MsgDisp("主人公","(Aah, we lost......)");
     break ;
     case 3:
@@ -32,7 +31,8 @@ Yeah, you did your best.");
     ChMotion(7,3);
     VoicePlay("O040700001_07_020");
     MsgDisp("Mikage","We were close.
-But, I had fun. Thanks.");
+But, I had fun.
+Thanks.");
     MsgDisp("主人公","(Aah, we lost.
 Too bad......)");
     break ;

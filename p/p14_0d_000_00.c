@@ -16,7 +16,7 @@ VoicePlay("P140D00000_22_000");
 MsgDisp("Hikaru","We passed～!
 How was it?");
 MsgDisp("主人公","You two are back!
-It's...not a new record though.");
+It's... not a new record though.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
@@ -28,7 +28,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P140D00000_22_010");
-MsgDisp("Hikaru","Even so～, it really was so cute.
+MsgDisp("Hikaru","Even so～ , it really was so cute.
 Wasn't it?");
 ChSet(21,0);
 MsgDisp("主人公","Hehe, I'm so happy to hear that!");

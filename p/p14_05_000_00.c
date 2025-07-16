@@ -25,8 +25,8 @@ VoicePlay("P140500000_05_020");
 MsgDisp("Hiiragi","But in the maze...
 It was lively with animal illustrations,
 so it was fun even when I was lost.");
-MsgDisp("主人公","It was ｛御影＊＊｝'s idea, everyone
-just arranged it.");
+MsgDisp("主人公","It was ｛御影＊＊｝'s idea,
+everyone just arranged it.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -28,8 +28,9 @@ this place.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040306502_03_020");
-    MsgDisp("Honda","Yeah. It was so powerful, it reverberated
-in my stomach.");
+    MsgDisp("Honda","Yeah.
+It was so powerful, it reverberated in my
+stomach.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -65,7 +66,7 @@ Can you try shutting your eyes?");
         SEPlay("EV_SE_543");
         SEWait();
         MsgDisp("主人公","Wah!
-Huh... something smells nice. ");
+Huh... something smells nice.");
         EnvPlay("SE_ENV_BG_WF720_CO2",0.5);
         ScrFadeIn(0);
         ChEye(3,0);
@@ -73,7 +74,7 @@ Huh... something smells nice. ");
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040306502_03_050");
-        MsgDisp("Honda","...Yeah, it's a nice smell.
+        MsgDisp("Honda","... Yeah, it's a nice smell.
 This is lemongrass.");
         ChEyeOpenLevel(3,#1);
         MsgDisp("主人公","Lemongrass?");
@@ -85,8 +86,8 @@ This is lemongrass.");
 It's a herb with insect-repellent effects.
 My own specially mixed, original cocktail!");
         MsgDisp("主人公","Amazing! It has a nice smell, and
-mosquitoes won't go near it. ｛本多＊＊｝,
-thank you.");
+mosquitoes won't go near it.
+｛本多＊＊｝, thank you.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);

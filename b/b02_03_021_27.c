@@ -13,5 +13,5 @@ VoicePlay("B020302127_03_010");
 MsgDisp("Honda","Either way, your clothes are really
 soothing!");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like clothes like
-this, too.)");
+｛本多＊＊｝ seems to like
+clothes like this, too.)");

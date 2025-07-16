@@ -15,8 +15,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Hey hey.
 I can't find the magazines that were
 brought in earlier.");
-    MsgDisp("主人公","Ah, today's magazines are
-already out.");
+    MsgDisp("主人公","Ah, today's magazines are already out.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
@@ -92,7 +91,8 @@ I'll go get changed quickly!");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("I260300000_03_850");
-    MsgDisp("Honda","Da-...... We somehow got through the peak
+    MsgDisp("Honda","Da-......
+We somehow got through the peak
 hours......");
     MsgDisp("主人公","Good work.
 It's the first time I've seen you this
@@ -102,7 +102,7 @@ tired, ｛本多＊＊｝.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_860");
     MsgDisp("Honda","It was just that much of a disaster.
-......But, you seem just fine?");
+...... But, you seem just fine?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

@@ -20,8 +20,7 @@ ChMotion(5,4);
 VoicePlay("P640500004_05_020");
 MsgDisp("Hiiragi","I should be the one saying thank you.
 It's a shame I could only eat this today.");
-MsgDisp("主人公","Yes,
-since this is my last year.");
+MsgDisp("主人公","Yes, since this is my last year.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

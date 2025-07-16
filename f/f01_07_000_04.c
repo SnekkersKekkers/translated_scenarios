@@ -19,8 +19,9 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("F010700004_07_010");
-    MsgDisp("Mikage","Sorry. There's a staff meeting today. Ah,
-I really do want to go with you.");
+    MsgDisp("Mikage","Sorry.
+There's a staff meeting today.
+Ah, I really do want to go with you.");
     MsgDisp("主人公","That's fine, please do your best.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -34,10 +35,10 @@ I really do want to go with you.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("F010700004_07_020");
-    MsgDisp("Mikage","Thank you for inviting me, but...
-well, Vice Principal Himuro called me to
-talk.");
-    MsgDisp("主人公","｛御影＊＊｝... are you okay?");
+    MsgDisp("Mikage","Thank you for inviting me, but... well,
+Vice Principal Himuro called me to talk.");
+    MsgDisp("主人公","｛御影＊＊｝... are you
+okay?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -66,7 +67,8 @@ Be careful going home～");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(It can't be helped, I guess.
-But is ｛御影＊＊｝ going to be okay?)");
+But is ｛御影＊＊｝ going
+to be okay?)");
     break ;
     default :
     DbgAssert(1);

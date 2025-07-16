@@ -12,5 +12,5 @@ ChEyeOpenLevel(2,0);
 VoicePlay("B020200011_02_010");
 MsgDisp("Sassa","You wearing it makes me happy.
 I'm glad I gave it for you!");
-MsgDisp("主人公","(｛颯砂＊＊｝ seems really happy! I'm glad
-I wore it. ♪)");
+MsgDisp("主人公","(｛颯砂＊＊｝ seems really happy!
+I'm glad I wore it. ♪)");

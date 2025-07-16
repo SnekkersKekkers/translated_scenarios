@@ -4,8 +4,10 @@ BGMPlay("BGM_C21_MICHIRU_A",0.01);
 ChOpen(21,254,7,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("F122100000_21_000");
-MsgDisp("Michiru","Mari. Let's go home together.");
-MsgDisp("主人公","Ah, ｛みちる＊｝. Sure, let's go.");
+MsgDisp("Michiru","Mari.
+Let's go home together.");
+MsgDisp("主人公","Ah, ｛みちる＊｝.
+Sure, let's go.");
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
@@ -28,7 +30,8 @@ ChMotion(21,3);
 VoicePlay("F122100000_21_020");
 MsgDisp("Michiru","It's a big day for a girl in love.
 However...");
-MsgDisp("主人公","What are you doing, ｛みちる＊｝?");
+MsgDisp("主人公","What are you doing,
+｛みちる＊｝?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,5);

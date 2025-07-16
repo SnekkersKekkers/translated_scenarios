@@ -24,8 +24,7 @@ VoicePlay("B330C20600_06_000");
 MsgDisp("Himuro","A-Amazing...");
 SEStop("EV_SE_GAYA_021",3);
 VoicePlay("B330C20600_05_000");
-MsgDisp("Hiiragi","Yes, it was as impactful
-as being punched.");
+MsgDisp("Hiiragi","Yes, it was as impactful as being punched.");
 MsgClose();
 ScrFadeOut(0);
 Wait(60,0);
@@ -105,7 +104,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0,0,30);
 MsgDisp("主人公","Hehe, they're obsessed.
-What about you, ｛御影＊＊｝?");
+What about you,
+｛御影＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

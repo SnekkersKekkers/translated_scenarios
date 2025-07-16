@@ -15,8 +15,9 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_010");
-    MsgDisp("Kazama","Yeah. A friendly childhood rival... Is
-that too cliche?");
+    MsgDisp("Kazama","Yeah.
+A friendly childhood rival...
+Is that too cliche?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
@@ -35,8 +36,9 @@ I'm not gonna lose next time either!)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("N020100000_01_030");
-    MsgDisp("Kazama","Congratulations. However, I'm not feeling
-so good about myself.");
+    MsgDisp("Kazama","Congratulations.
+However, I'm not feeling so good about
+myself.");
     MsgDisp("主人公","Umm, was it just a lucky streak?");
     ChEye(1,0);
     ChMouth(1,2);
@@ -67,8 +69,10 @@ next time.");
     ChMotion(1,3);
     VoiceEVSPlay(1);
     VoicePlay("N020100000_01_060");
-    MsgDisp("Kazama","｛主人公｝. You did it, top rank.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Thank you!");
+    MsgDisp("Kazama","｛主人公｝.
+You did it, top rank.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Thank you!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

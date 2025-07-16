@@ -25,8 +25,9 @@ edition, let's go!");
     MsgDisp("Mikage","It's fine of course.
 I was also thinking of a extracurricular
 lesson Nagasaki edition.");
-    MsgDisp("主人公","Yay! I'm looking forward to the
-extracurricular lesson Nagasaki edition.");
+    MsgDisp("主人公","Yay!
+I'm looking forward to the extracurricular
+lesson Nagasaki edition.");
     break ;
     case 4:
     case 5:
@@ -37,8 +38,9 @@ extracurricular lesson Nagasaki edition.");
     MsgDisp("Mikage","Whoa, you're in the right place!
 I was also searching for participants of
 extracurricular lesson Nagasaki edition.");
-    MsgDisp("主人公","Ehm...... I was actually hoping to look
-around with ｛御影＊＊｝......");
+    MsgDisp("主人公","Ehm......
+I was actually hoping to look around with
+｛御影＊＊｝......");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

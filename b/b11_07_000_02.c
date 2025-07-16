@@ -1,11 +1,13 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","I still haven't seen ｛御影＊＊｝...");
+MsgDisp("主人公","I still haven't seen
+｛御影＊＊｝...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛御影＊＊｝ sure is late, huh....");
+MsgDisp("主人公","｛御影＊＊｝ sure is
+late, huh....");
 VoicePlay("B110700002_35_000");
 MsgDisp("?Boy","Hmm, too weak, too weak～
 I need to find a more energetic girl
@@ -13,8 +15,9 @@ okay～?");
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,2,0,#1,#1,0,0,0,30);
 VoicePlay("B110700002_35_010");
-MsgDisp("Guy","Ehhh? I found her! Full signal, all
-bars!∋");
+MsgDisp("Guy","Ehhh?
+I found her!
+Full signal, all bars!∋");
 MsgDisp("主人公","Eh∋
 All bars?");
 ChEye(35,0);
@@ -68,8 +71,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B110700002_07_020");
-MsgDisp("Mikage","Come on, there's a police 
-station here.");
+MsgDisp("Mikage","Come on, there's a police station here.");
 MsgDispSksp(0);
 SEPlay("EV_SE_581");
 MsgClose();

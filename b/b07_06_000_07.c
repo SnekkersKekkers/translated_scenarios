@@ -5,14 +5,13 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_350");
 MsgDisp("Himuro","Dream...");
-MsgDisp("主人公","Could it be that
-you don't have one?");
+MsgDisp("主人公","Could it be that you don't have one?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_360");
-MsgDisp("Himuro","I wouldn't say I don't have one...
-just that I don't now what it is yet.");
+MsgDisp("Himuro","I wouldn't say I don't have one... just
+that I don't now what it is yet.");
 MsgDisp("主人公","Do you want to be a pro surfer?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -27,7 +26,7 @@ ChMotion(6,0);
 VoicePlay("B070600000_06_380");
 MsgDisp("Himuro","I'm sure there are other things I'll want
 to do.
-...I don't know what they are though.");
+... I don't know what they are though.");
 MsgDisp("主人公","I see.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -58,8 +57,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600000_06_420");
 MsgDisp("Himuro","Thanks.");
-MsgDisp("主人公","(I hope ｛氷室＊＊｝ finds the thing he
-wants to do.)");
+MsgDisp("主人公","(I hope ｛氷室＊＊｝ finds the
+thing he wants to do.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

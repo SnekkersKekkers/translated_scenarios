@@ -64,9 +64,8 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B360302301_03_080");
 MsgDisp("Honda","Achoo!");
-MsgDisp("主人公","Hey come on now...
-you're really going to catch a cold at
-this rate.");
+MsgDisp("主人公","Hey come on now... you're really going to
+catch a cold at this rate.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);

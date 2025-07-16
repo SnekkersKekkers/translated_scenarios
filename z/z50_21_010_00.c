@@ -12,7 +12,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("Z502101000_21_010");
-MsgDisp("Michiru","Really. You're looking closely at trends.
+MsgDisp("Michiru","Really.
+You're looking closely at trends.
 Maybe you've been checking my column?");
 MsgDisp("主人公","Trends......
 You mean, this?");
@@ -28,4 +29,5 @@ ChMotion(21,3);
 VoicePlay("Z502101000_21_030");
 MsgDisp("Michiru","Keep checking the column and raising your
 fashion level, okay?");
-MsgDisp("主人公","(Yay! ｛みちる＊｝ praised me!)");
+MsgDisp("主人公","(Yay!
+｛みちる＊｝ praised me!)");

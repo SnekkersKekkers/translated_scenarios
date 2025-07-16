@@ -31,8 +31,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A10700_06_000");
-MsgDisp("Himuro","Heeh.... That's an anecdote unique to the
-Kazama family.");
+MsgDisp("Himuro","Heeh....
+That's an anecdote unique to the Kazama
+family.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -47,8 +48,9 @@ VoicePlay("B330A10700_01_020");
 MsgDisp("Kazama","No, I got scolded badly.
 I was about 3 years old but, I vaguely
 remember being yelled at.");
-MsgDisp("主人公","Hehe! So you had a good discerning eye
-since you were little?");
+MsgDisp("主人公","Hehe!
+So you had a good discerning eye since you
+were little?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -66,8 +68,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A10700_02_010");
-MsgDisp("Sassa","Yeah. I even thought it was a joke at
-first.");
+MsgDisp("Sassa","Yeah.
+I even thought it was a joke at first.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -92,7 +94,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10700_01_050");
 MsgDisp("Kazama","If you thought that, you should have said
-so earlier. ...Geez.");
+so earlier.
+... Geez.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -112,11 +115,12 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10700_01_060");
-MsgDisp("Kazama","......ＯＫ. Ask me for some funny stories
-in preparation.");
+MsgDisp("Kazama","...... ＯＫ.
+Ask me for some funny stories in
+preparation.");
 MsgDisp("主人公","(If the four of us come to the castle
-again, I'll be happy to hear ｛風真＊＊｝
-'s commentary.)");
+again, I'll be happy to hear
+｛風真＊＊｝ 's commentary.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -15,13 +15,16 @@ ChMotion(4,0,1);
 VoicePlay("P640400000_04_010");
 MsgDisp("Nanatsumori","Delicious.
 Soothing...");
-MsgDisp("主人公","I'm glad.
-To suit ｛七ツ森＊｝'s tastes more, I
-added a little bit of honey.");
+MsgDisp("主人公","I'm glad. To suit
+｛七ツ森＊｝'s tastes more,
+I added a little bit of honey.");
 VoicePlay("P640400000_04_020");
-MsgDisp("Nanatsumori","Actually? The slight sweetness is
-seriously good. You did a good job, huh?");
-MsgDisp("主人公","(Yay! I was praised by ｛七ツ森＊｝! )");
+MsgDisp("Nanatsumori","Actually?
+The slight sweetness is seriously good.
+You did a good job, huh?");
+MsgDisp("主人公","(Yay!
+I was praised by
+｛七ツ森＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

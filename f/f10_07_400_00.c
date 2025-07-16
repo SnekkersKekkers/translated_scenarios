@@ -6,8 +6,8 @@ My class duties took a while.)");
 VoicePlay("F100740000_07_000");
 MsgDisp("Mikage","I'm very sorry.
 From now on, I'll be more careful...");
-MsgDisp("主人公","(Eh, that voice just
-now...｛御影＊＊｝?)");
+MsgDisp("主人公","(Eh, that voice just now...
+｛御影＊＊｝? )");
 VoicePlay("F100740000_32_000");
 MsgDisp("VP Himuro","Mikage-sensei, you underestimate yourself.");
 VoicePlay("F100740000_07_010");

@@ -14,8 +14,9 @@ switch (ChPrmGet(4,6)){
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Phew... I wonder if all the performer's
-makeup are done now?");
+    MsgDisp("主人公","Phew...
+I wonder if all the performer's makeup are
+done now?");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("P230400001_04_000");
@@ -40,7 +41,8 @@ shortly.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P230400001_04_020");
-    MsgDisp("Nanatsumori","Well. Our work continues until the curtain
+    MsgDisp("Nanatsumori","Well.
+Our work continues until the curtain
 falls.");
     MsgDisp("主人公","Yeah, let's give it our all!");
     break ;

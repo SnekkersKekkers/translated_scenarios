@@ -24,8 +24,8 @@ StlEyeOpenLevel(5,5);
 VoicePlay("D010500400_05_000");
 MsgDisp("Hiiragi","It would be better if one of you does it
 rather than me.");
-MsgDisp("主人公","(｛柊＊＊＊｝...... He turned down the
-lead role offer......)");
+MsgDisp("主人公","(｛柊＊＊＊｝......
+He turned down the lead role offer......)");
 VoicePlay("D010500400_41_020");
 MsgDisp("Male Student B","Why though∋
 Everyone wants to see your professional
@@ -39,9 +39,10 @@ MsgDisp("Male Student A","I can do that!");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500400_05_020");
 MsgDisp("Hiiragi","......That is not possible.");
-MsgDisp("主人公","｛柊＊＊＊｝, everyone is looking forward
-to it. Me too, I want to see the
-performance with ｛柊＊＊＊｝.");
+MsgDisp("主人公","｛柊＊＊＊｝, everyone is
+looking forward to it. Me too, I want to
+see the performance with
+｛柊＊＊＊｝.");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -52,8 +53,8 @@ ChOpen(5,254,2,2,2,9,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D010500400_05_030");
-MsgDisp("Hiiragi","｛主人公｝...... Everyone is looking
-forward to it......");
+MsgDisp("Hiiragi","｛主人公｝......
+Everyone is looking forward to it......");
 VoicePlay("D010500400_42_040");
 MsgDisp("Male Student A","That's right.
 Everyone wants to see it.");
@@ -83,7 +84,8 @@ SEStop("EV_SE_724",1);
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500400_05_050");
-MsgDisp("Hiiragi","......Phew. I am done with the backdrop.
+MsgDisp("Hiiragi","...... Phew.
+I am done with the backdrop.
 Now I can do it without fear.");
 MsgDisp("主人公","......Eh?");
 BGMStop(2);
@@ -114,7 +116,8 @@ VoicePlay("D010500400_44_020");
 MsgDisp("School Girl","Awesome! We'll get to see a real Theater
 Company performance at our school! That's
 amazing!");
-MsgDisp("主人公","Yeah......! ｛柊＊＊＊｝, thank you!");
+MsgDisp("主人公","Yeah......!
+｛柊＊＊＊｝, thank you!");
 SEStop("EV_SE_GAYA_025",1.5);
 MsgClose();
 ScrFadeOut(0,0);
@@ -126,14 +129,16 @@ MsgClose();
 BGOpen("sc300",1);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, shall we pack up for today?");
+MsgDisp("主人公","｛柊＊＊＊｝, shall we pack up
+for today?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("D010500400_05_070");
-MsgDisp("Hiiragi","Yeah. There is no point in continuing
-alone, right?");
+MsgDisp("Hiiragi","Yeah.
+There is no point in continuing alone,
+right?");
 MsgDisp("主人公","Yup.
 Everyone was really happy, though.");
 ChEye(5,4);
@@ -141,8 +146,9 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500400_05_080");
-MsgDisp("Hiiragi","Yes. Everyone being excited and happy
-about it......it makes me glad.");
+MsgDisp("Hiiragi","Yes.
+Everyone being excited and happy about
+it...... it makes me glad.");
 MsgDisp("主人公","Yeah.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -164,7 +170,7 @@ ScrFadeOut(0,0);
 SEWait();
 MsgDisp("主人公","Eh......?");
 VoicePlay("D010500400_05_100");
-MsgDisp("Hiiragi","......Sorry.
+MsgDisp("Hiiragi","...... Sorry.
 I've been making you worry.");
 MsgDisp("主人公","｛柊＊＊＊｝......");
 ChLayout(1);
@@ -177,8 +183,9 @@ ScrFadeIn(0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500400_05_110");
-MsgDisp("Hiiragi","Haa......Thanks to you, I remembered what
-I had forgotten.");
+MsgDisp("Hiiragi","Haa......
+Thanks to you, I remembered what I had
+forgotten.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -192,8 +199,8 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D010500400_05_130");
 MsgDisp("Hiiragi","......It was a late realization, but it is
 better than not realizing at all.");
-MsgDisp("主人公","(｛柊＊＊＊｝...... Yeah, let's do our
-best together.)");
+MsgDisp("主人公","(｛柊＊＊＊｝......
+Yeah, let's do our best together.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

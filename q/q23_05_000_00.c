@@ -10,6 +10,6 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoiceEVSPlay(5);
 VoicePlay("Q230500000_05_000");
-MsgDisp("Hiiragi","｛主人公｝. So you unfortunately
-came......");
+MsgDisp("Hiiragi","｛主人公｝.
+So you unfortunately came......");
 ChEyeOpenLevel(5,9);

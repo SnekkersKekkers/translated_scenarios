@@ -47,16 +47,16 @@ It's a bit worrying.");
         ChMotion(5,4);
         VoicePlay("B040517002_05_040");
         MsgDisp("Hiiragi","Yes, I don't mind.
-That means we...
-are this \"lovey-dovey couple\", yes?");
+That means we... are this \"lovey-dovey
+couple\", yes?");
         MsgDisp("主人公","Lovey-dovey couple?");
         ChEye(5,4);
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040517002_05_050");
         MsgDisp("Hiiragi","Yes, I have no objections.");
-        MsgDisp("主人公","Umm ｛柊＊＊＊｝, it's a \"Lovey Dovey Menu
-for Couples Only\"?");
+        MsgDisp("主人公","Umm ｛柊＊＊＊｝, it's a \"Lovey
+Dovey Menu for Couples Only\"?");
         ChEye(5,3);
         ChMouth(5,0);
         ChMotion(5,5);
@@ -69,8 +69,8 @@ for Couples Only\"?");
         VoicePlay("B040517002_05_070");
         MsgDisp("Hiiragi","Even if it's only for lovey-dovey couples,
 I don't mind at all.");
-        MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ has a surprisingly
-stubborn side...)");
+        MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ has a
+surprisingly stubborn side...)");
         break ;
         default :
         DbgAssert(1);
@@ -82,8 +82,7 @@ stubborn side...)");
     ChEye(5,2);
     ChMotion(5,4);
     VoicePlay("B040517002_05_080");
-    MsgDisp("Hiiragi","I wonder why it's mixed in...
-the natto.");
+    MsgDisp("Hiiragi","I wonder why it's mixed in... the natto.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

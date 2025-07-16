@@ -1,7 +1,8 @@
 BGOpen("sc132",1);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh......It's snowing, huh?
+MsgDisp("主人公","(Huh......
+It's snowing, huh?
 I need to watch my step on the way home.)");
 VoicePlay("D010600400_06_000");
 MsgDisp("Himuro?","You're slow.
@@ -9,7 +10,8 @@ How long were you going to make me wait?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Eh, ｛氷室＊＊｝? What's up?");
+MsgDisp("主人公","Eh, ｛氷室＊＊｝?
+What's up?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -21,8 +23,7 @@ Time for payback!");
 SEPlay("EV_SE_632");
 SEWait();
 VoicePlay("D010600400_41_010");
-MsgDisp("Male Student B","Haha, no shot-wait
-Look out!");
+MsgDisp("Male Student B","Haha, no shot-wait Look out!");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝ ∈");
 ChEye(6,0);
 ChMouth(6,0);
@@ -43,22 +44,22 @@ StlMouth(6,1);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
 VoicePlay("D010600400_06_020");
-MsgDisp("Himuro","......Who was it?
+MsgDisp("Himuro","...... Who was it?
 Do you have something against me?");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("D010600400_06_030");
 MsgDisp("Himuro","But it's pointless.
 It won't work against me......");
-MsgDisp("主人公","(Woah...... ｛氷室＊＊｝ caught the
-snowball!)");
+MsgDisp("主人公","(Woah......
+｛氷室＊＊｝ caught the snowball!)");
 VoicePlay("D010600400_40_020");
 MsgDisp("Male Student A","My bad, Himuro!
 My hand slipped!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600400_06_040");
-MsgDisp("Himuro","......Hmph.
+MsgDisp("Himuro","...... Hmph.
 This is nothing.");
 VoicePlay("D010600400_41_030");
 MsgDisp("Male Student B","I guess that's exactly what you'd expect
@@ -120,7 +121,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D010600400_06_100");
-MsgDisp("Himuro","......Ah, I see.
+MsgDisp("Himuro","...... Ah, I see.
 That's fine then.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -130,8 +131,8 @@ MsgDisp("Himuro","Anyway, let's go home quickly.
 I've been waiting for a while and it's
 cold.");
 MsgDisp("主人公","Ah, sorry!
-......Wait, when did we make plans to walk
-home together?");
+...... Wait, when did we make plans to
+walk home together?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);

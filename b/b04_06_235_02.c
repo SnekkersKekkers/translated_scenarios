@@ -5,8 +5,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623502_06_000");
-MsgDisp("Himuro","Isn't it more shocking
-than scary?");
+MsgDisp("Himuro","Isn't it more shocking than scary?");
 MsgSel("Either way it's still scary!","Actually, that's what's addictive","Let's enjoy it more honestly");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +26,9 @@ Isn't that a win?");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040623502_06_020");
-    MsgDisp("Himuro","Really? Aren't you starting to realize the
-pattern by now?");
+    MsgDisp("Himuro","Really?
+Aren't you starting to realize the pattern
+by now?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -54,9 +54,10 @@ pattern by now?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623502_06_040");
-        MsgDisp("Himuro","...Sorry.
+        MsgDisp("Himuro","... Sorry.
 That's a bad habit of mine.");
-        MsgDisp("主人公","No. It's not like that.");
+        MsgDisp("主人公","No.
+It's not like that.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,0);

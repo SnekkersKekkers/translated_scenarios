@@ -1,9 +1,8 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ugh......I feel a bit tired?
-I guess I'll get some fresh air on the
-rooftop.)");
+MsgDisp("主人公","(Ugh......I feel a bit tired? I guess I'll
+get some fresh air on the rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -17,8 +16,8 @@ SEPlay("EV_SE_DOOR_011",0,1);
 Wait(80,0);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","(Ugh...... I guess I'm a bit burnt
-out......)");
+MsgDisp("主人公","(Ugh......
+I guess I'm a bit burnt out......)");
 VoicePlay("D010400700_04_000");
 MsgDisp("Nanatsumori?","Come here.");
 MsgDisp("主人公","......Eh?");
@@ -27,7 +26,8 @@ SEWait();
 MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Ah......｛七ツ森＊｝.");
+MsgDisp("主人公","Ah......
+｛七ツ森＊｝.");
 VoicePlay("D010400700_04_010");
 MsgDisp("Nanatsumori","Your face is really pale.");
 MsgClose();
@@ -53,7 +53,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","∈");
 VoicePlay("D010400700_04_030");
 MsgDisp("Nanatsumori","You don't have a fever......");
-MsgDisp("主人公","｛七ツ森＊｝, there are people here——");
+MsgDisp("主人公","｛七ツ森＊｝, there are
+people here——");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400700_04_040");
@@ -64,7 +65,7 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("D010400700_04_050");
-MsgDisp("Nanatsumori","......Idiot.
+MsgDisp("Nanatsumori","...... Idiot.
 You're doing too much.");
 StlEye(4,0);
 StlMouth(4,0);
@@ -72,7 +73,8 @@ VoicePlay("D010400700_04_060");
 MsgDisp("Nanatsumori","I know I'm a hypocrite for saying this but
 when you feel tired, you should rest
 properly.");
-MsgDisp("主人公","Y......Yeah.");
+MsgDisp("主人公","Y......
+Yeah.");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
@@ -120,7 +122,8 @@ BGMStop();
 ChClose(4,0,30);
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","Ahh～! ｛七ツ森＊｝ ～∋");
+MsgDisp("主人公","Ahh～!
+｛七ツ森＊｝ ～∋");
 SEWait();
 MsgClose();
 PlPrmTblAdd(70);

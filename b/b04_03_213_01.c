@@ -29,7 +29,8 @@ with perfectly floppy ears?");
     ChMotion(3,1);
     VoicePlay("B040321301_03_020");
     MsgDisp("Honda","Yep yep, that kitten with floppy ears.
-Huh? It looks a bit like you?");
+Huh?
+It looks a bit like you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

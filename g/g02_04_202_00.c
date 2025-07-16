@@ -4,8 +4,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoiceEVSPlay(4);
 VoicePlay("G020420200_04_000");
-MsgDisp("Nanatsumori","｛主人公｝. I need you to listen to
-this truth.");
+MsgDisp("Nanatsumori","｛主人公｝.
+I need you to listen to this truth.");
 MsgDisp("主人公","What?");
 ChMotion(4,1,1);
 VoicePlay("G020420200_04_010");
@@ -21,7 +21,8 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("G020420200_04_030");
 MsgDisp("Nanatsumori","I won't be satisfied until I have an
-answer. I'm losing... my groove.");
+answer.
+I'm losing... my groove.");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("G020420200_04_040");

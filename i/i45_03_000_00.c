@@ -80,7 +80,7 @@ symbol of \"things that don't exist\"-");
     MsgDisp("Honda","But, in recent years, genetic
 modifications and technology teamed up
 and......! The blue rose was born.");
-    MsgDisp("主人公","......Ah, sorry.
+    MsgDisp("主人公","...... Ah, sorry.
 A customer's here.");
     ChEye(3,2);
     ChMouth(3,4);
@@ -90,8 +90,9 @@ A customer's here.");
 I'll get going, okay?
 See you.");
     MsgDisp("主人公","(He came to check on me, right? But you
-know, I feel like ｛本多＊＊｝ might know
-more about flowers than me......)");
+know, I feel like ｛本多＊＊｝
+might know more about flowers than
+me......)");
     break ;
     case 4:
     case 5:
@@ -101,14 +102,16 @@ more about flowers than me......)");
     VoicePlay("I450300000_03_110");
     MsgDisp("Honda","You're working hard.
 Already got the hang of it?");
-    MsgDisp("主人公","Perfectly! Is what I want to say, but
-there's so much to remember......");
+    MsgDisp("主人公","Perfectly!
+Is what I want to say, but there's so much
+to remember......");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I450300000_03_120");
-    MsgDisp("Honda","Really? You seem pretty good at helping
-customers from what I've seen, though?");
+    MsgDisp("Honda","Really?
+You seem pretty good at helping customers
+from what I've seen, though?");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,1,1);

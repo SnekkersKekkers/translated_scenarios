@@ -8,8 +8,8 @@ MsgDisp("主人公","(Huh, it's a message from
 MsgDisp("主人公","(It says...... \"I'm going to go visit my
 parents. I'll be back in time for
 graduation\"......)");
-MsgDisp("主人公","(Ehh∋ But his parents are in
-England......)");
+MsgDisp("主人公","(Ehh∋
+But his parents are in England......)");
 MsgDisp("主人公","(｛風真＊＊｝......)");
 MsgClose();
 ScrFadeOut(0,0);

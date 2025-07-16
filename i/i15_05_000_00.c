@@ -6,7 +6,8 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Welcome. Ah, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Welcome.
+Ah, ｛柊＊＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -14,7 +15,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I150500000_05_000");
     MsgDisp("Hiiragi","So you were working today.");
-    MsgDisp("主人公","Yes. Are you shopping, ｛柊＊＊＊｝?");
+    MsgDisp("主人公","Yes.
+Are you shopping, ｛柊＊＊＊｝?");
     ChMouth(5,4);
     VoicePlay("I150500000_05_010");
     MsgDisp("Hiiragi","Yes, our troupe is quite large, so there
@@ -48,7 +50,7 @@ Simon......");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ looks busy.
-......But it looks like he likes
+...... But it looks like he likes
 shopping?)");
     break ;
     case 3:
@@ -57,17 +59,19 @@ shopping?)");
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,255,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Welcome!");
     VoicePlay("I150500000_05_060");
     MsgDisp("Hiiragi","Good day.
 You are working hard at your part-time
 job.");
-    MsgDisp("主人公","Yes. Are you looking for something,
+    MsgDisp("主人公","Yes.
+Are you looking for something,
 ｛柊＊＊＊｝?");
     ChEye(5,4);
     VoicePlay("I150500000_05_070");
-    MsgDisp("Hiiragi","No. I'm having fun simply watching this
-shop.");
+    MsgDisp("Hiiragi","No.
+I'm having fun simply watching this shop.");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -75,13 +79,11 @@ shop.");
     VoicePlay("I150500000_05_080");
     MsgDisp("Hiiragi","Ah, but this may put a damper on the mood
 of the store.");
-    MsgDisp("主人公","Not at all, take your time
-looking around.");
+    MsgDisp("主人公","Not at all, take your time looking around.");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("I150500000_05_090");
-    MsgDisp("Hiiragi","Yes,
-thank you very much.");
+    MsgDisp("Hiiragi","Yes, thank you very much.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -90,7 +92,8 @@ thank you very much.");
     MsgDisp("Hiiragi","Aroma diffuser?
 I see, so you add fragrant oils in.
 What a wonderful item......");
-    MsgDisp("主人公","(Hehe. ｛柊＊＊＊｝ really likes
+    MsgDisp("主人公","(Hehe.
+｛柊＊＊＊｝ really likes
 shopping.)");
     break ;
     case 4:

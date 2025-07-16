@@ -33,8 +33,7 @@ ChMotion(7,2);
 VoicePlay("G020710200_07_040");
 MsgDisp("Mikage","Maybe there's someone like Vice Principal
 Himuro with a baton conducting them?");
-MsgDisp("主人公","Hehe,
-it's like a wind ensemble, how cute.");
+MsgDisp("主人公","Hehe, it's like a wind ensemble, how cute.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -48,8 +47,8 @@ VoicePlay("G020710200_07_060");
 MsgDisp("Mikage","Oh damn...... Hey, let's, um, maybe it's
 time to head back. Come on, I'll walk you.");
 MsgDisp("主人公","Ah, okay.");
-MsgDisp("主人公","(Why is ｛御影＊＊｝ suddenly in a
-rush?)");
+MsgDisp("主人公","(Why is ｛御影＊＊｝
+suddenly in a rush?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

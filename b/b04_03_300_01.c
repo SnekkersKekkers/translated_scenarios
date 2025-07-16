@@ -8,8 +8,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B040330001_03_000");
-MsgDisp("Honda","Are there any books
-you're interested in?");
+MsgDisp("Honda","Are there any books you're interested in?");
 MsgSel("There's lots of books I don't know","It looks like there should be a hidden door?","Have you read all of these?");
 switch (MsgSelRsltGet()){
     case 0:

@@ -18,15 +18,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600003_06_010");
-MsgDisp("Himuro","About what my relative is doing in
-there.");
+MsgDisp("Himuro","About what my relative is doing in there.");
 MsgDisp("主人公","By relative, do you mean Vice Principal
 Himuro?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600003_06_020");
-MsgDisp("Himuro","Yes. There are all sorts of guesses, from
+MsgDisp("Himuro","Yes.
+There are all sorts of guesses, from
 secret experiments to black magic rituals.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -56,5 +56,6 @@ VoicePlay("F020600003_06_060");
 MsgDisp("Himuro","So he might believe in the legend of the
 prince and the princess or something.");
 MsgDisp("主人公","Eh∋");
-MsgDisp("主人公","(...We had fun talking about stuff like
-that on our way home.)");
+MsgDisp("主人公","(...
+We had fun talking about stuff like that
+on our way home.)");

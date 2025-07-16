@@ -29,8 +29,7 @@ MsgClose();
 SEPlay("EV_SE_DOOR_014");
 BGOpen("ar100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'll organize my notes over some
-tea.)");
+MsgDisp("主人公","(I'll organize my notes over some tea.)");
 VoicePlay("G110400301_04_000");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori?","Oh, ｛主人公｝.");
@@ -43,8 +42,8 @@ BGOpen("ev004",0);
 ChNanaType(1);
 ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝! Are you working right
-now?");
+MsgDisp("主人公","｛七ツ森＊｝!
+Are you working right now?");
 VoicePlay("G110400301_04_010");
 MsgDisp("Nanatsumori","Yeah, I'm almost done for the day.
 I just wanted a bite to eat.");
@@ -56,10 +55,11 @@ VoicePlay("G110400301_04_020");
 MsgDisp("Nanatsumori","Do you want me to leave?");
 MsgDisp("主人公","Huh?");
 VoicePlay("G110400301_04_030");
-MsgDisp("Nanatsumori","Ms. Habatcher's newest reporter. Nana is
-now available.");
-MsgDisp("主人公","Hehe! Are you letting me do an interview
-then?");
+MsgDisp("Nanatsumori","Ms.
+Habatcher's newest reporter.
+Nana is now available.");
+MsgDisp("主人公","Hehe!
+Are you letting me do an interview then?");
 ChMotion(4,2);
 VoicePlay("G110400301_04_040");
 MsgDisp("Nanatsumori","Let me think.
@@ -70,8 +70,7 @@ overjoyed!");
 ChEye(4,1);
 ChMouth(4,1);
 VoicePlay("G110400301_04_050");
-MsgDisp("Nanatsumori","Don't...
-don't take it so seriously.
+MsgDisp("Nanatsumori","Don't... don't take it so seriously.
 It was a joke.");
 MsgDisp("主人公","(He was groaning with his eyes...)");
 while (1){
@@ -87,15 +86,13 @@ or if I'm good at acting...");
 VoicePlay("G110400301_04_060");
 ChMouth(4,2);
 ChCheek(4,5);
-MsgDisp("Nanatsumori","I haven't eaten enough to do a 
-review...");
+MsgDisp("Nanatsumori","I haven't eaten enough to do a review...");
 MsgDisp("主人公","Hehe, was that just a joke then too?");
 VoicePlay("G110400301_04_080");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0);
-MsgDisp("Nanatsumori","Oof...
-touche.");
+MsgDisp("Nanatsumori","Oof... touche.");
 MsgDisp("主人公","(Hehe! It would be interesting to write an
 article about this conversation with
 ｛七ツ森＊｝! )");

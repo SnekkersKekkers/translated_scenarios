@@ -27,7 +27,7 @@ MsgDisp("Kazama","I'm looking for the owner of this glass
 slipper.");
 VoicePlay("P240100000_46_000");
 MsgDisp("Stepsister A","Prince, I am the owner of those slippers.
-...Ah, it won't fit.");
+... Ah, it won't fit.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -37,7 +37,7 @@ MsgDisp("Kazama","...It doesn't seem to fit.");
 ChEye(1,0);
 VoicePlay("P240100000_48_000");
 MsgDisp("Stepsister B","Dear sister, it is my turn next.
-...It's in.");
+... It's in.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -60,8 +60,7 @@ ChMotion(1,0);
 VoicePlay("P240100000_01_040");
 MsgDisp("Kazama","You...");
 VoicePlay("P240100000_46_010");
-MsgDisp("Stepsister A","Hohoho, 
-they won't fit your feet, right? ");
+MsgDisp("Stepsister A","Hohoho, they won't fit your feet, right?");
 ChEye(1,4);
 VoicePlay("P240100000_48_010");
 MsgDisp("Stepsister B","Stand back, Cinderella!");
@@ -70,7 +69,7 @@ ChMouth(1,4);
 ChMotion(1,0,1);
 VoicePlay("P240100000_01_050");
 MsgDisp("Kazama","Cinderella...
-...Please step forward.");
+... Please step forward.");
 MsgDisp("主人公","Y-Yes, Prince.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -84,8 +83,9 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 Wait(30,0);
-MsgDisp("主人公","(Wow... ｛風真＊＊｝ really looks like a
-prince, huh?)");
+MsgDisp("主人公","(Wow...
+｛風真＊＊｝ really looks like
+a prince, huh?)");
 StlEye(1,0,0);
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,1);
@@ -93,7 +93,8 @@ StlMouthOpenLevel(1,0);
 VoicePlay("P240100000_01_060");
 MsgDisp("Kazama","...?");
 MsgDisp("主人公","(Ah, no good...
-｛風真＊＊｝, that's the wrong foot.)");
+｛風真＊＊｝, that's the wrong
+foot.)");
 StlEye(1,1);
 StlMouthOpenLevel(1,#1);
 StlCheek(1,7);
@@ -165,8 +166,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, that was the wrong foot
-right?
+MsgDisp("主人公","｛風真＊＊｝, that was the wrong
+foot right?
 I was surprised!");
 ChEye(1,2);
 ChMouth(1,3);
@@ -186,8 +187,8 @@ Well, I'll be waiting for your reply.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(Reply...? Eh...could it be, about
-marriage∋)");
+MsgDisp("主人公","(Reply...?
+Eh... could it be, about marriage∋)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

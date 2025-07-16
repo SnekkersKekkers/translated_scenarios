@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ChOpen(3,254,0,4,0,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝...... Why are you here?");
+MsgDisp("主人公","｛本多＊＊｝......
+Why are you here?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -56,13 +57,15 @@ ChMotion(3,4,1);
 VoicePlay("T020320000_03_070");
 MsgDisp("Honda","If it weren't for Ryou-kun and Mii-kun I
 might not have noticed even now.");
-MsgDisp("主人公","｛風真＊＊｝ and ｛七ツ森＊｝?");
+MsgDisp("主人公","｛風真＊＊｝ and
+｛七ツ森＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020320000_03_080");
-MsgDisp("Honda","Yes. I often talked about you with them,
-and the four of us hung out together.");
+MsgDisp("Honda","Yes.
+I often talked about you with them, and
+the four of us hung out together.");
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_090");
@@ -84,8 +87,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_110");
-MsgDisp("Honda","Yeah. You, my family, my friends... the
-things I love most are people.");
+MsgDisp("Honda","Yeah.
+You, my family, my friends... the things I
+love most are people.");
 ChEye(3,2);
 ChMotion(3,2,1);
 VoicePlay("T020320000_03_120");
@@ -117,5 +121,6 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(3,254,1,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020320000_03_150");
-MsgDisp("Honda","Please. My beloved, I want you to be by my
-side. Stay by my side forever and ever.");
+MsgDisp("Honda","Please.
+My beloved, I want you to be by my side.
+Stay by my side forever and ever.");

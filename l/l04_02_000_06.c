@@ -13,8 +13,7 @@ myself......");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200006_02_010");
-    MsgDisp("Sassa","Yeah, I can see that
-they're handmade.");
+    MsgDisp("Sassa","Yeah, I can see that they're handmade.");
     MsgDisp("主人公","Um......
 Don't worry, they're edible.");
     ChEye(2,0);
@@ -50,16 +49,18 @@ better chocolate......)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("L040200006_02_050");
-    MsgDisp("Sassa","Don't apologize. I'm happy that they're
-handmade. Thanks.");
+    MsgDisp("Sassa","Don't apologize.
+I'm happy that they're handmade.
+Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ha...... Maybe I should've given him a
-better chocolate......)");
+    MsgDisp("主人公","(Ha......
+Maybe I should've given him a better
+chocolate......)");
     break ;
     case 4:
     case 5:
@@ -68,8 +69,8 @@ better chocolate......)");
     ChMotion(2,0);
     VoicePlay("L040200006_02_060");
     MsgDisp("Sassa","This...... is handmade, right?");
-    MsgDisp("主人公","Yeah...... Sorry that they're not that
-good.");
+    MsgDisp("主人公","Yeah......
+Sorry that they're not that good.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -84,7 +85,8 @@ know?");
     ChMotion(2,3);
     VoicePlay("L040200006_02_080");
     MsgDisp("Sassa","In any case, I'm happy that you spent your
-time on me. Thanks.");
+time on me.
+Thanks.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -111,8 +113,9 @@ but chocolate in it, right?");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ha...... Maybe I should've given him a
-better chocolate......)");
+    MsgDisp("主人公","(Ha......
+Maybe I should've given him a better
+chocolate......)");
     break ;
     default :
     DbgAssert(1);

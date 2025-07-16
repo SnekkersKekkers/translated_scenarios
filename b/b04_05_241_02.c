@@ -33,8 +33,9 @@ Why not have it in ice cream?");
         VoicePlay("B040524102_05_020");
         MsgDisp("Hiiragi","I personally do not like warm milk, so
 you'll be the one drinking it.");
-        MsgDisp("主人公","Ehh? It's troubling to be in charge of
-that. Then, shall we do something else?");
+        MsgDisp("主人公","Ehh?
+It's troubling to be in charge of that.
+Then, shall we do something else?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040524102_05_030");
@@ -42,13 +43,11 @@ that. Then, shall we do something else?");
         MsgDisp("主人公","It'll definitely be interesting...");
         ChEye(5,3);
         VoicePlay("B040524102_05_040");
-        MsgDisp("Hiiragi","Yes, 
-rhythm will be somewhat important.");
+        MsgDisp("Hiiragi","Yes, rhythm will be somewhat important.");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040524102_05_050");
-        MsgDisp("Hiiragi","Like, \"One, two, 
-squeezeーー\" I suppose?");
+        MsgDisp("Hiiragi","Like, \"One, two, squeezeーー\" I suppose?");
         MsgClose();
         ScrFadeOut(0,0);
         MsgDisp("","　　　　　　　　　　 ・
@@ -88,11 +87,11 @@ and delicious experience.");
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040524102_05_100");
-        MsgDisp("Hiiragi","You should try everything once.
-we're the only ones who did it twice
-right?");
-        MsgDisp("主人公","Yeah. Thanks to that, we might have gotten
-a bit better at milking.");
+        MsgDisp("Hiiragi","You should try everything once. we're the
+only ones who did it twice right?");
+        MsgDisp("主人公","Yeah.
+Thanks to that, we might have gotten a bit
+better at milking.");
         ChEye(5,0);
         ChMouth(5,4);
         VoicePlay("B040524102_05_110");
@@ -102,8 +101,9 @@ he would be surprised...");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040524102_05_120");
-        MsgDisp("Hiiragi","...Hm? Actually, I won't tell him after
-all. It would be a shame to tell others.");
+        MsgDisp("Hiiragi","... Hm?
+Actually, I won't tell him after all.
+It would be a shame to tell others.");
         MsgDisp("主人公","Hehe, that's right.");
         ChEye(5,4);
         ChMouth(5,4);
@@ -117,7 +117,8 @@ I understood that well today.");
         MsgDisp("Hiiragi","And you change me so easily.
 You're fun, you're lovely, and a bit of a
 scary person.");
-        MsgDisp("主人公","Ehh? Scary?");
+        MsgDisp("主人公","Ehh?
+Scary?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,2,1);
     VoicePlay("B060700013_07_010");
-    MsgDisp("Mikage","Alright, then that's settled.
-let's make a quick detour.");
+    MsgDisp("Mikage","Alright, then that's settled. let's make a
+quick detour.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);
@@ -28,8 +28,7 @@ let's make a quick detour.");
     ChMouth(7,0);
     ChMotion(7,3,1);
     VoicePlay("B060700013_07_020");
-    MsgDisp("Mikage","Oh, I see.
-be careful on your way home.");
+    MsgDisp("Mikage","Oh, I see. be careful on your way home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     MsgDisp("主人公","Hmmm, I wonder if I shouldn't have turned

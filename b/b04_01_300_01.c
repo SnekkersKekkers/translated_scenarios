@@ -34,8 +34,7 @@ Do you want some black tea?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040130001_01_020");
-    MsgDisp("Kazama","If you say that, 
-I'll be troubled too.");
+    MsgDisp("Kazama","If you say that, I'll be troubled too.");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -51,8 +51,7 @@ three years in will remain with you
 forever. If you close your eyes, you can
 always return.");
 VoicePlay("T010000000_32_060");
-MsgDisp("VP Himuro","Come on everyone, soar into the new 
-sky!");
+MsgDisp("VP Himuro","Come on everyone, soar into the new sky!");
 SEPlay("EV_SE_CLAP_002",0,0.9);
 SEPlay("EV_SE_CLAP_004",0,0.4);
 SEPlay("EV_SE_GAYA_021",0,0.6);

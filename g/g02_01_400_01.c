@@ -43,8 +43,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020140001_01_050");
-MsgDisp("Kazama","Yeah. And I want a lot of them, from the
-idiotic to the wonderful.");
+MsgDisp("Kazama","Yeah.
+And I want a lot of them, from the idiotic
+to the wonderful.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -61,8 +62,8 @@ ChEye(1,4);
 ChMouth(1,3);
 VoiceEVSPlay(1);
 VoicePlay("G020140001_01_070");
-MsgDisp("Kazama","So, ｛主人公｝, I'm counting on you for
-the wonderful ones.");
+MsgDisp("Kazama","So, ｛主人公｝, I'm
+counting on you for the wonderful ones.");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,3);

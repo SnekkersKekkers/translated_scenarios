@@ -7,14 +7,13 @@ ChMouthOpenLevel(4,0);
 ScrFadeIn(0);
 VoicePlay("P640400003_04_000");
 MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","｛七ツ森＊｝, would you like another
-serving of herb tea?");
+MsgDisp("主人公","｛七ツ森＊｝, would you
+like another serving of herb tea?");
 ChMouthOpenLevel(4,#1);
 VoicePlay("P640400003_04_010");
 MsgDisp("Nanatsumori","No...
 I'll hold back a bit.");
-MsgDisp("主人公","Could it be, 
-it's not tasty?");
+MsgDisp("主人公","Could it be, it's not tasty?");
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P640400003_04_020");
@@ -28,8 +27,8 @@ VoicePlay("P640400003_04_030");
 MsgDisp("Nanatsumori","It looks like the bag of vegetables you're
 selling over there is full of insects,
 move it... please.");
-MsgDisp("主人公","(Aah... I failed hugely in so many
-ways...)");
+MsgDisp("主人公","(Aah...
+I failed hugely in so many ways...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

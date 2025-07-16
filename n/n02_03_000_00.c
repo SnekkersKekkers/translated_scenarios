@@ -9,9 +9,10 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("N020300000_03_000");
-    MsgDisp("Honda","The first among all the students is...
-not me!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Umm...");
+    MsgDisp("Honda","The first among all the students is... not
+me!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Umm...");
     ChSet(3,3);
     VoicePlay("N020300000_03_010");
     MsgDisp("Honda","Impressive, really impressive!
@@ -34,13 +35,15 @@ Anyway, I'm glad I did my best!)");
     VoicePlay("N020300000_03_030");
     MsgDisp("Honda","You're the first in the rank∋
 Congratulations!");
-    MsgDisp("主人公","Yeah, thank you! Umm... What about you,
-｛本多＊＊｝?");
+    MsgDisp("主人公","Yeah, thank you!
+Umm...
+What about you, ｛本多＊＊｝?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("N020300000_03_040");
-    MsgDisp("Honda","Hm?　Me?
+    MsgDisp("Honda","Hm?
+Me?
 I still haven't checked yet.");
     MsgDisp("主人公","(As expected of ｛本多＊＊｝...
 Anyway, I'm really glad I did my best!)");
@@ -52,7 +55,8 @@ Anyway, I'm really glad I did my best!)");
     ChMotion(3,1,1);
     VoicePlay("N020300000_03_050");
     MsgDisp("Honda","Oh, there you are!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. What's up?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+What's up?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);

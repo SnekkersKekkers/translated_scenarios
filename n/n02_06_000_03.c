@@ -14,8 +14,9 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     ChEyeOpenLevel(6,8);
     VoicePlay("N020600003_06_010");
-    MsgDisp("Himuro","Unbelievable. The lack of effort. That's
-all.");
+    MsgDisp("Himuro","Unbelievable.
+The lack of effort.
+That's all.");
     MsgDisp("主人公","(Oof...
 I have to study harder...)");
     break ;
@@ -24,8 +25,7 @@ I have to study harder...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600003_06_020");
-    MsgDisp("Himuro","...
-Did you turn in a blank paper?");
+    MsgDisp("Himuro","... Did you turn in a blank paper?");
     MsgDisp("主人公","Huh, I filled in all the answers...");
     ChEye(6,1);
     ChMouth(6,0);

@@ -11,7 +11,8 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     VoicePlay("F010700007_07_000");
-    MsgDisp("Mikage","Oh. Are you going home right now?");
+    MsgDisp("Mikage","Oh.
+Are you going home right now?");
     MsgDisp("主人公","Yes.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -25,8 +26,9 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("F010700007_07_020");
-    MsgDisp("Mikage","Oh. If you've got time, how about we walk
-home together?");
+    MsgDisp("Mikage","Oh.
+If you've got time, how about we walk home
+together?");
     MsgDisp("主人公","Oh, ｛御影＊＊｝!");
     ChEye(7,0);
     ChMouth(7,4);
@@ -111,8 +113,9 @@ See you later.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(7);
-        MsgDisp("主人公","(Right... He went to the trouble of
-inviting me, but it just wasn't right...)");
+        MsgDisp("主人公","(Right...
+He went to the trouble of inviting me, but
+it just wasn't right...)");
         break ;
         case 4:
         case 5:
@@ -127,8 +130,9 @@ See you.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(7);
-        MsgDisp("主人公","(Right... He went to the trouble of
-inviting me, but it just wasn't right...)");
+        MsgDisp("主人公","(Right...
+He went to the trouble of inviting me, but
+it just wasn't right...)");
         break ;
         default :
         DbgAssert(1);

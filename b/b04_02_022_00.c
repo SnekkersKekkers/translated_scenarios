@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040202200_02_010");
-    MsgDisp("Sassa","Right. That's the only word I can think to
-use.");
+    MsgDisp("Sassa","Right.
+That's the only word I can think to use.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

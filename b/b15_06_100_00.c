@@ -5,14 +5,12 @@ ChOpen(6,255,2,1,0,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150610000_06_000");
 MsgDisp("Himuro","That's seriously absurd.");
-MsgDisp("主人公","Ah, again...
-sorry, okay?");
+MsgDisp("主人公","Ah, again... sorry, okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150610000_06_010");
-MsgDisp("Himuro","I don't know...
-how much I can endure.");
+MsgDisp("Himuro","I don't know... how much I can endure.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

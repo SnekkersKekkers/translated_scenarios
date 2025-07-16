@@ -44,7 +44,7 @@ MsgDisp("Michiru","No way.
 I'm going to the rooftop to cool off!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(21,0,30);
-MsgDisp("主人公","(｛みちる＊｝, your face was red again
-this year...)");
+MsgDisp("主人公","(｛みちる＊｝, your face was red again this
+year...)");
 MsgClose();
 ScrFadeOut(0,0);

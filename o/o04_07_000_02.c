@@ -14,8 +14,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("O040700002_07_000");
     MsgDisp("Mikage","A draw, huh?
 I want to go again.");
-    MsgDisp("主人公","(A draw, huh......
-how frustrating.)");
+    MsgDisp("主人公","(A draw, huh...... how frustrating.)");
     break ;
     case 3:
     ChEye(7,2);
@@ -24,8 +23,7 @@ how frustrating.)");
     VoicePlay("O040700002_07_010");
     MsgDisp("Mikage","I see......
 If only we had one more.");
-    MsgDisp("主人公","(A draw, huh......
-how frustrating.)");
+    MsgDisp("主人公","(A draw, huh...... how frustrating.)");
     break ;
     case 4:
     case 5:
@@ -34,9 +32,8 @@ how frustrating.)");
     ChMotion(7,1);
     VoicePlay("O040700002_07_020");
     MsgDisp("Mikage","One more time!
-......I guess we can't.");
-    MsgDisp("主人公","(A draw, huh......
-how frustrating.)");
+...... I guess we can't.");
+    MsgDisp("主人公","(A draw, huh...... how frustrating.)");
     break ;
     default :
     DbgAssert(1);

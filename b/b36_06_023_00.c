@@ -65,7 +65,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360602300_06_080");
 MsgDisp("Himuro","So, are you nervous too?");
-MsgDisp("主人公","......Yeah. I guess I am.");
+MsgDisp("主人公","...... Yeah.
+I guess I am.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

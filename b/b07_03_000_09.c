@@ -37,7 +37,8 @@ ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("B070300000_03_540");
 MsgDisp("Honda","Uuu......");
-MsgDisp("主人公","Eh! What's wrong?");
+MsgDisp("主人公","Eh!
+What's wrong?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -69,8 +70,9 @@ VoicePlay("B070300000_03_580");
 MsgDisp("Honda","Huh, is that no good? Did I sound weird?
 It seems like my voice has that same
 effect on you......");
-MsgDisp("主人公","(I wonder if I'll get to learn ｛本多＊＊｝
-'s thoughts on \"Love\" some day......?)");
+MsgDisp("主人公","(I wonder if I'll get to learn
+｛本多＊＊｝ 's thoughts on
+\"Love\" some day......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

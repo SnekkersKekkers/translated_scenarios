@@ -29,7 +29,8 @@ VoicePlay("B070600000_06_040");
 MsgDisp("Himuro","Right.
 It portrays nature as it is.");
 MsgDisp("主人公","I see.
-That's just like ｛氷室＊＊｝ isn't it?");
+That's just like ｛氷室＊＊｝ isn't
+it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -45,8 +46,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_060");
 MsgDisp("Himuro","...If I feel like it.");
-MsgDisp("主人公","(No matter what he says, ｛氷室＊＊｝ will
-tell me about himself, right?)");
+MsgDisp("主人公","(No matter what he says,
+｛氷室＊＊｝ will tell me about
+himself, right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

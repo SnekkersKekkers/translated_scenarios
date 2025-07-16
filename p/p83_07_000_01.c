@@ -19,9 +19,10 @@ need, your class, and your name.");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P830700001_07_000");
-    MsgDisp("Mikage","｛主人公｝. You seem busy, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! Did you need
-something?");
+    MsgDisp("Mikage","｛主人公｝.
+You seem busy, huh?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Did you need something?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -63,8 +64,8 @@ need, your class, and your name.");
     VoiceEVSPlay(7);
     VoicePlay("P830700001_07_030");
     MsgDisp("Mikage","｛主人公｝, you're busy.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! Did you want
-something?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Did you want something?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

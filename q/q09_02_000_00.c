@@ -8,8 +8,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q090200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, mornin. Thanks in advance
-for today!");
+    MsgDisp("Sassa","｛主人公｝, mornin.
+Thanks in advance for today!");
     MsgDisp("主人公","Yeah!
 Well, let's go.");
     break ;

@@ -49,10 +49,11 @@ ChEye(4,4);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_070");
-MsgDisp("Nanatsumori","I'm worried about
-your wellbeing! Me!");
-MsgDisp("主人公","Yeah. I'm sorry, okay? I'll be careful, so
-don't get angry.");
+MsgDisp("Nanatsumori","I'm worried about your wellbeing!
+Me!");
+MsgDisp("主人公","Yeah.
+I'm sorry, okay?
+I'll be careful, so don't get angry.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
@@ -95,11 +96,10 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_120");
-MsgDisp("Nanatsumori","...Yeah, I'll take it off.
+MsgDisp("Nanatsumori","... Yeah, I'll take it off.
 I wonder if this is how Fathers with
 daughters feelー......");
-MsgDisp("主人公","Ah, you're treating me 
-like a child!");
+MsgDisp("主人公","Ah, you're treating me like a child!");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -117,8 +117,8 @@ MsgClose();
 ChClose(4,0,30);
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 ScrQuake(1);
-MsgDisp("主人公","Waa, ｛七ツ森＊｝ You're running too
-fast～!
+MsgDisp("主人公","Waa, ｛七ツ森＊｝ You're
+running too fast～!
 You're letting go of my hand.");
 VoicePlay("B040406402_04_150");
 MsgDisp("Nanatsumori","I won't let go, so it's alright.");

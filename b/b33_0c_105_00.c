@@ -17,8 +17,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10500_05_000");
-MsgDisp("Hiiragi","No, it's fun just
-hanging out with one.");
+MsgDisp("Hiiragi","No, it's fun just hanging out with one.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -38,7 +37,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C10500_06_010");
-MsgDisp("Himuro","Yeah. Seems like it would be helpful for
+MsgDisp("Himuro","Yeah.
+Seems like it would be helpful for
 Yanosuke-senpai too.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -58,8 +58,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330C10500_06_020");
 MsgDisp("Himuro","But what would you need for the theater
-troupe...
-stuff like props?");
+troupe... stuff like props?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -94,8 +93,9 @@ MsgClose();
 SEPlay("EV_SE_818",0,0.9);
 Wait(50,0);
 VoicePlay("B330C10500_36_000");
-MsgDisp("Staff","Congratulations! First prize: A year's
-supply of instant noodles!");
+MsgDisp("Staff","Congratulations!
+First prize: A year's supply of instant
+noodles!");
 SEStop("EV_SE_818",2);
 SEPlay("EV_SE_511",0.3,0.6);
 SEPlay("EV_SE_842",0.1,0.7);
@@ -169,15 +169,15 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C10500_05_070");
 MsgDisp("Hiiragi","Me too, please.");
-MsgDisp("主人公","Ehh∋ ｛柊＊＊＊｝ and ｛御影＊＊｝,
-you guys don't even like instant noodles,
-do you?");
+MsgDisp("主人公","Ehh∋ ｛柊＊＊＊｝ and
+｛御影＊＊｝, you guys
+don't even like instant noodles, do you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10500_07_070");
-MsgDisp("Mikage","We also want you to fuss over us.
-right, Yanosuke?");
+MsgDisp("Mikage","We also want you to fuss over us. right,
+Yanosuke?");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -191,8 +191,8 @@ VoicePlay("B330C10500_05_090");
 MsgDisp("Hiiragi","Today was a first-prize kind of day right
 until the end.");
 MsgDisp("主人公","(Hehe, I'm glad.
-Seeing ｛柊＊＊＊｝ enjoy himself makes me
-super happy!)");
+Seeing ｛柊＊＊＊｝ enjoy
+himself makes me super happy!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

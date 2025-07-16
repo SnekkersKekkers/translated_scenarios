@@ -6,7 +6,8 @@ VoicePlay("G020110302_01_000");
 MsgDisp("Kazama","We were totally on the same wavelength
 today, even more than usual. Like, we
 can't say it's a coincidence anymore.");
-MsgDisp("主人公","Hahah. You mean our clothes, right?");
+MsgDisp("主人公","Hahah.
+You mean our clothes, right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -34,8 +35,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110302_01_040");
-MsgDisp("Kazama","Really? If you're not into that kind of
-stuff, then fine, but......");
+MsgDisp("Kazama","Really?
+If you're not into that kind of stuff,
+then fine, but......");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -44,7 +46,8 @@ MsgDisp("Kazama","You're embarrassed because we just
 happened to wear the same clothes, right?
 So doesn't always wearing the same outfits
 fix that?");
-MsgDisp("主人公","Huh? What do you mean, \"always\"?");
+MsgDisp("主人公","Huh?
+What do you mean, \"always\"?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);

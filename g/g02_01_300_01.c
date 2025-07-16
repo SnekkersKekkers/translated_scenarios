@@ -20,9 +20,10 @@ VoicePlay("G020130001_01_020");
 MsgDisp("Kazama","I'm always okay with spending my time only
 with you. It's just that I don't hate
 being with them.");
-MsgDisp("主人公","Huh? But, ｛風真＊＊｝, you always look
-like you're having a lot of fun when
-you're with ｛颯砂＊＊｝ and ｛氷室＊＊｝.");
+MsgDisp("主人公","Huh? But, ｛風真＊＊｝, you
+always look like you're having a lot of
+fun when you're with ｛颯砂＊＊｝
+and ｛氷室＊＊｝.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -68,8 +69,8 @@ VoicePlay("G020130001_01_070");
 MsgDisp("Kazama","And Sassa bothering me to arm-wrestle him
 to 'test my strength'...... They're both
 such brats. Just huge pains to deal with.");
-MsgDisp("主人公","(Hahah. So, basically, you're all
-friends!)");
+MsgDisp("主人公","(Hahah.
+So, basically, you're all friends!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

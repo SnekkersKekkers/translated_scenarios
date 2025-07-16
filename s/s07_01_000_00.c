@@ -21,7 +21,8 @@ It's really a huge turnout.");
     VoicePlay("S070100000_01_010");
     MsgDisp("Kazama","Look.
 It's really restless around here.");
-    MsgDisp("主人公","(Is ｛風真＊＊｝ worrying this year, too?)");
+    MsgDisp("主人公","(Is ｛風真＊＊｝ worrying this
+year, too?)");
     break ;
     case 3:
     ChEye(1,0);
@@ -63,8 +64,9 @@ It'll save the Gods' time too.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("S070100000_01_060");
-    MsgDisp("Kazama","Wow. How long will it take us to get to
-the shrine?");
+    MsgDisp("Kazama","Wow.
+How long will it take us to get to the
+shrine?");
     MsgDisp("主人公","It may be a few hours.
 But this way, we can take our time and
 think about our wishes.");
@@ -79,7 +81,7 @@ think about our wishes.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("S070100000_01_080");
-    MsgDisp("Kazama","Ha......you say that so carefreely.
+    MsgDisp("Kazama","Ha...... you say that so carefreely.
 My wish has been the same for 10 years.");
     MsgDisp("主人公","(｛風真＊＊｝'s wish.
 I wonder what it is......?)");

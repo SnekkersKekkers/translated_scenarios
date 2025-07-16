@@ -20,15 +20,14 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("S120600001_06_050");
     MsgDisp("Himuro","You are most welcome.
-See you later...and Happy New Year.");
+See you later... and Happy New Year.");
     MsgDisp("主人公","The same to you!");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(We're going to have another good
-year!)");
+    MsgDisp("主人公","(We're going to have another good year!)");
     break ;
     case 4:
     case 5:

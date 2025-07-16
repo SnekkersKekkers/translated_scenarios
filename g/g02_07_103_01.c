@@ -13,8 +13,8 @@ VoicePlay("G020710301_07_010");
 MsgDisp("Mikage","t reminds me of that day with the cherry
 blossom petals falling.
 Do you remember?");
-MsgDisp("主人公","｛御影＊＊｝ made strawberry fruit
-sandwiches for me.");
+MsgDisp("主人公","｛御影＊＊｝ made
+strawberry fruit sandwiches for me.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -48,8 +48,8 @@ ChMotion(7,0);
 VoicePlay("G020710301_07_060");
 MsgDisp("Mikage","It's nothing.
 Let's keep making lots of memories.");
-MsgDisp("主人公","(｛御影＊＊｝...... seemed a little
-lonely just now......)");
+MsgDisp("主人公","(｛御影＊＊｝...... seemed a little lonely
+just now......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

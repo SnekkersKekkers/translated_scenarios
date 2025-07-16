@@ -19,7 +19,8 @@ ChMotion(21,3);
 VoicePlay("P630D00002_21_000");
 MsgDisp("Michiru","Truly.
 It's as though we went abroad.");
-MsgDisp("主人公","Ah, ｛ひかる＊｝, ｛みちる＊｝.
+MsgDisp("主人公","Ah, ｛ひかる＊｝,
+｛みちる＊｝.
 Welcome!");
 ChEye(22,3);
 ChMouth(22,3);
@@ -42,7 +43,8 @@ ChMotion(22,3,1);
 VoicePlay("P630D00002_22_020");
 MsgDisp("Hikaru","Sounds good♪
 We'll have Mari's recommendation please!");
-MsgDisp("主人公","Certainly. Then we'll prepare the organic
-vegetables salad and herb tea!");
+MsgDisp("主人公","Certainly.
+Then we'll prepare the organic vegetables
+salad and herb tea!");
 MsgClose();
 ScrFadeOut(0,0);

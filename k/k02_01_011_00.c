@@ -7,7 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("K020101100_01_000");
-MsgDisp("Kazama","｛主人公｝, do you have some more time?
+MsgDisp("Kazama","｛主人公｝, do you have
+some more time?
 I didn't mean for this to take so long.");
 MsgDisp("主人公","Hm?");
 ChEye(1,4);
@@ -55,8 +56,8 @@ MsgDisp("Kazama","Well, see you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(Thanks to ｛風真＊＊｝, my birthday was
-great.
+MsgDisp("主人公","(Thanks to ｛風真＊＊｝, my
+birthday was great.
 Thank you......!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -22,16 +22,17 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("H610700000_07_000");
-    MsgDisp("Mikage","｛主人公｝, you joined the gardening
-club?");
-    MsgDisp("主人公","Yes. ｛御影＊＊｝, I'm looking forward
-to working with you∈");
+    MsgDisp("Mikage","｛主人公｝, you joined the
+gardening club?");
+    MsgDisp("主人公","Yes.
+｛御影＊＊｝, I'm looking
+forward to working with you∈");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("H610700000_07_010");
-    MsgDisp("Mikage","Ooh...... I get it, but let's take it
-easy.");
+    MsgDisp("Mikage","Ooh......
+I get it, but let's take it easy.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -46,16 +47,17 @@ You naturally become relaxed.");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("H610700000_07_030");
-    MsgDisp("Mikage","｛主人公｝, so you joined the gardening
-club.");
-    MsgDisp("主人公","Yes. ｛御影＊＊｝, I'm looking forward
-to working with you.");
+    MsgDisp("Mikage","｛主人公｝, so you joined
+the gardening club.");
+    MsgDisp("主人公","Yes.
+｛御影＊＊｝, I'm looking
+forward to working with you.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("H610700000_07_040");
-    MsgDisp("Mikage","Congrats. You've found a lifelong hobby,
-huh?");
+    MsgDisp("Mikage","Congrats.
+You've found a lifelong hobby, huh?");
     MsgDisp("主人公","Huh?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -79,8 +81,9 @@ Looking forward to it.");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("H610700000_07_070");
     MsgDisp("Mikage","Yo, I was waiting for you.");
-    MsgDisp("主人公","Huh? ｛御影＊＊｝, you were waiting for
-me?");
+    MsgDisp("主人公","Huh?
+｛御影＊＊｝, you were
+waiting for me?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -103,8 +106,7 @@ all the beauties in my field.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("H610700000_07_100");
-    MsgDisp("Mikage","Flowers, vegetables, they're all
-the same.");
+    MsgDisp("Mikage","Flowers, vegetables, they're all the same.");
     MsgDisp("主人公","So that's how it is.");
     ChEye(7,0);
     ChMouth(7,0);

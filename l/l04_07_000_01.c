@@ -16,7 +16,8 @@ Splendid obligatory chocolate.");
     VoicePlay("L040700001_07_010");
     MsgDisp("Mikage","No, it's fine.
 It's interesting.");
-    MsgDisp("主人公","(Hm...... Should I have given him a better
+    MsgDisp("主人公","(Hm......
+Should I have given him a better
 chocolate?)");
     MsgClose();
     BGMStop();
@@ -47,7 +48,8 @@ They're easy to open for a quick bite.");
     SEWait();
     VoicePlay("L040700001_07_040");
     MsgDisp("Mikage","Mm, yum.");
-    MsgDisp("主人公","(Hm...... Should I have given him a better
+    MsgDisp("主人公","(Hm......
+Should I have given him a better
 chocolate?)");
     MsgClose();
     ScrFadeOut(0,0);

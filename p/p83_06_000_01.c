@@ -32,8 +32,7 @@ I'm doing things one by one.");
     ChMotion(6,0);
     VoicePlay("P830600001_06_020");
     MsgDisp("Himuro","Ah, right.");
-    MsgDisp("主人公","Umm, 
-first things first, the cardboard——");
+    MsgDisp("主人公","Umm, first things first, the cardboard——");
     VoicePlay("P830600001_48_000");
     MsgDisp("School Girl","Excuse me!
 Do you have any spare duct tape?");
@@ -56,7 +55,8 @@ Could I get more cardboardー?");
     ChOpen(6,254,4,0,0,#1,#1,0,0);
     VoicePlay("P830600001_06_030");
     MsgDisp("Himuro",".........");
-    MsgDisp("主人公","Huh, ｛氷室＊＊｝? What's wrong?");
+    MsgDisp("主人公","Huh, ｛氷室＊＊｝?
+What's wrong?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);

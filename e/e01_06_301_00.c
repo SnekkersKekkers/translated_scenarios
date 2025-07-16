@@ -2,15 +2,17 @@ BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
-......Huh?)");
+...... Huh?)");
 VoiceEVSPlay(6);
 VoicePlay("E010630100_06_000");
-MsgDisp("Himuro?","｛主人公｝, what a coincidence.");
+MsgDisp("Himuro?","｛主人公｝, what a
+coincidence.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah...... ｛氷室＊＊｝! Were you out
-shopping?");
+MsgDisp("主人公","Ah......
+｛氷室＊＊｝!
+Were you out shopping?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -25,7 +27,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(30,0);
 ChOpen(7,255,0,0,0,#1,#1,0,2);
 VoicePlay("E010630100_07_000");
-MsgDisp("Mikage","Yo! Are you ready?");
+MsgDisp("Mikage","Yo!
+Are you ready?");
 MsgDisp("主人公","Ah, ｛御影＊＊｝!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -33,8 +36,9 @@ ChMotion(6,0,1);
 VoicePlay("E010630100_06_020");
 MsgDisp("Himuro","Kojiro-senpai......
 Why are you here?");
-MsgDisp("主人公","Huh? Isn't ｛御影＊＊｝ the person
-you're meeting with?");
+MsgDisp("主人公","Huh?
+Isn't ｛御影＊＊｝ the
+person you're meeting with?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -84,8 +88,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010630100_07_040");
-MsgDisp("Mikage","Ah-...... what a coincidence. I can't
-believe we ran into each other here.");
+MsgDisp("Mikage","Ah-...... what a coincidence.
+I can't believe we ran into each other
+here.");
 ChEye(7,5);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -106,8 +111,7 @@ MsgDisp("Mikage","Y-Yes......");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("E010630100_32_030");
-MsgDisp("VP Himuro","We'll talk about our promise
-at school.");
+MsgDisp("VP Himuro","We'll talk about our promise at school.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

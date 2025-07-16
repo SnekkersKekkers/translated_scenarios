@@ -14,8 +14,8 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("X120600001_06_000");
-    MsgDisp("Himuro","Wow... how pretty. You're skilled at
-raising plants.");
+    MsgDisp("Himuro","Wow... how pretty.
+You're skilled at raising plants.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
@@ -28,7 +28,8 @@ raising plants.");
 pretty. I wonder if flowers also resemble
 the people who raised them... No, there's
 no deeper meaning to it.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

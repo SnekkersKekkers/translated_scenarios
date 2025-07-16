@@ -28,8 +28,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("D200000200_31_010");
-MsgDisp("Goro","Hello. I can see you're hard at work
-looking for an interview.");
+MsgDisp("Goro","Hello.
+I can see you're hard at work looking for
+an interview.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
@@ -42,8 +43,8 @@ ChMouth(31,2);
 ChMotion(31,3);
 VoicePlay("D200000200_31_030");
 MsgDisp("Goro","I can feel it in the air.
-This sensation......It's an SOS for a man
-troubled by love.");
+This sensation......
+It's an SOS for a man troubled by love.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
@@ -86,8 +87,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("D200000200_31_090");
-MsgDisp("Goro","That's right. I hope you can extinguish
-those flames. Adieu▼");
+MsgDisp("Goro","That's right.
+I hope you can extinguish those flames.
+Adieu▼");
 MsgClose();
 SEPlay("EV_SE_626");
 BGMStop();

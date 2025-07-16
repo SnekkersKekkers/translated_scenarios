@@ -38,7 +38,8 @@ Who were you looking at?");
     ChMotion(3,0,1);
     ChEyeOpenLevel(3,8);
     VoicePlay("B040305100_03_030");
-    MsgDisp("Honda","Well, sleep is important. But... why now?");
+    MsgDisp("Honda","Well, sleep is important.
+But... why now?");
     MsgDateResultDisp();
     break ;
     default :

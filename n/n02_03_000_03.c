@@ -11,7 +11,8 @@ switch (ChPrmGet(3,6)){
     ChEyeOpenLevel(3,6);
     VoicePlay("N020300003_03_000");
     MsgDisp("Honda","Oof...");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. What's wrong?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+What's wrong?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4);
@@ -43,7 +44,8 @@ column. I do that a lot.");
     ChMouth(3,5);
     ChMotion(3,5);
     VoicePlay("N020300003_03_040");
-    MsgDisp("Honda","Huh∋　Am I wrong∋");
+    MsgDisp("Honda","Huh∋
+Am I wrong∋");
     MsgDisp("主人公","(｛本多＊＊｝ believes that my results are
 unbelievable...
 I've got to study harder...)");

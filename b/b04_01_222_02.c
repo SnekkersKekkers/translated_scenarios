@@ -63,8 +63,7 @@ might also become an precious artifact in
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040122202_01_050");
-        MsgDisp("Kazama","Should we leave
-something too?");
+        MsgDisp("Kazama","Should we leave something too?");
         MsgDisp("主人公","Graffiti is bad.");
         ChEye(1,3);
         ChMouth(1,3);
@@ -133,9 +132,9 @@ It's a fun thing to imagine.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040122202_01_100");
-    MsgDisp("Kazama","I really won't forgive them.
-\"We were here\", \"We're here\"!
-just who are they reporting to?");
+    MsgDisp("Kazama","I really won't forgive them. \"
+We were here\", \"We're here\"! just who are
+they reporting to?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

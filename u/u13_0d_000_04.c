@@ -60,8 +60,9 @@ burden.
 But that isn't right.");
     StlEye(21,0);
     VoicePlay("U130D00004_21_030");
-    MsgDisp("Michiru","Mari. Why don't you try to be honest with
-him? I think it would really motivate him.");
+    MsgDisp("Michiru","Mari.
+Why don't you try to be honest with him?
+I think it would really motivate him.");
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,1);
     MsgDisp("主人公","(Mmm. It's complicated but, I wonder if I
@@ -75,8 +76,8 @@ experiences with ｛柊＊＊＊｝.");
     StlEye(21,3);
     StlMouth(21,0);
     VoicePlay("U130D00004_21_040");
-    MsgDisp("Michiru","Hehe. Mari looks like she's married
-lately.");
+    MsgDisp("Michiru","Hehe.
+Mari looks like she's married lately.");
     MsgDisp("主人公","Ehh∋");
     StlEye(21,0);
     StlEye(22,2);
@@ -101,9 +102,10 @@ The love show will become reality soon▼");
 passionate side soon? Ah～n, Hikaru wants
 to see that performance～▼");
     StlEye(22,0);
-    MsgDisp("主人公","(｛ひかる＊｝... If it's ｛柊＊＊＊｝
-'s real life love story performance, I
-want to see it too...)");
+    MsgDisp("主人公","(｛ひかる＊｝... If it's
+｛柊＊＊＊｝ 's real life love
+story performance, I want to see it
+too...)");
     break ;
     default :
     DbgAssert(1);

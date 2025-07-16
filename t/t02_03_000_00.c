@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝...... Why are you here?");
+MsgDisp("主人公","｛本多＊＊｝......
+Why are you here?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -48,8 +49,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("T020300000_03_060");
-MsgDisp("Honda","Yes. So I talked to you about various
-things — Maybe it was around that time.");
+MsgDisp("Honda","Yes.
+So I talked to you about various things —
+Maybe it was around that time.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -117,7 +119,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,2,1);
 VoicePlay("T020300000_03_160");
-MsgDisp("Honda","People......it's a huge topic.
+MsgDisp("Honda","People...... it's a huge topic.
 I don't know when I'll finish, and I might
 never finish it.");
 ChEye(3,0);

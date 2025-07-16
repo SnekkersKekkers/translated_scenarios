@@ -7,7 +7,8 @@ BGOpen("sc740",0);
 BGMPlay("BGM_ENGEKI_B",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝. It's the last scene.");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+It's the last scene.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -27,8 +28,7 @@ BGMVol(0.5,2);
 ChClose(2,0,0);
 ScrFadeIn(0);
 VoicePlay("P240201000_33_000");
-MsgDisp("Hades","Persephone, 
-why won't you laugh?");
+MsgDisp("Hades","Persephone, why won't you laugh?");
 VoicePlay("P240201000_48_000");
 MsgDisp("Persephone","How am I supposed to laugh when I'm
 imprisoned in the depths of the earth?
@@ -39,29 +39,30 @@ VoicePlay("P240201000_48_010");
 MsgDisp("Persephone","...Then I will cry, I will continue to
 await help.");
 VoicePlay("P240201000_33_040");
-MsgDisp("Hades","...That will not come true.
+MsgDisp("Hades","... That will not come true.
 The gatekeeper of hell, Cerebus will not
 tolerate intruders.");
 VoicePlay("P240201000_33_050");
 MsgDisp("Hades","Cerebus!
-...Cerebus?");
+... Cerebus?");
 SEPlay("EV_SE_GAYA_006",0,0.4);
 Wait(60,0);
 MsgDisp("主人公","｛颯砂＊＊｝, what should we do?");
 VoicePlay("P240201000_02_020");
 MsgDisp("Sassa","Come on, give us a bark!");
 SEPlay("EV_SE_679",0,0.9);
-MsgDisp("","(Arf! Arf! Arf!)");
+MsgDisp("","(Arf!
+Arf!
+Arf!)");
 SEStop("EV_SE_GAYA_006",3);
 Wait(50,0);
 MsgDisp("主人公","Haa, what a relief...");
 SEStop("EV_SE_679",0.5);
 VoicePlay("P240201000_02_030");
-MsgDisp("Sassa","Yeah, 
-it wasn't very threatening though.");
+MsgDisp("Sassa","Yeah, it wasn't very threatening though.");
 MsgDisp("主人公","Hehe, yeah.
-Guess he wants to play with ｛颯砂＊＊｝,
-huh?");
+Guess he wants to play with
+｛颯砂＊＊｝, huh?");
 VoicePlay("P240201000_48_020");
 MsgDisp("Persephone","Then, I will escape myself.");
 SEPlay("EV_SE_FOOT_001",0.3,0.2);
@@ -70,7 +71,9 @@ SEStop("EV_SE_FOOT_001",1.9);
 VoicePlay("P240201000_33_070");
 MsgDisp("Hades","Wait!");
 SEPlay("EV_SE_679",0,0.9);
-MsgDisp("","(Arf! Arf! Arf!)");
+MsgDisp("","(Arf!
+Arf!
+Arf!)");
 Wait(70,0);
 SEStop("EV_SE_679",0.2);
 MsgDisp("","　　　　　　　　　　 ・
@@ -97,7 +100,9 @@ SEPlay("EV_SE_681");
 Wait(100,0);
 SEStop("EV_SE_681",0.3);
 SEPlay("EV_SE_679");
-MsgDisp("","(Arf! Arf! Arf!)");
+MsgDisp("","(Arf!
+Arf!
+Arf!)");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,5);

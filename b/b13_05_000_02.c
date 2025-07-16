@@ -5,8 +5,7 @@ ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B130500002_05_000");
-MsgDisp("Hiiragi","That differs from the 
-yukata I know of.");
+MsgDisp("Hiiragi","That differs from the yukata I know of.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);

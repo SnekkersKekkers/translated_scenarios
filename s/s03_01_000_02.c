@@ -32,7 +32,7 @@ See you later.");
     case 5:
     VoicePlay("S030100002_01_040");
     MsgDisp("Kazama","I want to go.
-...But I can't.");
+... But I can't.");
     MsgDisp("主人公","You have something else to do?");
     VoicePlay("S030100002_01_050");
     MsgDisp("Kazama","Grandpa's warehouse.

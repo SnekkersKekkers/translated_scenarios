@@ -36,8 +36,7 @@ Ah...... it's some soil.");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("I360400002_04_020");
-    MsgDisp("Nanatsumori","How'd you get dirt on your nose
-in a cafe?");
+    MsgDisp("Nanatsumori","How'd you get dirt on your nose in a cafe?");
     MsgDisp("主人公","I was taking care of the plants earlier,
 so I guess that's when it happened.");
     ChEye(4,0);
@@ -73,8 +72,9 @@ soon......");
     ChMotion(4,1,1);
     VoicePlay("I360400002_04_050");
     MsgDisp("Nanatsumori","Pft!");
-    MsgDisp("主人公","Uh. Why did you start laughing after you
-saw my face?");
+    MsgDisp("主人公","Uh.
+Why did you start laughing after you saw
+my face?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);

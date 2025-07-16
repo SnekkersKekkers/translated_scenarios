@@ -111,8 +111,7 @@ I hope you enjoy the free period too!");
     ChClose(3,0,30);
     ChClose(1,0,30);
     ChClose(4,0,30);
-    MsgDisp("主人公","(They even invited me,
-I feel bad......)");
+    MsgDisp("主人公","(They even invited me, I feel bad......)");
     break ;
     default :
     DbgAssert(0);

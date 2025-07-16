@@ -51,8 +51,9 @@ I don't get what you mean at all.");
         ChEyeOpenLevel(4,7);
         VoicePlay("B040401102_04_030");
         MsgDisp("Nanatsumori","Why?");
-        MsgDisp("主人公","｛七ツ森＊｝ is so grown-up, it suits
-him, but I'm completely——");
+        MsgDisp("主人公","｛七ツ森＊｝ is so
+grown-up, it suits him, but I'm
+completely——");
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(4,0,30);
         MsgClose();
@@ -76,8 +77,9 @@ Your own charm.");
         ChMotion(4,3,1);
         VoiceEVSPlay(4);
         VoicePlay("B040401102_04_060");
-        MsgDisp("Nanatsumori","...｛主人公｝. You really are a great
-girl. Believe in yourself.");
+        MsgDisp("Nanatsumori","... ｛主人公｝.
+You really are a great girl.
+Believe in yourself.");
         MsgDisp("主人公","｛七ツ森＊｝......");
         ChEye(4,0);
         ChMouth(4,0);
@@ -117,8 +119,8 @@ My my.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040401102_04_100");
-    MsgDisp("Nanatsumori","Thanks. You've also got good taste haven't
-you?");
+    MsgDisp("Nanatsumori","Thanks.
+You've also got good taste haven't you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

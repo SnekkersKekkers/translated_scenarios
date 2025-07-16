@@ -17,7 +17,8 @@ You looked really into it.");
     MsgClose();
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! I won!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+I won!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -34,15 +35,17 @@ I was trying my hardest.");
     MsgDisp("Kazama","I see, my bad.
 But you know, it was nice seeing you cling
 to the rope like a kitten.");
-    MsgDisp("主人公","(Geez. I just won, but it doesn't feel
-like he's praising me at all......)");
+    MsgDisp("主人公","(Geez.
+I just won, but it doesn't feel like he's
+praising me at all......)");
     break ;
     case 4:
     case 5:
     MsgClose();
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! I won!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+I won!");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -76,7 +79,8 @@ You must have gotten some rope burn.");
 should rest? You might get germs from
 holding hands with other guys.");
     MsgDisp("主人公","(I'm glad I won the tug of war!
-But I think I made ｛風真＊＊｝ worry.)");
+But I think I made ｛風真＊＊｝
+worry.)");
     break ;
     default :
     DbgAssert(1);

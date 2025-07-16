@@ -6,8 +6,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("D140A03400_01_000");
-MsgDisp("Kazama","｛主人公｝, what class do we have in
-the afternoon?");
+MsgDisp("Kazama","｛主人公｝, what class do
+we have in the afternoon?");
 MsgDisp("主人公","Biology.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -51,14 +51,16 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A03400_02_010");
-MsgDisp("Sassa","Huh... Is it actually us who's too
-conscious over it?");
+MsgDisp("Sassa","Huh...
+Is it actually us who's too conscious over
+it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03400_06_020");
-MsgDisp("Himuro","Eh... no. I felt like there was some
-hidden meaning to it.");
+MsgDisp("Himuro","Eh... no.
+I felt like there was some hidden meaning
+to it.");
 MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -91,8 +93,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("D140A03400_02_030");
-MsgDisp("Sassa","Sorry. I mean, I guess I'm also a
-childhood friend.");
+MsgDisp("Sassa","Sorry.
+I mean, I guess I'm also a childhood
+friend.");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
@@ -104,14 +107,15 @@ MsgDisp("Himuro","Ugh...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
-MsgDisp("主人公","But ｛氷室＊＊｝, you go to the same school
-as us.");
+MsgDisp("主人公","But ｛氷室＊＊｝, you go to the same
+school as us.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoiceEVSPlay(1);
 VoicePlay("D140A03400_01_050");
-MsgDisp("Kazama","｛主人公｝, that's kind of forced.");
+MsgDisp("Kazama","｛主人公｝, that's kind of
+forced.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

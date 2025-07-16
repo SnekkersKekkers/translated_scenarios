@@ -1,13 +1,13 @@
 BGOpen("sc530",0);
 ScrFadeIn(0);
 VoicePlay("F100320001_03_000");
-MsgDisp("Honda?","The quickest solution 
-is to get a haircut.");
+MsgDisp("Honda?","The quickest solution is to get a haircut.");
 VoicePlay("F100320001_02_000");
 MsgDisp("Sassa?","Even if that were the case, why does it
 have to be you, Iku, to be the one to cut
 it?");
-MsgDisp("主人公","Huh, this voice... ｛本多＊＊｝ and
+MsgDisp("主人公","Huh, this voice...
+｛本多＊＊｝ and
 ｛颯砂＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -25,14 +25,14 @@ MsgDisp("Honda","Sakkun is fighting for every tenth of a
 second, so I thought if he cut his hair,
 even with the same muscle mass as now,
 he's'd be able to improve my record");
-MsgDisp("主人公","Ehh? But, it doesn't seem like ｛颯砂＊＊｝
-wants to cut his hair...");
+MsgDisp("主人公","Ehh? But, it doesn't seem like
+｛颯砂＊＊｝ wants to cut his
+hair...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100320001_02_020");
-MsgDisp("Sassa","No, what Iku is 
-saying is right.");
+MsgDisp("Sassa","No, what Iku is saying is right.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -67,7 +67,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ChPosition(3,1);
 VoicePlay("F100320001_03_030");
-MsgDisp("Honda","...Why would I cut your hair?
+MsgDisp("Honda","... Why would I cut your hair?
 Right?");
 MsgDisp("主人公","Y-Yeah.
 Look, the afternoon bell is about to ring!");

@@ -35,8 +35,9 @@ such people lived just like us.");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("B040822202_08_020");
-        MsgDisp("Shirahane","...Right? Each person's heirlooms are
-different depending on the individual.");
+        MsgDisp("Shirahane","... Right?
+Each person's heirlooms are different
+depending on the individual.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -51,9 +52,9 @@ different depending on the individual.");
         MsgDisp("Shirahane","Ah... that's right. When it comes to
 heirlooms, each one of those families have
 an individual sense of what's valuable.");
-        MsgDisp("主人公","That's right.
-by the way, does ｛大地＊＊｝ have his
-own treasures?");
+        MsgDisp("主人公","That's right. by the way, does
+｛大地＊＊｝ have his own
+treasures?");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,2,1);
@@ -80,7 +81,7 @@ would say the time I spend with you.");
         ChMotion(8,3,1);
         ChCheek(8,8);
         VoicePlay("B040822202_08_070");
-        MsgDisp("Shirahane","...That's no good.
+        MsgDisp("Shirahane","... That's no good.
 I just said something cringy.");
         ChEye(8,4);
         ChMouth(8,3);
@@ -100,8 +101,9 @@ I just said something cringy.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040822202_08_090");
-    MsgDisp("Shirahane","Haha! That's right, I might want to
-experience being a lord at least once.");
+    MsgDisp("Shirahane","Haha!
+That's right, I might want to experience
+being a lord at least once.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

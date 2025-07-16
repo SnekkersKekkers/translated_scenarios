@@ -40,8 +40,7 @@ better.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040220000_02_030");
-    MsgDisp("Sassa","If you can do that much, 
-just a bit more.");
+    MsgDisp("Sassa","If you can do that much, just a bit more.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

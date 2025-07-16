@@ -17,8 +17,9 @@ VoicePlay("H6G0300000_03_010")
 MsgDisp("Honda","I heard that the brass band won an award
 in the competition!
 That's amazing, congrats!");
-MsgDisp("主人公","Thanks! ......Did you come all this way
-just to congratulate me?");
+MsgDisp("主人公","Thanks!
+...... Did you come all this way just to
+congratulate me?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -40,7 +41,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("H6G0300000_03_040")
 MsgDisp("Honda","I'm looking forward to seeing our vice
 principal looking all satisfied too!");
-MsgDisp("主人公","(Hehe. I'm glad I practiced so hard for
-brass band!)");
+MsgDisp("主人公","(Hehe.
+I'm glad I practiced so hard for brass
+band!)");
 MsgClose();
 ScrFadeOut(0,0);

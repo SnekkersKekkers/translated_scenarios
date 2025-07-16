@@ -6,14 +6,15 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","｛柊＊＊＊｝, are you enjoying the
-festival?");
+MsgDisp("主人公","｛柊＊＊＊｝, are you enjoying
+the festival?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510000_05_010");
-MsgDisp("Hiiragi","Yes. I was permitted to work the
-information desk.");
+MsgDisp("Hiiragi","Yes.
+I was permitted to work the information
+desk.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -48,8 +49,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510000_05_060");
-MsgDisp("Hiiragi","Yes. The flavors, too. Because of that, I
-am now full.");
+MsgDisp("Hiiragi","Yes.
+The flavors, too.
+Because of that, I am now full.");
 MsgDisp("主人公","So you really tried them all...");
 ChEye(5,0);
 ChMouth(5,3);

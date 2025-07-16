@@ -5,8 +5,8 @@ ChOpen(22,254,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F112210000_22_000");
 MsgDisp("Hikaru","Everything good, everythings good～");
-MsgDisp("主人公","Oh, ｛ひかる＊｝. What's with the good
-mood?");
+MsgDisp("主人公","Oh, ｛ひかる＊｝.
+What's with the good mood?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -43,10 +43,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F112210000_22_060");
-MsgDisp("Hikaru","Hikaru hopes that girl's love 
-comes true.");
-MsgDisp("主人公","(｛ひかる＊｝ seems more like a
-fortune teller...");
+MsgDisp("Hikaru","Hikaru hopes that girl's love comes true.");
+MsgDisp("主人公","(｛ひかる＊｝ seems more like a fortune
+teller...");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(22,0,0);

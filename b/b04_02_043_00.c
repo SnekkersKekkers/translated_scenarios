@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040204300_02_000");
-    MsgDisp("Sassa","Seriously? I wasn't sure if I was supposed
-to laugh.");
+    MsgDisp("Sassa","Seriously?
+I wasn't sure if I was supposed to laugh.");
     MsgDateResultDisp();
     break ;
     case 1:

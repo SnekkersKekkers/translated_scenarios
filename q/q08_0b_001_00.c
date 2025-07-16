@@ -33,8 +33,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("Q080B00100_01_020");
-MsgDisp("Kazama","Ugh, yes.
-...... please.");
+MsgDisp("Kazama","Ugh, yes. ...... please.");
 MsgDisp("主人公","Hehe, mee too!");
 ChMouth(1,0);
 ChEye(3,3);
@@ -48,16 +47,16 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q080B00100_04_020");
-MsgDisp("Nanatsumori","Np,
-I'll select the good ones.");
+MsgDisp("Nanatsumori","Np, I'll select the good ones.");
 ChEye(1,0);
 ChMouth(1,3);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q080B00100_03_010");
-MsgDisp("Honda","Yay! We're all going together for the next
-free period too, right?");
+MsgDisp("Honda","Yay!
+We're all going together for the next free
+period too, right?");
 ChMotion(4,0,1);
 VoicePlay("Q080B00100_04_030");
 MsgDisp("Nanatsumori","No objection.");
@@ -99,8 +98,9 @@ ChMotion(1,3);
 VoicePlay("Q080B00100_01_050");
 MsgDisp("Kazama","Wait a minute.
 What's a leader supposed to do?");
-MsgDisp("主人公","(Hehe! I'm can't wait for the free day
-after tomorrow!)");
+MsgDisp("主人公","(Hehe!
+I'm can't wait for the free day after
+tomorrow!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

@@ -77,8 +77,7 @@ Just accept the compliment.");
     ChMotion(6,0);
     ChCheek(6,0);
     VoicePlay("I460600004_06_060");
-    MsgDisp("Himuro","I'll have to work hard
-to not lose to you.");
+    MsgDisp("Himuro","I'll have to work hard to not lose to you.");
     MsgDisp("主人公","(He praised me!
 Alright, let's work even harder!)");
     break ;

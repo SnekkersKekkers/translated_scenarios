@@ -36,7 +36,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040202401_02_030");
-    MsgDisp("Sassa","Yeah. I'm curious if we'll get something
+    MsgDisp("Sassa","Yeah.
+I'm curious if we'll get something
 different this time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C07_MIKAGE_KOKU",0.01);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛御影＊＊｝...... Why are you here?");
+MsgDisp("主人公","｛御影＊＊｝......
+Why are you here?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -19,7 +20,8 @@ VoicePlay("T020720000_07_010");
 MsgDisp("Mikage","It was them.
 Yanosuke and Inori gave me the push I
 needed.");
-MsgDisp("主人公","｛柊＊＊＊｝ and ｛氷室＊＊｝?");
+MsgDisp("主人公","｛柊＊＊＊｝ and
+｛氷室＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -52,14 +54,15 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020720000_07_060");
 MsgDisp("Mikage","I'm not the kind of person who's fit to be
 called a teacher......");
-MsgDisp("主人公","That...... I was really happy in the last
-three years I spent with ｛御影＊＊｝.");
+MsgDisp("主人公","That......
+I was really happy in the last three years
+I spent with ｛御影＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020720000_07_070");
-MsgDisp("Mikage",".........Thank you.
+MsgDisp("Mikage","......... Thank you.
 You always help me out like that.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -82,8 +85,7 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(7,254,7,4,4,8,#1,0,0,0,120);
 VoicePlay("T020720000_07_100");
-MsgDisp("Mikage","Yeah, I ......
-love you.");
+MsgDisp("Mikage","Yeah, I ...... love you.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,2);

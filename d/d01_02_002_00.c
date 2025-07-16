@@ -10,7 +10,8 @@ ScrFadeOut(0);
 SEWait();
 MsgDisp("主人公","(On these shelves should be a lot of
 difficult speciality books......)");
-MsgDisp("主人公","(Huh......Is that——)");
+MsgDisp("主人公","(Huh......
+Is that——)");
 MsgClose();
 BGMPlay("BGM_C02_SASSA_B",0.01);
 StlOpen("ev_02_07");
@@ -42,8 +43,8 @@ StlEyeOpenLevel(2,5,1);
 VoicePlay("D010200200_02_030");
 MsgDisp("Sassa","Even track and field idiots read books.");
 MsgDisp("主人公","Hehe, sorry.
-You looked so serious......What book is
-it?");
+You looked so serious......
+What book is it?");
 StlEye(2,1);
 StlMouth(2,1);
 StlEyeOpenLevel(2,0,1);
@@ -69,8 +70,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, are you not going to borrow
-the book?");
+MsgDisp("主人公","Ah, are you not going to borrow the book?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -89,14 +89,15 @@ BGMStop();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(Hehe. Now I'm curious, what was he
-reading? I think it was this book......?)");
+MsgDisp("主人公","(Hehe.
+Now I'm curious, what was he reading?
+I think it was this book......?)");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_610");
 SEWait();
 MsgDisp("主人公","(\"Exercise Theory 1st Edition, Hyper
 Recovery for Efficient Muscle
-Growth\"......Is ｛颯砂＊＊｝ actually a
-scientific person?)");
+Growth\"......Is ｛颯砂＊＊｝
+actually a scientific person?)");
 ChPrmTblAdd(2,0);

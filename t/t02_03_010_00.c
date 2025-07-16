@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝...... Why are you here?");
+MsgDisp("主人公","｛本多＊＊｝......
+Why are you here?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -71,7 +72,7 @@ ChMotion(3,4,1);
 VoicePlay("T020301000_03_090");
 MsgDisp("Honda","Haha, thanks to you, I realized that
 people are most important to me.
-My family, my friends......you.");
+My family, my friends...... you.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -103,5 +104,6 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(3,254,1,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020301000_03_130");
-MsgDisp("Honda","Please. My beloved, I want you to be by my
-side. Stay by my side forever and ever.");
+MsgDisp("Honda","Please.
+My beloved, I want you to be by my side.
+Stay by my side forever and ever.");

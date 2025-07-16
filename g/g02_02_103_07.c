@@ -10,13 +10,14 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020210307_02_010");
-MsgDisp("Sassa","Huh? 
+MsgDisp("Sassa","Huh?
 How do you know the title?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210307_02_020");
-MsgDisp("Sassa","Oh! You checked it after I left, huh?");
+MsgDisp("Sassa","Oh!
+You checked it after I left, huh?");
 MsgDisp("主人公","Umm......");
 ChEye(2,0);
 ChMouth(2,4);
@@ -38,8 +39,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("G020210307_02_050");
-MsgDisp("Sassa","Exactly. So, where else do you think we
-wouldn't normally go together?");
+MsgDisp("Sassa","Exactly.
+So, where else do you think we wouldn't
+normally go together?");
 MsgDisp("主人公","Hmmmm......maybe the career counseling
 room?");
 ChEye(2,3);
@@ -55,7 +57,8 @@ ChMotion(2,0);
 VoicePlay("G020210307_02_070");
 MsgDisp("Sassa","Next time, let's sneak into the career
 counseling room together.");
-MsgDisp("主人公","Huh? We'll get in trouble, you know?");
+MsgDisp("主人公","Huh?
+We'll get in trouble, you know?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

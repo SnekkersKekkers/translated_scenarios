@@ -7,8 +7,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,3,1);
     VoicePlay("D140201101_02_000");
-    MsgDisp("Sassa","Oh, we're getting along
-today aren't we?");
+    MsgDisp("Sassa","Oh, we're getting along today aren't we?");
     break ;
     case 4:
     case 5:

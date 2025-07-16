@@ -8,9 +8,8 @@ ChCheek(1,0);
 VoicePlay("T020120000_01_700");
 MsgDisp("Kazama","......I see.");
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
-MsgDisp("主人公","｛風真＊＊｝, thank you for always
-thinking of me.
-But......I'm sorry.");
+MsgDisp("主人公","｛風真＊＊｝, thank you for
+always thinking of me. But......I'm sorry.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,2);
@@ -18,7 +17,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020120000_01_710");
 MsgDisp("Kazama","No.
-......I'm sorry too.");
+...... I'm sorry too.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -36,7 +35,8 @@ VoicePlay("T020120000_01_730");
 MsgDisp("Kazama","But for the last three years I've only
 been a nuisance to you huh......");
 MsgDisp("主人公","No, that's not true.
-｛風真＊＊｝'s feelings made me happy.");
+｛風真＊＊｝'s feelings made me
+happy.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -79,8 +79,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("T020120000_01_790");
-MsgDisp("Kazama","......｛主人公｝, congratulations on
-your graduation.");
+MsgDisp("Kazama","......｛主人公｝, congratulations on your
+graduation.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

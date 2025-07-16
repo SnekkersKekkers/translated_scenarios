@@ -1,11 +1,12 @@
 BGOpen("sc606",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew...... Gardening club is hard work,
-but it's rewarding.");
+MsgDisp("主人公","Phew......
+Gardening club is hard work, but it's
+rewarding.");
 VoiceEVSPlay(7);
 VoicePlay("G110700900_07_000");
-MsgDisp("Mikage?","Hey, ｛主人公｝. Nice job today, you
-did well.");
+MsgDisp("Mikage?","Hey, ｛主人公｝.
+Nice job today, you did well.");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -13,8 +14,8 @@ BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝. Let's do our best
-together!");
+MsgDisp("主人公","｛御影＊＊｝.
+Let's do our best together!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

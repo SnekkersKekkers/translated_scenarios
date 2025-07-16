@@ -38,8 +38,8 @@ new personal bests.");
 support.
 Thank you.");
     MsgDisp("主人公","(I would be happy if I was of help to
-everyone.
-｛御影＊＊｝, thank you very much!)");
+everyone. ｛御影＊＊｝,
+thank you very much!)");
     break ;
     default :
     DbgAssert(1);

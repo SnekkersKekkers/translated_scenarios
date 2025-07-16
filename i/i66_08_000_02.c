@@ -7,7 +7,7 @@ switch (ChPrmGet(8,6)){
     case 2:
     case 3:
     MsgDisp("主人公","Which way are you headed?
-......Yes, to the left, please.");
+...... Yes, to the left, please.");
     MsgDisp("主人公","Yes, okay.
 Thank you very much!");
     SEPlay("EV_SE_589",1);
@@ -18,7 +18,8 @@ Thank you very much!");
     ChOpen(8,35,0,4,0,#1,#1,0,0);
     VoicePlay("I660800002_08_000");
     MsgDisp("Shirahane","How bright......");
-    MsgDisp("主人公","Ah, ｛大地＊＊｝. What is?");
+    MsgDisp("主人公","Ah, ｛大地＊＊｝.
+What is?");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -29,12 +30,13 @@ Full points!");
     VoicePlay("I660800002_08_020");
     MsgDisp("Shirahane","I ain't lying.
 Well, lemme learn from you!");
-    MsgDisp("主人公","(Yay! ｛大地＊＊｝ praised me.)");
+    MsgDisp("主人公","(Yay!
+｛大地＊＊｝ praised me.)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","Which way are you headed?
-......Yes, to the left, please.");
+...... Yes, to the left, please.");
     MsgDisp("主人公","Yes, okay.
 Thank you very much!");
     SEPlay("EV_SE_589",1);
@@ -46,8 +48,8 @@ Thank you very much!");
     ChOpen(8,35,2,2,4,#1,#1,0,0);
     VoicePlay("I660800002_08_030");
     MsgDisp("Shirahane","Ah no......");
-    MsgDisp("主人公","｛大地＊＊｝. Huh, did I make a mistake
-somewhere?");
+    MsgDisp("主人公","｛大地＊＊｝.
+Huh, did I make a mistake somewhere?");
     ChMotion(8,0,1);
     VoicePlay("I660800002_08_040");
     MsgDisp("Shirahane","Nah.
@@ -60,7 +62,8 @@ Ya got 100 points from me.");
     MsgDisp("Shirahane","Feels like more and more customers have
 been comin' here jus' for you......");
     MsgDisp("主人公","Not at all......
-｛大地＊＊｝, you're overthinking it.");
+｛大地＊＊｝, you're
+overthinking it.");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,0,1);

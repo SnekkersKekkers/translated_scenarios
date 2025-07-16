@@ -5,8 +5,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("J030100001_01_000");
     MsgDisp("Kazama","Sorry.
 I have something on that day...");
-    MsgDisp("主人公","Oh, I see,
-that's too bad......");
+    MsgDisp("主人公","Oh, I see, that's too bad......");
     VoicePlay("J030100001_01_010");
     MsgDisp("Kazama","Yeah, see you around, mh?");
     MsgDisp("主人公","Yeah.
@@ -21,11 +20,13 @@ timing......)");
     MsgDisp("Kazama","That's bad timing, you know!");
     MsgDisp("主人公","Huh?");
     VoicePlay("J030100001_01_030");
-    MsgDisp("Kazama","It's the only day I can't go out! Sorry.");
+    MsgDisp("Kazama","It's the only day I can't go out!
+Sorry.");
     MsgDisp("主人公","I see!
 I'll ask you out another time then.");
     VoicePlay("J030100001_01_040");
-    MsgDisp("Kazama","Sorry. Let's go out again?
+    MsgDisp("Kazama","Sorry.
+Let's go out again?
 Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
@@ -38,7 +39,8 @@ today......)");
     MsgDisp("Kazama","I can't go out on that day.");
     MsgDisp("主人公","Eh, why?");
     VoicePlay("J030100001_01_060");
-    MsgDisp("Kazama","If I could cancel, I'd do it. But I can't.
+    MsgDisp("Kazama","If I could cancel, I'd do it.
+But I can't.
 Sorry.");
     MsgDisp("主人公","No, that's my bad......
 Talk to you later?");

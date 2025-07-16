@@ -10,7 +10,8 @@ SEWait();
 ChOpen(1,254,0,0,2,#1,#1,0,0);
 VoicePlay("P740100003_01_000");
 MsgDisp("Kazama","You're not injured, are you?");
-MsgDisp("主人公","Ah, ｛風真＊＊｝... Yeah, I'm okay.");
+MsgDisp("主人公","Ah, ｛風真＊＊｝...
+Yeah, I'm okay.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

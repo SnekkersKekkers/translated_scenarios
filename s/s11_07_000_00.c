@@ -8,7 +8,9 @@ ChMouth(7,4);
 ChMotion(7,3);
 VoicePlay("S110700000_07_000");
 MsgDisp("Mikage","......Very Bad Luck?");
-MsgDisp("主人公","Eeeh∋ ｛御影＊＊｝, are you okay?");
+MsgDisp("主人公","Eeeh∋
+｛御影＊＊｝, are you
+okay?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -21,7 +23,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("S110700000_07_020");
 MsgDisp("Mikage","That's \"Mikage's Theory of Fortunes\".");
-MsgDisp("主人公","Ehーhmm......What is that?");
+MsgDisp("主人公","Ehーhmm......
+What is that?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -29,8 +32,9 @@ VoicePlay("S110700000_07_030");
 MsgDisp("Mikage","Even if one person draws Bad Luck, if the
 other person gets Good Luck then the two
 will neutralize each other.");
-MsgDisp("主人公","Yes...... I see...... But what if they're
-both Bad Luck?");
+MsgDisp("主人公","Yes......
+I see......
+But what if they're both Bad Luck?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

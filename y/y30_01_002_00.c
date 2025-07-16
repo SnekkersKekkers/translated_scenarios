@@ -2,8 +2,9 @@ MsgType(3);
 BGOpen("ad120",0);
 BGMPlay("BGM_C01_RYOUTA_D",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","\"Hey...... It's hard to eat when
-you're staring at me like that.\"");
+MsgDisp("主人公","\"Hey......
+It's hard to eat when you're staring
+at me like that.\"");
 VoicePlay("Y300100200_01_000");
 MsgDisp("Kazama","(It was the same face she had when we
 dug up sweet potatoes in
@@ -30,8 +31,9 @@ MsgClear();
 VoicePlay("Y300100200_01_010");
 MsgDisp("Ryota","\"Ready, go!\"");
 MsgClear();
-MsgDisp("主人公","\"Wow...... Look how big the potatoes
-are! Thank you!\"");
+MsgDisp("主人公","\"Wow......
+Look how big the potatoes are!
+Thank you!\"");
 MsgDisp("","She had mud on her face and was
 laughing. I remember laughing along
 too when I saw her face like that.");
@@ -55,9 +57,9 @@ MsgDisp("","Every time I see her, her magic makes
 the time from 10 years ago and the
 present come together perfectly.");
 MsgClear();
-MsgDisp("主人公","\"Next time I'll prepare ｛風真＊＊｝
-a surprise too.
-What would you like?\"");
+MsgDisp("主人公","\"Next time I'll prepare
+｛風真＊＊｝ a surprise
+too. What would you like?\"");
 MsgDisp("","Whether it's surprises or things I
 like, just by being with you, I
 already have it all, you know?");

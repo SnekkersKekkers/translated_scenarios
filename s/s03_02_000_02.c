@@ -13,7 +13,8 @@ trouble of inviting me......");
 It's fine.
 Okay then, see you later?");
     VoicePlay("S030200002_02_020");
-    MsgDisp("Sassa","Yeah. See you later.");
+    MsgDisp("Sassa","Yeah.
+See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(I guess it can't be helped......

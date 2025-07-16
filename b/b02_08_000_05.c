@@ -11,5 +11,5 @@ ChMouth(8,4);
 VoicePlay("B020800005_08_010");
 MsgDisp("Shirahane","Ya should try that kind of thing out in
 private, not on a date.");
-MsgDisp("主人公","(Urgh... I'm wearing too little
-clothing...)");
+MsgDisp("主人公","(Urgh...
+I'm wearing too little clothing...)");

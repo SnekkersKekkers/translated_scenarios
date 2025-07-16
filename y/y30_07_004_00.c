@@ -120,7 +120,8 @@ MsgDisp("","I was concerned, thinking they were
 students in a difficult circumstance,
 but...");
 MsgDisp("","\"Maybe, I'm the one being included in
-their group of friends. ...Maybe?\"");
+their group of friends.
+... Maybe?\"");
 MsgDisp("","Yanosuke, Inori, thank you.");
 BGMStop();
 MsgClear();

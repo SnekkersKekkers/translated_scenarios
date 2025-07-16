@@ -38,8 +38,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360550101_05_030");
-MsgDisp("Hiiragi","So,
-shall we play at this park?");
+MsgDisp("Hiiragi","So, shall we play at this park?");
 MsgDisp("主人公","Hehe, okay!");
 MsgClose();
 ScrFadeOut(0,0);
@@ -80,8 +79,7 @@ MsgDisp("Hiiragi","Otherwise, I'm afraid it'll be morning
 again.");
 ChEye(5,3);
 VoicePlay("B360550101_05_080");
-MsgDisp("Hiiragi","Or maybe I've just grown into
-an old man?");
+MsgDisp("Hiiragi","Or maybe I've just grown into an old man?");
 MsgDisp("主人公","(｛柊＊＊＊｝, you sound like Urashima
 Taro......)");
 BGMStop();

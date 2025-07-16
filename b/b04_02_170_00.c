@@ -37,7 +37,7 @@ Let's have fun singing together.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040217000_02_030");
-    MsgDisp("Sassa","Yeah, I could do that forever. ");
+    MsgDisp("Sassa","Yeah, I could do that forever.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

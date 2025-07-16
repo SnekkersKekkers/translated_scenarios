@@ -12,7 +12,8 @@ Who is it?");
     VoicePlay("S040500000_05_000");
     MsgDisp("Hiiragi","Hello.
 It's Hiiragi.");
-    MsgDisp("主人公","｛柊＊＊＊｝? Happy New Years!");
+    MsgDisp("主人公","｛柊＊＊＊｝?
+Happy New Years!");
     VoicePlay("S040500000_05_010");
     MsgDisp("Hiiragi","Happy New Years.
 I was thinking about going to the shrine.
@@ -57,15 +58,16 @@ Who is it?");
     SEStop("EV_SE_579",0);
     SEWait();
     VoicePlay("S040500000_05_050");
-    MsgDisp("Hiiragi","Hello. It's Hiiragi.
+    MsgDisp("Hiiragi","Hello.
+It's Hiiragi.
 Happy New Year.");
     MsgDisp("主人公","Happy New Years, ｛柊＊＊＊｝!");
     VoicePlay("S040500000_05_060");
     MsgDisp("Hiiragi","Such a cheerful voice on the first day of
 the year.
 I'm happy to hear it.");
-    MsgDisp("主人公","Hehe, I'm happy to hear ｛柊＊＊＊｝'s
-voice too.");
+    MsgDisp("主人公","Hehe, I'm happy to hear
+｛柊＊＊＊｝'s voice too.");
     VoicePlay("S040500000_05_070");
     MsgDisp("Hiiragi","How about we both go and cheerfully say
 hello to the gods?");
@@ -96,8 +98,7 @@ Now then, what should I wear?)");
         MsgDisp("Hiiragi","Just hearing your voice is already half of
 my New Year's goal.");
         VoicePlay("S040500000_05_120");
-        MsgDisp("Hiiragi","I hope to see you
-again this year.");
+        MsgDisp("Hiiragi","I hope to see you again this year.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through the trouble

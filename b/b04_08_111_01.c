@@ -44,7 +44,8 @@ I love skatin'.");
     ChMotion(8,2,1);
     VoicePlay("B040811101_08_030");
     MsgDisp("Shirahane","Like how I'll also fall on ice?
-...No, no, that's not a good thing at all!");
+... No, no, that's not a good thing at
+all!");
     MsgDateResultDisp();
     break ;
     default :

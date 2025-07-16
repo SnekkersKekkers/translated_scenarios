@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040606501_06_010");
     MsgDisp("Himuro","You mean you still plan on seeing me even
 after you graduate?
-...Well, that's fine.");
+... Well, that's fine.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

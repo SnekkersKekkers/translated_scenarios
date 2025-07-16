@@ -26,8 +26,9 @@ to be a spirit in a pond, right?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040108501_01_020");
-    MsgDisp("Kazama","Yeah, I do. ... Hey, wait! I don't have an
-axe or anything.");
+    MsgDisp("Kazama","Yeah, I do.
+... Hey, wait!
+I don't have an axe or anything.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

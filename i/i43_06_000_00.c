@@ -1,7 +1,8 @@
 BGOpen("ar200",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","My name is ｛主人公苗字｝.
+MsgDisp("主人公","My name is
+｛主人公苗字｝.
 It's my pleasure to work here starting
 today.");
 VoicePlay("I430600000_49_000");
@@ -21,7 +22,8 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_000");
     MsgDisp("Himuro","......Huh.");
-    MsgDisp("主人公","Hm, ｛氷室＊＊｝∋ Why are you here?");
+    MsgDisp("主人公","Hm, ｛氷室＊＊｝∋
+Why are you here?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -64,7 +66,8 @@ Alright, I'll do my best!)");
     ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_050");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","｛氷室＊＊｝∋ You work here?");
+    MsgDisp("主人公","｛氷室＊＊｝∋
+You work here?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

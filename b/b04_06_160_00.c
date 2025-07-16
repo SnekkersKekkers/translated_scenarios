@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040616000_06_010");
-    MsgDisp("Himuro","...Take care to
-not get so frantic.");
+    MsgDisp("Himuro","...Take care to not get so frantic.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

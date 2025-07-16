@@ -1,7 +1,7 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛御影＊＊｝ said he would give me
-some extracurricular handouts......)");
+MsgDisp("主人公","(｛御影＊＊｝ said he would give me some
+extracurricular handouts......)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -29,8 +29,8 @@ VoicePlay("G110700200_07_010");
 MsgDisp("Mikage","As expected of Miss Diligent, who's
 willing to accompany me in the
 extracurricular class.");
-MsgDisp("主人公","It's because ｛御影＊＊｝ isn't in the
-staffroom much.");
+MsgDisp("主人公","It's because ｛御影＊＊｝
+isn't in the staffroom much.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -46,9 +46,9 @@ VoicePlay("G110700200_07_030");
 MsgDisp("Mikage","That's right.
 Even if I haven't done anything I'll get
 in trouble just for dressing like this.");
-MsgDisp("主人公","Hehe. ......Ah, I came to collect the
-handouts for our extracurricular
-activities.");
+MsgDisp("主人公","Hehe.
+...... Ah, I came to collect the handouts
+for our extracurricular activities.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

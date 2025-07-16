@@ -36,14 +36,15 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("F020100011_01_030");
-MsgDisp("Kazama","Hah... What about hanging out together?
+MsgDisp("Kazama","Hah...
+What about hanging out together?
 You didn't mention any of that.");
 MsgDisp("主人公","Yes, we can do that!");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F020100011_01_040");
-MsgDisp("Kazama","It's always 'we can do that!'.
+MsgDisp("Kazama","It's always 'we can do that! '.
 It's just like you.");
 MsgDisp("主人公","(...I guess I'll start with Christmas
 preparations? I hope it's a fulfilling

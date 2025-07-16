@@ -21,8 +21,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030123002_01_010");
-    MsgDisp("Kazama","Right. Let's find a good spot to watch
-from.");
+    MsgDisp("Kazama","Right.
+Let's find a good spot to watch from.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);
@@ -33,8 +33,9 @@ from.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B030123002_01_020");
-    MsgDisp("Kazama","Okay. Being out too late isn't safe. Let's
-head back.");
+    MsgDisp("Kazama","Okay.
+Being out too late isn't safe.
+Let's head back.");
     MsgDispSksp(0);
     break ;
     default :

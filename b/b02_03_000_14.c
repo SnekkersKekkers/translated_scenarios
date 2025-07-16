@@ -12,5 +12,5 @@ VoicePlay("B020300014_03_010");
 MsgDisp("Honda","Coincidences like this can happen∋ The
 chances we'd the same clothes, and wear
 them simultaneously... that's really rare!");
-MsgDisp("主人公","(Do ｛本多＊＊｝ and I have similar tastes
-in clothes?)");
+MsgDisp("主人公","(Do ｛本多＊＊｝ and I have
+similar tastes in clothes?)");

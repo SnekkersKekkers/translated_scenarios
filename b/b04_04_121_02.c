@@ -10,8 +10,7 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040412102_04_000");
-MsgDisp("Nanatsumori","Is there anything 
-you want to look at?");
+MsgDisp("Nanatsumori","Is there anything you want to look at?");
 MsgSel("Whatever ｛七ツ森＊｝ wants to see","Maybe some daily necessities","I'm kind of interested in some second hand clothes");
 switch (MsgSelRsltGet()){
     case 0:
@@ -25,7 +24,8 @@ switch (MsgSelRsltGet()){
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_010");
-        MsgDisp("Nanatsumori","Me? I'll just be looking for vintage stuff
+        MsgDisp("Nanatsumori","Me?
+I'll just be looking for vintage stuff
 though.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
@@ -64,14 +64,16 @@ salesperson?");
         ChMotion(4,1,1);
         VoicePlay("B040412102_04_050");
         MsgDisp("Nanatsumori","Right.
-...Huh? Didn't you notice?");
+... Huh?
+Didn't you notice?");
         MsgDisp("主人公","Notice?");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_060");
-        MsgDisp("Nanatsumori","Well... that's fine. That person's silver
-accessories has a warmth to them.");
+        MsgDisp("Nanatsumori","Well... that's fine.
+That person's silver accessories has a
+warmth to them.");
         ChEye(4,4);
         ChMouth(4,4);
         VoicePlay("B040412102_04_070");
@@ -129,7 +131,8 @@ yet.");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040412102_04_130");
-    MsgDisp("Nanatsumori","Eh... Is that something worth going to the
+    MsgDisp("Nanatsumori","Eh...
+Is that something worth going to the
 trouble of looking for here?");
     MsgDateResultDisp();
     break ;

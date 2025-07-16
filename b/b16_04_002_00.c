@@ -12,8 +12,9 @@ switch (MsgSelRsltGet()){
     NSSEye(4,2);
     NSSMouth(4,3);
     VoicePlay("B160400200_04_010");
-    MsgDisp("Nanatsumori","Then... I guess I'm your knight. I have to
-send you home safely...");
+    MsgDisp("Nanatsumori","Then...
+I guess I'm your knight.
+I have to send you home safely...");
     break ;
     case 1:
     NSSEye(4,3);

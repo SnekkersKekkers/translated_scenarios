@@ -14,8 +14,8 @@ VoicePlay("B360105100_01_000");
 MsgDisp("Kazama","It's quiet huh.
 It's hard to believe it was so noisy just
 a minute ago.");
-MsgDisp("主人公","Hehe. That's because it was s o lively
-today.");
+MsgDisp("主人公","Hehe.
+That's because it was s o lively today.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -28,10 +28,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360105100_01_020");
-MsgDisp("Kazama","So, let's re-do it 
-from the start.");
-MsgDisp("主人公","Hey.. don't you feel 
-bad for everyone?");
+MsgDisp("Kazama","So, let's re-do it from the start.");
+MsgDisp("主人公","Hey.. don't you feel bad for everyone?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -48,8 +46,8 @@ VoicePlay("B360105100_01_040");
 MsgDisp("Kazama","But those guys have good intuition.
 It'll be a pain in the ass if they find
 out.");
-MsgDisp("主人公","｛風真＊＊｝, you seem like you're having
-a lot of fun.");
+MsgDisp("主人公","｛風真＊＊｝, you seem like
+you're having a lot of fun.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

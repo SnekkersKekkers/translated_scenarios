@@ -31,20 +31,22 @@ MsgClose();
 ScrFadeOut(0,0,10);
 StlClose();
 VoicePlay("U170D00000_22_010");
-MsgDisp("Hikaru","Sigh～...... Even though Hikaru's not
-sleepy at all.");
+MsgDisp("Hikaru","Sigh～......
+Even though Hikaru's not sleepy at all.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("U170D00000_21_020");
 MsgDisp("Michiru","Well then Mari, good night.");
 MsgDisp("主人公","｛みちる＊｝, good night.
-｛ひかる＊｝, good night to you too.");
+｛ひかる＊｝, good night
+to you too.");
 VoicePlay("U170D00000_22_020");
 MsgDisp("Hikaru","............");
 MsgDisp("主人公","......?");
 VoicePlay("U170D00000_21_030");
 MsgDisp("Michiru","......Doesn't it feel like we're already
 in a dream?");
-MsgDisp("主人公","(Hehe! The three of us had a lot of fun
-talking about all sorts of things......)");
+MsgDisp("主人公","(Hehe!
+The three of us had a lot of fun talking
+about all sorts of things......)");
 MsgClose();
 ScrFadeOut(0,0);

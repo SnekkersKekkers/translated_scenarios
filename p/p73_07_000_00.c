@@ -8,14 +8,14 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous...)");
+the runway...
+I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700000_07_000");
-    MsgDisp("Mikage","Might it be, 
-that you're nervous?");
+    MsgDisp("Mikage","Might it be, that you're nervous?");
     MsgDisp("主人公","Y-Yes...");
     ChEye(7,0);
     ChMouth(7,3);
@@ -65,16 +65,19 @@ Go.");
     case 4:
     case 5:
     MsgDisp("主人公","I finished just in time but, it's finally
-the runway...I'm nervous...)");
+the runway...
+I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P730700000_07_070");
-    MsgDisp("Mikage","｛主人公｝. That's quite nicely done
-isn't it, those clothes?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! Is it really...?");
+    MsgDisp("Mikage","｛主人公｝.
+That's quite nicely done isn't it, those
+clothes?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Is it really...?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -97,9 +100,9 @@ walk.");
     MsgDisp("Mikage","Hey, hold your head high and go.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Seems like after talking to
-｛御影＊＊｝ my anxieties seem to have
-been relieved. Alright, let's do our
-best!)");
+｛御影＊＊｝ my anxieties
+seem to have been relieved. Alright, let's
+do our best!)");
     break ;
     default :
     DbgAssert(1);

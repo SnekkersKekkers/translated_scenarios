@@ -24,7 +24,7 @@ Wait(60);
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("T040620000_02_000");
-MsgDisp("Sassa","......Yes, this strengthens your core as
+MsgDisp("Sassa","...... Yes, this strengthens your core as
 you ride on top of the waves.
 Sounds fun, huh?");
 StlEye(6,1);

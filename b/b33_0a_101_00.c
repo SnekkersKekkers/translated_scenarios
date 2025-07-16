@@ -23,7 +23,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A10100_02_000");
 VoiceEVSPlay(2);
-MsgDisp("Sassa","You liked this shop, right, ｛主人公｝?");
+MsgDisp("Sassa","You liked this shop, right,
+｛主人公｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -61,8 +62,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B330A10100_02_020");
-MsgDisp("Sassa","Ryota is also interested
-in cosmetics huh?");
+MsgDisp("Sassa","Ryota is also interested in cosmetics huh?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -72,8 +72,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("B330A10100_06_010");
-MsgDisp("Himuro","Pfft. Hey, this is because you're telling
-weird lies.");
+MsgDisp("Himuro","Pfft.
+Hey, this is because you're telling weird
+lies.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

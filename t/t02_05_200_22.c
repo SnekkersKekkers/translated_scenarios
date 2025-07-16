@@ -9,7 +9,8 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,9);
 VoiceEVSPlay(5);
 VoicePlay("T020520022_05_000");
-MsgDisp("Hiiragi","｛主人公｝, what's the matter?");
+MsgDisp("Hiiragi","｛主人公｝, what's the
+matter?");
 MsgDisp("主人公","I was worried I couldn't fully express it
 in words......
 I also like ｛柊＊＊＊｝.");
@@ -29,14 +30,15 @@ ChEye(5,3);
 ChMouth(5,4);
 ChCheek(5,0);
 VoicePlay("T020520022_05_020");
-MsgDisp("Hiiragi","Hehe. I got a reply in a way that's very
-typical of you——");
+MsgDisp("Hiiragi","Hehe.
+I got a reply in a way that's very typical
+of you——");
 ChEye(5,4);
 VoicePlay("T020520022_05_030");
 MsgDisp("Hiiragi","I think Inori-kun and Mikage-sensei will
 be surprised.");
-MsgDisp("主人公","Eehhh∋ I wish you wouldn't tell them
-that......");
+MsgDisp("主人公","Eehhh∋
+I wish you wouldn't tell them that......");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);

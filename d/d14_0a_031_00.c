@@ -2,8 +2,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D140A03100_01_000");
-MsgDisp("Kazama","I thought Sassa
-would eat a lot more.");
+MsgDisp("Kazama","I thought Sassa would eat a lot more.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -17,8 +16,9 @@ ChEyeOpenLevel(2,7);
 VoicePlay("D140A03100_02_000");
 MsgDisp("Sassa","What do you mean by normal?
 You guys are so rude.");
-MsgDisp("主人公","Hehe! Yeah, I definitely imagined he would
-eat a lot more.");
+MsgDisp("主人公","Hehe!
+Yeah, I definitely imagined he would eat a
+lot more.");
 ChMouth(1,3);
 ChEye(2,0);
 ChMouth(2,0);
@@ -40,8 +40,8 @@ MsgDisp("Himuro","Nozomu-senpai is a glutton and...
 Ryota-senpai is a fussy eater.");
 ChEye(1,0);
 ChMouth(1,2);
-MsgDisp("主人公","｛風真＊＊｝ definitely has quite
-sensitive tastes?");
+MsgDisp("主人公","｛風真＊＊｝ definitely has
+quite sensitive tastes?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

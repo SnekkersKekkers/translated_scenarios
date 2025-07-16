@@ -4,7 +4,8 @@ ChMotion(1,0);
 VoicePlay("B020102116_01_000");
 MsgDisp("Kazama","That kind of fashion cheers up everyone
 around you.");
-MsgDisp("主人公","Does it cheer you up too, ｛風真＊＊｝?");
+MsgDisp("主人公","Does it cheer you up too,
+｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);

@@ -19,9 +19,9 @@ This apple compote......");
     MsgDisp("主人公","Huh?");
     ChMouth(4,3);
     VoicePlay("I360400008_04_010");
-    MsgDisp("Nanatsumori","Delicious. The sweetness is just right,
-and you can still feel the texture of the
-apples.");
+    MsgDisp("Nanatsumori","Delicious.
+The sweetness is just right, and you can
+still feel the texture of the apples.");
     ChMotion(4,1,1);
     VoicePlay("I360400008_04_020");
     MsgDisp("Nanatsumori","It's great with the ice cream, too.
@@ -38,7 +38,8 @@ Thanks!");
 recipe with the manager.");
     ChMouth(4,4);
     VoicePlay("I360400008_04_040");
-    MsgDisp("Nanatsumori","Wow. No wonder I thought it was a little
+    MsgDisp("Nanatsumori","Wow.
+No wonder I thought it was a little
 different than the usual Alucard stuff.");
     MsgDisp("主人公","Huh, meaning......");
     ChEye(4,0);
@@ -107,8 +108,8 @@ a waitress is what I meant, of course.");
     MsgDisp("Nanatsumori","My, my......
 I'd be happy even if you said \"that's not
 it\", you know?");
-    MsgDisp("主人公","(｛七ツ森＊｝...... I'm glad I worked
-hard at Alucard!)");
+    MsgDisp("主人公","(｛七ツ森＊｝......
+I'm glad I worked hard at Alucard!)");
     break ;
     default :
     DbgAssert(1);

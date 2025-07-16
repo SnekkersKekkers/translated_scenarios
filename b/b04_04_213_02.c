@@ -6,8 +6,9 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040421302_04_000");
-MsgDisp("Nanatsumori","Amazingー... This might be the first time
-I've been this popular with cats.");
+MsgDisp("Nanatsumori","Amazingー...
+This might be the first time I've been
+this popular with cats.");
 MsgSel("They're really friendly, right?","You normally aren't popular, huh?","I might get jealous...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040421302_04_010");
-    MsgDisp("Nanatsumori","Right. ...It would be nice if the cats in
-my neighborhood were this friendlyー.");
+    MsgDisp("Nanatsumori","Right.
+... It would be nice if the cats in my
+neighborhood were this friendlyー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -83,7 +85,8 @@ It escaped.");
         ChMotion(4,0,1);
         VoiceEVSPlay(4);
         VoicePlay("B040421302_04_070");
-        MsgDisp("Nanatsumori","｛主人公｝. Come hereー.");
+        MsgDisp("Nanatsumori","｛主人公｝.
+Come hereー.");
         MsgDisp("主人公","You're still going with this....");
         ChEye(4,3);
         ChMouth(4,3);

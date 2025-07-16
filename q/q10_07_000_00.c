@@ -21,8 +21,8 @@ VoicePlay("Q100700000_07_010");
 MsgDisp("Mikage","I can't believe that thing was built
 around the 17th century, it's
 unbelievable.");
-MsgDisp("主人公","It's a centuries old bridge......
-so it's very sturdy.");
+MsgDisp("主人公","It's a centuries old bridge...... so it's
+very sturdy.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -77,7 +77,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3);
 VoicePlay("Q100700000_22_020");
-MsgDisp("Hikaru","Agree～d♪
+MsgDisp("Hikaru","Agree～ d♪
 Let's go, Mari!");
 MsgDisp("主人公","Huh!");
 ChEye(21,0);
@@ -114,9 +114,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q100700000_07_070");
-MsgDisp("Mikage","...... Phew. It's hard to do
-extracurricular lessons when you have more
-participants.");
+MsgDisp("Mikage","...... Phew.
+It's hard to do extracurricular lessons
+when you have more participants.");
 MsgDisp("主人公","Hehe, but it was very fun.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -125,8 +125,8 @@ VoicePlay("Q100700000_07_080");
 MsgDisp("Mikage","I see.
 You could have gone with the Hanatsubakis,
 y'know?");
-MsgDisp("主人公","No, I can't.
-｛みちる＊｝ and ｛ひかる＊｝ are
+MsgDisp("主人公","No, I can't. ｛みちる＊｝
+and ｛ひかる＊｝ are
 too busy buying souvenirs.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -143,8 +143,7 @@ ChMotion(7,0);
 VoicePlay("Q100700000_07_100");
 MsgDisp("Mikage","The only ones waiting for me at home are
 the plants, so.");
-MsgDisp("主人公","Will you give a souvenir to the
-plants?");
+MsgDisp("主人公","Will you give a souvenir to the plants?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

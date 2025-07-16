@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040311100_03_010");
-        MsgDisp("Honda","Niceー! I wish I could skate like youー. I
-admire you.");
+        MsgDisp("Honda","Niceー!
+I wish I could skate like youー.
+I admire you.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);

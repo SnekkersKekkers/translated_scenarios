@@ -22,8 +22,7 @@ switch (MsgSelRsltGet()){
         ChMouth(7,4);
         ChMotion(7,1);
         VoicePlay("B040703102_07_010");
-        MsgDisp("Mikage","That's funny,
-but also pretty bad.");
+        MsgDisp("Mikage","That's funny, but also pretty bad.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -34,15 +33,15 @@ but also pretty bad.");
         ChMotion(7,5);
         VoiceEVSPlay(7);
         VoicePlay("B040703102_07_020");
-        MsgDisp("Mikage","｛主人公｝, stay here for a bit.");
+        MsgDisp("Mikage","｛主人公｝, stay here for
+a bit.");
         MsgDisp("主人公","Y-Yes.
 I'm sorry.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,4);
         VoicePlay("B040703102_07_030");
-        MsgDisp("Mikage","Everyone, 
-feel free to look around.");
+        MsgDisp("Mikage","Everyone, feel free to look around.");
         SEPlay("EV_SE_566",1,0.6);
         SEPlay("EV_SE_FOOT_WALK_AWAY_MANY",0.1,0.3);
         Wait(70,0);
@@ -84,7 +83,7 @@ apologize when it's absolutely necessary.");
         VoicePlay("B040703102_07_080");
         MsgDisp("Mikage","I'll buy you a Giant Isopod pen set.");
         MsgDisp("主人公","(｛御影＊＊｝ is kind.
-...But let's be more careful about
+... But let's be more careful about
 forgetting things.)");
         break ;
         default :
@@ -98,8 +97,8 @@ forgetting things.)");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040703102_07_090");
-    MsgDisp("Mikage","Aaah, right...
-keep it within reason, okay?");
+    MsgDisp("Mikage","Aaah, right... keep it within reason,
+okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

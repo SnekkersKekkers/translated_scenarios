@@ -8,7 +8,8 @@ ChOpen(2,34,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("R080200000_02_000");
-MsgDisp("Sassa","｛主人公｝. Hey.");
+MsgDisp("Sassa","｛主人公｝.
+Hey.");
 MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -111,16 +112,18 @@ StlEye(2,0,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("R080200000_02_130");
-MsgDisp("Sassa","I... I can't stop!
+MsgDisp("Sassa","I...
+I can't stop!
 I'm off.");
 MsgDisp("主人公","Huh?");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("R080200000_02_140");
-MsgDisp("Sassa","Manager. It's been a while so,
-time me.");
+MsgDisp("Sassa","Manager.
+It's been a while so, time me.");
 MsgDisp("主人公","Hehe, okay.
-... Ready?　Aaand, go.");
+... Ready?
+Aaand, go.");
 SEPlay("EV_SE_808",0,0.9,1.1);
 MsgClose();
 ScrFadeOut(0);

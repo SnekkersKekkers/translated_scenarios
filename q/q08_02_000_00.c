@@ -59,8 +59,7 @@ tomorrow together too, okay?");
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("Q080200000_02_060");
-    MsgDisp("Sassa","Good,
-I'll see you back here!");
+    MsgDisp("Sassa","Good, I'll see you back here!");
     break ;
     default :
     DbgAssert(1);

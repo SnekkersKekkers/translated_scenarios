@@ -7,7 +7,8 @@ Minoru-kun, you're quitting?");
 VoicePlay("F100430001_04_000");
 MsgDisp("Nanatsumori?","No...
 I haven't decided yet.");
-MsgDisp("主人公","(Hm? This voice...)");
+MsgDisp("主人公","(Hm?
+This voice...)");
 VoicePlay("F100430001_22_010");
 MsgDisp("Hikaru?","Then what are you going to do with that
 wig and outfit?
@@ -68,13 +69,13 @@ VoicePlay("F100430001_22_040");
 MsgDisp("Hikaru","Oh no...
 I thought she found out long ago and were
 having this kind of girl talk.");
-MsgDisp("主人公","(Girl talk with ｛七ツ森＊｝? )");
+MsgDisp("主人公","(Girl talk with
+｛七ツ森＊｝? )");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("F100430001_04_050");
-MsgDisp("Nanatsumori","Hikaru-san, it's time
-to tone it down...");
+MsgDisp("Nanatsumori","Hikaru-san, it's time to tone it down...");
 ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,1,1);
@@ -85,8 +86,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100430001_22_060");
-MsgDisp("Hikaru","I mean, Mari.
-you're too oblivious～!");
+MsgDisp("Hikaru","I mean, Mari. you're too oblivious～!");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

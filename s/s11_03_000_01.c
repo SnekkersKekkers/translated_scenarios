@@ -8,7 +8,7 @@ ChMotion(3,0,1);
 VoicePlay("S110300001_03_000");
 MsgDisp("Honda","Very Bad Luck......");
 MsgDisp("主人公","Eehh∋
-......Will you be okay?");
+...... Will you be okay?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

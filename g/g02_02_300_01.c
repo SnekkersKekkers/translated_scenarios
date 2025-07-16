@@ -25,18 +25,20 @@ ChMotion(2,0);
 VoicePlay("G020230001_02_030");
 MsgDisp("Sassa","I'm going to tell them that I came here
 with you right away.");
-MsgDisp("主人公","Ehh? You're telling them?");
+MsgDisp("主人公","Ehh?
+You're telling them?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230001_02_040");
-MsgDisp("Sassa","Yeah. Inori might not believe me, so I'll
-need you to back me up.");
+MsgDisp("Sassa","Yeah.
+Inori might not believe me, so I'll need
+you to back me up.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230001_02_050");
-MsgDisp("Sassa","......Same goes for Ryota.
+MsgDisp("Sassa","...... Same goes for Ryota.
 If they come, it's exactly as I predicted.");
 ChEye(2,4);
 ChMouth(2,3);

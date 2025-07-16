@@ -6,7 +6,8 @@ ChOpen(8,35,0,3,4,10,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(8);
 VoicePlay("D020800000_08_000");
-MsgDisp("Shirahane","｛主人公｝, can I ask ya something?");
+MsgDisp("Shirahane","｛主人公｝, can I ask ya
+something?");
 MsgDisp("主人公","Eh, what is it?");
 ChEye(8,4);
 ChMotion(8,2,1);
@@ -16,9 +17,9 @@ school——");
 VoicePlay("D020800000_08_020");
 MsgDisp("Shirahane","About some \"Young Master\" at Haba Academy,
 a charismatic salesmen with great style?");
-MsgDisp("主人公","(Is he maybe talking about ｛風真＊＊｝
-and his part-time job at General Store
-Simon......?)");
+MsgDisp("主人公","(Is he maybe talking about
+｛風真＊＊｝ and his part-time
+job at General Store Simon......?)");
 ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -51,9 +52,10 @@ MsgDisp("Shirahane","If that's the case then I'd like to
 nominate myself. If you watch me I'm sure
 you'll see that I'm just as good as \"Haba
 High's Young Master\"～?");
-MsgDisp("主人公","(Hehe! ｛風真＊＊｝ and ｛大地＊＊｝ are
-completely different, but I think I can
-see it......!)");
+MsgDisp("主人公","(Hehe! ｛風真＊＊｝ and
+｛大地＊＊｝ are completely
+different, but I think I can see
+it......!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

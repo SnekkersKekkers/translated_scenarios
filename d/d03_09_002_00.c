@@ -48,8 +48,7 @@ ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,0);
 VoicePlay("D030900200_31_040");
-MsgDisp("Goro","I'll give you a hint for a reunion,
-then.");
+MsgDisp("Goro","I'll give you a hint for a reunion, then.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);

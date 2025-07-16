@@ -18,8 +18,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("K020201100_02_010");
-MsgDisp("Sassa","Not \"Hm?\".
-It's your special day.");
+MsgDisp("Sassa","Not \"Hm?\"
+. It's your special day.");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(2,0);
@@ -42,8 +42,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("K020201100_02_040");
-MsgDisp("Sassa","Yeah. But you know, I'm glad we spent a
-special day like your birthday together.");
+MsgDisp("Sassa","Yeah.
+But you know, I'm glad we spent a special
+day like your birthday together.");
 MsgDisp("主人公","Yeah, I'm glad too.");
 ChEye(2,3);
 ChMouth(2,4);
@@ -55,7 +56,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 Wait(30);
-MsgDisp("主人公","(What a great birthday! I'm happy I got a
-present from ｛颯砂＊＊｝. )");
+MsgDisp("主人公","(What a great birthday!
+I'm happy I got a present from
+｛颯砂＊＊｝. )");
 MsgClose();
 ScrFadeOut(0,0);

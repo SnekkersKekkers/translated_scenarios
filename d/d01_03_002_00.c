@@ -1,9 +1,9 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Phew, I had a big lunch.
-I think I'll spend the rest of my break on
-the rooftop.)");
+MsgDisp("主人公","(......Phew, I had a big lunch. I think
+I'll spend the rest of my break on the
+rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -37,9 +37,9 @@ StlEye(3,1);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);
 VoicePlay("D010300200_03_020");
-MsgDisp("Honda","Actually...... My little sister just got
-accepted into her first choice junior high
-school!");
+MsgDisp("Honda","Actually......
+My little sister just got accepted into
+her first choice junior high school!");
 MsgDisp("主人公","Wow, that's awesome!
 Congrats!");
 StlEye(3,0);
@@ -68,8 +68,9 @@ MsgClose();
 ChOpen(3,254,0,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010300200_03_050");
-MsgDisp("Honda","She always says......\"Thank you for the
-unnecessary explanation......\"");
+MsgDisp("Honda","She always says......\"
+Thank you for the unnecessary
+explanation......\"");
 MsgDisp("主人公","Hehe!");
 ChEye(3,1);
 ChMouth(3,4);
@@ -77,8 +78,9 @@ ChMotion(3,1,1);
 VoicePlay("D010300200_03_060");
 MsgDisp("Honda","Ahh, don't laugh～
 That hurts.");
-MsgDisp("主人公","Sorry. But I think your sister is just
-being shy. She actually relies on you.");
+MsgDisp("主人公","Sorry.
+But I think your sister is just being shy.
+She actually relies on you.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -105,8 +107,9 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 Wait(30,0);
 VoicePlay("D010300200_03_100");
-MsgDisp("Honda","Ah, lunch is almost over∋ I need to go
-buy something to eat. Cya～!");
+MsgDisp("Honda","Ah, lunch is almost over∋
+I need to go buy something to eat.
+Cya～!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

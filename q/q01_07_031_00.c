@@ -6,7 +6,8 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("Q010703100_07_000"); 
 MsgDisp("Mikage","What are you doing?
 Go back to your room already.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝. Will do!");
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Will do!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -22,8 +23,8 @@ VoicePlay("Q010703100_07_020");
 MsgDisp("Mikage","Things like quietly slipping into your
 futon and having girl talk?
 Even I know of that.");
-MsgDisp("主人公","｛御影＊＊｝ has experience with that
-as well?");
+MsgDisp("主人公","｛御影＊＊｝ has
+experience with that as well?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

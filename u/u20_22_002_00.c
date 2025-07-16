@@ -10,8 +10,9 @@ ChMotion(22,3,1);
 VoicePlay("U202200200_22_000");
 MsgDisp("Hikaru","The love seat was really comfy.
 Wasn't it♪");
-MsgDisp("主人公","Hehe! I wonder if it's okay for two girls
-to sit there together?");
+MsgDisp("主人公","Hehe!
+I wonder if it's okay for two girls to sit
+there together?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

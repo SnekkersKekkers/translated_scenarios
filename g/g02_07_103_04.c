@@ -9,10 +9,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710304_07_010");
-MsgDisp("Mikage","......So, 
-what present do you want?");
-MsgDisp("主人公","If it's something ｛御影＊＊｝ chooses,
-I would be happy with anything.");
+MsgDisp("Mikage","......So, what present do you want?");
+MsgDisp("主人公","If it's something
+｛御影＊＊｝ chooses, I
+would be happy with anything.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -48,9 +48,11 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710304_07_060");
 MsgDisp("Mikage","That's what your heart's voice wants,
-right? Understood.");
-MsgDisp("主人公","(I'm looking forwards to ｛御影＊＊｝
-'s present now!)");
+right?
+Understood.");
+MsgDisp("主人公","(I'm looking forwards to
+｛御影＊＊｝ 's present
+now!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

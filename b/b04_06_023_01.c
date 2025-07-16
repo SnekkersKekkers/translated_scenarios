@@ -1,8 +1,7 @@
 MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040602301_06_000");
-MsgDisp("Himuro","The sea makes me
-feel so small.");
+MsgDisp("Himuro","The sea makes me feel so small.");
 MsgSel("What if you're actually just small?","It's not like that","Maybe?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -11,7 +10,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602301_06_010");
-    MsgDisp("Himuro","...What are you saying?
+    MsgDisp("Himuro","... What are you saying?
 If you're talking about height, it's a
 work in progress.");
     MsgDateResultDisp();
@@ -32,7 +31,7 @@ Don't just say irresponsible stuff okay?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040602301_06_030");
-    MsgDisp("Himuro","...Hmm, maybe we see it differently?
+    MsgDisp("Himuro","... Hmm, maybe we see it differently?
 It's interesting to see values different
 to my own.");
     MsgDispSksp(1,0);

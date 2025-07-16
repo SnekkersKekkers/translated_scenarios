@@ -9,8 +9,9 @@ MsgClose();
 SEPlay("EV_SE_628");
 Wait(30,0);
 ChOpen(6,30,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝. You're participating in
-the Tug Of War, right?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+You're participating in the Tug Of War,
+right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -34,8 +35,7 @@ SEPlay("EV_SE_844");
 VoicePlay("D010600200_40_030");
 MsgDisp("Male Student A","Oy, is that for real!");
 VoicePlay("D010600200_41_040");
-MsgDisp("Male Student B","Seriously, Himurochi's 
-participating∋");
+MsgDisp("Male Student B","Seriously, Himurochi's participating∋");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -89,13 +89,15 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("D010600200_06_030");
 MsgDisp("Himuro","Of course he's on the enemy team......");
-MsgDisp("主人公","Uhm......｛氷室＊＊｝, good luck, okay?");
+MsgDisp("主人公","Uhm......
+｛氷室＊＊｝, good luck, okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600200_06_040");
-MsgDisp("Himuro","Sigh......I guess I have no choice.");
+MsgDisp("Himuro","Sigh......
+I guess I have no choice.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -117,7 +119,8 @@ VoicePlay("D010600200_38_000");
 MsgDisp("Students","HEAVE-HO!
 HEAVE-HO!");
 MsgDisp("主人公","(It's so intense!
-｛氷室＊＊｝ vs Himuro-sensei......)");
+｛氷室＊＊｝ vs
+Himuro-sensei......)");
 BGMPlay("BGM_C06_INORI_C",0.01);
 MsgClose();
 ScrFadeOut(0);

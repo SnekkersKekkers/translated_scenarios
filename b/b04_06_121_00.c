@@ -21,8 +21,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040612100_06_010");
-    MsgDisp("Himuro","Can you find some
-even within this crowd?");
+    MsgDisp("Himuro","Can you find some even within this crowd?");
     MsgDateResultDisp();
     break ;
     case 1:

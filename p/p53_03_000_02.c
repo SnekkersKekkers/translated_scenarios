@@ -16,9 +16,10 @@ all these last three years?)");
     ChOpen(3,254,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300002_03_000");
-    MsgDisp("Honda","｛主人公｝. You seem composed, huh!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Since it's already third
-year, right?");
+    MsgDisp("Honda","｛主人公｝.
+You seem composed, huh!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Since it's already third year, right?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -35,9 +36,9 @@ year, right?");
     MsgDisp("Honda","I'll be watching from the audience.
 Enjoy the culmination of your hard work of
 the last three years!");
-    MsgDisp("主人公","(Yeah. This has continued for three years,
-so I have to make the last stage a
-success!");
+    MsgDisp("主人公","(Yeah.
+This has continued for three years, so I
+have to make the last stage a success!");
     break ;
     case 4:
     case 5:
@@ -50,14 +51,15 @@ all these last three years?)");
     ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300002_03_030");
-    MsgDisp("Honda","｛主人公｝. I came to see how you were
-doing.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Thank you!");
+    MsgDisp("Honda","｛主人公｝.
+I came to see how you were doing.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Thank you!");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("P530300002_03_040");
-    MsgDisp("Honda","...Huh?
+    MsgDisp("Honda","... Huh?
 You're the same as usual.");
     MsgDisp("主人公","Hehe, is that right?
 Maybe because it's already my third year.");

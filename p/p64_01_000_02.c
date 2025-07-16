@@ -5,7 +5,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("P640100002_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","｛風真＊＊｝, what did you think?");
+MsgDisp("主人公","｛風真＊＊｝, what did you
+think?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

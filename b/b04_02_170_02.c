@@ -58,7 +58,8 @@ Then, why don't we stop singing and eat?");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040217002_02_040");
-        MsgDisp("Sassa","Eh? You've already put in a song?");
+        MsgDisp("Sassa","Eh?
+You've already put in a song?");
         MsgDisp("主人公","Yeah, it's a popular number one after all.");
         ChEye(2,0);
         ChMouth(2,2);
@@ -95,7 +96,7 @@ I think it's somewhat moving.");
         ChMotion(2,4);
         VoicePlay("B040217002_02_080");
         MsgDisp("Sassa","I see.
-...Then, what's your answer?");
+... Then, what's your answer?");
         MsgDisp("主人公","(Ummm...
 When you say answer...)");
         break ;

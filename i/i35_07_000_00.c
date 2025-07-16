@@ -62,8 +62,8 @@ Is something the matter?");
     VoicePlay("I350700000_07_050");
     MsgDisp("Mikage","Nothing much, just the usual.
 Well, one cup of coffee.");
-    MsgDisp("主人公","Understood. Please sit wherever you'd
-like.");
+    MsgDisp("主人公","Understood.
+Please sit wherever you'd like.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     MsgDisp("","　　　　　　　　　　 ・
@@ -76,10 +76,10 @@ like.");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("I350700000_07_060");
-    MsgDisp("Mikage","｛主人公｝. A refill, please.");
-    MsgDisp("主人公","Ah, yes.
-......｛御影＊＊｝, you're taking it
-quite slow today.");
+    MsgDisp("Mikage","｛主人公｝.
+A refill, please.");
+    MsgDisp("主人公","Ah, yes. ......｛御影＊＊｝, you're taking
+it quite slow today.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,4);
@@ -90,10 +90,8 @@ quite slow today.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("I350700000_07_080");
-    MsgDisp("Mikage","I'm killing time
-until things cool down.");
-    MsgDisp("主人公","Are you in
-the middle of something?");
+    MsgDisp("Mikage","I'm killing time until things cool down.");
+    MsgDisp("主人公","Are you in the middle of something?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -116,7 +114,8 @@ near it?");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_100");
     MsgDisp("Mikage","Yo, you're working, huh.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! Welcome!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -131,8 +130,7 @@ though.");
     VoicePlay("I350700000_07_120");
     MsgDisp("Mikage","I guess so.
 Then, like the cultural festival?");
-    MsgDisp("主人公","This is a proper,
-established cafe.");
+    MsgDisp("主人公","This is a proper, established cafe.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -145,10 +143,9 @@ Would you like to have a cake with it?");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("I350700000_07_140");
-    MsgDisp("Mikage","I get it,
-I'll have a cake set, then.");
-    MsgDisp("主人公","Yes! Thank you for your continued
-patronage.");
+    MsgDisp("Mikage","I get it, I'll have a cake set, then.");
+    MsgDisp("主人公","Yes!
+Thank you for your continued patronage.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -157,7 +154,8 @@ patronage.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(ALright! ｛御影＊＊｝ ate a lot of
+    MsgDisp("主人公","(ALright!
+｛御影＊＊｝ ate a lot of
 delicious cakes.)");
     MsgClose();
     ScrFadeOut(0,0);

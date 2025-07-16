@@ -29,8 +29,7 @@ surprised.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040603301_06_020");
-    MsgDisp("Himuro","If anything,
-I think it looks like you?");
+    MsgDisp("Himuro","If anything, I think it looks like you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

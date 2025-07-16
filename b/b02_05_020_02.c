@@ -3,7 +3,8 @@ ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("B020502002_05_000");
 MsgDisp("Hiiragi","I see.");
-MsgDisp("主人公","Hm? What is it?");
+MsgDisp("主人公","Hm?
+What is it?");
 ChMouth(5,2);
 ChMotion(5,2);
 VoicePlay("B020502002_05_010");

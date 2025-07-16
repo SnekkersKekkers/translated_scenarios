@@ -4,8 +4,7 @@ ChMotion(31,1);
 ScrFadeIn(0);
 VoicePlay("P143100000_31_000");
 MsgDisp("Goro","Haa, haa, haa...");
-MsgDisp("主人公","Goro-sensei, 
-are you alright?");
+MsgDisp("主人公","Goro-sensei, are you alright?");
 ChEye(31,1);
 ChMouth(31,1);
 ChMotion(31,0);

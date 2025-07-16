@@ -19,8 +19,9 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("P553200001_32_020");
-MsgDisp("VP Himuro","Good. If that's how you feel, there's a
-future for you.");
+MsgDisp("VP Himuro","Good.
+If that's how you feel, there's a future
+for you.");
 MsgDisp("主人公","Eh?");
 ChEye(32,0);
 ChMouth(32,0);

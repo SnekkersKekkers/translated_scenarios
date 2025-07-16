@@ -41,8 +41,9 @@ something else?");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040406102_04_040");
-        MsgDisp("Nanatsumori","...No.
-Let's swim. ＧＯ!");
+        MsgDisp("Nanatsumori","... No.
+Let's swim.
+ＧＯ!");
         MsgDisp("主人公","But...");
         ChEye(4,0);
         ChMouth(4,0);
@@ -59,8 +60,7 @@ into consideration.");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040406102_04_060");
-        MsgDisp("Nanatsumori","I'm also sorry for
-keeping quiet about it.");
+        MsgDisp("Nanatsumori","I'm also sorry for keeping quiet about it.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);

@@ -11,9 +11,11 @@ BGMPlay("BGM_C01_RYOUTA_D",0.01);
 Wait(60,0);
 VoiceEVSPlay(1);
 VoicePlay("B070101000_01_000");
-MsgDisp("Kazama","｛主人公｝. You asked me what I thought
-about love right?");
-MsgDisp("主人公","Eh... Ah, yeah.");
+MsgDisp("Kazama","｛主人公｝.
+You asked me what I thought about love
+right?");
+MsgDisp("主人公","Eh...
+Ah, yeah.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -67,8 +69,8 @@ ChMotion(1,0);
 VoicePlay("B070101000_01_070");
 MsgDisp("Kazama","...How about it?");
 MsgDisp("主人公","Ummm... before, I just wanted to ask a
-little on ｛風真＊＊｝'s views on love. I
-didn't really think about it too
+little on ｛風真＊＊｝'s views on
+love. I didn't really think about it too
 carefully.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -93,20 +95,19 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_100");
 MsgDisp("Kazama","Haa—, fine.
 Maybe I'm observing you too much.");
-MsgDisp("主人公","But, it could also be as ｛風真＊＊｝
-thinks——");
+MsgDisp("主人公","But, it could also be as
+｛風真＊＊｝ thinks——");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B070101000_01_110");
-MsgDisp("Kazama","Stop it, 
-if you say anything more off──");
+MsgDisp("Kazama","Stop it, if you say anything more off──");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070101000_01_120");
-MsgDisp("Kazama","...I'm more serious about you than
+MsgDisp("Kazama","... I'm more serious about you than
 anything or anyone.
 Just don't forget that.");
 MsgDisp("主人公","｛風真＊＊｝...");
@@ -127,22 +128,21 @@ MsgDisp("主人公","Thanks for walking me home.");
 ChEyeOpenLevel(1,#1);
 VoicePlay("B070101000_01_130");
 MsgDisp("Kazama","Yeah.");
-MsgDisp("主人公","｛風真＊＊｝, I'll think about you
-properly.");
+MsgDisp("主人公","｛風真＊＊｝, I'll think about
+you properly.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070101000_01_140");
-MsgDisp("Kazama","...I see, sorry.
+MsgDisp("Kazama","... I see, sorry.
 That's all I can handle today.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_150");
-MsgDisp("Kazama","I'll go cool down, 
-see you later.");
+MsgDisp("Kazama","I'll go cool down, see you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

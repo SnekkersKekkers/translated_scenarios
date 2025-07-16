@@ -10,8 +10,8 @@ ChMotion(7,0);
 VoicePlay("G020720201_07_010");
 MsgDisp("Mikage","It looks like he's trying hard to make a
 grumpy face.");
-MsgDisp("主人公","That's true, ｛氷室＊＊｝ has that kind of
-side to him.");
+MsgDisp("主人公","That's true, ｛氷室＊＊｝ has that
+kind of side to him.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

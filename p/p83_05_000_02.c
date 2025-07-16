@@ -25,11 +25,13 @@ group after this.");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P830500002_05_000");
     MsgDisp("Hiiragi","I have returned.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Welcome back!");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Welcome back!");
     ChMotion(5,4);
     VoiceEVSPlay(5);
     VoicePlay("P830500002_05_010");
-    MsgDisp("Hiiragi","｛主人公｝, your face looks stern?");
+    MsgDisp("Hiiragi","｛主人公｝, your face
+looks stern?");
     MsgDisp("主人公","EH?");
     ChEye(5,4);
     ChMotion(5,0);
@@ -69,15 +71,16 @@ I'm off!");
     VoicePlay("P830500002_05_030");
     MsgDisp("Hiiragi","Yeah, it really feels like the cultural
 festival is in full swing.");
-    MsgDisp("主人公","｛柊＊＊＊｝, welcome back. ...phew.");
+    MsgDisp("主人公","｛柊＊＊＊｝, welcome back.
+...phew.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P830500002_05_040");
     MsgDisp("Hiiragi","What's wrong, you seem as though you're
 quickly becoming discouraged?");
-    MsgDisp("主人公","Yeah... I can't let our juniors see me
-like this.");
+    MsgDisp("主人公","Yeah...
+I can't let our juniors see me like this.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

@@ -4,9 +4,8 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600200_06_000");
-MsgDisp("Himuro","Ah......Over there.
-A pitch black cat is sitting in the
-corner.");
+MsgDisp("Himuro","Ah......Over there. A pitch black cat is
+sitting in the corner.");
 MsgDisp("主人公","Oh, you're right.
 Come here, kitty.");
 ChEye(6,0);
@@ -55,9 +54,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ScrFadeIn(0);
 MsgDisp("主人公","(I wonder where ｛氷室＊＊｝ went.
-......Ah——)");
+...... Ah——)");
 VoicePlay("B050600200_06_060");
-MsgDisp("Himuro","......Come here.
+MsgDisp("Himuro","...... Come here.
 It's okay.");
 MsgClose();
 ScrFadeOut(0);
@@ -67,8 +66,8 @@ StlEye(6,0);
 StlMouth(6,0);
 ScrFadeIn(0);
 VoicePlay("B050600200_06_070");
-MsgDisp("Himuro","Hey. Do you really like being alone that
-much?");
+MsgDisp("Himuro","Hey.
+Do you really like being alone that much?");
 SEPlay("EV_SE_838");
 SEWait();
 MsgDisp("主人公","(That black cat......
@@ -82,7 +81,7 @@ Being alone is easy.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600200_06_090");
-MsgDisp("Himuro","......But you know, deep down don't you
+MsgDisp("Himuro","...... But you know, deep down don't you
 want friends too?
 That's why I can't leave you alone there.");
 SEPlay("EV_SE_839");
@@ -116,8 +115,9 @@ SEWait();
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600200_06_140");
-MsgDisp("Himuro","......What? You suddenly meowed. Is
-that......sympathy?");
+MsgDisp("Himuro","...... What?
+You suddenly meowed.
+Is that...... sympathy?");
 MsgDisp("主人公","Hehe.");
 StlEye(6,2);
 StlMouth(6,1);
@@ -147,7 +147,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B050600200_06_170");
 MsgDisp("Himuro","Really, so you heard everything......
 Forget it.");
-MsgDisp("主人公","(Did I get to hear ｛氷室＊＊｝'s true
-feelings?)");
+MsgDisp("主人公","(Did I get to hear ｛氷室＊＊｝'s
+true feelings?)");
 BGMStop();
 ChPrmTblAdd(6,0);

@@ -15,7 +15,8 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_030");
-MsgDisp("Shirahane","Ah... I don't watch too much comedy.");
+MsgDisp("Shirahane","Ah...
+I don't watch too much comedy.");
 MsgDisp("主人公","Why?");
 ChEye(8,4);
 ChMouth(8,0);

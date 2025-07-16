@@ -14,7 +14,8 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(5,254,0,0,4,#1,#1,0,2);
-MsgDisp("主人公","(Ah, ｛颯砂＊＊｝ and ｛柊＊＊＊｝.
+MsgDisp("主人公","(Ah, ｛颯砂＊＊｝ and
+｛柊＊＊＊｝.
 That means...)");
 MsgDisp("主人公","Is this the hot spring club?");
 ChEye(2,0);
@@ -29,8 +30,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100220001_05_010");
-MsgDisp("Hiiragi","Yes. You're the vice president, just like
-I am.");
+MsgDisp("Hiiragi","Yes.
+You're the vice president, just like I am.");
 MsgDisp("主人公","Hehe.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -56,8 +57,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100220001_05_030");
-MsgDisp("Hiiragi","Yes, we won't let you escape,
-okay?");
+MsgDisp("Hiiragi","Yes, we won't let you escape, okay?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

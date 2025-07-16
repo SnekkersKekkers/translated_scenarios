@@ -6,11 +6,13 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","I guess we can't run into each other
-everytime. ......Ah!");
+everytime.
+...... Ah!");
 MsgDisp("主人公","(Maybe it doesn't work if I don't have any
 problems for him to solve∋)");
 MsgDisp("主人公","............");
-MsgDisp("主人公","Ahh......Whatever should I do!
+MsgDisp("主人公","Ahh......
+Whatever should I do!
 I'm so screwed.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -57,10 +59,12 @@ MsgDisp("主人公","Let's get started with the interview.
 Thank you very much!");
 ChMotion(9,2,1);
 VoicePlay("D030900400_09_040");
-MsgDisp("Kuya","Hmm. You can interview me, but I don't
-think it will be very interesting......");
-MsgDisp("主人公","Hehe. Okay, here comes the first question:
-How did you become a \"Jack Of All Trades\"?");
+MsgDisp("Kuya","Hmm.
+You can interview me, but I don't think it
+will be very interesting......");
+MsgDisp("主人公","Hehe.
+Okay, here comes the first question: How
+did you become a \"Jack Of All Trades\"?");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -90,8 +94,8 @@ VoicePlay("D030900400_09_090");
 MsgDisp("Kuya","......I never thought about it like that.
 Does there have to be something rewarding
 about it? What do you think?");
-MsgDisp("主人公","(Umm...... I'm being asked questions
-instead......)");
+MsgDisp("主人公","(Umm......
+I'm being asked questions instead......)");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -99,14 +103,14 @@ VoicePlay("D030900400_09_100");
 MsgDisp("Kuya","Hey, I told you, didn't I?
 There's no point in interviewing me.");
 MsgDisp("主人公","(What should I do......As things are, the
-interview is going no where.
-Maybe I should follow him around instead?)");
+interview is going no where. Maybe I
+should follow him around instead?)");
 MsgSel("Ask for a close coverage interview","Let's end here");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","Understood. Kuya-san, if you don't mind,
-maybe we can do a close coverage
-interview?");
+    MsgDisp("主人公","Understood.
+Kuya-san, if you don't mind, maybe we can
+do a close coverage interview?");
     ChEye(9,3);
     ChMouth(9,4);
     ChMotion(9,4,1);
@@ -115,9 +119,9 @@ interview?");
     MsgDisp("Kuya","A close coverage interview?
 Does that mean we'll be doing this
 forever?");
-    MsgDisp("主人公","Well......It's not for forever but next
-time, Kuya-san and I can cover more
-topics.");
+    MsgDisp("主人公","Well......
+It's not for forever but next time,
+Kuya-san and I can cover more topics.");
     ChEye(9,3);
     ChMouth(9,0);
     ChMotion(9,0,1);

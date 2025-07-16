@@ -55,7 +55,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B150100000_01_050");
 MsgDisp("Kazama","Don't do something to someone if you know
 it would trouble you.
-...See you.");
+... See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

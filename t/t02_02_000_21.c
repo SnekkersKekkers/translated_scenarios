@@ -22,7 +22,8 @@ ChMotion(2,4);
 VoicePlay("T020200021_02_020");
 MsgDisp("Sassa","Ah, yeah.
 Your kisses are great.");
-MsgDisp("主人公","Eh......Already.");
+MsgDisp("主人公","Eh......
+Already.");
 ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -38,7 +39,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoiceEVSPlay(2);
 VoicePlay("T020200021_02_040");
-MsgDisp("Sassa","｛主人公｝...... Thank you.");
+MsgDisp("Sassa","｛主人公｝......
+Thank you.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -61,8 +63,7 @@ Wait(120,0);
 StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020200021_02_070");
-MsgDisp("Sassa","Look,
-this way it'll be just right......");
+MsgDisp("Sassa","Look, this way it'll be just right......");
 VoicePlay("T020200021_02_080");
 MsgDisp("Sassa","......I love you.");
 StlEffect(1,1,60);

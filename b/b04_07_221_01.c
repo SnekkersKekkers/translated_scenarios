@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040722101_07_010");
-    MsgDisp("Mikage","Got it.
-hey, just look at it until you're
+    MsgDisp("Mikage","Got it. hey, just look at it until you're
 satisfied.");
     MsgDateResultDisp();
     break ;
@@ -41,7 +40,7 @@ flat.");
     ChMotion(7,5);
     VoicePlay("B040722101_07_030");
     MsgDisp("Mikage","Haa...
-...That can't be good～");
+... That can't be good～");
     MsgDateResultDisp();
     break ;
     default :

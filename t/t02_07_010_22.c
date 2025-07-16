@@ -5,8 +5,7 @@ VoicePlay("T020701021_07_000");
 MsgDisp("Mikage","Oi∋
 W-What's wrong?");
 MsgDisp("主人公","I also like ｛御影＊＊｝.
-Did that feeling......
-get through to you?");
+Did that feeling...... get through to you?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -28,7 +27,8 @@ ChMotion(7,1);
 VoicePlay("T020701021_07_030");
 MsgDisp("Mikage","so that means we're not just giving up
 like we used to, right?");
-MsgDisp("主人公","Yes. I got it.");
+MsgDisp("主人公","Yes.
+I got it.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

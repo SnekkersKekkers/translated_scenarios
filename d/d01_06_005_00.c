@@ -8,7 +8,8 @@ building. Come to think of it, two years
 ago here I met Himuro——)");
 MsgClose();
 ChOpen(6,254,7,2,0,0,#1,0,0);
-MsgDisp("主人公","Eh......｛氷室＊＊｝?");
+MsgDisp("主人公","Eh......
+｛氷室＊＊｝?");
 SEPlay("EV_SE_544",0,0.5);
 ChEye(6,3);
 ChMouth(6,0);
@@ -81,11 +82,11 @@ StlEyeOpenLevel(6,0,1);
 VoicePlay("D010600500_06_080");
 MsgDisp("Himuro","Before I knew it, being alone started to
 become uncomfortable.
-......And yet——");
+...... And yet——");
 StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("D010600500_06_090");
-MsgDisp("Himuro","Now you'll be gone soon. ");
+MsgDisp("Himuro","Now you'll be gone soon.");
 MsgDisp("主人公","｛氷室＊＊｝......");
 StlEye(6,2);
 StlMouth(6,1);
@@ -95,8 +96,8 @@ MsgDisp("Himuro","I haven't changed at all......
 Taking it out on you again like this, I
 haven't matured at all.");
 MsgDisp("主人公","That's not true.
-｛氷室＊＊｝ shows more of his true self
-than when we first met.");
+｛氷室＊＊｝ shows more of his true
+self than when we first met.");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("D010600500_06_110");
@@ -112,13 +113,15 @@ StlEye(6,0);
 StlMouth(6,1);
 VoicePlay("D010600500_06_130");
 MsgDisp("Himuro","You're really inconsiderate.");
-MsgDisp("主人公","Ack......Sorry.");
+MsgDisp("主人公","Ack......
+Sorry.");
 StlEye(6,1,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D010600500_06_140");
-MsgDisp("Himuro","But......I guess that's just about the
-right amount......");
+MsgDisp("Himuro","But......
+I guess that's just about the right
+amount......");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -138,16 +141,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600500_06_160");
-MsgDisp("Himuro","Thanks to you, I'm getting emotional
-too.");
+MsgDisp("Himuro","Thanks to you, I'm getting emotional too.");
 MsgDisp("主人公","Uhm, you're welcome?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("D010600500_06_170");
-MsgDisp("Himuro","Heh......What's with you.");
-MsgDisp("主人公","(Looks like ｛氷室＊＊｝ is back to his
-usual self?
+MsgDisp("Himuro","Heh......
+What's with you.");
+MsgDisp("主人公","(Looks like ｛氷室＊＊｝ is back to
+his usual self?
 What a relief......)");
 BGMStop();
 MsgClose();

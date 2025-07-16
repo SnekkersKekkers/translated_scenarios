@@ -27,8 +27,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040203201_02_020");
-    MsgDisp("Sassa","That would make the penguins happy
-though!");
+    MsgDisp("Sassa","That would make the penguins happy though!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

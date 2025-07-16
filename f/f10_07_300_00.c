@@ -1,8 +1,8 @@
 ChLayout(2);
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew... what nice weather. Let's bask in
-the sun on a bench.)");
+MsgDisp("主人公","(Phew... what nice weather.
+Let's bask in the sun on a bench.)");
 VoicePlay("F100730000_22_000");
 MsgDisp("Hikaru?","Mari, this way, this way!");
 MsgClose();
@@ -10,7 +10,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(7,37,0,0,0,#1,#1,0,0,0,30);
 ChOpen(22,254,0,0,3,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝.
+MsgDisp("主人公","｛ひかる＊｝,
+｛みちる＊｝.
 Huh...｛御影＊＊｝ too?");
 ChEye(21,0);
 ChMouth(21,3);
@@ -42,16 +43,16 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F100730000_21_010");
-MsgDisp("Michiru","Yeah. I think the all-in-one is good, but
-the gloves are no good.");
+MsgDisp("Michiru","Yeah.
+I think the all-in-one is good, but the
+gloves are no good.");
 ChEye(22,0);
 ChMotion(22,0,1);
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100730000_07_010");
-MsgDisp("Mikage","These are work gloves 
-and work clothes.");
+MsgDisp("Mikage","These are work gloves and work clothes.");
 MsgDisp("主人公","Hehe.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -70,8 +71,9 @@ ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F100730000_22_030");
 MsgDisp("Hikaru","Eh, really?");
-MsgDisp("主人公","Umm... well, it's very ｛御影＊＊｝
--like, so I think it's fine but...");
+MsgDisp("主人公","Umm... well, it's very
+｛御影＊＊｝ -like, so I
+think it's fine but...");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
@@ -96,20 +98,19 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F100730000_22_050");
-MsgDisp("Hikaru","No way, 
-that's not convincing at aalll.");
+MsgDisp("Hikaru","No way, that's not convincing at aalll.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100730000_21_040");
-MsgDisp("Michiru","Right, saying it when
-you look like that.");
+MsgDisp("Michiru","Right, saying it when you look like that.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 ChEyeOpenLevel(7,10);
 VoicePlay("F100730000_07_040");
-MsgDisp("Mikage","Ohh? Shall we test it out then, ladies?
+MsgDisp("Mikage","Ohh?
+Shall we test it out then, ladies?
 Then, who wants to go on a date with me?");
 ChEye(22,5);
 ChMouth(22,1);
@@ -127,8 +128,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100730000_07_050");
-MsgDisp("Mikage","Hahaha. Let me know when the order is
-decided～?");
+MsgDisp("Mikage","Hahaha.
+Let me know when the order is decided～?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
@@ -148,7 +149,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F100730000_21_060");
-MsgDisp("Michiru","...Yeah.
+MsgDisp("Michiru","... Yeah.
 A surprise attack is unfair.");
 MsgDisp("主人公","(That startled me...)");
 BGMStop();

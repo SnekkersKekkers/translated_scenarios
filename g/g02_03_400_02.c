@@ -31,10 +31,11 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020340002_03_040");
 MsgDisp("Honda","But, like, the belly button...... oh, and
-maybe even the tongue seems interesting. I
-wonder what it feels like when you eat!");
-MsgDisp("主人公","Maybe...... Rather than for fashion this
-is out of curiosity?");
+maybe even the tongue seems interesting.
+I wonder what it feels like when you eat!");
+MsgDisp("主人公","Maybe......
+Rather than for fashion this is out of
+curiosity?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

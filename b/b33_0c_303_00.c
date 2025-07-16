@@ -58,7 +58,8 @@ MsgClose();
 SEPlay("EV_SE_509");
 Wait(40,0);
 ChOpen(5,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝, you've gotten better.");
+MsgDisp("主人公","｛柊＊＊＊｝, you've gotten
+better.");
 ChEye(5,4);
 VoicePlay("B330C30300_05_010");
 MsgDisp("Hiiragi","You as well.
@@ -119,8 +120,9 @@ VoicePlay("B330C30300_06_030");
 MsgDisp("Himuro","Could it be...
 Kojiro-sensei is actually good at
 teaching?");
-MsgDisp("主人公","Yeah. Yes, he explains things gently,
-whether it's academics or anything else.");
+MsgDisp("主人公","Yeah.
+Yes, he explains things gently, whether
+it's academics or anything else.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -138,8 +140,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30300_06_060");
 MsgDisp("Himuro","No, it's nothing..");
-MsgDisp("主人公","(Just now, was ｛氷室＊＊｝ talking about
-Himuro-sensei....)");
+MsgDisp("主人公","(Just now, was ｛氷室＊＊｝ talking
+about Himuro-sensei....)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

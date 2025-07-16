@@ -3,7 +3,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa... I failed...)");
+MsgDisp("主人公","(Haa...
+I failed...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
@@ -27,9 +28,9 @@ MsgDisp("Kazama","After that, it's just about you coming to
 terms with it.
 You can start practicing today, right?");
 MsgDisp("主人公","...Yeah.");
-MsgDisp("主人公","(It's as ｛風真＊＊｝ says. Kazama is
-right. I'll practice until I'm satisfied!
-)");
+MsgDisp("主人公","(It's as ｛風真＊＊｝ says.
+Kazama is right.
+I'll practice until I'm satisfied! )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

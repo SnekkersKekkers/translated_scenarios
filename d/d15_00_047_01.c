@@ -10,8 +10,9 @@ ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,3 ) ;
 VoicePlay ( "D150004701_07_000" ) ;
-MsgDisp ( "Mikage","Yeah. Today we will be observing nature in
-the garden." ) ;
+MsgDisp ( "Mikage","Yeah.
+Today we will be observing nature in the
+garden." ) ;
 ChEye ( 4,1 ) ;
 ChMouth ( 4,0 ) ;
 ChMotion ( 4,1 ) ;

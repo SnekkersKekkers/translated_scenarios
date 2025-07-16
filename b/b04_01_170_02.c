@@ -37,15 +37,15 @@ switch (MsgSelRsltGet()){
         MsgDisp("Kazama","Got it.
 Then, pick something you like from the
 menu");
-        MsgDisp("主人公","Really∋ ｛風真＊＊｝, thank you! The
-sweets here are delicious, right?");
+        MsgDisp("主人公","Really∋
+｛風真＊＊｝, thank you!
+The sweets here are delicious, right?");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040117002_01_030");
-        MsgDisp("Kazama","Alright dear customer, 
-order received.");
+        MsgDisp("Kazama","Alright dear customer, order received.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.01,0.5);
         ChClose(1);
@@ -55,18 +55,17 @@ order received.");
         SEPlay("EV_SE_764",0,0.4);
         SEWait();
         VoicePlay("B040117002_01_040");
-        MsgDisp("Kazama","Please give me your most
-popular sweet.");
+        MsgDisp("Kazama","Please give me your most popular sweet.");
         VoicePlay("B040117002_01_050");
-        MsgDisp("Kazama","O-Of course.
-that's alright.");
+        MsgDisp("Kazama","O-Of course. that's alright.");
         MsgDisp("主人公","Are you alright...?");
         SEPlay("EV_SE_762");
         SEWait();
         MsgClose();
         SEPlay("EV_SE_544",0.01,0.5);
         ChOpen(1,255,4,0,2,7,#1,7,0);
-        MsgDisp("主人公","｛風真＊＊｝, your face is red though...
+        MsgDisp("主人公","｛風真＊＊｝, your face is red
+though...
 What's wrong?");
         ChEye(1,4);
         ChMouth(1,2);

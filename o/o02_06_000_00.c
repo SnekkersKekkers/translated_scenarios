@@ -37,7 +37,8 @@ I'm glad I did my best.)");
     ScrFadeIn(0);
     VoicePlay("O020600000_06_030");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! I did it!");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+I did it!");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);

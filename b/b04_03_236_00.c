@@ -29,8 +29,9 @@ We can still have a good time from here!");
     ChMouth(3,1);
     ChMotion(3,1);
     VoicePlay("B040323600_03_020");
-    MsgDisp("Honda","Hey. If everyone crowds in from the back,
-the people at the front will be in danger.");
+    MsgDisp("Honda","Hey.
+If everyone crowds in from the back, the
+people at the front will be in danger.");
     MsgDateResultDisp();
     break ;
     case 2:

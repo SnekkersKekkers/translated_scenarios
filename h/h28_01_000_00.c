@@ -40,10 +40,12 @@ you get a medal too?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("H280100000_01_040");
-    MsgDisp("Kazama","Alright. Then, I guess I'll get serious
-about cheering.");
+    MsgDisp("Kazama","Alright.
+Then, I guess I'll get serious about
+cheering.");
     MsgDisp("主人公","(Let's win the overall championship, to
-respond to ｛風真＊＊｝'s cheers, too!)");
+respond to ｛風真＊＊｝'s cheers,
+too!)");
     break ;
     case 4:
     case 5:
@@ -53,14 +55,15 @@ respond to ｛風真＊＊｝'s cheers, too!)");
     VoiceEVSPlay(1);
     VoicePlay("H280100000_01_050");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Did you come to cheer us
-on?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Did you come to cheer us on?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H280100000_01_060");
-    MsgDisp("Kazama","Yeah. Even though I did, there's not much
-I can really do for you, though.");
+    MsgDisp("Kazama","Yeah.
+Even though I did, there's not much I can
+really do for you, though.");
     MsgDisp("主人公","That's not true.
 If you cheer us on, the team will become
 more motivated!");

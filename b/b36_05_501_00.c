@@ -10,8 +10,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, did you want to go to the
-park?");
+MsgDisp("主人公","｛柊＊＊＊｝, did you want to go
+to the park?");
 ChEye(5,3);
 VoicePlay("B360550100_05_000");
 MsgDisp("Hiiragi","I wonder.");
@@ -76,7 +76,8 @@ SEWait();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(Hehe. ｛柊＊＊＊｝ is like a child
+MsgDisp("主人公","(Hehe.
+｛柊＊＊＊｝ is like a child
 today.)");
 BGMStop();
 MsgClose();

@@ -13,20 +13,19 @@ ChOpen(7,34,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("D130C00100_07_000");
-MsgDisp("Mikage","｛主人公｝, are you having fun?");
-MsgDisp("主人公","Yes, because I'm together 
-with everyone.");
+MsgDisp("Mikage","｛主人公｝, are you having
+fun?");
+MsgDisp("主人公","Yes, because I'm together with everyone.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D130C00100_05_000");
-MsgDisp("Hiiragi","Without you, 
-we wouldn't be complete.");
+MsgDisp("Hiiragi","Without you, we wouldn't be complete.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D130C00100_06_000");
-MsgDisp("Himuro","Yeah. 
+MsgDisp("Himuro","Yeah.
 Now, we're altogether.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -54,15 +53,13 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130C00100_06_020");
-MsgDisp("Himuro","Now I feel like 
-exchanging presents again.");
+MsgDisp("Himuro","Now I feel like exchanging presents again.");
 ChEye(5,4);
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("D130C00100_07_030");
-MsgDisp("Mikage","Oh, that's a 
-good shout Inori.");
+MsgDisp("Mikage","Oh, that's a good shout Inori.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

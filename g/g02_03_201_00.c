@@ -63,8 +63,9 @@ VoicePlay("G020320100_03_090");
 MsgDisp("Honda","Yeah. I know exactly what outcome I want
 to achieve. I'm good at working backward
 from there!");
-MsgDisp("主人公","(I wonder what kind of answer ｛本多＊＊｝
-wants to arrive at......)");
+MsgDisp("主人公","(I wonder what kind of answer
+｛本多＊＊｝ wants to arrive
+at......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

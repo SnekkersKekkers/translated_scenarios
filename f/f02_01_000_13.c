@@ -43,12 +43,15 @@ VoicePlay("F020100013_01_040");
 MsgDisp("Kazama","From today forth, no staying up late.
 You are to remain in perfect health.
 Got it?");
-MsgDisp("主人公","Hehe. Yes, I'll be careful.");
+MsgDisp("主人公","Hehe.
+Yes, I'll be careful.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("F020100013_01_050");
-MsgDisp("Kazama","Yes! Well, let's go back quickly.");
+MsgDisp("Kazama","Yes!
+Well, let's go back quickly.");
 MsgDisp("主人公","(That's right... I couldn't go in
 elementary or middle school, so this field
-trip with ｛風真＊＊｝ will be my first!)");
+trip with ｛風真＊＊｝ will be
+my first!)");

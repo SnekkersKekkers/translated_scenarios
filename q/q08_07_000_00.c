@@ -13,7 +13,8 @@ switch (ChPrmGet(7,6)){
     VoicePlay("Q080700000_07_000");
     MsgDisp("Mikage","Good work.
 Take a good rest.");
-    MsgDisp("主人公","Yes. I'm happy I could look around with
+    MsgDisp("主人公","Yes.
+I'm happy I could look around with
 ｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -33,9 +34,8 @@ lesson-Nagasaki version, the next time?");
     MsgDisp("Mikage","Thanks for today.
 You're exempt from submitting a special
 report.");
-    MsgDisp("主人公","Hehe, yay!
-extracurricular lesson, Nagasaki edition
-was so much fun!");
+    MsgDisp("主人公","Hehe, yay! extracurricular lesson,
+Nagasaki edition was so much fun!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

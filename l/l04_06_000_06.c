@@ -9,7 +9,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("L040600006_06_000");
     MsgDisp("Himuro","If you don't like making these, you don't
 have to force yourself.");
-    MsgDisp("主人公","Ugh...... I'm sorry.");
+    MsgDisp("主人公","Ugh......
+I'm sorry.");
     ChEye(6,2);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -45,8 +46,7 @@ to buy them instead.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("L040600006_06_040");
-    MsgDisp("Himuro","Well, I'll accept your feelings,
-though.");
+    MsgDisp("Himuro","Well, I'll accept your feelings, though.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -76,7 +76,8 @@ I don't want to lie.");
     ChMotion(6,0);
     VoicePlay("L040600006_06_070");
     MsgDisp("Himuro","But, I'm happy you put in the effort to
-make it. Really.");
+make it.
+Really.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

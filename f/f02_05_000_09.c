@@ -17,7 +17,8 @@ enjoyable experience!");
 ChEye(5,4);
 VoicePlay("F020500009_05_010");
 MsgDisp("Hiiragi","I must confess something to you, honestly.");
-MsgDisp("主人公","Huh? What?");
+MsgDisp("主人公","Huh?
+What?");
 ChMotion(5,4);
 VoicePlay("F020500009_05_020");
 MsgDisp("Hiiragi","I think I like the days of preparation

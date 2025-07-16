@@ -7,7 +7,8 @@ MsgDisp("Himuro?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C06_INORI_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝! Are you out shopping?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+Are you out shopping?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -51,16 +52,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610000_06_060");
-MsgDisp("Himuro","Besides...... I can only eat these kinds
-of things as a snack.");
-MsgDisp("主人公","Are you usually not
-allowed to?");
+MsgDisp("Himuro","Besides......
+I can only eat these kinds of things as a
+snack.");
+MsgDisp("主人公","Are you usually not allowed to?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610000_06_070");
-MsgDisp("Himuro","She wouldn't be happy
-if I did.");
+MsgDisp("Himuro","She wouldn't be happy if I did.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

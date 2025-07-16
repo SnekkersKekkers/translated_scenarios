@@ -21,7 +21,8 @@ VoicePlay("P140700001_07_020");
 MsgDisp("Mikage","Don't make that face. I'll help out, make
 some adjustments during the break and
 increase the difficulty.");
-MsgDisp("主人公","(Ugh...... I should have prepared more
+MsgDisp("主人公","(Ugh......
+I should have prepared more
 properly......)");
 MsgClose();
 ScrFadeOut(0,0);

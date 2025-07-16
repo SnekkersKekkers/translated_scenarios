@@ -15,8 +15,9 @@ VoicePlay("B360323600_03_000");
 MsgDisp("Honda","Hah, hah...
 We made it to the night parade!
 Just in time!");
-MsgDisp("主人公","Phew... You took off running so suddenly,
-I was really surprised.");
+MsgDisp("主人公","Phew...
+You took off running so suddenly, I was
+really surprised.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -30,7 +31,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360323600_03_020");
-MsgDisp("Honda","Yup. I want to have you all to myself——
+MsgDisp("Honda","Yup.
+I want to have you all to myself——
 that's what makes it a special day!");
 MsgDisp("主人公","Huh..?");
 ChEye(3,3);

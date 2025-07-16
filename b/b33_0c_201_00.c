@@ -96,8 +96,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C20100_06_030");
-MsgDisp("Himuro","Guys, it should be fine at 
-this distance.");
+MsgDisp("Himuro","Guys, it should be fine at this distance.");
 MsgDisp("主人公","(?
 What are they talking about...?)");
 BGMStop();

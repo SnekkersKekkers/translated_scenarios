@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,2);
     ChMouth(5,2);
     VoicePlay("B040503100_05_010");
-    MsgDisp("Hiiragi","That fish...
-which fish?");
+    MsgDisp("Hiiragi","That fish... which fish?");
     MsgDateResultDisp();
     break ;
     case 1:

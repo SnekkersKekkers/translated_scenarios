@@ -45,14 +45,16 @@ ChMotion(3,4);
 VoicePlay("G020310302_03_070");
 MsgDisp("Honda","Honestly, I even want to have the same
 hairstyle as you.");
-MsgDisp("主人公","Ehhh∋　Hairstyle?");
+MsgDisp("主人公","Ehhh∋
+Hairstyle?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310302_03_080");
-MsgDisp("Honda","Yeah! To understand someone, you need to
-become them!");
+MsgDisp("Honda","Yeah!
+To understand someone, you need to become
+them!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

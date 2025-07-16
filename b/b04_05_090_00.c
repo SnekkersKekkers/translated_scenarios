@@ -28,8 +28,8 @@ It's as if it were confectionary.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040509000_05_020");
-    MsgDisp("Hiiragi","Yes... It must be pleasant for the plants
-here.");
+    MsgDisp("Hiiragi","Yes...
+It must be pleasant for the plants here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

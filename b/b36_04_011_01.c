@@ -13,7 +13,8 @@ ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B360401101_04_000");
 MsgDisp("Nanatsumori","Ha...");
-MsgDisp("主人公","｛七ツ森＊｝, you're sighing?");
+MsgDisp("主人公","｛七ツ森＊｝, you're
+sighing?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -30,9 +31,10 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B360401101_04_030");
 MsgDisp("Nanatsumori","It was mostly those two?
-...Geez, they're too energetic.");
-MsgDisp("主人公","Hehe. I wonder if those two have arrived
-home yet?");
+... Geez, they're too energetic.");
+MsgDisp("主人公","Hehe.
+I wonder if those two have arrived home
+yet?");
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360401101_04_040");
@@ -49,8 +51,9 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360401101_04_060");
-MsgDisp("Nanatsumori","No... I'm a coward for trying to get a
-head start.");
+MsgDisp("Nanatsumori","No...
+I'm a coward for trying to get a head
+start.");
 MsgDisp("主人公","That's...");
 ChMouth(4,3);
 VoicePlay("B360401101_04_070");

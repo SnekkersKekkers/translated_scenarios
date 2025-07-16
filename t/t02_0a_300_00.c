@@ -1,8 +1,9 @@
 BGOpen("sc300",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......｛風真＊＊｝, missed the graduation
-ceremony......)");
+MsgDisp("主人公","(......
+｛風真＊＊｝, missed the
+graduation ceremony......)");
 SEPlay("EV_SE_DOOR_025");
 SEWait();
 VoiceEVSPlay(1);
@@ -12,7 +13,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,4,3,#1,#1,0,0);
-MsgDisp("主人公","｛風真＊＊｝! You're back!");
+MsgDisp("主人公","｛風真＊＊｝!
+You're back!");
 MsgDisp("主人公","But...the graduation ceremony is already
 over.");
 ChClose(1,0,30);
@@ -20,9 +22,10 @@ ChLayout(0);
 SEPlay("EV_SE_544");
 ChOpen(1,254,0,2,3,8,#1,0,0,0,30);
 VoicePlay("T020A30000_01_010");
-MsgDisp("Kazama","Sorry. I did try to hurry though.");
-MsgDisp("主人公","Yeah. I'm glad we could graduate
-together...");
+MsgDisp("Kazama","Sorry.
+I did try to hurry though.");
+MsgDisp("主人公","Yeah.
+I'm glad we could graduate together...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);
@@ -40,8 +43,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020A30000_01_040");
-MsgDisp("Kazama","We haven't changed
-much since then, huh?");
+MsgDisp("Kazama","We haven't changed much since then, huh?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);
@@ -62,7 +64,8 @@ ChOpen(1,254,0,2,2,0,#1,0,1,0,30);
 ChOpen(2,254,3,0,3,#1,#1,0,2,0,30);
 SEWait();
 VoicePlay("T020A30000_02_000");
-MsgDisp("Sassa","Ryota! You're lateー!");
+MsgDisp("Sassa","Ryota!
+You're lateー!");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,0);
@@ -98,7 +101,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("T020A30000_02_030");
-MsgDisp("Sassa","Maybe. Well then, shall these longterm
+MsgDisp("Sassa","Maybe.
+Well then, shall these longterm
 liabilities go home together?");
 MsgClose();
 ScrFadeOut(0);
@@ -136,16 +140,15 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("T020A30000_02_040");
-MsgDisp("Sassa","Alright, now there's four of 
-us.");
+MsgDisp("Sassa","Alright, now there's four of us.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020A30000_06_020");
-MsgDisp("Himuro","You're so obvious Nozomu-senpai.
-it doesn't make a difference whether I'm
-here or not, does it?");
+MsgDisp("Himuro","You're so obvious Nozomu-senpai. it
+doesn't make a difference whether I'm here
+or not, does it?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -170,8 +173,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020A30000_06_040");
-MsgDisp("Himuro","But, as for you and Nozomu-senpai...
-haa, never mind.");
+MsgDisp("Himuro","But, as for you and Nozomu-senpai... haa,
+never mind.");
 MsgDisp("主人公","Ah... sorry ｛氷室＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -227,8 +230,9 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020A30000_01_110");
 MsgDisp("Kazama","Obviously.");
-MsgDisp("主人公","Yes. ｛氷室＊＊｝ the three of us will come
-celebrate your graduation.");
+MsgDisp("主人公","Yes.
+｛氷室＊＊｝ the three of us will
+come celebrate your graduation.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

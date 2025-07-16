@@ -9,7 +9,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B020100013_01_010");
-MsgDisp("Kazama","Yep. It would be a waste not to show it
-off.");
+MsgDisp("Kazama","Yep.
+It would be a waste not to show it off.");
 MsgDisp("主人公","(Hooray!
 I'm glad I wore a yukata!)");

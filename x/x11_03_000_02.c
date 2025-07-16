@@ -23,7 +23,8 @@ Congratulations!");
     MsgDisp("Honda","I heard it! You won by a knockout, didn't
 you? I wish I could have seen it, your
 brilliant shoulder throw!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Hmmm, thanks!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Hmmm, thanks!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);

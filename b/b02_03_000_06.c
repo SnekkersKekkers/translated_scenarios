@@ -8,7 +8,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B020300006_03_010");
-MsgDisp("Honda","Oh! Is it one of those, \"if you get it,
-you get it\" kind of things?");
-MsgDisp("主人公","(Ugh... Today's coordination is a big
-blunder...)");
+MsgDisp("Honda","Oh!
+Is it one of those, \"if you get it, you
+get it\" kind of things?");
+MsgDisp("主人公","(Ugh...
+Today's coordination is a big blunder...)");

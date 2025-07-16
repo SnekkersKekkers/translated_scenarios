@@ -3,7 +3,8 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(Soon I'll go to ｛みちる＊｝'s and
+MsgDisp("主人公","(Soon I'll go to
+｛みちる＊｝'s and
 ｛ひかる＊｝'s home.)");
 MsgClose();
 ScrFadeOut(0);

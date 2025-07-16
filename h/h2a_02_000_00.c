@@ -15,7 +15,8 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H2A0200000_02_000");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝! We did it!");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝!
+We did it!");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -24,7 +25,8 @@ switch (ChPrmGet(2,6)){
 And Haba High won the championship as a
 team!");
     MsgDisp("主人公","Yes, it was the best result we could have
-gotten. Congrats!");
+gotten.
+Congrats!");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -38,8 +40,8 @@ gave me confidence.");
     VoicePlay("H2A0200000_02_030");
     MsgDisp("Sassa","We really want to thank you.
 For being the best manager.");
-    MsgDisp("主人公","｛颯砂＊＊｝...... It's me who should be
-thanking you.");
+    MsgDisp("主人公","｛颯砂＊＊｝......
+It's me who should be thanking you.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,2);

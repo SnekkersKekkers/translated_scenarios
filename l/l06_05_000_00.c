@@ -7,7 +7,8 @@ ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("L060500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","｛柊＊＊＊｝. What is it?");
+MsgDisp("主人公","｛柊＊＊＊｝.
+What is it?");
 ChMouth(5,4);
 VoicePlay("L060500000_05_010");
 MsgDisp("Hiiragi","I thank you for last month.
@@ -15,8 +16,7 @@ Please have this, though it's nothing
 much.");
 SEPlay("EV_SE_664");
 SEWait();
-MsgDisp("主人公","Th-Thank you for
-your consideration......");
+MsgDisp("主人公","Th-Thank you for your consideration......");
 ChMouth(5,4);
 VoicePlay("L060500000_05_020");
 MsgDisp("Hiiragi","Well then, please excuse me.");

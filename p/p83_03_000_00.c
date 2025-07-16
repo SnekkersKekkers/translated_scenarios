@@ -9,8 +9,7 @@ switch (ChPrmGet(3,6)){
     break ;
     case 3:
     MsgDisp("主人公","(I finished hanging up the posters, Next
-is...
-organizing the documents.)");
+is... organizing the documents.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -18,8 +17,8 @@ organizing the documents.)");
     VoicePlay("P830300000_03_000");
     MsgDisp("Honda","Huh?
 What are you up to?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. The student council
-committee have been entrusted with
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. The student
+council committee have been entrusted with
 managing the cultural festival.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -38,8 +37,7 @@ Definitely!");
     case 4:
     case 5:
     MsgDisp("主人公","(I finished hanging up the posters, Next
-is...
-organizing the documents.)");
+is... organizing the documents.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -47,7 +45,8 @@ organizing the documents.)");
     VoicePlay("P830300000_03_030");
     MsgDisp("Honda","Ah, you're here, you're here.
 You're the unsung hero.");
-    MsgDisp("主人公","Eh, ｛本多＊＊｝. Is something the matter?");
+    MsgDisp("主人公","Eh, ｛本多＊＊｝.
+Is something the matter?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);

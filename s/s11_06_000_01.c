@@ -28,12 +28,12 @@ ChMotion(6,0);
 VoicePlay("S110600001_06_030");
 MsgDisp("Himuro","Well, I'll put it in my wallet.
 Just in case.");
-MsgDisp("主人公","You're not going to tie 
-it to the tree?");
+MsgDisp("主人公","You're not going to tie it to the tree?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("S110600001_06_040");
-MsgDisp("Himuro","Well, I went through all that trouble...I
-might as well keep it.");
-MsgDisp("主人公","(......Are you actually really happy?)");
+MsgDisp("Himuro","Well, I went through all that trouble...
+I might as well keep it.");
+MsgDisp("主人公","(......
+Are you actually really happy?)");

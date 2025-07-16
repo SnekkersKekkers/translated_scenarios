@@ -12,13 +12,15 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("D110D00100_22_000");
 MsgDisp("Hikaru","Ma～ri!");
-MsgDisp("主人公","Ah. ｛みちる＊｝, ｛ひかる＊｝.");
+MsgDisp("主人公","Ah.
+｛みちる＊｝,
+｛ひかる＊｝.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("D110D00100_21_000");
-MsgDisp("Michiru","Hehe. Have you been redecorating in your
-garden?");
+MsgDisp("Michiru","Hehe.
+Have you been redecorating in your garden?");
 MsgDisp("主人公","Eh?");
 ChEye(22,0);
 ChMouth(22,5);
@@ -41,8 +43,7 @@ VoicePlay("D110D00100_21_010");
 MsgDisp("Michiru","These three colors are also beautiful.
 Mari's love has been distributed well and
 they are all in harmony.");
-MsgDisp("主人公","The color of the roses have 
-changed......?");
+MsgDisp("主人公","The color of the roses have changed......?");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -52,8 +53,8 @@ ChOpen(22,254,0,0,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("D110D00100_22_030");
-MsgDisp("Hikaru","Aha▼ I hope \"Mari's Garden\" is a lot of
-fun～♪");
+MsgDisp("Hikaru","Aha▼
+I hope \"Mari's Garden\" is a lot of fun～♪");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);

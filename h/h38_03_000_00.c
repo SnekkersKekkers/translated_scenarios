@@ -9,7 +9,8 @@ ChMotion(3,1);
 VoiceEVSPlay(3);
 VoicePlay("H380300000_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝! You came?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝!
+You came?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -42,8 +43,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("H380300000_03_050");
-MsgDisp("Honda","Alright! I'll blow that all away and
-support you the best I can!");
+MsgDisp("Honda","Alright!
+I'll blow that all away and support you
+the best I can!");
 MsgDisp("主人公","Then, I'll respond to those cheers with
 all that I can!");
 ChEye(3,3);

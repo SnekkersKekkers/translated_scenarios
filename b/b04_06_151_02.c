@@ -38,7 +38,7 @@ consolation?");
         ChMouth(6,0);
         ChMotion(6,5);
         VoicePlay("B040615102_06_030");
-        MsgDisp("Himuro","...That's wrong.
+        MsgDisp("Himuro","... That's wrong.
 I was taking my anger out on you just now.
 I'm the one who should say sorry.");
         ChEye(6,2);
@@ -47,8 +47,8 @@ I'm the one who should say sorry.");
         VoicePlay("B040615102_06_040");
         MsgDisp("Himuro","I'm just annoyed with myself.
 DOn't mind it.");
-        MsgDisp("主人公","Hehe, ｛氷室＊＊｝, you shouldn't mind it
-either?");
+        MsgDisp("主人公","Hehe, ｛氷室＊＊｝, you shouldn't
+mind it either?");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,2);
@@ -56,14 +56,14 @@ either?");
         VoicePlay("B040615102_06_050");
         MsgDisp("Himuro","No, that's impossible.
 I've shown you my uncool side.");
-        MsgDisp("主人公","I want to see all sides of ｛氷室＊＊｝
-though?");
+        MsgDisp("主人公","I want to see all sides of
+｛氷室＊＊｝ though?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040615102_06_060");
-        MsgDisp("Himuro","...What's with that line?
+        MsgDisp("Himuro","... What's with that line?
 Hearing that, I'm the one who'll get
 embarrassed.");
         MsgDisp("主人公","It's just my true feelings.");
@@ -112,7 +112,7 @@ Cause I'm gonna get aim for a strike next.");
     VoicePlay("B040615102_06_110");
     MsgDisp("Himuro","Well yeah.
 Everyone has bad days.
-...But the next one will be a strike.");
+... But the next one will be a strike.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

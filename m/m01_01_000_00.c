@@ -4,8 +4,8 @@ MsgDisp("主人公","Yes.");
 VoicePlay("M010100000_01_000");
 MsgDisp("Kazama?","It's me.
 I came to see how you were doing.");
-MsgDisp("主人公","Eehh∈ ｛風真＊＊｝∋ P, please come
-in......");
+MsgDisp("主人公","Eehh∈ ｛風真＊＊｝∋
+P, please come in......");
 SEPlay("EV_SE_DOOR_007");
 Wait(18);
 MsgClose();
@@ -45,14 +45,16 @@ ChMotion(1,0);
 VoicePlay("M010100000_01_050");
 MsgDisp("Kazama","And it's the pinwheel from our memories.
 Eat this and get well soon.");
-MsgDisp("主人公","Mm. If I blow on it like 'huuu' it seems
-like it'd turn.");
+MsgDisp("主人公","Mm.
+If I blow on it like 'huuu' it seems like
+it'd turn.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("M010100000_01_060");
 MsgDisp("Kazama","The sugar'd just go flying.");
-MsgDisp("主人公","Huu...... It really did.");
+MsgDisp("主人公","Huu......
+It really did.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

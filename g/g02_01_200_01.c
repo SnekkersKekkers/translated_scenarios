@@ -19,7 +19,8 @@ VoicePlay("G020120001_01_020");
 MsgDisp("Kazama","I waited ten years.
 So I'm not gonna just give up and fade
 into the background.");
-MsgDisp("主人公","Is something wrong, ｛風真＊＊｝?");
+MsgDisp("主人公","Is something wrong,
+｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -42,7 +43,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120001_01_050");
-MsgDisp("Kazama","Sorry. But if I just stand by, the old me
+MsgDisp("Kazama","Sorry.
+But if I just stand by, the old me
 wouldn't accept it.");
 MsgDisp("主人公","(｛風真＊＊｝ isn't acting like his usual
 self today.

@@ -43,7 +43,8 @@ BGOpen("ad442",0);
 VoicePlay("Y300400400_01_000");
 MsgDisp("Kazama","\"Hey, have you seen her?\"");
 MsgDisp("","By \"her\" I'm guessing he's talking
-about ｛主人公苗字｝.");
+about
+｛主人公苗字｝.");
 MsgDisp("","We shake our heads.");
 MsgClear();
 MsgDisp("","Me and Dahon look at Kazama, who is

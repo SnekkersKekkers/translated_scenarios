@@ -17,7 +17,8 @@ for the final scene, right?");
 MsgDisp("主人公","Yes, this scene is great♪");
 ChMouth(3,4);
 VoicePlay("P240301000_34_000");
-MsgDisp("Kuroda Kanbei","Ah... I've finally returned...");
+MsgDisp("Kuroda Kanbei","Ah...
+I've finally returned...");
 VoicePlay("P240301000_44_000");
 MsgDisp("Mitsuki","After being imprisoned for so long, to see
 you in this state...
@@ -33,7 +34,7 @@ deteriorated.");
 MsgDisp("主人公","Is that right...?");
 VoicePlay("P240301000_34_020");
 MsgDisp("Kuroda Kanbei","It's not a dream.
-Your hand...let me feel your hand...");
+Your hand... let me feel your hand...");
 VoicePlay("P240301000_44_010");
 MsgDisp("Mitsuki","Yes.");
 ChEye(3,0);
@@ -75,13 +76,15 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P240301000_03_050");
-MsgDisp("Honda","Yay! It was a great success!");
+MsgDisp("Honda","Yay!
+It was a great success!");
 MsgDisp("主人公","Ah, yeah.
 That's right...");
 SEStop("EV_SE_GAYA_021",3);
 MsgDisp("主人公","(That play went well, though... I was so
-distracted by ｛本多＊＊｝'s talking I
-couldn't concentrate on the last scene.");
+distracted by ｛本多＊＊｝'s
+talking I couldn't concentrate on the last
+scene.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

@@ -3,8 +3,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 ChCheek(3,10);
 VoicePlay("T020301000_03_250");
-MsgDisp("Honda","......!
-W-What does this mean?");
+MsgDisp("Honda","......! W-What does this mean?");
 MsgDisp("主人公","It means I like ｛本多＊＊｝ too.");
 ChEye(3,3);
 ChMouth(3,2);
@@ -18,7 +17,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020301000_03_270");
-MsgDisp("Honda","Haa......I see......");
+MsgDisp("Honda","Haa......
+I see......");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);

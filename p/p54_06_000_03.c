@@ -3,7 +3,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa... This might've been worse than last
+MsgDisp("主人公","(Haa...
+This might've been worse than last
 year...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -30,7 +31,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("P540600003_06_030");
-MsgDisp("Himuro","There's no point in apologizing to me. ");
+MsgDisp("Himuro","There's no point in apologizing to me.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

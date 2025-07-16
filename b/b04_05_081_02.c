@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     DateRateSet(3);
     ChMotion(5,0);
     VoicePlay("B040508102_05_010");
-    MsgDisp("Hiiragi","Yes. For this season, maybe just this
-place is enough.");
+    MsgDisp("Hiiragi","Yes.
+For this season, maybe just this place is
+enough.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -35,7 +36,7 @@ place is enough.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,8);
         VoicePlay("B040508102_05_020");
-        MsgDisp("Hiiragi","...Ah, yes, of course.
+        MsgDisp("Hiiragi","... Ah, yes, of course.
 You're also beautiful.");
         MsgDateResultDisp();
         break ;
@@ -56,7 +57,8 @@ I misunterstoo——");
         ChEye(5,3);
         ChMouth(5,4);
         VoicePlay("B040508102_05_050");
-        MsgDisp("Hiiragi","No. You're lovely and beautiful as always.
+        MsgDisp("Hiiragi","No.
+You're lovely and beautiful as always.
 You were not mistaken.");
         ChEye(5,4);
         ChMotion(5,2);
@@ -64,7 +66,8 @@ You were not mistaken.");
         MsgDisp("Hiiragi","Proof of that is when I come here, my eyes
 continuously go back and forth from you
 and the cherry blossoms. I am truly busy.");
-        MsgDisp("主人公","Umm... ｛柊＊＊＊｝, thank you.");
+        MsgDisp("主人公","Umm...
+｛柊＊＊＊｝, thank you.");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,3);

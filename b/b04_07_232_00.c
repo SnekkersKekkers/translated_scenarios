@@ -9,8 +9,7 @@ ChMotion(7,4);
 ChEyeOpenLevel(7,8);
 ScrFadeIn(0);
 VoicePlay("B040723200_07_000");
-MsgDisp("Mikage","There's no way you
-don't ride this right?");
+MsgDisp("Mikage","There's no way you don't ride this right?");
 MsgSel("You can enjoy some beautiful scenery♪","It felt so nice I got sleepy","It was nothing but high, cramped and scary...");
 switch (MsgSelRsltGet()){
     case 0:

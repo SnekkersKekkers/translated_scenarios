@@ -40,7 +40,8 @@ minute.");
     VoicePlay("B010200002_02_030");
     MsgDisp("Sassa","I wanted to get here earlier than you
 today.");
-    MsgDisp("主人公","Huh? Why?");
+    MsgDisp("主人公","Huh?
+Why?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -75,15 +76,17 @@ Why?");
     MsgDisp("Sassa","You asked why too... Seems like I walked
 here normally at first? But before I knew
 it, I started running.");
-    MsgDisp("主人公","What?　You came here running?");
+    MsgDisp("主人公","What?
+You came here running?");
     ChEye(2,4);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B010200002_02_080");
-    MsgDisp("Sassa","Yeah. I thought about us meeting up, and
-next thing I knew, I was running here.");
-    MsgDisp("主人公","Hehe. Somehow, that makes me a little
-happy.");
+    MsgDisp("Sassa","Yeah.
+I thought about us meeting up, and next
+thing I knew, I was running here.");
+    MsgDisp("主人公","Hehe.
+Somehow, that makes me a little happy.");
     MsgDispSksp(1,0);
     ChEye(2,4);
     ChMouth(2,4);

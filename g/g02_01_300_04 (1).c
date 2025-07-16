@@ -6,9 +6,10 @@ VoicePlay("G020130004_01_000");
 MsgDisp("Kazama","Yeah, I'm glad I brought you here.
 After all, you can only see this right
 now.");
-MsgDisp("主人公","Yeah, thanks.
-It makes me want to show ｛本多＊＊｝ and
-｛七ツ森＊｝ too, doesn't it?");
+MsgDisp("主人公","Yeah, thanks. It makes me want to show
+｛本多＊＊｝ and
+｛七ツ森＊｝ too, doesn't
+it?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,4);
@@ -87,7 +88,7 @@ ChMotion(1,0);
 VoicePlay("G020130004_01_100");
 MsgDisp("Kazama","They end with you.
 They stop with a, 'Alright!
-I'll tell her the next time I see her.'");
+I'll tell her the next time I see her. '");
 MsgDisp("主人公","That kinda makes me happy.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -97,7 +98,8 @@ MsgDisp("Kazama","Does it?
 If you're happy, then that's good enough
 for me.");
 MsgDisp("主人公","(｛風真＊＊｝ really understands
-｛本多＊＊｝ and ｛七ツ森＊｝...... )");
+｛本多＊＊｝ and
+｛七ツ森＊｝...... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

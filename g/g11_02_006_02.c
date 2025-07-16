@@ -10,8 +10,8 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200602_02_000");
-MsgDisp("Sassa","｛主人公｝, I just jumped all the
-hurdles as I imagined them.");
+MsgDisp("Sassa","｛主人公｝, I just jumped
+all the hurdles as I imagined them.");
 MsgDisp("主人公","Yeah, it's a better time than the last
 track meet.");
 ChEye(2,0);
@@ -34,8 +34,9 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200602_02_020");
-MsgDisp("Sassa","｛主人公｝, thanks to you, I've been
-able to practice to my fullest these days.");
+MsgDisp("Sassa","｛主人公｝, thanks to you,
+I've been able to practice to my fullest
+these days.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -43,9 +44,9 @@ VoicePlay("G110200602_02_030");
 MsgDisp("Sassa","This is my last Inter-High.
 Maybe I can give my seniors some good
 news.");
-MsgDisp("主人公","That's right.
-If ｛颯砂＊＊｝ can give it his all until
-the end, I'm sure they'll be very happy.");
+MsgDisp("主人公","That's right. If ｛颯砂＊＊｝ can
+give it his all until the end, I'm sure
+they'll be very happy.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -77,7 +78,8 @@ BGMStop();
 SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(｛颯砂＊＊｝... There isn't long until the
-last Inter-High!)");
+MsgDisp("主人公","(｛颯砂＊＊｝...
+There isn't long until the last
+Inter-High!)");
 MsgClose();
 ChClose(2,0,0);

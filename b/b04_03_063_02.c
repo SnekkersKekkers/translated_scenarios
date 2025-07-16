@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,5);
     VoicePlay("B040306302_03_010");
     MsgDisp("Honda","Got it, watch okayー?
-...It's cold!");
+... It's cold!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

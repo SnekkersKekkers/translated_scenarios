@@ -23,7 +23,8 @@ Thanks.");
     VoicePlay("I660800001_08_000");
     MsgDisp("Shirahane","You pay attention even to the smallest
 details now, dont'cha?");
-    MsgDisp("主人公","Yeah. You're setting a good example,
+    MsgDisp("主人公","Yeah.
+You're setting a good example,
 ｛大地＊＊｝.");
     ChEye(8,3);
     ChMouth(8,3);
@@ -31,8 +32,7 @@ details now, dont'cha?");
     VoicePlay("I660800001_08_010");
     MsgDisp("Shirahane","F'real?
 I'm gettin' fired up!");
-    MsgDisp("主人公","(Yeah, I think I'm getting
-used to this!)");
+    MsgDisp("主人公","(Yeah, I think I'm getting used to this!)");
     break ;
     case 4:
     case 5:
@@ -54,7 +54,8 @@ Thanks as always.");
     VoicePlay("I660800001_08_020");
     MsgDisp("Shirahane","As expected......
 Full points on attentiveness!");
-    MsgDisp("主人公","Ah, ｛大地＊＊｝. Thanks to you.");
+    MsgDisp("主人公","Ah, ｛大地＊＊｝.
+Thanks to you.");
     ChEye(8,3);
     ChMouth(8,4);
     ChEyeOpenLevel(8,10);
@@ -66,7 +67,8 @@ Full points on attentiveness!");
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("I660800001_08_040");
-    MsgDisp("Shirahane","Well...... I won't deny it.");
+    MsgDisp("Shirahane","Well......
+I won't deny it.");
     MsgDisp("主人公","Hehe!");
     ChEye(8,3);
     ChMouth(8,0);
@@ -75,7 +77,8 @@ Full points on attentiveness!");
     MsgDisp("Shirahane","But your attentiveness ain't bad to see,
 either.
 It feels good just watchin' it.");
-    MsgDisp("主人公","(Yay! ｛大地＊＊｝ praised me!)");
+    MsgDisp("主人公","(Yay!
+｛大地＊＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

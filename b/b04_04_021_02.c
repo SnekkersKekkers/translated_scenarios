@@ -31,8 +31,9 @@ switch (MsgSelRsltGet()){
         ChMotion(4,1);
         VoicePlay("B040402102_04_020");
         MsgDisp("Nanatsumori","Honestly, a bit?");
-        MsgDisp("主人公","Sorry. I should have picked a more
-enjoyable place.");
+        MsgDisp("主人公","Sorry.
+I should have picked a more enjoyable
+place.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,0);
@@ -60,8 +61,7 @@ can breathe a sigh of relief.");
         MsgDisp("Nanatsumori","It was the complete opposite when I met
 you though?
 My heart was racing every day.");
-        MsgDisp("主人公","Your heart was 
-racing every day?");
+        MsgDisp("主人公","Your heart was racing every day?");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,3);

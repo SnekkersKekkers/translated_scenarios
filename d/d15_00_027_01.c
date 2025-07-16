@@ -11,8 +11,9 @@ ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,1 ) ;
 VoicePlay ( "D150002701_07_000" ) ;
-MsgDisp ( "Mikage","That sounds fine. Do what you want, Sassa,
-but don't push yourself too much." ) ;
+MsgDisp ( "Mikage","That sounds fine.
+Do what you want, Sassa, but don't push
+yourself too much." ) ;
 MsgDisp ( "主人公","......?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
@@ -38,9 +39,10 @@ ChMouth ( 2,3 ) ;
 ChMotion ( 2,0 ) ;
 VoicePlay ( "D150002701_02_020" ) ;
 MsgDisp ( "Sassa","It helps me to talk to Mikage-sensei about
-my diet and my training. He gives me
-confidence." ) ;
-MsgDisp ( "主人公","As expected of ｛御影＊＊｝." ) ;
+my diet and my training.
+He gives me confidence." ) ;
+MsgDisp ( "主人公","As expected of
+｛御影＊＊｝." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,1 ) ;

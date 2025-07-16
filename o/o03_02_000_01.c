@@ -30,8 +30,9 @@ sync......)");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("O030200001_02_030");
-    MsgDisp("Sassa","Sorry. It must've been hard for you to
-match strides with someone as tall as me.");
+    MsgDisp("Sassa","Sorry.
+It must've been hard for you to match
+strides with someone as tall as me.");
     MsgDisp("主人公","Not at all.
 Rather, sorry for making you match pace
 with me, ｛颯砂＊＊｝.");
@@ -41,7 +42,7 @@ with me, ｛颯砂＊＊｝.");
     ChEyeOpenLevel(2,0);
     VoicePlay("O030200001_02_040");
     MsgDisp("Sassa","It was nothing.
-......It's just that I wanted to share a
+...... It's just that I wanted to share a
 win with you.");
     MsgDisp("主人公","(Yeah, we should've been in better
 sync......)");
@@ -85,8 +86,8 @@ were together.");
     MsgDisp("Sassa","Maybe it's not that bad to be tied
 together like this?
 -Wait, what am I saying?");
-    MsgDisp("主人公","(I can't tell if ｛颯砂＊＊｝ is frustrated
-or not......)");
+    MsgDisp("主人公","(I can't tell if ｛颯砂＊＊｝ is
+frustrated or not......)");
     break ;
     default :
     DbgAssert(1);

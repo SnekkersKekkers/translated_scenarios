@@ -6,7 +6,7 @@ ChMouth(22,3);
 ChMotion(22,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Sorry to disturb.
-......Wow, nice room!");
+...... Wow, nice room!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

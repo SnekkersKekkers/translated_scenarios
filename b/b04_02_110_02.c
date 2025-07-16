@@ -74,8 +74,7 @@ good training in.");
         ChMouth(2,0);
         ChMotion(2,3);
         VoicePlay("B040211002_02_070");
-        MsgDisp("Sassa","I'm  not particularly 
-looking up and down.");
+        MsgDisp("Sassa","I'm not particularly looking up and down.");
         MsgDisp("主人公","It's somewhat embarrassing though?");
         ChEye(2,0);
         ChMouth(2,0);
@@ -88,7 +87,8 @@ looking up and down.");
         SEWait();
         SEPlay("EV_SE_631",0,1);
         Wait(50,1);
-        MsgDisp("主人公","(｛颯砂＊＊｝... Diving is prohibited!)");
+        MsgDisp("主人公","(｛颯砂＊＊｝...
+Diving is prohibited!)");
         SEStop("EV_SE_631",1);
         break ;
         default :

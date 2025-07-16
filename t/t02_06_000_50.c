@@ -5,15 +5,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020600000_06_480");
-MsgDisp("Himuro","......Haa. You should have said that from
-the start.");
+MsgDisp("Himuro","...... Haa.
+You should have said that from the start.");
 VoicePlay("T020600000_06_490");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","You alone changed me,
-without a doubt.");
-MsgDisp("主人公","Yes......I got it.");
+MsgDisp("Himuro","You alone changed me, without a doubt.");
+MsgDisp("主人公","Yes......
+I got it.");
 VoicePlay("T020600000_06_500");
 ChEye(6,0);
 ChMouth(6,0);

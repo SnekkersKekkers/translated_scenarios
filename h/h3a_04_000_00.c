@@ -9,7 +9,8 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0400000_04_000");
     MsgDisp("Nanatsumori","You were cool.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! I won!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+I won!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -30,7 +31,8 @@ Today's the best day ever!)");
     VoiceEVSPlay(4);
     VoicePlay("H3A0400000_04_020");
     MsgDisp("Nanatsumori","｛主人公｝, good work.");
-    MsgDisp("主人公","｛七ツ森＊｝! I won, me!");
+    MsgDisp("主人公","｛七ツ森＊｝!
+I won, me!");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -48,8 +50,8 @@ I, I wouldn't do something like that.");
 I don't mind you being powerful.
 It was cool, you know?");
     MsgDisp("主人公","(Geez...... but, I'm really glad I stayed
-in the judo club! Today's the best day
-ever!)");
+in the judo club!
+Today's the best day ever!)");
     BGMStop();
     break ;
     default :

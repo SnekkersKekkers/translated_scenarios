@@ -9,19 +9,23 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("S110500000_05_000");
 MsgDisp("Hiiragi","It was Bad Luck.");
-MsgDisp("主人公","Uhm...Are you okay?");
+MsgDisp("主人公","Uhm...
+Are you okay?");
 ChMotion(5,4);
 VoicePlay("S110500000_05_010");
-MsgDisp("Hiiragi","Yeah. I actually get this one a lot. Bad
-Luck.");
-MsgDisp("主人公","Really? That's worrying.");
+MsgDisp("Hiiragi","Yeah.
+I actually get this one a lot.
+Bad Luck.");
+MsgDisp("主人公","Really?
+That's worrying.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("S110500000_05_020");
 MsgDisp("Hiiragi","It's fine.
 I just think of it like the first instance
 of a year's worth of bad luck.");
-MsgDisp("主人公","Wow, you're amazing, ｛柊＊＊＊｝.
+MsgDisp("主人公","Wow, you're amazing,
+｛柊＊＊＊｝.
 If I got Bad Luck, I'd feel depressed...");
 ChEye(5,0);
 ChMotion(5,4);

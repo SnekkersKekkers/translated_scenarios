@@ -11,8 +11,9 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200005_02_000");
 MsgDisp("Sassa","That's right.");
-MsgDisp("主人公","Huh? ｛颯砂＊＊｝, you're very calm about
-it.");
+MsgDisp("主人公","Huh?
+｛颯砂＊＊｝, you're very calm
+about it.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -40,7 +41,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200005_02_040");
-MsgDisp("Sassa","Huh... I guess there's not much point in
-taking chances with cramming the night
-before.");
+MsgDisp("Sassa","Huh...
+I guess there's not much point in taking
+chances with cramming the night before.");
 MsgDisp("主人公","(Well, I think gave him some hope...)");

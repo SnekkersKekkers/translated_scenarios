@@ -20,10 +20,10 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B150700300_07_020");
-MsgDisp("Mikage","Don't tell me you're 
-not serious yet.");
-MsgDisp("主人公","Umm... Before I knew it, my body was
-moving on its own.");
+MsgDisp("Mikage","Don't tell me you're not serious yet.");
+MsgDisp("主人公","Umm...
+Before I knew it, my body was moving on
+its own.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -34,10 +34,11 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B150700300_07_040");
-MsgDisp("Mikage","Haa... I'm starting to feel uneasy about
-how I told you to do as you please...");
-MsgDisp("主人公","(I wonder if I've made ｛御影＊＊｝
-troubled...)");
+MsgDisp("Mikage","Haa...
+I'm starting to feel uneasy about how I
+told you to do as you please...");
+MsgDisp("主人公","(I wonder if I've made
+｛御影＊＊｝ troubled...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

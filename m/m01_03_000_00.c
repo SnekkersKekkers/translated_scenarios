@@ -23,8 +23,7 @@ VoicePlay("M010300000_03_020");
 MsgDisp("Honda","I actually got here about thirty minutes
 ago, but I was talking to other people in
 the house.");
-MsgDisp("主人公","Eh∋
-you were?");
+MsgDisp("主人公","Eh∋ you were?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -32,8 +31,9 @@ VoicePlay("M010300000_03_030");
 MsgDisp("Honda","Yeah yeah.
 They asked me what you were like at
 school, like.");
-MsgDisp("主人公","Ehー...... You didn't tell them anything
-weird, right?");
+MsgDisp("主人公","Ehー......
+You didn't tell them anything weird,
+right?");
 ChSet(3,4);
 VoicePlay("M010300000_03_040");
 MsgDisp("Honda","What would be weird?");
@@ -76,7 +76,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("M010300000_03_100");
-MsgDisp("Honda","......tst, oh no.
+MsgDisp("Honda","...... tst, oh no.
 I said I wouldn't stay too long but I got
 caught up in talking again, huh?");
 MsgDisp("主人公","Mm Mm, thanks for coming all this way

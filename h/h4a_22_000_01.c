@@ -11,8 +11,7 @@ switch (ChPrmGet(22,6)){
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H4A2200001_22_000");
-    MsgDisp("Hikaru","Aah～,
-we were so close to winning～......");
+    MsgDisp("Hikaru","Aah～, we were so close to winning～......");
     MsgDisp("主人公","Haa...... it's frustrating.");
     ChMouth(22,0);
     ChMotion(22,0,1);
@@ -39,7 +38,8 @@ the rhythmic gymnastics club......)");
     VoicePlay("H4A2200001_22_030");
     MsgDisp("Hikaru","Uu......
 Mari, I'm sorry.");
-    MsgDisp("主人公","Hm, ｛ひかる＊｝, what's wrong?");
+    MsgDisp("主人公","Hm, ｛ひかる＊｝, what's
+wrong?");
     ChMotion(22,2,1);
     VoicePlay("H4A2200001_22_040");
     MsgDisp("Hikaru","Hikaru should've tried harder.
@@ -50,18 +50,19 @@ The opponent was just too strong.");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H4A2200001_22_050");
-    MsgDisp("Hikaru","Yeah...... But I wanted to win with Mari
-and everyone else......");
+    MsgDisp("Hikaru","Yeah......
+But I wanted to win with Mari and everyone
+else......");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H4A2200001_22_060");
-    MsgDisp("Hikaru","......Haa, let's cheer up.
+    MsgDisp("Hikaru","...... Haa, let's cheer up.
 Everyone did their best after all.
 Good work, Mari!");
-    MsgDisp("主人公","(｛ひかる＊｝...... we didn't win, but
-I'm glad I stayed in the rhythmic
-gymnastics club......)");
+    MsgDisp("主人公","(｛ひかる＊｝...... we didn't win, but I'm
+glad I stayed in the rhythmic gymnastics
+club......)");
     break ;
     default :
     DbgAssert(1);

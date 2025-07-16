@@ -58,8 +58,7 @@ You're such a sweet girl.");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("S120400003_04_050");
-    MsgDisp("Nanatsumori","......Treat me well again this year,
-okay?");
+    MsgDisp("Nanatsumori","......Treat me well again this year, okay?");
     MsgDisp("主人公","Yeah, same to you.");
     ChEye(4,0);
     ChMouth(4,3);

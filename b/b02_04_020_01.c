@@ -23,5 +23,5 @@ MsgDisp("Nanatsumori","Well, it's fine to be his fan.
 But I might have to think about getting
 into the T-shirt business.");
 MsgDisp("主人公","(Ah, they're from the same agency...?
-A ｛七ツ森＊｝ series T-shirt would be
-fun to have∈)");
+A ｛七ツ森＊｝ series
+T-shirt would be fun to have∈)");

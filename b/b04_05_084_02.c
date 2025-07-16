@@ -55,7 +55,7 @@ on.");
         ChMotion(5,4);
         ChEyeOpenLevel(5,9);
         VoicePlay("B040508402_05_050");
-        MsgDisp("Hiiragi","...Why are you laughing?
+        MsgDisp("Hiiragi","... Why are you laughing?
 Is it weird for me to use
 \"instagrammable\"?");
         MsgDisp("主人公","It's not weird.
@@ -64,8 +64,7 @@ Maybe just a bit cute.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040508402_05_060");
-        MsgDisp("Hiiragi","Your smile just now 
-was \"instagrammable\".");
+        MsgDisp("Hiiragi","Your smile just now was \"instagrammable\".");
         MsgDisp("主人公","Ehh?");
         ChEye(5,4);
         ChMouth(5,4);

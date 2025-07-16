@@ -5,14 +5,15 @@ I've been in good shape lately. Maybe it's
 because of all the exercise?)");
 VoiceEVSPlay(2);
 VoicePlay("G110200400_02_000");
-MsgDisp("Sassa?","｛主人公｝. You're here, huh?");
+MsgDisp("Sassa?","｛主人公｝.
+You're here, huh?");
 MsgClose();
 SEPlay("EV_SE_625");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Were you running today
-too?");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Were you running today too?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -44,8 +45,8 @@ MsgDisp("Sassa","You've gotten a lot better.
 You can keep up with me just fine, huh?");
 MsgDisp("主人公","R-Really?");
 MsgDisp("主人公","(Hehe......｛颯砂＊＊｝'s hair is so cute,
-the way it flutters......
-like a horse's mane?)");
+the way it flutters...... like a horse's
+mane?)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(2,1,0,0,0,0);

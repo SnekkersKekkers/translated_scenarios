@@ -106,8 +106,7 @@ Let's enjoy today together!");
         ChMotion(3,5);
         ChEyeOpenLevel(3,9);
         VoicePlay("B040321202_03_090");
-        MsgDisp("Honda","Let's go whilst they're 
-not mimicking us.");
+        MsgDisp("Honda","Let's go whilst they're not mimicking us.");
         MsgDisp("主人公","(｛本多＊＊｝, thank you for always giving
 me a good time.)");
         break ;

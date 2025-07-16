@@ -16,4 +16,5 @@ VoicePlay("B020402109_04_010");
 MsgDisp("Nanatsumori","No? You look like an athlete representing
 Japan. It's cool.");
 MsgDisp("主人公","(Oh, good!
-｛七ツ森＊｝ seems to have liked it!)");
+｛七ツ森＊｝ seems to
+have liked it!)");

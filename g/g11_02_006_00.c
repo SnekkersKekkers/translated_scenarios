@@ -27,8 +27,7 @@ ChMotion(2,1);
 VoicePlay("G110200600_02_000");
 MsgDisp("Sassa","Oh, good work.
 Can I ask you to help me cool down?");
-MsgDisp("主人公","Of course.
-......｛颯砂＊＊｝, you see——");
+MsgDisp("主人公","Of course. ......｛颯砂＊＊｝, you see——");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -42,8 +41,9 @@ ChMotion(2,2);
 VoicePlay("G110200600_02_020");
 MsgDisp("Sassa","So it's good to run with you like this
 sometimes.");
-MsgDisp("主人公","But...... I think everyone and the club
-leader seems to misunderstand ｛颯砂＊＊｝.");
+MsgDisp("主人公","But......
+I think everyone and the club leader seems
+to misunderstand ｛颯砂＊＊｝.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);

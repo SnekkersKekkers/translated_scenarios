@@ -14,8 +14,8 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Yes!
 I've always wanted this.
 Thank you!");
-    MsgDisp("主人公","(Yay! He's really happy
-with my gift.)");
+    MsgDisp("主人公","(Yay!
+He's really happy with my gift.)");
     break ;
     case 3:
     case 4:
@@ -27,8 +27,8 @@ with my gift.)");
     MsgDisp("Honda","Yes, jackpot～!
 Even though I would be happy with whatever
 gift from you, this is what I wanted!");
-    MsgDisp("主人公","(Yay! He's really happy
-with my gift.)");
+    MsgDisp("主人公","(Yay!
+He's really happy with my gift.)");
     break ;
     default :
     DbgAssert(1);

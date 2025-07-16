@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040223400_02_010");
     MsgDisp("Sassa","Even so, I spun too much...
-I somewhat...
-feel gross...");
+I somewhat... feel gross...");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -25,8 +24,8 @@ feel gross...");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040223400_02_020");
-    MsgDisp("Sassa","Yeah. That's pretty much all this ride is
-huh?");
+    MsgDisp("Sassa","Yeah.
+That's pretty much all this ride is huh?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -35,8 +34,8 @@ huh?");
     ChMouth(2,4);
     ChMotion(2,2);
     VoicePlay("B040223400_02_030");
-    MsgDisp("Sassa","Hahaha... me too. F-First, let's sit down
-for a bit.");
+    MsgDisp("Sassa","Hahaha... me too.
+F-First, let's sit down for a bit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

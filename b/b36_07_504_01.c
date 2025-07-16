@@ -14,7 +14,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750401_07_010");
-MsgDisp("Mikage","......It's beautiful, right?
+MsgDisp("Mikage","...... It's beautiful, right?
 No it's not.
 Let's go.");
 MsgDisp("主人公","......Okay.");
@@ -45,8 +45,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750401_07_040");
-MsgDisp("Mikage","Too bad it's only here
-for a limited time.");
+MsgDisp("Mikage","Too bad it's only here for a limited time.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

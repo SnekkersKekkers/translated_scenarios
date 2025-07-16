@@ -5,8 +5,8 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("P640300003_03_000");
-MsgDisp("Honda","｛主人公｝. Is my herb tea not done
-yet?");
+MsgDisp("Honda","｛主人公｝.
+Is my herb tea not done yet?");
 MsgDisp("主人公","Ehh∋
 Sorry, I'll prepare it right away.");
 ChEye(3,4);

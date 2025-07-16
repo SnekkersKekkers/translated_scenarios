@@ -3,12 +3,14 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F102220000_31_000");
 MsgDisp("Goro?","It's about time to head home now.");
-MsgDisp("主人公","(Eh? That voice...)");
+MsgDisp("主人公","(Eh?
+That voice...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(31,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","I thought so! ｛ひかる＊｝ and...
+MsgDisp("主人公","I thought so!
+｛ひかる＊｝ and...
 Goro-sensei∋");
 ChEye(22,0);
 ChMouth(22,3);
@@ -26,8 +28,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F102220000_22_010");
-MsgDisp("Hikaru","Ehe▼ Hikaru was the one who gave her the
-name♪");
+MsgDisp("Hikaru","Ehe▼
+Hikaru was the one who gave her the name♪");
 ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,2);
@@ -51,8 +53,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F102220000_22_020");
-MsgDisp("Hikaru","Huh? He sometimes sneaks in though. Have
-you never seen him, Mari?");
+MsgDisp("Hikaru","Huh?
+He sometimes sneaks in though.
+Have you never seen him, Mari?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);

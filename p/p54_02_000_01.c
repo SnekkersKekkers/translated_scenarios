@@ -16,8 +16,8 @@ ChMotion(2,0);
 VoicePlay("P540200001_02_010");
 MsgDisp("Sassa","I see, it's good if you think that.
 It means you still have room to grow.");
-MsgDisp("主人公","(Haa... If only I practiced more
-properly....)");
+MsgDisp("主人公","(Haa...
+If only I practiced more properly....)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

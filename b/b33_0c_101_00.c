@@ -46,8 +46,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10100_05_030");
-MsgDisp("Hiiragi","...No. I have not gotten used to it yet,
-but I love life at Haba High.");
+MsgDisp("Hiiragi","... No.
+I have not gotten used to it yet, but I
+love life at Haba High.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -72,8 +73,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10100_05_050");
-MsgDisp("Hiiragi","I would be glad for that
-to be the case.");
+MsgDisp("Hiiragi","I would be glad for that to be the case.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

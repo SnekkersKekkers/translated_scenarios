@@ -60,7 +60,8 @@ just to ignore it.");
     VoicePlay("S090700000_07_050");
     MsgDisp("Mikage","That maze of people......
 That's where they do fortunes, right?");
-    MsgDisp("主人公","｛御影＊＊｝ seems to like fortunes");
+    MsgDisp("主人公","｛御影＊＊｝ seems to
+like fortunes");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -73,9 +74,11 @@ That's where they do fortunes, right?");
         ChMouth(7,3);
         ChMotion(7,2);
         VoicePlay("S090700000_07_070");
-        MsgDisp("Mikage","Right? We've come all this way, it would
-be a waste not to go.");
-        MsgDisp("主人公","Hehe. Let's go.");
+        MsgDisp("Mikage","Right?
+We've come all this way, it would be a
+waste not to go.");
+        MsgDisp("主人公","Hehe.
+Let's go.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -126,9 +129,10 @@ Do you want to go?");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("S090700000_07_120");
-        MsgDisp("Mikage","Good. My lucky right hand will give me
-Excellent Luck, watch.");
-        MsgDisp("主人公","Hehe, is it really lucky? ");
+        MsgDisp("Mikage","Good.
+My lucky right hand will give me Excellent
+Luck, watch.");
+        MsgDisp("主人公","Hehe, is it really lucky?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -148,8 +152,8 @@ Leave it to me.");
         VoicePlay("S090700000_07_140");
         MsgDisp("Mikage","Oh, I see.
 If you don't like it, then you shouldn't.");
-        MsgDisp("主人公","(｛御影＊＊｝, feels like he really
-wanted to pull fortunes......
+        MsgDisp("主人公","(｛御影＊＊｝, feels like he really wanted
+to pull fortunes......
 Did I make the wrong choice?)");
         MsgClose();
         ScrFadeOut(0,0);

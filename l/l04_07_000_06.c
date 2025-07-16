@@ -6,8 +6,7 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("L040700006_07_000");
-    MsgDisp("Mikage","Hey, don't scare me with
-chocolate, okay?");
+    MsgDisp("Mikage","Hey, don't scare me with chocolate, okay?");
     MsgDisp("主人公","I'm sorry......
 I tried to put my all into it, but......");
     ChEye(7,2);
@@ -23,8 +22,8 @@ But, food is valuable, too.");
     VoicePlay("L040700006_07_020");
     MsgDisp("Mikage","Having said that, thanks.
 I'm happy about your feelings.");
-    MsgDisp("主人公","(Ugh...... I wish it came out
-better......)");
+    MsgDisp("主人公","(Ugh......
+I wish it came out better......)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -37,7 +36,7 @@ better......)");
     ChMotion(7,2);
     VoicePlay("L040700006_07_030");
     MsgDisp("Mikage","You made these yourself?
-......Damn, don't push yourself too hard.");
+...... Damn, don't push yourself too hard.");
     MsgDisp("主人公","I'm sorry......
 I tried to put my feelings into them......");
     ChEye(7,0);
@@ -55,8 +54,8 @@ right?");
     MsgDisp("Mikage","Sorry, sorry.
 You did make it just for me.
 That's good enough, thanks.");
-    MsgDisp("主人公","(Ugh...... I wish it came out
-better......)");
+    MsgDisp("主人公","(Ugh......
+I wish it came out better......)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -84,9 +83,10 @@ half-hearted.");
     ChMotion(7,5);
     VoicePlay("L040700006_07_080");
     MsgDisp("Mikage","I'll make sure to prepare myself, and eat
-this. Thanks.");
-    MsgDisp("主人公","｛御影＊＊｝, you don't have to force
-yourself to eat it......");
+this.
+Thanks.");
+    MsgDisp("主人公","｛御影＊＊｝, you don't
+have to force yourself to eat it......");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -95,7 +95,8 @@ yourself to eat it......");
 I'll make sure to accept your feelings in
 my stomach.");
     MsgDisp("主人公","(Aah, I wish I had made them better......
-I feel bad for ｛御影＊＊｝...... )");
+I feel bad for
+｛御影＊＊｝...... )");
     MsgClose();
     BGMStop();
     MsgClose();

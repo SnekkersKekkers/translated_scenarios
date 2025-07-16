@@ -36,8 +36,8 @@ VoicePlay("G020440003_04_050");
 MsgDisp("Nanatsumori","It's really amazing how fireflies manage
 to even be friends with humans.");
 MsgDisp("主人公","Yeah, you're right!
-...Ah, ｛七ツ森＊｝, a firefly landed
-on your shoulder.");
+... Ah, ｛七ツ森＊｝, a
+firefly landed on your shoulder.");
 ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,5,1);
@@ -48,8 +48,9 @@ ChMouth(4,5);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("G020440003_04_070");
-MsgDisp("Nanatsumori","Get it! Please! I don't want to do
-skinship with it!");
+MsgDisp("Nanatsumori","Get it!
+Please!
+I don't want to do skinship with it!");
 MsgDisp("主人公","(｛七ツ森＊｝, you really don't like
 bugs...)");
 BGMStop();

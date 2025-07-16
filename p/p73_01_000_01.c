@@ -17,7 +17,8 @@ I like it but...)");
     VoiceEVSPlay(1);
     VoicePlay("P730100001_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Did you come to watch?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -40,8 +41,8 @@ It's like you're at your kid's play.");
 are both on par with a pro. Go with
 confidence in yourself.");
     MsgDisp("主人公","Yeah, thank you.
-Thanks to ｛風真＊＊｝, I gained some
-courage.");
+Thanks to ｛風真＊＊｝, I gained
+some courage.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -56,8 +57,7 @@ parent watching their kid's play.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P730100001_01_050");
-    MsgDisp("Kazama","Look at me properly
-and pose, okay?");
+    MsgDisp("Kazama","Look at me properly and pose, okay?");
     MsgDisp("主人公","Ehh?
 Y-Yeah...!");
     MsgDisp("主人公","(｛風真＊＊｝ praised me...
@@ -79,8 +79,8 @@ I like it but...)");
     VoiceEVSPlay(1);
     VoicePlay("P730100001_01_060");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. What do you think of
-this dress?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+What do you think of this dress?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -98,7 +98,7 @@ Whether I dislike it or not means nothing.");
     ChMotion(1,3);
     VoicePlay("P730100001_01_090");
     MsgDisp("Kazama","If I'm understating it, it's the best.
-...Does that satisfy you?");
+... Does that satisfy you?");
     MsgDisp("主人公","Hehe, yeah.
 I'm super happy.");
     ChEye(1,0);
@@ -113,8 +113,7 @@ your work with your own appeal.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P730100001_01_110");
-    MsgDisp("Kazama","Crap,
-I have to go reserve a spot too.");
+    MsgDisp("Kazama","Crap, I have to go reserve a spot too.");
     MsgDisp("主人公","Hehe.
 Yeah, I'll see you later!");
     MsgClose();

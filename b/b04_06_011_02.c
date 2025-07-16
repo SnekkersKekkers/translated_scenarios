@@ -38,13 +38,13 @@ switch (MsgSelRsltGet()){
         MsgDisp("Himuro","Even though it's not like it's a place I
 especially like, I've come here three
 times.");
-        MsgDisp("主人公","Uh... I'm sorry.");
+        MsgDisp("主人公","Uh...
+I'm sorry.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);
         VoicePlay("B040601102_06_040");
-        MsgDisp("Himuro","I'm 
-not blaming you particularly.");
+        MsgDisp("Himuro","I'm not blaming you particularly.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -69,8 +69,7 @@ Sort of nonsense.");
         MsgDisp("Himuro","...Well, the way your nose stretches out
 when you smile is probably more worth
 seeing than this place.");
-        MsgDisp("主人公","∋
-It doesn't stretch out!");
+        MsgDisp("主人公","∋ It doesn't stretch out!");
         ChEye(6,3);
         ChMouth(6,3);
         ChMotion(6,0);

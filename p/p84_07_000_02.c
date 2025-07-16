@@ -9,8 +9,8 @@ SEWait();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840700002_07_000");
 MsgDisp("Mikage","Ohh, you have leftover cardboard?");
-MsgDisp("主人公","Ah, ｛御影＊＊｝. Yes, in the end
-exactly one piece.");
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Yes, in the end exactly one piece.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -23,8 +23,9 @@ VoicePlay("P840700002_07_020");
 MsgDisp("Mikage","...Nevertheless, for only one piece to be
 left, seems like that was a great
 calculations.");
-MsgDisp("主人公","Yes. It was a coincidence but I was
-surprised it was like my estimate.");
+MsgDisp("主人公","Yes.
+It was a coincidence but I was surprised
+it was like my estimate.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

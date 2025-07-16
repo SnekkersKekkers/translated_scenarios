@@ -16,8 +16,9 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoicePlay("S120200001_02_000");
     MsgDisp("Sassa","That was fun.");
-    MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, thanks for walking me
-home.");
+    MsgDisp("主人公","Yeah.
+｛颯砂＊＊｝, thanks for walking
+me home.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -59,8 +60,8 @@ will too......!)");
     MsgDisp("Sassa","I actually wish I could spend more time
 with you. But it's not good to sprint so
 quickly beyond the starting point.");
-    MsgDisp("主人公","In ｛颯砂＊＊｝'s mind, even this is like a
-track event.");
+    MsgDisp("主人公","In ｛颯砂＊＊｝'s mind, even this
+is like a track event.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -98,7 +99,8 @@ It's like some kind of challenge.");
     ChMotion(2,1);
     VoicePlay("S120200001_02_080");
     MsgDisp("Sassa","I think I'll try to build up my stamina
-for an all-out date. Cya.");
+for an all-out date.
+Cya.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");

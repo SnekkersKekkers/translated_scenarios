@@ -12,8 +12,7 @@ ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330C30801_06_000");
-MsgDisp("Himuro","Kojiro-sensei,
-what's the plan today?");
+MsgDisp("Himuro","Kojiro-sensei, what's the plan today?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -36,10 +35,10 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C30801_05_000");
-MsgDisp("Hiiragi","Yes, please tell me 
-about today's plans.");
+MsgDisp("Hiiragi","Yes, please tell me about today's plans.");
 MsgDisp("主人公","(Hehe! Both of them are looking forward to
-camping with ｛御影＊＊｝ )");
+camping with ｛御影＊＊｝
+)");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -56,8 +55,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30801_07_020");
-MsgDisp("Mikage","Right. Apparently watching the flickering
-flames will make your bonds deepen?");
+MsgDisp("Mikage","Right.
+Apparently watching the flickering flames
+will make your bonds deepen?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -116,8 +116,8 @@ ChMotion(7,1);
 VoicePlay("B330C30801_07_050");
 MsgDisp("Mikage","You two seem really motivated.
 That's just like high school boys.");
-MsgDisp("主人公","(｛御影＊＊｝ seems to be having the
-most fun though...I wonder if the campfire
+MsgDisp("主人公","(｛御影＊＊｝ seems to be having the most
+fun though...I wonder if the campfire
 effect is true...?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -32,7 +32,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06001_01_020");
-MsgDisp("Kazama","...It's fine.
+MsgDisp("Kazama","... It's fine.
 It's not good, but it's fine.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -46,7 +46,7 @@ VoicePlay("D140A06001_01_030");
 MsgDisp("Kazama","I'm not saying it's an especially bad
 thing. That the two of them are going out,
 I guess.");
-MsgDisp("主人公","Umm...yeah.
+MsgDisp("主人公","Umm... yeah.
 Maybe we have been going out recently.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -80,15 +80,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06001_06_050");
-MsgDisp("Himuro","Now we want to return
-our concern for him.");
+MsgDisp("Himuro","Now we want to return our concern for him.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06001_01_070");
 MsgDisp("Kazama","Tell him to spend his allowance more
-wisely. ...Geez.");
+wisely.
+... Geez.");
 MsgDisp("主人公","(I see, both of them are worried about me
 and ｛颯砂＊＊｝... )");
 BGMStop();

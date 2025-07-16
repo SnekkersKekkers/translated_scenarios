@@ -36,7 +36,8 @@ ChMotion(5,0);
 VoicePlay("G020510307_05_050");
 MsgDisp("Hiiragi","Take my female kabuki role as an example.");
 MsgDisp("主人公","Ah, that time, backstage......
-｛柊＊＊＊｝ was extremely beautiful!");
+｛柊＊＊＊｝ was extremely
+beautiful!");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);

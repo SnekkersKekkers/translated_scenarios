@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040510500_05_010");
-    MsgDisp("Hiiragi","Sorry, 
-I was pressuring you weirdly.");
+    MsgDisp("Hiiragi","Sorry, I was pressuring you weirdly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +28,9 @@ I was pressuring you weirdly.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040510500_05_020");
-    MsgDisp("Hiiragi","Indeed. Your stance is the correct way to
-go about it.");
+    MsgDisp("Hiiragi","Indeed.
+Your stance is the correct way to go about
+it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

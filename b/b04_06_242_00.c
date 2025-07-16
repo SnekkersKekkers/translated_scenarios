@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040624200_06_010");
-    MsgDisp("Himuro","Why don't you build 
-up more independence?");
+    MsgDisp("Himuro","Why don't you build up more independence?");
     MsgDateResultDisp();
     break ;
     case 1:

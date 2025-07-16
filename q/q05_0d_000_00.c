@@ -13,9 +13,9 @@ ChMotion(21,0);
 VoicePlay("Q050D00000_21_000");
 MsgDisp("Michiru","Good morning.
 Did you sleep well?");
-MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝, good
-morning!
-Yep, absolutely.");
+MsgDisp("主人公","｛ひかる＊｝,
+｛みちる＊｝, good
+morning! Yep, absolutely.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -36,8 +36,10 @@ switch (MsgSelRsltGet()){
     ChMotion(21,3);
     VoicePlay("Q050D00000_21_010");
     MsgDisp("Michiru","Let's make lot of memories together.");
-    MsgDisp("主人公","(Together with ｛ひかる＊｝ and
-｛みちる＊｝, this is gonna be fun!)");
+    MsgDisp("主人公","(Together with
+｛ひかる＊｝ and
+｛みちる＊｝, this is
+gonna be fun!)");
     break ;
     case 1:
     ChEye(22,2);
@@ -50,14 +52,16 @@ How come, why?");
     ChMouth(21,4);
     ChMotion(21,4);
     VoicePlay("Q050D00000_21_020");
-    MsgDisp("Michiru","...... Hikaru. Maria surely has her own
-plans. Let's go.");
+    MsgDisp("Michiru","...... Hikaru.
+Maria surely has her own plans.
+Let's go.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     ChClose(21,0,30);
     ChClose(22,0,30);
-    MsgDisp("主人公","(Mm...... Now I feel bad, maybe I
-should'nt have refused?)");
+    MsgDisp("主人公","(Mm......
+Now I feel bad, maybe I should'nt have
+refused?)");
     break ;
     default :
     DbgAssert(0);

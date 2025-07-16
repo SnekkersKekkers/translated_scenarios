@@ -38,13 +38,13 @@ Today's the best day ever!)");
     ScrFadeIn(0);
     VoicePlay("H4A0600000_06_030");
     MsgDisp("Himuro","Congrats.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Thanks.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+Thanks.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H4A0600000_06_040");
-    MsgDisp("Himuro","How do I say this......
-it was beautiful.");
+    MsgDisp("Himuro","How do I say this...... it was beautiful.");
     MsgDisp("主人公","Huh......");
     ChEye(6,0);
     ChMouth(6,0);
@@ -67,8 +67,8 @@ Me too......");
     ChMotion(6,1);
     ChCheek(6,10);
     VoicePlay("H4A0600000_06_070");
-    MsgDisp("Himuro","Nothing! ......Anyways, congrats on
-winning.");
+    MsgDisp("Himuro","Nothing!
+...... Anyways, congrats on winning.");
     MsgDisp("主人公","(I'm really glad I stayed in the rhythmic
 gymnastics club......
 Today's the best day ever!)");

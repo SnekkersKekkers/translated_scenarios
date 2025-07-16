@@ -25,7 +25,8 @@ VoicePlay("T040120000_02_000");
 MsgDisp("Sassa","......Huh? Is Inori the only one who
 didn't get any extras? Don't be sulky.");
 VoicePlay("T040120000_06_010");
-MsgDisp("Himuro","Huh? Why me?
+MsgDisp("Himuro","Huh?
+Why me?
 I don't understand.");
 MsgDisp("主人公","｛氷室＊＊｝ doesn't eat that much.
 ......right?");

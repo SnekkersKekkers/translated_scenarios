@@ -25,7 +25,8 @@ all.");
     MsgDisp("Nanatsumori","It's super pretty.
 Maybe you'll discover a new species of
 flower?");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

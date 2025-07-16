@@ -10,8 +10,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 ChCheek(3,0);
-MsgDisp("主人公","Hey, did you catch 
-the show yesterday?");
+MsgDisp("主人公","Hey, did you catch the show yesterday?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -27,13 +26,12 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D140B05102_04_010");
-MsgDisp("Nanatsumori","Oh, you have a good
-eye for this huh?");
+MsgDisp("Nanatsumori","Oh, you have a good eye for this huh?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B05102_04_020");
-MsgDisp("Nanatsumori","...You guys sure are quiet.
+MsgDisp("Nanatsumori","... You guys sure are quiet.
 Did you not watch it");
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B05102_01_000");
@@ -95,10 +93,9 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B05102_03_020");
-MsgDisp("Honda","Then, let's resume
-our fun lunch time♪");
-MsgDisp("主人公","(So ｛風真＊＊｝ actually wanted to watch
-it too.
+MsgDisp("Honda","Then, let's resume our fun lunch time♪");
+MsgDisp("主人公","(So ｛風真＊＊｝ actually
+wanted to watch it too.
 But, they mentioned jealousy...?)");
 BGMStop();
 MsgClose();

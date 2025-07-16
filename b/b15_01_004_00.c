@@ -35,10 +35,10 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B150100400_01_030");
-MsgDisp("Kazama","Eh... N-No, don't make that face. This
-doesn't mean I'm mad.");
-MsgDisp("主人公","But, I made you uncomfortable
-didn't I?");
+MsgDisp("Kazama","Eh...
+N-No, don't make that face.
+This doesn't mean I'm mad.");
+MsgDisp("主人公","But, I made you uncomfortable didn't I?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

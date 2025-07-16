@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040706100_07_010");
-    MsgDisp("Mikage","The chaperones have to
-keep watch here.");
+    MsgDisp("Mikage","The chaperones have to keep watch here.");
     MsgDateResultDisp();
     break ;
     case 1:

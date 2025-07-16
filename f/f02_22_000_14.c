@@ -9,8 +9,7 @@ ChEye(22,2);
 ChMouth(22,4);
 ChMotion(22,2,1);
 VoicePlay("F022200014_22_000");
-MsgDisp("Hikaru","I don't want to be
-separated from Mari.");
+MsgDisp("Hikaru","I don't want to be separated from Mari.");
 MsgDisp("主人公","｛ひかる＊｝......");
 ChEye(22,2);
 ChMouth(22,0);
@@ -31,8 +30,9 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200014_22_030");
-MsgDisp("Hikaru","...Ehe. This sort of thing isn't like
-Hikaru, right?");
+MsgDisp("Hikaru","... Ehe.
+This sort of thing isn't like Hikaru,
+right?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

@@ -60,14 +60,15 @@ BGOpen("ne600",1);
 MsgClose();
 ChOpen(3,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Hehe. ｛本多＊＊｝ looks like he had a good
-time. I'm glad.");
+MsgDisp("主人公","Hehe. ｛本多＊＊｝ looks like he
+had a good time. I'm glad.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B050300000_03_060");
-MsgDisp("Honda","Totally. It was a little bit different
-from what I imagined, though.");
+MsgDisp("Honda","Totally.
+It was a little bit different from what I
+imagined, though.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -98,16 +99,16 @@ VoicePlay("B050300000_03_100");
 MsgDisp("Honda","It was my a song from my sister's favorite
 idol group.
 I hear it all the time at home......");
-MsgDisp("主人公","Hehe. At least your sister is happy, I
-guess?");
+MsgDisp("主人公","Hehe.
+At least your sister is happy, I guess?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B050300000_03_110");
 MsgDisp("Honda","I guess so. ——Oh, look. The CD is in
 stock. I'll buy it.");
-MsgDisp("主人公","Eh, ｛本多＊＊｝, I thought you didn't like
-it......");
+MsgDisp("主人公","Eh, ｛本多＊＊｝, I thought you
+didn't like it......");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

@@ -3,7 +3,8 @@ ChMouth(5,4);
 VoicePlay("B070500000_05_060");
 MsgDisp("Hiiragi","What I like to eat? The first thing that
 comes to mind is fugashi. I love that.");
-MsgDisp("主人公","Fugashi? That cheap snack?");
+MsgDisp("主人公","Fugashi?
+That cheap snack?");
 ChEye(5,4);
 ChMotion(5,0,1);
 VoicePlay("B070500000_05_070");
@@ -31,7 +32,8 @@ VoicePlay("B070500000_05_100");
 MsgDisp("Hiiragi","That goes well with green tea.
 Goodness, it really ruins people.
 A food just like the devil.");
-MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝, you really like it
+MsgDisp("主人公","(Hehe!
+｛柊＊＊＊｝, you really like it
 huh?)");
 BGMStop();
 MsgClose();

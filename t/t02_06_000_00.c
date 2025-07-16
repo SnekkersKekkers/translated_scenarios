@@ -69,7 +69,7 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 Wait(60,0);
 VoicePlay("T020600000_06_090");
-MsgDisp("Himuro","...But hey.
+MsgDisp("Himuro","... But hey.
 You're right here, in front of me.");
 MsgDisp("主人公","Oh...");
 ChEye(6,4);
@@ -141,8 +141,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoiceEVSPlay(6);
 VoicePlay("T020600000_06_180");
-MsgDisp("Himuro","｛主人公｝... From now on, I want us to
-be together. I want you by my side.");
+MsgDisp("Himuro","｛主人公｝...
+From now on, I want us to be together.
+I want you by my side.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);

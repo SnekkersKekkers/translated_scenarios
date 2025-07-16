@@ -12,8 +12,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00000_06_000");
-MsgDisp("Himuro","Wow...
-you can act like that?");
+MsgDisp("Himuro","Wow... you can act like that?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -59,8 +58,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D130A00000_01_030");
 MsgDisp("Kazama","What day is today?");
-MsgDisp("主人公","Eh... Ah, it's 
-Valentine's day!");
+MsgDisp("主人公","Eh...
+Ah, it's Valentine's day!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

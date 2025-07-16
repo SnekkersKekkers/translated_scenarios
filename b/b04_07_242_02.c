@@ -35,24 +35,24 @@ course.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040724202_07_020");
-        MsgDisp("Mikage","\"Marriage Interview Camping?\" It might be
-like a simulation of what it would be like
-to live together.");
+        MsgDisp("Mikage","\"Marriage Interview Camping?\"
+It might be like a simulation of what it
+would be like to live together.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040724202_07_030");
         MsgDisp("Mikage","But what I'm talking about, is more like
 seeing the other person's vitality.");
-        MsgDisp("主人公","｛御影＊＊｝'s vitality is so strong,
-you can see it even on the regular?'");
+        MsgDisp("主人公","｛御影＊＊｝'s vitality is
+so strong, you can see it even on the
+regular?'");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
         ChEyeOpenLevel(7,7);
         VoicePlay("B040724202_07_040");
-        MsgDisp("Mikage","Well, I'm not the
-] type to hold back.");
+        MsgDisp("Mikage","Well, I'm not the ] type to hold back.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,5);
@@ -75,7 +75,7 @@ Yeah, I'll give it my all!)");
 　　　　　　　　　　 ・");
         ChOpen(7,255,0,0,0,#1,#1,0,0);
         ScrFadeIn(0);
-        MsgDisp("主人公","...I'm very sorry.
+        MsgDisp("主人公","... I'm very sorry.
 I burnt the camping pot.");
         ChEye(7,0);
         ChMouth(7,0);

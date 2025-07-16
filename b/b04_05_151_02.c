@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("B040515102_05_010");
-    MsgDisp("Hiiragi","Phew,
-you're as honest as ever.");
+    MsgDisp("Hiiragi","Phew, you're as honest as ever.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -73,8 +72,7 @@ I phrased it weirdly.");
 when our theater group used to tour the
 country, we stayed in places with bowling
 alleys.");
-        MsgDisp("主人公","I see, 
-hotels have bowling facilities.");
+        MsgDisp("主人公","I see, hotels have bowling facilities.");
         ChEye(5,4);
         VoicePlay("B040515102_05_070");
         MsgDisp("Hiiragi","Indeed, but I wasn't allowed to play.

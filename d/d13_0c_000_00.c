@@ -22,8 +22,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130C00000_06_000");
-MsgDisp("Himuro","Well, it feels 
-like usual to me.");
+MsgDisp("Himuro","Well, it feels like usual to me.");
 MsgDisp("主人公","Umm, what are you talking about?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -31,7 +30,8 @@ ChMotion(5,2);
 ChCheek(5,3);
 VoiceEVSPlay(5);
 VoicePlay("D130C00000_05_000");
-MsgDisp("Hiiragi","｛主人公｝, good afternoon...");
+MsgDisp("Hiiragi","｛主人公｝, good
+afternoon...");
 MsgDisp("主人公","Yeah, good afternoon.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -40,8 +40,7 @@ ChEyeOpenLevel(6,8);
 VoicePlay("D130C00000_06_010");
 MsgDisp("Himuro","Eh... have you really forgotten, and you
 don't have anything?");
-MsgDisp("主人公","Ah, you're talking
-about Valentine's day?");
+MsgDisp("主人公","Ah, you're talking about Valentine's day?");
 ChMotion(5,0);
 ChEye(7,0);
 ChMouth(7,0);
@@ -60,19 +59,18 @@ ChOpen(5,254,4,2,4,0,#1,0,0,0,30);
 VoicePlay("D130C00000_05_010");
 MsgDisp("Hiiragi","Those two have been like that since this
 morning.");
-MsgDisp("主人公","Hehe, that's 
-how they're like.");
+MsgDisp("主人公","Hehe, that's how they're like.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D130C00000_05_020");
-MsgDisp("Hiiragi","Then I shall also
-return to my classroom.");
+MsgDisp("Hiiragi","Then I shall also return to my classroom.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(...It's Valentine's day, is that what
+MsgDisp("主人公","(...
+It's Valentine's day, is that what
 everyone is so worried about?)");
 MsgClose();
 ScrFadeOut(0,0);

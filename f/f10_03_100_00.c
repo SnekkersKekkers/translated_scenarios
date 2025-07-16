@@ -5,8 +5,8 @@ I have to head back to the classroom...)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Huh, ｛本多＊＊｝? What are you doing in a
-place like this?");
+MsgDisp("主人公","Huh, ｛本多＊＊｝?
+What are you doing in a place like this?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -48,8 +48,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("F100310000_03_050");
-MsgDisp("Honda","Heheh, are you getting 
-interested?");
+MsgDisp("Honda","Heheh, are you getting interested?");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -68,8 +67,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(As expected of ｛本多＊＊｝, he's doing
-something interesting.
+MsgDisp("主人公","(As expected of ｛本多＊＊｝, he's
+doing something interesting.
 I'm definitely curious...)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();

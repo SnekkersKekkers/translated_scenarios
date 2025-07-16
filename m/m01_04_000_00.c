@@ -11,7 +11,8 @@ ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("M010400000_04_000");
 MsgDisp("Nanatsumori","If you're asking about her, I just
 finished introducing myself.");
-MsgDisp("主人公","｛七ツ森＊｝∋ Why......");
+MsgDisp("主人公","｛七ツ森＊｝∋
+Why......");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -30,7 +31,7 @@ MsgDisp("主人公","｛七ツ森＊｝, thank you.");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("M010400000_04_030");
-MsgDisp("Nanatsumori","......That's good.
+MsgDisp("Nanatsumori","...... That's good.
 Your color looks alright and all.
 You can talk, too.");
 ChEye(4,0);
@@ -52,8 +53,8 @@ MsgDisp("主人公","｛七ツ森＊｝......");
 ChMotion(4,1,1);
 VoiceEVSPlay(4);
 VoicePlay("M010400000_04_070");
-MsgDisp("Nanatsumori","｛主人公｝. Next week, think you'll be
-able to come?");
+MsgDisp("Nanatsumori","｛主人公｝.
+Next week, think you'll be able to come?");
 MsgDisp("主人公","Mm.
 I'm better now.
 Thanks for worrying.");
@@ -72,7 +73,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("M010400000_04_100");
-MsgDisp("Nanatsumori","Good. Next week I'll be waiting at school.
+MsgDisp("Nanatsumori","Good.
+Next week I'll be waiting at school.
 Let me hear your energetic voice.");
 ChEye(4,4);
 ChMouth(4,3);
@@ -87,5 +89,6 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(I made ｛七ツ森＊｝ worry.
+MsgDisp("主人公","(I made ｛七ツ森＊｝
+worry.
 If I don't hurry and get better......!)");

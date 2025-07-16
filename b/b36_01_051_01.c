@@ -13,15 +13,13 @@ VoicePlay("B360105101_01_000");
 MsgDisp("Kazama","It seems to be good here.
 As expected, I'm tired from the
 overly-high spirits.");
-MsgDisp("主人公","Hehe,
-did we come here to have a break?");
+MsgDisp("主人公","Hehe, did we come here to have a break?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360105101_01_010");
-MsgDisp("Kazama","Yeah, let's take 
-our time and rest.");
+MsgDisp("Kazama","Yeah, let's take our time and rest.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -36,16 +34,14 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B360105101_01_030");
 MsgDisp("Kazama","Those guys will be outraged if they find
 us.");
-MsgDisp("主人公","Then, we can all have
-fun together again.");
+MsgDisp("主人公","Then, we can all have fun together again.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360105101_01_040");
 MsgDisp("Kazama","Haa?
-...Geez, you really
-don't get it.");
+... Geez, you really don't get it.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

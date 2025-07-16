@@ -8,8 +8,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020600001_06_000");
-    MsgDisp("Himuro","Well, the other team was
-more in sync.");
+    MsgDisp("Himuro","Well, the other team was more in sync.");
     MsgDisp("主人公","(I lost......
 I wish I tried harder.)");
     break ;

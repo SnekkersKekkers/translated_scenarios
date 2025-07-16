@@ -19,8 +19,7 @@ Are you enjoying the school trip?");
 Yes, and you ｛柊＊＊＊｝?");
     ChMotion(5,4);
     VoicePlay("Q020500000_05_010");
-    MsgDisp("Hiiragi","About that, 
-I have something to ask you.");
+    MsgDisp("Hiiragi","About that, I have something to ask you.");
     MsgDisp("主人公","Huh, what may it be?");
     ChMotion(5,0);
     VoicePlay("Q020500000_05_020");
@@ -84,7 +83,8 @@ invited me......)");
     ChMotion(5,4);
     VoicePlay("Q020500000_05_070");
     MsgDisp("Hiiragi","I never knew school trips are so fun.");
-    MsgDisp("主人公","Hehe, I'm happy for you, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Hehe, I'm happy for you,
+｛柊＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,3);
     Wait(20,1);
@@ -120,8 +120,9 @@ I'll get ready quickly!");
         VoicePlay("Q020500000_05_120");
         MsgDisp("Hiiragi","Oh right, please take your time.
 I will rejoice here as I wait for you.");
-        MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝ looks so excited. I'm
-sure it will be a wonderful school trip!)");
+        MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝ looks so
+excited. I'm sure it will be a wonderful
+school trip!)");
         MsgClose();
         ScrFadeOut(0,0);
         ChClose(5,0,0);

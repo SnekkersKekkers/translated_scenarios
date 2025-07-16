@@ -38,8 +38,7 @@ the thrill.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623100_06_030");
-    MsgDisp("Himuro","Even though you were 
-screaming that much?");
+    MsgDisp("Himuro","Even though you were screaming that much?");
     MsgDateResultDisp();
     break ;
     default :

@@ -82,10 +82,12 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610304_06_120");
-MsgDisp("Himuro","Haa......I really hate this.
+MsgDisp("Himuro","Haa......
+I really hate this.
 This isn't like me at all.");
-MsgDisp("主人公","(｛氷室＊＊｝...... Gave his utmost effort
-in choosing a present for me......)");
+MsgDisp("主人公","(｛氷室＊＊｝......
+Gave his utmost effort in choosing a
+present for me......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030724001_07_010");
-    MsgDisp("Mikage","Alright. Let's go to the farm and see
-them.");
+    MsgDisp("Mikage","Alright.
+Let's go to the farm and see them.");
     MsgDispSksp(0);
     break ;
     case 1:

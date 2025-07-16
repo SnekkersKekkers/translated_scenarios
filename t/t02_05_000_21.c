@@ -6,7 +6,8 @@ Wait(60,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("T020500021_05_000");
 MsgDisp("Hiiragi","Does that mean you'll be with me?");
-MsgDisp("主人公","Yes. I also like ｛柊＊＊＊｝.");
+MsgDisp("主人公","Yes.
+I also like ｛柊＊＊＊｝.");
 ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -15,8 +16,8 @@ ChMouth(5,4);
 VoicePlay("T020500021_05_010");
 MsgDisp("Hiiragi","If my confession made you smile, I
 couldn't be happier.");
-MsgDisp("主人公","If I'm with ｛柊＊＊＊｝, I'm always
-smiling.
+MsgDisp("主人公","If I'm with ｛柊＊＊＊｝, I'm
+always smiling.
 Thank you.");
 ChMotion(5,0);
 Wait(12,0);
@@ -35,8 +36,8 @@ Wait(120,0);
 StlOpen("ev_05_17");
 ScrFadeIn(0);
 VoicePlay("T020500021_05_030");
-MsgDisp("Hiiragi","I'll be with you......
-for all of eternity.");
+MsgDisp("Hiiragi","I'll be with you...... for all of
+eternity.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

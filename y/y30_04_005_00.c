@@ -3,7 +3,8 @@ MsgType(3);
 BGOpen("ad450",0);
 ScrFadeIn(0);
 VoicePlay("Y300400500_04_000");
-MsgDisp("Nanatsumori","\"Then... It's time head in.\"");
+MsgDisp("Nanatsumori","\"Then...
+It's time head in.\"");
 MsgClear();
 MsgDisp("","Even though it's my house...my family
 home, I'm even more nervous than she
@@ -47,8 +48,8 @@ SEWait();
 MsgDisp("","Seems like I was too late...");
 MsgClear();
 VoicePlay("Y300400500_46_000");
-MsgDisp("Nana's Sister","\"Hello～! Nice to meet you, I'm his
-sister\"");
+MsgDisp("Nana's Sister","\"Hello～!
+Nice to meet you, I'm his sister\"");
 MsgDisp("","The final boss abruptly appears ——
 With a smile, she introduces herself
 to my sister.");
@@ -89,8 +90,7 @@ MsgDisp("Nanatsumori","\"I'm really sorry about today. That
 you had to talk to my sister and my
 Mom. Are you tired?\"");
 MsgDisp("","She shook her head, laughing.
-It was...
-a genuine laugh.");
+It was... a genuine laugh.");
 MsgDisp("","When I saw that, I was so relieved.
 The corner of my eyes began to sting.");
 BGMPlay("BGM_C04_NANA_KOKU",0.01);
@@ -103,8 +103,9 @@ MsgDisp("","My anxieties dissipated, my heart was
 filled with only happiness.");
 MsgDisp("","I pulled her in and held her tightly.");
 VoicePlay("Y300400500_04_030");
-MsgDisp("Nanatsumori","\"...Thanks. With this, I have nothing
-left to fear.\"");
+MsgDisp("Nanatsumori","\"... Thanks.
+With this, I have nothing left to
+fear.\"");
 BGMStop();
 MsgClear();
 MsgClose();

@@ -5,8 +5,7 @@ MsgClose();
 ChOpen(7,255,0,2,0,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723100_07_000");
-MsgDisp("Mikage","When I ride this,
-I feel so powerless.");
+MsgDisp("Mikage","When I ride this, I feel so powerless.");
 MsgSel("That was awesome! I want to ride it again","Uugh, that was scary...","I wanted a little more thrill...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -25,8 +24,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040723100_07_020");
-    MsgDisp("Mikage","Hahaha...
-...me too.");
+    MsgDisp("Mikage","Hahaha... ...me too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

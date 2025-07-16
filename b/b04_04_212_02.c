@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040421202_04_010");
-    MsgDisp("Nanatsumori","The rabbit is fine
-but not the gorillaー");
+    MsgDisp("Nanatsumori","The rabbit is fine but not the gorillaー");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -83,8 +82,9 @@ guys yearn for?");
         ChMotion(4,2,1);
         ChCheek(4,8);
         VoicePlay("B040421202_04_080");
-        MsgDisp("Nanatsumori","Eh∋ I didn't say you had to be a
-full-body bunny.");
+        MsgDisp("Nanatsumori","Eh∋
+I didn't say you had to be a full-body
+bunny.");
         MsgDisp("主人公","Your eyes are kind of serious though,
 ｛七ツ森＊｝.");
         ChEye(4,2);
@@ -92,7 +92,7 @@ full-body bunny.");
         ChMotion(4,0,1);
         ChCheek(4,2);
         VoicePlay("B040421202_04_090");
-        MsgDisp("Nanatsumori","Well...it can't be helped.
+        MsgDisp("Nanatsumori","Well... it can't be helped.
 I seriously do want to see it after all.");
         MsgDisp("主人公","Ehー...");
         MsgDisp("主人公","Okay, understood.
@@ -112,7 +112,8 @@ Then, I'll wear it.");
         ChOpen(4,255,0,5,4,#1,#1,5,0,0,60);
         SEPlay("EV_SE_554");
         ScrQuake(1);
-        MsgDisp("主人公","｛七ツ森＊｝ can wear the gorilla cap!");
+        MsgDisp("主人公","｛七ツ森＊｝ can wear the
+gorilla cap!");
         ChEye(4,4);
         ChMouth(4,1);
         VoicePlay("B040421202_04_110");

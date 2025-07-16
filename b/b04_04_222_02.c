@@ -31,8 +31,7 @@ interested too.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040422202_04_020");
-    MsgDisp("Nanatsumori","Eh?
-then, why did we come here?");
+    MsgDisp("Nanatsumori","Eh? then, why did we come here?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -59,7 +58,8 @@ There's no need for stuff like that.");
         ChMotion(4,2,1);
         VoicePlay("B040422202_04_040");
         MsgDisp("Nanatsumori","I don't get your reasoning.");
-        MsgDisp("主人公","｛七ツ森＊｝, do you hate it here?");
+        MsgDisp("主人公","｛七ツ森＊｝, do you hate
+it here?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);
@@ -71,7 +71,8 @@ I don't think it's suited for a date.");
         ChMouth(4,0);
         ChMotion(4,1,1);
         VoicePlay("B040422202_04_060");
-        MsgDisp("Nanatsumori","So? Is the reason you came here with me is
+        MsgDisp("Nanatsumori","So?
+Is the reason you came here with me is
 because it's fun?");
         MsgDisp("主人公","That's because...
 It feels like we're going back in time,
@@ -80,8 +81,7 @@ the two of us.");
         ChMouth(4,0);
         ChMotion(4,3,1);
         VoicePlay("B040422202_04_070");
-        MsgDisp("Nanatsumori","I see...
-so you're having delusions.");
+        MsgDisp("Nanatsumori","I see... so you're having delusions.");
         MsgDisp("主人公","Hey, don't put it like that.");
         ChEye(4,0);
         ChMouth(4,3);

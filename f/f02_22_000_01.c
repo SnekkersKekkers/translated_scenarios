@@ -34,7 +34,7 @@ ChMotion(22,4,1);
 VoicePlay("F022200001_22_030");
 MsgDisp("Hikaru","Right, couples who unite there receive
 eternal happiness▼");
-MsgDisp("主人公","(Hehe. Maybe \"benefits\" isn't very
-church-like?)");
+MsgDisp("主人公","(Hehe.
+Maybe \"benefits\" isn't very church-like?)");
 MsgClose();
 ScrFadeOut(0,0);

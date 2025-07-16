@@ -2,8 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home now.)");
-MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is over there.
-Well, let's have a chat then go home.)");
+MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is
+over there. Well, let's have a chat then
+go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -23,7 +24,8 @@ VoicePlay("G110100701_01_000");
 MsgDisp("Kazama","I lost track of time......
 This is a nice season isn't it?");
 MsgDisp("主人公","Yeah, it feels nice, huh?
-Does ｛風真＊＊｝ also like spring?");
+Does ｛風真＊＊｝ also like
+spring?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -71,7 +73,7 @@ VoicePlay("G110100701_01_070");
 MsgDisp("Kazama","Since you're interested...
 Next summer, instead of hitting the water,
 how about we look for driftwood together?");
-MsgDisp("主人公","Hehe, I'd love to. ");
+MsgDisp("主人公","Hehe, I'd love to.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

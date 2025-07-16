@@ -13,14 +13,15 @@ ChNanaType(0);
 ChOpen(4,254,0,0,4,#1,#1,0,0,0,60);
 VoicePlay("P540400004_04_000");
 MsgDisp("Nanatsumori","Amazingー......");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝. It was a huge
-success, huh?");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+It was a huge success, huh?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P540400004_04_010");
-MsgDisp("Nanatsumori","Yeah. It might have been the first time I
-got teary-eyed at an orchestra.");
+MsgDisp("Nanatsumori","Yeah.
+It might have been the first time I got
+teary-eyed at an orchestra.");
 MsgDisp("主人公","Hehe, I'm glad you liked it.");
 ChEye(4,4);
 ChMouth(4,3);

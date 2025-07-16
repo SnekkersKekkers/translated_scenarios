@@ -17,9 +17,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020720030_07_020");
-MsgDisp("Mikage","I was acting spoiled until the end.
-to them......
-to you.");
+MsgDisp("Mikage","I was acting spoiled until the end. to
+them...... to you.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -29,7 +28,8 @@ MsgDisp("Mikage","Thanks to you, I could move on from Haba
 High.
 Thank you.");
 MsgDisp("主人公","Me too, I was very happy in the last three
-years I spent with ｛御影＊＊｝.");
+years I spent with
+｛御影＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);

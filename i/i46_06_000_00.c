@@ -36,8 +36,8 @@ I'll clean it up now.");
 to the work.
 You'll make more mistakes.");
     MsgDisp("主人公","O-Okay.");
-    MsgDisp("主人公","(Like ｛氷室＊＊｝ told me to, I'll have to
-get it together......!)");
+    MsgDisp("主人公","(Like ｛氷室＊＊｝ told me to, I'll
+have to get it together......!)");
     break ;
     case 4:
     case 5:

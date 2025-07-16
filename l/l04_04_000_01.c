@@ -12,8 +12,7 @@ switch (ChPrmGet(4,6)){
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Hm,
-well, I guess that's it......)");
+    MsgDisp("主人公","(Hm, well, I guess that's it......)");
     break ;
     case 3:
     ChEye(4,0);
@@ -43,7 +42,8 @@ Thank you.");
     VoicePlay("L040400001_04_030");
     MsgDisp("Nanatsumori",".........? Are you sure you're giving this
 to the right person?");
-    MsgDisp("主人公","You're ｛七ツ森＊｝, right?");
+    MsgDisp("主人公","You're ｛七ツ森＊｝,
+right?");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);

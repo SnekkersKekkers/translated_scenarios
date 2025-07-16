@@ -18,7 +18,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("B360507000_05_010");
-MsgDisp("Hiiragi","Yeah. 
+MsgDisp("Hiiragi","Yeah.
 But I already have it.");
 ChEye(5,4);
 ChMotion(5,0);
@@ -57,8 +57,8 @@ ChMouth(5,3);
 VoicePlay("B360507000_05_070");
 MsgDisp("Hiiragi","Hehe.
 I'm actually quite the strategist.");
-MsgDisp("主人公","(Something about ｛柊＊＊＊｝ seems a
-little different from usual......)");
+MsgDisp("主人公","(Something about ｛柊＊＊＊｝
+seems a little different from usual......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

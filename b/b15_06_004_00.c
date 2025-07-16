@@ -13,8 +13,7 @@ VoicePlay("B150600400_06_010");
 MsgDisp("Himuro","I told you as much didn't I? Learn some
 self restraint and be careful with your
 actions! You haven't done a single thing!");
-MsgDisp("主人公","I meant to be more 
-aware of it but...");
+MsgDisp("主人公","I meant to be more aware of it but...");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,2);
@@ -42,7 +41,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 ChEyeOpenLevel(6,#1);
 Wait(60,0);
-MsgDisp("主人公","Eh∋　Wait!");
+MsgDisp("主人公","Eh∋
+Wait!");
 SEWait();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
@@ -50,8 +50,7 @@ Wait(30,0);
 ChOpen(6,255,2,1,1,0,#1,0,0);
 VoicePlay("B150600400_06_050");
 MsgDisp("Himuro","What.");
-MsgDisp("主人公","I just...
-wanted to apologize.");
+MsgDisp("主人公","I just... wanted to apologize.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -64,7 +63,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600400_06_070");
 MsgDisp("Himuro","I don't hate you touching me itself.
-Rather... I'm happy.");
+Rather...
+I'm happy.");
 MsgDisp("主人公","Yeah...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -79,8 +79,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("B150600400_06_090");
-MsgDisp("Himuro","...Don't make me say 
-stuff like this.");
+MsgDisp("Himuro","...Don't make me say stuff like this.");
 MsgDisp("主人公","I'm sorry.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -94,7 +93,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600400_06_110");
-MsgDisp("Himuro","...Then, I'm heading home.
+MsgDisp("Himuro","... Then, I'm heading home.
 Goodnight.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);

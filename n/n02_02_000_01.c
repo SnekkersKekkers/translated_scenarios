@@ -16,7 +16,8 @@ student.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("N020200001_02_010");
-    MsgDisp("Sassa","Yeah. Whatever I got, I'll face the
+    MsgDisp("Sassa","Yeah.
+Whatever I got, I'll face the
 consequences.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -36,9 +37,10 @@ Thank you.");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200001_02_030");
-    MsgDisp("Sassa","｛主人公｝. You got a good score on
-your last exams.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Thank you!");
+    MsgDisp("Sassa","｛主人公｝.
+You got a good score on your last exams.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Thank you!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -61,16 +63,19 @@ your last exams.");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200001_02_060");
-    MsgDisp("Sassa","｛主人公｝. That's quite impressive. I
-saw your name near the top.");
+    MsgDisp("Sassa","｛主人公｝.
+That's quite impressive.
+I saw your name near the top.");
     MsgDisp("主人公","Thank you.
-｛颯砂＊＊｝, did you see your rank?");
+｛颯砂＊＊｝, did you see your
+rank?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("N020200001_02_070");
-    MsgDisp("Sassa","Yeah. Whether I see it or not, the score
-is always gonna be the same.");
+    MsgDisp("Sassa","Yeah.
+Whether I see it or not, the score is
+always gonna be the same.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

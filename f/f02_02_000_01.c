@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, do you know the legend about
-the church on school grounds?");
+MsgDisp("主人公","｛颯砂＊＊｝, do you know the
+legend about the church on school grounds?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -52,15 +52,16 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200001_02_060");
-MsgDisp("Sassa","Right? One year is too short, so... three
-years?");
+MsgDisp("Sassa","Right?
+One year is too short, so... three years?");
 MsgDisp("主人公","Is that so...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("F020200001_02_070");
-MsgDisp("Sassa","Right. It's three years from when you
-enter the school to when you graduate.");
+MsgDisp("Sassa","Right.
+It's three years from when you enter the
+school to when you graduate.");
 MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,4);

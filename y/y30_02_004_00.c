@@ -50,8 +50,9 @@ MsgDisp("","I watch at the two of them like this,
 and while laughing, Ryota turns to me
 and starts talking to me.");
 VoicePlay("Y300200400_01_010");
-MsgDisp("Kazama","\"Hm? Why are you so quiet...Did you
-eat something weird?\"");
+MsgDisp("Kazama","\"Hm?
+Why are you so quiet...
+Did you eat something weird?\"");
 MsgDisp("","I can understand how they feel,
 wanting to force things to be more
 exciting.");

@@ -6,7 +6,8 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020610301_06_000");
 MsgDisp("Himuro","Lately, I've been sleep-deprived.
 It's your fault.");
-MsgDisp("主人公","Eh! Why?");
+MsgDisp("主人公","Eh!
+Why?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

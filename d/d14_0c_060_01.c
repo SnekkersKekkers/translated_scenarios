@@ -6,8 +6,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 ChCheek(7,0);
-MsgDisp("主人公","Seems like ｛氷室＊＊｝ will be a little bit
-late today.");
+MsgDisp("主人公","Seems like ｛氷室＊＊｝ will be a
+little bit late today.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -72,14 +72,15 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C06001_05_050");
-MsgDisp("Hiiragi","The first thing he'll say is...
-\"What are you all so solemn for\".");
+MsgDisp("Hiiragi","The first thing he'll say is... \"
+What are you all so solemn for\".");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C06001_07_040");
 MsgDisp("Mikage","Yanosuke, good thinking.");
-MsgDisp("主人公","(Hehe. If ｛氷室＊＊｝ really says it, I
+MsgDisp("主人公","(Hehe.
+If ｛氷室＊＊｝ really says it, I
 might end up laughing?)");
 BGMStop();
 MsgClose();

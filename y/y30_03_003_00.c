@@ -12,9 +12,9 @@ job, a chemical change occurred
 within me. It happens from time to
 time when I'm with her, a reaction in
 the deepest parts of my chest.");
-MsgDisp("","It's happened before too.
-before I let \"I like you\" slip out of
-my mouth.");
+MsgDisp("","It's happened before too. before I
+let \"I like you\" slip out of my
+mouth.");
 MsgClear();
 VoicePlay("Y300300300_03_010");
 MsgDisp("Honda","\"Aahー, But today I said \"love\" didn't
@@ -59,8 +59,8 @@ As I thought, she's the best!\"");
 VoicePlay("Y300300300_44_000");
 MsgDisp("Honda's Sister","\"Hey, bro, shut up!\"");
 MsgClear();
-MsgDisp("","Haa... I'm only getting scolded
-today...");
+MsgDisp("","Haa...
+I'm only getting scolded today...");
 BGMStop();
 MsgClear();
 MsgClose();

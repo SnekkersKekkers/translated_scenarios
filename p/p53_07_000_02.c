@@ -23,7 +23,8 @@ these last three years?)");
     VoicePlay("P530700002_07_010");
     MsgDisp("Mikage","I came to see your nervous face, but I'm
 disappointed.");
-    MsgDisp("主人公","Hey. I'm nervous since it's my last
+    MsgDisp("主人公","Hey.
+I'm nervous since it's my last
 performance.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -42,8 +43,9 @@ Himuro's last time conducting? So repay
 him with a good performance.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alright! I'll have to let both
-Himuro-sensei and ｛御影＊＊｝ listen
-to the culmination of my performances!)");
+Himuro-sensei and
+｛御影＊＊｝ listen to
+the culmination of my performances!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -65,7 +67,8 @@ these last three years?)");
     VoicePlay("P530700002_07_050");
     MsgDisp("Mikage","I thought you'd be a bit more nervous, but
 it's impressive.");
-    MsgDisp("主人公","Yes. I did everything I could for the last
+    MsgDisp("主人公","Yes.
+I did everything I could for the last
 three years.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -77,7 +80,7 @@ three years.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P530700002_07_070");
-    MsgDisp("Mikage","I'm your homeroom teacher. ");
+    MsgDisp("Mikage","I'm your homeroom teacher.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -109,8 +112,9 @@ concert band.");
     MsgDisp("Mikage","Alright, everyone is waiting.
 Put them at ease with your smile.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Alright! I have to show them the
-culmination of my hard work!)");
+    MsgDisp("主人公","(Alright!
+I have to show them the culmination of my
+hard work!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

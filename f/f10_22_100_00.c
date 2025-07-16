@@ -7,8 +7,8 @@ BGMPlay("BGM_C22_HIKARU_A",0.01);
 ChOpen(22,254,0,3,3,0,#1,0,0);
 VoicePlay("F102210000_22_000");
 MsgDisp("Hikaru","Heheh♪");
-MsgDisp("主人公","｛ひかる＊｝! You seem to be in a good
-mood, don't you?");
+MsgDisp("主人公","｛ひかる＊｝!
+You seem to be in a good mood, don't you?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -35,11 +35,13 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(22);
-MsgDisp("主人公","(Maybe I'll go see it later...Hm?)");
+MsgDisp("主人公","(Maybe I'll go see it later...
+Hm?)");
 VoicePlay("F102210000_40_000");
 MsgDisp("Garden Club Member","The flowers are missing from the
 flowerbed!
 Who took them without permission∋");
-MsgDisp("主人公","(Eh? It couldn't be...)");
+MsgDisp("主人公","(Eh?
+It couldn't be...)");
 MsgClose();
 ScrFadeOut(0,0);

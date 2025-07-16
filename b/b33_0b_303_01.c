@@ -16,16 +16,16 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330B30301_01_000");
-MsgDisp("Kazama","Oh, so you didn't 
-buy it in the end?");
-MsgDisp("主人公","Yeah. I kind of thought I couldn't pull it
+MsgDisp("Kazama","Oh, so you didn't buy it in the end?");
+MsgDisp("主人公","Yeah.
+I kind of thought I couldn't pull it
 off...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30301_04_000");
-MsgDisp("Nanatsumori","Really? I thought it would've suited you
-though.");
+MsgDisp("Nanatsumori","Really?
+I thought it would've suited you though.");
 MsgDisp("主人公","I'm happy to hear you say that,
 ｛七ツ森＊｝ but...
 I think it's too mature for me.");
@@ -51,8 +51,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30301_04_010");
-MsgDisp("Nanatsumori","Don't talk like 
-someone's Dad, Kazama.");
+MsgDisp("Nanatsumori","Don't talk like someone's Dad, Kazama.");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
@@ -85,8 +84,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B330B30301_03_020");
-MsgDisp("Honda","Well, I do like it 
-when it's loose.");
+MsgDisp("Honda","Well, I do like it when it's loose.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -99,8 +97,9 @@ VoicePlay("B330B30301_04_040");
 MsgDisp("Nanatsumori","Yeah. Hm. I can't imitate Dahon's sense of
 fashion in that respect.");
 MsgDisp("主人公","(Hehe! I might be caught off-guard if
-｛七ツ森＊｝ wore his uniform in the
-casual way ｛本多＊＊｝ does?");
+｛七ツ森＊｝ wore his
+uniform in the casual way
+｛本多＊＊｝ does?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he
-had something he wanted to talk to me
-about when we go home ......DId something
+MsgDisp("主人公","(That's right......｛風真＊＊｝ said he had
+something he wanted to talk to me about
+when we go home ......DId something
 happen?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -38,8 +38,7 @@ ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100603_01_020");
-MsgDisp("Kazama","Does he give you 
-that kind of advice?");
+MsgDisp("Kazama","Does he give you that kind of advice?");
 MsgDisp("主人公","Like what?
 He does teach me about fashion though.");
 ChEyeOpenLevel(1,0);
@@ -76,8 +75,8 @@ MsgDisp("Kazama","But after experimenting with different
 things, it would be good if you could come
 back. A return to where you started?");
 MsgDisp("主人公","(Return to where I started?
-｛風真＊＊｝, you are talking about
-fashion, right?)");
+｛風真＊＊｝, you are talking
+about fashion, right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

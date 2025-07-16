@@ -26,8 +26,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650101_06_020");
-MsgDisp("Himuro","What? You didn't realize it? Everyone's
-eyes were on you.");
+MsgDisp("Himuro","What?
+You didn't realize it?
+Everyone's eyes were on you.");
 MsgDisp("主人公","I guess......?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -87,8 +88,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B360650101_06_110");
-MsgDisp("Himuro","......Thanks. I almost lost sight of
-something important.");
+MsgDisp("Himuro","...... Thanks.
+I almost lost sight of something
+important.");
 MsgDisp("主人公","(｛氷室＊＊｝......)");
 BGMStop();
 MsgClose();

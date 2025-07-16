@@ -27,8 +27,7 @@ the way for a bit and get some fresh air.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040724101_07_020");
-    MsgDisp("Mikage","You're not even trying
-to see anything.");
+    MsgDisp("Mikage","You're not even trying to see anything.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,8 +36,7 @@ to see anything.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040724101_07_030");
-    MsgDisp("Mikage","Maybe it caught Molly's
-smell on my body?");
+    MsgDisp("Mikage","Maybe it caught Molly's smell on my body?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

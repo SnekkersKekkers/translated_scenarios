@@ -7,7 +7,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_310");
-MsgDisp("Nanatsumori","Ah......don't cry. Please.");
+MsgDisp("Nanatsumori","Ah...... don't cry.
+Please.");
 MsgDisp("主人公","But......");
 BGMPlay("BGM_C04_NANA_B",0.01);
 ChEye(4,2);
@@ -37,8 +38,8 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoiceEVSPlay(4);
 VoicePlay("T020420000_04_360");
-MsgDisp("Nanatsumori","｛主人公｝...... Thank you for the last
-three years.");
+MsgDisp("Nanatsumori","｛主人公｝......
+Thank you for the last three years.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

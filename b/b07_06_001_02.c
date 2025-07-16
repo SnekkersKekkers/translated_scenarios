@@ -14,8 +14,7 @@ VoicePlay("B070600001_06_100");
 MsgDisp("Himuro","He acts like an older brother, it's
 annoying.
 Even though we're only a year apart.");
-MsgDisp("主人公","Isn't he like a reliable
-older brother?");
+MsgDisp("主人公","Isn't he like a reliable older brother?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -56,8 +55,9 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_160");
 MsgDisp("Himuro","But the fact that he's recommending
 decathlon to me is just nonsense.");
-MsgDisp("主人公","(｛氷室＊＊｝ recognizes ｛颯砂＊＊｝ in his
-own way, doesn't he?)");
+MsgDisp("主人公","(｛氷室＊＊｝ recognizes
+｛颯砂＊＊｝ in his own way,
+doesn't he?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -5,7 +5,7 @@ StlMouth(21,0);
 StlEye(22,1);
 StlMouth(22,2);
 VoicePlay("U160D00001_22_000");
-MsgDisp("Hikaru","Aa～h.
+MsgDisp("Hikaru","Aa～ h.
 I thought we could have girl talk with
 Mari today.");
 MsgDisp("主人公","I'm sorry?");

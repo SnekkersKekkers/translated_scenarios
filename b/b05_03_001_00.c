@@ -20,8 +20,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B050300100_03_020");
-MsgDisp("Honda","I'm really craving the beach club's
-ramen.");
+MsgDisp("Honda","I'm really craving the beach club's ramen.");
 MsgDisp("主人公","Hehe, that's fine!");
 ChEye(3,0);
 ChMouth(3,3);
@@ -85,15 +84,15 @@ That's really interesting!");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("B050300100_03_100");
-MsgDisp("Honda","......If we don't eat them quickly enough,
-they'll get soggy.
+MsgDisp("Honda","...... If we don't eat them quickly
+enough, they'll get soggy.
 Thanks for the food!");
 MsgDisp("主人公","Hehe, thanks for the food.");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
 VoicePlay("B050300100_03_110");
-MsgDisp("Honda",".........Mm!
+MsgDisp("Honda","......... Mm!
 Mm-, mm!");
 MsgDisp("主人公","A-Are you okay∋");
 MsgClose();
@@ -127,7 +126,8 @@ VoicePlay("B050300100_03_140");
 MsgDisp("Honda","We have to go.
 Let's eat them and live a long life
 together!");
-MsgDisp("主人公","(......Hm? He just said something
-crazy......)");
+MsgDisp("主人公","(......
+Hm?
+He just said something crazy......)");
 BGMStop();
 ChPrmTblAdd(3,0);

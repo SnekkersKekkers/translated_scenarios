@@ -3,7 +3,8 @@ ChOpen(3,255,5,5,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300000_03_000");
 MsgDisp("Honda","Whoa, that really surprised me.");
-MsgDisp("主人公","Huh? What do you mean?");
+MsgDisp("主人公","Huh?
+What do you mean?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -14,8 +15,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B150300000_03_020");
-MsgDisp("Honda","Right! Speaking of distance, everyone has
-their own personal space, right?");
+MsgDisp("Honda","Right!
+Speaking of distance, everyone has their
+own personal space, right?");
 MsgDisp("主人公","Yeah?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -43,8 +45,9 @@ MsgDisp("Honda","So, based on those definitions, the
 distance between us right now is 'intimate
 distance.' It's a space usually reserved
 for very close friends.");
-MsgDisp("主人公","Oh... I'm sorry if it was too much. Did I
-make you uncomfortable?");
+MsgDisp("主人公","Oh...
+I'm sorry if it was too much.
+Did I make you uncomfortable?");
 ChEye(3,0);
 ChMotion(3,0,1);
 VoicePlay("B150300000_03_060");
@@ -64,8 +67,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B150300000_03_080");
 MsgDisp("Honda","Like family!");
 MsgDisp("主人公","(Family huh...
-But it seems like ｛本多＊＊｝, doesn't
-mind physical closeness at all?)");
+But it seems like ｛本多＊＊｝,
+doesn't mind physical closeness at all?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

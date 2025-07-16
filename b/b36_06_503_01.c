@@ -12,7 +12,8 @@ ChMotion(6,2,1);
 ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360650301_06_000");
-MsgDisp("Himuro","Haa...... I'm tired......");
+MsgDisp("Himuro","Haa......
+I'm tired......");
 MsgDisp("主人公","Good job today.");
 ChEye(6,2);
 ChMouth(6,0);
@@ -20,7 +21,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650301_06_010");
 MsgDisp("Himuro","Why shoulders are so stiff.
-......Why did I decide to hang out with
+...... Why did I decide to hang out with
 those guys?");
 MsgDisp("主人公","You didn't enjoy?");
 ChEye(6,0);
@@ -72,7 +73,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650301_06_090");
 MsgDisp("Himuro","You really don't think it's a bad thing do
-you? Jeez......");
+you?
+Jeez......");
 MsgDisp("主人公","(You're not being honest, huh?)");
 BGMStop();
 MsgClose();

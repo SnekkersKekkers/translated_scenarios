@@ -8,10 +8,12 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140A04101_01_000");
-MsgDisp("Kazama","Right. It's not just a physical thing,
-there's also a lot of invisible force.");
-MsgDisp("主人公","Hehe. It's because ｛颯砂＊＊｝ is always
-lively.");
+MsgDisp("Kazama","Right.
+It's not just a physical thing, there's
+also a lot of invisible force.");
+MsgDisp("主人公","Hehe.
+It's because ｛颯砂＊＊｝ is
+always lively.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -44,8 +46,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140A04101_06_030");
-MsgDisp("Himuro","...You hear that,
-Ryota-senpai?");
+MsgDisp("Himuro","...You hear that, Ryota-senpai?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

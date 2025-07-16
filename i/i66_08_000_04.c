@@ -36,8 +36,8 @@ open.");
     ChMotion(8,3,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800004_08_030");
-    MsgDisp("Shirahane","Amazin'...... Will ya teach me your
-techniques?");
+    MsgDisp("Shirahane","Amazin'......
+Will ya teach me your techniques?");
     MsgDisp("主人公","(｛大地＊＊｝ praised me!
 Let's keep doing our best!)");
     break ;
@@ -62,9 +62,10 @@ Now, the bill......");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800004_08_060");
-    MsgDisp("Shirahane","......Hey. Is there some new window
-cleaner fluid?");
-    MsgDisp("主人公","Hm?　It's the usual one.
+    MsgDisp("Shirahane","...... Hey.
+Is there some new window cleaner fluid?");
+    MsgDisp("主人公","Hm?
+It's the usual one.
 What's up?");
     ChEye(8,3);
     VoicePlay("I660800004_08_070");
@@ -82,7 +83,8 @@ So we should clean it well, right?");
     VoicePlay("I660800004_08_080");
     MsgDisp("Shirahane","You're a real master of service.
 Good!");
-    MsgDisp("主人公","(Yay! ｛大地＊＊｝ praised me!)");
+    MsgDisp("主人公","(Yay!
+｛大地＊＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

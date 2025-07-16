@@ -18,8 +18,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360350101_03_010");
-MsgDisp("Honda","Thanks. But you know, this is kind of a
-new feeling for me.");
+MsgDisp("Honda","Thanks.
+But you know, this is kind of a new
+feeling for me.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);

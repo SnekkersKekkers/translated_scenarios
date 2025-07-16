@@ -24,8 +24,7 @@ talent in itself.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040118700_01_010");
-    MsgDisp("Kazama","Yeah, even evaluating
-it is such a pain.");
+    MsgDisp("Kazama","Yeah, even evaluating it is such a pain.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

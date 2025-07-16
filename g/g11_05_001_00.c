@@ -8,7 +8,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(5,254,4,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝. What are you up to?");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+What are you up to?");
 ChEye(5,4);
 VoicePlay("G110500100_05_000");
 MsgDisp("Hiiragi","I stopped by the staffroom to pick up some
@@ -56,7 +57,8 @@ ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
 VoicePlay("G110500100_05_020");
-MsgDisp("Hiiragi","Yes. Oh, but I'm not being forced to do it
+MsgDisp("Hiiragi","Yes.
+Oh, but I'm not being forced to do it
 though.");
 ChEye(5,0);
 ChMouth(5,1);
@@ -66,8 +68,8 @@ MsgDisp("Hiiragi","I'm not good with computers, and after
 school I still have to do work with the
 theatre company too, right?");
 MsgDisp("主人公","I see.
-｛柊＊＊＊｝, don't push yourself too
-hard, okay?");
+｛柊＊＊＊｝, don't push
+yourself too hard, okay?");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

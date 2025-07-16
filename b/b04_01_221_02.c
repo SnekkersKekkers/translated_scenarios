@@ -69,14 +69,16 @@ Then, you go first.");
         SEWait();
         BGOpen("tr321",0);
         ScrFadeIn(0);
-        MsgDisp("主人公","Amazing! Look, you can see the beautiful
-sky and mountains");
+        MsgDisp("主人公","Amazing!
+Look, you can see the beautiful sky and
+mountains");
         VoicePlay("B040122102_01_050");
         MsgDisp("Kazama","Oi, don't get so carried away");
         SEPlay("EV_SE_026",0,0.4);
         SEWait();
-        MsgDisp("主人公","Eh∋ ｛風真＊＊｝! Something just flashed
-just now∈");
+        MsgDisp("主人公","Eh∋
+｛風真＊＊｝!
+Something just flashed just now∈");
         VoicePlay("B040122102_01_060");
         MsgDisp("Kazama","Got it, got it.
 It's dangerous, so that'll be all.");

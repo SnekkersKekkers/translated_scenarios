@@ -14,7 +14,8 @@ but...)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600002_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Welcome!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -55,7 +56,8 @@ but...)");
     VoiceEVSPlay(6);
     VoicePlay("P630600002_06_040");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","｛氷室＊＊｝! You came?");
+    MsgDisp("主人公","｛氷室＊＊｝!
+You came?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -80,8 +82,7 @@ The menu is also legit.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P630600002_06_080");
-    MsgDisp("Himuro","Hmmm...it's 
-somewhat complicated.");
+    MsgDisp("Himuro","Hmmm...it's somewhat complicated.");
     MsgDisp("主人公","Eh?");
     ChEye(6,0);
     ChMouth(6,0);

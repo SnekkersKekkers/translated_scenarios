@@ -6,7 +6,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020130000_01_000");
 MsgDisp("Kazama","What would happen if those guys found out
 we came here?");
-MsgDisp("主人公","｛颯砂＊＊｝ and ｛氷室＊＊｝?");
+MsgDisp("主人公","｛颯砂＊＊｝ and
+｛氷室＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -44,15 +45,16 @@ VoicePlay("G020130000_01_050");
 MsgDisp("Kazama","And then, he'd try to find out what we
 talked about.
 That's just how he is.");
-MsgDisp("主人公","Hehe, ｛風真＊＊｝ really knows those two
-well.");
+MsgDisp("主人公","Hehe, ｛風真＊＊｝ really knows
+those two well.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_060");
-MsgDisp("Kazama","Yeah. Actually, I don't really dislike
-those guys.");
+MsgDisp("Kazama","Yeah.
+Actually, I don't really dislike those
+guys.");
 ChEye(1,0);
 MsgDisp("主人公","(Hehe, I know.
 ｛風真＊＊｝ likes them.)");

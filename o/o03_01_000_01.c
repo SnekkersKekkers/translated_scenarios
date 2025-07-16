@@ -22,8 +22,7 @@ could've gotten first place......");
     ChMouth(1,1);
     ChMotion(1,1);
     VoicePlay("O030100001_01_010");
-    MsgDisp("Kazama","There's no way that we weren't
-in sync.");
+    MsgDisp("Kazama","There's no way that we weren't in sync.");
     MsgDisp("主人公","I did my best......
 I'm sorry.");
     ChEye(1,0);
@@ -39,8 +38,7 @@ tied together?");
     ChMotion(1,3);
     VoicePlay("O030100001_01_030");
     MsgDisp("Kazama","What, I don't really mind.");
-    MsgDisp("主人公","(If only we were a
-bit more in sync......)");
+    MsgDisp("主人公","(If only we were a bit more in sync......)");
     break ;
     case 4:
     case 5:
@@ -57,8 +55,7 @@ bit more in sync......)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O030100001_01_050");
-    MsgDisp("Kazama","Hey, didn't we fall
-at the same time?");
+    MsgDisp("Kazama","Hey, didn't we fall at the same time?");
     MsgDisp("主人公","Hehe, I guess so.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -66,8 +63,7 @@ at the same time?");
     VoicePlay("O030100001_01_060");
     MsgDisp("Kazama","Being too in sync is a problem, too.
 Well, you didn't get hurt, so it's okay.");
-    MsgDisp("主人公","But I wanted to win
-first place, you know?");
+    MsgDisp("主人公","But I wanted to win first place, you know?");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
     ChEye(1,0);
@@ -78,7 +74,8 @@ first place, you know?");
     MsgDisp("Kazama","Then should we blend in during the next
 race?");
     MsgDisp("主人公","(We didn't win, but it was fun
-participating with ｛風真＊＊｝. )");
+participating with ｛風真＊＊｝.
+)");
     break ;
     default :
     DbgAssert(1);

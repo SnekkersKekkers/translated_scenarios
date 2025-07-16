@@ -1,7 +1,7 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","...Alright.
+MsgDisp("主人公","... Alright.
 Time to head home.");
 VoicePlay("E010120000_01_000");
 MsgDisp("Kazama?","Will sushi do?");
@@ -18,7 +18,8 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,255,0,0,2,8,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","Just as I guessed! ｛風真＊＊｝ and
+MsgDisp("主人公","Just as I guessed!
+｛風真＊＊｝ and
 ｛氷室＊＊｝!");
 ChEye(1,3);
 ChMouth(1,2);
@@ -84,8 +85,9 @@ ChMotion(1,0);
 VoicePlay("E010120000_01_060");
 MsgDisp("Kazama","Hey.
 Inori, confidentiality.");
-MsgDisp("主人公","Err...... It looks like you guys have
-stuff to talk about, so I'll pass.");
+MsgDisp("主人公","Err......
+It looks like you guys have stuff to talk
+about, so I'll pass.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

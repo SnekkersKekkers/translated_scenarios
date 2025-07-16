@@ -2,9 +2,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B020302102_03_000");
-MsgDisp("Honda","That outfit looks just like
-a male bird!");
-MsgDisp("主人公","Umm... Because it's too flashy?");
+MsgDisp("Honda","That outfit looks just like a male bird!");
+MsgDisp("主人公","Umm...
+Because it's too flashy?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

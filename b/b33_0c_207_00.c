@@ -60,8 +60,8 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B330C20700_05_020");
 MsgDisp("Hiiragi","I see...
 I'm happy.");
-MsgDisp("主人公","｛柊＊＊＊｝, you haven't been to theme
-parks much have you?");
+MsgDisp("主人公","｛柊＊＊＊｝, you haven't been
+to theme parks much have you?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -76,8 +76,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330C20700_06_020");
-MsgDisp("Himuro","...Yanosuke-senpai, 
-let's go again.");
+MsgDisp("Himuro","...Yanosuke-senpai, let's go again.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -92,8 +91,7 @@ SEPlay("EV_SE_856");
 ChClose(7,0,30);
 ChClose(6,0,30);
 VoicePlay("B330C20700_05_040");
-MsgDisp("Hiiragi","Mikage-sensei, 
-do not push yourself.");
+MsgDisp("Hiiragi","Mikage-sensei, do not push yourself.");
 MsgDisp("主人公","That's good, ｛柊＊＊＊｝.
 I'll go too.");
 MsgClose();
@@ -116,8 +114,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20700_05_060");
 MsgDisp("Hiiragi","I wonder if those two will get mad?");
-MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝ looks like he's having
-fun.)");
+MsgDisp("主人公","(Hehe!
+｛柊＊＊＊｝ looks like he's
+having fun.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

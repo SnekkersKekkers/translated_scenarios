@@ -6,7 +6,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110800002_35_000");
-MsgDisp("Guy","Ah～, damn, damn, no good.
+MsgDisp("Guy","Ah～ , damn, damn, no good.
 If you frown, it becomes a habit.
 Come on, smile!");
 MsgDisp("主人公","∋");
@@ -33,7 +33,8 @@ MsgDisp("主人公","Ah, ｛大地＊＊｝.");
 ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110800002_35_030");
-MsgDisp("Guy","Oh! A baby faced guy has arrived!");
+MsgDisp("Guy","Oh!
+A baby faced guy has arrived!");
 MsgDispSksp(1,5);
 ChEye(8,2);
 ChMouth(8,2);
@@ -42,8 +43,9 @@ VoicePlay("B110800002_08_010");
 MsgDisp("Shirahane","It's no good, I don't understand.
 Can you translate?");
 MsgDispSksp(0);
-MsgDisp("主人公","Ah... sorry. I also wasn't really
-listening to him properly either.");
+MsgDisp("主人公","Ah... sorry.
+I also wasn't really listening to him
+properly either.");
 MsgDispSksp(1,5);
 ChEye(8,3);
 ChMouth(8,3);
@@ -78,4 +80,4 @@ ChMouth(8,3);
 ChPosition(8,0);
 VoicePlay("B110800002_08_040");
 MsgDisp("Shirahane","Oh, I can understand that!
-But we don't need to meet again!ー.");
+But we don't need to meet again! ー.");

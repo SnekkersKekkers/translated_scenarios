@@ -45,7 +45,7 @@ In that case, let's go.");
     ChMotion(6,0,1);
     VoicePlay("F010600005_06_040");
     MsgDisp("Himuro","I don't have plans.
-...Let's go.");
+... Let's go.");
     MsgDisp("主人公","Okay, yay!
 Let's go!");
     break ;

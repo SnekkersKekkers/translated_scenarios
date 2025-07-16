@@ -45,8 +45,7 @@ yourself to ride it until this point too?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623102_06_040");
-        MsgDisp("Himuro","But you feel like 
-this is your limit now.");
+        MsgDisp("Himuro","But you feel like this is your limit now.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -58,15 +57,14 @@ this is your limit now.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040623102_06_060");
-        MsgDisp("Himuro","I mean, I'm the 
-one next to you, right?");
+        MsgDisp("Himuro","I mean, I'm the one next to you, right?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623102_06_070");
         MsgDisp("Himuro","If it's scary, I can hold onto your hand.
 Knowing that we're in this together,
-should be less scary...right?");
+should be less scary... right?");
         MsgDisp("主人公","Yes, thank you.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -77,15 +75,14 @@ should be less scary...right?");
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040623102_06_090");
-        MsgDisp("Himuro","I still want a version
-upgrade after all.");
+        MsgDisp("Himuro","I still want a version upgrade after all.");
         MsgDisp("主人公","Eh?");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,4);
         VoicePlay("B040623102_06_100");
         MsgDisp("Himuro","I-It's nothing.
-...Never mind.");
+... Never mind.");
         break ;
         default :
         DbgAssert(1);

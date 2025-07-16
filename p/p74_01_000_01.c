@@ -19,8 +19,8 @@ VoicePlay("P740100001_01_010");
 MsgDisp("Kazama","It's good that you're not hurt.
 It's not like you're in an outfit that
 makes it that hard to move around, is it?");
-MsgDisp("主人公","(Haa... Maybe I didn't practice quite
-enough...)");
+MsgDisp("主人公","(Haa...
+Maybe I didn't practice quite enough...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

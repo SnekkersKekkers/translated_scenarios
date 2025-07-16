@@ -1,20 +1,22 @@
 MsgDisp("主人公","The four of us have been hanging out a lot
-lately.
-｛風真＊＊｝, ｛氷室＊＊｝ and us.");
+lately. ｛風真＊＊｝,
+｛氷室＊＊｝ and us.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200001_02_260");
 MsgDisp("Sassa","Before we even realized it, there were
 four of us.");
-MsgDisp("主人公","Yeah. But sometimes I wonder if it's okay
-for me to hang around you guys.");
+MsgDisp("主人公","Yeah.
+But sometimes I wonder if it's okay for me
+to hang around you guys.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_270");
-MsgDisp("Sassa","Look. Not only is it okay, but without
-you, it'd all fall apart.");
+MsgDisp("Sassa","Look.
+Not only is it okay, but without you, it'd
+all fall apart.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -39,7 +41,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("B070200001_02_310");
-MsgDisp("Sassa","Huh? 
+MsgDisp("Sassa","Huh?
 Did you really not notice?");
 ChEye(2,0);
 ChMouth(2,4);

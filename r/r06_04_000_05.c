@@ -8,10 +8,10 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,3);
     ChMotion(4,1);
     VoicePlay("R060400005_04_000");
-    MsgDisp("Nanatsumori","Hmm. This makes me a little happy. Thank
-you.");
-    MsgDisp("主人公","(He seems really happy
-with my gift!)");
+    MsgDisp("Nanatsumori","Hmm.
+This makes me a little happy.
+Thank you.");
+    MsgDisp("主人公","(He seems really happy with my gift!)");
     break ;
     case 3:
     case 4:
@@ -23,8 +23,7 @@ with my gift!)");
     MsgDisp("Nanatsumori","I see...
 You did a good job.
 Thank you.");
-    MsgDisp("主人公","(He seems really happy
-with my gift!)");
+    MsgDisp("主人公","(He seems really happy with my gift!)");
     break ;
     default :
     DbgAssert(1);

@@ -26,8 +26,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("U022100000_21_030");
-MsgDisp("Michiru","Hmm...... Do you think I bought too many
-things?");
+MsgDisp("Michiru","Hmm......
+Do you think I bought too many things?");
 MsgDisp("主人公","Hehe!");
 ChEye(21,0);
 ChMouth(21,0);

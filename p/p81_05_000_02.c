@@ -28,8 +28,7 @@ MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P810500002_05_030");
-MsgDisp("Hiiragi","I may be giving my thanks 
-a little early.");
+MsgDisp("Hiiragi","I may be giving my thanks a little early.");
 MsgDisp("主人公","Hehe, that's right.");
 MsgDisp("主人公","(Whether I laugh or I cry, this is my last
 cultural festival.

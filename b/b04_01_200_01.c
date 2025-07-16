@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040120001_01_020");
-    MsgDisp("Kazama","Haha! Oi, where are you from, veteran
-guide∋");
+    MsgDisp("Kazama","Haha!
+Oi, where are you from, veteran guide∋");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

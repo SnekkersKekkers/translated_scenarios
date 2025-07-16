@@ -7,7 +7,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝, thank you very much!");
+MsgDisp("主人公","｛御影＊＊｝, thank you
+very much!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -27,7 +28,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("K020701000_07_020");
 VoiceEVSPlay(7);
-MsgDisp("Mikage","Happy birthday, ｛主人公｝.");
+MsgDisp("Mikage","Happy birthday,
+｛主人公｝.");
 MsgDisp("主人公","You remembered?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -49,8 +51,8 @@ ChMouth(7,3);
 ChMotion(7,2);
 ChEyeOpenLevel(7,7);
 VoicePlay("K020701000_07_050");
-MsgDisp("Mikage","Yeah. As long as I live, I won't forget
-it.");
+MsgDisp("Mikage","Yeah.
+As long as I live, I won't forget it.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

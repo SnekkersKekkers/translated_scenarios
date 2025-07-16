@@ -12,7 +12,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChCheek(4,7);
 VoicePlay("B070400000_04_560");
-MsgDisp("Nanatsumori","Well... there has. But.
+MsgDisp("Nanatsumori","Well... there has.
+But.
 But so what?");
 MsgDisp("主人公","I was just curious about what that was
 like.");
@@ -21,7 +22,7 @@ ChMouth(4,4);
 ChMotion(4,3,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("B070400000_04_570");
-MsgDisp("Nanatsumori","...Nothing really.
+MsgDisp("Nanatsumori","... Nothing really.
 It's like this.");
 ChEye(4,1);
 ChMouth(4,2);

@@ -75,8 +75,8 @@ The next book fair might be left up to us.");
     VoicePlay("I260300000_03_960");
     MsgDisp("Honda","Yeah yeah!
 Is it that surprising?");
-    MsgDisp("主人公","I expected you, ｛本多＊＊｝, but I'm
-worried about whether I can do it.");
+    MsgDisp("主人公","I expected you, ｛本多＊＊｝, but
+I'm worried about whether I can do it.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -107,8 +107,9 @@ you know?");
     MsgDisp("Honda","Yeah yeah, I completely agree with the
 manager's decision!
 Hey hey, where should we start?");
-    MsgDisp("主人公","(They're expecting a lot...... Alright,
-let's do our best with ｛本多＊＊｝! )");
+    MsgDisp("主人公","(They're expecting a lot......
+Alright, let's do our best with
+｛本多＊＊｝! )");
     break ;
     default :
     DbgAssert(1);

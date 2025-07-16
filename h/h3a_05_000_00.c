@@ -15,7 +15,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,3);
     VoicePlay("H3A0500000_05_000");
     MsgDisp("Hiiragi","That was a wonderful point!");
-    MsgDisp("主人公","｛柊＊＊＊｝! Yes, I did it!");
+    MsgDisp("主人公","｛柊＊＊＊｝!
+Yes, I did it!");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("H3A0500000_05_010");
@@ -40,8 +41,9 @@ It was beautiful.");
     VoicePlay("H3A0500000_05_040");
     MsgDisp("Hiiragi","Hm?
 No, perhaps it was you?");
-    MsgDisp("主人公","(Yay! ｛柊＊＊＊｝ seems pleased, and I'm
-really glad I did my best in judo!)");
+    MsgDisp("主人公","(Yay!
+｛柊＊＊＊｝ seems pleased, and
+I'm really glad I did my best in judo!)");
     break ;
     default :
     DbgAssert(1);

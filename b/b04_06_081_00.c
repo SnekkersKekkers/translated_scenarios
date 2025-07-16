@@ -3,8 +3,8 @@ ChLayout(1);
 ChOpen(6,253,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040608100_06_000");
-MsgDisp("Himuro","Amazing. This was the best time to see
-them.");
+MsgDisp("Himuro","Amazing.
+This was the best time to see them.");
 MsgSel("｛氷室＊＊｝, you suit the falling cherry blossoms.","Seeing the falling cherry blossoms is so fleeting...","I want to eat some tasty cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:

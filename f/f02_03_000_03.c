@@ -6,8 +6,7 @@ ChMotion(3,5,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F020300003_03_000");
-MsgDisp("Honda","Hey-hey, 
-I've got a new legend!");
+MsgDisp("Honda","Hey-hey, I've got a new legend!");
 MsgDisp("主人公","Huh?
 About the church?");
 ChEye(3,1);
@@ -17,12 +16,14 @@ VoicePlay("F020300003_03_010");
 MsgDisp("Honda","Mhm! In the church's basement, there's a
 huge library. All of the urban legends are
 compiled there!");
-MsgDisp("主人公","Huh? I think that's the first time I've
-heard that one.");
+MsgDisp("主人公","Huh?
+I think that's the first time I've heard
+that one.");
 ChSet(3,3);
 VoicePlay("F020300003_03_020");
-MsgDisp("Honda","Really? Really? This one's worth checking
-out.");
+MsgDisp("Honda","Really?
+Really?
+This one's worth checking out.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

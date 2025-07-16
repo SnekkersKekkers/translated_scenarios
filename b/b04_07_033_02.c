@@ -52,8 +52,7 @@ Are there any other adaptations?");
         ChMotion(7,2);
         VoicePlay("B040703302_07_040");
         MsgDisp("Mikage","Light adaptation is the opposite right?
-And there's...
-altitude adaptation, right?");
+And there's... altitude adaptation, right?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -70,8 +69,7 @@ and count to 10 together?");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040703302_07_070");
-        MsgDisp("Mikage","...Damn, that was too
-instinctual.");
+        MsgDisp("Mikage","...Damn, that was too instinctual.");
         MsgDisp("主人公","Eh?");
         ChEye(7,0);
         ChMouth(7,3);

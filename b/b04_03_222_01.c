@@ -26,9 +26,9 @@ Should I get one?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040322201_03_020");
-    MsgDisp("Honda","Interesting! It's a reproduction of the
-onigawara tiles from when the castle was
-built.");
+    MsgDisp("Honda","Interesting!
+It's a reproduction of the onigawara tiles
+from when the castle was built.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

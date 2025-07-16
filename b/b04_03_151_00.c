@@ -39,8 +39,9 @@ compensate with the weight of the ball.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040315100_03_030");
-    MsgDisp("Honda","Eh? Either way the score will be posted,
-and the winner will be clear, right?");
+    MsgDisp("Honda","Eh?
+Either way the score will be posted, and
+the winner will be clear, right?");
     MsgDateResultDisp();
     break ;
     default :

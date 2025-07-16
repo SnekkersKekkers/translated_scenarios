@@ -11,14 +11,16 @@ switch (ChPrmGet(5,6)){
     ChEye(5,4);
     VoicePlay("Q120500000_05_000");
     MsgDisp("Hiiragi","It was fun going around with you.");
-    MsgDisp("主人公","Me too. thanks to you, ｛柊＊＊＊｝, I
-made wonderful memories. Thank you!");
+    MsgDisp("主人公","Me too. thanks to you,
+｛柊＊＊＊｝, I made wonderful
+memories. Thank you!");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_010");
     MsgDisp("Hiiragi","This is my first school trip and I can't
 compare, but it is the best ever.");
-    MsgDisp("主人公","Hehe! I'm happy.");
+    MsgDisp("主人公","Hehe!
+I'm happy.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("Q120500000_05_020");
@@ -54,11 +56,13 @@ carried away.");
     ChMotion(5,3);
     Wait(20,1);
     VoicePlay("Q120500000_05_060");
-    MsgDisp("Hiiragi","Yes. I'm now totally a fan of Nagasaki and
+    MsgDisp("Hiiragi","Yes.
+I'm now totally a fan of Nagasaki and
 school trips.");
     MsgDisp("主人公","(I think this is my first time seeing
-｛柊＊＊＊｝ being so happy......?
-I'm glad we could spend it together!)");
+｛柊＊＊＊｝ being so
+happy......? I'm glad we could spend it
+together!)");
     break ;
     case 4:
     case 5:

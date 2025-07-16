@@ -1,8 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......today ｛風真＊＊｝
-invited me to walk home together.)");
+MsgDisp("主人公","(That's right......today
+｛風真＊＊｝ invited me to walk
+home together.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -21,11 +22,11 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100100_01_000");
-MsgDisp("Kazama","Phew......I talked this much.
+MsgDisp("Kazama","Phew......
+I talked this much.
 It's this time already.");
-MsgDisp("主人公","It's gotten so late, huh?
-......hey, but didn't you have business
-with me?");
+MsgDisp("主人公","It's gotten so late, huh? ......hey, but
+didn't you have business with me?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

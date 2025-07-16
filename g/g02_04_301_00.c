@@ -31,8 +31,9 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020430100_04_050");
-MsgDisp("Nanatsumori","Huh∋ How men and women interact is
-completely different∋");
+MsgDisp("Nanatsumori","Huh∋
+How men and women interact is completely
+different∋");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,1,1);

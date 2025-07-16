@@ -17,8 +17,8 @@ all these last three years?)");
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P530400002_04_000");
     MsgDisp("Nanatsumori","How cool～");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Did you come to
-listen?");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+Did you come to listen?");
     ChMotion(4,1,1);
     VoicePlay("P530400002_04_010");
     MsgDisp("Nanatsumori","Well, yes.
@@ -33,7 +33,8 @@ You look like a pro.");
     SEWait();
     MsgDisp("主人公","Then, I'm off!");
     VoicePlay("P530400002_04_030");
-    MsgDisp("Nanatsumori","Yes. I'll be paying attention from the
+    MsgDisp("Nanatsumori","Yes.
+I'll be paying attention from the
 audience.");
 MsgDisp("主人公","(Though it's embarrassing to be the centre
 of attention...This is a culmination of
@@ -54,8 +55,8 @@ all these last three years?)");
     VoiceEVSPlay(4);
     VoicePlay("P530400002_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Did you come to
-listen?");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+Did you come to listen?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -67,7 +68,8 @@ I thought you'd come.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400002_04_060");
-    MsgDisp("Nanatsumori","...Yeah. Seems like this will be your best
+    MsgDisp("Nanatsumori","... Yeah.
+Seems like this will be your best
 performance yet.");
     MsgDisp("主人公","Yes.
 I'll give it my all, yeah?");
@@ -80,8 +82,8 @@ I'll give it my all, yeah?");
     ChMouth(4,3);
     ChMotion(4,2,1);
     VoicePlay("P530400002_04_080");
-    MsgDisp("Nanatsumori","...Crap. Why am I the one who's heart is
-racing?");
+    MsgDisp("Nanatsumori","... Crap.
+Why am I the one who's heart is racing?");
     MsgDisp("主人公","?");
     SEPlay("EV_SE_038");
     SEWait();
@@ -92,10 +94,10 @@ racing?");
     VoicePlay("P530400002_04_090");
     MsgDisp("Nanatsumori","Have fun.
 I'll be watching over from the audience.");
-    MsgDisp("主人公","(｛七ツ森＊｝ is cheering me on.
-Alright, using the culmination of my three
-years of hard work, let's perform so that
-I don't regret it!)");
+    MsgDisp("主人公","(｛七ツ森＊｝ is cheering me on. Alright,
+using the culmination of my three years of
+hard work, let's perform so that I don't
+regret it!)");
     break ;
     default :
     DbgAssert(1);

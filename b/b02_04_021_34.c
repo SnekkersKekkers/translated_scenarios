@@ -7,7 +7,8 @@ ChMotion(4,3);
 VoicePlay("B020402134_04_000");
 MsgDisp("Nanatsumori","That phrase 'a beautiful woman' is pretty
 fitting right now.");
-MsgDisp("主人公","Um... About me?");
+MsgDisp("主人公","Um...
+About me?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -16,5 +17,5 @@ MsgDisp("Nanatsumori","Of course. Aren't you an elegant and
 refined high school student? I think
 that's extremely rare.");
 MsgDisp("主人公","(It's rare...
-But ｛七ツ森＊｝ seems to have really
-come to like these clothes!)");
+But ｛七ツ森＊｝ seems to
+have really come to like these clothes!)");

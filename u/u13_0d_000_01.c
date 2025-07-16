@@ -15,8 +15,8 @@ switch (ChPrmGet(2,6)){
     StlEyeOpenLevel(21,5);
     StlMouth(21,0);
     VoicePlay("U130D00001_21_000");
-    MsgDisp("Michiru","Hmm. It seems like he's interested in
-romance.");
+    MsgDisp("Michiru","Hmm.
+It seems like he's interested in romance.");
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
     VoicePlay("U130D00001_22_000");
@@ -69,8 +69,9 @@ I think I'm happy...)");
     StlCheek(22,5);
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00001_21_030");
-    MsgDisp("Michiru","Hehe. But he's quite pure and doesn't know
-how to act towards Mari.");
+    MsgDisp("Michiru","Hehe.
+But he's quite pure and doesn't know how
+to act towards Mari.");
     StlEye(22,0,0);
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
@@ -92,8 +93,8 @@ about how he should treat and cherish Mari");
 He acts like a dad!");
     StlEyeOpenLevel(22,5,1);
     MsgDisp("主人公","(Like a dad, huh......
-It's true, when I'm with ｛颯砂＊＊｝ I
-feel at ease.)");
+It's true, when I'm with
+｛颯砂＊＊｝ I feel at ease.)");
     break ;
     default :
     DbgAssert(1);

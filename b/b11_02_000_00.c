@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛颯砂＊＊｝ still isn't here
-yet...");
+MsgDisp("主人公","Looks like ｛颯砂＊＊｝ still
+isn't here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -25,8 +25,7 @@ MsgClose();
 ChOpen(2,253,2,1,0,#1,#1,0,1,0,30);
 BGMPlay("BGM_C02_SASSA_A",0.01);
 VoicePlay("B110200000_02_000");
-MsgDisp("Sassa","Oi, what business do you
-have with her?");
+MsgDisp("Sassa","Oi, what business do you have with her?");
 ChEye(33,2);
 ChMouth(33,2);
 VoicePlay("B110200000_33_020");
@@ -42,14 +41,14 @@ VoicePlay("B110200000_02_010");
 MsgDisp("Sassa","Are you alright?");
 MsgDispSksp(0);
 MsgDisp("主人公","Yeah, I'm alright.
-...No fighting, okay.");
+... No fighting, okay.");
 MsgDispSksp(1,5);
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B110200000_02_020");
 MsgDisp("Sassa","That depends on him.
-...Hey, how should we do this?");
+... Hey, how should we do this?");
 MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
@@ -89,8 +88,9 @@ VoicePlay("B110200000_02_050");
 MsgDisp("Sassa","Ah, more importantly, I'm sorry.
 It's my fault for being late.
 Were you scared?");
-MsgDisp("主人公","No. I felt safe because ｛颯砂＊＊｝ was
-there.");
+MsgDisp("主人公","No.
+I felt safe because ｛颯砂＊＊｝
+was there.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -103,8 +103,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("B110200000_02_070");
-MsgDisp("Sassa","Hmmm... I don't dislike it when you say
-it.");
+MsgDisp("Sassa","Hmmm...
+I don't dislike it when you say it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);

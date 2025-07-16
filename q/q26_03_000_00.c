@@ -8,7 +8,8 @@ VoicePlay("Q260300000_03_000");
 MsgDisp("Honda","......∈");
 VoicePlay("Q260300000_03_010");
 MsgDisp("Honda","So it really was you∋");
-MsgDisp("主人公","Eh, ｛本多＊＊｝? So just now, I......");
+MsgDisp("主人公","Eh, ｛本多＊＊｝?
+So just now, I......");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -24,7 +25,8 @@ MsgDisp("Honda","S-Sorry!");
 SEPlay("EV_SE_799");
 ChClose(3);
 SEWait();
-MsgDisp("主人公","(Eeeeh∋ So that means that that feeling
-was ｛本多＊＊｝......? )");
+MsgDisp("主人公","(Eeeeh∋
+So that means that that feeling was
+｛本多＊＊｝......? )");
 MsgClose();
 ScrFadeOut(0,0);

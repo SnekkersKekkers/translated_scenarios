@@ -1,12 +1,13 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? There's a new voicemail in my
-inbox... Who is it...");
+MsgDisp("主人公","Huh?
+There's a new voicemail in my inbox...
+Who is it...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090800000_08_000");
 MsgDisp("Shirahane","Hello, it's me.
-...What's wrong?
+... What's wrong?
 I'm worried.");
 MsgDisp("主人公","Eh, ｛大地＊＊｝?");
 VoicePlay("B090800000_08_010");

@@ -39,7 +39,8 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B360450400_04_040");
 MsgDisp("Nanatsumori","If this isn't kind of situation you
-wanted...... Sorry.");
+wanted......
+Sorry.");
 MsgDisp("主人公","｛七ツ森＊｝......");
 ChEye(4,4);
 ChMouth(4,4);
@@ -56,16 +57,17 @@ ChMotion(4,1,1);
 VoicePlay("B360450400_04_070");
 MsgDisp("Nanatsumori","I was being selfish.
 I'm really sorry.");
-MsgDisp("主人公","No. Thank you for inviting me. Aren't the
-lights so beautiful?");
+MsgDisp("主人公","No.
+Thank you for inviting me.
+Aren't the lights so beautiful?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 ChCheek(4,8);
 VoiceEVSPlay(4);
 VoicePlay("B360450400_04_080");
-MsgDisp("Nanatsumori","｛主人公｝...... seriously, this might
-become serious.");
+MsgDisp("Nanatsumori","｛主人公｝...... seriously,
+this might become serious.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

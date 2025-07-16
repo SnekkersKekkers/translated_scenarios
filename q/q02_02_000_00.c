@@ -13,7 +13,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q020200000_02_000");
-    MsgDisp("Sassa","｛主人公｝. Good morning!");
+    MsgDisp("Sassa","｛主人公｝.
+Good morning!");
     MsgDisp("主人公","｛颯砂＊＊｝, good morning.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -30,7 +31,8 @@ Let's spend the free period together.");
         VoicePlay("Q020200000_02_020");
         MsgDisp("Sassa","Way to go.
 Well then, let's get going!");
-        MsgDisp("主人公","Yeah! I'm really excited to see more of
+        MsgDisp("主人公","Yeah!
+I'm really excited to see more of
 Nagasaki.");
         ChEye(2,0);
         ChMouth(2,3);
@@ -50,8 +52,7 @@ This will surely be a fun day!)");
         VoicePlay("Q020200000_02_040");
         MsgDisp("Sassa","I see......
 Well, I guess I'll ask someone else......");
-        MsgDisp("主人公","(He even invited me,
-I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
         DbgAssert(0);
@@ -66,8 +67,8 @@ I feel bad......)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q020200000_02_050");
-    MsgDisp("Sassa","｛主人公｝. 'Morning, I was looking for
-you.");
+    MsgDisp("Sassa","｛主人公｝.
+'Morning, I was looking for you.");
     MsgDisp("主人公","｛颯砂＊＊｝, good morning.
 What's wrong?");
     ChEye(2,0);
@@ -112,13 +113,12 @@ I'll ask someone else.");
         VoicePlay("Q020200000_02_100");
         MsgDisp("Sassa","Don't apologise, I hope you can enjoy it
 too.
-......See ya.");
+...... See ya.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(He even invited me,
-I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
         DbgAssert(0);

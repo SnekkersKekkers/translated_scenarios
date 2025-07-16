@@ -33,15 +33,16 @@ face.");
     MsgDisp("Kazama","I'm sorry. But you seem to have a lot of
 confidence. Do you think you can give a
 good performance?");
-    MsgDisp("主人公","Yeah. It's the last cultural festival so I
-am going to have fun!");
+    MsgDisp("主人公","Yeah.
+It's the last cultural festival so I am
+going to have fun!");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100002_01_030");
-    MsgDisp("Kazama","......It's my turn.
+    MsgDisp("Kazama","...... It's my turn.
 Somehow, I'm starting to feel nervous.");
     MsgDisp("主人公","Hehe.
 Well, I'll be going then!");
@@ -105,8 +106,8 @@ But it seems like you have guts too?");
     VoicePlay("P530100002_01_090");
     MsgDisp("Kazama","Come on, do your best.");
     MsgDisp("主人公","Yeah......!");
-    MsgDisp("主人公","(Alright, ｛風真＊＊｝ I can't let my
-performance go bad!
+    MsgDisp("主人公","(Alright, ｛風真＊＊｝ I can't
+let my performance go bad!
 I will try my best!)");
     MsgClose();
     ScrFadeOut(0,0);

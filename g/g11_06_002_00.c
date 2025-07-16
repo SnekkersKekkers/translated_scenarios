@@ -3,8 +3,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(......Huh? It's a message from
-｛氷室＊＊｝. It says \"I'd like to talk, do
-you have time?\"......)");
+｛氷室＊＊｝. It says \"I'd like to
+talk, do you have time?\"......)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -31,7 +31,8 @@ while (1){
     ChMouth(6,1);
     ChMotion(6,2);
     VoicePlay("G110600200_06_010");
-    MsgDisp("Himuro","What if it wasn't just me......Haa.");
+    MsgDisp("Himuro","What if it wasn't just me......
+Haa.");
     }
 ChEye(6,0);
 ChMouth(6,0);
@@ -67,7 +68,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600200_06_070");
-MsgDisp("Himuro","Then......did other guys receive any?
+MsgDisp("Himuro","Then...... did other guys receive any?
 Homemade chocolates that is.");
 MsgDisp("主人公","As for handmade chocolates, I only gave
 them to ｛氷室＊＊｝?");
@@ -99,7 +100,7 @@ ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600200_06_110");
-MsgDisp("Himuro","Well......yeah.
+MsgDisp("Himuro","Well...... yeah.
 Then next year too......");
 MsgDisp("主人公","Hm?");
 ChEye(6,1);

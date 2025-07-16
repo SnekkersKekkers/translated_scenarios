@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040109002_01_010");
-    MsgDisp("Kazama","Yep. With delicious cakes and cookies,
-too.");
+    MsgDisp("Kazama","Yep.
+With delicious cakes and cookies, too.");
     ChEyeOpenLevel(1,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

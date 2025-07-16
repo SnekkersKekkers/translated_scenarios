@@ -11,14 +11,14 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_010");
 MsgDisp("Himuro","Could you not be so obvious about it?");
-MsgDisp("主人公","Huh? About what?");
+MsgDisp("主人公","Huh?
+About what?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_020");
-MsgDisp("Himuro","You know...
-all the PDA.
-......It's kinda embarrassing.");
+MsgDisp("Himuro","You know... all the PDA.
+...... It's kinda embarrassing.");
 MsgDisp("主人公","What?!");
 ChEye(6,1);
 ChMouth(6,0);

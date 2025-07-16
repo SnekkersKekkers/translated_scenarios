@@ -12,8 +12,8 @@ switch (ChPrmGet(21,6)){
     ScrFadeIn(0);
     VoicePlay("H4A2100001_21_000");
     MsgDisp("Michiru","Good work.");
-    MsgDisp("主人公","｛みちる＊｝. I showed you a weird
-performance......");
+    MsgDisp("主人公","｛みちる＊｝.
+I showed you a weird performance......");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,3);
@@ -31,8 +31,8 @@ rhythmic gymnastics club.)");
     ScrFadeIn(0);
     VoicePlay("H4A2100001_21_020");
     MsgDisp("Michiru","Mari.");
-    MsgDisp("主人公","｛みちる＊｝...... I messed up my
-performance.");
+    MsgDisp("主人公","｛みちる＊｝......
+I messed up my performance.");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,2);
@@ -50,11 +50,12 @@ Really.");
     ChMouth(21,0);
     ChMotion(21,4);
     VoicePlay("H4A2100001_21_050");
-    MsgDisp("Michiru","Cheer up. I'll give Mari a special award.
+    MsgDisp("Michiru","Cheer up.
+I'll give Mari a special award.
 Okay?");
-    MsgDisp("主人公","(｛みちる＊｝...... I lost, but I'm
-glad I stayed in the rhythmic gymnastics
-club.)");
+    MsgDisp("主人公","(｛みちる＊｝......
+I lost, but I'm glad I stayed in the
+rhythmic gymnastics club.)");
     break ;
     default :
     DbgAssert(1);

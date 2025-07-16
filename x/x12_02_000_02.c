@@ -16,8 +16,8 @@ switch (ChPrmGet(2,6)){
     VoicePlay("X120200002_02_000");
     MsgDisp("Sassa","Handicrafts are amazing.
 You seem like you could make anything.");
-    MsgDisp("主人公","(Yay! Maybe I'm 
-improving bit by bit!)");
+    MsgDisp("主人公","(Yay!
+Maybe I'm improving bit by bit!)");
     break ;
     case 4:
     case 5:
@@ -28,7 +28,8 @@ improving bit by bit!)");
     MsgDisp("Sassa","That must have taken a lot of work.
 I'm jealous of the people who can wear
 what you make.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

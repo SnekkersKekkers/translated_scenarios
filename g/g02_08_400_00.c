@@ -42,7 +42,8 @@ ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("G020840000_08_070");
-MsgDisp("Shirahane","Yeah. But now I don't have that prejudice
+MsgDisp("Shirahane","Yeah.
+But now I don't have that prejudice
 anymore.");
 ChEye(8,3);
 ChMouth(8,3);

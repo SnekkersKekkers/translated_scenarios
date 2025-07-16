@@ -8,14 +8,16 @@ switch (ChPrmGet(2,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous..)");
+the runway...
+I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P730200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, how are the preparations?
+    MsgDisp("Sassa","｛主人公｝, how are the
+preparations?
 I came to see your model debut.");
     MsgDisp("主人公","Thank you.
 I'm nervous to walk a runway wearing the
@@ -36,8 +38,8 @@ front.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("P730200000_02_030");
-    MsgDisp("Sassa","...How should I cheer you on?
-\"Do your best!\" is a bit weird...");
+    MsgDisp("Sassa","... How should I cheer you on? \"
+Do your best!\" is a bit weird...");
     MsgDisp("主人公","Hehe, it's not a sport, so just clapping
 is fine?");
     ChEye(2,0);
@@ -55,7 +57,8 @@ is fine?");
     MsgDisp("Sassa","Oh, do your best!
 No, I should be giving you a round of
 applause.");
-    MsgDisp("主人公","(Hehe! For the sake of ｛颯砂＊＊｝ too,
+    MsgDisp("主人公","(Hehe!
+For the sake of ｛颯砂＊＊｝ too,
 let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -66,15 +69,17 @@ let's do our best!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous..)");
+the runway...
+I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(2,254,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P730200000_02_060");
-    MsgDisp("Sassa","｛主人公｝. How are the preparations or
-the fashion show?");
+    MsgDisp("Sassa","｛主人公｝.
+How are the preparations or the fashion
+show?");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);

@@ -7,8 +7,8 @@ BGMPlay("BGM_XMAS_TRHEE",0.01);
 MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow! The mix of colors is so 
-beautiful!");
+MsgDisp("主人公","Wow!
+The mix of colors is so beautiful!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -16,8 +16,7 @@ VoicePlay("B140300100_03_000");
 MsgDisp("Honda","Yeah, it feels like we've stepped into the
 world of that pop-up book we saw
 yesterday.");
-MsgDisp("主人公","It really does...
-what a magical feeling.");
+MsgDisp("主人公","It really does... what a magical feeling.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -58,7 +57,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoiceEVSPlay(3);
 VoicePlay("B140300100_03_060");
-MsgDisp("Honda","｛主人公｝, Merry Christmas.");
+MsgDisp("Honda","｛主人公｝, Merry
+Christmas.");
 MsgDisp("主人公","Merry Christmas, ｛本多＊＊｝.");
 MsgDisp("主人公","(I'm so happy...)");
 BGMStop();

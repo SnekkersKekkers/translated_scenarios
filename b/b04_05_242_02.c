@@ -19,8 +19,9 @@ switch (MsgSelRsltGet()){
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040524201_05_010");
-        MsgDisp("Hiiragi","No. I think a hammock in the middle of
-nature will feel good.");
+        MsgDisp("Hiiragi","No.
+I think a hammock in the middle of nature
+will feel good.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -35,7 +36,8 @@ nature will feel good.");
         VoicePlay("B040524201_05_030");
         MsgDisp("Hiiragi","If I am speaking honestly, I am a bit
 sleep deprived.");
-        MsgDisp("主人公","Eh? Are you alright?");
+        MsgDisp("主人公","Eh?
+Are you alright?");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -51,7 +53,7 @@ That's how I feel.");
         ChMotion(5,4);
         VoicePlay("B040524201_05_060");
         MsgDisp("Hiiragi","Thank you.
-...Then I'll take you up on that offer.
+... Then I'll take you up on that offer.
 I'll go rent a hammock.");
         MsgDisp("主人公","Hehe, yeah.
 Let's take it easy.");
@@ -87,8 +89,7 @@ Let's take it easy.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("B040524201_05_090");
-    MsgDisp("Hiiragi","Haha,
-is your sleeping posture that bad?");
+    MsgDisp("Hiiragi","Haha, is your sleeping posture that bad?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

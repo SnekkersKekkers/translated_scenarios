@@ -33,9 +33,9 @@ Then we'll start back-to-back!");
         ChMotion(1,3);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040101102_01_020");
-        MsgDisp("Kazama","I know that. ... Sheesh, no matter where
-you go, it's not like it's going to
-collapse.");
+        MsgDisp("Kazama","I know that.
+... Sheesh, no matter where you go, it's
+not like it's going to collapse.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,8 +59,9 @@ collapse.");
         ChEye(1,0);
         ChMouth(1,3);
         VoicePlay("B040101102_01_050");
-        MsgDisp("Kazama","Ooh. It's precious that you're that
-worried for me.");
+        MsgDisp("Kazama","Ooh.
+It's precious that you're that worried for
+me.");
         ChClose(1,0,30);
         ChLayout(2);
         SEPlay("EV_SE_544");

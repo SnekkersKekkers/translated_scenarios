@@ -12,7 +12,8 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","You lost, huh.
 But hey, you look like you were giving it
 your all.");
-    MsgDisp("主人公","(Ugh...... Too bad......)");
+    MsgDisp("主人公","(Ugh......
+Too bad......)");
     break ;
     case 3:
     MsgClose();
@@ -43,7 +44,7 @@ You aren't hurt, right?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("O020700001_07_040");
-    MsgDisp("Mikage","......Don't make that face.
+    MsgDisp("Mikage","...... Don't make that face.
 You were pulling so happily until just a
 bit ago.");
     MsgDisp("主人公","But, I did lose.");
@@ -57,10 +58,9 @@ That's also a part of the sports festival.");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("O020700001_07_060");
-    MsgDisp("Mikage","Come on, let's smile for
-the next event!");
-    MsgDisp("主人公","(Yeah...... I lost, but I still had
-fun......)");
+    MsgDisp("Mikage","Come on, let's smile for the next event!");
+    MsgDisp("主人公","(Yeah......
+I lost, but I still had fun......)");
     break ;
     default :
     DbgAssert(1);

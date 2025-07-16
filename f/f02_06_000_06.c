@@ -52,9 +52,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600006_06_060");
-MsgDisp("Himuro","I don't know...
-but now I think about it, I don't think
-I've ever seen him run.");
+MsgDisp("Himuro","I don't know... but now I think about it,
+I don't think I've ever seen him run.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

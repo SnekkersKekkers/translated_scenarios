@@ -12,8 +12,8 @@ VoicePlay("P840100002_01_000");
 MsgDisp("Kazama","Here she is, here she is, Japan's ＭＶＰ.
 It was a huge success.");
 MsgDisp("主人公","Hehe, thank you.
-It was because ｛風真＊＊｝ was looking
-out for me.");
+It was because ｛風真＊＊｝ was
+looking out for me.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -43,7 +43,7 @@ ChMotion(1,0);
 VoicePlay("P840100002_01_040");
 MsgDisp("Kazama","Can you forgive me for it being cold?");
 MsgDisp("主人公","I forgive you!
-...Huhu!");
+... Huhu!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3,1);

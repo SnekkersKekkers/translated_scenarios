@@ -14,5 +14,5 @@ VoicePlay("B020402114_04_010");
 MsgDisp("Nanatsumori","Definitely fitting.
 You get a passing grade.
 In fashion.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes
-like these, too!)");
+MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes like
+these, too!)");

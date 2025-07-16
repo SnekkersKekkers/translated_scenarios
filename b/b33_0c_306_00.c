@@ -62,8 +62,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C30600_06_010");
 MsgDisp("Himuro","Animals on stage?
-Seems interesting...
-but it's impossible right?");
+Seems interesting... but it's impossible
+right?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040605102_06_000");
-MsgDisp("Himuro","...The pair beside us weren't even looking
-at the stars at all.
+MsgDisp("Himuro","... The pair beside us weren't even
+looking at the stars at all.
 I wonder what they came here for.");
 MsgSel("To love each other?","What a waste of money!","I'm jealous!");
 switch (MsgSelRsltGet()){
@@ -93,8 +93,7 @@ wasn't interested.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040605102_06_100");
-        MsgDisp("Himuro","But, 
-who it is very important.");
+        MsgDisp("Himuro","But, who it is very important.");
         MsgDisp("主人公","Are there any contenders?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -113,7 +112,8 @@ That's a violation of privacy.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(6);
         SEWait();
-        MsgDisp("主人公","(? ｛氷室＊＊｝'s face is red?)");
+        MsgDisp("主人公","(?
+｛氷室＊＊｝'s face is red?)");
         MsgClose();
         ScrFadeOut(0);
         MsgClose();

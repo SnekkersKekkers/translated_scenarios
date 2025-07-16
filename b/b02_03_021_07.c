@@ -9,7 +9,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B020302107_03_010");
-MsgDisp("Honda","Exactamundo. That perfect balance is
-magnificent!");
+MsgDisp("Honda","Exactamundo.
+That perfect balance is magnificent!");
 MsgDisp("主人公","(Oh, good!
 ｛本多＊＊｝ seems to like this!)");

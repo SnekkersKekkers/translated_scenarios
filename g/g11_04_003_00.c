@@ -16,8 +16,8 @@ BGMPlay("BGM_C04_NANA_A");
 ScrFadeIn(0);
 VoicePlay("G110400300_04_000");
 MsgDisp("Nanatsumori","Yo, nice work.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝. Are you working
-today?");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Are you working today?");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400300_04_010");
@@ -66,8 +66,7 @@ BGMStop();
 ChClose(4,0,30);
 Wait(40,1);
 SEPlay("EV_SE_DOOR_014");
-MsgDisp("主人公","(Alright, time to compile my
-news notes!)");
+MsgDisp("主人公","(Alright, time to compile my news notes!)");
 SEStop("EV_SE_DOOR_014");
 MsgClose();
 ScrFadeOut(0,0);

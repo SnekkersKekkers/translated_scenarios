@@ -18,7 +18,8 @@ VoicePlay("D010500100_05_000");
 MsgDisp("Hiiragi","\"Good afternoon.
 Is that your lunch?\"");
 MsgDisp("主人公","\"Ah, yeah.
-Has ｛柊＊＊＊｝ already eaten/\"\"");
+Has ｛柊＊＊＊｝ already
+eaten/\"\"");
 MsgDisp("","She wouldn't leave it be as I skipped
 out on lunch.");
 MsgDisp("","　　　　　　　　　　 ・
@@ -50,8 +51,9 @@ VoicePlay("D010500100_05_110");
 MsgDisp("Hiiragi","\"The student council work is the
 condition for me being allowed to
 stay here.\"");
-MsgDisp("","Ah... there I go again. I once again
-said something to make her worry.");
+MsgDisp("","Ah... there I go again.
+I once again said something to make
+her worry.");
 MsgDisp("","I'm the same as a little kid wanting
 attention....");
 MsgClear();
@@ -68,7 +70,7 @@ Maybe it's thanks to her delicious
 chicken?\"");
 SEPlay("EV_SE_018");
 MsgDisp("","(*Growl*～)");
-MsgDisp("","...Heheh, my body is honest.
+MsgDisp("","... Heheh, my body is honest.
 Her bento was very much delicious.");
 MsgClear();
 MsgDisp("","Alright, ten more minutes!

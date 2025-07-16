@@ -6,14 +6,16 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("T020220022_02_000");
-MsgDisp("Sassa","Hey! What's wrong?");
-MsgDisp("主人公","That means I love ｛颯砂＊＊｝ too?");
+MsgDisp("Sassa","Hey!
+What's wrong?");
+MsgDisp("主人公","That means I love ｛颯砂＊＊｝
+too?");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020220022_02_010");
-MsgDisp("Sassa","Seriously... Is that really the way to
-answer this?");
+MsgDisp("Sassa","Seriously...
+Is that really the way to answer this?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -62,7 +64,8 @@ VoicePlay("T020220022_02_070");
 MsgDisp("Sassa","Now it's my turn to hug you.");
 VoiceEVSPlay(2);
 VoicePlay("T020220022_02_080");
-MsgDisp("Sassa","｛主人公｝...... I love you.");
+MsgDisp("Sassa","｛主人公｝......
+I love you.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

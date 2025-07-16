@@ -27,8 +27,9 @@ Stop making such a lonely face.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("Q120400000_04_030");
-    MsgDisp("Nanatsumori","Right. See ya then. Thanks to you, I
-enjoyed the school trip.");
+    MsgDisp("Nanatsumori","Right.
+See ya then.
+Thanks to you, I enjoyed the school trip.");
     break ;
     case 3:
     ChEye(4,0);
@@ -43,7 +44,8 @@ I'm at the hotel.");
     VoicePlay("Q120400000_04_040");
     MsgDisp("Nanatsumori","Did you want to play more?");
     MsgDisp("主人公","It's not playing, we're spending our free
-period together. Right?");
+period together.
+Right?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);

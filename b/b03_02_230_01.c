@@ -82,8 +82,9 @@ Let's go!");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B030223001_02_070");
-    MsgDisp("Sassa","Urgh... You got it... I was preparing for
-this anyway.");
+    MsgDisp("Sassa","Urgh...
+You got it...
+I was preparing for this anyway.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -107,8 +108,9 @@ It even spins around...");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B030223001_02_090");
-    MsgDisp("Sassa","Gah... That's someone's house, right? Is
-it okay to enter without permission?");
+    MsgDisp("Sassa","Gah...
+That's someone's house, right?
+Is it okay to enter without permission?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

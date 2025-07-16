@@ -79,7 +79,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q100B00000_04_030");
 MsgDisp("Nanatsumori","I don't eat noodles.
-......It does sound yummy though.");
+...... It does sound yummy though.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3,1);
@@ -110,7 +110,8 @@ ChMotion(1,1);
 VoicePlay("Q100B00000_01_040");
 MsgDisp("Kazama","How about a light udon for lunch, and the
 chanpon ramen at night?");
-MsgDisp("主人公","(Hmmm? Dinner is served at the hotel,
+MsgDisp("主人公","(Hmmm?
+Dinner is served at the hotel,
 right......?)");
 ChMouth(1,2);
 ChEye(3,1);
@@ -172,7 +173,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q100B00000_04_080");
 MsgDisp("Nanatsumori","Ok.
-Let's go to my No.1 recommendation!");
+Let's go to my No. 1 recommendation!");
 MsgDisp("主人公","(Hehe!
 Looks like we have a conclusion!)");
 MsgClose();

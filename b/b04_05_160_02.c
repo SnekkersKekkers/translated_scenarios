@@ -65,17 +65,16 @@ very happy with it.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040516002_05_060");
-        MsgDisp("Hiiragi","Ah, 
-do you doubt my technique?");
+        MsgDisp("Hiiragi","Ah, do you doubt my technique?");
         MsgDisp("主人公","No, if I got to see your happy face when
-you were able to win, ｛柊＊＊＊｝,
-anything would be good with me.");
+you were able to win,
+｛柊＊＊＊｝, anything would be
+good with me.");
         ChEye(5,3);
         ChMouth(5,2);
         ChMotion(5,0);
         VoicePlay("B040516002_05_070");
-        MsgDisp("Hiiragi","!
-You're the same as me...");
+        MsgDisp("Hiiragi","! You're the same as me...");
         ChEye(5,4);
         ChMouth(5,3);
         VoicePlay("B040516002_05_080");
@@ -83,8 +82,7 @@ You're the same as me...");
 I'm already happy even without having
 played the crane game.");
         MsgDisp("主人公","Ehh?
-We came all this way, 
-why not try it?");
+We came all this way, why not try it?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,4);
@@ -96,7 +94,8 @@ definitely win.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
         SEWait();
-        MsgDisp("主人公","(I'm happy...｛柊＊＊＊｝ is always trying
+        MsgDisp("主人公","(I'm happy...
+｛柊＊＊＊｝ is always trying
 to make me happy.)");
         MsgClose();
         ScrFadeOut(0,0);

@@ -4,7 +4,9 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I think it's time to go home......)");
 VoicePlay("E010710100_47_000");
 MsgDisp("Clerk","Sensei, here's a bonus.");
-MsgDisp("主人公","(......Hm? Sensei?)");
+MsgDisp("主人公","(......
+Hm?
+Sensei?)");
 VoicePlay("E010710100_07_000");
 MsgDisp("Mikage","Thank you as always.
 In return, here are some vegetables.");
@@ -21,17 +23,18 @@ MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,255,0,0,0,10,#1,0,0);
 VoicePlay("E010710100_07_020");
-MsgDisp("Mikage","Oh. There's a beautiful girl over here
-too.");
-MsgDisp("主人公","Hello, ｛御影＊＊｝. Are you a regular
-at that store?");
+MsgDisp("Mikage","Oh.
+There's a beautiful girl over here too.");
+MsgDisp("主人公","Hello, ｛御影＊＊｝.
+Are you a regular at that store?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("E010710100_07_030");
 MsgDisp("Mikage","Oh, I often come here on my days off.
 The food they sell there is delicious.");
-MsgDisp("主人公","You live alone, right ｛御影＊＊｝?
+MsgDisp("主人公","You live alone, right
+｛御影＊＊｝?
 Does it get lonely?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -52,7 +55,8 @@ Take care on your way home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Amazing...... ｛御影＊＊｝'s home is
-full of vegetables and plants!)");
+MsgDisp("主人公","(Amazing......
+｛御影＊＊｝'s home is full
+of vegetables and plants!)");
 MsgClose();
 ScrFadeOut(0,0);

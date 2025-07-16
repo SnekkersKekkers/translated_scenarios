@@ -1,13 +1,13 @@
 BGMPlay("BGM_HANYOU_A",0.01);
 ChMotion(2,3);
 VoicePlay("B320A00001_02_000");
-MsgDisp("Sassa","Really? I just got here.");
+MsgDisp("Sassa","Really?
+I just got here.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B320A00001_01_000");
-MsgDisp("Kazama","Sassa was already here
-when I arrived.");
+MsgDisp("Kazama","Sassa was already here when I arrived.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

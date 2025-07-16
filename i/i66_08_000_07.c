@@ -84,7 +84,7 @@ sales are up 'cuz of you, but......");
     ChMotion(8,1,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800007_08_080");
-    MsgDisp("Shirahane","......Wait, as if I got the time to be
+    MsgDisp("Shirahane","...... Wait, as if I got the time to be
 gettin' jealous of the customers!
 Get it together, me!");
     ChEye(8,2);

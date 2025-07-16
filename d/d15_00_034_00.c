@@ -5,12 +5,15 @@ ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150003400_03_000" ) ;
-MsgDisp ( "Honda","Hey Mii-kun. Recommend me some sweets." ) ;
+MsgDisp ( "Honda","Hey Mii-kun.
+Recommend me some sweets." ) ;
 ChEye ( 4,0 ) ;
 ChMouth ( 4,0 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150003400_04_000" ) ;
-MsgDisp ( "Nanatsumori","Sure, I guess. But here? Right now?" ) ;
+MsgDisp ( "Nanatsumori","Sure, I guess.
+But here?
+Right now?" ) ;
 ChEye ( 3,1 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,0 ) ;
@@ -40,7 +43,8 @@ ChMouth ( 4,3 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150003400_04_030" ) ;
 MsgDisp ( "Nanatsumori","There's a deep ruby red strawberry jam
-next to the sauces. It's super delicious." ) ;
+next to the sauces.
+It's super delicious." ) ;
 ChEye ( 3,2 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,4 ) ;
@@ -54,8 +58,9 @@ ChEye ( 4,3 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,4 ) ;
 VoicePlay ( "D150003400_04_040" ) ;
-MsgDisp ( "Nanatsumori","Ahh. But I still have something else I'm
-saving for another time." ) ;
+MsgDisp ( "Nanatsumori","Ahh.
+But I still have something else I'm saving
+for another time." ) ;
 MsgDisp ( "主人公","(Wow, I'm looking forward to that!)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

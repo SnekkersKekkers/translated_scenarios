@@ -14,8 +14,7 @@ Thank you, ｛風真＊＊｝.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("Q080100000_01_000");
-    MsgDisp("Kazama","You look totally fine
-everything we did.");
+    MsgDisp("Kazama","You look totally fine everything we did.");
     MsgDisp("主人公","Yeah, I still have energy.");
     ChEye(1,0);
     ChMouth(1,4);
@@ -40,8 +39,8 @@ See you back here tomorrow morning.");
     VoicePlay("Q080100000_01_030");
     MsgDisp("Kazama","Wasn't it?
 I enjoyed myself too.");
-    MsgDisp("主人公","Thanks to ｛風真＊＊｝, I made some great
-memories.");
+    MsgDisp("主人公","Thanks to ｛風真＊＊｝, I made
+some great memories.");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,1);
@@ -68,8 +67,8 @@ This trip is really so much fun.");
     ChMotion(1,3);
     VoiceEVSPlay(1);
     VoicePlay("Q080100000_01_070");
-    MsgDisp("Kazama","｛主人公｝. I'll met you here again
-then.");
+    MsgDisp("Kazama","｛主人公｝.
+I'll met you here again then.");
     break ;
     default :
     DbgAssert(1);

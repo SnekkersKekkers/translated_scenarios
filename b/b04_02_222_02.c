@@ -6,8 +6,9 @@ ChMouth(2,0);
 ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040222202_02_000");
-MsgDisp("Sassa","Hm? \"Special Exhibition: A Large
-Compilation of Historical Documents\"?");
+MsgDisp("Sassa","Hm? \"
+Special Exhibition: A Large Compilation of
+Historical Documents\"?");
 MsgSel("There's even an old debt acknowledgement","I can barely even read the dates","There's even a letter from 400 years ago");
 switch (MsgSelRsltGet()){
     case 0:
@@ -59,8 +60,7 @@ documents!");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040222202_02_050");
-        MsgDisp("Sassa","Sorry sorry, 
-historical documents huh?");
+        MsgDisp("Sassa","Sorry sorry, historical documents huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -94,8 +94,7 @@ I can't read any of it.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040222202_02_080");
-    MsgDisp("Sassa","Yeah.
-400 years was pretty long ago.");
+    MsgDisp("Sassa","Yeah. 400 years was pretty long ago.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

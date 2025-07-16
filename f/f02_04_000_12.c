@@ -5,8 +5,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝, do you have plans for
-spring break?");
+MsgDisp("主人公","｛七ツ森＊｝, do you have
+plans for spring break?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("F020400012_04_000");
@@ -19,7 +19,8 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("F020400012_04_010");
-MsgDisp("Nanatsumori","Yep. Because pink is a color with many
+MsgDisp("Nanatsumori","Yep.
+Because pink is a color with many
 different shades.");
 ChEye(4,4);
 ChMouth(4,4);
@@ -32,12 +33,13 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400012_04_030");
-MsgDisp("Nanatsumori","......Well. You're a girl, so shouldn't
-you be more interested in that sort of
-thing?");
+MsgDisp("Nanatsumori","...... Well.
+You're a girl, so shouldn't you be more
+interested in that sort of thing?");
 ChMotion(4,0,1);
 VoicePlay("F020400012_04_040");
 MsgDisp("Nanatsumori","Well, I guess gender has nothing to do
 with it.");
-MsgDisp("主人公","(Uh...... Even then, I'm no match for
+MsgDisp("主人公","(Uh......
+Even then, I'm no match for
 ｛七ツ森＊｝...... )");

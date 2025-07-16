@@ -1,4 +1,5 @@
-MsgDisp("主人公","｛御影＊＊｝, I guess......");
+MsgDisp("主人公","｛御影＊＊｝, I
+guess......");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -96,8 +97,9 @@ his position.");
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,1);
     VoicePlay("U130D00006_22_050");
-    MsgDisp("Hikaru","Mari. To make this love fruitful you will
-need to be mindful of his feelings.");
+    MsgDisp("Hikaru","Mari.
+To make this love fruitful you will need
+to be mindful of his feelings.");
     StlEye(21,0,0);
     StlEyeOpenLevel(21,10,1);
     VoicePlay("U130D00006_21_060");

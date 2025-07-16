@@ -1,11 +1,13 @@
-MsgDisp("主人公","(Huh? What's up with me? My heart is
-thudding super fast...)");
+MsgDisp("主人公","(Huh?
+What's up with me?
+My heart is thudding super fast...)");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
 VoiceEVSPlay(7);
 VoicePlay("B070700001_07_530");
-MsgDisp("Mikage","｛主人公｝, are you alright?");
+MsgDisp("Mikage","｛主人公｝, are you
+alright?");
 MsgDisp("主人公","Suddenly, my heart is racing...");
 ChEye(7,2);
 ChMouth(7,4);
@@ -35,14 +37,15 @@ ChCheek(7,7);
 VoicePlay("B070700001_07_570");
 MsgDisp("Mikage","......... When did you learn those skills?
 You're getting too tough.");
-MsgDisp("主人公","...Phew.
+MsgDisp("主人公","... Phew.
 I've calmed down.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_580");
 MsgDisp("Mikage","Haa, I'm still yet to.");
-MsgDisp("主人公","Eh? Are you alright? ");
+MsgDisp("主人公","Eh?
+Are you alright?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -65,8 +68,8 @@ ChCheek(7,0);
 VoicePlay("B070700001_07_610");
 MsgDisp("Mikage","I'll bite!
 Hahaha!");
-MsgDisp("主人公","(｛御影＊＊｝ just now...
-was a bit different to usual.
+MsgDisp("主人公","(｛御影＊＊｝ just now... was a bit
+different to usual.
 My heart is racing again.)");
 BGMStop();
 MsgClose();

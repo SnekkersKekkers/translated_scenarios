@@ -11,8 +11,8 @@ ChMouth(31,0);
 ChMotion(31,3);
 ScrFadeIn(0);
 VoicePlay("P243101000_31_000");
-MsgDisp("Goro","Hmmm.... It seems to be a hit with the
-audience.");
+MsgDisp("Goro","Hmmm....
+It seems to be a hit with the audience.");
 MsgDisp("主人公","Yes, so far so good.
 Now we're going to change the stage, off
 we go!");
@@ -45,9 +45,9 @@ ChOpen(31,254,4,2,2,#1,#1,0,0);
 VoicePlay("P243101000_31_020");
 MsgDisp("Goro","Yahoo!
 The stage change was perfect♪");
-MsgDisp("主人公","Yes! I think the audience will be
-surprised to know that Goro-sensei helped
-out.");
+MsgDisp("主人公","Yes!
+I think the audience will be surprised to
+know that Goro-sensei helped out.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);

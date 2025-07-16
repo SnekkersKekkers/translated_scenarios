@@ -19,7 +19,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A10801_01_000");
-MsgDisp("Kazama","Really? It's not that unusual.");
+MsgDisp("Kazama","Really?
+It's not that unusual.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -56,8 +57,7 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B330A10801_02_020");
-MsgDisp("Sassa","Why do I have to be 
-in the lead?");
+MsgDisp("Sassa","Why do I have to be in the lead?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -68,7 +68,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","Eh, me?
-...Y-Yeah.");
+... Y-Yeah.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0.3,0.6);
 BGMStop();
 MsgClose();
@@ -106,8 +106,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("B330A10801_01_040");
-MsgDisp("Kazama","Yeah, 
-we got split up along the way.");
+MsgDisp("Kazama","Yeah, we got split up along the way.");
 VoicePlay("B330A10801_06_040");
 MsgDisp("Himuro","What, why are you saying it as if it was
 some divine force at play?");
@@ -123,8 +122,9 @@ ChOpen(6,255,2,0,0,0,#1,0,3,0,30);
 VoicePlay("B330A10801_06_050");
 MsgDisp("Himuro","You and Ryota-senpai were clearly just
 trying to be alone right?");
-MsgDisp("主人公","Ehh? It was scary... so I just wanted to
-get out quickly?");
+MsgDisp("主人公","Ehh?
+It was scary... so I just wanted to get
+out quickly?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -147,8 +147,7 @@ ChOpen(1,255,0,0,2,8,#1,0,3,0,30);
 ChOpen(2,255,4,2,0,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 VoicePlay("B330A10801_02_040");
-MsgDisp("Sassa","Inori, why did you 
-just go on ahead....");
+MsgDisp("Sassa","Inori, why did you just go on ahead....");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -161,8 +160,8 @@ ChMotion(2,2);
 VoicePlay("B330A10801_02_050");
 MsgDisp("Sassa","Seriously, Ryota.
 What a cruel guy.");
-MsgDisp("主人公","We were just waiting here? Right,
-｛風真＊＊｝?");
+MsgDisp("主人公","We were just waiting here?
+Right, ｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

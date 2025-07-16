@@ -13,8 +13,9 @@ MsgDisp("Michiru","Mari.");
 ChMotion(22,3,1);
 VoicePlay("F102130002_22_000");
 MsgDisp("Hikaru","Mari!");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝. What's
-up, you two?");
+MsgDisp("主人公","｛みちる＊｝,
+｛ひかる＊｝.
+What's up, you two?");
 ChMotion(21,3);
 VoicePlay("F102130002_21_010");
 MsgDisp("Michiru","The biology textbook——");
@@ -26,8 +27,9 @@ VoicePlay("F102130002_22_010");
 MsgDisp("Hikaru","Ah!
 That's what Hikaru was going to say!");
 ChEye(22,0);
-MsgDisp("主人公","Ummm... Did both of you forget your
-biology textbook?");
+MsgDisp("主人公","Ummm...
+Did both of you forget your biology
+textbook?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
@@ -45,8 +47,7 @@ ChEye(21,1);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102130002_21_030");
-MsgDisp("Michiru","Hikaru, this isn't 
-the place to be bossy.");
+MsgDisp("Michiru","Hikaru, this isn't the place to be bossy.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -69,7 +70,7 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102130002_21_050");
-MsgDisp("Michiru","...Sorry, Mari.
+MsgDisp("Michiru","... Sorry, Mari.
 Then, could I borrow it first, then hand
 it to Hikaru after that?");
 MsgDisp("主人公","I dpn't have biology today, so that's
@@ -89,9 +90,9 @@ VoicePlay("F102130002_21_060");
 MsgDisp("Michiru","No way...
 I didn't want to show this kind of
 embarrassing twin synchronicity.");
-MsgDisp("主人公","(Hehe! They're alike in their
-panic-stricken nature, they really are
-twins after all.)");
+MsgDisp("主人公","(Hehe!
+They're alike in their panic-stricken
+nature, they really are twins after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

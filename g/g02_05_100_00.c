@@ -5,8 +5,7 @@ MsgDisp("Hiiragi","t's a beauty that makes me sigh.");
 MsgDisp("主人公","Yeah, it's beautiful.");
 ChMotion(5,4);
 VoicePlay("G020510000_05_010");
-MsgDisp("Hiiragi","To me,
-you seem to be illuminated.");
+MsgDisp("Hiiragi","To me, you seem to be illuminated.");
 MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ also.");
 ChEye(5,2);
 VoicePlay("G020510000_05_020");

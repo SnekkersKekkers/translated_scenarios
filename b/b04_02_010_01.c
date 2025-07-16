@@ -27,7 +27,7 @@ you even wear this?");
     ChEyeOpenLevel(2,9);
     VoicePlay("B040201001_02_020");
     MsgDisp("Sassa","Yeah, it suits you.
-......Wait, are you seriously thinking
+...... Wait, are you seriously thinking
 about it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -9,7 +9,9 @@ SEPlay("EV_SE_FOOT_039");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,0,2,2,0,#1,0,0);
-MsgDisp("主人公","Ah? ｛颯砂＊＊｝. Why are you here?");
+MsgDisp("主人公","Ah?
+｛颯砂＊＊｝.
+Why are you here?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -53,8 +55,9 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200703_02_040");
-MsgDisp("Sassa","Oh. Right now, you were worried about the
-club fees, not my health, right?");
+MsgDisp("Sassa","Oh.
+Right now, you were worried about the club
+fees, not my health, right?");
 MsgDisp("主人公","Hehe, can't it be both?");
 ChEye(2,1);
 ChMouth(2,0);
@@ -75,7 +78,7 @@ MsgClose();
 ChOpen(2,41,5,5,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200703_02_060");
-MsgDisp("Sassa","Huh......there's no one there......
+MsgDisp("Sassa","Huh...... there's no one there......
 Rather, what did they mean by lovey dovey?");
 MsgDisp("主人公","Umm......");
 ChEye(2,0);

@@ -6,7 +6,8 @@ Wait(80,0);
 SEPlay("EV_SE_629");
 Wait(100,0);
 MsgDisp("主人公","(Mnn......Who could be calling so early in
-the morning......? Ah, it's ｛氷室＊＊｝! )");
+the morning......? Ah, it's
+｛氷室＊＊｝! )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -17,7 +18,8 @@ MsgDisp("Himuro","......Were you sleeping?");
 MsgDisp("主人公","Y-Yeah.
 It's already this late......");
 VoicePlay("D010600300_06_010");
-MsgDisp("Himuro","So......Can you come out?
+MsgDisp("Himuro","So......
+Can you come out?
 I'll be waiting at the beach.");
 MsgDisp("主人公","Eh, right now?");
 MsgClose();
@@ -29,18 +31,20 @@ MsgClose();
 BGOpen("wf620",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_630");
-MsgDisp("主人公","｛氷室＊＊｝......! W-Wait up!");
+MsgDisp("主人公","｛氷室＊＊｝......!
+W-Wait up!");
 VoicePlay("D010600300_06_020");
 MsgDisp("Himuro","It's okay to take it slow.
 Watch your step.");
-MsgDisp("主人公","Okay......Ah!");
+MsgDisp("主人公","Okay......
+Ah!");
 SEPlay("EV_SE_631");
 SEStop("EV_SE_630");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","......Puu!");
 VoicePlay("D010600300_06_030");
-MsgDisp("Himuro","......Geez, that's exactly what I was
+MsgDisp("Himuro","...... Geez, that's exactly what I was
 talking about.
 Here, give me your hand.");
 MsgClose();
@@ -122,16 +126,17 @@ VoicePlay("D010600300_06_130");
 MsgDisp("Himuro","You're welcome. Whenever you're ready, we
 can do this again. I just need to ask the
 chairman.");
-MsgDisp("主人公","Okay! But I guess it doesn't need to be
-just the two of us?");
+MsgDisp("主人公","Okay!
+But I guess it doesn't need to be just the
+two of us?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600300_06_140");
 MsgDisp("Himuro","That's from your perspective.
 I have my reasons.");
-MsgDisp("主人公","｛氷室＊＊｝, you prefer it when it's just
-the two of us?");
+MsgDisp("主人公","｛氷室＊＊｝, you prefer it when
+it's just the two of us?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -139,8 +144,9 @@ ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("D010600300_06_150");
 MsgDisp("Himuro","No comment.");
-MsgDisp("主人公","(Hehe! I'm glad I was able to make such
-wonderful memories with ｛氷室＊＊｝...... )");
+MsgDisp("主人公","(Hehe!
+I'm glad I was able to make such wonderful
+memories with ｛氷室＊＊｝...... )");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);

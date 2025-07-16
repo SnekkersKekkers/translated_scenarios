@@ -6,7 +6,8 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("H6G2200000_22_000");
 MsgDisp("Hikaru","Mari, congrats～♪");
-MsgDisp("主人公","Huh? What's up, ｛ひかる＊｝?");
+MsgDisp("主人公","Huh?
+What's up, ｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -28,7 +29,8 @@ ChMotion(22,0,1);
 VoicePlay("H6G2200000_22_030");
 MsgDisp("Hikaru","Hikaru wants to see it too～♪
 The gold award flowers grown by Mari.");
-MsgDisp("主人公","(Hehe! I'm glad I worked so hard for the
+MsgDisp("主人公","(Hehe!
+I'm glad I worked so hard for the
 gardening club!)");
 MsgClose();
 ScrFadeOut(0,0);

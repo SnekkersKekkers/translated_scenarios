@@ -15,22 +15,20 @@ StlMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("P240400000_04_010");
 MsgDisp("Nanatsumori","Why did you come back here...");
-MsgDisp("主人公","\"Why?\"...
-To see you.");
+MsgDisp("主人公","\"Why?\"
+... To see you.");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("P240400000_04_020");
-MsgDisp("Nanatsumori","I see. Thank you.
+MsgDisp("Nanatsumori","I see.
+Thank you.
 Though I'm... already...");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0,1);
-MsgDisp("主人公","∈
-No... please, open your eyes!");
-MsgDisp("主人公","I... 
-I love you. I love you!
-...Please!");
+MsgDisp("主人公","∈ No... please, open your eyes!");
+MsgDisp("主人公","I... I love you. I love you! ...Please!");
 StlEye(4,1,0);
 StlMouth(4,1);
 StlMouthOpenLevel(4,0,1);
@@ -41,8 +39,8 @@ StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("P240400000_04_040");
 MsgDisp("Nanatsumori","Actually, at this point I should
-dazzlingly～
-turn back into a handsome guy, huh?");
+dazzlingly～ turn back into a handsome
+guy, huh?");
 MsgDisp("主人公","Y-Yeah, that's right.
 That's why you should start getting up...");
 StlEye(4,1);
@@ -117,7 +115,8 @@ ChClose(4);
 MsgDisp("主人公","(｛七ツ森＊｝... what's wrong?)");
 MsgDisp("主人公","(Still, the cheers after Nanatsumori's
 makeup was removed was amazing... I wonder
-if that revealed ｛七ツ森＊｝'s true
+if that revealed
+｛七ツ森＊｝'s true
 identity...')");
 MsgClose();
 ScrFadeOut(0,0);

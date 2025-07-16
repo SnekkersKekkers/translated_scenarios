@@ -29,8 +29,7 @@ ChMouth(9,4);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901610_40_040");
-MsgDisp("Male Student A","I want a photo with just the two
-of us!");
+MsgDisp("Male Student A","I want a photo with just the two of us!");
 VoicePlay("D030901610_41_050");
 MsgDisp("Male Student B","Me too!");
 MsgDisp("主人公","W-Wait a minute......");
@@ -47,7 +46,8 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901610_09_020");
 MsgDisp("Kuya","I'm your customer, aren't I?");
-MsgDisp("主人公","Ah......True.");
+MsgDisp("主人公","Ah......
+True.");
 ChEye(9,3);
 ChMotion(9,4,1);
 VoicePlay("D030901610_09_030");
@@ -90,7 +90,7 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901610_09_070");
-MsgDisp("Kuya","......Hehe.
+MsgDisp("Kuya","...... Hehe.
 Jealousy, huh.");
 ChMotion(9,2,1);
 VoicePlay("D030901610_09_080");
@@ -100,8 +100,9 @@ ChEye(9,3);
 ChMouth(9,0);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901610_09_090");
-MsgDisp("Kuya","......Yeah. I think Hanegasaki High School
-was a good decision.");
+MsgDisp("Kuya","...... Yeah.
+I think Hanegasaki High School was a good
+decision.");
 MsgDisp("主人公","???");
 ChEye(9,3);
 ChMouth(9,0);

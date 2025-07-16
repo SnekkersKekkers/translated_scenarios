@@ -28,9 +28,10 @@ ChEye ( 4,2 ) ;
 ChMouth ( 4,2 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150004601_04_020" ) ;
-MsgDisp ( "Nanatsumori","Right. Plus there's Gym class this
-afternoon." ) ;
-MsgDisp ( "主人公","Hehe. I'm sure that will wake you up." ) ;
+MsgDisp ( "Nanatsumori","Right.
+Plus there's Gym class this afternoon." ) ;
+MsgDisp ( "主人公","Hehe.
+I'm sure that will wake you up." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,1 ) ;
@@ -42,13 +43,16 @@ ChEye ( 4,0 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150004601_04_030" ) ;
-MsgDisp ( "Nanatsumori","......True. There are a surprising number
-of places to nap at school." ) ;
+MsgDisp ( "Nanatsumori","...... True.
+There are a surprising number of places to
+nap at school." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150004601_06_030" ) ;
-MsgDisp ( "Himuro","Music room. The AV room. On the rooftop." ) ;
+MsgDisp ( "Himuro","Music room.
+The AV room.
+On the rooftop." ) ;
 MsgDisp ( "主人公","(Do they both nap at school a lot?)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

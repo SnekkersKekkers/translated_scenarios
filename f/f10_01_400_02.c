@@ -7,8 +7,8 @@ ChOpen(2,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("F100140002_01_000");
-MsgDisp("Kazama","｛主人公｝. I solved the mystery of
-Sassa.");
+MsgDisp("Kazama","｛主人公｝.
+I solved the mystery of Sassa.");
 MsgDisp("主人公","Er, the mystery of ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -108,8 +108,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChPosition(1,0);
 Wait(60,0);
-MsgDisp("主人公","｛颯砂＊＊｝ bawling... Did something like
-that really happen?");
+MsgDisp("主人公","｛颯砂＊＊｝ bawling...
+Did something like that really happen?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

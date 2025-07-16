@@ -28,8 +28,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B040703101_07_020");
-    MsgDisp("Mikage","Yeah, like sturgeon and 
-coelacanth～");
+    MsgDisp("Mikage","Yeah, like sturgeon and coelacanth～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,7 +41,7 @@ coelacanth～");
     VoicePlay("B040703101_07_030");
     MsgDisp("Mikage","I kinda understand how you feel.
 They have a cold look in their eyes.
-...Kind of like our Vice-Principal?");
+... Kind of like our Vice-Principal?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

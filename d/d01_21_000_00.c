@@ -4,8 +4,9 @@ BGOpen("sc220",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The culture festival will end soon......)");
-MsgDisp("主人公","(Huh? Over there, is that ｛みちる＊｝?
-)");
+MsgDisp("主人公","(Huh?
+Over there, is that
+｛みちる＊｝? )");
 MsgClose();
 ScrFadeOut(0);
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
@@ -32,8 +33,9 @@ VoicePlay("D012100000_21_020");
 MsgDisp("Michiru","I can hear you so you don't need to be so
 loud......");
 VoicePlay("D012100000_40_020");
-MsgDisp("Male Student","Sorry! I've, uhm......for a long time
-now...... I've had a crush on you!");
+MsgDisp("Male Student","Sorry!
+I've, uhm...... for a long time now......
+I've had a crush on you!");
 StlEye(21,1);
 VoicePlay("D012100000_21_030");
 MsgDisp("Michiru","∈");
@@ -41,8 +43,9 @@ StlEyeOpenLevel(21,5,1);
 VoicePlay("D012100000_21_040");
 MsgDisp("Michiru","Me......?");
 VoicePlay("D012100000_40_030");
-MsgDisp("Male Student","Yes. So......Will you please go out with
-me?");
+MsgDisp("Male Student","Yes.
+So......
+Will you please go out with me?");
 StlEyeOpenLevel(21,0,1);
 Wait(6,0);
 StlEyeOpenLevel(21,#1);
@@ -58,10 +61,11 @@ guy?");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("D012100000_21_070");
 MsgDisp("Michiru","That's not it.
-But this uhm......is troubling.");
+But this uhm...... is troubling.");
 VoicePlay("D012100000_40_050");
 MsgDisp("Male Student","It's fine if you don't reply right away.
-I'll......I'll wait for you forever!");
+I'll......
+I'll wait for you forever!");
 StlEyeOpenLevel(21,0,1);
 StlMouthOpenLevel(21,0);
 VoicePlay("D012100000_21_080");
@@ -90,15 +94,14 @@ ChCheek(21,0);
 SEPlay("EV_SE_645",0.5,0.4);
 Wait(20,0);
 VoicePlay("D012100000_21_110");
-MsgDisp("Michiru","∋
-......Who's there?");
+MsgDisp("Michiru","∋ ......Who's there?");
 MsgDisp("主人公","｛みちる＊｝......");
 ChEye(21,5);
 ChMouth(21,5);
 ChMotion(21,0);
 VoicePlay("D012100000_21_120");
 MsgDisp("Michiru","Mari!
-Just now......did you see that?");
+Just now...... did you see that?");
 MsgDisp("主人公","Sorry.
 I didn't mean to eavesdrop......");
 ChEye(21,4);
@@ -106,8 +109,10 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("D012100000_21_130");
 MsgDisp("Michiru","Hehe.
-It's fine. I'm relieved it was Mari.");
-MsgDisp("主人公","Uhm......｛みちる＊｝, what are you
+It's fine.
+I'm relieved it was Mari.");
+MsgDisp("主人公","Uhm......
+｛みちる＊｝, what are you
 going to do?");
 ChEye(21,0);
 ChMouth(21,4);
@@ -130,24 +135,26 @@ VoicePlay("D012100000_21_160");
 MsgDisp("Michiru","I thought it would be better for the two
 of us if I gave an honest reply instead of
 getting his hopes up and making him wait.");
-MsgDisp("主人公","True. But ｛みちる＊｝, you look really
-cute when you get shy, huh?");
+MsgDisp("主人公","True.
+But ｛みちる＊｝, you look
+really cute when you get shy, huh?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 ChCheek(21,10);
 VoicePlay("D012100000_21_170");
 MsgDisp("Michiru","Geez Mari, no more.
-That......it's so embarrassing......");
+That...... it's so embarrassing......");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 ChEyeOpenLevel(21,0);
 VoicePlay("D012100000_21_180");
-MsgDisp("Michiru","Sigh...... Love takes a lot of courage,
-huh?");
-MsgDisp("主人公","(Hehe! But I think I understand that. You
-have to love with all your heart.)");
+MsgDisp("Michiru","Sigh......
+Love takes a lot of courage, huh?");
+MsgDisp("主人公","(Hehe!
+But I think I understand that.
+You have to love with all your heart.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

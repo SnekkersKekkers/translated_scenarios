@@ -20,8 +20,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B340B00002_04_000");
-MsgDisp("Nanatsumori","Yeah. It's nice to have something like
-this once in a while.");
+MsgDisp("Nanatsumori","Yeah.
+It's nice to have something like this once
+in a while.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -39,7 +40,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B340B00002_04_010");
-MsgDisp("Nanatsumori","Maybe. I'll try planning the next one.
+MsgDisp("Nanatsumori","Maybe.
+I'll try planning the next one.
 Then, that's it for today.");
 MsgClose();
 SEPlay("EV_SE_856",0,0.6);

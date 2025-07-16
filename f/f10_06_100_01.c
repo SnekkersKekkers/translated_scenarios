@@ -1,8 +1,8 @@
 BGOpen("sc230",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Today's weather is nice too!) Then, I'll
-bring my bento-)");
+MsgDisp("主人公","(Today's weather is nice too!)
+Then, I'll bring my bento-)");
 VoicePlay("F100610001_41_000");
 MsgDisp("Male Student","Then, I'll leave the rest to you, Himuro!
 Please confirm it with Himurocchi!");
@@ -52,7 +52,8 @@ VoicePlay("F100610001_06_050");
 MsgDisp("Himuro","It would be troubling if it wasn't.
 That's something...
 I'm also weirdly conscious of.");
-MsgDisp("主人公","(It is ｛氷室＊＊｝'s relative after all...
+MsgDisp("主人公","(It is ｛氷室＊＊｝'s relative after
+all...
 It's no wonder.)");
 BGMStop();
 MsgClose();

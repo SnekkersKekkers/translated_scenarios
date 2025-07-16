@@ -54,8 +54,7 @@ ChOpen(3,254,0,0,3,#1,#1,0,0);
 VoicePlay("Q100300001_03_070");
 MsgDisp("Honda","Sorry to keep you waiting.
 The main problem has now been cleared up.");
-MsgDisp("主人公","Yeah, I hope your sister is happy with
-it.");
+MsgDisp("主人公","Yeah, I hope your sister is happy with it.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);

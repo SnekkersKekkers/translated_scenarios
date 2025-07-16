@@ -24,11 +24,12 @@ a good idea, huh?");
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("P230200001_02_010");
-    MsgDisp("Sassa","Yeah. A three-headed dog was impossible,
-but three normal ones are doable.");
-    MsgDisp("主人公","Hehe, yeah.
-The dogs were more attached to ｛颯砂＊＊｝
-than the guy playing Hades.");
+    MsgDisp("Sassa","Yeah.
+A three-headed dog was impossible, but
+three normal ones are doable.");
+    MsgDisp("主人公","Hehe, yeah. The dogs were more attached to
+｛颯砂＊＊｝ than the guy playing
+Hades.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

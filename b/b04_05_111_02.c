@@ -28,7 +28,7 @@ Now, will you give me your hand?");
     ChEye(5,3);
     VoicePlay("B040511102_05_020");
     MsgDisp("Hiiragi","Haha.
-I think we've reached that point. ");
+I think we've reached that point.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -79,13 +79,15 @@ that.");
         ChMotion(5,4);
         VoicePlay("B040511102_05_080");
         MsgDisp("Hiiragi","An Ice Show huh......");
-        MsgDisp("主人公","Seeing ｛柊＊＊＊｝ perform on ice in a
-beautiful costume would be wonderful.");
+        MsgDisp("主人公","Seeing ｛柊＊＊＊｝ perform on
+ice in a beautiful costume would be
+wonderful.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040511102_05_090");
-        MsgDisp("Hiiragi","Yeah. I'll try it.");
+        MsgDisp("Hiiragi","Yeah.
+I'll try it.");
         MsgDisp("主人公","Ehh?");
         MsgClose();
         SEPlay("EV_SE_559");

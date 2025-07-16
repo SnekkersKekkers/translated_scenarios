@@ -6,13 +6,13 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("H6G0500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝. What is it?");
+MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
+What is it?");
 ChEye(5,4);
 VoicePlay("H6G0500000_05_010");
 MsgDisp("Hiiragi","I heard that you won an award in the
 gardening club's competition.");
-MsgDisp("主人公","......!
-You came here to congratulate me?");
+MsgDisp("主人公","......! You came here to congratulate me?");
 ChMotion(5,3);
 Wait(20,0);
 ChEye(5,3);

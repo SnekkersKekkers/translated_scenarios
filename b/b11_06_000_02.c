@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛氷室＊＊｝ hasn't arrived
-yet...");
+MsgDisp("主人公","Looks like ｛氷室＊＊｝ hasn't
+arrived yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -29,9 +29,9 @@ That would be impossible for me...");
 ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110600002_35_030");
-MsgDisp("Guy","Oh! You can even make that kind of
-expression? You'd totally nail acting
-too!～");
+MsgDisp("Guy","Oh!
+You can even make that kind of expression?
+You'd totally nail acting too!～");
 ChPosition(35,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
@@ -71,15 +71,16 @@ ChEye(35,1);
 ChMouth(35,1);
 ChEyeOpenLevel(35,0);
 VoicePlay("B110600002_35_060");
-MsgDisp("Guy","Uugh... you said that so cold. Ah, could
-it be you're at that rebellious age?");
+MsgDisp("Guy","Uugh... you said that so cold.
+Ah, could it be you're at that rebellious
+age?");
 MsgDispSksp(1,5);
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("B110600002_06_030");
-MsgDisp("Himuro","...Ha? Why would I be in a rebellious
-phase?");
+MsgDisp("Himuro","... Ha?
+Why would I be in a rebellious phase?");
 MsgDispSksp(0);
 ChEye(35,2);
 ChMouth(35,1);
@@ -95,7 +96,9 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B110600002_06_040");
 MsgDisp("Himuro","...Who's in a rebellious phase?");
-MsgDisp("主人公","Um...｛氷室＊＊｝? Thank you very much.");
+MsgDisp("主人公","Um...
+｛氷室＊＊｝?
+Thank you very much.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -103,4 +106,5 @@ VoicePlay("B110600002_06_050");
 MsgDisp("Himuro","I'll tell you.
 I can be friendly too!
 Come on, let's go.");
-MsgDisp("主人公","((???) What happened to ｛氷室＊＊｝? )");
+MsgDisp("主人公","((???)
+What happened to ｛氷室＊＊｝? )");

@@ -1,7 +1,7 @@
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Whew... Afternoon classes are making me
-sleepy...)");
+MsgDisp("主人公","(Whew...
+Afternoon classes are making me sleepy...)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -23,9 +23,10 @@ ChOpen(1,254,0,0,3,10,#1,0,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("F100110000_01_000");
-MsgDisp("Kazama","｛主人公｝. Were you falling asleep
-just now?");
-MsgDisp("主人公","Ah! ｛風真＊＊｝, you were watching?");
+MsgDisp("Kazama","｛主人公｝.
+Were you falling asleep just now?");
+MsgDisp("主人公","Ah!
+｛風真＊＊｝, you were watching?");
 ChMotion(1,3);
 Wait(10,0);
 ChMouth(1,3);
@@ -70,7 +71,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(...I have to get more sleep.)");
+MsgDisp("主人公","(...
+I have to get more sleep.)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

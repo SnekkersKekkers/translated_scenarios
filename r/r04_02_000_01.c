@@ -10,7 +10,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0);
     VoicePlay("R040200001_02_000");
     MsgDisp("Sassa","That dress looks great on you.");
-    MsgDisp("主人公","Really?　Thank you!");
+    MsgDisp("主人公","Really?
+Thank you!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -47,8 +48,9 @@ Does it suit me?");
     MsgDisp("Sassa","Of course it does.
 You have a different atmosphere from
 always, so my heart raced.");
-    MsgDisp("主人公","Hehe. Have I already said you also look
-cool, ｛颯砂＊＊｝?");
+    MsgDisp("主人公","Hehe.
+Have I already said you also look cool,
+｛颯砂＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -76,8 +78,9 @@ Especially your dress.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R040200001_02_090");
-    MsgDisp("Sassa","Yeah. It makes me feel like floating when
-I'm next to you.");
+    MsgDisp("Sassa","Yeah.
+It makes me feel like floating when I'm
+next to you.");
     MsgDisp("主人公","Floating?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -92,8 +95,8 @@ I'm next to you.");
     VoicePlay("R040200001_02_110");
     MsgDisp("Sassa","How do I look?
 People are saying I look a wedding groom.");
-    MsgDisp("主人公","Yeah. You do look like a
-wedding groom.");
+    MsgDisp("主人公","Yeah.
+You do look like a wedding groom.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,5);

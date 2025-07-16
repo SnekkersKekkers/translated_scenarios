@@ -8,7 +8,8 @@ switch (ChPrmGet(3,6)){
     ChOpen(3,254,0,4,4,#1,#1,0,0);
     VoicePlay("F010300001_03_000");
     MsgDisp("Honda","......");
-    MsgDisp("主人公","Huh? Um, ｛本多＊＊｝?");
+    MsgDisp("主人公","Huh?
+Um, ｛本多＊＊｝?");
     ChEye(3,5);
     ChMouth(3,5);
     ChMotion(3,5);
@@ -34,14 +35,16 @@ Should I not call you that?");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("F010300001_03_030");
-    MsgDisp("Honda","No, it's more like... I don't think I can
-respond to that. Sorry.");
+    MsgDisp("Honda","No, it's more like...
+I don't think I can respond to that.
+Sorry.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(3);
-    MsgDisp("主人公","(Okay... Seems like he doesn't like it
-when I call him that.)");
+    MsgDisp("主人公","(Okay...
+Seems like he doesn't like it when I call
+him that.)");
     break ;
     case 4:
     case 5:

@@ -3,7 +3,8 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛氷室＊＊｝. Are you heading home now?");
+MsgDisp("主人公","｛氷室＊＊｝.
+Are you heading home now?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -34,7 +35,7 @@ SEPlay("EV_SE_542",0,0.4);
 SEWait();
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 VoicePlay("G110600702_06_020");
-MsgDisp("Himuro","......?　What.");
+MsgDisp("Himuro","......? What.");
 MsgDisp("主人公","(Come to think of it, he used to play bass
 too. He's not only athletic, but good with
 his hands too......?)");
@@ -47,14 +48,16 @@ while (1){
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("G110600702_06_030");
-    MsgDisp("Himuro","Wait∋　What's this all of a sudden!");
+    MsgDisp("Himuro","Wait∋
+What's this all of a sudden!");
     }
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_040");
-MsgDisp("Himuro","What......? Why are you staring at my arm
-all of a sudden.");
+MsgDisp("Himuro","What......?
+Why are you staring at my arm all of a
+sudden.");
 MsgDisp("主人公","Ah, sorry.
 I'm just thinking about before, that time
 we went to the livehouse.");
@@ -63,16 +66,16 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_050");
 MsgDisp("Himuro","Oh......that?");
-MsgDisp("主人公","｛氷室＊＊｝, borrowed a bass from one of
-the band members and started playing,
-right?");
+MsgDisp("主人公","｛氷室＊＊｝, borrowed a bass from
+one of the band members and started
+playing, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_060");
 MsgDisp("Himuro","Yeah, that happened.");
-MsgDisp("主人公","That's why I thought ｛氷室＊＊｝ is good
-with his hands too.");
+MsgDisp("主人公","That's why I thought ｛氷室＊＊｝
+is good with his hands too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

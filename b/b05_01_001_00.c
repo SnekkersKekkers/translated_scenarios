@@ -16,7 +16,8 @@ SEPlay("EV_SE_508");
 SEWait();
 VoiceEVSPlay(1);
 VoicePlay("B050100100_01_000");
-MsgDisp("Kazama","｛主人公｝, here, this is yours.");
+MsgDisp("Kazama","｛主人公｝, here, this is
+yours.");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_03");
@@ -27,13 +28,14 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, you're finally back.");
 VoicePlay("B050100100_01_010");
 MsgDisp("Kazama","There were nothing but kiddy ones.");
-MsgDisp("主人公","Thank you...
-hey, ｛風真＊＊｝ also uses floats?");
+MsgDisp("主人公","Thank you... hey, ｛風真＊＊｝
+also uses floats?");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("B050100100_01_020");
 MsgDisp("Kazama","Yeah.
-I do? It's normal.");
+I do?
+It's normal.");
 MsgDisp("主人公","(Normal...
 Umm, I wonder about that...)");
 StlEye(1,1);

@@ -32,7 +32,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 ScrFadeIn(0);
 VoicePlay("B150700500_07_040");
-MsgDisp("Mikage","Haa... Could you act a bit more surprised?
+MsgDisp("Mikage","Haa...
+Could you act a bit more surprised?
 Ah-, how embarrassing...");
 ChEye(7,2);
 ChMouth(7,0);
@@ -41,8 +42,8 @@ VoicePlay("B150700500_07_050");
 MsgDisp("Mikage","There's no point in saying it to someone
 unaware and defenseless. I tried to get
 revenge, and this is what happens.");
-MsgDisp("主人公","｛御影＊＊｝, sorry. Did I go too far
-again?");
+MsgDisp("主人公","｛御影＊＊｝, sorry.
+Did I go too far again?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);

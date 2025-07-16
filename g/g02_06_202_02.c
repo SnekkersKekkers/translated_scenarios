@@ -17,7 +17,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620202_06_020");
-MsgDisp("Himuro","......Oh, but only in front of us.
+MsgDisp("Himuro","...... Oh, but only in front of us.
 Showing that fluffy side of him.
 It was my fault for not noticing.");
 MsgDisp("主人公","｛氷室＊＊｝?");
@@ -25,7 +25,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620202_06_030");
-MsgDisp("Himuro","......Sure, he's mature and charming.
+MsgDisp("Himuro","...... Sure, he's mature and charming.
 I also admire people like Yanosuke-senpai,
 who have a strong sense of self.");
 ChEye(6,2);
@@ -74,8 +74,8 @@ VoicePlay("G020620202_06_100");
 MsgDisp("Himuro","That's why, I want to face this head-on.
 I wanted to tell you that.");
 MsgDisp("主人公","Yeah......");
-MsgDisp("主人公","(｛氷室＊＊｝'s serious feelings really came
-through......)");
+MsgDisp("主人公","(｛氷室＊＊｝'s serious feelings really
+came through......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

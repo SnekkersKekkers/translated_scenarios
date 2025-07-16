@@ -9,7 +9,8 @@ Where should we meet up?");
     VoicePlay("S030200001_02_010");
     MsgDisp("Sassa","Right, hmm......
 How about I come pick you up?");
-    MsgDisp("主人公","Really? Thank you.
+    MsgDisp("主人公","Really?
+Thank you.
 I'll be waiting.");
     VoicePlay("S030200001_02_020");
     MsgDisp("Sassa","Yup, got it.
@@ -27,7 +28,8 @@ Where should we meet up?");
     VoicePlay("S030200001_02_040");
     MsgDisp("Sassa","No, it's fine.
 I'll come pick you up, so wait there.");
-    MsgDisp("主人公","Really? Thank you.");
+    MsgDisp("主人公","Really?
+Thank you.");
     VoicePlay("S030200001_02_050");
     MsgDisp("Sassa","It's cold, so dress warmly.
 See you soon.");
@@ -46,7 +48,8 @@ So where should we meet up?");
     MsgDisp("Sassa","Just wait there. It's hard for girls to
 get dressed up in that way, so take your
 time. See you soon.");
-    MsgDisp("主人公","Really? Thank you.");
+    MsgDisp("主人公","Really?
+Thank you.");
     VoicePlay("S030200001_02_080");
     MsgDisp("Sassa","I'll make my way there slowly, so take
 your time, okay?
@@ -54,7 +57,8 @@ See you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Dressed up, huh......
-｛颯砂＊＊｝ is expecting something......)");
+｛颯砂＊＊｝ is expecting
+something......)");
     break ;
     default :
     DbgAssert(1);

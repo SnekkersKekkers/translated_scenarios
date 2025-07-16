@@ -28,8 +28,9 @@ earth!");
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("B040301101_03_020");
-    MsgDisp("Honda","Eh, me? Why? You should look at the
-scenery.");
+    MsgDisp("Honda","Eh, me?
+Why?
+You should look at the scenery.");
     MsgDateResultDisp();
     break ;
     case 2:

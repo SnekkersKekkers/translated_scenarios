@@ -17,8 +17,9 @@ ChMotion(3,1);
 VoicePlay("B070300000_03_090");
 MsgDisp("Honda","A niboshi, agodashi, tonkotsu and torikara
 blend is also good.");
-MsgDisp("主人公","Hehe. I get the feeling that ｛本多＊＊｝
-has been experimenting.");
+MsgDisp("主人公","Hehe. I get the feeling that
+｛本多＊＊｝ has been
+experimenting.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

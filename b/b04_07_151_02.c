@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040715102_07_020");
-    MsgDisp("Mikage","Oh, has that gotten you motivated? ");
+    MsgDisp("Mikage","Oh, has that gotten you motivated?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -61,8 +61,7 @@ Isn't that overkill?");
         ChMotion(7,0);
         VoicePlay("B040715102_07_050");
         MsgDisp("Mikage","Is that a bowling rule?");
-        MsgDisp("主人公","It's not a rule,
-but everyone does it?");
+        MsgDisp("主人公","It's not a rule, but everyone does it?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,2);
@@ -74,11 +73,10 @@ Then... next time?");
         ChMouth(7,0);
         ChMotion(7,4);
         VoicePlay("B040715102_07_070");
-        MsgDisp("Mikage","The strike is a double-edged
-sword.");
+        MsgDisp("Mikage","The strike is a double-edged sword.");
         MsgDisp("主人公","(Double-edged sword...?
-Even so, ｛御影＊＊｝ has improved a
-lot.)");
+Even so, ｛御影＊＊｝ has
+improved a lot.)");
         break ;
         default :
         DbgAssert(1);

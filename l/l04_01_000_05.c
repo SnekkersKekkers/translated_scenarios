@@ -7,7 +7,8 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("L040100005_01_000");
     MsgDisp("Kazama","Wow, this is handmade, right?");
-    MsgDisp("主人公","Yeah. I did my best.");
+    MsgDisp("主人公","Yeah.
+I did my best.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -23,8 +24,9 @@ I hope it suits your taste.");
     VoicePlay("L040100005_01_020");
     MsgDisp("Kazama","Thanks.
 I'll eat it later.");
-    MsgDisp("主人公","(Did I add too much on it? Ah...... maybe,
-did I add something he doesn't like?)");
+    MsgDisp("主人公","(Did I add too much on it?
+Ah...... maybe, did I add something he
+doesn't like?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -56,7 +58,8 @@ Well, that's just like you, though.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Oh, could it be that I put something in
-that ｛風真＊＊｝ doesn't like??)");
+that ｛風真＊＊｝ doesn't
+like??)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -66,15 +69,15 @@ that ｛風真＊＊｝ doesn't like??)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100005_01_060");
-    MsgDisp("Kazama","It looks like you put your all
-into these.");
+    MsgDisp("Kazama","It looks like you put your all into these.");
     MsgDisp("主人公","Yeah, they're handmade.");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("L040100005_01_070");
-    MsgDisp("Kazama","Let's see...... Hm? Well, I can see how
-serious you were.");
+    MsgDisp("Kazama","Let's see......
+Hm?
+Well, I can see how serious you were.");
     MsgDisp("主人公","......Was it too much?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -92,8 +95,9 @@ Thanks.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(......Ah, could it be that I put
-something he didn't like in?)");
+    MsgDisp("主人公","(......
+Ah, could it be that I put something he
+didn't like in?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

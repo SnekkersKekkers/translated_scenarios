@@ -7,5 +7,5 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B130700002_07_010");
-MsgDisp("Mikage","...Ah, my bad, my bad.
+MsgDisp("Mikage","... Ah, my bad, my bad.
 I saw too much!");

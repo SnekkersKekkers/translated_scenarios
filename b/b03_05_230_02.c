@@ -23,8 +23,9 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030523002_05_010");
-    MsgDisp("Hiiragi","Good. Me too. Let's watch it from the best
-spot.");
+    MsgDisp("Hiiragi","Good.
+Me too.
+Let's watch it from the best spot.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);
@@ -36,9 +37,8 @@ spot.");
     ChMotion(5,2);
     ChEyeOpenLevel(5,8);
     VoicePlay("B030523002_05_020");
-    MsgDisp("Hiiragi","I see......That's unfortunate.
-It's a bit backwards, but it can't be
-helped.");
+    MsgDisp("Hiiragi","I see......That's unfortunate. It's a bit
+backwards, but it can't be helped.");
     MsgDispSksp(0);
     break ;
     default :

@@ -25,8 +25,9 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_010");
 MsgDisp("Nanatsumori","Treasure hunting.");
-MsgDisp("主人公","Hehe! You end up being drawn to too many
-things don't you?");
+MsgDisp("主人公","Hehe!
+You end up being drawn to too many things
+don't you?");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -81,8 +82,8 @@ StlMouth(4,1);
 VoicePlay("B050400300_04_080");
 MsgDisp("Nanatsumori","It's a nice black.
 And the high collar is cute too.");
-MsgDisp("主人公","Yeah, it's cute but...
-these are women's clothes?");
+MsgDisp("主人公","Yeah, it's cute but... these are women's
+clothes?");
 StlEye(4,1);
 StlMouth(4,0);
 VoicePlay("B050400300_04_090");
@@ -122,7 +123,8 @@ MsgDisp("主人公","Yeah.");
 VoicePlay("B050400300_04_160");
 MsgDisp("Nanatsumori","This is just the reverse of that.
 And I don't generally wear it outside.");
-MsgDisp("主人公","(...Generally?)");
+MsgDisp("主人公","(...
+Generally?)");
 StlEye(4,0);
 StlMouth(4,1);
 VoicePlay("B050400300_04_170");
@@ -146,7 +148,8 @@ VoicePlay("B050400300_04_180");
 MsgDisp("Nanatsumori","Ahー, it's good that they're about to
 close up shop.
 It's easier to negotiate a lower priceー.");
-MsgDisp("主人公","｛七ツ森＊｝ is good at haggling huh?");
+MsgDisp("主人公","｛七ツ森＊｝ is good at
+haggling huh?");
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_190");
 MsgDisp("Nanatsumori","That's cause there were a lot of good
@@ -157,15 +160,17 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_200");
-MsgDisp("Nanatsumori","...Hey. Have you been disillusioned? By
-me, that is.");
+MsgDisp("Nanatsumori","... Hey.
+Have you been disillusioned?
+By me, that is.");
 MsgDisp("主人公","Nope.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_210");
-MsgDisp("Nanatsumori","Right. Even if it's a lie, I'm happy.
-...Thank you.");
+MsgDisp("Nanatsumori","Right.
+Even if it's a lie, I'm happy.
+... Thank you.");
 MsgDisp("主人公","I'm being for real?");
 ChEye(4,2);
 ChMouth(4,3);

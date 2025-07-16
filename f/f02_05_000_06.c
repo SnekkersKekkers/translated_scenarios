@@ -12,7 +12,8 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500006_05_000");
 MsgDisp("Hiiragi","Yes, it will be a lot of fun.");
-MsgDisp("主人公","｛柊＊＊＊｝, don't you like exercise?");
+MsgDisp("主人公","｛柊＊＊＊｝, don't you like
+exercise?");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F020500006_05_010");
@@ -25,8 +26,9 @@ participate in them often, right?");
 ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("F020500006_05_020");
-MsgDisp("Hiiragi","Yes. But even the times I did participate,
-I just held up the signs.");
+MsgDisp("Hiiragi","Yes.
+But even the times I did participate, I
+just held up the signs.");
 MsgDisp("主人公","Well then, for the Haba High Sports
 Festival, let's enjoy it as much as we
 can.");
@@ -34,8 +36,9 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500006_05_030");
-MsgDisp("Hiiragi","Yes. I will participate with all my
-strength, regardless of the event.");
+MsgDisp("Hiiragi","Yes.
+I will participate with all my strength,
+regardless of the event.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);

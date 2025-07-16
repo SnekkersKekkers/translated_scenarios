@@ -25,9 +25,11 @@ falls off.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("X120600002_06_010");
-    MsgDisp("Himuro","Amazing... To the point I want you to make
-something for me next time.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("Himuro","Amazing...
+To the point I want you to make something
+for me next time.");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

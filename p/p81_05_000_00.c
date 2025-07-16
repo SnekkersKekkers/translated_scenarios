@@ -19,20 +19,21 @@ VoicePlay("P810500000_41_010");
 MsgDisp("Student Council President","Yes, it will be a hectic time, so please
 take care of your health.");
 VoicePlay("P810500000_05_010");
-MsgDisp("Hiiragi","Certainly. ");
+MsgDisp("Hiiragi","Certainly.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("P810500000_05_020");
-MsgDisp("Hiiragi","｛主人公｝, let's do our best.");
+MsgDisp("Hiiragi","｛主人公｝, let's do our
+best.");
 MsgDisp("主人公","Yes!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P810500000_05_030");
-MsgDisp("Hiiragi","...The cultural festival.
+MsgDisp("Hiiragi","... The cultural festival.
 I look forward to it.");
 MsgDisp("主人公","Do you like the cultural festival,
 ｛柊＊＊＊｝?");
@@ -40,7 +41,7 @@ ChEye(5,3);
 VoicePlay("P810500000_05_040");
 MsgDisp("Hiiragi","Yes.
 I love both culture and festivals.");
-MsgDisp("主人公","Hehe, I'm looking forward to it! ");
+MsgDisp("主人公","Hehe, I'm looking forward to it!");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("P810500000_05_050");

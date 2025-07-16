@@ -20,9 +20,9 @@ VoicePlay("F032100000_21_290");
 MsgDisp("Michiru","There's a lot of people who fuss over us,
 but we hadn't managed to make any true
 friends.");
-MsgDisp("主人公","I see. You're a model and... the
-Hanatsubaki name is famous in Habataki
-City?");
+MsgDisp("主人公","I see.
+You're a model and... the Hanatsubaki name
+is famous in Habataki City?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);

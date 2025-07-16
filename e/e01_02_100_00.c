@@ -1,22 +1,26 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Alright. It's getting dark, I should
-head home.)");
+MsgDisp("主人公","(...
+Alright.
+It's getting dark, I should head home.)");
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A",0.01);
 ChOpen(2,255,4,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("E010210000_02_000");
-MsgDisp("Sassa","｛主人公｝, doing some shopping?");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Yeah, I was about to go
-home.");
+MsgDisp("Sassa","｛主人公｝, doing some
+shopping?");
+MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Yeah, I was about to go home.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010210000_02_010");
 MsgDisp("Sassa","Alright, then I should go home too.");
-MsgDisp("主人公","Hm? ｛颯砂＊＊｝, you were shopping too?");
+MsgDisp("主人公","Hm?
+｛颯砂＊＊｝, you were shopping
+too?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,2);

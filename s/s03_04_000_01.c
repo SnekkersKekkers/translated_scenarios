@@ -11,13 +11,14 @@ It's the start of the New Year.");
 I'll come pick you up now.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(A shrine visit with ｛七ツ森＊｝!
+    MsgDisp("主人公","(A shrine visit with
+｛七ツ森＊｝!
 I wonder what I should wear?)");
     break ;
     case 3:
     VoicePlay("S030400001_04_020");
-    MsgDisp("Nanatsumori","Geez...... You sound like you're doing
-well.");
+    MsgDisp("Nanatsumori","Geez......
+You sound like you're doing well.");
     MsgDisp("主人公","Of course, it's a New Year!");
     VoicePlay("S030400001_04_030");
     MsgDisp("Nanatsumori","Well, that's true.
@@ -28,8 +29,9 @@ home for New Years.");
 I'll come pick you up after I get ready.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay! A shrine visit with ｛七ツ森＊｝.
-What should I wear......)");
+    MsgDisp("主人公","(Yay! A shrine visit with
+｛七ツ森＊｝. What should
+I wear......)");
     break ;
     case 4:
     case 5:
@@ -38,7 +40,8 @@ What should I wear......)");
     MsgDisp("主人公","Yay.");
     VoicePlay("S030400001_04_060");
     MsgDisp("Nanatsumori","It's cold outside so make sure you prepare
-for that...Ah.");
+for that...
+Ah.");
     MsgDisp("主人公","Huh?");
     VoicePlay("S030400001_04_070");
     MsgDisp("Nanatsumori","Maybe I'll get to see something even more

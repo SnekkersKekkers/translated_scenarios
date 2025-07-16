@@ -13,13 +13,14 @@ ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,4,1);
 VoicePlay("M012200000_22_010");
-MsgDisp("Hikaru","So......Are you doing okay?");
+MsgDisp("Hikaru","So......
+Are you doing okay?");
 MsgDisp("主人公","Mm.
 I'm mostly better now.");
 ChMotion(22,0,1);
 VoicePlay("M012200000_22_020");
-MsgDisp("Hikaru","......Really? You're not just saying that
-for Hikaru?");
+MsgDisp("Hikaru","...... Really?
+You're not just saying that for Hikaru?");
 MsgDisp("主人公","Hehe!
 I wouldn't lie to you.");
 ChEye(22,4);
@@ -41,8 +42,9 @@ VoicePlay("M012200000_22_050");
 MsgDisp("Hikaru","Do hurry and get better.
 At school, like, I wanna talk and hang out
 and stuff.");
-MsgDisp("主人公","Yeah. I think next week I'll be able to go
-to school, so wait for me.");
+MsgDisp("主人公","Yeah.
+I think next week I'll be able to go to
+school, so wait for me.");
 ChEye(22,3);
 ChMouth(22,0);
 ChMotion(22,4,1);
@@ -67,7 +69,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("M012200000_22_090");
-MsgDisp("Hikaru","......Eheh. Then, I'm about to go, kay?
+MsgDisp("Hikaru","...... Eheh.
+Then, I'm about to go, kay?
 Mari, take care.");
 MsgClose();
 SEPlay("EV_SE_690",0.1,0.2);
@@ -76,5 +79,6 @@ ChClose(22);
 Wait(50,1);
 SEPlay("EV_SE_DOOR_008",0.5);
 SEWait();
-MsgDisp("主人公","(I made ｛ひかる＊｝ worry......
+MsgDisp("主人公","(I made ｛ひかる＊｝
+worry......
 I better get better fast.)");

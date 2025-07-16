@@ -23,7 +23,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R040200002_02_000");
-    MsgDisp("Sassa","Hey. Sorry.
+    MsgDisp("Sassa","Hey.
+Sorry.
 Well, I'll see you later.");
     MsgDisp("主人公","Yeah, see you!");
     break ;
@@ -65,22 +66,21 @@ Isn't the food here amazing?");
     ChMotion(2,4);
     VoicePlay("R040200002_02_030");
     MsgDisp("Sassa","............");
-    MsgDisp("主人公","Oh, ｛颯砂＊＊｝? Weren't you looking
-forward to the food here?");
+    MsgDisp("主人公","Oh, ｛颯砂＊＊｝?
+Weren't you looking forward to the food
+here?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("R040200002_02_040");
     MsgDisp("Sassa","It's the 2nd main priority.");
-    MsgDisp("主人公","So you're not gonna go ahead
-and eat?");
+    MsgDisp("主人公","So you're not gonna go ahead and eat?");
     ChEye(2,5);
     ChMouth(2,0);
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("R040200002_02_050");
-    MsgDisp("Sassa","I am, just give me
-a little bit!");
+    MsgDisp("Sassa","I am, just give me a little bit!");
     MsgDisp("主人公","Hehe, take your time.");
     ChEye(2,0);
     ChMouth(2,3);

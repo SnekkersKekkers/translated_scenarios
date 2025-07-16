@@ -13,15 +13,15 @@ ChOpen(5,254,4,0,4,#1,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
 VoiceEVSPlay(5);
 VoicePlay("F100540000_05_010");
-MsgDisp("Hiiragi","｛主人公｝, good afternoon.
-I was asking Mikage-sensei about Hiyashi
-Chuuka.");
+MsgDisp("Hiiragi","｛主人公｝, good
+afternoon. I was asking Mikage-sensei
+about Hiyashi Chuuka.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100540000_07_010");
-MsgDisp("Mikage","Yeah. Are you also interested in Hiyashi
-Chuuka?");
+MsgDisp("Mikage","Yeah.
+Are you also interested in Hiyashi Chuuka?");
 MsgDisp("主人公","Good afternoon.
 Do you both like Hiyashi Chuuka?");
 ChEye(5,2);
@@ -38,7 +38,9 @@ VoicePlay("F100540000_07_020");
 MsgDisp("Mikage","Why is it that delicious?");
 ChEye(5,0);
 ChMotion(5,4);
-MsgDisp("主人公","Hehe. ｛御影＊＊｝ loves it, right?");
+MsgDisp("主人公","Hehe.
+｛御影＊＊｝ loves it,
+right?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -75,8 +77,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100540000_05_050");
-MsgDisp("Hiiragi","Mustard is also a
-must for tokoroten.");
+MsgDisp("Hiiragi","Mustard is also a must for tokoroten.");
 MsgDisp("主人公","I see.
 Hiyashi Chuuka and tokoroten have a lot in
 common...");
@@ -96,9 +97,11 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("F100540000_05_060");
-MsgDisp("Hiiragi","｛主人公｝. Did they have Hiyashi
-Chuuka in the cafeteria?");
-MsgDisp("主人公","(Um... did they? I wonder?)");
+MsgDisp("Hiiragi","｛主人公｝.
+Did they have Hiyashi Chuuka in the
+cafeteria?");
+MsgDisp("主人公","(Um... did they?
+I wonder?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

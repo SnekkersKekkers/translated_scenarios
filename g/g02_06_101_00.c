@@ -44,8 +44,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020610100_06_060");
-MsgDisp("Himuro","If you don't understand, 
-that's fine.");
+MsgDisp("Himuro","If you don't understand, that's fine.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

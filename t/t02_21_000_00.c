@@ -15,14 +15,13 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("T022100000_21_010");
 MsgDisp("Michiru","Congratulations on graduating, Mari.");
-MsgDisp("主人公","｛みちる＊｝, congratulations on your
-graduation too.");
+MsgDisp("主人公","｛みちる＊｝,
+congratulations on your graduation too.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("T022100000_21_020");
-MsgDisp("Michiru",".........
-Should I not have come here?");
+MsgDisp("Michiru","......... Should I not have come here?");
 MsgDisp("主人公","No.
 I'm glad you came.
 I feel so relieved.");
@@ -42,13 +41,15 @@ ChMouth(21,4);
 ChEyeOpenLevel(21,8);
 VoicePlay("T022100000_21_050");
 MsgDisp("Michiru","Really...no good.");
-MsgDisp("主人公","｛みちる＊｝. I'm okay.");
+MsgDisp("主人公","｛みちる＊｝.
+I'm okay.");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,3);
 ChEyeOpenLevel(21,10);
 VoicePlay("T022100000_21_060");
-MsgDisp("Michiru","I'm not okay. Mari is such a great person.
+MsgDisp("Michiru","I'm not okay.
+Mari is such a great person.
 Enough!");
 ChEye(21,2);
 ChMouth(21,4);
@@ -56,7 +57,7 @@ ChMotion(21,0);
 ChCheek(21,5);
 VoicePlay("T022100000_21_070");
 MsgDisp("Michiru","She's a kind and pleasant girl.
-I...love Mari");
+I... love Mari");
 MsgDisp("主人公","｛みちる＊｝...");
 Wait(60,0);
 ChEye(21,4);
@@ -73,7 +74,7 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("T022100000_21_090");
-MsgDisp("Michiru","Hehe. 
+MsgDisp("Michiru","Hehe.
 You finally asked.");
 MsgDisp("主人公","After all...");
 ChEye(21,4);
@@ -97,15 +98,17 @@ ChMotion(21,3);
 VoicePlay("T022100000_21_120");
 MsgDisp("Michiru","Did you have a happy high school life,
 Mari?
-I was...very happy.");
-MsgDisp("主人公","｛みちる＊｝, it's the same for me!
+I was... very happy.");
+MsgDisp("主人公","｛みちる＊｝, it's the
+same for me!
 Hehe!");
 ChEye(21,3);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("T022100000_21_130");
 MsgDisp("Michiru","...Really?");
-MsgDisp("主人公","Yeah. Thank you for giving me such a nice
+MsgDisp("主人公","Yeah.
+Thank you for giving me such a nice
 nickname!");
 ChEye(21,4);
 ChMouth(21,3);
@@ -130,7 +133,7 @@ ChMotion(21,4);
 ChCheek(21,10);
 VoicePlay("T022100000_21_160");
 MsgDisp("Michiru","I'm happy.
-After that...shall we have a talk about
+After that... shall we have a talk about
 love?");
 MsgDisp("主人公","If it comes to that, okay?
 Then, let's walk home together for the

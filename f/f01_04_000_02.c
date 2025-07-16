@@ -24,7 +24,8 @@ together?");
         VoicePlay("F010400002_04_010");
         MsgDisp("Nanatsumori","Yo.
 Are you going home right now?");
-        MsgDisp("主人公","Yeah. If its okay, how about we walk home
+        MsgDisp("主人公","Yeah.
+If its okay, how about we walk home
 together?");
         break ;
         case 4:
@@ -35,7 +36,8 @@ together?");
         ChNanaType(0);
         ChOpen(4,254,0,0,3,#1,#1,0,0);
         VoicePlay("F010400002_04_020");
-        MsgDisp("Nanatsumori","Yo. You made it.");
+        MsgDisp("Nanatsumori","Yo.
+You made it.");
         MsgDisp("主人公","Hehe, you made it, too.
 Well then, how about we walk together?");
         break ;

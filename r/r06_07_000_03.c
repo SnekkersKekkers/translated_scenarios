@@ -8,14 +8,16 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","Oh, that present.
 That's mine.");
     MsgDisp("主人公","Huh? Really! I didn't know you were
-participating, ｛御影＊＊｝.");
+participating,
+｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("R060700003_07_010");
     MsgDisp("Mikage","What, is that a bad thing?");
-    MsgDisp("主人公","No. ...Ah, ｛御影＊＊｝, I brought you
-the present you have right now∈");
+    MsgDisp("主人公","No. ...Ah, ｛御影＊＊｝, I
+brought you the present you have right
+now∈");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -28,8 +30,8 @@ I see.");
     ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060700003_07_030");
     MsgDisp("Mikage","Enjoying the gift exchange?");
-    MsgDisp("主人公","Hehe, ｛御影＊＊｝, are you also
-participating?");
+    MsgDisp("主人公","Hehe, ｛御影＊＊｝, are
+you also participating?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -40,10 +42,12 @@ student gift exchange.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("R060700003_07_050");
-    MsgDisp("Mikage","Woah. You got the present that I brought
-in, huh.");
+    MsgDisp("Mikage","Woah.
+You got the present that I brought in,
+huh.");
     MsgDisp("主人公","Really! ...Oh? You also got the gift that
-I brought in, ｛御影＊＊｝.");
+I brought in,
+｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0,1);
@@ -58,7 +62,8 @@ Nice, how interesting!");
     ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("R060700003_07_070");
-    MsgDisp("Mikage","｛主人公｝, you got a present, right?");
+    MsgDisp("Mikage","｛主人公｝, you got a
+present, right?");
     MsgDisp("主人公","Yeah.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -70,10 +75,11 @@ Did you get a good one?");
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("R060700003_07_090");
-    MsgDisp("Mikage","...Hm?
+    MsgDisp("Mikage","... Hm?
 That's my present you got!");
-    MsgDisp("主人公","Huh∋ ｛御影＊＊｝, you also got my
-present!");
+    MsgDisp("主人公","Huh∋
+｛御影＊＊｝, you also got
+my present!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
@@ -91,8 +97,7 @@ I thought we could mix it up a bit, yeah?");
     ChMouth(7,3);
     ChMotion(7,0,1);
     VoicePlay("R060700003_07_120");
-    MsgDisp("Mikage","Thanks to that, a
-cool surprise happened.");
+    MsgDisp("Mikage","Thanks to that, a cool surprise happened.");
     MsgDisp("主人公","Yeah, I guess so!");
     break ;
     default :

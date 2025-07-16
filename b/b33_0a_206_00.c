@@ -40,8 +40,9 @@ ChMotion(1,0,1);
 VoicePlay("B330A20600_01_000");
 MsgDisp("Kazama","Yeah, please.
 No one will be able to stop you.");
-MsgDisp("主人公","Hehe. Come to think of it, maybe he looked
-a little bit like ｛颯砂＊＊｝?");
+MsgDisp("主人公","Hehe.
+Come to think of it, maybe he looked a
+little bit like ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -53,8 +54,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20600_01_010");
-MsgDisp("Kazama","Well, they're 
-both big and muscular.");
+MsgDisp("Kazama","Well, they're both big and muscular.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
@@ -84,16 +84,16 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A20600_02_030");
-MsgDisp("Sassa","Seems fun,
-remember to take a picture.");
+MsgDisp("Sassa","Seems fun, remember to take a picture.");
 MsgClose();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 ChClose(6,0,30);
 ChClose(1,0,30);
 ChClose(2,0,30);
-MsgDisp("主人公","(Hehe! In the end, ｛颯砂＊＊｝ got into it
-too!)");
+MsgDisp("主人公","(Hehe!
+In the end, ｛颯砂＊＊｝ got into
+it too!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

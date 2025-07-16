@@ -5,15 +5,17 @@ ChMouth(8,3);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040801000_08_000");
-MsgDisp("Shirahane","Ah! Hows 'bout this? I think it suits ya a
-lot.");
+MsgDisp("Shirahane","Ah!
+Hows 'bout this?
+I think it suits ya a lot.");
 MsgSel("Really, I'll go buy it!","I wonder about that...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
     ChMotion(8,3,1);
     VoicePlay("B040801000_08_010");
-    MsgDisp("Shirahane","Hehe! If it's you, I think ya can pull off
+    MsgDisp("Shirahane","Hehe!
+If it's you, I think ya can pull off
 anythin', but this is my favourite.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

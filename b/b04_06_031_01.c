@@ -39,8 +39,7 @@ I don't think I hate it.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040603101_06_030");
-    MsgDisp("Himuro","You look at it differently 
-to me.");
+    MsgDisp("Himuro","You look at it differently to me.");
     MsgDateResultDisp();
     break ;
     default :

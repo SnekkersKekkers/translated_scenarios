@@ -5,7 +5,8 @@ MsgClose();
 ChOpen(8,254,2,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020801000_08_000");
-MsgDisp("Shirahane","Phew......Exams are finally over.");
+MsgDisp("Shirahane","Phew......
+Exams are finally over.");
 MsgDisp("主人公","Yep.
 How'd you do?");
 ChEye(8,1);
@@ -15,7 +16,8 @@ VoicePlay("D020801000_08_010");
 MsgDisp("Shirahane","Hmm......");
 VoicePlay("D020801000_08_020");
 MsgDisp("Shirahane","From spring onwards we will be with each
-other every day. ......Maybe?");
+other every day.
+...... Maybe?");
 MsgDisp("主人公","Hehe!");
 ChEye(8,3);
 ChMouth(8,3);
@@ -54,8 +56,8 @@ VoicePlay("D020801000_08_070");
 MsgDisp("Shirahane","We have to wait until the graduation
 ceremony for the true ending.");
 ChEyeOpenLevel(8,0);
-MsgDisp("主人公","(｛大地＊＊｝...... Right, graduation
-will be soon......)");
+MsgDisp("主人公","(｛大地＊＊｝......
+Right, graduation will be soon......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -6,7 +6,8 @@ BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("D010700600_07_000");
-MsgDisp("Mikage","｛主人公｝, you're the best.");
+MsgDisp("Mikage","｛主人公｝, you're the
+best.");
 MsgDisp("主人公","Eh?
 Isn't this the right time......");
 ChEye(7,2);
@@ -50,14 +51,16 @@ ChMotion(7,2);
 VoicePlay("D010700600_07_050");
 MsgDisp("Mikage","Should we forget the extracurricular class
 and just have some fun?");
-MsgDisp("主人公","Yes! This way you don't have any extra
+MsgDisp("主人公","Yes!
+This way you don't have any extra
 paperwork to do.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700600_07_060");
-MsgDisp("Mikage","Oy! You're right! So......what about
-bowling?");
+MsgDisp("Mikage","Oy!
+You're right!
+So...... what about bowling?");
 MsgDisp("主人公","Eh?");
 BGMStop();
 MsgClose();
@@ -73,7 +76,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Hey ｛御影＊＊｝, do you like bowling?");
+MsgDisp("主人公","Hey ｛御影＊＊｝, do you
+like bowling?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -119,8 +123,8 @@ ChOpen(7,254,1,2,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700600_07_110");
 MsgDisp("Mikage","A complete defeat～");
-MsgDisp("主人公","｛御影＊＊｝, is it really your first
-time bowling?");
+MsgDisp("主人公","｛御影＊＊｝, is it really
+your first time bowling?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

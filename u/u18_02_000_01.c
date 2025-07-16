@@ -8,17 +8,16 @@ switch (ChPrmGet(2,6)){
     MsgDisp("主人公","\"It says... \"The Hanatsubaki twins
 suddenly asked me about you. I wonder how
 I should have answered them......");
-    MsgDisp("主人公","(What kind of things did 
-he hear......?)");
+    MsgDisp("主人公","(What kind of things did he hear......?)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","Hmm......");
-    MsgDisp("主人公","It says...
-\"They told me so many stories about you.
+    MsgDisp("主人公","It says... \"
+They told me so many stories about you.
 Stories I had never heard before.");
-    MsgDisp("主人公","(Huh∋ What did the two of you talk
-about...?)");
+    MsgDisp("主人公","(Huh∋
+What did the two of you talk about...?)");
     break ;
     default :
     DbgAssert(1);

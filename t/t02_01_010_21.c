@@ -18,8 +18,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020101000_01_360");
-MsgDisp("Kazama","Yeah. It was because of this memory that I
-was able to persevere even so far away.");
+MsgDisp("Kazama","Yeah.
+It was because of this memory that I was
+able to persevere even so far away.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -54,12 +55,13 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020101000_01_430");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
+MsgDisp("主人公","｛風真＊＊｝......
+Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
 VoicePlay("T020101000_01_440");
-MsgDisp("Kazama","I'll put it on for you. ");
+MsgDisp("Kazama","I'll put it on for you.");
 BGMStop(5);
 MsgClear();
 ScrFadeOut(0,1);

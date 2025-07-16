@@ -10,4 +10,5 @@ VoicePlay("B020502116_05_010");
 MsgDisp("Hiiragi","Yes. I believe they call this vigor. I can
 even feel your energy. It's very pleasant.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems to like this outfit!)");
+｛柊＊＊＊｝ seems to like this
+outfit!)");

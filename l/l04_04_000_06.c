@@ -6,8 +6,7 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,2);
     ChMotion(4,1);
     VoicePlay("L040400006_04_000");
-    MsgDisp("Nanatsumori","This is......
-safe to eat, right?");
+    MsgDisp("Nanatsumori","This is...... safe to eat, right?");
     MsgDisp("主人公","Huh?
 I think it's fine, though......");
     ChMotion(4,2);
@@ -19,16 +18,15 @@ I'll accept your feelings.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Ugh...... I wish I tried a little
-harder......)");
+    MsgDisp("主人公","(Ugh......
+I wish I tried a little harder......)");
     break ;
     case 3:
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("L040400006_04_020");
-    MsgDisp("Nanatsumori","This is...
-homemade chocolate.");
+    MsgDisp("Nanatsumori","This is... homemade chocolate.");
     MsgDisp("主人公","That's right.");
     ChEye(4,2);
     ChMouth(4,0);
@@ -48,8 +46,8 @@ Thank you.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Ugh...... I wish I tried a little
-harder......)");
+    MsgDisp("主人公","(Ugh......
+I wish I tried a little harder......)");
     break ;
     case 4:
     case 5:

@@ -22,7 +22,7 @@ VoicePlay("F032100000_21_420");
 MsgDisp("Michiru","............");
 ChMotion(21,0);
 VoicePlay("F032100000_21_430");
-MsgDisp("Michiru","I also don't know. ");
+MsgDisp("Michiru","I also don't know.");
 ChEye(21,4);
 ChMouth(21,4);
 VoicePlay("F032100000_21_440");

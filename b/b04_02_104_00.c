@@ -37,8 +37,9 @@ Anything more than that is a little...");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040210400_02_030");
-    MsgDisp("Sassa","Really? They kinda look like robots, I
-think that's cool.");
+    MsgDisp("Sassa","Really?
+They kinda look like robots, I think
+that's cool.");
     MsgDateResultDisp();
     break ;
     default :

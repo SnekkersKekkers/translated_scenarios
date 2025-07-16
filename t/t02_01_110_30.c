@@ -30,7 +30,8 @@ Wait(12,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_230");
-MsgDisp("Kazama","｛主人公｝, you were my everything.");
+MsgDisp("Kazama","｛主人公｝, you were my
+everything.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -38,7 +39,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020111000_01_240");
 MsgDisp("Kazama","Thank you.
-...I won't move on.");
+... I won't move on.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

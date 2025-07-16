@@ -4,8 +4,7 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -13,7 +12,8 @@ about my partner......)");
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_000");
     MsgDisp("Nanatsumori","......Ah.");
-    MsgDisp("主人公","Oh. ｛七ツ森＊｝!");
+    MsgDisp("主人公","Oh.
+｛七ツ森＊｝!");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,2,1);
@@ -31,8 +31,7 @@ Let's pair up.");
 Seriously......");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -40,8 +39,9 @@ about my partner......)");
     ChOpen(4,30,0,2,1,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_030");
     MsgDisp("Nanatsumori","......Ugh.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Do you want to be in
-the three-legged race with me?");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+Do you want to be in the three-legged race
+with me?");
     ChEye(4,2);
     ChMouth(4,4);
     VoicePlay("O030401000_04_040");
@@ -58,8 +58,7 @@ eyes.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -67,7 +66,8 @@ about my partner......)");
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_060");
     MsgDisp("Nanatsumori","......Ah.");
-    MsgDisp("主人公","Oh, ｛七ツ森＊｝! Do you want to-");
+    MsgDisp("主人公","Oh, ｛七ツ森＊｝!
+Do you want to-");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,1,1);

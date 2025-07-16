@@ -7,7 +7,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Huh, ｛氷室＊＊｝? What is it?");
+MsgDisp("主人公","Huh, ｛氷室＊＊｝?
+What is it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -34,7 +35,7 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("H8G0600000_06_040");
 MsgDisp("Himuro","I'm glad your efforts paid off.
-......Congrats.");
+...... Congrats.");
 MsgDisp("主人公","(I'm so happy......
 I'm glad I worked so hard for the
 handicrafts club!)");

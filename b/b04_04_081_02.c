@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040408102_04_010");
-    MsgDisp("Nanatsumori","That. I want a separate space for relaxed
-people and lively people.");
+    MsgDisp("Nanatsumori","That.
+I want a separate space for relaxed people
+and lively people.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -31,8 +32,9 @@ people and lively people.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040408102_04_020");
-    MsgDisp("Nanatsumori","Haa. You sure are strangely excited,
-aren't you?");
+    MsgDisp("Nanatsumori","Haa.
+You sure are strangely excited, aren't
+you?");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -50,8 +52,9 @@ aren't you?");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040408102_04_030");
-        MsgDisp("Nanatsumori","Ahー, definitely...There's probably a lof
-of drunkards there...");
+        MsgDisp("Nanatsumori","Ahー, definitely...
+There's probably a lof of drunkards
+there...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -74,8 +77,9 @@ cherry blossom viewers...");
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040408102_04_060");
-        MsgDisp("Nanatsumori","Well... Everyone has their own way of
-enjoying things, so it can't be helped.");
+        MsgDisp("Nanatsumori","Well...
+Everyone has their own way of enjoying
+things, so it can't be helped.");
         ChEye(4,0);
         ChMouth(4,4);
         VoicePlay("B040408102_04_070");
@@ -90,8 +94,9 @@ us high schoolers?");
         MsgDisp("主人公","Really?");
         ChMotion(4,0,1);
         VoicePlay("B040408102_04_090");
-        MsgDisp("Nanatsumori","Really. You might even get taken in by the
-police for protection.");
+        MsgDisp("Nanatsumori","Really.
+You might even get taken in by the police
+for protection.");
         MsgDisp("主人公","Ah...
 That's true.");
         ChEye(4,4);

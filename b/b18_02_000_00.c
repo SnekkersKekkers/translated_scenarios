@@ -32,7 +32,8 @@ would do.");
     ChMotion(2,4);
     VoicePlay("B180200000_02_030");
     VoiceEVSPlay(2);
-    MsgDisp("Sassa","Ahem... ｛主人公｝.");
+    MsgDisp("Sassa","Ahem...
+｛主人公｝.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -63,7 +64,8 @@ I-Is that right?");
     ChMotion(2,2);
     VoicePlay("B180200000_02_070");
     MsgDisp("Sassa","It doesn't really feel right all of a
-suddenー. Haha...");
+suddenー.
+Haha...");
     MsgDisp("主人公","(Did I make him feel bad...?)");
     break ;
     default :

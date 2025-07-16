@@ -15,8 +15,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20300_02_000");
-MsgDisp("Sassa","First, let's go on 
-that water slide.");
+MsgDisp("Sassa","First, let's go on that water slide.");
 MsgDisp("主人公","Yeah!");
 ChEye(6,0);
 ChMouth(6,4);
@@ -48,18 +47,17 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A20300_02_010");
-MsgDisp("Sassa","Haha,
-that was a great splash!");
+MsgDisp("Sassa","Haha, that was a great splash!");
 MsgDisp("主人公","Yeah, did you see it?");
 SEPlay("EV_SE_631");
 MsgDisp("","(*SPLASH*)");
-MsgDisp("主人公","Ehh∋　That sound was so loud!");
+MsgDisp("主人公","Ehh∋
+That sound was so loud!");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A20300_02_020");
-MsgDisp("Sassa","O-i,
-are you two alright?");
+MsgDisp("Sassa","O-i, are you two alright?");
 SEPlay("EV_SE_571");
 Wait(20,0);
 MsgClose();
@@ -89,15 +87,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20300_06_020");
-MsgDisp("Himuro","As long as I'm not 
-behind Ryota-senpai.");
+MsgDisp("Himuro","As long as I'm not behind Ryota-senpai.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20300_01_030");
-MsgDisp("Kazama","...Geez, 
-what's up with that, Inori.");
+MsgDisp("Kazama","...Geez, what's up with that, Inori.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -142,8 +138,9 @@ MsgDisp("Kazama","He's kind of not credible...");
 SEPlay("EV_SE_562");
 MsgClose();
 ChClose(1,0,30);
-MsgDisp("主人公","(Seems like ｛風真＊＊｝ really hates
-being chased by ｛颯砂＊＊｝? )");
+MsgDisp("主人公","(Seems like ｛風真＊＊｝ really
+hates being chased by
+｛颯砂＊＊｝? )");
 BGMStop();
 SEStop("EV_SE_562",1);
 MsgClose();

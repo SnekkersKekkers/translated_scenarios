@@ -52,8 +52,8 @@ We can walk while we think about it!");
     ScrFadeIn(0);
     VoicePlay("S070800000_08_050");
     MsgDisp("Shirahane","This is truly New Years!");
-    MsgDisp("主人公","Does ｛大地＊＊｝ visit the shrine every
-year?");
+    MsgDisp("主人公","Does ｛大地＊＊｝ visit the
+shrine every year?");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,3,1);
@@ -61,14 +61,16 @@ year?");
     MsgDisp("Shirahane","Yeah. With my older brother and sister.
 And on our way home, we drink sweet and
 warm sake.");
-    MsgDisp("主人公","Heh......That sounds nice!");
+    MsgDisp("主人公","Heh......
+That sounds nice!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("S070800000_08_070");
     MsgDisp("Shirahane","It's sweet and tasty and it makes my hands
-and body feel warm ......Ah.");
+and body feel warm ......
+Ah.");
     ChEye(8,0);
     ChMouth(8,3);
     VoicePlay("S070800000_08_080");

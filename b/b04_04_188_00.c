@@ -37,8 +37,8 @@ nature.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040418800_04_020");
-    MsgDisp("Nanatsumori","That's a shame.
-there were lots of highlights too?");
+    MsgDisp("Nanatsumori","That's a shame. there were lots of
+highlights too?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

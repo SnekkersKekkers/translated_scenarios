@@ -37,8 +37,8 @@ later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Another year with ｛風真＊＊｝ will be
-fun.
+    MsgDisp("主人公","(Another year with ｛風真＊＊｝
+will be fun.
 But maybe he will keep scolding me?)");
     break ;
     case 4:
@@ -54,24 +54,25 @@ But maybe he will keep scolding me?)");
     ChMotion(1,0);
     ScrFadeIn(0);
     MsgDisp("主人公","Thanks for coming with me.
-｛風真＊＊｝, what will you do after this?");
+｛風真＊＊｝, what will you do
+after this?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("S120100001_01_030");
     MsgDisp("Kazama","Huh?
 What kind of question is that?");
-    MsgDisp("主人公","Eh? I just wanted to know your plans......
+    MsgDisp("主人公","Eh?
+I just wanted to know your plans......
 Oh, are you going in?");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("S120100001_01_040");
-    MsgDisp("Kazama","......Ha.
+    MsgDisp("Kazama","...... Ha.
 No, it's fine.");
-    MsgDisp("主人公","Do you have something you need
-to do?");
+    MsgDisp("主人公","Do you have something you need to do?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);

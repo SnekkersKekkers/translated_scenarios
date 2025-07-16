@@ -27,8 +27,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B040606401_06_030");
-MsgDisp("Himuro","...Understood. Alright. Let's have a
-contest.");
+MsgDisp("Himuro","... Understood.
+Alright.
+Let's have a contest.");
 SEPlay("EV_SE_626");
 MsgClose();
 ChClose(6);
@@ -56,7 +57,8 @@ SEStop("EV_SE_022",2);
 SEPlay("EV_SE_626");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","Hey! Wait up!");
+MsgDisp("主人公","Hey!
+Wait up!");
 SEPlay("EV_SE_672");
 Wait(30,1);
 MsgClose();

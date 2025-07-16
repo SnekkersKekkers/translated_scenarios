@@ -15,7 +15,8 @@ tomorrow......");
     VoicePlay("Q120100000_01_000");
     MsgDisp("Kazama","That was quick.
 Any regrets?");
-    MsgDisp("主人公","Nope. Thanks to you, ｛風真＊＊｝ It
+    MsgDisp("主人公","Nope.
+Thanks to you, ｛風真＊＊｝ It
 became a good memory.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -38,7 +39,8 @@ Well, see you later.");
     ChMotion(1,0);
     ScrFadeIn(0);
     MsgDisp("主人公","I guess the school trip is over
-tomorrow...Time flew by so quickly.");
+tomorrow...
+Time flew by so quickly.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -57,7 +59,7 @@ But it was fun thanks to you.");
     ChMotion(1,0);
     VoicePlay("Q120100000_01_050");
     MsgDisp("Kazama","Right.
-......That's up to you, though.");
+...... That's up to you, though.");
     MsgDisp("主人公","(It really would be wonderful if we could
 come back here together sometime......)");
     break ;
@@ -91,7 +93,8 @@ middle school.");
     ChEyeOpenLevel(1,0);
     VoicePlay("Q120100000_01_080");
     MsgDisp("Kazama","Well, if you say so.
-...Sigh, I wish I could tell my past self.");
+... Sigh, I wish I could tell my past
+self.");
     MsgDisp("主人公","Huh, tell him what?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -118,9 +121,10 @@ It's a fun school trip, isn't it?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q120100000_01_120");
-    MsgDisp("Kazama","Yes. We're still together under the same
-roof.");
-    MsgDisp("主人公","Hehe. But everyone else is here too?");
+    MsgDisp("Kazama","Yes.
+We're still together under the same roof.");
+    MsgDisp("主人公","Hehe.
+But everyone else is here too?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

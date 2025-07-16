@@ -1,7 +1,7 @@
 BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? 
+MsgDisp("主人公","Huh?
 Over there...");
 MsgClose();
 ChNanaType(0);
@@ -51,14 +51,17 @@ ChMotion(4,2,1);
 VoicePlay("F110410001_04_040");
 MsgDisp("Nanatsumori","I wonder what would've happened if you
 hadn't happened to pass by...");
-MsgDisp("主人公","Hehe. Glad I could help.");
+MsgDisp("主人公","Hehe.
+Glad I could help.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F110410001_04_050");
-MsgDisp("Nanatsumori","Here. Take a takoyaki. My thanks for
-rescuing me.");
-MsgDisp("主人公","(Yay! Even though ｛七ツ森＊｝ is in a
+MsgDisp("Nanatsumori","Here.
+Take a takoyaki.
+My thanks for rescuing me.");
+MsgDisp("主人公","(Yay! Even though
+｛七ツ森＊｝ is in a
 school uniform, he still stands out,
 huh...)");
 MsgClose();

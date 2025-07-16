@@ -8,7 +8,8 @@ ChCheek(2,10);
 VoicePlay("B130200003_02_000");
 MsgDisp("Sassa","Hey, I'll just say it now.
 I'm sorry!");
-MsgDisp("主人公","Eh? What's wrong?");
+MsgDisp("主人公","Eh?
+What's wrong?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

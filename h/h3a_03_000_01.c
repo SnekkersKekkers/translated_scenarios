@@ -17,8 +17,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("H3A0300001_03_010");
-MsgDisp("Honda","That last match was really close! If you
-just...... ah-");
+MsgDisp("Honda","That last match was really close!
+If you just...... ah-");
 ChMotion(3,2);
 VoicePlay("H3A0300001_03_020");
 MsgDisp("Honda","I guess there's no point in hypotheticals
@@ -37,7 +37,8 @@ VoicePlay("H3A0300001_03_040");
 MsgDisp("Honda","But you should give yourself some credit
 for working hard these past three years,
 okay?");
-MsgDisp("主人公","Yeah...... ｛本多＊＊｝, thank you.");
+MsgDisp("主人公","Yeah......
+｛本多＊＊｝, thank you.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4);

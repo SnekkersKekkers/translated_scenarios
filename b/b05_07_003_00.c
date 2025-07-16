@@ -3,7 +3,8 @@ BGOpen("tr400",0);
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050700300_44_000");
-MsgDisp("Boy","Dad! Quickly, quickly!");
+MsgDisp("Boy","Dad!
+Quickly, quickly!");
 VoicePlay("B050700300_40_010");
 MsgDisp("Dad","Don't pull like that.");
 ChEye(7,0);
@@ -21,9 +22,10 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B050700300_07_020");
-MsgDisp("Mikage","\"Quickly, quickly!\" I understand what that
-feels like.");
-MsgDisp("主人公","Hehe. ｛御影＊＊｝, you're also
+MsgDisp("Mikage","\"Quickly, quickly!\"
+I understand what that feels like.");
+MsgDisp("主人公","Hehe.
+｛御影＊＊｝, you're also
 somewhat in high spirits aren't you?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -37,8 +39,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700300_07_040");
-MsgDisp("Mikage","Yeah. Let's chat once we get inside. We're
-losing time aren't we?");
+MsgDisp("Mikage","Yeah.
+Let's chat once we get inside.
+We're losing time aren't we?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
@@ -85,8 +88,8 @@ StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700300_07_090");
 MsgDisp("Mikage","Is it really that tall...?");
-MsgDisp("主人公","(Looks like ｛御影＊＊｝ is more
-surprised than the kids?)");
+MsgDisp("主人公","(Looks like ｛御影＊＊｝
+is more surprised than the kids?)");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -105,7 +108,8 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("B050700300_07_110");
 MsgDisp("Mikage","I'm already kind of satisfied.");
-MsgDisp("主人公","Ehh∋　We're just getting started though?");
+MsgDisp("主人公","Ehh∋
+We're just getting started though?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -115,9 +119,9 @@ MsgDisp("Mikage","That's right.
 I'll be counting on you to stick with me
 for everything the free pass covers today.");
 MsgDisp("主人公","(After bowling, the next thing that
-｛御影＊＊｝ wants to do is go to the
-theme park... Alright, I'll enjoy it with
-him too!)");
+｛御影＊＊｝ wants to do
+is go to the theme park... Alright, I'll
+enjoy it with him too!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

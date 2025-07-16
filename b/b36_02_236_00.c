@@ -49,7 +49,8 @@ ChMotion(2,0);
 VoicePlay("B360223600_02_040");
 MsgDisp("Sassa","Not \"Eh?\", you said you wanted us to be
 alone for a day.");
-MsgDisp("主人公","...What about ｛風真＊＊｝ and ｛氷室＊＊｝?");
+MsgDisp("主人公","...What about ｛風真＊＊｝ and
+｛氷室＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -62,8 +63,9 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B360223600_02_060");
-MsgDisp("Sassa","Wait... Speaking of Ryota and Inori, they
-might be scouting out around here?");
+MsgDisp("Sassa","Wait...
+Speaking of Ryota and Inori, they might be
+scouting out around here?");
 MsgDisp("主人公","(Hehe!
 Those three really do get along.)");
 BGMStop();

@@ -29,8 +29,7 @@ MsgDisp("Mikage","That's why I don't just make textbook
 questions, but also nitpicky trick
 questions so that students are ranked
 clearly.");
-MsgDisp("主人公","So that's how it is...
-seems difficult");
+MsgDisp("主人公","So that's how it is... seems difficult");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -43,9 +42,9 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700005_07_040");
 MsgDisp("Mikage","But, making tests doesn't suit me.");
-MsgDisp("主人公","If ｛御影＊＊｝ could make the
-questions like he liked, everyone would
-probably get better grades.");
+MsgDisp("主人公","If ｛御影＊＊｝ could
+make the questions like he liked, everyone
+would probably get better grades.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -53,6 +52,6 @@ VoicePlay("F020700005_07_050");
 MsgDisp("Mikage","I did that once and Vice Principal Himuro
 raked me over the coals...
 I really am sorry...");
-MsgDisp("主人公","(｛御影＊＊｝ seems to have it
-harder... All I have to do is study. Let's
-do our best!)");
+MsgDisp("主人公","(｛御影＊＊｝ seems to have it harder...
+All I have to do is study.
+Let's do our best!)");

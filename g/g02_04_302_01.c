@@ -11,8 +11,8 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020430201_04_010");
-MsgDisp("Nanatsumori","Ahー
-......I get it.");
+MsgDisp("Nanatsumori","Ahー ......
+I get it.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -58,8 +58,8 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020430201_04_080");
 MsgDisp("Nanatsumori","Hey, you're my friend, right?");
-MsgDisp("主人公","(｛七ツ森＊｝, I think you'll have
-plenty of chances to make friends......)");
+MsgDisp("主人公","(｛七ツ森＊｝, I think you'll have plenty
+of chances to make friends......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

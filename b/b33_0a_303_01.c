@@ -15,8 +15,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30301_01_000");
-MsgDisp("Kazama","Heehー. Looks like a new shop is opening
-over there.");
+MsgDisp("Kazama","Heehー.
+Looks like a new shop is opening over
+there.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -59,9 +60,11 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330A30301_06_010");
 MsgDisp("Himuro","Then I would like an instrument or surfing
-shop. ...You?");
-MsgDisp("主人公","Hmm.... Maybe some tasty food you can eat
-whilst walking around?");
+shop.
+... You?");
+MsgDisp("主人公","Hmm....
+Maybe some tasty food you can eat whilst
+walking around?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -78,8 +81,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330A30301_06_020");
-MsgDisp("Himuro","Right. Something like Donut Holes would be
-nice too.");
+MsgDisp("Himuro","Right.
+Something like Donut Holes would be nice
+too.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

@@ -14,5 +14,4 @@ VoicePlay("B020402130_04_010");
 MsgDisp("Nanatsumori","I mean you. There's something soothing
 about your presence. Like watching a
 therapeutic show.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to really like
-this!)");
+MsgDisp("主人公","(｛七ツ森＊｝ seems to really like this!)");

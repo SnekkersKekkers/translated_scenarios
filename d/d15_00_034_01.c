@@ -6,7 +6,8 @@ ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150003401_03_000" ) ;
 MsgDisp ( "Honda","Let's refuel for the afternoon!" ) ;
-MsgDisp ( "主人公","｛本多＊＊｝. Do you have gym class next?" ) ;
+MsgDisp ( "主人公","｛本多＊＊｝.
+Do you have gym class next?" ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,1 ) ;
@@ -29,8 +30,9 @@ ChEye ( 4,2 ) ;
 ChMouth ( 4,4 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150003401_04_010" ) ;
-MsgDisp ( "Nanatsumori","......Wait. This is a bad thing to talk
-about while we eat." ) ;
+MsgDisp ( "Nanatsumori","...... Wait.
+This is a bad thing to talk about while we
+eat." ) ;
 ChEye ( 3,4 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,4 ) ;
@@ -43,21 +45,22 @@ ChEye ( 4,1 ) ;
 ChMouth ( 4,1 ) ;
 ChMotion ( 4,5 ) ;
 VoicePlay ( "D150003401_04_020" ) ;
-MsgDisp ( "Nanatsumori","Ahh∈
-Stop, stop∈" ) ;
+MsgDisp ( "Nanatsumori","Ahh∈ Stop, stop∈" ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,0 ) ;
 ChMotion ( 3,0 ) ;
 VoicePlay ( "D150003401_03_040" ) ;
 MsgDisp ( "Honda","What's wrong?" ) ;
-MsgDisp ( "主人公","Um, yeah. How about we talk about that
-after we finish eating?" ) ;
+MsgDisp ( "主人公","Um, yeah.
+How about we talk about that after we
+finish eating?" ) ;
 ChEye ( 3,3 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,1 ) ;
 ChEyeOpenLevel ( 3,0 ) ;
 VoicePlay ( "D150003401_03_050" ) ;
-MsgDisp ( "Honda","Okay. Let's eat quickly then." ) ;
+MsgDisp ( "Honda","Okay.
+Let's eat quickly then." ) ;
 MsgDisp ( "主人公","(I think I'll eat slowly, actually......)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

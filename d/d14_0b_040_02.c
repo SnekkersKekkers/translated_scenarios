@@ -7,7 +7,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChCheek(3,0);
 MsgDisp("主人公","Speaking of, did you not invite
-｛七ツ森＊｝ for lunch today?");
+｛七ツ森＊｝ for lunch
+today?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -20,8 +21,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B04002_01_000");
-MsgDisp("Kazama","You couldn't 
-wake him up like that.");
+MsgDisp("Kazama","You couldn't wake him up like that.");
 ChEye(1,0);
 ChEye(3,0);
 ChMouth(3,3);
@@ -47,15 +47,17 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B04002_01_020");
-MsgDisp("Kazama","Hmm... It seems like he's dreaming most of
-the time during recess.");
+MsgDisp("Kazama","Hmm...
+It seems like he's dreaming most of the
+time during recess.");
 MsgDisp("主人公","Hehe!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("D140B04002_03_030");
-MsgDisp("Honda","But... But next time, I'll have to wake
-him up and bring him along.");
+MsgDisp("Honda","But...
+But next time, I'll have to wake him up
+and bring him along.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

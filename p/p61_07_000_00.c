@@ -22,7 +22,6 @@ ChMotion(7,3);
 VoicePlay("P610700000_07_010");
 MsgDisp("Mikage","That's good isn't it?
 A Habataki blend and cookies.");
-MsgDisp("主人公","(Alright, 
-I'll give it my best!)");
+MsgDisp("主人公","(Alright, I'll give it my best!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,13 +14,15 @@ ChMotion(4,1,1);
 VoicePlay("P740400002_04_000");
 MsgDisp("Nanatsumori","Good work.
 You really looked your best.");
-MsgDisp("主人公","｛七ツ森＊｝. Thank you!");
+MsgDisp("主人公","｛七ツ森＊｝.
+Thank you!");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P740400002_04_010");
-MsgDisp("Nanatsumori","Haha! You were cool on stage, but now
-you're charming.");
+MsgDisp("Nanatsumori","Haha!
+You were cool on stage, but now you're
+charming.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,1);
 ChMouth(4,3);

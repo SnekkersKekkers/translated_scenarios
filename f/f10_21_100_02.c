@@ -23,10 +23,11 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102110002_21_020");
 MsgDisp("Michiru","Um?
-...This.");
+... This.");
 MsgDisp("主人公","A manga?");
 VoicePlay("F102110002_21_030");
-MsgDisp("Michiru","Right. It's a love story currently being
+MsgDisp("Michiru","Right.
+It's a love story currently being
 serialized.");
 ChEye(21,0);
 ChMouth(21,3);
@@ -61,8 +62,8 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102110002_21_080");
 MsgDisp("Michiru","Hikaru doesn't like this kind of thing, so
-she doesn't sympathize with me at all....I
-can't even say this much.");
+she doesn't sympathize with me at all....
+I can't even say this much.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -78,8 +79,8 @@ MsgDisp("Michiru","It's really painful to feel sad alone.
 Mari, let's worry together and talk about
 it?");
 MsgDisp("主人公","(She's really emotionally invested in this
-manga. ｛みちる＊｝ really is a girly
-girl at heart.)");
+manga. ｛みちる＊｝
+really is a girly girl at heart.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

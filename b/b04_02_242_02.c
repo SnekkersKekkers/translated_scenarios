@@ -57,7 +57,8 @@ That's a weird thing to ask.");
         VoicePlay("B040224202_02_040");
         MsgDisp("Sassa","Why?
 Did something happen.");
-        MsgDisp("主人公","No. It's because ｛颯砂＊＊｝ seemed
+        MsgDisp("主人公","No.
+It's because ｛颯砂＊＊｝ seemed
 interested in camping alone.");
         ChEye(2,0);
         ChMouth(2,0);

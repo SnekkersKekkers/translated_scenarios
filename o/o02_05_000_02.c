@@ -31,7 +31,8 @@ And we were so close......)");
     ScrFadeIn(0);
     VoiceEVSPlay(5);
     VoicePlay("O020500002_05_020");
-    MsgDisp("Hiiragi","｛主人公｝, you did your best.");
+    MsgDisp("Hiiragi","｛主人公｝, you did your
+best.");
     MsgDisp("主人公","Thanks......
 But it was a tie.");
     ChEye(5,3);

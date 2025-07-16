@@ -93,8 +93,7 @@ And, it's not warm, is it?");
         ChEye(4,4);
         ChMouth(4,3);
         VoicePlay("B040406302_04_110");
-        MsgDisp("Nanatsumori","But, if we
-snuggled up like this...");
+        MsgDisp("Nanatsumori","But, if we snuggled up like this...");
         MsgClose();
         SEPlay("EV_SE_550");
         ChClose(4,0,30);
@@ -103,7 +102,7 @@ snuggled up like this...");
         ChNanaType(#1);
         ChOpen(4,255,0,4,3,#1,#1,0,0,0,60);
         VoicePlay("B040406302_04_120");
-        MsgDisp("Nanatsumori","...It's warm.
+        MsgDisp("Nanatsumori","... It's warm.
 What about you?");
         MsgDisp("主人公","It's warm...
 I think?");
@@ -124,8 +123,7 @@ If it's not enough, then here's more.");
         ChMouth(4,0);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040406302_04_150");
-        MsgDisp("Nanatsumori","Let's stay like
-this for a while.");
+        MsgDisp("Nanatsumori","Let's stay like this for a while.");
         MsgDisp("主人公","(｛七ツ森＊｝......)");
         break ;
         default :

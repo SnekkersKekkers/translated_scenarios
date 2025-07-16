@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, ｛風真＊＊｝ what were you like in
-middle school?");
+MsgDisp("主人公","Hey, ｛風真＊＊｝ what were you
+like in middle school?");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,4);
@@ -61,8 +61,8 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B070100000_01_360");
 MsgDisp("Kazama","Seriously, you're always up and down.
-It seems like I'm going to have
-trouble...from now on.");
+It seems like I'm going to have trouble...
+from now on.");
 MsgDisp("主人公","(What does that mean?)");
 BGMStop();
 MsgClose();

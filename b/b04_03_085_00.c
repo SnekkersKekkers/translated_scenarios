@@ -14,8 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040308500_03_010");
-    MsgDisp("Honda","Eh? But if I don't put my hand into the
-water, I can't catch them?");
+    MsgDisp("Honda","Eh?
+But if I don't put my hand into the water,
+I can't catch them?");
     MsgDateResultDisp();
     break ;
     case 1:

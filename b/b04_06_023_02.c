@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040602302_06_010");
     MsgDisp("Himuro","I thought as much.
 You really are simple.
-...Well, I'm also simple.");
+... Well, I'm also simple.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,8 +23,7 @@ You really are simple.
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602302_06_020");
-    MsgDisp("Himuro","Then, 
-should we head back soon?");
+    MsgDisp("Himuro","Then, should we head back soon?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -63,8 +62,7 @@ Did you think I would be happy with that?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040602302_06_060");
-        MsgDisp("Himuro","...There's no need to 
-apologize though?");
+        MsgDisp("Himuro","...There's no need to apologize though?");
         ChEye(6,0);
         ChMouth(6,2);
         ChMotion(6,4);
@@ -94,7 +92,8 @@ Someone might get the wrong idea.");
         ChMotion(6,2);
         VoicePlay("B040602302_06_100");
         MsgDisp("Himuro","...So it was a joke after all.");
-        MsgDisp("主人公","Hm? What was that just now?");
+        MsgDisp("主人公","Hm?
+What was that just now?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

@@ -8,20 +8,23 @@ switch (ChPrmGet(7,6)){
     case 2:
     VoicePlay("Q090700000_07_000");
     MsgDisp("Mikage","Good morning, how you look excited.");
-    MsgDisp("主人公","Yes. Extracurricular lessons Nagasaki
-edition, I'm looking forward.");
+    MsgDisp("主人公","Yes.
+Extracurricular lessons Nagasaki edition,
+I'm looking forward.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("Q090700000_07_010");
     MsgDisp("Mikage","Oh, I'll have some fun with you, huh?");
-    MsgDisp("主人公","Hehe!　Yes.");
+    MsgDisp("主人公","Hehe!
+Yes.");
     break ;
     case 3:
     VoicePlay("Q090700000_07_020");
     MsgDisp("Mikage","Good morning!
 Looks like you slept well.");
-    MsgDisp("主人公","Yes. And you, ｛御影＊＊｝?");
+    MsgDisp("主人公","Yes.
+And you, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -35,14 +38,16 @@ Let's go then.");
     case 5:
     VoicePlay("Q090700000_07_040");
     MsgDisp("Mikage","Good morning!");
-    MsgDisp("主人公","Good morning, ｛御影＊＊｝.");
+    MsgDisp("主人公","Good morning,
+｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("Q090700000_07_050");
     MsgDisp("Mikage","Looks like you slept well.");
-    MsgDisp("主人公","Yes. But I woke up early because I was
-looking forward to it.");
+    MsgDisp("主人公","Yes.
+But I woke up early because I was looking
+forward to it.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);

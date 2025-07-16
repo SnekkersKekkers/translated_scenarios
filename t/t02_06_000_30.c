@@ -44,8 +44,8 @@ VoicePlay("T020600000_06_460");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","Even so...
-do you think my feelings are sudden?");
+MsgDisp("Himuro","Even so... do you think my feelings are
+sudden?");
 VoicePlay("T020600000_06_470");
 ChEye(6,2);
 ChMouth(6,0);

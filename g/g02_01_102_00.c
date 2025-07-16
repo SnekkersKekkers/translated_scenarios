@@ -43,7 +43,8 @@ ChMotion(1,0);
 VoicePlay("G020110200_01_050");
 MsgDisp("Kazama","Anyway, be ready for big things starting
 next time.");
-MsgDisp("主人公","(What's gotten into ｛風真＊＊｝? )");
+MsgDisp("主人公","(What's gotten into
+｛風真＊＊｝? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

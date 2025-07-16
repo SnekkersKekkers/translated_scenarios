@@ -47,7 +47,8 @@ that.)");
     ChOpen(5,254,4,2,4,#1,#1,0,0);
     VoicePlay("F010500001_05_030");
     MsgDisp("Hiiragi","Are you referring to me?");
-    MsgDisp("主人公","Yes. Sorry, do you dislike it?");
+    MsgDisp("主人公","Yes.
+Sorry, do you dislike it?");
     ChEye(5,4);
     ChMouth(5,0);
     ChMotion(5,2);

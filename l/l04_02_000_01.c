@@ -61,8 +61,8 @@ chocolate?)");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("L040200001_02_060");
-    MsgDisp("Sassa","Ah...... I've seen
-this before.");
+    MsgDisp("Sassa","Ah......
+I've seen this before.");
     MsgDisp("主人公","Yeah, it's tasty, right?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -77,7 +77,8 @@ Thanks.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ah...... Should I have given him a better
+    MsgDisp("主人公","(Ah......
+Should I have given him a better
 chocolate?)");
     break ;
     default :

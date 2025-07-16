@@ -6,7 +6,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040215102_02_000");
-MsgDisp("Sassa","Huh? It's not going where I'm aiming.");
+MsgDisp("Sassa","Huh?
+It's not going where I'm aiming.");
 MsgSel("It's just one of those days","Is your form off?","I'll win today!");
 switch (MsgSelRsltGet()){
     case 0:

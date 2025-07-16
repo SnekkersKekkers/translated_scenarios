@@ -40,7 +40,8 @@ VoicePlay("G020330200_03_050");
 MsgDisp("Honda","He signaled me with his eyes for help, so
 I thought there was no topic and brought
 up the Ground Beetle.");
-MsgDisp("主人公","Ground beetle......Eh?");
+MsgDisp("主人公","Ground beetle......
+Eh?");
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020330200_03_060");
@@ -61,7 +62,8 @@ ChMotion(3,0);
 VoicePlay("G020330200_03_080");
 MsgDisp("Honda","That's when I got that line from him.");
 MsgDisp("主人公","(I think I might understand what
-｛風真＊＊｝ wanted to say......)");
+｛風真＊＊｝ wanted to
+say......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

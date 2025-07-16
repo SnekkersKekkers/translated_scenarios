@@ -5,7 +5,8 @@ VoicePlay("B020102103_01_000");
 MsgDisp("Kazama","Hooh, that's sexy.
 You're definitely not the same person you
 were 10 years ago.");
-MsgDisp("主人公","Really? I'm glad!");
+MsgDisp("主人公","Really?
+I'm glad!");
 ChEye(1,4);
 ChMouth(1,1);
 ChMotion(1,1);

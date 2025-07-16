@@ -35,8 +35,8 @@ Are you setting up a joke?");
     DateRateSet(1);
     ChSet(3,2,1);
     VoicePlay("B040302300_03_030");
-    MsgDisp("Honda","True... Why do water sports seem so
-challenging?");
+    MsgDisp("Honda","True...
+Why do water sports seem so challenging?");
     MsgDateResultDisp();
     break ;
     default :

@@ -45,9 +45,9 @@ club......)");
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("H3A0600001_06_040");
-    MsgDisp("Himuro","......Sorry. I honestly don't know what
-else to say. Because I know just how hard
-you worked.");
+    MsgDisp("Himuro","...... Sorry.
+I honestly don't know what else to say.
+Because I know just how hard you worked.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -67,7 +67,7 @@ cool......");
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("H3A0600001_06_070");
-    MsgDisp("Himuro","......Yeah.
+    MsgDisp("Himuro","...... Yeah.
 Rest up for today.");
     MsgDisp("主人公","(I lost, but I'm glad I stayed in the judo
 club.)");

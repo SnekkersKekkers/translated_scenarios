@@ -13,8 +13,9 @@ ScrFadeIn(0);
 VoicePlay("B330C20400_06_000");
 MsgDisp("Himuro","I've been coming to this forest park since
 I was young.");
-MsgDisp("主人公","Yeah. I came here a lot on elementary
-school trips.");
+MsgDisp("主人公","Yeah.
+I came here a lot on elementary school
+trips.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -95,7 +96,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C20400_06_030");
-MsgDisp("Himuro","...Kojiro-sensei.
+MsgDisp("Himuro","... Kojiro-sensei.
 Was it really necessary for us to also
 ride as a pair?");
 ChEye(7,0);
@@ -122,7 +123,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C20400_07_050");
-MsgDisp("Mikage","｛主人公｝, sorry. Ride with Inori too.");
+MsgDisp("Mikage","｛主人公｝, sorry.
+Ride with Inori too.");
 MsgDisp("主人公","Yeah, that's fine.");
 ChEye(5,4);
 ChEye(6,0);
@@ -134,15 +136,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20400_07_060");
-MsgDisp("Mikage","Then, do you want to ride
-with me again?");
+MsgDisp("Mikage","Then, do you want to ride with me again?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C20400_06_060");
 MsgDisp("Himuro","No thanks.
-...Alright, let's go.");
+... Alright, let's go.");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(6);
@@ -150,7 +151,8 @@ ChMotion(5,0);
 VoicePlay("B330C20400_06_070");
 MsgDisp("Himuro","Let's go on the rowboat instead of the
 swanboat.");
-MsgDisp("主人公","(Hehe! I wonder if ｛氷室＊＊｝ was
+MsgDisp("主人公","(Hehe!
+I wonder if ｛氷室＊＊｝ was
 embarrassed about the swan boat?)");
 BGMStop();
 MsgClose();

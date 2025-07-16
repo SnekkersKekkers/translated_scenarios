@@ -13,7 +13,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, are you working part-time?");
+    MsgDisp("Hiiragi","｛主人公｝, are you
+working part-time?");
     MsgDisp("主人公","Yes, that's right.
 ｛柊＊＊＊｝, are you alone?");
     ChMotion(5,4);
@@ -36,15 +37,14 @@ is at school...... He is the chairman of
 the theater troupe, huh.)");
     break ;
     case 3:
-    MsgDisp("主人公","Alright, let's do our best
-today, too.");
+    MsgDisp("主人公","Alright, let's do our best today, too.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_030");
-    MsgDisp("Hiiragi","｛主人公｝, if I may have a moment of
-your time.");
+    MsgDisp("Hiiragi","｛主人公｝, if I may have
+a moment of your time.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, you came.");
     VoicePlay("I350500000_05_040");
     MsgDisp("Hiiragi","Yes, we come here for meetings.");
@@ -59,11 +59,13 @@ well.");
     MsgDisp("Hiiragi","Ah, and another thing.
 The meetings we have here always end up
 going well.");
-    MsgDisp("主人公","Hm?　Really?");
+    MsgDisp("主人公","Hm?
+Really?");
     ChEye(5,4);
     VoicePlay("I350500000_05_070");
-    MsgDisp("Hiiragi","Yes. Perhaps it's due to the smell of
-coffee, and your smile?");
+    MsgDisp("Hiiragi","Yes.
+Perhaps it's due to the smell of coffee,
+and your smile?");
     VoicePlay("I350500000_43_000");
     MsgDisp("Theater Member","Chairman?");
     ChEye(5,0);
@@ -108,8 +110,7 @@ delivery?");
 address.");
     ChMotion(5,4);
     VoicePlay("I350500000_05_110");
-    MsgDisp("Hiiragi","No need, I will
-show you there myself.");
+    MsgDisp("Hiiragi","No need, I will show you there myself.");
     MsgDisp("主人公","Hm?");
     ChEye(5,4);
     ChMotion(5,0);

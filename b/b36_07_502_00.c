@@ -24,8 +24,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360750200_07_020");
-MsgDisp("Mikage","Hmm...... I feel kinda bad for those
-two—— Let's stay just for a little bit.");
+MsgDisp("Mikage","Hmm......
+I feel kinda bad for those two—— Let's
+stay just for a little bit.");
 MsgDisp("主人公","Hehe, okay.");
 MsgClose();
 SEPlay("EV_SE_856");
@@ -44,10 +45,12 @@ MsgDisp("Mikage","It's so beautiful...... Did you know you
 can can take a psychological test using
 the shape of the clouds?");
 MsgDisp("主人公","That's interesting.
-｛御影＊＊｝ what do you see?");
+｛御影＊＊｝ what do you
+see?");
 VoicePlay("B360750200_07_040");
-MsgDisp("Mikage","Hmm...... Haha, it's Inori surfing and
-Yanosuke cleaning.");
+MsgDisp("Mikage","Hmm......
+Haha, it's Inori surfing and Yanosuke
+cleaning.");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("wf200",1);

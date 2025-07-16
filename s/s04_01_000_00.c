@@ -22,7 +22,8 @@ It's from ｛風真＊＊｝.");
         MsgDisp("Kazama","Nice answer.
 I'll take my time coming there, so don't
 rush getting ready.");
-        MsgDisp("主人公","You're coming to pick me up?　Thanks.");
+        MsgDisp("主人公","You're coming to pick me up?
+Thanks.");
         VoicePlay("S040100000_01_030");
         MsgDisp("Kazama","No, thank you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -53,7 +54,8 @@ Did I do something wrong......)");
     case 4:
     case 5:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Huh? It's ｛風真＊＊｝.");
+    MsgDisp("主人公","Huh?
+It's ｛風真＊＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
@@ -63,8 +65,8 @@ Did I do something wrong......)");
     MsgDisp("主人公","Hehe, Happy New Years.
 Take care of me this year.");
     VoicePlay("S040100000_01_070");
-    MsgDisp("Kazama","Gotcha. Let's go then and visit the
-shrine.");
+    MsgDisp("Kazama","Gotcha.
+Let's go then and visit the shrine.");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
     switch (MsgSelRsltGet()){
         case 0:
@@ -86,7 +88,7 @@ What should I do?)");
         break ;
         case 1:
         VoicePlay("S040100000_01_100");
-        MsgDisp("Kazama","......Well, we don't have to go today.
+        MsgDisp("Kazama","...... Well, we don't have to go today.
 It's crowded, anyway.");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("S040100000_01_110");

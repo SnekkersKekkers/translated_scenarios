@@ -4,16 +4,17 @@ ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020730201_07_000");
 MsgDisp("Mikage","You're get along with the Hanatsubaki's,
 right?");
-MsgDisp("主人公","Yes. ｛みちる＊｝ and ｛ひかる＊｝
-are always supporting me and teach me all
-sorts of things.");
+MsgDisp("主人公","Yes. ｛みちる＊｝ and
+｛ひかる＊｝ are always
+supporting me and teach me all sorts of
+things.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("G020730201_07_010");
-MsgDisp("Mikage","Great. If you can find friends like that
-in high school, you've basically won in
-life.");
+MsgDisp("Mikage","Great.
+If you can find friends like that in high
+school, you've basically won in life.");
 MsgDisp("主人公","On top of that, I got to meet a teacher
 like ｛御影＊＊｝.");
 ChEye(7,2);
@@ -46,8 +47,8 @@ VoicePlay("G020730201_07_050");
 MsgDisp("Mikage","That's weird.
 I ended up saying too much......
 Forget what I'm thinking～");
-MsgDisp("主人公","(｛御影＊＊｝...... what does it mean
-to be flawed......)");
+MsgDisp("主人公","(｛御影＊＊｝...... what does it mean to be
+flawed......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

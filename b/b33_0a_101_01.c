@@ -16,8 +16,9 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("B330A10101_01_000");
-MsgDisp("Kazama","｛主人公｝, where do you want to go?");
-MsgDisp("主人公","Eh, me? ");
+MsgDisp("Kazama","｛主人公｝, where do you
+want to go?");
+MsgDisp("主人公","Eh, me?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -66,8 +67,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10101_06_010");
-MsgDisp("Himuro","Right. Nozomu-senpai, is there something
-wrong with it?");
+MsgDisp("Himuro","Right.
+Nozomu-senpai, is there something wrong
+with it?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -81,7 +83,8 @@ VoicePlay("B330A10101_01_020");
 MsgDisp("Kazama","No, you're not supposed to move around in
 these sorts of clothes.
 You know that much right?");
-MsgDisp("主人公","Eh? Why?");
+MsgDisp("主人公","Eh?
+Why?");
 ChMouth(1,2);
 ChEye(6,2);
 ChMouth(6,0);
@@ -102,7 +105,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330A10101_01_030");
 MsgDisp("Kazama","Nope.
 Let's go to another store.");
-MsgDisp("主人公","Eh∋　What's wrong?");
+MsgDisp("主人公","Eh∋
+What's wrong?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);

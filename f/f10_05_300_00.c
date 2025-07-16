@@ -10,8 +10,8 @@ VoicePlay("F100530000_44_000");
 MsgDisp("School Girl B","Morningー.");
 VoicePlay("F100530000_05_000");
 MsgDisp("Hiiragi","Good morning.");
-MsgDisp("主人公","｛柊＊＊＊｝, morning. Thank you for your
-hard work.");
+MsgDisp("主人公","｛柊＊＊＊｝, morning.
+Thank you for your hard work.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -40,7 +40,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530000_05_030");
 MsgDisp("Hiiragi","Bonjour.");
-MsgDisp("主人公","Ahaha! ｛ひかる＊｝, morning.");
+MsgDisp("主人公","Ahaha!
+｛ひかる＊｝, morning.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -54,7 +55,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100530000_05_040");
 MsgDisp("Hiiragi","Well, go ahead?");
-MsgDisp("主人公","Umm... B-Bonjour?");
+MsgDisp("主人公","Umm...
+B-Bonjour?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -63,7 +65,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100530000_22_020");
-MsgDisp("Hikaru","Yep, yep, Mari. Wonderful!");
+MsgDisp("Hikaru","Yep, yep, Mari.
+Wonderful!");
 MsgDisp("主人公","Hey, you two...");
 SEPlay("EV_SE_544");
 VoicePlay("F100530000_21_000");
@@ -79,13 +82,14 @@ ChOpen(21,254,3,0,0,#1,#1,0,2);
 ChMotion(5,4);
 VoicePlay("F100530000_05_050");
 MsgDisp("Hiiragi","Yes, good morning.");
-MsgDisp("主人公","Huh? ｛みちる＊｝ didn't say it?");
+MsgDisp("主人公","Huh?
+｛みちる＊｝ didn't say
+it?");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("F100530000_22_030");
-MsgDisp("Hikaru","It's impossible 
-for big sis.");
+MsgDisp("Hikaru","It's impossible for big sis.");
 ChEyeOpenLevel(22,0);
 ChEye(5,2);
 ChMouth(5,4);
@@ -108,7 +112,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F100530000_21_020");
-MsgDisp("Michiru","Haha. So they made you say it, huh, Mari?
+MsgDisp("Michiru","Haha.
+So they made you say it, huh, Mari?
 These two are hopeless.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -126,15 +131,17 @@ ChClose(5,0,30);
 ChLayout(1);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Y-Yeah.
-Then ｛柊＊＊＊｝, do your best, okay?");
+Then ｛柊＊＊＊｝, do your best,
+okay?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100530000_05_070");
-MsgDisp("Hiiragi","Yes. Greeting reinforcement is truly
-enjoyable.");
+MsgDisp("Hiiragi","Yes.
+Greeting reinforcement is truly enjoyable.");
 MsgDisp("主人公","(Hmm, maybe I need to keep an eye on
-｛柊＊＊＊｝ and ｛ひかる＊｝...? )");
+｛柊＊＊＊｝ and
+｛ひかる＊｝...? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -18,8 +18,8 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,0,1);
 VoicePlay("S120D00002_22_000");
-MsgDisp("Hikaru","Ehー. But Hikaru wants to play with Mari
-more!");
+MsgDisp("Hikaru","Ehー.
+But Hikaru wants to play with Mari more!");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);

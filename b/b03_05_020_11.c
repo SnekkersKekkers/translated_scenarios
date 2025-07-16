@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     MsgDispSksp(1,0);
     ChMouth(5,4);
     VoicePlay("B030502002_05_020");
-    MsgDisp("Hiiragi","Sure. Is something on your mind?");
+    MsgDisp("Hiiragi","Sure.
+Is something on your mind?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

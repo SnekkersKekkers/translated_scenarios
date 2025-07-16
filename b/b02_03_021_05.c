@@ -2,10 +2,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B020302105_03_000");
-MsgDisp("Honda","Ooh, that's a really natural
-feel, right?");
-MsgDisp("主人公","These clothes aren't too boring,
-right?");
+MsgDisp("Honda","Ooh, that's a really natural feel, right?");
+MsgDisp("主人公","These clothes aren't too boring, right?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

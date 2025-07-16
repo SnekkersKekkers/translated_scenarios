@@ -28,7 +28,7 @@ SEStop("EV_SE_511",2);
 VoicePlay("D200000000_31_000");
 MsgDisp("Goro?","I・found・you・.
 You over there, a minute♪");
-MsgDisp("主人公","......Eh?
+MsgDisp("主人公","...... Eh?
 Me?");
 MsgClose();
 BGMPlay("BGM_C31_GORO_A",0.01);
@@ -37,7 +37,8 @@ VoicePlay("D200000000_31_010");
 MsgDisp("Goro?","Yes, that's right.
 Y・O・U.
 Come over here for a minute.");
-MsgDisp("主人公","Ah......Sure.");
+MsgDisp("主人公","Ah......
+Sure.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
@@ -67,11 +68,12 @@ ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,2);
 VoicePlay("D200000000_31_060");
-MsgDisp("Goro","Hello♪ But right now I'm Goro
-Hanatsubaki, special advisor of Habatcher!");
-MsgDisp("主人公","Uhm......Habatcher?
-That's Habataki City's information
-magazine \"Habataki Watcher \", right?......");
+MsgDisp("Goro","Hello♪
+But right now I'm Goro Hanatsubaki,
+special advisor of Habatcher!");
+MsgDisp("主人公","Uhm......Habatcher? That's Habataki City's
+information magazine \"Habataki Watcher \",
+right?......");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,3);
@@ -102,8 +104,9 @@ VoicePlay("D200000000_31_100");
 MsgDisp("Goro","You are the one who will take those
 diamonds and polish them into a wonderful
 and shining person♪");
-MsgDisp("主人公","Ehh∋ I'm not sure if I'm the kind of
-person who can do that——");
+MsgDisp("主人公","Ehh∋
+I'm not sure if I'm the kind of person who
+can do that——");
 ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,2);

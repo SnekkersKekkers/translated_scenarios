@@ -1,8 +1,9 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","...Alright. Time to head home. Huh, is
-that......");
+MsgDisp("主人公","... Alright.
+Time to head home.
+Huh, is that......");
 VoicePlay("E010140000_01_000");
 MsgDisp("Kazama?","You're being a pain!
 I said no.");
@@ -19,14 +20,14 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("E010140000_22_010");
-MsgDisp("Hikaru","Mariii! Nice timing!▼ Come one, let's ask
-Kazama-kun together～");
+MsgDisp("Hikaru","Mariii!
+Nice timing!▼
+Come one, let's ask Kazama-kun together～");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010140000_01_010");
-MsgDisp("Kazama","You always show up
-at an incredible time.");
+MsgDisp("Kazama","You always show up at an incredible time.");
 MsgDisp("主人公","Ask him about what?......
 What were you guys talking about?");
 ChMouth(1,2);
@@ -45,8 +46,9 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010140000_01_020");
 MsgDisp("Kazama","I told you I don't wanna do it.");
-MsgDisp("主人公","Hey, ｛ひかる＊｝...... You're
-bothering ｛風真＊＊｝, right?");
+MsgDisp("主人公","Hey, ｛ひかる＊｝......
+You're bothering ｛風真＊＊｝,
+right?");
 ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,2,1);
@@ -58,7 +60,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Hehe. Feeling better, ｛風真＊＊｝?");
+MsgDisp("主人公","Hehe.
+Feeling better, ｛風真＊＊｝?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
@@ -98,9 +101,9 @@ VoicePlay("E010140000_01_050");
 MsgDisp("Kazama","Uh, is she for real.
 These Hanatsubakis are intense......
 I'm counting on you when time comes!");
-MsgDisp("主人公","Yeah! But I think you'd make everyone
-happy by modeling for their article,
-right?");
+MsgDisp("主人公","Yeah!
+But I think you'd make everyone happy by
+modeling for their article, right?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

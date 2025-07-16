@@ -14,7 +14,8 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0500001_05_000");
     MsgDisp("Hiiragi","......Good work.");
-    MsgDisp("主人公","｛柊＊＊＊｝...... I lost.");
+    MsgDisp("主人公","｛柊＊＊＊｝......
+I lost.");
     ChEye(5,4);
     VoicePlay("H3A0500001_05_010");
     MsgDisp("Hiiragi","But you didn't give up until the very end.

@@ -13,7 +13,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B080101100_01_010");
 MsgDisp("Kazama","Looks like I interrupted you.
-...Why?");
+... Why?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

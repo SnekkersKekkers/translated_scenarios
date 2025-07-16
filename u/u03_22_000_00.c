@@ -29,7 +29,8 @@ getting better......)");
     VoicePlay("U032200000_22_030");
     MsgDisp("Hikaru","Okay, see you at school!
 A bientot～♪");
-    MsgDisp("主人公","See you later, ｛ひかる＊｝!");
+    MsgDisp("主人公","See you later,
+｛ひかる＊｝!");
     break ;
     case 1:
     MsgDisp("主人公","Sorry but......");
@@ -45,7 +46,9 @@ Too bad.");
     VoicePlay("U032200000_22_050");
     MsgDisp("Hikaru","It's about time to go now.
 See you later～!");
-    MsgDisp("主人公","Okay. See you later, ｛ひかる＊｝.");
+    MsgDisp("主人公","Okay.
+See you later,
+｛ひかる＊｝.");
     break ;
     default :
     DbgAssert(0);

@@ -37,8 +37,7 @@ Ah, it's ｛氷室＊＊｝!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Um,
-my team is......");
+    MsgDisp("主人公","Um, my team is......");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -46,8 +45,8 @@ my team is......");
     VoiceEVSPlay(6);
     VoicePlay("O040601000_06_040");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Could it be that we're on
-the same team?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+Could it be that we're on the same team?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

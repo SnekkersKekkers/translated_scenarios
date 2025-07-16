@@ -8,8 +8,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("B040430002_04_000");
-MsgDisp("Nanatsumori","Ah... so you're over there. This is a nice
-angle.");
+MsgDisp("Nanatsumori","Ah... so you're over there.
+This is a nice angle.");
 MsgSel("Is it okay for me to be here?","What are you imagining?","Then, let's move!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,9 +18,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040430002_04_010");
-    MsgDisp("Nanatsumori","Yeah. You fit perfectly into the empty
-space that felt lonely when I was by
-myself.");
+    MsgDisp("Nanatsumori","Yeah.
+You fit perfectly into the empty space
+that felt lonely when I was by myself.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -82,8 +82,9 @@ girlfriend——");
         ChMotion(4,0,1);
         ChCheek(4,8);
         VoicePlay("B040430002_04_070");
-        MsgDisp("Nanatsumori","...No! Please wait a second. I was too
-direct just now.");
+        MsgDisp("Nanatsumori","... No!
+Please wait a second.
+I was too direct just now.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,1,1);
@@ -91,7 +92,8 @@ direct just now.");
         VoicePlay("B040430002_04_080");
         MsgDisp("Nanatsumori","Sorry.
 Please don't be on guard.");
-        MsgDisp("主人公","Yeah. Because I believe in
+        MsgDisp("主人公","Yeah.
+Because I believe in
 ｛七ツ森＊｝.");
         ChEye(4,4);
         ChMouth(4,3);
@@ -102,8 +104,9 @@ Please don't be on guard.");
         ChMouth(4,0);
         VoiceEVSPlay(4);
         VoicePlay("B040430002_04_100");
-        MsgDisp("Nanatsumori","｛主人公｝. Now... please listen to
-what I really mean.");
+        MsgDisp("Nanatsumori","｛主人公｝.
+Now... please listen to what I really
+mean.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,1,1);
         VoicePlay("B040430002_04_110");

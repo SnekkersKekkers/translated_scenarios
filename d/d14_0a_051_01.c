@@ -34,7 +34,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("D140A05101_02_010");
-MsgDisp("Sassa","Ha? The two of you...");
+MsgDisp("Sassa","Ha?
+The two of you...");
 MsgDisp("主人公","Eh...");
 ChEye(2,0);
 ChMouth(2,4);
@@ -109,15 +110,14 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A05101_06_050");
-MsgDisp("Himuro","Right. You're surprisingly proper,
-Nozomu-senpai.");
+MsgDisp("Himuro","Right.
+You're surprisingly proper, Nozomu-senpai.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A05101_02_050");
-MsgDisp("Sassa","What do you guys even 
-think I'm like...?");
+MsgDisp("Sassa","What do you guys even think I'm like...?");
 MsgDisp("主人公","(Both of them seem worried about my
 relationship with ｛颯砂＊＊｝? )");
 BGMStop();

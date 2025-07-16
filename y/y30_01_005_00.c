@@ -8,10 +8,11 @@ SEStop("EV_SE_813");
 VoicePlay("Y300100500_01_000");
 MsgDisp("Kazama","\"Hearing the sound of cooking, it's
 like we're a newlywed household.\"");
-MsgDisp("主人公","\"Ehh? Are we not?\"");
-MsgDisp("","｛主人公名前｝, from time to time,
-will come to my house and cook for
-me.");
+MsgDisp("主人公","\"Ehh?
+Are we not?\"");
+MsgDisp("","｛主人公名前｝, from time
+to time, will come to my house and
+cook for me.");
 MsgClear();
 MsgDisp("","After I graduated and while I'm
 studying in university, I'll help out
@@ -44,7 +45,8 @@ SEWait();
 SEPlay("EV_SE_002");
 SEWait();
 MsgDisp("主人公","\"This is the English lunch plate
-｛風真＊＊｝ once treated me to.\"");
+｛風真＊＊｝ once treated
+me to.\"");
 MsgDisp("","Bacon, mushroom, eggs, baked beans,
 grilled tomatoes and fried fish.");
 MsgClear();
@@ -56,7 +58,8 @@ with a happy expression on her face.");
 MsgDisp("主人公","\"...Hey, is it good?\"");
 MsgClear();
 MsgDisp("","I nodded greatly, and softly put a
-hand on ｛主人公名前｝'s head.'");
+hand on ｛主人公名前｝'s
+head.'");
 MsgDisp("主人公","\"｛風真＊＊｝...?\"");
 VoicePlay("Y300100500_01_030");
 MsgDisp("Kazama","\"It's truly delicious...\"");
@@ -70,7 +73,8 @@ MsgClear();
 BGOpen("ad151",0);
 ScrFadeIn(0);
 MsgDisp("主人公","\"Your room is just the same as it was
-in elementary school, ｛風真＊＊｝. \"");
+in elementary school,
+｛風真＊＊｝. \"");
 VoicePlay("Y300100500_01_040");
 MsgDisp("Kazama","\"I've been thinking about changing it
 up a little though.\"");
@@ -78,11 +82,12 @@ MsgDisp("","This room is filled with so much of
 my feelings.");
 MsgClear();
 MsgDisp("","I want the me from back then to know
-that I'm with ｛主人公名前｝ like
+that I'm with
+｛主人公名前｝ like
 this.");
 MsgDisp("","I think it's fine to leave it like
-this...
-until we move to our new home.");
+this... until we move to our new
+home.");
 MsgClear();
 MsgClose();
 BGMStop();

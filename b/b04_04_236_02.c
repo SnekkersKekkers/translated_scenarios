@@ -32,8 +32,9 @@ I don't think I'll forget today.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040423602_04_020");
-    MsgDisp("Nanatsumori","Yeah. But it'll become a good memory of
-this summer.");
+    MsgDisp("Nanatsumori","Yeah.
+But it'll become a good memory of this
+summer.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -49,8 +50,7 @@ this summer.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_030");
-        MsgDisp("Nanatsumori","You can't read the 
-room huhー.");
+        MsgDisp("Nanatsumori","You can't read the room huhー.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -60,9 +60,8 @@ room huhー.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423602_04_040");
-        MsgDisp("Nanatsumori","My, oh my....
-you're bringing that up in this
-atmosphere?");
+        MsgDisp("Nanatsumori","My, oh my.... you're bringing that up in
+this atmosphere?");
         MsgDisp("主人公","It just came to my mind.");
         ChEye(4,2);
         ChMouth(4,4);
@@ -70,15 +69,15 @@ atmosphere?");
         VoicePlay("B040423602_04_050");
         MsgDisp("Nanatsumori","It also just came to my mind.
 Oh dear, oh dear.");
-        MsgDisp("主人公","Ugh...sorry.
-we were having so much fun too.");
+        MsgDisp("主人公","Ugh...sorry. we were having so much fun
+too.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040423602_04_060");
         MsgDisp("Nanatsumori","No problem.");
-        MsgDisp("主人公","｛七ツ森＊｝, are you nearly done with
-the homework?");
+        MsgDisp("主人公","｛七ツ森＊｝, are you
+nearly done with the homework?");
         ChEye(4,2);
         ChMouth(4,3);
         VoicePlay("B040423602_04_070");
@@ -98,12 +97,10 @@ of your notes.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040423602_04_100");
-        MsgDisp("Nanatsumori","Should we have a study 
-session in my room?");
+        MsgDisp("Nanatsumori","Should we have a study session in my room?");
         MsgDisp("主人公","Eh?");
         VoicePlay("B040423602_04_110");
-        MsgDisp("Nanatsumori","I live alone, so no
-one will disturb us.");
+        MsgDisp("Nanatsumori","I live alone, so no one will disturb us.");
         MsgDisp("主人公","But...");
         ChEye(4,4);
         ChMouth(4,4);
@@ -117,7 +114,7 @@ one will disturb us.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040423602_04_130");
-        MsgDisp("Nanatsumori","...Stop.
+        MsgDisp("Nanatsumori","... Stop.
 Sorry, it was a joke.");
         ChEye(4,2);
         ChMouth(4,1);

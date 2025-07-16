@@ -45,7 +45,7 @@ Alright, let's do our best!)");
     ScrFadeIn(0);
     VoicePlay("S120700002_07_020");
     MsgDisp("Mikage","Woah, it's already this late?
-......I guess it's time to go home.");
+...... I guess it's time to go home.");
     MsgDisp("主人公","Eh, already?");
     ChEye(7,2);
     ChMouth(7,0);

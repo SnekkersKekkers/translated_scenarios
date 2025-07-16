@@ -23,8 +23,8 @@ VoicePlay("B070301000_03_020");
 MsgDisp("Honda","No matter what books I read or what I
 search online, I can't find an answer.
 This is a first for me.");
-MsgDisp("主人公","Oh... I'm sorry for asking something so
-strange.");
+MsgDisp("主人公","Oh...
+I'm sorry for asking something so strange.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -49,8 +49,7 @@ MsgDisp("Honda","Huh!?");
 MsgDisp("主人公","Huh?");
 ChMotion(3,4);
 VoicePlay("B070301000_03_070");
-MsgDisp("Honda","Did I...
-just say that?");
+MsgDisp("Honda","Did I... just say that?");
 MsgDisp("主人公","Um, yeah.
 You said you really like me...");
 ChEye(3,1);
@@ -58,7 +57,8 @@ ChMouth(3,1);
 ChMotion(3,5);
 ChCheek(3,10);
 VoicePlay("B070301000_03_080");
-MsgDisp("Honda","Ahh! What am I saying?!");
+MsgDisp("Honda","Ahh!
+What am I saying?!");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,3);
@@ -83,7 +83,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 Wait(40,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝, thanks for walking me home.
+MsgDisp("主人公","｛本多＊＊｝, thanks for walking
+me home.
 Um... are you okay?");
 ChEye(3,2);
 ChMouth(3,0);

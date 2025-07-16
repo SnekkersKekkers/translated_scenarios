@@ -28,7 +28,8 @@ SEStop("EV_SE_712",0);
 VoicePlay("G110501100_05_010");
 MsgDisp("Hiiragi","Yes, my mind is already filled with
 thoughts about Yakisoba.");
-MsgDisp("主人公","｛柊＊＊＊｝ really likes Yakisoba, huh?");
+MsgDisp("主人公","｛柊＊＊＊｝ really likes
+Yakisoba, huh?");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
@@ -62,8 +63,8 @@ ChEyeOpenLevel(5,8);
 ChCheek(5,7);
 VoicePlay("G110501100_05_040");
 MsgDisp("Hiiragi","......I'm ashamed.");
-MsgDisp("主人公","Hehe. Shall we wrap it up here and have
-lunch?");
+MsgDisp("主人公","Hehe.
+Shall we wrap it up here and have lunch?");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);

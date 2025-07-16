@@ -11,26 +11,30 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,0 ) ;
 VoicePlay ( "D150001700_01_000" ) ;
-MsgDisp ( "Kazama","Yeah. But I thought Mikage-sensei
-was a bento kind of person?" ) ;
+MsgDisp ( "Kazama","Yeah.
+But I thought Mikage-sensei was a bento
+kind of person?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,1 ) ;
 VoicePlay ( "D150001700_07_010" ) ;
-MsgDisp ( "Mikage","I guess so. Sometimes you just want to eat
-something fun at lunch, I suppose." ) ;
+MsgDisp ( "Mikage","I guess so.
+Sometimes you just want to eat something
+fun at lunch, I suppose." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001700_01_010" ) ;
 MsgDisp ( "Kazama","I get that." ) ;
-MsgDisp ( "主人公","I get it. You two live alone, don't you?" ) ;
+MsgDisp ( "主人公","I get it.
+You two live alone, don't you?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,3 ) ;
 VoicePlay ( "D150001700_07_020" ) ;
-MsgDisp ( "Mikage","Exactly. So we leave it in your
-hands to have an enjoyable lunch break." ) ;
+MsgDisp ( "Mikage","Exactly.
+So we leave it in your hands to have an
+enjoyable lunch break." ) ;
 MsgDisp ( "主人公","Eh, I'm not entirely sure what to do
 though..." ) ;
 ChEye ( 1,4 ) ;

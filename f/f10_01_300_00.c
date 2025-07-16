@@ -7,12 +7,13 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1);
 ChOpen(21,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","Oh, ｛ひかる＊｝, ｛みちる＊｝.");
+MsgDisp("主人公","Oh, ｛ひかる＊｝,
+｛みちる＊｝.");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("F100130000_22_010");
-MsgDisp("Hikaru","...Huh?
+MsgDisp("Hikaru","... Huh?
 You're not with Kazama-kun today?");
 ChEye(21,0);
 ChMouth(21,0);
@@ -72,7 +73,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F100130000_01_020");
 MsgDisp("Kazama","What do you think people are?
-...Good grief.");
+... Good grief.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
@@ -92,8 +93,9 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F100130000_21_030");
 MsgDisp("Michiru","Well, it went just as expected.");
-MsgDisp("主人公","Um... Was there something you wanted to
-talk about?");
+MsgDisp("主人公","Um...
+Was there something you wanted to talk
+about?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);

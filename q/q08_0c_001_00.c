@@ -14,13 +14,15 @@ MsgDisp("Hiiragi","Yeah, me too. It's such fun, school trips.
 It's a shame couldn't go in primary and
 junior high school.");
 MsgDisp("主人公","Oh yeah......
-It's ｛柊＊＊＊｝'s first school trip.");
+It's ｛柊＊＊＊｝'s first school
+trip.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("Q080C00100_07_000");
-MsgDisp("Mikage","｛主人公｝, our role is important.");
+MsgDisp("Mikage","｛主人公｝, our role is
+important.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,4);

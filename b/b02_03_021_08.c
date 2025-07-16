@@ -13,5 +13,6 @@ MsgDisp("Honda","Aren't your clothes today a little
 suggestive?
 It's really getting my heart racing.");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to really like this!)");
+｛本多＊＊｝ seems to really like
+this!)");
 ChCheek(3,0);

@@ -20,10 +20,10 @@ around together for today's free period?");
     ChNanaType(0);
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("Q040400000_04_010");
-    MsgDisp("Nanatsumori","Mornin'. You're really energetic today,
-huh.");
-    MsgDisp("主人公","Hehe! Won't you come with me this the free
-time?");
+    MsgDisp("Nanatsumori","Mornin'.
+You're really energetic today, huh.");
+    MsgDisp("主人公","Hehe!
+Won't you come with me this the free time?");
     break ;
     case 4:
     case 5:
@@ -34,8 +34,10 @@ time?");
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("Q040400000_04_020");
-    MsgDisp("Nanatsumori","｛主人公｝. Mornin'.");
-    MsgDisp("主人公","Morning. So I was thinking...");
+    MsgDisp("Nanatsumori","｛主人公｝.
+Mornin'.");
+    MsgDisp("主人公","Morning.
+So I was thinking...");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("Q040400000_04_030");
@@ -45,7 +47,8 @@ time?");
     ChMotion(4,1,1);
     VoicePlay("Q040400000_04_040");
     MsgDisp("Nanatsumori","...I have my hopes up.");
-    MsgDisp("主人公","Hehe! Wanna come with me this free period?");
+    MsgDisp("主人公","Hehe!
+Wanna come with me this free period?");
     break ;
     default :
     DbgAssert(1);

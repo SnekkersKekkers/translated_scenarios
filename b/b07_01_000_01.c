@@ -6,7 +6,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_010");
 MsgDisp("Kazama","TV?
 Geez, you're such a sheep.");
-MsgDisp("主人公","Does ｛風真＊＊｝ not watch it at all?");
+MsgDisp("主人公","Does ｛風真＊＊｝ not watch it
+at all?");
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -23,13 +24,13 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B070100000_01_030");
-MsgDisp("Kazama","Right? 
+MsgDisp("Kazama","Right?
 I like shows anyone can enjoy...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B070100000_01_040");
-MsgDisp("Kazama","Hey like \"Fish the World\". ");
+MsgDisp("Kazama","Hey like \"Fish the World\".");
 MsgDisp("主人公","You like fishing shows?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -39,7 +40,8 @@ VoicePlay("B070100000_01_050");
 MsgDisp("Kazama","The \"Eating Around the Globe Series\" is
 good too. The episode about British home
 cooking was incredible.");
-MsgDisp("主人公","(Umm, ｛風真＊＊｝ does like TV...)");
+MsgDisp("主人公","(Umm, ｛風真＊＊｝ does like
+TV...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

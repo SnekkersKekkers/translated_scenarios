@@ -78,9 +78,11 @@ hold back what you think.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040409002_04_090");
-        MsgDisp("Nanatsumori","Right. Without hesitation. Say what's on
-your mind.");
-        MsgDisp("主人公","｛七ツ森＊｝...... yeah, got it!");
+        MsgDisp("Nanatsumori","Right.
+Without hesitation.
+Say what's on your mind.");
+        MsgDisp("主人公","｛七ツ森＊｝...... yeah, got
+it!");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);

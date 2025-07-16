@@ -1,14 +1,15 @@
 BGMStop();
 BGOpen("sc710",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Yay! The last performance of my high
-school life was a huge success∈");
+MsgDisp("主人公","Yay!
+The last performance of my high school
+life was a huge success∈");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(32,254,0,0,2,#1,#1,0,0);
 VoicePlay("P553200008_32_000");
-MsgDisp("VP Himuro","Phew... Seems like you perfectly gave it
-your all.");
+MsgDisp("VP Himuro","Phew...
+Seems like you perfectly gave it your all.");
 MsgDisp("主人公","Ah, Himuro-sensei!
 Yes.");
 ChEye(32,0);

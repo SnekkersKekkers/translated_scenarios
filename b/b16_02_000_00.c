@@ -3,7 +3,7 @@ NSSOpen(2,255,0,4,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160200000_02_000");
-MsgDisp("Sassa","...Hm? 
+MsgDisp("Sassa","... Hm?
 Did something happen?");
 MsgSel("It's nothing","Don't pay it any mind");
 switch (MsgSelRsltGet()){
@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     NSSEye(2,0);
     NSSMouth(2,4);
     VoicePlay("B160200000_02_010");
-    MsgDisp("Sassa","Hmm, it seems like
-something's up though?");
+    MsgDisp("Sassa","Hmm, it seems like something's up though?");
     break ;
     case 1:
     NSSEye(2,3);

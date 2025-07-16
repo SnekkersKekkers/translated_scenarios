@@ -50,7 +50,8 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D130B00101_03_020");
-MsgDisp("Honda","Ehh∋　The first time?");
+MsgDisp("Honda","Ehh∋
+The first time?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,2,1);
@@ -149,8 +150,9 @@ ChMotion(1,3);
 VoicePlay("D130B00101_01_080");
 MsgDisp("Kazama","No way!
 Ahahaha!");
-MsgDisp("主人公","(Hehe! I have so many good memories with
-these guys, just now was a new one!)");
+MsgDisp("主人公","(Hehe!
+I have so many good memories with these
+guys, just now was a new one!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -115,15 +115,15 @@ It had a delayed fall∈");
         MsgDisp("Sassa","That...
 Does that count as me winning it?");
         MsgDisp("主人公","Yeah, of course!
-It's ｛颯砂＊＊｝'s.");
+It's ｛颯砂＊＊｝'s .");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040216002_02_100");
         MsgDisp("Sassa","You really are my goddess of victory.
 If you're there, I can't lose.");
-        MsgDisp("主人公","(｛颯砂＊＊｝... I'm happy, but isn't that
-exaggerated...)");
+        MsgDisp("主人公","(｛颯砂＊＊｝...
+I'm happy, but isn't that exaggerated...)");
         break ;
         default :
         DbgAssert(1);

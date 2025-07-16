@@ -50,7 +50,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020610000_06_070");
-MsgDisp("Himuro","Yes. You show all your emotions.");
+MsgDisp("Himuro","Yes.
+You show all your emotions.");
 MsgDisp("主人公","I-Is that so......?");
 ChEye(6,0);
 ChMouth(6,3);
@@ -62,14 +63,15 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020610000_06_090");
-MsgDisp("Himuro","But I think it's good. Honestly. Because
-you're like that, I——");
+MsgDisp("Himuro","But I think it's good.
+Honestly.
+Because you're like that, I——");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,10);
 VoicePlay("G020610000_06_100");
-MsgDisp("Himuro","......What am I saying?
+MsgDisp("Himuro","...... What am I saying?
 Let's head back.
 I'll walk you home.");
 MsgDisp("主人公","(｛氷室＊＊｝......?)");

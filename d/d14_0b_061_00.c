@@ -8,9 +8,9 @@ ChMotion(4,0,1);
 ChCheek(4,0);
 VoiceEVSPlay(3);
 VoicePlay("D140B06100_03_000");
-MsgDisp("Honda","｛主人公｝. It might be a bit sneaky to
-ask you this when Ryo-kun isn't around
-but.");
+MsgDisp("Honda","｛主人公｝.
+It might be a bit sneaky to ask you this
+when Ryo-kun isn't around but.");
 MsgDisp("主人公","Hm?");
 ChMotion(3,1,1);
 VoicePlay("D140B06100_03_010");
@@ -61,7 +61,8 @@ ChMotion(3,4,1);
 VoicePlay("D140B06100_03_040");
 MsgDisp("Honda","Is it no good?
 Can you not tell me?");
-MsgDisp("主人公","Hey, how about you ask ｛風真＊＊｝?");
+MsgDisp("主人公","Hey, how about you ask
+｛風真＊＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -74,11 +75,12 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("D140B06100_04_030");
-MsgDisp("Nanatsumori","...｛主人公｝. You've gotten pretty
-good at dodging Dahon.");
+MsgDisp("Nanatsumori","... ｛主人公｝.
+You've gotten pretty good at dodging
+Dahon.");
 MsgDisp("主人公","(｛風真＊＊｝.... is a little kinder when
-it's just the two of us. But, I can't say
-that right...?)");
+it's just the two of us.
+But, I can't say that right...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

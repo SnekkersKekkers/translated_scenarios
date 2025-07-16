@@ -45,8 +45,7 @@ Please prepare them deliciously.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040724200_07_030");
-    MsgDisp("Mikage","Too early, that's the
-last resort.");
+    MsgDisp("Mikage","Too early, that's the last resort.");
     MsgDateResultDisp();
     break ;
     default :

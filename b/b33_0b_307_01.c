@@ -69,8 +69,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30701_01_020");
-MsgDisp("Kazama","So that's what
-Nanatsumori finds cute.");
+MsgDisp("Kazama","So that's what Nanatsumori finds cute.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -90,7 +89,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B30701_04_050");
-MsgDisp("Nanatsumori","...I've done it.
+MsgDisp("Nanatsumori","... I've done it.
 I turned on Dahon's switch.");
 ChEye(1,4);
 ChMouth(1,2);
@@ -107,8 +106,9 @@ VoicePlay("B330B30701_04_060");
 MsgDisp("Nanatsumori","Yeah, sorry.
 I'll buy the shoebill once I'm done
 listening.");
-MsgDisp("主人公","(Hehe. Seems like ｛七ツ森＊｝ really
-likes the shoebill model!)");
+MsgDisp("主人公","(Hehe.
+Seems like ｛七ツ森＊｝
+really likes the shoebill model!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

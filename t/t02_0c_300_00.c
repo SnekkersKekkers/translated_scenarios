@@ -14,8 +14,8 @@ ChEye(5,4);
 VoicePlay("T020C30000_05_010");
 MsgDisp("Hiiragi","Congratulations on graduating.");
 MsgDisp("主人公","Thank you.
-｛柊＊＊＊｝, congratulations to you too
-on graduating.");
+｛柊＊＊＊｝, congratulations to
+you too on graduating.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -23,9 +23,9 @@ ChEyeOpenLevel(5,0);
 VoicePlay("T020C30000_05_020");
 MsgDisp("Hiiragi","It's a miracle that I get to graduate
 together with you.");
-MsgDisp("主人公","Yes. ｛柊＊＊＊｝, you worked hard on both
-your studies and student council
-activities.");
+MsgDisp("主人公","Yes. ｛柊＊＊＊｝, you worked
+hard on both your studies and student
+council activities.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -41,8 +41,8 @@ MsgDisp("Hiiragi","I fondly remember you having fun sitting
 on that bench and drawing pictures.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","｛柊＊＊＊｝ often used to work at that
-window.
+MsgDisp("主人公","｛柊＊＊＊｝ often used to work
+at that window.
 As that was the student council room.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
@@ -50,8 +50,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(5,2);
 ChOpen(6,254,0,0,0,#1,#1,0,1);
 VoicePlay("T020C30000_06_000");
-MsgDisp("Himuro","Sorry to interrupt your 
-reminiscing.");
+MsgDisp("Himuro","Sorry to interrupt your reminiscing.");
 ChEye(5,3);
 ChMouth(5,2);
 MsgDisp("主人公","｛氷室＊＊｝?");
@@ -86,8 +85,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020C30000_06_030");
 MsgDisp("Himuro","Haa... either way, it's unavoidable for me
-to be left behind. I'm staying here, after
-all.");
+to be left behind.
+I'm staying here, after all.");
 ChEye(5,2);
 ChEyeOpenLevel(5,9);
 MsgDisp("主人公","｛氷室＊＊｝......");
@@ -112,8 +111,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("T020C30000_07_010");
-MsgDisp("Mikage","｛主人公｝, you've helped me out so
-much these past three years.");
+MsgDisp("Mikage","｛主人公｝, you've helped
+me out so much these past three years.");
 MsgDisp("主人公","No, it was nothing...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -132,12 +131,14 @@ MsgDisp("Mikage","Everything from your kindness, your
 seriousness to your slight
 absent-mindedness has helped me so much,
 thank you.");
-MsgDisp("主人公","｛御影＊＊｝...... Yes!");
+MsgDisp("主人公","｛御影＊＊｝......
+Yes!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("T020C30000_07_040");
-MsgDisp("Mikage","Also... Inori, don't worry.");
+MsgDisp("Mikage","Also...
+Inori, don't worry.");
 ChEye(5,0);
 ChMouth(5,2);
 ChEye(6,0);
@@ -149,8 +150,7 @@ ChEye(7,3);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020C30000_07_050");
-MsgDisp("Mikage","I'm also one of the people 
-staying behind.");
+MsgDisp("Mikage","I'm also one of the people staying behind.");
 ChEye(5,4);
 ChMouth(5,4);
 ChEye(6,0);
@@ -173,8 +173,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("T020C30000_06_060");
-MsgDisp("Himuro","...Really? If that's the case, I'll
-forgive you for leaving me behind today.");
+MsgDisp("Himuro","... Really?
+If that's the case, I'll forgive you for
+leaving me behind today.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -204,8 +205,9 @@ ChMotion(7,1);
 VoicePlay("T020C30000_07_080");
 MsgDisp("Mikage","...After I send Inori off, I'll talk it
 over with Molly and make a decision.");
-MsgDisp("主人公","Hehe. Do you think Molly-chan will want to
-come back soon?");
+MsgDisp("主人公","Hehe.
+Do you think Molly-chan will want to come
+back soon?");
 ChEye(5,4);
 ChEye(6,0);
 ChMouth(6,4);

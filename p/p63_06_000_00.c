@@ -13,13 +13,14 @@ wonder if everyone will come...?)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600000_06_000");
     MsgDisp("Himuro","Is this the Gardening Club?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. You came?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+You came?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P630600000_06_010");
     MsgDisp("Himuro","It's because I had some spare time.
-...Then, what are you doing?");
+... Then, what are you doing?");
     MsgDisp("主人公","We're serving tea and cookies made with
 the herbs grown by the club.");
     ChEye(6,0);
@@ -45,7 +46,8 @@ wonder if everyone will come...?)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600000_06_030");
     MsgDisp("Himuro","I came.");
-    MsgDisp("主人公","｛氷室＊＊｝! Welcome.");
+    MsgDisp("主人公","｛氷室＊＊｝!
+Welcome.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -58,8 +60,8 @@ Gardening Club.");
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("P630600000_06_050");
-    MsgDisp("Himuro","Ah, I see.
-...looks like it's filled with love.");
+    MsgDisp("Himuro","Ah, I see. ...looks like it's filled with
+love.");
     MsgDisp("主人公","Of course, it's fully loaded▼");
     ChEye(6,0);
     ChMouth(6,0);

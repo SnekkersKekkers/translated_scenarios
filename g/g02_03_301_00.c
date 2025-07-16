@@ -32,8 +32,9 @@ MsgDisp("Honda","I didn't understand why the atmosphere was
 like that, so after that......I think I
 talked about the history of meteorological
 observations.");
-MsgDisp("主人公","Ah! Was it when we were talking about how
-the weather's been bad recently?");
+MsgDisp("主人公","Ah!
+Was it when we were talking about how the
+weather's been bad recently?");
 ChMouth(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -53,8 +54,9 @@ VoicePlay("G020330100_03_060");
 MsgDisp("Honda","So I'll hold back for a while!
 I'll refrain from that unless it's with
 you!");
-MsgDisp("主人公","(Can he really hold back...... It might be
-tough for ｛本多＊＊｝? )");
+MsgDisp("主人公","(Can he really hold back......
+It might be tough for
+｛本多＊＊｝? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

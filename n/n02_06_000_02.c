@@ -16,7 +16,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("N020600002_06_010");
     MsgDisp("Himuro","Next time, get a score that is worth
 commenting on.");
-    MsgDisp("主人公","(Oof. I have to study a little harder.)");
+    MsgDisp("主人公","(Oof.
+I have to study a little harder.)");
     break ;
     case 3:
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
@@ -32,7 +33,8 @@ Is it really just that?");
     VoicePlay("N020600002_06_030");
     MsgDisp("Himuro","If you're happy with it, I guess it's
 fine?");
-    MsgDisp("主人公","(Oof. I have to study a little harder...)");
+    MsgDisp("主人公","(Oof.
+I have to study a little harder...)");
     break ;
     case 4:
     case 5:

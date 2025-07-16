@@ -1,4 +1,5 @@
-MsgDisp("主人公","(...Ah!
+MsgDisp("主人公","(...
+Ah!
 I don't have enough pocket money!)");
 ChEye(1,2);
 ChMouth(1,3);

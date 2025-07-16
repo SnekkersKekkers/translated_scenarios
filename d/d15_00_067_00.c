@@ -27,7 +27,8 @@ ChMouth ( 6,1 ) ;
 ChMotion ( 6,0 ) ;
 VoicePlay ( "D150006700_06_020" ) ;
 MsgDisp ( "Himuro","The illustration is unpleasant." ) ;
-MsgDisp ( "主人公","That's not very nice to Mr. Eggplant." ) ;
+MsgDisp ( "主人公","That's not very nice to Mr.
+Eggplant." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,1 ) ;
 ChMotion ( 6,4 ) ;

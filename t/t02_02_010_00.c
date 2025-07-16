@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,7,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝... What are you doing here?");
+MsgDisp("主人公","｛颯砂＊＊｝...
+What are you doing here?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -135,9 +136,9 @@ SEPlay("EV_SE_544");
 ChOpen(2,254,7,4,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(2);
 VoicePlay("T020201000_02_180");
-MsgDisp("Sassa","｛主人公｝, I want to run with you.
-I want to make my dreams come true with
-you.");
+MsgDisp("Sassa","｛主人公｝, I want to run
+with you. I want to make my dreams come
+true with you.");
 MsgDisp("主人公","!");
 ChEye(2,4);
 ChMouth(2,0);

@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408502_04_000");
-MsgDisp("Nanatsumori","Hmmmー...... Don't you want something
-warm?");
+MsgDisp("Nanatsumori","Hmmmー......
+Don't you want something warm?");
 MsgSel("Some hot chocolate would be nice.","Am I not warm enough?","A steaming meat bun...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040408502_04_010");
-    MsgDisp("Nanatsumori","Nice! I wonder if there's a place around
-here that does hot chocolate.");
+    MsgDisp("Nanatsumori","Nice!
+I wonder if there's a place around here
+that does hot chocolate.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,7 +35,7 @@ here that does hot chocolate.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040408502_04_020");
-        MsgDisp("Nanatsumori","...Hey.
+        MsgDisp("Nanatsumori","... Hey.
 Do you usually say those things?");
         MsgDateResultDisp();
         break ;
@@ -54,26 +55,24 @@ like that?");
         ChMotion(4,1,1);
         ChCheek(4,0);
         VoicePlay("B040408502_04_040");
-        MsgDisp("Nanatsumori","Ahh, 
-you meant that kinda thing...");
+        MsgDisp("Nanatsumori","Ahh, you meant that kinda thing...");
         ChEye(4,5);
         ChMouth(4,4);
         ChMotion(4,0,1);
         ChCheek(4,8);
         VoicePlay("B040408502_04_050");
-        MsgDisp("Nanatsumori","∋
-...H-Hugging? Is that okay?");
+        MsgDisp("Nanatsumori","∋ ... H-Hugging?
+Is that okay?");
         MsgDisp("主人公","It's a bit embarrassing but, I don't have
 any hand warmers or anything like that.
-And ｛七ツ森＊｝ is sensitive to the
-cold.");
+And ｛七ツ森＊｝ is
+sensitive to the cold.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);
         ChCheek(4,10);
         VoicePlay("B040408502_04_060");
-        MsgDisp("Nanatsumori","Eh...well, I 
-am sensitive to the cold.");
+        MsgDisp("Nanatsumori","Eh...well, I am sensitive to the cold.");
         ChEye(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040408502_04_070");
@@ -116,9 +115,9 @@ Are you warm?");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040408502_04_120");
-        MsgDisp("Nanatsumori","Conclusion. This rapid rise in body
-temperature can cause serious physical and
-mental errors.");
+        MsgDisp("Nanatsumori","Conclusion.
+This rapid rise in body temperature can
+cause serious physical and mental errors.");
         MsgDisp("主人公","???");
         break ;
         default :
@@ -132,8 +131,9 @@ mental errors.");
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040408502_04_130");
-    MsgDisp("Nanatsumori","Ahー.... I can't stand it when you give a
-specific example.");
+    MsgDisp("Nanatsumori","Ahー....
+I can't stand it when you give a specific
+example.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040723602_07_010");
-    MsgDisp("Mikage","...That's right.
+    MsgDisp("Mikage","... That's right.
 I got it,");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -51,8 +51,7 @@ that.");
         ChMouth(7,1);
         ChMotion(7,1);
         VoicePlay("B040723602_07_030");
-        MsgDisp("Mikage","Is this so that we
-don't get separated?");
+        MsgDisp("Mikage","Is this so that we don't get separated?");
         MsgDisp("主人公","Umm, yes.
 That's right.");
         ChEye(7,2);
@@ -78,7 +77,8 @@ So as you'd like.");
         MsgDisp("Mikage","Look. Now, there's no need to worry we'll
 get separated, but you can't see anything,
 right?～?");
-        MsgDisp("主人公","I can see ｛御影＊＊｝ very well.");
+        MsgDisp("主人公","I can see ｛御影＊＊｝
+very well.");
         ChEye(7,1);
         ChMouth(7,1);
         ChMotion(7,1);
@@ -95,14 +95,14 @@ right?～?");
         ChMotion(7,3);
         VoicePlay("B040723602_07_080");
         MsgDisp("Mikage","Heheh, I finally surprised you.");
-        MsgDisp("主人公","Over there!
-the skull bear is changing colors∈");
+        MsgDisp("主人公","Over there! the skull bear is changing
+colors∈");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723602_07_090");
-        MsgDisp("Mikage","Ha... what's with that? I feel like I
-can't win with you.");
+        MsgDisp("Mikage","Ha... what's with that?
+I feel like I can't win with you.");
         MsgDisp("主人公","(Haa, my heart might be racing a
 little...)");
         break ;
@@ -117,8 +117,7 @@ little...)");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040723602_07_100");
-    MsgDisp("Mikage","I guess my head is useful
-at times huh?");
+    MsgDisp("Mikage","I guess my head is useful at times huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

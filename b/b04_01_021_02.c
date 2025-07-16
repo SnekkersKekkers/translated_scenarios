@@ -56,8 +56,7 @@ appeal.");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040102102_01_040");
-        MsgDisp("Kazama","......
-It's like I can't hear it at all.");
+        MsgDisp("Kazama","...... It's like I can't hear it at all.");
         MsgDisp("主人公","That's no good.
 Listen really close.
 Close your eyes.");
@@ -73,7 +72,8 @@ Close your eyes.");
         ChCheek(1,7);
         VoicePlay("B040102102_01_060");
         MsgDisp("Kazama","... Is this good?");
-        MsgDisp("主人公","Yeah... Hehehe.");
+        MsgDisp("主人公","Yeah...
+Hehehe.");
         ChMotion(1,3);
         Wait(10,0);
         ChEye(1,0);
@@ -81,8 +81,9 @@ Close your eyes.");
         ChCheek(1,0);
         VoicePlay("B040102102_01_070");
         MsgDisp("Kazama","What is it?");
-        MsgDisp("主人公","Sorry. It's just, you're standing there
-with your eyes closed.");
+        MsgDisp("主人公","Sorry.
+It's just, you're standing there with your
+eyes closed.");
         ChEye(1,1);
         ChMouth(1,1);
         ChMotion(1,1);

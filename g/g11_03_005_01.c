@@ -60,8 +60,7 @@ ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,1);
 VoicePlay("G110300501_03_050");
-MsgDisp("Honda","But usually it costs around
-１０ rich.");
+MsgDisp("Honda","But usually it costs around １０ rich.");
 MsgDisp("主人公","Woah, that's a lot of money...");
 ChEye(3,0);
 ChMouth(3,1);

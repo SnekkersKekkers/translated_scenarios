@@ -49,9 +49,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100002_01_050");
-MsgDisp("Kazama","Yep. There's a rumor that he's secretly
-keeping ostrich chicks to breed them
-strangely.");
+MsgDisp("Kazama","Yep.
+There's a rumor that he's secretly keeping
+ostrich chicks to breed them strangely.");
 MsgDisp("主人公","And that ostrich farm...
 Don't tell me they're edible?");
 ChEye(1,3);
@@ -60,4 +60,5 @@ ChMotion(1,3);
 VoicePlay("F020100002_01_060");
 MsgDisp("Kazama","There you go!");
 MsgDisp("主人公","(...While we talked about that story,
-｛風真＊＊｝ and I had fun going home.)");
+｛風真＊＊｝ and I had fun
+going home.)");

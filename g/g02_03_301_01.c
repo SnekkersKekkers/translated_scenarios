@@ -16,7 +16,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020330101_03_020");
-MsgDisp("Honda","Yeah. And it happened five times in a row.");
+MsgDisp("Honda","Yeah.
+And it happened five times in a row.");
 MsgDisp("主人公","Huh, that many times∋");
 ChEye(3,4);
 ChMouth(3,4);

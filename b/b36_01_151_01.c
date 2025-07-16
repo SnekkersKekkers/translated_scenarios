@@ -10,7 +10,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_514");
 Wait(50,0);
 VoicePlay("B360115101_01_000");
-MsgDisp("Kazama","Seriously? A 7 and 10 split.");
+MsgDisp("Kazama","Seriously?
+A 7 and 10 split.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,255,7,2,0,0,#1,0,0);
@@ -20,15 +21,16 @@ VoicePlay("B360115101_01_010");
 MsgDisp("Kazama","There's two bad ones left.
 Seems like a herculean task even for a
 pro.");
-MsgDisp("主人公","But ｛風真＊＊｝ could probably knock them
-down.");
+MsgDisp("主人公","But ｛風真＊＊｝ could probably
+knock them down.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B360115101_01_020");
 MsgDisp("Kazama","O-Oh.
 If you say so, I guess I'll try it.");
-MsgDisp("主人公","Yeah! ｛風真＊＊｝, good luck!");
+MsgDisp("主人公","Yeah!
+｛風真＊＊｝, good luck!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1);
@@ -40,7 +42,8 @@ MsgDisp("Kazama","Haaー.
 This is our alone time!");
 SEPlay("EV_SE_786");
 SEWait();
-MsgDisp("主人公","Amazing! ｛風真＊＊｝!");
+MsgDisp("主人公","Amazing!
+｛風真＊＊｝!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,255,0,3,3,#1,#1,0,0,0,30);
@@ -80,8 +83,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B360115101_01_090");
 MsgDisp("Kazama","If I throw with this image in mind, I
 might come out with a high score.");
-MsgDisp("主人公","(｛風真＊＊｝...... I think finding a
-different technique might be better?)");
+MsgDisp("主人公","(｛風真＊＊｝......
+I think finding a different technique
+might be better?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

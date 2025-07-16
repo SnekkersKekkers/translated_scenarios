@@ -5,7 +5,8 @@ ChOpen(21,254,0,0,4,#1,#1,0,1,0,0);
 ChOpen(6,254,0,0,0,#1,#1,0,2,0,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, it's ｛みちる＊｝ and ｛氷室＊＊｝ )");
+MsgDisp("主人公","(Ah, it's ｛みちる＊｝
+and ｛氷室＊＊｝ )");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -24,8 +25,9 @@ ChMotion(21,1);
 VoicePlay("F102120001_21_010");
 MsgDisp("Michiru","Hey!
 You really are a contrararian.");
-MsgDisp("主人公","Hey, ｛みちる＊｝, ｛氷室＊＊｝! What are
-you two talking about?");
+MsgDisp("主人公","Hey, ｛みちる＊｝,
+｛氷室＊＊｝!
+What are you two talking about?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -49,8 +51,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F102120001_21_030");
-MsgDisp("Michiru","Haa...
-he ran away again.");
+MsgDisp("Michiru","Haa... he ran away again.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

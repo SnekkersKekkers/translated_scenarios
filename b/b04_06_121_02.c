@@ -37,7 +37,8 @@ one.");
         ChMotion(6,0);
         VoicePlay("B040612102_06_020");
         MsgDisp("Himuro","...Then, I'll buy it for you.");
-        MsgDisp("主人公","Eh? It's fine!
+        MsgDisp("主人公","Eh?
+It's fine!
 I'll but it.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -83,8 +84,8 @@ presents for each other.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040612102_06_080");
-        MsgDisp("Himuro","And it's a reminder of today...
-so I'll also cherish it.");
+        MsgDisp("Himuro","And it's a reminder of today... so I'll
+also cherish it.");
         MsgDisp("主人公","Yeah...!");
         break ;
         default :

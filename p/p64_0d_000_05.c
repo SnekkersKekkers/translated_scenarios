@@ -31,6 +31,6 @@ MsgDisp("Michiru","There's still room for improvement...
 I get the impression it's annunfomoshed
 product.");
 MsgDisp("主人公","(Uughh...
-I failed  at the very end...)");
+I failed at the very end...)");
 MsgClose();
 ScrFadeOut(0,0);

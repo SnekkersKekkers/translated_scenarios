@@ -19,8 +19,8 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","Haaa...... I really can't read your
-actions.");
+MsgDisp("Himuro","Haaa......
+I really can't read your actions.");
 VoicePlay("T020620000_06_270");
 ChEye(6,0);
 ChMouth(6,0);
@@ -57,8 +57,8 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoiceEVSPlay(6);
 VoicePlay("T020620000_06_310");
-MsgDisp("Himuro","｛主人公｝. From now on, we'll always
-be together.");
+MsgDisp("Himuro","｛主人公｝.
+From now on, we'll always be together.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

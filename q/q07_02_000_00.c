@@ -18,15 +18,17 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_010");
-MsgDisp("Sassa","Yeah. We came at the right time, didn't
-we? This kind of thing is important.");
+MsgDisp("Sassa","Yeah.
+We came at the right time, didn't we?
+This kind of thing is important.");
 MsgDisp("主人公","Hehe, yes.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("Q070200000_02_020");
 MsgDisp("Sassa","I think we both have that kind of luck.");
-MsgDisp("主人公","Haha, typical of you, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Haha, typical of you,
+｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -116,7 +118,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_110");
 MsgDisp("Sassa","Well then, let's take a rest here.");
-MsgDisp("主人公","Yeah. The building and the flowerbeds are
+MsgDisp("主人公","Yeah.
+The building and the flowerbeds are
 beautiful and relaxing.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -135,8 +138,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_140");
-MsgDisp("Sassa","Hmmm...... I mean, it's not so easy to
-shut down a returning way.");
+MsgDisp("Sassa","Hmmm......
+I mean, it's not so easy to shut down a
+returning way.");
 MsgDisp("主人公","Cutting off the retreat, huh......
 It sure should be difficult.");
 ChEye(2,0);
@@ -171,8 +175,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q070200000_02_190");
 MsgDisp("Sassa","I'm so simple.");
-MsgDisp("主人公","｛颯砂＊＊｝, you're not simple as you
-think. Aren't you the one who trains
+MsgDisp("主人公","｛颯砂＊＊｝, you're not simple as
+you think. Aren't you the one who trains
 everyday with a detailed training menu?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -187,8 +191,8 @@ ChMotion(2,0);
 VoicePlay("Q070200000_02_210");
 MsgDisp("Sassa","Like the traders who came here, maybe I
 could push myself too ......");
-MsgDisp("主人公","(I'd be happy if I could help ｛颯砂＊＊｝
-in any way......)");
+MsgDisp("主人公","(I'd be happy if I could help
+｛颯砂＊＊｝ in any way......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

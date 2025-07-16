@@ -5,13 +5,13 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Welcome! Ah, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Welcome!
+Ah, ｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550200000_02_000");
-    MsgDisp("Sassa","Ah, so you're working
-part-time here.");
+    MsgDisp("Sassa","Ah, so you're working part-time here.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -31,24 +31,24 @@ some snacks.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I550200000_02_030");
-    MsgDisp("Sassa","Hm...... Seasonal snacks for three,
-please. I'll leave it to you.");
+    MsgDisp("Sassa","Hm......
+Seasonal snacks for three, please.
+I'll leave it to you.");
     MsgDisp("主人公","Yes.
 Please wait a little.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("I550200000_02_040");
-    MsgDisp("Sassa","Wow, so you can eat
-inside the store, too.");
+    MsgDisp("Sassa","Wow, so you can eat inside the store, too.");
     MsgDisp("主人公","Yes, please feel free next time.
 Ah, were you okay with sweets?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I550200000_02_050");
-    MsgDisp("Sassa","Me? I'll eat anything as long as it's
-good.");
+    MsgDisp("Sassa","Me?
+I'll eat anything as long as it's good.");
     MsgDisp("主人公","Hehe, it's all delicious.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -120,16 +120,16 @@ food just serve as an appetizer?)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Welcome.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I550200000_02_130");
-    MsgDisp("Sassa","｛主人公｝, you're working hard again
-today, huh.");
-    MsgDisp("主人公","Yes, what are you looking for
-today?");
+    MsgDisp("Sassa","｛主人公｝, you're working
+hard again today, huh.");
+    MsgDisp("主人公","Yes, what are you looking for today?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -142,8 +142,9 @@ So I just ended up coming.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("I550200000_02_150");
-    MsgDisp("Sassa","......Hm? I realized this as I was saying
-it, but aren't my actions kinda bad?");
+    MsgDisp("Sassa","...... Hm?
+I realized this as I was saying it, but
+aren't my actions kinda bad?");
     MsgDisp("主人公","Huh, I don't think so.
 You came to check on me, right?");
     ChEye(2,0);

@@ -40,7 +40,7 @@ work to bring them all the way here.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040208200_02_030");
-    MsgDisp("Sassa","Hey, don't talk as if I'm like a dog. ");
+    MsgDisp("Sassa","Hey, don't talk as if I'm like a dog.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

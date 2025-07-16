@@ -2,8 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home.)");
-MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is over there.
-Let's chat a bit before we head home.)");
+MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is
+over there. Let's chat a bit before we
+head home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -41,7 +42,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G110100700_01_030");
-MsgDisp("Kazama","......Hm?
+MsgDisp("Kazama","...... Hm?
 I wonder why that is?");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Eh?");

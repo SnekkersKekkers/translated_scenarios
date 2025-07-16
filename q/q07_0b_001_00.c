@@ -2,8 +2,9 @@ BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc820",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow! The field is filled with golden
-flowers! So pretty......");
+MsgDisp("主人公","Wow!
+The field is filled with golden flowers!
+So pretty......");
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,30);
 ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
@@ -13,8 +14,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070B00100_03_000");
-MsgDisp("Honda","Mhmmhm. They're called Marigolds. They all
-have different types of yellow.");
+MsgDisp("Honda","Mhmmhm.
+They're called Marigolds.
+They all have different types of yellow.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

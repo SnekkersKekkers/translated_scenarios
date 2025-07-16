@@ -11,13 +11,15 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("P030500000_05_000");
     MsgDisp("Hiiragi","Please excuse me.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Welcome!");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -49,15 +51,17 @@ Although I must say......");
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChOpen(5,254,4,3,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P030500000_05_040");
-    MsgDisp("Hiiragi","｛主人公｝, quite successful, aren't
-we?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Welcome.");
+    MsgDisp("Hiiragi","｛主人公｝, quite
+successful, aren't we?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+Welcome.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -69,8 +73,9 @@ pleasant customer service skills.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P030500000_05_060");
-    MsgDisp("Hiiragi","Haha. Then, I'll be looking forward to a
-fun tea time with you as well.");
+    MsgDisp("Hiiragi","Haha.
+Then, I'll be looking forward to a fun tea
+time with you as well.");
     MsgDisp("主人公","Yes, of course.
 I'll have them ready a table for one.");
     ChEye(5,3);

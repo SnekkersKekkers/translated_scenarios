@@ -10,7 +10,7 @@ switch (ChPrmGet(21,6)){
     case 5:
     ScrFadeIn(0);
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","Huh...a phone call?
+    MsgDisp("主人公","Huh... a phone call?
 Oh, it's ｛みちる＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
@@ -20,8 +20,9 @@ Oh, it's ｛みちる＊｝.");
 Are you free to talk right now?");
     MsgDisp("主人公","Sure, what's up?");
     VoicePlay("U012100000_21_010");
-    MsgDisp("Michiru","I know it's sudden but......Would you like
-to go to the shopping mall with me?");
+    MsgDisp("Michiru","I know it's sudden but......
+Would you like to go to the shopping mall
+with me?");
     MsgSel("Of course I'll go!","Sorry but I can't......");
     switch (MsgSelRsltGet()){
         case 0:
@@ -36,8 +37,8 @@ Well, maybe some other time then!");
         case 1:
         VoicePlay("U012100000_21_030");
         MsgDisp("Michiru","I see.
-I was kind of in a hurry...I guess it
-can't be helped, see you later.");
+I was kind of in a hurry...
+I guess it can't be helped, see you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(She went through all of that trouble to

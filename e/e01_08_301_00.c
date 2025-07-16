@@ -11,7 +11,8 @@ ChEye(8,3);
 ChMotion(8,3,1);
 VoiceEVSPlay(8);
 VoicePlay("E010830100_08_000");
-MsgDisp("Daichi","｛主人公｝. What a coincidence!");
+MsgDisp("Daichi","｛主人公｝.
+What a coincidence!");
 MsgDisp("主人公","Yeah.
 Are you meeting with someone?");
 ChEye(8,3);
@@ -42,8 +43,7 @@ ChMouth(8,4);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("E010830100_08_020");
-MsgDisp("Daichi","Did everything go well,
-big bro?");
+MsgDisp("Daichi","Did everything go well, big bro?");
 ChEyeOpenLevel(8,#1);
 ChEye(9,3);
 ChMouth(9,0);

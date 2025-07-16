@@ -8,8 +8,7 @@ MsgClear();
 MsgDisp("","Modern Japanese is a subject where I
 always stumble at the trick
 questions, and never get full marks.");
-MsgDisp("","Full marks!
-100 points, full score!");
+MsgDisp("","Full marks! 100 points, full score!");
 MsgClear();
 MsgDisp("","I can get full marks in other
 subjects, but only in modern japanese
@@ -24,7 +23,7 @@ in one hand, I'm currently headin' ta
 Habataki High School.");
 MsgDisp("","In order ta show that girl.");
 MsgClear();
-MsgDisp("","...It's childish, huh?
+MsgDisp("","... It's childish, huh?
 Maybe, if I go to show it to her,
 I'll get laughed at.");
 MsgDisp("","I've become a bit worried.");

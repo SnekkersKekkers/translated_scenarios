@@ -28,8 +28,9 @@ We get along huh.");
     ChMotion(6,0);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040602201_06_020");
-    MsgDisp("Himuro","Hmmm. Well, maybe with this you'll have a
-chance to like it.");
+    MsgDisp("Himuro","Hmmm.
+Well, maybe with this you'll have a chance
+to like it.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -39,7 +40,7 @@ chance to like it.");
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("B040602201_06_030");
-    MsgDisp("Himuro","...Ha?
+    MsgDisp("Himuro","... Ha?
 Were you listening to the question?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

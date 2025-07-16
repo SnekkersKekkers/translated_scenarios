@@ -18,10 +18,8 @@ economics today, didn't you?");
 MsgDisp("主人公","Yeah.");
 ChMouth(1,0);
 VoicePlay("D140B03400_01_010");
-MsgDisp("Kazama","Wasn't it a 
-cooking class?");
-MsgDisp("主人公","That's right/
-We made pound cake.");
+MsgDisp("Kazama","Wasn't it a cooking class?");
+MsgDisp("主人公","That's right/ We made pound cake.");
 ChEye(4,3);
 ChMouth(4,4);
 ChMotion(4,5,1);
@@ -39,7 +37,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D140B03400_04_010");
-MsgDisp("Nanatsumori","...Hey, do you have any left?
+MsgDisp("Nanatsumori","... Hey, do you have any left?
 Of the pound cake.");
 MsgDisp("主人公","Actually...
 I made enough for everyone!");
@@ -53,8 +51,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("D140B03400_03_000");
-MsgDisp("Honda","Yaayー∈
-That's great for us!");
+MsgDisp("Honda","Yaayー∈ That's great for us!");
 ChEye(4,3);
 ChMouth(4,4);
 VoicePlay("D140B03400_04_020");
@@ -70,8 +67,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B03400_01_040");
-MsgDisp("Kazama","Hmm...
-so when can we eat it?");
+MsgDisp("Kazama","Hmm... so when can we eat it?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -83,8 +79,8 @@ ChMotion(4,1,1);
 VoicePlay("D140B03400_04_030");
 MsgDisp("Nanatsumori","I'm ready to eat now.");
 MsgDisp("主人公","(Everyone's eyes are serious...
-I was thinking after lunch but.
-maybe it's better to bring it out now?)");
+I was thinking after lunch but. maybe it's
+better to bring it out now?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

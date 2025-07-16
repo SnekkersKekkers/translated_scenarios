@@ -7,8 +7,10 @@ ChMouth(3,0);
 ChMotion(3,0);
 ScrFadeIn(0);
 VoicePlay("H5G0300000_03_000")
-MsgDisp("Honda","......Ah!　You're here.");
-MsgDisp("主人公","Huh, ｛本多＊＊｝? What is it?");
+MsgDisp("Honda","...... Ah!
+You're here.");
+MsgDisp("主人公","Huh, ｛本多＊＊｝?
+What is it?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

@@ -1,4 +1,5 @@
-MsgDisp("主人公","What does ｛風真＊＊｝, ｛本多＊＊｝ and
+MsgDisp("主人公","What does ｛風真＊＊｝,
+｛本多＊＊｝ and
 ｛七ツ森＊｝ think of me?");
 ChEye(1,4);
 ChMouth(1,2);

@@ -14,12 +14,13 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120500001_05_000");
-    MsgDisp("Hiiragi","All of our enthusiasm blew away
-the cold.");
-    MsgDisp("主人公","Yep. You were really fun today, thanks for
+    MsgDisp("Hiiragi","All of our enthusiasm blew away the cold.");
+    MsgDisp("主人公","Yep.
+You were really fun today, thanks for
 bringing me.");
     VoicePlay("S120500001_05_010");
-    MsgDisp("Hiiragi","Yeah. Bye then.");
+    MsgDisp("Hiiragi","Yeah.
+Bye then.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
@@ -71,10 +72,10 @@ What about ｛柊＊＊＊｝?");
     ChEye(5,4);
     ChMotion(5,2);
     VoicePlay("S120500001_05_080");
-    MsgDisp("Hiiragi","Me as well.
-Although......I may have gotten a bit
-distracted while doing so.");
-    MsgDisp("主人公","Eh? Distracted?");
+    MsgDisp("Hiiragi","Me as well. Although......I may have
+gotten a bit distracted while doing so.");
+    MsgDisp("主人公","Eh?
+Distracted?");
     ChMotion(5,4);
     VoicePlay("S120500001_05_090");
     MsgDisp("Hiiragi","When I put my hands together, instead of

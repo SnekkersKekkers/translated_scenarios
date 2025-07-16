@@ -14,7 +14,8 @@ VoicePlay("D140C03000_06_000");
 MsgDisp("Himuro","By the way, I was wondering what it was
 like for you two at meal times.");
 ChMouth(5,2);
-MsgDisp("主人公","｛氷室＊＊｝, what is this all of a sudden?");
+MsgDisp("主人公","｛氷室＊＊｝, what is this all of a
+sudden?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -57,20 +58,19 @@ ChMotion(5,0);
 VoicePlay("D140C03000_05_020");
 MsgDisp("Hiiragi","Yes, definitely.
 It's always lively around Mikage-sensei..");
-MsgDisp("主人公","Yeah, it always
-looks like fun.");
+MsgDisp("主人公","Yeah, it always looks like fun.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C03000_07_020");
-MsgDisp("Mikage","Right? It's the same at home. I have fun
-by myself too y'know?");
+MsgDisp("Mikage","Right?
+It's the same at home.
+I have fun by myself too y'know?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D140C03000_06_030");
-MsgDisp("Himuro","Just now, there was
-a second of sadness.");
+MsgDisp("Himuro","Just now, there was a second of sadness.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -87,8 +87,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C03000_07_040");
-MsgDisp("Mikage","Ooh. Yanosuke, are you letting me join
-Habataki theatre troupe too?");
+MsgDisp("Mikage","Ooh.
+Yanosuke, are you letting me join Habataki
+theatre troupe too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -108,7 +109,8 @@ ChMotion(7,5);
 VoicePlay("D140C03000_07_050");
 MsgDisp("Mikage","Oh, I got the chairman's stamp of
 approval.");
-MsgDisp("主人公","(If ｛御影＊＊｝ became an actor...
+MsgDisp("主人公","(If ｛御影＊＊｝ became
+an actor...
 Hehe, he might get really popular?)");
 BGMStop();
 MsgClose();

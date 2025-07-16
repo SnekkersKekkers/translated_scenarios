@@ -7,7 +7,8 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("H280400000_04_000");
     MsgDisp("Nanatsumori","You're working hard.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! What's......");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+What's......");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -30,22 +31,22 @@ manager, right? Go and do your best.");
     VoiceEVSPlay(4);
     VoicePlay("H280400000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Did you come to cheer
-us on?");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+Did you come to cheer us on?");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("H280400000_04_040");
     MsgDisp("Nanatsumori","Well, that's how it is.
-......I don't know much about track,
+...... I don't know much about track,
 though.");
     MsgDisp("主人公","Hm?");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("H280400000_04_050");
-    MsgDisp("Nanatsumori","Nothing. This is your last job as manager,
-right?");
+    MsgDisp("Nanatsumori","Nothing.
+This is your last job as manager, right?");
     MsgDisp("主人公","Yeah, that's right......");
     ChEye(4,2);
     ChMouth(4,3);

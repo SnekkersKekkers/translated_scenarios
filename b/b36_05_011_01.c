@@ -11,8 +11,7 @@ ChMouth(5,4);
 ChMotion(5,4,1);
 ScrFadeIn(0);
 VoicePlay("B360501101_05_000");
-MsgDisp("Hiiragi","Phew, we made it in time
-for the sunset.");
+MsgDisp("Hiiragi","Phew, we made it in time for the sunset.");
 MsgDisp("主人公","Yeah, it's beautiful......");
 ChEye(5,0);
 ChMotion(5,0);
@@ -49,7 +48,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360501101_05_050");
-MsgDisp("Hiiragi","......Hehe.
+MsgDisp("Hiiragi","...... Hehe.
 That face is unfair.");
 ChEye(5,4);
 ChMotion(5,4);

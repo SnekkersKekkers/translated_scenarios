@@ -37,8 +37,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210200_02_050");
-MsgDisp("Sassa","Yeah. I've been thinking about it quite a
-lot since yesterday.");
+MsgDisp("Sassa","Yeah.
+I've been thinking about it quite a lot
+since yesterday.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -56,7 +57,8 @@ ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","(I'm not sure about a nice
 atmosphere...... but being with
-｛颯砂＊＊｝ always makes me happy.)");
+｛颯砂＊＊｝ always makes me
+happy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -9,7 +9,7 @@ ChMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403100_04_000");
 MsgDisp("Nanatsumori","Where do we start?
-...Where are you looking?");
+... Where are you looking?");
 MsgSel("What was that fish's name?","Tropical fish have beautiful patterns","Ha∋I feel like something is looking at me from behind the rock");
 switch (MsgSelRsltGet()){
     case 0:
@@ -31,8 +31,9 @@ their coloring.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040403100_04_020");
-    MsgDisp("Nanatsumori","Yeah. The pure color is exquisite. It's
-super stimulating.");
+    MsgDisp("Nanatsumori","Yeah.
+The pure color is exquisite.
+It's super stimulating.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,8 +44,8 @@ super stimulating.");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("B040403100_04_030");
-    MsgDisp("Nanatsumori","Maybe there's a moray eel in there——
-...All I can see is your reflection in the
+    MsgDisp("Nanatsumori","Maybe there's a moray eel in there—— ...
+All I can see is your reflection in the
 glass.");
     MsgDateResultDisp();
     break ;

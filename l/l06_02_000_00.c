@@ -6,7 +6,8 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,254,4,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("L060200000_02_000");
-MsgDisp("Sassa","｛主人公｝. Good timing!");
+MsgDisp("Sassa","｛主人公｝.
+Good timing!");
 MsgDisp("主人公","｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -15,14 +15,15 @@ cookies though...)");
     MsgDisp("Honda?","Haaー, how refreshing...");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Welcome!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoiceEVSPlay(3);
     VoicePlay("P630300000_03_010");
-    MsgDisp("Honda","｛主人公｝, is it the aroma of fresh
-herbs I wonder?
+    MsgDisp("Honda","｛主人公｝, is it the
+aroma of fresh herbs I wonder?
 It's drawing me in.");
     MsgDisp("主人公","Then, in the meantime, how about some tea
 and cookies?");
@@ -45,7 +46,8 @@ cookies though...)");
     VoiceEVSPlay(3);
     VoicePlay("P630300000_03_030");
     MsgDisp("Honda","｛主人公｝, good work.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Welcome!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,5,1);

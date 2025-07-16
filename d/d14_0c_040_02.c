@@ -12,10 +12,10 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C04002_06_000");
-MsgDisp("Himuro","Have I or Yanosuke-senpai
-ever been noisy?");
-MsgDisp("主人公","...Ah, it's cause ｛御影＊＊｝ isn't
-here today.");
+MsgDisp("Himuro","Have I or Yanosuke-senpai ever been noisy?");
+MsgDisp("主人公","...Ah, it's cause
+｛御影＊＊｝ isn't here
+today.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -29,8 +29,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D140C04002_05_000");
 MsgDisp("Hiiragi","Inori-kun, you sure are in a bad mood,
 aren't you?");
-MsgDisp("主人公","Isn't he more 
-irritable than usual?");
+MsgDisp("主人公","Isn't he more irritable than usual?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -102,8 +101,9 @@ VoicePlay("D140C04002_05_050");
 MsgDisp("Hiiragi","Heheh, understood.
 Alright, with this it'll surely become
 lively, won't it?");
-MsgDisp("主人公","(Looks like because ｛御影＊＊｝ is
-coming, both of them suddenly perked up?)");
+MsgDisp("主人公","(Looks like because
+｛御影＊＊｝ is coming,
+both of them suddenly perked up?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -37,7 +37,8 @@ field club manager!)");
     VoicePlay("H2A0600000_06_030");
     MsgDisp("Himuro","I didn't think you guys would actually
 win.");
-    MsgDisp("主人公","｛氷室＊＊｝! Hehe, awesome, right?");
+    MsgDisp("主人公","｛氷室＊＊｝!
+Hehe, awesome, right?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -55,7 +56,7 @@ this result wouldn't have happened.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("H2A0600000_06_060");
-    MsgDisp("Himuro","......It kinda feels like you've gotten
+    MsgDisp("Himuro","...... It kinda feels like you've gotten
 further away.
 It's a little frustrating.");
     MsgDisp("主人公","Hm?");
@@ -63,8 +64,8 @@ It's a little frustrating.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600000_06_070");
-    MsgDisp("Himuro","Nah...... Good work these past three
-years.");
+    MsgDisp("Himuro","Nah......
+Good work these past three years.");
     MsgDisp("主人公","(I'm glad that I stayed as the track and
 field club manager......!)");
     break ;

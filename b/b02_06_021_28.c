@@ -9,7 +9,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602128_06_010");
 MsgDisp("Himuro","You dressing like that recently has me
-feeling anxious... Why?");
+feeling anxious...
+Why?");
 MsgDisp("主人公","(Oh, good.
-｛氷室＊＊｝ seems to have come to like
-these clothes.)");
+｛氷室＊＊｝ seems to have come to
+like these clothes.)");

@@ -56,8 +56,7 @@ Hey, what are you saying?");
         ChMouth(7,1);
         ChMotion(7,5);
         VoicePlay("B040723102_07_040");
-        MsgDisp("Mikage","Umm?
-....");
+        MsgDisp("Mikage","Umm? ....");
         MsgDisp("主人公","What's wrong?");
         ChEye(7,1);
         ChMouth(7,0);
@@ -65,8 +64,8 @@ Hey, what are you saying?");
         VoicePlay("B040723102_07_050");
         MsgDisp("Mikage","Hey, what are you saying.
 Phew, that was dangerous.");
-        MsgDisp("主人公","Umm... It's not that dangerous of a ride
-though.");
+        MsgDisp("主人公","Umm...
+It's not that dangerous of a ride though.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,2);
@@ -97,8 +96,9 @@ avoiding plant roots.");
         VoicePlay("B040723102_07_090");
         MsgDisp("Mikage","If we overdo it, the crops won't be able
 to grow though?");
-        MsgDisp("主人公","(Hehe, looks like ｛御影＊＊｝ really
-does not like high places.)");
+        MsgDisp("主人公","(Hehe, looks like
+｛御影＊＊｝ really does
+not like high places.)");
         break ;
         default :
         DbgAssert(1);

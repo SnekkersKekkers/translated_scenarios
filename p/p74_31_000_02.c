@@ -11,8 +11,7 @@ VoicePlay("P743100002_31_000");
 MsgDisp("Goro","Welcome back.
 It was like I was transported away on that
 runway!");
-MsgDisp("主人公","Goro-sensei, 
-thank you very much!");
+MsgDisp("主人公","Goro-sensei, thank you very much!");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);

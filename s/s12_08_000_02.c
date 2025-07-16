@@ -41,8 +41,9 @@ this year. I feel relieved.");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("S120800002_08_030");
-    MsgDisp("Shirahane","Yup. Should I really just go home? Let me
-walk you back.");
+    MsgDisp("Shirahane","Yup.
+Should I really just go home?
+Let me walk you back.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     break ;
     case 4:
@@ -65,7 +66,7 @@ do for our shrine visit?");
     ChMouth(8,4);
     ChMotion(8,4,1);
     VoicePlay("S120800002_08_060");
-    MsgDisp("Shirahane","......Oh no.
+    MsgDisp("Shirahane","...... Oh no.
 New Years was already such a treat, how
 will I manage for the rest of the year?");
     MsgDisp("主人公","???");

@@ -47,7 +47,8 @@ VoicePlay("G020740000_07_060");
 MsgDisp("Mikage","How about it?
 If you haven't decided on your dream,
 we're looking for employees?");
-MsgDisp("主人公","Ehh∋　Me?");
+MsgDisp("主人公","Ehh∋
+Me?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -56,7 +57,8 @@ MsgDisp("Mikage","Next time I ask about your dream, and you
 can't clearly give me an answer, then I
 guess you've decided to become our
 employee.");
-MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s farm, huh......
+MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s farm,
+huh......
 It might be wonderful.)");
 BGMStop();
 MsgClose();

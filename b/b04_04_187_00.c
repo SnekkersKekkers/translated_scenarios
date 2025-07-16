@@ -11,8 +11,9 @@ switch (MsgSelRsltGet()){
     ChEye(4,4);
     ChMotion(4,2,1);
     VoicePlay("B040418700_04_000");
-    MsgDisp("Nanatsumori","Hmm. I got tired of thinking about it
-halfway through.");
+    MsgDisp("Nanatsumori","Hmm.
+I got tired of thinking about it halfway
+through.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

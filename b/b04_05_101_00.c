@@ -30,7 +30,7 @@ you taught me.");
     VoicePlay("B040510100_05_020");
     MsgDisp("Hiiragi","Come to think of it, I think I see it
 every morning.
-...Does it resemble me?");
+... Does it resemble me?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

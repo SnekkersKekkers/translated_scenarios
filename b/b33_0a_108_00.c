@@ -19,8 +19,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10800_01_000");
-MsgDisp("Kazama","Well that IS what
-we came here for.");
+MsgDisp("Kazama","Well that IS what we came here for.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -39,8 +38,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10800_01_010");
-MsgDisp("Kazama","Could it be...
-you were led over here?");
+MsgDisp("Kazama","Could it be... you were led over here?");
 MsgDisp("主人公","Ehhh∋");
 ChEye(1,0);
 ChMouth(1,2);
@@ -50,8 +48,8 @@ ChMotion(6,5);
 VoicePlay("B330A10800_06_010");
 MsgDisp("Himuro","Ryota-senpai, you can't do that.
 It's working on me too.");
-MsgDisp("主人公","Umm... Maybe, we should wait outside after
-all?");
+MsgDisp("主人公","Umm...
+Maybe, we should wait outside after all?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
@@ -103,7 +101,7 @@ ChOpen(1,255,0,0,0,#1,#1,0,3,0,30);
 ChOpen(2,255,0,2,0,0,#1,0,3,0,30);
 ChMouth(1,2);
 VoicePlay("B330A10800_01_040");
-MsgDisp("Kazama","...Huh?
+MsgDisp("Kazama","... Huh?
 We're missing someone.");
 MsgDisp("主人公","Eh∋");
 ChEye(2,2);
@@ -167,8 +165,9 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10800_01_050");
 MsgDisp("Kazama","Nice, Inori.");
-MsgDisp("主人公","(I feel like ｛風真＊＊｝ and ｛氷室＊＊｝
-are messing with us...)");
+MsgDisp("主人公","(I feel like ｛風真＊＊｝ and
+｛氷室＊＊｝ are messing with
+us...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

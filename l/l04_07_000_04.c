@@ -13,8 +13,7 @@ It's pretty elaborate, too.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("L040700004_07_010");
-    MsgDisp("Mikage","Ooh, then I'll accept those
-feelings.");
+    MsgDisp("Mikage","Ooh, then I'll accept those feelings.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -69,8 +68,7 @@ Thank goodness!)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700004_07_070");
-    MsgDisp("Mikage","Your hard work is really
-showing through.");
+    MsgDisp("Mikage","Your hard work is really showing through.");
     MsgDisp("主人公","There are some parts that I couldn't do
 very well......");
     ChEye(7,0);

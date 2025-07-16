@@ -15,14 +15,15 @@ MsgClose();
 BGOpen("bh500",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This is ｛柊＊＊＊｝'s home, right?
-It seems like the rehearsal studio is on
-the property......)");
+MsgDisp("主人公","(This is ｛柊＊＊＊｝'s home,
+right? It seems like the rehearsal studio
+is on the property......)");
 MsgClose();
 SEPlay("EV_SE_723");
 Wait(50,0);
 VoicePlay("D010500500_43_000");
-MsgDisp("Theater Member A","Ooogh!　Taah!");
+MsgDisp("Theater Member A","Ooogh!
+Taah!");
 VoicePlay("D010500500_05_000");
 MsgDisp("Hiiragi?","If you can't do it in practice, how will
 you be able to do it during the
@@ -45,21 +46,23 @@ ScrFadeIn(0);
 SEPlay("EV_SE_723");
 Wait(50,0);
 VoicePlay("D010500500_43_010");
-MsgDisp("Theater Member A","Ouugh!　Ahhh!");
+MsgDisp("Theater Member A","Ouugh!
+Ahhh!");
 MsgDisp("主人公","(Wow, so intense......)");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500500_33_020");
 MsgDisp("Theater Member B","The chairman is difficult today too......");
 VoicePlay("D010500500_46_000");
 MsgDisp("Theater Member C","Yeah, the chairman is on a completely
-different level......If you're not
-careful, you'll get hurt.");
+different level......
+If you're not careful, you'll get hurt.");
 MsgDisp("主人公","(............)");
 StlEye(5,1);
 StlMouth(5,0);
 VoicePlay("D010500500_05_010");
 MsgDisp("Hiiragi","There!
-Look carefully. Remember it..");
+Look carefully.
+Remember it..");
 VoicePlay("D010500500_33_040");
 MsgDisp("Theater Member B","Y-Yes sir!");
 StlEye(5,0);
@@ -89,8 +92,9 @@ VoicePlay("D010500500_05_030");
 MsgDisp("Hiiragi","My apologies.
 I was just told that there was someone
 here for an interview......");
-MsgDisp("主人公","Yes. Thank you very much for allowing me
-to intrude on your important practice.");
+MsgDisp("主人公","Yes.
+Thank you very much for allowing me to
+intrude on your important practice.");
 VoicePlay("D010500500_05_040");
 MsgDisp("Hiiragi","I hope you are able to write a good
 article.");
@@ -136,7 +140,8 @@ ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500500_05_090");
-MsgDisp("Hiiragi","Sigh......I'm going back to the rehearsal.");
+MsgDisp("Hiiragi","Sigh......
+I'm going back to the rehearsal.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

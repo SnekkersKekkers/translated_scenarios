@@ -5,14 +5,13 @@ VoicePlay("T020700022_07_000");
 MsgDisp("Mikage","Oi-∋
 Wh-what's wrong?");
 MsgDisp("主人公","I love ｛御影＊＊｝ too.
-Did you......receive my feelings?");
+Did you...... receive my feelings?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020700022_07_010");
-MsgDisp("Mikage","Ah, yes I received them
-Thank you. ");
+MsgDisp("Mikage","Ah, yes I received them Thank you.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -26,7 +25,8 @@ ChMotion(7,1);
 VoicePlay("T020700022_07_030");
 MsgDisp("Mikage","Which means we aren't just giving up like
 we have been until now, right?");
-MsgDisp("主人公","Yes. I got it.");
+MsgDisp("主人公","Yes.
+I got it.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

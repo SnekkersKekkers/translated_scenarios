@@ -22,7 +22,8 @@ Ah, there.)");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("Q040100000_01_010");
-    MsgDisp("Kazama","｛主人公｝. Good morning.");
+    MsgDisp("Kazama","｛主人公｝.
+Good morning.");
     MsgDisp("主人公","Good morning.
 So, how about we go around together for
 today's free period?");

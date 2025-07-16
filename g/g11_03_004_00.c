@@ -2,8 +2,8 @@ BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The original book 'The Path of First
-Love' I read with ｛本多＊＊｝ the other
-day is really popular huh......)");
+Love' I read with ｛本多＊＊｝
+the other day is really popular huh......)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -22,8 +22,9 @@ VoicePlay("G110300400_03_010");
 MsgDisp("Honda","I wonder what I would've thought of it if
 I had seen the movie before reading the
 original work?");
-MsgDisp("主人公","Hehe. But you can't forget it now, so you
-can't know.");
+MsgDisp("主人公","Hehe.
+But you can't forget it now, so you can't
+know.");
 ChEye(3,0);
 ChMouth(3,2);
 ChMotion(3,1);

@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0,0);
 SEWait();
-MsgDisp("主人公","(Eh? That's......)");
+MsgDisp("主人公","(Eh?
+That's......)");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 StlOpen("ev_05_14");
@@ -111,8 +112,8 @@ BGMStop(2);
 MsgClose();
 ScrFadeOut(0,0);
 Wait(60,0);
-MsgDisp("主人公","(｛柊＊＊＊｝...... Thanks for the nice
-gift......)");
+MsgDisp("主人公","(｛柊＊＊＊｝......
+Thanks for the nice gift......)");
 MsgClose();
 Wait(40,0);
 MsgClose();

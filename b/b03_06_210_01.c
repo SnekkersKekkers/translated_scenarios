@@ -18,7 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,2);
     ChMotion(6,1);
     VoicePlay("B030621001_06_010");
-    MsgDisp("Himuro","Sigh......Got it.
+    MsgDisp("Himuro","Sigh......
+Got it.
 Let's go quickly.");
     MsgDispSksp(0);
     break ;

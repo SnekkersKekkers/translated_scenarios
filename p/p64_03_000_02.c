@@ -5,7 +5,8 @@ ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 ScrFadeIn(0);
 VoicePlay("P640300002_03_000");
-MsgDisp("Honda","Haa...It was deliciousー.");
+MsgDisp("Honda","Haa...
+It was deliciousー.");
 MsgDisp("主人公","Really, that's good.
 You should also check out the vegetable
 sales, okay?");
@@ -30,7 +31,8 @@ VoicePlay("P640300002_03_030");
 MsgDisp("Honda","Ah, that way. Looks like it's got
 caterpillar kun's seal of approval. It
 must be delicious. I'll buy it!");
-MsgDisp("主人公","(Yay! I got praised by ｛本多＊＊｝ )");
+MsgDisp("主人公","(Yay!
+I got praised by ｛本多＊＊｝ )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

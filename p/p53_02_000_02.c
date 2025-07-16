@@ -15,8 +15,9 @@ last three years?)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200002_02_000");
-    MsgDisp("Sassa","｛主人公｝. I came to listen to your
-last cultural festival performance.");
+    MsgDisp("Sassa","｛主人公｝.
+I came to listen to your last cultural
+festival performance.");
     MsgDisp("主人公","｛颯砂＊＊｝, thank you.");
     ChEye(2,3);
     ChMouth(2,4);
@@ -44,7 +45,8 @@ year whilst listening to your performance.");
     ChMotion(2,1);
     VoicePlay("P530200002_02_030");
     MsgDisp("Sassa","Then, have fun.");
-    MsgDisp("主人公","Yes! I'm off. ");
+    MsgDisp("主人公","Yes!
+I'm off.");
     MsgDisp("主人公","(I'll also play carefully, remembering all
 the practice I've done over the past
 year!)");
@@ -60,9 +62,9 @@ last three years?)");
     ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200002_02_040");
-    MsgDisp("Sassa","｛主人公｝. I guess this is the last
-time I'll hear you play... It's somewhat
-lonely.");
+    MsgDisp("Sassa","｛主人公｝. I guess this
+is the last time I'll hear you play...
+It's somewhat lonely.");
     MsgDisp("主人公","Yeah, that's right huh.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -79,7 +81,8 @@ the ground?");
     MsgDisp("Sassa","Yeah, riding the wind. Then, miraculously,
 I was able to push on, shift into a higher
 gear, and gain more power.");
-    MsgDisp("主人公","Really? That makes me happy.");
+    MsgDisp("主人公","Really?
+That makes me happy.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

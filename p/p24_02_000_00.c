@@ -10,8 +10,7 @@ StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
 VoicePlay("P240200000_02_000");
-MsgDisp("Sassa","Persephone, 
-why won't you laugh?");
+MsgDisp("Sassa","Persephone, why won't you laugh?");
 MsgDisp("主人公","How am I supposed to laugh when I'm
 imprisoned in the depths of the earth?
 Please return me to my world.");
@@ -26,7 +25,7 @@ StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("P240200000_02_020");
-MsgDisp("Sassa","...That will not come true.
+MsgDisp("Sassa","... That will not come true.
 The gatekeeper of hell, Cerebus will not
 tolerate intruders.");
 SEPlay("EV_SE_678",0,1);
@@ -66,8 +65,8 @@ VoicePlay("P240200000_02_050");
 MsgDisp("Sassa","Don't cry.
 I regret forcing you into my world.");
 ChEyeOpenLevel(2,0);
-MsgDisp("主人公","(... Eh? ｛颯砂＊＊｝, isn't that a bit
-off-script?)");
+MsgDisp("主人公","(... Eh? ｛颯砂＊＊｝, isn't that
+a bit off-script?)");
 SEPlay("EV_SE_GAYA_008",0.5,0.5);
 VoicePlay("P240200000_39_000");
 MsgDisp("Male Customer","Eh, that's somewhat off?");
@@ -84,7 +83,9 @@ SEPlay("EV_SE_681");
 Wait(90);
 SEStop("EV_SE_681",0.2);
 SEPlay("EV_SE_679",0,0.9);
-MsgDisp("","(Arf! Arf! Arf!)");
+MsgDisp("","(Arf!
+Arf!
+Arf!)");
 MsgDisp("主人公","(Ah, the dogs came to play...!)");
 MsgDisp("主人公","Ah, help me～!");
 SEPlay("EV_SE_GAYA_006",0,0.8);
@@ -182,7 +183,7 @@ ChMotion(2,0);
 VoicePlay("P240200000_02_140");
 MsgDisp("Sassa","...Hey, am I forcibly dragging you into
 this like Hades is?");
-MsgDisp("主人公","Eh? 
+MsgDisp("主人公","Eh?
 What are you talking about?");
 ChEye(2,4);
 ChMouth(2,0);

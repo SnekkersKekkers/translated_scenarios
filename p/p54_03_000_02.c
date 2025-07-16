@@ -12,7 +12,8 @@ ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P540300002_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. How was it?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+How was it?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

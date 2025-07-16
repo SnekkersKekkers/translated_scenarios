@@ -5,13 +5,13 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("B350600000_06_000");
 MsgDisp("Himuro","Hey.");
-MsgDisp("主人公","Huh, ｛氷室＊＊｝. What's wrong?");
+MsgDisp("主人公","Huh, ｛氷室＊＊｝.
+What's wrong?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B350600000_06_010");
-MsgDisp("Himuro","What are you
-gonna do after this?");
+MsgDisp("Himuro","What are you gonna do after this?");
 MsgDisp("主人公","what am I going to do you say...
 I'm going home arent I?");
 ChEye(6,2);
@@ -33,7 +33,7 @@ ChMotion(6,0);
 VoicePlay("B350600000_06_040");
 MsgDisp("Himuro","Since we're here already, let's go
 somewhere.
-...Just the two of us.");
+... Just the two of us.");
 MsgSel("Yeah, sounds good!","I have some things to do...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -73,7 +73,7 @@ found out.");
     VoicePlay("B350600000_06_090");
     MsgDisp("Himuro","If you have things to do, it can't be
 helped.
-...Then, I'm going home.");
+... Then, I'm going home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
     MsgDisp("主人公","(｛氷室＊＊｝ seemed pretty down...

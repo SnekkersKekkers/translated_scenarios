@@ -35,8 +35,9 @@ Let's go and take our time.");
     ChMotion(8,2,1);
     ChCheek(8,5);
     VoicePlay("F010800005_08_030");
-    MsgDisp("Shirahane","Yeah... This really feels like that
-'springtime of youth' thing.");
+    MsgDisp("Shirahane","Yeah...
+This really feels like that 'springtime of
+youth' thing.");
     MsgDisp("主人公","Hehe.
 Well, shall we go?");
     break ;

@@ -14,9 +14,11 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoiceEVSPlay(7);
 VoicePlay("G110700400_07_010");
-MsgDisp("Mikage","｛主人公｝. Please stop by the
-gardening club for a bit on your way home.");
-MsgDisp("主人公","Eh......Ah, okay!");
+MsgDisp("Mikage","｛主人公｝.
+Please stop by the gardening club for a
+bit on your way home.");
+MsgDisp("主人公","Eh......
+Ah, okay!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7);
@@ -78,7 +80,8 @@ home.");
 Wait(30,0);
 SEPlay("EV_SE_080");
 MsgDisp("主人公","(Huh? I think I feel a bit better...... it
-must be thanks to ｛御影＊＊｝. )");
+must be thanks to
+｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

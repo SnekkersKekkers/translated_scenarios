@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(4);
     ChMotion(5,0);
     VoicePlay("B040502400_05_010");
-    MsgDisp("Hiiragi","...It's a crystal clear tone.
-the reverberation is nice too.");
+    MsgDisp("Hiiragi","...It's a crystal clear tone. the
+reverberation is nice too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

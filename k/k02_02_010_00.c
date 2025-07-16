@@ -15,8 +15,9 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("K020201000_02_000");
 MsgDisp("Sassa","No problem.
-......And, just wait a bit.");
-MsgDisp("主人公","Hm? What is it?");
+...... And, just wait a bit.");
+MsgDisp("主人公","Hm?
+What is it?");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(2,0);

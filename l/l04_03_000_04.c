@@ -6,7 +6,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("L040300004_03_000");
-    MsgDisp("Honda","Amazing!　It's handmade!?");
+    MsgDisp("Honda","Amazing!
+It's handmade!?");
     MsgDisp("主人公","Hehe, I did my best.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -19,8 +20,7 @@ year, so I understand.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300004_03_020");
-    MsgDisp("Honda","Thanks for going through the
-trouble.");
+    MsgDisp("Honda","Thanks for going through the trouble.");
     MsgDisp("主人公","(Thank goodness!
 He seemed happy.)");
     break ;

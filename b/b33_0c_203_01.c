@@ -38,8 +38,8 @@ ChMotion(7,2);
 VoicePlay("B330C20301_07_000");
 MsgDisp("Mikage","Come to think of it, you were glancing at
 the shop windows weren't you?");
-MsgDisp("主人公","｛柊＊＊＊｝, is there something you
-wanted to buy?");
+MsgDisp("主人公","｛柊＊＊＊｝, is there something
+you wanted to buy?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -61,7 +61,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("B330C20301_05_030");
-MsgDisp("Hiiragi","No. I was looking at my own figure walking
+MsgDisp("Hiiragi","No.
+I was looking at my own figure walking
 alongside you all.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
@@ -113,8 +114,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20301_05_080");
-MsgDisp("Hiiragi","Yes. It feels even more special with you
-here.");
+MsgDisp("Hiiragi","Yes.
+It feels even more special with you here.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -133,8 +134,7 @@ ChMotion(5,4);
 VoicePlay("B330C20301_05_090");
 MsgDisp("Hiiragi","I look forward to it.");
 MsgDisp("主人公","(When we're altogether, wherever we go
-becomes special...
-hehe, how mysterious.)");
+becomes special... hehe, how mysterious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

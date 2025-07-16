@@ -27,8 +27,7 @@ theatre company will be like that too.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040521101_05_020");
-    MsgDisp("Hiiragi","Really,
-she remembered me?");
+    MsgDisp("Hiiragi","Really, she remembered me?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +37,7 @@ she remembered me?");
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("B040521101_05_030");
-    MsgDisp("Hiiragi","Yes, 
-she has calm and gentle eyes.");
+    MsgDisp("Hiiragi","Yes, she has calm and gentle eyes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

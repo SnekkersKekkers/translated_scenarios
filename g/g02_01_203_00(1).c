@@ -45,13 +45,15 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020120300_01_050");
 MsgDisp("Kazama","The sporty type?
 Wild type?");
-MsgDisp("主人公","Hmm, ｛風真＊＊｝'s usual fashion is nice.");
+MsgDisp("主人公","Hmm, ｛風真＊＊｝'s usual fashion
+is nice.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020120300_01_060");
 MsgDisp("Kazama","Yes, an answer worth 100 points!");
-MsgDisp("主人公","Hehe, ｛風真＊＊｝, also suits an apron.");
+MsgDisp("主人公","Hehe, ｛風真＊＊｝, also suits
+an apron.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3,1);
@@ -71,8 +73,8 @@ VoicePlay("G020120300_01_090");
 MsgDisp("Kazama","Get ready, okay?
 From now on, I'll be wearing aprons in all
 kinds of colors on our dates.");
-MsgDisp("主人公","(A colorful ｛風真＊＊｝, a bit like a
-firefly......?)");
+MsgDisp("主人公","(A colorful ｛風真＊＊｝, a bit
+like a firefly......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -17,9 +17,11 @@ milk～");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P130700000_07_010");
-    MsgDisp("Mikage","｛主人公｝, you're in high spirits.");
-    MsgDisp("主人公","Hehe. ｛御影＊＊｝ is also helping with
-drawing more people in?");
+    MsgDisp("Mikage","｛主人公｝, you're in high
+spirits.");
+    MsgDisp("主人公","Hehe.
+｛御影＊＊｝ is also
+helping with drawing more people in?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -60,13 +62,13 @@ milk～");
     VoicePlay("P130700000_07_060");
     MsgDisp("Mikage","It's thanks to the cute calf-chan, huh?");
     MsgDisp("主人公","It's thanks to all the delicious milk
-｛御影＊＊｝ prepared for us!");
+｛御影＊＊｝ prepared for
+us!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P130700000_07_070");
-    MsgDisp("Mikage","There's plenty, 
-so you can drink it later.");
+    MsgDisp("Mikage","There's plenty, so you can drink it later.");
     MsgDisp("主人公","Hehe, yes.
 I'm looking forward to it.");
     ChEye(7,0);
@@ -75,8 +77,9 @@ I'm looking forward to it.");
     VoicePlay("P130700000_07_080");
     MsgDisp("Mikage","Oh.
 Then, can I have a cup?");
-    MsgDisp("主人公","Nope. If you can't escape successfully,
-you can't drink milk, you know?");
+    MsgDisp("主人公","Nope.
+If you can't escape successfully, you
+can't drink milk, you know?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

@@ -19,7 +19,8 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("D140D07040_22_010");
-MsgDisp("Hikaru","Huh? Is that so?");
+MsgDisp("Hikaru","Huh?
+Is that so?");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,5);
@@ -29,7 +30,8 @@ MsgDisp("Michiru","Hey.");
 ChFace(21,0);
 MsgDisp("主人公","A feature on ｛七ツ森＊｝.
 Both the Hanatsubaki twins and
-｛七ツ森＊｝ are so cool...!");
+｛七ツ森＊｝ are so
+cool...!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -53,8 +55,8 @@ It would be impossible for Hikaru; that
 multi-faceted sort of like.");
 MsgDisp("主人公","(Multi-faceted? Not a \"Double life\"? You
 are talking about the four eyes
-｛七ツ森＊｝ at school And the model
-\"Nana\" right...?)");
+｛七ツ森＊｝ at school
+And the model \"Nana\" right...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

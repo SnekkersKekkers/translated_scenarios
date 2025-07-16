@@ -2,8 +2,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -11,8 +10,8 @@ about my partner......)");
     VoicePlay("O030301000_03_000");
     MsgDisp("Honda","Could it be that you're still looking for
 a partner?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Yeah, I haven't found one
-yet.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Yeah, I haven't found one yet.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -22,8 +21,7 @@ Then, do you want to be a team?");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -31,14 +29,14 @@ about my partner......)");
     VoiceEVSPlay(3);
     VoicePlay("O030301000_03_020");
     MsgDisp("Honda","｛主人公｝, what's up?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. I haven't found a partner
-for the three-legged race, yet......");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+I haven't found a partner for the
+three-legged race, yet......");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("O030301000_03_030");
-    MsgDisp("Honda","There's one right in
-front of you, though?");
+    MsgDisp("Honda","There's one right in front of you, though?");
     MsgDisp("主人公","Huh, ｛本多＊＊｝?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -51,8 +49,7 @@ Let's do this!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();
@@ -74,13 +71,13 @@ What are you talking about?");
     MsgDisp("Honda","You already have a partner for the
 three-legged race, right? So I was going
 to ask that person to switch with me.");
-    MsgDisp("主人公","Um, I don't have a partner yet,
-you know?");
+    MsgDisp("主人公","Um, I don't have a partner yet, you know?");
     ChEye(3,5);
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("O030301000_03_080");
-    MsgDisp("Honda","......What!?　Is that true!?");
+    MsgDisp("Honda","...... What!?
+Is that true!?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);

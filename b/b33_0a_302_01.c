@@ -26,8 +26,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30201_06_000");
-MsgDisp("Himuro","I would be okay with a
-long swim though.");
+MsgDisp("Himuro","I would be okay with a long swim though.");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);
 ChMouth(2,4);
@@ -59,7 +58,8 @@ SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
 VoicePlay("B330A30201_06_020");
 MsgDisp("Himuro","Now say something you dislike.");
-MsgDisp("主人公","Ehh∋ Even if you say that so suddenly...!
+MsgDisp("主人公","Ehh∋
+Even if you say that so suddenly...!
 N-Nothing in particular!");
 SEPlay("EV_SE_565",0.2,0.5);
 MsgDisp("","(*Swoosh*)");
@@ -83,14 +83,14 @@ ChCustomLayout(2,1.8,1.2,-0.5);
 ChOpen(2,31,3,0,3,#1,#1,0,0,0,30);
 ChPosition(2,3);
 SEWait();
-MsgDisp("主人公","Hey... This is because you suddenly
-changed the rules.");
+MsgDisp("主人公","Hey...
+This is because you suddenly changed the
+rules.");
 VoicePlay("B330A30201_06_040");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","But you said 
-\"nothing in particular.'\"");
+MsgDisp("Himuro","But you said \"nothing in particular.'\"");
 VoicePlay("B330A30201_01_040");
 ChEye(1,3);
 ChMouth(1,3);
@@ -102,23 +102,20 @@ ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
-MsgDisp("Sassa","Yeah, it was just
-like you, and Inori.");
+MsgDisp("Sassa","Yeah, it was just like you, and Inori.");
 ChEye(1,0);
 ChMotion(1,0);
 VoicePlay("B330A30201_06_050");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
-MsgDisp("Himuro","Then, shall we start 
-from you next?");
+MsgDisp("Himuro","Then, shall we start from you next?");
 MsgClose();
 SEPlay("EV_SE_561");
 ChClose(1,0,30);
 ChClose(6,0,30);
 ChClose(2,0,30);
-MsgDisp("主人公","(Alright, 
-I won't lose this time...!)");
+MsgDisp("主人公","(Alright, I won't lose this time...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

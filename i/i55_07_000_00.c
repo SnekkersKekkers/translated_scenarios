@@ -11,7 +11,8 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550700000_07_000");
     MsgDisp("Mikage","Excuse me.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -32,8 +33,7 @@ My part-time visits.");
     MsgDisp("Mikage","Princess Tsubaki, Habataki Books,
 Simon...... Everyone works part-time in so
 many different places.");
-    MsgDisp("主人公","So you're going around visiting
-everyone?");
+    MsgDisp("主人公","So you're going around visiting everyone?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -58,13 +58,16 @@ check on me......)");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550700000_07_060");
     MsgDisp("Mikage","Excuse me.");
-    MsgDisp("主人公","Yes! Ah, ｛御影＊＊｝. Welcome!");
+    MsgDisp("主人公","Yes!
+Ah, ｛御影＊＊｝.
+Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I550700000_07_070");
     MsgDisp("Mikage","Oh, you're working today too?");
-    MsgDisp("主人公","Yes! Are you looking for something in
+    MsgDisp("主人公","Yes!
+Are you looking for something in
 particular?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -78,8 +81,8 @@ a gift, please.");
     ChMotion(7,2);
     VoicePlay("I550700000_07_090");
     MsgDisp("Mikage","......I'll take an extra box.");
-    MsgDisp("主人公","Understood. ......You're getting a lot,
-huh.");
+    MsgDisp("主人公","Understood.
+...... You're getting a lot, huh.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -87,8 +90,8 @@ huh.");
     MsgDisp("Mikage","I was thinking of handing them out during
 tea time in the staff room.
 You know, to keep everyone in a good mood.");
-    MsgDisp("主人公","(｛御影＊＊｝...... did you do
-something wrong again?)");
+    MsgDisp("主人公","(｛御影＊＊｝...... did you do something
+wrong again?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -103,14 +106,16 @@ something wrong again?)");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550700000_07_110");
     MsgDisp("Mikage","Yo, working hard?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I550700000_07_120");
     MsgDisp("Mikage","I'll get today's recommended Japanese
 sweets.");
-    MsgDisp("主人公","Yes! Then, how about the daifuku with a
+    MsgDisp("主人公","Yes!
+Then, how about the daifuku with a
 seasonal fruit filling?");
     ChEye(7,0);
     ChMouth(7,4);
@@ -119,8 +124,8 @@ seasonal fruit filling?");
     MsgDisp("Mikage","Hm, do you have anything with a longer
 shelf life?");
     MsgDisp("主人公","Then...... how about this assortment of
-yokan? It's fun trying all the different
-flavors.");
+yokan?
+It's fun trying all the different flavors.");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,0);
@@ -135,8 +140,7 @@ They were delicious.");
     VoicePlay("I550700000_07_150");
     MsgDisp("Mikage","Then I'll have those.");
     MsgDisp("主人公","Yes.
-......
-It'll be this much.");
+...... It'll be this much.");
     SEPlay("EV_SE_535",0,0.6);
     SEWait();
     ChEye(7,0);

@@ -33,18 +33,21 @@ VoicePlay("F020500007_05_030");
 MsgDisp("Hiiragi","I would rather buy it myself and eat it
 outside than have someone else buy it for
 me.");
-MsgDisp("主人公","Haha. Somehow, I think I get you on that.");
+MsgDisp("主人公","Haha.
+Somehow, I think I get you on that.");
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500007_05_040");
-MsgDisp("Hiiragi","Right? Especially with things like grilled
-corn and grilled squid.");
-MsgDisp("主人公","Haha, ｛柊＊＊＊｝, you like food cart
-food, don't you?");
+MsgDisp("Hiiragi","Right?
+Especially with things like grilled corn
+and grilled squid.");
+MsgDisp("主人公","Haha, ｛柊＊＊＊｝, you like
+food cart food, don't you?");
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F020500007_05_050");
 MsgDisp("Hiiragi","You could say that. And the scent of burnt
 soy sauce...... ......huh? Can you smell
 that?");
-MsgDisp("主人公","Haha. Now I'm hungry, too.");
+MsgDisp("主人公","Haha.
+Now I'm hungry, too.");

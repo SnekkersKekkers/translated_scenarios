@@ -5,7 +5,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("H5G2100000_21_000");
 MsgDisp("Michiru","Mari!");
-MsgDisp("主人公","Huh, ｛みちる＊｝. What's up?");
+MsgDisp("主人公","Huh, ｛みちる＊｝.
+What's up?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
@@ -18,8 +19,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("H5G2100000_21_020");
-MsgDisp("Michiru","Hehe. The way you devoted yourself to the
-band really shone through.");
+MsgDisp("Michiru","Hehe.
+The way you devoted yourself to the band
+really shone through.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

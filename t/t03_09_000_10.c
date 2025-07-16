@@ -1,5 +1,6 @@
 MsgDisp("","After graduating, I went to a first-rate
-university with ｛空也＊＊｝.");
+university with
+｛空也＊＊｝.");
 MsgClear();
 MsgDisp("","Kuya-san spent a year desperately studying
 for entrance exams. When he was with me at

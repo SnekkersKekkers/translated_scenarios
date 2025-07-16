@@ -9,8 +9,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630001_06_010");
-MsgDisp("Himuro","Right. You and me. And also Ryota-senpai
-and Nozomu-senpai.");
+MsgDisp("Himuro","Right.
+You and me.
+And also Ryota-senpai and Nozomu-senpai.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -49,15 +50,15 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630001_06_070");
 MsgDisp("Himuro","I'm sure the me from middle school would
-be shocked.
-\"What are you doing, you idiot?\"");
+be shocked. \"
+What are you doing, you idiot?\"");
 MsgDisp("主人公","Eh, why?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("G020630001_06_080");
 MsgDisp("Himuro","Because it's unproductive.
-......But, it's fun.
+...... But, it's fun.
 It's complete nonsense.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -79,7 +80,8 @@ ChMotion(6,0,1);
 VoicePlay("G020630001_06_110");
 MsgDisp("Himuro","You don't need to understand.
 Let's just enjoy this moment for now.");
-MsgDisp("主人公","(Moment...... Does ｛氷室＊＊｝ think our
+MsgDisp("主人公","(Moment......
+Does ｛氷室＊＊｝ think our
 relationship is only temporary?)");
 BGMStop();
 MsgClose();

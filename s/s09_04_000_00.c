@@ -10,8 +10,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,1,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090400000_04_000");
-    MsgDisp("Nanatsumori","Are you the type that draws
-fortunes?");
+    MsgDisp("Nanatsumori","Are you the type that draws fortunes?");
     MsgDisp("主人公","I......");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
@@ -53,8 +52,9 @@ Do you want to pull fortunes?");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_040");
-        MsgDisp("Nanatsumori","ＯＫ. We can only do this during New
-Years, right?");
+        MsgDisp("Nanatsumori","ＯＫ.
+We can only do this during New Years,
+right?");
         MsgDisp("主人公","Hehe!");
         break ;
         case 1:
@@ -86,8 +86,8 @@ What should we do......");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("S090400000_04_070");
-    MsgDisp("Nanatsumori","Fortunes. Are you brave enough to give it
-a try?");
+    MsgDisp("Nanatsumori","Fortunes.
+Are you brave enough to give it a try?");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -95,9 +95,10 @@ a try?");
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_080");
-        MsgDisp("Nanatsumori","Ooh......So strong.");
-        MsgDisp("主人公","Is ｛七ツ森＊｝ afraid of drawing
-fortunes?");
+        MsgDisp("Nanatsumori","Ooh......
+So strong.");
+        MsgDisp("主人公","Is ｛七ツ森＊｝ afraid of
+drawing fortunes?");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -120,7 +121,7 @@ Let's go!");
         ChMotion(4,2,1);
         VoicePlay("S090400000_04_110");
         MsgDisp("Nanatsumori","I see.
-......When you say it like that, I don't
+...... When you say it like that, I don't
 want to back down.");
         MsgDisp("主人公","Did you want to try?
 Let's go.");
@@ -128,7 +129,8 @@ Let's go.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("S090400000_04_120");
-        MsgDisp("Nanatsumori","No. I feel like it's fate for me to try
+        MsgDisp("Nanatsumori","No.
+I feel like it's fate for me to try
 especially because you don't want to.");
         MsgDisp("主人公","???");
         ChEye(4,0);

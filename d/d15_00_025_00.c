@@ -38,9 +38,9 @@ ChMouth ( 2,2 ) ;
 ChMotion ( 2,2 ) ;
 ChCheek ( 2,6 ) ;
 VoicePlay ( "D150002500_02_020" ) ;
-MsgDisp ( "Sassa","......Ah, no. That sounds weird.
-I'm just saying that you should also care
-for your health." ) ;
+MsgDisp ( "Sassa","......Ah, no. That sounds weird. I'm just
+saying that you should also care for your
+health." ) ;
 MsgDisp ( "主人公","Um, yeah.
 Thanks." ) ;
 BGMStop (  ) ;

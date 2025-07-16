@@ -41,8 +41,7 @@ Nice fight!");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040710100_07_030");
-    MsgDisp("Mikage","Okay, you can only pass 
-three times.");
+    MsgDisp("Mikage","Okay, you can only pass three times.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

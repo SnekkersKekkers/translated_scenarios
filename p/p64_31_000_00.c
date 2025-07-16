@@ -21,7 +21,8 @@ VoicePlay("P643100000_31_020");
 MsgDisp("Goro","Yes, I like it!
 Next time, give me some tea that makes me
 feel happy♪");
-MsgDisp("主人公","(Yay! A huge success♪)");
+MsgDisp("主人公","(Yay!
+A huge success♪)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);

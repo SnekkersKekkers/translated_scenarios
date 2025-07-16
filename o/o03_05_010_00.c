@@ -3,24 +3,22 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
     ChOpen(5,30,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("O030501000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝. Have you not joined a team
-as of yet?");
+    MsgDisp("Hiiragi","｛主人公｝.
+Have you not joined a team as of yet?");
     MsgDisp("主人公","Not yet.");
     VoicePlay("O030501000_05_010");
     MsgDisp("Hiiragi","Then, if you'll allow me to join you.");
     MsgDisp("主人公","Yes!");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -38,8 +36,7 @@ Would you like to join me?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do
-about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner......)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();
@@ -47,7 +44,8 @@ about my partner......)");
     ChEyeOpenLevel(5,9);
     VoicePlay("O030501000_05_040");
     MsgDisp("Hiiragi","Haa, did I make it?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. What is it?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+What is it?");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);

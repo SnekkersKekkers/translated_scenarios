@@ -10,7 +10,8 @@ switch (MsgSelRsltGet()){
         BGMPlay("BGM_C03_HONDA_A",0.01);
         ChOpen(3,254,0,0,4,#1,#1,0,0);
         VoicePlay("F010300002_03_000");
-        MsgDisp("Honda","Hm? Do you need something?");
+        MsgDisp("Honda","Hm?
+Do you need something?");
         MsgDisp("主人公","How about we go home together today?");
         break ;
         case 3:
@@ -19,7 +20,8 @@ switch (MsgSelRsltGet()){
         BGMPlay("BGM_C03_HONDA_A",0.01);
         ChOpen(3,254,4,0,3,#1,#1,0,0);
         VoicePlay("F010300002_03_010");
-        MsgDisp("Honda","Hm?　What's up?");
+        MsgDisp("Honda","Hm?
+What's up?");
         break ;
         case 4:
         case 5:

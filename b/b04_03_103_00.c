@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B040310300_03_010");
-    MsgDisp("Honda","Eh? What do you mean by an odd person?");
+    MsgDisp("Honda","Eh?
+What do you mean by an odd person?");
     MsgDateResultDisp();
     break ;
     case 1:

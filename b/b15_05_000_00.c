@@ -43,7 +43,7 @@ Well, then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(Ehh...? Having my belly rubbed is a
-bit...)");
+MsgDisp("主人公","(Ehh...?
+Having my belly rubbed is a bit...)");
 MsgClose();
 ScrFadeOut(0,0);

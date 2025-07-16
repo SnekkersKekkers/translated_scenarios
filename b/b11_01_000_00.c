@@ -1,12 +1,13 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh... ｛風真＊＊｝ isn't here yet.");
+MsgDisp("主人公","Huh...
+｛風真＊＊｝ isn't here yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛風真＊＊｝, I wonder if something
-happened...");
+MsgDisp("主人公","｛風真＊＊｝, I wonder if
+something happened...");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
@@ -14,15 +15,15 @@ VoicePlay("B110100000_33_000");
 MsgDisp("Guy","Hey, do you want to know?
 Or do you not want to?");
 MsgDisp("主人公","Ehh∋
-...Me?");
+... Me?");
 ChEye(33,0);
 ChMouth(33,0);
 ChEyeOpenLevel(33,8);
 VoicePlay("B110100000_33_010");
-MsgDisp("Guy","Yeah, you're probably curious now. Okay?
+MsgDisp("Guy","Yeah, you're probably curious now.
+Okay?
 Your door has just opened.");
-MsgDisp("主人公","???
-W-What are you talking about?");
+MsgDisp("主人公","??? W-What are you talking about?");
 ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
@@ -47,8 +48,8 @@ MsgDispSksp(0);
 ChEye(33,2);
 ChMouth(33,2);
 VoicePlay("B110100000_33_030");
-MsgDisp("Guy","Gyaah! This girl's door won't close
-anymore!");
+MsgDisp("Guy","Gyaah!
+This girl's door won't close anymore!");
 MsgDispSksp(1,5);
 ChEye(1,1);
 ChMouth(1,2);
@@ -60,8 +61,7 @@ MsgDispSksp(0);
 ChEye(33,2);
 ChMouth(33,1);
 VoicePlay("B110100000_33_040");
-MsgDisp("Guy","I-I haven't.
-...yet.");
+MsgDisp("Guy","I-I haven't. ...yet.");
 MsgDispSksp(1,5);
 ChEye(1,1);
 ChMouth(1,1);
@@ -84,8 +84,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B110100000_01_040");
-MsgDisp("Kazama","What the hell was up with that guy...
-hey, are you alright?");
+MsgDisp("Kazama","What the hell was up with that guy... hey,
+are you alright?");
 MsgDisp("主人公","Y-Yeah.
 Thank you for helping me.");
 ChEye(1,4);

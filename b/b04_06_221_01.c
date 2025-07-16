@@ -39,7 +39,8 @@ your own.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040622101_06_030");
-    MsgDisp("Himuro","Hmm. You're definitely amazingly sharp at
+    MsgDisp("Himuro","Hmm.
+You're definitely amazingly sharp at
 times.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

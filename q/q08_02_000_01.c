@@ -6,8 +6,8 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Haah...... that was fun! Thanks for coming
-with me.");
+    MsgDisp("主人公","Haah...... that was fun!
+Thanks for coming with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -23,7 +23,8 @@ too?");
     MsgDisp("Sassa","Okay, I'll see you here tomorrow morning!");
     break ;
     case 3:
-    MsgDisp("主人公","Haah......　It was so much fun!");
+    MsgDisp("主人公","Haah......
+It was so much fun!");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -70,8 +71,8 @@ together too!");
     ChMotion(2,0);
     ChCheek(2,0);
     VoicePlay("Q080200001_02_070");
-    MsgDisp("Sassa","Good. See you back here, I'll meet you
-then.");
+    MsgDisp("Sassa","Good.
+See you back here, I'll meet you then.");
     break ;
     default :
     DbgAssert(1);

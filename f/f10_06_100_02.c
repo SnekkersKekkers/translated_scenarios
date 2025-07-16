@@ -14,16 +14,17 @@ ChOpen(6,254,2,2,0,0,#1,0,0);
 VoicePlay("F100610002_06_000");
 MsgDisp("Himuro","What are you thanking me for...
 I don't care.");
-MsgDisp("主人公","｛氷室＊＊｝. Could this be about
-Himuro-sensei again?");
+MsgDisp("主人公","｛氷室＊＊｝.
+Could this be about Himuro-sensei again?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,7);
 VoicePlay("F100610002_06_010");
-MsgDisp("Himuro","Haa... There was another curious person
-here.");
-MsgDisp("主人公","Ehh? I don't really care...");
+MsgDisp("Himuro","Haa...
+There was another curious person here.");
+MsgDisp("主人公","Ehh?
+I don't really care...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -49,7 +50,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100610002_06_050");
 MsgDisp("Himuro","\"There's this rumor going around, do you
-know anything about it?\" And then——");
+know anything about it?\"
+And then——");
 BGMStop(0.6);
 Wait(30,0);
 VoicePlay("F100610002_32_000");

@@ -6,15 +6,15 @@ home...)");
 VoicePlay("F100740001_07_000");
 MsgDisp("Mikage?","P-Please stop.");
 MsgDisp("主人公","(Eh? That voice just now, was
-｛御影＊＊｝, right? What's wrong...?)");
+｛御影＊＊｝, right?
+What's wrong...?)");
 VoicePlay("F100740001_32_000");
-MsgDisp("VP Himuro?",".........!
-Are you really that worried?");
+MsgDisp("VP Himuro?",".........! Are you really that worried?");
 VoicePlay("F100740001_07_010");
 MsgDisp("Mikage","Eh?");
 VoicePlay("F100740001_32_010");
 MsgDisp("VP Himuro?","Come out, please.");
-MsgDisp("主人公","...Y-Yes.
+MsgDisp("主人公","... Y-Yes.
 I'm sorry.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -31,17 +31,19 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("F100740001_07_020");
 MsgDisp("Mikage","Oi, what's up?");
-MsgDisp("主人公","Um, I heard ｛御影＊＊｝'s voice, so...");
+MsgDisp("主人公","Um, I heard ｛御影＊＊｝'s
+voice, so...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740001_32_020");
-MsgDisp("VP Himuro","...I'm not scolding your Mikage-sensei.
+MsgDisp("VP Himuro","... I'm not scolding your Mikage-sensei.
 Please relax.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F100740001_07_030");
-MsgDisp("Mikage","Hahaha. So you were worried about me.
+MsgDisp("Mikage","Hahaha.
+So you were worried about me.
 Thank you.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -53,8 +55,8 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("F100740001_32_030");
-MsgDisp("VP Himuro","Haa... I
-was definitely praising you.");
+MsgDisp("VP Himuro","Haa...
+I was definitely praising you.");
 MsgDisp("主人公","Eh∋");
 ChEye(7,2);
 ChMouth(7,0);
@@ -65,8 +67,7 @@ MsgDisp("主人公","Ah, I'm sorry.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740001_32_040");
-MsgDisp("VP Himuro","You're not my ideal
-image of a teacher...");
+MsgDisp("VP Himuro","You're not my ideal image of a teacher...");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);

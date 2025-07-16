@@ -12,7 +12,8 @@ ChMotion(2,5);
 VoicePlay("B150200000_02_010");
 MsgDisp("Sassa","There's no way that you don't remember?
 Even though you kept touching me∋");
-MsgDisp("主人公","Yeah... I'm sorry.");
+MsgDisp("主人公","Yeah...
+I'm sorry.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -52,7 +53,8 @@ ChEyeOpenLevel(2,7);
 VoicePlay("B150200000_02_060");
 MsgDisp("Sassa","I was looking at your face and you were
 super serious?");
-MsgDisp("主人公","Eh! Did I look like that?");
+MsgDisp("主人公","Eh!
+Did I look like that?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

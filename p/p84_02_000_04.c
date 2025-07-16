@@ -33,9 +33,9 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P840200004_02_020");
 MsgDisp("Sassa","I would have never thought of that.");
-MsgDisp("主人公","(Yay! I guess three years of hard work on
-the student council is finally paying
-off.)");
+MsgDisp("主人公","(Yay!
+I guess three years of hard work on the
+student council is finally paying off.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

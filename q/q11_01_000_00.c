@@ -1,9 +1,10 @@
 ScrFadeIn(0);
-MsgDisp("主人公","I wonder if ｛風真＊＊｝ is still
-shopping......");
+MsgDisp("主人公","I wonder if ｛風真＊＊｝ is
+still shopping......");
 VoicePlay("Q110100000_01_000");
 MsgDisp("Kazama?","Would you like a freshly baked castella?");
-MsgDisp("主人公","Eh... Yes!");
+MsgDisp("主人公","Eh...
+Yes!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,3,8,#1,0,0);
@@ -24,22 +25,24 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q110100000_01_030");
-MsgDisp("Kazama","Yeah. The way you get excited so quickly
-is a good trait of yours.");
+MsgDisp("Kazama","Yeah.
+The way you get excited so quickly is a
+good trait of yours.");
 MsgDisp("主人公","Hehe, I can't help it since it's seasonal.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_040");
-MsgDisp("Kazama","......Also, this.
+MsgDisp("Kazama","...... Also, this.
 A Windmill-shaped charm.");
 MsgDisp("主人公","Wow, so cute!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_050");
-MsgDisp("Kazama","Right? It's very detailed. I liked it so
-much I also bought one.");
+MsgDisp("Kazama","Right?
+It's very detailed.
+I liked it so much I also bought one.");
 MsgDisp("主人公","So, we're matching, right?
 Thanks!");
 ChEye(1,0);
@@ -52,8 +55,9 @@ MsgDisp("主人公","Eh?");
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_070");
-MsgDisp("Kazama","Nothing. The cake will be gone after you
-eat it, but this one is a keepsake.");
+MsgDisp("Kazama","Nothing.
+The cake will be gone after you eat it,
+but this one is a keepsake.");
 MsgDisp("主人公","Yeah, I'll treasure it.");
 BGMStop();
 MsgClose();

@@ -15,9 +15,9 @@ Good work.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("H2A0400001_04_010");
-    MsgDisp("Nanatsumori","Hey...... stop that. Do you want me to
-comfort you? Me, who's super bad at
-sports?");
+    MsgDisp("Nanatsumori","Hey...... stop that.
+Do you want me to comfort you?
+Me, who's super bad at sports?");
     MsgDisp("主人公","......Hehe, ahaha!");
     ChEye(4,4);
     ChMouth(4,3);
@@ -38,8 +38,10 @@ manager......)");
     ScrFadeIn(0);
     VoiceEVSPlay(4);
     VoicePlay("H2A0400001_04_030");
-    MsgDisp("Nanatsumori","｛主人公｝. Good work.");
-    MsgDisp("主人公","｛七ツ森＊｝...... Ugh......");
+    MsgDisp("Nanatsumori","｛主人公｝.
+Good work.");
+    MsgDisp("主人公","｛七ツ森＊｝......
+Ugh......");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,1,1);
@@ -58,7 +60,8 @@ I think I really will.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("H2A0400001_04_070");
-    MsgDisp("Nanatsumori","Yeah. That's good.
+    MsgDisp("Nanatsumori","Yeah.
+That's good.
 Your smiling face.");
     ChEye(4,4);
     ChMouth(4,3);

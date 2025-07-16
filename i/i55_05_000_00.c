@@ -10,15 +10,16 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I550500000_05_000");
     MsgDisp("Hiiragi","Excuse me.");
-    MsgDisp("主人公","Welcome! Ah, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Welcome!
+Ah, ｛柊＊＊＊｝.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
     ChCheek(5,5);
     VoicePlay("I550500000_05_010");
-    MsgDisp("Hiiragi","Hello. I had received some delicious
-karinto manju from this store as a
-gift......");
+    MsgDisp("Hiiragi","Hello.
+I had received some delicious karinto
+manju from this store as a gift......");
     VoicePlay("I550500000_05_020");
     MsgDisp("Hiiragi","Would it happen to still be in stock?");
     MsgDisp("主人公","Yes, so you'll be taking it home.
@@ -59,8 +60,8 @@ Excuse me.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝, so you're going to be
-eating it all by yourself......)");
+    MsgDisp("主人公","(｛柊＊＊＊｝, so you're going to be eating
+it all by yourself......)");
     break ;
     case 3:
     MsgClose();
@@ -69,7 +70,8 @@ eating it all by yourself......)");
     VoiceEVSPlay(5);
     VoicePlay("I550500000_05_070");
     MsgDisp("Hiiragi","｛主人公｝, hello there.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Welcome!");
     VoicePlay("I550500000_05_080");
     MsgDisp("Hiiragi","I think that I will be eating in-store,
 today.");
@@ -88,8 +90,9 @@ fugashi?");
     MsgDisp("Hiiragi","And just what is that irresistable snack?
 It is as though I can already feel its
 deliciousness in my mouth.");
-    MsgDisp("主人公","Hehe. I'll bring it to your seat, so
-please wait a little.");
+    MsgDisp("主人公","Hehe.
+I'll bring it to your seat, so please wait
+a little.");
     MsgClose();
     ScrFadeOut(0,0);
     MsgDisp("","　　　　　　　　　　 ・
@@ -101,8 +104,8 @@ please wait a little.");
     ChCheek(5,7);
     ScrFadeIn(0);
     VoicePlay("I550500000_05_110");
-    MsgDisp("Hiiragi","Haa...... The karinto manju has been
-surpassed.");
+    MsgDisp("Hiiragi","Haa......
+The karinto manju has been surpassed.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, how was it?");
     ChMouth(5,4);
     ChMotion(5,4);
@@ -110,15 +113,13 @@ surpassed.");
     MsgDisp("Hiiragi","The chocolate seeped into the layers of
 the fugashi and hardened there.
 I'll take 20 to go.");
-    MsgDisp("主人公","Thank you for your
-continued patronage!");
-    MsgDisp("主人公","(It looks like ｛柊＊＊＊｝ really liked
-my recommendation ♪)");
+    MsgDisp("主人公","Thank you for your continued patronage!");
+    MsgDisp("主人公","(It looks like ｛柊＊＊＊｝
+really liked my recommendation ♪)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Alright, it's almost
-closing time.)");
+    MsgDisp("主人公","(Alright, it's almost closing time.)");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,255,0,0,4,#1,#1,0,0);
@@ -153,14 +154,15 @@ confections?");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("I550500000_05_170");
-    MsgDisp("Hiiragi","Haa...... this is bad. Let us talk at
-length about this on our way back.");
+    MsgDisp("Hiiragi","Haa...... this is bad.
+Let us talk at length about this on our
+way back.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Bad? I wonder if I said something
-wrong......)");
+    MsgDisp("主人公","(Bad?
+I wonder if I said something wrong......)");
     break ;
     default :
     DbgAssert(1);

@@ -92,7 +92,7 @@ research and analysis, she's already bored
 of me.");
         ChSet(3,4);
         VoicePlay("B040314002_03_090");
-        MsgDisp("Honda","...What about you?
+        MsgDisp("Honda","... What about you?
 Aren't you bored of me yet?");
         MsgDisp("主人公","Not at all.");
         ChEye(3,0);
@@ -107,9 +107,9 @@ I was worried.");
         VoicePlay("B040314002_03_110");
         MsgDisp("Honda","About you saying that you were already
 bored of me....");
-        MsgDisp("主人公","｛本多＊＊｝ is always teaching me lots of
-different things, I couldn't think such a
-thing?");
+        MsgDisp("主人公","｛本多＊＊｝ is always teaching
+me lots of different things, I couldn't
+think such a thing?");
         ChMouth(3,4);
         VoicePlay("B040314002_03_120");
         MsgDisp("Honda","Always?");
@@ -119,11 +119,12 @@ thing?");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040314002_03_130");
-        MsgDisp("Honda","Always, huh?ー.
-Forever with you huh?ー.
+        MsgDisp("Honda","Always, huh? ー.
+Forever with you huh? ー.
 Yeah, this is the best!");
-        MsgDisp("主人公","(...Hm? Is he happy with some other
-meaning?)");
+        MsgDisp("主人公","(...
+Hm?
+Is he happy with some other meaning?)");
         break ;
         default :
         DbgAssert(1);

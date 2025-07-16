@@ -34,7 +34,8 @@ Hey, are you listening to me?");
         ChMotion(2,5);
         VoicePlay("B040203302_02_020");
         MsgDisp("Sassa","Eh, which window?
-Sigh......Stop messing around.");
+Sigh......
+Stop messing around.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -70,8 +71,7 @@ House.");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040203302_02_070");
-        MsgDisp("Sassa","You could call that ship a 
-ghost ship.");
+        MsgDisp("Sassa","You could call that ship a ghost ship.");
         MsgDisp("主人公","Isn't it just a sunken ship?");
         ChEye(2,0);
         ChMouth(2,0);

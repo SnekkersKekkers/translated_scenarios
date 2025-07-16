@@ -6,7 +6,8 @@ ChOpen(3,254,5,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("D100310000_03_000");
-MsgDisp("Honda","｛主人公｝. Good timing!");
+MsgDisp("Honda","｛主人公｝.
+Good timing!");
 MsgDisp("主人公","｛本多＊＊｝, what's wrong?");
 ChEye(3,0);
 ChMouth(3,3);

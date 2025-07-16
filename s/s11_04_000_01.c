@@ -5,7 +5,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("S110400001_04_000");
 MsgDisp("Nanatsumori","It's like that huh......");
-MsgDisp("主人公","｛七ツ森＊｝, what's it say?");
+MsgDisp("主人公","｛七ツ森＊｝, what's it
+say?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -38,8 +39,8 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("S110400001_04_050");
-MsgDisp("Nanatsumori","Ha...... This year, I'll feel a little
-uneasy......");
+MsgDisp("Nanatsumori","Ha......
+This year, I'll feel a little uneasy......");
 MsgDisp("主人公","(｛七ツ森＊｝, are you actually a
 superstitious person?)");
 MsgClose();

@@ -42,8 +42,7 @@ Then, maybe?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040621201_06_030");
-    MsgDisp("Himuro","As expected, 
-even you're embarrassed?");
+    MsgDisp("Himuro","As expected, even you're embarrassed?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

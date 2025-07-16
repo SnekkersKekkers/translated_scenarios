@@ -11,9 +11,11 @@ SEWait();
 VoicePlay("F100630001_22_000");
 MsgDisp("Hikaru?","Ehhh∋
 Himuro-chan wait!");
-MsgDisp("主人公","(Hmm? These voices...)");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝. Umm,
-what is it this time?");
+MsgDisp("主人公","(Hmm?
+These voices...)");
+MsgDisp("主人公","｛みちる＊｝,
+｛ひかる＊｝.
+Umm, what is it this time?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,2,1,#1,#1,0,0);
@@ -45,8 +47,7 @@ ChMotion(21,5);
 VoicePlay("F100630001_21_010");
 MsgDisp("Michiru","But that was still a bit too much for
 Himuro-chan...");
-MsgDisp("主人公","What did you ask to
-be called by?");
+MsgDisp("主人公","What did you ask to be called by?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -54,8 +55,9 @@ ChEyeOpenLevel(22,0);
 VoicePlay("F100630001_22_040");
 MsgDisp("Hikaru","Pikarin and Micchi.
 See, isn't it so cute▼");
-MsgDisp("主人公","(Hmm. I feel like that's too high of a
-hurdle for ｛氷室＊＊｝... )");
+MsgDisp("主人公","(Hmm.
+I feel like that's too high of a hurdle
+for ｛氷室＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -11,8 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B030421002_04_000");
-    MsgDisp("Nanatsumori","ＯＫ. I get excited in places with a ton
-of items.");
+    MsgDisp("Nanatsumori","ＯＫ.
+I get excited in places with a ton of
+items.");
     MsgDispSksp(0);
     break ;
     case 1:
@@ -32,8 +33,8 @@ Let's go.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B030421002_04_020");
-    MsgDisp("Nanatsumori","Today's optimal route is, here. ... Well,
-let's get a move on.");
+    MsgDisp("Nanatsumori","Today's optimal route is, here.
+... Well, let's get a move on.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Yeah!");
     MsgDispSksp(0);

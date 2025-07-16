@@ -13,7 +13,8 @@ ChMotion(2,0);
 VoicePlay("B150200200_02_010");
 MsgDisp("Sassa","I couldn't compete.
 With your skinship.");
-MsgDisp("主人公","Ummm...｛颯砂＊＊｝?");
+MsgDisp("主人公","Ummm...
+｛颯砂＊＊｝?");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,0);
@@ -27,7 +28,7 @@ ChMotion(2,4);
 VoicePlay("B150200200_02_030");
 MsgDisp("Sassa","I thought I could grab your hand, and stop
 you from moving.");
-MsgDisp("主人公","Umm, I guess I got carried away. ");
+MsgDisp("主人公","Umm, I guess I got carried away.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

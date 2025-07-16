@@ -14,8 +14,8 @@ StlEye(6,0);
 StlMouth(6,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","......Huh, ｛氷室＊＊｝? What are you doing
-here?");
+MsgDisp("主人公","...... Huh, ｛氷室＊＊｝?
+What are you doing here?");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D120C00200_05_000");
@@ -33,8 +33,9 @@ StlEyeOpenLevel(6,0,1);
 VoicePlay("D120C00200_06_010");
 MsgDisp("Himuro","I know what you're trying to say, but it's
 not a good slogan.");
-MsgDisp("主人公","(｛氷室＊＊｝ is so blunt with his opinions,
-it makes me kind of nervous......)");
+MsgDisp("主人公","(｛氷室＊＊｝ is so blunt with his
+opinions, it makes me kind of
+nervous......)");
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_020");
 MsgDisp("Himuro","It would be better to try to convey the
@@ -48,8 +49,7 @@ MsgDisp("Hiiragi","I see, that's a concise way of putting it.
 Thank you for your help, Inori-kun.");
 StlEyeOpenLevel(6,#1);
 VoicePlay("D120C00200_06_030");
-MsgDisp("Himuro","I'll come up with some ideas to help
-out.");
+MsgDisp("Himuro","I'll come up with some ideas to help out.");
 StlEyeOpenLevel(5,0,1);
 Wait(6,0);
 StlEyeOpenLevel(5,#1);
@@ -75,7 +75,8 @@ ScrFadeIn(0);
 SEStop("EV_SE_SCHOOL_002",3);
 VoiceEVSPlay(5);
 VoicePlay("D120C00200_05_030");
-MsgDisp("Hiiragi","｛主人公｝, that's the bell.
+MsgDisp("Hiiragi","｛主人公｝, that's the
+bell.
 It's time to go back to class.");
 MsgDisp("主人公","Yeah. I have a few more things to do, so
 why don't you go ahead? I'll lock the door
@@ -103,7 +104,8 @@ Wait(20,1);
 SEPlay("EV_SE_DOOR_025");
 SEWait();
 MsgDisp("主人公","(Alright, let me just tidy things up and
-then I'll go to class......Ah──)");
+then I'll go to class......
+Ah──)");
 SEPlay("EV_SE_591");
 Wait(30,1);
 MsgDisp("主人公","(That's the poster from earlier!
@@ -112,8 +114,8 @@ the end?)");
 SEWait();
 SEPlay("EV_SE_635");
 SEWait();
-MsgDisp("主人公","(Let's see, it says......
-\"Don't run in the hallways∈\"......
+MsgDisp("主人公","(Let's see, it says...... \"
+Don't run in the hallways∈\"......
 Hehe, that's surprisingly simple?)");
 MsgClose();
 ScrFadeOut(0,0);

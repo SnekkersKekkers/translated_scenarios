@@ -1,7 +1,6 @@
 ScrFadeIn(0);
 VoicePlay("P840300004_48_000");
-MsgDisp("School Girl","Excuse me,
-I found a lost meal ticket.");
+MsgDisp("School Girl","Excuse me, I found a lost meal ticket.");
 MsgDisp("主人公","Ah, thank you very much.
 Please write an entry of where you found
 it in this lost items notebook.");
@@ -17,8 +16,8 @@ SEWait();
 ChOpen(3,254,2,2,4,#1,#1,0,0);
 VoicePlay("P840300004_03_000");
 MsgDisp("Honda","Haa, I can't find my meal ticket...");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. Just now, someone
-returned it!");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Just now, someone returned it!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
@@ -41,8 +40,8 @@ VoicePlay("P840300004_03_030");
 MsgDisp("Honda","Umm... the place it was found; \"dropped by
 Honda Iku-kun in the corridor?\"");
 MsgDisp("主人公","Yeah, they chased after you immediately,
-but it seems like ｛本多＊＊｝ was quite
-quickly nowhere to be found.");
+but it seems like ｛本多＊＊｝
+was quite quickly nowhere to be found.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -54,8 +53,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P840300004_03_050");
-MsgDisp("Honda","Yay! I'll exchange it for takoyaki right
-away.");
+MsgDisp("Honda","Yay!
+I'll exchange it for takoyaki right away.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

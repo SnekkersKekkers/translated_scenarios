@@ -46,8 +46,9 @@ wishes for the New Year!");
     MsgDisp("Hiiragi","That kind of energy.
 If more people were like you, God would be
 able to grant more wishes.");
-    MsgDisp("主人公","(......｛柊＊＊＊｝, you surprisingly like
-energetic people, huh?)");
+    MsgDisp("主人公","(......
+｛柊＊＊＊｝, you surprisingly
+like energetic people, huh?)");
     break ;
     case 4:
     case 5:
@@ -65,7 +66,8 @@ energetic people, huh?)");
     VoicePlay("S070500000_05_060");
     MsgDisp("Hiiragi","Don't get separated from me.
 Let's hold hands.");
-    MsgDisp("主人公","Eh......Uhm......");
+    MsgDisp("主人公","Eh......
+Uhm......");
     ChMotion(5,4);
     VoicePlay("S070500000_05_070");
     MsgDisp("Hiiragi","Do you not want to hold hands?");
@@ -82,7 +84,8 @@ Let's hold hands.");
     VoicePlay("S070500000_05_090");
     MsgDisp("Hiiragi","Do you not want to link arms either?");
     MsgDisp("主人公","Uhm, it's not like that, uhm.
-What to do......Ok then, with our hands.");
+What to do......
+Ok then, with our hands.");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,3);

@@ -28,8 +28,9 @@ Then let's go straight there～♪");
     break ;
     case 1:
     VoicePlay("U012200001_22_030");
-    MsgDisp("Hikaru","Ehh～ What's with that...... How
-depressing.");
+    MsgDisp("Hikaru","Ehh～
+What's with that......
+How depressing.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Even though she took the time to invite

@@ -11,8 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040301000_03_010");
-    MsgDisp("Honda","Woohoo! Looks like I know what you like
-quite well!");
+    MsgDisp("Honda","Woohoo!
+Looks like I know what you like quite
+well!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +36,8 @@ Well then, let's look at something else.");
     ChMouth(3,2);
     ChMotion(3,5);
     VoicePlay("B040301000_03_030");
-    MsgDisp("Honda","What∋ Does this mean I have bad
-judgement?");
+    MsgDisp("Honda","What∋
+Does this mean I have bad judgement?");
     MsgDateResultDisp();
     break ;
     default :

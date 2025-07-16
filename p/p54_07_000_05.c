@@ -11,14 +11,15 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540700005_07_000");
 MsgDisp("Mikage","Good work.");
-MsgDisp("主人公","｛御影＊＊｝... I failed...");
+MsgDisp("主人公","｛御影＊＊｝...
+I failed...");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("P540700005_07_010");
-MsgDisp("Mikage","Don't say stupid things,
-you didn't fail.");
-MsgDisp("主人公","Eh? But...");
+MsgDisp("Mikage","Don't say stupid things, you didn't fail.");
+MsgDisp("主人公","Eh?
+But...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

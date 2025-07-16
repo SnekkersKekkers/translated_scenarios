@@ -9,8 +9,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B070300000_03_130");
-MsgDisp("Honda","Really? I like all exercise. But exercise
-doesn't really like me.");
+MsgDisp("Honda","Really?
+I like all exercise.
+But exercise doesn't really like me.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

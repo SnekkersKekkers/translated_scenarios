@@ -14,8 +14,9 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H1A0200001_02_000");
     MsgDisp("Sassa","｛主人公｝, it's too bad.");
-    MsgDisp("主人公","｛颯砂＊＊｝...... We lost. It's
-frustrating.");
+    MsgDisp("主人公","｛颯砂＊＊｝......
+We lost.
+It's frustrating.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);

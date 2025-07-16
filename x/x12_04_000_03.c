@@ -25,7 +25,8 @@ I'll also cooperate.");
         MsgDisp("Nanatsumori","Thanks for the hard work today too. I
 think the reason Haba High is so peaceful
 is thanks to you. Seriously.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

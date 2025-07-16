@@ -24,8 +24,9 @@ MsgDisp("主人公","Umm... sorry?");
 VoicePlay("B150400300_04_040");
 MsgDisp("Nanatsumori","Yeah, thats' even worse.
 It's just provoking meー.");
-MsgDisp("主人公","Ugh... ｛七ツ森＊｝, you're different
-to usual?");
+MsgDisp("主人公","Ugh...
+｛七ツ森＊｝, you're
+different to usual?");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -54,8 +55,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 VoicePlay("B150400300_04_090");
-MsgDisp("Nanatsumori","Next time...
-might really be no good.");
+MsgDisp("Nanatsumori","Next time... might really be no good.");
 MsgDisp("主人公","(What does he mean by no good...)");
 MsgClose();
 ScrFadeOut(0,0);

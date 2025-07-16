@@ -29,8 +29,9 @@ Let's learn from scratch");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("B040310200_03_020");
-    MsgDisp("Honda","Ehh∋ You're starting from thereー. I need
-to follow your sense of initiative!");
+    MsgDisp("Honda","Ehh∋
+You're starting from thereー.
+I need to follow your sense of initiative!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

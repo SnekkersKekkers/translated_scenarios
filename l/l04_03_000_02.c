@@ -54,14 +54,14 @@ I heard people line up for it everyday!");
     ChMouth(3,0);
     ChMotion(3,2);
     VoicePlay("L040300002_03_060");
-    MsgDisp("Honda","Da, you didn't have to spend this
-much.");
+    MsgDisp("Honda","Da, you didn't have to spend this much.");
     MsgDisp("主人公","Then, maybe I'll take it back?");
     ChEye(3,1);
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("L040300002_03_070");
-    MsgDisp("Honda","What!? You can't!");
+    MsgDisp("Honda","What!?
+You can't!");
     MsgDisp("主人公","Hehe.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -77,7 +77,9 @@ So, I'll eat it carefully.");
     VoicePlay("L040300002_03_090");
     MsgDisp("Honda","Ah, of course, I'm not going to give my
 sister any!");
-    MsgDisp("主人公","(Hehe! ｛本多＊＊｝ seemed really happy!)");
+    MsgDisp("主人公","(Hehe!
+｛本多＊＊｝ seemed really
+happy!)");
     break ;
     default :
     DbgAssert(1);

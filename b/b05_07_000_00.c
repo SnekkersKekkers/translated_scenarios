@@ -3,12 +3,13 @@ BGOpen("ho210",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, a message from ｛御影＊＊｝.
-\"The cherry blossoms are beautiful, won't
-you come see itー\" ...He says.))");
-MsgDisp("主人公","(Looks like ｛御影＊＊｝ is at the
-forest park? Alright, it's good weather,
-let's head out!)");
+MsgDisp("主人公","(Ah, a message from
+｛御影＊＊｝. \"The cherry
+blossoms are beautiful, won't you come see
+itー\" ...He says.))");
+MsgDisp("主人公","(Looks like ｛御影＊＊｝
+is at the forest park? Alright, it's good
+weather, let's head out!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -17,7 +18,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("fp210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa...pretty!
+MsgDisp("主人公","Waa... pretty!
 I have the cherry blossoms in full bloom
 all to myself～!");
 VoicePlay("B050700000_07_000");
@@ -26,8 +27,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 Wait(63,0);
 ChOpen(7,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛御影＊＊｝! Thank you for
-inviting me.");
+MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Thank you for inviting me.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -64,7 +65,8 @@ ScrFadeIn(0);
 Wait(7,0);
 VoicePlay("B050700000_07_040");
 MsgDisp("Mikage","It's a special-made fruit sandwich.");
-MsgDisp("主人公","Amazing! Did you make this yourself,
+MsgDisp("主人公","Amazing!
+Did you make this yourself,
 ｛御影＊＊｝?");
 StlEye(7,0);
 StlMouth(7,0);
@@ -109,7 +111,8 @@ MsgClose();
 BGOpen("fp210",0);
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝, thank you for the meal!
+MsgDisp("主人公","｛御影＊＊｝, thank you
+for the meal!
 It was a very cute and delicious meal.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -130,7 +133,8 @@ ScrFadeOut(0);
 SEWait();
 MsgDisp("主人公","(We were able to enjoy the cherry blossoms
 early this year.
-｛御影＊＊｝, thank you very much!)");
+｛御影＊＊｝, thank you
+very much!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -24,7 +24,8 @@ VoicePlay("B040406400_04_030");
 MsgDisp("Nanatsumori","Whether I'm Minori Nanatsumori ot Nana, I
 can't upload it. And they'll also wonder
 who took the picture.");
-MsgDisp("主人公","Ah...I see.");
+MsgDisp("主人公","Ah...
+I see.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -48,8 +49,7 @@ MsgClose();
 ScrFadeIn(0);
 SEPlay("EV_SE_022",1);
 Wait(50,0);
-MsgDisp("主人公","Ah, looks like the 
-fireworks are starting.");
+MsgDisp("主人公","Ah, looks like the fireworks are starting.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

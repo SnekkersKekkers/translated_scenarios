@@ -5,8 +5,9 @@ ChMotion(4,0);
 VoicePlay("G020430000_04_000");
 MsgDisp("Nanatsumori","I wonder what they're up to right
 nowー......those guys.");
-MsgDisp("主人公","Those guys......Ah.
-You mean ｛風真＊＊｝ and ｛本多＊＊｝?");
+MsgDisp("主人公","Those guys......Ah. You mean
+｛風真＊＊｝ and
+｛本多＊＊｝?");
 ChMotion(4,1,1);
 VoicePlay("G020430000_04_010");
 MsgDisp("Nanatsumori","Yeah.

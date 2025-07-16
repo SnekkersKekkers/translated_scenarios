@@ -58,8 +58,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B30801_03_020");
-MsgDisp("Honda","Is that so, 
-you should've said earlier.");
+MsgDisp("Honda","Is that so, you should've said earlier.");
 ChEye(4,0);
 ChMouth(4,0);
 ChEye(1,4);
@@ -91,8 +90,7 @@ consideration?
 That's cold.");
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Hehe, 
-let's all ride it together?");
+MsgDisp("主人公","Hehe, let's all ride it together?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -100,8 +98,9 @@ VoicePlay("B330B30801_04_030");
 MsgDisp("Nanatsumori","If you say so, sure.
 Let's all go on it as four.");
 MsgDisp("主人公","(Hehe! But I might've wanted to see
-｛風真＊＊｝ and ｛本多＊＊｝'s couple
-photo together?')");
+｛風真＊＊｝ and
+｛本多＊＊｝'s couple photo
+together?')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,4,1);
     VoicePlay("B040708101_07_010");
-    MsgDisp("Mikage","They're more beautiful 
-during the day.");
+    MsgDisp("Mikage","They're more beautiful during the day.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -35,7 +35,7 @@ switch (MsgSelRsltGet()){
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040115102_01_020");
-        MsgDisp("Kazama","There it is...geez.
+        MsgDisp("Kazama","There it is... geez.
 You're greedy.");
         MsgDateResultDisp();
         break ;
@@ -46,7 +46,7 @@ You're greedy.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040115102_01_030");
-        MsgDisp("Kazama","...Geez, you're a big eater.
+        MsgDisp("Kazama","... Geez, you're a big eater.
 A travel voucher is better right?");
         MsgDisp("主人公","But, if we got a meal voucher, we could
 eat together after this?");
@@ -62,10 +62,9 @@ eat together after this?");
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040115102_01_050");
-        MsgDisp("Kazama","A fancy dinner in the 
-waterfront area...");
-        MsgDisp("主人公","Hehe, ｛風真＊＊｝ is also a gourmand,
-isn't he?");
+        MsgDisp("Kazama","A fancy dinner in the waterfront area...");
+        MsgDisp("主人公","Hehe, ｛風真＊＊｝ is also a
+gourmand, isn't he?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,3);
@@ -74,13 +73,14 @@ isn't he?");
         VoicePlay("B040115102_01_060");
         MsgDisp("Kazama","Ha? Don't lump me in with you. When it's
 about food, anything is fine for me.");
-        MsgDisp("主人公","Eh? Then what?");
+        MsgDisp("主人公","Eh?
+Then what?");
         ChEye(1,2);
         ChMouth(1,2);
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040115102_01_070");
-        MsgDisp("Kazama","...Drop it.
+        MsgDisp("Kazama","... Drop it.
 A fancy dinner is fine.");
         MsgDisp("主人公","(｛風真＊＊｝, Even if you didn't get a
 perfect score, the prize is a travel

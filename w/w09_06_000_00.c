@@ -19,7 +19,8 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,255,1,0,0,#1,#1,5,0);
     VoicePlay("W090600000_06_020");
     MsgDisp("Himuro","Can I sit next to you?");
-    MsgDisp("主人公","Huh?　Of course!");
+    MsgDisp("主人公","Huh?
+Of course!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);

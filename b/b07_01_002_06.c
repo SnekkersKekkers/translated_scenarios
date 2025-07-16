@@ -1,6 +1,7 @@
 MsgDisp("主人公","Recently it's become normal for the four
 of us; me, you, ｛本多＊＊｝ and
-｛七ツ森＊｝ to be together.");
+｛七ツ森＊｝ to be
+together.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -12,8 +13,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("B070100002_01_340");
-MsgDisp("Kazama","If you're okay with it,
-then it's fine.");
+MsgDisp("Kazama","If you're okay with it, then it's fine.");
 MsgDisp("主人公","Yeah, it's like talking to a girl friend,
 it's fun.");
 ChEye(1,0);
@@ -30,8 +30,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_360");
 MsgDisp("Kazama","What makes me seem like a girl?
 I can't accept it all.");
-MsgDisp("主人公","Umm, 
-what you ask...");
+MsgDisp("主人公","Umm, what you ask...");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);

@@ -12,13 +12,15 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("R060600003_06_010");
     MsgDisp("Himuro","That's the present I brought.");
-    MsgDisp("主人公","That's right! ... Uh, ｛氷室＊＊｝, did you
-know you also got my present I brought?");
+    MsgDisp("主人公","That's right!
+... Uh, ｛氷室＊＊｝, did you know
+you also got my present I brought?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("R060600003_06_020");
-    MsgDisp("Himuro","Woah... I didn't think that would even be
+    MsgDisp("Himuro","Woah...
+I didn't think that would even be
 possible.");
     break ;
     case 3:
@@ -27,7 +29,8 @@ possible.");
     VoiceEVSPlay(6);
     VoicePlay("R060600003_06_030");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. What did you get?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+What did you get?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -76,14 +79,14 @@ What a coincidence.");
     VoicePlay("R060600003_06_100");
     MsgDisp("Himuro","That's the one I brought.
 I'm glad that you got it.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝, it seems you also got
-mine...");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝, it seems you also
+got mine...");
     ChEye(6,4);
     ChMouth(6,0);
     ChMotion(6,5);
     VoicePlay("R060600003_06_110");
     MsgDisp("Himuro","Really?
-...Amazing.");
+... Amazing.");
     MsgDisp("主人公","A Christmas miracle?");
     ChEye(6,0);
     ChMouth(6,4);
@@ -91,8 +94,8 @@ mine...");
     VoicePlay("R060600003_06_120");
     MsgDisp("Himuro","Yes, a miracle indeed.
 I'm already happy with this miracle.");
-    MsgDisp("主人公","Hehe. How about you don't say that and
-open it?");
+    MsgDisp("主人公","Hehe.
+How about you don't say that and open it?");
     break ;
     default :
     DbgAssert(1);

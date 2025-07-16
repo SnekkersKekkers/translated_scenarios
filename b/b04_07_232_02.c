@@ -5,8 +5,7 @@ MsgClose();
 ChOpen(7,255,0,2,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723202_07_000");
-MsgDisp("Mikage","What will we do if 
-this stops halfway...?");
+MsgDisp("Mikage","What will we do if this stops halfway...?");
 MsgSel("That's great; we get to ride longer.","It might be nice to get stuck with ｛御影＊＊｝.","Let's believe in Habataki Land Town.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -42,9 +41,9 @@ What would we do if we were at the top...");
         ChMouth(7,0);
         ChMotion(7,4);
         VoicePlay("B040723202_07_030");
-        MsgDisp("Mikage","Do you really like
-this that much?");
-        MsgDisp("主人公","Yes. Especially when I'm with
+        MsgDisp("Mikage","Do you really like this that much?");
+        MsgDisp("主人公","Yes.
+Especially when I'm with
 ｛御影＊＊｝.");
         ChEye(7,1);
         ChMouth(7,0);
@@ -56,7 +55,7 @@ I-I see.");
         ChMouth(7,0);
         ChMotion(7,1);
         VoicePlay("B040723202_07_050");
-        MsgDisp("Mikage","Got it, let's go on again. ");
+        MsgDisp("Mikage","Got it, let's go on again.");
         MsgDisp("主人公","Eh?
 Is that okay?!");
         ChEye(7,0);
@@ -97,9 +96,9 @@ Ah, I saw Habataki Castle!");
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040723202_07_090");
-        MsgDisp("Mikage","O-Oh.
-don't stand up～");
-        MsgDisp("主人公","｛御影＊＊｝ and Hanegasaki beach too!");
+        MsgDisp("Mikage","O-Oh. don't stand up～");
+        MsgDisp("主人公","｛御影＊＊｝ and
+Hanegasaki beach too!");
         ChEye(7,1);
         ChMouth(7,3);
         ChMotion(7,5);
@@ -120,7 +119,8 @@ Don't stand up～");
         VoicePlay("B040723202_07_110");
         MsgDisp("Mikage","Haa, that was fun～......");
         MsgDisp("主人公","(I ended up getting to ride the ferris
-wheel twice, ｛御影＊＊｝, thank you.)");
+wheel twice, ｛御影＊＊｝,
+thank you.)");
         break ;
         default :
         DbgAssert(1);
@@ -133,7 +133,7 @@ wheel twice, ｛御影＊＊｝, thank you.)");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040723202_07_120");
-    MsgDisp("Mikage","...I see.
+    MsgDisp("Mikage","... I see.
 After that, it depends on me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

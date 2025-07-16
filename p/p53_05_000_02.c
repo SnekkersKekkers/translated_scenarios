@@ -17,8 +17,8 @@ all these last three years?)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, this is your last stage, I
-look forward to it.");
+    MsgDisp("Hiiragi","｛主人公｝, this is your
+last stage, I look forward to it.");
     MsgDisp("主人公","｛柊＊＊＊｝, thank you!
 I'll do my best so I can show the results
 of my three years of hard work.");
@@ -26,8 +26,9 @@ of my three years of hard work.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P530500002_05_010");
-    MsgDisp("Hiiragi","Yes. I'll close my eyes and search for
-your sound.");
+    MsgDisp("Hiiragi","Yes.
+I'll close my eyes and search for your
+sound.");
     MsgDisp("主人公","Eh?
 I want you to look carefully.");
     ChEye(5,3);
@@ -75,23 +76,26 @@ all these last three years?)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_050");
-    MsgDisp("Hiiragi","｛主人公｝, this is your last
-performance, correct?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Thank you for coming.");
+    MsgDisp("Hiiragi","｛主人公｝, this is your
+last performance, correct?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Thank you for coming.");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("P530500002_05_060");
-    MsgDisp("Hiiragi","Heheh. I seem to be more tense than you,
-who sis performing on stage.");
+    MsgDisp("Hiiragi","Heheh.
+I seem to be more tense than you, who sis
+performing on stage.");
     MsgDisp("主人公","Eh?");
     ChEyeOpenLevel(5,0);
     VoicePlay("P530500002_05_070");
     MsgDisp("Hiiragi","I wanted to relieve your stress, but it
 appears there's no need for that.");
-    MsgDisp("主人公","No. I calmed down seeing ｛柊＊＊＊｝'s
-face.");
+    MsgDisp("主人公","No.
+I calmed down seeing
+｛柊＊＊＊｝'s face.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -99,15 +103,16 @@ face.");
     MsgDisp("Hiiragi","Is that so.
 Then, I'll enjoy your performance without
 haste.");
-    MsgDisp("主人公","So that I can satisfy ｛柊＊＊＊｝, I'll
-do my best.");
+    MsgDisp("主人公","So that I can satisfy
+｛柊＊＊＊｝, I'll do my best.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,3);
     Wait(20,1);
     VoicePlay("P530500002_05_090");
-    MsgDisp("Hiiragi","Yes. Seeing your face full of self-belief,
-is already plenty satisfactory.");
+    MsgDisp("Hiiragi","Yes.
+Seeing your face full of self-belief, is
+already plenty satisfactory.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);

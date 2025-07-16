@@ -2,12 +2,11 @@ BGOpen("fp000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Should I head home now?
-......Huh, over there is that-)");
+...... Huh, over there is that-)");
 VoicePlay("E010520200_03_000");
 MsgDisp("Honda?","Yano-kun is really popular.");
 VoicePlay("E010520200_05_000");
-MsgDisp("Hiiragi?","Honda-kun, how are you
-so good with kids?");
+MsgDisp("Hiiragi?","Honda-kun, how are you so good with kids?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,4,0,4,#1,#1,0,1);
@@ -22,7 +21,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("E010520200_03_010");
-MsgDisp("Honda","Hello! I was just surprised by how popular
+MsgDisp("Honda","Hello!
+I was just surprised by how popular
 Yano-kun is.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -123,10 +123,12 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520200_05_080");
-MsgDisp("Hiiragi","Hmmm... quizzes and drama... Couldn't that
-lead to something interesting?");
+MsgDisp("Hiiragi","Hmmm... quizzes and drama...
+Couldn't that lead to something
+interesting?");
 MsgDisp("主人公","(It seems that ｛柊＊＊＊｝ and
-｛本多＊＊｝ can work well together.)");
+｛本多＊＊｝ can work well
+together.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

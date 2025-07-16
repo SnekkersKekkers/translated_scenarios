@@ -45,8 +45,7 @@ that'll be conveyed?");
         VoicePlay("B040309002_03_030");
         MsgDisp("Honda","But, you know, there's even a saying that
 houseplants feed off people's complaints.");
-        MsgDisp("主人公","It would be amazing
-if that were true.");
+        MsgDisp("主人公","It would be amazing if that were true.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);

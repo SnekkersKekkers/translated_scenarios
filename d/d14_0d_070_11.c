@@ -16,8 +16,8 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07011_22_010");
-MsgDisp("Hikaru","Right. Because then you'll see through
-him～?");
+MsgDisp("Hikaru","Right.
+Because then you'll see through him～?");
 MsgDisp("主人公","See through him?");
 ChEye(21,0);
 ChMouth(21,0);

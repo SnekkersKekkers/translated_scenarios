@@ -25,8 +25,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C05100_05_000");
 MsgDisp("Hiiragi","What's up with you two?");
-MsgDisp("主人公","Yeah, is there 
-something bothering you?");
+MsgDisp("主人公","Yeah, is there something bothering you?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
@@ -37,8 +36,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05100_06_010");
-MsgDisp("Himuro","Phew... I completely forgot. What were we
-talking about until now?");
+MsgDisp("Himuro","Phew...
+I completely forgot.
+What were we talking about until now?");
 MsgDisp("主人公","Until now?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -65,7 +65,7 @@ VoicePlay("D140C05100_06_030");
 MsgDisp("Himuro","That's right. Please, Yanosuke-senpai.
 Give us your impressions on the date you
 two went on.");
-MsgDisp("主人公","Ehh..? ");
+MsgDisp("主人公","Ehh..?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -77,14 +77,13 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C05100_07_030");
-MsgDisp("Mikage","｛主人公｝, why is it only you who is
-that surprised?");
+MsgDisp("Mikage","｛主人公｝, why is it only
+you who is that surprised?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("D140C05100_05_030");
-MsgDisp("Hiiragi","Would it be wrong of me 
-to tell them?");
+MsgDisp("Hiiragi","Would it be wrong of me to tell them?");
 MsgDisp("主人公","It's not wrong but...");
 ChEye(5,4);
 ChMouth(5,4);
@@ -100,8 +99,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C05100_07_040");
-MsgDisp("Mikage","Heehー, as expected of Yanosuke. I can
-picture the scene. Nice.");
+MsgDisp("Mikage","Heehー, as expected of Yanosuke.
+I can picture the scene.
+Nice.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -132,7 +132,8 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D140C05100_05_050");
 MsgDisp("Hiiragi","It appears that I cannot.");
 MsgDisp("主人公","(Haa, that caught me off guard.
-What was ｛柊＊＊＊｝ saying so suddenly?)");
+What was ｛柊＊＊＊｝ saying so
+suddenly?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

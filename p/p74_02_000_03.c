@@ -10,7 +10,8 @@ SEWait();
 ChOpen(2,254,4,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200003_02_000");
-MsgDisp("Sassa","｛主人公｝, are you alright?
+MsgDisp("Sassa","｛主人公｝, are you
+alright?
 Are you injured?");
 MsgDisp("主人公","Yes, I'm fine.
 But, I failed...");
@@ -25,8 +26,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P740200003_02_020");
-MsgDisp("Sassa","So, it's a half-success. \
-Right?");
+MsgDisp("Sassa","So, it's a half-success.
+\ Right?");
 MsgDisp("主人公","Y-Yeah.
 ｛颯砂＊＊｝, thank you...");
 MsgDisp("主人公","(Haa... but I wish I had practiced more

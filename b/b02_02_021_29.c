@@ -9,8 +9,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202129_02_010");
-MsgDisp("Sassa","Yeah. There's something cute about it,
-even when it's so adult.");
+MsgDisp("Sassa","Yeah.
+There's something cute about it, even when
+it's so adult.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -1,12 +1,14 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Amazing...... ｛颯砂＊＊｝ is always at
-the top.)");
+MsgDisp("主人公","(Amazing......
+｛颯砂＊＊｝ is always at the
+top.)");
 VoicePlay("G110200700_34_000");
 MsgDisp("Member A","Sassa, let me have the credit for once～");
 VoicePlay("G110200700_02_000");
-MsgDisp("Sassa","Eh? Ah, sorry. I can't coordinate it like
-that.");
+MsgDisp("Sassa","Eh?
+Ah, sorry.
+I can't coordinate it like that.");
 MsgClose();
 SEPlay("EV_SE_628");
 SEWait();
@@ -15,7 +17,8 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200700_02_010");
 MsgDisp("Sassa","｛主人公｝, good work.");
-MsgDisp("主人公","Yeah. Aaah, ｛颯砂＊＊｝'s time is......");
+MsgDisp("主人公","Yeah.
+Aaah, ｛颯砂＊＊｝'s time is......");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

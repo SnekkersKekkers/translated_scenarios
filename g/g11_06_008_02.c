@@ -43,8 +43,9 @@ ChMouth(6,1);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600802_06_040");
-MsgDisp("Himuro","Yeah. Before I knew it, you started
-entering my life too much.");
+MsgDisp("Himuro","Yeah.
+Before I knew it, you started entering my
+life too much.");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);
@@ -56,15 +57,16 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600802_06_060");
 MsgDisp("Himuro","What?");
-MsgDisp("主人公","For some reason,
-that made me laugh...");
+MsgDisp("主人公","For some reason, that made me laugh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600802_06_070");
 MsgDisp("Himuro","I'm not sure what makes it funny.");
-MsgDisp("主人公","(...Huh, ｛氷室＊＊｝, is your face red...?)");
+MsgDisp("主人公","(...
+Huh, ｛氷室＊＊｝, is your face
+red...?)");
 while (1){
     RunEverydaySksp(6,0,1,0,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -84,23 +86,23 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600802_06_110");
-MsgDisp("Himuro","Huh... my face is not that red. The sun is
-just setting.");
+MsgDisp("Himuro","Huh... my face is not that red.
+The sun is just setting.");
 MsgDisp("主人公","Hmm?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,5);
 VoicePlay("G110600802_06_120");
-MsgDisp("Himuro","What? If you have something to say, why
-don't you just say it?");
+MsgDisp("Himuro","What?
+If you have something to say, why don't
+you just say it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600802_06_130");
-MsgDisp("Himuro","It's rude to smile at someone's
-face.");
+MsgDisp("Himuro","It's rude to smile at someone's face.");
 MsgDisp("主人公","Huh, was I smiling?");
 ChEye(6,0);
 ChMouth(6,0);

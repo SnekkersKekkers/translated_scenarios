@@ -28,7 +28,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("P640300000_03_030");
 MsgDisp("Honda","Haa... right now I'm super relaxed. can I
 relax a bit longer?");
-MsgDisp("主人公","(｛本多＊＊｝ seems satisfied! Yay!)");
+MsgDisp("主人公","(｛本多＊＊｝ seems satisfied!
+Yay!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

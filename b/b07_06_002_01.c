@@ -4,8 +4,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_010");
-MsgDisp("Himuro","Maybe. He has a different world from mine,
-so talking with him is refreshing.");
+MsgDisp("Himuro","Maybe.
+He has a different world from mine, so
+talking with him is refreshing.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -51,8 +52,9 @@ ChMotion(6,0);
 VoicePlay("B070600002_06_070");
 MsgDisp("Himuro","He's an interesting character in many
 ways.");
-MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝'s existence will
-expand ｛氷室＊＊｝'s world.)");
+MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝'s
+existence will expand ｛氷室＊＊｝'s
+world.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

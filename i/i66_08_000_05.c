@@ -14,7 +14,7 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,3);
     VoicePlay("I660800005_08_000");
     MsgDisp("Shirahane","Okay, lemme check.
-......Full marks!");
+...... Full marks!");
     MsgDisp("主人公","Yes!");
     VoicePlay("I660800005_39_000");
     MsgDisp("Male Customer","Ooh!
@@ -40,7 +40,8 @@ Take care of it next time too.");
     VoicePlay("I660800005_08_030");
     MsgDisp("Shirahane","That customer sure was happy.
 Good thing I trusted you with this.");
-    MsgDisp("主人公","(Yay! ｛大地＊＊｝ praised me!)");
+    MsgDisp("主人公","(Yay!
+｛大地＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:
@@ -55,8 +56,9 @@ Lemme check.");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800005_08_050");
-    MsgDisp("Shirahane","Ooh! Not a single smudge in sight...... A
-full 100 points!");
+    MsgDisp("Shirahane","Ooh!
+Not a single smudge in sight......
+A full 100 points!");
     ChEyeOpenLevel(8,#1);
     MsgDisp("主人公","Yay!");
     VoicePlay("I660800005_39_020");

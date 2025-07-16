@@ -9,8 +9,8 @@ MsgDisp("主人公","I'm sorry.
 Seems like management's directions were
 wrong.");
 VoicePlay("P840700005_41_020");
-MsgDisp("Male Student","Ehh? is that right. Get your act together,
-student council.");
+MsgDisp("Male Student","Ehh? is that right.
+Get your act together, student council.");
 MsgDisp("主人公","(I'm glad it ended peacefully, but I
 caused confusion for everyone.)");
 VoiceEVSPlay(7);
@@ -23,8 +23,9 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840700005_07_010");
 MsgDisp("Mikage","It seems like it was difficult to the end
 huh?");
-MsgDisp("主人公","Ah, ｛御影＊＊｝... Our instructions
-were wrong, so we caused some trouble.");
+MsgDisp("主人公","Ah, ｛御影＊＊｝...
+Our instructions were wrong, so we caused
+some trouble.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -45,9 +46,9 @@ ChMotion(7,1);
 VoicePlay("P840700005_07_040");
 MsgDisp("Mikage","You should think of the mistake as part of
 your cultural festival memories.");
-MsgDisp("主人公","(Uuugh... It was my last cultural
-festival, so I wanted to do it
-perfectly...)");
+MsgDisp("主人公","(Uuugh...
+It was my last cultural festival, so I
+wanted to do it perfectly...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

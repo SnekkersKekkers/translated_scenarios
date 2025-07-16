@@ -15,16 +15,15 @@ ChOpen(1,255,0,0,3,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("B330A20700_01_000");
-MsgDisp("Kazama","｛主人公｝, you're the type animals are
-drawn to.");
+MsgDisp("Kazama","｛主人公｝, you're the
+type animals are drawn to.");
 MsgDisp("主人公","Is that so?
 They're cute, so I'm happy.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A20700_06_000");
-MsgDisp("Himuro","But,
-there's always someone better.
+MsgDisp("Himuro","But, there's always someone better.
 Look.");
 ChMouth(1,2);
 VoicePlay("B330A20700_02_000");
@@ -58,14 +57,14 @@ SEWait();
 ScrFadeIn(0);
 VoicePlay("B330A20700_02_020");
 MsgDisp("Sassa","Haa... that saved me.");
-MsgDisp("主人公","Hehe. ｛颯砂＊＊｝ sure is liked by animals
-isn't he?");
+MsgDisp("主人公","Hehe.
+｛颯砂＊＊｝ sure is liked by
+animals isn't he?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20700_06_010");
-MsgDisp("Himuro","Maybe it's cause he
-smells like catnip?");
+MsgDisp("Himuro","Maybe it's cause he smells like catnip?");
 MsgDisp("主人公","Ehh?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -86,7 +85,8 @@ ChEyeOpenLevel(2,7);
 VoicePlay("B330A20700_02_040");
 MsgDisp("Sassa","What are you two saying!");
 MsgDisp("主人公","I think it's surely just because the
-animals know ｛颯砂＊＊｝ is a good person.");
+animals know ｛颯砂＊＊｝ is a
+good person.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -109,7 +109,8 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B330A20700_02_060");
 MsgDisp("Sassa","I'm not wearing anything!");
-MsgDisp("主人公","(Hehe. I wonder if ｛風真＊＊｝ and
+MsgDisp("主人公","(Hehe.
+I wonder if ｛風真＊＊｝ and
 ｛氷室＊＊｝ are jealous?)");
 BGMStop();
 MsgClose();

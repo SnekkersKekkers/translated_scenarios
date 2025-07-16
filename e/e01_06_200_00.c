@@ -2,7 +2,7 @@ BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I think I'll head home now.
-......Huh?)");
+...... Huh?)");
 MsgDisp("主人公","｛氷室＊＊｝! ｛柊＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -45,8 +45,8 @@ ChEyeOpenLevel(5,9);
 VoicePlay("E010620000_05_030");
 MsgDisp("Hiiragi","The list just says\"Pop pop\"......
 Do you have any ideas?");
-MsgDisp("主人公","Popping...... Maybe something that gets
-squished??");
+MsgDisp("主人公","Popping......
+Maybe something that gets squished??");
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("E010620000_05_040");
@@ -57,8 +57,8 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,7);
 VoiceEVSPlay(6);
 VoicePlay("E010620000_06_030");
-MsgDisp("Himuro","｛主人公｝. That's a bad way of
-explaining.");
+MsgDisp("Himuro","｛主人公｝.
+That's a bad way of explaining.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -104,8 +104,7 @@ ChClose(5,0,30);
 SEWait();
 Wait(20,0);
 VoicePlay("E010620000_05_080");
-MsgDisp("Hiiragi","......By the way,
-\"squish\" mean?");
+MsgDisp("Hiiragi","......By the way, \"squish\" mean?");
 VoicePlay("E010620000_06_070");
 MsgDisp("Himuro","That's just a way of saying to crush
 something.");

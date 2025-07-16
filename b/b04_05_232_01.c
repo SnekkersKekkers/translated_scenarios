@@ -39,7 +39,8 @@ around Habataki city in the ferris wheel.");
     ChMotion(5,0);
     VoicePlay("B040523201_05_030");
     MsgDisp("Hiiragi","Hey, next time tell me when you can see
-it. Okay?");
+it.
+Okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

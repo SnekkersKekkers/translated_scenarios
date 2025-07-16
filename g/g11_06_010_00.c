@@ -14,8 +14,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_010");
-MsgDisp("Himuro","It's okay but......Ryota-senpai—— Ah,
-nevermind.");
+MsgDisp("Himuro","It's okay but......
+Ryota-senpai—— Ah, nevermind.");
 MsgDisp("主人公","(｛風真＊＊｝?)");
 MsgClose();
 MsgClose();
@@ -30,8 +30,7 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110601000_06_020");
-MsgDisp("Himuro","Ryota-senpai is really worried about
-you.");
+MsgDisp("Himuro","Ryota-senpai is really worried about you.");
 MsgDisp("主人公","Eh, is that so?");
 ChEye(6,2);
 ChMouth(6,0);
@@ -74,13 +73,14 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_080");
-MsgDisp("Himuro","Well. But if Ryota-senpai says it, that
-must be the case right?");
+MsgDisp("Himuro","Well.
+But if Ryota-senpai says it, that must be
+the case right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110601000_06_090");
-MsgDisp("Himuro","......Geez.
+MsgDisp("Himuro","...... Geez.
 What am I so worried for?");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);

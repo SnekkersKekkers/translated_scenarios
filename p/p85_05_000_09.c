@@ -38,8 +38,8 @@ ChMotion(5,0);
 VoicePlay("P850500009_05_040");
 MsgDisp("Hiiragi","See, so look up.");
 MsgDisp("主人公","(Haa... even though it was the last
-cultural festival of my school life... I
-wanted to end it with a smile.)");
+cultural festival of my school life...
+I wanted to end it with a smile.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

@@ -13,8 +13,7 @@ VoicePlay("P650700005_07_010");
 MsgDisp("Mikage","If we're going to be tired anyway, let's
 make the customers happy.
 Everyone was disappointed, you know?");
-MsgDisp("主人公","Uuugh...
-so it was a failure after all.");
+MsgDisp("主人公","Uuugh... so it was a failure after all.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

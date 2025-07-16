@@ -9,22 +9,24 @@ switch (MsgSelRsltGet()){
         case 3:
         VoicePlay("J060201000_02_000");
         MsgDisp("Sassa","That's good, it's a plan.");
-        MsgDisp("主人公","On ｛日付｝, at ｛待ち合わせ場所｝?");
+        MsgDisp("主人公","On ｛日付｝, at
+｛待ち合わせ場所｝?");
         VoicePlay("J060201000_02_010");
         MsgDisp("Sassa","That's fine.
 I'll be looking forward to seeing you on
 the day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝. ......
-This is a date, right?)");
+        MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝.
+...... This is a date, right?)");
         break ;
         case 4:
         case 5:
         VoicePlay("J060201000_02_020");
         MsgDisp("Sassa","Really? Cool! Okay, let's decide where
 we're going to meet.");
-        MsgDisp("主人公","Yeah. Okay, then, how about we meet at the
+        MsgDisp("主人公","Yeah.
+Okay, then, how about we meet at the
 ｛待ち合わせ場所｝?");
         VoicePlay("J060201000_02_030");
         MsgDisp("Sassa","Yeah, it's fine.
@@ -85,8 +87,8 @@ I'm sorry if I missed it next time.");
         MsgDisp("Sassa","See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He took the time to invite me. Sorry
-......)");
+        MsgDisp("主人公","(He took the time to invite me.
+Sorry ......)");
         break ;
         default :
         DbgAssert(1);

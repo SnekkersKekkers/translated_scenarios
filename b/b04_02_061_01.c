@@ -30,8 +30,7 @@ half-naked delinquents.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040206101_02_020");
-    MsgDisp("Sassa","Haha, you're getting carried
-away too.");
+    MsgDisp("Sassa","Haha, you're getting carried away too.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

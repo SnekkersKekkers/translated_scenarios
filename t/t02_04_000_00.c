@@ -25,9 +25,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("T020400000_04_020");
-MsgDisp("Nanatsumori","......Hey. The fact that you're here makes
-me wonder if I can have a little bit of
-hope.");
+MsgDisp("Nanatsumori","...... Hey.
+The fact that you're here makes me wonder
+if I can have a little bit of hope.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("T020400000_04_030");
@@ -43,7 +43,7 @@ MsgDisp("主人公","!");
 VoicePlay("T020400000_04_050");
 MsgDisp("Nanatsumori","During the school trip I tried shouting as
 hard as I could too.
-......Didn't it get through to you?");
+...... Didn't it get through to you?");
 MsgDisp("主人公","......Ah.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -69,7 +69,7 @@ MsgDisp("Nanatsumori","To be honest, when I first met you I
 thought you were a pain.");
 ChMotion(4,2,1);
 VoicePlay("T020400000_04_100");
-MsgDisp("Nanatsumori","But......before I knew it, the tables had
+MsgDisp("Nanatsumori","But...... before I knew it, the tables had
 turned.
 The one who was causing trouble was me.");
 ChMouth(4,0);

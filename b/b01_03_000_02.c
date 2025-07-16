@@ -6,7 +6,8 @@ Huh?)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
 ChOpen(3,253,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝! Did I have the wrong time?");
+MsgDisp("主人公","｛本多＊＊｝!
+Did I have the wrong time?");
 switch (ChPrmGet(3,6)){
     case 0:
     case 1:
@@ -31,7 +32,8 @@ it.");
     case 3:
     ChSet(3,0);
     VoicePlay("B010300002_03_020");
-    MsgDisp("Honda","Nope. You're right on time.");
+    MsgDisp("Honda","Nope.
+You're right on time.");
     MsgDisp("主人公","Then you arrived early?");
     MsgDispSksp(1,0);
     ChEye(3,0);

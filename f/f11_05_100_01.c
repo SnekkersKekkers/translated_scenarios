@@ -6,8 +6,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510001_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝. Information desk again
-this year?");
+MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
+Information desk again this year?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -56,7 +56,8 @@ ChClose(5);
 VoicePlay("F110510001_05_060");
 MsgDisp("Hiiragi","If that is the case, try yakisoba.
 I will take you there.");
-MsgDisp("主人公","(Haha. ｛柊＊＊＊｝ seems like he could go
-for yakisoba.)");
+MsgDisp("主人公","(Haha.
+｛柊＊＊＊｝ seems like he
+could go for yakisoba.)");
 MsgClose();
 ScrFadeOut(0,0);

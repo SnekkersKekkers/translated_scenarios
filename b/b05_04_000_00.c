@@ -22,8 +22,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B050400000_04_000");
-MsgDisp("Nanatsumori","Yeah. They need to keep ahead of the
-season in whatever way they can.");
+MsgDisp("Nanatsumori","Yeah.
+They need to keep ahead of the season in
+whatever way they can.");
 MsgDisp("主人公","Right!
 It's really cute...");
 ChEye(4,4);
@@ -53,8 +54,8 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,8);
 VoicePlay("B050400000_47_010");
-MsgDisp("Woman Customer A","Right! Don't tell me that's his
-girlfriend∋");
+MsgDisp("Woman Customer A","Right!
+Don't tell me that's his girlfriend∋");
 MsgDisp("主人公","H-Hey, ｛七ツ森＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
@@ -94,7 +95,7 @@ StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400000_04_050");
 MsgDisp("Nanatsumori","Don't look around.
-...Look at me.");
+... Look at me.");
 MsgDisp("主人公","Y-Yeah.");
 StlEye(4,0,0);
 StlMouth(4,0);
@@ -110,14 +111,15 @@ MsgDisp("Woman Customer B","But it's kinda suspicious.
 If he was the real deal, he wouldn't stand
 like thatー.");
 VoicePlay("B050400000_47_030");
-MsgDisp("Woman Customer A","Got it, he's Nana's fan!' There are quite
-a lot of guys who copy Nana's hairstyle
-and fashion right?");
+MsgDisp("Woman Customer A","Got it, he's Nana's fan!
+' There are quite a lot of guys who copy
+Nana's hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
 MsgDisp("Woman Customer B","That's right.
 Ahー That scared meー!");
-MsgDisp("主人公","(I'm glad... Looks like they didn't even
-discover it was \"Nana\". )");
+MsgDisp("主人公","(I'm glad...
+Looks like they didn't even discover it
+was \"Nana\". )");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("B050400000_04_060");
@@ -181,6 +183,7 @@ ChMotion(4,3,1);
 VoicePlay("B050400000_04_130");
 MsgDisp("Nanatsumori","I'm begging you.
 Now let's continue shopping.");
-MsgDisp("主人公","(...Hm?
+MsgDisp("主人公","(...
+Hm?
 He said \"next time\"...)");
 ChPrmTblAdd(4,0);

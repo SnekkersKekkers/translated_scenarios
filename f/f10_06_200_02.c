@@ -2,20 +2,20 @@ BGOpen("sc500",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Alright, it's about time to head home.
-...Huh?)");
+... Huh?)");
 VoicePlay("F100620002_06_000");
-MsgDisp("Himuro?","I don't want to
-stand in line again...");
+MsgDisp("Himuro?","I don't want to stand in line again...");
 VoicePlay("F100620002_03_000");
-MsgDisp("Honda?","Really? But good restaurants always have
-lines, right?");
+MsgDisp("Honda?","Really?
+But good restaurants always have lines,
+right?");
 MsgDisp("主人公","(These voices...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(3,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛氷室＊＊｝, ｛本多＊＊｝. Are you talking
-about ramen shops?");
+MsgDisp("主人公","｛氷室＊＊｝, ｛本多＊＊｝.
+Are you talking about ramen shops?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -79,7 +79,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("F100620002_03_040");
-MsgDisp("Honda","Hm? Nori-kun too?");
+MsgDisp("Honda","Hm?
+Nori-kun too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -88,8 +89,8 @@ MsgDisp("Himuro","...I'm going.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,0);
-MsgDisp("主人公","(Hehe! Surprisingly, these two make a good
-pair?)");
+MsgDisp("主人公","(Hehe!
+Surprisingly, these two make a good pair?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

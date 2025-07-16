@@ -1,8 +1,9 @@
 MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 VoicePlay("G020110102_01_000");
-MsgDisp("Kazama","......Hey. Are fireflies supposed to be
-this colorful?");
+MsgDisp("Kazama","...... Hey.
+Are fireflies supposed to be this
+colorful?");
 MsgDisp("主人公","Fireflies come in all shapes and sizes and
 colors, just like people.");
 ChEye(1,4);
@@ -25,7 +26,8 @@ ChMouth(1,3);
 VoicePlay("G020110102_01_030");
 MsgDisp("Kazama","Honda and Nanatsumori would probably both
 glow rainbow if they were fireflies.");
-MsgDisp("主人公","Hahah. What about you, ｛風真＊＊｝?");
+MsgDisp("主人公","Hahah.
+What about you, ｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -56,7 +58,8 @@ VoicePlay("G020110102_01_070");
 MsgDisp("Kazama","No one can get between you and me.
 My advantage will never disappear, ever.");
 MsgDisp("主人公","(Is ｛風真＊＊｝...... worried about
-｛本多＊＊｝ and ｛七ツ森＊｝?");
+｛本多＊＊｝ and
+｛七ツ森＊｝?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

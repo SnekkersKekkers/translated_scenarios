@@ -42,7 +42,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D140A05001_02_020");
-MsgDisp("Sassa","Really?! We'd be super happy!
+MsgDisp("Sassa","Really?!
+We'd be super happy!
 Right?");
 ChEye(1,0);
 ChMouth(1,2);

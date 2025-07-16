@@ -19,7 +19,8 @@ switch (ChPrmGet(1,6)){
         VoicePlay("S090100001_01_000");
         MsgDisp("Kazama","You've still got the spirit to make the
 best out of everything.");
-        MsgDisp("主人公","Yep! Let's have fun!");
+        MsgDisp("主人公","Yep!
+Let's have fun!");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,0);
@@ -58,7 +59,7 @@ Woah, it's super popular.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("S090100001_01_010");
-        MsgDisp("Kazama","Right. 
+        MsgDisp("Kazama","Right.
 Let's try our luck this year.");
         MsgDisp("主人公","(I hope you get a good draw!)");
         ChEye(1,0);
@@ -79,8 +80,7 @@ Let's try our luck this year.");
         VoicePlay("S090100002_01_020");
         MsgDisp("Kazama","Heh, that's a mature thing to say.
 It's that kind of feeling this year, huh?");
-        MsgDisp("主人公","(Maybe I should have given
-it a try......)");
+        MsgDisp("主人公","(Maybe I should have given it a try......)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

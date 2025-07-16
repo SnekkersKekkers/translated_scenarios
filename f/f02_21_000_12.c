@@ -24,8 +24,7 @@ ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F022100012_21_020");
 MsgDisp("Michiru","I think Mari will be completely fine
-though.
-Hikaru...I worry for her.");
+though. Hikaru...I worry for her.");
 MsgDisp("主人公","Hehe!");
 MsgClose();
 ScrFadeOut(0,0);

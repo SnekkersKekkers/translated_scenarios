@@ -35,11 +35,10 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30800_01_020");
-MsgDisp("Kazama","That's fine for you, 
-but what about us?");
-MsgDisp("主人公","I guess we'll listen to ｛本多＊＊｝'s
-chatter whilst looking at the beautiful
-scenery?");
+MsgDisp("Kazama","That's fine for you, but what about us?");
+MsgDisp("主人公","I guess we'll listen to
+｛本多＊＊｝'s chatter whilst
+looking at the beautiful scenery?");
 ChSet(3,0);
 ChEye(4,0);
 ChMouth(4,3);
@@ -58,8 +57,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30800_04_020");
-MsgDisp("Nanatsumori","Kazama. When the four of us go out
-together, control your desires.");
+MsgDisp("Nanatsumori","Kazama.
+When the four of us go out together,
+control your desires.");
 ChMouth(3,4);
 ChEye(1,0);
 ChMouth(1,2);
@@ -67,7 +67,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("B330B30800_01_040");
-MsgDisp("Kazama","Ha? Shut up.");
+MsgDisp("Kazama","Ha?
+Shut up.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

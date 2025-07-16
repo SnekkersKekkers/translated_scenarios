@@ -5,8 +5,8 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,1);
 VoicePlay("B020400006_04_000");
-MsgDisp("Nanatsumori","... How do I put it. That coordination is
-chaotic.");
+MsgDisp("Nanatsumori","... How do I put it.
+That coordination is chaotic.");
 MsgDisp("主人公","Huh?");
 ChMouth(4,2);
 ChMotion(4,2);

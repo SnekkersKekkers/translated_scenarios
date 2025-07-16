@@ -18,7 +18,8 @@ the rocks over there.");
 VoicePlay("B050300101_03_000");
 MsgDisp("Honda","Yeppers, where are they?");
 SEStop("EV_SE_855",3);
-MsgDisp("主人公","(Hehe, the kids captured ｛本多＊＊｝. )");
+MsgDisp("主人公","(Hehe, the kids captured
+｛本多＊＊｝. )");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -46,14 +47,16 @@ MsgDisp("主人公","You're going to eat one......?");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("B050300101_03_030");
-MsgDisp("Honda","Huh? Do you not like crabs?");
+MsgDisp("Honda","Huh?
+Do you not like crabs?");
 MsgDisp("主人公","It's not that......
 There are just so many of them......");
 StlEye(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("B050300101_03_040");
-MsgDisp("Honda","That sort of thing? Why? Even though it's
-so yummy?");
+MsgDisp("Honda","That sort of thing?
+Why?
+Even though it's so yummy?");
 StlEye(3,0);
 VoicePlay("B050300101_45_020");
 MsgDisp("Girl","Eh, I get it.
@@ -90,8 +93,9 @@ ChMotion(3,0,1);
 VoicePlay("B050300101_03_060");
 MsgDisp("Honda","Eh, is that so?
 Sorry......");
-MsgDisp("主人公","(Hehe! ｛本多＊＊｝ seems stumped. I guess
-that's pretty rare......?)");
+MsgDisp("主人公","(Hehe!
+｛本多＊＊｝ seems stumped.
+I guess that's pretty rare......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

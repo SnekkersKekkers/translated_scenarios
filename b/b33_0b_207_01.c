@@ -24,7 +24,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330B20701_01_000");
 MsgDisp("Kazama","I think bears are braver.");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","Hehe! Is there an enclosure you liked,
+MsgDisp("主人公","Hehe!
+Is there an enclosure you liked,
 ｛本多＊＊｝?");
 ChMouth(1,2);
 ChEye(3,4);
@@ -54,8 +55,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B20701_04_010");
-MsgDisp("Nanatsumori","Is it because you 
-guys are similar?");
+MsgDisp("Nanatsumori","Is it because you guys are similar?");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -86,14 +86,14 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B20701_01_020");
-MsgDisp("Kazama","So you're aware that 
-you talk a lot.");
+MsgDisp("Kazama","So you're aware that you talk a lot.");
 ChMotion(4,0,1);
 VoicePlay("B330B20701_04_020");
 MsgDisp("Nanatsumori","Yeah, this is the most surprising part of
 today.");
-MsgDisp("主人公","(Hehe! I think it's interesting to get to
-know everyone's personalities more!)");
+MsgDisp("主人公","(Hehe!
+I think it's interesting to get to know
+everyone's personalities more!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

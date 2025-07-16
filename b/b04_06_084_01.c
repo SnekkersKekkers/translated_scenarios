@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040608401_06_010");
-    MsgDisp("Himuro","...Right, maybe.
+    MsgDisp("Himuro","... Right, maybe.
 I've been feeling really hungry lately.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

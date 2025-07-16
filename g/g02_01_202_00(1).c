@@ -26,8 +26,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120200_01_030");
 MsgDisp("Kazama","Anyway, we're in a serious competition.");
-MsgDisp("主人公","(Is ｛風真＊＊｝, pretending to be a
-firefly?)");
+MsgDisp("主人公","(Is ｛風真＊＊｝, pretending to
+be a firefly?)");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -39,7 +39,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020120200_01_050");
-MsgDisp("Kazama","Yes. 
+MsgDisp("Kazama","Yes.
 It's strictly about the fireflies.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -61,7 +61,9 @@ VoicePlay("G020120200_01_080");
 MsgDisp("Kazama","So I know I can't compete with him on the
 same level. Even if I did track and field,
 I wouldn't stand a chance.");
-MsgDisp("主人公","Umm......｛風真＊＊｝. What's wrong?");
+MsgDisp("主人公","Umm......
+｛風真＊＊｝.
+What's wrong?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);

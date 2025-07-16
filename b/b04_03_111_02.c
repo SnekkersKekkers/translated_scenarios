@@ -56,15 +56,16 @@ They probably won't fit well.");
         ChMotion(3,0);
         ChCheek(3,1);
         VoicePlay("B040311102_03_050");
-        MsgDisp("Honda","I mean...
-your hands are pretty small, huh...");
+        MsgDisp("Honda","I mean... your hands are pretty small,
+huh...");
         MsgDisp("主人公","Do you think so?");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,2,1);
         ChCheek(3,3);
         VoicePlay("B040311102_03_060");
-        MsgDisp("Honda","...Hm? My heart's thumping a little...");
+        MsgDisp("Honda","... Hm?
+My heart's thumping a little...");
         MsgDisp("主人公","Huh, are you okay?
 Shall we take a break?");
         ChEye(3,4);
@@ -72,7 +73,8 @@ Shall we take a break?");
         ChMotion(3,4,1);
         ChCheek(3,5);
         VoicePlay("B040311102_03_070");
-        MsgDisp("Honda","Huh? I haven't seen this pattern before...
+        MsgDisp("Honda","Huh?
+I haven't seen this pattern before...
 Just from looking at your hands...");
         MsgDisp("主人公","Um, ｛本多＊＊｝?");
         ChEye(3,0);
@@ -80,8 +82,9 @@ Just from looking at your hands...");
         ChMotion(3,1,1);
         ChCheek(3,7);
         VoicePlay("B040311102_03_080");
-        MsgDisp("Honda","Yeah. When I'm with you, it's interesting
-to see how my body reacts.");
+        MsgDisp("Honda","Yeah.
+When I'm with you, it's interesting to see
+how my body reacts.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,4,1);

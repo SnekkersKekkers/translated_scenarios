@@ -30,7 +30,8 @@ Do you have a minute?");
         MsgDisp("主人公","Sorry.");
         VoicePlay("J040600001_06_030");
         MsgDisp("Himuro","If you have plans, I don't blame you......
-So......See you then.");
+So......
+See you then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(I feel bad about what I did......)");

@@ -23,7 +23,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10701_06_000");
 MsgDisp("Himuro","I look forward to it.
-...Right?");
+... Right?");
 MsgDisp("主人公","Yes!
 Please take care of us.");
 ChEye(1,2);
@@ -37,9 +37,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A10701_01_020");
-MsgDisp("Kazama","Then, which one should we talk about?
-１, the castle lantern.
-２, the legend of the lone pillar.");
+MsgDisp("Kazama","Then, which one should we talk about? １,
+the castle lantern. ２, the legend of the
+lone pillar.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -51,8 +51,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330A10701_06_010");
-MsgDisp("Himuro","Hmm... 
-which one should we choose?");
+MsgDisp("Himuro","Hmm... which one should we choose?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -105,7 +104,7 @@ VoicePlay("B330A10701_01_070");
 MsgDisp("Kazama","Maybe?
 What do you think?");
 MsgDisp("主人公","Ehhh∋
-...I think it probably came true?");
+... I think it probably came true?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -126,8 +125,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10701_06_030");
-MsgDisp("Himuro","Just now...
-is that the usual childhood friend talk?");
+MsgDisp("Himuro","Just now... is that the usual childhood
+friend talk?");
 ChEye(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(2,0);
@@ -142,8 +141,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10701_06_040");
-MsgDisp("Himuro","Then I'm the only one left out? I've had
-my fill of this. Next.");
+MsgDisp("Himuro","Then I'm the only one left out?
+I've had my fill of this.
+Next.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -156,9 +156,9 @@ ChMotion(2,4);
 VoicePlay("B330A10701_02_060");
 MsgDisp("Sassa","That sounds kind of scary...
 I've had enough.");
-MsgDisp("主人公","(I was caught off guard when ｛風真＊＊｝
-suddenly started talking about the
-pinwheel...)");
+MsgDisp("主人公","(I was caught off guard when
+｛風真＊＊｝ suddenly started
+talking about the pinwheel...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

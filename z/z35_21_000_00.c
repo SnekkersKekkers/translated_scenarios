@@ -8,7 +8,6 @@ MsgDisp("Michiru","Got it.
 See you later, okay?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(Alright,
-Let's get ready and go!)");
+MsgDisp("主人公","(Alright, Let's get ready and go!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,7 +6,8 @@ ChOpen(2,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("H6G0200000_02_000");
 MsgDisp("Sassa","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛颯砂＊＊｝! What's up?");
+MsgDisp("主人公","Oh, ｛颯砂＊＊｝!
+What's up?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -24,8 +25,8 @@ VoicePlay("H6G0200000_02_020");
 MsgDisp("Sassa","Of course.
 The grand prize is for first place, right?
 I'm here to lift you into the air.");
-MsgDisp("主人公","Huh∋ We can't do something like that
-here.");
+MsgDisp("主人公","Huh∋
+We can't do something like that here.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);

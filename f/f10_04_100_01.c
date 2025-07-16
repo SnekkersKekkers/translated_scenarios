@@ -12,10 +12,10 @@ MsgDisp("Nanatsumori","So it's you.");
 MsgDisp("主人公","Do you have class duties today?");
 ChMotion(4,1,1);
 VoicePlay("F100410001_04_010");
-MsgDisp("Nanatsumori","Right. Once I deliver the log to the staff
-room, I'll be finished.");
-MsgDisp("主人公","Hehe, thank you 
-for your hard work.");
+MsgDisp("Nanatsumori","Right.
+Once I deliver the log to the staff room,
+I'll be finished.");
+MsgDisp("主人公","Hehe, thank you for your hard work.");
 ChMotion(4,0,1);
 VoicePlay("F100410001_04_020");
 MsgDisp("Nanatsumori","Yeah.
@@ -34,8 +34,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("F100410001_04_030");
 MsgDisp("Nanatsumori","Yeah?");
-MsgDisp("主人公","Didn't you drop 
-something just now?");
+MsgDisp("主人公","Didn't you drop something just now?");
 ChEye(4,0);
 ChMouth(4,5);
 VoicePlay("F100410001_04_040");
@@ -44,8 +43,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F100410001_04_050");
-MsgDisp("Nanatsumori","It's my commuter pass again...
-thank you.");
+MsgDisp("Nanatsumori","It's my commuter pass again... thank you.");
 SEPlay("EV_SE_595",0,0.5);
 SEWait();
 MsgClose();
@@ -57,8 +55,8 @@ MsgDisp("主人公","Phew...");
 SEPlay("EV_SE_643");
 MsgDisp("","(*Thud*)");
 VoicePlay("F100410001_04_060");
-MsgDisp("Nanatsumori","Geez... You don't have to drop something
-too.");
+MsgDisp("Nanatsumori","Geez...
+You don't have to drop something too.");
 MsgDisp("主人公","(I also dropped the log∋)");
 MsgClose();
 ScrFadeOut(0,0);

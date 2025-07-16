@@ -38,7 +38,7 @@ have the same sense of values.");
     VoicePlay("B040323300_03_030");
     MsgDisp("Honda","Yeah yeah, I don't think I'll ever forget
 the feeling I had the moment I jumped.
-...In many ways.");
+... In many ways.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

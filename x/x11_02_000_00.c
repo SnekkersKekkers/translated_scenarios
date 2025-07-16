@@ -17,8 +17,8 @@ match?");
     VoicePlay("X110200000_02_010");
     MsgDisp("Sassa","Nice job.
 You've been working hard!");
-    MsgDisp("主人公","(Yay! I'm glad I've been working hard at
-club!)");
+    MsgDisp("主人公","(Yay!
+I'm glad I've been working hard at club!)");
     break ;
     case 4:
     case 5:
@@ -38,7 +38,8 @@ Everyone worked really hard!");
     VoicePlay("X110200000_02_030");
     MsgDisp("Sassa","With a manager like you, the players can
 do their best.");
-    MsgDisp("主人公","(Yay! ｛颯砂＊＊｝ complimented me!)");
+    MsgDisp("主人公","(Yay!
+｛颯砂＊＊｝ complimented me!)");
     break ;
     default :
     DbgAssert(1);

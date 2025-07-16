@@ -15,7 +15,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("P040D00000_21_000");
-MsgDisp("Michiru","Yes. It's good enough to be part of the
+MsgDisp("Michiru","Yes.
+It's good enough to be part of the
 assortment at a Japanese confectionary.");
 ChEye(22,0);
 ChMouth(22,0);
@@ -24,8 +25,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P040D00000_21_010");
-MsgDisp("Michiru","Really. Your way of making tea is also
-superb.");
+MsgDisp("Michiru","Really.
+Your way of making tea is also superb.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

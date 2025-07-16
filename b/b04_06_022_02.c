@@ -6,7 +6,7 @@ ChMotion(6,4,1);
 ScrFadeIn(0);
 VoicePlay("B040602202_06_000");
 MsgDisp("Himuro","What's wrong?
-...Are you thinking about something?");
+... Are you thinking about something?");
 MsgSel("I was thinking about ｛氷室＊＊｝.","It's nothing","I'm worrying about my tests...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,9 +50,10 @@ like that——");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040602202_06_050");
-        MsgDisp("Himuro","...No, it's nothing.
+        MsgDisp("Himuro","... No, it's nothing.
 Just a bit dubious.");
-        MsgDisp("主人公","Eh? Dubious?");
+        MsgDisp("主人公","Eh?
+Dubious?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

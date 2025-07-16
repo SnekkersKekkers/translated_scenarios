@@ -1,7 +1,7 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","...Alright.
+MsgDisp("主人公","... Alright.
 Time to head home.");
 VoicePlay("E010120100_01_000");
 MsgDisp("Kazama?","A select shop like ours doesn't have a lot
@@ -16,8 +16,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("E010120100_05_010");
 MsgDisp("Hiiragi","Ah, hello.");
-MsgDisp("主人公","Hello, ｛柊＊＊＊｝. Are you doing some
-shopping?");
+MsgDisp("主人公","Hello, ｛柊＊＊＊｝.
+Are you doing some shopping?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -56,8 +56,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("E010120100_01_030");
-MsgDisp("Kazama","Yeah, I think I can get you 
-20 of those.");
+MsgDisp("Kazama","Yeah, I think I can get you 20 of those.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,3);
@@ -85,7 +84,8 @@ ChClose(5);
 ChPosition(1,0);
 Wait(60,0);
 ChMotion(1,0);
-MsgDisp("主人公","｛柊＊＊＊｝ looked pretty happy.");
+MsgDisp("主人公","｛柊＊＊＊｝ looked pretty
+happy.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -111,13 +111,15 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010120100_01_080");
-MsgDisp("Kazama","Ah, I gotta go too. See you later then,
-Ms. Apparition?");
+MsgDisp("Kazama","Ah, I gotta go too.
+See you later then, Ms.
+Apparition?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","Hehe. ｛柊＊＊＊｝ and ｛風真＊＊｝ both
-are amazing......)");
+MsgDisp("主人公","Hehe. ｛柊＊＊＊｝ and
+｛風真＊＊｝ both are
+amazing......)");
 MsgClose();
 ScrFadeOut(0,0);

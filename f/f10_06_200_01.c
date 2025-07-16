@@ -1,8 +1,7 @@
 BGOpen("sc500",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, 
-...it's about time to go home.)");
+MsgDisp("主人公","(Alright, ...it's about time to go home.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
@@ -19,8 +18,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("F100620001_03_010");
-MsgDisp("Honda","Let's not tell anyone
-that I'm here, okay?");
+MsgDisp("Honda","Let's not tell anyone that I'm here, okay?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -29,7 +27,8 @@ MsgDisp("主人公","Eh, why is he hiding?");
 VoiceEVSPlay(6);
 VoicePlay("F100620001_06_000");
 MsgDisp("Himuro?","｛主人公｝.");
-MsgDisp("主人公","Ah! ｛氷室＊＊｝......");
+MsgDisp("主人公","Ah!
+｛氷室＊＊｝......");
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F100620001_06_010");

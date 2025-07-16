@@ -20,7 +20,8 @@ ChMotion(3,4,1);
 VoicePlay("P840300003_03_010");
 MsgDisp("Honda","Maybe, it never existed from the first
 placeー?");
-MsgDisp("主人公","Eh? ｛本多＊＊｝.");
+MsgDisp("主人公","Eh?
+｛本多＊＊｝.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);

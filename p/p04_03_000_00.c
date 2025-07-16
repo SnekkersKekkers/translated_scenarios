@@ -6,7 +6,8 @@ ScrFadeIn(0);
 VoicePlay("P040300000_03_000");
 MsgDisp("Honda","Yeah yeah, the dango and mitarashi paste
 are the best!");
-MsgDisp("主人公","Really?　I'm glad.");
+MsgDisp("主人公","Really?
+I'm glad.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);

@@ -9,7 +9,8 @@ ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B020502001_05_010");
 MsgDisp("Hiiragi","I do have respect for him, and it is quite
-fashionable. However...");
+fashionable.
+However...");
 MsgDisp("主人公","However?");
 ChEye(5,2);
 ChMotion(5,0);

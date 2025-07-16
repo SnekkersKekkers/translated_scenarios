@@ -1,8 +1,7 @@
 BGOpen("wf200",1);
 ChLayout(0);
 ScrFadeIn(0);
-MsgDisp("主人公","Well then,
-I think I'll head home now.");
+MsgDisp("主人公","Well then, I think I'll head home now.");
 BGMPlay("BGM_C06_INORI_C",0.01);
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
@@ -26,8 +25,9 @@ ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_020");
 MsgDisp("Himuro","......I got separated from my little
 brother.");
-MsgDisp("主人公","Eh...... brother∋ ｛氷室＊＊｝, you have a
-little brother?");
+MsgDisp("主人公","Eh...... brother∋
+｛氷室＊＊｝, you have a little
+brother?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -45,14 +45,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_050");
-MsgDisp("Himuro","Haaa...... What am I doing? I've failed as
-an older brother......");
+MsgDisp("Himuro","Haaa......
+What am I doing?
+I've failed as an older brother......");
 SEPlay("EV_SE_579");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("E010610100_06_060");
-MsgDisp("Himuro","......Ah, that's mine.
+MsgDisp("Himuro","...... Ah, that's mine.
 Sorry.");
 SEStop("EV_SE_579",0);
 SEWait();
@@ -61,7 +62,8 @@ MsgClose();
 ChClose(6);
 Wait(30,0);
 VoicePlay("E010610100_06_070");
-MsgDisp("Himuro","......Huh? He's back home?");
+MsgDisp("Himuro","...... Huh?
+He's back home?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -79,8 +81,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610100_06_090");
-MsgDisp("Himuro","Yeah...... I didn't think he'd go home by
-himself. Sorry for making you worry.");
+MsgDisp("Himuro","Yeah......
+I didn't think he'd go home by himself.
+Sorry for making you worry.");
 MsgDisp("主人公","It's no problem at all.
 He's a reliable little brother, just like
 ｛氷室＊＊｝, isn't he?");
@@ -95,10 +98,10 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("E010610100_06_110");
-MsgDisp("Himuro","Apparently he told mother
-that I got lost.");
-MsgDisp("主人公","Hehe. So it turns out he was actually
-looking for ｛氷室＊＊｝?");
+MsgDisp("Himuro","Apparently he told mother that I got lost.");
+MsgDisp("主人公","Hehe.
+So it turns out he was actually looking
+for ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,2);
@@ -119,6 +122,7 @@ MsgClose();
 ChClose(6);
 MsgDisp("主人公","(I'm glad he's safe...... I also got to
 see what the relationship between
-｛氷室＊＊｝ and his brother is like.)");
+｛氷室＊＊｝ and his brother is
+like.)");
 MsgClose();
 ScrFadeOut(0,0);

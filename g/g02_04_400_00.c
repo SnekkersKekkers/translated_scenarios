@@ -10,7 +10,8 @@ That was a big sigh.");
 ChMotion(4,0,1);
 ChEyeOpenLevel(4,#1);
 VoicePlay("G020440000_04_010");
-MsgDisp("Nanatsumori","Hm? Oh, I just remembered something and I
+MsgDisp("Nanatsumori","Hm?
+Oh, I just remembered something and I
 sighed.");
 MsgDisp("主人公","Hehe, something you remembered?");
 ChEye(4,0);
@@ -30,8 +31,9 @@ Habataki City when I was in middle school.");
 MsgDisp("主人公","Really?");
 ChMotion(4,0,1);
 VoicePlay("G020440000_04_050");
-MsgDisp("Nanatsumori","Yeah. Haba High was too far from my
-parents' house and that school is closer.");
+MsgDisp("Nanatsumori","Yeah.
+Haba High was too far from my parents'
+house and that school is closer.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -52,15 +54,17 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020440000_04_080");
-MsgDisp("Nanatsumori","...But. That all changed when I met you at
+MsgDisp("Nanatsumori","... But.
+That all changed when I met you at
 Habataki High.");
 MsgDisp("主人公","Huh, me?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440000_04_090");
-MsgDisp("Nanatsumori","Yeah. Of course, my job was the catalyst,
-but it was you who really changed my mind.");
+MsgDisp("Nanatsumori","Yeah.
+Of course, my job was the catalyst, but it
+was you who really changed my mind.");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);

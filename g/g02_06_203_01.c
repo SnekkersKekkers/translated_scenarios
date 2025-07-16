@@ -7,7 +7,7 @@ VoicePlay("G020620301_06_000");
 MsgDisp("Himuro","Recently, I've been thinking about 'love'
 a bit.");
 MsgDisp("主人公","Eh-∋
-Why? ");
+Why?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -33,7 +33,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620301_06_040");
-MsgDisp("Himuro","Right? That's why I've been avoiding it.
+MsgDisp("Himuro","Right?
+That's why I've been avoiding it.
 Until now, that is.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);

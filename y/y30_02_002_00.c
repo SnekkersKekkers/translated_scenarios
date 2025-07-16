@@ -16,8 +16,9 @@ me.");
 MsgDisp("","She's only milking the cow, somehow I
 feel strange.");
 MsgClear();
-MsgDisp("主人公","\"\"Hey, ｛颯砂＊＊｝. It's freshly
-squeezed. It's delicious!\"");
+MsgDisp("主人公","\"\"Hey, ｛颯砂＊＊｝.
+It's freshly squeezed.
+It's delicious!\"");
 MsgDisp("","When she recommends it with a smile
 like that, I have no choice but to
 drink it.");

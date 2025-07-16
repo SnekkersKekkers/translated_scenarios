@@ -20,8 +20,9 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040208402_02_010");
-        MsgDisp("Sassa","I-It'll be alright. No... camping by the
-water is a risky situation...");
+        MsgDisp("Sassa","I-It'll be alright.
+No... camping by the water is a risky
+situation...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -40,8 +41,9 @@ But I've watched too many horror movies.");
         VoicePlay("B040208402_02_030");
         MsgDisp("Sassa","The ones where young people camp by the
 lake.");
-        MsgDisp("主人公","Umm... It's a firefly sanctuary, so there
-won't be anyone there?");
+        MsgDisp("主人公","Umm...
+It's a firefly sanctuary, so there won't
+be anyone there?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);

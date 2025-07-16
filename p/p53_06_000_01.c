@@ -23,7 +23,8 @@ But as expected, I'm still anxious.)");
     MsgDisp("Himuro","You're playing game music?
 Maybe it's because it's a familiar piece,
 there's a lot of customers.");
-    MsgDisp("主人公","Ugh...I'm anxious.");
+    MsgDisp("主人公","Ugh...
+I'm anxious.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -63,7 +64,8 @@ But as expected, I'm still anxious.)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530600001_06_050");
     MsgDisp("Himuro","You're here.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! You came?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+You came?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,1);

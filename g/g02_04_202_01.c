@@ -6,7 +6,8 @@ VoicePlay("G020420201_04_000");
 MsgDisp("Nanatsumori","If it were him, seeing such a large swarm
 of fireflies, he'd probably teach me all
 sorts of thingsー");
-MsgDisp("主人公","Are you talking about ｛本多＊＊｝?");
+MsgDisp("主人公","Are you talking about
+｛本多＊＊｝?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -17,9 +18,9 @@ don't matter, he seems to enjoy it all.");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("G020420201_04_020");
-MsgDisp("Nanatsumori","It's a skill I don't have......
-even when I look at this view, all I can
-say is that it's beautiful.");
+MsgDisp("Nanatsumori","It's a skill I don't have...... even when
+I look at this view, all I can say is that
+it's beautiful.");
 ChEye(4,1);
 ChMotion(4,2,1);
 VoicePlay("G020420201_04_030");
@@ -56,8 +57,8 @@ ChEyeOpenLevel(4,10);
 VoicePlay("G020420201_04_080");
 MsgDisp("Nanatsumori","I won't lose to Dahon, no matter what.");
 ChEyeOpenLevel(4,#1);
-MsgDisp("主人公","(Is ｛七ツ森＊｝ concerned about
-｛本多＊＊｝? )");
+MsgDisp("主人公","(Is ｛七ツ森＊｝
+concerned about ｛本多＊＊｝? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

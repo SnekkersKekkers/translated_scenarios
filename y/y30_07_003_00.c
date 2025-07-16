@@ -22,8 +22,8 @@ that, it is divine to look at.");
 MsgClear();
 SEPlay("EV_SE_627",0,0.6);
 SEWait();
-MsgDisp("主人公","\"Ah, ｛御影＊＊｝! What are you
-planting?\"");
+MsgDisp("主人公","\"Ah, ｛御影＊＊｝!
+What are you planting?\"");
 MsgDisp("","Perfect timing.
 It's funny, since this kid has those
 kinds of qualities.");
@@ -58,12 +58,14 @@ I naturally unintentionally smile.");
 MsgDisp("","That's the kind of girl she is.");
 MsgClear();
 MsgDisp("主人公","\"I planted them next to
-｛御影＊＊｝'s bulbs.'\"");
+｛御影＊＊｝'s
+bulbs.'\"");
 VoicePlay("Y300700300_07_030");
 MsgDisp("Mikage","\"Uh-huh. When they bloom, we can tell
 our fortunes based off the colour of
 the flowers.\"");
-MsgDisp("主人公","\"Hehe! Yes, I look forwards to it.\"");
+MsgDisp("主人公","\"Hehe!
+Yes, I look forwards to it.\"");
 SEPlay("EV_SE_SCHOOL_001");
 Wait(60,0);
 VoicePlay("Y300700300_07_040");

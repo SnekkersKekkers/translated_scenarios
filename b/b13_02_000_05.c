@@ -10,7 +10,8 @@ ScrFadeIn(0);
 VoicePlay("B130200005_02_000");
 MsgDisp("Sassa","Wait a second, don't move around so
 vigorously.");
-MsgDisp("主人公","Eh? What's wrong?");
+MsgDisp("主人公","Eh?
+What's wrong?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);

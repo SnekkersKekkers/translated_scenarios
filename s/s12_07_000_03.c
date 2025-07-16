@@ -21,8 +21,9 @@ switch (ChPrmGet(7,6)){
     VoicePlay("S120700003_07_010");
     MsgDisp("Mikage","I'm still just starting to do those 100
 things I want to do.");
-    MsgDisp("主人公","Yep. It's still just the beginning. At
-least today we did one thing.");
+    MsgDisp("主人公","Yep.
+It's still just the beginning.
+At least today we did one thing.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -55,8 +56,8 @@ Just like that......");
     VoicePlay("S120700003_07_050");
     MsgDisp("Mikage","Take it easy.
 Cya.");
-    MsgDisp("主人公","Yeah. Thanks for spending time with me
-today.");
+    MsgDisp("主人公","Yeah.
+Thanks for spending time with me today.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -70,7 +71,8 @@ again, okay?");
     Wait(30);
     MsgDisp("主人公","(I'm already a third year since
 spring......I hope I can go with
-｛御影＊＊｝ again next year......)");
+｛御影＊＊｝ again next
+year......)");
     break ;
     case 4:
     case 5:
@@ -90,8 +92,8 @@ spring......I hope I can go with
     MsgDisp("Mikage","Ah, my apologies for dragging you around
 so much today. But thanks to you, the year
 is off to a great start.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝, do you have to go to
-school today too?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝, do you
+have to go to school today too?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -111,24 +113,26 @@ to grow well and healthy, so don't worry.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S120700003_07_100");
-    MsgDisp("Mikage","Really? At the same time, I also prayed
-for the real pumpkin to be healthy and
-strong.");
+    MsgDisp("Mikage","Really?
+At the same time, I also prayed for the
+real pumpkin to be healthy and strong.");
     MsgDisp("主人公","Eh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700003_07_110");
     MsgDisp("Mikage","Do you realize how red you're turning,
-Miss Pumpkin? Cya.");
+Miss Pumpkin?
+Cya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","Ah, thank you so much!");
-    MsgDisp("主人公","(I hope I can be with ｛御影＊＊｝ on
-New Year's next year too.
-Alright, let's try our best this year!)");
+    MsgDisp("主人公","(I hope I can be with
+｛御影＊＊｝ on New
+Year's next year too. Alright, let's try
+our best this year!)");
     break ;
     default :
     DbgAssert(1);

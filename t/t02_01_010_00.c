@@ -11,7 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C01_RYOUTA_KOKU",0.01);
 ChOpen(1,254,0,0,3,#1,#1,0,0,0,120);
-MsgDisp("主人公","｛風真＊＊｝......! Why......");
+MsgDisp("主人公","｛風真＊＊｝......!
+Why......");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -116,7 +117,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020101000_01_130");
 MsgDisp("Kazama","I couldn't bring myself to tell him I was
-staying here. But I... finally told him.");
+staying here.
+But I... finally told him.");
 MsgDisp("主人公","......Yeah");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -149,4 +151,4 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,2);
 VoicePlay("T020101000_01_170");
-MsgDisp("Kazama","Please......marry me. ");
+MsgDisp("Kazama","Please......marry me.");

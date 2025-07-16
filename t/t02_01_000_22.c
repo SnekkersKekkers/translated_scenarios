@@ -6,8 +6,7 @@ VoicePlay("T020100000_01_590");
 MsgDisp("Kazama","Wait!
 What's wrong?");
 ChEye(1,3);
-MsgDisp("主人公","I'm sorry,
-I can't put it into words......");
+MsgDisp("主人公","I'm sorry, I can't put it into words......");
 MsgDisp("主人公","Thank you for always thinking of me.
 I also like ｛風真＊＊｝.");
 ChMotion(1,0);
@@ -19,8 +18,9 @@ VoicePlay("T020100000_01_600");
 MsgDisp("Kazama","That hug just now......
 Does that mean you'd be okay with it?
 Marrying me?");
-MsgDisp("主人公","Yeah. I've let down ｛風真＊＊｝ because I
-forgot so many things, I'm sorry.");
+MsgDisp("主人公","Yeah. I've let down
+｛風真＊＊｝ because I forgot
+so many things, I'm sorry.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,0);
@@ -71,7 +71,8 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_690");
 MsgDisp("Kazama","——I'll definitely give it to you one
 day.");
-MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
+MsgDisp("主人公","｛風真＊＊｝......
+Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
@@ -89,8 +90,8 @@ StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_720");
-MsgDisp("Kazama","｛主人公｝, let's go ahead and hold the
-ceremony like this.");
+MsgDisp("Kazama","｛主人公｝, let's go ahead
+and hold the ceremony like this.");
 MsgDisp("主人公","......Yes.");
 VoicePlay("T020100000_01_730");
 MsgDisp("Kazama","I'll hold you close......");

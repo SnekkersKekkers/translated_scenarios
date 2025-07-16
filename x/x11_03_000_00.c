@@ -8,8 +8,9 @@ switch (ChPrmGet(3,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110300000_03_000");
-    MsgDisp("Honda","Oh, I heard. I heard the baseball team won
-the game? Congratulations!");
+    MsgDisp("Honda","Oh, I heard.
+I heard the baseball team won the game?
+Congratulations!");
     MsgDisp("主人公","｛本多＊＊｝, thank you.");
     MsgDisp("主人公","(Yeah, I'm glad I did my best ......!)");
     break ;
@@ -23,7 +24,8 @@ the game? Congratulations!");
     MsgDisp("Honda","The baseball team, I heard they won
 dramatically.
 It was talked about in class.");
-    MsgDisp("主人公","｛本多＊＊｝. Yes, we did!");
+    MsgDisp("主人公","｛本多＊＊｝.
+Yes, we did!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);

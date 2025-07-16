@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040505102_05_010");
-    MsgDisp("Hiiragi","Indeed, 
-that's a nice idea.");
+    MsgDisp("Hiiragi","Indeed, that's a nice idea.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -64,15 +63,15 @@ You should have woke me.");
         VoicePlay("B040505102_05_060");
         MsgDisp("Hiiragi","Why is that?
 Even though you were that comfortable?");
-        MsgDisp("主人公","You should have because
-it's embarrassing.");
+        MsgDisp("主人公","You should have because it's embarrassing.");
         ChEye(5,2);
         ChMouth(5,2);
         ChMotion(5,2);
         ChCheek(5,5);
         VoicePlay("B040505102_05_070");
         MsgDisp("Hiiragi","E-Embarrassing?
-Umm... I apologize.");
+Umm...
+I apologize.");
         VoicePlay("B040505102_05_080");
         MsgDisp("Hiiragi","I didn't intend on causing you that much
 embarrassment.");

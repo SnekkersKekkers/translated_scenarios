@@ -1,4 +1,5 @@
-MsgDisp("主人公","(...Ah!
+MsgDisp("主人公","(...
+Ah!
 I don't have enough pocket money!)");
 ChEye(2,0);
 ChMouth(2,0);
@@ -21,6 +22,6 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140100000_01_030");
 MsgDisp("Kazama","Is it not convenient for you?
-...Let's do it another time then.");
+... Let's do it another time then.");
 BGMStop();
 ChClose(1,0,30);

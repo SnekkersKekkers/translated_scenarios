@@ -75,8 +75,9 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("B330C10800_07_030");
-MsgDisp("Mikage","Never? Then, why is there such a big air
-cushion there?");
+MsgDisp("Mikage","Never?
+Then, why is there such a big air cushion
+there?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -140,8 +141,8 @@ ChMotion(7,2);
 VoicePlay("B330C10800_07_050");
 MsgDisp("Mikage","Yeah, do as you like.
 I'll be waiting here.");
-MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are both
-amazing. But missing the mark is no
+MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are
+both amazing. But missing the mark is no
 laughing matter...!)");
 BGMStop();
 MsgClose();

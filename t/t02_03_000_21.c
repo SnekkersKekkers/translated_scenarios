@@ -41,8 +41,7 @@ MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);
 VoicePlay("T020300021_03_050");
-MsgDisp("Honda","Haa... that went well,
-so let's try again.");
+MsgDisp("Honda","Haa... that went well, so let's try again.");
 Wait(120,0);
 MsgClose();
 ScrFadeOut(0,1,120);

@@ -63,8 +63,9 @@ stimuli just growth?");
         VoicePlay("B040709002_07_060");
         MsgDisp("Mikage","...Wow, that's a rare example of when I
 said something good.");
-        MsgDisp("主人公","Hehe. ｛御影＊＊｝, I want to grow up
-being stimulated in all sorts of ways.");
+        MsgDisp("主人公","Hehe. ｛御影＊＊｝, I want
+to grow up being stimulated in all sorts
+of ways.");
         ChEye(7,0);
         ChMouth(7,1);
         ChMotion(7,1);
@@ -79,8 +80,7 @@ being stimulated in all sorts of ways.");
 my high school years, when I should've be
 growing. That's why I'm getting it from
 you guys now...");
-        MsgDisp("主人公","(｛御影＊＊｝'s time at high
-school...')");
+        MsgDisp("主人公","(｛御影＊＊｝'s time at high school...')");
         break ;
         default :
         DbgAssert(1);
@@ -93,8 +93,7 @@ school...')");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040709002_07_090");
-    MsgDisp("Mikage","They just put it in a
-box for that.");
+    MsgDisp("Mikage","They just put it in a box for that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

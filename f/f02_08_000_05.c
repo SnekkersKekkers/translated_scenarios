@@ -36,7 +36,6 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("F020800005_08_040");
-MsgDisp("Shirahane","How can I see
-through the trap?");
+MsgDisp("Shirahane","How can I see through the trap?");
 MsgDisp("主人公","(A perfect score... escapes him again?
 ｛大地＊＊｝... )");

@@ -1,8 +1,9 @@
 BGOpen("sc310",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝
-and... ｛颯砂＊＊｝? )");
+MsgDisp("主人公","(Ah, ｛みちる＊｝,
+｛ひかる＊｝ and...
+｛颯砂＊＊｝? )");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,0,0,4,#1,#1,0,0,0,30);
@@ -65,23 +66,23 @@ ChMotion(2,4);
 VoicePlay("F100230002_02_010");
 MsgDisp("Sassa","But, even if Michiru-san likes shoujo
 manga, it's not that much of a gap.");
-MsgDisp("主人公","Yeah. Both ｛みちる＊｝ and
-｛ひかる＊｝ look like they would like
-girly things.");
+MsgDisp("主人公","Yeah. Both ｛みちる＊｝
+and ｛ひかる＊｝ look
+like they would like girly things.");
 ChMotion(22,0,1);
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 ChCheek(21,6);
 VoicePlay("F100230002_21_030");
-MsgDisp("Michiru","Hey, let's stop this
-conversation here.");
+MsgDisp("Michiru","Hey, let's stop this conversation here.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100230002_02_020");
-MsgDisp("Sassa","Hmmm. Maybe it's refreshing that she gets
-that bashful?");
+MsgDisp("Sassa","Hmmm.
+Maybe it's refreshing that she gets that
+bashful?");
 ChEye(21,5);
 ChMouth(21,4);
 ChMotion(21,0);

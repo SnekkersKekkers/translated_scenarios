@@ -38,7 +38,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("D140A05102_02_020");
-MsgDisp("Sassa","You two are dating, right? ");
+MsgDisp("Sassa","You two are dating, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -101,9 +101,9 @@ ChMotion(6,0);
 VoicePlay("D140A05102_06_040");
 MsgDisp("Himuro","Haa.. please do as you'd like.
 Right?");
-MsgDisp("主人公","Hehe, yeah.
-｛風真＊＊｝ and ｛颯砂＊＊｝ are the ones
-who are fidgety, aren't they?");
+MsgDisp("主人公","Hehe, yeah. ｛風真＊＊｝ and
+｛颯砂＊＊｝ are the ones who are
+fidgety, aren't they?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -127,8 +127,8 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D140A05102_06_050");
 MsgDisp("Himuro","Thank you very much.");
-MsgDisp("主人公","(｛風真＊＊｝ and ｛颯砂＊＊｝ are worried
-about me...)");
+MsgDisp("主人公","(｛風真＊＊｝ and ｛颯砂＊＊｝
+are worried about me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -55,8 +55,9 @@ Okay then, see you later.");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("R040300002_03_030");
-    MsgDisp("Honda","Hey! Don't make noise in a place like
-this! Bad belly!");
+    MsgDisp("Honda","Hey!
+Don't make noise in a place like this!
+Bad belly!");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,1,1);

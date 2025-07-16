@@ -42,7 +42,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620100_06_060");
-MsgDisp("Himuro","......Okay?
+MsgDisp("Himuro","...... Okay?
 Keep this in mind.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -70,8 +70,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("G020620100_06_100");
-MsgDisp("Himuro","So be prepared.
-......this is my message to you now.");
+MsgDisp("Himuro","So be prepared. ......this is my message
+to you now.");
 MsgDisp("主人公","Ehhh∋");
 MsgDisp("主人公","(｛氷室＊＊｝......?)");
 BGMStop();

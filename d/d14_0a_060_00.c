@@ -18,7 +18,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06000_06_010");
 MsgDisp("Himuro","Is that okay with you?");
-MsgDisp("主人公","Eh? What do you mean?");
+MsgDisp("主人公","Eh?
+What do you mean?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -34,8 +35,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140A06000_06_020");
-MsgDisp("Himuro","Ha... you really are a good person. If it
-were me, I wouldn't go and leave you
+MsgDisp("Himuro","Ha... you really are a good person.
+If it were me, I wouldn't go and leave you
 behind like that.");
 MsgDisp("主人公","Umm...?");
 ChEye(2,0);
@@ -49,8 +50,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06000_06_030");
-MsgDisp("Himuro","I'll leave it to your 
-interpretation.");
+MsgDisp("Himuro","I'll leave it to your interpretation.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
@@ -58,8 +58,9 @@ VoicePlay("D140A06000_02_030");
 MsgDisp("Sassa","Haha, that's fine.
 This is our appeal time.
 Don't mind if we do.");
-MsgDisp("主人公","(Ehh∋ What do you mean by \"Don't mind if
-we do\"??)");
+MsgDisp("主人公","(Ehh∋
+What do you mean by \"Don't mind if we
+do\"??)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

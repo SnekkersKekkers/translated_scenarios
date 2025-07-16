@@ -15,8 +15,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hmm...... Like I thought, he probably
-went home already......)");
+MsgDisp("主人公","(Hmm......
+Like I thought, he probably went home
+already......)");
 VoicePlay("D030901100_09_000");
 MsgDisp("Kuya?","Is there a problem?");
 MsgClose();
@@ -32,7 +33,8 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901100_09_010");
 MsgDisp("Kuya","I got the feeling you were coming to see
-me......So I came to see you too.");
+me......
+So I came to see you too.");
 MsgDisp("主人公","Hehe!
 Congratulations on your graduation.");
 ChEye(9,3);
@@ -72,8 +74,9 @@ It's too perfect that my last high school
 memory will be walking home with you.");
 MsgDisp("主人公","Hehe, I'm happy.");
 VoicePlay("D030901100_09_050");
-MsgDisp("Kuya","Yeah. Starting tomorrow, I'll be taking a
-gap year.");
+MsgDisp("Kuya","Yeah.
+Starting tomorrow, I'll be taking a gap
+year.");
 MsgDisp("主人公","......Do you regret anything?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -104,7 +107,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChCheek(9,5);
 VoicePlay("D030901100_09_100");
-MsgDisp("Kuya","So......don't forget about me.
+MsgDisp("Kuya","So...... don't forget about me.
 Think about me once in a while.");
 MsgDisp("主人公","Hehe, of course.");
 ChEye(9,3);
@@ -124,7 +127,8 @@ VoicePlay("D030901100_09_120");
 MsgDisp("Kuya","......But can I give you a call when I
 start to get lonely?");
 MsgDisp("主人公","Eh?
-Of course. I'll be waiting.");
+Of course.
+I'll be waiting.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

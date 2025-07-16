@@ -12,5 +12,6 @@ ChMotion(3,2);
 VoicePlay("B020300004_03_010");
 MsgDisp("Honda","Really? No particular reason? It's making
 me a bit worried seeing you like that...");
-MsgDisp("主人公","(Ugh... Maybe I did overdo it a bit with
-the layers...)");
+MsgDisp("主人公","(Ugh...
+Maybe I did overdo it a bit with the
+layers...)");

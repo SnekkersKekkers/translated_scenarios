@@ -1,6 +1,7 @@
 ChEye(4,2);
 ChMouth(4,4);
-MsgDisp("主人公","I also...... like ｛七ツ森＊｝.");
+MsgDisp("主人公","I also...... like
+｛七ツ森＊｝.");
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_130");
 MsgDisp("Nanatsumori","......Is that alright?");
@@ -10,8 +11,7 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("T020411000_04_140");
-MsgDisp("Nanatsumori",".........
-I was really full of anxiety.");
+MsgDisp("Nanatsumori","......... I was really full of anxiety.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -19,7 +19,8 @@ ChEyeOpenLevel(4,10);
 VoicePlay("T020411000_04_150");
 MsgDisp("Nanatsumori","I was afraid that if I confessed to you
 like this, you'd hate me.");
-MsgDisp("主人公","No. I think I was actually waiting for
+MsgDisp("主人公","No.
+I think I was actually waiting for
 ｛七ツ森＊｝......");
 ChEye(4,4);
 ChMouth(4,4);

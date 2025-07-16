@@ -24,7 +24,8 @@ Seems like we made it in time.");
     ChMotion(3,3,1);
     VoicePlay("P230300001_03_010");
     MsgDisp("Honda","Can you believe the wall fell over at the
-last rehearsal? Haha.");
+last rehearsal?
+Haha.");
     MsgDisp("主人公","Hey, this is no laughing matter?
 But, thanks for fixing it.");
     ChEye(3,4);
@@ -34,14 +35,16 @@ But, thanks for fixing it.");
     MsgDisp("Honda","Maybe the blend of adhesive wasn't good?
 I played around with it a lot, mixing dyes
 to make it less noticeable.");
-    MsgDisp("主人公","Hehe. But it was like an experiment; it
-was a lot of fun.");
+    MsgDisp("主人公","Hehe.
+But it was like an experiment; it was a
+lot of fun.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P230300001_03_030");
-    MsgDisp("Honda","Yeah. But it's a good thing it broke
-during rehearsal.");
+    MsgDisp("Honda","Yeah.
+But it's a good thing it broke during
+rehearsal.");
     VoicePlay("P230300000_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin
 shortly.");

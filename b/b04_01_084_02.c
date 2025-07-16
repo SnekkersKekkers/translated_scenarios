@@ -55,8 +55,9 @@ you.");
         ChMouth(1,1);
         ChMotion(1,1);
         VoicePlay("B040108402_01_030");
-        MsgDisp("Kazama","Body warmth∋ ... Sheesh, you can really
-be such an airhead!");
+        MsgDisp("Kazama","Body warmth∋
+... Sheesh, you can really be such an
+airhead!");
         MsgDateResultDisp();
         ChCheek(1,0);
         break ;
@@ -110,17 +111,19 @@ warmth? So, here. My hand.");
         VoicePlay("B040108402_01_090");
         MsgDisp("Kazama","Phew, this season isn't so bad after
 all...");
-        MsgDisp("主人公","Ooh, ｛風真＊＊｝, you definitely like
-fall, right?");
+        MsgDisp("主人公","Ooh, ｛風真＊＊｝, you
+definitely like fall, right?");
         MsgClose();
         ChClose(1,0,30);
         ChLayout(1);
         MsgClose();
         ChOpen(1,255,3,3,1,#1,#1,0,0,0,30);
         VoicePlay("B040108402_01_100");
-        MsgDisp("Kazama","Definitely∋ Hey, you know I can totally
-hear you? That inner voice of yours.");
-        MsgDisp("主人公","(Umm... He was totally babbling earlier.)");
+        MsgDisp("Kazama","Definitely∋
+Hey, you know I can totally hear you?
+That inner voice of yours.");
+        MsgDisp("主人公","(Umm...
+He was totally babbling earlier.)");
         break ;
         default :
         DbgAssert(1);

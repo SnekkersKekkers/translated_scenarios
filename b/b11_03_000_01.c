@@ -1,8 +1,8 @@
 ChLayout(1);
 ChClose(3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm... looks like ｛本多＊＊｝ isn't here
-yet.");
+MsgDisp("主人公","Hm... looks like ｛本多＊＊｝
+isn't here yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -12,8 +12,8 @@ ChOpen(34,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110300001_34_000");
 MsgDisp("Guy","Are you a stray?
 Should I protect you?");
-MsgDisp("主人公","Stray? I think you've got the wrong
-person...");
+MsgDisp("主人公","Stray?
+I think you've got the wrong person...");
 ChEye(34,1);
 ChMouth(34,0);
 VoicePlay("B110300001_34_010");
@@ -74,7 +74,7 @@ MsgDispSksp(0);
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110300001_34_050");
-MsgDisp("Guy","...You're actually a good person.
+MsgDisp("Guy","... You're actually a good person.
 Hah, I'll try to relax by the real sea
 today!");
 SEPlay("EV_SE_531");
@@ -84,7 +84,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B110300001_03_040");
-MsgDisp("Honda","...You must be lonely, right?
+MsgDisp("Honda","... You must be lonely, right?
 I can understand what it's like to be a
 shut-in.");
 MsgDisp("主人公","(｛本多＊＊｝, wow... that guy was opening

@@ -20,8 +20,9 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B070400000_04_160");
 MsgDisp("Nanatsumori","...Probably.");
-MsgDisp("主人公","Probably...? Then you're a kid who can do
-it if they try?");
+MsgDisp("主人公","Probably...?
+Then you're a kid who can do it if they
+try?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -40,9 +41,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_190");
-MsgDisp("Nanatsumori","You don't need to look so down. If there's
-ever a chance... yeah, alright. I'll show
-you my ultimate form.");
+MsgDisp("Nanatsumori","You don't need to look so down.
+If there's ever a chance... yeah, alright.
+I'll show you my ultimate form.");
 MsgDisp("主人公","(Sounds dodgy...)");
 BGMStop();
 MsgClose();

@@ -27,8 +27,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040621302_06_020");
-    MsgDisp("Himuro","I was just curious... but. That made me
-curious about how intelligent they are.");
+    MsgDisp("Himuro","I was just curious... but.
+That made me curious about how intelligent
+they are.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

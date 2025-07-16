@@ -12,7 +12,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100006_01_000");
 MsgDisp("Kazama","I know, huh.");
-MsgDisp("主人公","｛風真＊＊｝, you're good at sports.
+MsgDisp("主人公","｛風真＊＊｝, you're good at
+sports.
 You'll be fine.");
 VoicePlay("F020100006_01_010");
 MsgDisp("Kazama","I'm not particularly good.");
@@ -32,7 +33,8 @@ VoicePlay("F020100006_01_030");
 MsgDisp("Kazama","At kindergarten field day, I had to carry
 the 2nd place flag while you were
 watching. I still dream about it.");
-MsgDisp("主人公","Um... I don't remember that?");
+MsgDisp("主人公","Um...
+I don't remember that?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,2);

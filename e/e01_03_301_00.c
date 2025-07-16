@@ -9,9 +9,11 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010330100_03_000");
-MsgDisp("Honda","｛主人公｝, were you shopping?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝. Yeah, but I'm already on
-my way home now. What about you?");
+MsgDisp("Honda","｛主人公｝, were you
+shopping?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Yeah, but I'm already on my way home now.
+What about you?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -62,7 +64,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 ChPosition(3,0);
 Wait(60,0);
-MsgDisp("主人公","｛柊＊＊＊｝ always seems so busy......");
+MsgDisp("主人公","｛柊＊＊＊｝ always seems so
+busy......");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -76,8 +79,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("E010330100_03_040");
-MsgDisp("Honda","Really? So I guess I should think about it
-for the next time?");
+MsgDisp("Honda","Really?
+So I guess I should think about it for the
+next time?");
 MsgDisp("主人公","Ehh?
 I haven't decided anything yet.");
 ChEye(3,3);
@@ -85,8 +89,9 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010330100_03_050");
-MsgDisp("Honda","Really? Okay, feel free to tell me anytime
-then. See you later.");
+MsgDisp("Honda","Really?
+Okay, feel free to tell me anytime then.
+See you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

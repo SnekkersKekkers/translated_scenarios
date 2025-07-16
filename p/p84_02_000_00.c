@@ -29,8 +29,9 @@ VoicePlay("P840200000_02_030");
 MsgDisp("Sassa","I'm exhausted but I still feel like
 wandering around the stalls with you.");
 MsgDisp("主人公","Sure!");
-MsgDisp("主人公","(Yay! The student council work was a
-success! ｛颯砂＊＊｝ praised me!)");
+MsgDisp("主人公","(Yay!
+The student council work was a success!
+｛颯砂＊＊｝ praised me!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

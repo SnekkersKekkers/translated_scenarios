@@ -3,7 +3,8 @@ ChMouth(1,2);
 ChCheek(1,6);
 Wait(60,0);
 VoicePlay("T020100000_01_410");
-MsgDisp("Kazama","......A kiss? Then......");
+MsgDisp("Kazama","...... A kiss?
+Then......");
 MsgDisp("主人公","I also like ｛風真＊＊｝.
 Thank you for always thinking of me.");
 ChMotion(1,0,1);
@@ -64,12 +65,13 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_510");
 MsgDisp("Kazama","——I'll definitely give it to you one
 day.");
-MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
+MsgDisp("主人公","｛風真＊＊｝......
+Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
 VoicePlay("T020100000_01_520");
-MsgDisp("Kazama","I'll put it on for you. ");
+MsgDisp("Kazama","I'll put it on for you.");
 BGMStop(5);
 MsgClear();
 ScrFadeOut(0,1);
@@ -88,7 +90,8 @@ VoicePlay("T020100000_01_550");
 MsgDisp("Kazama","This kiss is our promise.");
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_560");
-MsgDisp("Kazama","｛主人公｝, I won't let you go.");
+MsgDisp("Kazama","｛主人公｝, I won't let
+you go.");
 BGMStop();
 MsgClear();
 StlEffect(1,1,60);

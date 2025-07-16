@@ -22,7 +22,7 @@ MsgDisp("Nanatsumori","Right now, I'm in this dream world with no
 one else but you.");
 VoicePlay("G020410000_04_040");
 MsgDisp("Nanatsumori","I don't even care about who's around.
-...Isn't that bad?");
+... Isn't that bad?");
 MsgDisp("主人公","Bad?");
 ChEye(4,4);
 ChMouth(4,3);
@@ -40,12 +40,13 @@ ChOpen(4,255,0,4,3,#1,#1,0,0,0,60);
 SEWait();
 VoicePlay("G020410000_04_060");
 MsgDisp("Nanatsumori","We'd just stare at each other's eyes.");
-MsgDisp("主人公","(Woah...｛七ツ森＊｝'s face is really
-close!)");
+MsgDisp("主人公","(Woah...
+｛七ツ森＊｝'s face is
+really close!)");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410000_04_070");
-MsgDisp("Nanatsumori","...Something must be wrong with me.
+MsgDisp("Nanatsumori","... Something must be wrong with me.
 This fluffy feeling inside must be magic.");
 ChEye(4,4);
 ChEyeOpenLevel(4,10);

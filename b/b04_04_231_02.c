@@ -7,8 +7,9 @@ ChOpen(4,255,0,2,1,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040423102_04_000");
-MsgDisp("Nanatsumori","Crap... Since I stopped worrying about my
-hair, I noticed how scary this is.");
+MsgDisp("Nanatsumori","Crap...
+Since I stopped worrying about my hair, I
+noticed how scary this is.");
 MsgSel("Shall I hold your hand?","It's especially scary at the front!","How pathetic～");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,13 +34,13 @@ switch (MsgSelRsltGet()){
         ChMotion(4,0,1);
         VoicePlay("B040423102_04_020");
         MsgDisp("Nanatsumori","Eh.");
-        MsgDisp("主人公","Maybe it'll make you
-feel a bit better.");
+        MsgDisp("主人公","Maybe it'll make you feel a bit better.");
         ChEye(4,2);
         ChMouth(4,4);
         VoicePlay("B040423102_04_030");
-        MsgDisp("Nanatsumori","No. I mean, isn't it supposed to be the
-other way around?");
+        MsgDisp("Nanatsumori","No.
+I mean, isn't it supposed to be the other
+way around?");
         MsgDisp("主人公","The other way around?");
         ChEye(4,4);
         ChMouth(4,4);
@@ -48,8 +49,8 @@ other way around?");
         MsgDisp("Nanatsumori","I mean, that's what guys do when a girl is
 scared.");
         MsgDisp("主人公","Haha, then isn't it fine for
-｛七ツ森＊｝ to be the one holding my
-hand?");
+｛七ツ森＊｝ to be the
+one holding my hand?");
         ChEye(4,4);
         ChMouth(4,0);
         ChMotion(4,0,1);
@@ -60,7 +61,8 @@ Ahh, I see.");
         ChMouth(4,0);
         ChMotion(4,3,1);
         VoicePlay("B040423102_04_060");
-        MsgDisp("Nanatsumori","...Alright. Then, let's ride on it again.
+        MsgDisp("Nanatsumori","... Alright.
+Then, let's ride on it again.
 Let's line up.");
         MsgDisp("主人公","Is that alright?");
         ChEye(4,0);
@@ -91,8 +93,9 @@ But——");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423102_04_090");
-    MsgDisp("Nanatsumori","Right! It's like all the things in front
-of me are flying in all at once.");
+    MsgDisp("Nanatsumori","Right!
+It's like all the things in front of me
+are flying in all at once.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

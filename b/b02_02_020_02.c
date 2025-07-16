@@ -9,8 +9,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B020202002_02_010");
-MsgDisp("Sassa","Nope. When you wear it, those kinds of
-clothes are nice.");
+MsgDisp("Sassa","Nope.
+When you wear it, those kinds of clothes
+are nice.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,0);

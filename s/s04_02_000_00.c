@@ -44,7 +44,9 @@ It can't be helped.
 Well, I guess I'll go for a run.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Eh?　Running? To the shrine?)");
+        MsgDisp("主人公","(Eh?
+Running?
+To the shrine?)");
         break ;
         default :
         DbgAssert(0);
@@ -72,8 +74,8 @@ together?");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040200000_02_090");
-        MsgDisp("Sassa","Yes! This year's off to a great start
-already.");
+        MsgDisp("Sassa","Yes!
+This year's off to a great start already.");
         MsgDisp("主人公","Hehe, thanks for inviting me.
 How should we meet up?");
         VoicePlay("S040200000_02_100");

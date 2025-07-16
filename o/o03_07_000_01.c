@@ -56,7 +56,8 @@ That's why it's so fun.");
     VoicePlay("O030700001_07_050");
     MsgDisp("Mikage","Good work.");
     MsgDisp("主人公","(We didn't get first place, but, I'm glad
-I went with ｛御影＊＊｝...... )");
+I went with ｛御影＊＊｝......
+)");
     MsgClose();
     break ;
     default :

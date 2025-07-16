@@ -47,7 +47,7 @@ all.");
     ChMotion(8,4,1);
     VoicePlay("B040830000_08_030");
     MsgDisp("Shirahane","That pause kinda worries me.
-...Is my room no good?");
+... Is my room no good?");
     MsgDateResultDisp();
     break ;
     default :

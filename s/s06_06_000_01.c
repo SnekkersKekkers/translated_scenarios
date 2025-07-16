@@ -55,7 +55,8 @@ I'm so glad I wore my kimono.)");
     MsgDisp("Himuro","When you dress up like that, it almost
 feels like you're a completely different
 person.");
-    MsgDisp("主人公","Hehe. Is that so?");
+    MsgDisp("主人公","Hehe.
+Is that so?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

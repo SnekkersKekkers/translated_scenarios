@@ -19,11 +19,11 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020740001_07_020");
-MsgDisp("Mikage","But why ......don't they have it?
+MsgDisp("Mikage","But why ...... don't they have it?
 'Hiyashi Chuuka' It's a seasonal dish and
 I think it's a must-have.");
-MsgDisp("主人公","｛御影＊＊｝, you really like Hiyashi
-Chuuka, don't you?");
+MsgDisp("主人公","｛御影＊＊｝, you really
+like Hiyashi Chuuka, don't you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

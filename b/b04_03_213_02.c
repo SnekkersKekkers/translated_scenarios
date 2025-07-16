@@ -6,8 +6,9 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321302_03_000");
-MsgDisp("Honda","Huh...? They're not coming closer. What's
-up guys?");
+MsgDisp("Honda","Huh...?
+They're not coming closer.
+What's up guys?");
 MsgSel("Maybe it's because we just passed the bear cages earlier?","I wonder if they can smell something?","Shall we buy some animal feed?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,7 +29,7 @@ Sorry everyone, we scared you.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040321302_03_020");
-    MsgDisp("Honda","...Sorry, did you notice too?
+    MsgDisp("Honda","... Sorry, did you notice too?
 I had some strong ramen earlier.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -57,8 +58,7 @@ I had some strong ramen earlier.");
         ChMotion(3,2);
         ChEyeOpenLevel(3,8);
         VoicePlay("B040321302_03_040");
-        MsgDisp("Honda","Wait wait, I got it...
-that's it!");
+        MsgDisp("Honda","Wait wait, I got it... that's it!");
         MsgDisp("主人公","What is it?");
         ChEye(3,0);
         ChMouth(3,4);
@@ -97,7 +97,8 @@ around?");
         ChEye(3,4);
         ChMouth(3,4);
         VoicePlay("B040321302_03_090");
-        MsgDisp("Honda","Huh? Could it be... the perfume?");
+        MsgDisp("Honda","Huh?
+Could it be... the perfume?");
         MsgDisp("主人公","Wow, they've all flocked around
 ｛本多＊＊｝.");
         ChEye(3,0);

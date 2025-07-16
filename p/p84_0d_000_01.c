@@ -16,7 +16,8 @@ VoicePlay("P840D00001_22_000");
 MsgDisp("Hikaru","That looks like it's just been crammed
 in....");
 VoicePlay("P840D00001_48_000");
-MsgDisp("School Girl","Huh? Have you seen the documents that were
+MsgDisp("School Girl","Huh?
+Have you seen the documents that were
 here?");
 MsgDisp("主人公","Ah, I just tidied it up!");
 VoicePlay("P840D00001_48_010");
@@ -35,9 +36,10 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P840D00001_21_010");
-MsgDisp("Michiru","Haa... you can't do this alone. We'll
-help.");
-MsgDisp("主人公","(UUugh...Maybe I was too careless.
+MsgDisp("Michiru","Haa... you can't do this alone.
+We'll help.");
+MsgDisp("主人公","(UUugh...
+Maybe I was too careless.
 A huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);

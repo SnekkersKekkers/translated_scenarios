@@ -34,14 +34,14 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C20300_07_000");
-MsgDisp("Mikage","Well, it certainly
-doesn't hurt to know.");
+MsgDisp("Mikage","Well, it certainly doesn't hurt to know.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20300_05_010");
-MsgDisp("Hiiragi","Yes. You can get peace of mind by hearing
-it from the person themselves directly.");
+MsgDisp("Hiiragi","Yes.
+You can get peace of mind by hearing it
+from the person themselves directly.");
 ChEyeOpenLevel(7,#1);
 MsgDisp("主人公","Eh... you're fine with my opinion?");
 ChEye(6,0);
@@ -152,8 +152,7 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20300_07_060");
-MsgDisp("Mikage","Hey, aren't you 
-the one laughing?");
+MsgDisp("Mikage","Hey, aren't you the one laughing?");
 SEPlay("EV_SE_045");
 MsgDisp("","(*CLICK*)");
 VoicePlay("B330C20300_06_080");
@@ -165,13 +164,12 @@ VoicePlay("B330C20300_07_070");
 MsgDisp("Mikage","O-Oi, Inori.");
 VoicePlay("B330C20300_05_050");
 MsgDisp("Hiiragi","Ah, please show me it.
-...Heheh.");
+... Heheh.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("B330C20300_07_080");
-MsgDisp("Mikage","You guys, don't go spreading 
-that around.");
+MsgDisp("Mikage","You guys, don't go spreading that around.");
 MsgDisp("主人公","We're causing trouble for the store, so
 let's head outside.");
 ChEye(7,0);

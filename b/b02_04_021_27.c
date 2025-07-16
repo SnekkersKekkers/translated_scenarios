@@ -16,5 +16,5 @@ VoicePlay("B020402127_04_010");
 MsgDisp("Nanatsumori","That. Cute fashion. It's a genre men can't
 imitate, but it's great when girls wear
 it.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes
-like these, too.)");
+MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes like
+these, too.)");

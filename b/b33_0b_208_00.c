@@ -31,10 +31,9 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("B330B20800_01_000");
-MsgDisp("Kazama","｛主人公｝, I'm expecting a good reason
-for this.");
-MsgDisp("主人公","Hey, everyone's already
-having fun right?");
+MsgDisp("Kazama","｛主人公｝, I'm expecting
+a good reason for this.");
+MsgDisp("主人公","Hey, everyone's already having fun right?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -47,7 +46,8 @@ ChEye(1,3);
 ChMouth(1,1);
 VoiceEVSPlay(3);
 VoicePlay("B330B20800_03_010");
-MsgDisp("Honda","｛主人公｝, don't be scared.
+MsgDisp("Honda","｛主人公｝, don't be
+scared.
 You can hold my hand.");
 ChEye(4,2);
 ChMouth(4,0);
@@ -73,7 +73,8 @@ ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20800_03_030");
 VoiceEVSPlay(3);
-MsgDisp("Honda","Alright, give me your hand. ｛主人公｝.");
+MsgDisp("Honda","Alright, give me your hand.
+｛主人公｝.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -84,14 +85,16 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B330B20800_04_030");
-MsgDisp("Nanatsumori","Oi. Someone's going to be left out, isn't
-that sad?");
+MsgDisp("Nanatsumori","Oi.
+Someone's going to be left out, isn't that
+sad?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B330B20800_03_040");
-MsgDisp("Honda","Sad? It's alright, once we go in, all
-those feelings will be gone in a flash!");
+MsgDisp("Honda","Sad?
+It's alright, once we go in, all those
+feelings will be gone in a flash!");
 MsgDisp("主人公","(Even if you hold my hand, I don't think
 it changes the fact that this is scary...)");
 BGMStop();

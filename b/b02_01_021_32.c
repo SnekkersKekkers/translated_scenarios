@@ -9,8 +9,8 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102129_01_010");
-MsgDisp("Kazama","Yeah. I've gotten to where I look forward
-to it.");
+MsgDisp("Kazama","Yeah.
+I've gotten to where I look forward to it.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have started to love
-clothes like these, too!)");
+｛風真＊＊｝ seems to have
+started to love clothes like these, too!)");

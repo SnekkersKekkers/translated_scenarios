@@ -11,8 +11,9 @@ switch (ChPrmGet(6,6)){
     case 3:
     SEPlay("EV_SE_043");
     SEWait();
-    MsgDisp("主人公","Huh? The closing cash register balance
-isn't correct......");
+    MsgDisp("主人公","Huh?
+The closing cash register balance isn't
+correct......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);

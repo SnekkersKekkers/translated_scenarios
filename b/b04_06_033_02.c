@@ -34,8 +34,7 @@ I was just stating a fact.");
         ChMotion(6,0);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040603302_06_020");
-        MsgDisp("Himuro","No need to be 
-taken so aback?");
+        MsgDisp("Himuro","No need to be taken so aback?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -71,8 +70,7 @@ and actions angered you, made you upset...");
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040603302_06_070");
-        MsgDisp("Himuro","I would lose all sort of 
-confidence.");
+        MsgDisp("Himuro","I would lose all sort of confidence.");
         MsgDisp("主人公","｛氷室＊＊｝...");
         ChEye(6,0);
         ChMouth(6,0);
@@ -101,8 +99,8 @@ let it be your dorsal fin.");
         VoicePlay("B040603302_06_110");
         MsgDisp("Himuro","Being hated by you is scarier than being
 attacked by a shark.");
-        MsgDisp("主人公","(Hmm? Am I supposed to be happy with
-that...?)");
+        MsgDisp("主人公","(Hmm?
+Am I supposed to be happy with that...?)");
         break ;
         default :
         DbgAssert(1);
@@ -115,8 +113,9 @@ that...?)");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040603302_06_120");
-    MsgDisp("Himuro","Right. You should never think that what
-you see is everything.");
+    MsgDisp("Himuro","Right.
+You should never think that what you see
+is everything.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

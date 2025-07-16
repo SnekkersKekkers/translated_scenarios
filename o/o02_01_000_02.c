@@ -34,8 +34,8 @@ And we were so close, too......)");
     VoicePlay("O020100002_01_020");
     MsgDisp("Kazama","That was a good match.
 Really close.");
-    MsgDisp("主人公","Yeah...... Sorry that you came to cheer
-for this.");
+    MsgDisp("主人公","Yeah......
+Sorry that you came to cheer for this.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

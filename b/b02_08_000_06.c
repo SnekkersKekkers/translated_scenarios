@@ -10,5 +10,5 @@ ChMotion(8,0);
 VoicePlay("B020800006_08_010");
 MsgDisp("Shirahane","If that kind of thing is fashionable, I
 sure don't get it at all...");
-MsgDisp("主人公","(Ugh... I think I messed up my
-coordination...)");
+MsgDisp("主人公","(Ugh...
+I think I messed up my coordination...)");

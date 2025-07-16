@@ -32,8 +32,7 @@ That's the idea.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040501102_05_020");
-        MsgDisp("Hiiragi","If it scares you, 
-I'll drop the matter.");
+        MsgDisp("Hiiragi","If it scares you, I'll drop the matter.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -54,8 +53,7 @@ asked anyways.");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040501102_05_050");
-        MsgDisp("Hiiragi","You're kind, 
-in comparison I am dishonest.");
+        MsgDisp("Hiiragi","You're kind, in comparison I am dishonest.");
         MsgDisp("主人公","Eh, that's not true?");
         ChMouth(5,4);
         ChMotion(5,2);
@@ -68,9 +66,9 @@ front of you.");
         MsgDisp("Hiiragi","What is it about you that causes this...
 I am surprised that such feelings
 themselves remain within me.");
-        MsgDisp("主人公","｛柊＊＊＊｝, I would be happy if you were
-to talk to me about whatever was on your
-mind.");
+        MsgDisp("主人公","｛柊＊＊＊｝, I would be happy
+if you were to talk to me about whatever
+was on your mind.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,3);

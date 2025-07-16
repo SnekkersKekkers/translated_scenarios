@@ -17,7 +17,8 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,#1);
 VoicePlay("B020202101_02_020");
-MsgDisp("Sassa","Crap... Am I too excited already, just
-from meeting up with you?");
-MsgDisp("主人公","(He seems to like this outfit. 
+MsgDisp("Sassa","Crap...
+Am I too excited already, just from
+meeting up with you?");
+MsgDisp("主人公","(He seems to like this outfit.
 Hooray!)");

@@ -1,4 +1,5 @@
-MsgDisp("主人公","｛颯砂＊＊｝. You've been hanging out with
+MsgDisp("主人公","｛颯砂＊＊｝.
+You've been hanging out with
 ｛風真＊＊｝ a lot lately, huh?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -22,7 +23,8 @@ VoicePlay("B070200001_02_030");
 MsgDisp("Sassa","That guy says very specific things
 sometimes.
 It's a bit shocking.");
-MsgDisp("主人公","Hehe, that sounds like ｛風真＊＊｝.
+MsgDisp("主人公","Hehe, that sounds like
+｛風真＊＊｝.
 What kind of things?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -53,8 +55,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B070200001_02_070");
-MsgDisp("Sassa","He claims it had training weights
-in it.");
+MsgDisp("Sassa","He claims it had training weights in it.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -62,7 +63,8 @@ VoicePlay("B070200001_02_080");
 MsgDisp("Sassa","He's definitely making that up, right?
 Kindergartners don't do that.");
 MsgDisp("主人公","(Hehe! ......But somehow that doesn't seem
-too far off from ｛颯砂＊＊｝ right now.)");
+too far off from ｛颯砂＊＊｝
+right now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

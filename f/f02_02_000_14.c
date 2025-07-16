@@ -34,7 +34,7 @@ VoicePlay("F020200014_02_030");
 MsgDisp("Sassa","I'm grateful for my classes, my club,
 hurdles...");
 MsgDisp("主人公","Yeah.
-...Oh, you forgot your teacher!");
+... Oh, you forgot your teacher!");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

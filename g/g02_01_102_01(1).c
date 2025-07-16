@@ -28,7 +28,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_030");
 MsgDisp("Kazama","......Hey, do you think we are becoming a
 pair worthy of such a special place?");
-MsgDisp("主人公","｛風真＊＊｝ is special, though?");
+MsgDisp("主人公","｛風真＊＊｝ is special,
+though?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -64,8 +65,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("G020110201_01_080");
-MsgDisp("Kazama","I guess, 
-this is my freedom to declare it.");
+MsgDisp("Kazama","I guess, this is my freedom to declare it.");
 MsgDisp("主人公","(Somewhat, I feel like I just heard
 something quite significant.)");
 BGMStop();

@@ -13,7 +13,7 @@ VoicePlay("F020700007_07_000");
 MsgDisp("Mikage","That's right～
 How are you gonna spend summer break?");
 MsgDisp("主人公","I'll play lots.
-....Ah, I'll study too.");
+.... Ah, I'll study too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -66,6 +66,6 @@ ChMotion(7,4);
 VoicePlay("F020700007_07_070");
 MsgDisp("Mikage","That's exactly it.
 That's why summer break is a bit boring.");
-MsgDisp("主人公","(So what ｛御影＊＊｝ is looking
-forward to in the summer break is for
-school to start again...)");
+MsgDisp("主人公","(So what ｛御影＊＊｝ is
+looking forward to in the summer break is
+for school to start again...)");

@@ -1,11 +1,13 @@
 MsgDisp("主人公","I wonder if we'll always be friends with
-｛風真＊＊｝ and ｛本多＊＊｝?");
+｛風真＊＊｝ and
+｛本多＊＊｝?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_420");
-MsgDisp("Nanatsumori","Well. Kazama clearly has feelings other
-than friendship.");
+MsgDisp("Nanatsumori","Well.
+Kazama clearly has feelings other than
+friendship.");
 MsgDisp("主人公","Eh?");
 ChEye(4,4);
 ChMouth(4,2);
@@ -27,7 +29,8 @@ VoicePlay("B070400001_04_450");
 MsgDisp("Nanatsumori","Well, Dahon is the type who can become
 friends with anyone at any time, so it
 should be fine.");
-MsgDisp("主人公","Then, what about ｛七ツ森＊｝?");
+MsgDisp("主人公","Then, what about
+｛七ツ森＊｝?");
 ChEye(4,4);
 ChMouth(4,0);
 VoicePlay("B070400001_04_460");
@@ -36,7 +39,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B070400001_04_470");
-MsgDisp("Nanatsumori","...I wonder.
+MsgDisp("Nanatsumori","... I wonder.
 I don't really know.");
 ChEye(4,0);
 ChMouth(4,0);

@@ -21,7 +21,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("K020701100_07_020");
 MsgDisp("Mikage","Today's your birthday, right?");
-MsgDisp("主人公","｛御影＊＊｝, you remembered?");
+MsgDisp("主人公","｛御影＊＊｝, you
+remembered?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -43,14 +44,15 @@ ChMotion(7,0);
 VoicePlay("K020701100_07_050");
 MsgDisp("Mikage","That's a good response.
 Well then, see you next year.");
-MsgDisp("主人公","Huh? Then, we won't be able to meet for a
-year?");
+MsgDisp("主人公","Huh?
+Then, we won't be able to meet for a year?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("K020701100_07_060");
-MsgDisp("Mikage","Hm? That's not it. I'll give you another
-gift in one year.");
+MsgDisp("Mikage","Hm?
+That's not it.
+I'll give you another gift in one year.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(7);

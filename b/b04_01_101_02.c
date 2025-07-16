@@ -103,7 +103,8 @@ been just like this.");
         VoicePlay("B040110102_01_080");
         MsgDisp("Kazama","Haah, I don't think I'll be breaking this
 spiral, either...");
-        MsgDisp("主人公","(Umm... What is that supposed to mean?)");
+        MsgDisp("主人公","(Umm...
+What is that supposed to mean?)");
         break ;
         default :
         DbgAssert(1);

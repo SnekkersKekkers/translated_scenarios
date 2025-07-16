@@ -27,7 +27,7 @@ yourself.");
     ChMotion(7,5);
     VoicePlay("B040724100_07_020");
     MsgDisp("Mikage","Oh, be careful not to cause injury.
-...On the sheep, that is.");
+... On the sheep, that is.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

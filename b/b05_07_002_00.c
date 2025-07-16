@@ -41,7 +41,8 @@ StlMouth(7,0);
 VoicePlay("B050700200_07_010");
 MsgDisp("Mikage","Calm down.
 You're a good girl, Momo-chan.");
-MsgDisp("主人公","(Eh...Momo-chan?)");
+MsgDisp("主人公","(Eh...
+Momo-chan?)");
 StlEye(7,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5);
@@ -55,8 +56,8 @@ StlMouth(7,0);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700200_07_030");
 MsgDisp("Mikage","Calm down...");
-MsgDisp("主人公","(｛御影＊＊｝, amazing... He's calmed
-down an enraged horse...)");
+MsgDisp("主人公","(｛御影＊＊｝, amazing...
+He's calmed down an enraged horse...)");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700200_07_040");
@@ -87,7 +88,8 @@ MsgClose();
 BGOpen("tr510",0);
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝, do you know that horse?");
+MsgDisp("主人公","｛御影＊＊｝, do you know
+that horse?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

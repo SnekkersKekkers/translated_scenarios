@@ -2,8 +2,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3,1);
 VoicePlay("B020202121_02_000");
-MsgDisp("Sassa","Oh? Is today the day we're going to go
-running together?");
+MsgDisp("Sassa","Oh?
+Is today the day we're going to go running
+together?");
 MsgDisp("主人公","Ehh?");
 ChEye(2,3);
 ChMouth(2,3);

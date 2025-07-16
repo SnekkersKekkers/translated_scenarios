@@ -10,8 +10,8 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B080201100_02_010");
-MsgDisp("Sassa","Sorry, the timing was bad.
-...see you then.");
+MsgDisp("Sassa","Sorry, the timing was bad. ...see you
+then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 Wait(60,0);

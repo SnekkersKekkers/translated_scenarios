@@ -11,7 +11,7 @@ ChMotion(6,0);
 VoicePlay("G020610200_06_010");
 MsgDisp("Himuro","We've been going out together a lot,
 haven't we?");
-MsgDisp("主人公","Right. 
+MsgDisp("主人公","Right.
 Why do you ask?");
 ChEye(6,0);
 ChMouth(6,0);

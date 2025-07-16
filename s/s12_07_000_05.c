@@ -23,8 +23,9 @@ visit...");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700005_07_010");
-    MsgDisp("Mikage","You...... Stop it, you idiot. You're two
-months too early!");
+    MsgDisp("Mikage","You......
+Stop it, you idiot.
+You're two months too early!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -68,9 +69,9 @@ quietly, understood?");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(My high school days will be over in the
-spring......like ｛御影＊＊｝ said,
-let's spend the rest of it without any
-regrets!)");
+spring......like
+｛御影＊＊｝ said, let's
+spend the rest of it without any regrets!)");
     break ;
     case 4:
     case 5:
@@ -125,8 +126,7 @@ You can come visit me anytime.");
     VoicePlay("S120700005_07_130");
     MsgDisp("Mikage","I'll be here waiting, sleeping in the
 vines.");
-    MsgDisp("主人公","Like a character out of a
-fairytale, huh?");
+    MsgDisp("主人公","Like a character out of a fairytale, huh?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

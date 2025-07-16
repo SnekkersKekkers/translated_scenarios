@@ -77,7 +77,8 @@ It would be better if both of us had fun.");
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("B040323102_03_070");
-        MsgDisp("Honda","Ha... I see.");
+        MsgDisp("Honda","Ha...
+I see.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);

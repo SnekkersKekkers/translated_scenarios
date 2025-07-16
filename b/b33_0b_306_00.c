@@ -25,8 +25,9 @@ ChOpen(3,253,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B330B30600_04_000");
-MsgDisp("Nanatsumori","Haa... that was so funny. I could watch
-this kind of movie over and over again.");
+MsgDisp("Nanatsumori","Haa... that was so funny.
+I could watch this kind of movie over and
+over again.");
 ChEye(1,3);
 ChMotion(1,3);
 VoicePlay("B330B30600_01_000");
@@ -72,8 +73,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B330B30600_04_020");
-MsgDisp("Nanatsumori","Right. Thanks ti that, we had a lot more
-fun. Thank you.");
+MsgDisp("Nanatsumori","Right.
+Thanks ti that, we had a lot more fun.
+Thank you.");
 MsgDisp("主人公","(Even if you thank me...
 I don't think I laughed THAT much∋))");
 MsgClose();

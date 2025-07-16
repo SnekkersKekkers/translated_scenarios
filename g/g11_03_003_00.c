@@ -19,8 +19,10 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300300_03_000");
-MsgDisp("Honda","｛主人公｝. Sorry......");
-MsgDisp("主人公","Ah ｛本多＊＊｝. What's wrong?");
+MsgDisp("Honda","｛主人公｝.
+Sorry......");
+MsgDisp("主人公","Ah ｛本多＊＊｝.
+What's wrong?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -60,9 +62,11 @@ ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,0);
 VoicePlay("G110300300_03_050");
-MsgDisp("Honda","Haaa......I wonder if there's another book
-wedged around here......?");
-MsgDisp("主人公","(Hehe. Thank you, ｛本多＊＊｝. )");
+MsgDisp("Honda","Haaa......
+I wonder if there's another book wedged
+around here......?");
+MsgDisp("主人公","(Hehe.
+Thank you, ｛本多＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

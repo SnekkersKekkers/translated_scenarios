@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040520002_05_010");
-    MsgDisp("Hiiragi","...Yes, maybe.
+    MsgDisp("Hiiragi","... Yes, maybe.
 I should improve a little huh?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
@@ -31,8 +31,7 @@ I should improve a little huh?");
         ChMouth(5,2);
         ChMotion(5,0);
         VoicePlay("B040520002_05_020");
-        MsgDisp("Hiiragi","Your kindness just
-now is unnecessary.");
+        MsgDisp("Hiiragi","Your kindness just now is unnecessary.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -71,8 +70,8 @@ take the lift back.");
         ScrFadeIn(0);
         VoiceEVSPlay(5);
         VoicePlay("B040520002_05_070");
-        MsgDisp("Hiiragi","｛主人公｝, we somehow managed to get
-back.");
+        MsgDisp("Hiiragi","｛主人公｝, we somehow
+managed to get back.");
         MsgDisp("主人公","Hehe, yeah.
 That was close, but you looked cool.");
         ChEye(5,2);

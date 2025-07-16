@@ -5,8 +5,9 @@ switch (ChPrmGet(3,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","-Yes. Those author's books can be found on
-the shelf over there.");
+    MsgDisp("主人公","-Yes.
+Those author's books can be found on the
+shelf over there.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,0,4,#1,#1,0,0);
@@ -25,8 +26,7 @@ idea which shelf carried what......");
     VoicePlay("I260300000_03_530");
     MsgDisp("Honda","Before you knew it, you became able to
 help people immediately!");
-    MsgDisp("主人公","Now that you mention it,
-I guess I did?");
+    MsgDisp("主人公","Now that you mention it, I guess I did?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -44,10 +44,10 @@ watching you work!");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_560");
-    MsgDisp("Honda","If I'm not careful,
-you'll surpass me.");
+    MsgDisp("Honda","If I'm not careful, you'll surpass me.");
     MsgDisp("主人公","(Hehe! I still have a long way to go......
-But I'm happy ｛本多＊＊｝ praised me!)");
+But I'm happy ｛本多＊＊｝
+praised me!)");
     break ;
     case 4:
     case 5:
@@ -55,7 +55,7 @@ But I'm happy ｛本多＊＊｝ praised me!)");
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,4,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_570");
-    MsgDisp("Honda","......Hm?
+    MsgDisp("Honda","...... Hm?
 Isn't the store sparkling?");
     MsgDisp("主人公","Huh?");
     ChMotion(3,0,1);

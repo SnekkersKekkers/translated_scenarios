@@ -12,8 +12,7 @@ ChMotion(6,0);
 VoicePlay("K010600102_06_010");
 MsgDisp("Himuro","Yeah, I appreciate the thought.
 Thanks.");
-MsgDisp("主人公","(Yeah, seems like
-he liked it.)");
+MsgDisp("主人公","(Yeah, seems like he liked it.)");
 MsgClose();
 BGMStop();
 MsgClose();

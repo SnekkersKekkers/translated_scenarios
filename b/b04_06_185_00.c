@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,3);
     VoicePlay("B040618500_06_010");
     MsgDisp("Himuro","It was a good story though... it made me
-think about a lot of different things. But
-I agree with you.");
+think about a lot of different things.
+But I agree with you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,7 +35,7 @@ I agree with you.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040618500_06_020");
-    MsgDisp("Himuro","...Hmm?
+    MsgDisp("Himuro","... Hmm?
 It didn't resonate with you huh?");
     MsgDateResultDisp();
     break ;

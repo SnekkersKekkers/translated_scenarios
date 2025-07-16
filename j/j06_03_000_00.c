@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060300000_03_000");
         MsgDisp("Honda","That's the way to do it!
 So, how do you want to meet up?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝. What do you think?");
+        MsgDisp("主人公","At ｛待ち合わせ場所｝.
+What do you think?");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);

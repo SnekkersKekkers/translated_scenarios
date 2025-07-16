@@ -30,8 +30,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("S090D00000_22_020");
-MsgDisp("Hikaru","Fortunes? That sounds great, let's all do
-it!♪");
+MsgDisp("Hikaru","Fortunes?
+That sounds great, let's all do it!♪");
 MsgSel("Sure, let's go!","Not interested.");
 switch (MsgSelRsltGet()){
     case 0:

@@ -13,7 +13,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B080400000_04_000");
-MsgDisp("Nanatsumori","No problem. Goodnight.");
+MsgDisp("Nanatsumori","No problem.
+Goodnight.");
 MsgClose();
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

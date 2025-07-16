@@ -6,9 +6,9 @@ MsgDisp("主人公","There's nice weather today.
 Should we eat our lunch on the rooftop?");
 SEPlay("EV_SE_787");
 Wait(50,0);
-MsgDisp("主人公","(Oh, a text message.
-......Ah, it's from ｛七ツ森＊｝.
-Is it an invitation for lunch?)");
+MsgDisp("主人公","(Oh, a text message. ......Ah, it's from
+｛七ツ森＊｝. Is it an
+invitation for lunch?)");
 MsgDisp("主人公","(\"Where? Music now. In the room.
 Really......Really, the room. The
 corner......\" Is this code......∋)");
@@ -38,10 +38,9 @@ ScrFadeIn(0);
 VoicePlay("D010400200_04_010");
 MsgDisp("Nanatsumori","............");
 MsgDisp("主人公","He really fell asleep here.");
-MsgDisp("主人公","......Hehe. He looks like he's sleeping
-well, too.");
-MsgDisp("主人公","Did you stay up too late browsing
-the net?");
+MsgDisp("主人公","...... Hehe.
+He looks like he's sleeping well, too.");
+MsgDisp("主人公","Did you stay up too late browsing the net?");
 VoicePlay("D010400200_04_020");
 MsgDisp("Nanatsumori","Mnn......");
 MsgDisp("主人公","(He's still fast asleep......)");

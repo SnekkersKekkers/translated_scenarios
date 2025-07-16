@@ -35,8 +35,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C06102_05_020");
-MsgDisp("Hiiragi","Ah, Mikage-senpai 
-has yet another role.");
+MsgDisp("Hiiragi","Ah, Mikage-senpai has yet another role.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -71,8 +70,9 @@ VoicePlay("D140C06102_05_040");
 MsgDisp("Hiiragi","We are your friends after all.");
 MsgDisp("主人公","Hehe.
 Yeah, thank you.");
-MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are worried
-about me and ｛御影＊＊｝. )");
+MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are
+worried about me and
+｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

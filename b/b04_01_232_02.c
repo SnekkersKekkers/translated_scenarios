@@ -20,8 +20,9 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,8);
     ChCheek(1,0);
     VoicePlay("B040123202_01_010");
-    MsgDisp("Kazama","Oh. A staple of the mystery genre? Am I
-gonna be done in here by you?");
+    MsgDisp("Kazama","Oh.
+A staple of the mystery genre?
+Am I gonna be done in here by you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -71,8 +72,9 @@ be at the top.");
         ChEyeOpenLevel(1,8);
         ChCheek(1,10);
         VoicePlay("B040123202_01_050");
-        MsgDisp("Kazama","No... no, idiot. That's wrong. That's not
-it.");
+        MsgDisp("Kazama","No... no, idiot.
+That's wrong.
+That's not it.");
         MsgDisp("主人公","What do you mean by that?");
         ChEye(1,4);
         ChMouth(1,4);
@@ -80,8 +82,7 @@ it.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,7);
         VoicePlay("B040123202_01_060");
-        MsgDisp("Kazama","But, that's the best 
-situation isn't it?");
+        MsgDisp("Kazama","But, that's the best situation isn't it?");
         MsgDisp("主人公","Hey, what are you saying?");
         ChMotion(1,0);
         Wait(12,0);

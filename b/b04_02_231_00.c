@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040223100_02_010");
     MsgDisp("Sassa","Good.
-Then, let's go again. ");
+Then, let's go again.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,8 +26,7 @@ Then, let's go again. ");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040223100_02_020");
-    MsgDisp("Sassa","Sorry, 
-did I make you push yourself?");
+    MsgDisp("Sassa","Sorry, did I make you push yourself?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

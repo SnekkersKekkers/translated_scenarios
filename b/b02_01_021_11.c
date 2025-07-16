@@ -9,6 +9,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102111_01_010");
-MsgDisp("Kazama","Yeah. It's like it's pulling together all
-of your strongest points?");
-MsgDisp("主人公","(Awesome!　This is the highest praise!)");
+MsgDisp("Kazama","Yeah.
+It's like it's pulling together all of
+your strongest points?");
+MsgDisp("主人公","(Awesome!
+This is the highest praise!)");

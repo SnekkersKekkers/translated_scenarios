@@ -16,19 +16,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C06101_07_010");
-MsgDisp("Mikage","Oh, you have a 
-firm grasp of things.");
+MsgDisp("Mikage","Oh, you have a firm grasp of things.");
 ChMotion(5,0,1);
 VoicePlay("D140C06101_05_000");
 MsgDisp("Hiiragi","Does Inori-kun report all that to you?");
-MsgDisp("主人公","Yeah, not report per se...
-but he told me.");
+MsgDisp("主人公","Yeah, not report per se... but he told me.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C06101_05_010");
-MsgDisp("Hiiragi","He's pretty meticulous
-about those things.");
+MsgDisp("Hiiragi","He's pretty meticulous about those things.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -55,7 +52,8 @@ MsgDisp("Hiiragi","There's a saying that goes \"You should
 look for an older wife even if it means
 wearing golden sandals.\" That's what you
 are to Inori.");
-MsgDisp("主人公","Eh? Wife?");
+MsgDisp("主人公","Eh?
+Wife?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

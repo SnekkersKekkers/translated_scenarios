@@ -38,7 +38,8 @@ Thank you for the lessons!");
     MsgDisp("Mikage","Oh, if you liked it, so much Maybe we
 should hold it again the day after
 tomorrow?");
-    MsgDisp("主人公","Yay!　If possible!");
+    MsgDisp("主人公","Yay!
+If possible!");
     break ;
     case 4:
     case 5:
@@ -56,8 +57,8 @@ Thank you for listening.");
     VoicePlay("Q080700001_07_050");
     MsgDisp("Mikage","What, are you filled already?
 Tommorow it's also being held.");
-    MsgDisp("主人公","Really!　I would love to
-come along.");
+    MsgDisp("主人公","Really!
+I would love to come along.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -65,8 +66,7 @@ come along.");
     MsgDisp("Mikage","Alright, it has been decided with at least
 one participant.
 See you here the day after tomorrow.");
-    MsgDisp("主人公","Yes,
-thank you very much!");
+    MsgDisp("主人公","Yes, thank you very much!");
     break ;
     default :
     DbgAssert(1);

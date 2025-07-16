@@ -13,8 +13,8 @@ MsgDisp("主人公","Waa, pretty...!");
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B140400100_04_000");
-MsgDisp("Nanatsumori","Yeah. It's particularly beautiful this
-year.");
+MsgDisp("Nanatsumori","Yeah.
+It's particularly beautiful this year.");
 MsgDisp("主人公","Particularly?");
 ChMotion(4,0,1);
 VoicePlay("B140400100_04_010");
@@ -23,14 +23,13 @@ ChEye(4,2);
 ChMouth(4,4);
 ChCheek(4,3);
 VoicePlay("B140400100_04_020");
-MsgDisp("Nanatsumori","Haven't you noticed? Or... are you not
-interested?");
+MsgDisp("Nanatsumori","Haven't you noticed?
+Or... are you not interested?");
 MsgDisp("主人公","Ummm...");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("B140400100_04_030");
-MsgDisp("Nanatsumori","Oh dear, do you have to
-think about it?");
+MsgDisp("Nanatsumori","Oh dear, do you have to think about it?");
 ChMouth(4,0);
 VoicePlay("B140400100_04_040");
 MsgDisp("Nanatsumori","When was the last time we met?");
@@ -57,16 +56,15 @@ MsgDisp("主人公","Ah...");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_505");
-MsgDisp("","
-*Smooch*");
+MsgDisp("","*Smooch*");
 MsgClose();
 ChClose(4,0,30);
 ChLayout(1);
 ChNanaType(#1);
 ChOpen(4,255,0,4,3,#1,#1,8,0,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝, just now, on my
-forehead...");
+MsgDisp("主人公","｛七ツ森＊｝, just now, on
+my forehead...");
 VoicePlay("B140400100_04_070");
 MsgDisp("Nanatsumori","A kiss-mas present.");
 ChEye(4,4);
@@ -82,8 +80,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("B140400100_04_090");
-MsgDisp("Nanatsumori","｛主人公｝. Thank you for spending
-today with me.");
+MsgDisp("Nanatsumori","｛主人公｝.
+Thank you for spending today with me.");
 ChMotion(4,3,1);
 VoicePlay("B140400100_04_100");
 MsgDisp("Nanatsumori","For the first time in my life, I was able
@@ -97,7 +95,8 @@ VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Once more. So that I don't forget this
 moment for the rest of my life. Merry
 Christmas, ｛主人公｝.");
-MsgDisp("主人公","Merry Christmas, ｛七ツ森＊｝.");
+MsgDisp("主人公","Merry Christmas,
+｛七ツ森＊｝.");
 MsgDisp("主人公","(I think I'm feeling happy too...)");
 BGMStop();
 MsgClose();

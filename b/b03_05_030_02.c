@@ -22,8 +22,7 @@ I thought the same.");
     MsgDispSksp(1,0);
     ChMotion(5,0,1);
     VoicePlay("B030503002_05_020");
-    MsgDisp("Hiiragi","Yes,
-it's nice weather today.");
+    MsgDisp("Hiiragi","Yes, it's nice weather today.");
     MsgDispSksp(0);
     break ;
     case 2:

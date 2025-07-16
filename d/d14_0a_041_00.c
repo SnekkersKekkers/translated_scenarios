@@ -90,8 +90,9 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A04100_02_060");
 MsgDisp("Sassa","Scary......");
-MsgDisp("主人公","Hehe! ｛風真＊＊｝ and ｛颯砂＊＊｝ are no
-match for ｛氷室＊＊｝, huh?");
+MsgDisp("主人公","Hehe! ｛風真＊＊｝ and
+｛颯砂＊＊｝ are no match for
+｛氷室＊＊｝, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -129,8 +130,9 @@ ChMotion(2,4,1);
 VoicePlay("D140A04100_02_090");
 MsgDisp("Sassa","Information is key when it comes to
 keeping Inori in check.");
-MsgDisp("主人公","(Uhm...... ｛氷室＊＊｝ is staring at me. I
-wonder what they're talking about......?)");
+MsgDisp("主人公","(Uhm...... ｛氷室＊＊｝ is staring
+at me. I wonder what they're talking
+about......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

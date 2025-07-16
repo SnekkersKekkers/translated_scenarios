@@ -20,8 +20,9 @@ switch (MsgSelRsltGet()){
         ChMouth(3,4);
         ChMotion(3,0,1);
         VoicePlay("B040324202_03_010");
-        MsgDisp("Honda","Yeah. But, wouldn't it be fun with a
-larger group?");
+        MsgDisp("Honda","Yeah.
+But, wouldn't it be fun with a larger
+group?");
         MsgDateResultDisp();
         break ;
         case 4:

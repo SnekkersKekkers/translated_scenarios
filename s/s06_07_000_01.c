@@ -14,8 +14,8 @@ I tried wearing a kimono.");
     ChMotion(7,1);
     VoicePlay("S060700001_07_010");
     MsgDisp("Mikage","Inside there is sweet pea, right?");
-    MsgDisp("主人公","(Yay! Wearing a kimono was the right
-choice!)");
+    MsgDisp("主人公","(Yay!
+Wearing a kimono was the right choice!)");
     break ;
     case 3:
     ChEye(7,0);
@@ -39,7 +39,8 @@ You look gorgeous in a kimono, huh?");
     MsgDisp("Mikage","I saw something nice early this year.
 It's a good omen that good things will
 happen this year too.");
-    MsgDisp("主人公","(Yay! I was praised by
+    MsgDisp("主人公","(Yay!
+I was praised by
 ｛御影＊＊｝......! )");
     break ;
     case 4:
@@ -49,7 +50,8 @@ happen this year too.");
     ChMotion(7,0,1);
     VoicePlay("S060700001_07_050");
     MsgDisp("Mikage","This year is off to a great start♪");
-    MsgDisp("主人公","Eh?　Why is that?");
+    MsgDisp("主人公","Eh?
+Why is that?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -77,8 +79,7 @@ they?");
     ChMotion(7,0);
     VoicePlay("S060700001_07_090");
     MsgDisp("Mikage","Ahh, I'm so proud.");
-    MsgDisp("主人公","(｛御影＊＊｝ seems really happy about
-it.
+    MsgDisp("主人公","(｛御影＊＊｝ seems really happy about it.
 But vegetables......?)");
     break ;
     default :

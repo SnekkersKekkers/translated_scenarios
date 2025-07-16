@@ -50,11 +50,10 @@ MsgDisp("Himuro","Sensei has a long reach, so stretch your
 arm as far as you can, get close to the
 target, and throw.");
 VoicePlay("B330C20500_07_010");
-MsgDisp("Mikage","Uh— 
-h-how is it, like this?");
+MsgDisp("Mikage","Uh— h-how is it, like this?");
 VoicePlay("B330C20500_06_030");
 MsgDisp("Himuro","More.
-...Yeah, like that.");
+... Yeah, like that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.6);
 ChClose(5);
@@ -76,14 +75,14 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20500_05_020");
-MsgDisp("Hiiragi","Inori-kun, 
-please teach me next too.");
+MsgDisp("Hiiragi","Inori-kun, please teach me next too.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20500_06_040");
-MsgDisp("Himuro","Eh? I'm stopping here. Since I might be
-teaching wrong things....");
+MsgDisp("Himuro","Eh?
+I'm stopping here.
+Since I might be teaching wrong things....");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -109,8 +108,8 @@ SEPlay("EV_SE_087");
 SEWait();
 VoicePlay("B330C20500_07_020");
 MsgDisp("Mikage","Ah, all of them were failures.");
-MsgDisp("主人公","(｛御影＊＊｝... Was ｛氷室＊＊｝ toying
-with you?)");
+MsgDisp("主人公","(｛御影＊＊｝...
+Was ｛氷室＊＊｝ toying with you?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -35,7 +35,7 @@ or not.");
     VoicePlay("B040502301_05_030");
     MsgDisp("Hiiragi","I see.
 So that means someone caught an octopus
-there...you're amazing!");
+there... you're amazing!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

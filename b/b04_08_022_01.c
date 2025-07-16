@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040802201_08_010");
-    MsgDisp("Shirahane","Hm? I wonder.");
+    MsgDisp("Shirahane","Hm?
+I wonder.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +30,9 @@ switch (MsgSelRsltGet()){
     ChMotion(8,2,1);
     ChCheek(8,7);
     VoicePlay("B040802201_08_020");
-    MsgDisp("Shirahane","Hehe! Is it cause we've both been on our
-best behaviour?");
+    MsgDisp("Shirahane","Hehe!
+Is it cause we've both been on our best
+behaviour?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,7 +45,7 @@ best behaviour?");
     ChCheek(8,5);
     VoicePlay("B040802201_08_030");
     MsgDisp("Shirahane","That's a bit of an exaggeration isn't it?
-....But, that is how I feel.");
+.... But, that is how I feel.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

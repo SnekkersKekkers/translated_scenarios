@@ -19,7 +19,8 @@ I like it but...)");
     VoicePlay("P730400001_04_000");
     MsgDisp("Nanatsumori","Ohー.
 Pretty pretty.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Really?");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Really?");
     ChMotion(4,1,1);
     VoicePlay("P730400001_04_010");
     MsgDisp("Nanatsumori","I wouldn't lie about such things.
@@ -70,8 +71,8 @@ I like it but...)");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P730400001_04_060");
-    MsgDisp("Nanatsumori","Ah... sorry for saying it like that. It's
-very beautiful.");
+    MsgDisp("Nanatsumori","Ah... sorry for saying it like that.
+It's very beautiful.");
     MsgDisp("主人公","Really?
 Thank you!");
     ChEye(4,0);

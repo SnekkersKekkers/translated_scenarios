@@ -41,20 +41,22 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_020");
-MsgDisp("Hiiragi","Um...... Yes, it's from Inori. \"Show me
-all the places\"?");
+MsgDisp("Hiiragi","Um......
+Yes, it's from Inori. \"
+Show me all the places\"?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","Hehe. Looks like ｛氷室＊＊｝ is pouting,
+MsgDisp("主人公","Hehe.
+Looks like ｛氷室＊＊｝ is pouting,
 huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q070C00100_07_030");
-MsgDisp("Mikage","Yeah. But maybe he's trying to entertain
-us?");
+MsgDisp("Mikage","Yeah.
+But maybe he's trying to entertain us?");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
@@ -96,7 +98,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Q070C00100_07_050");
-MsgDisp("Mikage","Yeah. Maybe you only truly understand and
+MsgDisp("Mikage","Yeah.
+Maybe you only truly understand and
 appreciate a place once you leave it.");
 SEPlay("EV_SE_837");
 SEWait();
@@ -116,8 +119,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_060");
-MsgDisp("Hiiragi","Uhh, it says......
-\"Study hard.
+MsgDisp("Hiiragi","Uhh, it says...... \"
+Study hard.
 It's still a school trip.\"");
 ChEye(7,0);
 ChMouth(7,0);
@@ -129,8 +132,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q070C00100_05_070");
-MsgDisp("Hiiragi","Do we actually have to submit
-a report?");
+MsgDisp("Hiiragi","Do we actually have to submit a report?");
 MsgDisp("主人公","Hehe, maybe?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -149,8 +151,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q070C00100_05_090");
-MsgDisp("Hiiragi","Alright. Let's just sit over there and
-write something back.");
+MsgDisp("Hiiragi","Alright.
+Let's just sit over there and write
+something back.");
 MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 ChClose(5,0,30);

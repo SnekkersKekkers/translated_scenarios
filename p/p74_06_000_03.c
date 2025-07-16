@@ -17,8 +17,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P740600003_06_010");
 MsgDisp("Himuro","Why are you making such a face?");
-MsgDisp("主人公","That's because, I fell...
-my dress also...");
+MsgDisp("主人公","That's because, I fell... my dress also...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -33,8 +32,9 @@ VoicePlay("P740600003_06_030");
 MsgDisp("Himuro","Just accept that you did everything that
 you could?");
 MsgDisp("主人公","Yeah...");
-MsgDisp("主人公","(｛氷室＊＊｝... That's right, I failed, but
-I need to get over it...)");
+MsgDisp("主人公","(｛氷室＊＊｝...
+That's right, I failed, but I need to get
+over it...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

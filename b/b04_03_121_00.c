@@ -32,7 +32,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040312100_03_020");
-    MsgDisp("Honda","Nice. It might be more fun like that!");
+    MsgDisp("Honda","Nice.
+It might be more fun like that!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

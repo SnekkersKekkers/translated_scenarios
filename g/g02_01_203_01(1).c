@@ -10,8 +10,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120301_01_010");
 MsgDisp("Kazama","What? why are you talking about as if it's
-someone else's problem? I'm talking about
-you.");
+someone else's problem?
+I'm talking about you.");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -26,8 +26,9 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120301_01_030");
 MsgDisp("Kazama","Think about my side of things......");
-MsgDisp("主人公","｛風真＊＊｝ there are many girls around
-you at school and Simon too, you know?");
+MsgDisp("主人公","｛風真＊＊｝ there are many
+girls around you at school and Simon too,
+you know?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -75,9 +76,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020120301_01_090");
 MsgDisp("Kazama","Haa, it doesn't seem like my worries will
 end.");
-MsgDisp("主人公","｛風真＊＊｝ you're liked by both boys and
-girls, and even by the elderly.
-You're really amazing.");
+MsgDisp("主人公","｛風真＊＊｝ you're liked by
+both boys and girls, and even by the
+elderly. You're really amazing.");
 ChMotion(1,0);
 Wait(12,0);
 ChEye(1,2);

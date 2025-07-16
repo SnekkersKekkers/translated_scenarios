@@ -16,9 +16,10 @@ MsgDisp("Guy A","The waves are nice today.");
 VoicePlay("D010600000_42_010");
 MsgDisp("Guy B","Right?
 The perfect day for surfing.");
-MsgDisp("主人公","(Eh...... There are a lot of surfers out
-today.)");
-MsgDisp("主人公","(......Huh?
+MsgDisp("主人公","(Eh......
+There are a lot of surfers out today.)");
+MsgDisp("主人公","(......
+Huh?
 Over at the cafe, is that——)");
 SEPlay("EV_SE_531",0,0.3);
 MsgClose();

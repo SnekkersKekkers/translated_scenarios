@@ -13,7 +13,8 @@ switch (ChPrmGet(7,6)){
     VoicePlay("H2A0700000_07_000");
     MsgDisp("Mikage","Winning championships, isn't that
 amazing?.");
-    MsgDisp("主人公","Yes, ｛御影＊＊｝, we did it!");
+    MsgDisp("主人公","Yes, ｛御影＊＊｝, we did
+it!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -26,8 +27,7 @@ But, as the advisor, I'm super stoked.");
     VoicePlay("H2A0700000_07_020");
     MsgDisp("Mikage","Thanks to you guys, I'm in the best mood.
 Thanks.");
-    MsgDisp("主人公","It's because everyone did
-their best.");
+    MsgDisp("主人公","It's because everyone did their best.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

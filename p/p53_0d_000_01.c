@@ -12,7 +12,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 ChMotion(22,4,1);
 VoicePlay("P530D00001_22_000");
-MsgDisp("Hikaru","Ma～ri▼
+MsgDisp("Hikaru","Ma～ ri▼
 I stopped by to see you!");
 ChEye(21,0);
 ChMouth(21,3);
@@ -20,8 +20,9 @@ ChMotion(21,3);
 VoicePlay("P530D00001_21_000");
 MsgDisp("Michiru","I heard this year is about Game Music.
 How is it going?");
-MsgDisp("主人公","Ah, ｛ひかる＊｝, ｛みちる＊｝. Did
-you come to support us?");
+MsgDisp("主人公","Ah, ｛ひかる＊｝,
+｛みちる＊｝.
+Did you come to support us?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -39,7 +40,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P530D00001_21_020");
 MsgDisp("Michiru","It will be fine.
-Mari can do it. Right?");
+Mari can do it.
+Right?");
 MsgDisp("主人公","Thank you......!");
 SEPlay("EV_SE_038");
 SEWait();

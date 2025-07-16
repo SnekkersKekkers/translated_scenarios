@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     NSSMouth(7,0);
     VoicePlay("B160700000_07_010");
     MsgDisp("Mikage","Hey, deny it.
-...Geez, there's nothing I can do.");
+... Geez, there's nothing I can do.");
     break ;
     case 1:
     NSSEye(7,0);
@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
     NSSEyeOpenLevel(7,5);
     VoicePlay("B160700000_07_020");
     MsgDisp("Mikage","Right?
-...Geez, don't push yourself.");
+... Geez, don't push yourself.");
     break ;
     default :
     DbgAssert(0);

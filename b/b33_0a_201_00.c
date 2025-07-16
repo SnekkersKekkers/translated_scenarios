@@ -41,7 +41,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 MsgDisp("主人公","Hehe, how funny.
-Are ｛風真＊＊｝ and ｛氷室＊＊｝ brothers?");
+Are ｛風真＊＊｝ and
+｛氷室＊＊｝ brothers?");
 ChMouth(1,1);
 VoicePlay("B330A20100_01_010");
 MsgDisp("Kazama","It's not funny.

@@ -28,7 +28,7 @@ suggested it, so let's have fun.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040606100_06_020");
-    MsgDisp("Himuro","...I thought you'd say that.
+    MsgDisp("Himuro","... I thought you'd say that.
 That's fine, let's get something to eat.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

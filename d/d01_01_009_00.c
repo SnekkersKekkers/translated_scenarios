@@ -37,17 +37,18 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100900_01_030");
-MsgDisp("Kazama","While I was gone, did you hear that
-bell?");
+MsgDisp("Kazama","While I was gone, did you hear that bell?");
 MsgDisp("主人公","......The bell, do you mean that church
-bell that ｛風真＊＊｝ used to hear? It's
-weird but I haven't heard it since then.");
+bell that ｛風真＊＊｝ used to
+hear? It's weird but I haven't heard it
+since then.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D010100900_01_040");
-MsgDisp("Kazama","I see......I was in England so I couldn't
-hear it, but you didn't either, huh......");
+MsgDisp("Kazama","I see......
+I was in England so I couldn't hear it,
+but you didn't either, huh......");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","......?");
@@ -58,7 +59,8 @@ VoicePlay("D010100900_01_050");
 MsgDisp("Kazama","Alright, let's give it a try.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","Eh? Wait up, ｛風真＊＊｝!");
+MsgDisp("主人公","Eh?
+Wait up, ｛風真＊＊｝!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.6);
 MsgClose();
@@ -97,7 +99,7 @@ EfctClose();
 StlClose();
 Wait(40,0);
 VoicePlay("D010100900_01_090");
-MsgDisp("Kazama","......Ha.
+MsgDisp("Kazama","...... Ha.
 Your eyebrows are intense.");
 MsgDisp("主人公","Eh∋");
 Wait(40,0);
@@ -137,8 +139,9 @@ VoicePlay("D010100900_01_120");
 MsgDisp("Kazama","I can carry you in my arms, on my back,
 even on my shoulders would be fine with
 me, though?");
-MsgDisp("主人公","(......I need to watch my step when I'm
-with ｛風真＊＊｝. )");
+MsgDisp("主人公","(......
+I need to watch my step when I'm with
+｛風真＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

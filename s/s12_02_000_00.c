@@ -15,8 +15,8 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("S120200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, it's been a great start to
-the New Year.
+    MsgDisp("Sassa","｛主人公｝, it's been a
+great start to the New Year.
 Thank you.");
     MsgDisp("主人公","I feel the same way.");
     ChEye(2,0);
@@ -66,8 +66,9 @@ Let's go.");
     VoicePlay("S120200000_02_050");
     MsgDisp("Sassa","Visiting the shrine on New Year's gives
 such a refreshing feeling.");
-    MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, thanks for coming with
-me.");
+    MsgDisp("主人公","Yeah.
+｛颯砂＊＊｝, thanks for coming
+with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

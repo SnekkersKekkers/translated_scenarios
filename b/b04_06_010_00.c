@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040601000_06_010");
-    MsgDisp("Himuro","Good. I'm looking forward to seeing you in
-it.");
+    MsgDisp("Himuro","Good.
+I'm looking forward to seeing you in it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

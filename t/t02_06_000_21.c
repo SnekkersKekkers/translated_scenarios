@@ -45,8 +45,8 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoiceEVSPlay(6);
 VoicePlay("T020600000_06_310");
-MsgDisp("Himuro","｛主人公｝... I'm never letting you go,
-ever.");
+MsgDisp("Himuro","｛主人公｝...
+I'm never letting you go, ever.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

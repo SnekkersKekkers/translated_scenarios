@@ -10,9 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040104100_01_000");
-    MsgDisp("Kazama","Right? Both of them were giving it their
-all, so it was really exciting to watch
-them.");
+    MsgDisp("Kazama","Right?
+Both of them were giving it their all, so
+it was really exciting to watch them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

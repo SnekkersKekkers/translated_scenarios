@@ -12,7 +12,8 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("Q260100000_01_010");
 MsgDisp("Kazama","You didn't realise, did you?");
-MsgDisp("主人公","So that was ｛風真＊＊｝ earlier?");
+MsgDisp("主人公","So that was ｛風真＊＊｝
+earlier?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -20,7 +21,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("Q260100000_01_020");
 MsgDisp("Kazama","If it was anyone other than me, that'd be
-upsetting. ......Geez.");
+upsetting.
+...... Geez.");
 MsgDisp("主人公","(I see......
 Then the person I felt earlier was......)");
 MsgClose();

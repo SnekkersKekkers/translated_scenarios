@@ -8,7 +8,8 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("H480300000_03_000");
 MsgDisp("Honda","Oh, hm?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝! Did something happen?");
+MsgDisp("主人公","Ah, ｛本多＊＊｝!
+Did something happen?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -24,13 +25,14 @@ ChMotion(3,0);
 ChEyeOpenLevel(3,0);
 ChCheek(3,0);
 VoicePlay("H480300000_03_020");
-MsgDisp("Honda","Whew...... I think I'll be fine if I close
-my eyes and try to calm down.");
+MsgDisp("Honda","Whew......
+I think I'll be fine if I close my eyes
+and try to calm down.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("H480300000_03_030");
-MsgDisp("Honda","......Wait, I can't cheer like this!
+MsgDisp("Honda","...... Wait, I can't cheer like this!
 Today, I need to see your greatest-");
 ChEye(3,4);
 ChMouth(3,4);

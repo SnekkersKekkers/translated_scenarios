@@ -22,8 +22,7 @@ remaining my usual self.");
 MsgDisp("主人公","...Yeah.");
 ChEye(5,0);
 VoicePlay("B150500400_05_030");
-MsgDisp("Hiiragi","I've told you, 
-even I'm a guy too.");
+MsgDisp("Hiiragi","I've told you, even I'm a guy too.");
 MsgDisp("主人公","...Yeah.");
 ChEye(5,4);
 ChMotion(5,2);
@@ -40,7 +39,8 @@ MsgDisp("主人公","Is... that so?");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B150500400_05_060");
-MsgDisp("Hiiragi","Yes. Therefore, today Hiiragi Yanosuke is
+MsgDisp("Hiiragi","Yes.
+Therefore, today Hiiragi Yanosuke is
 switching to another role.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -53,11 +53,12 @@ Art saves me.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500400_05_080");
-MsgDisp("Hiiragi","Haha... I'm going home.");
+MsgDisp("Hiiragi","Haha...
+I'm going home.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝... I wonder what role he is
-switching to?)");
+MsgDisp("主人公","(｛柊＊＊＊｝...
+I wonder what role he is switching to?)");
 MsgClose();
 ScrFadeOut(0,0);

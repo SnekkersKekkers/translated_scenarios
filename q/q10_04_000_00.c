@@ -29,8 +29,9 @@ VoicePlay("Q100400000_04_030");
 MsgDisp("Nanatsumori","......Pfft! I can't believe we're here and
 we're thinking about school. How serious
 can we be∋");
-MsgDisp("主人公","Ahaha! Ah...... But, ｛七ツ森＊｝, you
-also wear glasses.");
+MsgDisp("主人公","Ahaha! Ah...... But,
+｛七ツ森＊｝, you also
+wear glasses.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -59,8 +60,8 @@ MsgDisp("主人公","Oh, are they for the people related to
 your work?");
 ChMotion(4,1,1);
 VoicePlay("Q100400000_04_070");
-MsgDisp("Nanatsumori","Yup. I've been taking care of on a daily
-basis.");
+MsgDisp("Nanatsumori","Yup.
+I've been taking care of on a daily basis.");
 MsgDisp("主人公","I'll help you with shopping, too.");
 ChMouth(4,3);
 ChMotion(4,0,1);

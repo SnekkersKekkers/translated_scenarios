@@ -13,8 +13,8 @@ ChEye(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B050500300_05_000");
-MsgDisp("Hiiragi","Phew...... I managed to do it without
-hurting myself.");
+MsgDisp("Hiiragi","Phew......
+I managed to do it without hurting myself.");
 MsgDisp("主人公","｛柊＊＊＊｝, did you have fun?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -48,8 +48,7 @@ StlEye(5,1);
 StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("B050500300_05_030");
-MsgDisp("Hiiragi","Well then, I'm glad today ended
-safely——");
+MsgDisp("Hiiragi","Well then, I'm glad today ended safely——");
 StlEyeOpenLevel(5,5);
 StlMouth(5,1);
 VoicePlay("B050500300_05_040");

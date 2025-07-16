@@ -13,9 +13,9 @@ ChMotion(4,2,1);
 VoicePlay("Q070400000_04_000");
 MsgDisp("Nanatsumori","This is what I call a masterpiece.
 It's so worth shooting.");
-MsgDisp("主人公","Yeah, for sure.
-Oh, with this scenery in the background,
-shall I take a picture, ｛七ツ森＊｝?");
+MsgDisp("主人公","Yeah, for sure. Oh, with this scenery in
+the background, shall I take a picture,
+｛七ツ森＊｝?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -54,8 +54,9 @@ ChOpen(4,254,0,0,5,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070400000_04_050");
 MsgDisp("Nanatsumori","Woah...... so big.");
-MsgDisp("主人公","True...... It's feels like I'm really in a
-foreign country.");
+MsgDisp("主人公","True......
+It's feels like I'm really in a foreign
+country.");
 VoicePlay("Q070400000_04_060");
 MsgDisp("Nanatsumori","Yeah......");
 ChEye(4,4);
@@ -94,8 +95,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0);
 BGMPlay("BGM_C04_NANA_C",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","This building is about 150 years old,
-huh.");
+MsgDisp("主人公","This building is about 150 years old, huh.");
 VoicePlay("Q070400000_04_100");
 MsgDisp("Nanatsumori","Huh, it doesn't look like that at all.");
 MsgDisp("主人公","Yeah.

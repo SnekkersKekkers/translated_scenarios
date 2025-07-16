@@ -21,8 +21,7 @@ I'm so glad!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110100002_01_010");
-    MsgDisp("Kazama","Cute and strong go hand in
-hand, huh.");
+    MsgDisp("Kazama","Cute and strong go hand in hand, huh.");
     MsgDisp("主人公","What?!");
     ChEye(1,0);
     ChMouth(1,3);

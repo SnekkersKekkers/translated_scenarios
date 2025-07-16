@@ -10,7 +10,8 @@ ChEye(5,2);
 ChEyeOpenLevel(5,9);
 VoiceEVSPlay(5);
 VoicePlay("P850500003_05_000");
-MsgDisp("Hiiragi","｛主人公｝, please look up.
+MsgDisp("Hiiragi","｛主人公｝, please look
+up.
 It wasn't only your responsibility.");
 MsgDisp("主人公","But.");
 ChEye(5,2);
@@ -20,7 +21,8 @@ VoicePlay("P850500003_05_010");
 MsgDisp("Hiiragi","You even minded my work.
 Therefore, it was my fault for adding to
 your worries.");
-MsgDisp("主人公","Uugh...｛柊＊＊＊｝.");
+MsgDisp("主人公","Uugh...
+｛柊＊＊＊｝.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P850500003_05_020");

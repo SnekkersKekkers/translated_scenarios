@@ -8,7 +8,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0);
     VoicePlay("F010700005_07_000");
     MsgDisp("Mikage","Oh, that's fine.");
-    MsgDisp("主人公","Yay! Let's go.");
+    MsgDisp("主人公","Yay!
+Let's go.");
     break ;
     case 3:
     ChEye(7,0);

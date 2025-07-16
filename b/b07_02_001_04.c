@@ -1,5 +1,7 @@
-MsgDisp("主人公","｛颯砂＊＊｝, what do you talk about when
-you're with ｛風真＊＊｝ and ｛氷室＊＊｝?");
+MsgDisp("主人公","｛颯砂＊＊｝, what do you talk
+about when you're with
+｛風真＊＊｝ and
+｛氷室＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -11,8 +13,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070200001_02_200");
-MsgDisp("Sassa","The remaining 30 percent......
-are stories about you.");
+MsgDisp("Sassa","The remaining 30 percent...... are stories
+about you.");
 MsgDisp("主人公","Eh, me?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -33,13 +35,15 @@ ChMotion(2,4);
 VoicePlay("B070200001_02_230");
 MsgDisp("Sassa","Ryota doesn't talk about antiques and
 Inori doesn't talk about surfing.");
-MsgDisp("主人公","Oh......I see.");
+MsgDisp("主人公","Oh......
+I see.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200001_02_240");
-MsgDisp("Sassa","Ahh. I guess it's not so interesting when
-you talk about your own hobbies.");
+MsgDisp("Sassa","Ahh.
+I guess it's not so interesting when you
+talk about your own hobbies.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -49,8 +53,8 @@ MsgDisp("Sassa","Maybe that's the reason we talk about you
 so much.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","(Hmm. I wonder what they say about
-me......)");
+MsgDisp("主人公","(Hmm.
+I wonder what they say about me......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

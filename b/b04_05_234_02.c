@@ -8,8 +8,7 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B040523402_05_000");
 MsgDisp("Hiiragi","You were competing with the cup next to
-us...
-in number of rotations.");
+us... in number of rotations.");
 MsgSel("Hehe, I thought we were going to go flying!","I wonder if the people on the cup on the opposite side are okay...","You don't want to lose huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523402_05_010");
-    MsgDisp("Hiiragi","Hey! It's no laughing matter.");
+    MsgDisp("Hiiragi","Hey!
+It's no laughing matter.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,7 +46,8 @@ switch (MsgSelRsltGet()){
         ChMotion(5,4);
         VoicePlay("B040523402_05_030");
         MsgDisp("Hiiragi","Are you alright?");
-        MsgDisp("主人公","Yeah. What about you, ｛柊＊＊＊｝?");
+        MsgDisp("主人公","Yeah.
+What about you, ｛柊＊＊＊｝?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

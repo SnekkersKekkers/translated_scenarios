@@ -38,7 +38,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630003_06_050");
 MsgDisp("Himuro","Really?
-......Well, I guess.");
+...... Well, I guess.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -77,9 +77,9 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630003_06_110");
 MsgDisp("Himuro","It's nothing.
-......Well, let's head home.");
-MsgDisp("主人公","(It seems like ｛氷室＊＊｝ is also leading
-a fulfilling high school life.)");
+...... Well, let's head home.");
+MsgDisp("主人公","(It seems like ｛氷室＊＊｝ is also
+leading a fulfilling high school life.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

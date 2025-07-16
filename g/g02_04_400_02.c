@@ -9,9 +9,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020440002_04_010");
-MsgDisp("Nanatsumori","As expected, 
-there are too many to count.");
-MsgDisp("主人公","Hehe. 
+MsgDisp("Nanatsumori","As expected, there are too many to count.");
+MsgDisp("主人公","Hehe.
 Were you planning to count them all?");
 ChMotion(4,0,1);
 VoicePlay("G020440002_04_020");
@@ -21,8 +20,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020440002_04_030");
-MsgDisp("Nanatsumori","Right. I want to be with you until
-morning.");
+MsgDisp("Nanatsumori","Right.
+I want to be with you until morning.");
 MsgDisp("主人公","Eh......");
 ChEye(4,0);
 ChMouth(4,0);
@@ -40,9 +39,9 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020440002_04_060");
-MsgDisp("Nanatsumori","Crap...... Whats with this
-atmosphere...... My mouth is running off
-on its own.");
+MsgDisp("Nanatsumori","Crap......
+Whats with this atmosphere......
+My mouth is running off on its own.");
 VoicePlay("G020440002_04_070");
 MsgDisp("Nanatsumori","Together until morning?
 What is that, how pompous, fishy,

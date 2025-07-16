@@ -11,8 +11,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B020102130_01_010");
-MsgDisp("Kazama","Yeah. You wear that type so often, I had
-an epiphany.");
+MsgDisp("Kazama","Yeah.
+You wear that type so often, I had an
+epiphany.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have started to love
-clothes like these, too!)");
+｛風真＊＊｝ seems to have
+started to love clothes like these, too!)");

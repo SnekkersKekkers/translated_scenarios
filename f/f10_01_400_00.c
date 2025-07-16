@@ -7,9 +7,11 @@ ChOpen(2,254,3,0,4,#1,#1,0,2);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("F100140000_02_000");
-MsgDisp("Sassa","｛主人公｝. Good timing.");
-MsgDisp("主人公","｛颯砂＊＊｝, ｛風真＊＊｝. What's up with
-you two?");
+MsgDisp("Sassa","｛主人公｝.
+Good timing.");
+MsgDisp("主人公","｛颯砂＊＊｝,
+｛風真＊＊｝.
+What's up with you two?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -76,7 +78,7 @@ Wait(16,0);
 ChEye(1,2);
 ChMouth(1,2);
 VoicePlay("F100140000_01_040");
-MsgDisp("Kazama","...I guess that means you don't remember
+MsgDisp("Kazama","... I guess that means you don't remember
 either.
 Well, that's enough.");
 MsgClose();
@@ -91,8 +93,8 @@ VoicePlay("F100140000_02_060");
 MsgDisp("Sassa","He left.
 Maybe we can talk about it next time?");
 MsgDisp("主人公","(He's still the same...
-But ｛風真＊＊｝, he really does remember
-when we were little kids.)");
+But ｛風真＊＊｝, he really does
+remember when we were little kids.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,7 +12,8 @@ switch (ChPrmGet(21,6)){
     ScrFadeIn(0);
     VoicePlay("H2A2100001_21_000");
     MsgDisp("Michiru","Hey, don't make that face, okay?");
-    MsgDisp("主人公","｛みちる＊｝, we lost......");
+    MsgDisp("主人公","｛みちる＊｝, we
+lost......");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,3);
@@ -31,7 +32,8 @@ club manager......)");
     ScrFadeIn(0);
     VoicePlay("H2A2100001_21_020");
     MsgDisp("Michiru","Good work, Mari.");
-    MsgDisp("主人公","｛みちる＊｝, we lost......");
+    MsgDisp("主人公","｛みちる＊｝, we
+lost......");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,3);
@@ -52,9 +54,9 @@ team members who did their best, right?");
     MsgDisp("Michiru","Good smile.
 Then, give all the players a pat on the
 back, okay?");
-    MsgDisp("主人公","(｛みちる＊｝...... We might have lost,
-but I'm glad that I stayed as the track
-and field club manager!)");
+    MsgDisp("主人公","(｛みちる＊｝...... We might have lost, but
+I'm glad that I stayed as the track and
+field club manager!)");
     break ;
     default :
     DbgAssert(1);

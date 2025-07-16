@@ -36,8 +36,9 @@ Don't cut corners so obviously.");
     VoicePlay("I160100003_01_030");
     MsgDisp("Kazama","It's the basics to also have fun with the
 display, right?");
-    MsgDisp("主人公","(Haa...... Alright, let's go back to the
-basics and do our best!)");
+    MsgDisp("主人公","(Haa......
+Alright, let's go back to the basics and
+do our best!)");
     break ;
     case 4:
     case 5:
@@ -64,7 +65,8 @@ it's dangerous if they try.");
     VoicePlay("I160100003_01_060");
     MsgDisp("Kazama","Remember to think about the customer's
 perspective.");
-    MsgDisp("主人公","Yeah...... I'm sorry.");
+    MsgDisp("主人公","Yeah......
+I'm sorry.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);

@@ -2,15 +2,18 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yayー!　A huge success∈)");
+MsgDisp("主人公","(Yayー!
+A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("P740700004_07_000");
-MsgDisp("Mikage","｛主人公｝, congratulations!");
-MsgDisp("主人公","｛御影＊＊｝! Yes, it went smoothly.");
+MsgDisp("Mikage","｛主人公｝,
+congratulations!");
+MsgDisp("主人公","｛御影＊＊｝!
+Yes, it went smoothly.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

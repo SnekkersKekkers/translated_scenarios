@@ -3,7 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
 MsgDisp("主人公","(A phone call.
-Ah......A private number!)");
+Ah......
+A private number!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -22,8 +23,9 @@ I recently took a practice exam and got
 pretty good results.");
 MsgDisp("主人公","Wow, that's great!");
 VoicePlay("D030901500_09_030");
-MsgDisp("Kuya","Thanks. But I can't relax just yet, I have
-to keep working hard.");
+MsgDisp("Kuya","Thanks.
+But I can't relax just yet, I have to keep
+working hard.");
 MsgDisp("主人公","You have my support.
 Just don't overdo it, okay?");
 VoicePlay("D030901500_09_040");

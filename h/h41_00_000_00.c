@@ -18,9 +18,9 @@ Wait(15,0);
 ChOpen(22,30,0,0,0,#1,#1,0,0);
 VoicePlay("F012200007_22_000");
 MsgDisp("Hikaru","Ah, it's Mari.");
-MsgDisp("主人公","Ah, ｛ひかる＊｝. I joined the
-rhythmic gymnastics club, too. Looking
-forward to it!");
+MsgDisp("主人公","Ah, ｛ひかる＊｝. I
+joined the rhythmic gymnastics club, too.
+Looking forward to it!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3);

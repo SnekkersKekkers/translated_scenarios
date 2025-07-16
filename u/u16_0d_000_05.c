@@ -12,8 +12,9 @@ MsgDisp("主人公","I have to work hard?");
 StlEyeOpenLevel(22,5,1);
 StlEyeOpenLevel(21,5,1);
 VoicePlay("U160D00005_21_000");
-MsgDisp("Michiru","Yes. On the qualities and ideals that
-attract that person to Mari.");
+MsgDisp("Michiru","Yes.
+On the qualities and ideals that attract
+that person to Mari.");
 StlEye(22,0);
 StlMouth(22,0);
 VoicePlay("U160D00005_22_010");

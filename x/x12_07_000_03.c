@@ -28,7 +28,8 @@ On behalf of Haba High, thank you.");
     MsgDisp("Mikage","You're pretty skilled at running the
 student council huh?
 It's not something anyone can do.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

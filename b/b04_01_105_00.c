@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040110500_01_010");
-    MsgDisp("Kazama","Exactly. Well, that's the way it goes
-then.");
+    MsgDisp("Kazama","Exactly.
+Well, that's the way it goes then.");
     MsgDispSksp(1,0);
     ChEye(1,0);
     MsgDateResultDisp();

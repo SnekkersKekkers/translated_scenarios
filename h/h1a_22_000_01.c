@@ -19,9 +19,9 @@ It's too bad.");
     MsgDisp("Hikaru","But it's still amazing, you know?
 You guys made it all the way here.
 Mari and everyone in the club is so good!");
-    MsgDisp("主人公","(｛ひかる＊｝...... We might have
-lost, but I'm glad that I stayed as the
-baseball club manager.)");
+    MsgDisp("主人公","(｛ひかる＊｝......
+We might have lost, but I'm glad that I
+stayed as the baseball club manager.)");
     break ;
     case 4:
     case 5:
@@ -51,9 +51,9 @@ to me.");
     VoicePlay("H1A2200001_22_050");
     MsgDisp("Hikaru","So, you know?
 Mari, smile?");
-    MsgDisp("主人公","(｛ひかる＊｝...... We might have
-lost, but I'm glad that I stayed as the
-baseball club manager.)");
+    MsgDisp("主人公","(｛ひかる＊｝......
+We might have lost, but I'm glad that I
+stayed as the baseball club manager.)");
     break ;
     default :
     DbgAssert(1);

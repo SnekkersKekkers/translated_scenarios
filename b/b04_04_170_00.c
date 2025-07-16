@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040417000_04_010");
-    MsgDisp("Nanatsumori","ＯＫ. Feel free to put in any requests. I
-think mostly anything goes.");
+    MsgDisp("Nanatsumori","ＯＫ.
+Feel free to put in any requests.
+I think mostly anything goes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +28,9 @@ think mostly anything goes.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040417000_04_020");
-    MsgDisp("Nanatsumori","Nice! I'll leave the song choice to you. I
-wonder what you'll pickー.");
+    MsgDisp("Nanatsumori","Nice!
+I'll leave the song choice to you.
+I wonder what you'll pickー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

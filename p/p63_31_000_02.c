@@ -17,8 +17,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("P633100002_31_010");
-MsgDisp("Goro","Hm? Then, I'll get on some of that
-sincerity. Bring it to me please!");
+MsgDisp("Goro","Hm?
+Then, I'll get on some of that sincerity.
+Bring it to me please!");
 MsgDisp("主人公","Certainly!");
 MsgClose();
 ScrFadeOut(0);

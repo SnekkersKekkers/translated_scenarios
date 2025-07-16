@@ -1,8 +1,9 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it, ｛みちる＊｝ and
-｛ひかる＊｝ invited me to make
-handmade chocolates together......");
+MsgDisp("主人公","Come to think of it,
+｛みちる＊｝ and
+｛ひかる＊｝ invited me
+to make handmade chocolates together......");
 MsgSel("I'll make chocolate with them.","I'll reject them this time.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,7 +27,8 @@ switch (MsgSelRsltGet()){
     ChOpen(22,255,0,0,3,#1,#1,0,2,0,30);
     ChMotion(22,4,1);
     VoicePlay("L010000011_22_000");
-    MsgDisp("Hikaru","Bonjour～, Mari▼");
+    MsgDisp("Hikaru","Bonjour～
+, Mari▼");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,3);

@@ -5,8 +5,7 @@ ChMouth(6,4);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040616001_06_000");
-MsgDisp("Himuro","Shall I get that 
-plushie for you?");
+MsgDisp("Himuro","Shall I get that plushie for you?");
 MsgSel("I would be so happy...!","CAN you?","Do your best!");
 switch (MsgSelRsltGet()){
     case 0:

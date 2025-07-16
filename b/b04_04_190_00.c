@@ -22,8 +22,9 @@ performance were amazing");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040419000_04_010");
-    MsgDisp("Nanatsumori","Yeah. If I knew more about the history, I
-might have enjoyed it a bit more.");
+    MsgDisp("Nanatsumori","Yeah.
+If I knew more about the history, I might
+have enjoyed it a bit more.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

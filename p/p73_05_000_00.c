@@ -9,7 +9,8 @@ switch (ChPrmGet(5,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous..)");
+the runway...
+I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -51,12 +52,12 @@ little easier, right?");
     ChMotion(5,0);
     VoiceEVSPlay(5);
     VoicePlay("P730500000_05_050");
-    MsgDisp("Hiiragi","｛主人公｝. I forgot to mention
-something important. That outfit suits you
-very well.");
+    MsgDisp("Hiiragi","｛主人公｝.
+I forgot to mention something important.
+That outfit suits you very well.");
     MsgDisp("主人公","Thank you...!");
-    MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ gave me the push
-I needed.
+    MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ gave
+me the push I needed.
 Let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -67,7 +68,8 @@ Let's do our best!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous..)");
+the runway...
+I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -75,7 +77,8 @@ the runway...I'm nervous..)");
     VoiceEVSPlay(5);
     VoicePlay("P730500000_05_060");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Did you come to watch?");
     ChEye(5,4);
     VoicePlay("P730500000_05_070");
     MsgDisp("Hiiragi","This is your big moment.
@@ -112,9 +115,9 @@ forget your apprehension, okay?");
     MsgDisp("Hiiragi","It'll be alright. If it's you, you'll be
 able to charm the audience. I am current
 proof of that.");
-    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. Yes, I should go
-out with a little confidence. Let's do our
-best!)");
+    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. Yes, I
+should go out with a little confidence.
+Let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

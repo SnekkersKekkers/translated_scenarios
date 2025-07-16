@@ -17,8 +17,9 @@ ChEye(3,2);
 ChMotion(3,4);
 VoiceEVSPlay(3);
 VoicePlay("G020310100_03_020");
-MsgDisp("Honda","｛主人公｝. Do you think I've been
-acting weird lately? Have I been mean?");
+MsgDisp("Honda","｛主人公｝. Do you think
+I've been acting weird lately? Have I been
+mean?");
 MsgDisp("主人公","......Why is that?");
 ChEye(3,4);
 ChMouth(3,4);
@@ -54,7 +55,8 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310100_03_080");
 MsgDisp("Honda","We need to try different situations to
-really understand our feelings! Yeah.");
+really understand our feelings!
+Yeah.");
 MsgDisp("主人公","(｛本多＊＊｝, has complicated feelings
 about this, huh......?)");
 BGMStop();

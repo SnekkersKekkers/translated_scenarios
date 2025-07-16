@@ -25,8 +25,8 @@ part-time.");
     VoicePlay("I350300000_03_020");
     MsgDisp("Honda","Wow, it looks like you've become a real
 waitress.");
-    MsgDisp("主人公","Hm?　I still have
-a long way to go.");
+    MsgDisp("主人公","Hm?
+I still have a long way to go.");
     ChMotion(3,5,1);
     VoicePlay("I350300000_03_030");
     MsgDisp("Honda","Then, when I see you during your next
@@ -47,7 +47,8 @@ grown next time he comes!)");
     VoiceEVSPlay(3);
     VoicePlay("I350300000_03_050");
     MsgDisp("Honda","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Welcome!");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -80,8 +81,9 @@ here compared to at school.");
     MsgDisp("Honda","I do, you know?
 But, you're doing well, and I think this
 job suits you.");
-    MsgDisp("主人公","(I'm happy I got complimented. But......
-am I really that different here?)");
+    MsgDisp("主人公","(I'm happy I got complimented.
+But...... am I really that different
+here?)");
     break ;
     case 4:
     case 5:
@@ -91,8 +93,10 @@ am I really that different here?)");
     ChOpen(3,255,1,3,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("I350300000_03_100");
-    MsgDisp("Honda","｛主人公｝. Hello!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝! Welcome.");
+    MsgDisp("Honda","｛主人公｝.
+Hello!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+Welcome.");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,2,1);

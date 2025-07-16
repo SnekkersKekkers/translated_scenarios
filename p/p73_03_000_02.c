@@ -17,26 +17,29 @@ make it pretty but...)");
     ChOpen(3,254,5,3,3,#1,#1,0,0);
     VoicePlay("P730300002_03_000");
     MsgDisp("Honda","Waa...!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Did you come to watch?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Did you come to watch?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_010");
-    MsgDisp("Honda","Yeah. After all, I heard you were
-displaying wedding dresses this year.");
+    MsgDisp("Honda","Yeah.
+After all, I heard you were displaying
+wedding dresses this year.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("P730300002_03_020");
     MsgDisp("Honda","This is my first time seeing a bride this
 up close.");
-    MsgDisp("主人公","Ummm... 
+    MsgDisp("主人公","Ummm...
 I'm not a bride though?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("P730300002_03_030");
-    MsgDisp("Honda","Ahー, I see! Sorry.
+    MsgDisp("Honda","Ahー, I see!
+Sorry.
 You look too real.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -45,15 +48,16 @@ You look too real.");
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_040");
     MsgDisp("Honda","Ah, it's already your turn.
-...Hey.");
+... Hey.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("P730300002_03_050");
     MsgDisp("Honda","Sending you off like this makes me feel
 like I'm your father");
-    MsgDisp("主人公","(Hehe! This is my last show, I have to
-finish off these last three years well!)");
+    MsgDisp("主人公","(Hehe!
+This is my last show, I have to finish off
+these last three years well!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -70,8 +74,8 @@ make it pretty but...)");
     ChOpen(3,254,4,1,4,0,#1,0,0);
     VoicePlay("P730300002_03_060");
     MsgDisp("Honda","U-Um...");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Did you come to cheer me
-on?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Did you come to cheer me on?");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,0,1);
@@ -109,16 +113,18 @@ attention to yourself....");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_110");
-    MsgDisp("Honda","Bzzt. I feel like this is the wrong
-answer.");
+    MsgDisp("Honda","Bzzt.
+I feel like this is the wrong answer.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P730300002_03_120");
-    MsgDisp("Honda","Relax. I won't take you away. Go walk your
-head held high, as you are.");
-    MsgDisp("主人公","(Hehe! This is my last show, I have to
-finish off these last three years well!)");
+    MsgDisp("Honda","Relax.
+I won't take you away.
+Go walk your head held high, as you are.");
+    MsgDisp("主人公","(Hehe!
+This is my last show, I have to finish off
+these last three years well!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

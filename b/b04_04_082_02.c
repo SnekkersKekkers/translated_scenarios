@@ -42,8 +42,7 @@ It's not stuck to me, is it∋");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040408202_04_030");
-        MsgDisp("Nanatsumori","You don't care about
-people's feelings...");
+        MsgDisp("Nanatsumori","You don't care about people's feelings...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -55,8 +54,7 @@ people's feelings...");
         VoicePlay("B040408202_04_040");
         MsgDisp("Nanatsumori","It can't be helped.
 I'm not good with bugs.");
-        MsgDisp("主人公","I see.
-why do you dislike bugs?");
+        MsgDisp("主人公","I see. why do you dislike bugs?");
         ChEye(4,1);
         ChMouth(4,1);
         ChEyeOpenLevel(4,0);
@@ -92,8 +90,9 @@ They wriggle, in groups!");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040408202_04_100");
-        MsgDisp("Nanatsumori","You get it, right? Right? You should get
-it now too!");
+        MsgDisp("Nanatsumori","You get it, right?
+Right?
+You should get it now too!");
         MsgDisp("主人公","Somewhat...");
         ChEye(4,2);
         ChMouth(4,2);
@@ -109,18 +108,20 @@ was 5 years old.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040408202_04_120");
-        MsgDisp("Nanatsumori","Right... Since then, insects and groups of
-insects have only scared me..");
+        MsgDisp("Nanatsumori","Right...
+Since then, insects and groups of insects
+have only scared me..");
         ChEye(4,4);
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoiceEVSPlay(4);
         VoicePlay("B040408202_04_130");
-        MsgDisp("Nanatsumori","｛主人公｝, you understand, right?
+        MsgDisp("Nanatsumori","｛主人公｝, you
+understand, right?
 How I feel.");
         MsgDisp("主人公","(I understand how he feels, but...
-The ｛七ツ森＊｝ who's scared of
-insects is kind of cute?)");
+The ｛七ツ森＊｝ who's
+scared of insects is kind of cute?)");
         break ;
         default :
         DbgAssert(1);

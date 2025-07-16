@@ -15,5 +15,6 @@ VoicePlay("B020402102_04_010");
 MsgDisp("Nanatsumori","You don't have to do that when you're
 naturally so energetic.
 You're full of energy even here.");
-MsgDisp("主人公","(Awesome! ｛七ツ森＊｝ is really
+MsgDisp("主人公","(Awesome!
+｛七ツ森＊｝ is really
 happy!)");

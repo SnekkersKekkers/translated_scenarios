@@ -5,7 +5,9 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Welcome! ......Hm? ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Welcome!
+...... Hm?
+｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,0,#1,#1,0,0);
@@ -68,7 +70,8 @@ I'm glad.
 Let's work harder!)");
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Welcome!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,4,#1,#1,0,0);
@@ -80,7 +83,8 @@ fun.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I450200000_02_070");
-    MsgDisp("Sassa","I see...... Nice.");
+    MsgDisp("Sassa","I see......
+Nice.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -95,8 +99,7 @@ But it's worth it.");
     VoicePlay("I450200000_02_090");
     MsgDisp("Sassa","I see, as expected.
 I can tell the store trusts you.");
-    MsgDisp("主人公","No, I still have
-a long way to go.");
+    MsgDisp("主人公","No, I still have a long way to go.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -119,13 +122,13 @@ Alright, let's do our best!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+Welcome!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoicePlay("I450200000_02_120");
-    MsgDisp("Sassa","I was in the area,
-so I stopped by.");
+    MsgDisp("Sassa","I was in the area, so I stopped by.");
     MsgDisp("主人公","We have a lot in stock, like potted plants
 and seeds, so please take your time
 looking around.");
@@ -161,7 +164,8 @@ I'm feeling a little strange.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Strange......? I wonder what happened to
+    MsgDisp("主人公","(Strange......?
+I wonder what happened to
 ｛颯砂＊＊｝? )");
     break ;
     default :

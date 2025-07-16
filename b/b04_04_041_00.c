@@ -11,8 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040404100_04_000");
-    MsgDisp("Nanatsumori","Ah... I'm not that knowledgable about
-martial arts.");
+    MsgDisp("Nanatsumori","Ah...
+I'm not that knowledgable about martial
+arts.");
     MsgDateResultDisp();
     break ;
     case 1:

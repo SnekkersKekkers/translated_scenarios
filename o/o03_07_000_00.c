@@ -52,7 +52,8 @@ we were a little faster together?");
     ChMotion(7,0);
     VoicePlay("O030700000_07_050");
     MsgDisp("Mikage","Thanks to you, I had fun at this sports
-festival. Thanks.");
+festival.
+Thanks.");
     MsgDisp("主人公","(We did it!
 An uncontested victory!)");
     break ;

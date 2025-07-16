@@ -83,8 +83,9 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30600_01_020");
 MsgDisp("Kazama","Ha?
-...Geez, you're so cynical.");
-MsgDisp("主人公","Hehe! I also agree with ｛風真＊＊｝.");
+... Geez, you're so cynical.");
+MsgDisp("主人公","Hehe!
+I also agree with ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
@@ -110,8 +111,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30600_06_050");
-MsgDisp("Himuro","Some authentic curry 
-would be nice.");
+MsgDisp("Himuro","Some authentic curry would be nice.");
 MsgDisp("主人公","(Is this the Indian movie effect?
 Critiquing it over curry...
 Haha, this might get intense!)");

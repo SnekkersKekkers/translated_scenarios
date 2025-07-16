@@ -25,8 +25,8 @@ Are your feet okay?");
     MsgDisp("Hiiragi","That's encouraging.
 If that's the case, would you mind
 spending the next free period with me too?");
-    MsgDisp("主人公","Yes. Let's look around a lot too next
-time.");
+    MsgDisp("主人公","Yes.
+Let's look around a lot too next time.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q080500000_05_020");
@@ -53,13 +53,12 @@ Thanks for inviting me.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("Q080500000_05_040");
-    MsgDisp("Hiiragi","If we're both satisfied,
-I'm glad——");
+    MsgDisp("Hiiragi","If we're both satisfied, I'm glad——");
     ChMouth(5,2);
     ChEyeOpenLevel(5,#1);
     VoicePlay("Q080500000_05_050");
-    MsgDisp("Hiiragi","Oh...... wait. Actually,
-not satisfied.");
+    MsgDisp("Hiiragi","Oh...... wait.
+Actually, not satisfied.");
     MsgDisp("主人公","Eh?");
     ChEye(5,3);
     ChMouth(5,4);

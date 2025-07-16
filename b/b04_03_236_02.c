@@ -34,7 +34,8 @@ though?");
         ChMotion(3,5);
         VoicePlay("B040323602_03_020");
         MsgDisp("Honda","Ah, it might be that time I saved a tuna.");
-        MsgDisp("主人公","Eh? Is the tuna repaying your kindness?");
+        MsgDisp("主人公","Eh?
+Is the tuna repaying your kindness?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -49,8 +50,9 @@ aquarium, so I told the caretaker.");
         VoicePlay("B040323602_03_040");
         MsgDisp("Honda","He definitely remembers me, so he's
 showing me a dance as a thanks.");
-        MsgDisp("主人公","Hehe. It's like a mix of the \"Grateful
-Crane\" and Urashima Taro.");
+        MsgDisp("主人公","Hehe.
+It's like a mix of the \"Grateful Crane\"
+and Urashima Taro.");
         ChFace(3,4);
         ChMotion(3,0);
         VoicePlay("B040323602_03_050");
@@ -93,8 +95,7 @@ acid?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040323602_03_090");
-    MsgDisp("Honda","Hahaha, 
-the tuna doesn't have any friends!");
+    MsgDisp("Honda","Hahaha, the tuna doesn't have any friends!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

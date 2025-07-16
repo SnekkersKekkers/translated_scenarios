@@ -20,7 +20,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070201000_02_010");
 MsgDisp("Sassa","Back then I laughed and dodged the
-question...... Sorry.");
+question......
+Sorry.");
 MsgDisp("主人公","No, it's fine.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -67,8 +68,9 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ChCheek(2,10);
 VoicePlay("B070201000_02_080");
-MsgDisp("Sassa","Hm? Huh, why am talking about you? I
-thought we were talking about love......");
+MsgDisp("Sassa","Hm?
+Huh, why am talking about you?
+I thought we were talking about love......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

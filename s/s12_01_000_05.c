@@ -17,8 +17,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("S120100005_01_000");
     MsgDisp("Kazama","We saw some of our classmates on the way
 home, right?");
-    MsgDisp("主人公","Yeah. Everyone was with friends and
-family.");
+    MsgDisp("主人公","Yeah.
+Everyone was with friends and family.");
     ChEye(1,4);
     ChMouth(1,0);
     ChMotion(1,4);
@@ -83,8 +83,7 @@ great......)");
     MsgDisp("Kazama","When we were in 1st grade, I used to run
 ahead of you all the time.
 So being together like this feels weird.");
-    MsgDisp("主人公","Yeah, you were hard to keep
-up with......");
+    MsgDisp("主人公","Yeah, you were hard to keep up with......");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,1);
@@ -119,8 +118,8 @@ Yeah, that's it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
     MsgDisp("主人公","(Distance? What does he mean...... This
-year, ｛風真＊＊｝ and I, will graduate
-together......)");
+year, ｛風真＊＊｝ and I, will
+graduate together......)");
     break ;
     default :
     DbgAssert(1);

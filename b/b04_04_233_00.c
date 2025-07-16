@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040423300_04_010");
-    MsgDisp("Nanatsumori","That's impossible to understand.
-what's so addictive about it.");
+    MsgDisp("Nanatsumori","That's impossible to understand. what's so
+addictive about it.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -28,7 +28,8 @@ what's so addictive about it.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423300_04_020");
-    MsgDisp("Nanatsumori","Hey. But now you've got a nice hairdo.
+    MsgDisp("Nanatsumori","Hey.
+But now you've got a nice hairdo.
 What style surpasses Visual Kei?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

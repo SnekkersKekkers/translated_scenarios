@@ -24,21 +24,18 @@ ChMotion(8,2,1);
 VoicePlay("B150800200_08_030");
 MsgDisp("Shirahane","Could it be, you don't see that I look
 troubled?");
-MsgDisp("主人公","Umm... maybe you look 
-a bit bashful?");
+MsgDisp("主人公","Umm... maybe you look a bit bashful?");
 ChEye(8,0);
 ChMouth(8,5);
 ChMotion(8,5,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("B150800200_08_040");
-MsgDisp("Shirahane","∋
-That's no good...");
+MsgDisp("Shirahane","∋ That's no good...");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("B150800200_08_050");
-MsgDisp("Shirahane","I know you like ticklin' me.
-and I..
+MsgDisp("Shirahane","I know you like ticklin' me. and I..
 looked like I was happy 'bout it?");
 ChEye(8,2);
 ChMouth(8,0);

@@ -12,7 +12,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("D130A00101_01_000");
 MsgDisp("Kazama","｛主人公｝, there you are.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝. What's up?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
+What's up?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -107,7 +108,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D130A00101_01_070");
 MsgDisp("Kazama","You guys......");
-MsgDisp("主人公","Hehe! Come on, ｛風真＊＊｝, smile.");
+MsgDisp("主人公","Hehe!
+Come on, ｛風真＊＊｝, smile.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -149,9 +151,11 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D130A00101_01_080");
-MsgDisp("Kazama","Huh?　I didn't do anything wrong.");
-MsgDisp("主人公","(Hehe, we got a nice photo! Thank you so
-much, ｛御影＊＊｝. )");
+MsgDisp("Kazama","Huh?
+I didn't do anything wrong.");
+MsgDisp("主人公","(Hehe, we got a nice photo!
+Thank you so much,
+｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

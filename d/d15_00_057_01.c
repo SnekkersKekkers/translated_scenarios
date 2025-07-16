@@ -23,29 +23,34 @@ ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,1 ) ;
 VoicePlay ( "D150005701_07_010" ) ;
-MsgDisp ( "Mikage","It's cute. Like a cat playing with a ball
-of yarn." ) ;
+MsgDisp ( "Mikage","It's cute.
+Like a cat playing with a ball of yarn." ) ;
 ChEye ( 5,0 ) ;
 ChMouth ( 5,0 ) ;
 ChMotion ( 5,1 ) ;
 VoicePlay ( "D150005701_05_020" ) ;
-MsgDisp ( "Hiiragi","That's not what I want. I'm going to aim
-for a goal that breaks the net." ) ;
+MsgDisp ( "Hiiragi","That's not what I want.
+I'm going to aim for a goal that breaks
+the net." ) ;
 ChEye ( 7,2 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,5 ) ;
 VoicePlay ( "D150005701_07_020" ) ;
-MsgDisp ( "Mikage","Ahh, I see. Yanosuke's victory would look
-cool, wouldn't it?" ) ;
-MsgDisp ( "主人公","Yes, for sure. He'd be in the spotlight." ) ;
+MsgDisp ( "Mikage","Ahh, I see.
+Yanosuke's victory would look cool,
+wouldn't it?" ) ;
+MsgDisp ( "主人公","Yes, for sure.
+He'd be in the spotlight." ) ;
 ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150005701_05_030" ) ;
-MsgDisp ( "Hiiragi","Alright. I'll try my best to meet your
+MsgDisp ( "Hiiragi","Alright.
+I'll try my best to meet your
 expectations." ) ;
-MsgDisp ( "主人公","(Hehe. He really is kind of like a kitty
-chasing a ball of yarn.)" ) ;
+MsgDisp ( "主人公","(Hehe.
+He really is kind of like a kitty chasing
+a ball of yarn.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

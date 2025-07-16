@@ -28,7 +28,8 @@ club manager!)");
     ScrFadeIn(0);
     VoicePlay("H1A0600000_06_020");
     MsgDisp("Himuro","Congrats on winning.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Thank you.");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+Thank you.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

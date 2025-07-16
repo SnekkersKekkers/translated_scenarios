@@ -40,8 +40,8 @@ soft serve ice cream made by these cows.");
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040424100_04_030");
-    MsgDisp("Nanatsumori","They're staring...
-their eyes are surprisingly cute, right?");
+    MsgDisp("Nanatsumori","They're staring... their eyes are
+surprisingly cute, right?");
     ChEyeOpenLevel(4,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

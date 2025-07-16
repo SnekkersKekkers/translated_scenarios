@@ -7,8 +7,8 @@ MsgDisp("Sassa","......It's kind of pitiable, but when
 something is this beautiful, you want to
 catch it. Maybe insect catching is a guy's
 instinct.");
-MsgDisp("主人公","Hehe. You know you really shouldn't,
-right?");
+MsgDisp("主人公","Hehe.
+You know you really shouldn't, right?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -41,8 +41,8 @@ there's a time for it.
 I'll be a bit smarter.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","Ah......you mean 'love equals me?' —— I
-remember......");
+MsgDisp("主人公","Ah...... you mean 'love equals me?
+' —— I remember......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -60,8 +60,8 @@ fireflies. They're so cute and beautiful,
 and I want to catch them, but I won't
 right now.");
 MsgDisp("主人公","(Like the fireflies......?
-｛颯砂＊＊｝'s feelings make me happy
-but......)");
+｛颯砂＊＊｝'s feelings make me
+happy but......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

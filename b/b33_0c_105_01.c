@@ -16,13 +16,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C10501_06_000");
-MsgDisp("Himuro","You mean the adhesive
-cleaning tool?");
+MsgDisp("Himuro","You mean the adhesive cleaning tool?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10501_05_010");
-MsgDisp("Hiiragi","Yes. You roll it around to pick up debris.
+MsgDisp("Hiiragi","Yes.
+You roll it around to pick up debris.
 The nae is good too.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -44,8 +44,8 @@ VoicePlay("B330C10501_07_010");
 MsgDisp("Mikage","Oh, me too.
 There are ones that can be washed tens of
 thousands of times");
-MsgDisp("主人公","Hehe. You both seem to be very
-knowledgable.");
+MsgDisp("主人公","Hehe.
+You both seem to be very knowledgable.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -99,8 +99,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C10501_06_030");
-MsgDisp("Himuro","I'm fine with going on 
-not understanding.");
+MsgDisp("Himuro","I'm fine with going on not understanding.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -127,8 +126,8 @@ ChClose(7,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0,0,30);
-MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ seems like he's really
-enjoying himself.");
+MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ seems like
+he's really enjoying himself.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -141,11 +140,13 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C10501_07_050");
-MsgDisp("Mikage","｛主人公｝, come on let's go!
+MsgDisp("Mikage","｛主人公｝, come on let's
+go!
 That demonstration is super interesting.");
 MsgDisp("主人公","Hehe, yes!");
 MsgDisp("主人公","(It's not just ｛氷室＊＊｝ and
-｛柊＊＊＊｝, ｛御影＊＊｝ also seems
+｛柊＊＊＊｝,
+｛御影＊＊｝ also seems
 like he's having so much fun. I'm glad we
 came!)");
 BGMStop();

@@ -11,14 +11,16 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,2,4,0,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛柊＊＊＊｝, ｛御影＊＊｝. Are you
-going to have lunch now?");
+MsgDisp("主人公","｛柊＊＊＊｝,
+｛御影＊＊｝.
+Are you going to have lunch now?");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoiceEVSPlay(5);
 VoicePlay("F100540001_05_010");
-MsgDisp("Hiiragi","｛主人公｝. Yes, it looks like they did
-not have Hiyashi Chuuka.");
+MsgDisp("Hiiragi","｛主人公｝.
+Yes, it looks like they did not have
+Hiyashi Chuuka.");
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","I see.
 You were so excited for it the other day
@@ -27,8 +29,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100540001_07_010");
-MsgDisp("Mikage","Yeah. But, it is a seasonal item. It may
-appear in the future.");
+MsgDisp("Mikage","Yeah.
+But, it is a seasonal item.
+It may appear in the future.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

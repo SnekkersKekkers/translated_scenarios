@@ -13,11 +13,13 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P830D00002_22_000");
-MsgDisp("Hikaru","Hii～ Mari♪");
+MsgDisp("Hikaru","Hii～
+Mari♪");
 ChMotion(21,3);
 VoicePlay("P830D00002_21_000");
 MsgDisp("Michiru","Are you doing okay with work?");
-MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.");
+MsgDisp("主人公","Ah, ｛みちる＊｝,
+｛ひかる＊｝.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

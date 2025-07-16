@@ -1,8 +1,8 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(......Come to think of it, the other day
-on the rooftop ｛風真＊＊｝ was on the
-phone with his parents......)");
+on the rooftop ｛風真＊＊｝ was
+on the phone with his parents......)");
 MsgDisp("主人公","(It sounded like they were talking about
 something serious......)");
 SEPlay("EV_SE_577");
@@ -11,8 +11,9 @@ MsgDisp("主人公","(Eh∋ it's from ｛風真＊＊｝. )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 Wait(30,0);
-MsgDisp("主人公","Hello, ｛風真＊＊｝? That's amazing. I was
-just thinking about you.");
+MsgDisp("主人公","Hello, ｛風真＊＊｝?
+That's amazing.
+I was just thinking about you.");
 VoicePlay("D010100500_01_000");
 MsgDisp("Kazama","Yeah.
 That's normal for us.");
@@ -25,7 +26,7 @@ MsgDisp("Kazama","There's plenty of food waiting for you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Eh, wait, ｛風真＊＊｝∋
-......Something amazing just happened!)");
+...... Something amazing just happened!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -62,7 +63,8 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 SEPlay("EV_SE_604",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Woah...... ｛風真＊＊｝, are you actually
+MsgDisp("主人公","Woah......
+｛風真＊＊｝, are you actually
 good at cooking?");
 SEVol(0.5,0.8);
 StlMouth(1,1);
@@ -111,7 +113,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100500_01_100");
-MsgDisp("Kazama","......Thank you too.
+MsgDisp("Kazama","...... Thank you too.
 Were you paying attention to that phone
 call I had on the rooftop?");
 MsgDisp("主人公","Ah......");
@@ -128,8 +130,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D010100500_01_120");
-MsgDisp("Kazama","Yep. That flavor is better for me, after
-all.");
+MsgDisp("Kazama","Yep.
+That flavor is better for me, after all.");
 MsgDisp("主人公","(｛風真＊＊｝......Like I thought, maybe
 his parents are still asking him to come
 back to England......?)");

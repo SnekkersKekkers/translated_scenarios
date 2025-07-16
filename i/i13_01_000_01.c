@@ -2,8 +2,9 @@ BGOpen("fp720",0);
 ChLayout(1);
 SEPlay("EV_SE_652");
 ScrFadeIn(0);
-MsgDisp("主人公","I will be working here starting today.
-My name is ｛主人公苗字｝.
+MsgDisp("主人公","I will be working here starting today. My
+name is
+｛主人公苗字｝.
 It's my pleasure.");
 VoicePlay("I130100001_45_000");
 MsgDisp("Manager","Your shifts are Tuesdays and Thursdays.
@@ -21,11 +22,11 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,35,0,3,2,#1,#1,0,0);
     ChMotion(1,3);
     VoicePlay("I130100001_01_000");
-    MsgDisp("Kazama","......Hm?
+    MsgDisp("Kazama","...... Hm?
 What are you doing here?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. I'll be working
-part-time here starting today. Let's work
-hard together.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. I'll be
+working part-time here starting today.
+Let's work hard together.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -50,8 +51,9 @@ Let's work hard together.");
     VoiceEVSPlay(1);
     VoicePlay("I130100001_01_030");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! I'm working part-time
-here now. Let's work hard together.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+I'm working part-time here now.
+Let's work hard together.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -67,8 +69,9 @@ I'll train you perfectly, okay?");
     VoicePlay("I130100001_01_050");
     MsgDisp("Kazama","No.
 Work is work.");
-    MsgDisp("主人公","(Ugh...... ｛風真＊＊｝ looks strict. But,
-let's do our best!)");
+    MsgDisp("主人公","(Ugh......
+｛風真＊＊｝ looks strict.
+But, let's do our best!)");
     MsgClose();
     break ;
     case 4:
@@ -79,8 +82,10 @@ let's do our best!)");
     ChOpen(1,35,0,0,2,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("I130100001_01_060");
-    MsgDisp("Kazama","｛主人公｝, you, that apron......");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Does it suit me?");
+    MsgDisp("Kazama","｛主人公｝, you, that
+apron......");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Does it suit me?");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -115,16 +120,17 @@ Okay.");
     VoiceEVSPlay(1);
     VoicePlay("I130100001_01_110");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","What is it, ｛風真＊＊｝...... senpai?");
+    MsgDisp("主人公","What is it, ｛風真＊＊｝......
+senpai?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I130100001_01_120");
     MsgDisp("Kazama","That was close.");
     MsgDisp("主人公","Hehe, geez.");
-    MsgDisp("主人公","(Working part-time with ｛風真＊＊｝ is
-going to be fun......
-I guess?)");
+    MsgDisp("主人公","(Working part-time with
+｛風真＊＊｝ is going to be
+fun...... I guess?)");
     break ;
     default :
     DbgAssert(1);

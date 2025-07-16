@@ -10,5 +10,5 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102106_01_010");
 MsgDisp("Kazama","That's not too bad.");
-MsgDisp("主人公","(Awesome! I'm glad I chose to wear this
-outfit!)");
+MsgDisp("主人公","(Awesome!
+I'm glad I chose to wear this outfit!)");

@@ -6,10 +6,11 @@ ChOpen(22,254,0,0,3,#1,#1,0,2);
 ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("U100D00002_22_000");
-MsgDisp("Hikaru","Hii～i, Mari▼
+MsgDisp("Hikaru","Hii～ i, Mari▼
 I found you!");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝. What's
-up?");
+MsgDisp("主人公","｛みちる＊｝,
+｛ひかる＊｝.
+What's up?");
 ChMotion(22,4,1);
 VoicePlay("U100D00002_22_010");
 MsgDisp("Hikaru","You're free tomorrow, right?
@@ -46,7 +47,8 @@ See you after school～♪");
     BGMStop();
     ChClose(21,0,30);
     ChClose(22,0,30);
-    MsgDisp("主人公","(A sleepover......I'm excited!)");
+    MsgDisp("主人公","(A sleepover......
+I'm excited!)");
     break ;
     case 1:
     ChEye(22,2);
@@ -61,8 +63,8 @@ helped.");
     ChMouth(22,2);
     ChMotion(22,2,1);
     VoicePlay("U100D00002_22_040");
-    MsgDisp("Hikaru","Siigh...... I wanted to have girl
-talk......");
+    MsgDisp("Hikaru","Siigh......
+I wanted to have girl talk......");
     MsgClose();
     SEPlay("EV_SE_856");
     BGMStop();

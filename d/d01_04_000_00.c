@@ -37,24 +37,27 @@ StlEye(4,0);
 StlMouth(4,0);
 BGMPlay("BGM_C04_NANA_C",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Woah......Such a cool witch!
-She's tall and slender......so beautiful!");
+MsgDisp("主人公","Woah......
+Such a cool witch!
+She's tall and slender...... so beautiful!");
 VoicePlay("D010400000_46_010");
-MsgDisp("Woman Customer A","Sigh...... She looks even more lovely in
-person!");
+MsgDisp("Woman Customer A","Sigh......
+She looks even more lovely in person!");
 VoicePlay("D010400000_47_010");
 MsgDisp("Woman Customer B","Nana▼ｃо-san, you look like you can do
 real magic～♪");
 MsgDisp("主人公","(Nanaco-san?
-Oh, it's a woman......she looks like a
+Oh, it's a woman...... she looks like a
 model.)");
 StlEyeOpenLevel(4,5);
 VoicePlay("D010400000_04_000");
-MsgDisp("Witch","Hehe......Do you want to see it?");
+MsgDisp("Witch","Hehe......
+Do you want to see it?");
 SEPlay("EV_SE_588",0,0.5);
 SEPlay("EV_SE_511",0.1);
 Wait(10,0);
-MsgDisp("主人公","(......Hm?)");
+MsgDisp("主人公","(......
+Hm?)");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0,1);
@@ -73,7 +76,8 @@ StlMouth(4,1);
 StlNear(1,0,15);
 VoicePlay("D010400000_04_020");
 MsgDisp("Witch","Ah∈");
-MsgDisp("主人公","(Ah......Like I thought.
+MsgDisp("主人公","(Ah......
+Like I thought.
 This person has a familiar voice.)");
 StlEye(4,1);
 StlMouth(4,0);
@@ -86,7 +90,7 @@ SEPlay("EV_SE_842",0.2,0.5);
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400000_46_030");
-MsgDisp("Woman Customer A","Nana▼ｃо-san, that's amazing!
+MsgDisp("Woman Customer A","Nana▼ ｃо-san, that's amazing!
 An interview with Habatcher!");
 VoicePlay("D010400000_47_030");
 MsgDisp("Woman Customer B","Amazing!
@@ -97,7 +101,7 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400000_04_030");
-MsgDisp("Witch","......ＮＯ.
+MsgDisp("Witch","...... ＮＯ.
 In the truth lies darkness.");
 MsgDisp("主人公","Then just the parts that aren't secrets!
 From Nanaco directly to all her Habatcher
@@ -129,7 +133,8 @@ Nana▼ｃо-san!");
 MsgDisp("主人公","She may have had a lot of secrets, but she
 was still a kind and wonderful person.");
 MsgDisp("主人公","(But you know, I'm sure I've heard that
-voice somewhere before...... Hmm......)");
+voice somewhere before......
+Hmm......)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(4,0);

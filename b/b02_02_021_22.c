@@ -5,7 +5,8 @@ ChCheek(2,10);
 VoicePlay("B020202122_02_000");
 MsgDisp("Sassa","Wait a second.
 That's a foul...");
-MsgDisp("主人公","Huh? My clothes?");
+MsgDisp("主人公","Huh?
+My clothes?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

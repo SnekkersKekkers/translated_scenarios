@@ -43,9 +43,9 @@ clear to the audience.");
     VoicePlay("H4A0700001_07_040");
     MsgDisp("Mikage","Well, thanks to you, my hands are bright
 red, though.");
-    MsgDisp("主人公","(｛御影＊＊｝ cheered for me a
-lot...... that makes me happy. But I
-wanted to win......)");
+    MsgDisp("主人公","(｛御影＊＊｝ cheered for me a lot......
+that makes me happy.
+But I wanted to win......)");
     break ;
     default :
     DbgAssert(1);

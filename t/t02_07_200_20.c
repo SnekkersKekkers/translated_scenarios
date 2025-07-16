@@ -4,15 +4,15 @@ ChMouth(7,3);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020720020_07_000");
-MsgDisp("Mikage","I see......
-......thank you.");
+MsgDisp("Mikage","I see...... ......thank you.");
 MsgDisp("主人公","Thank you for always being with me.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("T020720020_07_010");
-MsgDisp("Mikage","Yes. I have to thank them too.");
+MsgDisp("Mikage","Yes.
+I have to thank them too.");
 MsgDisp("主人公","Hehe, that's right isn't it?");
 ChEye(7,0);
 ChMouth(7,3);

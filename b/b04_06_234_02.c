@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040623402_06_020");
-    MsgDisp("Himuro","...Fair enough.
+    MsgDisp("Himuro","... Fair enough.
 Well, we're us and it's enough to be just
 that unashamedly.");
     MsgDispSksp(1,0);
@@ -75,8 +75,7 @@ be seen that way.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623402_06_070");
-        MsgDisp("Himuro","No one else knows 
-what the reality is.");
+        MsgDisp("Himuro","No one else knows what the reality is.");
         MsgDisp("主人公","Yep, that's right.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -95,7 +94,7 @@ to go along with it?");
         ChMotion(6,0);
         ChCheek(6,0);
         VoicePlay("B040623402_06_100");
-        MsgDisp("Himuro","...No, I'm joking.
+        MsgDisp("Himuro","... No, I'm joking.
 I don't know why I said that.");
         MsgDisp("主人公","Hehe, that's right.");
         ChEye(6,2);

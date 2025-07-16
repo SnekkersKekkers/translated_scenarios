@@ -48,8 +48,7 @@ leaving all the work to you recently.");
 our manager.
 I'm counting on you.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Alright, let's work hard
-today, too!)");
+    MsgDisp("主人公","(Alright, let's work hard today, too!)");
     break ;
     case 4:
     case 5:
@@ -68,7 +67,7 @@ popular thanks to a certain someone.");
     VoicePlay("I460600008_06_060");
     MsgDisp("Himuro","\"There's a clerk who's knowledgeable and
 friendly, too\".
-......It's you, isn't it.");
+...... It's you, isn't it.");
     MsgDisp("主人公","What!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -89,10 +88,9 @@ Why don't you consider it as an option?");
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("I460600008_06_090");
-    MsgDisp("Himuro","If you make it big,
-I'll have you hire me.");
-    MsgDisp("主人公","Running a flower shop with ｛氷室＊＊｝,
-huh.
+    MsgDisp("Himuro","If you make it big, I'll have you hire me.");
+    MsgDisp("主人公","Running a flower shop with
+｛氷室＊＊｝, huh.
 It might be nice.");
     ChEye(6,0);
     ChMouth(6,0);

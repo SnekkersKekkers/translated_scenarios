@@ -16,15 +16,17 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210000_02_020");
-MsgDisp("Sassa","......Mm? What're you talking about?");
-MsgDisp("主人公","Umm......track and field.
+MsgDisp("Sassa","...... Mm?
+What're you talking about?");
+MsgDisp("主人公","Umm...... track and field.
 Weren't you?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210000_02_030");
 VoiceEVSPlay(2);
-MsgDisp("Sassa","I was talking about you, ｛主人公｝.");
+MsgDisp("Sassa","I was talking about you,
+｛主人公｝.");
 MsgDisp("主人公","?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -44,7 +46,8 @@ the running. No matter the rival that
 shows up, I'm not giving him my place
 beside you.");
 MsgDisp("主人公","(? 'The fight for me'?? What is
-｛颯砂＊＊｝ talking about......?)");
+｛颯砂＊＊｝ talking
+about......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

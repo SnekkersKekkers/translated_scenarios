@@ -3,7 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_597",1,0.4);
 Wait(50,0);
-MsgDisp("主人公","(Ah......What a nice breeze.
+MsgDisp("主人公","(Ah......
+What a nice breeze.
 Having the window seat is a privilege♪)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.8);
@@ -11,16 +12,15 @@ Wait(40,0);
 ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoicePlay("D010100100_01_000");
 MsgDisp("Kazama","Eh, you're in a pretty good mood, huh?");
-MsgDisp("主人公","｛風真＊＊｝. There's a really nice breeze
-right now.");
+MsgDisp("主人公","｛風真＊＊｝.
+There's a really nice breeze right now.");
 SEStop("EV_SE_597",2);
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100100_01_010");
-MsgDisp("Kazama","Where?
-.........");
+MsgDisp("Kazama","Where? .........");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -41,8 +41,7 @@ ChClose(1);
 Wait(20,0);
 SEPlay("EV_SE_598",0,0.8);
 Wait(5,0);
-MsgDisp("主人公","Woah∈
-A huge breeze∈");
+MsgDisp("主人公","Woah∈ A huge breeze∈");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_08");
@@ -68,7 +67,8 @@ StlMouth(1,1);
 StlCheek(1,7);
 VoiceEVSPlay(1);
 VoicePlay("D010100100_01_060");
-MsgDisp("Kazama","｛主人公｝. You know......");
+MsgDisp("Kazama","｛主人公｝.
+You know......");
 MsgDisp("主人公","......What?");
 SEPlay("EV_SE_597",0,0.8);
 StlEyeOpenLevel(1,0);

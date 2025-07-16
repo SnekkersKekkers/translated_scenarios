@@ -43,15 +43,16 @@ Let's work hard this year!");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("S120200005_02_030");
-    MsgDisp("Sassa","Ahh. I think I'll run home as fast as I
-can. Cya.");
+    MsgDisp("Sassa","Ahh.
+I think I'll run home as fast as I can.
+Cya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
     MsgDisp("主人公","(No matter what the future holds, like
-｛颯砂＊＊｝ says, let's try our best and
-live without regrets!)");
+｛颯砂＊＊｝ says, let's try our
+best and live without regrets!)");
     break ;
     case 4:
     case 5:
@@ -128,7 +129,8 @@ graduate.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(Until graduation huh...Okay.
+    MsgDisp("主人公","(Until graduation huh...
+Okay.
 I'll do my best too!)");
     break ;
     default :

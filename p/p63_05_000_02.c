@@ -15,7 +15,8 @@ Gardening Club...)");
     ChOpen(5,254,2,0,4,#1,#1,0,0);
     VoicePlay("P630500002_05_000");
     MsgDisp("Hiiragi","This is amazing...");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Welcome..");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+Welcome..");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -35,8 +36,7 @@ store employee.");
     ChMotion(5,4);
     VoicePlay("P630500002_05_030");
     MsgDisp("Hiiragi","And there's food too, yes?");
-    MsgDisp("主人公","Of course, that's 
-what I'm most proud of.");
+    MsgDisp("主人公","Of course, that's what I'm most proud of.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -59,7 +59,9 @@ Gardening Club...)");
     VoiceEVSPlay(5);
     VoicePlay("P630500002_05_050");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","｛柊＊＊＊｝! You came. Welcome!");
+    MsgDisp("主人公","｛柊＊＊＊｝!
+You came.
+Welcome!");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

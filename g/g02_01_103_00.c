@@ -63,8 +63,7 @@ MsgClose();
 ScrFadeOut(0,0,30);
 EfctClose();
 SEPlay("EV_SE_505");
-MsgDisp("","
-kiss");
+MsgDisp("","kiss");
 ChLayout(1);
 ChEye(1,0);
 ChMouth(1,3);
@@ -79,7 +78,8 @@ ChMotion(1,1);
 VoicePlay("G020110300_01_090");
 MsgDisp("Kazama","Looks like we've got an audience here too.");
 MsgDisp("主人公","(That caught me by surprise......
-What's up with ｛風真＊＊｝ today?)");
+What's up with ｛風真＊＊｝
+today?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -7,7 +7,8 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0400001_04_000");
     MsgDisp("Nanatsumori","You worked hard.");
-    MsgDisp("主人公","｛七ツ森＊｝...... We lost......");
+    MsgDisp("主人公","｛七ツ森＊｝......
+We lost......");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -32,7 +33,8 @@ stayed as the baseball club manager......)");
     VoiceEVSPlay(4);
     VoicePlay("H1A0400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝...... Ugh, we lost......");
+    MsgDisp("主人公","｛七ツ森＊｝......
+Ugh, we lost......");
     ChEye(4,2);
     ChMouth(4,4);
     VoicePlay("H1A0400001_04_040");
@@ -50,7 +52,7 @@ stayed as the baseball club manager......)");
     MsgDisp("Nanatsumori","Haa～...... Being frustrated, or sad.
 Being happy, or tickled, it makes you want
 to cry. Humans are complicated, huh?");
-    MsgDisp("主人公","......Hehe.
+    MsgDisp("主人公","...... Hehe.
 I guess so?");
     ChEye(4,2);
     ChMouth(4,3);

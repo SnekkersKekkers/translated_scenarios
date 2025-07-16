@@ -41,8 +41,9 @@ You can hold on to me next time, okay?");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("B040423500_04_030");
-    MsgDisp("Nanatsumori","Really? If this got any more realistic,
-wouldn't you faint?");
+    MsgDisp("Nanatsumori","Really?
+If this got any more realistic, wouldn't
+you faint?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

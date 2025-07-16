@@ -12,8 +12,9 @@ Thank you for always thinking of me.");
 ChEye(1,4);
 ChMouth(1,2);
 ChCheek(1,6);
-MsgDisp("主人公","I'm sorry I've disappointed ｛風真＊＊｝
-so much by forgetting so many things.");
+MsgDisp("主人公","I'm sorry I've disappointed
+｛風真＊＊｝ so much by
+forgetting so many things.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -62,7 +63,8 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020101000_01_270");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
+MsgDisp("主人公","｛風真＊＊｝......
+Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
@@ -80,8 +82,8 @@ StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020101000_01_300");
-MsgDisp("Kazama","｛主人公｝, let me see your face
-properly.");
+MsgDisp("Kazama","｛主人公｝, let me see
+your face properly.");
 MsgDisp("主人公","Eh?");
 VoicePlay("T020101000_01_310");
 MsgDisp("Kazama","I won't let you forget again.");

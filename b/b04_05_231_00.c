@@ -38,8 +38,8 @@ myself.");
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040523100_05_030");
-    MsgDisp("Hiiragi","...Heheh. Next time, let's cheer the whole
-time.");
+    MsgDisp("Hiiragi","... Heheh.
+Next time, let's cheer the whole time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
     VoicePlay("B040410100_04_010");
-    MsgDisp("Nanatsumori","I don't get what you mean 
-by wonderful...");
+    MsgDisp("Nanatsumori","I don't get what you mean by wonderful...");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -24,7 +23,7 @@ by wonderful...");
     ChEyeOpenLevel(4,7);
     VoicePlay("B040410100_04_020");
     MsgDisp("Nanatsumori","Eh, which one?
-...Hmmー who, I wonder...");
+... Hmmー who, I wonder...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

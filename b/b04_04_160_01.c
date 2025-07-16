@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040416001_04_010");
-    MsgDisp("Nanatsumori","Ahh...I see.
+    MsgDisp("Nanatsumori","Ahh...
+I see.
 That analogy is super good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -39,8 +40,7 @@ Since it's a waste of time and money.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040416001_04_030");
-    MsgDisp("Nanatsumori","Well, we're still
-not fully adults yet.");
+    MsgDisp("Nanatsumori","Well, we're still not fully adults yet.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

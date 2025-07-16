@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 VoicePlay("G020110102_01_000");
-MsgDisp("Kazama","......Hey. Were fireflies always this
-colorful?");
+MsgDisp("Kazama","...... Hey.
+Were fireflies always this colorful?");
 MsgDisp("主人公","Fireflies are just like people, they come
 in many different colors.");
 ChEye(1,4);
@@ -58,7 +58,8 @@ VoicePlay("G020110102_01_070");
 MsgDisp("Kazama","No one can come between us.
 This bond will never break, it's eternal.");
 MsgDisp("主人公","(｛風真＊＊｝...... are you worried about
-｛本多＊＊｝ and ｛七ツ森＊｝? )");
+｛本多＊＊｝ and
+｛七ツ森＊｝? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

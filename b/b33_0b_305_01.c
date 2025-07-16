@@ -37,9 +37,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B30501_03_010");
-MsgDisp("Honda","Right. Are there live performances where
-they only sing along to their own
-instruments?");
+MsgDisp("Honda","Right.
+Are there live performances where they
+only sing along to their own instruments?");
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Both the male and female singer had
@@ -71,8 +71,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30501_04_030");
-MsgDisp("Nanatsumori","Right. You can enjoy it that way too. Are
-you satisfied?");
+MsgDisp("Nanatsumori","Right.
+You can enjoy it that way too.
+Are you satisfied?");
 ChEyeOpenLevel(1,0);
 ChEye(3,3);
 ChMouth(3,3);
@@ -91,8 +92,9 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B330B30501_04_040");
 MsgDisp("Nanatsumori","Alright.");
-MsgDisp("主人公","(Hehe! Seems like everyone was very
-pleased with today's show!)");
+MsgDisp("主人公","(Hehe!
+Seems like everyone was very pleased with
+today's show!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

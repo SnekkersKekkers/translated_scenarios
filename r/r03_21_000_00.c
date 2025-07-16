@@ -5,4 +5,5 @@ VoicePlay("R032100000_21_000");
 MsgDisp("Michiru","Merry Christmas, Mari.
 Looks like it's going to be a beautiful
 holy night, huh?");
-MsgDisp("主人公","｛みちる＊｝. Merry Christmas!");
+MsgDisp("主人公","｛みちる＊｝.
+Merry Christmas!");

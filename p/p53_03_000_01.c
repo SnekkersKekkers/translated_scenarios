@@ -16,22 +16,26 @@ There are a lot of customers...)");
     ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300001_03_000");
-    MsgDisp("Honda","｛主人公｝. Pardon the intrusion! I
-came for a tour.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. ...Enjoy yourself.");
+    MsgDisp("Honda","｛主人公｝.
+Pardon the intrusion!
+I came for a tour.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+... Enjoy yourself.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("P530300001_03_010");
-    MsgDisp("Honda","Huh? You don't look like you're having
-much fun though.");
+    MsgDisp("Honda","Huh?
+You don't look like you're having much fun
+though.");
     MsgDisp("主人公","Ah, I'm just a little anxious...");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("P530300001_03_020");
-    MsgDisp("Honda","Why? Everyone likes gaming music, and it's
-also fun.");
+    MsgDisp("Honda","Why?
+Everyone likes gaming music, and it's also
+fun.");
     ChMotion(3,2,1);
     VoicePlay("P530300001_03_030");
     MsgDisp("Honda","As the one performing, you have to enjoy
@@ -42,8 +46,7 @@ it the most.");
     ChMotion(3,1,1);
     VoicePlay("P530300001_03_040");
     MsgDisp("Honda","Don't make that 'this is impossible' face!");
-    MsgDisp("主人公","Hehe,
-I'm not making that kind of face!");
+    MsgDisp("主人公","Hehe, I'm not making that kind of face!");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(3,0);
@@ -52,9 +55,9 @@ I'm not making that kind of face!");
     VoicePlay("P530300001_03_050");
     MsgDisp("Honda","Then, 'game start', right?");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Thanks to ｛本多＊＊｝, it seems a bit
-easier. Alright, then I'll also enjoy my
-performance!)");
+    MsgDisp("主人公","(Thanks to ｛本多＊＊｝, it seems
+a bit easier. Alright, then I'll also
+enjoy my performance!)");
     break ;
     case 4:
     case 5:
@@ -67,15 +70,14 @@ There are a lot of customers...)");
     ChOpen(3,254,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("P530300001_03_060");
-    MsgDisp("Honda","｛主人公｝. I came to listen to some
-gaming music.");
+    MsgDisp("Honda","｛主人公｝.
+I came to listen to some gaming music.");
     MsgDisp("主人公","Ah, ｛本多＊＊｝...");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("P530300001_03_070");
-    MsgDisp("Honda","Huh, that face
-are you tense?");
+    MsgDisp("Honda","Huh, that face are you tense?");
     MsgDisp("主人公","Y-Yeah, a bit.
 I'm just thinking about if I mess up...");
     ChEye(3,0);

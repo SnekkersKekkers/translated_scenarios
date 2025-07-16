@@ -8,8 +8,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for walking 
-me home today.");
+MsgDisp("主人公","Thank you for walking me home today.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);

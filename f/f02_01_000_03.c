@@ -49,8 +49,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100003_01_050");
 MsgDisp("Kazama","The secret they're protecting to that
-extent, the one they're hiding...
-is Vice Principal Himuro's spare body.");
+extent, the one they're hiding... is Vice
+Principal Himuro's spare body.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Spare body?
@@ -74,13 +74,15 @@ There's no trace of the original story,
 right?");
 ChMotion(1,0);
 MsgDisp("主人公","Hehe, but it's interesting.
-...Next time, I'll try to ask
+... Next time, I'll try to ask
 Himuro-sensei.");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F020100003_01_080");
-MsgDisp("Kazama","Ha∋ You're invincible. If you're going to
-ask, do it alone.");
+MsgDisp("Kazama","Ha∋
+You're invincible.
+If you're going to ask, do it alone.");
 MsgDisp("主人公","(...While we talked about that story,
-｛風真＊＊｝ and I had fun going home.)");
+｛風真＊＊｝ and I had fun
+going home.)");

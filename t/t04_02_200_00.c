@@ -30,8 +30,9 @@ MsgDisp("Sassa","You're doing it with us too.");
 VoicePlay("T040220000_06_010");
 MsgDisp("Himuro","Yeah, that's right.");
 VoicePlay("T040220000_01_010");
-MsgDisp("Kazama","Inori...... So beach surfing is out of the
-question for girls?");
+MsgDisp("Kazama","Inori......
+So beach surfing is out of the question
+for girls?");
 MsgClose();
 BGMStop(5);
 ScrFadeOut(0,0,300);

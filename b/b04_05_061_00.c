@@ -27,8 +27,9 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040506100_05_020");
-    MsgDisp("Hiiragi","Agreed. I am curious as to what we are
-eating for though.");
+    MsgDisp("Hiiragi","Agreed.
+I am curious as to what we are eating for
+though.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

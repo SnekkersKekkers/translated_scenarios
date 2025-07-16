@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040510300_05_010");
-    MsgDisp("Hiiragi","Yes. Even if it's just a little, I would
-like to get to know it more.");
+    MsgDisp("Hiiragi","Yes.
+Even if it's just a little, I would like
+to get to know it more.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

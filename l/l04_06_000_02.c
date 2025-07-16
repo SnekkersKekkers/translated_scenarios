@@ -7,8 +7,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0,1);
     VoicePlay("L040600002_06_000");
     MsgDisp("Himuro","You went all out, huh.");
-    MsgDisp("主人公","Because you're usually
-looking out for me.");
+    MsgDisp("主人公","Because you're usually looking out for me.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -44,7 +43,7 @@ price.");
     ChMotion(6,0,1);
     VoicePlay("L040600002_06_040");
     MsgDisp("Himuro","It just shows how much you cared.
-......Thanks.");
+...... Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -67,7 +66,8 @@ I'm glad I splurged!)");
     ChMotion(6,0);
     VoicePlay("L040600002_06_060");
     MsgDisp("Himuro","Even though it's expensive?");
-    MsgDisp("主人公","I spent the money for you, ｛氷室＊＊｝!");
+    MsgDisp("主人公","I spent the money for you,
+｛氷室＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

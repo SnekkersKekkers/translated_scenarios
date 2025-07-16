@@ -36,14 +36,12 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20101_01_000");
-MsgDisp("Kazama","This ship is quite big 
-so I feel safe.");
+MsgDisp("Kazama","This ship is quite big so I feel safe.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B330A20101_02_020");
-MsgDisp("Sassa","What, are you worried 
-about it sinking?");
+MsgDisp("Sassa","What, are you worried about it sinking?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -92,17 +90,16 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B330A20101_02_050");
-MsgDisp("Sassa","Ryota isn't good
-at swimming though?");
+MsgDisp("Sassa","Ryota isn't good at swimming though?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
 VoicePlay("B330A20101_01_030");
 MsgDisp("Kazama","I'm just not that good.
 I'll improve by then.");
-MsgDisp("主人公","(\"By then...?\" This is just a sightseeing
-boat to begin with, I think it should be
-safe...)");
+MsgDisp("主人公","(\"By then...?\"
+This is just a sightseeing boat to begin
+with, I think it should be safe...)");
 MsgClose();
 ScrFadeOut(0);
 ChEye(1,0);

@@ -11,7 +11,7 @@ ChMotion(2,0);
 VoicePlay("P140200001_02_010");
 MsgDisp("Sassa","Ah, it's you.
 Is this the finish line?");
-MsgDisp("主人公","Umm...it is?
+MsgDisp("主人公","Umm... it is?
 Congratulations!");
 ChEye(2,0);
 ChMouth(2,0);
@@ -25,14 +25,14 @@ ChMotion(2,0);
 VoicePlay("P140200001_02_030");
 MsgDisp("Sassa","I walked in a straight line.
 Maybe, you're still getting ready?");
-MsgDisp("主人公","Ah... Maybe I forgot to put a wall at the
-end?");
+MsgDisp("主人公","Ah...
+Maybe I forgot to put a wall at the end?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P140200001_02_040");
-MsgDisp("Sassa","Seriously? Isn't this basically a
-passageway?");
+MsgDisp("Sassa","Seriously?
+Isn't this basically a passageway?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);

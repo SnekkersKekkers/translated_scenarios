@@ -20,7 +20,8 @@ I'll just go alone.)");
     MsgDisp("主人公","I see, that's unfortunate.");
     VoicePlay("S030600002_06_030");
     MsgDisp("Himuro","I think it's more crowded around this time
-so be careful. Bye.");
+so be careful.
+Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(It can't be helped......
@@ -35,15 +36,14 @@ I'll just go alone.)");
     MsgDisp("Himuro","My family has a gathering today.");
     MsgDisp("主人公","Ah, I see......");
     VoicePlay("S030600002_06_060");
-    MsgDisp("Himuro","Huh...I miscalculated.
-I didn't expect to be asked out.
-I wasn't thinking......");
+    MsgDisp("Himuro","Huh...I miscalculated. I didn't expect to
+be asked out. I wasn't thinking......");
     MsgDisp("主人公","It was too sudden.
 Sorry.");
     VoicePlay("S030600002_06_070");
     MsgDisp("Himuro","No, I should have asked you earlier
 myself.
-......Take care.");
+...... Take care.");
     MsgDisp("主人公","Thanks.
 Okay then, see you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");

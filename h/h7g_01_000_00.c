@@ -25,14 +25,16 @@ ChMotion(1,3);
 VoicePlay("H7G0100000_01_030");
 MsgDisp("Kazama","Why didn't you tell me that you won such a
 great prize?");
-MsgDisp("主人公","Oh. I won an award, you know?");
+MsgDisp("主人公","Oh.
+I won an award, you know?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("H7G0100000_01_040");
-MsgDisp("Kazama","Haa. Don't think you can get away with it
-just by making that face......");
+MsgDisp("Kazama","Haa.
+Don't think you can get away with it just
+by making that face......");
 MsgDisp("主人公","Huh?");
 ChEye(1,4);
 ChMouth(1,3);

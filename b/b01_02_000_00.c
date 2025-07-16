@@ -2,7 +2,8 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm late...
-Ah, ｛颯砂＊＊｝ is already here!)");
+Ah, ｛颯砂＊＊｝ is already
+here!)");
 MsgDisp("主人公","Sorry I made you wait...!");
 BGMPlay("BGM_C02_SASSA_A",0.01);
 MsgClose();

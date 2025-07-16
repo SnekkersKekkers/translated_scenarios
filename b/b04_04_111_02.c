@@ -44,7 +44,8 @@ the middle of winter.");
         ChMouth(4,1);
         ChMotion(4,0,1);
         VoicePlay("B040411102_04_030");
-        MsgDisp("Nanatsumori","What's that? Scary.");
+        MsgDisp("Nanatsumori","What's that?
+Scary.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -69,8 +70,9 @@ the middle of winter.");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("B040411102_04_070");
-        MsgDisp("Nanatsumori","Ahー... But, if you're still cold, I guess
-I was wrong.");
+        MsgDisp("Nanatsumori","Ahー...
+But, if you're still cold, I guess I was
+wrong.");
         MsgDisp("主人公","...I'm not cold.");
         ChEye(4,4);
         ChMouth(4,3);
@@ -89,8 +91,9 @@ I was wrong.");
         ChMotion(4,2,1);
         ChCheek(4,9);
         VoicePlay("B040411102_04_100");
-        MsgDisp("Nanatsumori","...Crap. Not only is it cold, I'm starting
-to get hot.");
+        MsgDisp("Nanatsumori","... Crap.
+Not only is it cold, I'm starting to get
+hot.");
         MsgDisp("主人公","(Me too...)");
         break ;
         default :

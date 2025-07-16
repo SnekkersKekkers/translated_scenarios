@@ -9,7 +9,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020621000_06_370");
 MsgDisp("Himuro","Stop.
-......Enough already.");
+...... Enough already.");
 MsgDisp("主人公","But...");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
@@ -29,8 +29,9 @@ VoicePlay("T020621000_06_400");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
-MsgDisp("Himuro","But... I just wanted to hold on to the
-time I spent with you, with everyone.");
+MsgDisp("Himuro","But...
+I just wanted to hold on to the time I
+spent with you, with everyone.");
 VoicePlay("T020621000_06_410");
 ChEye(6,2);
 ChMouth(6,0);
@@ -42,7 +43,7 @@ VoicePlay("T020621000_06_420");
 ChEye(6,2);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","......I'm sorry.
+MsgDisp("Himuro","...... I'm sorry.
 Thank you for everything.");
 VoicePlay("T020621000_06_430");
 ChEye(6,2);

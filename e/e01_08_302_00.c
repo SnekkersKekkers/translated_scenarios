@@ -5,9 +5,10 @@ VoicePlay("E010830000_08_000");
 MsgDisp("Daichi?","Ugh!
 Big bro is such an idiot!");
 VoicePlay("E010830000_09_000");
-MsgDisp("Kuya?","Sorry. But they were in trouble, weren't
-they?");
-MsgDisp("主人公","(Huh?　Those voices......)");
+MsgDisp("Kuya?","Sorry.
+But they were in trouble, weren't they?");
+MsgDisp("主人公","(Huh?
+Those voices......)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(8,255,4,2,2,#1,#1,0,1);
@@ -20,7 +21,8 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
-MsgDisp("Kuya","I know. I'll definitely make it up to you.
+MsgDisp("Kuya","I know.
+I'll definitely make it up to you.
 Okay?");
 MsgDisp("主人公","｛大地＊＊｝, Kuya-san!");
 ChEye(9,3);
@@ -58,8 +60,8 @@ ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
-MsgDisp("Daichi","Ahh...... I was really looking forward to
-it......");
+MsgDisp("Daichi","Ahh......
+I was really looking forward to it......");
 ChEyeOpenLevel(8,#1);
 VoicePlay("E010830000_09_040");
 ChMotion(9,0,1);
@@ -86,7 +88,8 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
-MsgDisp("Kuya","Ah. I'm always like this when I'm with
+MsgDisp("Kuya","Ah.
+I'm always like this when I'm with
 Dai-chan......");
 VoicePlay("E010830000_08_060");
 ChEye(8,4);
@@ -111,8 +114,9 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
-MsgDisp("Kuya","Haha! I guess Dai-chan hasn't changed much
-at all.");
+MsgDisp("Kuya","Haha!
+I guess Dai-chan hasn't changed much at
+all.");
 MsgDisp("主人公","Hehe!
 You two really get along well.");
 ChEyeOpenLevel(9,#1);
@@ -122,8 +126,8 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 MsgDisp("Daichi","Of course!
 I'm proud he's my brother!");
-MsgDisp("主人公","(Both ｛大地＊＊｝ and Kuya are so funny
-and kind......
+MsgDisp("主人公","(Both ｛大地＊＊｝ and Kuya
+are so funny and kind......
 They're such wonderful brothers.)");
 BGMStop();
 MsgClose();

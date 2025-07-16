@@ -1,9 +1,8 @@
 MsgClose();
 ChOpen(1,255,0,4,2,#1,#1,0,0);
 VoicePlay("G020120001_01_000");
-MsgDisp("Kazama","It's beautiful but......
-they're desperately shining to find a
-partner.");
+MsgDisp("Kazama","It's beautiful but...... they're
+desperately shining to find a partner.");
 MsgDisp("主人公","I see.");
 ChEye(1,4);
 ChMouth(1,2);
@@ -42,10 +41,11 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120001_01_050");
-MsgDisp("Kazama","Sorry. If things stay like this, my
-younger self won't be satisfied");
-MsgDisp("主人公","(Today's ｛風真＊＊｝ is different to
-usual.
+MsgDisp("Kazama","Sorry.
+If things stay like this, my younger self
+won't be satisfied");
+MsgDisp("主人公","(Today's ｛風真＊＊｝ is
+different to usual.
 I wonder what's wrong......)");
 BGMStop();
 MsgClose();

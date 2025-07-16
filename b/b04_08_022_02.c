@@ -51,8 +51,7 @@ maybe I'll end up being good at it?");
         ChMotion(8,0,1);
         ChCheek(8,5);
         VoicePlay("B040802202_08_040");
-        MsgDisp("Shirahane","Maybe you'll fall in 
-love with me again.");
+        MsgDisp("Shirahane","Maybe you'll fall in love with me again.");
         MsgDisp("主人公","Eh?");
         ChEye(8,4);
         ChMouth(8,0);
@@ -65,7 +64,7 @@ Anything is possible right?");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040802202_08_060");
-        MsgDisp("Shirahane","...Did ya really not hear me?
+        MsgDisp("Shirahane","... Did ya really not hear me?
 Just now.");
         MsgDisp("主人公","That I'll fall in love with y——");
         ChEye(8,2);
@@ -88,8 +87,7 @@ That's enough, don't say it!");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("B040802202_08_080");
-    MsgDisp("Shirahane","Well, I guess I won't
-know till I try it.");
+    MsgDisp("Shirahane","Well, I guess I won't know till I try it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

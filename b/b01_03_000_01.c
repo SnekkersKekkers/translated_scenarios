@@ -45,8 +45,9 @@ there?");
     ChMouth(3,0);
     ChMotion(3,2);
     VoicePlay("B010300001_03_040");
-    MsgDisp("Honda","Nope. I was just talking with an old lady
-about the old days in Habataki City.");
+    MsgDisp("Honda","Nope.
+I was just talking with an old lady about
+the old days in Habataki City.");
     MsgDisp("主人公","Hehe, I guess that's just the way it is.");
     MsgDispSksp(1,0);
     ChEye(3,3);
@@ -78,8 +79,8 @@ questions.");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B010300001_03_080");
-    MsgDisp("Honda","... Well, just one question. But it took
-me a while to answer.");
+    MsgDisp("Honda","... Well, just one question.
+But it took me a while to answer.");
     MsgDisp("主人公","Hehe, just be honest from the start.");
     MsgDispSksp(1,0);
     ChSet(3,3);

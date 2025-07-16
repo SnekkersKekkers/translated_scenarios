@@ -19,7 +19,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360350200_03_010");
-MsgDisp("Honda","...Alright! Let's draw our own!");
+MsgDisp("Honda","... Alright!
+Let's draw our own!");
 MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_531");
 ChClose(3);
@@ -40,8 +41,8 @@ ChEye(3,5);
 ChMouth(3,5);
 ChMotion(3,5,1);
 VoicePlay("B360350200_03_040");
-MsgDisp("Honda","Ah! Our umbrella got washed away by the
-waves!");
+MsgDisp("Honda","Ah!
+Our umbrella got washed away by the waves!");
 SEPlay("EV_SE_580");
 ChClose(3);
 Wait(30,0);

@@ -14,12 +14,10 @@ ChNanaType(0);
 ChOpen(4,253,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
 VoicePlay("B330B10701_01_000");
-MsgDisp("Kazama","The smell of old 
-things is unique.");
+MsgDisp("Kazama","The smell of old things is unique.");
 ChMouth(4,4);
 VoicePlay("B330B10701_04_000");
-MsgDisp("Nanatsumori","You're talking
-like an antique maniac.");
+MsgDisp("Nanatsumori","You're talking like an antique maniac.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -32,7 +30,8 @@ ChMotion(3,1,1);
 VoicePlay("B330B10701_03_000");
 MsgDisp("Honda","Ryo-kun's Grandpa's Antique store also
 smells like this.");
-MsgDisp("主人公","Seems like you like it, ｛本多＊＊｝.");
+MsgDisp("主人公","Seems like you like it,
+｛本多＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

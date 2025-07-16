@@ -42,4 +42,4 @@ ChMotion(21,3);
 VoicePlay("U022100002_21_050");
 MsgDisp("Michiru","Hey, if Mari has a magical experience, let
 me be the first one to know, okay?");
-MsgDisp("主人公","Huh　...∋");
+MsgDisp("主人公","Huh ...∋");

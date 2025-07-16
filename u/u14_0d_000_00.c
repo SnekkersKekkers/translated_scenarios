@@ -12,6 +12,6 @@ VoicePlay("U140D00000_21_000");
 MsgDisp("Michiru","It's not bad to take breaks but you lose a
 lot of time doing nothing.
 Be careful.");
-MsgDisp("主人公","(Okay...... Have I been slacking off too
-much?)");
+MsgDisp("主人公","(Okay......
+Have I been slacking off too much?)");
 MsgClose();

@@ -12,7 +12,8 @@ Sorry!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(22);
-    MsgDisp("主人公","(...It can't be helped.
+    MsgDisp("主人公","(...
+It can't be helped.
 I'll go home alone.)");
     break ;
     case 3:
@@ -33,7 +34,8 @@ Sorry!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(22);
-    MsgDisp("主人公","(...It can't be helped.
+    MsgDisp("主人公","(...
+It can't be helped.
 I'll go home alone.)");
     break ;
     case 4:
@@ -48,13 +50,15 @@ I'll go home alone.)");
     ChMouth(22,2);
     ChMotion(22,4,1);
     VoicePlay("F012200004_22_040");
-    MsgDisp("Hikaru","Yep. Sorry, Mari. Please don't hate Hikaru
-for this.");
+    MsgDisp("Hikaru","Yep.
+Sorry, Mari.
+Please don't hate Hikaru for this.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(22);
-    MsgDisp("主人公","(...It can't be helped.
+    MsgDisp("主人公","(...
+It can't be helped.
 I'll go home alone.)");
     break ;
     default :

@@ -3,7 +3,8 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
 VoicePlay("B070700001_07_620");
-MsgDisp("Mikage","Hm? What's up?");
+MsgDisp("Mikage","Hm?
+What's up?");
 MsgDisp("主人公","Ah, I'm sorry.
 I ended up staring at you.");
 ChEye(7,0);
@@ -22,7 +23,7 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_640");
 MsgDisp("Mikage","Come on, this is at maximum magnification.
 Observe carefully.");
-MsgDisp("主人公","...Y-You're close.
+MsgDisp("主人公","... Y-You're close.
 But, your eyes are pretty aren't they,
 ｛御影＊＊｝?");
 ChEye(7,4);
@@ -42,8 +43,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B070700001_07_660");
-MsgDisp("Mikage","Crap... I upped the magnification too
-high.");
+MsgDisp("Mikage","Crap...
+I upped the magnification too high.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

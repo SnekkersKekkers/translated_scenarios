@@ -8,7 +8,8 @@ switch (ChPrmGet(3,6)){
 me how I feel about you. What kind of
 answer should I give?");
     MsgDisp("主人公","(Ehhh∋ What kind of things did you guys
-ask? How did ｛本多＊＊｝ answer......?)");
+ask? How did ｛本多＊＊｝
+answer......?)");
     break ;
     case 4:
     case 5:
@@ -17,7 +18,8 @@ ask? How did ｛本多＊＊｝ answer......?)");
 me they would tell me a secret about you.
 You should me it first.");
     MsgDisp("主人公","(Ehhh∋ What did you guys talk about? But
-｛本多＊＊｝ can't keep secrets anyway...)");
+｛本多＊＊｝ can't keep secrets
+anyway...)");
     break ;
     default :
     DbgAssert(1);

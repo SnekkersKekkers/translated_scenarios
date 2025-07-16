@@ -17,8 +17,9 @@ switch (MsgSelRsltGet()){
     ChMotion(7,5);
     ChEyeOpenLevel(7,8);
     VoicePlay("B040724102_07_010");
-    MsgDisp("Mikage","Welcome. It smells a bit, but make
-yourself at home～");
+    MsgDisp("Mikage","Welcome.
+It smells a bit, but make yourself at
+home～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -87,9 +88,9 @@ gardening club are all important.");
         ChMotion(7,0);
         VoicePlay("B040724102_07_090");
         MsgDisp("Mikage","Ah, and the brats in our class.");
-        MsgDisp("主人公","(I wonder if ｛御影＊＊｝ will quit
-being a teacher one day and work on a
-farm...that's a long way off though,
+        MsgDisp("主人公","(I wonder if ｛御影＊＊｝
+will quit being a teacher one day and work
+on a farm...that's a long way off though,
 right?)");
         break ;
         default :

@@ -40,9 +40,9 @@ historical documents added");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B030322000_03_040");
-    MsgDisp("Honda","Yeppers. After I've done some research on
-it, I'll report back and explain it to
-you.");
+    MsgDisp("Honda","Yeppers.
+After I've done some research on it, I'll
+report back and explain it to you.");
     MsgDispSksp(0);
     break ;
     default :

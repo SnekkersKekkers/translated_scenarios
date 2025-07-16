@@ -23,7 +23,8 @@ That's a little embarrassing.");
     MsgDisp("Nanatsumori","Oh, you have a nice expression.
 Maybe that's why.");
     MsgDisp("主人公","(I'm so relieved.
-｛七ツ森＊｝ looks really happy!)");
+｛七ツ森＊｝ looks really
+happy!)");
     break ;
     case 3:
     ChEye(4,0);
@@ -37,23 +38,25 @@ Very beautiful.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_040");
-    MsgDisp("Nanatsumori","Heh...... I think it looks better on you
-than on a professional model.");
+    MsgDisp("Nanatsumori","Heh......
+I think it looks better on you than on a
+professional model.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S060400001_04_050");
-    MsgDisp("Nanatsumori","I guess there's a filter on my
-eyes.");
+    MsgDisp("Nanatsumori","I guess there's a filter on my eyes.");
     MsgDisp("主人公","Filter?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_060");
-    MsgDisp("Nanatsumori","Yep. The kind of filter that makes you
-look more beautiful than usual.");
-    MsgDisp("主人公","(Yay. Looks like ｛七ツ森＊｝ is
-happy!)");
+    MsgDisp("Nanatsumori","Yep.
+The kind of filter that makes you look
+more beautiful than usual.");
+    MsgDisp("主人公","(Yay.
+Looks like ｛七ツ森＊｝
+is happy!)");
     break ;
     case 4:
     case 5:
@@ -80,9 +83,12 @@ Really so beautiful......");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S060400001_04_100");
-    MsgDisp("Nanatsumori","Yeah. I'm definitely the happiest man in
-the world right now.");
-    MsgDisp("主人公","(Yay! ｛七ツ森＊｝ seems happy!)");
+    MsgDisp("Nanatsumori","Yeah.
+I'm definitely the happiest man in the
+world right now.");
+    MsgDisp("主人公","(Yay!
+｛七ツ森＊｝ seems
+happy!)");
     break ;
     default :
     DbgAssert(1);

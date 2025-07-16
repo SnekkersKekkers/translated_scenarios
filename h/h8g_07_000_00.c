@@ -5,8 +5,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("H7G0700000_07_000");
 MsgDisp("Mikage","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝? Did you need
-something?");
+MsgDisp("主人公","Ah, ｛御影＊＊｝?
+Did you need something?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -18,8 +18,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("H7G0700000_07_020");
-MsgDisp("Mikage","Haha. Your seriousness and funniness make
-the perfect combination.");
+MsgDisp("Mikage","Haha.
+Your seriousness and funniness make the
+perfect combination.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -50,7 +51,8 @@ VoicePlay("H7G0700000_07_060");
 MsgDisp("Mikage","Thank you.
 That message is from everyone.
 See you.");
-MsgDisp("主人公","｛御影＊＊｝, thank you very much.");
+MsgDisp("主人公","｛御影＊＊｝, thank you
+very much.");
 ChClose(7);
 MsgDisp("主人公","(I'm happy that my efforts were
 recognized. I'm glad I worked so hard in

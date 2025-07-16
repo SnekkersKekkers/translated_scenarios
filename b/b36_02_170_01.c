@@ -14,13 +14,13 @@ Wait(50,0);
 VoiceEVSPlay(2);
 VoicePlay("B360217001_02_000");
 MsgDisp("Sassa","｛主人公｝, that's good.");
-MsgDisp("主人公","Hehe! Thank you.");
+MsgDisp("主人公","Hehe!
+Thank you.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("B360217001_02_010");
-MsgDisp("Sassa","Then, I'll sing some 
-hero anime songs...");
+MsgDisp("Sassa","Then, I'll sing some hero anime songs...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -62,8 +62,8 @@ ChEyeOpenLevel(2,7);
 VoicePlay("B360217001_02_070");
 MsgDisp("Sassa","Stuff like \" Kind of like a bobblehead\" or
 \"Are you pavlov's dog?\"");
-MsgDisp("主人公","Hehe! Maybe they 
-would say that.");
+MsgDisp("主人公","Hehe!
+Maybe they would say that.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

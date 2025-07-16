@@ -23,10 +23,11 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P640300001_03_030");
-MsgDisp("Honda","Phew... It's alright, 
-I'll drink it all!");
+MsgDisp("Honda","Phew...
+It's alright, I'll drink it all!");
 MsgDisp("主人公","(Maybe I blended the herbs wrong...
-Sorry ｛本多＊＊｝, it was a fail...)");
+Sorry ｛本多＊＊｝, it was a
+fail...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

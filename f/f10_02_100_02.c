@@ -17,8 +17,8 @@ MsgDisp("Librarian","\"Exercise Learning Theory in Practice\" is
 scheduled to arrive next month.");
 VoicePlay("F100210002_02_000");
 MsgDisp("Sassa?","Is that so...?");
-MsgDisp("主人公","(It's ｛颯砂＊＊｝.
-\"Exercise Learning Theory in Practice\"...)");
+MsgDisp("主人公","(It's ｛颯砂＊＊｝. \"
+Exercise Learning Theory in Practice\"...)");
 BGOpen("sc330",0);
 MsgClose();
 ChOpen(2,254,0,0,4,#1,#1,0,0);
@@ -43,8 +43,7 @@ ChMotion(2,4);
 VoicePlay("F100210002_02_030");
 MsgDisp("Sassa","I'm a track-and-field idiot, but I still
 use my head a bit.");
-MsgDisp("主人公","But, it seems 
-like a difficult book.");
+MsgDisp("主人公","But, it seems like a difficult book.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -60,7 +59,8 @@ VoicePlay("F100210002_02_050");
 MsgDisp("Sassa","Well, when it's written in a book like
 this, it kind of backs up what you're
 already doing, and it's a bit of a relief.");
-MsgDisp("主人公","Wow... you're amazing, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Wow... you're amazing,
+｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

@@ -8,7 +8,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500002_05_000");
     MsgDisp("Hiiragi","Hello.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Hello.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Hello.");
     ChMouth(5,4);
     VoicePlay("N020500002_05_010");
     MsgDisp("Hiiragi","Your back is clearly visible.
@@ -29,7 +30,8 @@ too...)");
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("N020500002_05_030");
     MsgDisp("Hiiragi","Are you satisfied by this outcome?");
-    MsgDisp("主人公","Umm... Are you, ｛柊＊＊＊｝?");
+    MsgDisp("主人公","Umm...
+Are you, ｛柊＊＊＊｝?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,1);
@@ -70,8 +72,8 @@ you, just a small interest in studying
 could propel you to the top quickly.");
     ChEye(5,2);
     VoicePlay("N020500002_05_090");
-    MsgDisp("Hiiragi","Ah... Was what I said not convincing
-enough?");
+    MsgDisp("Hiiragi","Ah...
+Was what I said not convincing enough?");
     MsgDisp("主人公","No it was, thank you.
 I'll try my best to be more interested.");
     ChEye(5,4);
@@ -84,8 +86,8 @@ If that's what you are after.");
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("N020500002_05_110");
-    MsgDisp("Hiiragi","Ah... Well, maybe that wasn't convincing
-either.");
+    MsgDisp("Hiiragi","Ah...
+Well, maybe that wasn't convincing either.");
     MsgDisp("主人公","Hehe, thank you.
 For some reason, that motivated me.");
     ChEye(5,4);
@@ -95,8 +97,8 @@ For some reason, that motivated me.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ is good at motivating
-people.
+    MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ is good at
+motivating people.
 Alright, I'll study harder next time!)");
     break ;
     default :

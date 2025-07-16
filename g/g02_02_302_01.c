@@ -9,13 +9,14 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230201_02_010");
 MsgDisp("Sassa","It's not about what you see but who you
-see it with? Right?");
+see it with?
+Right?");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
 VoicePlay("G020230201_02_020");
-MsgDisp("Sassa","What do you mean by 'Eh?'.
+MsgDisp("Sassa","What do you mean by 'Eh? '.
 I took the trouble to say something nice.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -32,13 +33,14 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020230201_02_040");
-MsgDisp("Sassa","Ehhhー? I don't know who else you've seen
-it with but.");
+MsgDisp("Sassa","Ehhhー?
+I don't know who else you've seen it with
+but.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230201_02_050");
-MsgDisp("Sassa","Haa......they look prettier than I
+MsgDisp("Sassa","Haa...... they look prettier than I
 thought.
 I really think it's because of you.");
 ChEye(2,0);
@@ -65,8 +67,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020230201_02_090");
-MsgDisp("Sassa","Exactly. Always plan ahead, that's my
-motto.");
+MsgDisp("Sassa","Exactly.
+Always plan ahead, that's my motto.");
 MsgDisp("主人公","(He's always thinking about so much
 different things for me......
 Thank you, ｛颯砂＊＊｝ )");

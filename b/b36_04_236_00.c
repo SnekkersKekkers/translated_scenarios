@@ -17,8 +17,7 @@ MsgDisp("主人公","How wonderful...
 Why are the illuminations so beautiful?");
 ChMotion(4,1,1);
 VoicePlay("B360423600_04_010");
-MsgDisp("Nanatsumori","It's like that in order 
-to move everyone?");
+MsgDisp("Nanatsumori","It's like that in order to move everyone?");
 MsgDisp("主人公","Ah, I see.
 Yeah, it is moving...");
 ChEye(4,4);
@@ -47,8 +46,7 @@ MsgDisp("主人公","Eh∈");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_505");
-MsgDisp("","
-Chu");
+MsgDisp("","Chu");
 MsgClose();
 ChClose(4,0,30);
 ChLayout(1);
@@ -76,7 +74,8 @@ VoicePlay("B360423600_04_080");
 MsgDisp("Nanatsumori","I got too energetic...
 This is definitely the most mortifying
 thing of this year...");
-MsgDisp("主人公","Hey, ｛七ツ森＊｝, cheer up.
+MsgDisp("主人公","Hey, ｛七ツ森＊｝, cheer
+up.
 Let's watch the parade?");
 ChEyeOpenLevel(4,0);
 VoicePlay("B360423600_04_090");

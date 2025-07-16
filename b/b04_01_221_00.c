@@ -18,7 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040122100_01_010");
-    MsgDisp("Kazama","Right. The types of plants were probably
+    MsgDisp("Kazama","Right.
+The types of plants were probably
 different too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -40,8 +41,9 @@ different too.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040122100_01_030");
-    MsgDisp("Kazama","Probably. I bet you could see towns people
-going about their lives from here.");
+    MsgDisp("Kazama","Probably.
+I bet you could see towns people going
+about their lives from here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

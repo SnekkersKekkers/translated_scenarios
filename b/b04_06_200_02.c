@@ -11,8 +11,7 @@ SEWait();
 MsgClose();
 ChOpen(6,32,0,2,1,0,#1,0,0);
 VoicePlay("B040620002_06_000");
-MsgDisp("Himuro","Uwaa∋
-...ow.");
+MsgDisp("Himuro","Uwaa∋ ...ow.");
 MsgSel("A-Are you alright?","It's difficult isn't it?","You're so clumsy!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,8 +46,7 @@ I'm still not used to it.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040620002_06_030");
-        MsgDisp("Himuro","You have no right 
-to laugh at me.");
+        MsgDisp("Himuro","You have no right to laugh at me.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -60,8 +58,7 @@ to laugh at me.");
         ChCheek(6,10);
         VoicePlay("B040620002_06_040");
         MsgDisp("Himuro","...............");
-        MsgDisp("主人公","Hehe, can you
-give me your hand?");
+        MsgDisp("主人公","Hehe, can you give me your hand?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -85,7 +82,7 @@ didn't you?");
         ChOpen(6,32,1,3,3,#1,#1,0,0);
         VoicePlay("B040620002_06_060");
         MsgDisp("Himuro","Haha!
-This is payback for laughing at me. ");
+This is payback for laughing at me.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -127,7 +124,8 @@ didn't you?");
         VoicePlay("B040620002_06_110");
         MsgDisp("Himuro","I don't know anymore, I'm leaving you
 here.");
-        MsgDisp("主人公","Ehhh∋　How cruel!");
+        MsgDisp("主人公","Ehhh∋
+How cruel!");
         break ;
         default :
         DbgAssert(1);

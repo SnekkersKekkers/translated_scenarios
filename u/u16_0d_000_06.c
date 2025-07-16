@@ -23,8 +23,8 @@ The flowers are judging Mari.");
 StlEye(21,0,0);
 StlEyeOpenLevel(21,10,1);
 VoicePlay("U160D00006_21_000");
-MsgDisp("Michiru","Yes. Because Mari has very precious
-flowers, she needs to work harder to
-cherish them.");
+MsgDisp("Michiru","Yes.
+Because Mari has very precious flowers,
+she needs to work harder to cherish them.");
 MsgDisp("主人公","(What the flowers like......
 I guess they mean what boys like...)");

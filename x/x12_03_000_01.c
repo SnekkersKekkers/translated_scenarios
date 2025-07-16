@@ -14,8 +14,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("X120300001_03_000");
-    MsgDisp("Honda","Ah, I like your usage 
-of color here!");
+    MsgDisp("Honda","Ah, I like your usage of color here!");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
@@ -26,7 +25,8 @@ of color here!");
     VoicePlay("X120300001_03_010");
     MsgDisp("Honda","It's truly beautiful.
 As I thought, you are amazing.");
-    MsgDisp("主人公","(Yay! I got praised!)");
+    MsgDisp("主人公","(Yay!
+I got praised!)");
     break ;
     default :
     DbgAssert(1);

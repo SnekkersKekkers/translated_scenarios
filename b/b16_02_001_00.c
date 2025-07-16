@@ -12,15 +12,13 @@ switch (MsgSelRsltGet()){
     NSSMouth(2,3);
     NSSEyeOpenLevel(2,0);
     VoicePlay("B160200100_02_010");
-    MsgDisp("Sassa","Well I guess that can't
-be helped then.");
+    MsgDisp("Sassa","Well I guess that can't be helped then.");
     break ;
     case 1:
     NSSEye(2,2);
     NSSMouth(2,0);
     VoicePlay("B160200100_02_020");
-    MsgDisp("Sassa","What, am I acting 
-strange or something?");
+    MsgDisp("Sassa","What, am I acting strange or something?");
     break ;
     default :
     DbgAssert(0);

@@ -3,8 +3,9 @@ SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("I740000000_36_000");
 MsgDisp("President","Yes, this is Gradius Debugging.");
-MsgDisp("主人公","It's ｛主人公苗字｝.
-I apologize, but I'd like to quit my
+MsgDisp("主人公","It's
+｛主人公苗字｝. I
+apologize, but I'd like to quit my
 part-time job......");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

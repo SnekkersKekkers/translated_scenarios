@@ -22,7 +22,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_010");
 MsgDisp("Mikage","Oh, I'm sorry, but the call for
-participants is closed. Right?");
+participants is closed.
+Right?");
 MsgDisp("主人公","Hehe, yes.");
 VoicePlay("Q070700000_41_010");
 MsgDisp("Male Student B","I mean, nobody wanted to anyway.
@@ -31,17 +32,17 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q070700000_07_020");
-MsgDisp("Mikage","Oh come on......
-it's supposed to be fun.
+MsgDisp("Mikage","Oh come on...... it's supposed to be fun.
 Are you having a good time?");
 MsgDisp("主人公","Of course. Extracurricular activities with
-｛御影＊＊｝ as just the two of us.
-It'll definitely be fun.");
+｛御影＊＊｝ as just the
+two of us. It'll definitely be fun.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_030");
-MsgDisp("Mikage","Alright. Onto the next.");
+MsgDisp("Mikage","Alright.
+Onto the next.");
 MsgDisp("主人公","Yes!");
 MsgClose();
 ScrFadeOut(0,0);
@@ -59,16 +60,15 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_040");
-MsgDisp("Mikage","That tower......
-is extraordinary, huh?");
+MsgDisp("Mikage","That tower...... is extraordinary, huh?");
 MsgDisp("主人公","Extraordinary?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_050");
 MsgDisp("Mikage","Yeah, they say it's 105 meters high.");
-MsgDisp("主人公","｛御影＊＊｝, are you afraid of
-heights?");
+MsgDisp("主人公","｛御影＊＊｝, are you
+afraid of heights?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -118,7 +118,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_090");
-MsgDisp("Mikage","Yes. Maybe the owner of this place liked
+MsgDisp("Mikage","Yes.
+Maybe the owner of this place liked
 flowers alot.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -126,8 +127,8 @@ ChMotion(7,3);
 VoicePlay("Q070700000_07_100");
 MsgDisp("Mikage","I guess he came to a foreign land, to
 plant some flowers from his homeland.");
-MsgDisp("主人公","｛御影＊＊｝, if you were him, what
-flowers would you plant?");
+MsgDisp("主人公","｛御影＊＊｝, if you were
+him, what flowers would you plant?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -147,16 +148,19 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_130");
-MsgDisp("Mikage","Yeah. Just like Nagasaki, Habataki has
-their own healthy and pretty flowers.");
+MsgDisp("Mikage","Yeah.
+Just like Nagasaki, Habataki has their own
+healthy and pretty flowers.");
 MsgDisp("主人公","Habataki's flowers?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q070700000_07_140");
-MsgDisp("Mikage","Yeah. Healthy and beautiful flowers like
-you all.");
-MsgDisp("主人公","Hehe!　I'm happy.");
+MsgDisp("Mikage","Yeah.
+Healthy and beautiful flowers like you
+all.");
+MsgDisp("主人公","Hehe!
+I'm happy.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -178,8 +182,8 @@ VoicePlay("Q070700000_07_170");
 MsgDisp("Mikage","That makes me think of traders from the
 west.
 That'd make a good extracurricular lesson.");
-MsgDisp("主人公","(｛御影＊＊｝...? He's acting a bit
-strange......)");
+MsgDisp("主人公","(｛御影＊＊｝...?
+He's acting a bit strange......)");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0);

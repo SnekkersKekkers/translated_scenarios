@@ -7,8 +7,8 @@ BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,2,#1,#1,0,0);
 VoicePlay("F100110002_01_000");
 MsgDisp("Kazama","Next class is dangerous.");
-MsgDisp("主人公","Oh, ｛風真＊＊｝. What's dangerous about
-it?");
+MsgDisp("主人公","Oh, ｛風真＊＊｝.
+What's dangerous about it?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -25,7 +25,7 @@ VoicePlay("F100110002_01_020");
 MsgDisp("Kazama","No matter what, you'll start falling
 asleep.");
 MsgDisp("主人公","Is that so?
-I'm okay now, but...'");
+I'm okay now, but... '");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,2);
@@ -66,14 +66,15 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...The note ｛風真＊＊｝ gave me...
-I wonder what it says?
-I'm not sleepy, but I'll take a look.)");
+MsgDisp("主人公","(...The note ｛風真＊＊｝ gave
+me... I wonder what it says? I'm not
+sleepy, but I'll take a look.)");
 SEPlay("EV_SE_662");
 SEWait();
-MsgDisp("主人公","(Um... 'Look at me'?)");
-MsgDisp("主人公","(from ｛風真＊＊｝... He's looking at me
-and laughing!)");
+MsgDisp("主人公","(Um...
+'Look at me'?)");
+MsgDisp("主人公","(from ｛風真＊＊｝...
+He's looking at me and laughing!)");
 VoicePlay("F100110002_39_010");
 MsgDisp("Teacher","Kazama, you seem to be having fun.
 Do you like ancient literature that much?");
@@ -81,8 +82,7 @@ MsgClose();
 SEPlay("EV_SE_621");
 ChOpen(1,254,3,2,2,#1,#1,0,0,0,30);
 VoicePlay("F100110002_01_060");
-MsgDisp("Kazama","Ah, yes.
-...sorry.");
+MsgDisp("Kazama","Ah, yes. ...sorry.");
 SEPlay("EV_SE_GAYA_017",0.1,0.6);
 SEPlay("EV_SE_GAYA_016",0.2,0.7);
 VoicePlay("F100110002_38_000");
@@ -104,7 +104,8 @@ ScrFadeIn(0);
 ChMouth(1,1);
 VoiceEVSPlay(1);
 VoicePlay("F100110002_01_070");
-MsgDisp("Kazama","｛主人公｝, that was quick.");
+MsgDisp("Kazama","｛主人公｝, that was
+quick.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
 ChMouth(1,3);

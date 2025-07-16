@@ -10,8 +10,9 @@ MsgDisp("","　　　　　　　　　　 ・
 BGMPlay("BGM_C04_NANA_B",0.01);
 Wait(60,0);
 VoicePlay("B070401000_04_000");
-MsgDisp("Nanatsumori","Before. Do you remember when you asked me
-about love?");
+MsgDisp("Nanatsumori","Before.
+Do you remember when you asked me about
+love?");
 MsgDisp("主人公","Ah, yeah.");
 ChMotion(4,1,1);
 VoicePlay("B070401000_04_010");
@@ -20,8 +21,7 @@ ever since.
 Stuff about love, about romance.");
 ChEyeOpenLevel(4,0);
 VoicePlay("B070401000_04_020");
-MsgDisp("Nanatsumori","I feel like I can't get 
-it out of my head.");
+MsgDisp("Nanatsumori","I feel like I can't get it out of my head.");
 ChMotion(4,0,1);
 ChEyeOpenLevel(4,#1);
 VoicePlay("B070401000_04_030");
@@ -57,9 +57,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B070401000_04_080");
-MsgDisp("Nanatsumori","Nope. I won't forgive you.");
-MsgDisp("主人公","Ehh...
-what should I do...");
+MsgDisp("Nanatsumori","Nope.
+I won't forgive you.");
+MsgDisp("主人公","Ehh... what should I do...");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

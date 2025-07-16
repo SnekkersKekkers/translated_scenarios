@@ -80,8 +80,7 @@ tingly, but, it feels somewhat nice.");
         ChMouth(6,0);
         ChMotion(6,2);
         VoicePlay("B040606202_06_080");
-        MsgDisp("Himuro","I don't want to get 
-used to this feeling.");
+        MsgDisp("Himuro","I don't want to get used to this feeling.");
         MsgDisp("主人公","｛氷室＊＊｝......");
         ChEye(6,0);
         ChMouth(6,4);

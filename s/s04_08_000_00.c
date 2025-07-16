@@ -20,8 +20,9 @@ Hey, want to go to the shrine now?");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040800000_08_020");
-        MsgDisp("Shirahane","Yes! I'll come and pick you up then. Get
-dressed and wait for me, okay?");
+        MsgDisp("Shirahane","Yes!
+I'll come and pick you up then.
+Get dressed and wait for me, okay?");
         MsgDisp("主人公","Eh, right now?");
         VoicePlay("S040800000_08_030");
         MsgDisp("Shirahane","Good things don't wait.
@@ -55,7 +56,8 @@ Did I make the wrong choice?)");
     case 4:
     case 5:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, a phone call from ｛大地＊＊｝.");
+    MsgDisp("主人公","Ah, a phone call from
+｛大地＊＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     MsgDisp("主人公","Hello, ｛大地＊＊｝?");
@@ -72,11 +74,11 @@ shrine......?");
         case 0:
         VoicePlay("S040800000_08_080");
         MsgDisp("Shirahane","Yes!");
-        MsgDisp("主人公","Hehe, you're full of energy 
-this year.");
+        MsgDisp("主人公","Hehe, you're full of energy this year.");
         VoicePlay("S040800000_08_090");
         MsgDisp("Shirahane","I guess it was you who made me so
-energetic? Haha!");
+energetic?
+Haha!");
         VoicePlay("S040800000_08_100");
         MsgDisp("Shirahane","Okay then......
 I'll come getcha from your house.

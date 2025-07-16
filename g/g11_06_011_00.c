@@ -6,21 +6,21 @@ ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("G110601100_06_000");
 MsgDisp("Himuro","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝. What's wrong?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+What's wrong?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601100_06_010");
-MsgDisp("Himuro","You know, you have time...
-after this.
+MsgDisp("Himuro","You know, you have time... after this.
 You quit your part time job.");
-MsgDisp("主人公","Ah... I-I see.");
+MsgDisp("主人公","Ah...
+I-I see.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G110601100_06_020");
-MsgDisp("Himuro","Can you come with me for
-a second?");
+MsgDisp("Himuro","Can you come with me for a second?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);
@@ -52,14 +52,14 @@ ChMotion(6,0);
 VoicePlay("G110601100_06_060");
 MsgDisp("Himuro","I'm not trying to blame you.
 I'm sure everyone has their reasons.");
-MsgDisp("主人公","Yeah... I'm sorry.");
+MsgDisp("主人公","Yeah...
+I'm sorry.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601100_06_070");
 MsgDisp("Himuro","In any case.
-You knew I would miss you...
-a little bit.");
+You knew I would miss you... a little bit.");
 MsgDisp("主人公","Huh.");
 ChEye(6,2);
 ChMouth(6,0);

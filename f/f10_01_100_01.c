@@ -4,8 +4,9 @@ MsgDisp("主人公","(Right after this class ends, it's lunch.
 I'm so hungry....)");
 SEPlay("EV_SE_017");
 MsgDisp("","(*Grumble Grumble*)");
-MsgDisp("主人公","(M-My stomach growled! ...Wait. Nobody
-heard it, right...?)");
+MsgDisp("主人公","(M-My stomach growled!
+... Wait.
+Nobody heard it, right...?)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -28,14 +29,16 @@ VoiceEVSPlay(1);
 VoicePlay("F100110001_01_000");
 MsgDisp("Kazama","What's wrong, ｛主人公｝?
 Are you not feeling well?");
-MsgDisp("主人公","Oh, ｛風真＊＊｝. Why do you ask?");
+MsgDisp("主人公","Oh, ｛風真＊＊｝.
+Why do you ask?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("F100110001_01_010");
 MsgDisp("Kazama","Because in class, your face turned red and
 you looked down.");
-MsgDisp("主人公","Huh? You were watching?");
+MsgDisp("主人公","Huh?
+You were watching?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -61,8 +64,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("F100110001_01_050");
-MsgDisp("Kazama","Huh? ...Oh, I see. Then you'd better hurry
-to lunch.");
+MsgDisp("Kazama","Huh?
+... Oh, I see.
+Then you'd better hurry to lunch.");
 ChEye(1,0);
 ChMotion(1,0);
 MsgDisp("主人公","Oh...");
@@ -72,7 +76,8 @@ BGMStop();
 ChClose(1);
 VoicePlay("F100110001_01_060");
 MsgDisp("Kazama","Hurry up.");
-MsgDisp("主人公","(I guess ｛風真＊＊｝ figured it out?
+MsgDisp("主人公","(I guess ｛風真＊＊｝ figured
+it out?
 I won't ask him about it...)");
 MsgClose();
 ScrFadeOut(0,0);

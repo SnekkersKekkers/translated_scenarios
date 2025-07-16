@@ -10,8 +10,9 @@ BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(5,254,0,0,4,#1,#1,0,2);
-MsgDisp("主人公","｛颯砂＊＊｝ and ｛柊＊＊＊｝. Do you both
-like hot springs?");
+MsgDisp("主人公","｛颯砂＊＊｝ and
+｛柊＊＊＊｝.
+Do you both like hot springs?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -23,8 +24,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100220000_05_010");
 MsgDisp("Hiiragi","You are welcome to.");
-MsgDisp("主人公","Is there a hot spring 
-club at Haba High?");
+MsgDisp("主人公","Is there a hot spring club at Haba High?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);

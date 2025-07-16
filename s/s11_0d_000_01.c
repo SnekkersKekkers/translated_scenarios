@@ -39,7 +39,8 @@ VoicePlay("S110D00001_22_020");
 MsgDisp("Hikaru","Hikaru also wants to share her happiness
 with Mari▼
 Let's stick together this year!");
-MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝......
+MsgDisp("主人公","(｛みちる＊｝,
+｛ひかる＊｝......
 I'm so happy!)");
 MsgClose();
 ScrFadeOut(0,0);

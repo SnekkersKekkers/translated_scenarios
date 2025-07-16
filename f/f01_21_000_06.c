@@ -13,7 +13,8 @@ I'm not really in the mood today.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(21);
-    MsgDisp("主人公","(...It can't be helped.
+    MsgDisp("主人公","(...
+It can't be helped.
 I'll go home alone today.)");
     break ;
     case 3:
@@ -27,14 +28,14 @@ I'll go home alone today.)");
     ChMouth(21,0);
     ChMotion(21,1);
     VoicePlay("F012100006_21_020");
-    MsgDisp("Michiru","Today is a little...
-you know?
+    MsgDisp("Michiru","Today is a little... you know?
 My apologies.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(21);
-    MsgDisp("主人公","(...It can't be helped.
+    MsgDisp("主人公","(...
+It can't be helped.
 I'll go home alone.)");
     break ;
     case 4:

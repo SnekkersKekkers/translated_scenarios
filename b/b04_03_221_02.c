@@ -30,8 +30,9 @@ guard the castle?");
         ChMotion(3,0,1);
         VoicePlay("B040322102_03_020");
         MsgDisp("Honda","Does it look that way to you?");
-        MsgDisp("主人公","Yeah. It looks like it would be difficult
-to escape the castle.");
+        MsgDisp("主人公","Yeah.
+It looks like it would be difficult to
+escape the castle.");
         ChMotion(3,1);
         VoicePlay("B040322102_03_030");
         MsgDisp("Honda","Definitely. At that time you could only
@@ -45,7 +46,8 @@ for reinforcements.");
         MsgDisp("Honda","Yep yep, good question. At that time, they
 would exit through Habataki Castle's
 'legendary secret passage'.");
-        MsgDisp("主人公","There's a secret passage? Amazing.");
+        MsgDisp("主人公","There's a secret passage?
+Amazing.");
         ChMouth(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -79,8 +81,8 @@ princess.')");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040322102_03_070");
-    MsgDisp("Honda","Alright! Let's feed them on the way
-backー!");
+    MsgDisp("Honda","Alright!
+Let's feed them on the way backー!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

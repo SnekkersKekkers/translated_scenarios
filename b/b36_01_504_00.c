@@ -22,8 +22,7 @@ ChMotion(1,1);
 VoicePlay("B360150400_01_010");
 MsgDisp("Kazama","This sort of thing is best done with two
 people.");
-MsgDisp("主人公","There are definitely 
-a lot of couples.");
+MsgDisp("主人公","There are definitely a lot of couples.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -54,8 +53,7 @@ VoicePlay("B360150400_01_050");
 MsgDisp("Kazama","Phew... I feel bad for those guys, but But
 this has really turned around from the
 noisy first half.");
-MsgDisp("主人公","Hey... everyone will 
-get angry you know?");
+MsgDisp("主人公","Hey... everyone will get angry you know?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,255,0,4,3,#1,#1,0,0);

@@ -33,8 +33,7 @@ Wait(12,0);
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("T020511030_05_030");
-MsgDisp("Hiiragi","Don't make that face, 
-show me a smile.");
+MsgDisp("Hiiragi","Don't make that face, show me a smile.");
 MsgDisp("主人公","......Yes.");
 ChEyeOpenLevel(5,0);
 Wait(8,0);

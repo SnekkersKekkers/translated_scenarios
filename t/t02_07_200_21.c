@@ -3,15 +3,15 @@ ChMouth(7,1);
 ChMotion(7,5);
 VoicePlay("T020720021_07_000");
 MsgDisp("Mikage","Y-Y......you∋");
-MsgDisp("主人公","Ah, sorry.
-but......");
+MsgDisp("主人公","Ah, sorry. but......");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0,1);
 VoicePlay("T020720021_07_010");
 MsgDisp("Mikage","Does that mean you'll accept my feelings?");
-MsgDisp("主人公","Yes. I don't think I can express it in
-words. So......");
+MsgDisp("主人公","Yes.
+I don't think I can express it in words.
+So......");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -28,8 +28,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("T020720021_07_030");
-MsgDisp("Mikage","Oh, 
-I have to thank those guys too.");
+MsgDisp("Mikage","Oh, I have to thank those guys too.");
 MsgDisp("主人公","Yes!");
 ChEye(7,0);
 ChMouth(7,0);

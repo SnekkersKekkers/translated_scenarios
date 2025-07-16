@@ -24,9 +24,9 @@ VoicePlay("T020621000_06_160");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
-MsgDisp("Himuro","I should go thank them soon......
-but for just a bit longer, I want to be
-here with you.");
+MsgDisp("Himuro","I should go thank them soon...... but for
+just a bit longer, I want to be here with
+you.");
 VoicePlay("T020621000_06_170");
 ChEye(6,0);
 ChMouth(6,0);
@@ -41,7 +41,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 MsgDisp("Himuro","You too?
-......Then close your eyes.");
+...... Then close your eyes.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

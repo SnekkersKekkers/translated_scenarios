@@ -9,8 +9,9 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403102_04_000");
-MsgDisp("Nanatsumori","What? There's a queue over there. ...Shall
-we go?");
+MsgDisp("Nanatsumori","What?
+There's a queue over there.
+... Shall we go?");
 MsgSel("There's a sushi restaurant there, let's go!","The aquarium is sparkling, it's so pretty!","I don't wanna stand in line...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,8 +51,9 @@ the lights is incredible. Damn.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040403102_04_030");
-        MsgDisp("Nanatsumori","Ah... right. Then, let's just wander
-around then head home.");
+        MsgDisp("Nanatsumori","Ah... right.
+Then, let's just wander around then head
+home.");
         MsgDateResultDisp();
         break ;
         case 4:

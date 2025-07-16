@@ -2,12 +2,13 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("T020711000_07_000");
-MsgDisp("Mikage?","｛主人公｝, would you like to go out
-with me?");
+MsgDisp("Mikage?","｛主人公｝, would you like
+to go out with me?");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Eh, ｛御影＊＊｝......? What's wrong?");
+MsgDisp("主人公","Eh, ｛御影＊＊｝......?
+What's wrong?");
 SEPlay("EV_SE_504",0,0.7);
 Wait(30,0);
 ChEye(7,2);
@@ -69,14 +70,15 @@ MsgDisp("Mikage","I'm not the kind of person who's suited to
 be called a teacher......");
 ChEye(7,2);
 ChEyeOpenLevel(7,10);
-MsgDisp("主人公","That...... I was very happy to spend the
-last three years with ｛御影＊＊｝.");
+MsgDisp("主人公","That......
+I was very happy to spend the last three
+years with ｛御影＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020711000_07_070");
-MsgDisp("Mikage","......Thank you.
+MsgDisp("Mikage","...... Thank you.
 You always help me out like that.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -98,8 +100,9 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020711000_07_100");
 MsgDisp("Mikage","Hey, do you remember when we went bowling?");
-MsgDisp("主人公","Yes. You took me there when our
-extracurricular activities were cancelled.");
+MsgDisp("主人公","Yes.
+You took me there when our extracurricular
+activities were cancelled.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
@@ -122,7 +125,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020711000_07_130");
-MsgDisp("Mikage","I see......I'm glad.");
+MsgDisp("Mikage","I see......
+I'm glad.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -142,7 +146,7 @@ ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020711000_07_160");
-MsgDisp("Mikage","......I managed to hold it off once.
+MsgDisp("Mikage","...... I managed to hold it off once.
 But in the end, I'm here, in front of you.");
 MsgDisp("主人公","｛御影＊＊｝......?");
 ChEye(7,4);
@@ -178,8 +182,7 @@ ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020711000_07_210");
-MsgDisp("Mikage","I tried to back away──
-but, I'm sorry.");
+MsgDisp("Mikage","I tried to back away── but, I'm sorry.");
 MsgClear();
 ChClose(7);
 SEPlay("EV_SE_628",0,0.7,0.4);

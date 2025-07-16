@@ -10,7 +10,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360415200_04_000");
-MsgDisp("Nanatsumori","...Well.
+MsgDisp("Nanatsumori","... Well.
 Let's have a little contest.");
 MsgDisp("主人公","Yeah, sure.");
 ChEye(4,0);
@@ -30,8 +30,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B360415200_04_030");
-MsgDisp("Nanatsumori","Something like...
-your time?");
+MsgDisp("Nanatsumori","Something like... your time?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B360415200_04_040");
 MsgDisp("Nanatsumori","Counting up the points, the more points I
@@ -44,8 +43,9 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360415200_04_050");
-MsgDisp("Nanatsumori","Ah... That's right, sorry. That only
-benefits me.");
+MsgDisp("Nanatsumori","Ah...
+That's right, sorry.
+That only benefits me.");
 MsgDisp("主人公","Hey.");
 ChEye(4,2);
 ChMouth(4,3);

@@ -21,8 +21,8 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,255,2,2,0,0,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080600001_06_020");
-    MsgDisp("Himuro","Huh... Why are we pairing up
-like this?");
+    MsgDisp("Himuro","Huh...
+Why are we pairing up like this?");
     break ;
     default :
     DbgAssert(1);

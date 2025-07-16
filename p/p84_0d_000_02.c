@@ -1,7 +1,7 @@
 ScrFadeIn(0);
 BGMStop();
-MsgDisp("主人公","Alright. I can make a list of all items in
-storage!");
+MsgDisp("主人公","Alright.
+I can make a list of all items in storage!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();

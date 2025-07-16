@@ -36,15 +36,16 @@ ChMotion(7,3);
 ScrFadeIn(0);
 VoicePlay("B360723600_07_030");
 MsgDisp("Mikage","Everything is so exciting～!");
-MsgDisp("主人公","｛御影＊＊｝, sorry for making you
-come......");
+MsgDisp("主人公","｛御影＊＊｝, sorry for
+making you come......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360723600_07_040");
 MsgDisp("Mikage","What are you talking about?
 You wanted to go, so why not?");
-MsgDisp("主人公","Yeah. Thank you.");
+MsgDisp("主人公","Yeah.
+Thank you.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -57,8 +58,9 @@ ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B360723600_07_060");
 MsgDisp("Mikage","Look, a skull bear!");
-MsgDisp("主人公","(Hehe! Thank you for listening to my
-requests, ｛御影＊＊｝ )");
+MsgDisp("主人公","(Hehe!
+Thank you for listening to my requests,
+｛御影＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

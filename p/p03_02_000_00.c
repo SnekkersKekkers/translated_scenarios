@@ -11,8 +11,9 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoicePlay("P030200000_02_000");
@@ -45,15 +46,17 @@ Allow me to show you to your seat, sir!");
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChOpen(2,254,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P030200000_02_030");
-    MsgDisp("Sassa","｛主人公｝, I was lured here by the
-smell of those dango.");
-    MsgDisp("主人公","It's ｛颯砂＊＊｝! Welcome!");
+    MsgDisp("Sassa","｛主人公｝, I was lured
+here by the smell of those dango.");
+    MsgDisp("主人公","It's ｛颯砂＊＊｝!
+Welcome!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -76,8 +79,8 @@ matcha?");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("P030200000_02_060");
-    MsgDisp("Sassa","Okay. Then I'll take the set you
-recommend!");
+    MsgDisp("Sassa","Okay.
+Then I'll take the set you recommend!");
     MsgDisp("主人公","Yes.
 I've received your order!");
     break ;

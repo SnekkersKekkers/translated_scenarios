@@ -3,7 +3,8 @@ SEWait();
 MsgDisp("主人公","(Ah, it's from Habatcher's editorial
 department. It says......\"Can you please
 cover the event at Habataki Farm\"......)");
-MsgDisp("主人公","(Yeah! Of course I'll go.)");
+MsgDisp("主人公","(Yeah!
+Of course I'll go.)");
 MsgClose();
 Wait(40,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -20,7 +21,8 @@ MsgDisp("Mom","Come, let's hurry.
 It's about to start!");
 VoicePlay("D010700700_44_000");
 MsgDisp("Boy","Okay!");
-MsgDisp("主人公","Phew......I think I made it in time.
+MsgDisp("主人公","Phew......
+I think I made it in time.
 Let's hurry!");
 SEPlay("EV_SE_FOOT_RUN_KEEP_ALONE");
 MsgClose();
@@ -65,7 +67,8 @@ StlMouth(7,0);
 VoicePlay("D010700700_45_000");
 MsgDisp("Woman Customer","Kyaa, how cool!
 He has such a nice smile!");
-MsgDisp("主人公","｛御影＊＊｝, what are you......");
+MsgDisp("主人公","｛御影＊＊｝, what are
+you......");
 StlEyeOpenLevel(7,#1);
 VoicePlay("D010700700_07_010");
 MsgDisp("Mikage","Oh, it's you∋
@@ -86,8 +89,9 @@ ChOpen(7,37,0,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("D010700700_07_020");
-MsgDisp("Mikage","Ehh......I didn't know you were interested
-in this kind of thing?");
+MsgDisp("Mikage","Ehh......
+I didn't know you were interested in this
+kind of thing?");
 MsgDisp("主人公","Ah, not really, I just wanted to get an
 interview for my part-time job at
 Habatcher......");

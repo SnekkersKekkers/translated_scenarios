@@ -1,5 +1,7 @@
-MsgDisp("主人公","It's become natural for me, ｛氷室＊＊｝,
-｛柊＊＊＊｝ and ｛御影＊＊｝ to be
+MsgDisp("主人公","It's become natural for me,
+｛氷室＊＊｝,
+｛柊＊＊＊｝ and
+｛御影＊＊｝ to be
 together.");
 ChEye(6,2);
 ChMouth(6,0);
@@ -34,15 +36,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_400");
-MsgDisp("Himuro","I see.
-...but——");
+MsgDisp("Himuro","I see. ...but——");
 MsgDisp("主人公","But...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B070600002_06_410");
-MsgDisp("Himuro","...No, it's nothing.
+MsgDisp("Himuro","... No, it's nothing.
 There's no point even if I say it now.");
 MsgDisp("主人公","(｛氷室＊＊｝...?)");
 BGMStop();

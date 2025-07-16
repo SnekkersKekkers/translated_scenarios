@@ -56,8 +56,7 @@ You can relax.");
         ChMouth(6,2);
         ChMotion(6,0);
         VoicePlay("B040608202_06_050");
-        MsgDisp("Himuro","...I just let my guard 
-down next to you.");
+        MsgDisp("Himuro","...I just let my guard down next to you.");
         MsgDisp("主人公","Eh, is that so?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -72,7 +71,8 @@ I need to focus a bit more.");
         ChMotion(6,4);
         VoicePlay("B040608202_06_070");
         MsgDisp("Himuro","No, I don't want to show the shameful
-parts of myself. Especially... not to you.");
+parts of myself.
+Especially... not to you.");
         MsgDisp("主人公","(Actually, I would like to see it...)");
         break ;
         default :

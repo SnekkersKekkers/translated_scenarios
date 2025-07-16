@@ -5,8 +5,7 @@ ChEyeOpenLevel(31,0);
 ScrFadeIn(0);
 VoicePlay("P043100000_31_000");
 MsgDisp("Goro","An!");
-MsgDisp("主人公","Huh, GORO-sensei,
-did something happen∋");
+MsgDisp("主人公","Huh, GORO-sensei, did something happen∋");
 ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,2);

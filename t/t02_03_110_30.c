@@ -31,7 +31,8 @@ VoicePlay("T020311000_03_240");
 MsgDisp("Honda","I'll always wish for your happiness!");
 ChEye(3,0);
 ChEyeOpenLevel(3,10);
-MsgDisp("主人公","｛本多＊＊｝...... Thank you......");
+MsgDisp("主人公","｛本多＊＊｝......
+Thank you......");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);

@@ -35,13 +35,14 @@ Your expression is seriously stiff.");
     MsgDisp("Nanatsumori","How about I draw the character for
 'person' in your palm?
 You play a large instrument, right?");
-    MsgDisp("主人公","Eh... Ahaha, are you casting a good luck
-spell?");
+    MsgDisp("主人公","Eh...
+Ahaha, are you casting a good luck spell?");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P530400000_04_040");
-    MsgDisp("Nanatsumori","Right. It seems to be extremely effective
+    MsgDisp("Nanatsumori","Right.
+It seems to be extremely effective
 according to some people～?");
     SEPlay("EV_SE_038");
     SEWait();
@@ -55,8 +56,8 @@ I'm off now!");
     VoicePlay("P530400000_04_060");
     MsgDisp("Nanatsumori","Yeah.");
     MsgDisp("主人公","(Before I knew it, my stress was coming
-off... ｛七ツ森＊｝, thank you!
-Alr-ight! let's give it our best!)");
+off... ｛七ツ森＊｝, thank
+you! Alr-ight! let's give it our best!)");
     break ;
     case 4:
     case 5:
@@ -98,9 +99,8 @@ enjoy the music to the fullest.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P530400000_04_120");
-    MsgDisp("Nanatsumori","Right, right.
-...hey, you're getting excited, aren't
-you?");
+    MsgDisp("Nanatsumori","Right, right. ...hey, you're getting
+excited, aren't you?");
     MsgDisp("主人公","Hehe!");
     SEPlay("EV_SE_038");
     SEWait();
@@ -111,8 +111,8 @@ you?");
     MsgDisp("Nanatsumori","ＧＯ!
 Have fun to the fullest!");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(｛七ツ森＊｝, thank you for
-encouraging me!
+    MsgDisp("主人公","(｛七ツ森＊｝, thank you for encouraging
+me!
 Alright, let's do our best!)");
     break ;
     default :

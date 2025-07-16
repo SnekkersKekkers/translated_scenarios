@@ -5,7 +5,7 @@ VoicePlay("T020720022_07_000");
 MsgDisp("Mikage","Oi-∋
 W-What's wrong?");
 MsgDisp("主人公","I also like ｛御影＊＊｝.
-Did you......receive my feelings?");
+Did you...... receive my feelings?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -23,7 +23,7 @@ VoicePlay("T020720022_07_020");
 MsgDisp("Mikage","What's that?
 Haha, that'll be hard to tell them.");
 MsgDisp("主人公","Eh∋
-You......don't need to tell them.");
+You...... don't need to tell them.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -37,7 +37,8 @@ ChMotion(7,1);
 VoicePlay("T020720022_07_040");
 MsgDisp("Mikage","Doesn't that mean we've given up on this
 being one-sided?");
-MsgDisp("主人公","Yes. I got it.");
+MsgDisp("主人公","Yes.
+I got it.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

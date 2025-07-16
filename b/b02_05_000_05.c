@@ -11,5 +11,5 @@ VoicePlay("B020500005_05_010");
 MsgDisp("Hiiragi","Being cold can be a large danger to women,
 so do not let your guard down. No matter
 the reason. Does that make sense?");
-MsgDisp("主人公","(Urgh... I don't think I have enough
-on...)");
+MsgDisp("主人公","(Urgh...
+I don't think I have enough on...)");

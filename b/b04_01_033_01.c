@@ -44,7 +44,8 @@ slowly.");
     ChMotion(1,0);
     VoicePlay("B040103301_01_030");
     MsgDisp("Kazama","Hey!
-You aren't a kid! Wake up!");
+You aren't a kid!
+Wake up!");
     MsgDateResultDisp();
     break ;
     default :

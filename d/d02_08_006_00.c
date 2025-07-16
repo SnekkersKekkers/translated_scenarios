@@ -7,7 +7,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(8);
 VoicePlay("D020800600_08_000");
 MsgDisp("Shirahane","｛主人公｝.");
-MsgDisp("主人公","Hmm? What is it, ｛大地＊＊｝?");
+MsgDisp("主人公","Hmm?
+What is it, ｛大地＊＊｝?");
 VoicePlay("D020800600_08_030");
 ChEye(8,3);
 ChMouth(8,3);

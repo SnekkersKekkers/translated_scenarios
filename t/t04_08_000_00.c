@@ -23,14 +23,14 @@ your big brother and big sister.");
 NSSEye(8,4);
 NSSMouth(8,4);
 VoicePlay("T040800000_08_030");
-MsgDisp("Shirahane","What can I say......
-just thinking about you makes me happy.");
+MsgDisp("Shirahane","What can I say...... just thinking about
+you makes me happy.");
 NSSEyeOpenLevel(8,0);
 MsgDisp("主人公","｛大地＊＊｝......");
 NSSEye(8,0);
 NSSMouth(8,5);
 VoicePlay("T040800000_08_040");
-MsgDisp("Shirahane","......Ah!
+MsgDisp("Shirahane","...... Ah!
 Could this be——");
 MsgDisp("主人公","Eh?");
 NSSEye(8,3);

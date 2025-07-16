@@ -47,8 +47,9 @@ event day!");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040415102_04_030");
-        MsgDisp("Nanatsumori","Hmm. If I get better, I wonder if I'll be
-able to see the fun part of it?");
+        MsgDisp("Nanatsumori","Hmm.
+If I get better, I wonder if I'll be able
+to see the fun part of it?");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -102,8 +103,8 @@ even now.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040415102_04_110");
-        MsgDisp("Nanatsumori","Alright! Shall we continue where we left
-off?!");
+        MsgDisp("Nanatsumori","Alright!
+Shall we continue where we left off?!");
         MsgDisp("主人公","Okayー!");
         break ;
         default :

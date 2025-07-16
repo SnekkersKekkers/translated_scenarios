@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("B040523500_05_010");
-    MsgDisp("Hiiragi","If you enjoyed it
-that is good enough.");
+    MsgDisp("Hiiragi","If you enjoyed it that is good enough.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

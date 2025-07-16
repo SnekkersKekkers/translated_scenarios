@@ -49,8 +49,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B150700100_07_070");
 MsgDisp("Mikage","Hey, come on!");
-MsgDisp("主人公","(Umm, even if you tell
-me to come...)");
+MsgDisp("主人公","(Umm, even if you tell me to come...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

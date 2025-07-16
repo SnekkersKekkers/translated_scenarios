@@ -26,9 +26,11 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B360250401_02_020");
-MsgDisp("Sassa","Hm? What's with that calm perspective? Is
-it only me who's excited?");
-MsgDisp("主人公","No. I'm super happy that you invited me to
+MsgDisp("Sassa","Hm?
+What's with that calm perspective?
+Is it only me who's excited?");
+MsgDisp("主人公","No.
+I'm super happy that you invited me to
 this limited-time place.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -51,8 +53,9 @@ ChMotion(2,4);
 VoicePlay("B360250401_02_050");
 MsgDisp("Sassa","Next time, let's come with just the two of
 us from the start!");
-MsgDisp("主人公","(Hehe! But, it would also be fun to come
-with the four of us together...)");
+MsgDisp("主人公","(Hehe!
+But, it would also be fun to come with the
+four of us together...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

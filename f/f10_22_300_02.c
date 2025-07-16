@@ -21,9 +21,9 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102230002_21_010");
-MsgDisp("Michiru","Right. Hey... if you still can't guess it
-today, I guess I'll go t a cooking
-class...");
+MsgDisp("Michiru","Right.
+Hey... if you still can't guess it today,
+I guess I'll go t a cooking class...");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,3,1);
@@ -54,7 +54,8 @@ MsgDisp("Michiru","Correct!
 I'm glad...");
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,#1);
-MsgDisp("主人公","｛みちる＊｝, congratulations!");
+MsgDisp("主人公","｛みちる＊｝,
+congratulations!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
@@ -92,7 +93,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230002_22_070");
 MsgDisp("Hikaru","Uwah....that seems even harder!");
-MsgDisp("主人公","(Hehe! These two really get along.)");
+MsgDisp("主人公","(Hehe!
+These two really get along.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

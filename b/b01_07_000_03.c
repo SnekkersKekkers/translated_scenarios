@@ -21,8 +21,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B010700003_07_010");
-MsgDisp("Mikage","...Sorry. I'm guessing my plan to \"just
-wing it\" backfired, huh?");
+MsgDisp("Mikage","... Sorry.
+I'm guessing my plan to \"just wing it\"
+backfired, huh?");
 SEPlay("EV_SE_GAYA_023",0,0.6);
 Wait(30,0);
 MsgDispSksp(1,0);

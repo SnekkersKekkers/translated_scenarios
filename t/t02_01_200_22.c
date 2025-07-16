@@ -6,8 +6,7 @@ VoicePlay("T020120000_01_530");
 MsgDisp("Kazama","Wait!
 What's wrong?");
 ChEye(1,3);
-MsgDisp("主人公","I'm sorry,
-I can't put it into words......");
+MsgDisp("主人公","I'm sorry, I can't put it into words......");
 MsgDisp("主人公","Thank you for always thinking of me.
 I also like ｛風真＊＊｝.");
 ChMotion(1,0);
@@ -75,7 +74,8 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_630");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝...... Thank you.");
+MsgDisp("主人公","｛風真＊＊｝......
+Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
 StlEyeOpenLevel(1,#1);
@@ -96,7 +96,8 @@ MsgDisp("Kazama","Sorry to those guys, but...
 There will be no attendees.");
 VoiceEVSPlay(1);
 VoicePlay("T020120000_01_670");
-MsgDisp("Kazama","｛主人公｝, I won't let you go again.");
+MsgDisp("Kazama","｛主人公｝, I won't let
+you go again.");
 BGMStop();
 MsgClear();
 StlEffect(1,1,60);

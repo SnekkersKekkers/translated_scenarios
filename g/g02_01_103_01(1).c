@@ -13,8 +13,7 @@ VoicePlay("G020110301_01_010");
 MsgDisp("Kazama","Coming back here, every season feels
 nostalgic but also new at the same time.
 It's really nice.");
-MsgDisp("主人公","Yes!
-t's fun wherever we go together.");
+MsgDisp("主人公","Yes! t's fun wherever we go together.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -24,8 +23,9 @@ VoicePlay("G020110301_01_020");
 MsgDisp("Kazama","Yeah, it feels like we're making up for
 the 10 years we missed out on with a lot
 of intensity");
-MsgDisp("主人公","But, I want to know more of ｛風真＊＊｝
-'s life in england.'");
+MsgDisp("主人公","But, I want to know more of
+｛風真＊＊｝ 's life in
+england.'");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -42,9 +42,9 @@ ChMouth(1,3);
 VoicePlay("G020110301_01_040");
 MsgDisp("Kazama","But most of all, it was you.
 Now, it feels natural to have you here");
-MsgDisp("主人公","Yeah. When you suddenly left, ｛風真＊＊｝
-I don't remember what happened after very
-well.");
+MsgDisp("主人公","Yeah. When you suddenly left,
+｛風真＊＊｝ I don't remember
+what happened after very well.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -78,8 +78,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,7);
 VoicePlay("G020110301_01_090");
 MsgDisp("Kazama","The pool......");
-MsgDisp("主人公","Pool......? Ah, you're talking about the
-cute float?");
+MsgDisp("主人公","Pool......?
+Ah, you're talking about the cute float?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -95,8 +95,8 @@ VoicePlay("G020110301_01_110");
 MsgDisp("Kazama","In England, we didn't really have
 opportunities to swim, so I didn't know
 how things worked.");
-MsgDisp("主人公","Hehe, but, ｛風真＊＊｝ was really cute
-though?");
+MsgDisp("主人公","Hehe, but, ｛風真＊＊｝ was
+really cute though?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);

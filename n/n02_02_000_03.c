@@ -9,9 +9,10 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200003_02_000");
-    MsgDisp("Sassa","｛主人公｝, isn't this kind of bad?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. You mean my results,
-right...");
+    MsgDisp("Sassa","｛主人公｝, isn't this
+kind of bad?");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+You mean my results, right...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -29,7 +30,8 @@ let's just do our best next time.");
     VoiceEVSPlay(2);
     VoicePlay("N020200003_02_020");
     MsgDisp("Sassa","｛主人公｝, are you okay?");
-    MsgDisp("主人公","Huh? ｛颯砂＊＊｝, what do you mean?");
+    MsgDisp("主人公","Huh?
+｛颯砂＊＊｝, what do you mean?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -63,9 +65,10 @@ I don't want to worry about you.");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200003_02_060");
-    MsgDisp("Sassa","｛主人公｝, this is really weird coming
-from you.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝. What's wrong?");
+    MsgDisp("Sassa","｛主人公｝, this is really
+weird coming from you.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+What's wrong?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);

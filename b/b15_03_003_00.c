@@ -8,8 +8,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B150300300_03_010");
-MsgDisp("Honda","Yeah. Thanks to you, I'm sure of it now. I
-really like it when you touch me.");
+MsgDisp("Honda","Yeah.
+Thanks to you, I'm sure of it now.
+I really like it when you touch me.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -67,8 +68,9 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300300_03_090");
 MsgDisp("Honda","It's a promise!");
-MsgDisp("主人公","(That's so ｛本多＊＊｝, always looking on
-the bright side. Thanks, ｛本多＊＊｝! )");
+MsgDisp("主人公","(That's so ｛本多＊＊｝, always
+looking on the bright side.
+Thanks, ｛本多＊＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

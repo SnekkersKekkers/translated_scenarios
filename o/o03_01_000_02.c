@@ -9,8 +9,9 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,30,0,2,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030100002_01_000");
-    MsgDisp("Kazama","Seriously. Being this far out of sync is
-actually funny.");
+    MsgDisp("Kazama","Seriously.
+Being this far out of sync is actually
+funny.");
     MsgDisp("主人公","(Hm.
 The three-legged race is hard......)");
     break ;
@@ -30,8 +31,9 @@ There must be some kind of mistake......");
 Let's go to school together from now on
 with our legs tied together.");
     MsgDisp("主人公","Huh!?");
-    MsgDisp("主人公","(Last, huh...... Looks like something
-weird started in ｛風真＊＊｝...... )");
+    MsgDisp("主人公","(Last, huh......
+Looks like something weird started in
+｛風真＊＊｝...... )");
     break ;
     case 4:
     case 5:
@@ -43,7 +45,8 @@ weird started in ｛風真＊＊｝...... )");
     VoicePlay("O030100002_01_030");
     MsgDisp("Kazama","Amazing, last.");
     MsgDisp("主人公","Um......
-Sorry. It's probably my fault.");
+Sorry.
+It's probably my fault.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -66,8 +69,8 @@ too.");
     MsgDisp("Kazama","It depends on how you look at it.
 For us, last is fine, isn't it?");
     MsgDisp("主人公","(Last, huh......
-But ｛風真＊＊｝ doesn't seem to care
-about our rank......)");
+But ｛風真＊＊｝ doesn't seem
+to care about our rank......)");
     break ;
     default :
     DbgAssert(1);

@@ -43,7 +43,8 @@ maybe I was wrong?)");
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250600000_06_030");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! Are you shopping?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+Are you shopping?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -89,8 +90,7 @@ Well, keep up the good work.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(He really did come to
-shop and visit.)");
+    MsgDisp("主人公","(He really did come to shop and visit.)");
     break ;
     case 4:
     case 5:
@@ -99,7 +99,8 @@ shop and visit.)");
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250600000_06_100");
     MsgDisp("Himuro","Hey, miss.");
-    MsgDisp("主人公","Yes! Wait, ｛氷室＊＊｝?");
+    MsgDisp("主人公","Yes!
+Wait, ｛氷室＊＊｝?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,3);
@@ -112,8 +113,7 @@ Looking good.");
     VoicePlay("I250600000_06_120");
     MsgDisp("Himuro","......By the way, how far are you planning
 to carry all those books?");
-    MsgDisp("主人公","Ah, um,
-to the comic section.");
+    MsgDisp("主人公","Ah, um, to the comic section.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);
@@ -145,7 +145,8 @@ Well, good luck.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(Did ｛氷室＊＊｝ just come to cheer me on?
+    MsgDisp("主人公","(Did ｛氷室＊＊｝ just come to
+cheer me on?
 Hehe, I'm happy!)");
     break ;
     default :

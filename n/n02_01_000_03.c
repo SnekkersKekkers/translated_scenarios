@@ -38,9 +38,11 @@ I've got to study harder...)");
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("N020100003_01_030");
-    MsgDisp("Kazama","｛主人公｝. Aren't you quite a
-scatterbrain?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Umm... What do you mean?");
+    MsgDisp("Kazama","｛主人公｝.
+Aren't you quite a scatterbrain?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Umm...
+What do you mean?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -99,8 +101,9 @@ seriously, right?");
     MsgDisp("Kazama","Come on, let's go.
 I'll accompany you today.
 So tell me, where did you go wrong?");
-    MsgDisp("主人公","(Oof... Thank you, ｛風真＊＊｝. I've
-really got to study harder...)");
+    MsgDisp("主人公","(Oof...
+Thank you, ｛風真＊＊｝.
+I've really got to study harder...)");
     break ;
     default :
     DbgAssert(1);

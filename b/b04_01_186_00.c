@@ -25,8 +25,9 @@ was fun.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040118600_01_010");
-    MsgDisp("Kazama","Really? Who was so excited that they threw
-their popcorn?");
+    MsgDisp("Kazama","Really?
+Who was so excited that they threw their
+popcorn?");
     MsgDateResultDisp();
     break ;
     case 2:

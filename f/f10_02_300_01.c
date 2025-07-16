@@ -1,8 +1,9 @@
 BGOpen("sc310",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝
-and... ｛颯砂＊＊｝? )");
+MsgDisp("主人公","(Ah, ｛みちる＊｝,
+｛ひかる＊｝ and...
+｛颯砂＊＊｝? )");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,0,0,30);
@@ -13,16 +14,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100230001_02_000");
-MsgDisp("Sassa","It's you, 
-you came in at a good time.");
+MsgDisp("Sassa","It's you, you came in at a good time.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100230001_21_000");
-MsgDisp("Michiru","Definitely. We have to ask Mari for her
-opinion here.");
-MsgDisp("主人公","Are you talking about
-gap moe again?");
+MsgDisp("Michiru","Definitely.
+We have to ask Mari for her opinion here.");
+MsgDisp("主人公","Are you talking about gap moe again?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -85,7 +84,8 @@ VoicePlay("F100230001_02_030");
 MsgDisp("Sassa","If Hikaru-san was eating a hamburger on a
 street corner, she'd look cool.");
 MsgDisp("主人公","(I see.
-So that's ｛ひかる＊｝'s gap moe...)");
+So that's ｛ひかる＊｝'s
+gap moe...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

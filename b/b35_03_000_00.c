@@ -6,8 +6,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("B350300000_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Oh ｛本多＊＊｝. Everyone's gone home, you
-know?");
+MsgDisp("主人公","Oh ｛本多＊＊｝.
+Everyone's gone home, you know?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

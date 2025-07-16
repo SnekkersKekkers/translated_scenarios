@@ -26,8 +26,7 @@ But in reality, look, everyone gets along");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040521300_05_020");
-    MsgDisp("Hiiragi","I see, 
-this place is an exception.");
+    MsgDisp("Hiiragi","I see, this place is an exception.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,9 +37,8 @@ this place is an exception.");
     ChMouth(5,4);
     ChMotion(5,3);
     VoicePlay("B040521300_05_030");
-    MsgDisp("Hiiragi","Assuming huh...
-that doggy policeman was definitely kind
-to the kitty.");
+    MsgDisp("Hiiragi","Assuming huh... that doggy policeman was
+definitely kind to the kitty.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

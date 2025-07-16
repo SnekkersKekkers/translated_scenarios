@@ -50,8 +50,8 @@ spit at you.");
         VoicePlay("B040421102_04_040");
         MsgDisp("Nanatsumori","Could it be that you're not really
 interested in animals?");
-        MsgDisp("主人公","That's not it but...
-did you want to feed them.");
+        MsgDisp("主人公","That's not it but... did you want to feed
+them.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,2,1);
@@ -74,7 +74,7 @@ You do't have to force yourself.");
         ChEye(4,0);
         ChMouth(4,3);
         VoicePlay("B040421102_04_080");
-        MsgDisp("Nanatsumori","...That's it.
+        MsgDisp("Nanatsumori","... That's it.
 I came up with a good idea.");
         ChEye(4,0);
         ChMouth(4,4);

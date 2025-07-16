@@ -27,8 +27,7 @@ sense of pride.");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("B040506400_05_030");
-MsgDisp("Hiiragi","Yes, 
-shall we start with some yakisoba?");
+MsgDisp("Hiiragi","Yes, shall we start with some yakisoba?");
 MsgDisp("主人公","Hehe, let's do it.");
 ChEye(5,0);
 ChMouth(5,3);
@@ -48,8 +47,8 @@ VoicePlay("B040506400_05_060");
 MsgDisp("Hiiragi","Excuse me, I'll buy two with egg toppings
 please.");
 SEPlay("EV_SE_022",0.8);
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝. The fireworks are about
-to start!");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+The fireworks are about to start!");
 VoicePlay("B040506400_47_000");
 MsgDisp("Night Market Clerk","Thank you～!");
 MsgClose();
@@ -60,7 +59,8 @@ VoicePlay("B040506400_05_070");
 MsgDisp("Hiiragi","Sorry to keep you waiting.
 Let's take our time to enjoy some local
 yakisoba at the fireworks venue.");
-MsgDisp("主人公","Yeah. Let's go!");
+MsgDisp("主人公","Yeah.
+Let's go!");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

@@ -26,8 +26,7 @@ beach is amazing.");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040506200_05_020");
-    MsgDisp("Hiiragi","Ah, 
-don't get too close.");
+    MsgDisp("Hiiragi","Ah, don't get too close.");
     MsgDateResultDisp();
     break ;
     case 2:

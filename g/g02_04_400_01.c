@@ -4,23 +4,23 @@ ChMouth(4,0);
 ChMotion(4,1);
 VoiceEVSPlay(4);
 VoicePlay("G020440001_04_000");
-MsgDisp("Nanatsumori","｛主人公｝. What do you think of men
-who crossdress?");
-MsgDisp("主人公","Umm... like dressing
-androgynously?");
+MsgDisp("Nanatsumori","｛主人公｝.
+What do you think of men who crossdress?");
+MsgDisp("主人公","Umm... like dressing androgynously?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020440001_04_010");
-MsgDisp("Nanatsumori","Uh... well, kind of. Like being a witch or
-dressing as a high school girl.");
+MsgDisp("Nanatsumori","Uh... well, kind of.
+Like being a witch or dressing as a high
+school girl.");
 MsgDisp("主人公","... Like cosplay?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440001_04_020");
-MsgDisp("Nanatsumori","Y-Yeah...
-like cosplay, not crossdressing, okay?");
+MsgDisp("Nanatsumori","Y-Yeah... like cosplay, not crossdressing,
+okay?");
 MsgDisp("主人公","Hehe.");
 ChEye(4,4);
 ChMouth(4,2);
@@ -53,8 +53,9 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440001_04_070");
-MsgDisp("Nanatsumori","Hey. Isn't it true that girls want boys
-that dress up like girls?");
+MsgDisp("Nanatsumori","Hey.
+Isn't it true that girls want boys that
+dress up like girls?");
 MsgDisp("主人公","Huuuh∋");
 ChEye(4,0);
 ChMouth(4,2);
@@ -67,8 +68,9 @@ ChMotion(4,2,1);
 VoicePlay("G020440001_04_090");
 MsgDisp("Nanatsumori","Then, maybe it's just my sister who is
 that kind of person...");
-MsgDisp("主人公","(What is ｛七ツ森＊｝'s older sister
-doing with ｛七ツ森＊｝...∋ )");
+MsgDisp("主人公","(What is ｛七ツ森＊｝'s
+older sister doing with
+｛七ツ森＊｝...∋ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

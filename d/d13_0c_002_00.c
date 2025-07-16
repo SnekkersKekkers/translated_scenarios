@@ -19,7 +19,8 @@ ChEye(5,4);
 ChMotion(5,4);
 VoiceEVSPlay(5);
 VoicePlay("D130C00200_05_000");
-MsgDisp("Hiiragi","｛主人公｝. Are you headed home now?");
+MsgDisp("Hiiragi","｛主人公｝.
+Are you headed home now?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -58,8 +59,7 @@ ChOpen(6,254,7,0,0,#1,#1,0,1,0,30);
 ChOpen(7,37,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("D130C00200_06_020");
-MsgDisp("Himuro","Kojiro-sensei, sorry 
-to keep you waiting.");
+MsgDisp("Himuro","Kojiro-sensei, sorry to keep you waiting.");
 MsgDisp("主人公","｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);

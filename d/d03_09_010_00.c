@@ -15,8 +15,7 @@ BGMPlay("BGM_C09_KUYA_A",0.01);
 ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030901000_09_000");
 MsgDisp("Kuya","Excuse me.");
-MsgDisp("主人公","Eh, Kuya-san, what are you doing
-here?");
+MsgDisp("主人公","Eh, Kuya-san, what are you doing here?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -24,7 +23,7 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030901000_09_010");
 MsgDisp("Kuya","It's been a while, huh?");
 MsgDisp("主人公","Yeah.
-It's been a while......but......");
+It's been a while...... but......");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -67,8 +66,9 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_050");
-MsgDisp("Kuya","Yeah. Are you finished now too? Do you
-have some time to spare?");
+MsgDisp("Kuya","Yeah.
+Are you finished now too?
+Do you have some time to spare?");
 MsgDisp("主人公","Yeah.");
 BGMStop();
 MsgClose();
@@ -97,8 +97,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901000_09_080");
-MsgDisp("Kuya","Chocolate. Because today is Valentine's
-Day.");
+MsgDisp("Kuya","Chocolate.
+Because today is Valentine's Day.");
 MsgDisp("主人公","Eh, but......
 Sorry, I don't have anything prepared——");
 ChEye(9,3);
@@ -129,7 +129,8 @@ ChCheek(9,1);
 VoicePlay("D030901000_09_120");
 MsgDisp("Kuya","By the way, how is it?
 How are your studies going?");
-MsgDisp("主人公","Ah......Yeah, I'm managing.
+MsgDisp("主人公","Ah......
+Yeah, I'm managing.
 What about Kuya-san?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -141,10 +142,12 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030901000_09_140");
-MsgDisp("Kuya","Ah......But yesterday I spent the whole
-day making those chocolates.");
-MsgDisp("主人公","Hehe. It looks really yummy. I'm excited
-to eat it!");
+MsgDisp("Kuya","Ah......
+But yesterday I spent the whole day making
+those chocolates.");
+MsgDisp("主人公","Hehe.
+It looks really yummy.
+I'm excited to eat it!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -167,7 +170,8 @@ ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_170");
 MsgDisp("Kuya","Ah......Is it okay to say that? But you
 know, I'm hopeful. Haha!");
-MsgDisp("主人公","(Hehe! Kuya-san seems to be \"studying\"
-hard! I need to work hard too!)");
+MsgDisp("主人公","(Hehe!
+Kuya-san seems to be \"studying\" hard!
+I need to work hard too!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -38,8 +38,9 @@ skilled players!");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040515101_05_030");
-    MsgDisp("Hiiragi","Agreed. Maybe this way, we can both
-relinquish being unskilled at it?");
+    MsgDisp("Hiiragi","Agreed.
+Maybe this way, we can both relinquish
+being unskilled at it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

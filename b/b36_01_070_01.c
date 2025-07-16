@@ -11,8 +11,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360107001_01_000");
-MsgDisp("Kazama","I'll pick up some 
-clothes that suit you.");
+MsgDisp("Kazama","I'll pick up some clothes that suit you.");
 MsgDisp("主人公","Really?
 Then, I'll do it too.");
 ChEye(1,0);
@@ -20,9 +19,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B360107001_01_010");
 MsgDisp("Kazama","Eh, t-that's fine.
-...I have a bad feeling about this.");
-MsgDisp("主人公","Hehe... then,
-I'll see you later?");
+... I have a bad feeling about this.");
+MsgDisp("主人公","Hehe... then, I'll see you later?");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 Wait(30,1);
@@ -47,7 +45,8 @@ VoicePlay("B360107001_01_040");
 MsgDisp("Kazama","Shh, we'll be found.
 This is an emergency.
 What are those guys doing...");
-MsgDisp("主人公","Wait... ｛風真＊＊｝, this hurts.");
+MsgDisp("主人公","Wait...
+｛風真＊＊｝, this hurts.");
 BGOpen("ne710",0);
 SEPlay("EV_SE_552",0.2);
 Wait(10,0);
@@ -67,8 +66,7 @@ VoicePlay("B360107001_01_060");
 MsgDisp("Kazama","Those guys were there.
 Both of them.");
 MsgDisp("主人公","Eh?
-Then, shall we 
-shop together?");
+Then, shall we shop together?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -76,8 +74,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B360107001_01_070");
 MsgDisp("Kazama","Let's not.
 I want it to be just the two of us.");
-MsgDisp("主人公","I-I see.
-so that's how it is.");
+MsgDisp("主人公","I-I see. so that's how it is.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

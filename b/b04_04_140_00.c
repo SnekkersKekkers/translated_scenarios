@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040414000_04_010");
-    MsgDisp("Nanatsumori","Right! I still haven't cooled down... It
-was awesome!");
+    MsgDisp("Nanatsumori","Right!
+I still haven't cooled down...
+It was awesome!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,7 +28,7 @@ was awesome!");
     ChMouth(4,1);
     ChMotion(4,0,1);
     VoicePlay("B040414000_04_020");
-    MsgDisp("Nanatsumori","...So-so?
+    MsgDisp("Nanatsumori","... So-so?
 What do you mean by \"so-so\"?");
     MsgDateResultDisp();
     break ;

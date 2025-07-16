@@ -1,14 +1,15 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah...... it's my phone. It's from the
-class president.");
+MsgDisp("主人公","Ah...... it's my phone.
+It's from the class president.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("P200000001_45_000");
-MsgDisp("Chairperson","Hello. We are preparing for the cultural
-festival for the next two weeks.");
+MsgDisp("Chairperson","Hello.
+We are preparing for the cultural festival
+for the next two weeks.");
 VoicePlay("P200000001_45_010");
 MsgDisp("Chairperson","At this year's cultural festival, we're
 hosting a school play.
@@ -36,7 +37,8 @@ care.");
     DbgAssert(0);
     break ;
     }
-MsgDisp("主人公","(......I need to get better soon, to help
-with the preparations!)");
+MsgDisp("主人公","(......
+I need to get better soon, to help with
+the preparations!)");
 MsgClose();
 ScrFadeOut(0);

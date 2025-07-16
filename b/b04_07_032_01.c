@@ -39,7 +39,7 @@ You're kinda strict～");
     ChMotion(7,2,1);
     ChEyeOpenLevel(7,8);
     VoicePlay("B040703201_07_030");
-    MsgDisp("Mikage","Yeah, is there? ");
+    MsgDisp("Mikage","Yeah, is there?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

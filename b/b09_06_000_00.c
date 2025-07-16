@@ -17,7 +17,7 @@ properly reflect for wasting someone's
 time. That's all.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","Crap! 
+MsgDisp("主人公","Crap!
 We were supposed to go on a date!");
 MsgClose();
 ScrFadeOut(0,0);

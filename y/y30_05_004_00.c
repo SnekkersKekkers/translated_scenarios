@@ -9,7 +9,8 @@ ScrFadeOut(0);
 BGOpen("ad540",0);
 ScrFadeIn(0);
 VoicePlay("Y300500400_07_000");
-MsgDisp("Mikage","\"Yanosuke! Are you headed home now?
+MsgDisp("Mikage","\"Yanosuke!
+Are you headed home now?
 Should we walk together?\"");
 MsgDisp("","Mikage-sensei is a homeroom teacher.
 He's not even an advisor for the
@@ -19,8 +20,9 @@ MsgDisp("","But, he always looks out for me like
 this.");
 MsgClear();
 VoicePlay("Y300500400_05_000");
-MsgDisp("Hiiragi","\"Yes. Mikage-sensei, Didn't you go on
-a bike today\"");
+MsgDisp("Hiiragi","\"Yes.
+Mikage-sensei, Didn't you go on a
+bike today\"");
 MsgDisp("","As I said that, he touches the tie on
 his suit, and says; \"Today is no good
 huh?\" and gives me a smile that makes
@@ -65,14 +67,16 @@ ScrFadeOut(0);
 VoicePlay("Y300500400_06_000");
 MsgDisp("Himuro","\"Yanosuke-senpai, are you heading
 home now?\"");
-MsgDisp("","——\"Senpai\". The only one who calls
-me that is Himuro Inori-kun.");
+MsgDisp("","——\"Senpai\".
+The only one who calls me that is
+Himuro Inori-kun.");
 MsgClear();
 BGOpen("ad542",0);
 ScrFadeIn(0);
 VoicePlay("Y300500400_05_030");
-MsgDisp("Hiiragi","\"Yes. Inori-kun, if it's alright with
-you, let's go together.\"");
+MsgDisp("Hiiragi","\"Yes.
+Inori-kun, if it's alright with you,
+let's go together.\"");
 VoicePlay("Y300500400_06_010");
 MsgDisp("Himuro","\"Ah, Kojiro-sensei is here too?
 I didn't notice because your clothes

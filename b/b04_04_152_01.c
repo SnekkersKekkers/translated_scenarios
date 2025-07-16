@@ -7,7 +7,7 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040415201_04_000");
 MsgDisp("Nanatsumori","A girl holding a dart.
-...It's kind of cool.");
+... It's kind of cool.");
 MsgSel("Does the form look good?","I'm getting shy...","Shh, be quiet!");
 switch (MsgSelRsltGet()){
     case 0:

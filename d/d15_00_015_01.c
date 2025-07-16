@@ -14,7 +14,8 @@ ChEyeOpenLevel ( 5,8 ) ;
 VoicePlay ( "D150001501_05_000" ) ;
 MsgDisp ( "Hiiragi","Are you interested?
 You are always welcome to join." ) ;
-MsgDisp ( "主人公","Ehh, ｛風真＊＊｝ and the Theater Company∋" ) ;
+MsgDisp ( "主人公","Ehh, ｛風真＊＊｝ and the
+Theater Company∋" ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,2 ) ;
 ChMotion ( 1,1 ) ;
@@ -37,13 +38,14 @@ ChMotion ( 1,0 ) ;
 ChEyeOpenLevel ( 1,8 ) ;
 VoicePlay ( "D150001501_01_020" ) ;
 MsgDisp ( "Kazama","Ah, you're totally laughing right now." ) ;
-MsgDisp ( "主人公","Uhm, we're not. That kind of thing
-is......" ) ;
+MsgDisp ( "主人公","Uhm, we're not.
+That kind of thing is......" ) ;
 ChEye ( 5,0 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150001501_05_020" ) ;
-MsgDisp ( "Hiiragi","Yes. She was laughing." ) ;
+MsgDisp ( "Hiiragi","Yes.
+She was laughing." ) ;
 MsgDisp ( "主人公","Ehh∋" ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;

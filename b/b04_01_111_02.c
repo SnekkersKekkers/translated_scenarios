@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040111102_01_010");
-    MsgDisp("Kazama","Right? Despite the cold, I'm all heated
-up.");
+    MsgDisp("Kazama","Right?
+Despite the cold, I'm all heated up.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -69,8 +69,7 @@ I'm sorry.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040111102_01_050");
-        MsgDisp("Kazama","No, I just didn't teach
-you properly.");
+        MsgDisp("Kazama","No, I just didn't teach you properly.");
         MsgDisp("主人公","Huh?");
         ChEye(1,4);
         ChMouth(1,2);
@@ -105,12 +104,13 @@ Then I feel like I'm being relied on...");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040111102_01_090");
-        MsgDisp("Kazama","ＯＫ! I'm prepared now. Here, give me your
-hand.");
+        MsgDisp("Kazama","ＯＫ!
+I'm prepared now.
+Here, give me your hand.");
         SEPlay("EV_SE_760");
         SEWait();
-        MsgDisp("主人公","(Huh? Feels like something's different
-now...)");
+        MsgDisp("主人公","(Huh?
+Feels like something's different now...)");
         break ;
         default :
         DbgAssert(1);

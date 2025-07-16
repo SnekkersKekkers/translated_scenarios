@@ -7,10 +7,11 @@ VoicePlay("F100330000_21_000");
 MsgDisp("Michiru?","I'm really happy to receive support from
 girls in elementary and middle school.");
 VoicePlay("F100330000_03_000");
-MsgDisp("Honda?","Really? My little sister will be happy
-too!");
-MsgDisp("主人公","(Ah... it's ｛本多＊＊｝, ｛ひかる＊｝
-and ｛みちる＊｝'s voices.)");
+MsgDisp("Honda?","Really?
+My little sister will be happy too!");
+MsgDisp("主人公","(Ah... it's ｛本多＊＊｝,
+｛ひかる＊｝ and
+｛みちる＊｝'s voices.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -42,11 +43,10 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100330000_22_020");
-MsgDisp("Hikaru","That's right, it's a 
-super cute lette♪");
+MsgDisp("Hikaru","That's right, it's a super cute letter♪");
 ChMouth(21,0);
-MsgDisp("主人公","I see, so ｛本多＊＊｝'s sister is a fan of
-you two?");
+MsgDisp("主人公","I see, so ｛本多＊＊｝'s sister is
+a fan of you two?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -64,8 +64,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("F100330000_03_020");
-MsgDisp("Honda","Eh? Can I not call you Hikachan and
-Chiruchan? My sister calls you that.");
+MsgDisp("Honda","Eh?
+Can I not call you Hikachan and Chiruchan?
+My sister calls you that.");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -103,10 +104,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F100330000_22_050");
-MsgDisp("Hikaru","The only one who likes 
-them is Dahon.");
-MsgDisp("主人公","(Pika-chan, Chiru-chan, Dahon, Mari...I
-wonder what other people would think if
+MsgDisp("Hikaru","The only one who likes them is Dahon.");
+MsgDisp("主人公","(Pika-chan, Chiru-chan, Dahon, Mari...
+I wonder what other people would think if
 they heard that?)");
 BGMStop();
 MsgClose();

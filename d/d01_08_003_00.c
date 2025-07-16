@@ -7,7 +7,8 @@ SEPlay("EV_SE_544");
 ChOpen(8,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(8);
 VoicePlay("D010800300_08_000");
-MsgDisp("Shirahane","｛主人公｝, I've been waiting for ya!");
+MsgDisp("Shirahane","｛主人公｝, I've been
+waiting for ya!");
 MsgDisp("主人公","Ah, ｛大地＊＊｝!");
 ChEye(8,3);
 ChMouth(8,3);
@@ -32,13 +33,13 @@ BGMPlay("BGM_C08_DAICHI_I",0.01);
 ScrFadeIn(0);
 SEWait();
 VoicePlay("D010800300_08_030");
-MsgDisp("Shirahane","Surprise∈
-All correct answers.");
+MsgDisp("Shirahane","Surprise∈ All correct answers.");
 MsgDisp("主人公","Is this your test?");
 StlEye(8,1);
 VoicePlay("D010800300_08_040");
-MsgDisp("Shirahane","Ya. It's been a while since I got a
-perfect score!");
+MsgDisp("Shirahane","Ya.
+It's been a while since I got a perfect
+score!");
 MsgDisp("主人公","Amazing!");
 StlEye(8,0);
 VoicePlay("D010800300_08_050");
@@ -57,8 +58,8 @@ BGOpen("sc130",1);
 MsgClose();
 ChOpen(8,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛大地＊＊｝ and ｛本多＊＊｝ know each
-other?");
+MsgDisp("主人公","｛大地＊＊｝ and
+｛本多＊＊｝ know each other?");
 ChEye(8,0);
 ChMouth(8,0);
 VoicePlay("D010800300_08_070");
@@ -86,12 +87,13 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("D010800300_08_100");
-MsgDisp("Shirahane","Hehe! Since we're already here, wanna go
-home together?");
+MsgDisp("Shirahane","Hehe!
+Since we're already here, wanna go home
+together?");
 MsgDisp("主人公","Sure!");
 MsgDisp("主人公","(......Come to think of it, where did
-｛本多＊＊｝ get the Perfect Score Anpan
-from anyway?)");
+｛本多＊＊｝ get the Perfect
+Score Anpan from anyway?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

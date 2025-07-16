@@ -5,8 +5,8 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("H480700000_07_000");
 MsgDisp("Mikage","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝! So you came to
-support me.");
+MsgDisp("主人公","Ah, ｛御影＊＊｝!
+So you came to support me.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -31,8 +31,9 @@ MsgDisp("Mikage","But I'll still be clapping as hard as I
 can, okay?
 Good luck.");
 MsgDisp("主人公","Yes, I'll be doing my best as well!");
-MsgDisp("主人公","(Alright! I'll give a performance worth
-showing off to ｛御影＊＊｝! )");
+MsgDisp("主人公","(Alright!
+I'll give a performance worth showing off
+to ｛御影＊＊｝! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

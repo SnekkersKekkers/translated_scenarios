@@ -5,8 +5,8 @@ ChMouth(4,3);
 ChMotion(4,3);
 ScrFadeIn(0);
 VoicePlay("B040406200_04_000");
-MsgDisp("Nanatsumori","Oh... This feels like going into another
-world.");
+MsgDisp("Nanatsumori","Oh...
+This feels like going into another world.");
 MsgSel("The air here is cool and refreshing","I wonder if the water here is deep?","The water glows blue like a jewel...");
 switch (MsgSelRsltGet()){
     case 0:

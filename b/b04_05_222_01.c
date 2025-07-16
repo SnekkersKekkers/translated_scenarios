@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("B040522201_05_010");
-    MsgDisp("Hiiragi","Hey, don't say that
-even if you think so.");
+    MsgDisp("Hiiragi","Hey, don't say that even if you think so.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

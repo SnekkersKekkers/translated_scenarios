@@ -14,7 +14,8 @@ switch (ChPrmGet(4,6)){
     case 5:
     VoicePlay("J040400000_04_000");
     MsgDisp("Nanatsumori","Found you.");
-    MsgDisp("主人公","｛七ツ森＊｝, what's wrong?");
+    MsgDisp("主人公","｛七ツ森＊｝, what's
+wrong?");
     ChMotion(4,1,1);
     VoicePlay("J040400000_04_010");
     MsgDisp("Nanatsumori","This Sunday.
@@ -28,8 +29,8 @@ Are you free?");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("J040400000_04_020");
-        MsgDisp("Nanatsumori","Errands...... Then I guess I don't have a
-choice.");
+        MsgDisp("Nanatsumori","Errands......
+Then I guess I don't have a choice.");
         MsgDisp("主人公","Sorry.");
         ChEye(4,2);
         ChMouth(4,3);

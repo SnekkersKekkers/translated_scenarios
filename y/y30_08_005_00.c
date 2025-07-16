@@ -4,8 +4,8 @@ BGOpen("ad850",0);
 ScrFadeIn(0);
 MsgDisp("","I've gotten too accustomed to waitin'
 for her at the gates of Haba High.");
-MsgDisp("","I wonder why...
-my hearts beatin' fast.");
+MsgDisp("","I wonder why... my hearts beatin'
+fast.");
 MsgDisp("","Even the glances I get from people
 passin' by in different school
 uniforms have started to feel kind of
@@ -25,17 +25,18 @@ VoicePlay("Y300800500_41_020");
 MsgDisp("Male Student B","\"Maybe he's here challenging a club
 member somewhere for a duel?\"");
 VoicePlay("Y300800500_40_030");
-MsgDisp("Male Student A","\"Seriously? Well, the track team
-should be fine though.\"");
-MsgDisp("","...Hmm, now I'm curious.
+MsgDisp("Male Student A","\"Seriously?
+Well, the track team should be fine
+though.\"");
+MsgDisp("","... Hmm, now I'm curious.
 Is the track and field club at Haba
 High really that amazin'?");
 MsgClear();
 MsgDisp("","For a while, I stood by the gate,
 being tickled by all the whispers I
 heard around me.");
-MsgDisp("","But... she's late. Maybe, she already
-went home today∋");
+MsgDisp("","But... she's late.
+Maybe, she already went home today∋");
 MsgDisp("","Feeling anxious, I looked restlessly
 around the entrance and the school
 buildin'.");
@@ -47,8 +48,8 @@ VoicePlay("Y300800500_08_000");
 MsgDisp("Daichi","\"Waa∈\"");
 MsgDisp("","Hearing a voice abruptly call out to
 me behind me, I jumped up.");
-MsgDisp("","Whoa, this teacher is really tall
-...And the look in his eyes is kinda
+MsgDisp("","Whoa, this teacher is really tall ...
+And the look in his eyes is kinda
 scary?");
 MsgClear();
 VoicePlay("Y300800500_32_010");
@@ -75,7 +76,8 @@ VoicePlay("Y300800500_32_020");
 MsgDisp("VP Himuro","\"I see... very well. But, if your
 friend continues to run late, you too
 should give up and go home.\"");
-MsgDisp("","\"Yes.\" I answered.");
+MsgDisp("","\"Yes.\"
+I answered.");
 MsgDisp("","What... he's actually a nice teacher!");
 MsgClear();
 BGOpen("ad850",0);
@@ -90,7 +92,8 @@ MsgDisp("主人公","\"｛大地＊＊｝, what are you doing
 here?\"");
 VoicePlay("Y300800500_08_030");
 MsgDisp("Daichi","\"I thought it would be nice to see
-you, so I waited here. Heheh!\"");
+you, so I waited here.
+Heheh!\"");
 MsgDisp("","Alright, today we got to walk home
 together♪");
 BGMStop();

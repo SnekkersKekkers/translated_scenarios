@@ -32,8 +32,9 @@ MsgDisp("Goro","It's starting, huh?
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Okay. I'll show you the results of my
-practice so that you'll be satisfied!)");
+MsgDisp("主人公","(Okay.
+I'll show you the results of my practice
+so that you'll be satisfied!)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc725",0);

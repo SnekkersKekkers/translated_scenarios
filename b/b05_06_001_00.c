@@ -12,9 +12,10 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B050600100_06_000");
-MsgDisp("Himuro","Ah, hey......but, that's incorrect.
+MsgDisp("Himuro","Ah, hey...... but, that's incorrect.
 We're just friends.");
-MsgDisp("主人公","Uhm......｛氷室＊＊｝, do you come here
+MsgDisp("主人公","Uhm......
+｛氷室＊＊｝, do you come here
 often?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -67,7 +68,8 @@ StlOpen("ev_06_03");
 StlEye(6,0);
 StlMouth(6,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Woah...... ｛氷室＊＊｝ is playing......!");
+MsgDisp("主人公","Woah......
+｛氷室＊＊｝ is playing......!");
 VoicePlay("B050600100_34_040");
 MsgDisp("Band Guy","You're going hard!");
 StlEye(6,1);
@@ -82,8 +84,7 @@ StlEyeOpenLevel(6,5);
 VoicePlay("B050600100_06_070");
 MsgDisp("Himuro","......My rhythm is messy.");
 VoicePlay("B050600100_34_050");
-MsgDisp("Band Guy","Alright, let's have a quick jam
-session.");
+MsgDisp("Band Guy","Alright, let's have a quick jam session.");
 Wait(30,0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -98,7 +99,8 @@ ScrFadeIn(0);
 ChOpen(6,255,2,0,2,0,#1,0,0);
 VoicePlay("B050600100_06_080");
 MsgDisp("Himuro","......Sigh.");
-MsgDisp("主人公","｛氷室＊＊｝! That was really amazing.");
+MsgDisp("主人公","｛氷室＊＊｝!
+That was really amazing.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -106,7 +108,8 @@ ChCheek(6,5);
 VoicePlay("B050600100_06_090");
 MsgDisp("Himuro","Not really.
 I just did whatever.");
-MsgDisp("主人公","Eh? Whatever?");
+MsgDisp("主人公","Eh?
+Whatever?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -150,7 +153,8 @@ VoicePlay("B050600100_06_150");
 MsgDisp("Himuro","Excuse me!
 Would it be okay for me to borrow your
 bass again?");
-MsgDisp("主人公","W-Wait a minute! ｛氷室＊＊｝, geez......!");
+MsgDisp("主人公","W-Wait a minute!
+｛氷室＊＊｝, geez......!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

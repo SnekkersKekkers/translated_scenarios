@@ -42,8 +42,8 @@ trip around the world.");
     ChMouth(4,2);
     ChMotion(4,4,1);
     VoicePlay("B040409001_04_030");
-    MsgDisp("Nanatsumori","Shh, you're being too loud!
-...it's embarrassing.");
+    MsgDisp("Nanatsumori","Shh, you're being too loud! ...it's
+embarrassing.");
     MsgDateResultDisp();
     break ;
     default :

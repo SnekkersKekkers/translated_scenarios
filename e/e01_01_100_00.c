@@ -1,7 +1,7 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","...Alright.
+MsgDisp("主人公","... Alright.
 Time to head home.");
 VoiceEVSPlay(1);
 VoicePlay("E010110000_01_000");
@@ -9,7 +9,8 @@ MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛風真＊＊｝, what a coincidence.");
+MsgDisp("主人公","｛風真＊＊｝, what a
+coincidence.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,4);

@@ -3,7 +3,7 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0);
 VoicePlay("G020430101_04_000");
-MsgDisp("Nanatsumori","Ah......look, over there.
+MsgDisp("Nanatsumori","Ah...... look, over there.
 There are a lot of fireflies gathered.");
 MsgDisp("主人公","There really is!
 It's only over there where there's a lot
@@ -12,8 +12,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020430101_04_010");
-MsgDisp("Nanatsumori","Yeah. I guess there's a popular firefly
-there.");
+MsgDisp("Nanatsumori","Yeah.
+I guess there's a popular firefly there.");
 MsgDisp("主人公","Ahaha!");
 ChEye(4,0);
 ChMouth(4,4);
@@ -45,8 +45,9 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("G020430101_04_060");
-MsgDisp("Nanatsumori","Haha! Yeah, yeah, that sort of reaction
-makes me want to never let you go.");
+MsgDisp("Nanatsumori","Haha!
+Yeah, yeah, that sort of reaction makes me
+want to never let you go.");
 MsgDisp("主人公","Eh?");
 ChEye(4,4);
 ChMouth(4,3);
@@ -54,8 +55,8 @@ ChMotion(4,2,1);
 VoicePlay("G020430101_04_070");
 MsgDisp("Nanatsumori","Nah.
 That's a matter for myself.");
-MsgDisp("主人公","(Friends...... I guess I might have a lot
-of them.)");
+MsgDisp("主人公","(Friends......
+I guess I might have a lot of them.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

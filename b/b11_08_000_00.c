@@ -79,13 +79,14 @@ ChMouth(8,3);
 ChMotion(8,4,1);
 ChPosition(8,0);
 VoicePlay("B110800000_08_040");
-MsgDisp("Shirahane","Haha! This guy's actually pretty good at
-playing along, huh!");
+MsgDisp("Shirahane","Haha!
+This guy's actually pretty good at playing
+along, huh!");
 MsgDisp("主人公","Hehe!");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B110800000_08_050");
-MsgDisp("Shirahane","...I'm glad nothing happened.
+MsgDisp("Shirahane","... I'm glad nothing happened.
 I'll be more careful next time, so forgive
 me.");

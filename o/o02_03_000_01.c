@@ -14,8 +14,9 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O020300001_03_000");
-    MsgDisp("Honda","Hm...... The other team was really in
-sync. Did the all practice together?");
+    MsgDisp("Honda","Hm......
+The other team was really in sync.
+Did the all practice together?");
     MsgDisp("主人公","(I lost......
 I wish I tried harder.)");
     break ;
@@ -26,7 +27,7 @@ I wish I tried harder.)");
     VoicePlay("O020300001_03_010");
     MsgDisp("Honda","It looked like either team could've won
 today's match.
-......Until halfway through.");
+...... Until halfway through.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0);

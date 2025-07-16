@@ -25,19 +25,22 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChOpen(2,253,3,5,0,#1,#1,0,2);
 VoicePlay("B050200300_02_000");
-MsgDisp("Sassa","Eh? The world-renown fashion icon, that
+MsgDisp("Sassa","Eh?
+The world-renown fashion icon, that
 Goro-sensei?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,1);
 VoicePlay("B050200300_31_020");
-MsgDisp("Goro","Mmhm. Hey, isn't that guy with you a
-diamond in the rough?");
+MsgDisp("Goro","Mmhm.
+Hey, isn't that guy with you a diamond in
+the rough?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B050200300_02_010");
-MsgDisp("Sassa","Diamond in the rough......You mean me?");
+MsgDisp("Sassa","Diamond in the rough......
+You mean me?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
@@ -86,17 +89,17 @@ StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
 VoicePlay("B050200300_31_060");
-MsgDisp("Goro","I polished your rough diamond
-a little▼");
-MsgDisp("主人公","Woah! ｛颯砂＊＊｝ looks so mature!");
+MsgDisp("Goro","I polished your rough diamond a little▼");
+MsgDisp("主人公","Woah!
+｛颯砂＊＊｝ looks so mature!");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200300_02_030");
-MsgDisp("Sassa","......Yeah. This is my first time looking
-so cool.");
+MsgDisp("Sassa","...... Yeah.
+This is my first time looking so cool.");
 VoicePlay("B050200300_31_070");
-MsgDisp("Goro","Yep. I went with \"Goro's Fresh
-Collection\"\"!");
+MsgDisp("Goro","Yep.
+I went with \"Goro's Fresh Collection\"\"!");
 MsgDisp("主人公","Ah, that fashion collection is featured on
 Habatcher......");
 StlEye(2,1);
@@ -108,14 +111,16 @@ MsgDisp("Sassa","A-Am I your model......∋");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("B050200300_31_080");
-MsgDisp("Goro","Nonono～ I'm just trying out the clothes
-on your body.");
+MsgDisp("Goro","Nonono～
+I'm just trying out the clothes on your
+body.");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
 BGMVol(0.5,2);
 VoicePlay("B050200300_02_050");
-MsgDisp("Sassa","Ah......I see......
+MsgDisp("Sassa","Ah......
+I see......
 Of course.");
 VoicePlay("B050200300_31_090");
 MsgDisp("Goro","Those clothes are from Agel.

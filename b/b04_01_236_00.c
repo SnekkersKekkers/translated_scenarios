@@ -50,8 +50,7 @@ The opposite to a mermaid.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040123600_01_030");
-    MsgDisp("Kazama","Yeah, I can see your
-face so well.");
+    MsgDisp("Kazama","Yeah, I can see your face so well.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

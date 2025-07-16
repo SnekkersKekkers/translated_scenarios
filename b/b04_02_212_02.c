@@ -44,9 +44,9 @@ this.");
         MsgDisp("Sassa","It's amazing that he makes so many people
 happy like this.
 I want to be that kind of person");
-        MsgDisp("主人公","I think ｛颯砂＊＊｝ is an amazing player
-that both surprises and entertains
-everyone?");
+        MsgDisp("主人公","I think ｛颯砂＊＊｝ is an
+amazing player that both surprises and
+entertains everyone?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -54,22 +54,22 @@ everyone?");
         MsgDisp("Sassa","I see, I'll try my best to become like
 that...then maybe I can be made into some
 kind of mascot character?");
-        MsgDisp("主人公","Hehe, if` it's ｛颯砂＊＊｝, how about a
-character like that horse plushie?");
+        MsgDisp("主人公","Hehe, if` it's ｛颯砂＊＊｝, how
+about a character like that horse plushie?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040221202_02_050");
         MsgDisp("Sassa","Oh, a big horse that runs fast, a
-thoroughbred...
-that's nice.");
+thoroughbred... that's nice.");
         MsgDisp("主人公","Yeah, shall we buy it to take home?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040221202_02_060");
         MsgDisp("Sassa","Then, let's find a plush that looks like
-you! If I'm a horse, you're a... pony?");
+you!
+If I'm a horse, you're a... pony?");
         MsgDisp("主人公","(Umm... are we limited to horses?)");
         break ;
         default :

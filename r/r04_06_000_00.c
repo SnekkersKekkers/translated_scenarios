@@ -16,7 +16,9 @@ switch (ChPrmGet(6,6)){
     VoicePlay("R040600000_06_010");
     MsgDisp("Himuro","Everyone's having a good time, huh.
 You too?");
-    MsgDisp("主人公","Hehe. I guess. Aren't you not, ｛氷室＊＊｝?");
+    MsgDisp("主人公","Hehe.
+I guess.
+Aren't you not, ｛氷室＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -33,16 +35,17 @@ You too?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("R040600000_06_040");
-    MsgDisp("Himuro","Well. It's a school event, so I can't
-afford to skip it.");
+    MsgDisp("Himuro","Well.
+It's a school event, so I can't afford to
+skip it.");
     MsgDisp("主人公","Hehe, you're so disciplined.");
     ChEye(6,2);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("R040600000_06_050");
-    MsgDisp("Himuro","I'll follow the rules of society. ... I'm
-not used to this kind of event.");
+    MsgDisp("Himuro","I'll follow the rules of society.
+... I'm not used to this kind of event.");
     break ;
     case 4:
     case 5:
@@ -51,7 +54,8 @@ not used to this kind of event.");
     VoiceEVSPlay(6);
     VoicePlay("R040600000_06_060");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. Merry Christmas!");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Merry Christmas!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

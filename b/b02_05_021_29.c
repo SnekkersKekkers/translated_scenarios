@@ -13,5 +13,5 @@ ChMotion(5,0);
 VoicePlay("B020502129_05_020");
 MsgDisp("Hiiragi","Well, perhaps it's limited just to you.");
 MsgDisp("主人公","(Oh, good.
-｛柊＊＊＊｝ seems to have come to like
-these clothes.)");
+｛柊＊＊＊｝ seems to have come
+to like these clothes.)");

@@ -10,8 +10,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040204600_02_000");
-    MsgDisp("Sassa","I guess I can understand how it
-was good.");
+    MsgDisp("Sassa","I guess I can understand how it was good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

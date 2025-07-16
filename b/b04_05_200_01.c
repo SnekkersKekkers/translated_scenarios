@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("B040520001_05_010");
-    MsgDisp("Hiiragi","I'm sorry for the 
-trouble every time...");
+    MsgDisp("Hiiragi","I'm sorry for the trouble every time...");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -39,8 +38,8 @@ I'll believe in your words...");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040520001_05_030");
-    MsgDisp("Hiiragi","Really! The intermediate course might be
-near.");
+    MsgDisp("Hiiragi","Really!
+The intermediate course might be near.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

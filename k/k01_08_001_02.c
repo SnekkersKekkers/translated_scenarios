@@ -18,8 +18,7 @@ ChMotion(8,3,1);
 VoicePlay("K010800102_08_020");
 MsgDisp("Shirahane","Your feelings make me happy already.
 I'll cherish it.");
-MsgDisp("主人公","(Yeah, seems like
-he liked it.)");
+MsgDisp("主人公","(Yeah, seems like he liked it.)");
 MsgClose();
 BGMStop();
 MsgClose();

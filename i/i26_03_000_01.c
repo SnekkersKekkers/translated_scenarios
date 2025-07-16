@@ -24,8 +24,8 @@ since you just started.");
     VoicePlay("I260300000_03_140");
     MsgDisp("Honda","But you can't just try hard, you have to
 rest properly, too.");
-    MsgDisp("主人公","......Okay. Then, can I leave the rest to
-you?");
+    MsgDisp("主人公","...... Okay.
+Then, can I leave the rest to you?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -33,7 +33,8 @@ you?");
     VoicePlay("I260300000_03_150");
     MsgDisp("Honda","Of course!");
     MsgDisp("主人公","(I'll let myself be spoiled by
-｛本多＊＊｝, and take a little break.)");
+｛本多＊＊｝, and take a little
+break.)");
     break ;
     case 4:
     case 5:
@@ -42,30 +43,34 @@ you?");
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,0,4,#1,#1,0,0,0,5);
     VoicePlay("I260300000_03_160");
-    MsgDisp("Honda","Hm?　What's up?");
+    MsgDisp("Honda","Hm?
+What's up?");
     MsgDisp("主人公","The other day, we did a \"Draw your
 favorite person\" contest here, right?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_170");
-    MsgDisp("Honda","Yeah! As a small, local bookstore, we need
-a good reputation with the community!");
+    MsgDisp("Honda","Yeah!
+As a small, local bookstore, we need a
+good reputation with the community!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_180");
-    MsgDisp("Honda","......And, the manager planned the event,
+    MsgDisp("Honda","...... And, the manager planned the event,
 right?
 I heard a lot of people applied.");
-    MsgDisp("主人公","Right. About that, one of the little girls
-who comes here often......");
+    MsgDisp("主人公","Right.
+About that, one of the little girls who
+comes here often......");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("I260300000_03_190");
-    MsgDisp("Honda","Ah! Is this a portrait of you? She
-captured your traits well!");
+    MsgDisp("Honda","Ah!
+Is this a portrait of you?
+She captured your traits well!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -77,8 +82,7 @@ recognize your hard work.");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_210");
-    MsgDisp("Honda","Even I didn't get a portrait,
-you know?");
+    MsgDisp("Honda","Even I didn't get a portrait, you know?");
     MsgDisp("主人公","(A portrait of someone you like......
 Alright, let's work even harder!)");
     break ;

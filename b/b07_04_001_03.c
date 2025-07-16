@@ -7,13 +7,15 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_170");
-MsgDisp("Nanatsumori","Maybe? Not really.");
+MsgDisp("Nanatsumori","Maybe?
+Not really.");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B070400001_04_180");
-MsgDisp("Nanatsumori","Haa... Really, I never thought I'd live
-such a lively high school lifeー......");
+MsgDisp("Nanatsumori","Haa...
+Really, I never thought I'd live such a
+lively high school lifeー......");
 MsgDisp("主人公","Hehe!");
 ChEye(4,4);
 ChMouth(4,3);
@@ -62,9 +64,9 @@ In a good way");
 VoicePlay("B070400001_04_260");
 MsgDisp("Nanatsumori","That's why, now...
 Every day is so fulfilling, really.");
-MsgDisp("主人公","(Hehe! It's not just ｛七ツ森＊｝,
-Everyone else is also definitely
-fulfilled.)");
+MsgDisp("主人公","(Hehe! It's not just
+｛七ツ森＊｝, Everyone
+else is also definitely fulfilled.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

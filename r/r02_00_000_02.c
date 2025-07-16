@@ -7,6 +7,7 @@ Habataki High School Christmas party. May
 today...");
 VoicePlay("R020000002_41_010");
 MsgDisp("Student Rep","May today be one of your best memories!
-Merry! Christmas∈");
+Merry!
+Christmas∈");
 MsgClose();
 ScrFadeOut(0,0);

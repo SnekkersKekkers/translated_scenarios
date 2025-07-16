@@ -12,10 +12,11 @@ switch (ChPrmGet(5,6)){
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,255,0,2,2,8,#1,0,0);
     VoicePlay("I450500000_05_010");
-    MsgDisp("Hiiragi","......Oh my?
-Why are you......
-are we back at the school?");
-    MsgDisp("主人公","Huh? This is flower shop Annallee.
+    MsgDisp("Hiiragi","...... Oh my?
+Why are you...... are we back at the
+school?");
+    MsgDisp("主人公","Huh?
+This is flower shop Annallee.
 ｛柊＊＊＊｝, what is it?");
     ChEye(5,3);
     ChMouth(5,2);
@@ -23,7 +24,8 @@ are we back at the school?");
     ChEyeOpenLevel(5,#1);
     VoicePlay("I450500000_05_020");
     MsgDisp("Hiiragi","Hm?
-Ah, aah. I understand.");
+Ah, aah.
+I understand.");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -47,7 +49,8 @@ Well then......");
     ChClose(5);
     VoicePlay("I450500000_05_050");
     MsgDisp("Hiiragi","Haa......");
-    MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is okay?
+    MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is
+okay?
 His work seems tough......)");
     break ;
     case 3:
@@ -59,7 +62,8 @@ His work seems tough......)");
     MsgDisp("Hiiragi","Excuse me.
 You're working quite hard?");
     MsgDisp("主人公","Yes, hello.
-Are you working too, ｛柊＊＊＊｝?");
+Are you working too,
+｛柊＊＊＊｝?");
     VoicePlay("I450500000_05_070");
     MsgDisp("Hiiragi","No, I'm merely running errands.
 Is the mini bouquet I had requested for a
@@ -69,7 +73,7 @@ gift ready?");
     ChMotion(5,4);
     VoicePlay("I450500000_05_080");
     MsgDisp("Hiiragi","Yes, it's beautiful.
-......Is this perhaps your work?");
+...... Is this perhaps your work?");
     MsgDisp("主人公","No, I just helped.");
     ChMotion(5,0);
     VoicePlay("I450500000_05_090");
@@ -84,7 +88,8 @@ Thank you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(I did it, ｛柊＊＊＊｝ praised me!)");
+    MsgDisp("主人公","(I did it, ｛柊＊＊＊｝ praised
+me!)");
     break ;
     case 4:
     case 5:
@@ -93,7 +98,8 @@ Thank you.");
     ChOpen(5,255,0,4,4,#1,#1,0,0);
     VoicePlay("I450500000_05_110");
     MsgDisp("Hiiragi","Good evening.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Welcome.");
     VoicePlay("I450500000_05_120");
     MsgDisp("Hiiragi","I had some free time today, and as such I
 have come to see the beautiful flowers.");
@@ -146,14 +152,15 @@ As I'd expect from you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! You forgot your flowers!");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+You forgot your flowers!");
     VoicePlay("I450500000_05_180");
     MsgDisp("Hiiragi","It is a present for you and the store.
 Please display it anywhere you'd like.");
     MsgDisp("主人公","Huh∋
 Th-Thank you!");
-    MsgDisp("主人公","(｛柊＊＊＊｝...... Yeah, let's display it
-with care!)");
+    MsgDisp("主人公","(｛柊＊＊＊｝......
+Yeah, let's display it with care!)");
     break ;
     default :
     DbgAssert(1);

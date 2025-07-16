@@ -6,7 +6,8 @@ ChMotion(7,0);
 VoicePlay("P640700005_07_000");
 MsgDisp("Mikage","....Occasionally you see these kinds of
 stores.");
-MsgDisp("主人公","Umm... ｛御影＊＊｝, how is it?");
+MsgDisp("主人公","Umm...
+｛御影＊＊｝, how is it?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -37,8 +38,8 @@ VoicePlay("P640700005_07_040");
 MsgDisp("Mikage","Listen, we're the Gardening Club, so pay
 respect to the ingredients?");
 MsgDisp("主人公","Yes...");
-MsgDisp("主人公","(Haa... I should have prepared more
-carefully...)");
+MsgDisp("主人公","(Haa...
+I should have prepared more carefully...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

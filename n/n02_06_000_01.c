@@ -8,7 +8,8 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600001_06_000");
     MsgDisp("Himuro","Huh.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝. You came to see me?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+You came to see me?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

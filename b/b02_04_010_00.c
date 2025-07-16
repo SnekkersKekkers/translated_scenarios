@@ -28,6 +28,6 @@ VoicePlay("B020401000_04_020");
 MsgDisp("Nanatsumori","Haa... Instead of praising you for that
 critical hit, I've got an electric current
 through my body.");
-MsgDisp("主人公","(Hehe ｛七ツ森＊｝ seems to really like
-this swimsuit!)");
+MsgDisp("主人公","(Hehe ｛七ツ森＊｝ seems
+to really like this swimsuit!)");
 ChCheek(4,5);

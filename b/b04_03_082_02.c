@@ -81,10 +81,11 @@ bugs, it's weird huh?");
 feelings.");
         ChSet(3,5);
         VoicePlay("B040308202_03_080");
-        MsgDisp("Honda","Ehh! Could it be that it doesn't click for
-you too?");
-        MsgDisp("主人公","No, ｛本多＊＊｝'s conversations are super
-interesting.");
+        MsgDisp("Honda","Ehh!
+Could it be that it doesn't click for you
+too?");
+        MsgDisp("主人公","No, ｛本多＊＊｝'s conversations
+are super interesting.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMouth(3,3);
@@ -105,8 +106,8 @@ huh?)");
     ChEye(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040308202_03_100");
-    MsgDisp("Honda","Exercise... Yep yep, that might be good
-too.");
+    MsgDisp("Honda","Exercise...
+Yep yep, that might be good too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

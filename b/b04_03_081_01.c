@@ -31,8 +31,9 @@ well-developed crystals.");
     ChMouth(3,1);
     ChMotion(3,5);
     VoicePlay("B040308101_03_020");
-    MsgDisp("Honda","Haha! Awaaa, it's fallen into my mouth
-too... No, I swallowed it∋");
+    MsgDisp("Honda","Haha!
+Awaaa, it's fallen into my mouth too...
+No, I swallowed it∋");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

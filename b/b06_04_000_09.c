@@ -9,7 +9,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B060400009_04_000");
-MsgDisp("Nanatsumori","Sorry. Even though we came all the way
-here, this was kinda an incomplete
-experience...");
+MsgDisp("Nanatsumori","Sorry.
+Even though we came all the way here, this
+was kinda an incomplete experience...");
 MsgDispSksp(0);

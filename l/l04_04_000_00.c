@@ -37,8 +37,10 @@ Valentine's chocolate.");
     ChMouth(4,3);
     VoiceEVSPlay(4);
     VoicePlay("L040400000_04_020");
-    MsgDisp("Nanatsumori","｛主人公｝...... I've been waiting.");
-    MsgDisp("主人公","Hehe. Will you accept this Valentine's
+    MsgDisp("Nanatsumori","｛主人公｝......
+I've been waiting.");
+    MsgDisp("主人公","Hehe.
+Will you accept this Valentine's
 chocolate?");
     SEPlay("EV_SE_665");
     SEWait();
@@ -47,7 +49,7 @@ chocolate?");
     ChMotion(4,1,1);
     VoicePlay("L040400000_04_030");
     MsgDisp("Nanatsumori","Rejecting it isn't an option.
-......Right?");
+...... Right?");
     MsgDisp("主人公","Of course!");
     break ;
     default :

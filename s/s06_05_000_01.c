@@ -35,8 +35,8 @@ I'm happy to be standing next to you.");
     VoicePlay("S060500001_05_040");
     MsgDisp("Hiiragi","Yes.
 It means that you are well dressed.");
-    MsgDisp("主人公","(......Well, he seems happy, so I'm
-happy!)");
+    MsgDisp("主人公","(......
+Well, he seems happy, so I'm happy!)");
     break ;
     case 4:
     case 5:
@@ -51,8 +51,9 @@ all.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("S060500001_05_060");
-    MsgDisp("Hiiragi","Yes. I can't help but be mesmerized by it,
-I suppose.");
+    MsgDisp("Hiiragi","Yes.
+I can't help but be mesmerized by it, I
+suppose.");
     MsgDisp("主人公","Hehe, yay!");
     ChMouth(5,3);
     ChMotion(5,3);
@@ -66,14 +67,14 @@ Is that supposed to be a compliment......?");
     VoicePlay("S060500001_05_080");
     MsgDisp("Hiiragi","Yes, it's the number one compliment of the
 year.");
-    MsgDisp("主人公","Geez, but it's still only
-New Years.");
+    MsgDisp("主人公","Geez, but it's still only New Years.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("S060500001_05_090");
-    MsgDisp("Hiiragi","Right. But this rating won't change
-throughout the rest of the year!");
+    MsgDisp("Hiiragi","Right.
+But this rating won't change throughout
+the rest of the year!");
     MsgDisp("主人公","(Hehe, what a relief.
 It seems that he really likes it!)");
     break ;

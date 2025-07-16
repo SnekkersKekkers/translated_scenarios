@@ -4,8 +4,10 @@ MsgDisp("主人公","(Lunch break is going to end soon.
 I have to head back to the classroom...)");
 VoiceEVSPlay(3);
 VoicePlay("F100310001_03_000");
-MsgDisp("Honda?","｛主人公｝. This way, this way.");
-MsgDisp("主人公","Eh? ｛本多＊＊｝?");
+MsgDisp("Honda?","｛主人公｝.
+This way, this way.");
+MsgDisp("主人公","Eh?
+｛本多＊＊｝?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,5,3,3,#1,#1,0,0);
@@ -50,7 +52,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Rule? Hypothesis? ｛本多＊＊｝ is having
-lots of fun.)");
+MsgDisp("主人公","(Rule? Hypothesis? ｛本多＊＊｝
+is having lots of fun.)");
 MsgClose();
 ScrFadeOut(0,0);

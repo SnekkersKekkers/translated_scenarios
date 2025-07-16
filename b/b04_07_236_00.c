@@ -49,8 +49,7 @@ Look, there's an empty spot over there.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040723600_07_030");
-    MsgDisp("Mikage","Hey, we can't get in
-the way, okay?");
+    MsgDisp("Mikage","Hey, we can't get in the way, okay?");
     MsgDateResultDisp();
     break ;
     default :

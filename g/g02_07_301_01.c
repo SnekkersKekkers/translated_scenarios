@@ -50,8 +50,9 @@ ChEyeOpenLevel(7,8);
 VoicePlay("G020730101_07_070");
 MsgDisp("Mikage","Really, that's what this situation is,
 isn't it??");
-MsgDisp("主人公","(Being together with ｛御影＊＊｝ and
-everyone is really fun though ......)");
+MsgDisp("主人公","(Being together with
+｛御影＊＊｝ and everyone
+is really fun though ......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

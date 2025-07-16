@@ -25,7 +25,8 @@ tough to prepare.");
     MsgDisp("Hiiragi","That's right.
 It was a full-fledged set.");
     MsgDisp("主人公","But, it's somewhat strange that
-｛柊＊＊＊｝ isn't standing on stage.");
+｛柊＊＊＊｝ isn't standing on
+stage.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -34,8 +35,8 @@ It was a full-fledged set.");
 But thanks to that, I learned the joys of
 creating a play with everyone.");
     MsgDisp("主人公","Yeah. Though, I think thanks to
-｛柊＊＊＊｝'s advice, the two leads felt
-more reassured.");
+｛柊＊＊＊｝'s advice, the two
+leads felt more reassured.");
     VoicePlay("P230500001_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin
 shortly.");

@@ -40,7 +40,8 @@ ChMotion(4,0,1);
 VoicePlay("P840400001_04_030");
 MsgDisp("Nanatsumori","Ah, hey...
 Please calm down.");
-MsgDisp("主人公","(Uugh...It's a mess.
+MsgDisp("主人公","(Uugh...
+It's a mess.
 A huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);

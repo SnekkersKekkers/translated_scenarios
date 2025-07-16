@@ -10,9 +10,9 @@ SEWait();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P740700002_07_000");
 MsgDisp("Mikage","Welcome back, to the beautiful princess.");
-MsgDisp("主人公","Hehe. ｛御影＊＊｝ gave me the push I
-needed, so I walked with my head held
-high.");
+MsgDisp("主人公","Hehe. ｛御影＊＊｝ gave
+me the push I needed, so I walked with my
+head held high.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

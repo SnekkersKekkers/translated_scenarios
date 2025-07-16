@@ -1,4 +1,5 @@
-MsgDisp("主人公","What are your hobbies, ｛七ツ森＊｝?");
+MsgDisp("主人公","What are your hobbies,
+｛七ツ森＊｝?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_260");
@@ -20,8 +21,7 @@ ChEye(4,1);
 ChMouth(4,0);
 VoicePlay("B070400000_04_290");
 MsgDisp("Nanatsumori","Yeah, as I thought, it's no good.");
-MsgDisp("主人公","???
-What's no good?");
+MsgDisp("主人公","??? What's no good?");
 ChEye(4,0);
 ChMouth(4,0);
 ChEyeOpenLevel(4,1);
@@ -31,8 +31,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B070400000_04_310");
-MsgDisp("Nanatsumori","Right right. One of those hobbies is
-photography. ＯＫ?");
+MsgDisp("Nanatsumori","Right right.
+One of those hobbies is photography.
+ＯＫ?");
 SEPlay("EV_SE_045");
 SEWait();
 ChEye(4,0);

@@ -30,7 +30,8 @@ ChEye(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("G020510201_05_050");
-MsgDisp("Hiiragi","｛主人公｝, please take care of me?");
+MsgDisp("Hiiragi","｛主人公｝, please take
+care of me?");
 MsgDisp("主人公","(A special relationship with
 ｛柊＊＊＊｝......
 I wonder how that might look like?)");

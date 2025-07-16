@@ -19,9 +19,9 @@ Thank you.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("R040500001_05_010");
-    MsgDisp("Hiiragi","That's a very nice outfit,
-it suits you.");
-    MsgDisp("主人公","Really? I'm so glad!");
+    MsgDisp("Hiiragi","That's a very nice outfit, it suits you.");
+    MsgDisp("主人公","Really?
+I'm so glad!");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);

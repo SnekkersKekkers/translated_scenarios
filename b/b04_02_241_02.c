@@ -59,7 +59,8 @@ I feel bad for the ponies.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040224102_02_050");
-        MsgDisp("Sassa","Eh? Ah, I'm just imagining you riding on a
+        MsgDisp("Sassa","Eh?
+Ah, I'm just imagining you riding on a
 pony.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -87,8 +88,9 @@ real.");
         VoicePlay("B040224102_02_090");
         MsgDisp("Sassa","They're here, they're here, this way!
 Lots of slightly dirty ponies!");
-        MsgDisp("主人公","(Umm... Is it okay to be happy about how
-cute ｛颯砂＊＊｝ is...?)");
+        MsgDisp("主人公","(Umm...
+Is it okay to be happy about how cute
+｛颯砂＊＊｝ is...?)");
         break ;
         default :
         DbgAssert(1);

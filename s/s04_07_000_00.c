@@ -11,8 +11,8 @@ I wonder who it is?");
     SEWait();
     VoicePlay("S040700000_07_000");
     MsgDisp("Mikage","Happy New Years.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! Happy New Years to
-you too!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Happy New Years to you too!");
     VoicePlay("S040700000_07_010");
     MsgDisp("Mikage","I was thinking about visiting the shrine
 soon, what do you think?");
@@ -27,8 +27,9 @@ I'll come pick you up.");
         MsgDisp("Mikage","It'll be good, right?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with ｛御影＊＊｝!
-......Now what should I wear?)");
+        MsgDisp("主人公","(A shrine visit with
+｛御影＊＊｝!
+...... Now what should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -60,7 +61,8 @@ Who is it?");
     SEWait();
     VoicePlay("S040700000_07_060");
     MsgDisp("Mikage","Hey, Happy New Years.");
-    MsgDisp("主人公","｛御影＊＊｝! Happy New Years.");
+    MsgDisp("主人公","｛御影＊＊｝!
+Happy New Years.");
     VoicePlay("S040700000_07_070");
     MsgDisp("Mikage","I'm thinking about visiting the shrine
 now.
@@ -71,8 +73,7 @@ Are you free?");
         VoicePlay("S040700000_07_080");
         MsgDisp("Mikage","Oh, I see.
 We're together this year.");
-        MsgDisp("主人公","Hehe, what should we pray
-for?");
+        MsgDisp("主人公","Hehe, what should we pray for?");
         VoicePlay("S040700000_07_090");
         MsgDisp("Mikage","What do pray for, hmm?
 I'll think about it while I come to pick
@@ -81,7 +82,7 @@ you up.");
         SEWait();
         MsgDisp("主人公","(A New Year's shrine visit with
 ｛御影＊＊｝!
-......What should I wear?)");
+...... What should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -95,8 +96,8 @@ I'll go in your place then.");
 See you later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hm...... I guess I feel bad about
-that......?)");
+        MsgDisp("主人公","(Hm......
+I guess I feel bad about that......?)");
         break ;
         default :
         DbgAssert(0);

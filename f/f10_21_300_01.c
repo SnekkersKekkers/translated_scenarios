@@ -17,7 +17,8 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102130001_21_010");
 MsgDisp("Michiru","I've been feeling like I'm about to sneeze
-for a while now. Hmm...");
+for a while now.
+Hmm...");
 MsgDisp("主人公","Ah, I know that feeling.
 When you still can't quite get it out,
 right?");
@@ -27,7 +28,7 @@ ChMotion(21,2);
 ChEyeOpenLevel(21,0);
 VoicePlay("F102130001_21_020");
 MsgDisp("Michiru","Right...
-Hmm...haaa...");
+Hmm... haaa...");
 ChEye(21,5);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -43,23 +44,27 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F102130001_22_010");
-MsgDisp("Hikaru","Phuaah～,I feel refreshed♪
+MsgDisp("Hikaru","Phuaah～
+,I feel refreshed♪
 Ah, Mari!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
-MsgDisp("主人公","Did you sneeze just now, ｛ひかる＊｝?");
+MsgDisp("主人公","Did you sneeze just now,
+｛ひかる＊｝?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102130001_22_020");
-MsgDisp("Hikaru","Right. It was taking a while to come out～
+MsgDisp("Hikaru","Right.
+It was taking a while to come out～
 Finally.");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F102130001_21_030");
-MsgDisp("Michiru","Hehe. Hikaru did it in my place, so I feel
+MsgDisp("Michiru","Hehe.
+Hikaru did it in my place, so I feel
 refreshed too.");
 ChEye(22,3);
 ChMouth(22,3);

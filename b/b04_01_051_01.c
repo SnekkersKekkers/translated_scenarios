@@ -7,8 +7,9 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("B040105101_01_000");
-MsgDisp("Kazama","｛主人公｝. You're already looking
-sleepy, you sure you'll be alright?");
+MsgDisp("Kazama","｛主人公｝.
+You're already looking sleepy, you sure
+you'll be alright?");
 MsgSel("I'm alright, I'm in perfect shape","You look like it too","My face is always like this!");
 switch (MsgSelRsltGet()){
     case 0:

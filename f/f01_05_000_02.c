@@ -10,7 +10,8 @@ switch (MsgSelRsltGet()){
         BGMPlay("BGM_C05_HIIRAGI_A",0.01);
         ChOpen(5,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010500002_05_000");
-        MsgDisp("Hiiragi","Yes. What is it?");
+        MsgDisp("Hiiragi","Yes.
+What is it?");
         MsgDisp("主人公","If it's okay, how about we walk home
 together?");
         break ;
@@ -21,7 +22,8 @@ together?");
         ChOpen(5,254,0,0,4,#1,#1,0,0);
         VoicePlay("F010500002_05_010");
         MsgDisp("Hiiragi","Are you going home as well?");
-        MsgDisp("主人公","Yep. If its okay, how about we walk home
+        MsgDisp("主人公","Yep.
+If its okay, how about we walk home
 together?");
         break ;
         case 4:

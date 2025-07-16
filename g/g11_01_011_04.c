@@ -18,8 +18,8 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, what did you want to talk to
-me about?");
+MsgDisp("主人公","｛風真＊＊｝, what did you want
+to talk to me about?");
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101104_01_000");
@@ -56,8 +56,8 @@ VoicePlay("G110101104_01_030");
 MsgDisp("Kazama","It's given me a simulation of the future,
 while I also get paid for my part time
 job. I'm grateful for General Store simon.");
-MsgDisp("主人公","｛風真＊＊｝'s contribution to the store
-is amazing.
+MsgDisp("主人公","｛風真＊＊｝'s contribution to
+the store is amazing.
 I have to do my best to catch up to him.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -77,8 +77,9 @@ VoicePlay("G110101104_01_050");
 MsgDisp("Kazama","When that time comes...... I'll have to
 open shop far away from Simon's. I can't
 repay kindness with evil.");
-MsgDisp("主人公","(Hehe, it seems like ｛風真＊＊｝ has
-already decided to open up his own shop.)");
+MsgDisp("主人公","(Hehe, it seems like
+｛風真＊＊｝ has already
+decided to open up his own shop.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

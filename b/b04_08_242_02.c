@@ -62,8 +62,8 @@ I wasn't plannin' on fullin' around.");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("B040824202_08_050");
-        MsgDisp("Shirahane","How should I put it...
-dont'cha yearn for it?
+        MsgDisp("Shirahane","How should I put it... dont'cha yearn for
+it?
 Relaxin' round a campfire?");
         ChEye(8,4);
         ChMouth(8,0);
@@ -71,7 +71,8 @@ Relaxin' round a campfire?");
         ChCheek(8,4);
         VoicePlay("B040824202_08_060");
         MsgDisp("Shirahane","It's just the two of us, right?");
-        MsgDisp("主人公","Ah... I see.");
+        MsgDisp("主人公","Ah...
+I see.");
         ChEye(8,3);
         ChMouth(8,3);
         ChMotion(8,0,1);
@@ -90,7 +91,8 @@ Let's get some firewood...");
         ChMotion(8,2,1);
         VoicePlay("B040824202_08_090");
         MsgDisp("Shirahane","As for the place, somewhere by the
-lakeside would be good. Hehe!");
+lakeside would be good.
+Hehe!");
         MsgDisp("主人公","(｛大地＊＊｝, that seems fun!
 I'll have to help too!)");
         break ;

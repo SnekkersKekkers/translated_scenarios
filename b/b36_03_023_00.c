@@ -13,7 +13,8 @@ VoicePlay("B360302300_03_000");
 MsgDisp("Honda","The timing's perfect.
 I wonder if we'll be able to see it
 today...");
-MsgDisp("主人公","Huh? What are you talking about?");
+MsgDisp("主人公","Huh?
+What are you talking about?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
@@ -57,7 +58,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B360302300_03_070");
 MsgDisp("Honda","I'm not saying that I don't enjoy hanging
-out with everyone. But——");
+out with everyone.
+But——");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -72,7 +74,8 @@ VoicePlay("B360302300_03_090");
 MsgDisp("Honda","I'm glad...
 Once the sun completely sets, can I walk
 you home?");
-MsgDisp("主人公","Sure. Thank you, ｛本多＊＊｝.");
+MsgDisp("主人公","Sure.
+Thank you, ｛本多＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

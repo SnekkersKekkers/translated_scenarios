@@ -33,8 +33,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650401_06_030");
-MsgDisp("Himuro","I don't want to worry about 
-other people.");
+MsgDisp("Himuro","I don't want to worry about other people.");
 MsgDisp("主人公","Are you uncomfortable about being around
 lots of people?");
 ChEye(6,0);

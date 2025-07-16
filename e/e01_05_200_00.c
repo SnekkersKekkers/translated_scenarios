@@ -11,7 +11,8 @@ ChEye(5,4);
 VoiceEVSPlay(5);
 VoicePlay("E010520000_05_000");
 MsgDisp("Hiiragi","｛主人公｝, nice timing.");
-MsgDisp("主人公","Ah, hi, ｛柊＊＊＊｝ and ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, hi, ｛柊＊＊＊｝ and
+｛氷室＊＊｝.
 What an interesting combination.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -32,7 +33,8 @@ ChMotion(5,0,1);
 VoicePlay("E010520000_05_020");
 MsgDisp("Hiiragi","Things like this become necessary
 sometimes due to the nature of my job.");
-MsgDisp("主人公","Um...... ｛氷室＊＊｝ do you have yours
+MsgDisp("主人公","Um......
+｛氷室＊＊｝ do you have yours
 custom made too?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -87,15 +89,16 @@ ChMotion(5,0);
 ChPosition(5,0);
 Wait(60,0);
 MsgDisp("主人公","He left......
-｛柊＊＊＊｝, what was that about?");
+｛柊＊＊＊｝, what was that
+about?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("E010520000_05_050");
 MsgDisp("Hiiragi","Right, earlier we talked about swapping
 clothes.");
-MsgDisp("主人公","( What if ｛柊＊＊＊｝ and ｛氷室＊＊｝
-swapped clothes?
+MsgDisp("主人公","( What if ｛柊＊＊＊｝ and
+｛氷室＊＊｝ swapped clothes?
 That sounds interesting.)");
 BGMStop();
 MsgClose();

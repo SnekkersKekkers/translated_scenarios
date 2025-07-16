@@ -20,8 +20,7 @@ ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,5,1);
 VoicePlay("D140B05002_04_000");
-MsgDisp("Nanatsumori","∋
-What are you saying so abruptl——");
+MsgDisp("Nanatsumori","∋ What are you saying so abruptl——");
 MsgDisp("主人公","That surprised me...");
 ChEye(1,2);
 ChMouth(1,2);
@@ -66,14 +65,15 @@ VoicePlay("D140B05002_04_030");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Ah, yeah. That's right. That's all. Right,
 ｛主人公｝?");
-MsgDisp("主人公","Ah...Yeah.");
+MsgDisp("主人公","Ah...
+Yeah.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B05002_01_020");
-MsgDisp("Kazama","Don't enter their own world over there.
-\"That's all\", they said.");
+MsgDisp("Kazama","Don't enter their own world over there. \"
+That's all\", they said.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -87,8 +87,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B05002_01_030");
 MsgDisp("Kazama","Shut up.
 Go eat quickly.");
-MsgDisp("主人公","(Hey...
-my heart is racing now...)");
+MsgDisp("主人公","(Hey... my heart is racing now...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

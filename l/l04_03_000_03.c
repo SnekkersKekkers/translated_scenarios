@@ -14,8 +14,9 @@ from?");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300003_03_010");
-    MsgDisp("Honda","What!? You did, for me? I feel a little
-bad.");
+    MsgDisp("Honda","What!?
+You did, for me?
+I feel a little bad.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);

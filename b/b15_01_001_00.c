@@ -5,10 +5,9 @@ ChOpen(1,255,1,0,2,#1,#1,5,0);
 ScrFadeIn(0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100100_01_000");
-MsgDisp("Kazama","...Phew.
+MsgDisp("Kazama","... Phew.
 Hey, I told you before didn't I?");
-MsgDisp("主人公","Are you...
-talking about skinship?");
+MsgDisp("主人公","Are you... talking about skinship?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -38,8 +37,9 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100100_01_040");
-MsgDisp("Kazama","O-Oi. Naturally? Don't ever do that to
-someone else.");
+MsgDisp("Kazama","O-Oi.
+Naturally?
+Don't ever do that to someone else.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);

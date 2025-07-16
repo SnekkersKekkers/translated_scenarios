@@ -10,15 +10,16 @@ SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
 ChOpen(21,38,0,0,0,#1,#1,0,1);
 ChOpen(22,38,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝. When I
+MsgDisp("主人公","｛みちる＊｝,
+｛ひかる＊｝. When I
 think about the fact I can't fail, my
 heart begins to thud...");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P230D00000_22_000");
-MsgDisp("Hikaru","Non non♪
-\"Flora angel\" is invincible, right?");
+MsgDisp("Hikaru","Non non♪ \"
+Flora angel\" is invincible, right?");
 MsgDisp("主人公","Ah...");
 ChEye(21,0);
 ChMouth(21,0);
@@ -32,7 +33,8 @@ ChMotion(22,3,1);
 VoicePlay("P230D00000_22_010");
 MsgDisp("Hikaru","Yeah, yeah. Pink♪ White, you're the
 leader. Right?");
-MsgDisp("主人公","Yeah...I'll do my best!");
+MsgDisp("主人公","Yeah...
+I'll do my best!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

@@ -8,8 +8,9 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700003_07_000");
-    MsgDisp("Mikage","｛主人公｝. Are you okay? This isn't
-like you.");
+    MsgDisp("Mikage","｛主人公｝.
+Are you okay?
+This isn't like you.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -34,8 +35,9 @@ This score is very concerning.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("N020700003_07_030");
-    MsgDisp("Mikage","Look. You're someone who can do really
-well if you do it right.");
+    MsgDisp("Mikage","Look.
+You're someone who can do really well if
+you do it right.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -49,8 +51,8 @@ not to do it.");
     MsgDisp("Mikage","Look, your potential extends everywhere.
 Even in your studies.
 Next time, do it right, okay?");
-    MsgDisp("主人公","(｛御影＊＊｝... I have to study
-harder...)");
+    MsgDisp("主人公","(｛御影＊＊｝...
+I have to study harder...)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(7,0,0);
@@ -61,7 +63,8 @@ harder...)");
     ChOpen(7,254,0,2,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700003_07_060");
-    MsgDisp("Mikage","｛主人公｝, this isn't funny at all.");
+    MsgDisp("Mikage","｛主人公｝, this isn't
+funny at all.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝...");
     ChEye(7,2);
     ChMouth(7,0);
@@ -80,7 +83,8 @@ That's what you're thinking, right?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("N020700003_07_090");
-    MsgDisp("Mikage","Right? Nothing we do in high school is
+    MsgDisp("Mikage","Right?
+Nothing we do in high school is
 unnecessary, okay?");
     MsgDisp("主人公","Okay...");
     ChEye(7,0);

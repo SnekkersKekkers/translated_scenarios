@@ -29,8 +29,7 @@ at it.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040315200_03_020");
-    MsgDisp("Honda","Hahaha,
-what do you intend on hitting?");
+    MsgDisp("Honda","Hahaha, what do you intend on hitting?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

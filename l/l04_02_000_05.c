@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0);
     VoicePlay("L040200005_02_010");
     MsgDisp("Sassa","Ah, nothing.
-......This is handmade?");
+...... This is handmade?");
     MsgDisp("主人公","Yeah.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -48,15 +48,15 @@ But, he seemed pleased enough.)");
     ChMouth(2,0);
     ChMotion(2,3);
     VoicePlay("L040200005_02_050");
-    MsgDisp("Sassa","This is......
-for me, right?");
+    MsgDisp("Sassa","This is...... for me, right?");
     MsgDisp("主人公","That's right, is something wrong?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("L040200005_02_060");
-    MsgDisp("Sassa","No, just checking. I'm glad you made it
-for me. Thanks.");
+    MsgDisp("Sassa","No, just checking.
+I'm glad you made it for me.
+Thanks.");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -90,7 +90,8 @@ Nice.");
     MsgDisp("Sassa","It's really well made.
 There's just something in it that I'm not
 good with.");
-    MsgDisp("主人公","Oh!　S-Sorry......");
+    MsgDisp("主人公","Oh!
+S-Sorry......");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);

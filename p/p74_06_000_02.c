@@ -20,7 +20,8 @@ VoicePlay("P740600002_06_010");
 MsgDisp("Himuro","What did you think? It seemed like
 everyone was completely captivated. I'd
 like to hear your thoughts on that.");
-MsgDisp("主人公","(Yay! A huge success!)");
+MsgDisp("主人公","(Yay!
+A huge success!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

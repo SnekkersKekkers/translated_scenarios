@@ -32,8 +32,9 @@ do with water.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040111002_01_020");
-    MsgDisp("Kazama","Right? If you lay flat on your back, you
-can really build up speed, right?");
+    MsgDisp("Kazama","Right?
+If you lay flat on your back, you can
+really build up speed, right?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -64,7 +65,8 @@ can really build up speed, right?");
         VoicePlay("B040111002_01_040");
         MsgDisp("Kazama","Even though fate ties us together, seems
 we still have our differences.");
-        MsgDisp("主人公","Huh? You don't like the big kersplash?");
+        MsgDisp("主人公","Huh?
+You don't like the big kersplash?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,1);
@@ -73,8 +75,8 @@ we still have our differences.");
         MsgDisp("Kazama","It's not like I'm scared.
 I just don't like feeling like I'm being
 chucked out like that.");
-        MsgDisp("主人公","Hehe, ｛風真＊＊｝ has to be treated with
-care, right?");
+        MsgDisp("主人公","Hehe, ｛風真＊＊｝ has to be
+treated with care, right?");
         ChMotion(1,0);
         Wait(10,0);
         ChEye(1,0);
@@ -102,8 +104,8 @@ sound like fun?");
         ChMouth(1,1);
         ChMotion(1,3);
         VoicePlay("B040111002_01_090");
-        MsgDisp("Kazama","Hey! You should have mentioned that
-sooner.");
+        MsgDisp("Kazama","Hey!
+You should have mentioned that sooner.");
         ChEye(1,1);
         ChMouth(1,2);
         ChMotion(1,2);

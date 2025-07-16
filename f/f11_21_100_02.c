@@ -2,7 +2,8 @@ BGOpen("sc710",0);
 MsgClose();
 ChOpen(21,254,7,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, ｛みちる＊｝! This year—");
+MsgDisp("主人公","Oh, ｛みちる＊｝!
+This year—");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -39,8 +40,8 @@ ChMotion(21,2);
 ChEyeOpenLevel(21,0);
 ChCheek(21,5);
 VoicePlay("F112110002_21_050");
-MsgDisp("Michiru","But, those manga and dramas...
-they were good stories.
+MsgDisp("Michiru","But, those manga and dramas... they were
+good stories.
 Just remembering it makes my face hot.");
 ChEye(21,5);
 ChMouth(21,4);

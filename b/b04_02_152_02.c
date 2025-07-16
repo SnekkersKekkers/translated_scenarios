@@ -6,8 +6,9 @@ ChMouth(2,2);
 ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040215202_02_000");
-MsgDisp("Sassa","Huh? What's wrong? Are you not feeling
-well?");
+MsgDisp("Sassa","Huh?
+What's wrong?
+Are you not feeling well?");
 MsgSel("It's because ｛颯砂＊＊｝ is watching...","I'm the same as always!","I'll get serious from the next one!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -65,9 +66,8 @@ Once more...");
         MsgClose();
         ChOpen(2,253,2,0,0,#1,#1,0,0);
         VoicePlay("B040215202_02_040");
-        MsgDisp("Sassa","Hey, straighten your elbow.
-tighten your armpits, swing your hands
-vertically.");
+        MsgDisp("Sassa","Hey, straighten your elbow. tighten your
+armpits, swing your hands vertically.");
         MsgDisp("主人公","L-Like this?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -84,7 +84,8 @@ off to the side.");
         SEPlay("EV_SE_869");
         SEPlay("EV_SE_061",0.5);
         SEWait();
-        MsgDisp("主人公","Yay! It went in, ｛颯砂＊＊｝!");
+        MsgDisp("主人公","Yay!
+It went in, ｛颯砂＊＊｝!");
         MsgClose();
         SEPlay("EV_SE_544",0,0.5);
         ChOpen(2,253,0,0,0,#1,#1,0,0);
@@ -94,7 +95,8 @@ off to the side.");
         VoicePlay("B040215202_02_060");
         MsgDisp("Sassa","Yeah, yeah it was perfect.
 Alright, keep it up for the next one!");
-        MsgDisp("主人公","(Hehe. ｛颯砂＊＊｝ taught me well )");
+        MsgDisp("主人公","(Hehe.
+｛颯砂＊＊｝ taught me well )");
         break ;
         default :
         DbgAssert(1);

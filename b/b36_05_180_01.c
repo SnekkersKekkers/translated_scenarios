@@ -23,8 +23,8 @@ theater company.");
 VoicePlay("B360518001_05_020");
 MsgDisp("Hiiragi","Only two.");
 MsgDisp("主人公","I see.
-I wanted ｛御影＊＊｝ and ｛氷室＊＊｝ to
-see it too.");
+I wanted ｛御影＊＊｝ and
+｛氷室＊＊｝ to see it too.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B360518001_05_030");
@@ -54,7 +54,7 @@ MsgDisp("Hiiragi","Ah, yes.");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B360518001_05_080");
-MsgDisp("Hiiragi","......It's getting late.
+MsgDisp("Hiiragi","...... It's getting late.
 I'll take my time to reflect on the movie
 on my way home.");
 MsgDisp("主人公","Yeah!");

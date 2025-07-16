@@ -69,7 +69,8 @@ see, Ryota-senpai is boring\", if he were
 here.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Ahaha! I can already imagine it.");
+MsgDisp("主人公","Ahaha!
+I can already imagine it.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,1);
@@ -99,8 +100,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("Q070A00100_02_050");
-MsgDisp("Sassa","Wow. 
-That tower over there is huge, huh. ");
+MsgDisp("Sassa","Wow.
+That tower over there is huge, huh.");
 MsgDisp("主人公","Yeah, it looks unique.");
 ChPosition(2,2);
 MsgClose();
@@ -184,9 +185,9 @@ VoicePlay("Q070A00100_02_110");
 MsgDisp("Sassa","We can take a few different ones.");
 VoicePlay("Q070A00100_01_130");
 MsgDisp("Kazama","...... Just one is fine.");
-MsgDisp("主人公","(Huis ten Bosch was so much fun... Now
-onto something else. I should answer
-｛氷室＊＊｝. )");
+MsgDisp("主人公","(Huis ten Bosch was so much fun...
+Now onto something else.
+I should answer ｛氷室＊＊｝. )");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

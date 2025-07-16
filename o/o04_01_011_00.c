@@ -14,8 +14,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     ChMotion(1,1);
     VoicePlay("O040101100_01_010");
-    MsgDisp("Kazama","......Geez, why are we
-on separate teams?");
+    MsgDisp("Kazama","......Geez, why are we on separate teams?");
     break ;
     case 4:
     case 5:

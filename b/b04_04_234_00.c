@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040423400_04_010");
-    MsgDisp("Nanatsumori","I had fun watching you
-be like that.");
+    MsgDisp("Nanatsumori","I had fun watching you be like that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +27,8 @@ be like that.");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040423400_04_020");
-    MsgDisp("Nanatsumori","You were spinning the wheel too much.
-this is far from a fairytale.");
+    MsgDisp("Nanatsumori","You were spinning the wheel too much. this
+is far from a fairytale.");
     MsgDateResultDisp();
     break ;
     case 2:

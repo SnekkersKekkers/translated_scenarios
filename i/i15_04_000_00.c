@@ -14,7 +14,8 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I150400000_04_000");
     MsgDisp("Nanatsumori","Ah.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Welcome!");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,4,1);
@@ -26,8 +27,8 @@ so......");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("I150400000_04_020");
-    MsgDisp("Nanatsumori","Sure. But did you need to call my name,
-too?");
+    MsgDisp("Nanatsumori","Sure.
+But did you need to call my name, too?");
     MsgDisp("主人公","Ah......
 I see, sorry.");
     ChEye(4,4);
@@ -41,8 +42,8 @@ but...... Good luck with work. See you.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(I get it.
-｛七ツ森＊｝ is a popular model, after
-all.)");
+｛七ツ森＊｝ is a popular
+model, after all.)");
     break ;
     case 3:
     MsgClose();
@@ -60,7 +61,8 @@ Welcome!");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I150400000_04_050");
-    MsgDisp("Nanatsumori","Yeah. You're doing good.
+    MsgDisp("Nanatsumori","Yeah.
+You're doing good.
 How's it going?");
     MsgDisp("主人公","There were a lot of customers today, so it
 might be busy.");
@@ -71,8 +73,8 @@ might be busy.");
     MsgDisp("Nanatsumori","I see.
 Working without any hiccups is a good
 thing.");
-    MsgDisp("主人公","Hehe, ｛七ツ森＊｝, you sound like a
-teacher, you know?");
+    MsgDisp("主人公","Hehe, ｛七ツ森＊｝, you
+sound like a teacher, you know?");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("I150400000_04_070");
@@ -83,7 +85,8 @@ Well, do your best until you're off.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Could it be that ｛七ツ森＊｝ came to
+    MsgDisp("主人公","(Could it be that
+｛七ツ森＊｝ came to
 check on me?)");
     break ;
     case 4:
@@ -97,14 +100,17 @@ check on me?)");
     ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("I150400000_04_080");
-    MsgDisp("Nanatsumori","｛主人公｝. Good work.");
-    MsgDisp("主人公","Ah...... If you're dressed like that, are
-you about to go to work?");
+    MsgDisp("Nanatsumori","｛主人公｝.
+Good work.");
+    MsgDisp("主人公","Ah......
+If you're dressed like that, are you about
+to go to work?");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I150400000_04_090");
-    MsgDisp("Nanatsumori","Yeah. I just came to check on you on my
-way there.");
+    MsgDisp("Nanatsumori","Yeah.
+I just came to check on you on my way
+there.");
     MsgDisp("主人公","Hehe.
 Thanks.");
     ChEye(4,0);

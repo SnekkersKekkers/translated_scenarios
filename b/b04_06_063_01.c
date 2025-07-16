@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040606301_06_010");
-    MsgDisp("Himuro","It's because of how
-you're like normally.");
+    MsgDisp("Himuro","It's because of how you're like normally.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -25,8 +24,8 @@ you're like normally.");
     ChMotion(6,0);
     VoicePlay("B040606301_06_020");
     MsgDisp("Himuro","You're welcome.
-...Well, I'll help you even if you were to
-fall.");
+... Well, I'll help you even if you were
+to fall.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +37,7 @@ fall.");
     ChMotion(6,4);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040606301_06_030");
-    MsgDisp("Himuro","...Isn't your spatial
-awareness awful?");
+    MsgDisp("Himuro","...Isn't your spatial awareness awful?");
     MsgDateResultDisp();
     break ;
     default :

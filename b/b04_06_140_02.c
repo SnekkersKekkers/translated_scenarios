@@ -85,7 +85,7 @@ a conversation on this same topic.");
     ChMotion(6,0);
     VoicePlay("B040614002_06_080");
     MsgDisp("Himuro","It definitely felt like a challenge.
-...But, I think I like it.");
+... But, I think I like it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -97,8 +97,9 @@ a conversation on this same topic.");
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040614002_06_090");
-    MsgDisp("Himuro","Yeah. It completely changed the
-impression, but it wasn't bad.");
+    MsgDisp("Himuro","Yeah.
+It completely changed the impression, but
+it wasn't bad.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

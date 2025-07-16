@@ -12,7 +12,8 @@ MsgDisp("Hiiragi","Everyone seems to be enjoying themselves.");
 MsgDisp("主人公","｛柊＊＊＊｝ is also smiling.");
 ChMotion(5,0);
 VoicePlay("B030506100_05_010");
-MsgDisp("Hiiragi","Yes. It's lively here and filled with the
+MsgDisp("Hiiragi","Yes.
+It's lively here and filled with the
 savoury aroma of sauce.");
 MsgDisp("主人公","Yeah, that's right.
 Shall we have a look at the festival?");

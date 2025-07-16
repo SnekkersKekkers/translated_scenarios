@@ -16,7 +16,8 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B360718000_07_010");
-MsgDisp("Mikage","Detour...... Inori's at the bookstore.
+MsgDisp("Mikage","Detour......
+Inori's at the bookstore.
 Yanosuke...... where is he?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -39,7 +40,8 @@ VoicePlay("B360718000_07_040");
 MsgDisp("Mikage","I think he'd look good in an apron.
 Like a young proprietress.");
 MsgDisp("主人公","Hehe, maybe it would.
-So, where would ｛御影＊＊｝ head to?");
+So, where would
+｛御影＊＊｝ head to?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -51,8 +53,9 @@ ChMotion(7,2);
 VoicePlay("B360718000_07_060");
 MsgDisp("Mikage","It's kinda sad that that's the only thing
 I could think of.");
-MsgDisp("主人公","(Hehe. I guess ｛御影＊＊｝ really
-loves school.)");
+MsgDisp("主人公","(Hehe.
+I guess ｛御影＊＊｝
+really loves school.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -26,7 +26,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10500_01_000");
 MsgDisp("Kazama","I'm good.");
-MsgDisp("主人公","｛風真＊＊｝, you're good already?");
+MsgDisp("主人公","｛風真＊＊｝, you're good
+already?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -42,22 +43,24 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B10500_03_010");
-MsgDisp("Honda","Why? Is your voice tired?");
+MsgDisp("Honda","Why?
+Is your voice tired?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10500_01_020");
 MsgDisp("Kazama","Yeah, I'm tired.");
-MsgDisp("主人公","Isn't that ...
-not because you were singing, but because
-you were talking the whole time?");
+MsgDisp("主人公","Isn't that ... not because you were
+singing, but because you were talking the
+whole time?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B10500_04_020");
-MsgDisp("Nanatsumori","Yeah. We couldn't help it when Kazama
-started saying that stuff.");
+MsgDisp("Nanatsumori","Yeah.
+We couldn't help it when Kazama started
+saying that stuff.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -68,9 +71,11 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10500_03_020");
 MsgDisp("Honda","Right right, of course that idea would
-snowball. Right?");
-MsgDisp("主人公","Even if you say that... Me? Becoming an
-idol?");
+snowball.
+Right?");
+MsgDisp("主人公","Even if you say that...
+Me?
+Becoming an idol?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

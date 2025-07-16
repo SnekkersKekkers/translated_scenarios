@@ -25,7 +25,8 @@ switch (ChPrmGet(7,6)){
     VoicePlay("X120700001_07_010");
     MsgDisp("Mikage","I think the passion and kindness you have
 for your flowers is great.");
-    MsgDisp("主人公","(Yay! I was praised!)");
+    MsgDisp("主人公","(Yay!
+I was praised!)");
     break ;
     default :
     DbgAssert(1);

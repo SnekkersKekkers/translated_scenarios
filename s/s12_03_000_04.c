@@ -15,7 +15,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("S120300004_03_000");
     MsgDisp("Honda","Ah......");
-    MsgDisp("主人公","Eh? ｛本多＊＊｝, what's wrong?");
+    MsgDisp("主人公","Eh?
+｛本多＊＊｝, what's wrong?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
@@ -89,7 +90,8 @@ What's this about?");
     MsgDisp("Honda","Because it's our last New Years while in
 high school, we don't know what will
 happen next year, right?");
-    MsgDisp("主人公","Oh......I see.");
+    MsgDisp("主人公","Oh......
+I see.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);

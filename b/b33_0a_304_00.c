@@ -51,8 +51,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30400_01_030");
-MsgDisp("Kazama","What are you saying? ...Geez. I like all
-seasons here.");
+MsgDisp("Kazama","What are you saying?
+... Geez.
+I like all seasons here.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -139,7 +140,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330A30400_01_090");
 MsgDisp("Kazama","Right.");
 ChEye(1,0);
-MsgDisp("主人公","(Hehe! It's wonderful we all have similar
+MsgDisp("主人公","(Hehe!
+It's wonderful we all have similar
 tastes.)");
 BGMStop();
 MsgClose();

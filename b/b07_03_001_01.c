@@ -1,12 +1,13 @@
-MsgDisp("主人公","｛本多＊＊｝, you and ｛風真＊＊｝ have
-been hanging out together a lot lately,
-huh?");
+MsgDisp("主人公","｛本多＊＊｝, you and
+｛風真＊＊｝ have been hanging
+out together a lot lately, huh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_010");
-MsgDisp("Honda","Yeah! Ryota-kun knows a lot about
-antiques, right?");
+MsgDisp("Honda","Yeah!
+Ryota-kun knows a lot about antiques,
+right?");
 ChMotion(3,4);
 VoicePlay("B070300001_03_020");
 MsgDisp("Honda","They have a lot of expertise on things
@@ -19,8 +20,7 @@ VoicePlay("B070300001_03_030");
 MsgDisp("Honda","I always want to ask him more things.
 But he doesn't tell me anything, he says
 it's not his job to give out pointers.");
-MsgDisp("主人公","I guess he doesn't like to talk
-about it?");
+MsgDisp("主人公","I guess he doesn't like to talk about it?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);

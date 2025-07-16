@@ -6,8 +6,9 @@ VoicePlay("G020110306_01_000");
 MsgDisp("Kazama","Hey, I wonder what your reaction would be
 if you came here for the first time
 without knowing anything about it?");
-MsgDisp("主人公","Hmmmm. I'd probably be really surprised
-and speechless.");
+MsgDisp("主人公","Hmmmm.
+I'd probably be really surprised and
+speechless.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

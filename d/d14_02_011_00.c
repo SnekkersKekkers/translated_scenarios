@@ -17,8 +17,7 @@ This sure is tasty huh?");
     ChMotion(2,3,1);
     ChEyeOpenLevel(2,0);
     VoicePlay("D140201100_02_010");
-    MsgDisp("Sassa","Alright, we managed
-to be a pair!");
+    MsgDisp("Sassa","Alright, we managed to be a pair!");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","Yeah, we're matching!");

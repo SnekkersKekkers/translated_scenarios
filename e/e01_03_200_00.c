@@ -1,16 +1,17 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Alright then, I guess it's about
-time to go home?)");
+MsgDisp("主人公","(......
+Alright then, I guess it's about time to
+go home?)");
 VoicePlay("E010320000_01_000");
-MsgDisp("Kazama?","Honda, 
-don't be so noisy in the store.");
+MsgDisp("Kazama?","Honda, don't be so noisy in the store.");
 VoicePlay("E010320000_03_000");
 MsgDisp("Honda?","Here, look.
 Isn't that nice?
 The two of them are like a pair.");
-MsgDisp("主人公","Huh, those voices...... ｛本多＊＊｝ and
+MsgDisp("主人公","Huh, those voices......
+｛本多＊＊｝ and
 ｛風真＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -25,9 +26,11 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoiceEVSPlay(3);
 VoicePlay("E010320000_03_010");
-MsgDisp("Honda","｛主人公｝, good afternoon.");
-MsgDisp("主人公","Hehe. The two of you are wearing
-differently colored aprons.");
+MsgDisp("Honda","｛主人公｝, good
+afternoon.");
+MsgDisp("主人公","Hehe.
+The two of you are wearing differently
+colored aprons.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -38,7 +41,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("E010320000_03_020");
-MsgDisp("Honda","Yeah! It's funny right, the aprons.
+MsgDisp("Honda","Yeah!
+It's funny right, the aprons.
 Hahaha.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
@@ -51,7 +55,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010320000_01_030");
 MsgDisp("Kazama","You guys are laughing right in front of
-the store. ......Geez.");
+the store.
+...... Geez.");
 MsgDisp("主人公","Ah, sorry.
 You're working part-time today?");
 ChEye(1,0);
@@ -74,7 +79,8 @@ VoicePlay("E010320000_01_050");
 MsgDisp("Kazama","Because of that, Honda-kun went all the
 way back just to get the apron from his
 part-time job.");
-MsgDisp("主人公","Hehe. ｛本多＊＊｝, that's interesting.");
+MsgDisp("主人公","Hehe.
+｛本多＊＊｝, that's interesting.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -96,9 +102,9 @@ ChMouth(1,1);
 VoicePlay("E010320000_01_070");
 MsgDisp("Kazama","I already told you, I don't want to do
 that.");
-MsgDisp("主人公","Thanks, ｛本多＊＊｝. I already got to see
-the aprons, so I guess it's fine to not
-take photos?");
+MsgDisp("主人公","Thanks, ｛本多＊＊｝.
+I already got to see the aprons, so I
+guess it's fine to not take photos?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

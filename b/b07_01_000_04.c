@@ -1,4 +1,5 @@
-MsgDisp("主人公","Do you listen to music, ｛風真＊＊｝?
+MsgDisp("主人公","Do you listen to music,
+｛風真＊＊｝?
 Do you have a genre you like?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -48,8 +49,9 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B070100000_01_220");
 MsgDisp("Kazama","Geez, that's why I won't do it!");
-MsgDisp("主人公","(Hehe. ｛風真＊＊｝ looks like he's having
-fun. Maybe one day I'll get to hear it.)");
+MsgDisp("主人公","(Hehe. ｛風真＊＊｝ looks like
+he's having fun. Maybe one day I'll get to
+hear it.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

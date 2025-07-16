@@ -9,8 +9,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B020602126_06_010");
-MsgDisp("Himuro","Yeah. You wear it well, so it's not bad
-after all.");
+MsgDisp("Himuro","Yeah.
+You wear it well, so it's not bad after
+all.");
 MsgDisp("主人公","(Oh, good.
-｛氷室＊＊｝ seems to have come to like
-these clothes.)");
+｛氷室＊＊｝ seems to have come to
+like these clothes.)");

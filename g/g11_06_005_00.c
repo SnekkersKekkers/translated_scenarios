@@ -1,15 +1,16 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you going to the beach
-after this today too?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you going to
+the beach after this today too?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110600500_06_000");
 MsgDisp("Himuro","Ah, yeah.
-......That's right.
+...... That's right.
 I guess you're coming too.");
-MsgDisp("主人公","Eh? Y-Yes.");
+MsgDisp("主人公","Eh?
+Y-Yes.");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -61,10 +62,11 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("G110600500_06_060");
-MsgDisp("Himuro","Yes. As long as it's within my
-capabilities, anything is okay.");
+MsgDisp("Himuro","Yes.
+As long as it's within my capabilities,
+anything is okay.");
 MsgDisp("主人公","Really?
-Then......can you praise me?");
+Then...... can you praise me?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

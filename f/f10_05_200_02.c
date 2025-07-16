@@ -5,7 +5,8 @@ VoicePlay("F100520002_05_000");
 MsgDisp("Hiiragi","Yes, that would be great.");
 VoicePlay("F100520002_01_000");
 MsgDisp("Kazama","No, that's interesting though.");
-MsgDisp("主人公","(Ah, it's ｛柊＊＊＊｝ and ｛風真＊＊｝ )");
+MsgDisp("主人公","(Ah, it's ｛柊＊＊＊｝ and
+｛風真＊＊｝ )");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,0,4,#1,#1,0,1);
@@ -70,8 +71,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 ChPosition(1,0);
 Wait(60,0);
-MsgDisp("主人公","I hope he can 
-create a new show.");
+MsgDisp("主人公","I hope he can create a new show.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

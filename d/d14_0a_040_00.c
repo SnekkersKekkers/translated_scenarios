@@ -6,7 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A04000_02_000");
 MsgDisp("Sassa","What's going on with Ryota today?");
-MsgDisp("主人公","He's talking to ｛御影＊＊｝.");
+MsgDisp("主人公","He's talking to
+｛御影＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -25,8 +26,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A04000_06_010");
-MsgDisp("Himuro","Yeah, he might run 
-after us later.");
+MsgDisp("Himuro","Yeah, he might run after us later.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -81,16 +81,18 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D140A04000_06_060");
-MsgDisp("Himuro","Yes. It's just as I thought, how typical
-of Ryota-senpai.");
+MsgDisp("Himuro","Yes.
+It's just as I thought, how typical of
+Ryota-senpai.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("D140A04000_02_060");
 MsgDisp("Sassa","Ryota, this way!");
-MsgDisp("主人公","(Hehe! The conversation on ｛風真＊＊｝
-was funny. but, there's definitely
-something they could say about me too...)");
+MsgDisp("主人公","(Hehe! The conversation on
+｛風真＊＊｝ was funny. but,
+there's definitely something they could
+say about me too...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

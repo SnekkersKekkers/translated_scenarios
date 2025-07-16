@@ -4,7 +4,7 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040402101_04_000");
 MsgDisp("Nanatsumori","Ah, a seagull.
-...Or maybe it's a black-tailed gull?");
+... Or maybe it's a black-tailed gull?");
 MsgSel("Which is it I wonder?","It's not a black-tailed gull?","Isn't this a good chance to take a picture?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,7 +23,8 @@ They look so alike after all.");
     ChMouth(4,3);
     ChMotion(4,3);
     VoicePlay("B040402101_04_020");
-    MsgDisp("Nanatsumori","Hmmm? Then, explain your reasoning in 20
+    MsgDisp("Nanatsumori","Hmmm?
+Then, explain your reasoning in 20
 characters or less.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

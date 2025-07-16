@@ -1,10 +1,9 @@
 BGOpen("sc510",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he
-had something he wanted to talk to me
-about. ......I wonder if something
-happened?)");
+MsgDisp("主人公","(That's right......｛風真＊＊｝ said he had
+something he wanted to talk to me about.
+......I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -60,7 +59,8 @@ ChMotion(1,0);
 VoicePlay("G110100900_01_060");
 MsgDisp("Kazama","Ah, thanks. Could you help me up? My
 body's so stiff, I can't stand on my own.");
-MsgDisp("主人公","Ehh?　Geez, let's go.
+MsgDisp("主人公","Ehh?
+Geez, let's go.
 Come on——");
 ChEye(1,0);
 ChMouth(1,0);

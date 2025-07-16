@@ -22,7 +22,7 @@ VoicePlay("B360218000_02_010");
 MsgDisp("Sassa","My dad helped with the coaching for this
 sports film.");
 MsgDisp("主人公","Is that so?
-｛颯砂＊＊｝'s dad is amazing.'");
+｛颯砂＊＊｝'s dad is amazing. '");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -31,14 +31,12 @@ VoicePlay("B360218000_02_020");
 MsgDisp("Sassa","Haha, thank you. Well because of that, I
 got a pair of free tickets. Keep it a
 secret from those two.");
-MsgDisp("主人公","Hehe,
-we might get scolded though.");
+MsgDisp("主人公","Hehe, we might get scolded though.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360218000_02_030");
-MsgDisp("Sassa","That depends on you,
-doesn't it?");
+MsgDisp("Sassa","That depends on you, doesn't it?");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -16,5 +16,4 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("B130100002_01_010");
-MsgDisp("Kazama","I know that, 
-but it's too short...");
+MsgDisp("Kazama","I know that, but it's too short...");

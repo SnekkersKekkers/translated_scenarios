@@ -13,5 +13,5 @@ MsgDisp("Hiiragi","My perception of those kinds of clothes
 has changed.
 It's nice and natural.");
 MsgDisp("主人公","(Oh, good.
-｛柊＊＊＊｝ seems to have come to like
-these clothes now.)");
+｛柊＊＊＊｝ seems to have come
+to like these clothes now.)");

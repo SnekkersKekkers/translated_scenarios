@@ -18,8 +18,7 @@ If you will excuse me.");
     MsgDisp("主人公","I see......
 Too bad, but what can you do.");
     VoicePlay("J030500001_05_030");
-    MsgDisp("Hiiragi","It was your invitation,
-I'm sorry.");
+    MsgDisp("Hiiragi","It was your invitation, I'm sorry.");
     MsgDisp("主人公","Er, well.
 Well, I'll see you later?");
     VoicePlay("J030500001_05_040");
@@ -31,8 +30,7 @@ Well, I'll see you later?");
     case 4:
     case 5:
     VoicePlay("J030500001_05_050");
-    MsgDisp("Hiiragi","......Oh......no,
-it's difficult that day.");
+    MsgDisp("Hiiragi","......Oh......no, it's difficult that day.");
     MsgDisp("主人公","Oh ...... you're busy.");
     VoicePlay("J030500001_05_060");
     MsgDisp("Hiiragi","Sorry, I just can not take it off.");

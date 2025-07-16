@@ -11,7 +11,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B360618001_06_000");
-MsgDisp("Himuro","Phew...... I'm tired.
+MsgDisp("Himuro","Phew......
+I'm tired.
 I did my best today.");
 MsgDisp("主人公","Was it not fun?");
 ChEye(6,0);
@@ -26,8 +27,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360618001_06_020");
-MsgDisp("Himuro","......Plus,
-everyone's after you.");
+MsgDisp("Himuro","......Plus, everyone's after you.");
 MsgDisp("主人公","Huh?
 That's not true——");
 ChEye(6,0);

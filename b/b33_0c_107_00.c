@@ -60,8 +60,7 @@ ChMotion(6,4);
 VoicePlay("B330C10700_06_020");
 MsgDisp("Himuro","Can't you see that we've been defeated by
 your spinning?");
-MsgDisp("主人公","Maybe I spun it 
-a little too much...");
+MsgDisp("主人公","Maybe I spun it a little too much...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -87,8 +86,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C10700_07_030");
-MsgDisp("Mikage","Oohhー. I think I'm falling for you,
-Yanosuke...");
+MsgDisp("Mikage","Oohhー.
+I think I'm falling for you, Yanosuke...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -107,7 +106,8 @@ MsgDisp("Hiiragi","Well, let's enjoy ourselves to the
 fullest?");
 MsgDisp("主人公","Yeah...!");
 MsgDisp("主人公","(I'm happy but, Is it really okay to leave
-｛氷室＊＊｝ and ｛御影＊＊｝ behind?)");
+｛氷室＊＊｝ and
+｛御影＊＊｝ behind?)");
 BGMStop();
 MsgClose();
 ChEye(5,0);

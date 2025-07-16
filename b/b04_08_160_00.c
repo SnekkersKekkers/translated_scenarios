@@ -38,8 +38,8 @@ are ya ready?");
     ChMotion(8,2,1);
     ChCheek(8,5);
     VoicePlay("B040816000_08_030");
-    MsgDisp("Shirahane","Eh... you'll get it read with me? Are you
-anticipating it...?");
+    MsgDisp("Shirahane","Eh... you'll get it read with me?
+Are you anticipating it...?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

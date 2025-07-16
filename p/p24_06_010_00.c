@@ -64,8 +64,8 @@ MsgDisp("Himuro","Firstly, if it were destined to be
 separated by the celestial emperor,
 wouldn't it have been better to not have
 met her at all?");
-MsgDisp("主人公","Hmmm... But no one know what fate holds,
-right?");
+MsgDisp("主人公","Hmmm...
+But no one know what fate holds, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -91,13 +91,15 @@ VoicePlay("P240601000_06_080");
 MsgDisp("Himuro","Well, if I were Hikoboshi, even after I
 met Orihime, I wouldn't become
 undisciplined.");
-MsgDisp("主人公","Hehe, that's just like you, ｛氷室＊＊｝.");
+MsgDisp("主人公","Hehe, that's just like you,
+｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("P240601000_06_090");
 MsgDisp("Himuro","You also have to be careful.");
-MsgDisp("主人公","Eh? Me?");
+MsgDisp("主人公","Eh?
+Me?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

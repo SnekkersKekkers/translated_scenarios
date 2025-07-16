@@ -18,4 +18,5 @@ MsgDisp("Hiiragi","With you wearing it, it isn't a missed
 opportunity.
 Just as one would expect.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems to like this outfit.)");
+｛柊＊＊＊｝ seems to like this
+outfit.)");

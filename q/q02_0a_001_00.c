@@ -11,10 +11,11 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("Q020A00100_01_000");
-MsgDisp("Kazama","｛主人公｝, did you sleep well?");
-MsgDisp("主人公","Yeah, absolutely.
-｛風真＊＊｝, ｛颯砂＊＊｝, are you two
-hanging out together for the free period?");
+MsgDisp("Kazama","｛主人公｝, did you sleep
+well?");
+MsgDisp("主人公","Yeah, absolutely. ｛風真＊＊｝,
+｛颯砂＊＊｝, are you two hanging
+out together for the free period?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -40,8 +41,8 @@ The three of us will be going together.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q020A00100_01_020");
-    MsgDisp("Kazama","Yeah. When possible, let's remember Inori,
-too.");
+    MsgDisp("Kazama","Yeah.
+When possible, let's remember Inori, too.");
     MsgDisp("主人公","Hehe, yeah.
 It would have been a lot of fun if the
 four of us could have gone together.");
@@ -49,8 +50,9 @@ four of us could have gone together.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("Q020A00100_02_030");
-    MsgDisp("Sassa","Yup. Well, I'm sure he's content enough
-with your feelings.");
+    MsgDisp("Sassa","Yup.
+Well, I'm sure he's content enough with
+your feelings.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

@@ -134,7 +134,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4,1);
 VoicePlay("Q100A00000_02_090");
-MsgDisp("Sassa","Yeah. He's nice to his senpai.");
+MsgDisp("Sassa","Yeah.
+He's nice to his senpai.");
 ChEye(1,0);
 ChEye(2,0);
 ChMouth(2,4);

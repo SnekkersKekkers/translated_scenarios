@@ -30,8 +30,9 @@ Today we'll have good economic fortune?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040523202_05_020");
-        MsgDisp("Hiiragi","Hmm... It's not a lottery, since there's
-no hit or miss?");
+        MsgDisp("Hiiragi","Hmm...
+It's not a lottery, since there's no hit
+or miss?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -86,8 +87,7 @@ Thank you.");
         ChMotion(5,4);
         VoicePlay("B040523202_05_080");
         MsgDisp("Hiiragi","Yes.
-But... 
-do you want to try again?");
+But... do you want to try again?");
         MsgDisp("主人公","(｛柊＊＊＊｝, you like fortune telling
 this much...)");
         break ;

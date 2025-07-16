@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040210102_02_010");
-    MsgDisp("Sassa","In that sense I feel the same...
-but that's not what I meant.");
+    MsgDisp("Sassa","In that sense I feel the same... but
+that's not what I meant.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,8 @@ Well, I completely don't get it though.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040210102_02_030");
-        MsgDisp("Sassa","Seriously? You should have said a bit
-sooner.");
+        MsgDisp("Sassa","Seriously?
+You should have said a bit sooner.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -63,17 +63,16 @@ To be honest, me too.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040210102_02_050");
-        MsgDisp("Sassa","Then, why did we come
-here so many times?");
+        MsgDisp("Sassa","Then, why did we come here so many times?");
         MsgDisp("主人公","Hehe, seriously.
 I wonder why?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040210102_02_060");
-        MsgDisp("Sassa","It was you, 
-I thought you liked it.");
-        MsgDisp("主人公","I also thought ｛颯砂＊＊｝ liked it.");
+        MsgDisp("Sassa","It was you, I thought you liked it.");
+        MsgDisp("主人公","I also thought ｛颯砂＊＊｝ liked
+it.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,4);

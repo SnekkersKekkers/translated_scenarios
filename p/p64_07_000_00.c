@@ -6,7 +6,8 @@ ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("P640700000_07_000");
 MsgDisp("Mikage","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝ how was it?");
+MsgDisp("主人公","Ah, ｛御影＊＊｝ how was
+it?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

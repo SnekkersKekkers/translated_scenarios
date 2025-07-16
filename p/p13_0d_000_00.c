@@ -19,9 +19,10 @@ VoicePlay("P130D00000_22_000");
 MsgDisp("Hikaru","It's a maze, you say?
 Mari's class thought of something quite
 interesting!");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝,
-welcome. It's the cow Molly's maze, feel
-free to enter～!");
+MsgDisp("主人公","｛みちる＊｝,
+｛ひかる＊｝, welcome.
+It's the cow Molly's maze, feel free to
+enter～!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

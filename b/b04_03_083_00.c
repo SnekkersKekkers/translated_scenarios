@@ -5,8 +5,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B040308300_03_000");
-MsgDisp("Honda","Question! Where are fireflies in the
-daytime?");
+MsgDisp("Honda","Question!
+Where are fireflies in the daytime?");
 MsgSel("Maybe in the water?","In the ground?","Behind the blades of grass?");
 switch (MsgSelRsltGet()){
     case 0:

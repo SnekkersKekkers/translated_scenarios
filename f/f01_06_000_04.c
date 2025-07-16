@@ -35,8 +35,7 @@ That's unfortunate.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("F010600004_06_030");
-    MsgDisp("Himuro","If you want,
-invite me another time.");
+    MsgDisp("Himuro","If you want, invite me another time.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -27,8 +27,7 @@ switch (MsgSelRsltGet()){
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623602_06_010");
-        MsgDisp("Himuro","I was talking about 
-a shorter timeframe.");
+        MsgDisp("Himuro","I was talking about a shorter timeframe.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -66,8 +65,7 @@ too.");
         VoicePlay("B040623602_06_060");
         MsgDisp("Himuro","...No, I'll be troubled if it hasn't
 changed.");
-        MsgDisp("主人公","Why would 
-that be a problem?");
+        MsgDisp("主人公","Why would that be a problem?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0,1);
@@ -80,7 +78,8 @@ Please forgive me for that.");
         ChMouth(6,4);
         ChMotion(6,1);
         VoicePlay("B040623602_06_080");
-        MsgDisp("Himuro","It's fine if you don't understand. But...
+        MsgDisp("Himuro","It's fine if you don't understand.
+But...
 I hope you're looking forward to it.");
         ChEye(6,0);
         ChMouth(6,4);
@@ -107,8 +106,7 @@ I feel like it can change.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623602_06_110");
-    MsgDisp("Himuro","It doesn't matter 
-who it is, right?");
+    MsgDisp("Himuro","It doesn't matter who it is, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

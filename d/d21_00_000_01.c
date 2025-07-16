@@ -12,7 +12,7 @@ MsgClose();
 BGOpen("ne100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(......Yeah, I think this would make a
-good article♪
-Let's go home and start writing!)");
+good article♪ Let's go home and start
+writing!)");
 MsgClose();
 ScrFadeOut(0);

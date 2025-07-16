@@ -23,8 +23,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040414001_04_020");
-    MsgDisp("Nanatsumori","Haha! That's fine too. It gets pretty
-exciting during the show.");
+    MsgDisp("Nanatsumori","Haha!
+That's fine too.
+It gets pretty exciting during the show.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

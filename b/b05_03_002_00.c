@@ -22,8 +22,9 @@ Wait(20,0);
 SEPlay("EV_SE_575",0,0.9);
 SEWait();
 VoicePlay("B050300200_03_020");
-MsgDisp("Honda","——Okay. It's ready. You can open your
-eyes now.");
+MsgDisp("Honda","——Okay.
+It's ready.
+You can open your eyes now.");
 MsgDisp("主人公","......Okay.");
 MsgClose();
 ChClose(3);
@@ -32,7 +33,8 @@ StlOpen("ev_03_04");
 StlEye(3,0);
 StlMouth(3,0);
 ScrFadeIn(4);
-MsgDisp("主人公","Uwaah......Pretty!");
+MsgDisp("主人公","Uwaah......
+Pretty!");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("B050300200_03_030");
@@ -53,7 +55,8 @@ VoicePlay("B050300200_03_050");
 MsgDisp("Honda","The mechanism itself is the same as an
 actual planetarium.");
 MsgDisp("主人公","That's really amazing!
-｛本多＊＊｝ can do some commentary now.");
+｛本多＊＊｝ can do some
+commentary now.");
 StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,0);
@@ -95,10 +98,12 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("B050300200_03_110");
-MsgDisp("Honda","Yeah. My sister really liked it, so we had
-fun memorizing the stars.");
-MsgDisp("主人公","That kind of upbringing made ｛本多＊＊｝
-who he is today, huh?");
+MsgDisp("Honda","Yeah.
+My sister really liked it, so we had fun
+memorizing the stars.");
+MsgDisp("主人公","That kind of upbringing made
+｛本多＊＊｝ who he is today,
+huh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

@@ -12,4 +12,5 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B070500000_05_000");
-MsgDisp("Hiiragi","Hm? What's is it?");
+MsgDisp("Hiiragi","Hm?
+What's is it?");

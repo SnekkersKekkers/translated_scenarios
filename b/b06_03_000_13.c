@@ -13,7 +13,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,5);
     MsgDispSksp(1,3);
     VoicePlay("B060300013_03_010");
-    MsgDisp("Honda","Yay!　Let's go then.");
+    MsgDisp("Honda","Yay!
+Let's go then.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);

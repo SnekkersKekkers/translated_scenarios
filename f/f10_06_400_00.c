@@ -7,7 +7,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,30,0,0,0,#1,#1,0,0);
 VoicePlay("F100640000_06_000");
 MsgDisp("Himuro","Ah...");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝. Do you have PE now?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Do you have PE now?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -22,7 +23,8 @@ ChPosition(6,1);
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,30,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","Ah, ｛風真＊＊｝. What's up?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
+What's up?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);

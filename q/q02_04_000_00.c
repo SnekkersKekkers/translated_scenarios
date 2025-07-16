@@ -34,7 +34,8 @@ with me?");
         VoicePlay("Q020400000_04_030");
         MsgDisp("Nanatsumori","Yeah true.
 Let's have fun.");
-        MsgDisp("主人公","(Free time with ｛七ツ森＊｝!
+        MsgDisp("主人公","(Free time with
+｛七ツ森＊｝!
 I'm really excited!)");
         break ;
         case 1:
@@ -45,8 +46,7 @@ Oh well, I'll go on my own.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);
-        MsgDisp("主人公","(He even invited me,
-I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
         DbgAssert(0);
@@ -62,11 +62,13 @@ I feel bad......)");
     ChOpen(4,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020400000_04_050");
     MsgDisp("Nanatsumori","Mornin'.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Good morning.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+Good morning.");
     ChEye(4,3);
     ChMouth(4,3);
     VoicePlay("Q020400000_04_060");
-    MsgDisp("Nanatsumori","Mhm. It's good that you're full of energy.");
+    MsgDisp("Nanatsumori","Mhm.
+It's good that you're full of energy.");
     ChMotion(4,1,1);
     VoicePlay("Q020400000_04_070");
     MsgDisp("Nanatsumori","Wanna hang out during the free period
@@ -84,9 +86,11 @@ period together?");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("Q020400000_04_090");
-        MsgDisp("Nanatsumori","Nothing. I hope we can make great memories
+        MsgDisp("Nanatsumori","Nothing.
+I hope we can make great memories
 together.");
-        MsgDisp("主人公","(Hehe! I'm sure this free period will be a
+        MsgDisp("主人公","(Hehe!
+I'm sure this free period will be a
 blast!)");
         break ;
         case 1:
@@ -99,8 +103,7 @@ Got it");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);
-        MsgDisp("主人公","(He even invited me,
-I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
         DbgAssert(0);

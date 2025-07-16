@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(7,255,4,2,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723300_07_000");
-MsgDisp("Mikage","W-Who came up with this? ");
+MsgDisp("Mikage","W-Who came up with this?");
 MsgSel("I could get used to this thrill!","Hey, that's enough...","It was a very interesting experience...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -14,7 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040723300_07_010");
-    MsgDisp("Mikage","Hey. Are you okay....");
+    MsgDisp("Mikage","Hey.
+Are you okay....");
     MsgDateResultDisp();
     break ;
     case 1:

@@ -8,7 +8,7 @@ VoiceEVSPlay(6);
 VoicePlay("B180600000_06_000");
 MsgDisp("Himuro","｛主人公｝.");
 MsgDisp("主人公","What?
-...Wait, eh——");
+... Wait, eh——");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -23,8 +23,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B180600000_06_020");
-    MsgDisp("Himuro","Thanks. ...Well, it's not really a matter
-of asking permission.");
+    MsgDisp("Himuro","Thanks.
+... Well, it's not really a matter of
+asking permission.");
     MsgDisp("主人公","(I feel kind of flustered...)");
     break ;
     case 1:

@@ -12,12 +12,13 @@ switch (ChPrmGet(22,6)){
     ScrFadeIn(0);
     VoicePlay("H482200000_22_000");
     MsgDisp("Hikaru","So this day has finally arrived.");
-    MsgDisp("主人公","｛ひかる＊｝. Yeah, it's finally
-time......!");
+    MsgDisp("主人公","｛ひかる＊｝.
+Yeah, it's finally time......!");
     ChMotion(22,4,1);
     VoicePlay("H482200000_22_010");
     MsgDisp("Hikaru","Just keep performing as you always have
-and you'll be fine! Right?");
+and you'll be fine!
+Right?");
     MsgDisp("主人公","Yeah!");
     BGMStop();
     MsgClose();
@@ -32,9 +33,11 @@ and you'll be fine! Right?");
     ScrFadeIn(0);
     ChMotion(22,4,1);
     VoicePlay("H482200000_22_020");
-    MsgDisp("Hikaru","Hi～ Mari!
+    MsgDisp("Hikaru","Hi～
+Mari!
 Are you ready?");
-    MsgDisp("主人公","｛ひかる＊｝. Yeah, I'm fine.");
+    MsgDisp("主人公","｛ひかる＊｝.
+Yeah, I'm fine.");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,3,1);

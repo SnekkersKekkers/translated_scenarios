@@ -11,7 +11,8 @@ ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,1 ) ;
 VoicePlay ( "D150003501_03_010" ) ;
-MsgDisp ( "Honda","Yepyep. I'm hungry now." ) ;
+MsgDisp ( "Honda","Yepyep.
+I'm hungry now." ) ;
 ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
@@ -23,21 +24,25 @@ ChEye ( 5,4 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,4 ) ;
 VoicePlay ( "D150003501_05_010" ) ;
-MsgDisp ( "Hiiragi","Yes. It was a cute and lively bug." ) ;
+MsgDisp ( "Hiiragi","Yes.
+It was a cute and lively bug." ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,2 ) ;
 VoicePlay ( "D150003501_03_020" ) ;
-MsgDisp ( "Honda","Yano-kun. That's interesting. I've never
-imagined a stomach bug." ) ;
+MsgDisp ( "Honda","Yano-kun.
+That's interesting.
+I've never imagined a stomach bug." ) ;
 ChEye ( 5,4 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,0 ) ;
 VoicePlay ( "D150003501_05_020" ) ;
-MsgDisp ( "Hiiragi","Okay. Let's imagine it together then. Yes,
-you too." ) ;
-MsgDisp ( "主人公","(Hehe, I can picture ｛柊＊＊＊｝'s
-stomach bug too. So cute.)" ) ;
+MsgDisp ( "Hiiragi","Okay.
+Let's imagine it together then.
+Yes, you too." ) ;
+MsgDisp ( "主人公","(Hehe, I can picture
+｛柊＊＊＊｝'s stomach bug too.
+So cute.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

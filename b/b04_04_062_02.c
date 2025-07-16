@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     ChCheek(4,5);
     VoicePlay("B040406202_04_010");
-    MsgDisp("Nanatsumori","Yeah... for sure. I wouldn't know where to
-look.");
+    MsgDisp("Nanatsumori","Yeah... for sure.
+I wouldn't know where to look.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -63,8 +63,7 @@ Your eyes are kinda scary");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040406202_04_050");
-        MsgDisp("Nanatsumori","...
-That might be the best.");
+        MsgDisp("Nanatsumori","... That might be the best.");
         MsgDisp("主人公","Hm?");
         ChEye(4,0);
         ChMotion(4,2);

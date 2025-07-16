@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040416002_04_010");
-    MsgDisp("Nanatsumori","Really? I never go to the arcade by myself
-after all.");
+    MsgDisp("Nanatsumori","Really?
+I never go to the arcade by myself after
+all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -56,8 +57,8 @@ Cute.");
         ChMotion(4,0,1);
         VoicePlay("B040416002_04_040");
         MsgDisp("Nanatsumori","Why?");
-        MsgDisp("主人公","After all, ｛七ツ森＊｝ is a very
-popular high school model.
+        MsgDisp("主人公","After all, ｛七ツ森＊｝
+is a very popular high school model.
 If this photo were to be leaked...");
         ChEye(4,4);
         ChMouth(4,4);

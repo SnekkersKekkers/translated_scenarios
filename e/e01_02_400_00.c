@@ -7,7 +7,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010240000_21_000");
 MsgDisp("Michiru","Mari, what a coincidence.");
-MsgDisp("主人公","Ah, ｛みちる＊｝. Going out alone?");
+MsgDisp("主人公","Ah, ｛みちる＊｝.
+Going out alone?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -23,7 +24,8 @@ Wait(10,0);
 ChOpen(2,255,0,0,4,#1,#1,0,2);
 VoiceEVSPlay(2);
 VoicePlay("E010240000_02_000");
-MsgDisp("Sassa","｛主人公｝. Oh, and Michiru-san too.");
+MsgDisp("Sassa","｛主人公｝.
+Oh, and Michiru-san too.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -35,7 +37,8 @@ ChMotion(2,4);
 VoicePlay("E010240000_02_010");
 MsgDisp("Sassa","Yeah maybe.
 What were you doing?");
-MsgDisp("主人公","｛みちる＊｝ is going to work.");
+MsgDisp("主人公","｛みちる＊｝ is going to
+work.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -47,13 +50,15 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("E010240000_21_030");
-MsgDisp("Michiru","Huh...... Why?");
+MsgDisp("Michiru","Huh......
+Why?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("E010240000_02_030");
-MsgDisp("Sassa","Why?...... I've been given a mission to go
-buy sweets.");
+MsgDisp("Sassa","Why?......
+I've been given a mission to go buy
+sweets.");
 MsgDisp("主人公","You're an errand boy?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -76,9 +81,11 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("E010240000_21_040");
-MsgDisp("Michiru","You can leave it to me. But, Mari is
-coming too. Right?");
-MsgDisp("主人公","Huh? I was just about to......");
+MsgDisp("Michiru","You can leave it to me.
+But, Mari is coming too.
+Right?");
+MsgDisp("主人公","Huh?
+I was just about to......");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -97,8 +104,8 @@ VoicePlay("E010240000_21_050");
 MsgDisp("Michiru","I'm so sorry to have involved you.
 It's just that, alone with a boy,
 I'm......");
-MsgDisp("主人公","(Is ｛みちる＊｝ embarrassed to be
-alone with a boy?
+MsgDisp("主人公","(Is ｛みちる＊｝
+embarrassed to be alone with a boy?
 Maybe she's not used to it.)");
 BGMStop();
 MsgClose();

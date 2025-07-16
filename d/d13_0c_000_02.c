@@ -25,10 +25,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D130C00002_07_010");
-MsgDisp("Mikage","Wait wait, don't panic. The day is still
-young. ...right?");
-MsgDisp("主人公","Today... ah. Are you talking about
-Valentine's day?");
+MsgDisp("Mikage","Wait wait, don't panic.
+The day is still young. ... right?");
+MsgDisp("主人公","Today... ah.
+Are you talking about Valentine's day?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -39,8 +39,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("D130C00002_05_010");
-MsgDisp("Hiiragi","Then, we'll
-return to our posts.");
+MsgDisp("Hiiragi","Then, we'll return to our posts.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

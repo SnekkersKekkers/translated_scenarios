@@ -46,9 +46,9 @@ VoicePlay("D012100100_21_060");
 MsgDisp("Michiru","Hehe. Of course. I prepared them for this
 reason, so please enjoy.");
 MsgDisp("主人公","Okay, thanks for the food!");
-MsgDisp("主人公",".........! ｛みちる＊｝, these are
-amazing! So yummy and the texture is
-completely new to me......!");
+MsgDisp("主人公",".........! ｛みちる＊｝,
+these are amazing! So yummy and the
+texture is completely new to me......!");
 StlEye(21,1);
 VoicePlay("D012100100_21_070");
 MsgDisp("Michiru","What a relief!
@@ -66,11 +66,12 @@ StlMouth(21,1);
 Wait(20,0);
 StlEye(21,1);
 VoicePlay("D012100100_21_090");
-MsgDisp("Michiru","......Mmm, delicious!
+MsgDisp("Michiru","...... Mmm, delicious!
 I'd say it's a great success▼");
-MsgDisp("主人公","(｛みちる＊｝ looks really happy! I
-think these sweets will be successful! As
-expected of ｛みちる＊｝......! )");
+MsgDisp("主人公","(｛みちる＊｝ looks really happy! I think
+these sweets will be successful! As
+expected of ｛みちる＊｝......!
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

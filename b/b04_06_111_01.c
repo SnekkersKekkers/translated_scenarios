@@ -41,7 +41,8 @@ essential.");
     ChMotion(6,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040611101_06_030");
-    MsgDisp("Himuro","Ha? Where?");
+    MsgDisp("Himuro","Ha?
+Where?");
     MsgDateResultDisp();
     break ;
     default :

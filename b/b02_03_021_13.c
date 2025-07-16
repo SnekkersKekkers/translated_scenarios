@@ -12,5 +12,5 @@ MsgDisp("Honda","Righty-right.
 A long time ago, my sister had a doll as
 cute as you are today.");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like clothes like
-this, too.)");
+｛本多＊＊｝ seems to like
+clothes like this, too.)");

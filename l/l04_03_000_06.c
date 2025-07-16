@@ -20,7 +20,8 @@ just......");
     ChMotion(3,0);
     VoicePlay("L040300006_03_020");
     MsgDisp("Honda","I'll look at it more closely at home,
-okay? Thanks.");
+okay?
+Thanks.");
     MsgDisp("主人公","(Just looking......?
 Ugh, I should've tried harder.)");
     break ;
@@ -67,8 +68,8 @@ I should've tried harder......)");
     ChMotion(3,1);
     VoiceEVSPlay(3);
     VoicePlay("L040300006_03_080");
-    MsgDisp("Honda","｛主人公｝. Let's make it together next
-year!");
+    MsgDisp("Honda","｛主人公｝.
+Let's make it together next year!");
     MsgDisp("主人公","What?");
     ChMouth(3,0);
     ChMotion(3,4);
@@ -97,7 +98,8 @@ I'm happy enough from your feelings.");
     VoicePlay("L040300006_03_120");
     MsgDisp("Honda","So, I don't want Valentine's to be a bad
 memory for you.");
-    MsgDisp("主人公","｛本多＊＊｝...... Thank you.");
+    MsgDisp("主人公","｛本多＊＊｝......
+Thank you.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4);

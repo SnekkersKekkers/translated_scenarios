@@ -62,8 +62,8 @@ a limited amount of times.");
         ChMotion(2,0);
         VoicePlay("B040208102_02_050");
         MsgDisp("Sassa","I have to make it bloom splendidly.");
-        MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝, it'll be
-alright.");
+        MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝, it'll
+be alright.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -76,8 +76,8 @@ it'll go well.");
         VoicePlay("B040208102_02_070");
         MsgDisp("Sassa","Alright, I too will bloom suddenly, then
 fade suddenly!");
-        MsgDisp("主人公","Hehe, ｛颯砂＊＊｝ doesn't have to fade
-though?");
+        MsgDisp("主人公","Hehe, ｛颯砂＊＊｝ doesn't have
+to fade though?");
         ChEye(2,4);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -90,8 +90,9 @@ huh?");
         ChMotion(2,3);
         ChCheek(2,10);
         VoicePlay("B040208102_02_090");
-        MsgDisp("Sassa","Eh? No, what am I saying? Forget it, I'm
-sorry!");
+        MsgDisp("Sassa","Eh?
+No, what am I saying?
+Forget it, I'm sorry!");
         MsgDisp("主人公","(｛颯砂＊＊｝......)");
         break ;
         default :

@@ -10,15 +10,17 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020120101_01_010");
-MsgDisp("Kazama","Oh? I heard that loud and clear. I'm
-always willing and ready.");
+MsgDisp("Kazama","Oh?
+I heard that loud and clear.
+I'm always willing and ready.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120101_01_020");
 MsgDisp("Kazama","Though you seem busy.");
-MsgDisp("主人公","Huh? I don't think that's true......");
+MsgDisp("主人公","Huh?
+I don't think that's true......");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

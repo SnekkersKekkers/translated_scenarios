@@ -1,7 +1,7 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Oh yeah, ｛七ツ森＊｝ is almost done
-with a shoot...)");
+MsgDisp("主人公","(Oh yeah, ｛七ツ森＊｝ is
+almost done with a shoot...)");
 MsgClose();
 SEPlay("EV_SE_DOOR_014");
 Wait(20,0);
@@ -20,8 +20,7 @@ ChCheek(4,5);
 VoicePlay("G110400704_04_010");
 MsgDisp("Nanatsumori","Ah... yeah.
 I'm back.");
-MsgDisp("主人公","We have a special seat waiting
-for you.");
+MsgDisp("主人公","We have a special seat waiting for you.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(4);
@@ -62,7 +61,7 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("G110400704_04_080");
-MsgDisp("Nanatsumori","...Yeah.
+MsgDisp("Nanatsumori","... Yeah.
 In any case, I'm fine with it...");
 MsgDisp("主人公","?");
 ChEye(4,2);
@@ -71,7 +70,8 @@ ChMotion(4,0);
 VoicePlay("G110400704_04_090");
 MsgDisp("Nanatsumori","Phew!
 Today was a good day.");
-MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ is in a good mood.
+MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ is in
+a good mood.
 Thank you for your hard work today.)");
 BGMStop();
 MsgClose();

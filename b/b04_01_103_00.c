@@ -31,8 +31,8 @@ activities, though.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040110300_01_020");
-    MsgDisp("Kazama","What do his looks have to do with it? ...
-Sheesh, women are always like this...");
+    MsgDisp("Kazama","What do his looks have to do with it?
+... Sheesh, women are always like this...");
     MsgDateResultDisp();
     break ;
     case 2:

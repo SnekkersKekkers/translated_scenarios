@@ -9,27 +9,31 @@ switch (ChPrmGet(3,6)){
     case 2:
     VoicePlay("J010300000_03_000");
     MsgDisp("Honda","Hello.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝? It's
+    MsgDisp("主人公","Ah, ｛本多＊＊｝?
+It's
 ｛主人公苗字｝.");
     VoicePlay("J010300000_03_010");
-    MsgDisp("Honda","Hmm?　What's going on?");
+    MsgDisp("Honda","Hmm?
+What's going on?");
     MsgDisp("主人公","Uh, well......");
     break ;
     case 3:
     VoicePlay("J010300000_03_020");
     MsgDisp("Honda","Hello.");
     MsgDisp("主人公","Ah, ｛本多＊＊｝? It's
-｛主人公苗字｝. Is now a good time
-to talk?");
+｛主人公苗字｝. Is
+now a good time to talk?");
     VoicePlay("J010300000_03_030");
-    MsgDisp("Honda","Sure! What's up?");
+    MsgDisp("Honda","Sure!
+What's up?");
     MsgDisp("主人公","Uh, you see......");
     break ;
     case 4:
     case 5:
     VoicePlay("J010300000_03_040");
     MsgDisp("Honda","Hello.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝? It's
+    MsgDisp("主人公","Ah, ｛本多＊＊｝?
+It's
 ｛主人公苗字｝.");
     VoicePlay("J010300000_03_050");
     MsgDisp("Honda","Just in time.

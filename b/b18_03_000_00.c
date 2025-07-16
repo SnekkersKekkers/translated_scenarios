@@ -21,13 +21,15 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("B180300000_03_020");
-    MsgDisp("Honda","Really∋　Yay!");
+    MsgDisp("Honda","Really∋
+Yay!");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B180300000_03_030");
     VoiceEVSPlay(3);
-    MsgDisp("Honda","Ahem... ｛主人公｝.");
+    MsgDisp("Honda","Ahem...
+｛主人公｝.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);

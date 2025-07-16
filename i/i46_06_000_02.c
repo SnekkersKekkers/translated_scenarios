@@ -22,14 +22,14 @@ switch (ChPrmGet(6,6)){
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600002_06_010");
     MsgDisp("Himuro","Yeah.
-......My sense is being tested.");
+...... My sense is being tested.");
     MsgDisp("主人公","Wouldn't it be easier if you decide on a
 flower as the center?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600002_06_020");
-    MsgDisp("Himuro","......I see.
+    MsgDisp("Himuro","...... I see.
 I'll use that idea.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -46,7 +46,7 @@ I'll use that idea.");
     ChCheek(6,10);
     VoicePlay("I460600002_06_040");
     MsgDisp("Himuro","Since I used your idea.
-......I'm thankful, I guess.");
+...... I'm thankful, I guess.");
     MsgDisp("主人公","(I helped ｛氷室＊＊｝!
 I'm glad.)");
     break ;
@@ -62,8 +62,7 @@ I'm glad.)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600002_06_060");
-    MsgDisp("Himuro","What's the point in
-lying about that?");
+    MsgDisp("Himuro","What's the point in lying about that?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -77,8 +76,9 @@ you have good sense, right?");
     VoicePlay("I460600002_06_080");
     MsgDisp("Himuro","This might be your calling, huh?
 I think it suits you.");
-    MsgDisp("主人公","Really? Then maybe I'll open a flower shop
-in the future.");
+    MsgDisp("主人公","Really?
+Then maybe I'll open a flower shop in the
+future.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0,1);

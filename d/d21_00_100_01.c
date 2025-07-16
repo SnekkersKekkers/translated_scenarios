@@ -23,15 +23,17 @@ VoicePlay("D210020001_46_000");
 MsgDisp("Woman A","That sculpture makes a sound when you
 touch it!");
 VoicePlay("D210020001_47_000");
-MsgDisp("Woman B","Yeah! It's said that you can predict your
-love life with the sound it makes.");
+MsgDisp("Woman B","Yeah!
+It's said that you can predict your love
+life with the sound it makes.");
 MsgDisp("主人公","............");
 MsgDisp("主人公","(I guess I should try to touch it?
-......Let's give it a shot.)");
+...... Let's give it a shot.)");
 SEPlay("EV_SE_517");
 Wait(110,0);
-MsgDisp("主人公","(! What a beautiful sound......Is that a
-good sign?)");
+MsgDisp("主人公","(!
+What a beautiful sound......
+Is that a good sign?)");
 SEStop("EV_SE_517",2);
 MsgDisp("主人公","(Yep, this is a perfect date spot.
 A new trendy spot, \"The Wharf\", I'll go

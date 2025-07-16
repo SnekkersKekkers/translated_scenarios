@@ -26,14 +26,16 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140C04001_05_010");
 MsgDisp("Hiiragi","Surely he's hungry?");
-MsgDisp("主人公","Hehe. You both sure do like ｛氷室＊＊｝,
+MsgDisp("主人公","Hehe.
+You both sure do like ｛氷室＊＊｝,
 don't you?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("D140C04001_05_020");
-MsgDisp("Hiiragi","Hm? I cannot let Inori-kun hear what you
-just said.");
+MsgDisp("Hiiragi","Hm?
+I cannot let Inori-kun hear what you just
+said.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -76,37 +78,36 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140C04001_05_060");
-MsgDisp("Hiiragi","...I see.
+MsgDisp("Hiiragi","... I see.
 I too like Inori-kun.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D140C04001_07_040");
-MsgDisp("Mikage","Hahaha, 
-I like you all too you know?");
+MsgDisp("Mikage","Hahaha, I like you all too you know?");
 ChEyeOpenLevel(5,#1);
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C04001_07_050");
-MsgDisp("Mikage","｛主人公｝, Yanosuke, Inori...
-I think you're all so diligent to the
-point it's funny.");
+MsgDisp("Mikage","｛主人公｝, Yanosuke,
+Inori... I think you're all so diligent to
+the point it's funny.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C04001_05_070");
-MsgDisp("Hiiragi","I aim to be diligent but... funny? I don't
-understand.");
+MsgDisp("Hiiragi","I aim to be diligent but... funny?
+I don't understand.");
 MsgDisp("主人公","Yeah.
 I also don't get it.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C04001_07_060");
-MsgDisp("Mikage","Hahaha. See, it's funny as soon as you
-speak.");
+MsgDisp("Mikage","Hahaha.
+See, it's funny as soon as you speak.");
 MsgDisp("主人公","(｛御影＊＊｝ thinks we're funny...)");
 BGMStop();
 MsgClose();

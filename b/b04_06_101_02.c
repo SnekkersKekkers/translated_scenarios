@@ -70,13 +70,12 @@ even if you try your best.");
         VoicePlay("B040610102_06_060");
         MsgDisp("Himuro","Even I don't like that I'm born after you
 either.");
-        MsgDisp("主人公","That's true...
-sorry.");
+        MsgDisp("主人公","That's true... sorry.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,2);
         VoicePlay("B040610102_06_070");
-        MsgDisp("Himuro","...No, I'm the one who should say sorry.
+        MsgDisp("Himuro","... No, I'm the one who should say sorry.
 This is normally something I'm worried
 about, so it just came out.");
         MsgDisp("主人公","Really?");
@@ -92,8 +91,7 @@ class.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040610102_06_090");
-        MsgDisp("Himuro","And... someday
-you'll graduate before me.");
+        MsgDisp("Himuro","And... someday you'll graduate before me.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,2);
@@ -108,8 +106,8 @@ of one year.");
         VoicePlay("B040610102_06_110");
         MsgDisp("Himuro","Why do you look so lonely?
 You're the one who's leaving me behind.");
-        MsgDisp("主人公","Ehhh∋ It's not that I'm leaving you
-behind...");
+        MsgDisp("主人公","Ehhh∋
+It's not that I'm leaving you behind...");
         ChEye(6,0);
         ChMouth(6,3);
         ChMotion(6,0);

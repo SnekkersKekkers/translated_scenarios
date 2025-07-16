@@ -41,15 +41,17 @@ VoicePlay("G020130101_01_050");
 MsgDisp("Kazama","Do you consider me just a member of some
 larger group?
 'Cause I consider you special.");
-MsgDisp("主人公","You're important to me, ｛風真＊＊｝.
+MsgDisp("主人公","You're important to me,
+｛風真＊＊｝.
 You're my one and only childhood friend.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_060");
-MsgDisp("Kazama","Urk......Yeah, that I am.
-......Okay, fine, I'll accept it.");
+MsgDisp("Kazama","Urk......
+Yeah, that I am.
+...... Okay, fine, I'll accept it.");
 MsgDisp("主人公","Is something wrong?");
 ChEye(1,0);
 ChMouth(1,1);

@@ -14,8 +14,9 @@ switch (ChPrmGet(8,6)){
     StlEye(21,3);
     StlMouth(21,0);
     VoicePlay("U130D00007_21_000");
-    MsgDisp("Michiru","Hehe. Are you breaking up with Habataki
-High School?");
+    MsgDisp("Michiru","Hehe.
+Are you breaking up with Habataki High
+School?");
     StlEye(21,0);
     StlEye(22,2);
     StlMouth(22,0);
@@ -38,8 +39,9 @@ part-time job.)");
     StlEyeOpenLevel(22,5);
     StlMouth(22,0);
     VoicePlay("U130D00007_22_020");
-    MsgDisp("Hikaru","Yupyup. You're on good terms with the
-Hanegasaki boy♪");
+    MsgDisp("Hikaru","Yupyup.
+You're on good terms with the Hanegasaki
+boy♪");
     StlEye(21,0);
     VoicePlay("U130D00007_21_010");
     MsgDisp("Michiru","He has a competitive spirit and takes a
@@ -49,9 +51,9 @@ lot of interest in Habataki celebrities.");
     MsgDisp("Michiru","I think Mari should show him how cool she
 is. Making a lot of friends at school
 might ignite his competitive side");
-    MsgDisp("主人公","(｛大地＊＊｝ is competitive, huh......If
-I become friends with him, will I be able
-to see every side of him?)");
+    MsgDisp("主人公","(｛大地＊＊｝ is competitive, huh......
+If I become friends with him, will I be
+able to see every side of him?)");
     break ;
     case 4:
     case 5:
@@ -89,7 +91,8 @@ He's setting his sights on it......");
     MsgDisp("Hikaru","If Mari likes him too, then I think the
 key is to have the same goals.
 Good luck♪");
-    MsgDisp("主人公","(The same goals as ｛大地＊＊｝...... )");
+    MsgDisp("主人公","(The same goals as
+｛大地＊＊｝...... )");
     break ;
     default :
     DbgAssert(1);

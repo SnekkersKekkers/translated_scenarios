@@ -8,15 +8,17 @@ ChOpen(5,34,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("R080500000_05_000");
-MsgDisp("Hiiragi","｛主人公｝, this is the last party
-here, huh.");
-MsgDisp("主人公","｛柊＊＊＊｝, were you able to enjoy it?");
+MsgDisp("Hiiragi","｛主人公｝, this is the
+last party here, huh.");
+MsgDisp("主人公","｛柊＊＊＊｝, were you able to
+enjoy it?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("R080500000_05_010");
-MsgDisp("Hiiragi","Yes. I get invited to many parties because
-of my job, but this one was special.");
+MsgDisp("Hiiragi","Yes.
+I get invited to many parties because of
+my job, but this one was special.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -38,7 +40,8 @@ ChEyeOpenLevel(5,8);
 VoicePlay("R080500000_05_040");
 MsgDisp("Hiiragi","I only thought about how guests would see
 it...");
-MsgDisp("主人公","Because you're an actor, ｛柊＊＊＊｝.");
+MsgDisp("主人公","Because you're an actor,
+｛柊＊＊＊｝.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
@@ -76,7 +79,8 @@ StlOpen("ev_05_16");
 StlEye(5,0);
 StlMouth(5,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh... ｛柊＊＊＊｝?");
+MsgDisp("主人公","Huh...
+｛柊＊＊＊｝?");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("R080500000_05_080");
 MsgDisp("Hiiragi","It's a tree ornament that I couldn't
@@ -100,7 +104,8 @@ StlMouth(5,2);
 VoicePlay("R080500000_05_110");
 MsgDisp("Hiiragi","......！");
 VoicePlay("R080500000_44_000");
-MsgDisp("School Girl","Really∋　I want to see!");
+MsgDisp("School Girl","Really∋
+I want to see!");
 SEPlay("EV_SE_741",1,0.3);
 SEPlay("EV_SE_841",1,0.6);
 Wait(30,1);
@@ -110,7 +115,8 @@ VoicePlay("R080500000_05_120");
 MsgDisp("Hiiragi","Shall we act for a bit?");
 SEStop("EV_SE_741",2);
 SEStop("EV_SE_841",2);
-MsgDisp("主人公","Huh...Huuuh∋");
+MsgDisp("主人公","Huh...
+Huuuh∋");
 StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("R080500000_05_130");
@@ -148,8 +154,9 @@ VoicePlay("R080500000_05_150");
 MsgDisp("Hiiragi","My apologies.
 I guess I can't fully be a guest after
 all.");
-MsgDisp("主人公","Hehe! It was a little embarrassing but it
-was fun.");
+MsgDisp("主人公","Hehe!
+It was a little embarrassing but it was
+fun.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);

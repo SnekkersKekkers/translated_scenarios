@@ -6,15 +6,15 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(7,3);
 VoicePlay("B040706400_07_000");
-MsgDisp("Mikage","Just this atmosphere is 
-enjoyable enough.");
-MsgDisp("主人公","Do you like festivals, ｛御影＊＊｝?");
+MsgDisp("Mikage","Just this atmosphere is enjoyable enough.");
+MsgDisp("主人公","Do you like festivals,
+｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B040706400_07_010");
-MsgDisp("Mikage","Yeah. I like them more than when I was a
-kid.");
+MsgDisp("Mikage","Yeah.
+I like them more than when I was a kid.");
 MsgDisp("主人公","Is that so?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -28,8 +28,7 @@ VoicePlay("B040706400_07_030");
 MsgDisp("Mikage","Only those who have the financial power of
 an adult but retained their childlike mind
 can enjoy this.");
-MsgDisp("主人公","Hhe, you're gonna do 
-a haul aren't you?");
+MsgDisp("主人公","Hhe, you're gonna do a haul aren't you?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);

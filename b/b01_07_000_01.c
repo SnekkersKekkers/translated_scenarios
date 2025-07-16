@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛御影＊＊｝... Doesn't seem to be
-here yet.)");
+MsgDisp("主人公","(｛御影＊＊｝...
+Doesn't seem to be here yet.)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 ChPosition(7,0);
@@ -17,8 +17,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B010700001_07_010");
-MsgDisp("Mikage","I'm seriously, super sorry! ... How was
-that?");
+MsgDisp("Mikage","I'm seriously, super sorry!
+... How was that?");
 MsgDisp("主人公","Hehe, jeez.
 That's kind of sly, you know.");
 MsgDispSksp(1,0);

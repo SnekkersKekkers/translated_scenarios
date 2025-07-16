@@ -20,8 +20,7 @@ Be careful not to turn it too much.");
     MsgClose();
     ChOpen(3,255,4,0,4,#1,#1,0,0);
     VoicePlay("W090300002_03_020");
-    MsgDisp("Honda","We're gonna ride in this
-tea cup, right?");
+    MsgDisp("Honda","We're gonna ride in this tea cup, right?");
     MsgDisp("主人公","Yeah, I guess?");
     ChEye(3,3);
     ChMouth(3,3);

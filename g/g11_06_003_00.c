@@ -1,6 +1,7 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you heading home now?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Are you heading home now?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -79,7 +80,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G110600300_06_090");
-MsgDisp("Himuro","......Well, I won't force you to.
+MsgDisp("Himuro","...... Well, I won't force you to.
 Just do it if you feel like it.");
 MsgDisp("主人公","Yes, I got it!");
 ChEye(6,0);

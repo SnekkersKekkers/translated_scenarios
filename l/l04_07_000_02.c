@@ -37,8 +37,7 @@ I'm happy.");
     ChMouth(7,4);
     ChMotion(7,5);
     VoicePlay("L040700002_07_040");
-    MsgDisp("Mikage","Hey, you got a little too
-excited.");
+    MsgDisp("Mikage","Hey, you got a little too excited.");
     MsgDisp("主人公","I put in all my grateful feelings for
 ｛御影＊＊｝.");
     ChEye(7,2);
@@ -51,15 +50,15 @@ excited.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("L040700002_07_060");
-    MsgDisp("Mikage","Got it. I won't say any more rude things.
+    MsgDisp("Mikage","Got it.
+I won't say any more rude things.
 Thanks!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     ChEyeOpenLevel(7,7);
     VoicePlay("L040700002_07_070");
-    MsgDisp("Mikage","Your feelings definitely
-got through.");
+    MsgDisp("Mikage","Your feelings definitely got through.");
     MsgDisp("主人公","(Yeah, he seemed happy.
 Thank goodness!)");
     MsgClose();
@@ -77,8 +76,8 @@ Thank goodness!)");
     VoicePlay("L040700002_07_080");
     MsgDisp("Mikage","Amazing......
 You're giving this to me?");
-    MsgDisp("主人公","Yes. I did my best to show my
-thankfulness!");
+    MsgDisp("主人公","Yes.
+I did my best to show my thankfulness!");
     ChEye(7,2);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -102,8 +101,8 @@ Won't Himuro-sensei scold you......?");
 it feels wrong to do that considering you
 put your all into it.");
     MsgDisp("主人公","(Thank goodness!
-｛御影＊＊｝ seemed happy.
-But will he be fine......?)");
+｛御影＊＊｝ seemed
+happy. But will he be fine......?)");
     MsgClose();
     BGMStop();
     MsgClose();

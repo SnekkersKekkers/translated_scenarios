@@ -12,8 +12,8 @@ VoicePlay("P740500000_05_000");
 MsgDisp("Hiiragi","Thank you for your hard work.
 You were so dignified and wonderful.");
 MsgDisp("主人公","Thank you.
-It's thanks to ｛柊＊＊＊｝ cheering me
-on!");
+It's thanks to ｛柊＊＊＊｝
+cheering me on!");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("P740500000_05_010");

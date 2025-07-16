@@ -6,7 +6,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Summer break is coming up, huh.
-｛氷室＊＊｝, what are you going to do?");
+｛氷室＊＊｝, what are you going to
+do?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -25,8 +26,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600007_06_020");
-MsgDisp("Himuro","I'll probably use that free time to
-surf.");
+MsgDisp("Himuro","I'll probably use that free time to surf.");
 MsgDisp("主人公","I see.
 It's a good season for catching the waves,
 right?");
@@ -34,16 +34,17 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("F020600007_06_030");
-MsgDisp("Himuro","What? You make it sound like you've surfed
+MsgDisp("Himuro","What?
+You make it sound like you've surfed
 before.");
-MsgDisp("主人公","Oh...sorry.
+MsgDisp("主人公","Oh... sorry.
 I got carried away.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600007_06_040");
 MsgDisp("Himuro","Its fine.
-It's true that it feels good.'");
+It's true that it feels good. '");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

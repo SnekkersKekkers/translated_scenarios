@@ -23,7 +23,8 @@ It's our last free period.");
     case 3:
     MsgDisp("主人公","(Er, ｛風真＊＊｝ is......
 Ah, there!)");
-    MsgDisp("主人公","Good morning! ｛風真＊＊｝.");
+    MsgDisp("主人公","Good morning!
+｛風真＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,4,3,#1,#1,0,0);
@@ -47,8 +48,9 @@ Let's go then.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Good morning. You're
-here already?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Good morning.
+You're here already?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

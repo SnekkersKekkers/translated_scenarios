@@ -33,8 +33,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B340C00000_07_000");
-MsgDisp("Mikage","We're an interesting group
-of friends huh?");
+MsgDisp("Mikage","We're an interesting group of friends huh?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);

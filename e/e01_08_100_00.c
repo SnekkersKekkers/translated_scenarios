@@ -12,7 +12,8 @@ MsgDisp("主人公","Ah, ｛大地＊＊｝!");
 VoicePlay("E010810000_08_010");
 MsgDisp("Shirahane","What a coincidence.
 Are you shopping too?");
-MsgDisp("主人公","Yeah. ｛大地＊＊｝, is that food?");
+MsgDisp("主人公","Yeah.
+｛大地＊＊｝, is that food?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

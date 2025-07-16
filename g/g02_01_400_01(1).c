@@ -58,8 +58,8 @@ ChEye(1,4);
 ChMouth(1,3);
 VoiceEVSPlay(1);
 VoicePlay("G020140001_01_070");
-MsgDisp("Kazama","｛主人公｝, I entrust you with the
-wonderful memories part.");
+MsgDisp("Kazama","｛主人公｝, I entrust you
+with the wonderful memories part.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,3);

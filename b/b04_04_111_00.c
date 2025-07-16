@@ -19,7 +19,8 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040411100_04_010");
         MsgDisp("Nanatsumori","Oh, you're like a pro.
 Amazing.");
-        MsgDisp("主人公","(Yay! A perfect impression∈)");
+        MsgDisp("主人公","(Yay!
+A perfect impression∈)");
         }
     else {
         DateRateSet(0);

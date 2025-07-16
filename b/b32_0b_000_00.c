@@ -16,8 +16,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B320B00000_03_000");
-MsgDisp("Honda","Right! But, we're looking forward to it so
-it can't be helped.");
+MsgDisp("Honda","Right!
+But, we're looking forward to it so it
+can't be helped.");
 MsgDisp("主人公","Hehe!");
 ChEye(1,2);
 ChMouth(1,3);

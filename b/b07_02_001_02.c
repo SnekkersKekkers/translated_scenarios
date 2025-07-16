@@ -1,5 +1,6 @@
-MsgDisp("主人公","｛颯砂＊＊｝ and ｛氷室＊＊｝ have been
-hanging out a lot lately, huh?");
+MsgDisp("主人公","｛颯砂＊＊｝ and
+｛氷室＊＊｝ have been hanging out
+a lot lately, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -36,8 +37,8 @@ VoicePlay("B070200001_02_130");
 MsgDisp("Sassa","Inori is really good at getting into our
 good graces, I guess he's kind of an
 incredible guy?");
-MsgDisp("主人公","(｛颯砂＊＊｝ and ｛氷室＊＊｝ seem to be
-really good friends.)");
+MsgDisp("主人公","(｛颯砂＊＊｝ and ｛氷室＊＊｝ seem
+to be really good friends.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

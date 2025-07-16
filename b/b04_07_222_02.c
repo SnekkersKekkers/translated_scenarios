@@ -66,32 +66,33 @@ money's worth.");
         ChMouth(7,3);
         ChMotion(7,0);
         VoicePlay("B040722202_07_050");
-        MsgDisp("Mikage","No? Don't think you've got the upper hand
-with that.");
+        MsgDisp("Mikage","No?
+Don't think you've got the upper hand with
+that.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040722202_07_060");
         MsgDisp("Mikage","Until the advance payment is calculated,
 it's practically my treat.");
-        MsgDisp("主人公","Hehe. ｛御影＊＊｝, thank you very
-much.");
+        MsgDisp("主人公","Hehe.
+｛御影＊＊｝, thank you
+very much.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,0);
         VoicePlay("B040722202_07_070");
         MsgDisp("Mikage","Alright, alright.
 Just be grateful for today.");
-        MsgDisp("主人公","That's pretty short-lived 
-isn't it?");
+        MsgDisp("主人公","That's pretty short-lived isn't it?");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040722202_07_080");
         MsgDisp("Mikage","This month is a tight one.
-...What are you trying to say?");
-        MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s field trips are
-fun.)");
+... What are you trying to say?");
+        MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s field
+trips are fun.)");
         break ;
         default :
         DbgAssert(1);

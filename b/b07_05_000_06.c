@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛柊＊＊＊｝, what were you like in middle
-school?");
+MsgDisp("主人公","｛柊＊＊＊｝, what were you like
+in middle school?");
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_240");
@@ -25,8 +25,8 @@ of various places.");
 VoicePlay("B070500000_05_270");
 MsgDisp("Hiiragi","I received some from our patrons as
 backstage presents.");
-MsgDisp("主人公","Eh! There must have been all sorts of
-things.");
+MsgDisp("主人公","Eh!
+There must have been all sorts of things.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_280");

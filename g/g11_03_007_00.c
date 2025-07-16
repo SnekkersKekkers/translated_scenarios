@@ -8,8 +8,9 @@ BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,1,0,3,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300700_03_000");
-MsgDisp("Honda","｛主人公｝. Recently, I've been
-enjoying talking to you more and more.");
+MsgDisp("Honda","｛主人公｝.
+Recently, I've been enjoying talking to
+you more and more.");
 MsgDisp("主人公","Hehe, that makes me happy.");
 MsgClose();
 ScrFadeOut(0);
@@ -22,8 +23,9 @@ BGOpen("ev003",0);
 ChOpen(3,100,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300700_03_010");
-MsgDisp("Honda","One, two, they're bookworms♪ Three, four,
-they're stomach worms♪ Rock!");
+MsgDisp("Honda","One, two, they're bookworms♪
+Three, four, they're stomach worms♪
+Rock!");
 MsgDisp("主人公","Hehe, that's a cute song!");
 MsgDisp("主人公","(｛本多＊＊｝ looks like he's enjoying
 himself. ......Hehe, your hair is also

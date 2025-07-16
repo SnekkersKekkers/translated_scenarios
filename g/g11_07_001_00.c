@@ -3,7 +3,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Um, well the afternoon classes......");
 VoicePlay("G110700100_07_000");
 MsgDisp("Mikage?","Hey, over here～");
-MsgDisp("主人公","Hm?　This voice......");
+MsgDisp("主人公","Hm?
+This voice......");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -37,16 +38,18 @@ ChEye(7,0);
 ChMouth(7,1);
 ChMotion(7,2);
 VoicePlay("G110700100_07_040");
-MsgDisp("Mikage","Mmm...... Do you prefer root vegetables
-over leafy vegetables?");
+MsgDisp("Mikage","Mmm......
+Do you prefer root vegetables over leafy
+vegetables?");
 MsgDisp("主人公","Um, it'd be troublesome if you put either
 of those in my shoe locker......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700100_07_050");
-MsgDisp("Mikage","What? You'll never grow strong if you're
-picky about what you eat right?");
+MsgDisp("Mikage","What?
+You'll never grow strong if you're picky
+about what you eat right?");
 MsgDisp("主人公","(That's not the issue though......)");
 MsgClose();
 BGMStop();

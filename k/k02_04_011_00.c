@@ -17,7 +17,7 @@ VoicePlay("K020401100_04_010");
 MsgDisp("Nanatsumori","I still need you for something.
 Hang out with me just a little longer.");
 MsgDisp("主人公","Oh, okay.
-......What?");
+...... What?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -34,8 +34,10 @@ ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("K020401100_04_040");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori","Happy birthday, ｛主人公｝.");
-MsgDisp("主人公","Wah...... Thank you!
+MsgDisp("Nanatsumori","Happy birthday,
+｛主人公｝.");
+MsgDisp("主人公","Wah......
+Thank you!
 You remembered.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -60,7 +62,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(4,0,30);
 Wait(30);
-MsgDisp("主人公","(Hehe,
-Today was a lovely birthday......)");
+MsgDisp("主人公","(Hehe, Today was a lovely birthday......)");
 MsgClose();
 ScrFadeOut(0,0);

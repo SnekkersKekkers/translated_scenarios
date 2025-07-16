@@ -17,15 +17,16 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110303_01_020");
 MsgDisp("Kazama","I really feel for the fireflies.");
-MsgDisp("主人公","If ｛風真＊＊｝ was a firefly, he'd shine
-wonderfully, wouldn't he?");
+MsgDisp("主人公","If ｛風真＊＊｝ was a firefly,
+he'd shine wonderfully, wouldn't he?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110303_01_030");
-MsgDisp("Kazama","What? If you were a firefly——Ah right,
-adult fireflies don't eat, do they?");
+MsgDisp("Kazama","What?
+If you were a firefly——Ah right, adult
+fireflies don't eat, do they?");
 MsgDisp("主人公","Hey.
 I'm not that much of a glutton.");
 ChEye(1,3);
@@ -54,9 +55,11 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110303_01_070");
-MsgDisp("Kazama","......Hm? Wait, there's something
-fluttering in front of us, isn't there?");
-MsgDisp("主人公","Agh!　It landed on my head∋");
+MsgDisp("Kazama","...... Hm?
+Wait, there's something fluttering in
+front of us, isn't there?");
+MsgDisp("主人公","Agh!
+It landed on my head∋");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);

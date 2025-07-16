@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(6,255,2,2,0,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150600500_06_000");
-MsgDisp("Himuro","...I understand.
+MsgDisp("Himuro","... I understand.
 I also need to amend my thinking.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -25,15 +25,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600500_06_030");
-MsgDisp("Himuro","To me, your skinship
-is excessive.");
+MsgDisp("Himuro","To me, your skinship is excessive.");
 MsgDisp("主人公","Ugh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600500_06_040");
-MsgDisp("Himuro","That's why I need you 
-to confirm one thing");
+MsgDisp("Himuro","That's why I need you to confirm one thing");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -57,8 +55,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600500_06_080");
-MsgDisp("Himuro","Then I guess I'll have 
-to make an effort.");
+MsgDisp("Himuro","Then I guess I'll have to make an effort.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -71,8 +68,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B150600500_06_100");
 MsgDisp("Himuro","Don't mention it.
-Then, I'm going home...
-see you later.");
+Then, I'm going home... see you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 SEWait();

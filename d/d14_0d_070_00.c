@@ -18,7 +18,8 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,3,1);
 VoicePlay("D140D07000_22_010");
-MsgDisp("Hikaru","Eh～ That?");
+MsgDisp("Hikaru","Eh～
+That?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);

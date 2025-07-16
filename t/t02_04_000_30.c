@@ -30,13 +30,15 @@ now.");
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020400000_04_410");
-MsgDisp("Nanatsumori","So, look up. Smile.");
+MsgDisp("Nanatsumori","So, look up.
+Smile.");
 MsgDisp("主人公","｛七ツ森＊｝......");
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("T020400000_04_420");
-MsgDisp("Nanatsumori","Hmm. I hope you will become happier and
-happier from now on.");
+MsgDisp("Nanatsumori","Hmm.
+I hope you will become happier and happier
+from now on.");
 ChMouth(4,4);
 ChEyeOpenLevel(4,8);
 VoicePlay("T020400000_04_430");

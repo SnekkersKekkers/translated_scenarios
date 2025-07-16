@@ -47,7 +47,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B140200100_02_040");
-MsgDisp("Sassa","Yeah. But you were the one who was always
+MsgDisp("Sassa","Yeah.
+But you were the one who was always
 watching over me like that.");
 ChEye(2,0);
 ChMouth(2,4);

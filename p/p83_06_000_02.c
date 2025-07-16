@@ -16,7 +16,8 @@ is difficult...");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P830600002_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! What's the matter?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+What's the matter?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -46,7 +47,8 @@ is difficult...");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P830600002_06_030");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝! What's the matter?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+What's the matter?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

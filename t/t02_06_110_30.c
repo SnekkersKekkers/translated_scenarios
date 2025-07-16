@@ -8,7 +8,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020611000_06_160");
-MsgDisp("Himuro","Yeah... I know.");
+MsgDisp("Himuro","Yeah...
+I know.");
 MsgDisp("主人公","Huh?");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
@@ -35,7 +36,8 @@ VoicePlay("T020611000_06_200");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,2);
-MsgDisp("Himuro","Phew... It's a breath of fresh air.");
+MsgDisp("Himuro","Phew...
+It's a breath of fresh air.");
 VoicePlay("T020611000_06_210");
 ChEye(6,4);
 ChMouth(6,0);
@@ -48,8 +50,8 @@ VoicePlay("T020611000_06_220");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","｛主人公｝, congratulations on your
-graduation.");
+MsgDisp("Himuro","｛主人公｝,
+congratulations on your graduation.");
 VoicePlay("T020611000_06_230");
 ChEye(6,2);
 ChMouth(6,3);

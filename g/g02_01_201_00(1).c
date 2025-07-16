@@ -24,8 +24,9 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_030");
-MsgDisp("Kazama","......Sorry. But, I want to know your
-feelings even a little.");
+MsgDisp("Kazama","...... Sorry.
+But, I want to know your feelings even a
+little.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -33,8 +34,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020120100_01_040");
 MsgDisp("Kazama","Maybe that's why I brought you to a place
 like this.");
-MsgDisp("主人公","I like it here,
-it's beautiful, you know?");
+MsgDisp("主人公","I like it here, it's beautiful, you know?");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,0,1);
@@ -47,8 +47,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120100_01_060");
-MsgDisp("Kazama","Haa. It's cowardly of me to use your
-feelings like that to bring you here.");
+MsgDisp("Kazama","Haa.
+It's cowardly of me to use your feelings
+like that to bring you here.");
 MsgDisp("主人公","That's not true.");
 ChEye(1,0);
 ChMouth(1,4);

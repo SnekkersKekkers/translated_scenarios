@@ -42,8 +42,9 @@ I'm glad you're here.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206202_02_030");
-        MsgDisp("Sassa","Yeah. What would you do if there were just
-the two of us and we had to survive?");
+        MsgDisp("Sassa","Yeah.
+What would you do if there were just the
+two of us and we had to survive?");
         MsgDisp("主人公","I guess being with you would be
 reassuring?");
         ChEye(2,0);
@@ -62,8 +63,9 @@ my side.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040206202_02_060");
-        MsgDisp("Sassa","Alright. I would gather all the food. And
-you would cook.");
+        MsgDisp("Sassa","Alright.
+I would gather all the food.
+And you would cook.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,2);
@@ -71,7 +73,8 @@ you would cook.");
         MsgDisp("Sassa","Having your home-cooked meals
 everyday......Yeah, survival like that
 wouldn't be half bad.");
-        MsgDisp("主人公","｛颯砂＊＊｝? What's wrong?");
+        MsgDisp("主人公","｛颯砂＊＊｝?
+What's wrong?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -79,8 +82,7 @@ wouldn't be half bad.");
         MsgDisp("Sassa","I think catching some fish for dinner will
 be the fastest.
 Is that okay with you?");
-        MsgDisp("主人公","(He's already starting the
-survival......)");
+        MsgDisp("主人公","(He's already starting the survival......)");
         break ;
         default :
         DbgAssert(1);

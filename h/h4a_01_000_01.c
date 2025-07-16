@@ -28,7 +28,8 @@ You really impressed me out there.");
     MsgDisp("Kazama","It's okay.
 The audience saw what you wanted to
 convey.");
-    MsgDisp("主人公","Hehe, you're pretty nice, ｛風真＊＊｝.
+    MsgDisp("主人公","Hehe, you're pretty nice,
+｛風真＊＊｝.
 Thanks.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -38,7 +39,8 @@ Thanks.");
 I'd be in trouble if you won and went out
 of reach.");
     MsgDisp("主人公","(I'm disappointed that I lost, but I'm
-happy to hear how ｛風真＊＊｝ feels.)");
+happy to hear how ｛風真＊＊｝
+feels.)");
     break ;
     case 4:
     case 5:
@@ -49,8 +51,8 @@ happy to hear how ｛風真＊＊｝ feels.)");
     VoiceEVSPlay(1);
     VoicePlay("H4A0100001_01_040");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝...... Sorry you came all
-this way to see that.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝......
+Sorry you came all this way to see that.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -88,7 +90,8 @@ end.");
     VoicePlay("H4A0100001_01_090");
     MsgDisp("Kazama","I'll watch the closing ceremony with you,
 as your close associate.");
-    MsgDisp("主人公","Hehe. I'm glad you came, ｛風真＊＊｝.");
+    MsgDisp("主人公","Hehe.
+I'm glad you came, ｛風真＊＊｝.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);

@@ -12,5 +12,4 @@ ChEyeOpenLevel(2,0);
 VoicePlay("B020202117_02_010");
 MsgDisp("Sassa","Then should we leave here, and have an
 afternoon nap?");
-MsgDisp("主人公","(Hehe, I think he liked
-my outfit today.)");
+MsgDisp("主人公","(Hehe, I think he liked my outfit today.)");

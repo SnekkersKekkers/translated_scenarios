@@ -6,8 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B030513000_05_000");
-MsgDisp("Hiiragi","Alright then, which way suits your
-needs?");
+MsgDisp("Hiiragi","Alright then, which way suits your needs?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Uhm......");
 MsgDispSksp(0);

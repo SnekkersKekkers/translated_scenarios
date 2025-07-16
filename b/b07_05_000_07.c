@@ -11,8 +11,7 @@ ChMotion(5,4);
 VoicePlay("B070500000_05_300");
 MsgDisp("Hiiragi","School life at Haba High is what I dreamed
 of.");
-MsgDisp("主人公","Eh,
-school life is your dream?");
+MsgDisp("主人公","Eh, school life is your dream?");
 ChMotion(5,2);
 VoicePlay("B070500000_05_310");
 MsgDisp("Hiiragi","Yes. Attending the same school with you

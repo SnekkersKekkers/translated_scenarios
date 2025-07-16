@@ -3,12 +3,14 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100120002_01_000");
 MsgDisp("Kazama?","I see, so that's the ultimate tip.");
-MsgDisp("主人公","(Huh? That voice just now...)");
+MsgDisp("主人公","(Huh?
+That voice just now...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,3,#1,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛風真＊＊｝, ｛御影＊＊｝. Are you
+MsgDisp("主人公","｛風真＊＊｝,
+｛御影＊＊｝. Are you
 doing the 'men living alone' course again
 today?");
 ChMouth(1,0);
@@ -49,14 +51,15 @@ ChMotion(1,0);
 VoicePlay("F100120002_01_020");
 MsgDisp("Kazama","He said it's best to sleep naked.");
 MsgDisp("主人公","Huh∋
-...That's the ultimate tip?");
+... That's the ultimate tip?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F100120002_01_030");
 MsgDisp("Kazama","He said it's a 'victory for one's flesh'.");
-MsgDisp("主人公","Wha...? ...Surely, you don't
-agree...｛風真＊＊｝?");
+MsgDisp("主人公","Wha...?
+... Surely, you don't agree...
+｛風真＊＊｝?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(8,0);

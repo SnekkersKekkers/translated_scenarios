@@ -56,8 +56,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30401_06_020");
-MsgDisp("Himuro","Right. But if Nozomu-senpai incorporated
-that kind of Eastern energy..");
+MsgDisp("Himuro","Right.
+But if Nozomu-senpai incorporated that
+kind of Eastern energy..");
 ChMouth(1,3);
 MsgDisp("主人公","Yeah, he might set great records!");
 ChEye(2,0);
@@ -71,8 +72,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330A30401_06_030");
-MsgDisp("Himuro","Hmm... First let's take a break in the
-gazebo and absorb the spring's energy?");
+MsgDisp("Himuro","Hmm...
+First let's take a break in the gazebo and
+absorb the spring's energy?");
 ChMouth(1,2);
 ChEye(2,0);
 ChMouth(2,3);

@@ -48,8 +48,7 @@ I'll talk it over with the zoo.");
         ChMotion(5,4);
         VoicePlay("B040521202_05_030");
         MsgDisp("Hiiragi","Actually, when we were touring around the
-country...
-we did sell that.");
+country... we did sell that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,8 +58,7 @@ we did sell that.");
         ChMotion(5,0);
         VoicePlay("B040521202_05_040");
         MsgDisp("Hiiragi","Actually, when we were touring around the
-country...
-we did sell that.");
+country... we did sell that.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040521202_05_050");
@@ -86,8 +84,7 @@ business.");
 part of a citizens' theatre troupe.
 There's no need to have a t-shirt with my
 face on it right?");
-        MsgDisp("主人公","...
-That's right...");
+        MsgDisp("主人公","... That's right...");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040521202_05_090");
@@ -99,15 +96,15 @@ like...");
         VoicePlay("B040521202_05_100");
         MsgDisp("Hiiragi","You really are...
 That's fine, I shall show you.");
-        MsgDisp("主人公","Eh? There really is?");
+        MsgDisp("主人公","Eh?
+There really is?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040521202_05_110");
         MsgDisp("Hiiragi","There are a lot of printing services like
 that, is there not?");
         VoicePlay("B040521202_05_120");
-        MsgDisp("Hiiragi","I'd like to make a t-shirt of
-me and you.");
+        MsgDisp("Hiiragi","I'd like to make a t-shirt of me and you.");
         MsgDisp("主人公","Umm, that can't be sold though.");
         ChEye(5,3);
         ChMouth(5,3);
@@ -122,7 +119,7 @@ That would be an interesting person.");
         MsgDisp("Hiiragi","It'll only be my prized possession.
 In that case, would it be okay?");
         MsgDisp("主人公","(A t-shirt with the two of us?
-...It's embarrassing, but it might be
+... It's embarrassing, but it might be
 interesting?)");
         break ;
         default :

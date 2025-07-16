@@ -7,7 +7,8 @@ ScrFadeIn(0);
 VoicePlay("T020801000_08_000");
 MsgDisp("Shirahane","The door is open......
 What is th——");
-MsgDisp("主人公","Eh, ｛大地＊＊｝∋ Why are you here......");
+MsgDisp("主人公","Eh, ｛大地＊＊｝∋
+Why are you here......");
 ChEye(8,4);
 ChMouth(8,5);
 ChMotion(8,4,1);
@@ -82,8 +83,9 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("T020801000_08_050");
-MsgDisp("Shirahane","Sorry. Honestly, maybe the Haba High
-Church would have been better.");
+MsgDisp("Shirahane","Sorry.
+Honestly, maybe the Haba High Church would
+have been better.");
 ChEye(8,3);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
@@ -130,7 +132,7 @@ ChEye(8,4);
 ChMouth(8,4);
 MsgDisp("Shirahane","I'm not going to end my high school life
 as such a half-assed guy.
-I......want you to acknowledge me.");
+I...... want you to acknowledge me.");
 MsgClear();
 ChClose(8);
 ChCustomLayout(8,5,0,-2.5);

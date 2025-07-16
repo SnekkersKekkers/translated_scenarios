@@ -8,8 +8,8 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,254,0,0,2,8,#1,0,0);
     VoicePlay("F010100001_01_000");
     MsgDisp("Kazama","...it's no good.");
-    MsgDisp("主人公","(Yep. I guess I shouldn't call him
-that...)");
+    MsgDisp("主人公","(Yep.
+I guess I shouldn't call him that...)");
     break ;
     case 3:
     MsgDisp("主人公","｛風真＊＊｝.");
@@ -18,7 +18,8 @@ that...)");
     ChOpen(1,254,0,0,2,8,#1,0,0);
     ChMotion(1,1);
     VoicePlay("F010100001_01_010");
-    MsgDisp("Kazama","What's up with that? ...Geez.");
+    MsgDisp("Kazama","What's up with that?
+... Geez.");
     MsgDisp("主人公","(It doesn't seem like he likes being
 called this.)");
     break ;
@@ -41,8 +42,7 @@ I just wanted to see if I could...");
     MsgDisp("Kazama","I don't like it at all.
 I thought there might be a reason, but
 there doesn't seem like there is.");
-    MsgDisp("主人公","(Yeah, 
-I shouldn't call him that...)");
+    MsgDisp("主人公","(Yeah, I shouldn't call him that...)");
     break ;
     default :
     DbgAssert(1);

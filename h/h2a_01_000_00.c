@@ -40,10 +40,9 @@ manager until now!)");
     ChEye(1,3);
     ChMotion(1,3);
     VoicePlay("H2A0100000_01_030");
-    MsgDisp("Kazama","Winning championships is pretty
-amazing.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Yes, it's thanks to
-everyone's hard work.");
+    MsgDisp("Kazama","Winning championships is pretty amazing.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Yes, it's thanks to everyone's hard work.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -70,7 +69,8 @@ But thanks!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H2A0100000_01_070");
-    MsgDisp("Kazama","Yeah. But starting tomorrow, I'll have you
+    MsgDisp("Kazama","Yeah.
+But starting tomorrow, I'll have you
 working exclusively for me.");
     MsgDisp("主人公","Hehe, sure, sure.");
     ChEye(1,4);

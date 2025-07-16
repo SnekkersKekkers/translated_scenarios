@@ -65,8 +65,9 @@ Your makeup looks nice too.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("R040400001_04_090");
-    MsgDisp("Nanatsumori","Absolutely. It makes you look a little bit
-different than usual.");
+    MsgDisp("Nanatsumori","Absolutely.
+It makes you look a little bit different
+than usual.");
     ChMotion(4,0,1);
     VoicePlay("R040400001_04_100");
     MsgDisp("Nanatsumori","I'd love to dress up like you.

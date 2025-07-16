@@ -25,8 +25,9 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Haha, you'll be fine.
 If it's you, you'll win it all in just a
 single point!");
-    MsgDisp("主人公","(Alright! Let's do our best, to show off
-to ｛風真＊＊｝ too!)");
+    MsgDisp("主人公","(Alright!
+Let's do our best, to show off to
+｛風真＊＊｝ too!)");
     break ;
     case 4:
     case 5:
@@ -36,8 +37,8 @@ to ｛風真＊＊｝ too!)");
     VoiceEVSPlay(1);
     VoicePlay("H380100000_01_030");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Did you come to cheer me
-on?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Did you come to cheer me on?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -59,8 +60,9 @@ I'm saying?");
     VoicePlay("H380100000_01_060");
     MsgDisp("Kazama","I'll be watching.
 So, make sure you won't have any regrets.");
-    MsgDisp("主人公","Yeah. It's reassuring just having you
-here, ｛風真＊＊｝.");
+    MsgDisp("主人公","Yeah.
+It's reassuring just having you here,
+｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -68,7 +70,8 @@ here, ｛風真＊＊｝.");
     MsgDisp("Kazama","Don't worry.
 I'll pick up you later with the best
 reaction.");
-    MsgDisp("主人公","(Alright. Let's do our best, for
+    MsgDisp("主人公","(Alright.
+Let's do our best, for
 ｛風真＊＊｝ too!)");
     break ;
     default :

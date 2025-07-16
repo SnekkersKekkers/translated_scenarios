@@ -15,14 +15,13 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("P740D00005_22_000");
-MsgDisp("Hikaru","...Cheer up!
+MsgDisp("Hikaru","... Cheer up!
 The scatterbrained bride was cute?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("P740D00005_21_010");
-MsgDisp("Michiru","Hikaru... 
-that's not a compliment.");
+MsgDisp("Michiru","Hikaru... that's not a compliment.");
 MsgDisp("主人公","Uuugh...");
 ChEye(22,0);
 ChMouth(22,3);

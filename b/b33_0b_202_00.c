@@ -28,8 +28,9 @@ MsgDisp("Honda","It's moving no matter how many times you
 watch it... The constellations, the myths;
 the life of the stars.");
 ChEyeOpenLevel(3,#1);
-MsgDisp("主人公","Yeah. There are many kinds of myths, but
-they're all interesting.");
+MsgDisp("主人公","Yeah.
+There are many kinds of myths, but they're
+all interesting.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -47,8 +48,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B20200_01_010");
-MsgDisp("Kazama","His lack of integrity
-was heartless.");
+MsgDisp("Kazama","His lack of integrity was heartless.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -92,7 +92,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoiceEVSPlay(1);
 VoicePlay("B330B20200_01_020");
-MsgDisp("Kazama","｛主人公｝, did you hear that?");
+MsgDisp("Kazama","｛主人公｝, did you hear
+that?");
 MsgDisp("主人公","Eh?");
 ChEye(4,0);
 ChMouth(4,2);
@@ -107,7 +108,7 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B20200_03_050");
 MsgDisp("Honda","Hm?
-Is there something on my face? ");
+Is there something on my face?");
 MsgDisp("主人公","(A romance with ｛本多＊＊｝...
 I don't think there's anything to worry
 about though...)");

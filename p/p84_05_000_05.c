@@ -3,8 +3,8 @@ VoicePlay("P840500005_40_000");
 MsgDisp("Male Student A","I removed the maps giving wrong
 information, but the leaflets I replaced
 them with are also wrong...");
-MsgDisp("主人公","Ehhh∋ Then we have to retrieve those
-leaflets!");
+MsgDisp("主人公","Ehhh∋
+Then we have to retrieve those leaflets!");
 VoicePlay("P840500005_40_010");
 MsgDisp("Male Student A","They've already been distributed, so that
 would be impossible.");
@@ -46,9 +46,10 @@ VoicePlay("P840500005_05_030");
 MsgDisp("Hiiragi","There's no need to be impatient in dealing
 with these matters, let's approach it with
 composure.");
-MsgDisp("主人公","(Haa... it's as ｛柊＊＊＊｝ says. I have
-to work more calmly... I failed even
-though it was my last cultural festival.)");
+MsgDisp("主人公","(Haa... it's as ｛柊＊＊＊｝
+says. I have to work more calmly... I
+failed even though it was my last cultural
+festival.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

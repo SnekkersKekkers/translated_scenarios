@@ -35,7 +35,8 @@ I'm glad we all did our best.)");
     ScrFadeIn(0);
     VoicePlay("O040400000_04_020");
     MsgDisp("Nanatsumori","Victory!
-No one can beat us. Right?");
+No one can beat us.
+Right?");
     MsgDisp("主人公","(We did it!
 I'm glad we all did our best.)");
     break ;

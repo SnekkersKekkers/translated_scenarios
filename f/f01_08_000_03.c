@@ -28,8 +28,8 @@ Let's go!");
     ChMotion(8,4,1);
     ChCheek(8,7);
     VoicePlay("F010800003_08_020");
-    MsgDisp("Shirahane","Mhm! Haha, I feel a little shy all of a
-sudden.");
+    MsgDisp("Shirahane","Mhm!
+Haha, I feel a little shy all of a sudden.");
     MsgDisp("主人公","Hehe.");
     ChEye(8,3);
     ChMouth(8,3);

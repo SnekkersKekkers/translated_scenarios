@@ -36,8 +36,9 @@ mountains.");
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040422101_04_030");
-    MsgDisp("Nanatsumori","Where? I need to take a good picture of
-the mountains and the sky!");
+    MsgDisp("Nanatsumori","Where?
+I need to take a good picture of the
+mountains and the sky!");
     ChEyeOpenLevel(4,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

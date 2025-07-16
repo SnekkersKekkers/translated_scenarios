@@ -1,7 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm running late. ｛大地＊＊｝ is...
+MsgDisp("主人公","(I'm running late.
+｛大地＊＊｝ is...
 Here!)");
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();

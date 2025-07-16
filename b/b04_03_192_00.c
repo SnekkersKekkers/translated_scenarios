@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040319200_03_000");
-    MsgDisp("Honda","Right. I ended up empathizing with that
-cat too!");
+    MsgDisp("Honda","Right.
+I ended up empathizing with that cat too!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

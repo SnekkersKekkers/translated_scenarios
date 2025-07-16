@@ -11,14 +11,16 @@ ChMotion(22,3,1);
 VoicePlay("E010540000_22_000");
 MsgDisp("Hikaru","Ah, it's Mari～▼
 What are you up to?");
-MsgDisp("主人公","Ah, ｛ひかる＊｝. I'm on my way home
-from shopping. How about you?");
+MsgDisp("主人公","Ah, ｛ひかる＊｝.
+I'm on my way home from shopping.
+How about you?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010540000_22_010");
 MsgDisp("Hikaru","I'm waiting for the chairman.");
-MsgDisp("主人公","Chairman...... ｛柊＊＊＊｝?");
+MsgDisp("主人公","Chairman......
+｛柊＊＊＊｝?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(22,2);
 MsgClose();
@@ -31,7 +33,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("E010540000_05_010");
-MsgDisp("Hiiragi","Hello, ｛主人公｝. You're here too?");
+MsgDisp("Hiiragi","Hello, ｛主人公｝.
+You're here too?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -62,7 +65,8 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,8);
 VoicePlay("E010540000_22_040");
-MsgDisp("Hikaru","Hahaha...... Mari was so surprised.
+MsgDisp("Hikaru","Hahaha......
+Mari was so surprised.
 Yanosuke-san could've played along better.");
 ChEye(22,3);
 ChMouth(22,3);
@@ -81,14 +85,16 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010540000_22_060");
-MsgDisp("Hikaru","Mhm! My uncle is a big supporter of the
+MsgDisp("Hikaru","Mhm!
+My uncle is a big supporter of the
 company～");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010540000_05_050");
-MsgDisp("Hiiragi","Yes. Please give him my thanks. I'll take
-my leave now.");
+MsgDisp("Hiiragi","Yes.
+Please give him my thanks.
+I'll take my leave now.");
 MsgClose();
 SEPlay("EV_SE_640");
 SEWait();

@@ -23,8 +23,8 @@ Sure.");
     ChOpen(5,255,2,0,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500000_05_020");
-    MsgDisp("Hiiragi","... I see, okay. Well then, let's go,
-Hanatsubaki-san.");
+    MsgDisp("Hiiragi","... I see, okay.
+Well then, let's go, Hanatsubaki-san.");
     break ;
     default :
     DbgAssert(1);

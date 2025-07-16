@@ -37,7 +37,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("P730D00002_21_020");
-MsgDisp("Michiru","Yes. A wonderful smile.");
+MsgDisp("Michiru","Yes.
+A wonderful smile.");
 ChEye(22,3);
 ChEye(21,4);
 ChMouth(21,3);

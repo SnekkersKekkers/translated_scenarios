@@ -60,8 +60,9 @@ I had a good time too.");
     ChMotion(8,4,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("S120800003_08_040");
-    MsgDisp("Shirahane","Haha. As long as we're laughing together,
-that's good enough.");
+    MsgDisp("Shirahane","Haha.
+As long as we're laughing together, that's
+good enough.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);

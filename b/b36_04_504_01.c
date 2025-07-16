@@ -41,8 +41,9 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B360450401_04_070");
-MsgDisp("Nanatsumori","Whoaー...... Seems like it was casually
-brushed aside......");
+MsgDisp("Nanatsumori","Whoaー......
+Seems like it was casually brushed
+aside......");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040623301_06_010");
-    MsgDisp("Himuro","Have you given up on 
-trying to understand?");
+    MsgDisp("Himuro","Have you given up on trying to understand?");
     MsgDateResultDisp();
     break ;
     case 1:

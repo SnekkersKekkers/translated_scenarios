@@ -15,8 +15,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30101_06_000");
-MsgDisp("Himuro","This place is really 
-well-put together.");
+MsgDisp("Himuro","This place is really well-put together.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -28,7 +27,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A30101_06_010");
-MsgDisp("Himuro","...I see.
+MsgDisp("Himuro","... I see.
 To Nozomu-senpai, this place is similar to
 a haunted house.");
 ChMouth(1,2);
@@ -62,14 +61,15 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30101_01_010");
-MsgDisp("Kazama","Hm? Is it not just a sunken ship.");
+MsgDisp("Kazama","Hm?
+Is it not just a sunken ship.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330A30101_06_020");
-MsgDisp("Himuro","Yes. It is, but if it sank the crew must
-be...");
+MsgDisp("Himuro","Yes.
+It is, but if it sank the crew must be...");
 ChEyeOpenLevel(1,8);
 ChEye(2,2);
 ChMouth(2,0);
@@ -115,22 +115,25 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30101_06_060");
 MsgDisp("Himuro","Your weakness is the easiest to understand
-...Right?");
-MsgDisp("主人公","Eh? Me...?");
+...
+Right?");
+MsgDisp("主人公","Eh?
+Me...?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30101_01_030");
-MsgDisp("Kazama","Ugh... Today's pace was completely set by
-Inori.");
+MsgDisp("Kazama","Ugh...
+Today's pace was completely set by Inori.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A30101_02_050");
-MsgDisp("Sassa","Yeah. Inori's affinity with the deep sea
-corner is definitely good.");
+MsgDisp("Sassa","Yeah.
+Inori's affinity with the deep sea corner
+is definitely good.");
 MsgDisp("主人公","(｛氷室＊＊｝, maybe you're overwhelming
 those two more than usual today?)");
 BGMStop();

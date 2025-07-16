@@ -28,8 +28,7 @@ more interesting stories ariseー.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040310100_03_020");
-    MsgDisp("Honda","Who's that someone?
-...you?");
+    MsgDisp("Honda","Who's that someone? ...you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +39,7 @@ more interesting stories ariseー.");
     ChMouth(3,2);
     ChMotion(3,1);
     VoicePlay("B040310100_03_030");
-    MsgDisp("Honda","Ancient times...
-that's too vague.");
+    MsgDisp("Honda","Ancient times... that's too vague.");
     MsgDateResultDisp();
     break ;
     default :

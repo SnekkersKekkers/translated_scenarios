@@ -13,7 +13,7 @@ switch (ChPrmGet(7,6)){
     MsgDispSksp(1,3);
     VoicePlay("B060700012_07_000");
     MsgDisp("Mikage","Oh, I'll walk you home.
-...We can talk whilst walking.");
+... We can talk whilst walking.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     MsgDispSksp(0);
     break ;

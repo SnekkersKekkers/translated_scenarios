@@ -5,8 +5,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 ScrFadeIn(0);
 VoicePlay("B030415000_04_000");
-MsgDisp("Nanatsumori","Bowling or darts,
-which do you want to do?");
+MsgDisp("Nanatsumori","Bowling or darts, which do you want to do?");
 MsgSel("Let's go bowling","Darts corner sounds good");
 switch (MsgSelRsltGet()){
     case 0:

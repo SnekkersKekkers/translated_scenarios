@@ -1,9 +1,10 @@
 ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(My next class is in the science room.
-I wonder if ｛御影＊＊｝ and
-｛柊＊＊＊｝ will be there?)");
+MsgDisp("主人公","(My next class is in the science room. I
+wonder if ｛御影＊＊｝
+and ｛柊＊＊＊｝ will be
+there?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -19,8 +20,8 @@ VoicePlay("F100720002_07_000");
 MsgDisp("Mikage","Ohh, you came.");
 VoicePlay("F100720002_05_000");
 MsgDisp("Hiiragi","We have been waiting for you.");
-MsgDisp("主人公","Hehe, ｛柊＊＊＊｝'s class was here last,
-weren't they?");
+MsgDisp("主人公","Hehe, ｛柊＊＊＊｝'s class was
+here last, weren't they?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -32,16 +33,15 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100720002_05_010");
-MsgDisp("Hiiragi","Yes. Today's lesson was even better than
-usual, with the most wonderful
-entertainment.");
+MsgDisp("Hiiragi","Yes.
+Today's lesson was even better than usual,
+with the most wonderful entertainment.");
 ChEye(7,0);
 ChMouth(7,3);
 VoicePlay("F100720002_07_020");
-MsgDisp("Mikage","It's got the chairman's 
-stamp of approval.");
-MsgDisp("主人公","Wow! I'm really 
-looking forward to it.");
+MsgDisp("Mikage","It's got the chairman's stamp of approval.");
+MsgDisp("主人公","Wow!
+I'm really looking forward to it.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -64,8 +64,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("F100720002_07_040");
-MsgDisp("Mikage","Oh, it's a full house
-again this time.");
+MsgDisp("Mikage","Oh, it's a full house again this time.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -10,7 +10,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020102118_01_010");
-MsgDisp("Kazama","Yeah. But you're pulling it off well, so
-that's pretty amazing.");
+MsgDisp("Kazama","Yeah.
+But you're pulling it off well, so that's
+pretty amazing.");
 MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
 this.)");

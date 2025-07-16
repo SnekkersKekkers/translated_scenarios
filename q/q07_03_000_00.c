@@ -4,14 +4,15 @@ MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...... The windmill and flowers are so
-pretty.");
+MsgDisp("主人公","Wow......
+The windmill and flowers are so pretty.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_000");
-MsgDisp("Honda","Yepyep. Tulips are the dutch classic, but
-the marigolds are amazing too!");
+MsgDisp("Honda","Yepyep.
+Tulips are the dutch classic, but the
+marigolds are amazing too!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -19,15 +20,15 @@ VoicePlay("Q070300000_03_010");
 MsgDisp("Honda","I'm interested in that windmill.
 It's a traditional windmill used for
 milling and drainage.");
-MsgDisp("主人公","Interesting! ｛本多＊＊｝ It's so much fun
-going around with you, it's like going
-around with a guide.");
+MsgDisp("主人公","Interesting! ｛本多＊＊｝ It's so
+much fun going around with you, it's like
+going around with a guide.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("Q070300000_03_020");
-MsgDisp("Honda","Really? Then I need to make it more
-interesting!!");
+MsgDisp("Honda","Really?
+Then I need to make it more interesting!!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -59,7 +60,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q070300000_03_050");
-MsgDisp("Honda","｛主人公｝, here, look over there?");
+MsgDisp("Honda","｛主人公｝, here, look
+over there?");
 MsgDisp("主人公","Eh?
 Wow, such a big tower.");
 ChEye(3,0);
@@ -111,9 +113,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_100");
-MsgDisp("Honda","True. It's so well managed, it's hard to
-believe the building is over 150 years
-old.");
+MsgDisp("Honda","True.
+It's so well managed, it's hard to believe
+the building is over 150 years old.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -135,8 +137,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("Q070300000_03_130");
-MsgDisp("Honda","Hmmm...... I used to adore naturalists
-when I was a kid.");
+MsgDisp("Honda","Hmmm......
+I used to adore naturalists when I was a
+kid.");
 MsgDisp("主人公","Naturalists?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -145,7 +148,9 @@ VoicePlay("Q070300000_03_140");
 MsgDisp("Honda","Yeah. Focusing on field research, it's
 someone who studies everything that exists
 in nature.");
-MsgDisp("主人公","Wow! That sounds very ｛本多＊＊｝ like.");
+MsgDisp("主人公","Wow!
+That sounds very ｛本多＊＊｝
+like.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -168,8 +173,9 @@ VoicePlay("Q070300000_03_170");
 MsgDisp("Honda","Something like that.
 See, your question is too difficult.
 Change it to another one!");
-MsgDisp("主人公","(...... It felt a bit different than from
-the usual ｛本多＊＊｝ )");
+MsgDisp("主人公","(......
+It felt a bit different than from the
+usual ｛本多＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

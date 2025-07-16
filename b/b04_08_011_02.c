@@ -27,7 +27,7 @@ high school model Nana...");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("B040801102_08_020");
-    MsgDisp("Shirahane","I see...that's right!
+    MsgDisp("Shirahane","I see... that's right!
 I also like this place, so I should just
 enjoy it earnestly!");
     MsgDispSksp(1,0);
@@ -79,8 +79,9 @@ on your face.");
         ChMotion(8,0,1);
         VoicePlay("B040801102_08_070");
         MsgDisp("Shirahane","Not like me...?");
-        MsgDisp("主人公","Yeah. Why do you think this place is cool
-or that you're out of place here?");
+        MsgDisp("主人公","Yeah.
+Why do you think this place is cool or
+that you're out of place here?");
         ChEye(8,1);
         ChMouth(8,4);
         ChMotion(8,4,1);
@@ -91,8 +92,8 @@ or that you're out of place here?");
         ChMouth(8,4);
         ChEyeOpenLevel(8,10);
         VoicePlay("B040801102_08_090");
-        MsgDisp("Shirahane","Seriously. Why am I worried 'bout stuff
-like that?");
+        MsgDisp("Shirahane","Seriously.
+Why am I worried 'bout stuff like that?");
         MsgDisp("主人公","Hehe!");
         ChEye(8,2);
         ChMouth(8,3);
@@ -107,8 +108,8 @@ worried about somethin' dumb like that.");
         VoicePlay("B040801102_08_110");
         MsgDisp("Shirahane","Hehe!");
         MsgDisp("主人公","(I'm glad.
-Looks like ｛大地＊＊｝ has returned to
-normal.)");
+Looks like ｛大地＊＊｝ has
+returned to normal.)");
         break ;
         default :
         DbgAssert(0);

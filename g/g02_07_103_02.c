@@ -51,7 +51,8 @@ VoicePlay("G020710302_07_060");
 MsgDisp("Mikage","Let's do a 'coincidental look' again
 sometime?");
 MsgDisp("主人公","(Hehe, I might end up having more outfits
-just for when I meet ｛御影＊＊｝. )");
+just for when I meet
+｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

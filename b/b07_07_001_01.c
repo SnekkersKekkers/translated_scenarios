@@ -1,5 +1,6 @@
-MsgDisp("主人公","｛御影＊＊｝, recently you've been
-talking to ｛柊＊＊＊｝ a lot, haven't
+MsgDisp("主人公","｛御影＊＊｝, recently
+you've been talking to
+｛柊＊＊＊｝ a lot, haven't
 you?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -47,10 +48,10 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700001_07_070");
-MsgDisp("Mikage","Crap. 
+MsgDisp("Mikage","Crap.
 My serious side came out today.");
-MsgDisp("主人公","(｛御影＊＊｝ is always worrying about
-us, huh......)");
+MsgDisp("主人公","(｛御影＊＊｝ is always worrying about us,
+huh......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

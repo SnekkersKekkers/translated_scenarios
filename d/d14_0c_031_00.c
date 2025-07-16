@@ -11,8 +11,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 ChCheek(7,0);
 VoicePlay("D140C03100_07_000");
-MsgDisp("Mikage","Everyone, eat lots
-and grow up big.");
+MsgDisp("Mikage","Everyone, eat lots and grow up big.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -39,8 +38,9 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C03100_05_010");
-MsgDisp("Hiiragi","Yes. ...Ah, but when I was younger I was
-told I looked like an eggplant.");
+MsgDisp("Hiiragi","Yes.
+... Ah, but when I was younger I was told
+I looked like an eggplant.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -59,8 +59,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C03100_05_020");
-MsgDisp("Hiiragi","Really? I guess my bowl cut looked like a
-eggplant stem.");
+MsgDisp("Hiiragi","Really?
+I guess my bowl cut looked like a eggplant
+stem.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -74,11 +75,11 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C03100_06_020");
-MsgDisp("Himuro","I don't really feel
-like eating anymore...");
+MsgDisp("Himuro","I don't really feel like eating anymore...");
 MsgDisp("主人公","(｛氷室＊＊｝ weakenly looks at
-｛御影＊＊｝ who is growing a baby
-eggplant ｛柊＊＊＊｝... Hehe, what an
+｛御影＊＊｝ who is
+growing a baby eggplant
+｛柊＊＊＊｝... Hehe, what an
 interesting picture.)");
 BGMStop();
 MsgClose();

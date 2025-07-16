@@ -21,7 +21,8 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C10401_06_000");
 MsgDisp("Himuro","You look sleepy, Kojiro-sensei.");
-MsgDisp("主人公","Ouuah... Ah, sorry.");
+MsgDisp("主人公","Ouuah...
+Ah, sorry.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -94,8 +95,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C10401_06_040");
-MsgDisp("Himuro","Ha? what are you saying? Let's go to the
-gazebo.");
+MsgDisp("Himuro","Ha? what are you saying?
+Let's go to the gazebo.");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(6);
@@ -116,8 +117,9 @@ ChMotion(7,2);
 VoicePlay("B330C10401_07_050");
 MsgDisp("Mikage","Wouldn't it be nice if he sympathized with
 me a bit more?");
-MsgDisp("主人公","Hehe. ｛御影＊＊｝, are you feeling
-down?");
+MsgDisp("主人公","Hehe.
+｛御影＊＊｝, are you
+feeling down?");
 ChMouth(7,4);
 ChEye(5,4);
 ChMouth(5,4);

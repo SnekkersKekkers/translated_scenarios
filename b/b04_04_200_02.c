@@ -37,20 +37,20 @@ switch (MsgSelRsltGet()){
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040420002_04_030");
-        MsgDisp("Nanatsumori","Haa. Maybe I should get an instructor to
-teach meー...");
+        MsgDisp("Nanatsumori","Haa.
+Maybe I should get an instructor to teach
+meー...");
         ChEye(4,1);
         ChMouth(4,1);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040420002_04_040");
-        MsgDisp("Nanatsumori","But, that would waste
-our date time...");
+        MsgDisp("Nanatsumori","But, that would waste our date time...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040420002_04_050");
-        MsgDisp("Nanatsumori","...Hey. Is it unattractive to not skate
-coolly?");
+        MsgDisp("Nanatsumori","... Hey.
+Is it unattractive to not skate coolly?");
         MsgDisp("主人公","Hm?");
         ChEye(4,2);
         ChMotion(4,2,1);
@@ -64,7 +64,8 @@ half-baked.");
         ChCheek(4,8);
         VoicePlay("B040420002_04_070");
         MsgDisp("Nanatsumori","Why are you laughing?");
-        MsgDisp("主人公","That's just like you, ｛七ツ森＊｝.");
+        MsgDisp("主人公","That's just like you,
+｛七ツ森＊｝.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,1,1);
@@ -102,7 +103,7 @@ I only need to try looking cool at work.");
         ChEye(4,4);
         VoicePlay("B040420002_04_120");
         MsgDisp("Nanatsumori","You accept me as I am.
-...Thank you.");
+... Thank you.");
         MsgDisp("主人公","(｛七ツ森＊｝......)");
         break ;
         default :

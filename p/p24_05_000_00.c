@@ -174,18 +174,19 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("P240500000_05_150");
-MsgDisp("Hiiragi","No,
-I should be the one saying thanks.");
+MsgDisp("Hiiragi","No, I should be the one saying thanks.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 Wait(22,1);
 VoiceEVSPlay(5);
 VoicePlay("P240500000_05_160");
-MsgDisp("Hiiragi","｛主人公｝, everyone, thank you.");
+MsgDisp("Hiiragi","｛主人公｝, everyone,
+thank you.");
 SEPlay("EV_SE_752");
 Wait(50,0);
-MsgDisp("主人公","(｛柊＊＊＊｝...I'm glad.)");
+MsgDisp("主人公","(｛柊＊＊＊｝...
+I'm glad.)");
 SEStop("EV_SE_752",1);
 MsgClose();
 ScrFadeOut(0,0);

@@ -11,8 +11,9 @@ VoicePlay("G020110301_01_010");
 MsgDisp("Kazama","Since I came back, all the seasons've been
 familiar but new at the same time.
 It's really great.");
-MsgDisp("主人公","Yeah! When we're together, it's fun no
-matter where we go.");
+MsgDisp("主人公","Yeah!
+When we're together, it's fun no matter
+where we go.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -39,8 +40,9 @@ VoicePlay("G020110301_01_040");
 MsgDisp("Kazama","But the big thing is you. You're here with
 me now, like that's where you belong, but
 it was different in the UK.");
-MsgDisp("主人公","Yeah. I don't really remember what it was
-like after you suddenly moved away either.");
+MsgDisp("主人公","Yeah.
+I don't really remember what it was like
+after you suddenly moved away either.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -92,7 +94,8 @@ VoicePlay("G020110301_01_110");
 MsgDisp("Kazama","I didn't have any chances to go to the
 pool or even swim really over there so I
 totally forgot how.");
-MsgDisp("主人公","Hahah. But you were really cute,
+MsgDisp("主人公","Hahah.
+But you were really cute,
 ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -109,9 +112,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_130");
 MsgDisp("Kazama","(sigh) I wanna go to a timeline where I
 didn't borrow that floatie that day......");
-MsgDisp("主人公","(｛風真＊＊｝ using a floatie to stay
-above water......
-might be something I want to see again.)");
+MsgDisp("主人公","(｛風真＊＊｝ using a floatie to stay above
+water...... might be something I want to
+see again.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

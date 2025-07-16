@@ -14,8 +14,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,1,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H3A0200000_02_000");
-    MsgDisp("Sassa","｛主人公｝. You decided that
-splendidly.");
+    MsgDisp("Sassa","｛主人公｝.
+You decided that splendidly.");
     MsgDisp("主人公","｛颯砂＊＊｝, thanks.");
     ChEye(2,3);
     ChMouth(2,3);
@@ -23,7 +23,8 @@ splendidly.");
     ChEyeOpenLevel(2,0);
     VoicePlay("H3A0200000_02_010");
     MsgDisp("Sassa","It was a beautiful win, and it felt so
-great! Congrats.");
+great!
+Congrats.");
     MsgDisp("主人公","You were watching.");
     ChEye(2,0);
     ChMouth(2,4);

@@ -6,7 +6,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Winter break is coming up.
-｛七ツ森＊｝, what are you doing?");
+｛七ツ森＊｝, what are you
+doing?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
@@ -28,7 +29,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("F020400011_04_020");
-MsgDisp("Nanatsumori","......A little?
+MsgDisp("Nanatsumori","...... A little?
 It's not little at all∈ It's super cold.
 Deathly-cold levels!");
 MsgDisp("主人公","I-I see.
@@ -45,5 +46,5 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400011_04_040");
 MsgDisp("Nanatsumori","Haah～......");
-MsgDisp("主人公","(I will root for you!
-......from a nice warm room!)");
+MsgDisp("主人公","(I will root for you! ......from a nice
+warm room!)");

@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040101101_01_010");
-    MsgDisp("Kazama","Right. Can't you see everyone living their
+    MsgDisp("Kazama","Right.
+Can't you see everyone living their
 frantic, busy everyday lives?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

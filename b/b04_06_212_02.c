@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,5);
     VoicePlay("B040621202_06_010");
     MsgDisp("Himuro","Are you that happy with it?
-...Well, I don't mind.");
+... Well, I don't mind.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -55,7 +55,7 @@ switch (MsgSelRsltGet()){
         ChMotion(6,0);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040621202_06_040");
-        MsgDisp("Himuro","...I don't really need it.
+        MsgDisp("Himuro","... I don't really need it.
 But since we're here, I'll gratefully
 receive it.");
         ChEye(6,0);
@@ -70,10 +70,8 @@ Just to be sure.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040621202_06_060");
-        MsgDisp("Himuro","I'm just happy to
-know you care.");
-        MsgDisp("主人公","Hehe, then which
-one do you want?");
+        MsgDisp("Himuro","I'm just happy to know you care.");
+        MsgDisp("主人公","Hehe, then which one do you want?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
@@ -108,9 +106,9 @@ everything.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621202_06_110");
-        MsgDisp("Himuro","Is that not 
-different to my image?");
-        MsgDisp("主人公","(...I-It's hard to answer.)");
+        MsgDisp("Himuro","Is that not different to my image?");
+        MsgDisp("主人公","(...
+I-It's hard to answer.)");
         break ;
         default :
         DbgAssert(1);

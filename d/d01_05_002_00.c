@@ -40,7 +40,8 @@ MsgDisp("主人公","(The field is full of people......
 Looks like there's another class out there
 playing soccer.)");
 VoicePlay("D010500200_39_020");
-MsgDisp("Male Student B","Hiiragi!　Here!");
+MsgDisp("Male Student B","Hiiragi!
+Here!");
 MsgDisp("主人公","(Is that ｛柊＊＊＊｝'s class?)");
 VoicePlay("D010500200_40_030");
 MsgDisp("Male Student A","Ohh!");
@@ -81,8 +82,8 @@ StlClose();
 BGOpen("sc300",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(What a relief......
-It's a good thing ｛柊＊＊＊｝ wasn't
-injured.)");
+It's a good thing ｛柊＊＊＊｝
+wasn't injured.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -114,14 +115,15 @@ ScrFadeIn(0);
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,30,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Earlier you scored a
-goal, huh?");
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+Earlier you scored a goal, huh?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("D010500200_05_030");
-MsgDisp("Hiiragi","｛主人公｝, were you watching?
+MsgDisp("Hiiragi","｛主人公｝, were you
+watching?
 It's my first ever goal.");
 MsgDisp("主人公","Nice, congratulations!");
 ChEye(5,0);
@@ -131,7 +133,8 @@ VoicePlay("D010500200_05_040");
 MsgDisp("Hiiragi","Thank you.
 But you shouldn't get distracted during
 class, okay?");
-MsgDisp("主人公","Ugh......Yes sir.");
+MsgDisp("主人公","Ugh......
+Yes sir.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

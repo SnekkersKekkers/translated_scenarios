@@ -13,8 +13,9 @@ switch (ChPrmGet(3,6)){
     ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("Q020300000_03_000");
-    MsgDisp("Honda","｛主人公｝. Good morning! Did you sleep
-well?");
+    MsgDisp("Honda","｛主人公｝.
+Good morning!
+Did you sleep well?");
     MsgDisp("主人公","Good morning.
 Mhm, yes I did.
 ｛本多＊＊｝, how about you?");
@@ -33,7 +34,8 @@ for today's free period!");
         ChMouth(3,3);
         ChMotion(3,3,1);
         VoicePlay("Q020300000_03_020");
-        MsgDisp("Honda","Yay! Let's make the most out of today!");
+        MsgDisp("Honda","Yay!
+Let's make the most out of today!");
         MsgDisp("主人公","Thanks for inviting me.");
         ChEye(3,4);
         ChMouth(3,3);
@@ -41,8 +43,9 @@ for today's free period!");
         VoicePlay("Q020300000_03_030");
         MsgDisp("Honda","No problem, now what should we do?
 There are so many places I want to go to.");
-        MsgDisp("主人公","(Hehe. I can't wait for the free period
-together with ｛本多＊＊｝! )");
+        MsgDisp("主人公","(Hehe.
+I can't wait for the free period together
+with ｛本多＊＊｝! )");
         break ;
         case 1:
         ChEye(3,2);
@@ -56,8 +59,7 @@ together with ｛本多＊＊｝! )");
         VoicePlay("Q020300000_03_050");
         MsgDisp("Honda","Welp, that can't be helped.
 Let's both enjoy the free period!");
-        MsgDisp("主人公","(He even invited me,
-I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
         DbgAssert(0);
@@ -72,8 +74,9 @@ I feel bad......)");
     ChOpen(3,254,5,3,3,#1,#1,0,0);
     VoiceEVSPlay(3);
     VoicePlay("Q020300000_03_060");
-    MsgDisp("Honda","｛主人公｝. Found you! I was looking
-for you!");
+    MsgDisp("Honda","｛主人公｝.
+Found you!
+I was looking for you!");
     MsgDisp("主人公","｛本多＊＊｝, good morning!");
     ChEye(3,0);
     ChMouth(3,3);
@@ -101,18 +104,19 @@ I'm looking forward to this!");
         ChMotion(3,1,1);
         VoicePlay("Q020300000_03_090");
         MsgDisp("Honda","I'm also super excited!");
-        MsgDisp("主人公","(Spending this freetime with ｛本多＊＊｝
-will surely be a blast! Maybe he can teach
-me fun facts and trivia of the spots we'll
-be touring?)");
+        MsgDisp("主人公","(Spending this freetime with
+｛本多＊＊｝ will surely be a
+blast! Maybe he can teach me fun facts and
+trivia of the spots we'll be touring?)");
         break ;
         case 1:
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,4,1);
         VoicePlay("Q020300000_03_100");
-        MsgDisp("Honda","Oh... is that so? I was assuming it would
-be the two of us going around together");
+        MsgDisp("Honda","Oh... is that so?
+I was assuming it would be the two of us
+going around together");
         ChEye(3,4);
         ChMouth(3,3);
         ChMotion(3,0,1);
@@ -120,8 +124,7 @@ be the two of us going around together");
         MsgDisp("Honda","It can't be helped, I'll follow Plan B
 instead.
 So, have fun on your end too.");
-        MsgDisp("主人公","(He even invited me,
-I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
         DbgAssert(0);

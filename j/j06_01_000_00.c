@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060100000_01_000");
         MsgDisp("Kazama","Okay, that's settled.
 What about the meeting place?");
-        MsgDisp("主人公","At the ｛待ち合わせ場所｝, sounds good?");
+        MsgDisp("主人公","At the ｛待ち合わせ場所｝,
+sounds good?");
         ChEye(1,3);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -28,7 +29,8 @@ I'm looking forward to it.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(An invitation from ｛風真＊＊｝......
+        MsgDisp("主人公","(An invitation from
+｛風真＊＊｝......
 Is this a date?)");
         break ;
         case 5:
@@ -44,9 +46,11 @@ Where do you want to meet up?");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("J060100000_01_030");
-        MsgDisp("Kazama","Ok. Well, you know, we could be anywhere.
+        MsgDisp("Kazama","Ok.
+Well, you know, we could be anywhere.
 I'm sure we can meet, right?");
-        MsgDisp("主人公","Hmmm. You have to be at the meeting point.
+        MsgDisp("主人公","Hmmm.
+You have to be at the meeting point.
 Don't you get it?");
         ChEye(1,3);
         ChMouth(1,3);
@@ -84,7 +88,8 @@ I'm a little nervous.)");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("J060100000_01_060");
-        MsgDisp("Kazama","U...... Oh, yeah.
+        MsgDisp("Kazama","U......
+Oh, yeah.
 No good?");
         MsgDisp("主人公","Yeah, sorry.
 It's a little bit ......");
@@ -144,9 +149,9 @@ doesn't matter where we are......");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(Hmmm ...... He went to all the trouble of
-inviting me over, I'm sorry I did
-that......)");
+        MsgDisp("主人公","(Hmmm ......
+He went to all the trouble of inviting me
+over, I'm sorry I did that......)");
         break ;
         default :
         DbgAssert(1);

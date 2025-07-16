@@ -16,8 +16,8 @@ switch (ChPrmGet(3,6)){
     VoicePlay("O040300001_03_000");
     MsgDisp("Honda","Hm?
 I thought we were going pretty well.");
-    MsgDisp("主人公","(Haa...... we lost. I should've tried
-harder.)");
+    MsgDisp("主人公","(Haa...... we lost.
+I should've tried harder.)");
     break ;
     case 3:
     ChEye(3,2);
@@ -25,8 +25,8 @@ harder.)");
     ChMotion(3,2);
     VoicePlay("O040300001_03_010");
     MsgDisp("Honda","Da, we didn't make it.");
-    MsgDisp("主人公","(Haa...... we lost. I should've tried
-harder.)");
+    MsgDisp("主人公","(Haa...... we lost.
+I should've tried harder.)");
     break ;
     case 4:
     case 5:
@@ -37,8 +37,8 @@ harder.)");
     MsgDisp("Honda","Strange...... I'm more frustrated than I
 thought I'd be. Maybe because we were on
 the same team......");
-    MsgDisp("主人公","(Haa...... we lost. I should've tried
-harder.)");
+    MsgDisp("主人公","(Haa...... we lost.
+I should've tried harder.)");
     break ;
     default :
     DbgAssert(1);

@@ -13,7 +13,8 @@ MsgDisp("主人公","(I'm glad it ended without any
 problems...)");
 VoiceEVSPlay(7);
 VoicePlay("P840700004_07_000");
-MsgDisp("Mikage?","｛主人公｝, that was excellent.");
+MsgDisp("Mikage?","｛主人公｝, that was
+excellent.");
 MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -22,7 +23,8 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840700004_07_010");
 MsgDisp("Mikage","That was considerate.
 As expected of a third year veteran.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝. You saw that?");
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
+You saw that?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

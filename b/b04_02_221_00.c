@@ -26,8 +26,7 @@ I think I'm fine with it though.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040222100_02_020");
-    MsgDisp("Sassa","Yeah, 
-\"I am content\", as they would say.");
+    MsgDisp("Sassa","Yeah, \"I am content\", as they would say.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

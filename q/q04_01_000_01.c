@@ -32,8 +32,9 @@ I was looking for you just now too.");
     VoicePlay("Q040100001_01_030");
     MsgDisp("Kazama","I guess I lost.
 I'll spend the entire day with you.");
-    MsgDisp("主人公","(Yay! I'm happy I'll able to look around
-with ｛風真＊＊｝. )");
+    MsgDisp("主人公","(Yay!
+I'm happy I'll able to look around with
+｛風真＊＊｝. )");
     break ;
     default :
     DbgAssert(1);

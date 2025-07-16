@@ -2,7 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yayー!　A huge success∈)");
+MsgDisp("主人公","(Yayー!
+A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -21,7 +22,8 @@ VoicePlay("P740500004_05_010");
 MsgDisp("Hiiragi","You were concentrating well.
 Your expressions, walk and turns were
 perfect.");
-MsgDisp("主人公","Really? Thank you, ｛柊＊＊＊｝...");
+MsgDisp("主人公","Really?
+Thank you, ｛柊＊＊＊｝...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

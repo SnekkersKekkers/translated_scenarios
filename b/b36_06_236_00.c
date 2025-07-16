@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","I didn't expect ｛氷室＊＊｝ to choose a
-place like this.");
+MsgDisp("主人公","I didn't expect ｛氷室＊＊｝ to
+choose a place like this.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -57,8 +57,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B360623600_06_060");
-MsgDisp("Himuro","Yeah. You looked so happy. It's the face I
-always wanted to see.");
+MsgDisp("Himuro","Yeah.
+You looked so happy.
+It's the face I always wanted to see.");
 MsgDisp("主人公","｛氷室＊＊｝......");
 ChEye(6,0);
 ChMouth(6,4);
@@ -71,8 +72,8 @@ ChMouth(6,3);
 ChMotion(6,3);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360623600_06_080");
-MsgDisp("Himuro","Haha...... I'm definitely one of those men
-too.");
+MsgDisp("Himuro","Haha......
+I'm definitely one of those men too.");
 MsgDisp("主人公","(｛氷室＊＊｝, looks a little happy?)");
 BGMStop();
 MsgClose();

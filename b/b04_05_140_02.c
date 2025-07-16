@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040514002_05_010");
-    MsgDisp("Hiiragi","Excited? I was listening intently, yes
-but...");
+    MsgDisp("Hiiragi","Excited?
+I was listening intently, yes but...");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -54,8 +54,7 @@ I won't lose to him.");
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040514002_05_050");
-        MsgDisp("Hiiragi","Just now you said 
-that guy was cool.");
+        MsgDisp("Hiiragi","Just now you said that guy was cool.");
         MsgDisp("主人公","｛柊＊＊＊｝, what's wrong?");
         ChEye(5,4);
         ChMotion(5,1);
@@ -74,8 +73,9 @@ them.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040514002_05_080");
-        MsgDisp("Hiiragi","Haa. I feel better now, so that's the end
-of it.");
+        MsgDisp("Hiiragi","Haa.
+I feel better now, so that's the end of
+it.");
         MsgDisp("主人公","(Ehh, ｛柊＊＊＊｝ was jealous?
 I feel like I heard something really
 significant...)");

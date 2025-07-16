@@ -23,8 +23,9 @@ technical books off first, only my
 daily necessities remained. Even
 then, I had a lot of luggage.");
 MsgClear();
-MsgDisp("主人公","\"Ah! ｛御影＊＊｝, this suit. It's
-from the christmas party huh?\"");
+MsgDisp("主人公","\"Ah! ｛御影＊＊｝,
+this suit. It's from the christmas
+party huh?\"");
 MsgDisp("","She who was looking through the
 closet happily held the suit with
 both arms.");
@@ -74,7 +75,8 @@ various different clothes and
 accessories.");
 VoicePlay("Y300700500_07_040");
 MsgDisp("Mikage","\"Phewー...\"");
-MsgDisp("","Huh? Somehow, I feel nervous.");
+MsgDisp("","Huh?
+Somehow, I feel nervous.");
 MsgClear();
 MsgDisp("主人公","\"｛御影＊＊｝!\"");
 MsgDisp("","And then I heard a strangely

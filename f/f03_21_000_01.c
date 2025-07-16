@@ -1,5 +1,4 @@
-MsgDisp("主人公","What sort of TV 
-programs do you watch?");
+MsgDisp("主人公","What sort of TV programs do you watch?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
@@ -40,11 +39,11 @@ ChMouth(21,4);
 ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("F032100000_21_060");
-MsgDisp("Michiru","No way....
-this is so embarrassing.
+MsgDisp("Michiru","No way.... this is so embarrassing.
 Can you let me off the hook already?");
-MsgDisp("主人公","(Hehe. ｛みちる＊｝ likes romance
-dramas huh?)");
+MsgDisp("主人公","(Hehe.
+｛みちる＊｝ likes
+romance dramas huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

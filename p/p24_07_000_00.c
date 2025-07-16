@@ -24,8 +24,7 @@ ChEye(7,0);
 ChMouth(7,1);
 ChMotion(7,0);
 VoicePlay("P240700000_07_010");
-MsgDisp("Mikage","Even if that is so,
-I will take you home.");
+MsgDisp("Mikage","Even if that is so, I will take you home.");
 MsgDisp("主人公","You cannot.
 I am not a human being.
 I will only bring you sorrow.");
@@ -60,8 +59,7 @@ He's like a real actor.");
 VoicePlay("P240700000_45_000");
 MsgDisp("School Girl B","Yeah, I'm shedding tears...");
 VoicePlay("P240700000_33_030");
-MsgDisp("Fahai","Don't mingle with humans, 
-you demon!");
+MsgDisp("Fahai","Don't mingle with humans, you demon!");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("P240700000_07_050");
@@ -84,8 +82,9 @@ BGOpen("sc744",0);
 MsgClose();
 ChOpen(7,38,0,2,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","This is... fine. I can finally experience
-the same time you do.");
+MsgDisp("主人公","This is... fine.
+I can finally experience the same time you
+do.");
 ChEye(7,2);
 ChMouth(7,1);
 ChMotion(7,2);
@@ -112,17 +111,18 @@ ChMotion(7,0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 VoicePlay("P240700000_07_070");
-MsgDisp("Mikage","Phew... Somehow I managed to stand in as a
+MsgDisp("Mikage","Phew...
+Somehow I managed to stand in as a
 substitute.");
-MsgDisp("主人公","｛御影＊＊｝! The applause was huge!");
+MsgDisp("主人公","｛御影＊＊｝!
+The applause was huge!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("P240700000_07_080");
 MsgDisp("Mikage","I had to give it my all for the students
 who are feeling frustrated");
-MsgDisp("主人公","Yes,
-thank you very much!");
+MsgDisp("主人公","Yes, thank you very much!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -154,7 +154,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I wonder what that was about...? Speaking
 of in the middle of the performance
-｛御影＊＊｝ suddenly changed...)");
+｛御影＊＊｝ suddenly
+changed...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

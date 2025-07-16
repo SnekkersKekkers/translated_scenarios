@@ -8,7 +8,8 @@ switch (ChPrmGet(3,6)){
     case 2:
     VoicePlay("R040300000_03_000");
     MsgDisp("Honda","Merry Christmas!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Merry Christmas!");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Merry Christmas!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -20,7 +21,8 @@ like a castle from Europe.");
     case 3:
     VoiceEVSPlay(3);
     VoicePlay("R040300000_03_020");
-    MsgDisp("Honda","｛主人公｝, I finally found you.");
+    MsgDisp("Honda","｛主人公｝, I finally
+found you.");
     MsgDisp("主人公","Ah, ｛本多＊＊｝, Merry Christmas!");
     ChEye(3,3);
     ChMouth(3,3);
@@ -35,8 +37,10 @@ you.");
     case 5:
     VoiceEVSPlay(3);
     VoicePlay("R040300000_03_040");
-    MsgDisp("Honda","｛主人公｝, Merry Christmas.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Merry Christmas!");
+    MsgDisp("Honda","｛主人公｝, Merry
+Christmas.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Merry Christmas!");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,0,1);

@@ -24,21 +24,22 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120200_01_030");
 MsgDisp("Kazama","Anyway, we're taking this seriously.");
-MsgDisp("主人公","(Has ｛風真＊＊｝ turned into a firefly in
-his head?)");
+MsgDisp("主人公","(Has ｛風真＊＊｝ turned into a
+firefly in his head?)");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("G020120200_01_040");
 MsgDisp("Kazama","Do you like ones that are abnormally big
 and fly super fast?");
-MsgDisp("主人公","Um...... You're talking about fireflies,
-right?");
+MsgDisp("主人公","Um......
+You're talking about fireflies, right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020120200_01_050");
-MsgDisp("Kazama","Yeah. That's all I'm talking about.
+MsgDisp("Kazama","Yeah.
+That's all I'm talking about.
 Fireflies.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -60,7 +61,9 @@ VoicePlay("G020120200_01_080");
 MsgDisp("Kazama","So I know that if I get in the ring with
 him, I'd be no match for him. Even if I
 did track, there's no way I could win.");
-MsgDisp("主人公","Um......｛風真＊＊｝. Is something wrong?");
+MsgDisp("主人公","Um......
+｛風真＊＊｝.
+Is something wrong?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -83,8 +86,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120200_01_110");
 MsgDisp("Kazama","Listen, I'm getting to the goal first.");
-MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝ is talking
-about ｛颯砂＊＊｝...... )");
+MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝
+is talking about ｛颯砂＊＊｝...... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -9,5 +9,6 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020600012_06_010");
 MsgDisp("Himuro","Do you not care what I think, or what?");
-MsgDisp("主人公","(Urgh... What a blunder. I've got to
-remember what I wore before.)");
+MsgDisp("主人公","(Urgh...
+What a blunder.
+I've got to remember what I wore before.)");

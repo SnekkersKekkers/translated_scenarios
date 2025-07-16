@@ -16,20 +16,22 @@ Gardening Club...)");
     VoicePlay("P630300002_03_000");
     MsgDisp("Honda","Eh!
 It's like a real cafe.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+Welcome.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("P630300002_03_010");
     MsgDisp("Honda","The Gardening Club is amazing.");
-    MsgDisp("主人公","Hehe. We're serving meals made with the
-herbs and vegetables we grew.");
+    MsgDisp("主人公","Hehe.
+We're serving meals made with the herbs
+and vegetables we grew.");
     ChSet(3,3);
     VoicePlay("P630300002_03_020");
     MsgDisp("Honda","Yep yep, sounds nice.
 Then, I would like some at once!");
-    MsgDisp("主人公","Certainly! Then, I'll lead you to your
-seat.");
+    MsgDisp("主人公","Certainly!
+Then, I'll lead you to your seat.");
     break ;
     case 4:
     case 5:
@@ -62,7 +64,8 @@ I'm sorry.");
     ChMouth(3,0);
     ChMotion(3,5,1);
     VoicePlay("P630300002_03_060");
-    MsgDisp("Honda","I see～, I'm disappointed.");
+    MsgDisp("Honda","I see～
+, I'm disappointed.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

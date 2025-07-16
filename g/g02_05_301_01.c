@@ -36,7 +36,8 @@ It's only going to increase more and more,
 you know?");
 MsgDisp("主人公","(Recently I've made more friends and more
 acquaintances......
-｛柊＊＊＊｝, you're exaggerating.)");
+｛柊＊＊＊｝, you're
+exaggerating.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

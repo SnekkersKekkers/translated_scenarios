@@ -28,8 +28,9 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B150110000_01_030");
 MsgDisp("Kazama","What are you going to do about this?
-...Geez.");
-MsgDisp("主人公","(Is ｛風真＊＊｝ okay, I wonder...)");
+... Geez.");
+MsgDisp("主人公","(Is ｛風真＊＊｝ okay, I
+wonder...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

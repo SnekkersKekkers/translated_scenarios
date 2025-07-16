@@ -37,7 +37,8 @@ You heard that?");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400001_04_020");
-    MsgDisp("Nanatsumori","Haha. I was just thinking the same thing.
+    MsgDisp("Nanatsumori","Haha.
+I was just thinking the same thing.
 Well, I'll have the same as him.");
     MsgDisp("主人公","Yes, understood.
 A blend coffee and strawberry shortcake!");
@@ -73,8 +74,7 @@ Feels nice.");
     ChMotion(4,0,1);
     ChCheek(4,5);
     VoicePlay("I360400001_04_050");
-    MsgDisp("Nanatsumori","Your smile is......
-nice, too.");
+    MsgDisp("Nanatsumori","Your smile is...... nice, too.");
     MsgDisp("主人公","Hm?");
     ChEye(4,4);
     ChMouth(4,0);
@@ -82,7 +82,8 @@ nice, too.");
     VoicePlay("I360400001_04_060");
     MsgDisp("Nanatsumori","......A blend coffee and strawberry
 shortcake, please.");
-    MsgDisp("主人公","(Did ｛七ツ森＊｝ praise me?)");
+    MsgDisp("主人公","(Did ｛七ツ森＊｝ praise
+me?)");
     break ;
     default :
     DbgAssert(1);

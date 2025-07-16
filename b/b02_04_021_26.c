@@ -13,7 +13,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B020402126_04_010");
-MsgDisp("Nanatsumori","Right. The more I gnaw on the natural
-look, the more I see the appeal.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes
-like these too.)");
+MsgDisp("Nanatsumori","Right.
+The more I gnaw on the natural look, the
+more I see the appeal.");
+MsgDisp("主人公","(｛七ツ森＊｝ seems to like clothes like
+these too.)");

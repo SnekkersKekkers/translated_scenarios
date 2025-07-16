@@ -28,7 +28,8 @@ from the music room!");
     MsgDisp("Honda","Truthfully, recently I've been secretly
 listening to you practice.
 The sound was so beautiful.");
-    MsgDisp("主人公","(Yay! I got praised!)");
+    MsgDisp("主人公","(Yay!
+I got praised!)");
     break ;
     default :
     DbgAssert(1);

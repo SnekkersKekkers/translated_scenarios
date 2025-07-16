@@ -12,7 +12,8 @@ My apologies.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(...It can't be helped.
+    MsgDisp("主人公","(...
+It can't be helped.
 I'll go home alone.)");
     break ;
     case 3:
@@ -27,13 +28,15 @@ I have plans with a patron of the troupe.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("F010500006_05_020");
-    MsgDisp("Hiiragi","Yes. Whenever I talk to you, I never fail
-to enjoy it.");
+    MsgDisp("Hiiragi","Yes.
+Whenever I talk to you, I never fail to
+enjoy it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(It seems like ｛柊＊＊＊｝ is busy.
+    MsgDisp("主人公","(It seems like ｛柊＊＊＊｝ is
+busy.
 It can't be helped, I'll go home alone.)");
     break ;
     case 4:
@@ -58,8 +61,8 @@ Ha, what am I saying?");
     ChClose(5);
     ChEyeOpenLevel(5,#1);
     MsgDisp("主人公","(Sounds like a lot of work for
-｛柊＊＊＊｝. It can't be helped. I'll go
-home alone.)");
+｛柊＊＊＊｝. It can't be
+helped. I'll go home alone.)");
     break ;
     default :
     DbgAssert(1);

@@ -15,20 +15,25 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("P530D00000_22_000");
-MsgDisp("Hikaru","Huh? Are you nervous?");
-MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.
+MsgDisp("Hikaru","Huh?
+Are you nervous?");
+MsgDisp("主人公","Ah, ｛みちる＊｝,
+｛ひかる＊｝.
 Yeah......");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P530D00000_22_010");
-MsgDisp("Hikaru","Relax, relax! Don't worry about failure.
+MsgDisp("Hikaru","Relax, relax!
+Don't worry about failure.
 Okay?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P530D00000_21_010");
-MsgDisp("Michiru","Yes. Art has to be fun. Right?");
+MsgDisp("Michiru","Yes.
+Art has to be fun.
+Right?");
 MsgDisp("主人公","......Yeah!");
 SEPlay("EV_SE_038");
 SEWait();

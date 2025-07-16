@@ -6,7 +6,8 @@ VoicePlay("B350100000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝. What's wrong?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝.
+What's wrong?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

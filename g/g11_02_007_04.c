@@ -3,8 +3,9 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Practice time should almost be over,
 right......)");
 VoicePlay("G110200704_02_000");
-MsgDisp("Sassa","Manager! When you're done cleaning up,
-let's go for a run and cool down together!");
+MsgDisp("Sassa","Manager!
+When you're done cleaning up, let's go for
+a run and cool down together!");
 VoicePlay("G110200704_42_000");
 MsgDisp("Member A","That's nice.
 Let us join in once in a while～!");
@@ -76,6 +77,7 @@ ScrFadeOut(0,0);
 MsgClose();
 ChClose(2,0,0);
 SEWait();
-MsgDisp("主人公","(｛颯砂＊＊｝...... I'm so happy. Well,
-I'll continue doing my best!)");
+MsgDisp("主人公","(｛颯砂＊＊｝......
+I'm so happy.
+Well, I'll continue doing my best!)");
 MsgClose();

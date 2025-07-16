@@ -12,8 +12,9 @@ switch (MsgSelRsltGet()){
         ChOpen(21,254,0,0,0,#1,#1,0,0);
         VoicePlay("F012100002_21_000");
         MsgDisp("Michiru","Mari, are you going home now?");
-        MsgDisp("主人公","Yes. If it's alright, how about we walk
-home together?");
+        MsgDisp("主人公","Yes.
+If it's alright, how about we walk home
+together?");
         break ;
         case 3:
         MsgDisp("主人公","｛みちる＊｝.");
@@ -23,8 +24,9 @@ home together?");
         VoicePlay("F012100002_21_010");
         MsgDisp("Michiru","Oh, Mari.
 What a coincidence, right?");
-        MsgDisp("主人公","Mhm. If it's alright, how about we walk
-home together?");
+        MsgDisp("主人公","Mhm.
+If it's alright, how about we walk home
+together?");
         break ;
         case 4:
         case 5:

@@ -13,14 +13,16 @@ ChEyeOpenLevel(6,0);
 VoicePlay("K010600101_06_010");
 MsgDisp("Himuro","Excellent.
 Perfect for my tastes.");
-MsgDisp("主人公","Really? Great!");
+MsgDisp("主人公","Really?
+Great!");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 ChCheek(6,5);
 VoicePlay("K010600101_06_020");
 MsgDisp("Himuro","You must have put a lot of thought into
-this...... ......Thanks.");
+this......
+...... Thanks.");
 MsgDisp("主人公","(He looks super happy......
 Thank goodness!)");
 MsgClose();

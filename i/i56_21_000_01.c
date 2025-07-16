@@ -15,8 +15,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("I562100001_21_010");
-MsgDisp("Michiru","Yeah. They'll want to come back. To see
-your beautiful smile.");
+MsgDisp("Michiru","Yeah.
+They'll want to come back.
+To see your beautiful smile.");
 MsgDisp("主人公","(I did it!
 ｛みちる＊｝ praised me!)");
 BGMStop();

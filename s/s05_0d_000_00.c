@@ -3,7 +3,7 @@ MsgDisp("主人公","(Ah, a phone call.)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 VoicePlay("S050D00000_22_000");
-MsgDisp("Hikaru","Hi～i, Mari!
+MsgDisp("Hikaru","Hi～ i, Mari!
 It's Hikaru▼
 Hapー・py New Yeーarー!");
 MsgDisp("主人公","Oh, it's ｛ひかる＊｝.

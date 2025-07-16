@@ -11,7 +11,8 @@ SEWait();
 BGMPlay("BGM_C07_MIKAGE_KOKU",0.01);
 ChLayout(0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛御影＊＊｝...... Why are you here?");
+MsgDisp("主人公","｛御影＊＊｝......
+Why are you here?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -24,9 +25,9 @@ ChMotion(7,0);
 VoicePlay("T020701000_07_020");
 MsgDisp("Mikage","Will you go with me?
 It's my graduation ceremony.");
-MsgDisp("主人公","｛御影＊＊｝'s graduation ceremony?
-Are you going to quit your job as a
-teacher at Haba High?");
+MsgDisp("主人公","｛御影＊＊｝'s graduation
+ceremony? Are you going to quit your job
+as a teacher at Haba High?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -48,14 +49,15 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020701000_07_050");
 MsgDisp("Mikage","I'm not the kind of person who's suited to
 be called a teacher......");
-MsgDisp("主人公","That...... I was very happy to spend the
-last three years with ｛御影＊＊｝.");
+MsgDisp("主人公","That......
+I was very happy to spend the last three
+years with ｛御影＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020701000_07_060");
-MsgDisp("Mikage","......Thank you.
+MsgDisp("Mikage","...... Thank you.
 You always help me out like that.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -77,8 +79,9 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020701000_07_090");
 MsgDisp("Mikage","Hey, do you remember when we went bowling?");
-MsgDisp("主人公","Yes. You took me there when our
-extracurricular activities were cancelled.");
+MsgDisp("主人公","Yes.
+You took me there when our extracurricular
+activities were cancelled.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
@@ -99,7 +102,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020701000_07_120");
-MsgDisp("Mikage","I see......I'm glad.");
+MsgDisp("Mikage","I see......
+I'm glad.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -125,8 +129,7 @@ ChMotion(7,7);
 ChEyeOpenLevel(7,8);
 ChOpen(7,254,0,0,0,#1,#1,0,0,0,120);
 VoicePlay("T020701000_07_150");
-MsgDisp("Mikage","Yeah, what I feel for you......
-is love.");
+MsgDisp("Mikage","Yeah, what I feel for you...... is love.");
 MsgDisp("主人公","!");
 ChEye(7,4);
 ChMouth(7,4);

@@ -32,8 +32,7 @@ of many.");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040609002_06_020");
-        MsgDisp("Himuro","What gives you the
-right to say that? ");
+        MsgDisp("Himuro","What gives you the right to say that?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -91,8 +90,9 @@ That's good right?");
         ChMouth(6,3);
         ChMotion(6,0);
         VoicePlay("B040609002_06_100");
-        MsgDisp("Himuro","Fine. Fore you to say all that, I'll think
-about growing a cactus.");
+        MsgDisp("Himuro","Fine.
+Fore you to say all that, I'll think about
+growing a cactus.");
         MsgDisp("主人公","(He really does look like a prickly
 cactus...!)");
         break ;

@@ -33,15 +33,16 @@ ChMotion(7,2);
 VoicePlay("B360707001_07_030");
 MsgDisp("Mikage","It's not fair if it's just those two doing
 something fun, right?");
-MsgDisp("主人公","｛御影＊＊｝, you said you were tired
-earlier?");
+MsgDisp("主人公","｛御影＊＊｝, you said you
+were tired earlier?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("B360707001_07_040");
 MsgDisp("Mikage","It went away in an instant.");
-MsgDisp("主人公","(Sometimes ｛御影＊＊｝ seems just like
-a high school student......)");
+MsgDisp("主人公","(Sometimes ｛御影＊＊｝
+seems just like a high school
+student......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

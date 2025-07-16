@@ -16,9 +16,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B330B20101_04_000");
-MsgDisp("Nanatsumori","This place...
-is filled with some pretty grotesque
-creatures.");
+MsgDisp("Nanatsumori","This place... is filled with some pretty
+grotesque creatures.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -92,8 +91,9 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B330B20101_03_050");
 MsgDisp("Honda","Yeah.
 But, they're seriously delicious!");
-MsgDisp("主人公","(Hmm. Talking about eating deep sea fish
-at the deep sea corner is a bit...)");
+MsgDisp("主人公","(Hmm.
+Talking about eating deep sea fish at the
+deep sea corner is a bit...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -2,7 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yayー! A huge success∈))");
+MsgDisp("主人公","(Yayー!
+A huge success∈))");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -17,8 +18,9 @@ ChEyeOpenLevel(22,0);
 VoicePlay("P740D00004_22_000");
 MsgDisp("Hikaru","It was the ultimate stage～!
 Hikaru felt like crying!");
-MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝... Thank
-you!");
+MsgDisp("主人公","｛みちる＊｝,
+｛ひかる＊｝...
+Thank you!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -36,7 +38,8 @@ ChMotion(22,4,1);
 VoicePlay("P740D00004_22_020");
 MsgDisp("Hikaru","Ah... but, also I don't think I want to
 hand her away to anyone Eheh▼");
-MsgDisp("主人公","(Hehe! I'm glad I devoted myself to the
+MsgDisp("主人公","(Hehe!
+I'm glad I devoted myself to the
 handicrafts club these last three years!)");
 MsgClose();
 ScrFadeOut(0,0);

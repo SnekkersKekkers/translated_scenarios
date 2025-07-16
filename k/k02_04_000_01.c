@@ -14,7 +14,8 @@ ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("K020400001_04_000");
 MsgDisp("Nanatsumori","Hey.
 Sorry for coming so late.");
-MsgDisp("主人公","｛七ツ森＊｝!? What's up so suddenly?");
+MsgDisp("主人公","｛七ツ森＊｝!?
+What's up so suddenly?");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(4,4);
@@ -43,6 +44,7 @@ BGMStop();
 MsgClose();
 ChClose(4,0,30);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛七ツ森＊｝! )");
+MsgDisp("主人公","(I got a present from
+｛七ツ森＊｝! )");
 MsgClose();
 ScrFadeOut(0,0);

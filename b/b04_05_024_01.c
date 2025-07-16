@@ -32,8 +32,9 @@ We were destined to meet.");
     ChMouth(5,4);
     ChMotion(5,3);
     VoicePlay("B040502401_05_030");
-    MsgDisp("Hiiragi","Agreed. That's the spirit. Let's line up
-again.");
+    MsgDisp("Hiiragi","Agreed.
+That's the spirit.
+Let's line up again.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -88,8 +88,8 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoiceEVSPlay(1);
 VoicePlay("B330B30200_01_040");
-MsgDisp("Kazama","｛主人公｝. You just laughed didn't
-you?");
+MsgDisp("Kazama","｛主人公｝.
+You just laughed didn't you?");
 MsgDisp("主人公","No, I was just thinking about how both of
 your hairstyles have changed, and how you
 give off different vibes now.");
@@ -113,10 +113,12 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30200_04_050");
-MsgDisp("Nanatsumori","But... Kazama's way of looking at things
-is just too funny.");
-MsgDisp("主人公","(Hehe! Ah... but, maybe my hair has
-changed drastically too?)");
+MsgDisp("Nanatsumori","But...
+Kazama's way of looking at things is just
+too funny.");
+MsgDisp("主人公","(Hehe!
+Ah... but, maybe my hair has changed
+drastically too?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

@@ -23,5 +23,5 @@ ChMouth(8,0);
 ChMotion(8,4);
 VoicePlay("B020802001_08_030");
 MsgDisp("Shirahane","...If I buy one too, wanna be matchin'?");
-MsgDisp("主人公","(Hehe, ｛大地＊＊｝ and I can be
-matching!)");
+MsgDisp("主人公","(Hehe, ｛大地＊＊｝ and I can
+be matching!)");

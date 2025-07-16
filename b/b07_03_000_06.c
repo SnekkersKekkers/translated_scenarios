@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey ｛本多＊＊｝, what were you like in
-middle school?");
+MsgDisp("主人公","Hey ｛本多＊＊｝, what were you
+like in middle school?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -43,8 +43,8 @@ library curse and started to go outside.
 It was around that time that I discovered
 how much I enjoy teaching others.");
 MsgDisp("主人公","(......I see, as a junior high schooler
-｛本多＊＊｝ was even more of a bookworm
-than he is now.)");
+｛本多＊＊｝ was even more of a
+bookworm than he is now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

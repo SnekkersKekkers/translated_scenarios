@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040502102_05_010");
-    MsgDisp("Hiiragi","Hmmm....Ahーーー.
-Basically you have to breathe from your
-stomach.");
+    MsgDisp("Hiiragi","Hmmm....Ahーーー. Basically you have to
+breathe from your stomach.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,9 +33,8 @@ stomach.");
         ChMouth(5,4);
         ChMotion(5,1);
         VoicePlay("B040502102_05_020");
-        MsgDisp("Hiiragi","That's...
-the kind of thing where you yell 'You
-idiot!' right?");
+        MsgDisp("Hiiragi","That's... the kind of thing where you yell
+'You idiot!' right?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -76,7 +74,8 @@ Let's do it together.");
         MsgDisp("主人公","Uh, you idiot ocean!");
         VoicePlay("B040502102_05_080");
         MsgDisp("Hiiragi","I like youー!");
-        MsgDisp("主人公","Ah... EHh∋");
+        MsgDisp("主人公","Ah...
+EHh∋");
         SEPlay("EV_SE_544",0.01);
         MsgClose();
         ChOpen(5,255,2,2,4,#1,#1,10,0,0,30);

@@ -33,16 +33,18 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_040");
-MsgDisp("Kazama","And......this one!
+MsgDisp("Kazama","And...... this one!
 The one flying around us while maintaining
 this weird distance is Firefly Inori.");
-MsgDisp("主人公","Hahah. Then what about Firefly
+MsgDisp("主人公","Hahah.
+Then what about Firefly
 ｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110100_01_050");
-MsgDisp("Kazama","Me? I'm right here.");
+MsgDisp("Kazama","Me?
+I'm right here.");
 ChEye(1,1);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -55,8 +57,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_070");
-MsgDisp("Kazama","......But, well, the fact that I'm the one
-here together with you......you know?
+MsgDisp("Kazama","...... But, well, the fact that I'm the
+one here together with you...... you know?
 Means I'm in the lead, right?");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);

@@ -17,10 +17,12 @@ But, as expected I'm nervous still.)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500001_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, I came to listen.
+    MsgDisp("Hiiragi","｛主人公｝, I came to
+listen.
 To gaming music.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! Thank you. But, my heart
-is racing.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+Thank you.
+But, my heart is racing.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -55,8 +57,7 @@ is going occur.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P530500001_05_050");
-    MsgDisp("Hiiragi","So, 
-go forth with your heart racing.");
+    MsgDisp("Hiiragi","So, go forth with your heart racing.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alright, let's give it our best...!)");
     MsgClose();
@@ -77,7 +78,8 @@ But, as expected I'm nervous still.)");
     VoicePlay("P530500001_05_060");
     MsgDisp("Hiiragi","It appears that gaming music is popular,
 yes?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝. Thank you for coming.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+Thank you for coming.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -90,8 +92,9 @@ Is that right...");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P530500001_05_080");
-    MsgDisp("Hiiragi","Yes. A moderate elation——In other words,
-your heart is racing.");
+    MsgDisp("Hiiragi","Yes.
+A moderate elation——In other words, your
+heart is racing.");
     MsgDisp("主人公","Yeah, my heart is racing.");
     ChEye(5,0);
     ChMouth(5,4);
@@ -107,8 +110,9 @@ unexpected results.");
     VoicePlay("P530500001_05_100");
     MsgDisp("Hiiragi","Your expression right now gives you a good
 feeling about that, doesn't it?");
-    MsgDisp("主人公","...Yes. ｛柊＊＊＊｝ told me that, so I'm
-starting to think so too!");
+    MsgDisp("主人公","... Yes.
+｛柊＊＊＊｝ told me that, so
+I'm starting to think so too!");
     ChEye(5,0);
     ChMouth(5,3);
     ChMotion(5,0);
@@ -119,8 +123,8 @@ All that's left is to believe in yourself.");
     SEWait();
     MsgDisp("主人公","Thank you.
 Then, I'm off!");
-    MsgDisp("主人公","(Alright. Believing in myself, I'll do my
-best!)");
+    MsgDisp("主人公","(Alright.
+Believing in myself, I'll do my best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

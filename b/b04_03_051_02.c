@@ -34,8 +34,9 @@ share anything I know...");
         ChMotion(3,1);
         ChEyeOpenLevel(3,8);
         VoicePlay("B040305102_03_020");
-        MsgDisp("Honda","Huh? Is my talk, by any chance, getting in
-the way?");
+        MsgDisp("Honda","Huh?
+Is my talk, by any chance, getting in the
+way?");
         MsgDisp("主人公","No, not at all.
 It's really enjoyable.");
         ChEye(3,4);

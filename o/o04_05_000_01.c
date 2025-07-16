@@ -34,8 +34,7 @@ I should've tried harder.)");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("O040500001_05_020");
-    MsgDisp("Hiiragi","Hm,
-I had wanted to celebrate with you.");
+    MsgDisp("Hiiragi","Hm, I had wanted to celebrate with you.");
     MsgDisp("主人公","(We lost......
 I should've tried harder.)");
     break ;

@@ -24,8 +24,8 @@ Nothing more than that.");
     ChMotion(6,0,1);
     VoicePlay("H1A0600001_06_020");
     MsgDisp("Himuro","But, being able to make it to a place like
-this deserves some credit. So...... head
-up.");
+this deserves some credit.
+So...... head up.");
     MsgDisp("主人公","Yeah, thanks.");
     MsgDisp("主人公","(We lost, but I'm glad we made it
 here......)");
@@ -52,7 +52,8 @@ ashamed to lose.");
     MsgDisp("Himuro","It's not all about the results.
 You enjoyed your youth.
 Isn't that enough?");
-    MsgDisp("主人公","Yeah. Thank you, ｛氷室＊＊｝......");
+    MsgDisp("主人公","Yeah.
+Thank you, ｛氷室＊＊｝......");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

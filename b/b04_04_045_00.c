@@ -11,8 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("B040404500_04_000");
-    MsgDisp("Nanatsumori","Really? I was mostly looking at the
-costumes and dancing.");
+    MsgDisp("Nanatsumori","Really?
+I was mostly looking at the costumes and
+dancing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,2);
     VoicePlay("B040518100_05_000");
-    MsgDisp("Hiiragi","Is that so, 
-I fell behind in my studies...");
+    MsgDisp("Hiiragi","Is that so, I fell behind in my studies...");
     MsgDateResultDisp();
     break ;
     case 1:

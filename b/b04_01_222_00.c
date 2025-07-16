@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040122200_01_010");
-    MsgDisp("Kazama","right. We're here like this today, because
-of the efforts of everyone in the past.");
+    MsgDisp("Kazama","right.
+We're here like this today, because of the
+efforts of everyone in the past.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

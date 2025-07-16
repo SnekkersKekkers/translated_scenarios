@@ -15,7 +15,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H3A0100000_01_000");
     MsgDisp("Kazama","You won championships?
 Amazing.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! We did it!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+We did it!");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -43,9 +44,11 @@ I'm glad I practiced so much!)");
     ChEye(1,3);
     ChMotion(1,3);
     VoicePlay("H3A0100000_01_030");
-    MsgDisp("Kazama","Awesome. It felt like that stage was made
-just for you.");
-    MsgDisp("主人公","｛風真＊＊｝, you came to cheer for me!");
+    MsgDisp("Kazama","Awesome.
+It felt like that stage was made just for
+you.");
+    MsgDisp("主人公","｛風真＊＊｝, you came to cheer
+for me!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -64,7 +67,7 @@ but looks like I was worrying for nothing.");
     VoicePlay("H3A0100000_01_060");
     MsgDisp("Kazama","What was amazing wasn't just that you were
 strong.
-......It was kind of beautiful.");
+...... It was kind of beautiful.");
     MsgDisp("主人公","Hm?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -73,7 +76,8 @@ strong.
     MsgDisp("Kazama","Even though I doesn't know much about
 judo, I feel like I could understand the
 appeal.");
-    MsgDisp("主人公","That makes me happy. Thanks!");
+    MsgDisp("主人公","That makes me happy.
+Thanks!");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -81,7 +85,8 @@ appeal.");
     MsgDisp("Kazama","Ah, I'm just telling you now, but don't go
 off too far on your own.
 I'll be in trouble if I can't reach you.");
-    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ congratulated me!
+    MsgDisp("主人公","(Hehe, ｛風真＊＊｝
+congratulated me!
 I'm glad I practiced so much!)");
     break ;
     default :

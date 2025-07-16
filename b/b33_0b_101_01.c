@@ -43,8 +43,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B10101_03_010");
-MsgDisp("Honda","Ah, you say the 
-same thing as my sister.");
+MsgDisp("Honda","Ah, you say the same thing as my sister.");
 VoicePlay("B330B10101_04_010");
 MsgDisp("Nanatsumori","Girls also like looking at things.
 Well, I'm with you on that.");
@@ -53,16 +52,15 @@ Wait(15,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("B330B10101_01_010");
-MsgDisp("Kazama","Me too, 
-if it were us two——");
+MsgDisp("Kazama","Me too, if it were us two——");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B330B10101_01_020");
-MsgDisp("Kazama","...... Ah, I'm thirsty. Let's go
-somewhere.");
+MsgDisp("Kazama","...... Ah, I'm thirsty.
+Let's go somewhere.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -70,8 +68,9 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B10101_04_020");
-MsgDisp("Nanatsumori","Kazama. Won't that just make you swallow
-what you were about to say?");
+MsgDisp("Nanatsumori","Kazama.
+Won't that just make you swallow what you
+were about to say?");
 ChMouth(1,1);
 ChEyeOpenLevel(1,8);
 ChEye(3,3);
@@ -87,22 +86,22 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10101_01_030");
-MsgDisp("Kazama","...It's as I said.
+MsgDisp("Kazama","... It's as I said.
 Is there something wrong with that?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B330B10101_03_030");
-MsgDisp("Honda","Ah, 
-Ryo-kun took the offensive!");
+MsgDisp("Honda","Ah, Ryo-kun took the offensive!");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B10101_04_030");
-MsgDisp("Nanatsumori","Yeah. I couldn't imitate this kind of
-honesty...");
-MsgDisp("主人公","(? I don't really get it, but window
-shopping is fun!)");
+MsgDisp("Nanatsumori","Yeah.
+I couldn't imitate this kind of honesty...");
+MsgDisp("主人公","(?
+I don't really get it, but window shopping
+is fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -28,9 +28,9 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360750201_07_020");
 MsgDisp("Mikage","Please take him to try many things.");
-MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ has a lot going on with
-the student council and theater group. He
-needs a break.");
+MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ has a lot
+going on with the student council and
+theater group. He needs a break.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -51,11 +51,11 @@ ChMouth(7,4);
 ChMotion(7,4);
 ChEyeOpenLevel(7,10);
 VoicePlay("B360750201_07_050");
-MsgDisp("Mikage","......Geez, they're so easygoing.
+MsgDisp("Mikage","...... Geez, they're so easygoing.
 If it was me I would stay until the very
 end～");
-MsgDisp("主人公","(｛御影＊＊｝ is always thinking about
-his students......)");
+MsgDisp("主人公","(｛御影＊＊｝ is always thinking about his
+students......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

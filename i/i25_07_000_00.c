@@ -11,8 +11,9 @@ switch (ChPrmGet(7,6)){
     VoicePlay("I250700000_07_000");
     MsgDisp("Mikage","A part-time job at a bookstore.
 That's very high school-like.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. Is that so? I like
-books, so......");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Is that so?
+I like books, so......");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -35,7 +36,8 @@ Keep it up.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Huh...... ｛御影＊＊｝, didn't you
+    MsgDisp("主人公","(Huh......
+｛御影＊＊｝, didn't you
 come to look for books?)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -44,8 +46,7 @@ come to look for books?)");
     MsgDisp("主人公","(Alright.
 Is that all the new books?)");
     VoicePlay("I250700000_07_040");
-    MsgDisp("Mikage?","Yo, you hard-working, 
-serious girl.");
+    MsgDisp("Mikage?","Yo, you hard-working, serious girl.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
@@ -88,8 +89,8 @@ too?");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Then, he was half-serious......?
-Does ｛御影＊＊｝ really want a
-part-time job?)");
+Does ｛御影＊＊｝ really
+want a part-time job?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -113,8 +114,8 @@ The store is quite busy today.");
 Sorry if I bothered you.
 See you.");
     ChClose(7);
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...... Thank you very
-much!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝......
+Thank you very much!");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -125,7 +126,9 @@ check on me......)");
     VoicePlay("I250700000_42_010");
     MsgDisp("Manager","Just now, your homeroom teacher came by
 with gifts for everyone.");
-    MsgDisp("主人公","Huh? ｛御影＊＊｝ brought gifts?");
+    MsgDisp("主人公","Huh?
+｛御影＊＊｝ brought
+gifts?");
     VoicePlay("I250700000_42_020");
     MsgDisp("Manager","Yeah, a lot of milk ice cream.
 He got one for me, too.

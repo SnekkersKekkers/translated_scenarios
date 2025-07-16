@@ -22,11 +22,11 @@ ChMotion(8,3,1);
 VoicePlay("F020800013_08_010");
 MsgDisp("Shirahane","Yeah, yeah.
 Enjoy it to the fullest.
-...For my share too.");
+... For my share too.");
 MsgDisp("主人公","Eh?");
 VoicePlay("F020800013_08_020");
 MsgDisp("Shirahane","Hm?
 It's nothin'.");
 MsgDisp("主人公","(That's kind of an interesting way to put
-it... Won't ｛大地＊＊｝ be enjoying the
-Hane High school trip?)");
+it... Won't ｛大地＊＊｝ be
+enjoying the Hane High school trip?)");

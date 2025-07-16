@@ -13,8 +13,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,255,0,2,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080100006_01_010");
-    MsgDisp("Kazama","Hanatsubaki, 
-are you okay with heights?");
+    MsgDisp("Kazama","Hanatsubaki, are you okay with heights?");
     break ;
     case 4:
     case 5:

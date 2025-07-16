@@ -17,11 +17,13 @@ What a beautiful sunset.");
 ChEye(5,4);
 ChMotion(5,3);
 VoicePlay("B360501100_05_010");
-MsgDisp("Hiiragi","Yeah. You can see the sea, mountains, the
-town, all of Habataki City.");
+MsgDisp("Hiiragi","Yeah.
+You can see the sea, mountains, the town,
+all of Habataki City.");
 VoicePlay("B360501100_05_020");
 MsgDisp("Hiiragi","This is really a wonderful spot.");
-MsgDisp("主人公","Yeah. You can see all the great parts of
+MsgDisp("主人公","Yeah.
+You can see all the great parts of
 Habataki City from here.");
 ChEye(5,3);
 ChMotion(5,0);
@@ -35,8 +37,9 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B360501100_05_040");
 MsgDisp("Hiiragi","To me, you are also one of the attractions
 of this city.");
-MsgDisp("主人公","Eh? I'm happy, but I think that's a bit of
-an exaggeration.");
+MsgDisp("主人公","Eh?
+I'm happy, but I think that's a bit of an
+exaggeration.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360501100_05_050");
@@ -51,8 +54,8 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360501100_05_070");
 MsgDisp("Hiiragi","Of course, even if it's just us two.");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems a little different
-than when he's with everyone......
+MsgDisp("主人公","(｛柊＊＊＊｝ seems a little different than
+when he's with everyone......
 I was a bit startled.)");
 BGMStop();
 MsgClose();

@@ -8,8 +8,8 @@ ScrFadeIn(0);
 VoicePlay("F020500001_05_000");
 MsgDisp("Hiiragi","Do you know the legend of the church which
 lies within the Haba High grounds?");
-MsgDisp("主人公","Um...... The one about the prince and the
-princess?");
+MsgDisp("主人公","Um......
+The one about the prince and the princess?");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("F020500001_05_010");

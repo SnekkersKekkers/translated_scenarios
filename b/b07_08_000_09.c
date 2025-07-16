@@ -6,8 +6,8 @@ ChMotion(8,0,1);
 VoicePlay("B070800000_08_470");
 MsgDisp("Shirahane","Yeah?
 What's with the serious turn?");
-MsgDisp("主人公","｛大地＊＊｝, what do you think about
-love?");
+MsgDisp("主人公","｛大地＊＊｝, what do you
+think about love?");
 ChEye(8,5);
 ChMouth(8,5);
 ChMotion(8,1,1);

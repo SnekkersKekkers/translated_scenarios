@@ -5,8 +5,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040402201_04_000");
-MsgDisp("Nanatsumori","The sunset would
-look amazing from here.");
+MsgDisp("Nanatsumori","The sunset would look amazing from here.");
 MsgSel("The world will be dyed in orange, huh?","Shall we come again during golden hour?","Let's enjoy the now!");
 switch (MsgSelRsltGet()){
     case 0:

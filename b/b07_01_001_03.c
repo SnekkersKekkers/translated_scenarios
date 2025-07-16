@@ -15,10 +15,11 @@ VoicePlay("B070100001_01_150");
 MsgDisp("Kazama","I'm basically alone at home.
 So maybe it's better for school to be
 lively?");
-MsgDisp("主人公","You live alone, don't you ｛風真＊＊｝? If
-you get lonely, you're free to come over
-anytime. Our houses are in the same
-neighborhood after all.");
+MsgDisp("主人公","You live alone, don't you
+｛風真＊＊｝? If you get lonely,
+you're free to come over anytime. Our
+houses are in the same neighborhood after
+all.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -27,7 +28,8 @@ VoicePlay("B070100001_01_160");
 MsgDisp("Kazama","Anytime...
 Are you saying that for real?");
 MsgDisp("主人公","Yeah.
-Huh? Is that wrong?");
+Huh?
+Is that wrong?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -37,7 +39,8 @@ VoicePlay("B070100001_01_170");
 MsgDisp("Kazama","It's fine but, no it's not good!
 You're far off the mark again.
 Seriously, stop with that finishing move.");
-MsgDisp("主人公","(...Finishing move?)");
+MsgDisp("主人公","(...
+Finishing move?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

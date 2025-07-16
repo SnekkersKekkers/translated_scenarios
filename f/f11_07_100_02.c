@@ -20,8 +20,10 @@ MsgClose();
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("F110710002_07_000");
-MsgDisp("Mikage","｛主人公｝, are you having fun?");
-MsgDisp("主人公","Oh, ｛御影＊＊｝. Um, that outfit...");
+MsgDisp("Mikage","｛主人公｝, are you having
+fun?");
+MsgDisp("主人公","Oh, ｛御影＊＊｝.
+Um, that outfit...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -54,7 +56,8 @@ Ah, you should come too if you have time.
 The goat and I will look forward to it.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(Haha, typical ｛御影＊＊｝. Both the
+MsgDisp("主人公","(Haha, typical
+｛御影＊＊｝. Both the
 adults and the kids are having fun. Should
 I go later, too?)");
 MsgClose();

@@ -17,21 +17,22 @@ being irritable right?");
 MsgDisp("主人公","I'm sorry...");
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500100_05_020");
-MsgDisp("Hiiragi","Well now, I wonder 
-what I should do...");
+MsgDisp("Hiiragi","Well now, I wonder what I should do...");
 MsgDisp("主人公","Ugh...");
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B150500100_05_030");
 MsgDisp("Hiiragi","Heheh, haha.");
 MsgDisp("主人公","...Ah, could it be that you were
-pretending to be angry, ｛柊＊＊＊｝?");
+pretending to be angry,
+｛柊＊＊＊｝?");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B150500100_05_040");
-MsgDisp("Hiiragi","Yes. A counterattack of this level is
-alright, right?");
+MsgDisp("Hiiragi","Yes.
+A counterattack of this level is alright,
+right?");
 MsgDisp("主人公","Haa... that surprised me.");
 ChEye(5,0);
 ChMouth(5,4);

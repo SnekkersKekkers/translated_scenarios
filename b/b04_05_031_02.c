@@ -9,8 +9,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040503102_05_000");
 MsgDisp("Hiiragi","The sound of the water, the darkness, the
-air temperature...
-it's all so calming.");
+air temperature... it's all so calming.");
 MsgSel("｛柊＊＊＊｝ is like a fish","Maybe I want a little more excitement?","It should be feeding time soon");
 switch (MsgSelRsltGet()){
     case 0:
@@ -20,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_010");
-    MsgDisp("Hiiragi","Hehe. Yes, I wonder if they'd keep me
-here.");
+    MsgDisp("Hiiragi","Hehe.
+Yes, I wonder if they'd keep me here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -70,9 +69,11 @@ was with you.");
         ChMotion(5,0);
         VoicePlay("B040503102_05_060");
         MsgDisp("Hiiragi","That is not my intention either.");
-        MsgDisp("主人公","｛柊＊＊＊｝, your voice is a little loud.");
+        MsgDisp("主人公","｛柊＊＊＊｝, your voice is a
+little loud.");
         VoicePlay("B040503102_45_000");
-        MsgDisp("Woman A","Eh? No way?
+        MsgDisp("Woman A","Eh?
+No way?
 Huh, Yanosuke-sama∈");
         VoicePlay("B040503102_46_000");
         MsgDisp("Woman B","Waa, amazing, is it really?
@@ -85,7 +86,8 @@ That would be impossible.");
         VoicePlay("B040503102_05_070");
         MsgDisp("Hiiragi","This person is my special someone.
 I apologize for the disturbance.");
-        MsgDisp("主人公","(Ehhh∋ That's embarrassing,
+        MsgDisp("主人公","(Ehhh∋
+That's embarrassing,
 ｛柊＊＊＊｝...! )");
         ChEye(5,4);
         ChMouth(5,4);

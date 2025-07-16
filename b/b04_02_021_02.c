@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,4,1);
         VoicePlay("B040202102_02_010");
-        MsgDisp("Sassa","Really? I think it's nice that they're
-handmade.");
+        MsgDisp("Sassa","Really?
+I think it's nice that they're handmade.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -54,16 +54,14 @@ create a sense of unity.");
         ChMotion(2,3);
         ChEyeOpenLevel(2,0);
         VoicePlay("B040202102_02_050");
-        MsgDisp("Sassa","Haha, it's kind of dark and
-rough looking.");
+        MsgDisp("Sassa","Haha, it's kind of dark and rough looking.");
         ChEye(2,3);
         ChMouth(2,4);
         ChMotion(2,4);
         ChEyeOpenLevel(2,#1);
         ChCheek(2,10);
         VoicePlay("B040202102_02_060");
-        MsgDisp("Sassa","The round one next to it
-is you then......");
+        MsgDisp("Sassa","The round one next to it is you then......");
         MsgDisp("主人公","The Round one?");
         ChEye(2,4);
         ChMouth(2,4);
@@ -85,8 +83,8 @@ Principal Himuro, doesn't it?");
         VoicePlay("B040202102_02_090");
         MsgDisp("Sassa","And that one, with the weird haircut.
 It's Mikage-sensei!");
-        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ looks like he's
-enjoying himself.)");
+        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ looks like
+he's enjoying himself.)");
         break ;
         default :
         DbgAssert(1);

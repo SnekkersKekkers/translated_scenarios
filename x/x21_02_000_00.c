@@ -3,8 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("X210200000_02_000");
-MsgDisp("Sassa?","｛主人公｝! Congratulations on Rose
-QUeen!");
+MsgDisp("Sassa?","｛主人公｝!
+Congratulations on Rose QUeen!");
 MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,0);
 Wait(40);
@@ -14,15 +14,16 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("X210200000_02_010");
-MsgDisp("Sassa","Eh? Everyone except you thought it was
-only natural.");
+MsgDisp("Sassa","Eh?
+Everyone except you thought it was only
+natural.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("X210200000_02_020");
-MsgDisp("Sassa","Well, but I'm a
-little frustrated.");
-MsgDisp("主人公","Eh... ｛颯砂＊＊｝ also wanted...?");
+MsgDisp("Sassa","Well, but I'm a little frustrated.");
+MsgDisp("主人公","Eh...
+｛颯砂＊＊｝ also wanted...?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);

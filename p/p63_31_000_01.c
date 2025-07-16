@@ -8,8 +8,7 @@ It would be great if people liked it...)");
 MsgClose();
 ChOpen(31,254,5,3,3,#1,#1,0,0);
 VoicePlay("P633100001_31_000");
-MsgDisp("Goro","Well, what a splendid
-eggplant-chan▼");
+MsgDisp("Goro","Well, what a splendid eggplant-chan▼");
 MsgDisp("主人公","Ah, Goro-sensei.
 Welcome!");
 ChEye(31,0);
@@ -18,8 +17,9 @@ ChMotion(31,0);
 VoicePlay("P633100001_31_010");
 MsgDisp("Goro","Heeーllo.
 The vegetables are like works of art.");
-MsgDisp("主人公","Yes! Everyone in the gardening club grew
-them. The herb tea is also homemade.");
+MsgDisp("主人公","Yes!
+Everyone in the gardening club grew them.
+The herb tea is also homemade.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);

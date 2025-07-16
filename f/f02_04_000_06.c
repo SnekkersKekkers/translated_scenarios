@@ -6,7 +6,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Sports day is coming up.
-｛七ツ森＊｝, do you pl——");
+｛七ツ森＊｝, do you
+pl——");
 ChMotion(4,1,1);
 VoicePlay("F020400006_04_000");
 MsgDisp("Nanatsumori","I'm bad at all of them.
@@ -16,8 +17,9 @@ ChMotion(4,2,1);
 VoicePlay("F020400006_04_010");
 MsgDisp("Nanatsumori","Well, not many people have seen me play
 sports seriously.");
-MsgDisp("主人公","Really? I guess because PE is
-gender-separated, I haven't either......");
+MsgDisp("主人公","Really?
+I guess because PE is gender-separated, I
+haven't either......");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

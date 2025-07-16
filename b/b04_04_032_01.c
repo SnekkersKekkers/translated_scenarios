@@ -20,7 +20,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040403201_04_010");
-    MsgDisp("Nanatsumori","ＯＫ! If you find it, tell me in secret.
+    MsgDisp("Nanatsumori","ＯＫ!
+If you find it, tell me in secret.
 Let's keep it to ourselves.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

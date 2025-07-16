@@ -23,8 +23,8 @@ ChMotion(4,0,1);
 ChEyeOpenLevel(4,#1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("G020410200_04_040");
-MsgDisp("Nanatsumori","Hey. We're on a date 
-now, right?");
+MsgDisp("Nanatsumori","Hey.
+We're on a date now, right?");
 MsgDisp("主人公","Y-Yeah.");
 ChMotion(4,1,1);
 VoicePlay("G020410200_04_050");
@@ -49,8 +49,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020410200_04_090");
-MsgDisp("Nanatsumori","Shall we go on more dates in
-the future?");
+MsgDisp("Nanatsumori","Shall we go on more dates in the future?");
 MsgDisp("主人公","(｛七ツ森＊｝, you're being pretty
 direct...)");
 BGMStop();

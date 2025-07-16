@@ -6,7 +6,8 @@ ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("H7G0400000_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Oh, ｛七ツ森＊｝. What's up?");
+MsgDisp("主人公","Oh, ｛七ツ森＊｝.
+What's up?");
 ChMotion(4,1,1);
 VoicePlay("H7G0400000_04_010");
 MsgDisp("Nanatsumori","I heard your entry in the handicrafts

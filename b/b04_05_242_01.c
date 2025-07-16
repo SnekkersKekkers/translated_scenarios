@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(3);
     ChEye(5,3);
     VoicePlay("B040524202_05_010");
-    MsgDisp("Hiiragi","Yes,
-let's catch them with teamwork.");
+    MsgDisp("Hiiragi","Yes, let's catch them with teamwork.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

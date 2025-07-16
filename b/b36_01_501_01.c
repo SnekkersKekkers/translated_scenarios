@@ -11,8 +11,7 @@ ChEyeOpenLevel(1,0);
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ScrFadeIn(0);
 VoicePlay("B360150101_01_000");
-MsgDisp("Kazama","When I come here,
-I get a weird feeling.");
+MsgDisp("Kazama","When I come here, I get a weird feeling.");
 MsgDisp("主人公","Is that so?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -33,8 +32,8 @@ VoicePlay("B360150101_01_020");
 MsgDisp("Kazama","It has?
 There was definitely a hole on the back
 where we went in and talked about stuff.");
-MsgDisp("主人公","｛風真＊＊｝, amazing! Your memory is
-really good.");
+MsgDisp("主人公","｛風真＊＊｝, amazing!
+Your memory is really good.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,2);

@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040401000_04_010");
     MsgDisp("Nanatsumori","See, it's nice.
 It suits, it suits.
-...It's cute.");
+... It's cute.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,7 +30,7 @@ It suits, it suits.
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040401000_04_020");
-    MsgDisp("Nanatsumori","...Huh?
+    MsgDisp("Nanatsumori","... Huh?
 Is there something bothering you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -11,8 +11,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U110D00003_21_000");
-MsgDisp("Michiru","Hehe. I'll make some tea. We also have
-Anastasia's new cake.");
+MsgDisp("Michiru","Hehe.
+I'll make some tea.
+We also have Anastasia's new cake.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -63,8 +64,9 @@ ScrFadeIn(0);
 MsgDisp("主人公","This room has a nice scent.");
 StlEyeOpenLevel(21,5);
 VoicePlay("U110D00003_21_020");
-MsgDisp("Michiru","Yeah. I put on some rosemary incense. It
-creates a nice ambiance.");
+MsgDisp("Michiru","Yeah.
+I put on some rosemary incense.
+It creates a nice ambiance.");
 StlEye(22,2);
 VoicePlay("U110D00003_22_020");
 MsgDisp("Hikaru","This is so so nice!

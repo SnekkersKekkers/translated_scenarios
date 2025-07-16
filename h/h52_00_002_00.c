@@ -7,8 +7,7 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("H520000200_32_000");
-MsgDisp("VP Himuro","This is Himuro from
-Habataki High School.");
+MsgDisp("VP Himuro","This is Himuro from Habataki High School.");
 MsgDisp("主人公","Huh, Himuro-sensei∋");
 VoicePlay("H520000200_32_010");
 MsgDisp("VP Himuro","If even one person isn't willing to

@@ -13,8 +13,9 @@ ChMouth(4,2);
 ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 VoicePlay("B020400003_04_010");
-MsgDisp("Nanatsumori","It isn't weird, but I don't like it. ...
-Ah, my bad for being so direct. But I'm
-really not into it.");
-MsgDisp("主人公","(Hmm, ｛七ツ森＊｝ doesn't seem to like
-this kind of fashion much.)");
+MsgDisp("Nanatsumori","It isn't weird, but I don't like it.
+... Ah, my bad for being so direct.
+But I'm really not into it.");
+MsgDisp("主人公","(Hmm, ｛七ツ森＊｝
+doesn't seem to like this kind of fashion
+much.)");

@@ -39,8 +39,8 @@ sound effects, don't they?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030123001_01_030");
-    MsgDisp("Kazama","Right. We'll start off with the ferris
-wheel.");
+    MsgDisp("Kazama","Right.
+We'll start off with the ferris wheel.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -61,8 +61,7 @@ Then we could ride for longer.");
     ChMouth(1,2);
     ChMotion(1,0,1);
     VoicePlay("B030123001_01_050");
-    MsgDisp("Kazama","You can't just try it all out,
-you know?");
+    MsgDisp("Kazama","You can't just try it all out, you know?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -124,8 +123,8 @@ That's totally that.");
     ScrFadeIn(0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B030123001_01_100");
-    MsgDisp("Kazama","Yeah. This place has great vibes right
-here.");
+    MsgDisp("Kazama","Yeah.
+This place has great vibes right here.");
     break ;
     default :
     DbgAssert(0);

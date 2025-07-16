@@ -6,7 +6,8 @@ VoiceEVSPlay(7);
 VoicePlay("G110700802_07_000");
 MsgDisp("Mikage?","｛主人公｝.");
 SEStop("EV_SE_821",2);
-MsgDisp("主人公","Ah, ｛御影＊＊｝. Good morning!");
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Good morning!");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -26,8 +27,8 @@ VoicePlay("G110700802_07_020");
 MsgDisp("Mikage","Isn't that great?
 They say plants grow better if you talk to
 them.");
-MsgDisp("主人公","Does ｛御影＊＊｝ talk to them all the
-time too?");
+MsgDisp("主人公","Does ｛御影＊＊｝ talk to
+them all the time too?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -48,8 +49,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700802_07_050");
-MsgDisp("Mikage","Yes. It is precisely because you love them
-that you are strict.");
+MsgDisp("Mikage","Yes.
+It is precisely because you love them that
+you are strict.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -12,7 +12,8 @@ ChOpen(3,34,0,0,0,#1,#1,0,0);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("R080300000_03_000");
-MsgDisp("Honda","｛主人公｝. Ah, I'm so glad.");
+MsgDisp("Honda","｛主人公｝.
+Ah, I'm so glad.");
 MsgDisp("主人公","｛本多＊＊｝, what's wrong?");
 ChEye(3,4);
 ChMouth(3,3);
@@ -63,8 +64,9 @@ BGMPlay("BGM_XMAS_TRHEE",0.01);
 EnvPlay("SE_ENV_BG_SC771_CO2",3,0.6);
 ScrFadeIn(4,120);
 Wait(40,0);
-MsgDisp("主人公","Woah...! Incredible, all the decorations
-are so pretty!");
+MsgDisp("主人公","Woah...!
+Incredible, all the decorations are so
+pretty!");
 StlEye(3,3);
 StlMouth(3,1);
 VoicePlay("R080300000_03_050");
@@ -105,16 +107,16 @@ StlEye(3,2,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,0,1);
 VoicePlay("R080300000_03_110");
-MsgDisp("Honda","I was so happy...
-and sometimes I just opened and read it
-again.");
+MsgDisp("Honda","I was so happy... and sometimes I just
+opened and read it again.");
 MsgDisp("主人公","I see...");
 StlEye(3,3);
 StlMouth(3,1);
 VoicePlay("R080300000_03_120");
 MsgDisp("Honda","Yeah, this is my sacred book and place.
 I wanted you to see it.");
-MsgDisp("主人公","｛本多＊＊｝... Thank you.");
+MsgDisp("主人公","｛本多＊＊｝...
+Thank you.");
 StlEye(3,3,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
@@ -125,8 +127,9 @@ MsgDisp("主人公","Huh?");
 StlEye(3,2);
 StlMouth(3,0);
 VoicePlay("R080300000_03_140");
-MsgDisp("Honda","My roots. The ammonite in the mall that I
-showed you... and here.");
+MsgDisp("Honda","My roots.
+The ammonite in the mall that I showed
+you... and here.");
 StlEye(3,3);
 StlMouth(3,1);
 VoicePlay("R080300000_03_150");

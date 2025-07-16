@@ -31,5 +31,4 @@ VoicePlay("B020502000_05_040");
 MsgDisp("Hiiragi","Well, as the chairman of the theater
 company, I can hardly afford to lose, can
 I?");
-MsgDisp("主人公","(｛柊＊＊＊｝ has gone into chairman
-mode.)");
+MsgDisp("主人公","(｛柊＊＊＊｝ has gone into chairman mode.)");

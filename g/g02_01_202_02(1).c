@@ -46,7 +46,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120202_01_060");
-MsgDisp("Kazama","I can't do that. ");
+MsgDisp("Kazama","I can't do that.");
 MsgDisp("主人公","I don't think anyone can do what
 ｛本多＊＊｝ does.");
 ChEye(1,0);
@@ -54,7 +54,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120202_01_070");
-MsgDisp("Kazama","......Ahh, that's right.
+MsgDisp("Kazama","...... Ahh, that's right.
 That guy is a special case.");
 MsgDisp("主人公","｛風真＊＊｝, what's wrong?");
 ChEye(1,2);

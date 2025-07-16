@@ -7,8 +7,8 @@ BGMPlay("BGM_C06_INORI_A");
 ChOpen(6,35,0,0,0,#1,#1,0,0);
 VoicePlay("G110600801_06_000");
 MsgDisp("Himuro","Good work today.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝. Are you heading home
-already?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+Are you heading home already?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -59,7 +59,7 @@ ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600801_06_060");
 MsgDisp("Himuro","Isn't it a good thing?
-......And it's a pretty nice expression.");
+...... And it's a pretty nice expression.");
 MsgDisp("主人公","Eh......");
 ChEye(6,0);
 ChMouth(6,0);
@@ -67,9 +67,9 @@ ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600801_06_070");
 MsgDisp("Himuro","Don't be shy about it.
-......I'm drawn to it..");
-MsgDisp("主人公","(Hehe, I was praised by ｛氷室＊＊｝......!
-)");
+...... I'm drawn to it..");
+MsgDisp("主人公","(Hehe, I was praised by
+｛氷室＊＊｝......! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

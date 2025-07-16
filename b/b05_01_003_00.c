@@ -28,9 +28,9 @@ ChMotion(1,0,1);
 VoicePlay("B050100300_01_020");
 MsgDisp("Kazama","You're the one who must be cold, having to
 stand there the entire time.");
-MsgDisp("主人公","A little...
-But, it was really exciting seeing
-｛風真＊＊｝ glide across the ice!");
+MsgDisp("主人公","A little... But, it was really exciting
+seeing ｛風真＊＊｝ glide
+across the ice!");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -68,15 +68,16 @@ VoicePlay("B050100300_01_060");
 MsgDisp("Kazama","Look, your right ankle is slanted again.
 You might injure yourself, so stand up
 straight. Ah, it's okay to take your time.");
-MsgDisp("主人公","(Ugh... If it were that simple, I wouldn't
-be struggling like this...)");
+MsgDisp("主人公","(Ugh...
+If it were that simple, I wouldn't be
+struggling like this...)");
 SEPlay("EV_SE_510",0,0.8);
 Wait(10,0);
 StlEyeOpenLevel(1,#1);
 StlMouthOpenLevel(1,10);
 ScrQuake(1);
-MsgDisp("主人公","Waa∈ ｛風真＊＊｝, you can't let go of my
-hand no matter what∋");
+MsgDisp("主人公","Waa∈ ｛風真＊＊｝, you can't
+let go of my hand no matter what∋");
 StlEye(1,1);
 StlMouth(1,1);
 StlMouthOpenLevel(1,#1);
@@ -84,8 +85,8 @@ StlCheek(1,7);
 VoicePlay("B050100300_01_070");
 MsgDisp("Kazama","............");
 MsgDisp("主人公","Phew... I'm steady now... Huh,
-｛風真＊＊｝, your face is red. Are you
-cold?");
+｛風真＊＊｝, your face is red.
+Are you cold?");
 StlEyeOpenLevel(1,5);
 StlCheek(1,7);
 VoicePlay("B050100300_01_080");
@@ -115,7 +116,8 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("B050100300_01_110");
 MsgDisp("Kazama","Honestly... your skating skills didn't
-really matter. Just that... your hand...");
+really matter.
+Just that... your hand...");
 MsgDisp("主人公","Hand?");
 ChEye(1,2);
 ChMouth(1,0);
@@ -124,9 +126,9 @@ VoicePlay("B050100300_01_120");
 MsgDisp("Kazama","You couldn't skate, but I tried to drag
 you out onto the rink.
 It was scary, right?");
-MsgDisp("主人公","Nope, I had fun. ｛風真＊＊｝ held my hand
-the whole time. I was glad that he taught
-me how to skate carefully.");
+MsgDisp("主人公","Nope, I had fun. ｛風真＊＊｝
+held my hand the whole time. I was glad
+that he taught me how to skate carefully.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);

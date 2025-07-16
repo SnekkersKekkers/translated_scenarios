@@ -36,8 +36,9 @@ It was hard to not laugh.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040218800_02_020");
-    MsgDisp("Sassa","Ehh? I think I'll be laughing at this for
-a while though...");
+    MsgDisp("Sassa","Ehh?
+I think I'll be laughing at this for a
+while though...");
     MsgDateResultDisp();
     break ;
     default :

@@ -26,7 +26,8 @@ ChEye(5,0);
 ChMotion(5,0);
 Wait(20,1);
 VoicePlay("B360550301_05_010");
-MsgDisp("Hiiragi","No. I'm finally able to be alone with you.
+MsgDisp("Hiiragi","No.
+I'm finally able to be alone with you.
 We can decide when to return.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(5,4);

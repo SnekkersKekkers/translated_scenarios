@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,2);
     VoicePlay("B040306100_03_010");
-    MsgDisp("Honda","Um... I'm not confident enough in my
-swimming for a long-distance swim.");
+    MsgDisp("Honda","Um...
+I'm not confident enough in my swimming
+for a long-distance swim.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -25,7 +26,8 @@ swimming for a long-distance swim.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040306100_03_020");
-    MsgDisp("Honda","Sure! Ramen at the beach house is 20% more
+    MsgDisp("Honda","Sure!
+Ramen at the beach house is 20% more
 delicious, right?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

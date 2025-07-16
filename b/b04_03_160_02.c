@@ -33,8 +33,8 @@ a lot of them together.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040316002_03_020");
-        MsgDisp("Honda","Yeah, it's completely out of sight...
-hang on, what are you planning to do?");
+        MsgDisp("Honda","Yeah, it's completely out of sight... hang
+on, what are you planning to do?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -45,8 +45,8 @@ hang on, what are you planning to do?");
         ChMotion(3,0);
         ChCheek(3,3);
         VoicePlay("B040316002_03_030");
-        MsgDisp("Honda","Yeah, it's completely out of sight...
-just the two of us.");
+        MsgDisp("Honda","Yeah, it's completely out of sight... just
+the two of us.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);
@@ -84,8 +84,8 @@ There's no point hiding it.");
 Let's just go to the private booth!");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(3);
-        MsgDisp("主人公","(Saying something like that...
-of course that'll stay on my mind...)");
+        MsgDisp("主人公","(Saying something like that... of course
+that'll stay on my mind...)");
         MsgClose();
         ScrFadeOut(0);
         MsgClose();

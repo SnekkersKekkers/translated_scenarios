@@ -5,8 +5,9 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001500_01_000" ) ;
-MsgDisp ( "Kazama","Hiiragi, what's wrong? You've been staring
-at your food for a while now." ) ;
+MsgDisp ( "Kazama","Hiiragi, what's wrong?
+You've been staring at your food for a
+while now." ) ;
 ChEye ( 5,4 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,3 ) ;
@@ -18,8 +19,9 @@ ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,0 ) ;
 VoicePlay ( "D150001500_05_010" ) ;
-MsgDisp ( "Hiiragi","Such color, shine and fragrance. It feels
-me with happiness even before I eat it." ) ;
+MsgDisp ( "Hiiragi","Such color, shine and fragrance.
+It feels me with happiness even before I
+eat it." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,0 ) ;
@@ -32,8 +34,7 @@ ChEye ( 5,2 ) ;
 ChMouth ( 5,2 ) ;
 ChMotion ( 5,4 ) ;
 VoicePlay ( "D150001500_05_020" ) ;
-MsgDisp ( "Hiiragi",".........
-Ah." ) ;
+MsgDisp ( "Hiiragi","......... Ah." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,5 ) ;
 SEPlay ( "EV_SE_018" ) ;
@@ -43,7 +44,8 @@ ChMouth ( 5,4 ) ;
 ChMotion ( 5,2 ) ;
 ChCheek ( 5,5 ) ;
 VoicePlay ( "D150001500_05_030" ) ;
-MsgDisp ( "Hiiragi","Ahh...Excuse me.
+MsgDisp ( "Hiiragi","Ahh...
+Excuse me.
 It seems that I waited a bit too long." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;

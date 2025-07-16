@@ -12,7 +12,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B080600002_06_000");
 MsgDisp("Himuro","It's nothing Today I just happened to——
-...Eh?");
+...
+Eh?");
 Wait(30,0);
 ChEye(6,0);
 ChMouth(6,0);

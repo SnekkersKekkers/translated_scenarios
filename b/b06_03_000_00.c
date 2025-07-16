@@ -32,8 +32,7 @@ What about you?");
     ChMotion(3,5,1);
     ScrFadeIn(0);
     VoicePlay("B060300000_03_020");
-    MsgDisp("Honda","Oh man, there's not enough time
-in a day.");
+    MsgDisp("Honda","Oh man, there's not enough time in a day.");
     MsgDispSksp(0);
     break ;
     default :

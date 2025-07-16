@@ -64,7 +64,8 @@ There is.");
         ChMotion(2,0);
         VoicePlay("B040220002_02_050");
         MsgDisp("Sassa","Yeah, it's an incredibly nice view.");
-        MsgDisp("主人公","Heeh! I want to see it!");
+        MsgDisp("主人公","Heeh!
+I want to see it!");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

@@ -1,4 +1,5 @@
-MsgDisp("主人公","｛颯砂＊＊｝, do you listen to music?");
+MsgDisp("主人公","｛颯砂＊＊｝, do you listen to
+music?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -39,10 +40,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200000_02_210");
-MsgDisp("Sassa","Next time we should sing karaoke
-together.");
-MsgDisp("主人公","(Listening to ｛颯砂＊＊｝ sing anime songs
-sounds exciting!)");
+MsgDisp("Sassa","Next time we should sing karaoke together.");
+MsgDisp("主人公","(Listening to ｛颯砂＊＊｝ sing
+anime songs sounds exciting!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

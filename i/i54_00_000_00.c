@@ -4,8 +4,9 @@ SEWait();
 VoicePlay("I540000000_49_000");
 MsgDisp("Manager","Thank you for calling.
 This is Princess Tsubaki Japanese Sweets.");
-MsgDisp("主人公","It's ｛主人公苗字｝.
-I apologize, but I'd like to quit my
+MsgDisp("主人公","It's
+｛主人公苗字｝. I
+apologize, but I'd like to quit my
 part-time job......");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

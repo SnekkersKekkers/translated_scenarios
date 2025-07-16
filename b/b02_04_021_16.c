@@ -19,5 +19,5 @@ MsgDisp("Nanatsumori","No! It's such an empty drawer, you added
 something new to it. I should be thanking
 you.");
 MsgDisp("主人公","(Oh, good.
-｛七ツ森＊｝ seems to have grown to
-like these clothes too.)");
+｛七ツ森＊｝ seems to
+have grown to like these clothes too.)");

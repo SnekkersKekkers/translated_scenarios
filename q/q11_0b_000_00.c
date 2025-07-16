@@ -20,8 +20,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q110B00000_01_000");
-MsgDisp("Kazama","The texture of the coarse sugar was
-great.");
+MsgDisp("Kazama","The texture of the coarse sugar was great.");
 ChMotion(4,1,1);
 VoicePlay("Q110B00000_04_000");
 MsgDisp("Nanatsumori","Were I able to satisfy you all?");
@@ -93,7 +92,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q110B00000_03_030");
 MsgDisp("Honda","Well, how about this?");
-MsgDisp("主人公","......So beautiful!
+MsgDisp("主人公","...... So beautiful!
 This is a beadlo, right?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -115,8 +114,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q110B00000_03_040");
-MsgDisp("Honda","Yeahyeah. We all made paintings on that
-one. Can you guess which one is by who?");
+MsgDisp("Honda","Yeahyeah.
+We all made paintings on that one.
+Can you guess which one is by who?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);

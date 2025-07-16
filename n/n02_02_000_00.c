@@ -56,8 +56,8 @@ I'm glad I did my best!)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200000_02_050");
-    MsgDisp("Sassa","｛主人公｝. Getting the top rank is so
-cool.");
+    MsgDisp("Sassa","｛主人公｝.
+Getting the top rank is so cool.");
     MsgDisp("主人公","Yeah, I'm really happy!");
     ChEye(2,0);
     ChMouth(2,4);

@@ -17,8 +17,9 @@ careful.");
 StlEye(22,0);
 StlMouth(22,0);
 VoicePlay("U120D00300_22_010");
-MsgDisp("Hikaru","Aha▼ Right now everyone seems to be in
-love with Mari, so isn't that okay?");
+MsgDisp("Hikaru","Aha▼
+Right now everyone seems to be in love
+with Mari, so isn't that okay?");
 StlEyeOpenLevel(22,5,1);
 StlMouth(22,1);
 VoicePlay("U120D00300_22_020");

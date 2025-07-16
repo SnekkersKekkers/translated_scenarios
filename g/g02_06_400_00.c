@@ -45,8 +45,9 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020640000_06_050");
-MsgDisp("Himuro","Dislike? It's more puzzling to me. That's
-why I don't want to touch it.");
+MsgDisp("Himuro","Dislike?
+It's more puzzling to me.
+That's why I don't want to touch it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -67,8 +68,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640000_06_080");
-MsgDisp("Himuro","In short, 
-I can live without eggplant.");
+MsgDisp("Himuro","In short, I can live without eggplant.");
 MsgDisp("主人公","What about cucumbers?");
 ChEye(6,1);
 ChMouth(6,0);
@@ -77,7 +77,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020640000_06_090");
 MsgDisp("Himuro","I can tolerate them better than eggplant.
 But I don't like vegetables in general.
-......I eat them though.");
+...... I eat them though.");
 MsgDisp("主人公","(Hehe, ｛氷室＊＊｝ isn't a fan of
 vegetables.)");
 BGMStop();

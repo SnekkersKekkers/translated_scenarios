@@ -12,8 +12,9 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("R032100001_21_010");
 MsgDisp("Michiru","Why would I lie?");
-MsgDisp("主人公","Well, ｛みちる＊｝, I would be happy if
-you gave me a compliment...");
+MsgDisp("主人公","Well, ｛みちる＊｝, I
+would be happy if you gave me a
+compliment...");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);

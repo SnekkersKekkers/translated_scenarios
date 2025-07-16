@@ -28,8 +28,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140C05000_06_010");
-MsgDisp("Himuro","I thought we 
-would be intruding.");
+MsgDisp("Himuro","I thought we would be intruding.");
 MsgDisp("主人公","T-That's not true...!");
 ChEye(7,0);
 ChMouth(7,3);
@@ -69,7 +68,8 @@ ChMotion(6,0);
 VoicePlay("D140C05000_06_030");
 MsgDisp("Himuro","Yes, I don't think we can defeat him.");
 MsgDisp("主人公","(Um... these two seem worried about my
-relationship with ｛柊＊＊＊｝? )");
+relationship with ｛柊＊＊＊｝?
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

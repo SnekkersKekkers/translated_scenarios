@@ -9,7 +9,8 @@ switch (ChPrmGet(4,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous..)");
+the runway...
+I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -18,7 +19,8 @@ the runway...I'm nervous..)");
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P730400000_04_000");
     MsgDisp("Nanatsumori","Ah, I see a person stressing.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! I'm nervous...");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+I'm nervous...");
     VoicePlay("P730400000_04_010");
     MsgDisp("Nanatsumori","I could guess.");
     MsgDisp("主人公","Ehー....");
@@ -34,8 +36,8 @@ I see...");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P730400000_04_030");
-    MsgDisp("Nanatsumori","Right. So, I understand your feelings very
-well.");
+    MsgDisp("Nanatsumori","Right.
+So, I understand your feelings very well.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(4,3);
@@ -55,7 +57,8 @@ wonderful too, I'll do my best!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(I finished just in time but, it's finally
-the runway...I'm nervous..)");
+the runway...
+I'm nervous..)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -64,10 +67,10 @@ the runway...I'm nervous..)");
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoiceEVSPlay(4);
     VoicePlay("P730400000_04_050");
-    MsgDisp("Nanatsumori","｛主人公｝. This you make those
-clothes?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Yeah, that's right
-but...");
+    MsgDisp("Nanatsumori","｛主人公｝.
+This you make those clothes?");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Yeah, that's right but...");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -90,8 +93,8 @@ Seriously, you're the cutest.");
     MsgDisp("Nanatsumori","ＧＯ!
 Show your cool side.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Maybe when ｛七ツ森＊｝ cheers me on,
-I gain courage.
+    MsgDisp("主人公","(Maybe when ｛七ツ森＊｝
+cheers me on, I gain courage.
 Alーright, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);

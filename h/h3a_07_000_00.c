@@ -12,7 +12,8 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0700000_07_000");
     MsgDisp("Mikage","You're pretty strong!");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! I won!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+I won!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040103102_01_010");
-    MsgDisp("Kazama","Right? They'd come right up to you and
-shoot a bubble ring in your face.");
+    MsgDisp("Kazama","Right?
+They'd come right up to you and shoot a
+bubble ring in your face.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +47,9 @@ that awhile back.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040103102_01_030");
-        MsgDisp("Kazama","... Are you serious right now? I was
-talking about like how the fish see us.");
+        MsgDisp("Kazama","... Are you serious right now?
+I was talking about like how the fish see
+us.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -78,8 +80,7 @@ It's fine, it's fine.");
         VoicePlay("B040103102_01_060");
         MsgDisp("Kazama","Yeah, I mean it.
 So, what about the keepers?");
-        MsgDisp("主人公","Maybe they'd talk about
-how they see us.");
+        MsgDisp("主人公","Maybe they'd talk about how they see us.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,4);

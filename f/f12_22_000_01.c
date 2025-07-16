@@ -30,7 +30,8 @@ ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("F122200001_22_020");
-MsgDisp("Hikaru","Huh? Why are you so calm about it?");
+MsgDisp("Hikaru","Huh?
+Why are you so calm about it?");
 MsgDisp("主人公","What?");
 ChEye(22,2);
 ChMouth(22,0);

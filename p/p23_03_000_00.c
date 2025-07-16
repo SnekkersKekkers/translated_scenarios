@@ -16,8 +16,8 @@ switch (ChPrmGet(3,6)){
     case 5:
     VoicePlay("P230300000_03_000");
     MsgDisp("Honda","Mitsuhime, sorry to have kept you waiting.");
-    MsgDisp("主人公","Hehe, ｛本多＊＊｝...... Or should I say
-Kanbei-sama?");
+    MsgDisp("主人公","Hehe, ｛本多＊＊｝......
+Or should I say Kanbei-sama?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -40,8 +40,7 @@ even notice if you mess up your lines.");
     VoicePlay("P230300000_03_030");
     MsgDisp("Honda","They prepared such an amazing armor and
 helmet, even I look like the real deal.");
-    MsgDisp("主人公","Yeah, 
-it looks just like the real thing?");
+    MsgDisp("主人公","Yeah, it looks just like the real thing?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -62,7 +61,8 @@ shortly.");
     MsgDisp("主人公","Y-Yeah!");
     MsgDisp("主人公","('Our version of Kuroda Kanbei and
 Mitsuhime', huh......
-｛本多＊＊｝, are you scheming something??)");
+｛本多＊＊｝, are you scheming
+something??)");
     break ;
     default :
     DbgAssert(1);

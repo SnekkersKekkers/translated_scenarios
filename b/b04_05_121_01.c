@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040512101_05_010");
-    MsgDisp("Hiiragi","What I'd like to try my hand at is...
-a yakisoba stand.
+    MsgDisp("Hiiragi","What I'd like to try my hand at is... a
+yakisoba stand.
 I wonder if it would be impossible for me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -57,9 +57,10 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20501_06_010");
-MsgDisp("Himuro","I wonder if he let us win...
-what do you think?");
-MsgDisp("主人公","I think ｛御影＊＊｝ was serious...");
+MsgDisp("Himuro","I wonder if he let us win... what do you
+think?");
+MsgDisp("主人公","I think ｛御影＊＊｝ was
+serious...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -79,8 +80,7 @@ ChOpen(6,255,7,0,4,#1,#1,0,3,0,30);
 ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(7,255,5,0,0,#1,#1,0,3);
 VoicePlay("B330C20501_07_020");
-MsgDisp("Mikage","Here you go, 
-Habataki mixed juice.");
+MsgDisp("Mikage","Here you go, Habataki mixed juice.");
 SEPlay("EV_SE_823",0,1);
 SEWait();
 ChEye(5,4);
@@ -133,10 +133,12 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20501_05_040");
 MsgDisp("Hiiragi","Sounds good.");
-MsgDisp("主人公","(I can understand why ｛御影＊＊｝ is
-popular with the male students too... Both
-｛柊＊＊＊｝ and ｛氷室＊＊｝ look like
-they're having fun...)");
+MsgDisp("主人公","(I can understand why
+｛御影＊＊｝ is popular
+with the male students too... Both
+｛柊＊＊＊｝ and
+｛氷室＊＊｝ look like they're
+having fun...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -4,7 +4,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("T020940020_09_000");
-MsgDisp("Kuya","......Yes. I'm glad.");
+MsgDisp("Kuya","...... Yes.
+I'm glad.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -16,8 +17,9 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("T020940020_09_020");
-MsgDisp("Kuya","Haha! If I have to retake the exam again,
-I'll take back this confession......");
+MsgDisp("Kuya","Haha!
+If I have to retake the exam again, I'll
+take back this confession......");
 MsgDisp("主人公","Hehe!");
 ChEye(9,3);
 ChMouth(9,0);

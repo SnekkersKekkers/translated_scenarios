@@ -33,9 +33,11 @@ I'm glad I did my best!)");
 Or was everyone else feeling unwell?");
     ChSet(3,3);
     VoicePlay("O030300000_03_030");
-    MsgDisp("Honda","Well, it doesn't matter! Anyways, we won!
+    MsgDisp("Honda","Well, it doesn't matter!
+Anyways, we won!
 Yay!");
-    MsgDisp("主人公","(We did it! I got first place with
+    MsgDisp("主人公","(We did it!
+I got first place with
 ｛本多＊＊｝! )");
     break ;
     case 4:
@@ -44,8 +46,7 @@ Yay!");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O030300000_03_040");
-    MsgDisp("Honda","We got first in the
-three-legged race!?");
+    MsgDisp("Honda","We got first in the three-legged race!?");
     ChSet(3,3);
     VoicePlay("O030300000_03_050");
     MsgDisp("Honda","This never would've happened if it wasn't
@@ -66,12 +67,13 @@ from something else, now......");
     ChMotion(3,1);
     ChCheek(3,0);
     VoicePlay("O030300000_03_070");
-    MsgDisp("Honda","......I see.
+    MsgDisp("Honda","...... I see.
 This is what's making my heart pound.
 Your smile is making my heart flutter.");
     MsgDisp("主人公","Eeeeehhh!!!");
-    MsgDisp("主人公","(He just said something amazing...... I'm
-glad I got first with ｛本多＊＊｝! )");
+    MsgDisp("主人公","(He just said something amazing......
+I'm glad I got first with
+｛本多＊＊｝! )");
     break ;
     default :
     DbgAssert(1);

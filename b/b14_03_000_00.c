@@ -7,7 +7,8 @@ BGMPlay("BGM_XMAS_TRHEE",0.01);
 MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","It's so beautiful... Hey, ｛本多＊＊｝!");
+MsgDisp("主人公","It's so beautiful...
+Hey, ｛本多＊＊｝!");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -28,7 +29,8 @@ ChMotion(3,4,1);
 VoicePlay("B140300000_03_020");
 MsgDisp("Honda","I'm so glad we came here!
 It was definitely the right choice.");
-MsgDisp("主人公","Oh? Why's that?");
+MsgDisp("主人公","Oh?
+Why's that?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

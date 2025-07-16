@@ -24,8 +24,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B150700200_07_030");
-MsgDisp("Mikage","Crap... If I'm not careful, my feelings
-will get the best of me.");
+MsgDisp("Mikage","Crap...
+If I'm not careful, my feelings will get
+the best of me.");
 MsgDisp("主人公","Ummm...
 I'm sorry.");
 ChEye(7,2);
@@ -52,7 +53,7 @@ touching me too much might have the
 opposite effect`?");
 MsgDisp("主人公","(Maybe I overdid it today...
 But what will happen when there's the
-'opposite effect?')");
+'opposite effect? ')");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

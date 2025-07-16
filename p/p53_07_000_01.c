@@ -14,9 +14,9 @@ But...)");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700001_07_000");
-    MsgDisp("Mikage","You seem more composed, huh? ");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. More or less, since
-it's my second time...");
+    MsgDisp("Mikage","You seem more composed, huh?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+More or less, since it's my second time...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -44,8 +44,9 @@ them, okay?");
     ChMotion(7,3);
     VoicePlay("P530700001_07_040");
     MsgDisp("Mikage","Then, go.");
-    MsgDisp("主人公","(Huh... Talking to ｛御影＊＊｝ relaxed
-me a bit!)");
+    MsgDisp("主人公","(Huh...
+Talking to ｛御影＊＊｝
+relaxed me a bit!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -59,9 +60,10 @@ But...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P530700001_07_050");
-    MsgDisp("Mikage","｛主人公｝, you seem a bit more
-composed, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. I'm not composed!");
+    MsgDisp("Mikage","｛主人公｝, you seem a bit
+more composed, huh?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+I'm not composed!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

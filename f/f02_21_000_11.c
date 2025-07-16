@@ -17,8 +17,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100011_21_010");
-MsgDisp("Michiru","So? Did you have 
-a fulfilling year Mari?");
+MsgDisp("Michiru","So?
+Did you have a fulfilling year Mari?");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -30,8 +30,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F022100011_21_030");
-MsgDisp("Michiru","Mari. Thank you for being my friend this
-year too.");
+MsgDisp("Michiru","Mari.
+Thank you for being my friend this year
+too.");
 MsgDisp("主人公","(｛みちる＊｝......)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -29,11 +29,12 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("tr220",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...... It's really a great place for
-animal lovers.)");
-MsgDisp("主人公","(......I can't get distracted!
-I have to tell everyone about the charm of
-this place.)");
+MsgDisp("主人公","(Sigh......
+It's really a great place for animal
+lovers.)");
+MsgDisp("主人公","(......I can't get distracted! I have to
+tell everyone about the charm of this
+place.)");
 MsgDisp("主人公","(A trendy new spot \"Woof Meow House\", I
 have to go home and write the article
 right away♪)");

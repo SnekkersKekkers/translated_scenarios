@@ -50,8 +50,8 @@ Everyone loves this kind of thing.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040123601_01_030");
-    MsgDisp("Kazama","50000 fireflies? Don't go making up new
-units.");
+    MsgDisp("Kazama","50000 fireflies?
+Don't go making up new units.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

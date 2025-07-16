@@ -30,6 +30,7 @@ MsgDisp("Michiru","Whether you're the lead role, supporting
 part, behind the stage or even the
 audience who comes to see it; I hope it's
 a show that satisfies everyone.");
-MsgDisp("主人公","(Yeah...I have to give it my all!)");
+MsgDisp("主人公","(Yeah...
+I have to give it my all!)");
 MsgClose();
 ScrFadeOut(0,0);

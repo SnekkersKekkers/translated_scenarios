@@ -5,7 +5,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(2,41,0,2,0,#1,#1,0,0);
 VoicePlay("D010200400_02_000");
-MsgDisp("Sassa","That's strange......Is it broken?");
+MsgDisp("Sassa","That's strange......
+Is it broken?");
 MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
 ChEye(2,2);
 ChMouth(2,0);
@@ -66,7 +67,8 @@ Don't talk.");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
-MsgDisp("主人公","６９,７０......Ehh?");
+MsgDisp("主人公","６９,７０......
+Ehh?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200400_02_090");
@@ -78,9 +80,11 @@ StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 StlCheek(2,5);
 VoicePlay("D010200400_02_100");
-MsgDisp("Sassa","Well......Your face is really close and
-you're holding my hand, so......");
-MsgDisp("主人公","Eh?　Ah......");
+MsgDisp("Sassa","Well......
+Your face is really close and you're
+holding my hand, so......");
+MsgDisp("主人公","Eh?
+Ah......");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -136,7 +140,8 @@ ChClose(2);
 SEWait();
 VoicePlay("D010200400_02_160");
 MsgDisp("Sassa","Let's do some high altitude training again
-sometime. Cya.");
+sometime.
+Cya.");
 SEPlay("EV_SE_DOOR_013");
 SEWait();
 MsgDisp("主人公","(Sigh, my heart is racing a bit quickly

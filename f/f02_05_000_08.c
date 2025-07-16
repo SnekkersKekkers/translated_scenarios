@@ -12,8 +12,8 @@ MsgDisp("Hiiragi","Ah, yes.
 I will be assisting the student council
 for the duration of it.");
 MsgDisp("主人公","I see.
-｛柊＊＊＊｝, you'll be busy even during
-the culture festival.");
+｛柊＊＊＊｝, you'll be busy
+even during the culture festival.");
 ChMotion(5,4);
 VoicePlay("F020500008_05_010");
 MsgDisp("Hiiragi","Not exactly.
@@ -30,7 +30,8 @@ VoicePlay("F020500008_05_030");
 MsgDisp("Hiiragi","It is not just the play. I will be setting
 up the lighting for class exhibitions and
 managing the food carts.");
-MsgDisp("主人公","Haha, ｛柊＊＊＊｝, you look excited.");
+MsgDisp("主人公","Haha, ｛柊＊＊＊｝, you look
+excited.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -38,4 +39,5 @@ VoicePlay("F020500008_05_040");
 MsgDisp("Hiiragi","Yes, well, I am aiming for the shadow MVP
 of the culture festival.");
 MsgDisp("主人公","(It seems like I was able to see a
-different side of ｛柊＊＊＊｝... )");
+different side of ｛柊＊＊＊｝...
+)");

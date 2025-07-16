@@ -52,15 +52,15 @@ Shall I go home?");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040424102_04_040");
-        MsgDisp("Nanatsumori","Ha? Me?");
+        MsgDisp("Nanatsumori","Ha?
+Me?");
         MsgDisp("主人公","Yeah.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040424102_04_050");
-        MsgDisp("Nanatsumori","Hmmー...
-what should we doー...");
+        MsgDisp("Nanatsumori","Hmmー... what should we doー...");
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040424102_04_060");
         MsgDisp("Nanatsumori","Milking... is not my style, and I'm not
@@ -73,7 +73,7 @@ much?");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_070");
-        MsgDisp("Nanatsumori","...Hm.
+        MsgDisp("Nanatsumori","... Hm.
 Well, more or less.");
         MsgDisp("主人公","I see.
 Then, shall we go somewhere else?");
@@ -94,15 +94,15 @@ today.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,3,1);
         VoicePlay("B040424102_04_100");
-        MsgDisp("Nanatsumori","Then let's enjoy our 
-farm date to 100％.");
+        MsgDisp("Nanatsumori","Then let's enjoy our farm date to 100％.");
         MsgDisp("主人公","...Yeah!");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_110");
-        MsgDisp("Nanatsumori","Alright. It's not like we have to do s
-something to make it a date.");
+        MsgDisp("Nanatsumori","Alright.
+It's not like we have to do s something to
+make it a date.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);

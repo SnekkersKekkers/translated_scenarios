@@ -27,8 +27,7 @@ the image of a strict father?\"");
     DateRateSet(3);
     ChMotion(5,4);
     VoicePlay("B040506300_05_020");
-    MsgDisp("Hiiragi","Indeed,
-that's one way to see it.");
+    MsgDisp("Hiiragi","Indeed, that's one way to see it.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,8 +38,7 @@ that's one way to see it.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("B040506300_05_030");
-    MsgDisp("Hiiragi","Umm,
-did you listen to what I said?");
+    MsgDisp("Hiiragi","Umm, did you listen to what I said?");
     MsgDateResultDisp();
     break ;
     default :

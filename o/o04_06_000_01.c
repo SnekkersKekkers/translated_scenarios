@@ -18,7 +18,7 @@ I should've tried a little harder.)");
     ScrFadeIn(0);
     VoicePlay("O040600001_06_010");
     MsgDisp("Himuro","The other team had too much momentum.
-......Haa.");
+...... Haa.");
     MsgDisp("主人公","(We lost......
 I should've tried a little harder.)");
     break ;

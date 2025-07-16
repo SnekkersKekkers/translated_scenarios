@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3,1);
     VoicePlay("B040201100_02_010");
     MsgDisp("Sassa","Which one?
-......Heh, I can see well, you know.
+...... Heh, I can see well, you know.
 I have 20/20 vision!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

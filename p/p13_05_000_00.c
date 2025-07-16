@@ -18,7 +18,8 @@ gathering...)");
     VoicePlay("P130500000_05_000");
     MsgDisp("Hiiragi","Your class is amazing.
 As expected of Mikage-sensei...");
-    MsgDisp("主人公","｛柊＊＊＊｝, did you come to see it?");
+    MsgDisp("主人公","｛柊＊＊＊｝, did you come to
+see it?");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -64,8 +65,8 @@ it out?");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P130500000_05_050");
-    MsgDisp("Hiiragi","Maze, cow, cow milk...
-and you in a cow-print shirt.
+    MsgDisp("Hiiragi","Maze, cow, cow milk... and you in a
+cow-print shirt.
 I'm already intrigued.");
     ChEye(5,0);
     ChMouth(5,3);

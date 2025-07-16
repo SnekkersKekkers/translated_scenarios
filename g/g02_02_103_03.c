@@ -37,7 +37,8 @@ ChMotion(2,2);
 VoicePlay("G020210303_02_050");
 MsgDisp("Sassa","After all, you're pretty and cute, so of
 course, you'll attract attention～");
-MsgDisp("主人公","Eh? That's not true......");
+MsgDisp("主人公","Eh?
+That's not true......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -64,9 +65,9 @@ VoicePlay("G020210303_02_090");
 MsgDisp("Sassa","Yeah, just go all out.
 I want to see it too.
 Go ahead.");
-MsgDisp("主人公","(Go ahead, he says.
-｛颯砂＊＊｝ sure is acting weird......
-Maybe it's because of this place?)");
+MsgDisp("主人公","(Go ahead, he says. ｛颯砂＊＊｝
+sure is acting weird...... Maybe it's
+because of this place?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

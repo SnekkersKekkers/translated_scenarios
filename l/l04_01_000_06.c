@@ -8,8 +8,7 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,8);
     VoicePlay("L040100006_01_000");
     MsgDisp("Kazama","You know, this......");
-    MsgDisp("主人公","It's handmade, if you're
-wondering.");
+    MsgDisp("主人公","It's handmade, if you're wondering.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -43,8 +42,7 @@ I should've tried harder......)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100006_01_040");
-    MsgDisp("Kazama","You can really tell it's
-handmade.");
+    MsgDisp("Kazama","You can really tell it's handmade.");
     MsgDisp("主人公","I put some effort in.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -98,9 +96,9 @@ But well, the result is kind of......");
     VoicePlay("L040100006_01_100");
     MsgDisp("Kazama","It's kind of like your alter ego.
 I like it.");
-    MsgDisp("主人公","｛風真＊＊｝...... thank you. But, calling
-me and the chocolate alike is a
-little......");
+    MsgDisp("主人公","｛風真＊＊｝...... thank you.
+But, calling me and the chocolate alike is
+a little......");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -117,7 +115,8 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Ha...... I wish I gave him a better
+    MsgDisp("主人公","(Ha......
+I wish I gave him a better
 chocolate......)");
     MsgClose();
     ScrFadeOut(0,0);

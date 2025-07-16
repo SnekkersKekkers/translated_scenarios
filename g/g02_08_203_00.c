@@ -3,7 +3,7 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0);
 ChCheek(8,4);
-MsgDisp("主人公","Wow......so many fireflies!
+MsgDisp("主人公","Wow...... so many fireflies!
 Beautiful......!");
 VoicePlay("G020820300_08_000");
 MsgDisp("Shirahane","You're right......!");
@@ -14,7 +14,8 @@ ChMouthOpenLevel(8,0);
 ChCheek(8,6);
 VoicePlay("G020820300_08_010");
 MsgDisp("Shirahane","............");
-MsgDisp("主人公","......｛大地＊＊｝? What's wrong?");
+MsgDisp("主人公","...... ｛大地＊＊｝?
+What's wrong?");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,2,1);
@@ -49,10 +50,11 @@ ChMouth(8,4);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("G020820300_08_070");
-MsgDisp("Shirahane","No, this is bad......this is bad!
+MsgDisp("Shirahane","No, this is bad...... this is bad!
 I need to clear my mind......");
-MsgDisp("主人公","(｛大地＊＊｝...... What on earth is he
-thinking about right now?)");
+MsgDisp("主人公","(｛大地＊＊｝......
+What on earth is he thinking about right
+now?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

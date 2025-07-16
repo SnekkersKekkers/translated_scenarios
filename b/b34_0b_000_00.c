@@ -17,14 +17,15 @@ ScrFadeIn(0);
 MsgDisp("主人公","Haa, that was fun!
 Thanks for inviting me today.");
 VoicePlay("B340B00000_01_000");
-MsgDisp("Kazama","Yeah. When I feel like it, I'll invite you
-all again so come join me.");
+MsgDisp("Kazama","Yeah.
+When I feel like it, I'll invite you all
+again so come join me.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B340B00000_03_000");
-MsgDisp("Honda","Yeppers. Let's all hang out together
-again!");
+MsgDisp("Honda","Yeppers.
+Let's all hang out together again!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

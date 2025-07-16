@@ -12,4 +12,6 @@ ChMotion(4,3,1);
 VoicePlay("B020400009_04_010");
 MsgDisp("Nanatsumori","Of course. It looks good on you, and you
 coordinated it well. As expected.");
-MsgDisp("主人公","(Hehe. ｛七ツ森＊｝ praised me.▼)");
+MsgDisp("主人公","(Hehe.
+｛七ツ森＊｝ praised
+me.▼)");

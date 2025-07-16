@@ -24,8 +24,7 @@ me?");
     MsgDisp("Sassa","Happy New Year!
 I'm counting on you this year too.");
     VoicePlay("S030200000_02_050");
-    MsgDisp("Sassa","Ah, are you calling me for a
-shrine visit?");
+    MsgDisp("Sassa","Ah, are you calling me for a shrine visit?");
     MsgDisp("主人公","Yep, that's right.
 Would you maybe like to go with me?");
     break ;

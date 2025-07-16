@@ -11,21 +11,24 @@ ChEye ( 6,0 ) ;
 ChMouth ( 6,3 ) ;
 ChMotion ( 6,3 ) ;
 VoicePlay ( "D150005601_06_000" ) ;
-MsgDisp ( "Himuro","I get what you mean. Even when I'm quiet,
-there's some background music." ) ;
+MsgDisp ( "Himuro","I get what you mean.
+Even when I'm quiet, there's some
+background music." ) ;
 ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,5 ) ;
 VoicePlay ( "D150005601_05_010" ) ;
-MsgDisp ( "Hiiragi","Ahh. As expected of Inori-kun. That's
-exactly it." ) ;
+MsgDisp ( "Hiiragi","Ahh.
+As expected of Inori-kun.
+That's exactly it." ) ;
 MsgDisp ( "主人公","Background music?" ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;
 ChMotion ( 6,4 ) ;
 VoicePlay ( "D150005601_06_010" ) ;
-MsgDisp ( "Himuro","That's right. Yanosuke-senpai's BGM is
-like delicate silk." ) ;
+MsgDisp ( "Himuro","That's right.
+Yanosuke-senpai's BGM is like delicate
+silk." ) ;
 ChEye ( 5,4 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,4 ) ;
@@ -37,7 +40,8 @@ ChMouth ( 5,4 ) ;
 ChMotion ( 5,0 ) ;
 VoicePlay ( "D150005601_05_030" ) ;
 MsgDisp ( "Hiiragi","As for you......
-You are....wind. A gentle breeze." ) ;
+You are.... wind.
+A gentle breeze." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,3 ) ;
 ChMotion ( 6,1 ) ;
@@ -50,13 +54,15 @@ ChEye ( 5,2 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
 VoicePlay ( "D150005601_05_040" ) ;
-MsgDisp ( "Hiiragi","Uhm. It feels good and has a nice sound to
-it. Right, Inori-kun?" ) ;
+MsgDisp ( "Hiiragi","Uhm.
+It feels good and has a nice sound to it.
+Right, Inori-kun?" ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,3 ) ;
 ChMotion ( 6,3 ) ;
 VoicePlay ( "D150005601_06_030" ) ;
-MsgDisp ( "Himuro","Yeah. That's exactly what I mean." ) ;
+MsgDisp ( "Himuro","Yeah.
+That's exactly what I mean." ) ;
 MsgDisp ( "主人公","(He smoothed it over, somehow.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

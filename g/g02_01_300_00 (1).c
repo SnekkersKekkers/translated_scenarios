@@ -6,7 +6,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020130000_01_000");
 MsgDisp("Kazama","What do you think would happen of they
 learned we came here?");
-MsgDisp("主人公","Are you talking about ｛颯砂＊＊｝ and
+MsgDisp("主人公","Are you talking about
+｛颯砂＊＊｝ and
 ｛氷室＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -31,7 +32,8 @@ ChMotion(1,0);
 VoicePlay("G020130000_01_030");
 MsgDisp("Kazama","......Now that I imagine it, that's pretty
 scary.");
-MsgDisp("主人公","Hmmm. I'm not sure if he would.");
+MsgDisp("主人公","Hmmm.
+I'm not sure if he would.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,2);
@@ -56,8 +58,8 @@ VoicePlay("G020130000_01_060");
 MsgDisp("Kazama","I'd say so.
 The truth is that I don't hate them.");
 ChEye(1,0);
-MsgDisp("主人公","(Hahah, I know, ｛風真＊＊｝, that you
-like them.)");
+MsgDisp("主人公","(Hahah, I know, ｛風真＊＊｝,
+that you like them.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

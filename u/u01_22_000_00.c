@@ -28,7 +28,8 @@ See you soon.");
     case 1:
     VoicePlay("U012200000_22_030");
     MsgDisp("Hikaru","Really～?
-That's disappointing......Sigh.");
+That's disappointing......
+Sigh.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Even though she took the time to invite

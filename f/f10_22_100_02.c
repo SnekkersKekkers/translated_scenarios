@@ -23,7 +23,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102210002_22_010");
-MsgDisp("Hikaru","Yay♪ They were super pretty flowers～
+MsgDisp("Hikaru","Yay♪
+They were super pretty flowers～
 Hikaru liked them too after all▼");
 VoicePlay("F102210002_40_020");
 MsgDisp("Garden Club Member","We were truly in the wrong to doubt you!
@@ -64,7 +65,8 @@ VoicePlay("F102210002_22_050");
 MsgDisp("Hikaru","Aha▼
 I'm glad it had a happy ending!");
 MsgDisp("主人公","(Yeah, looks like everyone was happy
-thanks to ｛ひかる＊｝! )");
+thanks to ｛ひかる＊｝!
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

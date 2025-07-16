@@ -1,17 +1,19 @@
-MsgDisp("主人公","(Huh? What's up with me? My heart is
-racing super fast...)");
+MsgDisp("主人公","(Huh?
+What's up with me?
+My heart is racing super fast...)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_420");
 MsgDisp("Himuro","What's wrong?");
-MsgDisp("主人公","...Yeah.
+MsgDisp("主人公","... Yeah.
 My heart is racing somewhat...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600002_06_430");
-MsgDisp("Himuro","What? Are you not feeling well?");
+MsgDisp("Himuro","What?
+Are you not feeling well?");
 MsgDisp("主人公","I think it's different...");
 ChEye(6,0);
 ChMouth(6,0);

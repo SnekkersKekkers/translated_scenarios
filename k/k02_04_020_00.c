@@ -6,7 +6,8 @@ SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Shiny hairbrush\")");
 MsgDisp("主人公","(Wah, amazing. This makes my hair feel so
-smooth! I wonder if ｛七ツ森＊｝ uses
-this too?)");
+smooth! I wonder if
+｛七ツ森＊｝ uses this
+too?)");
 MsgClose();
 ScrFadeOut(0,0);

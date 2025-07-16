@@ -11,7 +11,8 @@ SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,255,0,0,0,#1,#1,0,1);
 ChOpen(22,255,0,0,3,#1,#1,0,2);
-MsgDisp("主人公","Oh, ｛みちる＊｝, ｛ひかる＊｝!?
+MsgDisp("主人公","Oh, ｛みちる＊｝,
+｛ひかる＊｝!?
 What's up?");
 ChEye(21,4);
 ChMouth(21,0);

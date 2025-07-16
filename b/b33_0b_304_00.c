@@ -11,22 +11,21 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? 
+MsgDisp("主人公","Huh?
 There's a lot of people over there.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30400_04_000");
-MsgDisp("Nanatsumori","Ah, 
-maybe they're shooting something.");
+MsgDisp("Nanatsumori","Ah, maybe they're shooting something.");
 MsgDisp("主人公","Shooting?
 Like a model photoshoot?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30400_04_010");
-MsgDisp("Nanatsumori","Right. This is a good location all year
-round.");
+MsgDisp("Nanatsumori","Right.
+This is a good location all year round.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -66,8 +65,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30400_04_040");
-MsgDisp("Nanatsumori","Kids photos will 
-look nice here right?");
+MsgDisp("Nanatsumori","Kids photos will look nice here right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

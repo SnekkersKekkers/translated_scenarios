@@ -9,13 +9,15 @@ MsgDisp("主人公","That voice is......");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,0,3,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","｛本多＊＊｝! Are you out shopping?");
+MsgDisp("主人公","｛本多＊＊｝!
+Are you out shopping?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("D010300000_03_010");
-MsgDisp("Honda","Yeah. I like to come here sometimes
-because my roots are here.");
+MsgDisp("Honda","Yeah.
+I like to come here sometimes because my
+roots are here.");
 MsgDisp("主人公","｛本多＊＊｝'s roots?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -50,7 +52,8 @@ StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300000_03_050");
 MsgDisp("Honda","Exactly. It's an ammonite from 150 million
 years ago. Isn't that awesome?");
-MsgDisp("主人公","Seriously?　Wow!");
+MsgDisp("主人公","Seriously?
+Wow!");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300000_03_060");
@@ -87,8 +90,8 @@ StlClose();
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","So ｛本多＊＊｝'s current lifestyle was
-born from his mother's advice.");
+MsgDisp("主人公","So ｛本多＊＊｝'s current lifestyle
+was born from his mother's advice.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -114,9 +117,9 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("D010300000_03_130");
-MsgDisp("Honda","......Wait. I think you may be the first
-person I've told this besides my
-sister......?");
+MsgDisp("Honda","...... Wait.
+I think you may be the first person I've
+told this besides my sister......?");
 MsgDisp("主人公","(Thank you, ｛本多＊＊｝.
 For sharing your precious memories with
 me.)");

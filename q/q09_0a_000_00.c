@@ -11,7 +11,8 @@ ChMotion(2,3);
 VoicePlay("Q090A00000_02_000");
 MsgDisp("Sassa","Yo, good morning.");
 MsgDisp("主人公","Good morning!
-｛風真＊＊｝, ｛颯砂＊＊｝, how early.");
+｛風真＊＊｝,
+｛颯砂＊＊｝, how early.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -25,8 +26,7 @@ ChMotion(2,3);
 VoicePlay("Q090A00000_02_010");
 MsgDisp("Sassa","Don't be so surprised.
 For me, it would be weird not to.");
-MsgDisp("主人公","Did the teachers not get
-angry?");
+MsgDisp("主人公","Did the teachers not get angry?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);

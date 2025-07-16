@@ -11,14 +11,14 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410304_04_010");
-MsgDisp("Nanatsumori","Yeah. I'm mainly talking about
-you.");
-MsgDisp("主人公","｛七ツ森＊｝, I liked the birthday gift
-you gave me a lot.");
+MsgDisp("Nanatsumori","Yeah.
+I'm mainly talking about you.");
+MsgDisp("主人公","｛七ツ森＊｝, I liked the
+birthday gift you gave me a lot.");
 ChMotion(4,0,1);
 VoicePlay("G020410304_04_020");
-MsgDisp("Nanatsumori","Really? I'm glad that you liked
-the gift.");
+MsgDisp("Nanatsumori","Really?
+I'm glad that you liked the gift.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,4);
 ChMouth(4,4);
@@ -48,8 +48,8 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("G020410304_04_070");
-MsgDisp("Nanatsumori","No... never mind. I might lose my
-livelihood doing that...");
+MsgDisp("Nanatsumori","No... never mind.
+I might lose my livelihood doing that...");
 MsgDisp("主人公","(I wonder how big of a surprise would he
 have given me?)");
 BGMStop();

@@ -68,15 +68,15 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(6,254,7,4,0,#1,#1,0,0,0,120);
 VoicePlay("T020601000_06_090");
-MsgDisp("Himuro","Yes. 
+MsgDisp("Himuro","Yes.
 I've always liked you.");
 MsgDisp("主人公","!");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_100");
-MsgDisp("Himuro","Haa...... Why did you have to be my
-senior?");
+MsgDisp("Himuro","Haa......
+Why did you have to be my senior?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);

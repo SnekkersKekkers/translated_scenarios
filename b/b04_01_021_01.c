@@ -17,9 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040102101_01_010");
-    MsgDisp("Kazama","Exactly. Just like how I feel about
-antiques, these things need proper
-appreciation.");
+    MsgDisp("Kazama","Exactly.
+Just like how I feel about antiques, these
+things need proper appreciation.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

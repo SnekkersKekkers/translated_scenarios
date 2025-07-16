@@ -6,8 +6,9 @@ ChMotion(5,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040522202_05_000");
-MsgDisp("Hiiragi","Haa... It feels as if I'm being crushed by
-the weight of history.");
+MsgDisp("Hiiragi","Haa...
+It feels as if I'm being crushed by the
+weight of history.");
 MsgSel("Isn'yt it the pressure to study?","They're like test questions huh...","It makes you want an easier to understand explanation huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -65,8 +66,7 @@ hundred year old castle to ourselves.");
         VoicePlay("B040522202_05_060");
         MsgDisp("Hiiragi","See, there are usually only a few people
 here.");
-        MsgDisp("主人公","Now that you mention it, 
-it might be true.");
+        MsgDisp("主人公","Now that you mention it, it might be true.");
         ChEye(5,3);
         VoicePlay("B040522202_05_070");
         MsgDisp("Hiiragi","Yes, so why don't we use this extravagant
@@ -80,14 +80,16 @@ P-Play?");
         MsgDisp("Hiiragi","\"This short sword is my alter ego.
 A guiding light to protect you.
 My soul will be with you for eternity.\"");
-        MsgDisp("主人公","Ehhh∋ That's like a scene from Habataki
-Theatre Troupe's play?");
+        MsgDisp("主人公","Ehhh∋
+That's like a scene from Habataki Theatre
+Troupe's play?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040522202_05_090");
         MsgDisp("Hiiragi","No, the line is \"My soul will also be with
 you for eternity.\"");
-        MsgDisp("主人公","Ummm... \"My soul will also be with you for
+        MsgDisp("主人公","Ummm... \"
+My soul will also be with you for
 eternity.\"");
         ChEye(5,4);
         ChMouth(5,4);

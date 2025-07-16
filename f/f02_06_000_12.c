@@ -6,7 +6,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Spring break is coming up.
-｛氷室＊＊｝, what are you going to do?");
+｛氷室＊＊｝, what are you going to
+do?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -41,7 +42,8 @@ ChMotion(6,0);
 VoicePlay("F020600012_06_040");
 MsgDisp("Himuro","What will you be doing?");
 MsgDisp("主人公","Um... well, I haven't really thought about
-it. Maybe do some fun things.");
+it.
+Maybe do some fun things.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

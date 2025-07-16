@@ -13,8 +13,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,255,0,0,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080600000_06_010");
-    MsgDisp("Himuro","Okay, I'll ride with 
-Hanatsubaki-senpai.");
+    MsgDisp("Himuro","Okay, I'll ride with Hanatsubaki-senpai.");
     break ;
     case 4:
     case 5:

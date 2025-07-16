@@ -1,7 +1,8 @@
 BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh... over there is... ｛颯砂＊＊｝ and
+MsgDisp("主人公","(Huh... over there is...
+｛颯砂＊＊｝ and
 ｛氷室＊＊｝? )");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -45,8 +46,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100240000_06_020");
-MsgDisp("Himuro","Why is that so 
-surprising to you?");
+MsgDisp("Himuro","Why is that so surprising to you?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -70,15 +70,15 @@ ChMotion(2,2);
 VoicePlay("F100240000_02_040");
 MsgDisp("Sassa","And Inori is alone when he's on the
 surfboard.");
-MsgDisp("主人公","I see...
-they're completely different sports, but
-they have some similarities.");
+MsgDisp("主人公","I see... they're completely different
+sports, but they have some similarities.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240000_02_050");
-MsgDisp("Sassa","Right. So I can learn a lot from his
-mental aspects and way of thinking.");
+MsgDisp("Sassa","Right.
+So I can learn a lot from his mental
+aspects and way of thinking.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

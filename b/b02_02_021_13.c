@@ -14,5 +14,4 @@ VoicePlay("B020202113_02_010");
 MsgDisp("Sassa","I'm serious!
 You could be on TV or in a magazine right
 now.");
-MsgDisp("主人公","(Hehe, I think he liked
-my outfit today.)");
+MsgDisp("主人公","(Hehe, I think he liked my outfit today.)");

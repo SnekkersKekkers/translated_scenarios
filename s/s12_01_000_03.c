@@ -14,15 +14,16 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,0);
     ChMotion(1,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","｛風真＊＊｝, thanks for walking me back.");
+    MsgDisp("主人公","｛風真＊＊｝, thanks for walking
+me back.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100003_01_000");
     MsgDisp("Kazama","Oh, we're here.");
-    MsgDisp("主人公","Yep. You wanted to keep walking, didn't
-you?");
+    MsgDisp("主人公","Yep.
+You wanted to keep walking, didn't you?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -36,19 +37,19 @@ we're together.");
     VoicePlay("S120100003_01_020");
     MsgDisp("Kazama","If you're not careful, the whole year
 might just pass by.");
-    MsgDisp("主人公","Hehe, it's still New Years,
-though.");
+    MsgDisp("主人公","Hehe, it's still New Years, though.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("S120100003_01_030");
-    MsgDisp("Kazama","That's true. But better safe than sorry.
+    MsgDisp("Kazama","That's true.
+But better safe than sorry.
 Cya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Hehe, I hope ｛風真＊＊｝ and I get along
-well this year!)");
+    MsgDisp("主人公","(Hehe, I hope ｛風真＊＊｝ and
+I get along well this year!)");
     break ;
     case 4:
     case 5:
@@ -68,7 +69,7 @@ If you're ready, you can leave now?");
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("S120100003_01_050");
-    MsgDisp("Kazama","I'm leaving......but it doesn't matter.
+    MsgDisp("Kazama","I'm leaving...... but it doesn't matter.
 Grandpa is waiting for me.");
     MsgDisp("主人公","You have to work?");
     ChMotion(1,0);
@@ -100,10 +101,9 @@ Thanks anyway.");
     MsgDisp("Kazama","I do.
 You're dressed so beautifully right now.
 Thanks for that.");
-    MsgDisp("主人公","(｛風真＊＊｝ said I'm dressed
-beautifully, I'm so happy he said
-that...... This year will be another good
-year.)");
+    MsgDisp("主人公","(｛風真＊＊｝ said I'm dressed beautifully,
+I'm so happy he said that......
+This year will be another good year.)");
     break ;
     default :
     DbgAssert(1);

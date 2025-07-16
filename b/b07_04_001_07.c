@@ -1,5 +1,6 @@
-MsgDisp("主人公","(Huh? What's up with me? My heart is
-thudding super fast...)");
+MsgDisp("主人公","(Huh?
+What's up with me?
+My heart is thudding super fast...)");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
@@ -7,8 +8,9 @@ VoicePlay("B070400001_04_510");
 MsgDisp("Nanatsumori","What's wrong?
 Your face is kinda red, so maybe you have
 a fever...");
-MsgDisp("主人公","No. It's not like that, it's that I'm
-somehow so nervous my heart is racing...");
+MsgDisp("主人公","No.
+It's not like that, it's that I'm somehow
+so nervous my heart is racing...");
 VoicePlay("B070400001_04_520");
 MsgDisp("Nanatsumori","Heart racing?");
 MsgDisp("主人公","Yeah.");
@@ -24,7 +26,8 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400001_04_550");
 MsgDisp("Nanatsumori","...Am I the cause?");
-MsgDisp("主人公","｛七ツ森＊｝? ...Ah.");
+MsgDisp("主人公","｛七ツ森＊｝?
+... Ah.");
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_560");
 MsgDisp("Nanatsumori","What?");
@@ -32,7 +35,7 @@ MsgDisp("主人公","My heart might be racing even faster.");
 ChEye(4,2);
 ChMouth(4,1);
 VoicePlay("B070400001_04_570");
-MsgDisp("Nanatsumori","No, w...wait.
+MsgDisp("Nanatsumori","No, w... wait.
 Maybe, this is something that's spread to
 me...");
 MsgDisp("主人公","......?");

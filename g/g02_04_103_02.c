@@ -9,8 +9,9 @@ MsgDisp("主人公","Like if they see us as a couple?");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("G020410302_04_010");
-MsgDisp("Nanatsumori","Yeah. Would it be hard to find that? High
-school students being a couple.");
+MsgDisp("Nanatsumori","Yeah.
+Would it be hard to find that?
+High school students being a couple.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,4);
 ChMouth(4,3);
@@ -33,8 +34,8 @@ ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410302_04_050");
 MsgDisp("Nanatsumori","I don't really pay attention to things
-like that but today...
-it just felt like fate.");
+like that but today... it just felt like
+fate.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

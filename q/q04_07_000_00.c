@@ -21,14 +21,16 @@ around with me?");
     MsgDisp("Mikage","Oh, good morning.
 What's up?");
     MsgDisp("主人公","Good morning.
-｛御影＊＊｝, do you already have plans
-for today's free period?");
+｛御影＊＊｝, do you
+already have plans for today's free
+period?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("Q040700000_07_020");
     MsgDisp("Mikage","Haha, are you inviting me?");
-    MsgDisp("主人公","Yes. If it's fine with you, could you look
+    MsgDisp("主人公","Yes.
+If it's fine with you, could you look
 around with me?");
     break ;
     case 4:
@@ -40,7 +42,8 @@ around with me?");
     VoicePlay("Q040700000_07_030");
     MsgDisp("Mikage","Oh, morning.
 You look excited today.");
-    MsgDisp("主人公","Yes, and you, ｛御影＊＊｝?");
+    MsgDisp("主人公","Yes, and you,
+｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -48,8 +51,9 @@ You look excited today.");
     MsgDisp("Mikage","Yeah, thanks to the cheerful greeting, I'm
 fully awake.
 So, what's up?");
-    MsgDisp("主人公","Yes. For today's free period, could you
-look around with me?");
+    MsgDisp("主人公","Yes.
+For today's free period, could you look
+around with me?");
     break ;
     default :
     DbgAssert(1);

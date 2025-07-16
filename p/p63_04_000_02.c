@@ -17,7 +17,8 @@ Gardening Club...)");
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P630400002_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. Welcome.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+Welcome.");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -31,15 +32,17 @@ the by the Gardening Club!");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400002_04_020");
-    MsgDisp("Nanatsumori","Heeh. The Gardening Club evolve each year,
+    MsgDisp("Nanatsumori","Heeh.
+The Gardening Club evolve each year,
 huh...");
     MsgDisp("主人公","If you'd like, how about I recommend
 something on the menu to you?");
     VoicePlay("P630400002_04_030");
     MsgDisp("Nanatsumori","Yeah.
 Then, I guess I'll stop by.");
-    MsgDisp("主人公","Certainly. Then an organically grown salad
-and herb tea please!");
+    MsgDisp("主人公","Certainly.
+Then an organically grown salad and herb
+tea please!");
     break ;
     case 4:
     case 5:
@@ -52,20 +55,23 @@ Gardening Club...)");
     ChOpen(4,254,0,5,4,#1,#1,0,0,0,60);
     VoicePlay("P630400002_04_040");
     MsgDisp("Nanatsumori","Ohー...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! Welcome.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+Welcome.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P630400002_04_050");
     MsgDisp("Nanatsumori","It's stylish.
 Is this really the Gardening Club?");
-    MsgDisp("主人公","Hehe. This year we tried our hand at an
-organic cafe!");
+    MsgDisp("主人公","Hehe.
+This year we tried our hand at an organic
+cafe!");
     ChEye(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400002_04_060");
-    MsgDisp("Nanatsumori","Heeh. Then the herbs and vegetables are
-from the gardening club?");
+    MsgDisp("Nanatsumori","Heeh.
+Then the herbs and vegetables are from the
+gardening club?");
     MsgDisp("主人公","That's right.
 The vegetables are organic, so it's gentle
 on your body▼");

@@ -1,2 +1,3 @@
-MsgDisp("主人公","Sigh... I want to buy it, but I don't have
-enough money...");
+MsgDisp("主人公","Sigh...
+I want to buy it, but I don't have enough
+money...");

@@ -12,15 +12,16 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B330A30100_06_000");
-MsgDisp("Himuro","Interesting. It doesn't seem to be an
-efficient evolution.");
+MsgDisp("Himuro","Interesting.
+It doesn't seem to be an efficient
+evolution.");
 ChMouth(1,2);
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A30100_02_000");
-MsgDisp("Sassa","Hmm. I thought Inori was all about
-efficiency.");
+MsgDisp("Sassa","Hmm.
+I thought Inori was all about efficiency.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -46,7 +47,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330A30100_06_030");
-MsgDisp("Himuro","Right. 
+MsgDisp("Himuro","Right.
 That imbalance is nice too.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -88,24 +89,23 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A30100_02_020");
-MsgDisp("Sassa","Inori, you're being kind 
-of honest today.");
+MsgDisp("Sassa","Inori, you're being kind of honest today.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B330A30100_06_060");
-MsgDisp("Himuro","Not really...
-is there a problem?");
+MsgDisp("Himuro","Not really... is there a problem?");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","I think the fact that ｛氷室＊＊｝ even does
-surfing is amazing?");
+MsgDisp("主人公","I think the fact that ｛氷室＊＊｝
+even does surfing is amazing?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A30100_01_030");
-MsgDisp("Kazama","Right. Surfing doesn't exactly seem like a
+MsgDisp("Kazama","Right.
+Surfing doesn't exactly seem like a
 shortcut to Inori's goals.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -120,8 +120,9 @@ VoicePlay("B330A30100_02_030");
 MsgDisp("Sassa","Then, shall we say we're all deep sea
 fish?");
 ChMouth(1,3);
-MsgDisp("主人公","(Haha! A group of tightknit deep-sea
-fish... that's nice.)");
+MsgDisp("主人公","(Haha!
+A group of tightknit deep-sea fish...
+that's nice.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

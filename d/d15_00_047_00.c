@@ -12,8 +12,8 @@ ChMotion ( 7,3 ) ;
 VoicePlay ( "D150004700_07_000" ) ;
 MsgDisp ( "Mikage","Ahh, that makes me want to take some home
 for dinner." ) ;
-MsgDisp ( "主人公","That's a good idea! I wish my mom could
-try it too." ) ;
+MsgDisp ( "主人公","That's a good idea!
+I wish my mom could try it too." ) ;
 ChEye ( 4,0 ) ;
 ChMouth ( 4,0 ) ;
 ChMotion ( 4,2 ) ;
@@ -43,8 +43,9 @@ ChEye ( 7,4 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,1 ) ;
 VoicePlay ( "D150004700_07_030" ) ;
-MsgDisp ( "Mikage","Right? Today is the faculty meeting so
-I'll put it on the agenda." ) ;
+MsgDisp ( "Mikage","Right?
+Today is the faculty meeting so I'll put
+it on the agenda." ) ;
 ChEye ( 4,2 ) ;
 ChMouth ( 4,2 ) ;
 ChMotion ( 4,2 ) ;
@@ -56,8 +57,9 @@ ChMouth ( 7,3 ) ;
 ChMotion ( 7,2 ) ;
 VoicePlay ( "D150004700_07_040" ) ;
 MsgDisp ( "Mikage","I'm dead serious, though." ) ;
-MsgDisp ( "主人公","(Will it be okay? I hope he doesn't get
-scolded by Himuro-sensei......)" ) ;
+MsgDisp ( "主人公","(Will it be okay?
+I hope he doesn't get scolded by
+Himuro-sensei......)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

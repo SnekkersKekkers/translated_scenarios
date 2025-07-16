@@ -25,8 +25,8 @@ MsgDisp("Hikaru","There's a legend about this fountain♪ If
 you come here on a summer night with
 someone you love, they say you'll be able
 to know the truth of their heart.");
-MsgDisp("主人公","｛ひかる＊｝. You want to know the
-truth of my heart?");
+MsgDisp("主人公","｛ひかる＊｝.
+You want to know the truth of my heart?");
 ChEye(22,3);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -38,8 +38,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("U022200002_22_040");
-MsgDisp("Hikaru","Aha▼ Even if you don't tell me, Mari
-already wears her heart on her sleeve♪");
+MsgDisp("Hikaru","Aha▼
+Even if you don't tell me, Mari already
+wears her heart on her sleeve♪");
 MsgDisp("主人公","Eeh∋");
 ChEye(22,0);
 ChMouth(22,3);

@@ -20,8 +20,8 @@ VoicePlay("R080400000_04_020");
 MsgDisp("Nanatsumori","We've only got a few days of school left.
 So I want to show you a little bit of
 myself.");
-MsgDisp("主人公","｛七ツ森＊｝, yourself? I thought I
-knew a lot about you...");
+MsgDisp("主人公","｛七ツ森＊｝, yourself?
+I thought I knew a lot about you...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1);
@@ -45,9 +45,9 @@ BGMPlay("BGM_XMAS_TRHEE",0.01);
 EnvPlay("SE_ENV_BG_SC771_CO2",3,0.6);
 ScrFadeIn(0);
 VoicePlay("R080400000_04_040");
-MsgDisp("Nanatsumori","... Look over there. Those city lights
-glowing in the distance. That is where I
-was born.");
+MsgDisp("Nanatsumori","... Look over there.
+Those city lights glowing in the distance.
+That is where I was born.");
 MsgDisp("主人公","Yeah, I believe you lived in the city next
 to here, ｛七ツ森＊｝.");
 StlEye(4,1);
@@ -130,7 +130,9 @@ VoicePlay("R080400000_04_170");
 MsgDisp("Nanatsumori","So, once again.
 Merry Christmas.
 I hope to see you for always.");
-MsgDisp("主人公","Yeah. Merry Christmas, ｛七ツ森＊｝.");
+MsgDisp("主人公","Yeah.
+Merry Christmas,
+｛七ツ森＊｝.");
 StlEye(4,2);
 BGMStop(3);
 MsgClose();

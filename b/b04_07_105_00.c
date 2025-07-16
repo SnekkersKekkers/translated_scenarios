@@ -27,8 +27,8 @@ There's a modern art dragon.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B040710500_07_020");
-    MsgDisp("Mikage","Right. I'll take on the challenge with
-you.");
+    MsgDisp("Mikage","Right.
+I'll take on the challenge with you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

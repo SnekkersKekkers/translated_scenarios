@@ -1,8 +1,7 @@
 BGOpen("sc500",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Oh yeah.
-It's been a while since I've visited the
-Track and Field club.)");
+MsgDisp("主人公","(......Oh yeah. It's been a while since
+I've visited the Track and Field club.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -75,7 +74,7 @@ StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("D010200800_02_080");
-MsgDisp("Sassa","......And you?
+MsgDisp("Sassa","...... And you?
 What about you, you made this happen for
 me, so what about you?");
 BGMVol(0.5,2);
@@ -107,8 +106,8 @@ VoicePlay("D010200800_02_110");
 MsgDisp("Sassa","I didn't realize until I retired......
 You have goals and dreams too.");
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","It's thanks to ｛颯砂＊＊｝ that I got to
-experience so many new things.
+MsgDisp("主人公","It's thanks to ｛颯砂＊＊｝ that
+I got to experience so many new things.
 Things I would never have done on my own.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -133,7 +132,8 @@ ChMouth(2,0);
 ChMotion(2,5);
 ChEyeOpenLevel(2,0);
 VoicePlay("D010200800_02_150");
-MsgDisp("Sassa","Ugh......My head's a mess.
+MsgDisp("Sassa","Ugh......
+My head's a mess.
 I'm going to run until my legs fall off!");
 ChEyeOpenLevel(2,10);
 BGMStop();
@@ -147,10 +147,10 @@ I need to borrow the field again!");
 VoicePlay("D010200800_33_020");
 MsgDisp("Member","Sassa-senpai, it's no problem!");
 VoicePlay("D010200800_44_000");
-MsgDisp("Member","Senpai, please take a look at our
-form.");
-MsgDisp("主人公","(｛颯砂＊＊｝...... He worked hard carrying
-everyone's hopes and dreams......)");
+MsgDisp("Member","Senpai, please take a look at our form.");
+MsgDisp("主人公","(｛颯砂＊＊｝......
+He worked hard carrying everyone's hopes
+and dreams......)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(2,0);

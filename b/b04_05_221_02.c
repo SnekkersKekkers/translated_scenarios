@@ -35,7 +35,8 @@ never believe it to be true.");
         ChMotion(5,4);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_020");
-        MsgDisp("Hiiragi","Haa... I wonder how?");
+        MsgDisp("Hiiragi","Haa...
+I wonder how?");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040522102_05_030");
@@ -51,8 +52,8 @@ history?");
         VoicePlay("B040522102_05_040");
         MsgDisp("Hiiragi","That may be true...");
         MsgDisp("主人公","The number of visitors to this castle has
-increased.
-It's thanks to ｛柊＊＊＊｝ and everyone.");
+increased. It's thanks to
+｛柊＊＊＊｝ and everyone.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040522102_05_050");
@@ -72,7 +73,7 @@ many generations of lords here.");
         VoicePlay("B040522102_43_000");
         MsgDisp("Castle Lord's Voice?","You should proceed on your own path
 without hesitation.");
-        MsgDisp("主人公","...Huh?
+        MsgDisp("主人公","... Huh?
 Just now...");
         ChEye(5,4);
         ChMouth(5,2);
@@ -87,8 +88,8 @@ Just now...");
         VoicePlay("B040522102_05_090");
         MsgDisp("Hiiragi","Thank you, thanks to you, I feel as if a
 load has been lifted off my chest.");
-        MsgDisp("主人公","(That strange voice just now...
-could it have been...?)");
+        MsgDisp("主人公","(That strange voice just now... could it
+have been...?)");
         break ;
         default :
         DbgAssert(1);

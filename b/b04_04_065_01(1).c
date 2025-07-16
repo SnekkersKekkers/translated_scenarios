@@ -7,8 +7,9 @@ ChNanaType(#1);
 ChOpen(4,33,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040406501_04_000");
-MsgDisp("Nanatsumori","Hmm. It's just like an illusion of light
-and sound!");
+MsgDisp("Nanatsumori","Hmm.
+It's just like an illusion of light and
+sound!");
 MsgSel("I have to do my best to take pictures!","It's like a dream...","This will become a wonderful memory▼");
 switch (MsgSelRsltGet()){
     case 0:

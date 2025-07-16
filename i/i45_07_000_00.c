@@ -5,7 +5,8 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. Welcome!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+Welcome!");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
@@ -27,15 +28,15 @@ I like being surrounded by flowers, too.");
     MsgDisp("Mikage","Our tastes match.
 Now, I'll ask you to show me around the
 store.");
-    MsgDisp("主人公","Hehe, please take your time
-choosing.");
+    MsgDisp("主人公","Hehe, please take your time choosing.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     VoicePlay("I450700000_07_030");
     MsgDisp("Mikage","Ooh, I see you have succulents, too.");
-    MsgDisp("主人公","(Hehe. Looks like ｛御影＊＊｝ is going
-to take a long time, right?)");
+    MsgDisp("主人公","(Hehe.
+Looks like ｛御影＊＊｝
+is going to take a long time, right?)");
     break ;
     case 3:
     MsgClose();
@@ -44,8 +45,9 @@ to take a long time, right?)");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450700000_07_040");
     MsgDisp("Mikage","Excuse me.");
-    MsgDisp("主人公","Yes, I'll be right with you! Ah,
-｛御影＊＊｝? Welcome.");
+    MsgDisp("主人公","Yes, I'll be right with you!
+Ah, ｛御影＊＊｝?
+Welcome.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -101,15 +103,16 @@ the bouquet and send that.");
     VoicePlay("I450700000_07_100");
     MsgDisp("Mikage","I wanted to send the real bouquet, but
 it'd get eaten, right?");
-    MsgDisp("主人公","(Eaten?? ......Ah, he meant a baby
-animal!)");
+    MsgDisp("主人公","(Eaten??
+...... Ah, he meant a baby animal!)");
     break ;
     case 4:
     case 5:
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","｛御影＊＊｝! Welcome!");
+    MsgDisp("主人公","｛御影＊＊｝!
+Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0,1);
@@ -121,8 +124,7 @@ clerk.");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("I450700000_07_120");
-    MsgDisp("Mikage","Just don't forget about school,
-okay?");
+    MsgDisp("Mikage","Just don't forget about school, okay?");
     MsgDisp("主人公","Yes, of course.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -168,15 +170,15 @@ You say the nicest things.");
     MsgDisp("Mikage","Aah, if I have this, even vice principal
 Himuro won't come......
 I hope?");
-    MsgDisp("主人公","Hehe, it doesn't have that
-kind of effect.");
+    MsgDisp("主人公","Hehe, it doesn't have that kind of effect.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     ChEyeOpenLevel(7,10);
     VoicePlay("I450700000_07_180");
     MsgDisp("Mikage","So it can't be an amulet of protection.
-But, it can be a relaxing one. Thanks.");
+But, it can be a relaxing one.
+Thanks.");
     MsgDisp("主人公","(He seemed happy, thank goodness!)");
     break ;
     default :

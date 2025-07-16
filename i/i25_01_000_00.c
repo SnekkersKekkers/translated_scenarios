@@ -23,8 +23,8 @@ Are you looking for something?");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("I250100000_01_020");
-    MsgDisp("Kazama","Yeah. Do you have any magazines on fly
-fishing?");
+    MsgDisp("Kazama","Yeah.
+Do you have any magazines on fly fishing?");
     MsgDisp("主人公","Yes, they're over here.");
     SEPlay("EV_SE_856",0,0.5);
     ChClose(1);
@@ -65,8 +65,8 @@ section on fly fishing magazines?)");
     ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("I250100000_01_060");
     MsgDisp("Kazama","Good response.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Did you come to check on
-me?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+Did you come to check on me?");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -81,8 +81,8 @@ Then, I'll show you there.");
 　　　　　　　　　　 ・");
     MsgClose();
     ChOpen(1,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Sorry...... It seems that they're sold
-out.");
+    MsgDisp("主人公","Sorry......
+It seems that they're sold out.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,4);
@@ -104,8 +104,8 @@ So, I'll come again.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hehe, looks like ｛風真＊＊｝ is going to
-come check on me again.)");
+    MsgDisp("主人公","(Hehe, looks like ｛風真＊＊｝
+is going to come check on me again.)");
     break ;
     case 4:
     case 5:
@@ -121,8 +121,9 @@ There...... ugh, heavy.");
     VoicePlay("I250100000_01_110");
     MsgDisp("Kazama","Hey, how far are you taking this?
 I'll help.");
-    MsgDisp("主人公","Really? Thanks. It's for the hobby
-magazine corner.");
+    MsgDisp("主人公","Really?
+Thanks.
+It's for the hobby magazine corner.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
     MsgDisp("","　　　　　　　　　　 ・
@@ -135,8 +136,9 @@ magazine corner.");
     ChOpen(1,255,0,0,2,#1,#1,0,0);
     VoicePlay("I250100000_01_120");
     MsgDisp("Kazama","Is here okay?");
-    MsgDisp("主人公","Yeah. Haa...... thanks, ｛風真＊＊｝. You
-saved me.");
+    MsgDisp("主人公","Yeah.
+Haa...... thanks, ｛風真＊＊｝.
+You saved me.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -169,8 +171,9 @@ again next time.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(For the next time ｛風真＊＊｝ comes,
-let's stock a lot of fishing magazines.)");
+    MsgDisp("主人公","(For the next time ｛風真＊＊｝
+comes, let's stock a lot of fishing
+magazines.)");
     break ;
     default :
     DbgAssert(1);

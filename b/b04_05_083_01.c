@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("B040508301_05_010");
-    MsgDisp("Hiiragi","Hehe. There's no sign of them, so maybe
-they're away from home?");
+    MsgDisp("Hiiragi","Hehe.
+There's no sign of them, so maybe they're
+away from home?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

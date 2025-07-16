@@ -7,8 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,2);
 VoicePlay("B040521302_05_000");
-MsgDisp("Hiiragi","The lint roller 
-is very useful here.");
+MsgDisp("Hiiragi","The lint roller is very useful here.");
 MsgSel("Lint roller?","Shedding season must be difficult...","It seems worthwhile!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -51,7 +50,8 @@ the carpet.");
         MsgDisp("Hiiragi","After the lint roller passes through, a
 clean carpet appears.");
         ChEyeOpenLevel(5,#1);
-        MsgDisp("主人公","Hehe, ｛柊＊＊＊｝, do you like cleaning?");
+        MsgDisp("主人公","Hehe, ｛柊＊＊＊｝, do you like
+cleaning?");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040521302_05_050");
@@ -63,8 +63,9 @@ But, it feels nice to see something clean.");
         MsgDisp("Hiiragi","Even if you try your best, there are many
 things in this world that don't get tidied
 up.");
-        MsgDisp("主人公","｛柊＊＊＊｝, doing both school and the
-theatre company must be difficult...");
+        MsgDisp("主人公","｛柊＊＊＊｝, doing both school
+and the theatre company must be
+difficult...");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,3);
@@ -85,8 +86,8 @@ roller.");
         VoicePlay("B040521302_05_090");
         MsgDisp("Hiiragi","Yes, no matter what problem I have, you
 seem to resolve it neatly.");
-        MsgDisp("主人公","(I want ｛柊＊＊＊｝ to depend on me
-but...
+        MsgDisp("主人公","(I want ｛柊＊＊＊｝ to depend
+on me but...
 Lint roller?)");
         break ;
         default :
@@ -100,8 +101,8 @@ Lint roller?)");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040521302_05_100");
-    MsgDisp("Hiiragi","Right! I want to help with my own lint
-roller.");
+    MsgDisp("Hiiragi","Right!
+I want to help with my own lint roller.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

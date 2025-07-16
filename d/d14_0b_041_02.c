@@ -12,8 +12,7 @@ MsgDisp("","　　　　　　　　　　 ・
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_000");
-MsgDisp("Kazama","Honda...
-are you content?");
+MsgDisp("Kazama","Honda... are you content?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -41,16 +40,15 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_020");
 MsgDisp("Kazama","Hey, let's end it for today already.
 I give up...");
-MsgDisp("主人公","Today ｛七ツ森＊｝ isn't here so
-｛風真＊＊｝ is the only listener isn't
-he?");
+MsgDisp("主人公","Today ｛七ツ森＊｝ isn't
+here so ｛風真＊＊｝ is the
+only listener isn't he?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B04102_01_030");
-MsgDisp("Kazama","How are you looking
-so calm about this?");
+MsgDisp("Kazama","How are you looking so calm about this?");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -62,8 +60,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("D140B04102_03_020");
-MsgDisp("Honda","Wait, what are you 
-two talking about?");
+MsgDisp("Honda","Wait, what are you two talking about?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -92,11 +89,13 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_070");
-MsgDisp("Kazama","Haa... I now realize the importance of
+MsgDisp("Kazama","Haa...
+I now realize the importance of
 Nanatsumori.");
 MsgDisp("主人公","(Hehe, good work, ｛風真＊＊｝.
-Next time let's invite ｛七ツ森＊｝ too
-and go as a four.)");
+Next time let's invite
+｛七ツ森＊｝ too and go
+as a four.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

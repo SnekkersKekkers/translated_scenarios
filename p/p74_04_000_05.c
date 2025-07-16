@@ -12,8 +12,8 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("P740400005_04_000");
 MsgDisp("Nanatsumori","Good work.");
-MsgDisp("主人公","｛七ツ森＊｝... EVen though it was my
-last show, I failed.");
+MsgDisp("主人公","｛七ツ森＊｝...
+EVen though it was my last show, I failed.");
 VoicePlay("P740400005_04_010");
 MsgDisp("Nanatsumori","That's true.");
 ChEye(4,2);
@@ -27,8 +27,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P740400005_04_030");
-MsgDisp("Nanatsumori","Right. You just need to look perfect when
-you become a bride.");
+MsgDisp("Nanatsumori","Right.
+You just need to look perfect when you
+become a bride.");
 MsgDisp("主人公","Hehe... yes!");
 ChEye(4,3);
 ChMouth(4,3);

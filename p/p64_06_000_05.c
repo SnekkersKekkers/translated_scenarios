@@ -28,7 +28,8 @@ ChEyeOpenLevel(6,0);
 VoicePlay("P640600005_06_030");
 MsgDisp("Himuro","Well, I appreciate your enthusiasm.
 Good work these last three years.");
-MsgDisp("主人公","(Haa.. Even though it was my last cultural
+MsgDisp("主人公","(Haa..
+Even though it was my last cultural
 festival, it was a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);

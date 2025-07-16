@@ -25,14 +25,15 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P540D00000_21_010");
-MsgDisp("Michiru","Hehe. We're the ones who should be
-thanking you.");
+MsgDisp("Michiru","Hehe.
+We're the ones who should be thanking you.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P540D00000_22_010");
-MsgDisp("Hikaru","Right! We were super moved. Mari, you're
-the best▼");
+MsgDisp("Hikaru","Right!
+We were super moved.
+Mari, you're the best▼");
 MsgDisp("主人公","(Hurray!
 Seems like it went well!)");
 MsgClose();

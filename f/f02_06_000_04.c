@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it, ｛氷室＊＊｝, isn't
-your birthday coming up?");
+MsgDisp("主人公","Come to think of it, ｛氷室＊＊｝,
+isn't your birthday coming up?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -31,11 +31,11 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("F020600004_06_030");
-MsgDisp("Himuro","Is it?
-...Well, if someone were to celebrate with
-me, maybe there'd be some significance.");
-MsgDisp("主人公","｛氷室＊＊｝, do you not celebrate your
-birthday with anyone?");
+MsgDisp("Himuro","Is it? ...Well, if someone were to
+celebrate with me, maybe there'd be some
+significance.");
+MsgDisp("主人公","｛氷室＊＊｝, do you not celebrate
+your birthday with anyone?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

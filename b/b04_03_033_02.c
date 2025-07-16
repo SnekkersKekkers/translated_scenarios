@@ -75,9 +75,11 @@ Close your eyes!");
         Wait(40,1);
         MsgDisp("主人公","Uh, okay.");
         VoicePlay("B040303302_03_070");
-        MsgDisp("Honda","... Amazing! The deep-sea corner∋
-...another discovery∈");
-        MsgDisp("主人公","(I wonder what ｛本多＊＊｝ discovered?)");
+        MsgDisp("Honda","... Amazing!
+The deep-sea corner∋ ... another
+discovery∈");
+        MsgDisp("主人公","(I wonder what ｛本多＊＊｝
+discovered?)");
         break ;
         default :
         DbgAssert(1);

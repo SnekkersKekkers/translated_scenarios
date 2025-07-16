@@ -59,9 +59,11 @@ It was truly beautiful.");
     ChMotion(21,3);
     ChEyeOpenLevel(21,0);
     VoicePlay("H4A2100000_21_040");
-    MsgDisp("Michiru","Bonus points for that smile. No one can
-beat you now. Hehe!");
-    MsgDisp("主人公","(Hehe! I'm glad I stayed in the rhythmic
+    MsgDisp("Michiru","Bonus points for that smile.
+No one can beat you now.
+Hehe!");
+    MsgDisp("主人公","(Hehe!
+I'm glad I stayed in the rhythmic
 gymnastics club!)");
     BGMStop();
     MsgClose();

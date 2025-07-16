@@ -11,13 +11,15 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here's your matcha and mitarashi dango～!");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P030100000_01_000");
     MsgDisp("Kazama","Seems like business is booming.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Welcome～!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Welcome～!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -51,20 +53,22 @@ I'll take that dango set, then.");
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango..");
-    MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+    MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
     MsgClose();
     ChOpen(1,254,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("P030100000_01_040");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Welcome.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Welcome.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P030100000_01_050");
-    MsgDisp("Kazama","Amazing. The line's all the way in the
-hallway.");
+    MsgDisp("Kazama","Amazing.
+The line's all the way in the hallway.");
     MsgDisp("主人公","Yeah, it's going great!
 Please have a seat at this table.");
     ChEye(1,0);
@@ -92,10 +96,10 @@ This uniform is pretty cute.");
     ChCheek(1,7);
     VoicePlay("P030100000_01_080");
     MsgDisp("Kazama","Yeah, it's cute.
-......Geez, just get me a dango set.");
+...... Geez, just get me a dango set.");
     ChEyeOpenLevel(1,#1);
-    MsgDisp("主人公","Hehe. Alright, one dango set coming right
-up～!");
+    MsgDisp("主人公","Hehe.
+Alright, one dango set coming right up～!");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -7,8 +7,8 @@ StlMouth(22,1);
 VoicePlay("U140D00008_22_000");
 MsgDisp("Hikaru","That reminds me. Mari. You've been working
 hard on your club activities lately!");
-MsgDisp("主人公","Hehe. I feel like I've been enjoying my
-youth.");
+MsgDisp("主人公","Hehe.
+I feel like I've been enjoying my youth.");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("U140D00008_21_000");
 MsgDisp("Michiru","It's good to have something you're devoted

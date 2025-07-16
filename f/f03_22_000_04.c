@@ -26,7 +26,8 @@ ChMotion(22,4,1);
 VoicePlay("F032200000_22_180");
 MsgDisp("Hikaru","I can't sing at all, but you can leave the
 dancing to me♪");
-MsgDisp("主人公","(As expected of ｛ひかる＊｝! )");
+MsgDisp("主人公","(As expected of
+｛ひかる＊｝! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -36,8 +36,9 @@ It's different to a real matchー.");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B040218100_02_020");
-    MsgDisp("Sassa","Yeah? The athlete's point of view was
-quite realistic.");
+    MsgDisp("Sassa","Yeah?
+The athlete's point of view was quite
+realistic.");
     MsgDateResultDisp();
     break ;
     default :

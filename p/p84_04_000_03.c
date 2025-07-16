@@ -5,8 +5,9 @@ ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? The stock list says it's in
-inventory, but the shelves are empty...");
+MsgDisp("主人公","Huh?
+The stock list says it's in inventory, but
+the shelves are empty...");
 ChMotion(4,1,1);
 VoicePlay("P840400003_04_000");
 MsgDisp("Nanatsumori","Did you forget to write it?");
@@ -47,7 +48,8 @@ MsgDisp("Nanatsumori","It's nothing.
 But, it's good to work hard but you can't
 lose your concentration, you know?");
 MsgDisp("主人公","(Uugh.... I inconvenienced
-｛七ツ森＊｝. A huge failure...)");
+｛七ツ森＊｝. A huge
+failure...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

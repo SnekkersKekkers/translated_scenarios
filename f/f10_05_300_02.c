@@ -15,8 +15,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530002_05_010");
-MsgDisp("Hiiragi","Ah, that is also 
-a fun greeting.");
+MsgDisp("Hiiragi","Ah, that is also a fun greeting.");
 VoicePlay("F100530002_39_010");
 MsgDisp("Male Student B","Yoー!");
 ChEye(5,3);
@@ -24,14 +23,16 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530002_05_020");
 MsgDisp("Hiiragi","Yoー");
-MsgDisp("主人公","Hehe. Looks like you've learned another
+MsgDisp("主人公","Hehe.
+Looks like you've learned another
 greeting, ｛柊＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100530002_05_030");
-MsgDisp("Hiiragi","Yes. Fun greetings are great because they
-make everyone smile naturally.");
+MsgDisp("Hiiragi","Yes.
+Fun greetings are great because they make
+everyone smile naturally.");
 VoicePlay("F100530002_40_020");
 MsgDisp("Male Student A","I see, use it as much as you like,
 Yanosuke.");
@@ -100,11 +101,12 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100530002_05_060");
-MsgDisp("Hiiragi","Heheh. I really do enjoy the greeting
-enforcement campaign.");
-MsgDisp("主人公","(I might understand how ｛柊＊＊＊｝
-feels? Funny greetings just make you
-smile, it's nice!)");
+MsgDisp("Hiiragi","Heheh.
+I really do enjoy the greeting enforcement
+campaign.");
+MsgDisp("主人公","(I might understand how
+｛柊＊＊＊｝ feels? Funny
+greetings just make you smile, it's nice!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

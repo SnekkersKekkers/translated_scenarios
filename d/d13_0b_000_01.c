@@ -9,7 +9,8 @@ ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("D130B00001_04_000");
 MsgDisp("Nanatsumori","Ah... they're holding quite a lot of
-things. Maybe... it's there.");
+things.
+Maybe... it's there.");
 MsgDisp("主人公","Ah, you guys.
 Good morning!");
 ChEye(3,0);
@@ -32,10 +33,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D130B00001_04_010");
-MsgDisp("Nanatsumori","Were you going to 
-ask for it yourself?");
-MsgDisp("主人公","Hey, what is everyone
-talking about?");
+MsgDisp("Nanatsumori","Were you going to ask for it yourself?");
+MsgDisp("主人公","Hey, what is everyone talking about?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -69,8 +68,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D130B00001_03_030");
 VoiceEVSPlay(3);
-MsgDisp("Honda","Eh-... then, I'm going back too. See you
-later, ｛主人公｝.");
+MsgDisp("Honda","Eh-... then, I'm going back too.
+See you later, ｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 BGMStop();

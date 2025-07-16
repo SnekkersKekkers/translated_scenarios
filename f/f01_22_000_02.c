@@ -28,7 +28,8 @@ together?");
         VoicePlay("F012200002_22_010");
         MsgDisp("Hikaru","Oh, Mari!
 Going home now?");
-        MsgDisp("主人公","Yes. If it's alright, why dont' we go home
+        MsgDisp("主人公","Yes.
+If it's alright, why dont' we go home
 together?");
         break ;
         case 4:
@@ -43,8 +44,9 @@ together?");
         VoicePlay("F012200002_22_020");
         MsgDisp("Hikaru","Mari!
 What a coincidence～");
-        MsgDisp("主人公","Hehe. If it's alright, why dont' we go
-home together?");
+        MsgDisp("主人公","Hehe.
+If it's alright, why dont' we go home
+together?");
         break ;
         default :
         DbgAssert(1);

@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040523501_05_010");
-    MsgDisp("Hiiragi","Heheheh.... I'll let you experience real
-fear.");
+    MsgDisp("Hiiragi","Heheheh....
+I'll let you experience real fear.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -65,7 +65,8 @@ But beauty and fear aren't that far apart.");
         VoicePlay("B040523501_05_050");
         MsgDisp("Hiiragi","That's why...
 A perfect beauty would be terrifying...");
-        MsgDisp("主人公","Umm...｛柊＊＊＊｝?");
+        MsgDisp("主人公","Umm...
+｛柊＊＊＊｝?");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -81,8 +82,9 @@ But, what I said was genuine.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040523501_05_080");
-        MsgDisp("Hiiragi","...Yes. So to me, you are much scarier
-than this haunted house.");
+        MsgDisp("Hiiragi","... Yes.
+So to me, you are much scarier than this
+haunted house.");
         MsgDisp("主人公","Ehh?");
         ChEye(5,4);
         ChEye(5,4);
@@ -91,8 +93,7 @@ than this haunted house.");
         MsgDisp("Hiiragi","Hmm, but you're a mix of fun and cuteness,
 so I guess you're not that scary after
 all.");
-        MsgDisp("主人公","Umm, there's no need
-for the \"fun\" part.");
+        MsgDisp("主人公","Umm, there's no need for the \"fun\" part.");
         break ;
         default :
         DbgAssert(1);

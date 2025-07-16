@@ -38,8 +38,8 @@ ChMouth ( 6,4 ) ;
 ChMotion ( 6,1 ) ;
 VoicePlay ( "D150002600_06_020" ) ;
 MsgDisp ( "Himuro","While it's true that amoeba are single
-celled organisms. You're not a flip-flop,
-you're a sneaker." ) ;
+celled organisms.
+You're not a flip-flop, you're a sneaker." ) ;
 ChEye ( 2,3 ) ;
 ChMouth ( 2,3 ) ;
 ChMotion ( 2,3 ) ;
@@ -51,8 +51,8 @@ ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,4 ) ;
 VoicePlay ( "D150002600_06_030" ) ;
-MsgDisp ( "Himuro","I have to decline. That's too long for a
-nickname." ) ;
+MsgDisp ( "Himuro","I have to decline.
+That's too long for a nickname." ) ;
 ChEye ( 2,2 ) ;
 ChMouth ( 2,2 ) ;
 ChMotion ( 2,0 ) ;

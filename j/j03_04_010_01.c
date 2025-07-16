@@ -4,13 +4,17 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Oh, it's a call from ｛七ツ森＊｝. )");
+    MsgDisp("主人公","(Oh, it's a call from
+｛七ツ森＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello. It's ｛主人公苗字｝.");
+    MsgDisp("主人公","Hello.
+It's
+｛主人公苗字｝.");
     VoicePlay("J030401001_04_000");
-    MsgDisp("Nanatsumori","Oh......Nanatsumori.
+    MsgDisp("Nanatsumori","Oh......
+Nanatsumori.
 I just heard the voicemail.");
     MsgDisp("主人公","Yes?");
     VoicePlay("J030401001_04_010");
@@ -26,11 +30,14 @@ See you.");
     MsgDisp("主人公","(Hmmm, too bad......)");
     break ;
     case 3:
-    MsgDisp("主人公","(Oh, it's a call from ｛七ツ森＊｝. )");
+    MsgDisp("主人公","(Oh, it's a call from
+｛七ツ森＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello. It's ｛主人公苗字｝.");
+    MsgDisp("主人公","Hello.
+It's
+｛主人公苗字｝.");
     VoicePlay("J030401001_04_030");
     MsgDisp("Nanatsumori","Sorry about the voicemail.");
     MsgDisp("主人公","Er, well.
@@ -48,11 +55,14 @@ I'll see you later.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Oh, it's a call from ｛七ツ森＊｝. )");
+    MsgDisp("主人公","(Oh, it's a call from
+｛七ツ森＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello. It's ｛主人公苗字｝.");
+    MsgDisp("主人公","Hello.
+It's
+｛主人公苗字｝.");
     VoicePlay("J030401001_04_060");
     MsgDisp("Nanatsumori","Yo.
 Sorry I missed your call.");
@@ -62,8 +72,8 @@ What do you think?");
     VoicePlay("J030401001_04_070");
     MsgDisp("Nanatsumori","Sorry.
 I have an errand I can't miss.");
-    MsgDisp("主人公","Oh. Well, then I guess I can't blame
-you......");
+    MsgDisp("主人公","Oh.
+Well, then I guess I can't blame you......");
     VoicePlay("J030401001_04_080");
     MsgDisp("Nanatsumori","Don't make that sound.
 I'll make sure to recover it next time.

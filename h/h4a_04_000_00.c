@@ -37,7 +37,8 @@ Today's the best day ever!)");
     VoiceEVSPlay(4);
     VoicePlay("H4A0400000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! I won!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+I won!");
     VoicePlay("H4A0400000_04_040");
     MsgDisp("Nanatsumori","Oh no......");
     MsgDisp("主人公","Hm?");
@@ -61,11 +62,11 @@ It makes me almost lose my rationality.");
     ChEyeOpenLevel(4,0);
     ChCheek(4,5);
     VoicePlay("H4A0400000_04_070");
-    MsgDisp("Nanatsumori","Ugh......! If you look at me like that,
-I'll......");
-    MsgDisp("主人公","(｛七ツ森＊｝...... I'm glad I stayed
-in the rhythmic gymnastics club......
-Today's the best day ever!)");
+    MsgDisp("Nanatsumori","Ugh......!
+If you look at me like that, I'll......");
+    MsgDisp("主人公","(｛七ツ森＊｝...... I'm glad I stayed in
+the rhythmic gymnastics club...... Today's
+the best day ever!)");
     break ;
     default :
     DbgAssert(1);

@@ -6,8 +6,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611102_06_000");
-MsgDisp("Himuro","Yeah. Feels like I'm getting the hang of
-it.");
+MsgDisp("Himuro","Yeah.
+Feels like I'm getting the hang of it.");
 MsgSel("As expected of you!","I'm jealous...","Even though it's Himuro?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040611102_06_010");
-    MsgDisp("Himuro","Really? We've come here a few times, isn't
-that normal?");
+    MsgDisp("Himuro","Really?
+We've come here a few times, isn't that
+normal?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -82,8 +83,9 @@ get a feel for it that way.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040611102_06_080");
-        MsgDisp("Himuro","Ah... no. I was just thinking about how I
-wasn't that offended.");
+        MsgDisp("Himuro","Ah... no.
+I was just thinking about how I wasn't
+that offended.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -110,7 +112,8 @@ talking to...");
         ChMotion(6,0);
         VoicePlay("B040611102_06_120");
         MsgDisp("Himuro","...That's right, so it's like that.");
-        MsgDisp("主人公","Eh? What is?");
+        MsgDisp("主人公","Eh?
+What is?");
         ChEye(6,0);
         ChMouth(6,3);
         ChMotion(6,1);

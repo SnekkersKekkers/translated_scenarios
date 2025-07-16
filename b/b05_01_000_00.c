@@ -7,15 +7,17 @@ ScrFadeIn(0);
 VoicePlay("B050100000_01_001");
 MsgDisp("Kazama","This amusement park has quite the
 history...");
-MsgDisp("主人公","Yeah. But, the number of new attractions
-just keep on increasing.");
+MsgDisp("主人公","Yeah.
+But, the number of new attractions just
+keep on increasing.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100000_01_011");
 MsgDisp("Kazama","Are you the PR guy here?");
-MsgDisp("主人公","Hehe. It's because I used to come here a
-lot with my family when I was younger.");
+MsgDisp("主人公","Hehe.
+It's because I used to come here a lot
+with my family when I was younger.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -28,9 +30,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100000_01_031");
-MsgDisp("Kazama","What do you mean \"Maybe\" ...Geez.
-Alright, let's make up for that today
-okay?");
+MsgDisp("Kazama","What do you mean \"Maybe\" ...Geez. Alright,
+let's make up for that today okay?");
 MsgDisp("主人公","Yeah!");
 BGMStop();
 MsgClose();
@@ -72,15 +73,13 @@ BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 SEPlay("EV_SE_084",0);
 Wait(30,0);
-MsgDisp("主人公","...｛風真＊＊｝, do you like ferris
-wheels?");
+MsgDisp("主人公","...｛風真＊＊｝, do you like ferris wheels?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B050100000_01_010");
-MsgDisp("Kazama","Our gondola will soon
-reach the top...");
+MsgDisp("Kazama","Our gondola will soon reach the top...");
 SEPlay("EV_SE_544");
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -120,7 +119,7 @@ StlEye(1,2);
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("B050100000_01_050");
-MsgDisp("Kazama","...Geez, what am I doing.
+MsgDisp("Kazama","... Geez, what am I doing.
 EVen though this isn't something you need
 to resolve yourself to do.");
 MsgDisp("主人公","What?");
@@ -150,7 +149,8 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 Wait(10,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Haa, that was fun.
-｛風真＊＊｝, do you enjoy ferris wheels?");
+｛風真＊＊｝, do you enjoy
+ferris wheels?");
 ChClose(1,0,30);
 ChLayout(0);
 MsgClose();
@@ -195,9 +195,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100000_01_110");
-MsgDisp("Kazama","But with you here,
-anything feels right.");
-MsgDisp("主人公","｛風真＊＊｝, everyone is watching...");
+MsgDisp("Kazama","But with you here, anything feels right.");
+MsgDisp("主人公","｛風真＊＊｝, everyone is
+watching...");
 SEPlay("EV_SE_GAYA_019",0,0.9);
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0.1,0.5,0.5);
 ChClose(1,0,30);
@@ -214,8 +214,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChCheek(1,10);
 VoicePlay("B050100000_45_000");
-MsgDisp("Girl","Mommy, 
-these two just kissed.");
+MsgDisp("Girl","Mommy, these two just kissed.");
 ChEye(1,4);
 VoicePlay("B050100000_49_000");
 MsgDisp("Mom","It's not good to stare.");
@@ -233,8 +232,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,7);
 VoicePlay("B050100000_01_130");
-MsgDisp("Kazama","Whoever runs away from
-here fastest wins.");
+MsgDisp("Kazama","Whoever runs away from here fastest wins.");
 MsgDisp("主人公","Ehhh∋");
 SEPlay("EV_SE_504");
 Wait(30,0);

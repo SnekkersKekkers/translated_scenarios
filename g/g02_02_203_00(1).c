@@ -10,8 +10,7 @@ ChMotion(2,4);
 VoicePlay("G020220300_02_010");
 MsgDisp("Sassa","If you were a firefly, which would you
 prefer?");
-MsgDisp("主人公","Eh,
-if I were a firefly?");
+MsgDisp("主人公","Eh, if I were a firefly?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -23,7 +22,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("G020220300_02_030");
-MsgDisp("Sassa","Eh? That......are you talking about
+MsgDisp("Sassa","Eh?
+That...... are you talking about
 fireflies?");
 MsgDisp("主人公","Ah, maybe.");
 ChEye(2,0);
@@ -53,7 +53,8 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020220300_02_070");
 MsgDisp("Sassa","Haa, if I were a firefly, it'd be easier
 to pair up with yo......");
-MsgDisp("主人公","(What is ｛颯砂＊＊｝ talking about......)");
+MsgDisp("主人公","(What is ｛颯砂＊＊｝ talking
+about......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

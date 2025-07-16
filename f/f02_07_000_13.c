@@ -5,8 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","The school trip is 
-coming up soon.");
+MsgDisp("主人公","The school trip is coming up soon.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
@@ -31,8 +30,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700013_07_030");
-MsgDisp("Mikage","Nice～ I like that you responded
-immediately.");
+MsgDisp("Mikage","Nice～
+I like that you responded immediately.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -49,7 +48,8 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("F020700013_07_050");
 MsgDisp("Mikage","Is that...so?");
-MsgDisp("主人公","Yeah? You'll get scolded by Vice Principal
+MsgDisp("主人公","Yeah?
+You'll get scolded by Vice Principal
 Himuro again?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -67,5 +67,6 @@ VoicePlay("F020700013_07_070");
 MsgDisp("Mikage","Something else... I'll think about it.
 Sigh, I'm seriously not going to be able
 to sleep");
-MsgDisp("主人公","(It doesn't seem like ｛御影＊＊｝, is
-planning on leading...)");
+MsgDisp("主人公","(It doesn't seem like
+｛御影＊＊｝, is planning
+on leading...)");

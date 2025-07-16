@@ -20,7 +20,8 @@ VoicePlay("P543100000_31_010");
 MsgDisp("Goro","It was the best.
 I'm familiar with this song, but it's like
 I've seen a new world!");
-MsgDisp("主人公","(Yay! This is the result of practicing
+MsgDisp("主人公","(Yay!
+This is the result of practicing
 regularly!)");
 MsgClose();
 ScrFadeOut(0,0);

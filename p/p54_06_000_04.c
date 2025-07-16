@@ -31,16 +31,13 @@ ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("P540600004_06_030");
-MsgDisp("Himuro","Wait,
-please don't cry too.");
-MsgDisp("主人公","Sorry, I'm just so
-filled with emotion...");
+MsgDisp("Himuro","Wait, please don't cry too.");
+MsgDisp("主人公","Sorry, I'm just so filled with emotion...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P540600004_06_040");
-MsgDisp("Himuro","...
-Then, come here.");
+MsgDisp("Himuro","... Then, come here.");
 MsgClose();
 ChClose(6,0,30);
 SEPlay("EV_SE_FOOT_039");

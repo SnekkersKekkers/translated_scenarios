@@ -52,8 +52,8 @@ What should I do, I'm so nervous...)");
     VoiceEVSPlay(2);
     VoicePlay("P530200000_02_040");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝... It's almost time for
-the real performance.");
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
+It's almost time for the real performance.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -75,8 +75,9 @@ that.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P530200000_02_070");
-    MsgDisp("Sassa","Yeah. When that happens, I listen to the
-music I like.");
+    MsgDisp("Sassa","Yeah.
+When that happens, I listen to the music I
+like.");
     MsgDisp("主人公","But, right now I can't listen to the music
 I like...");
     ChEye(2,0);
@@ -86,7 +87,8 @@ I like...");
     MsgDisp("Sassa","What are you saying?
 After this, you're going to play it
 yourself, aren't you?");
-    MsgDisp("主人公","Eh... Ah, I see.");
+    MsgDisp("主人公","Eh...
+Ah, I see.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -103,8 +105,8 @@ don't you?");
     VoicePlay("P530200000_02_100");
     MsgDisp("Sassa","I'm looking forwards to it too.
 See you.");
-    MsgDisp("主人公","(Thanks to ｛颯砂＊＊｝, I'm looking
-forwards to playing...?
+    MsgDisp("主人公","(Thanks to ｛颯砂＊＊｝, I'm
+looking forwards to playing...?
 Yeah, I feel like I can do it!)");
     break ;
     default :

@@ -8,8 +8,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020240002_02_010");
 MsgDisp("Sassa","Have you heard that the fireflies light
-resembles 'disembodied souls'......
-you know, like the ghostly flames?");
+resembles 'disembodied souls'...... you
+know, like the ghostly flames?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,3);
@@ -42,10 +42,11 @@ ChMouth(2,2);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020240002_02_060");
-MsgDisp("Sassa","......No. After all if so many of them
-were here......");
-MsgDisp("主人公","(Seeing that ｛颯砂＊＊｝ is scared of
-ghosts is kind of cute......?)");
+MsgDisp("Sassa","...... No.
+After all if so many of them were
+here......");
+MsgDisp("主人公","(Seeing that ｛颯砂＊＊｝ is
+scared of ghosts is kind of cute......?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

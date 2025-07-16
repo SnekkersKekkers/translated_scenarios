@@ -19,8 +19,9 @@ You're setting the bar high.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600005_06_020");
-    MsgDisp("Himuro","Well, it's fine. I shouldn't be picky
-about a gift. Thanks.");
+    MsgDisp("Himuro","Well, it's fine.
+I shouldn't be picky about a gift.
+Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

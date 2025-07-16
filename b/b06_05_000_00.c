@@ -36,7 +36,7 @@ I had a good time.");
     VoicePlay("B060500000_05_020");
     MsgDisp("Hiiragi","I'm sad that our time together is coming
 to an end.
-......Ah, I said that outloud.");
+...... Ah, I said that outloud.");
     MsgDispSksp(0);
     break ;
     default :

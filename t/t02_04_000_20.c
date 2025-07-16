@@ -12,7 +12,7 @@ ChEye(4,4);
 ChMouthOpenLevel(4,#1);
 VoicePlay("T020400000_04_190");
 MsgDisp("Nanatsumori","I wanted that answer.
-......Thank you.");
+...... Thank you.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020400000_04_200");
 MsgDisp("Nanatsumori","I've moved on from being an ambiguous

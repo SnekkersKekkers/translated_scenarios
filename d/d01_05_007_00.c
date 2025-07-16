@@ -29,15 +29,17 @@ VoicePlay("D010500700_38_000");
 MsgDisp("Students","Woah, amazing!");
 SEStop("EV_SE_GAYA_025",2);
 VoicePlay("D010500700_40_020");
-MsgDisp("Male Student","It's not over yet! I bet you can't return
-this serve! ......Here!");
+MsgDisp("Male Student","It's not over yet!
+I bet you can't return this serve!
+...... Here!");
 SEPlay("EV_SE_851",0,0.8);
 Wait(30,0);
 SEPlay("EV_SE_849",0.5);
 Wait(20,0);
 VoicePlay("D010500700_05_020");
 MsgDisp("Hiiragi","Ha!");
-MsgDisp("主人公","Wow...... ｛柊＊＊＊｝, good luck!");
+MsgDisp("主人公","Wow......
+｛柊＊＊＊｝, good luck!");
 VoicePlay("D010500700_05_030");
 MsgDisp("Hiiragi","Hm?");
 VoicePlay("D010500700_05_040");
@@ -76,8 +78,9 @@ VoicePlay("D010500700_05_060");
 MsgDisp("Hiiragi","I was trying to show you a good side of
 me......I feel like I missed a once in a
 lifetime opportunity.");
-MsgDisp("主人公","Hehe. ｛柊＊＊＊｝, you're really good at
-table tennis though!");
+MsgDisp("主人公","Hehe.
+｛柊＊＊＊｝, you're really good
+at table tennis though!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -104,7 +107,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D010500700_05_100");
-MsgDisp("Hiiragi","Yeah. Why don't you tag along next time?");
+MsgDisp("Hiiragi","Yeah.
+Why don't you tag along next time?");
 MsgDisp("主人公","Sure, please teach me.");
 ChEye(5,3);
 ChMouth(5,4);

@@ -14,7 +14,8 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("H3A0300000_03_000");
 MsgDisp("Honda","......Haa!");
-MsgDisp("主人公","Huh!　What is it∋");
+MsgDisp("主人公","Huh!
+What is it∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

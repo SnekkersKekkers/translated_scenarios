@@ -15,8 +15,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630100_06_020");
-MsgDisp("Himuro","You even have good friends that
-are guys.");
+MsgDisp("Himuro","You even have good friends that are guys.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -30,9 +29,9 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630100_06_040");
 MsgDisp("Himuro","By the looks of it, you just do it
-subconsciously ...I'm jealous.");
-MsgDisp("主人公","Do you want to be friends
-with more girls?");
+subconsciously ...
+I'm jealous.");
+MsgDisp("主人公","Do you want to be friends with more girls?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -52,8 +51,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630100_06_070");
-MsgDisp("Himuro","... Nevermind, forget what I said. I'm not
-sure if it's working that well.");
+MsgDisp("Himuro","... Nevermind, forget what I said.
+I'm not sure if it's working that well.");
 MsgDisp("主人公","Huh∋");
 ChEye(6,0);
 ChMouth(6,4);

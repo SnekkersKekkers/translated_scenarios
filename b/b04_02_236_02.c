@@ -39,8 +39,7 @@ Don't say that, even as a joke.");
         ChMotion(2,4);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223602_02_020");
-        MsgDisp("Sassa","You're trying to mess
-with me aren't you?");
+        MsgDisp("Sassa","You're trying to mess with me aren't you?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -73,8 +72,8 @@ Not the all-nighter you were talking
 about.");
         MsgDisp("主人公","Hehe, yeah!
 I want to go someday.");
-        MsgDisp("主人公","(If it's with ｛颯砂＊＊｝, anywhere would
-be fun?)");
+        MsgDisp("主人公","(If it's with ｛颯砂＊＊｝,
+anywhere would be fun?)");
         break ;
         default :
         DbgAssert(1);

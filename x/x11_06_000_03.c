@@ -31,8 +31,8 @@ rhythmic gymnastics' club joint practice?");
     VoicePlay("X110600003_06_020");
     MsgDisp("Himuro","Yeah. I'm glad I went to see it. I'll be
 cheering you on from now on as well.");
-    MsgDisp("主人公","(Yay! Let's keep doing our best from now
-on!)");
+    MsgDisp("主人公","(Yay!
+Let's keep doing our best from now on!)");
     break ;
     default :
     DbgAssert(1);

@@ -7,8 +7,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040424202_04_000");
-MsgDisp("Nanatsumori","Phewー. Shall we go for a walk after
-eating?");
+MsgDisp("Nanatsumori","Phewー.
+Shall we go for a walk after eating?");
 MsgSel("Sounds good, let's go!","I still don't want to move...","Walk...?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -34,8 +34,7 @@ Let's take it easy.");
         ChMouth(4,1);
         ChMotion(4,0,1);
         VoicePlay("B040424202_04_020");
-        MsgDisp("Nanatsumori","Not yet you say, 
-when will you move?");
+        MsgDisp("Nanatsumori","Not yet you say, when will you move?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,13 +61,14 @@ Let's take it easy.");
         MsgDisp("主人公","............");
         VoicePlay("B040424202_04_050");
         MsgDisp("Nanatsumori","............");
-        MsgDisp("主人公","...Hmm.
+        MsgDisp("主人公","... Hmm.
 Oh no, looks like I fell asleep.");
-        MsgDisp("主人公","｛七ツ森＊｝ is... Ah, he's asleep.");
+        MsgDisp("主人公","｛七ツ森＊｝ is...
+Ah, he's asleep.");
         VoicePlay("B040424202_04_060");
         MsgDisp("Nanatsumori","...Mm.");
         VoicePlay("B040424202_04_070");
-        MsgDisp("Nanatsumori","...One more bite.
+        MsgDisp("Nanatsumori","... One more bite.
 Aahn....");
         MsgDisp("主人公","(Looks like he's dreaming.)");
         VoicePlay("B040424202_04_080");
@@ -98,8 +98,7 @@ Alright, open up....");
         ChMotion(4,2,1);
         VoicePlay("B040424202_04_130");
         MsgDisp("Nanatsumori","Did I...say something?");
-        MsgDisp("主人公","Umm, you were sleep 
-talking a little.");
+        MsgDisp("主人公","Umm, you were sleep talking a little.");
         ChMotion(4,0,1);
         VoicePlay("B040424202_04_140");
         MsgDisp("Nanatsumori","...What was I saying?");
@@ -110,9 +109,8 @@ saying?");
         ChMouth(4,0);
         ChMotion(4,2,1);
         VoicePlay("B040424202_04_150");
-        MsgDisp("Nanatsumori","I see.
-that's good...");
-        MsgDisp("主人公","Was it a good dream? ");
+        MsgDisp("Nanatsumori","I see. that's good...");
+        MsgDisp("主人公","Was it a good dream?");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);

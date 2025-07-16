@@ -11,8 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040404600_04_000");
-    MsgDisp("Nanatsumori","Sorry. My piano knowledge isn't the best.
-...But, I know it was amazing.");
+    MsgDisp("Nanatsumori","Sorry.
+My piano knowledge isn't the best.
+... But, I know it was amazing.");
     MsgDateResultDisp();
     break ;
     case 1:

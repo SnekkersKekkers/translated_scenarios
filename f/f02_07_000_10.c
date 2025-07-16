@@ -15,8 +15,7 @@ VoicePlay("F020700010_07_000");
 MsgDisp("Mikage","What, you're worried about that?
 It'll definitely go well.
 I guarantee it.");
-MsgDisp("主人公","That's a lot of faith 
-you have in me.");
+MsgDisp("主人公","That's a lot of faith you have in me.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -31,10 +30,12 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F020700010_07_020");
-MsgDisp("Mikage","Right? So if I say it's okay, it's okay.
+MsgDisp("Mikage","Right?
+So if I say it's okay, it's okay.
 Don't worry, just do what you can.");
-MsgDisp("主人公","Yes... But if I fail, I'll cause trouble
-for everyone..");
+MsgDisp("主人公","Yes...
+But if I fail, I'll cause trouble for
+everyone..");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -60,5 +61,5 @@ Now it's up to you to decide what shape of
 success you're going for.");
 MsgDisp("主人公","(I want to get the best possible result,
 not only for everyone, but also for
-｛御影＊＊｝ who had helped with all of
-the preparations.)");
+｛御影＊＊｝ who had
+helped with all of the preparations.)");

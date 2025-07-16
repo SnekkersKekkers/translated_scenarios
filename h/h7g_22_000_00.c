@@ -6,7 +6,8 @@ ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("H7G2200000_22_000");
 MsgDisp("Hikaru","Mari, you did it～♪");
-MsgDisp("主人公","Huh, ｛ひかる＊｝? What is it?");
+MsgDisp("主人公","Huh, ｛ひかる＊｝?
+What is it?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -40,9 +41,11 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("H7G2200000_22_050");
-MsgDisp("Hikaru","......Ah! Next time, I want you to design
-some clothes that will suit Hikaru too～▼");
-MsgDisp("主人公","(Hehe! I'm really glad I stayed in the
+MsgDisp("Hikaru","...... Ah!
+Next time, I want you to design some
+clothes that will suit Hikaru too～▼");
+MsgDisp("主人公","(Hehe!
+I'm really glad I stayed in the
 handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

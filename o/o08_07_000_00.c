@@ -5,7 +5,8 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Next is...... Ah, ｛御影＊＊｝!? )");
+    MsgDisp("主人公","(Next is......
+Ah, ｛御影＊＊｝!? )");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_000");
@@ -15,7 +16,8 @@ Isn't it such a waste?");
 Please treat me well.");
     break ;
     case 3:
-    MsgDisp("主人公","(Next is...... Huh, ｛御影＊＊｝? )");
+    MsgDisp("主人公","(Next is......
+Huh, ｛御影＊＊｝? )");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_010");
@@ -30,7 +32,8 @@ Sorry.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Next is...... Huh, ｛御影＊＊｝? )");
+    MsgDisp("主人公","(Next is......
+Huh, ｛御影＊＊｝? )");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_030");
@@ -51,8 +54,7 @@ Is that true?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O080700000_07_050");
-    MsgDisp("Mikage","That's why teachers
-participate so often.");
+    MsgDisp("Mikage","That's why teachers participate so often.");
     MsgDisp("主人公","I see.
 Let's dance.");
     break ;

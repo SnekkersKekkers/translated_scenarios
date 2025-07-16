@@ -24,7 +24,8 @@ VoicePlay("D030900500_09_010");
 MsgDisp("Kuya","Yeah. On the way here I ran into a
 pregnant woman about to have a baby, I
 went with her to the hospital.");
-MsgDisp("主人公","That's......Thank goodness!");
+MsgDisp("主人公","That's......
+Thank goodness!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,3,1);
@@ -60,10 +61,11 @@ ChMotion(9,0,1);
 ScrFadeIn(0);
 ChMotion(9,4,1);
 VoicePlay("D030900500_09_050");
-MsgDisp("Kuya","Phew...... It took us a while to get here,
-huh.");
-MsgDisp("主人公","Yeah...... I think I understand now, why
-Kuya-san is a \"Jack of All Trades\".");
+MsgDisp("Kuya","Phew......
+It took us a while to get here, huh.");
+MsgDisp("主人公","Yeah......
+I think I understand now, why Kuya-san is
+a \"Jack of All Trades\".");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

@@ -28,8 +28,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B06001_01_020");
-MsgDisp("Kazama","This is bugging me,
-...damn it.");
+MsgDisp("Kazama","This is bugging me, ...damn it.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -44,8 +43,9 @@ VoicePlay("D140B06001_01_030");
 MsgDisp("Kazama","I guess.
 Even if he understands what love is, he
 feels inexperienced with love.");
-MsgDisp("主人公","Hey. What were you two whispering about
-just now?");
+MsgDisp("主人公","Hey.
+What were you two whispering about just
+now?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

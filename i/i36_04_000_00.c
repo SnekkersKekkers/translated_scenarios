@@ -17,13 +17,13 @@ orders are......");
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400000_04_000");
     MsgDisp("Nanatsumori","Waitress.");
-    MsgDisp("主人公","Yes! Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Yes!
+Ah, ｛七ツ森＊｝.");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I360400000_04_010");
-    MsgDisp("Nanatsumori","Shouldn't you clean up
-that seat soon?");
+    MsgDisp("Nanatsumori","Shouldn't you clean up that seat soon?");
     MsgDisp("主人公","Oh no!
 That guest left a while ago......
 Thanks for telling me.");

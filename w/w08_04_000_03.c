@@ -24,8 +24,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,1,2,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080400003_04_020");
-    MsgDisp("Nanatsumori","Okay... with
-Michiru-san, huh.");
+    MsgDisp("Nanatsumori","Okay... with Michiru-san, huh.");
     break ;
     default :
     DbgAssert(1);

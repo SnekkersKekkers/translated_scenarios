@@ -1,8 +1,9 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh.. Looks like ｛風真＊＊｝ isn't here
-yet...");
+MsgDisp("主人公","Huh..
+Looks like ｛風真＊＊｝ isn't
+here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -15,8 +16,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110100002_35_010");
-MsgDisp("Guy","Eh? It's here, it's here, my money
-maker～!");
+MsgDisp("Guy","Eh?
+It's here, it's here, my money maker～!");
 MsgDisp("主人公","Eh∋
 Money maker?");
 ChEye(35,0);
@@ -29,8 +30,9 @@ MsgDisp("主人公","What does that mean?");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110100002_35_030");
-MsgDisp("Guy","Ehh∋ The kids these days are sharp. Okay,
-let's split it 50-50!");
+MsgDisp("Guy","Ehh∋
+The kids these days are sharp.
+Okay, let's split it 50-50!");
 MsgDisp("主人公","U-Um...");
 ChEye(35,0);
 ChMouth(35,0);
@@ -45,8 +47,7 @@ MsgClose();
 ChOpen(1,253,0,0,2,8,#1,0,1,0,30);
 ChMotion(1,3);
 VoicePlay("B110100002_01_000");
-MsgDisp("Kazama","Oi, what business
-do you have with her?");
+MsgDisp("Kazama","Oi, what business do you have with her?");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110100002_35_050");
@@ -116,8 +117,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B110100002_01_050");
-MsgDisp("Kazama","There are still people
-like that around.");
+MsgDisp("Kazama","There are still people like that around.");
 MsgDisp("主人公","Yeah, I feel a little sorry for him.");
 ChEye(1,4);
 ChMouth(1,3);

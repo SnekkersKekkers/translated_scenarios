@@ -4,8 +4,9 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh? ｛風真＊＊｝, good morning! Were you
-maybe waiting for me?");
+MsgDisp("主人公","Oh?
+｛風真＊＊｝, good morning!
+Were you maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -23,8 +24,8 @@ VoicePlay("D020100000_01_010");
 MsgDisp("Kazama","I guess so. When I look at you, I don't
 notice anything different. It's like you
 haven't grown at all.");
-MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
-haven't you?");
+MsgDisp("主人公","｛風真＊＊｝, you've changed a
+lot though, haven't you?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -107,14 +108,14 @@ NSSClose();
 SEStop("EV_SE_754",0.01);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
-MsgDisp("主人公","Kyaa∈
-There's a puddle here.........");
+MsgDisp("主人公","Kyaa∈ There's a puddle here.........");
 BGOpen("sc010",0);
 MsgClose();
 ChOpen(1,254,0,2,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_100");
-MsgDisp("Kazama","Ahh, geez......What are you doing?
+MsgDisp("Kazama","Ahh, geez......
+What are you doing?
 Are your socks okay?");
 MsgDisp("主人公","Yeah.........just barely.");
 MsgClose();
@@ -127,8 +128,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_110");
 MsgDisp("Kazama","That's good.
-Phew......I'm glad the splash wasn't a big
-deal.");
+Phew......
+I'm glad the splash wasn't a big deal.");
 MsgDisp("主人公","I never trip.");
 ChMotion(1,0);
 Wait(10,0);
@@ -138,8 +139,8 @@ VoicePlay("D020100000_01_120");
 MsgDisp("Kazama","You didn't just now, but I remember the
 times you did. Back in first grade you
 were a handful to take care of.");
-MsgDisp("主人公","(Ugh......I don't have a comeback for
-that.)");
+MsgDisp("主人公","(Ugh......
+I don't have a comeback for that.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEyeOpenLevel(1,#1);

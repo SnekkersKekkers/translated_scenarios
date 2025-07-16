@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040508401_05_010");
-    MsgDisp("Hiiragi","Shh,
-the fireflies will hear you!");
+    MsgDisp("Hiiragi","Shh, the fireflies will hear you!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

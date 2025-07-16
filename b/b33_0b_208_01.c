@@ -19,12 +19,11 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B20801_01_000");
 MsgDisp("Kazama","I can hear screams coming from inside?");
-MsgDisp("主人公","Hey... are we really going in? Into the
-haunted house.");
+MsgDisp("主人公","Hey... are we really going in?
+Into the haunted house.");
 ChMotion(1,0);
 VoicePlay("B330B20801_01_010");
-MsgDisp("Kazama","We're already here, m
-Might as well go in.");
+MsgDisp("Kazama","We're already here, m Might as well go in.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -37,8 +36,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoiceEVSPlay(3);
 VoicePlay("B330B20801_03_000");
-MsgDisp("Honda","｛主人公｝. There's a good way to
-overcome your fears.");
+MsgDisp("Honda","｛主人公｝.
+There's a good way to overcome your fears.");
 ChEye(1,0);
 ChMouth(1,2);
 MsgDisp("主人公","Eh?");
@@ -54,8 +53,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B20801_01_020");
-MsgDisp("Kazama","By the way, 
-just what is it?");
+MsgDisp("Kazama","By the way, just what is it?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -81,7 +79,7 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B330B20801_04_020");
 MsgDisp("Nanatsumori","Finish line?
-...What's this.");
+... What's this.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

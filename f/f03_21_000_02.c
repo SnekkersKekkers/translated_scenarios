@@ -10,9 +10,9 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F032100000_21_080");
-MsgDisp("Michiru","Ah... there is one thing? I like the
-flavour, but I can't deal with how it
-looks...");
+MsgDisp("Michiru","Ah... there is one thing?
+I like the flavour, but I can't deal with
+how it looks...");
 MsgDisp("主人公","Eh, what is it?");
 ChEye(21,0);
 ChMouth(21,4);
@@ -33,7 +33,8 @@ ChMotion(21,0);
 VoicePlay("F032100000_21_110");
 MsgDisp("Michiru","But, I like sashimi so it's a complicated
 feeling.");
-MsgDisp("主人公","(It seems like ｛みちる＊｝ doesn't
-have any likes or dislikes when it comes
-to food.)");
+MsgDisp("主人公","(It seems like
+｛みちる＊｝ doesn't have
+any likes or dislikes when it comes to
+food.)");
 BGMStop();

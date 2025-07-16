@@ -9,8 +9,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0);
     VoiceEVSPlay(2);
     VoicePlay("Q120200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, thanks for wandering around
-with me.");
+    MsgDisp("Sassa","｛主人公｝, thanks for
+wandering around with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -33,7 +33,8 @@ it to the end.");
     VoicePlay("Q120200000_02_030");
     MsgDisp("Sassa","That went by so fast.
 That was fun.");
-    MsgDisp("主人公","Yeah. It was fun to go around with you,
+    MsgDisp("主人公","Yeah.
+It was fun to go around with you,
 ｛颯砂＊＊｝.");
     ChEye(2,3);
     ChMouth(2,3);
@@ -63,8 +64,9 @@ I'm aiming for the best bath.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(Hehe! It was so much fun going around
-with you, ｛颯砂＊＊｝! )");
+    MsgDisp("主人公","(Hehe!
+It was so much fun going around with you,
+｛颯砂＊＊｝! )");
     break ;
     case 4:
     case 5:
@@ -77,13 +79,14 @@ It went by so fast, didn't it?");
     VoicePlay("Q120200000_02_070");
     MsgDisp("Sassa","Because we went ultra-max sightseeing
 together, so I'm very satisfied.");
-    MsgDisp("主人公","Hehe. I also enjoyed looking with you,
+    MsgDisp("主人公","Hehe.
+I also enjoyed looking with you,
 ｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("Q120200000_02_080");
-    MsgDisp("Sassa","......Ah, wait.
+    MsgDisp("Sassa","...... Ah, wait.
 There's one thing left.");
     MsgDisp("主人公","Eh, what?");
     ChEye(2,0);
@@ -93,8 +96,7 @@ There's one thing left.");
     MsgDisp("Sassa","Nagasaki is famous for its many hills,
 right?
 I couldn't go running there.");
-    MsgDisp("主人公","I see, 
-Nagasaki does have many hills.");
+    MsgDisp("主人公","I see, Nagasaki does have many hills.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -102,7 +104,8 @@ Nagasaki does have many hills.");
     MsgDisp("Sassa","So I think it would feel good if I could
 run with you.
 Don't you think so too?");
-    MsgDisp("主人公","Eh∋　Me too?");
+    MsgDisp("主人公","Eh∋
+Me too?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -110,8 +113,8 @@ Don't you think so too?");
     MsgDisp("Sassa","Bike renting is also an option.
 ......would be a good idea, right?");
     MsgDisp("主人公","Hehe, yeah!");
-    MsgDisp("主人公","( ｛颯砂＊＊｝...... I hope I can come back
-sometime.)");
+    MsgDisp("主人公","( ｛颯砂＊＊｝......
+I hope I can come back sometime.)");
     break ;
     default :
     DbgAssert(1);

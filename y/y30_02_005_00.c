@@ -3,7 +3,8 @@ BGOpen("ad250",0);
 BGMPlay("BGM_C02_SASSA_I",0.01);
 ScrFadeIn(0);
 SEPlay("EV_SE_769",0,0.8);
-MsgDisp("","(Arf! Arf!)");
+MsgDisp("","(Arf!
+Arf!)");
 SEStop("EV_SE_769");
 SEPlay("EV_SE_770",0,0.9);
 Wait(80,0);
@@ -20,11 +21,11 @@ MsgDisp("","But, it's different to when I was in
 Haba High...");
 SEStop("EV_SE_679");
 MsgClear();
-MsgDisp("主人公","\"Hehe! It looks like they caused
-trouble for ｛颯砂＊＊｝
-intentionally?\"");
-MsgDisp("","｛主人公名前｝. We have another member
-now.");
+MsgDisp("主人公","\"Hehe!
+It looks like they caused trouble for
+｛颯砂＊＊｝ intentionally?\"");
+MsgDisp("","｛主人公名前｝.
+We have another member now.");
 MsgDisp("","At first the dogs tilted their heads
 confusedly at her, as if saying
 \"Huh?\", but it's gotten to the point
@@ -38,7 +39,8 @@ MsgDisp("","She laughs, but dogs are sensitive to
 the pecking order within their pack.");
 MsgDisp("","...Seems like I'm below her.");
 MsgClear();
-MsgDisp("主人公","\"Hey, ｛颯砂＊＊｝. One more round?
+MsgDisp("主人公","\"Hey, ｛颯砂＊＊｝.
+One more round?
 Beach dash!\"");
 MsgDisp("","With this, surely my rank is bellow
 her.");
@@ -64,8 +66,7 @@ MsgDisp("","Haa, haa, haa, haa..
 The turnaround point is coming into
 view.");
 VoicePlay("Y300200500_02_030");
-MsgDisp("Sassa","\"Alright, turn around!
-...hm?\"");
+MsgDisp("Sassa","\"Alright, turn around! ...hm?\"");
 MsgDisp("","Over there, there's a message she
 wrote in the sand.");
 MsgClear();
@@ -90,10 +91,10 @@ her.
 Wait for me...!\"\"");
 MsgClear();
 SEPlay("EV_SE_679");
-MsgDisp("","(Arf! Arf!)
+MsgDisp("","(Arf!
+Arf!)
 (Arf Arf!)");
-MsgDisp("","...Ah, they got to hug 
-her before me.");
+MsgDisp("","...Ah, they got to hug her before me.");
 SEStop("EV_SE_679");
 BGMStop();
 MsgClear();

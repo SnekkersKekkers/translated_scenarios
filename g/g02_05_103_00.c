@@ -3,8 +3,10 @@ ChOpen(5,255,0,0,4,#1,#1,0,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("G020510300_05_000");
-MsgDisp("Hiiragi","Huh? Are they gathering around us?");
-MsgDisp("主人公","They really are......I wonder why?");
+MsgDisp("Hiiragi","Huh?
+Are they gathering around us?");
+MsgDisp("主人公","They really are......
+I wonder why?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

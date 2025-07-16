@@ -10,8 +10,8 @@ ChOpen(21,35,0,0,4,#1,#1,0,0);
 VoicePlay("I562100005_21_000");
 MsgDisp("Michiru","Have the sweets you displayed in the
 showcase already sold out?");
-MsgDisp("主人公","Ah, ｛みちる＊｝. They sold out just
-now.");
+MsgDisp("主人公","Ah, ｛みちる＊｝.
+They sold out just now.");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);

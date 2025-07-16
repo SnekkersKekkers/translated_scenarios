@@ -20,8 +20,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P540D00002_21_000");
-MsgDisp("Michiru","Truly. It was as if we were completely in
-the game's world.");
+MsgDisp("Michiru","Truly.
+It was as if we were completely in the
+game's world.");
 MsgDisp("主人公","Really?
 I'm glad!");
 ChEye(22,3);
@@ -36,8 +37,9 @@ ChMotion(21,3);
 VoicePlay("P540D00002_21_010");
 MsgDisp("Michiru","Maybe he would show off his rumored sexy
 dance, huh?");
-MsgDisp("主人公","(Yay! Looks like it went smoothly. But the
-rumored sexy dance...?)");
+MsgDisp("主人公","(Yay!
+Looks like it went smoothly.
+But the rumored sexy dance...?)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

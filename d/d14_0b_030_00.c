@@ -17,14 +17,14 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D140B03000_01_000");
-MsgDisp("Kazama","Nanatsumori, 
-you're a slow eater.");
+MsgDisp("Kazama","Nanatsumori, you're a slow eater.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B03000_04_000");
-MsgDisp("Nanatsumori","Yeah... I was told as a kid it wasn't good
-to eat quickly.");
+MsgDisp("Nanatsumori","Yeah...
+I was told as a kid it wasn't good to eat
+quickly.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -83,15 +83,14 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B03000_03_030");
-MsgDisp("Honda","Hey, she said she 
-wanted to hear it.");
+MsgDisp("Honda","Hey, she said she wanted to hear it.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("D140B03000_01_030");
-MsgDisp("Kazama","｛主人公｝. You're fine the way you
-are, right?");
+MsgDisp("Kazama","｛主人公｝.
+You're fine the way you are, right?");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

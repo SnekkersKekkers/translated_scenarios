@@ -65,7 +65,7 @@ A gift to celebrate.");
     VoicePlay("K010600100_06_050");
     MsgDisp("Himuro","Ah, I see.
 Then, I'll take it.
-......Can I open it?");
+...... Can I open it?");
     MsgDisp("主人公","Yeah, go ahead.");
     break ;
     default :

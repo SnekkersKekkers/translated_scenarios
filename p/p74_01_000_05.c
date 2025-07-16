@@ -2,8 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I fell...
-even though it was my last show...)");
+MsgDisp("主人公","(I fell... even though it was my last
+show...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -41,7 +41,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P740100005_01_040");
-MsgDisp("Kazama","...Good grief, you're impatient.
+MsgDisp("Kazama","... Good grief, you're impatient.
 That's why you fell.");
 MsgDisp("主人公","Hey!");
 ChEye(1,4);

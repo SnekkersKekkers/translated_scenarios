@@ -29,8 +29,7 @@ I'm not terribly good at singin'...");
     ChMotion(8,3,1);
     VoicePlay("B040817001_08_020");
     MsgDisp("Shirahane","Yay!
-I definitely enjoy hearin'
-you sing.");
+I definitely enjoy hearin' you sing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

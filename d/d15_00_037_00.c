@@ -18,9 +18,9 @@ ChEye ( 3,3 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150003700_03_020" ) ;
-MsgDisp ( "Honda","Yay, you're into it too! Do you have any
-experience growing tea leaves,
-Kojiro-sensei?" ) ;
+MsgDisp ( "Honda","Yay, you're into it too!
+Do you have any experience growing tea
+leaves, Kojiro-sensei?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,1 ) ;
@@ -38,10 +38,11 @@ ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,2 ) ;
 VoicePlay ( "D150003700_07_010" ) ;
-MsgDisp ( "Mikage","That's true. Which one I drink depends on
-my mood." ) ;
+MsgDisp ( "Mikage","That's true.
+Which one I drink depends on my mood." ) ;
 MsgDisp ( "主人公","Mikage-sensei, you even smell like herbs
-sometimes. The girls really like it." ) ;
+sometimes.
+The girls really like it." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,0 ) ;
@@ -52,10 +53,12 @@ ChEye ( 3,5 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,5 ) ;
 VoicePlay ( "D150003700_03_040" ) ;
-MsgDisp ( "Honda","Eh? It even increases your appeal with
-women! Herbs are really amazing!!" ) ;
-MsgDisp ( "主人公","(Hehe. ｛本多＊＊｝ is getting crazy about
-herbs.)" ) ;
+MsgDisp ( "Honda","Eh?
+It even increases your appeal with women!
+Herbs are really amazing!!" ) ;
+MsgDisp ( "主人公","(Hehe.
+｛本多＊＊｝ is getting crazy
+about herbs.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

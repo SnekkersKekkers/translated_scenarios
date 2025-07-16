@@ -31,7 +31,8 @@ VoicePlay("G110400400_04_010");
 MsgDisp("Nanatsumori","Yo.
 What's up?");
 MsgDisp("主人公","I just felt like coming here.
-｛七ツ森＊｝, are you working?");
+｛七ツ森＊｝, are you
+working?");
 ChMotion(4,2);
 VoicePlay("G110400400_04_020");
 MsgDisp("Nanatsumori","Yeah.
@@ -49,15 +50,15 @@ VoicePlay("G110400400_04_040");
 MsgDisp("Nanatsumori","Just like you did the other day.
 Give a shot for people who want new items
 and keep up with the trends.");
-MsgDisp("主人公","I see,
-wow, I'm looking forward to it.");
+MsgDisp("主人公","I see, wow, I'm looking forward to it.");
 ChMotion(4,2);
 VoicePlay("G110400400_04_050");
 MsgDisp("Nanatsumori","I'm looking forward to it too.
 Maybe you'll decide to have a date with me
 next time too.");
-MsgDisp("主人公","(A date... I see! ｛七ツ森＊｝ really
-is paying close attention after all.)");
+MsgDisp("主人公","(A date... I see!
+｛七ツ森＊｝ really is
+paying close attention after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

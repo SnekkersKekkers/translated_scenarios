@@ -29,9 +29,10 @@ StlEye(5,0);
 StlMouth(5,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, ｛御影＊＊｝...... And
-｛氷室＊＊｝∋ Uhm, is everyone practicing
-surfing?");
+MsgDisp("主人公","｛柊＊＊＊｝,
+｛御影＊＊｝...... And
+｛氷室＊＊｝∋ Uhm, is everyone
+practicing surfing?");
 StlEye(5,1);
 VoicePlay("D120C00100_05_010");
 MsgDisp("Hiiragi","Yes, when I said that I'd like to try
@@ -39,9 +40,9 @@ riding the waves, Inori took it seriously.");
 StlEye(7,2);
 StlMouth(7,0);
 VoicePlay("D120C00100_07_010");
-MsgDisp("Mikage","O......Oh, it's nice of you to come.
-Inori is really strict......
-Please say something to him.");
+MsgDisp("Mikage","O......Oh, it's nice of you to come. Inori
+is really strict...... Please say
+something to him.");
 StlEye(5,0);
 StlEye(6,0,0);
 StlEyeOpenLevel(6,5,1);
@@ -67,8 +68,7 @@ MsgDisp("Hiiragi","As you can see, we have Inori's passionate
 instruction.");
 StlEyeOpenLevel(7,0,1);
 StlEye(5,0);
-MsgDisp("主人公","Hehe, you're both getting scolded,
-huh?");
+MsgDisp("主人公","Hehe, you're both getting scolded, huh?");
 StlEye(6,2);
 StlMouth(6,0);
 VoicePlay("D120C00100_06_010");

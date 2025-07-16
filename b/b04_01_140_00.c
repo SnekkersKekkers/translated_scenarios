@@ -41,9 +41,8 @@ in having come here.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040114000_01_030");
-    MsgDisp("Kazama","Me too.
-somehow, I end up speaking louder than
-usual.");
+    MsgDisp("Kazama","Me too. somehow, I end up speaking louder
+than usual.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

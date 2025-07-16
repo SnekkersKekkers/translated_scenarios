@@ -6,11 +6,12 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010400000_04_000");
 MsgDisp("Nanatsumori","......Hello.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝? This is
-｛主人公｝......");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝?
+This is ｛主人公｝......");
 VoicePlay("C010400000_04_010");
 MsgDisp("Nanatsumori","I know who this is.
-And? What now?");
+And?
+What now?");
 MsgDisp("主人公","(Ugh, this sucks......
 But if I don't have a proper talk with him
 now......)");
@@ -29,7 +30,8 @@ MsgDisp("Nanatsumori","You're fine.
 I'm glad we could make up.
 I think I'll sleep good tonight.");
 MsgDisp("主人公","Ah...... Were you not sleeping well? Then,
-good night for now, ｛七ツ森＊｝.");
+good night for now,
+｛七ツ森＊｝.");
 VoicePlay("C010400000_04_050");
 MsgDisp("Nanatsumori","Aa, night.
 See you later.");

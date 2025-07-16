@@ -3,8 +3,9 @@ SEWait();
 ChLayout(1);
 ChOpen(3,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040302401_03_000");
-MsgDisp("Honda","Hmm...? When that person rang it earlier,
-the sound was much better.");
+MsgDisp("Honda","Hmm...?
+When that person rang it earlier, the
+sound was much better.");
 MsgSel("Maybe because they do it everyday?","This has an interesting sound too.","One more time!");
 switch (MsgSelRsltGet()){
     case 0:

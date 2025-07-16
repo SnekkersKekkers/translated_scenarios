@@ -4,8 +4,9 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh? ｛風真＊＊｝, good morning! Were you
-maybe waiting for me?");
+MsgDisp("主人公","Oh?
+｛風真＊＊｝, good morning!
+Were you maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -23,8 +24,8 @@ VoicePlay("D020100000_01_010");
 MsgDisp("Kazama","I guess so. When I look at you, I don't
 notice anything different. It's like you
 haven't grown at all.");
-MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
-haven't you?");
+MsgDisp("主人公","｛風真＊＊｝, you've changed a
+lot though, haven't you?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -78,8 +79,7 @@ MsgDisp("主人公","Hm?");
 NSSEye(1,2);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_190");
-MsgDisp("Kazama",".........
-You're way too carefree.");
+MsgDisp("Kazama","......... You're way too carefree.");
 NSSEye(1,0);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_200");
@@ -92,8 +92,7 @@ NSSClose();
 SEStop("EV_SE_754",0);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
-MsgDisp("主人公","Kyaa∈
-There's a puddle here......");
+MsgDisp("主人公","Kyaa∈ There's a puddle here......");
 BGOpen("sc100",0);
 MsgClose();
 ChOpen(1,254,0,3,2,#1,#1,0,0);
@@ -105,10 +104,12 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_220");
-MsgDisp("Kazama","Hahaha. Did you just do that on purpose?
-......Yeah, that would make sense.");
-MsgDisp("主人公","Geez. There's no way I would just step
-into a puddle on purpose......");
+MsgDisp("Kazama","Hahaha.
+Did you just do that on purpose?
+...... Yeah, that would make sense.");
+MsgDisp("主人公","Geez.
+There's no way I would just step into a
+puddle on purpose......");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);

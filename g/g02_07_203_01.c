@@ -28,8 +28,8 @@ VoicePlay("G020720301_07_030");
 MsgDisp("Mikage","Of course I do.
 If I didn't care about things like that, I
 wouldn't have this hairstyle.");
-MsgDisp("主人公","Hehe, ｛御影＊＊｝, you're popular with
-both girls and boys.
+MsgDisp("主人公","Hehe, ｛御影＊＊｝, you're
+popular with both girls and boys.
 So isn't now your \"popularity period\"?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -37,8 +37,7 @@ ChMotion(7,2);
 VoicePlay("G020720301_07_040");
 MsgDisp("Mikage","What about you?");
 MsgDisp("主人公","(｛御影＊＊｝, Is he joking or
-serious......
-or is this his inner voice?)");
+serious...... or is this his inner voice?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

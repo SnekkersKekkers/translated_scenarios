@@ -7,7 +7,8 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0400000_04_000");
     MsgDisp("Nanatsumori","You did it.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝! We won!");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+We won!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -24,7 +25,8 @@ club manager!)");
     ScrFadeIn(0);
     VoicePlay("H1A0400000_04_020");
     MsgDisp("Nanatsumori","Congrats on the win.");
-    MsgDisp("主人公","｛七ツ森＊｝...... Thank you!");
+    MsgDisp("主人公","｛七ツ森＊｝......
+Thank you!");
     VoiceEVSPlay(4);
     VoicePlay("H1A0400000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");

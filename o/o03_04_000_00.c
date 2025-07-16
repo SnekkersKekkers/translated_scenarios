@@ -42,7 +42,8 @@ Guess we're compatible?");
     VoicePlay("O030400000_04_030");
     MsgDisp("Nanatsumori","Let's pair up again if we want to get
 first place in sports.");
-    MsgDisp("主人公","(I did it! I got first place with
+    MsgDisp("主人公","(I did it!
+I got first place with
 ｛七ツ森＊｝! )");
     break ;
     case 4:
@@ -77,8 +78,8 @@ What am I saying......");
     MsgDisp("Nanatsumori","I get kinda happy and kinda nervous when
 we get along like this. My heart won't
 stop pounding...... I'm in trouble.");
-    MsgDisp("主人公","(｛七ツ森＊｝......? I'm so happy we
-won first place!)");
+    MsgDisp("主人公","(｛七ツ森＊｝......?
+I'm so happy we won first place!)");
     break ;
     default :
     DbgAssert(1);

@@ -5,8 +5,10 @@ ChMouth(4,1);
 ChMotion(4,5);
 ChCheek(4,10);
 VoicePlay("T020401000_04_260");
-MsgDisp("Nanatsumori","Wai-......Oi!");
-MsgDisp("主人公","I've always liked ｛七ツ森＊｝ too.");
+MsgDisp("Nanatsumori","Wai-......
+Oi!");
+MsgDisp("主人公","I've always liked
+｛七ツ森＊｝ too.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);

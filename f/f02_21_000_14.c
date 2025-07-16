@@ -15,16 +15,16 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F022100014_21_010");
-MsgDisp("Michiru","Mari. Will we be friends even after we
-graduate?");
+MsgDisp("Michiru","Mari.
+Will we be friends even after we graduate?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("F022100014_21_020");
 MsgDisp("Michiru","If I'm being honest, I don't want to
 graduate yet...");
-MsgDisp("主人公","｛みちる＊｝... there is one way to fix
-that");
+MsgDisp("主人公","｛みちる＊｝... there is one
+way to fix that");
 ChEye(21,0);
 ChMouth(21,5);
 ChMotion(21,0);
@@ -40,7 +40,8 @@ ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,1);
 VoicePlay("F022100014_21_050");
-MsgDisp("Michiru","No way... Mari!
+MsgDisp("Michiru","No way...
+Mari!
 Ahaha!");
 MsgDisp("主人公","Haha!");
 ChEye(21,4);

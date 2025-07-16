@@ -5,7 +5,8 @@ MsgDisp("Himuro?","Wait.");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(6,254,0,0,1,#1,#1,0,0);
-MsgDisp("主人公","Eh......｛氷室＊＊｝?");
+MsgDisp("主人公","Eh......
+｛氷室＊＊｝?");
 ChEye(6,4);
 ChMouth(6,1);
 ChMotion(6,0);
@@ -17,7 +18,7 @@ ChEye(6,4);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("T020611000_06_020");
-MsgDisp("Himuro","......Please.
+MsgDisp("Himuro","...... Please.
 Come with me.");
 MsgClose();
 ScrFadeOut(0);
@@ -28,8 +29,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf620",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This is the beach ｛氷室＊＊｝ always
-surfed at......)");
+MsgDisp("主人公","(This is the beach ｛氷室＊＊｝
+always surfed at......)");
 MsgClose();
 ScrFadeOut(0,1);
 MsgType(1);
@@ -70,7 +71,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020611000_06_070");
-MsgDisp("Himuro","But......I can't give up.
+MsgDisp("Himuro","But......
+I can't give up.
 Because of all the time we spent together.");
 MsgClear();
 ChClose(6);
@@ -80,8 +82,8 @@ SEPlay("EV_SE_557",0.2,0.6);
 ChOpen(6,254,7,4,0,10,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020611000_06_080");
-MsgDisp("Himuro","......｛主人公｝. I've always liked
-you.");
+MsgDisp("Himuro","...... ｛主人公｝.
+I've always liked you.");
 MsgDisp("主人公","!");
 ChEye(6,4);
 ChMouth(6,0);

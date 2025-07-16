@@ -36,7 +36,8 @@ at your part-time job.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(He left......
-Why did ｛御影＊＊｝ even come?)");
+Why did ｛御影＊＊｝ even
+come?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -45,10 +46,11 @@ Why did ｛御影＊＊｝ even come?)");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("I150700000_07_030");
-    MsgDisp("Mikage","Oh. You're working hard at your part-time
-job.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! Welcome. Are you
-looking for something?");
+    MsgDisp("Mikage","Oh.
+You're working hard at your part-time job.");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Welcome.
+Are you looking for something?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -85,8 +87,9 @@ good at business......");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I150700000_07_080");
-    MsgDisp("Mikage","Haa...... I'll have to cut back on the
-part-time job visits.");
+    MsgDisp("Mikage","Haa......
+I'll have to cut back on the part-time job
+visits.");
     MsgDisp("主人公","(Part-time job visits......?
 But I managed to sell a lot!)");
     MsgClose();
@@ -103,8 +106,8 @@ But I managed to sell a lot!)");
     ChMotion(7,3);
     VoicePlay("I150700000_07_090");
     MsgDisp("Mikage","Oh, working hard?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! What are you looking
-for today?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+What are you looking for today?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -139,7 +142,8 @@ Alright, show me something you recommend.");
     VoicePlay("I150700000_07_130");
     MsgDisp("Mikage","I definitely bought too much with
 this......");
-    MsgDisp("主人公","｛御影＊＊｝, are you okay?");
+    MsgDisp("主人公","｛御影＊＊｝, are you
+okay?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

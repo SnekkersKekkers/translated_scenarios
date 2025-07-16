@@ -15,7 +15,8 @@ Gardening Club...)");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630100002_01_000");
     MsgDisp("Kazama","Pardon the intrusion.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Welcome!");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Welcome!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -55,8 +56,9 @@ Gardening Club...)");
     VoicePlay("P630100002_01_040");
     MsgDisp("Kazama","Heeーh, your outfit also suits you,
 doesn't it?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝! Welcome～! I'm a cafe
-maid.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+Welcome～!
+I'm a cafe maid.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -80,8 +82,8 @@ vegetables as they are, maybe a salad?");
     ChMotion(1,0);
     VoicePlay("P630100002_01_070");
     MsgDisp("Kazama","Then, I'll have a large serving.");
-    MsgDisp("主人公","Certainly. One organic vegetable salad
-coming up!");
+    MsgDisp("主人公","Certainly.
+One organic vegetable salad coming up!");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -62,7 +62,8 @@ Mari should continue to be friendly with
 him and get rid all the thorns!");
     StlEyeOpenLevel(21,5,1);
     StlEye(22,0);
-    MsgDisp("主人公","(Eehh∋ That's how the people around me
+    MsgDisp("主人公","(Eehh∋
+That's how the people around me
 feel......?)");
     break ;
     case 4:
@@ -73,8 +74,8 @@ feel......?)");
     StlEyeOpenLevel(21,0);
     StlMouth(21,0);
     VoicePlay("U130D00005_21_030");
-    MsgDisp("Michiru","Hehe. I wonder if this will make him
-happy.");
+    MsgDisp("Michiru","Hehe.
+I wonder if this will make him happy.");
     MsgDisp("主人公","......Eh?");
     StlEye(22,0,0);
     StlEyeOpenLevel(22,5,1);
@@ -98,8 +99,9 @@ that ice wall of his.");
 doesn't have to overwork himself all the
 time.");
     StlEye(22,0);
-    MsgDisp("主人公","(｛氷室＊＊｝'s ice wall... Lately I don't
-get that feeling from him anymore... )");
+    MsgDisp("主人公","(｛氷室＊＊｝'s ice wall...
+Lately I don't get that feeling from him
+anymore... )");
     break ;
     default :
     DbgAssert(1);

@@ -12,16 +12,15 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 Wait(40,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa! There's so many lights, it's so
-pretty!");
+MsgDisp("主人公","Waa!
+There's so many lights, it's so pretty!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 ChEyeOpenLevel(7,8);
 VoicePlay("B140700100_07_000");
 MsgDisp("Mikage","Yeah, just like you yesterday.");
-MsgDisp("主人公","Hehe, 
-thank you very much.");
+MsgDisp("主人公","Hehe, thank you very much.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -48,7 +47,8 @@ ChLayout(0);
 ChEye(7,1);
 ChOpen(7,255,0,0,0,#1,#1,0,0,0,30);
 SEWait();
-MsgDisp("主人公","Eh...｛御影＊＊｝?");
+MsgDisp("主人公","Eh...
+｛御影＊＊｝?");
 ChEye(7,1);
 ChMouth(7,4);
 VoicePlay("B140700100_07_040");
@@ -66,7 +66,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,8);
 VoicePlay("B140700100_07_060");
-MsgDisp("Mikage","Heheh... I see.");
+MsgDisp("Mikage","Heheh...
+I see.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","?");

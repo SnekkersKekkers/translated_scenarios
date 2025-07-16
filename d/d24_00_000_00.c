@@ -7,8 +7,9 @@ Habatcher's Editorial Department has been
 recognized. As a result, your \"Journalist
 Level\" has increased!)");
 VoicePlay("D240000000_45_000");
-MsgDisp("Shirahane Mayo","Congrats! I'm looking forward to see what
-the future has in store for you.");
+MsgDisp("Shirahane Mayo","Congrats!
+I'm looking forward to see what the future
+has in store for you.");
 VoicePlay("D240000000_41_010");
 MsgDisp("Tanaka Shin","Let's do our best together!");
 MsgClose();

@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,0);
     ChMouth(5,3);
     VoicePlay("B040506202_05_010");
-    MsgDisp("Hiiragi","Yes. I'd warmly welcome this kind of sea
+    MsgDisp("Hiiragi","Yes.
+I'd warmly welcome this kind of sea
 swimming.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
@@ -62,17 +63,19 @@ returned.");
         ChMotion(5,0);
         VoicePlay("B040506202_05_050");
         MsgDisp("Hiiragi","Your actions are unpredictable to me.");
-        MsgDisp("主人公","Umm...
-did I surprise you?");
+        MsgDisp("主人公","Umm... did I surprise you?");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040506202_05_060");
-        MsgDisp("Hiiragi","Yes. Well, I suppose it's not just limited
-to today though.");
+        MsgDisp("Hiiragi","Yes.
+Well, I suppose it's not just limited to
+today though.");
         ChMotion(5,0);
         MsgClose();
         ChClose(5,0,30);
-        MsgDisp("主人公","Uh... ——Hm? ｛柊＊＊＊｝?");
+        MsgDisp("主人公","Uh...
+——Hm?
+｛柊＊＊＊｝?");
         VoicePlay("B040506202_05_070");
         MsgDisp("Hiiragi","Ahhーーー.");
         MsgDisp("主人公","Ehh∈");
@@ -86,14 +89,15 @@ nice voice!");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040506202_05_090");
-        MsgDisp("Hiiragi","...T-Thank you.
+        MsgDisp("Hiiragi","... T-Thank you.
 That wasn't my intention though.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040506202_05_100");
         MsgDisp("Hiiragi","Your usual unpredictability is wonderful.");
-        MsgDisp("主人公","(｛柊＊＊＊｝... But, I have mixed
-feelings about how you praised me...)");
+        MsgDisp("主人公","(｛柊＊＊＊｝...
+But, I have mixed feelings about how you
+praised me...)");
         break ;
         default :
         DbgAssert(1);

@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040602400_06_010");
     MsgDisp("Himuro","It's a bit romantic.
 The mood also gets full marks.
-...Am I wrong?");
+... Am I wrong?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +40,7 @@ Please continue the way you are.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602400_06_030");
-    MsgDisp("Himuro","Was it really that
-surprising of a sound?");
+    MsgDisp("Himuro","Was it really that surprising of a sound?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

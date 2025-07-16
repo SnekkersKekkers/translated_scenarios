@@ -38,8 +38,9 @@ impossible.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040602200_06_030");
-    MsgDisp("Himuro","Definitely. I'll never get tired of seeing
-it, seeing you in such high spirits.");
+    MsgDisp("Himuro","Definitely.
+I'll never get tired of seeing it, seeing
+you in such high spirits.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

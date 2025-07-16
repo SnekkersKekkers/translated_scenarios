@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
 MsgDisp("主人公","(A phone call.
-Ah......an private number!)");
+Ah...... an private number!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -47,7 +47,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901400_09_030");
-MsgDisp("Kuya","Ahh...... Today is a normal date with Kuya
+MsgDisp("Kuya","Ahh......
+Today is a normal date with Kuya
 Shirahane.");
 ChMotion(9,1,1);
 VoicePlay("D030901400_09_040");
@@ -77,9 +78,9 @@ ChMouth(9,0);
 ChMotion(9,2,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901400_09_060");
-MsgDisp("Kuya","Haha, isn't this nostalgic?
-On our first date......No, didn't we eat
-this during the interview?");
+MsgDisp("Kuya","Haha, isn't this nostalgic? On our first
+date......No, didn't we eat this during
+the interview?");
 MsgDisp("主人公","Yeah......");
 ChEye(9,3);
 ChMouth(9,4);
@@ -89,13 +90,13 @@ VoicePlay("D030901400_09_070");
 MsgDisp("Kuya","What's wrong?
 You're not in the mood for ice cream?");
 MsgDisp("主人公","That's not it!
-Uhm......Kuya-san, you've changed, haven't
-you?");
+Uhm......
+Kuya-san, you've changed, haven't you?");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030901400_09_080");
-MsgDisp("Kuya","......I've changed?
+MsgDisp("Kuya","...... I've changed?
 How so?");
 MsgDisp("主人公","It's because......Even though there were
 people asking for directions and asking
@@ -135,16 +136,17 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_120");
 MsgDisp("Kuya","Huh......?
 Is that maybe a bit weird?");
-MsgDisp("主人公","No...... Kuya-san, are you going to stop
-being a \"Jack of All Trades\"?");
+MsgDisp("主人公","No......
+Kuya-san, are you going to stop being a
+\"Jack of All Trades\"?");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,1,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_130");
-MsgDisp("Kuya","That's not it.
-But......I guess it's true that my work
-style in becoming more simple.");
+MsgDisp("Kuya","That's not it. But......I guess it's true
+that my work style in becoming more
+simple.");
 MsgDisp("主人公","Hehe!");
 ChEye(9,3);
 ChMouth(9,0);

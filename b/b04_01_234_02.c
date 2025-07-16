@@ -99,17 +99,15 @@ after all.");
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040123402_01_090");
-        MsgDisp("Kazama","That's why, 
-I'm making up for it now.");
+        MsgDisp("Kazama","That's why, I'm making up for it now.");
         MsgDisp("主人公","Hehe, yeah.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040123402_01_100");
-        MsgDisp("Kazama","Hey, do you want a
-second helping?");
-        MsgDisp("主人公","(｛風真＊＊｝, you were thinking of me
-even in England.)");
+        MsgDisp("Kazama","Hey, do you want a second helping?");
+        MsgDisp("主人公","(｛風真＊＊｝, you were thinking of me even
+in England.)");
         break ;
         default :
         DbgAssert(1);

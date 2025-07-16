@@ -27,8 +27,8 @@ Hey, that big one over there is cool.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040221302_02_020");
-    MsgDisp("Sassa","...So, in the future, we might end up with
-both a dog and a cat?
+    MsgDisp("Sassa","... So, in the future, we might end up
+with both a dog and a cat?
 That sounds good too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -64,8 +64,8 @@ already tough.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040221302_02_050");
-        MsgDisp("Sassa","...But, you know, the hard work also makes
-it fun.
+        MsgDisp("Sassa","... But, you know, the hard work also
+makes it fun.
 Like running together.");
         MsgDisp("主人公","I see.
 But is there a doggy that can keep up with
@@ -77,7 +77,8 @@ But is there a doggy that can keep up with
         MsgDisp("Sassa","There is, there is. Not only is there a
 dog that can match my speed, but I would
 completely lose to it too.");
-        MsgDisp("主人公","Eh? Really?");
+        MsgDisp("主人公","Eh?
+Really?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
@@ -85,9 +86,9 @@ completely lose to it too.");
         MsgDisp("Sassa","Some breeds can run at 70 kilometers per
 hour. Even the fastest humans can only do
 about 40 kilometers per hour.");
-        MsgDisp("主人公","I see.
-Then if you could beat a dog, ｛颯砂＊＊｝
-could be world champion.");
+        MsgDisp("主人公","I see. Then if you could beat a dog,
+｛颯砂＊＊｝ could be world
+champion.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -104,9 +105,8 @@ compete against the dog everyday.");
         MsgDisp("Sassa","Then you'll have to join us for the
 morning walks.
 As a witness.");
-        MsgDisp("主人公","(Hehe, walking with ｛颯砂＊＊｝ and a
-doggy every morning...
-seems fun.)");
+        MsgDisp("主人公","(Hehe, walking with ｛颯砂＊＊｝
+and a doggy every morning... seems fun.)");
         break ;
         default :
         DbgAssert(1);

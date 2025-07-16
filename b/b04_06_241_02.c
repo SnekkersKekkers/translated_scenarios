@@ -38,8 +38,8 @@ Prince Charming?");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040624102_06_030");
-        MsgDisp("Himuro","Hmm...Then maybe 
-I'll try horseriding.");
+        MsgDisp("Himuro","Hmm...
+Then maybe I'll try horseriding.");
         MsgDisp("主人公","Hehe, sounds good.");
         ChEye(6,0);
         ChMouth(6,4);
@@ -53,14 +53,12 @@ see what kind of reaction you would have.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040624102_06_050");
-        MsgDisp("Himuro","It won't become 
-that embarrassing.");
+        MsgDisp("Himuro","It won't become that embarrassing.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040624102_06_060");
-        MsgDisp("Himuro","...But, 
-if you insist...");
+        MsgDisp("Himuro","...But, if you insist...");
         MsgDisp("主人公","Really?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -74,8 +72,7 @@ the conversation!");
         ChMouth(6,2);
         ChMotion(6,4);
         VoicePlay("B040624102_06_080");
-        MsgDisp("Himuro","...Let's leave 
-it at that for now.");
+        MsgDisp("Himuro","...Let's leave it at that for now.");
         break ;
         default :
         DbgAssert(1);

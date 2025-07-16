@@ -9,7 +9,8 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("P540500001_05_000");
 MsgDisp("Hiiragi","Good work.");
-MsgDisp("主人公","｛柊＊＊＊｝... I only made mistakes...");
+MsgDisp("主人公","｛柊＊＊＊｝...
+I only made mistakes...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -30,8 +31,9 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P540500001_05_030");
 MsgDisp("Hiiragi","Come on, look ahead.");
-MsgDisp("主人公","(Ugh... I should have practiced more
-during the preparation period...)");
+MsgDisp("主人公","(Ugh...
+I should have practiced more during the
+preparation period...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

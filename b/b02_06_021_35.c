@@ -13,5 +13,4 @@ ChCheek(6,10);
 VoicePlay("B020602135_06_010");
 MsgDisp("Himuro","Why wouldn't it?
 It's proof you're doing proper research.");
-MsgDisp("主人公","(I'm glad I'm following
-the trends!)");
+MsgDisp("主人公","(I'm glad I'm following the trends!)");

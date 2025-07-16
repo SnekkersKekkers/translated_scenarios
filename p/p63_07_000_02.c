@@ -17,8 +17,9 @@ club's efforts...)");
     VoicePlay("P630700002_07_000");
     MsgDisp("Mikage","Oh, this is an extremely stylish cafe this
 year, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. There's also a lot of
-customers who've come.");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+There's also a lot of customers who've
+come.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -31,8 +32,8 @@ You guys' efforts have born fruit.");
     VoicePlay("P630700002_07_020");
     MsgDisp("Mikage","Although, first I'd like to try your
 signature items.");
-    MsgDisp("主人公","Yes. An order for the organic vegetables
-set～!");
+    MsgDisp("主人公","Yes.
+An order for the organic vegetables set～!");
     break ;
     case 4:
     case 5:
@@ -46,15 +47,15 @@ club's efforts...)");
     VoicePlay("P630700002_07_030");
     MsgDisp("Mikage","This is amazing, huh.
 Isn't it super stylish?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝! Is it really?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+Is it really?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("P630700002_07_040");
     MsgDisp("Mikage","Yeah.
 And the store clerk is too.");
-    MsgDisp("主人公","Hehe, 
-thank you very much!");
+    MsgDisp("主人公","Hehe, thank you very much!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -73,8 +74,8 @@ What would you like?");
     ChMotion(7,2);
     VoicePlay("P630700002_07_070");
     MsgDisp("Mikage","Then, I'll have your signature please!");
-    MsgDisp("主人公","Yes. An order for the organic vegetables
-set～!");
+    MsgDisp("主人公","Yes.
+An order for the organic vegetables set～!");
     break ;
     default :
     DbgAssert(1);

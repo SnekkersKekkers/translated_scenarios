@@ -56,7 +56,8 @@ What was that about?)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("J040200000_02_040");
-    MsgDisp("Sassa","｛主人公｝. I found you immediately.
+    MsgDisp("Sassa","｛主人公｝.
+I found you immediately.
 Because you stand out.");
     MsgDisp("主人公","Eh, I don't think so?
 So, what can I do for you?");
@@ -85,7 +86,8 @@ Yeah, then I guess I don't have a choice.");
         MsgDisp("Sassa","Don't apologize.
 You didn't do anything wrong.
 I'll call on you again.");
-        MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, thank you.");
+        MsgDisp("主人公","Yeah.
+｛颯砂＊＊｝, thank you.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

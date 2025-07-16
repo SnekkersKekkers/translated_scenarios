@@ -14,7 +14,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("K020601100_06_010");
 MsgDisp("Himuro","Don't mention it.
-......And, here.");
+...... And, here.");
 SEPlay("EV_SE_665");
 SEWait();
 MsgDisp("主人公","Hm?
@@ -25,8 +25,7 @@ ChMotion(6,0);
 VoicePlay("K020601100_06_020");
 MsgDisp("Himuro","It's your birthday today, right?
 So here's your present.");
-MsgDisp("主人公","!
-You remembered?");
+MsgDisp("主人公","! You remembered?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -49,8 +48,10 @@ ChCheek(6,0);
 VoicePlay("K020601100_06_050");
 VoiceEVSPlay(6);
 MsgDisp("Himuro","Well, I'm going home.
-......Happy birthday, ｛主人公｝.");
-MsgDisp("主人公","Thanks, ｛氷室＊＊｝. See you soon?");
+...... Happy birthday,
+｛主人公｝.");
+MsgDisp("主人公","Thanks, ｛氷室＊＊｝.
+See you soon?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

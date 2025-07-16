@@ -11,8 +11,7 @@ VoicePlay("B090700000_07_010");
 MsgDisp("Mikage","It's fine if you forgot, but you should
 contact me if something happened.");
 VoicePlay("B090700000_07_020");
-MsgDisp("Mikage","See you then, 
-I'm gonna wander back home.");
+MsgDisp("Mikage","See you then, I'm gonna wander back home.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","I've done it!

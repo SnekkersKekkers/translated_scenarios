@@ -37,8 +37,9 @@ Well, we'll have to come back in spring.");
     ChMotion(1,0,1);
     ChCheek(1,5);
     VoicePlay("B040108401_01_030");
-    MsgDisp("Kazama","Yeah, I think so too. This is always the
-best time. Right?");
+    MsgDisp("Kazama","Yeah, I think so too.
+This is always the best time.
+Right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -12,9 +12,10 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("H3A0100001_01_000");
-    MsgDisp("Kazama","｛主人公｝, I thought it was a good
-match.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝...... But I lost......");
+    MsgDisp("Kazama","｛主人公｝, I thought it
+was a good match.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝......
+But I lost......");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -40,8 +41,9 @@ But I really wanted to win.)");
     ScrFadeIn(0);
     VoicePlay("H3A0100001_01_030");
     MsgDisp("Kazama","Did you get hurt?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. No, I'm fine. But I lost
-that last match.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+No, I'm fine.
+But I lost that last match.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);
@@ -66,8 +68,8 @@ For worrying about me.");
     VoicePlay("H3A0100001_01_060");
     MsgDisp("Kazama","Honestly, I was scared to death.
 But you really did your best.");
-    MsgDisp("主人公","(｛風真＊＊｝...... I lost, but I'm glad I
-did my best.)");
+    MsgDisp("主人公","(｛風真＊＊｝......
+I lost, but I'm glad I did my best.)");
     break ;
     default :
     DbgAssert(1);

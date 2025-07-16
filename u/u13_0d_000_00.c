@@ -15,13 +15,13 @@ switch (ChPrmGet(1,6)){
     StlEyeOpenLevel(21,5);
     StlMouth(21,1);
     VoicePlay("U130D00000_21_000");
-    MsgDisp("Michiru","Hey, don't you two have a mutual
-love?");
+    MsgDisp("Michiru","Hey, don't you two have a mutual love?");
     MsgDisp("主人公","Ehh∋");
     StlEye(22,1);
     VoicePlay("U130D00000_22_000");
-    MsgDisp("Hikaru","Right? I wonder if Kazama-kun and Mari
-have two different definitions of \"love\"?");
+    MsgDisp("Hikaru","Right?
+I wonder if Kazama-kun and Mari have two
+different definitions of \"love\"?");
     MsgDisp("主人公","(Is there a difference between my love and
 ｛風真＊＊｝'s \"love\"?
 I wonder what that means......)");
@@ -54,8 +54,8 @@ that can't make up her mind!");
 over-the-top heroines, Kazama-kun would
 lose easily, wouldn't he?");
     StlEye(22,0);
-    MsgDisp("主人公","(If I go after ｛風真＊＊｝ more
-aggressively, would he notice it?)");
+    MsgDisp("主人公","(If I go after ｛風真＊＊｝
+more aggressively, would he notice it?)");
     break ;
     case 4:
     case 5:
@@ -72,7 +72,8 @@ aggressively, would he notice it?)");
     VoicePlay("U130D00000_22_030");
     MsgDisp("Hikaru","Aha▼
 No way, Mari.");
-    MsgDisp("主人公","Eh, huh. What?");
+    MsgDisp("主人公","Eh, huh.
+What?");
     StlEyeOpenLevel(21,5,1);
     StlMouth(21,0);
     VoicePlay("U130D00000_21_040");

@@ -38,7 +38,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 ScrFadeIn(0);
 VoicePlay("Q070D00000_21_010");
-MsgDisp("Michiru","......How is it?
+MsgDisp("Michiru","...... How is it?
 Did it come out okay?");
 ChEye(22,3);
 ChMouth(22,3);
@@ -105,8 +105,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("Q070D00000_22_060");
-MsgDisp("Hikaru","Right! Let's go to see the real one one
-day!");
+MsgDisp("Hikaru","Right!
+Let's go to see the real one one day!");
 MsgDisp("主人公","Nice idea!");
 ChEye(21,0);
 ChMouth(21,3);
@@ -173,10 +173,12 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q070D00000_22_090");
-MsgDisp("Hikaru","Yepyep. Apparently love will find you if
-you touch it, so let's search together♪");
-MsgDisp("主人公","Huh, ｛みちる＊｝, ｛ひかる＊｝, do
-you two have a crush?");
+MsgDisp("Hikaru","Yepyep.
+Apparently love will find you if you touch
+it, so let's search together♪");
+MsgDisp("主人公","Huh, ｛みちる＊｝,
+｛ひかる＊｝, do you two
+have a crush?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

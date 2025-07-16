@@ -68,9 +68,10 @@ MsgClear();
 MsgDisp("","After all, he was too shady.");
 VoicePlay("Y300400200_34_000");
 MsgDisp("Man","\"Sorry to bother you so suddenly.
-...You're seriously tall.
+... You're seriously tall.
 Do you play sports?\"");
-MsgDisp("","I don't. Sorry.
+MsgDisp("","I don't.
+Sorry.
 I mean who are you...");
 MsgClear();
 VoicePlay("Y300400200_34_010");

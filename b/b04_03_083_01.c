@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B040308301_03_010");
-    MsgDisp("Honda","?
-Sure, ask me anything.");
+    MsgDisp("Honda","? Sure, ask me anything.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

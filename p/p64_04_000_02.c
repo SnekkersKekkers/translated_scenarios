@@ -21,7 +21,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P640400002_04_020");
 MsgDisp("Nanatsumori","You're a good salesman huh.");
-MsgDisp("主人公","(Yay! The shop was a huge success!)");
+MsgDisp("主人公","(Yay!
+The shop was a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

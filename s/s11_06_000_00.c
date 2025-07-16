@@ -34,7 +34,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("S110600000_06_040");
-MsgDisp("Himuro","......anyway, let's tie it to the tree.
+MsgDisp("Himuro","...... anyway, let's tie it to the tree.
 Just in case.");
-MsgDisp("主人公","(......I guess he actually does care a
-bit?)");
+MsgDisp("主人公","(......
+I guess he actually does care a bit?)");

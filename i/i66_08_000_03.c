@@ -8,7 +8,7 @@ switch (ChPrmGet(8,6)){
     case 3:
     SEPlay("EV_SE_660");
     Wait(50,0);
-    MsgDisp("主人公","......Hm?
+    MsgDisp("主人公","...... Hm?
 The gas flap isn't opening......");
     VoicePlay("I660800003_45_000");
     MsgDisp("Woman Customer","Are you good?
@@ -45,10 +45,10 @@ I messed up......)");
     case 5:
     SEPlay("EV_SE_660");
     SEWait();
-    MsgDisp("主人公","......Hm?
+    MsgDisp("主人公","...... Hm?
 The gas flap isn't opening......");
     VoicePlay("I660800003_45_010");
-    MsgDisp("Woman Customer","......Hey, are you okay?
+    MsgDisp("Woman Customer","...... Hey, are you okay?
 Don't force it open, okay?");
     SEPlay("EV_SE_660");
     SEWait();
@@ -69,8 +69,8 @@ Right away......");
 It seems that the flap is still locked,
 could you try unlocking it once more?");
     VoicePlay("I660800003_45_020");
-    MsgDisp("Woman Customer","Ah...... sorry! I thought that it was
-unlocked......");
+    MsgDisp("Woman Customer","Ah...... sorry!
+I thought that it was unlocked......");
     SEPlay("EV_SE_661");
     SEWait();
     ChEye(8,3);
@@ -86,8 +86,8 @@ unlocked......");
     MsgDisp("Shirahane","It's easier t'see the cause if ya slow
 down and look properly.
 You can do it, yeah?");
-    MsgDisp("主人公","(｛大地＊＊｝...... Yeah, let's look
-carefully.)");
+    MsgDisp("主人公","(｛大地＊＊｝......
+Yeah, let's look carefully.)");
     break ;
     default :
     DbgAssert(1);

@@ -31,8 +31,8 @@ And we were so close......)");
     VoicePlay("O020600002_06_020");
     MsgDisp("Himuro","Huh, a tie?
 I thought you won......");
-    MsgDisp("主人公","Sorry. Even though you came to cheer for
-me......");
+    MsgDisp("主人公","Sorry.
+Even though you came to cheer for me......");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

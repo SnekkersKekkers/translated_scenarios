@@ -62,8 +62,8 @@ But I definitely can't do that...");
         ChCheek(8,5);
         VoicePlay("B040808202_08_040");
         MsgDisp("Shirahane","eh...why?");
-        MsgDisp("主人公","I want to know what ｛大地＊＊｝ is
-thinking.");
+        MsgDisp("主人公","I want to know what
+｛大地＊＊｝ is thinking.");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,4,1);

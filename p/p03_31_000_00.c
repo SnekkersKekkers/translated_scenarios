@@ -5,8 +5,9 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango～!");
-MsgDisp("主人公","(Phew...... I didn't think this many
-customers would come......)");
+MsgDisp("主人公","(Phew......
+I didn't think this many customers would
+come......)");
 MsgClose();
 ChOpen(31,254,0,0,0,0,#1,0,0);
 VoicePlay("P033100000_31_000");

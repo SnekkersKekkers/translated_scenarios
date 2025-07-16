@@ -12,7 +12,7 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B050600300_06_010");
 MsgDisp("Himuro","The look in your eyes changed.
-Do you maybe......want one?");
+Do you maybe...... want one?");
 MsgDisp("主人公","Yeah!
 But I can't get it——");
 ChEye(6,1);
@@ -29,7 +29,7 @@ MsgDisp("主人公","Eh, ｛氷室＊＊｝?");
 SEPlay("EV_SE_501",0,0.9);
 SEWait();
 VoicePlay("B050600300_06_030");
-MsgDisp("Himuro","......That's the one we're aiming for.
+MsgDisp("Himuro","...... That's the one we're aiming for.
 In that case, I'll get it in one try.");
 MsgClose();
 BGMPlay("BGM_C06_INORI_C",0.01);
@@ -47,7 +47,8 @@ StlMouth(6,0);
 VoicePlay("B050600300_06_050");
 MsgDisp("Himuro","Don't jump.
 If it swings too much, it'll fall.");
-MsgDisp("主人公","Ah......Sorry?");
+MsgDisp("主人公","Ah......
+Sorry?");
 StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
@@ -94,8 +95,8 @@ SEPlay("EV_SE_544");
 ChOpen(6,255,2,2,0,0,#1,0,0);
 VoicePlay("B050600300_06_110");
 MsgDisp("Himuro","Haa......");
-MsgDisp("主人公","Sorry? I shouldn't have said that I
-wanted——");
+MsgDisp("主人公","Sorry?
+I shouldn't have said that I wanted——");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -104,5 +105,6 @@ MsgDisp("主人公","Eh, where are you going?");
 VoicePlay("B050600300_06_120");
 MsgDisp("Himuro","Wait there.
 I'm going to exchange more money.");
-MsgDisp("主人公","(Ehh! ｛氷室＊＊｝ wants to get revenge?)");
+MsgDisp("主人公","(Ehh!
+｛氷室＊＊｝ wants to get revenge?)");
 ChPrmTblAdd(6,0);

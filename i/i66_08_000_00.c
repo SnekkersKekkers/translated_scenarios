@@ -17,7 +17,8 @@ careful.");
     VoicePlay("I660800000_45_000");
     MsgDisp("Woman Customer","Excuse me!
 The gas flap is still open!");
-    MsgDisp("主人公","Ah...... I'm sorry!");
+    MsgDisp("主人公","Ah......
+I'm sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
@@ -77,9 +78,10 @@ Sorry to bother you.");
     ChMotion(8,3,1);
     VoicePlay("I660800000_08_040");
     MsgDisp("Shirahane","Don't rush and look around properly and
-you'll be fine. 'Kay?");
-    MsgDisp("主人公","(｛大地＊＊｝...... I'll have to be more
-careful from now on.)");
+you'll be fine.
+'Kay?");
+    MsgDisp("主人公","(｛大地＊＊｝......
+I'll have to be more careful from now on.)");
     break ;
     default :
     DbgAssert(1);

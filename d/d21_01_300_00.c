@@ -24,15 +24,17 @@ VoicePlay("D220100100_31_020");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
-MsgDisp("Goro","Let's see......How about a charismatic
-salesperson at Simon's General Store?");
+MsgDisp("Goro","Let's see......
+How about a charismatic salesperson at
+Simon's General Store?");
 MsgDisp("主人公","Is that maybe——");
 VoicePlay("D220100100_31_030");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
-MsgDisp("Goro","Right. You have a close relationship with
-that person, don't you?");
+MsgDisp("Goro","Right.
+You have a close relationship with that
+person, don't you?");
 VoicePlay("D220100100_31_040");
 ChEye(31,3);
 ChMouth(31,3);
@@ -41,9 +43,9 @@ MsgDisp("Goro","Well then, let's get moving. Be safe! I'm
 looking forward to reading your lovely
 articles♪");
 MsgDisp("主人公","Y-Yes!");
-MsgDisp("主人公","(I see, if it's ｛風真＊＊｝...... Yeah. I
-think he suits the description of a
-\"wonderful and shining person\". Okay, I
+MsgDisp("主人公","(I see, if it's ｛風真＊＊｝......
+Yeah. I think he suits the description of
+a \"wonderful and shining person\". Okay, I
 have to write a great article!)");
 BGMStop();
 MsgClose();

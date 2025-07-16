@@ -10,10 +10,9 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840700000_07_000");
-MsgDisp("Mikage","Oh, 
-that seems like a content expression.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝. I heard that the
-guests praised me...");
+MsgDisp("Mikage","Oh, that seems like a content expression.");
+MsgDisp("主人公","Ah, ｛御影＊＊｝.
+I heard that the guests praised me...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

@@ -7,8 +7,8 @@ VoicePlay("G020310306_03_000");
 MsgDisp("Honda","I would have liked it if there had been a
 place like this firefly habitat when I was
 little.");
-MsgDisp("主人公","｛本多＊＊｝ would you have studied the
-fireflies?");
+MsgDisp("主人公","｛本多＊＊｝ would you have
+studied the fireflies?");
 ChSet(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310306_03_010");
@@ -26,8 +26,9 @@ ChMotion(3,1,1);
 VoicePlay("G020310306_03_030");
 MsgDisp("Honda","Hey, remember what I showed you before?
 The Ammonite-kun in marble.");
-MsgDisp("主人公","Yeah. I was surprised to find a fossil in
-the middle of the city.");
+MsgDisp("主人公","Yeah.
+I was surprised to find a fossil in the
+middle of the city.");
 ChMouth(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -60,8 +61,8 @@ ChSet(3,3);
 VoicePlay("G020310306_03_080");
 MsgDisp("Honda","Then, it's homework.
 Tell me next time, okay?");
-MsgDisp("主人公","(Somewhat, ｛本多＊＊｝ is like a spoiled
-kid......)");
+MsgDisp("主人公","(Somewhat, ｛本多＊＊｝ is like a
+spoiled kid......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

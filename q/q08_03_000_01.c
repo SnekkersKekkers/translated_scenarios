@@ -17,8 +17,9 @@ It was fun!");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("Q080300001_03_010");
-    MsgDisp("Honda","Really? Then, why not go round together
-the day after tomorrow too?");
+    MsgDisp("Honda","Really?
+Then, why not go round together the day
+after tomorrow too?");
     MsgDisp("主人公","Yeah, great.");
     break ;
     case 3:
@@ -60,7 +61,8 @@ Thanks!");
     MsgDisp("Honda","So, I'll start this time.
 The next free period, wanna walk around
 together again?");
-    MsgDisp("主人公","Yeah!　Of course.");
+    MsgDisp("主人公","Yeah!
+Of course.");
     break ;
     default :
     DbgAssert(1);

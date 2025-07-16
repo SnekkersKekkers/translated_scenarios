@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(0);
     ChSet(3,2);
     VoicePlay("B040323400_03_010");
-    MsgDisp("Honda","I've decided...
-next time...
+    MsgDisp("Honda","I've decided... next time...
 I'll go on a separate cup to you.");
     MsgDateResultDisp();
     break ;

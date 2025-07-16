@@ -11,18 +11,17 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B330A30300_47_000");
-MsgDisp("Woman Customer A","Amazing, 
-I got to see Kazama-kun!");
+MsgDisp("Woman Customer A","Amazing, I got to see Kazama-kun!");
 VoicePlay("B330A30300_48_000");
-MsgDisp("Woman Customer B","I heard you weren't on 
-shift today though.");
+MsgDisp("Woman Customer B","I heard you weren't on shift today though.");
 ChMotion(2,4);
 VoicePlay("B330A30300_01_000");
 MsgDisp("Kazama","I came to do some personal shopping today.
 See you then.");
 VoicePlay("B330A30300_47_010");
 MsgDisp("Woman Customer A","Ehhh～,you're leaving?");
-MsgDisp("主人公","｛風真＊＊｝... is super popular huh.");
+MsgDisp("主人公","｛風真＊＊｝... is super popular
+huh.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -54,8 +53,7 @@ VoicePlay("B330A30300_47_020");
 MsgDisp("Woman Customer A","He called him \"Ryota-senpai\".
 That's kind of cute.");
 VoicePlay("B330A30300_48_010");
-MsgDisp("Woman Customer B","Yeah, the red glasses
-are stylish too.");
+MsgDisp("Woman Customer B","Yeah, the red glasses are stylish too.");
 VoicePlay("B330A30300_06_030");
 MsgDisp("Himuro","...Eh?");
 MsgDisp("","　　　　　　　　　　 ・
@@ -70,8 +68,7 @@ ChOpen(1,255,0,2,2,0,#1,0,3,0,30);
 SEPlay("EV_SE_544");
 ChOpen(2,255,3,0,4,#1,#1,0,3,0,30);
 VoicePlay("B330A30300_02_020");
-MsgDisp("Sassa","Sorry to have
-kept you waiting.");
+MsgDisp("Sassa","Sorry to have kept you waiting.");
 MsgDisp("主人公","No, it's fine.");
 ChEye(1,2);
 ChMouth(1,0);
@@ -98,10 +95,10 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330A30300_06_050");
-MsgDisp("Himuro","What's with that..
-please stop...");
-MsgDisp("主人公","If ｛風真＊＊｝ and ｛氷室＊＊｝ worked
-together, things might get out of hand?");
+MsgDisp("Himuro","What's with that.. please stop...");
+MsgDisp("主人公","If ｛風真＊＊｝ and
+｛氷室＊＊｝ worked together,
+things might get out of hand?");
 ChEye(1,2);
 ChMouth(1,2);
 ChEye(2,0);
@@ -138,14 +135,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30300_06_060");
-MsgDisp("Himuro","Don't get sulky over 
-something like this.");
+MsgDisp("Himuro","Don't get sulky over something like this.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 ChClose(6,0,30);
 ChClose(2,0,30);
-MsgDisp("主人公","(Hehe! Seems like we'll finally be able to
-ddo some shopping now.)");
+MsgDisp("主人公","(Hehe!
+Seems like we'll finally be able to ddo
+some shopping now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

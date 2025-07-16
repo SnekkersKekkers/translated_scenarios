@@ -7,7 +7,8 @@ SEWait();
 VoicePlay("B090200000_02_000");
 MsgDisp("Sassa","Umm, it's Sassa.
 What was up with today?");
-MsgDisp("主人公","(It's ｛颯砂＊＊｝! Ah...)");
+MsgDisp("主人公","(It's ｛颯砂＊＊｝!
+Ah...)");
 VoicePlay("B090200000_02_010");
 MsgDisp("Sassa","I was waiting for a while, but I'm going
 home now.");

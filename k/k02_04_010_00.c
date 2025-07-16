@@ -26,15 +26,17 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("K020401000_04_020");
-MsgDisp("Nanatsumori","Well...... It's the happiest day of the
-year, right?");
+MsgDisp("Nanatsumori","Well......
+It's the happiest day of the year, right?");
 MsgDisp("主人公","Ah, that's true too, it?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("K020401000_04_030");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori","Right. Happy birthday, ｛主人公｝.");
+MsgDisp("Nanatsumori","Right.
+Happy birthday,
+｛主人公｝.");
 MsgDisp("主人公","Thanks, ｛七ツ森＊｝.");
 SEPlay("EV_SE_665");
 SEWait();

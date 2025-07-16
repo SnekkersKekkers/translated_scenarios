@@ -6,8 +6,7 @@ ChOpen(5,255,0,3,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 ChMotion(5,3);
 VoicePlay("B040523302_05_000");
-MsgDisp("Hiiragi","Haaー, 
-the inside of my mouth is parched.");
+MsgDisp("Hiiragi","Haaー, the inside of my mouth is parched.");
 MsgSel("It's because you were laughing whilst jumping","Your voice was loud?","Shall we take a break?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -46,8 +45,7 @@ fun.");
         ChMotion(5,0);
         VoicePlay("B040523302_05_030");
         MsgDisp("Hiiragi","Ah, was I the only one enjoying myself?");
-        MsgDisp("主人公","No, 
-it was scary but it was fun.");
+        MsgDisp("主人公","No, it was scary but it was fun.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,4);
@@ -85,8 +83,7 @@ No, as I thought it's scary.)");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040523302_05_080");
-    MsgDisp("Hiiragi","Yes, 
-lets drink something cold.");
+    MsgDisp("Hiiragi","Yes, lets drink something cold.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

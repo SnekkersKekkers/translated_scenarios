@@ -48,7 +48,8 @@ wedding dress.");
 and enjoy.");
     SEPlay("EV_SE_038");
     SEWait();
-    MsgDisp("主人公","｛柊＊＊＊｝... Yes, I'll enjoy it.");
+    MsgDisp("主人公","｛柊＊＊＊｝...
+Yes, I'll enjoy it.");
     ChMotion(5,0);
     VoicePlay("P730500002_05_050");
     MsgDisp("Hiiragi","I'll also be cheering you on from the
@@ -90,7 +91,8 @@ when I look at you, no words come out.");
     MsgDisp("Hiiragi","Do not fret.
 You're that wonderful that I hesitated to
 call out to you.");
-    MsgDisp("主人公","Really? I'm happy.");
+    MsgDisp("主人公","Really?
+I'm happy.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,3);

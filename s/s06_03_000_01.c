@@ -23,8 +23,7 @@ perfect score.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S060300001_03_020");
-    MsgDisp("Honda","Yepyep, 100 points makes a perfect
-score.");
+    MsgDisp("Honda","Yepyep, 100 points makes a perfect score.");
     MsgDisp("主人公","(What a relief.
 ｛本多＊＊｝ seems to like it!)");
     break ;
@@ -34,7 +33,8 @@ score.");
     ChMotion(3,3,1);
     VoicePlay("S060300001_03_030");
     MsgDisp("Honda","A kimono, kimono.");
-    MsgDisp("主人公","Yeah. What do you think?");
+    MsgDisp("主人公","Yeah.
+What do you think?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -49,7 +49,8 @@ score.");
 you're wearing a kimono, I feel like I've
 won the lottery!");
     MsgDisp("主人公","(What a relief.
-｛本多＊＊｝ seems to be really happy!)");
+｛本多＊＊｝ seems to be really
+happy!)");
     break ;
     case 4:
     case 5:
@@ -59,8 +60,8 @@ won the lottery!");
     VoicePlay("S060300001_03_060");
     MsgDisp("Honda","So, the first outfit of the year is a
 kimono.");
-    MsgDisp("主人公","Yeah
-......What do you think?");
+    MsgDisp("主人公","Yeah ......
+What do you think?");
     ChFace(3,3);
     ChMotion(3,5,1);
     VoicePlay("S060300001_03_070");
@@ -81,9 +82,10 @@ I can't even think of what to say!");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S060300001_03_100");
-    MsgDisp("Honda","Beautiful. Thank you for wearing it for
-me.");
-    MsgDisp("主人公","(｛本多＊＊｝...... He seems really happy!)");
+    MsgDisp("Honda","Beautiful.
+Thank you for wearing it for me.");
+    MsgDisp("主人公","(｛本多＊＊｝......
+He seems really happy!)");
     break ;
     default :
     DbgAssert(1);

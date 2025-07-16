@@ -17,8 +17,7 @@ MsgDisp("Nanatsumori","Thanks.");
 MsgDisp("主人公","............");
 VoicePlay("G110400601_04_010");
 MsgDisp("Nanatsumori","......What?");
-MsgDisp("主人公","Um, maybe it's none of my business,
-but...");
+MsgDisp("主人公","Um, maybe it's none of my business, but...");
 ChMotion(4,0);
 VoicePlay("G110400601_04_020");
 MsgDisp("Nanatsumori","Then don't worry about it.");

@@ -29,8 +29,7 @@ You could even see Hanegasaki beach.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040323200_03_020");
-    MsgDisp("Honda","If you're sleepy,
-you should go to sleep.");
+    MsgDisp("Honda","If you're sleepy, you should go to sleep.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +40,9 @@ you should go to sleep.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040323200_03_030");
-    MsgDisp("Honda","Really? You should say so before we get
-on, they can't stop midway.");
+    MsgDisp("Honda","Really?
+You should say so before we get on, they
+can't stop midway.");
     MsgDateResultDisp();
     break ;
     default :

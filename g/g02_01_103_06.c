@@ -6,8 +6,9 @@ VoicePlay("G020110306_01_000");
 MsgDisp("Kazama","Say you came here for the first time
 without knowing anything about the rumors.
 How do you think you'd react?");
-MsgDisp("主人公","Mmm. I'd probably be super surprised,
-shocked speechless even.");
+MsgDisp("主人公","Mmm.
+I'd probably be super surprised, shocked
+speechless even.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -46,8 +47,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110306_01_050");
-MsgDisp("Kazama","Yep. You gave me a nice reaction, and you
-made it look delicious when you ate it.");
+MsgDisp("Kazama","Yep.
+You gave me a nice reaction, and you made
+it look delicious when you ate it.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);

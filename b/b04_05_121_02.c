@@ -47,21 +47,23 @@ still for a long time.");
         ChMotion(5,0);
         VoicePlay("B040512102_05_030");
         MsgDisp("Hiiragi","Are you interested?");
-        MsgDisp("主人公","｛柊＊＊＊｝, do you not like it that
-much?");
+        MsgDisp("主人公","｛柊＊＊＊｝, do you not like it
+that much?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040512102_05_040");
         MsgDisp("Hiiragi","Yes... well, in elementary school I was
-drawn in an amusing, exaggerated manner. I
-also somehow looked like a fox.");
+drawn in an amusing, exaggerated manner.
+I also somehow looked like a fox.");
         MsgDisp("主人公","Fox...");
         ChEye(5,0);
         ChMouth(5,2);
         VoicePlay("B040512102_05_050");
-        MsgDisp("Hiiragi","Hm? Just now you made a face that looked
-as if you got it?");
-        MsgDisp("主人公","Umm... I'm sorry.");
+        MsgDisp("Hiiragi","Hm?
+Just now you made a face that looked as if
+you got it?");
+        MsgDisp("主人公","Umm...
+I'm sorry.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -110,8 +112,9 @@ Let's go.");
     ChMouth(5,0);
     ChMotion(5,2);
     VoicePlay("B040512102_05_110");
-    MsgDisp("Hiiragi","Yeah. There's nothing scarier than a piece
-of work with no price tag.");
+    MsgDisp("Hiiragi","Yeah.
+There's nothing scarier than a piece of
+work with no price tag.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -15,11 +15,13 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for taking me.
-Does ｛柊＊＊＊｝ have to work after this?");
+Does ｛柊＊＊＊｝ have to work
+after this?");
     ChMotion(5,0);
     VoicePlay("S120500001_05_050");
-    MsgDisp("Hiiragi","Yeah. Greeting everyone at the beginning
-of the New Year is an important job.");
+    MsgDisp("Hiiragi","Yeah.
+Greeting everyone at the beginning of the
+New Year is an important job.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("S120500001_05_060");
@@ -74,8 +76,9 @@ Happy New Years.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(......Should I try being a bit more
-selfish this year?)");
+    MsgDisp("主人公","(......
+Should I try being a bit more selfish this
+year?)");
     break ;
     default :
     DbgAssert(1);

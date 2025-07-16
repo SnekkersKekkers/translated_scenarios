@@ -2,8 +2,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0);
 VoicePlay("B020802000_08_000");
-MsgDisp("Shirahane","Ooh,
-ain't that a Hazuki Kei T-shirt?");
+MsgDisp("Shirahane","Ooh, ain't that a Hazuki Kei T-shirt?");
 MsgDisp("主人公","Yeah, what do you think?");
 ChEye(8,3);
 ChMouth(8,3);

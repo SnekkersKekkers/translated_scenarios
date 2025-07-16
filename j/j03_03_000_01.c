@@ -6,7 +6,8 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Uh, wait a minute.");
     MsgDisp("主人公","Was it too sudden?");
     VoicePlay("J030300001_03_010");
-    MsgDisp("Honda","...yeah. I'm not available that day.
+    MsgDisp("Honda","... yeah.
+I'm not available that day.
 Sorry.");
     MsgDisp("主人公","I see.
 Well, see you later then?");
@@ -34,12 +35,14 @@ Well, see you later then?");
     MsgDisp("Honda","Daー,that's it!");
     MsgDisp("主人公","Did you already have plans?");
     VoicePlay("J030300001_03_050");
-    MsgDisp("Honda","Yes... Oh, but, but! If I squeeze in my
-schedule, maybe......");
+    MsgDisp("Honda","Yes...
+Oh, but, but!
+If I squeeze in my schedule, maybe......");
     MsgDisp("主人公","Don't push yourself too hard!
 I'll invite you again.");
     VoicePlay("J030300001_03_060");
-    MsgDisp("Honda","Uh......I see, you're right.
+    MsgDisp("Honda","Uh......
+I see, you're right.
 So, it's a promise then∋");
     MsgDisp("主人公","Hehe, yeah.
 Well then, see you later?");

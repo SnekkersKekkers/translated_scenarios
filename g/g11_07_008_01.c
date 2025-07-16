@@ -15,8 +15,9 @@ BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝. You've brought the
-gardening club activities record.");
+MsgDisp("主人公","｛御影＊＊｝.
+You've brought the gardening club
+activities record.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -61,8 +62,9 @@ ChMotion(7,0);
 VoicePlay("G110700801_07_050");
 MsgDisp("Mikage","Even if you say that, before you know it,
 you've become okay with it.");
-MsgDisp("主人公","(Hey, there's something on ｛御影＊＊｝
-'s clothes......?)");
+MsgDisp("主人公","(Hey, there's something on
+｛御影＊＊｝ 's
+clothes......?)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(7,1,0,0,1,1);
