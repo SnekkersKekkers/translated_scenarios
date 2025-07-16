@@ -162,7 +162,7 @@ VoicePlay("T020211000_02_200");
 MsgDisp("Sassa","Right here.
 My feelings for you are so big... they
 can't ever be buried.");
-MsgDisp("主人公","！");
+MsgDisp("主人公","!");
 MsgClear();
 ChClose(2);
 SEPlay("EV_SE_628",0,0.7,0.4);

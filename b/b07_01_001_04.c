@@ -15,7 +15,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100001_01_190");
-MsgDisp("Kazama","Yeah yeah. IT's annoying for me. When I
+MsgDisp("Kazama","Yeah yeah. It's annoying for me. When I
 see someone like Haysuna up close, it
 seems stupid to take sports seriously.");
 MsgDisp("主人公","Hmmm...");

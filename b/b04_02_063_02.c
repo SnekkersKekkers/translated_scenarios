@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040206302_02_000");
 MsgDisp("Sassa","Somehow I really want to walk right on the
 edge of the water.");
-MsgSel("It'll be annoying if our shoes get wet.","Me too！","A big wave might come.");
+MsgSel("It'll be annoying if our shoes get wet.","Me too!","A big wave might come.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

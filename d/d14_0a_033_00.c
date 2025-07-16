@@ -96,7 +96,7 @@ VoicePlay("D140A03300_06_050");
 MsgDisp("Himuro","Yes, you won't understand that feeling
 unless you've stood on the waves yourself.");
 MsgDisp("主人公","(Hm?
-The atmosphere is kind of weird. )
+The atmosphere is kind of weird.)
 I wonder if I said something weird?)");
 BGMStop();
 MsgClose();

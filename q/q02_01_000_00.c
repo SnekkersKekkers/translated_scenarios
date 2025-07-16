@@ -21,7 +21,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("Q020100000_01_010");
     MsgDisp("Kazama","Hey, how about we spend the free period
 together?");
-    MsgSel("Yes, I'm coming！","Sorry, it's just......");
+    MsgSel("Yes, I'm coming!","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);
@@ -45,7 +45,7 @@ This is going to be fun!)");
         VoicePlay("Q020100000_01_040");
         MsgDisp("Kazama","Ah, is that so.
 Don't wander off and get lost.
-...... Well then.");
+......Bye.");
         MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :
@@ -68,8 +68,7 @@ Don't wander off and get lost.
     ChMotion(1,3);
     VoicePlay("Q020100000_01_060");
     MsgDisp("Kazama","Good morning.
-About the free period, have you decided
-who you're going with?");
+Have you decided who you're going with for the free period?");
     MsgDisp("主人公","No.
 ｛風真＊＊｝, have you?");
     ChEye(1,0);
@@ -78,7 +77,7 @@ who you're going with?");
     ChCheek(1,7);
     VoicePlay("Q020100000_01_070");
     MsgDisp("Kazama","I want to go with you.");
-    MsgSel("Sure, I'm coming！","Sorry, it's just......");
+    MsgSel("Sure, I'm coming!","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);

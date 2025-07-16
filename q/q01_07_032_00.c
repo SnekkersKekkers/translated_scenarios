@@ -39,8 +39,8 @@ ChMouth(7,0);
 VoicePlay("Q010703200_07_030");
 MsgDisp("Mikage","Ah......");
 VoicePlay("Q010703200_42_030");
-MsgDisp("Male Student","Yikes, it's the vice principal!
-∈ Everyone, hide!");
+MsgDisp("Male Student","Yikes, it's the Vice Principal∈
+Everyone, hide!");
 SEPlay("EV_SE_739",0,0.6);
 MsgClose();
 ScrFadeOut(0);

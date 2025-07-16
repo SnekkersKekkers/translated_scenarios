@@ -83,7 +83,7 @@ willin' to sing in front of others.");
         ChEyeOpenLevel(8,10);
         VoicePlay("B040817002_08_080");
         MsgDisp("Shirahane","There's no way I can do that∋");
-        MsgDisp("主人公","！");
+        MsgDisp("主人公","!");
         ChEye(8,4);
         ChMouth(8,0);
         ChMotion(8,4,1);

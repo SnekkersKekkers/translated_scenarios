@@ -45,7 +45,7 @@ strange face... why is that?");
 MsgDisp("","While I was thinking about that, I
 happened to pass by the park near her
 house.");
-MsgDisp("主人公","\"｛本多＊＊｝！\"");
+MsgDisp("主人公","\"｛本多＊＊｝!\"");
 MsgClear();
 MsgDisp("","From time to time, when I hear this
 voice, my chest feels warm...");

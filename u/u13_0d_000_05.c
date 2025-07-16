@@ -101,7 +101,7 @@ time.");
     StlEye(22,0);
     MsgDisp("主人公","(｛氷室＊＊｝'s ice wall...
 Lately I don't get that feeling from him
-anymore... )");
+anymore...)");
     break ;
     default :
     DbgAssert(1);

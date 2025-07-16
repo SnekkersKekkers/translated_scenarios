@@ -57,7 +57,7 @@ VoicePlay("B360750400_07_050");
 MsgDisp("Mikage","That being said, it's time we prepare to
 go home.");
 MsgDisp("主人公","(Thank you for bringing me,
-｛御影＊＊｝. )");
+｛御影＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

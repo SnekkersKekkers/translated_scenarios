@@ -45,7 +45,7 @@ VoicePlay("B150400500_04_060");
 MsgDisp("Nanatsumori","I bet.
 I'm holding you with all my strength.");
 MsgDisp("主人公","(What should I do?
-I can almost hear my heart racing... )");
+I can almost hear my heart racing...)");
 VoicePlay("B150400500_04_070");
 MsgDisp("Nanatsumori","............");
 MsgClose();

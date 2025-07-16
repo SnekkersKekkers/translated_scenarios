@@ -80,7 +80,7 @@ the supercomputer.");
         VoicePlay("B040308502_03_080");
         MsgDisp("Honda","Maybe this will pile up?");
         MsgDisp("主人公","(I'm glad I was able to see this with
-｛本多＊＊｝... )");
+｛本多＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

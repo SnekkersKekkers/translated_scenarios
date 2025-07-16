@@ -18,7 +18,7 @@ MsgDisp("主人公","O-Okay, sure.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(What's going on?
-｛風真＊＊｝...... )");
+｛風真＊＊｝......)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

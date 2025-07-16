@@ -84,7 +84,7 @@ MsgDisp("Kazama","Like I'm gonna lose to the underclassman
 who popped out of nowhere.
 You know?");
 MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝
-is talking about ｛氷室＊＊｝...... )");
+is talking about ｛氷室＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

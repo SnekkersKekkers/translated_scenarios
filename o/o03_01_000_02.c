@@ -33,7 +33,7 @@ with our legs tied together.");
     MsgDisp("主人公","Huh!?");
     MsgDisp("主人公","(Last, huh......
 Looks like something weird started in
-｛風真＊＊｝...... )");
+｛風真＊＊｝......)");
     break ;
     case 4:
     case 5:

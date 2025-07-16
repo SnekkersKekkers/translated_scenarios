@@ -73,7 +73,7 @@ ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G110101001_01_080");
 MsgDisp("Kazama","Yeah, that's right.
-IT's natural now.");
+It's natural now.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

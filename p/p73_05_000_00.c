@@ -90,7 +90,7 @@ Seems like I'm nervous after all.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500000_05_080");
-    MsgDisp("Hiiragi","I apologise.
+    MsgDisp("Hiiragi","I apologize.
 I didn't intend on putting pressure on
 you.");
     MsgDisp("主人公","No.

@@ -82,7 +82,7 @@ to bid?");
 StlEye(1,1);
 StlMouthOpenLevel(1,0);
 VoicePlay("D010100600_01_050");
-MsgDisp("Kazama","......！");
+MsgDisp("Kazama","......!");
 StlEyeOpenLevel(1,5);
 StlMouthOpenLevel(1,#1);
 MsgDisp("主人公","(Ah......

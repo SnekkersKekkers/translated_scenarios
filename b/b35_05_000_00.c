@@ -53,7 +53,7 @@ Well, I'll cool my head and go home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(Even though he went out of his way to
-invite me, I made him feel guilty... )");
+invite me, I made him feel guilty...)");
     break ;
     default :
     DbgAssert(0);

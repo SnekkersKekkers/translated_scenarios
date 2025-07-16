@@ -160,7 +160,7 @@ ChClose(5,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(We're moving on after this... Huis Ten
 Bosch was fun! Okay, I'll report back to
-｛氷室＊＊｝ now. )");
+｛氷室＊＊｝ now.)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

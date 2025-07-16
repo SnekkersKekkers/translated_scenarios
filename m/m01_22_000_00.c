@@ -8,7 +8,7 @@ BGMPlay("BGM_C22_HIKARU_A",0.01);
 ChOpen(22,255,0,0,2,#1,#1,0,0,0,90);
 VoicePlay("M012200000_22_000");
 MsgDisp("Hikaru","I'm coming iiin......");
-MsgDisp("主人公","｛ひかる＊｝ ！");
+MsgDisp("主人公","｛ひかる＊｝ !");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,4,1);

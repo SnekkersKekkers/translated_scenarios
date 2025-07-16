@@ -72,6 +72,6 @@ my head as I go home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(I wonder if I've troubled
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

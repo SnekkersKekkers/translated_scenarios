@@ -27,7 +27,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("D140D07050_21_010");
-MsgDisp("Michiru","Hikaru, you can't s ay it like that.");
+MsgDisp("Michiru","Hikaru, you can't say it like that.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

@@ -65,7 +65,7 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100440000_04_040");
-MsgDisp("Nanatsumori","＃１！");
+MsgDisp("Nanatsumori","＃１!");
 MsgDisp("主人公","(Umm, ｛本多＊＊｝ knows about
 ｛七ツ森＊｝'s true
 identity...?)");

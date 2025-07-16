@@ -4,7 +4,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message.
-It's from ｛風真＊＊｝...... )");
+It's from ｛風真＊＊｝......)");
 MsgDisp("主人公","(\"After the lights go off, meet me in the
 lobby.\"......Just that? I wonder what he's
 up to......)");

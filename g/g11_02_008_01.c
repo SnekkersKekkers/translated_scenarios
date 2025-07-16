@@ -1,6 +1,6 @@
 BGOpen("sc608",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew, Finally, the calculation of the
+MsgDisp("主人公","(Phew, finally, the calculation of the
 club expenses is finished......)");
 SEPlay("EV_SE_DOOR_013");
 SEWait();

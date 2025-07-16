@@ -38,7 +38,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520201_05_050");
-MsgDisp("Hiiragi","I apologise, please do not say any more.
+MsgDisp("Hiiragi","I apologize, please do not say any more.
 I would still like to leave some room for
 my delusions.");
 ChMotion(5,1);

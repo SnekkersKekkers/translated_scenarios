@@ -3,7 +3,7 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛七ツ森＊｝ ！");
+    MsgDisp("主人公","｛七ツ森＊｝ !");
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
 around together for today's free period?");
     break ;
     case 3:
-    MsgDisp("主人公","｛七ツ森＊｝ ！");
+    MsgDisp("主人公","｛七ツ森＊｝ !");
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
@@ -27,7 +27,7 @@ Won't you come with me this the free time?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛七ツ森＊｝ ！");
+    MsgDisp("主人公","｛七ツ森＊｝ !");
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
@@ -46,7 +46,7 @@ So I was thinking...");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("Q040400000_04_040");
-    MsgDisp("Nanatsumori","...I have my hopes up.");
+    MsgDisp("Nanatsumori","...You're getting my hopes up.");
     MsgDisp("主人公","Hehe!
 Wanna come with me this free period?");
     break ;

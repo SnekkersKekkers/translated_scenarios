@@ -42,4 +42,4 @@ MsgDisp("Nanatsumori","Well, I guess gender has nothing to do
 with it.");
 MsgDisp("主人公","(Uh......
 Even then, I'm no match for
-｛七ツ森＊｝...... )");
+｛七ツ森＊｝......)");

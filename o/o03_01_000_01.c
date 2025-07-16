@@ -74,8 +74,7 @@ Well, you didn't get hurt, so it's okay.");
     MsgDisp("Kazama","Then should we blend in during the next
 race?");
     MsgDisp("主人公","(We didn't win, but it was fun
-participating with ｛風真＊＊｝.
-)");
+participating with ｛風真＊＊｝.)");
     break ;
     default :
     DbgAssert(1);

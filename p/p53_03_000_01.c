@@ -98,7 +98,7 @@ development");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P530300001_03_100");
-    MsgDisp("Honda","BUt players enjoy them.
+    MsgDisp("Honda","But players enjoy them.
 It makes the game more interesting.");
     ChEye(3,0);
     ChMouth(3,0);

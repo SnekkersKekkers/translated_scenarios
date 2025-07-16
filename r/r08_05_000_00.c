@@ -102,7 +102,7 @@ Is this a surprise play∋");
 StlEye(5,2);
 StlMouth(5,2);
 VoicePlay("R080500000_05_110");
-MsgDisp("Hiiragi","......！");
+MsgDisp("Hiiragi","......!");
 VoicePlay("R080500000_44_000");
 MsgDisp("School Girl","Really∋
 I want to see!");

@@ -51,7 +51,7 @@ MsgDisp("Hiiragi","Yeah......
 I see.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","(Your family is enjoying it too.
-That's great, ｛柊＊＊＊｝...... )");
+That's great, ｛柊＊＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

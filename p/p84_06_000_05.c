@@ -20,7 +20,7 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("P840600005_06_010");
-MsgDisp("Himuro","Instead of apologising, run after her.
+MsgDisp("Himuro","Instead of apologizing, run after her.
 You'll lose sight of her like that.");
 MsgDisp("主人公","Ah, yes!");
 MsgClose();

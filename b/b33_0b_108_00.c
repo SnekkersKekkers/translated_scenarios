@@ -71,7 +71,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,5,1);
 VoicePlay("B330B10800_04_020");
-MsgDisp("Nanatsumori","ＯＫ！");
+MsgDisp("Nanatsumori","ＯＫ!");
 ChSet(3,3);
 VoicePlay("B330B10800_03_020");
 MsgDisp("Honda","Let's go!");

@@ -60,6 +60,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
 MsgDisp("主人公","(Seems like I worried
-｛七ツ森＊｝... )");
+｛七ツ森＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

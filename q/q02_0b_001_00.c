@@ -30,7 +30,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q020B00100_01_010");
 MsgDisp("Kazama","You're coming, right?");
-MsgSel("Yes, I'm coming！","Sorry, it's just......");
+MsgSel("Yes, I'm coming!","Sorry, it's just......");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,0);
@@ -45,7 +45,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("Q020B00100_03_010");
-    MsgDisp("Honda","Yey!
+    MsgDisp("Honda","Yay!
 This will get fun.");
     ChEye(4,1);
     ChMouth(4,3);
@@ -104,8 +104,7 @@ I guess it can't be helped.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("Q020B00100_03_030");
-    MsgDisp("Honda","Well then, off we go!
-I hope you enjoy the free period too!");
+    MsgDisp("Honda","Off we go, then! I hope you enjoy the free period!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
     ChClose(3,0,30);

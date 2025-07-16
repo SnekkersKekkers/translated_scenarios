@@ -16,7 +16,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("Q040300001_03_010");
     MsgDisp("Honda","Hm, nice idea!
 With you, it sure will be fun.");
-    MsgDisp("主人公","Well then, that's settled.");
+    MsgDisp("主人公","That's settled, then.");
     break ;
     case 4:
     case 5:

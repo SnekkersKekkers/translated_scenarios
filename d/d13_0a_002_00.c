@@ -120,7 +120,7 @@ ChClose(6,0,30);
 MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝
 and ｛氷室＊＊｝ says. You'll come
 home soon, won't you
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChLayout(1);

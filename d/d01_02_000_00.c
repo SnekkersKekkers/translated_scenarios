@@ -113,7 +113,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D010200000_02_130");
 MsgDisp("Sassa","......Maybe that was too much.");
-MsgDisp("主人公","！");
+MsgDisp("主人公","!");
 SEPlay("EV_SE_580");
 BGMStop();
 MsgClose();

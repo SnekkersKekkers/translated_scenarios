@@ -10,14 +10,14 @@ MsgDisp("Hiiragi","From the disorderly queues of the food
 stalls, several different aromas and
 sounds overflow and mix together, I like
 this atmosphere.");
-MsgDisp("主人公","Yeah, t gets you excited huh?");
+MsgDisp("主人公","It's exciting, isn't it?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B040506400_05_010");
 MsgDisp("Hiiragi","I've visited the festivals of many towns.
 Each one had their own unique
 characteristics... I really enjoyed it.");
-MsgDisp("主人公","Heehー, is that so!");
+MsgDisp("主人公","Ehhー Really?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B040506400_05_020");

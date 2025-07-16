@@ -17,7 +17,7 @@ wasn't home to see him...
 Wonder how he's changed?)");
 MsgDisp("主人公","(He might look different now, but I bet
 he's still the same smart, lively boy I
-knew. )");
+knew.)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0,0);

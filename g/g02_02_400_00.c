@@ -56,7 +56,7 @@ here.
 Firefly record.");
 MsgDisp("主人公","(Hehe, I would be happy if I could have
 another wonderful memory with
-｛颯砂＊＊｝. )");
+｛颯砂＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

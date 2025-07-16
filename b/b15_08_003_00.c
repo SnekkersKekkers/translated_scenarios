@@ -19,7 +19,7 @@ ChCheek(8,6);
 VoicePlay("B150800300_08_020");
 MsgDisp("Shirahane","I can't really say it but...
 I like that about you.");
-MsgDisp("主人公","！");
+MsgDisp("主人公","!");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);

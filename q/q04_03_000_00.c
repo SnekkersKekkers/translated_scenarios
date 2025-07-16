@@ -53,34 +53,33 @@ together with me?");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q040300000_03_040");
-    MsgDisp("Honda","｛主人公｝, 'morning!");
+    MsgDisp("Honda","｛主人公｝, morning!");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("Q040300000_03_050");
-    MsgDisp("Honda","'Getting greeted with 'good morning' by
+    MsgDisp("Honda","Getting a 'good morning' from
 you outside of school is pretty
 refreshing!");
-    MsgDisp("主人公","Yeah, I guess so?
-We're in a hotel lobby after all.");
+    MsgDisp("主人公","Really?
+I guess it's because we're in a hotel?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("Q040300000_03_060");
     MsgDisp("Honda","Exactly.
-Doesn't it feel like the two of us went on
-a leisure trip?");
-    MsgDisp("主人公","Hehe, it's a weird feeling, isn't it?
-...Oh, right! If you're fine with it, I
-was thinking we could go around together
-for the free time period.");
+Doesn't it feel like the two of us are
+on a trip together?");
+    MsgDisp("主人公","Hehe, it's a strange feeling, isn't it?
+...Oh, right! If it's fine with you, want to hang out
+during the free period?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("Q040300000_03_070");
     MsgDisp("Honda","Aww, that's what I was going to say!");
-    MsgDisp("主人公","Eh? so that means......");
+    MsgDisp("主人公","Eh? So that means......");
     break ;
     default :
     DbgAssert(1);

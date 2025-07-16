@@ -96,7 +96,7 @@ I'll make sure to accept your feelings in
 my stomach.");
     MsgDisp("主人公","(Aah, I wish I had made them better......
 I feel bad for
-｛御影＊＊｝...... )");
+｛御影＊＊｝......)");
     MsgClose();
     BGMStop();
     MsgClose();

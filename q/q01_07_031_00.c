@@ -46,8 +46,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q010703100_07_050");
-MsgDisp("Mikage","You too, go have fun back in your room!
-Or better yet, go to sleep!");
+MsgDisp("Mikage","You should go have fun in your room too! Or better yet, go to sleep!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","Okay!");

@@ -71,7 +71,7 @@ The beautiful sea fairy of Habataki City,
 Little Miss Clione, huh?");
         MsgDisp("主人公","I-I think you're mistaken...");
         VoicePlay("B040103202_01_050");
-        MsgDisp("Kazama?","Ｇｏ　ａｗａｙ！");
+        MsgDisp("Kazama?","Ｇｏ　ａｗａｙ!");
         SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
         SEWait();
         ChPosition(33,1);
@@ -109,7 +109,7 @@ an instant. You stand out way too much.
 From here on, you can't stand around
 alone.");
         MsgDisp("主人公","(That's not realistic,
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

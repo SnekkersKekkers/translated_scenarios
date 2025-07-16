@@ -86,7 +86,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","｛柊＊＊＊｝......");
 StlEyeOpenLevel(5,10,1);
 VoicePlay("D010500300_05_060");
-MsgDisp("Hiiragi","！");
+MsgDisp("Hiiragi","!");
 StlEyeOpenLevel(5,#1);
 VoicePlay("D010500300_05_070");
 MsgDisp("Hiiragi","......I didn't want you to see me like

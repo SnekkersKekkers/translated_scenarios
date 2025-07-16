@@ -40,7 +40,7 @@ environments.");
         ChMotion(3,4);
         VoicePlay("B040303202_03_030");
         MsgDisp("Honda","No, no. I'm the one who should be
-apologising. Viewing deep-sea creatures in
+apologizing. Viewing deep-sea creatures in
 above-ground tanks is already pretty
 absurd.");
         MsgDisp("主人公","Yeah, I guess so.");

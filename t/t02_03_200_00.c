@@ -30,7 +30,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_030");
 MsgDisp("Honda","Turns out that was you.");
-MsgDisp("主人公","......！");
+MsgDisp("主人公","......!");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);

@@ -27,8 +27,7 @@ Well then, let's go!");
     MsgDisp("Nanatsumori","That's what I was waiting for.");
     ChMotion(4,1,1);
     VoicePlay("Q040400001_04_030");
-    MsgDisp("Nanatsumori","I sure am coming.
-Should we leave right now?");
+    MsgDisp("Nanatsumori","I'm definitely coming. Should we leave right now?");
     MsgDisp("主人公","Yeah!");
     break ;
     default :

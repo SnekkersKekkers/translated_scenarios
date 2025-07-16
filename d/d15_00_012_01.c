@@ -38,7 +38,7 @@ MsgDisp ( "Kazama","Eh.........?" ) ;
 ChEye ( 2,5 ) ;
 ChMouth ( 2,5 ) ;
 ChMotion ( 2,5 ) ;
-ChEyeOpenLevel ( 2, - 1 ) ;
+ChEyeOpenLevel ( 2, #1 ) ;
 ChCheek ( 2,8 ) ;
 VoicePlay ( "D150001201_02_020" ) ;
 MsgDisp ( "Sassa","Ah.........?" ) ;

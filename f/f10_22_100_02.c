@@ -65,8 +65,7 @@ VoicePlay("F102210002_22_050");
 MsgDisp("Hikaru","Aha▼
 I'm glad it had a happy ending!");
 MsgDisp("主人公","(Yeah, looks like everyone was happy
-thanks to ｛ひかる＊｝!
-)");
+thanks to ｛ひかる＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

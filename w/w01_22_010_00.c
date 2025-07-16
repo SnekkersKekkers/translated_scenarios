@@ -17,7 +17,7 @@ VoicePlay("W012201000_22_010");
 MsgDisp("Hikaru","Ehehe, Hikaru's inviting other people too.
 You'll see who♪
 So, how about it?");
-MsgSel("Yeah, let's go！","Sorry, I have some errands to run");
+MsgSel("Yeah, let's go!","Sorry, I have some errands to run");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("W012201000_22_020");

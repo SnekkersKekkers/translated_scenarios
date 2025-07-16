@@ -58,7 +58,7 @@ report.");
     ChClose(7);
     MsgDisp("主人公","(Hehe! That was so much fun. I want to
 write about it. Thank you,
-｛御影＊＊｝. )");
+｛御影＊＊｝.)");
     break ;
     case 4:
     case 5:

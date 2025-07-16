@@ -76,7 +76,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,5,1);
 VoicePlay("B330B10801_04_020");
-MsgDisp("Nanatsumori","ＧＯ！");
+MsgDisp("Nanatsumori","ＧＯ!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);

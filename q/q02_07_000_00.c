@@ -7,8 +7,7 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     VoicePlay("Q020700000_42_000");
-    MsgDisp("Male Student","Sorry, Mr.
-Mikage.
+    MsgDisp("Male Student","Sorry, Mikage-sensei.
 We have other plans...");
     VoicePlay("Q020700000_44_000");
     MsgDisp("School Girl","Us too, we're really sorry......");
@@ -116,7 +115,7 @@ Chapter' sound to you?");
     ChMotion(7,0);
     VoicePlay("Q020700000_07_110");
     MsgDisp("Mikage","At this moment, there are no participants.");
-    MsgSel("Yes, please！","Um, I'll pass.");
+    MsgSel("Yes, please!","Um, I'll pass.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(7,0);
@@ -148,9 +147,7 @@ spend this free period together with him!)");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("Q020700000_07_150");
-        MsgDisp("Mikage","I knew it......
-You've come this far, and if I were you,
-I'd also say no to a lesson for sure......");
+        MsgDisp("Mikage","I knew it...Coming all this way just to attend a lesson? I'd say no too, I guess.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
         MsgDisp("主人公","(Hmmm......

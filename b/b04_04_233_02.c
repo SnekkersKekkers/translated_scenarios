@@ -66,7 +66,7 @@ always show a different world.");
         ChMouth(4,2);
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_060");
-        MsgDisp("Nanatsumori","！");
+        MsgDisp("Nanatsumori","!");
         MsgDisp("主人公","Sometimes it's gentle, sometimes scary,
 you can also sometimes feel something sad
 about it. Of course, there's sexy too.");

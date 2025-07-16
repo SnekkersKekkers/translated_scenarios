@@ -33,7 +33,7 @@ ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,5,1);
 VoicePlay("D130B00002_04_000");
-MsgDisp("Nanatsumori","！");
+MsgDisp("Nanatsumori","!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

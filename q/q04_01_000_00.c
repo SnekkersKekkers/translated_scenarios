@@ -30,7 +30,7 @@ today's free period?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Where is ｛風真＊＊｝...... )");
+    MsgDisp("主人公","(Where is ｛風真＊＊｝......)");
     VoiceEVSPlay(1);
     VoicePlay("Q040100000_01_020");
     MsgDisp("Kazama?","｛主人公｝.");
@@ -52,9 +52,7 @@ the same time though.");
     VoicePlay("Q040100000_01_040");
     MsgDisp("Kazama","Nope, I was a millisecond faster in
 spotting you first.");
-    MsgDisp("主人公","Come on......
-For today's free period, can we go
-together?");
+    MsgDisp("主人公","Geez... For today's free period, do you want to go together?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);

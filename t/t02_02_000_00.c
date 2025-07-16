@@ -173,7 +173,7 @@ VoicePlay("T020200000_02_220");
 MsgDisp("Sassa","It's because I love you.
 It's because I love you so much that I can
 run at full speed.");
-MsgDisp("主人公","！");
+MsgDisp("主人公","!");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,7);

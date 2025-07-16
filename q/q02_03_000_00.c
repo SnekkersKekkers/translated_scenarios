@@ -27,7 +27,7 @@ Mhm, yes I did.
     MsgDisp("Honda","Me too.
 As the well-slept duo, let's go together
 for today's free period!");
-    MsgSel("Sure, I'm coming！","Sorry, it's just......");
+    MsgSel("Sure, I'm coming!","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,3);
@@ -86,7 +86,7 @@ I was looking for you!");
 for the free period? I've already
 perfected a simulation on the best routes
 to take and all, so what do you think?");
-    MsgSel("Sure, I'm coming！","Sorry, it's just......");
+    MsgSel("Sure, I'm coming!","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,3);
@@ -121,9 +121,7 @@ going around together");
         ChMouth(3,3);
         ChMotion(3,0,1);
         VoicePlay("Q020300000_03_110");
-        MsgDisp("Honda","It can't be helped, I'll follow Plan B
-instead.
-So, have fun on your end too.");
+        MsgDisp("Honda","I guess I'll switch to Plan B. Have fun on your end, too.");
         MsgDisp("主人公","(He even invited me, I feel bad......)");
         break ;
         default :

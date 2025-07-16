@@ -6,7 +6,7 @@ switch (ChPrmGet(3,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛本多＊＊｝. )");
+Ah, it's ｛本多＊＊｝.)");
     MsgClose();
     ChOpen(3,30,1,0,3,#1,#1,0,0);
     VoicePlay("O080300000_03_000");
@@ -14,7 +14,7 @@ Ah, it's ｛本多＊＊｝. )");
     break ;
     case 3:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛本多＊＊｝. )");
+Ah, it's ｛本多＊＊｝.)");
     MsgClose();
     ChOpen(3,30,1,4,3,#1,#1,0,0);
     VoicePlay("O080300000_03_010");
@@ -24,7 +24,7 @@ I don't mind if you step on me, though.");
     case 4:
     case 5:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛本多＊＊｝. )");
+Ah, it's ｛本多＊＊｝.)");
     MsgClose();
     ChOpen(3,30,3,3,3,#1,#1,0,0);
     VoicePlay("O080300000_03_020");

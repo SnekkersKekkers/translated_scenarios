@@ -44,7 +44,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 MsgDisp("主人公","(Sigh... I should have checked the stock
 beforehand. I caused trouble for
-｛颯砂＊＊｝... )");
+｛颯砂＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

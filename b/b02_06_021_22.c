@@ -11,7 +11,7 @@ ChEyeOpenLevel(6,8);
 ChCheek(6,10);
 VoicePlay("B020602122_06_010");
 MsgDisp("Himuro","Ugh∋
-, I'm not an idiot.");
+I'm not an idiot.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

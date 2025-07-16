@@ -64,7 +64,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B070300001_03_570");
 MsgDisp("Honda","This... wait, let me take a deep breath!");
 MsgDisp("主人公","(Looks like my nervousness has spread to
-｛本多＊＊｝... )");
+｛本多＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -13,7 +13,7 @@ You look excited.");
 around with me?");
     break ;
     case 3:
-    MsgDisp("主人公","｛御影＊＊｝ ！");
+    MsgDisp("主人公","｛御影＊＊｝ !");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
@@ -35,7 +35,7 @@ around with me?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛御影＊＊｝ ！");
+    MsgDisp("主人公","｛御影＊＊｝ !");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
@@ -51,9 +51,7 @@ You look excited today.");
     MsgDisp("Mikage","Yeah, thanks to the cheerful greeting, I'm
 fully awake.
 So, what's up?");
-    MsgDisp("主人公","Yes.
-For today's free period, could you look
-around with me?");
+    MsgDisp("主人公","Do you want to hang out together during today's free period?");
     break ;
     default :
     DbgAssert(1);

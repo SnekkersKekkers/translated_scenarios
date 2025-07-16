@@ -1,7 +1,7 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's kind of empty today.
-Not even ｛七ツ森＊｝ is
+Not even ｛七ツ森＊｝ seems to be
 here...)");
 MsgClose();
 SEPlay("EV_SE_DOOR_014");
@@ -12,7 +12,7 @@ BGMPlay("BGM_C04_NANA_A");
 ChLayout(1);
 ChNanaType(0);
 ChOpen(4,255,0,2,1,#1,#1,0,0,0,60);
-MsgDisp("主人公","Welco... me?
+MsgDisp("主人公","Welcome?
 Huh?");
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -24,8 +24,8 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 SEWait();
 VoicePlay("G110400703_04_010");
-MsgDisp("Nanatsumori","Excuse me, master.
-Can I use your changing room.");
+MsgDisp("Nanatsumori","Excuse me, Owner.
+Can I use your changing room?");
 MsgClose();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -48,7 +48,7 @@ ChEye(4,5);
 ChMouth(4,1);
 ChMotion(4,5,1);
 VoicePlay("G110400703_04_030");
-MsgDisp("Nanatsumori","No way, someone is calling∋");
+MsgDisp("Nanatsumori","No way, someone's calling me∋");
 MsgClose();
 SEStop("EV_SE_579",0);
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -86,17 +86,17 @@ ChNanaType(1);
 ChOpen(4,100,1,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400703_04_050");
-MsgDisp("Nanatsumori","The schedule for a shoot was moved by a
-week...");
-MsgDisp("主人公","Aah!
-Was it like today, next week?
+MsgDisp("Nanatsumori","The photo shoot has been rescheduled for a
+week from now...");
+MsgDisp("主人公","Ah!
+It was moved to next week?
 Either way, that's a relief.");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("G110400703_04_060");
 MsgDisp("Nanatsumori","That's what happened.
-I didn't want to be late or anything.");
+I didn't want to be late.");
 MsgDisp("主人公","Hehe.
 Please take this time for yourself today
 then.");

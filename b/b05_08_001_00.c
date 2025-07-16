@@ -137,7 +137,7 @@ ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_170");
-MsgDisp("Shirahane","... BUt, I'm fired up now!
+MsgDisp("Shirahane","... But, I'm fired up now!
 Thanks to that senior!");
 MsgDisp("主人公","He's a wonderful senpai isn't he?");
 ChEye(8,3);

@@ -92,7 +92,7 @@ He's setting his sights on it......");
 key is to have the same goals.
 Good luck♪");
     MsgDisp("主人公","(The same goals as
-｛大地＊＊｝...... )");
+｛大地＊＊｝......)");
     break ;
     default :
     DbgAssert(1);

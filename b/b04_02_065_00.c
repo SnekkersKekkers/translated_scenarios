@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040206500_02_000");
 MsgDisp("Sassa","You can really feel it in your body when
 you're this close!");
-MsgSel("A summer tradition to color the night sky！　Tamaya～！","Ah, look！It's shaped like a heart∈","I'm sad it's ending.");
+MsgSel("A summer tradition to color the night sky!　Tamaya～!","Ah, look!It's shaped like a heart∈","I'm sad it's ending.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

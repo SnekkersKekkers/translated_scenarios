@@ -25,7 +25,7 @@ Yes, and you ｛柊＊＊＊｝?");
     VoicePlay("Q020500000_05_020");
     MsgDisp("Hiiragi","Would you mind spending the free period
 period today with me?");
-    MsgSel("Sure, I'm coming！","Sorry, it's just......");
+    MsgSel("Sure, I'm coming!","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,4);
@@ -145,8 +145,7 @@ surroundings.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
-        MsgDisp("主人公","(He even invited me, I fell a bit
-bad......)");
+        MsgDisp("主人公","He even invited me, I feel a bit bad...");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

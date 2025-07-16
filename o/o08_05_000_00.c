@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛柊＊＊＊｝. )");
+Ah, it's ｛柊＊＊＊｝.)");
     MsgClose();
     ChOpen(5,30,0,0,4,#1,#1,0,0);
     VoicePlay("O080500000_05_000");
@@ -16,7 +16,7 @@ Shall we?");
     break ;
     case 3:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛柊＊＊＊｝. )");
+Ah, it's ｛柊＊＊＊｝.)");
     MsgClose();
     ChOpen(5,30,0,0,4,#1,#1,0,0);
     VoicePlay("O080500000_05_010");
@@ -30,7 +30,7 @@ you, the sports festival is truly great.");
     case 4:
     case 5:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛柊＊＊＊｝. )");
+Ah, it's ｛柊＊＊＊｝.)");
     MsgClose();
     ChOpen(5,30,0,4,4,#1,#1,0,0);
     VoicePlay("O080500000_05_030");

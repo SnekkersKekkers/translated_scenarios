@@ -44,8 +44,7 @@ up the wharf roaches.");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306201_03_030");
     MsgDisp("Honda","Three, two, one!
-Blue～
-, Blue Grotto!");
+Blue～Blue Grotto!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

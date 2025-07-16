@@ -27,7 +27,7 @@ ChEye(5,0);
 VoicePlay("B070500001_05_460");
 MsgDisp("Hiiragi","Even if you were to carelessly say \"Let's
 not hang out anymore!\"
-, I think we may be surprisingly stubborn.");
+I think we may be surprisingly stubborn.");
 MsgDisp("主人公","Eh?
 I wouldn't say that!");
 ChMouth(5,4);

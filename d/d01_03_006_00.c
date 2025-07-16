@@ -77,7 +77,7 @@ VoicePlay("D010300600_03_080");
 MsgDisp("Honda","Have I gone crazy?
 I like you so much that I've finally lost
 it?");
-MsgDisp("主人公","！");
+MsgDisp("主人公","!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);

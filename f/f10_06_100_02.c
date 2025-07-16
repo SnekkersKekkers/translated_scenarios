@@ -98,6 +98,6 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100610002_06_080");
 MsgDisp("Himuro","This is the worst...");
-MsgDisp("主人公","(My condolences, ｛氷室＊＊｝... )");
+MsgDisp("主人公","(My condolences, ｛氷室＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

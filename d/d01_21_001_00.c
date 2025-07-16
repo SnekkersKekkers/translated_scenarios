@@ -70,8 +70,7 @@ MsgDisp("Michiru","...... Mmm, delicious!
 I'd say it's a great success▼");
 MsgDisp("主人公","(｛みちる＊｝ looks really happy! I think
 these sweets will be successful! As
-expected of ｛みちる＊｝......!
-)");
+expected of ｛みちる＊｝......!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

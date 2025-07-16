@@ -146,7 +146,7 @@ VoicePlay("D010600300_06_150");
 MsgDisp("Himuro","No comment.");
 MsgDisp("主人公","(Hehe!
 I'm glad I was able to make such wonderful
-memories with ｛氷室＊＊｝...... )");
+memories with ｛氷室＊＊｝......)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);

@@ -36,7 +36,7 @@ MsgDisp("Sassa","Really though, running, jumping, and
 throwing.
 Track and field has it all.");
 MsgDisp("主人公","(Any sport is good for
-｛颯砂＊＊｝. )");
+｛颯砂＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

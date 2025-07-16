@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛風真＊＊｝. )");
+Ah, it's ｛風真＊＊｝.)");
     MsgClose();
     ChOpen(1,30,0,0,2,#1,#1,0,0);
     ChEye(1,4);
@@ -17,7 +17,7 @@ Ah, it's ｛風真＊＊｝. )");
     break ;
     case 3:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛風真＊＊｝. )");
+Ah, it's ｛風真＊＊｝.)");
     MsgClose();
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     VoicePlay("O080100000_01_010");
@@ -35,7 +35,7 @@ and doing this weird dance.");
     case 4:
     case 5:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛風真＊＊｝. )");
+Ah, it's ｛風真＊＊｝.)");
     MsgClose();
     ChOpen(1,30,0,2,3,#1,#1,0,0);
     ChMotion(1,3);

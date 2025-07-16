@@ -17,7 +17,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("Q020C00100_05_000");
-MsgDisp("Hiiragi","Mr. Mikage, there could be a chance she's
+MsgDisp("Hiiragi","Mikage-Sensei, there could be a chance she's
 already reserved her time for somebody
 else...");
 ChEye(7,0);
@@ -35,7 +35,7 @@ VoicePlay("Q020C00100_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
 Would you be inclined to spend today's
 free period with us?");
-MsgSel("Yes, please！","Sorry, it's just......");
+MsgSel("Yes, please!","Sorry, it's just......");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(5,2);
@@ -112,7 +112,7 @@ I'm also sorry.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("Q020C00100_07_060");
-    MsgDisp("Mikage","C'mon, why are you apologising.
+    MsgDisp("Mikage","C'mon, why are you apologizing.
 Look, it's a free period, so be free!");
     ChEye(5,4);
     ChMouth(5,4);
@@ -123,8 +123,7 @@ Look, it's a free period, so be free!");
     SEPlay("EV_SE_856");
     ChClose(5,0,30);
     ChClose(7,0,30);
-    MsgDisp("主人公","(They even invited me, Was I being too
-harsh......?)");
+    MsgDisp("主人公","(They even invited me, was I too harsh?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

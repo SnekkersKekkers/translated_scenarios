@@ -48,7 +48,7 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200300_02_030");
-MsgDisp("Sassa","Your poster is good, and your legs are
+MsgDisp("Sassa","Your posture is good, and your legs are
 lifted.");
 ChEye(2,1);
 ChMouth(2,0);

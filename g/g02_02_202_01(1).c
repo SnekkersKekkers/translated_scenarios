@@ -55,7 +55,7 @@ ChMotion(2,2);
 VoicePlay("G020220201_02_070");
 MsgDisp("Sassa","......Do I even stand a chance?");
 MsgDisp("主人公","(｛颯砂＊＊｝ seems to be worried about me
-and ｛氷室＊＊｝...... )");
+and ｛氷室＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

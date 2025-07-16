@@ -87,7 +87,7 @@ and teach me more about the true joys of
 Christmas.");
 MsgDisp("主人公","Yeah, of course!");
 MsgDisp("主人公","(I'm glad I got to spend Christmas with
-｛氷室＊＊｝... )");
+｛氷室＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

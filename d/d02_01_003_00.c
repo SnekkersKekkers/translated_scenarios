@@ -65,7 +65,7 @@ ChEye(1,4);
 ChMouth(1,2);
 VoicePlay("D020100300_01_050");
 MsgDisp("Kazama","......Yeah, I'm going.");
-MsgDisp("主人公","！");
+MsgDisp("主人公","!");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);

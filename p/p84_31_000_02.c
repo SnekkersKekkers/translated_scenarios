@@ -26,7 +26,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","(Yay! Goro-sensei seemed perfectly happy!
-BUt, when he says Ikkaku... does he mean
+But, when he says Ikkaku... does he mean
 Chairman Amanohashi?)");
 MsgClose();
 ScrFadeOut(0);

@@ -34,7 +34,7 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("X200D00000_21_020");
 MsgDisp("Michiru","It's an unofficial beauty contest held
-only amongst the third year year girls at
+only amongst the third year girls at
 Habataki High School.");
 ChEye(22,3);
 ChMouth(22,3);

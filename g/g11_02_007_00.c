@@ -84,7 +84,7 @@ MsgDisp("Member B","He's the only one who's on a different
 level.");
 MsgDisp("主人公","Eh......?");
 MsgDisp("主人公","(Just now, they were talking about
-｛颯砂＊＊｝... )");
+｛颯砂＊＊｝...)");
 MsgDisp("主人公","(I want everybody to be able to feel good
 during track practice...)");
 MsgClose();

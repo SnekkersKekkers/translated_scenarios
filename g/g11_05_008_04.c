@@ -2,12 +2,12 @@ BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("G110500804_41_000");
-MsgDisp("Student Council President","Thank you.
+MsgDisp("Student President","Thank you.
 I was saved thanks to Hiiragi-kun.");
 VoicePlay("G110500804_05_000");
 MsgDisp("Hiiragi","No, I'm glad to be of help.");
 VoicePlay("G110500804_41_010");
-MsgDisp("Student Council President","I'll consult you again.
+MsgDisp("Student President","I'll consult you again.
 See you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 Wait(55,0);

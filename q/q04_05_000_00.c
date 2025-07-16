@@ -17,7 +17,7 @@ period?");
     case 3:
     MsgDisp("主人公","(Hmmm, ｛柊＊＊＊｝ is...
 there!)");
-    MsgDisp("主人公","｛柊＊＊＊｝ ！");
+    MsgDisp("主人公","｛柊＊＊＊｝ !");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
@@ -42,7 +42,7 @@ Morning.");
 Were you looking for me?");
     MsgDisp("主人公","I was. If you're alright with it, I was
 thinking if we could go together for
-today's free time period!");
+today's free period!");
     break ;
     default :
     DbgAssert(1);

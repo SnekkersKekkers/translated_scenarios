@@ -11,12 +11,10 @@ Good morning!");
     SEPlay("EV_SE_544");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("Q040200000_02_000");
-    MsgDisp("Sassa","'Morning.
+    MsgDisp("Sassa","Morning.
 You look like you're in tip-top condition,
 huh?");
-    MsgDisp("主人公","Yeah.
-Hey, why don't we go around together for
-today's free period?");
+    MsgDisp("主人公","Yeah. Hey, why don't we go together for today's free period?");
     break ;
     case 3:
     MsgDisp("主人公","｛颯砂＊＊｝.
@@ -32,7 +30,7 @@ Wanna go together for today's free time?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛颯砂＊＊｝, 'morning!
+    MsgDisp("主人公","｛颯砂＊＊｝, morning!
 Did you sleep well?");
     MsgClose();
     SEPlay("EV_SE_544");
@@ -41,7 +39,7 @@ Did you sleep well?");
     VoicePlay("Q040200000_02_020");
     MsgDisp("Sassa","｛主人公｝, morning!
 Yeah, absolutely.
-As always, I was doing a morning jog.");
+As usual, I did my morning jog.");
     MsgDisp("主人公","Eh?
 So you left the hotel?");
     ChEye(2,0);

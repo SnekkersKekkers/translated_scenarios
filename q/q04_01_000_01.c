@@ -34,7 +34,7 @@ I was looking for you just now too.");
 I'll spend the entire day with you.");
     MsgDisp("主人公","(Yay!
 I'm happy I'll able to look around with
-｛風真＊＊｝. )");
+｛風真＊＊｝.)");
     break ;
     default :
     DbgAssert(1);

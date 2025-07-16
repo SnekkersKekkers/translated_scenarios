@@ -128,7 +128,7 @@ changed...
 Even when it's warm, milk is delicious.");
         MsgDisp("主人公","(Yeah, it was fun. From now on too, I hope
 I can do lots of different things with
-｛柊＊＊＊｝... )");
+｛柊＊＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

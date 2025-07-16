@@ -102,7 +102,7 @@ ChMotion(22,0,1);
 VoicePlay("F100130000_22_050");
 MsgDisp("Hikaru","No, nothing.");
 MsgDisp("主人公","(They really just came to mess with
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

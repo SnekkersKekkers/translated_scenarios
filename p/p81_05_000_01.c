@@ -2,7 +2,7 @@ BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P810500001_41_000");
-MsgDisp("Student Council President","We, the student council executives, have
+MsgDisp("Student President","We, the student council executives, have
 been entrusted with management of the
 cultural festival. This is important work,
 please be aware of this.");

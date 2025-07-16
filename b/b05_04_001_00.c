@@ -28,7 +28,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B050400100_04_020");
 MsgDisp("Nanatsumori","Well...
-IT's like that.");
+it's like that.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
@@ -149,7 +149,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("B050400100_04_120");
 MsgDisp("Nanatsumori","｛主人公｝, sorry.");
-MsgDisp("主人公","Why are you apologising?");
+MsgDisp("主人公","Why are you apologizing?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

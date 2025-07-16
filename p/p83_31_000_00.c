@@ -16,15 +16,15 @@ ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);
 VoicePlay("P833100000_31_010");
-MsgDisp("Goro","Ah, it's you! I have to express my
-gratitude for inviting me to the cultural
-festival♪ COuld you show me around?");
+MsgDisp("Goro","Ah, it's you! I have to thank you
+for inviting me to the cultural
+festival♪ Could you show me around?");
 MsgDisp("主人公","Yes, the student council committee will be
 honoured to assist you!");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("P833100000_31_020");
-MsgDisp("Goro","Then, let's go off at once.");
+MsgDisp("Goro","Let's go at once, then.");
 MsgClose();
 ScrFadeOut(0);

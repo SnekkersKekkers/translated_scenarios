@@ -37,7 +37,7 @@ ChClose(4,0,0);
 Wait(120,0);
 StlOpen("ev_04_17");
 ScrFadeIn(0);
-MsgDisp("主人公","！");
+MsgDisp("主人公","!");
 VoicePlay("T020400000_04_360");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","I swear here and now that I'll cherish you

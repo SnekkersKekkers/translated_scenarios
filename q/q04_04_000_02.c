@@ -13,7 +13,7 @@ I already planned on going alone.");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("Q040400002_04_010");
-    MsgDisp("Nanatsumori","Well then.");
+    MsgDisp("Nanatsumori","Bye then.");
     MsgClose();
     BGMStop();
     MsgClose();

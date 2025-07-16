@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,4,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝...... ！");
+MsgDisp("主人公","｛柊＊＊＊｝...... !");
 ChMotion(5,0);
 Wait(16,0);
 ChEye(5,4);

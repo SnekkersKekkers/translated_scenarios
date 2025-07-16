@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040206501_02_000");
 MsgDisp("Sassa","The big fireworks are nice but the themed
 ones are also fun.");
-MsgSel("Yeah, like the Niagara Falls one！","I prefer the big ones.","Sparklers are the most beautiful in their fragility.");
+MsgSel("Yeah, like the Niagara Falls one!","I prefer the big ones.","Sparklers are the most beautiful in their fragility.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

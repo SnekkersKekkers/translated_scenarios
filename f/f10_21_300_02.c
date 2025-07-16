@@ -71,9 +71,9 @@ ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102130002_21_050");
 MsgDisp("Michiru","... Sorry, Mari.
-Then, could I borrow it first, then hand
+Could I borrow it first, then hand
 it to Hikaru after that?");
-MsgDisp("主人公","I dpn't have biology today, so that's
+MsgDisp("主人公","I don't have biology today, so that's
 fine.
 That's good, isn't it?");
 ChEye(22,3);

@@ -59,7 +59,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10100_05_040");
-MsgDisp("Hiiragi","I apologise.
+MsgDisp("Hiiragi","I apologize.
 But, I do hold a bit of nostalgia for
 those days.");
 ChEye(7,0);

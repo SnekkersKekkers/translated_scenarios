@@ -12,8 +12,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P830D00001_22_000");
-MsgDisp("Hikaru","Hii～
-, Mari♪
+MsgDisp("Hikaru","Hii～Mari♪
 You're hard at work, huh?");
 MsgDisp("主人公","Ah, ｛ひかる＊｝,
 ｛みちる＊｝!");

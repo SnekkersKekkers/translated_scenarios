@@ -119,7 +119,7 @@ MsgDisp("Woman Customer B","That's right.
 Ahー That scared meー!");
 MsgDisp("主人公","(I'm glad...
 Looks like they didn't even discover it
-was \"Nana\". )");
+was \"Nana\".)");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("B050400000_04_060");

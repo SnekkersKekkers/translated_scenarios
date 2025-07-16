@@ -22,7 +22,7 @@ ChMotion(22,4,1);
 VoicePlay("Q050D00000_22_010");
 MsgDisp("Hikaru","So hey, for today's free period, wanna
 come with us?");
-MsgSel("Yeah, sure！","Eeh...... sorry");
+MsgSel("Yeah, sure!","Eeh...... sorry");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);
@@ -30,7 +30,7 @@ switch (MsgSelRsltGet()){
     ChMotion(22,3,1);
     ChEyeOpenLevel(22,0);
     VoicePlay("Q050D00000_22_020");
-    MsgDisp("Hikaru","Yey▼");
+    MsgDisp("Hikaru","Yay▼");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,3);

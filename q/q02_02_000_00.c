@@ -22,15 +22,15 @@ Good morning!");
     VoicePlay("Q020200000_02_010");
     MsgDisp("Sassa","What's your plan for today?
 Let's spend the free period together.");
-    MsgSel("Sure, let's go！","Sorry, it's just......");
+    MsgSel("Sure, let's go!","Sorry, it's just......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("Q020200000_02_020");
-        MsgDisp("Sassa","Way to go.
-Well then, let's get going!");
+        MsgDisp("Sassa","That's the spirit.
+Let's get going, then!");
         MsgDisp("主人公","Yeah!
 I'm really excited to see more of
 Nagasaki.");
@@ -68,33 +68,31 @@ Well, I guess I'll ask someone else......");
     VoiceEVSPlay(2);
     VoicePlay("Q020200000_02_050");
     MsgDisp("Sassa","｛主人公｝.
-'Morning, I was looking for you.");
+Morning, I was looking for you.");
     MsgDisp("主人公","｛颯砂＊＊｝, good morning.
-What's wrong?");
+What's up?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("Q020200000_02_060");
-    MsgDisp("Sassa","What do you mean 'what's wrong'?
-Of course it's about the free period.
+    MsgDisp("Sassa","What do you mean 'what's up'?
+Of course this is about the free period.
 Let's go together.");
-    MsgSel("Sure, let's go together！","Sorry, it's......");
+    MsgSel("Sure, let's go together!","Sorry, it's......");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("Q020200000_02_070");
-        MsgDisp("Sassa","Awesome! I was natural when I asked you,
-wasn't I? I simulated that very moment
-rigorously in my head.");
-        MsgDisp("主人公","Hehe, you did?");
+        MsgDisp("Sassa","Awesome! Did it sound natural when I asked you? I was practicing that in my head.");
+        MsgDisp("主人公","Hehe, you did.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("Q020200000_02_080");
-        MsgDisp("Sassa","I did.
-Whether I can go with you or not is the
+        MsgDisp("Sassa","It worked, then.
+Whether or not I get to go with you or is the
 turning point of fate.");
         MsgDisp("主人公","(T-That much...?
 Still, I'm glad you asked me!)");
@@ -111,7 +109,7 @@ I'll ask someone else.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("Q020200000_02_100");
-        MsgDisp("Sassa","Don't apologise, I hope you can enjoy it
+        MsgDisp("Sassa","Don't apologize, I hope you can enjoy it
 too.
 ...... See ya.");
         MsgClose();

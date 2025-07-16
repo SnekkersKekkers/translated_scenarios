@@ -9,7 +9,7 @@ the Hanatsubaki twins saying 'Good luck▼'
 What's that about?");
     MsgDisp("主人公","(Uhm...
 I have no clue.
-Sorry, ｛氷室＊＊｝...... )");
+Sorry, ｛氷室＊＊｝......)");
     break ;
     case 4:
     case 5:

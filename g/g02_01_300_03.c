@@ -74,7 +74,7 @@ week...... So don't say anything.");
 MsgDisp("主人公","(Hahah, it sounds like
 ｛風真＊＊｝ loves
 ｛本多＊＊｝ and
-｛七ツ森＊｝. )");
+｛七ツ森＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

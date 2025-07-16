@@ -75,7 +75,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 VoicePlay("G110500100_05_040");
 MsgDisp("Hiiragi","Thank you.
-BUt I like working here on the computer
+But I like working here on the computer
 during my lunch break.");
 ChEye(5,1);
 ChMouth(5,1);

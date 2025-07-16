@@ -33,7 +33,7 @@ We did pretty well together.");
     ChMotion(2,3);
     VoicePlay("O030200000_02_030");
     MsgDisp("Sassa","Yeah, you've got guts.
-Isn't that nice?");
+That's pretty good.");
     MsgDisp("主人公","(I did it!
 I'm glad I did my best!)");
     break ;

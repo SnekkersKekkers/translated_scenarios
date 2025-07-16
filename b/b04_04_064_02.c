@@ -72,7 +72,7 @@ Let me hold them.");
 SEPlay("EV_SE_504");
 SEWait();
 VoicePlay("B040406402_04_100");
-MsgDisp("Nanatsumori","So that even if anything happens, we wpn't
+MsgDisp("Nanatsumori","So that even if anything happens, we won't
 get separated.");
 MsgDisp("主人公","Yeah.");
 MsgClose();

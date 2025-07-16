@@ -107,7 +107,7 @@ EVen though you specifically wanted to
 relax?");
     MsgDisp("主人公","(Huh... thanks to ｛本多＊＊｝, It
 seems like I'm not anxious anymore.
-Yeah, I'll give it my best. )");
+Yeah, I'll give it my best.)");
     break ;
     default :
     DbgAssert(1);

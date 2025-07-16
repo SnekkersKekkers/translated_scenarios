@@ -1,2 +1,2 @@
 ScrFadeIn(0);
-MsgDisp("主人公","(Oh, it's ｛本多＊＊｝. )");
+MsgDisp("主人公","(Oh, it's ｛本多＊＊｝.)");

@@ -21,7 +21,7 @@ VoicePlay("W012200000_22_020");
 MsgDisp("Hikaru","Ehehe, Hikaru will invite other people
 too.
 Come on, come on, let's go～!");
-MsgSel("Yeah, let's go！","Sorry, I have some errands to run");
+MsgSel("Yeah, let's go!","Sorry, I have some errands to run");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);

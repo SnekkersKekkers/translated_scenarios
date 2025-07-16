@@ -77,7 +77,7 @@ VoicePlay("G020120203_01_100");
 MsgDisp("Kazama","Haa...... somewhat, I feel like I'm
 saying. alot of unnecessary things.");
 MsgDisp("主人公","(｛風真＊＊｝, so that's how you think of
-｛七ツ森＊｝...... )");
+｛七ツ森＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

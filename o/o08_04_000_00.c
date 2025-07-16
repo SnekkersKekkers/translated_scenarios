@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛七ツ森＊｝. )");
+Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
@@ -17,7 +17,7 @@ Ah, it's ｛七ツ森＊｝. )");
     break ;
     case 3:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛七ツ森＊｝. )");
+Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);
     ChOpen(4,30,0,2,3,#1,#1,0,0,0,60);
@@ -33,7 +33,7 @@ pretty embarrassing......");
     case 4:
     case 5:
     MsgDisp("主人公","(Next is......
-Ah, it's ｛七ツ森＊｝. )");
+Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);
     ChOpen(4,30,0,0,3,#1,#1,0,0,0,60);

@@ -157,7 +157,7 @@ ChEyeOpenLevel(5,10);
 VoicePlay("T020500000_05_160");
 MsgDisp("Hiiragi","You.");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","！");
+MsgDisp("主人公","!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

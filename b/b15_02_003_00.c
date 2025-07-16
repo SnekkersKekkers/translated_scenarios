@@ -58,8 +58,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("B150200300_02_070");
 MsgDisp("Sassa","Right, like a balloon.");
 MsgDisp("主人公","(I have to be careful in order to not
-accidentally explode ｛颯砂＊＊｝...
-)");
+accidentally explode ｛颯砂＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

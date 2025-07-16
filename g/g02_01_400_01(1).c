@@ -69,7 +69,7 @@ MsgDisp("Kazama","Well, I guess ridiculous ones are okay
 too?
 As long as they're with you.");
 MsgDisp("主人公","(I hope I can make lots of memories with
-｛風真＊＊｝...... )");
+｛風真＊＊｝......)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
