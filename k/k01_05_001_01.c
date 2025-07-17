@@ -17,7 +17,7 @@ ChMotion(5,0);
 VoicePlay("K010500101_05_020");
 MsgDisp("Hiiragi","I will be cherishing it.
 Thank you very much.");
-MsgDisp("主人公","(He looks super happy......
+MsgDisp("主人公","(He looks super happy...
 Thank goodness!)");
 MsgClose();
 BGMStop();

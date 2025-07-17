@@ -31,7 +31,7 @@ Party of high school, huh.");
 ChEye(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","You're right......");
+MsgDisp("主人公","You're right...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -77,7 +77,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("D130B00101_03_040");
 MsgDisp("Honda","You know, the four of us made a lot of
-good memories together......
+good memories together...
 I'm really grateful for Haba High.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -96,7 +96,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D130B00101_01_040");
-MsgDisp("Kazama","You two can't be serious......");
+MsgDisp("Kazama","You two can't be serious...");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -117,19 +117,19 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D130B00101_01_060");
-MsgDisp("Kazama","......When you say it all pretty like
+MsgDisp("Kazama","...When you say it all pretty like
 that——");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D130B00101_03_050");
-MsgDisp("Honda","......It's making me tear up a little——");
+MsgDisp("Honda","...It's making me tear up a little——");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D130B00101_04_030");
-MsgDisp("Nanatsumori","......Should we all shed a few tears of
+MsgDisp("Nanatsumori","...Should we all shed a few tears of
 joy together?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -137,7 +137,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("D130B00101_01_070");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 ChEye(4,3);
 ChMouth(4,3);
 ChEye(3,3);

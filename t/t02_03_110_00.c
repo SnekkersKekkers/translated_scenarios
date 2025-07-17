@@ -7,7 +7,7 @@ you to go that far.");
 SEPlay("EV_SE_872",0.5);
 Wait(50,0);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 ｛本多＊＊｝?");
 ChMotion(3,4,1);
 VoicePlay("T020311000_03_010");
@@ -37,7 +37,7 @@ SEPlay("EV_SE_DOOR_011",0,1);
 Wait(60,0);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","The rooftop......");
+MsgDisp("主人公","The rooftop...");
 VoicePlay("T020311000_03_040");
 MsgDisp("Honda","Yeah, it's nice here.
 I asked you a lot of different questions
@@ -50,7 +50,7 @@ ChLayout(0);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝......?");
+MsgDisp("主人公","｛本多＊＊｝...?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -88,14 +88,14 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,2,1);
 VoicePlay("T020311000_03_100");
-MsgDisp("Honda","Haa......but, but I couldn't deceive
+MsgDisp("Honda","Haa...but, but I couldn't deceive
 myself.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020311000_03_110");
 MsgDisp("Honda","Because, I'm certain it's you.");
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("主人公","｛本多＊＊｝...");
 MsgClear();
 ChClose(3);
 ChCustomLayout(3,5,0,-2.5);

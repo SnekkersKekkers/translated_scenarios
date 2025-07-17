@@ -6,7 +6,7 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,1);
     VoicePlay("L040400002_04_000");
-    MsgDisp("Nanatsumori","Ah, this is......");
+    MsgDisp("Nanatsumori","Ah, this is...");
     MsgDisp("主人公","I got a little excited!
 It's a popular chocolate I saw on
 Habatcher.");
@@ -30,7 +30,7 @@ Thank goodness!)");
     ChMouth(4,4);
     ChMotion(4,0);
     VoicePlay("L040400002_04_020");
-    MsgDisp("Nanatsumori","Oh, this is......");
+    MsgDisp("Nanatsumori","Oh, this is...");
     MsgDisp("主人公","It's a popular chocolate featured on
 Habatcher.
 I went a little all out.");
@@ -45,7 +45,7 @@ happy.");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("L040400002_04_040");
-    MsgDisp("Nanatsumori","I'd share it with you, but......
+    MsgDisp("Nanatsumori","I'd share it with you, but...
 Sorry, let me enjoy this myself.
 Thank you.");
     MsgClose();
@@ -72,11 +72,11 @@ mind a bit of challenge.");
     ChMotion(4,1);
     VoiceEVSPlay(4);
     VoicePlay("L040400002_04_060");
-    MsgDisp("Nanatsumori","｛主人公｝......
+    MsgDisp("Nanatsumori","｛主人公｝...
 Woah, I'm super happy.");
     ChMotion(4,0);
     VoicePlay("L040400002_04_070");
-    MsgDisp("Nanatsumori","But......
+    MsgDisp("Nanatsumori","But...
 I don't know how to say this, but you got
 pretty excited, huh?");
     MsgDisp("主人公","Hehe, I guess?

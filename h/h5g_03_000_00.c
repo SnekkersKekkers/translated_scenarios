@@ -18,7 +18,7 @@ MsgDisp("Honda","I heard that the brass band won an award
 in the competition!
 That's amazing, congrats!");
 MsgDisp("主人公","Thanks!
-...... Did you come all this way just to
+... Did you come all this way just to
 congratulate me?");
 ChEye(3,4);
 ChMouth(3,0);

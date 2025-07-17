@@ -9,5 +9,5 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("D140201051_02_010");
-MsgDisp("Sassa","And a lot of fresh vegetables......
+MsgDisp("Sassa","And a lot of fresh vegetables...
 Maybe they're from Mikage-sensei?");

@@ -41,7 +41,7 @@ It seems like that name's no good.)");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,2,1,1,0,0,5,0);
     VoicePlay("F010800001_08_020");
-    MsgDisp("Shirahane","......");
+    MsgDisp("Shirahane","...");
     ChEye(8,2);
     ChMouth(8,2);
     ChMotion(8,0,1);

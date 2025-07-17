@@ -16,7 +16,7 @@ Wait(40,0);
 MsgDisp("主人公","(Brr, like I expected, it's cold...)");
 SEPlay("EV_SE_733");
 SEWait();
-MsgDisp("主人公","......?");
+MsgDisp("主人公","...?");
 VoicePlay("R080700000_07_000");
 MsgDisp("Mikage","Oh, there you are!
 You seem cold, put this on.");
@@ -147,7 +147,7 @@ VoicePlay("R080700000_07_130");
 MsgDisp("Mikage","Okay then, good night.");
 MsgDisp("主人公","Ah, yes...!
 Thank you very much for bringing me home.");
-MsgDisp("主人公","(Nirvana......? Oh wait, I still have your
+MsgDisp("主人公","(Nirvana...? Oh wait, I still have your
 jacket! I hope you don't catch a cold,
 ｛御影＊＊｝...)");
 BGMStop();

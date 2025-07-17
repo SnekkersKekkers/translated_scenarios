@@ -15,13 +15,13 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("B030530000_05_010");
 MsgDisp("Hiiragi","At school and in the theater, I always
-have a role to perform. ......But here,
+have a role to perform. ...But here,
 there's nothing in particular.");
 ChEye(5,0);
 ChMotion(5,3);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B030530000_05_020");
-MsgDisp("Hiiragi","Huh......
+MsgDisp("Hiiragi","Huh...
 I don't know if I can properly entertain
 you today, but please come in.");
 MsgDispSksp(1,0);

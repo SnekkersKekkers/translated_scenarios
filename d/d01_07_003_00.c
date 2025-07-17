@@ -1,13 +1,13 @@
 ChLayout(1);
 BGOpen("sc000",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yawn......So sleepy...... I knew I had
+MsgDisp("主人公","(Yawn...So sleepy... I knew I had
 cleaning duty today, I should have gone to
-bed earlier......)");
+bed earlier...)");
 SEPlay("EV_SE_749",0.1,0.4);
 VoicePlay("D010700300_07_000");
 MsgDisp("Mikage?","Hey!");
-MsgDisp("主人公","......Hm?");
+MsgDisp("主人公","...Hm?");
 SEWait();
 VoicePlay("D010700300_07_010");
 MsgDisp("Mikage","Morning!
@@ -41,7 +41,7 @@ BGMStop(3);
 Wait(20,0);
 SEPlay("EV_SE_751");
 MsgDisp("主人公","Y-Yes sir!");
-MsgDisp("主人公","(He's gone......)");
+MsgDisp("主人公","(He's gone...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

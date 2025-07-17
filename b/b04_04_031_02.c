@@ -96,7 +96,7 @@ my own self satisfaction.");
         MsgDisp("Nanatsumori","I'm not on this date now for the sake of
 those kinds of things.");
         ChEyeOpenLevel(4,#1);
-        MsgDisp("主人公","｛七ツ森＊｝......");
+        MsgDisp("主人公","｛七ツ森＊｝...");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);

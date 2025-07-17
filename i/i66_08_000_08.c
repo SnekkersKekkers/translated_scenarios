@@ -45,7 +45,7 @@ have some tea together?");
     ChEye(8,3);
     ChMouth(8,3);
     VoicePlay("I660800008_08_040");
-    MsgDisp("Shirahane","......Let's.");
+    MsgDisp("Shirahane","...Let's.");
     MsgDisp("主人公","Yeah, let's go!");
     ChEye(8,3);
     ChMouth(8,3);
@@ -66,14 +66,14 @@ glad.)");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
     ChOpen(8,35,0,3,3,#1,#1,0,0);
-    MsgDisp("主人公","Haa......
+    MsgDisp("主人公","Haa...
 Seems like it's calmed down a bit.");
     VoiceEVSPlay(8);
     VoicePlay("I660800008_08_060");
     MsgDisp("Shirahane","｛主人公｝.
 Nice work t'day.");
     MsgDisp("主人公","｛大地＊＊｝.
-Ah...... hehe!
+Ah... hehe!
 There's oil on your nose.");
     ChEye(8,5);
     ChMouth(8,5);
@@ -84,20 +84,20 @@ There's oil on your nose.");
 Where at?");
     MsgDisp("主人公","Ah, don't.
 It'll spread if you rub it!
-Just wait a bit......");
+Just wait a bit...");
     ChEye(8,2);
     ChMouth(8,4);
     ChCheek(8,7);
     VoicePlay("I660800008_08_080");
-    MsgDisp("Shirahane","Ah, 'kay......");
+    MsgDisp("Shirahane","Ah, 'kay...");
     MsgDisp("主人公","There, I got it.
-...... What is it?");
+... What is it?");
     ChEye(8,4);
     ChMouth(8,4);
     ChMotion(8,4,1);
     ChCheek(8,8);
     VoicePlay("I660800008_08_090");
-    MsgDisp("Shirahane","Ah no......
+    MsgDisp("Shirahane","Ah no...
 My heart's poundin'-");
     ChEye(8,5);
     ChMouth(8,1);
@@ -106,7 +106,7 @@ My heart's poundin'-");
     VoicePlay("I660800008_40_010");
     MsgDisp("Manager","You two over there, save that for after
 work!");
-    MsgDisp("主人公","......Looks like the manager got mad at
+    MsgDisp("主人公","...Looks like the manager got mad at
 us?");
     ChEye(8,2);
     ChMouth(8,4);
@@ -133,12 +133,12 @@ So, don't worry 'bout it.");
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("I660800008_08_130");
-    MsgDisp("Shirahane","...... But I don't really wanna take over
+    MsgDisp("Shirahane","... But I don't really wanna take over
 the store, do you?
 Right?");
     MsgDisp("主人公","(Hehe!
 I've been working here a while, and it
-looks like I've been acknowledged......!)");
+looks like I've been acknowledged...!)");
     break ;
     default :
     DbgAssert(1);

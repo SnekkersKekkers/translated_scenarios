@@ -25,10 +25,10 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,4);
 VoicePlay("Q240500000_05_030");
-MsgDisp("Hiiragi","How dare you......
+MsgDisp("Hiiragi","How dare you...
 I declare a fight for the honor!");
 MsgDisp("主人公","(Is ｛柊＊＊＊｝ acting like in
-a historical drama......?
+a historical drama...?
 Alright, me too!)");
 EnvStop(1);
 EnvAutoSet(0);

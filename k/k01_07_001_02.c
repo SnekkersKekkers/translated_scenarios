@@ -6,7 +6,7 @@ ChMotion(7,5);
 VoicePlay("K010700102_07_000");
 MsgDisp("Mikage","Hm～
 Is this popular right now?");
-MsgDisp("主人公","I'm not sure if it's popular......
+MsgDisp("主人公","I'm not sure if it's popular...
 I chose it because I thought you'd like
 it, ｛御影＊＊｝.");
 ChEye(7,0);

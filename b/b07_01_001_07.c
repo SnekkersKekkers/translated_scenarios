@@ -38,7 +38,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("B070100001_01_380");
-MsgDisp("Kazama","......... Alright, I'm ＯＫ.");
+MsgDisp("Kazama","...... Alright, I'm OK.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","... Haa.
 Maybe I feel calmer now that I've said it
@@ -48,7 +48,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChMouthOpenLevel(1,10);
 VoicePlay("B070100001_01_390");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

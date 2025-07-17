@@ -4,7 +4,7 @@ VoicePlay("G020210307_02_000");
 MsgDisp("Sassa","Yeah, that's right.
 I ran into you at the library before,
 right?");
-MsgDisp("主人公","Ah......you were reading that difficult
+MsgDisp("主人公","Ah...you were reading that difficult
 book called \"Exercise Theory\", right?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -18,7 +18,7 @@ ChMotion(2,4);
 VoicePlay("G020210307_02_020");
 MsgDisp("Sassa","Oh!
 You checked it after I left, huh?");
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -42,7 +42,7 @@ VoicePlay("G020210307_02_050");
 MsgDisp("Sassa","Exactly.
 So, where else do you think we wouldn't
 normally go together?");
-MsgDisp("主人公","Hmmmm......maybe the career counseling
+MsgDisp("主人公","Hmmmm...maybe the career counseling
 room?");
 ChEye(2,3);
 ChMouth(2,3);
@@ -66,8 +66,8 @@ VoicePlay("G020210307_02_080");
 MsgDisp("Sassa","That's what makes it exciting.
 You'll feel your heart racing, won't you?");
 MsgDisp("主人公","(But if we get caught by Himmuro-sensei
-......I'm more nervous than excited,
-maybe......?)");
+...I'm more nervous than excited,
+maybe...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

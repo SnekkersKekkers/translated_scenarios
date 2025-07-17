@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("H2A0100001_01_000");
     MsgDisp("Kazama","It was close.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝......");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -28,13 +28,13 @@ A lot of them set new personal bests.");
     VoicePlay("H2A0100001_01_020");
     MsgDisp("Kazama","You too.
 I know you put your all into this.");
-    MsgDisp("主人公","Y-Yeah......");
+    MsgDisp("主人公","Y-Yeah...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H2A0100001_01_030");
     MsgDisp("Kazama","Come on, show me your usual cheerful face.");
-    MsgDisp("主人公","(Yeah...... It's frustrating, but I'm glad
+    MsgDisp("主人公","(Yeah... It's frustrating, but I'm glad
 I did my best. Thank you,
 ｛風真＊＊｝! )");
     break ;
@@ -45,8 +45,8 @@ I did my best. Thank you,
     ChOpen(1,254,0,4,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0100001_01_040");
-    MsgDisp("Kazama","......You did your best.");
-    MsgDisp("主人公","｛風真＊＊｝......
+    MsgDisp("Kazama","...You did your best.");
+    MsgDisp("主人公","｛風真＊＊｝...
 But we didn't win the championships.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -55,7 +55,7 @@ But we didn't win the championships.");
     MsgDisp("Kazama","You were just one step away.
 But the members were doing their best,
 right?");
-    MsgDisp("主人公","Yes......");
+    MsgDisp("主人公","Yes...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -63,7 +63,7 @@ right?");
     MsgDisp("Kazama","I think everyone's grateful for you.
 If they weren't, I wouldn't forgive them.");
     MsgDisp("主人公","Hehe.
-...... Yeah, thanks.");
+... Yeah, thanks.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -71,7 +71,7 @@ If they weren't, I wouldn't forgive them.");
     MsgDisp("Kazama","Here comes your last job. This is the time
 to show everyone what you've got, right?
 Everyone's waiting.");
-    MsgDisp("主人公","Yeah......!");
+    MsgDisp("主人公","Yeah...!");
     MsgDisp("主人公","(That's right.
 We all did our best, so let's end it on a
 high note!)");

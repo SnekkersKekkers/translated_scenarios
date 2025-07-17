@@ -14,7 +14,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102110000_21_010");
 MsgDisp("Michiru","Ah, Mari...
-Yeah......");
+Yeah...");
 MsgDisp("主人公","Is there something worrying you?");
 ChEye(21,4);
 ChMouth(21,4);

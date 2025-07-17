@@ -57,7 +57,7 @@ full-fledged worker soon!)");
     ChMouth(3,0);
     ChMotion(3,2,1);
     VoicePlay("I450300000_03_060");
-    MsgDisp("Honda","Wow...... this shop has some pretty rare
+    MsgDisp("Honda","Wow... this shop has some pretty rare
 flowers, doesn't it?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -65,7 +65,7 @@ flowers, doesn't it?");
     VoicePlay("I450300000_03_070");
     MsgDisp("Honda","Ah, speaking of rare flowers, have you
 heard of the blue rose?");
-    MsgDisp("主人公","I haven't seen many......");
+    MsgDisp("主人公","I haven't seen many...");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,3,1);
@@ -79,20 +79,20 @@ symbol of \"things that don't exist\"-");
     VoicePlay("I450300000_03_090");
     MsgDisp("Honda","But, in recent years, genetic
 modifications and technology teamed up
-and......! The blue rose was born.");
-    MsgDisp("主人公","...... Ah, sorry.
+and...! The blue rose was born.");
+    MsgDisp("主人公","... Ah, sorry.
 A customer's here.");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I450300000_03_100");
-    MsgDisp("Honda","Da, I'm sorry for bothering you......
+    MsgDisp("Honda","Da, I'm sorry for bothering you...
 I'll get going, okay?
 See you.");
     MsgDisp("主人公","(He came to check on me, right? But you
 know, I feel like ｛本多＊＊｝
 might know more about flowers than
-me......)");
+me...)");
     break ;
     case 4:
     case 5:
@@ -104,7 +104,7 @@ me......)");
 Already got the hang of it?");
     MsgDisp("主人公","Perfectly!
 Is what I want to say, but there's so much
-to remember......");
+to remember...");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -134,7 +134,7 @@ taking you seriously, you know?");
     MsgDisp("Honda","But, rather than having a bunch of people
 listen to me talk, I'm already satisfied
 if it's just you.");
-    MsgDisp("主人公","Huh......");
+    MsgDisp("主人公","Huh...");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -146,9 +146,9 @@ Well, do your best!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(3);
-    MsgDisp("主人公","(Satisfied with just me......?
+    MsgDisp("主人公","(Satisfied with just me...?
 I feel like he just said something
-amazing......)");
+amazing...)");
     break ;
     default :
     DbgAssert(1);

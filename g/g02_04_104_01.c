@@ -17,7 +17,7 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("G020410401_04_020");
 MsgDisp("Nanatsumori","My mom wants celebrations to be grand, but
-my dad and older sister are kinda......
+my dad and older sister are kinda...
 cool-hearted, you know?");
 ChEye(4,4);
 ChMouth(4,0);
@@ -27,7 +27,7 @@ MsgDisp("Nanatsumori","I don't really want a big fuss either, but
 when it comes to anniversaries and such, I
 think it's better for families to do
 something.");
-MsgDisp("主人公","I see...... your mom must feel a bit
+MsgDisp("主人公","I see... your mom must feel a bit
 lonely, huh?");
 ChEye(4,2);
 ChMouth(4,0);
@@ -57,7 +57,7 @@ MsgDisp("Nanatsumori","You only realized that now?");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410401_04_080");
-MsgDisp("Nanatsumori","......Wait, why did we start talking about
+MsgDisp("Nanatsumori","...Wait, why did we start talking about
 this?");
 MsgDisp("主人公","(I feel like I learned a bit more about
 ｛七ツ森＊｝'s family.)");

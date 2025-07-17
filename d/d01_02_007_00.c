@@ -1,5 +1,5 @@
 MsgDisp("主人公","(｛颯砂＊＊｝'s last high school race will
-start soon......)");
+start soon...)");
 MsgClose();
 BGOpen("sc624",0);
 ChLayout(1);
@@ -18,7 +18,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D010200700_02_010");
-MsgDisp("Sassa","......But you know, I guess it would be
+MsgDisp("Sassa","...But you know, I guess it would be
 bad if I couldn't move anymore——");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(2,0,30);
@@ -26,14 +26,14 @@ ChLayout(0);
 MsgClose();
 ChOpen(2,37,4,4,0,#1,#1,0,0);
 SEWait();
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 MsgClose();
 SEPlay("EV_SE_551",1,0.6,0.3);
 ScrFadeOut(0);
 SEWait();
 VoicePlay("D010200700_02_020");
-MsgDisp("Sassa","............");
-MsgDisp("主人公","｛颯砂＊＊｝......?");
+MsgDisp("Sassa","......");
+MsgDisp("主人公","｛颯砂＊＊｝...?");
 SEPlay("EV_SE_675",1,0.3);
 Wait(30,0);
 ChEye(2,0);
@@ -42,13 +42,13 @@ ChMotion(2,4,1);
 ChCheek(2,10);
 ScrFadeIn(0);
 VoicePlay("D010200700_02_030");
-MsgDisp("Sassa","...... Alright.
+MsgDisp("Sassa","... Alright.
 In order to not have any regrets, I'll run
 until I pass out!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝......)");
+MsgDisp("主人公","(｛颯砂＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -58,7 +58,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(Finally, the 1500m race......
+MsgDisp("主人公","(Finally, the 1500m race...
 ｛颯砂＊＊｝! )");
 MsgClose();
 BGOpen("sc625",0);
@@ -120,7 +120,7 @@ MsgClose();
 ChOpen(2,37,4,4,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200700_02_060");
-MsgDisp("Sassa","｛主人公｝......");
+MsgDisp("Sassa","｛主人公｝...");
 MsgDisp("主人公","Eh, ｛颯砂＊＊｝?");
 MsgClose();
 ScrFadeOut(0);
@@ -145,19 +145,19 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("D010200700_02_090");
 MsgDisp("Sassa","That's all you.");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 That's not true.");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200700_02_100");
 MsgDisp("Sassa","Is that a bad thing to say?");
-MsgDisp("主人公","Ah......Gold medals are kind of heavy,
+MsgDisp("主人公","Ah...Gold medals are kind of heavy,
 aren't they? ｛颯砂＊＊｝, thank
 you. You worked hard these past 3 years.");
 SEPlay("EV_SE_CLAP_005",0.5);
 Wait(30,0);
 VoicePlay("D010200700_44_010");
-MsgDisp("Member B","Senpais, you are amazing......");
+MsgDisp("Member B","Senpais, you are amazing...");
 VoicePlay("D010200700_33_040");
 MsgDisp("Member A","We have to try our best too.");
 SEStop("EV_SE_CLAP_005",2);

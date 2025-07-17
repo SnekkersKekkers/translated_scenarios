@@ -37,8 +37,8 @@ small amount to that as well.");
     MsgDisp("Hiiragi","Is that so? It seems as though the players
 are currently looking for you. Would you
 not say that is proof enough?");
-    MsgDisp("主人公","Ah...... yes.
-I'm so happy......");
+    MsgDisp("主人公","Ah... yes.
+I'm so happy...");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("H1A0500000_05_040");
@@ -46,7 +46,7 @@ I'm so happy......");
 beautiful tears to the players.");
     MsgDisp("主人公","Yes, thank you, ｛柊＊＊＊｝!");
     MsgDisp("主人公","(I'm glad that I stayed as the baseball
-club manager......!)");
+club manager...!)");
     break ;
     default :
     DbgAssert(1);

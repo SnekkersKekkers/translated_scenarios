@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020510201_05_000");
-MsgDisp("Hiiragi","......Ever since I entered Haba High, I've
+MsgDisp("Hiiragi","...Ever since I entered Haba High, I've
 been able to make so many memories with
 you.");
 VoiceEVSPlay(5);
@@ -33,7 +33,7 @@ VoicePlay("G020510201_05_050");
 MsgDisp("Hiiragi","｛主人公｝, please take
 care of me?");
 MsgDisp("主人公","(A special relationship with
-｛柊＊＊＊｝......
+｛柊＊＊＊｝...
 I wonder how that might look like?)");
 BGMStop();
 MsgClose();

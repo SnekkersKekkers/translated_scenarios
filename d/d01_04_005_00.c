@@ -2,7 +2,7 @@ BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_GAYA_016",0.5,0.5);
-MsgDisp("主人公","......Huh?");
+MsgDisp("主人公","...Huh?");
 SEStop("EV_SE_GAYA_016",2);
 MsgClose();
 ScrFadeOut(0);
@@ -11,12 +11,12 @@ SEPlay("EV_SE_619",0.2);
 SEPlay("EV_SE_844",0.2,0.6);
 ScrFadeIn(0);
 VoicePlay("D010400500_40_000");
-MsgDisp("Male Student A","Awesome......
+MsgDisp("Male Student A","Awesome...
 This is seriously cool!");
 VoicePlay("D010400500_41_010");
 MsgDisp("Male Student B","Isn't it～
 It's different when a model wears it.");
-MsgDisp("主人公","(Ah......
+MsgDisp("主人公","(Ah...
 It looks like the boys are looking at the
 latest edition of Habatcher.)");
 VoicePlay("D010400500_41_020");
@@ -40,7 +40,7 @@ MsgDisp("主人公","(Come to think of it, this month's issue
 is on new items from \"Nana\".)");
 StlMouthOpenLevel(4,0);
 VoicePlay("D010400500_04_000");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 VoicePlay("D010400500_40_050");
 MsgDisp("Male Student A","Nana's even cool with guys.
 Those clothes and accessories look really
@@ -52,10 +52,10 @@ VoicePlay("D010400500_41_070");
 MsgDisp("Male Student B","That's true～");
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400500_04_010");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 VoicePlay("D010400500_41_080");
 MsgDisp("Male Student B","I feel the same way as you guys.
-God is really cruel, huh～......");
+God is really cruel, huh～...");
 VoicePlay("D010400500_39_090");
 MsgDisp("Male Student C","Maybe you should try wearing the same
 clothes as Nana.
@@ -96,7 +96,7 @@ StlEye(4,0);
 StlMouth(4,2);
 VoicePlay("D010400500_04_030");
 MsgDisp("Nanatsumori","No, no.
-You know, I'm very......");
+You know, I'm very...");
 MsgDisp("主人公","(Hehe!)");
 MsgClose();
 ScrFadeOut(0);
@@ -128,7 +128,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D010400500_04_060");
 MsgDisp("Nanatsumori","I was surprised they involved me.");
-MsgDisp("主人公","Real-time search, huh...... It's true that
+MsgDisp("主人公","Real-time search, huh... It's true that
 it's popular with people around the same
 age. School is a good place to see
 everyone's reactions.");

@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("D140101101_01_000");
-    MsgDisp("Kazama","Heeh-, you chose the same thing as me.");
+    MsgDisp("Kazama","Ehhh-, you chose the same thing as me.");
     break ;
     case 4:
     case 5:

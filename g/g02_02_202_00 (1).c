@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("G020220200_02_000");
-MsgDisp("Sassa","Ryota's a real mysterious guy......");
+MsgDisp("Sassa","Ryota's a real mysterious guy...");
 MsgDisp("主人公","Wait, ｛風真＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -42,7 +42,7 @@ different. I don't have a clue what he's
 working for and what he worries about.");
 MsgDisp("主人公","I think your goal also puts a lot of
 pressure on you, ｛颯砂＊＊｝.
-And I can't do anything to help......");
+And I can't do anything to help...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -73,7 +73,7 @@ VoicePlay("G020220200_02_090");
 MsgDisp("Sassa","Yeah, the competition for your side, I
 guess? Though I gotta admit it looks like
 I'm kinda at a disadvantage.");
-MsgDisp("主人公","(A competition......for me?)");
+MsgDisp("主人公","(A competition...for me?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

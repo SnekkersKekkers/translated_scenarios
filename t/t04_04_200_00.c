@@ -23,7 +23,7 @@ MsgDisp("Kazama","It's fine.
 I'm okay like this.");
 MsgDisp("主人公","But ｛七ツ森＊｝ went to
 the trouble of styling your hair for
-you...... give it back.");
+you... give it back.");
 VoicePlay("T040420000_03_000");
 MsgDisp("Honda","Hey, hey. Can you lend me that hairpin
 next time? I think that'll make me look
@@ -31,7 +31,7 @@ the cutest. Oh come on!");
 VoicePlay("T040420000_04_020");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Ah, come on. Just give the hairpin back!
-This......is my fault,
+This...is my fault,
 ｛主人公｝.");
 MsgClose();
 BGMStop(5);
@@ -39,7 +39,7 @@ ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040420000_04_030");
 MsgDisp("Nanatsumori","I don't know why we started fighting over
-the hairpin...... I know this is childish
+the hairpin... I know this is childish
 but, I wondered if everyone liked you.");
 MsgClose();
 ScrFadeOut(0,0,300);

@@ -46,7 +46,7 @@ Here's your present, ｛颯砂＊＊｝!");
     VoicePlay("K010200100_02_030");
     MsgDisp("Sassa","Really!?
 I'm so happy, thank you!");
-    MsgDisp("主人公","I hope you like it......");
+    MsgDisp("主人公","I hope you like it...");
     break ;
     case 4:
     case 5:

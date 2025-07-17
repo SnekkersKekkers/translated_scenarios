@@ -31,12 +31,12 @@ VoicePlay("B070300000_03_530");
 MsgDisp("Honda","At first, I didn't understand what that
 meant. But maybe it's because of \"Love\" or
 something like that?");
-MsgDisp("主人公","Uhm......");
+MsgDisp("主人公","Uhm...");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("B070300000_03_540");
-MsgDisp("Honda","Uuu......");
+MsgDisp("Honda","Uuu...");
 MsgDisp("主人公","Eh!
 What's wrong?");
 ChEye(3,0);
@@ -47,7 +47,7 @@ VoicePlay("B070300000_03_550");
 MsgDisp("Honda","It's happening right now.
 The tension.
 Sometimes this happens when we talk.");
-MsgDisp("主人公","That's somewhat embarrassing......");
+MsgDisp("主人公","That's somewhat embarrassing...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -61,7 +61,7 @@ ChCheek(3,8);
 VoiceEVSPlay(3);
 VoicePlay("B070300000_03_570");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Uhm......");
+MsgDisp("主人公","Uhm...");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -69,10 +69,10 @@ ChCheek(3,0);
 VoicePlay("B070300000_03_580");
 MsgDisp("Honda","Huh, is that no good? Did I sound weird?
 It seems like my voice has that same
-effect on you......");
+effect on you...");
 MsgDisp("主人公","(I wonder if I'll get to learn
 ｛本多＊＊｝ 's thoughts on
-\"Love\" some day......?)");
+\"Love\" some day...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

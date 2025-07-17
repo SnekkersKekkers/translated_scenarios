@@ -47,7 +47,7 @@ ChMotion(2,3);
 ChCheek(2,10);
 VoicePlay("G020210304_02_050");
 MsgDisp("Sassa","Seriously?
-Something I like......");
+Something I like...");
 MsgDisp("主人公","?");
 ChEye(2,5);
 ChMouth(2,4);
@@ -59,7 +59,7 @@ Oh, I need to cool my head!");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChClose(2);
 MsgDisp("主人公","(Eh, what's wrong?
-｛颯砂＊＊｝......)");
+｛颯砂＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

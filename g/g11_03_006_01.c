@@ -23,7 +23,7 @@ you, they wouldn't let you give monthly
 recommendations to the customer, would
 they?");
 MsgDisp("主人公","｛本多＊＊｝, what should I
-do......");
+do...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -34,7 +34,7 @@ Hey, there's a customer!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","I'm happy, but it's a big
-responsibility......");
+responsibility...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -49,7 +49,7 @@ VoicePlay("G110300601_03_040");
 MsgDisp("Honda","｛主人公｝.
 How is it?
 Have you decided on a recommendation?");
-MsgDisp("主人公","No, not at all.......");
+MsgDisp("主人公","No, not at all....");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);
@@ -67,7 +67,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300601_03_070");
 MsgDisp("Honda","Anything?");
-MsgDisp("主人公","Umm...... something I read recently......
+MsgDisp("主人公","Umm... something I read recently...
 How about 'Habatcher'?");
 ChEye(3,0);
 ChMouth(3,1);
@@ -76,7 +76,7 @@ VoicePlay("G110300601_03_080");
 MsgDisp("Honda","A magazine∋
 Yep yep, it's good.
 That's so 'you', nice perspective!");
-MsgDisp("主人公","(Is it really okay......?)");
+MsgDisp("主人公","(Is it really okay...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

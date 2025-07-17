@@ -39,7 +39,7 @@ VoicePlay("T040200000_02_040");
 MsgDisp("Sassa","What, why are you surprised?
 It's easier to run in a uniform than it is
 to run in a party outfit.");
-MsgDisp("主人公","Hehe, yes......!");
+MsgDisp("主人公","Hehe, yes...!");
 NSSEye(2,3);
 NSSMouth(2,3);
 NSSEyeOpenLevel(2,5);

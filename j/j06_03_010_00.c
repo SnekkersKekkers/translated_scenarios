@@ -1,4 +1,4 @@
-MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
+MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){
@@ -29,7 +29,7 @@ Is this a date?)");
         VoicePlay("J060301000_03_030");
         MsgDisp("Honda","Oh, I'm sorry!
 I was so happy.
-I didn't think that far ahead......");
+I didn't think that far ahead...");
         VoicePlay("J060301000_03_040");
         MsgDisp("Honda","Of course, no problem there.
 Thanks!");
@@ -69,13 +69,13 @@ suddenly.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He took the time to invite me over, I'm
-sorry I did that ......)");
+sorry I did that ...)");
         break ;
         case 4:
         case 5:
         VoicePlay("J060301000_03_090");
-        MsgDisp("Honda","Eh ......?");
-        MsgDisp("主人公","Oh, um, ......");
+        MsgDisp("Honda","Eh ...?");
+        MsgDisp("主人公","Oh, um, ...");
         VoicePlay("J060301000_03_100");
         MsgDisp("Honda","Oh, I'm sorry!
 Now I finally understand.");
@@ -83,7 +83,7 @@ Now I finally understand.");
         MsgDisp("Honda","I was getting carried away all by myself
 again. That's why I wasn't prepared for
 the rejection.");
-        MsgDisp("主人公","Uh...... sorry");
+        MsgDisp("主人公","Uh... sorry");
         VoicePlay("J060301000_03_120");
         MsgDisp("Honda","No, you don't have to apologize!
 I'm sorry too.");
@@ -93,7 +93,7 @@ See ya?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that ......)");
+I'm sorry I did that ...)");
         break ;
         default :
         DbgAssert(1);

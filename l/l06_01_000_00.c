@@ -28,6 +28,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(It looks like ｛風真＊＊｝ has
 a lot of return gifts to give.
-Hm...... this is obligatory.)");
+Hm... this is obligatory.)");
 MsgClose();
 ScrFadeOut(0,0);

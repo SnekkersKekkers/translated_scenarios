@@ -37,7 +37,7 @@ ChEye ( 4,4 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,1 ) ;
 VoicePlay ( "D150004700_04_020" ) ;
-MsgDisp ( "Nanatsumori","That's true......
+MsgDisp ( "Nanatsumori","That's true...
 That's a fun idea, Mikage-sensei." ) ;
 ChEye ( 7,4 ) ;
 ChMouth ( 7,3 ) ;
@@ -50,7 +50,7 @@ ChEye ( 4,2 ) ;
 ChMouth ( 4,2 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150004700_04_030" ) ;
-MsgDisp ( "Nanatsumori","Ah......
+MsgDisp ( "Nanatsumori","Ah...
 I was just trolling." ) ;
 ChEye ( 7,1 ) ;
 ChMouth ( 7,3 ) ;
@@ -59,7 +59,7 @@ VoicePlay ( "D150004700_07_040" ) ;
 MsgDisp ( "Mikage","I'm dead serious, though." ) ;
 MsgDisp ( "主人公","(Will it be okay?
 I hope he doesn't get scolded by
-Himuro-sensei......)" ) ;
+Himuro-sensei...)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

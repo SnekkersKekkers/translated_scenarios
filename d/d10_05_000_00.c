@@ -40,7 +40,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(The smell of roses...What's with that? A
-dream, huh...... Did
+dream, huh... Did
 ｛柊＊＊＊｝ doze off during
 class?)");
 MsgClose();

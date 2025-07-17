@@ -10,6 +10,6 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140501159_05_010");
 MsgDisp("Hiiragi","Apparently there was an alumni who ate
-this all the time......
+this all the time...
 I'm worried about his health.");
 ChEye(5,0);

@@ -6,9 +6,9 @@ VoicePlay("D010700500_44_000");
 MsgDisp("School Girl","Bye then～!");
 MsgDisp("主人公","Yeah, byebye!");
 SEStop("EV_SE_845",2);
-MsgDisp("主人公","(Okay......
+MsgDisp("主人公","(Okay...
 I guess I should study for that test a bit
-before I go home......)");
+before I go home...)");
 MsgClose();
 ScrFadeOut(0);
 SEWait();
@@ -18,9 +18,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","Sigh......
+MsgDisp("主人公","Sigh...
 It's no use.
-I don't get it......");
+I don't get it...");
 VoicePlay("D010700500_07_000");
 MsgDisp("Mikage?","Which one?");
 MsgDisp("主人公","Ah, ｛御影＊＊｝!
@@ -46,9 +46,9 @@ ScrFadeIn(0);
 VoicePlay("D010700500_07_020");
 MsgDisp("Mikage","——So, which part of it don't you
 understand?");
-MsgDisp("主人公","Uhm......
+MsgDisp("主人公","Uhm...
 I guess I don't even know what I don't
-know......");
+know...");
 StlEye(7,2);
 VoicePlay("D010700500_07_030");
 MsgDisp("Mikage","Hahaha, how refreshing.");
@@ -62,7 +62,7 @@ StlEyeOpenLevel(7,5,1);
 VoicePlay("D010700500_07_050");
 MsgDisp("Mikage","An honest girl can do anything she tries,
 can't she?");
-MsgDisp("主人公","Y-Yeah......");
+MsgDisp("主人公","Y-Yeah...");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -94,7 +94,7 @@ VoicePlay("D010700500_07_080");
 MsgDisp("Mikage","There's nothing wrong with that.
 It's a good thing, so keep trying your
 best.");
-MsgDisp("主人公","｛御影＊＊｝......
+MsgDisp("主人公","｛御影＊＊｝...
 You're right, thank you so much!");
 ChEye(7,0);
 ChMouth(7,0);

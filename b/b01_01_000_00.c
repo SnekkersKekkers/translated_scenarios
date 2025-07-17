@@ -29,7 +29,7 @@ switch (ChPrmGet(1,6)){
     Wait(16,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B010100000_01_010");
-    MsgDisp("Kazama","...... Are you doing that on purpose?");
+    MsgDisp("Kazama","... Are you doing that on purpose?");
     MsgDisp("主人公","Huh?");
     MsgDispSksp(1,0);
     ChEye(1,2);

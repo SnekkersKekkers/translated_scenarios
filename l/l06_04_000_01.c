@@ -26,7 +26,7 @@ MsgDisp("Nanatsumori","Here, in return.");
 SEPlay("EV_SE_664");
 SEWait();
 MsgDisp("主人公","Hm?
-A present......?");
+A present...?");
 ChMotion(4,1);
 VoicePlay("L060400001_04_040");
 MsgDisp("Nanatsumori","Yeah.

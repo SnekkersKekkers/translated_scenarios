@@ -56,7 +56,7 @@ I shall have a taste of it.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ seemed happy.
-Thank goodness......)");
+Thank goodness...)");
     break ;
     case 4:
     case 5:
@@ -65,7 +65,7 @@ Thank goodness......)");
     ChMotion(5,4,1);
     VoicePlay("L040500004_05_070");
     MsgDisp("Hiiragi","I see this is handmade.");
-    MsgDisp("主人公","Don't look too closely......
+    MsgDisp("主人公","Don't look too closely...
 You may see some rough edges.");
     ChEye(5,0);
     ChMotion(5,0);
@@ -77,7 +77,7 @@ was made by you while keeping me in mind.");
     ChMotion(5,4);
     VoicePlay("L040500004_05_090");
     MsgDisp("Hiiragi","Yes, the result is quite lovely.");
-    MsgDisp("主人公","Hehe, thanks......
+    MsgDisp("主人公","Hehe, thanks...
 I feel a little shy.");
     ChEye(5,3);
     ChMouth(5,4);

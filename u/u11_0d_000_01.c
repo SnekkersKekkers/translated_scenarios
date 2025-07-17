@@ -11,7 +11,7 @@ ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(Alright, we made it here......)");
+MsgDisp("主人公","(Alright, we made it here...)");
 SEPlay("EV_SE_DOOR_002");
 SEWait();
 MsgClose();

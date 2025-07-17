@@ -31,14 +31,14 @@ ChMouth(1,2);
 ChMotion(1,0);
 ScrFadeIn(0);
 VoicePlay("D010100900_01_020");
-MsgDisp("Kazama","......Hey, can I ask you something?");
+MsgDisp("Kazama","...Hey, can I ask you something?");
 MsgDisp("主人公","Sure, what is it?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100900_01_030");
 MsgDisp("Kazama","While I was gone, did you hear that bell?");
-MsgDisp("主人公","......The bell, do you mean that church
+MsgDisp("主人公","...The bell, do you mean that church
 bell that ｛風真＊＊｝ used to
 hear? It's weird but I haven't heard it
 since then.");
@@ -46,12 +46,12 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D010100900_01_040");
-MsgDisp("Kazama","I see......
+MsgDisp("Kazama","I see...
 I was in England so I couldn't hear it,
-but you didn't either, huh......");
+but you didn't either, huh...");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","......?");
+MsgDisp("主人公","...?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -79,27 +79,27 @@ BGMPlay("BGM_C01_RYOUTA_C",0.01);
 ScrFadeIn(0);
 VoicePlay("D010100900_01_060");
 MsgDisp("Kazama","The two of us walking home from school
-together......Shouldn't it be fine since
+together...Shouldn't it be fine since
 those conditions were met?");
 StlEye(1,1);
 VoicePlay("D010100900_01_070");
 MsgDisp("Kazama","Here, let's listen carefully.");
 StlEye(1,0);
 StlEyeOpenLevel(1,0,1);
-MsgDisp("主人公","Ah, okay......");
+MsgDisp("主人公","Ah, okay...");
 StlMouth(1,1);
 StlMouthOpenLevel(1,0);
 VoicePlay("D010100900_01_080");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 MsgDisp("主人公","(｛風真＊＊｝ is really focusing.
-Okay, I will too......!)");
+Okay, I will too...!)");
 MsgClose();
 ScrFadeOut(3,30);
 EfctClose();
 StlClose();
 Wait(40,0);
 VoicePlay("D010100900_01_090");
-MsgDisp("Kazama","...... Ha.
+MsgDisp("Kazama","... Ha.
 Your eyebrows are intense.");
 MsgDisp("主人公","Eh∋");
 Wait(40,0);
@@ -109,7 +109,7 @@ MsgClose();
 ChOpen(1,254,0,2,3,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","......I didn't hear it.");
+MsgDisp("主人公","...I didn't hear it.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -124,12 +124,12 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100900_01_110");
-MsgDisp("Kazama","......Nope, I can't let my guard down just
+MsgDisp("Kazama","...Nope, I can't let my guard down just
 yet. Who knows when you'll just fall into
 another puddle again.");
 MsgDisp("主人公","Geez, I'm fine now!
 It would be too embarrassing to have you
-carry me on your back again......");
+carry me on your back again...");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -139,7 +139,7 @@ VoicePlay("D010100900_01_120");
 MsgDisp("Kazama","I can carry you in my arms, on my back,
 even on my shoulders would be fine with
 me, though?");
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 I need to watch my step when I'm with
 ｛風真＊＊｝.)");
 BGMStop();

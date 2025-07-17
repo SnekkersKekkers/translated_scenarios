@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030102002_01_020");
-    MsgDisp("Kazama","ＯＫ!
+    MsgDisp("Kazama","OK!
 That's a pretty popular spot.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

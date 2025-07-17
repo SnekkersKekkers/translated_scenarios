@@ -23,7 +23,7 @@ Did you come to cheer me on?");
     MsgDisp("Sassa","I was a little worried that you'd be
 getting nervous, but looks like it's just
 me.");
-    MsgDisp("主人公","Hehe, geez......
+    MsgDisp("主人公","Hehe, geez...
 I'm nervous too, you know?");
     ChEye(2,3);
     ChMouth(2,3);

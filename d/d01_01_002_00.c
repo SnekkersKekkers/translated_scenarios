@@ -1,11 +1,11 @@
 BGOpen("fp700",0);
 BGMPlay("BGM_PLACE_POOL",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","It's so lively......");
+MsgDisp("主人公","It's so lively...");
 VoicePlay("D010100200_34_000");
 MsgDisp("Clerk","You have a good eye, bro.
 That's a good item～");
-MsgDisp("主人公","Over there......
+MsgDisp("主人公","Over there...
 Is that ｛風真＊＊｝?");
 MsgClose();
 ScrFadeOut(0,0);
@@ -38,7 +38,7 @@ StlEye(1,0);
 VoicePlay("D010100200_01_030");
 MsgDisp("Kazama","Maybe if it was 5 Rich.");
 VoicePlay("D010100200_34_040");
-MsgDisp("Clerk","ＯＫ!
+MsgDisp("Clerk","OK!
 Thanks for the sale～!");
 BGMStop();
 MsgClose();

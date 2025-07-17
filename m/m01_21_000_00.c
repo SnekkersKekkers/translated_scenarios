@@ -13,16 +13,16 @@ ChEye(21,2);
 ChMouth(21,2);
 ChMotion(21,0);
 VoicePlay("M012100000_21_000");
-MsgDisp("Michiru","Mari......
+MsgDisp("Michiru","Mari...
 I know my coming's a bother but I was so
-worried, I just couldn't......");
+worried, I just couldn't...");
 MsgDisp("主人公","Hehe.
 I'm alright now.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("M012100000_21_010");
-MsgDisp("Michiru","......Really?");
+MsgDisp("Michiru","...Really?");
 MsgDisp("主人公","Mm, really.
 Thanks for worrying about me
 ｛みちる＊｝.");
@@ -30,7 +30,7 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("M012100000_21_020");
-MsgDisp("Michiru","Thank goodness......");
+MsgDisp("Michiru","Thank goodness...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -61,7 +61,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("M012100000_21_060");
-MsgDisp("Michiru","...... For sure, right?
+MsgDisp("Michiru","... For sure, right?
 For today, rest well.
 Then, let us meet next week.");
 MsgClose();

@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝......
+MsgDisp("主人公","｛颯砂＊＊｝...
 Why are you here?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -43,7 +43,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020220000_02_050");
-MsgDisp("Sassa","......I've been running ever since I
+MsgDisp("Sassa","...I've been running ever since I
 started track and field in elementary
 school.");
 ChEye(2,0);
@@ -71,7 +71,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220000_02_090");
-MsgDisp("Sassa","......That's wrong.");
+MsgDisp("Sassa","...That's wrong.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -83,14 +83,14 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220000_02_110");
-MsgDisp("Sassa","......That's easy.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("Sassa","...That's easy.");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020220000_02_120");
-MsgDisp("Sassa","I'm only good at athletics......");
+MsgDisp("Sassa","I'm only good at athletics...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -98,7 +98,7 @@ VoicePlay("T020220000_02_130");
 MsgDisp("Sassa","I didn't listen to the advice of my
 seniors or teammates. I wasn't happy even
 if we won. I was a nasty jerk.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -111,7 +111,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220000_02_150");
-MsgDisp("Sassa","......You used to run with me a lot,
+MsgDisp("Sassa","...You used to run with me a lot,
 remember?");
 MsgDisp("主人公","Yes.");
 ChEye(2,4);
@@ -143,7 +143,7 @@ MsgDisp("Sassa","I don't want to be some track and field
 fanatic isolated from everyone else, I
 want to make my dreams come true as Nozomu
 Sassa.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 MsgClear();
 ChClose(2);
 ChCustomLayout(2,5,0,-2.8);

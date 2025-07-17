@@ -3,5 +3,5 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("SS0401342_01_000");
 MsgDisp("Kazama","Are you spoiled?
-I don't mind .......");
+I don't mind ....");
 MsgClose();

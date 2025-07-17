@@ -5,7 +5,7 @@ MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow......
+MsgDisp("主人公","Wow...
 So many beautiful flowers!");
 ChEye(4,0);
 ChMouth(4,3);
@@ -28,7 +28,7 @@ ChClose(4,0,30);
 Wait(50,0);
 VoicePlay("Q070400000_04_020");
 MsgDisp("Nanatsumori","Ah, excuse me.
-Could you take a picture......");
+Could you take a picture...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(45,0);
@@ -53,17 +53,17 @@ ChNanaType(0);
 ChOpen(4,254,0,0,5,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070400000_04_050");
-MsgDisp("Nanatsumori","Woah...... so big.");
-MsgDisp("主人公","True......
+MsgDisp("Nanatsumori","Woah... so big.");
+MsgDisp("主人公","True...
 It's feels like I'm really in a foreign
 country.");
 VoicePlay("Q070400000_04_060");
-MsgDisp("Nanatsumori","Yeah......");
+MsgDisp("Nanatsumori","Yeah...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q070400000_04_070");
-MsgDisp("Nanatsumori","Graduation trip or honeymoon......");
+MsgDisp("Nanatsumori","Maybe for a Graduation Trip or a Honeymoon...");
 MsgDisp("主人公","Eh?");
 ChEye(4,3);
 ChMouth(4,3);
@@ -83,7 +83,7 @@ BGMStop(2);
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(After this we'll move to Nagasaki city.
-Huis Ten Bosch was so much fun......!)");
+Huis Ten Bosch was so much fun...!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -115,13 +115,13 @@ ChMotion(4,0,1);
 VoicePlay("Q070400000_04_120");
 MsgDisp("Nanatsumori","Indeed.
 But here has a certain other vibe.");
-MsgDisp("主人公","......vibe?");
+MsgDisp("主人公","...vibe?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 ChCheek(4,5);
 VoicePlay("Q070400000_04_130");
-MsgDisp("Nanatsumori","...... It feels a bit embarrassing saying
+MsgDisp("Nanatsumori","... It feels a bit embarrassing saying
 this.");
 MsgDisp("主人公","Hey, come on.
 I also feel the vibes.");
@@ -129,13 +129,13 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q070400000_04_140");
-MsgDisp("Nanatsumori","Thanks for matching.");
+MsgDisp("Nanatsumori","Thanks for matching me.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("Q070400000_04_150");
-MsgDisp("Nanatsumori","Well, let's take some more shots here, as
+MsgDisp("Nanatsumori","Well, let's take some more pics here, as
 usual!");
 MsgDisp("主人公","Sure thing!");
 BGMStop();

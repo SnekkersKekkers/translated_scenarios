@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","Ah, I need to tend to the plants
-soon......");
+soon...");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -31,7 +31,7 @@ soon......");
     MsgDisp("Nanatsumori","Your nose.
 Something's on it.");
     MsgDisp("主人公","Hm?
-Ah...... it's some soil.");
+Ah... it's some soil.");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,1,1);
@@ -43,7 +43,7 @@ so I guess that's when it happened.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400002_04_030");
-    MsgDisp("Nanatsumori","I see...... So that's why I thought the
+    MsgDisp("Nanatsumori","I see... So that's why I thought the
 storefront looked pretty good. Good, good.");
     MsgDisp("主人公","(I did it!
 I'm happy to be complimented!)");
@@ -51,7 +51,7 @@ I'm happy to be complimented!)");
     case 4:
     case 5:
     MsgDisp("主人公","Ah, I need to tend to the plants
-soon......");
+soon...");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -99,15 +99,15 @@ my face?");
     SEWait();
     ChMotion(4,1,1);
     VoicePlay("I360400002_04_080");
-    MsgDisp("Nanatsumori","There was dirt on your nose......
+    MsgDisp("Nanatsumori","There was dirt on your nose...
 I wonder how that happened.");
-    MsgDisp("主人公","Ah...... Maybe when I was tending to the
+    MsgDisp("主人公","Ah... Maybe when I was tending to the
 plants around the store earlier. Thanks.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400002_04_090");
-    MsgDisp("Nanatsumori","Got it......
+    MsgDisp("Nanatsumori","Got it...
 That explains the beauty I see.
 The flowers.");
     MsgDisp("主人公","Really?");

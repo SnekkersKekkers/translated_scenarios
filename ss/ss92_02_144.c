@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("SS9202144_02_000");
-MsgDisp("Sassa","Oh, ...... just us?");
+MsgDisp("Sassa","Oh, ... just us?");
 MsgClose();

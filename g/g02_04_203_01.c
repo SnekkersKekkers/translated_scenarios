@@ -33,7 +33,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020420301_04_040");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChEye(4,1);
 ChMouth(4,5);
 ChMotion(4,2,1);

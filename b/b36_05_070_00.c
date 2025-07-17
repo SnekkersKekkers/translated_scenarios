@@ -25,12 +25,12 @@ ChMotion(5,0);
 VoicePlay("B360507000_05_020");
 MsgDisp("Hiiragi","Some time alone with you.
 I've been wanting this for a long time.");
-MsgDisp("主人公","Eh, ｛柊＊＊＊｝......?");
+MsgDisp("主人公","Eh, ｛柊＊＊＊｝...?");
 ChEye(5,0);
 VoicePlay("B360507000_05_030");
 MsgDisp("Hiiragi","Are you surprised that I have this kind of
 possessiveness?");
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -58,7 +58,7 @@ VoicePlay("B360507000_05_070");
 MsgDisp("Hiiragi","Hehe.
 I'm actually quite the strategist.");
 MsgDisp("主人公","(Something about ｛柊＊＊＊｝
-seems a little different from usual......)");
+seems a little different from usual...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

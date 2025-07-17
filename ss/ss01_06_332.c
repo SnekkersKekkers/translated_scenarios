@@ -5,6 +5,6 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("SS0106332_06_000");
-MsgDisp("Himuro","Don't stare so much......");
+MsgDisp("Himuro","Don't stare so much...");
 MsgClose();
 ChCheek(6,0);

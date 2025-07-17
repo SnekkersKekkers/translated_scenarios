@@ -30,7 +30,7 @@ don't you?");
     VoicePlay("Q090500000_05_020");
     MsgDisp("Hiiragi","Oh, that analogy, that was my dream. I
 didn't have any real experience with it,
-but...... I see it now.");
+but... I see it now.");
     MsgDisp("主人公","Hehe.
 Well, let's go!");
     break ;
@@ -70,7 +70,7 @@ over.");
     MsgDisp("Hiiragi","Haha!
 You said mean things, so I'm getting back
 at you.");
-    MsgDisp("主人公","Come on......
+    MsgDisp("主人公","Come on...
 Ah, look, shall we go?");
     ChEye(5,4);
     ChMotion(5,0);

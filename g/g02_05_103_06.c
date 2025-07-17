@@ -12,7 +12,7 @@ ChMotion(5,2);
 VoicePlay("G020510306_05_010");
 MsgDisp("Hiiragi","Yes.
 You and I had sweet sake there.
-Why am I remembering it now......");
+Why am I remembering it now...");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510306_05_020");
 MsgDisp("Hiiragi","This place is also mysterious.
@@ -35,7 +35,7 @@ VoicePlay("G020510306_05_040");
 MsgDisp("Hiiragi","Hehe, though I wonder about having sweet
 sake now, considering the season?");
 MsgDisp("主人公","(｛柊＊＊＊｝ seems to be having fun.
-But a goddess......?)");
+But a goddess...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -8,7 +8,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("S110100001_01_000");
-MsgDisp("Kazama","......");
+MsgDisp("Kazama","...");
 MsgDisp("主人公","｛風真＊＊｝, what did you get?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -23,7 +23,7 @@ ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("S110100001_01_030");
 MsgDisp("Kazama","Wait a sec. Everytime something good
-happens to me...... You're involved.");
+happens to me... You're involved.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,3);

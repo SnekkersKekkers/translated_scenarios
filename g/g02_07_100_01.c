@@ -15,18 +15,18 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710001_07_020");
-MsgDisp("Mikage","Yeah, if it were me......Vice Principal
+MsgDisp("Mikage","Yeah, if it were me...Vice Principal
 Himuro? If we got along well, he might
 even raise my evaluation.");
 MsgDisp("主人公","I heard there's a rumor here that you can
 hear the other person's inner
-thoughts.......");
+thoughts....");
 ChEye(7,0);
 ChMouth(7,1);
 ChMotion(7,1);
 VoicePlay("G020710001_07_030");
 MsgDisp("Mikage","Vice Principal Himuro's inner
-thoughts......");
+thoughts...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -39,7 +39,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710001_07_050");
-MsgDisp("Mikage","Vice Principal's kind voice......?
+MsgDisp("Mikage","Vice Principal's kind voice...?
 Uuugh, stop it.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -53,10 +53,10 @@ ChMotion(7,4);
 VoicePlay("G020710001_07_070");
 MsgDisp("Mikage","Ah, that was just, well, in the heat of
 the moment. Forget about it. That's
-strange......what am I even saying.");
+strange...what am I even saying.");
 MsgDisp("主人公","(Only me? Just now, if that was
 ｛御影＊＊｝'s inner voice,
-I'd be happy......)");
+I'd be happy...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

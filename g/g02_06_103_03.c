@@ -18,7 +18,7 @@ ChMotion(6,0);
 VoicePlay("G020610303_06_020");
 MsgDisp("Himuro","There's a chance you'll get hit on.
 Are you aware of that?");
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -38,7 +38,7 @@ ChMotion(6,0);
 VoicePlay("G020610303_06_050");
 MsgDisp("Himuro","It was lucky I showed up, but what would
 you have done if you were alone?");
-MsgDisp("主人公","Umm, I'll be careful......");
+MsgDisp("主人公","Umm, I'll be careful...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2,1);
@@ -47,7 +47,7 @@ VoicePlay("G020610303_06_060");
 MsgDisp("Himuro","It's not something you can just handle by
 being careful.");
 MsgDisp("主人公","Ehh?
-Then, what should I do......");
+Then, what should I do...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -61,7 +61,7 @@ VoicePlay("G020610303_06_080");
 MsgDisp("Himuro","If there's already a guy next to you, no
 one would dare approach.");
 MsgDisp("主人公","I see.
-But, who......?");
+But, who...?");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
@@ -80,7 +80,7 @@ ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G020610303_06_110");
 MsgDisp("Himuro","Absolutely not.");
-MsgDisp("主人公","(｛氷室＊＊｝, your eyes are scary......?)");
+MsgDisp("主人公","(｛氷室＊＊｝, your eyes are scary...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

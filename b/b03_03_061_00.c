@@ -5,7 +5,7 @@ ChMotion(3,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B020300013_03_000");
-MsgDisp("Honda",".........");
+MsgDisp("Honda","......");
 MsgDisp("主人公","Hehe, it's pretty crowded.
 Shall we browse around before the show?");
 MsgDispSksp(1,0);

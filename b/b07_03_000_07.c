@@ -31,7 +31,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B070300000_03_400");
 MsgDisp("Honda","While that is true, that's not the reason.");
-MsgDisp("主人公","Uhm......
+MsgDisp("主人公","Uhm...
 Why, then?");
 ChEye(3,0);
 ChMouth(3,3);

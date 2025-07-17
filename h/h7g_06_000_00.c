@@ -35,8 +35,8 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("H8G0600000_06_040");
 MsgDisp("Himuro","I'm glad your efforts paid off.
-...... Congrats.");
-MsgDisp("主人公","(I'm so happy......
+... Congrats.");
+MsgDisp("主人公","(I'm so happy...
 I'm glad I worked so hard for the
 handicrafts club!)");
 MsgClose();

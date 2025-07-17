@@ -3,7 +3,7 @@ ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020510401_05_000");
 MsgDisp("Hiiragi","I've been performing in plays themed
 around romance without ever experiencing
-real romance myself......");
+real romance myself...");
 MsgDisp("主人公","｛柊＊＊＊｝, what's this all of
 a sudden?");
 ChEye(5,4);
@@ -25,7 +25,7 @@ anything about love.
 I became wiser to my oen ignorance.");
 VoicePlay("G020510401_05_040");
 MsgDisp("Hiiragi","It was because I met you.");
-MsgDisp("主人公","Me......?");
+MsgDisp("主人公","Me...?");
 ChMotion(5,4);
 VoicePlay("G020510401_05_050");
 MsgDisp("Hiiragi","Yes, knowing this feeling and acting it
@@ -37,7 +37,7 @@ ChMotion(5,0);
 VoicePlay("G020510401_05_060");
 MsgDisp("Hiiragi","Meeting you has changed me.
 It even affects my roles on stage.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,4);
 VoicePlay("G020510401_05_070");
 MsgDisp("Hiiragi","My father used to often say that, when he
@@ -48,7 +48,7 @@ VoicePlay("G020510401_05_080");
 MsgDisp("Hiiragi","At that time, I would pay no mind to it,
 but thanks to you, I may join my father in
 those exchanges of theatre discussion.");
-MsgDisp("主人公","(Thanks to me......
+MsgDisp("主人公","(Thanks to me...
 I'm happy, but also somewhat embarrassed.)");
 BGMStop();
 MsgClose();

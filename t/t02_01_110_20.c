@@ -1,4 +1,4 @@
-MsgDisp("主人公","Me too......
+MsgDisp("主人公","Me too...
 I also really like ｛風真＊＊｝.");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
@@ -7,7 +7,7 @@ Wait(12,0);
 ChEye(1,3);
 ChMouth(1,2);
 VoicePlay("T020111000_01_160");
-MsgDisp("Kazama","......Is that so.");
+MsgDisp("Kazama","...Is that so.");
 MsgDisp("主人公","Yes, thank you for always thinking of me.
 I'm sorry I don't remember everything.");
 ChEyeOpenLevel(1,0);

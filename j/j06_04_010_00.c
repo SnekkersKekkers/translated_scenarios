@@ -1,4 +1,4 @@
-MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
+MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){
@@ -45,8 +45,8 @@ I'm looking forward to Sunday!)");
         case 4:
         case 5:
         VoicePlay("J060401000_04_030");
-        MsgDisp("Nanatsumori","Ahh ...... not good then?");
-        MsgDisp("主人公","Yeah......");
+        MsgDisp("Nanatsumori","Ahh ... not good then?");
+        MsgDisp("主人公","Yeah...");
         VoicePlay("J060401000_04_040");
         MsgDisp("Nanatsumori","Okay.
 I'll get back to some other time.
@@ -54,7 +54,7 @@ Bye.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that ......)");
+I'm sorry I did that ...)");
         break ;
         default :
         DbgAssert(1);

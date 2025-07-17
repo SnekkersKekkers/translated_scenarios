@@ -5,7 +5,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("J030400001_04_000");
     MsgDisp("Nanatsumori","I can't.
 I have something to do that day.");
-    MsgDisp("主人公","Is that so......
+    MsgDisp("主人公","Is that so...
 Well, then, I don't blame you.");
     VoicePlay("J030400001_04_010");
     MsgDisp("Nanatsumori","Oh, well, then.");
@@ -15,13 +15,13 @@ Well, then, I don't blame you.");
     break ;
     case 3:
     VoicePlay("J030400001_04_020");
-    MsgDisp("Nanatsumori","That day......
+    MsgDisp("Nanatsumori","That day...
 Huh.");
     MsgDisp("主人公","Eh?");
     VoicePlay("J030400001_04_030");
     MsgDisp("Nanatsumori","I had a prior engagement.
 Too bad.");
-    MsgDisp("主人公","Is that so......
+    MsgDisp("主人公","Is that so...
 Well, then I don't blame you.");
     VoicePlay("J030400001_04_040");
     MsgDisp("Nanatsumori","Next time you try, go for it.
@@ -33,12 +33,12 @@ Well then.");
     case 4:
     case 5:
     VoicePlay("J030400001_04_050");
-    MsgDisp("Nanatsumori","Oh, my God......
+    MsgDisp("Nanatsumori","Oh, my God...
 Ah-.");
     MsgDisp("主人公","Perhaps you have a prior engagement?");
     VoicePlay("J030400001_04_060");
     MsgDisp("Nanatsumori","Yeah. I can't leave this one
-out......Nope, nope. Sorry.");
+out...Nope, nope. Sorry.");
     MsgDisp("主人公","Ahh.
 I'll ask you out again?");
     VoicePlay("J030400001_04_070");

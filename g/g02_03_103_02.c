@@ -67,15 +67,15 @@ ChMotion(3,4);
 VoicePlay("G020310302_03_100");
 MsgDisp("Honda","Even the little things you do every day
 must be influenced by your hairstyle.");
-MsgDisp("主人公","I-I see......?");
+MsgDisp("主人公","I-I see...?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("G020310302_03_110");
 MsgDisp("Honda","Yeah, I'm getting excited!");
 MsgDisp("主人公","(Sharing the same hairstyle as
-｛本多＊＊｝...... I want to see
-it......but I also want to stop him......)");
+｛本多＊＊｝... I want to see
+it...but I also want to stop him...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

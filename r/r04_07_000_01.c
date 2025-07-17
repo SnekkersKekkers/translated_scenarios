@@ -91,7 +91,7 @@ wouldn't lie.");
     ChEyeOpenLevel(7,8);
     VoicePlay("R040700001_07_110");
     MsgDisp("Mikage","It's beautiful.");
-    MsgDisp("主人公","｛御影＊＊｝......
+    MsgDisp("主人公","｛御影＊＊｝...
 Thank you very much.");
     break ;
     default :

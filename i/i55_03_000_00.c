@@ -22,7 +22,7 @@ What's up?");
 You should've told me that you got a
 part-time job here!");
     MsgDisp("主人公","It's a little embarrassing to go out of my
-way to tell you......");
+way to tell you...");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -38,7 +38,7 @@ Thanks.");
     MsgDisp("Honda","No prob!
 Work hard, 'kay?
 See you.");
-    MsgDisp("主人公","(It suits me......
+    MsgDisp("主人公","(It suits me...
 It makes me happy that
 ｛本多＊＊｝ said that.)");
     break ;
@@ -62,7 +62,7 @@ you work here.");
     ChMotion(3,1,1);
     VoicePlay("I550300000_03_060");
     MsgDisp("Honda","So, I'd like to know what you recommend.");
-    MsgDisp("主人公","What I recommend......
+    MsgDisp("主人公","What I recommend...
 Who are you giving the gift to?");
     ChEye(3,0);
     ChMouth(3,0);
@@ -71,7 +71,7 @@ Who are you giving the gift to?");
     MsgDisp("Honda","Someone who's been helping out my father.
 I was thinking that some dried fruits that
 keep for a while would be good.");
-    MsgDisp("主人公","If it's like that, then......");
+    MsgDisp("主人公","If it's like that, then...");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -101,7 +101,7 @@ guests coming in the afternoon.");
     ChMotion(3,0,1);
     VoicePlay("I550300000_03_100");
     MsgDisp("Honda","Wow, is this new?
-It looks a bit like a paste......");
+It looks a bit like a paste...");
     MsgDisp("主人公","It's sweet potato paste.
 The mild sweetness makes it popular with
 our younger customers.");
@@ -109,7 +109,7 @@ our younger customers.");
     ChMouth(3,0);
     ChMotion(3,2,1);
     VoicePlay("I550300000_03_110");
-    MsgDisp("Honda","......Hehe.");
+    MsgDisp("Honda","...Hehe.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -127,7 +127,7 @@ compliment me, you know?");
 promoting it because it's new, you
 actually know what's special about it.");
     MsgDisp("主人公","Hehe, thanks.
-...... By the way, are you doing okay on
+... By the way, are you doing okay on
 time?");
     ChEye(3,5);
     ChMouth(3,4);

@@ -7,12 +7,12 @@ ScrFadeIn(0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q260500000_05_000");
-MsgDisp("Hiiragi","Ahh......");
+MsgDisp("Hiiragi","Ahh...");
 ChEyeOpenLevel(5,9);
 VoicePlay("Q260500000_05_010");
-MsgDisp("Hiiragi","I knew it were you......");
+MsgDisp("Hiiragi","I knew it were you...");
 MsgDisp("主人公","Eh, ｛柊＊＊＊｝∋
-Wait, so just now......");
+Wait, so just now...");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
@@ -24,7 +24,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,7);
 VoicePlay("Q260500000_05_030");
-MsgDisp("Hiiragi","So, I touched......
+MsgDisp("Hiiragi","So, I touched...
 I'm sorry.");
 MsgClose();
 SEPlay("EV_SE_799");
@@ -32,6 +32,6 @@ ChClose(5);
 SEWait();
 MsgDisp("主人公","(Eeh∋
 So the feeling right now was
-｛柊＊＊＊｝......? )");
+｛柊＊＊＊｝...? )");
 MsgClose();
 ScrFadeOut(0,0);

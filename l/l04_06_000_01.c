@@ -7,8 +7,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,2,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600001_06_000");
-    MsgDisp("Himuro","......You too?");
-    MsgDisp("主人公","What......?");
+    MsgDisp("Himuro","...You too?");
+    MsgDisp("主人公","What...?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -22,7 +22,7 @@ Is it popular?");
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(Yeah......
+    MsgDisp("主人公","(Yeah...
 I guess that's it.)");
     break ;
     case 3:
@@ -54,20 +54,20 @@ It's from a shop with a good reputation.");
     ChMouth(6,0);
     ChMotion(6,5,1);
     VoicePlay("L040600001_06_040");
-    MsgDisp("Himuro","Huh...... this?");
+    MsgDisp("Himuro","Huh... this?");
     MsgDisp("主人公","Y-Yeah.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600001_06_050");
-    MsgDisp("Himuro","......I, see.");
-    MsgDisp("主人公","Um......");
+    MsgDisp("Himuro","...I, see.");
+    MsgDisp("主人公","Um...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600001_06_060");
-    MsgDisp("Himuro","Ha...... don't worry about it.
+    MsgDisp("Himuro","Ha... don't worry about it.
 I was the one thinking of nonsense and
 expecting too much.");
     MsgClose();
@@ -77,7 +77,7 @@ expecting too much.");
     ChClose(6);
     Wait(30);
     MsgDisp("主人公","(Should I have given him a better
-chocolate......?)");
+chocolate...?)");
     break ;
     default :
     DbgAssert(1);

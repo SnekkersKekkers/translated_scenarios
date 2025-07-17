@@ -5,7 +5,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,5,0,3,#1,#1,0,2,0,30);
 VoicePlay("Q020C00100_07_000");
-MsgDisp("Mikage","Well then, shall we go?");
+MsgDisp("Mikage","Shall we go, then?");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
@@ -35,7 +35,7 @@ VoicePlay("Q020C00100_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
 Would you be inclined to spend today's
 free period with us?");
-MsgSel("Yes, please!","Sorry, it's just......");
+MsgSel("Yes, please!","Sorry, it's just...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(5,2);
@@ -91,7 +91,7 @@ free period!)");
     ChEyeOpenLevel(5,0);
     VoicePlay("Q020C00100_05_050");
     MsgDisp("Hiiragi","Ah, I see.
-That's a disappointment.");
+That's rather disappointing.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -106,7 +106,7 @@ It's because I invited in a weird way.
 Sorry to you too.");
     ChMouth(5,4);
     ChEyeOpenLevel(5,9);
-    MsgDisp("主人公","No......
+    MsgDisp("主人公","No...
 I'm also sorry.");
     ChEye(7,0);
     ChMouth(7,0);

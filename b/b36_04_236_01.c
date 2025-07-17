@@ -63,7 +63,7 @@ MsgDisp("Nanatsumori","I think we both made some good memories.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);
-MsgDisp("主人公","(｛七ツ森＊｝......)");
+MsgDisp("主人公","(｛七ツ森＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

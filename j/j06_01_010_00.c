@@ -1,4 +1,4 @@
-MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
+MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){
@@ -19,7 +19,7 @@ I'm looking forward to it.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(An invitation from
-｛風真＊＊｝......
+｛風真＊＊｝...
 Is this a date?)");
         break ;
         case 5:
@@ -60,27 +60,27 @@ I'm a little nervous.)");
         break ;
         case 4:
         VoicePlay("J060101000_01_060");
-        MsgDisp("Kazama","U......
+        MsgDisp("Kazama","U...
 Oh, yeah.
 No good?");
         MsgDisp("主人公","Yeah, sorry.
-Just a little bit. ......");
+Just a little bit. ...");
         VoicePlay("J060101000_01_070");
         MsgDisp("Kazama","What do you mean \"a little bit\"?");
-        MsgDisp("主人公","You don't talk like that anymore ......");
+        MsgDisp("主人公","You don't talk like that anymore ...");
         VoicePlay("J060101000_01_080");
         MsgDisp("Kazama","Yes, yes, yes.
 I'll try to figure out what's going on.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that. ......)");
+I'm sorry I did that. ...)");
         break ;
         case 5:
         VoicePlay("J060101000_01_090");
         MsgDisp("Kazama","Okay.");
-        MsgDisp("主人公","Um, ...... sorry?
-Just ......");
+        MsgDisp("主人公","Um, ... sorry?
+Just ...");
         VoicePlay("J060101000_01_100");
         MsgDisp("Kazama","It's fine.
 Even though it's not good.");
@@ -90,12 +90,12 @@ Even though it's not good.");
 See you later?");
         VoicePlay("J060101000_01_120");
         MsgDisp("Kazama","If we can be together, it doesn't matter
-where you are.......");
+where you are....");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hmmm ......
+        MsgDisp("主人公","(Hmmm ...
 You went to the trouble of inviting me,
-I'm sorry I did that. ......)");
+I'm sorry I did that. ...)");
         break ;
         default :
         DbgAssert(1);

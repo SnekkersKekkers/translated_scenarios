@@ -27,7 +27,7 @@ ChEyeOpenLevel(5,10);
 ChCheek(5,0);
 VoicePlay("T020500021_05_020");
 MsgDisp("Hiiragi","Then, let me see your smile once more.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -36,7 +36,7 @@ Wait(120,0);
 StlOpen("ev_05_17");
 ScrFadeIn(0);
 VoicePlay("T020500021_05_030");
-MsgDisp("Hiiragi","I'll be with you...... for all of
+MsgDisp("Hiiragi","I'll be with you... for all of
 eternity.");
 MsgClear();
 StlEffect(1,1,60);

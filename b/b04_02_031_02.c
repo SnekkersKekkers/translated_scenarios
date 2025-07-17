@@ -34,7 +34,7 @@ effortlessly hurt all those little fish.");
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040203102_02_020");
-        MsgDisp("Sassa","Well, I guess that's true......
+        MsgDisp("Sassa","Well, I guess that's true...
 But wouldn't a different reaction be
 better?");
         MsgDateResultDisp();
@@ -65,7 +65,7 @@ That's what winning truly means.");
 to use it efficiently to my advantage and
 win.");
         MsgDisp("主人公","(｛颯砂＊＊｝ always has competition on his
-mind......)");
+mind...)");
         break ;
         default :
         DbgAssert(1);

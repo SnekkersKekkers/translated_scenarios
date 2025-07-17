@@ -34,15 +34,15 @@ ChMouth(1,4);
 ChMotion(1,3);
 VoicePlay("Q070100000_01_030");
 MsgDisp("Kazama","And there's even orange flowers, and a
-nice breeze......");
-MsgDisp("主人公","Yeah......");
+nice breeze...");
+MsgDisp("主人公","Yeah...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q070100000_01_040");
 MsgDisp("Kazama","It's almost as if I can hear the bell
-ringing......");
+ringing...");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -81,7 +81,7 @@ how about we go to the Keep of the
 Netherlands?");
 MsgDisp("主人公","Hehe, if I may!");
 MsgDisp("主人公","(Right, we're gonna move on after this.
-Huis ten Bosch was so much fun......)");
+Huis ten Bosch was so much fun...)");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0,0);
@@ -99,7 +99,7 @@ BGMPlay("BGM_C01_RYOUTA_C",0.01);
 ScrFadeIn(0);
 VoicePlay("Q070100000_01_080");
 MsgDisp("Kazama","Even though the building is 150 years old,
-it doesn't feel outdated......");
+it doesn't feel outdated...");
 MsgDisp("主人公","Yeah, so pretty.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -114,8 +114,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q070100000_01_100");
-MsgDisp("Kazama","But in my situation, I was just
-followinging my parents.");
+MsgDisp("Kazama","But in my situation, I was just following my parents.");
 MsgDisp("主人公","The challenges are the same though.");
 ChEye(1,4);
 ChMouth(1,4);
@@ -130,7 +129,7 @@ ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q070100000_01_120");
 MsgDisp("Kazama","I also liked the UK.
-But......
+But...
 I had a reason to come back.");
 MsgDisp("主人公","I see.
 But thanks to that, we were able to go to
@@ -140,7 +139,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("Q070100000_01_130");
-MsgDisp("Kazama","Thanks to that, huh......
+MsgDisp("Kazama","Thanks to that, huh...
 You're not getting it.");
 MsgDisp("主人公","(???)");
 BGMStop();

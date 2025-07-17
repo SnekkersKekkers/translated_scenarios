@@ -46,7 +46,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20301_04_020");
-MsgDisp("Nanatsumori","Heeh.
+MsgDisp("Nanatsumori","Ehhh.
 Then are these ones not delicious?");
 ChEye(3,0);
 ChMouth(3,4);

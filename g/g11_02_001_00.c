@@ -23,7 +23,7 @@ MsgDisp("Sassa","Yeah, I was just going for a quick run
 before lunch.
 How about joining me?");
 MsgDisp("主人公","Won't I get in ｛颯砂＊＊｝'s
-way......?");
+way...?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -64,7 +64,7 @@ ChMotion(2,0);
 VoicePlay("G110200100_02_060");
 MsgDisp("Sassa","I thought I should follow your example.");
 MsgDisp("主人公","Oh, I see.
-But I think I've reached my limit......");
+But I think I've reached my limit...");
 SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ScrFadeOut(0);
@@ -83,7 +83,7 @@ BGMStop();
 SEPlay("EV_SE_626");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Phew......
+MsgDisp("主人公","(Phew...
 I'm a bit tired but It was fun running
 with ｛颯砂＊＊｝.)");
 MsgClose();

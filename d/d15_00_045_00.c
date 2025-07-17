@@ -20,12 +20,12 @@ ChEye ( 4,1 ) ;
 ChMouth ( 4,1 ) ;
 ChMotion ( 4,1 ) ;
 VoicePlay ( "D150004500_04_010" ) ;
-MsgDisp ( "Nanatsumori","......" ) ;
+MsgDisp ( "Nanatsumori","..." ) ;
 ChEye ( 5,4 ) ;
 ChMouth ( 5,4 ) ;
 ChMotion ( 5,0 ) ;
 VoicePlay ( "D150004500_05_010" ) ;
-MsgDisp ( "Hiiragi","......Are you having trouble managing your
+MsgDisp ( "Hiiragi","...Are you having trouble managing your
 schedule, Nanatsumori-kun?" ) ;
 ChEye ( 4,5 ) ;
 ChMouth ( 4,5 ) ;

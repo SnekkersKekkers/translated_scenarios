@@ -13,8 +13,8 @@ VoicePlay("I470000000_49_020");
 MsgDisp("Manager","If you'd like, why don't you come to work
 here after you graduate?
 Would you think about it?");
-MsgDisp("主人公","Y, yes......");
-MsgDisp("主人公","(Working at this store, huh......
+MsgDisp("主人公","Y, yes...");
+MsgDisp("主人公","(Working at this store, huh...
 Let's think about it a little.)");
 MsgClose();
 ScrFadeOut(0);

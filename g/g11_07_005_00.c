@@ -1,6 +1,6 @@
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","...... Hey?
+MsgDisp("主人公","... Hey?
 It looks like someones in the gardening
 club's fields.");
 MsgClose();
@@ -31,7 +31,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700500_07_020");
-MsgDisp("Mikage","......Well, isn't it the same for people?");
+MsgDisp("Mikage","...Well, isn't it the same for people?");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -54,7 +54,7 @@ ChMotion(7,1);
 VoicePlay("G110700500_07_050");
 MsgDisp("Mikage","Damn, lunch time is over.
 See you then.");
-MsgDisp("主人公","(Effort......
+MsgDisp("主人公","(Effort...
 Is he talking about how we went out
 together?)");
 SEStop("EV_SE_SCHOOL_002",1);

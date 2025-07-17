@@ -23,7 +23,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("A020700000_07_000");
-MsgDisp("Mikage?","......Hmph.");
+MsgDisp("Mikage?","...Hmph.");
 SEPlay("EV_SE_026",0,0.8,1);
 ChEye(7,0);
 ChMouth(7,3);
@@ -45,7 +45,7 @@ SEPlay("EV_SE_788",0.3,0.3);
 SEPlay("EV_SE_GAYA_007",0.2,0.5);
 SEPlay("EV_SE_861",0.2,0.5);
 Wait(50,0);
-MsgDisp("主人公","(Could it be our class'......)");
+MsgDisp("主人公","(Could it be our class'...)");
 SEStop("EV_SE_861",1.5);
 SEStop("EV_SE_GAYA_007",1.5);
 SEStop("EV_SE_788",1.5);
@@ -107,7 +107,7 @@ VoicePlay("A020700000_32_010");
 MsgDisp("VP Himuro","Hmm.");
 MsgDisp("主人公","(The vice principal!
 If I remember correctly, his name's
-Himuro......)");
+Himuro...)");
 BGMPlay("BGM_HANYOU_C",0.01);
 ChEye(32,0);
 ChMouth(32,0);
@@ -118,7 +118,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("A020700000_07_050");
-MsgDisp("Mikage","But I was about to start homeroom......");
+MsgDisp("Mikage","But I was about to start homeroom...");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("A020700000_32_030");
@@ -141,7 +141,7 @@ SEPlay("EV_SE_DOOR_025");
 SEWait();
 VoicePlay("A020700000_07_070");
 MsgDisp("Mikage","Himuro-sensei, my ear, my ear!
-......My hair!!
+...My hair!!
 Don't pull∈");
 MsgClose();
 ScrFadeOut(0);
@@ -163,7 +163,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("A020700000_07_090");
 MsgDisp("Mikage","I managed to survive, but I was forced to
-change in the process......");
+change in the process...");
 SEPlay("EV_SE_GAYA_017",0,1);
 VoicePlay("A020700000_45_020");
 MsgDisp("School Girl B","Sensei, you look good!");
@@ -195,7 +195,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("A020700000_07_130");
-MsgDisp("Mikage","......Alright, let me introduce myself
+MsgDisp("Mikage","...Alright, let me introduce myself
 again. I'm Mikage Kojiro, born on 25 May,
 I'm a cheerful and easy-going type O.");
 MsgDisp("主人公","(Hehe, it's the first time I've had a
@@ -226,16 +226,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("A020700000_07_160");
-MsgDisp("Mikage","Alright, last one......
+MsgDisp("Mikage","Alright, last one...
 You, who's smiling, by the window.");
-MsgDisp("主人公","Smiling, by the window.........
+MsgDisp("主人公","Smiling, by the window......
 Does he mean me∋");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_170");
 MsgDisp("Mikage","Yeah, you, give us a nice end question.");
-MsgDisp("主人公","What a request—— Emm......
+MsgDisp("主人公","What a request—— Emm...
 Ah, why did you draw a cow on the black
 board?");
 ChEye(7,0);
@@ -271,7 +271,7 @@ MsgDisp("Male Student B","So crazy!");
 SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.8);
 SEPlay("EV_SE_788",0.2);
-MsgDisp("主人公","(Mikage-sensei......He's a bit eccentric,
+MsgDisp("主人公","(Mikage-sensei...He's a bit eccentric,
 but he seems like a funny teacher.
 I hope it's gonna be a fun year!)");
 SEStop("EV_SE_864",2)SEStop("EV_SE_GAYA_023",2);

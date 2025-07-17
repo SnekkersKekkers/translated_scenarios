@@ -28,7 +28,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("B330A10401_02_000");
-MsgDisp("Sassa","The one about hearing inner voices? Heeh,
+MsgDisp("Sassa","The one about hearing inner voices? Ehhh,
 how surprising. Inori you seem like the
 type to make fun of that sort of stuff.");
 ChEye(1,4);

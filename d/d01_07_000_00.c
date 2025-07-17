@@ -11,7 +11,7 @@ VoicePlay("D010700000_42_000");
 MsgDisp("Male Student","It's over, time for food!");
 VoicePlay("D010700000_44_000");
 MsgDisp("School Girl","Let's go to the cafeteria!");
-MsgDisp("主人公","(Phew......
+MsgDisp("主人公","(Phew...
 I'm not really hungry.)");
 SEStop("EV_SE_666",2);
 MsgClose();
@@ -44,7 +44,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D010700000_07_020");
 MsgDisp("Mikage","Haha, you got here quickly.");
-MsgDisp("主人公","Ah, yeah......
+MsgDisp("主人公","Ah, yeah...
 Sorry.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -57,7 +57,7 @@ ChClose(7);
 Wait(30,0);
 VoicePlay("D010700000_07_040");
 MsgDisp("Mikage","You seem a bit tired lately.");
-MsgDisp("主人公","(I guess so......)");
+MsgDisp("主人公","(I guess so...)");
 VoicePlay("D010700000_07_050");
 MsgDisp("Mikage","Alright, it's ready.
 Thanks for waiting♪");
@@ -75,9 +75,9 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 Wait(30,0);
-MsgDisp("主人公","Wow......
+MsgDisp("主人公","Wow...
 It's delicious.
-This tea has such a beautiful color......");
+This tea has such a beautiful color...");
 StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,5);
@@ -86,7 +86,7 @@ MsgDisp("Mikage","It's Hibiscus tea.
 It's a great source of vitamin C, gives
 you energy, and beautiful skin.");
 MsgDisp("主人公","Thank you so much.
-It's both sweet and sour......
+It's both sweet and sour...
 And very relaxing.");
 StlEye(7,0);
 StlMouth(7,0);
@@ -100,7 +100,7 @@ VoicePlay("D010700000_07_080");
 MsgDisp("Mikage","Drink it slowly.
 It will warm your stomach and increase
 your appetite.");
-MsgDisp("主人公","Come to think of it......
+MsgDisp("主人公","Come to think of it...
 I'm getting a bit hungry now——");
 StlEye(7,0);
 StlMouth(7,1);
@@ -111,7 +111,7 @@ StlMouth(7,0);
 VoicePlay("D010700000_07_090");
 MsgDisp("Mikage","It's super effective.
 You're easy to read, huh?");
-MsgDisp("主人公","Ugh......
+MsgDisp("主人公","Ugh...
 How embarrassing.");
 StlEye(7,1);
 StlMouth(7,0);
@@ -119,13 +119,13 @@ VoicePlay("D010700000_07_100");
 MsgDisp("Mikage","It was a compliment. There should still be
 some bread left in the cafeteria. Let's
 go.");
-MsgDisp("主人公","Okay......!");
+MsgDisp("主人公","Okay...!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
 StlClose();
 SEPlay("EV_SE_080");
-MsgDisp("主人公","(Weird......
+MsgDisp("主人公","(Weird...
 Thanks to ｛御影＊＊｝, I
 feel like I got some strength back!)");
 MsgClose();

@@ -16,7 +16,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130101_01_020");
-MsgDisp("Kazama","......It's been like that around you
+MsgDisp("Kazama","...It's been like that around you
 recently too.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
@@ -33,7 +33,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130101_01_040");
 MsgDisp("Kazama","Well, I guess I could fix that by just
-becoming one of them, but......");
+becoming one of them, but...");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -49,9 +49,9 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_060");
-MsgDisp("Kazama","Urk......
+MsgDisp("Kazama","Urk...
 Yeah, that I am.
-...... Okay, fine, I'll accept it.");
+... Okay, fine, I'll accept it.");
 MsgDisp("主人公","Is something wrong?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -64,7 +64,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_080");
-MsgDisp("Kazama","Using 'childhood friend' is cheating......");
+MsgDisp("Kazama","Using 'childhood friend' is cheating...");
 MsgDisp("主人公","(What is up with ｛風真＊＊｝? )");
 BGMStop();
 MsgClose();

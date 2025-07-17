@@ -25,7 +25,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("H7G0600000_06_030");
-MsgDisp("Himuro","The model student of Haba High, huh......
+MsgDisp("Himuro","The model student of Haba High, huh...
 To be honest, I didn't expect you to be
 recognized as that.");
 MsgDisp("主人公","Hehe.");
@@ -44,6 +44,6 @@ MsgDisp("Himuro","May you keep being someone I can look up
 to.
 I'm counting on you, senpai.");
 MsgDisp("主人公","(I'm glad I worked so hard in the student
-council......!)");
+council...!)");
 MsgClose();
 ScrFadeOut(0,0);

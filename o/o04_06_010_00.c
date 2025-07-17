@@ -2,7 +2,7 @@ switch (ChPrmGet(6,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","My team is......
+    MsgDisp("主人公","My team is...
 Ah, it's ｛氷室＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -20,7 +20,7 @@ I'm with you?");
 Looking forward to it.");
     break ;
     case 3:
-    MsgDisp("主人公","My team is......
+    MsgDisp("主人公","My team is...
 Ah, it's ｛氷室＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -37,7 +37,7 @@ Ah, it's ｛氷室＊＊｝!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Um, my team is......");
+    MsgDisp("主人公","Um, my team is...");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();

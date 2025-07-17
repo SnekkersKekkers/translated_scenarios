@@ -26,5 +26,5 @@ VoicePlay("U160D00006_21_000");
 MsgDisp("Michiru","Yes.
 Because Mari has very precious flowers,
 she needs to work harder to cherish them.");
-MsgDisp("主人公","(What the flowers like......
+MsgDisp("主人公","(What the flowers like...
 I guess they mean what boys like...)");

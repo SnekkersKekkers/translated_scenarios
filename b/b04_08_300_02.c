@@ -53,7 +53,7 @@ That sorta...");
         ChMotion(8,4,1);
         ChMouthOpenLevel(8,0);
         VoicePlay("B040830002_08_040");
-        MsgDisp("Shirahane","............");
+        MsgDisp("Shirahane","......");
         ChMouth(8,4);
         VoicePlay("B040830002_08_050");
         MsgDisp("Shirahane","...Am I bein' a coward?");
@@ -96,7 +96,7 @@ cherish you.");
         VoicePlay("B040830002_08_110");
         MsgDisp("Shirahane","Hehe..
 I said it.");
-        MsgDisp("主人公","(｛大地＊＊｝......)");
+        MsgDisp("主人公","(｛大地＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

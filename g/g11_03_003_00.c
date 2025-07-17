@@ -20,7 +20,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300300_03_000");
 MsgDisp("Honda","｛主人公｝.
-Sorry......");
+Sorry...");
 MsgDisp("主人公","Ah ｛本多＊＊｝.
 What's wrong?");
 ChEye(3,4);
@@ -28,7 +28,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G110300300_03_010");
 MsgDisp("Honda","The latest edition of 'Habatcher' just
-sold out......");
+sold out...");
 MsgDisp("主人公","Ah, I see.
 But, I understand.");
 MsgClose();
@@ -40,7 +40,7 @@ ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300300_03_020");
 MsgDisp("Honda","Haaa, actually I hid a copy for you in
-this gap here......");
+this gap here...");
 MsgDisp("主人公","Eh!");
 ChEye(3,2);
 ChMouth(3,2);
@@ -62,9 +62,9 @@ ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,0);
 VoicePlay("G110300300_03_050");
-MsgDisp("Honda","Haaa......
+MsgDisp("Honda","Haaa...
 I wonder if there's another book wedged
-around here......?");
+around here...?");
 MsgDisp("主人公","(Hehe.
 Thank you, ｛本多＊＊｝.)");
 BGMStop();

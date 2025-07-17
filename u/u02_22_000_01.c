@@ -29,7 +29,7 @@ ChMotion(22,0,1);
 VoicePlay("U022200001_22_030");
 MsgDisp("Hikaru","And you know, animals never lie.
 They are pure creatures in this world.");
-MsgDisp("主人公","......Hmm? But don't animals pretend to be
+MsgDisp("主人公","...Hmm? But don't animals pretend to be
 asleep so they can catch their prey? Is
 that not a lie to you?");
 ChEye(22,3);

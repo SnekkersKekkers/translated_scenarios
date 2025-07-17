@@ -19,7 +19,7 @@ ChMotion(4,0,1);
 VoicePlay("H7G0400000_04_020");
 MsgDisp("Nanatsumori","Oh, how casual.
 As expected of the honor student.");
-MsgDisp("主人公","That's......");
+MsgDisp("主人公","That's...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -33,7 +33,7 @@ ChMotion(4,0,1);
 VoicePlay("H7G0400000_04_040");
 MsgDisp("Nanatsumori","Congrats.
 I really respect you.");
-MsgDisp("主人公","(That makes me so happy......
+MsgDisp("主人公","(That makes me so happy...
 I'm really glad I stayed in the
 handicrafts club!)");
 MsgClose();

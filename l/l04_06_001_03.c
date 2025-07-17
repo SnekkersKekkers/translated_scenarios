@@ -7,7 +7,7 @@ him. Sure, I'll be your test subject as
 long as you want.");
 MsgDisp("主人公","(Who's him?
 Test subject?
-I wonder what he's talking about......)");
+I wonder what he's talking about...)");
 MsgClose();
 BGMStop();
 MsgClose();

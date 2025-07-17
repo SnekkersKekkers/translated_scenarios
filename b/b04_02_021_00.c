@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040202100_02_000");
 MsgDisp("Sassa","Walking along the brick road like this
 feels nice.");
-MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","It feels like we have it all to ourselves......");
+MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","It feels like we have it all to ourselves...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

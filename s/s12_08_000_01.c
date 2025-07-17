@@ -29,7 +29,7 @@ Let's have another great year!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(I hope this year goes well......)");
+    MsgDisp("主人公","(I hope this year goes well...)");
     break ;
     case 4:
     case 5:
@@ -45,14 +45,14 @@ Let's have another great year!");
     ChEyeOpenLevel(8,10);
     ScrFadeIn(0);
     VoicePlay("S120800001_08_020");
-    MsgDisp("Shirahane","......It's already time.");
+    MsgDisp("Shirahane","...It's already time.");
     MsgDisp("主人公","Yep.
 Thanks for taking me back.");
     ChEye(8,4);
     ChMouth(8,4);
     ChMouthOpenLevel(8,0);
     VoicePlay("S120800001_08_030");
-    MsgDisp("Shirahane","............");
+    MsgDisp("Shirahane","......");
     ChEye(8,4);
     ChMouth(8,4);
     ChMotion(8,2,1);
@@ -69,7 +69,7 @@ If you're sure about that, see you soon!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
     MsgDisp("主人公","(I hope this year will be as good as last
-year......)");
+year...)");
     break ;
     default :
     DbgAssert(1);

@@ -21,7 +21,7 @@ VoicePlay("D100310000_03_020");
 MsgDisp("Honda","It smelled good. There were a bunch of
 yellow roses blooming and you and I were
 side by side, looking at them.");
-MsgDisp("主人公","Eh, that sounds wonderful......");
+MsgDisp("主人公","Eh, that sounds wonderful...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -36,7 +36,7 @@ ChMotion(3,3,1);
 VoicePlay("D100310000_03_040");
 MsgDisp("Honda","I wonder if they have yellow roses～?");
 MsgDisp("主人公","(｛本多＊＊｝ and yellow roses?
-Sounds familiar......)");
+Sounds familiar...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

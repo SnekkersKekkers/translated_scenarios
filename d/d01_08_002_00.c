@@ -13,7 +13,7 @@ VoicePlay("D010800200_46_000");
 MsgDisp("Broadcast","All athletes participating in the men's
 400m Octathlon, please come to the
 starting area.");
-MsgDisp("主人公","Ah...... It's ｛颯砂＊＊｝'s turn
+MsgDisp("主人公","Ah... It's ｛颯砂＊＊｝'s turn
 to compete in the Octathalon. Let's go
 watch!");
 BGMStop();
@@ -27,7 +27,7 @@ BGOpen("sc625",0);
 ScrFadeIn(0);
 VoicePlay("D010800200_39_010");
 MsgDisp("Referee","On your marks.
-Get set......");
+Get set...");
 SEPlay("EV_SE_612");
 Wait(20,0);
 SEPlay("EV_SE_GAYA_003",0.5);
@@ -38,7 +38,7 @@ Like you'd expect, ｛颯砂＊＊｝
 is in the lead!)");
 MsgDisp("主人公","(The guy in the orange behind him is also
 very fast!
-...... Wait, is that?)");
+... Wait, is that?)");
 SEStop("EV_SE_792",1);
 SEStop("EV_SE_847",1);
 SEStop("EV_SE_GAYA_003",1);
@@ -57,8 +57,8 @@ VoicePlay("D010800200_42_020");
 MsgDisp("Male Student","Go Daichi!");
 MsgDisp("主人公","(I feel like he might be able to catch up
 to ｛颯砂＊＊｝! )");
-MsgDisp("主人公","(What should I do......
-I don't know who to root for......!)");
+MsgDisp("主人公","(What should I do...
+I don't know who to root for...!)");
 SEPlay("EV_SE_793",0.3);
 SEPlay("EV_SE_GAYA_011");
 MsgDisp("主人公","Try your best!
@@ -81,11 +81,11 @@ BGOpen("sc624",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛颯砂＊＊｝ got 1st and
 ｛大地＊＊｝ got 2nd, huh?
-In the end it was a close match......)");
+In the end it was a close match...)");
 MsgDisp("主人公","(The two of them are really amazing.
-My heart is still racing......)");
+My heart is still racing...)");
 VoicePlay("D010800200_08_000");
-MsgDisp("Shirahane?","Ah......
+MsgDisp("Shirahane?","Ah...
 Ahh!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
@@ -118,7 +118,7 @@ ChMouth(8,0);
 VoicePlay("D010800200_08_040");
 MsgDisp("Shirahane","We both tried our hardest, but I don't
 think I'll ever be able to surpass him.");
-MsgDisp("主人公","I guess so......");
+MsgDisp("主人公","I guess so...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -128,7 +128,7 @@ MsgDisp("Shirahane","Yeah, I'm satisfied, though!
 After all, the king is a genius!
 So I can relax now.");
 MsgDisp("主人公","(｛大地＊＊｝ was also amazing, though.
-...... By king, does he maybe mean
+... By king, does he maybe mean
 ｛颯砂＊＊｝? )");
 BGMStop();
 MsgClose();

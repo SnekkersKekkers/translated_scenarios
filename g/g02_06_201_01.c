@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_000");
-MsgDisp("Himuro","......What was I lacking?");
+MsgDisp("Himuro","...What was I lacking?");
 MsgDisp("主人公","Eh?");
 ChEye(6,1);
 ChMouth(6,0);
@@ -37,7 +37,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_050");
 MsgDisp("Himuro","At first, I thought I'd do anything to
-take back that position, but......");
+take back that position, but...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -50,7 +50,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_070");
-MsgDisp("Himuro","Hey, how......
+MsgDisp("Himuro","Hey, how...
 How do you want this to go?");
 MsgDisp("主人公","Eh?");
 ChEye(6,2);
@@ -60,12 +60,12 @@ VoicePlay("G020620101_06_080");
 MsgDisp("Himuro","Do you want me to stay out of the way?
 Or do you want to be close to me like
 before?");
-MsgDisp("主人公","I.........");
+MsgDisp("主人公","I......");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_090");
-MsgDisp("Himuro","............");
+MsgDisp("Himuro","......");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,5);
@@ -76,16 +76,16 @@ ChEye(6,2);
 ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("G020620101_06_110");
-MsgDisp("Himuro","Sorry......
+MsgDisp("Himuro","Sorry...
 You just looked so tormented.");
 MsgDisp("主人公","Hey!
-Of course I did......");
+Of course I did...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_120");
-MsgDisp("Himuro","Yeah, I got it. but...... it made me
+MsgDisp("Himuro","Yeah, I got it. but... it made me
 happy.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -94,7 +94,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_130");
 MsgDisp("Himuro","Because it looked like you still had some
 feelings for me.");
-MsgDisp("主人公","Ugh......");
+MsgDisp("主人公","Ugh...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -107,7 +107,7 @@ ChMotion(6,0);
 VoicePlay("G020620101_06_150");
 MsgDisp("Himuro","Take responsibility for instigating this
 within me.");
-MsgDisp("主人公","(Did I accidentally flip a switch......?)");
+MsgDisp("主人公","(Did I accidentally flip a switch...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

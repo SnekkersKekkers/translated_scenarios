@@ -16,14 +16,14 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
     ChEye(5,4);
     VoicePlay("H380500000_05_010");
-    MsgDisp("Hiiragi","......I see, how exquisite.");
+    MsgDisp("Hiiragi","...I see, how exquisite.");
     MsgDisp("主人公","Huh∋");
     ChEye(5,3);
     VoicePlay("H380500000_05_020");
     MsgDisp("Hiiragi","A beauty, and behind it, strength.
 That is how your confidence makes you
 appear.");
-    MsgDisp("主人公","Um......
+    MsgDisp("主人公","Um...
 I'm happy, but you're making me a little
 shy.");
     ChEye(5,4);
@@ -39,7 +39,7 @@ You are the same as you always are.");
 As a spectator, I'll let myself enjoy
 watching.");
     MsgDisp("主人公","(Yeah!
-...... Alright, let's do our best!)");
+... Alright, let's do our best!)");
     break ;
     default :
     DbgAssert(1);

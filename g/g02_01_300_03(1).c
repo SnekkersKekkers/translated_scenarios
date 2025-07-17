@@ -3,7 +3,7 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020130003_01_000");
 MsgDisp("Kazama","Actually seeing them this up close is
-amazing......");
+amazing...");
 MsgDisp("主人公","Yeah, it's beautiful.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -55,11 +55,11 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130003_01_060");
-MsgDisp("Kazama","...... No, next time let's come just the
+MsgDisp("Kazama","... No, next time let's come just the
 two of us.
 Without anyone finding out, okay?");
 MsgDisp("主人公","It seems they'll find out sooner or
-later.......");
+later....");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);
@@ -67,7 +67,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("G020130003_01_070");
 MsgDisp("Kazama","Well, if they do, they'll drag the topic
-on for a week...... so keep quite about
+on for a week... so keep quite about
 it, okay?");
 MsgDisp("主人公","(Hehe ｛風真＊＊｝, It seems you
 really like ｛本多＊＊｝ and

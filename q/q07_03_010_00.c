@@ -16,7 +16,7 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("Q070301000_03_000");
 MsgDisp("Honda","With me?
-Sure......");
+Sure...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(3);
@@ -28,7 +28,7 @@ SEPlay("EV_SE_045");
 MsgDisp("","(Flash)");
 MsgDisp("主人公","(That's the quiz king.
 Lots of people are watching
-｛本多＊＊｝ on TV, huh......)");
+｛本多＊＊｝ on TV, huh...)");
 VoicePlay("Q070301000_46_020");
 MsgDisp("Woman A","You did it!");
 VoicePlay("Q070301000_47_010");
@@ -56,9 +56,9 @@ know about you, ｛本多＊＊｝.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("Q070301000_03_020");
-MsgDisp("Honda","Yeah......
+MsgDisp("Honda","Yeah...
 I don't mind being asked questions by the
-kids in Habataki, but......");
+kids in Habataki, but...");
 StlEye(3,0,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5,1);
@@ -67,10 +67,9 @@ MsgDisp("Honda","Earlier, I felt a little sad.");
 StlEye(3,0,0);
 StlEyeOpenLevel(3,0,1);
 VoicePlay("Q070301000_03_040");
-MsgDisp("Honda","I've never felt like that before. I was
-interrupted in my time with you...... I
-didn't like it at all.");
-MsgDisp("主人公","｛本多＊＊｝ ......?");
+MsgDisp("Honda","I've never felt like that before. Our time together got interrupted...
+I didn't like it at all.");
+MsgDisp("主人公","｛本多＊＊｝...?");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("Q070301000_48_000");
@@ -79,22 +78,21 @@ StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("Q070301000_44_000");
 MsgDisp("Woman D","Yeah.
-I wonder where the quiz king is......");
+I wonder where the quiz king is...");
 StlEye(3,1);
 StlMouth(3,1);
 MsgDisp("主人公","｛本多＊＊｝?");
 StlEye(3,3);
 StlMouth(3,2);
 VoicePlay("Q070301000_03_050");
-MsgDisp("Honda","Shush.
-If you don't turn around like this, they
-won't know, okay?");
+MsgDisp("Honda","Shhh.
+If you don't turn around, they won't notice us, okay?");
 MsgDisp("主人公","Eh?");
 StlEye(3,2);
 StlMouth(3,1);
 VoicePlay("Q070301000_03_060");
-MsgDisp("Honda","I mean, interruption is bad.
-I'm free with you now.");
+MsgDisp("Honda","I mean, getting interrupted is bad.
+I want to be with you freely.");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -107,14 +105,13 @@ BGMVol(0.5,2);
 ChOpen(3,254,4,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070301000_03_070");
-MsgDisp("Honda","I guess I feel a bit guilty?
-But it can't be helped.");
+MsgDisp("Honda","Even though I had no choice, I felt a bit guilty.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q070301000_03_080");
-MsgDisp("Honda","For me, the most important is spending the
+MsgDisp("Honda","For me, the most important thing is spending the
 free period with you.
 Come on, let's go!");
 MsgDisp("主人公","Yeah!

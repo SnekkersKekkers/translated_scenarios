@@ -78,7 +78,7 @@ at least still meet up.");
         VoicePlay("B040606501_06_070");
         MsgDisp("Himuro","That's why, even if you've graduated, I...
 would still like to meet up.");
-        MsgDisp("主人公","｛氷室＊＊｝......");
+        MsgDisp("主人公","｛氷室＊＊｝...");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

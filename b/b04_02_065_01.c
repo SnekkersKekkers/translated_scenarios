@@ -41,7 +41,7 @@ I guess you just like big things.");
     ChMotion(2,0);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040206501_02_030");
-    MsgDisp("Sassa","Sparkles at a fireworks festival......
+    MsgDisp("Sassa","Sparkles at a fireworks festival...
 That's a bit too surreal.");
     MsgDateResultDisp();
     break ;

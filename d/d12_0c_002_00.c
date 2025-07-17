@@ -14,7 +14,7 @@ StlEye(6,0);
 StlMouth(6,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","...... Huh, ｛氷室＊＊｝?
+MsgDisp("主人公","... Huh, ｛氷室＊＊｝?
 What are you doing here?");
 StlEye(5,1);
 StlMouth(5,1);
@@ -24,18 +24,18 @@ this month's poster.");
 StlEye(6,1,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_000");
-MsgDisp("Himuro","The hallways flow like a river......");
+MsgDisp("Himuro","The hallways flow like a river...");
 StlEye(5,2);
 StlMouth(5,0);
 VoicePlay("D120C00200_05_010");
-MsgDisp("Hiiragi","......What do you think?");
+MsgDisp("Hiiragi","...What do you think?");
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D120C00200_06_010");
 MsgDisp("Himuro","I know what you're trying to say, but it's
 not a good slogan.");
 MsgDisp("主人公","(｛氷室＊＊｝ is so blunt with his
 opinions, it makes me kind of
-nervous......)");
+nervous...)");
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_020");
 MsgDisp("Himuro","It would be better to try to convey the
@@ -55,7 +55,7 @@ Wait(6,0);
 StlEyeOpenLevel(5,#1);
 MsgDisp("主人公","(Phew, looks like there's no need to
 worry. This is just a normal conversation.
-They seem close......)");
+They seem close...)");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0,0);
@@ -104,7 +104,7 @@ Wait(20,1);
 SEPlay("EV_SE_DOOR_025");
 SEWait();
 MsgDisp("主人公","(Alright, let me just tidy things up and
-then I'll go to class......
+then I'll go to class...
 Ah──)");
 SEPlay("EV_SE_591");
 Wait(30,1);
@@ -114,8 +114,8 @@ the end?)");
 SEWait();
 SEPlay("EV_SE_635");
 SEWait();
-MsgDisp("主人公","(Let's see, it says...... \"
-Don't run in the hallways∈\"......
+MsgDisp("主人公","(Let's see, it says... \"
+Don't run in the hallways∈\"...
 Hehe, that's surprisingly simple?)");
 MsgClose();
 ScrFadeOut(0,0);

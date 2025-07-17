@@ -12,7 +12,7 @@ ScrFadeIn(0);
 NSSEye(1,0);
 NSSMouth(1,0);
 VoicePlay("T040100000_01_000");
-MsgDisp("Kazama","Hey, from now on......
+MsgDisp("Kazama","Hey, from now on...
 No matter how grand the ceremony, the real
 anniversary is today.");
 MsgDisp("主人公","Hehe, yes.");
@@ -26,7 +26,7 @@ NSSEye(1,0);
 NSSMouth(1,0);
 NSSEyeOpenLevel(1,5);
 VoicePlay("T040100000_01_020");
-MsgDisp("Kazama","Hey...... when you say it, it's a little
+MsgDisp("Kazama","Hey... when you say it, it's a little
 scary.");
 MsgDisp("主人公","Then, I won't forget it.");
 NSSEye(1,6);

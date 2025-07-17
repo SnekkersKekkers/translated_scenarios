@@ -1,6 +1,6 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh...... Feels good to get a little
+MsgDisp("主人公","Huh... Feels good to get a little
 exercise!");
 VoicePlay("A020210000_02_000");
 MsgDisp("Sassa?","I think so too!");
@@ -14,7 +14,7 @@ VoicePlay("A020210000_02_010");
 MsgDisp("Sassa?","You've been exercising around here lately,
 right?
 I saw that you like to move your body.");
-MsgDisp("主人公","Uhh......");
+MsgDisp("主人公","Uhh...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
@@ -106,7 +106,7 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("A020210000_02_120");
 MsgDisp("Sassa","Phew, that was nice!
 Feeling a little tired?");
-MsgDisp("主人公","Huh......Yeah, a little, but it was fun!
+MsgDisp("主人公","Huh...Yeah, a little, but it was fun!
 Thank you, ｛颯砂＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -126,7 +126,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("A020210000_02_150");
-MsgDisp("Sassa","And also...... When you run with someone,
+MsgDisp("Sassa","And also... When you run with someone,
 you get to know them a little. I think
 you're a good person.");
 ChEye(2,0);

@@ -1,5 +1,5 @@
 MsgDisp("主人公","Well, I wanted to take a look at my
-\"Mari's Garden\"......");
+\"Mari's Garden\"...");
 VoicePlay("Z342200000_22_000");
 MsgDisp("Hikaru","The garden in Mari's heart▼
 I wonder how the flowers have been

@@ -1,6 +1,6 @@
 BGOpen("wf700",2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, there are pinwheels......)");
+MsgDisp("主人公","(Ah, there are pinwheels...)");
 VoicePlay("D010100800_01_000");
 MsgDisp("Kazama","Excuse me, I'd like to get this orange
 one.");
@@ -65,7 +65,7 @@ VoicePlay("D010100800_01_060");
 MsgDisp("Kazama","Don't make that face.
 Come on, let's go.");
 MsgDisp("主人公","(｛風真＊＊｝ will go somewhere else
-again......?)");
+again...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

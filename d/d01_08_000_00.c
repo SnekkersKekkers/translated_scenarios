@@ -5,11 +5,11 @@ ScrFadeIn(0);
 VoicePlay("D010800000_08_000");
 MsgDisp("Daichi?","Look over here, big bro!");
 MsgDisp("主人公","(Huh?
-That voice just now......)");
+That voice just now...)");
 MsgClose();
 ChOpen(8,254,0,0,3,#1,#1,0,1);
 ChOpen(9,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛大地＊＊｝ and......
+MsgDisp("主人公","｛大地＊＊｝ and...
 Kuya-san∋");
 ChEye(8,3);
 ChMouth(8,3);
@@ -35,8 +35,8 @@ ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,0,1);
 VoicePlay("D010800000_09_010");
-MsgDisp("Kuya","......Dai-chan, we have to go back soon.");
-MsgDisp("主人公","Ah...... right!
+MsgDisp("Kuya","...Dai-chan, we have to go back soon.");
+MsgDisp("主人公","Ah... right!
 Hanegasaki also has their school festival
 today, right?");
 ChEye(9,3);
@@ -61,7 +61,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ex130",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(We're at Hanegasaki High School......)");
+MsgDisp("主人公","(We're at Hanegasaki High School...)");
 ChEye(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
@@ -89,9 +89,9 @@ StlMouth(9,0);
 ScrFadeIn(0);
 VoicePlay("D010800000_08_050");
 MsgDisp("Daichi","Over there is my class!
-This year we made a disco...... but it
+This year we made a disco... but it
 looks like it's already over.");
-MsgDisp("主人公","Disco......?
+MsgDisp("主人公","Disco...?
 I would have wanted to see that.");
 StlEyeOpenLevel(9,5,1);
 VoicePlay("D010800000_09_030");
@@ -100,7 +100,7 @@ back at Habataki High School.
 I guess we're late getting back here.");
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800000_08_060");
-MsgDisp("Daichi","That's true......
+MsgDisp("Daichi","That's true...
 But some places are still open, so let's
 hurry!");
 MsgDisp("主人公","O-Okay!");
@@ -114,7 +114,7 @@ VoicePlay("D010800000_08_070");
 MsgDisp("Daichi","Hehe!
 I guess I can brag about it?");
 VoicePlay("D010800000_42_010");
-MsgDisp("Male Student A","Don't tell me......
+MsgDisp("Male Student A","Don't tell me...
 Your girlfriend∋");
 StlEyeOpenLevel(8,0,1);
 VoicePlay("D010800000_08_080");
@@ -136,7 +136,7 @@ She's wearing a Habataki uniform!");
 StlEye(8,1);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800000_08_100");
-MsgDisp("Daichi","Awesome, huh......
+MsgDisp("Daichi","Awesome, huh...
 I wonder if they'll keep bothering us like
 this while we're here?");
 StlEyeOpenLevel(9,5,1);
@@ -180,7 +180,7 @@ VoicePlay("D010800000_09_060");
 MsgDisp("Kuya","Yeah.
 I made so many fun memories at my last
 school festival.");
-MsgDisp("主人公","Oh, right, Kuya-san is a senior......");
+MsgDisp("主人公","Oh, right, Kuya-san is a senior...");
 ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);
@@ -193,14 +193,14 @@ ChMouth(9,4);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D010800000_09_070");
-MsgDisp("Kuya","Ah......Dai-chan, the time! If we don't
+MsgDisp("Kuya","Ah...Dai-chan, the time! If we don't
 help clean up, we'll ruin all those good
 memories.");
 ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,0,1);
 VoicePlay("D010800000_08_140");
-MsgDisp("Daichi","Ah geez......that's true!");
+MsgDisp("Daichi","Ah geez...that's true!");
 ChEye(9,3);
 ChMouth(9,0);
 ChEye(8,3);
@@ -215,10 +215,10 @@ BGMStop();
 SEPlay("EV_SE_856");
 ChClose(8,0,30);
 ChClose(9,0,30);
-MsgDisp("主人公","(The second half was a blur......)");
+MsgDisp("主人公","(The second half was a blur...)");
 MsgDisp("主人公","(But it's impossible not to have a good
 time when you attend both the Hanegasaki
-and Habataki festivals......!)");
+and Habataki festivals...!)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(8,0);

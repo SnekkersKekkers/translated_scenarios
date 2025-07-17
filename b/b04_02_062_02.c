@@ -71,7 +71,7 @@ And you would cook.");
         ChMotion(2,2);
         VoicePlay("B040206202_02_070");
         MsgDisp("Sassa","Having your home-cooked meals
-everyday......Yeah, survival like that
+everyday...Yeah, survival like that
 wouldn't be half bad.");
         MsgDisp("主人公","｛颯砂＊＊｝?
 What's wrong?");
@@ -82,7 +82,7 @@ What's wrong?");
         MsgDisp("Sassa","I think catching some fish for dinner will
 be the fastest.
 Is that okay with you?");
-        MsgDisp("主人公","(He's already starting the survival......)");
+        MsgDisp("主人公","(He's already starting the survival...)");
         break ;
         default :
         DbgAssert(1);

@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020530000_05_000");
-MsgDisp("Hiiragi","......Watching the fireflies reminded me
+MsgDisp("Hiiragi","...Watching the fireflies reminded me
 of the two of them.");
 MsgDisp("主人公","The two of them, you mean
 ｛氷室＊＊｝ and
@@ -53,7 +53,7 @@ MsgDisp("主人公","(It would be great if
 ｛柊＊＊＊｝,
 ｛氷室＊＊｝ and
 ｛御影＊＊｝ could always
-be together huh......)");
+be together huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

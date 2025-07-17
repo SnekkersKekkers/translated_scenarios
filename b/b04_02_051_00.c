@@ -6,8 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040205100_02_000");
-MsgDisp("Sassa","The dim lights and ambiance......");
-MsgSel("The starry sky was romantic","｛颯砂＊＊｝, did you fall asleep?","The seats were soft for sleeping......");
+MsgDisp("Sassa","The dim lights and ambiance...");
+MsgSel("The starry sky was romantic","｛颯砂＊＊｝, did you fall asleep?","The seats were soft for sleeping...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

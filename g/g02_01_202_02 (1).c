@@ -24,7 +24,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,9);
 ChMouthOpenLevel(1,0);
 VoicePlay("G020120202_01_030");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -55,7 +55,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120202_01_070");
-MsgDisp("Kazama","...... Yeah, you're right.
+MsgDisp("Kazama","... Yeah, you're right.
 He's special after all.");
 MsgDisp("主人公","What's wrong, ｛風真＊＊｝?");
 ChEye(1,2);
@@ -79,7 +79,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020120202_01_100");
 MsgDisp("Kazama","And I don't have any plans of trying to
 become the Quiz King.");
-MsgDisp("主人公","Okay......?");
+MsgDisp("主人公","Okay...?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -89,7 +89,7 @@ but I'll figure something out.
 I have a reason why I can't back down.");
 MsgDisp("主人公","(I didn't realize that's how
 ｛風真＊＊｝ thought of
-｛本多＊＊｝......)");
+｛本多＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

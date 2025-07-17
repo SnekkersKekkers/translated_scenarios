@@ -37,7 +37,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("B070200000_02_310");
 MsgDisp("Sassa","About that.
 You know, I had a really hard time
-choosing......");
+choosing...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -57,7 +57,7 @@ my best to win. It's way more simple this
 way.");
 MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I believe
 he can win it all and become a
-champion......!)");
+champion...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

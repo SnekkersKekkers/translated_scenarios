@@ -2,9 +2,9 @@ BGOpen("sc812",0);
 ChLayout(1);
 SEPlay("EV_SE_867",1,0.8);
 ScrFadeIn(0);
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Hmm?
-The boy's room looks lively......)");
+The boy's room looks lively...)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(21,30,7,0,0,#1,#1,0,0);
@@ -21,14 +21,14 @@ ChMotion(21,0);
 VoicePlay("Q212100000_21_010");
 MsgDisp("Michiru","I think it's the classic of school trips.
 Do you want to take a look?");
-MsgSel("Yeah, let's go!","I don't think we should......");
+MsgSel("Yeah, let's go!","I don't think we should...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,4);
     VoicePlay("Q212100000_21_020");
-    MsgDisp("Michiru","Haah......
+    MsgDisp("Michiru","Haah...
 I'm getting nervous too.
 Let's go!");
     break ;
@@ -43,7 +43,7 @@ teacher finds us.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(21);
-    MsgDisp("主人公","(I should also go to my room......)");
+    MsgDisp("主人公","(I should also go to my room...)");
     break ;
     default :
     DbgAssert(0);

@@ -33,7 +33,7 @@ VoicePlay("F020400008_04_020");
 MsgDisp("Nanatsumori","Well, yeah, but at least those friends
 that you lost touch with after high school
 still come to visit you, right?");
-MsgDisp("主人公","Oh......
+MsgDisp("主人公","Oh...
 I guess.");
 ChEye(4,4);
 ChMouth(4,3);

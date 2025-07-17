@@ -10,7 +10,7 @@ ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,2 ) ;
 VoicePlay ( "D150002600_06_000" ) ;
-MsgDisp ( "Himuro","......Please don't tell me to eat so I can
+MsgDisp ( "Himuro","...Please don't tell me to eat so I can
 grow." ) ;
 ChEye ( 2,5 ) ;
 ChMouth ( 2,5 ) ;

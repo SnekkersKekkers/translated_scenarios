@@ -14,10 +14,10 @@ VoicePlay("K020500000_05_000");
 MsgDisp("Hiiragi","Good evening.
 Please excuse the sudden visit.");
 MsgDisp("主人公","No, it's fine.
-...... What's up?");
+... What's up?");
 ChMotion(5,4);
 VoicePlay("K020500000_05_010");
-MsgDisp("Hiiragi","Would you understand if......
+MsgDisp("Hiiragi","Would you understand if...
 I told you it had to be today?");
 SEPlay("EV_SE_665");
 SEWait();
@@ -26,7 +26,7 @@ ChMotion(5,3);
 VoicePlay("K020500000_05_020");
 MsgDisp("Hiiragi","Yes, happy birthday.
 Here is a little something from me.");
-MsgDisp("主人公","Thank you......!");
+MsgDisp("主人公","Thank you...!");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);

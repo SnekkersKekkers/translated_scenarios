@@ -17,5 +17,5 @@ VoicePlay("U120D00302_22_010");
 MsgDisp("Hikaru","Okay, okay～!
 Good luck, Mari▼");
 MsgDisp("主人公","(I didn't even say who it is and those two
-are already getting excited......)");
+are already getting excited...)");
 MsgClose();

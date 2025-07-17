@@ -8,7 +8,7 @@ ChOpen(21,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U202100100_21_000");
 MsgDisp("Michiru","The items on display were wonderful but
-the souvenirs were......
+the souvenirs were...
 Novelty, weren't they?");
 MsgDisp("主人公","Yeah.
 Combining works of art with stationary is

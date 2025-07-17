@@ -1,6 +1,6 @@
 BGOpen("sc810",0);
 ScrFadeIn(0);
-MsgDisp("主人公","It can't be helped, I'll go alone......");
+MsgDisp("主人公","It can't be helped, I'll go alone...");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);

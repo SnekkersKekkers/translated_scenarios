@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040424101_04_010");
-    MsgDisp("Nanatsumori","ＯＫ!
+    MsgDisp("Nanatsumori","OK!
 Soft serve ice cream from a farm is
 seriously addictive.");
     MsgDispSksp(1,0);

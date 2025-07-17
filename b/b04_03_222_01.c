@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMotion(3,4);
     VoicePlay("B040322201_03_010");
-    MsgDisp("Honda","Heeh, a charm to commemorate attending the
+    MsgDisp("Honda","Ehhh, a charm to commemorate attending the
 castle.
 Should I get one?");
     MsgDispSksp(1,0);

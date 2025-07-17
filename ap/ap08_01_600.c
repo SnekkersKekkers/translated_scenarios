@@ -3,4 +3,4 @@ NSSMouth(1,2);
 NSSCheek(1,10);
 MsgDispHide();
 VoicePlay("AP0801600_01_000");
-MsgDisp("Kazama","Nn......");
+MsgDisp("Kazama","Nn...");

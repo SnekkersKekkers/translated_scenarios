@@ -35,7 +35,7 @@ I got first place with ｛氷室＊＊｝!)");
     ChOpen(6,30,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600000_06_030");
-    MsgDisp("Himuro","Alright, first......!");
+    MsgDisp("Himuro","Alright, first...!");
     MsgDisp("主人公","We did it, ｛氷室＊＊｝!");
     ChEye(6,3);
     ChMouth(6,3);

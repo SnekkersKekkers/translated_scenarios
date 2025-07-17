@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","(There aren't many customers today......)");
+    MsgDisp("主人公","(There aren't many customers today...)");
     VoiceEVSPlay(1);
     VoicePlay("I160100006_01_000");
     MsgDisp("Kazama","｛主人公｝.");
@@ -20,7 +20,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("I160100006_01_010");
     MsgDisp("Kazama","What else?
 Don't space out while we're open.");
-    MsgDisp("主人公","...... Ah!
+    MsgDisp("主人公","... Ah!
 I, I'm sorry.");
     ChEye(1,2);
     ChMouth(1,2);
@@ -30,7 +30,7 @@ I, I'm sorry.");
 No matter how much experience you have,
 it's over once you lose the tension.");
     MsgDisp("主人公","(That's right.
-I need to get it together......!)");
+I need to get it together...!)");
     break ;
     case 4:
     case 5:
@@ -48,7 +48,7 @@ I need to get it together......!)");
     MsgDisp("Kazama","What else.
 The center display is the exact same as
 last month's, right?");
-    MsgDisp("主人公","...... Ah!
+    MsgDisp("主人公","... Ah!
 I, I'm sorry.");
     ChEye(1,2);
     ChMouth(1,2);
@@ -57,8 +57,8 @@ I, I'm sorry.");
     MsgDisp("Kazama","Didn't I tell you that I'd leave it up to
 you? Simon's customers are sensitive to
 this kind of thing.");
-    MsgDisp("主人公","(Aah, just when I had my chance......
-I need to get it together......!)");
+    MsgDisp("主人公","(Aah, just when I had my chance...
+I need to get it together...!)");
     break ;
     default :
     DbgAssert(1);

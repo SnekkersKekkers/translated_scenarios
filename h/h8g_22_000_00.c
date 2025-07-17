@@ -37,7 +37,7 @@ ChMotion(22,3,1);
 VoicePlay("H8G2200000_22_040");
 MsgDisp("Hikaru","Mari's the etoile of Haba High.
 Congratulations on the award♪");
-MsgDisp("主人公","(Getting praised this much......
+MsgDisp("主人公","(Getting praised this much...
 I'm really glad I stayed in the student
 council!)");
 MsgClose();

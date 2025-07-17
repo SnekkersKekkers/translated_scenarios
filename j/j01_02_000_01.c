@@ -11,7 +11,7 @@ VoicePlay("J010200001_02_010");
 MsgDisp("Sassa","I'm busy at the moment, but feel free to
 leave your name and message and I'll get
 back to you soon.");
-MsgDisp("主人公","Ah, it's his voicemail......");
+MsgDisp("主人公","Ah, it's his voicemail...");
 MsgSel("Leave a message","Hang up the phone");
 switch (MsgSelRsltGet()){
     case 0:

@@ -36,7 +36,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B070200001_02_300");
 MsgDisp("Sassa","That's how it is.");
-MsgDisp("主人公","Really......");
+MsgDisp("主人公","Really...");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -56,7 +56,7 @@ ChMotion(2,4);
 VoicePlay("B070200001_02_330");
 MsgDisp("Sassa","Me too right now, I guess?");
 MsgDisp("主人公","(I see.
-Everyone is looking out for me......)");
+Everyone is looking out for me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

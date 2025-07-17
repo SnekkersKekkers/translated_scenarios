@@ -16,7 +16,7 @@ VoicePlay("A020600100_06_010");
 MsgDisp("Himuro?","Of course, I understand.
 I didn't expect you to.");
 VoicePlay("A020600100_32_020");
-MsgDisp("VP Himuro","Hmm...... I like this mindset. Looking
+MsgDisp("VP Himuro","Hmm... I like this mindset. Looking
 forward to it.");
 VoicePlay("A020600100_06_020");
 MsgDisp("Himuro?","Thank you.
@@ -32,10 +32,10 @@ SEPlay("EV_SE_544",0,0.5);
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("A020600100_06_030");
 MsgDisp("Himuro?","Excuse me.");
-MsgDisp("主人公","Ah, it's fine......");
+MsgDisp("主人公","Ah, it's fine...");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(I've never seen him before......
+MsgDisp("主人公","(I've never seen him before...
 He wasn't wearing a uniform.)");
 MsgClose();
 VoicePlay("A020600100_32_030");
@@ -44,10 +44,10 @@ MsgDisp("主人公","Y-YES!");
 SEPlay("EV_SE_544");
 ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020600100_32_040");
-MsgDisp("VP Himuro","......Your tie is crooked.
+MsgDisp("VP Himuro","...Your tie is crooked.
 Fix it.");
 MsgDisp("主人公","What?
-Ah, alright......");
+Ah, alright...");
 SEPlay("EV_SE_623",0,0.4);
 SEWait();
 ChEye(32,0);
@@ -60,9 +60,9 @@ BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(32);
 Wait(30);
-MsgDisp("主人公","(Phew...... I thought I was gonna get
+MsgDisp("主人公","(Phew... I thought I was gonna get
 scolded!)");
 MsgDisp("主人公","(But still, who was that boy just
-now......?)");
+now...?)");
 MsgClose();
 ScrFadeOut(0);

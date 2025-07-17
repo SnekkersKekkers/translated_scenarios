@@ -40,7 +40,7 @@ VoicePlay("F020200007_02_030");
 MsgDisp("Sassa","N-No!
 I was just saying we should take a walk
 together.");
-MsgDisp("主人公","......");
+MsgDisp("主人公","...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

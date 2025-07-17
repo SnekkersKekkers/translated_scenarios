@@ -58,7 +58,7 @@ You don't want to?");
         ChEyeOpenLevel(6,0);
         ChCheek(6,10);
         VoicePlay("B040611002_06_050");
-        MsgDisp("Himuro","..................");
+        MsgDisp("Himuro","......");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

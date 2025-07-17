@@ -8,7 +8,7 @@ VoicePlay("B040623301_06_000");
 MsgDisp("Himuro","It feels like you're challenging your
 limits.
 It's great, isn't it?");
-MsgSel("I can't understand it...","I may have surpassed my limits!","I want to surpass them in a different way");
+MsgSel("I can't understand it...","I may have surpassed my limits!","I want to surpass them in a different way.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

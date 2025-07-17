@@ -9,7 +9,7 @@ VoicePlay("B040320000_03_000");
 MsgDisp("Honda","Woah, you give off that vibe you know.
 That of an expert.
 Are you actually good?");
-MsgSel("You can call me the Snow Princess!","As long as I don't fall......","I want you to teach me......");
+MsgSel("You can call me the Snow Princess!","As long as I don't fall...","I want you to teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){
@@ -30,7 +30,7 @@ How do you control your body so well?");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040320000_03_020");
-        MsgDisp("Honda","Mmhm......
+        MsgDisp("Honda","Mmhm...
 It's a good thing there are many different
 types of princesses.");
         MsgDateResultDisp();
@@ -51,7 +51,7 @@ types of princesses.");
     DateRateSet(1);
     ChSet(3,2);
     VoicePlay("B040320000_03_040");
-    MsgDisp("Honda","Huh, I was hoping you'd teach me too......");
+    MsgDisp("Honda","Huh, I was hoping you'd teach me too...");
     MsgDateResultDisp();
     break ;
     default :

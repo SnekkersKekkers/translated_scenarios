@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChEye(22,3);
 ChMouth(22,3);
 VoicePlay("L010D00104_22_000");
-MsgDisp("Hikaru","Wah......
+MsgDisp("Hikaru","Wah...
 It's really mature!");
 ChEye(21,0);
 ChMouth(21,3);

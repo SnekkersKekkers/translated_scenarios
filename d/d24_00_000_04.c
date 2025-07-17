@@ -8,11 +8,11 @@ I gave in my first article and got
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(I got a message from Goro-sensei!
-It says......)");
+It says...)");
 MsgDisp("主人公","(\"Today is your one and only debut as a
 journalist♪ Keep up the good work and
 write more articles to raise your
-\"Journalist Level\"▼\"......)");
+\"Journalist Level\"▼\"...)");
 MsgDisp("主人公","(Alright!
 I'll do my best to write more articles and
 become a fully-fledged journalist!)");

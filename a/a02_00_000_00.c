@@ -16,7 +16,7 @@ BGOpen("fp720",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Okay～ I think I've got everything I'll
 need for my high school life! )");
-MsgDisp("主人公","......Oh.");
+MsgDisp("主人公","...Oh.");
 SEPlay("EV_SE_083")BGOpen("ui000",0);
 Wait(30,0);
 MsgDisp("主人公","This pen is so cute!

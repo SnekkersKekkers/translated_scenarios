@@ -4,7 +4,7 @@ Wait(10,0);
 ChEye(5,2);
 ChMouth(5,2);
 VoicePlay("T020501022_05_000");
-MsgDisp("Hiiragi","......! What does this mean?");
+MsgDisp("Hiiragi","...! What does this mean?");
 ChEyeOpenLevel(5,0);
 Wait(8,0);
 ChEye(5,3);
@@ -24,7 +24,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("T020501022_05_020");
 MsgDisp("Hiiragi","There's no point in playing dumb.
 I've been bested by you so many times.");
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEye(5,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);

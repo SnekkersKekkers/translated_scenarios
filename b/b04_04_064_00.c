@@ -39,7 +39,7 @@ ChMotion(4,0,1);
 VoicePlay("B040406400_04_050");
 MsgDisp("Nanatsumori","Well, that's enough talk about work.
 Let's enjoy the festival.");
-MsgDisp("主人公","ＯＫ!");
+MsgDisp("主人公","OK!");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

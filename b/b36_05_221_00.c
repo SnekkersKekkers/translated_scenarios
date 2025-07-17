@@ -20,7 +20,7 @@ ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B360522100_05_010");
 MsgDisp("Hiiragi","Yeah. The sky and castle are dyed
-red...... It's like \"The Flapping Castle
+red... It's like \"The Flapping Castle
 is on Fire\".");
 MsgDisp("主人公","Eh?
 Is that a performance by the Habataki
@@ -43,7 +43,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B360522100_05_040");
 MsgDisp("Hiiragi","The idea for that performance was born
 from the fiery red sky and castle tower.");
-MsgDisp("主人公","......The play was born from this view.");
+MsgDisp("主人公","...The play was born from this view.");
 ChMotion(5,3);
 Wait(22,0);
 ChEye(5,3);
@@ -54,7 +54,7 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522100_05_060");
 MsgDisp("Hiiragi","No, I wanted to see it with you alone.");
-MsgDisp("主人公","I see......
+MsgDisp("主人公","I see...
 Thank you, ｛柊＊＊＊｝.");
 BGMStop();
 MsgClose();

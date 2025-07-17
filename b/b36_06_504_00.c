@@ -16,7 +16,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650400_06_010");
-MsgDisp("Himuro","Aside from being with you......
+MsgDisp("Himuro","Aside from being with you...
 Being in such a glittery place would be
 nonsense for a guy.");
 MsgDisp("主人公","Hehe.");
@@ -32,7 +32,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650400_06_030");
-MsgDisp("Himuro","......Well, before, I used to think
+MsgDisp("Himuro","...Well, before, I used to think
 couples walking around places like this
 was nonsense.");
 MsgDisp("主人公","Huh, is that so?");
@@ -47,7 +47,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650400_06_050");
-MsgDisp("Himuro","......But, as I walk with you like this, I
+MsgDisp("Himuro","...But, as I walk with you like this, I
 think I understand how they feel.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -55,13 +55,13 @@ ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B360650400_06_060");
 MsgDisp("Himuro","It kinda tickles your heart.");
-MsgDisp("主人公","......Yeah.");
+MsgDisp("主人公","...Yeah.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360650400_06_070");
 MsgDisp("Himuro","I'm glad I only invited you.");
-MsgDisp("主人公","I felt bad for everyone else, but......");
+MsgDisp("主人公","I felt bad for everyone else, but...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -77,7 +77,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B360650400_06_090");
 MsgDisp("Himuro","It's fine to keep it to ourselves
 sometimes.");
-MsgDisp("主人公","(｛氷室＊＊｝......)");
+MsgDisp("主人公","(｛氷室＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

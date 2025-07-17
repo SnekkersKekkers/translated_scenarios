@@ -53,7 +53,7 @@ It's because everyone did their best.");
     MsgDisp("Hikaru","I'm sure the baseball club did their best
 because Mari was their manager♪
 Aha▼");
-    MsgDisp("主人公","That's......");
+    MsgDisp("主人公","That's...");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,3,1);

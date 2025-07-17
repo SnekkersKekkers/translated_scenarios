@@ -25,7 +25,7 @@ VoicePlay("B050300200_03_020");
 MsgDisp("Honda","——Okay.
 It's ready.
 You can open your eyes now.");
-MsgDisp("主人公","......Okay.");
+MsgDisp("主人公","...Okay.");
 MsgClose();
 ChClose(3);
 BGMPlay("BGM_C03_HONDA_I",0.01);
@@ -33,7 +33,7 @@ StlOpen("ev_03_04");
 StlEye(3,0);
 StlMouth(3,0);
 ScrFadeIn(4);
-MsgDisp("主人公","Uwaah......
+MsgDisp("主人公","Uwaah...
 Pretty!");
 StlEye(3,1);
 StlMouth(3,0);
@@ -120,6 +120,6 @@ this sort of thing could be back in
 elementary school. To be honest, it's how
 I got started.");
 MsgDisp("主人公","(｛本多＊＊｝ has a really happy look on
-his face......)");
+his face...)");
 BGMStop();
 ChPrmTblAdd(3,0);

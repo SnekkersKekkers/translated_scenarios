@@ -10,7 +10,7 @@ ChEyeOpenLevel(7,0);
 BGMPlay("BGM_C07_MIKAGE_C",0.01);
 ScrFadeIn(0);
 VoicePlay("B360703201_07_000");
-MsgDisp("Mikage","Haa～......
+MsgDisp("Mikage","Haa～...
 I feel tired.");
 MsgDisp("主人公","Are you okay?");
 ChEye(7,2);
@@ -50,7 +50,7 @@ ChMotion(7,5);
 VoicePlay("B360703201_07_050");
 MsgDisp("Mikage","You too.
 I can only tell you about this.");
-MsgDisp("主人公","(｛御影＊＊｝ really gets us......)");
+MsgDisp("主人公","(｛御影＊＊｝ really gets us...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

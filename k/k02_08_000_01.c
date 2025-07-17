@@ -23,12 +23,12 @@ ChMotion(8,0,1);
 VoicePlay("K020800001_08_010");
 MsgDisp("Shirahane","Could ya take this?
 S'a little late though.");
-MsgDisp("主人公","This is......");
+MsgDisp("主人公","This is...");
 VoicePlay("K020800001_08_020");
 MsgDisp("Shirahane","The other day was your birthday, right?
 I wanted t'give this to you then, but I
-couldn't find the time......");
-MsgDisp("主人公","I'm so happy...... thank you!");
+couldn't find the time...");
+MsgDisp("主人公","I'm so happy... thank you!");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,0,1);

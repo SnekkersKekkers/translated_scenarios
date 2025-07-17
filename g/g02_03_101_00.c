@@ -10,7 +10,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310100_03_010");
-MsgDisp("Honda","Is that so......yeah.");
+MsgDisp("Honda","Is that so...yeah.");
 MsgDisp("主人公","｛本多＊＊｝?");
 ChEye(3,2);
 ChEye(3,2);
@@ -20,13 +20,13 @@ VoicePlay("G020310100_03_020");
 MsgDisp("Honda","｛主人公｝. Do you think
 I've been acting weird lately? Have I been
 mean?");
-MsgDisp("主人公","......Why is that?");
+MsgDisp("主人公","...Why is that?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310100_03_030");
 MsgDisp("Honda","I was supposed to be having fun with
-everyone......");
+everyone...");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -36,8 +36,8 @@ been better if Ryo-kun and Mii-kun weren't
 there. I thought such an awful thing.");
 ChMotion(3,4);
 VoicePlay("G020310100_03_050");
-MsgDisp("Honda","I love those two, though......");
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("Honda","I love those two, though...");
+MsgDisp("主人公","｛本多＊＊｝...");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5);
@@ -58,7 +58,7 @@ MsgDisp("Honda","We need to try different situations to
 really understand our feelings!
 Yeah.");
 MsgDisp("主人公","(｛本多＊＊｝, has complicated feelings
-about this, huh......?)");
+about this, huh...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,7 +12,7 @@ VoicePlay("T020520022_05_000");
 MsgDisp("Hiiragi","｛主人公｝, what's the
 matter?");
 MsgDisp("主人公","I was worried I couldn't fully express it
-in words......
+in words...
 I also like ｛柊＊＊＊｝.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
@@ -38,7 +38,7 @@ VoicePlay("T020520022_05_030");
 MsgDisp("Hiiragi","I think Inori-kun and Mikage-sensei will
 be surprised.");
 MsgDisp("主人公","Eehhh∋
-I wish you wouldn't tell them that......");
+I wish you wouldn't tell them that...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);

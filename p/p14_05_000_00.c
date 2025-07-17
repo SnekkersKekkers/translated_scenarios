@@ -5,7 +5,7 @@ ChEyeOpenLevel(5,0);
 ScrFadeIn(0);
 ChMotion(5,2);
 VoicePlay("P140500000_05_000");
-MsgDisp("Hiiragi","Ah, finally......
+MsgDisp("Hiiragi","Ah, finally...
 The classroom felt as if it were a vast
 ranch.");
 MsgDisp("主人公","Good work!

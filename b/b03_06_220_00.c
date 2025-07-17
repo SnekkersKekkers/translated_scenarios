@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030622000_06_000");
 MsgDisp("Himuro","The pride of the city, Habataki Castle,
-huh......");
+huh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

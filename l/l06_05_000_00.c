@@ -16,7 +16,7 @@ Please have this, though it's nothing
 much.");
 SEPlay("EV_SE_664");
 SEWait();
-MsgDisp("主人公","Th-Thank you for your consideration......");
+MsgDisp("主人公","Th-Thank you for your consideration...");
 ChMouth(5,4);
 VoicePlay("L060500000_05_020");
 MsgDisp("Hiiragi","Well then, please excuse me.");
@@ -27,6 +27,6 @@ ChClose(5);
 Wait(60);
 VoicePlay("L060500000_05_030");
 MsgDisp("Hiiragi","I was able to hand it over.");
-MsgDisp("主人公","(Hm, this is obligatory......)");
+MsgDisp("主人公","(Hm, this is obligatory...)");
 MsgClose();
 ScrFadeOut(0,0);

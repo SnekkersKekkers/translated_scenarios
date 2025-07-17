@@ -11,7 +11,7 @@ StlOpen("ev_05_19");
 ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040501000_05_000");
-MsgDisp("Hiiragi","Your smile is so close to me......
+MsgDisp("Hiiragi","Your smile is so close to me...
 It's mine.");
 MsgClose();
 ScrFadeOut(0,0,300);

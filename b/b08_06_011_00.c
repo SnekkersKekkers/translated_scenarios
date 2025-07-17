@@ -1,10 +1,10 @@
 MsgClose();
 ChOpen(6,255,0,1,0,#1,#1,0,2);
 VoicePlay("B080601100_06_000");
-MsgDisp("Himuro","..................");
+MsgDisp("Himuro","......");
 SEPlay("EV_SE_529");
 SEWait();
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);

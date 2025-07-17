@@ -83,7 +83,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B360115101_01_090");
 MsgDisp("Kazama","If I throw with this image in mind, I
 might come out with a high score.");
-MsgDisp("主人公","(｛風真＊＊｝......
+MsgDisp("主人公","(｛風真＊＊｝...
 I think finding a different technique
 might be better?)");
 BGMStop();

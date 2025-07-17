@@ -73,7 +73,7 @@ MsgDisp("主人公","We'll always be the warriors of love!");
 VoicePlay("P240D00000_47_040");
 MsgDisp("Opponent","Ugh, this light...! the huge bomb is
 disappearing...! Ah, I feel my heart
-filling up with love......");
+filling up with love...");
 SEPlay("EV_SE_809",0,0.8);
 SEWait();
 ChEye(22,3);
@@ -95,7 +95,7 @@ SEPlay("EV_SE_GAYA_021");
 Wait(160,0);
 VoicePlay("P240D00000_49_000");
 MsgDisp("Narrator","And so, the lovers in this town were
-protected. But their fight continues......
+protected. But their fight continues...
 until the Flora Angels find love
 themselves.");
 ChEye(22,4);

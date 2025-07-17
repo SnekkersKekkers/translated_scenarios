@@ -15,7 +15,7 @@ VoicePlay("Z502101000_21_010");
 MsgDisp("Michiru","Really.
 You're looking closely at trends.
 Maybe you've been checking my column?");
-MsgDisp("主人公","Trends......
+MsgDisp("主人公","Trends...
 You mean, this?");
 ChEye(21,4);
 ChMouth(21,0);

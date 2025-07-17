@@ -27,7 +27,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("D140A04100_02_010");
 MsgDisp("Sassa","That sounds just like Ryota.
 I'm sure he's really jealous right now.");
-MsgDisp("主人公","Uhm......\"weird things\"\", like what?");
+MsgDisp("主人公","Uhm...\"weird things\"\", like what?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -47,7 +47,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A04100_02_020");
-MsgDisp("Sassa","I-Inori......
+MsgDisp("Sassa","I-Inori...
 You're a scary person, you know.");
 ChEye(6,0);
 ChMouth(6,3);
@@ -78,7 +78,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("D140A04100_02_050");
-MsgDisp("Sassa","......Better not.");
+MsgDisp("Sassa","...Better not.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
@@ -89,7 +89,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A04100_02_060");
-MsgDisp("Sassa","Scary......");
+MsgDisp("Sassa","Scary...");
 MsgDisp("主人公","Hehe! ｛風真＊＊｝ and
 ｛颯砂＊＊｝ are no match for
 ｛氷室＊＊｝, huh?");
@@ -106,7 +106,7 @@ ChMotion(6,5);
 VoicePlay("D140A04100_06_070");
 MsgDisp("Himuro","Huh?
 What are you talking about?");
-MsgDisp("主人公","｛氷室＊＊｝'s weird things......?");
+MsgDisp("主人公","｛氷室＊＊｝'s weird things...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -130,9 +130,9 @@ ChMotion(2,4,1);
 VoicePlay("D140A04100_02_090");
 MsgDisp("Sassa","Information is key when it comes to
 keeping Inori in check.");
-MsgDisp("主人公","(Uhm...... ｛氷室＊＊｝ is staring
+MsgDisp("主人公","(Uhm... ｛氷室＊＊｝ is staring
 at me. I wonder what they're talking
-about......?)");
+about...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -3,14 +3,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020610101_06_000");
-MsgDisp("Himuro","...... Hey.
+MsgDisp("Himuro","... Hey.
 What do you think of me?");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("G020610101_06_010");
-MsgDisp("Himuro","Ah......
+MsgDisp("Himuro","Ah...
 ——Sorry, disregard what I said just now.");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,2);
@@ -18,7 +18,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610101_06_020");
-MsgDisp("Himuro","......When we get to spend time alone like
+MsgDisp("Himuro","...When we get to spend time alone like
 this, I start to get the wrong idea.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -27,7 +27,7 @@ ChCheek(6,10);
 VoicePlay("G020610101_06_030");
 MsgDisp("Himuro","That maybe I'm a little more special to
 you than everyone else.");
-MsgDisp("主人公","Ah, I......");
+MsgDisp("主人公","Ah, I...");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
@@ -46,7 +46,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("G020610101_06_060");
-MsgDisp("Himuro","......Or maybe I'm just not brave enough
+MsgDisp("Himuro","...Or maybe I'm just not brave enough
 to hear it.");
 ChEye(6,2);
 ChMouth(6,0);
@@ -59,9 +59,9 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610101_06_080");
-MsgDisp("Himuro","So, I want a little more time ......is
+MsgDisp("Himuro","So, I want a little more time ...is
 that okay?");
-MsgDisp("主人公","Time...... y-yeah, I understand.");
+MsgDisp("主人公","Time... y-yeah, I understand.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);

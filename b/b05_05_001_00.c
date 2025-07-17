@@ -12,7 +12,7 @@ VoicePlay("B050500100_05_000");
 MsgDisp("Hiiragi","I thought you weren't very good with this
 sort of thing?");
 MsgDisp("主人公","That may be true, but my legs just brought
-me here......");
+me here...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -38,9 +38,9 @@ Wait(60,0);
 MsgDisp("主人公","Aah!");
 SEPlay("EV_SE_708");
 SEWait();
-MsgDisp("主人公","Eep......!");
+MsgDisp("主人公","Eep...!");
 VoicePlay("B050500100_05_020");
-MsgDisp("Hiiragi","......Mmm.");
+MsgDisp("Hiiragi","...Mmm.");
 SEPlay("EV_SE_AMUSE_008",0,0.8);
 VoicePlay("B050500100_39_000");
 MsgDisp("Ghost","I curse you～!");
@@ -48,7 +48,7 @@ MsgDisp("主人公","∋");
 SEStop("EV_SE_AMUSE_008",1);
 VoicePlay("B050500100_05_030");
 MsgDisp("Hiiragi","That is unacceptable.");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 ｛柊＊＊＊｝?");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
@@ -57,14 +57,14 @@ StlEye(5,0);
 StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("B050500100_05_040");
-MsgDisp("Hiiragi","First of all......
+MsgDisp("Hiiragi","First of all...
 The right side should be wrapped over the
 left when you're dead.");
 StlEyeOpenLevel(5,5);
 SEPlay("EV_SE_623",0.3);
 SEWait();
 VoicePlay("B050500100_39_010");
-MsgDisp("Ghost","Eh......
+MsgDisp("Ghost","Eh...
 Ah, yes.");
 MsgDisp("主人公","｛柊＊＊＊｝?");
 StlEyeOpenLevel(5,0,1);
@@ -84,7 +84,7 @@ StlEyeOpenLevel(5,5,1);
 SEPlay("EV_SE_623",0.3,0.6);
 SEWait();
 VoicePlay("B050500100_39_030");
-MsgDisp("Ghost","Ah, thank you so much......");
+MsgDisp("Ghost","Ah, thank you so much...");
 MsgDisp("主人公","Hehe, as expected of the chairman.");
 StlEyeOpenLevel(5,#1);
 VoicePlay("B050500100_05_070");
@@ -92,7 +92,7 @@ MsgDisp("Hiiragi","It's fine.
 There's also room for improvement in the
 timing of your appearance.");
 VoicePlay("B050500100_39_040");
-MsgDisp("Ghost","Ah, yes......
+MsgDisp("Ghost","Ah, yes...
 Thank you so much.
 P-Please excuse me.");
 BGMStop();
@@ -124,7 +124,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,8);
 VoicePlay("B050500100_05_100");
-MsgDisp("Hiiragi","Hmm......
+MsgDisp("Hiiragi","Hmm...
 Is that a good thing?");
 BGMStop();
 MsgClose();

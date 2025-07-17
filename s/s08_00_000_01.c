@@ -1,7 +1,7 @@
 MsgSel("Love Success","Health Success","School Success");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","The focus is......");
+    MsgDisp("主人公","The focus is...");
     break ;
     case 1:
     MsgDisp("主人公","I want to be healthy this year.");

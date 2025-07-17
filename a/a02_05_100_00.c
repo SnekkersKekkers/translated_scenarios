@@ -28,14 +28,14 @@ StlMouth(5,0);
 Wait(145,0);
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah......I'm so sorry!");
+MsgDisp("主人公","Ah...I'm so sorry!");
 StlEye(5,1);
 VoicePlay("A020510000_05_000");
 MsgDisp("Hiiragi?","Excuse me.
 Are you alright?");
 MsgDisp("主人公","I'm fine.
-......Oh, what beautiful flowers.
-Glad they didn't get crushed......");
+...Oh, what beautiful flowers.
+Glad they didn't get crushed...");
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,1);
 VoicePlay("A020510000_05_010");
@@ -53,7 +53,7 @@ StlMouth(5,1);
 VoicePlay("A020510000_05_030");
 MsgDisp("Hiiragi?","Hehe.
 You're kind, and strong willed. ");
-MsgDisp("主人公","I am......?");
+MsgDisp("主人公","I am...?");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("A020510000_05_040");
 MsgDisp("Hiiragi?","My name is Hiiragi Yanosuke.
@@ -88,14 +88,14 @@ MsgDisp("主人公","Huh, we're here.
 This is the event hall right here, and——");
 VoicePlay("A020510000_43_000");
 MsgDisp("Theater Member","Ahh! You're here, Chairman!");
-MsgDisp("主人公","(Chairman......?)");
+MsgDisp("主人公","(Chairman...?)");
 VoicePlay("A020510000_05_080");
 MsgDisp("Hiiragi","Excuse me, I'll be right back.");
 MsgDisp("主人公","Huh?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.5);
 SEWait();
 MsgDisp("主人公","(Did these people just call ｛柊＊＊＊｝
-\"Chairman\"......?)");
+\"Chairman\"...?)");
 Wait(40);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 Wait(60);
@@ -119,7 +119,7 @@ MsgDisp("Hiiragi","I wanted to do a little bit of shopping,
 but I lost my way back to the hall.
 I'm glad that I met you.");
 MsgDisp("主人公","Don't worry, it was just a few
-blocks......");
+blocks...");
 VoicePlay("A020510000_43_010");
 MsgDisp("Theater Member","Chairman! It's time!");
 ChEye(5,0);
@@ -133,11 +133,11 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝...... He said he's a
+MsgDisp("主人公","(｛柊＊＊＊｝... He said he's a
 Habataki student, but he's also the
-chairman of the troupe Amazing......)");
+chairman of the troupe Amazing...)");
 MsgDisp("主人公","(Oh, there's the poster for his play!
-......Hmm? \"Starring actor : Hiiragi
+...Hmm? \"Starring actor : Hiiragi
 Yanosuke\"∋)");
 MsgClose();
 ScrFadeOut(0,0);

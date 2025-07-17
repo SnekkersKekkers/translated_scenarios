@@ -13,14 +13,14 @@ switch (ChPrmGet(21,6)){
     VoicePlay("H4A2100001_21_000");
     MsgDisp("Michiru","Good work.");
     MsgDisp("主人公","｛みちる＊｝.
-I showed you a weird performance......");
+I showed you a weird performance...");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,3);
     VoicePlay("H4A2100001_21_010");
     MsgDisp("Michiru","Hehe! I'm sorry, I shouldn't laugh, but
-you know...... I still enjoyed it.");
-    MsgDisp("主人公","(......Ugh. But I'm glad I stayed in the
+you know... I still enjoyed it.");
+    MsgDisp("主人公","(...Ugh. But I'm glad I stayed in the
 rhythmic gymnastics club.)");
     break ;
     case 4:
@@ -31,7 +31,7 @@ rhythmic gymnastics club.)");
     ScrFadeIn(0);
     VoicePlay("H4A2100001_21_020");
     MsgDisp("Michiru","Mari.");
-    MsgDisp("主人公","｛みちる＊｝......
+    MsgDisp("主人公","｛みちる＊｝...
 I messed up my performance.");
     ChEye(21,0);
     ChMouth(21,4);
@@ -45,7 +45,7 @@ I suppose that's so.");
     VoicePlay("H4A2100001_21_040");
     MsgDisp("Michiru","But other than that, you were on top.
 Really.");
-    MsgDisp("主人公","Thank you......");
+    MsgDisp("主人公","Thank you...");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,4);
@@ -53,7 +53,7 @@ Really.");
     MsgDisp("Michiru","Cheer up.
 I'll give Mari a special award.
 Okay?");
-    MsgDisp("主人公","(｛みちる＊｝......
+    MsgDisp("主人公","(｛みちる＊｝...
 I lost, but I'm glad I stayed in the
 rhythmic gymnastics club.)");
     break ;

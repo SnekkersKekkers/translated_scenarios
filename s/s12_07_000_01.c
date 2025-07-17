@@ -90,7 +90,7 @@ I had a fun New Years thanks to you.");
 gift. But after thinking about it, it
 would be smarter not to.");
     MsgDisp("主人公","Ehh?
-Really......");
+Really...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

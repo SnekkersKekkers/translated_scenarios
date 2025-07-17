@@ -45,12 +45,12 @@ That's why I came.");
     MsgDisp("Nanatsumori","Congrats on winning.
 You guys are amazing.
 The team, and you as the manager.");
-    MsgDisp("主人公","Thanks......");
+    MsgDisp("主人公","Thanks...");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,2,1);
     VoicePlay("H2A0400000_04_050");
-    MsgDisp("Nanatsumori","But......
+    MsgDisp("Nanatsumori","But...
 I never thought I would be so moved just
 by sports.");
     MsgDisp("主人公","Hehe!");
@@ -61,7 +61,7 @@ by sports.");
     MsgDisp("Nanatsumori","Nice smile.
 Really, good work.");
     MsgDisp("主人公","(I'm glad that I stayed as the track and
-field club manager......!)");
+field club manager...!)");
     break ;
     default :
     DbgAssert(1);

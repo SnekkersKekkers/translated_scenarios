@@ -43,7 +43,7 @@ club!)");
     ChMouth(21,4);
     ChMotion(21,0);
     VoicePlay("H3A2100000_21_020");
-    MsgDisp("Michiru","Mari......!");
+    MsgDisp("Michiru","Mari...!");
     MsgDisp("主人公","Ah, ｛みちる＊｝.
 I won!");
     ChEye(21,0);
@@ -51,7 +51,7 @@ I won!");
     ChMotion(21,4);
     VoicePlay("H3A2100000_21_030");
     MsgDisp("Michiru","I was watching.
-I was very nervous, but......");
+I was very nervous, but...");
     MsgDisp("主人公","Hehe!");
     ChEye(21,3);
     ChMouth(21,3);

@@ -23,7 +23,7 @@ visit...");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700005_07_010");
-    MsgDisp("Mikage","You......
+    MsgDisp("Mikage","You...
 Stop it, you idiot.
 You're two months too early!");
     ChEye(7,0);
@@ -32,7 +32,7 @@ You're two months too early!");
     VoicePlay("S120700005_07_020");
     MsgDisp("Mikage","You really haven't changed at all in these
 three years, huh?");
-    MsgDisp("主人公","Eh......");
+    MsgDisp("主人公","Eh...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -48,7 +48,7 @@ it's just a waste.");
     MsgDisp("Mikage","That's right. Build it up and then let it
 all out. That way you'll create a memory
 you will never forget.");
-    MsgDisp("主人公","But......");
+    MsgDisp("主人公","But...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -69,7 +69,7 @@ quietly, understood?");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(My high school days will be over in the
-spring......like
+spring...like
 ｛御影＊＊｝ said, let's
 spend the rest of it without any regrets!)");
     break ;
@@ -84,7 +84,7 @@ spend the rest of it without any regrets!)");
     ChMotion(7,0);
     ScrFadeIn(0);
     VoicePlay("S120700005_07_070");
-    MsgDisp("Mikage","......That time is upon us.");
+    MsgDisp("Mikage","...That time is upon us.");
     MsgDisp("主人公","Yep, thank you for taking me.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -98,7 +98,7 @@ spend the rest of it without any regrets!)");
     VoicePlay("S120700005_07_090");
     MsgDisp("Mikage","I'm not graduating, I have to stay at
 school.");
-    MsgDisp("主人公","Oh, I see......");
+    MsgDisp("主人公","Oh, I see...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -111,7 +111,7 @@ feels like I'll be stuck here forever.");
     VoicePlay("S120700005_07_110");
     MsgDisp("Mikage","It's the same as the plants in the
 gardening club, growing roots holding them
-in place......");
+in place...");
     MsgDisp("主人公","｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -132,14 +132,14 @@ vines.");
     ChMotion(7,3);
     VoicePlay("S120700005_07_140");
     MsgDisp("Mikage","Maybe I'll get added to our school's
-legends......?
+legends...?
 Let's move on.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(｛御影＊＊｝ seems a little sad......
+    MsgDisp("主人公","(｛御影＊＊｝ seems a little sad...
 But I'm glad I could go with him for my
 final shrine visit.)");
     break ;

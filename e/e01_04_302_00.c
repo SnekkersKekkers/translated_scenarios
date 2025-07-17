@@ -36,7 +36,7 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 ChEyeOpenLevel(4,7);
 VoicePlay("E010430200_04_030");
-MsgDisp("Nanatsumori","Uh oh......");
+MsgDisp("Nanatsumori","Uh oh...");
 ChEyeOpenLevel(4,#1);
 ChEye(7,0);
 ChMouth(7,0);
@@ -52,7 +52,7 @@ VoicePlay("E010430200_04_040");
 MsgDisp("Nanatsumori","He thinks you're being hit on by some
 flashy guy called Nana.
 AKA me."); 
-MsgDisp("主人公","Ah......");
+MsgDisp("主人公","Ah...");
 ChEyeOpenLevel(4,#1);
 ChEye(7,0);
 ChMouth(7,1);
@@ -71,7 +71,7 @@ ChMouth(4,1);
 VoicePlay("E010430200_04_050");
 MsgDisp("Nanatsumori","Wait.
 What are you planning to say?");
-MsgDisp("主人公","Ah......");
+MsgDisp("主人公","Ah...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -88,11 +88,11 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("E010430200_04_060");
-MsgDisp("Nanatsumori","Phew......");
+MsgDisp("Nanatsumori","Phew...");
 ChEyeOpenLevel(4,#1);
 MsgDisp("主人公","I'm sorry.
 I almost exposed your identity,
-｛七ツ森＊｝......");
+｛七ツ森＊｝...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

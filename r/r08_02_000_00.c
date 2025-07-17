@@ -69,7 +69,7 @@ StlEyeOpenLevel(2,0,1);
 VoicePlay("R080200000_02_060");
 MsgDisp("Sassa","I didn't realize how obvious that was
 until I retired.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_070");

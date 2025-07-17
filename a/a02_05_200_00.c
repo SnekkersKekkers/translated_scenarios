@@ -7,8 +7,8 @@ MsgClose();
 ScrFadeOut(0,0);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(The student council room......
-Phew, I'm nervous......!)");
+MsgDisp("主人公","(The student council room...
+Phew, I'm nervous...!)");
 MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_DOOR_024");
@@ -18,8 +18,8 @@ SEPlay("EV_SE_DOOR_013");
 BGOpen("sc609",0);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","Excuse me......
-Is anyone here......?");
+MsgDisp("主人公","Excuse me...
+Is anyone here...?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -27,7 +27,7 @@ BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020520000_05_000");
 MsgDisp("Hiiragi?","Can I help you?");
-MsgDisp("主人公","Err......My name is ｛主人公姓名｝, and I
+MsgDisp("主人公","Err...My name is ｛主人公姓名｝, and I
 would like to join the student council!");
 ChEye(5,0);
 ChMouth(5,4);
@@ -57,7 +57,7 @@ chairman of the Habataki Theater Troupe
 even though he's still a high schooler. On
 top of that he's a member of our student
 council.");
-MsgDisp("主人公","Whoa, the troupe chairman ......∋");
+MsgDisp("主人公","Whoa, the troupe chairman ...∋");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
@@ -78,7 +78,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝, was it...... I can't
+MsgDisp("主人公","(｛柊＊＊＊｝, was it... I can't
 believe the theater troupe chairman is in
 the same year as me. He seems a bit
 strict, though.)");

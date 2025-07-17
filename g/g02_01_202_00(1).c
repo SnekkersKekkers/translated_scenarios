@@ -9,7 +9,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020120200_01_010");
-MsgDisp("Kazama","......Geez, you're so carefree, aren't
+MsgDisp("Kazama","...Geez, you're so carefree, aren't
 you?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -34,7 +34,7 @@ ChMotion(1,4);
 VoicePlay("G020120200_01_040");
 MsgDisp("Kazama","Do you like those that are unusually big
 and fly really fast?");
-MsgDisp("主人公","Ummm......is this about fireflies?");
+MsgDisp("主人公","Ummm...is this about fireflies?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -61,7 +61,7 @@ VoicePlay("G020120200_01_080");
 MsgDisp("Kazama","So I know I can't compete with him on the
 same level. Even if I did track and field,
 I wouldn't stand a chance.");
-MsgDisp("主人公","Umm......
+MsgDisp("主人公","Umm...
 ｛風真＊＊｝.
 What's wrong?");
 ChEye(1,4);
@@ -87,7 +87,7 @@ ChMouth(1,2);
 VoicePlay("G020120200_01_110");
 MsgDisp("Kazama","Listen, I'll reach the goal first.");
 MsgDisp("主人公","(｛風真＊＊｝, Is talking about
-｛颯砂＊＊｝ right......?)");
+｛颯砂＊＊｝ right...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

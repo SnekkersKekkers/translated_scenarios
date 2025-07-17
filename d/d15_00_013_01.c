@@ -57,7 +57,7 @@ ChMotion ( 3,4 ) ;
 ChEyeOpenLevel ( 3,0 ) ;
 VoicePlay ( "D150001301_03_040" ) ;
 MsgDisp ( "Honda","C'mon, don't be shy.
-Okay so......" ) ;
+Okay so..." ) ;
 MsgDisp ( "主人公","(Hehe, it's as though someone flipped a
 switch.)" ) ;
 BGMStop (  ) ;

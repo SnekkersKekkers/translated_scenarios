@@ -3,16 +3,16 @@ ChOpen(1,255,1,4,2,0,#1,0,0);
 Wait(12,0);
 ChEye(1,0);
 VoicePlay("G020110001_01_000");
-MsgDisp("Kazama","...... This is the Home of Fireflies,
+MsgDisp("Kazama","... This is the Home of Fireflies,
 right?
 Doesn't it kinda smell like roses?");
-MsgDisp("主人公","Huh......?");
+MsgDisp("主人公","Huh...?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110001_01_010");
-MsgDisp("Kazama","Yeah, that doesn't make sense......
+MsgDisp("Kazama","Yeah, that doesn't make sense...
 And you're not really the roses type.");
 MsgDisp("主人公","Rude.");
 ChEye(1,0);
@@ -21,7 +21,7 @@ ChMotion(1,3);
 VoicePlay("G020110001_01_020");
 MsgDisp("Kazama","\"Rude\" or not, in my head, you've always
 smelled like fresh-baked cookies.");
-MsgDisp("主人公","Cookies......?");
+MsgDisp("主人公","Cookies...?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -33,8 +33,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020110001_01_040");
-MsgDisp("Kazama","It's why......even in the UK, I'd ask my
-mom to make cookies all the time......");
+MsgDisp("Kazama","It's why...even in the UK, I'd ask my
+mom to make cookies all the time...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -42,7 +42,7 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("G020110001_01_050");
 MsgDisp("Kazama","It's lame, but it's true.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -67,10 +67,10 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110001_01_090");
-MsgDisp("Kazama","...... Huh?
+MsgDisp("Kazama","... Huh?
 It doesn't smell like roses anymore.");
 MsgDisp("主人公","(I can't belive I'm the reason
-｛風真＊＊｝ likes sweets......
+｛風真＊＊｝ likes sweets...
 That's kind of embarrassing.");
 BGMStop();
 MsgClose();

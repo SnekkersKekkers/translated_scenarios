@@ -3,7 +3,7 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Hm, my team is......
+    MsgDisp("主人公","Hm, my team is...
 Ah, it's ｛柊＊＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -18,7 +18,7 @@ Ah, it's ｛柊＊＊＊｝.");
     MsgDisp("Hiiragi","Yes, this game looks quite fun.");
     break ;
     case 3:
-    MsgDisp("主人公","(Hm, my team is......)");
+    MsgDisp("主人公","(Hm, my team is...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -39,7 +39,7 @@ I will be successful in this event.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Hm, my team is......");
+    MsgDisp("主人公","Hm, my team is...");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -56,7 +56,7 @@ on the same team.");
     MsgDisp("Hiiragi","Yes, please watch me.
 This sports festival, I will put my all
 into this event.");
-    MsgDisp("主人公","(｛柊＊＊＊｝ is really into it......?)");
+    MsgDisp("主人公","(｛柊＊＊＊｝ is really into it...?)");
     break ;
     default :
     DbgAssert(1);

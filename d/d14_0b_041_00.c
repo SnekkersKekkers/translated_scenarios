@@ -52,7 +52,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D140B04100_03_030");
-MsgDisp("Honda","Heeh. It must be convenient to have your
+MsgDisp("Honda","Ehhh. It must be convenient to have your
 house so close by. ...Right?");
 MsgDisp("主人公","(It's definitely convenient but But it's a
 big shock when you forget something. I'm

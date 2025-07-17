@@ -69,7 +69,7 @@ If you're ready, you can leave now?");
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("S120100003_01_050");
-    MsgDisp("Kazama","I'm leaving...... but it doesn't matter.
+    MsgDisp("Kazama","I'm leaving... but it doesn't matter.
 Grandpa is waiting for me.");
     MsgDisp("主人公","You have to work?");
     ChMotion(1,0);
@@ -102,7 +102,7 @@ Thanks anyway.");
 You're dressed so beautifully right now.
 Thanks for that.");
     MsgDisp("主人公","(｛風真＊＊｝ said I'm dressed beautifully,
-I'm so happy he said that......
+I'm so happy he said that...
 This year will be another good year.)");
     break ;
     default :

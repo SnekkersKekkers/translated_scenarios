@@ -7,7 +7,7 @@ VoicePlay("G020310303_03_000");
 MsgDisp("Honda","Sorry for being late today.
 I can't believe people like that actually
 exist.");
-MsgDisp("主人公","That's right......");
+MsgDisp("主人公","That's right...");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -28,7 +28,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("G020310303_03_030");
-MsgDisp("Honda","Haa......");
+MsgDisp("Honda","Haa...");
 MsgDisp("主人公","?");
 ChMotion(3,4,1);
 VoicePlay("G020310303_03_040");
@@ -48,7 +48,7 @@ ChMotion(3,2,1);
 VoicePlay("G020310303_03_060");
 MsgDisp("Honda","Maybe I should just be at the meeting
 place the day before from now on?");
-MsgDisp("主人公","(Is that even a meeting......?)");
+MsgDisp("主人公","(Is that even a meeting...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

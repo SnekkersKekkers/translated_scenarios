@@ -49,7 +49,7 @@ ChMotion ( 7,5 ) ;
 VoicePlay ( "D150001700_07_030" ) ;
 MsgDisp ( "Mikage","Haha, that's it.
 Continue being your usual self." ) ;
-MsgDisp ( "主人公","(Even if you say that......)" ) ;
+MsgDisp ( "主人公","(Even if you say that...)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

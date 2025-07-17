@@ -11,8 +11,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("O020100002_01_000");
     MsgDisp("Kazama","They say it's a tie.
 It was close.");
-    MsgDisp("主人公","(A tie......
-And we were so close, too......)");
+    MsgDisp("主人公","(A tie...
+And we were so close, too...)");
     break ;
     case 3:
     MsgClose();
@@ -22,8 +22,8 @@ And we were so close, too......)");
     MsgDisp("Kazama","It was a tie, but I could see how hard you
 were trying.
 You really did your best.");
-    MsgDisp("主人公","(A tie......
-And we were so close, too......)");
+    MsgDisp("主人公","(A tie...
+And we were so close, too...)");
     break ;
     case 4:
     case 5:
@@ -34,7 +34,7 @@ And we were so close, too......)");
     VoicePlay("O020100002_01_020");
     MsgDisp("Kazama","That was a good match.
 Really close.");
-    MsgDisp("主人公","Yeah......
+    MsgDisp("主人公","Yeah...
 Sorry that you came to cheer for this.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -43,7 +43,7 @@ Sorry that you came to cheer for this.");
     MsgDisp("Kazama","It was worth it.
 You looked cool, you know?");
     MsgDisp("主人公","(I wanted to show you a win, not a
-draw......)");
+draw...)");
     break ;
     default :
     DbgAssert(1);

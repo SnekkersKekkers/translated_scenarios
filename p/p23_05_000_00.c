@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","(It's almost time to perform Haa, I'm so
-anxious......)");
+anxious...)");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,38,0,0,4,#1,#1,0,0);

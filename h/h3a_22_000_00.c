@@ -64,7 +64,7 @@ even more so now♪");
     ChMotion(22,4,1);
     VoicePlay("H3A2200000_22_040");
     MsgDisp("Hikaru","It's true, okay?
-You were so cool...... the strongest Mari!");
+You were so cool... the strongest Mari!");
     MsgDisp("主人公","(Hehe!
 I'm glad I worked so hard at judo club!)");
     BGMStop();

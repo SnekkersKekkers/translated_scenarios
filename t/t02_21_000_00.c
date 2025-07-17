@@ -21,7 +21,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("T022100000_21_020");
-MsgDisp("Michiru","......... Should I not have come here?");
+MsgDisp("Michiru","...... Should I not have come here?");
 MsgDisp("主人公","No.
 I'm glad you came.
 I feel so relieved.");

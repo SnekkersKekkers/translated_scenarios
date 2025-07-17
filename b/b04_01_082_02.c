@@ -103,7 +103,7 @@ health is something I wished for, too.");
         MsgDisp("Kazama","But, you know, I wish I could have seen
 even a small change like that for myself
 as it happened.");
-        MsgDisp("主人公","｛風真＊＊｝......");
+        MsgDisp("主人公","｛風真＊＊｝...");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         ChCheek(1,0);

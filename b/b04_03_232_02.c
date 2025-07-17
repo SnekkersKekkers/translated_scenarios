@@ -33,7 +33,7 @@ dizzy.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040323202_03_020");
-        MsgDisp("Honda","Heeh, so there's that sort of feeling too?");
+        MsgDisp("Honda","Ehhh, so there's that sort of feeling too?");
         MsgDateResultDisp();
         break ;
         case 4:

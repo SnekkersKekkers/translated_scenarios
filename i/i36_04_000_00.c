@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","Let's see, the tables waiting for their
-orders are......");
+orders are...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -25,7 +25,7 @@ Ah, ｛七ツ森＊｝.");
     VoicePlay("I360400000_04_010");
     MsgDisp("Nanatsumori","Shouldn't you clean up that seat soon?");
     MsgDisp("主人公","Oh no!
-That guest left a while ago......
+That guest left a while ago...
 Thanks for telling me.");
     ChEye(4,2);
     ChMouth(4,3);
@@ -36,16 +36,16 @@ do, but the store can't seat new customers
 with dirty tables. Careful.");
     MsgDisp("主人公","(I see, I need to look around more.
 Or else the store's reputation will take a
-hit, too......)");
+hit, too...)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","Let's see, the tables waiting for their
-orders are......");
+orders are...");
     VoicePlay("I360400000_04_030");
-    MsgDisp("Nanatsumori?","............");
+    MsgDisp("Nanatsumori?","......");
     MsgDisp("主人公","(I've felt this gaze for a while
-now......)");
+now...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -74,7 +74,7 @@ someone would go \"thud\".");
     ChMouth(4,3);
     VoicePlay("I360400000_04_070");
     MsgDisp("Nanatsumori","Especially you, you know?");
-    MsgDisp("主人公","Ugh......");
+    MsgDisp("主人公","Ugh...");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -84,7 +84,7 @@ Let's pay attention to our surroundings,
 okay?");
     MsgDisp("主人公","(That's right.
 I need to be more careful about my
-surroundings......)");
+surroundings...)");
     break ;
     default :
     DbgAssert(1);

@@ -22,7 +22,7 @@ year we're also doing a vegetable sale.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("P630100001_01_010");
-    MsgDisp("Kazama","Heeh, your vegetables, huh?
+    MsgDisp("Kazama","Ehhh, your vegetables, huh?
 Somehow, I think I can tell which it is
 just by looking.");
     MsgDisp("主人公","Yes, because the person who grew them is

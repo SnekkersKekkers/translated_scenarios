@@ -29,13 +29,13 @@ ChMotion(3,0,1);
 VoicePlay("G020310305_03_030");
 MsgDisp("Honda","Guso-kun the giant isopod.
 He's also one of them.");
-MsgDisp("主人公","Guso-kun......that was unfortunate,
-huh......");
+MsgDisp("主人公","Guso-kun...that was unfortunate,
+huh...");
 ChFace(3,4);
 ChMotion(3,2,1);
 VoicePlay("G020310305_03_040");
 MsgDisp("Honda","Yeah, and I've been watching him since I
-was little too......");
+was little too...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -65,7 +65,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("G020310305_03_080");
 MsgDisp("Honda","No matter what I'm doing, you just seem to
 pop into my head?");
-MsgDisp("主人公","(I'm also an observation subject......)");
+MsgDisp("主人公","(I'm also an observation subject...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

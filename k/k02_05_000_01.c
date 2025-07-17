@@ -20,7 +20,7 @@ ChMotion(5,4);
 VoicePlay("K020500001_05_010");
 MsgDisp("Hiiragi","I wanted to give this to you directly no
 matter what, and before I knew it, the
-timing came to this......");
+timing came to this...");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(5,4);
@@ -30,7 +30,7 @@ VoicePlay("K020500001_05_020");
 MsgDisp("Hiiragi","It's slightly late, but happy birthday.
 Please accept this.");
 MsgDisp("主人公","Really?
-Thank you......!");
+Thank you...!");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("K020500001_05_030");

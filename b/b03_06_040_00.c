@@ -23,7 +23,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 MsgDisp("主人公","True.
-...... Ah, it's starting!");
+... Ah, it's starting!");
 MsgDispSksp(0);
 SEPlay("EV_SE_038");
 SEWait();

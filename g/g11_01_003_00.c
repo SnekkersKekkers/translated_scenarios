@@ -4,7 +4,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 MsgDisp("主人公","(Ah, a message from
 ｛風真＊＊｝. \"Let's walk home
-together today\" huh...... Okay let's
+together today\" huh... Okay let's
 prepare to go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -21,8 +21,8 @@ BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,1,2,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110100300_01_000");
-MsgDisp("Kazama","......The sky is pretty.");
-MsgDisp("主人公","It really is......");
+MsgDisp("Kazama","...The sky is pretty.");
+MsgDisp("主人公","It really is...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -33,7 +33,7 @@ ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100300_01_020");
-MsgDisp("Kazama","This time before the sun sets......
+MsgDisp("Kazama","This time before the sun sets...
 They call it the magic hour.
 I like it.");
 ChEye(1,2);
@@ -66,16 +66,16 @@ ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100300_01_070");
-MsgDisp("Kazama","......I'm not saying you absolutely can't
+MsgDisp("Kazama","...I'm not saying you absolutely can't
 refuse, alright?");
-MsgDisp("主人公","...... Hm?
+MsgDisp("主人公","... Hm?
 Yeah, I got it.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100300_01_080");
-MsgDisp("Kazama","......Then, it's decided.");
-MsgDisp("主人公","(Huh? ｛風真＊＊｝...... I wonder if
+MsgDisp("Kazama","...Then, it's decided.");
+MsgDisp("主人公","(Huh? ｛風真＊＊｝... I wonder if
 he's worried about not being able to go
 home with me last time...?)");
 BGMStop();

@@ -2,7 +2,7 @@ BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(We're preparing for the school festival,
-I'll do my best......!)");
+I'll do my best...!)");
 MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_DOOR_019");
@@ -24,21 +24,21 @@ StlEyeOpenLevel(5,5);
 VoicePlay("D010500400_05_000");
 MsgDisp("Hiiragi","It would be better if one of you does it
 rather than me.");
-MsgDisp("主人公","(｛柊＊＊＊｝......
-He turned down the lead role offer......)");
+MsgDisp("主人公","(｛柊＊＊＊｝...
+He turned down the lead role offer...)");
 VoicePlay("D010500400_41_020");
 MsgDisp("Male Student B","Why though∋
 Everyone wants to see your professional
 acting.");
 StlEye(5,0,1);
 VoicePlay("D010500400_05_010");
-MsgDisp("Hiiragi","......No, I have been put in charge of
+MsgDisp("Hiiragi","...No, I have been put in charge of
 making the stage props.");
 VoicePlay("D010500400_42_030");
 MsgDisp("Male Student A","I can do that!");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500400_05_020");
-MsgDisp("Hiiragi","......That is not possible.");
+MsgDisp("Hiiragi","...That is not possible.");
 MsgDisp("主人公","｛柊＊＊＊｝, everyone is
 looking forward to it. Me too, I want to
 see the performance with
@@ -53,8 +53,8 @@ ChOpen(5,254,2,2,2,9,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D010500400_05_030");
-MsgDisp("Hiiragi","｛主人公｝......
-Everyone is looking forward to it......");
+MsgDisp("Hiiragi","｛主人公｝...
+Everyone is looking forward to it...");
 VoicePlay("D010500400_42_040");
 MsgDisp("Male Student A","That's right.
 Everyone wants to see it.");
@@ -66,7 +66,7 @@ ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500400_05_040");
-MsgDisp("Hiiragi","............");
+MsgDisp("Hiiragi","......");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
@@ -78,16 +78,16 @@ SEPlay("EV_SE_724",0.3);
 ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("D010500400_42_060");
-MsgDisp("Male Student A","......Haa, it's no good, huh?");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("Male Student A","...Haa, it's no good, huh?");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 SEStop("EV_SE_724",1);
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500400_05_050");
-MsgDisp("Hiiragi","...... Phew.
+MsgDisp("Hiiragi","... Phew.
 I am done with the backdrop.
 Now I can do it without fear.");
-MsgDisp("主人公","......Eh?");
+MsgDisp("主人公","...Eh?");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0,0);
@@ -116,7 +116,7 @@ VoicePlay("D010500400_44_020");
 MsgDisp("School Girl","Awesome! We'll get to see a real Theater
 Company performance at our school! That's
 amazing!");
-MsgDisp("主人公","Yeah......!
+MsgDisp("主人公","Yeah...!
 ｛柊＊＊＊｝, thank you!");
 SEStop("EV_SE_GAYA_025",1.5);
 MsgClose();
@@ -148,14 +148,14 @@ ChEyeOpenLevel(5,0);
 VoicePlay("D010500400_05_080");
 MsgDisp("Hiiragi","Yes.
 Everyone being excited and happy about
-it...... it makes me glad.");
+it... it makes me glad.");
 MsgDisp("主人公","Yeah.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500400_05_090");
 MsgDisp("Hiiragi","Thank you.
-Why are you crying......");
+Why are you crying...");
 MsgClose();
 SEPlay("EV_SE_FOOT_039");
 ChClose(5,0,30);
@@ -168,11 +168,11 @@ SEPlay("EV_SE_551",0.5,0.5);
 MsgClose();
 ScrFadeOut(0,0);
 SEWait();
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 VoicePlay("D010500400_05_100");
-MsgDisp("Hiiragi","...... Sorry.
+MsgDisp("Hiiragi","... Sorry.
 I've been making you worry.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChLayout(1);
 BGOpen("sc300",1);
 SEPlay("EV_SE_675",1,0.4)ChEye(5,4);
@@ -183,7 +183,7 @@ ScrFadeIn(0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500400_05_110");
-MsgDisp("Hiiragi","Haa......
+MsgDisp("Hiiragi","Haa...
 Thanks to you, I remembered what I had
 forgotten.");
 ChEye(5,0);
@@ -197,9 +197,9 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500400_05_130");
-MsgDisp("Hiiragi","......It was a late realization, but it is
+MsgDisp("Hiiragi","...It was a late realization, but it is
 better than not realizing at all.");
-MsgDisp("主人公","(｛柊＊＊＊｝......
+MsgDisp("主人公","(｛柊＊＊＊｝...
 Yeah, let's do our best together.)");
 BGMStop();
 MsgClose();

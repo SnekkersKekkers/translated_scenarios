@@ -1,7 +1,7 @@
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It should be lunch time soon huh......
+MsgDisp("主人公","(It should be lunch time soon huh...
 Yeah, there's still some breaktime left.)");
 SEPlay("EV_SE_018",0,0.5);
 MsgDisp("","(*Growl*～)");
@@ -15,7 +15,7 @@ ChOpen(5,100,0,0,0,8,#1,7,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110501100_05_000");
-MsgDisp("Hiiragi","Please excuse me......");
+MsgDisp("Hiiragi","Please excuse me...");
 MsgDisp("主人公","Hehe, you're hungry, aren't you?");
 ChEye(5,1);
 ChMouth(5,1);
@@ -62,7 +62,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 ChCheek(5,7);
 VoicePlay("G110501100_05_040");
-MsgDisp("Hiiragi","......I'm ashamed.");
+MsgDisp("Hiiragi","...I'm ashamed.");
 MsgDisp("主人公","Hehe.
 Shall we wrap it up here and have lunch?");
 ChEye(5,1);

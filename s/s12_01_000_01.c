@@ -63,14 +63,14 @@ after this?");
     MsgDisp("Kazama","Huh?
 What kind of question is that?");
     MsgDisp("主人公","Eh?
-I just wanted to know your plans......
+I just wanted to know your plans...
 Oh, are you going in?");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("S120100001_01_040");
-    MsgDisp("Kazama","...... Ha.
+    MsgDisp("Kazama","... Ha.
 No, it's fine.");
     MsgDisp("主人公","Do you have something you need to do?");
     ChEye(1,0);

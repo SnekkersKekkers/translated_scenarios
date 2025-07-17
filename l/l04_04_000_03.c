@@ -36,7 +36,7 @@ He seemed to like it!)");
     MsgDisp("Nanatsumori","Ah, this is handmade.
 Nice, nice.");
     MsgDisp("主人公","I hope it suits your tastes,
-｛七ツ森＊｝......");
+｛七ツ森＊｝...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1);
@@ -69,7 +69,7 @@ He seemed really happy!)");
     MsgDisp("Nanatsumori","I did it.
 Handmade chocolate, get.");
     MsgDisp("主人公","I tried making it to your liking,
-｛七ツ森＊｝......
+｛七ツ森＊｝...
 How is it?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -79,19 +79,19 @@ How is it?");
 It only has things I like.
 The topping is the best!");
     MsgDisp("主人公","Really?
-Thank goodness......!");
+Thank goodness...!");
     ChMotion(4,0);
     VoicePlay("L040400003_04_080");
     MsgDisp("Nanatsumori","Can I take a picture and show it off to my
 coworkers?");
     MsgDisp("主人公","Ah, I guess so.
-It's a little embarrassing, though......");
+It's a little embarrassing, though...");
     ChEye(4,2);
     ChMouth(4,4);
     VoicePlay("L040400003_04_090");
-    MsgDisp("Nanatsumori","Crap......
+    MsgDisp("Nanatsumori","Crap...
 Today's been packed and overflowing with
-everything I love......");
+everything I love...");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,1);

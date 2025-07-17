@@ -33,7 +33,7 @@ Please take your time looking around.");
     VoicePlay("I550400000_04_030");
     MsgDisp("Nanatsumori","Yeah.
 By the way, got any new sweets?");
-    MsgDisp("主人公","(Window shopping...... or not?)");
+    MsgDisp("主人公","(Window shopping... or not?)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -59,7 +59,7 @@ cream, and sweet bean paste.");
     ChMouth(4,1);
     ChMotion(4,0,1);
     VoicePlay("I550400000_04_060");
-    MsgDisp("Nanatsumori","I'll drool just listening to you......");
+    MsgDisp("Nanatsumori","I'll drool just listening to you...");
     MsgDisp("主人公","Hehe!
 I have other recommendations if you'd
 like?");
@@ -99,14 +99,14 @@ What are you looking for today?");
     ChMotion(4,0,1);
     VoicePlay("I550400000_04_110");
     MsgDisp("Nanatsumori","Let's see.
-...... How about you?");
+... How about you?");
     MsgDisp("主人公","Hm?");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("I550400000_04_120");
     MsgDisp("Nanatsumori","What do you eat when you're feeling great
 and having a good time?");
-    MsgDisp("主人公","Hm......");
+    MsgDisp("主人公","Hm...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -115,7 +115,7 @@ and having a good time?");
 which would you recommend?");
     MsgDisp("主人公","｛七ツ森＊｝'s current
 feelings?
-A very good mood, and kinda happy......");
+A very good mood, and kinda happy...");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,0,1);

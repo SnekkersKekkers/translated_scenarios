@@ -58,13 +58,13 @@ videos while you lay back in the chair.");
         ChMotion(2,3);
         VoicePlay("B040205102_02_050");
         MsgDisp("Sassa","That's also awesome.");
-        MsgDisp("主人公","That's......
+        MsgDisp("主人公","That's...
 The same as a movie theater?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
         VoicePlay("B040205102_02_060");
-        MsgDisp("Sassa","Oh......You're right. That's just a normal
+        MsgDisp("Sassa","Oh...You're right. That's just a normal
 horror movie. And what about the star
 theme?");
         MsgDisp("主人公","Hehe.
@@ -88,7 +88,7 @@ overhaul of the planetarium.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040205102_02_090");
-        MsgDisp("Sassa","No......
+        MsgDisp("Sassa","No...
 A movie about stars or something.");
         break ;
         default :

@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("G110500802_05_000");
 MsgDisp("Hiiragi?","Are there missing receipts?
-Perhaps it's my mistake......
+Perhaps it's my mistake...
 The amount of money doesn't add up.");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
@@ -26,7 +26,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 MsgDisp("主人公","I searched the desk, drawers and all the
 places it could possibly be, but I
-couldn't find anything......");
+couldn't find anything...");
 ChEye(5,1);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
@@ -48,7 +48,7 @@ VoicePlay("G110500802_05_030");
 MsgDisp("Hiiragi","I must have made a mistake inputting the
 information.
 I'll start over from the beginning.");
-MsgDisp("主人公","Y-Yes.......");
+MsgDisp("主人公","Y-Yes....");
 MsgDisp("主人公","(Ah∈ under the laptop——)");
 while (1){
     RunEverydaySksp(5,0,0,0,1,0);
@@ -100,7 +100,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G110500802_05_080");
 MsgDisp("Hiiragi","No, that's no good at all.
 I couldn't even do this job by
-myself......");
+myself...");
 MsgDisp("主人公","That's not true at all.
 After all, your calculations were right,
 right?");
@@ -108,7 +108,7 @@ ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("G110500802_05_090");
-MsgDisp("Hiiragi","Haa......yes.");
+MsgDisp("Hiiragi","Haa...yes.");
 MsgDisp("主人公","You've gotten good at using a computer,
 haven't you?");
 ChEye(5,2);
@@ -116,8 +116,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G110500802_05_100");
-MsgDisp("Hiiragi","You......
-It's moving me to tears......");
+MsgDisp("Hiiragi","You...
+It's moving me to tears...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

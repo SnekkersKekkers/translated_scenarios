@@ -14,7 +14,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D010500200_07_010");
-MsgDisp("Mikage","It may be a pain to remember but......
+MsgDisp("Mikage","It may be a pain to remember but...
 Just accept it and try to learn.");
 SEPlay("EV_SE_GAYA_008",0,0.5);
 VoicePlay("D010500200_38_000");
@@ -36,7 +36,7 @@ Wait(50,1);
 VoicePlay("D010500200_40_010");
 MsgDisp("Male Student A","Other side!
 Come on!");
-MsgDisp("主人公","(The field is full of people......
+MsgDisp("主人公","(The field is full of people...
 Looks like there's another class out there
 playing soccer.)");
 VoicePlay("D010500200_39_020");
@@ -81,7 +81,7 @@ ScrFadeOut(0,0);
 StlClose();
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(What a relief......
+MsgDisp("主人公","(What a relief...
 It's a good thing ｛柊＊＊＊｝
 wasn't injured.)");
 MsgClose();
@@ -100,7 +100,7 @@ VoicePlay("D010500200_07_030");
 MsgDisp("Mikage","Don't \"Ah, sensei\" me.
 I know it's boring, but please pay
 attention.");
-MsgDisp("主人公","Sorry......");
+MsgDisp("主人公","Sorry...");
 SEPlay("EV_SE_GAYA_024");
 MsgClose();
 ScrFadeOut(0,0);
@@ -133,7 +133,7 @@ VoicePlay("D010500200_05_040");
 MsgDisp("Hiiragi","Thank you.
 But you shouldn't get distracted during
 class, okay?");
-MsgDisp("主人公","Ugh......
+MsgDisp("主人公","Ugh...
 Yes sir.");
 BGMStop();
 MsgClose();

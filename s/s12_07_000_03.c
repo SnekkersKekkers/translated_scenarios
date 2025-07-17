@@ -40,16 +40,16 @@ to do?");
     MsgDisp("Mikage","There it is, your bad habit. You like to
 move too quickly. You need to have
 patience, otherwise things are boring.");
-    MsgDisp("主人公","Uhm......
-Then......");
+    MsgDisp("主人公","Uhm...
+Then...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S120700003_07_040");
-    MsgDisp("Mikage","That's right......
+    MsgDisp("Mikage","That's right...
 See you later then.");
     MsgDisp("主人公","Eh?
-Just like that......");
+Just like that...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -70,9 +70,9 @@ again, okay?");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(I'm already a third year since
-spring......I hope I can go with
+spring...I hope I can go with
 ｛御影＊＊｝ again next
-year......)");
+year...)");
     break ;
     case 4:
     case 5:

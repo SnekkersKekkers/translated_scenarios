@@ -24,7 +24,7 @@ VoicePlay("D140B05000_01_010");
 MsgDisp("Kazama","Yeah, it's just that this one...");
 ChMouthOpenLevel(4,0);
 VoicePlay("D140B05000_04_000");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(3,0);

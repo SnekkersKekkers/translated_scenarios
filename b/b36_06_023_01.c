@@ -26,13 +26,13 @@ ChMotion(6,0);
 VoicePlay("B360602301_06_020");
 MsgDisp("Himuro","I'm glad too.
 Now I have you all to myself.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B360602301_06_030");
 MsgDisp("Himuro","Playing with everyone isn't as bad as I
-thought it would be......");
+thought it would be...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -65,7 +65,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360602301_06_080");
-MsgDisp("Himuro","So for just a bit more...... can we stay
+MsgDisp("Himuro","So for just a bit more... can we stay
 like this until the sun goes down?");
 MsgDisp("主人公","Yes, of course.");
 ChEye(6,0);

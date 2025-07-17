@@ -22,7 +22,7 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("G020120300_01_020");
 MsgDisp("Kazama","Of course not. I mean, you gotta have a
-preference, right? You know......when it
+preference, right? You know...when it
 comes to fashion.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -30,7 +30,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("G020120300_01_030");
-MsgDisp("Kazama","What am I even saying......");
+MsgDisp("Kazama","What am I even saying...");
 MsgDisp("主人公","So men's fashion?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -77,7 +77,7 @@ MsgDisp("Kazama","But you better get ready.
 I'm going to start wearing aprons in all
 sorts of colors to our dates from now on.");
 MsgDisp("主人公","(A colorful ｛風真＊＊｝ might
-be a bit like these fireflies......)");
+be a bit like these fireflies...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -4,7 +4,7 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U032100000_21_000");
 MsgDisp("Michiru","Hey, is this something you like?");
-MsgDisp("主人公","That's......a handbag?");
+MsgDisp("主人公","That's...a handbag?");
 ChMotion(21,3);
 VoicePlay("U032100000_21_010");
 MsgDisp("Michiru","Yeah. I was lucky and got two of them in
@@ -25,7 +25,7 @@ Hehe, let's match with each other.");
     MsgDisp("主人公","(\"I got a limited edition handbag!\")");
     SEPlay("EV_SE_080");
     MsgDisp("主人公","(I feel like my fashion sense has become
-better......)");
+better...)");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,4);
@@ -36,7 +36,7 @@ See you later?");
 soon!");
     break ;
     case 1:
-    MsgDisp("主人公","I'm sorry but no......");
+    MsgDisp("主人公","I'm sorry but no...");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,0);

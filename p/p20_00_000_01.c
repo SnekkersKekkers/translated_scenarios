@@ -1,7 +1,7 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah...... it's my phone.
+MsgDisp("主人公","Ah... it's my phone.
 It's from the class president.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
@@ -15,7 +15,7 @@ MsgDisp("Chairperson","At this year's cultural festival, we're
 hosting a school play.
 Would you like to join?");
 MsgDisp("主人公","(There's also a club exhibition, I wonder
-what I should do......)");
+what I should do...)");
 MsgSel("I'll focus on the club exhibition","I'll participate in the school play");
 switch (MsgSelRsltGet()){
     case 0:
@@ -37,7 +37,7 @@ care.");
     DbgAssert(0);
     break ;
     }
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 I need to get better soon, to help with
 the preparations!)");
 MsgClose();

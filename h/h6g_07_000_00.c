@@ -21,14 +21,14 @@ ChMotion(7,3);
 MsgDisp("Mikage","Got that? So if your work is being
 appreciated, it means that you're also
 being appreciated. Isn't that great?");
-MsgDisp("主人公","Yes......!");
+MsgDisp("主人公","Yes...!");
 VoicePlay("H5G0700000_07_030");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 MsgDisp("Mikage","You're the star of today.
 Enjoy this atmosphere.");
-MsgDisp("主人公","(I feel a little shy, but......
+MsgDisp("主人公","(I feel a little shy, but...
 I'm happy that my hard work in the club is
 being recognized.)");
 MsgClose();

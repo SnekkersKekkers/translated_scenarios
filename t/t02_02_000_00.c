@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,7,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝......
+MsgDisp("主人公","｛颯砂＊＊｝...
 Why are you here?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -23,7 +23,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020200000_02_020");
-MsgDisp("Sassa","......I've been running ever since I
+MsgDisp("Sassa","...I've been running ever since I
 started track and field in elementary
 school.");
 ChEye(2,0);
@@ -39,7 +39,7 @@ VoicePlay("T020200000_02_040");
 MsgDisp("Sassa","But in my first year, I learned that when
 I ran at full speed, someone would feel
 bad.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -52,7 +52,7 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020200000_02_060");
 MsgDisp("Sassa","Plus, even when I won, I would act
-frustrated in front of the loser......");
+frustrated in front of the loser...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -66,12 +66,12 @@ VoicePlay("T020200000_02_080");
 MsgDisp("Sassa","Because if I do that, my dreams will never
 come true.");
 MsgDisp("主人公","｛颯砂＊＊｝ is not a bad
-guy......");
+guy...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020200000_02_090");
-MsgDisp("Sassa","I'm sorry......
+MsgDisp("Sassa","I'm sorry...
 I worried you back then.");
 ChEye(2,4);
 ChMouth(2,0);
@@ -80,7 +80,7 @@ VoicePlay("T020200000_02_100");
 MsgDisp("Sassa","You know, during the Inter-High in my
 second year, I was thinking about giving
 up.");
-MsgDisp("主人公","Eh......∋");
+MsgDisp("主人公","Eh...∋");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -106,7 +106,7 @@ ChMotion(2,4);
 VoicePlay("T020200000_02_130");
 MsgDisp("Sassa","In the end, it was impossible to win all
 the events, but I managed to complete it.");
-MsgDisp("主人公","Yes......as for that time, thank you for
+MsgDisp("主人公","Yes...as for that time, thank you for
 letting me wear that gold medal.");
 ChEye(2,3);
 ChMouth(2,3);
@@ -121,7 +121,7 @@ VoicePlay("T020200000_02_150");
 MsgDisp("Sassa","You were always running by my side. You
 would think things over with me, worry
 with me, and celebrate with me. Thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -141,13 +141,13 @@ ChMotion(2,4);
 VoicePlay("T020200000_02_180");
 MsgDisp("Sassa","My records aren't improving at all. I
 don't know why. I've been thinking about
-it, and watching my juniors practice......");
+it, and watching my juniors practice...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020200000_02_190");
-MsgDisp("Sassa","But all that comes to mind is...... you.");
-MsgDisp("主人公","Me......?");
+MsgDisp("Sassa","But all that comes to mind is... you.");
+MsgDisp("主人公","Me...?");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);

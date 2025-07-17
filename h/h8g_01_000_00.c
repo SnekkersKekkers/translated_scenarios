@@ -18,7 +18,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("H8G0100000_01_020");
-MsgDisp("Kazama","......You know, something related to that
+MsgDisp("Kazama","...You know, something related to that
 student council you're in.");
 ChEye(1,0);
 ChMotion(1,0);

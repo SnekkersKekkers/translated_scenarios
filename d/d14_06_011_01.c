@@ -7,7 +7,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("D140601101_06_000");
-    MsgDisp("Himuro","Hmm......
+    MsgDisp("Himuro","Hmm...
 So you got it too?");
     break ;
     case 4:

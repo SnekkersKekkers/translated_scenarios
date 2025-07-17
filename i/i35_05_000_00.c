@@ -20,7 +20,7 @@ working part-time?");
     ChMotion(5,4);
     VoicePlay("I350500000_05_010");
     MsgDisp("Hiiragi","No, I believe that someone arrived
-earlier......
+earlier...
 A support staff of the theater troupe.");
     ChMouth(5,4);
     ChMotion(5,0);
@@ -33,7 +33,7 @@ Go ahead.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ feels different from how he
-is at school...... He is the chairman of
+is at school... He is the chairman of
 the theater troupe, huh.)");
     break ;
     case 3:
@@ -79,7 +79,7 @@ Well, thank you.");
     ChClose(5);
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","(I'm glad to be of help to
-｛柊＊＊＊｝......
+｛柊＊＊＊｝...
 Let's do our best smiling!)");
     break ;
     case 4:
@@ -119,7 +119,7 @@ address.");
 Let us go.");
     MsgDisp("主人公","Huh∋");
     MsgDisp("主人公","(Wouldn't it have been easier to get
-takeout......??)");
+takeout...??)");
     break ;
     default :
     DbgAssert(1);

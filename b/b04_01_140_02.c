@@ -85,7 +85,7 @@ it, shall we?");
         MsgDisp("Kazama","That's right.
 I wasn't a fan of that band, but I still
 kinda liked the song.");
-        MsgDisp("主人公","Heeh, that's surprising.");
+        MsgDisp("主人公","Ehhh, that's surprising.");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,4);

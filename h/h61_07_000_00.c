@@ -31,7 +31,7 @@ forward to working with you∈");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("H610700000_07_010");
-    MsgDisp("Mikage","Ooh......
+    MsgDisp("Mikage","Ooh...
 I get it, but let's take it easy.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -40,7 +40,7 @@ I get it, but let's take it easy.");
     MsgDisp("Mikage","I know, why don't you try growing some
 herbs?
 You naturally become relaxed.");
-    MsgDisp("主人公","Yes......!");
+    MsgDisp("主人公","Yes...!");
     break ;
     case 3:
     MsgClose();
@@ -92,7 +92,7 @@ waiting for me?");
     MsgDisp("Mikage","Yeah, I knew from the beginning that you'd
 suit the gardening club.
 Since you're so serious.");
-    MsgDisp("主人公","Um...... is being serious related to
+    MsgDisp("主人公","Um... is being serious related to
 gardening?");
     ChEye(7,0);
     ChMouth(7,0);

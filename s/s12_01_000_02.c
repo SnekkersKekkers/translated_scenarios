@@ -37,7 +37,7 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
     MsgDisp("主人公","(Geez, ｛風真＊＊｝ really acts
-like a mom sometimes......)");
+like a mom sometimes...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -56,7 +56,7 @@ I think this year will be a good one.");
     ChMotion(1,0);
     VoicePlay("S120100002_01_040");
     MsgDisp("Kazama","Good, that positive-thinking is so you.");
-    MsgDisp("主人公","......Is that a compliment?");
+    MsgDisp("主人公","...Is that a compliment?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);

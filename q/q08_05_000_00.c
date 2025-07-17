@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0,1);
     ScrFadeIn(0);
-    MsgDisp("主人公","Phew, it was so much fun......!
+    MsgDisp("主人公","Phew, it was so much fun...!
 We walked alot.");
     ChMotion(5,4);
     VoicePlay("Q080500000_05_000");
@@ -57,7 +57,7 @@ Thanks for inviting me.");
     ChMouth(5,2);
     ChEyeOpenLevel(5,#1);
     VoicePlay("Q080500000_05_050");
-    MsgDisp("Hiiragi","Oh...... wait.
+    MsgDisp("Hiiragi","Oh... wait.
 Actually, not satisfied.");
     MsgDisp("主人公","Eh?");
     ChEye(5,3);
@@ -71,7 +71,7 @@ So, for the next free period——");
     ChMotion(5,4);
     VoicePlay("Q080500000_05_070");
     MsgDisp("Hiiragi","Thank you.
-You are too nice......");
+You are too nice...");
     ChEye(5,0);
     ChMotion(5,0,1);
     VoicePlay("Q080500000_05_080");

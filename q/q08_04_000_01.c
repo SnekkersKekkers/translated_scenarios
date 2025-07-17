@@ -45,7 +45,7 @@ after tomorrow together?");
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("Q080400001_04_040");
-    MsgDisp("Nanatsumori","The day went by like a flash......");
+    MsgDisp("Nanatsumori","The day went by like a flash...");
     MsgDisp("主人公","Hehe!
 Wasn't it so much fun?");
     ChEye(4,3);

@@ -17,7 +17,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("L040200001_02_020");
-    MsgDisp("Sassa","I could finish this in one bite......");
+    MsgDisp("Sassa","I could finish this in one bite...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -61,7 +61,7 @@ chocolate?)");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("L040200001_02_060");
-    MsgDisp("Sassa","Ah......
+    MsgDisp("Sassa","Ah...
 I've seen this before.");
     MsgDisp("主人公","Yeah, it's tasty, right?");
     ChEye(2,0);
@@ -77,7 +77,7 @@ Thanks.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ah......
+    MsgDisp("主人公","(Ah...
 Should I have given him a better
 chocolate?)");
     break ;

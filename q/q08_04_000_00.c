@@ -22,8 +22,8 @@ Thanks for inviting me.");
     VoicePlay("Q080400000_04_010");
     MsgDisp("Nanatsumori","Also.
 For the next free period, is booking you
-ＯＫ?");
-    MsgDisp("主人公","ＯＫ!");
+OK?");
+    MsgDisp("主人公","OK!");
     break ;
     case 4:
     case 5:

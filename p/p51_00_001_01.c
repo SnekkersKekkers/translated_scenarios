@@ -1,7 +1,7 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah...... it's my phone.
+MsgDisp("主人公","Ah... it's my phone.
 It's from the club president.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
@@ -20,7 +20,7 @@ possible and join us for practice when you
 can.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","Practice for the cultural festival......
+MsgDisp("主人公","Practice for the cultural festival...
 I need to get better soon to help prepare!");
 MsgClose();
 ScrFadeOut(0);

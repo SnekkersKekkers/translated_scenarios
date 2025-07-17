@@ -83,7 +83,7 @@ carried away.");
         ChEyeOpenLevel(5,#1);
         ChMouthOpenLevel(5,0);
         VoicePlay("B040523602_05_070");
-        MsgDisp("Hiiragi","............");
+        MsgDisp("Hiiragi","......");
         SEPlay("EV_SE_DOOR_012",0.01,0);
         SEWait();
         BGMVol(0.7,0.5);

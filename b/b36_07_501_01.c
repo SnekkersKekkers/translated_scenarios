@@ -17,7 +17,7 @@ ChMotion(7,5);
 VoicePlay("B360750101_07_010");
 MsgDisp("Mikage","Yeah.
 Maybe we should hurry too.");
-MsgDisp("主人公","Umm......
+MsgDisp("主人公","Umm...
 I'd like to go slowly.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -37,7 +37,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B360750101_07_040");
-MsgDisp("Mikage","......Geez, what an interesting person.");
+MsgDisp("Mikage","...Geez, what an interesting person.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);

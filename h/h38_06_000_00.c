@@ -41,7 +41,7 @@ Thank you.");
     MsgDisp("Himuro","Show me some good matches.
 If you can, bring back a victory for our
 school.");
-    MsgDisp("主人公","(Alright, let's do our best......!)");
+    MsgDisp("主人公","(Alright, let's do our best...!)");
     break ;
     case 4:
     case 5:

@@ -20,8 +20,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710300_07_020");
-MsgDisp("Mikage","...... Ah the other day, on the way
-home......
+MsgDisp("Mikage","... Ah the other day, on the way
+home...
 I'm sorry I said something crazy");
 ChEye(7,2);
 ChMouth(7,0);
@@ -66,7 +66,7 @@ VoicePlay("G020710300_07_080");
 MsgDisp("Mikage","That was my inner voice.");
 MsgDisp("主人公","(｛御影＊＊｝ was really concerned about
 it. I'm happy that he always thinks about
-me seriously......)");
+me seriously...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

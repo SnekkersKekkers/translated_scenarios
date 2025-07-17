@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120600002_06_040");
-    MsgDisp("Himuro","...... Were you fine being with me?
+    MsgDisp("Himuro","... Were you fine being with me?
 On the last New Years of your high school
 years.");
     MsgDisp("主人公","Eh, what do you mean?");
@@ -23,7 +23,7 @@ years.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S120600002_06_050");
-    MsgDisp("Himuro","It's not a big deal but......
+    MsgDisp("Himuro","It's not a big deal but...
 Was I the only person you wanted to go
 with?");
     MsgDisp("主人公","That kind of thing, maybe not?");
@@ -31,7 +31,7 @@ with?");
     ChMouth(6,3);
     ChMotion(6,5);
     VoicePlay("S120600002_06_060");
-    MsgDisp("Himuro","Sigh......
+    MsgDisp("Himuro","Sigh...
 What a lack of confidence in that answer.");
     ChEye(6,0);
     ChMouth(6,3);
@@ -51,7 +51,7 @@ Happy New Years.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(My last New Years in high school......
+    MsgDisp("主人公","(My last New Years in high school...
 It went by so quickly.)");
     break ;
     case 4:
@@ -76,9 +76,9 @@ graduation ceremony.");
     ChMotion(6,0);
     VoicePlay("S120600002_06_130");
     MsgDisp("Himuro","Your graduation. I've been avoiding it for
-a while...... But now I feel like I'm
+a while... But now I feel like I'm
 ready to let you go.");
-    MsgDisp("主人公","｛氷室＊＊｝......");
+    MsgDisp("主人公","｛氷室＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);
@@ -104,7 +104,7 @@ happened to repeat the year?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(｛氷室＊＊｝......)");
+    MsgDisp("主人公","(｛氷室＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

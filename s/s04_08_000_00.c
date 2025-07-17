@@ -16,7 +16,7 @@ Please treat me well this year, too.");
     VoicePlay("S040800000_08_010");
     MsgDisp("Shirahane","Same to you.
 Hey, want to go to the shrine now?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040800000_08_020");
@@ -37,7 +37,7 @@ What should I wear to the shrine?)");
         case 1:
         VoicePlay("S040800000_08_040");
         MsgDisp("Shirahane","I see.
-The timing was off......");
+The timing was off...");
         MsgDisp("主人公","I'm sorry.");
         VoicePlay("S040800000_08_050");
         MsgDisp("Shirahane","Yeah.
@@ -45,7 +45,7 @@ Anyway, later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through the trouble
-of inviting me......
+of inviting me...
 Did I make the wrong choice?)");
         break ;
         default :
@@ -68,8 +68,8 @@ Please treat me well again this year.");
 And the same to you.");
     VoicePlay("S040800000_08_070");
     MsgDisp("Shirahane","Hey, do ya wanna to go to the
-shrine......?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
+shrine...?");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040800000_08_080");
@@ -80,34 +80,34 @@ shrine......?");
 energetic?
 Haha!");
         VoicePlay("S040800000_08_100");
-        MsgDisp("Shirahane","Okay then......
+        MsgDisp("Shirahane","Okay then...
 I'll come getcha from your house.
 So get ready and wait.");
         VoicePlay("S040800000_08_110");
         MsgDisp("Shirahane","Ah, I guess if ya want to dress up it'll
-take a while...... I'll come slowly. See
+take a while... I'll come slowly. See
 you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(I feel like he's expecting something from
-me......
+me...
 Now then, what to wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
         case 1:
         VoicePlay("S040800000_08_120");
-        MsgDisp("Shirahane","......Really?");
+        MsgDisp("Shirahane","...Really?");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("S040800000_08_130");
-        MsgDisp("Shirahane","I see......");
+        MsgDisp("Shirahane","I see...");
         VoicePlay("S040800000_08_140");
         MsgDisp("Shirahane","It's fine, it can't be helped.
 Alright, seeya.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through all the
-trouble of inviting me......
+trouble of inviting me...
 Did I make wrong choice?)");
         break ;
         default :

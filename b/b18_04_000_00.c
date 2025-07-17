@@ -4,7 +4,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B180400000_04_000");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori","......｛主人公｝.");
+MsgDisp("Nanatsumori","...｛主人公｝.");
 MsgDisp("主人公","Eh?");
 VoicePlay("B180400000_04_010");
 MsgDisp("Nanatsumori","I've always wanted to call you that.

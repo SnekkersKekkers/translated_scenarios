@@ -21,7 +21,7 @@ VoicePlay("G020610001_06_020");
 MsgDisp("Himuro","In the not-too-distant future, we might
 not be able to see them like we can now
 anymore.");
-MsgDisp("主人公","That's right huh......");
+MsgDisp("主人公","That's right huh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -39,7 +39,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610001_06_050");
-MsgDisp("Himuro","But I'd...... be happy if you were by my
+MsgDisp("Himuro","But I'd... be happy if you were by my
 side.");
 MsgDisp("主人公","Eh.");
 ChEye(6,0);
@@ -48,15 +48,15 @@ ChMotion(6,0);
 VoicePlay("G020610001_06_060");
 MsgDisp("Himuro","I want to watch fireflies together like
 this again.");
-MsgDisp("主人公","......Yeah.");
+MsgDisp("主人公","...Yeah.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020610001_06_070");
 MsgDisp("Himuro","Even if we can't see the fireflies
 anymore, I hope my time with you continues
-forever......");
-MsgDisp("主人公","(｛氷室＊＊｝......)");
+forever...");
+MsgDisp("主人公","(｛氷室＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

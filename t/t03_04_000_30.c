@@ -6,7 +6,7 @@ other, I hope we will be blessed with
 grand wedding bells.");
 MsgDisp("","Remembering the warmth of the spring
 breeze and the sound of the bells that
-day. Unchanging, eternal love.......");
+day. Unchanging, eternal love....");
 MsgClear();
 ScrFadeOut(0,0,300);
 MsgType(0);

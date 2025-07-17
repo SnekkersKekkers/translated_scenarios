@@ -36,7 +36,7 @@ StlEye(8,0);
 StlMouth(8,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_030");
-MsgDisp("Shirahane","Alright, alright......
+MsgDisp("Shirahane","Alright, alright...
 Okay, stop!
 Thanks like always, Kondo-san!");
 VoicePlay("D010800100_43_020");
@@ -67,7 +67,7 @@ StlEye(8,1,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800100_08_070");
 MsgDisp("Shirahane","I'd say 1 handful but you have big hands
-so......1 pinch!");
+so...1 pinch!");
 VoicePlay("D010800100_39_050");
 MsgDisp("Male Customer B","Ahaha!");
 VoicePlay("D010800100_45_000");
@@ -76,7 +76,7 @@ That's okay, right?
 Daichi-kun▼");
 StlEyeOpenLevel(8,#1);
 VoicePlay("D010800100_08_080");
-MsgDisp("Shirahane","For our lady customers......
+MsgDisp("Shirahane","For our lady customers...
 Sure!
 Ya can have two handfuls!");
 SEPlay("EV_SE_634");
@@ -108,7 +108,7 @@ ChMotion(8,2,1);
 VoicePlay("D010800100_08_110");
 MsgDisp("Shirahane","Now that I think about it, everyone always
 comes over during my shift.
-...... I guess they wanted to see me?");
+... I guess they wanted to see me?");
 MsgDisp("主人公","Hehe, I'm sure that's it.
 Because ｛大地＊＊｝ is such
 a famous salesman.");

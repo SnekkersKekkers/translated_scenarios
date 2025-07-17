@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(3,255,4,4,4,#1,#1,0,0);
 ChLayout(1);
 VoicePlay("G020310307_03_000");
-MsgDisp("Honda","Haa...... can I ask you something?");
+MsgDisp("Honda","Haa... can I ask you something?");
 MsgDisp("主人公","Eh?
 Yeah, go ahead.");
 ChEye(3,0);
@@ -16,8 +16,8 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("G020310307_03_020");
 MsgDisp("Honda","My little sister says she hates boys
-because they're rough......");
-MsgDisp("主人公","Ahー......yeah, that's right.");
+because they're rough...");
+MsgDisp("主人公","Ahー...yeah, that's right.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
@@ -28,7 +28,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("G020310307_03_040");
-MsgDisp("Honda","Then......what about now?");
+MsgDisp("Honda","Then...what about now?");
 MsgDisp("主人公","Uumm, are you talking about how I am with
 ｛本多＊＊｝?
 I'm fine now I think.");
@@ -44,14 +44,14 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("G020310307_03_060");
 MsgDisp("Honda","This morning she yelled, 'Don't come into
-my room without knocking!'......");
+my room without knocking!'...");
 MsgDisp("主人公","Did you go in without knocking again?
-That's not good......");
+That's not good...");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G020310307_03_070");
-MsgDisp("Honda","Phew......
+MsgDisp("Honda","Phew...
 Mom told me off too.");
 ChEye(3,4);
 ChMouth(3,0);
@@ -65,10 +65,10 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("G020310307_03_090");
 MsgDisp("Honda","I hope she gets over her dislike of boys
-soon......");
+soon...");
 MsgDisp("主人公","(I can understand both
 ｛本多＊＊｝'s feelings and his
-sister's......)");
+sister's...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

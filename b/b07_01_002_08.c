@@ -1,4 +1,4 @@
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -48,7 +48,7 @@ ChMotion(1,0);
 Wait(12,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("B070100002_01_490");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 MsgDisp("主人公","What's wrong?");
 ChEye(1,4);
 ChMouth(1,3);

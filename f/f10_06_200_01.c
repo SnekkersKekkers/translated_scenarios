@@ -28,7 +28,7 @@ VoiceEVSPlay(6);
 VoicePlay("F100620001_06_000");
 MsgDisp("Himuro?","｛主人公｝.");
 MsgDisp("主人公","Ah!
-｛氷室＊＊｝......");
+｛氷室＊＊｝...");
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F100620001_06_010");

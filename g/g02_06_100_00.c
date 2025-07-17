@@ -3,8 +3,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610000_06_000");
-MsgDisp("Himuro","......Beautiful.");
-MsgDisp("主人公","Yeah......");
+MsgDisp("Himuro","...Beautiful.");
+MsgDisp("主人公","Yeah...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -15,7 +15,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020610000_06_020");
-MsgDisp("Himuro","No......it's just that having a genuine
+MsgDisp("Himuro","No...it's just that having a genuine
 reaction like 'beautiful' is a bit
 surprising to me.");
 MsgDisp("主人公","Is it?");
@@ -32,7 +32,7 @@ ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("G020610000_06_040");
 MsgDisp("Himuro","It felt frustrating, though it's
-embarrassing to admit it......");
+embarrassing to admit it...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -52,7 +52,7 @@ ChMotion(6,3);
 VoicePlay("G020610000_06_070");
 MsgDisp("Himuro","Yes.
 You show all your emotions.");
-MsgDisp("主人公","I-Is that so......?");
+MsgDisp("主人公","I-Is that so...?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
@@ -71,10 +71,10 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,10);
 VoicePlay("G020610000_06_100");
-MsgDisp("Himuro","...... What am I saying?
+MsgDisp("Himuro","... What am I saying?
 Let's head back.
 I'll walk you home.");
-MsgDisp("主人公","(｛氷室＊＊｝......?)");
+MsgDisp("主人公","(｛氷室＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

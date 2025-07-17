@@ -9,7 +9,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Ah, perfect for replenishing my sugar
 levels.
 Thanks!");
-    MsgDisp("主人公","(Yeah......
+    MsgDisp("主人公","(Yeah...
 That's how it is.)");
     break ;
     case 3:
@@ -36,7 +36,7 @@ Thanks!");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("L040300001_03_030");
-    MsgDisp("Honda","......Oh?");
+    MsgDisp("Honda","...Oh?");
     MsgDisp("主人公","?");
     ChEye(3,4);
     ChMouth(3,4);
@@ -44,7 +44,7 @@ Thanks!");
     VoicePlay("L040300001_03_040");
     MsgDisp("Honda","That's weird.
 Usually, I don't mind obligatory
-chocolates......");
+chocolates...");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1);
@@ -53,10 +53,10 @@ chocolates......");
 I'll enjoy them.");
     ChClose(3);
     VoicePlay("L040300001_03_060");
-    MsgDisp("Honda?","...... Da, I wonder what this is.
-This uneasy feeling......");
+    MsgDisp("Honda?","... Da, I wonder what this is.
+This uneasy feeling...");
     MsgDisp("主人公","(Maybe I should've given him a better
-chocolate......)");
+chocolate...)");
     break ;
     default :
     DbgAssert(1);

@@ -8,12 +8,12 @@ VoicePlay ( "D150002700_02_000" ) ;
 MsgDisp ( "Sassa","Come to think of it.
 I don't think I've ever seen any teachers
 in the cafeteria aside from Mikage-sensei?" ) ;
-MsgDisp ( "主人公","Now that you say it......" ) ;
+MsgDisp ( "主人公","Now that you say it..." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,4 ) ;
 ChMotion ( 7,4 ) ;
 VoicePlay ( "D150002700_07_000" ) ;
-MsgDisp ( "Mikage","Hm? That can't be... ......Wait, you're
+MsgDisp ( "Mikage","Hm? That can't be... ...Wait, you're
 right. No one else is here." ) ;
 ChEye ( 2,0 ) ;
 ChMouth ( 2,0 ) ;
@@ -39,7 +39,7 @@ VoicePlay ( "D150002700_07_020" ) ;
 MsgDisp ( "Mikage","W-What!" ) ;
 SEPlay ( "EV_SE_594",0,0,0,8 ) ;
 ChClose ( 7,0,10 ) ;
-MsgDisp ( "主人公","Ehh......" ) ;
+MsgDisp ( "主人公","Ehh..." ) ;
 ChEye ( 2,2 ) ;
 ChMouth ( 2,4 ) ;
 ChMotion ( 2,3 ) ;

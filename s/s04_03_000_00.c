@@ -15,7 +15,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("S040300000_03_010");
     MsgDisp("Honda","Hey, do you want to go visit the shrine
 together right now?");
-    MsgSel("Yep, let's go!","Sorry, that's a bit......");
+    MsgSel("Yep, let's go!","Sorry, that's a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040300000_03_020");
@@ -27,7 +27,7 @@ I'll pick you up ASAP so wait at home.");
 See you soon!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛本多＊＊｝ will be here soon......
+        MsgDisp("主人公","(｛本多＊＊｝ will be here soon...
 I need to hurry and get ready!
 What should I wear?)");
         MsgClose();
@@ -36,7 +36,7 @@ What should I wear?)");
         case 1:
         VoicePlay("S040300000_03_040");
         MsgDisp("Honda","Dang, no way.");
-        MsgDisp("主人公","Uhm......
+        MsgDisp("主人公","Uhm...
 Sorry.");
         VoicePlay("S040300000_03_050");
         MsgDisp("Honda","It's fine, I guess it was too sudden.
@@ -45,7 +45,7 @@ See you later!");
         SEWait();
         MsgDisp("主人公","(Even though he took the trouble to invite
 me, I wonder if I made the wrong
-choice......)");
+choice...)");
         break ;
         default :
         DbgAssert(0);
@@ -71,7 +71,7 @@ Are you home right now?");
     VoicePlay("S040300000_03_080");
     MsgDisp("Honda","If you're free, would you want to visit
 the shrine with me?");
-    MsgSel("Yeah, let's go!","Sorry, I can't......");
+    MsgSel("Yeah, let's go!","Sorry, I can't...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040300000_03_090");
@@ -97,8 +97,8 @@ Well then, what should we wear?)");
         break ;
         case 1:
         VoicePlay("S040300000_03_140");
-        MsgDisp("Honda","No way.........");
-        MsgDisp("主人公","Uhm......
+        MsgDisp("Honda","No way......");
+        MsgDisp("主人公","Uhm...
 ｛本多＊＊｝?");
         VoicePlay("S040300000_03_150");
         MsgDisp("Honda","Ah, yeah.
@@ -107,12 +107,12 @@ It's okay, I just froze for a second.");
         VoicePlay("S040300000_03_160");
         MsgDisp("Honda","It can't be helped.
 My invitation was too sudden.
-See you later......");
+See you later...");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through the trouble
 of inviting me.
-Did I make the wrong choice......)");
+Did I make the wrong choice...)");
         break ;
         default :
         DbgAssert(0);

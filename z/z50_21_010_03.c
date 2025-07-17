@@ -22,5 +22,5 @@ VoicePlay("Z502101003_21_020");
 MsgDisp("Michiru","If you keep wearing trendy items, your
 fashion level will keep going up.
 Okay?");
-MsgDisp("主人公","(Keeping up on trends......
+MsgDisp("主人公","(Keeping up on trends...
 Looks like I should check the column.)");

@@ -12,7 +12,7 @@ SEPlay("EV_SE_618");
 SEWait();
 ChMouth(1,3);
 VoicePlay("D120B00000_01_000");
-MsgDisp("Kazama","...... Ah.
+MsgDisp("Kazama","... Ah.
 For this Habatcher entry, are we doing a
 special feature on Nanatsumori?");
 ChEye(4,2);
@@ -57,7 +57,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChMouthOpenLevel(1,0);
 VoicePlay("D120B00000_01_030");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -67,9 +67,9 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("D120B00000_04_020");
-MsgDisp("Nanatsumori","The two of you......your attentiveness
+MsgDisp("Nanatsumori","The two of you...your attentiveness
 level is ZERO!");
-MsgDisp("主人公","(Attentiveness level......)");
+MsgDisp("主人公","(Attentiveness level...)");
 ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -78,7 +78,7 @@ MsgDisp("Nanatsumori","∈");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("D120B00000_04_040");
-MsgDisp("Nanatsumori","......I just had a great idea.");
+MsgDisp("Nanatsumori","...I just had a great idea.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -103,8 +103,8 @@ StlMouth(4,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("D120B00000_04_050");
-MsgDisp("Nanatsumori","......Alright, it's done.");
-MsgDisp("主人公","Uwaah......
+MsgDisp("Nanatsumori","...Alright, it's done.");
+MsgDisp("主人公","Uwaah...
 You two look completely different!");
 StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00000_03_030");
@@ -113,18 +113,18 @@ Is this the special edition: \"Change your
 look in just 5 minutes\"∈");
 StlEyeOpenLevel(3,5,1);
 MsgDisp("主人公","(It seems so!
-But using my hair clip......)");
+But using my hair clip...)");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D120B00000_01_040");
-MsgDisp("Kazama","...... Hey, we're done here.
+MsgDisp("Kazama","... Hey, we're done here.
 So you can take it off now——");
 StlEyeOpenLevel(4,5,1);
 VoicePlay("D120B00000_04_060");
 MsgDisp("Nanatsumori","No.");
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D120B00000_01_050");
-MsgDisp("Kazama","Ahhh......
-I feel weird without my bangs......");
+MsgDisp("Kazama","Ahhh...
+I feel weird without my bangs...");
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
 SEPlay("EV_SE_588",0,0.4);
@@ -161,7 +161,7 @@ ChOpen(1,254,0,2,2,#1,#1,0,1,0,30);
 Wait(15,0);
 ChOpen(3,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew......
+MsgDisp("主人公","Phew...
 That suddenly turned into a photoshoot?");
 ChEye(4,1);
 ChMouth(4,3);
@@ -173,7 +173,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120B00000_01_060");
-MsgDisp("Kazama","...... That was bad.
+MsgDisp("Kazama","... That was bad.
 Those girls have an incredible antenna.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -210,7 +210,7 @@ ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("D120B00000_04_100");
 MsgDisp("Nanatsumori","And Dahon is sort of a celebrity too
-......
+...
 It's unfair.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -219,7 +219,7 @@ VoicePlay("D120B00000_03_050");
 MsgDisp("Honda","What's wrong?
 The two of you have a scary look on your
 face.");
-MsgDisp("主人公","(It's true......
+MsgDisp("主人公","(It's true...
 All three of them are celebrities but they
 have varying levels of awareness.)");
 BGMStop();

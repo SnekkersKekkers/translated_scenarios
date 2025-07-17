@@ -16,10 +16,10 @@ SEWait();
 ChOpen(36,254,0,0,1,#1,#1,0,0);
 VoicePlay("D020100200_36_000");
 MsgDisp("Ryota's Grandpa","Welcome.
-...... Oh, you're the reporter.");
+... Oh, you're the reporter.");
 MsgDisp("主人公","I wanted to thank you for all your help
 last time. Ah, I didn't come to interview
-you today......");
+you today...");
 ChEye(36,0);
 ChMouth(36,0);
 VoicePlay("D020100200_36_010");
@@ -33,11 +33,11 @@ MsgDisp("主人公","Eh, ｛風真＊＊｝ is here?");
 ChEye(36,1);
 ChMouth(36,0);
 VoicePlay("D020100200_36_030");
-MsgDisp("Ryota's Grandpa","Yes......
+MsgDisp("Ryota's Grandpa","Yes...
 You're not here to see Ryota either?
 That makes me even happier.");
 ChEye(36,0);
-MsgDisp("主人公","Hehe! Uhm......What's that thing you were
+MsgDisp("主人公","Hehe! Uhm...What's that thing you were
 talking about, \"bug drying\"?");
 ChEye(36,0);
 ChMouth(36,2);
@@ -100,7 +100,7 @@ ChEye(36,1);
 ChMouth(36,0);
 VoicePlay("D020100200_36_080");
 MsgDisp("Ryota's Grandpa","Then it should be fine.
-...... Right?");
+... Right?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -109,6 +109,6 @@ MsgDisp("主人公","Hehe, right.");
 BGMStop();
 MsgDisp("主人公","(｛風真＊＊｝ seems to have a good
 relationship with his Grandpa? He said
-he's different from his father......)");
+he's different from his father...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -18,7 +18,7 @@ hard I try, I can't get perfect marks
 across the board.");
 MsgDisp("主人公","Woah.
 ｛大地＊＊｝, are you actually
-really smart......");
+really smart...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -34,7 +34,7 @@ ChMotion(8,0,1);
 VoicePlay("D020800500_08_030");
 MsgDisp("Shirahane","You're an honor student too, right.
 So you're going to university?");
-MsgDisp("主人公","University......
+MsgDisp("主人公","University...
 I haven't really thought about it.");
 ChMouth(8,3);
 ChMotion(8,2,1);
@@ -48,7 +48,7 @@ VoicePlay("D020800500_08_050");
 MsgDisp("Shirahane","Right! Want to aim for a first-rate
 university together? I think we can do
 it～!");
-MsgDisp("主人公","(My career plans huh......University, hmm.
+MsgDisp("主人公","(My career plans huh...University, hmm.
 I think ｛大地＊＊｝ could
 definitely get into a first-rate
 university!)");

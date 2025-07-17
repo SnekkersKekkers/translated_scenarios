@@ -4,9 +4,9 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020701020_07_000");
-MsgDisp("Mikage","Really...... thank you. ......that's all
+MsgDisp("Mikage","Really... thank you. ...that's all
 that comes out.");
-MsgDisp("主人公","As for me...... thanks to
+MsgDisp("主人公","As for me... thanks to
 ｛御影＊＊｝, I had a very
 happy three years of high school.");
 ChEye(7,0);
@@ -16,7 +16,7 @@ ChEyeOpenLevel(7,10);
 ChCheek(7,0);
 VoicePlay("T020701020_07_010");
 MsgDisp("Mikage","That's my serious girl.");
-MsgDisp("主人公","That......that nickname——");
+MsgDisp("主人公","That...that nickname——");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -29,7 +29,7 @@ ChClose(7,0,0);
 Wait(120,0);
 StlOpen("ev_07_16");
 ScrFadeIn(0);
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 VoicePlay("T020701020_07_030");
 MsgDisp("Mikage","Let me keep calling you this.");
 VoicePlay("T020701020_07_040");

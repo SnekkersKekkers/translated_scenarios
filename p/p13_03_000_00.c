@@ -16,7 +16,7 @@ gathering...)");
     MsgClose();
     ChOpen(3,254,5,3,3,#1,#1,0,0);
     VoicePlay("P130300000_03_000");
-    MsgDisp("Honda","Ah, perhaps......
+    MsgDisp("Honda","Ah, perhaps...
 Molly, as in Kojiro-sensei's pet cow∋");
     MsgDisp("主人公","｛本多＊＊｝, welcome! Yes, it's
 ｛御影＊＊｝'s family cow

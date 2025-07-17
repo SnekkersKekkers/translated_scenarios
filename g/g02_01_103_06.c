@@ -38,7 +38,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020110306_01_040");
 MsgDisp("Kazama","It's not like I want to scare you. It's
-more like......if it was winter right now,
+more like...if it was winter right now,
 I'd pull a roasted sweet potato out of my
 pocket.");
 MsgDisp("主人公","Oh, you gave me a roasted sweet potato
@@ -56,7 +56,7 @@ ChMotion(1,2);
 VoicePlay("G020110306_01_060");
 MsgDisp("Kazama","A roasted sweet potato makes sense when
 you're camping, but I want to surprise you
-more......");
+more...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -74,7 +74,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110306_01_080");
 MsgDisp("Kazama","You got a point there.
 So the surprise that outdoes all that
-is......");
+is...");
 MsgDisp("主人公","Well, what?
 What is it?");
 ChEye(1,0);
@@ -83,7 +83,7 @@ ChMotion(1,3);
 VoicePlay("G020110306_01_090");
 MsgDisp("Kazama","If I told you, it wouldn't be a surprise.
 So just look forward to it.");
-MsgDisp("主人公","(I am looking forward to it, but......my
+MsgDisp("主人公","(I am looking forward to it, but...my
 heart's racing.)");
 BGMStop();
 MsgClose();

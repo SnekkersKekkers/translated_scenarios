@@ -28,7 +28,7 @@ We synced pretty well.");
     ChMotion(7,4);
     VoicePlay("O030700000_07_020");
     MsgDisp("Mikage","Oh no, the stares from the other staff
-hurt......");
+hurt...");
     MsgDisp("主人公","(We did it, first place!)");
     break ;
     case 4:

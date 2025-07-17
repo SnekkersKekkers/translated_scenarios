@@ -2,7 +2,7 @@ ChLayout(1);
 BGOpen("fp100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ok, I think it's time to head home.
-...... Huh?
+... Huh?
 Who's that over there——)");
 VoicePlay("E010730100_07_000");
 MsgDisp("Mikage?","That's amazing Is it easy to use?");
@@ -30,7 +30,7 @@ VoiceEVSPlay(3);
 VoicePlay("E010730100_03_010");
 MsgDisp("Honda","｛主人公｝, I'll let you
 take a peek too.");
-MsgDisp("主人公","Huh...... a peek?");
+MsgDisp("主人公","Huh... a peek?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -43,7 +43,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("E010730100_03_020");
 MsgDisp("Honda","Isn't it great?
 I just bought a new microscope!");
-MsgDisp("主人公","Ah, a microscope......");
+MsgDisp("主人公","Ah, a microscope...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -103,6 +103,6 @@ BGMStop();
 ChClose(7);
 MsgDisp("主人公","(Me, a subject of ｛本多＊＊｝'s
 research?
-There's no way......)");
+There's no way...)");
 MsgClose();
 ScrFadeOut(0,0);

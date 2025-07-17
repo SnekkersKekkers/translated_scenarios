@@ -23,7 +23,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 ChMouthOpenLevel(22,0);
 VoicePlay("T022200000_22_020");
-MsgDisp("Hikaru","............");
+MsgDisp("Hikaru","......");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -62,7 +62,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("T022200000_22_080");
-MsgDisp("Hikaru","...... I actually got bored when I had no
+MsgDisp("Hikaru","... I actually got bored when I had no
 hardships and it's all just happy.
 Aha▼");
 ChEye(22,0);
@@ -87,8 +87,8 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_110");
-MsgDisp("Hikaru","Really......thank you.");
-MsgDisp("主人公","｛ひかる＊｝...... I'm also
+MsgDisp("Hikaru","Really...thank you.");
+MsgDisp("主人公","｛ひかる＊｝... I'm also
 happy to have had so many memories with
 ｛ひかる＊｝.");
 ChEye(22,2);
@@ -96,15 +96,15 @@ ChMouth(22,1);
 ChMotion(22,2,1);
 ChCheek(22,8);
 VoicePlay("T022200000_22_120");
-MsgDisp("Hikaru","Mari......
-Hikaru feels like she's going to cry......");
+MsgDisp("Hikaru","Mari...
+Hikaru feels like she's going to cry...");
 MsgDisp("主人公","Hehe.
 Here's a handkerchief.");
 ChEye(22,2);
 ChMouth(22,0);
 ChEyeOpenLevel(22,0);
 VoicePlay("T022200000_22_130");
-MsgDisp("Hikaru","Mari, you're so kind......
+MsgDisp("Hikaru","Mari, you're so kind...
 I love you.");
 MsgDisp("主人公","I also love
 ｛ひかる＊｝.");
@@ -112,16 +112,16 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_140");
-MsgDisp("Hikaru","Mari......
-I'm so happy......!");
-MsgDisp("主人公","｛ひかる＊｝......");
+MsgDisp("Hikaru","Mari...
+I'm so happy...!");
+MsgDisp("主人公","｛ひかる＊｝...");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("T022200000_22_150");
 MsgDisp("Hikaru","I'm sorry for calling you\"Mari\" without
 permission when we first met.");
-MsgDisp("主人公","Ah...... that's right.
+MsgDisp("主人公","Ah... that's right.
 Why was that?");
 ChEye(22,0);
 ChMouth(22,3);

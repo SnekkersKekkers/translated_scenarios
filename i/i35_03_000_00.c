@@ -82,7 +82,7 @@ here compared to at school.");
 But, you're doing well, and I think this
 job suits you.");
     MsgDisp("主人公","(I'm happy I got complimented.
-But...... am I really that different
+But... am I really that different
 here?)");
     break ;
     case 4:
@@ -127,14 +127,14 @@ it to me.");
     MsgDisp("Honda","Seeing you working so hard, I wanted to
 have some of your power.");
     MsgDisp("主人公","Hm?
-Some of my power......?");
+Some of my power...?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("I350300000_03_150");
     MsgDisp("Honda","Yeah, I'm fully charged now!
 Well, keep it up, okay?");
-    MsgDisp("主人公","(｛本多＊＊｝ came to check on me......
+    MsgDisp("主人公","(｛本多＊＊｝ came to check on me...
 Alright, let's try even harder!)");
     break ;
     default :

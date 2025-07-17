@@ -13,9 +13,9 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_000");
-    MsgDisp("Himuro","......Hey, did you get the price of that
+    MsgDisp("Himuro","...Hey, did you get the price of that
 bouquet wrong earlier?");
-    MsgDisp("主人公","Um, 5 roses...... 2 baby's breaths......
+    MsgDisp("主人公","Um, 5 roses... 2 baby's breaths...
 Ah, you're right!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -37,14 +37,14 @@ I'll be right behind you.");
     ScrFadeIn(0);
     VoicePlay("I460600003_06_020");
     MsgDisp("Himuro","Thank god we managed.");
-    MsgDisp("主人公","Sorry......");
+    MsgDisp("主人公","Sorry...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_030");
     MsgDisp("Himuro","To get the price of flowers wrong...
 You're still just a beginner.");
-    MsgDisp("主人公","Ugh......");
+    MsgDisp("主人公","Ugh...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -52,30 +52,30 @@ You're still just a beginner.");
     MsgDisp("Himuro","This isn't something that can be simply
 forgiven just because you're not used to
 this. Be more aware.");
-    MsgDisp("主人公","Yes......");
-    MsgDisp("主人公","(｛氷室＊＊｝ got mad at me......
-I'll have to get it together......)");
+    MsgDisp("主人公","Yes...");
+    MsgDisp("主人公","(｛氷室＊＊｝ got mad at me...
+I'll have to get it together...)");
     break ;
     case 4:
     case 5:
     SEPlay("EV_SE_655",0,0.8);
     Wait(60,0);
     MsgDisp("主人公","Hm?
-Like this...... no, if I do this......");
+Like this... no, if I do this...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("I460600003_06_050");
-    MsgDisp("Himuro","......It's skewed.");
+    MsgDisp("Himuro","...It's skewed.");
     SEStop("EV_SE_655",1);
-    MsgDisp("主人公","Ugh......
+    MsgDisp("主人公","Ugh...
 I couldn't tie off the bouquet nicely
-because it was too big......");
+because it was too big...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_060");
-    MsgDisp("Himuro","Honestly...... haven't you done this with
+    MsgDisp("Himuro","Honestly... haven't you done this with
 the ribbons a million times now?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -89,8 +89,8 @@ I'll do it this time.");
     VoicePlay("I460600003_06_080");
     MsgDisp("Himuro","And after work, go practice tying big
 bouquets.
-...... I'll stay, too.");
-    MsgDisp("主人公","Huh, really......?");
+... I'll stay, too.");
+    MsgDisp("主人公","Huh, really...?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -100,7 +100,7 @@ bouquets.
 down by you.");
     MsgDisp("主人公","I guess so, thanks.");
     MsgDisp("主人公","(Let's try harder so we don't cause more
-trouble......!)");
+trouble...!)");
     break ;
     default :
     DbgAssert(1);

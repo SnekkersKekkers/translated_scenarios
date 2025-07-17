@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("O020600001_06_000");
     MsgDisp("Himuro","Well, the other team was more in sync.");
-    MsgDisp("主人公","(I lost......
+    MsgDisp("主人公","(I lost...
 I wish I tried harder.)");
     break ;
     case 3:
@@ -24,7 +24,7 @@ I wish I tried harder.)");
     VoicePlay("O020600001_06_020");
     MsgDisp("Himuro","You were the clear winner when it comes to
 desperation.");
-    MsgDisp("主人公","(I lost......
+    MsgDisp("主人公","(I lost...
 I wish I tried harder.)");
     break ;
     case 4:
@@ -33,8 +33,8 @@ I wish I tried harder.)");
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020600001_06_030");
-    MsgDisp("Himuro","......You crying?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝......");
+    MsgDisp("Himuro","...You crying?");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -47,7 +47,7 @@ that you start crying.");
     VoicePlay("O020600001_06_050");
     MsgDisp("Himuro","That's enough, I thought your team would
 win, you know?");
-    MsgDisp("主人公","......Yeah, thanks.");
+    MsgDisp("主人公","...Yeah, thanks.");
     ChEye(6,3);
     ChMouth(6,4);
     ChMotion(6,3);
@@ -55,7 +55,7 @@ win, you know?");
     VoicePlay("O020600001_06_060");
     MsgDisp("Himuro","It was a good match.
 Good work.");
-    MsgDisp("主人公","(I lost......
+    MsgDisp("主人公","(I lost...
 I wish I tried harder.)");
     break ;
     default :

@@ -9,7 +9,7 @@ ChMotion(2,0);
 ChPosition(2,2);
 ScrFadeIn(0);
 MsgDisp("主人公","Tomorrow is the end of the school
-trip......
+trip...
 It went by so fast.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -30,7 +30,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q120A00000_01_010");
 MsgDisp("Kazama","Really, it was like a dream.");
-MsgDisp("主人公","｛風真＊＊｝......?");
+MsgDisp("主人公","｛風真＊＊｝...?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -54,7 +54,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q120A00000_01_040");
 MsgDisp("Kazama","Thanks a lot.");
-MsgDisp("主人公","Yeah, I'm grateful too......
+MsgDisp("主人公","Yeah, I'm grateful too...
 ｛風真＊＊｝,
 ｛颯砂＊＊｝, thank you!");
 ChEye(2,0);
@@ -67,13 +67,13 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("Q120A00000_01_050");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q120A00000_02_030");
-MsgDisp("Sassa","............");
-MsgDisp("主人公","...... Hmmm?
+MsgDisp("Sassa","......");
+MsgDisp("主人公","... Hmmm?
 What's up with the two of you?");
 ChEye(1,2);
 ChMouth(1,2);

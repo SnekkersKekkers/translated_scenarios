@@ -1,7 +1,7 @@
 BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright......
+MsgDisp("主人公","(Alright...
 Should I head home now?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -13,13 +13,13 @@ VoicePlay("E010530100_04_000");
 MsgDisp("Nanatsumori","Yo.
 Have you happened to see a skull bear
 keychain around here?");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("E010530100_04_010");
 MsgDisp("Nanatsumori","You just made a face that said 'again? '.
-...... Well, I guess 'again' is right.");
+... Well, I guess 'again' is right.");
 MsgDisp("主人公","Hehe.
 Shall we look for it together?");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
@@ -43,7 +43,7 @@ ChMotion(4,3,1);
 VoicePlay("E010530100_04_020");
 MsgDisp("Nanatsumori","Ah, there it is!
 That's my skull bear.
-Yano-san you really saved me......");
+Yano-san you really saved me...");
 MsgDisp("主人公","Thank goodness ｛柊＊＊＊｝
 picked it up.");
 ChEye(5,0);
@@ -77,17 +77,17 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010530100_05_040");
-MsgDisp("Hiiragi","I see, so it's a skull and a bear......");
+MsgDisp("Hiiragi","I see, so it's a skull and a bear...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010530100_05_050");
-MsgDisp("Hiiragi","......But I once saw a gift a patron gave
+MsgDisp("Hiiragi","...But I once saw a gift a patron gave
 me, and it didn't have any bones on it.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
-MsgDisp("主人公","Well, that's......");
+MsgDisp("主人公","Well, that's...");
 VoicePlay("E010530100_04_050");
 MsgDisp("Nanatsumori","Ahh, no doubt about it. It must have been
 the fallen angel version. That one's super
@@ -102,7 +102,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("E010530100_04_060");
 MsgDisp("Nanatsumori","It's rare, alright.
-I wish I could even just see one......");
+I wish I could even just see one...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -125,7 +125,7 @@ ChMotion(4,0,1);
 VoicePlay("E010530100_04_080");
 MsgDisp("Nanatsumori","Okay, then when we're all free, we can go
 together.");
-MsgDisp("主人公","Umm...... is it really alright?");
+MsgDisp("主人公","Umm... is it really alright?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -138,7 +138,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010530100_04_090");
 MsgDisp("Nanatsumori","Yano-san you're my idol.
-Thank you so much～......");
+Thank you so much～...");
 ChMotion(5,4);
 MsgDisp("主人公","(Is it possible ｛柊＊＊＊｝
 and ｛七ツ森＊｝ will

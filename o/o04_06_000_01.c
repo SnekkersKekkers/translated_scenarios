@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("O040600001_06_000");
     MsgDisp("Himuro","Everyone had no control.");
-    MsgDisp("主人公","(We lost......
+    MsgDisp("主人公","(We lost...
 I should've tried a little harder.)");
     break ;
     case 3:
@@ -18,8 +18,8 @@ I should've tried a little harder.)");
     ScrFadeIn(0);
     VoicePlay("O040600001_06_010");
     MsgDisp("Himuro","The other team had too much momentum.
-...... Haa.");
-    MsgDisp("主人公","(We lost......
+... Haa.");
+    MsgDisp("主人公","(We lost...
 I should've tried a little harder.)");
     break ;
     case 4:
@@ -31,7 +31,7 @@ I should've tried a little harder.)");
     MsgDisp("Himuro","Are you kidding?
 Was there a miscount?
 Even though I threw all that in?");
-    MsgDisp("主人公","(We lost......
+    MsgDisp("主人公","(We lost...
 I should've tried a little harder.)");
     break ;
     default :

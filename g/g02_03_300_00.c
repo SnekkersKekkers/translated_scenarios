@@ -4,7 +4,7 @@ ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020330000_03_000");
 MsgDisp("Honda","Speaking of fireflies (hotaru), have you
 heard of 'hotaru-te'?");
-MsgDisp("主人公","Hotaru-te......?");
+MsgDisp("主人公","Hotaru-te...?");
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020330000_03_010");

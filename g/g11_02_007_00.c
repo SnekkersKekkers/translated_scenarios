@@ -1,6 +1,6 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Amazing......
+MsgDisp("主人公","(Amazing...
 ｛颯砂＊＊｝ is always at the
 top.)");
 VoicePlay("G110200700_34_000");
@@ -18,7 +18,7 @@ VoiceEVSPlay(2);
 VoicePlay("G110200700_02_010");
 MsgDisp("Sassa","｛主人公｝, good work.");
 MsgDisp("主人公","Yeah.
-Aaah, ｛颯砂＊＊｝'s time is......");
+Aaah, ｛颯砂＊＊｝'s time is...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -26,7 +26,7 @@ VoicePlay("G110200700_02_020");
 MsgDisp("Sassa","It's fine for now.
 Just the feeling of running is enough for
 me.");
-MsgDisp("主人公","Really......?");
+MsgDisp("主人公","Really...?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -82,7 +82,7 @@ ScrFadeIn(0);
 VoicePlay("G110200700_40_010");
 MsgDisp("Member B","He's the only one who's on a different
 level.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 MsgDisp("主人公","(Just now, they were talking about
 ｛颯砂＊＊｝...)");
 MsgDisp("主人公","(I want everybody to be able to feel good

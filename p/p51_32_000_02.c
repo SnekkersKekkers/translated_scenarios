@@ -24,11 +24,11 @@ MsgDisp("VP Himuro","Make sure you put your heart and soul to
 your performance.");
 VoicePlay("P513200002_38_000");
 MsgDisp("Members","Yes!");
-MsgDisp("主人公","(My thoughts as third-year......)");
+MsgDisp("主人公","(My thoughts as third-year...)");
 ChEye(32,0);
 ChMouth(32,2);
 VoicePlay("P513200002_32_030");
-MsgDisp("VP Himuro","...... Hmm.
+MsgDisp("VP Himuro","... Hmm.
 You look good.");
 MsgDisp("主人公","Yes!
 We are going to give our all in this final

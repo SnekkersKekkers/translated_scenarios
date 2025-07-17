@@ -141,7 +141,7 @@ VoicePlay("P240200000_02_110");
 MsgDisp("Sassa","However, if you pity me, stay with me a
 month each year only for each pomegranate
 seed you have eaten.");
-MsgDisp("主人公","Yes......");
+MsgDisp("主人公","Yes...");
 SEPlay("EV_SE_681",0,0.9);
 Wait(50,0);
 ChEye(2,4);

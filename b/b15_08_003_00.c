@@ -53,6 +53,6 @@ Well then, goodnight!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);
-MsgDisp("主人公","(｛大地＊＊｝......)");
+MsgDisp("主人公","(｛大地＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

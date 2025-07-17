@@ -13,7 +13,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("H5G0100000_01_010");
 MsgDisp("Kazama","Do you want to guess?");
-MsgDisp("主人公","Um......
+MsgDisp("主人公","Um...
 Ah.
 Because the brass band won an award?");
 ChEye(1,0);

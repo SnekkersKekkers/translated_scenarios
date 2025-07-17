@@ -1,6 +1,6 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Mmmm......
+MsgDisp("主人公","Mmmm...
 I slept a lot.
 I think I'm better now.");
 SEPlay("EV_SE_DOOR_024");
@@ -8,9 +8,9 @@ SEWait();
 MsgDisp("主人公","Yes, I'm upー!");
 VoicePlay("M010600000_06_000");
 MsgDisp("Himuro","It's me, but.
-...... Can I come in?");
+... Can I come in?");
 MsgDisp("主人公","Eh, ｛氷室＊＊｝∋
-Uuhm......
+Uuhm...
 Yeah, come in.");
 SEPlay("EV_SE_DOOR_007");
 Wait(10);
@@ -31,7 +31,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("M010600000_06_030");
-MsgDisp("Himuro","......Whatever.");
+MsgDisp("Himuro","...Whatever.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -53,17 +53,17 @@ ChMotion(6,0);
 VoicePlay("M010600000_06_060");
 MsgDisp("Himuro","Resting at certain times is important too.
 'More haste, less speed' as they say.");
-MsgDisp("主人公","That's true isn't it......");
+MsgDisp("主人公","That's true isn't it...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("M010600000_06_070");
-MsgDisp("Himuro","......Well, just be on guard from now on.");
+MsgDisp("Himuro","...Well, just be on guard from now on.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("M010600000_06_080");
-MsgDisp("Himuro","Ah......
+MsgDisp("Himuro","Ah...
 I forgot to bring your get well gift.");
 MsgDisp("主人公","You got me one?");
 ChEye(6,0);
@@ -75,7 +75,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("M010600000_06_100");
-MsgDisp("Himuro","Haa...... No matter how much of a rush I
+MsgDisp("Himuro","Haa... No matter how much of a rush I
 was in, it's no excuse. I'll go get it.");
 MsgDisp("主人公","Eh, right now?
 No, you don't have to!");
@@ -92,7 +92,7 @@ ChCheek(6,5);
 VoicePlay("M010600000_06_120");
 MsgDisp("Himuro","I'll give your gift to your parents.
 Then, see you at school.
-...... I'll be waiting.");
+... I'll be waiting.");
 MsgDisp("主人公","Yeah, thanks!");
 ChEye(6,0);
 ChMouth(6,4);
@@ -106,5 +106,5 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(｛氷室＊＊｝ really rushed over......
+MsgDisp("主人公","(｛氷室＊＊｝ really rushed over...
 I have to hurry and get better!)");

@@ -14,7 +14,7 @@ It's nice.");
     MsgDisp("Hiiragi","Since you're not used to wearing one, it
 may be hard to move around. Don't let it
 get dirty and be careful of how you walk.");
-    MsgDisp("主人公","(I guess he likes it......?)");
+    MsgDisp("主人公","(I guess he likes it...?)");
     break ;
     case 3:
     ChEye(5,4);
@@ -28,14 +28,14 @@ get dirty and be careful of how you walk.");
     MsgDisp("Hiiragi","I don't mean it that way.
 It's impressive.
 I'm happy to be standing next to you.");
-    MsgDisp("主人公","Impressive......");
+    MsgDisp("主人公","Impressive...");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("S060500001_05_040");
     MsgDisp("Hiiragi","Yes.
 It means that you are well dressed.");
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 Well, he seems happy, so I'm happy!)");
     break ;
     case 4:
@@ -61,7 +61,7 @@ suppose.");
     MsgDisp("Hiiragi","Your charisma exploded.
 You look so graceful and full of life.");
     MsgDisp("主人公","Huh, exploded?
-Is that supposed to be a compliment......?");
+Is that supposed to be a compliment...?");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("S060500001_05_080");

@@ -30,7 +30,7 @@ notice us.");
     ChMouth(1,4);
     ChMotion(1,0);
     VoicePlay("S120100005_01_020");
-    MsgDisp("Kazama","......I see. The reason you're so
+    MsgDisp("Kazama","...I see. The reason you're so
 oblivious when you're with me is because
 you enjoy being with me.");
     MsgDisp("主人公","That's true, I guess?");
@@ -57,9 +57,9 @@ Cya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(So focused......
+    MsgDisp("主人公","(So focused...
 Maybe that was the beginning of something
-great......)");
+great...)");
     break ;
     case 4:
     case 5:
@@ -83,14 +83,14 @@ great......)");
     MsgDisp("Kazama","When we were in 1st grade, I used to run
 ahead of you all the time.
 So being together like this feels weird.");
-    MsgDisp("主人公","Yeah, you were hard to keep up with......");
+    MsgDisp("主人公","Yeah, you were hard to keep up with...");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("S120100005_01_080");
     MsgDisp("Kazama","Since I entered high school, I started to
 pay attention a lot more to the person
-next to me......");
+next to me...");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -104,9 +104,9 @@ a care in the world.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("S120100005_01_100");
-    MsgDisp("Kazama","I see......
+    MsgDisp("Kazama","I see...
 Now we're onto the next issue.");
-    MsgDisp("主人公","What's next......?");
+    MsgDisp("主人公","What's next...?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -117,9 +117,9 @@ Yeah, that's it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Distance? What does he mean...... This
+    MsgDisp("主人公","(Distance? What does he mean... This
 year, ｛風真＊＊｝ and I, will
-graduate together......)");
+graduate together...)");
     break ;
     default :
     DbgAssert(1);

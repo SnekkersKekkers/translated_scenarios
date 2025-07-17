@@ -65,7 +65,7 @@ I think this is good enough.");
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("S120400000_04_060");
-    MsgDisp("Nanatsumori","I see......");
+    MsgDisp("Nanatsumori","I see...");
     MsgDisp("主人公","Okay, see you later——");
     ChEye(4,0);
     ChMouth(4,5);

@@ -145,7 +145,7 @@ it just wasn't right...)");
         ChMotion(8,4,1);
         ChMouthOpenLevel(8,0);
         VoicePlay("F010800007_08_120");
-        MsgDisp("Shirahane","......");
+        MsgDisp("Shirahane","...");
         ChEye(8,3);
         ChMouth(8,0);
         ChMotion(8,0,1);

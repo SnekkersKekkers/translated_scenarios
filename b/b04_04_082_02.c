@@ -60,7 +60,7 @@ I'm not good with bugs.");
         ChEyeOpenLevel(4,0);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040408202_04_050");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         ChEye(4,2);
         ChMouth(4,2);
         VoicePlay("B040408202_04_060");

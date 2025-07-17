@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Well, I think it's time to go home.
-...... Huh?");
+... Huh?");
 MsgDisp("主人公","｛柊＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
@@ -25,7 +25,7 @@ But the items at your feet are
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("E010510000_05_020");
-MsgDisp("Hiiragi","Ah these...... yes, they are.
+MsgDisp("Hiiragi","Ah these... yes, they are.
 I met some fans and supporters by chance.
 They gave me many things.");
 MsgDisp("主人公","They're gifts?");
@@ -38,7 +38,7 @@ Oh, but maybe there's some tea in there?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("E010510000_05_040");
-MsgDisp("Hiiragi","No, there isn't any......
+MsgDisp("Hiiragi","No, there isn't any...
 It seems things don't always go the way we
 wish.");
 ChEye(5,2);
@@ -53,7 +53,7 @@ ChMotion(5,2);
 VoicePlay("E010510000_05_060");
 MsgDisp("Hiiragi","That's no longer possible.
 Information travels fast nowadays.");
-MsgDisp("主人公","(Information......?)");
+MsgDisp("主人公","(Information...?)");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("E010510000_05_070");

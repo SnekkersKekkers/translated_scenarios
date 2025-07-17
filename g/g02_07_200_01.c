@@ -40,7 +40,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020720001_07_050");
 MsgDisp("Mikage","It's much better than nothing.");
-MsgDisp("主人公","｛御影＊＊｝......");
+MsgDisp("主人公","｛御影＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -48,7 +48,7 @@ VoicePlay("G020720001_07_060");
 MsgDisp("Mikage","Okay, you just have to fly around as hard
 as you can, and do your best to be
 satisfied with it, okay?");
-MsgDisp("主人公","......Yes, I understand.");
+MsgDisp("主人公","...Yes, I understand.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -60,8 +60,8 @@ ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("G020720001_07_080");
 MsgDisp("Mikage","There must be some fireflies left.");
-MsgDisp("主人公","(The remaining fireflies......
-Could it be ｛御影＊＊｝......?)");
+MsgDisp("主人公","(The remaining fireflies...
+Could it be ｛御影＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

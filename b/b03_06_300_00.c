@@ -5,7 +5,7 @@ ChMotion(6,1,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030630000_06_000");
-MsgDisp("Himuro","It's nothing special but......
+MsgDisp("Himuro","It's nothing special but...
 Come in.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Okay.

@@ -4,7 +4,7 @@ ChMouth(8,4);
 ChMotion(8,0);
 ChCheek(8,5);
 VoicePlay("G020810301_08_000");
-MsgDisp("Shirahane","Haa......
+MsgDisp("Shirahane","Haa...
 I wonder why it's so pretty.");
 MsgDisp("主人公","Hehe.");
 ChEye(8,3);
@@ -12,7 +12,7 @@ ChMouth(8,4);
 VoicePlay("G020810301_08_010");
 MsgDisp("Shirahane","Just by shining brightly without doing
 anything, it captivates people's
-eyes......");
+eyes...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -32,7 +32,7 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 ChCheek(8,8);
 VoicePlay("G020810301_08_040");
-MsgDisp("Shirahane","Eh......?");
+MsgDisp("Shirahane","Eh...?");
 MsgDisp("主人公","The smile ｛大地＊＊｝ has
 during work is wonderful.");
 ChEye(8,4);
@@ -41,12 +41,12 @@ ChMotion(8,4,1);
 ChCheek(8,10);
 VoicePlay("G020810301_08_050");
 MsgDisp("Shirahane","If you say something like that, it makes
-me very self-conscious......");
+me very self-conscious...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("G020810301_08_060");
-MsgDisp("Shirahane","...... But, it feels good to smile, right?
+MsgDisp("Shirahane","... But, it feels good to smile, right?
 I always want to feel happy.");
 MsgDisp("主人公","I see");
 ChEye(8,3);

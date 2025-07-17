@@ -18,9 +18,9 @@ VoicePlay("D010300500_03_000");
 MsgDisp("Honda?","Why～!");
 SEPlay("EV_SE_616",0,0.6);
 SEWait();
-MsgDisp("主人公","(∋ That voice just now...... Was that
+MsgDisp("主人公","(∋ That voice just now... Was that
 ｛本多＊＊｝? Huh, didn't
-something like this happen before......)");
+something like this happen before...)");
 StlOpen("ev_03_11");
 BGMPlay("BGM_C03_HONDA_C",0.01);
 EfctOpen(6);
@@ -28,19 +28,19 @@ StlEye(3,2);
 StlMouth(3,1);
 ScrFadeIn(0);
 VoicePlay("D010300500_03_010");
-MsgDisp("Honda",".........Sigh.");
+MsgDisp("Honda","......Sigh.");
 MsgDisp("主人公","｛本多＊＊｝, what's wrong?");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300500_03_020");
-MsgDisp("Honda","Ahh, it's you......");
+MsgDisp("Honda","Ahh, it's you...");
 MsgDisp("主人公","You shouldn't sleep here if you're not
 feeling well.
 Should we go to the nurse's office?");
 StlMouth(3,1);
 VoicePlay("D010300500_03_030");
 MsgDisp("Honda","My little sister is the weird one, not me.");
-MsgDisp("主人公","Eh, your sister......? Last time you were
+MsgDisp("主人公","Eh, your sister...? Last time you were
 here, weren't you very happy that your
 sister passed her entrance exam?");
 StlEye(3,2);
@@ -48,7 +48,7 @@ StlMouth(3,1);
 VoicePlay("D010300500_03_040");
 MsgDisp("Honda","I was.
 Sigh, back then we were still good
-friends......");
+friends...");
 MsgDisp("主人公","Did you guys have a fight?");
 StlEye(3,1);
 StlMouth(3,0);
@@ -63,8 +63,8 @@ StlMouth(3,0);
 StlEyeOpenLevel(3,0,1);
 VoicePlay("D010300500_03_060");
 MsgDisp("Honda","She said she wasn't interested in the
-botanical gardens either though......");
-MsgDisp("主人公","I see......But you know, it's not good to
+botanical gardens either though...");
+MsgDisp("主人公","I see...But you know, it's not good to
 lie down in a place like this. Come on,
 let me help you up.");
 StlEye(3,0);
@@ -89,7 +89,7 @@ ScrFadeIn(0);
 ChMotion(3,2,1);
 VoicePlay("D010300500_03_080");
 MsgDisp("Honda","And after all that, I saw a sign on my
-sister's door yesterday. It said......
+sister's door yesterday. It said...
 \"Brothers prohibited from entering\".");
 MsgDisp("主人公","Eh?
 Have you been going inside without
@@ -101,7 +101,7 @@ VoicePlay("D010300500_03_090");
 MsgDisp("Honda","No.
 I always made sure to say \"I'm coming in\"
 first.");
-MsgDisp("主人公","Hmm......
+MsgDisp("主人公","Hmm...
 Maybe that's why.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -115,7 +115,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D010300500_03_110");
-MsgDisp("Honda","...... I see, I guess you're right.
+MsgDisp("Honda","... I see, I guess you're right.
 I can definitely do that.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -132,9 +132,9 @@ VoicePlay("D010300500_03_130");
 MsgDisp("Honda","Alright, we're going to start knocking!
 １０００ Knocks∈");
 MsgDisp("主人公","Ehh∋");
-MsgDisp("主人公","(......I think I can empathize with his
+MsgDisp("主人公","(...I think I can empathize with his
 little sister a bit and why she didn't
-want him coming in......?)");
+want him coming in...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

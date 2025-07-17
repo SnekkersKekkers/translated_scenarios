@@ -43,9 +43,9 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020240003_02_050");
-MsgDisp("Sassa","Hmm......
+MsgDisp("Sassa","Hmm...
 There's a bit of a sting to the way you
-said it......");
+said it...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -67,7 +67,7 @@ ChMotion(2,4);
 VoicePlay("G020240003_02_080");
 MsgDisp("Sassa","Spending time with you like this, keeps my
 mind and body in top form, I'll be able to
-win the interhigh without fail......I
+win the interhigh without fail...I
 guess?");
 MsgDisp("主人公","Is that right?");
 ChEye(2,3);
@@ -80,7 +80,7 @@ motivated. So, I'll be in your care from
 now on too, okay?");
 MsgDisp("主人公","(It's just a little bit but, being helpful
 to ｛颯砂＊＊｝ makes me
-happy......)");
+happy...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

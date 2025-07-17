@@ -14,7 +14,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020700000_07_010");
 MsgDisp("Mikage","Congratulations on graduating.");
 MsgDisp("主人公","｛御影＊＊｝, thank you,
-but why ......are you here?");
+but why ...are you here?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -48,7 +48,7 @@ VoicePlay("T020700000_07_050");
 MsgDisp("Mikage","Yes, the space of memories that was
 supposed to be empty is now full.
 Thanks to you.");
-MsgDisp("主人公","Me......?");
+MsgDisp("主人公","Me...?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -65,7 +65,7 @@ ChEyeOpenLevel(7,10);
 VoicePlay("T020700000_07_070");
 MsgDisp("Mikage","Yes.
 Molly-chan and the others are waiting.");
-MsgDisp("主人公","Molly and her baby......");
+MsgDisp("主人公","Molly and her baby...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -99,9 +99,9 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020700000_07_120");
 MsgDisp("Mikage","That's right.
-...... It's just as I thought, the void in
+... It's just as I thought, the void in
 my life can't be filled without you.");
-MsgDisp("主人公","｛御影＊＊｝......");
+MsgDisp("主人公","｛御影＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -109,7 +109,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020700000_07_130");
 MsgDisp("Mikage","On the night of the christmas party, I
 became sure of my own feelings.");
-MsgDisp("主人公","｛御影＊＊｝'s ......
+MsgDisp("主人公","｛御影＊＊｝'s ...
 feelings?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -143,5 +143,5 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoiceEVSPlay(7);
 VoicePlay("T020700000_07_170");
-MsgDisp("Mikage","｛主人公｝, ......
+MsgDisp("Mikage","｛主人公｝, ...
 I love you.");

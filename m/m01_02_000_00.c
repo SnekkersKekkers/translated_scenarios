@@ -1,14 +1,14 @@
 SEPlay("EV_SE_669");
 SEWait();
-MsgDisp("主人公","(Must be Mom......)");
+MsgDisp("主人公","(Must be Mom...)");
 SEPlay("EV_SE_049");
 SEPlay("EV_SE_006",0,0.4);
 SEWait();
 VoicePlay("M010200000_02_000");
-MsgDisp("Sassa?","She's sleeping......
+MsgDisp("Sassa?","She's sleeping...
 S-Sorry.
 Ah, no, it's fine.");
-MsgDisp("主人公","Ehh∋ this voice is......");
+MsgDisp("主人公","Ehh∋ this voice is...");
 SEPlay("EV_SE_DOOR_024");
 SEWait();
 VoicePlay("M010200000_02_010");
@@ -23,7 +23,7 @@ MsgClose();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("M010200000_02_020");
-MsgDisp("Sassa","Excuse me......
+MsgDisp("Sassa","Excuse me...
 And?
 How you holding up?");
 MsgDisp("主人公","｛颯砂＊＊｝, are YOU okay?

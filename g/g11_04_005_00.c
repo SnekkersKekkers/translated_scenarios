@@ -88,7 +88,7 @@ MsgDisp("Nanatsumori","You're the ideal type, you know?");
 MsgDisp("主人公","Huh?");
 VoicePlay("G110400500_04_100");
 ChMouthOpenLevel(4,0);
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 VoicePlay("G110400500_04_110");
 ChEye(4,1);
 ChMouth(4,2);

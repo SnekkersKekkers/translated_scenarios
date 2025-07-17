@@ -13,7 +13,7 @@ VoicePlay("G020640000_06_010");
 MsgDisp("Himuro","If they can fly like that, don't you think
 they could reach the underworld on their
 own?");
-MsgDisp("主人公","......Huh?");
+MsgDisp("主人公","...Huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -21,7 +21,7 @@ ChEyeOpenLevel(6,8);
 VoicePlay("G020640000_06_020");
 MsgDisp("Himuro","There's no need for them to go out of
 their way to ride an eggplant.");
-MsgDisp("Himuro","......I don't understand the need for
+MsgDisp("Himuro","...I don't understand the need for
 cucumbers either.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -77,7 +77,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020640000_06_090");
 MsgDisp("Himuro","I can tolerate them better than eggplant.
 But I don't like vegetables in general.
-...... I eat them though.");
+... I eat them though.");
 MsgDisp("主人公","(Hehe, ｛氷室＊＊｝ isn't a fan of
 vegetables.)");
 BGMStop();

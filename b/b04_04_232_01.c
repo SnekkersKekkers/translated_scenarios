@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423201_04_010");
-    MsgDisp("Nanatsumori","ＯＫ, I'll share.
+    MsgDisp("Nanatsumori","OK, I'll share.
 Can you also let me know what you think?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

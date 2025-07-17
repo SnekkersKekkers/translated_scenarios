@@ -63,7 +63,7 @@ I was looking for you.");
 I've held off on eating chocolate just for
 today.");
     MsgDisp("主人公","Huh!?
-Well...... here you go.
+Well... here you go.
 Go ahead.");
     SEPlay("EV_SE_665");
     SEWait();

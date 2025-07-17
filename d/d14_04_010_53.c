@@ -7,5 +7,5 @@ I chose this one too.");
 ChMotion(4,0);
 VoicePlay("D140401053_04_010");
 MsgDisp("Nanatsumori","I can't get enough of the garlic and
-spices......
-Can't wait to eat......");
+spices...
+Can't wait to eat...");

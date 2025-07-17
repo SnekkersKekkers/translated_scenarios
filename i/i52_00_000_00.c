@@ -5,7 +5,7 @@ VoicePlay("I520000000_49_000");
 MsgDisp("Manager","Thank you for calling.
 This is Princess Tsubaki Japanese Sweets.");
 MsgDisp("主人公","I'm calling about your help wanted ad for
-the part-time job opening......");
+the part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

@@ -54,8 +54,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700800_07_050");
 MsgDisp("Mikage","Typhoon season kills me.");
-MsgDisp("主人公","That's right isn't it...... what should I
-do then......");
+MsgDisp("主人公","That's right isn't it... what should I
+do then...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -65,7 +65,7 @@ that. The weather's going to be nice for a
 while.");
 MsgDisp("主人公","(Since I've joined the gardening club, I
 feel like maybe I've changed a
-little......?)");
+little...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

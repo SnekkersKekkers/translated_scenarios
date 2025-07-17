@@ -73,7 +73,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D010300100_03_050");
-MsgDisp("Honda","You don't want my signature......?");
+MsgDisp("Honda","You don't want my signature...?");
 MsgDisp("主人公","Uhm, I guess I'll get it then.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -101,7 +101,7 @@ ChMotion(3,1,1);
 VoicePlay("D010300100_03_080");
 MsgDisp("Honda","I put a poster up in my sister's room.
 What about putting it in your room?");
-MsgDisp("主人公","Um......
+MsgDisp("主人公","Um...
 I'll think about it?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -114,7 +114,7 @@ BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Did ｛本多＊＊｝ put that poster
 up in his sister's room without her
-permission......?)");
+permission...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

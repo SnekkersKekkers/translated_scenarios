@@ -2,7 +2,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","My team is......
+    MsgDisp("主人公","My team is...
 Ah, I'm with ｛颯砂＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -26,7 +26,7 @@ slack off.");
 into the basket!");
     break ;
     case 3:
-    MsgDisp("主人公","Hm, my team is......");
+    MsgDisp("主人公","Hm, my team is...");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -51,7 +51,7 @@ Let's both do our best!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Who was it on my team......");
+    MsgDisp("主人公","Who was it on my team...");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();

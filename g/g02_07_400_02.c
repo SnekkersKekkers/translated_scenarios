@@ -31,7 +31,7 @@ ChMotion(7,4);
 VoicePlay("G020740002_07_030");
 MsgDisp("Mikage","'It seems like you've left some of your
 assignments unattended. Settle
-them.'...... is what it told me. I still
+them.'... is what it told me. I still
 have those dreams..");
 MsgDisp("主人公","Hehe, is that so?");
 ChEye(7,2);
@@ -46,7 +46,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020740002_07_050");
 MsgDisp("Mikage","It wasn't wrong. I have some assignments
-I've been putting off...... I know they
+I've been putting off... I know they
 need to be finished.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -56,13 +56,13 @@ MsgDisp("Mikage","But, I wish they hinted at it in a more
 roundabout way, like a fortune-teller.
 They were just so blunt about it, you
 know?");
-MsgDisp("主人公","Umm, being a teacher is tough, huh......");
+MsgDisp("主人公","Umm, being a teacher is tough, huh...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020740002_07_070");
 MsgDisp("Mikage","Yeah, I guess?");
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 So the fortune was really spot on?)");
 BGMStop();
 MsgClose();

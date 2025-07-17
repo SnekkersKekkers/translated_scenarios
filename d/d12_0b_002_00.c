@@ -35,7 +35,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("D120B00200_01_010");
 MsgDisp("Kazama","I never promised anything like that——");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -62,26 +62,26 @@ StlMouth(4,0);
 Wait(6,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew......
+MsgDisp("主人公","Phew...
 It's nice and cold inside the store!");
 StlMouthOpenLevel(1,0);
 VoicePlay("D120B00200_01_030");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 StlEyeOpenLevel(4,5,1);
 StlMouthOpenLevel(4,0);
 VoicePlay("D120B00200_04_010");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 StlEyeOpenLevel(3,5,1);
 StlMouthOpenLevel(3,0);
 VoicePlay("D120B00200_03_010");
-MsgDisp("Honda","............");
+MsgDisp("Honda","......");
 MsgDisp("主人公","(Eh?
 Everyone has a scary look on their
-face......∋)");
+face...∋)");
 StlEyeOpenLevel(4,0,1);
 StlMouth(4,0);
 VoicePlay("D120B00200_04_020");
-MsgDisp("Nanatsumori","...... So.
+MsgDisp("Nanatsumori","... So.
 Why don't you explain it.");
 StlEyeOpenLevel(3,#1);
 StlMouth(3,0);
@@ -96,17 +96,17 @@ MsgDisp("Kazama","I don't need any explanation.
 It's just natural.");
 StlEyeOpenLevel(4,#1);
 VoicePlay("D120B00200_04_030");
-MsgDisp("Nanatsumori","You're making a move, huh......");
+MsgDisp("Nanatsumori","You're making a move, huh...");
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00200_03_030");
-MsgDisp("Honda","You're more aggressive than usual......");
+MsgDisp("Honda","You're more aggressive than usual...");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("D120B00200_01_050");
 MsgDisp("Kazama","Shut up.");
 MsgDisp("主人公","H-Hey.
 What's with you all?
-Everyone looks so scary......");
+Everyone looks so scary...");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("D120B00200_04_040");
@@ -143,9 +143,9 @@ StlEyeOpenLevel(4,5,1);
 StlMouth(4,1);
 VoicePlay("D120B00200_04_050");
 MsgDisp("Nanatsumori","Reserving your spot like that before we
-even sit is really smart......");
+even sit is really smart...");
 MsgDisp("主人公","(Are they maybe talking about the way
-we're sitting......?)");
+we're sitting...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

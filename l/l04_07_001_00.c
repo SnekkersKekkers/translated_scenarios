@@ -4,8 +4,8 @@ ChMotion(7,3);
 VoicePlay("L040700100_07_000");
 MsgDisp("Mikage","Ooh, thanks.
 For this obligatory one.");
-MsgDisp("主人公","(Um......
-He seemed happy......)");
+MsgDisp("主人公","(Um...
+He seemed happy...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

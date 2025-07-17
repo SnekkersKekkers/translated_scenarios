@@ -2,7 +2,7 @@ BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I think I'll head home now.
-...... Huh?)");
+... Huh?)");
 VoicePlay("E010640000_06_000");
 MsgDisp("Himuro?","Sorry.
 Can you back up a little bit.");
@@ -10,7 +10,7 @@ VoicePlay("E010640000_22_000");
 MsgDisp("Hikaru?","Oh, could it be you're embarrassed～?");
 VoicePlay("E010640000_06_010");
 MsgDisp("Himuro?","No way.");
-MsgDisp("主人公","(That voice, could it be......)");
+MsgDisp("主人公","(That voice, could it be...)");
 MsgDisp("主人公","｛氷室＊＊｝,
 ｛ひかる＊｝!
 Were you two out together?");
@@ -84,7 +84,7 @@ ChMouth(22,0);
 ChMotion(22,2);
 ChEyeOpenLevel(22,0);
 VoicePlay("E010640000_22_050");
-MsgDisp("Hikaru","Hmm, so that's it～......
+MsgDisp("Hikaru","Hmm, so that's it～...
 You don't want Mari to misunderstand?
 I see, I see.");
 ChEye(6,0);
@@ -124,8 +124,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("E010640000_06_090");
-MsgDisp("Himuro","What's with her......");
-MsgDisp("主人公","Umm......
+MsgDisp("Himuro","What's with her...");
+MsgDisp("主人公","Umm...
 What did you mean by not wanting to be
 misunderstood?");
 ChEye(6,0);
@@ -133,13 +133,13 @@ ChMouth(6,0);
 ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("E010640000_06_100");
-MsgDisp("Himuro","∋ ......It's nothing!");
+MsgDisp("Himuro","∋ ...It's nothing!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(Hmm......
+MsgDisp("主人公","(Hmm...
 ｛氷室＊＊｝'s face was bright red.
-Did I make him angry......?)");
+Did I make him angry...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

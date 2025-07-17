@@ -33,7 +33,7 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620203_06_040");
 MsgDisp("Himuro","You feel the same way, right?");
-MsgDisp("主人公","That's......");
+MsgDisp("主人公","That's...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -46,7 +46,7 @@ ChMotion(6,0);
 VoicePlay("G020620203_06_060");
 MsgDisp("Himuro","All in all, you're spending a lot of time
 with Kojirou-sensei these days.");
-MsgDisp("主人公","Y-Yeah......");
+MsgDisp("主人公","Y-Yeah...");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
@@ -58,7 +58,7 @@ ChMotion(6,0);
 VoicePlay("G020620203_06_080");
 MsgDisp("Himuro","In fact, I'm glad it was Kojiro-sensei who
 took the place by your side.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -82,7 +82,7 @@ VoicePlay("G020620203_06_110");
 MsgDisp("Himuro","Don't forget what you just said.
 Because it's a promise.");
 MsgDisp("主人公","(I feel like I made a really big
-promise......)");
+promise...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

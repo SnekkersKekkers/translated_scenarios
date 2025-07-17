@@ -18,7 +18,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120203_01_020");
-MsgDisp("Kazama","......Come on, give me something more
+MsgDisp("Kazama","...Come on, give me something more
 than, 'You're right.'");
 ChEye(1,0);
 ChMouth(1,2);
@@ -33,13 +33,13 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120203_01_040");
 MsgDisp("Kazama","He's always with you before I even realize
-it, you know......");
+it, you know...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020120203_01_050");
 MsgDisp("Kazama","I know that Nanatsumori's a good guy.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,1);
@@ -57,7 +57,7 @@ ChMotion(1,0);
 VoicePlay("G020120203_01_070");
 MsgDisp("Kazama","Are you serious?
 There you go again.
-Is that really what it looks like......");
+Is that really what it looks like...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -71,7 +71,7 @@ ChMotion(1,1);
 VoicePlay("G020120203_01_090");
 MsgDisp("Kazama","I can't do what he does, but I'm going to
 stick to my feelings like I always have.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -80,7 +80,7 @@ VoicePlay("G020120203_01_100");
 MsgDisp("Kazama","(sigh) I just keep saying stuff that I
 really shouldn't.");
 MsgDisp("主人公","(So that's how ｛風真＊＊｝
-feels about ｛七ツ森＊｝......)");
+feels about ｛七ツ森＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

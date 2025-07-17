@@ -4,7 +4,7 @@ ChMotion(1,1);
 VoicePlay("L040100101_01_000");
 MsgDisp("Kazama","Thank you.
 If I'm getting this, I wonder what that
-guy is getting......");
+guy is getting...");
 MsgClose();
 BGMStop();
 MsgClose();

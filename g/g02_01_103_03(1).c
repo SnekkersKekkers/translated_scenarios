@@ -3,7 +3,7 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110303_01_000");
 MsgDisp("Kazama","It's overwhelming, isn't it, the sheer
-number......");
+number...");
 MsgDisp("主人公","Yes, it's amazing.");
 ChEye(1,4);
 ChMouth(1,0);
@@ -42,7 +42,7 @@ ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110303_01_050");
-MsgDisp("Kazama","......It's hard to find you, so just stay
+MsgDisp("Kazama","...It's hard to find you, so just stay
 still for a bit.");
 MsgDisp("主人公","Hehe.
 Hey, why are you telling me off?");
@@ -55,7 +55,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110303_01_070");
-MsgDisp("Kazama","...... Hm?
+MsgDisp("Kazama","... Hm?
 Wait, there's something fluttering in
 front of us, isn't there?");
 MsgDisp("主人公","Agh!
@@ -96,7 +96,7 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110303_01_110");
-MsgDisp("Kazama","Haa......that reminds me..");
+MsgDisp("Kazama","Haa...that reminds me..");
 EfctClose();
 EfctOpen(7);
 ChEye(1,0);

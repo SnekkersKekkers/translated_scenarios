@@ -43,7 +43,7 @@ MsgClear();
 MsgDisp("","...Big sis?");
 MsgDisp("","Even though I've only seen her a few
 times and she only just came over to
-our house......");
+our house...");
 MsgDisp("","Why do she understand my feelin's?");
 MsgClear();
 VoicePlay("Y300800300_09_030");

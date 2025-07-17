@@ -18,14 +18,14 @@ VoicePlay("B360718001_07_010");
 MsgDisp("Mikage","It's hard to tell without the uniform, but
 some faces are familiar.
 Maybe they have cram school.");
-MsgDisp("主人公","Cram school......");
+MsgDisp("主人公","Cram school...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360718001_07_020");
 MsgDisp("Mikage","Are you anxious?");
 MsgDisp("主人公","Yeah.
-Just a little......");
+Just a little...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -38,7 +38,7 @@ VoicePlay("B360718001_07_040");
 MsgDisp("Mikage","Everyone has the same amount of time.
 Whether you're having fun with friends or
 at cram school. It's the same day.");
-MsgDisp("主人公","That's right......
+MsgDisp("主人公","That's right...
 I should study hard too.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -72,7 +72,7 @@ MsgDisp("Mikage","So it's okay.
 Go and do what you want.");
 MsgDisp("主人公","(Talkin to ｛御影＊＊｝
 makes me feel more at ease about my
-future......)");
+future...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

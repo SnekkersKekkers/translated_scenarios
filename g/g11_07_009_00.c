@@ -1,6 +1,6 @@
 BGOpen("sc606",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew......
+MsgDisp("主人公","Phew...
 Gardening club is hard work, but it's
 rewarding.");
 VoiceEVSPlay(7);
@@ -35,7 +35,7 @@ VoicePlay("G110700900_07_030");
 MsgDisp("Mikage","We can try to assist them, but the plants
 are the ones who have to do all the hard
 work.");
-MsgDisp("主人公","Got it......
+MsgDisp("主人公","Got it...
 I'll do my best so the plants can grow
 strong.");
 ChEye(7,0);
@@ -51,7 +51,7 @@ VoicePlay("G110700900_07_050");
 MsgDisp("Mikage","That's a good thing, though.
 That's what I like about you.");
 MsgDisp("主人公","(∈ It surprised me just now when he said
-'like'......)");
+'like'...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

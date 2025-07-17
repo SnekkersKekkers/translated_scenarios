@@ -34,7 +34,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P530D00002_22_010");
 MsgDisp("Hikaru","That's amazing～!
-Mari has dedicated herself to music......
+Mari has dedicated herself to music...
 So cool▼");
 MsgDisp("主人公","Hehe!");
 ChEye(21,0);

@@ -74,7 +74,7 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("D140B03000_04_020");
 MsgDisp("Nanatsumori","Yeees.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

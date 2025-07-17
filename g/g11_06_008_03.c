@@ -16,7 +16,7 @@ ChMotion(6,1);
 VoicePlay("G110600803_06_010");
 MsgDisp("Himuro","Then, let's go.
 As there's good waves.");
-MsgDisp("主人公","Ah......hehe, yes!");
+MsgDisp("主人公","Ah...hehe, yes!");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -30,9 +30,9 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600803_06_020");
-MsgDisp("Himuro","......Hey have you ever wanted flowers?");
+MsgDisp("Himuro","...Hey have you ever wanted flowers?");
 MsgDisp("主人公","Mmm, I guess I would be happy if I
-received them? ......Could it be that
+received them? ...Could it be that
 you're planning on giving some to me?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -80,7 +80,7 @@ VoicePlay("G110600803_06_080");
 MsgDisp("Himuro","Well, I don't want you to expect failure,
 so forget what I asked you today.");
 MsgDisp("主人公","Hehe, I got it!");
-MsgDisp("主人公","(I'm looking forward to it......!)");
+MsgDisp("主人公","(I'm looking forward to it...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

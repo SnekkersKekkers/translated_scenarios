@@ -12,9 +12,9 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("L040300006_03_010");
-    MsgDisp("Honda","Da, that surprised me......
+    MsgDisp("Honda","Da, that surprised me...
 It was more powerful than I expected, I
-just......");
+just...");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);
@@ -22,7 +22,7 @@ just......");
     MsgDisp("Honda","I'll look at it more closely at home,
 okay?
 Thanks.");
-    MsgDisp("主人公","(Just looking......?
+    MsgDisp("主人公","(Just looking...?
 Ugh, I should've tried harder.)");
     break ;
     case 3:
@@ -30,7 +30,7 @@ Ugh, I should've tried harder.)");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300006_03_030");
-    MsgDisp("Honda","Ah...... it's handmade?");
+    MsgDisp("Honda","Ah... it's handmade?");
     MsgDisp("主人公","Y-Yeah.
 How is it?");
     ChEye(3,0);
@@ -52,8 +52,8 @@ My sister used to be the same way.");
     VoicePlay("L040300006_03_060");
     MsgDisp("Honda","Thanks to that, this feels very nostalgic.
 Thanks.");
-    MsgDisp("主人公","(Ugh......
-I should've tried harder......)");
+    MsgDisp("主人公","(Ugh...
+I should've tried harder...)");
     break ;
     case 4:
     case 5:
@@ -84,7 +84,7 @@ the tricks, okay?");
     MsgDisp("Honda","If nothing else, we can try making them
 from cacao beans!
 I've always wanted to try.");
-    MsgDisp("主人公","Okay...... sorry I couldn't make them
+    MsgDisp("主人公","Okay... sorry I couldn't make them
 well.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -98,7 +98,7 @@ I'm happy enough from your feelings.");
     VoicePlay("L040300006_03_120");
     MsgDisp("Honda","So, I don't want Valentine's to be a bad
 memory for you.");
-    MsgDisp("主人公","｛本多＊＊｝......
+    MsgDisp("主人公","｛本多＊＊｝...
 Thank you.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -107,8 +107,8 @@ Thank you.");
     MsgDisp("Honda","Why are you thanking me?
 I should be thanking you.
 Thanks for trying your best.");
-    MsgDisp("主人公","(｛本多＊＊｝ is so nice......
-I wish I did better......)");
+    MsgDisp("主人公","(｛本多＊＊｝ is so nice...
+I wish I did better...)");
     break ;
     default :
     DbgAssert(1);

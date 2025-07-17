@@ -32,7 +32,7 @@ ChMotion(3,5);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_110");
 MsgDisp("Honda","Chemistry!");
-MsgDisp("主人公","(That surprised me......)");
+MsgDisp("主人公","(That surprised me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

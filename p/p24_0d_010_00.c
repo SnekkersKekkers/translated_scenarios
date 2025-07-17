@@ -59,7 +59,7 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P240D01000_21_010");
 MsgDisp("Michiru","Then, I would've been pink angel.
-Love......Guardian. Hehe, sounds good.");
+Love...Guardian. Hehe, sounds good.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

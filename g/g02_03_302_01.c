@@ -24,7 +24,7 @@ ChEye(3,2);
 VoicePlay("G020330201_03_030");
 MsgDisp("Honda","I was just trying to stay cool and move
 comfortably.");
-MsgDisp("主人公","I understand your feelings......");
+MsgDisp("主人公","I understand your feelings...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -54,7 +54,7 @@ MsgDisp("Honda","But unfortunately, it was just that one
 time. They asked me to understand their
 position too, so");
 MsgDisp("主人公","(He got asked by the teacher to understand
-their position...... That's so typical of
+their position... That's so typical of
 ｛本多＊＊｝ huh?)");
 BGMStop();
 MsgClose();

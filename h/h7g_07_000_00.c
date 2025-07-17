@@ -37,10 +37,10 @@ VoicePlay("H8G0700000_07_040");
 MsgDisp("Mikage","If that's the path you choose for
 yourself, then go for it.
 I'll be cheering you on, okay?");
-MsgDisp("主人公","Yes......!
+MsgDisp("主人公","Yes...!
 Thank you very much.");
 MsgDisp("主人公","(I'm happy that my efforts and
-achievements are being recognized......
+achievements are being recognized...
 I'm glad I worked hard in handicrafts
 club!)");
 MsgClose();

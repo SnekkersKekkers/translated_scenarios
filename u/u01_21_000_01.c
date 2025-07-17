@@ -10,7 +10,7 @@ switch (ChPrmGet(21,6)){
     case 5:
     ScrFadeIn(0);
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","Phone call......
+    MsgDisp("主人公","Phone call...
 Oh, it's ｛みちる＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
@@ -23,7 +23,7 @@ What's up?");
     VoicePlay("U012100001_21_010");
     MsgDisp("Michiru","Today if you're free, would you like to go
 to the planetarium with me?");
-    MsgSel("Sure, let's go!","Ahh, sorry. I can't today......");
+    MsgSel("Sure, let's go!","Ahh, sorry. I can't today...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("U012100001_21_020");
@@ -36,13 +36,13 @@ See you there soon!");
         break ;
         case 1:
         VoicePlay("U012100001_21_030");
-        MsgDisp("Michiru","I see, how unfortunate......
+        MsgDisp("Michiru","I see, how unfortunate...
 Well then, maybe there will be another
 opportunity.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though she took the time to invite
-me......
+me...
 Maybe that was the wrong choice?)");
         break ;
         default :

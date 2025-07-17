@@ -26,7 +26,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(8);
-MsgDisp("主人公","(Hm......
+MsgDisp("主人公","(Hm...
 This is obligatory.)");
 MsgClose();
 ScrFadeOut(0,0);

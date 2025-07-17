@@ -44,19 +44,19 @@ You came to cheer me on?");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("H380400000_04_060");
-    MsgDisp("Nanatsumori","I think you'll be fine, but......
+    MsgDisp("Nanatsumori","I think you'll be fine, but...
 Don't get hurt, okay?");
     MsgDisp("主人公","Yeah, thanks.");
     VoicePlay("H380400000_04_070");
     MsgDisp("Nanatsumori","Don't overdo it either, okay?");
     MsgDisp("主人公","Y-Yeah.
 But, in order to win, I might need to,
-just a little......");
+just a little...");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("H380400000_04_080");
-    MsgDisp("Nanatsumori","Ah...... yeah, I see.
+    MsgDisp("Nanatsumori","Ah... yeah, I see.
 Sorry, that was uncalled for.");
     MsgDisp("主人公","That's not true!
 Thank you for worrying about me,
@@ -66,8 +66,8 @@ Thank you for worrying about me,
     ChMotion(4,0,1);
     VoicePlay("H380400000_04_090");
     MsgDisp("Nanatsumori","Yeah. I'll be cheering for you with
-everything I have. ......In my heart.");
-    MsgDisp("主人公","(｛七ツ森＊｝......
+everything I have. ...In my heart.");
+    MsgDisp("主人公","(｛七ツ森＊｝...
 Alright, I have to do my best!)");
     break ;
     default :

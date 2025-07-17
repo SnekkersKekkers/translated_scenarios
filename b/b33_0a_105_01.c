@@ -47,7 +47,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10501_01_030");
-MsgDisp("Kazama","ＯＫ.
+MsgDisp("Kazama","OK.
 ... What about you, Inori?");
 ChEye(6,1);
 ChMouth(6,0);

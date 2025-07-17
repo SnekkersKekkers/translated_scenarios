@@ -28,7 +28,7 @@ ChMotion(4,1,1);
 VoicePlay("E010420100_04_010");
 MsgDisp("Nanatsumori","I was fascinated by the doggo Sassa was
 walking.");
-MsgDisp("主人公","Doggo...... dog?");
+MsgDisp("主人公","Doggo... dog?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -64,7 +64,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("E010420100_04_040");
-MsgDisp("Nanatsumori","......Sorry, I'll pass on running.");
+MsgDisp("Nanatsumori","...Sorry, I'll pass on running.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);

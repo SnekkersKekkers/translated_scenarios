@@ -52,7 +52,7 @@ MsgDisp ( "Hiiragi","Haha.
 That's a good way to describe it.
 Let's eat while we watch your aura." ) ;
 MsgDisp ( "主人公","(It's hard to eat with these two staring
-at me......)" ) ;
+at me...)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

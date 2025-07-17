@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110610000_06_000");
-MsgDisp("Himuro","......");
+MsgDisp("Himuro","...");
 MsgDisp("主人公","｛氷室＊＊｝?
 Is something wrong?");
 ChEye(6,0);

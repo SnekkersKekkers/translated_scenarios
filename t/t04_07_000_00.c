@@ -21,7 +21,7 @@ NSSEye(7,6);
 NSSMouth(7,2);
 VoicePlay("T040700000_07_020");
 MsgDisp("Mikage","Hm? But wait? It'll be difficult to attend
-the reunion......");
+the reunion...");
 MsgDisp("主人公","Hehe!
 Why is that?
 I'm looking forward to it.");

@@ -32,7 +32,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Q100D00000_21_010");
 MsgDisp("Michiru","Indeed, it does look a lot like Principal
-Amanohashi's round glasses......");
+Amanohashi's round glasses...");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -52,7 +52,7 @@ VoicePlay("Q100D00000_21_030");
 MsgDisp("Michiru","Not now, though.
 When my uncle showed me an old photo, he
 had them.");
-MsgDisp("主人公","Huh......
+MsgDisp("主人公","Huh...
 How interesting.");
 MsgClose();
 ScrFadeOut(0);
@@ -85,6 +85,6 @@ When you're done, meet me at Mari♪");
 ChSet(21,0);
 VoicePlay("Q100D00000_21_050");
 MsgDisp("Michiru","Got it.");
-MsgDisp("主人公","......I'm the meeting point?");
+MsgDisp("主人公","...I'm the meeting point?");
 MsgClose();
 ScrFadeOut(0,0);

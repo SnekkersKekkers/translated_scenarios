@@ -69,7 +69,7 @@ Then, do as you'd like.");
         ChMotion(6,0);
         ChCheek(6,10);
         VoicePlay("B040624202_06_070");
-        MsgDisp("Himuro","..................");
+        MsgDisp("Himuro","......");
         MsgDisp("主人公","Huh?
 Your face is red.");
         ChEye(6,0);

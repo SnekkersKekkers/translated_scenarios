@@ -8,10 +8,10 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,30,2,1,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600002_06_000");
-    MsgDisp("Himuro","...... I didn't expect this result.
+    MsgDisp("Himuro","... I didn't expect this result.
 How humiliating.");
-    MsgDisp("主人公","(Ugh......
-Last......
+    MsgDisp("主人公","(Ugh...
+Last...
 We weren't in sync at all.)");
     break ;
     case 3:
@@ -19,15 +19,15 @@ We weren't in sync at all.)");
     ChOpen(6,30,2,0,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600002_06_010");
-    MsgDisp("Himuro","Haa......
+    MsgDisp("Himuro","Haa...
 We weren't in sync at all.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O030600002_06_020");
     MsgDisp("Himuro","Are we incompatible?");
-    MsgDisp("主人公","(Ugh......
-Last......
+    MsgDisp("主人公","(Ugh...
+Last...
 We weren't in sync at all.)");
     break ;
     case 4:
@@ -36,8 +36,8 @@ We weren't in sync at all.)");
     ChOpen(6,30,2,2,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600002_06_030");
-    MsgDisp("Himuro","......Haa.");
-    MsgDisp("主人公","｛氷室＊＊｝, sorry......
+    MsgDisp("Himuro","...Haa.");
+    MsgDisp("主人公","｛氷室＊＊｝, sorry...
 I couldn't match you well.");
     ChEye(6,2);
     ChMouth(6,0);
@@ -50,8 +50,8 @@ I couldn't match you either.");
     ChMotion(6,2);
     VoicePlay("O030600002_06_050");
     MsgDisp("Himuro","Even though I was pretty confident that I
-would be able to match with you......");
-    MsgDisp("主人公","(｛氷室＊＊｝......
+would be able to match with you...");
+    MsgDisp("主人公","(｛氷室＊＊｝...
 We weren't in sync at all.)");
     break ;
     default :

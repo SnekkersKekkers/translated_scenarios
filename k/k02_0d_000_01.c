@@ -30,7 +30,7 @@ I chose a present with my sister.
 Here you go▼");
 SEPlay("EV_SE_665");
 SEWait();
-MsgDisp("主人公","Wah......
+MsgDisp("主人公","Wah...
 Thank you!");
 VoicePlay("K020D00001_21_020");
 ChEye(21,4);

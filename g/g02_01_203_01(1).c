@@ -25,7 +25,7 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120301_01_030");
-MsgDisp("Kazama","Think about my side of things......");
+MsgDisp("Kazama","Think about my side of things...");
 MsgDisp("主人公","｛風真＊＊｝ there are many
 girls around you at school and Simon too,
 you know?");
@@ -64,10 +64,10 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020120301_01_080");
-MsgDisp("Kazama","......But, it's completely different for
+MsgDisp("Kazama","...But, it's completely different for
 you. Everyone likes you unconditionally.
 Your family background is irrelevant.");
-MsgDisp("主人公","That's not true......
+MsgDisp("主人公","That's not true...
 But, thank you.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -86,7 +86,7 @@ ChMouth(1,3);
 VoicePlay("G020120301_01_100");
 MsgDisp("Kazama","That's completely off, but thanks.");
 MsgDisp("主人公","(｛風真＊＊｝, you don't even know how
-popular you are......?)");
+popular you are...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

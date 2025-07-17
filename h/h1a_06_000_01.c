@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0600001_06_000");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝......");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -25,10 +25,10 @@ Nothing more than that.");
     VoicePlay("H1A0600001_06_020");
     MsgDisp("Himuro","But, being able to make it to a place like
 this deserves some credit.
-So...... head up.");
+So... head up.");
     MsgDisp("主人公","Yeah, thanks.");
     MsgDisp("主人公","(We lost, but I'm glad we made it
-here......)");
+here...)");
     break ;
     case 4:
     case 5:
@@ -36,8 +36,8 @@ here......)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A0600001_06_030");
-    MsgDisp("Himuro","......What, you're not crying?");
-    MsgDisp("主人公","｛氷室＊＊｝......");
+    MsgDisp("Himuro","...What, you're not crying?");
+    MsgDisp("主人公","｛氷室＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -53,7 +53,7 @@ ashamed to lose.");
 You enjoyed your youth.
 Isn't that enough?");
     MsgDisp("主人公","Yeah.
-Thank you, ｛氷室＊＊｝......");
+Thank you, ｛氷室＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -69,7 +69,7 @@ Just telling the truth.");
     MsgDisp("Himuro","You worked hard these three years.
 Rest up today.");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
-stayed as the baseball club manager......)");
+stayed as the baseball club manager...)");
     break ;
     default :
     DbgAssert(1);

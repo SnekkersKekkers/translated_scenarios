@@ -52,7 +52,7 @@ Thank goodness!)");
     ChEyeOpenLevel(8,10);
     ChCheek(8,8);
     VoicePlay("L040800004_08_050");
-    MsgDisp("Shirahane","Wow......
+    MsgDisp("Shirahane","Wow...
 Handmade chocolate!");
     MsgDisp("主人公","Yeah, I did my best to make it.");
     ChEye(8,4);
@@ -75,7 +75,7 @@ Really, thanks,
     ChMotion(8,0,1);
     VoicePlay("L040800004_08_080");
     MsgDisp("Shirahane","Looks so good, I wanna eat it right
-now......");
+now...");
     ChEye(8,4);
     ChMouth(8,0);
     ChMotion(8,4,1);
@@ -83,7 +83,7 @@ now......");
     VoicePlay("L040800004_08_090");
     MsgDisp("Shirahane","Hmm.
 But I'd need to eat it all.
-What a pickle......");
+What a pickle...");
     ChEyeOpenLevel(8,#1);
     MsgDisp("主人公","Hehe.
 But it can go bad, so eat it quick, okay?");
@@ -98,7 +98,7 @@ first!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     BGMStop();
     ChClose(8,0,30);
-    MsgDisp("主人公","(There he goes......
+    MsgDisp("主人公","(There he goes...
 But, he seemed really happy!
 Thank goodness!)");
     break ;

@@ -11,8 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C01_RYOUTA_KOKU",0.01);
 ChOpen(1,254,0,0,3,#1,#1,0,0,0,120);
-MsgDisp("主人公","｛風真＊＊｝......!
-Why......");
+MsgDisp("主人公","｛風真＊＊｝...!
+Why...");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -22,7 +22,7 @@ VoicePlay("T020121000_01_010");
 MsgDisp("Kazama","I hurriedly came to school from the
 airport.
 Sorry, I left you alone.");
-MsgDisp("主人公","......No, I wasn't alone.");
+MsgDisp("主人公","...No, I wasn't alone.");
 ChEye(1,0);
 ChMouth(1,2);
 MsgDisp("主人公","I came over here because I heard the bell
@@ -32,13 +32,13 @@ ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("T020121000_01_020");
-MsgDisp("Kazama","∋ Seriously......?");
+MsgDisp("Kazama","∋ Seriously...?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020121000_01_030");
 MsgDisp("Kazama","I heard the bells too.
-With those guys......");
+With those guys...");
 MsgDisp("主人公","Eh?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -74,7 +74,7 @@ VoicePlay("T020121000_01_070");
 MsgDisp("Kazama","I was supposed to train at my grandpa's
 shop for three years and then go back to
 England.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -89,7 +89,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020121000_01_090");
 MsgDisp("Kazama","I feel nostalgic, happy, but also
-frustrated......");
+frustrated...");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -98,7 +98,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("T020121000_01_100");
 MsgDisp("Kazama","I'm overflooded with the emotions of being
 separated from the girl I loved and the
-memories of you......");
+memories of you...");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 Wait(60,0);
@@ -107,7 +107,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020121000_01_110");
-MsgDisp("Kazama","......Digging for sweet potatoes at
+MsgDisp("Kazama","...Digging for sweet potatoes at
 kindergarten. A big smile stained with mud
 from that day.");
 ChEye(1,2);
@@ -115,7 +115,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020121000_01_120");
-MsgDisp("Kazama","......Digging for sweet potatoes at
+MsgDisp("Kazama","...Digging for sweet potatoes at
 kindergarten. A big smile stained with mud
 from that day.");
 ChMotion(1,0,1);
@@ -127,7 +127,7 @@ VoicePlay("T020121000_01_130");
 MsgDisp("Kazama","We were in this church, you were blowing
 on my pinwheel toy, with an intent look on
 your face.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -143,7 +143,7 @@ VoicePlay("T020121000_01_150");
 MsgDisp("Kazama","I couldn't bring myself to tell him I was
 staying here.
 But I... finally told him.");
-MsgDisp("主人公","......Okay.");
+MsgDisp("主人公","...Okay.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -175,4 +175,4 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,2);
 VoicePlay("T020121000_01_190");
-MsgDisp("Kazama","Please......marry me.");
+MsgDisp("Kazama","Please...marry me.");

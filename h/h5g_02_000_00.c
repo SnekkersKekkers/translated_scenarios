@@ -46,7 +46,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
 SEWait();
 MsgDisp("主人公","Thank you, ｛颯砂＊＊｝.");
-MsgDisp("主人公","(That makes me happy......
+MsgDisp("主人公","(That makes me happy...
 I'm glad I practiced so hard for brass
 band!)");
 MsgClose();

@@ -45,7 +45,7 @@ MsgDisp("Hikaru","∈");
 ChEye(31,0);
 ChMouth(31,0);
 VoicePlay("F102220002_31_020");
-MsgDisp("Goro","............");
+MsgDisp("Goro","......");
 MsgDisp("主人公","Umm... it's nothing.");
 ChEye(31,3);
 ChMouth(31,3);

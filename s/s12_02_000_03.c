@@ -81,7 +81,7 @@ you'll do well.");
     ChEyeOpenLevel(2,0);
     VoicePlay("S120200003_02_060");
     MsgDisp("Sassa","Haha, you're a strange person.");
-    MsgDisp("主人公","Um, did I say something weird......?");
+    MsgDisp("主人公","Um, did I say something weird...?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -95,7 +95,7 @@ start to believe I can do it.");
     VoicePlay("S120200003_02_080");
     MsgDisp("Sassa","But when other people say things like
 that, it feels ambiguous.");
-    MsgDisp("主人公","I see......
+    MsgDisp("主人公","I see...
 I'm sorry for saying something weird.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -104,13 +104,13 @@ I'm sorry for saying something weird.");
     MsgDisp("Sassa","Don't be. For stubborn guys like me who do
 everything by themselves, I like just
 listening you.");
-    MsgDisp("主人公","......Why?");
+    MsgDisp("主人公","...Why?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     ChCheek(2,10);
     VoicePlay("S120200003_02_100");
-    MsgDisp("Sassa","That's because for me......
+    MsgDisp("Sassa","That's because for me...
 You are a special person.");
     MsgDisp("主人公","Huh?");
     ChEye(2,0);
@@ -125,7 +125,7 @@ Cya.");
     ChClose(2);
     MsgDisp("主人公","(｛颯砂＊＊｝ is also competing this year.
 Even if it's only a little, I also want to
-grow stronger......)");
+grow stronger...)");
     break ;
     default :
     DbgAssert(1);

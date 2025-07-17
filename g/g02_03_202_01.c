@@ -42,19 +42,19 @@ ChMotion(3,4);
 VoicePlay("G020320201_03_060");
 MsgDisp("Honda","I think you noticed something special
 about Mii-kun that I haven't seen.
-That's why you......");
+That's why you...");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,2);
 VoicePlay("G020320201_03_070");
-MsgDisp("Honda","Ugh......
+MsgDisp("Honda","Ugh...
 I'm feeling uneasy.");
-MsgDisp("主人公","Umm......are you alright?");
+MsgDisp("主人公","Umm...are you alright?");
 ChEye(3,5);
 ChMouth(3,5);
 ChMotion(3,5);
 VoicePlay("G020320201_03_080");
-MsgDisp("Honda","Wah......
+MsgDisp("Honda","Wah...
 Now my heart is racing!");
 MsgDisp("主人公","Ehh?");
 ChEye(3,3);
@@ -70,9 +70,9 @@ ChMotion(3,2);
 VoicePlay("G020320201_03_100");
 MsgDisp("Honda","So, yeah.
 I don't think I can just step aside for
-Mii-kun......");
+Mii-kun...");
 MsgDisp("主人公","(I didn't know ｛本多＊＊｝ felt
-this way......)");
+this way...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

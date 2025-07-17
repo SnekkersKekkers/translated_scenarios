@@ -3,7 +3,7 @@ ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040202302_02_000");
 MsgDisp("Sassa","It's like in those exciting sports anime.
 A strong opponent waits across the sea!
-Feels like that sort of scene......");
+Feels like that sort of scene...");
 MsgSel("Is that how ｛颯砂＊＊｝ also feels?","Can you picture the face of your rival?","｛颯砂＊＊｝ won't lose to anyone∈");
 switch (MsgSelRsltGet()){
     case 0:
@@ -42,8 +42,8 @@ My only rival is myself.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040202302_02_030");
-        MsgDisp("Sassa","...... Ah, thank you.
-It was just a joke, though......");
+        MsgDisp("Sassa","... Ah, thank you.
+It was just a joke, though...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -53,7 +53,7 @@ It was just a joke, though......");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040202302_02_040");
-        MsgDisp("Sassa","Uhm......
+        MsgDisp("Sassa","Uhm...
 I don't plan on losing either.");
         MsgDisp("主人公","Yeah, of course.");
         ChEye(2,0);
@@ -61,7 +61,7 @@ I don't plan on losing either.");
         ChMotion(2,0);
         VoicePlay("B040202302_02_050");
         MsgDisp("Sassa","Haha, that's reassuring.");
-        MsgDisp("主人公","I truly believe that......");
+        MsgDisp("主人公","I truly believe that...");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);

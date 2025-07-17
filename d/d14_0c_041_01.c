@@ -59,7 +59,7 @@ VoicePlay("D140C04101_05_040");
 MsgDisp("Hiiragi","Ah, no. It's because of everyone here.
 This is the first time I've had this sort
 of school life.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

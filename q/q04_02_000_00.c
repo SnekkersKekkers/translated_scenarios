@@ -47,14 +47,14 @@ So you left the hotel?");
     ChMotion(2,3);
     VoicePlay("Q040200000_02_030");
     MsgDisp("Sassa","I was just running around the hotel.");
-    MsgDisp("主人公","So you left......");
+    MsgDisp("主人公","So you left...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("Q040200000_02_040");
     MsgDisp("Sassa","I mean, wouldn't it be annoying if I ran
 inside the lobby?
-...... Anyways, what's up?");
+... Anyways, what's up?");
     MsgDisp("主人公","Oh, right.
 If you're fine with it, do you want to go
 around together for today's free period?");

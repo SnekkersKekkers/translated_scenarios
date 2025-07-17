@@ -2,7 +2,7 @@ BGOpen("ho210",2);
 ScrFadeIn(0);
 MsgDisp("主人公","(Today marks the end of my high school
 life.
-Tomorrow is the graduation ceremony......)");
+Tomorrow is the graduation ceremony...)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc120",0);
@@ -84,25 +84,25 @@ ScrFadeOut(0);
 BGOpen("sc231",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Now, looking back, it really went by so
-quickly......");
+quickly...");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ex081",0);
 ScrFadeIn(0);
 MsgDisp("主人公","There were fun times and hard times too.
-A lot happened......");
+A lot happened...");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc501",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Now it will become just a memory......");
+MsgDisp("主人公","Now it will become just a memory...");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc211",0);
 ScrFadeIn(0);
 MsgDisp("主人公","I had wonderful days at Habataki High
 School. I will never forget them. Thank
-you......");
+you...");
 BGMStop(3);
 MsgClose();
 ScrFadeOut(0);

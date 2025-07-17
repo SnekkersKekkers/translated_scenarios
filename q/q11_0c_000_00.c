@@ -95,7 +95,7 @@ VoicePlay("Q110C00000_05_040");
 MsgDisp("Hiiragi","Yes. This is for you. It's a beadlo. We
 painted it.");
 MsgDisp("主人公","Eh, for me?
-So cute......!");
+So cute...!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -23,13 +23,13 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B360550101_05_010");
 MsgDisp("Hiiragi","I was thinking of having some tea at a
 coffee shop at the shopping district,
-but......");
+but...");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550101_05_020");
 MsgDisp("Hiiragi","When I'm talking to you, I lose sight of
 my surroundings.
-I'm sorry......");
+I'm sorry...");
 ChEyeOpenLevel(5,9);
 MsgDisp("主人公","No problem.
 I had a good time talking to you too, so
@@ -60,7 +60,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360550101_05_050");
-MsgDisp("Hiiragi","......Haha, didn't you say the same thing
+MsgDisp("Hiiragi","...Haha, didn't you say the same thing
 earlier?");
 MsgDisp("主人公","Hehe, that's true.");
 ChEye(5,2);
@@ -81,7 +81,7 @@ ChEye(5,3);
 VoicePlay("B360550101_05_080");
 MsgDisp("Hiiragi","Or maybe I've just grown into an old man?");
 MsgDisp("主人公","(｛柊＊＊＊｝, you sound like Urashima
-Taro......)");
+Taro...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

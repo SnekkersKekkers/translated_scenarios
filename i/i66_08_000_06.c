@@ -15,7 +15,7 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,1,1);
     VoicePlay("I660800006_08_000");
     MsgDisp("Shirahane","Aah!
-...... They left!");
+... They left!");
     MsgDisp("主人公","Hm?");
     ChEye(8,2);
     ChMouth(8,4);
@@ -24,21 +24,21 @@ switch (ChPrmGet(8,6)){
     MsgDisp("Shirahane","I was making their new membership card
 jus' now.");
     MsgDisp("主人公","Huh∋
-W-What should we do......");
+W-What should we do...");
     ChEye(8,2);
     ChMouth(8,0);
     VoicePlay("I660800006_08_020");
     MsgDisp("Shirahane","There's no helping that they left.
 I'll look 'em up and give 'em a call.");
-    MsgDisp("主人公","I'm sorry......");
+    MsgDisp("主人公","I'm sorry...");
     ChEye(8,4);
     ChMotion(8,0,1);
     VoicePlay("I660800006_08_030");
     MsgDisp("Shirahane","It's rare seeing ya make a mistake like
 that.
 Be careful from now on, yeah?");
-    MsgDisp("主人公","(I let my guard down......
-I'll have to get it together......!)");
+    MsgDisp("主人公","(I let my guard down...
+I'll have to get it together...!)");
     break ;
     case 4:
     case 5:
@@ -54,7 +54,7 @@ I'll have to get it together......!)");
     ChMotion(8,1,1);
     VoicePlay("I660800006_08_040");
     MsgDisp("Shirahane","Aah!
-...... I didn't make it.");
+... I didn't make it.");
     MsgDisp("主人公","Hm?");
     ChEye(8,2);
     ChMouth(8,0);
@@ -63,7 +63,7 @@ I'll have to get it together......!)");
     MsgDisp("Shirahane","This.
 It's that customer's membership card.
 I was makin' it just now.");
-    MsgDisp("主人公","I didn't know......
+    MsgDisp("主人公","I didn't know...
 I'm sorry.");
     ChEye(8,3);
     ChMouth(8,4);
@@ -74,13 +74,13 @@ I'm sorry.");
 Sorry.");
     MsgDisp("主人公","No, it's not your fault.
 I would've noticed if I had looked over at
-you, ｛大地＊＊｝......");
+you, ｛大地＊＊｝...");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800006_08_070");
-    MsgDisp("Shirahane","At me...... that's it!");
+    MsgDisp("Shirahane","At me... that's it!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -88,7 +88,7 @@ you, ｛大地＊＊｝......");
     MsgDisp("Shirahane","Then from now on, you should jus' keep
 making eye contact with me!
 Yeah?");
-    MsgDisp("主人公","(｛大地＊＊｝ seems happy......
+    MsgDisp("主人公","(｛大地＊＊｝ seems happy...
 I should pay attention to my surroundings
 more carefully.)");
     break ;

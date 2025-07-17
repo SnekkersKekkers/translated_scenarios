@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040206502_02_000");
 MsgDisp("Sassa","The firework artists are amazing.
 It keeps evolving every year.");
-MsgSel("Yeah, it's really fun to watch.","Is it really that different?","Sniffsniff......It even smells different.");
+MsgSel("Yeah, it's really fun to watch.","Is it really that different?","Sniffsniff...It even smells different.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -34,7 +34,7 @@ the rings.");
         ChMotion(2,4);
         VoicePlay("B040206502_02_020");
         MsgDisp("Sassa","Eh?
-Maybe I'm wrong......");
+Maybe I'm wrong...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -44,7 +44,7 @@ Maybe I'm wrong......");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040206502_02_030");
-        MsgDisp("Sassa","Mo, I guess it's a bit weird......
+        MsgDisp("Sassa","Mo, I guess it's a bit weird...
 If it's only a small change, you wouldn't
 be able to tell at a glance.");
         MsgDisp("主人公","｛颯砂＊＊｝?");
@@ -61,7 +61,7 @@ records.");
         VoicePlay("B040206502_02_050");
         MsgDisp("Sassa","So I guess I empathize with the fireworks
 artist a little.");
-        MsgDisp("主人公","I see......");
+        MsgDisp("主人公","I see...");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3,1);

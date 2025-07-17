@@ -21,7 +21,7 @@ MsgDisp("Honda","No matter how hard I struggled, seawater
 kept rushing into my mouth, and I couldn't
 breathe. Eventually, everything went dark
 before my eyes.");
-MsgDisp("主人公","Eh......and then?");
+MsgDisp("主人公","Eh...and then?");
 ChEye(3,4);
 VoicePlay("G020340001_03_030");
 MsgDisp("Honda","I woke up feeling suffocated.
@@ -43,7 +43,7 @@ VoicePlay("G020340001_03_050");
 MsgDisp("Honda","Yeah. I learned the hard way that stacking
 up a tower of unread books by my bedside
 is dangerous.");
-MsgDisp("主人公","Yeah...... make sure to organize them
+MsgDisp("主人公","Yeah... make sure to organize them
 properly, okay?");
 ChEye(3,2);
 ChMouth(3,4);

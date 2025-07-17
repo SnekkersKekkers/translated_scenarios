@@ -9,4 +9,4 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D140701061_07_010");
-MsgDisp("Mikage","Maybe my yearly bonus will increase......");
+MsgDisp("Mikage","Maybe my yearly bonus will increase...");

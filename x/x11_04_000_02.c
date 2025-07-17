@@ -32,7 +32,7 @@ The whole school is talking about you.
 That's great, congratulations.");
     MsgDisp("主人公","Thank you!");
     MsgDisp("主人公","(I'm glad I worked hard in the Judo Club
-......!)");
+...!)");
     break ;
     default :
     DbgAssert(1);

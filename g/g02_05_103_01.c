@@ -10,7 +10,7 @@ VoicePlay("G020510301_05_010");
 MsgDisp("Hiiragi","It was rather troubling after you left to
 go home, you know?");
 VoicePlay("G020510301_05_020");
-MsgDisp("Hiiragi","The troupe members saw you...... and
+MsgDisp("Hiiragi","The troupe members saw you... and
 bombarded me with questions");
 MsgDisp("主人公","Eh, what kind of questions?");
 ChEye(5,2);
@@ -29,7 +29,7 @@ ChEye(5,4);
 VoicePlay("G020510301_05_050");
 MsgDisp("Hiiragi","I wasn't even able to answer the last
 question adequately.");
-MsgDisp("主人公","The last......question?");
+MsgDisp("主人公","The last...question?");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("G020510301_05_060");
@@ -38,7 +38,7 @@ answer that.");
 ChMotion(5,0);
 VoicePlay("G020510301_05_070");
 MsgDisp("Hiiragi","Well, what is your answer?");
-MsgDisp("主人公","(Ummm......
+MsgDisp("主人公","(Ummm...
 If you say it like that, I'll be
 troubled!)");
 BGMStop();

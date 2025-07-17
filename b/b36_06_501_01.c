@@ -13,7 +13,7 @@ ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360650101_06_000");
 MsgDisp("Himuro","You're quite popular, huh?");
-MsgDisp("主人公","......What do you mean?");
+MsgDisp("主人公","...What do you mean?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -29,7 +29,7 @@ VoicePlay("B360650101_06_020");
 MsgDisp("Himuro","What?
 You didn't realize it?
 Everyone's eyes were on you.");
-MsgDisp("主人公","I guess......?");
+MsgDisp("主人公","I guess...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -49,9 +49,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650101_06_050");
-MsgDisp("Himuro","......But I still don't know the most
+MsgDisp("Himuro","...But I still don't know the most
 important part.");
-MsgDisp("主人公","Important part......?");
+MsgDisp("主人公","Important part...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -70,13 +70,13 @@ VoicePlay("B360650101_06_080");
 MsgDisp("Himuro","Who are you looking at?
 Is it one of those two?
 Or someone else?");
-MsgDisp("主人公","Right now......
+MsgDisp("主人公","Right now...
 I'm looking at ｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650101_06_090");
-MsgDisp("Himuro","Eh......");
+MsgDisp("Himuro","Eh...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -88,10 +88,10 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B360650101_06_110");
-MsgDisp("Himuro","...... Thanks.
+MsgDisp("Himuro","... Thanks.
 I almost lost sight of something
 important.");
-MsgDisp("主人公","(｛氷室＊＊｝......)");
+MsgDisp("主人公","(｛氷室＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

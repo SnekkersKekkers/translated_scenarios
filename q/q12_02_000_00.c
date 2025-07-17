@@ -71,7 +71,7 @@ It was so much fun going around with you,
     case 4:
     case 5:
     MsgDisp("主人公","So tomorrow is the end of the school
-trip......
+trip...
 It went by so fast, didn't it?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -86,7 +86,7 @@ I also enjoyed looking with you,
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("Q120200000_02_080");
-    MsgDisp("Sassa","...... Ah, wait.
+    MsgDisp("Sassa","... Ah, wait.
 There's one thing left.");
     MsgDisp("主人公","Eh, what?");
     ChEye(2,0);
@@ -111,9 +111,9 @@ Me too?");
     ChMotion(2,4);
     VoicePlay("Q120200000_02_110");
     MsgDisp("Sassa","Bike renting is also an option.
-......would be a good idea, right?");
+...would be a good idea, right?");
     MsgDisp("主人公","Hehe, yeah!");
-    MsgDisp("主人公","( ｛颯砂＊＊｝......
+    MsgDisp("主人公","( ｛颯砂＊＊｝...
 I hope I can come back sometime.)");
     break ;
     default :

@@ -2,7 +2,7 @@ BGOpen("sc310",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm sure ｛御影＊＊｝
 said he would give me the handout for the
-extracurricular lesson......)");
+extracurricular lesson...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -17,7 +17,7 @@ BGMPlay("BGM_C07_MIKAGE_A");
 BGOpen("ev007",0);
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, I knew it......");
+MsgDisp("主人公","Ah, I knew it...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -47,7 +47,7 @@ ChMotion(7,0);
 VoicePlay("G110700200_07_030");
 MsgDisp("Mikage","Yeah, I get scolded for being in these
 clothes even when I haven't done anything.");
-MsgDisp("主人公","Haha. ......Ah, before I forget, I came to
+MsgDisp("主人公","Haha. ...Ah, before I forget, I came to
 get the handout for the extracurricular
 lesson.");
 ChEye(7,0);

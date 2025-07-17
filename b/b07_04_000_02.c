@@ -21,7 +21,7 @@ ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("B070400000_04_080");
 MsgDisp("Nanatsumori","I can also handle spicy stuff pretty well.");
-MsgDisp("主人公","Heeh... amazing!");
+MsgDisp("主人公","Ehhh... amazing!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);

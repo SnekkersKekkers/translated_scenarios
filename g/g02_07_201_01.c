@@ -14,7 +14,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020720101_07_020");
-MsgDisp("Mikage","......Maybe the mysterious power here is
+MsgDisp("Mikage","...Maybe the mysterious power here is
 real?");
 MsgDisp("主人公","If it is, that's amazing.");
 ChEye(7,0);
@@ -34,9 +34,9 @@ ChMouth(7,0);
 ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020720101_07_050");
-MsgDisp("Mikage","Is that so......
-That......
-...... I understand.");
+MsgDisp("Mikage","Is that so...
+That...
+... I understand.");
 MsgDisp("主人公","You heard my inner voice?");
 ChEye(7,0);
 ChMouth(7,4);
@@ -52,7 +52,7 @@ ChMotion(7,4);
 VoicePlay("G020720101_07_070");
 MsgDisp("Mikage","Who knows?
 That's just how it sounded to me.");
-MsgDisp("主人公","(I will return......
+MsgDisp("主人公","(I will return...
 Does that mean to
 ｛御影＊＊｝'s side?)");
 BGMStop();

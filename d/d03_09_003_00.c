@@ -3,12 +3,12 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I wonder if that \"Kuya\" person is here.
 I'd love to get an interview but I'd
-especially like to thank him......)");
+especially like to thank him...)");
 MsgDisp("主人公","(Will he show up again if there is someone
 in trouble like last time?)");
 MsgDisp("主人公","(But such a convenient thing like that
-definitely won't happen, huh......)");
-MsgDisp("主人公","Sigh...... \"
+definitely won't happen, huh...)");
+MsgDisp("主人公","Sigh... \"
 Kuya\"-san, I wonder where you are?");
 VoicePlay("D030900300_09_000");
 MsgDisp("Kuya?","You called?");
@@ -23,7 +23,7 @@ StlMouth(9,0);
 BGMPlay("BGM_C09_KUYA_B",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah!
-You're......");
+You're...");
 VoicePlay("D030900300_09_010");
 MsgDisp("Kuya?","You called?
 Maybe you're in some kind of trouble?");
@@ -38,7 +38,7 @@ MsgDisp("Kuya?","I heard it from someone I know.
 Someone in the Habatcher editorial
 department.");
 MsgDisp("Kuya?","To be honest, she's my older sister.");
-MsgDisp("主人公","Someone in the editorial department......
+MsgDisp("主人公","Someone in the editorial department...
 Do you maybe mean Mayo Shirahane?");
 StlEyeOpenLevel(9,5);
 VoicePlay("D030900300_09_040");
@@ -50,7 +50,7 @@ I just wanted to thank you.");
 StlEye(9,0);
 VoicePlay("D030900300_09_050");
 MsgDisp("Kuya?","Thank me?
-For what, I wonder......");
+For what, I wonder...");
 MsgDisp("主人公","The day we first met, you helped me when I
 fell——");
 StlEye(9,1);
@@ -63,7 +63,7 @@ VoicePlay("D030900300_09_070");
 MsgDisp("Kuya?","You're still worried about that?
 You're so polite.");
 MsgDisp("主人公","(It was a kiss on the cheek, now I
-remember......)");
+remember...)");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -76,10 +76,10 @@ ChMotion(9,4,1);
 VoicePlay("D030900300_09_080");
 MsgDisp("Kuya?","Your face is red.
 Are you okay?");
-MsgDisp("主人公","(Woah......
+MsgDisp("主人公","(Woah...
 So close!)");
 MsgDisp("主人公","Uhm, I'm fine!
-By the way, that uniform......");
+By the way, that uniform...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.3,0.5);
 ChClose(9,0,30);
@@ -101,14 +101,14 @@ A second year student at Hanegasaki
 Academy.");
 MsgDisp("主人公","I'm ｛主人公姓名｝. A first
 year student at Habataki High School.
-Uhm......Shirahane-san?");
+Uhm...Shirahane-san?");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900300_09_110");
 MsgDisp("Kuya","Just Kuya is fine.
 That's what everyone calls me.");
-MsgDisp("主人公","Then......Kuya-san. I want to thank you
+MsgDisp("主人公","Then...Kuya-san. I want to thank you
 again for helping me. I'm really grateful!");
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_120");
@@ -134,7 +134,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900300_09_150");
-MsgDisp("Kuya","But......I guess today I have a situation
+MsgDisp("Kuya","But...I guess today I have a situation
 of my own to deal with? It's a strange
 feeling.");
 MsgDisp("主人公","Hehe.");
@@ -146,7 +146,7 @@ MsgDisp("Kuya","So you're working part-time as a
 journalist for the Habatcher editorial
 department, right?");
 MsgDisp("主人公","Yep, that's right.
-So, you know......");
+So, you know...");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -166,7 +166,7 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
-MsgDisp("主人公","(He left......
+MsgDisp("主人公","(He left...
 It seems like getting an interview with
 Kuya-san might take a while?)");
 MsgClose();

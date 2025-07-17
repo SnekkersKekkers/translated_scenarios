@@ -17,10 +17,10 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("H8G0400000_04_020");
-MsgDisp("Nanatsumori","It's a joke...... well, not really.
+MsgDisp("Nanatsumori","It's a joke... well, not really.
 Seriously, being awarded as a model
 student is amazing.");
-MsgDisp("主人公","You're making me a little shy......");
+MsgDisp("主人公","You're making me a little shy...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -29,6 +29,6 @@ MsgDisp("Nanatsumori","This award, and you doing stuff like that
 too, all of it just makes you so dazzling
 to me. Congrats on the award.");
 MsgDisp("主人公","(I'm really glad I stayed in the student
-council......!)");
+council...!)");
 MsgClose();
 ScrFadeOut(0,0);

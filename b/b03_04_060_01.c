@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,2);
     VoicePlay("B030406001_04_010");
-    MsgDisp("Nanatsumori","...... Sure thing.");
+    MsgDisp("Nanatsumori","... Sure thing.");
     break ;
     case 1:
     ChEye(4,0);

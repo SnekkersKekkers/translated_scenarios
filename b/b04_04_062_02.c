@@ -79,7 +79,7 @@ The person I like...");
         ChMotion(4,0,1);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040406202_04_070");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         ChEye(4,4);
         ChMouth(4,1);
         ChEyeOpenLevel(4,10);

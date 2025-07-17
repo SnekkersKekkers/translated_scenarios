@@ -13,7 +13,7 @@ I heard you did a really difficult move.
 Just don't do anything too dangerous.");
     MsgDisp("主人公","Yeah, thanks!");
     MsgDisp("主人公","(Receiving a compliment makes me
-happy......
+happy...
 I'll try not to worry him too much!)");
     break ;
     case 4:
@@ -32,7 +32,7 @@ during the practice match.");
     ChMotion(1,0);
     VoicePlay("X110100003_01_020");
     MsgDisp("Kazama","I have no doubt it was a beautiful
-victory...... I heard there were a lot of
+victory... I heard there were a lot of
 spectators at your performance.");
     MsgDisp("主人公","(Yay!
 I'm glad I've been working hard at the

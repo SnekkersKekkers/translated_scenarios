@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030501000_05_000");
 MsgDisp("Hiiragi","Where to?");
-MsgDisp("主人公","Uhm......");
+MsgDisp("主人公","Uhm...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

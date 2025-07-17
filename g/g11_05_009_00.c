@@ -1,7 +1,7 @@
 BGOpen("sc210",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(What nice weather......
+MsgDisp("主人公","(What nice weather...
 I still have some break time, so maybe
 I'll do some sketching?)");
 MsgDisp("","　　　　　　　　　　 ・
@@ -40,7 +40,7 @@ Wait(10,0);
 ChMouth(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500900_05_020");
-MsgDisp("Hiiragi","............");
+MsgDisp("Hiiragi","......");
 MsgDisp("主人公","Ahaha.
 ｛柊＊＊＊｝'s jokes are funny. '");
 ChEyeOpenLevel(5,0);
@@ -94,7 +94,7 @@ SEPlay("EV_SE_712");
 VoicePlay("G110500900_05_070");
 MsgDisp("Hiiragi","No, I meant the one in your work.");
 MsgDisp("主人公","(I have a feeling he'll see it some
-day......)");
+day...)");
 BGMStop();
 SEStop("EV_SE_712",1);
 MsgClose();

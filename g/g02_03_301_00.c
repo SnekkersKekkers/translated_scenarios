@@ -22,14 +22,14 @@ ChMotion(3,4);
 VoicePlay("G020330100_03_020");
 MsgDisp("Honda","It wasn't like I was disliked, but at the
 same time, I wasn't warmly welcomed
-either......something like that?");
-MsgDisp("主人公","Did that happen......?");
+either...something like that?");
+MsgDisp("主人公","Did that happen...?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020330100_03_030");
 MsgDisp("Honda","I didn't understand why the atmosphere was
-like that, so after that......I think I
+like that, so after that...I think I
 talked about the history of meteorological
 observations.");
 MsgDisp("主人公","Ah!
@@ -54,7 +54,7 @@ VoicePlay("G020330100_03_060");
 MsgDisp("Honda","So I'll hold back for a while!
 I'll refrain from that unless it's with
 you!");
-MsgDisp("主人公","(Can he really hold back......
+MsgDisp("主人公","(Can he really hold back...
 It might be tough for
 ｛本多＊＊｝? )");
 BGMStop();

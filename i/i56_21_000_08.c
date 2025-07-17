@@ -42,7 +42,7 @@ VoicePlay("I562100008_21_030");
 MsgDisp("Michiru","You've already become such a charismatic
 saleswoman, hm?
 I'm counting on you.");
-MsgDisp("主人公","(To be complimented in such a way......
+MsgDisp("主人公","(To be complimented in such a way...
 I'm so happy!)");
 BGMStop();
 MsgClose();

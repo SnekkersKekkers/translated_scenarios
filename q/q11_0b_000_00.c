@@ -13,7 +13,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("Q110B00000_03_000");
-MsgDisp("Honda","Phew......
+MsgDisp("Honda","Phew...
 The castella was so yummy!");
 MsgDisp("主人公","Yeah!");
 ChEye(1,0);
@@ -46,13 +46,13 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q110B00000_01_010");
-MsgDisp("Kazama","Don't go back to the start......");
+MsgDisp("Kazama","Don't go back to the start...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 ChMouthOpenLevel(4,5);
 VoicePlay("Q110B00000_04_010");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 MsgDisp("主人公","Hey, may I go to that craft shop over
 there?");
 ChEye(1,0);
@@ -77,14 +77,14 @@ ChMotion(4,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","There were lot's of stuff, like pottery
 and tortoiseshell accessories, huh?
-......but all expensive for a
+...but all expensive for a
 high-schooler.");
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("Q110B00000_01_030");
 MsgDisp("Kazama","They're all masterpieces craftsmen put a
 lot of care into, so it can't be helped.");
-MsgDisp("主人公","Yeah, that's true......
+MsgDisp("主人公","Yeah, that's true...
 They were all so beautiful.");
 ChEye(1,0);
 ChEye(3,1);
@@ -92,7 +92,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q110B00000_03_030");
 MsgDisp("Honda","Well, how about this?");
-MsgDisp("主人公","...... So beautiful!
+MsgDisp("主人公","... So beautiful!
 This is a beadlo, right?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -103,7 +103,7 @@ Our masterpiece.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Eh?
-With our, you mean......");
+With our, you mean...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -128,7 +128,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q110B00000_01_050");
 MsgDisp("Kazama","Do you like it?");
-MsgDisp("主人公","Yes......!
+MsgDisp("主人公","Yes...!
 Thanks, everyone!");
 MsgDisp("主人公","(I got gifted a wonderful memory!)");
 BGMStop();

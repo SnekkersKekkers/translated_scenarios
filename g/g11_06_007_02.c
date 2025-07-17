@@ -16,7 +16,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("G110600702_06_010");
-MsgDisp("Himuro","......Do as you like.");
+MsgDisp("Himuro","...Do as you like.");
 SEStop("EV_SE_SCHOOL_002",2);
 MsgClose();
 ScrFadeOut(0);
@@ -29,16 +29,16 @@ BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛氷室＊＊｝ is really good at surfing
-isn't he......)");
+isn't he...)");
 MsgClose();
 SEPlay("EV_SE_542",0,0.4);
 SEWait();
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 VoicePlay("G110600702_06_020");
-MsgDisp("Himuro","......? What.");
+MsgDisp("Himuro","...? What.");
 MsgDisp("主人公","(Come to think of it, he used to play bass
 too. He's not only athletic, but good with
-his hands too......?)");
+his hands too...?)");
 while (1){
     RunEverydaySksp(6,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -55,7 +55,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_040");
-MsgDisp("Himuro","What......?
+MsgDisp("Himuro","What...?
 Why are you staring at my arm all of a
 sudden.");
 MsgDisp("主人公","Ah, sorry.
@@ -65,7 +65,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_050");
-MsgDisp("Himuro","Oh......that?");
+MsgDisp("Himuro","Oh...that?");
 MsgDisp("主人公","｛氷室＊＊｝, borrowed a bass from
 one of the band members and started
 playing, right?");
@@ -80,7 +80,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_070");
-MsgDisp("Himuro","Good with my hands, 'too'......what does
+MsgDisp("Himuro","Good with my hands, 'too'...what does
 that mean?");
 MsgDisp("主人公","You can surf, you can play the bass, you
 get good grades. It seems like there's
@@ -92,7 +92,7 @@ VoicePlay("G110600702_06_080");
 MsgDisp("Himuro","Of course not.
 It's just that you only see me doing the
 things I'm good at.");
-MsgDisp("主人公","Is that right......?
+MsgDisp("主人公","Is that right...?
 Then, ｛氷室＊＊｝'s weaknesses——");
 ChEye(6,1);
 ChMouth(6,1);
@@ -106,7 +106,7 @@ ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("G110600702_06_100");
 MsgDisp("Himuro","I won't tell you.");
-MsgDisp("主人公","(Ugh, now I'm curious......)");
+MsgDisp("主人公","(Ugh, now I'm curious...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

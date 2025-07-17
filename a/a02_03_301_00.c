@@ -1,7 +1,7 @@
 BGOpen("ar600",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Hmm, there's no one at the register.
-I need to find a staff member......)");
+I need to find a staff member...)");
 SEPlay("EV_SE_590",0,0.6);
 Wait(20,0);
 ScrQuake(0);
@@ -44,7 +44,7 @@ ChOpen(3,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("A020330100_03_030");
 MsgDisp("Honda","I'm Honda Iku.
 I'll teach you anything you need, okay?");
-MsgDisp("主人公","(｛本多＊＊｝...... I feel like I've......)");
+MsgDisp("主人公","(｛本多＊＊｝... I feel like I've...)");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
@@ -84,7 +84,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 MsgDisp("主人公","(｛本多＊＊｝... He's talking about
-complicated things...... We'll probably
+complicated things... We'll probably
 get to see each other at work and in
 school too!)");
 MsgClose();

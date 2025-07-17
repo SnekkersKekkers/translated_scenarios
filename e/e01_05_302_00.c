@@ -1,7 +1,7 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright......
+MsgDisp("主人公","(Alright...
 Should I head home now?)");
 VoicePlay("E010530200_01_000");
 MsgDisp("Kazama?","That's why I'm telling you I can't accept
@@ -9,7 +9,7 @@ it.");
 VoicePlay("E010530200_05_000");
 MsgDisp("Hiiragi?","That would be problematic.");
 MsgDisp("主人公","(Huh?
-That voice......)");
+That voice...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,4,0,2,#1,#1,0,1);
@@ -30,7 +30,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010530200_01_010");
 MsgDisp("Kazama","You always seem to show up at the most
 random times.");
-MsgDisp("主人公","Anyway......
+MsgDisp("主人公","Anyway...
 What happened between you two?");
 ChEye(1,2);
 ChMouth(1,1);
@@ -51,7 +51,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010530200_01_020");
 MsgDisp("Kazama","Hiiragi-kun, you're way too stubborn.");
-MsgDisp("主人公","Um......?");
+MsgDisp("主人公","Um...?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -84,7 +84,7 @@ VoicePlay("E010530200_01_040");
 MsgDisp("Kazama","It's a restoration technique my grandpa
 taught me. You use lacquer and gold powder
 to glue the pieces back together.");
-MsgDisp("主人公","Wow......");
+MsgDisp("主人公","Wow...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -105,7 +105,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("E010530200_01_060");
-MsgDisp("Kazama","...... Fine.
+MsgDisp("Kazama","... Fine.
 How about you treat me to some Alucard
 coffee?");
 ChEye(5,4);
@@ -123,7 +123,7 @@ MsgDisp("Hiiragi","Would you like to join us,
 ｛主人公｝?");
 ChMotion(1,0);
 MsgDisp("主人公","Eh?
-∋ I didn't help with anything......");
+∋ I didn't help with anything...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -148,7 +148,7 @@ ChClose(1,0,30);
 ChClose(5,0,30);
 MsgDisp("主人公","Ehhh ∋
 Wait a minute!");
-MsgDisp("主人公","(Geez......
+MsgDisp("主人公","(Geez...
 These two are both stubborn.
 Maybe they're actually quite similar?)");
 MsgClose();

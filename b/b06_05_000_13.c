@@ -3,7 +3,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B060500013_05_000");
 MsgDisp("Hiiragi","Do you still have time after this?");
-MsgSel("Sure, it's fine","Sorry, today's a bit......");
+MsgSel("Sure, it's fine","Sorry, today's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,3);
@@ -31,7 +31,7 @@ Let's stay together a bit longer then.");
 That's it for today then.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Sorry for refusing......)");
+    MsgDisp("主人公","(Sorry for refusing...)");
     MsgClose();
     ScrFadeOut(0);
     break ;

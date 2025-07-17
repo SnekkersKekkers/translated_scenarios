@@ -40,7 +40,7 @@ Treat me well this year,
 ｛七ツ森＊｝.");
     VoicePlay("S030400000_04_060");
     MsgDisp("Nanatsumori","You too.
-...... Haha.");
+... Haha.");
     MsgDisp("主人公","Why are you laughing?");
     VoicePlay("S030400000_04_070");
     MsgDisp("Nanatsumori","Hearing your cheerful voice first thing

@@ -3,7 +3,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020640002_06_000");
-MsgDisp("Himuro","......Maybe I like surfing after all.");
+MsgDisp("Himuro","...Maybe I like surfing after all.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -17,7 +17,7 @@ ChMotion(6,0,1);
 VoicePlay("G020640002_06_020");
 MsgDisp("Himuro","But the feeling of riding the waves, the
 wind on my body, the splashes of water
-flowing by while sparkling......");
+flowing by while sparkling...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -42,7 +42,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640002_06_060");
 MsgDisp("Himuro","Wonder what would have happened if I'd
-been invited to play baseball......");
+been invited to play baseball...");
 MsgDisp("主人公","Maybe you would've aimed for Koushien?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -73,17 +73,17 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("G020640002_06_100");
-MsgDisp("Himuro","Also...... the pecking order seems strict.
+MsgDisp("Himuro","Also... the pecking order seems strict.
 I'm sorry about that.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020640002_06_110");
-MsgDisp("Himuro","Turns out surfing is the best......
+MsgDisp("Himuro","Turns out surfing is the best...
 I love the ocean.
 It's spacious and free.");
 MsgDisp("主人公","(Hehe, ｛氷室＊＊｝ looks good
-talking about the things he loves......)");
+talking about the things he loves...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

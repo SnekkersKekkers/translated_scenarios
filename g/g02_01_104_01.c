@@ -5,7 +5,7 @@ ChMotion(1,0);
 VoicePlay("G020110401_01_000");
 MsgDisp("Kazama","When I look at this view, I worry about
 where to take you on our next date that
-could compare......");
+could compare...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -27,7 +27,7 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChCheek(1,5);
 VoicePlay("G020110401_01_030");
-MsgDisp("Kazama","It's like......maybe the place doesn't
+MsgDisp("Kazama","It's like...maybe the place doesn't
 matter. Since you're all I'm gonna see and
 your voice is all I'm gonna hear anyway.");
 MsgDisp("主人公","But it's dangerous if you don't pay

@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝......
+MsgDisp("主人公","｛本多＊＊｝...
 Why are you here?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -87,7 +87,7 @@ ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("T020300000_03_110");
 MsgDisp("Honda","It's interesting, but a little scary.");
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("主人公","｛本多＊＊｝...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -119,7 +119,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,2,1);
 VoicePlay("T020300000_03_160");
-MsgDisp("Honda","People...... it's a huge topic.
+MsgDisp("Honda","People... it's a huge topic.
 I don't know when I'll finish, and I might
 never finish it.");
 ChEye(3,0);
@@ -128,7 +128,7 @@ ChMotion(3,0,1);
 VoicePlay("T020300000_03_170");
 MsgDisp("Honda","But as long as I have you, the one I love,
 it'll be okay.");
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("主人公","｛本多＊＊｝...");
 MsgClear();
 ChClose(3);
 ChCustomLayout(3,5,0,-2.5);

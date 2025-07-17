@@ -1,17 +1,17 @@
-MsgDisp("主人公","I also...... like you.");
+MsgDisp("主人公","I also... like you.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020711020_07_000");
-MsgDisp("Mikage","I see...... thank you.");
+MsgDisp("Mikage","I see... thank you.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 ChCheek(7,0);
 VoicePlay("T020711020_07_010");
 MsgDisp("Mikage","Is that okay??");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 What's wrong?");
 ChEye(7,1);
 ChMouth(7,0);
@@ -19,7 +19,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711020_07_020");
 MsgDisp("Mikage","No, it's okay.
-Now I can really graduate.......");
+Now I can really graduate....");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,1);

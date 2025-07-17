@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","(The shop window is dirty......
+    MsgDisp("主人公","(The shop window is dirty...
 Alright, let's wipe it!)");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
@@ -22,7 +22,7 @@ well.");
     ChMotion(1,0);
     VoicePlay("I160100001_01_010");
     MsgDisp("Kazama","I think the other side is dirty, right?");
-    MsgDisp("主人公","......Ah.");
+    MsgDisp("主人公","...Ah.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -36,7 +36,7 @@ time!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(The shop window is dirty......
+    MsgDisp("主人公","(The shop window is dirty...
 Alright, let's wipe it!)");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
@@ -57,7 +57,7 @@ the store's atmosphere.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100001_01_050");
-    MsgDisp("Kazama","Doing it without being told to......
+    MsgDisp("Kazama","Doing it without being told to...
 you're suited for this work.");
     MsgDisp("主人公","(I did it!
 ｛風真＊＊｝ praised me.

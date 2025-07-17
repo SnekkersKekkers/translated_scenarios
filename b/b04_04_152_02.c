@@ -58,7 +58,7 @@ dumps.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040415202_04_040");
-        MsgDisp("Nanatsumori","ＯＫ.
+        MsgDisp("Nanatsumori","OK.
 Then, let's go.");
         SEPlay("EV_SE_086");
         Wait(15,1);
@@ -95,13 +95,13 @@ Have you decided on a prize for the wager?");
         ChMotion(4,2,1);
         VoicePlay("B040415202_04_080");
         MsgDisp("Nanatsumori","Then, I'll think about it.
-That's rightー......");
+That's rightー...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040415202_04_090");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         MsgDisp("主人公","It's surprisingly hard to think of
 something, right?");
         ChEye(4,4);

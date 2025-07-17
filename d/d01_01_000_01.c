@@ -6,7 +6,7 @@ Hehe, I'm looking forward to it!)");
 VoicePlay("D010100001_01_000");
 MsgDisp("Kazama?","Don't just stand here and smile all by
 yourself.
-...... Geez, what a crazy person.");
+... Geez, what a crazy person.");
 MsgClose();
 ScrFadeOut(0,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
@@ -14,13 +14,13 @@ StlOpen("ev_01_07");
 StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 ｛風真＊＊｝∋");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D010100001_01_010");
 MsgDisp("Kazama","Well, I guess I get why you're smiling.");
-MsgDisp("主人公","Uhm......
+MsgDisp("主人公","Uhm...
 No way, are we in the same class again
 this year?");
 StlEye(1,2);

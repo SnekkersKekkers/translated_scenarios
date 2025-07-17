@@ -72,8 +72,8 @@ Welcome.");
     VoicePlay("I230300000_03_070");
     MsgDisp("Honda","But you know, working here made me realize
 that bookstores are more work than you'd
-expect...... will you be okay?");
-    MsgDisp("主人公","I'll be fine......
+expect... will you be okay?");
+    MsgDisp("主人公","I'll be fine...
 I think.");
     ChEye(3,0);
     ChMouth(3,0);

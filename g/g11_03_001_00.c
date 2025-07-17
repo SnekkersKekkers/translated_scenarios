@@ -2,7 +2,7 @@ BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The book I wanted was sold out before.
-......let's try looking for it for a bit.)");
+...let's try looking for it for a bit.)");
 VoiceEVSPlay(3);
 VoicePlay("G110300100_03_000");
 MsgDisp("Honda?","｛主人公｝, welcome!");
@@ -71,7 +71,7 @@ MsgDisp("Honda","After picking it up once, the customer put
 it in what he thought was the correct
 place.");
 MsgDisp("主人公","(As expected of ｛本多＊＊｝!
-What a brilliant deduction......)");
+What a brilliant deduction...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

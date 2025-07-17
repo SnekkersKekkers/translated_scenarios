@@ -4,7 +4,7 @@ ChLayout(2);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow!
 The field is filled with golden flowers!
-So pretty......");
+So pretty...");
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,30);
 ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
@@ -28,25 +28,24 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q070B00100_04_000");
-MsgDisp("Nanatsumori","Let's begin by taking pictures.");
+MsgDisp("Nanatsumori","Let's start by taking pictures.");
 SEPlay("EV_SE_041");
 SEWait();
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q070B00100_03_010");
-MsgDisp("Honda","Heyhey, now we have the opportunity, how
-about we take one together.");
+MsgDisp("Honda","Heyhey, since we have the opportunity, why don't we take one together?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("Q070B00100_04_010");
-MsgDisp("Nanatsumori","Well, let's ask someone then.");
+MsgDisp("Nanatsumori","Let's ask someone then.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q070B00100_01_010");
-MsgDisp("Kazama","You're coming here.");
+MsgDisp("Kazama","You. Next to me.");
 ChMouth(1,0);
 MsgDisp("主人公","Eh?");
 ChEye(3,3);
@@ -80,8 +79,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc821",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Such a big tower......!
-I feel as if I'm in a foreign country.");
+MsgDisp("主人公","Such a tall tower...!
+I feel like I'm in a foreign country.");
 MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0,0,30);
@@ -133,7 +132,7 @@ MsgDisp("Nanatsumori","Let's take another photo there.");
 ChMotion(1,0);
 MsgDisp("主人公","Agreed!");
 MsgDisp("主人公","(After this we go to Nagasaki.
-Huis ten Bosch was so much fun......!)");
+Huis ten Bosch was so much fun...!)");
 MsgClose();
 MsgClose();
 ScrFadeOut(0,0);

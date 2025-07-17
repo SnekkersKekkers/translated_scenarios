@@ -6,7 +6,7 @@ ChMouth(5,2);
 ChEyeOpenLevel(5,10);
 ChCheek(5,5);
 VoicePlay("T020520020_05_000");
-MsgDisp("Hiiragi","Eh......");
+MsgDisp("Hiiragi","Eh...");
 MsgDisp("主人公","The ｛柊＊＊＊｝ who always
 gave it his all, no matter what shined so
 brightly.");
@@ -22,7 +22,7 @@ VoicePlay("T020520020_05_010");
 MsgDisp("Hiiragi","｛主人公｝, that was all
 thanks to you.");
 MsgDisp("主人公","Eh?
-But, I didn't......");
+But, I didn't...");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEye(5,2);
@@ -47,14 +47,14 @@ ChEye(5,4);
 VoicePlay("T020520020_05_040");
 MsgDisp("Hiiragi","That's it.
 Your smile is my light, now and always.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,0);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020520020_05_050");
 MsgDisp("Hiiragi","Please let me see it more clearly.");
-MsgDisp("主人公","Yes......");
+MsgDisp("主人公","Yes...");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

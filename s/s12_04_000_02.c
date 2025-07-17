@@ -28,7 +28,7 @@ Cya.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(I hope this year is another good
-year......)");
+year...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -66,7 +66,7 @@ Let's get you home.");
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("S120400002_04_050");
-    MsgDisp("Nanatsumori","It's the end of our shrine visit......");
+    MsgDisp("Nanatsumori","It's the end of our shrine visit...");
     MsgDisp("主人公","Yeah.
 We finished praying.");
     ChEye(4,2);
@@ -87,9 +87,9 @@ the freezing cold.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400002_04_080");
-    MsgDisp("Nanatsumori","......But, I don't want to drag you around
+    MsgDisp("Nanatsumori","...But, I don't want to drag you around
 anymore.");
-    MsgDisp("主人公","｛七ツ森＊｝......");
+    MsgDisp("主人公","｛七ツ森＊｝...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

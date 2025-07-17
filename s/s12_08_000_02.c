@@ -26,7 +26,7 @@ fortune to each other～!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
     MsgDisp("主人公","(I hope this year is another good
-year......)");
+year...)");
     break ;
     case 3:
     ChEye(8,3);
@@ -53,7 +53,7 @@ Let me walk you back.");
     ChMotion(8,0);
     ChEyeOpenLevel(8,10);
     VoicePlay("S120800002_08_040");
-    MsgDisp("Shirahane","......Is it all over now?");
+    MsgDisp("Shirahane","...Is it all over now?");
     MsgDisp("主人公","Have you finished everything you wanted to
 do for our shrine visit?");
     ChEye(8,2);
@@ -66,7 +66,7 @@ do for our shrine visit?");
     ChMouth(8,4);
     ChMotion(8,4,1);
     VoicePlay("S120800002_08_060");
-    MsgDisp("Shirahane","...... Oh no.
+    MsgDisp("Shirahane","... Oh no.
 New Years was already such a treat, how
 will I manage for the rest of the year?");
     MsgDisp("主人公","???");

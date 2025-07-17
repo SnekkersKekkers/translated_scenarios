@@ -5,7 +5,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("T040620000_06_000");
-MsgDisp("Himuro","......That's right. Do you remember? That
+MsgDisp("Himuro","...That's right. Do you remember? That
 time I taught those two how to surf at the
 beach. And I stealthily sent you a
 message——");
@@ -24,7 +24,7 @@ Wait(60);
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("T040620000_02_000");
-MsgDisp("Sassa","...... Yes, this strengthens your core as
+MsgDisp("Sassa","... Yes, this strengthens your core as
 you ride on top of the waves.
 Sounds fun, huh?");
 StlEye(6,1);
@@ -36,7 +36,7 @@ in the ocean now.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("T040620000_06_020");
-MsgDisp("Himuro","In comparison......");
+MsgDisp("Himuro","In comparison...");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("T040620000_01_000");
@@ -64,7 +64,7 @@ ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040620000_06_050");
 MsgDisp("Himuro","Those two couldn't wait to show off their
-best side to you, ......and of course, me
+best side to you, ...and of course, me
 too.");
 MsgClose();
 ScrFadeOut(0,0,300);

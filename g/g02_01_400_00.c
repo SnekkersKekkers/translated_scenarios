@@ -63,10 +63,10 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020140000_01_080");
 MsgDisp("Kazama","And I'm sure the fireflies here would have
 a bit of an easier time too if you'd tell
-them the rules and criteria......");
-MsgDisp("主人公","(｛風真＊＊｝......
+them the rules and criteria...");
+MsgDisp("主人公","(｛風真＊＊｝...
 It doesn't sound like you're talking about
-fireflies......)");
+fireflies...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

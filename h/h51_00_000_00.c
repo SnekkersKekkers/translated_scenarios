@@ -62,8 +62,8 @@ ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("H510000000_32_060");
 MsgDisp("VP Himuro","That is all.");
-MsgDisp("主人公","(So Himuro-sensei is the advisor......
-I'll have to be careful not to skip......)");
+MsgDisp("主人公","(So Himuro-sensei is the advisor...
+I'll have to be careful not to skip...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

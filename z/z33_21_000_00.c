@@ -1,5 +1,5 @@
 MsgDisp("主人公","I want to know about the guys' fashion
-preferences......");
+preferences...");
 VoicePlay("Z332100000_21_000");
 MsgDisp("Michiru","Leave it to me.
 Whose preference do you want to know?");

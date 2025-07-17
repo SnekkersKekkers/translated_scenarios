@@ -14,7 +14,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220101_02_020");
-MsgDisp("Sassa","......I don't remember");
+MsgDisp("Sassa","...I don't remember");
 MsgDisp("主人公","Hehe, geez.");
 ChEye(2,3);
 ChMouth(2,4);
@@ -54,7 +54,7 @@ ChMotion(2,0);
 VoicePlay("G020220101_02_080");
 MsgDisp("Sassa","Next time we come here, I hope to be the
 closest person to you.");
-MsgDisp("主人公","(｛颯砂＊＊｝......)");
+MsgDisp("主人公","(｛颯砂＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

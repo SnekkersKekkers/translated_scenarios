@@ -3,9 +3,9 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("U032100001_21_000");
-MsgDisp("Michiru","Ah......
+MsgDisp("Michiru","Ah...
 Mari, this one.");
-MsgDisp("主人公","This is......a zodiac sign?");
+MsgDisp("主人公","This is...a zodiac sign?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -28,7 +28,7 @@ can be touched by the power of the stars.");
     MsgDisp("主人公","(I got a constellation charm!)");
     SEPlay("EV_SE_080");
     MsgDisp("主人公","(Somehow I feel I'm better at studying
-now......)");
+now...)");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,0);
@@ -39,13 +39,13 @@ See you later.");
 ｛みちる＊｝!");
     break ;
     case 1:
-    MsgDisp("主人公","I'm sorry but......
+    MsgDisp("主人公","I'm sorry but...
 I decline.");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,4);
     VoicePlay("U032100001_21_040");
-    MsgDisp("Michiru","I see......
+    MsgDisp("Michiru","I see...
 You don't like this kind of thing, huh?");
     ChEye(21,4);
     ChMouth(21,0);

@@ -7,7 +7,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110600500_06_000");
 MsgDisp("Himuro","Ah, yeah.
-...... That's right.
+... That's right.
 I guess you're coming too.");
 MsgDisp("主人公","Eh?
 Y-Yes.");
@@ -25,7 +25,7 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600500_06_010");
-MsgDisp("Himuro","......Congratulations.");
+MsgDisp("Himuro","...Congratulations.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -55,7 +55,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600500_06_050");
-MsgDisp("Himuro","......The next time you get first place,
+MsgDisp("Himuro","...The next time you get first place,
 I'll give you a reward.");
 MsgDisp("主人公","Eh, reward?");
 ChEye(6,0);
@@ -66,12 +66,12 @@ MsgDisp("Himuro","Yes.
 As long as it's within my capabilities,
 anything is okay.");
 MsgDisp("主人公","Really?
-Then...... can you praise me?");
+Then... can you praise me?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600500_06_070");
-MsgDisp("Himuro","Eh......are you really okay with that?");
+MsgDisp("Himuro","Eh...are you really okay with that?");
 MsgDisp("主人公","Yes!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -83,7 +83,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600500_06_090");
-MsgDisp("Himuro","......Your motivation is pretty cheap.");
+MsgDisp("Himuro","...Your motivation is pretty cheap.");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);

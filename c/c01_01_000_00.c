@@ -14,12 +14,12 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010100000_01_020");
-MsgDisp("Kazama","Haa......");
+MsgDisp("Kazama","Haa...");
 MsgDisp("主人公","｛風真＊＊｝?");
 VoicePlay("C010100000_01_030");
-MsgDisp("Kazama","...... Listen, you.
+MsgDisp("Kazama","... Listen, you.
 Tell me these kinds of things sooner.");
-MsgDisp("主人公","I, I'm sorry......");
+MsgDisp("主人公","I, I'm sorry...");
 VoicePlay("C010100000_01_040");
 MsgDisp("Kazama","I know you are. But don't put me through
 this kind of thing anymore. Yeah?");
@@ -28,6 +28,6 @@ VoicePlay("C010100000_01_050");
 MsgDisp("Kazama","Aa, later.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(Thank goodness......
+MsgDisp("主人公","(Thank goodness...
 Looks like we were able to make up.)");
 MsgClose();

@@ -54,7 +54,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("Q100A00000_01_030");
-MsgDisp("Kazama","You know, the one who finds it first......
+MsgDisp("Kazama","You know, the one who finds it first...
 Get it?");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
@@ -76,7 +76,7 @@ ChClose(2);
 VoicePlay("Q100A00000_02_050");
 MsgDisp("Sassa","My eyesight and legs are better than
 yours!");
-MsgDisp("主人公","(They're gone......)");
+MsgDisp("主人公","(They're gone...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -103,7 +103,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("Q100A00000_01_060");
-MsgDisp("Kazama","Forever, huh......");
+MsgDisp("Kazama","Forever, huh...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

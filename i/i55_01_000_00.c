@@ -89,7 +89,7 @@ my grandpa.");
     ChMouth(1,0);
     ChMotion(1,0);
     MsgDisp("主人公","Thanks.
-But, I'm working right now......");
+But, I'm working right now...");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -122,7 +122,7 @@ Welcome.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_130");
-    MsgDisp("Kazama","Today......
+    MsgDisp("Kazama","Today...
 I'll have some of the recommended sweets,
 please.");
     MsgDisp("主人公","Yes, understood.");
@@ -132,17 +132,17 @@ please.");
     SEWait();
     Wait(40);
     VoicePlay("I550100000_46_000");
-    MsgDisp("Clerk","Ah, that person is...... the young master,
+    MsgDisp("Clerk","Ah, that person is... the young master,
 right?
 Is he your friend?");
-    MsgDisp("主人公","Um...... ah, yes.
+    MsgDisp("主人公","Um... ah, yes.
 He's my classmate.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     MsgClose();
     ChOpen(1,255,0,4,3,#1,#1,0,0);
     VoicePlay("I550100000_01_140");
-    MsgDisp("Kazama","......Nice to meet you, I'm her classmate
+    MsgDisp("Kazama","...Nice to meet you, I'm her classmate
 Ryota.");
     MsgClose();
     ScrFadeOut(0);
@@ -165,7 +165,7 @@ They're one of your fans,
     MsgDisp("Kazama","I see.
 That's fine, but what about you?");
     MsgDisp("主人公","Huh?
-Um......
+Um...
 I don't think I'm your fan.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -182,7 +182,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(｛風真＊＊｝ really is popular......)");
+    MsgDisp("主人公","(｛風真＊＊｝ really is popular...)");
     break ;
     default :
     DbgAssert(1);

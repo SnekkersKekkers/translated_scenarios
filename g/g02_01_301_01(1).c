@@ -17,7 +17,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130101_01_020");
-MsgDisp("Kazama","......Recently it's been like that around
+MsgDisp("Kazama","...Recently it's been like that around
 you, hasn't it?");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
@@ -34,7 +34,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130101_01_040");
 MsgDisp("Kazama","Well, maybe I should just become one of
-them, but......");
+them, but...");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -48,8 +48,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_060");
-MsgDisp("Kazama","Uh......
-Yes, that's right. ...... good grief, I
+MsgDisp("Kazama","Uh...
+Yes, that's right. ... good grief, I
 guess that's fine?");
 MsgDisp("主人公","What's wrong?");
 ChEye(1,0);
@@ -64,7 +64,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_080");
 MsgDisp("Kazama","'Childhood friend' is a sly word to
-use......");
+use...");
 MsgDisp("主人公","(｛風真＊＊｝, what's wrong?)");
 BGMStop();
 MsgClose();

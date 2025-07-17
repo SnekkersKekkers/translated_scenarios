@@ -2,13 +2,13 @@ BGOpen("sc609",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I've prepared the materials for the next
-meeting......)");
+meeting...)");
 VoicePlay("G110500801_40_000");
 MsgDisp("Male Student","Good work todayー.
 Please lock up.");
 MsgDisp("主人公","Yeees.");
 MsgDisp("主人公","(Huh?
-｛柊＊＊＊｝......)");
+｛柊＊＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
@@ -19,11 +19,11 @@ Wait(30,0);
 ScrFadeIn(0);
 ChMouthOpenLevel(5,0);
 VoicePlay("G110500801_05_000");
-MsgDisp("Hiiragi","............");
-MsgDisp("主人公","Ah......hehe");
+MsgDisp("Hiiragi","......");
+MsgDisp("主人公","Ah...hehe");
 MsgDisp("主人公","(｛柊＊＊＊｝ is dozing off?
 He seems tired.
-Maybe I'll close his laptop......)");
+Maybe I'll close his laptop...)");
 while (1){
     RunEverydaySksp(5,0,0,0,1,0);
     if (RunEverydaySkspRsltGet()){
@@ -31,7 +31,7 @@ while (1){
         }
     ChMouthOpenLevel(5,0);
     VoicePlay("G110500801_05_030");
-    MsgDisp("Hiiragi","Phewー,Zzzー......");
+    MsgDisp("Hiiragi","Phewー,Zzzー...");
     }
 ChMotion(5,1);
 Wait(20,0);

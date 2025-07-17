@@ -2,7 +2,7 @@ BGOpen("sc710",0);
 ScrFadeIn(0);
 MsgDisp("主人公","I made a lot of mistakes and caused
 trouble for everyone.
-I'll have to reflect......");
+I'll have to reflect...");
 BGMStop(1.5);
 MsgClose();
 ScrFadeOut(1,60);

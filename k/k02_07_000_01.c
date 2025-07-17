@@ -11,7 +11,7 @@ BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("K020700001_07_000");
 MsgDisp("Mikage","It's Mikage Delivery.");
-MsgDisp("主人公","Huh!? Mikage Delivery? Um......
+MsgDisp("主人公","Huh!? Mikage Delivery? Um...
 ｛御影＊＊｝, what is it?");
 ChEye(7,2);
 ChMouth(7,0);

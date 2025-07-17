@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home.)");
-MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is
+MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is
 over there. I might as well have a chat
 before I go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -21,7 +21,7 @@ ChOpen(1,100,0,0,0,8,#1,0,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_084");
 Wait(30,0);
-MsgDisp("主人公","The wind has really come out, huh......");
+MsgDisp("主人公","The wind has really come out, huh...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
@@ -31,7 +31,7 @@ VoicePlay("G110101002_01_000");
 MsgDisp("Kazama","We've been so immersed in talking.
 Let's go home before it gets dark.");
 MsgDisp("主人公","Yeah.");
-MsgDisp("主人公","(......Huh? ｛風真＊＊｝'s
+MsgDisp("主人公","(...Huh? ｛風真＊＊｝'s
 pockets are bulging? I wonder if he's got
 something in them.)");
 while (1){

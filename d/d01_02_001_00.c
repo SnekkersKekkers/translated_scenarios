@@ -24,13 +24,13 @@ ChMotion(2,2);
 VoicePlay("D010200100_40_010");
 MsgDisp("Member","But Captain, I guess Sassa doesn't even
 need to warm up.
-...... Right?");
+... Right?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("D010200100_02_010");
-MsgDisp("Sassa","It's not like that......
-I also have to try my best you know......");
+MsgDisp("Sassa","It's not like that...
+I also have to try my best you know...");
 VoicePlay("D010200100_40_020");
 MsgDisp("Member","That's all you need to win, huh?
 That makes us look like idiots.");
@@ -38,8 +38,8 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("D010200100_02_020");
-MsgDisp("Sassa","............");
-MsgDisp("主人公","(｛颯砂＊＊｝......)");
+MsgDisp("Sassa","......");
+MsgDisp("主人公","(｛颯砂＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -50,12 +50,12 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc625",0);
 ScrFadeIn(0);
-MsgDisp("主人公","The final event, the 1500 meter race......
+MsgDisp("主人公","The final event, the 1500 meter race...
 ｛颯砂＊＊｝, good luck!");
 VoicePlay("D010200100_40_030");
 MsgDisp("Member","With such a large gap in scores, even if
 he just runs however, he'll win.");
-MsgDisp("主人公","What......?");
+MsgDisp("主人公","What...?");
 VoicePlay("D010200100_40_040");
 MsgDisp("Member","That guy will win no matter what.
 He's going for first place.");
@@ -63,7 +63,7 @@ VoicePlay("D010200100_39_050");
 MsgDisp("Manager","I keep telling him that the Octathalon
 isn't supposed to be like this, but he
 doesn't listen.");
-MsgDisp("主人公","(I see......)");
+MsgDisp("主人公","(I see...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -104,7 +104,7 @@ ScrFadeOut(0);
 StlClose();
 Wait(60);
 MsgDisp("主人公","(｛颯砂＊＊｝ somehow didn't seem too
-happy......)");
+happy...)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -115,8 +115,8 @@ VoicePlay("D010200100_40_070");
 MsgDisp("Member","Don't be so greedy, you should be happy.");
 VoicePlay("D010200100_02_050");
 MsgDisp("Sassa","But I want to get first place in every
-event......");
-MsgDisp("主人公","(Eh......
+event...");
+MsgDisp("主人公","(Eh...
 Was that ｛颯砂＊＊｝'s voice just
 now?)");
 VoicePlay("D010200100_39_080");
@@ -124,9 +124,9 @@ MsgDisp("Manager","That's enough. Sassa is just competing on
 a different level from us. Nothing we say
 will change his mind.");
 VoicePlay("D010200100_02_060");
-MsgDisp("Sassa","I......
+MsgDisp("Sassa","I...
 I just want to be the best.
-I'm a track and field idiot......");
+I'm a track and field idiot...");
 VoicePlay("D010200100_40_090");
 MsgDisp("Member","How is that fine? It's our last year. If
 you win them all, then the losers won't
@@ -146,7 +146,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D010200100_02_080");
 MsgDisp("Sassa","Good work today.");
-MsgDisp("主人公","｛颯砂＊＊｝......
+MsgDisp("主人公","｛颯砂＊＊｝...
 You know, congrats on winning.");
 ChEye(2,2);
 ChMouth(2,4);
@@ -161,14 +161,14 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D010200100_02_100");
-MsgDisp("Sassa","I'm happy to hear you say that......
+MsgDisp("Sassa","I'm happy to hear you say that...
 See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
 MsgDisp("主人公","(Even though he won, ｛颯砂＊＊｝
-looks sad......)");
+looks sad...)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(2,0);

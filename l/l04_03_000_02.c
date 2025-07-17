@@ -15,14 +15,14 @@ Is it fine if I take this?");
     VoicePlay("L040300002_03_010");
     MsgDisp("Honda","I see. We don't get this often, so I'll
 have with my sister. Thanks!");
-    MsgDisp("主人公","(Was it too much......?)");
+    MsgDisp("主人公","(Was it too much...?)");
     break ;
     case 3:
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300002_03_020");
-    MsgDisp("Honda","This...... is from that famous
+    MsgDisp("Honda","This... is from that famous
 chocolatier!?");
     MsgDisp("主人公","You knew?");
     ChEye(3,0);
@@ -48,7 +48,7 @@ Thank you!");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("L040300002_03_050");
-    MsgDisp("Honda","This store......
+    MsgDisp("Honda","This store...
 I heard people line up for it everyday!");
     ChEye(3,4);
     ChMouth(3,0);

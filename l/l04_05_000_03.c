@@ -6,13 +6,13 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,2);
     ChMotion(5,5,1);
     VoicePlay("L040500003_05_000");
-    MsgDisp("Hiiragi","Wow...... it's quite amazing.");
+    MsgDisp("Hiiragi","Wow... it's quite amazing.");
     MsgDisp("主人公","Hehe, it's handmade.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500003_05_010");
-    MsgDisp("Hiiragi","I see...... it must have been difficult to
+    MsgDisp("Hiiragi","I see... it must have been difficult to
 make something this elaborate.");
     ChMotion(5,3);
     VoicePlay("L040500003_05_020");
@@ -55,7 +55,7 @@ Make sure to eat it.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("L040500003_05_060");
-    MsgDisp("Hiiragi","I see......
+    MsgDisp("Hiiragi","I see...
 Then, I shall return and boast to everyone
 in the theatre company before eating it.");
     MsgClose();
@@ -81,7 +81,7 @@ I put some effort in.");
     ChCheek(5,0);
     VoicePlay("L040500003_05_080");
     MsgDisp("Hiiragi","Some? Then, if you were to get more
-serious...... How frightening.");
+serious... How frightening.");
     MsgDisp("主人公","Hehe, if I got serious, it wouldn't lose
 even to the best chocolate!");
     ChEye(5,4);
@@ -89,7 +89,7 @@ even to the best chocolate!");
     ChMotion(5,4);
     VoicePlay("L040500003_05_090");
     MsgDisp("Hiiragi","This already wouldn't lose.
-To me, for this to be any better......
+To me, for this to be any better...
 It wouldn't just be a chocolate anymore.");
     MsgDisp("主人公","Then Valentine's wouldn't matter anymore.");
     ChMouth(5,3);

@@ -21,7 +21,7 @@ I wasn't sure if I was supposed to laugh.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040204300_02_010");
-    MsgDisp("Sassa","Just okay, huh......
+    MsgDisp("Sassa","Just okay, huh...
 To be honest, I didn't understand it well
 enough to give a rating.");
     MsgDispSksp(1,0);

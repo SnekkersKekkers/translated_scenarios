@@ -14,7 +14,7 @@ VoicePlay("U160D00000_21_000");
 MsgDisp("Michiru","Hmm.
 Do you feel shy when you talk about it?
 Mari, how cute.");
-MsgDisp("主人公","Ughh......");
+MsgDisp("主人公","Ughh...");
 StlEye(22,0);
 StlMouth(22,0);
 VoicePlay("U160D00000_22_010");
@@ -24,4 +24,4 @@ StlEye(21,3);
 VoicePlay("U160D00000_21_010");
 MsgDisp("Michiru","Hehe, I agree.
 What do you think, Mari?");
-MsgDisp("主人公","Please treat me gently......");
+MsgDisp("主人公","Please treat me gently...");

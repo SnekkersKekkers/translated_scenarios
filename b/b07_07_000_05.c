@@ -23,14 +23,14 @@ ChMotion(7,4);
 VoicePlay("B070700000_07_250");
 MsgDisp("Mikage","Even after I put in all that effort
 explaining, normally people will just
-react with something like \"Heeh?\" then I
+react with something like \"Ehhh?\" then I
 came across the term DIY.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700000_07_260");
 MsgDisp("Mikage","Thanks to that, the usual reaction of
-\"Heeh?\" comes much quicker.
+\"Ehhh?\" comes much quicker.
 Then, what do you think?");
 MsgDisp("主人公","Uummm, it's amazing that you can make
 anything yourself.

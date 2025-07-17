@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040202102_02_000");
 MsgDisp("Sassa","No two bricks here are the same.");
-MsgSel("Wouldn't being the same make them prettier......","Was changing them intentional?","Are they handmade by a craftsman?");
+MsgSel("Wouldn't being the same make them prettier...","Was changing them intentional?","Are they handmade by a craftsman?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(2,6)){
@@ -61,7 +61,7 @@ create a sense of unity.");
         ChEyeOpenLevel(2,#1);
         ChCheek(2,10);
         VoicePlay("B040202102_02_060");
-        MsgDisp("Sassa","The round one next to it is you then......");
+        MsgDisp("Sassa","The round one next to it is you then...");
         MsgDisp("主人公","The Round one?");
         ChEye(2,4);
         ChMouth(2,4);

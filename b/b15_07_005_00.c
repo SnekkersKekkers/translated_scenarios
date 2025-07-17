@@ -17,7 +17,7 @@ ChEye(7,1);
 ChMouth(7,4);
 ChMotion(7,3);
 VoicePlay("B150700500_07_020");
-MsgDisp("Mikage","Wuー......");
+MsgDisp("Mikage","Wuー...");
 ChEye(7,1);
 ChMouth(7,1);
 ChMotion(7,5);

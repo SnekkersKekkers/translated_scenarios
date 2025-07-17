@@ -4,7 +4,7 @@ SEWait();
 VoicePlay("I320000000_43_000");
 MsgDisp("Manager","Yes, this is Cafe Alucard.");
 MsgDisp("主人公","I'm calling about your help wanted ad for
-the part-time job opening......");
+the part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

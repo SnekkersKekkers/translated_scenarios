@@ -16,7 +16,7 @@ Welcome!");
     MsgDisp("Kazama","You look like a bee, flying around all
 those flowers, you know?");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
-A bee......
+A bee...
 What's up?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -108,7 +108,7 @@ Welcome!");
     VoicePlay("I450100000_01_100");
     MsgDisp("Kazama","I came to order a flower arrangement
 today.");
-    MsgDisp("主人公","Um, then I'll call the manager......");
+    MsgDisp("主人公","Um, then I'll call the manager...");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -141,7 +141,7 @@ I'll try.");
     MsgClose();
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Thank you for waiting.
-...... How is it?");
+... How is it?");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);

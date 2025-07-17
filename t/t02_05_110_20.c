@@ -6,7 +6,7 @@ ChMouth(5,2);
 ChEyeOpenLevel(5,10);
 ChCheek(5,5);
 VoicePlay("T020511020_05_000");
-MsgDisp("Hiiragi","Eh......");
+MsgDisp("Hiiragi","Eh...");
 MsgDisp("主人公","Even if times are tough,
 ｛柊＊＊＊｝ always tries his
 best and shines so brightly.");
@@ -21,7 +21,7 @@ VoiceEVSPlay(5);
 VoicePlay("T020511020_05_010");
 MsgDisp("Hiiragi","｛主人公｝, I could do all
 that because of you.");
-MsgDisp("主人公","Eh, me......");
+MsgDisp("主人公","Eh, me...");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 Wait(10,0);

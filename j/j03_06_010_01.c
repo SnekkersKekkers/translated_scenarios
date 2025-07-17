@@ -23,7 +23,7 @@ Too bad.");
     MsgDisp("Himuro","That's all I wanted to say.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","Hmmm, too bad......)");
+    MsgDisp("主人公","Hmmm, too bad...)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, it's a call from ｛氷室＊＊｝.)");
@@ -46,7 +46,7 @@ Maybe some other time.");
 Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm, too bad......)");
+    MsgDisp("主人公","(Hmmm, too bad...)");
     break ;
     case 4:
     case 5:
@@ -56,24 +56,24 @@ Well then.");
     SEWait();
     MsgDisp("主人公","Hello, ｛氷室＊＊｝?");
     VoicePlay("J030601001_06_060");
-    MsgDisp("Himuro","...... Hey.
+    MsgDisp("Himuro","... Hey.
 You left me a message on my voicemail?");
     MsgDisp("主人公","Oh, you heard me.
 What do you think?");
     VoicePlay("J030601001_06_070");
-    MsgDisp("Himuro","Sorry......
+    MsgDisp("Himuro","Sorry...
 I have a prior commitment.
 No other days available?");
-    MsgDisp("主人公","I don't think so......
+    MsgDisp("主人公","I don't think so...
 Well, I'll see you another day.");
     VoicePlay("J030601001_06_080");
-    MsgDisp("Himuro","...... Yeah.
+    MsgDisp("Himuro","... Yeah.
 Definitely invite me back.
 See you then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(I see, he had a prior engagement.
-Too bad......)");
+Too bad...)");
     break ;
     default :
     DbgAssert(1);

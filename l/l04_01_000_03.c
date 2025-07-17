@@ -29,7 +29,7 @@ Thank goodness!)");
     ChMouth(1,1);
     ChMotion(1,0);
     VoicePlay("L040100003_01_020");
-    MsgDisp("Kazama","This is...... handmade, right?");
+    MsgDisp("Kazama","This is... handmade, right?");
     MsgDisp("主人公","Yeah, I did my best.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -72,7 +72,7 @@ just teasing, but he looked super happy!)");
     ChMotion(1,0);
     VoicePlay("L040100003_01_070");
     MsgDisp("Kazama","You incorporated my tastes, so I know it's
-handmade, but......
+handmade, but...
 It's so good you could sell it.");
     MsgDisp("主人公","Really!?
 Thank you.");
@@ -97,7 +97,7 @@ Thank you.");
     VoicePlay("L040100003_01_100");
     MsgDisp("Kazama","I can't break it, and biting is out of the
 question.
-What should I do......");
+What should I do...");
     MsgClose();
     SEPlay("EV_SE_FOOT_039");
     ChClose(1);

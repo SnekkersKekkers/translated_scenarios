@@ -35,7 +35,7 @@ Thanks.");
     MsgDisp("Mikage","Thanks to you, the members were able to
 concentrate on this competition. Sorry I
 put so much pressure on you, manager.");
-    MsgDisp("主人公","No, not at all......");
+    MsgDisp("主人公","No, not at all...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);

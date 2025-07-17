@@ -20,7 +20,7 @@ VoicePlay("B330C30300_07_000");
 MsgDisp("Mikage","It's just nostalgic.
 When I was a kid, I used to play on the
 natural rinks of lakes and ponds.");
-MsgDisp("主人公","Heeh, amazing!");
+MsgDisp("主人公","Ehhh, amazing!");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

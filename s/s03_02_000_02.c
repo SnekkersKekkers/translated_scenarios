@@ -8,7 +8,7 @@ I promised them beforehand.");
     MsgDisp("主人公","Ah, I see.");
     VoicePlay("S030200002_02_010");
     MsgDisp("Sassa","Sorry, even though you went through the
-trouble of inviting me......");
+trouble of inviting me...");
     MsgDisp("主人公","Don't worry.
 It's fine.
 Okay then, see you later?");
@@ -17,7 +17,7 @@ Okay then, see you later?");
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(I guess it can't be helped......
+    MsgDisp("主人公","(I guess it can't be helped...
 I'll visit the shrine alone.)");
     break ;
     case 3:

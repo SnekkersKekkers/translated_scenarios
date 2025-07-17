@@ -15,7 +15,7 @@ It's
     VoicePlay("J010300000_03_010");
     MsgDisp("Honda","Hmm?
 What's going on?");
-    MsgDisp("主人公","Uh, well......");
+    MsgDisp("主人公","Uh, well...");
     break ;
     case 3:
     VoicePlay("J010300000_03_020");
@@ -26,7 +26,7 @@ now a good time to talk?");
     VoicePlay("J010300000_03_030");
     MsgDisp("Honda","Sure!
 What's up?");
-    MsgDisp("主人公","Uh, you see......");
+    MsgDisp("主人公","Uh, you see...");
     break ;
     case 4:
     case 5:
@@ -40,7 +40,7 @@ It's
 I've been wanting to talk with you too.");
     VoicePlay("J010300000_03_060");
     MsgDisp("Honda","So, what's going on?");
-    MsgDisp("主人公","Well......");
+    MsgDisp("主人公","Well...");
     break ;
     default :
     DbgAssert(1);

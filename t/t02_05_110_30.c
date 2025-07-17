@@ -1,5 +1,5 @@
 BGMStop();
-MsgDisp("主人公","......I'm sorry.");
+MsgDisp("主人公","...I'm sorry.");
 ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
@@ -26,7 +26,7 @@ VoicePlay("T020511030_05_020");
 MsgDisp("Hiiragi","To me it's a miracle.
 If I can do this, I feel like I can do
 anything.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
@@ -34,13 +34,13 @@ ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("T020511030_05_030");
 MsgDisp("Hiiragi","Don't make that face, show me a smile.");
-MsgDisp("主人公","......Yes.");
+MsgDisp("主人公","...Yes.");
 ChEyeOpenLevel(5,0);
 Wait(8,0);
 ChEye(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511030_05_040");
-MsgDisp("Hiiragi","Thank you......");
+MsgDisp("Hiiragi","Thank you...");
 ChMotion(5,0,1);
 Wait(16,0);
 ChEyeOpenLevel(5,0);

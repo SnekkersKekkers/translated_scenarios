@@ -1,4 +1,4 @@
-MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
+MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(8,6)){
@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
         case 5:
         VoicePlay("J060801000_08_000");
         MsgDisp("Daichi","I'll meetcha there!
-Wait...... where should we meet up?");
+Wait... where should we meet up?");
         MsgDisp("主人公","Does the ｛待ち合わせ場所｝
 sound good?");
         VoicePlay("J060801000_08_010");
@@ -39,21 +39,21 @@ I have to remember!)");
         case 4:
         case 5:
         VoicePlay("J060801000_08_020");
-        MsgDisp("Daichi","Ah ......
+        MsgDisp("Daichi","Ah ...
 Not a fan of that place?");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("J060801000_08_030");
         MsgDisp("Daichi","Yes, I'm fine.
 I don't want ta force ya to do anythin',
 don't worry about it.");
-        MsgDisp("主人公","｛大地＊＊｝......");
+        MsgDisp("主人公","｛大地＊＊｝...");
         VoicePlay("J060801000_08_040");
         MsgDisp("Daichi","No sulkin'.
 I'll call ya again.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that ......)");
+I'm sorry I did that ...)");
         break ;
         default :
         DbgAssert(1);

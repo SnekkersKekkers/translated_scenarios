@@ -12,7 +12,7 @@ Thank you very much.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Hm, well, I guess that's it......)");
+    MsgDisp("主人公","(Hm, well, I guess that's it...)");
     break ;
     case 3:
     ChEye(5,0);
@@ -26,7 +26,7 @@ You're quite a hard worker.");
     ChMotion(5,4);
     VoicePlay("L040500001_05_020");
     MsgDisp("Hiiragi","Thinking of all those who I am indebted
-to......
+to...
 I understand.");
     ChEye(5,4);
     ChMotion(5,0);
@@ -37,7 +37,7 @@ Please, continue your efforts.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(I was cheered on......
+    MsgDisp("主人公","(I was cheered on...
 I wonder if he liked it?)");
     break ;
     case 4:
@@ -56,7 +56,7 @@ is nothing more important.");
     MsgDisp("Hiiragi","The you who chose this chocolate.
 The you who brought it to school.
 I thank each one.");
-    MsgDisp("主人公","Um......");
+    MsgDisp("主人公","Um...");
     ChMotion(5,2);
     ChEyeOpenLevel(5,9);
     VoicePlay("L040500001_05_060");
@@ -68,7 +68,7 @@ The looks of it are not important.");
     ChClose(5);
     ChEyeOpenLevel(5,#1);
     MsgDisp("主人公","(I wonder if I should have given him a
-nicer chocolate......?)");
+nicer chocolate...?)");
     break ;
     default :
     DbgAssert(1);

@@ -3,5 +3,5 @@ NSSEye(6,6);
 NSSMouth(6,0);
 NSSCheek(6,10);
 VoicePlay("AP0506501_06_000");
-MsgDisp("Himuro","For the love of......");
+MsgDisp("Himuro","For the love of...");
 MsgClose();

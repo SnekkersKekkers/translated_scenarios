@@ -49,7 +49,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("Q070A00100_01_030");
-MsgDisp("Kazama","What the......");
+MsgDisp("Kazama","What the...");
 ChEye(1,2);
 MsgDisp("主人公","Hehe, I'm excited to hear it.");
 ChEye(1,0);
@@ -58,8 +58,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("Q070A00100_01_040");
-MsgDisp("Kazama","......It's orange like under the
-sunset......");
+MsgDisp("Kazama","...It's orange like under the
+sunset...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -120,7 +120,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q070A00100_01_070");
 MsgDisp("Kazama","A tower where a church bell rings.");
-MsgDisp("主人公","A church bell......");
+MsgDisp("主人公","A church bell...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -184,7 +184,7 @@ MsgDisp("Kazama","Why me?");
 VoicePlay("Q070A00100_02_110");
 MsgDisp("Sassa","We can take a few different ones.");
 VoicePlay("Q070A00100_01_130");
-MsgDisp("Kazama","...... Just one is fine.");
+MsgDisp("Kazama","... Just one is fine.");
 MsgDisp("主人公","(Huis ten Bosch was so much fun...
 Now onto something else.
 I should answer ｛氷室＊＊｝.)");

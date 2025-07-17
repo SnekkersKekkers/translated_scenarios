@@ -15,14 +15,14 @@ VoicePlay("K020501000_05_000");
 MsgDisp("Hiiragi","No, thank you as well.
 And, here's to another year.");
 MsgDisp("主人公","Hm?
-Yes, Happy New Year......?");
+Yes, Happy New Year...?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("K020501000_05_010");
 MsgDisp("Hiiragi","No, for something else.
 Happy birthday.");
-MsgDisp("主人公","Ah...... thank you!");
+MsgDisp("主人公","Ah... thank you!");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(5,4);
@@ -44,7 +44,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(5);
 Wait(30);
-MsgDisp("主人公","(I'm so happy......
+MsgDisp("主人公","(I'm so happy...
 This year looks like it's going to be a
 great one!)");
 MsgClose();

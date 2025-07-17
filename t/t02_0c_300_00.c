@@ -70,7 +70,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("T020C30000_06_020");
-MsgDisp("Himuro","......Congratulations to you both.");
+MsgDisp("Himuro","...Congratulations to you both.");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
@@ -89,7 +89,7 @@ to be left behind.
 I'm staying here, after all.");
 ChEye(5,2);
 ChEyeOpenLevel(5,9);
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 ChClose(5,0,30);
 ChClose(6,0,30);
 ChLayout(2);
@@ -131,7 +131,7 @@ MsgDisp("Mikage","Everything from your kindness, your
 seriousness to your slight
 absent-mindedness has helped me so much,
 thank you.");
-MsgDisp("主人公","｛御影＊＊｝......
+MsgDisp("主人公","｛御影＊＊｝...
 Yes!");
 ChEye(7,0);
 ChMouth(7,0);

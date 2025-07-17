@@ -39,7 +39,7 @@ We don't carry household goods.");
     VoicePlay("I150500000_05_040");
     MsgDisp("Hiiragi","Ah, I see.
 I had just heard of General Store
-Simon......");
+Simon...");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -50,7 +50,7 @@ Simon......");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ looks busy.
-...... But it looks like he likes
+... But it looks like he likes
 shopping?)");
     break ;
     case 3:
@@ -91,7 +91,7 @@ of the store.");
     VoicePlay("I150500000_05_100");
     MsgDisp("Hiiragi","Aroma diffuser?
 I see, so you add fragrant oils in.
-What a wonderful item......");
+What a wonderful item...");
     MsgDisp("主人公","(Hehe.
 ｛柊＊＊＊｝ really likes
 shopping.)");
@@ -117,7 +117,7 @@ suddenly came to my mind, and-");
     ChMotion(5,0);
     VoicePlay("I150500000_05_130");
     MsgDisp("Hiiragi","Before I realized, I was here.");
-    MsgDisp("主人公","Um......");
+    MsgDisp("主人公","Um...");
     ChEye(5,3);
     VoicePlay("I150500000_05_140");
     MsgDisp("Hiiragi","Heheh, if you think about it, I suppose

@@ -16,7 +16,7 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
 VoicePlay("G020110304_01_020");
-MsgDisp("Kazama","But a quiet Night Parade......
+MsgDisp("Kazama","But a quiet Night Parade...
 Yeah, I like it.");
 MsgDisp("主人公","I agree.");
 ChEye(1,4);
@@ -27,13 +27,13 @@ VoicePlay("G020110304_01_030");
 MsgDisp("Kazama","Shhhh.
 Try listening close for a bit.");
 MsgDisp("主人公","Huh?
-Okay. .........");
+Okay. ......");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChMouthOpenLevel(1,0);
 VoicePlay("G020110304_01_040");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -105,7 +105,7 @@ VoicePlay("G020110304_01_140");
 MsgDisp("Kazama","Man, why can't your birthday get here
 sooner?");
 MsgDisp("主人公","(But if my birthdays come too quick, I'll
-be a granny in no time......)");
+be a granny in no time...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

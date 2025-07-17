@@ -12,7 +12,7 @@ VoicePlay("G020230101_02_010");
 MsgDisp("Sassa","Seeing the fireflies reminded me.
 There are places where the light gather.
 It's exactly like that.");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -28,7 +28,7 @@ MsgDisp("Sassa","It feels good, you know, seeing the
 correct information about you spread.");
 MsgDisp("主人公","But, if you're surrounded by a lot of
 people like those fireflies over there, it
-might be a bit overwhelming......");
+might be a bit overwhelming...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -49,7 +49,7 @@ VoicePlay("G020230101_02_060");
 MsgDisp("Sassa","Alright, I need to make our time together
 even more meaningful.");
 MsgDisp("主人公","(It's true, I might have made more friends
-without realizing it......)");
+without realizing it...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

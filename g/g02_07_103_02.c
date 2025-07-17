@@ -32,11 +32,11 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710302_07_040");
-MsgDisp("Mikage","......In that case, I feel like
+MsgDisp("Mikage","...In that case, I feel like
 coincidentally matching might be superior
 to coordinated outfits.");
 MsgDisp("主人公","I sort of get what you mean.
-It feels more like fate, doesn't it......");
+It feels more like fate, doesn't it...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

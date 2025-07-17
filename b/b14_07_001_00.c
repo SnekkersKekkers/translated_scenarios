@@ -52,7 +52,7 @@ MsgDisp("主人公","Eh...
 ChEye(7,1);
 ChMouth(7,4);
 VoicePlay("B140700100_07_040");
-MsgDisp("Mikage","............");
+MsgDisp("Mikage","......");
 MsgDisp("主人公","Ah, the jacket!");
 ChEye(7,0);
 ChMouth(7,4);

@@ -1,13 +1,13 @@
 MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510302_05_000");
-MsgDisp("Hiiragi","It truly is beautiful......");
+MsgDisp("Hiiragi","It truly is beautiful...");
 VoicePlay("G020510302_05_010");
 MsgDisp("Hiiragi","By chance, a spring of water emerged,
 forming a pond, and fireflies settled
 there. And it just happened to be in a
-forest park......");
-MsgDisp("主人公","Yes, it's like a miracle......");
+forest park...");
+MsgDisp("主人公","Yes, it's like a miracle...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -20,7 +20,7 @@ VoicePlay("G020510302_05_030");
 MsgDisp("Hiiragi","Speaking of which, we also had a small
 coincidence, didn't we?");
 MsgDisp("主人公","Eh?
-...... Are you perhaps talking about our
+... Are you perhaps talking about our
 clothes today?");
 ChEye(5,3);
 ChMotion(5,3);

@@ -32,7 +32,7 @@ I'm so glad!)");
 matches, right?
 You really know how to multitask.");
     MsgDisp("主人公","(｛風真＊＊｝ gave me a compliment!
-Cute and strong......
+Cute and strong...
 I'm really happy!)");
     break ;
     default :

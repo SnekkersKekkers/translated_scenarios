@@ -23,13 +23,13 @@ ChMotion(8,0,1);
 VoicePlay("K020801000_08_010");
 MsgDisp("Shirahane","C'mon, there's still somethin' left today,
 right?");
-MsgDisp("主人公","Something left......?");
+MsgDisp("主人公","Something left...?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("K020801000_08_020");
 MsgDisp("Shirahane","Your birthday.");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 ｛大地＊＊｝, you remembered?");
 ChEye(8,4);
 ChMouth(8,0);
@@ -52,7 +52,7 @@ ChMotion(8,0,1);
 VoicePlay("K020801000_08_050");
 MsgDisp("Shirahane","And, here.
 Take this.");
-MsgDisp("主人公","Ah...... a present?");
+MsgDisp("主人公","Ah... a present?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,2,1);
@@ -72,7 +72,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);
 SEWait();
-MsgDisp("主人公","(I'm so happy......
+MsgDisp("主人公","(I'm so happy...
 This year is going to be a good one!)");
 MsgClose();
 ScrFadeOut(0,0);

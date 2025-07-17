@@ -7,7 +7,7 @@ ChMotion(6,0);
 VoicePlay("B070600000_06_190");
 MsgDisp("Himuro","I listen to whatever.
 I like rock the most though.");
-MsgDisp("主人公","Heeh, that's somewhat surprising.");
+MsgDisp("主人公","Ehhh, that's somewhat surprising.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

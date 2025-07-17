@@ -15,7 +15,7 @@ VoicePlay("G020310304_03_010");
 MsgDisp("Honda","Oh, sorry for bringing it up suddenly!
 I've been thinking about your birthday
 present.");
-MsgDisp("主人公","Did I maybe give a weird reaction......?");
+MsgDisp("主人公","Did I maybe give a weird reaction...?");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,5);
@@ -59,7 +59,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310304_03_080");
-MsgDisp("Honda","Haa, I'm glad......
+MsgDisp("Honda","Haa, I'm glad...
 Then the next one should be fine too.");
 MsgDisp("主人公","Next one.");
 ChEye(3,0);
@@ -73,10 +73,10 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020310304_03_100");
-MsgDisp("Honda","......but if I tell you now, it won't be
+MsgDisp("Honda","...but if I tell you now, it won't be
 much of a surprise, right?");
 MsgDisp("主人公","(｛本多＊＊｝, you've been thinking about
-me like this......)");
+me like this...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

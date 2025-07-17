@@ -41,7 +41,7 @@ point? That's amazing.");
     MsgDisp("Sassa","It's cool that you care about winning too.
 Let's work hard for each other.");
     MsgDisp("主人公","(I can't believe ｛颯砂＊＊｝
-praised me, I'm glad I won ......!)");
+praised me, I'm glad I won ...!)");
     break ;
     default :
     DbgAssert(1);

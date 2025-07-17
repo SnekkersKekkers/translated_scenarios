@@ -1,13 +1,13 @@
 BGOpen("sc823",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow, so pretty......!");
+MsgDisp("主人公","Wow, so pretty...!");
 MsgClose();
 ChOpen(5,254,0,4,4,#1,#1,0,1,0,30);
 ChOpen(7,254,4,0,0,#1,#1,0,2,0,30);
 VoicePlay("Q070C00200_05_000");
-MsgDisp("Hiiragi","It is said to be 150 years old......
-It still looks very usable.");
+MsgDisp("Hiiragi","It is said to be 150 years old...
+It still looks functional.");
 MsgDisp("主人公","Yeah, I'm sure it has been really well
 kept.");
 ChEye(7,0);
@@ -28,7 +28,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("Q070C00200_07_010");
-MsgDisp("Mikage","The traders who once lived here traveled
+MsgDisp("Mikage","The merchants who once lived here traveled
 around a lot like you, Yanosuke. Then they
 decided to stay here in Nagasaki.");
 ChEye(5,0);

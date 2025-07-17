@@ -70,7 +70,7 @@ Thank goodness!)");
     VoicePlay("L040700004_07_070");
     MsgDisp("Mikage","Your hard work is really showing through.");
     MsgDisp("主人公","There are some parts that I couldn't do
-very well......");
+very well...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);

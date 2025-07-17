@@ -26,7 +26,7 @@ SEPlay("EV_SE_603",0.6);
 ScrFadeIn(0);
 Wait(40,0);
 VoicePlay("D010100400_01_010");
-MsgDisp("Kazama","H-Hey......");
+MsgDisp("Kazama","H-Hey...");
 MsgDisp("主人公","Ah, our hands——");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -40,21 +40,21 @@ MsgDisp("Woman Customer A","Wow, look.
 There's a new item.");
 VoicePlay("D010100400_48_000");
 MsgDisp("Woman Customer B","Oh, you're right.
-Huh......
+Huh...
 Where is Kazama-kun?");
 SEStop("EV_SE_843",2);
 SEStop("EV_SE_511",2);
 StlEyeOpenLevel(1,5);
 StlMouth(1,1);
 VoicePlay("D010100400_01_020");
-MsgDisp("Kazama","......It feels like time froze, doesn't
+MsgDisp("Kazama","...It feels like time froze, doesn't
 it?");
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D010100400_01_030");
 MsgDisp("Kazama","Okay, just three more seconds like this.");
 MsgDisp("主人公","Eh?");
 VoicePlay("D010100400_01_040");
-MsgDisp("Kazama","......One, zero.");
+MsgDisp("Kazama","...One, zero.");
 StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
 MsgClose();
@@ -74,7 +74,7 @@ ScrFadeIn(0);
 ChMotion(1,4);
 VoicePlay("D010100400_01_050");
 MsgDisp("Kazama","Look at us, what are we doing during work?");
-MsgDisp("主人公","Uhm......
+MsgDisp("主人公","Uhm...
 Inventory?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -92,8 +92,8 @@ MsgDisp("主人公","Hehe, sure.");
 VoicePlay("D010100400_01_070");
 MsgDisp("Kazama","Welcome.
 Sorry for the wait.");
-MsgDisp("主人公","(Haa......
-My heart is racing......)");
+MsgDisp("主人公","(Haa...
+My heart is racing...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

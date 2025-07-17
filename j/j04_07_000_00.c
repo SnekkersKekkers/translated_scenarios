@@ -16,7 +16,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("J040700000_07_010");
-MsgDisp("Mikage","So, you......");
+MsgDisp("Mikage","So, you...");
 MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Is there somewhere you want to go?");
 ChEye(7,0);
@@ -43,7 +43,7 @@ I'll see you later.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(｛御影＊＊｝ I guess I should have kept
-him company......)");
+him company...)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -4,8 +4,8 @@ ChMouth(8,0);
 ChMotion(8,0);
 ChCheek(8,5);
 VoicePlay("G020810304_08_000");
-MsgDisp("Shirahane","It's beautiful......");
-MsgDisp("主人公","Yeah......");
+MsgDisp("Shirahane","It's beautiful...");
+MsgDisp("主人公","Yeah...");
 ChMotion(8,3,1);
 VoicePlay("G020810304_08_010");
 MsgDisp("Shirahane","I feel like I want to give you this whole
@@ -19,7 +19,7 @@ ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 ChCheek(8,8);
 VoicePlay("G020810304_08_020");
-MsgDisp("Shirahane","Ah......
+MsgDisp("Shirahane","Ah...
 If you were happy with it, that also makes
 me happy.");
 ChEye(8,3);
@@ -34,7 +34,7 @@ ChEye(8,3);
 ChMouth(8,0);
 VoicePlay("G020810304_08_040");
 MsgDisp("Shirahane","Until I decided on a present, I really
-thought about you every day.......");
+thought about you every day....");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
@@ -51,7 +51,7 @@ VoicePlay("G020810304_08_060");
 MsgDisp("Shirahane","Yeah.
 After all, I wanted you to be happy
 receiving it.");
-MsgDisp("主人公","(｛大地＊＊｝......
+MsgDisp("主人公","(｛大地＊＊｝...
 I'm happy.)");
 BGMStop();
 MsgClose();

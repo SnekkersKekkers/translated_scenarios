@@ -33,7 +33,7 @@ cow-patterned t-shirt as a present!");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("P130200000_02_020");
-    MsgDisp("Sassa","Matching with you, huh...... interesting.
+    MsgDisp("Sassa","Matching with you, huh... interesting.
 I'll break the record.");
     MsgDisp("主人公","Then, admission for oーne!");
     MsgClose();
@@ -86,7 +86,7 @@ freshly squeezed milk as a present.");
     ChMotion(2,4);
     ChCheek(2,10);
     VoicePlay("P130200000_02_070");
-    MsgDisp("Sassa","F-Freshly squeezed......");
+    MsgDisp("Sassa","F-Freshly squeezed...");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,1);

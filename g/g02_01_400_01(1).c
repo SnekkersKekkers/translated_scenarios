@@ -20,7 +20,7 @@ VoicePlay("G020140001_01_020");
 MsgDisp("Kazama","Or the sweets we got from the old lady at
 the tobacco shop when we used to walk home
 together.");
-MsgDisp("主人公","Sorry, I don't really remember much......");
+MsgDisp("主人公","Sorry, I don't really remember much...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -69,7 +69,7 @@ MsgDisp("Kazama","Well, I guess ridiculous ones are okay
 too?
 As long as they're with you.");
 MsgDisp("主人公","(I hope I can make lots of memories with
-｛風真＊＊｝......)");
+｛風真＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

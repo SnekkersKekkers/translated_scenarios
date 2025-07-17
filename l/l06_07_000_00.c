@@ -24,7 +24,7 @@ VoicePlay("l0607000033_07_020");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
-MsgDisp("Mikage","You got...... \"
+MsgDisp("Mikage","You got... \"
 Good luck\".
 See you.");
 MsgClose();
@@ -34,6 +34,6 @@ MsgClose();
 ChClose(7);
 Wait(60);
 MsgDisp("主人公","(Hm.
-This is definitely obligatory......)");
+This is definitely obligatory...)");
 MsgClose();
 ScrFadeOut(0,0);

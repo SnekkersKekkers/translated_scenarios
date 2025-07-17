@@ -2,8 +2,8 @@ BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This an expanded color version of the
-insect encyclopedia huh......
-What a splendid book......)");
+insect encyclopedia huh...
+What a splendid book...)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,0,#1,#1,0,0);
@@ -38,9 +38,9 @@ VoicePlay("G110300800_03_030");
 MsgDisp("Honda","This one is about the 3500km journey of
 the Monarch butterfly.
 Which one are you interested in?");
-MsgDisp("主人公","(Hmm......I'm more interested in the book
+MsgDisp("主人公","(Hmm...I'm more interested in the book
 ｛本多＊＊｝ is holding so dearly
-than the ones on the shelf......)");
+than the ones on the shelf...)");
 while (1){
     RunEverydaySksp(3,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -68,7 +68,7 @@ VoicePlay("G110300800_03_070");
 MsgDisp("Honda","Yep yep, that's fine.
 This is a 'Weevil Picture Book', have at
 it!");
-MsgDisp("主人公","(Weevil......?
+MsgDisp("主人公","(Weevil...?
 Umm, maybe it's okay after all.)");
 BGMStop();
 MsgClose();

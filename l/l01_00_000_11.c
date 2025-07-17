@@ -3,7 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Come to think of it,
 ｛みちる＊｝ and
 ｛ひかる＊｝ invited me
-to make handmade chocolates together......");
+to make handmade chocolates together...");
 MsgSel("I'll make chocolate with them.","I'll reject them this time.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -44,7 +44,7 @@ Let's start.");
     break ;
     case 1:
     MsgDisp("主人公","Yeah, I don't need to this time.
-Let's reject them......");
+Let's reject them...");
     MsgClose();
     ScrFadeOut(0);
     break ;

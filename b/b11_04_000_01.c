@@ -16,7 +16,7 @@ MsgDisp("主人公","Eh?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110400001_34_010");
-MsgDisp("Guy","Heeh, that gear looks good on you.");
+MsgDisp("Guy","Ehhh, that gear looks good on you.");
 MsgDisp("主人公","(This guy is pretty weird himself
 though...)");
 ChEye(34,0);

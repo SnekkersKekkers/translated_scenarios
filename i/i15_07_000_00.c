@@ -35,7 +35,7 @@ at your part-time job.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(He left......
+    MsgDisp("主人公","(He left...
 Why did ｛御影＊＊｝ even
 come?)");
     MsgClose();
@@ -74,23 +74,23 @@ Then, I'll buy something to apologize.");
     MsgClose();
     ChOpen(7,255,1,2,0,#1,#1,0,0);
     VoicePlay("I150700000_07_060");
-    MsgDisp("Mikage","I bought too much......");
+    MsgDisp("Mikage","I bought too much...");
     MsgDisp("主人公","Thank you very much for your large
 purchase.");
     ChEye(7,2);
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("I150700000_07_070");
-    MsgDisp("Mikage","You...... when was it that you became so
-good at business......");
+    MsgDisp("Mikage","You... when was it that you became so
+good at business...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I150700000_07_080");
-    MsgDisp("Mikage","Haa......
+    MsgDisp("Mikage","Haa...
 I'll have to cut back on the part-time job
 visits.");
-    MsgDisp("主人公","(Part-time job visits......?
+    MsgDisp("主人公","(Part-time job visits...?
 But I managed to sell a lot!)");
     MsgClose();
     BGMStop();
@@ -114,12 +114,12 @@ What are you looking for today?");
     VoicePlay("I150700000_07_100");
     MsgDisp("Mikage","I could see you from outside.
 I just came in.");
-    MsgDisp("主人公","I see......");
+    MsgDisp("主人公","I see...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("I150700000_07_110");
-    MsgDisp("Mikage","The mood definitely just dropped......
+    MsgDisp("Mikage","The mood definitely just dropped...
 Alright, show me something you recommend.");
     MsgDisp("主人公","Understood!");
     ChEye(7,0);
@@ -141,7 +141,7 @@ Alright, show me something you recommend.");
     ChMotion(7,1);
     VoicePlay("I150700000_07_130");
     MsgDisp("Mikage","I definitely bought too much with
-this......");
+this...");
     MsgDisp("主人公","｛御影＊＊｝, are you
 okay?");
     ChEye(7,0);
@@ -155,9 +155,9 @@ You don't need to worry about anything.");
     ChMotion(7,4);
     VoicePlay("I150700000_07_150");
     MsgDisp("Mikage","Part-time job visits to this place are
-dangerous......
+dangerous...
 I'll go bankrupt soon.");
-    MsgDisp("主人公","(｛御影＊＊｝, what happened......?
+    MsgDisp("主人公","(｛御影＊＊｝, what happened...?
 But, he bought a lot!)");
     MsgClose();
     BGMStop();

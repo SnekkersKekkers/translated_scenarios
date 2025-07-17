@@ -19,7 +19,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140A06102_01_010");
-MsgDisp("Kazama","Heeh?
+MsgDisp("Kazama","Ehhh?
 Is that how he's like to you too?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -37,7 +37,7 @@ Year.");
     ChMotion(2,0);
     VoicePlay("S060200000_02_030");
     MsgDisp("Sassa","I adjusted the time, I didn't want to wait
-any longer......
+any longer...
 Was I too early?");
     MsgDisp("主人公","Nope, you're fine.");
     ChEye(2,0);

@@ -13,7 +13,7 @@ What's the issue?");
 ChMotion(4,1,1);
 VoicePlay("D100400000_04_010");
 MsgDisp("Nanatsumori","Do you have your Japanese Lit textbook?
-I forgot mine......");
+I forgot mine...");
 MsgDisp("主人公","I do.
 Here, take it.");
 ChEye(4,0);

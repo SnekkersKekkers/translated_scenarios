@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......today
+MsgDisp("主人公","(That's right...today
 ｛風真＊＊｝ invited me to walk
 home together.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -28,13 +28,13 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_000");
 MsgDisp("Kazama","Hey, you've been getting along with Honda
 recently, huh?");
-MsgDisp("主人公","Eh, ｛本多＊＊｝......?");
+MsgDisp("主人公","Eh, ｛本多＊＊｝...?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G110100602_01_010");
-MsgDisp("Kazama","Haa......");
+MsgDisp("Kazama","Haa...");
 ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -48,14 +48,14 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_030");
 MsgDisp("Kazama","Haaー, I wish I didn't ask.");
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100602_01_040");
-MsgDisp("Kazama","Phew......
+MsgDisp("Kazama","Phew...
 Frankly it's frustrating, but it can't be
 helped now.");
 ChEyeOpenLevel(1,0);

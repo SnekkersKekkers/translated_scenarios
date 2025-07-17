@@ -5,7 +5,7 @@ VoicePlay("I620000000_40_000");
 MsgDisp("Manager","Thank you for calling.
 This is Stallion Gasoline.");
 MsgDisp("主人公","I'm calling about your help wanted ad for
-the part-time job opening......");
+the part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

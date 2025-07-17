@@ -5,7 +5,7 @@ ChMotion(1,0);
 VoicePlay("G020110401_01_000");
 MsgDisp("Kazama","When you see a view like this, you start
 to wonder where to go next for a
-date......");
+date...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -26,7 +26,7 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChCheek(1,5);
 VoicePlay("G020110401_01_030");
-MsgDisp("Kazama","But you know......maybe the spot doesn't
+MsgDisp("Kazama","But you know...maybe the spot doesn't
 really matter. After all, I'm only looking
 at you and listening to your voice.");
 MsgDisp("主人公","You still need to look at your

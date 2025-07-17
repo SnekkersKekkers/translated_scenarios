@@ -25,7 +25,7 @@ MsgDisp("Nanatsumori","There's real substance when he talks. If
 you ask a question, he'll always give you
 an answer. Whether it's right or wrong is
 a different matter.");
-MsgDisp("主人公","Heeh....");
+MsgDisp("主人公","Ehhh....");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -52,7 +52,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20301_06_020");
-MsgDisp("Himuro","Heeh... Yanosuke-senpai is also concerned
+MsgDisp("Himuro","Ehhh... Yanosuke-senpai is also concerned
 about appearance. Is that how it is for
 actors?");
 ChEye(5,4);
@@ -82,7 +82,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_050");
 MsgDisp("Hiiragi","I didn't notice I was smiling though.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

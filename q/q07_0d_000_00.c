@@ -12,7 +12,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q070D00000_22_000");
 MsgDisp("Hikaru","Such a huge windmill～!
-I can't believe it spins by the wind......");
+I can't believe it spins by the wind...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -38,7 +38,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 ScrFadeIn(0);
 VoicePlay("Q070D00000_21_010");
-MsgDisp("Michiru","...... How is it?
+MsgDisp("Michiru","... How is it?
 Did it come out okay?");
 ChEye(22,3);
 ChMouth(22,3);
@@ -52,7 +52,7 @@ ChMouth(21,4);
 ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("Q070D00000_21_020");
-MsgDisp("Michiru","Oh no......
+MsgDisp("Michiru","Oh no...
 Take it again, please!");
 ChEye(22,0);
 ChMouth(22,3);
@@ -93,7 +93,7 @@ VoicePlay("Q070D00000_21_040");
 MsgDisp("Michiru","It seems it was modeled after a tall tower
 overseas.
 It was originally a church's bell.");
-MsgDisp("主人公","Huh, wow......!");
+MsgDisp("主人公","Huh, wow...!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -129,7 +129,7 @@ MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(After this, we're going to Nagasaki city.
 Huis ten Bosch was so much fun and
-pretty......!)");
+pretty...!)");
 BGMStop(2);
 Wait(60,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -159,7 +159,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("Q070D00000_21_090");
-MsgDisp("Michiru","Now I remember......");
+MsgDisp("Michiru","Now I remember...");
 MsgDisp("主人公","What did you figure out?");
 ChEye(21,4);
 ChMouth(21,3);
@@ -185,7 +185,7 @@ ChMotion(22,4,1);
 VoicePlay("Q070D00000_22_100");
 MsgDisp("Hikaru","Non non!
 I'm doing it for you▼");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -204,7 +204,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(21);
 MsgDisp("主人公","(It turned into a search for the
-heart......
+heart...
 That's fun too, though!)");
 BGMStop();
 MsgClose();

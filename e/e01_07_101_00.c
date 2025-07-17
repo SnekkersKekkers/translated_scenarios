@@ -1,10 +1,10 @@
 ChLayout(1);
 BGOpen("ne100",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I think it's time to go home......)");
+MsgDisp("主人公","(I think it's time to go home...)");
 VoicePlay("E010710100_47_000");
 MsgDisp("Clerk","Sensei, here's a bonus.");
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Hm?
 Sensei?)");
 VoicePlay("E010710100_07_000");
@@ -55,7 +55,7 @@ Take care on your way home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Amazing......
+MsgDisp("主人公","(Amazing...
 ｛御影＊＊｝'s home is full
 of vegetables and plants!)");
 MsgClose();

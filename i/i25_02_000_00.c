@@ -55,7 +55,7 @@ It's that.");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ really likes
-dogs......)");
+dogs...)");
     break ;
     case 3:
     VoicePlay("I250200000_02_060");
@@ -83,7 +83,7 @@ or when we go out.");
 Ah, but not in a bad way.
 This, please.");
     MsgDisp("主人公","Yes, thank you very much.
-......\" Animal Nutrition\"?");
+...\" Animal Nutrition\"?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -130,7 +130,7 @@ Just you being here makes the store nicer.");
     ChMouth(2,3);
     ChMotion(2,2);
     VoicePlay("I250200000_02_150");
-    MsgDisp("Sassa","Haa......
+    MsgDisp("Sassa","Haa...
 I want to work part-time here, too.");
     MsgDisp("主人公","Huh?
 You, ｛颯砂＊＊｝, in a bookstore?");
@@ -146,7 +146,7 @@ this apron, ｛颯砂＊＊｝.");
     ChMouth(2,3);
     ChMotion(2,0);
     VoicePlay("I250200000_02_170");
-    MsgDisp("Sassa","Matching aprons with you......
+    MsgDisp("Sassa","Matching aprons with you...
 Nice, maybe I'll really get a part-time
 job here.");
     ChEye(2,3);

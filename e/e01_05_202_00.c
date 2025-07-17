@@ -2,7 +2,7 @@ BGOpen("fp000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Should I head home now?
-...... Huh, over there is that-)");
+... Huh, over there is that-)");
 VoicePlay("E010520200_03_000");
 MsgDisp("Honda?","Yano-kun is really popular.");
 VoicePlay("E010520200_05_000");
@@ -81,7 +81,7 @@ ChMotion(3,2);
 VoicePlay("E010520200_03_060");
 MsgDisp("Honda","It's not funny.
 That makes it seem like I'm the bad
-guy......");
+guy...");
 ChEye(5,0);
 ChEye(3,0);
 ChMouth(3,0);

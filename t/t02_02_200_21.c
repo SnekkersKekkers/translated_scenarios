@@ -6,14 +6,14 @@ ChMouth(2,2);
 ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("T020220021_02_000");
-MsgDisp("Sassa","......You kissed me?");
-MsgDisp("主人公","Yes......
+MsgDisp("Sassa","...You kissed me?");
+MsgDisp("主人公","Yes...
 I also love ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220021_02_010");
-MsgDisp("Sassa","Seriously...... will you continue to run
+MsgDisp("Sassa","Seriously... will you continue to run
 with me from now on?");
 MsgDisp("主人公","Yes!
 Let's try to achieve ｛颯砂＊＊｝'s
@@ -26,7 +26,7 @@ MsgDisp("Sassa","Nothing could make me happier!
 I'm going to tell them both that you
 answered with a kiss!!");
 MsgDisp("主人公","Eh∋
-That's a little......");
+That's a little...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -39,7 +39,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("T020220021_02_040");
-MsgDisp("Sassa","......I'll give you an answer too.");
+MsgDisp("Sassa","...I'll give you an answer too.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -48,11 +48,11 @@ Wait(120,0);
 StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020220021_02_050");
-MsgDisp("Sassa","Show your face......");
+MsgDisp("Sassa","Show your face...");
 VoiceEVSPlay(2);
 VoicePlay("T020220021_02_060");
-MsgDisp("Sassa","｛主人公｝......
-Yes......
+MsgDisp("Sassa","｛主人公｝...
+Yes...
 I love you.");
 StlEffect(1,1,60);
 Wait(60,0);

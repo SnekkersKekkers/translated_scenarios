@@ -1,11 +1,11 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Hmmm, nice weather.
-It feels nice......)");
+It feels nice...)");
 SEPlay("EV_SE_671");
 SEWait();
-MsgDisp("主人公","Those footsteps......
-Could it be......");
+MsgDisp("主人公","Those footsteps...
+Could it be...");
 VoicePlay("G110200500_02_000");
 MsgDisp("Sassa?","Oh, there you are.
 Let's run together!");
@@ -26,9 +26,9 @@ ScrFadeIn(0);
 VoicePlay("G110200500_02_010");
 MsgDisp("Sassa","Yeah.
 You look like a fine athlete.");
-MsgDisp("主人公","Haa......
+MsgDisp("主人公","Haa...
 ｛颯砂＊＊｝, you're a bit fast
-today......");
+today...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -38,7 +38,7 @@ But, you're doing completely fine.");
 MsgDisp("主人公","Y-Yeah.
 Somewhat.");
 MsgDisp("主人公","(｛颯砂＊＊｝, I wonder if he's really
-running all out......
+running all out...
 His mouth, is he smiling?)");
 BGMVol(0.5,2);
 while (1){

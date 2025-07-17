@@ -3,7 +3,7 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
 something to say to me while we walk home
-......I wonder if something happened?)");
+...I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -24,7 +24,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100600_01_000");
-MsgDisp("Kazama","......It's fine now.");
+MsgDisp("Kazama","...It's fine now.");
 MsgDisp("主人公","Eh?");
 ChEye(1,1);
 ChMouth(1,0);
@@ -32,8 +32,8 @@ ChMotion(1,1);
 VoicePlay("G110100600_01_010");
 MsgDisp("Kazama","It was regarding Sassa.
 I thought I had so many things to
-ask...... but I stopped.");
-MsgDisp("主人公","｛颯砂＊＊｝......?");
+ask... but I stopped.");
+MsgDisp("主人公","｛颯砂＊＊｝...?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -64,7 +64,7 @@ SEPlay("EV_SE_697",0.2,0.3);
 Wait(10,0);
 ChOpen(1,100,1,1,0,0,#1,0,0);
 VoicePlay("G110100600_01_050");
-MsgDisp("Kazama","Phew...... this is wrong.
+MsgDisp("Kazama","Phew... this is wrong.
 I mean what am I so worried about?
 How pathetic, huh?");
 ChEyeOpenLevel(1,#1);
@@ -75,7 +75,7 @@ ChMotion(1,0);
 VoicePlay("G110100600_01_060");
 MsgDisp("Kazama","It's time for us to go.
 I'll walk you back.");
-MsgDisp("主人公","(｛風真＊＊｝......)");
+MsgDisp("主人公","(｛風真＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -13,7 +13,7 @@ That kimono is perfect.");
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_010");
     MsgDisp("Nanatsumori","You have a different charm to you than
-those professional model girls......");
+those professional model girls...");
     MsgDisp("主人公","Really?
 That's a little embarrassing.");
     ChEye(4,0);
@@ -38,7 +38,7 @@ Very beautiful.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_040");
-    MsgDisp("Nanatsumori","Heh......
+    MsgDisp("Nanatsumori","Heh...
 I think it looks better on you than on a
 professional model.");
     ChEye(4,2);
@@ -64,7 +64,7 @@ is happy!)");
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("S060400001_04_070");
-    MsgDisp("Nanatsumori","By the way......
+    MsgDisp("Nanatsumori","By the way...
 Is that kimono custom made?");
     MsgDisp("主人公","Huh?");
     ChEye(4,0);
@@ -78,7 +78,7 @@ It's not custom made, but I like it too.");
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_090");
     MsgDisp("Nanatsumori","I see.
-Really so beautiful......");
+Really so beautiful...");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);

@@ -16,7 +16,7 @@ MsgDisp("主人公","Yes, I'm looking forward to it!");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("P513200001_32_010");
-MsgDisp("VP Himuro","...... Hmm, that's very good.
+MsgDisp("VP Himuro","... Hmm, that's very good.
 The confidence backed by practice makes me
 think so.");
 ChEye(32,2);
@@ -27,7 +27,7 @@ Give it your all right up until the big
 day!");
 VoicePlay("P513200001_38_000");
 MsgDisp("Members","Yes!");
-MsgDisp("主人公","(I have to do it successfully......
+MsgDisp("主人公","(I have to do it successfully...
 Okay, let's do our best!)");
 MsgClose();
 ScrFadeOut(0);

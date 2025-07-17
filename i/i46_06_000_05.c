@@ -7,18 +7,18 @@ switch (ChPrmGet(6,6)){
     case 2:
     case 3:
     VoicePlay("I460600005_40_000");
-    MsgDisp("Male Customer","............");
+    MsgDisp("Male Customer","......");
     MsgDisp("主人公","Are you looking for a specific flower?");
     VoicePlay("I460600005_40_010");
-    MsgDisp("Male Customer","Umm......");
+    MsgDisp("Male Customer","Umm...");
     MsgDisp("主人公","If it's for a gift, the mini bouquets and
 arrangements are popular.");
     VoicePlay("I460600005_40_020");
-    MsgDisp("Male Customer","I, see......");
+    MsgDisp("Male Customer","I, see...");
     MsgDisp("主人公","There are also male clerks if you'd like
 me to call one over?");
     VoicePlay("I460600005_40_030");
-    MsgDisp("Male Customer","Ah...... yes, please.");
+    MsgDisp("Male Customer","Ah... yes, please.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -77,7 +77,7 @@ You really are swee-");
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("I460600005_06_050");
-    MsgDisp("Himuro","......Shrewd.");
+    MsgDisp("Himuro","...Shrewd.");
     MsgDisp("主人公","Huh∋");
     ChEye(6,0);
     ChMouth(6,0);
@@ -85,7 +85,7 @@ You really are swee-");
     VoicePlay("I460600005_06_060");
     MsgDisp("Himuro","Well, this talent for business will surely
 come in handy later, right?");
-    MsgDisp("主人公","(Um......
+    MsgDisp("主人公","(Um...
 I guess he's complimenting me?)");
     break ;
     default :

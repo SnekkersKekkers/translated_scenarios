@@ -19,7 +19,7 @@ ChMotion ( 3,1 ) ;
 VoiceEVSPlay ( 3 ) ;
 VoicePlay ( "D150003600_03_010" ) ;
 MsgDisp ( "Honda","｛主人公｝, compare us." ) ;
-MsgDisp ( "主人公","Uhm......
+MsgDisp ( "主人公","Uhm...
 Yeah.
 ｛本多＊＊｝ is a bit taller." ) ;
 ChEye ( 3,0 ) ;
@@ -59,7 +59,7 @@ MsgDisp ( "Himuro","I guess it's not a complex then.
 I'll keep growing though." ) ;
 MsgDisp ( "主人公","Really?
 I think ｛氷室＊＊｝ is fine the
-way he is now～......" ) ;
+way he is now～..." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,1 ) ;

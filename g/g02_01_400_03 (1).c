@@ -44,7 +44,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020140003_01_050");
-MsgDisp("Kazama","...... But, seriously, of course we will.
+MsgDisp("Kazama","... But, seriously, of course we will.
 It's just driftwood that I picked up at
 the beach when I was a kid.");
 ChEyeOpenLevel(1,0);
@@ -63,7 +63,7 @@ VoicePlay("G020140003_01_070");
 MsgDisp("Kazama","And when I did, I noticed a slight
 fragrance. You know about fragrant woods?
 The quality ones sell at crazy prices.");
-MsgDisp("主人公","Do you mean......");
+MsgDisp("主人公","Do you mean...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -85,7 +85,7 @@ ChMotion(1,0);
 VoicePlay("G020140003_01_100");
 MsgDisp("Kazama","And it says 'elephant' on the backside in
 terrible handwriting.");
-MsgDisp("主人公","Elephant......
+MsgDisp("主人公","Elephant...
 Why?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -104,7 +104,7 @@ MsgDisp("Kazama","So you understand why we can't sell it at
 a high price, yeah?");
 MsgDisp("主人公","(I'm sure that ｛風真＊＊｝ has
 had a good eye for things since he was
-little......)");
+little...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

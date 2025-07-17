@@ -2,7 +2,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -21,7 +21,7 @@ Then, do you want to be a team?");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -31,7 +31,7 @@ Then, do you want to be a team?");
     MsgDisp("Honda","｛主人公｝, what's up?");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.
 I haven't found a partner for the
-three-legged race, yet......");
+three-legged race, yet...");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -49,7 +49,7 @@ Let's do this!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();
@@ -76,13 +76,13 @@ to ask that person to switch with me.");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("O030301000_03_080");
-    MsgDisp("Honda","...... What!?
+    MsgDisp("Honda","... What!?
 Is that true!?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("O030301000_03_090");
-    MsgDisp("Honda","Then......
+    MsgDisp("Honda","Then...
 Can you team up with me?");
     MsgDisp("主人公","Hehe, of course.");
     ChEye(3,3);

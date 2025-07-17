@@ -18,7 +18,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110100_01_020");
-MsgDisp("Kazama","This isn't unrelated to myself......");
+MsgDisp("Kazama","This isn't unrelated to myself...");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -31,7 +31,7 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_040");
-MsgDisp("Kazama","And ...... this one!
+MsgDisp("Kazama","And ... this one!
 Flying around us with this delicate
 distance, that's Inori Firefly.");
 MsgDisp("主人公","Hehe.
@@ -54,22 +54,22 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_070");
-MsgDisp("Kazama","......Well, being here alone with
-you...... means we're in a dominant
+MsgDisp("Kazama","...Well, being here alone with
+you... means we're in a dominant
 position, right?");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020110100_01_080");
-MsgDisp("Kazama","There it is......");
+MsgDisp("Kazama","There it is...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110100_01_090");
 MsgDisp("Kazama","If you were a firefly, no matter how
-bright you shine, I wouldn't care......");
+bright you shine, I wouldn't care...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -83,7 +83,7 @@ ChMotion(1,0);
 VoicePlay("G020110100_01_110");
 MsgDisp("Kazama","I absolutely won't lose to anyone.");
 MsgDisp("主人公","(What's this, I feel like my heart is
-racing......)");
+racing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

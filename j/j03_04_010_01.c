@@ -13,7 +13,7 @@ switch (ChPrmGet(4,6)){
 It's
 ｛主人公苗字｝.");
     VoicePlay("J030401001_04_000");
-    MsgDisp("Nanatsumori","Oh......
+    MsgDisp("Nanatsumori","Oh...
 Nanatsumori.
 I just heard the voicemail.");
     MsgDisp("主人公","Yes?");
@@ -21,13 +21,13 @@ I just heard the voicemail.");
     MsgDisp("Nanatsumori","I can't that day.
 I have to run an errand.");
     MsgDisp("主人公","Oh.
-That's too bad......");
+That's too bad...");
     VoicePlay("J030401001_04_020");
     MsgDisp("Nanatsumori","Sorry.
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm, too bad......)");
+    MsgDisp("主人公","(Hmmm, too bad...)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, it's a call from
@@ -45,13 +45,13 @@ So, can you?");
     VoicePlay("J030401001_04_040");
     MsgDisp("Nanatsumori","I have an appointment that day.
 Sorry.");
-    MsgDisp("主人公","Oh......");
+    MsgDisp("主人公","Oh...");
     VoicePlay("J030401001_04_050");
     MsgDisp("Nanatsumori","Cheer up?
 I'll see you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm, too bad......)");
+    MsgDisp("主人公","(Hmmm, too bad...)");
     break ;
     case 4:
     case 5:
@@ -73,14 +73,14 @@ What do you think?");
     MsgDisp("Nanatsumori","Sorry.
 I have an errand I can't miss.");
     MsgDisp("主人公","Oh.
-Well, then I guess I can't blame you......");
+Well, then I guess I can't blame you...");
     VoicePlay("J030401001_04_080");
     MsgDisp("Nanatsumori","Don't make that sound.
 I'll make sure to recover it next time.
-Well then......");
+Well then...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm, too bad......)");
+    MsgDisp("主人公","(Hmmm, too bad...)");
     break ;
     default :
     DbgAssert(1);

@@ -13,7 +13,7 @@ Is this really okay?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("L040200002_02_010");
-    MsgDisp("Sassa","I see that......
+    MsgDisp("Sassa","I see that...
 Is it really okay if I take this?");
     MsgDisp("主人公","Yeah, of course.");
     ChEye(2,0);
@@ -86,7 +86,7 @@ way like this for me.");
     ChCheek(2,0);
     VoicePlay("L040200002_02_090");
     MsgDisp("Sassa","I can't lose to you either.
-Maybe I'll pick up more shifts......");
+Maybe I'll pick up more shifts...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -15,7 +15,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","That was fun.
 Well, that's how it is.");
     MsgDisp("主人公","(Hm.
-And we were so close......)");
+And we were so close...)");
     break ;
     case 3:
     ChEye(7,2);
@@ -23,14 +23,14 @@ And we were so close......)");
     ChMotion(7,2);
     VoicePlay("O030700001_07_010");
     MsgDisp("Mikage","We were close.");
-    MsgDisp("主人公","Yes, just a little more, and......");
+    MsgDisp("主人公","Yes, just a little more, and...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("O030700001_07_020");
     MsgDisp("Mikage","But everyone got pretty loud when they saw
 us, right?");
-    MsgDisp("主人公","(Yeah, it'll be a good memory......
+    MsgDisp("主人公","(Yeah, it'll be a good memory...
 But, I wish we had won.)");
     break ;
     case 4:
@@ -42,7 +42,7 @@ But, I wish we had won.)");
     MsgDisp("Mikage","Aah.
 We just needed one more step.");
     MsgDisp("主人公","I'm sorry.
-I pulled on your leg......");
+I pulled on your leg...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -56,7 +56,7 @@ That's why it's so fun.");
     VoicePlay("O030700001_07_050");
     MsgDisp("Mikage","Good work.");
     MsgDisp("主人公","(We didn't get first place, but, I'm glad
-I went with ｛御影＊＊｝......)");
+I went with ｛御影＊＊｝...)");
     MsgClose();
     break ;
     default :

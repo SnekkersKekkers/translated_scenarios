@@ -8,13 +8,13 @@ MsgDisp("主人公","Ah, manager.
 Thank you.");
 VoicePlay("I370000000_43_010");
 MsgDisp("Manager","Your thoughtfulness has been a great help.
-I'd like to ask you......");
+I'd like to ask you...");
 VoicePlay("I370000000_43_020");
 MsgDisp("Manager","I'd be happy if you came to work here
 after you graduated.
 Could you give it some thought?");
-MsgDisp("主人公","Y, yes......");
-MsgDisp("主人公","(Working at this store......
+MsgDisp("主人公","Y, yes...");
+MsgDisp("主人公","(Working at this store...
 I'll think about it.");
 MsgClose();
 ScrFadeOut(0);

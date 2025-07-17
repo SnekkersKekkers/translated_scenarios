@@ -16,7 +16,7 @@ Happy New Years to you too!");
     VoicePlay("S040700000_07_010");
     MsgDisp("Mikage","I was thinking about visiting the shrine
 soon, what do you think?");
-    MsgSel("Yes, I'd love to!","Sorry, I'm a bit......");
+    MsgSel("Yes, I'd love to!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040700000_07_020");
@@ -29,7 +29,7 @@ I'll come pick you up.");
         SEWait();
         MsgDisp("主人公","(A shrine visit with
 ｛御影＊＊｝!
-...... Now what should I wear?)");
+... Now what should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -44,7 +44,7 @@ I'll pray on your behalf for your success!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Maybe I should have gone?
-I feel a bit sorry......)");
+I feel a bit sorry...)");
         break ;
         default :
         DbgAssert(0);
@@ -67,7 +67,7 @@ Happy New Years.");
     MsgDisp("Mikage","I'm thinking about visiting the shrine
 now.
 Are you free?");
-    MsgSel("Yeah, I'd be happy to!","Sorry, I'm a bit......");
+    MsgSel("Yeah, I'd be happy to!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040700000_07_080");
@@ -82,7 +82,7 @@ you up.");
         SEWait();
         MsgDisp("主人公","(A New Year's shrine visit with
 ｛御影＊＊｝!
-...... What should I wear?)");
+... What should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -96,8 +96,8 @@ I'll go in your place then.");
 See you later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hm......
-I guess I feel bad about that......?)");
+        MsgDisp("主人公","(Hm...
+I guess I feel bad about that...?)");
         break ;
         default :
         DbgAssert(0);

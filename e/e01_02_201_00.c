@@ -1,12 +1,12 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew......
+MsgDisp("主人公","(Phew...
 Is it time to head home already?)");
 VoicePlay("E010220100_03_000");
 MsgDisp("Honda?","Sakku～ n!
 Sakku～ n!");
-MsgDisp("主人公","(Eh, this voice?......)");
+MsgDisp("主人公","(Eh, this voice?...)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);

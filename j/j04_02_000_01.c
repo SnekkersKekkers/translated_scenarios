@@ -20,13 +20,13 @@ Now, do you have a second?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040200001_02_010");
     MsgDisp("Sassa","Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.","I've got some errands to run......");
+    MsgSel("Yeah, I'm free.","I've got some errands to run...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
         case 1:
         VoicePlay("J040200001_02_020");
-        MsgDisp("Sassa","I see......
+        MsgDisp("Sassa","I see...
 I'll ask you out again.");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("J040200001_02_030");
@@ -34,7 +34,7 @@ I'll ask you out again.");
 See you at school.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(This Sunday......
+        MsgDisp("主人公","(This Sunday...
 What was that about?)");
         MsgClose();
         break ;
@@ -59,7 +59,7 @@ call you right now.?");
 So?");
     VoicePlay("J040200001_02_050");
     MsgDisp("Sassa","Let's see, this Sunday, are you free?");
-    MsgSel("Yeah, I'm free.","Sorry, I have to run an errand......");
+    MsgSel("Yeah, I'm free.","Sorry, I have to run an errand...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -75,7 +75,7 @@ I'll call you again.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He went to the trouble of asking me out.
-I did a bad thing, didn't I?......)");
+I did a bad thing, didn't I?...)");
         MsgClose();
         break ;
         default :

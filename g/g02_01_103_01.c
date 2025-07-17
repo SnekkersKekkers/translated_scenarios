@@ -69,21 +69,21 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_080");
-MsgDisp("Kazama",".........No, there is just one thing that
+MsgDisp("Kazama","......No, there is just one thing that
 bothers me.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,7);
 VoicePlay("G020110301_01_090");
-MsgDisp("Kazama","The pool......");
-MsgDisp("主人公","The pool......?
+MsgDisp("Kazama","The pool...");
+MsgDisp("主人公","The pool...?
 Oh, that cute floatie?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020110301_01_100");
-MsgDisp("Kazama","Why do you remember∋ ......Seriously, I
+MsgDisp("Kazama","Why do you remember∋ ...Seriously, I
 couldn't stop brooding over how that could
 have gone better when I got home.");
 ChEye(1,2);
@@ -111,9 +111,9 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_130");
 MsgDisp("Kazama","(sigh) I wanna go to a timeline where I
-didn't borrow that floatie that day......");
+didn't borrow that floatie that day...");
 MsgDisp("主人公","(｛風真＊＊｝ using a floatie to stay above
-water...... might be something I want to
+water... might be something I want to
 see again.)");
 BGMStop();
 MsgClose();

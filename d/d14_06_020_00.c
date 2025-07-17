@@ -8,7 +8,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140602000_06_000");
-MsgDisp("Himuro","Come to think of it......");
+MsgDisp("Himuro","Come to think of it...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

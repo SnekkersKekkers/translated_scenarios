@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110201_01_000");
-MsgDisp("Kazama","This view......is amazing, huh.");
+MsgDisp("Kazama","This view...is amazing, huh.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,1);
@@ -26,7 +26,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_030");
-MsgDisp("Kazama","......Hey, do you think we are becoming a
+MsgDisp("Kazama","...Hey, do you think we are becoming a
 pair worthy of such a special place?");
 MsgDisp("主人公","｛風真＊＊｝ is special,
 though?");
@@ -51,7 +51,7 @@ ChMouth(1,0);
 VoicePlay("G020110201_01_060");
 MsgDisp("Kazama","But from now on, we can't just wait.
 We have to go and get it ourselves, right?");
-MsgDisp("主人公","Umm......?");
+MsgDisp("主人公","Umm...?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,4);

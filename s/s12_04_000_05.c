@@ -42,7 +42,7 @@ school.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(4,0,30);
     Wait(30);
-    MsgDisp("主人公","(Our last year of high school......
+    MsgDisp("主人公","(Our last year of high school...
 Thanks to ｛七ツ森＊｝, I
 think I'll enjoy it too.)");
     break ;
@@ -65,7 +65,7 @@ memories.");
     ChMotion(4,0,1);
     ChMouthOpenLevel(4,0);
     VoicePlay("S120400005_04_060");
-    MsgDisp("Nanatsumori","............");
+    MsgDisp("Nanatsumori","......");
     ChMotion(4,1,1);
     ChMouthOpenLevel(4,#1);
     VoicePlay("S120400005_04_070");
@@ -77,10 +77,10 @@ Maybe we can keep meeting like this.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("S120400005_04_080");
-    MsgDisp("Nanatsumori","I......more with you——");
+    MsgDisp("Nanatsumori","I...more with you——");
     ChMouth(4,3);
     VoicePlay("S120400005_04_090");
-    MsgDisp("Nanatsumori","...... Stop.
+    MsgDisp("Nanatsumori","... Stop.
 I don't want to talk about this now.");
     MsgDisp("主人公","｛七ツ森＊｝?");
     ChEye(4,0);
@@ -100,7 +100,7 @@ Then, see you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(4,0,30);
     Wait(30);
-    MsgDisp("主人公","(We're graduating soon......
+    MsgDisp("主人公","(We're graduating soon...
 Like ｛七ツ森＊｝ says, I
 still have a lot of things to do!)");
     break ;

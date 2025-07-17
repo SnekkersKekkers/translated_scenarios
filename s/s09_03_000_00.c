@@ -7,7 +7,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","There are so many people over there......");
+    MsgDisp("主人公","There are so many people over there...");
     VoicePlay("S090300000_03_000");
     MsgDisp("Honda","Ah, that's where they're doing fortunes.
 A staple of a New Year's shrine visit.");
@@ -43,7 +43,7 @@ It's fun, though.");
     ChMotion(3,4,1);
     VoicePlay("S090300000_03_030");
     MsgDisp("Honda","Look, they're doing fortunes over there.");
-    MsgDisp("主人公","Uhm......");
+    MsgDisp("主人公","Uhm...");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -61,7 +61,7 @@ Let's see what we get.");
         ChMotion(3,4,1);
         VoicePlay("S090300000_03_050");
         MsgDisp("Honda","No- Are you sure?
-It's fun waiting a bit......");
+It's fun waiting a bit...");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -80,7 +80,7 @@ right?");
     VoicePlay("S090300000_03_060");
     MsgDisp("Honda","I'll take you up on that offer!");
     MsgDisp("主人公","Eh?
-I didn't mean to invite you though......");
+I didn't mean to invite you though...");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -106,7 +106,7 @@ there.");
         MsgDisp("Honda","I won't back down.
 Even if I get Bad Luck, I'll just pretend
 it's Good Luck.");
-        MsgDisp("主人公","Uhm......");
+        MsgDisp("主人公","Uhm...");
         break ;
         case 1:
         ChEye(3,0);

@@ -20,7 +20,7 @@ What is it?");
     ChMotion(1,0);
     VoicePlay("I650100000_01_010");
     MsgDisp("Kazama","Your voice is drawing the customers in.");
-    MsgDisp("主人公","Um, I don't think......");
+    MsgDisp("主人公","Um, I don't think...");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0,1);
@@ -85,7 +85,7 @@ But, are you refuelling something?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_080");
-    MsgDisp("Kazama","......Haa, thanks for the full tank of
+    MsgDisp("Kazama","...Haa, thanks for the full tank of
 high octane.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
@@ -128,7 +128,7 @@ What's up?");
     ChMotion(1,1);
     VoicePlay("I650100000_01_110");
     MsgDisp("Kazama","I was in the area.
-...... Hey, does that guy come often?");
+... Hey, does that guy come often?");
     MsgDisp("主人公","Yeah, he's a regular, you know?");
     ChEye(1,4);
     ChMouth(1,2);
@@ -166,7 +166,7 @@ They're fashionable and fun old-timers.");
     ChEyeOpenLevel(1,0);
     VoicePlay("I650100000_01_160");
     MsgDisp("Kazama","Ah, I see.
-...... Geez.
+... Geez.
 Don't make me worry.");
     MsgDisp("主人公","They jokingly ask me if I want a ride
 pretty often.");
@@ -196,7 +196,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Geez......
+    MsgDisp("主人公","(Geez...
 I can't help customers with an angry
 face.)");
     break ;

@@ -5,7 +5,7 @@ MsgDisp("Chairperson","If you're interested in joining the school
 play at this year's cultural festival,
 please make sure to sign up.");
 MsgDisp("主人公","(There's also the club exhibition, I
-wonder what I should do......)");
+wonder what I should do...)");
 MsgSel("Focus on the club exhibition","Participate in the school play");
 switch (MsgSelRsltGet()){
     case 0:

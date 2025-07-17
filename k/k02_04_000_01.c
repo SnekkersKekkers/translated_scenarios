@@ -25,7 +25,7 @@ VoicePlay("K020400001_04_010");
 MsgDisp("Nanatsumori","I came to give you a birthday present.
 I wanted to give it to you on that day,
 but I couldn't.");
-MsgDisp("主人公","That's......
+MsgDisp("主人公","That's...
 Thank you for going out of your way!");
 ChEye(4,0);
 ChMouth(4,3);

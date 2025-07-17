@@ -16,7 +16,7 @@ ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 ChCheek(1,6);
 VoicePlay("T020120000_01_380");
-MsgDisp("Kazama","...... Hey, what should I tell Inori and
+MsgDisp("Kazama","... Hey, what should I tell Inori and
 Sassa?
 About your kiss.");
 MsgDisp("主人公","Ah, you don't need to tell them about
@@ -27,7 +27,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020120000_01_390");
-MsgDisp("Kazama","I see......
+MsgDisp("Kazama","I see...
 So that wish really came true.");
 MsgDisp("主人公","That wish made by a pinwheel?");
 ChEye(1,4);
@@ -41,12 +41,12 @@ we be able to get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020120000_01_420");
-MsgDisp("Ryota","I really hope it can come true......");
+MsgDisp("Ryota","I really hope it can come true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,10);
 VoicePlay("T020120000_01_430");
-MsgDisp("Kazama","Really, I hope so......");
+MsgDisp("Kazama","Really, I hope so...");
 MsgClear();
 ScrFadeOut(0,1);
 ChClose(1,0,0);
@@ -55,7 +55,7 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("T020120000_01_440");
-MsgDisp("Kazama","......Ah, that's right. This. It looks
+MsgDisp("Kazama","...Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020120000_01_450");
@@ -65,7 +65,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_460");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝......
+MsgDisp("主人公","｛風真＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
@@ -79,12 +79,12 @@ StlClose();
 SEPlay("EV_SE_694",0,0.7);
 SEWait();
 VoicePlay("T020120000_01_480");
-MsgDisp("Kazama","Also......");
+MsgDisp("Kazama","Also...");
 StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoicePlay("T020120000_01_490");
 MsgDisp("Kazama","Actually, this should come from me, right?");
-MsgDisp("主人公","......｛風真＊＊｝.");
+MsgDisp("主人公","...｛風真＊＊｝.");
 VoicePlay("T020120000_01_500");
 MsgDisp("Kazama","You're the only one for me, I'll never let
 you go.");
@@ -104,7 +104,7 @@ StlMouth(1,0);
 Wait(6,0);
 ScrFadeIn(0);
 VoicePlay("T020120000_01_510");
-MsgDisp("Kazama","The bell is ringing......!
+MsgDisp("Kazama","The bell is ringing...!
 Those guys will be coming soon.");
 StlEyeOpenLevel(1,0,1);
 Wait(6,0);

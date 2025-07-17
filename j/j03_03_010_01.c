@@ -28,7 +28,7 @@ Then I'll ask you out again?");
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm, too bad ......)");
+    MsgDisp("主人公","(Hmmm, too bad ...)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, it's a phone call from
@@ -43,7 +43,7 @@ See you later.");
 So, I don't know?");
     VoicePlay("J030301001_03_040");
     MsgDisp("Honda","It's not possible, I've a prior
-commitment......
+commitment...
 I was hoping to adjust it somehow.");
     MsgDisp("主人公","Oh, I see.
 Never mind?
@@ -54,7 +54,7 @@ together!
 Well, I'll see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm, too bad......)");
+    MsgDisp("主人公","(Hmmm, too bad...)");
     break ;
     case 4:
     case 5:
@@ -66,13 +66,13 @@ Well, I'll see you later?");
     MsgDisp("主人公","Hello, ｛本多＊＊｝?");
     VoicePlay("J030301001_03_060");
     MsgDisp("Honda","Yeah, I am.
-About the voicemail......");
+About the voicemail...");
     MsgDisp("主人公","The way it looks, he already had plans?");
     VoicePlay("J030301001_03_070");
     MsgDisp("Honda","That's right.
 Bingo.");
     VoicePlay("J030301001_03_080");
-    MsgDisp("Honda","......I'm not happy about getting bingo at
+    MsgDisp("Honda","...I'm not happy about getting bingo at
 all though.");
     MsgDisp("主人公","Sorry for the bad timing.");
     VoicePlay("J030301001_03_090");
@@ -89,7 +89,7 @@ Blow your mind!");
 Thanks for the invite!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He had a prior engagement......
+    MsgDisp("主人公","(He had a prior engagement...
 Too bad!)");
     break ;
     default :

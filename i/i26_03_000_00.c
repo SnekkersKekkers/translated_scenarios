@@ -18,10 +18,10 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     Wait(40);
     VoicePlay("I260300000_03_010");
-    MsgDisp("Honda","...... Phew, thank goodness.
+    MsgDisp("Honda","... Phew, thank goodness.
 I told you I'd take care of the heavy
 stuff, right?");
-    MsgDisp("主人公","｛本多＊＊｝, thanks......
+    MsgDisp("主人公","｛本多＊＊｝, thanks...
 But I can't leave everything to you.");
     ChEye(3,1);
     ChMouth(3,4);
@@ -33,14 +33,14 @@ At least use a cart.");
     VoicePlay("I260300000_03_030");
     MsgDisp("Honda","This distance was fine, but this
 carelessness can lead to accidents.");
-    MsgDisp("主人公","......Okay.");
+    MsgDisp("主人公","...Okay.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_040");
     MsgDisp("Honda","Then, leave the rest to me.
 I'll leave the cash register to you.");
-    MsgDisp("主人公","(Haa......
+    MsgDisp("主人公","(Haa...
 I made ｛本多＊＊｝ worry.)");
     break ;
     case 4:
@@ -56,7 +56,7 @@ I made ｛本多＊＊｝ worry.)");
     SEPlay("EV_SE_043");
     Wait(12,0);
     SEStop("EV_SE_043",0);
-    MsgDisp("主人公","......Hm?");
+    MsgDisp("主人公","...Hm?");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,4,4,#1,#1,0,0);
@@ -68,7 +68,7 @@ I made ｛本多＊＊｝ worry.)");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_060");
     MsgDisp("Honda","What do you mean?
-...... Ah, a customer.
+... Ah, a customer.
 Welcome!");
     ChEye(3,0);
     ChMouth(3,3);
@@ -76,7 +76,7 @@ Welcome!");
     VoicePlay("I260300000_03_070");
     MsgDisp("Honda","Then, can you just keep a record of the
 books sold and their prices?");
-    MsgDisp("主人公","Hm, but this......");
+    MsgDisp("主人公","Hm, but this...");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,0,1);
@@ -97,7 +97,7 @@ easy.");
     VoicePlay("I260300000_03_100");
     MsgDisp("Honda","Ah, for payments, use the spare money and
 calculator in that drawer.");
-    MsgDisp("主人公","Yeah......
+    MsgDisp("主人公","Yeah...
 Thanks, ｛本多＊＊｝.");
     ChEye(3,3);
     ChMouth(3,3);
@@ -107,7 +107,7 @@ Thanks, ｛本多＊＊｝.");
     MsgDisp("Honda","Come on, stop looking like you're about to
 cry. The customers are waiting for your
 smile, so smile!");
-    MsgDisp("主人公","(Haa......
+    MsgDisp("主人公","(Haa...
 I made a lot of extra work for
 ｛本多＊＊｝.)");
     break ;

@@ -13,7 +13,7 @@ ChEye(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B050500300_05_000");
-MsgDisp("Hiiragi","Phew......
+MsgDisp("Hiiragi","Phew...
 I managed to do it without hurting myself.");
 MsgDisp("主人公","｛柊＊＊＊｝, did you have fun?");
 ChEye(5,4);
@@ -30,7 +30,7 @@ ChMotion(5,0);
 VoicePlay("B050500300_05_020");
 MsgDisp("Hiiragi","After this it seems that the Igloo Cafe
 next to the rest house will be open.");
-MsgDisp("主人公","That sounds really fun......!");
+MsgDisp("主人公","That sounds really fun...!");
 SEPlay("EV_SE_774");
 BGMStop();
 MsgClose();
@@ -68,7 +68,7 @@ MsgDisp("Hiiragi","A long time ago, I attended elementary
 school in Tohoku for a short period. At
 that time, we built an igloo in the school
 yard.");
-MsgDisp("主人公","Eh......that's amazing!");
+MsgDisp("主人公","Eh...that's amazing!");
 StlEyeOpenLevel(5,5);
 StlMouth(5,0);
 VoicePlay("B050500300_05_070");
@@ -80,7 +80,7 @@ VoicePlay("B050500300_05_080");
 MsgDisp("Hiiragi","But I never got to go inside.
 Before I was able to complete it, I
 transferred schools.");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 StlEye(5,1);
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,0);
@@ -93,7 +93,7 @@ StlMouth(5,1);
 VoicePlay("B050500300_05_100");
 MsgDisp("Hiiragi","If you look at me like that every time, I
 won't be able to talk about my past.");
-MsgDisp("主人公","It's fine......");
+MsgDisp("主人公","It's fine...");
 StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("B050500300_05_110");
@@ -107,7 +107,7 @@ VoicePlay("B050500300_05_120");
 MsgDisp("Hiiragi","On top of that, although there may be no
 water goddess, there's another beautiful
 goddess here.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 StlEyeOpenLevel(5,0,1);
 StlMouth(5,0);
 VoicePlay("B050500300_05_130");
@@ -124,7 +124,7 @@ ScrFadeOut(0,0);
 StlClose();
 MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝.
 Including the skiing, I also got to make
-some wonderful memories......)");
+some wonderful memories...)");
 MsgClose();
 Wait(40,0);
 ChPrmTblAdd(5,0);

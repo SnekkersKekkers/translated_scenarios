@@ -20,7 +20,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("K020701000_07_010");
 MsgDisp("Mikage","Was I being too proud?");
-MsgDisp("主人公","Ah......!");
+MsgDisp("主人公","Ah...!");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(7,0);

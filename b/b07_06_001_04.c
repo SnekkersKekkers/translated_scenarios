@@ -40,7 +40,7 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_290");
 MsgDisp("Himuro","His nonchalant face ticks me off.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

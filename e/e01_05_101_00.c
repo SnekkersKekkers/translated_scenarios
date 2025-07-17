@@ -2,7 +2,7 @@ BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
-...... Huh?)");
+... Huh?)");
 MsgDisp("主人公","｛柊＊＊＊｝?
 What are you doing infront of the store?");
 MsgClose();
@@ -58,7 +58,7 @@ ChMotion(5,0);
 VoicePlay("E010510100_05_060");
 MsgDisp("Hiiragi","It's better if we eliminate inconvenience
 from the start.");
-MsgDisp("主人公","Um......");
+MsgDisp("主人公","Um...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);
@@ -80,7 +80,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(｛柊＊＊＊｝'s way of thinking is a bit
-complicated......)");
+complicated...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEyeOpenLevel(5,#1);

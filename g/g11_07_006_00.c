@@ -1,7 +1,7 @@
 BGOpen("sc100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Come to think of it, it was a bit windy
-last night......
+last night...
 Is the gardening club field okay?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

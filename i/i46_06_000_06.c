@@ -13,18 +13,18 @@ switch (ChPrmGet(6,6)){
     SEWait();
     MsgDisp("主人公","Huh?
 The closing cash register balance isn't
-correct......");
+correct...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
     ChEyeOpenLevel(6,8);
     VoicePlay("I460600006_06_000");
-    MsgDisp("Himuro","......Didn't you use the register for a
+    MsgDisp("Himuro","...Didn't you use the register for a
 customer right before closing?");
     MsgDisp("主人公","Ah!");
     SEPlay("EV_SE_043");
     SEWait();
-    MsgDisp("主人公","There it is......");
+    MsgDisp("主人公","There it is...");
     ChEye(6,2);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -46,7 +46,7 @@ important thing.
 Careful with it.");
     MsgDisp("主人公","Got it, thanks.");
     MsgDisp("主人公","(I can't let my guard down.
-I have to get it together......!)");
+I have to get it together...!)");
     break ;
     case 4:
     case 5:
@@ -66,7 +66,7 @@ I have to get it together......!)");
     VoicePlay("I460600006_06_050");
     MsgDisp("Himuro","Get it together.
 That was last week's price.");
-    MsgDisp("主人公","Ah, sorry......");
+    MsgDisp("主人公","Ah, sorry...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -88,7 +88,7 @@ motivation.");
     MsgDisp("主人公","You're right.
 Thanks.");
     MsgDisp("主人公","(I'm glad ｛氷室＊＊｝ said that.
-Let's get it together......!)");
+Let's get it together...!)");
     break ;
     default :
     DbgAssert(1);

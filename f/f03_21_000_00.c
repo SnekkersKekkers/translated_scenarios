@@ -9,7 +9,7 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","......Hey, ｛みちる＊｝.");
+MsgDisp("主人公","...Hey, ｛みちる＊｝.");
 ChMotion(21,0);
 VoicePlay("F032100000_21_000");
 MsgDisp("Michiru","Hehe, what is it?");

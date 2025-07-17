@@ -33,7 +33,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140A04002_01_020");
-MsgDisp("Kazama","Heehー.
+MsgDisp("Kazama","Ehhhー.
 Are you THAT scary in the track and field
 club, Sassa?");
 ChEye(2,0);

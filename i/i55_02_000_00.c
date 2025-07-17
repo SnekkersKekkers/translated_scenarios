@@ -31,7 +31,7 @@ some snacks.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I550200000_02_030");
-    MsgDisp("Sassa","Hm......
+    MsgDisp("Sassa","Hm...
 Seasonal snacks for three, please.
 I'll leave it to you.");
     MsgDisp("主人公","Yes.
@@ -58,7 +58,7 @@ I'll eat anything as long as it's good.");
 I'll try some.");
     MsgDisp("主人公","Understood!");
     MsgDisp("主人公","(I hope it suits ｛颯砂＊＊｝'s
-tastes......!)");
+tastes...!)");
     break ;
     case 3:
     VoicePlay("I550200000_02_070");
@@ -102,7 +102,7 @@ I liked the matcha.");
     MsgDisp("Sassa","They were a little small for me.
 But, I guess that's what Japanese sweets
 are about.");
-    MsgDisp("主人公","Y-Yeah......");
+    MsgDisp("主人公","Y-Yeah...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -115,7 +115,7 @@ Thanks for the food!");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(｛颯砂＊＊｝...... did the small amount of
+    MsgDisp("主人公","(｛颯砂＊＊｝... did the small amount of
 food just serve as an appetizer?)");
     break ;
     case 4:
@@ -142,7 +142,7 @@ So I just ended up coming.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("I550200000_02_150");
-    MsgDisp("Sassa","...... Hm?
+    MsgDisp("Sassa","... Hm?
 I realized this as I was saying it, but
 aren't my actions kinda bad?");
     MsgDisp("主人公","Huh, I don't think so.
@@ -153,7 +153,7 @@ You came to check on me, right?");
     VoicePlay("I550200000_02_160");
     MsgDisp("Sassa","If you say that, then it's fine, but A big
 guy like me coming to a store like this
-for no reason...... isn't it weird?");
+for no reason... isn't it weird?");
     MsgDisp("主人公","Not at all, the manager would be happy
 that you came in for no reason. We have a
 lot of single male customers, too.");
@@ -161,7 +161,7 @@ lot of single male customers, too.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I550200000_02_170");
-    MsgDisp("Sassa","Hm, so there's that, too......");
+    MsgDisp("Sassa","Hm, so there's that, too...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

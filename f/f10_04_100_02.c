@@ -61,7 +61,7 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100410002_04_080");
-MsgDisp("Nanatsumori","ＯＫ!");
+MsgDisp("Nanatsumori","OK!");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");

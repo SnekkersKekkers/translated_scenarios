@@ -18,7 +18,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_020");
 MsgDisp("Himuro","You know... all the PDA.
-...... It's kinda embarrassing.");
+... It's kinda embarrassing.");
 MsgDisp("主人公","What?!");
 ChEye(6,1);
 ChMouth(6,0);
@@ -60,7 +60,7 @@ ChMotion(6,0);
 VoicePlay("G020620001_06_080");
 MsgDisp("Himuro","That's why you and I should hurry up
 and——");
-MsgDisp("主人公","......You and I?");
+MsgDisp("主人公","...You and I?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -81,7 +81,7 @@ ChMotion(6,0);
 VoicePlay("G020620001_06_110");
 MsgDisp("Himuro","You never know how people are watching or
 judging you.");
-MsgDisp("主人公","Yeah, you're right......");
+MsgDisp("主人公","Yeah, you're right...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -91,7 +91,7 @@ VoicePlay("G020620001_06_120");
 MsgDisp("Himuro","Like, who knows? Maybe there are more
 people out there getting jealous and
 annoyed by it, just like me.");
-MsgDisp("主人公","(｛氷室＊＊｝......?)");
+MsgDisp("主人公","(｛氷室＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

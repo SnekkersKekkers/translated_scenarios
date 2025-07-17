@@ -29,7 +29,7 @@ Yeah, please treat me well.");
     ChMotion(8,3);
     VoicePlay("S060800000_08_020");
     MsgDisp("Shirahane","This is the second time I'm saying this
-but......
+but...
 Happy New Year!");
     MsgDisp("主人公","Hehe, Happy New Year!");
     break ;

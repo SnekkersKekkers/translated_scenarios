@@ -23,7 +23,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020640001_06_030");
 MsgDisp("Himuro","I stopped.
-Because......
+Because...
 I thought it was very \"Himuro-like\".");
 MsgDisp("主人公","Eh?");
 ChEye(6,1);
@@ -70,7 +70,7 @@ ChMotion(6,0);
 VoicePlay("G020640001_06_090");
 MsgDisp("Himuro","I don't intend to share it with anyone,
 though.");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -89,7 +89,7 @@ ChMotion(6,3);
 VoicePlay("G020640001_06_120");
 MsgDisp("Himuro","Yeah.
 So you should remember it too.");
-MsgDisp("主人公","Yes......!");
+MsgDisp("主人公","Yes...!");
 MsgDisp("主人公","(I won't forget, ｛氷室＊＊｝ )");
 BGMStop();
 MsgClose();

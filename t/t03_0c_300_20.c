@@ -6,6 +6,6 @@ with the same content. I guess we think
 alike?");
 MsgDisp("","The next time we'll see each other is
 summer vacation. Maybe a surfing class or
-a barbecue......no, maybe both? I'm really
+a barbecue...no, maybe both? I'm really
 looking forward to it!");
 MsgClear();

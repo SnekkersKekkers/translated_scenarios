@@ -25,7 +25,7 @@ can aim for first place overall!");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("H280100000_01_020");
-    MsgDisp("Kazama","First place overall, huh......
+    MsgDisp("Kazama","First place overall, huh...
 If only there was a manager category, then
 you guys would definitely win.");
     MsgDisp("主人公","Hehe, there's no category like that.");
@@ -82,7 +82,7 @@ Maybe I should've done track too?");
 pretty happy, having such dedicated
 support.");
     ChMotion(1,0);
-    MsgDisp("主人公","｛風真＊＊｝......");
+    MsgDisp("主人公","｛風真＊＊｝...");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);

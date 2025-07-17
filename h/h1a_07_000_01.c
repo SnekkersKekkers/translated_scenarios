@@ -13,8 +13,8 @@ switch (ChPrmGet(7,6)){
     VoicePlay("H1A0700001_07_000");
     MsgDisp("Mikage","｛主人公｝, that was a
 good match, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝......
-We lost......");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝...
+We lost...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -27,7 +27,7 @@ You did the best you could for everyone.");
     ChMotion(7,0);
     ChEyeOpenLevel(7,10);
     VoicePlay("H1A0700001_07_020");
-    MsgDisp("Mikage","......But you know, I feel a little
+    MsgDisp("Mikage","...But you know, I feel a little
 jealous.");
     MsgDisp("主人公","Huh?");
     ChEye(7,0);
@@ -37,7 +37,7 @@ jealous.");
     MsgDisp("Mikage","It means you've made friends, all aiming
 for the same goal.
 The Haba High baseball club is nice, huh.");
-    MsgDisp("主人公","Yes......");
+    MsgDisp("主人公","Yes...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -47,7 +47,7 @@ manager.
 Go be with everyone.");
     MsgDisp("主人公","(｛御影＊＊｝, thank you.
 We lost, but this will become a cherished
-memory......)");
+memory...)");
     break ;
     default :
     DbgAssert(1);

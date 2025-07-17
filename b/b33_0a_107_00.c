@@ -31,7 +31,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A10700_06_000");
-MsgDisp("Himuro","Heeh....
+MsgDisp("Himuro","Ehhh....
 That's an anecdote unique to the Kazama
 family.");
 ChEye(2,0);
@@ -115,7 +115,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10700_01_060");
-MsgDisp("Kazama","...... ＯＫ.
+MsgDisp("Kazama","... OK.
 Ask me for some funny stories in
 preparation.");
 MsgDisp("主人公","(If the four of us come to the castle

@@ -35,7 +35,7 @@ ChMotion(3,5);
 VoicePlay("B070300000_03_050");
 MsgDisp("Honda","Ehh!
 You too?
-That makes me sad......");
+That makes me sad...");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -43,7 +43,7 @@ VoicePlay("B070300000_03_060");
 MsgDisp("Honda","I mean, isn't it weird to stay quiet even
 though you know the answer?");
 MsgDisp("主人公","(Knowing so many things can make things
-difficult, huh......)");
+difficult, huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

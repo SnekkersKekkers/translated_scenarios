@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("S070200000_02_000");
     MsgDisp("Sassa","Yep, I like it.
 It's super lively.");
-    MsgDisp("主人公","Yep, so many people......");
+    MsgDisp("主人公","Yep, so many people...");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
@@ -20,7 +20,7 @@ It's super lively.");
 Oh, when you look up, try to find my head
 in the crowd.");
     MsgDisp("主人公","｛颯砂＊＊｝ is so tall, he's a
-landmark......");
+landmark...");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -44,7 +44,7 @@ feels good when it's so crowded.");
     VoicePlay("S070200000_02_040");
     MsgDisp("Sassa","Okay, I'll try my best this year!");
     MsgDisp("主人公","｛颯砂＊＊｝ does his best every
-year though......");
+year though...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -80,7 +80,7 @@ Right, what kind of wish is
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("S070200000_02_080");
-    MsgDisp("Sassa","Hm, my wish......
+    MsgDisp("Sassa","Hm, my wish...
 That's a difficult one.");
     MsgDisp("主人公","Really?");
     ChEye(2,0);
@@ -89,7 +89,7 @@ That's a difficult one.");
     VoicePlay("S070200000_02_090");
     MsgDisp("Sassa","My wish is something I work on myself.
 It's not something to ask God for.");
-    MsgDisp("主人公","......I see.");
+    MsgDisp("主人公","...I see.");
     break ;
     default :
     DbgAssert(1);

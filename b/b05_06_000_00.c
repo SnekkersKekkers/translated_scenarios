@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B050600000_06_010");
-MsgDisp("Himuro","......like a cherry blossom carpet?");
+MsgDisp("Himuro","...like a cherry blossom carpet?");
 MsgDisp("主人公","I guess it's more like a futon than a
 carpet?");
 ChEye(6,0);
@@ -31,14 +31,14 @@ SEPlay("EV_SE_645");
 Wait(20,0);
 BGMPlay("BGM_C06_INORI_B",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Eh, hold on......!
+MsgDisp("主人公","Eh, hold on...!
 ｛氷室＊＊｝∋");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600000_06_030");
 MsgDisp("Himuro","What?
 You called it a futon, didn't you?");
-MsgDisp("主人公","That's true, but......");
+MsgDisp("主人公","That's true, but...");
 StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0);
@@ -50,7 +50,7 @@ StlMouth(6,0);
 VoicePlay("B050600000_06_050");
 MsgDisp("Himuro","A comfortable bed and a stunning view.
 Cherry blossoms as far as the eye can see.
-So beautiful...... it's scary.");
+So beautiful... it's scary.");
 StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);
@@ -86,12 +86,12 @@ Wait(60);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050600000_06_090");
-MsgDisp("Himuro","......Done.");
+MsgDisp("Himuro","...Done.");
 SEPlay("EV_SE_645",0.5,0.6);
 Wait(20,0);
 MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Haa......
+MsgDisp("主人公","Haa...
 I was just shocked when you suddenly laid
 down.");
 ChEye(6,0);
@@ -113,6 +113,6 @@ ChMotion(6,1);
 VoicePlay("B050600000_06_120");
 MsgDisp("Himuro","It's nothing.
 Come on, let's go.");
-MsgDisp("主人公","(｛氷室＊＊｝......?)");
+MsgDisp("主人公","(｛氷室＊＊｝...?)");
 BGMStop();
 ChPrmTblAdd(6,0);

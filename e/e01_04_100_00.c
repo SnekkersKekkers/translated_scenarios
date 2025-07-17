@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","I think it's time to go home.
-...... Oh?");
+... Oh?");
 MsgClose();
 BGMPlay("BGM_C04_NANA_A",0.01);
 ChNanaType(0);
@@ -13,9 +13,9 @@ MsgDisp("主人公","Is ｛七ツ森＊｝ also
 going home now?");
 VoicePlay("E010410000_04_010");
 MsgDisp("Nanatsumori","Yeah.");
-MsgDisp("主人公","...... Sniff sniff.
+MsgDisp("主人公","... Sniff sniff.
 What a nice smell, and kind of sweet.
-Like pancakes......");
+Like pancakes...");
 ChEye(4,5);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -37,7 +37,7 @@ MsgDisp("Nanatsumori","They're easy to eat and taste good.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("E010410000_04_050");
-MsgDisp("Nanatsumori","......Ah.");
+MsgDisp("Nanatsumori","...Ah.");
 MsgDisp("主人公","What's wrong?");
 ChEye(4,0);
 ChMouth(4,0);

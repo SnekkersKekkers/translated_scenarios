@@ -26,7 +26,7 @@ Follow Mari's example.");
 StlEye(22,1);
 StlMouth(22,1);
 VoicePlay("U140D00001_22_020");
-MsgDisp("Hikaru","Ehh......");
+MsgDisp("Hikaru","Ehh...");
 StlMouth(21,0);
 StlEyeOpenLevel(22,5,1);
 StlMouth(22,2);

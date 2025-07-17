@@ -3,5 +3,5 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,9);
 VoicePlay("SS9201215_01_000");
-MsgDisp("Kazama","Well, it's not so bad......");
+MsgDisp("Kazama","Well, it's not so bad...");
 MsgClose();

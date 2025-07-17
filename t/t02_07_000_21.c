@@ -2,9 +2,9 @@ ChEye(7,5);
 ChMouth(7,1);
 ChMotion(7,5);
 VoicePlay("T020700021_07_000");
-MsgDisp("Mikage","Y-Y......
+MsgDisp("Mikage","Y-Y...
 You∋");
-MsgDisp("主人公","Ah, sorry. but......");
+MsgDisp("主人公","Ah, sorry. but...");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0,1);
@@ -40,7 +40,7 @@ ScrFadeIn(0);
 VoicePlay("T020700021_07_050");
 MsgDisp("Mikage","Well then, my prized beauty.
 Let me see your face properly.");
-MsgDisp("主人公","Yes......");
+MsgDisp("主人公","Yes...");
 VoiceEVSPlay(7);
 VoicePlay("T020700021_07_060");
 MsgDisp("Mikage","｛主人公｝, I love you.");

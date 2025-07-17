@@ -19,7 +19,7 @@ VoicePlay("B040206400_02_020");
 MsgDisp("Sassa","I thought about it and I don't think I
 could seriously commit to taking care of
 one.");
-MsgDisp("主人公","That's true, you would have to......");
+MsgDisp("主人公","That's true, you would have to...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

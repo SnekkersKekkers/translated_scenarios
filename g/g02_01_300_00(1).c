@@ -28,14 +28,14 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130000_01_030");
-MsgDisp("Kazama","......Just imagining that is quite scary.");
+MsgDisp("Kazama","...Just imagining that is quite scary.");
 MsgDisp("主人公","Hmm, I wonder?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_040");
-MsgDisp("Kazama","And Inori...... he'd probably say
+MsgDisp("Kazama","And Inori... he'd probably say
 something like, 'Fireflies are said to be
 the souls of the dead', and ruin the mood.");
 ChEye(1,0);

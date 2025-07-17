@@ -13,7 +13,7 @@ switch (ChPrmGet(22,6)){
     VoicePlay("H2A2200001_22_000");
     MsgDisp("Hikaru","Good work, Mari.");
     MsgDisp("主人公","Ah, ｛ひかる＊｝.
-We lost......");
+We lost...");
     ChMouth(22,0);
     ChMotion(22,4,1);
     VoicePlay("H2A2200001_22_010");
@@ -22,7 +22,7 @@ lose. There are all sorts of great people
 in this world～ Right?");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the track and field club
-manager......)");
+manager...)");
     break ;
     case 4:
     case 5:
@@ -31,9 +31,9 @@ manager......)");
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H2A2200001_22_020");
-    MsgDisp("Hikaru","That's too bad......");
+    MsgDisp("Hikaru","That's too bad...");
     MsgDisp("主人公","｛ひかる＊｝.
-Yeah, we lost......");
+Yeah, we lost...");
     ChMotion(22,2,1);
     VoicePlay("H2A2200001_22_030");
     MsgDisp("Hikaru","I never thought the Haba High track and
@@ -52,7 +52,7 @@ support was perfect.");
     VoicePlay("H2A2200001_22_050");
     MsgDisp("Hikaru","Hikaru will give you and your team the
 grand prize! So, cheer up. Okay?");
-    MsgDisp("主人公","(｛ひかる＊｝...... We might have lost, but
+    MsgDisp("主人公","(｛ひかる＊｝... We might have lost, but
 I'm glad that I stayed as the track and
 field club manager!)");
     break ;

@@ -57,7 +57,7 @@ MsgDisp("Hiiragi","Sometimes people see me and go \"Rerere\" Do
 you know what that means?");
 StlEye(5,0);
 MsgDisp("主人公","Rerere?
-I wonder......");
+I wonder...");
 StlEye(5,2);
 StlMouth(5,1);
 VoicePlay("D010500600_05_090");
@@ -78,7 +78,7 @@ EfctClose();
 BGOpen("ex990",0);
 BGOpen("sc102",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛柊＊＊＊｝ likes cleaning, huh......
+MsgDisp("主人公","(｛柊＊＊＊｝ likes cleaning, huh...
 I wonder what \"Rerere\" means though?)");
 MsgClose();
 ScrFadeOut(0,0);

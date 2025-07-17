@@ -12,7 +12,7 @@ ChMotion(6,4,1);
 ChEyeOpenLevel(6,8);
 ScrFadeIn(0);
 VoicePlay("B360650100_06_000");
-MsgDisp("Himuro","......Ahh, this is the worst.");
+MsgDisp("Himuro","...Ahh, this is the worst.");
 MsgDisp("主人公","What's up?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -40,13 +40,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650100_06_040");
-MsgDisp("Himuro","Seriously...... why here of all places.
+MsgDisp("Himuro","Seriously... why here of all places.
 It's making the atmosphere awkward.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650100_06_050");
-MsgDisp("Himuro","Ahh......
+MsgDisp("Himuro","Ahh...
 I really can't watch this.");
 ChEye(6,2);
 ChMouth(6,0);
@@ -56,7 +56,7 @@ VoicePlay("B360650100_06_060");
 MsgDisp("Himuro","Well, at least it's not the Haba High
 uniform.
 It'd be even worse if I knew the.");
-MsgDisp("主人公","Ah, um ｛氷室＊＊｝......!");
+MsgDisp("主人公","Ah, um ｛氷室＊＊｝...!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -88,9 +88,9 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("B360650100_06_110");
-MsgDisp("Himuro","......Ugh, this is no different from that
+MsgDisp("Himuro","...Ugh, this is no different from that
 couple over there.");
-MsgDisp("主人公","(My heart is pounding......)");
+MsgDisp("主人公","(My heart is pounding...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

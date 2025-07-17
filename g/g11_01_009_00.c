@@ -1,9 +1,9 @@
 BGOpen("sc510",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he had
+MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
 something he wanted to talk to me about.
-......I wonder if something happened?)");
+...I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -50,7 +50,7 @@ while (1){
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("G110100900_01_020");
-    MsgDisp("Kazama","Haa......");
+    MsgDisp("Kazama","Haa...");
     ChEyeOpenLevel(1,#1);
     }
 ChEye(1,0);
@@ -66,7 +66,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,2);
 VoicePlay("G110100900_01_070");
-MsgDisp("Kazama","Okay......");
+MsgDisp("Kazama","Okay...");
 SEPlay("EV_SE_645",0.3,0.5);
 Wait(15,0);
 ChClose(1,0,30);

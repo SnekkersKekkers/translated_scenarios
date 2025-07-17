@@ -5,7 +5,7 @@ MsgDisp("主人公","(We're moving classrooms for the next
 lesson...
 I'll head back early.)");
 VoicePlay("F100220001_02_000");
-MsgDisp("Sassa?","Heeh, nice.
+MsgDisp("Sassa?","Ehhh, nice.
 Is that a national hot spring travelogue?");
 VoicePlay("F100220001_05_000");
 MsgDisp("Hiiragi?","Yes, it was a gift from an audience

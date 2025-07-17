@@ -10,12 +10,12 @@ ChMotion(2,4);
 VoicePlay("G020210303_02_010");
 MsgDisp("Sassa","You know, like when that weird guy started
 talking to you?");
-MsgDisp("主人公","I don't think it happens that much......");
+MsgDisp("主人公","I don't think it happens that much...");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020210303_02_020");
-MsgDisp("Sassa","......So it does happen sometimes......");
+MsgDisp("Sassa","...So it does happen sometimes...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -38,7 +38,7 @@ VoicePlay("G020210303_02_050");
 MsgDisp("Sassa","After all, you're pretty and cute, so of
 course, you'll attract attention～");
 MsgDisp("主人公","Eh?
-That's not true......");
+That's not true...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -66,7 +66,7 @@ MsgDisp("Sassa","Yeah, just go all out.
 I want to see it too.
 Go ahead.");
 MsgDisp("主人公","(Go ahead, he says. ｛颯砂＊＊｝
-sure is acting weird...... Maybe it's
+sure is acting weird... Maybe it's
 because of this place?)");
 BGMStop();
 MsgClose();

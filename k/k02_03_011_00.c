@@ -18,7 +18,7 @@ ChMotion(3,1);
 SEPlay("EV_SE_665");
 SEWait();
 VoicePlay("K020301100_03_010");
-MsgDisp("Honda","Then...... here!
+MsgDisp("Honda","Then... here!
 It's your birthday today, right?
 So here's your present.");
 MsgDisp("主人公","Oh!?
@@ -68,6 +68,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 Wait(30);
-MsgDisp("主人公","(Today was a wonderful birthday......)");
+MsgDisp("主人公","(Today was a wonderful birthday...)");
 MsgClose();
 ScrFadeOut(0,0);

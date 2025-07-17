@@ -10,7 +10,7 @@ MsgDisp("主人公","Yeah, what a nice smell!");
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("D140B06000_04_000");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 MsgDisp("主人公","Huh?
 ｛七ツ森＊｝, what's
 wrong?");

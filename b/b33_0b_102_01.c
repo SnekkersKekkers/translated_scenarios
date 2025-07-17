@@ -25,7 +25,7 @@ ChMotion(3,1,1);
 VoicePlay("B330B10201_03_000");
 MsgDisp("Honda","The aquarium has been designed so that the
 little fish move in groups.");
-MsgDisp("主人公","Heeh, is that so!");
+MsgDisp("主人公","Ehhh, is that so!");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -54,7 +54,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B330B10201_04_010");
-MsgDisp("Nanatsumori","Fishing, huhー......
+MsgDisp("Nanatsumori","Fishing, huhー...
 I'm interested in it but, the baits-");
 ChEye(1,0);
 ChMouth(1,2);

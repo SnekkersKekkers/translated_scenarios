@@ -37,7 +37,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330C10201_06_000");
-MsgDisp("Himuro","Heeh...
+MsgDisp("Himuro","Ehhh...
 This feels like a lesson by Kojiro-sensei.");
 ChEye(5,0);
 ChMouth(5,4);

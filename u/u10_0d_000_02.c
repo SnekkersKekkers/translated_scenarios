@@ -15,7 +15,7 @@ ChMotion(22,4,1);
 VoicePlay("U100D00002_22_010");
 MsgDisp("Hikaru","You're free tomorrow, right?
 How about we have a sleepover tonight?");
-MsgSel("Ok, I'll go!","Sorry, I'm busy......");
+MsgSel("Ok, I'll go!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);
@@ -47,7 +47,7 @@ See you after school～♪");
     BGMStop();
     ChClose(21,0,30);
     ChClose(22,0,30);
-    MsgDisp("主人公","(A sleepover......
+    MsgDisp("主人公","(A sleepover...
 I'm excited!)");
     break ;
     case 1:
@@ -63,15 +63,15 @@ helped.");
     ChMouth(22,2);
     ChMotion(22,2,1);
     VoicePlay("U100D00002_22_040");
-    MsgDisp("Hikaru","Siigh......
-I wanted to have girl talk......");
+    MsgDisp("Hikaru","Siigh...
+I wanted to have girl talk...");
     MsgClose();
     SEPlay("EV_SE_856");
     BGMStop();
     ChClose(21,0,30);
     ChClose(22,0,30);
     MsgDisp("主人公","(Even though they went through all that
-trouble to invite me......
+trouble to invite me...
 Maybe I made the wrong choice?)");
     break ;
     default :

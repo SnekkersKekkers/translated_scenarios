@@ -24,7 +24,7 @@ VoicePlay("H8G0200000_02_020");
 MsgDisp("Sassa","I'm happy that people like you, always
 working behind the scenes, can get
 recognized like this, too.");
-MsgDisp("主人公","｛颯砂＊＊｝......
+MsgDisp("主人公","｛颯砂＊＊｝...
 Thank you.");
 ChEye(2,0);
 ChMouth(2,4);

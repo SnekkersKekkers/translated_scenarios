@@ -19,7 +19,7 @@ Here's a present!");
     SEWait();
     ChMouth(5,4);
     VoicePlay("K010500100_05_010");
-    MsgDisp("Hiiragi","Hm......?
+    MsgDisp("Hiiragi","Hm...?
 Ah, sorry for the trouble.");
     MsgDisp("主人公","Hey, try opening it?");
     break ;
@@ -73,7 +73,7 @@ Will you accept it?");
     ChMotion(5,2);
     VoicePlay("K010500100_05_070");
     MsgDisp("Hiiragi","When I got your call and made my way here,
-my hopes were high......");
+my hopes were high...");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,0);

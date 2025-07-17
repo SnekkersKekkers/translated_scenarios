@@ -3,7 +3,7 @@ ChCheek(3,0);
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
-MsgDisp("主人公","Even if you say it so suddenly......");
+MsgDisp("主人公","Even if you say it so suddenly...");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -22,7 +22,7 @@ ChMotion(3,0,1);
 VoicePlay("T020300030_03_020");
 MsgDisp("Honda","I am who I am today because I fell in love
 with you.");
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("主人公","｛本多＊＊｝...");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,1,1);

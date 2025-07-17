@@ -14,7 +14,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("O020700002_07_000");
     MsgDisp("Mikage","Well, that was a good match.");
     MsgDisp("主人公","(Hm, a tie.
-And we were so close......)");
+And we were so close...)");
     break ;
     case 3:
     ChEye(7,2);
@@ -24,7 +24,7 @@ And we were so close......)");
     MsgDisp("Mikage","That's where it ends?
 Don't you want to settle it?");
     MsgDisp("主人公","(Hm, a tie.
-And we were so close......)");
+And we were so close...)");
     break ;
     case 4:
     case 5:
@@ -34,7 +34,7 @@ And we were so close......)");
     VoicePlay("O020700002_07_020");
     MsgDisp("Mikage","That was a great match.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.
-We were so close to winning, but......");
+We were so close to winning, but...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -42,7 +42,7 @@ We were so close to winning, but......");
     MsgDisp("Mikage","That's true.
 But your face when you're doing your best
 is really cool.");
-    MsgDisp("主人公","(Haa......
+    MsgDisp("主人公","(Haa...
 I wanted to show you a win, not a draw.)");
     break ;
     default :

@@ -29,7 +29,7 @@ ChMotion(3,0,1);
 VoicePlay("P240300000_03_020");
 MsgDisp("Honda","But our failure hasn't been decided, has
 it?");
-MsgDisp("主人公","(S-Somewhat......
+MsgDisp("主人公","(S-Somewhat...
 He's returned to being the usual
 ｛本多＊＊｝∋ )");
 ChEye(3,1);

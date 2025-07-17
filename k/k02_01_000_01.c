@@ -25,7 +25,7 @@ MsgDisp("Kazama","I couldn't make it on the actual day.
 I rushed over here to give it to you.");
 ChEye(1,0);
 ChMotion(1,0);
-MsgDisp("主人公","Could it be......");
+MsgDisp("主人公","Could it be...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

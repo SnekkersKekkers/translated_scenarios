@@ -2,7 +2,7 @@ BGOpen("sc210",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Such nice weather, it feels really
-good......)");
+good...)");
 VoicePlay("D010300400_03_000");
 MsgDisp("Honda?","Yay, good job!");
 MsgDisp("主人公","Eh?");
@@ -18,7 +18,7 @@ VoicePlay("D010300400_03_010");
 MsgDisp("Honda","｛主人公｝, look look!
 These babies are flying for this first
 time!");
-MsgDisp("主人公","Wow, butterflies......!");
+MsgDisp("主人公","Wow, butterflies...!");
 StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);
@@ -72,10 +72,10 @@ MsgDisp("Honda","It'll get even crazier from now on.
 Since it's the insect season, you can find
 a lot of insects!");
 MsgDisp("主人公","Y-Yeah.
-That's true......");
-MsgDisp("主人公","(A lot of bugs huh...... I bet there's a
+That's true...");
+MsgDisp("主人公","(A lot of bugs huh... I bet there's a
 lot of them for ｛本多＊＊｝ to
-observe at school......)");
+observe at school...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

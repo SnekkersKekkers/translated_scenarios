@@ -23,7 +23,7 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030901000_09_010");
 MsgDisp("Kuya","It's been a while, huh?");
 MsgDisp("主人公","Yeah.
-It's been a while...... but......");
+It's been a while... but...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -41,9 +41,9 @@ See you later, then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
-MsgDisp("主人公","(I can't believe I ran into him here......
+MsgDisp("主人公","(I can't believe I ran into him here...
 I wonder how his studies are going?)");
-MsgDisp("主人公","......! I need to focus on my work too!
+MsgDisp("主人公","...! I need to focus on my work too!
 Please check my work!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -91,7 +91,7 @@ VoicePlay("D030901000_09_070");
 MsgDisp("Kuya","This is for you.");
 SEPlay("EV_SE_664");
 SEWait();
-MsgDisp("主人公","......What's this?");
+MsgDisp("主人公","...What's this?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -99,7 +99,7 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030901000_09_080");
 MsgDisp("Kuya","Chocolate.
 Because today is Valentine's Day.");
-MsgDisp("主人公","Eh, but......
+MsgDisp("主人公","Eh, but...
 Sorry, I don't have anything prepared——");
 ChEye(9,3);
 ChMouth(9,0);
@@ -116,7 +116,7 @@ VoicePlay("D030901000_09_100");
 MsgDisp("Kuya","It's a common thing abroad.
 On Valentine's you give gifts to the
 people you love.");
-MsgDisp("主人公","......Eh?");
+MsgDisp("主人公","...Eh?");
 ChEye(9,3);
 ChMouth(9,0);
 ChEyeOpenLevel(9,0);
@@ -129,7 +129,7 @@ ChCheek(9,1);
 VoicePlay("D030901000_09_120");
 MsgDisp("Kuya","By the way, how is it?
 How are your studies going?");
-MsgDisp("主人公","Ah......
+MsgDisp("主人公","Ah...
 Yeah, I'm managing.
 What about Kuya-san?");
 ChEye(9,3);
@@ -142,7 +142,7 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030901000_09_140");
-MsgDisp("Kuya","Ah......
+MsgDisp("Kuya","Ah...
 But yesterday I spent the whole day making
 those chocolates.");
 MsgDisp("主人公","Hehe.
@@ -168,7 +168,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_170");
-MsgDisp("Kuya","Ah......Is it okay to say that? But you
+MsgDisp("Kuya","Ah...Is it okay to say that? But you
 know, I'm hopeful. Haha!");
 MsgDisp("主人公","(Hehe!
 Kuya-san seems to be \"studying\" hard!

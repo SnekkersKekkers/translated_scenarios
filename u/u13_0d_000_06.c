@@ -1,5 +1,5 @@
 MsgDisp("主人公","｛御影＊＊｝, I
-guess......");
+guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -33,7 +33,7 @@ heart. So, perhaps...");
 good student to Mikage-sensei.");
     MsgDisp("主人公","(Falling in love with a teacher can be
 difficult.
-Be a good student, huh......)");
+Be a good student, huh...)");
     break ;
     case 3:
     StlEye(22,1);

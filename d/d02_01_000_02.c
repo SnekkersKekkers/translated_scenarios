@@ -30,7 +30,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("D020100000_01_020");
-MsgDisp("Kazama","......Have I?");
+MsgDisp("Kazama","...Have I?");
 MsgDisp("主人公","You've gotten so much——");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -47,7 +47,7 @@ ChMotion(1,3);
 VoicePlay("D020100000_01_040");
 MsgDisp("Kazama","Of course I have!
 Compared to how I was a few years ago.");
-MsgDisp("主人公","Ugh......");
+MsgDisp("主人公","Ugh...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -79,7 +79,7 @@ MsgDisp("主人公","Hm?");
 NSSEye(1,2);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_190");
-MsgDisp("Kazama","......... You're way too carefree.");
+MsgDisp("Kazama","...... You're way too carefree.");
 NSSEye(1,0);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_200");
@@ -92,13 +92,13 @@ NSSClose();
 SEStop("EV_SE_754",0);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
-MsgDisp("主人公","Kyaa∈ There's a puddle here......");
+MsgDisp("主人公","Kyaa∈ There's a puddle here...");
 BGOpen("sc100",0);
 MsgClose();
 ChOpen(1,254,0,3,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_210");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -106,10 +106,10 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_220");
 MsgDisp("Kazama","Hahaha.
 Did you just do that on purpose?
-...... Yeah, that would make sense.");
+... Yeah, that would make sense.");
 MsgDisp("主人公","Geez.
 There's no way I would just step into a
-puddle on purpose......");
+puddle on purpose...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -135,7 +135,7 @@ VoicePlay("D020100000_01_250");
 MsgDisp("Kazama","Oy∈ Don't just lift your legs up like
 that here!");
 MsgDisp("主人公","Ah, sorry.
-I guess it's rude to do that......");
+I guess it's rude to do that...");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -157,8 +157,8 @@ MsgDisp("Kazama","It's fine, I understand now.
 I underestimated how much of a natural
 airhead you are."); 
 MsgDisp("Kazama","I'll have to keep my eyes on you from now
-until we graduate......");
-MsgDisp("主人公","(｛風真＊＊｝ reminds me of my dad......)");
+until we graduate...");
+MsgDisp("主人公","(｛風真＊＊｝ reminds me of my dad...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEyeOpenLevel(1,#1);

@@ -22,14 +22,14 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("G020120300_01_020");
 MsgDisp("Kazama","Of course not. Don't you have one?
-Like...... A preferred fashion?");
+Like... A preferred fashion?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("G020120300_01_030");
-MsgDisp("Kazama","What am I even saying......");
+MsgDisp("Kazama","What am I even saying...");
 MsgDisp("主人公","Like men's fashion?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -74,7 +74,7 @@ MsgDisp("Kazama","Get ready, okay?
 From now on, I'll be wearing aprons in all
 kinds of colors on our dates.");
 MsgDisp("主人公","(A colorful ｛風真＊＊｝, a bit
-like a firefly......?)");
+like a firefly...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

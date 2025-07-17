@@ -7,7 +7,7 @@ ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("Z502101002_21_000");
 MsgDisp("Michiru","It's trendy.");
-MsgDisp("主人公","Trends......
+MsgDisp("主人公","Trends...
 You mean, this?");
 ChEye(21,0);
 ChMouth(21,4);

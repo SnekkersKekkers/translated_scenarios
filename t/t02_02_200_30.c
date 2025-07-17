@@ -25,7 +25,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020220030_02_020");
 MsgDisp("Sassa","...I can only be grateful to you.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);

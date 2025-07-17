@@ -7,7 +7,7 @@ switch (ChPrmGet(3,6)){
     BGMPlay("BGM_C03_HONDA_A",0.01);
     ChOpen(3,254,0,4,4,#1,#1,0,0);
     VoicePlay("F010300001_03_000");
-    MsgDisp("Honda","......");
+    MsgDisp("Honda","...");
     MsgDisp("主人公","Huh?
 Um, ｛本多＊＊｝?");
     ChEye(3,5);

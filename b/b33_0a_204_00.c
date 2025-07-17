@@ -31,7 +31,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B330A20400_06_000");
-MsgDisp("Himuro","Heeh... it's surprising huh.
+MsgDisp("Himuro","Ehhh... it's surprising huh.
 That Nozomu-senpai was the type to pray to
 the gods.");
 MsgDisp("主人公","Yeah, I might've gotten that kind of

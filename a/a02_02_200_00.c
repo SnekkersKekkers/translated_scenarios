@@ -1,10 +1,10 @@
 BGOpen("sc512",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Let's see......The track and field office
-should be right around here......)");
+MsgDisp("主人公","(Let's see...The track and field office
+should be right around here...)");
 MsgDisp("主人公","(The club's advisor is Mikage-sensei, but
 he said the club captain is the one doing
-all the work......)");
+all the work...)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -22,7 +22,7 @@ BGOpen("sc608",0);
 Wait(50);
 BGMPlay("BGM_C02_SASSA_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(Wow, he's so big......
+MsgDisp("主人公","(Wow, he's so big...
 Is he the club captain?)");
 MsgDisp("主人公","Um, hello, I brought the admission 
 form.");
@@ -30,11 +30,11 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("A020220000_02_010");
-MsgDisp("Sassa?","Hm—m......
+MsgDisp("Sassa?","Hm—m...
 The admissions are usually made with
 Mikage-sensei?");
 MsgDisp("主人公","｛御影＊＊｝ told me to look for the
-club captain......");
+club captain...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -72,7 +72,7 @@ ChMotion(2,3);
 VoicePlay("A020220000_02_060");
 MsgDisp("Sassa?","Did I make it sound that way? I know it
 might seem like my personality's just as
-big as I am...... Kind of an issue.");
+big as I am... Kind of an issue.");
 MsgDisp("主人公","Hehe.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -161,8 +161,8 @@ SEPlay("EV_SE_672");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(This guy, ｛颯砂＊＊｝......
-He has an amazing goal......
+MsgDisp("主人公","(This guy, ｛颯砂＊＊｝...
+He has an amazing goal...
 I'll try my best to help!)");
 MsgClose();
 ScrFadeOut(0);

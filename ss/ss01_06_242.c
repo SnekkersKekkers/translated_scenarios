@@ -4,6 +4,6 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("SS0106242_06_000");
-MsgDisp("Himuro","I'm not in the mood......");
+MsgDisp("Himuro","I'm not in the mood...");
 MsgClose();
 ChCheek(6,0);

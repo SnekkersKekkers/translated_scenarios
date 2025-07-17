@@ -4,9 +4,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc010",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa......
+MsgDisp("主人公","(Haa...
 This will be the last time I walk down
-this road......)");
+this road...)");
 VoiceEVSPlay(1);
 VoicePlay("T020160000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
@@ -26,7 +26,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("T020160000_01_020");
 MsgDisp("Kazama","I see.
 Then I guess I won't graduate.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -57,7 +57,7 @@ VoicePlay("T020160000_01_070");
 MsgDisp("Kazama","Hey, shall we go to a coffee shop?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","Ah......
+MsgDisp("主人公","Ah...
 ｛風真＊＊｝, wait!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop(6);

@@ -5,7 +5,7 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040202101_02_000");
-MsgDisp("Sassa","The wind feels good......
+MsgDisp("Sassa","The wind feels good...
 When the weather is nice like this, it
 makes me want to run.");
 MsgSel("You really like to exercise, huh?","Won't you hurt your feet here?","Eh? I'll wait here then.");
@@ -40,7 +40,7 @@ might injure your knees.");
     ChMouth(2,2);
     ChMotion(2,2);
     VoicePlay("B040202101_02_030");
-    MsgDisp("Sassa","It was just a joke, though......
+    MsgDisp("Sassa","It was just a joke, though...
 You'd be lonely waiting.");
     MsgDateResultDisp();
     break ;

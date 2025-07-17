@@ -4,7 +4,7 @@ ChMouth(7,3);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020720020_07_000");
-MsgDisp("Mikage","I see...... ......thank you.");
+MsgDisp("Mikage","I see... ...thank you.");
 MsgDisp("主人公","Thank you for always being with me.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -36,7 +36,7 @@ ScrFadeIn(0);
 VoicePlay("T020720020_07_040");
 MsgDisp("Mikage","Well then, my prized beauty.
 Let me see your face.");
-MsgDisp("主人公","Yes......");
+MsgDisp("主人公","Yes...");
 VoiceEVSPlay(7);
 VoicePlay("T020720020_07_050");
 MsgDisp("Mikage","｛主人公｝, I love you.");

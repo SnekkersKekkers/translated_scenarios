@@ -1,4 +1,4 @@
-MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
+MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){
@@ -17,8 +17,8 @@ Can you suggest a meeting place?");
 sounds good?");
         VoicePlay("J060501000_05_010");
         MsgDisp("Hiiragi","Yes, ma'am.
-To be able to accept the invitation, it is
-such a pleasure.");
+It is my pleasure to be to accept
+your invitation.");
         VoicePlay("J060501000_05_020");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -44,8 +44,8 @@ Is this a date?)");
         VoicePlay("J060501000_05_030");
         MsgDisp("Hiiragi","I see.
 I understand.");
-        MsgDisp("主人公","I'm sorry about that .......
-I'm just ......");
+        MsgDisp("主人公","I'm sorry about that ....
+I'm just ...");
         VoicePlay("J060501000_05_040");
         MsgDisp("Hiiragi","No, no, we have no choice.");
         VoicePlay("J060501000_05_050");
@@ -56,9 +56,9 @@ you well.");
 See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hmmm ......
+        MsgDisp("主人公","(Hmmm ...
 He went to all the trouble of inviting me
-over, I'm sorry I did that. ......)");
+over, I'm sorry I did that. ...)");
         break ;
         default :
         DbgAssert(1);

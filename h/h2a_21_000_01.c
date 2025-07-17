@@ -13,7 +13,7 @@ switch (ChPrmGet(21,6)){
     VoicePlay("H2A2100001_21_000");
     MsgDisp("Michiru","Hey, don't make that face, okay?");
     MsgDisp("主人公","｛みちる＊｝, we
-lost......");
+lost...");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,3);
@@ -22,7 +22,7 @@ lost......");
 their best. It was truly wonderful. Okay?");
     MsgDisp("主人公","(That's right. We might have lost, but I'm
 glad that I stayed as the track and field
-club manager......)");
+club manager...)");
     break ;
     case 4:
     case 5:
@@ -33,7 +33,7 @@ club manager......)");
     VoicePlay("H2A2100001_21_020");
     MsgDisp("Michiru","Good work, Mari.");
     MsgDisp("主人公","｛みちる＊｝, we
-lost......");
+lost...");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,3);
@@ -46,7 +46,7 @@ lost......");
     MsgDisp("Michiru","But Mari, please smile?
 It's the manager's job to cheer up the
 team members who did their best, right?");
-    MsgDisp("主人公","......Yes!");
+    MsgDisp("主人公","...Yes!");
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,3);
@@ -54,7 +54,7 @@ team members who did their best, right?");
     MsgDisp("Michiru","Good smile.
 Then, give all the players a pat on the
 back, okay?");
-    MsgDisp("主人公","(｛みちる＊｝...... We might have lost, but
+    MsgDisp("主人公","(｛みちる＊｝... We might have lost, but
 I'm glad that I stayed as the track and
 field club manager!)");
     break ;

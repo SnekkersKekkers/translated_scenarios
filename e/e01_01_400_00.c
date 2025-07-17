@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","... Alright.
 Time to head home.
-Huh, is that......");
+Huh, is that...");
 VoicePlay("E010140000_01_000");
 MsgDisp("Kazama?","You're being a pain!
 I said no.");
@@ -28,7 +28,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010140000_01_010");
 MsgDisp("Kazama","You always show up at an incredible time.");
-MsgDisp("主人公","Ask him about what?......
+MsgDisp("主人公","Ask him about what?...
 What were you guys talking about?");
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);
@@ -46,7 +46,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010140000_01_020");
 MsgDisp("Kazama","I told you I don't wanna do it.");
-MsgDisp("主人公","Hey, ｛ひかる＊｝......
+MsgDisp("主人公","Hey, ｛ひかる＊｝...
 You're bothering ｛風真＊＊｝,
 right?");
 ChEye(22,2);
@@ -99,7 +99,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("E010140000_01_050");
 MsgDisp("Kazama","Uh, is she for real.
-These Hanatsubakis are intense......
+These Hanatsubakis are intense...
 I'm counting on you when time comes!");
 MsgDisp("主人公","Yeah!
 But I think you'd make everyone happy by
@@ -117,6 +117,6 @@ BGMStop();
 ChClose(1);
 MsgDisp("主人公","(｛風真＊＊｝... He is definitely gonna be
 pressured into doing it by
-｛みちる＊｝......)");
+｛みちる＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

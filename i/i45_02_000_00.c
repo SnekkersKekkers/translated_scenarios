@@ -6,7 +6,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgDisp("主人公","Welcome!
-...... Hm?
+... Hm?
 ｛颯砂＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -83,7 +83,7 @@ fun.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I450200000_02_070");
-    MsgDisp("Sassa","I see......
+    MsgDisp("Sassa","I see...
 Nice.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -117,7 +117,7 @@ It's the same.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ encouraged me......
+    MsgDisp("主人公","(｛颯砂＊＊｝ encouraged me...
 Alright, let's do our best!)");
     break ;
     case 4:
@@ -164,7 +164,7 @@ I'm feeling a little strange.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Strange......?
+    MsgDisp("主人公","(Strange...?
 I wonder what happened to
 ｛颯砂＊＊｝? )");
     break ;

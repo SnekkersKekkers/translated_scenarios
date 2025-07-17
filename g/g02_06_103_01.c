@@ -18,19 +18,19 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610301_06_020");
-MsgDisp("Himuro","......After you left, your scent lingered.");
+MsgDisp("Himuro","...After you left, your scent lingered.");
 MsgDisp("主人公","∋");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610301_06_030");
 MsgDisp("Himuro","Since then, at random moments, I feel like
-I smell your scent......");
+I smell your scent...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610301_06_040");
-MsgDisp("Himuro","As if you're always in my room......");
+MsgDisp("Himuro","As if you're always in my room...");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,2);
@@ -51,17 +51,17 @@ ChMotion(6,0);
 VoicePlay("G020610301_06_070");
 MsgDisp("Himuro","know it's childish, and I hate myself for
 it, but I don't know what to do..");
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610301_06_080");
-MsgDisp("Himuro","......I'll probably be sleep-deprived
+MsgDisp("Himuro","...I'll probably be sleep-deprived
 again today. Because I'll remember your
 scent from now when I'm in my room.");
 MsgDisp("主人公","(I feel like I'm being told something
-great......)");
+great...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,7 +5,7 @@ VoicePlay("M010100000_01_000");
 MsgDisp("Kazama?","It's me.
 I came to see how you were doing.");
 MsgDisp("主人公","Eehh∈ ｛風真＊＊｝∋
-P, please come in......");
+P, please come in...");
 SEPlay("EV_SE_DOOR_007");
 Wait(18);
 MsgClose();
@@ -15,13 +15,13 @@ VoicePlay("M010100000_01_010");
 MsgDisp("Kazama","How are you?
 Gotten a little better?");
 MsgDisp("主人公","Mm, I'm okay now.
-Sorry I worried you......");
+Sorry I worried you...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("M010100000_01_020");
-MsgDisp("Kazama","That right, that's good......");
+MsgDisp("Kazama","That right, that's good...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);
@@ -53,7 +53,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("M010100000_01_060");
 MsgDisp("Kazama","The sugar'd just go flying.");
-MsgDisp("主人公","Huu......
+MsgDisp("主人公","Huu...
 It really did.");
 ChEye(1,0);
 ChMouth(1,3);

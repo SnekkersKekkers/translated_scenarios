@@ -15,7 +15,7 @@ VoicePlay("F020400010_04_001");
 MsgDisp("Nanatsumori","I hear both the script and the lead actors
 are excellent.");
 MsgDisp("主人公","Is that so?
-I shouldn't think about it too much......");
+I shouldn't think about it too much...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -45,4 +45,4 @@ lead part, a supporting part, or
 behind-the-scenes, you'll make some good
 memories.");
 MsgDisp("主人公","(He's right.
-This is my last culture festival......)");
+This is my last culture festival...)");

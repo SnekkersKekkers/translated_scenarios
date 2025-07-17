@@ -22,7 +22,7 @@ ChMotion(1,0);
 VoicePlay("K020100000_01_010");
 MsgDisp("Kazama","Why are you surprised?
 What's today?");
-MsgDisp("主人公","......Ah, my birthday?");
+MsgDisp("主人公","...Ah, my birthday?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

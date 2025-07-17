@@ -14,7 +14,7 @@ practice of the Rhythmic Gymnastics Club.
 That's amazing.");
     MsgDisp("主人公","Hmmm, thanks!");
     MsgDisp("主人公","(I'm glad I worked hard in the rhythmic
-gymnastics club ......!)");
+gymnastics club ...!)");
     break ;
     case 4:
     case 5:
@@ -30,8 +30,8 @@ a legend with your amazing moves.");
     MsgDisp("Nanatsumori","You performed a new super high
 school-level move, didn't you? I don't
 know much about rhythmic gymnastics, but I
-would have loved to have seen it ......");
-    MsgDisp("主人公","(It's a little embarrassing, but ......
+would have loved to have seen it ...");
+    MsgDisp("主人公","(It's a little embarrassing, but ...
 I'm glad I've been working hard on my
 rhythmic gymnastics club!)");
     break ;

@@ -19,7 +19,7 @@ What's wrong?");
     ChMotion(1,0);
     VoicePlay("J040100000_01_011");
     MsgDisp("Kazama","Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.","I've got some business to attend to......");
+    MsgSel("Yeah, I'm free.","I've got some business to attend to...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -35,7 +35,7 @@ Then, okay.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(This Sunday......
+        MsgDisp("主人公","(This Sunday...
 I wonder if he wanted something?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -61,7 +61,7 @@ What's wrong?");
     VoicePlay("J040100000_01_041");
     MsgDisp("Kazama","Just a question.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.","I've got some business to attend to......");
+    MsgSel("Yeah, I'm free.","I've got some business to attend to...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -83,7 +83,7 @@ See you.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(......
+        MsgDisp("主人公","(...
 Sorry about that.)");
         MsgClose();
         ScrFadeOut(0,0);

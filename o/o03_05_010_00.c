@@ -3,7 +3,7 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -18,7 +18,7 @@ Have you not joined a team as of yet?");
     MsgDisp("主人公","Yes!");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -36,7 +36,7 @@ Would you like to join me?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();

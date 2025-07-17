@@ -10,7 +10,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Male Student","Sorry, Mikage-sensei.
 We have other plans...");
     VoicePlay("Q020700000_44_000");
-    MsgDisp("School Girl","Us too, we're really sorry......");
+    MsgDisp("School Girl","Us too, we're really sorry...");
     VoicePlay("Q020700000_07_000");
     MsgDisp("Mikage","Don't think too much about it, just spend
 your free period freely.");
@@ -59,7 +59,7 @@ won't be any others. Are you sure?");
         VoicePlay("Q020700000_07_050");
         MsgDisp("Mikage","Well, let's enjoy.");
         MsgDisp("主人公","(Extracurricular Lesson: Nagasaki
-Chapter......
+Chapter...
 Hehe, I'm excited!)");
         break ;
         case 1:
@@ -78,8 +78,8 @@ opportunity. Make sure to enjoy it to the
 fullest so you won't regret it in the end.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(Hmmm...... ｛御影＊＊｝
-looks lonely...... I feel a bit bad.)");
+        MsgDisp("主人公","(Hmmm... ｛御影＊＊｝
+looks lonely... I feel a bit bad.)");
         break ;
         default :
         DbgAssert(0);
@@ -150,7 +150,7 @@ spend this free period together with him!)");
         MsgDisp("Mikage","I knew it...Coming all this way just to attend a lesson? I'd say no too, I guess.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(Hmmm......
+        MsgDisp("主人公","(Hmmm...
 Maybe I should've gone?)");
         break ;
         default :

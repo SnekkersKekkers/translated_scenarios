@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,1);
     VoicePlay("O030100001_01_000");
     MsgDisp("Kazama","I thought that if it was us, we definitely
-could've gotten first place......");
+could've gotten first place...");
     MsgDisp("主人公","(Ah, we were so close.)");
     break ;
     case 3:
@@ -23,7 +23,7 @@ could've gotten first place......");
     ChMotion(1,1);
     VoicePlay("O030100001_01_010");
     MsgDisp("Kazama","There's no way that we weren't in sync.");
-    MsgDisp("主人公","I did my best......
+    MsgDisp("主人公","I did my best...
 I'm sorry.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -38,7 +38,7 @@ tied together?");
     ChMotion(1,3);
     VoicePlay("O030100001_01_030");
     MsgDisp("Kazama","What, I don't really mind.");
-    MsgDisp("主人公","(If only we were a bit more in sync......)");
+    MsgDisp("主人公","(If only we were a bit more in sync...)");
     break ;
     case 4:
     case 5:

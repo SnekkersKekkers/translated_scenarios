@@ -4,5 +4,5 @@ NSSEyeOpenLevel(4,0);
 NSSMouthOpenLevel(4,0);
 MsgDispHide();
 VoicePlay("AP0404010_04_000");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 MsgClose();

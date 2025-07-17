@@ -20,7 +20,7 @@ ChMotion ( 1,0 ) ;
 VoicePlay ( "D150001701_01_010" ) ;
 MsgDisp ( "Kazama","Right.
 I understand." ) ;
-MsgDisp ( "主人公","Abuse it......?
+MsgDisp ( "主人公","Abuse it...?
 What kind of dish are you talking about?" ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
@@ -57,7 +57,7 @@ MsgDisp ( "Kazama","No, that would be normal.
 It's bread with bread as a side dish.
 That's the true essence of this recipe." ) ;
 MsgDisp ( "主人公","(I'm worried about the diet of these
-two......)" ) ;
+two...)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

@@ -15,7 +15,7 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,2,1);
     ScrFadeIn(0);
     VoicePlay("B060200010_02_000");
-    MsgDisp("Sassa","I have nothing to say......
+    MsgDisp("Sassa","I have nothing to say...
 I'll reflect on it for next time.");
     MsgDispSksp(0);
     break ;

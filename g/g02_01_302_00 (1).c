@@ -91,7 +91,7 @@ MsgDisp("Kazama","I'm excited to go to the cafeteria
 together.");
 MsgDisp("主人公","(Right, ｛風真＊＊｝ lives
 alone. Of course he'd want to have fun
-meals......)");
+meals...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

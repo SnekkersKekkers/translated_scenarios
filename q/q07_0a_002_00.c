@@ -62,7 +62,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("Q070A00200_01_040");
 MsgDisp("Kazama","We're sticking together.
 I'll tell you guys all about them.
-...... Okay?");
+... Okay?");
 MsgDisp("主人公","Yay!
 Thanks.");
 ChEye(2,0);

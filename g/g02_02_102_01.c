@@ -10,7 +10,7 @@ ChMotion(2,0);
 VoicePlay("G020210201_02_010");
 MsgDisp("Sassa","Yeah.
 You have to shine brightly to be
-noticed......");
+noticed...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -39,7 +39,7 @@ ChEye(2,5);
 ChMouth(2,2);
 ChMotion(2,5);
 VoicePlay("G020210201_02_050");
-MsgDisp("Sassa","......No!");
+MsgDisp("Sassa","...No!");
 MsgDisp("主人公","｛颯砂＊＊｝, what did you say
 just now?");
 ChEye(2,5);
@@ -47,9 +47,9 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("G020210201_02_060");
-MsgDisp("Sassa","Crap......
-I think my inner voice came out......");
-MsgDisp("主人公","(Somewhat, my heart is racing......)");
+MsgDisp("Sassa","Crap...
+I think my inner voice came out...");
+MsgDisp("主人公","(Somewhat, my heart is racing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -18,7 +18,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020710100_07_020");
-MsgDisp("Mikage","Pink...... my thoughts are screwed up.
+MsgDisp("Mikage","Pink... my thoughts are screwed up.
 Seriously, at the level of a high school
 boy.");
 ChEye(7,0);
@@ -33,7 +33,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710100_07_040");
-MsgDisp("Mikage","Right......
+MsgDisp("Mikage","Right...
 Yanosuke might just say what he sees, but
 I wonder about Inori?");
 ChEye(7,0);
@@ -53,7 +53,7 @@ VoicePlay("G020710100_07_060");
 MsgDisp("Mikage","Don't I understand you well too?");
 MsgDisp("主人公","(Me?
 ｛御影＊＊｝ seemed like
-he was about to say something......)");
+he was about to say something...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

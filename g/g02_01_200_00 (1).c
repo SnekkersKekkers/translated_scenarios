@@ -9,7 +9,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120000_01_010");
-MsgDisp("Kazama","I tried not to think about it...... but
+MsgDisp("Kazama","I tried not to think about it... but
 that didn't work out.
 That guy just gets on my nerves.");
 ChEye(1,1);
@@ -24,10 +24,10 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("G020120000_01_030");
-MsgDisp("Kazama","...... Don't worry about it.
+MsgDisp("Kazama","... Don't worry about it.
 But I am serious.");
 MsgDisp("主人公","(Isn't ｛風真＊＊｝ acting
-strange today......?)");
+strange today...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

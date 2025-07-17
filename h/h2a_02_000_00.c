@@ -40,7 +40,7 @@ gave me confidence.");
     VoicePlay("H2A0200000_02_030");
     MsgDisp("Sassa","We really want to thank you.
 For being the best manager.");
-    MsgDisp("主人公","｛颯砂＊＊｝......
+    MsgDisp("主人公","｛颯砂＊＊｝...
 It's me who should be thanking you.");
     ChEye(2,0);
     ChMouth(2,3);
@@ -51,7 +51,7 @@ Let's go!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
     MsgDisp("主人公","(I'm glad that I stayed as the track and
-field club manager......!)");
+field club manager...!)");
     break ;
     default :
     DbgAssert(1);

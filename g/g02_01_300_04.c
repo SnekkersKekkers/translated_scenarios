@@ -64,7 +64,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020130004_01_070");
-MsgDisp("Kazama","I'm not so sure about that...... And it's
+MsgDisp("Kazama","I'm not so sure about that... And it's
 different when it's the four of us. You're
 the one in the center of that.");
 MsgDisp("主人公","That's not-");
@@ -99,7 +99,7 @@ If you're happy, then that's good enough
 for me.");
 MsgDisp("主人公","(｛風真＊＊｝ really understands
 ｛本多＊＊｝ and
-｛七ツ森＊｝......)");
+｛七ツ森＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

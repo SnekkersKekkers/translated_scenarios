@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040502200_05_000");
 MsgDisp("Hiiragi","What a magnificent ship.
 I'm looking forward to the sea voyage.");
-MsgSel("The ocean is truly amazing......","It would be nice to travel around the world this way.","Look, the seagulls are so cute▼");
+MsgSel("The ocean is truly amazing...","It would be nice to travel around the world this way.","Look, the seagulls are so cute▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -25,7 +25,7 @@ There's no other way to put it.");
     ChMotion(5,2);
     VoicePlay("B040502200_05_020");
     MsgDisp("Hiiragi","Yes, traveling on a whim and going where
-the wind takes you......
+the wind takes you...
 I'm envious of the people who can do that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

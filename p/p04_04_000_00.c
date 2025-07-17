@@ -5,7 +5,7 @@ ChMouth(4,4);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("P040400000_04_000");
-MsgDisp("Nanatsumori","Delicious......");
+MsgDisp("Nanatsumori","Delicious...");
 MsgDisp("主人公","Really?
 I'm glad.");
 ChEye(4,0);
@@ -19,7 +19,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P040400000_04_020");
-MsgDisp("Nanatsumori","That smile is good, too......");
+MsgDisp("Nanatsumori","That smile is good, too...");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);

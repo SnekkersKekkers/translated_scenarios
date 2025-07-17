@@ -9,5 +9,5 @@ ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("D140501057_05_010");
 MsgDisp("Hiiragi","Apparently if you eat it, you can overcome
-things you aren't good at......?
+things you aren't good at...?
 I hope we get some benefit out of it.");

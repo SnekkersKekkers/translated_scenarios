@@ -16,16 +16,16 @@ ChMotion(6,0);
 VoicePlay("E010610100_06_010");
 MsgDisp("Himuro","Have you seen any elementary school boys
 around here?");
-MsgDisp("主人公","Eh, I haven't seen any......
+MsgDisp("主人公","Eh, I haven't seen any...
 Is something wrong?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_020");
-MsgDisp("Himuro","......I got separated from my little
+MsgDisp("Himuro","...I got separated from my little
 brother.");
-MsgDisp("主人公","Eh...... brother∋
+MsgDisp("主人公","Eh... brother∋
 ｛氷室＊＊｝, you have a little
 brother?");
 ChEye(6,0);
@@ -45,15 +45,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_050");
-MsgDisp("Himuro","Haaa......
+MsgDisp("Himuro","Haaa...
 What am I doing?
-I've failed as an older brother......");
+I've failed as an older brother...");
 SEPlay("EV_SE_579");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("E010610100_06_060");
-MsgDisp("Himuro","...... Ah, that's mine.
+MsgDisp("Himuro","... Ah, that's mine.
 Sorry.");
 SEStop("EV_SE_579",0);
 SEWait();
@@ -62,7 +62,7 @@ MsgClose();
 ChClose(6);
 Wait(30,0);
 VoicePlay("E010610100_06_070");
-MsgDisp("Himuro","...... Huh?
+MsgDisp("Himuro","... Huh?
 He's back home?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -81,7 +81,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610100_06_090");
-MsgDisp("Himuro","Yeah......
+MsgDisp("Himuro","Yeah...
 I didn't think he'd go home by himself.
 Sorry for making you worry.");
 MsgDisp("主人公","It's no problem at all.
@@ -120,7 +120,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(I'm glad he's safe...... I also got to
+MsgDisp("主人公","(I'm glad he's safe... I also got to
 see what the relationship between
 ｛氷室＊＊｝ and his brother is
 like.)");

@@ -60,7 +60,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C30301_06_020");
-MsgDisp("Himuro","Heeh...
+MsgDisp("Himuro","Ehhh...
 As expected of the track-and-field club's
 phantom advisor.");
 ChEye(7,0);

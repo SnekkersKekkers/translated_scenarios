@@ -10,7 +10,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020510400_05_010");
 MsgDisp("Hiiragi","I see how it is.
-I'm feeling impatient......");
+I'm feeling impatient...");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
 ChMotion(5,0);
@@ -27,7 +27,7 @@ VoicePlay("G020510400_05_040");
 MsgDisp("Hiiragi","That sort of impatience wells up from
 within me.");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -35,7 +35,7 @@ VoicePlay("G020510400_05_050");
 MsgDisp("Hiiragi","The fireflies are doing their best too.
 I need to shine brightly as well.
 So that you might choose me.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,4);
 VoicePlay("G020510400_05_060");
 MsgDisp("Hiiragi","Someday, if I can see this place simply as
@@ -48,7 +48,7 @@ It appears I'm emotionally invested in a
 single firefly...");
 MsgDisp("主人公","(Today, I have a feeling
 ｛柊＊＊＊｝ is different to
-usual......)");
+usual...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

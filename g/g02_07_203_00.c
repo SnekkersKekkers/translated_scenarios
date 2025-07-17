@@ -42,14 +42,14 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020720300_07_050");
 MsgDisp("Mikage","Anyhow, I rarely get to see her maybe her
-happiness is on that farm......");
+happiness is on that farm...");
 MsgDisp("主人公","But, I think Molly-chan is lonely too,
 don't you think?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720300_07_060");
-MsgDisp("Mikage","That's right......");
+MsgDisp("Mikage","That's right...");
 MsgDisp("主人公","Yeah, I don't often get to see her, but
 it's not right for her to go elsewhere.");
 ChEye(7,0);

@@ -10,7 +10,7 @@ ChMotion(4,1,1);
 VoicePlay("D020400000_04_010");
 MsgDisp("Nanatsumori","Let me ask you, then.
 Are you okay with it like this?");
-MsgSel("The glasses wearing ｛七ツ森＊｝ is fine","I want to go on a date with Nana......");
+MsgSel("The glasses wearing ｛七ツ森＊｝ is fine","I want to go on a date with Nana...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,0);
@@ -31,7 +31,7 @@ I won't worry about it then.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("D020400000_04_040");
-    MsgDisp("Nanatsumori","Ah......
+    MsgDisp("Nanatsumori","Ah...
 I see.
 You're really brave, aren't you?");
     MsgDisp("主人公","Am I?");

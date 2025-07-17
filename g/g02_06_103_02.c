@@ -5,7 +5,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610302_06_000");
 MsgDisp("Himuro","Here, we don't have to worry about people
-watching us......");
+watching us...");
 MsgDisp("主人公","Eh?");
 ChEye(6,1);
 ChMouth(6,0);
@@ -38,7 +38,7 @@ ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,2);
 VoicePlay("G020610302_06_050");
-MsgDisp("Himuro","......Well, I don't mind.");
+MsgDisp("Himuro","...Well, I don't mind.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -50,16 +50,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("G020610302_06_070");
-MsgDisp("Himuro","......That being said, I shouldn't have to
+MsgDisp("Himuro","...That being said, I shouldn't have to
 worry about you. It's your own problem,
 shouldn't you worry yourself?");
-MsgDisp("主人公","S-Sorry......");
+MsgDisp("主人公","S-Sorry...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G020610302_06_080");
-MsgDisp("Himuro","...... So, how about it?
+MsgDisp("Himuro","... So, how about it?
 Would it be a problem if there were rumors
 about us?");
 MsgDisp("主人公","I don't think so?");
@@ -67,7 +67,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610302_06_090");
-MsgDisp("Himuro","...... Really?
+MsgDisp("Himuro","... Really?
 So it's okay if we end up in matching
 outfits again?");
 MsgDisp("主人公","Yeah.");
@@ -76,7 +76,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610302_06_100");
-MsgDisp("Himuro","Then, together with me......");
+MsgDisp("Himuro","Then, together with me...");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,1);

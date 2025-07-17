@@ -17,7 +17,7 @@ VoicePlay("G110700400_07_010");
 MsgDisp("Mikage","｛主人公｝.
 Please stop by the gardening club for a
 bit on your way home.");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 Ah, okay!");
 MsgClose();
 ScrFadeOut(0);
@@ -33,7 +33,7 @@ ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_020");
-MsgDisp("Mikage","............");
+MsgDisp("Mikage","......");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -41,20 +41,20 @@ VoicePlay("G110700400_07_030");
 MsgDisp("Mikage","As expected.
 Aren't you feeling a bit tired?");
 MsgDisp("主人公","Eh?
-But that's not true......");
+But that's not true...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700400_07_040");
 MsgDisp("Mikage","Never mind that.
 Just try taking a deep breath.");
-MsgDisp("主人公","......Huu, fuuu......");
+MsgDisp("主人公","...Huu, fuuu...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_050");
 MsgDisp("Mikage","Once more.");
-MsgDisp("主人公","......Huu, fuuu......");
+MsgDisp("主人公","...Huu, fuuu...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -69,7 +69,7 @@ VoicePlay("G110700400_07_070");
 MsgDisp("Mikage","It's cool when you're always giving it
 your all, but sometimes you need to relax
 too.");
-MsgDisp("主人公","......Ah, yes.");
+MsgDisp("主人公","...Ah, yes.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -79,7 +79,7 @@ Take another deep breath before you go
 home.");
 Wait(30,0);
 SEPlay("EV_SE_080");
-MsgDisp("主人公","(Huh? I think I feel a bit better...... it
+MsgDisp("主人公","(Huh? I think I feel a bit better... it
 must be thanks to
 ｛御影＊＊｝.)");
 BGMStop();

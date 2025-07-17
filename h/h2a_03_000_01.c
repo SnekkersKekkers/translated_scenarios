@@ -28,7 +28,7 @@ VoicePlay("H2A0300001_03_020");
 MsgDisp("Honda","You might be filled with frustration now,
 but you still need to give yourself credit
 for these past three years, right?");
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("主人公","｛本多＊＊｝...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -45,7 +45,7 @@ MsgDisp("主人公","Hehe.
 ｛本多＊＊｝, thanks!");
 MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the track and field club
-manager......)");
+manager...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

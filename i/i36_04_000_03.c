@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("I360400003_47_000");
     MsgDisp("Woman Customer","Um, miss.
-The sugar pot is empty......");
+The sugar pot is empty...");
     MsgDisp("主人公","My apologies!
 I'll bring you a new one right away.");
     MsgClose();
@@ -30,7 +30,7 @@ Are you heading home?");
     ChMotion(4,1,1);
     VoicePlay("I360400003_04_010");
     MsgDisp("Nanatsumori","Yeah.
-...... Hey.");
+... Hey.");
     MsgDisp("主人公","Yes?");
     VoicePlay("I360400003_04_020");
     MsgDisp("Nanatsumori","I could see the bottom of the sugar pot at
@@ -42,21 +42,21 @@ See ya.");
     ChClose(4,0,30);
     Wait(30,0);
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","...... He's right.
+    MsgDisp("主人公","... He's right.
 ｛七ツ森＊｝ really did
-me a favor by telling me that......");
+me a favor by telling me that...");
     MsgDisp("主人公","(I might be a little out of it.
-Let's check the tables more......)");
+Let's check the tables more...)");
     break ;
     case 4:
     case 5:
     VoicePlay("I360400003_47_010");
     MsgDisp("Woman Customer","Excuse me.
-I don't think there's any sugar here......");
+I don't think there's any sugar here...");
     MsgDisp("主人公","My apologies!
 I'll bring you a new one right away.");
     VoicePlay("I360400003_04_030");
-    MsgDisp("Nanatsumori","My, my......");
+    MsgDisp("Nanatsumori","My, my...");
     MsgClose();
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -79,7 +79,7 @@ I'll bring you a new one right away.");
     MsgDisp("Nanatsumori","The countdown for sugar running out here
 started too, you know?");
     MsgDisp("主人公","Huh∋
-I'm sorry I didn't notice......");
+I'm sorry I didn't notice...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -92,7 +92,7 @@ though.");
     MsgDisp("Nanatsumori","Sugar is essential, especially for a
 coffee shop like this.
 Make sure you lift the lids and check.");
-    MsgDisp("主人公","(Haa......
+    MsgDisp("主人公","(Haa...
 I guess I'm a little distracted.
 I'll have to check the tables more often.)");
     break ;

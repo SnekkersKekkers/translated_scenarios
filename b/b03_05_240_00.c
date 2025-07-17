@@ -8,7 +8,7 @@ VoicePlay("B030524000_05_000");
 MsgDisp("Hiiragi","Even though we're close to the city, the
 atmosphere is completely different.
 Where are we going?");
-MsgDisp("主人公","Uhm......");
+MsgDisp("主人公","Uhm...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

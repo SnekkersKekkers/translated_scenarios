@@ -7,5 +7,5 @@ ChMotion(5,2,1);
 ScrFadeIn(0);
 VoicePlay("B060500010_05_000");
 MsgDisp("Hiiragi","I'm not ready to deal with that look on
-your face......");
+your face...");
 MsgDispSksp(0);

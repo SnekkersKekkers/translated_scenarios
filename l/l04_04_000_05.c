@@ -6,9 +6,9 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,1);
     VoicePlay("L040400005_04_000");
-    MsgDisp("Nanatsumori","Ah, this is handmade......
+    MsgDisp("Nanatsumori","Ah, this is handmade...
 Ugh!");
-    MsgDisp("主人公","That's right, but......
+    MsgDisp("主人公","That's right, but...
 Did something happen?");
     ChEye(4,2);
     ChMouth(4,3);
@@ -22,7 +22,7 @@ Thanks.");
     MsgClose();
     ChClose(4);
     MsgDisp("主人公","(Could it be that I put something in that
-he doesn't like......?)");
+he doesn't like...?)");
     break ;
     case 3:
     ChEye(4,0);
@@ -33,7 +33,7 @@ he doesn't like......?)");
     ChEye(4,2);
     ChMouth(4,2);
     VoicePlay("L040400005_04_030");
-    MsgDisp("Nanatsumori","......Hm?");
+    MsgDisp("Nanatsumori","...Hm?");
     MsgDisp("主人公","Huh, what is it?");
     ChEye(4,2);
     ChMouth(4,3);
@@ -48,7 +48,7 @@ Thank you.");
     MsgClose();
     ChClose(4);
     MsgDisp("主人公","(Could it be that I put something in that
-he doesn't like......?)");
+he doesn't like...?)");
     break ;
     case 4:
     case 5:
@@ -81,7 +81,7 @@ I won't lose, alright?");
     MsgClose();
     ChClose(4);
     MsgDisp("主人公","(Could it be that I put something in that
-he doesn't like......?)");
+he doesn't like...?)");
     break ;
     default :
     DbgAssert(1);

@@ -40,7 +40,7 @@ He seemed to like it!)");
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800003_08_040");
     MsgDisp("Shirahane","Heheh, I'm stoked.
-Handmade, huh......");
+Handmade, huh...");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
@@ -63,7 +63,7 @@ He seemed really happy!)");
 Wh, what's wrong?");
     ChMouth(8,4);
     VoicePlay("L040800003_08_070");
-    MsgDisp("Shirahane","A real handmade chocolate......
+    MsgDisp("Shirahane","A real handmade chocolate...
 You thought of me, huh?
 Your heart's in these.");
     MsgDisp("主人公","Yeah.
@@ -72,7 +72,7 @@ I made it just for you,
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("L040800003_08_080");
-    MsgDisp("Shirahane","Just...... me?
+    MsgDisp("Shirahane","Just... me?
 F'real?");
     MsgDisp("主人公","Yeah.");
     ChEye(8,4);
@@ -87,7 +87,7 @@ But, try to eat it soon, okay?");
     ChMouth(8,0);
     ChMotion(8,4,1);
     VoicePlay("L040800003_08_100");
-    MsgDisp("Shirahane","Ah, you're right......
+    MsgDisp("Shirahane","Ah, you're right...
 But it'd be a waste to just eat it.
 What should I do?");
     MsgDisp("主人公","(He seemed really happy!

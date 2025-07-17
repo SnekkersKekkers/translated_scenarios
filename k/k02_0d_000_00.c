@@ -25,7 +25,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 MsgDisp("Hikaru","Happy birthday, Mari▼
 Here's a present♪");
-MsgDisp("主人公","Wah......!
+MsgDisp("主人公","Wah...!
 Thank you both so much!");
 VoicePlay("K020D00000_21_020");
 ChEye(21,0);

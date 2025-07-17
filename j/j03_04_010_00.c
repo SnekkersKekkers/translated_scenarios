@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Yes, it's
 ｛主人公苗字｝.");
     VoicePlay("J030401000_04_000");
-    MsgDisp("Nanatsumori","Ah......
+    MsgDisp("Nanatsumori","Ah...
 Hey.
 I heard your voicemail thing, it's fine.");
     MsgDisp("主人公","Really? Then, on

@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ChOpen(3,254,0,4,0,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝......
+MsgDisp("主人公","｛本多＊＊｝...
 Why are you here?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -30,7 +30,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_030");
 MsgDisp("Honda","Turns out that was you.");
-MsgDisp("主人公","......!");
+MsgDisp("主人公","...!");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -44,7 +44,7 @@ ChMotion(3,1,1);
 VoicePlay("T020320000_03_050");
 MsgDisp("Honda","So when I entered high school and started
 looking in the outside world, I met you.");
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("主人公","｛本多＊＊｝...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -113,7 +113,7 @@ Within my reach is you to whom I'll devote
 my life to.");
 ChEye(3,0);
 ChEyeOpenLevel(3,10);
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("主人公","｛本多＊＊｝...");
 MsgClear();
 ChClose(3);
 ChCustomLayout(3,5,0,-2.5);

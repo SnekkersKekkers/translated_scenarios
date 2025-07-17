@@ -5,18 +5,18 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, ｛御影＊＊｝!? )");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_000");
     MsgDisp("Mikage","I'm filling in for the boy who ran away.
 Isn't it such a waste?");
-    MsgDisp("主人公","Um......
+    MsgDisp("主人公","Um...
 Please treat me well.");
     break ;
     case 3:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Huh, ｛御影＊＊｝? )");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
@@ -32,7 +32,7 @@ Sorry.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Huh, ｛御影＊＊｝? )");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);

@@ -39,7 +39,7 @@ Come, let's go.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B030623001_06_030");
-    MsgDisp("Himuro","If you must......");
+    MsgDisp("Himuro","If you must...");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -104,7 +104,7 @@ Are you kidding?");
     ChMouth(6,2);
     ChMotion(6,2);
     VoicePlay("B030623001_06_080");
-    MsgDisp("Himuro","Already......");
+    MsgDisp("Himuro","Already...");
     break ;
     case 4:
     MsgDispSksp(1,0);

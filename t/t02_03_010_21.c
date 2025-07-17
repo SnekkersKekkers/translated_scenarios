@@ -2,14 +2,14 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("T020301000_03_190");
-MsgDisp("Honda","......!");
+MsgDisp("Honda","...!");
 ChMotion(3,0,1);
 ChCheek(3,10);
 VoicePlay("T020301000_03_200");
-MsgDisp("Honda","...... Just now......
-It was soft and, I could smell you......
+MsgDisp("Honda","... Just now...
+It was soft and, I could smell you...
 and——");
-MsgDisp("主人公","Don't say any more now......");
+MsgDisp("主人公","Don't say any more now...");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,1,1);

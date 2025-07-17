@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I450400000_04_000");
-    MsgDisp("Nanatsumori","......Ah.");
+    MsgDisp("Nanatsumori","...Ah.");
     MsgDisp("主人公","Welcome!
 What kind of flower would you like?");
     ChEye(4,0);
@@ -34,7 +34,7 @@ Well, work hard.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Um......
+    MsgDisp("主人公","(Um...
 ｛七ツ森＊｝, did you come
 to check on me?)");
     break ;
@@ -94,14 +94,14 @@ I'm happy I got complimented!)");
     VoicePlay("I450400000_04_090");
     MsgDisp("Nanatsumori","｛主人公｝.
 Good work.");
-    MsgDisp("主人公","Ah...... you too,
+    MsgDisp("主人公","Ah... you too,
 ｛七ツ森＊｝.");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,0);
     VoicePlay("I450400000_04_100");
-    MsgDisp("Nanatsumori","......Smells nice.");
+    MsgDisp("Nanatsumori","...Smells nice.");
     MsgDisp("主人公","Really? Ah, I was organizing the potpourri
 earlier. Maybe that's why?");
     ChEye(4,0);
@@ -109,7 +109,7 @@ earlier. Maybe that's why?");
     ChMotion(4,0,1);
     VoicePlay("I450400000_04_110");
     MsgDisp("Nanatsumori","Hm.
-But, maybe there's something else......");
+But, maybe there's something else...");
     MsgClose();
     SEPlay("EV_SE_FOOT_039");
     ChClose(4,0,30);
@@ -118,9 +118,9 @@ But, maybe there's something else......");
     ChOpen(4,255,0,0,0,0,0,0,0,0,60);
     SEWait();
     VoicePlay("I450400000_04_120");
-    MsgDisp("Nanatsumori","............");
+    MsgDisp("Nanatsumori","......");
     MsgDisp("主人公","Um, ｛七ツ森＊｝, you're a
-little close......");
+little close...");
     MsgClose();
     ChEye(4,5);
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -142,9 +142,9 @@ Work hard, 'kay?");
     BGMStop();
     ChClose(4,0,30);
     VoicePlay("I450400000_04_150");
-    MsgDisp("Nanatsumori","Damn......
-The good smell was from her, herself......");
-    MsgDisp("主人公","(Haa, that surprised me......
+    MsgDisp("Nanatsumori","Damn...
+The good smell was from her, herself...");
+    MsgDisp("主人公","(Haa, that surprised me...
 ｛七ツ森＊｝ came to
 cheer me on, right?)");
     break ;

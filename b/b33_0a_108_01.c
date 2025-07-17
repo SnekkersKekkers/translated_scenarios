@@ -100,7 +100,7 @@ BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ScrFadeIn(0);
 ChMouthOpenLevel(1,0);
 VoicePlay("B330A10801_01_030");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 MsgDisp("主人公","They both sure are slow huh?");
 ChEye(1,0);
 ChMouth(1,0);

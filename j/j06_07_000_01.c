@@ -1,7 +1,7 @@
 ChEyeOpenLevel(7,#1);
 ChMouthOpenLevel(7,#1);
 ChCheek(7,0);
-MsgDisp("主人公","(What shall I do? ......)");
+MsgDisp("主人公","(What shall I do? ...)");
 SEStop("EV_SE_GAYA_017",1.5);
 MsgSel("Raise your hand", "Don't raise your hand");
 switch (MsgSelRsltGet()){
@@ -26,7 +26,7 @@ Sunday then.");
     ChClose(7);
     Wait(30);
     SEPlay("EV_SE_GAYA_018");
-    MsgDisp("主人公","(This Sunday huh ......
+    MsgDisp("主人公","(This Sunday huh ...
 I'll try not to oversleep.)");
     SEStop("EV_SE_GAYA_018",1);
     break ;

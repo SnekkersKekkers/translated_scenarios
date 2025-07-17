@@ -36,7 +36,7 @@ Cya later then!");
     ChClose(3);
     Wait(30);
     MsgDisp("主人公","(I hope this year is another good
-year......)");
+year...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -89,7 +89,7 @@ very earnestly, weren't you?");
     VoicePlay("S120300002_03_070");
     MsgDisp("Honda","You were watching?");
     MsgDisp("主人公","That's because we were holding hands for a
-while......");
+while...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,1,1);

@@ -4,21 +4,21 @@ ChEye(6,3);
 ChMouth(6,1);
 ChMotion(6,5);
 VoicePlay("T020620000_06_170");
-MsgDisp("Himuro","......∋");
-MsgDisp("主人公","That......is my answer");
+MsgDisp("Himuro","...∋");
+MsgDisp("主人公","That...is my answer");
 VoicePlay("T020620000_06_180");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
 ChCheek(6,10);
 MsgDisp("Himuro","Haa?
-What is that......");
+What is that...");
 VoicePlay("T020620000_06_190");
 ChEye(6,0);
 ChMouth(6,2);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","Normally, I wouldn't do that......");
-MsgDisp("主人公","......Did you dislike it?");
+MsgDisp("Himuro","Normally, I wouldn't do that...");
+MsgDisp("主人公","...Did you dislike it?");
 VoicePlay("T020620000_06_200");
 ChEye(6,1);
 ChMouth(6,1);
@@ -32,7 +32,7 @@ ChMotion(6,2);
 ChCheek(6,0);
 MsgDisp("Himuro","Seriously, being with you makes me feel
 all out of sorts... If those guys knew, I
-wonder how much teasing I'd get......");
+wonder how much teasing I'd get...");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020620000_06_220");
 ChEye(6,0);

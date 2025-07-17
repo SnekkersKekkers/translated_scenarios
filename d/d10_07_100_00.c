@@ -30,7 +30,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("D100710000_07_030");
-MsgDisp("Mikage","......You, lately you've been starting to
+MsgDisp("Mikage","...You, lately you've been starting to
 look more and more like a caring wife,
 huh?");
 MsgDisp("主人公","Ehh∋");
@@ -46,7 +46,7 @@ BGMStop();
 ChClose(7);
 MsgDisp("主人公","(Lately I've been chatting with
 ｛御影＊＊｝ a lot
-but......Does that really make me look
-like a wife......)");
+but...Does that really make me look
+like a wife...)");
 MsgClose();
 ScrFadeOut(0,0);

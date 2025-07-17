@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H4A0600001_06_000");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","｛氷室＊＊｝......");
+    MsgDisp("主人公","｛氷室＊＊｝...");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -42,7 +42,7 @@ rhythmic gymnastics club.)");
     ScrFadeIn(0);
     VoicePlay("H4A0600001_06_040");
     MsgDisp("Himuro","Good job.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝......
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝...
 Sorry you came all this way.");
     ChEye(6,1);
     ChMouth(6,0);
@@ -63,9 +63,9 @@ didn't win, that's just nonsense.");
     ChCheek(6,10);
     VoicePlay("H4A0600001_06_070");
     MsgDisp("Himuro","Honestly, I was impressed.
-...... I thought you looked the most
+... I thought you looked the most
 beautiful.");
-    MsgDisp("主人公","｛氷室＊＊｝......");
+    MsgDisp("主人公","｛氷室＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

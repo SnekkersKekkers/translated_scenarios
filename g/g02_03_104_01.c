@@ -22,12 +22,12 @@ ChEyeOpenLevel(3,0);
 VoicePlay("G020310401_03_030");
 MsgDisp("Honda","And that 'like' is different from what you
 feel for family or friends. It's only for
-that one special person......");
+that one special person...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310401_03_040");
-MsgDisp("Honda","......Hey, should we hold hands?");
+MsgDisp("Honda","...Hey, should we hold hands?");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -42,7 +42,7 @@ VoicePlay("G020310401_03_060");
 MsgDisp("Honda","So if holding hands makes you happy, it
 means the person you're holding hands with
 is someone you like.");
-MsgDisp("主人公","I-I see.......");
+MsgDisp("主人公","I-I see....");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -53,14 +53,14 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020310401_03_080");
-MsgDisp("Honda","............");
+MsgDisp("Honda","......");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 ChCheek(3,8);
 VoicePlay("G020310401_03_090");
-MsgDisp("Honda","......Huh? What's this? As I try to hold
-your hand, my throat feels tight......");
+MsgDisp("Honda","...Huh? What's this? As I try to hold
+your hand, my throat feels tight...");
 MsgDisp("主人公","Ehh?");
 ChEye(3,5);
 ChMouth(3,3);

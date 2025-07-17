@@ -2,14 +2,14 @@ BGOpen("sc210",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("A020D00000_21_000");
-MsgDisp("Michiru?","......There you are.
+MsgDisp("Michiru?","...There you are.
 Hey, Hikaru—look!
 It's her.");
 VoicePlay("A020D00000_22_000");
 MsgDisp("Hikaru?","Ah...!
 The girl with Kazama-kun
 yesterday!");
-MsgDisp("主人公","(......?)");
+MsgDisp("主人公","(...?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -138,7 +138,7 @@ and relatives of world-famous designer
 \"Hanatsubaki Goro\"— go to this
 school...!?)");
 MsgDisp("主人公","(I can go to Michiru for fashion and
-Hikaru for relationship advice......
+Hikaru for relationship advice...
 Anyway, why do they call me \"Mari\"?)");
 MsgClose();
 ScrFadeOut(0,0);

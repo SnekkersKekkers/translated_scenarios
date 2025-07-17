@@ -14,6 +14,6 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDispSksp(1,0);
 VoicePlay("B030401000_04_010");
-MsgDisp("Nanatsumori","ＯＫ.");
+MsgDisp("Nanatsumori","OK.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

@@ -39,7 +39,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B050200300_02_010");
-MsgDisp("Sassa","Diamond in the rough......
+MsgDisp("Sassa","Diamond in the rough...
 You mean me?");
 ChEye(31,0);
 ChMouth(31,0);
@@ -64,14 +64,14 @@ MsgClose();
 ChClose(31,0,30);
 ChClose(2,0,30);
 VoicePlay("B050200300_02_020");
-MsgDisp("Sassa","Ahh, wait......!");
+MsgDisp("Sassa","Ahh, wait...!");
 SEWait();
-MsgDisp("主人公","(They're gone......)");
+MsgDisp("主人公","(They're gone...)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","(I wonder what Goro-sensei is doing with
-｛颯砂＊＊｝......? )");
+｛颯砂＊＊｝...? )");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -95,19 +95,19 @@ MsgDisp("主人公","Woah!
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200300_02_030");
-MsgDisp("Sassa","...... Yeah.
+MsgDisp("Sassa","... Yeah.
 This is my first time looking so cool.");
 VoicePlay("B050200300_31_070");
 MsgDisp("Goro","Yep.
 I went with \"Goro's Fresh Collection\"\"!");
 MsgDisp("主人公","Ah, that fashion collection is featured on
-Habatcher......");
+Habatcher...");
 StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
 StlCheek(2,10);
 VoicePlay("B050200300_02_040");
-MsgDisp("Sassa","A-Am I your model......∋");
+MsgDisp("Sassa","A-Am I your model...∋");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("B050200300_31_080");
@@ -119,8 +119,8 @@ ScrFadeOut(0);
 StlClose();
 BGMVol(0.5,2);
 VoicePlay("B050200300_02_050");
-MsgDisp("Sassa","Ah......
-I see......
+MsgDisp("Sassa","Ah...
+I see...
 Of course.");
 VoicePlay("B050200300_31_090");
 MsgDisp("Goro","Those clothes are from Agel.
@@ -129,7 +129,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 Wait(90,0);
 VoicePlay("B050200300_02_060");
 MsgDisp("Sassa","Ah.
-Thank you so much......");
+Thank you so much...");
 MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ seems a bit
 disappointed.
 The suit really made him look cool.)");

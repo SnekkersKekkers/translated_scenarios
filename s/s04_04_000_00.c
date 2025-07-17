@@ -16,11 +16,11 @@ calling.");
     VoicePlay("S040400000_04_010");
     MsgDisp("Nanatsumori","Hey, if you're free right now, would you
 like to come with me to the shrine?");
-    MsgSel("Yeah, let's go!","Sorry, I can't......");
+    MsgSel("Yeah, let's go!","Sorry, I can't...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040400000_04_020");
-        MsgDisp("Nanatsumori","ＯＫ.
+        MsgDisp("Nanatsumori","OK.
 Ok then, I'll pick you up.");
         MsgDisp("主人公","Okay, got it.");
         SEWait();
@@ -42,7 +42,7 @@ See you later.");
         SEWait();
         MsgDisp("主人公","(Even though he went through the trouble
 of inviting me, did I do something
-wrong......)");
+wrong...)");
         break ;
         default :
         DbgAssert(0);
@@ -67,7 +67,7 @@ calling.");
     VoicePlay("S040400000_04_070");
     MsgDisp("Nanatsumori","I want to us to go to the shrine together.
 What do you think?");
-    MsgSel("Sure, let's go!","Sorry, I can't......");
+    MsgSel("Sure, let's go!","Sorry, I can't...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040400000_04_080");
@@ -84,14 +84,14 @@ See you soon.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(I feel like he's expecting something from
-me......
+me...
 Hmm, what to wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
         case 1:
         VoicePlay("S040400000_04_110");
-        MsgDisp("Nanatsumori","Noo......");
+        MsgDisp("Nanatsumori","Noo...");
         MsgDisp("主人公","Yeah.");
         VoicePlay("S040400000_04_120");
         MsgDisp("Nanatsumori","It's fine.
@@ -100,12 +100,12 @@ New Year's is a really busy day, I guess.");
         VoicePlay("S040400000_04_130");
         MsgDisp("Nanatsumori","Don't worry about it.
 It's cold, so try not to get sick.
-Bye......");
+Bye...");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through all the
-trouble of inviting me......
-Did I make a bad choice......)");
+trouble of inviting me...
+Did I make a bad choice...)");
         break ;
         default :
         DbgAssert(0);

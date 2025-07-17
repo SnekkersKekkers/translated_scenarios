@@ -38,7 +38,7 @@ Cya.");
     ChClose(2);
     MsgDisp("主人公","(｛颯砂＊＊｝ is amazing. He's working hard
 towards his goals already this year. I
-will too......!)");
+will too...!)");
     break ;
     case 4:
     case 5:
@@ -105,7 +105,7 @@ Cya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(Ah, ｛颯砂＊＊｝ left......
+    MsgDisp("主人公","(Ah, ｛颯砂＊＊｝ left...
 I hope this year is fun too.)");
     break ;
     default :

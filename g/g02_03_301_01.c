@@ -24,8 +24,8 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020330101_03_030");
 MsgDisp("Honda","Maybe I just have bad timing, or maybe
-you're just too popular......");
-MsgDisp("主人公","That's not......");
+you're just too popular...");
+MsgDisp("主人公","That's not...");
 ChMotion(3,4);
 VoicePlay("G020330101_03_040");
 MsgDisp("Honda","But I'm sure there are other people who
@@ -36,7 +36,7 @@ ChMotion(3,1);
 VoicePlay("G020330101_03_050");
 MsgDisp("Honda","Hmm, seems like I have quite a few
 rivalsー.");
-MsgDisp("主人公","(Rivals huh......)");
+MsgDisp("主人公","(Rivals huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

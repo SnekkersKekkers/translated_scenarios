@@ -62,7 +62,7 @@ MsgClose();
 ScrFadeIn(0);
 MsgDisp("主人公","(It's about time for
 ｛風真＊＊｝ and
-｛颯砂＊＊｝ to start. ......Huh?
+｛颯砂＊＊｝ to start. ...Huh?
 Over there, is that——)");
 MsgClose();
 ScrFadeOut(0);
@@ -74,7 +74,7 @@ StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Eh!
-I can't believe it......
+I can't believe it...
 They're in the same race∋)");
 StlEye(2,0,0);
 StlMouth(2,0);
@@ -85,7 +85,7 @@ Let's have fun like we did back in
 kindergarten.");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D120A00200_01_020");
-MsgDisp("Kazama","...... Geez.
+MsgDisp("Kazama","... Geez.
 You really don't remember anything, huh?");
 StlEye(2,0);
 StlMouth(2,0);
@@ -94,7 +94,7 @@ MsgDisp("Sassa","I remember having fun.");
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D120A00200_01_030");
 MsgDisp("Kazama","Yeah, beating me in front of all of those
-people must have been fun......");
+people must have been fun...");
 VoicePlay("D120A00200_39_020");
 MsgDisp("Referee","On your marks!
 Get set——");
@@ -146,8 +146,8 @@ ChMotion(2,4);
 VoicePlay("D120A00200_02_070");
 MsgDisp("Sassa","I'm glad to hear that.");
 MsgDisp("主人公","(Hehe! It's like they're interviewing the
-hero. ......Huh, where is
-｛風真＊＊｝......? )");
+hero. ...Huh, where is
+｛風真＊＊｝...? )");
 MsgClose();
 ScrFadeOut(0);
 ChClose(2,0,0);
@@ -157,7 +157,7 @@ MsgDisp("主人公","｛風真＊＊｝, are you okay?");
 MsgClose();
 ChOpen(1,30,3,3,2,#1,#1,5,0);
 VoicePlay("D120A00200_01_040");
-MsgDisp("Kazama","Y-You......");
+MsgDisp("Kazama","Y-You...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -165,7 +165,7 @@ ChCheek(1,0);
 VoicePlay("D120A00200_01_050");
 MsgDisp("Kazama","What are you doing?");
 MsgDisp("主人公","I saw ｛風真＊＊｝ going this
-way so......
+way so...
 Are you sad?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -194,7 +194,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120A00200_01_090");
-MsgDisp("Kazama","But......
+MsgDisp("Kazama","But...
 Thank you.
 I get to share this feeling with you.");
 MsgDisp("主人公","Eh?");
@@ -205,7 +205,7 @@ VoicePlay("D120A00200_01_100");
 MsgDisp("Kazama","It's nothing.
 Look, the festival is continuing.
 Shall we go?");
-MsgDisp("主人公","(......｛風真＊＊｝?)");
+MsgDisp("主人公","(...｛風真＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

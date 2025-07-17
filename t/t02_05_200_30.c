@@ -1,5 +1,5 @@
 BGMStop();
-MsgDisp("主人公","......I'm sorry");
+MsgDisp("主人公","...I'm sorry");
 ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
@@ -20,7 +20,7 @@ ChMotion(5,2);
 VoicePlay("T020520030_05_020");
 MsgDisp("Hiiragi","Now I know the way.
 I can walk by myself.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -31,9 +31,9 @@ MsgDisp("Hiiragi","Hey, don't make that face. It's alright,
 I'm the chairman who graduated from the
 prestigious Haba High, you know?");
 VoicePlay("T020520030_05_040");
-MsgDisp("Hiiragi","......My grades were just barely passing,
+MsgDisp("Hiiragi","...My grades were just barely passing,
 though.");
-MsgDisp("主人公","Hehe, yeah......");
+MsgDisp("主人公","Hehe, yeah...");
 ChEye(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);

@@ -33,7 +33,7 @@ I think we have a good head start.");
     MsgClose();
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(I hope we have a good year......)");
+    MsgDisp("主人公","(I hope we have a good year...)");
     break ;
     case 4:
     case 5:

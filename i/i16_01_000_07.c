@@ -26,7 +26,7 @@ student.");
 Then, maybe I'll ask you to teach me too,
 next time?");
     MsgDisp("主人公","(There's nothing I can teach you,
-｛風真＊＊｝......!
+｛風真＊＊｝...!
 But, I'm happy everyone is saying that.)");
     break ;
     case 4:
@@ -52,7 +52,7 @@ Thanks to their mentor.");
     VoicePlay("I160100007_01_040");
     MsgDisp("Kazama","Having you as their partner really helps.
 The newcomers are being trained well.");
-    MsgDisp("主人公","Thanks......
+    MsgDisp("主人公","Thanks...
 Hearing you say that makes me happy.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -60,7 +60,7 @@ Hearing you say that makes me happy.");
     VoicePlay("I160100007_01_050");
     MsgDisp("Kazama","I'm counting on you.");
     MsgDisp("主人公","(It makes me a little shy to be praised
-like this......
+like this...
 Let's keep it up just like this!)");
     break ;
     default :

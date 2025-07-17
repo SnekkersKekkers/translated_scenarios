@@ -9,6 +9,6 @@ VoicePlay("J030600002_06_020");
 MsgDisp("Himuro","Well then.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(Only Wednesday and Friday......
+MsgDisp("主人公","(Only Wednesday and Friday...
 I'll have to be careful next time.)");
 MsgClose();

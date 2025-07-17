@@ -8,14 +8,14 @@ ScrFadeIn(0);
 ChEye(4,5);
 ChMouth(4,5);
 VoicePlay("Q260400000_04_000");
-MsgDisp("Nanatsumori","......Eh∋");
+MsgDisp("Nanatsumori","...Eh∋");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝∋");
-MsgDisp("主人公","(So that feeling was......)");
+MsgDisp("主人公","(So that feeling was...)");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q260400000_04_010");
-MsgDisp("Nanatsumori","So that feeling was......");
+MsgDisp("Nanatsumori","So that feeling was...");
 MsgDisp("主人公","My mind got read∋");
 ChEye(4,0);
 ChMouth(4,4);
@@ -27,11 +27,11 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q260400000_04_030");
 MsgDisp("Nanatsumori","I didn't do anything.
-I'm sure I haven't......
+I'm sure I haven't...
 But, I am sorry.");
-MsgDisp("主人公","(He's panicking...... So I really touched
+MsgDisp("主人公","(He's panicking... So I really touched
 ｛七ツ森＊｝ Just
-now......)");
+now...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

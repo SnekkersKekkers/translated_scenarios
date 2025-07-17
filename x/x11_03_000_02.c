@@ -30,7 +30,7 @@ Hmmm, thanks!");
     ChMotion(3,3);
     VoicePlay("X110300002_03_020");
     MsgDisp("Honda","Hey, can you throw me one next time?");
-    MsgDisp("主人公","(Can you do it ......?
+    MsgDisp("主人公","(Can you do it ...?
 But I'm glad we won!)");
     break ;
     default :

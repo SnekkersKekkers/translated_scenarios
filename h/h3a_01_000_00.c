@@ -67,7 +67,7 @@ but looks like I was worrying for nothing.");
     VoicePlay("H3A0100000_01_060");
     MsgDisp("Kazama","What was amazing wasn't just that you were
 strong.
-...... It was kind of beautiful.");
+... It was kind of beautiful.");
     MsgDisp("主人公","Hm?");
     ChEye(1,4);
     ChMouth(1,3);

@@ -4,8 +4,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G020430000_04_000");
 MsgDisp("Nanatsumori","I wonder what they're up to right
-nowー......those guys.");
-MsgDisp("主人公","Those guys......Ah. You mean
+nowー...those guys.");
+MsgDisp("主人公","Those guys...Ah. You mean
 ｛風真＊＊｝ and
 ｛本多＊＊｝?");
 ChMotion(4,1,1);
@@ -46,7 +46,7 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("G020430000_04_070");
-MsgDisp("Nanatsumori","Jeez......");
+MsgDisp("Nanatsumori","Jeez...");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("G020430000_04_080");

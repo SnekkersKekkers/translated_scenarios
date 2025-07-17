@@ -13,7 +13,7 @@ switch (ChPrmGet(22,6)){
     ChEye(22,0);
     ChMouth(22,2);
     VoicePlay("H282200000_22_000");
-    MsgDisp("Hikaru","Wow, this place is huge......");
+    MsgDisp("Hikaru","Wow, this place is huge...");
     MsgDisp("主人公","Ah, ｛ひかる＊｝.
 Did you come to cheer us on?");
     ChEye(22,0);

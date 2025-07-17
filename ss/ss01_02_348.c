@@ -6,6 +6,6 @@ ChEyeOpenLevel(2,7);
 ChCheek(2,10);
 VoicePlay("SS0102348_02_000");
 MsgDisp("Sassa","Nothing compares to high altitude
-training......");
+training...");
 MsgClose();
 ChCheek(2,0);

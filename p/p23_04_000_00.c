@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     case 4:
     case 5:
     MsgDisp("主人公","(It's now time for the real
-performance...... I have to make sure I
+performance... I have to make sure I
 don't forget my lines.)");
     VoicePlay("P230400000_04_000");
     MsgDisp("Nanatsumori?","What are we going to do if you're scared

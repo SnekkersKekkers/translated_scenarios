@@ -34,7 +34,7 @@ this.");
     ChCheek(6,10);
     ScrFadeIn(0);
     VoicePlay("B060600000_06_020");
-    MsgDisp("Himuro","......Invite me again.");
+    MsgDisp("Himuro","...Invite me again.");
     MsgDispSksp(0);
     break ;
     default :

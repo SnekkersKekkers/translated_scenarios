@@ -6,7 +6,7 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030515000_05_000");
-MsgDisp("Hiiragi","Bowling or Darts......
+MsgDisp("Hiiragi","Bowling or Darts...
 Which one?");
 MsgSel("Let's go Bowling","I like darts");
 switch (MsgSelRsltGet()){

@@ -6,7 +6,7 @@ BGOpen("sc801",0);
 ScrFadeIn(0);
 VoicePlay("Q070201000_48_000");
 MsgDisp("Tour Guide","Here is a toilet break. We will leave in
-15 minutes. Oh...... just in time, the
+15 minutes. Oh... just in time, the
 sunset over the bay is beautiful!");
 VoicePlay("Q070201000_38_000");
 MsgDisp("Students","Yeeess.");
@@ -25,7 +25,7 @@ Wait(40,0);
 VoicePlay("Q070201000_02_000");
 MsgDisp("Sassa?","Hey, over here∈");
 MsgDisp("主人公","Eh?
-Ah......
+Ah...
 ｛颯砂＊＊｝!");
 MsgClose();
 EnvAutoSet(0);
@@ -42,7 +42,7 @@ StlEye(2,0);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_020");
 MsgDisp("Sassa","You can see the sunset from the front.");
-MsgDisp("主人公","Really beautiful......");
+MsgDisp("主人公","Really beautiful...");
 StlEye(2,2);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_030");
@@ -67,23 +67,23 @@ StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("Q070201000_02_050");
-MsgDisp("Sassa","Wow......
+MsgDisp("Sassa","Wow...
 It's as if we have a little sun in our
 hands.");
-MsgDisp("主人公","So pretty......");
+MsgDisp("主人公","So pretty...");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("Q070201000_02_060");
-MsgDisp("Sassa","...... yeah.
+MsgDisp("Sassa","... yeah.
 I'll never forget this moment for the rest
-of my life......");
-MsgDisp("主人公","Me too......");
+of my life...");
+MsgDisp("主人公","Me too...");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_070");
 MsgDisp("Sassa","Y'know what, you can have this glass ball.");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 May I have it?");
 StlEye(2,1,0);
 StlMouth(2,1);
@@ -95,8 +95,7 @@ MsgDisp("主人公","Eh?");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_090");
-MsgDisp("Sassa","That was poetic good enough for me, wasn't
-it?");
+MsgDisp("Sassa","Good enough poetry for me, huh?");
 MsgDisp("主人公","Hehe, yes.
 Thanks, ｛颯砂＊＊｝.");
 StlEye(2,2);
@@ -109,7 +108,7 @@ StlEye(2,2,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("Q070201000_02_100");
-MsgDisp("Sassa","Ah, Mikage Sensei!");
+MsgDisp("Sassa","Ah, Mikage-sensei!");
 MsgDisp("主人公","Eeh?");
 VoicePlay("Q070201000_07_010");
 MsgDisp("Mikage","I took you guys a nice shot.
@@ -117,13 +116,12 @@ Look, it's time for the bus to leave!!");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_110");
-MsgDisp("Sassa","Yes!
-Let's go then!");
+MsgDisp("Sassa","Okay! Let's go then!");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0);
 Wait(30,0);
-MsgDisp("主人公","(｛颯砂＊＊｝......
+MsgDisp("主人公","(｛颯砂＊＊｝...
 Thank you for the pretty gift.)");
 MsgClose();
 EnvAutoSet(1);

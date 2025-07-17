@@ -84,7 +84,7 @@ Then, shall we go somewhere else?");
         MsgDisp("Nanatsumori","No, no!
 Let's not do that.
 We came all the way here...");
-        MsgDisp("主人公","But......");
+        MsgDisp("主人公","But...");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -110,7 +110,7 @@ make it a date.");
         MsgDisp("Nanatsumori","The time we spend thinking about what to
 do together like this, is good enough for
 me.");
-        MsgDisp("主人公","(｛七ツ森＊｝......)");
+        MsgDisp("主人公","(｛七ツ森＊｝...)");
         break ;
         default :
         DbgAssert(1);

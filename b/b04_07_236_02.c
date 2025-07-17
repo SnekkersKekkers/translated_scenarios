@@ -83,7 +83,7 @@ very well.");
         ChMouth(7,1);
         ChMotion(7,1);
         VoicePlay("B040723602_07_070");
-        MsgDisp("Mikage","............");
+        MsgDisp("Mikage","......");
         ChEye(7,1);
         ChMouth(7,1);
         ChMotion(7,5);

@@ -29,7 +29,7 @@ Happy New Years.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
     MsgDisp("主人公","(It was a fun shrine visit.
-I hope this year is a good year......)");
+I hope this year is a good year...)");
     break ;
     case 3:
     ChEye(2,0);

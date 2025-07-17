@@ -18,7 +18,7 @@ Welcome!");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("I650400000_04_010");
-    MsgDisp("Nanatsumori","Nah, I have nothing to do here......");
+    MsgDisp("Nanatsumori","Nah, I have nothing to do here...");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,0,1);
@@ -29,7 +29,7 @@ Well, good luck with work.");
     BGMStop();
     MsgClose();
     ChClose(4,0,30);
-    MsgDisp("主人公","(I guess that's it......
+    MsgDisp("主人公","(I guess that's it...
 But, he came to check on me, right?)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -87,16 +87,16 @@ What's up?");
 always be washing oil and dirt off your
 hands. Care for them with this.");
     MsgDisp("主人公","Yeah.
-Waah, it really does smell good......!
+Waah, it really does smell good...!
 Thanks!");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("I650400000_04_090");
     MsgDisp("Nanatsumori","You're welcome.
-You don't get off until...... how long?");
+You don't get off until... how long?");
     MsgDisp("主人公","Hm?
-Um, not for another hour......");
+Um, not for another hour...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -107,7 +107,7 @@ Um, not for another hour......");
     ChMotion(4,2,1);
     VoicePlay("I650400000_04_110");
     MsgDisp("Nanatsumori","I wish I had a real car for times like
-this, so I could wait for you......");
+this, so I could wait for you...");
     MsgDisp("主人公","(｛七ツ森＊｝?
 He came to cheer me on, right?
 I'm so happy he gave me hand cream!)");

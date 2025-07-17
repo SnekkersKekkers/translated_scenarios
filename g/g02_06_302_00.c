@@ -13,7 +13,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630200_06_010");
-MsgDisp("Himuro","Friends......huh.");
+MsgDisp("Himuro","Friends...huh.");
 MsgDisp("主人公","Um, you don't seem that interested?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -27,7 +27,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630200_06_030");
 MsgDisp("Himuro","Don't you make friends without realizing?");
-MsgDisp("主人公","I guess......?");
+MsgDisp("主人公","I guess...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
@@ -69,7 +69,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630200_06_090");
-MsgDisp("Himuro","......But the guys in my class are so
+MsgDisp("Himuro","...But the guys in my class are so
 persistent that I'm about to give in.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -78,7 +78,7 @@ ChEyeOpenLevel(6,8);
 VoicePlay("G020630200_06_100");
 MsgDisp("Himuro","What are they all up to?");
 MsgDisp("主人公","(There's no need to be so suspicious
-though......)");
+though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,7 +5,7 @@ ChMouth(4,1);
 ChMotion(4,5);
 ChCheek(4,10);
 VoicePlay("T020401000_04_260");
-MsgDisp("Nanatsumori","Wai-......
+MsgDisp("Nanatsumori","Wai-...
 Oi!");
 MsgDisp("主人公","I've always liked
 ｛七ツ森＊｝ too.");
@@ -15,14 +15,14 @@ ChMotion(4,2,1);
 ChMouthOpenLevel(4,0);
 ChCheek(4,8);
 VoicePlay("T020401000_04_270");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChEye(4,2);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("T020401000_04_280");
-MsgDisp("Nanatsumori","Ah, I see......
+MsgDisp("Nanatsumori","Ah, I see...
 You say cute things And your actions are
-bold......");
+bold...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -51,7 +51,7 @@ Wait(60,0);
 SEPlay("EV_SE_695");
 Wait(120,0);
 VoicePlay("T020401000_04_310");
-MsgDisp("Nanatsumori","I like you more ......so, do you
+MsgDisp("Nanatsumori","I like you more ...so, do you
 understand?");
 Wait(120,0);
 MsgClose();

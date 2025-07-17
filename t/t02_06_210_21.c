@@ -12,13 +12,13 @@ ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,5);
 ChCheek(6,10);
-MsgDisp("Himuro","............");
+MsgDisp("Himuro","......");
 VoicePlay("T020621000_06_220");
 ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","......That was my first kiss.");
+MsgDisp("Himuro","...That was my first kiss.");
 MsgDisp("主人公","Huh, you mean just now——");
 VoicePlay("T020621000_06_230");
 ChEye(6,1);
@@ -40,7 +40,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","...... They do seem very calm.
+MsgDisp("Himuro","... They do seem very calm.
 But you never know, it could catch them
 off guard if they're like that.");
 BGMStop(2.8);

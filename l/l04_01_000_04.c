@@ -89,7 +89,7 @@ power must be amazing.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100004_01_100");
-    MsgDisp("Kazama","......Hey, this chocolate is a combination
+    MsgDisp("Kazama","...Hey, this chocolate is a combination
 of my taste and your sense, right?");
     MsgDisp("主人公","Hehe, kind of like our child?");
     ChEye(1,0);
@@ -102,7 +102,7 @@ of my taste and your sense, right?");
     ChMouth(1,4);
     ChMotion(1,4);
     VoicePlay("L040100004_01_120");
-    MsgDisp("Kazama","...... Oh no.
+    MsgDisp("Kazama","... Oh no.
 I don't think I can eat this anymore.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -45,19 +45,19 @@ I wonder what type of year this will be?)");
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("S120400001_04_030");
-    MsgDisp("Nanatsumori","......It's time.");
+    MsgDisp("Nanatsumori","...It's time.");
     MsgDisp("主人公","It was fun hanging out with you!");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,2,1);
     VoicePlay("S120400001_04_040");
     MsgDisp("Nanatsumori","Ahh.
-It's not enough somehow......");
+It's not enough somehow...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400001_04_050");
-    MsgDisp("Nanatsumori","...... Negativity isn't good first thing
+    MsgDisp("Nanatsumori","... Negativity isn't good first thing
 in the New Year.");
     MsgDisp("主人公","Hehe!
 We'll see each other again soon, right?");
@@ -73,7 +73,7 @@ Bye then.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(I hope this year will be good as
-well......)");
+well...)");
     break ;
     default :
     DbgAssert(1);

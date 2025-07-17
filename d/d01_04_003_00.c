@@ -45,7 +45,7 @@ SEWait();
 StlEye(4,1);
 StlMouthOpenLevel(4,0);
 VoicePlay("D010400300_04_040");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 VoicePlay("D010400300_41_010");
 MsgDisp("Staff A","Great～!
 Stay just like that, let me take a few
@@ -68,23 +68,23 @@ legendary high school model Hazuki Kei!");
 VoicePlay("D010400300_34_030");
 MsgDisp("Staff C","Doesn't he!
 It's a different kind of sexy from Hazuki
-Kei, though......");
+Kei, though...");
 VoicePlay("D010400300_34_040");
 MsgDisp("Staff C","I think I'll become his fan!");
 VoicePlay("D010400300_44_010");
 MsgDisp("Staff B","Yeah!
 I think this will be good for Hazuki Kei's
 birthday project!");
-MsgDisp("主人公","(It's true......
+MsgDisp("主人公","(It's true...
 ｛七ツ森＊｝ looks so
 lovely and handsome!)");
 MsgDisp("主人公","(And that outfit, it's a remake of
 something worn by the legendary Hazuki
-Kei......Amazing!)");
+Kei...Amazing!)");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("D010400300_04_050");
-MsgDisp("Nanatsumori","......Heh.");
+MsgDisp("Nanatsumori","...Heh.");
 MsgDisp("主人公","∈");
 SEPlay("EV_SE_041");
 Wait(40,0);
@@ -111,8 +111,8 @@ ChOpen(4,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("D010400300_04_060");
-MsgDisp("Nanatsumori","......So?");
-MsgDisp("主人公","That was really inspiring......I was able
+MsgDisp("Nanatsumori","...So?");
+MsgDisp("主人公","That was really inspiring...I was able
 to experience a real life photoshoot. That
 outfit looked great on you too!");
 ChEye(4,4);
@@ -132,7 +132,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("D010400300_04_090");
-MsgDisp("Nanatsumori","......Haha!");
+MsgDisp("Nanatsumori","...Haha!");
 MsgDisp("主人公","Hehe!");
 BGMStop();
 MsgClose();

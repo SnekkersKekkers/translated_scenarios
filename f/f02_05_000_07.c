@@ -13,7 +13,7 @@ VoicePlay("F020500007_05_000");
 MsgDisp("Hiiragi","I will be putting on a special summer
 performance, but nothing more high school
 student, no.");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -47,7 +47,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F020500007_05_050");
 MsgDisp("Hiiragi","You could say that. And the scent of burnt
-soy sauce...... ......huh? Can you smell
+soy sauce... ...huh? Can you smell
 that?");
 MsgDisp("主人公","Haha.
 Now I'm hungry, too.");

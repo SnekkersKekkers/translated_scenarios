@@ -7,7 +7,7 @@ VoicePlay("G020730000_07_000");
 MsgDisp("Mikage","Somehow, the fireflies are starting to
 look like them.");
 MsgDisp("主人公","Eh?
-Look like them you say......");
+Look like them you say...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

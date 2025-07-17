@@ -1,4 +1,4 @@
-MsgDisp("主人公","......Yes.");
+MsgDisp("主人公","...Yes.");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,10);
@@ -6,7 +6,7 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,2);
 VoicePlay("T020100000_01_250");
-MsgDisp("Kazama","Huh, really......?");
+MsgDisp("Kazama","Huh, really...?");
 MsgDisp("主人公","Yes, I also like ｛風真＊＊｝.
 Thank you for always thinking of me.");
 ChMouth(1,3);
@@ -24,7 +24,7 @@ VoicePlay("T020100000_01_260");
 MsgDisp("Kazama","It's okay.
 You remembered the most important memory
 of all.");
-MsgDisp("主人公","A wish made by a pinwheel......");
+MsgDisp("主人公","A wish made by a pinwheel...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -41,12 +41,12 @@ may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020100000_01_300");
-MsgDisp("Ryota","I absolutely hope it can come true......");
+MsgDisp("Ryota","I absolutely hope it can come true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,10);
 VoicePlay("T020100000_01_310");
-MsgDisp("Kazama","Absolutely, I hope so......");
+MsgDisp("Kazama","Absolutely, I hope so...");
 MsgClear();
 ScrFadeOut(0,1);
 ChClose(1,0,0);
@@ -55,7 +55,7 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("T020100000_01_320");
-MsgDisp("Kazama","......Ah, that's right. This. It looks
+MsgDisp("Kazama","...Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020100000_01_330");
@@ -65,7 +65,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_340");
 MsgDisp("Kazama","——I'll definitely give it to you one
 day.");
-MsgDisp("主人公","｛風真＊＊｝......
+MsgDisp("主人公","｛風真＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
@@ -79,13 +79,13 @@ StlClose();
 SEPlay("EV_SE_694",0,0.7);
 SEWait();
 VoicePlay("T020100000_01_360");
-MsgDisp("Kazama","Also......");
+MsgDisp("Kazama","Also...");
 StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoicePlay("T020100000_01_370");
 MsgDisp("Kazama","Let's go ahead and hold the ceremony like
 this.");
-MsgDisp("主人公","......Yes.");
+MsgDisp("主人公","...Yes.");
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_380");
 MsgDisp("Kazama","｛主人公｝, I'll never let

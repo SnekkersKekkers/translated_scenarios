@@ -59,7 +59,7 @@ lot, so go on and win!");
     ChMouth(22,0);
     ChMotion(22,4,1);
     VoicePlay("H382200000_22_050");
-    MsgDisp("Hikaru","Haa...... how reliable♪");
+    MsgDisp("Hikaru","Haa... how reliable♪");
     MsgDisp("主人公","(Alright, let's do our best!)");
     BGMStop();
     MsgClose();

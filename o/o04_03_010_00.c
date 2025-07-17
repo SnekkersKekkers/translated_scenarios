@@ -3,7 +3,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","My team is......
+    MsgDisp("主人公","My team is...
 Ah, it's ｛本多＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -15,7 +15,7 @@ Looking forward to it.");
     MsgDisp("主人公","Yeah, let's do our best!");
     break ;
     case 3:
-    MsgDisp("主人公","My team is......
+    MsgDisp("主人公","My team is...
 Ah, I'm with ｛本多＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -30,12 +30,12 @@ Looking forward to it.");
     ChMotion(3,1);
     VoicePlay("O040301000_03_020");
     MsgDisp("Honda","Starting from how we'll attack, we need to
-plan a strategy......");
+plan a strategy...");
     MsgDisp("主人公","(R-Right now?)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Um, my team is......");
+    MsgDisp("主人公","Um, my team is...");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();

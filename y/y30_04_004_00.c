@@ -64,7 +64,7 @@ unison.");
 MsgClear();
 MsgDisp("","Dahon invited her to lunch as she
 blinked in puzzlement.");
-MsgDisp("","She also responded with an ＯＫ.");
+MsgDisp("","She also responded with an OK.");
 MsgClear();
 MsgDisp("","I glanced at Kazama, who was happily
 smiling broadly.");

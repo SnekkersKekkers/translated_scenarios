@@ -4,7 +4,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("K010600103_06_000");
-MsgDisp("Himuro","This......");
+MsgDisp("Himuro","This...");
 MsgDisp("主人公","How is it?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -19,11 +19,11 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("K010600103_06_020");
-MsgDisp("Himuro","...... From the looks of it, I guess it
+MsgDisp("Himuro","... From the looks of it, I guess it
 really was for me.
-Ha...... thanks.");
+Ha... thanks.");
 MsgDisp("主人公","(I don't think he liked it that
-much......)");
+much...)");
 MsgClose();
 BGMStop();
 MsgClose();

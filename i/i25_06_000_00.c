@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250600000_06_000");
-    MsgDisp("Himuro","The reference book corner is......");
+    MsgDisp("Himuro","The reference book corner is...");
     MsgDisp("主人公","Hm, ｛氷室＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -63,7 +63,7 @@ are any people bothering you at work.");
     VoicePlay("I250600000_06_060");
     MsgDisp("Himuro","But I was worried for nothing.
 You seem to be doing well.");
-    MsgDisp("主人公","I'm doing my best, but......
+    MsgDisp("主人公","I'm doing my best, but...
 I still have a long way to go.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -111,7 +111,7 @@ Looking good.");
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("I250600000_06_120");
-    MsgDisp("Himuro","......By the way, how far are you planning
+    MsgDisp("Himuro","...By the way, how far are you planning
 to carry all those books?");
     MsgDisp("主人公","Ah, um, to the comic section.");
     ChEye(6,0);

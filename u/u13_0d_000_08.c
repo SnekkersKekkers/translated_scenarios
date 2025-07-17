@@ -1,5 +1,5 @@
 MsgDisp("主人公","Mm, who is kind of impossible for me to
-say......");
+say...");
 StlEye(22,0);
 StlMouth(22,2);
 StlCheek(22,0);
@@ -7,7 +7,7 @@ StlEye(21,1);
 StlMouth(21,0);
 VoicePlay("U130D00008_21_000");
 MsgDisp("Michiru","Is it a boy that we don't know?
-I'm super curious......");
+I'm super curious...");
 StlEyeOpenLevel(22,5,1);
 StlMouth(22,0);
 VoicePlay("U130D00008_22_000");
@@ -22,6 +22,6 @@ StlMouth(22,0);
 VoicePlay("U130D00008_22_010");
 MsgDisp("Hikaru","Hikaru is too♪");
 StlEye(22,0);
-MsgDisp("主人公","(I'm on my own path, huh......
+MsgDisp("主人公","(I'm on my own path, huh...
 Okay, I'll try my best!)");
 MsgClose();

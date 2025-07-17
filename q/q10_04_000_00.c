@@ -9,27 +9,27 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("Q100400000_04_000");
-MsgDisp("Nanatsumori","So this is the glasses bridge......");
+MsgDisp("Nanatsumori","So this is the glasses bridge...");
 MsgDisp("主人公","The round piers reflect on the water,
 making it look like a pair of glasses.");
 ChMotion(4,2,1);
 VoicePlay("Q100400000_04_010");
 MsgDisp("Nanatsumori","Now that I think about it, the Principal's
 glasses are round too.");
-MsgDisp("主人公","...... Ah, they are!");
+MsgDisp("主人公","... Ah, they are!");
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("Q100400000_04_020");
-MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","............");
+MsgDisp("Nanatsumori","......");
+MsgDisp("主人公","......");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q100400000_04_030");
-MsgDisp("Nanatsumori","......Pfft! I can't believe we're here and
+MsgDisp("Nanatsumori","...Pfft! I can't believe we're here and
 we're thinking about school. How serious
 can we be∋");
-MsgDisp("主人公","Ahaha! Ah...... But,
+MsgDisp("主人公","Ahaha! Ah... But,
 ｛七ツ森＊｝, you also
 wear glasses.");
 ChEye(4,0);
@@ -54,7 +54,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("Q100400000_04_060");
-MsgDisp("Nanatsumori","Souvenirs, huh......
+MsgDisp("Nanatsumori","Souvenirs, huh...
 I'll need quite a few.");
 MsgDisp("主人公","Oh, are they for the people related to
 your work?");
@@ -68,7 +68,7 @@ ChMotion(4,0,1);
 VoicePlay("Q100400000_04_080");
 MsgDisp("Nanatsumori","Dw. I've already checked most of the
 shops, all I have to do now is buy. More
-importantly......");
+importantly...");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("Q100400000_04_090");

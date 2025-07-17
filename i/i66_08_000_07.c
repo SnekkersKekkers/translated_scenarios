@@ -31,7 +31,7 @@ shift, y'know?");
     MsgDisp("Shirahane","Rumor has it that our stand has a cute
 attendant. Th' increase in customers has
 our manager happy, too.");
-    MsgDisp("主人公","That's......");
+    MsgDisp("主人公","That's...");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -56,7 +56,7 @@ We look forward to your next visit!");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,35,0,3,4,10,#1,0,0);
     VoicePlay("I660800007_08_040");
-    MsgDisp("Shirahane","So you've become our poster girl......");
+    MsgDisp("Shirahane","So you've become our poster girl...");
     MsgDisp("主人公","Ah, ｛大地＊＊｝.");
     ChEye(8,2);
     ChMouth(8,4);
@@ -73,18 +73,18 @@ What a perv.");
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800007_08_060");
     MsgDisp("Shirahane","The manager's happy that our customers and
-sales are up 'cuz of you, but......");
+sales are up 'cuz of you, but...");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,4,1);
     VoicePlay("I660800007_08_070");
-    MsgDisp("Shirahane","I'm feelin' a little complicated......");
+    MsgDisp("Shirahane","I'm feelin' a little complicated...");
     ChEye(8,1);
     ChMouth(8,1);
     ChMotion(8,1,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800007_08_080");
-    MsgDisp("Shirahane","...... Wait, as if I got the time to be
+    MsgDisp("Shirahane","... Wait, as if I got the time to be
 gettin' jealous of the customers!
 Get it together, me!");
     ChEye(8,2);
@@ -93,7 +93,7 @@ Get it together, me!");
     VoicePlay("I660800007_08_090");
     MsgDisp("Shirahane","I'm startin' to really enjoy working
 part-time here thanks t' ya.
-I got it......");
+I got it...");
     MsgDisp("主人公","(It's a little embarrassing, but I'm happy
 to see that my hard work is being
 recognized.)");

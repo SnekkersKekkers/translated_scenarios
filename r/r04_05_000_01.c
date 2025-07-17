@@ -44,7 +44,7 @@ You can just stay here, young lady.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("R040500001_05_040");
-    MsgDisp("Hiiragi",".........I see.");
+    MsgDisp("Hiiragi","......I see.");
     MsgDisp("主人公","Hm?");
     ChEye(5,0);
     ChMotion(5,4);

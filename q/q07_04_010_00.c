@@ -2,13 +2,13 @@ BGMPlay("BGM_PLACE_TRAVEL",0.01);
 BGOpen("sc820",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Amazing......
+MsgDisp("主人公","Amazing...
 Flowers and nice buildings spread out,
 it's like being in a foreign country!");
 VoicePlay("Q070401000_04_000");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 VoicePlay("Q070401000_04_010");
-MsgDisp("Nanatsumori","Y'know......");
+MsgDisp("Nanatsumori","Y'know...");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_04_14");
@@ -22,8 +22,8 @@ MsgDisp("主人公","Yeah, they're the best!");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("Q070401000_04_030");
-MsgDisp("Nanatsumori","I underestimated school events.
-Fr, it's OP.");
+MsgDisp("Nanatsumori","I underestimate school events in general.
+Fr, they're OP.");
 MsgDisp("主人公","Hehe!");
 StlEye(4,1,0);
 StlMouth(4,1);
@@ -41,21 +41,21 @@ ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070401000_04_050");
-MsgDisp("Nanatsumori","I really thought it would be boring and
-troublesome, the school trip.");
+MsgDisp("Nanatsumori","I really thought the school trip would be boring and
+annoying.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q070401000_04_060");
-MsgDisp("Nanatsumori","I mean, I'm a super indoor person. We're
+MsgDisp("Nanatsumori","I mean, I'm a super indoorsy person. We're
 going to unfamiliar places, and we're
-supposed to write stupid reports......");
+supposed to write these stupid reports...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q070401000_04_070");
-MsgDisp("Nanatsumori","I thought it was only a troublesome thing.
-Until a while ago.");
+MsgDisp("Nanatsumori","I thought it was a troublesome thing.
+Until recently.");
 MsgDisp("主人公","Is that so?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -81,7 +81,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,3,1);
 VoicePlay("Q070401000_04_110");
-MsgDisp("Nanatsumori","I......");
+MsgDisp("Nanatsumori","I...");
 MsgDisp("主人公","Yes.");
 MsgClose();
 ScrFadeOut(0);

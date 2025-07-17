@@ -10,7 +10,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("T020200020_02_000");
-MsgDisp("Sassa","Eh......");
+MsgDisp("Sassa","Eh...");
 MsgDisp("主人公","I was also happy to have the opportunity
 to help ｛颯砂＊＊｝ achieve his
 dream.");
@@ -27,21 +27,21 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200020_02_020");
-MsgDisp("Sassa","...... Yeah.
+MsgDisp("Sassa","... Yeah.
 I promise.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020200020_02_030");
 MsgDisp("Sassa","Maybe it was already decided from the
-first day I ran alongside you......");
+first day I ran alongside you...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200020_02_040");
 MsgDisp("Sassa","Let's keep running like this.
 The two of us together.");
-MsgDisp("主人公","Yes......!");
+MsgDisp("主人公","Yes...!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

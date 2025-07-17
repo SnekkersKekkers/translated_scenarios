@@ -4,10 +4,10 @@ MsgClose();
 ChOpen(8,35,4,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020800800_08_000");
-MsgDisp("Shirahane","............");
+MsgDisp("Shirahane","......");
 MsgDisp("主人公","(Huh?
 Is ｛大地＊＊｝ not feeling
-well today......)");
+well today...)");
 SEPlay("EV_SE_519");
 SEWait();
 VoicePlay("D020800800_36_000");
@@ -25,7 +25,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("D020800800_08_020");
-MsgDisp("Shirahane","Ah......
+MsgDisp("Shirahane","Ah...
 Yeah!
 Please.");
 MsgClose();
@@ -48,7 +48,7 @@ ChEye(8,2);
 ChMouth(8,3);
 ChMouthOpenLevel(8,0);
 VoicePlay("D020800800_08_040");
-MsgDisp("Shirahane","............");
+MsgDisp("Shirahane","......");
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800800_08_050");
@@ -60,14 +60,14 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("D020800800_08_060");
-MsgDisp("Shirahane","...... I......
-...... I have a goal.");
+MsgDisp("Shirahane","... I...
+... I have a goal.");
 MsgDisp("主人公","A goal?");
 VoicePlay("D020800800_08_070");
 MsgDisp("Shirahane","Yeah.
 But I have to be careful and consider both
 you and myself.");
 MsgDisp("主人公","(｛大地＊＊｝ isn't his usual self.
-I wonder what his goal is......?)");
+I wonder what his goal is...?)");
 MsgClose();
 ScrFadeOut(0);

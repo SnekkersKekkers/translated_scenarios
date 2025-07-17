@@ -22,7 +22,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("H280300000_03_020");
-MsgDisp("Honda","And...... so do you.");
+MsgDisp("Honda","And... so do you.");
 MsgDisp("主人公","Hm, me too?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -50,7 +50,7 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("H280300000_03_060");
 MsgDisp("Honda","Yeah, it would've been nice to be
-supported by that smile too......
+supported by that smile too...
 Just kidding.");
 ChEye(3,3);
 ChMouth(3,3);

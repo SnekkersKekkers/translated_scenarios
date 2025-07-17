@@ -22,7 +22,7 @@ Good morning!");
     VoicePlay("Q020200000_02_010");
     MsgDisp("Sassa","What's your plan for today?
 Let's spend the free period together.");
-    MsgSel("Sure, let's go!","Sorry, it's just......");
+    MsgSel("Sure, let's go!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);
@@ -42,7 +42,7 @@ Nagasaki.");
 This is my first time, and I even get to
 be with you!");
         MsgDisp("主人公","(Spending my free period with
-｛颯砂＊＊｝......
+｛颯砂＊＊｝...
 This will surely be a fun day!)");
         break ;
         case 1:
@@ -50,9 +50,9 @@ This will surely be a fun day!)");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("Q020200000_02_040");
-        MsgDisp("Sassa","I see......
-Well, I guess I'll ask someone else......");
-        MsgDisp("主人公","(He even invited me, I feel bad......)");
+        MsgDisp("Sassa","I see...
+Well, I guess I'll ask someone else...");
+        MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :
         DbgAssert(0);
@@ -78,7 +78,7 @@ What's up?");
     MsgDisp("Sassa","What do you mean 'what's up'?
 Of course this is about the free period.
 Let's go together.");
-    MsgSel("Sure, let's go together!","Sorry, it's......");
+    MsgSel("Sure, let's go together!","Sorry, it's...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);
@@ -111,12 +111,12 @@ I'll ask someone else.");
         VoicePlay("Q020200000_02_100");
         MsgDisp("Sassa","Don't apologize, I hope you can enjoy it
 too.
-...... See ya.");
+... See ya.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(He even invited me, I feel bad......)");
+        MsgDisp("主人公","(Even though he invited me...I feel bad.)");
         break ;
         default :
         DbgAssert(0);

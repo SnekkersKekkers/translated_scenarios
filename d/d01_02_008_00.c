@@ -1,6 +1,6 @@
 BGOpen("sc500",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Oh yeah. It's been a while since
+MsgDisp("主人公","(...Oh yeah. It's been a while since
 I've visited the Track and Field club.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -12,8 +12,8 @@ VoicePlay("D010200800_33_000");
 MsgDisp("Member","Last lap～!");
 VoicePlay("D010200800_38_000");
 MsgDisp("Members","Yeah!");
-MsgDisp("主人公","(Everyone's working hard......Huh? Over
-there, is that ｛颯砂＊＊｝......? )");
+MsgDisp("主人公","(Everyone's working hard...Huh? Over
+there, is that ｛颯砂＊＊｝...? )");
 SEPlay("EV_SE_626");
 MsgClose();
 ScrFadeOut(0);
@@ -28,14 +28,14 @@ MsgDisp("主人公","｛颯砂＊＊｝, what's up?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_000");
-MsgDisp("Sassa","Ah......
+MsgDisp("Sassa","Ah...
 I was just thinking about you.");
 MsgDisp("主人公","Huh?");
 StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("D010200800_02_010");
-MsgDisp("Sassa","......I was able to end my high school
+MsgDisp("Sassa","...I was able to end my high school
 sport's career in success.");
 StlEye(2,1);
 StlMouth(2,0);
@@ -53,7 +53,7 @@ StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_040");
 MsgDisp("Sassa","Working hard is easy for me.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_050");
@@ -64,7 +64,7 @@ StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200800_02_060");
 MsgDisp("Sassa","But you know, that's unfair, isn't it?");
-MsgDisp("主人公","Why......?");
+MsgDisp("主人公","Why...?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200800_02_070");
@@ -74,7 +74,7 @@ StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("D010200800_02_080");
-MsgDisp("Sassa","...... And you?
+MsgDisp("Sassa","... And you?
 What about you, you made this happen for
 me, so what about you?");
 BGMVol(0.5,2);
@@ -103,7 +103,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,0);
 VoicePlay("D010200800_02_110");
-MsgDisp("Sassa","I didn't realize until I retired......
+MsgDisp("Sassa","I didn't realize until I retired...
 You have goals and dreams too.");
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","It's thanks to ｛颯砂＊＊｝ that
@@ -113,12 +113,12 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D010200800_02_120");
-MsgDisp("Sassa","You......");
+MsgDisp("Sassa","You...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D010200800_02_130");
-MsgDisp("Sassa","Do you really think that......");
+MsgDisp("Sassa","Do you really think that...");
 MsgDisp("主人公","Of course I do.");
 ChEye(2,2);
 ChMouth(2,0);
@@ -132,7 +132,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 ChEyeOpenLevel(2,0);
 VoicePlay("D010200800_02_150");
-MsgDisp("Sassa","Ugh......
+MsgDisp("Sassa","Ugh...
 My head's a mess.
 I'm going to run until my legs fall off!");
 ChEyeOpenLevel(2,10);
@@ -148,9 +148,9 @@ VoicePlay("D010200800_33_020");
 MsgDisp("Member","Sassa-senpai, it's no problem!");
 VoicePlay("D010200800_44_000");
 MsgDisp("Member","Senpai, please take a look at our form.");
-MsgDisp("主人公","(｛颯砂＊＊｝......
+MsgDisp("主人公","(｛颯砂＊＊｝...
 He worked hard carrying everyone's hopes
-and dreams......)");
+and dreams...)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(2,0);

@@ -6,9 +6,9 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("S110300001_03_000");
-MsgDisp("Honda","Very Bad Luck......");
+MsgDisp("Honda","Very Bad Luck...");
 MsgDisp("主人公","Eehh∋
-...... Will you be okay?");
+... Will you be okay?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -26,6 +26,6 @@ more cautious to avoid small disasters.
 So keep it in mind and keep safe.");
 MsgDisp("主人公","(｛本多＊＊｝'s mother sounds amazing.
 She even turns Bad Luck into a positive
-thing......)");
+thing...)");
 ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

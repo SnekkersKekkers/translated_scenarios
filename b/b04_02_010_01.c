@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040201001_02_000");
 MsgDisp("Sassa","This dress is nice.
 It suits you a bit.");
-MsgSel("You're right! I think I should buy it!","I guess so......","It doesn't suit me!");
+MsgSel("You're right! I think I should buy it!","I guess so...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -27,7 +27,7 @@ you even wear this?");
     ChEyeOpenLevel(2,9);
     VoicePlay("B040201001_02_020");
     MsgDisp("Sassa","Yeah, it suits you.
-...... Wait, are you seriously thinking
+... Wait, are you seriously thinking
 about it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

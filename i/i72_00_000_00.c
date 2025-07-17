@@ -4,7 +4,7 @@ SEWait();
 VoicePlay("I720000000_36_000");
 MsgDisp("President","Yes, this is Gradius Debugging.");
 MsgDisp("主人公","I'm calling about your help wanted ad for
-the part-time job opening......");
+the part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛颯砂＊＊｝, I guess......");
+MsgDisp("主人公","｛颯砂＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -23,7 +23,7 @@ While he's seems to be interested in romance...");
     MsgDisp("Hikaru","It seems like he's more in love with track
 and field.
 Mari, you need to be more aggressive!");
-    MsgDisp("主人公","(He loves track and field......
+    MsgDisp("主人公","(He loves track and field...
 Maybe I should take note of that.)");
     break ;
     case 3:
@@ -64,7 +64,7 @@ I think I'm happy...)");
     StlCheek(22,7);
     VoicePlay("U130D00001_22_030");
     MsgDisp("Hikaru","So Sassa-kun is Mari's prisoner♪");
-    MsgDisp("主人公","Eh......");
+    MsgDisp("主人公","Eh...");
     StlEye(22,0);
     StlCheek(22,5);
     StlEyeOpenLevel(21,5,1);
@@ -89,10 +89,10 @@ about how he should treat and cherish Mari");
     StlEyeOpenLevel(22,0,1);
     StlMouth(22,2);
     VoicePlay("U130D00001_22_050");
-    MsgDisp("Hikaru","Geez......
+    MsgDisp("Hikaru","Geez...
 He acts like a dad!");
     StlEyeOpenLevel(22,5,1);
-    MsgDisp("主人公","(Like a dad, huh......
+    MsgDisp("主人公","(Like a dad, huh...
 It's true, when I'm with
 ｛颯砂＊＊｝ I feel at ease.)");
     break ;

@@ -2,9 +2,9 @@ BGOpen("sc812",0);
 ChLayout(1);
 SEPlay("EV_SE_867",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Hmm?
-The boy's room looks really lively......)");
+The boy's room looks really lively...)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(22,30,0,0,3,#1,#1,0,0);
@@ -19,7 +19,7 @@ ChMotion(22,4,1);
 VoicePlay("Q212200000_22_010");
 MsgDisp("Hikaru","Aha▼ It looks like the pillow fight is
 about to start. Wanna go?");
-MsgSel("Yeah, let's go!","I think we shouldn't......");
+MsgSel("Yeah, let's go!","I think we shouldn't...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);
@@ -35,11 +35,11 @@ Let's go get fired up!");
     ChMotion(22,0,1);
     VoicePlay("Q212200000_22_030");
     MsgDisp("Hikaru","Ehh, you're not going?
-Boooriiing......");
+Boooriiing...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(22);
-    MsgDisp("主人公","(I'll should go back to my room too......)");
+    MsgDisp("主人公","(I'll should go back to my room too...)");
     break ;
     default :
     DbgAssert(0);

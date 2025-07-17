@@ -11,7 +11,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("P040200001_02_010");
-MsgDisp("Sassa","Um......
+MsgDisp("Sassa","Um...
 Have you tried the dango?");
 MsgDisp("主人公","No, not yet today.");
 ChEye(2,0);
@@ -42,6 +42,6 @@ MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Haa, I messed up.
 I wanted to give ｛颯砂＊＊｝
-delicious dango to eat......)");
+delicious dango to eat...)");
 MsgClose();
 ScrFadeOut(0,0);

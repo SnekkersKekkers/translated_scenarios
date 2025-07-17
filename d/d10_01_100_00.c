@@ -38,7 +38,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D100110000_01_040");
-MsgDisp("Kazama","...... That's it.
+MsgDisp("Kazama","... That's it.
 That's a good interpretation.
 Thanks.");
 MsgClose();
@@ -47,6 +47,6 @@ BGMStop();
 ChClose(1);
 MsgDisp("主人公","(｛風真＊＊｝ has such interesting dreams.
 Huh, that garden sounds familiar
-somehow......)");
+somehow...)");
 MsgClose();
 ScrFadeOut(0,0);

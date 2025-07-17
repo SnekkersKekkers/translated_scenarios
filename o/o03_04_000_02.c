@@ -12,10 +12,10 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_000");
-    MsgDisp("Nanatsumori","Last......
+    MsgDisp("Nanatsumori","Last...
 God.");
-    MsgDisp("主人公","(Last, huh......
-We weren't in sync at all......)");
+    MsgDisp("主人公","(Last, huh...
+We weren't in sync at all...)");
     break ;
     case 3:
     MsgClose();
@@ -24,8 +24,8 @@ We weren't in sync at all......)");
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_010");
-    MsgDisp("Nanatsumori","Last is pretty embarrassing......");
-    MsgDisp("主人公","I don't think we were in sync at all......");
+    MsgDisp("Nanatsumori","Last is pretty embarrassing...");
+    MsgDisp("主人公","I don't think we were in sync at all...");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("O030400002_04_020");
@@ -34,7 +34,7 @@ In the first place, I'm no good at
 exercise anyways.");
     MsgDisp("主人公","(Hm, if we were a little more in sync,
 maybe we would have gotten a better
-rank......)");
+rank...)");
     break ;
     case 4:
     case 5:
@@ -45,7 +45,7 @@ rank......)");
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_030");
     MsgDisp("Nanatsumori","It's all my fault.");
-    MsgDisp("主人公","｛七ツ森＊｝, even I......");
+    MsgDisp("主人公","｛七ツ森＊｝, even I...");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("O030400002_04_040");
@@ -61,9 +61,9 @@ rank......)");
     VoicePlay("O030400002_04_060");
     MsgDisp("Nanatsumori","So, if we get to work together again,
 let's both try harder.");
-    MsgDisp("主人公","(｛七ツ森＊｝ looks serious......
+    MsgDisp("主人公","(｛七ツ森＊｝ looks serious...
 But, getting last is still
-frustrating......)");
+frustrating...)");
     break ;
     default :
     DbgAssert(1);

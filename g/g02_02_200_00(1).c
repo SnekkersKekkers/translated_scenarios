@@ -10,7 +10,7 @@ ChMotion(2,0);
 VoicePlay("G020220000_02_010");
 MsgDisp("Sassa","You know, I understand that I'm not the
 one who's closest to you.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -22,7 +22,7 @@ ChMotion(2,4);
 VoicePlay("G020220000_02_030");
 MsgDisp("Sassa","But, you coming here today, does that mean
 there's a chance for me too?");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -61,9 +61,9 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220000_02_090");
 MsgDisp("Sassa","Finding that right amount is tricky
-though......");
+though...");
 MsgDisp("主人公","(｛颯砂＊＊｝ today seems a bit different
-than normal......?)");
+than normal...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

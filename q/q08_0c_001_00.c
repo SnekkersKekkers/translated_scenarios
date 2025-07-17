@@ -4,7 +4,7 @@ ChLayout(1);
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Hah, that was fun......
+MsgDisp("主人公","Hah, that was fun...
 Thank you for today!");
 ChEye(5,4);
 ChMouth(5,4);
@@ -13,7 +13,7 @@ VoicePlay("Q080C00100_05_000");
 MsgDisp("Hiiragi","Yeah, me too. It's such fun, school trips.
 It's a shame couldn't go in primary and
 junior high school.");
-MsgDisp("主人公","Oh yeah......
+MsgDisp("主人公","Oh yeah...
 It's ｛柊＊＊＊｝'s first school
 trip.");
 ChEye(7,0);

@@ -30,7 +30,7 @@ field club manager!)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0600000_06_020");
-    MsgDisp("Himuro","Amazing......");
+    MsgDisp("Himuro","Amazing...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -50,13 +50,13 @@ Hehe, awesome, right?");
     VoicePlay("H2A0600000_06_050");
     MsgDisp("Himuro","But well, I guess without your support,
 this result wouldn't have happened.");
-    MsgDisp("主人公","I hope so......");
+    MsgDisp("主人公","I hope so...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("H2A0600000_06_060");
-    MsgDisp("Himuro","...... It kinda feels like you've gotten
+    MsgDisp("Himuro","... It kinda feels like you've gotten
 further away.
 It's a little frustrating.");
     MsgDisp("主人公","Hm?");
@@ -64,10 +64,10 @@ It's a little frustrating.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600000_06_070");
-    MsgDisp("Himuro","Nah......
+    MsgDisp("Himuro","Nah...
 Good work these past three years.");
     MsgDisp("主人公","(I'm glad that I stayed as the track and
-field club manager......!)");
+field club manager...!)");
     break ;
     default :
     DbgAssert(1);

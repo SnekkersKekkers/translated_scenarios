@@ -10,7 +10,7 @@ SEPlay("EV_SE_DOOR_022");
 Wait(20,1);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","......Oh? ｛みちる＊｝,
+MsgDisp("主人公","...Oh? ｛みちる＊｝,
 ｛ひかる＊｝! What is
 it?");
 ChEye(21,0);

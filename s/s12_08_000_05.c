@@ -40,7 +40,7 @@ So let's live without any regrets!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
     MsgDisp("主人公","(As ｛大地＊＊｝ says, I need
-to live without any regrets......!)");
+to live without any regrets...!)");
     break ;
     case 4:
     case 5:
@@ -63,7 +63,7 @@ Thanks for coming with me,
     VoicePlay("S120800005_08_050");
     MsgDisp("Shirahane","No problem.
 You're my heroine, after all.");
-    MsgDisp("主人公","......Eh?");
+    MsgDisp("主人公","...Eh?");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,0,1);
@@ -80,7 +80,7 @@ Let's do our best on exams!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(Exams, huh......
+    MsgDisp("主人公","(Exams, huh...
 There are two months left, let's try our
 best!)");
     break ;

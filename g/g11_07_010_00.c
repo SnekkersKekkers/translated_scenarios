@@ -2,7 +2,7 @@ BGOpen("sc210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(To think that I could win the top prize
 at a competition as the representative of
-the gardening club...... This must be
+the gardening club... This must be
 thanks to ｛御影＊＊｝
 too, right?)");
 MsgClose();
@@ -23,7 +23,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110701000_07_010");
-MsgDisp("Mikage","Haa......talking like this reminds me of
+MsgDisp("Mikage","Haa...talking like this reminds me of
 when you first joined the club.");
 ChEye(7,0);
 ChMouth(7,0);

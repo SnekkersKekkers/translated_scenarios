@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
 I heard the baseball team won the game?
 Congratulations!");
     MsgDisp("主人公","｛本多＊＊｝, thank you.");
-    MsgDisp("主人公","(Yeah, I'm glad I did my best ......!)");
+    MsgDisp("主人公","(Yeah, I'm glad I did my best ...!)");
     break ;
     case 4:
     case 5:

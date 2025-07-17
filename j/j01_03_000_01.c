@@ -16,7 +16,7 @@ VoicePlay("J010300001_03_020");
 MsgDisp("Honda","I'll call you back later, so please leave
 your message!");
 MsgDisp("主人公","Huh, voicemail.
-Hmm, what should I do?......");
+Hmm, what should I do?...");
 switch (MsgSelRsltGet()){
     case 0:
     case 1:

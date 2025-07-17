@@ -27,7 +27,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q020A00100_02_010");
 MsgDisp("Sassa","Wanna walk around together?");
-MsgSel("Yeah, sure!","Sorry, I......");
+MsgSel("Yeah, sure!","Sorry, I...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(1,3);
@@ -109,8 +109,8 @@ let's go.");
     SEPlay("EV_SE_856");
     ChClose(2,0,30);
     ChClose(1,0,30);
-    MsgDisp("主人公","(They even invited me, now I feel a bit
-bad......)");
+    MsgDisp("主人公","(Even though they invited me, I feel kind of
+bad...)");
     MsgClose();
     ScrFadeOut(0);
     break ;

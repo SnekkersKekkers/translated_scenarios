@@ -27,7 +27,7 @@ Thanks!");
     ChMotion(1,0);
     ChCheek(1,5);
     VoicePlay("O030100000_01_020");
-    MsgDisp("Kazama","I, I see......
+    MsgDisp("Kazama","I, I see...
 Isn't that great?");
     ChEye(1,0);
     ChMouth(1,3);

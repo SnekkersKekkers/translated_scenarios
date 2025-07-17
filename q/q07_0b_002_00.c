@@ -31,28 +31,27 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070B00200_03_000");
-MsgDisp("Honda","Mhmhm! This one here is the oldest wooden
+MsgDisp("Honda","Yepyep! This one here is the oldest wooden
 european building in Japan. It's so well
 kept!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q070B00200_01_020");
-MsgDisp("Kazama","...... Yeah, that.
+MsgDisp("Kazama","... Yeah, that.
 And also——");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(4,1,1);
 VoicePlay("Q070B00200_04_000");
-MsgDisp("Nanatsumori","Mr.
-Glover's wife was Japanese. ...... is what
+MsgDisp("Nanatsumori","Glover's wife was Japanese. ... is what
 the pamphlet says.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q070B00200_01_030");
-MsgDisp("Kazama","...... so that's that.
+MsgDisp("Kazama","... That's it.
 Did you get it?");
 MsgDisp("主人公","Hehe!
 Thanks.");

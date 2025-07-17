@@ -13,7 +13,7 @@ ChEye(8,3);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
 VoicePlay("L060800001_08_010");
-MsgDisp("Shirahane","......C'mere with me.");
+MsgDisp("Shirahane","...C'mere with me.");
 MsgDisp("主人公","?");
 MsgClose();
 ScrFadeOut(0);
@@ -45,7 +45,7 @@ MsgDisp("Shirahane","Heheh.
 Here it is.
 I hope you end up likin' it.");
 MsgDisp("主人公","Huh, a present?
-Thanks......!");
+Thanks...!");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,0,1);

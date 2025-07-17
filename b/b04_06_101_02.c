@@ -99,7 +99,7 @@ class.");
         VoicePlay("B040610102_06_100");
         MsgDisp("Himuro","No matter what, I can't get over this wall
 of one year.");
-        MsgDisp("主人公","｛氷室＊＊｝......");
+        MsgDisp("主人公","｛氷室＊＊｝...");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,4);

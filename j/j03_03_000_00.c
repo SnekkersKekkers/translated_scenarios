@@ -50,7 +50,7 @@ you at the
     MsgDisp("Honda","Ah, wait!!");
     MsgDisp("主人公","Is something wrong?");
     VoicePlay("J030300000_03_070");
-    MsgDisp("Honda","No......
+    MsgDisp("Honda","No...
 I just thought since you called, it'd be
 too bad to hang up just now.");
     VoicePlay("J030300000_03_080");

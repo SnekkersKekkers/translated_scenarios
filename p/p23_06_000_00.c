@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(It's starting already...... turns out I
+    MsgDisp("主人公","(It's starting already... turns out I
 really am anxious.)");
     VoicePlay("P230600000_06_000");
     MsgDisp("Himuro?","Relax.");

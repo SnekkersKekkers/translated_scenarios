@@ -1,7 +1,7 @@
 BGOpen("sc810",0);
 ChLayout(1);
 MsgDisp("主人公","(｛みちる＊｝ and
-｛ひかる＊｝ are......
+｛ひかる＊｝ are...
 Ah, there!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

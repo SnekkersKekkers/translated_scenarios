@@ -25,7 +25,7 @@ ChMouth(2,2);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220201_02_030");
-MsgDisp("Sassa","Hmm......
+MsgDisp("Sassa","Hmm...
 You're saying this like it's someone
 else's business.");
 MsgDisp("主人公","Eh?");
@@ -38,24 +38,24 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020220201_02_050");
-MsgDisp("Sassa","Haa......
+MsgDisp("Sassa","Haa...
 I thought I was the closest to you, but
 Inori slipped past me.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220201_02_060");
-MsgDisp("Sassa","You don't even realize......
+MsgDisp("Sassa","You don't even realize...
 Inori is really something.");
 ChEye(2,5);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020220201_02_070");
-MsgDisp("Sassa","......Do I even stand a chance?");
+MsgDisp("Sassa","...Do I even stand a chance?");
 MsgDisp("主人公","(｛颯砂＊＊｝ seems to be worried about me
-and ｛氷室＊＊｝......)");
+and ｛氷室＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

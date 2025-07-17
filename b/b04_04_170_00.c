@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040417000_04_010");
-    MsgDisp("Nanatsumori","ＯＫ.
+    MsgDisp("Nanatsumori","OK.
 Feel free to put in any requests.
 I think mostly anything goes.");
     MsgDispSksp(1,0);

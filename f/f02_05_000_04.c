@@ -19,7 +19,7 @@ VoicePlay("F020500004_05_010");
 MsgDisp("Hiiragi","Yes, even so. I receive a lot of gifts
 around my birthday. For that, I'm very
 grateful.");
-MsgDisp("主人公","I see......
+MsgDisp("主人公","I see...
 I bet you get a lot of expensive gifts.");
 ChEye(5,4);
 ChMotion(5,0);
@@ -27,7 +27,7 @@ VoicePlay("F020500004_05_020");
 MsgDisp("Hiiragi","Yes, well, I often end up taking gifts
 that are more than I deserve.");
 MsgDisp("主人公","So even if I gave you a gift, it'd look
-worthless in comparison......");
+worthless in comparison...");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,5);
@@ -39,6 +39,6 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("F020500004_05_040");
 MsgDisp("Hiiragi","Although, that would be rude to my
-patrons...... How can I say this without
+patrons... How can I say this without
 any misunderstandings?");
-MsgDisp("主人公","(He really is popular......)");
+MsgDisp("主人公","(He really is popular...)");

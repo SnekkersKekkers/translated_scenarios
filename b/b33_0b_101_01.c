@@ -59,7 +59,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B330B10101_01_020");
-MsgDisp("Kazama","...... Ah, I'm thirsty.
+MsgDisp("Kazama","... Ah, I'm thirsty.
 Let's go somewhere.");
 ChEye(1,0);
 ChMouth(1,2);

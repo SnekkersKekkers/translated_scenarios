@@ -2,14 +2,14 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030101000_44_000");
     MsgDisp("School Girl A","Kazama-kun, where are you?");
     VoicePlay("O030101000_45_000");
     MsgDisp("School Girl B","He's probably been taken by someone else
 already.
 Let's give up, okay?");
-    MsgDisp("主人公","(Taken......?
+    MsgDisp("主人公","(Taken...?
 ｛風真＊＊｝ sure is popular.)");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -24,7 +24,7 @@ Hurry, let's tie our legs together.");
     ChMotion(1,0);
     VoicePlay("O030101000_01_010");
     MsgDisp("Kazama","What?");
-    MsgDisp("主人公","Um......
+    MsgDisp("主人公","Um...
 Isn't it too early to tie our legs?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -36,9 +36,9 @@ Anyways, let's win this.");
 Let's do our best!");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030101000_44_010");
-    MsgDisp("School Girl A","Kazama-kun was walking around here......");
+    MsgDisp("School Girl A","Kazama-kun was walking around here...");
     VoicePlay("O030101000_45_010");
     MsgDisp("School Girl B","Yeah, let's look around some more.");
     MsgDisp("主人公","(Looks like everyone wants to be in the
@@ -83,7 +83,7 @@ partners that way, right?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030101000_44_020");
     MsgDisp("School Girl A","Ah, Kazama-kun.
 Do you want to do the three-legged race
@@ -102,7 +102,7 @@ Too bad.");
     MsgDisp("Kazama","｛主人公｝.
 Do you prefer the left or right?");
     MsgDisp("主人公","Hm, ｛風真＊＊｝?
-Um...... what do you mean?");
+Um... what do you mean?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -111,7 +111,7 @@ Um...... what do you mean?");
 The three-legged race.
 About which leg to start with.");
     MsgDisp("主人公","But, ｛風真＊＊｝, you already
-have a partner......");
+have a partner...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -119,7 +119,7 @@ have a partner......");
     VoicePlay("O030101000_01_100");
     MsgDisp("Kazama","Yeah, I do.
 I've had you for the past 10 years.");
-    MsgDisp("主人公","Ah...... hehe, I see.
+    MsgDisp("主人公","Ah... hehe, I see.
 Looking forward to it!");
     ChEyeOpenLevel(1,0);
     Wait(8,0);

@@ -9,7 +9,7 @@ VoicePlay("J010400001_04_000");
 MsgDisp("Nanatsumori","Can't take your call right now.
 Leave your message if it's important.");
 MsgDisp("主人公","I only got his voicemail.
-What should I do?......");
+What should I do?...");
     MsgSel("Leave a message","Hang up the phone");
 switch (MsgSelRsltGet()){
     case 0:

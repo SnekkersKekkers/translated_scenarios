@@ -6,9 +6,9 @@ ChEyeOpenLevel(3,0);
 ChEyeOpenLevel(3,10);
 ChCheek(3,5);
 VoicePlay("T020301000_03_140");
-MsgDisp("Honda","...... Haa, ......
+MsgDisp("Honda","... Haa, ...
 I'm happy.
-I wonder what this feeling is......");
+I wonder what this feeling is...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -34,7 +34,7 @@ StlOpen("ev_03_17");
 ScrFadeIn(0);
 VoicePlay("T020301000_03_170");
 MsgDisp("Honda","So, you can teach me too.");
-MsgDisp("主人公","Yes......");
+MsgDisp("主人公","Yes...");
 VoicePlay("T020301000_03_180");
 MsgDisp("Honda","Let's experience lots of things together.");
 MsgClear();

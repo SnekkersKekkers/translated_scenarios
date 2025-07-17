@@ -63,7 +63,7 @@ If you were in a race, I might have lost
 my voice.");
     MsgDisp("主人公","(｛颯砂＊＊｝ is happy like he just won
 himself.
-I'm so happy......)");
+I'm so happy...)");
     break ;
     default :
     DbgAssert(1);

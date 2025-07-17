@@ -33,7 +33,7 @@ ChMotion(2,0);
 VoicePlay("E010720200_02_010");
 MsgDisp("Sassa","Similar hobbies?
 Come to think of it, we were at the pet
-store together the other day......");
+store together the other day...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -52,7 +52,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("E010720200_07_020");
 MsgDisp("Mikage","Thats right. We both like animals and the
-outdoors...... We have quite a lot in
+outdoors... We have quite a lot in
 common.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -65,13 +65,13 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("E010720200_07_030");
-MsgDisp("Mikage","......Hmm I think Sassa and I have other
-similarities too......");
+MsgDisp("Mikage","...Hmm I think Sassa and I have other
+similarities too...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("E010720200_02_040");
-MsgDisp("Sassa","Eh, you mean like......
+MsgDisp("Sassa","Eh, you mean like...
 Tall and curly hair?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -94,7 +94,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,8);
 VoicePlay("E010720200_02_050");
 MsgDisp("Sassa","I think there's another thing in
-common......");
+common...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
@@ -113,6 +113,6 @@ MsgDisp("Mikage","Oh right.
 I completely forgot.");
 MsgDisp("主人公","(They both forgot he's the Track and Field
 advisor? Maybe that's another similarity
-of theirs......)");
+of theirs...)");
 MsgClose();
 ScrFadeOut(0,0);

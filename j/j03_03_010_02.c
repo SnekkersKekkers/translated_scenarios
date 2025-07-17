@@ -17,13 +17,13 @@ VoicePlay("J030301002_03_020");
 MsgDisp("Honda","Yeah, that's right.
 I always work Wednesdays and Fridays.");
 MsgDisp("主人公","Oh, I see.
-Well, I don't blame you then......");
+Well, I don't blame you then...");
 VoicePlay("J030301002_03_030");
 MsgDisp("Honda","I agree - and that's too bad!
 Can you invite me again next time?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(He works part-time on Wednesdays and
-Fridays......
+Fridays...
 I'll be careful when I ask him out.)");
 MsgClose();

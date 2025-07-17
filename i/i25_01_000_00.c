@@ -39,7 +39,7 @@ Do you have any magazines on fly fishing?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I250100000_01_030");
-    MsgDisp("Kazama","......You don't have what I was looking
+    MsgDisp("Kazama","...You don't have what I was looking
 for. But, you did your job properly.
 Thanks.");
     MsgDisp("主人公","Hehe, you're welcome.");
@@ -81,7 +81,7 @@ Then, I'll show you there.");
 　　　　　　　　　　 ・");
     MsgClose();
     ChOpen(1,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Sorry......
+    MsgDisp("主人公","Sorry...
 It seems that they're sold out.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -110,8 +110,8 @@ is going to come check on me again.)");
     case 4:
     case 5:
     MsgDisp("主人公","I have to stock today's magazines.
-Everything in this box, huh......
-There...... ugh, heavy.");
+Everything in this box, huh...
+There... ugh, heavy.");
     VoicePlay("I250100000_01_100");
     MsgDisp("Kazama?","Are you okay?");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.");
@@ -137,7 +137,7 @@ It's for the hobby magazine corner.");
     VoicePlay("I250100000_01_120");
     MsgDisp("Kazama","Is here okay?");
     MsgDisp("主人公","Yeah.
-Haa...... thanks, ｛風真＊＊｝.
+Haa... thanks, ｛風真＊＊｝.
 You saved me.");
     ChEye(1,4);
     ChMouth(1,3);

@@ -17,7 +17,7 @@ ChMotion(7,3);
 VoicePlay("G020720200_07_020");
 MsgDisp("Mikage","His expression is completely different.
 It looks like he's merely having fun now.");
-MsgDisp("主人公","I didn't do anything......");
+MsgDisp("主人公","I didn't do anything...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -34,8 +34,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020720200_07_050");
-MsgDisp("Mikage","......Oh, uh, take good care of
-Yanosuke......");
+MsgDisp("Mikage","...Oh, uh, take good care of
+Yanosuke...");
 MsgDisp("主人公","(I'm happy ｛御影＊＊｝
 thinks of me that way.)");
 BGMStop();

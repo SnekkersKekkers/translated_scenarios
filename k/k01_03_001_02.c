@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("K010300102_03_000");
 MsgDisp("Honda","Ah!
 I see.");
-MsgDisp("主人公","How is it......?");
+MsgDisp("主人公","How is it...?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);

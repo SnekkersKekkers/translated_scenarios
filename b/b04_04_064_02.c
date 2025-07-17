@@ -32,7 +32,7 @@ ChMotion(4,2,1);
 VoicePlay("B040406402_04_040");
 MsgDisp("Nanatsumori","Or, if you ran into another guy from our
 school...");
-MsgDisp("主人公","｛七ツ森＊｝......");
+MsgDisp("主人公","｛七ツ森＊｝...");
 MsgDisp("主人公","Are you jealous?");
 ChEye(4,5);
 ChMouth(4,5);
@@ -98,7 +98,7 @@ ChMotion(4,0,1);
 VoicePlay("B040406402_04_120");
 MsgDisp("Nanatsumori","... Yeah, I'll take it off.
 I wonder if this is how Fathers with
-daughters feelー......");
+daughters feelー...");
 MsgDisp("主人公","Ah, you're treating me like a child!");
 ChEye(4,4);
 ChMouth(4,3);

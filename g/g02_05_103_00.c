@@ -5,7 +5,7 @@ ChMotion(5,4);
 VoicePlay("G020510300_05_000");
 MsgDisp("Hiiragi","Huh?
 Are they gathering around us?");
-MsgDisp("主人公","They really are......
+MsgDisp("主人公","They really are...
 I wonder why?");
 ChEye(5,0);
 ChMouth(5,4);

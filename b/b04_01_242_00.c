@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040124200_01_010");
-    MsgDisp("Kazama","ＯＫ! Then first is fire. I'd like to say
+    MsgDisp("Kazama","OK! Then first is fire. I'd like to say
 let's start a fire, but let's count on
 modern conveniences here.");
     MsgDispSksp(1,0);

@@ -14,13 +14,13 @@ switch (ChPrmGet(6,6)){
     VoicePlay("L040600004_06_010");
     MsgDisp("Himuro","This is handmade, right? And pretty
 elaborate. I can't believe you're just
-giving these away...... huh.");
+giving these away... huh.");
     MsgDisp("主人公","I'm not just giving them out.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,5);
     VoicePlay("L040600004_06_020");
-    MsgDisp("Himuro","......It's only for me?");
+    MsgDisp("Himuro","...It's only for me?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -49,7 +49,7 @@ Actually making these by hand.");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("L040600004_06_050");
-    MsgDisp("Himuro","...... Ah, is that so.
+    MsgDisp("Himuro","... Ah, is that so.
 Well, the return gift has to be just as
 good, I guess.");
     MsgDisp("主人公","It wasn't just for a good return, though.");
@@ -59,7 +59,7 @@ good, I guess.");
     VoicePlay("L040600004_06_060");
     MsgDisp("Himuro","I know.
 I'm just saying I want to give you one.
-...... Anyways, thanks.");
+... Anyways, thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -75,7 +75,7 @@ He seemed happy!)");
     ChMouth(6,4);
     ChMotion(6,0,1);
     VoicePlay("L040600004_06_070");
-    MsgDisp("Himuro","Looks good......");
+    MsgDisp("Himuro","Looks good...");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

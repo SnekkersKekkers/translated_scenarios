@@ -8,7 +8,7 @@ VoicePlay("P210000000_45_010");
 MsgDisp("Chairperson","Let's work hard together for the cultural
 festival in two weeks!");
 SEPlay("EV_SE_CLAP_004");
-MsgDisp("主人公","(School play huh......
+MsgDisp("主人公","(School play huh...
 Alright, let's get fired up!)");
 SEStop("EV_SE_CLAP_004",1);
 MsgClose();

@@ -33,7 +33,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020720000_07_040");
 MsgDisp("Mikage","I don't know why they came to me, though?");
-MsgDisp("主人公","Gotten really close......");
+MsgDisp("主人公","Gotten really close...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -48,7 +48,7 @@ VoicePlay("G020720000_07_060");
 MsgDisp("Mikage","So, who is it?");
 MsgDisp("主人公","Ehhh∋
 Huh?
-I have close friends, but......");
+I have close friends, but...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -63,7 +63,7 @@ VoicePlay("G020720000_07_080");
 MsgDisp("Mikage","Alright, that's good news for those guys.
 They'll be happy～?");
 MsgDisp("主人公","(｛御影＊＊｝ also seems happy
-though......)");
+though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

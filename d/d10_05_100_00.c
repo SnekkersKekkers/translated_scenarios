@@ -33,7 +33,7 @@ ChMotion(5,0);
 ChCheek(5,5);
 VoicePlay("D100510000_05_040");
 MsgDisp("Hiiragi","Sitting on the bench means I am there, at
-your side......That's enough to make me
+your side...That's enough to make me
 happy. Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -41,6 +41,6 @@ BGMStop();
 ChClose(5);
 MsgDisp("主人公","(It makes me happy too. Come to think of
 it, I've been spending a lot of time with
-｛柊＊＊＊｝ lately......)");
+｛柊＊＊＊｝ lately...)");
 MsgClose();
 ScrFadeOut(0,0);

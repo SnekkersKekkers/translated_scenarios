@@ -47,7 +47,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("B150600200_06_060");
-MsgDisp("Himuro","Heeh?
+MsgDisp("Himuro","Ehhh?
 You're touching me even though I'm a guy?
 In a way, that's even more of a problem.");
 MsgDisp("主人公","Ugh...");

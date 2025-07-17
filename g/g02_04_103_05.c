@@ -46,7 +46,7 @@ ChMouth(4,3);
 VoicePlay("G020410305_04_060");
 MsgDisp("Nanatsumori","But I'm not really sleepy right now.
 Because you're here with me.");
-MsgDisp("主人公","(｛七ツ森＊｝......)");
+MsgDisp("主人公","(｛七ツ森＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -60,7 +60,7 @@ I'll come again.");
     ChClose(2);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 Uniform?
 Not the coffee?)");
     break ;
@@ -88,15 +88,15 @@ the smell is great.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("I350200000_02_070");
-    MsgDisp("Sassa","Hm......
-Ha......");
+    MsgDisp("Sassa","Hm...
+Ha...");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("I350200000_02_080");
     MsgDisp("Sassa","It might be kind of addictive.");
     MsgDisp("主人公","Huh?
-You're exaggerating......");
+You're exaggerating...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -117,7 +117,7 @@ You know?");
     VoicePlay("I350200000_02_110");
     MsgDisp("Sassa","Ah, I think there was an experiment about
 this involving dogs.");
-    MsgDisp("主人公","Um...... There are other customers at the
+    MsgDisp("主人公","Um... There are other customers at the
 entrance here. Come this way.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -130,7 +130,7 @@ entrance here. Come this way.");
     ChClose(2);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(｛颯砂＊＊｝ likes Alucard, right......?)");
+    MsgDisp("主人公","(｛颯砂＊＊｝ likes Alucard, right...?)");
     break ;
     case 4:
     case 5:
@@ -141,7 +141,7 @@ entrance here. Come this way.");
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,40,2,0,0,#1,#1,10,0);
     VoicePlay("I350200000_02_130");
-    MsgDisp("Sassa","H, huh......");
+    MsgDisp("Sassa","H, huh...");
     MsgDisp("主人公","What is it?
 ｛颯砂＊＊｝.");
     ChEye(2,0);
@@ -149,7 +149,7 @@ entrance here. Come this way.");
     ChMotion(2,4);
     VoicePlay("I350200000_02_140");
     MsgDisp("Sassa","While I was doing work on the road, I just
-naturally came in......");
+naturally came in...");
     MsgDisp("主人公","Huh∋");
     ChEye(2,0);
     ChMouth(2,0);
@@ -170,8 +170,8 @@ See you.");
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("I350200000_02_170");
-    MsgDisp("Sassa","Haaa......
-What am I thinking while training......
+    MsgDisp("Sassa","Haaa...
+What am I thinking while training...
 I'm seriously sick.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -179,7 +179,7 @@ I'm seriously sick.");
     ChClose(2);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(He left......
+    MsgDisp("主人公","(He left...
 I wonder what ｛颯砂＊＊｝ was
 thinking while running?)");
     break ;

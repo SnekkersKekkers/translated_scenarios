@@ -1,12 +1,12 @@
 BGMStop();
-MsgDisp("主人公","I'm sorry......");
+MsgDisp("主人公","I'm sorry...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("T020111000_01_200");
-MsgDisp("Kazama","......N-No it's okay.");
+MsgDisp("Kazama","...N-No it's okay.");
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
 ChEye(1,2);
 ChMouth(1,3);
@@ -24,7 +24,7 @@ VoicePlay("T020111000_01_220");
 MsgDisp("Kazama","Thanks to this, I was able to see a little
 bit of my own work, not just my dad's or
 my grandpa's.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChMotion(1,0,1);
 Wait(12,0);
 ChEyeOpenLevel(1,8);

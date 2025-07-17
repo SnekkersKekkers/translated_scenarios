@@ -4,7 +4,7 @@ ChEye(6,3);
 ChMouth(6,1);
 ChMotion(6,5);
 VoicePlay("T020620000_06_240");
-MsgDisp("Himuro","Eh, wait......∋");
+MsgDisp("Himuro","Eh, wait...∋");
 MsgDisp("主人公","I too, like ｛氷室＊＊｝!");
 VoicePlay("T020620000_06_250");
 ChEye(6,0);
@@ -19,7 +19,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","Haaa......
+MsgDisp("Himuro","Haaa...
 I really can't read your actions.");
 VoicePlay("T020620000_06_270");
 ChEye(6,0);
@@ -28,7 +28,7 @@ ChMotion(6,0);
 ChCheek(6,0);
 MsgDisp("Himuro","Come to think about it, on the way home
 from hanging out together, you often used
-to surprise me like this......");
+to surprise me like this...");
 VoicePlay("T020620000_06_280");
 ChEye(6,2);
 ChMouth(6,0);

@@ -10,5 +10,5 @@ SEStop("SYS_SE_NOT_CONNECT",0.01);
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Looks like my call won't go
-through......)");
+through...)");
 MsgClose();

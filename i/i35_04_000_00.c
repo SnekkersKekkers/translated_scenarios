@@ -19,8 +19,8 @@ Welcome!");
     ChMouth(4,1);
     ChMotion(4,4,1);
     VoicePlay("I350400000_04_010");
-    MsgDisp("Nanatsumori","Aah...... Shh∈ You're. Too. Loud.");
-    MsgDisp("主人公","Ah......
+    MsgDisp("Nanatsumori","Aah... Shh∈ You're. Too. Loud.");
+    MsgDisp("主人公","Ah...
 I'm sorry.");
     ChEye(4,2);
     ChMouth(4,0);
@@ -34,7 +34,7 @@ sparkled.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_030");
-    MsgDisp("Nanatsumori","Sparkle......
+    MsgDisp("Nanatsumori","Sparkle...
 Thanks for that.
 Then, could I get a menu?");
     MsgDisp("主人公","(He seemed happy, I guess?)");
@@ -76,7 +76,7 @@ Well, see you later.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(Did ｛七ツ森＊｝ come to
-support me......?)");
+support me...?)");
     break ;
     case 4:
     case 5:
@@ -89,14 +89,14 @@ support me......?)");
     ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I350400000_04_080");
     MsgDisp("Nanatsumori","Yo, hello.");
-    MsgDisp("主人公","Ah......
+    MsgDisp("主人公","Ah...
 Welcome!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,0);
     VoicePlay("I350400000_04_090");
-    MsgDisp("Nanatsumori","Hm～.........");
+    MsgDisp("Nanatsumori","Hm～......");
     MsgDisp("主人公","Hm?");
     ChEye(4,4);
     ChMouth(4,4);
@@ -104,7 +104,7 @@ Welcome!");
     VoicePlay("I350400000_04_100");
     MsgDisp("Nanatsumori","All the tension kinda drained from my body
 when I saw your face.");
-    MsgDisp("主人公","Huh......");
+    MsgDisp("主人公","Huh...");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -125,7 +125,7 @@ before I embarrass myself any more.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_130");
-    MsgDisp("Nanatsumori","Heheh......
+    MsgDisp("Nanatsumori","Heheh...
 More energy than healing, huh.");
     MsgDisp("主人公","(｛七ツ森＊｝ looks like he's having fun.
 I think I'm feeling better, too!)");

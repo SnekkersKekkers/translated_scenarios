@@ -1,6 +1,6 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
 MsgDisp("主人公","I guess the gardening club activities end
-today......");
+today...");
 MsgClose();
 ScrFadeOut(0);

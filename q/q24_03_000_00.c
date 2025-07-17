@@ -1,5 +1,5 @@
 EnvAutoSet(1);
-MsgDisp("主人公","Ehm......
+MsgDisp("主人公","Ehm...
 What's wrong everyone?");
 ChEye(3,0);
 ChMouth(3,4);
@@ -19,7 +19,7 @@ MsgDisp("Honda","Aah, you did it huh!
 I'm never forgiving it, here, you fight
 back with me!");
 MsgDisp("主人公","(Seems that ｛本多＊＊｝ quite
-likes these kinda stuff......
+likes these kinda stuff...
 Okay, me too!)");
 EnvStop(1);
 EnvAutoSet(0);

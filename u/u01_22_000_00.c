@@ -14,7 +14,7 @@ MsgDisp("主人公","I'm good, what's up?");
 VoicePlay("U012200000_22_010");
 MsgDisp("Hikaru","It's Hikaru date time!
 Do you want to go to karaoke with me?");
-MsgSel("Ok, let's go!","Sorry. Today isn't good......");
+MsgSel("Ok, let's go!","Sorry. Today isn't good...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U012200000_22_020");
@@ -28,12 +28,12 @@ See you soon.");
     case 1:
     VoicePlay("U012200000_22_030");
     MsgDisp("Hikaru","Really～?
-That's disappointing......
+That's disappointing...
 Sigh.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Even though she took the time to invite
-me......
+me...
 Maybe I made the wrong choice?)");
     break ;
     default :

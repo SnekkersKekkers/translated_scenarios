@@ -57,7 +57,7 @@ carried away.");
         ChMotion(6,4);
         ChEyeOpenLevel(6,7);
         VoicePlay("B040608302_06_040");
-        MsgDisp("Himuro","............");
+        MsgDisp("Himuro","......");
         MsgDisp("主人公","? What's wrong?");
         ChEye(6,0);
         ChMouth(6,0);

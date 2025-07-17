@@ -72,6 +72,6 @@ Then, I'm going home... see you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 SEWait();
-MsgDisp("主人公","(｛氷室＊＊｝......)");
+MsgDisp("主人公","(｛氷室＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

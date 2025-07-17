@@ -65,7 +65,7 @@ VoicePlay("D140C04102_06_040");
 MsgDisp("Himuro","Yanosuke-senpai, me, you and Kojiro-
 sensei. The four of us who are apart will
 grow only further apart...");
-MsgDisp("主人公","That's horrible......");
+MsgDisp("主人公","That's horrible...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

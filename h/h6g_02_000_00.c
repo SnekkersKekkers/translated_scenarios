@@ -34,13 +34,13 @@ ChEyeOpenLevel(2,0);
 VoicePlay("H6G0200000_02_030");
 MsgDisp("Sassa","Haha, next time at school, then.
 Mikage-sensei and I will do it");
-MsgDisp("主人公","Geez, we can't do it anywhere......
+MsgDisp("主人公","Geez, we can't do it anywhere...
 Hehe, thanks, though.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("H6G0200000_02_040");
-MsgDisp("Sassa","......Y-Yeah. Of course the flowers would
+MsgDisp("Sassa","...Y-Yeah. Of course the flowers would
 bloom beautifully if you take care of them
 with a smile like that.");
 ChEye(2,0);

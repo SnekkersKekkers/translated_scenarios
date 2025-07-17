@@ -30,7 +30,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,0);
 ChCheek(6,5);
 VoicePlay("B360623600_06_020");
-MsgDisp("Himuro","......Ah, I see.");
+MsgDisp("Himuro","...Ah, I see.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -50,7 +50,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360623600_06_050");
-MsgDisp("Himuro","......But when I saw your face just now, I
+MsgDisp("Himuro","...But when I saw your face just now, I
 understood.");
 MsgDisp("主人公","Huh, me?");
 ChEye(6,0);
@@ -60,7 +60,7 @@ VoicePlay("B360623600_06_060");
 MsgDisp("Himuro","Yeah.
 You looked so happy.
 It's the face I always wanted to see.");
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -72,7 +72,7 @@ ChMouth(6,3);
 ChMotion(6,3);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360623600_06_080");
-MsgDisp("Himuro","Haha......
+MsgDisp("Himuro","Haha...
 I'm definitely one of those men too.");
 MsgDisp("主人公","(｛氷室＊＊｝, looks a little happy?)");
 BGMStop();

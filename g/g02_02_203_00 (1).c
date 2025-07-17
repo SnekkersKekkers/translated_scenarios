@@ -17,7 +17,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220300_02_020");
 MsgDisp("Sassa","Yeah, a girl firefly.");
-MsgDisp("主人公","Mm......in that case, then I guess one
+MsgDisp("主人公","Mm...in that case, then I guess one
 that's slow and floaty?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -53,9 +53,9 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220300_02_070");
 MsgDisp("Sassa","(sigh) I bet it'd be easier to be your
-partner if we were fireflies......");
+partner if we were fireflies...");
 MsgDisp("主人公","(What is ｛颯砂＊＊｝ talking
-about......)");
+about...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -41,9 +41,9 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_020");
-MsgDisp("Hiiragi","Um......
-Yes, it's from Inori. \"
-Show me all the places\"?");
+MsgDisp("Hiiragi","Um...
+Yes, it's from Inori. 
+\"Show me all the places\"?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -67,7 +67,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc821",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, this road......
+MsgDisp("主人公","Ah, this road...
 It's like the brick road in Habataki City.");
 MsgClose();
 ChOpen(5,254,2,4,4,#1,#1,0,1,0,30);
@@ -90,7 +90,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q070C00100_05_040");
-MsgDisp("Hiiragi","I feel so grateful ......
+MsgDisp("Hiiragi","I feel so grateful ...
 I guess I finally have a place to call my
 hometown.");
 ChEyeOpenLevel(5,#1);
@@ -119,7 +119,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_060");
-MsgDisp("Hiiragi","Uhh, it says...... \"
+MsgDisp("Hiiragi","Uhh, it says... \"
 Study hard.
 It's still a school trip.\"");
 ChEye(7,0);

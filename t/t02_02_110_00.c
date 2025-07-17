@@ -6,7 +6,7 @@ MsgDisp("Sassa?","｛主人公｝, wait.");
 SEPlay("EV_SE_872",0.5);
 Wait(46,0);
 ChOpen(2,254,7,4,0,#1,#1,0,0);
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 ｛颯砂＊＊｝?");
 ChEye(2,4);
 ChMouth(2,0);
@@ -21,7 +21,7 @@ VoicePlay("T020211000_02_020");
 MsgDisp("Sassa","Sorry, I'll take you there.");
 SEPlay("EV_SE_504");
 Wait(30,1);
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(2);
@@ -44,7 +44,7 @@ ChLayout(0);
 ChOpen(2,254,7,4,0,#1,#1,0,0);
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝......?");
+MsgDisp("主人公","｛颯砂＊＊｝...?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -66,7 +66,7 @@ VoicePlay("T020211000_02_060");
 MsgDisp("Sassa","That's a nasty thing to say. But the truth
 is, I was a nasty guy. I was an idiot, or
 rather an idiot when it came to athletics.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -92,8 +92,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020211000_02_100");
-MsgDisp("Sassa","......But outside of athletics, I'm having
-fun and laughing with my friends......");
+MsgDisp("Sassa","...But outside of athletics, I'm having
+fun and laughing with my friends...");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -101,7 +101,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("T020211000_02_110");
 MsgDisp("Sassa","I was beginning to lose track of which
 side was the true me.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -111,7 +111,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211000_02_130");
-MsgDisp("Sassa","......Do you remember running with me?");
+MsgDisp("Sassa","...Do you remember running with me?");
 MsgDisp("主人公","Yes");
 ChEye(2,4);
 ChMouth(2,4);
@@ -146,7 +146,7 @@ VoicePlay("T020211000_02_180");
 MsgDisp("Sassa","So I gave up on the idea.
 That if you went to someone else, it would
 be your choice.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

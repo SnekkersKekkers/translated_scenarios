@@ -2,7 +2,7 @@ BGOpen("ho000",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("H5G0600000_06_000");
-MsgDisp("Himuro?","......Ah, there you are.");
+MsgDisp("Himuro?","...Ah, there you are.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

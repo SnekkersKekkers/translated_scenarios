@@ -19,7 +19,7 @@ will escape and it'll be stiff.
 Remember that.");
 MsgDisp("主人公","(Oh no.
 I need to learn how to store these
-properly......)");
+properly...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

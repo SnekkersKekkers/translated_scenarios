@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("O030500000_05_000");
-    MsgDisp("Hiiragi","To think we would achieve first......
+    MsgDisp("Hiiragi","To think we would achieve first...
 Splendid.");
     MsgDisp("主人公","(We did it, first place!
 A victory for both of us!)");
@@ -33,7 +33,7 @@ A victory for both of us!)");
     ChOpen(5,30,4,4,4,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030500000_05_020");
-    MsgDisp("Hiiragi","Haa......");
+    MsgDisp("Hiiragi","Haa...");
     MsgDisp("主人公","｛柊＊＊＊｝, we did it!
 We're first place!");
     ChMotion(5,3);

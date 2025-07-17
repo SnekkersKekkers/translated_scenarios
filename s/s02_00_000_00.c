@@ -3,7 +3,7 @@ Who should I go to the shrine with?");
 MsgSel("Invite a boy","Go alone");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","Who should I invite......");
+    MsgDisp("主人公","Who should I invite...");
     break ;
     case 1:
     MsgDisp("主人公","I guess alone is best.");

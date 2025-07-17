@@ -43,14 +43,14 @@ ChMotion(2,4);
 VoicePlay("G020240001_02_050");
 MsgDisp("Sassa","We ended up running sprints along the
 beach.
-I lost count of how many we did......");
+I lost count of how many we did...");
 MsgDisp("主人公","Hehe, seems fun.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020240001_02_060");
-MsgDisp("Sassa","Easy for you to say......
+MsgDisp("Sassa","Easy for you to say...
 The old man who owned them thought so too.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -63,7 +63,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020240001_02_080");
 MsgDisp("Sassa","So I ended up pushing myself even harder
-after my training......");
+after my training...");
 MsgDisp("主人公","(The dogs must have had so much fun
 training with ｛颯砂＊＊｝, huh!)");
 BGMStop();

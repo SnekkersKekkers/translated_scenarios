@@ -65,21 +65,21 @@ clothes, so I thought it was someone else.");
 Thanks for showing me such a nice smile.
 See ya, good luck with work!");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(A nice smile, huh......
+    MsgDisp("主人公","(A nice smile, huh...
 Alright, let's keep working hard just like
 this!)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","Welcome!
-...... Ah, ｛本多＊＊｝.");
+... Ah, ｛本多＊＊｝.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I650300000_03_080");
     MsgDisp("Honda","It's pretty busy, huh?
 The customers just keep on coming.
-...... But, I'm a little surprised.");
+... But, I'm a little surprised.");
     MsgDisp("主人公","Hm?");
     ChEye(3,4);
     ChMouth(3,4);
@@ -109,7 +109,7 @@ leaning forward like that.");
     VoicePlay("I650300000_03_120");
     MsgDisp("Honda","It's better to use a trolley to roll them
 instead of carrying them around, even if
-it's more tedious......");
+it's more tedious...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,0,1);
@@ -123,7 +123,7 @@ not really my place to say anything.");
     VoicePlay("I650300000_03_140");
     MsgDisp("Honda","Yeah.
 Just do your best without getting hurt!");
-    MsgDisp("主人公","(｛本多＊＊｝ is so nice......
+    MsgDisp("主人公","(｛本多＊＊｝ is so nice...
 I'll have to make sure I don't worry
 ｛本多＊＊｝ too much.)");
     break ;

@@ -13,7 +13,7 @@ MsgDisp("Shirahane","｛主人公｝.");
 MsgDisp("主人公","Ah, yes!");
 VoicePlay("B150800400_08_020");
 MsgDisp("Shirahane","Haven't you noticed by now?");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("B150800400_08_030");

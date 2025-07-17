@@ -24,14 +24,14 @@ ChOpen(7,254,0,2,4,#1,#1,0,0);
 VoicePlay("M010700000_07_040");
 MsgDisp("Mikage","What happened?");
 MsgDisp("主人公","When I tried to stand up, I suddenly went
-limp and......");
+limp and...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("M010700000_07_050");
 MsgDisp("Mikage","Still not done recovering.
 Don't go stomping around, go to bed.");
-MsgDisp("主人公","Yes......");
+MsgDisp("主人公","Yes...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -40,7 +40,7 @@ MsgDisp("Mikage","Listen? I love how you put your all into
 everything. But you know, there's a
 difference between doing your best and
 overdoing it.");
-MsgDisp("主人公","Yes......
+MsgDisp("主人公","Yes...
 I understand.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -58,5 +58,5 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 MsgDisp("主人公","(｛御影＊＊｝ came for a get well
-visit......
+visit...
 Okay, I have to get better fast!)");

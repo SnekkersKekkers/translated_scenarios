@@ -25,15 +25,15 @@ ChMouth(21,2);
 ChMotion(21,0);
 ChMouth(22,2);
 VoicePlay("Q070701000_07_000");
-MsgDisp("Mikage","...... Oh Cmon, what are you guys doing?
+MsgDisp("Mikage","... Oh Cmon, what are you guys doing?
 Hold it down with this!");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("Q070701000_21_010");
-MsgDisp("Michiru","......? It's kind of noisy in the men's
+MsgDisp("Michiru","...? It's kind of noisy in the men's
 bath.");
-MsgDisp("主人公","Yes......
+MsgDisp("主人公","Yes...
 I wonder what's going on.");
 ChEye(22,3);
 ChMouth(22,3);
@@ -48,7 +48,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Q070701000_21_020");
-MsgDisp("Michiru","Oh well......
+MsgDisp("Michiru","Oh well...
 Mari, we're going too.");
 MsgDisp("主人公","Eeh∋
 ｛みちる＊｝, you too!");
@@ -69,7 +69,7 @@ MsgDisp("Mikage","Hold it tight∈ I'll call someone.");
 Wait(20,0);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,1);
 Wait(80,0);
-MsgDisp("主人公","(Wait...... he's coming this way∋)");
+MsgDisp("主人公","(Wait... he's coming this way∋)");
 SEStop("EV_SE_854",3);
 SEPlay("EV_SE_740",0,0.9);
 Wait(15,0);
@@ -86,7 +86,7 @@ StlMouth(7,0);
 VoicePlay("Q070701000_07_020");
 MsgDisp("Mikage","Ah, everything alright?");
 StlEye(7,0);
-MsgDisp("主人公","Y, yes......");
+MsgDisp("主人公","Y, yes...");
 VoicePlay("Q070701000_22_020");
 MsgDisp("Hikaru","What, what, what??
 Mikage-sensei, what's wrong?");
@@ -97,7 +97,7 @@ fountain.
 I'm going to the front desk.");
 VoicePlay("Q070701000_21_030");
 MsgDisp("Michiru","Mikage-sensei, you shouldn't go outside
-dressed like that......");
+dressed like that...");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("Q070701000_07_040");
@@ -112,7 +112,7 @@ ChOpen(21,30,0,0,4,#1,#1,0,1,0,30);
 ChOpen(22,30,0,0,2,7,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("Q070701000_07_050");
-MsgDisp("Mikage","...... My bad.
+MsgDisp("Mikage","... My bad.
 I'm holding the tap with my shirt.
 Can you tell the front desk person?");
 MsgDisp("主人公","Ah, yes!
@@ -137,7 +137,7 @@ MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(I can't believe
 ｛御影＊＊｝ popped
-out...... haah, I was so surprised.)");
+out... haah, I was so surprised.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

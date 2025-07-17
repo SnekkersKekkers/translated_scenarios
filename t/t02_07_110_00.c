@@ -7,7 +7,7 @@ to go out with me?");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Eh, ｛御影＊＊｝......?
+MsgDisp("主人公","Eh, ｛御影＊＊｝...?
 What's wrong?");
 SEPlay("EV_SE_504",0,0.7);
 Wait(30,0);
@@ -26,7 +26,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc612",0);
 ScrFadeIn(0);
-MsgDisp("主人公","This is......");
+MsgDisp("主人公","This is...");
 VoicePlay("T020711000_07_020");
 MsgDisp("Mikage","This is where the graduation ceremony
 takes place.");
@@ -53,7 +53,7 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_040");
 MsgDisp("Mikage","Originally I wasn't meant to be a teacher.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -67,10 +67,10 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_060");
 MsgDisp("Mikage","I'm not the kind of person who's suited to
-be called a teacher......");
+be called a teacher...");
 ChEye(7,2);
 ChEyeOpenLevel(7,10);
-MsgDisp("主人公","That......
+MsgDisp("主人公","That...
 I was very happy to spend the last three
 years with ｛御影＊＊｝.");
 ChEye(7,2);
@@ -78,7 +78,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020711000_07_070");
-MsgDisp("Mikage","...... Thank you.
+MsgDisp("Mikage","... Thank you.
 You always help me out like that.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -91,10 +91,10 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_090");
-MsgDisp("Mikage","The gap from my high school days......
+MsgDisp("Mikage","The gap from my high school days...
 There was always a huge void there for me
 you know?");
-MsgDisp("主人公","｛御影＊＊｝......");
+MsgDisp("主人公","｛御影＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -117,7 +117,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_120");
 MsgDisp("Mikage","The void in my heart might have been
 filled.
-It was that much fun.........");
+It was that much fun......");
 ChEye(7,4);
 ChEyeOpenLevel(7,10);
 MsgDisp("主人公","I also had a lot of fun.");
@@ -125,7 +125,7 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020711000_07_130");
-MsgDisp("Mikage","I see......
+MsgDisp("Mikage","I see...
 I'm glad.");
 ChEye(7,4);
 ChMouth(7,4);
@@ -140,20 +140,20 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_150");
 MsgDisp("Mikage","My feelings for you are getting stronger
 and stronger.");
-MsgDisp("主人公","Feelings for me......?");
+MsgDisp("主人公","Feelings for me...?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020711000_07_160");
-MsgDisp("Mikage","...... I managed to hold it off once.
+MsgDisp("Mikage","... I managed to hold it off once.
 But in the end, I'm here, in front of you.");
-MsgDisp("主人公","｛御影＊＊｝......?");
+MsgDisp("主人公","｛御影＊＊｝...?");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020711000_07_170");
-MsgDisp("Mikage","Yes, I ......
+MsgDisp("Mikage","Yes, I ...
 I love you.");
 ChEye(7,4);
 ChMouth(7,4);
@@ -162,14 +162,14 @@ VoicePlay("T020711000_07_180");
 MsgDisp("Mikage","'Like' grows into 'love' in an instant and
 overflows, and there's nothing I can do
 about it.");
-MsgDisp("主人公","｛御影＊＊｝......");
+MsgDisp("主人公","｛御影＊＊｝...");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0,1);
 VoicePlay("T020711000_07_190");
-MsgDisp("Mikage","......Hey, you were the one who decided to
+MsgDisp("Mikage","...Hey, you were the one who decided to
 distance yourself from me, right?");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -177,7 +177,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_200");
 MsgDisp("Mikage","I felt a little relieved.
 But, the regret festering within me was
-many times worse......");
+many times worse...");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);

@@ -41,7 +41,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630001_06_060");
-MsgDisp("Himuro","......Though I wouldn't say that to
+MsgDisp("Himuro","...Though I wouldn't say that to
 Ryota-senpai or Nozomu-senpai.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
@@ -58,14 +58,14 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("G020630001_06_080");
 MsgDisp("Himuro","Because it's unproductive.
-...... But, it's fun.
+... But, it's fun.
 It's complete nonsense.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630001_06_090");
 MsgDisp("Himuro","If these relationships continued forever
-......that would be nice.");
+...that would be nice.");
 MsgDisp("主人公","It'll definitely last.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -73,14 +73,14 @@ ChMotion(6,0);
 VoicePlay("G020630001_06_100");
 MsgDisp("Himuro","I wonder?
 That might be problematic too.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630001_06_110");
 MsgDisp("Himuro","You don't need to understand.
 Let's just enjoy this moment for now.");
-MsgDisp("主人公","(Moment......
+MsgDisp("主人公","(Moment...
 Does ｛氷室＊＊｝ think our
 relationship is only temporary?)");
 BGMStop();

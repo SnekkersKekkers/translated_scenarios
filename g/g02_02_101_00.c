@@ -11,7 +11,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("G020210100_02_010");
-MsgDisp("Sassa","We're all pretty different too......");
+MsgDisp("Sassa","We're all pretty different too...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -24,12 +24,12 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210100_02_030");
 MsgDisp("Sassa","Ryota can do anything, it's like he's
-superman......");
+superman...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210100_02_040");
-MsgDisp("Sassa","And Inori......
+MsgDisp("Sassa","And Inori...
 I can't even figure him out at all.
 He's a funny guy.");
 MsgDisp("主人公","Hehe.");
@@ -62,7 +62,7 @@ VoicePlay("G020210100_02_080");
 MsgDisp("Sassa","So I need to keep improving myself , so I
 don't fall behind those two.
 And so you don't get bored of me!");
-MsgDisp("主人公","I don't think that'll happen though......");
+MsgDisp("主人公","I don't think that'll happen though...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

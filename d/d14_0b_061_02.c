@@ -14,7 +14,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B06102_01_000");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 MsgDisp("主人公","｛風真＊＊｝, what's wrong?
 You haven't touched your food at all...");
 ChEye(3,2);

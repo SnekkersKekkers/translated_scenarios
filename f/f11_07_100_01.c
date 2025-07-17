@@ -30,7 +30,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F110710001_07_010");
 MsgDisp("Mikage","I got too carried away, so Vice Principal
-Himuro gave me a real earful......");
+Himuro gave me a real earful...");
 MsgDisp("主人公","Eh∋");
 ChEye(7,2);
 ChMouth(7,0);

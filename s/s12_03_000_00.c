@@ -33,7 +33,7 @@ So, cya later!");
     Wait(30);
     MsgDisp("主人公","(It was fun visiting the shrine.
 I hope this year is another good
-year......)");
+year...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

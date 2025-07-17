@@ -18,9 +18,9 @@ night parades?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360523600_05_010");
-MsgDisp("Hiiragi","Well if anything......
+MsgDisp("Hiiragi","Well if anything...
 I guess I like seeing you enjoy it?");
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("B360523600_05_020");
@@ -57,17 +57,17 @@ MsgClose();
 ChOpen(5,255,0,3,4,#1,#1,0,0,0,30);
 VoicePlay("B360523600_05_060");
 MsgDisp("Hiiragi","See, my field of vision has narrowed.");
-MsgDisp("主人公","Um......
+MsgDisp("主人公","Um...
 ｛柊＊＊＊｝?");
 ChEye(5,4);
 VoicePlay("B360523600_05_070");
 MsgDisp("Hiiragi","What is it?");
-MsgDisp("主人公","I can't see the parade at all......");
+MsgDisp("主人公","I can't see the parade at all...");
 ChEye(5,3);
 ChMouth(5,2);
 ChCheek(5,5);
 VoicePlay("B360523600_05_080");
-MsgDisp("Hiiragi","Ah...... excuse me.");
+MsgDisp("Hiiragi","Ah... excuse me.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChClose(5,0,30);

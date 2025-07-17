@@ -40,7 +40,7 @@ picture of it and show it to you.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040405101_04_030");
-    MsgDisp("Nanatsumori","ＯＫ. Both a starry sky with a new moon
+    MsgDisp("Nanatsumori","OK. Both a starry sky with a new moon
 and a starry sky with a moon floating in
 it have their own individual charms.");
     MsgDispSksp(1,0);

@@ -13,7 +13,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_220");
     MsgDisp("Honda","Hm?
-The person who arranged this shelf......");
+The person who arranged this shelf...");
     MsgDisp("主人公","It was me, but should I not have?");
     ChEye(3,4);
     ChMouth(3,4);
@@ -43,7 +43,7 @@ I'm glad I could be of some help.)");
     VoicePlay("I260300000_03_250");
     MsgDisp("Honda","Wow, pop ads?
 I didn't know you were good at them.");
-    MsgDisp("主人公","Ah, I was just trying it out......");
+    MsgDisp("主人公","Ah, I was just trying it out...");
     ChEye(3,5);
     ChMouth(3,4);
     ChMotion(3,5,1);
@@ -63,7 +63,7 @@ bigger books.");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_280");
     MsgDisp("Honda","I've made pop ads in the past trying to do
-something about it, but......");
+something about it, but...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);

@@ -58,6 +58,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(Thanks to ｛風真＊＊｝, my
 birthday was great.
-Thank you......!)");
+Thank you...!)");
 MsgClose();
 ScrFadeOut(0,0);

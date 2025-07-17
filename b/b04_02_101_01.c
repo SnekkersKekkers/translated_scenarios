@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040210101_02_010");
-    MsgDisp("Sassa","Heeh, so that's it.
+    MsgDisp("Sassa","Ehhh, so that's it.
 I completely don't get it though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

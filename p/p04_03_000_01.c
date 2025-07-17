@@ -20,7 +20,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("P040300001_03_020");
 MsgDisp("Honda","It's kind of fresh!
 A new type of mitarashi dango.");
-MsgDisp("主人公","Um...... that's......");
+MsgDisp("主人公","Um... that's...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -34,9 +34,9 @@ VoicePlay("P040300001_03_040");
 MsgDisp("Honda","Well, they say failure is the mother of
 success. Thank you for the interesting
 mitarashi dango～");
-MsgDisp("主人公","(Ugh...... interesting, huh......
-This isn't success at all...... it's
-failure......)");
+MsgDisp("主人公","(Ugh... interesting, huh...
+This isn't success at all... it's
+failure...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

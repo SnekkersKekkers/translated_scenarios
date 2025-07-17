@@ -1,18 +1,18 @@
 BGOpen("ho000",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I get the feeling I'll have a good
-encounter today......)");
+encounter today...)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ne000",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Uhmm......
+MsgDisp("主人公","(Uhmm...
 There!)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("wf400",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, that's......
+MsgDisp("主人公","(Ah, that's...
 ｛柊＊＊＊｝! )");
 MsgDisp("主人公","(I wonder if he'll let me interview him?)");
 MsgClose();
@@ -23,7 +23,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew......
+MsgDisp("主人公","(Phew...
 I got to hear a lot of great stories
 today!)");
 MsgDisp("主人公","(I got his permission, so now it's time to

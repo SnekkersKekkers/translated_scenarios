@@ -5,8 +5,8 @@ SEPlay("EV_SE_577");
 Wait(80,0);
 SEPlay("EV_SE_629");
 Wait(100,0);
-MsgDisp("主人公","(Mnn......Who could be calling so early in
-the morning......? Ah, it's
+MsgDisp("主人公","(Mnn...Who could be calling so early in
+the morning...? Ah, it's
 ｛氷室＊＊｝! )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
@@ -14,11 +14,11 @@ SEWait();
 MsgDisp("主人公","Hello?
 What's up?");
 VoicePlay("D010600300_06_000");
-MsgDisp("Himuro","......Were you sleeping?");
+MsgDisp("Himuro","...Were you sleeping?");
 MsgDisp("主人公","Y-Yeah.
-It's already this late......");
+It's already this late...");
 VoicePlay("D010600300_06_010");
-MsgDisp("Himuro","So......
+MsgDisp("Himuro","So...
 Can you come out?
 I'll be waiting at the beach.");
 MsgDisp("主人公","Eh, right now?");
@@ -31,20 +31,20 @@ MsgClose();
 BGOpen("wf620",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_630");
-MsgDisp("主人公","｛氷室＊＊｝......!
+MsgDisp("主人公","｛氷室＊＊｝...!
 W-Wait up!");
 VoicePlay("D010600300_06_020");
 MsgDisp("Himuro","It's okay to take it slow.
 Watch your step.");
-MsgDisp("主人公","Okay......
+MsgDisp("主人公","Okay...
 Ah!");
 SEPlay("EV_SE_631");
 SEStop("EV_SE_630");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","......Puu!");
+MsgDisp("主人公","...Puu!");
 VoicePlay("D010600300_06_030");
-MsgDisp("Himuro","...... Geez, that's exactly what I was
+MsgDisp("Himuro","... Geez, that's exactly what I was
 talking about.
 Here, give me your hand.");
 MsgClose();
@@ -64,7 +64,7 @@ VoicePlay("D010600300_06_050");
 MsgDisp("Himuro","It's insane of me to call you out this
 early in the morning just because I have
 the beach rented out.");
-MsgDisp("主人公","You rented out the beach......?
+MsgDisp("主人公","You rented out the beach...?
 You can do that?");
 StlEye(6,0);
 StlMouth(6,0);
@@ -84,10 +84,10 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600300_06_080");
 MsgDisp("Himuro","Without you, this would be be pointless.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 VoicePlay("D010600300_06_090");
 MsgDisp("Himuro","It's true that I used to like surfing by
-myself but now......");
+myself but now...");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
@@ -101,13 +101,13 @@ StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600300_06_110");
 MsgDisp("Himuro","The scope of that is a bit limited,
 though.");
-MsgDisp("主人公","That's......");
+MsgDisp("主人公","That's...");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600300_06_120");
 MsgDisp("Himuro","Okay, no more nonsense.
 Let's focus on surfing.");
-MsgDisp("主人公","Y-Yes......!");
+MsgDisp("主人公","Y-Yes...!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -146,7 +146,7 @@ VoicePlay("D010600300_06_150");
 MsgDisp("Himuro","No comment.");
 MsgDisp("主人公","(Hehe!
 I'm glad I was able to make such wonderful
-memories with ｛氷室＊＊｝......)");
+memories with ｛氷室＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);

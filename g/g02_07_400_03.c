@@ -55,7 +55,7 @@ VoicePlay("G020740003_07_070");
 MsgDisp("Mikage","Come to think of it, he was my first best
 friend～");
 MsgDisp("主人公","(I'm curious about the second and
-subsequent ones......)");
+subsequent ones...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -16,14 +16,14 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B360718000_07_010");
-MsgDisp("Mikage","Detour......
+MsgDisp("Mikage","Detour...
 Inori's at the bookstore.
-Yanosuke...... where is he?");
+Yanosuke... where is he?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360718000_07_020");
-MsgDisp("Mikage","......maybe buying food for the theater
+MsgDisp("Mikage","...maybe buying food for the theater
 company staff.");
 MsgDisp("主人公","Really?");
 ChEye(7,2);
@@ -46,7 +46,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360718000_07_050");
-MsgDisp("Mikage","Maybe...... the school?");
+MsgDisp("Mikage","Maybe... the school?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

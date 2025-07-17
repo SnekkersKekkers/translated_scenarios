@@ -3,8 +3,8 @@ ChMouth(1,2);
 ChCheek(1,6);
 Wait(60,0);
 VoicePlay("T020100000_01_410");
-MsgDisp("Kazama","...... A kiss?
-Then......");
+MsgDisp("Kazama","... A kiss?
+Then...");
 MsgDisp("主人公","I also like ｛風真＊＊｝.
 Thank you for always thinking of me.");
 ChMotion(1,0,1);
@@ -41,12 +41,12 @@ may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020100000_01_470");
-MsgDisp("Ryota","I absolutely hope it can come true......");
+MsgDisp("Ryota","I absolutely hope it can come true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,10);
 VoicePlay("T020100000_01_480");
-MsgDisp("Kazama","Absolutely, I hope so......");
+MsgDisp("Kazama","Absolutely, I hope so...");
 MsgClear();
 ScrFadeOut(0,1);
 ChClose(1,0,0);
@@ -55,9 +55,9 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("T020100000_01_490");
-MsgDisp("Kazama","......Ah, that's right. This. It looks
+MsgDisp("Kazama","...Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
-MsgDisp("主人公","Wow, it's beautiful......!");
+MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020100000_01_500");
 MsgDisp("Kazama","I found and bought it when I was in
 England.");
@@ -65,7 +65,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_510");
 MsgDisp("Kazama","——I'll definitely give it to you one
 day.");
-MsgDisp("主人公","｛風真＊＊｝......
+MsgDisp("主人公","｛風真＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
@@ -79,13 +79,13 @@ StlClose();
 SEPlay("EV_SE_694",0,0.7);
 SEWait();
 VoicePlay("T020100000_01_530");
-MsgDisp("Kazama","Like this......");
+MsgDisp("Kazama","Like this...");
 StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoicePlay("T020100000_01_540");
 MsgDisp("Kazama","Let's go ahead and hold the ceremony like
 this.");
-MsgDisp("主人公","......Yes.");
+MsgDisp("主人公","...Yes.");
 VoicePlay("T020100000_01_550");
 MsgDisp("Kazama","This kiss is our promise.");
 VoiceEVSPlay(1);

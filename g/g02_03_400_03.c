@@ -7,7 +7,7 @@ VoicePlay("G020340003_03_000");
 MsgDisp("Honda","I'm finally satisfied with the ramen soup
 I've been working on for so long.");
 MsgDisp("主人公","Eh!
-You made the soup from scratch......?");
+You made the soup from scratch...?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -50,7 +50,7 @@ VoicePlay("G020340003_03_060");
 MsgDisp("Honda","If I were this particular in a business
 setting, I'd go bankrupt before opening.");
 MsgDisp("主人公","(I'm kind of curious about this
-profit-inefficient ramen......)");
+profit-inefficient ramen...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

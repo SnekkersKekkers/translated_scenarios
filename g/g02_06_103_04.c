@@ -4,7 +4,7 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610304_06_000");
-MsgDisp("Himuro","I really hate myself......");
+MsgDisp("Himuro","I really hate myself...");
 MsgDisp("主人公","Eh, why is that?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -22,20 +22,20 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610304_06_030");
-MsgDisp("Himuro","......I'm still worrying if that was
+MsgDisp("Himuro","...I'm still worrying if that was
 really the right choice.");
 MsgDisp("主人公","That?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_040");
-MsgDisp("Himuro","......The birthday present I gave you.");
+MsgDisp("Himuro","...The birthday present I gave you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_050");
 MsgDisp("Himuro","I know you were happy, and I know your
-words were genuine, but......");
+words were genuine, but...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -54,7 +54,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_080");
 MsgDisp("Himuro","If I had given you one of those, I might
-have seen a different reaction......but
+have seen a different reaction...but
 whether that reaction would have been good
 or not is a mystery.");
 ChEye(6,0);
@@ -82,12 +82,12 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610304_06_120");
-MsgDisp("Himuro","Haa......
+MsgDisp("Himuro","Haa...
 I really hate this.
 This isn't like me at all.");
-MsgDisp("主人公","(｛氷室＊＊｝......
+MsgDisp("主人公","(｛氷室＊＊｝...
 Gave his utmost effort in choosing a
-present for me......)");
+present for me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

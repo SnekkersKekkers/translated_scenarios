@@ -14,10 +14,10 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750401_07_010");
-MsgDisp("Mikage","...... It's beautiful, right?
+MsgDisp("Mikage","... It's beautiful, right?
 No it's not.
 Let's go.");
-MsgDisp("主人公","......Okay.");
+MsgDisp("主人公","...Okay.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
 ScrFadeOut(0);
@@ -32,8 +32,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ScrFadeIn(0);
 VoicePlay("B360750401_07_020");
-MsgDisp("Mikage","............");
-MsgDisp("主人公","Wowー......
+MsgDisp("Mikage","......");
+MsgDisp("主人公","Wowー...
 It's beautiful!");
 ChEye(7,2);
 ChMouth(7,0);

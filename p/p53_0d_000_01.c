@@ -4,7 +4,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This year's program is Game Music.
 I have to be careful to to mess it
-up......)");
+up...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -42,7 +42,7 @@ VoicePlay("P530D00001_21_020");
 MsgDisp("Michiru","It will be fine.
 Mari can do it.
 Right?");
-MsgDisp("主人公","Thank you......!");
+MsgDisp("主人公","Thank you...!");
 SEPlay("EV_SE_038");
 SEWait();
 ChEye(21,0);

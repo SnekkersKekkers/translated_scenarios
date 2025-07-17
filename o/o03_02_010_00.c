@@ -2,7 +2,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -20,7 +20,7 @@ Do you have a partner?");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -43,7 +43,7 @@ Please go easy on me.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(What should I do about my partner......)");
+    MsgDisp("主人公","(What should I do about my partner...)");
     MsgClose();
     SEPlay("EV_SE_671");
     SEWait();
@@ -60,7 +60,7 @@ Did I made it in time!?");
     VoicePlay("O030201000_02_050");
     MsgDisp("Sassa","Your legs aren't tied to anyone else's
 yet.");
-    MsgDisp("主人公","Um......
+    MsgDisp("主人公","Um...
 I don't have a partner yet.");
     ChEye(2,0);
     ChMouth(2,3);

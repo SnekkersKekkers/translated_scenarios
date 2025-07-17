@@ -98,7 +98,7 @@ Let's jump with all our heart in it!");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223000_02_080");
-    MsgDisp("Sassa","......I'm begging you to slow down.");
+    MsgDisp("Sassa","...I'm begging you to slow down.");
     break ;
     default :
     DbgAssert(0);

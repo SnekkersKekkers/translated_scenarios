@@ -6,7 +6,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
 ChOpen(4,254,0,2,5,#1,#1,0,0);
 VoicePlay("F100420001_04_000");
-MsgDisp("Nanatsumori","Woah......");
+MsgDisp("Nanatsumori","Woah...");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 You look a bit tired.");
 ChEye(4,4);

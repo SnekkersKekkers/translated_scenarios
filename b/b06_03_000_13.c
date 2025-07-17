@@ -5,7 +5,7 @@ ChMotion(3,1);
 VoicePlay("B060300013_03_000");
 MsgDisp("Honda","Hey, do you have time?
 To take a little detour.");
-MsgSel("Sure, it's okay.","Sorry, today's a bit......");
+MsgSel("Sure, it's okay.","Sorry, today's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(3,3);
@@ -32,7 +32,7 @@ Let's go then.");
 I understand.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(Was it wrong to say no......?)");
+    MsgDisp("主人公","(Was it wrong to say no...?)");
     MsgClose();
     ScrFadeOut(0);
     break ;

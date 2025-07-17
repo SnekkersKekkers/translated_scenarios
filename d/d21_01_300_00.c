@@ -2,7 +2,7 @@ BGOpen("ex070",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Goro-sensei says I should find a diamond
 in the rough from Habataki City who is a
-wonderful and shining person......)");
+wonderful and shining person...)");
 MsgDisp("主人公","(How on Earth should I even begin to
 look?)");
 VoicePlay("D220100100_31_000");
@@ -24,7 +24,7 @@ VoicePlay("D220100100_31_020");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
-MsgDisp("Goro","Let's see......
+MsgDisp("Goro","Let's see...
 How about a charismatic salesperson at
 Simon's General Store?");
 MsgDisp("主人公","Is that maybe——");
@@ -43,7 +43,7 @@ MsgDisp("Goro","Well then, let's get moving. Be safe! I'm
 looking forward to reading your lovely
 articles♪");
 MsgDisp("主人公","Y-Yes!");
-MsgDisp("主人公","(I see, if it's ｛風真＊＊｝......
+MsgDisp("主人公","(I see, if it's ｛風真＊＊｝...
 Yeah. I think he suits the description of
 a \"wonderful and shining person\". Okay, I
 have to write a great article!)");

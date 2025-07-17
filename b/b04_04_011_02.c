@@ -80,13 +80,13 @@ Your own charm.");
         MsgDisp("Nanatsumori","... ｛主人公｝.
 You really are a great girl.
 Believe in yourself.");
-        MsgDisp("主人公","｛七ツ森＊｝......");
+        MsgDisp("主人公","｛七ツ森＊｝...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMouthOpenLevel(4,0);
         ChCheek(4,10);
         VoicePlay("B040401102_04_070");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         MsgClose();
         ChClose(4,0,30);
         MsgClose();

@@ -5,7 +5,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,1,0,0,#1,0,0);
 VoicePlay("F010600008_06_000");
-MsgDisp("Himuro","......");
+MsgDisp("Himuro","...");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");

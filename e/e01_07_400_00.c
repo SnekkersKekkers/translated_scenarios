@@ -3,7 +3,7 @@ BGOpen("ne100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's almost time to go home.
 Huh?
-Who's that over there......)");
+Who's that over there...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
@@ -31,7 +31,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("E010740000_21_020");
-MsgDisp("Michiru","I thought so......
+MsgDisp("Michiru","I thought so...
 I happened to meet Mikage-sensei and we
 ended up talking about our favorite foods.");
 MsgDisp("Michiru","Isn't it really delicious?");
@@ -49,13 +49,13 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("E010740000_07_020");
-MsgDisp("Mikage","Hmm...... the only downside to Haba High
+MsgDisp("Mikage","Hmm... the only downside to Haba High
 is that it doesn't have it on the menu.");
 ChEye(21,2);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("E010740000_21_030");
-MsgDisp("Michiru","Seriously......
+MsgDisp("Michiru","Seriously...
 If it was on the cafeteria menu, I'd eat
 it all the time.");
 ChEye(7,0);
@@ -81,7 +81,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 VoicePlay("E010740000_07_050");
-MsgDisp("Mikage","Hmm, we'll probably need more votes......");
+MsgDisp("Mikage","Hmm, we'll probably need more votes...");
 ChPosition(21,0);
 Wait(30);
 MsgDisp("主人公","Hehe.

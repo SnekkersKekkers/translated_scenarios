@@ -28,7 +28,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040630002_06_020");
-    MsgDisp("Himuro","Heeh, you sure are diligent.
+    MsgDisp("Himuro","Ehhh, you sure are diligent.
 Could you teach me too?
 Senpai.");
     MsgDispBGSksp(1,2);
@@ -59,7 +59,7 @@ Senpai.");
         ChMotion(6,0);
         ChCheek(6,10);
         VoicePlay("B040630002_06_040");
-        MsgDisp("Himuro","......Okay.");
+        MsgDisp("Himuro","...Okay.");
         MsgDisp("主人公","Eh?∋");
         ChEye(6,0);
         ChMouth(6,0);

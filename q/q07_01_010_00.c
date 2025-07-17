@@ -4,10 +4,10 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message.
-It's from ｛風真＊＊｝......)");
+It's from ｛風真＊＊｝...)");
 MsgDisp("主人公","(\"After the lights go off, meet me in the
-lobby.\"......Just that? I wonder what he's
-up to......)");
+lobby.\"...Just that? I wonder what he's
+up to...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,30,0,0,0,#1,#1,0,1,0,30);
@@ -46,7 +46,7 @@ ChMotion(22,4,1);
 VoicePlay("Q070101000_22_010");
 MsgDisp("Hikaru","Okaaay.
 Mari, are you ready then?");
-MsgDisp("主人公","(What does she mean by ready......)");
+MsgDisp("主人公","(What does she mean by ready...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
@@ -60,7 +60,7 @@ BGOpen("sc810",2);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is
-up to...... If we get caught by a teacher,
+up to... If we get caught by a teacher,
 we'll get punished.)");
 VoiceEVSPlay(1);
 VoicePlay("Q070101000_01_000");
@@ -89,7 +89,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 ChOpen(7,254,0,2,0,#1,#1,0,2);
-MsgDisp("主人公","Ah, Mikage sensei......");
+MsgDisp("主人公","Ah, Mikage sensei...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -119,7 +119,7 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("Q070101000_07_030");
-MsgDisp("Mikage","Uh...... that's certainly something.
+MsgDisp("Mikage","Uh... that's certainly something.
 But give up, and return, for your sake.");
 ChEye(1,2);
 ChMouth(1,0);
@@ -170,13 +170,13 @@ StlEye(1,1);
 StlMouth(1,1);
 BGMPlay("BGM_C01_RYOUTA_D",0.01);
 ScrFadeIn(4,120);
-MsgDisp("主人公","Wow...... so beautiful∈");
+MsgDisp("主人公","Wow... so beautiful∈");
 StlMouth(1,0);
 VoicePlay("Q070101000_01_070");
 MsgDisp("Kazama","Yeah, we should thank Mikage-sensei.");
 MsgDisp("主人公","Eh?
 Wait, you mean like, for the 12th
-floor......");
+floor...");
 StlEye(1,0);
 VoicePlay("Q070101000_01_080");
 MsgDisp("Kazama","Yeah.
@@ -213,7 +213,7 @@ StlMouth(1,0);
 VoicePlay("Q070101000_01_120");
 MsgDisp("Kazama","If they were always fun like this, monthly
 trips wouldn't be so bad.");
-MsgDisp("主人公","I mean......
+MsgDisp("主人公","I mean...
 Isn't it not just a trip, but a field
 trip?");
 StlEyeOpenLevel(1,5);
@@ -225,7 +225,7 @@ StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("Q070101000_01_140");
 MsgDisp("Kazama","My dream has come true.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("Q070101000_01_150");

@@ -17,8 +17,8 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Huh, it ended!?
 Since we're already here, we should've
 seen it through.");
-    MsgDisp("主人公","(A draw, huh......
-We were so close......)");
+    MsgDisp("主人公","(A draw, huh...
+We were so close...)");
     break ;
     case 3:
     ChEye(3,1);
@@ -27,8 +27,8 @@ We were so close......)");
     VoicePlay("O020300002_03_010");
     MsgDisp("Honda","Da, how close!
 Nice fight!");
-    MsgDisp("主人公","(A draw, huh......
-We were so close......)");
+    MsgDisp("主人公","(A draw, huh...
+We were so close...)");
     break ;
     case 4:
     case 5:
@@ -39,7 +39,7 @@ We were so close......)");
     MsgDisp("Honda","That was a close match.
 You didn't scrape or hurt your hand,
 right?");
-    MsgDisp("主人公","Ah, yeah......
+    MsgDisp("主人公","Ah, yeah...
 Sorry, even though you came to cheer me
 on.");
     ChEye(3,0);
@@ -53,7 +53,7 @@ on.");
     VoicePlay("O020300002_03_040");
     MsgDisp("Honda","I'm just glad I got to spend all this time
 seeing you doing your best.");
-    MsgDisp("主人公","(Ugh, how embarrassing......
+    MsgDisp("主人公","(Ugh, how embarrassing...
 But, I wanted to show you a win, rather
 than a draw.)");
     break ;

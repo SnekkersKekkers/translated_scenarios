@@ -4,7 +4,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710301_07_000");
-MsgDisp("Mikage","It's beautiful, isn't it......");
+MsgDisp("Mikage","It's beautiful, isn't it...");
 MsgDisp("主人公","Isn't it.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -33,7 +33,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020710301_07_040");
 MsgDisp("Mikage","Like this, without us even realizing it,
-our memories keep growing......");
+our memories keep growing...");
 MsgDisp("主人公","Yes.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -41,15 +41,15 @@ ChMotion(7,1);
 VoicePlay("G020710301_07_050");
 MsgDisp("Mikage","But you know, I'm afraid we might run out
 of places to keep them.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710301_07_060");
 MsgDisp("Mikage","It's nothing.
 Let's keep making lots of memories.");
-MsgDisp("主人公","(｛御影＊＊｝...... seemed a little lonely
-just now......)");
+MsgDisp("主人公","(｛御影＊＊｝... seemed a little lonely
+just now...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

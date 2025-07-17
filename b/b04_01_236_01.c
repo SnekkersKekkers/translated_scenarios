@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040123601_01_010");
-    MsgDisp("Kazama","ＯＫ!
+    MsgDisp("Kazama","OK!
 Next time we'll be front row.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

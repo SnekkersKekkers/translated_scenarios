@@ -8,5 +8,5 @@ ScrFadeIn(0);
 VoicePlay("B030607000_06_000");
 MsgDisp("Himuro","What do you want to look at today?");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Uhm......");
+MsgDisp("主人公","Uhm...");
 MsgDispSksp(0);

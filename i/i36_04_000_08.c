@@ -15,7 +15,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,35,0,0,4,#1,#1,0,0);
     VoicePlay("I360400008_04_000");
     MsgDisp("Nanatsumori","Hm?
-This apple compote......");
+This apple compote...");
     MsgDisp("主人公","Huh?");
     ChMouth(4,3);
     VoicePlay("I360400008_04_010");
@@ -41,7 +41,7 @@ recipe with the manager.");
     MsgDisp("Nanatsumori","Wow.
 No wonder I thought it was a little
 different than the usual Alucard stuff.");
-    MsgDisp("主人公","Huh, meaning......");
+    MsgDisp("主人公","Huh, meaning...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -69,7 +69,7 @@ I'm glad I worked hard at Alucard!)");
     VoicePlay("I360400008_04_070");
     MsgDisp("Nanatsumori","This texture and taste is perfect to me.
 And it goes super well with the ice cream.
-It's the best......");
+It's the best...");
     MsgDisp("主人公","Thank goodness, I'm glad!");
     ChEye(4,0);
     ChMouth(4,0);
@@ -82,13 +82,13 @@ recipe with the manager.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("I360400008_04_090");
-    MsgDisp("Nanatsumori","I get it......
+    MsgDisp("Nanatsumori","I get it...
 That's why it's delicious.");
     MsgDisp("主人公","?");
     ChMotion(4,0,1);
     VoicePlay("I360400008_04_100");
     MsgDisp("Nanatsumori","Because I felt all the love in it.");
-    MsgDisp("主人公","Huh......");
+    MsgDisp("主人公","Huh...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -105,10 +105,10 @@ a waitress is what I meant, of course.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400008_04_130");
-    MsgDisp("Nanatsumori","My, my......
+    MsgDisp("Nanatsumori","My, my...
 I'd be happy even if you said \"that's not
 it\", you know?");
-    MsgDisp("主人公","(｛七ツ森＊｝......
+    MsgDisp("主人公","(｛七ツ森＊｝...
 I'm glad I worked hard at Alucard!)");
     break ;
     default :

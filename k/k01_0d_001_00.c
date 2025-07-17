@@ -2,7 +2,7 @@ BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛みちる＊｝ and
-｛ひかる＊｝ are......
+｛ひかる＊｝ are...
 over there!)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -24,4 +24,4 @@ That makes Hikaru so happy♪");
 SEPlay("EV_SE_665");
 SEWait();
 MsgDisp("主人公","Here's a present.
-I hope you'll like it......");
+I hope you'll like it...");

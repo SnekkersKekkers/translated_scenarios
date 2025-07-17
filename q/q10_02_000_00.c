@@ -45,7 +45,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("Q100200000_02_050");
-MsgDisp("Sassa","......What's the heartstone?");
+MsgDisp("Sassa","...What's the heartstone?");
 MsgDisp("主人公","There's a heart-shaped stone on the
 seawall, and it's said that if you touch
 it, your love wish will come true.");
@@ -53,7 +53,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_060");
-MsgDisp("Sassa","Love wish......");
+MsgDisp("Sassa","Love wish...");
 MsgDisp("主人公","Seems like there're multiple of them.");
 ChEye(2,0);
 ChMouth(2,3);
@@ -84,7 +84,7 @@ VoicePlay("Q100200000_02_090");
 MsgDisp("Sassa","Me too.
 But each shop has different flavours, so
 what's your plan?");
-MsgDisp("主人公","Hmm, I can't make a choice......");
+MsgDisp("主人公","Hmm, I can't make a choice...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -108,6 +108,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(I'll be troubled if you count on
-me......!)");
+me...!)");
 MsgClose();
 ScrFadeOut(0,0);

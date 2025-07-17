@@ -44,18 +44,18 @@ ChEyeOpenLevel(7,8);
 VoicePlay("B360750201_07_040");
 MsgDisp("Mikage","Well, today was their fault.
 They left you alone and went home.");
-MsgDisp("主人公","No way......
+MsgDisp("主人公","No way...
 We just said goodbye normally.");
 ChEye(7,1);
 ChMouth(7,4);
 ChMotion(7,4);
 ChEyeOpenLevel(7,10);
 VoicePlay("B360750201_07_050");
-MsgDisp("Mikage","...... Geez, they're so easygoing.
+MsgDisp("Mikage","... Geez, they're so easygoing.
 If it was me I would stay until the very
 end～");
 MsgDisp("主人公","(｛御影＊＊｝ is always thinking about his
-students......)");
+students...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

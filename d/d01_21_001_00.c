@@ -2,7 +2,7 @@ BGOpen("ar500",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D012100100_21_000");
-MsgDisp("Michiru?","......There you are!");
+MsgDisp("Michiru?","...There you are!");
 MsgDisp("主人公","?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.5);
@@ -35,7 +35,7 @@ myself.");
 VoicePlay("D012100100_21_040");
 MsgDisp("Michiru","I wanted them to look pretty but also have
 a mild and sweet taste.");
-MsgDisp("主人公","I'm curious to know how they taste......!");
+MsgDisp("主人公","I'm curious to know how they taste...!");
 StlEyeOpenLevel(21,#1);
 VoicePlay("D012100100_21_050");
 MsgDisp("Michiru","Right?
@@ -46,9 +46,9 @@ VoicePlay("D012100100_21_060");
 MsgDisp("Michiru","Hehe. Of course. I prepared them for this
 reason, so please enjoy.");
 MsgDisp("主人公","Okay, thanks for the food!");
-MsgDisp("主人公",".........! ｛みちる＊｝,
+MsgDisp("主人公","......! ｛みちる＊｝,
 these are amazing! So yummy and the
-texture is completely new to me......!");
+texture is completely new to me...!");
 StlEye(21,1);
 VoicePlay("D012100100_21_070");
 MsgDisp("Michiru","What a relief!
@@ -59,18 +59,18 @@ MsgDisp("主人公","Hehe!
 Hey, why don't you try too?");
 StlEyeOpenLevel(21,5);
 VoicePlay("D012100100_21_080");
-MsgDisp("Michiru","Okay, just one bite......");
+MsgDisp("Michiru","Okay, just one bite...");
 SEPlay("EV_SE_667");
 StlNear(1,0,0);
 StlMouth(21,1);
 Wait(20,0);
 StlEye(21,1);
 VoicePlay("D012100100_21_090");
-MsgDisp("Michiru","...... Mmm, delicious!
+MsgDisp("Michiru","... Mmm, delicious!
 I'd say it's a great success▼");
 MsgDisp("主人公","(｛みちる＊｝ looks really happy! I think
 these sweets will be successful! As
-expected of ｛みちる＊｝......!)");
+expected of ｛みちる＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

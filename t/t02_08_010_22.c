@@ -9,25 +9,25 @@ ChMotion(8,5,1);
 ChEyeOpenLevel(8,10);
 ChCheek(8,10);
 MsgDisp("Shirahane","Wa-∋");
-MsgDisp("主人公","This, is my answer. ......did you receive
+MsgDisp("主人公","This, is my answer. ...did you receive
 it?");
 VoicePlay("T020801000_08_310");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,4,1);
-MsgDisp("Shirahane","Well, I definitely got it but......");
+MsgDisp("Shirahane","Well, I definitely got it but...");
 VoicePlay("T020801000_08_320");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
 MsgDisp("Shirahane","I can't beat you.
-I still have to work hard.......");
+I still have to work hard....");
 MsgDisp("主人公","Hehe!");
 VoicePlay("T020801000_08_330");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,3,1);
-MsgDisp("Shirahane","Haa......
+MsgDisp("Shirahane","Haa...
 I wonder if I'll be like this even when I
 go to university.");
 VoicePlay("T020801000_08_340");

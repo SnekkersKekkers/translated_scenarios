@@ -51,7 +51,7 @@ that.)");
     ChNanaType(0);
     ChOpen(4,254,2,0,0,0,0,0,0);
     VoicePlay("F010400001_04_030");
-    MsgDisp("Nanatsumori","......");
+    MsgDisp("Nanatsumori","...");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);

@@ -25,8 +25,8 @@ on, not to comfort you.");
     MsgDisp("Himuro","I'll be expecting lots from the team
 members that you've supported up until
 now.");
-    MsgDisp("主人公","......Yeah!");
-    MsgDisp("主人公","(Alright, let's do our best......!)");
+    MsgDisp("主人公","...Yeah!");
+    MsgDisp("主人公","(Alright, let's do our best...!)");
     break ;
     case 4:
     case 5:
@@ -49,13 +49,13 @@ Of course I'm here to support you.");
     VoicePlay("H280600000_06_050");
     MsgDisp("Himuro","You've entrusted your dreams to the team,
 right?");
-    MsgDisp("主人公","Ah...... yeah!");
+    MsgDisp("主人公","Ah... yeah!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("H280600000_06_060");
-    MsgDisp("Himuro","......That makes me a little jealous.");
+    MsgDisp("Himuro","...That makes me a little jealous.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
     ChMouth(6,4);

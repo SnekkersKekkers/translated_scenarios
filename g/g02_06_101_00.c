@@ -5,12 +5,12 @@ ChMotion(6,0);
 VoicePlay("G020610100_06_000");
 MsgDisp("Himuro","The reason fireflies glow is because the
 males are proposing to the females.");
-MsgDisp("主人公","Ehh......!");
+MsgDisp("主人公","Ehh...!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610100_06_010");
-MsgDisp("Himuro","There are probably other reasons too......
+MsgDisp("Himuro","There are probably other reasons too...
 but at least the fireflies here look like
 they're in the middle of courtship.");
 ChEye(6,0);
@@ -37,9 +37,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020610100_06_050");
-MsgDisp("Himuro","I don't intend to lose either, but......
+MsgDisp("Himuro","I don't intend to lose either, but...
 it's frustrating having a handicap.");
-MsgDisp("主人公","｛氷室＊＊｝......?");
+MsgDisp("主人公","｛氷室＊＊｝...?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -57,7 +57,7 @@ ChMotion(6,0);
 VoicePlay("G020610100_06_080");
 MsgDisp("Himuro","Not just the fireflies, but us too.");
 MsgDisp("主人公","(I feel like I just heard something really
-significant......?)");
+significant...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,7 +6,7 @@ ChOpen(8,35,4,2,2,#1,#1,0,0);
 ScrFadeIn(0);
 ChEyeOpenLevel(8,0);
 VoicePlay("D020800200_08_000");
-MsgDisp("Shirahane","Ahh, this sucks......
+MsgDisp("Shirahane","Ahh, this sucks...
 Exams are soon.");
 MsgDisp("主人公","Oh, you're right.
 I have to study soon too.");
@@ -22,7 +22,7 @@ ChMouth(8,1);
 ChMotion(8,3,1);
 VoicePlay("D020800200_08_020");
 MsgDisp("Shirahane","Don't laugh!
-Sighー......");
+Sighー...");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);
@@ -37,7 +37,7 @@ ChMotion(8,0,1);
 VoicePlay("D020800200_08_040");
 MsgDisp("Shirahane","Isn't it?
 But I've never actually seen one.");
-MsgDisp("主人公","Now that you mention it......
+MsgDisp("主人公","Now that you mention it...
 Haba High also has something called the
 \"Perfect Score Anpan\".");
 MsgDisp("主人公","It also makes you smarter.
@@ -50,13 +50,13 @@ VoicePlay("D020800200_08_050");
 MsgDisp("Shirahane","∈ You can get it somehow?");
 MsgDisp("主人公","Hmm.
 It seems to be rare.
-But this is just a rumor, so......");
+But this is just a rumor, so...");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800200_08_060");
 MsgDisp("Shirahane","Maybe I need to sneak into Haba High and
-see if I can find it......");
+see if I can find it...");
 MsgDisp("主人公","(Ehh∋)");
 BGMStop();
 MsgClose();

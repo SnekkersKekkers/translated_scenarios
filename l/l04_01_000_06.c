@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("L040100006_01_000");
-    MsgDisp("Kazama","You know, this......");
+    MsgDisp("Kazama","You know, this...");
     MsgDisp("主人公","It's handmade, if you're wondering.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -16,7 +16,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("L040100006_01_010");
     MsgDisp("Kazama","Ah, I know that.
 They wouldn't sell something like this.");
-    MsgDisp("主人公","Um......");
+    MsgDisp("主人公","Um...");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,0);
@@ -32,8 +32,8 @@ good to play with food.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Ugh......
-I should've tried harder......)");
+    MsgDisp("主人公","(Ugh...
+I should've tried harder...)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -68,8 +68,8 @@ edible.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Ugh......
-I should've tried harder......)");
+    MsgDisp("主人公","(Ugh...
+I should've tried harder...)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -79,8 +79,8 @@ I should've tried harder......)");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("L040100006_01_080");
-    MsgDisp("Kazama","This...... is chocolate, right?");
-    MsgDisp("主人公","Yeah......
+    MsgDisp("Kazama","This... is chocolate, right?");
+    MsgDisp("主人公","Yeah...
 It's homemade chocolate.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -88,7 +88,7 @@ It's homemade chocolate.");
     VoicePlay("L040100006_01_090");
     MsgDisp("Kazama","It's a chocolate that I can tell you put a
 lot of effort into.
-But well, the result is kind of......");
+But well, the result is kind of...");
     MsgDisp("主人公","I did do my best, sorry.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -96,9 +96,9 @@ But well, the result is kind of......");
     VoicePlay("L040100006_01_100");
     MsgDisp("Kazama","It's kind of like your alter ego.
 I like it.");
-    MsgDisp("主人公","｛風真＊＊｝...... thank you.
+    MsgDisp("主人公","｛風真＊＊｝... thank you.
 But, calling me and the chocolate alike is
-a little......");
+a little...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -115,9 +115,9 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Ha......
+    MsgDisp("主人公","(Ha...
 I wish I gave him a better
-chocolate......)");
+chocolate...)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -59,7 +59,7 @@ soaked.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040206302_02_050");
-        MsgDisp("Sassa","Today, somehow......
+        MsgDisp("Sassa","Today, somehow...
 You sound like a mother.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
@@ -87,7 +87,7 @@ when I was a kid.");
         ChOpen(2,255,0,4,2,#1,#1,0,0);
         VoicePlay("B040206302_02_070");
         MsgDisp("Sassa","Y-Yeah.
-That was dangerous......");
+That was dangerous...");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -100,7 +100,7 @@ Let's go!");
         ChClose(2);
         SEPlay("EV_SE_533");
         SEWait();
-        MsgDisp("主人公","(That squishing sound......?
+        MsgDisp("主人公","(That squishing sound...?
 ｛颯砂＊＊｝, did your shoes get
 wet?)");
         break ;

@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030620000_06_000");
-MsgDisp("Himuro","It's sunny......");
+MsgDisp("Himuro","It's sunny...");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

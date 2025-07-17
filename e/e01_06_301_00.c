@@ -2,7 +2,7 @@ BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
-...... Huh?)");
+... Huh?)");
 VoiceEVSPlay(6);
 VoicePlay("E010630100_06_000");
 MsgDisp("Himuro?","｛主人公｝, what a
@@ -10,7 +10,7 @@ coincidence.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah......
+MsgDisp("主人公","Ah...
 ｛氷室＊＊｝!
 Were you out shopping?");
 ChEye(6,0);
@@ -20,7 +20,7 @@ VoicePlay("E010630100_06_010");
 MsgDisp("Himuro","No, I'm meeting someone.
 It's 30 minutes before the appointment, so
 he should be here by now.");
-MsgDisp("主人公","Eh, 30 minutes early......?");
+MsgDisp("主人公","Eh, 30 minutes early...?");
 ChPosition(6,1);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -34,7 +34,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("E010630100_06_020");
-MsgDisp("Himuro","Kojiro-senpai......
+MsgDisp("Himuro","Kojiro-senpai...
 Why are you here?");
 MsgDisp("主人公","Huh?
 Isn't ｛御影＊＊｝ the
@@ -78,7 +78,7 @@ VoicePlay("E010630100_32_010");
 MsgDisp("VP Himuro","The promise is to not wander around the
 school in overalls.");
 MsgDisp("主人公","Himuro-sensei ∋
-Ah, so the person you're meeting is......");
+Ah, so the person you're meeting is...");
 VoicePlay("E010630100_06_050");
 ChEye(6,0);
 ChMouth(6,0);
@@ -88,7 +88,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010630100_07_040");
-MsgDisp("Mikage","Ah-...... what a coincidence.
+MsgDisp("Mikage","Ah-... what a coincidence.
 I can't believe we ran into each other
 here.");
 ChEye(7,5);
@@ -107,7 +107,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010630100_07_060");
-MsgDisp("Mikage","Y-Yes......");
+MsgDisp("Mikage","Y-Yes...");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("E010630100_32_030");
@@ -116,8 +116,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010630100_07_070");
-MsgDisp("Mikage","......Yes.");
-MsgDisp("主人公","(｛御影＊＊｝ is in trouble......)");
+MsgDisp("Mikage","...Yes.");
+MsgDisp("主人公","(｛御影＊＊｝ is in trouble...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

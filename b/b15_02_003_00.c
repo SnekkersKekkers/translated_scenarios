@@ -22,7 +22,7 @@ ChMotion(2,0);
 VoicePlay("B150200300_02_020");
 MsgDisp("Sassa","I don't understand anymore...
 If you do it like that to me...");
-MsgDisp("主人公","｛颯砂＊＊｝......?");
+MsgDisp("主人公","｛颯砂＊＊｝...?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

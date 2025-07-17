@@ -11,7 +11,7 @@ VoicePlay("G020110305_01_010");
 MsgDisp("Kazama","I went to England in the first grade of
 elementary school, and when you weren't
 there, every day felt so long.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -25,7 +25,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110305_01_030");
-MsgDisp("Kazama","......But when I became a middle schooler,
+MsgDisp("Kazama","...But when I became a middle schooler,
 you know, that adolescent age?");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(1,4);
@@ -36,13 +36,13 @@ VoicePlay("G020110305_01_040");
 MsgDisp("Kazama","I started feeling like each day was long
 again and began planning my return here.");
 MsgDisp("主人公","｛風真＊＊｝, you're
-amazing...... being able to plan and
+amazing... being able to plan and
 execute what you think of.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("G020110305_01_050");
-MsgDisp("Kazama","Hm? ......You said that like it was
+MsgDisp("Kazama","Hm? ...You said that like it was
 concerning someone else. Well, it's fine.");
 ChEye(1,2);
 ChMouth(1,3);
@@ -70,7 +70,7 @@ VoicePlay("G020110305_01_080");
 MsgDisp("Kazama","Ah, time really did stop just once, right?
 Behind the curtains in the classroom.");
 MsgDisp("主人公","Ah, yeah.
-That time, ｛風真＊＊｝......");
+That time, ｛風真＊＊｝...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -91,7 +91,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110305_01_110");
 MsgDisp("Kazama","You better be ready too.");
-MsgDisp("主人公","(He isn't......serious, right?)");
+MsgDisp("主人公","(He isn't...serious, right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

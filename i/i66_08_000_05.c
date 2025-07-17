@@ -14,7 +14,7 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,3);
     VoicePlay("I660800005_08_000");
     MsgDisp("Shirahane","Okay, lemme check.
-...... Full marks!");
+... Full marks!");
     MsgDisp("主人公","Yes!");
     VoicePlay("I660800005_39_000");
     MsgDisp("Male Customer","Ooh!
@@ -57,7 +57,7 @@ Lemme check.");
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800005_08_050");
     MsgDisp("Shirahane","Ooh!
-Not a single smudge in sight......
+Not a single smudge in sight...
 A full 100 points!");
     ChEyeOpenLevel(8,#1);
     MsgDisp("主人公","Yay!");
@@ -71,7 +71,7 @@ My car looks good as new∋");
     MsgDisp("Shirahane","Leave it t'us!
 With her techniques, any car can look good
 as new～!");
-    MsgDisp("主人公","That's......");
+    MsgDisp("主人公","That's...");
     VoicePlay("I660800005_39_030");
     MsgDisp("Male Customer","It really is amazing.
 I'll ask for you again, pretty lady.");
@@ -93,7 +93,7 @@ Well, I'll ask for her again next time!");
     ChMotion(8,0,1);
     VoicePlay("I660800005_08_080");
     MsgDisp("Shirahane","Ah no. Can't let my guard down when you're
-doing this good. I'm in trouble......");
+doing this good. I'm in trouble...");
     MsgDisp("主人公","(So he's saying I'm doing well?
 But I wonder why he needs his guard up?)");
     break ;

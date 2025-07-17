@@ -36,7 +36,7 @@ MsgDisp("Honda","Yeah, yeah, right.
 This result was thanks to your support.
 You worked hard these past three years!");
 MsgDisp("主人公","(I'm glad that I stayed as the track and
-field club manager......!)");
+field club manager...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

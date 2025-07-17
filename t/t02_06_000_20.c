@@ -16,7 +16,7 @@ ChMouth(6,4);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,7);
-MsgDisp("Himuro","......Thank you.");
+MsgDisp("Himuro","...Thank you.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020600000_06_230");
 ChEye(6,4);

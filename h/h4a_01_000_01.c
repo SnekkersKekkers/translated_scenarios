@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H4A0100001_01_000");
     MsgDisp("Kazama","Good work.
 You did your best.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝......");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -51,7 +51,7 @@ feels.)");
     VoiceEVSPlay(1);
     VoicePlay("H4A0100001_01_040");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝......
+    MsgDisp("主人公","Ah, ｛風真＊＊｝...
 Sorry you came all this way to see that.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -60,7 +60,7 @@ Sorry you came all this way to see that.");
     MsgDisp("Kazama","Why are you apologizing?
 I got to see a great performance.
 Thank you.");
-    MsgDisp("主人公","Even though I messed up a lot......");
+    MsgDisp("主人公","Even though I messed up a lot...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0,1);
@@ -73,7 +73,7 @@ to me, you were the best.");
     VoicePlay("H4A0100001_01_070");
     MsgDisp("Kazama","Is that not enough?");
     MsgDisp("主人公","Thank you.
-But it's still frustrating......");
+But it's still frustrating...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1,0,30);
     ChLayout(0);
@@ -98,10 +98,10 @@ I'm glad you came, ｛風真＊＊｝.");
     VoicePlay("H4A0100001_01_100");
     MsgDisp("Kazama","That's the face I wanted to see.
 Come on, let's go.");
-    MsgDisp("主人公","......Yeah!");
+    MsgDisp("主人公","...Yeah!");
     MsgDisp("主人公","(I'm frustrated that I didn't win,
-but...... I worked hard. Thank you,
-｛風真＊＊｝......)");
+but... I worked hard. Thank you,
+｛風真＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

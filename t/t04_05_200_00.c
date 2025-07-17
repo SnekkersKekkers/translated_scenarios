@@ -6,7 +6,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("T040520000_05_000");
 MsgDisp("Hiiragi","I have a lot of memories in the student
-council room as well. ......Do you
+council room as well. ...Do you
 remember? When we made posters. And how
 happy Mikage-sensei was too when we put
 them up?");

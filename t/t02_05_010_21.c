@@ -5,9 +5,9 @@ Wait(60,0);
 ChEyeOpenLevel(5,#1);
 VoiceEVSPlay(5);
 VoicePlay("T020501021_05_000");
-MsgDisp("Hiiragi","｛主人公｝, that......");
+MsgDisp("Hiiragi","｛主人公｝, that...");
 MsgDisp("主人公","Because I couldn't put it into words
-well......
+well...
 I too, like ｛柊＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -25,7 +25,7 @@ ChEyeOpenLevel(5,10);
 VoicePlay("T020501021_05_020");
 MsgDisp("Hiiragi","Thank you.
 And I got to see your smile so close.");
-MsgDisp("主人公","What......");
+MsgDisp("主人公","What...");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -41,7 +41,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020501021_05_040");
 MsgDisp("Hiiragi","Therefore, one more time——");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

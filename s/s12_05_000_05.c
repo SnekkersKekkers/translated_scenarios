@@ -22,7 +22,7 @@ switch (ChPrmGet(5,6)){
 Our last high school shrine visit, it was
 fun.");
     MsgDisp("主人公","My last year of high school, huh.
-I guess I'll be graduating soon......");
+I guess I'll be graduating soon...");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("S120500002_05_090");
@@ -48,7 +48,7 @@ See you later, then.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(Maybe ｛柊＊＊＊｝ was wishing
-for something more......?)");
+for something more...?)");
     break ;
     case 4:
     case 5:

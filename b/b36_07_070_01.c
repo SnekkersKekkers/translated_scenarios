@@ -11,14 +11,14 @@ ScrFadeIn(0);
 VoicePlay("B360707001_07_000");
 MsgDisp("Mikage","I'm so tired now～
 I wonder if those two got home
-safely......");
+safely...");
 MsgDisp("主人公","Maybe the two of them are playing
 together?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B360707001_07_010");
-MsgDisp("Mikage","What did you say? ......Geez, I can't
+MsgDisp("Mikage","What did you say? ...Geez, I can't
 forgive that. You're definitely getting a
 lecture tomorrow.");
 MsgDisp("主人公","Well, it's possible.");
@@ -42,7 +42,7 @@ VoicePlay("B360707001_07_040");
 MsgDisp("Mikage","It went away in an instant.");
 MsgDisp("主人公","(Sometimes ｛御影＊＊｝
 seems just like a high school
-student......)");
+student...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -23,7 +23,7 @@ there.");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("H5G0500000_05_030");
-MsgDisp("Hiiragi","Haa......
+MsgDisp("Hiiragi","Haa...
 I'll have to do with remembering hearing
 your practices at school.");
 MsgDisp("主人公","Hehe.

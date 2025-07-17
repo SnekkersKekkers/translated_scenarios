@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("J010500000_05_010");
     MsgDisp("Hiiragi","Yes.
 Is there anything you need?");
-    MsgDisp("主人公","Uhm, well......");
+    MsgDisp("主人公","Uhm, well...");
     break ;
     case 3:
     VoicePlay("J010500000_05_020");
@@ -24,7 +24,7 @@ Is there anything you need?");
     VoicePlay("J010500000_05_010");
     MsgDisp("Hiiragi","Yes.
 Is something the matter?");
-    MsgDisp("主人公","Uhm, well......");
+    MsgDisp("主人公","Uhm, well...");
     break ;
     case 4:
     case 5:
@@ -43,7 +43,7 @@ suddenly.");
     MsgDisp("Hiiragi","Isn't it?
 So, is there anything I can do for you
 today?");
-    MsgDisp("主人公","Uhm, well......");
+    MsgDisp("主人公","Uhm, well...");
     break ;
     default :
     DbgAssert(1);

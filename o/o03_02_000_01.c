@@ -16,16 +16,16 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,2);
     ChEyeOpenLevel(2,0);
     VoicePlay("O030200001_02_010");
-    MsgDisp("Sassa","......How frustrating.");
+    MsgDisp("Sassa","...How frustrating.");
     MsgDisp("主人公","(I wonder if we should've been in more
-sync......)");
+sync...)");
     break ;
     case 3:
     MsgClose();
     ChOpen(2,30,4,2,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200001_02_020");
-    MsgDisp("Sassa","Ugh, it's so frustrating......");
+    MsgDisp("Sassa","Ugh, it's so frustrating...");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -42,10 +42,10 @@ with me, ｛颯砂＊＊｝.");
     ChEyeOpenLevel(2,0);
     VoicePlay("O030200001_02_040");
     MsgDisp("Sassa","It was nothing.
-...... It's just that I wanted to share a
+... It's just that I wanted to share a
 win with you.");
     MsgDisp("主人公","(Yeah, we should've been in better
-sync......)");
+sync...)");
     break ;
     case 4:
     case 5:
@@ -53,7 +53,7 @@ sync......)");
     ChOpen(2,30,2,0,0,7,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200001_02_050");
-    MsgDisp("Sassa","Uwah, seriously......");
+    MsgDisp("Sassa","Uwah, seriously...");
     MsgDisp("主人公","｛颯砂＊＊｝, I'm sorry.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -64,7 +64,7 @@ I should've adjusted my stride.
 I was rushing like an idiot.");
     MsgDisp("主人公","Not at all.
 It would've been easier for you if you
-were alone, ｛颯砂＊＊｝......");
+were alone, ｛颯砂＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -87,7 +87,7 @@ were together.");
 together like this?
 -Wait, what am I saying?");
     MsgDisp("主人公","(I can't tell if ｛颯砂＊＊｝ is
-frustrated or not......)");
+frustrated or not...)");
     break ;
     default :
     DbgAssert(1);

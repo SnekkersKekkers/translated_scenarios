@@ -17,7 +17,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("D140D07091_21_000");
-MsgDisp("Michiru","Aah......
+MsgDisp("Michiru","Aah...
 I wanted to ask that too.
 We would do anything for Mari.");
 ChEye(22,2);
@@ -33,7 +33,7 @@ ChMotion(21,4);
 VoicePlay("D140D07091_21_010");
 MsgDisp("Michiru","I can sense a lot about the people around
 me, I think?");
-MsgDisp("主人公","Uhm......");
+MsgDisp("主人公","Uhm...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -41,7 +41,7 @@ VoicePlay("D140D07091_21_020");
 MsgDisp("Michiru","We may not be able to tell you everything,
 so please excuse us for that.");
 MsgDisp("主人公","(Are they maybe talking about
-｛大地＊＊｝......? )");
+｛大地＊＊｝...? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

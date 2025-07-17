@@ -1,7 +1,7 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah, my phone......
+MsgDisp("主人公","Ah, my phone...
 It's ｛ひかる＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
@@ -21,6 +21,6 @@ MsgDisp("Hikaru","If you really don't know, ask Hikaru.
 Okay?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(I wonder if I've hurt someone......)");
+MsgDisp("主人公","(I wonder if I've hurt someone...)");
 MsgClose();
 ScrFadeOut(0,0);

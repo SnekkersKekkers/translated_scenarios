@@ -1,6 +1,6 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, nice weather......)");
+MsgDisp("主人公","(Ah, nice weather...)");
 MsgClose();
 SEPlay("EV_SE_625");
 SEWait();
@@ -58,7 +58,7 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200802_02_060");
 MsgDisp("Sassa","But recently, I've suddenly had a vision
-of you milking a cow......");
+of you milking a cow...");
 MsgDisp("主人公","Ehhh-∋
 W-What is that?");
 ChEye(2,1);
@@ -67,7 +67,7 @@ ChMotion(2,1);
 VoicePlay("G110200802_02_070");
 MsgDisp("Sassa","You looked like you were having so much
 fun milking it.
-It was troubling......");
+It was troubling...");
 SEStop("EV_SE_FOOT_037",1.5);
 MsgClose();
 ScrFadeOut(0);
@@ -81,15 +81,15 @@ VoicePlay("G110200802_02_080");
 MsgDisp("Sassa","I wonder if there's anything I can do
 about this?");
 MsgDisp("主人公","I'm troubled now that you've told me
-that......");
+that...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G110200802_02_090");
-MsgDisp("Sassa","Yeah...... It was strangely relaxing, but
+MsgDisp("Sassa","Yeah... It was strangely relaxing, but
 it was weird to think about that whilst
-running......");
+running...");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(50,0);
 ChEye(2,0);
@@ -98,14 +98,14 @@ ChMotion(2,0);
 VoicePlay("G110200802_02_100");
 MsgDisp("Sassa","Oh, sorry.
 I'm such an idiot.
-I'll try my best to forget about it......");
+I'll try my best to forget about it...");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_626");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Did I really look like I was having so
-much fun milking the cow......)");
+much fun milking the cow...)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

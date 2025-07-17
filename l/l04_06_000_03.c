@@ -6,7 +6,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,5,1);
     VoicePlay("L040600003_06_000");
-    MsgDisp("Himuro","......I didn't think it'd be handmade.");
+    MsgDisp("Himuro","...I didn't think it'd be handmade.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);
@@ -63,12 +63,12 @@ Thanks for the snack.");
     ChMouth(6,0);
     ChMotion(6,5,1);
     VoicePlay("L040600003_06_060");
-    MsgDisp("Himuro","Wah, handmade......");
+    MsgDisp("Himuro","Wah, handmade...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("L040600003_06_070");
-    MsgDisp("Himuro","And...... my taste.");
+    MsgDisp("Himuro","And... my taste.");
     MsgDisp("主人公","How is it?");
     ChEye(6,0);
     ChMouth(6,1);
@@ -83,13 +83,13 @@ You're pretty confident, aren't you?");
     VoicePlay("L040600003_06_090");
     MsgDisp("Himuro","It'd be weird if you weren't.
 Something this perfect is hard to make.");
-    MsgDisp("主人公","Um......
+    MsgDisp("主人公","Um...
 You're complimenting me, right?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("L040600003_06_100");
-    MsgDisp("Himuro","Ah...... yeah.");
+    MsgDisp("Himuro","Ah... yeah.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

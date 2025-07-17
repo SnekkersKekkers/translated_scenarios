@@ -15,7 +15,7 @@ VoicePlay("U100D00001_22_010");
 MsgDisp("Hikaru","Would you like to sleepover at our house
 tonight? It will be fun to have girl talk
 all night with sis♪");
-MsgSel("Ok, I'll go!","Sorry, I'm busy......");
+MsgSel("Ok, I'll go!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U100D00001_22_020");
@@ -29,17 +29,17 @@ Ok then, I'll get ready to come over okay?");
 A bientotー♪");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(A sleepover......
+    MsgDisp("主人公","(A sleepover...
 This will be fun!)");
     break ;
     case 1:
     VoicePlay("U100D00001_22_040");
-    MsgDisp("Hikaru","Ah～ n, that's unfortunate......
-Well then...... maybe another time?");
+    MsgDisp("Hikaru","Ah～ n, that's unfortunate...
+Well then... maybe another time?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Even though she went through the trouble
-of inviting me......
+of inviting me...
 Was that the right choice?)");
     break ;
     default :

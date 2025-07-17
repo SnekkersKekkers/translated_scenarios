@@ -2,7 +2,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140A03000_01_000");
-MsgDisp("Kazama","Haha......");
+MsgDisp("Kazama","Haha...");
 MsgDisp("主人公","｛風真＊＊｝, what's up?");
 ChEye(1,0);
 ChMouth(1,0);
@@ -62,7 +62,7 @@ VoicePlay("D140A03000_06_030");
 MsgDisp("Himuro","When just the sight of your beloved
 childhood friend makes you reflexively
 smile like that.");
-MsgDisp("主人公","Uhm......?");
+MsgDisp("主人公","Uhm...?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -104,9 +104,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03000_06_050");
 MsgDisp("Himuro","Huh?");
-MsgDisp("主人公","(Yep......
+MsgDisp("主人公","(Yep...
 I knew this seating arrangement would be
-weird......)");
+weird...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

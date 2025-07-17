@@ -19,10 +19,10 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("I562100006_21_010");
-MsgDisp("Michiru","Wait...... are you okay?");
+MsgDisp("Michiru","Wait... are you okay?");
 MsgDisp("主人公","I'm fine.
 But all the warabi mochi fell on the
-floor......");
+floor...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -30,7 +30,7 @@ VoicePlay("I562100006_21_020");
 MsgDisp("Michiru","Geez.
 This is because you tried to do everything
 with one hand.");
-MsgDisp("主人公","Uh, sorry......");
+MsgDisp("主人公","Uh, sorry...");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -38,7 +38,7 @@ VoicePlay("I562100006_21_030");
 MsgDisp("Michiru","Our products are the lifeblood of the
 store. We have to take care of them.
 Right?");
-MsgDisp("主人公","(Maybe I've been too relaxed......
+MsgDisp("主人公","(Maybe I've been too relaxed...
 I have to be more careful.)");
 BGMStop();
 MsgClose();

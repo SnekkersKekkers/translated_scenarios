@@ -14,12 +14,12 @@ MsgDisp("Mikage","Exactly. For such a nice place, it's just
 the two of us? It's strange that it's not
 crowded like a cherry blossom viewing
 spot.");
-MsgDisp("主人公","That's true......");
+MsgDisp("主人公","That's true...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710401_07_020");
-MsgDisp("Mikage","Maybe...... it's a singularity connected
+MsgDisp("Mikage","Maybe... it's a singularity connected
 to another world.");
 MsgDisp("主人公","Hehe, it's like a science fiction novel.");
 ChEye(7,0);
@@ -29,24 +29,24 @@ VoicePlay("G020710401_07_030");
 MsgDisp("Mikage","And every night, one couple is transported
 from here to another world.
 Finally, it's our turn.");
-MsgDisp("主人公","......Couple?");
+MsgDisp("主人公","...Couple?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710401_07_040");
-MsgDisp("Mikage","......That's what you focus on?");
+MsgDisp("Mikage","...That's what you focus on?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710401_07_050");
-MsgDisp("Mikage","Haa......
+MsgDisp("Mikage","Haa...
 I was quickly pulled back to the reality
 of Habataki City.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020710401_07_060");
-MsgDisp("Mikage","......Seriously, you didn't even try to go
+MsgDisp("Mikage","...Seriously, you didn't even try to go
 along with it for a bit longer.");
 MsgDisp("主人公","Um, okay, sure.
 A couple is fine then.");

@@ -10,7 +10,7 @@ ChMotion(1,1);
 VoicePlay("G020110300_01_010");
 MsgDisp("Kazama","With all these different colored lights
 floating around us, see, it's like we're
-slowly spinning......");
+slowly spinning...");
 MsgDisp("主人公","Yeah, it's like a ferris wheel.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -22,10 +22,10 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110300_01_030");
-MsgDisp("Kazama","......Speaking of ferris wheels, remember
+MsgDisp("Kazama","...Speaking of ferris wheels, remember
 the one at Habataki Land Town?");
-MsgDisp("主人公","Oh......yeah. The one where you kissed me
-on the forehead...... It was embarrassing
+MsgDisp("主人公","Oh...yeah. The one where you kissed me
+on the forehead... It was embarrassing
 with everyone watching.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -41,7 +41,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020110300_01_050");
 MsgDisp("Kazama","But I'll admit there were a bit too many
 people in the audience.");
-MsgDisp("主人公","Yeah......");
+MsgDisp("主人公","Yeah...");
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 Wait(10,0);
@@ -77,7 +77,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020110300_01_090");
 MsgDisp("Kazama","Looks like we've got an audience here too.");
-MsgDisp("主人公","(That caught me by surprise......
+MsgDisp("主人公","(That caught me by surprise...
 What's up with ｛風真＊＊｝
 today?)");
 BGMStop();

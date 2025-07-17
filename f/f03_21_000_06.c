@@ -42,7 +42,7 @@ VoicePlay("F032100000_21_320");
 MsgDisp("Michiru","This is the first time that we can be just
 like everyone else, and live our high
 school life. Thank you so much, Mari.");
-MsgDisp("主人公","(｛みちる＊｝......)");
+MsgDisp("主人公","(｛みちる＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

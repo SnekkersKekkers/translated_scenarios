@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(5,255,0,2,2,8,0,0,2);
 VoicePlay("B080501100_05_000");
-MsgDisp("Hiiragi","............");
+MsgDisp("Hiiragi","......");
 SEPlay("EV_SE_529");
 SEWait();
 MsgDisp("主人公","｛柊＊＊＊｝∋");

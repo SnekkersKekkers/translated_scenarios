@@ -36,7 +36,7 @@ So, what should I wear?)");
     MsgDisp("Honda","Of course!
 I'll be right there!");
     VoicePlay("S030300001_03_050");
-    MsgDisp("Honda","Oh, wait......
+    MsgDisp("Honda","Oh, wait...
 Girls take a while to get ready.");
     VoicePlay("S030300001_03_060");
     MsgDisp("Honda","I'll give you a bit more time.");

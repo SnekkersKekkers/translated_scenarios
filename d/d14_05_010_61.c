@@ -10,7 +10,7 @@ ChMouth(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140501061_05_010");
-MsgDisp("Hiiragi","Fuu......
+MsgDisp("Hiiragi","Fuu...
 I don't need a perfect mark.
 Average marks are enough.");
 ChMouth(5,4);

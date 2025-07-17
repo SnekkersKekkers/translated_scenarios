@@ -34,7 +34,7 @@ ChMotion(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_480");
 MsgDisp("Honda","Yeah, you're the most interesting.");
-MsgDisp("主人公","(Interesting, huh......
+MsgDisp("主人公","(Interesting, huh...
 Should I be happy about that?)");
 BGMStop();
 MsgClose();

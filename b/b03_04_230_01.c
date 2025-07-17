@@ -38,7 +38,7 @@ Alright, I'm ready.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("B030423001_04_030");
-    MsgDisp("Nanatsumori","ＯＫ.
+    MsgDisp("Nanatsumori","OK.
 We can take it easy.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -76,7 +76,7 @@ I want to look away, but...");
     VoicePlay("B030423001_04_060");
     MsgDisp("Nanatsumori","I'm turning on my serious switch too!
 My messed up hair will be a testament to
-my bravery......!");
+my bravery...!");
     break ;
     case 3:
     MsgDispSksp(1,0);

@@ -14,7 +14,7 @@ ChMotion(3,1);
 VoicePlay("G020310000_03_010");
 MsgDisp("Honda","Exactly!
 Normally, I'd take my time to observe them
-closely, but......");
+closely, but...");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -51,7 +51,7 @@ ChMotion(3,4);
 VoicePlay("G020310000_03_070");
 MsgDisp("Honda","That's why I want to watch you more and
 learn everything about you.");
-MsgDisp("主人公","｛本多＊＊｝......");
+MsgDisp("主人公","｛本多＊＊｝...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -60,7 +60,7 @@ VoicePlay("G020310000_03_080");
 MsgDisp("Honda","Ah!
 Maybe your expression is also a courtship
 display∋");
-MsgDisp("主人公","(That's a bit......too much......)");
+MsgDisp("主人公","(That's a bit...too much...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

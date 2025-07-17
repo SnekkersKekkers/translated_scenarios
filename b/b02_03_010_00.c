@@ -5,7 +5,7 @@ ChMotion(3,0,1);
 ChCheek(3,8);
 ScrFadeIn(0);
 VoicePlay("B020301000_03_000");
-MsgDisp("Honda",".........");
+MsgDisp("Honda","......");
 MsgDisp("主人公","Umm, ｛本多＊＊｝?
 It's a little embarrassing if you stare
 too much.");

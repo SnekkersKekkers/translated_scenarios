@@ -61,7 +61,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("A020250000_02_050");
 MsgDisp("Sassa","I've heard it from my parents, and from
-Ryota too......");
+Ryota too...");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -77,7 +77,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("A020250000_02_070");
-MsgDisp("Sassa","There was a girl like you......?
+MsgDisp("Sassa","There was a girl like you...?
 I dont't remember at all.");
 ChEye(1,0);
 ChMouth(1,1);
@@ -109,7 +109,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
 MsgDisp("主人公","Yeah, I don't remember much from
-kindergarten......");
+kindergarten...");
 ChEyeOpenLevel(1,8);
 ChEye(2,0);
 ChMouth(2,4);
@@ -170,7 +170,7 @@ MsgDisp("Kazama","Huh, looks like it's gonna get noisy
 around here.");
 MsgDisp("主人公","(So I'm not just childhood friends with
 ｛風真＊＊｝, but also with ｛颯砂＊＊｝.
-What a coincidence......)");
+What a coincidence...)");
 SEStop("EV_SE_SCHOOL_001");
 BGMStop();
 MsgClose();

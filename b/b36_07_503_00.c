@@ -23,7 +23,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B360750300_07_020");
-MsgDisp("Mikage","......Hm? Inori-kun too? He doesn't seem
+MsgDisp("Mikage","...Hm? Inori-kun too? He doesn't seem
 to like talking about this sort of thing,
 though.");
 MsgDisp("主人公","That might be true.");
@@ -58,7 +58,7 @@ VoicePlay("B360750300_07_060");
 MsgDisp("Mikage","Really?
 Those guys are so unique.");
 MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are
-probably sneezing somewhere......)");
+probably sneezing somewhere...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

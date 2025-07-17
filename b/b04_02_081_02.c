@@ -93,7 +93,7 @@ huh?");
         MsgDisp("Sassa","Eh?
 No, what am I saying?
 Forget it, I'm sorry!");
-        MsgDisp("主人公","(｛颯砂＊＊｝......)");
+        MsgDisp("主人公","(｛颯砂＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

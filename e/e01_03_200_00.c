@@ -1,7 +1,7 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Alright then, I guess it's about time to
 go home?)");
 VoicePlay("E010320000_01_000");
@@ -10,7 +10,7 @@ VoicePlay("E010320000_03_000");
 MsgDisp("Honda?","Here, look.
 Isn't that nice?
 The two of them are like a pair.");
-MsgDisp("主人公","Huh, those voices......
+MsgDisp("主人公","Huh, those voices...
 ｛本多＊＊｝ and
 ｛風真＊＊｝?");
 MsgClose();
@@ -36,7 +36,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010320000_01_020");
-MsgDisp("Kazama","You're laughing......");
+MsgDisp("Kazama","You're laughing...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -56,7 +56,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010320000_01_030");
 MsgDisp("Kazama","You guys are laughing right in front of
 the store.
-...... Geez.");
+... Geez.");
 MsgDisp("主人公","Ah, sorry.
 You're working part-time today?");
 ChEye(1,0);
@@ -116,7 +116,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("E010320000_03_050");
 MsgDisp("Honda","Yeah, you got to see it live.");
 VoicePlay("E010320000_47_000");
-MsgDisp("Woman Customer","Uhm, Kazama-kun, excuse me......");
+MsgDisp("Woman Customer","Uhm, Kazama-kun, excuse me...");
 ChSet(3,0);
 ChEye(1,3);
 ChMouth(1,2);
@@ -147,6 +147,6 @@ BGMStop();
 ChClose(3);
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(｛本多＊＊｝ went into the store again
-dressed like that......)");
+dressed like that...)");
 MsgClose();
 ScrFadeOut(0,0);

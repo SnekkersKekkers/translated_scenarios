@@ -67,7 +67,7 @@ But——");
     VoicePlay("S120500001_05_150");
     MsgDisp("Hiiragi","Even if you can't, I think I would want
 you to.");
-    MsgDisp("主人公","Uhm......");
+    MsgDisp("主人公","Uhm...");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("S120500001_05_160");
@@ -76,7 +76,7 @@ Happy New Years.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 Should I try being a bit more selfish this
 year?)");
     break ;

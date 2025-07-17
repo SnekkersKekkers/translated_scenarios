@@ -6,7 +6,7 @@ switch (ChPrmGet(8,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","Alright, alright......");
+    MsgDisp("主人公","Alright, alright...");
     VoicePlay("I660800000_39_000");
     MsgDisp("Male Customer","Wait, wait!");
     MsgDisp("主人公","Huh?");
@@ -17,7 +17,7 @@ careful.");
     VoicePlay("I660800000_45_000");
     MsgDisp("Woman Customer","Excuse me!
 The gas flap is still open!");
-    MsgDisp("主人公","Ah......
+    MsgDisp("主人公","Ah...
 I'm sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
@@ -29,7 +29,7 @@ I'm sorry!");
 Go close that gas flap, and then take care
 of the bill!");
     MsgDisp("主人公","｛大地＊＊｝, thank you.
-Sorry for the bother......");
+Sorry for the bother...");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -40,16 +40,16 @@ C'mon, hurry.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(8,0,30);
     SEWait();
-    MsgDisp("主人公","(I messed up......)");
+    MsgDisp("主人公","(I messed up...)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Alright, alright......");
+    MsgDisp("主人公","Alright, alright...");
     VoicePlay("I660800000_39_030");
     MsgDisp("Male Customer","Stop, stop!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_040");
-    MsgDisp("Male Customer","Geez...... look behind properly, my car's
+    MsgDisp("Male Customer","Geez... look behind properly, my car's
 right there!");
     MsgDisp("主人公","I'm so sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
@@ -71,7 +71,7 @@ understand!");
     ChMotion(8,0,1);
     VoicePlay("I660800000_08_030");
     MsgDisp("Shirahane","You okay?");
-    MsgDisp("主人公","Yeah......
+    MsgDisp("主人公","Yeah...
 Sorry to bother you.");
     ChEye(8,3);
     ChMouth(8,3);
@@ -80,7 +80,7 @@ Sorry to bother you.");
     MsgDisp("Shirahane","Don't rush and look around properly and
 you'll be fine.
 'Kay?");
-    MsgDisp("主人公","(｛大地＊＊｝......
+    MsgDisp("主人公","(｛大地＊＊｝...
 I'll have to be more careful from now on.)");
     break ;
     default :

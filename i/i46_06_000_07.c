@@ -30,7 +30,7 @@ sensitive plants.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600007_06_020");
-    MsgDisp("Himuro","Hmm......");
+    MsgDisp("Himuro","Hmm...");
     MsgDisp("主人公","｛氷室＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -57,7 +57,7 @@ further from the fresh ones.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600007_06_050");
-    MsgDisp("Himuro","Ah......
+    MsgDisp("Himuro","Ah...
 To keep them away from the high
 temperatures and humidity, huh.");
     MsgDisp("主人公","Right.
@@ -72,13 +72,13 @@ sun, too.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600007_06_070");
-    MsgDisp("Himuro","............");
+    MsgDisp("Himuro","......");
     MsgDisp("主人公","What is it?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600007_06_080");
-    MsgDisp("Himuro","Nothing...... Just thinking that even
+    MsgDisp("Himuro","Nothing... Just thinking that even
 though I've been here longer than you, I'm
 the one being taught.");
     MsgDisp("主人公","Hehe.");

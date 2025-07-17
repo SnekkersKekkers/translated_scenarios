@@ -1,7 +1,7 @@
 BGOpen("ex110",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Today there's a track meet......
+MsgDisp("主人公","(Today there's a track meet...
 I wish everyone the best.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
@@ -59,14 +59,14 @@ ScrFadeIn(0);
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200600_02_030");
-MsgDisp("Sassa","Ha, ha, ha......");
+MsgDisp("Sassa","Ha, ha, ha...");
 MsgDisp("主人公","Making good time!");
-MsgDisp("主人公","(Yeah, the jumps are smooth......
+MsgDisp("主人公","(Yeah, the jumps are smooth...
 He's got a good rhythm too!)");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200600_02_040");
-MsgDisp("Sassa","Ha, ha, ha......");
+MsgDisp("Sassa","Ha, ha, ha...");
 MsgDisp("主人公","｛颯砂＊＊｝, try your best!");
 SEStop("EV_SE_614",2);
 MsgClose();
@@ -108,5 +108,5 @@ MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Ever since ｛颯砂＊＊｝ got
 encouraged from his senpai, his time keeps
-improving......!)");
+improving...!)");
 ChPrmTblAdd(2,0);

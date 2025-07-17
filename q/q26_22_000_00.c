@@ -15,7 +15,7 @@ VoicePlay("Q262200000_22_010");
 MsgDisp("Hikaru","It really is heart-thumping.
 What if it was a guy?");
 MsgDisp("主人公","(So that was
-｛ひかる＊｝......)");
+｛ひかる＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(22,0,0);

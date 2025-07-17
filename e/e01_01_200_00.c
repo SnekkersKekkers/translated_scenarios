@@ -48,7 +48,7 @@ ChMotion(6,0);
 VoicePlay("E010120000_06_030");
 MsgDisp("Himuro","Right back at you, Ryota-senpai.
 Heh, so that's how it is?");
-MsgDisp("主人公","Hum......
+MsgDisp("主人公","Hum...
 What are you guys doing here?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -69,7 +69,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("E010120000_01_050");
-MsgDisp("Kazama","Uhh......
+MsgDisp("Kazama","Uhh...
 Got it.");
 ChEyeOpenLevel(1,0);
 ChEye(6,0);
@@ -85,7 +85,7 @@ ChMotion(1,0);
 VoicePlay("E010120000_01_060");
 MsgDisp("Kazama","Hey.
 Inori, confidentiality.");
-MsgDisp("主人公","Err......
+MsgDisp("主人公","Err...
 It looks like you guys have stuff to talk
 about, so I'll pass.");
 ChEye(1,2);

@@ -13,7 +13,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("S060600001_06_010");
     MsgDisp("Himuro","Fine feathers make fine birds.");
-    MsgDisp("主人公","Uh......");
+    MsgDisp("主人公","Uh...");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);
@@ -46,7 +46,7 @@ I'm so glad I wore my kimono.)");
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("S060600001_06_050");
-    MsgDisp("Himuro","......It's crazy.");
+    MsgDisp("Himuro","...It's crazy.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -61,7 +61,7 @@ Is that so?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S060600001_06_070");
-    MsgDisp("Himuro","Yeah......
+    MsgDisp("Himuro","Yeah...
 That's how well it suits you.");
     ChEye(6,0);
     ChMouth(6,4);

@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yay, it's lunch time!
 What shall I do?
-...... Ah, it's ｛柊＊＊＊｝.)");
+... Ah, it's ｛柊＊＊＊｝.)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,254,0,0,4,#1,#1,0,0);
@@ -62,7 +62,7 @@ Wait(10,0);
 ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500400_05_040");
-MsgDisp("Hiiragi","You too. ......Or, so I'd like to say. But
+MsgDisp("Hiiragi","You too. ...Or, so I'd like to say. But
 I don't think there's any need to worry.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
@@ -89,7 +89,7 @@ ChEyeOpenLevel(5,12);
 VoicePlay("G110500400_05_070");
 MsgDisp("Hiiragi","That's a great thing.
 I easily lose track of what's outside.");
-MsgDisp("主人公","Though...... My paintings and
+MsgDisp("主人公","Though... My paintings and
 ｛柊＊＊＊｝ 's work can't just
 be lumped in as the same?");
 ChEyeOpenLevel(5,0);
@@ -107,14 +107,14 @@ MsgDisp("Hiiragi","It's quite difficult to simultaneously
 devote yourself to art and consider those
 around you.");
 MsgDisp("主人公","｛柊＊＊＊｝, thank you.
-But, when you say that......");
+But, when you say that...");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500400_05_100");
 MsgDisp("Hiiragi","Haha, maybe I praised you a bit much?");
-MsgDisp("主人公","Yeah......but, I'm happy.");
+MsgDisp("主人公","Yeah...but, I'm happy.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

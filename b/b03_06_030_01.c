@@ -5,7 +5,7 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030603001_06_000");
-MsgDisp("Himuro","Waterpark, huh......");
+MsgDisp("Himuro","Waterpark, huh...");
 MsgSel("Let's go to the aquarium.","The waterpark sounds nice");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,2);
     ChMotion(6,2);
     VoicePlay("B030603001_06_020");
-    MsgDisp("Himuro","I had a feeling......");
+    MsgDisp("Himuro","I had a feeling...");
     MsgDispSksp(0);
     break ;
     default :

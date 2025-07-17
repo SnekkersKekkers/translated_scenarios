@@ -15,7 +15,7 @@ ChMotion(21,0);
 VoicePlay("H7G2100000_21_010");
 MsgDisp("Michiru","Of course.
 The news came straight away from uncle.");
-MsgDisp("主人公","Uncle......
+MsgDisp("主人公","Uncle...
 Ah, Goro-sensei!");
 ChEye(21,4);
 ChMouth(21,3);

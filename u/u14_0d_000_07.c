@@ -14,7 +14,7 @@ StlMouth(21,0);
 VoicePlay("U140D00007_21_000");
 MsgDisp("Michiru","The two of you really do seem to get along
 well.
-I'm a bit jealous......");
+I'm a bit jealous...");
 StlEye(22,2);
 VoicePlay("U140D00007_22_010");
 MsgDisp("Hikaru","Aha♪

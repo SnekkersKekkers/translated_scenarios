@@ -5,7 +5,7 @@ MsgDisp("Clerk","Thanks for your patronage!");
 MsgDisp("主人公","(Yeah, I think I got some good deals.)");
 VoicePlay("D010300000_03_000");
 MsgDisp("Honda?","Over here!");
-MsgDisp("主人公","That voice is......");
+MsgDisp("主人公","That voice is...");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,0,3,0,#1,#1,0,0,0,60);
@@ -117,9 +117,9 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("D010300000_03_130");
-MsgDisp("Honda","...... Wait.
+MsgDisp("Honda","... Wait.
 I think you may be the first person I've
-told this besides my sister......?");
+told this besides my sister...?");
 MsgDisp("主人公","(Thank you, ｛本多＊＊｝.
 For sharing your precious memories with
 me.)");

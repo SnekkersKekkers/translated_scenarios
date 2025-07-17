@@ -37,7 +37,7 @@ Thanks!");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_460");
     MsgDisp("Honda","The manager wanted to change the shelf
-layout a little......");
+layout a little...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -65,7 +65,7 @@ been recognized.");
     VoicePlay("I260300000_03_500");
     MsgDisp("Honda","I want to hear your opinion, too.
 Keep it up!");
-    MsgDisp("主人公","(My hard work has been recognized......
+    MsgDisp("主人公","(My hard work has been recognized...
 I'm so happy!)");
     break ;
     default :

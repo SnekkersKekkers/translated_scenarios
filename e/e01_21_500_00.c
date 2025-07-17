@@ -2,7 +2,7 @@ BGOpen("ne100",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Alright then.
-It's time to go home......)");
+It's time to go home...)");
 VoicePlay("E012150000_21_000");
 MsgDisp("Michiru?","Are you just heading out?");
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
@@ -29,7 +29,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(21);
 MsgDisp("主人公","(I see.
 I guess sometimes models can get called in
-on short notice......)");
+on short notice...)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -38,7 +38,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 ChOpen(21,255,0,0,0,#1,#1,0,0,0,30);
 VoicePlay("E012150000_21_030");
-MsgDisp("Michiru","Pant, pant......");
+MsgDisp("Michiru","Pant, pant...");
 MsgDisp("主人公","Huh?
 ｛みちる＊｝, what's
 wrong?");
@@ -46,7 +46,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("E012150000_21_040");
-MsgDisp("Michiru","Sigh......
+MsgDisp("Michiru","Sigh...
 I'm so forgetful.");
 ChEye(21,4);
 ChMouth(21,0);
@@ -55,7 +55,7 @@ VoicePlay("E012150000_21_050");
 MsgDisp("Michiru","Here, take this.");
 SEPlay("EV_SE_520",0.1,0.5);
 SEWait();
-MsgDisp("主人公","......Sweets?");
+MsgDisp("主人公","...Sweets?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -81,7 +81,7 @@ peace. Okay, see you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);
-MsgDisp("主人公","(｛みちる＊｝ is so polite......
+MsgDisp("主人公","(｛みちる＊｝ is so polite...
 Hehe, I got some nice sweets.
 I'll eat these when I get home!)");
 MsgClose();

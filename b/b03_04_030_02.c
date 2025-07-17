@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B030403002_04_020");
-    MsgDisp("Nanatsumori","ＯＫ.
+    MsgDisp("Nanatsumori","OK.
 Oh, we're just in time.
 Let's go!");
     MsgDispSksp(0);

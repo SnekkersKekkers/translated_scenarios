@@ -7,7 +7,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("B040202401_02_000");
-MsgDisp("Sassa","That sounded a bit weird......");
+MsgDisp("Sassa","That sounded a bit weird...");
 MsgSel("Maybe it's something special?","That was a failure, I think","One more try!");
 switch (MsgSelRsltGet()){
     case 0:

@@ -50,7 +50,7 @@ MsgDisp("Mikage","Saying \"If you're okay with it, then it's
 okay.\" is pitiful.
 Ugh, I hate it, hate it.");
 MsgDisp("主人公","(I wonder what's up with
-｛御影＊＊｝ today......)");
+｛御影＊＊｝ today...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

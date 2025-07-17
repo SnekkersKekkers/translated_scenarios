@@ -15,13 +15,13 @@ Today's the day I run into all the funny
 ones.");
 MsgDisp("主人公","Ah, ｛御影＊＊｝, hello.
 Hum, what do you mean by \"funny
-ones\"......?");
+ones\"...?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010230200_02_000");
 MsgDisp("Sassa","Mikage-sensei, I'm super serious.
-...... You're funny, though.");
+... You're funny, though.");
 MsgDisp("主人公","What??");
 ChMotion(2,0);
 ChEye(7,0);
@@ -53,7 +53,7 @@ ChEye(2,5);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010230200_02_020");
-MsgDisp("Sassa","Oh, that's true, now that you say it......");
+MsgDisp("Sassa","Oh, that's true, now that you say it...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -63,7 +63,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010230200_02_030");
-MsgDisp("Sassa","S-Sorry......");
+MsgDisp("Sassa","S-Sorry...");
 ChMotion(2,0);
 ChEye(7,0);
 ChMouth(7,0);
@@ -90,7 +90,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_060");
 MsgDisp("Mikage","If I had to give you one piece of
-advice...... \"It's not what you eat, but
+advice... \"It's not what you eat, but
 who you eat it with.\". That's my advice.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -121,7 +121,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("E010230200_02_050");
-MsgDisp("Sassa","Ah, uh, see you......!");
+MsgDisp("Sassa","Ah, uh, see you...!");
 MsgDisp("主人公","Ah, goodbye, ｛御影＊＊｝.");
 ChPosition(2,0);
 Wait(60,0);
@@ -129,8 +129,8 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010230200_02_060");
-MsgDisp("Sassa","......You hungry?");
-MsgDisp("主人公","(Eh......
+MsgDisp("Sassa","...You hungry?");
+MsgDisp("主人公","(Eh...
 Right away?)");
 BGMStop();
 MsgClose();

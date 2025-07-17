@@ -2,7 +2,7 @@ BGOpen("sc609",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I guess it's about time to finish working
-for today......)");
+for today...)");
 VoiceEVSPlay(5);
 VoicePlay("G110500500_05_000");
 MsgDisp("Hiiragi","｛主人公｝, I'll be a
@@ -31,7 +31,7 @@ ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
 VoicePlay("G110500500_05_030");
-MsgDisp("Hiiragi","Ah...... that's right.
+MsgDisp("Hiiragi","Ah... that's right.
 There's something I've wanted to ask you
 but I always forget.");
 MsgDisp("主人公","Eh, what is it?");
@@ -43,7 +43,7 @@ ChMotion(5,0);
 VoicePlay("G110500500_05_040");
 MsgDisp("Hiiragi","A while ago, you said you would recommend
 me some TV shoes you like.");
-MsgDisp("主人公","Eh, I remember now......");
+MsgDisp("主人公","Eh, I remember now...");
 SEStop("EV_SE_712",0);
 ChEye(5,1);
 ChMouth(5,1);
@@ -80,7 +80,7 @@ ChMouth(5,0);
 ChMotion(5,2);
 MsgDisp("主人公","(｛柊＊＊＊｝, It seems like you're more
 interested in Yakisoba than the festivals
-themselves...... Maybe I should show him
+themselves... Maybe I should show him
 some B-grade gourmet food TV shows?)");
 ChMotion(5,0);
 BGMStop();

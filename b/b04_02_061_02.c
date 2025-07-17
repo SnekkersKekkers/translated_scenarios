@@ -58,7 +58,7 @@ ride a killer whale?");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040206102_02_040");
-        MsgDisp("Sassa","Are you really going to ride that......");
+        MsgDisp("Sassa","Are you really going to ride that...");
         MsgDisp("主人公","Eh?
 N-No?");
         ChEye(2,0);
@@ -90,12 +90,12 @@ on top.");
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040206102_02_080");
-        MsgDisp("Sassa","...... Woah, the orca actually has hidden
+        MsgDisp("Sassa","... Woah, the orca actually has hidden
 potential.
-I didn't think of that......");
-        MsgDisp("主人公","Uhm......?
+I didn't think of that...");
+        MsgDisp("主人公","Uhm...?
 If ｛颯砂＊＊｝ doesn't want
-to......");
+to...");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);

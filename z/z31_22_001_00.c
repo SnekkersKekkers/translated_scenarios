@@ -6,9 +6,9 @@ MsgDisp("Hikaru","Hi～
 Mari.
 It's Hikaru♪");
 MsgDisp("主人公","Ah, ｛ひかる＊｝.
-I wanted to ask for advice......");
+I wanted to ask for advice...");
 VoicePlay("Z312200100_22_010");
 MsgDisp("Hikaru","Aha▼
 Don't hold back♪");
 MsgDisp("主人公","Okay.
-Well......");
+Well...");

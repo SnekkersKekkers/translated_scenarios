@@ -11,7 +11,7 @@ ChMouth(31,2);
 ChMotion(31,2);
 ChEyeOpenLevel(31,0);
 VoicePlay("P043100000_31_010");
-MsgDisp("Goro","......Yummy.");
+MsgDisp("Goro","...Yummy.");
 MsgDisp("主人公","(I'm glad, looks like it's really good!
 What a great success ▼)");
 MsgClose();

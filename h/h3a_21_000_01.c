@@ -11,7 +11,7 @@ switch (ChPrmGet(21,6)){
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H3A2100001_21_000");
-    MsgDisp("Michiru","It was very close......");
+    MsgDisp("Michiru","It was very close...");
     MsgDisp("主人公","｛みちる＊｝, I lost.");
     ChEye(21,0);
     ChMouth(21,4);
@@ -20,7 +20,7 @@ switch (ChPrmGet(21,6)){
     MsgDisp("Michiru","A loss is a loss.
 But it was a very good match.
 Good work, Mari.");
-    MsgDisp("主人公","(｛みちる＊｝......
+    MsgDisp("主人公","(｛みちる＊｝...
 Yeah, I'm glad I worked so hard in the
 judo club.)");
     break ;
@@ -32,7 +32,7 @@ judo club.)");
     ScrFadeIn(0);
     VoicePlay("H3A2100001_21_020");
     MsgDisp("Michiru","Good work.");
-    MsgDisp("主人公","｛みちる＊｝......");
+    MsgDisp("主人公","｛みちる＊｝...");
     ChEye(21,4);
     ChMouth(21,4);
     ChMotion(21,4);
@@ -47,7 +47,7 @@ The match was great, too.");
     MsgDisp("Michiru","Cheer up. Even if you didn't win this
 match, Mari is still number one to me.
 Okay?");
-    MsgDisp("主人公","(｛みちる＊｝......
+    MsgDisp("主人公","(｛みちる＊｝...
 Yeah, I'm glad I worked so hard in the
 judo club.)");
     break ;

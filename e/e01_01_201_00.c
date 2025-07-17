@@ -10,7 +10,7 @@ VoicePlay("E010120100_05_000");
 MsgDisp("Hiiragi?","I see.
 Thank you.
 I will look somewhere else.");
-MsgDisp("主人公","These voices......");
+MsgDisp("主人公","These voices...");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,0,0,4,#1,#1,0,0);
@@ -120,6 +120,6 @@ BGMStop();
 ChClose(1);
 MsgDisp("主人公","Hehe. ｛柊＊＊＊｝ and
 ｛風真＊＊｝ both are
-amazing......)");
+amazing...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -17,13 +17,13 @@ VoicePlay("G020120100_01_020");
 MsgDisp("Kazama","You're all that I look at.
 But I'm sure I've spied with my little eye
 people who aren't me near you.");
-MsgDisp("主人公","Um......");
+MsgDisp("主人公","Um...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_030");
-MsgDisp("Kazama","...... Sorry.
+MsgDisp("Kazama","... Sorry.
 But I want to know how you feel, even just
 a little.");
 ChEye(1,2);
@@ -66,7 +66,7 @@ VoicePlay("G020120100_01_080");
 MsgDisp("Kazama","I guess being at a slight disadvantage is
 just the right handicap.");
 MsgDisp("主人公","(I think ｛風真＊＊｝ is
-worried about something......)");
+worried about something...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

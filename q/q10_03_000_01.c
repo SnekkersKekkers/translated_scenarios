@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("Q100300001_03_000");
 MsgDisp("Honda","Hmm, what should I do.");
-MsgDisp("主人公","Is it the souvenirs......?");
+MsgDisp("主人公","Is it the souvenirs...?");
 ChMotion(3,0,1);
 VoicePlay("Q100300001_03_010");
 MsgDisp("Honda","Yeah it is, my little sister told me to
@@ -42,7 +42,7 @@ and it's mouth-watering.");
 VoicePlay("Q100300001_03_060");
 MsgDisp("Honda","Wait a bit!
 I'm gonna buy a keyholder of this mascot.");
-MsgDisp("主人公","(Is he gonna be ok......?)");
+MsgDisp("主人公","(Is he gonna be ok...?)");
 MsgClose();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -62,7 +62,7 @@ VoicePlay("Q100300001_03_080");
 MsgDisp("Honda","I hope so.
 Now let's look around the shops you're
 interested in.");
-MsgDisp("主人公","Yeah, where should we go......");
+MsgDisp("主人公","Yeah, where should we go...");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

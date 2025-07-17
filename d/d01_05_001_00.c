@@ -13,7 +13,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc230",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Like I thought, nice weather......");
+MsgDisp("主人公","Like I thought, nice weather...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -47,7 +47,7 @@ MsgDisp("主人公","That's not good!
 You need to eat.");
 ChMotion(5,0);
 VoicePlay("D010500100_05_030");
-MsgDisp("Hiiragi","............");
+MsgDisp("Hiiragi","......");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
@@ -66,7 +66,7 @@ MsgDisp("主人公","Only half.
 I won't give you all of it, okay?");
 StlMouth(5,1);
 VoicePlay("D010500100_05_050");
-MsgDisp("Hiiragi","Haha, thank you......");
+MsgDisp("Hiiragi","Haha, thank you...");
 MsgDisp("主人公","｛柊＊＊＊｝, why don't you eat
 properly?");
 StlEye(5,1);

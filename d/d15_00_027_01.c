@@ -14,7 +14,7 @@ VoicePlay ( "D150002701_07_000" ) ;
 MsgDisp ( "Mikage","That sounds fine.
 Do what you want, Sassa, but don't push
 yourself too much." ) ;
-MsgDisp ( "主人公","......?" ) ;
+MsgDisp ( "主人公","...?" ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,2 ) ;

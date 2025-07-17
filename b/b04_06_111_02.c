@@ -77,7 +77,7 @@ get a feel for it that way.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040611102_06_070");
-        MsgDisp("Himuro","..................");
+        MsgDisp("Himuro","......");
         MsgDisp("主人公","What's wrong?");
         ChEye(6,0);
         ChMouth(6,0);

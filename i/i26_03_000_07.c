@@ -26,7 +26,7 @@ the new books. I'll do that.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_770");
-    MsgDisp("Honda","......You know, I feel like my work
+    MsgDisp("Honda","...You know, I feel like my work
 routine has been getting faster lately.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -60,7 +60,7 @@ manager would be in trouble.");
     MsgDisp("Honda","Sorry!
 To have you come in early.");
     MsgDisp("主人公","It's fine, what's up?
-The manager was running around, too......");
+The manager was running around, too...");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,2,1);
@@ -91,9 +91,9 @@ I'll go get changed quickly!");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("I260300000_03_850");
-    MsgDisp("Honda","Da-......
+    MsgDisp("Honda","Da-...
 We somehow got through the peak
-hours......");
+hours...");
     MsgDisp("主人公","Good work.
 It's the first time I've seen you this
 tired, ｛本多＊＊｝.");
@@ -102,7 +102,7 @@ tired, ｛本多＊＊｝.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_860");
     MsgDisp("Honda","It was just that much of a disaster.
-...... But, you seem just fine?");
+... But, you seem just fine?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -110,7 +110,7 @@ tired, ｛本多＊＊｝.");
     MsgDisp("Honda","But, the manager said this too.
 You really helped out today.
 We really can rely on you.");
-    MsgDisp("主人公","(It feels good to be relied on......
+    MsgDisp("主人公","(It feels good to be relied on...
 I did it!)");
     break ;
     default :

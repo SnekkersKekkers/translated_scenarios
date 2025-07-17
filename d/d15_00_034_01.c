@@ -30,7 +30,7 @@ ChEye ( 4,2 ) ;
 ChMouth ( 4,4 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150003401_04_010" ) ;
-MsgDisp ( "Nanatsumori","...... Wait.
+MsgDisp ( "Nanatsumori","... Wait.
 This is a bad thing to talk about while we
 eat." ) ;
 ChEye ( 3,4 ) ;
@@ -40,7 +40,7 @@ VoicePlay ( "D150003401_03_030" ) ;
 MsgDisp ( "Honda","Really? I'm looking closely creatures that
 decompose soil. Earthworms, springtails,
 mites..." ) ;
-MsgDisp ( "主人公","Ehh......" ) ;
+MsgDisp ( "主人公","Ehh..." ) ;
 ChEye ( 4,1 ) ;
 ChMouth ( 4,1 ) ;
 ChMotion ( 4,5 ) ;
@@ -61,7 +61,7 @@ ChEyeOpenLevel ( 3,0 ) ;
 VoicePlay ( "D150003401_03_050" ) ;
 MsgDisp ( "Honda","Okay.
 Let's eat quickly then." ) ;
-MsgDisp ( "主人公","(I think I'll eat slowly, actually......)" ) ;
+MsgDisp ( "主人公","(I think I'll eat slowly, actually...)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

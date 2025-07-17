@@ -21,7 +21,7 @@ ChMotion(21,4);
 VoicePlay("L050D00000_21_010");
 MsgDisp("Michiru","Yes. Today's the day when Mari's feelings
 will be returned. I'm excited.");
-MsgDisp("主人公","(My feelings will be returned......)");
+MsgDisp("主人公","(My feelings will be returned...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

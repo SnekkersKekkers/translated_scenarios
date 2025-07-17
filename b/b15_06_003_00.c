@@ -73,6 +73,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 SEWait();
 MsgDisp("主人公","(He says to study, how should I do
-that......∋)");
+that...∋)");
 MsgClose();
 ScrFadeOut(0,0);

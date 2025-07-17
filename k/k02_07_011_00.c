@@ -12,7 +12,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("K020701100_07_010");
-MsgDisp("Mikage","And...... here.");
+MsgDisp("Mikage","And... here.");
 MsgDisp("主人公","Hm?");
 SEPlay("EV_SE_665");
 SEWait();
@@ -35,7 +35,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("K020701100_07_040");
 MsgDisp("Mikage","But, it's a little difficult to memorize
-everyone's preferences......
+everyone's preferences...
 Sorry if it doesn't suit you.");
 MsgDisp("主人公","Thank you very much!");
 ChEye(7,0);
@@ -58,7 +58,7 @@ MsgClose();
 ChClose(7);
 Wait(30);
 MsgDisp("主人公","(I celebrated my birthday with
-｛御影＊＊｝......
+｛御影＊＊｝...
 This is the best birthday ever!)");
 MsgClose();
 ScrFadeOut(0,0);

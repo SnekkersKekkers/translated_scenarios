@@ -26,7 +26,7 @@ BGOpen("sc010",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's the same road I always walked back
 in elementary school, how nostalgic.
-It feels kind of strange......)");
+It feels kind of strange...)");
 Wait(30,1);
 EfctOpen(6);
 MsgDisp("主人公","(Whoa—! The sun's so bright!)");
@@ -143,8 +143,8 @@ BGMVol(0.5,0.5);
 MsgDisp("Kazama","In first grade, we used to walk up this
 same street to get to school together,
 remember?");
-MsgDisp("主人公","Right......
-......Oh, I forgot something!");
+MsgDisp("主人公","Right...
+...Oh, I forgot something!");
 NSSEye(1,3);
 NSSMouth(1,2);
 VoicePlay("A020100000_01_080");
@@ -154,7 +154,7 @@ NSSEye(1,6);
 NSSMouth(1,3);
 NSSCheek(1,7);
 VoicePlay("A020100000_01_090");
-MsgDisp("Kazama","It's good to be back......");
+MsgDisp("Kazama","It's good to be back...");
 NSSEyeOpenLevel(1,0);
 Wait(20,0);
 NSSEye(1,0);
@@ -177,7 +177,7 @@ MsgDisp("Kazama","Yeah, only me, without my parents.");
 MsgDisp("Kazama","Yeah. I came back early. School in England
 starts in September, so transferring now
 took some work.");
-MsgDisp("主人公","Oh, that makes sense......");
+MsgDisp("主人公","Oh, that makes sense...");
 NSSEye(1,6);
 NSSMouth(1,3);
 NSSEyeOpenLevel(1,5);
@@ -203,13 +203,13 @@ MsgDisp("Kazama","More importantly—");
 NSSEye(1,6);
 NSSMouth(1,0);
 VoicePlay("A020100000_01_150");
-MsgDisp("Kazama","......Do you remember?
+MsgDisp("Kazama","...Do you remember?
 That thing.");
 NSSEyeOpenLevel(1,0);
 Wait(20,0);
 NSSEye(1,0);
-MsgDisp("主人公","That thing......?");
-MsgSel("The mysterious church with the ringing bell?","The wishes we made together to the pinwheel?","A lot of time has passed, I wonder what you're talking about......");
+MsgDisp("主人公","That thing...?");
+MsgSel("The mysterious church with the ringing bell?","The wishes we made together to the pinwheel?","A lot of time has passed, I wonder what you're talking about...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","The mysterious church with the ringing
@@ -229,15 +229,15 @@ pinwheel?");
     VoicePlay("A020100000_01_170");
     MsgDisp("Kazama","That's it. I can tell just by looking at
 you, that there's a good chance the wish
-will come true......");
+will come true...");
     break ;
     case 2:
     MsgDisp("主人公","A lot of time has passed, I wonder what
-you're talking about......");
+you're talking about...");
     NSSEye(1,2);
     NSSMouth(1,0);
     VoicePlay("A020100000_01_180");
-    MsgDisp("Kazama","\"A lot of time\", huh...... You really
+    MsgDisp("Kazama","\"A lot of time\", huh... You really
 haven't changed. Still as carefree. I'm
 worried.");
     break ;
@@ -287,17 +287,17 @@ MsgDisp("School Girl A","I know right! My grandpa even called him
 \"young master\" once! It's like he's
 royalty or something!");
 MsgDisp("主人公","? ｛風真＊＊｝, I think they're talking
-about you......");
+about you...");
 SEStop("EV_SE_588",1);
 SEStop("EV_SE_789",1);
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("A020100000_01_190");
-MsgDisp("Kazama","......... Can't hear them～ And don't
+MsgDisp("Kazama","...... Can't hear them～ And don't
 listen, either.");
 MsgDisp("主人公","(\"Young Master\" huh...
-Now I'm super curious......)");
+Now I'm super curious...)");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -308,7 +308,7 @@ MsgDisp("Kazama","Don't go thinking something dumb like,
 \"I'm curious about that \"Young Master\"
 stuff\", got it?");
 MsgDisp("主人公","∋
-(He read my mind......)");
+(He read my mind...)");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

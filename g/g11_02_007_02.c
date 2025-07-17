@@ -56,7 +56,7 @@ MsgDisp("Sassa","Of course.
 Don't I look satisfied?");
 MsgDisp("主人公","(There was a lot of throwing practice
 today.
-I wonder if his right arm is okay......?)");
+I wonder if his right arm is okay...?)");
 while (1){
     RunEverydaySksp(2,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -99,7 +99,7 @@ SEStop("EV_SE_FOOT_037",2);
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I'm glad...... it looks like they were
+MsgDisp("主人公","(I'm glad... it looks like they were
 able to train more carefree than usual.
 I'm grateful to Mikage-sensei!)");
 MsgClose();

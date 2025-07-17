@@ -1,9 +1,9 @@
-MsgSel("Yes, I would love to!" , "I'll be a bit busy that day ......");
+MsgSel("Yes, I would love to!" , "I'll be a bit busy that day ...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J140401001_04_000");
     MsgDisp("Nanatsumori","Alright.
-Okay, I'll meet you there ......");
+Okay, I'll meet you there ...");
     MsgDisp("主人公","At ｛待ち合わせ場所｝....
 You want to meet up there?");
     VoicePlay("J140401001_04_010");
@@ -18,7 +18,7 @@ I'm looking forward to it.)");
     VoicePlay("J140401001_04_020");
     MsgDisp("Nanatsumori","No need to be unreasonable.
 We'll be in touch.
-Bye .......");
+Bye ....");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(He went to the trouble of inviting me,

@@ -55,14 +55,14 @@ I'll eat it gratefully!");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("L040300003_03_060");
-    MsgDisp("Honda","Wah......");
+    MsgDisp("Honda","Wah...");
     MsgDisp("主人公","I did my best to make them.
 How are they?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("L040300003_03_070");
-    MsgDisp("Honda","............");
+    MsgDisp("Honda","......");
     MsgDisp("主人公","｛本多＊＊｝?");
     ChEye(3,4);
     ChMouth(3,4);

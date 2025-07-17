@@ -30,6 +30,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
 Wait(60);
-MsgDisp("主人公","(This is obligatory, huh......)");
+MsgDisp("主人公","(This is obligatory, huh...)");
 MsgClose();
 ScrFadeOut(0);

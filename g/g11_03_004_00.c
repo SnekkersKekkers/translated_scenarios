@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The original book 'The Path of First
 Love' I read with ｛本多＊＊｝
-the other day is really popular huh......)");
+the other day is really popular huh...)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -29,7 +29,7 @@ ChEye(3,0);
 ChMouth(3,2);
 ChMotion(3,1);
 VoicePlay("G110300400_03_020");
-MsgDisp("Honda","Hmmm......I can't remember the movies I
+MsgDisp("Honda","Hmmm...I can't remember the movies I
 watched with you, but I forget the
 contents of books quite easily.");
 MsgDisp("主人公","Eh, even ｛本多＊＊｝?");
@@ -71,7 +71,7 @@ That's why I think it's important to
 organize your bookshelf like this.");
 MsgDisp("主人公","(For ｛本多＊＊｝, it wasn't about
 organizing, but a chance to remember the
-contents of the book. Amazing......)");
+contents of the book. Amazing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -69,7 +69,7 @@ wish for.");
     VoicePlay("S070300000_03_070");
     MsgDisp("Honda","The number one would be your health.
 Next is for me, my family, fish and
-insects......");
+insects...");
     MsgDisp("主人公","You'll make the next person in line wait.");
     ChEye(3,4);
     ChMouth(3,0);
@@ -96,9 +96,9 @@ Then I'll make a priority system.");
     ChMouth(3,4);
     VoicePlay("S070300000_03_110");
     MsgDisp("Honda","First is you.
-Next is me, my family......");
+Next is me, my family...");
     MsgDisp("主人公","(I'm the first?
-That makes me so happy......
+That makes me so happy...
 ｛本多＊＊｝, thank you.)");
     break ;
     default :

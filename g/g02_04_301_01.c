@@ -3,7 +3,7 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0);
 VoicePlay("G020430101_04_000");
-MsgDisp("Nanatsumori","Ah...... look, over there.
+MsgDisp("Nanatsumori","Ah... look, over there.
 There are a lot of fireflies gathered.");
 MsgDisp("主人公","There really is!
 It's only over there where there's a lot
@@ -40,7 +40,7 @@ ChMotion(4,1,1);
 VoicePlay("G020430101_04_050");
 MsgDisp("Nanatsumori","Your smile is sparkling brilliantly, you
 know?");
-MsgDisp("主人公","I'm somewhat embarrassed......");
+MsgDisp("主人公","I'm somewhat embarrassed...");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3,1);
@@ -55,7 +55,7 @@ ChMotion(4,2,1);
 VoicePlay("G020430101_04_070");
 MsgDisp("Nanatsumori","Nah.
 That's a matter for myself.");
-MsgDisp("主人公","(Friends......
+MsgDisp("主人公","(Friends...
 I guess I might have a lot of them.)");
 BGMStop();
 MsgClose();

@@ -15,7 +15,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500000_05_000");
 MsgDisp("Hiiragi","Yeah.
-I think it's calming......");
+I think it's calming...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -39,13 +39,13 @@ MsgDisp("Hiiragi","I guess it's my intuition as an actor.
 Is that weird?");
 SEPlay("EV_SE_729",0.6);
 Wait(30,0);
-MsgDisp("主人公","Uwaah......
+MsgDisp("主人公","Uwaah...
 So many seagulls!");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0,1);
 VoicePlay("B050500000_05_040");
-MsgDisp("Hiiragi","So suddenly too, I wonder......");
+MsgDisp("Hiiragi","So suddenly too, I wonder...");
 MsgDisp("主人公","I wonder if they think we're going to feed
 them?");
 ChEye(5,0);
@@ -53,7 +53,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500000_05_050");
 MsgDisp("Hiiragi","I get it.
-...... Wait here a minute.
+... Wait here a minute.
 I'll go buy some.");
 MsgClose();
 SEStop("EV_SE_729",1);
@@ -79,10 +79,10 @@ Wait(50,0);
 StlEyeOpenLevel(5,5);
 VoicePlay("B050500000_05_070");
 MsgDisp("Hiiragi","Good job!
-...... Did you see that?
+... Did you see that?
 It caught it.");
 MsgDisp("主人公","Yeah, that was cute!
-My turn now......
+My turn now...
 Catch!");
 SEStop("EV_SE_729",0.5);
 SEPlay("EV_SE_668",0,0.6);
@@ -98,7 +98,7 @@ SEStop("EV_SE_729",1);
 MsgDisp("主人公","(Hehe, it's my first time seeing
 ｛柊＊＊＊｝ smile so
 innocently. I guess it's a bit
-cute......?)");
+cute...?)");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();

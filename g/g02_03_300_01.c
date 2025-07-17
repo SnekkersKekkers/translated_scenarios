@@ -10,14 +10,14 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020330001_03_010");
 MsgDisp("Honda","I don't think they'd complain openly,
-but......");
+but...");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020330001_03_020");
 MsgDisp("Honda","Ryo might get mad though.
 Like, 'Why didn't you invite me? '");
-MsgDisp("主人公","Is that so......?");
+MsgDisp("主人公","Is that so...?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -61,7 +61,7 @@ MsgDisp("Honda","I think I've been influenced by them more
 than by just what we've said to each
 other.");
 MsgDisp("主人公","(Is this what friendship between guys
-looks like ......it seems kind of
+looks like ...it seems kind of
 wonderful?)");
 BGMStop();
 MsgClose();

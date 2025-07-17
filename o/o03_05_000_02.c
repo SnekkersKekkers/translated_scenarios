@@ -11,8 +11,8 @@ switch (ChPrmGet(5,6)){
     VoicePlay("O030500002_05_000");
     MsgDisp("Hiiragi","Staying in sync is quite difficult, it
 seems.");
-    MsgDisp("主人公","(Haa, last, huh......
-I wish I had tried a little harder......)");
+    MsgDisp("主人公","(Haa, last, huh...
+I wish I had tried a little harder...)");
     break ;
     case 3:
     MsgClose();
@@ -33,8 +33,8 @@ What about you, ｛柊＊＊＊｝?");
     MsgDisp("Hiiragi","Yes, I'm fine. Remember that a horse that
 doesn't get injured to superior to one
 with a slightly higher ability.");
-    MsgDisp("主人公","(Haa...... last......
-I wish I had tried a little harder......)");
+    MsgDisp("主人公","(Haa... last...
+I wish I had tried a little harder...)");
     break ;
     case 4:
     case 5:
@@ -46,7 +46,7 @@ I wish I had tried a little harder......)");
     MsgDisp("Hiiragi","｛主人公｝, are you not
 hurt?");
     MsgDisp("主人公","I'm fine, but sorry.
-We're last......");
+We're last...");
     ChEye(5,2);
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
@@ -60,8 +60,8 @@ a big deal?");
     VoicePlay("O030500002_05_050");
     MsgDisp("Hiiragi","Don't you feel that we, the last on the
 course, received the most cheers?");
-    MsgDisp("主人公","(Y-Yeah...... but, last......
-I wish I had tried a little harder......)");
+    MsgDisp("主人公","(Y-Yeah... but, last...
+I wish I had tried a little harder...)");
     break ;
     default :
     DbgAssert(1);

@@ -44,7 +44,7 @@ Can you try not being late?");
     MsgDisp("主人公","Hmmm, okay.
 We want to have lots of fun, don't we?");
     VoicePlay("J030600000_06_060");
-    MsgDisp("Himuro","...... Yeah.
+    MsgDisp("Himuro","... Yeah.
 Okay, I'll look forward to it.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

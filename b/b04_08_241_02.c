@@ -69,7 +69,7 @@ work and take pride in it.");
         ChMotion(8,4,1);
         ChMouthOpenLevel(8,0);
         VoicePlay("B040824102_08_060");
-        MsgDisp("Shirahane","............");
+        MsgDisp("Shirahane","......");
         MsgDisp("主人公","What's wrong?");
         ChEye(8,0);
         ChMouth(8,0);

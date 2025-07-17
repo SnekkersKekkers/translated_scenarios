@@ -36,13 +36,13 @@ ChMotion(3,4);
 VoicePlay("G020310200_03_050");
 MsgDisp("Honda","You know that phrase, \"more than friends,
 less than lovers\"?
-I want to take a step beyond that......");
+I want to take a step beyond that...");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020310200_03_060");
-MsgDisp("Honda","......But what happens if we do......?");
-MsgDisp("主人公","......Hehe!");
+MsgDisp("Honda","...But what happens if we do...?");
+MsgDisp("主人公","...Hehe!");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,1);
@@ -59,7 +59,7 @@ could take our relationship to a new
 level!");
 MsgDisp("主人公","Yeah, thanks ｛本多＊＊｝.");
 MsgDisp("主人公","(I see, that's what ｛本多＊＊｝
-is thinking about......)");
+is thinking about...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

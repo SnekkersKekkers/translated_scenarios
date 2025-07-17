@@ -17,14 +17,14 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110103_01_020");
 MsgDisp("Kazama","You think it's the same with them?
-...... Nanatsumori and Honda, I mean.");
+... Nanatsumori and Honda, I mean.");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110103_01_030");
 MsgDisp("Kazama","Guys don't really talk about that kinda
-stuff......But I think they're looking out
+stuff...But I think they're looking out
 for us even if they don't say anything.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -47,7 +47,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020110103_01_060");
-MsgDisp("Kazama","Friendship...... is that what it is?
+MsgDisp("Kazama","Friendship... is that what it is?
 I don't think that's quite right.
 It's a pretty tight balancing act.");
 MsgDisp("主人公","Balancing act?");
@@ -76,7 +76,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110103_01_100");
-MsgDisp("Kazama","......Of course, even if it all comes
+MsgDisp("Kazama","...Of course, even if it all comes
 crashing down, I'd make my way back to you
 right away.");
 MsgDisp("主人公","(What is ｛風真＊＊｝ talking

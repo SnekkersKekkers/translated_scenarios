@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030121001_01_000");
-    MsgDisp("Kazama","ＯＫ!
+    MsgDisp("Kazama","OK!
 I wonder what the popular items are?");
     MsgDispSksp(0);
     break ;

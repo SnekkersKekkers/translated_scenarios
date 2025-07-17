@@ -25,7 +25,7 @@ I think ｛風真＊＊｝ likes it.)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("S060100001_01_020");
-    MsgDisp("Kazama","...... Yeah.
+    MsgDisp("Kazama","... Yeah.
 I came back just in time to see you in a
 kimono.");
     MsgDisp("主人公","You really mean it?
@@ -62,7 +62,7 @@ I feel relieved when
     ChCheek(1,7);
     VoicePlay("S060100001_01_060");
     MsgDisp("Kazama","To be honest, I wish I could keep this
-sight all to myself......");
+sight all to myself...");
     MsgDisp("主人公","(Yay!
 ｛風真＊＊｝ seems to really
 like this!)");

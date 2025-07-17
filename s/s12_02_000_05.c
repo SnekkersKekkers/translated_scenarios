@@ -104,12 +104,12 @@ understand now.");
     MsgDisp("Sassa","I'm just doing what I love to the best of
 my ability.
 That's not enough for praise.");
-    MsgDisp("主人公","That's not true......");
+    MsgDisp("主人公","That's not true...");
     ChEye(2,2);
     ChMouth(2,4);
     ChMotion(2,2);
     VoicePlay("S120200005_02_090");
-    MsgDisp("Sassa","Thank you......
+    MsgDisp("Sassa","Thank you...
 I still don't know what to say, how to
 thank you enough.");
     ChEye(2,4);
@@ -119,7 +119,7 @@ thank you enough.");
     MsgDisp("Sassa","So today I'll just say thank you.
 I need a little more time, until we
 graduate.");
-    MsgDisp("主人公","｛颯砂＊＊｝......");
+    MsgDisp("主人公","｛颯砂＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

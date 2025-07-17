@@ -83,7 +83,7 @@ very fresh.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_080");
-    MsgDisp("Nanatsumori","ＯＫ.
+    MsgDisp("Nanatsumori","OK.
 Then, I'll have some tea first then I'll
 have a look over there.");
     MsgDisp("主人公","Yes, then please come in!");

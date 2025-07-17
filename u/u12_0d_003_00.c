@@ -27,5 +27,5 @@ MsgDisp("Hikaru","But you know, when the battle starts,
 there will be thunder, so take care.");
 MsgDisp("主人公","(I see.
 If I don't want to be misunderstood by
-boys, I need to be careful......)");
+boys, I need to be careful...)");
 MsgClose();

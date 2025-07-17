@@ -16,7 +16,7 @@ It's
     MsgDisp("Hiiragi","It's Hiiragi.
 I heard your message.
 My schedule is full on that day.");
-    MsgDisp("主人公","I see......
+    MsgDisp("主人公","I see...
 Then I guess I can't blame you.");
     VoicePlay("J030501001_05_010");
     MsgDisp("Hiiragi","I'm so sorry.
@@ -38,9 +38,9 @@ Now, if you'll excuse me.");
 Thanks for your message.");
     MsgDisp("主人公","Yes, are you free then?");
     VoicePlay("J030501001_05_030");
-    MsgDisp("Hiiragi","I had plans that day......
+    MsgDisp("Hiiragi","I had plans that day...
 Sorry.");
-    MsgDisp("主人公","Oh, I see...... is busy, isn't it.
+    MsgDisp("主人公","Oh, I see... is busy, isn't it.
 I can't blame you.");
     VoicePlay("J030501001_05_040");
     MsgDisp("Hiiragi","I'm sorry you had to go through the
@@ -75,7 +75,7 @@ I'm afraid I can't even coordinate.");
     VoicePlay("J030501001_05_080");
     MsgDisp("Hiiragi","It's your invitation. I want to take it
 easy. But I'm sorry. I'll see you
-later......");
+later...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Well, that's a real shame!)");

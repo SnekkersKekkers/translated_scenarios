@@ -28,7 +28,7 @@ Three, four, they're stomach worms♪
 Rock!");
 MsgDisp("主人公","Hehe, that's a cute song!");
 MsgDisp("主人公","(｛本多＊＊｝ looks like he's enjoying
-himself. ......Hehe, your hair is also
+himself. ...Hehe, your hair is also
 bouncing up and down.)");
 while (1){
     RunEverydaySksp(3,1,1,1,0,0);
@@ -69,7 +69,7 @@ MsgDisp("Honda","But you also like studying and books, so
 I'm sure you'll be a great mom too?");
 MsgDisp("主人公","Eh-!");
 MsgDisp("主人公","(I'm happy, but it's a little
-embarrassing......)");
+embarrassing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

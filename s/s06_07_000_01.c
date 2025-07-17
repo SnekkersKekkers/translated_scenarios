@@ -23,7 +23,7 @@ Wearing a kimono was the right choice!)");
     ChMotion(7,3);
     VoicePlay("S060700001_07_020");
     MsgDisp("Mikage","Ohh, that's beautiful, the kimono.");
-    MsgDisp("主人公","......Uhm, my kimono?");
+    MsgDisp("主人公","...Uhm, my kimono?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -41,7 +41,7 @@ It's a good omen that good things will
 happen this year too.");
     MsgDisp("主人公","(Yay!
 I was praised by
-｛御影＊＊｝......! )");
+｛御影＊＊｝...! )");
     break ;
     case 4:
     case 5:
@@ -73,14 +73,14 @@ sweet peas are fine in whatever they wear.");
     MsgDisp("Mikage","Even in a wooden box or covered in mud,
 they are still great vegetables, aren't
 they?");
-    MsgDisp("主人公","Uhm, vegetables......?");
+    MsgDisp("主人公","Uhm, vegetables...?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S060700001_07_090");
     MsgDisp("Mikage","Ahh, I'm so proud.");
     MsgDisp("主人公","(｛御影＊＊｝ seems really happy about it.
-But vegetables......?)");
+But vegetables...?)");
     break ;
     default :
     DbgAssert(1);

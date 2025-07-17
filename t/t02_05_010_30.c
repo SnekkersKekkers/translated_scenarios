@@ -1,5 +1,5 @@
 BGMStop();
-MsgDisp("主人公","......I'm sorry");
+MsgDisp("主人公","...I'm sorry");
 ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
@@ -22,7 +22,7 @@ ChEye(5,0);
 ChMouth(5,3);
 VoicePlay("T020501030_05_020");
 MsgDisp("Hiiragi","After that I can walk by myself.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -35,9 +35,9 @@ prestigious Haba High, you know?");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020501030_05_040");
-MsgDisp("Hiiragi","......I barely passed with my grades
+MsgDisp("Hiiragi","...I barely passed with my grades
 though.");
-MsgDisp("主人公","Hehe, yes......");
+MsgDisp("主人公","Hehe, yes...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

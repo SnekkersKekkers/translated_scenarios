@@ -38,7 +38,7 @@ Cool and composed.");
     VoicePlay("H4A0200000_02_030");
     MsgDisp("Sassa","Being a champion is fitting for you, with
 your skills and your heart.");
-    MsgDisp("主人公","(I'm so happy......!
+    MsgDisp("主人公","(I'm so happy...!
 I'm glad I stayed in the rhythmic
 gymnastics club!)");
     break ;

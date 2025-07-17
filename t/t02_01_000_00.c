@@ -11,8 +11,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C01_RYOUTA_KOKU",0.01);
 ChOpen(1,254,7,0,3,#1,#1,0,0,0,120);
-MsgDisp("主人公","｛風真＊＊｝......!
-Even so, I was waiting on that slope......");
+MsgDisp("主人公","｛風真＊＊｝...!
+Even so, I was waiting on that slope...");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -29,7 +29,7 @@ ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("T020100000_01_020");
-MsgDisp("Kazama","∋ Are you serious......");
+MsgDisp("Kazama","∋ Are you serious...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -49,7 +49,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("T020100000_01_050");
-MsgDisp("Kazama","......So, it's our turn now.");
+MsgDisp("Kazama","...So, it's our turn now.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 Wait(30,0);
@@ -57,10 +57,10 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020100000_01_060");
-MsgDisp("Kazama","......The first time I saw you was when we
+MsgDisp("Kazama","...The first time I saw you was when we
 were digging for sweet potatoes in
 kindergarten..");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -96,7 +96,7 @@ ChMotion(1,3);
 VoicePlay("T020100000_01_110");
 MsgDisp("Kazama","I've never forgotten about the girl I
 love.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -104,7 +104,7 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 Wait(12,0);
 VoicePlay("T020100000_01_120");
-MsgDisp("Kazama","But......
+MsgDisp("Kazama","But...
 I was separated from that girl I loved.");
 Wait(60,0);
 ChEye(1,0);
@@ -135,15 +135,15 @@ morn -ing of the entrance ceremony,
 instead of sorting things out, my feelings
 just exploded.");
 ChEyeOpenLevel(1,10);
-MsgDisp("主人公","That day......");
+MsgDisp("主人公","That day...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020100000_01_160");
 MsgDisp("Kazama","Since that day, every time I see you, the
-memories and the present...... fit
-perfectly together......");
+memories and the present... fit
+perfectly together...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -166,8 +166,8 @@ VoicePlay("T020100000_01_190");
 MsgDisp("Kazama","You looked intently at the orange pinwheel
 I bought at a stall at the summer
 festival.");
-MsgDisp("主人公","Yeah......
-Everything is the same as back then......");
+MsgDisp("主人公","Yeah...
+Everything is the same as back then...");
 Wait(30,0);
 ChEye(1,2);
 ChMouth(1,2);
@@ -195,7 +195,7 @@ ChEyeOpenLevel(1,10);
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_220");
 MsgDisp("Kazama","――｛主人公｝.");
-MsgDisp("主人公","......Yes.");
+MsgDisp("主人公","...Yes.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,0);

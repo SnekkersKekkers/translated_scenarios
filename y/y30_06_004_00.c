@@ -93,7 +93,7 @@ university cafeteria is the best
 too.\"");
 MsgClear();
 MsgDisp("","I was taken aback.");
-MsgDisp("","\"Graduation\",\"university\"......");
+MsgDisp("","\"Graduation\",\"university\"...");
 MsgDisp("","In the middle of that casual
 conversation, those were the keywords
 that made me think back to the fact

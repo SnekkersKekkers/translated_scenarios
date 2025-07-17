@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     ScrFadeIn(0);
     MsgDisp("主人公","I guess the school trip is over
-tomorrow......");
+tomorrow...");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -59,9 +59,9 @@ But it was fun thanks to you.");
     ChMotion(1,0);
     VoicePlay("Q120100000_01_050");
     MsgDisp("Kazama","Right.
-...... That's up to you, though.");
+... That's up to you, though.");
     MsgDisp("主人公","(It really would be wonderful if we could
-come back here together sometime......)");
+come back here together sometime...)");
     break ;
     case 4:
     case 5:
@@ -109,7 +109,7 @@ on the best school trip with you.");
     VoicePlay("Q120100000_01_100");
     MsgDisp("Kazama","Then the wait would be easier.");
     ChEyeOpenLevel(1,#1);
-    MsgDisp("主人公","Yeah......");
+    MsgDisp("主人公","Yeah...");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -132,7 +132,7 @@ But everyone else is here too?");
     MsgDisp("Kazama","That's still fine.
 This would have been a dream for me back
 in the day.");
-    MsgDisp("主人公","(｛風真＊＊｝......)");
+    MsgDisp("主人公","(｛風真＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

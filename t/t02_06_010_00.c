@@ -12,7 +12,7 @@ SEWait();
 BGMPlay("BGM_C06_INORI_KOKU",0.01);
 ChOpen(6,254,7,0,0,#1,#1,0,0);
 VoicePlay("T020601000_06_010");
-MsgDisp("Himuro","That's good, you're here......");
+MsgDisp("Himuro","That's good, you're here...");
 MsgDisp("主人公","｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -38,7 +38,7 @@ ChMotion(6,0);
 VoicePlay("T020601000_06_050");
 MsgDisp("Himuro","At first, I was very frustrated.
 Things weren't going as I expected, and I
-had no time to spare......");
+had no time to spare...");
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_060");
@@ -57,10 +57,10 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020601000_06_080");
-MsgDisp("Himuro","Thinking about it now......
+MsgDisp("Himuro","Thinking about it now...
 I think, even back then I was charmed by
 you.");
-MsgDisp("主人公","Me......?");
+MsgDisp("主人公","Me...?");
 MsgClear();
 ChClose(6);
 ChCustomLayout(6,5,0,-2.5);
@@ -75,7 +75,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_100");
-MsgDisp("Himuro","Haa......
+MsgDisp("Himuro","Haa...
 Why did you have to be my senior?");
 ChEye(6,2);
 ChMouth(6,0);

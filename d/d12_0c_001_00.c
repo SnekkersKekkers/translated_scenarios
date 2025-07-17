@@ -8,7 +8,7 @@ MsgClose();
 BGOpen("wf200",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The sunset is so beautiful from
-here...... ......Hmm? Over there, is
+here... ...Hmm? Over there, is
 that——)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -30,7 +30,7 @@ StlMouth(5,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","｛柊＊＊＊｝,
-｛御影＊＊｝...... And
+｛御影＊＊｝... And
 ｛氷室＊＊｝∋ Uhm, is everyone
 practicing surfing?");
 StlEye(5,1);
@@ -40,8 +40,8 @@ riding the waves, Inori took it seriously.");
 StlEye(7,2);
 StlMouth(7,0);
 VoicePlay("D120C00100_07_010");
-MsgDisp("Mikage","O......Oh, it's nice of you to come. Inori
-is really strict...... Please say
+MsgDisp("Mikage","O...Oh, it's nice of you to come. Inori
+is really strict... Please say
 something to him.");
 StlEye(5,0);
 StlEye(6,0,0);
@@ -79,7 +79,7 @@ StlEye(7,2);
 StlMouth(7,1);
 VoicePlay("D120C00100_07_040");
 MsgDisp("Mikage","Don't do it.
-You won't be able to move tomorrow......");
+You won't be able to move tomorrow...");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -93,7 +93,7 @@ VoicePlay("D120C00100_06_020");
 MsgDisp("Himuro","If you don't keep your head up, you won't
 be able to see the waves!");
 MsgDisp("主人公","(I wonder if the two of them will be okay
-tomorrow......)");
+tomorrow...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

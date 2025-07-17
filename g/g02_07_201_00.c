@@ -22,7 +22,7 @@ ChMotion(7,1);
 VoicePlay("G020720100_07_020");
 MsgDisp("Mikage","Well, now someone else is probably in that
 unusual circumstance instead of me?");
-MsgDisp("主人公","Umm......
+MsgDisp("主人公","Umm...
 ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -40,10 +40,10 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020720100_07_050");
-MsgDisp("Mikage","Haa......
+MsgDisp("Mikage","Haa...
 That was all just my inner voice, so you
 don't need to respond.");
-MsgDisp("主人公","(｛御影＊＊｝......)");
+MsgDisp("主人公","(｛御影＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

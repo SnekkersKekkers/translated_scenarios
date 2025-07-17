@@ -2,13 +2,13 @@ MsgType(3);
 BGOpen("ad120",0);
 BGMPlay("BGM_C01_RYOUTA_D",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","\"Hey......
+MsgDisp("主人公","\"Hey...
 It's hard to eat when you're staring
 at me like that.\"");
 VoicePlay("Y300100200_01_000");
 MsgDisp("Kazama","(It was the same face she had when we
 dug up sweet potatoes in
-kindergarten......)");
+kindergarten...)");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -31,7 +31,7 @@ MsgClear();
 VoicePlay("Y300100200_01_010");
 MsgDisp("Ryota","\"Ready, go!\"");
 MsgClear();
-MsgDisp("主人公","\"Wow......
+MsgDisp("主人公","\"Wow...
 Look how big the potatoes are!
 Thank you!\"");
 MsgDisp("","She had mud on her face and was

@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home now.)");
-MsgDisp("主人公","(......Huh? ｛風真＊＊｝ is
+MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is
 over there. Well, let's have a chat then
 go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -21,7 +21,7 @@ ChOpen(1,100,1,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("G110100701_01_000");
-MsgDisp("Kazama","I lost track of time......
+MsgDisp("Kazama","I lost track of time...
 This is a nice season isn't it?");
 MsgDisp("主人公","Yeah, it feels nice, huh?
 Does ｛風真＊＊｝ also like
@@ -51,7 +51,7 @@ ChMotion(1,0);
 VoicePlay("G110100701_01_040");
 MsgDisp("Kazama","I'm going to look for treasure brought by
 the rough winter waves.");
-MsgDisp("主人公","Treasure......");
+MsgDisp("主人公","Treasure...");
 ChEye(1,1);
 ChMouth(1,2);
 ChMotion(1,0);

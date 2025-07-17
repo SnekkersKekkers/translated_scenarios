@@ -62,7 +62,7 @@ just came in.");
     ChMotion(3,2,1);
     VoicePlay("I150300000_03_070");
     MsgDisp("Honda","Ah, but I feel bad leaving without buying
-anything......");
+anything...");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -93,7 +93,7 @@ What is it today?");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("I150300000_03_110");
-    MsgDisp("Honda","......Ah, that product! It was in a
+    MsgDisp("Honda","...Ah, that product! It was in a
 magazine my younger sis was reading. So
 it's already in stock.");
     MsgDisp("主人公","Hehe, thanks!");
@@ -120,9 +120,9 @@ Thanks!");
     VoicePlay("I150300000_03_140");
     MsgDisp("Honda","No problem!
 Well, keep up the good work.");
-    MsgDisp("主人公","(......Hm? Did he really just come here to
+    MsgDisp("主人公","(...Hm? Did he really just come here to
 give me advice? ｛本多＊＊｝ is
-so kind......)");
+so kind...)");
     break ;
     default :
     DbgAssert(1);

@@ -15,7 +15,7 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
 VoicePlay("G020110304_01_020");
-MsgDisp("Kazama","A quiet night parade...... yeah, that
+MsgDisp("Kazama","A quiet night parade... yeah, that
 would be nice, huh.");
 MsgDisp("主人公","That's right, huh.");
 ChEye(1,4);
@@ -25,13 +25,13 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110304_01_030");
 MsgDisp("Kazama","Shh.
 Listen carefully.");
-MsgDisp("主人公","Eh, okay. .........");
+MsgDisp("主人公","Eh, okay. ......");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChMouthOpenLevel(1,0);
 VoicePlay("G020110304_01_040");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -103,7 +103,7 @@ VoicePlay("G020110304_01_140");
 MsgDisp("Kazama","Ahー, I can't wait for your birthday to
 come again.");
 MsgDisp("主人公","(If that were the case, I'd age
-quickly......)");
+quickly...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,7 +5,7 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("T020300050_03_000");
 MsgDisp("Honda","It has to be you.");
-MsgDisp("主人公","｛本多＊＊｝......
+MsgDisp("主人公","｛本多＊＊｝...
 Yes I also like ｛本多＊＊｝.");
 ChEye(3,3);
 ChMouth(3,3);

@@ -4,9 +4,9 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's an email from Habatcher's
 Editorial Department.)");
-MsgDisp("主人公","(Let's see, it says...... \"
+MsgDisp("主人公","(Let's see, it says... \"
 A fishing tournament is being held at the
-Habataki Campsite\"......)");
+Habataki Campsite\"...)");
 MsgDisp("主人公","(A good opportunity for an interview!)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -20,7 +20,7 @@ BGOpen("tr520",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I believe the tournament area was this
-way......)");
+way...)");
 VoiceEVSPlay(1);
 VoicePlay("D010100700_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
@@ -28,7 +28,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 SEWait();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 ｛風真＊＊｝∋
 What are you doing here?");
 ChEye(1,0);
@@ -66,7 +66,7 @@ SEPlay("EV_SE_626");
 ChClose(1);
 MsgDisp("主人公","｛風真＊＊｝, good luck∈");
 VoicePlay("D010100700_01_040");
-MsgDisp("Kazama","......Geez, what a loud person.");
+MsgDisp("Kazama","...Geez, what a loud person.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -80,7 +80,7 @@ BGMPlay("BGM_C01_RYOUTA_B",0.01);
 SEPlay("EV_SE_606");
 ScrFadeIn(0);
 Wait(60,0);
-MsgDisp("主人公","(Woah, amazing......
+MsgDisp("主人公","(Woah, amazing...
 Looks like ｛風真＊＊｝ caught
 another fish!)");
 StlEyeOpenLevel(1,5);
@@ -110,9 +110,9 @@ ChEye(1,2);
 ChMotion(1,3);
 VoicePlay("D010100700_01_060");
 MsgDisp("Kazama","Thank you.
-...... Wait, is this a Habatcher
+... Wait, is this a Habatcher
 interview?");
-MsgDisp("主人公","Ah......Right! A small interview, then.
+MsgDisp("主人公","Ah...Right! A small interview, then.
 Can you tell us about fly fishing?");
 ChEye(1,0);
 ChMouth(1,3);

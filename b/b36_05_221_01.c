@@ -12,7 +12,7 @@ ChMotion(5,4,1);
 ChEyeOpenLevel(5,0);
 ScrFadeIn(0);
 VoicePlay("B360522101_05_000");
-MsgDisp("Hiiragi","Ahh, I didn't make it in time......");
+MsgDisp("Hiiragi","Ahh, I didn't make it in time...");
 ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,9);
@@ -48,7 +48,7 @@ VoicePlay("B360522101_05_060");
 MsgDisp("Hiiragi","We can see the castle being dyed in red
 from here.
 It looks beautiful.");
-MsgDisp("主人公","Ah, you're right......
+MsgDisp("主人公","Ah, you're right...
 The castle and sky are both dyed red.");
 VoicePlay("B360522101_05_070");
 MsgDisp("Hiiragi","You can't see this view from inside the
@@ -63,8 +63,8 @@ wouldn't have seen this.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522101_05_090");
-MsgDisp("Hiiragi","I'm glad I came with you after all......");
-MsgDisp("主人公","(｛柊＊＊＊｝......)");
+MsgDisp("Hiiragi","I'm glad I came with you after all...");
+MsgDisp("主人公","(｛柊＊＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

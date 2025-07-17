@@ -32,7 +32,7 @@ That's how much you like it, huh?");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040202202_02_020");
-        MsgDisp("Sassa","I didn't mean it like that......");
+        MsgDisp("Sassa","I didn't mean it like that...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -65,7 +65,7 @@ There are many places I would like to go.");
         MsgDisp("Sassa","I want to go to many different places with
 you. Whether they're places I like or
 don't like, it doesn't matter.
-......That's the truth.");
+...That's the truth.");
         MsgDisp("主人公","I see.
 That makes me happy.");
         ChEye(2,4);

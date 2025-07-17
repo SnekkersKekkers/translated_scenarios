@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, I'm finally done with the cash
 register. Huh? Where's
-｛本多＊＊｝......)");
+｛本多＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -21,14 +21,14 @@ ChMouth(3,2);
 ChMotion(3,0);
 VoicePlay("G110300503_03_000");
 MsgDisp("Honda","No, I thought if I organized the books, it
-would sort out my mind too...... but it
+would sort out my mind too... but it
 didn't help.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300503_03_010");
-MsgDisp("Honda","Phew......
+MsgDisp("Honda","Phew...
 I've stopped organizing it now.");
 MsgClose();
 ScrFadeOut(0);
@@ -50,13 +50,13 @@ MsgDisp("Honda","I was scolded by my little sister and my
 Mom at home too.");
 MsgDisp("主人公","Ehh∋
 You talked about it at home?
-That's embarrassing......");
+That's embarrassing...");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,2,1);
 VoicePlay("G110300503_03_040");
 MsgDisp("Honda","Ehh.
-That's how it was huh......");
+That's how it was huh...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -69,7 +69,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G110300503_03_060");
-MsgDisp("Honda","So......
+MsgDisp("Honda","So...
 The fun outweighs the embarrassment right?");
 MsgDisp("主人公","Hehe, of course!");
 ChEye(3,3);
@@ -82,7 +82,7 @@ MsgDisp("Manager","You two!
 I told you that dating is prohibited in
 the storeー.");
 MsgDisp("主人公","(After all that, Maybe the embarrassment
-is greater......)");
+is greater...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

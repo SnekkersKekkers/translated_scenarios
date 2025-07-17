@@ -4,7 +4,7 @@ SEWait();
 VoicePlay("I420000000_49_000");
 MsgDisp("Manager","Yes, this is Annallee Flower Shop.");
 MsgDisp("主人公","I'm calling about your help wanted ad for
-the part-time job opening......");
+the part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

@@ -17,7 +17,7 @@ You came to cheer us on?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H480100000_01_010");
-    MsgDisp("Kazama","Well, yeah......
+    MsgDisp("Kazama","Well, yeah...
 Actually, how do I even cheer for rhythmic
 gymnastics?");
     MsgDisp("主人公","Um, clapping a lot, I guess.");
@@ -41,7 +41,7 @@ a good performance!)");
     ChMotion(1,3);
     VoicePlay("H480100000_01_030");
     MsgDisp("Kazama","There you are.");
-    MsgDisp("主人公","Ah......
+    MsgDisp("主人公","Ah...
 ｛風真＊＊｝, you came to cheer
 me on?");
     ChEye(1,4);
@@ -50,7 +50,7 @@ me on?");
     VoicePlay("H480100000_01_040");
     MsgDisp("Kazama","What, are you feeling nervous?
 With your skill, you'll be great as usual.");
-    MsgDisp("主人公","Yeah, I hope we can get a good score......");
+    MsgDisp("主人公","Yeah, I hope we can get a good score...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

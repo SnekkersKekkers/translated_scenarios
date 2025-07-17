@@ -3,7 +3,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0);
 MsgDisp("主人公","So many fireflies!
-Amazing......");
+Amazing...");
 ChMotion(8,3,1);
 VoicePlay("G020830100_08_000");
 MsgDisp("Shirahane","Haha!
@@ -15,14 +15,14 @@ ChMotion(8,0,1);
 VoicePlay("G020830100_08_010");
 MsgDisp("Shirahane","You have alot of friends, don't ya?
 I can tell just by hearing you talk.");
-MsgDisp("主人公","Friends......
+MsgDisp("主人公","Friends...
 Yeah, I guess I have a lot.");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);
 ChCheek(8,6);
 VoicePlay("G020830100_08_020");
-MsgDisp("Shirahane","Am I...... your friend?
+MsgDisp("Shirahane","Am I... your friend?
 Or——");
 MsgDisp("主人公","Eh?");
 ChEye(8,4);

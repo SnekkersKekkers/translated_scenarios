@@ -47,7 +47,7 @@ Thanks, it was fun.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q080500001_05_060");
-    MsgDisp("Hiiragi","This time from me to you......
+    MsgDisp("Hiiragi","This time from me to you...
 May I continue to accompany you during the
 next free period?");
     MsgDisp("主人公","Hehe.

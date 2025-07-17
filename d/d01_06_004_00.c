@@ -1,7 +1,7 @@
 BGOpen("sc132",1);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh......
+MsgDisp("主人公","(Huh...
 It's snowing, huh?
 I need to watch my step on the way home.)");
 VoicePlay("D010600400_06_000");
@@ -44,14 +44,14 @@ StlMouth(6,1);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
 VoicePlay("D010600400_06_020");
-MsgDisp("Himuro","...... Who was it?
+MsgDisp("Himuro","... Who was it?
 Do you have something against me?");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("D010600400_06_030");
 MsgDisp("Himuro","But it's pointless.
-It won't work against me......");
-MsgDisp("主人公","(Woah......
+It won't work against me...");
+MsgDisp("主人公","(Woah...
 ｛氷室＊＊｝ caught the snowball!)");
 VoicePlay("D010600400_40_020");
 MsgDisp("Male Student A","My bad, Himuro!
@@ -59,7 +59,7 @@ My hand slipped!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600400_06_040");
-MsgDisp("Himuro","...... Hmph.
+MsgDisp("Himuro","... Hmph.
 This is nothing.");
 VoicePlay("D010600400_41_030");
 MsgDisp("Male Student B","I guess that's exactly what you'd expect
@@ -68,7 +68,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600400_06_050");
-MsgDisp("Himuro","......Huh?");
+MsgDisp("Himuro","...Huh?");
 VoicePlay("D010600400_41_040");
 MsgDisp("Male Student B","Legend has it that once Vice Principal
 Himuro caught a blackboard eraser before
@@ -84,9 +84,9 @@ StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);
 VoicePlay("D010600400_06_070");
-MsgDisp("Himuro","............");
+MsgDisp("Himuro","......");
 VoicePlay("D010600400_41_060");
-MsgDisp("Male Student B","......Ugh, sorry.");
+MsgDisp("Male Student B","...Ugh, sorry.");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600400_06_080");
@@ -121,7 +121,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D010600400_06_100");
-MsgDisp("Himuro","...... Ah, I see.
+MsgDisp("Himuro","... Ah, I see.
 That's fine then.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -131,7 +131,7 @@ MsgDisp("Himuro","Anyway, let's go home quickly.
 I've been waiting for a while and it's
 cold.");
 MsgDisp("主人公","Ah, sorry!
-...... Wait, when did we make plans to
+... Wait, when did we make plans to
 walk home together?");
 ChEye(6,0);
 ChMouth(6,3);

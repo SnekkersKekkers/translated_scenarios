@@ -35,7 +35,7 @@ I'll keep watch from here.");
         ChEyeOpenLevel(4,0);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040406102_04_030");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         MsgDisp("主人公","Um, if you dislike it, how about we do
 something else?");
         ChEye(4,0);

@@ -10,15 +10,15 @@ switch (ChPrmGet(4,6)){
     VoicePlay("H2A0400001_04_000");
     MsgDisp("Nanatsumori","Yo.
 Good work.");
-    MsgDisp("主人公","｛七ツ森＊｝......");
+    MsgDisp("主人公","｛七ツ森＊｝...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("H2A0400001_04_010");
-    MsgDisp("Nanatsumori","Hey...... stop that.
+    MsgDisp("Nanatsumori","Hey... stop that.
 Do you want me to comfort you?
 Me, who's super bad at sports?");
-    MsgDisp("主人公","......Hehe, ahaha!");
+    MsgDisp("主人公","...Hehe, ahaha!");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -27,7 +27,7 @@ Me, who's super bad at sports?");
 Well, as long as you're happy, I guess.");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the track and field club
-manager......)");
+manager...)");
     break ;
     case 4:
     case 5:
@@ -40,22 +40,22 @@ manager......)");
     VoicePlay("H2A0400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.
 Good work.");
-    MsgDisp("主人公","｛七ツ森＊｝......
-Ugh......");
+    MsgDisp("主人公","｛七ツ森＊｝...
+Ugh...");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("H2A0400001_04_050");
     MsgDisp("Nanatsumori","Wait.
 Don't start crying right here.");
-    MsgDisp("主人公","Huh......");
+    MsgDisp("主人公","Huh...");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("H2A0400001_04_060");
     MsgDisp("Nanatsumori","You're going to make me cry, too.
 I think I really will.");
-    MsgDisp("主人公","......Hehe!");
+    MsgDisp("主人公","...Hehe!");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -75,7 +75,7 @@ High track team is, including you.");
 I'm proud of you, actually.");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the track and field club
-manager......)");
+manager...)");
     break ;
     default :
     DbgAssert(1);

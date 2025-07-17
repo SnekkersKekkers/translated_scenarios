@@ -13,8 +13,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     MsgDisp("主人公","｛柊＊＊＊｝, we couldn't take
-home the championship......
-It's so frustrating......");
+home the championship...
+It's so frustrating...");
     VoicePlay("H2A0500001_05_000");
     MsgDisp("Hiiragi","I see.");
     MsgDisp("主人公","But you know, a lot of members also set
@@ -33,7 +33,7 @@ to those players.");
     MsgDisp("Hiiragi","Personal bests are purely personal.
 For their cherished manager, everyone must
 have been aiming for the championship.");
-    MsgDisp("主人公","｛柊＊＊＊｝......");
+    MsgDisp("主人公","｛柊＊＊＊｝...");
     ChEye(5,4);
     VoicePlay("H2A0500001_05_030");
     MsgDisp("Hiiragi","Please, continue this conversation with
@@ -42,7 +42,7 @@ They are waiting over there.");
     MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. We
 might have lost, but I'm glad that I
 stayed as the track and field club
-manager......)");
+manager...)");
     break ;
     default :
     DbgAssert(1);

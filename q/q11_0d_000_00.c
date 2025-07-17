@@ -37,7 +37,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("Q110D00000_21_020");
-MsgDisp("Michiru","A glass bead......?");
+MsgDisp("Michiru","A glass bead...?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -50,17 +50,17 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Q110D00000_21_030");
-MsgDisp("Michiru","Oh no......
-I also bought for us three as memory......
-Look......");
-MsgDisp("主人公","Actually, me too......");
+MsgDisp("Michiru","Oh no...
+I also bought for us three as memory...
+Look...");
+MsgDisp("主人公","Actually, me too...");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("Q110D00000_22_030");
 MsgDisp("Hikaru","There are all color different colored
-glass beads......?
+glass beads...?
 We all thought of the same thing∋");
 ChEye(22,3);
 ChMouth(22,3);
@@ -77,7 +77,7 @@ MsgDisp("Michiru","Yeah, really.
 How could you forget such an interesting
 event?");
 MsgDisp("主人公","Hehe!
-Yeah, I'll never forget......!");
+Yeah, I'll never forget...!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

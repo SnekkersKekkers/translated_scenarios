@@ -15,7 +15,7 @@ VoicePlay("G020110302_01_010");
 MsgDisp("Kazama","Yeah, what're the chances we'd wear the
 same design from the same brand?
 I wonder how we looked to everyone else.");
-MsgDisp("主人公","......Like two people deeply in love?");
+MsgDisp("主人公","...Like two people deeply in love?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -37,7 +37,7 @@ ChMotion(1,0);
 VoicePlay("G020110302_01_040");
 MsgDisp("Kazama","Really?
 If you're not into that kind of stuff,
-then fine, but......");
+then fine, but...");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -56,7 +56,7 @@ VoicePlay("G020110302_01_060");
 MsgDisp("Kazama","Wait. Our uniforms are basically a set so
 variety's better for dates. The excitement
 over what you'll wear to them's
-important......");
+important...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);
@@ -71,9 +71,9 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("G020110302_01_080");
 MsgDisp("Kazama","No, matching swimsuits are seriously
-dangerous......");
+dangerous...");
 MsgDisp("主人公","(I can hear everything you're saying,
-｛風真＊＊｝......
+｛風真＊＊｝...
 Wait, is this how he really feels?)");
 BGMStop();
 MsgClose();

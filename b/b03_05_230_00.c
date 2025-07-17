@@ -35,7 +35,7 @@ the line already!");
     ChMotion(5,5);
     VoicePlay("B030523000_05_020");
     MsgDisp("Hiiragi","That feeling of floating while falling
-through the air......
+through the air...
 Interesting!");
     break ;
     case 1:

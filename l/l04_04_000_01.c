@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Hm, well, I guess that's it......)");
+    MsgDisp("主人公","(Hm, well, I guess that's it...)");
     break ;
     case 3:
     ChEye(4,0);
@@ -20,7 +20,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,1);
     VoicePlay("L040400001_04_010");
     MsgDisp("Nanatsumori","I see it's obligatory chocolate.");
-    MsgDisp("主人公","What......?");
+    MsgDisp("主人公","What...?");
     ChEye(4,4);
     ChMouth(4,0);
     ChMotion(4,0,1);
@@ -40,7 +40,7 @@ Thank you.");
     ChMouth(4,2);
     ChMotion(4,0);
     VoicePlay("L040400001_04_030");
-    MsgDisp("Nanatsumori",".........? Are you sure you're giving this
+    MsgDisp("Nanatsumori","......? Are you sure you're giving this
 to the right person?");
     MsgDisp("主人公","You're ｛七ツ森＊｝,
 right?");
@@ -48,16 +48,16 @@ right?");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("L040400001_04_040");
-    MsgDisp("Nanatsumori","No way......
-Obligatory, obligatory, obligatory......");
+    MsgDisp("Nanatsumori","No way...
+Obligatory, obligatory, obligatory...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(He seemed depressed......
+    MsgDisp("主人公","(He seemed depressed...
 Maybe I should've given him better
-chocolate......?)");
+chocolate...?)");
     break ;
     default :
     DbgAssert(1);

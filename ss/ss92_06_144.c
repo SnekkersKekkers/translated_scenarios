@@ -3,5 +3,5 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("SS9206144_06_000");
-MsgDisp("Himuro","It's quiet......");
+MsgDisp("Himuro","It's quiet...");
 MsgClose();

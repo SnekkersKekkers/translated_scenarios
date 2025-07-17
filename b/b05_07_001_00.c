@@ -48,8 +48,8 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("B050700100_07_040");
-MsgDisp("Mikage","............");
-MsgDisp("主人公","......?");
+MsgDisp("Mikage","......");
+MsgDisp("主人公","...?");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700100_07_050");
@@ -63,12 +63,12 @@ StlEyeOpenLevel(7,5);
 VoicePlay("B050700100_07_060");
 MsgDisp("Mikage","This is as much retaliation as I can
 muster.");
-MsgDisp("主人公","......｛御影＊＊｝?");
+MsgDisp("主人公","...｛御影＊＊｝?");
 StlEye(7,0,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700100_07_070");
-MsgDisp("Mikage","Heeh, I feel relieved.
+MsgDisp("Mikage","Ehhh, I feel relieved.
 When I do this.");
 StlEye(7,0);
 StlMouth(7,0);
@@ -113,7 +113,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B050700100_07_130");
 MsgDisp("Mikage","...Thank you.");
-MsgDisp("主人公","｛御影＊＊｝......");
+MsgDisp("主人公","｛御影＊＊｝...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.5,0.3);
 ChClose(7);

@@ -4,6 +4,6 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,10);
 VoicePlay("SS9206114_06_000");
-MsgDisp("Himuro","No publicity, though......");
+MsgDisp("Himuro","No publicity, though...");
 MsgClose();
 ChCheek(6,0);

@@ -5,7 +5,7 @@ ChCheek(8,5);
 SEPlay("EV_SE_668");
 SEWait();
 VoicePlay("K010800101_08_000");
-MsgDisp("Shirahane","Amazing......
+MsgDisp("Shirahane","Amazing...
 You a psychic?");
 MsgDisp("主人公","Hm?");
 ChEye(8,3);

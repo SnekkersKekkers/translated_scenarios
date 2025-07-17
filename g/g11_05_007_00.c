@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("G110500700_40_000");
 MsgDisp("Male Student","Opposite side!
 Let's goー!");
-MsgDisp("主人公","(The schoolyard is lively......
+MsgDisp("主人公","(The schoolyard is lively...
 It looks like the boys are playing
 soccer.)");
 VoiceEVSPlay(5);

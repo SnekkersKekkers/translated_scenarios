@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he
+MsgDisp("主人公","(That's right...｛風真＊＊｝ said he
 wanted to talk to me on the way home.
-......I wonder what could it be?)");
+...I wonder what could it be?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -54,7 +54,7 @@ MsgDisp("Kazama","I was happy that you were always so close
 though?");
 ChMotion(1,0);
 MsgDisp("主人公","(I wonder if ｛風真＊＊｝ wants
-to hold hands more......)");
+to hold hands more...)");
 while (1){
     RunEverydaySksp(1,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -79,9 +79,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110101001_01_090");
 MsgDisp("Kazama","Hey, let's hold hands whilst walking home.");
-MsgDisp("主人公","Y-Yeah.......");
+MsgDisp("主人公","Y-Yeah....");
 MsgDisp("主人公","(So he wanted to hold hands after
-all......)");
+all...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

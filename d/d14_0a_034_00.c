@@ -13,7 +13,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140A03400_01_010");
-MsgDisp("Kazama","ＯＫ.");
+MsgDisp("Kazama","OK.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

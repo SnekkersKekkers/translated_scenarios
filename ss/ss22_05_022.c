@@ -4,6 +4,6 @@ ChMotion(5,0);
 ChCheek(5,5);
 VoicePlay("SS2205022_05_000");
 MsgDisp("Hiiragi","That's strange, my cheeks are
-burning......");
+burning...");
 MsgClose();
 ChCheek(5,0);

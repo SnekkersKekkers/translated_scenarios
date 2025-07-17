@@ -8,7 +8,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew!
-Time flies......
+Time flies...
 It was so much fun.");
 ChMouth(1,3);
 VoicePlay("Q080B00100_01_000");
@@ -33,7 +33,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("Q080B00100_01_020");
-MsgDisp("Kazama","Ugh, yes. ...... please.");
+MsgDisp("Kazama","Ugh, yes. ... please.");
 MsgDisp("主人公","Hehe, mee too!");
 ChMouth(1,0);
 ChEye(3,3);
@@ -89,7 +89,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("Q080B00100_01_040");
 MsgDisp("Kazama","What?
-That's not what I meant......");
+That's not what I meant...");
 MsgDisp("主人公","Well, I'll see you at this place the
 morning after tomorrow.");
 ChEye(1,2);

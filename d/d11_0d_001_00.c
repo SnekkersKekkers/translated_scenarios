@@ -43,7 +43,7 @@ VoicePlay("D110D00100_21_010");
 MsgDisp("Michiru","These three colors are also beautiful.
 Mari's love has been distributed well and
 they are all in harmony.");
-MsgDisp("主人公","The color of the roses have changed......?");
+MsgDisp("主人公","The color of the roses have changed...?");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -64,7 +64,7 @@ MsgDisp("Michiru","Please pour your love into all kinds of
 roses.
 They are all worth raising.");
 MsgDisp("主人公","(A change in the flowerbed of my
-heart......? I guess I should ask
+heart...? I guess I should ask
 ｛ひかる＊｝ later.)");
 BGMStop();
 MsgClose();

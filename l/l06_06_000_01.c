@@ -13,7 +13,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,10);
 VoicePlay("L060600001_06_010");
-MsgDisp("Himuro","...... Hey.
+MsgDisp("Himuro","... Hey.
 I'll just say this first, but it's the
 thought that counts, okay?");
 MsgDisp("主人公","Huh?");
@@ -31,7 +31,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("L060600001_06_030");
 MsgDisp("Himuro","Yeah.
-...... 'Cuz I was happy about Valentine's.");
+... 'Cuz I was happy about Valentine's.");
 MsgDisp("主人公","Hehe, thanks!");
 ChEye(6,0);
 ChMouth(6,0);

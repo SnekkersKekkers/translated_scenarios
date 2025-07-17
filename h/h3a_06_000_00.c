@@ -30,7 +30,7 @@ club!)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0600000_06_020");
-    MsgDisp("Himuro","Strong......");
+    MsgDisp("Himuro","Strong...");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!
 You were watching?");
     ChEye(6,0);
@@ -44,7 +44,7 @@ It was brilliant.");
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("H3A0600000_06_040");
-    MsgDisp("Himuro","......Maybe I should work out a little
+    MsgDisp("Himuro","...Maybe I should work out a little
 more too.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);

@@ -74,8 +74,7 @@ MsgDisp("Michiru","... Sorry, Mari.
 Could I borrow it first, then hand
 it to Hikaru after that?");
 MsgDisp("主人公","I don't have biology today, so that's
-fine.
-That's good, isn't it?");
+fine.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

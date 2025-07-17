@@ -21,7 +21,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("Q020100000_01_010");
     MsgDisp("Kazama","Hey, how about we spend the free period
 together?");
-    MsgSel("Yes, I'm coming!","Sorry, it's just......");
+    MsgSel("Yes, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);
@@ -45,8 +45,8 @@ This is going to be fun!)");
         VoicePlay("Q020100000_01_040");
         MsgDisp("Kazama","Ah, is that so.
 Don't wander off and get lost.
-......Bye.");
-        MsgDisp("主人公","(He even invited me, I feel bad......)");
+...Bye.");
+        MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :
         DbgAssert(0);
@@ -77,7 +77,7 @@ Have you decided who you're going with for the free period?");
     ChCheek(1,7);
     VoicePlay("Q020100000_01_070");
     MsgDisp("Kazama","I want to go with you.");
-    MsgSel("Sure, I'm coming!","Sorry, it's just......");
+    MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);
@@ -94,7 +94,7 @@ I was thinking of where I want to go.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("Q020100000_01_090");
-        MsgDisp("Kazama","Oh well......
+        MsgDisp("Kazama","Oh well...
 So, where do you want to go?");
         MsgDisp("主人公","(Hehe, this free period is gonna be fun!)");
         break ;
@@ -107,7 +107,7 @@ So, where do you want to go?");
         VoicePlay("Q020100000_01_100");
         MsgDisp("Kazama","Oh, so you already have a prior
 commitment? Alright. Have fun.");
-        MsgDisp("主人公","(He even invited me, I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :
         DbgAssert(0);

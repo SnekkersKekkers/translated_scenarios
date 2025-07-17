@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("O020500001_05_000");
     MsgDisp("Hiiragi","That was quite close.
 Thank you for your hard work.");
-    MsgDisp("主人公","(Haa, but I wanted to win......
+    MsgDisp("主人公","(Haa, but I wanted to win...
 I should've tried harder.)");
     break ;
     case 3:
@@ -21,7 +21,7 @@ I should've tried harder.)");
     VoicePlay("O020500001_05_010");
     MsgDisp("Hiiragi","You put all your effort into pulling.
 Thank you for your hard work.");
-    MsgDisp("主人公","(Haa, but I wanted to win......
+    MsgDisp("主人公","(Haa, but I wanted to win...
 I should've tried harder.)");
     break ;
     case 4:
@@ -34,7 +34,7 @@ I should've tried harder.)");
     MsgDisp("Hiiragi","Yes, it doesn't look like you have any
 injuries.
 Thank you for your hard work.");
-    MsgDisp("主人公","(Haa, but I wanted to win......
+    MsgDisp("主人公","(Haa, but I wanted to win...
 I should've tried harder.)");
     break ;
     default :

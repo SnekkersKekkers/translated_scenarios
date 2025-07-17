@@ -45,18 +45,18 @@ I'll go home alone.)");
     ChMouth(21,2);
     ChMotion(21,0);
     VoicePlay("F012100004_21_030");
-    MsgDisp("Michiru","Ah......");
+    MsgDisp("Michiru","Ah...");
     MsgDisp("主人公","Could it be that you're busy?");
     ChMouth(21,4);
     ChMotion(21,2);
     VoicePlay("F012100004_21_040");
     MsgDisp("Michiru","That's right.
 Sorry, Mari.
-Bye......");
+Bye...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(21);
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 Oh well, I'll go home alone.)");
     break ;
     default :

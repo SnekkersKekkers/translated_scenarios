@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250400000_04_000");
-    MsgDisp("Nanatsumori","......Ah.");
+    MsgDisp("Nanatsumori","...Ah.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Welcome!");
     VoicePlay("I250400000_04_010");
@@ -61,7 +61,7 @@ You're kinda cool.");
     case 5:
     MsgDisp("主人公","(All the covers in the sweets magazine
 cover are so cute.
-They look delicious......)");
+They look delicious...)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
@@ -81,10 +81,10 @@ Good work.");
     ChMouth(4,3);
     ChMotion(4,2);
     VoicePlay("I250400000_04_080");
-    MsgDisp("Nanatsumori","...... Ah.
+    MsgDisp("Nanatsumori","... Ah.
 Aah, this is poison to my eyes.
 Hm, poison, or heaven?");
-    MsgDisp("主人公","......Right?");
+    MsgDisp("主人公","...Right?");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0);
@@ -98,10 +98,10 @@ much.");
     ChMotion(4,1);
     ChCheek(4,5);
     VoicePlay("I250400000_04_100");
-    MsgDisp("Nanatsumori","...... No prob.
+    MsgDisp("Nanatsumori","... No prob.
 Want to head to this specialty sweets shop
 with me next time?");
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 Is he inviting me on a date?)");
     break ;
     default :

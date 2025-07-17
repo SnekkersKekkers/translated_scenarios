@@ -14,7 +14,7 @@ busy and lively on New years, huh.");
     ChMouth(7,4);
     ChMotion(7,3);
     VoicePlay("S090700000_07_010");
-    MsgDisp("Mikage","......What's with that line?");
+    MsgDisp("Mikage","...What's with that line?");
     MsgDisp("主人公","Must be fortunes, I think...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -41,7 +41,7 @@ I hope we get good ones.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("S090700000_07_040");
-        MsgDisp("Mikage","That's unfortunate......
+        MsgDisp("Mikage","That's unfortunate...
 If you don't want to do it, then it's best
 just to ignore it.");
         MsgClose();
@@ -58,7 +58,7 @@ just to ignore it.");
     MsgClose();
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090700000_07_050");
-    MsgDisp("Mikage","That maze of people......
+    MsgDisp("Mikage","That maze of people...
 That's where they do fortunes, right?");
     MsgDisp("主人公","｛御影＊＊｝ seems to
 like fortunes");
@@ -90,7 +90,7 @@ Let's go.");
         VoicePlay("S090700000_07_080");
         MsgDisp("Mikage","I see.
 Are you getting tired?");
-        MsgDisp("主人公","Yeah, a little......");
+        MsgDisp("主人公","Yeah, a little...");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -153,7 +153,7 @@ Leave it to me.");
         MsgDisp("Mikage","Oh, I see.
 If you don't like it, then you shouldn't.");
         MsgDisp("主人公","(｛御影＊＊｝, feels like he really wanted
-to pull fortunes......
+to pull fortunes...
 Did I make the wrong choice?)");
         MsgClose();
         ScrFadeOut(0,0);

@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040601000_06_000");
 MsgDisp("Himuro","This would look good on you.");
-MsgSel("You're right, I'll buy it!","I see......","It doesn't suit me!");
+MsgSel("You're right, I'll buy it!","I see...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

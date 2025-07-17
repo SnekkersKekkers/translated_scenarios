@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("O040500001_05_000");
     MsgDisp("Hiiragi","We've lost.
 What a shame.");
-    MsgDisp("主人公","(We lost......
+    MsgDisp("主人公","(We lost...
 I should've tried harder.)");
     break ;
     case 3:
@@ -23,7 +23,7 @@ I should've tried harder.)");
     VoicePlay("O040500001_05_010");
     MsgDisp("Hiiragi","Aah, a loss.
 It's quite difficult to get them in.");
-    MsgDisp("主人公","(We lost......
+    MsgDisp("主人公","(We lost...
 I should've tried harder.)");
     break ;
     case 4:
@@ -35,7 +35,7 @@ I should've tried harder.)");
     ChEyeOpenLevel(5,0);
     VoicePlay("O040500001_05_020");
     MsgDisp("Hiiragi","Hm, I had wanted to celebrate with you.");
-    MsgDisp("主人公","(We lost......
+    MsgDisp("主人公","(We lost...
 I should've tried harder.)");
     break ;
     default :

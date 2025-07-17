@@ -30,7 +30,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130000_01_030");
-MsgDisp("Kazama","......Now that I imagine it, that's pretty
+MsgDisp("Kazama","...Now that I imagine it, that's pretty
 scary.");
 MsgDisp("主人公","Hmmm.
 I'm not sure if he would.");
@@ -39,7 +39,7 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_040");
-MsgDisp("Kazama","Inori would......probably say something to
+MsgDisp("Kazama","Inori would...probably say something to
 ruin the mood, like, 'They say fireflies
 are the souls of the dead.'");
 ChEye(1,0);

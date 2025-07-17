@@ -14,7 +14,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("H2A0700001_07_000");
     MsgDisp("Mikage","｛主人公｝, it was close.
 The championship was just out of reach.");
-    MsgDisp("主人公","Yes......");
+    MsgDisp("主人公","Yes...");
     ChEye(7,2);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -26,7 +26,7 @@ The championship was just out of reach.");
     VoicePlay("H2A0700001_07_020");
     MsgDisp("Mikage","It's not your fault, but mine.
 I'm sorry I was such a careless advisor.");
-    MsgDisp("主人公","That's not......");
+    MsgDisp("主人公","That's not...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -39,7 +39,7 @@ supported them with everything you had.");
     VoicePlay("H2A0700001_07_040");
     MsgDisp("Mikage","Thanks to that, lots of members achieved
 new personal bests.");
-    MsgDisp("主人公","Yes, everyone did their best......");
+    MsgDisp("主人公","Yes, everyone did their best...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -53,9 +53,9 @@ To make you do my job as well.");
     VoicePlay("H2A0700001_07_060");
     MsgDisp("Mikage","Come on, everyone's waiting for you.
 Go.");
-    MsgDisp("主人公","(We didn't win championships, but......
+    MsgDisp("主人公","(We didn't win championships, but...
 Everyone really did their best.
-I'm glad I kept up with the club......)");
+I'm glad I kept up with the club...)");
     break ;
     default :
     DbgAssert(1);

@@ -1,7 +1,7 @@
 BGOpen("sc121",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛風真＊＊｝, you said you'd come back
-before our graduation......)");
+before our graduation...)");
 MsgDisp("主人公","(——Ah, Maybe he's over there...?)");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
@@ -14,19 +14,19 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 I wish he contacted me but I wonder if
-something happened......?)");
+something happened...?)");
 SEPlay("EV_SE_597",0.5,0.2);
 Wait(70,0);
 SEPlay("EV_SE_795",0.2,0.25);
 Wait(100,0);
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Eh∋
-Now......)");
+Now...)");
 Wait(100,0);
 SEStop("EV_SE_795",2.8);
-MsgDisp("主人公","(Church bells......)");
+MsgDisp("主人公","(Church bells...)");
 VoicePlay("T010000100_01_000");
 MsgDisp("Ryota","Ah, hey the bell!
 I heard it again!");

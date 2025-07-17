@@ -45,7 +45,7 @@ ChMotion(5,0);
 VoicePlay("B360501100_05_050");
 MsgDisp("Hiiragi","Is that right?
 But having you all to myself is a success.");
-MsgDisp("主人公","｛柊＊＊＊｝......?");
+MsgDisp("主人公","｛柊＊＊＊｝...?");
 ChEye(5,3);
 VoicePlay("B360501100_05_060");
 MsgDisp("Hiiragi","Hehe, just kidding.
@@ -55,7 +55,7 @@ ChMotion(5,4);
 VoicePlay("B360501100_05_070");
 MsgDisp("Hiiragi","Of course, even if it's just us two.");
 MsgDisp("主人公","(｛柊＊＊＊｝ seems a little different than
-when he's with everyone......
+when he's with everyone...
 I was a bit startled.)");
 BGMStop();
 MsgClose();

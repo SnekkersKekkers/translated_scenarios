@@ -23,7 +23,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130100_01_030");
 MsgDisp("Kazama","It feels like there are more of them
-lately. ......Well, one more. That's how
+lately. ...Well, one more. That's how
 it seems to me anyways.");
 MsgDisp("主人公","Umm, aren't we talking about fireflies?");
 ChEye(1,2);
@@ -38,7 +38,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130100_01_050");
 MsgDisp("Kazama","Normally I think I'm special, so I endure
-it......but truthfully, I'm impatient.");
+it...but truthfully, I'm impatient.");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -58,7 +58,7 @@ ChMotion(1,0);
 VoicePlay("G020130100_01_080");
 MsgDisp("Kazama","That's the one thing I won't surrender.");
 MsgDisp("主人公","(｛風真＊＊｝, your face is really
-serious......)");
+serious...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

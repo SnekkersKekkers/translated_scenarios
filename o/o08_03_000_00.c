@@ -5,7 +5,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛本多＊＊｝.)");
     MsgClose();
     ChOpen(3,30,1,0,3,#1,#1,0,0);
@@ -13,7 +13,7 @@ Ah, it's ｛本多＊＊｝.)");
     MsgDisp("Honda","Let's dance!");
     break ;
     case 3:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛本多＊＊｝.)");
     MsgClose();
     ChOpen(3,30,1,4,3,#1,#1,0,0);
@@ -23,7 +23,7 @@ I don't mind if you step on me, though.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛本多＊＊｝.)");
     MsgClose();
     ChOpen(3,30,3,3,3,#1,#1,0,0);
@@ -36,9 +36,9 @@ We finally met.");
     ChMotion(3,2);
     ChCheek(3,8);
     VoicePlay("O080300000_03_030");
-    MsgDisp("Honda","Hm...... that's weird.
+    MsgDisp("Honda","Hm... that's weird.
 Even though I've been waiting all this
-time, I'm getting nervous, now......");
+time, I'm getting nervous, now...");
     break ;
     default :
     DbgAssert(1);

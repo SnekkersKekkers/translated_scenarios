@@ -17,7 +17,7 @@ ChMouth(3,4);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020320300_03_020");
-MsgDisp("Honda","Age differences, races, backgrounds......
+MsgDisp("Honda","Age differences, races, backgrounds...
 each person was different.");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(3,0);
@@ -27,7 +27,7 @@ VoicePlay("G020320300_03_030");
 MsgDisp("Honda","But there was one thing they all had in
 common.
 Can you guess?");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 What was it?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -41,14 +41,14 @@ ChMotion(3,0);
 VoicePlay("G020320300_03_050");
 MsgDisp("Honda","To make the other person happy, you can
 give gifts, cook for them, or compliment
-them......");
+them...");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020320300_03_060");
 MsgDisp("Honda","There are many ways to do it, but am I
 making you happy?");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(3,5);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -78,7 +78,7 @@ I feel like my sister would scold me for
 that one.");
 MsgDisp("主人公","(Hehe!
 I enjoy ｛本多＊＊｝'s talks
-though......)");
+though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

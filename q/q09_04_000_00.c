@@ -4,7 +4,7 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(｛七ツ森＊｝ is......
+    MsgDisp("主人公","(｛七ツ森＊｝ is...
 Ah, there!)");
     MsgDisp("主人公","Good morning,
 ｛七ツ森＊｝.");
@@ -39,7 +39,7 @@ Are we leaving already?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("Q090400000_04_040");
-    MsgDisp("Nanatsumori","ＯＫ.");
+    MsgDisp("Nanatsumori","OK.");
     break ;
     case 4:
     case 5:
@@ -52,7 +52,7 @@ Are we leaving already?");
     MsgDisp("Nanatsumori","Mornin..");
     MsgDisp("主人公","｛七ツ森＊｝, good
 morning!
-...... Are you sleepy?");
+... Are you sleepy?");
     ChMotion(4,0,1);
     VoicePlay("Q090400000_04_060");
     MsgDisp("Nanatsumori","I couldn't sleep.");

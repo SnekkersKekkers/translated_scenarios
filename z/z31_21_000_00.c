@@ -16,4 +16,4 @@ You mentioned I could ask you, right?");
 VoicePlay("Z312100000_21_020");
 MsgDisp("Michiru","Leave it to me.
 Ask me anything.");
-MsgDisp("主人公","Well......");
+MsgDisp("主人公","Well...");

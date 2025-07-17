@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
 MsgDisp("主人公","(A phone call.
-Ah......
+Ah...
 A private number!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
@@ -32,7 +32,7 @@ VoicePlay("D030901500_09_040");
 MsgDisp("Kuya","You too, don't push yourself so hard,
 either. There's more to school life than
 just studying.");
-MsgDisp("主人公","Ah......right. The school festival is
+MsgDisp("主人公","Ah...right. The school festival is
 happening soon so they've started prepping
 for all the plays and events.");
 VoicePlay("D030901500_09_050");
@@ -44,15 +44,15 @@ VoicePlay("D030901500_09_060");
 MsgDisp("Kuya","Okay, time to hang up.
 If I talk to you for too long, it'll
 interfere with your studies.");
-MsgDisp("主人公","U-Uhm......");
+MsgDisp("主人公","U-Uhm...");
 VoicePlay("D030901500_09_070");
 MsgDisp("Kuya","Good night, then.");
-MsgDisp("主人公","Ah......
-Okay, good night......");
+MsgDisp("主人公","Ah...
+Okay, good night...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(Hmm......I wanted to invite Kuya-san to
+MsgDisp("主人公","(Hmm...I wanted to invite Kuya-san to
 the school festival but it would interfere
-with his studies......)");
+with his studies...)");
 MsgClose();
 ScrFadeOut(0,0);

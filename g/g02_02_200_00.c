@@ -9,7 +9,7 @@ ChMotion(2,0);
 VoicePlay("G020220000_02_010");
 MsgDisp("Sassa","So, look, I know that I'm not the one
 closest to you.");
-MsgDisp("主人公","What......");
+MsgDisp("主人公","What...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -21,7 +21,7 @@ ChMotion(2,4);
 VoicePlay("G020220000_02_030");
 MsgDisp("Sassa","It's just, since you came here today, does
 that mean I have a chance?");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -58,9 +58,9 @@ ChMouth(2,2);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220000_02_090");
-MsgDisp("Sassa","The taking it easy's the hard part......");
+MsgDisp("Sassa","The taking it easy's the hard part...");
 MsgDisp("主人公","(I think ｛颯砂＊＊｝'s not quite
-his usual self today......)");
+his usual self today...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

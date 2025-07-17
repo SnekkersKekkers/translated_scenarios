@@ -14,7 +14,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020201022_02_010");
-MsgDisp("Sassa","Seriously......
+MsgDisp("Sassa","Seriously...
 You're always getting the better of me.");
 MsgDisp("主人公","I'm sorry.
 I couldn't express it in words.");
@@ -25,7 +25,7 @@ VoicePlay("T020201022_02_020");
 MsgDisp("Sassa","Ah, don't apologize.
 I'm the one who's usually sorry.
 So, thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -40,7 +40,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020201022_02_040");
-MsgDisp("Sassa","...... Yeah.
+MsgDisp("Sassa","... Yeah.
 Let's keep running together.");
 BGMStop(2.8);
 MsgClear();
@@ -53,7 +53,7 @@ VoicePlay("T020201022_02_050");
 MsgDisp("Sassa","Now it's my turn to hug you.");
 VoiceEVSPlay(2);
 VoicePlay("T020201022_02_060");
-MsgDisp("Sassa","｛主人公｝......
+MsgDisp("Sassa","｛主人公｝...
 I love you.");
 StlEffect(1,1,60);
 Wait(60,0);

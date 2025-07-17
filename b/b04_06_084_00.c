@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040608400_06_010");
-    MsgDisp("Himuro","Heeh, that's surprising, you're a
+    MsgDisp("Himuro","Ehhh, that's surprising, you're a
 literature girl? Well, it's important to
 experience printed text.");
     MsgDispSksp(1,0);

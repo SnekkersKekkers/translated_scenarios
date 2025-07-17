@@ -19,7 +19,7 @@ VoicePlay("D230000003_31_010");
 MsgDisp("Goro","Today you are one of them.
 A beautiful, shining diamond.
 You've completed your Journalist Level.");
-MsgDisp("主人公","Goro-sensei......
+MsgDisp("主人公","Goro-sensei...
 Thank you so much!");
 ChEye(31,4);
 ChMouth(31,4);
@@ -33,7 +33,7 @@ would you like to continue working at our
 company in the future?");
 VoicePlay("D240000003_45_020");
 MsgDisp("Shirahane Mayo","With you, Habatcher will become even
-more......No, with you here, Habataki City
+more...No, with you here, Habataki City
 will become even more lively.");
 ChEye(31,0);
 ChMouth(31,0);
@@ -42,7 +42,7 @@ VoicePlay("D240000003_41_030");
 MsgDisp("Tanaka Shin","I'd welcome that idea too!
 Please give it some thought!");
 MsgDisp("主人公","(Do I want to work in Habatcher's
-Editorial Department......I guess I should
+Editorial Department...I guess I should
 think about it a bit more?)");
 MsgClose();
 ScrFadeOut(0,0);

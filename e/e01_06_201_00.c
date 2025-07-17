@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to head home.
-...... Huh?)");
+... Huh?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,255,3,0,4,#1,#1,0,1,0,30);
@@ -21,8 +21,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010620100_06_000");
-MsgDisp("Himuro","............");
-MsgDisp("主人公","Um......
+MsgDisp("Himuro","......");
+MsgDisp("主人公","Um...
 ｛氷室＊＊｝?
 What's wrong?");
 ChEye(2,0);
@@ -47,7 +47,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620100_06_020");
-MsgDisp("Himuro","I wish he hadn't......
+MsgDisp("Himuro","I wish he hadn't...
 I was forced to play a match even if I
 didn't want to.");
 ChEye(2,0);
@@ -76,7 +76,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010620100_02_050");
-MsgDisp("Sassa","......Ah sorry. I should go soon. I had
+MsgDisp("Sassa","...Ah sorry. I should go soon. I had
 fun thanks to you. See you!");
 MsgDisp("主人公","Okay, take care!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -88,7 +88,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,7);
 VoicePlay("E010620100_06_040");
-MsgDisp("Himuro","......He's definitely lying.");
+MsgDisp("Himuro","...He's definitely lying.");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -102,7 +102,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620100_06_060");
 MsgDisp("Himuro","There's no way someone who just started
-today could do that easily......");
+today could do that easily...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -110,7 +110,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("E010620100_06_070");
 MsgDisp("Himuro","It's definitely a lie.");
 MsgDisp("主人公","(I think ｛氷室＊＊｝ is having
-trouble accepting defeat......)");
+trouble accepting defeat...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

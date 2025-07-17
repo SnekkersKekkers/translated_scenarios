@@ -15,7 +15,7 @@ time try not to invite me on a Tuesday or
 a Thursday. See you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(I asked him out on a work day......
+MsgDisp("主人公","(I asked him out on a work day...
 I should remember he's working on Tuesdays
 and Thursdays.)");
 MsgClose();

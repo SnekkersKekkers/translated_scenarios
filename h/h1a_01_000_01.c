@@ -11,22 +11,22 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0100001_01_000");
     MsgDisp("Kazama","Yo.");
-    MsgDisp("主人公","｛風真＊＊｝......
-We lost......");
+    MsgDisp("主人公","｛風真＊＊｝...
+We lost...");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("H1A0100001_01_010");
     MsgDisp("Kazama","Yeah, but you got a lot more applause
 compared to the other team you know?");
-    MsgDisp("主人公","Really......?");
+    MsgDisp("主人公","Really...?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H1A0100001_01_020");
     MsgDisp("Kazama","Yeah, I was impressed too.
 Thanks.");
-    MsgDisp("主人公","｛風真＊＊｝......");
+    MsgDisp("主人公","｛風真＊＊｝...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -34,7 +34,7 @@ Thanks.");
     MsgDisp("Kazama","Come on, keep your head up, and get back
 to being yourself.
 Everyone's waiting for you.");
-    MsgDisp("主人公","...... Yeah.
+    MsgDisp("主人公","... Yeah.
 Thanks, ｛風真＊＊｝.");
     MsgDisp("主人公","(We lost, but I'm glad I did my best.)");
     break ;
@@ -45,8 +45,8 @@ Thanks, ｛風真＊＊｝.");
     ScrFadeIn(0);
     VoicePlay("H1A0100001_01_040");
     MsgDisp("Kazama","That was a good match, wasn't it?");
-    MsgDisp("主人公","Ugh, ｛風真＊＊｝......
-We lost......");
+    MsgDisp("主人公","Ugh, ｛風真＊＊｝...
+We lost...");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -54,7 +54,7 @@ We lost......");
     VoicePlay("H1A0100001_01_050");
     MsgDisp("Kazama","It's fine if you want to cry, just for
 today.");
-    MsgDisp("主人公","Yeah......");
+    MsgDisp("主人公","Yeah...");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
     ChEye(1,4);
@@ -76,7 +76,7 @@ this.");
     VoicePlay("H1A0100001_01_080");
     MsgDisp("Kazama","I'm jealous of the guys in the baseball
 club.");
-    MsgDisp("主人公","Yeah......");
+    MsgDisp("主人公","Yeah...");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -98,7 +98,7 @@ With that smile of yours.");
 just for me.");
     MsgDisp("主人公","(Thank you, ｛風真＊＊｝.
 We might have lost, but I'll cherish this
-memory forever......)");
+memory forever...)");
     break ;
     default :
     DbgAssert(1);

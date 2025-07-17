@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛柊＊＊＊｝, I guess......");
+MsgDisp("主人公","｛柊＊＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -24,7 +24,7 @@ with him?");
     MsgDisp("Hikaru","If you want Yanosuke-san to look your way,
 wouldn't it be a good idea to align his
 world with reality?");
-    MsgDisp("主人公","(I see......I guess we should try to
+    MsgDisp("主人公","(I see...I guess we should try to
 experience the history of the theater as
 well as the present together.)");
     break ;

@@ -14,7 +14,7 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H1A0200001_02_000");
     MsgDisp("Sassa","｛主人公｝, it's too bad.");
-    MsgDisp("主人公","｛颯砂＊＊｝......
+    MsgDisp("主人公","｛颯砂＊＊｝...
 We lost.
 It's frustrating.");
     ChEye(2,0);
@@ -32,7 +32,7 @@ comfort.");
 Take as much time as you need to feel
 better.");
     MsgDisp("主人公","(｛颯砂＊＊｝, thank you.
-Haa, it really is frustrating......)");
+Haa, it really is frustrating...)");
     break ;
     default :
     DbgAssert(1);

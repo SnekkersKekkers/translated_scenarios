@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Phew, I had a big lunch. I think
+MsgDisp("主人公","(...Phew, I had a big lunch. I think
 I'll spend the rest of my break on the
 rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -13,7 +13,7 @@ SEWait();
 VoicePlay("D010300200_03_000");
 MsgDisp("Honda?","Yaaay!");
 MsgDisp("主人公","(∋
-That voice, is that maybe......)");
+That voice, is that maybe...)");
 SEPlay("EV_SE_616",0.2,0.6);
 Wait(16,0);
 BGOpen("sc231",0);
@@ -37,7 +37,7 @@ StlEye(3,1);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);
 VoicePlay("D010300200_03_020");
-MsgDisp("Honda","Actually......
+MsgDisp("Honda","Actually...
 My little sister just got accepted into
 her first choice junior high school!");
 MsgDisp("主人公","Wow, that's awesome!
@@ -68,9 +68,9 @@ MsgClose();
 ChOpen(3,254,0,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010300200_03_050");
-MsgDisp("Honda","She always says......\"
+MsgDisp("Honda","She always says...\"
 Thank you for the unnecessary
-explanation......\"");
+explanation...\"");
 MsgDisp("主人公","Hehe!");
 ChEye(3,1);
 ChMouth(3,4);
@@ -116,7 +116,7 @@ BGMStop();
 ChClose(3);
 MsgDisp("主人公","(He left a super realistic giant isopod
 plushie on his sister's bed Will she be
-okay......?)");
+okay...?)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

@@ -10,7 +10,7 @@ VoicePlay("D010300700_43_000");
 MsgDisp("Moderator","Correct answer∈ And the winner of the
 \"Quiz Brain Interhigh\" is Habataki
 Academy's second year student——");
-MsgDisp("主人公","(Eh......)");
+MsgDisp("主人公","(Eh...)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ex990",0);
@@ -67,7 +67,7 @@ ScrFadeOut(0);
 StlClose();
 MsgDisp("主人公","(Hehe! It ended in the middle of what he
 was saying. ｛本多＊＊｝ was
-amazing though......)");
+amazing though...)");
 MsgDisp("主人公","(I wonder if he'll let me interview him
 for Habatcher?)");
 MsgClose();
@@ -123,7 +123,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D010300700_03_080");
-MsgDisp("Honda","Then the broadcast ended......
+MsgDisp("Honda","Then the broadcast ended...
 So I came here to do it in person.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -136,8 +136,8 @@ Wait(45,0);
 SEPlay("EV_SE_DOOR_023");
 ChClose(3);
 MsgDisp("主人公","(I'm glad he didn't shout my name on
-TV......It would be troublesome when we go
-back to school after break......)");
+TV...It would be troublesome when we go
+back to school after break...)");
 MsgDisp("主人公","(Ah! Didn't I want to interview
 ｛本多＊＊｝? Quick, let's go
 after him while he's still nearby!)");

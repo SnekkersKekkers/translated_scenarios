@@ -55,7 +55,7 @@ Let's enjoy the view.");
     ChMotion(5,4);
     VoicePlay("B030523001_05_040");
     MsgDisp("Hiiragi","The scenery is beautiful until you look
-down......This is the charm of riding the
+down...This is the charm of riding the
 Ferris Wheel.");
     break ;
     case 2:
@@ -109,7 +109,7 @@ you like.");
     ChMouth(5,4);
     ChEyeOpenLevel(5,8);
     VoicePlay("B030523001_05_090");
-    MsgDisp("Hiiragi","It's over there, alright......");
+    MsgDisp("Hiiragi","It's over there, alright...");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -124,7 +124,7 @@ you like.");
     ScrFadeIn(0);
     VoicePlay("B030523001_05_100");
     MsgDisp("Hiiragi","The props here need a bit more work,
-somehow......");
+somehow...");
     break ;
     default :
     DbgAssert(0);

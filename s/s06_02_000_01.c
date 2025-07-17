@@ -62,7 +62,7 @@ I'm glad I wore a kimono!)");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S060200001_02_060");
-    MsgDisp("Sassa","Yeah, a kimono......
+    MsgDisp("Sassa","Yeah, a kimono...
 That suits you well.");
     MsgDisp("主人公","Really?
 Thank you.");
@@ -92,8 +92,8 @@ what I was expecting!");
     ChMotion(2,3);
     ChCheek(2,10);
     VoicePlay("S060200001_02_100");
-    MsgDisp("Sassa","Yeah......
-Wow, so beautiful......");
+    MsgDisp("Sassa","Yeah...
+Wow, so beautiful...");
     MsgDisp("主人公","(Yes!
 I'm happy that ｛颯砂＊＊｝ likes
 it!)");

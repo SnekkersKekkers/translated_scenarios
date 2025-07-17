@@ -36,11 +36,11 @@ ChEye(5,4);
 VoicePlay("B360550100_05_030");
 MsgDisp("Hiiragi","I'm sorry to those two, but I wanted to
 talk to you alone.");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 ChEye(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550100_05_040");
-MsgDisp("Hiiragi","Haa, yes......");
+MsgDisp("Hiiragi","Haa, yes...");
 MsgDisp("主人公","So, what is it?");
 ChEye(5,3);
 ChMouth(5,2);
@@ -55,7 +55,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,5);
 VoicePlay("B360550100_05_060");
-MsgDisp("Hiiragi","Oh...... that too......
+MsgDisp("Hiiragi","Oh... that too...
 Anything is fine.");
 MsgDisp("主人公","Huh?");
 ChMotion(5,0);

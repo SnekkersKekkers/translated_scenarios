@@ -1,7 +1,7 @@
 BGOpen("wf200",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well then......
+MsgDisp("主人公","(Well then...
 Should I go home now?)");
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 MsgClose();
@@ -19,7 +19,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010540000_22_010");
 MsgDisp("Hikaru","I'm waiting for the chairman.");
-MsgDisp("主人公","Chairman......
+MsgDisp("主人公","Chairman...
 ｛柊＊＊＊｝?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(22,2);
@@ -65,7 +65,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,8);
 VoicePlay("E010540000_22_040");
-MsgDisp("Hikaru","Hahaha......
+MsgDisp("Hikaru","Hahaha...
 Mari was so surprised.
 Yanosuke-san could've played along better.");
 ChEye(22,3);
@@ -106,7 +106,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("E010540000_22_070");
-MsgDisp("Hikaru","Wow...... It's a premium ticket. Should I
+MsgDisp("Hikaru","Wow... It's a premium ticket. Should I
 ask uncle if it's okay for me, Mari, and
 sis to go too?");
 MsgDisp("主人公","Eh, is it okay?");

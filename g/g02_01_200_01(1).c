@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(1,255,0,4,2,#1,#1,0,0);
 VoicePlay("G020120001_01_000");
-MsgDisp("Kazama","It's beautiful but...... they're
+MsgDisp("Kazama","It's beautiful but... they're
 desperately shining to find a partner.");
 MsgDisp("主人公","I see.");
 ChEye(1,4);
@@ -10,7 +10,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120001_01_010");
 MsgDisp("Kazama","They wait for 10 months to finally become
-adults......");
+adults...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -35,7 +35,7 @@ MsgDisp("Kazama","Listen, it can't be helped if you choose
 someone other than me. But, I have a
 responsibility to my younger self, from
 first grade to ninth grade.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -46,7 +46,7 @@ If things stay like this, my younger self
 won't be satisfied");
 MsgDisp("主人公","(Today's ｛風真＊＊｝ is
 different to usual.
-I wonder what's wrong......)");
+I wonder what's wrong...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

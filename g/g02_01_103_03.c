@@ -3,7 +3,7 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110303_01_000");
 MsgDisp("Kazama","This is a really impressive number of
-fireflies......");
+fireflies...");
 MsgDisp("主人公","Yeah, it's amazing.");
 ChEye(1,4);
 ChMouth(1,0);
@@ -44,7 +44,7 @@ ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110303_01_050");
-MsgDisp("Kazama","......That makes it harder for me to find
+MsgDisp("Kazama","...That makes it harder for me to find
 you, so hold still a bit more, would you?");
 MsgDisp("主人公","Hahah.
 What are you getting upset over?");
@@ -57,7 +57,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110303_01_070");
-MsgDisp("Kazama","...... Mm?
+MsgDisp("Kazama","... Mm?
 Actually, hasn't one of them been hanging
 out in front of us for a while now?");
 MsgDisp("主人公","Wah!

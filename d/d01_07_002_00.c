@@ -1,19 +1,19 @@
 ChLayout(1);
 BGOpen("sc510",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's already this late......)");
+MsgDisp("主人公","(It's already this late...)");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_DOOR_019");
 Wait(10,0);
 BGOpen("sc300",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Everyone already left......
+MsgDisp("主人公","(Everyone already left...
 I should go home quickly, too.)");
 SEPlay("EV_SE_594",0,0.5);
 Wait(30,0);
 MsgDisp("主人公","Eh∋
-W-What......∋");
+W-What...∋");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_512",1,0.5);
@@ -25,19 +25,19 @@ StlEyeOpenLevel(7,0,1);
 BGMPlay("BGM_C07_MIKAGE_B",0.01);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","∈ ｛御影＊＊｝......!
+MsgDisp("主人公","∈ ｛御影＊＊｝...!
 What's wrong?");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("D010700200_07_000");
 MsgDisp("Mikage","Oh, it's you, huh?
-My hair tie fell off somewhere......");
+My hair tie fell off somewhere...");
 StlEye(7,1,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("D010700200_07_010");
 MsgDisp("Mikage","I can't seem to find it anywhere～");
-MsgDisp("主人公","Ah, that's......");
+MsgDisp("主人公","Ah, that's...");
 StlEye(7,0,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,5,1);
@@ -50,12 +50,12 @@ StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("D010700200_07_030");
 MsgDisp("Mikage","Really?
-Hmm......");
+Hmm...");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("D010700200_07_040");
 MsgDisp("Mikage","Different in what kind of way?");
-MsgDisp("主人公","Uhm......
+MsgDisp("主人公","Uhm...
 In a good way.");
 StlEye(7,0);
 StlMouth(7,0);
@@ -84,7 +84,7 @@ VoicePlay("D010700200_07_070");
 MsgDisp("Mikage","You should hurry home nowー!");
 MsgDisp("主人公","Ah, yes sir!");
 MsgDisp("主人公","(｛御影＊＊｝ left. I hope they don't scold
-him in the staff room......But he looks
+him in the staff room...But he looks
 kind of cool, huh?)");
 MsgClose();
 ScrFadeOut(0,0);

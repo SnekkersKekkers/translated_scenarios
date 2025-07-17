@@ -20,21 +20,21 @@ Do you have a minute?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040600001_06_010");
     MsgDisp("Himuro","Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand......");
+    MsgSel("Yeah, I'm free.", "I have to run an errand...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
         case 1:
         VoicePlay("J040600001_06_020");
-        MsgDisp("Himuro","Oh......");
+        MsgDisp("Himuro","Oh...");
         MsgDisp("主人公","Sorry.");
         VoicePlay("J040600001_06_030");
-        MsgDisp("Himuro","If you have plans, I don't blame you......
-So......
+        MsgDisp("Himuro","If you have plans, I don't blame you...
+So...
 See you then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I feel bad about what I did......)");
+        MsgDisp("主人公","(I feel bad about what I did...)");
         MsgClose();
         break ;
         default :

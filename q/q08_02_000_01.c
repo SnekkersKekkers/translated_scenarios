@@ -6,7 +6,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Haah...... that was fun!
+    MsgDisp("主人公","Haah... that was fun!
 Thanks for coming with me.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -23,7 +23,7 @@ too?");
     MsgDisp("Sassa","Okay, I'll see you here tomorrow morning!");
     break ;
     case 3:
-    MsgDisp("主人公","Haah......
+    MsgDisp("主人公","Haah...
 It was so much fun!");
     ChEye(2,0);
     ChMouth(2,3);
@@ -48,7 +48,7 @@ Meet me here next time.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Haah...... that was fun!");
+    MsgDisp("主人公","Haah... that was fun!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

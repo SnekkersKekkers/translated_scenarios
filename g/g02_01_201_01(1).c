@@ -18,7 +18,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120101_01_020");
 MsgDisp("Kazama","But you seem pretty busy, don't you?");
-MsgDisp("主人公","Eh, I don't think that's true......");
+MsgDisp("主人公","Eh, I don't think that's true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -38,10 +38,10 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120101_01_050");
-MsgDisp("Kazama","Haa...... I don't really want to say
+MsgDisp("Kazama","Haa... I don't really want to say
 things like this. Sorry. I made you feel
 bad.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -61,9 +61,9 @@ ChMouth(1,4);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120101_01_080");
-MsgDisp("Kazama","Even if your feelings change......");
+MsgDisp("Kazama","Even if your feelings change...");
 MsgDisp("主人公","(｛風真＊＊｝, somewhat seems like he's in
-pain......?)");
+pain...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

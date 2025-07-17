@@ -18,13 +18,13 @@ VoicePlay("G020120100_01_020");
 MsgDisp("Kazama","I'm only looking at you.
 But near you, there's someone else, isn't
 there?");
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_030");
-MsgDisp("Kazama","...... Sorry.
+MsgDisp("Kazama","... Sorry.
 But, I want to know your feelings even a
 little.");
 ChEye(1,2);
@@ -67,7 +67,7 @@ VoicePlay("G020120100_01_080");
 MsgDisp("Kazama","Being at a slight disadvantage is the
 perfect handicap, right?");
 MsgDisp("主人公","(｛風真＊＊｝, you seem troubled about
-something......)");
+something...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

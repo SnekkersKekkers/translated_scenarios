@@ -15,7 +15,7 @@ VoicePlay("B070300000_03_260");
 MsgDisp("Honda","Yeah, I guess it depends on how you define
 the word hobby. Do you mean it in the
 sense of something you like and do
-habitually......");
+habitually...");
 MsgDisp("主人公","Don't overthink it.");
 ChMotion(3,4);
 VoicePlay("B070300000_03_270");
@@ -50,7 +50,7 @@ doesn't it make you think of Earth's
 ancient oceans? In addition to that, I
 like to use my telescope.");
 MsgDisp("主人公","(｛本多＊＊｝'s hobbies are not so easy to
-learn......)");
+learn...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

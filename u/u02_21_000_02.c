@@ -4,9 +4,9 @@ MsgClose();
 ChOpen(21,255,4,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U022100002_21_000");
-MsgDisp("Michiru","What a pretty fountain......");
+MsgDisp("Michiru","What a pretty fountain...");
 MsgDisp("主人公","It really is.
-I feel like I'm being sucked in......");
+I feel like I'm being sucked in...");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -26,7 +26,7 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("U022100002_21_030");
 MsgDisp("Michiru","You will be able to hear the other
-person's true thoughts and feelings......");
+person's true thoughts and feelings...");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
@@ -34,7 +34,7 @@ VoicePlay("U022100002_21_040");
 MsgDisp("Michiru","When you're surrounded by beautiful
 scenery, your heart sometimes begins to
 flutter. Maybe that's why.");
-MsgDisp("主人公","Yeah......
+MsgDisp("主人公","Yeah...
 What do you mean?");
 ChEye(21,0);
 ChMouth(21,3);

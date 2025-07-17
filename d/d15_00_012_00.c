@@ -44,7 +44,7 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001200_01_030" ) ;
-MsgDisp ( "Kazama","...... Geez.
+MsgDisp ( "Kazama","... Geez.
 What the hell are you talking about?" ) ;
 MsgDisp ( "主人公","That sounds fun.
 What should we play?" ) ;

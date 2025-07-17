@@ -66,7 +66,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("F100220002_02_040");
-MsgDisp("Sassa","............");
+MsgDisp("Sassa","......");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);

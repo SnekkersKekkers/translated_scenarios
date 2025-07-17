@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("O020200001_02_000");
     MsgDisp("Sassa","Oh, you look frustrated.
 You almost had it.");
-    MsgDisp("主人公","Yeah......");
+    MsgDisp("主人公","Yeah...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -19,7 +19,7 @@ You almost had it.");
     MsgDisp("Sassa","It's fine.
 Rather than just feeling bad after losing,
 I like this feeling a lot better.");
-    MsgDisp("主人公","(｛颯砂＊＊｝, is that a compliment......?
+    MsgDisp("主人公","(｛颯砂＊＊｝, is that a compliment...?
 Haa, how frustrating.)");
     break ;
     case 3:
@@ -50,7 +50,7 @@ But I still wanted to win.");
     MsgDisp("Sassa","That's good. With that determination,
 victory is sure to come. Let's do our best
 until the end.");
-    MsgDisp("主人公","(Haa...... How frustrating. But, like
+    MsgDisp("主人公","(Haa... How frustrating. But, like
 ｛颯砂＊＊｝ said, let's do our
 best until the end of the sports
 festival.)");
@@ -63,13 +63,13 @@ festival.)");
     VoiceEVSPlay(2);
     VoicePlay("O020200001_02_060");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","｛颯砂＊＊｝, I lost......");
+    MsgDisp("主人公","｛颯砂＊＊｝, I lost...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("O020200001_02_070");
     MsgDisp("Sassa","Yeah, how frustrating.
-Just one more push......");
+Just one more push...");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

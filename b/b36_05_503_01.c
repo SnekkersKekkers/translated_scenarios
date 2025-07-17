@@ -18,7 +18,7 @@ ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550301_05_000");
-MsgDisp("Hiiragi","I've been demoted to 'water boy'......
+MsgDisp("Hiiragi","I've been demoted to 'water boy'...
 Now there's no way I can relax.");
 MsgDisp("主人公","Uh, yeah.
 Shall we go now?");
@@ -34,12 +34,12 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360550301_05_020");
 MsgDisp("Hiiragi","So what were we talking about?");
-MsgDisp("主人公","Hmm......?
-What was it again......?");
+MsgDisp("主人公","Hmm...?
+What was it again...?");
 ChEye(5,0);
 ChMouth(5,2);
 VoicePlay("B360550301_05_030");
-MsgDisp("Hiiragi","The store staff came.......");
+MsgDisp("Hiiragi","The store staff came....");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -54,10 +54,10 @@ ChMotion(5,4);
 VoicePlay("B360550301_05_050");
 MsgDisp("Hiiragi","Maybe high school students have designated
 seats?");
-MsgDisp("主人公","I wonder......");
+MsgDisp("主人公","I wonder...");
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550301_05_060");
-MsgDisp("Hiiragi","Hmm......");
+MsgDisp("Hiiragi","Hmm...");
 Wait(20,1);
 ChEye(5,2);
 ChMotion(5,0);

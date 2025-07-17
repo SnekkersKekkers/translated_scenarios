@@ -26,7 +26,7 @@ Here, take this.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("K010700100_07_010");
-    MsgDisp("Mikage","Gifts from students are......");
+    MsgDisp("Mikage","Gifts from students are...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

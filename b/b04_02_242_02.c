@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040224202_02_010");
-    MsgDisp("Sassa","Heehー, you're interested too huh!");
+    MsgDisp("Sassa","Ehhhー, you're interested too huh!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

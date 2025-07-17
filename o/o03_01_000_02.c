@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
 Being this far out of sync is actually
 funny.");
     MsgDisp("主人公","(Hm.
-The three-legged race is hard......)");
+The three-legged race is hard...)");
     break ;
     case 3:
     MsgClose();
@@ -21,7 +21,7 @@ The three-legged race is hard......)");
     ScrFadeIn(0);
     VoicePlay("O030100002_01_010");
     MsgDisp("Kazama","We're last?
-There must be some kind of mistake......");
+There must be some kind of mistake...");
     MsgDisp("主人公","I'm the one who dragged us down.");
     ChEye(1,0);
     ChMouth(1,1);
@@ -31,9 +31,9 @@ There must be some kind of mistake......");
 Let's go to school together from now on
 with our legs tied together.");
     MsgDisp("主人公","Huh!?");
-    MsgDisp("主人公","(Last, huh......
+    MsgDisp("主人公","(Last, huh...
 Looks like something weird started in
-｛風真＊＊｝......)");
+｛風真＊＊｝...)");
     break ;
     case 4:
     case 5:
@@ -44,7 +44,7 @@ Looks like something weird started in
     ChMotion(1,3);
     VoicePlay("O030100002_01_030");
     MsgDisp("Kazama","Amazing, last.");
-    MsgDisp("主人公","Um......
+    MsgDisp("主人公","Um...
 Sorry.
 It's probably my fault.");
     ChEye(1,0);
@@ -68,9 +68,9 @@ too.");
     VoicePlay("O030100002_01_060");
     MsgDisp("Kazama","It depends on how you look at it.
 For us, last is fine, isn't it?");
-    MsgDisp("主人公","(Last, huh......
+    MsgDisp("主人公","(Last, huh...
 But ｛風真＊＊｝ doesn't seem
-to care about our rank......)");
+to care about our rank...)");
     break ;
     default :
     DbgAssert(1);

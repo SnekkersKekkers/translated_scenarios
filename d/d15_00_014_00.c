@@ -26,7 +26,7 @@ ChEye ( 4,0 ) ;
 ChMouth ( 4,0 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150001400_04_020" ) ;
-MsgDisp ( "Nanatsumori","......I guess so. What about \"Habataki
+MsgDisp ( "Nanatsumori","...I guess so. What about \"Habataki
 Gozen\", a recipe passed down through the
 Kazama family, head suppliers to Habataki
 Castle royals." ) ;
@@ -48,7 +48,7 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001400_01_020" ) ;
-MsgDisp ( "Kazama","ＯＫ. Nanatsumori will deal with the
+MsgDisp ( "Kazama","OK. Nanatsumori will deal with the
 presentation. I'll leave the flavors to
 you." ) ;
 MsgDisp ( "主人公","Huh, me?" ) ;

@@ -5,7 +5,7 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040211001_02_000");
-MsgDisp("Sassa","Heeh, we can ride on a float down the
+MsgDisp("Sassa","Ehhh, we can ride on a float down the
 waterslide?");
 MsgSel("Seems fun!","It seems a little scary though","There's a two seater one▼");
 switch (MsgSelRsltGet()){

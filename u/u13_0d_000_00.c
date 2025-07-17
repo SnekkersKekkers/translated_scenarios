@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛風真＊＊｝, I guess......");
+MsgDisp("主人公","｛風真＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -24,7 +24,7 @@ I wonder if Kazama-kun and Mari have two
 different definitions of \"love\"?");
     MsgDisp("主人公","(Is there a difference between my love and
 ｛風真＊＊｝'s \"love\"?
-I wonder what that means......)");
+I wonder what that means...)");
     break ;
     case 3:
     StlEye(22,0);
@@ -35,7 +35,7 @@ I wonder what that means......)");
     VoicePlay("U130D00000_21_010");
     MsgDisp("Michiru","Hehe.
 The amazing childhood sweethearts.");
-    MsgDisp("主人公","......Eh?");
+    MsgDisp("主人公","...Eh?");
     StlEyeOpenLevel(21,0,1);
     VoicePlay("U130D00000_21_020");
     MsgDisp("Michiru","I'm sure you two like each other but there

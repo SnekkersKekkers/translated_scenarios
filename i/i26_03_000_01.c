@@ -13,7 +13,7 @@ switch (ChPrmGet(3,6)){
 I'll do the cash register.");
     MsgDisp("主人公","Ah, I'm still okay.
 There are still customers, so at this
-rate......");
+rate...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -24,7 +24,7 @@ since you just started.");
     VoicePlay("I260300000_03_140");
     MsgDisp("Honda","But you can't just try hard, you have to
 rest properly, too.");
-    MsgDisp("主人公","...... Okay.
+    MsgDisp("主人公","... Okay.
 Then, can I leave the rest to you?");
     ChEye(3,3);
     ChMouth(3,3);
@@ -38,7 +38,7 @@ break.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Is this......");
+    MsgDisp("主人公","Is this...");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,0,4,#1,#1,0,0,0,5);
@@ -58,12 +58,12 @@ good reputation with the community!");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_180");
-    MsgDisp("Honda","...... And, the manager planned the event,
+    MsgDisp("Honda","... And, the manager planned the event,
 right?
 I heard a lot of people applied.");
     MsgDisp("主人公","Right.
 About that, one of the little girls who
-comes here often......");
+comes here often...");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);
@@ -83,7 +83,7 @@ recognize your hard work.");
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_210");
     MsgDisp("Honda","Even I didn't get a portrait, you know?");
-    MsgDisp("主人公","(A portrait of someone you like......
+    MsgDisp("主人公","(A portrait of someone you like...
 Alright, let's work even harder!)");
     break ;
     default :

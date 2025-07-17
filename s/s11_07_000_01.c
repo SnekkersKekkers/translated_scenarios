@@ -28,13 +28,13 @@ ChMotion(7,4);
 VoicePlay("S110700001_07_030");
 MsgDisp("Mikage","I know. I guess I should go apologize to
 Vice Principal Himuro before the Excellent
-Luck wears off......");
+Luck wears off...");
 MsgDisp("主人公","Ehh∋
 Did you do something?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("S110700001_07_040");
-MsgDisp("Mikage","......Nope, not yet.");
+MsgDisp("Mikage","...Nope, not yet.");
 MsgDisp("主人公","(His Excellent Luck will run out too
-quickly......)");
+quickly...)");

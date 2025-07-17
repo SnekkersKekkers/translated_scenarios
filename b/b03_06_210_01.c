@@ -11,14 +11,14 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B030621001_06_000");
-    MsgDisp("Himuro","Eh......why.");
-    MsgDisp("主人公","Why......?");
+    MsgDisp("Himuro","Eh...why.");
+    MsgDisp("主人公","Why...?");
     MsgDispSksp(1,0);
     ChEye(6,0);
     ChMouth(6,2);
     ChMotion(6,1);
     VoicePlay("B030621001_06_010");
-    MsgDisp("Himuro","Sigh......
+    MsgDisp("Himuro","Sigh...
 Got it.
 Let's go quickly.");
     MsgDispSksp(0);

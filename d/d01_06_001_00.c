@@ -18,7 +18,7 @@ SEPlay("EV_SE_DOOR_011",0,1);
 Wait(80,0);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","No one's here so......
+MsgDisp("主人公","No one's here so...
 I'll have the rooftop all to myself
 today♪");
 VoicePlay("D010600100_06_000");
@@ -35,7 +35,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600100_06_010");
 MsgDisp("Himuro","Yeah.
-...... Alright, time to get started.");
+... Alright, time to get started.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
@@ -51,14 +51,14 @@ StlEye(6,0);
 StlMouth(6,0);
 EfctOpen(14);
 ScrFadeIn(0);
-MsgDisp("主人公","......Hey, is that maybe all you're having
+MsgDisp("主人公","...Hey, is that maybe all you're having
 for lunch?");
 StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
 VoicePlay("D010600100_06_030");
 MsgDisp("Himuro","Is that bad?");
-MsgDisp("主人公","It's not bad but......
+MsgDisp("主人公","It's not bad but...
 Maybe a bit surprising.");
 StlEye(6,0,0);
 StlMouth(6,0);
@@ -80,7 +80,7 @@ StlMouth(6,0);
 VoicePlay("D010600100_06_060");
 MsgDisp("Himuro","There are sides.
 Look, eggs, green onions.");
-MsgDisp("主人公","(He sounds like a little kid......)");
+MsgDisp("主人公","(He sounds like a little kid...)");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600100_06_070");
@@ -93,7 +93,7 @@ side from my lunch?");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600100_06_080");
-MsgDisp("Himuro","...... If you're giving it to me, I'll eat
+MsgDisp("Himuro","... If you're giving it to me, I'll eat
 it.
 Give it here.");
 MsgClose();
@@ -110,7 +110,7 @@ MsgClose();
 ScrFadeIn(0);
 ChOpen(6,254,0,3,0,#1,#1,0,0);
 VoicePlay("D010600100_06_100");
-MsgDisp("Himuro","............∈");
+MsgDisp("Himuro","......∈");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -142,7 +142,7 @@ ChEyeOpenLevel(6,0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","......Am I bad at cooking eggplant.");
+MsgDisp("主人公","...Am I bad at cooking eggplant.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -160,7 +160,7 @@ VoicePlay("D010600100_06_150");
 MsgDisp("Himuro","It's black on the outside and white on the
 inside, and when it gets heated up, the
 texture becomes gross and mushy.");
-MsgDisp("主人公","Are you trying to say that you...... hate
+MsgDisp("主人公","Are you trying to say that you... hate
 eggplant?");
 ChEye(6,1);
 ChMouth(6,1);
@@ -168,7 +168,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600100_06_160");
 MsgDisp("Himuro","I wouldn't say hate, it just has issues.");
-MsgDisp("主人公","(｛氷室＊＊｝ hates eggplant......
+MsgDisp("主人公","(｛氷室＊＊｝ hates eggplant...
 I think.)");
 BGMStop();
 MsgClose();

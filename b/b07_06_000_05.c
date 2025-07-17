@@ -21,7 +21,7 @@ ChMotion(6,0);
 VoicePlay("B070600000_06_270");
 MsgDisp("Himuro","I like playing Chess and Go on my
 computer.");
-MsgDisp("主人公","Heeh!");
+MsgDisp("主人公","Ehhh!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

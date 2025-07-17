@@ -24,7 +24,7 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(Another year, huh I hope it's a good
-year......)");
+year...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

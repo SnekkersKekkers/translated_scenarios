@@ -11,7 +11,7 @@ VoicePlay("U212200000_22_000");
 MsgDisp("Hikaru","Hey.
 Can you give me your hand?");
 MsgDisp("主人公","What?
-...... Jewelry?");
+... Jewelry?");
 ChMotion(22,0,1);
 VoicePlay("U212200000_22_010");
 MsgDisp("Hikaru","Yeah. Hikaru got it for work but doesn't

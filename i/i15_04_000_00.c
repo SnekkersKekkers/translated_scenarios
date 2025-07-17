@@ -20,23 +20,23 @@ Welcome!");
     ChMouth(4,2);
     ChMotion(4,4,1);
     VoicePlay("I150400000_04_010");
-    MsgDisp("Nanatsumori","Wait, your voice is loud......");
+    MsgDisp("Nanatsumori","Wait, your voice is loud...");
     MsgDisp("主人公","Hm, but, I am working at this store,
-so......");
+so...");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("I150400000_04_020");
     MsgDisp("Nanatsumori","Sure.
 But did you need to call my name, too?");
-    MsgDisp("主人公","Ah......
+    MsgDisp("主人公","Ah...
 I see, sorry.");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I150400000_04_030");
     MsgDisp("Nanatsumori","Nah, you don't need to apologize,
-but...... Good luck with work. See you.");
+but... Good luck with work. See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -102,7 +102,7 @@ check on me?)");
     VoicePlay("I150400000_04_080");
     MsgDisp("Nanatsumori","｛主人公｝.
 Good work.");
-    MsgDisp("主人公","Ah......
+    MsgDisp("主人公","Ah...
 If you're dressed like that, are you about
 to go to work?");
     ChMouth(4,4);
@@ -117,7 +117,7 @@ Thanks.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I150400000_04_100");
-    MsgDisp("Nanatsumori","......Ah, that product over there is
+    MsgDisp("Nanatsumori","...Ah, that product over there is
 pretty hot on the market right now. Nice.
 The display's good, too.");
     MsgDisp("主人公","Really?
@@ -137,7 +137,7 @@ Let's both work hard.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(｛七ツ森＊｝ came to cheer me on......
+    MsgDisp("主人公","(｛七ツ森＊｝ came to cheer me on...
 Yeah, I'm going to do my best!)");
     break ;
     default :

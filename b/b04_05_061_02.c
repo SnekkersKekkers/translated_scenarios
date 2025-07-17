@@ -30,7 +30,7 @@ away? ...seems fun.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040506102_05_020");
-    MsgDisp("Hiiragi","Heeh...
+    MsgDisp("Hiiragi","Ehhh...
 Hey, why don't we go?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

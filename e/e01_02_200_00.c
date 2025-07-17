@@ -1,7 +1,7 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, time to head home......)");
+MsgDisp("主人公","(Alright, time to head home...)");
 VoiceEVSPlay(2);
 VoicePlay("E010220000_02_000");
 MsgDisp("Sassa?","｛主人公｝.");
@@ -17,8 +17,8 @@ MsgDisp("Sassa","Just like Ryota said, you're here!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010220000_01_000");
-MsgDisp("Kazama","Hahh......
-Hahhh......");
+MsgDisp("Kazama","Hahh...
+Hahhh...");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","｛颯砂＊＊｝,
@@ -31,7 +31,7 @@ VoicePlay("E010220000_02_020");
 MsgDisp("Sassa","We were eating a hamburger, and then Ryota
 said you were in the shop right next to
 us!");
-MsgDisp("主人公","The burger shop......
+MsgDisp("主人公","The burger shop...
 Ah, this one right here?
 But that was a long time ago.");
 ChEye(1,2);
@@ -59,7 +59,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("E010220000_02_040");
-MsgDisp("Sassa","Huh......
+MsgDisp("Sassa","Huh...
 Ah, that's what you mean.");
 ChEyeOpenLevel(1,0);
 ChEye(2,0);
@@ -86,7 +86,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010220000_01_040");
-MsgDisp("Kazama","Huh......
+MsgDisp("Kazama","Huh...
 So, got anything good?");
 MsgDisp("主人公","Yeah, I looked at a lot of stuff.");
 ChEye(2,0);

@@ -6,7 +6,7 @@ ChMotion(2,0);
 VoicePlay("K010200101_02_000");
 MsgDisp("Sassa","Ooh, this is great.
 As expected of you.");
-MsgDisp("主人公","......Well?");
+MsgDisp("主人公","...Well?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

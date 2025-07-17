@@ -90,7 +90,7 @@ Are you okay?");
     VoicePlay("S120700000_07_070");
     MsgDisp("Mikage","That's true.
 Alright, let's go back.");
-    MsgDisp("主人公","Not yet......");
+    MsgDisp("主人公","Not yet...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

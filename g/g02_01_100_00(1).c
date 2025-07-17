@@ -2,15 +2,15 @@ MsgClose();
 ChOpen(1,255,1,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110000_01_000");
-MsgDisp("Kazama","It's amazing, huh......
-It's somewhat dream-like......");
+MsgDisp("Kazama","It's amazing, huh...
+It's somewhat dream-like...");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(16,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("G020110000_01_010");
-MsgDisp("Kazama","......You know I often had dreams about
+MsgDisp("Kazama","...You know I often had dreams about
 you, since a long time ago.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
@@ -38,7 +38,7 @@ VoicePlay("G020110000_01_040");
 MsgDisp("Kazama","It's not like that either. In the dream I
 was at least able to see you. I was really
 happy.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
@@ -58,11 +58,11 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110000_01_070");
-MsgDisp("Kazama","......But somehow, we were still the same
+MsgDisp("Kazama","...But somehow, we were still the same
 as when we were both small elementary
 school students.");
 MsgDisp("主人公","Hehe");
-MsgDisp("主人公","(｛風真＊＊｝, has dreams about me......)");
+MsgDisp("主人公","(｛風真＊＊｝, has dreams about me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

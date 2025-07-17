@@ -40,7 +40,7 @@ Cya.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ is studying and working
-hard......
+hard...
 I have to try hard too.)");
     BGMStop();
     MsgClose();
@@ -105,10 +105,10 @@ properly.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("S120500002_05_140");
-    MsgDisp("Hiiragi","...... I see.
+    MsgDisp("Hiiragi","... I see.
 Is that how you think about it?");
     MsgDisp("主人公","Eh?
-I don't mean it like that......");
+I don't mean it like that...");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);
@@ -120,7 +120,7 @@ You're like this too.");
     VoicePlay("S120500002_05_160");
     MsgDisp("Hiiragi","I have a new goal this year.
 I want to discover an unknown side of you.");
-    MsgDisp("主人公","Uhm......");
+    MsgDisp("主人公","Uhm...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();

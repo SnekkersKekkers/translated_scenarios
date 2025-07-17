@@ -2,9 +2,9 @@ BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yeah, I think it's time to go home now.
-Wait, over there, is that......)");
+Wait, over there, is that...)");
 VoicePlay("E010340000_22_000");
-MsgDisp("Hikaru?","Because～......
+MsgDisp("Hikaru?","Because～...
 I don't like being called that!");
 VoicePlay("E010340000_03_000");
 MsgDisp("Honda?","Do you not like it?
@@ -27,7 +27,7 @@ ChMotion(3,1,1);
 VoicePlay("E010340000_03_010");
 MsgDisp("Honda","It's not weird.
 I think Pika-chan sounds really cool.");
-MsgDisp("主人公","(Pika-chan......)");
+MsgDisp("主人公","(Pika-chan...)");
 ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,5,1);
@@ -57,15 +57,15 @@ ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("E010340000_22_040");
 MsgDisp("Hikaru","Even if Dahon sympathizes with me, it's a
-bit weird......
+bit weird...
 What do you think, Mari?");
-MsgDisp("主人公","Well...... both are unique I like them
+MsgDisp("主人公","Well... both are unique I like them
 both.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010340000_22_050");
-MsgDisp("Hikaru","Hmm...... if Mari is okay with it, fine!
+MsgDisp("Hikaru","Hmm... if Mari is okay with it, fine!
 Dahon, I'll forgive you for calling me
 that for now.");
 ChEye(22,0);
@@ -90,9 +90,9 @@ MsgDisp("Honda","See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Chiru-chan...... He's talking about
+MsgDisp("主人公","(Chiru-chan... He's talking about
 ｛みちる＊｝, right? That
 seems like it could be a problem
-too......)");
+too...)");
 MsgClose();
 ScrFadeOut(0,0);

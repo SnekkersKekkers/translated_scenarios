@@ -11,4 +11,4 @@ ChMotion(6,3);
 VoicePlay("D140601060_06_010");
 MsgDisp("Himuro","I heard this was made based on the
 preferences of a Habataki Alumni.
-But this amount of food is insane......");
+But this amount of food is insane...");

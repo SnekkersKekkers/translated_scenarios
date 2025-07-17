@@ -5,7 +5,7 @@ VoicePlay("I120000000_45_000");
 MsgDisp("Manager","Thank you for calling.
 This is General Store Simon.");
 MsgDisp("主人公","I'm calling about your help wanted ad for
-the part-time job opening.........");
+the part-time job opening......");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

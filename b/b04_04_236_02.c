@@ -109,7 +109,7 @@ of your notes.");
         ChMouthOpenLevel(4,0);
         ChCheek(4,8);
         VoicePlay("B040423602_04_120");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         ChMouth(4,1);
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,#1);

@@ -14,7 +14,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_010");
-MsgDisp("Himuro","It's okay but......
+MsgDisp("Himuro","It's okay but...
 Ryota-senpai—— Ah, nevermind.");
 MsgDisp("主人公","(｛風真＊＊｝?)");
 MsgClose();
@@ -37,7 +37,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_030");
-MsgDisp("Himuro","......And it's unrequited.");
+MsgDisp("Himuro","...And it's unrequited.");
 MsgDisp("主人公","Eh, in what way?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -80,7 +80,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110601000_06_090");
-MsgDisp("Himuro","...... Geez.
+MsgDisp("Himuro","... Geez.
 What am I so worried for?");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);

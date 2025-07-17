@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040422102_04_010");
-    MsgDisp("Nanatsumori","ＯＫ!
+    MsgDisp("Nanatsumori","OK!
 I got a good spot before other people
 noticed.");
     MsgDispSksp(1,0);
@@ -91,7 +91,7 @@ I'm sorry, okay?");
         ChMotion(4,1,1);
         VoicePlay("B040422102_04_100");
         MsgDisp("Nanatsumori","T-That's exactly it.
-You're so sneakyー......");
+You're so sneakyー...");
         MsgDisp("主人公","Uugh.");
         ChEye(4,3);
         ChMouth(4,3);

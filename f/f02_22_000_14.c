@@ -10,7 +10,7 @@ ChMouth(22,4);
 ChMotion(22,2,1);
 VoicePlay("F022200014_22_000");
 MsgDisp("Hikaru","I don't want to be separated from Mari.");
-MsgDisp("主人公","｛ひかる＊｝......");
+MsgDisp("主人公","｛ひかる＊｝...");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -25,7 +25,7 @@ MsgDisp("Hikaru","I feel sad when I think I only have a few
 more days to wear this uniform, to chat to
 Mari and where I'll be able to eat lunch
 with her...");
-MsgDisp("主人公","｛ひかる＊｝......");
+MsgDisp("主人公","｛ひかる＊｝...");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);

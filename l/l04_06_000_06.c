@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("L040600006_06_000");
     MsgDisp("Himuro","If you don't like making these, you don't
 have to force yourself.");
-    MsgDisp("主人公","Ugh......
+    MsgDisp("主人公","Ugh...
 I'm sorry.");
     ChEye(6,2);
     ChMouth(6,0);
@@ -17,7 +17,7 @@ I'm sorry.");
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600006_06_010");
     MsgDisp("Himuro","Well, I still appreciate the time and
-effort, you know......");
+effort, you know...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -25,7 +25,7 @@ effort, you know......");
     ChClose(6);
     Wait(30);
     MsgDisp("主人公","(Really, I wanted to give him a better
-chocolate......)");
+chocolate...)");
     break ;
     case 3:
     ChEye(6,2);
@@ -33,9 +33,9 @@ chocolate......)");
     ChMotion(6,2,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600006_06_020");
-    MsgDisp("Himuro","......How do I say this, do you want an
+    MsgDisp("Himuro","...How do I say this, do you want an
 award for doing your best?");
-    MsgDisp("主人公","Ugh, sorry......");
+    MsgDisp("主人公","Ugh, sorry...");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -54,7 +54,7 @@ to buy them instead.");
     ChClose(6);
     Wait(30);
     MsgDisp("主人公","(Really, I wanted to give him a better
-chocolate......)");
+chocolate...)");
     break ;
     case 4:
     case 5:
@@ -62,15 +62,15 @@ chocolate......)");
     ChMouth(6,0);
     ChMotion(6,2,1);
     VoicePlay("L040600006_06_050");
-    MsgDisp("Himuro","Handmade...... handmade, huh......");
+    MsgDisp("Himuro","Handmade... handmade, huh...");
     MsgDisp("主人公","How is it?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600006_06_060");
-    MsgDisp("Himuro","Even if you ask for my opinion......
+    MsgDisp("Himuro","Even if you ask for my opinion...
 I don't want to lie.");
-    MsgDisp("主人公","S-Sorry......");
+    MsgDisp("主人公","S-Sorry...");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -82,7 +82,7 @@ Really.");
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("L040600006_06_080");
-    MsgDisp("Himuro","......Later, just pray I don't get a
+    MsgDisp("Himuro","...Later, just pray I don't get a
 stomachache.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -91,7 +91,7 @@ stomachache.");
     ChClose(6);
     Wait(30);
     MsgDisp("主人公","(Really, I wanted to give him a better
-chocolate......)");
+chocolate...)");
     break ;
     default :
     DbgAssert(1);

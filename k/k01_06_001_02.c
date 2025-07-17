@@ -4,7 +4,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("K010600102_06_000");
-MsgDisp("Himuro","Hm......");
+MsgDisp("Himuro","Hm...");
 MsgDisp("主人公","How is it?");
 ChEye(6,0);
 ChMouth(6,0);

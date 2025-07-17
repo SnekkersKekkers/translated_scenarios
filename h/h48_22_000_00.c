@@ -13,7 +13,7 @@ switch (ChPrmGet(22,6)){
     VoicePlay("H482200000_22_000");
     MsgDisp("Hikaru","So this day has finally arrived.");
     MsgDisp("主人公","｛ひかる＊｝.
-Yeah, it's finally time......!");
+Yeah, it's finally time...!");
     ChMotion(22,4,1);
     VoicePlay("H482200000_22_010");
     MsgDisp("Hikaru","Just keep performing as you always have
@@ -50,7 +50,7 @@ Let's definitely win!");
     ChMouth(22,3);
     ChMotion(22,2,1);
     VoicePlay("H482200000_22_040");
-    MsgDisp("Hikaru","Haa...... my heart's starting to race♪");
+    MsgDisp("Hikaru","Haa... my heart's starting to race♪");
     ChMotion(22,0,1);
     MsgDisp("主人公","(Alright, let's do our best!)");
     BGMStop();

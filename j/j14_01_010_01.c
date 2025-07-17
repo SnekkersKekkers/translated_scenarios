@@ -1,4 +1,4 @@
-MsgSel("Yes, I would love to!" , "I'll be a bit busy that day ......");
+MsgSel("Yes, I would love to!" , "I'll be a bit busy that day ...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J140101001_01_000");
@@ -16,7 +16,7 @@ I'm looking forward to it.)");
     break ;
     case 1:
     VoicePlay("J140101001_01_020");
-    MsgDisp("Kazama","Oh, I see......
+    MsgDisp("Kazama","Oh, I see...
 Okay.
 I'll see you next time.");
     SEPlay("SYS_SE_PHONE_POWER_ON");

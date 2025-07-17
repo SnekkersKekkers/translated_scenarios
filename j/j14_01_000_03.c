@@ -14,6 +14,6 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("J140100003_01_000");
-MsgDisp("Kazama","Oh, yeah ......
+MsgDisp("Kazama","Oh, yeah ...
 It can't be helped, don't worry about it.");
 MsgClose();

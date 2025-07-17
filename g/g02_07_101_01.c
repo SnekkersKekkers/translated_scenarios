@@ -10,7 +10,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020710101_07_010");
-MsgDisp("Mikage","............");
+MsgDisp("Mikage","......");
 SEPlay("EV_SE_644");
 SEWait();
 ChEye(7,1);
@@ -30,7 +30,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020710101_07_040");
-MsgDisp("Mikage","......Could it be, are those two sulking?");
+MsgDisp("Mikage","...Could it be, are those two sulking?");
 MsgDisp("主人公","Those two?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -45,7 +45,7 @@ ChMotion(7,4);
 VoicePlay("G020710101_07_060");
 MsgDisp("Mikage","Haa, at least give it a rest for today,
 Ah, could that be the inner voice?");
-MsgDisp("主人公","(Does that mean...... those two want to be
+MsgDisp("主人公","(Does that mean... those two want to be
 here with me?
 If that's the case, I'd be happy.)");
 BGMStop();

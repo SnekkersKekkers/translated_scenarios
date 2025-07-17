@@ -55,7 +55,7 @@ ChMouth ( 1,0 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001601_01_040" ) ;
 MsgDisp ( "Kazama","That's exactly it." ) ;
-MsgDisp ( "主人公","(Uhm......
+MsgDisp ( "主人公","(Uhm...
 What are they talking about?)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

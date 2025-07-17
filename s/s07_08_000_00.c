@@ -32,7 +32,7 @@ As expected of New Years.");
     ChEye(8,0);
     ChMouth(8,0);
     VoicePlay("S070800000_08_030");
-    MsgDisp("Shirahane","Visit the temple, draw fortunes......
+    MsgDisp("Shirahane","Visit the temple, draw fortunes...
 What should we do?");
     MsgDisp("主人公","Hehe!
 Here, let's keep moving, shall we?");
@@ -61,7 +61,7 @@ shrine every year?");
     MsgDisp("Shirahane","Yeah. With my older brother and sister.
 And on our way home, we drink sweet and
 warm sake.");
-    MsgDisp("主人公","Heh......
+    MsgDisp("主人公","Heh...
 That sounds nice!");
     ChEye(8,3);
     ChMouth(8,3);
@@ -69,7 +69,7 @@ That sounds nice!");
     ChEyeOpenLevel(8,0);
     VoicePlay("S070800000_08_070");
     MsgDisp("Shirahane","It's sweet and tasty and it makes my hands
-and body feel warm ......
+and body feel warm ...
 Ah.");
     ChEye(8,0);
     ChMouth(8,3);

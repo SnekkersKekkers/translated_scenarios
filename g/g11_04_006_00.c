@@ -32,14 +32,14 @@ MsgDisp("主人公","Thank you for waiting.
 Here's your hot coffee.");
 VoicePlay("G110400600_04_020");
 MsgDisp("Nanatsumori","Thanks.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("G110400600_04_030");
 MsgDisp("Nanatsumori","...What?");
 MsgDisp("主人公","Ah, sorry, was I staring?
-But......");
+But...");
 VoicePlay("G110400600_04_040");
 MsgDisp("Nanatsumori","But?");
 MsgDisp("主人公","You were modeling without glasses, and
@@ -50,7 +50,7 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("G110400600_04_050");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChMotion(4,0);
 ChMouthOpenLevel(4,#1);
 VoicePlay("G110400600_04_060");

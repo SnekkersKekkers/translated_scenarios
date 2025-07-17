@@ -12,8 +12,8 @@ ChMotion(6,0,1);
 ChCheek(6,5);
 ScrFadeIn(0);
 VoicePlay("B360650300_06_000");
-MsgDisp("Himuro","............");
-MsgDisp("主人公","Um, ｛氷室＊＊｝......?");
+MsgDisp("Himuro","......");
+MsgDisp("主人公","Um, ｛氷室＊＊｝...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -26,7 +26,7 @@ ChMotion(6,1);
 VoicePlay("B360650300_06_020");
 MsgDisp("Himuro","Do I have to be the one starting the
 conversation?");
-MsgDisp("主人公","It's nothing like that......");
+MsgDisp("主人公","It's nothing like that...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -51,7 +51,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650300_06_060");
-MsgDisp("Himuro","I'm happy I was able to escape ......but I
+MsgDisp("Himuro","I'm happy I was able to escape ...but I
 also feel guilty.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -59,13 +59,13 @@ ChMotion(6,0);
 VoicePlay("B360650300_06_070");
 MsgDisp("Himuro","I want to say something clever, but I
 can't think of anything");
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650300_06_080");
-MsgDisp("Himuro","Somehow......
+MsgDisp("Himuro","Somehow...
 I think I understand it now.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -74,7 +74,7 @@ ChCheek(6,5);
 VoicePlay("B360650300_06_090");
 MsgDisp("Himuro","In the end, the fact that we're together
 is already enough for me.");
-MsgDisp("主人公","......Yeah.");
+MsgDisp("主人公","...Yeah.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,2);

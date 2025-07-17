@@ -6,9 +6,9 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("H8G0500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.
-...... No, perhaps I should address you as
+... No, perhaps I should address you as
 model student?");
-MsgDisp("主人公","Um......
+MsgDisp("主人公","Um...
 That makes me feel a little shy.");
 ChEye(5,0);
 VoicePlay("H8G0500000_05_010");
@@ -22,7 +22,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("H8G0500000_05_020");
 MsgDisp("Hiiragi","As part of the student council myself, I'm
 glad your efforts are being recognized,
-but to be honored as an individual......");
+but to be honored as an individual...");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","I wouldn't have been able to do anything
 on my own. It's thanks to you and everyone

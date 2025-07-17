@@ -9,14 +9,14 @@ ChMotion(5,0);
 VoicePlay("G020530201_05_010");
 MsgDisp("Hiiragi","When girls hang out together, what kind of
 things do they do?");
-MsgDisp("主人公","I see, well...... They do things like go
+MsgDisp("主人公","I see, well... They do things like go
 shopping, sing karaoke and eat
-sweets...... Many things?");
+sweets... Many things?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("G020530201_05_020");
-MsgDisp("Hiiragi","I see......hmm.");
+MsgDisp("Hiiragi","I see...hmm.");
 VoicePlay("G020530201_05_030");
 MsgDisp("Hiiragi","I wouldn't worry about anything if it were
 with you, but I'm going out with a guy
@@ -30,11 +30,11 @@ MsgDisp("主人公","Hehe, I'm happy for you.");
 ChEye(5,3);
 VoicePlay("G020530201_05_050");
 MsgDisp("Hiiragi","Yes, back in elementary school, we only
-played in the park......
+played in the park...
 It was fun.");
 MsgDisp("主人公","(｛柊＊＊＊｝ didn't get to hang out with
 his friends much in elementary or middle
-school...... I'm so happy for him!)");
+school... I'm so happy for him!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -79,7 +79,7 @@ Then, I'll give you 30 seconds.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602202_06_090");
-        MsgDisp("Himuro","......３,２,１——Yeah, you're out.");
+        MsgDisp("Himuro","...３,２,１——Yeah, you're out.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

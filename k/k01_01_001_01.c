@@ -23,7 +23,7 @@ VoicePlay("K010100101_01_020");
 MsgDisp("Kazama","Right.
 I'll cherish it.
 This present, and you.");
-MsgDisp("主人公","(Hm......
+MsgDisp("主人公","(Hm...
 Seems like he really liked the present.
 Thank goodness!)");
 BGMStop();

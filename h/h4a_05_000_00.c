@@ -24,7 +24,7 @@ glued to you.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("H4A0500000_05_020");
-    MsgDisp("Hiiragi","......Mine as well.");
+    MsgDisp("Hiiragi","...Mine as well.");
     MsgDisp("主人公","Hehe.
 I'm glad I was able to live up to your
 expectations, ｛柊＊＊＊｝.");

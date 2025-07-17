@@ -1,31 +1,31 @@
 ChEye(4,4);
 ChMouth(4,4);
-MsgDisp("主人公","I also like ｛七ツ森＊｝......");
+MsgDisp("主人公","I also like ｛七ツ森＊｝...");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 ChCheek(4,5);
 VoicePlay("T020400000_04_180");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChEye(4,4);
 ChMouthOpenLevel(4,#1);
 VoicePlay("T020400000_04_190");
 MsgDisp("Nanatsumori","I wanted that answer.
-...... Thank you.");
+... Thank you.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020400000_04_200");
 MsgDisp("Nanatsumori","I've moved on from being an ambiguous
 person. From now on, I want to cherish you
 as a man.");
 MsgDisp("主人公","Thank you.
-I too......");
+I too...");
 ChMouth(4,0);
 ChMotion(4,1,1);
 ChCheek(4,0);
 VoicePlay("T020400000_04_210");
 MsgDisp("Nanatsumori","Wait.
-If we make a vow here......");
+If we make a vow here...");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

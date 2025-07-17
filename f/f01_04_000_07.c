@@ -141,7 +141,7 @@ we can do.");
         ChMouth(4,0);
         ChMouthOpenLevel(4,0);
         VoicePlay("F010400007_04_110");
-        MsgDisp("Nanatsumori","......");
+        MsgDisp("Nanatsumori","...");
         ChEye(4,2);
         ChMouth(4,0);
         ChMotion(4,0,1);

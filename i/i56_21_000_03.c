@@ -11,7 +11,7 @@ VoicePlay("I562100003_21_000");
 MsgDisp("Michiru","Hm?
 What is this small bag here for?");
 MsgDisp("主人公","Ah!
-That customer just now asked for it......
+That customer just now asked for it...
 I forgot to put it in!");
 ChEye(21,5);
 ChMouth(21,4);
@@ -22,7 +22,7 @@ I'll go after them and hand it over, so
 please watch the store, Mari.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(21,0,30);
-MsgDisp("主人公","(I was careless......
+MsgDisp("主人公","(I was careless...
 I troubled ｛みちる＊｝.)");
 BGMStop();
 MsgClose();

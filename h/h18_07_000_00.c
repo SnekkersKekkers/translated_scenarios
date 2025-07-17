@@ -31,7 +31,7 @@ ChMotion(7,0);
 VoicePlay("H180700000_07_030");
 MsgDisp("Mikage","You're a good manager.
 Get out there and do all you can.");
-MsgDisp("主人公","Yes......!");
+MsgDisp("主人公","Yes...!");
 MsgDisp("主人公","(Alright!
 I'll support the players as best I can and
 win!)");

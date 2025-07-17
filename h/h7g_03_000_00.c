@@ -10,7 +10,7 @@ VoiceEVSPlay(3);
 VoicePlay("H8G0300000_03_000");
 MsgDisp("Honda","｛主人公｝, congrats!");
 MsgDisp("主人公","Huh, ｛本多＊＊｝∋
-Is this about......");
+Is this about...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -23,7 +23,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("H8G0300000_03_020");
-MsgDisp("Honda","T...... the grand prize∋");
+MsgDisp("Honda","T... the grand prize∋");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -39,7 +39,7 @@ VoicePlay("H8G0300000_03_040");
 MsgDisp("Honda","To you, it might seem like any other
 result, but to me, I think it's a really
 big accomplishment.");
-MsgDisp("主人公","｛本多＊＊｝......
+MsgDisp("主人公","｛本多＊＊｝...
 Thank you.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -48,7 +48,7 @@ VoicePlay("H8G0300000_03_050");
 MsgDisp("Honda","Your skills are amazing, but you should
 take pride in your consistent efforts,
 too! Really, congratulations!");
-MsgDisp("主人公","(I'm so happy......
+MsgDisp("主人公","(I'm so happy...
 I'm really glad I stayed in the
 handicrafts club!)");
 MsgClose();

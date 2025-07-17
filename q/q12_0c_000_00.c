@@ -1,7 +1,7 @@
 BGOpen("sc810",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","The school trip is ending tommorow......");
+MsgDisp("主人公","The school trip is ending tommorow...");
 MsgClose();
 ChOpen(5,254,0,4,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -18,7 +18,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q120C00000_05_010");
-MsgDisp("Hiiragi","\"Until home is the trip\"......
+MsgDisp("Hiiragi","\"Until home is the trip\"...
 Is it that thing?");
 MsgDisp("主人公","Hehe.
 ｛御影＊＊｝ really likes
@@ -40,7 +40,7 @@ ChMotion(5,0);
 VoicePlay("Q120C00000_05_030");
 MsgDisp("Hiiragi","Thanks to you and Mikage-sensei, my first
 school trip became the best memory for me.");
-MsgDisp("主人公","｛柊＊＊＊｝ ......");
+MsgDisp("主人公","｛柊＊＊＊｝ ...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

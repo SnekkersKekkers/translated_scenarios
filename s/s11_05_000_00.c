@@ -35,7 +35,7 @@ is to go up, right?");
 ChMouth(5,2);
 ChMotion(5,2);
 VoicePlay("S110500000_05_040");
-MsgDisp("Hiiragi","Hmm, where's the knot......");
+MsgDisp("Hiiragi","Hmm, where's the knot...");
 MsgDisp("主人公","You want to tie the fortune?
 What does that do?");
 ChMouth(5,4);
@@ -46,4 +46,4 @@ opposite direction of your main hand, the
 luck will change from bad to good. Oh,
 there it is!");
 MsgDisp("主人公","(｛柊＊＊＊｝ actually cares about this
-stuff a bit......?)");
+stuff a bit...?)");

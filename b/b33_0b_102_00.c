@@ -51,7 +51,7 @@ ChSet(3,3,1);
 VoicePlay("B330B10200_03_010");
 MsgDisp("Honda","Ding ding ding!
 Ryo-kun, you're spot on.");
-MsgDisp("主人公","Heeh...!");
+MsgDisp("主人公","Ehhh...!");
 ChMotion(4,1,1);
 VoicePlay("B330B10200_04_020");
 MsgDisp("Nanatsumori","They definitely won't be eaten?");

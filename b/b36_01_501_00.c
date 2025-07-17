@@ -78,7 +78,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B360150100_01_080");
 MsgDisp("Kazama","When I walk through town with you, it all
 starts coming back to me.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

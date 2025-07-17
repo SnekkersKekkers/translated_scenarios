@@ -3,13 +3,13 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_609");
 SEWait();
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 MsgDisp("主人公","Like usual, Nana looks really cool in this
 edition of Habatcher.");
 MsgDisp("主人公","(I still can't believe I know such a
-famous person......)");
+famous person...)");
 VoicePlay("D010400400_04_000");
-MsgDisp("Nanatsumori?","Ah......
+MsgDisp("Nanatsumori?","Ah...
 You're still here?");
 MsgClose();
 SEPlay("EV_SE_544");
@@ -24,22 +24,22 @@ MsgDisp("主人公","Yeah.
 This month is a Nana edition▼");
 ChMotion(4,0,1);
 VoicePlay("D010400400_04_020");
-MsgDisp("Nanatsumori","I see......");
-MsgDisp("主人公","Hey, I was wondering......
+MsgDisp("Nanatsumori","I see...");
+MsgDisp("主人公","Hey, I was wondering...
 For interviews do you usually carry
 make-up or something like that with you?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D010400400_04_030");
-MsgDisp("Nanatsumori","......Do you really want to know?");
+MsgDisp("Nanatsumori","...Do you really want to know?");
 MsgDisp("主人公","I want to know!");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D010400400_04_040");
 MsgDisp("Nanatsumori","Ok.
-Since there's no one around......
+Since there's no one around...
 Let's hang out a bit.");
 MsgDisp("主人公","?");
 MsgClose();
@@ -56,15 +56,15 @@ StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("D010400400_04_050");
-MsgDisp("Nanatsumori","......Perfect.");
-MsgDisp("主人公","Amazing......
+MsgDisp("Nanatsumori","...Perfect.");
+MsgDisp("主人公","Amazing...
 ｛七ツ森＊｝ really looks
 like a girl∈");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400400_04_060");
-MsgDisp("Nanatsumori","Well......
+MsgDisp("Nanatsumori","Well...
 I'm also good at this sort of thing.");
 StlEye(4,1,0);
 StlMouth(4,0);
@@ -78,12 +78,12 @@ VoicePlay("D010400400_04_080");
 MsgDisp("Nanatsumori","Really.
 Come on, let's take a photo together.");
 MsgDisp("主人公","S-Sure.");
-MsgDisp("主人公","(Woah......
+MsgDisp("主人公","(Woah...
 I look so different∋)");
 VoicePlay("D010400400_04_090");
 MsgDisp("Nanatsumori","It's good, right?
 Okay, I'll take the picture.
-Lower your head and smile......");
+Lower your head and smile...");
 StlEye(4,0);
 StlEyeOpenLevel(4,0,1);
 StlMouth(4,0);
@@ -104,7 +104,7 @@ ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow......
+MsgDisp("主人公","Wow...
 That was really fun!");
 VoicePlay("D010400400_04_110");
 MsgDisp("Nanatsumori","That's the most important part.");
@@ -122,7 +122,7 @@ ChMotion(4,1,1);
 VoicePlay("D010400400_04_130");
 MsgDisp("Nanatsumori","That's right.
 Just happened to.");
-MsgDisp("主人公","(｛七ツ森＊｝......just happens to be
+MsgDisp("主人公","(｛七ツ森＊｝...just happens to be
 carrying around womens' wigs∋)");
 BGMStop();
 MsgClose();

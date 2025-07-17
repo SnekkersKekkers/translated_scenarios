@@ -4,10 +4,10 @@ SEPlay("EV_SE_752",0.1,0.6);
 ScrFadeIn(0);
 Wait(10,0);
 SEStop("EV_SE_752",2);
-MsgDisp("主人公","(Phew......I managed to finish my
+MsgDisp("主人公","(Phew...I managed to finish my
 performance. This joint practice session
 makes me nervous.)");
-MsgDisp("主人公","(Ah......
+MsgDisp("主人公","(Ah...
 Next up it's
 ｛ひかる＊｝'s turn.)");
 MsgClose();
@@ -20,18 +20,18 @@ BGMPlay("BGM_C22_HIKARU_I",0.01);
 Wait(15,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_GAYA_025",0,0.6);
-MsgDisp("主人公","(Woah......
+MsgDisp("主人公","(Woah...
 ｛ひかる＊｝, so
 beautiful!)");
 VoicePlay("D012200100_47_000");
-MsgDisp("School Girl A","Amazing......
+MsgDisp("School Girl A","Amazing...
 Just like you'd expect from
-Hikaru-san......");
+Hikaru-san...");
 SEStop("EV_SE_GAYA_025",1);
 VoicePlay("D012200100_46_000");
 MsgDisp("School Girl B","The performance and visuals are both
-great......
-You could watch her for hours......");
+great...
+You could watch her for hours...");
 MsgDisp("主人公","(Hehe.
 People from other schools are also
 watching.)");

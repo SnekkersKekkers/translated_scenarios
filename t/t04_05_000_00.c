@@ -11,7 +11,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("T040500000_05_000");
 MsgDisp("Hiiragi","Is this the right way?");
-MsgDisp("主人公","Eh......this is the path we usually take
+MsgDisp("主人公","Eh...this is the path we usually take
 home?");
 NSSEye(5,4);
 NSSMouth(5,4);

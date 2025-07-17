@@ -11,14 +11,14 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("S090400000_04_000");
     MsgDisp("Nanatsumori","Are you the type that draws fortunes?");
-    MsgDisp("主人公","I......");
+    MsgDisp("主人公","I...");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_010");
-        MsgDisp("Nanatsumori","ＯＫ.
+        MsgDisp("Nanatsumori","OK.
 Let's line up then.");
         MsgDisp("主人公","Yep!");
         break ;
@@ -27,7 +27,7 @@ Let's line up then.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_020");
-        MsgDisp("Nanatsumori","Ah, I see......");
+        MsgDisp("Nanatsumori","Ah, I see...");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -44,7 +44,7 @@ Let's line up then.");
     VoicePlay("S090400000_04_030");
     MsgDisp("Nanatsumori","Over there.
 Do you want to pull fortunes?");
-    MsgDisp("主人公","Uhm......");
+    MsgDisp("主人公","Uhm...");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -52,7 +52,7 @@ Do you want to pull fortunes?");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_040");
-        MsgDisp("Nanatsumori","ＯＫ.
+        MsgDisp("Nanatsumori","OK.
 We can only do this during New Years,
 right?");
         MsgDisp("主人公","Hehe!");
@@ -62,7 +62,7 @@ right?");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_050");
-        MsgDisp("Nanatsumori","Oh......
+        MsgDisp("Nanatsumori","Oh...
 Next time, then.");
         MsgClose();
         ScrFadeOut(0,0);
@@ -80,7 +80,7 @@ Next time, then.");
     ScrFadeIn(0);
     VoicePlay("S090400000_04_060");
     MsgDisp("Nanatsumori","Hm.
-What should we do......");
+What should we do...");
     MsgDisp("主人公","Hm?");
     ChEye(4,0);
     ChMouth(4,0);
@@ -95,7 +95,7 @@ Are you brave enough to give it a try?");
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_080");
-        MsgDisp("Nanatsumori","Ooh......
+        MsgDisp("Nanatsumori","Ooh...
 So strong.");
         MsgDisp("主人公","Is ｛七ツ森＊｝ afraid of
 drawing fortunes?");
@@ -121,7 +121,7 @@ Let's go!");
         ChMotion(4,2,1);
         VoicePlay("S090400000_04_110");
         MsgDisp("Nanatsumori","I see.
-...... When you say it like that, I don't
+... When you say it like that, I don't
 want to back down.");
         MsgDisp("主人公","Did you want to try?
 Let's go.");

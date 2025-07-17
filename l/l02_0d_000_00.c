@@ -10,7 +10,7 @@ VoicePlay("L020D00000_22_000");
 MsgDisp("Hikaru","Mari～♪
 Did you bring the chocolate?");
 MsgDisp("主人公","Yeah!
-I hope they'll be happy......");
+I hope they'll be happy...");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

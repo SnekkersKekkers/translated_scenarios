@@ -24,13 +24,12 @@ there!)");
     VoicePlay("Q040500000_05_010");
     MsgDisp("Hiiragi","Good morning.
 Why are you in such a hurry?");
-    MsgDisp("主人公","Yeah, I wanted to look around with you,
-｛柊＊＊＊｝, for the free
+    MsgDisp("主人公","Yeah, I wanted to go with ｛柊＊＊＊｝, for the free
 period. How about it?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(｛柊＊＊＊｝ is...... there!)");
+    MsgDisp("主人公","(｛柊＊＊＊｝ is... there!)");
     MsgDisp("主人公","｛柊＊＊＊｝!
 Morning.");
     MsgClose();

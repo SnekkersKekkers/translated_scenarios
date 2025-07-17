@@ -14,7 +14,7 @@ switch (ChPrmGet(8,6)){
     ChOpen(8,35,0,3,3,#1,#1,0,0);
     VoicePlay("I660800004_08_000");
     MsgDisp("Shirahane","We're all done refueling too.
-Now, the bill......");
+Now, the bill...");
     SEPlay("EV_SE_589",1);
     SEWait();
     ChEye(8,5);
@@ -36,7 +36,7 @@ open.");
     ChMotion(8,3,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800004_08_030");
-    MsgDisp("Shirahane","Amazin'......
+    MsgDisp("Shirahane","Amazin'...
 Will ya teach me your techniques?");
     MsgDisp("主人公","(｛大地＊＊｝ praised me!
 Let's keep doing our best!)");
@@ -51,7 +51,7 @@ Let's keep doing our best!)");
     ChOpen(8,35,0,3,3,#1,#1,0,0);
     VoicePlay("I660800004_08_040");
     MsgDisp("Shirahane","We're all done refueling too.
-Now, the bill......");
+Now, the bill...");
     SEPlay("EV_SE_589",1);
     SEWait();
     ChMotion(8,3,1);
@@ -62,7 +62,7 @@ Now, the bill......");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800004_08_060");
-    MsgDisp("Shirahane","...... Hey.
+    MsgDisp("Shirahane","... Hey.
 Is there some new window cleaner fluid?");
     MsgDisp("主人公","Hm?
 It's the usual one.

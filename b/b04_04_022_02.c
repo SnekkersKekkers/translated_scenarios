@@ -54,7 +54,7 @@ all.");
         ChMotion(4,2,1);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040402202_04_040");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         ChMouth(4,2);
         VoicePlay("B040402202_04_050");
         MsgDisp("Nanatsumori","It's a date, right?

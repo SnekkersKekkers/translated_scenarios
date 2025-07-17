@@ -7,8 +7,8 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0400001_04_000");
     MsgDisp("Nanatsumori","You worked hard.");
-    MsgDisp("主人公","｛七ツ森＊｝......
-We lost......");
+    MsgDisp("主人公","｛七ツ森＊｝...
+We lost...");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -23,7 +23,7 @@ Thank you.");
 is admirable.
 Really, good work.");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
-stayed as the baseball club manager......)");
+stayed as the baseball club manager...)");
     break ;
     case 4:
     case 5:
@@ -33,8 +33,8 @@ stayed as the baseball club manager......)");
     VoiceEVSPlay(4);
     VoicePlay("H1A0400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝......
-Ugh, we lost......");
+    MsgDisp("主人公","｛七ツ森＊｝...
+Ugh, we lost...");
     ChEye(4,2);
     ChMouth(4,4);
     VoicePlay("H1A0400001_04_040");
@@ -43,16 +43,16 @@ Ugh, we lost......");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("H1A0400001_04_050");
-    MsgDisp("Nanatsumori","......Are you crying?");
-    MsgDisp("主人公","It's just......");
+    MsgDisp("Nanatsumori","...Are you crying?");
+    MsgDisp("主人公","It's just...");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("H1A0400001_04_060");
-    MsgDisp("Nanatsumori","Haa～...... Being frustrated, or sad.
+    MsgDisp("Nanatsumori","Haa～... Being frustrated, or sad.
 Being happy, or tickled, it makes you want
 to cry. Humans are complicated, huh?");
-    MsgDisp("主人公","...... Hehe.
+    MsgDisp("主人公","... Hehe.
 I guess so?");
     ChEye(4,2);
     ChMouth(4,3);
@@ -62,7 +62,7 @@ I guess so?");
 You worked hard these past three years.
 Good work.");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
-stayed as the baseball club manager......)");
+stayed as the baseball club manager...)");
     break ;
     default :
     DbgAssert(1);

@@ -3,7 +3,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ChCheek(3,5);
 VoicePlay("T020300021_03_000");
-MsgDisp("Honda","Umm, this is......");
+MsgDisp("Honda","Umm, this is...");
 MsgDisp("主人公","I also like ｛本多＊＊｝.");
 ChEye(3,3);
 ChMouth(3,4);

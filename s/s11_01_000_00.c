@@ -7,7 +7,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("S110100000_01_000");
-MsgDisp("Kazama","......Very Bad Luck or something");
+MsgDisp("Kazama","...Very Bad Luck or something");
 MsgDisp("主人公","｛風真＊＊｝, will you be okay?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -23,7 +23,7 @@ ChMotion(1,2);
 VoicePlay("S110100000_01_020");
 MsgDisp("Kazama","Wait a sec, you're the one I'm worried
 about.
-This bad luck thing is......");
+This bad luck thing is...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -39,5 +39,5 @@ VoicePlay("S110100000_01_040");
 MsgDisp("Kazama","Today especially, don't leave my side.
 Try not to wander.
 Okay?");
-MsgDisp("主人公","(Ehhm......
+MsgDisp("主人公","(Ehhm...
 I wonder what he means?)");

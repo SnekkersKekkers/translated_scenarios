@@ -71,7 +71,7 @@ ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("F100130001_01_030");
-MsgDisp("Kazama","......");
+MsgDisp("Kazama","...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

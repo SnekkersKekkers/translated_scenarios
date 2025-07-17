@@ -50,7 +50,7 @@ SEPlay("EV_SE_603");
 SEWait();
 Wait(60,0);
 VoicePlay("B050200100_02_050");
-MsgDisp("Sassa","That feeling......");
+MsgDisp("Sassa","That feeling...");
 BGMPlay("BGM_C02_SASSA_I",0.01);
 StlOpen("ev_02_02");
 StlEye(2,1);
@@ -71,7 +71,7 @@ StlCheek(2,10);
 VoicePlay("B050200100_02_070");
 MsgDisp("Sassa","It wasn't a ghost, it was just your hand.");
 MsgDisp("主人公","Oh.
-I was startled so I just......
+I was startled so I just...
 Sorry.");
 StlEye(2,0);
 StlMouth(2,0);
@@ -84,7 +84,7 @@ StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("B050200100_02_090");
-MsgDisp("Sassa","......Maybe Haunted Houses are nice after
+MsgDisp("Sassa","...Maybe Haunted Houses are nice after
 all?");
 MsgDisp("主人公","Eh?");
 BGMStop(2);
@@ -110,7 +110,7 @@ MsgClose();
 ChOpen(2,255,0,0,0,#1,#1,0,0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew, that was scary......");
+MsgDisp("主人公","Phew, that was scary...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -123,7 +123,7 @@ ChMouth(2,4);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("B050200100_02_120");
-MsgDisp("Sassa","...... Yeah.
+MsgDisp("Sassa","... Yeah.
 Yeah, for me too.");
 MsgDisp("主人公","Holding onto ｛颯砂＊＊｝ while
 walking made me feel a bit better.");
@@ -144,6 +144,6 @@ MsgDisp("Sassa","Just saying.
 If you still feel scared, hold onto me
 again, okay?");
 MsgDisp("主人公","Uh, sure.");
-MsgDisp("主人公","(......｛颯砂＊＊｝?)");
+MsgDisp("主人公","(...｛颯砂＊＊｝?)");
 BGMStop();
 ChPrmTblAdd(2,0);

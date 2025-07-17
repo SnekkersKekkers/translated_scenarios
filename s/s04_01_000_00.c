@@ -15,7 +15,7 @@ It's from ｛風真＊＊｝.");
     MsgDisp("主人公","Hehe, Happy New Year.");
     VoicePlay("S040100000_01_010");
     MsgDisp("Kazama","Let's go and visit the shrine.");
-    MsgSel("Sure, let's go!","Sorry, I'm a bit......");
+    MsgSel("Sure, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040100000_01_020");
@@ -44,7 +44,7 @@ See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he invited me...
-Did I do something wrong......)");
+Did I do something wrong...)");
         break ;
         default :
         DbgAssert(0);
@@ -67,11 +67,11 @@ Take care of me this year.");
     VoicePlay("S040100000_01_070");
     MsgDisp("Kazama","Gotcha.
 Let's go then and visit the shrine.");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040100000_01_080");
-        MsgDisp("Kazama","ＯＫ.
+        MsgDisp("Kazama","OK.
 I'm coming in a bit.");
         MsgDisp("主人公","Thank you.
 You're coming to pick me up?");
@@ -81,14 +81,14 @@ kimono. I won't give that memory over to
 anyone else. See you soon.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He's expecting I wear a kimono......
+        MsgDisp("主人公","(He's expecting I wear a kimono...
 What should I do?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
         case 1:
         VoicePlay("S040100000_01_100");
-        MsgDisp("Kazama","...... Well, we don't have to go today.
+        MsgDisp("Kazama","... Well, we don't have to go today.
 It's crowded, anyway.");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("S040100000_01_110");
@@ -99,7 +99,7 @@ See you.");
         SEWait();
         MsgDisp("主人公","(Even though he took the time to invite
 me...
-Was that the right choice?......)");
+Was that the right choice?...)");
         break ;
         default :
         DbgAssert(0);

@@ -96,7 +96,7 @@ girl and the lord, then?");
         ChEyeOpenLevel(4,0);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040422202_04_090");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);

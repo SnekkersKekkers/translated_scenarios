@@ -38,7 +38,7 @@ I was looking for you.");
     BGMPlay("BGM_C06_INORI_A");
     ChOpen(6,254,0,0,0,#1,#1,5,0);
     VoicePlay("L040600000_06_020");
-    MsgDisp("Himuro","...... What?
+    MsgDisp("Himuro","... What?
 Did you need me?");
     MsgDisp("主人公","Yeah, here.
 Valentine's chocolate.");

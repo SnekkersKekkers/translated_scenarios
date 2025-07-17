@@ -8,5 +8,5 @@ SEWait();
 SEStop("SYS_SE_NOT_CONNECT",0.01);
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(My call won't go through......)");
+MsgDisp("主人公","(My call won't go through...)");
 MsgClose();

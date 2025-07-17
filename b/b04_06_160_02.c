@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040616002_06_010");
-    MsgDisp("Himuro","Heeh, really?");
+    MsgDisp("Himuro","Ehhh, really?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

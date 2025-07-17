@@ -22,7 +22,7 @@ Why you touch me?");
 MsgDisp("主人公","Er...");
 ChMouth(3,4);
 VoicePlay("B150300500_03_030");
-MsgDisp("Honda","............");
+MsgDisp("Honda","......");
 MsgDisp("主人公","S-Sorry.");
 ChEye(3,4);
 ChMouth(3,3);

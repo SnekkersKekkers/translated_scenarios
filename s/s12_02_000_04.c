@@ -14,7 +14,7 @@ switch (ChPrmGet(2,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","This is the last New Year's shrine visit
-of our high school years......");
+of our high school years...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -72,7 +72,7 @@ students.");
     VoicePlay("S120200004_02_060");
     MsgDisp("Sassa","But that doesn't mean that this will be
 our last shrine visit together.");
-    MsgDisp("主人公","I guess, but......");
+    MsgDisp("主人公","I guess, but...");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -124,7 +124,7 @@ things.");
     VoicePlay("S120200004_02_120");
     MsgDisp("Sassa","And rather than making a new wish, I
 wanted to give thanks.");
-    MsgDisp("主人公","I see......");
+    MsgDisp("主人公","I see...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

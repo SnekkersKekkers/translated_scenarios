@@ -3,7 +3,7 @@ BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This year's program is classical.
-I'm getting nervous......)");
+I'm getting nervous...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -19,7 +19,7 @@ MsgDisp("Hikaru","Huh?
 Are you nervous?");
 MsgDisp("主人公","Ah, ｛みちる＊｝,
 ｛ひかる＊｝.
-Yeah......");
+Yeah...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -34,7 +34,7 @@ VoicePlay("P530D00000_21_010");
 MsgDisp("Michiru","Yes.
 Art has to be fun.
 Right?");
-MsgDisp("主人公","......Yeah!");
+MsgDisp("主人公","...Yeah!");
 SEPlay("EV_SE_038");
 SEWait();
 VoicePlay("P530D00000_21_020");

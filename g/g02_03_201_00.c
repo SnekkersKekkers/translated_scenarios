@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020320100_03_000");
-MsgDisp("Honda","......Hey, this might not be the right
+MsgDisp("Honda","...Hey, this might not be the right
 place to ask this, but");
 ChEye(3,2);
 ChMouth(3,2);
@@ -21,21 +21,21 @@ ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G020320100_03_030");
 MsgDisp("Honda","Actually, I'd prefer if that's the case.");
-MsgDisp("主人公","Yeah......?");
+MsgDisp("主人公","Yeah...?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020320100_03_040");
 MsgDisp("Honda","Maybe it's just me?
 But you feel a little distant.");
-MsgDisp("主人公","Ah......");
+MsgDisp("主人公","Ah...");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020320100_03_050");
 MsgDisp("Honda","It seems like it wasn't just a baseless
 fear huh?");
-MsgDisp("主人公","Umm, well......");
+MsgDisp("主人公","Umm, well...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -54,7 +54,7 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("G020320100_03_080");
 MsgDisp("Honda","So, now I just have to take action!");
-MsgDisp("主人公","Action......?");
+MsgDisp("主人公","Action...?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -65,7 +65,7 @@ to achieve. I'm good at working backward
 from there!");
 MsgDisp("主人公","(I wonder what kind of answer
 ｛本多＊＊｝ wants to arrive
-at......)");
+at...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

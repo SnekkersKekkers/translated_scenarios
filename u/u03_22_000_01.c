@@ -26,7 +26,7 @@ Hikaru got the same one as Mari▼");
     MsgDisp("主人公","(\"I got an animal printed mug!)");
     SEPlay("EV_SE_080");
     MsgDisp("主人公","(I feel like my intuition is getting
-stronger......)");
+stronger...)");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);
@@ -44,7 +44,7 @@ See you later,
     ChMotion(22,0,1);
     VoicePlay("U032200001_22_040");
     MsgDisp("Hikaru","Oh?
-Did you not like it......");
+Did you not like it...");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);

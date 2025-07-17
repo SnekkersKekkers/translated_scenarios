@@ -4,7 +4,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("T020940020_09_000");
-MsgDisp("Kuya","...... Yes.
+MsgDisp("Kuya","... Yes.
 I'm glad.");
 ChEye(9,3);
 ChMouth(9,0);
@@ -19,7 +19,7 @@ ChMotion(9,4,1);
 VoicePlay("T020940020_09_020");
 MsgDisp("Kuya","Haha!
 If I have to retake the exam again, I'll
-take back this confession......");
+take back this confession...");
 MsgDisp("主人公","Hehe!");
 ChEye(9,3);
 ChMouth(9,0);
@@ -36,13 +36,13 @@ ChMotion(9,2,1);
 ChEyeOpenLevel(9,0);
 ChMouthOpenLevel(9,0);
 VoicePlay("T020940020_09_040");
-MsgDisp("Kuya","............");
+MsgDisp("Kuya","......");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,4,1);
 VoicePlay("T020940020_09_050");
 MsgDisp("Kuya","Let's kiss.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -59,7 +59,7 @@ ScrFadeIn(0);
 VoicePlay("T020940020_09_070");
 MsgDisp("Kuya","Today marks the beginning of our real time
 together.
-I love you.......");
+I love you....");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

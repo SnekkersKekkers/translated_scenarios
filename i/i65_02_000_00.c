@@ -90,14 +90,14 @@ I'm not a gasoline-powered car.");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("I650200000_02_090");
-    MsgDisp("Sassa","Hm...... alright.
+    MsgDisp("Sassa","Hm... alright.
 Looks like my tank's full.
 See you!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(His tank......?
+    MsgDisp("主人公","(His tank...?
 What does he mean?)");
     break ;
     case 4:
@@ -134,7 +134,7 @@ machine and get a drink.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","｛颯砂＊＊｝......
+    MsgDisp("主人公","｛颯砂＊＊｝...
 Was he feeling okay?");
     BGMVol(0.5,2);
     MsgClose();
@@ -191,7 +191,7 @@ See you!");
     MsgDisp("Sassa","Ah, I got juice for you too, so drink it
 on your way home!");
     MsgClose();
-    MsgDisp("主人公","(｛颯砂＊＊｝......
+    MsgDisp("主人公","(｛颯砂＊＊｝...
 I'm happy that I could help him out.
 Yeah, I'm glad I got this part-time job!)");
     break ;

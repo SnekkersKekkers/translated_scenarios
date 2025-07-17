@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(...Alright. Time to head home. Huh, is
 that.....)");
 VoicePlay("E010220200_02_000");
-MsgDisp("Sassa?","Hmmmm......
+MsgDisp("Sassa?","Hmmmm...
 So that's the way it is, isn't it?");
 VoicePlay("E010220200_04_000");
 MsgDisp("Nanatsumori?","Yeah, you should use it well.");
@@ -29,7 +29,7 @@ VoicePlay("E010220200_04_010");
 MsgDisp("Nanatsumori","Yep. I thought I saw a guy with the same
 shopping bag as me and it happened to be
 Sassa.");
-MsgDisp("主人公","Heh......
+MsgDisp("主人公","Heh...
 What a surprise, I didn't think your
 interests overlapped.");
 ChEye(2,0);
@@ -87,7 +87,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("E010220200_04_040");
-MsgDisp("Nanatsumori","Uh......
+MsgDisp("Nanatsumori","Uh...
 I'll pass.
 See ya.");
 MsgClose();
@@ -99,7 +99,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("E010220200_02_070");
 MsgDisp("Sassa","What's with him, not in the mood?");
-MsgDisp("主人公","(If they switched clothes......
+MsgDisp("主人公","(If they switched clothes...
 Huhu, wouldn't that be interesting?)");
 BGMStop();
 MsgClose();

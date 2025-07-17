@@ -11,7 +11,7 @@ switch (ChPrmGet(8,6)){
     VoicePlay("S090800000_08_000");
     MsgDisp("Shirahane","Ah, fortunes!");
     MsgDisp("主人公","Oh, you're right.
-There are so many people in line......");
+There are so many people in line...");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -44,7 +44,7 @@ You're not going to∋");
     VoicePlay("S090800000_08_030");
     MsgDisp("Shirahane","Look there, that crowd of people is
 probably where they're doing fortunes.");
-    MsgDisp("主人公","Fortunes, huh......");
+    MsgDisp("主人公","Fortunes, huh...");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -62,7 +62,7 @@ regardless of what the result is.");
         ChMouth(8,0);
         ChMotion(8,2,1);
         VoicePlay("S090800000_08_050");
-        MsgDisp("Shirahane","I see......Well we'd be wasting time
+        MsgDisp("Shirahane","I see...Well we'd be wasting time
 waiting in the line, I guess. Let's go.");
         MsgClose();
         ScrFadeOut(0,0);
@@ -86,7 +86,7 @@ Do you want to draw one,
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("S090800000_08_070");
-    MsgDisp("Shirahane","Eh......
+    MsgDisp("Shirahane","Eh...
 What about you?");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
@@ -114,7 +114,7 @@ can't get a bad result!");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("S090800000_08_110");
-        MsgDisp("Shirahane","Oh......
+        MsgDisp("Shirahane","Oh...
 Yeah, okay then.");
         MsgDisp("主人公","Maybe you actually wanted to pull one?");
         ChMotion(8,4,1);

@@ -10,12 +10,12 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("fp200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(......Huh? I wonder how I ended up at
+MsgDisp("主人公","(...Huh? I wonder how I ended up at
 \"The Home of the Fireflies\".)");
 MsgDisp("主人公","(It's almost like something was calling me
-here......?)");
+here...?)");
 VoicePlay("D200000200_31_000");
-MsgDisp("Goro?","There's a burning feeling......
+MsgDisp("Goro?","There's a burning feeling...
 This is a bad omen.");
 MsgDisp("主人公","∋");
 MsgClose();
@@ -43,7 +43,7 @@ ChMouth(31,2);
 ChMotion(31,3);
 VoicePlay("D200000200_31_030");
 MsgDisp("Goro","I can feel it in the air.
-This sensation......
+This sensation...
 It's an SOS for a man troubled by love.");
 ChEye(31,0);
 ChMouth(31,0);
@@ -59,7 +59,7 @@ ChMotion(31,2);
 VoicePlay("D200000200_31_050");
 MsgDisp("Goro","You're something of a player, aren't you?
 Hehe, I'm the same way♪");
-MsgDisp("主人公","Uhm......");
+MsgDisp("主人公","Uhm...");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
@@ -82,7 +82,7 @@ VoicePlay("D200000200_31_080");
 MsgDisp("Goro","And then touch the blue firefly.
 Those ones have a mysterious ability to
 soothe jealousy.");
-MsgDisp("主人公","Touch the blue firefly......");
+MsgDisp("主人公","Touch the blue firefly...");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
@@ -94,9 +94,9 @@ MsgClose();
 SEPlay("EV_SE_626");
 BGMStop();
 ChClose(31);
-MsgDisp("主人公","(He's gone......)");
+MsgDisp("主人公","(He's gone...)");
 MsgDisp("主人公","(It's didn't know the fireflies had such a
-power. But hmm, jealousy...... Right.
+power. But hmm, jealousy... Right.
 Maybe I can write a story about this too?)");
 MsgClose();
 ScrFadeOut(0,0);

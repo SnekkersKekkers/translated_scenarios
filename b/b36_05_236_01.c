@@ -19,7 +19,7 @@ to the Night Parade today!");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360523601_05_010");
-MsgDisp("Hiiragi","That's good......
+MsgDisp("Hiiragi","That's good...
 But now I feel a little more guilty.");
 MsgDisp("主人公","Eh?");
 ChEyeOpenLevel(5,0);
@@ -38,7 +38,7 @@ MsgDisp("Hiiragi","I feel bad for those two, but I'll have it
 to myself for now.
 Shall we sit side by side?");
 MsgDisp("主人公","(｛柊＊＊＊｝, you must have thought about
-it a lot before inviting me......
+it a lot before inviting me...
 Thank you.)");
 BGMStop();
 MsgClose();

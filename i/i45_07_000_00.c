@@ -86,7 +86,7 @@ Thanks.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("I450700000_07_080");
-    MsgDisp("Mikage","......Are you curious who I'm giving it
+    MsgDisp("Mikage","...Are you curious who I'm giving it
 to?");
     MsgDisp("主人公","Will you tell me?");
     ChEye(7,0);
@@ -104,7 +104,7 @@ the bouquet and send that.");
     MsgDisp("Mikage","I wanted to send the real bouquet, but
 it'd get eaten, right?");
     MsgDisp("主人公","(Eaten??
-...... Ah, he meant a baby animal!)");
+... Ah, he meant a baby animal!)");
     break ;
     case 4:
     case 5:
@@ -168,7 +168,7 @@ You say the nicest things.");
     ChEyeOpenLevel(7,0);
     VoicePlay("I450700000_07_170");
     MsgDisp("Mikage","Aah, if I have this, even vice principal
-Himuro won't come......
+Himuro won't come...
 I hope?");
     MsgDisp("主人公","Hehe, it doesn't have that kind of effect.");
     ChEye(7,0);

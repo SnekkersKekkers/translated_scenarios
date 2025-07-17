@@ -6,7 +6,7 @@ VoicePlay("T020100000_01_590");
 MsgDisp("Kazama","Wait!
 What's wrong?");
 ChEye(1,3);
-MsgDisp("主人公","I'm sorry, I can't put it into words......");
+MsgDisp("主人公","I'm sorry, I can't put it into words...");
 MsgDisp("主人公","Thank you for always thinking of me.
 I also like ｛風真＊＊｝.");
 ChMotion(1,0);
@@ -15,7 +15,7 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,2);
 VoicePlay("T020100000_01_600");
-MsgDisp("Kazama","That hug just now......
+MsgDisp("Kazama","That hug just now...
 Does that mean you'd be okay with it?
 Marrying me?");
 MsgDisp("主人公","Yeah. I've let down
@@ -31,7 +31,7 @@ VoicePlay("T020100000_01_610");
 MsgDisp("Kazama","It's okay.
 You remembered the most important memory
 of all.");
-MsgDisp("主人公","A wish made by a pinwheel......");
+MsgDisp("主人公","A wish made by a pinwheel...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -47,12 +47,12 @@ may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020100000_01_650");
-MsgDisp("Ryota","I absolutely hope it can come true......");
+MsgDisp("Ryota","I absolutely hope it can come true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,10);
 VoicePlay("T020100000_01_660");
-MsgDisp("Kazama","Absolutely, I hope so......");
+MsgDisp("Kazama","Absolutely, I hope so...");
 MsgClear();
 ScrFadeOut(0,1);
 ChClose(1,0,0);
@@ -61,7 +61,7 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("T020100000_01_670");
-MsgDisp("Kazama","......Ah, that's right. This. It looks
+MsgDisp("Kazama","...Ah, that's right. This. It looks
 similar to your hair accessory doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020100000_01_680");
@@ -71,7 +71,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_690");
 MsgDisp("Kazama","——I'll definitely give it to you one
 day.");
-MsgDisp("主人公","｛風真＊＊｝......
+MsgDisp("主人公","｛風真＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
@@ -85,16 +85,16 @@ StlClose();
 SEPlay("EV_SE_694",0,0.7);
 SEWait();
 VoicePlay("T020100000_01_710");
-MsgDisp("Kazama","Like this......");
+MsgDisp("Kazama","Like this...");
 StlOpen("ev_01_22");
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_720");
 MsgDisp("Kazama","｛主人公｝, let's go ahead
 and hold the ceremony like this.");
-MsgDisp("主人公","......Yes.");
+MsgDisp("主人公","...Yes.");
 VoicePlay("T020100000_01_730");
-MsgDisp("Kazama","I'll hold you close......");
+MsgDisp("Kazama","I'll hold you close...");
 VoicePlay("T020100000_01_740");
 MsgDisp("Kazama","And never let you go.");
 MsgClear();

@@ -24,7 +24,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B360703200_07_020");
-MsgDisp("Mikage","Well......
+MsgDisp("Mikage","Well...
 First, it'd probably be an intense
 discussion with Inori.");
 MsgDisp("主人公","It might be a good match.");
@@ -42,7 +42,7 @@ ChMotion(7,0);
 VoicePlay("B360703200_07_040");
 MsgDisp("Mikage","Well, if I was in high school it might've
 been a lot of fun.");
-MsgDisp("主人公","(I want to see it, but I also don't......)");
+MsgDisp("主人公","(I want to see it, but I also don't...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

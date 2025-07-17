@@ -12,8 +12,8 @@ ChMotion(6,2,1);
 ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360650301_06_000");
-MsgDisp("Himuro","Haa......
-I'm tired......");
+MsgDisp("Himuro","Haa...
+I'm tired...");
 MsgDisp("主人公","Good job today.");
 ChEye(6,2);
 ChMouth(6,0);
@@ -21,20 +21,20 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650301_06_010");
 MsgDisp("Himuro","Why shoulders are so stiff.
-...... Why did I decide to hang out with
+... Why did I decide to hang out with
 those guys?");
 MsgDisp("主人公","You didn't enjoy?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650301_06_020");
-MsgDisp("Himuro","It's not that it's just......");
+MsgDisp("Himuro","It's not that it's just...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650301_06_030");
-MsgDisp("Himuro","......I feel on edge.");
-MsgDisp("主人公","They seem to get along well......");
+MsgDisp("Himuro","...I feel on edge.");
+MsgDisp("主人公","They seem to get along well...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -58,7 +58,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650301_06_070");
-MsgDisp("Himuro","......But it's not like we're on bad terms
+MsgDisp("Himuro","...But it's not like we're on bad terms
 either.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
@@ -74,7 +74,7 @@ ChMotion(6,0);
 VoicePlay("B360650301_06_090");
 MsgDisp("Himuro","You really don't think it's a bad thing do
 you?
-Jeez......");
+Jeez...");
 MsgDisp("主人公","(You're not being honest, huh?)");
 BGMStop();
 MsgClose();

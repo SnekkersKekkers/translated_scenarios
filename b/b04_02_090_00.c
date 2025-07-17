@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040209000_02_010");
-    MsgDisp("Sassa","...Heeh, you notice things well.");
+    MsgDisp("Sassa","...Ehhh, you notice things well.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

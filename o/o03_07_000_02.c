@@ -14,9 +14,9 @@ switch (ChPrmGet(7,6)){
     VoicePlay("O030700002_07_000");
     MsgDisp("Mikage","We were completely treated as a joke.
 Sorry.");
-    MsgDisp("主人公","(Ugh......
-Last, huh......
-Too bad......)");
+    MsgDisp("主人公","(Ugh...
+Last, huh...
+Too bad...)");
     break ;
     case 3:
     ChEye(7,0);
@@ -25,16 +25,16 @@ Too bad......)");
     VoicePlay("O030700002_07_010");
     MsgDisp("Mikage","Doesn't it feel rewarding to have done our
 best until the very end?");
-    MsgDisp("主人公","Yes, since we're last......");
+    MsgDisp("主人公","Yes, since we're last...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("O030700002_07_020");
     MsgDisp("Mikage","Exactly.
 But thanks to you, I got a memory that I
-won't forget even in 10 years...... right?");
-    MsgDisp("主人公","(Hm......
-The memory of getting last, huh......
+won't forget even in 10 years... right?");
+    MsgDisp("主人公","(Hm...
+The memory of getting last, huh...
 It's frustrating.)");
     break ;
     case 4:
@@ -45,7 +45,7 @@ It's frustrating.)");
     VoicePlay("O030700002_07_030");
     MsgDisp("Mikage","Hey, everyone's super excited, aren't
 they?");
-    MsgDisp("主人公","Um...... since we're last, I guess
+    MsgDisp("主人公","Um... since we're last, I guess
 everyone's applause is just loud?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -65,7 +65,7 @@ of your sports festival memories.");
 I'm glad we got to go together.");
     MsgDisp("主人公","(I'm frustrated we got last, but I'm glad
 ｛御影＊＊｝ was with me
-in the three-legged race......)");
+in the three-legged race...)");
     break ;
     default :
     DbgAssert(1);

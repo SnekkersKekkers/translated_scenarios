@@ -18,12 +18,12 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_360");
 MsgDisp("Sassa","Right?
-But what sport has 4 people......");
+But what sport has 4 people...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B070200001_02_370");
-MsgDisp("Sassa","...... Nope, I can only think of relays.
+MsgDisp("Sassa","... Nope, I can only think of relays.
 There aren't many team sports with 4
 people.");
 MsgDisp("主人公","Hehe.

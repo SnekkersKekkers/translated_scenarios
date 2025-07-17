@@ -21,7 +21,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B030605000_06_010");
-MsgDisp("Himuro","That's quite a lot of people......");
+MsgDisp("Himuro","That's quite a lot of people...");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

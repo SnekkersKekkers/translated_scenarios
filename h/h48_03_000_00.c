@@ -25,21 +25,21 @@ ChMotion(3,0);
 ChEyeOpenLevel(3,0);
 ChCheek(3,0);
 VoicePlay("H480300000_03_020");
-MsgDisp("Honda","Whew......
+MsgDisp("Honda","Whew...
 I think I'll be fine if I close my eyes
 and try to calm down.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("H480300000_03_030");
-MsgDisp("Honda","...... Wait, I can't cheer like this!
+MsgDisp("Honda","... Wait, I can't cheer like this!
 Today, I need to see your greatest-");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 ChCheek(3,8);
 VoicePlay("H480300000_03_040");
-MsgDisp("Honda","H, huh......?
+MsgDisp("Honda","H, huh...?
 I can't, my heart is beating faster again.");
 MsgDisp("主人公","｛本多＊＊｝?");
 ChEye(3,3);
@@ -51,7 +51,7 @@ MsgDisp("Honda","I see! It's because of what you're
 wearing. It's so beautiful that it makes
 my heart pound!");
 MsgDisp("主人公","Huh∋
-Wait, you're being too loud......!");
+Wait, you're being too loud...!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -59,7 +59,7 @@ VoicePlay("H480300000_03_060");
 MsgDisp("Honda","Okay. But with this, you're definitely
 going to win. Just standing there, you're
 already like a work of art!");
-MsgDisp("主人公","(Haa, I'm getting all shy......
+MsgDisp("主人公","(Haa, I'm getting all shy...
 But I'm going to do my best!)");
 BGMStop();
 MsgClose();

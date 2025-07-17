@@ -26,7 +26,7 @@ See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Can't be helped.
-Let's stop for today......)");
+Let's stop for today...)");
     break ;
     case 3:
     MsgDisp("主人公","(Ah, a phone call from
@@ -39,7 +39,7 @@ Let's stop for today......)");
     MsgDisp("Kazama","I got your message.");
     MsgDisp("主人公","Ah, what's your answer?");
     VoicePlay("J030101001_01_040");
-    MsgDisp("Kazama","That's unfortunate but......
+    MsgDisp("Kazama","That's unfortunate but...
 I can't on that day.
 Sorry.");
     MsgDisp("主人公","I see.
@@ -49,7 +49,7 @@ Can I call you another time?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmph...
-Too bad......)");
+Too bad...)");
     break ;
     case 4:
     case 5:
@@ -65,7 +65,7 @@ Thanks for calling earlier.");
     VoicePlay("J030101001_01_070");
     MsgDisp("Kazama","Can't we do another day?
 It's the only day I can't cancel stuff.");
-    MsgDisp("主人公","I see......");
+    MsgDisp("主人公","I see...");
     VoicePlay("J030101001_01_080");
     MsgDisp("Kazama","Come on, cheer up. It just means you have
 to stay excited a little longer. See ya?");

@@ -3,7 +3,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630201_06_000");
-MsgDisp("Himuro","......As you probably know, I like being
+MsgDisp("Himuro","...As you probably know, I like being
 alone.");
 MsgDisp("主人公","Uh, yeah.");
 ChEye(6,0);
@@ -81,7 +81,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630201_06_110");
-MsgDisp("Himuro","......What were we talking about.");
+MsgDisp("Himuro","...What were we talking about.");
 MsgDisp("主人公","(Hehe, I'm glad I finally got to hear
 ｛氷室＊＊｝'s thoughts on
 friendships.)");

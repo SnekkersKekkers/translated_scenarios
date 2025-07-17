@@ -77,7 +77,7 @@ I'm happy I was able to look around with
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Haah......
+    MsgDisp("主人公","Haah...
 So the school trip is over tomorrow.
 Early, isn't it?");
     ChEye(3,4);
@@ -99,7 +99,7 @@ this trip.");
     VoicePlay("Q120300000_03_100");
     MsgDisp("Honda","I mean, there isn't a place I dislike
 where I went with you.
-...... Hmm?");
+... Hmm?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,5,1);
@@ -140,8 +140,8 @@ period together like this forever.");
     MsgDisp("Honda","See you then!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(Forever......?
-I wonder what he meant......?)");
+    MsgDisp("主人公","(Forever...?
+I wonder what he meant...?)");
     break ;
     default :
     DbgAssert(1);

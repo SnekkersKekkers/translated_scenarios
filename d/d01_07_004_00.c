@@ -17,7 +17,7 @@ Wait(80,0);
 SEStop("EV_SE_744",1);
 SEStop("EV_SE_608",2);
 VoicePlay("D010700400_42_000");
-MsgDisp("Male Student A","Huh......
+MsgDisp("Male Student A","Huh...
 Is it over already?");
 VoicePlay("D010700400_44_000");
 MsgDisp("School Girl A","I don't want to go home already!");
@@ -89,12 +89,12 @@ StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("D010700400_07_070");
 MsgDisp("Mikage","Isn't it your turn now?");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 Ehh∋");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700400_07_080");
 MsgDisp("Mikage","Come on, say something!");
-MsgDisp("主人公","Uhm......
+MsgDisp("主人公","Uhm...
 I-I love ｛御影＊＊｝
 too!");
 StlNear(1,0,15);
@@ -105,7 +105,7 @@ VoicePlay("D010700400_07_090");
 MsgDisp("Mikage","Alright, you pass.");
 StlEyeOpenLevel(7,#1);
 MsgDisp("主人公","(Ah, ｛御影＊＊｝'s
-hand......)");
+hand...)");
 VoicePlay("D010700400_42_080");
 MsgDisp("Male Student A","I also love Vice Principal Himuro!");
 StlEye(7,1);

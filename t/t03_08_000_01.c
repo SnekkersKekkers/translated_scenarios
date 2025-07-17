@@ -1,7 +1,7 @@
 MsgType(2);
 BGOpen("ep000",0);
 ScrFadeIn(0);
-MsgDisp("","The sound of the bells...... a church
+MsgDisp("","The sound of the bells... a church
 legend.");
 MsgDisp("","It seems I can't experience either of them
 right now.");

@@ -38,12 +38,12 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550300_05_040");
 MsgDisp("Hiiragi","Inori's precise management and
-Mikage-sensei's humor......");
+Mikage-sensei's humor...");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_050");
 MsgDisp("Hiiragi","There's no way I could imitate those I
-feel inferior to them It's pathetic.......");
+feel inferior to them It's pathetic....");
 MsgDisp("主人公","Huh∋
 ｛柊＊＊＊｝ feels inferior?");
 ChMouth(5,4);
@@ -53,7 +53,7 @@ VoicePlay("B360550300_05_060");
 MsgDisp("Hiiragi","Why are you so surprised?");
 MsgDisp("主人公","Even an amazing person like
 ｛柊＊＊＊｝ can feel that
-way......");
+way...");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("B360550300_05_070");
@@ -66,7 +66,7 @@ MsgDisp("Hiiragi","If that's the case, how can I describe
 you?
 You make me feel this way.");
 MsgDisp("主人公","(Huh?
-It's troubling if you say that......)");
+It's troubling if you say that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

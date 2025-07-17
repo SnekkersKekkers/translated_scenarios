@@ -18,16 +18,16 @@ Is it time for a date?");
 VoicePlay("D020800600_08_020");
 ChEye(8,2);
 ChMouth(8,3);
-MsgDisp("Shirahane","......Huh?");
+MsgDisp("Shirahane","...Huh?");
 MsgDisp("主人公","Eh?");
 VoicePlay("D020800600_08_040");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
 ChCheek(8,7);
-MsgDisp("Shirahane","Shocked ya, huh......
+MsgDisp("Shirahane","Shocked ya, huh...
 Bloody hell, I said something weird.");
-MsgDisp("主人公","Uhm, it's not that......
+MsgDisp("主人公","Uhm, it's not that...
 It's just a little surprising.");
 VoicePlay("D020800600_08_050");
 ChMotion(8,2,1);

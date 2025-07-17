@@ -2,10 +2,10 @@ BGOpen("wf230",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D030900100_09_000");
-MsgDisp("Kuya?","So......
+MsgDisp("Kuya?","So...
 Did you get separated from your mother
 around here?");
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Huh?)");
 VoicePlay("D030900100_44_000");
 MsgDisp("Boy","I don't know.
@@ -13,13 +13,13 @@ Uーwah!");
 VoicePlay("D030900100_09_010");
 MsgDisp("Kuya?","I can't understand you if you cry.
 Boys have to stay strong.");
-MsgDisp("主人公","(That voice, it's......)");
+MsgDisp("主人公","(That voice, it's...)");
 MsgClose();
 BGMPlay("BGM_C09_KUYA_I",0.01);
 ChLayout(1);
 ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030900100_44_010");
-MsgDisp("Boy","Hiccup......
+MsgDisp("Boy","Hiccup...
 Big brother Kuya, piggyback ride.");
 ChEye(9,2);
 ChMouth(9,0);
@@ -29,7 +29,7 @@ MsgDisp("Kuya?","Sure. Maybe I'll be able to hear you more
 clearly like that. It'll make you look
 like a baby, though.");
 VoicePlay("D030900100_44_020");
-MsgDisp("Boy","Sniff......
+MsgDisp("Boy","Sniff...
 I don't want the piggyback ride anymore.");
 ChEye(9,3);
 ChMouth(9,0);
@@ -45,7 +45,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900100_09_040");
-MsgDisp("Kuya?","Oh, you're......");
+MsgDisp("Kuya?","Oh, you're...");
 MsgClose();
 ScrFadeOut(0);
 ChClose(9);
@@ -69,7 +69,7 @@ rides, right?");
 VoicePlay("D030900100_44_040");
 MsgDisp("Boy","Yeah!");
 VoicePlay("D030900100_49_010");
-MsgDisp("Woman","You, really......
+MsgDisp("Woman","You, really...
 Thank you, Kuya-san.
 You're always helping us.");
 ChEye(9,3);
@@ -79,7 +79,7 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030900100_09_060");
 MsgDisp("Kuya?","It's nothing, please don't worry about it.
 This is my job.");
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Job?)");
 BGMVol(0.5,2);
 MsgClose();
@@ -125,7 +125,7 @@ VoicePlay("D030900100_09_100");
 MsgDisp("Kuya?","You should \"exercise\" frequently too so
 you can be prepared for anything.
 That way you won't have any worries.");
-MsgDisp("主人公","Ah......Right. I usually work on my
+MsgDisp("主人公","Ah...Right. I usually work on my
 \"fitness\" in various ways.");
 ChEye(9,3);
 ChMouth(9,0);
@@ -156,7 +156,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(9);
 MsgDisp("主人公","He also had something urgent to do the
-other day......");
+other day...");
 MsgDisp("主人公","(Ah. I forgot to properly thank him again!
 He didn't even introduce himself properly,
 but I heard \"Kuya-san\".)");

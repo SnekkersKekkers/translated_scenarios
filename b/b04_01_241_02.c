@@ -62,7 +62,7 @@ coming all the way here, right?");
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040124102_01_050");
-        MsgDisp("Kazama","Heehー, what a coincidence.
+        MsgDisp("Kazama","Ehhhー, what a coincidence.
 I thought that too.");
         ChEyeOpenLevel(1,0);
         Wait(8,0);

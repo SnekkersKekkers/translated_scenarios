@@ -12,7 +12,7 @@ VoicePlay("G020710200_07_010");
 MsgDisp("Mikage","The synchronization of these fireflies'
 blinking cycles is actually studied using
 mathematical approaches.");
-MsgDisp("主人公","Eh......mathematics?");
+MsgDisp("主人公","Eh...mathematics?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -39,12 +39,12 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710200_07_050");
 MsgDisp("Mikage","Cute, huh～?
-Vice principal firefly......?");
+Vice principal firefly...?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710200_07_060");
-MsgDisp("Mikage","Oh damn...... Hey, let's, um, maybe it's
+MsgDisp("Mikage","Oh damn... Hey, let's, um, maybe it's
 time to head back. Come on, I'll walk you.");
 MsgDisp("主人公","Ah, okay.");
 MsgDisp("主人公","(Why is ｛御影＊＊｝

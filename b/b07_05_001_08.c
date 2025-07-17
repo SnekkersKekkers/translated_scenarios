@@ -1,4 +1,4 @@
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

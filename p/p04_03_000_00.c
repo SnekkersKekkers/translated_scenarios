@@ -28,7 +28,7 @@ MsgDisp("Honda","I'll be fine!
 I'd like to order even more, but I'll save
 some for the others.");
 MsgDisp("主人公","(I'm worried about ｛本多＊＊｝'s
-stomach......
+stomach...
 But, I'm glad he seems happy!)");
 MsgClose();
 ScrFadeOut(0,0);

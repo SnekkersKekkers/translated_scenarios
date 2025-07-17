@@ -7,7 +7,7 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,3,1);
     VoicePlay("L040500005_05_000");
     MsgDisp("Hiiragi","Thank you very much.
-It's handmade......
+It's handmade...
 Ah.");
     MsgDisp("主人公","Hm?");
     ChEye(5,2);
@@ -20,7 +20,7 @@ later. Farewell.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(I wonder if I put in something he doesn't
-like......)");
+like...)");
     break ;
     case 3:
     ChEye(5,4);
@@ -35,14 +35,14 @@ I hope it suits your tastes.");
     ChMouth(5,0);
     ChMotion(5,4);
     VoicePlay("L040500005_05_030");
-    MsgDisp("Hiiragi","This...... is for me, correct?");
+    MsgDisp("Hiiragi","This... is for me, correct?");
     MsgDisp("主人公","Hm?
 What's wrong?");
     ChEye(5,0);
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("L040500005_05_040");
-    MsgDisp("Hiiragi","......I see, are you testing me? Though I
+    MsgDisp("Hiiragi","...I see, are you testing me? Though I
 look like this, I quite enjoy a challenge.
 I will accept gratefully.");
     MsgClose();
@@ -51,7 +51,7 @@ I will accept gratefully.");
     ChClose(5);
     MsgDisp("主人公","(A challenge?
 Did I add something he doesn't
-like......?)");
+like...?)");
     break ;
     case 4:
     case 5:
@@ -64,11 +64,11 @@ like......?)");
     ChEye(5,2);
     ChMotion(5,2);
     VoicePlay("L040500005_05_060");
-    MsgDisp("Hiiragi","I see, this is......");
+    MsgDisp("Hiiragi","I see, this is...");
     ChEye(5,4);
     ChMouth(5,0);
     VoicePlay("L040500005_05_070");
-    MsgDisp("Hiiragi","...... This is surely due to a
+    MsgDisp("Hiiragi","... This is surely due to a
 miscommunication.
 The fault is on me.");
     MsgDisp("主人公","Hm?
@@ -87,8 +87,8 @@ gave me chocolate as well.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(......Something he realized? Did I put in
-something he doesn't like......?)");
+    MsgDisp("主人公","(...Something he realized? Did I put in
+something he doesn't like...?)");
     break ;
     default :
     DbgAssert(1);

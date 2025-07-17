@@ -5,13 +5,13 @@ ChMotion(2,4);
 VoicePlay("B070200000_02_380");
 MsgDisp("Sassa","An energetic and kind person.
 What about you?");
-MsgDisp("主人公","Eh, I wonder......");
+MsgDisp("主人公","Eh, I wonder...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_390");
 MsgDisp("Sassa","That's unfair.");
-MsgDisp("主人公","Hmm......");
+MsgDisp("主人公","Hmm...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -28,9 +28,9 @@ ChEye(2,1);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200000_02_420");
-MsgDisp("Sassa","Is there anything else......
-...... Oh, curly hair.");
-MsgDisp("主人公","(Just like ｛颯砂＊＊｝......? )");
+MsgDisp("Sassa","Is there anything else...
+... Oh, curly hair.");
+MsgDisp("主人公","(Just like ｛颯砂＊＊｝...? )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

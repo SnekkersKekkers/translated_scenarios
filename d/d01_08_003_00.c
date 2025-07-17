@@ -14,7 +14,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("D010800300_08_010");
-MsgDisp("Shirahane","Hehe......");
+MsgDisp("Shirahane","Hehe...");
 MsgDisp("主人公","You look like you're in a good mood.");
 ChEye(8,3);
 ChMouth(8,3);
@@ -49,7 +49,7 @@ StlEyeOpenLevel(8,5);
 VoicePlay("D010800300_08_060");
 MsgDisp("Shirahane","Ikkun, I mean Iku Honda-kun always gets
 this Perfect Score Anpan.
-The effect is actually amazing......");
+The effect is actually amazing...");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -91,7 +91,7 @@ MsgDisp("Shirahane","Hehe!
 Since we're already here, wanna go home
 together?");
 MsgDisp("主人公","Sure!");
-MsgDisp("主人公","(......Come to think of it, where did
+MsgDisp("主人公","(...Come to think of it, where did
 ｛本多＊＊｝ get the Perfect
 Score Anpan from anyway?)");
 BGMStop();

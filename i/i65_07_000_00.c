@@ -61,7 +61,7 @@ Do you think they'd hire me, too?");
     ChMotion(7,2);
     VoicePlay("I650700000_07_050");
     MsgDisp("Mikage","See, aren't the male uniforms kinda close
-in color to what I'm wearing......
+in color to what I'm wearing...
 Or not?");
     MsgDisp("主人公","Hehe, you're going to get scolded by Vice
 Principal Himuro again, you know?");
@@ -143,7 +143,7 @@ It's good.");
     SEPlay("EV_SE_751",1);
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Milk......
+    MsgDisp("主人公","(Milk...
 Yeah, thanks for the drink!)");
     SEWait();
     break ;

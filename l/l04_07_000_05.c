@@ -20,7 +20,7 @@ You did your best, huh.");
     VoicePlay("L040700005_07_020");
     MsgDisp("Mikage","Sneaking in something that I don't like is
 just like you, and I like that, you know?");
-    MsgDisp("主人公","(Huh......?
+    MsgDisp("主人公","(Huh...?
 Was it not to
 ｛御影＊＊｝ 's tastes?)");
     MsgClose();
@@ -34,7 +34,7 @@ Was it not to
     ChMouth(7,4);
     ChMotion(7,1);
     VoicePlay("L040700005_07_030");
-    MsgDisp("Mikage","Ooh, handmade...... right?");
+    MsgDisp("Mikage","Ooh, handmade... right?");
     MsgDisp("主人公","Um, yes.
 Is something wrong?");
     ChEye(7,2);
@@ -50,9 +50,9 @@ right?");
     VoicePlay("L040700005_07_050");
     MsgDisp("Mikage","Then it's okay!
 I'll accept gratefully.");
-    MsgDisp("主人公","(Ah, could it be...... I added something
+    MsgDisp("主人公","(Ah, could it be... I added something
 ｛御影＊＊｝ doesn't
-like......?)");
+like...?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -90,7 +90,7 @@ tease me with this, though.");
     MsgDisp("Mikage","Like adding salt to a watermelon to make
 it sweeter?
 Or maybe you're just having fun with me.");
-    MsgDisp("主人公","(Salt? Having fun? ......Ah! Could it be
+    MsgDisp("主人公","(Salt? Having fun? ...Ah! Could it be
 that I added something he doesn't like?)");
     MsgClose();
     BGMStop();

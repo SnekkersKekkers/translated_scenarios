@@ -38,8 +38,8 @@ MsgDisp("Hiiragi","Yeah, just imagine it.");
 ChMotion(5,4);
 VoicePlay("B360518001_05_050");
 MsgDisp("Hiiragi","Mikage-sensei, me, you, and Inori-kun all
-lined up with serious expressions......");
-MsgDisp("主人公","......Ahahaha.");
+lined up with serious expressions...");
+MsgDisp("主人公","...Ahahaha.");
 ChMotion(5,0);
 VoicePlay("B360518001_05_060");
 MsgDisp("Hiiragi","Right?");
@@ -54,7 +54,7 @@ MsgDisp("Hiiragi","Ah, yes.");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B360518001_05_080");
-MsgDisp("Hiiragi","...... It's getting late.
+MsgDisp("Hiiragi","... It's getting late.
 I'll take my time to reflect on the movie
 on my way home.");
 MsgDisp("主人公","Yeah!");

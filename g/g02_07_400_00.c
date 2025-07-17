@@ -11,7 +11,7 @@ VoicePlay("G020740000_07_010");
 MsgDisp("Mikage","Ah, this isn't about your career path.
 I'm asking about something a little
 further down the line.");
-MsgDisp("主人公","Uum......");
+MsgDisp("主人公","Uum...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -36,10 +36,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020740000_07_050");
-MsgDisp("Mikage","But, deep down......
+MsgDisp("Mikage","But, deep down...
 I want to have more freedom, and farm in a
 more cozy space.");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -58,7 +58,7 @@ can't clearly give me an answer, then I
 guess you've decided to become our
 employee.");
 MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s farm,
-huh......
+huh...
 It might be wonderful.)");
 BGMStop();
 MsgClose();

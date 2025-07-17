@@ -17,15 +17,15 @@ ChEye ( 4,1 ) ;
 ChMouth ( 4,0 ) ;
 ChMotion ( 4,1 ) ;
 VoicePlay ( "D150004701_04_010" ) ;
-MsgDisp ( "Nanatsumori","Nature in the garden......?
-Why do I have a bad feeling......" ) ;
+MsgDisp ( "Nanatsumori","Nature in the garden...?
+Why do I have a bad feeling..." ) ;
 MsgDisp ( "主人公","What's wrong?" ) ;
 ChEye ( 4,2 ) ;
 ChMouth ( 4,2 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150004701_04_020" ) ;
 MsgDisp ( "Nanatsumori","I'm starting to lose my appetite
-somehow......" ) ;
+somehow..." ) ;
 ChEye ( 7,2 ) ;
 ChMouth ( 7,0 ) ;
 ChMotion ( 7,2 ) ;
@@ -56,7 +56,7 @@ ChMouth ( 4,2 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150004701_04_040" ) ;
 MsgDisp ( "Nanatsumori","Pass." ) ;
-MsgDisp ( "主人公","(Me too......
+MsgDisp ( "主人公","(Me too...
 I think I'll opt out of that one.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

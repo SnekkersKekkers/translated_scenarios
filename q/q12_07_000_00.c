@@ -65,7 +65,7 @@ write about it. Thank you,
     VoicePlay("Q120700000_07_060");
     MsgDisp("Mikage","Alright then, here is Extracurricular
 class Nagasaki version over.");
-    MsgDisp("主人公","Sigh, is it the end......");
+    MsgDisp("主人公","Sigh, is it the end...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
@@ -78,14 +78,14 @@ class Nagasaki version over.");
     MsgDisp("Mikage","Thanks for hanging out with me for two
 days.");
     MsgDisp("主人公","Me too, thank you even for the MVP
-award......");
+award...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("Q120700000_07_090");
     MsgDisp("Mikage","Hey, the school trip is not over yet.
 Don't get soggy.");
-    MsgDisp("主人公","Yes......");
+    MsgDisp("主人公","Yes...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -105,7 +105,7 @@ Will you also remember,
 Good memories last forever.
 So, enjoy your school trip to the end!");
     ChClose(7);
-    MsgDisp("主人公","(Good memories last forever...... I hope
+    MsgDisp("主人公","(Good memories last forever... I hope
 the school trip with
 ｛御影＊＊｝ will be a
 memory of a lifetime.)");

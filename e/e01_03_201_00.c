@@ -1,7 +1,7 @@
 BGOpen("fp700",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright......
+MsgDisp("主人公","(Alright...
 I think it's time to go home.)");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -19,7 +19,7 @@ VoicePlay("E010320100_03_010");
 MsgDisp("Honda","Yep yep! I found the book I wanted right
 away, but Mii-kun is still confused about
 what accessories he wants.");
-MsgDisp("主人公","Mii-kun, is that......");
+MsgDisp("主人公","Mii-kun, is that...");
 ChPosition(3,1);
 MsgClose();
 SEPlay("EV_SE_544");
@@ -27,7 +27,7 @@ ChNanaType(0);
 ChOpen(4,255,0,2,2,#1,#1,0,2);
 ChMotion(4,1,1);
 VoicePlay("E010320100_04_000");
-MsgDisp("Nanatsumori","...... Hold up.
+MsgDisp("Nanatsumori","... Hold up.
 The way Dahon says it makes it sound like
 we came here together.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
@@ -54,7 +54,7 @@ VoicePlay("E010320100_04_020");
 MsgDisp("Nanatsumori","You can't just call people indecisive.");
 MsgDisp("主人公","I'm curious to see what accessories
 ｛七ツ森＊｝ is
-interested in......");
+interested in...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

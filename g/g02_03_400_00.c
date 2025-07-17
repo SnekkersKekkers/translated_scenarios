@@ -14,7 +14,7 @@ MsgDisp("Honda","Hmm, maybe a different color? My little
 sister seems to have another color she
 wants to try, so I might try it for her.");
 MsgDisp("主人公","But if you do it too much, the teachers
-might notice......");
+might notice...");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -38,8 +38,8 @@ ChMotion(3,0);
 VoicePlay("G020340000_03_050");
 MsgDisp("Honda","Just between us, my dad worries about hair
 loss, so if it's genetic, in the future I
-might......");
-MsgDisp("主人公","............");
+might...");
+MsgDisp("主人公","......");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,1);
@@ -54,9 +54,9 @@ ChMotion(3,2);
 VoicePlay("G020340000_03_070");
 MsgDisp("Honda","Haa～,maybe I should stop messing with my
 hair and start focusing on what's good for
-it, like my dad......");
+it, like my dad...");
 MsgDisp("主人公","(｛本多＊＊｝, I don't think you need to
-worry that much......)");
+worry that much...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

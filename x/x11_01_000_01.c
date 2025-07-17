@@ -30,7 +30,7 @@ competition.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("X110100001_01_020");
-    MsgDisp("Kazama","......If I had someone to support me like
+    MsgDisp("Kazama","...If I had someone to support me like
 that, I could set a record, too.");
     MsgDisp("主人公","(Being able to help even a little bit
 makes me happy!)");

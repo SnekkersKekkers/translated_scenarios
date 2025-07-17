@@ -12,14 +12,14 @@ ChEye(8,1);
 ChMouth(8,2);
 VoicePlay("S110800000_08_010");
 MsgDisp("Shirahane","Bad Luck.");
-MsgDisp("主人公","Ahh......");
+MsgDisp("主人公","Ahh...");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("S110800000_08_020");
 MsgDisp("Shirahane","What the hell.
 Just bad.
-Woulda preferred Very Bad instead......");
+Woulda preferred Very Bad instead...");
 MsgDisp("主人公","Hehe!");
 ChEye(8,0);
 ChMouth(8,4);
@@ -30,7 +30,7 @@ In the end, it's just so mediocre.");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("S110800000_08_040");
-MsgDisp("Shirahane","...... Mmmm.
+MsgDisp("Shirahane","... Mmmm.
 If you get too greedy, you'll regret it—");
 ChEye(8,2);
 ChMouth(8,4);
@@ -38,7 +38,7 @@ ChMotion(8,0,1);
 VoicePlay("S110800000_08_050");
 MsgDisp("Shirahane","Ehー! I was thinkin' about taking on a few
 new challenges. Should I give it up?");
-MsgDisp("主人公","No......
+MsgDisp("主人公","No...
 I didn't mean it like that.");
 ChEye(8,0);
 ChMouth(8,3);

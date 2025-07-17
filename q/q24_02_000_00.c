@@ -1,5 +1,5 @@
 EnvAutoSet(1);
-MsgDisp("主人公","......What's this?");
+MsgDisp("主人公","...What's this?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

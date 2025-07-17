@@ -13,8 +13,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0500001_05_000");
-    MsgDisp("Hiiragi","......Good work.");
-    MsgDisp("主人公","｛柊＊＊＊｝......
+    MsgDisp("Hiiragi","...Good work.");
+    MsgDisp("主人公","｛柊＊＊＊｝...
 I lost.");
     ChEye(5,4);
     VoicePlay("H3A0500001_05_010");
@@ -23,7 +23,7 @@ You have touched my heart.");
     VoicePlay("H3A0500001_05_020");
     MsgDisp("Hiiragi","Naturally, my heart was moved.
 Thank you.");
-    MsgDisp("主人公","That's......");
+    MsgDisp("主人公","That's...");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("H3A0500001_05_030");
@@ -35,9 +35,9 @@ chest out with confidence.");
     ChMotion(5,0);
     VoicePlay("H3A0500001_05_040");
     MsgDisp("Hiiragi","Yes, that's your beautiful face.");
-    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝......
+    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝...
 I didn't win, but I'm glad I stayed in the
-judo club......)");
+judo club...)");
     break ;
     default :
     DbgAssert(1);

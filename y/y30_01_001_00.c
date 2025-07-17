@@ -16,7 +16,7 @@ SEStop("EV_SE_695",2);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("","It was far from a wish......
+MsgDisp("","It was far from a wish...
 It was despair.");
 MsgClear();
 BGOpen("ad111",0);
@@ -41,13 +41,13 @@ church, I was told I'd be studying in
 England, but I couldn't understand
 what they said.");
 MsgDisp("","All I knew is I would never see her
-again......");
+again...");
 MsgClear();
 MsgDisp("","On sunday I locked myself in my room,
 I looked up the distance to England
 in the encyclopedia I received for
 graduating.");
-MsgDisp("","9000 kilometers...... We had never
+MsgDisp("","9000 kilometers... We had never
 even travelled to neighboring towns
 by ourselves. This distance is
 hopeless for us.");
@@ -57,14 +57,14 @@ MsgClear();
 VoicePlay("Y300100100_01_030");
 MsgDisp("Kazama","(Wishing on a pinwheel?
 We were separated forever.
-What a cruel fate......)");
+What a cruel fate...)");
 MsgClear();
 MsgDisp("","I don't remember much for a while
 after arriving in England.");
 MsgDisp("","Children are resilient.
 In order to protect themselves, they
 can distract their minds.");
-MsgDisp("","But, the first Christmas......");
+MsgDisp("","But, the first Christmas...");
 MsgClear();
 VoicePlay("Y300100100_47_010");
 MsgDisp("Ryota's Mom","\"How about sending Christmas and New
@@ -72,7 +72,7 @@ Year greetings, to your friends at
 home?\"");
 MsgDisp("","\"My friends at home\"- With that
 simple comment the feelings I
-supressed poured out......");
+supressed poured out...");
 VoicePlay("Y300100100_47_020");
 MsgDisp("Ryota's Mom","\"What's wrong Ryota?\"");
 MsgClear();
@@ -96,7 +96,7 @@ I was completely helpless.");
 MsgClear();
 VoicePlay("Y300100100_01_060");
 MsgDisp("Kazama","\"Maybe this year I can write
-something......\"");
+something...\"");
 BGMStop();
 MsgClear();
 MsgClose();

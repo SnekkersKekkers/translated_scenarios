@@ -84,7 +84,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30100_01_020");
-MsgDisp("Kazama","Heehー.");
+MsgDisp("Kazama","Ehhhー.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

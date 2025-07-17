@@ -55,7 +55,7 @@ It's the Koshien, after all.");
     MsgDisp("Himuro","I was getting a little excited, thinking
 about how our team might win thanks to
 your hard work.");
-    MsgDisp("主人公","Y-Yeah......");
+    MsgDisp("主人公","Y-Yeah...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -70,7 +70,7 @@ aiming for the top.");
     VoicePlay("H180600000_06_080");
     MsgDisp("Himuro","Well, I'm sure you guys will be fine,
 though.");
-    MsgDisp("主人公","(Alright, let's do our best......!)");
+    MsgDisp("主人公","(Alright, let's do our best...!)");
     break ;
     default :
     DbgAssert(1);

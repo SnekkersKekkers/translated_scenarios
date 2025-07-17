@@ -1,7 +1,7 @@
 ChEyeOpenLevel(5,#1);
 ChMouthOpenLevel(5,#1);
 ChCheek(5,0);
-MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
+MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){
@@ -26,9 +26,8 @@ sounds good?");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("J060500000_05_010");
-        MsgDisp("Hiiragi","Yes, ma'am.
-To be able to accept the invitation, it is
-such a pleasure.");
+        MsgDisp("Hiiragi","Yes ma'am.
+It is my pleasure to accept your invitation.");
         ChMouth(5,3);
         VoicePlay("J060500000_05_020");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
@@ -37,7 +36,7 @@ such a pleasure.");
         BGMStop();
         ChClose(5);
         MsgDisp("主人公","(｛柊＊＊＊｝ invited me to go out with him
-......
+...
 Is this a date?)");
         break ;
         default :
@@ -61,8 +60,8 @@ Is this a date?)");
         VoicePlay("J060500000_05_030");
         MsgDisp("Hiiragi","I see.
 I understand.");
-        MsgDisp("主人公","I'm sorry about that .......
-I'm just ......");
+        MsgDisp("主人公","I'm sorry about that ....
+I'm just ...");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("J060500000_05_040");
@@ -80,9 +79,9 @@ See you later.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(5);
-        MsgDisp("主人公","(Hmmm ......
+        MsgDisp("主人公","(Hmmm ...
 He went to all the trouble of inviting me
-over, I'm sorry I did that......)");
+over, I'm sorry I did that...)");
         break ;
         default :
         DbgAssert(1);

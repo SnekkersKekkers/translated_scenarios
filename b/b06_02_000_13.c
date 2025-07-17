@@ -3,9 +3,9 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("B060200013_02_000");
-MsgDisp("Sassa","Hey, you know......
+MsgDisp("Sassa","Hey, you know...
 Do you have a bit more time?");
-MsgSel("Sure, it's fine","Sorry, today is a bit......");
+MsgSel("Sure, it's fine","Sorry, today is a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,3);
@@ -31,11 +31,11 @@ Let's go!");
     ChMotion(2,4);
     ChCheek(2,0);
     VoicePlay("B060200013_02_020");
-    MsgDisp("Sassa","Oh, I see......
+    MsgDisp("Sassa","Oh, I see...
 Haha, I got a little greedy.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(I feel kind of bad......)");
+    MsgDisp("主人公","(I feel kind of bad...)");
     MsgClose();
     ScrFadeOut(0);
     break ;

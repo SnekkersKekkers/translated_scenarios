@@ -10,7 +10,7 @@ call back as soon as possible.");
 VoicePlay("J010500001_05_010");
 MsgDisp("Hiiragi","Apologies, but could you please state your
 business after the tone.");
-MsgDisp("主人公","Hmm, what should I do......");
+MsgDisp("主人公","Hmm, what should I do...");
     MsgSel("Leave a message","Hang up the phone");
 switch (MsgSelRsltGet()){
     case 0:

@@ -40,8 +40,8 @@ remember you many years from now.");
     ChOpen(3,255,4,0,4,#1,#1,0,0);
     SEWait();
     VoicePlay("S120300005_03_030");
-    MsgDisp("Honda","............");
-    MsgDisp("主人公","｛本多＊＊｝, your face......is
+    MsgDisp("Honda","......");
+    MsgDisp("主人公","｛本多＊＊｝, your face...is
 close.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     ChClose(3);
@@ -70,7 +70,7 @@ You won't make me forget it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(My heart is racing...... Like
+    MsgDisp("主人公","(My heart is racing... Like
 ｛本多＊＊｝ says, I want to
 spend the rest of my high school life
 without regrets!)");
@@ -117,7 +117,7 @@ graduation. So I'm thinking about it.");
     VoicePlay("S120300005_03_120");
     MsgDisp("Honda","I will teach you properly.
 So wait for me.");
-    MsgDisp("主人公","｛本多＊＊｝......?");
+    MsgDisp("主人公","｛本多＊＊｝...?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -128,7 +128,7 @@ So wait for me.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(｛本多＊＊｝'s destination......
+    MsgDisp("主人公","(｛本多＊＊｝'s destination...
 How is that up to me?
 I guess I'll think about it too!)");
     break ;

@@ -14,8 +14,8 @@ ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("K010100103_01_010");
 MsgDisp("Kazama","I guess it's my fault.
-You'll have to get to know me better......");
-MsgDisp("主人公","(Ugh......
+You'll have to get to know me better...");
+MsgDisp("主人公","(Ugh...
 I don't think he liked it.)");
 BGMStop();
 MsgClose();

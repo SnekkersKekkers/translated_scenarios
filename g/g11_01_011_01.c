@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to head home now, huh.)");
-MsgDisp("主人公","(......Huh? Isn't that
+MsgDisp("主人公","(...Huh? Isn't that
 ｛風真＊＊｝ over there. I
 might as well chat a bit before heading
 home.)");
@@ -34,7 +34,7 @@ VoicePlay("G110101101_01_010");
 MsgDisp("Kazama","Yeah.
 So you can finally have a junior.");
 MsgDisp("主人公","I see.
-Until now, I was the newest member......");
+Until now, I was the newest member...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -58,7 +58,7 @@ VoicePlay("G110101101_01_040");
 MsgDisp("Kazama","How opportunistic.");
 ChEye(1,0);
 MsgDisp("主人公","I can buy cute clothes.
-And accessories too......");
+And accessories too...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

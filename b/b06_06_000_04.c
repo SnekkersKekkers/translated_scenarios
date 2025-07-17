@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     ChEyeOpenLevel(6,0);
     ScrFadeIn(0);
     VoicePlay("B060600004_06_000");
-    MsgDisp("Himuro","......why did you invite me?");
+    MsgDisp("Himuro","...why did you invite me?");
     MsgDispSksp(0);
     break ;
     case 3:
@@ -21,7 +21,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     ScrFadeIn(0);
     VoicePlay("B060600004_06_010");
-    MsgDisp("Himuro","What to say......
+    MsgDisp("Himuro","What to say...
 I guess we had bad compatibility?");
     MsgDispSksp(0);
     break ;

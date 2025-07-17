@@ -12,7 +12,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600300_06_010");
-MsgDisp("Himuro","......Are you coming too?");
+MsgDisp("Himuro","...Are you coming too?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
@@ -43,7 +43,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600300_06_040");
-MsgDisp("Himuro","......I'm just worried you'll cut loose.");
+MsgDisp("Himuro","...I'm just worried you'll cut loose.");
 MsgDisp("主人公","I'll be okay.");
 ChEye(6,2);
 ChMouth(6,1);
@@ -63,10 +63,10 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600300_06_070");
-MsgDisp("Himuro","......And, if you feel like it, contact
+MsgDisp("Himuro","...And, if you feel like it, contact
 me.");
 MsgDisp("主人公","Eh?
-Contact you......");
+Contact you...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -80,14 +80,14 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G110600300_06_090");
-MsgDisp("Himuro","...... Well, I won't force you to.
+MsgDisp("Himuro","... Well, I won't force you to.
 Just do it if you feel like it.");
 MsgDisp("主人公","Yes, I got it!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600300_06_100");
-MsgDisp("Himuro","......Let's turn off silent mode.");
+MsgDisp("Himuro","...Let's turn off silent mode.");
 MsgDisp("主人公","(Already???)");
 BGMStop();
 MsgClose();

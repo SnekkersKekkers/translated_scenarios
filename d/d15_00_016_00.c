@@ -12,7 +12,7 @@ ChMouth ( 1,2 ) ;
 ChMotion ( 1,5 ) ;
 ChCheek ( 1,5 ) ;
 VoicePlay ( "D150001600_01_000" ) ;
-MsgDisp ( "Kazama","Eh......" ) ;
+MsgDisp ( "Kazama","Eh..." ) ;
 MsgDisp ( "主人公","Frozen?" ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,4 ) ;

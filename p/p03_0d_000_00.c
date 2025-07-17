@@ -4,9 +4,9 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-MsgDisp("主人公","(Phew......
+MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
 MsgClose();
 ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);

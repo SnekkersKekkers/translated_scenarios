@@ -27,7 +27,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("G110300200_03_010");
-MsgDisp("Honda","Yep yep, are you here...... to buy a
+MsgDisp("Honda","Yep yep, are you here... to buy a
 reference book?");
 MsgDisp("主人公","Yeah, you guessed it.");
 ChEye(3,3);
@@ -54,14 +54,14 @@ ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300200_03_040");
-MsgDisp("Honda","I wonder about that......?");
+MsgDisp("Honda","I wonder about that...?");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300200_03_050");
 MsgDisp("Honda","After all, I lost to you in the
-end-of-term test last time......");
+end-of-term test last time...");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);

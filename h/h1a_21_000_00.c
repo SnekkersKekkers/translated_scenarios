@@ -46,7 +46,7 @@ It's because everyone did their best!");
     VoicePlay("H1A2100000_21_030");
     MsgDisp("Michiru","Though I think I'd say it was thanks to
 you, Mari?");
-    MsgDisp("主人公","That's......");
+    MsgDisp("主人公","That's...");
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,0);

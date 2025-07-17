@@ -1,15 +1,15 @@
 BGOpen("wf210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew......
+MsgDisp("主人公","(Phew...
 I hope I was able to get some interesting
-information......)");
+information...)");
 SEPlay("EV_SE_769",0,0.6);
 Wait(100,1);
 SEPlay("EV_SE_770",0,0.5);
 SEStop("EV_SE_769",0.2);
 VoicePlay("D010200300_02_000");
 MsgDisp("Sassa?","Hey, don't go that way～!");
-MsgDisp("主人公","(Ah, that voice is......
+MsgDisp("主人公","(Ah, that voice is...
 It's coming from the beach!)");
 SEStop("EV_SE_770",1);
 MsgClose();
@@ -36,7 +36,7 @@ It's you.
 What's up?");
 MsgDisp("主人公","I came this way because I thought I heard
 ｛颯砂＊＊｝'s voice.
-...... Those dogs are huge.");
+... Those dogs are huge.");
 StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0);

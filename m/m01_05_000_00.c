@@ -7,14 +7,14 @@ MsgDisp("主人公","Eh, ｛柊＊＊＊｝∋");
 VoicePlay("M010500000_05_010");
 MsgDisp("Hiiragi","How are you fairing?");
 MsgDisp("主人公","Mm, I've gotten a lot better.
-Sorry......
+Sorry...
 I made you worry.");
 VoicePlay("M010500000_05_020");
-MsgDisp("Hiiragi","......I see. I can be at ease now that
+MsgDisp("Hiiragi","...I see. I can be at ease now that
 I've heard your voice. Please rest. Well,
 then.");
 MsgDisp("主人公","Eh?∋
-Wait a minute......!");
+Wait a minute...!");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -95,4 +95,4 @@ SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
 MsgDisp("主人公","(I made ｛柊＊＊＊｝ worry.
-I have to get better fast......!)");
+I have to get better fast...!)");

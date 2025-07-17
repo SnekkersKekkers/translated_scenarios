@@ -15,8 +15,8 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,4);
     VoicePlay("S120800004_08_000");
     MsgDisp("Shirahane","It's already our senior year shrine visit
-huh......");
-    MsgDisp("主人公","Yeah......");
+huh...");
+    MsgDisp("主人公","Yeah...");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
@@ -34,7 +34,7 @@ Alright then, see ya");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
     MsgDisp("主人公","(The last New Year's of our high school
-years, huh......
+years, huh...
 Let's live without any regrets!)");
     break ;
     case 3:
@@ -45,7 +45,7 @@ Let's live without any regrets!)");
     VoicePlay("S120800004_08_030");
     MsgDisp("Shirahane","It's our last New Year's visit while we're
 in high school, but somehow I want
-more......");
+more...");
     MsgDisp("主人公","Eh?");
     ChEye(8,2);
     ChMouth(8,0);
@@ -60,7 +60,7 @@ really fun, so it's okay!");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("S120800004_08_050");
-    MsgDisp("Shirahane","Right......
+    MsgDisp("Shirahane","Right...
 Hey, let's talk a bit more.");
     break ;
     case 4:
@@ -70,8 +70,8 @@ Hey, let's talk a bit more.");
     ChMotion(8,4);
     ChEyeOpenLevel(8,10);
     VoicePlay("S120800004_08_060");
-    MsgDisp("Shirahane","We're graduating soon......");
-    MsgDisp("主人公","Yeah......");
+    MsgDisp("Shirahane","We're graduating soon...");
+    MsgDisp("主人公","Yeah...");
     ChEye(8,4);
     ChMouth(8,0);
     ChMotion(8,0,1);
@@ -79,7 +79,7 @@ Hey, let's talk a bit more.");
     MsgDisp("Shirahane","Thank you.");
     MsgDisp("主人公","Huh?");
     VoicePlay("S120800004_08_080");
-    MsgDisp("Shirahane","Really......
+    MsgDisp("Shirahane","Really...
 It's all thanks to you.");
     ChEye(8,3);
     ChMouth(8,3);

@@ -27,7 +27,7 @@ Mhm, yes I did.
     MsgDisp("Honda","Me too.
 As the well-slept duo, let's go together
 for today's free period!");
-    MsgSel("Sure, I'm coming!","Sorry, it's just......");
+    MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,3);
@@ -42,7 +42,7 @@ Let's make the most out of today!");
         ChMotion(3,4,1);
         VoicePlay("Q020300000_03_030");
         MsgDisp("Honda","No problem, now what should we do?
-There are so many places I want to go to.");
+There are so many places I want to go.");
         MsgDisp("主人公","(Hehe.
 I can't wait for the free period together
 with ｛本多＊＊｝! )");
@@ -59,7 +59,7 @@ with ｛本多＊＊｝! )");
         VoicePlay("Q020300000_03_050");
         MsgDisp("Honda","Welp, that can't be helped.
 Let's both enjoy the free period!");
-        MsgDisp("主人公","(He even invited me, I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :
         DbgAssert(0);
@@ -86,7 +86,7 @@ I was looking for you!");
 for the free period? I've already
 perfected a simulation on the best routes
 to take and all, so what do you think?");
-    MsgSel("Sure, I'm coming!","Sorry, it's just......");
+    MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,3);
@@ -122,7 +122,7 @@ going around together");
         ChMotion(3,0,1);
         VoicePlay("Q020300000_03_110");
         MsgDisp("Honda","I guess I'll switch to Plan B. Have fun on your end, too.");
-        MsgDisp("主人公","(He even invited me, I feel bad......)");
+        MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :
         DbgAssert(0);

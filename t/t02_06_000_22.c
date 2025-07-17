@@ -6,7 +6,7 @@ ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("T020600000_06_320");
 MsgDisp("Himuro","Ha∋
-Wait......!");
+Wait...!");
 MsgDisp("主人公","I also like ｛氷室＊＊｝!");
 VoicePlay("T020600000_06_330");
 ChEye(6,3);
@@ -24,13 +24,13 @@ ChEye(6,0);
 ChEyeOpenLevel(6,8);
 MsgDisp("Himuro","What would you do if I tried to avoid you?");
 MsgDisp("主人公","Eh∋
-That would be troubling too......");
+That would be troubling too...");
 VoicePlay("T020600000_06_360");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,5);
 ChCheek(6,0);
-MsgDisp("Himuro","Pfft......it's a joke.");
+MsgDisp("Himuro","Pfft...it's a joke.");
 VoicePlay("T020600000_06_370");
 ChEye(6,4);
 ChMouth(6,3);

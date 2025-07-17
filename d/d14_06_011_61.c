@@ -2,8 +2,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("D140601161_06_000");
-MsgDisp("Himuro","Eh......Are you copying me? I got this
-because no one else knew about it......");
+MsgDisp("Himuro","Eh...Are you copying me? I got this
+because no one else knew about it...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

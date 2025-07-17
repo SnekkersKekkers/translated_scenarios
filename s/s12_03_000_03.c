@@ -63,7 +63,7 @@ This year will be another good year.)");
     MsgDisp("Honda","Ah, we're here.");
     MsgDisp("主人公","Yeah.
 Thank you.
-But as for your wish......");
+But as for your wish...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -105,7 +105,7 @@ Byebye!");
     MsgClose();
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(Thank you for praying for me ......
+    MsgDisp("主人公","(Thank you for praying for me ...
 ｛本多＊＊｝.
 This year will be another good year.)");
     break ;

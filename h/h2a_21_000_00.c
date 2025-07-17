@@ -61,7 +61,7 @@ I was cheering for you though, Mari.");
     MsgDisp("Michiru","Mari's here, and a lot of great members
 are here. It really is a great team.
 Really, congratulations on winning.");
-    MsgDisp("主人公","(｛みちる＊｝......
+    MsgDisp("主人公","(｛みちる＊｝...
 I'm glad that I stayed as the track and
 field club manager!)");
     BGMStop();

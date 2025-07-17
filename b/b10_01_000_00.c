@@ -21,7 +21,7 @@ You gave it your all didn't you?");
 VoicePlay("B100100000_01_030");
 MsgDisp("Kazama","I was also all worked up, trying to make
 it special. ...sorry.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 VoicePlay("B100100000_01_040");
 MsgDisp("Kazama","Even if we run around aimlessly at times,
 that's just like us, so don't worry.");

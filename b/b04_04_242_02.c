@@ -51,16 +51,16 @@ I want to stay like this a little longer.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040424202_04_040");
-        MsgDisp("Nanatsumori","ＯＫ.
+        MsgDisp("Nanatsumori","OK.
 Let's take it easy.");
         MsgClose();
         ChClose(4,0,30);
         MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-        MsgDisp("主人公","............");
+        MsgDisp("主人公","......");
         VoicePlay("B040424202_04_050");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         MsgDisp("主人公","... Hmm.
 Oh no, looks like I fell asleep.");
         MsgDisp("主人公","｛七ツ森＊｝ is...

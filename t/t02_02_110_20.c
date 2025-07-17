@@ -32,9 +32,9 @@ ChMotion(2,0);
 ChEyeOpenLevel(2,10);
 ChCheek(2,0);
 VoicePlay("T020211020_02_030");
-MsgDisp("Sassa","...... Yeah.
+MsgDisp("Sassa","... Yeah.
 Let's keep running together.");
-MsgDisp("主人公","Yes......!");
+MsgDisp("主人公","Yes...!");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

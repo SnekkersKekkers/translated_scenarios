@@ -39,9 +39,9 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300000_03_240");
 MsgDisp("Honda","Want to do it with me instead?");
-MsgDisp("主人公","(Uhm......
+MsgDisp("主人公","(Uhm...
 I can sort of understand his sister's
-feelings......)");
+feelings...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

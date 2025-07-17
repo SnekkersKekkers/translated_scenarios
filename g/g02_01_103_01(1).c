@@ -71,20 +71,20 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_080");
-MsgDisp("Kazama",".........Actually, there is one thing.");
+MsgDisp("Kazama","......Actually, there is one thing.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,7);
 VoicePlay("G020110301_01_090");
-MsgDisp("Kazama","The pool......");
-MsgDisp("主人公","Pool......?
+MsgDisp("Kazama","The pool...");
+MsgDisp("主人公","Pool...?
 Ah, you're talking about the cute float?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020110301_01_100");
-MsgDisp("Kazama","Why do you remember that∋ ...... geez, I
+MsgDisp("Kazama","Why do you remember that∋ ... geez, I
 had a self-reflection session alone after
 I went home.");
 ChEye(1,2);
@@ -111,8 +111,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_130");
 MsgDisp("Kazama","Haaー, I wish I could go to a timeline
-where I didn't borrow that float......");
-MsgDisp("主人公","(｛風真＊＊｝ using the float......
+where I didn't borrow that float...");
+MsgDisp("主人公","(｛風真＊＊｝ using the float...
 I wish I could see that once again.)");
 BGMStop();
 MsgClose();

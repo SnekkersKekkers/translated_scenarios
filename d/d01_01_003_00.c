@@ -1,6 +1,6 @@
 BGOpen("sc520",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝......
+MsgDisp("主人公","Ah, ｛風真＊＊｝...
 I want to go up to the rooftop.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -14,7 +14,7 @@ Wait(30,0);
 VoicePlay("D010100300_01_000");
 MsgDisp("Kazama","Yeah.
 Everything is fine.");
-MsgDisp("主人公","(......is he talking to someone?)");
+MsgDisp("主人公","(...is he talking to someone?)");
 MsgClose();
 StlOpen("ev_01_10");
 StlEye(1,0);
@@ -30,14 +30,14 @@ MsgDisp("Kazama","I learn a lot at Grandpa's store, things I
 can't experience elsewhere.");
 StlMouth(1,1);
 VoicePlay("D010100300_01_030");
-MsgDisp("Kazama","No, I'm not like dad......
+MsgDisp("Kazama","No, I'm not like dad...
 I don't think I'll ever be like him.");
-MsgDisp("主人公","(I don't want to eavesdrop but......
+MsgDisp("主人公","(I don't want to eavesdrop but...
 I wonder who ｛風真＊＊｝ is
 talking to.)");
 SEPlay("EV_SE_602");
 BGMVol(0.5,2);
-MsgDisp("主人公","Ah......");
+MsgDisp("主人公","Ah...");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -56,7 +56,7 @@ VoicePlay("D010100300_01_041");
 MsgDisp("Kazama","Are you following me?
 You always appear out of nowhere.");
 MsgDisp("主人公","Sorry.
-I saw you and I just......");
+I saw you and I just...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -65,7 +65,7 @@ VoicePlay("D010100300_01_050");
 MsgDisp("Kazama","So you ARE following me.");
 MsgDisp("主人公","Geez. ｛風真＊＊｝, are you
 okay? That seemed like a serious phone
-call......?");
+call...?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -90,7 +90,7 @@ Does that make me sound uncool?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
-MsgDisp("主人公","(｛風真＊＊｝......)");
+MsgDisp("主人公","(｛風真＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

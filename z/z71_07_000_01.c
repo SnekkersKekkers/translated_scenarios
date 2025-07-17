@@ -75,7 +75,7 @@ VoicePlay("Z710700001_07_060");
 MsgDisp("Mikage","｛主人公｝, the usual
 question, please.");
 MsgDisp("主人公","Huh!?
-Um...... is Molly doing well?");
+Um... is Molly doing well?");
 SEStop("EV_SE_863",1);
 ChEye(7,0);
 ChMouth(7,0);
@@ -110,6 +110,6 @@ BGOpen("sc300",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Finally, I've asked a question for all
 three years. It's going to be another
-great year......!)");
+great year...!)");
 MsgClose();
 ScrFadeOut(0,0);

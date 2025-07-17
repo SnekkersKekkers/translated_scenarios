@@ -16,7 +16,7 @@ ChLayout(0);
 SEPlay("EV_SE_544",0,0.7,0.1);
 ChOpen(3,254,5,0,4,0,#1,0,0);
 VoicePlay("D100300000_03_010");
-MsgDisp("Honda","Sniff sniff......
+MsgDisp("Honda","Sniff sniff...
 Huh?
 It's gone.");
 MsgDisp("主人公","Ehh∈ What is it?");
@@ -46,7 +46,7 @@ ChMotion(3,4,1);
 VoicePlay("D100300000_03_050");
 MsgDisp("Honda","When I saw you just now, I swear I could
 smell that same scent.");
-MsgDisp("主人公","A garden of roses, huh......
+MsgDisp("主人公","A garden of roses, huh...
 That sounds like a really nice dream.");
 ChEye(3,3);
 ChMouth(3,3);

@@ -14,7 +14,7 @@ They're super steep!");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("L040800002_08_010");
-    MsgDisp("Shirahane","You didn't hafta......
+    MsgDisp("Shirahane","You didn't hafta...
 But, I'm happy.
 Thanks.");
     MsgDisp("主人公","(He seemed happy.
@@ -37,7 +37,7 @@ I kinda went all out!");
     MsgDisp("Shirahane","Heheh, that so.
 Well, I gotta go all out for the return
 gift, too!");
-    MsgDisp("主人公","Oh, that wasn't my intention......");
+    MsgDisp("主人公","Oh, that wasn't my intention...");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
@@ -57,22 +57,22 @@ Thank goodness!)");
     ChEyeOpenLevel(8,10);
     ChCheek(8,8);
     VoicePlay("L040800002_08_050");
-    MsgDisp("Shirahane","This......
-It's the chocolates on Habatcher......");
+    MsgDisp("Shirahane","This...
+It's the chocolates on Habatcher...");
     MsgDisp("主人公","Hehe, I got a little excited▼");
     ChEye(8,3);
     ChMouth(8,4);
     VoicePlay("L040800002_08_060");
-    MsgDisp("Shirahane","For me......?");
+    MsgDisp("Shirahane","For me...?");
     MsgDisp("主人公","Yes.
 Just for you, ｛大地＊＊｝.");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("L040800002_08_070");
-    MsgDisp("Shirahane","Ah, no......
+    MsgDisp("Shirahane","Ah, no...
 I'm not gonna be able to do anythin' else
-today......");
+today...");
     MsgDisp("主人公","Huh?");
     ChEye(8,3);
     ChMouth(8,3);
@@ -83,7 +83,7 @@ today......");
     MsgDisp("Shirahane","So I'll be braggin' 'bout this chocolate
 until I get scolded by the manager.
 Thanks, ｛主人公｝.");
-    MsgDisp("主人公","(Huh!? Will he be fine...... But, he
+    MsgDisp("主人公","(Huh!? Will he be fine... But, he
 seemed really happy. Thank goodness!)");
     break ;
     default :

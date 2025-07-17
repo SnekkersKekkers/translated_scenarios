@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝......
+MsgDisp("主人公","｛柊＊＊＊｝...
 Why are you here?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -18,7 +18,7 @@ ChMotion(5,2);
 VoicePlay("T020500000_05_010");
 MsgDisp("Hiiragi","I stubbornly believed that if I came here,
 I would meet you.
-...... It's a bad habit.");
+... It's a bad habit.");
 ChEyeOpenLevel(5,10);
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);
@@ -27,7 +27,7 @@ Wait(16,0);
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("T020500000_05_020");
-MsgDisp("Hiiragi","......Do you remember when I ate half of
+MsgDisp("Hiiragi","...Do you remember when I ate half of
 your bento on the rooftop?");
 MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ You were
 trying to do your student council work
@@ -40,7 +40,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("T020500000_05_030");
 MsgDisp("Hiiragi","By that time, I think you already caught
 onto the fact it had fallen apart.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
@@ -67,8 +67,8 @@ ChMouth(5,0);
 VoicePlay("T020500000_05_060");
 MsgDisp("Hiiragi","To compensate for that disparity, even if
 it was just a little, I would actively
-participate in the student council......");
-MsgDisp("主人公","Is that so......
+participate in the student council...");
+MsgDisp("主人公","Is that so...
 I'm sorry I never noticed.");
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
@@ -87,7 +87,7 @@ VoicePlay("T020500000_05_080");
 MsgDisp("Hiiragi","So much so that I began to drive the
 members of the Habataki Theatre Company
 into despair.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -109,7 +109,7 @@ Wait(12,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020500000_05_110");
-MsgDisp("Hiiragi","......Since I was born, I have never once
+MsgDisp("Hiiragi","...Since I was born, I have never once
 liked theater.");
 MsgDisp("主人公","Eh?");
 ChEyeOpenLevel(5,0);
@@ -121,7 +121,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("T020500000_05_120");
 MsgDisp("Hiiragi","Of course, the audience loved theater.
 And so did the members of the company.
-I was the only one who was different......");
+I was the only one who was different...");
 Wait(60,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -141,12 +141,12 @@ ChCheek(5,5);
 VoicePlay("T020500000_05_140");
 MsgDisp("Hiiragi","It was from that day that I was able to
 proudly say that I love theater.");
-MsgDisp("主人公","Yes......");
+MsgDisp("主人公","Yes...");
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("T020500000_05_150");
-MsgDisp("Hiiragi","And there's one more thing...... that I've
+MsgDisp("Hiiragi","And there's one more thing... that I've
 come to like.");
 Wait(60,0);
 ChMotion(5,0);
@@ -171,7 +171,7 @@ Wait(16,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020500000_05_180");
-MsgDisp("Hiiragi","You are the light that guides me...... a
+MsgDisp("Hiiragi","You are the light that guides me... a
 warm, lovely light.");
 MsgClear();
 ChClose(5);

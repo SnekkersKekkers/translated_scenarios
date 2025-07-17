@@ -28,18 +28,18 @@ VoicePlay("F020400012_04_020");
 MsgDisp("Nanatsumori","The sweets also use unexpected ingredients
 and cherry blossoms. Every day during
 cherry blossom season truly is a blessing");
-MsgDisp("主人公","Huh......");
+MsgDisp("主人公","Huh...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400012_04_030");
-MsgDisp("Nanatsumori","...... Well.
+MsgDisp("Nanatsumori","... Well.
 You're a girl, so shouldn't you be more
 interested in that sort of thing?");
 ChMotion(4,0,1);
 VoicePlay("F020400012_04_040");
 MsgDisp("Nanatsumori","Well, I guess gender has nothing to do
 with it.");
-MsgDisp("主人公","(Uh......
+MsgDisp("主人公","(Uh...
 Even then, I'm no match for
-｛七ツ森＊｝......)");
+｛七ツ森＊｝...)");

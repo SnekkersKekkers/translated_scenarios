@@ -5,7 +5,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,1,1,2,0,0,0,0);
 VoicePlay("F010100008_01_000");
-MsgDisp("Kazama","......");
+MsgDisp("Kazama","...");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(1);

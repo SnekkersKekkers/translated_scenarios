@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_597",1,0.4);
 Wait(50,0);
-MsgDisp("主人公","(Ah......
+MsgDisp("主人公","(Ah...
 What a nice breeze.
 Having the window seat is a privilege♪)");
 MsgClose();
@@ -20,7 +20,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100100_01_010");
-MsgDisp("Kazama","Where? .........");
+MsgDisp("Kazama","Where? ......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -58,18 +58,18 @@ StlEyeOpenLevel(1,5);
 StlMouth(1,1);
 StlMouthOpenLevel(1,0);
 VoicePlay("D010100100_01_050");
-MsgDisp("Kazama","............");
-MsgDisp("主人公","(It's such an intimate feeling......
+MsgDisp("Kazama","......");
+MsgDisp("主人公","(It's such an intimate feeling...
 Somehow it feels like we're the only two
-people in this world right now......)");
+people in this world right now...)");
 StlEye(1,1);
 StlMouth(1,1);
 StlCheek(1,7);
 VoiceEVSPlay(1);
 VoicePlay("D010100100_01_060");
 MsgDisp("Kazama","｛主人公｝.
-You know......");
-MsgDisp("主人公","......What?");
+You know...");
+MsgDisp("主人公","...What?");
 SEPlay("EV_SE_597",0,0.8);
 StlEyeOpenLevel(1,0);
 Wait(16,0);
@@ -98,7 +98,7 @@ VoicePlay("D010100100_01_070");
 MsgDisp("Kazama","It's windy so I'm closing the window.");
 SEPlay("EV_SE_GAYA_017");
 MsgDisp("主人公","(｛風真＊＊｝ was going to say something
-earlier......)");
+earlier...)");
 SEStop("EV_SE_GAYA_017",1.5);
 BGMStop(2);
 MsgClose();

@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,254,0,0,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Haah......
+MsgDisp("主人公","Haah...
 I had so much fun.");
 ChEye(21,0);
 ChMouth(21,3);

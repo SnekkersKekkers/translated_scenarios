@@ -24,7 +24,7 @@ ScrFadeIn(0);
 VoicePlay("D010500300_05_000");
 MsgDisp("Hiiragi?","Why on Earth would you be leaving the
 theater company?");
-MsgDisp("主人公","(Eh, that voice......)");
+MsgDisp("主人公","(Eh, that voice...)");
 VoicePlay("D010500300_33_020");
 MsgDisp("Theater Member A","We're not cut out to be actors.");
 VoicePlay("D010500300_46_000");
@@ -44,18 +44,18 @@ MsgClose();
 Wait(30,0);
 ChOpen(5,40,4,2,2,0,#1,0,0);
 VoicePlay("D010500300_05_020");
-MsgDisp("Hiiragi","............");
-MsgDisp("主人公","......｛柊＊＊＊｝?");
+MsgDisp("Hiiragi","......");
+MsgDisp("主人公","...｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,5);
 VoicePlay("D010500300_05_030");
-MsgDisp("Hiiragi","! Why......");
+MsgDisp("Hiiragi","! Why...");
 ChMouth(5,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500300_05_040");
-MsgDisp("Hiiragi","......Excuse me.");
+MsgDisp("Hiiragi","...Excuse me.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(5);
@@ -70,10 +70,10 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(｛柊＊＊＊｝, where did you go?
-You don't seem okay at all......)");
+You don't seem okay at all...)");
 VoicePlay("D010500300_05_050");
-MsgDisp("Hiiragi?","......*Sobbing noises*");
-MsgDisp("主人公","Ah......");
+MsgDisp("Hiiragi?","...*Sobbing noises*");
+MsgDisp("主人公","Ah...");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_05_09");
@@ -83,24 +83,24 @@ StlMouth(5,1);
 BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 EnvPlay("SE_ENV_BG_AD006_CO1",1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 StlEyeOpenLevel(5,10,1);
 VoicePlay("D010500300_05_060");
 MsgDisp("Hiiragi","!");
 StlEyeOpenLevel(5,#1);
 VoicePlay("D010500300_05_070");
-MsgDisp("Hiiragi","......I didn't want you to see me like
+MsgDisp("Hiiragi","...I didn't want you to see me like
 this.");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_080");
-MsgDisp("Hiiragi","......Just a year ago those two smiled and
+MsgDisp("Hiiragi","...Just a year ago those two smiled and
 told me how much they love the theater.");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("D010500300_05_090");
 MsgDisp("Hiiragi","And now, because of me, they think they
 aren't cut out for it and have given up on
-their dreams. It's not fun for them......");
-MsgDisp("主人公","............");
+their dreams. It's not fun for them...");
+MsgDisp("主人公","......");
 StlEye(5,0);
 VoicePlay("D010500300_05_100");
 MsgDisp("Hiiragi","I'm really the worst.
@@ -111,12 +111,12 @@ StlMouth(5,0);
 VoicePlay("D010500300_05_110");
 MsgDisp("Hiiragi","Isn't that ironic for a person like me
 whose job it is to convey hope to the
-audience on stage......");
+audience on stage...");
 MsgDisp("Hiiragi","How hilarious it is that I'm the chairman.");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500300_05_120");
-MsgDisp("Hiiragi","...... Hah, my apologies......
+MsgDisp("Hiiragi","... Hah, my apologies...
 Am I that way to you too?");
 MsgDisp("主人公","Of course not. ｛柊＊＊＊｝ is
 always working hard for everyone's sake,
@@ -124,13 +124,13 @@ the Student Council and the Theater
 Company.");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_130");
-MsgDisp("Hiiragi","For everyone's sake......
+MsgDisp("Hiiragi","For everyone's sake...
 Yes, that was always my intention.");
 MsgDisp("主人公","Yes.
 We all appreciate you, okay?");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("D010500300_05_140");
-MsgDisp("Hiiragi","......Thank you.");
+MsgDisp("Hiiragi","...Thank you.");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -144,7 +144,7 @@ ChOpen(5,40,4,2,2,0,#1,0,0);
 Wait(10,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","......Are you okay?");
+MsgDisp("主人公","...Are you okay?");
 ChMouth(5,4);
 VoicePlay("D010500300_05_150");
 MsgDisp("Hiiragi","Please don't worry about me.");
@@ -154,7 +154,7 @@ VoicePlay("D010500300_05_160");
 MsgDisp("Hiiragi","Please try to forget today.
 If you don't, I don't know how I can show
 my face to you again.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -164,7 +164,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝ seemed really upset......)");
+MsgDisp("主人公","(｛柊＊＊＊｝ seemed really upset...)");
 MsgClose();
 ScrFadeOut(0,0);
 EnvAutoSet(1);

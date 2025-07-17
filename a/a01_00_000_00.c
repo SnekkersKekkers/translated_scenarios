@@ -13,7 +13,7 @@ Wait(120,1);
 VoicePlay("A010000000_01_000");
 MsgDisp("Ryota","Ah, listen, do you hear the bell?
 It's ringing again!");
-MsgDisp("主人公","Yeah...... It's quiet, but I can hear it
+MsgDisp("主人公","Yeah... It's quiet, but I can hear it
 too!");
 SEStop("EV_SE_795",4);
 VoicePlay("A010000000_01_010");
@@ -67,12 +67,12 @@ Wait(138,0);
 BGOpen("pr004",0);
 VoicePlay("A010000000_01_060");
 MsgDisp("Ryota","Do you think we can open the door?");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 Are we allowed to do that?");
 SEPlay("EV_SE_794",0,0.5);
 SEWait();
 VoicePlay("A010000000_01_070");
-MsgDisp("Ryota","Ah......
+MsgDisp("Ryota","Ah...
 I guess we can't after all.");
 SEPlay("EV_SE_702",0.2,0.4);
 Wait(140,0);
@@ -153,7 +153,7 @@ MsgDisp("Ryota","(I wish that we're always happy and
 healthy and that we definitely, definitely
 get married!)");
 MsgDisp("主人公","(What to do, I can't think of a wish so
-suddenly......)");
+suddenly...)");
 MsgDisp("主人公","(Ah, yeah!
 \"I wish that Ryota-kun's wish will come
 true!\")");
@@ -186,7 +186,7 @@ ScrFadeIn(0);
 VoicePlay("A010000000_01_190");
 MsgDisp("Ryota","Eh! Well maybe, I guess that's true...?
 ...So what did you wish for?");
-MsgDisp("主人公","My wish?......It's a secret.
+MsgDisp("主人公","My wish?...It's a secret.
 It's embarrassing.");
 VoicePlay("A010000000_01_200");
 MsgDisp("Ryota","...I see.
@@ -204,7 +204,7 @@ Wait(140,0);
 BGOpen("ho410",2);
 EnvPlay("SE_ENV_BG_EV004_CO0",1,0.5);
 ScrFadeIn(4,60);
-MsgDisp("主人公","That dream......");
+MsgDisp("主人公","That dream...");
 MsgDisp("主人公","(Hehe, it's been a while since I've heard
 his name. All the old memories are coming
 back to me.)");

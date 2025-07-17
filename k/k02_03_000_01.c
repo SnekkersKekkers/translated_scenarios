@@ -17,7 +17,7 @@ SEWait();
 Wait(30,0);
 VoicePlay("K020300001_03_000");
 MsgDisp("Honda","Here's your present!");
-MsgDisp("主人公","Oh, this is......");
+MsgDisp("主人公","Oh, this is...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);

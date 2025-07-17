@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","(Oh......
+MsgDisp("主人公","(Oh...
 A phone call?
 Who's it from?)");
 MsgDisp("主人公","(Eh, ｛大地＊＊｝∋ )");
@@ -18,7 +18,7 @@ MsgDisp("主人公","Hello, ｛大地＊＊｝?");
 VoicePlay("D020800700_08_000");
 MsgDisp("Shirahane","I finally gotcha!
 Were ya sleepin'?");
-MsgDisp("主人公","No, I'm awake but......
+MsgDisp("主人公","No, I'm awake but...
 What's up?");
 VoicePlay("D020800700_08_010");
 MsgDisp("Shirahane","You're on a school trip in Nagasaki right
@@ -41,7 +41,7 @@ MsgDisp("Shirahane","Nah, the pillow fights were intense so
 everyone is going to sleep now.");
 MsgDisp("主人公","Oh.");
 VoicePlay("D020800700_08_050");
-MsgDisp("Shirahane","Sigh......There's nothin' more lame than
+MsgDisp("Shirahane","Sigh...There's nothin' more lame than
 sight-seeing in your hometown. If you were
 here though, it'd be a different story.");
 MsgDisp("主人公","Would ｛大地＊＊｝ be my
@@ -71,6 +71,6 @@ SEWait();
 MsgDisp("主人公","(Hehe, I can't help but think about
 ｛大地＊＊｝ guiding everyone
 at Hane Academy.)"); 
-MsgDisp("主人公","(I wish we were in the same place......)");
+MsgDisp("主人公","(I wish we were in the same place...)");
 MsgClose();
 ScrFadeOut(0);

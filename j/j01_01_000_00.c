@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
 Are you free to talk right now?");
     VoicePlay("J010100000_01_010");
     MsgDisp("Kazama","What's up?");
-    MsgDisp("主人公","Well, umm......");
+    MsgDisp("主人公","Well, umm...");
     break ;
     case 3:
     VoicePlay("J010100000_01_020");
@@ -36,7 +36,7 @@ Do you have time?");
     MsgDisp("Kazama","Always for you.
 What's up?");
     MsgDisp("主人公","Thanks.
-Well......");
+Well...");
     break ;
     default :
     DbgAssert(1);

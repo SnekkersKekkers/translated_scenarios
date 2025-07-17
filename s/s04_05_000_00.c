@@ -18,7 +18,7 @@ Happy New Years!");
     MsgDisp("Hiiragi","Happy New Years.
 I was thinking about going to the shrine.
 Do you want to go together?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040500000_05_020");
@@ -42,7 +42,7 @@ I'm sorry for being so spontaneous.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he took the time to invite
-me, did I do something wrong?......)");
+me, did I do something wrong?...)");
         break ;
         default :
         DbgAssert(0);
@@ -71,7 +71,7 @@ I'm happy to hear it.");
     VoicePlay("S040500000_05_070");
     MsgDisp("Hiiragi","How about we both go and cheerfully say
 hello to the gods?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040500000_05_080");
@@ -85,7 +85,7 @@ I'll wait a bit, so take your time.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(I feel like he has high expectations for
-something......
+something...
 Now then, what should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -93,7 +93,7 @@ Now then, what should I wear?)");
         case 1:
         VoicePlay("S040500000_05_100");
         MsgDisp("Hiiragi","Oh I see, it's impossible.");
-        MsgDisp("主人公","Yeah......sorry.");
+        MsgDisp("主人公","Yeah...sorry.");
         VoicePlay("S040500000_05_110");
         MsgDisp("Hiiragi","Just hearing your voice is already half of
 my New Year's goal.");
@@ -102,8 +102,8 @@ my New Year's goal.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through the trouble
-of inviting me......
-Did I make the wrong choice......?)");
+of inviting me...
+Did I make the wrong choice...?)");
         break ;
         default :
         DbgAssert(0);

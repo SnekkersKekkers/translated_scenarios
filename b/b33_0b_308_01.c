@@ -20,7 +20,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30801_04_000");
-MsgDisp("Nanatsumori","Heeh, is that so?");
+MsgDisp("Nanatsumori","Ehhh, is that so?");
 ChEye(1,0);
 ChMotion(1,1);
 VoicePlay("B330B30801_01_010");

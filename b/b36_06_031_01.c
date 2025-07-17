@@ -33,7 +33,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360603101_06_030");
 MsgDisp("Himuro","Dense.");
-MsgDisp("主人公","Ugh......");
+MsgDisp("主人公","Ugh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -51,16 +51,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B360603101_06_060");
-MsgDisp("Himuro","......But I don't want to be the kind of
+MsgDisp("Himuro","...But I don't want to be the kind of
 person that's so insensitive to say
 something like that.");
-MsgDisp("主人公","......｛氷室＊＊｝ did you not have enjoy?");
+MsgDisp("主人公","...｛氷室＊＊｝ did you not have enjoy?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,5);
 VoicePlay("B360603101_06_070");
 MsgDisp("Himuro","I didn't!");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -71,7 +71,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360603101_06_090");
 MsgDisp("Himuro","You were there. And all things considered,
-it wasn't so bad. ......But it was so
+it wasn't so bad. ...But it was so
 noisy.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -11,9 +11,9 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("P030500000_05_000");
@@ -34,7 +34,7 @@ Please, would you like to come in?");
     VoicePlay("P030500000_05_020");
     MsgDisp("Hiiragi","Then, allow me to be spoiled by your
 words.
-Although I must say......");
+Although I must say...");
     MsgDisp("主人公","Hm?");
     ChEye(5,4);
     ChMouth(5,4);
@@ -51,9 +51,9 @@ Although I must say......");
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChOpen(5,254,4,3,4,#1,#1,0,0);
     VoiceEVSPlay(5);
@@ -89,7 +89,7 @@ Will you not be serving me?");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P030500000_05_080");
-    MsgDisp("Hiiragi","I see......
+    MsgDisp("Hiiragi","I see...
 Then, I'll be enjoying my dango inside
 until you come to serve me.");
     MsgDisp("主人公","Yes, please savor them.");

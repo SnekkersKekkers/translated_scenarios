@@ -33,6 +33,6 @@ VoicePlay("F022100011_21_030");
 MsgDisp("Michiru","Mari.
 Thank you for being my friend this year
 too.");
-MsgDisp("主人公","(｛みちる＊｝......)");
+MsgDisp("主人公","(｛みちる＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

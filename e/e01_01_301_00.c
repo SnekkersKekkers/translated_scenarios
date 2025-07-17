@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","... Alright.
 Time to head home.
-Huh, is that......");
+Huh, is that...");
 VoicePlay("E010130100_03_000");
 MsgDisp("Honda?","Huh?
 Might as well, no need to be shy!");
@@ -16,7 +16,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("E010130100_01_000");
-MsgDisp("Kazama","Thank god......
+MsgDisp("Kazama","Thank god...
 You tell her!");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","What's going on?");
@@ -39,13 +39,13 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010130100_01_010");
 MsgDisp("Kazama","Not at all.
 I'm keeping it that way.");
-MsgDisp("主人公","(Ah, so that's what it was about......)");
+MsgDisp("主人公","(Ah, so that's what it was about...)");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010130100_01_020");
-MsgDisp("Kazama","...... Hmm?
+MsgDisp("Kazama","... Hmm?
 You, just now, that was a bit of a funny
 reaction, wasn't it?");
 MsgDisp("主人公","No, not at all.
@@ -63,16 +63,16 @@ ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010130100_03_030");
 MsgDisp("Honda","Hmph, my sister won't let me do it
-either......
+either...
 I wonder why people don't want to-.");
 ChMouth(1,2);
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("E010130100_03_040");
-MsgDisp("Honda","But I like cutting hair......");
+MsgDisp("Honda","But I like cutting hair...");
 ChEyeOpenLevel(1,8);
-MsgDisp("主人公","......Huh?");
+MsgDisp("主人公","...Huh?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -87,7 +87,7 @@ MsgDisp("Honda","But I haven't said anything yet.
 Ryo-kun, you're too many steps ahead.");
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","Ehm......Excuse me? I don't have any plans
+MsgDisp("主人公","Ehm...Excuse me? I don't have any plans
 for a haircut right now.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -102,7 +102,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 ChPosition(1,0);
 Wait(60,0);
-MsgDisp("主人公","He looked a little sad......");
+MsgDisp("主人公","He looked a little sad...");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -122,7 +122,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(Hmphhh......
+MsgDisp("主人公","(Hmphhh...
 I really think ｛本多＊＊｝ 's
 hairstyle suits him though.)");
 MsgClose();

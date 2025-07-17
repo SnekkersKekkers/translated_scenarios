@@ -11,7 +11,7 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,2 ) ;
 VoicePlay ( "D150001300_01_000" ) ;
-MsgDisp ( "Kazama","Let's see......
+MsgDisp ( "Kazama","Let's see...
 I liked the food there.
 Teatime sweets were especially popular." ) ;
 MsgDisp ( "主人公","Wow, that sounds yummy!" ) ;
@@ -22,7 +22,7 @@ VoicePlay ( "D150001300_03_010" ) ;
 MsgDisp ( "Honda","Yepyep. Sugar cookies are famous.
 Apparently they originated from the royal
 family." ) ;
-MsgDisp ( "主人公","Royal sweets......
+MsgDisp ( "主人公","Royal sweets...
 That sounds amazing." ) ;
 ChEye ( 1,4 ) ;
 ChMouth ( 1,0 ) ;
@@ -54,7 +54,7 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001300_01_030" ) ;
-MsgDisp ( "Kazama","...... Geez.
+MsgDisp ( "Kazama","... Geez.
 What are you even saying?" ) ;
 MsgDisp ( "主人公","(Hehe. Young master cookies. That sounds
 like a souvenir you'd get from Habataki

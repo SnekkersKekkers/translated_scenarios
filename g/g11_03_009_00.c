@@ -22,7 +22,7 @@ MsgClose();
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","...... Huh?
+MsgDisp("主人公","... Huh?
 ｛本多＊＊｝ still hasn't taken a
 break?");
 ChEye(3,0);
@@ -55,7 +55,7 @@ MsgDisp("Honda","In the future, wouldn't it be so fun if we
 could gather all the books we like and
 open a bookstore together?");
 MsgDisp("主人公","A bookstore that only sells books selected
-by ｛本多＊＊｝......
+by ｛本多＊＊｝...
 I bet it would be really popular.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -70,9 +70,9 @@ ChMotion(3,1);
 VoicePlay("G110300900_03_060");
 MsgDisp("Honda","Right?");
 MsgDisp("主人公","(I have a feeling he's saying something
-amazing...... But, if we could open that
+amazing... But, if we could open that
 store, I think it would be really
-fun......)");
+fun...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -23,7 +23,7 @@ Thank you for coming.");
     ScrFadeIn(0);
     VoicePlay("B060500004_05_010");
     MsgDisp("Hiiragi","You don't look so well.
-I guess I pushed you too hard......
+I guess I pushed you too hard...
 Go home and get some rest.");
     MsgDispSksp(0);
     break ;
@@ -36,7 +36,7 @@ Go home and get some rest.");
     ScrFadeIn(0);
     VoicePlay("B060500004_05_020");
     MsgDisp("Hiiragi","I can't believe our day together ends like
-this......Sorry. Truthfully, I wish we
+this...Sorry. Truthfully, I wish we
 could start over.");
     MsgDispSksp(0);
     break ;

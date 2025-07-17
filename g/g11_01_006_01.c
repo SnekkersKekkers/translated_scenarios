@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he had
+MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
 something he wanted to talk to me about on
-the way home, ......I wonder if something
+the way home, ...I wonder if something
 happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -38,14 +38,14 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100601_01_010");
 MsgDisp("Kazama","Spending time with you here is a big deal
-to me......
+to me...
 I can think in a different way to usual.");
 ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100601_01_020");
 MsgDisp("Kazama","I know it's pathetic, but until we came
-here......
+here...
 I was planning on prying on Inori.");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(1,0);
@@ -61,7 +61,7 @@ VoicePlay("G110100601_01_040");
 MsgDisp("Kazama","After that, it's my problem.
 It's not yours, not Inori's.
 It's my problem.");
-MsgDisp("主人公","......Yeah.");
+MsgDisp("主人公","...Yeah.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -69,7 +69,7 @@ VoicePlay("G110100601_01_050");
 MsgDisp("Kazama","Hey, don't make that face.
 It's okay, it's not like I'm going to
 suddenly start surfing tomorrow.");
-MsgDisp("主人公","(｛風真＊＊｝......)");
+MsgDisp("主人公","(｛風真＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

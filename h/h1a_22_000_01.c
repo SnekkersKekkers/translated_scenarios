@@ -11,7 +11,7 @@ switch (ChPrmGet(22,6)){
     VoicePlay("H1A2200001_22_000");
     MsgDisp("Hikaru","Hm.
 It's too bad.");
-    MsgDisp("主人公","Yeah, it's frustrating......");
+    MsgDisp("主人公","Yeah, it's frustrating...");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,3,1);
@@ -19,7 +19,7 @@ It's too bad.");
     MsgDisp("Hikaru","But it's still amazing, you know?
 You guys made it all the way here.
 Mari and everyone in the club is so good!");
-    MsgDisp("主人公","(｛ひかる＊｝......
+    MsgDisp("主人公","(｛ひかる＊｝...
 We might have lost, but I'm glad that I
 stayed as the baseball club manager.)");
     break ;
@@ -28,9 +28,9 @@ stayed as the baseball club manager.)");
     ChOpen(22,254,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A2200001_22_020");
-    MsgDisp("Hikaru","Mari......
+    MsgDisp("Hikaru","Mari...
 Cheer up?");
-    MsgDisp("主人公","We lost......");
+    MsgDisp("主人公","We lost...");
     ChEye(22,2);
     ChMouth(22,1);
     ChMotion(22,3,1);
@@ -51,7 +51,7 @@ to me.");
     VoicePlay("H1A2200001_22_050");
     MsgDisp("Hikaru","So, you know?
 Mari, smile?");
-    MsgDisp("主人公","(｛ひかる＊｝......
+    MsgDisp("主人公","(｛ひかる＊｝...
 We might have lost, but I'm glad that I
 stayed as the baseball club manager.)");
     break ;

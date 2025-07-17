@@ -35,7 +35,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("B070200000_02_100");
 MsgDisp("Sassa","Avoiding it, huh?");
 MsgDisp("主人公","(So ｛颯砂＊＊｝ likes
-udon......)");
+udon...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

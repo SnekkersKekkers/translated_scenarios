@@ -61,7 +61,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020230200_02_090");
-MsgDisp("Sassa","What should I do......");
+MsgDisp("Sassa","What should I do...");
 MsgDisp("主人公","Umm, how about you think about it slowly
 when it comes time to eat?");
 ChEye(2,0);

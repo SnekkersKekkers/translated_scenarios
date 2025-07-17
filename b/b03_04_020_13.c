@@ -40,7 +40,7 @@ nevermind.
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,3,1);
-    MsgDisp("Nanatsumori","ＯＫ.
+    MsgDisp("Nanatsumori","OK.
 Let's go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

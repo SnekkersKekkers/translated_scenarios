@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("O040500002_05_000");
     MsgDisp("Hiiragi","The same score?
 What a coincidence.");
-    MsgDisp("主人公","(A draw, huh......
+    MsgDisp("主人公","(A draw, huh...
 Hm, it's too bad!)");
     break ;
     case 3:
@@ -22,7 +22,7 @@ Hm, it's too bad!)");
     VoicePlay("O040500002_05_010");
     MsgDisp("Hiiragi","A draw?
 Aah, I have regrets about my last toss.");
-    MsgDisp("主人公","(A draw, huh......
+    MsgDisp("主人公","(A draw, huh...
 Hm, it's too bad!)");
     break ;
     case 4:
@@ -34,7 +34,7 @@ Hm, it's too bad!)");
     MsgDisp("Hiiragi","We weren't victorious, but I still enjoyed
 myself.
 I suppose I'm satisfied?");
-    MsgDisp("主人公","(A draw, huh......
+    MsgDisp("主人公","(A draw, huh...
 Hm, it's too bad!)");
     break ;
     default :

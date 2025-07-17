@@ -64,7 +64,7 @@ group.");
 ChMotion(3,4);
 VoicePlay("B070300001_03_380");
 MsgDisp("Honda","Does that clear up your worries?");
-MsgDisp("主人公","(How kind......
+MsgDisp("主人公","(How kind...
 Thank you, ｛本多＊＊｝.)");
 BGMStop();
 MsgClose();

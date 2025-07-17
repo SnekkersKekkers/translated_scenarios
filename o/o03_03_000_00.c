@@ -24,7 +24,7 @@ I'm glad I did my best!)");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("O030300000_03_010");
-    MsgDisp("Honda","We're first place......!?");
+    MsgDisp("Honda","We're first place...!?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1);
@@ -58,20 +58,20 @@ You really are the best!");
     ChMotion(3,2);
     ChCheek(3,8);
     VoicePlay("O030300000_03_060");
-    MsgDisp("Honda","......Hm, hm? My heart was racing from
+    MsgDisp("Honda","...Hm, hm? My heart was racing from
 running, but it feels like it's racing
-from something else, now......");
+from something else, now...");
     MsgDisp("主人公","Huh, are you okay?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
     ChCheek(3,0);
     VoicePlay("O030300000_03_070");
-    MsgDisp("Honda","...... I see.
+    MsgDisp("Honda","... I see.
 This is what's making my heart pound.
 Your smile is making my heart flutter.");
     MsgDisp("主人公","Eeeeehhh!!!");
-    MsgDisp("主人公","(He just said something amazing......
+    MsgDisp("主人公","(He just said something amazing...
 I'm glad I got first with
 ｛本多＊＊｝! )");
     break ;

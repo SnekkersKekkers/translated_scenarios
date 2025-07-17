@@ -2,7 +2,7 @@ BGOpen("fp000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yeah, I think it's time to go home now.
-Wait, over there, is that......)");
+Wait, over there, is that...)");
 VoicePlay("E010320200_06_000");
 MsgDisp("Himuro?","Ohhh.
 So Iku-senpai is good at Shogi too.");
@@ -79,14 +79,14 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("E010320200_03_040");
 MsgDisp("Honda","Ah, wait up, Nori-kun!");
-MsgDisp("主人公","He left......");
+MsgDisp("主人公","He left...");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("E010320200_03_050");
 MsgDisp("Honda","Banning talking is no fun.
 That old man seemed to be having fun
-listening to me too......");
+listening to me too...");
 MsgDisp("主人公","(｛氷室＊＊｝ is probably avoiding
 ｛本多＊＊｝ because all the
 chatter makes it hard for him to

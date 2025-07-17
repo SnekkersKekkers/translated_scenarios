@@ -10,13 +10,13 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("T020420000_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
-MsgDisp("主人公","｛七ツ森＊｝...... !");
+MsgDisp("主人公","｛七ツ森＊｝... !");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("T020420000_04_010");
 MsgDisp("Nanatsumori","Yo.
-The person you're waiting for......
+The person you're waiting for...
 Is it a relief that I'm here?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -28,16 +28,16 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_030");
-MsgDisp("Nanatsumori","......I mean, it's only thanks to those
+MsgDisp("Nanatsumori","...I mean, it's only thanks to those
 guys that I can say this.");
-MsgDisp("主人公","......Those guys?");
+MsgDisp("主人公","...Those guys?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_040");
 MsgDisp("Nanatsumori","Kazama and Dahon.
 I mean, we always hung out together right?");
-MsgDisp("主人公","Ah...... yes.
+MsgDisp("主人公","Ah... yes.
 That's right.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -55,13 +55,13 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_070");
-MsgDisp("Nanatsumori","Well......your feelings aside, is this
+MsgDisp("Nanatsumori","Well...your feelings aside, is this
 what they call male camaraderie?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_080");
-MsgDisp("Nanatsumori","...... They gave me the push I needed when
+MsgDisp("Nanatsumori","... They gave me the push I needed when
 I was feeling shy.
 And now I'm here.");
 MsgClear();

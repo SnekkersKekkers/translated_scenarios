@@ -7,7 +7,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 ScrFadeIn(0);
 VoicePlay("H7G0300000_03_000");
-MsgDisp("Honda","Hm...... truly amazing.");
+MsgDisp("Honda","Hm... truly amazing.");
 MsgDisp("主人公","Huh, ｛本多＊＊｝∋
 What are you doing here?");
 ChEye(3,1);
@@ -17,7 +17,7 @@ VoicePlay("H7G0300000_03_010");
 MsgDisp("Honda","I thought I'd come here and get a closer
 look at you, the model student of Haba
 High.");
-MsgDisp("主人公","......Are you talking about the award?");
+MsgDisp("主人公","...Are you talking about the award?");
 ChSet(3,3);
 VoicePlay("H7G0300000_03_020");
 MsgDisp("Honda","Right.

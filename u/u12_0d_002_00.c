@@ -14,7 +14,7 @@ MsgDisp("Michiru","I want to tell Mari something too, but
 maybe Mari isn't interested?");
 StlEyeOpenLevel(22,0);
 VoicePlay("U120D00200_22_010");
-MsgDisp("Hikaru","Sigh......
+MsgDisp("Hikaru","Sigh...
 I thought I could make this love story
 blossom!");
 MsgDisp("主人公","(Am I really getting that much attention?)");

@@ -9,5 +9,5 @@ MsgDisp("Nanatsumori","Hmm...
 Feeling good.
 Well then, where do you want to look?");
 MsgDispSksp(1,0);
-MsgDisp("主人公","About that......");
+MsgDisp("主人公","About that...");
 MsgDispSksp(0);

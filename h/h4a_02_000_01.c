@@ -29,9 +29,9 @@ matters.");
     ChMotion(2,0);
     VoicePlay("H4A0200001_02_020");
     MsgDisp("Sassa","That's how sports are.
-That's why it's both fun and hard......
+That's why it's both fun and hard...
 right?");
-    MsgDisp("主人公","Y-Yeah......");
+    MsgDisp("主人公","Y-Yeah...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

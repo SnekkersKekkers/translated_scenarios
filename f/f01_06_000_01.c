@@ -7,7 +7,7 @@ switch (ChPrmGet(6,6)){
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,254,2,1,0,0,#1,0,0);
     VoicePlay("F010600001_06_000");
-    MsgDisp("Himuro","......");
+    MsgDisp("Himuro","...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -65,7 +65,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06000_06_050");
-MsgDisp("Himuro","............");
+MsgDisp("Himuro","......");
 MsgDisp("主人公","(These two are saying that
 ｛柊＊＊＊｝ and I get along
 really well, right? But a turnaround...?)");

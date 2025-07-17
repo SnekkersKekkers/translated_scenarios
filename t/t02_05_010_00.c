@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,4,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝...... !");
+MsgDisp("主人公","｛柊＊＊＊｝... !");
 ChMotion(5,0);
 Wait(16,0);
 ChEye(5,4);
@@ -24,9 +24,9 @@ Wait(12,0);
 ChMouth(5,3);
 VoicePlay("T020501000_05_020");
 MsgDisp("Hiiragi","Yes.
-I'm graduating with you......
+I'm graduating with you...
 I can't believe it.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
@@ -56,7 +56,7 @@ ChMotion(5,2);
 Wait(12,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("T020501000_05_050");
-MsgDisp("Hiiragi","Thank you ......but the reality is
+MsgDisp("Hiiragi","Thank you ...but the reality is
 different.");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
@@ -74,13 +74,13 @@ VoicePlay("T020501000_05_070");
 MsgDisp("Hiiragi","My only means of escape was to at the very
 least serve the school by participating in
 student council activities, as atonement.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("T020501000_05_080");
 MsgDisp("Hiiragi","Truly, it was a menial reason.");
-MsgDisp("主人公","That......");
+MsgDisp("主人公","That...");
 ChMotion(5,0);
 Wait(12,0);
 ChEye(5,4);
@@ -89,7 +89,7 @@ ChEyeOpenLevel(5,10);
 VoicePlay("T020501000_05_090");
 MsgDisp("Hiiragi","But, you always cared about what I did.");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","But......I wanted to support
+MsgDisp("主人公","But...I wanted to support
 ｛柊＊＊＊｝ even more, but
 there was nothing I could do.");
 ChMotion(5,1);
@@ -100,7 +100,7 @@ VoicePlay("T020501000_05_100");
 MsgDisp("Hiiragi","No, I was just happy that you started
 talking to me and laughed together with
 me.");
-MsgDisp("主人公","It was nothing......");
+MsgDisp("主人公","It was nothing...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
@@ -117,10 +117,10 @@ ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 ChCheek(5,5);
 VoicePlay("T020501000_05_120");
-MsgDisp("Hiiragi","If you're smiling...... If the one I love;
+MsgDisp("Hiiragi","If you're smiling... If the one I love;
 you, are smiling, then nothing is wrong.
 It's alright.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 Wait(16,0);
@@ -149,5 +149,5 @@ ChMouth(5,4);
 ChMotion(5,7);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020501000_05_150");
-MsgDisp("Hiiragi","Warm, lovely light......
+MsgDisp("Hiiragi","Warm, lovely light...
 I love you.");

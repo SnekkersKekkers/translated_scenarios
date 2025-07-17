@@ -1,10 +1,10 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh? ｛みちる＊｝ sent me
-a package. Hm......");
+a package. Hm...");
 MsgDisp("主人公","\"To my fashionable Mari.
 I hope this makes you even cuter!▼\"
-...... it says.");
+... it says.");
 SEPlay("EV_SE_083");
 MsgDisp("","I got a \"Gachinko headband\"!");
 MsgDisp("主人公","｛みちる＊｝, thank you!

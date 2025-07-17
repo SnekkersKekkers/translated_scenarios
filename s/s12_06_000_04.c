@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("S120600002_06_000");
     MsgDisp("Himuro","I'll take my leave here.
-...... Happy New Years.");
+... Happy New Years.");
     MsgDisp("主人公","Yeah, same to you!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -36,7 +36,7 @@ Let's try our best this year!)");
     VoicePlay("S120600002_06_010");
     MsgDisp("Himuro","It's hard to believe we spent New Year's
 together.");
-    MsgDisp("主人公","Uhm......did you hate it?");
+    MsgDisp("主人公","Uhm...did you hate it?");
     ChEye(6,2);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -66,13 +66,13 @@ I'll take you home.");
     VoicePlay("S120600002_06_090");
     MsgDisp("Himuro","I'm happy you came with me.
 You'll be graduating soon.");
-    MsgDisp("主人公","That's true......");
+    MsgDisp("主人公","That's true...");
     ChEye(6,0);
     ChMouth(6,2);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S120600002_06_100");
-    MsgDisp("Himuro","......If we were in the same grade, we
+    MsgDisp("Himuro","...If we were in the same grade, we
 could have prayed for success and
 graduation together.");
     MsgDisp("主人公","Eh?");
@@ -80,9 +80,9 @@ graduation together.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("S120600002_06_110");
-    MsgDisp("Himuro","Ah......It's nothing. I'll take you home.
+    MsgDisp("Himuro","Ah...It's nothing. I'll take you home.
 Let's go.");
-    MsgDisp("主人公","(｛氷室＊＊｝......?)");
+    MsgDisp("主人公","(｛氷室＊＊｝...?)");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();

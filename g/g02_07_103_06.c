@@ -6,7 +6,7 @@ ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("G020710306_07_000");
 MsgDisp("Mikage","｛主人公｝, thank you.");
-MsgDisp("主人公","Eh......why all of a sudden?");
+MsgDisp("主人公","Eh...why all of a sudden?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -50,7 +50,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("G020710306_07_060");
 MsgDisp("Mikage","Heh.
 Thank you.");
-MsgDisp("主人公","(｛御影＊＊｝......
+MsgDisp("主人公","(｛御影＊＊｝...
 He seems a bit different than usual?)");
 BGMStop();
 MsgClose();

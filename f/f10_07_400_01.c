@@ -9,7 +9,7 @@ MsgDisp("主人公","(Eh? That voice just now, was
 ｛御影＊＊｝, right?
 What's wrong...?)");
 VoicePlay("F100740001_32_000");
-MsgDisp("VP Himuro?",".........! Are you really that worried?");
+MsgDisp("VP Himuro?","......! Are you really that worried?");
 VoicePlay("F100740001_07_010");
 MsgDisp("Mikage","Eh?");
 VoicePlay("F100740001_32_010");

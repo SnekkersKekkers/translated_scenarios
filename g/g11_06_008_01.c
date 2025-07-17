@@ -19,7 +19,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G110600801_06_020");
-MsgDisp("Himuro","Are you coming too......?");
+MsgDisp("Himuro","Are you coming too...?");
 MsgDisp("主人公","Is that okay?
 Then please excuse me!");
 MsgClose();
@@ -36,7 +36,7 @@ BGMVol(0.5,2);
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600801_06_030");
-MsgDisp("Himuro","......Flowers, do you like them?");
+MsgDisp("Himuro","...Flowers, do you like them?");
 MsgDisp("主人公","I like them.
 I started getting attached to them while
 working.");
@@ -53,23 +53,23 @@ ChMotion(6,1);
 VoicePlay("G110600801_06_050");
 MsgDisp("Himuro","You were unaware?
 Then, you're a diehard fanatic.");
-MsgDisp("主人公","Maybe it's a bit embarrassing......");
+MsgDisp("主人公","Maybe it's a bit embarrassing...");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600801_06_060");
 MsgDisp("Himuro","Isn't it a good thing?
-...... And it's a pretty nice expression.");
-MsgDisp("主人公","Eh......");
+... And it's a pretty nice expression.");
+MsgDisp("主人公","Eh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600801_06_070");
 MsgDisp("Himuro","Don't be shy about it.
-...... I'm drawn to it..");
+... I'm drawn to it..");
 MsgDisp("主人公","(Hehe, I was praised by
-｛氷室＊＊｝......! )");
+｛氷室＊＊｝...! )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

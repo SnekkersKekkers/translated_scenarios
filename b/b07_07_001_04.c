@@ -31,7 +31,7 @@ VoicePlay("B070700001_07_280");
 MsgDisp("Mikage","Yeah, but Yanosuke also knows so, he'll
 quietly tell me that he \"added some slight
 misinformation\" on the side.");
-MsgDisp("主人公","Heeh...
+MsgDisp("主人公","Ehhh...
 ｛柊＊＊＊｝ is funny.
 Is ｛氷室＊＊｝ fooled?");
 ChEye(7,0);

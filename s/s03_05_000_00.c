@@ -34,7 +34,7 @@ together.");
     VoicePlay("S030500000_05_040");
     MsgDisp("Hiiragi","Hello.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
-I......");
+I...");
     VoicePlay("S030500000_05_050");
     MsgDisp("Hiiragi","Yup. Happy New Year. I'm looking forward
 to spending time with you again this year.");

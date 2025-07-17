@@ -67,7 +67,7 @@ band.");
         MsgDisp("Honda","Right right. My sister played the piano,
 my mum the guitar, my dad played the bass,
 and I, was on the drums.");
-        MsgDisp("主人公","Heeh, seems fun!");
+        MsgDisp("主人公","Ehhh, seems fun!");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,3);

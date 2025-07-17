@@ -15,7 +15,7 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("L020D00005_21_000");
 MsgDisp("Michiru","Since it's the last one, I really wanted
-to make chocolate together, but...... you
+to make chocolate together, but... you
 know?");
 ChEye(22,3);
 ChMouth(22,3);

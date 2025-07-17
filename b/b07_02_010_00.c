@@ -20,7 +20,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070201000_02_010");
 MsgDisp("Sassa","Back then I laughed and dodged the
-question......
+question...
 Sorry.");
 MsgDisp("主人公","No, it's fine.");
 ChEye(2,0);
@@ -36,7 +36,7 @@ VoicePlay("B070201000_02_030");
 MsgDisp("Sassa","I set my goals for the year and make
 schedules to follow everyday.
 And then there's no time slots left.");
-MsgDisp("主人公","Yeah......");
+MsgDisp("主人公","Yeah...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -54,7 +54,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070201000_02_060");
-MsgDisp("Sassa","......When I realized that, I started
+MsgDisp("Sassa","...When I realized that, I started
 thinking about you non-stop. Above
 everything else, you were in the lead.");
 MsgDisp("主人公","Eh, me?");
@@ -70,7 +70,7 @@ ChCheek(2,10);
 VoicePlay("B070201000_02_080");
 MsgDisp("Sassa","Hm?
 Huh, why am talking about you?
-I thought we were talking about love......");
+I thought we were talking about love...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

@@ -19,7 +19,7 @@ MsgDisp("主人公","Hehe, something like that.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020520301_05_030");
-MsgDisp("Hiiragi","...... No, that's incorrect.
+MsgDisp("Hiiragi","... No, that's incorrect.
 As it's a female firefly.");
 ChEye(5,3);
 VoiceEVSPlay(5);
@@ -41,7 +41,7 @@ VoicePlay("G020520301_05_070");
 MsgDisp("Hiiragi","Huhu, it's a joke.");
 MsgDisp("主人公","(Sometimes I don't understand whether
 ｛柊＊＊＊｝ is being genuine
-or joking......)");
+or joking...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

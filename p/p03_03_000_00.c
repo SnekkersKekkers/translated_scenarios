@@ -11,9 +11,9 @@ switch (ChPrmGet(3,6)){
     case 3:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango..");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChOpen(3,254,5,0,3,0,#1,0,0);
     VoicePlay("P030300000_03_000");
@@ -41,9 +41,9 @@ specials.");
     case 5:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
@@ -65,7 +65,7 @@ signature set is mitarashi dango, though.");
     ChMotion(3,5,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("P030300000_03_050");
-    MsgDisp("Honda","What a savory smell......
+    MsgDisp("Honda","What a savory smell...
 Is everything handmade?");
     MsgDisp("主人公","Yes, that's right.");
     ChEye(3,3);

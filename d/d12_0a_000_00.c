@@ -1,7 +1,7 @@
 BGOpen("ex080",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(What should I eat today......)");
+MsgDisp("主人公","(What should I eat today...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
@@ -58,7 +58,7 @@ ScrFadeIn(0);
 Wait(40,0);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_020");
-MsgDisp("Kazama","Huh......
+MsgDisp("Kazama","Huh...
 This is really a big serving, isn't it?");
 VoicePlay("D120A00000_47_000");
 MsgDisp("Staff","A service for the young master▼
@@ -87,11 +87,11 @@ VoicePlay("D120A00000_02_010");
 MsgDisp("Sassa","Auntie!
 This is way too much.");
 MsgDisp("主人公","Ehh∋
-｛颯砂＊＊｝'s serving......");
+｛颯砂＊＊｝'s serving...");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_040");
-MsgDisp("Kazama","Uh......");
+MsgDisp("Kazama","Uh...");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("D120A00000_06_020");
@@ -116,8 +116,8 @@ one who gets special treatment huh?");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_060");
-MsgDisp("Kazama","......Shut up.");
-MsgDisp("主人公","(｛風真＊＊｝ looks a bit annoyed......?)");
+MsgDisp("Kazama","...Shut up.");
+MsgDisp("主人公","(｛風真＊＊｝ looks a bit annoyed...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

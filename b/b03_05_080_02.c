@@ -5,7 +5,7 @@ ChMotion(5,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030508002_05_000");
-MsgDisp("Hiiragi","The sun is strong......
+MsgDisp("Hiiragi","The sun is strong...
 Maybe it will be a bit cooler if we go to
 the waterfront.");
 MsgDispSksp(1,0);

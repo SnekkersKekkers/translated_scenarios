@@ -6,8 +6,8 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040202200_02_000");
 MsgDisp("Sassa","The view from the boat is so
-exhilarating......");
-MsgSel("The ocean is truly amazing......","I want to sail around the world like this.","Look, the seagulls are so cute▼");
+exhilarating...");
+MsgSel("The ocean is truly amazing...","I want to sail around the world like this.","Look, the seagulls are so cute▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

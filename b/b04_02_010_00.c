@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040201000_02_000");
 MsgDisp("Sassa","This one is nice.
 It seems like something you'd like.");
-MsgSel("You're right, I should buy it!","I'm not sure......","It doesn't suit me!");
+MsgSel("You're right, I should buy it!","I'm not sure...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

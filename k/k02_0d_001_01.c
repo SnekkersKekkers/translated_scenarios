@@ -15,7 +15,7 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("K020D00101_21_000");
-MsgDisp("Michiru","It's a little late, but......
+MsgDisp("Michiru","It's a little late, but...
 Happy birthday.");
 MsgDisp("主人公","Thank you!");
 ChEye(22,3);

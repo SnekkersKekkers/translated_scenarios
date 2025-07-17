@@ -3,10 +3,10 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","Ah......
+MsgDisp("主人公","Ah...
 ｛七ツ森＊｝ sent me a
 message.");
-MsgDisp("主人公","\"I'm at the park nearby\" ......
+MsgDisp("主人公","\"I'm at the park nearby\" ...
 Eh, ｛七ツ森＊｝, is
 around here∋");
 MsgClose();
@@ -19,7 +19,7 @@ BGOpen("ex000",2);
 SEPlay("EV_SE_FOOT_RUN_KEEP_ALONE");
 SEWait();
 ScrFadeIn(0);
-MsgDisp("主人公","*Panting*......");
+MsgDisp("主人公","*Panting*...");
 VoicePlay("D010400100_04_000");
 MsgDisp("Nanatsumori?","You didn't have to run, you know.");
 MsgClose();
@@ -27,7 +27,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChNanaType(1);
 ChOpen(4,35,0,4,3,#1,#1,0,0,0,60);
 MsgDisp("主人公","｛七ツ森＊｝!
-It's because you surprised me......");
+It's because you surprised me...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -42,13 +42,13 @@ VoicePlay("D010400100_04_020");
 MsgDisp("Nanatsumori","I didn't think you would actually come.
 You could have just brushed me off with a
 reply.");
-MsgDisp("主人公","I wouldn't do something like that......
+MsgDisp("主人公","I wouldn't do something like that...
 You came all this way here.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMouthOpenLevel(4,0);
 VoicePlay("D010400100_04_030");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChEye(4,0);
 ChMotion(4,1,1);
 ChMouthOpenLevel(4,#1);
@@ -77,14 +77,14 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("D010400100_04_050");
-MsgDisp("Nanatsumori","I get it but......
+MsgDisp("Nanatsumori","I get it but...
 Look, there's cream stuck on your mouth.");
-MsgDisp("主人公","Ah......");
+MsgDisp("主人公","Ah...");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400100_04_060");
 MsgDisp("Nanatsumori","Okay, I got it.");
-MsgDisp("主人公","O-Okay......
+MsgDisp("主人公","O-Okay...
 Thanks.");
 StlEye(4,1);
 StlMouth(4,1);
@@ -92,7 +92,7 @@ StlCheek(4,10);
 VoicePlay("D010400100_04_070");
 MsgDisp("Nanatsumori","Don't blush because of this.
 You'll make me blush too.");
-MsgDisp("主人公","......Hehe!");
+MsgDisp("主人公","...Hehe!");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400100_04_080");
@@ -116,7 +116,7 @@ MsgDisp("Nanatsumori","The pleasure is mine.
 I'm glad we get to share this happiness
 together.");
 MsgDisp("主人公","Yeah!
-Uhm......");
+Uhm...");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
@@ -140,7 +140,7 @@ ChOpen(4,35,0,2,4,#1,#1,9,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("D010400100_04_130");
-MsgDisp("Nanatsumori","No......
+MsgDisp("Nanatsumori","No...
 There isn't, not anymore.");
 MsgDisp("主人公","Good.
 It was embarrassing so I keep checking to
@@ -149,8 +149,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D010400100_04_140");
-MsgDisp("Nanatsumori","Not this again......
-You're saying cute stuff again......");
+MsgDisp("Nanatsumori","Not this again...
+You're saying cute stuff again...");
 MsgDisp("主人公","Huh?");
 ChEye(4,2);
 ChMouth(4,4);
@@ -177,10 +177,10 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(4,0,30);
-MsgDisp("主人公","(The sweets were delicious but......
+MsgDisp("主人公","(The sweets were delicious but...
 Feeling ｛七ツ森＊｝'s hand
 on my cheek made my heart race like
-crazy......)");
+crazy...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(4,0);

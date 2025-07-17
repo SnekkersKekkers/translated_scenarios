@@ -14,7 +14,7 @@ BGMPlay("BGM_PROLOGUE",0.01);
 Wait(120);
 ScrFadeIn(0);
 Wait(60);
-MsgDisp("主人公","(Who's telepathy told me that......)");
+MsgDisp("主人公","(Who's telepathy told me that...)");
 VoicePlay("T040320000_03_010");
 MsgDisp("Honda","Perhaps, it was mine.");
 VoicePlay("T040320000_04_000");
@@ -34,7 +34,7 @@ MsgDisp("Honda","Eh?
 Your voice is usually quiet, but maybe it
 gets louder only when you're telepathic?");
 VoicePlay("T040320000_04_020");
-MsgDisp("Nanatsumori","Haa......
+MsgDisp("Nanatsumori","Haa...
 I'm starting to get confused.");
 MsgClose();
 BGMStop(5);

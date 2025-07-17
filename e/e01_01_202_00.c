@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","... Alright.
 Time to head home.
-Huh, is that......");
+Huh, is that...");
 VoicePlay("E010120200_02_000");
 MsgDisp("Sassa?","Hey, you're wasting some good legs!
 Exercise a little.");
@@ -91,8 +91,8 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChCheek(1,7);
 VoicePlay("E010120200_01_060");
-MsgDisp("Kazama","Uuh......
-Ah......");
+MsgDisp("Kazama","Uuh...
+Ah...");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -120,7 +120,7 @@ VoicePlay("E010120200_01_080");
 MsgDisp("Kazama","If you're so eager to recruit someone, why
 don't you recruit this one?
 She's always sloppily running around.");
-MsgDisp("主人公","...... Eh?
+MsgDisp("主人公","... Eh?
 This one, you mean me?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -173,7 +173,7 @@ BGMStop();
 ChClose(2);
 MsgDisp("主人公","(The expression on ｛颯砂＊＊｝'s
 face just now, it surprised me a
-little...... Maybe I understand
+little... Maybe I understand
 ｛風真＊＊｝'s feelings a bit!')");
 MsgClose();
 ScrFadeOut(0,0);

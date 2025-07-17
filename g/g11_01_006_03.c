@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he had
+MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
 something he wanted to talk to me about
-when we go home ......DId something
+when we go home ...DId something
 happen?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -55,7 +55,7 @@ ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100603_01_040");
-MsgDisp("Kazama","......But I don't want you to change
+MsgDisp("Kazama","...But I don't want you to change
 because of that guy's information.");
 MsgDisp("主人公","Eh, change?
 But I'm just trying to experiment with
@@ -64,7 +64,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100603_01_050");
-MsgDisp("Kazama","I see......
+MsgDisp("Kazama","I see...
 If you choose to do it because you like
 it, that's fine.");
 ChEye(1,0);

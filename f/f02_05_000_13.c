@@ -48,7 +48,7 @@ ChMotion(5,0);
 VoicePlay("F020500013_05_050");
 MsgDisp("Hiiragi","It was recommended to me several times by
 patrons.
-...... I highly recommend it.");
+... I highly recommend it.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

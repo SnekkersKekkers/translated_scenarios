@@ -14,8 +14,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_020");
-MsgDisp("Kazama","What am I saying......");
-MsgDisp("主人公","Umm......
+MsgDisp("Kazama","What am I saying...");
+MsgDisp("主人公","Umm...
 I'm embarrassed.");
 ChEye(1,0);
 ChMouth(1,1);
@@ -52,14 +52,14 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("G020110101_01_060");
-MsgDisp("Kazama","I don't know......what's wrong with me.");
+MsgDisp("Kazama","I don't know...what's wrong with me.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_070");
-MsgDisp("Kazama","Haa......this place is dangerous.");
-MsgDisp("主人公","(Just now...... could that be
+MsgDisp("Kazama","Haa...this place is dangerous.");
+MsgDisp("主人公","(Just now... could that be
 ｛風真＊＊｝'s inner voice?')");
 BGMStop();
 MsgClose();

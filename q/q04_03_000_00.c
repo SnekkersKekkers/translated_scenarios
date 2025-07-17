@@ -17,10 +17,9 @@ today's free time?");
     VoicePlay("Q040300000_03_010");
     MsgDisp("Honda","I see.
 Because it's the free period, we're also
-free to decide on who we go with.");
+free to decide who we go with.");
     MsgDisp("主人公","Mhm.
-If you're fine with it, why don't we go
-around together?");
+If it's fine with you, want to go together?");
     break ;
     case 3:
     MsgDisp("主人公","｛本多＊＊｝, so you're here.");
@@ -79,7 +78,7 @@ during the free period?");
     ChMotion(3,5,1);
     VoicePlay("Q040300000_03_070");
     MsgDisp("Honda","Aww, that's what I was going to say!");
-    MsgDisp("主人公","Eh? So that means......");
+    MsgDisp("主人公","Eh? So that means...");
     break ;
     default :
     DbgAssert(1);

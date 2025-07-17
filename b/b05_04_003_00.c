@@ -88,13 +88,13 @@ StlEye(4,1);
 StlMouth(4,0);
 VoicePlay("B050400300_04_090");
 MsgDisp("Nanatsumori","I know.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 StlEye(4,1);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 StlMouthOpenLevel(4,0);
 VoicePlay("B050400300_04_100");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 StlEye(4,1);
 StlMouth(4,0);
 VoicePlay("B050400300_04_110");
@@ -178,7 +178,7 @@ ChMotion(4,1,1);
 VoicePlay("B050400300_04_220");
 MsgDisp("Nanatsumori","Yeah.
 I believe it, because it's you.");
-MsgDisp("主人公","｛七ツ森＊｝......");
+MsgDisp("主人公","｛七ツ森＊｝...");
 MsgDisp("主人公","(But, I wonder if he'll show me how he
 looks like crossdressing.
 I think I kinda wanna see it...)");

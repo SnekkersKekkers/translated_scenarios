@@ -1,6 +1,6 @@
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Sniff sniff......
+MsgDisp("主人公","Sniff sniff...
 Hm, maybe it smells a bit like herbs?");
 MsgClose();
 ScrFadeOut(0);
@@ -59,7 +59,7 @@ ChMotion(7,0);
 MsgDisp("Mikage","But, I would rather use these gloves than
 get your handkerchief dirty.");
 MsgDisp("主人公","(Eh?
-But it's really okay......)");
+But it's really okay...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

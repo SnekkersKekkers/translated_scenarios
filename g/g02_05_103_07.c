@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 ChMotion(5,2);
 VoicePlay("G020510307_05_000");
-MsgDisp("Hiiragi","Haa, it sure is beautiful, huh......");
-MsgDisp("主人公","Yeah, truly......");
+MsgDisp("Hiiragi","Haa, it sure is beautiful, huh...");
+MsgDisp("主人公","Yeah, truly...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -35,7 +35,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510307_05_050");
 MsgDisp("Hiiragi","Take my female kabuki role as an example.");
-MsgDisp("主人公","Ah, that time, backstage......
+MsgDisp("主人公","Ah, that time, backstage...
 ｛柊＊＊＊｝ was extremely
 beautiful!");
 ChEye(5,2);
@@ -56,7 +56,7 @@ ChCheek(5,5);
 VoicePlay("G020510307_05_070");
 MsgDisp("Hiiragi","T-Thank you.
 I hope you'll see it on stage next
-time......");
+time...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -65,7 +65,7 @@ VoicePlay("G020510307_05_080");
 MsgDisp("Hiiragi","It was not my intention to show an
 incomplete version.");
 MsgDisp("主人公","(Perhaps ｛柊＊＊＊｝ is
-embarrassed......?)");
+embarrassed...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

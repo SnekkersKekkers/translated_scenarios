@@ -52,7 +52,7 @@ me!");
     ChMouth(1,3);
     ChMotion(1,4);
     VoicePlay("H380100000_01_050");
-    MsgDisp("Kazama","......Geez, are you even listening to what
+    MsgDisp("Kazama","...Geez, are you even listening to what
 I'm saying?");
     ChEye(1,4);
     ChMouth(1,3);

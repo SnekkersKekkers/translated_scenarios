@@ -26,7 +26,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("K020401000_04_020");
-MsgDisp("Nanatsumori","Well......
+MsgDisp("Nanatsumori","Well...
 It's the happiest day of the year, right?");
 MsgDisp("主人公","Ah, that's true too, it?");
 ChEye(4,0);
@@ -53,7 +53,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(4,0,30);
 Wait(30);
-MsgDisp("主人公","(I'm so happy......
+MsgDisp("主人公","(I'm so happy...
 It seems like this year will really be a
 great one!)");
 MsgClose();

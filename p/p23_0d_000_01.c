@@ -2,7 +2,7 @@ BGMStop();
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew......");
+MsgDisp("主人公","Phew...");
 MsgClose();
 ChOpen(21,30,0,0,0,#1,#1,0,1);
 ChOpen(22,30,0,0,0,#1,#1,0,2);
@@ -25,7 +25,7 @@ ChMotion(22,2,1);
 VoicePlay("P230D00001_22_010");
 MsgDisp("Hikaru","AaーAh. \"
 Flora Angel\" I wanted to do it with the
-three of us～......");
+three of us～...");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -40,7 +40,7 @@ VoicePlay("P230D00001_22_020");
 MsgDisp("Hikaru","Mari is definitely the main character in
 white, and Hikaru and the others are
 purple and pink. That's perfect!");
-MsgDisp("主人公","Haha......");
+MsgDisp("主人公","Haha...");
 VoicePlay("P230D00001_47_000");
 MsgDisp("Broadcast","We will now begin Habataki High School's
 play.");

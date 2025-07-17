@@ -28,7 +28,7 @@ VoicePlay("G020620301_06_030");
 MsgDisp("Himuro","And as an expression, falling, drowning,
 going crazy?
 It all seems a bit intense.");
-MsgDisp("主人公","That's true......");
+MsgDisp("主人公","That's true...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -49,7 +49,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620301_06_060");
 MsgDisp("Himuro","I wonder if there are any useful books as
-references......");
+references...");
 MsgDisp("主人公","Like a 'how to' on love book?'");
 ChEye(6,0);
 ChMouth(6,3);
@@ -60,8 +60,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620301_06_080");
-MsgDisp("Himuro","But it's better than nothing I guess......");
-MsgDisp("主人公","(｛氷室＊＊｝ facing love......
+MsgDisp("Himuro","But it's better than nothing I guess...");
+MsgDisp("主人公","(｛氷室＊＊｝ facing love...
 Did I hear something quite incredible?)");
 BGMStop();
 MsgClose();

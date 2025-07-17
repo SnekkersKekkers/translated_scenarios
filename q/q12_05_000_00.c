@@ -61,7 +61,7 @@ I'm now totally a fan of Nagasaki and
 school trips.");
     MsgDisp("主人公","(I think this is my first time seeing
 ｛柊＊＊＊｝ being so
-happy......? I'm glad we could spend it
+happy...? I'm glad we could spend it
 together!)");
     break ;
     case 4:
@@ -98,7 +98,7 @@ those old school trips with me either.");
     ChMotion(5,0);
     VoicePlay("Q120500000_05_110");
     MsgDisp("Hiiragi","That's why right now is the best.");
-    MsgDisp("主人公","｛柊＊＊＊｝......");
+    MsgDisp("主人公","｛柊＊＊＊｝...");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);

@@ -5,6 +5,6 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("SS0106310_06_000");
-MsgDisp("Himuro","I'm ...... embarrassed.");
+MsgDisp("Himuro","I'm ... embarrassed.");
 MsgClose();
 ChCheek(6,0);

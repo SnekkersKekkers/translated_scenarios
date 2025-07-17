@@ -11,7 +11,7 @@ MsgDisp("主人公","They're round glasses.");
 VoicePlay("Q100100000_01_000");
 MsgDisp("Kazama","Well, it is an archway.");
 MsgDisp("主人公","I see.
-Speaking of glasses at Haba High......");
+Speaking of glasses at Haba High...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -40,7 +40,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q100100000_01_040");
-MsgDisp("Kazama","......Ah, right. I heard there's a
+MsgDisp("Kazama","...Ah, right. I heard there's a
 heart-shaped stone on the seawall. It's
 quite popular, wanna go look?");
 MsgDisp("主人公","Yeah!");
@@ -59,7 +59,7 @@ ScrFadeIn(0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q100100000_01_050");
-MsgDisp("Kazama","Huh......
+MsgDisp("Kazama","Huh...
 There sure are a lot of stylish shops
 around here.");
 MsgDisp("主人公","If it's coming from
@@ -85,9 +85,9 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q100100000_01_080");
 MsgDisp("Kazama","But before that.
-...... Do you smell something freshly
+... Do you smell something freshly
 baked?");
-MsgDisp("主人公","I do......!
+MsgDisp("主人公","I do...!
 Castella comes first, right?");
 ChEye(1,0);
 ChMouth(1,3);

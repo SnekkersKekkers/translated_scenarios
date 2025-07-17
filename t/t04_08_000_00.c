@@ -10,7 +10,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("T040800000_08_000");
 MsgDisp("Shirahane","I guess this is what it means to be
-happy......");
+happy...");
 MsgDisp("主人公","Hehe.");
 NSSEye(8,3);
 VoicePlay("T040800000_08_010");
@@ -23,14 +23,14 @@ your big brother and big sister.");
 NSSEye(8,4);
 NSSMouth(8,4);
 VoicePlay("T040800000_08_030");
-MsgDisp("Shirahane","What can I say...... just thinking about
+MsgDisp("Shirahane","What can I say... just thinking about
 you makes me happy.");
 NSSEyeOpenLevel(8,0);
-MsgDisp("主人公","｛大地＊＊｝......");
+MsgDisp("主人公","｛大地＊＊｝...");
 NSSEye(8,0);
 NSSMouth(8,5);
 VoicePlay("T040800000_08_040");
-MsgDisp("Shirahane","...... Ah!
+MsgDisp("Shirahane","... Ah!
 Could this be——");
 MsgDisp("主人公","Eh?");
 NSSEye(8,3);

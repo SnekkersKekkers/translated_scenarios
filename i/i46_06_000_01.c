@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","Hm...... that one doesn't seem well.");
+    MsgDisp("主人公","Hm... that one doesn't seem well.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,5);
@@ -73,14 +73,14 @@ Excellent.");
     VoicePlay("I460600001_06_060");
     MsgDisp("Himuro","Your customer service, right?
 Always smiling and butting in with advice.");
-    MsgDisp("主人公","That doesn't sound like a compliment......");
+    MsgDisp("主人公","That doesn't sound like a compliment...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600001_06_070");
     MsgDisp("Himuro","It is.
-...... I'm jealous.");
+... I'm jealous.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -102,13 +102,13 @@ sociability might do you some good.");
     ChCheek(6,10);
     VoicePlay("I460600001_06_100");
     MsgDisp("Himuro","Some people might get the wrong idea.");
-    MsgDisp("主人公","Wrong idea......?");
+    MsgDisp("主人公","Wrong idea...?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I460600001_06_110");
     MsgDisp("Himuro","It's fine if you don't get it.");
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 I wonder what he meant?)");
     break ;
     default :

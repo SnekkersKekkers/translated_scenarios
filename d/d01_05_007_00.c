@@ -2,7 +2,7 @@ BGOpen("sc811",0);
 ChLayout(1);
 SEPlay("EV_SE_852",1,0.6);
 ScrFadeIn(0);
-MsgDisp("主人公","(Mmm, that bath felt good......)");
+MsgDisp("主人公","(Mmm, that bath felt good...)");
 VoicePlay("D010500700_40_000");
 MsgDisp("Male Student","You've got this, Hiiragi!
 You're so good!");
@@ -31,14 +31,14 @@ SEStop("EV_SE_GAYA_025",2);
 VoicePlay("D010500700_40_020");
 MsgDisp("Male Student","It's not over yet!
 I bet you can't return this serve!
-...... Here!");
+... Here!");
 SEPlay("EV_SE_851",0,0.8);
 Wait(30,0);
 SEPlay("EV_SE_849",0.5);
 Wait(20,0);
 VoicePlay("D010500700_05_020");
 MsgDisp("Hiiragi","Ha!");
-MsgDisp("主人公","Wow......
+MsgDisp("主人公","Wow...
 ｛柊＊＊＊｝, good luck!");
 VoicePlay("D010500700_05_030");
 MsgDisp("Hiiragi","Hm?");
@@ -69,14 +69,14 @@ MsgClose();
 ChOpen(5,30,0,2,4,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010500700_05_050");
-MsgDisp("Hiiragi","Ah, my apologies......");
+MsgDisp("Hiiragi","Ah, my apologies...");
 MsgDisp("主人公","It's fine.
 It surprised me, but I'm fine.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500700_05_060");
 MsgDisp("Hiiragi","I was trying to show you a good side of
-me......I feel like I missed a once in a
+me...I feel like I missed a once in a
 lifetime opportunity.");
 MsgDisp("主人公","Hehe.
 ｛柊＊＊＊｝, you're really good
@@ -128,7 +128,7 @@ BGMStop();
 ChClose(5);
 MsgDisp("主人公","(｛柊＊＊＊｝ looks like he's enjoying the
 school trip?
-I'm happy for him......)");
+I'm happy for him...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(5,0);

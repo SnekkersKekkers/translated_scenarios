@@ -27,7 +27,7 @@ MsgDisp("Sassa","And imagining Inori's thoughts would be
 hilarious.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","｛氷室＊＊｝'s thoughts......");
+MsgDisp("主人公","｛氷室＊＊｝'s thoughts...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -39,8 +39,8 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020210101_02_050");
-MsgDisp("Sassa","...... Hm?
-That's the same as usual then......");
+MsgDisp("Sassa","... Hm?
+That's the same as usual then...");
 MsgDisp("主人公","Hehe, if ｛氷室＊＊｝ he'd be mad,
 you know?");
 ChEye(2,0);
@@ -53,14 +53,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210101_02_070");
-MsgDisp("Sassa","Ryota's inner thoughts......usually show
+MsgDisp("Sassa","Ryota's inner thoughts...usually show
 on his face?");
 MsgDisp("主人公","Then what about ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020210101_02_080");
-MsgDisp("Sassa","Me......
+MsgDisp("Sassa","Me...
 I would be quiet.");
 MsgDisp("主人公","Ehh?");
 ChEye(2,0);
@@ -70,7 +70,7 @@ VoicePlay("G020210101_02_090");
 MsgDisp("Sassa","Well, I normally don't really think of
 much.");
 MsgDisp("主人公","(｛颯砂＊＊｝ seems like he's the one
-thinking the most though......)");
+thinking the most though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,7 +6,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("H6G0600000_06_000");
-MsgDisp("Himuro","......Hello.");
+MsgDisp("Himuro","...Hello.");
 MsgDisp("主人公","Hm, ｛氷室＊＊｝?
 What is it?");
 ChEye(6,0);
@@ -22,7 +22,7 @@ VoicePlay("H6G0600000_06_020");
 MsgDisp("Himuro","You really did it.
 Congrats.");
 MsgDisp("主人公","Thanks!
-...... Did you come all this way to
+... Did you come all this way to
 congratulate me?");
 ChEye(6,1);
 ChMouth(6,0);

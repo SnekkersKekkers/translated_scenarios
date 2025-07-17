@@ -16,7 +16,7 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,3);
     VoicePlay("J040200000_02_010");
     MsgDisp("Sassa","Yeah, are you free this coming Sunday?");
-    MsgSel("Yeah, I'm free.","I'm not available that day......");
+    MsgSel("Yeah, I'm free.","I'm not available that day...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -38,7 +38,7 @@ I'll see you later.");
         MsgClose();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(This Sunday......
+        MsgDisp("主人公","(This Sunday...
 What was that about?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -67,7 +67,7 @@ So, what can I do for you?");
     VoicePlay("J040200000_02_050");
     MsgDisp("Sassa","Yes, it's important.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.","I'm not available that day......");
+    MsgSel("Yeah, I'm free.","I'm not available that day...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -76,7 +76,7 @@ Are you free this Sunday?");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("J040200000_02_060");
-        MsgDisp("Sassa","I see......
+        MsgDisp("Sassa","I see...
 Yeah, then I guess I don't have a choice.");
         MsgDisp("主人公","Sorry?");
         ChEye(2,0);
@@ -92,7 +92,7 @@ I'll call on you again.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("J040200000_02_080");
-        MsgDisp("Sassa","Thank you......
+        MsgDisp("Sassa","Thank you...
 Yeah, I appreciate it too.
 See you later.");
         MsgClose();
@@ -101,7 +101,7 @@ See you later.");
         MsgClose();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(He invited me to join him......
+        MsgDisp("主人公","(He invited me to join him...
 I wonder what he wanted this coming
 Sunday?)");
         MsgClose();

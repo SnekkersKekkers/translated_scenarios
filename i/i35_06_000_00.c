@@ -13,7 +13,7 @@ Ah, ｛氷室＊＊｝.");
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_000");
-    MsgDisp("Himuro","......Hello.");
+    MsgDisp("Himuro","...Hello.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -69,7 +69,7 @@ Please follow me to your seat.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("I350600000_06_070");
-    MsgDisp("Himuro","...... Hm.
+    MsgDisp("Himuro","... Hm.
 You're doing pretty good.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
@@ -85,7 +85,7 @@ Come on, hurry up.");
     VoicePlay("I350600000_06_090");
     MsgDisp("Himuro","Your reply should be \"yes\".");
     MsgDisp("主人公","Y, yes!");
-    MsgDisp("主人公","(Ugh, this is making me nervous......)");
+    MsgDisp("主人公","(Ugh, this is making me nervous...)");
     break ;
     case 4:
     case 5:
@@ -109,7 +109,7 @@ I haven't.");
     VoicePlay("I350600000_36_000");
     MsgDisp("Male Customer","Excuse me.");
     MsgDisp("主人公","Yes, I'll be right there!
-...... Um.");
+... Um.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0,1);
@@ -134,7 +134,7 @@ Thank you very much.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I350600000_06_140");
-    MsgDisp("Himuro","......You smile too charmingly.");
+    MsgDisp("Himuro","...You smile too charmingly.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);

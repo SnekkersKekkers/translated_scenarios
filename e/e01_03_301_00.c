@@ -65,7 +65,7 @@ ChClose(5);
 ChPosition(3,0);
 Wait(60,0);
 MsgDisp("主人公","｛柊＊＊＊｝ always seems so
-busy......");
+busy...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -98,6 +98,6 @@ BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Hmm, but I'd prefer to take my time when
 it comes to choosing clothes and
-accessories......)");
+accessories...)");
 MsgClose();
 ScrFadeOut(0,0);

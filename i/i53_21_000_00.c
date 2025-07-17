@@ -81,7 +81,7 @@ You work here?");
     VoicePlay("I532100000_21_070");
     MsgDisp("Michiru","Right.
 I couldn't wait to see you after I heard
-you were coming to work here, Mari......");
+you were coming to work here, Mari...");
     MsgDisp("主人公","Hehe.
 I'm looking forward to working with you.");
     ChEye(21,0);

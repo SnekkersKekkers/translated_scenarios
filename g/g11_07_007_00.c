@@ -1,6 +1,6 @@
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ahh, this is such nice weather......
+MsgDisp("主人公","(Ahh, this is such nice weather...
 Ah, I need to move classrooms in the
 afternoon, I have to prepare in advance.)");
 VoiceEVSPlay(7);

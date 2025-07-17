@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right......｛風真＊＊｝ said he had
+MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
 something he wanted to talk to me about on
-the way home ......I wonder what it is?)");
+the way home ...I wonder what it is?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -46,7 +46,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G110101102_01_020");
 MsgDisp("Kazama","However, I am worried that it's only male
 customers.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,2);
@@ -56,7 +56,7 @@ VoicePlay("G110101102_01_030");
 MsgDisp("Kazama","So here's a suggestion.
 Why don't you just work the same shift as
 me all the time?");
-MsgDisp("主人公","(Umm......how would that go?)");
+MsgDisp("主人公","(Umm...how would that go?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

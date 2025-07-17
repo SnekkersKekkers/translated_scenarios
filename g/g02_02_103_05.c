@@ -15,7 +15,7 @@ ChMotion(2,4);
 VoicePlay("G020210305_02_020");
 MsgDisp("Sassa","Lately, I've been associating things with
 milk and cows, and you keep popping
-up......");
+up...");
 MsgDisp("主人公","Ehh∋
 W-Why?");
 ChEye(2,0);
@@ -40,17 +40,17 @@ ChCheek(2,10);
 VoicePlay("G020210305_02_050");
 MsgDisp("Sassa","Yeah.
 Seeing you have so much fun milking the
-cow, felt strange......");
+cow, felt strange...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020210305_02_060");
 MsgDisp("Sassa","Since then, whenever milk shows up at
 breakfast, I get this weird
-feeling......and my morning practice goes
-great......");
-MsgDisp("主人公","(......Hm? I can't tell if you're troubled
-or happy......｛颯砂＊＊｝ )");
+feeling...and my morning practice goes
+great...");
+MsgDisp("主人公","(...Hm? I can't tell if you're troubled
+or happy...｛颯砂＊＊｝ )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

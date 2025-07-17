@@ -1,7 +1,7 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Practice time should almost be over,
-right......)");
+right...)");
 VoicePlay("G110200704_02_000");
 MsgDisp("Sassa","Manager!
 When you're done cleaning up, let's go for
@@ -58,7 +58,7 @@ ChMotion(2,1);
 VoicePlay("G110200704_02_050");
 MsgDisp("Sassa","It's because of you that I can do this
 here, right now.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 VoicePlay("G110200704_34_040");
 MsgDisp("Member C","Three, two, three, fourー.");
 VoicePlay("G110200704_42_050");
@@ -77,7 +77,7 @@ ScrFadeOut(0,0);
 MsgClose();
 ChClose(2,0,0);
 SEWait();
-MsgDisp("主人公","(｛颯砂＊＊｝......
+MsgDisp("主人公","(｛颯砂＊＊｝...
 I'm so happy.
 Well, I'll continue doing my best!)");
 MsgClose();

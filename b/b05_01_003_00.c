@@ -45,7 +45,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChMouthOpenLevel(1,0);
 VoicePlay("B050100300_01_040");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -83,7 +83,7 @@ StlMouth(1,1);
 StlMouthOpenLevel(1,#1);
 StlCheek(1,7);
 VoicePlay("B050100300_01_070");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 MsgDisp("主人公","Phew... I'm steady now... Huh,
 ｛風真＊＊｝, your face is red.
 Are you cold?");
@@ -135,7 +135,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B050100300_01_130");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);

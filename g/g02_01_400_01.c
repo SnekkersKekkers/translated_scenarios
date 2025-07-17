@@ -21,7 +21,7 @@ MsgDisp("Kazama","Or the treats we got from the old lady at
 the tobacco store when we would go home
 together.");
 MsgDisp("主人公","I'm sorry, I don't really remember those
-things......");
+things...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -73,7 +73,7 @@ MsgDisp("Kazama","Oh, of course I'm okay with idiotic ones
 too.
 As long as I'm making memories with you.");
 MsgDisp("主人公","(I hope I can make a lot of memories with
-｛風真＊＊｝......)");
+｛風真＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

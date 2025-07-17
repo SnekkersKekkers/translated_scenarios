@@ -20,7 +20,7 @@ ChMotion(2,4,1);
 VoicePlay("B040206401_02_020");
 MsgDisp("Sassa","You too?
 I was wondering why you seemed so curious?
-...... Want to buy one?");
+... Want to buy one?");
 MsgDisp("主人公","(｛颯砂＊＊｝ is having fun like a kid!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B030421002_04_000");
-    MsgDisp("Nanatsumori","ＯＫ.
+    MsgDisp("Nanatsumori","OK.
 I get excited in places with a ton of
 items.");
     MsgDispSksp(0);

@@ -4,7 +4,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(2,254,4,0,0,0,#1,0,0);
 VoicePlay("P840200000_02_000");
-MsgDisp("Sassa","Phew......");
+MsgDisp("Sassa","Phew...");
 MsgDisp("主人公","｛颯砂＊＊｝, are you okay?
 Sorry I always come to you for help.");
 ChEye(2,0);
@@ -21,7 +21,7 @@ VoicePlay("P840200000_02_020");
 MsgDisp("Sassa","Now I know how hard the student council
 works.
 Thank you for your service.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

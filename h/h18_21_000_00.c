@@ -76,7 +76,7 @@ fine if there's one person like that,
 right?");
     MsgDisp("主人公","Hehe!
 Thank you, ｛みちる＊｝!");
-    MsgDisp("主人公","(｛みちる＊｝ is cheering for me......!
+    MsgDisp("主人公","(｛みちる＊｝ is cheering for me...!
 Alright, let's do our best!)");
     BGMStop();
     MsgClose();

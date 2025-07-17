@@ -39,7 +39,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("Q100C00000_07_010");
-MsgDisp("Mikage","...... Oh.
+MsgDisp("Mikage","... Oh.
 Speaking of glasses, let's not forget
 Inori's souvenirs.");
 MsgDisp("主人公","Hehe, that's true.");
@@ -60,19 +60,19 @@ ScrFadeIn(0);
 VoicePlay("Q100C00000_05_030");
 MsgDisp("Hiiragi","There are many shops.
 I wonder what I should choose to make him
-happy......");
+happy...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q100C00000_07_020");
-MsgDisp("Mikage","Yeah......
+MsgDisp("Mikage","Yeah...
 If you go into the wrong, he's gonna drag
 it for a long time.");
 SEPlay("EV_SE_837");
 SEWait();
 ChMouth(5,2);
 ChMotion(5,0);
-MsgDisp("主人公","Wait, is it......");
+MsgDisp("主人公","Wait, is it...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -89,7 +89,7 @@ ChMotion(5,4);
 VoicePlay("Q100C00000_05_050");
 MsgDisp("Hiiragi","\"When it comes to souvenirs, you can't
 miss the classics\" It says.");
-MsgDisp("主人公","Speaking of classics......");
+MsgDisp("主人公","Speaking of classics...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

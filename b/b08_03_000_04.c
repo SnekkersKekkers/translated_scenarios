@@ -12,7 +12,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("B080300002_03_020")MsgDisp("Honda","Maybe you should go after them?");
-MsgDisp("主人公","......I think it's okay.");
+MsgDisp("主人公","...I think it's okay.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

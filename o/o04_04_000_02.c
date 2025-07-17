@@ -13,8 +13,8 @@ switch (ChPrmGet(4,6)){
     VoicePlay("O040400002_04_000");
     MsgDisp("Nanatsumori","A tie?
 So this can happen, too.");
-    MsgDisp("主人公","(A draw, huh......
-But we were so close......)");
+    MsgDisp("主人公","(A draw, huh...
+But we were so close...)");
     break ;
     case 3:
     MsgClose();
@@ -24,8 +24,8 @@ But we were so close......)");
     VoicePlay("O040400002_04_010");
     MsgDisp("Nanatsumori","Seriously!?
 Didn't it look like we were in the lead?");
-    MsgDisp("主人公","(A draw, huh......
-But we were so close......)");
+    MsgDisp("主人公","(A draw, huh...
+But we were so close...)");
     break ;
     case 4:
     case 5:
@@ -36,8 +36,8 @@ But we were so close......)");
     VoicePlay("O040400002_04_020");
     MsgDisp("Nanatsumori","Isn't this unsatisfying?
 Both of us put so much effort in.");
-    MsgDisp("主人公","(A draw, huh......
-But we were so close......)");
+    MsgDisp("主人公","(A draw, huh...
+But we were so close...)");
     break ;
     default :
     DbgAssert(1);

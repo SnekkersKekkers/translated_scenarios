@@ -10,9 +10,9 @@ switch (ChPrmGet(7,6)){
     case 3:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango～!");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChOpen(7,254,4,0,0,#1,#1,0,0);
     VoicePlay("P030700000_07_000");
@@ -32,7 +32,7 @@ about the taste too, you know?");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("P030700000_07_020");
-    MsgDisp("Mikage","Let's see......
+    MsgDisp("Mikage","Let's see...
 Well then, miss, some dango please.");
     MsgDisp("主人公","One dango set coming right up～!");
     break ;
@@ -40,9 +40,9 @@ Well then, miss, some dango please.");
     case 5:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango.");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChOpen(7,254,0,0,3,#1,#1,0,0);
     VoicePlay("P030700000_07_030");
@@ -63,7 +63,7 @@ in the way.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P030700000_07_050");
-    MsgDisp("Mikage","Alright......
+    MsgDisp("Mikage","Alright...
 Then, miss, please bring me two or three
 dango.");
     MsgDisp("主人公","Yes, gladly!");

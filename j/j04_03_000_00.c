@@ -18,7 +18,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("J040300000_03_010");
     MsgDisp("Honda","Hey.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I'm not available that day......");
+    MsgSel("Yeah, I'm free.", "I'm not available that day...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEyeOpenLevel(3,#1);
@@ -70,7 +70,7 @@ What's wrong?");
     VoicePlay("J040300000_03_050");
     MsgDisp("Honda","Yeah, listen.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand......");
+    MsgSel("Yeah, I'm free.", "I have to run an errand...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEyeOpenLevel(3,#1);
@@ -82,8 +82,8 @@ Are you free this Sunday?");
         ChMotion(3,5);
         VoicePlay("J040300000_03_060");
         MsgDisp("Honda","Eh!
-I see......");
-        MsgDisp("主人公","I'm sorry......");
+I see...");
+        MsgDisp("主人公","I'm sorry...");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
@@ -104,7 +104,7 @@ I'll see you later, okay?");
         MsgClose();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(I think I did something wrong......)");
+        MsgDisp("主人公","(I think I did something wrong...)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

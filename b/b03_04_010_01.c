@@ -14,13 +14,13 @@ switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);
     VoicePlay("B030401001_04_010");
-    MsgDisp("Nanatsumori","ＯＫ.");
+    MsgDisp("Nanatsumori","OK.");
     MsgDispSksp(0);
     break ;
     case 1:
     MsgDispSksp(1,0);
     VoicePlay("B030401001_04_020");
-    MsgDisp("Nanatsumori","ＯＫ.");
+    MsgDisp("Nanatsumori","OK.");
     MsgDispSksp(0);
     break ;
     default :

@@ -13,7 +13,7 @@ SEStop("EV_SE_CLAP_004",2);
 VoicePlay("P513200000_32_000");
 MsgDisp("VP Himuro","Make sure you show off the results of your
 daily practice.");
-MsgDisp("主人公","Yes......");
+MsgDisp("主人公","Yes...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P513200000_32_010");

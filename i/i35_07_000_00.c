@@ -54,7 +54,7 @@ I'll show you to your seat.");
     VoicePlay("I350700000_07_040");
     MsgDisp("Mikage","To see you hard at work, and to receive
 some of that energy.");
-    MsgDisp("主人公","Hm, energy......?
+    MsgDisp("主人公","Hm, energy...?
 Is something the matter?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -78,7 +78,7 @@ Please sit wherever you'd like.");
     VoicePlay("I350700000_07_060");
     MsgDisp("Mikage","｛主人公｝.
 A refill, please.");
-    MsgDisp("主人公","Ah, yes. ......｛御影＊＊｝, you're taking
+    MsgDisp("主人公","Ah, yes. ...｛御影＊＊｝, you're taking
 it quite slow today.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -98,7 +98,7 @@ it quite slow today.");
     VoicePlay("I350700000_07_090");
     MsgDisp("Mikage","Hm, if I had to say, I guess I'm nowhere
 near it?");
-    MsgDisp("主人公","(I wonder if he's slacking off......)");
+    MsgDisp("主人公","(I wonder if he's slacking off...)");
     MsgClose();
     BGMStop();
     MsgClose();

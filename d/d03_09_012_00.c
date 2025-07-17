@@ -2,33 +2,33 @@ BGOpen("ho210",2);
 ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","(Ah, a phone call......
+MsgDisp("主人公","(Ah, a phone call...
 A private number?)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
-MsgDisp("主人公","......Hello?");
+MsgDisp("主人公","...Hello?");
 VoicePlay("D030901200_09_000");
 MsgDisp("Kuya","Hello.
-It's me...... can you hear me?");
+It's me... can you hear me?");
 MsgDisp("主人公","That voice, Kuya-san!
 I was a little hesitant to answer because
 of the private number.");
 VoicePlay("D030901200_09_010");
-MsgDisp("Kuya","Ah......
+MsgDisp("Kuya","Ah...
 I'm calling from my home phone.
 Maybe sis made it that way.");
 MsgDisp("主人公","What about your cellphone?");
 VoicePlay("D030901200_09_020");
 MsgDisp("Kuya","Hm. Well, since I'm a freeloader I don't
-really have that kind of luxury......
+really have that kind of luxury...
 Sorry for it being so one-sided.");
 MsgDisp("主人公","It's fine, it doesn't matter.");
 VoicePlay("D030901200_09_030");
 MsgDisp("Kuya","Yeah.
 How are things lately?
 Keeping busy?");
-MsgDisp("主人公","Let's see......Between studying for exams
+MsgDisp("主人公","Let's see...Between studying for exams
 and doing school stuff, I guess I'm more
 busy than I was in 2nd year?");
 VoicePlay("D030901200_09_040");
@@ -39,7 +39,7 @@ MsgDisp("主人公","Hehe.
 What about Kuya-san, how's studying for
 entrance exams going?");
 VoicePlay("D030901200_09_050");
-MsgDisp("Kuya","I'm desperate......
+MsgDisp("Kuya","I'm desperate...
 I can't stop thinking about you and I hate
 that I can't concentrate on studying.");
 MsgDisp("主人公","I-I see.
@@ -63,7 +63,7 @@ VoicePlay("D030901200_09_090");
 MsgDisp("Kuya","It's getting late so, that's all for now.
 I'll call you again soon.
 Good night.");
-MsgDisp("主人公","Okay, good night......");
+MsgDisp("主人公","Okay, good night...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Kuya-san seems to be studying hard for

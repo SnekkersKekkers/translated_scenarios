@@ -35,7 +35,7 @@ It's too cold.");
     MsgDisp("Nanatsumori","Seafood Nabe, crab, grilled seafood,
 Chinese buns, sweet potatoes, hot sweets,
 ah, hey it seems like anything warm is
-ＯＫ!");
+OK!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

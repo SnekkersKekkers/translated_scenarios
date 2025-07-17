@@ -9,5 +9,5 @@ ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,2);
 VoicePlay("D140601158_06_010");
-MsgDisp("Himuro","......The amount of vegetables is a bit
+MsgDisp("Himuro","...The amount of vegetables is a bit
 concerning.");

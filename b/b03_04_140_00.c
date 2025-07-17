@@ -20,9 +20,9 @@ ScrFadeIn(0);
 VoicePlay("B030414000_04_010");
 MsgDisp("Nanatsumori","It's narrow and dark in here.
 You could get hurt in all kinds of ways.
-ＯＫ?");
+OK?");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Oh, ＯＫ.
+MsgDisp("主人公","Oh, OK.
 Thank you, ｛七ツ森＊｝.");
 MsgClose();
 ScrFadeOut(0,0);

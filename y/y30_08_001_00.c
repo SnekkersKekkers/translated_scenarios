@@ -19,7 +19,7 @@ MsgDisp("","The orange stallion oil uniform that
 I was so used to seeing looks like a
 different thing altogether.");
 MsgDisp("","Work clothes can look so cute
-depending on who's wearing them......");
+depending on who's wearing them...");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -105,7 +105,7 @@ MsgDisp("","That's right! If we get closer, I'll
 go ta Habataki High School after work
 and invite her to walk home
 together～!");
-MsgDisp("","......Heheh!");
+MsgDisp("","...Heheh!");
 MsgClear();
 MsgClose();
 BGMStop();

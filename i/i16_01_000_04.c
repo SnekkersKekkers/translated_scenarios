@@ -14,7 +14,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Oh, you were pretty careful with it, huh?");
     MsgDisp("主人公","Yeah.
 But, I wish I could've had it finished
-sooner......");
+sooner...");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

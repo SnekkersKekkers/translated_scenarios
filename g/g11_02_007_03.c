@@ -1,7 +1,7 @@
 SEPlay("EV_SE_DOOR_013");
 BGOpen("sc608",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Managing club expenses is a pain......
+MsgDisp("主人公","(Managing club expenses is a pain...
 Oh, I need to refill the first aid kit
 too.)");
 MsgClose();
@@ -25,7 +25,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G110200703_02_010");
 MsgDisp("Sassa","Oh, thank you.");
-MsgDisp("主人公","(I need to refill the bandaids too......!)");
+MsgDisp("主人公","(I need to refill the bandaids too...!)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(2,0,0);
@@ -41,7 +41,7 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoicePlay("G110200703_02_020");
 MsgDisp("Sassa","Maybe I should try jumping through hurdles
-as a warmup......");
+as a warmup...");
 MsgDisp("主人公","Hurdles?");
 ChEye(2,1);
 ChMouth(2,1);
@@ -50,7 +50,7 @@ VoicePlay("G110200703_02_030");
 MsgDisp("Sassa","If I don't try to suffer through it and
 improve I'll just keep breaking the
 hurdles.");
-MsgDisp("主人公","That......might be a problem?");
+MsgDisp("主人公","That...might be a problem?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -78,9 +78,9 @@ MsgClose();
 ChOpen(2,41,5,5,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200703_02_060");
-MsgDisp("Sassa","Huh...... there's no one there......
+MsgDisp("Sassa","Huh... there's no one there...
 Rather, what did they mean by lovey dovey?");
-MsgDisp("主人公","Umm......");
+MsgDisp("主人公","Umm...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -93,6 +93,6 @@ SEPlay("EV_SE_672");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Was everyone watching?
-I think I'm a bit embarrassed......)");
+I think I'm a bit embarrassed...)");
 MsgClose();
 ScrFadeOut(0,0);

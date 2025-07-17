@@ -10,7 +10,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("O030600001_06_000");
     MsgDisp("Himuro","Well, this is a pretty safe result.");
     MsgDisp("主人公","(Hm, if we were just a little more in
-sync......)");
+sync...)");
     break ;
     case 3:
     MsgClose();
@@ -26,7 +26,7 @@ We weren't in sync.");
     VoicePlay("O030600001_06_020");
     MsgDisp("Himuro","I learned a lot.");
     MsgDisp("主人公","(Hm, if we were just a little more in
-sync......)");
+sync...)");
     break ;
     case 4:
     case 5:
@@ -34,7 +34,7 @@ sync......)");
     ChOpen(6,30,2,0,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600001_06_030");
-    MsgDisp("Himuro","We couldn't get first place......");
+    MsgDisp("Himuro","We couldn't get first place...");
     MsgDisp("主人公","Sorry.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -54,7 +54,7 @@ feels like this targeted my weakness.");
     MsgDisp("Himuro","I learned a lot.
 Thanks to you.");
     MsgDisp("主人公","(Hm, if we were just a little more in
-sync......)");
+sync...)");
     break ;
     default :
     DbgAssert(1);

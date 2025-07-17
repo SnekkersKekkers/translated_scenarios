@@ -1,13 +1,13 @@
 MsgClose();
 ChOpen(2,255,2,0,2,#1,#1,0,0);
 VoicePlay("G020220100_02_000");
-MsgDisp("Sassa","There's so many fireflies huh......");
+MsgDisp("Sassa","There's so many fireflies huh...");
 MsgDisp("主人公","Yeah, it's beautiful huh.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220100_02_010");
-MsgDisp("Sassa","Do you think so......
+MsgDisp("Sassa","Do you think so...
 It's not about beauty, they all look so
 frantically determined.");
 ChEye(2,0);
@@ -22,9 +22,9 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220100_02_030");
 MsgDisp("Sassa","Yeah. I thought I was leading next to you,
-but I got surpassed...... Now it feels
+but I got surpassed... Now it feels
 like I'm looking at their back.");
-MsgDisp("主人公","Um......");
+MsgDisp("主人公","Um...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -39,7 +39,7 @@ VoicePlay("G020220100_02_050");
 MsgDisp("Sassa","I still think the finish line is far
 ahead.
 The real competition starts now.");
-MsgDisp("主人公","(｛颯砂＊＊｝......)");
+MsgDisp("主人公","(｛颯砂＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

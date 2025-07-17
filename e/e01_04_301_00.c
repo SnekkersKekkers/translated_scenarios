@@ -6,7 +6,7 @@ MsgDisp("Honda?","Let's go, Mii-kun!");
 VoicePlay("E010430100_04_000");
 MsgDisp("Nanatsumori?","Absolutely not!");
 MsgDisp("主人公","(Hm?
-That voice just now was......)");
+That voice just now was...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -21,7 +21,7 @@ ChMotion(4,1,1);
 VoiceEVSPlay(4);
 VoicePlay("E010430100_04_010");
 MsgDisp("Nanatsumori","｛主人公｝, thank
-goodness......");
+goodness...");
 ChSet(3,3,1);
 VoicePlay("E010430100_03_010");
 MsgDisp("Honda","Oh yeah!
@@ -40,7 +40,7 @@ VoicePlay("E010430100_03_020");
 MsgDisp("Honda","The botanical garden.
 There are night shows being held for a
 limited time.");
-MsgDisp("主人公","Wow, really? It's fine with me but......
+MsgDisp("主人公","Wow, really? It's fine with me but...
 ｛七ツ森＊｝ looks
 annoyed.");
 ChEye(4,1);
@@ -53,7 +53,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("E010430100_04_040");
-MsgDisp("Nanatsumori","...... Bugs!
+MsgDisp("Nanatsumori","... Bugs!
 The nighttime rainforest section has way
 too many bugs!");
 ChEye(3,3);
@@ -78,7 +78,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010430100_03_040");
 MsgDisp("Honda","Mii-kun?
-...... It is what it is.");
+... It is what it is.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -86,7 +86,7 @@ VoicePlay("E010430100_03_050");
 MsgDisp("Honda","Shall we go together?");
 MsgDisp("主人公","Ehh? ∋");
 MsgDisp("主人公","(｛七ツ森＊｝, how could you run away after
-seeing those puppy dog eyes......)");
+seeing those puppy dog eyes...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

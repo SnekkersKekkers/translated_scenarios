@@ -9,7 +9,7 @@ switch (ChPrmGet(8,6)){
     MsgDisp("主人公","Would you like your windows to be wiped
 down?
 Then, please allow me.");
-    MsgDisp("主人公","Ah...... is there anything you don't need
+    MsgDisp("主人公","Ah... is there anything you don't need
 in your car? If you'd like, I can throw it
 away for you.");
     VoicePlay("I660800001_39_000");
@@ -39,7 +39,7 @@ I'm gettin' fired up!");
     MsgDisp("主人公","Would you like your windows to be wiped
 down?
 Then, please allow me.");
-    MsgDisp("主人公","Ah...... is there anything you don't need
+    MsgDisp("主人公","Ah... is there anything you don't need
 in your car? If you'd like, I can throw it
 away for you.");
     VoicePlay("I660800001_39_010");
@@ -52,7 +52,7 @@ Thanks as always.");
     ChOpen(8,35,0,4,0,#1,#1,0,0);
     ChMotion(8,3,1);
     VoicePlay("I660800001_08_020");
-    MsgDisp("Shirahane","As expected......
+    MsgDisp("Shirahane","As expected...
 Full points on attentiveness!");
     MsgDisp("主人公","Ah, ｛大地＊＊｝.
 Thanks to you.");
@@ -67,7 +67,7 @@ Thanks to you.");
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("I660800001_08_040");
-    MsgDisp("Shirahane","Well......
+    MsgDisp("Shirahane","Well...
 I won't deny it.");
     MsgDisp("主人公","Hehe!");
     ChEye(8,3);

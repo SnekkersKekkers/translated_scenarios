@@ -15,8 +15,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_020");
-MsgDisp("Kazama","Wait, what am I even saying......");
-MsgDisp("主人公","Um......
+MsgDisp("Kazama","Wait, what am I even saying...");
+MsgDisp("主人公","Um...
 You're embarrassing me.");
 ChEye(1,0);
 ChMouth(1,1);
@@ -54,16 +54,16 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("G020110101_01_060");
-MsgDisp("Kazama","I don't know......
+MsgDisp("Kazama","I don't know...
 What is up with me?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_070");
-MsgDisp("Kazama","(sigh)......
+MsgDisp("Kazama","(sigh)...
 The place is kinda dangerous.");
-MsgDisp("主人公","(Maybe that was......how
+MsgDisp("主人公","(Maybe that was...how
 ｛風真＊＊｝ really feels right
 now?)");
 BGMStop();

@@ -21,7 +21,7 @@ ChMotion(6,1);
 VoicePlay("B360615201_06_010");
 MsgDisp("Himuro","I feel like it's easier to hit the face of
 a troublemaker");
-MsgDisp("主人公","Wh......what∋");
+MsgDisp("主人公","Wh...what∋");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -30,7 +30,7 @@ VoicePlay("B360615201_06_020");
 MsgDisp("Himuro","I don't have any personal grudges, but
 it's different when you're involved.");
 MsgDisp("主人公","I think we should try to get along with
-everyone......");
+everyone...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -51,14 +51,14 @@ ChMotion(6,1);
 VoicePlay("B360615201_06_050");
 MsgDisp("Himuro","It's true.
 I'm not really good at taking the lead.");
-MsgDisp("主人公","I don't think that's true......");
+MsgDisp("主人公","I don't think that's true...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360615201_06_060");
 MsgDisp("Himuro","Well, it's my own problem.
 You don't need to worry about it.");
-MsgDisp("主人公","Okay......");
+MsgDisp("主人公","Okay...");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);

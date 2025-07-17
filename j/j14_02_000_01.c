@@ -1,4 +1,4 @@
-MsgSel("Yeah, no problem!" , "Sorry, I have plans ......");
+MsgSel("Yeah, no problem!" , "Sorry, I have plans ...");
 switch (MsgSelRsltGet()){
     case 0:
     break ;

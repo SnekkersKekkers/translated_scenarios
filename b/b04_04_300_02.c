@@ -62,7 +62,7 @@ Well, don't worry about it.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040430002_04_040");
-        MsgDisp("Nanatsumori","............");
+        MsgDisp("Nanatsumori","......");
         MsgDisp("主人公","Hehe!");
         ChEye(4,0);
         ChMouth(4,3);

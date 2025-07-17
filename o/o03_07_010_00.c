@@ -4,7 +4,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(What should I do about my partner for the
-three-legged race......)");
+three-legged race...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -14,13 +14,13 @@ three-legged race......)");
     MsgDisp("Mikage","｛主人公｝, what's wrong?
 Are you alone?");
     MsgDisp("主人公","Yes.
-I haven't found a partner yet......");
+I haven't found a partner yet...");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,3);
     VoicePlay("O030701000_07_010");
-    MsgDisp("Mikage","I see, that's a problem......");
-    MsgDisp("主人公","......What about you,
+    MsgDisp("Mikage","I see, that's a problem...");
+    MsgDisp("主人公","...What about you,
 ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -32,7 +32,7 @@ If you're okay with it, should we team up?");
     break ;
     case 3:
     MsgDisp("主人公","(What should I do about my partner for the
-three-legged race......)");
+three-legged race...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -47,7 +47,7 @@ a partner yet?");
     ChMotion(7,2);
     VoicePlay("O030701000_07_040");
     MsgDisp("Mikage","Guess you can just lie back.");
-    MsgDisp("主人公","It's no laughing matter......");
+    MsgDisp("主人公","It's no laughing matter...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -73,7 +73,7 @@ for first!");
     case 4:
     case 5:
     MsgDisp("主人公","(What should I do about my partner for the
-three-legged race......)");
+three-legged race...)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -88,13 +88,13 @@ a partner yet?");
     ChMotion(7,1);
     VoicePlay("O030701000_07_090");
     MsgDisp("Mikage","I'm free, you know?");
-    MsgDisp("主人公","Hm......?");
+    MsgDisp("主人公","Hm...?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("O030701000_07_100");
     MsgDisp("Mikage","How cold.");
-    MsgDisp("主人公","Ah......
+    MsgDisp("主人公","Ah...
 Then, would you like to pair up with me?");
     ChEye(7,0);
     ChMouth(7,3);

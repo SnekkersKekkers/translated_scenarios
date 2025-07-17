@@ -25,7 +25,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020620000_06_020");
 MsgDisp("Himuro","That's because I was pushed by those two.");
-MsgDisp("主人公","Could it be......
+MsgDisp("主人公","Could it be...
 ｛風真＊＊｝ and
 ｛颯砂＊＊｝?");
 ChEye(6,0);
@@ -39,7 +39,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020620000_06_040");
-MsgDisp("Himuro","......But, I came here of my own accord.");
+MsgDisp("Himuro","...But, I came here of my own accord.");
 MsgClear();
 ChClose(6);
 ChCustomLayout(6,5,0,-2.5);
@@ -68,6 +68,6 @@ ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020620000_06_080");
-MsgDisp("Himuro","......So even after you graduate, I want
+MsgDisp("Himuro","...So even after you graduate, I want
 you to stay by my side like you always
 have.");

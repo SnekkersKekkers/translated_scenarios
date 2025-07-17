@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("H4A0400001_04_000");
     MsgDisp("Nanatsumori","It was close.
 Don't mind.");
-    MsgDisp("主人公","｛七ツ森＊｝......
+    MsgDisp("主人公","｛七ツ森＊｝...
 Thanks.");
     ChEye(4,4);
     ChMouth(4,4);
@@ -26,7 +26,7 @@ you were the best, you know?");
     MsgDisp("Nanatsumori","Really.
 Congrats on winning the grand prize for
 visuals today!");
-    MsgDisp("主人公","(Hehe......!
+    MsgDisp("主人公","(Hehe...!
 I lost, but I'm glad I stayed in the
 rhythmic gymnastics club.)");
     break ;
@@ -40,13 +40,13 @@ rhythmic gymnastics club.)");
     VoiceEVSPlay(4);
     VoicePlay("H4A0400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝......");
+    MsgDisp("主人公","｛七ツ森＊｝...");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("H4A0400001_04_040");
     MsgDisp("Nanatsumori","Good work.
 Cheer up.");
-    MsgDisp("主人公","Okay......");
+    MsgDisp("主人公","Okay...");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -54,7 +54,7 @@ Cheer up.");
     MsgDisp("Nanatsumori","You were so pretty and cute that I
 would've given you points even when you
 messed up, you know?");
-    MsgDisp("主人公","Really......?
+    MsgDisp("主人公","Really...?
 Hehe, thanks.");
     ChEye(4,4);
     ChMouth(4,3);
@@ -63,7 +63,7 @@ Hehe, thanks.");
     MsgDisp("Nanatsumori","Yeah.
 So, for making me feel like I was the only
 one who got it, thank you.");
-    MsgDisp("主人公","(｛七ツ森＊｝......
+    MsgDisp("主人公","(｛七ツ森＊｝...
 I lost, but I'm glad I stayed in the
 rhythmic gymnastics club.)");
     break ;

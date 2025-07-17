@@ -8,9 +8,9 @@ switch (ChPrmGet(1,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Wow......There are a lot of customers
+    MsgDisp("主人公","(Wow...There are a lot of customers
 this year. It seems like there are more
-than last year. Ah, I'm nervous......)");
+than last year. Ah, I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -27,7 +27,7 @@ Did you come to support us?");
     MsgDisp("Kazama","Wow, this is a huge success.
 Surely, there's no way we can make a
 mistake here right?");
-    MsgDisp("主人公","Ah, no......");
+    MsgDisp("主人公","Ah, no...");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -41,7 +41,7 @@ I was just kidding.");
     MsgDisp("Kazama","The people in the venue, they are all
 complete amateurs. So, they won't notice
 if you make a small mistake.");
-    MsgDisp("主人公","That's not true......");
+    MsgDisp("主人公","That's not true...");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -83,9 +83,9 @@ bit? I'll do my bestー!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Wow......There are alot of customers this
+    MsgDisp("主人公","(Wow...There are alot of customers this
 year. It seems like there are more than
-last year. Ah, I'm nervous......)");
+last year. Ah, I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

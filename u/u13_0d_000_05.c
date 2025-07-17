@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛氷室＊＊｝, I guess......");
+MsgDisp("主人公","｛氷室＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -38,7 +38,7 @@ thing...)");
     VoicePlay("U130D00005_21_010");
     MsgDisp("Michiru","Himuro-chan seems to have taken a liking
 to you?");
-    MsgDisp("主人公","Eh?......");
+    MsgDisp("主人公","Eh?...");
     StlMouth(22,1);
     VoicePlay("U130D00005_22_010");
     MsgDisp("Hikaru","Himuro-chan seems to only let his guard
@@ -64,7 +64,7 @@ him and get rid all the thorns!");
     StlEye(22,0);
     MsgDisp("主人公","(Eehh∋
 That's how the people around me
-feel......?)");
+feel...?)");
     break ;
     case 4:
     case 5:
@@ -76,7 +76,7 @@ feel......?)");
     VoicePlay("U130D00005_21_030");
     MsgDisp("Michiru","Hehe.
 I wonder if this will make him happy.");
-    MsgDisp("主人公","......Eh?");
+    MsgDisp("主人公","...Eh?");
     StlEye(22,0,0);
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);

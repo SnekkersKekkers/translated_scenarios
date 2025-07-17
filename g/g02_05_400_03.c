@@ -22,11 +22,11 @@ ChEye(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020540003_05_030");
 MsgDisp("Hiiragi","About school.
-Whether I've made more friends...... and
+Whether I've made more friends... and
 then if I've done my homework.");
 MsgDisp("主人公","Hehe, it's like you're a grade schooler.");
 VoicePlay("G020540003_05_040");
-MsgDisp("Hiiragi","Yes......");
+MsgDisp("Hiiragi","Yes...");
 ChEye(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,#1);
@@ -47,11 +47,11 @@ ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020540003_05_080");
-MsgDisp("Hiiragi","Yeah......
+MsgDisp("Hiiragi","Yeah...
 I see.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","(Your family is enjoying it too.
-That's great, ｛柊＊＊＊｝......)");
+That's great, ｛柊＊＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

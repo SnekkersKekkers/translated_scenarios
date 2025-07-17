@@ -1,7 +1,7 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well then......
+MsgDisp("主人公","(Well then...
 Should I head home now?)");
 VoicePlay("E010520100_34_000");
 MsgDisp("Staff","Thank you very much～!");
@@ -10,7 +10,7 @@ MsgDisp("Sassa?","Thanks.");
 VoicePlay("E010520100_05_000");
 MsgDisp("Hiiragi?","No need to thank me.");
 MsgDisp("主人公","(Hm?
-That voice just now was......)");
+That voice just now was...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,4,0,4,#1,#1,0,1);
@@ -75,7 +75,7 @@ ChMouth(5,4);
 VoicePlay("E010520100_02_060");
 MsgDisp("Sassa","Let me rewrite what I wrote earlier.");
 MsgDisp("主人公","Um?
-｛颯砂＊＊｝......
+｛颯砂＊＊｝...
 I wonder what's wrong.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -91,7 +91,7 @@ VoicePlay("E010520100_05_050");
 MsgDisp("Hiiragi","That was the question in the survey.
 Hehe.");
 MsgDisp("主人公","Ah, the survey question?
-That was surprising......");
+That was surprising...");
 ChEye(5,0);
 ChMotion(5,4);
 MsgClose();
@@ -99,7 +99,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 ChOpen(2,255,5,0,4,#1,#1,0,2);
 VoicePlay("E010520100_02_070");
-MsgDisp("Sassa","That was close......
+MsgDisp("Sassa","That was close...
 I changed my answer to 'No comment' too.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -112,7 +112,7 @@ ChMotion(2,3);
 VoicePlay("E010520100_02_080");
 MsgDisp("Sassa","I'm not telling you!");
 MsgDisp("主人公","(So that's why you wanted me to take the
-survey......)");
+survey...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

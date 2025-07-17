@@ -24,7 +24,7 @@ maybe some rehearsals and meetings, among
 other things?");
     MsgDisp("主人公","Eh, no way∋
 I guess maybe today wasn't the best time
-to visit the shrine......?");
+to visit the shrine...?");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S120500000_05_070");
@@ -35,7 +35,7 @@ It was fun to pray with you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(I hope this year is another good
-year......)");
+year...)");
     break ;
     case 4:
     case 5:
@@ -57,7 +57,7 @@ after this?");
     MsgDisp("Hiiragi","There will be a New Year's show soon, so
 there is a lot for us to do.
 Rehearsals, meetings, etcetera.");
-    MsgDisp("主人公","I see......
+    MsgDisp("主人公","I see...
 That's rough.");
     ChEye(5,4);
     ChMouth(5,4);
@@ -78,7 +78,7 @@ Happy New Years.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(I hope this year will be another good
-year......)");
+year...)");
     break ;
     default :
     DbgAssert(1);

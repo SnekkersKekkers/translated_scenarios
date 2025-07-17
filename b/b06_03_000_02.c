@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     ScrFadeIn(0);
     VoicePlay("B060300002_03_000");
-    MsgDisp("Honda","Phew......
+    MsgDisp("Honda","Phew...
 I guess I'm a bit tired.
 Are you okay?");
     MsgDispSksp(0);

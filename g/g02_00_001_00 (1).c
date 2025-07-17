@@ -1,2 +1,2 @@
 MsgType(1);
-MsgDisp("","(Which light should I touch......)");
+MsgDisp("","(Which light should I touch...)");

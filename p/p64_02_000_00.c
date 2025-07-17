@@ -29,7 +29,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P640200000_02_030");
-MsgDisp("Sassa","Phewー......
+MsgDisp("Sassa","Phewー...
 Relieving, delicious.");
 ChEye(2,0);
 ChMouth(2,4);

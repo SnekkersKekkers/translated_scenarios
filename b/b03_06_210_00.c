@@ -13,7 +13,7 @@ ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,2);
 VoicePlay("B030621000_06_010");
-MsgDisp("Himuro","I see......
+MsgDisp("Himuro","I see...
 That's a shame.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

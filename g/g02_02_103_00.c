@@ -3,7 +3,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020210300_02_000");
-MsgDisp("Sassa","......It's kind of pitiable, but when
+MsgDisp("Sassa","...It's kind of pitiable, but when
 something is this beautiful, you want to
 catch it. Maybe insect catching is a guy's
 instinct.");
@@ -19,8 +19,8 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020210300_02_020");
-MsgDisp("Sassa","......Ah, although sometimes I do reckless
-things......");
+MsgDisp("Sassa","...Ah, although sometimes I do reckless
+things...");
 MsgDisp("主人公","Hm?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -41,8 +41,8 @@ there's a time for it.
 I'll be a bit smarter.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","Ah...... you mean 'love equals me?
-' —— I remember......");
+MsgDisp("主人公","Ah... you mean 'love equals me?
+' —— I remember...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -55,13 +55,13 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("G020210300_02_060");
-MsgDisp("Sassa","......sigh, it's just like with these
+MsgDisp("Sassa","...sigh, it's just like with these
 fireflies. They're so cute and beautiful,
 and I want to catch them, but I won't
 right now.");
-MsgDisp("主人公","(Like the fireflies......?
+MsgDisp("主人公","(Like the fireflies...?
 ｛颯砂＊＊｝'s feelings make me
-happy but......)");
+happy but...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

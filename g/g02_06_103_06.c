@@ -16,7 +16,7 @@ no need for them to ride eggplants and
 cucumbers.");
 MsgDisp("主人公","Eggplants and cucumbers?
 Oh, do you mean the ones prepared during
-Obon......?");
+Obon...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -38,13 +38,13 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020610306_06_040");
-MsgDisp("Himuro","......You think I'm childish huh?");
-MsgDisp("主人公","......I wonder?");
+MsgDisp("Himuro","...You think I'm childish huh?");
+MsgDisp("主人公","...I wonder?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610306_06_050");
-MsgDisp("Himuro","Ugh......");
+MsgDisp("Himuro","Ugh...");
 MsgDisp("主人公","WOuld you still dislike them even if they
 were cooked deliciously?");
 ChEye(6,0);
@@ -57,19 +57,19 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610306_06_070");
-MsgDisp("Himuro","Your home cooking.........");
+MsgDisp("Himuro","Your home cooking......");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610306_06_080");
-MsgDisp("Himuro",".........Still, eggplants.");
+MsgDisp("Himuro","......Still, eggplants.");
 MsgDisp("主人公","Do you still hate eggplants?");
 ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,0);
 VoicePlay("G020610306_06_090");
-MsgDisp("Himuro",".........Hate them.");
+MsgDisp("Himuro","......Hate them.");
 MsgDisp("主人公","(Hehe.
 I got to hear ｛氷室＊＊｝'s true
 thoughts. ♪)");

@@ -30,7 +30,7 @@ that far.");
     MsgDisp("Honda","Besides, the manager's substitute is here,
 so we'll have no problems keeping the
 store open.");
-    MsgDisp("主人公","The manager's substitute......?");
+    MsgDisp("主人公","The manager's substitute...?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
@@ -54,10 +54,10 @@ comfortable leaving.");
     ChMouth(3,0);
     ChMotion(3,2,1);
     VoicePlay("I260300000_03_940");
-    MsgDisp("Honda","......Well, it still would be a problem if
+    MsgDisp("Honda","...Well, it still would be a problem if
 the manager left too much.");
     MsgDisp("主人公","(I didn't think they trusted me so
-much......
+much...
 I'm glad I worked hard!)");
     break ;
     case 4:
@@ -68,7 +68,7 @@ I'm glad I worked hard!)");
     VoicePlay("I260300000_03_950");
     MsgDisp("Honda","Hey, did you hear?
 The next book fair might be left up to us.");
-    MsgDisp("主人公","\"Us\"...... me too∋");
+    MsgDisp("主人公","\"Us\"... me too∋");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -98,7 +98,7 @@ assigned-");
     MsgDisp("Honda","All the staff know how hard you've been
 working, and that's why you were chosen,
 you know?");
-    MsgDisp("主人公","｛本多＊＊｝......");
+    MsgDisp("主人公","｛本多＊＊｝...");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -107,7 +107,7 @@ you know?");
     MsgDisp("Honda","Yeah yeah, I completely agree with the
 manager's decision!
 Hey hey, where should we start?");
-    MsgDisp("主人公","(They're expecting a lot......
+    MsgDisp("主人公","(They're expecting a lot...
 Alright, let's do our best with
 ｛本多＊＊｝! )");
     break ;

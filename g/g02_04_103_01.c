@@ -39,7 +39,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410301_04_050");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChMotion(4,1,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("G020410301_04_060");
@@ -51,7 +51,7 @@ ChMotion(4,2,1);
 VoicePlay("G020410301_04_070");
 MsgDisp("Nanatsumori","That's it, huh?
 Gah.
-If it's just that, I'll forgive you......");
+If it's just that, I'll forgive you...");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -28,14 +28,14 @@ MsgDisp ( "Nanatsumori","The best part of the cafeteria is seeing
 what you order." ) ;
 MsgDisp ( "主人公","Ehh?
 It's hard to choose when you watch me like
-that......" ) ;
+that..." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
 ChMotion ( 1,0 ) ;
 VoicePlay ( "D150001401_01_010" ) ;
 MsgDisp ( "Kazama","Nanatsumori, don't say anything.
 I want to guess which one she'll get." ) ;
-MsgDisp ( "主人公","Guess what......
+MsgDisp ( "主人公","Guess what...
 Hey, what are you two talking about?" ) ;
 ChEye ( 4,2 ) ;
 ChMouth ( 4,3 ) ;

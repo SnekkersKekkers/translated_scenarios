@@ -8,7 +8,7 @@ Wait(100,0);
 SEPlay("EV_SE_662",0,1);
 Wait(50,0);
 MsgDisp("主人公","Oh!
-Something just flew by......");
+Something just flew by...");
 SEStop("EV_SE_597",2);
 SEPlay("EV_SE_639");
 SEWait();
@@ -31,7 +31,7 @@ VoicePlay("E010130200_01_020");
 MsgDisp("Kazama","My grandpa gave me a ticket, so I thought
 I'd go see the rakugo show.");
 MsgDisp("主人公","Eh.
-So, that ticket......");
+So, that ticket...");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -53,15 +53,15 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010130200_01_050");
-MsgDisp("Kazama","What a crazy coincidence ......damn it.");
+MsgDisp("Kazama","What a crazy coincidence ...damn it.");
 VoicePlay("E010130200_04_000");
-MsgDisp("Nanatsumori?","Hah hah......
-Where did I drop it......");
+MsgDisp("Nanatsumori?","Hah hah...
+Where did I drop it...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 MsgDisp("主人公","Hmm?
-This voice......");
+This voice...");
 ChPosition(1,1);
 MsgClose();
 SEPlay("EV_SE_544");
@@ -73,7 +73,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2);
 VoicePlay("E010130200_04_010");
-MsgDisp("Nanatsumori","Uh-......
+MsgDisp("Nanatsumori","Uh-...
 My ticket for the event, I seem to have
 dropped it.");
 ChEye(1,0);

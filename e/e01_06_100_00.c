@@ -52,7 +52,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610000_06_060");
-MsgDisp("Himuro","Besides......
+MsgDisp("Himuro","Besides...
 I can only eat these kinds of things as a
 snack.");
 MsgDisp("主人公","Are you usually not allowed to?");
@@ -74,7 +74,7 @@ ChMotion(6,0);
 VoicePlay("E010610000_06_090");
 MsgDisp("Himuro","You wouldn't like being served New Year's
 food after surfing, would you?");
-MsgDisp("主人公","Traditional food......
+MsgDisp("主人公","Traditional food...
 Yeah, you have a point.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -93,7 +93,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(Traditional cuisine......
+MsgDisp("主人公","(Traditional cuisine...
 I'm a bit curious about the food
 ｛氷室＊＊｝'s mother makes.)");
 MsgClose();

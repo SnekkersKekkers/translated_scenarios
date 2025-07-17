@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610201_06_000");
-MsgDisp("Himuro","......How troublesome.");
+MsgDisp("Himuro","...How troublesome.");
 MsgDisp("主人公","What is?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -25,7 +25,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610201_06_030");
-MsgDisp("Himuro","......Not only that, the person causing it
+MsgDisp("Himuro","...Not only that, the person causing it
 has no idea.");
 ChEye(6,2);
 ChMouth(6,0);
@@ -46,7 +46,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610201_06_060");
-MsgDisp("Himuro","......Never mind. Anyway, that's
+MsgDisp("Himuro","...Never mind. Anyway, that's
 impossible. If I show any weakness, I'll
 be taken advantage of.");
 ChEye(6,0);
@@ -56,14 +56,14 @@ ChCheek(6,0);
 VoicePlay("G020610201_06_070");
 MsgDisp("Himuro","I'm reluctant, but I know I have to endure
 this troublesome game of give and take.");
-MsgDisp("主人公","Then......
+MsgDisp("主人公","Then...
 Do your best, okay?");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610201_06_080");
-MsgDisp("Himuro","Haa......how cruel.");
+MsgDisp("Himuro","Haa...how cruel.");
 MsgDisp("主人公","Ehhh∋");
 BGMStop();
 MsgClose();

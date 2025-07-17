@@ -1,9 +1,9 @@
 ChLayout(1);
 BGOpen("fp100",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Hm?
-Infront of the store window is......)");
+Infront of the store window is...)");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,255,3,1,4,#1,#1,0,0);
@@ -66,7 +66,7 @@ That's not it.");
 ChEye(7,2);
 ChMouth(7,0);
 VoicePlay("E010720000_07_050");
-MsgDisp("Mikage","Actually......
+MsgDisp("Mikage","Actually...
 The person who always did my hair at the
 salon quit and I haven't gone back.");
 ChEye(7,2);
@@ -80,7 +80,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010720000_04_030");
-MsgDisp("Nanatsumori","Ahー...... I totally get it. I'm also
+MsgDisp("Nanatsumori","Ahー... I totally get it. I'm also
 nervous about having my hair done by
 someone I never met.");
 ChEye(7,2);
@@ -89,7 +89,7 @@ ChMotion(7,4);
 VoicePlay("E010720000_07_070");
 MsgDisp("Mikage","Yeah, yeah that's it.
 So I was considering if I would go into
-that store......");
+that store...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -106,11 +106,11 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("E010720000_04_040");
-MsgDisp("Nanatsumori","......So Mikage-sensei went to the beauty
+MsgDisp("Nanatsumori","...So Mikage-sensei went to the beauty
 salon. He kinda doesn't seem like the
 type, does he?");
 MsgDisp("主人公","(I like ｛御影＊＊｝'s
 hairstyle I hope he always keeps it that
-way......)");
+way...)");
 MsgClose();
 ScrFadeOut(0,0);

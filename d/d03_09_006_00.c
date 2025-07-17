@@ -1,7 +1,7 @@
 BGOpen("wf200",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder if Kuya-san is here......)");
+MsgDisp("主人公","(I wonder if Kuya-san is here...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -36,7 +36,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900600_09_020");
 MsgDisp("Kuya","Understood.");
-MsgDisp("主人公","Uhm......
+MsgDisp("主人公","Uhm...
 What's with the basket and tongs?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -59,7 +59,7 @@ MsgClose();
 BGMVol(0.5,2);
 ChOpen(9,35,0,0,0,#1,#1,0,0);
 VoicePlay("D030900600_36_020");
-MsgDisp("Man","I finally finished picking them all......
+MsgDisp("Man","I finally finished picking them all...
 It's because of you guys.
 Thanks a lot!");
 ChEye(9,3);
@@ -75,7 +75,7 @@ VoicePlay("D030900600_36_030");
 MsgDisp("Man","Hahaha!
 I guess so!
 I'm really grateful!");
-MsgDisp("主人公","Phew......
+MsgDisp("主人公","Phew...
 Chestnut picking was fun, huh?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -100,7 +100,7 @@ VoicePlay("D030900600_09_070");
 MsgDisp("Kuya","He accidentally spilled all those
 chestnuts props everywhere.");
 MsgDisp("主人公","Really, it's like this kind of thing
-follows you around, Kuya-san......");
+follows you around, Kuya-san...");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -134,7 +134,7 @@ ChMouth(9,0);
 ChMotion(9,3,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900600_09_110");
-MsgDisp("Kuya","Ah......
+MsgDisp("Kuya","Ah...
 I guess I feel the same way about what
 happened earlier.");
 ChEye(9,3);
@@ -142,7 +142,7 @@ ChMouth(9,3);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900600_09_120");
-MsgDisp("Kuya","......Huh? Don't tell me you're becoming a
+MsgDisp("Kuya","...Huh? Don't tell me you're becoming a
 \"Jack of All Trades\" too? Haha!");
 MsgDisp("主人公","(Kuya-san's penchant for getting involved
 in things is still going strong");

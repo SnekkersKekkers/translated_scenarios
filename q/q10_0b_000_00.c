@@ -13,7 +13,7 @@ ChEye(4,3);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("Q100B00000_04_000");
-MsgDisp("Nanatsumori","Amazing glasses......");
+MsgDisp("Nanatsumori","Amazing glasses...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -33,17 +33,17 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("Q100B00000_01_010");
-MsgDisp("Kazama","I feel like fishing......");
+MsgDisp("Kazama","I feel like fishing...");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("Q100B00000_03_010");
-MsgDisp("Honda","Eeeh......");
+MsgDisp("Honda","Eeeh...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("Q100B00000_04_010");
-MsgDisp("Nanatsumori","Kazama's eyes look like a hunter's......");
+MsgDisp("Nanatsumori","Kazama's eyes look like a hunter's...");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -62,7 +62,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("Q100B00000_01_020");
-MsgDisp("Kazama","So......
+MsgDisp("Kazama","So...
 Where are we going?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -79,7 +79,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q100B00000_04_030");
 MsgDisp("Nanatsumori","I don't eat noodles.
-...... It does sound yummy though.");
+... It does sound yummy though.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3,1);
@@ -103,7 +103,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("Q100B00000_04_050");
-MsgDisp("Nanatsumori","Hey......");
+MsgDisp("Nanatsumori","Hey...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -112,7 +112,7 @@ MsgDisp("Kazama","How about a light udon for lunch, and the
 chanpon ramen at night?");
 MsgDisp("主人公","(Hmmm?
 Dinner is served at the hotel,
-right......?)");
+right...?)");
 ChMouth(1,2);
 ChEye(3,1);
 ChMouth(3,3);
@@ -140,7 +140,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q100B00000_03_050");
-MsgDisp("Honda","Meh...... Well, fine! But if I get hungry,
+MsgDisp("Honda","Meh... Well, fine! But if I get hungry,
 I'll go eat champon noodles on my own.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -153,8 +153,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("Q100B00000_04_070");
-MsgDisp("Nanatsumori","Sigh...... why are you all interested in
-noodles......");
+MsgDisp("Nanatsumori","Sigh... why are you all interested in
+noodles...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

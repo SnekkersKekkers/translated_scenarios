@@ -13,7 +13,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("H4A0300000_03_000");
-MsgDisp("Honda","Haa......
+MsgDisp("Honda","Haa...
 So it really was you?");
 MsgDisp("主人公","Hm?");
 ChEye(3,0);
@@ -28,14 +28,14 @@ ChMotion(3,4);
 VoicePlay("H4A0300000_03_020");
 MsgDisp("Honda","Your graceful movements, the way the balls
 and ribbons seemed to gravitate to you, it
-was the result of your hard work......");
+was the result of your hard work...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("H4A0300000_03_030");
 MsgDisp("Honda","Yeah, I was really impressed.
 Congrats on winning, and thank you!");
-MsgDisp("主人公","(I got thanked...... But I'm really glad I
+MsgDisp("主人公","(I got thanked... But I'm really glad I
 stayed in the rhythmic gymnastics club!
 Today's the best day ever!)");
 BGMStop();

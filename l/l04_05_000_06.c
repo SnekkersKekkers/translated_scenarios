@@ -6,10 +6,10 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,4,1);
     VoicePlay("L040500006_05_000");
-    MsgDisp("Hiiragi","Individualistic, wild, rough......
+    MsgDisp("Hiiragi","Individualistic, wild, rough...
 In any case, I can see a hidden potential
 in this.");
-    MsgDisp("主人公","Um......");
+    MsgDisp("主人公","Um...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("L040500006_05_010");
@@ -20,8 +20,8 @@ Well, farewell.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Ugh......
-I wish I had tried a little harder......)");
+    MsgDisp("主人公","(Ugh...
+I wish I had tried a little harder...)");
     break ;
     case 3:
     ChEye(5,4);
@@ -57,7 +57,7 @@ this chocolate.");
     BGMStop();
     ChClose(5);
     ChEyeOpenLevel(5,#1);
-    MsgDisp("主人公","(Ugh......
+    MsgDisp("主人公","(Ugh...
 I wish I had tried a little harder.
 I bothered ｛柊＊＊＊｝.)");
     break ;
@@ -68,20 +68,20 @@ I bothered ｛柊＊＊＊｝.)");
     ChMotion(5,5,1);
     ChMouthOpenLevel(5,3);
     VoicePlay("L040500006_05_060");
-    MsgDisp("Hiiragi","............");
+    MsgDisp("Hiiragi","......");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
     ChMouthOpenLevel(5,#1);
     VoicePlay("L040500006_05_070");
-    MsgDisp("Hiiragi","......Haha.");
-    MsgDisp("主人公","Uh......
-Just, sorry......");
+    MsgDisp("Hiiragi","...Haha.");
+    MsgDisp("主人公","Uh...
+Just, sorry...");
     ChMotion(5,0);
     VoicePlay("L040500006_05_080");
     MsgDisp("Hiiragi","Whatever for?
 I am in quite the pleasant mood.");
-    MsgDisp("主人公","Since it's not very good......");
+    MsgDisp("主人公","Since it's not very good...");
     ChEye(5,3);
     VoicePlay("L040500006_05_090");
     MsgDisp("Hiiragi","The objective of a gift is to make the
@@ -102,7 +102,7 @@ quite a good mood.");
     MsgDisp("Hiiragi","This chocolate as a whole may resemble
 you.");
     MsgDisp("主人公","｛柊＊＊＊｝, that's a
-little......");
+little...");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);
@@ -114,7 +114,7 @@ But, truly, thank you.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(He seemed happy, but I should've given
-him a proper chocolate......)");
+him a proper chocolate...)");
     break ;
     default :
     DbgAssert(1);

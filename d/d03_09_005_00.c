@@ -6,7 +6,7 @@ Alright, let's try our best!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","Kuya-san is late......");
+MsgDisp("主人公","Kuya-san is late...");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C09_KUYA_A",0.01);
@@ -24,7 +24,7 @@ VoicePlay("D030900500_09_010");
 MsgDisp("Kuya","Yeah. On the way here I ran into a
 pregnant woman about to have a baby, I
 went with her to the hospital.");
-MsgDisp("主人公","That's......
+MsgDisp("主人公","That's...
 Thank goodness!");
 ChEye(9,3);
 ChMouth(9,0);
@@ -61,9 +61,9 @@ ChMotion(9,0,1);
 ScrFadeIn(0);
 ChMotion(9,4,1);
 VoicePlay("D030900500_09_050");
-MsgDisp("Kuya","Phew......
+MsgDisp("Kuya","Phew...
 It took us a while to get here, huh.");
-MsgDisp("主人公","Yeah......
+MsgDisp("主人公","Yeah...
 I think I understand now, why Kuya-san is
 a \"Jack of All Trades\".");
 ChEye(9,3);
@@ -74,7 +74,7 @@ VoicePlay("D030900500_09_060");
 MsgDisp("Kuya","Right?");
 MsgDisp("主人公","Giving directions, finding lost items,
 helping lost children, you're a kind
-person......You even mediated an argument.");
+person...You even mediated an argument.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,2,1);
@@ -90,7 +90,7 @@ VoicePlay("D030900500_09_080");
 MsgDisp("Kuya","If you take it too seriously, it'll make
 you anxious, so I try to just take it
 easy.");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -103,7 +103,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
 MsgDisp("主人公","Eh?
 Kuya-san, where did you——");
-MsgDisp("主人公","(He's gone......)");
+MsgDisp("主人公","(He's gone...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -130,7 +130,7 @@ VoicePlay("D030900500_09_120");
 MsgDisp("Kuya","Thanks to you I finally get to eat from
 them.");
 MsgDisp("主人公","That's not really something I can take
-credit for......");
+credit for...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);
@@ -140,7 +140,7 @@ MsgDisp("Kuya","If you hadn't asked me out on a date
 today, I wouldn't have ran into that food
 truck and been able to get this \"Soft
 Cream Bread\"?");
-MsgDisp("主人公","......But this is an interview?");
+MsgDisp("主人公","...But this is an interview?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,2,1);
@@ -154,7 +154,7 @@ ChEyeOpenLevel(9,7);
 VoicePlay("D030900500_09_150");
 MsgDisp("Kuya","But right now it's a date, isn't it?
 We're taking a break from the interview.");
-MsgDisp("主人公","Geez......");
+MsgDisp("主人公","Geez...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -163,8 +163,8 @@ VoicePlay("D030900500_09_160");
 MsgDisp("Kuya","This soft cream bread is interesting,
 right?
 Doesn't it appeal to your \"art\"istic side?");
-MsgDisp("主人公","Hmm......
-For me its a bit much......");
+MsgDisp("主人公","Hmm...
+For me its a bit much...");
 ChEye(9,3);
 ChMouth(9,2);
 ChMotion(9,0,1);
@@ -173,7 +173,7 @@ VoicePlay("D030900500_09_170");
 MsgDisp("Kuya","Huh? I thought you'd be on the same page
 as me. Maybe you should refine your \"art\"
 a bit too?");
-MsgDisp("主人公","Yep, I'll try my best......");
+MsgDisp("主人公","Yep, I'll try my best...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -182,6 +182,6 @@ VoicePlay("D030900500_09_180");
 MsgDisp("Kuya","Yeah, good luck.");
 MsgDisp("主人公","(Interviewing Mr.\"Jack of All Trades\" was
 really hard. I kept getting caught up in
-everything happening......)");
+everything happening...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -81,7 +81,7 @@ now\"...");
         ChMotion(2,4);
         ChCheek(2,10);
         VoicePlay("B040217002_02_060");
-        MsgDisp("Sassa","............");
+        MsgDisp("Sassa","......");
         MsgDisp("主人公","It's a wonderful song huh?");
         ChEye(2,0);
         ChMouth(2,4);

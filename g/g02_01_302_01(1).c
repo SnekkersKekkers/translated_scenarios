@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(1,255,1,0,0,#1,#1,0,0);
 VoicePlay("G020130201_01_000");
 MsgDisp("Kazama","You really have to see this scenery for
-yourself......
+yourself...
 It's different to just hearing about it.");
 MsgDisp("主人公","Yeah, it's even more beautiful than the
 rumours say.");
@@ -38,8 +38,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("G020130201_01_050");
-MsgDisp("Kazama","............");
-MsgDisp("主人公","Umm......");
+MsgDisp("Kazama","......");
+MsgDisp("主人公","Umm...");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,4);
@@ -52,7 +52,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130201_01_070");
 MsgDisp("Kazama","Ten years ago I already had a good eye.");
-MsgDisp("主人公","Y-Yeah......?");
+MsgDisp("主人公","Y-Yeah...?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -67,7 +67,7 @@ ChMotion(1,0);
 VoicePlay("G020130201_01_090");
 MsgDisp("Kazama","It's fine if no one understands.
 As long as I do.");
-MsgDisp("主人公","(｛風真＊＊｝......
+MsgDisp("主人公","(｛風真＊＊｝...
 I'm happy, but embarrassed.)");
 BGMStop();
 MsgClose();

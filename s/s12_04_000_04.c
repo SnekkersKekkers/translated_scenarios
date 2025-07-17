@@ -42,8 +42,8 @@ Let's spend our time without regrets!)");
     ChMotion(4,0);
     VoicePlay("S120400004_04_020");
     MsgDisp("Nanatsumori","Our last New Year's visit of our high
-school days......");
-    MsgDisp("主人公","You're right......");
+school days...");
+    MsgDisp("主人公","You're right...");
     ChMotion(4,1,1);
     VoicePlay("S120400004_04_030");
     MsgDisp("Nanatsumori","We're graduating from Habataki High School
@@ -53,7 +53,7 @@ Three years passed in the blink of an eye.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,0);
     VoicePlay("S120400004_04_040");
-    MsgDisp("Nanatsumori","Yeah......");
+    MsgDisp("Nanatsumori","Yeah...");
     ChMouth(4,3);
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,#1);
@@ -73,7 +73,7 @@ make ourselves sad.");
     ChMouth(4,4);
     ChMotion(4,1);
     VoicePlay("S120400004_04_060");
-    MsgDisp("Nanatsumori","Haa......");
+    MsgDisp("Nanatsumori","Haa...");
     MsgDisp("主人公","｛七ツ森＊｝, already
 sighing in the New Year?");
     ChEye(4,4);
@@ -81,7 +81,7 @@ sighing in the New Year?");
     ChMotion(4,0,1);
     VoicePlay("S120400004_04_070");
     MsgDisp("Nanatsumori","That's not it.
-I guess I can feel the...... weight of the
+I guess I can feel the... weight of the
 three years.");
     MsgDisp("主人公","???");
     VoicePlay("S120400004_04_080");
@@ -93,7 +93,7 @@ three years.");
     VoicePlay("S120400004_04_090");
     MsgDisp("Nanatsumori","So many things happened.
 The memories are suddenly all coming back.");
-    MsgDisp("主人公","Memories, huh......");
+    MsgDisp("主人公","Memories, huh...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);

@@ -10,8 +10,8 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,0);
     ScrFadeIn(0);
     VoicePlay("S070400000_04_000");
-    MsgDisp("Nanatsumori","That's a lot of people......");
-    MsgDisp("主人公","Yeah......");
+    MsgDisp("Nanatsumori","That's a lot of people...");
+    MsgDisp("主人公","Yeah...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -25,7 +25,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,0);
     ScrFadeIn(0);
     VoicePlay("S070400000_04_020");
-    MsgDisp("Nanatsumori","So many people......");
+    MsgDisp("Nanatsumori","So many people...");
     MsgDisp("主人公","Yeah.
 Including us, right?");
     ChEye(4,2);
@@ -34,7 +34,7 @@ Including us, right?");
     VoicePlay("S070400000_04_030");
     MsgDisp("Nanatsumori","I guess so.
 Why do so many people like these
-festivals......");
+festivals...");
     MsgDisp("主人公","Hehe!");
     ChEye(4,3);
     ChMouth(4,3);
@@ -49,7 +49,7 @@ festivals......");
     ChMotion(4,0);
     ScrFadeIn(0);
     VoicePlay("S070400000_04_050");
-    MsgDisp("Nanatsumori","Ah......
+    MsgDisp("Nanatsumori","Ah...
 Right.
 Your hand.");
     MsgDisp("主人公","Eh?");
@@ -62,7 +62,7 @@ Your hand.");
     MsgDisp("Nanatsumori","I mean, look.
 Most pairs are holding hands, right?");
     MsgDisp("主人公","Y-Yeah.
-Sure......");
+Sure...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     ChClose(4,0,30);
@@ -73,7 +73,7 @@ Sure......");
     SEPlay("EV_SE_504");
     SEWait();
     VoicePlay("S070400000_04_080");
-    MsgDisp("Nanatsumori","ＯＫ.
+    MsgDisp("Nanatsumori","OK.
 This way we don't get any notices for lost
 children.");
     MsgDisp("主人公","Hehe!");

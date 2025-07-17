@@ -28,7 +28,7 @@ happy!)");
     VoicePlay("S060800001_08_020");
     MsgDisp("Shirahane","You dressed up?");
     MsgDisp("主人公","Yeah.
-...... Do you like it?");
+... Do you like it?");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,4,1);
@@ -63,8 +63,8 @@ happy!)");
     VoicePlay("S060800001_08_060");
     MsgDisp("Shirahane","It's the best.
 I getta see my favorite person in such
-fancy clothes......");
-    MsgDisp("主人公","......Eh?");
+fancy clothes...");
+    MsgDisp("主人公","...Eh?");
     ChEye(8,0);
     ChMouth(8,4);
     ChMotion(8,1,1);
@@ -72,7 +72,7 @@ fancy clothes......");
     ChCheek(8,10);
     VoicePlay("S060800001_08_070");
     MsgDisp("Shirahane","Huh?
-My mouth feels kind of loose now......");
+My mouth feels kind of loose now...");
     ChEye(8,4);
     ChMouth(8,3);
     ChMotion(8,2,1);

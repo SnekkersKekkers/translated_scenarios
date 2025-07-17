@@ -6,14 +6,14 @@ ChOpen(8,255,0,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("K020801100_08_000");
-MsgDisp("Shirahane","We're here, huh......");
+MsgDisp("Shirahane","We're here, huh...");
 MsgDisp("主人公","Yeah.
 Thanks for walking me home.");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("K020801100_08_010");
-MsgDisp("Shirahane","As a man, I gotta......
+MsgDisp("Shirahane","As a man, I gotta...
 And, there's still somethin' left for me
 to do today.");
 MsgDisp("主人公","Hm?");
@@ -46,7 +46,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("K020801100_08_060");
 MsgDisp("Shirahane","Actually, th' whole time during the date,
-I wanted t'hand it over......
+I wanted t'hand it over...
 Now, I'm handin' it over at the end.");
 MsgDisp("主人公","Hehe!");
 ChEye(8,3);
@@ -61,7 +61,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);
 SEWait();
-MsgDisp("主人公","(I'm so happy......!
-Today's date was amazing......)");
+MsgDisp("主人公","(I'm so happy...!
+Today's date was amazing...)");
 MsgClose();
 ScrFadeOut(0,0);

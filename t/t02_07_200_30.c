@@ -1,5 +1,5 @@
 BGMStop();
-MsgDisp("主人公","I'm sorry......");
+MsgDisp("主人公","I'm sorry...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -12,13 +12,13 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020720030_07_010");
 MsgDisp("Mikage","You've always been in the right.");
-MsgDisp("主人公","｛御影＊＊｝......");
+MsgDisp("主人公","｛御影＊＊｝...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020720030_07_020");
 MsgDisp("Mikage","I was acting spoiled until the end. to
-them...... to you.");
+them... to you.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -40,7 +40,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020720030_07_050");
-MsgDisp("Mikage","......Thank you for filling that void
+MsgDisp("Mikage","...Thank you for filling that void
 within me.");
 BGMStop(3.6);
 MsgClose();

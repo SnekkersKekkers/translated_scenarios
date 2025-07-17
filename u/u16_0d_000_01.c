@@ -18,10 +18,10 @@ VoicePlay("U160D00001_22_001");
 StlEye(22,2);
 StlMouth(22,0);
 MsgDisp("Hikaru","Agreed.♪");
-MsgDisp("主人公","Eh, but, my love life......");
+MsgDisp("主人公","Eh, but, my love life...");
 VoicePlay("U160D00001_22_010");
 StlEye(22,0);
 MsgDisp("Hikaru","I'm looking forward to the next one.
 Right, Mari▼");
-MsgDisp("主人公","Ahaha......
-I'll try my best......");
+MsgDisp("主人公","Ahaha...
+I'll try my best...");

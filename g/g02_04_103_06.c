@@ -19,14 +19,14 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410306_04_030");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChMotion(4,1,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("G020410306_04_040");
 MsgDisp("Nanatsumori","You don't think anything of it?");
 VoicePlay("G020410306_04_050");
 MsgDisp("Nanatsumori","Like it doesn't feel gross or startling,
-how should I say it......don't you think
+how should I say it...don't you think
 having various sides is kind of creepy?");
 MsgDisp("主人公","Eh?
 Why would I think that?");
@@ -39,7 +39,7 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410306_04_070");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -49,7 +49,7 @@ ChEye(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020410306_04_090");
 MsgDisp("Nanatsumori","Meeting you has really paid off for me
-......thank you.");
+...thank you.");
 MsgDisp("主人公","It's no problem at all.
 ｛七ツ森＊｝'s
 crossdressing is really cute▼");

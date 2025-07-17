@@ -11,7 +11,7 @@ ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("P840400002_04_000");
-MsgDisp("Nanatsumori","Heeh, you're thoroughly prepared.");
+MsgDisp("Nanatsumori","Ehhh, you're thoroughly prepared.");
 MsgDisp("主人公","No.
 I had lent them to the drama club, so I
 asked them to return them.");

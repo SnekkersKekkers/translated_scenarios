@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,1);
     ChMotion(1,3);
     VoicePlay("B030123001_01_010");
-    MsgDisp("Kazama","ＯＫ!
+    MsgDisp("Kazama","OK!
 Let's scream our lungs out!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

@@ -56,7 +56,7 @@ result will follow, too.");
     VoicePlay("H480600000_06_060");
     MsgDisp("Himuro","You've worked hard for these past three
 years, after all.");
-    MsgDisp("主人公","......Yeah.");
+    MsgDisp("主人公","...Yeah.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -71,7 +71,7 @@ It's not like you.");
     MsgDisp("Himuro","Have some confidence. Messing up because
 you're nervous is the stupidest thing you
 could do now. Don't let me down.");
-    MsgDisp("主人公","...... You're right.
+    MsgDisp("主人公","... You're right.
 I'll do my best!");
     ChEye(6,0);
     ChMouth(6,3);

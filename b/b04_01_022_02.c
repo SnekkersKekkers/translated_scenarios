@@ -103,7 +103,7 @@ go inside.");
         VoicePlay("B040102202_01_080");
         MsgDisp("Kazama","No, I'm fine.
 Let's stay like this.");
-        MsgDisp("主人公","(｛風真＊＊｝......)");
+        MsgDisp("主人公","(｛風真＊＊｝...)");
         SEStop("EV_SE_759",1);
         SEStop("EV_SE_758",1);
         break ;

@@ -4,7 +4,7 @@ ChMotion(21,4);
 VoicePlay("D140D07070_21_000");
 MsgDisp("Michiru","Mikage-sensei is mysterious, don't you
 think?");
-MsgDisp("主人公","Mysterious......
+MsgDisp("主人公","Mysterious...
 You mean his hairstyle?");
 ChEye(22,0);
 ChMouth(22,0);
@@ -27,7 +27,7 @@ VoicePlay("D140D07070_21_010");
 MsgDisp("Michiru","Me too.
 For a teacher, he really stands out.
 I wonder if that's on purpose.");
-MsgDisp("主人公","(Croissant......)");
+MsgDisp("主人公","(Croissant...)");
 SEPlay("EV_SE_017");
 MsgDisp("","(Guu～)");
 ChEye(21,0);
@@ -43,9 +43,9 @@ ChEyeOpenLevel(22,0);
 VoicePlay("D140D07070_22_020");
 MsgDisp("Hikaru","Aha!
 Mari is so cute～▼");
-MsgDisp("主人公","(Ugh...... Now everytime I see
+MsgDisp("主人公","(Ugh... Now everytime I see
 ｛御影＊＊｝, I'll think
-about croissants......)");
+about croissants...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

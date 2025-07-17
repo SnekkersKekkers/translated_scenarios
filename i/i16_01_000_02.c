@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","These are the recommended products today.");
     VoicePlay("I160100002_47_000");
     MsgDisp("Woman Customer","What color do you recommend?");
-    MsgDisp("主人公","Let's see......
+    MsgDisp("主人公","Let's see...
 Personally, I have the pink shade.
 The other colors-");
     MsgDisp("","　　　　　　　　　　 ・

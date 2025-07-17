@@ -1,18 +1,18 @@
 ChLayout(1);
 BGOpen("wf200",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew, I should go home soon......)");
+MsgDisp("主人公","(Phew, I should go home soon...)");
 VoicePlay("E010730200_07_000");
 MsgDisp("Mikage?","Inori, if you add some fried vegetables,
 it'll taste even better.");
 MsgDisp("主人公","(Huh?
-That voice just now was......)");
+That voice just now was...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("E010730200_06_000");
-MsgDisp("Himuro","Huh, why......");
+MsgDisp("Himuro","Huh, why...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -36,7 +36,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010730200_06_010");
-MsgDisp("Himuro","Ugh...... fine.
+MsgDisp("Himuro","Ugh... fine.
 I understand.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -49,8 +49,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("E010730200_06_020");
-MsgDisp("Himuro","Okay...... but, please don't include any
-eggplant......
+MsgDisp("Himuro","Okay... but, please don't include any
+eggplant...
 Well then, please excuse me.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -71,7 +71,7 @@ MsgDisp("Mikage","As punishment, I'll prepare a lot of
 eggplant for him.");
 MsgDisp("主人公","(｛御影＊＊｝, you're worried about
 ｛氷室＊＊｝'s health, aren't
-you......?)");
+you...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

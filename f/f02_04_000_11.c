@@ -12,8 +12,8 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400011_04_000");
-MsgDisp("Nanatsumori","Work, and...... shopping.
-Hah......");
+MsgDisp("Nanatsumori","Work, and... shopping.
+Hah...");
 MsgDisp("主人公","What's with the sigh?");
 ChEye(4,2);
 ChMouth(4,4);
@@ -29,7 +29,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("F020400011_04_020");
-MsgDisp("Nanatsumori","...... A little?
+MsgDisp("Nanatsumori","... A little?
 It's not little at all∈ It's super cold.
 Deathly-cold levels!");
 MsgDisp("主人公","I-I see.
@@ -45,6 +45,6 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400011_04_040");
-MsgDisp("Nanatsumori","Haah～......");
-MsgDisp("主人公","(I will root for you! ......from a nice
+MsgDisp("Nanatsumori","Haah～...");
+MsgDisp("主人公","(I will root for you! ...from a nice
 warm room!)");

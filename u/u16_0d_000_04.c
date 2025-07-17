@@ -27,5 +27,5 @@ VoicePlay("U160D00004_22_020");
 MsgDisp("Hikaru","Deep down in Mari's heart, if there's a
 flower that's more special than the rest,
 take good care of it, okay?▼");
-MsgDisp("主人公","(A special flower......
-That means a boy, right......?)");
+MsgDisp("主人公","(A special flower...
+That means a boy, right...?)");

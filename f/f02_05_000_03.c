@@ -30,7 +30,7 @@ ChEye(5,3);
 VoicePlay("F020500003_05_040");
 MsgDisp("Hiiragi","Also, those vegetables are being used to
 raise livestock.");
-MsgDisp("主人公","Um......
+MsgDisp("主人公","Um...
 So it's the same rumor?");
 ChEye(5,0);
 ChMouth(5,2);
@@ -50,10 +50,10 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,3);
 VoicePlay("F020500003_05_070");
-MsgDisp("Hiiragi","Yes...... is that okay?
+MsgDisp("Hiiragi","Yes... is that okay?
 This will be our secret.
 You understand, right?");
-MsgDisp("主人公","Um, sure......");
+MsgDisp("主人公","Um, sure...");
 ChMotion(5,0,1);
 VoicePlay("F020500003_05_080");
 MsgDisp("Hiiragi","If this information leaks, then

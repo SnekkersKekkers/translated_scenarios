@@ -28,7 +28,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("U100D00000_22_010");
 MsgDisp("Hikaru","We can have girl talk in our pajamas▼");
-MsgSel("Ok, I'll go!","Sorry, I'm busy......");
+MsgSel("Ok, I'll go!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);
@@ -64,7 +64,7 @@ will be fun!)");
     ChMotion(22,5,1);
     VoicePlay("U100D00000_22_040");
     MsgDisp("Hikaru","Ehーh∋
-No way......");
+No way...");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,0);
@@ -82,7 +82,7 @@ We'll try again some other time.");
     MsgDisp("Hikaru","Well, I guess it can't be helped～
 Next time, okay Mari?");
     MsgDisp("主人公","(Even though they went through the trouble
-of inviting me...... did I make the right
+of inviting me... did I make the right
 choice?)");
     break ;
     default :

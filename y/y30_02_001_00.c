@@ -70,7 +70,7 @@ apart.");
 MsgDisp("","It was to the point I didn't know who
 was the real me.");
 MsgClear();
-MsgDisp("","Managerー......");
+MsgDisp("","Managerー...");
 MsgDisp("","The only one who knew both sides of
 me, interacted with both normally,
 was her.");

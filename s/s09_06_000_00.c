@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("S090600000_06_010");
     MsgDisp("Himuro","Aah.
-...... Would you like to draw one?");
+... Would you like to draw one?");
     MsgSel("Let's do it","Let's not, it's crowded");
     switch (MsgSelRsltGet()){
         case 0:
@@ -24,7 +24,7 @@ switch (ChPrmGet(6,6)){
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("S090600000_06_020");
-        MsgDisp("Himuro","I shouldn't have asked......");
+        MsgDisp("Himuro","I shouldn't have asked...");
         MsgDisp("主人公","Eh, what?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -58,7 +58,7 @@ Let's go home then.");
     ScrFadeIn(0);
     MsgClose();
     ChOpen(6,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Wow......
+    MsgDisp("主人公","Wow...
 That's a lot of people.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -68,7 +68,7 @@ That's a lot of people.");
     MsgDisp("Himuro","Really.
 Next year it may be better to come visit
 at a later time.");
-    MsgDisp("主人公","After this, let's......
+    MsgDisp("主人公","After this, let's...
 Ah, fortune telling.");
     MsgSel("Let's do it","Let's not, it's crowded");
     switch (MsgSelRsltGet()){
@@ -77,7 +77,7 @@ Ah, fortune telling.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("S090600000_06_060");
-        MsgDisp("Himuro","......is the line really long?");
+        MsgDisp("Himuro","...is the line really long?");
         MsgDisp("主人公","You don't want to?");
         ChEye(6,2);
         ChMouth(6,0);
@@ -127,10 +127,10 @@ I think I'm okay now.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S090600000_06_100");
-    MsgDisp("Himuro","Eh......
+    MsgDisp("Himuro","Eh...
 Oh, okay.");
     MsgDisp("主人公","It's about time to go home.
-...... Ah, fortune telling.");
+... Ah, fortune telling.");
     MsgSel("Let's do it","Let's not, it's crowded");
     switch (MsgSelRsltGet()){
         case 0:
@@ -143,7 +143,7 @@ Oh, okay.");
 I can't say no when you look at me like
 that.");
         MsgDisp("主人公","Yay!");
-        MsgDisp("主人公","(I hope we get a good result......!)");
+        MsgDisp("主人公","(I hope we get a good result...!)");
         break ;
         case 1:
         ChEye(6,0);
@@ -159,7 +159,7 @@ Fortune?");
         VoicePlay("S090600000_06_130");
         MsgDisp("Himuro","I think today was our only chance to get
 one.");
-        MsgDisp("主人公","(Hmm, that's true......
+        MsgDisp("主人公","(Hmm, that's true...
 Maybe I should have gotten one.)");
         MsgClose();
         ScrFadeOut(0,0);

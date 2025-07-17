@@ -30,7 +30,7 @@ ChMotion(2,0);
 VoicePlay("B070200000_02_040");
 MsgDisp("Sassa","I don't know anyone who doesn't like them.
 And the people on those shows get to do
-this for a living......");
+this for a living...");
 MsgDisp("主人公","Yeah, that's true.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -39,7 +39,7 @@ VoicePlay("B070200000_02_050");
 MsgDisp("Sassa","I guess I'm kind of jealous, but what do
 you think they do on their days off?
 Go to another hot spring?");
-MsgDisp("主人公","(Uhm......
+MsgDisp("主人公","(Uhm...
 ｛颯砂＊＊｝ loves watching shows
 about hot springs.)");
 BGMStop();

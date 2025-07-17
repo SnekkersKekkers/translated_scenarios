@@ -18,12 +18,12 @@ MsgDisp("Nanatsumori","There are two main stories: the scary one,
 and the super funny one.
 Which one do you want to hear?");
 MsgDisp("主人公","Eh∋
-Whichever one you want......");
+Whichever one you want...");
 ChMotion(4,0,1);
 VoicePlay("F020400002_04_020");
 MsgDisp("Nanatsumori","Now, now.
 The scary one it is.");
-MsgDisp("主人公","Uh......");
+MsgDisp("主人公","Uh...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -36,14 +36,14 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("F020400002_04_040");
 MsgDisp("Nanatsumori","And now, they're working on a new 'student
-reconstruction' project......");
+reconstruction' project...");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("F020400002_04_050");
 MsgDisp("Nanatsumori","No-good guys become good girls! Ugly girls
 become handsome men! They call it the
 'Double Extreme Remodeling Project'.");
-MsgDisp("主人公","...... Ha!
+MsgDisp("主人公","... Ha!
 There's not scary at all.");
 ChEye(4,4);
 ChMouth(4,3);
@@ -51,7 +51,7 @@ ChMotion(4,1,1);
 VoicePlay("F020400002_04_060");
 MsgDisp("Nanatsumori","You can't do anything but laugh, right?
 Still, it would be amazing if something
-like that were real......");
+like that were real...");
 MsgDisp("主人公","(What?
 ｛七ツ森＊｝, you look
-weirdly happy......)");
+weirdly happy...)");

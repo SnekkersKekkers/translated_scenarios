@@ -28,7 +28,7 @@ Treat me well this year, too.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400003_04_020");
-    MsgDisp("Nanatsumori","Geez......you're still full of energy even
+    MsgDisp("Nanatsumori","Geez...you're still full of energy even
 at the end.");
     MsgDisp("主人公","Really?");
     ChEye(4,4);
@@ -43,7 +43,7 @@ Seeya.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(This is another New Year.
-I hope it's a good one......)");
+I hope it's a good one...)");
     break ;
     case 4:
     case 5:
@@ -58,7 +58,7 @@ You're such a sweet girl.");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("S120400003_04_050");
-    MsgDisp("Nanatsumori","......Treat me well again this year, okay?");
+    MsgDisp("Nanatsumori","...Treat me well again this year, okay?");
     MsgDisp("主人公","Yeah, same to you.");
     ChEye(4,0);
     ChMouth(4,3);
@@ -71,8 +71,8 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(4,0,30);
     Wait(30);
-    MsgDisp("主人公","(A New Year, huh......
-I hope it's a good one......)");
+    MsgDisp("主人公","(A New Year, huh...
+I hope it's a good one...)");
     break ;
     default :
     DbgAssert(1);

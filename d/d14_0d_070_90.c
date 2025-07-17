@@ -2,8 +2,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("D140D07090_21_000");
-MsgDisp("Michiru","Come to think of it, our uncle......");
-MsgDisp("主人公","Your uncle......you mean Goro-sensei?");
+MsgDisp("Michiru","Come to think of it, our uncle...");
+MsgDisp("主人公","Your uncle...you mean Goro-sensei?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
@@ -17,14 +17,14 @@ ChMotion(22,3,1);
 VoicePlay("D140D07090_22_000");
 MsgDisp("Hikaru","Right, right.
 He's been getting jealous of me and sis♪");
-MsgDisp("主人公","Jealous......?");
+MsgDisp("主人公","Jealous...?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07090_22_010");
 MsgDisp("Hikaru","It's because we get to talk to you at
 school everyday but Uncle can't because he
-doesn't go here......right?");
+doesn't go here...right?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -39,7 +39,7 @@ VoicePlay("D140D07090_22_020");
 MsgDisp("Hikaru","Ah! That's because of that one time where
 the Chairman and Uncle were upset with
 each other. Hikaru saw it!");
-MsgDisp("主人公","(Goro-sensei and the chairman......
+MsgDisp("主人公","(Goro-sensei and the chairman...
 What on Earth happened there?)");
 BGMStop();
 MsgClose();

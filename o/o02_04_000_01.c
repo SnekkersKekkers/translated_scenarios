@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("O020400001_04_000");
     MsgDisp("Nanatsumori","Well, isn't it fine for a girl to lose in
 a match of power?");
-    MsgDisp("主人公","(I lost......
+    MsgDisp("主人公","(I lost...
 I wish I had tried harder.)");
     break ;
     case 3:
@@ -26,7 +26,7 @@ no?");
     VoicePlay("O020400001_04_020");
     MsgDisp("Nanatsumori","I thought you could've done it.
 Too bad.");
-    MsgDisp("主人公","(I lost......
+    MsgDisp("主人公","(I lost...
 I wish I had tried harder.)");
     break ;
     case 4:
@@ -34,7 +34,7 @@ I wish I had tried harder.)");
     VoiceEVSPlay(4);
     VoicePlay("O020400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝, I lost......");
+    MsgDisp("主人公","｛七ツ森＊｝, I lost...");
     ChMotion(4,1,1);
     VoicePlay("O020400001_04_040");
     MsgDisp("Nanatsumori","Guess so.
@@ -50,7 +50,7 @@ I'm glad you aren't hurt.
 Good work.");
     MsgDisp("主人公","(I might have lost the match, but I got
 healed by ｛七ツ森＊｝'s
-kindness......)");
+kindness...)");
     break ;
     default :
     DbgAssert(1);

@@ -9,11 +9,11 @@ switch (ChPrmGet(1,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Ah, what should I do.
-I wonder if I can do it properly......)");
+I wonder if I can do it properly...)");
     VoicePlay("P530100000_01_000");
     MsgDisp("Kazama?","You look awful, don't you?");
     MsgDisp("主人公","Ah, ｛風真＊＊｝.
-What a terrible face......");
+What a terrible face...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -31,7 +31,7 @@ face.");
     MsgDisp("Kazama","Well, the pouting face you have right now
 sounds more like you than your previous
 expression.");
-    MsgDisp("主人公","Ah, perhaps ｛風真＊＊｝...... helped
+    MsgDisp("主人公","Ah, perhaps ｛風真＊＊｝... helped
 me to relax?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -64,7 +64,7 @@ to let you hear my unique performance!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Hmm, what should I do.
-I wonder if I can do it properly......)");
+I wonder if I can do it properly...)");
     VoicePlay("P530100000_01_060");
     MsgDisp("Kazama?","Yes, you can.");
     MsgDisp("主人公","Huh?");

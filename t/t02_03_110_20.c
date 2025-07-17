@@ -1,19 +1,19 @@
 ChEyeOpenLevel(3,#1);
 ChMouthOpenLevel(3,#1);
 ChCheek(3,0);
-MsgDisp("主人公","Me too......
+MsgDisp("主人公","Me too...
 I also like you.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("T020311000_03_150");
-MsgDisp("Honda","Heeh?");
+MsgDisp("Honda","Ehhh?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("T020311000_03_160");
 MsgDisp("Honda","Is that okay?
-I was expecting to be turned down......");
+I was expecting to be turned down...");
 MsgDisp("主人公","Huh?
 Why?");
 ChEye(3,0);
@@ -26,7 +26,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020311000_03_180");
-MsgDisp("Honda","I said everything I wanted to so now......
+MsgDisp("Honda","I said everything I wanted to so now...
 That's right!!");
 BGMStop(2.8);
 MsgClear();

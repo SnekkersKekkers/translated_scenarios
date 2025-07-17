@@ -3,10 +3,10 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G020410400_04_000");
-MsgDisp("Nanatsumori","By the way......
+MsgDisp("Nanatsumori","By the way...
 I actually have a photo-focused social
 media account.");
-MsgDisp("主人公","Umm......which one?");
+MsgDisp("主人公","Umm...which one?");
 VoicePlay("G020410400_04_010");
 MsgDisp("Nanatsumori","Not Nana.
 The one where I pose as a girl");
@@ -32,7 +32,7 @@ ChMotion(4,0,1);
 VoicePlay("G020410400_04_040");
 MsgDisp("Nanatsumori","It seems like most of them haven't figured
 out I'm actually a guy.
-I kinda want them to realize soon......");
+I kinda want them to realize soon...");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -47,15 +47,15 @@ VoicePlay("G020410400_04_060");
 MsgDisp("Nanatsumori","But I feel bad about them continuing to
 believe I'm a girl and them falling in
 love with me, and cutting into their
-real-life romantic time.......");
-MsgDisp("主人公","Hmmm......");
+real-life romantic time....");
+MsgDisp("主人公","Hmmm...");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,1,1);
 ChEyeOpenLevel(4,0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410400_04_070");
-MsgDisp("Nanatsumori","Hmmー......");
+MsgDisp("Nanatsumori","Hmmー...");
 ChEye(4,0);
 ChMouth(4,0);
 ChEyeOpenLevel(4,#1);

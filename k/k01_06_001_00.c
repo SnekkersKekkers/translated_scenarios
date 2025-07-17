@@ -19,7 +19,7 @@ Here's a present.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("K010600100_06_010");
-    MsgDisp("Himuro","Huh...... for me?");
+    MsgDisp("Himuro","Huh... for me?");
     MsgDisp("主人公","Yeah!
 Do you want to open it now?");
     break ;
@@ -52,7 +52,7 @@ If you'd like, you can open it now!");
     BGMPlay("BGM_C06_INORI_A");
     ChOpen(6,254,0,0,0,#1,#1,5,0);
     VoicePlay("K010600100_06_040");
-    MsgDisp("Himuro","......What?");
+    MsgDisp("Himuro","...What?");
     MsgDisp("主人公","It's your birthday today, right?
 So, here.
 A gift to celebrate.");
@@ -65,7 +65,7 @@ A gift to celebrate.");
     VoicePlay("K010600100_06_050");
     MsgDisp("Himuro","Ah, I see.
 Then, I'll take it.
-...... Can I open it?");
+... Can I open it?");
     MsgDisp("主人公","Yeah, go ahead.");
     break ;
     default :

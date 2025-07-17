@@ -4,7 +4,7 @@ ChMotion(6,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B020601000_06_000");
-MsgDisp("Himuro","......");
+MsgDisp("Himuro","...");
 MsgDisp("主人公","Umm...
 Is there something wrong with my swimsuit?");
 ChEye(6,0);

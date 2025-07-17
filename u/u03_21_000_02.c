@@ -4,14 +4,14 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("U032100002_21_000");
 MsgDisp("Michiru","Mari, give me your hand.");
-MsgDisp("主人公","What's this......?");
+MsgDisp("主人公","What's this...?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("U032100002_21_010");
 MsgDisp("Michiru","Camellia perfume.
 It has a light scent so it's easy to use
-As thanks for today......");
+As thanks for today...");
 MsgSel("Accept Camellia perfume","Don't accept it");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,7 +28,7 @@ It smells like Mari.");
     MsgDisp("主人公","(I got Camellia perfume!)");
     SEPlay("EV_SE_080");
     MsgDisp("主人公","(I feel like I've become a more
-considerate person......)");
+considerate person...)");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,0);
@@ -40,7 +40,7 @@ See you later,
 ｛みちる＊｝!");
     break ;
     case 1:
-    MsgDisp("主人公","I'm sorry but......no thanks.");
+    MsgDisp("主人公","I'm sorry but...no thanks.");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,5);

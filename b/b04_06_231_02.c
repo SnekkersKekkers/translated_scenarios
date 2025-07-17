@@ -31,7 +31,7 @@ yourself to ride it.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623102_06_020");
-        MsgDisp("Himuro","Heeh, is it that scary?");
+        MsgDisp("Himuro","Ehhh, is it that scary?");
         MsgDisp("主人公","Ugh...");
         ChEye(6,0);
         ChMouth(6,0);

@@ -22,7 +22,7 @@ I'm glad I did my best.)");
     ChOpen(4,30,0,2,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400000_04_010");
-    MsgDisp("Nanatsumori","Stupidly powerful......");
+    MsgDisp("Nanatsumori","Stupidly powerful...");
     MsgDisp("主人公","Geez!");
     ChEye(4,0);
     ChMouth(4,3);
@@ -40,7 +40,7 @@ I'm glad I did my best.)");
     ChOpen(4,30,0,3,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O020400000_04_030");
-    MsgDisp("Nanatsumori","Wow......");
+    MsgDisp("Nanatsumori","Wow...");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 I won!");
     ChEye(4,0);
@@ -49,7 +49,7 @@ I won!");
     VoicePlay("O020400000_04_040");
     MsgDisp("Nanatsumori","I saw.
 Any guy could fall in love with you,
-seeing you pull that rope......");
+seeing you pull that rope...");
     MsgDisp("主人公","Geez!");
     ChEye(4,0);
     ChMouth(4,3);

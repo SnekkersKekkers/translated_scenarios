@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah right......｛風真＊＊｝ said he had
+MsgDisp("主人公","(Ah right...｛風真＊＊｝ said he had
 something he wanted to talk to me about
-......I wonder if something happened?)");
+...I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -33,7 +33,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110101000_01_010");
-MsgDisp("Kazama","That's fine but......");
+MsgDisp("Kazama","That's fine but...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
@@ -42,17 +42,17 @@ ChMotion(1,1);
 VoicePlay("G110101000_01_020");
 MsgDisp("Kazama","Apparently one of the customers at the
 venue wanted me to do another auction job.");
-MsgDisp("主人公","Ehh......!
+MsgDisp("主人公","Ehh...!
 If ｛風真＊＊｝ wants to do it,
 why not give it a go?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110101000_01_030");
-MsgDisp("Kazama","That's right huh......");
+MsgDisp("Kazama","That's right huh...");
 MsgDisp("主人公","(｛風真＊＊｝ tends to overthink things, so
 even if it's just a little, I hope I can
-give him a bit of push......)");
+give him a bit of push...)");
 while (1){
     RunEverydaySksp(1,0,0,0,1,1);
     if (RunEverydaySkspRsltGet()){
@@ -82,7 +82,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110101000_01_080");
 MsgDisp("Kazama","I like being able to see all sorts of
-items at auctions......");
+items at auctions...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);
@@ -93,7 +93,7 @@ if he still lets me does it.");
 MsgDisp("主人公","I hope he understands.");
 MsgDisp("主人公","(I hope we get to see
 ｛風真＊＊｝ hosting
-again......)");
+again...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

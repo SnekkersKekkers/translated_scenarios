@@ -137,7 +137,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("P240700000_07_100");
 MsgDisp("Mikage","\"What meaning is there in meekly allowing
-time to pass when you aren't there?\"......");
+time to pass when you aren't there?\"...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

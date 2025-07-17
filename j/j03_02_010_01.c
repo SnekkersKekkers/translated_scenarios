@@ -18,7 +18,7 @@ I just got your message.");
     MsgDisp("主人公","So, what do you say?
 Are you able to go?");
     VoicePlay("J030201001_02_010");
-    MsgDisp("Sassa","Sorry, I have plans on that day......");
+    MsgDisp("Sassa","Sorry, I have plans on that day...");
     MsgDisp("主人公","I see, that's too bad.");
     VoicePlay("J030201001_02_020");
     MsgDisp("Sassa","Yeah.
@@ -27,7 +27,7 @@ Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(At least he called to say he can't
-go......)");
+go...)");
     break ;
     case 3:
     MsgDisp("主人公","(Ah, a phone call from
@@ -80,7 +80,7 @@ fresh and nice. Glad I heard it. See you
 later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Huhh, too bad he can't go......)");
+    MsgDisp("主人公","(Huhh, too bad he can't go...)");
     break ;
     default :
     DbgAssert(1);

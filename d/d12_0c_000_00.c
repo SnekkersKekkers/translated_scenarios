@@ -32,7 +32,7 @@ VoicePlay("D120C00000_05_010");
 MsgDisp("Hiiragi","That's correct.
 But I think it might be troublesome if we
 were to invite him in the staff room?");
-MsgDisp("主人公","Yeah......Ah! I think
+MsgDisp("主人公","Yeah...Ah! I think
 ｛御影＊＊｝ is actually
 in the Gardening Club around this time?");
 BGMStop();
@@ -55,7 +55,7 @@ MsgDisp("Mikage?","You guysー You have a good nose, huh?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4,1);
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 ｛御影＊＊｝?");
 VoicePlay("D120C00000_07_010");
 MsgDisp("Mikage","Come this way, over here.");
@@ -63,15 +63,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D120C00000_06_020");
-MsgDisp("Himuro","Nose......?
+MsgDisp("Himuro","Nose...?
 What's that mean?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D120C00000_05_020");
-MsgDisp("Hiiragi","I see......?
+MsgDisp("Hiiragi","I see...?
 Shall we go then?");
-MsgDisp("主人公","Okay......");
+MsgDisp("主人公","Okay...");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
@@ -95,7 +95,7 @@ BGMPlay("BGM_SCHOOL_LUNCH",0.01,0.9);
 SEPlay("EV_SE_807",1);
 ScrFadeIn(0);
 SEVol(0.2,5);
-MsgDisp("主人公","Woah, it looks delicious......!");
+MsgDisp("主人公","Woah, it looks delicious...!");
 StlEyeOpenLevel(5,0);
 VoicePlay("D120C00000_05_030");
 MsgDisp("Hiiragi","Yes.
@@ -118,7 +118,7 @@ StlEye(6,0,0);
 StlEyeOpenLevel(6,5,1);
 StlMouth(6,0);
 VoicePlay("D120C00000_06_030");
-MsgDisp("Himuro","...... Yeah.
+MsgDisp("Himuro","... Yeah.
 Thanks for the food.");
 MsgDisp("主人公","Hehe.
 ｛氷室＊＊｝, it's yummy, right?");
@@ -126,12 +126,12 @@ StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("D120C00000_06_040");
 MsgDisp("Himuro","I know.
-Maybe I'll try a small piece......");
+Maybe I'll try a small piece...");
 StlEye(6,0);
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D120C00000_05_040");
-MsgDisp("Hiiragi","...... Delicious.
+MsgDisp("Hiiragi","... Delicious.
 It feels like we're camping even though
 we're at school.");
 MsgClose();
@@ -142,14 +142,14 @@ StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D120C00000_06_050");
 MsgDisp("Himuro","The vegetables have a slightly sweet
-flavor......");
+flavor...");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("D120C00000_07_050");
 MsgDisp("Mikage","Haha, that's what I mean.
 The grill combined with the thrill of
 danger makes the vegetables delicious.");
-MsgDisp("主人公","......The thrill of danger?");
+MsgDisp("主人公","...The thrill of danger?");
 StlEye(7,2);
 StlEye(6,0);
 StlMouth(6,0);
@@ -175,7 +175,7 @@ None of the other staff members will come
 this way.");
 StlEye(6,0);
 StlMouth(6,0);
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 StlEye(5,2);
 StlMouth(5,1);
 VoicePlay("D120C00000_05_050");
@@ -234,7 +234,7 @@ Let's get going before they find out.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(Haa, that was fun! Having a barbecue at
-school...... ｛御影＊＊｝,
+school... ｛御影＊＊｝,
 thank you so much!)");
 BGMStop();
 MsgClose();

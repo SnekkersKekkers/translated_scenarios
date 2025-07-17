@@ -4,7 +4,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G020440002_04_000");
 MsgDisp("One firefly, two fireflies,
-firefly......");
+firefly...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -22,12 +22,12 @@ ChMotion(4,1,1);
 VoicePlay("G020440002_04_030");
 MsgDisp("Nanatsumori","Right.
 I want to be with you until morning.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020440002_04_040");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -39,13 +39,13 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020440002_04_060");
-MsgDisp("Nanatsumori","Crap......
-Whats with this atmosphere......
+MsgDisp("Nanatsumori","Crap...
+Whats with this atmosphere...
 My mouth is running off on its own.");
 VoicePlay("G020440002_04_070");
 MsgDisp("Nanatsumori","Together until morning?
 What is that, how pompous, fishy,
-sleazyー......");
+sleazyー...");
 MsgDisp("主人公","Um, ｛七ツ森＊｝?");
 ChEye(4,4);
 ChMouth(4,0);
@@ -59,7 +59,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020440002_04_090");
-MsgDisp("Nanatsumori","After officially becoming lovers......
+MsgDisp("Nanatsumori","After officially becoming lovers...
 I'll come back.");
 MsgDisp("主人公","(Officially becoming lovers...)");
 BGMStop();

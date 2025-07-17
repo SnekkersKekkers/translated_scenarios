@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040421102_04_010");
-    MsgDisp("Nanatsumori","ＯＫ! Be careful when you're feeding the
+    MsgDisp("Nanatsumori","OK! Be careful when you're feeding the
 camels, okay? There's a chance they'll
 spit at you.");
     MsgDispSksp(1,0);

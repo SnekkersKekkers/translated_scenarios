@@ -26,7 +26,7 @@ ChEye ( 4,0 ) ;
 ChMouth ( 4,4 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150002401_04_010" ) ;
-MsgDisp ( "Nanatsumori","Not really......
+MsgDisp ( "Nanatsumori","Not really...
 This is normal to me." ) ;
 MsgDisp ( "主人公","Yeah, he's got his uniform on properly." ) ;
 ChEye ( 4,0 ) ;

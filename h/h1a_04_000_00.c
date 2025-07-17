@@ -25,7 +25,7 @@ club manager!)");
     ScrFadeIn(0);
     VoicePlay("H1A0400000_04_020");
     MsgDisp("Nanatsumori","Congrats on the win.");
-    MsgDisp("主人公","｛七ツ森＊｝......
+    MsgDisp("主人公","｛七ツ森＊｝...
 Thank you!");
     VoiceEVSPlay(4);
     VoicePlay("H1A0400000_04_030");
@@ -36,7 +36,7 @@ Thank you!");
     MsgDisp("Nanatsumori","I think a big reason why they were able to
 win here was because of your dedication to
 the club.");
-    MsgDisp("主人公","｛七ツ森＊｝......");
+    MsgDisp("主人公","｛七ツ森＊｝...");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,1,1);

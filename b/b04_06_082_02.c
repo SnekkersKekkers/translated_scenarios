@@ -45,7 +45,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040608202_06_030");
         MsgDisp("Himuro","I was just a bit careless.
 Forget about it.");
-        MsgDisp("主人公","............");
+        MsgDisp("主人公","......");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

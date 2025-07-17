@@ -1,4 +1,4 @@
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -11,7 +11,7 @@ ChMotion(4,0,1);
 VoicePlay("B070400001_04_610");
 MsgDisp("Nanatsumori","W-What's up.
 You're suddenly staring at me, stop it.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -21,8 +21,8 @@ MsgDisp("主人公","That's fine?
 But, I'm gonna stare.");
 ChMouthOpenLevel(4,0);
 VoicePlay("B070400001_04_630");
-MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","............");
+MsgDisp("Nanatsumori","......");
+MsgDisp("主人公","......");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);

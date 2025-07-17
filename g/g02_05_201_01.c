@@ -19,10 +19,10 @@ MsgDisp("Hiiragi","And I thought it would continue like that
 forever.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520101_05_040");
-MsgDisp("Hiiragi","...... But, I was wrong.
+MsgDisp("Hiiragi","... But, I was wrong.
 We drifted apart in one go.");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -43,7 +43,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("G020520101_05_070");
 MsgDisp("Hiiragi","In fact, I might have to step off the
 stage that features you as the heroine.");
-MsgDisp("主人公","I'm......the heroine?");
+MsgDisp("主人公","I'm...the heroine?");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020520101_05_080");
@@ -59,16 +59,16 @@ ChMotion(5,0);
 VoicePlay("G020520101_05_100");
 MsgDisp("Hiiragi","But I've experienced that place before.
 And that is why, I will return to it.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020520101_05_110");
 MsgDisp("Hiiragi","It's alright.
 This script is yet to be finished.
 Wouldn't you say so?");
-MsgDisp("主人公","(A stage where I'm the heroine......?
+MsgDisp("主人公","(A stage where I'm the heroine...?
 I don't know how I should respond to
-that......)");
+that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

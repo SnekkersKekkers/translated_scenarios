@@ -13,7 +13,7 @@ switch (ChPrmGet(7,6)){
 That's very high school-like.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝.
 Is that so?
-I like books, so......");
+I like books, so...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -36,7 +36,7 @@ Keep it up.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Huh......
+    MsgDisp("主人公","(Huh...
 ｛御影＊＊｝, didn't you
 come to look for books?)");
     MsgClose();
@@ -88,7 +88,7 @@ too?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Then, he was half-serious......?
+    MsgDisp("主人公","(Then, he was half-serious...?
 Does ｛御影＊＊｝ really
 want a part-time job?)");
     MsgClose();
@@ -114,7 +114,7 @@ The store is quite busy today.");
 Sorry if I bothered you.
 See you.");
     ChClose(7);
-    MsgDisp("主人公","Ah, ｛御影＊＊｝......
+    MsgDisp("主人公","Ah, ｛御影＊＊｝...
 Thank you very much!");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -122,7 +122,7 @@ Thank you very much!");
     MsgDisp("主人公","(Phew, I'm done.
 The store might finally be calming down.)");
     MsgDisp("主人公","(｛御影＊＊｝ came all that way just to
-check on me......)");
+check on me...)");
     VoicePlay("I250700000_42_010");
     MsgDisp("Manager","Just now, your homeroom teacher came by
 with gifts for everyone.");

@@ -27,7 +27,7 @@ Another time?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 It can't be helped.
 I'll go home alone");
     break ;
@@ -52,7 +52,7 @@ Well, then...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 It can't be helped.
 I'll go home alone.)");
     break ;

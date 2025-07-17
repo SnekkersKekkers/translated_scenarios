@@ -20,7 +20,7 @@ wrong?");
     VoicePlay("J040400000_04_010");
     MsgDisp("Nanatsumori","This Sunday.
 Are you free?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand......");
+    MsgSel("Yeah, I'm free.", "I have to run an errand...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -29,7 +29,7 @@ Are you free?");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("J040400000_04_020");
-        MsgDisp("Nanatsumori","Errands......
+        MsgDisp("Nanatsumori","Errands...
 Then I guess I don't have a choice.");
         MsgDisp("主人公","Sorry.");
         ChEye(4,2);
@@ -44,7 +44,7 @@ I'll ask you out again without fail.");
         MsgClose();
         ChClose(4,0,30);
         Wait(30);
-        MsgDisp("主人公","(This Sunday......
+        MsgDisp("主人公","(This Sunday...
 What did he need?)");
         MsgClose();
         ScrFadeOut(0,0);

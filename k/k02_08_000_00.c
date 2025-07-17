@@ -33,7 +33,7 @@ ChMotion(8,2,1);
 ChCheek(8,6);
 VoicePlay("K020800000_08_030");
 MsgDisp("Shirahane","I thought super hard about you when I was
-choosin' this......
+choosin' this...
 I'll be happy if you end up likin' it.");
 MsgDisp("主人公","Hehe, thanks!");
 ChEye(8,3);

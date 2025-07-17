@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S070600000_06_000");
-    MsgDisp("Himuro","Wow, so many people......");
+    MsgDisp("Himuro","Wow, so many people...");
     MsgDisp("主人公","It's because it's New Years.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -23,7 +23,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S070600000_06_020");
-    MsgDisp("Himuro","Haa......");
+    MsgDisp("Himuro","Haa...");
     break ;
     case 3:
     ChEye(6,0);
@@ -33,7 +33,7 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S070600000_06_030");
-    MsgDisp("Himuro","I prepared myself but......
+    MsgDisp("Himuro","I prepared myself but...
 It's still more crowded than I expected.");
     MsgDisp("主人公","It's because it's New Year.");
     ChEye(6,0);
@@ -55,7 +55,7 @@ thing in a larger area.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S070600000_06_060");
-    MsgDisp("Himuro","...... Or something like that.
+    MsgDisp("Himuro","... Or something like that.
 I guess there's no point in complaining
 about it now.");
     break ;
@@ -66,7 +66,7 @@ about it now.");
     ChMotion(6,0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","It's crowded......");
+    MsgDisp("主人公","It's crowded...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -84,13 +84,13 @@ I'll be careful——");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S070600000_06_080");
-    MsgDisp("Himuro","It's like I thought......
+    MsgDisp("Himuro","It's like I thought...
 Can't be helped.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("S070600000_06_090");
-    MsgDisp("Himuro","......Yeah.");
+    MsgDisp("Himuro","...Yeah.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -99,7 +99,7 @@ Can't be helped.");
     VoicePlay("S070600000_06_100");
     MsgDisp("Himuro","Let's hold hands so you don't fall or get
 lost.");
-    MsgDisp("主人公","Uh, sure......
+    MsgDisp("主人公","Uh, sure...
 Go ahead.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -114,8 +114,8 @@ Go ahead.");
     SEWait();
     Wait(50,0);
     VoicePlay("S070600000_06_120");
-    MsgDisp("Himuro","..................");
-    MsgDisp("主人公","(｛氷室＊＊｝ and I went silent......)");
+    MsgDisp("Himuro","......");
+    MsgDisp("主人公","(｛氷室＊＊｝ and I went silent...)");
     break ;
     default :
     DbgAssert(1);

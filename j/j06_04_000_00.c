@@ -1,7 +1,7 @@
 ChEyeOpenLevel(4,#1);
 ChMouthOpenLevel(4,#1);
 ChCheek(4,0);
-MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
+MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){
@@ -61,8 +61,8 @@ I'm looking forward to Sunday!)");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("J060400000_04_030");
-        MsgDisp("Nanatsumori","Ahh ...... no good then?");
-        MsgDisp("主人公","Yeah......");
+        MsgDisp("Nanatsumori","Ahh ... no good then?");
+        MsgDisp("主人公","Yeah...");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("J060400000_04_040");
@@ -75,7 +75,7 @@ Bye.");
         ChClose(4,0,30);
         Wait(30);
         MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that ......)");
+I'm sorry I did that ...)");
         break ;
         default :
         DbgAssert(1);

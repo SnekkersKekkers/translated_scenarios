@@ -1,7 +1,7 @@
 BGOpen("sc130",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Come to think of it......
+MsgDisp("主人公","(Come to think of it...
 Isn't today Kuya's graduation?)");
 MsgDisp("主人公","(I might not make it in time but shouldn't
 I go to Hanegasaki High School?)");
@@ -15,9 +15,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hmm......
+MsgDisp("主人公","(Hmm...
 Like I thought, he probably went home
-already......)");
+already...)");
 VoicePlay("D030901100_09_000");
 MsgDisp("Kuya?","Is there a problem?");
 MsgClose();
@@ -33,7 +33,7 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901100_09_010");
 MsgDisp("Kuya","I got the feeling you were coming to see
-me......
+me...
 So I came to see you too.");
 MsgDisp("主人公","Hehe!
 Congratulations on your graduation.");
@@ -49,7 +49,7 @@ ChMotion(9,0,1);
 VoicePlay("D030901100_09_030");
 MsgDisp("Kuya","I may have just graduated from high
 school, but now it's time for the real
-thing, ......Right?");
+thing, ...Right?");
 MsgDisp("主人公","Yeah!");
 MsgClose();
 ScrFadeOut(0);
@@ -77,7 +77,7 @@ VoicePlay("D030901100_09_050");
 MsgDisp("Kuya","Yeah.
 Starting tomorrow, I'll be taking a gap
 year.");
-MsgDisp("主人公","......Do you regret anything?");
+MsgDisp("主人公","...Do you regret anything?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);
@@ -89,7 +89,7 @@ refreshing.");
 ChEye(9,0);
 ChMouth(9,0);
 VoicePlay("D030901100_09_070");
-MsgDisp("Kuya","......Hey.");
+MsgDisp("Kuya","...Hey.");
 MsgDisp("主人公","Yes?");
 ChEye(9,0);
 ChMouth(9,4);
@@ -101,13 +101,13 @@ ChMotion(9,4,1);
 VoicePlay("D030901100_09_090");
 MsgDisp("Kuya","Because of that, I think we'll see each
 other less often.");
-MsgDisp("主人公","Kuya-san......");
+MsgDisp("主人公","Kuya-san...");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 ChCheek(9,5);
 VoicePlay("D030901100_09_100");
-MsgDisp("Kuya","So...... don't forget about me.
+MsgDisp("Kuya","So... don't forget about me.
 Think about me once in a while.");
 MsgDisp("主人公","Hehe, of course.");
 ChEye(9,3);
@@ -124,7 +124,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChCheek(9,7);
 VoicePlay("D030901100_09_120");
-MsgDisp("Kuya","......But can I give you a call when I
+MsgDisp("Kuya","...But can I give you a call when I
 start to get lonely?");
 MsgDisp("主人公","Eh?
 Of course.
@@ -138,7 +138,7 @@ MsgDisp("Kuya","Thank you.
 Let's continue to support each other from
 now on.");
 MsgDisp("主人公","(I will also take entrance exams in
-April......Kuya-san is also working hard,
+April...Kuya-san is also working hard,
 so let's do our best!)");
 BGMStop();
 MsgClose();

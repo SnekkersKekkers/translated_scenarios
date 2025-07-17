@@ -2,7 +2,7 @@ BGOpen("sc601",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Before we knew it, it was almost time for
 the Inter-High.
-I hope everyone does their best......)");
+I hope everyone does their best...)");
 VoicePlay("G110200900_34_000");
 MsgDisp("Member","The tournament is coming up soon, so
 players should take good care of
@@ -35,7 +35,7 @@ VoicePlay("G110200900_02_010");
 MsgDisp("Sassa","Yeah, seems like you could be an athlete.");
 MsgDisp("主人公","(Huh?
 ｛颯砂＊＊｝, it seems like your
-arms are stiffer than usual today......?)");
+arms are stiffer than usual today...?)");
 while (1){
     RunEverydaySksp(2,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -87,7 +87,7 @@ ChMotion(2,0);
 MsgDisp("Sassa","Today I'm going to relax and loosen up my
 muscles. I almost ended up regretting it,
 before the real thing.");
-MsgDisp("主人公","(It's already the interhigh......
+MsgDisp("主人公","(It's already the interhigh...
 Let's cheer for ｛颯砂＊＊｝ so
 he can finish satisfied!)");
 MsgClose();

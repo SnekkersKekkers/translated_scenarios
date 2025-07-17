@@ -30,7 +30,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("D020100000_01_020");
-MsgDisp("Kazama","......Have I?");
+MsgDisp("Kazama","...Have I?");
 MsgDisp("主人公","You've gotten so much——");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -47,7 +47,7 @@ ChMotion(1,3);
 VoicePlay("D020100000_01_040");
 MsgDisp("Kazama","Of course I have!
 Compared to how I was a few years ago.");
-MsgDisp("主人公","Ugh......");
+MsgDisp("主人公","Ugh...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -73,7 +73,7 @@ NSSOpen(1,254,0,0,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_121");
-MsgDisp("Kazama","Looks like it's going well......
+MsgDisp("Kazama","Looks like it's going well...
 The wish I made to the pinwheel.");
 MsgDisp("主人公","I see.
 If ｛風真＊＊｝ thinks so,
@@ -84,7 +84,7 @@ NSSMouthOpenLevel(1,0);
 VoicePlay("D020100000_01_130");
 MsgDisp("Kazama","Hm?");
 MsgDisp("主人公","｛風真＊＊｝'s wish is also my
-wish, so......");
+wish, so...");
 NSSEye(1,6);
 NSSMouth(1,3);
 NSSCheek(1,7);
@@ -98,7 +98,7 @@ NSSClose();
 SEStop("EV_SE_754",0.01);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
-MsgDisp("主人公","Kyaa∈ There's a puddle here......");
+MsgDisp("主人公","Kyaa∈ There's a puddle here...");
 BGOpen("sc100",0);
 MsgClose();
 ChOpen(1,254,0,3,3,#1,#1,0,0);
@@ -107,7 +107,7 @@ ChMotion(1,3);
 VoicePlay("D020100000_01_150");
 MsgDisp("Kazama","Hahaha! A bubbly and clumsy person. That's
 good. You're too funny.");
-MsgDisp("主人公","Geez......");
+MsgDisp("主人公","Geez...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1,0,30);
@@ -132,7 +132,7 @@ shoes and let me carry you until we get to
 the shoe lockers.");
 MsgDisp("Kazama","Here, piggyback ride.");
 MsgDisp("主人公","W-Wait, ｛風真＊＊｝∋
-I said I'm fine so......
+I said I'm fine so...
 Hey, everyone is staring at us∋");
 SEPlay("EV_SE_857",0.7,0.3);
 SEPlay("EV_SE_515",0.2,0.4);

@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B360618001_06_000");
-MsgDisp("Himuro","Phew......
+MsgDisp("Himuro","Phew...
 I'm tired.
 I did my best today.");
 MsgDisp("主人公","Was it not fun?");
@@ -27,7 +27,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360618001_06_020");
-MsgDisp("Himuro","......Plus, everyone's after you.");
+MsgDisp("Himuro","...Plus, everyone's after you.");
 MsgDisp("主人公","Huh?
 That's not true——");
 ChEye(6,0);
@@ -50,20 +50,20 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360618001_06_050");
-MsgDisp("Himuro","......Ah.");
+MsgDisp("Himuro","...Ah.");
 MsgDisp("主人公","I- I'm sorry.");
 ChEye(6,3);
 ChMouth(6,3);
 ChMotion(6,5);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360618001_06_060");
-MsgDisp("Himuro","......Pfft, hehe.");
+MsgDisp("Himuro","...Pfft, hehe.");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);
 VoicePlay("B360618001_06_070");
-MsgDisp("Himuro","It's nothing...... I just think from an
+MsgDisp("Himuro","It's nothing... I just think from an
 outside perspective, that might've looked
 like a lover's quarrel.");
 ChEye(6,0);

@@ -57,7 +57,7 @@ returned.");
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040506202_05_040");
-        MsgDisp("Hiiragi","......");
+        MsgDisp("Hiiragi","...");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);

@@ -27,7 +27,7 @@ to say it was boring.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623200_06_020");
-    MsgDisp("Himuro","...Heeh?");
+    MsgDisp("Himuro","...Ehhh?");
     MsgDateResultDisp();
     break ;
     case 2:

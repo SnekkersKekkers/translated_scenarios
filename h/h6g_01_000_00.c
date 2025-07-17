@@ -44,7 +44,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("H6G0100000_01_050");
 MsgDisp("Kazama","Don't forget!
-...... Geez.");
+... Geez.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);

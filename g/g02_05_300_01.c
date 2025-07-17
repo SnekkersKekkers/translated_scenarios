@@ -3,7 +3,7 @@ ChOpen(5,255,0,4,4,#1,#1,0,0);
 ChMotion(5,4);
 VoicePlay("G020530001_05_000");
 MsgDisp("Hiiragi","Some fireflies are with their companions,
-and some are alone......
+and some are alone...
 It's quite varied, I suppose.");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(5,0);
@@ -34,7 +34,7 @@ VoicePlay("G020530001_05_040");
 MsgDisp("Hiiragi","Thank you, always.
 I can manage school life thanks to
 everyone's help.");
-MsgDisp("主人公","｛柊＊＊＊｝......");
+MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("G020530001_05_050");
@@ -43,8 +43,8 @@ Those kind fireflies are gathering around
 the one that was alone earlier.");
 ChEye(5,4);
 VoicePlay("G020530001_05_060");
-MsgDisp("Hiiragi","That's a relief......");
-MsgDisp("主人公","(｛柊＊＊＊｝......
+MsgDisp("Hiiragi","That's a relief...");
+MsgDisp("主人公","(｛柊＊＊＊｝...
 From now on too, I hope you'll still be
 glad you came to Haba High.)");
 BGMStop();

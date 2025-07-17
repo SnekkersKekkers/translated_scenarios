@@ -9,7 +9,7 @@ VoicePlay("J010600001_47_010");
 MsgDisp("Voice Mail","The person you're trying to reach is
 unable to answer the phone at the moment.
 Please leave a message.");
-MsgDisp("主人公","Huh, what should I do......");
+MsgDisp("主人公","Huh, what should I do...");
 MsgSel("Leave a message","Hang up the phone");
 switch (MsgSelRsltGet()){
     case 0:

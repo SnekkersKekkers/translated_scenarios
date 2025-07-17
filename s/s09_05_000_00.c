@@ -58,7 +58,7 @@ So many people.");
     ChMotion(5,4);
     VoicePlay("S090500000_05_050");
     MsgDisp("Hiiragi","Are you a puller or a non-puller?");
-    MsgSel("I'm a puller!","I'm not a puller......");
+    MsgSel("I'm a puller!","I'm not a puller...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,3);
@@ -101,7 +101,7 @@ too?");
     ChMotion(5,0);
     VoicePlay("S090500000_05_090");
     MsgDisp("Hiiragi","It seems so.
-...... Should we get in line too?");
+... Should we get in line too?");
     MsgSel("Let's line up.","I'm tired, let's not");
     switch (MsgSelRsltGet()){
         case 0:
@@ -131,9 +131,9 @@ Which hand should I use to pull?");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("S090500000_05_120");
-        MsgDisp("Hiiragi","Maybe after a little break then......
-Ah, never mind......");
-        MsgDisp("主人公","(......
+        MsgDisp("Hiiragi","Maybe after a little break then...
+Ah, never mind...");
+        MsgDisp("主人公","(...
 He looks disappointed.
 Did I do something wrong?)");
         MsgClose();

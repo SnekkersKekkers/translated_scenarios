@@ -13,7 +13,7 @@ VoicePlay("B070300001_03_160");
 MsgDisp("Honda","When I was in middle school I would spend
 all my time in the library by myself, you
 know.");
-MsgDisp("主人公","I see......");
+MsgDisp("主人公","I see...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -40,7 +40,7 @@ MsgDisp("Honda","Isn't that exciting?
 I think so!");
 MsgDisp("主人公","(｛本多＊＊｝ seems to be enjoying himself!
 He's really living life to the
-fullest......)");
+fullest...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

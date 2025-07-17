@@ -3,6 +3,6 @@ ChMouth(7,0);
 ChMotion(7,4);
 ChCheek(7,5);
 VoicePlay("SS0407451_07_000");
-MsgDisp("Mikage","It's bad......");
+MsgDisp("Mikage","It's bad...");
 MsgClose();
 ChCheek(7,0);

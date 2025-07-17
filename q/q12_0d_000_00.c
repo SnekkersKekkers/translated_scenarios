@@ -10,12 +10,12 @@ ChMotion(22,0);
 ScrFadeIn(0);
 MsgDisp("主人公","We arrived.
 It's finally the end of the school
-trip......");
+trip...");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Q120D00000_21_000");
-MsgDisp("Michiru","Everything was so fun......
+MsgDisp("Michiru","Everything was so fun...
 It's such a bummer that it's over.");
 ChEye(22,2);
 ChMouth(22,3);
@@ -30,7 +30,7 @@ VoicePlay("Q120D00000_22_010");
 MsgDisp("Hikaru","We had such a good time on the school
 trip, let's go on a private trip next
 time! Of course, just the three of us♪");
-MsgDisp("主人公","......Yeah! ｛みちる＊｝,
+MsgDisp("主人公","...Yeah! ｛みちる＊｝,
 ｛ひかる＊｝, thank you
 so much for being with me!");
 ChEye(21,0);

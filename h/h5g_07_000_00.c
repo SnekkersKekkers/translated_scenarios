@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("H6G0700000_07_000");
 MsgDisp("Mikage","Yo, congrats.");
 MsgDisp("主人公","｛御影＊＊｝?
-By congrats, you mean......");
+By congrats, you mean...");
 VoicePlay("H6G0700000_07_010");
 ChEye(7,0);
 ChMouth(7,0);
@@ -14,7 +14,7 @@ MsgDisp("Mikage","I heard.
 That the brass band won an award in a
 competition.");
 MsgDisp("主人公","Ah, yes.
-...... Could it be that you came all this
+... Could it be that you came all this
 way to celebrate?");
 VoicePlay("H6G0700000_07_020");
 ChEye(7,0);

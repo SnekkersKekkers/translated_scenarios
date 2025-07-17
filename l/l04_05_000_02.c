@@ -6,20 +6,20 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,2);
     ChMotion(5,0,1);
     VoicePlay("L040500002_05_000");
-    MsgDisp("Hiiragi","This is a famous brand...... I've received
-it once before from a patron. ......You're
+    MsgDisp("Hiiragi","This is a famous brand... I've received
+it once before from a patron. ...You're
 giving it to me?");
     MsgDisp("主人公","Yeah!");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("L040500002_05_010");
-    MsgDisp("Hiiragi","I see...... I suppose it suits me. Well,
+    MsgDisp("Hiiragi","I see... I suppose it suits me. Well,
 thank you. Farewell.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Was I a little too excited......?)");
+    MsgDisp("主人公","(Was I a little too excited...?)");
     break ;
     case 3:
     ChEye(5,4);
@@ -68,7 +68,7 @@ seems happy!)");
     ChMouth(5,2);
     ChMotion(5,0,1);
     VoicePlay("L040500002_05_070");
-    MsgDisp("Hiiragi","This is......
+    MsgDisp("Hiiragi","This is...
 We often receive it from our patrons.
 It's from one of the finest shops.");
     MsgDisp("主人公","Hehe, I went all out.");
@@ -99,14 +99,14 @@ important. You gave me your time.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("L040500002_05_110");
-    MsgDisp("Hiiragi","And...... would you give me your time to
+    MsgDisp("Hiiragi","And... would you give me your time to
 eat this as well?
 Let us eat it together.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Thank goodness......
+    MsgDisp("主人公","(Thank goodness...
 ｛柊＊＊＊｝ seemed happy!)");
     break ;
     default :

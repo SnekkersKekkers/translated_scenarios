@@ -8,8 +8,8 @@ ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110600400_06_000");
 MsgDisp("Himuro","Ah, it's you.
 Today I plan on going to the beach.
-...... If you want, you can come?");
-MsgDisp("主人公","Yes......!");
+... If you want, you can come?");
+MsgDisp("主人公","Yes...!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
@@ -26,9 +26,9 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600400_06_010");
-MsgDisp("Himuro","Hey......
+MsgDisp("Himuro","Hey...
 Why don't you practice swimming a bit?");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -49,14 +49,14 @@ ChMotion(6,1);
 VoicePlay("G110600400_06_040");
 MsgDisp("Himuro","As long as you have the will, that is.
 My training is rigorous.");
-MsgDisp("主人公","......Please go easy on me.");
+MsgDisp("主人公","...Please go easy on me.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_050");
 MsgDisp("Himuro","Ha?
 Don't you want to be able to swim?");
-MsgDisp("主人公","It's not that but......");
+MsgDisp("主人公","It's not that but...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -77,7 +77,7 @@ VoicePlay("G110600400_06_080");
 MsgDisp("Himuro","If you can only swim half-heartedly,
 you'll grow careless. Therefore it's
 better to become a careful swimmer.");
-MsgDisp("主人公","I-I understand......
+MsgDisp("主人公","I-I understand...
 I'll do my best.");
 ChEye(6,0);
 ChMouth(6,1);

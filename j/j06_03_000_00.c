@@ -1,6 +1,6 @@
 ChEyeOpenLevel(3,#1);
 ChCheek(3,0);
-MsgSel("Yeah, I'm coming!","Uh, sorry about that ......");
+MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){
@@ -49,7 +49,7 @@ Is this a date?)");
         VoicePlay("J060300000_03_030");
         MsgDisp("Honda","Oh, I'm sorry!
 I was so happy.
-I didn't think that far ahead......");
+I didn't think that far ahead...");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -106,7 +106,7 @@ suddenly.");
         ChClose(3);
         Wait(30);
         MsgDisp("主人公","(He took the time to invite me over, I'm
-sorry I did that ......)");
+sorry I did that ...)");
         break ;
         case 4:
         case 5:
@@ -114,8 +114,8 @@ sorry I did that ......)");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("J060300000_03_090");
-        MsgDisp("Honda","Eh ......?");
-        MsgDisp("主人公","Oh, um, ......");
+        MsgDisp("Honda","Eh ...?");
+        MsgDisp("主人公","Oh, um, ...");
         ChEye(3,1);
         ChMouth(3,4);
         ChMotion(3,5);
@@ -129,7 +129,7 @@ Now I finally understand.");
         MsgDisp("Honda","I was getting carried away all by myself
 again. That's why I wasn't prepared for
 the rejection.");
-        MsgDisp("主人公","Uh...... sorry");
+        MsgDisp("主人公","Uh... sorry");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,1);
@@ -148,7 +148,7 @@ See ya?");
         ChClose(3);
         Wait(30);
         MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that ......)");
+I'm sorry I did that ...)");
         break ;
         default :
         DbgAssert(1);

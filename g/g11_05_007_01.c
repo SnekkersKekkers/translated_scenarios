@@ -2,7 +2,7 @@ BGOpen("sc609",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Next week is the clean-up campaign
-week......)");
+week...)");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
@@ -60,7 +60,7 @@ Wait(10,0);
 ChEyeOpenLevel(5,9);
 SEPlay("EV_SE_712");
 VoicePlay("G110500701_05_050");
-MsgDisp("Hiiragi","Is that so......
+MsgDisp("Hiiragi","Is that so...
 When I just get to hear you laugh, I'm
 happy for some reason.");
 ChMotion(5,2);

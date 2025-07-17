@@ -16,14 +16,14 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D100700000_07_010");
 MsgDisp("Mikage","You looked kind of sleepy in class.");
-MsgDisp("主人公","Did I really......?");
+MsgDisp("主人公","Did I really...?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D100700000_07_020");
 MsgDisp("Mikage","Well, that sincerity and absentmindedness
 is part of your charm, huh?");
-MsgDisp("主人公","Eh, that......");
+MsgDisp("主人公","Eh, that...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

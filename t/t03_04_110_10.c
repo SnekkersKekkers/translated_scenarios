@@ -10,6 +10,6 @@ developed as a model.");
 MsgDisp("","He continues to work as a model, although
 he is taking it easy. At vocational
 school, people immediately found out he
-was the Model, Nana...... We both laughed
+was the Model, Nana... We both laughed
 about it.");
 MsgClear();

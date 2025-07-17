@@ -4,9 +4,9 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's from Habatcher's Editorial
 Department.
-It says......");
+It says...");
 MsgDisp("主人公","(\"You received permission to interview the
-Habataki Theater Company\" ......
+Habataki Theater Company\" ...
 Alright, let's go!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -25,13 +25,13 @@ SEStop("EV_SE_637",2);
 MsgDisp("主人公","(It looks like the play just finished.
 ｛柊＊＊＊｝ was really
 popular. Now, where are the dressing
-rooms......?)");
+rooms...?)");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("wf411",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Maybe this way......
-Ugh, I'm nervous......)");
+MsgDisp("主人公","(Maybe this way...
+Ugh, I'm nervous...)");
 SEPlay("EV_SE_049");
 ScrQuake(1);
 MsgClose();
@@ -51,7 +51,7 @@ VoiceEVSPlay(5);
 VoicePlay("D010500000_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
 What are you doing here?");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 ｛柊＊＊＊｝, is that you?");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500000_05_020");
@@ -75,7 +75,7 @@ VoicePlay("D010500000_05_050");
 MsgDisp("Hiiragi","Haha, that's the spirit.
 Wait a minute.
 I'll change my clothes and come back.");
-MsgDisp("主人公","Okay......!");
+MsgDisp("主人公","Okay...!");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -86,7 +86,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛柊＊＊＊｝ as a woman looks lovely......
+MsgDisp("主人公","(｛柊＊＊＊｝ as a woman looks lovely...
 He was so beautiful it made me nervous.)");
 VoicePlay("D010500000_05_060");
 MsgDisp("Hiiragi","Excuse me.
@@ -96,7 +96,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","(Ah......
+MsgDisp("主人公","(Ah...
 He's back to normal.)");
 ChEye(5,0);
 ChMouth(5,2);
@@ -105,7 +105,7 @@ VoicePlay("D010500000_05_070");
 MsgDisp("Hiiragi","Hm?
 You look a bit disappointed now.");
 MsgDisp("主人公","Ah, it's not like that!
-...... Alright, I'm sorry.");
+... Alright, I'm sorry.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -127,7 +127,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(Phew......That was a good interview!
+MsgDisp("主人公","(Phew...That was a good interview!
 ｛柊＊＊＊｝ shared a lot with
 me, even though we didn't have much time.)");
 MsgClose();

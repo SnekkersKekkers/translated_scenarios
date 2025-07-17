@@ -64,7 +64,7 @@ make it pretty but...)");
     ChNanaType(0);
     ChOpen(4,254,0,3,3,#1,#1,5,0,0,60);
     VoicePlay("P730400002_04_050");
-    MsgDisp("Nanatsumori","............");
+    MsgDisp("Nanatsumori","......");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 ...what's wrong?");
     ChMouthOpenLevel(4,#1);
@@ -76,7 +76,7 @@ I'm a little embarrassed.");
     ChMouth(4,3);
     ChMouthOpenLevel(4,0);
     VoicePlay("P730400002_04_070");
-    MsgDisp("Nanatsumori","............");
+    MsgDisp("Nanatsumori","......");
     ChMotion(4,1,1);
     ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_080");

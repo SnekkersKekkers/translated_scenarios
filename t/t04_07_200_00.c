@@ -23,7 +23,7 @@ Shouldn't the person who wants to do it be
 in charge?");
 MsgDisp("主人公","Eh∋
 ｛氷室＊＊｝, do you not want a
-barbecue......?");
+barbecue...?");
 VoicePlay("T040720000_07_020");
 MsgDisp("Mikage","Inori, so thats what you meant.");
 VoicePlay("T040720000_06_010");

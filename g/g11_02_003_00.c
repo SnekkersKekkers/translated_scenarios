@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(There's still time before my afternoon
-classes...... Maybe I'll try going out to
+classes... Maybe I'll try going out to
 the courtyard.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -43,7 +43,7 @@ ChOpen(2,100,1,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200300_02_020");
 MsgDisp("Sassa","Yes, this is good.");
-MsgDisp("主人公","Haa, haa...... really?");
+MsgDisp("主人公","Haa, haa... really?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -62,17 +62,17 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200300_02_050");
-MsgDisp("Sassa","Right, left, right left......
+MsgDisp("Sassa","Right, left, right left...
 Hey, let's do it together.");
 MsgDisp("主人公","Ehh?
-Right, left, right, left......");
+Right, left, right, left...");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200300_02_060");
-MsgDisp("Sassa","Right, left, right, left......
+MsgDisp("Sassa","Right, left, right, left...
 Hahaha!");
-MsgDisp("主人公","Hehe, I can't run anymore......!");
+MsgDisp("主人公","Hehe, I can't run anymore...!");
 SEStop("EV_SE_FOOT_037",1.5);
 MsgClose();
 ScrFadeOut(0);
@@ -98,7 +98,7 @@ BGMStop();
 SEPlay("EV_SE_672");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Phew......
+MsgDisp("主人公","(Phew...
 That was a bit tiring, but I had a lot of
 fun!)");
 MsgClose();

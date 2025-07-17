@@ -18,7 +18,7 @@ switch (ChPrmGet(6,6)){
     ChEyeOpenLevel(6,0);
     ScrFadeIn(0);
     VoicePlay("B060600010_06_000");
-    MsgDisp("Himuro","Was I a bad lead or......?");
+    MsgDisp("Himuro","Was I a bad lead or...?");
     MsgDispSksp(0);
     break ;
     default :

@@ -24,5 +24,5 @@ StlEye(21,0);
 VoicePlay("U160D00005_21_010");
 MsgDisp("Michiru","I'm sure Mari will be fine.
 Good luck.");
-MsgDisp("主人公","(A lady worthy of roses......
+MsgDisp("主人公","(A lady worthy of roses...
 Are boys the roses?)");

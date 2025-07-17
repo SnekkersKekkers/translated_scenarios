@@ -54,7 +54,7 @@ I hate when it's loud.");
     ChEye(6,0);
     ChMouth(6,0);
     VoicePlay("B030623000_06_040");
-    MsgDisp("Himuro","......It's like a big cradle.");
+    MsgDisp("Himuro","...It's like a big cradle.");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -85,7 +85,7 @@ I hate when it's loud.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B030623000_06_070");
-    MsgDisp("Himuro","......Seriously?");
+    MsgDisp("Himuro","...Seriously?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -100,7 +100,7 @@ I hate when it's loud.");
     ChMouth(6,2);
     ChMotion(6,2);
     VoicePlay("B030623000_06_080");
-    MsgDisp("Himuro",".........Are you really going to ride
+    MsgDisp("Himuro","......Are you really going to ride
 this?");
     break ;
     default :

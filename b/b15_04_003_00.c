@@ -44,7 +44,7 @@ Should I also respond by doing the same?");
 MsgDisp("主人公","That...");
 ChMouthOpenLevel(4,#1);
 VoicePlay("B150400300_04_070");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

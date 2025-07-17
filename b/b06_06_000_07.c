@@ -18,7 +18,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("B060600007_06_000");
     MsgDisp("Himuro","I'll invite you out again.
-...... Thanks for coming.");
+... Thanks for coming.");
     MsgDispSksp(0);
     break ;
     default :

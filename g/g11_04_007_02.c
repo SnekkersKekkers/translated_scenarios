@@ -27,7 +27,7 @@ ChOpen(4,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G110400702_04_010");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 MsgDisp("主人公","(｛七ツ森＊｝ is intensely looking at his
 phone.)");
 MsgDisp("主人公","(I wonder what he's looking at...)");
@@ -68,7 +68,7 @@ cool.");
 VoicePlay("G110400702_04_070");
 ChMouthOpenLevel(4,0);
 ChCheek(4,8);
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 VoicePlay("G110400702_04_080");
 ChMotion(4,1);
 ChMouthOpenLevel(4,#1);

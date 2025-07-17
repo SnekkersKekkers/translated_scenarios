@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Yeah, I think I'll head home soon.)");
 VoicePlay("E010330200_03_000");
 MsgDisp("Honda?","Kojiro-sensei, I was no good after
-all......");
+all...");
 VoicePlay("E010330200_07_000");
 MsgDisp("Mikage?","Did you borrow a lot of books again?");
 MsgDisp("主人公","Ah, whose voice was that just now?");
@@ -29,7 +29,7 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("E010330200_03_010");
 MsgDisp("Honda","Yeah.
-I borrowed a lot again......");
+I borrowed a lot again...");
 MsgDisp("主人公","Is it okay to borrow all of that?");
 ChEye(3,2);
 ChMouth(3,4);
@@ -54,7 +54,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("E010330200_03_040");
-MsgDisp("Honda","Haa...... you two are laughing, but are
+MsgDisp("Honda","Haa... you two are laughing, but are
 you serious?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -74,7 +74,7 @@ ChMotion(3,2,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010330200_03_060");
 MsgDisp("Honda","I can't go to the new one until I return
-them......");
+them...");
 MsgDisp("主人公","I see.
 Next time try your best to just return
 them, okay?");
@@ -82,7 +82,7 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("E010330200_03_070");
-MsgDisp("Honda","You're right......
+MsgDisp("Honda","You're right...
 I'll read them as soon as I get home.
 See you, then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -103,8 +103,8 @@ MsgDisp("Mikage","But I might end up borrowing something
 too. It'll be hard to ignore his
 recommendations and not borrow something,
 you know?");
-MsgDisp("主人公","Ah......
-That certainly sounds...... difficult");
+MsgDisp("主人公","Ah...
+That certainly sounds... difficult");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

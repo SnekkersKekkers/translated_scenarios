@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("O040100002_01_000");
     MsgDisp("Kazama","A draw, huh.
 I wish that last one went in.");
-    MsgDisp("主人公","(Hm, that was close......)");
+    MsgDisp("主人公","(Hm, that was close...)");
     break ;
     case 3:
     MsgClose();
@@ -21,7 +21,7 @@ I wish that last one went in.");
     VoicePlay("O040100002_01_010");
     MsgDisp("Kazama","Isn't it actually hard to draw?");
     MsgDisp("主人公","(It was close.
-If only I had thrown one more......)");
+If only I had thrown one more...)");
     break ;
     case 4:
     case 5:
@@ -31,7 +31,7 @@ If only I had thrown one more......)");
     VoicePlay("O040100002_01_020");
     MsgDisp("Kazama","Well, as long as we're still unbeatable,
 then it's okay.");
-    MsgDisp("主人公","(Hm...... we definitely didn't lose, but I
+    MsgDisp("主人公","(Hm... we definitely didn't lose, but I
 wish we had won.)");
     break ;
     default :

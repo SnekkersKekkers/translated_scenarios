@@ -27,7 +27,7 @@ You have one more free day left, right?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q080100001_01_020");
-    MsgDisp("Kazama","This time from me......
+    MsgDisp("Kazama","This time from me...
 Let's go the next one together too.");
     MsgDisp("主人公","Yeah, let's go!");
     ChEye(1,0);
@@ -63,7 +63,7 @@ For inviting me.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q080100001_01_070");
-    MsgDisp("Kazama","So this time from me to you......
+    MsgDisp("Kazama","So this time from me to you...
 Wanna spend the next one together too?");
     MsgDisp("主人公","Yes, of course!");
     ChEye(1,0);
@@ -103,7 +103,7 @@ me to you.");
     VoicePlay("Q080100001_01_110");
     MsgDisp("Kazama","Wanna spend the next free period
 together...?");
-    MsgDisp("主人公","Sure......!
+    MsgDisp("主人公","Sure...!
 I'm so happy.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -121,7 +121,7 @@ the UK.");
     MsgDisp("Kazama","Yes, and it would be meaningless without
 you.
 Right?");
-    MsgDisp("主人公","...... Maybe, yeah.");
+    MsgDisp("主人公","... Maybe, yeah.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

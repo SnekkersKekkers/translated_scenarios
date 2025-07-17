@@ -7,7 +7,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("主人公","Phew.
 Where should we meet up?");
     VoicePlay("S030200001_02_010");
-    MsgDisp("Sassa","Right, hmm......
+    MsgDisp("Sassa","Right, hmm...
 How about I come pick you up?");
     MsgDisp("主人公","Really?
 Thank you.
@@ -18,7 +18,7 @@ See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(A shrine visit with ｛颯砂＊＊｝!
-What should I wear......)");
+What should I wear...)");
     break ;
     case 3:
     VoicePlay("S030200001_02_030");
@@ -36,7 +36,7 @@ See you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(A shrine visit with ｛颯砂＊＊｝!
-What should I wear......)");
+What should I wear...)");
     break ;
     case 4:
     case 5:
@@ -56,9 +56,9 @@ your time, okay?
 See you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Dressed up, huh......
+    MsgDisp("主人公","(Dressed up, huh...
 ｛颯砂＊＊｝ is expecting
-something......)");
+something...)");
     break ;
     default :
     DbgAssert(1);

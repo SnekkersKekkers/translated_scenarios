@@ -3,7 +3,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,2,8,#1,0,0);
 VoicePlay("B040402301_04_000");
 MsgDisp("Nanatsumori","the sea, the sky and the wharf are all
-blueー......");
+blueー...");
 MsgSel("I feel so refreshed!","It makes me feel kinda hazy","Shall I take a picture with the image of blue in mind?");
 switch (MsgSelRsltGet()){
     case 0:

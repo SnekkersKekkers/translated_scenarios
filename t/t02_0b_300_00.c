@@ -1,9 +1,9 @@
 BGOpen("sc211",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 ｛風真＊＊｝, missed the
-graduation ceremony......)");
+graduation ceremony...)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 VoiceEVSPlay(1);
@@ -23,7 +23,7 @@ VoicePlay("T020B21000_01_010");
 MsgDisp("Kazama","Sorry.
 I did try to hurry though.");
 MsgDisp("主人公","Yeah.
-I'm glad we could graduate together......");
+I'm glad we could graduate together...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);
@@ -50,7 +50,7 @@ ChMotion(1,0);
 ChMouthOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("T020B21000_01_050");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 ChEye(1,2);
@@ -59,7 +59,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("T020B21000_01_060");
-MsgDisp("Kazama","This is......");
+MsgDisp("Kazama","This is...");
 ChClose(1,0,30);
 ChLayout(1);
 ChOpen(1,254,0,2,3,0,#1,0,1,0,30);
@@ -191,7 +191,7 @@ ChMotion(4,0,1);
 VoicePlay("T020B21000_04_050");
 MsgDisp("Nanatsumori","Even you...
 I was just waiting here for everyone to
-arrive......");
+arrive...");
 ChEye(1,0);
 ChMouth(1,0);
 ChEye(4,2);
@@ -211,7 +211,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("T020B21000_01_120");
-MsgDisp("Kazama","......∈ W-What is it?");
+MsgDisp("Kazama","...∈ W-What is it?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,2,1);

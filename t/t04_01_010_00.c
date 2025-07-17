@@ -11,7 +11,7 @@ StlOpen("ev_01_24");
 ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040101000_01_000");
-MsgDisp("Kazama","Shall we go on honeymoon......like this?");
+MsgDisp("Kazama","Shall we go on honeymoon...like this?");
 MsgClose();
 ScrFadeOut(0,0,300);
 StlClose();

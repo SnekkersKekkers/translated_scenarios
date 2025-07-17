@@ -3,7 +3,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620201_06_000");
-MsgDisp("Himuro","......You're falling for it just as he
+MsgDisp("Himuro","...You're falling for it just as he
 wants.");
 MsgDisp("主人公","Eh, what do you mean?");
 ChEye(6,0);
@@ -27,13 +27,13 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020620201_06_030");
 MsgDisp("Himuro","The way he tries to ward off us guys is
 downright unsightly.");
-MsgDisp("主人公","I-Is that right......?");
+MsgDisp("主人公","I-Is that right...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620201_06_040");
 MsgDisp("Himuro","That's right.
-Well...... it just shows how badly he
+Well... it just shows how badly he
 wants to have you.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -45,7 +45,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620201_06_060");
-MsgDisp("Himuro","......Even so, with him being so openly
+MsgDisp("Himuro","...Even so, with him being so openly
 hostile, it makes things easier for me.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -59,7 +59,7 @@ ChMotion(6,4);
 VoicePlay("G020620201_06_080");
 MsgDisp("Himuro","You better be prepared too.");
 MsgDisp("主人公","(It feels like he just made a huge
-declaration......)");
+declaration...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

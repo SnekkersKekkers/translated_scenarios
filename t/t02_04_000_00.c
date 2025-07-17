@@ -7,7 +7,7 @@ BGMPlay("BGM_C04_NANA_KOKU",0.01);
 ChNanaType(0);
 ChOpen(4,40,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝......");
+MsgDisp("主人公","｛七ツ森＊｝...");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("T020400000_04_000");
@@ -25,7 +25,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("T020400000_04_020");
-MsgDisp("Nanatsumori","...... Hey.
+MsgDisp("Nanatsumori","... Hey.
 The fact that you're here makes me wonder
 if I can have a little bit of hope.");
 ChEye(4,0);
@@ -33,7 +33,7 @@ ChMouth(4,0);
 VoicePlay("T020400000_04_030");
 MsgDisp("Nanatsumori","If I can really believe in the legendary
 rumour.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -43,8 +43,8 @@ MsgDisp("主人公","!");
 VoicePlay("T020400000_04_050");
 MsgDisp("Nanatsumori","During the school trip I tried shouting as
 hard as I could too.
-...... Didn't it get through to you?");
-MsgDisp("主人公","......Ah.");
+... Didn't it get through to you?");
+MsgDisp("主人公","...Ah.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -57,7 +57,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,0);
 ChMouthOpenLevel(4,0);
 VoicePlay("T020400000_04_070");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 ChMotion(4,0);
 ChEyeOpenLevel(4,10);
 ChMouthOpenLevel(4,#1);
@@ -69,7 +69,7 @@ MsgDisp("Nanatsumori","To be honest, when I first met you I
 thought you were a pain.");
 ChMotion(4,2,1);
 VoicePlay("T020400000_04_100");
-MsgDisp("Nanatsumori","But...... before I knew it, the tables had
+MsgDisp("Nanatsumori","But... before I knew it, the tables had
 turned.
 The one who was causing trouble was me.");
 ChMouth(4,0);
@@ -83,7 +83,7 @@ ChMouth(4,4);
 VoicePlay("T020400000_04_120");
 MsgDisp("Nanatsumori","But, you were always getting closer to me
 with a smile on your face.
-Always, and always......");
+Always, and always...");
 VoicePlay("T020400000_04_130");
 MsgDisp("Nanatsumori","Your kindness and warmth gradually
 dispelled the darkness in my heart.");
@@ -108,4 +108,4 @@ VoicePlay("T020400000_04_160");
 MsgDisp("Nanatsumori","｛主人公｝, I like you.
 I want you to go out with me.");
 VoicePlay("T020400000_04_170");
-MsgDisp("Nanatsumori","Tell me......your answer.");
+MsgDisp("Nanatsumori","Tell me...your answer.");

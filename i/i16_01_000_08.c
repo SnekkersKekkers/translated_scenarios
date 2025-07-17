@@ -20,7 +20,7 @@ We look forward to your next visit.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("I160100008_01_000");
-    MsgDisp("Kazama","......Phew, that was the last customer.");
+    MsgDisp("Kazama","...Phew, that was the last customer.");
     MsgDisp("主人公","I'll lock up and turn off the lights.");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
@@ -112,7 +112,7 @@ We have such a charismatic shopkeeper.");
     MsgDisp("Kazama","It's not like I only work with you.
 I have shifts with other people, too.");
     MsgDisp("主人公","Hm?
-That means......");
+That means...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -126,7 +126,7 @@ Got it?");
     VoicePlay("I160100008_01_100");
     MsgDisp("Kazama","If being partners isn't enough, want to
 open a store with me?");
-    MsgDisp("主人公","If we could, that'd be nice......");
+    MsgDisp("主人公","If we could, that'd be nice...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

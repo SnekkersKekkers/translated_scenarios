@@ -6,25 +6,25 @@ ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("T020601000_06_250");
 MsgDisp("Himuro","Ha∋
-Wait......!");
+Wait...!");
 MsgDisp("主人公","Do you get it now?
 I also like ｛氷室＊＊｝!");
 VoicePlay("T020601000_06_260");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,5);
-MsgDisp("Himuro","......!");
+MsgDisp("Himuro","...!");
 VoicePlay("T020601000_06_270");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","You really are an unreadable person......");
+MsgDisp("Himuro","You really are an unreadable person...");
 VoicePlay("T020601000_06_280");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","You know......
+MsgDisp("Himuro","You know...
 I told you, I've always liked you.");
 MsgDisp("主人公","Y-Yes.");
 VoicePlay("T020601000_06_290");
@@ -33,7 +33,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 MsgDisp("Himuro","That's because I've been putting up with
 things like this for a long time.");
-MsgDisp("主人公","......Eh!");
+MsgDisp("主人公","...Eh!");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -43,7 +43,7 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoicePlay("T020601000_06_300");
 MsgDisp("Himuro","I won't let you go again.
-And you too...... don't let me go.");
+And you too... don't let me go.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

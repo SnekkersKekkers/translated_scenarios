@@ -22,21 +22,21 @@ VoicePlay("T040120000_01_010");
 MsgDisp("Kazama","The 'young master's meal'?
 What's that?");
 VoicePlay("T040120000_02_000");
-MsgDisp("Sassa","......Huh? Is Inori the only one who
+MsgDisp("Sassa","...Huh? Is Inori the only one who
 didn't get any extras? Don't be sulky.");
 VoicePlay("T040120000_06_010");
 MsgDisp("Himuro","Huh?
 Why me?
 I don't understand.");
 MsgDisp("主人公","｛氷室＊＊｝ doesn't eat that much.
-......right?");
+...right?");
 VoicePlay("T040120000_01_020");
 MsgDisp("Kazama","Well, he's still a kid.");
 VoicePlay("T040120000_02_010");
 MsgDisp("Sassa","Yeah, take all the time you need to grow,
 you know?");
 VoicePlay("T040120000_06_020");
-MsgDisp("Himuro","......I'll make it a mega serving.");
+MsgDisp("Himuro","...I'll make it a mega serving.");
 MsgDisp("主人公","Ehh-∋");
 MsgClose();
 BGMStop(5);

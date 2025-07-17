@@ -91,7 +91,7 @@ I can't right now!");
         MsgDisp("Shirahane","Please forgive me. When I properly muster
 the courage, I'll reveal it all to you.
 Okay?");
-        MsgDisp("主人公","(｛大地＊＊｝......)");
+        MsgDisp("主人公","(｛大地＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

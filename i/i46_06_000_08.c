@@ -67,7 +67,7 @@ popular thanks to a certain someone.");
     VoicePlay("I460600008_06_060");
     MsgDisp("Himuro","\"There's a clerk who's knowledgeable and
 friendly, too\".
-...... It's you, isn't it.");
+... It's you, isn't it.");
     MsgDisp("主人公","What!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -76,7 +76,7 @@ friendly, too\".
     MsgDisp("Himuro","What are you going to do with all the
 knowledge, anyways?
 Aiming to be a florist in the future?");
-    MsgDisp("主人公","I haven't thought that far ahead......");
+    MsgDisp("主人公","I haven't thought that far ahead...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -96,7 +96,7 @@ It might be nice.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I460600008_06_100");
-    MsgDisp("Himuro","......Just so you know, I'll have you pay
+    MsgDisp("Himuro","...Just so you know, I'll have you pay
 me a high salary.");
     MsgDisp("主人公","Hehe.
 Then work hard for it, 'kay?");

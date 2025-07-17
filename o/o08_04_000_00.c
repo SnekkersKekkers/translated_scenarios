@@ -6,7 +6,7 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);
@@ -16,14 +16,14 @@ Ah, it's ｛七ツ森＊｝.)");
     MsgDisp("主人公","Hi!");
     break ;
     case 3:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);
     ChOpen(4,30,0,2,3,#1,#1,0,0,0,60);
     VoicePlay("O080400000_04_010");
     MsgDisp("Nanatsumori","Even if they tell us to dance, this is
-pretty embarrassing......");
+pretty embarrassing...");
     MsgDisp("主人公","Hehe!");
     ChEye(4,0);
     ChMotion(4,1,1);
@@ -32,7 +32,7 @@ pretty embarrassing......");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛七ツ森＊｝.)");
     MsgClose();
     ChNanaType(0);

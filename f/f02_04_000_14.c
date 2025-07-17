@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Only a little bit more until
-graduation......");
+graduation...");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -21,7 +21,7 @@ ChMotion(4,0,1);
 VoicePlay("F020400014_04_010");
 MsgDisp("Nanatsumori","I really am glad that I enrolled in
 Habataki High School.");
-MsgDisp("主人公","Yeah......");
+MsgDisp("主人公","Yeah...");
 VoicePlay("F020400014_04_020");
 MsgDisp("Nanatsumori","I only came here because of a friend from
 middle school.
@@ -51,4 +51,4 @@ VoicePlay("F020400014_04_060");
 MsgDisp("Nanatsumori","And part of my growth was because I met
 you.
 Thanks for that.");
-MsgDisp("主人公","｛七ツ森＊｝......");
+MsgDisp("主人公","｛七ツ森＊｝...");

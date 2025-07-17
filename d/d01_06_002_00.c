@@ -40,8 +40,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600200_06_010");
-MsgDisp("Himuro","No way......");
-MsgDisp("主人公","Himuro-sensei......in Tug of War∋");
+MsgDisp("Himuro","No way...");
+MsgDisp("主人公","Himuro-sensei...in Tug of War∋");
 ChPosition(6,1);
 SEStop("EV_SE_GAYA_011",1.5);
 SEStop("EV_SE_GAYA_022",1.5);
@@ -88,15 +88,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("D010600200_06_030");
-MsgDisp("Himuro","Of course he's on the enemy team......");
-MsgDisp("主人公","Uhm......
+MsgDisp("Himuro","Of course he's on the enemy team...");
+MsgDisp("主人公","Uhm...
 ｛氷室＊＊｝, good luck, okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600200_06_040");
-MsgDisp("Himuro","Sigh......
+MsgDisp("Himuro","Sigh...
 I guess I have no choice.");
 BGMStop();
 MsgClose();
@@ -120,7 +120,7 @@ MsgDisp("Students","HEAVE-HO!
 HEAVE-HO!");
 MsgDisp("主人公","(It's so intense!
 ｛氷室＊＊｝ vs
-Himuro-sensei......)");
+Himuro-sensei...)");
 BGMPlay("BGM_C06_INORI_C",0.01);
 MsgClose();
 ScrFadeOut(0);
@@ -132,7 +132,7 @@ SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_792",2);
 SEStop("EV_SE_847",2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ahhh∈ They're neck and neck......
+MsgDisp("主人公","(Ahhh∈ They're neck and neck...
 It's like the two of them are fighting??)");
 StlEye(32,0);
 StlMouth(32,0);
@@ -170,9 +170,9 @@ SEPlay("EV_SE_793",0.3,0.8);
 SEPlay("EV_SE_GAYA_011");
 VoicePlay("D010600200_38_010");
 MsgDisp("Students","HO∈");
-MsgDisp("主人公","(Himuro-telepathy......?
+MsgDisp("主人公","(Himuro-telepathy...?
 Thanks to you two the sports festival is
-so much fun......!)");
+so much fun...!)");
 BGMStop(3);
 SEStop("EV_SE_791",2.5);
 SEStop("EV_SE_792",2);
@@ -188,7 +188,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGMPlay("BGM_SPORTS_DAY",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(It ended in a draw, huh......
+MsgDisp("主人公","(It ended in a draw, huh...
 But that was a really interesting match!)");
 MsgClose();
 SEPlay("EV_SE_628");
@@ -201,7 +201,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600200_06_070");
 MsgDisp("Himuro","It wasn't supposed to turn out this
-way......
+way...
 It's frustrating when you can't win.");
 ChEye(6,1);
 ChMouth(6,0);
@@ -211,7 +211,7 @@ MsgDisp("Himuro","Next year we will definitely win.");
 MsgDisp("主人公","(Will Vice Principal Himuro participate
 again next year? Even though that's after
 I graduate, I think I want to watch
-it......?)");
+it...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -2,13 +2,13 @@ BGOpen("bh120",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(So this is ｛風真＊＊｝'s
-Grandpa's Store......)");
+Grandpa's Store...)");
 MsgDisp("主人公","(I've known him for so long and yet I've
-never been here......)");
+never been here...)");
 VoicePlay("D020100100_01_000");
 MsgDisp("Kazama?","This suspicious person has staring at our
 store for a while now.");
-MsgDisp("主人公","Eh......
+MsgDisp("主人公","Eh...
 Ah, ｛風真＊＊｝!");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
@@ -45,8 +45,8 @@ BGOpen("bh130",0);
 ChLayout(1);
 ScrFadeIn(0);
 Wait(30,1);
-MsgDisp("主人公","(Woah......There are so many things here.
-They must be expensive......Ah, they also
+MsgDisp("主人公","(Woah...There are so many things here.
+They must be expensive...Ah, they also
 have some cute accessories.)");
 SEWait();
 MsgClose();
@@ -134,9 +134,9 @@ BGMStop();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(Okay, I got a good interview......)");
+MsgDisp("主人公","(Okay, I got a good interview...)");
 MsgDisp("主人公","(Come to think of it, his Grandpa said I
 was a famous person.
-I wonder what he meant by that......)");
+I wonder what he meant by that...)");
 MsgClose();
 ScrFadeOut(0,0);

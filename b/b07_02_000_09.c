@@ -14,7 +14,7 @@ VoicePlay("B070200000_02_440");
 MsgDisp("Sassa","Eh?
 What are you saying?
 What do you mean?");
-MsgDisp("主人公","Uhm......
+MsgDisp("主人公","Uhm...
 I wonder.");
 ChEye(2,0);
 ChMouth(2,3);
@@ -22,7 +22,7 @@ ChMotion(2,4);
 VoicePlay("B070200000_02_450");
 MsgDisp("Sassa","Are you serious right now?");
 MsgDisp("主人公","Sorry, maybe I didn't word it
-properly......");
+properly...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -33,7 +33,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070200000_02_470");
-MsgDisp("Sassa","Hmm......But you know, that's even more
+MsgDisp("Sassa","Hmm...But you know, that's even more
 troublesome. Asking a question like \"What
 is love?\"");
 ChEye(2,0);
@@ -53,9 +53,9 @@ MsgDisp("Sassa","Right?
 Next time I'll ask you something, then.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","(......Huh? But I wanted to hear how
+MsgDisp("主人公","(...Huh? But I wanted to hear how
 ｛颯砂＊＊｝ feel about
-love......)");
+love...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

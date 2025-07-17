@@ -3,7 +3,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ChCheek(3,10);
 VoicePlay("T020320000_03_290");
-MsgDisp("Honda","......! W-What does this mean?");
+MsgDisp("Honda","...! W-What does this mean?");
 MsgDisp("主人公","It means I also like ｛本多＊＊｝.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -19,7 +19,7 @@ VoicePlay("T020320000_03_310");
 MsgDisp("Honda","I don't understand you at all.
 I've realized that now.
 It's worth studying you!");
-MsgDisp("主人公","A-As for that......");
+MsgDisp("主人公","A-As for that...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -38,7 +38,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("T020320000_03_340");
-MsgDisp("Honda","Ah, but maybe it'll be okay for now......");
+MsgDisp("Honda","Ah, but maybe it'll be okay for now...");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -53,7 +53,7 @@ Wait(60,0);
 SEPlay("EV_SE_695");
 Wait(120,0);
 VoicePlay("T020320000_03_350");
-MsgDisp("Honda","Haa......
+MsgDisp("Honda","Haa...
 Let's stay like this for a while.");
 Wait(120,0);
 MsgClose();

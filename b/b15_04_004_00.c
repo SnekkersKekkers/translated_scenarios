@@ -40,13 +40,13 @@ you...");
 VoicePlay("B150400400_04_060");
 MsgDisp("Nanatsumori","This is making me lose confidence.
 Come on, understand...");
-MsgDisp("主人公","｛七ツ森＊｝......");
+MsgDisp("主人公","｛七ツ森＊｝...");
 MsgClose();
 ScrFadeIn(0);
 ChMouthOpenLevel(4,0);
 VoicePlay("B150400400_04_070");
-MsgDisp("Nanatsumori","............");
-MsgDisp("主人公","............");
+MsgDisp("Nanatsumori","......");
+MsgDisp("主人公","......");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

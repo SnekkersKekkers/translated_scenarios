@@ -27,7 +27,7 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120301_01_030");
-MsgDisp("Kazama","Put yourself in my shoes......");
+MsgDisp("Kazama","Put yourself in my shoes...");
 MsgDisp("主人公","But you're the one who's surrounded by all
 those girls at school and at Simon,
 ｛風真＊＊｝");
@@ -68,11 +68,11 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020120301_01_080");
-MsgDisp("Kazama","......But what you have is something
+MsgDisp("Kazama","...But what you have is something
 totally different. Everyone like you, no
 strings attached. Your family doesn't
 matter.");
-MsgDisp("主人公","That's not true......
+MsgDisp("主人公","That's not true...
 But thanks.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -93,7 +93,7 @@ VoicePlay("G020120301_01_100");
 MsgDisp("Kazama","You've totally missed my point, but
 thanks.");
 MsgDisp("主人公","(Does ｛風真＊＊｝ not realize
-how popular he is......?");
+how popular he is...?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

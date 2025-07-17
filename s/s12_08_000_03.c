@@ -36,7 +36,7 @@ rice cake, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
     MsgDisp("主人公","(Another New Year.
-I hope this year is a good one......)");
+I hope this year is a good one...)");
     break ;
     case 4:
     case 5:
@@ -72,7 +72,7 @@ good enough.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
     MsgDisp("主人公","(Another New Year.
-I hope this year is a good one......)");
+I hope this year is a good one...)");
     break ;
     default :
     DbgAssert(1);

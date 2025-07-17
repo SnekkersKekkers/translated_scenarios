@@ -24,7 +24,7 @@ You'll match with Hikaru♪");
     MsgDisp("主人公","(I got Camellia lipstick!)");
     SEPlay("EV_SE_080");
     MsgDisp("主人公","(I feel like my sense of fashion is
-getting better......)");
+getting better...)");
     ChMotion(22,3,1);
     VoicePlay("U032200000_22_030");
     MsgDisp("Hikaru","Okay, see you at school!
@@ -33,7 +33,7 @@ A bientot～♪");
 ｛ひかる＊｝!");
     break ;
     case 1:
-    MsgDisp("主人公","Sorry but......");
+    MsgDisp("主人公","Sorry but...");
     ChEye(22,0);
     ChMouth(22,2);
     ChMotion(22,0,1);

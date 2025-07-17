@@ -10,7 +10,7 @@ ChMotion(4,1);
 ChEyeOpenLevel(4,9);
 ScrFadeIn(0);
 VoicePlay("B040403302_04_000");
-MsgDisp("Nanatsumori","Hmmー...... as I get used to looking at
+MsgDisp("Nanatsumori","Hmmー... as I get used to looking at
 them, these guys start to seem kinda
 cute...");
 ChEyeOpenLevel(4,#1);
@@ -103,8 +103,8 @@ share your empathy and discomfort with?");
         MsgDisp("Nanatsumori","That's why, from now on, I want to
 continue to go to different places
 together, see different things, and talk
-about different things, ＯＫ?");
-        MsgDisp("主人公","Hehe, ＯＫ!");
+about different things, OK?");
+        MsgDisp("主人公","Hehe, OK!");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,2,1);

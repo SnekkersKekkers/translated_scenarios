@@ -83,7 +83,7 @@ If I'm a horse, you're a... pony?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040221202_02_070");
-    MsgDisp("Sassa","Heeh, so that's how it is.
+    MsgDisp("Sassa","Ehhh, so that's how it is.
 He's surprisingly popular.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

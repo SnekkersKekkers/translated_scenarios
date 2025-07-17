@@ -6,7 +6,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","(Ok, I was able to buy a lot of souvenirs!
 I wonder when ｛柊＊＊＊｝ is
-done......)");
+done...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,2,4,9,#1,0,0);
@@ -31,7 +31,7 @@ I bought some castella too.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("Q110500000_05_030");
-MsgDisp("Hiiragi","And also...... a matching with you.
+MsgDisp("Hiiragi","And also... a matching with you.
 A chopstick rest in the shape of the
 Megane Bridge.");
 MsgDisp("主人公","Wow, so cute!");
@@ -57,7 +57,7 @@ VoicePlay("Q110500000_05_060");
 MsgDisp("Hiiragi","Yeah, it's too late if I go back to
 Habataki City and regret it. With this, I
 can remember about today when I eat.");
-MsgDisp("主人公","｛柊＊＊＊｝......
+MsgDisp("主人公","｛柊＊＊＊｝...
 Thank you, I'll treasure it.");
 ChMotion(5,0,1);
 VoicePlay("Q110500000_05_070");

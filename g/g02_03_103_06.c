@@ -56,13 +56,13 @@ MsgDisp("主人公","Eh?");
 ChMotion(3,4,1);
 VoicePlay("G020310306_03_070");
 MsgDisp("Honda","Pretend I'm a child and show me.");
-MsgDisp("主人公","Even if you say that so suddenly......");
+MsgDisp("主人公","Even if you say that so suddenly...");
 ChSet(3,3);
 VoicePlay("G020310306_03_080");
 MsgDisp("Honda","Then, it's homework.
 Tell me next time, okay?");
 MsgDisp("主人公","(Somewhat, ｛本多＊＊｝ is like a
-spoiled kid......)");
+spoiled kid...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

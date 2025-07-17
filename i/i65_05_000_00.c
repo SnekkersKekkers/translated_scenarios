@@ -19,7 +19,7 @@ Are you going on a trip?");
     VoicePlay("I650500000_05_010");
     MsgDisp("Hiiragi","Yes, I am visiting a patron who is
 situated quite far away.");
-    MsgDisp("主人公","Seems tough......");
+    MsgDisp("主人公","Seems tough...");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("I650500000_05_020");
@@ -35,7 +35,7 @@ You've been working hard up until now.");
     ChClose(5);
     MsgDisp("主人公","(It must be hard on
 ｛柊＊＊＊｝, having to travel
-far even at this hour......)");
+far even at this hour...)");
     break ;
     case 3:
     SEPlay("EV_SE_658");
@@ -58,7 +58,7 @@ working as well?");
     ChEyeOpenLevel(5,0);
     VoicePlay("I650500000_05_050");
     MsgDisp("Hiiragi","Yes, if it was practice or rehearsals it
-would not be a problem at all, but......");
+would not be a problem at all, but...");
     VoicePlay("I650500000_43_000");
     MsgDisp("Theater Member","Chairman, if we don't hurry, we'll be
 late.");
@@ -71,12 +71,12 @@ late.");
     ChMotion(5,0);
     VoicePlay("I650500000_05_070");
     MsgDisp("Hiiragi","I'm glad to have met with you here.
-Haa...... let us both work hard.");
+Haa... let us both work hard.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ seems tired......
+    MsgDisp("主人公","(｛柊＊＊＊｝ seems tired...
 I hope I was able to distract him from his
 worries for a bit.)");
     break ;
@@ -106,7 +106,7 @@ cheerful voice resounded.");
     ChMotion(5,0);
     VoicePlay("I650500000_05_100");
     MsgDisp("Hiiragi","Thank you as well.");
-    MsgDisp("主人公","Hm......?");
+    MsgDisp("主人公","Hm...?");
     ChEye(5,0);
     VoicePlay("I650500000_05_110");
     MsgDisp("Hiiragi","I was able to reflect upon seeing you.");
@@ -115,7 +115,7 @@ cheerful voice resounded.");
     ChEyeOpenLevel(5,0);
     VoicePlay("I650500000_05_120");
     MsgDisp("Hiiragi","You work with a smile on your face.
-Compared to that, I......");
+Compared to that, I...");
     ChEye(5,4);
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
@@ -130,7 +130,7 @@ smiling face.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(I'm so happy that ｛柊＊＊＊｝
-said something like that to me......
+said something like that to me...
 Alright, let's work hard!)");
     break ;
     default :

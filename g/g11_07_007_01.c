@@ -1,7 +1,7 @@
 BGOpen("sc520",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I still have some time before lunch
-ends...... Ah, that reminds me. The other
+ends... Ah, that reminds me. The other
 day ｛御影＊＊｝ said I
 could drop by anytime, right?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -12,8 +12,8 @@ BGOpen("sc512",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_DOOR_024");
 SEWait();
-MsgDisp("主人公","(......?
-He's not in the science prep room......)");
+MsgDisp("主人公","(...?
+He's not in the science prep room...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -78,7 +78,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700701_07_060");
 MsgDisp("Mikage","Haha, don't be so surprised.");
-MsgDisp("主人公","(Hmmm, I think he's teasing me......)");
+MsgDisp("主人公","(Hmmm, I think he's teasing me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

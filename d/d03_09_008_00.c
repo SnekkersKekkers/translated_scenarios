@@ -2,7 +2,7 @@ BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Huh?
-Over there, is that......)");
+Over there, is that...)");
 MsgClose();
 BGMPlay("BGM_C09_KUYA_A",0.01);
 ChOpen(9,254,0,3,0,0,#1,0,0);
@@ -35,7 +35,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900800_09_030");
-MsgDisp("Kuya","......Just business as usual, I guess?");
+MsgDisp("Kuya","...Just business as usual, I guess?");
 MsgDisp("主人公","Hehe, yep.");
 BGMStop(2);
 MsgClose();
@@ -79,7 +79,7 @@ ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
-MsgDisp("主人公","Ah......Come to think of it. Kuya-san,
+MsgDisp("主人公","Ah...Come to think of it. Kuya-san,
 you're in senior year so it's almost time
 for entrance exams."); 
 MsgDisp("主人公","Have you decided on a career path?");
@@ -89,36 +89,36 @@ ChMotion(9,1,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900800_09_070");
 MsgDisp("Kuya","I don't really think about that.");
-MsgDisp("主人公","......Eh?");
+MsgDisp("主人公","...Eh?");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,2,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030900800_09_080");
 MsgDisp("Kuya","I'm not thinking about it.");
-MsgDisp("主人公","............");
+MsgDisp("主人公","......");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900800_09_090");
 MsgDisp("Kuya","Is that surprising?");
-MsgDisp("主人公","No......
+MsgDisp("主人公","No...
 Are you distracted by all the things that
 keep happening?");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,4,1);
 VoicePlay("D030900800_09_100");
-MsgDisp("Kuya","......I wonder.");
+MsgDisp("Kuya","...I wonder.");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,2,1);
 VoicePlay("D030900800_09_110");
 MsgDisp("Kuya","My career path, huh?
 I guess it's time I thought about it.
-It's already senior year......");
-MsgDisp("主人公","(That's a serious look......
+It's already senior year...");
+MsgDisp("主人公","(That's a serious look...
 I hope he gets a chance to really sit and
-think about it......)");
+think about it...)");
 MsgClose();
 ScrFadeOut(0,0);

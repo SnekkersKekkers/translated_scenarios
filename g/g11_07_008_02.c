@@ -19,7 +19,7 @@ VoicePlay("G110700802_07_010");
 MsgDisp("Mikage","That's nice.
 Do you always talk to them like that?");
 MsgDisp("主人公","Eh, talking?
-I guess I wasn'yt really aware of it......");
+I guess I wasn'yt really aware of it...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -44,7 +44,7 @@ VoicePlay("G110700802_07_040");
 MsgDisp("Mikage","There are some that's better to be spartan
 with, there are some that are better to be
 gentle with.");
-MsgDisp("主人公","S-Spartan......?");
+MsgDisp("主人公","S-Spartan...?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -57,7 +57,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700802_07_060");
 MsgDisp("Mikage","What type are you?");
-MsgDisp("主人公","(Umm......me......?)");
+MsgDisp("主人公","(Umm...me...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

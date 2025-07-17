@@ -14,7 +14,7 @@ I like it but...)");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700001_07_000");
-    MsgDisp("Mikage","Heeh, it's splendid, huh.");
+    MsgDisp("Mikage","Ehhh, it's splendid, huh.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Did you come to see it?");
     ChEye(7,0);

@@ -18,7 +18,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 ChEyeOpenLevel(7,0);
 VoicePlay("B360707000_07_010");
-MsgDisp("Mikage","......Like curry?");
+MsgDisp("Mikage","...Like curry?");
 MsgDisp("主人公","From the deli section?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -71,7 +71,7 @@ MsgDisp("Mikage","Yeah. That's why I always look forward to
 the school cafeteria. Tell Yanosuke and
 Inori to invite me too.");
 MsgDisp("主人公","(｛御影＊＊｝, I'd love to have dinner with
-you......)");
+you...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

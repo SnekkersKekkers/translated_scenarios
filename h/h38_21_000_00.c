@@ -24,7 +24,7 @@ Did you come to support me?");
     MsgDisp("Michiru","Right. I think Mari can win, but I'll be
 praying that you don't get hurt. Okay?");
     MsgDisp("主人公","Thanks!");
-    MsgDisp("主人公","(｛みちる＊｝ is cheering me on......!
+    MsgDisp("主人公","(｛みちる＊｝ is cheering me on...!
 Alright, let's do our best!)");
     BGMStop();
     MsgClose();
@@ -67,7 +67,7 @@ I'll be careful, and go win!");
     MsgDisp("Michiru","Hehe, how reliable.
 I'll be wishing you the best of luck from
 my seat in the audience.");
-    MsgDisp("主人公","(｛みちる＊｝ is cheering me on......!
+    MsgDisp("主人公","(｛みちる＊｝ is cheering me on...!
 Alright, let's do our best!)");
     BGMStop();
     MsgClose();

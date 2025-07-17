@@ -10,7 +10,7 @@ switch (ChPrmGet(21,6)){
     case 5:
     ScrFadeIn(0);
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","Phone call......
+    MsgDisp("主人公","Phone call...
 Ah, it's ｛みちる＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
@@ -38,12 +38,12 @@ See you there in a bit!");
         break ;
         case 1:
         VoicePlay("U012100002_21_030");
-        MsgDisp("Michiru","I see...... That's unfortunate but I guess
-it can't be helped...... Well, later then.");
+        MsgDisp("Michiru","I see... That's unfortunate but I guess
+it can't be helped... Well, later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though she took the time to invite
-me......
+me...
 Did I make the right choice?)");
         break ;
         default :

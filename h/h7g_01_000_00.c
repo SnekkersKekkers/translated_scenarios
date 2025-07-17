@@ -34,7 +34,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("H7G0100000_01_040");
 MsgDisp("Kazama","Haa.
 Don't think you can get away with it just
-by making that face......");
+by making that face...");
 MsgDisp("主人公","Huh?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -51,7 +51,7 @@ MsgDisp("Kazama","Really, you do such amazing things so
 casually.
 Makes me proud.");
 MsgDisp("主人公","Hehe, thanks.");
-MsgDisp("主人公","(I'm so happy......
+MsgDisp("主人公","(I'm so happy...
 I'm glad I worked so hard for the
 handicrafts club.)");
 MsgClose();

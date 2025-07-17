@@ -16,7 +16,7 @@ Wait(16,0);
 ChMouth(5,4);
 ChCheek(5,5);
 VoicePlay("T020500022_05_010");
-MsgDisp("Hiiragi","You really are......");
+MsgDisp("Hiiragi","You really are...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
@@ -36,7 +36,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020500022_05_030");
 MsgDisp("Hiiragi","Yes.
-I get to be with you......
+I get to be with you...
 I couldn't be happier.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

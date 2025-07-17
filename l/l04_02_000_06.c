@@ -8,13 +8,13 @@ switch (ChPrmGet(2,6)){
     VoicePlay("L040200006_02_000");
     MsgDisp("Sassa","Ooh, amazing.");
     MsgDisp("主人公","If you're wondering, I did make these
-myself......");
+myself...");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200006_02_010");
     MsgDisp("Sassa","Yeah, I can see that they're handmade.");
-    MsgDisp("主人公","Um......
+    MsgDisp("主人公","Um...
 Don't worry, they're edible.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -29,22 +29,22 @@ I'm happy about your feelings.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ha...... maybe I should've given him a
-better chocolate......)");
+    MsgDisp("主人公","(Ha... maybe I should've given him a
+better chocolate...)");
     break ;
     case 3:
     ChEye(2,0);
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("L040200006_02_030");
-    MsgDisp("Sassa","Handmade, huh......");
-    MsgDisp("主人公","I did try my best......");
+    MsgDisp("Sassa","Handmade, huh...");
+    MsgDisp("主人公","I did try my best...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200006_02_040");
     MsgDisp("Sassa","Yeah, I can feel your hard work.");
-    MsgDisp("主人公","Sorry......");
+    MsgDisp("主人公","Sorry...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -58,9 +58,9 @@ Thanks.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ha......
+    MsgDisp("主人公","(Ha...
 Maybe I should've given him a better
-chocolate......)");
+chocolate...)");
     break ;
     case 4:
     case 5:
@@ -68,8 +68,8 @@ chocolate......)");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200006_02_060");
-    MsgDisp("Sassa","This...... is handmade, right?");
-    MsgDisp("主人公","Yeah......
+    MsgDisp("Sassa","This... is handmade, right?");
+    MsgDisp("主人公","Yeah...
 Sorry that they're not that good.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -105,7 +105,7 @@ it, you know?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("L040200006_02_110");
-    MsgDisp("Sassa","......Just checking, but there's nothing
+    MsgDisp("Sassa","...Just checking, but there's nothing
 but chocolate in it, right?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -113,9 +113,9 @@ but chocolate in it, right?");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ha......
+    MsgDisp("主人公","(Ha...
 Maybe I should've given him a better
-chocolate......)");
+chocolate...)");
     break ;
     default :
     DbgAssert(1);

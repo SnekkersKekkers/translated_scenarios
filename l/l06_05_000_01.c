@@ -15,7 +15,7 @@ ChMotion(5,3);
 ChCheek(5,7);
 VoicePlay("L060500001_05_010");
 MsgDisp("Hiiragi","In return for your chocolate.
-...... Will you accept this?");
+... Will you accept this?");
 MsgDisp("主人公","Of course!
 Thank you!");
 ChEye(5,4);

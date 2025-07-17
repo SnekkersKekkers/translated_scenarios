@@ -3,7 +3,7 @@ ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("G020230201_02_000");
 MsgDisp("Sassa","The fireflies' light sure is beautiful
 like this.");
-MsgDisp("主人公","Yeah......");
+MsgDisp("主人公","Yeah...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -40,7 +40,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230201_02_050");
-MsgDisp("Sassa","Haa...... they look prettier than I
+MsgDisp("Sassa","Haa... they look prettier than I
 thought.
 I really think it's because of you.");
 ChEye(2,0);
@@ -70,7 +70,7 @@ VoicePlay("G020230201_02_090");
 MsgDisp("Sassa","Exactly.
 Always plan ahead, that's my motto.");
 MsgDisp("主人公","(He's always thinking about so much
-different things for me......
+different things for me...
 Thank you, ｛颯砂＊＊｝ )");
 BGMStop();
 MsgClose();

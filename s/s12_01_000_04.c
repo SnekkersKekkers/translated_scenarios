@@ -31,7 +31,7 @@ high school years?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100004_01_020");
-    MsgDisp("Kazama","...... Geez, did you just realize that?
+    MsgDisp("Kazama","... Geez, did you just realize that?
 Such an ungrateful person.
 You're still the same as always.");
     MsgDisp("主人公","Geez, seems like there's going to be a lot
@@ -114,7 +114,7 @@ every year.");
     VoiceEVSPlay(1);
     VoicePlay("S120100004_01_090");
     MsgDisp("Kazama","｛主人公｝, the weather's
-changed a bit somehow......
+changed a bit somehow...
 Is it going to snow?");
     MsgDisp("主人公","Perhaps rain?");
     ChEye(1,0);

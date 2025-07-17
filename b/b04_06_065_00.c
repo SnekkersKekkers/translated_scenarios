@@ -29,7 +29,7 @@ say it so unashamedly.");
     ChMotion(6,4);
     ChEyeOpenLevel(6,8);
     VoicePlay("B040606500_06_020");
-    MsgDisp("Himuro","Heeh, to think they can make shapes like
+    MsgDisp("Himuro","Ehhh, to think they can make shapes like
 that. The pyrotechnicians are amazing.
 It's kind of moving.");
     MsgDispSksp(1,6);

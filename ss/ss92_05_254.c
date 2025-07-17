@@ -3,5 +3,5 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("SS9205254_05_000");
-MsgDisp("Hiiragi","Let's keep it like this for a while......");
+MsgDisp("Hiiragi","Let's keep it like this for a while...");
 MsgClose();

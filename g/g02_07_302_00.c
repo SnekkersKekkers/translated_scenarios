@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020730200_07_000");
 MsgDisp("Mikage","The other day, Vice Principal Himuro
-reprimanded seriously......");
+reprimanded seriously...");
 MsgDisp("主人公","Are you okay?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -19,8 +19,8 @@ ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020730200_07_020");
-MsgDisp("Mikage","Sigh......
-The distance with the students......");
+MsgDisp("Mikage","Sigh...
+The distance with the students...");
 MsgDisp("主人公","Eh?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -38,13 +38,13 @@ ChMotion(7,3);
 VoicePlay("G020730200_07_040");
 MsgDisp("Mikage","Thanks. To Vice Principal Himuro, I
 probably just look like I'm enjoying
-school life～ ......well, that is the
+school life～ ...well, that is the
 truth.");
 ChEye(7,1);
 ChMouth(7,4);
 ChMotion(7,4);
 VoicePlay("G020730200_07_050");
-MsgDisp("Mikage","......Wait.");
+MsgDisp("Mikage","...Wait.");
 MsgDisp("主人公","What's wrong?");
 ChEye(7,1);
 ChMouth(7,4);
@@ -60,7 +60,7 @@ ChEyeOpenLevel(7,10);
 VoicePlay("G020730200_07_070");
 MsgDisp("Mikage","Let's go home.
 I have a bad feeling about this.");
-MsgDisp("主人公","(The sense of distance with students......
+MsgDisp("主人公","(The sense of distance with students...
 I wonder what Vice Principal Himuro said
 to him?)");
 BGMStop();

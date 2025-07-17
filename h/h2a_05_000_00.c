@@ -38,14 +38,14 @@ support.");
     MsgDisp("Hiiragi","I'm speaking about you.
 I'm quite impressed with the amount of
 work you've done as manager.");
-    MsgDisp("主人公","｛柊＊＊＊｝, thank you......");
+    MsgDisp("主人公","｛柊＊＊＊｝, thank you...");
     ChEye(5,3);
     VoicePlay("H2A0500000_05_040");
     MsgDisp("Hiiragi","Please, go on and show that smile to all
 of the team members as soon as possible.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(I'm so glad I did my best for the track
-and field team......!)");
+and field team...!)");
     break ;
     default :
     DbgAssert(1);

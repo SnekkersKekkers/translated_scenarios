@@ -12,7 +12,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("T020401000_04_200");
-MsgDisp("Nanatsumori","This girl......");
+MsgDisp("Nanatsumori","This girl...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -26,13 +26,13 @@ ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("T020401000_04_220");
 MsgDisp("Nanatsumori","Haha, it's not that.
-How...... how many times have you thrown
+How... how many times have you thrown
 my heart into total chaos?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("T020401000_04_230");
-MsgDisp("Nanatsumori","......Well, that's also part of why I fell
+MsgDisp("Nanatsumori","...Well, that's also part of why I fell
 in love with you.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -49,7 +49,7 @@ ScrFadeIn(0);
 VoicePlay("T020401000_04_250");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Seriously, I love you,
-｛主人公｝......");
+｛主人公｝...");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

@@ -6,12 +6,12 @@ I think it's time to head home.)");
 VoicePlay("E010710000_07_000");
 MsgDisp("Mikage?","Hey");
 MsgDisp("主人公","Hm?
-That voice......");
+That voice...");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛御影＊＊｝, that
-outfit......
+outfit...
 Are you out shopping?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -41,15 +41,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("E010710000_07_040");
-MsgDisp("Mikage","Green Farm, the gardening club......
+MsgDisp("Mikage","Green Farm, the gardening club...
 I have lots at home too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010710000_07_050");
 MsgDisp("Mikage","How about you in class?");
-MsgDisp("主人公","Huh...... are you talking about us
-students......?");
+MsgDisp("主人公","Huh... are you talking about us
+students...?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

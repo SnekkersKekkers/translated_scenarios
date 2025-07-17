@@ -11,7 +11,7 @@ ChMouth(3,3);
 ChMotion(3,2);
 VoicePlay("F020300012_03_000");
 MsgDisp("Honda","Oh, right.
-At last, it's this time of the year......");
+At last, it's this time of the year...");
 MsgDisp("主人公","What, are you looking forward to it?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -20,7 +20,7 @@ VoicePlay("F020300012_03_010");
 MsgDisp("Honda","Mhm. Once it gets to spring, not only the
 insects, but all kinds of living things
 wake up!");
-MsgDisp("主人公","So, this spring break......?");
+MsgDisp("主人公","So, this spring break...?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -40,7 +40,7 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("F020300012_03_040");
 MsgDisp("Honda","Right! Those pupa I found at the forest
-park...... I get to see them hatch with my
+park... I get to see them hatch with my
 own eyes!");
 MsgDisp("主人公","(｛本多＊＊｝'s spring break seems
-enriching as always......)");
+enriching as always...)");

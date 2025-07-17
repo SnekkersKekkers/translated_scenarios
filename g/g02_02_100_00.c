@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoicePlay("G020210000_02_000");
-MsgDisp("Sassa","Ohh, it's really pretty......
+MsgDisp("Sassa","Ohh, it's really pretty...
 Just how many are there?");
 MsgDisp("主人公","Yeah, there really is a lot of them.");
 ChEye(2,4);
@@ -16,9 +16,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210000_02_020");
-MsgDisp("Sassa","...... Mm?
+MsgDisp("Sassa","... Mm?
 What're you talking about?");
-MsgDisp("主人公","Umm...... track and field.
+MsgDisp("主人公","Umm... track and field.
 Weren't you?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -34,7 +34,7 @@ ChMotion(2,0);
 VoicePlay("G020210000_02_040");
 MsgDisp("Sassa","I don't know how many people are
 competing, but I'm gonna keep this up and
-win the fight for you! ......Is what I was
+win the fight for you! ...Is what I was
 talking about.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -47,7 +47,7 @@ shows up, I'm not giving him my place
 beside you.");
 MsgDisp("主人公","(? 'The fight for me'?? What is
 ｛颯砂＊＊｝ talking
-about......?)");
+about...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

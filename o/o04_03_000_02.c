@@ -16,8 +16,8 @@ switch (ChPrmGet(3,6)){
     VoicePlay("O040300002_03_000");
     MsgDisp("Honda","A draw, huh.
 It's unclear, huh?");
-    MsgDisp("主人公","(A draw, huh......
-But we were so close......)");
+    MsgDisp("主人公","(A draw, huh...
+But we were so close...)");
     break ;
     case 3:
     ChEye(3,1);
@@ -25,9 +25,9 @@ But we were so close......)");
     ChMotion(3,5);
     VoicePlay("O040300002_03_010");
     MsgDisp("Honda","Da!
-If we just had one more......!");
-    MsgDisp("主人公","(A draw, huh......
-But we were so close......)");
+If we just had one more...!");
+    MsgDisp("主人公","(A draw, huh...
+But we were so close...)");
     break ;
     case 4:
     case 5:
@@ -37,8 +37,8 @@ But we were so close......)");
     VoicePlay("O040300002_03_020");
     MsgDisp("Honda","Hey, is there no extra round?
 I mean, isn't a draw kind of boring?");
-    MsgDisp("主人公","(A draw, huh......
-But we were so close......)");
+    MsgDisp("主人公","(A draw, huh...
+But we were so close...)");
     break ;
     default :
     DbgAssert(1);

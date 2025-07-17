@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
 Is now a good time to call you?");
     VoicePlay("J010200000_02_010");
     MsgDisp("Sassa","Yeah, sure.");
-    MsgDisp("主人公","Well, uhm, you see......");
+    MsgDisp("主人公","Well, uhm, you see...");
     break ;
     case 3:
     VoicePlay("J010200000_02_020");
@@ -24,7 +24,7 @@ Is it OK to call now?");
     MsgDisp("Sassa","Yup.
 No worries.
 What's up?");
-    MsgDisp("主人公","Well, you see......");
+    MsgDisp("主人公","Well, you see...");
     break ;
     case 4:
     case 5:
@@ -37,7 +37,7 @@ Is it alright if we talk for a minute?");
     MsgDisp("Sassa","Of course.
 I was just about to call you too...");
     MsgDisp("主人公","Hehe, perfect then!
-Well......");
+Well...");
     break ;
     default :
     DbgAssert(1);

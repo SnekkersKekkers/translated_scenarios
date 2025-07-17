@@ -30,7 +30,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B30400_01_000");
-MsgDisp("Kazama","Heeh.
+MsgDisp("Kazama","Ehhh.
 Is that woman the model?");
 ChEye(3,0);
 ChMouth(3,0);

@@ -7,7 +7,7 @@ ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("T020200022_02_000");
 MsgDisp("Sassa","Wait.
-That ...... hug∋");
+That ... hug∋");
 MsgDisp("主人公","Yes.
 I also like ｛颯砂＊＊｝.");
 ChEye(2,0);
@@ -24,7 +24,7 @@ ChMotion(2,4);
 ChCheek(2,0);
 VoiceEVSPlay(2);
 VoicePlay("T020200022_02_020");
-MsgDisp("Sassa","｛主人公｝......
+MsgDisp("Sassa","｛主人公｝...
 Thank you.");
 ChEye(2,4);
 ChMouth(2,4);

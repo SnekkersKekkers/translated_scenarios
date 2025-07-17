@@ -39,7 +39,7 @@ ChEyeOpenLevel ( 1,8 ) ;
 VoicePlay ( "D150001501_01_020" ) ;
 MsgDisp ( "Kazama","Ah, you're totally laughing right now." ) ;
 MsgDisp ( "主人公","Uhm, we're not.
-That kind of thing is......" ) ;
+That kind of thing is..." ) ;
 ChEye ( 5,0 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;
@@ -57,7 +57,7 @@ You won't get away with it now.
 Tell me what you were picturing." ) ;
 MsgDisp ( "主人公","(I wonder if ｛風真＊＊｝ would
 be mad if I told him I was picturing him
-wearing a topknot......)" ) ;
+wearing a topknot...)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

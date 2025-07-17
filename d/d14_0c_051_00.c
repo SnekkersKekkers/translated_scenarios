@@ -14,12 +14,12 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("D140C05100_06_000");
-MsgDisp("Himuro","............");
+MsgDisp("Himuro","......");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("D140C05100_07_000");
-MsgDisp("Mikage","............");
+MsgDisp("Mikage","......");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -99,7 +99,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C05100_07_040");
-MsgDisp("Mikage","Heehー, as expected of Yanosuke.
+MsgDisp("Mikage","Ehhhー, as expected of Yanosuke.
 I can picture the scene.
 Nice.");
 ChEye(6,0);

@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030612000_06_000");
-MsgDisp("Himuro","Woah......
+MsgDisp("Himuro","Woah...
 So many people.");
 MsgDisp("主人公","Yeah, it's crowded!");
 MsgDispSksp(1,0);

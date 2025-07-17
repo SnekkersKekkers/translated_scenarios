@@ -5,7 +5,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","We're graduating soon......");
+MsgDisp("主人公","We're graduating soon...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -50,4 +50,4 @@ VoicePlay("F020300014_03_060");
 MsgDisp("Honda","If I'm crying so hard I can't speak, don't
 laugh at me, okay?");
 MsgDisp("主人公","(I want to know what that looks
-like......)");
+like...)");

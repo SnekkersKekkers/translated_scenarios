@@ -1,7 +1,7 @@
 ChLayout(1);
 BGOpen("ne000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I think it's time to go home......)");
+MsgDisp("主人公","(I think it's time to go home...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
@@ -84,16 +84,16 @@ ChClose(7,0,30);
 ChClose(1,0,30);
 Wait(60);
 VoicePlay("E010720100_01_050");
-MsgDisp("Kazama","......So, who's this gift for?");
+MsgDisp("Kazama","...So, who's this gift for?");
 VoicePlay("E010720100_07_060");
 MsgDisp("Mikage","For a cute girl.
 Her name is Molly.");
 VoicePlay("E010720100_01_060");
 MsgDisp("Kazama","Hm?
 I feel like I've heard that name
-before......");
+before...");
 MsgDisp("主人公","(Eh ∋ \"Molly\" is the cow from
 ｛御影＊＊｝'s family home,
-isn't it......?)");
+isn't it...?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040615202_06_010");
-    MsgDisp("Himuro","Heeh, so that means you have no intention
+    MsgDisp("Himuro","Ehhh, so that means you have no intention
 of losing?
 Then, let's bet on one drink.");
     MsgDispSksp(1,0);

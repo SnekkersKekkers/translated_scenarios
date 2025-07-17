@@ -5,7 +5,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("J030100001_01_000");
     MsgDisp("Kazama","Sorry.
 I have something on that day...");
-    MsgDisp("主人公","Oh, I see, that's too bad......");
+    MsgDisp("主人公","Oh, I see, that's too bad...");
     VoicePlay("J030100001_01_010");
     MsgDisp("Kazama","Yeah, see you around, mh?");
     MsgDisp("主人公","Yeah.
@@ -13,7 +13,7 @@ See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(I asked him to go out at a bad
-timing......)");
+timing...)");
     break ;
     case 3:
     VoicePlay("J030100001_01_020");
@@ -31,7 +31,7 @@ Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Can't be helped, let's stop calling for
-today......)");
+today...)");
     break ;
     case 4:
     case 5:
@@ -42,7 +42,7 @@ today......)");
     MsgDisp("Kazama","If I could cancel, I'd do it.
 But I can't.
 Sorry.");
-    MsgDisp("主人公","No, that's my bad......
+    MsgDisp("主人公","No, that's my bad...
 Talk to you later?");
     VoicePlay("J030100001_01_070");
     MsgDisp("Kazama","Hey, don't go ask some other g— Forget
@@ -53,7 +53,7 @@ See you!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmm, I asked him out at a bad time.
-Too bad......)");
+Too bad...)");
     break ;
     default :
     DbgAssert(1);

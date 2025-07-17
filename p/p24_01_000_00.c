@@ -16,7 +16,7 @@ VoicePlay("P240100000_47_000");
 MsgDisp("Audience","Kazama-kun, look this way～!");
 SEStop("EV_SE_588",3);
 SEStop("EV_SE_858",2);
-MsgDisp("主人公","(｛風真＊＊｝ is really popular huh......
+MsgDisp("主人公","(｛風真＊＊｝ is really popular huh...
 Ah, I need to concentrate more∈)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.7);
@@ -43,7 +43,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("P240100000_01_020");
-MsgDisp("Kazama","......It's a bit too small.");
+MsgDisp("Kazama","...It's a bit too small.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -118,7 +118,7 @@ VoicePlay("P240100000_01_090");
 MsgDisp("Kazama","On the night of the ball, you stole my
 heart away. And as the clock struck 12,
 you disappeared.");
-MsgDisp("主人公","Prince......");
+MsgDisp("主人公","Prince...");
 SEPlay("EV_SE_676");
 Wait(150,1);
 MsgClose();

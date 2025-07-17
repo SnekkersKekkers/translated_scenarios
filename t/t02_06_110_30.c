@@ -2,7 +2,7 @@ ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 BGMStop();
 MsgDisp("主人公","I'm sorry...
-I......");
+I...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -44,7 +44,7 @@ ChMouth(6,0);
 ChEyeOpenLevel(6,8);
 MsgDisp("Himuro","Though it seems that I won't be coming to
 this sea for a while now...");
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 VoiceEVSPlay(6);
 VoicePlay("T020611000_06_220");
 ChEye(6,4);
@@ -56,7 +56,7 @@ VoicePlay("T020611000_06_230");
 ChEye(6,2);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","...... Goodbye.");
+MsgDisp("Himuro","... Goodbye.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

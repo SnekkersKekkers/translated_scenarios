@@ -28,7 +28,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650401_06_020");
 MsgDisp("Himuro","There's no point in running away.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -53,7 +53,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650401_06_060");
 MsgDisp("Himuro","Who is with you right now?");
-MsgDisp("主人公","......｛氷室＊＊｝.");
+MsgDisp("主人公","...｛氷室＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -61,7 +61,7 @@ VoicePlay("B360650401_06_070");
 MsgDisp("Himuro","Yeah.
 We should enjoy our time together.");
 MsgDisp("主人公","(For some reason, my heart is
-pounding......)");
+pounding...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -6,14 +6,14 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("L040200005_02_000");
-    MsgDisp("Sassa","......Ah.");
+    MsgDisp("Sassa","...Ah.");
     MsgDisp("主人公","What's wrong?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200005_02_010");
     MsgDisp("Sassa","Ah, nothing.
-...... This is handmade?");
+... This is handmade?");
     MsgDisp("主人公","Yeah.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -34,7 +34,7 @@ I'll eat it at home.");
     ChClose(2);
     Wait(30);
     MsgDisp("主人公","(Did I add something that he doesn't
-like......?
+like...?
 But, he seemed pleased enough.)");
     break ;
     case 3:
@@ -48,7 +48,7 @@ But, he seemed pleased enough.)");
     ChMouth(2,0);
     ChMotion(2,3);
     VoicePlay("L040200005_02_050");
-    MsgDisp("Sassa","This is...... for me, right?");
+    MsgDisp("Sassa","This is... for me, right?");
     MsgDisp("主人公","That's right, is something wrong?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -71,7 +71,7 @@ Alright.");
     ChClose(2);
     Wait(30);
     MsgDisp("主人公","(Did I add something that he doesn't
-like......?
+like...?
 But, he seemed pleased enough.)");
     break ;
     case 4:
@@ -91,7 +91,7 @@ Nice.");
 There's just something in it that I'm not
 good with.");
     MsgDisp("主人公","Oh!
-S-Sorry......");
+S-Sorry...");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -111,7 +111,7 @@ something for me.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(I added something he didn't like......
+    MsgDisp("主人公","(I added something he didn't like...
 But, he seemed pleased enough.))");
     break ;
     default :

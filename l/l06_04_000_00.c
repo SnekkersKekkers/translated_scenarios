@@ -24,7 +24,7 @@ BGMStop();
 MsgClose();
 ChClose(4,0,30);
 Wait(60);
-MsgDisp("主人公","(Hm......
+MsgDisp("主人公","(Hm...
 This is obligatory.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,7 +5,7 @@ StlEye(22,1);
 StlMouth(22,1);
 StlCheek(22,0);
 VoicePlay("U120D00203_22_000");
-MsgDisp("Hikaru","I guess it's that kind of feeling......
+MsgDisp("Hikaru","I guess it's that kind of feeling...
 Hey, Mari, are you not interested in
 romance?");
 MsgDisp("主人公","Huh?");

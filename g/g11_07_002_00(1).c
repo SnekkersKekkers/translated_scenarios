@@ -1,7 +1,7 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛御影＊＊｝ said he would give me some
-extracurricular handouts......)");
+extracurricular handouts...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -16,7 +16,7 @@ BGMPlay("BGM_C07_MIKAGE_A");
 BGOpen("ev007",0);
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, thought so......");
+MsgDisp("主人公","Ah, thought so...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -47,7 +47,7 @@ MsgDisp("Mikage","That's right.
 Even if I haven't done anything I'll get
 in trouble just for dressing like this.");
 MsgDisp("主人公","Hehe.
-...... Ah, I came to collect the handouts
+... Ah, I came to collect the handouts
 for our extracurricular activities.");
 ChEye(7,0);
 ChMouth(7,0);

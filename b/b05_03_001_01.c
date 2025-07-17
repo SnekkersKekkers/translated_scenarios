@@ -23,7 +23,7 @@ MsgDisp("主人公","(Hehe, the kids captured
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","Uwaah, a-amazing......!");
+MsgDisp("主人公","Uwaah, a-amazing...!");
 VoicePlay("B050300101_45_010");
 MsgDisp("Girl","Y-Yeah.
 There are a lot, huh?");
@@ -43,14 +43,14 @@ StlEye(3,2);
 VoicePlay("B050300101_03_020");
 MsgDisp("Honda","Yessiree, it makes a good broth.
 It's best in a miso soup!");
-MsgDisp("主人公","You're going to eat one......?");
+MsgDisp("主人公","You're going to eat one...?");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("B050300101_03_030");
 MsgDisp("Honda","Huh?
 Do you not like crabs?");
-MsgDisp("主人公","It's not that......
-There are just so many of them......");
+MsgDisp("主人公","It's not that...
+There are just so many of them...");
 StlEye(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("B050300101_03_040");
@@ -79,10 +79,10 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B050300101_03_050");
-MsgDisp("Honda","Eh, that......
+MsgDisp("Honda","Eh, that...
 Hmm, what do you think?");
 MsgDisp("主人公","Ehhh∋
-Asking me is sort of......");
+Asking me is sort of...");
 VoicePlay("B050300101_45_030");
 MsgDisp("Girl","Wait a minute, Quiz King!
 You can't ask a girl that sort of thing.
@@ -92,10 +92,10 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B050300101_03_060");
 MsgDisp("Honda","Eh, is that so?
-Sorry......");
+Sorry...");
 MsgDisp("主人公","(Hehe!
 ｛本多＊＊｝ seems stumped.
-I guess that's pretty rare......?)");
+I guess that's pretty rare...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

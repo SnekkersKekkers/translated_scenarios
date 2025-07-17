@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030601000_06_000");
 MsgDisp("Himuro","Where are we going?");
-MsgDisp("主人公","Uhm......");
+MsgDisp("主人公","Uhm...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

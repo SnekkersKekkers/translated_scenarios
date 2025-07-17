@@ -5,7 +5,7 @@ VoicePlay("T020700022_07_000");
 MsgDisp("Mikage","Oi-∋
 Wh-what's wrong?");
 MsgDisp("主人公","I love ｛御影＊＊｝ too.
-Did you...... receive my feelings?");
+Did you... receive my feelings?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -18,7 +18,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 ChCheek(7,0);
 VoicePlay("T020700022_07_020");
-MsgDisp("Mikage","But......you and I have graduated now——");
+MsgDisp("Mikage","But...you and I have graduated now——");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -32,7 +32,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020700022_07_040");
 MsgDisp("Mikage","Haa?
-Where did my serious girl go......");
+Where did my serious girl go...");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

@@ -24,7 +24,7 @@ VoicePlay("T020220022_02_020");
 MsgDisp("Sassa","What should I tell those two about?
 That hug from you?");
 MsgDisp("主人公","Eh∋
-That's embarrassing......");
+That's embarrassing...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -52,7 +52,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020220022_02_060");
-MsgDisp("Sassa","......Let's run together forever.");
+MsgDisp("Sassa","...Let's run together forever.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -64,7 +64,7 @@ VoicePlay("T020220022_02_070");
 MsgDisp("Sassa","Now it's my turn to hug you.");
 VoiceEVSPlay(2);
 VoicePlay("T020220022_02_080");
-MsgDisp("Sassa","｛主人公｝......
+MsgDisp("Sassa","｛主人公｝...
 I love you.");
 StlEffect(1,1,60);
 Wait(60,0);

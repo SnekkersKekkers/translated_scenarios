@@ -11,7 +11,7 @@ ChMouth(1,0);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130001_01_010");
-MsgDisp("Kazama","Mmmm, yeah, that's true......");
+MsgDisp("Kazama","Mmmm, yeah, that's true...");
 MsgDisp("主人公","Is something bothering you?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -39,7 +39,7 @@ VoicePlay("G020130001_01_040");
 MsgDisp("Kazama","I'm being with you, and you're being with
 them.
 The two things are totally different.");
-MsgDisp("主人公","Ummm......");
+MsgDisp("主人公","Ummm...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -58,8 +58,8 @@ ChCheek(1,5);
 Wait(8,0);
 ChMotion(1,1);
 VoicePlay("G020130001_01_060");
-MsgDisp("Kazama","Th-that's just......you know, Inori
-randomly deciding to mess with me......");
+MsgDisp("Kazama","Th-that's just...you know, Inori
+randomly deciding to mess with me...");
 ChEye(1,1);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -67,7 +67,7 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("G020130001_01_070");
 MsgDisp("Kazama","And Sassa bothering me to arm-wrestle him
-to 'test my strength'...... They're both
+to 'test my strength'... They're both
 such brats. Just huge pains to deal with.");
 MsgDisp("主人公","(Hahah.
 So, basically, you're all friends!)");

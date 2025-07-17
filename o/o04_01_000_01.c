@@ -9,8 +9,8 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,30,0,2,2,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040100001_01_000");
-    MsgDisp("Kazama","......Geez, what was that?");
-    MsgDisp("主人公","(Aah, too bad......)");
+    MsgDisp("Kazama","...Geez, what was that?");
+    MsgDisp("主人公","(Aah, too bad...)");
     break ;
     case 3:
     MsgClose();
@@ -20,8 +20,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("O040100001_01_010");
     MsgDisp("Kazama","We lost even though we're together?
 They must've counted wrong.");
-    MsgDisp("主人公","(Hm......
-Even though I did my best......)");
+    MsgDisp("主人公","(Hm...
+Even though I did my best...)");
     break ;
     case 4:
     case 5:
@@ -34,7 +34,7 @@ Even though I did my best......)");
     MsgDisp("Kazama","If this was a pair competition, we
 would've won.");
     MsgDisp("主人公","(Hm.
-It's frustrating......)");
+It's frustrating...)");
     break ;
     default :
     DbgAssert(1);

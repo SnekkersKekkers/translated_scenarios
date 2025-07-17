@@ -4,7 +4,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 MsgDisp("主人公","(Ah, a message from
 ｛風真＊＊｝. \"Let's go home
-together today\" huh...... Okay, let's get
+together today\" huh... Okay, let's get
 ready to go home now.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -55,7 +55,7 @@ VoicePlay("G110101103_01_040");
 MsgDisp("Kazama","As for me, I think it's bette r to
 prioritize our current customers.");
 MsgDisp("主人公","｛風真＊＊｝ is amazing
-huh...... you think about the customers in
+huh... you think about the customers in
 so many different ways.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -65,7 +65,7 @@ ChEyeOpenLevel(1,7);
 VoicePlay("G110101103_01_050");
 MsgDisp("Kazama","If it were my own store, I wouldn't have
 to worry about anything.");
-MsgDisp("主人公","｛風真＊＊｝'s shop'......
+MsgDisp("主人公","｛風真＊＊｝'s shop'...
 I'm sure it'll be wonderful.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -75,8 +75,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G110101103_01_060");
 MsgDisp("Kazama","What, why are you saying that like it's
 someone else's business?
-...... Geez.");
-MsgDisp("主人公","(Hmm......?)");
+... Geez.");
+MsgDisp("主人公","(Hmm...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

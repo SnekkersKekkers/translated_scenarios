@@ -20,7 +20,7 @@ Well then, let's go.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("F010400005_04_010");
-    MsgDisp("Nanatsumori","ＯＫ.
+    MsgDisp("Nanatsumori","OK.
 I wanted someone to talk to, anyways.
 Let's take it easy.");
     MsgDisp("主人公","Of course!

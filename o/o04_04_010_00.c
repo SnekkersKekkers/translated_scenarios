@@ -5,7 +5,7 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","My team is......
+    MsgDisp("主人公","My team is...
 Ah, it's ｛七ツ森＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -14,12 +14,12 @@ Ah, it's ｛七ツ森＊｝.");
     ChOpen(4,30,0,2,2,#1,#1,0,0,0,60);
     ChMotion(4,1,1);
     VoicePlay("O040401000_04_000");
-    MsgDisp("Nanatsumori","How annoying......");
-    MsgDisp("主人公","Geez......
+    MsgDisp("Nanatsumori","How annoying...");
+    MsgDisp("主人公","Geez...
 Let's do our best together!");
     break ;
     case 3:
-    MsgDisp("主人公","My team is......
+    MsgDisp("主人公","My team is...
 Ah, it's ｛七ツ森＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
@@ -34,12 +34,12 @@ Looking forward to it!");
     ChMotion(4,1,1);
     VoicePlay("O040401000_04_020");
     MsgDisp("Nanatsumori","Ah, aah.
-...... You, aren't serious about this,
+... You, aren't serious about this,
 right?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","My team is......");
+    MsgDisp("主人公","My team is...");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -62,7 +62,7 @@ expectations, though.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("O040401000_04_050");
-    MsgDisp("Nanatsumori","Together......
+    MsgDisp("Nanatsumori","Together...
 Yeah.
 Let's do this.");
     break ;

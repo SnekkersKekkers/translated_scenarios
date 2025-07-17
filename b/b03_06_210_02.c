@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B030621002_06_010");
-    MsgDisp("Himuro","......That's fine, I guess.");
+    MsgDisp("Himuro","...That's fine, I guess.");
     MsgDispSksp(0);
     break ;
     case 2:

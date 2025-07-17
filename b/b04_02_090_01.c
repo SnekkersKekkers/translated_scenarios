@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040209001_02_010");
-    MsgDisp("Sassa","Heeh, cool. If they were vegetables seeds,
+    MsgDisp("Sassa","Ehhh, cool. If they were vegetables seeds,
 I could bring them as a souvenir for
 Mikage-sensei.");
     MsgDispSksp(1,0);

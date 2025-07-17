@@ -21,7 +21,7 @@ here.");
 done an interview for.");
     ChMotion(5,2);
     VoicePlay("I250500000_05_020");
-    MsgDisp("Hiiragi","Aah, the entertainment corner......
+    MsgDisp("Hiiragi","Aah, the entertainment corner...
 Over there.
 I shall go look.");
     MsgClose();
@@ -29,7 +29,7 @@ I shall go look.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(I see, ｛柊＊＊＊｝ is the
-chairman of a theater company...... I
+chairman of a theater company... I
 can't believe I know such a great person.)");
     break ;
     case 3:
@@ -48,12 +48,12 @@ working today.");
     MsgDisp("Hiiragi","Hm?
 Even if I cannot study, I can still read
 books, no?");
-    MsgDisp("主人公","Um......
-I didn't mean......");
+    MsgDisp("主人公","Um...
+I didn't mean...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("I250500000_05_050");
-    MsgDisp("Hiiragi","I was merely joking......
+    MsgDisp("Hiiragi","I was merely joking...
 Was it difficult to understand?");
     MsgDisp("主人公","Hehe, maybe a little.");
     ChEye(5,3);
@@ -69,7 +69,7 @@ easier to understand, I will return.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(......Hm? What did
+    MsgDisp("主人公","(...Hm? What did
 ｛柊＊＊＊｝ come for? Could it
 be that he came to check on me?)");
     break ;
@@ -109,7 +109,7 @@ studying.)");
 Let me take that for you.");
     SEPlay("EV_SE_043");
     SEWait();
-    MsgDisp("主人公","...... Hm? \"
+    MsgDisp("主人公","... Hm? \"
 Habataki City Dating Guidebook\"?");
     ChEye(5,3);
     ChMotion(5,4);
@@ -125,7 +125,7 @@ I will leave it to you to grade me.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(He said a reference book......
+    MsgDisp("主人公","(He said a reference book...
 Could it be that he's going to ask me on a
 date?)");
     break ;

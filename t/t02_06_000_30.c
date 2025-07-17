@@ -6,7 +6,7 @@ VoicePlay("T020600000_06_400");
 ChEye(6,0);
 ChMouth(6,0);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","......Sudden?");
+MsgDisp("Himuro","...Sudden?");
 MsgDisp("主人公","Yeah...");
 VoicePlay("T020600000_06_410");
 ChEye(6,1);
@@ -39,7 +39,7 @@ ChEyeOpenLevel(6,0);
 MsgDisp("Himuro","And now...
 I'm such a wreck that I could cry just
 thinking about you.");
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 VoicePlay("T020600000_06_460");
 ChEye(6,2);
 ChMouth(6,0);

@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     Wait(50,0);
     MsgDisp("主人公","Thank you very much!");
     MsgDisp("主人公","(Haa, and now we need detergent for the
-car wash......)");
+car wash...)");
     VoicePlay("I650600000_06_000");
     MsgDisp("Himuro?","Hm, so you're working here?");
     MsgClose();
@@ -29,7 +29,7 @@ a familiar voice somewhere.");
     ChMotion(6,1);
     VoicePlay("I650600000_06_020");
     MsgDisp("Himuro","Well, work hard.
-...... Bye.");
+... Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -46,7 +46,7 @@ I wonder if he was checking on me?)");
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650600000_06_030");
-    MsgDisp("Himuro","Wow......
+    MsgDisp("Himuro","Wow...
 You working hard?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
     ChEye(6,0);
@@ -66,7 +66,7 @@ But it's worth doing.");
     ChMotion(6,0);
     VoicePlay("I650600000_06_060");
     MsgDisp("Himuro","Well, just don't overdo it.
-...... Bye.");
+... Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -86,7 +86,7 @@ If so, I'm happy.)");
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650600000_06_070");
-    MsgDisp("Himuro","......Hello.");
+    MsgDisp("Himuro","...Hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -104,7 +104,7 @@ If so, I'm happy.)");
 It's echoing onto the road.");
     MsgDisp("主人公","Huh, really?
 I always try to greet people cheerfully,
-so......");
+so...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -119,7 +119,7 @@ Customer service is tough.");
     VoicePlay("I650600000_06_110");
     MsgDisp("Himuro","Well, here.
 I had this leftover, so take it.");
-    MsgDisp("主人公","Huh...... a throat lozenge?");
+    MsgDisp("主人公","Huh... a throat lozenge?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -134,7 +134,7 @@ voice.");
     ChMotion(6,1);
     VoicePlay("I650600000_06_130");
     MsgDisp("Himuro","You're welcome.
-...... Bye.");
+... Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

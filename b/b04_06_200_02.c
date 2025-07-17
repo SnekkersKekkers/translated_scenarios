@@ -57,7 +57,7 @@ I'm still not used to it.");
         ChMotion(6,0);
         ChCheek(6,10);
         VoicePlay("B040620002_06_040");
-        MsgDisp("Himuro","...............");
+        MsgDisp("Himuro","......");
         MsgDisp("主人公","Hehe, can you give me your hand?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -105,7 +105,7 @@ This is payback for laughing at me.");
         MsgDisp("Himuro","We both need to be careful or we'll get
 hurt.
 Come on, give me your hand.");
-        MsgDisp("主人公","............");
+        MsgDisp("主人公","......");
         SEPlay("EV_SE_760");
         SEWait();
         Wait(60,0);

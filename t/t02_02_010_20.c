@@ -12,7 +12,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("T020201020_02_000");
-MsgDisp("Sassa","......Seriously, together with me?......?");
+MsgDisp("Sassa","...Seriously, together with me?...?");
 MsgDisp("主人公","Yes.
 I'm sorry I didn't notice when
 ｛颯砂＊＊｝ was suffering.");
@@ -23,7 +23,7 @@ VoicePlay("T020201020_02_010");
 MsgDisp("Sassa","Oh, don't apologize.
 I'm the one who's usually sorry.
 So, thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -33,12 +33,12 @@ MsgDisp("Sassa","Now I can pursue my dreams with the person
 I love.
 I couldn't be happier.");
 MsgDisp("主人公","Me too.
-With my beloved ｛颯砂＊＊｝......");
+With my beloved ｛颯砂＊＊｝...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020201020_02_030");
-MsgDisp("Sassa","...... Yeah.
+MsgDisp("Sassa","... Yeah.
 Let's keep running together.");
 BGMStop(2.8);
 MsgClear();

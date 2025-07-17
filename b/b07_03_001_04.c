@@ -49,7 +49,7 @@ VoicePlay("B070300001_03_280");
 MsgDisp("Honda","Oh, right... I guess that's why we don't
 end up talking about favorite types or
 anything when we hang out.");
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Hmm?)");
 BGMStop();
 MsgClose();

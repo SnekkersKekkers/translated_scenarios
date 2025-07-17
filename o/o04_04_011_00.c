@@ -18,7 +18,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("O040401100_04_010");
     MsgDisp("Nanatsumori","You're on the other team, huh.
-Go easy on us......");
+Go easy on us...");
     break ;
     case 4:
     case 5:

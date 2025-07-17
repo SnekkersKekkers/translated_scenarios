@@ -6,7 +6,7 @@ ScrFadeIn(0);
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B040108302_01_000");
-MsgDisp("Kazama","...... Let's try and keep quiet for a
+MsgDisp("Kazama","... Let's try and keep quiet for a
 second.");
 MsgSel("... Hey, hey, did you hear that?","Isn't that rumor at night?","THIS. IS. MY. INNER. VOICE. BEEP.");
 switch (MsgSelRsltGet()){
@@ -99,7 +99,7 @@ now...");
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040108302_01_090");
-        MsgDisp("Kazama","...... THIS. IS. HIS. INNER. VOICE. BEEP.");
+        MsgDisp("Kazama","... THIS. IS. HIS. INNER. VOICE. BEEP.");
         MsgDisp("主人公","Hehe, your inner voice did a self
 introduction too?");
         ChEye(1,2);

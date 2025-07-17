@@ -8,7 +8,7 @@ ChMotion(5,4);
 VoicePlay("G020540002_05_010");
 MsgDisp("Hiiragi","It's mysterious.
 There are also rumours about inner voices,
-hust how many secrets are there......");
+hust how many secrets are there...");
 MsgDisp("主人公","Could it be due to the benefits of the
 spring water?");
 ChEye(5,0);
@@ -34,9 +34,9 @@ VoicePlay("G020540002_05_050");
 MsgDisp("Hiiragi","Huhu.
 I was just checking if you could hear
 them.");
-MsgDisp("主人公","(Ugh...... ｛柊＊＊＊｝ from
+MsgDisp("主人公","(Ugh... ｛柊＊＊＊｝ from
 time to time will say unexpected things
-that surprise me......)");
+that surprise me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

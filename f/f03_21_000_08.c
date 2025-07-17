@@ -19,7 +19,7 @@ ChMouth(21,4);
 ChMotion(21,2);
 ChCheek(21,0);
 VoicePlay("F032100000_21_420");
-MsgDisp("Michiru","............");
+MsgDisp("Michiru","......");
 ChMotion(21,0);
 VoicePlay("F032100000_21_430");
 MsgDisp("Michiru","I also don't know.");

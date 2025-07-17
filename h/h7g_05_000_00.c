@@ -34,7 +34,7 @@ Well, then.");
 MsgClose();
 ChClose(5);
 MsgDisp("主人公","(I'd be happy if I could be of use to
-｛柊＊＊＊｝...... I'm glad I worked
+｛柊＊＊＊｝... I'm glad I worked
 so hard for the handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

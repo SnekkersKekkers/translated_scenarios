@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛大地＊＊｝, I guess......");
+MsgDisp("主人公","｛大地＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -27,7 +27,7 @@ Hikaru is rooting for you!");
     VoicePlay("U130D00007_22_010");
     MsgDisp("Hikaru","Treasure the way you two met!
 That was a lucky opportunity, wasn't it?");
-    MsgDisp("主人公","(How we met......
+    MsgDisp("主人公","(How we met...
 I guess I should continue working at my
 part-time job.)");
     break ;
@@ -51,7 +51,7 @@ lot of interest in Habataki celebrities.");
     MsgDisp("Michiru","I think Mari should show him how cool she
 is. Making a lot of friends at school
 might ignite his competitive side");
-    MsgDisp("主人公","(｛大地＊＊｝ is competitive, huh......
+    MsgDisp("主人公","(｛大地＊＊｝ is competitive, huh...
 If I become friends with him, will I be
 able to see every side of him?)");
     break ;
@@ -82,7 +82,7 @@ his mind.");
     VoicePlay("U130D00007_21_040");
     MsgDisp("Michiru","It's a new challenge that's different from
 before.
-He's setting his sights on it......");
+He's setting his sights on it...");
     MsgDisp("主人公","?");
     StlEye(21,0);
     StlEye(22,0);
@@ -92,7 +92,7 @@ He's setting his sights on it......");
 key is to have the same goals.
 Good luck♪");
     MsgDisp("主人公","(The same goals as
-｛大地＊＊｝......)");
+｛大地＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

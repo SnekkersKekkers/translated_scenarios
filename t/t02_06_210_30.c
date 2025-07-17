@@ -9,7 +9,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020621000_06_370");
 MsgDisp("Himuro","Stop.
-...... Enough already.");
+... Enough already.");
 MsgDisp("主人公","But...");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
@@ -38,18 +38,18 @@ ChMouth(6,0);
 ChEyeOpenLevel(6,0);
 MsgDisp("Himuro","Because if I don't, I'll just end up alone
 again.");
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 VoicePlay("T020621000_06_420");
 ChEye(6,2);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","...... I'm sorry.
+MsgDisp("Himuro","... I'm sorry.
 Thank you for everything.");
 VoicePlay("T020621000_06_430");
 ChEye(6,2);
 ChMouth(6,4);
 ChMotion(6,0);
-MsgDisp("Himuro","......Goodbye.");
+MsgDisp("Himuro","...Goodbye.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

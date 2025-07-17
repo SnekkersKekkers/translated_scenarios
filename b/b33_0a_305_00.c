@@ -140,7 +140,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,5);
 VoicePlay("B330A30500_06_070");
-MsgDisp("Himuro","............");
+MsgDisp("Himuro","......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

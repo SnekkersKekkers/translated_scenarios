@@ -85,7 +85,7 @@ VoicePlay("Y300700400_07_050");
 MsgDisp("Mikage","\"Then, where should the three of us
 go?\"");
 VoicePlay("Y300700400_05_020");
-MsgDisp("Hiiragi","\"......\"");
+MsgDisp("Hiiragi","\"...\"");
 MsgDisp("","When hearing that, there was an odd
 pause.
 Yanosuke looked at me apologetically.");

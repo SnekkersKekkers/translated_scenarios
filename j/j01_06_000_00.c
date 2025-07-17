@@ -14,7 +14,7 @@ switch (ChPrmGet(6,6)){
 now a good time?");
     VoicePlay("J010600000_06_010");
     MsgDisp("Himuro","Yeah, what's up?");
-    MsgDisp("主人公","Um, well......");
+    MsgDisp("主人公","Um, well...");
     break ;
     case 3:
     VoicePlay("J010600000_06_020");
@@ -24,19 +24,19 @@ now a good time?");
 now a good time?");
     VoicePlay("J010600000_06_010");
     MsgDisp("Himuro","Yeah it's fine, what's going on?");
-    MsgDisp("主人公","Um, well......");
+    MsgDisp("主人公","Um, well...");
     break ;
     case 4:
     case 5:
     VoicePlay("J010600000_06_040");
-    MsgDisp("Himuro","......Yes, hello.");
+    MsgDisp("Himuro","...Yes, hello.");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝? It's
 ｛主人公苗字｝, is
 now a good time?");
     VoicePlay("J010600000_06_050");
     MsgDisp("Himuro","If it weren't I wouldn't have picked up.
 What's going on?");
-    MsgDisp("主人公","Right, well......");
+    MsgDisp("主人公","Right, well...");
     break ;
     default :
     DbgAssert(1);

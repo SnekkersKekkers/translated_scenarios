@@ -14,10 +14,10 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O020300001_03_000");
-    MsgDisp("Honda","Hm......
+    MsgDisp("Honda","Hm...
 The other team was really in sync.
 Did the all practice together?");
-    MsgDisp("主人公","(I lost......
+    MsgDisp("主人公","(I lost...
 I wish I tried harder.)");
     break ;
     case 3:
@@ -27,7 +27,7 @@ I wish I tried harder.)");
     VoicePlay("O020300001_03_010");
     MsgDisp("Honda","It looked like either team could've won
 today's match.
-...... Until halfway through.");
+... Until halfway through.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0);
@@ -35,7 +35,7 @@ today's match.
     MsgDisp("Honda","In the last few seconds, I guess the other
 team persisted a little more?
 Hm, that was close.");
-    MsgDisp("主人公","(I lost......
+    MsgDisp("主人公","(I lost...
 I wish I tried harder.)");
     break ;
     case 4:

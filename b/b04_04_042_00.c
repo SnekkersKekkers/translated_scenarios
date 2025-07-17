@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040404200_04_000");
-    MsgDisp("Nanatsumori","Pros are amazing after allー......
+    MsgDisp("Nanatsumori","Pros are amazing after allー...
 The genre was different, but I still feel
 like it was pretty stimulating.");
     MsgDispSksp(1,0);

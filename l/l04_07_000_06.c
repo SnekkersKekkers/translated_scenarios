@@ -7,23 +7,23 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,2);
     VoicePlay("L040700006_07_000");
     MsgDisp("Mikage","Hey, don't scare me with chocolate, okay?");
-    MsgDisp("主人公","I'm sorry......
-I tried to put my all into it, but......");
+    MsgDisp("主人公","I'm sorry...
+I tried to put my all into it, but...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("L040700006_07_010");
     MsgDisp("Mikage","It's good to challenge yourself.
 But, food is valuable, too.");
-    MsgDisp("主人公","Yes......");
+    MsgDisp("主人公","Yes...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700006_07_020");
     MsgDisp("Mikage","Having said that, thanks.
 I'm happy about your feelings.");
-    MsgDisp("主人公","(Ugh......
-I wish it came out better......)");
+    MsgDisp("主人公","(Ugh...
+I wish it came out better...)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -36,9 +36,9 @@ I wish it came out better......)");
     ChMotion(7,2);
     VoicePlay("L040700006_07_030");
     MsgDisp("Mikage","You made these yourself?
-...... Damn, don't push yourself too hard.");
-    MsgDisp("主人公","I'm sorry......
-I tried to put my feelings into them......");
+... Damn, don't push yourself too hard.");
+    MsgDisp("主人公","I'm sorry...
+I tried to put my feelings into them...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -46,7 +46,7 @@ I tried to put my feelings into them......");
     MsgDisp("Mikage","I see, I can feel your feelings in this.
 Like lava that's beginning to harden,
 right?");
-    MsgDisp("主人公","I'm sorry......");
+    MsgDisp("主人公","I'm sorry...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -54,8 +54,8 @@ right?");
     MsgDisp("Mikage","Sorry, sorry.
 You did make it just for me.
 That's good enough, thanks.");
-    MsgDisp("主人公","(Ugh......
-I wish it came out better......)");
+    MsgDisp("主人公","(Ugh...
+I wish it came out better...)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -68,9 +68,9 @@ I wish it came out better......)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700006_07_060");
-    MsgDisp("Mikage","This is......");
-    MsgDisp("主人公","I'm sorry......
-I wanted to put my feelings in, but......");
+    MsgDisp("Mikage","This is...");
+    MsgDisp("主人公","I'm sorry...
+I wanted to put my feelings in, but...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -86,7 +86,7 @@ half-hearted.");
 this.
 Thanks.");
     MsgDisp("主人公","｛御影＊＊｝, you don't
-have to force yourself to eat it......");
+have to force yourself to eat it...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -94,9 +94,9 @@ have to force yourself to eat it......");
     MsgDisp("Mikage","What are you talking about?
 I'll make sure to accept your feelings in
 my stomach.");
-    MsgDisp("主人公","(Aah, I wish I had made them better......
+    MsgDisp("主人公","(Aah, I wish I had made them better...
 I feel bad for
-｛御影＊＊｝......)");
+｛御影＊＊｝...)");
     MsgClose();
     BGMStop();
     MsgClose();

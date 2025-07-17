@@ -33,7 +33,7 @@ See you later!");
     ChMouth(8,3);
     ChMotion(8,0);
     VoicePlay("S120800000_08_020");
-    MsgDisp("Shirahane","Ha......
+    MsgDisp("Shirahane","Ha...
 I knew it.");
     MsgDisp("主人公","That Amazake was delicious!");
     ChEye(8,3);
@@ -51,7 +51,7 @@ inside.");
     ChMouth(8,3);
     ChMotion(8,0);
     VoicePlay("S120800000_08_040");
-    MsgDisp("Shirahane","Haha......
+    MsgDisp("Shirahane","Haha...
 What a good start to the year.");
     MsgDisp("主人公","Yeah!
 It was fun!");

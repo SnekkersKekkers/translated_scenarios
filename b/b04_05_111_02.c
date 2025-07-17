@@ -67,7 +67,7 @@ Theater Company's Ice Show.");
         ChEye(5,0);
         ChMouth(5,2);
         VoicePlay("B040511102_05_060");
-        MsgDisp("Hiiragi","Ehh......");
+        MsgDisp("Hiiragi","Ehh...");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -78,7 +78,7 @@ that.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040511102_05_080");
-        MsgDisp("Hiiragi","An Ice Show huh......");
+        MsgDisp("Hiiragi","An Ice Show huh...");
         MsgDisp("主人公","Seeing ｛柊＊＊＊｝ perform on
 ice in a beautiful costume would be
 wonderful.");
@@ -104,14 +104,14 @@ I'll try it.");
         MsgDisp("Woman Customer","A-Are you okay?");
         VoicePlay("B040511102_05_110");
         MsgDisp("Hiiragi","Ah, uhm, yes.
-Sorry for the trouble......");
+Sorry for the trouble...");
         MsgClose();
         ChOpen(5,255,0,2,4,#1,#1,0,0);
         VoicePlay("B040511102_05_120");
         MsgDisp("Hiiragi","I think it will be difficult for me to
-turn your idea into a reality......");
+turn your idea into a reality...");
         MsgDisp("主人公","(Phew, thank goodness nobody got
-hurt......)");
+hurt...)");
         break ;
         default :
         DbgAssert(1);

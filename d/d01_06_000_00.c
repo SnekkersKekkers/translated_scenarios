@@ -16,9 +16,9 @@ MsgDisp("Guy A","The waves are nice today.");
 VoicePlay("D010600000_42_010");
 MsgDisp("Guy B","Right?
 The perfect day for surfing.");
-MsgDisp("主人公","(Eh......
+MsgDisp("主人公","(Eh...
 There are a lot of surfers out today.)");
-MsgDisp("主人公","(......
+MsgDisp("主人公","(...
 Huh?
 Over at the cafe, is that——)");
 SEPlay("EV_SE_531",0,0.3);
@@ -31,18 +31,18 @@ StlOpen("ev_06_06");
 StlEye(6,0);
 StlMouth(6,0);
 ScrFadeIn(0);
-MsgDisp("主人公","......｛氷室＊＊｝?");
+MsgDisp("主人公","...｛氷室＊＊｝?");
 StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0);
 VoicePlay("D010600000_06_000");
-MsgDisp("Himuro","............");
+MsgDisp("Himuro","......");
 MsgDisp("主人公","Huh, does he not see me?");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600000_06_010");
-MsgDisp("Himuro","......I see you.");
-MsgDisp("主人公","That surfboard, is that yours......?");
+MsgDisp("Himuro","...I see you.");
+MsgDisp("主人公","That surfboard, is that yours...?");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600000_06_020");
@@ -60,7 +60,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600000_06_040");
-MsgDisp("Himuro","......There are a lot of other people you
+MsgDisp("Himuro","...There are a lot of other people you
 can watch surf.");
 SEPlay("EV_SE_621");
 SEWait();
@@ -76,7 +76,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, he left......");
+MsgDisp("主人公","Ah, he left...");
 VoicePlay("D010600000_34_020");
 MsgDisp("Guy A","What a horrible thing to say.
 You shouldn't take it personally.");
@@ -84,8 +84,8 @@ MsgDisp("主人公","Eh?");
 VoicePlay("D010600000_42_030");
 MsgDisp("Guy B","That guy is famous good at surfing but, he
 doesn't get along with us well.");
-MsgDisp("主人公","I see......");
-MsgDisp("主人公","(｛氷室＊＊｝, isn't that lonely......?)");
+MsgDisp("主人公","I see...");
+MsgDisp("主人公","(｛氷室＊＊｝, isn't that lonely...?)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(6,0);

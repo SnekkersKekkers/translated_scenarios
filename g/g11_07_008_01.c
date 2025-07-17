@@ -55,7 +55,7 @@ MsgDisp("Mikage","The girl who used to make a fuss every
 time she saw a bug now casually picks them
 up with her hands.");
 MsgDisp("主人公","But, touching them with my hands is still
-a bit......");
+a bit...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -64,7 +64,7 @@ MsgDisp("Mikage","Even if you say that, before you know it,
 you've become okay with it.");
 MsgDisp("主人公","(Hey, there's something on
 ｛御影＊＊｝ 's
-clothes......?)");
+clothes...?)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(7,1,0,0,1,1);
@@ -90,7 +90,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 MsgDisp("Mikage","Why are you surprised?");
 MsgDisp("主人公","Because I thought it was a bug or
-something......");
+something...");
 VoicePlay("G110700801_07_100");
 ChEye(7,0);
 ChMouth(7,0);
@@ -98,7 +98,7 @@ ChMotion(7,0);
 MsgDisp("Mikage","I see.
 Well, this will help you get used to it.");
 MsgDisp("主人公","(Yes, it looks like it'll take some time
-for me to get used to the bugs......)");
+for me to get used to the bugs...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

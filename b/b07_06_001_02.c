@@ -41,7 +41,7 @@ VoicePlay("B070600001_06_140");
 MsgDisp("Himuro","When someone gets seriously into
 something, it usually creates distance or
 a gulf between them and others.");
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);

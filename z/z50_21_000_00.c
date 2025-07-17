@@ -10,7 +10,7 @@ ChMotion(21,3);
 VoicePlay("Z502100000_21_000");
 MsgDisp("Michiru","Mari.
 Are you working hard at improving?");
-MsgDisp("主人公","Hm......
+MsgDisp("主人公","Hm...
 I'm not sure.
 How can I be more fashionable?");
 ChEye(21,0);
@@ -25,4 +25,4 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Z502100000_21_020");
-MsgDisp("Michiru","First, today, Mari's fashion is......");
+MsgDisp("Michiru","First, today, Mari's fashion is...");

@@ -15,7 +15,7 @@ ChMotion(3,4,1);
 ChEyeOpenLevel(3,8);
 VoicePlay("E010310000_03_010");
 MsgDisp("Honda","Huhu, is it possible that you
-also～......?");
+also～...?");
 MsgDisp("主人公","Eh?
 What?");
 ChEye(3,0);
@@ -78,7 +78,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Another stomach for ramen......
+MsgDisp("主人公","(Another stomach for ramen...
 Is ｛本多＊＊｝ a big eater?)");
 MsgClose();
 ScrFadeOut(0,0);

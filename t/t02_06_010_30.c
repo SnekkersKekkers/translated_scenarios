@@ -1,22 +1,22 @@
 ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 BGMStop();
-MsgDisp("主人公","I'm sorry......
-I......");
+MsgDisp("主人公","I'm sorry...
+I...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_310");
 MsgDisp("Himuro","That you can't respond to my feelings?");
-MsgDisp("主人公","......Yes.");
+MsgDisp("主人公","...Yes.");
 VoicePlay("T020601000_06_320");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","Ah......
+MsgDisp("Himuro","Ah...
 I see.");
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
 VoicePlay("T020601000_06_330");
@@ -26,7 +26,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 MsgDisp("Himuro","It's alright.
 I'm not going to give up.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 VoicePlay("T020601000_06_340");
 ChEye(6,0);
 ChMouth(6,0);
@@ -50,7 +50,7 @@ VoicePlay("T020601000_06_370");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","Until then......
+MsgDisp("Himuro","Until then...
 I'll wait patiently.
 Senpai?");
 BGMStop(3.6);

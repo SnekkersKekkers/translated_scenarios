@@ -19,14 +19,14 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("U022200000_22_020");
-MsgDisp("Hikaru","Ahh......
+MsgDisp("Hikaru","Ahh...
 Playing with Mari is really fun♪");
 MsgDisp("主人公","Hehe.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("U022200000_22_030");
-MsgDisp("Hikaru","Ah......
+MsgDisp("Hikaru","Ah...
 Are you having fun, Mari?
 Or is only Hikaru enjoying this?");
 MsgDisp("主人公","What does it look like?");

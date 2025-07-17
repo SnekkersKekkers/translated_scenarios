@@ -12,14 +12,14 @@ shelf over there.");
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_510");
-    MsgDisp("Honda","......Splendid.");
+    MsgDisp("Honda","...Splendid.");
     MsgDisp("主人公","Huh?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_520");
     MsgDisp("Honda","When you first started working, you had no
-idea which shelf carried what......");
+idea which shelf carried what...");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -45,7 +45,7 @@ watching you work!");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_560");
     MsgDisp("Honda","If I'm not careful, you'll surpass me.");
-    MsgDisp("主人公","(Hehe! I still have a long way to go......
+    MsgDisp("主人公","(Hehe! I still have a long way to go...
 But I'm happy ｛本多＊＊｝
 praised me!)");
     break ;
@@ -55,14 +55,14 @@ praised me!)");
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,4,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_570");
-    MsgDisp("Honda","...... Hm?
+    MsgDisp("Honda","... Hm?
 Isn't the store sparkling?");
     MsgDisp("主人公","Huh?");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_580");
     MsgDisp("Honda","The books are perfectly aligned, and the
 titles are all perfect.
-Even the heights are in line......");
+Even the heights are in line...");
     MsgDisp("主人公","Yeah, I noticed it so I fixed it.
 But, I'm surprised you noticed,
 ｛本多＊＊｝.");
@@ -73,7 +73,7 @@ But, I'm surprised you noticed,
     VoicePlay("I260300000_03_590");
     MsgDisp("Honda","I have worked here longer than you, you
 know?");
-    MsgDisp("主人公","Ah...... hehe, you're right.");
+    MsgDisp("主人公","Ah... hehe, you're right.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);

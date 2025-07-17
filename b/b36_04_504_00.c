@@ -13,8 +13,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B360450400_04_000");
-MsgDisp("Nanatsumori","There are so many couples......");
-MsgDisp("主人公","Yeah, you're right......");
+MsgDisp("Nanatsumori","There are so many couples...");
+MsgDisp("主人公","Yeah, you're right...");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -25,13 +25,13 @@ MsgDisp("主人公","O-Okay.");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("B360450400_04_020");
-MsgDisp("Nanatsumori","......Is it embarrassing?");
+MsgDisp("Nanatsumori","...Is it embarrassing?");
 MsgDisp("主人公","Eh?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360450400_04_030");
-MsgDisp("Nanatsumori","Um, how should I say this......
+MsgDisp("Nanatsumori","Um, how should I say this...
 We sort of snuck away from them to go on a
 date in a place like this.");
 ChEye(4,2);
@@ -39,9 +39,9 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B360450400_04_040");
 MsgDisp("Nanatsumori","If this isn't kind of situation you
-wanted......
+wanted...
 Sorry.");
-MsgDisp("主人公","｛七ツ森＊｝......");
+MsgDisp("主人公","｛七ツ森＊｝...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -66,7 +66,7 @@ ChMotion(4,0,1);
 ChCheek(4,8);
 VoiceEVSPlay(4);
 VoicePlay("B360450400_04_080");
-MsgDisp("Nanatsumori","｛主人公｝...... seriously,
+MsgDisp("Nanatsumori","｛主人公｝... seriously,
 this might become serious.");
 BGMStop();
 MsgClose();

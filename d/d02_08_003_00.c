@@ -7,11 +7,11 @@ BGMPlay("BGM_C08_DAICHI_A",0.01);
 ChOpen(8,35,2,3,3,#1,#1,0,0);
 ChEyeOpenLevel(8,0);
 VoicePlay("D020800300_08_000");
-MsgDisp("Shirahane","Cheers......
+MsgDisp("Shirahane","Cheers...
 No, thank you very much!");
 SEStop("EV_SE_589",1);
 MsgDisp("主人公","Thank you very much!
-...... Hehe!");
+... Hehe!");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,4,1);
@@ -38,7 +38,7 @@ MsgDisp("Shirahane","Bet.
 Me and my bro live together in sis'
 apartment.");
 MsgDisp("主人公","You have a brother too!
-I didn't know that......");
+I didn't know that...");
 MsgDisp("主人公","(Now that I think about it, isn't there
 also someone named \"Shirahane\" working at
 Habatcher?)");
@@ -47,13 +47,13 @@ VoicePlay("D020800300_08_040");
 MsgDisp("Shirahane","Bro and Sis usually speak normal Japanese,
 but when they're home they also speak like
 this.");
-MsgDisp("主人公","Oh......");
+MsgDisp("主人公","Oh...");
 ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("D020800300_08_050");
-MsgDisp("Shirahane","......Maybe I should also use normal
+MsgDisp("Shirahane","...Maybe I should also use normal
 Japanese.");
 ChEye(8,3);
 ChMouth(8,3);
@@ -65,7 +65,7 @@ MsgDisp("Shirahane","｛主人公｝ is smiling
 brightly today too!
 I won't lose to you!");
 ChEyeOpenLevel(8,#1);
-MsgDisp("主人公","Haha! It seems you won't! ......I mean,
+MsgDisp("主人公","Haha! It seems you won't! ...I mean,
 your smile is way brighter than mine.");
 ChEye(8,3);
 ChMouth(8,4);
@@ -73,7 +73,7 @@ ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 ChCheek(8,5);
 VoicePlay("D020800300_08_070");
-MsgDisp("Shirahane","Hehe......
+MsgDisp("Shirahane","Hehe...
 Really?");
 MsgDisp("主人公","(Hehe!
 I bet ｛大地＊＊｝'s siblings

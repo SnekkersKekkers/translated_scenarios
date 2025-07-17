@@ -32,9 +32,9 @@ ChMotion(1,0);
 VoicePlay("G020110400_01_040");
 MsgDisp("Kazama","So, actually, white clothes. Since your
 own colors are enough. Yeah, something
-colorless and transparent's fine......");
+colorless and transparent's fine...");
 MsgDisp("主人公","I can't go around wearing transparent
-clothes though......");
+clothes though...");
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -65,17 +65,17 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110400_01_080");
 MsgDisp("Kazama","That made me break out in a cold
-sweat...... I swear I end up saying weird
+sweat... I swear I end up saying weird
 stuff when we're here.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G020110400_01_090");
-MsgDisp("Kazama","......Wait, is this how I really
-feel......∋");
+MsgDisp("Kazama","...Wait, is this how I really
+feel...∋");
 MsgDisp("主人公","(I think ｛風真＊＊｝'s fashion
 preferences might be a bit difficult for
-me......)");
+me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

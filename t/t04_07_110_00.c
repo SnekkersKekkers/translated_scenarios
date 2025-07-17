@@ -11,7 +11,7 @@ StlOpen("ev_07_19");
 ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040711000_07_000");
-MsgDisp("Mikage","My love for you......
+MsgDisp("Mikage","My love for you...
 It doesn't matter if it overflows, or if
 it spills.");
 MsgClose();

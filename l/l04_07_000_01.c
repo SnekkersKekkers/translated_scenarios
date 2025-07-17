@@ -8,7 +8,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("L040700001_07_000");
     MsgDisp("Mikage","Haha.
 Splendid obligatory chocolate.");
-    MsgDisp("主人公","Is it no good......?");
+    MsgDisp("主人公","Is it no good...?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -16,7 +16,7 @@ Splendid obligatory chocolate.");
     VoicePlay("L040700001_07_010");
     MsgDisp("Mikage","No, it's fine.
 It's interesting.");
-    MsgDisp("主人公","(Hm......
+    MsgDisp("主人公","(Hm...
 Should I have given him a better
 chocolate?)");
     MsgClose();
@@ -48,7 +48,7 @@ They're easy to open for a quick bite.");
     SEWait();
     VoicePlay("L040700001_07_040");
     MsgDisp("Mikage","Mm, yum.");
-    MsgDisp("主人公","(Hm......
+    MsgDisp("主人公","(Hm...
 Should I have given him a better
 chocolate?)");
     MsgClose();
@@ -68,7 +68,7 @@ Thanks.");
     VoicePlay("L040700001_07_060");
     MsgDisp("Mikage","Hm, since everyone's giving me the same
 thing, I'll get confused.");
-    MsgDisp("主人公","Um......");
+    MsgDisp("主人公","Um...");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,2);
@@ -86,7 +86,7 @@ Now I can tell them apart.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(Maybe I should've given him a better
-chocolate......?)");
+chocolate...?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

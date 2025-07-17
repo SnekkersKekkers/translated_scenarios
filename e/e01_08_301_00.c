@@ -2,7 +2,7 @@ BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Huh?
-That person over there is......)");
+That person over there is...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(8,255,0,0,0,#1,#1,0,0);
@@ -29,7 +29,7 @@ ChPosition(8,1);
 ChOpen(9,35,0,4,4,#1,#1,0,2);
 VoicePlay("E010830100_09_000");
 MsgDisp("Kuya","Dai-chan, sorry to keep you waiting.
-You are......");
+You are...");
 MsgDisp("主人公","Hello, Kuya-san I happened to pass by and
 spotted ｛大地＊＊｝.");
 ChEye(9,3);
@@ -55,8 +55,8 @@ I delivered it safely.");
 ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
-MsgDisp("主人公","Eh......
-Kuya-san did you perhaps......");
+MsgDisp("主人公","Eh...
+Kuya-san did you perhaps...");
 ChEyeOpenLevel(8,#1);
 ChEye(9,2);
 ChMouth(9,0);
@@ -82,7 +82,7 @@ ChEyeOpenLevel(9,0);
 VoicePlay("E010830100_09_050");
 MsgDisp("Kuya","That's true.
 But it's my special skill");
-MsgDisp("主人公","(skill......?)");
+MsgDisp("主人公","(skill...?)");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);

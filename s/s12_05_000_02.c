@@ -25,7 +25,7 @@ Bye then.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(Another New Year.
-I hope we have a good year......)");
+I hope we have a good year...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -72,7 +72,7 @@ What about ｛柊＊＊＊｝?");
     ChEye(5,4);
     ChMotion(5,2);
     VoicePlay("S120500001_05_080");
-    MsgDisp("Hiiragi","Me as well. Although......I may have
+    MsgDisp("Hiiragi","Me as well. Although...I may have
 gotten a bit distracted while doing so.");
     MsgDisp("主人公","Eh?
 Distracted?");
@@ -87,7 +87,7 @@ started thinking about you.");
     MsgDisp("Hiiragi","Well, I guess it's good for both you and
 the theater to be well.
 So there's no problem right?");
-    MsgDisp("主人公","Uhm......yeah.");
+    MsgDisp("主人公","Uhm...yeah.");
     ChEye(5,4);
     VoicePlay("S120500001_05_110");
     MsgDisp("Hiiragi","Alright, let's go.");

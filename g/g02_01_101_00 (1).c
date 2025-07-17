@@ -19,7 +19,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110100_01_020");
-MsgDisp("Kazama","Same goes for me......");
+MsgDisp("Kazama","Same goes for me...");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -33,7 +33,7 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_040");
-MsgDisp("Kazama","And...... this one!
+MsgDisp("Kazama","And... this one!
 The one flying around us while maintaining
 this weird distance is Firefly Inori.");
 MsgDisp("主人公","Hahah.
@@ -57,22 +57,22 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_070");
-MsgDisp("Kazama","...... But, well, the fact that I'm the
-one here together with you...... you know?
+MsgDisp("Kazama","... But, well, the fact that I'm the
+one here together with you... you know?
 Means I'm in the lead, right?");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020110100_01_080");
-MsgDisp("Kazama","And there you go again......");
+MsgDisp("Kazama","And there you go again...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110100_01_090");
 MsgDisp("Kazama","If you were a firefly, you probably
-wouldn't notice any lights at all......");
+wouldn't notice any lights at all...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -84,7 +84,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110100_01_110");
 MsgDisp("Kazama","There's no way I'd lose, to anyone.");
-MsgDisp("主人公","(Why is my heart racing......)");
+MsgDisp("主人公","(Why is my heart racing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

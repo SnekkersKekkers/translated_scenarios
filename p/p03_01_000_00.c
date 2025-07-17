@@ -11,9 +11,9 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here's your matcha and mitarashi dango～!");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P030100000_01_000");
@@ -25,7 +25,7 @@ Welcome～!");
     ChMotion(1,0);
     VoicePlay("P030100000_01_010");
     MsgDisp("Kazama","I see, so it's the power of you being the
-face of the shop......");
+face of the shop...");
     MsgDisp("主人公","Huh, what are you talking about?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -53,9 +53,9 @@ I'll take that dango set, then.");
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango..");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChOpen(1,254,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(1);
@@ -96,7 +96,7 @@ This uniform is pretty cute.");
     ChCheek(1,7);
     VoicePlay("P030100000_01_080");
     MsgDisp("Kazama","Yeah, it's cute.
-...... Geez, just get me a dango set.");
+... Geez, just get me a dango set.");
     ChEyeOpenLevel(1,#1);
     MsgDisp("主人公","Hehe.
 Alright, one dango set coming right up～!");

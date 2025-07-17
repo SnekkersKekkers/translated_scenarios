@@ -21,8 +21,8 @@ You're getting more used to this.");
     ChNanaType(1);
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400001_04_000");
-    MsgDisp("Nanatsumori","Hmm......");
-    MsgDisp("主人公","Ah......
+    MsgDisp("Nanatsumori","Hmm...");
+    MsgDisp("主人公","Ah...
 Welcome!");
     ChEye(4,1);
     ChMouth(4,4);
@@ -31,7 +31,7 @@ Welcome!");
     VoicePlay("I360400001_04_010");
     MsgDisp("Nanatsumori","Hello.
 You're getting used to it, huh?");
-    MsgDisp("主人公","Huh......
+    MsgDisp("主人公","Huh...
 You heard that?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -74,13 +74,13 @@ Feels nice.");
     ChMotion(4,0,1);
     ChCheek(4,5);
     VoicePlay("I360400001_04_050");
-    MsgDisp("Nanatsumori","Your smile is...... nice, too.");
+    MsgDisp("Nanatsumori","Your smile is... nice, too.");
     MsgDisp("主人公","Hm?");
     ChEye(4,4);
     ChMouth(4,0);
     ChMotion(4,2,1);
     VoicePlay("I360400001_04_060");
-    MsgDisp("Nanatsumori","......A blend coffee and strawberry
+    MsgDisp("Nanatsumori","...A blend coffee and strawberry
 shortcake, please.");
     MsgDisp("主人公","(Did ｛七ツ森＊｝ praise
 me?)");

@@ -15,13 +15,13 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("H4A0500001_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","｛柊＊＊＊｝......
+    MsgDisp("主人公","｛柊＊＊＊｝...
 I lost.");
     VoicePlay("H4A0500001_05_010");
     MsgDisp("Hiiragi","Regardless of winning or losing, this was
 your last stage as a student of Haba High.
 Were you satisfied?");
-    MsgDisp("主人公","No, I wanted to win......");
+    MsgDisp("主人公","No, I wanted to win...");
     ChEye(5,4);
     VoicePlay("H4A0500001_05_020");
     MsgDisp("Hiiragi","I see.
@@ -33,14 +33,14 @@ Well, to the next stage, then.");
     MsgDisp("Hiiragi","As your fan, I would be happier if you
 decided to do so.
 I'd be quite sad if today was the last.");
-    MsgDisp("主人公","｛柊＊＊＊｝......");
+    MsgDisp("主人公","｛柊＊＊＊｝...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("H4A0500001_05_040");
     MsgDisp("Hiiragi","It's up to you to decide.");
-    MsgDisp("主人公","(Yeah......
+    MsgDisp("主人公","(Yeah...
 I lost, but I'm glad I stayed in the
-rhythmic gymnastics club......)");
+rhythmic gymnastics club...)");
     break ;
     default :
     DbgAssert(1);

@@ -104,7 +104,7 @@ Then I feel like I'm being relied on...");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040111102_01_090");
-        MsgDisp("Kazama","ＯＫ!
+        MsgDisp("Kazama","OK!
 I'm prepared now.
 Here, give me your hand.");
         SEPlay("EV_SE_760");

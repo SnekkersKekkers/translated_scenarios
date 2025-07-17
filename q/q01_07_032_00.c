@@ -13,7 +13,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("Q010703200_07_010");
-MsgDisp("Mikage","Don't waste your time resisting-");
+MsgDisp("Mikage","Resistance is futile—");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -37,7 +37,7 @@ It's long past lights out!");
 ChEye(7,5);
 ChMouth(7,0);
 VoicePlay("Q010703200_07_030");
-MsgDisp("Mikage","Ah......");
+MsgDisp("Mikage","Ah...");
 VoicePlay("Q010703200_42_030");
 MsgDisp("Male Student","Yikes, it's the Vice Principal∈
 Everyone, hide!");
@@ -52,9 +52,9 @@ switch (MsgSelRsltGet()){
 	SEPlay("EV_SE_516",0,1);
 	SEWait();
 	MsgDisp("主人公","(Wah— There's someone inside the closet!)");
-	MsgDisp("主人公","(Who could it be......
-It's too dark, I can't see anything......)");
-	MsgDisp("主人公","(Ooh, they're so close......
+	MsgDisp("主人公","(Who could it be...
+It's too dark, I can't see anything...)");
+	MsgDisp("主人公","(Ooh, they're so close...
 Teachers, please hurry up and leave! ∈)");
 	VoicePlay("Q010703200_32_010");
 	MsgDisp("VP Himuro","You all are high school students, do you
@@ -81,7 +81,7 @@ Right now, our bodies are touching...!)");
 	MsgDisp("主人公","(You can hear my heart beating...
 Teachers, please hurry up and leave! ∈)");
 	VoicePlay("Q010703200_32_030");
-	MsgDisp("VP Himuro","Good grief......
+	MsgDisp("VP Himuro","Good grief...
 I have to give the same speech every year.
 I want you to put yourselves in my shoes.");
 	VoicePlay("Q010703200_32_040");
@@ -100,11 +100,11 @@ I've got to quickly get out of here!)");
 	MsgDisp("主人公","(Wah!
 Someone's under the table!)");
 	MsgDisp("主人公","(W-Who could it be...
-They feel so close......)");
+They feel so close...)");
 	MsgDisp("主人公","(Ooh, I can't move!
 Teachers, please leave already～ ∈)");
 	VoicePlay("Q010703200_32_050");
-	MsgDisp("VP Himuro","Jeez......If they have this much energy,
+	MsgDisp("VP Himuro","Jeez...If they have this much energy,
 they should use it to write a report. And
 then—");
 	VoicePlay("Q010703200_32_060");

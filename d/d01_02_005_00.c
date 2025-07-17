@@ -25,7 +25,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(I hope ｛颯砂＊＊｝ has a good
-race......
+race...
 I'll try my best to cheer him on!)");
 BGMStop();
 MsgClose();
@@ -38,14 +38,14 @@ BGOpen("sc625",0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛颯砂＊＊｝!
 Try your best∈");
-MsgDisp("主人公","(Eh, what should I do......
+MsgDisp("主人公","(Eh, what should I do...
 ｛颯砂＊＊｝ is falling behind
-more and more......)");
+more and more...)");
 SEStop("EV_SE_GAYA_021",2);
 VoicePlay("D010200500_40_000");
 MsgDisp("Manager","It doesn't matter anymore, he's out of
 stamina.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 VoicePlay("D010200500_40_010");
 MsgDisp("Manager","Didn't he set a record in the previous
 high jump? That's why he doesn't have any
@@ -53,7 +53,7 @@ energy left.");
 VoicePlay("D010200500_40_020");
 MsgDisp("Manager","Well, the overall winner is still yet to
 be decided.");
-MsgDisp("主人公","｛颯砂＊＊｝......");
+MsgDisp("主人公","｛颯砂＊＊｝...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -85,19 +85,19 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("D010200500_02_040");
-MsgDisp("Sassa","Yeah......");
+MsgDisp("Sassa","Yeah...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D010200500_02_050");
-MsgDisp("Sassa","...... I guess so.
+MsgDisp("Sassa","... I guess so.
 Even though I won, I can't really
 celebrate it with you.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200500_02_060");
-MsgDisp("Sassa","Sigh......Alright. From now on the
+MsgDisp("Sassa","Sigh...Alright. From now on the
 strategy is to keep a steady pace and aim
 for a high score!");
 ChEye(2,0);
@@ -119,7 +119,7 @@ SEWait();
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200500_02_070");
-MsgDisp("Sassa","Eh, Senpai......");
+MsgDisp("Sassa","Eh, Senpai...");
 VoicePlay("D010200500_40_040");
 MsgDisp("Manager","What's with that strategy?
 That doesn't suit you at all.");
@@ -127,7 +127,7 @@ StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("D010200500_02_080");
-MsgDisp("Sassa","But I......");
+MsgDisp("Sassa","But I...");
 VoicePlay("D010200500_40_050");
 MsgDisp("Manager","No \"buts\".
 Right, Manager?");
@@ -136,7 +136,7 @@ StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200500_02_090");
 MsgDisp("Sassa","I did it without listening to your
-advice......
+advice...
 Can you forgive me?");
 VoicePlay("D010200500_40_060");
 MsgDisp("Manager","You've been doing as you please and
@@ -145,7 +145,7 @@ though? Do it that way until the end.");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("D010200500_02_100");
-MsgDisp("Sassa","......Yes!");
+MsgDisp("Sassa","...Yes!");
 VoicePlay("D010200500_40_070");
 MsgDisp("Manager","Only you have what it takes to win a
 complete victory in every event.");
@@ -161,6 +161,6 @@ StlClose();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(Yay......
+MsgDisp("主人公","(Yay...
 ｛颯砂＊＊｝! )");
 ChPrmTblAdd(2,0);

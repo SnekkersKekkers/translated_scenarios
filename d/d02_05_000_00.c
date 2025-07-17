@@ -8,9 +8,9 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, ｛柊＊＊＊｝ sent me a
 message.)");
-MsgDisp("主人公","(It says......\"I want you to come and see
+MsgDisp("主人公","(It says...\"I want you to come and see
 the Habataki Theater Company's new play\"
-Eh......Right now∋)");
+Eh...Right now∋)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -64,7 +64,7 @@ SEPlay("EV_SE_FOOT_039",0,0.5);
 ChClose(5);
 VoicePlay("D020500000_05_050");
 MsgDisp("Hiiragi","I will also watch it from here.");
-MsgDisp("主人公","(Eh......
+MsgDisp("主人公","(Eh...
 ｛柊＊＊＊｝ isn't
 participating?)");
 MsgDisp("","　　　　　　　　　　 ・
@@ -75,18 +75,18 @@ MsgDisp("Theater Member B","This sword from your father will be like a
 radiant light that guides and protects
 you. Now, march onwards.");
 VoicePlay("D020500000_33_020");
-MsgDisp("Theater Member A","But Mother......");
+MsgDisp("Theater Member A","But Mother...");
 VoicePlay("D020500000_46_010");
 MsgDisp("Theater Member B","It's already too late for me to take up
 that sword.
 Go on.");
 MsgDisp("主人公","(Ah!
-Those actors......)");
+Those actors...)");
 VoicePlay("D020500000_05_060");
 MsgDisp("Hiiragi","It's those two again.
 They are back again in our new work.");
-MsgDisp("主人公","I'm happy......");
-MsgDisp("主人公","(But, like I thought......
+MsgDisp("主人公","I'm happy...");
+MsgDisp("主人公","(But, like I thought...
 ｛柊＊＊＊｝ isn't in it.)");
 BGMStop();
 MsgClose();
@@ -114,9 +114,9 @@ VoicePlay("D020500000_05_080");
 MsgDisp("Hiiragi","Making a production we're proud of and
 meeting the viewer's expectations,
 hopefully we were able to achieve both.");
-MsgDisp("主人公","Yeah......But what about
+MsgDisp("主人公","Yeah...But what about
 ｛柊＊＊＊｝? I can't believe
-｛柊＊＊＊｝ isn't in it......");
+｛柊＊＊＊｝ isn't in it...");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -124,12 +124,12 @@ VoicePlay("D020500000_05_090");
 MsgDisp("Hiiragi","Eh?");
 MsgDisp("主人公","You know, it's not only me—— Nobody
 wants to see ｛柊＊＊＊｝ on
-the sidelines......");
+the sidelines...");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);
 VoicePlay("D020500000_05_100");
-MsgDisp("Hiiragi","......∈");
+MsgDisp("Hiiragi","...∈");
 MsgClose();
 SEPlay("EV_SE_FOOT_039",0,0.6);
 ChClose(5,0,30);
@@ -139,7 +139,7 @@ Wait(5,1);
 ChOpen(5,40,0,4,4,#1,#1,0,0,0,30);
 SEWait();
 VoicePlay("D020500000_05_110");
-MsgDisp("Hiiragi","You......
+MsgDisp("Hiiragi","You...
 That face, make that face again.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -147,7 +147,7 @@ ChMotion(5,0);
 VoicePlay("D020500000_05_120");
 MsgDisp("Hiiragi","It's okay.
 I won't give up the lead role that easily.");
-MsgDisp("主人公","Eh......?");
+MsgDisp("主人公","Eh...?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.2,0.4);
 ChClose(5,0,30);
@@ -160,7 +160,7 @@ VoicePlay("D020500000_05_130");
 MsgDisp("Hiiragi","The new play has two casts.
 We will take turns playing the roles.");
 MsgDisp("主人公","I see!
-What a relief......");
+What a relief...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

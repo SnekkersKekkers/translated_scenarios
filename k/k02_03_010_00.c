@@ -27,7 +27,7 @@ SEWait();
 VoicePlay("K020301000_03_010");
 MsgDisp("Honda","Here's your present!
 Today's your birthday, right?");
-MsgDisp("主人公","Could it be that...... you had this with
+MsgDisp("主人公","Could it be that... you had this with
 you this whole time?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -48,7 +48,7 @@ ChMotion(3,1);
 VoicePlay("K020301000_03_040");
 MsgDisp("Honda","But it was worth hiding it.
 I got to see your surprised face.");
-MsgDisp("主人公","Geez......");
+MsgDisp("主人公","Geez...");
 ChEye(3,3);
 ChMotion(3,3);
 VoicePlay("K020301000_03_050");
@@ -58,7 +58,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 Wait(30);
-MsgDisp("主人公","(｛本多＊＊｝ celebrated my birthday......
+MsgDisp("主人公","(｛本多＊＊｝ celebrated my birthday...
 This year is going to be a good year!)");
 MsgClose();
 ScrFadeOut(0,0);

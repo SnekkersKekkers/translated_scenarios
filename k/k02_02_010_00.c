@@ -15,7 +15,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("K020201000_02_000");
 MsgDisp("Sassa","No problem.
-...... And, just wait a bit.");
+... And, just wait a bit.");
 MsgDisp("主人公","Hm?
 What is it?");
 SEPlay("EV_SE_665");
@@ -26,7 +26,7 @@ ChMotion(2,0);
 VoicePlay("K020201000_02_010");
 MsgDisp("Sassa","Your birthday present.
 Today really is a blessed day!");
-MsgDisp("主人公","Wah......!
+MsgDisp("主人公","Wah...!
 You remembered.");
 ChEye(2,0);
 ChMouth(2,4);

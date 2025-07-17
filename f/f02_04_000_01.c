@@ -32,6 +32,6 @@ VoicePlay("F020400001_04_040");
 MsgDisp("Nanatsumori","Oh.
 You haven't heard the other version going
 around?");
-MsgDisp("主人公","(The legend of the church......
+MsgDisp("主人公","(The legend of the church...
 Is it that church with the bell I
-distinctly remember......?)");
+distinctly remember...?)");

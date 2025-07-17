@@ -4,7 +4,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChMouth(1,2);
 VoicePlay("G020140002_01_000");
-MsgDisp("Kazama","......Hey, don't you think I adjusted too
+MsgDisp("Kazama","...Hey, don't you think I adjusted too
 quickly after coming back here?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -21,7 +21,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020140002_01_020");
-MsgDisp("Kazama","......But, actually, things might've been
+MsgDisp("Kazama","...But, actually, things might've been
 different if I'd managed to see you the
 day I came back.");
 ChMotion(1,0);
@@ -32,7 +32,7 @@ VoicePlay("G020140002_01_030");
 MsgDisp("Kazama","I think I managed to sort out a bunch of
 stuff in my head in the room I hadn't been
 in for ten years because I didn't see you.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -64,7 +64,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020140002_01_070");
-MsgDisp("Kazama","......My name and yours were on my desk,
+MsgDisp("Kazama","...My name and yours were on my desk,
 my notebooks, the brim of my hat in
 terrible handwriting.");
 MsgDisp("主人公","Hahah, how cute.");
@@ -94,7 +94,7 @@ MsgDisp("Kazama","Maybe our current relationship exists
 because I managed to sort out my mind all
 night in that room.");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","(｛風真＊＊｝......)");
+MsgDisp("主人公","(｛風真＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

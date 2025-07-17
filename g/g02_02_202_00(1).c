@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("G020220200_02_000");
-MsgDisp("Sassa","Ryota is really something, isn't he?......");
+MsgDisp("Sassa","Ryota is really something, isn't he?...");
 MsgDisp("主人公","Eh ｛風真＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -22,7 +22,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220200_02_030");
-MsgDisp("Sassa","Haa...... even when he's not around, I
+MsgDisp("Sassa","Haa... even when he's not around, I
 feel defeated.");
 MsgDisp("主人公","?");
 ChEye(2,0);
@@ -42,7 +42,7 @@ I can't even begin to understand what he's
 aiming for or what he's worried about.");
 MsgDisp("主人公","I think your goals are really challenging
 too, ｛颯砂＊＊｝.
-I can't do anything to help......");
+I can't do anything to help...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -71,7 +71,7 @@ VoicePlay("G020220200_02_090");
 MsgDisp("Sassa","Yeah, a competition for who gets to be by
 your side? Though it looks like I'm at a
 disadvantage.");
-MsgDisp("主人公","(A competition......for me?)");
+MsgDisp("主人公","(A competition...for me?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -19,7 +19,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210306_02_020");
 MsgDisp("Sassa","Well, yeah.
-Hot springs, saunas, public baths......
+Hot springs, saunas, public baths...
 they all feel nice.");
 ChEye(2,3);
 ChMouth(2,3);
@@ -56,8 +56,8 @@ ChMotion(2,3);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020210306_02_070");
 MsgDisp("Sassa","But even now, if I'm caught off guard in a
-swimsuit, I still can't handle it.......");
-MsgDisp("主人公","(Resistant......?)");
+swimsuit, I still can't handle it....");
+MsgDisp("主人公","(Resistant...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

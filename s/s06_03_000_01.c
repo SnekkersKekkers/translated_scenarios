@@ -7,7 +7,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("S060300001_03_000");
-    MsgDisp("Honda","Yes......!
+    MsgDisp("Honda","Yes...!
 A kimono.");
     MsgDisp("主人公","Yeah.
 What do you think?");
@@ -60,7 +60,7 @@ happy!)");
     VoicePlay("S060300001_03_060");
     MsgDisp("Honda","So, the first outfit of the year is a
 kimono.");
-    MsgDisp("主人公","Yeah ......
+    MsgDisp("主人公","Yeah ...
 What do you think?");
     ChFace(3,3);
     ChMotion(3,5,1);
@@ -84,7 +84,7 @@ I can't even think of what to say!");
     VoicePlay("S060300001_03_100");
     MsgDisp("Honda","Beautiful.
 Thank you for wearing it for me.");
-    MsgDisp("主人公","(｛本多＊＊｝......
+    MsgDisp("主人公","(｛本多＊＊｝...
 He seems really happy!)");
     break ;
     default :

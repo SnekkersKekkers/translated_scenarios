@@ -30,7 +30,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q020B00100_01_010");
 MsgDisp("Kazama","You're coming, right?");
-MsgSel("Yes, I'm coming!","Sorry, it's just......");
+MsgSel("Yes, I'm coming!","Sorry, it's just...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,0);
@@ -45,8 +45,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("Q020B00100_03_010");
-    MsgDisp("Honda","Yay!
-This will get fun.");
+    MsgDisp("Honda","Yay! This will be fun.");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -56,7 +55,7 @@ This will get fun.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("Q020B00100_01_030");
-    MsgDisp("Kazama","Well then, let's get going.
+    MsgDisp("Kazama","Let's get going, then
 There are a lot of people here, so we need
 to plan ahead.");
     MsgDisp("主人公","Yeah!");
@@ -70,7 +69,7 @@ to plan ahead.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("Q020B00100_01_040");
-    MsgDisp("Kazama","I see......
+    MsgDisp("Kazama","I see...
 You can't.");
     ChEye(4,2);
     ChMouth(4,0);
@@ -90,13 +89,13 @@ somebody else already.");
     ChMotion(1,0,1);
     VoicePlay("Q020B00100_01_050");
     MsgDisp("Kazama","It can't be helped.
-You've got to be careful going there,
+You've got to be careful out there,
 though.");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("Q020B00100_04_030");
-    MsgDisp("Nanatsumori","With three guys, huh......
+    MsgDisp("Nanatsumori","With three guys, huh...
 I guess it can't be helped.");
     ChMouth(1,0);
     ChEyeOpenLevel(1,0);
@@ -110,7 +109,7 @@ I guess it can't be helped.");
     ChClose(3,0,30);
     ChClose(1,0,30);
     ChClose(4,0,30);
-    MsgDisp("主人公","(They even invited me, I feel bad......)");
+    MsgDisp("主人公","(They even invited me, I feel bad...)");
     break ;
     default :
     DbgAssert(0);

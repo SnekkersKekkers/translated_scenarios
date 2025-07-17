@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("Q120400000_04_000");
     MsgDisp("Nanatsumori","Here we are.");
     MsgDisp("主人公","So this is the end of the school
-trip......");
+trip...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -36,7 +36,7 @@ Thanks to you, I enjoyed the school trip.");
     ChMouth(4,0);
     ChMotion(4,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Haah......
+    MsgDisp("主人公","Haah...
 I'm at the hotel.");
     ChEye(4,0);
     ChMouth(4,3);
@@ -70,8 +70,8 @@ see you later.");
     ChMotion(4,0);
     ScrFadeIn(0);
     VoicePlay("Q120400000_04_080");
-    MsgDisp("Nanatsumori","It's over......");
-    MsgDisp("主人公","Yeah......");
+    MsgDisp("Nanatsumori","It's over...");
+    MsgDisp("主人公","Yeah...");
     ChEye(4,4);
     ChMouth(4,2);
     VoicePlay("Q120400000_04_090");
@@ -89,7 +89,7 @@ around more other places.");
     MsgDisp("主人公","And you, ｛七ツ森＊｝?");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_120");
-    MsgDisp("Nanatsumori","Eh......");
+    MsgDisp("Nanatsumori","Eh...");
     MsgDisp("主人公","Did you not enjoy the free period?");
     ChEye(4,1);
     ChMouth(4,4);
@@ -101,7 +101,7 @@ I really appreciate you being with me.");
     ChMotion(4,3,1);
     VoiceEVSPlay(4);
     VoicePlay("Q120400000_04_140");
-    MsgDisp("Nanatsumori","｛主人公｝...... thank you.");
+    MsgDisp("Nanatsumori","｛主人公｝... thank you.");
     MsgDisp("主人公","That's my line.
 Thank you, ｛七ツ森＊｝.");
     ChEye(4,4);
@@ -109,7 +109,7 @@ Thank you, ｛七ツ森＊｝.");
     ChMotion(4,2,1);
     ChCheek(4,5);
     VoicePlay("Q120400000_04_150");
-    MsgDisp("Nanatsumori","Haha......
+    MsgDisp("Nanatsumori","Haha...
 Kinda embarrassing, huh?");
     MsgDisp("主人公","Hehe!");
     break ;

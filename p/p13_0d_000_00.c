@@ -11,7 +11,7 @@ ChOpen(21,254,0,0,4,#1,#1,0,1);
 ChOpen(22,254,0,0,0,#1,#1,0,2);
 VoicePlay("P130D00000_21_000");
 MsgDisp("Michiru","Freshly squeezed?
-I'm quite curious about that......");
+I'm quite curious about that...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

@@ -11,7 +11,7 @@ MsgDisp("Goro","Good day～
 How is search for rough diamonds going?");
 MsgDisp("主人公","Ah, Goro-sensei!
 Actually, there's someone I'm interested
-in right now but......");
+in right now but...");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);
@@ -19,23 +19,23 @@ VoicePlay("D030900200_31_010");
 MsgDisp("Goro","Ah, what kind of person?");
 MsgDisp("主人公","He's a kind person that always helps those
 in trouble. But the only other thing I
-know is that his name is \"Kuya\"......");
+know is that his name is \"Kuya\"...");
 VoicePlay("D030900200_45_000");
 MsgDisp("Shirahane Mayo","Eh, \"Kuya\"?");
 VoicePlay("D030900200_41_010");
 MsgDisp("Tanaka Shin","That \"Kuya\" you're talking about is
-probably Mayo-senpai's......");
+probably Mayo-senpai's...");
 SEPlay("EV_SE_GAYA_024",0,0.9);
 Wait(60,1);
 MsgDisp("主人公","(The editorial department is all riled
-up......
+up...
 I wonder why?)");
 SEWait();
 ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,2);
 VoicePlay("D030900200_31_020");
-MsgDisp("Goro","......Just like I thought.");
+MsgDisp("Goro","...Just like I thought.");
 MsgDisp("主人公","Eh?");
 ChEye(31,0);
 ChMouth(31,0);
@@ -63,7 +63,7 @@ ChClose(31);
 MsgDisp("主人公","(I see.
 If I want to get an interview with him, I
 need to keep up with what's in \"style\".)");
-MsgSel("Let's do it!","It's fine after all......");
+MsgSel("Let's do it!","It's fine after all...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","(Yeah, let's continue looking around.
@@ -72,7 +72,7 @@ He said he was \"working\", right?)");
     break ;
     case 1:
     MsgDisp("主人公","(Yeah, that's enough.
-I don't think I'll see him again......)");
+I don't think I'll see him again...)");
     break ;
     default :
     DbgAssert(0);

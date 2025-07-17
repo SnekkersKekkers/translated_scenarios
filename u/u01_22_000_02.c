@@ -2,7 +2,7 @@ ScrFadeOut(0);
 BGOpen("ho210",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","A phone call......
+MsgDisp("主人公","A phone call...
 Ah, it's ｛ひかる＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
@@ -16,7 +16,7 @@ VoicePlay("U012200002_22_010");
 MsgDisp("Hikaru","Hey so, let's go to the forest park
 together.
 It's the home of fireflies♪");
-MsgSel("Of course, let's go.","I'm busy today......Sorry.");
+MsgSel("Of course, let's go.","I'm busy today...Sorry.");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U012200002_22_020");
@@ -32,7 +32,7 @@ See you there soon.");
     VoicePlay("U012200002_22_030");
     MsgDisp("Hikaru","Fine then～
 You busy dummy!
-...... Sniff.");
+... Sniff.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(She took the time to invite me...

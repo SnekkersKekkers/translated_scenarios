@@ -31,7 +31,7 @@ Happy New Years.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(I can't believe I'm already a third
-year......
+year...
 Alright, let's do our best!)");
     BGMStop();
     MsgClose();
@@ -45,7 +45,7 @@ Alright, let's do our best!)");
     ScrFadeIn(0);
     VoicePlay("S120700002_07_020");
     MsgDisp("Mikage","Woah, it's already this late?
-...... I guess it's time to go home.");
+... I guess it's time to go home.");
     MsgDisp("主人公","Eh, already?");
     ChEye(7,2);
     ChMouth(7,0);
@@ -98,14 +98,14 @@ what.");
     ChMotion(7,0);
     VoicePlay("S120700002_07_080");
     MsgDisp("Mikage","Alright, I'll take you home.");
-    MsgDisp("主人公","Eh, already......?");
+    MsgDisp("主人公","Eh, already...?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S120700002_07_090");
     MsgDisp("Mikage","Already?
 It's already been so long.");
-    MsgDisp("主人公","......Really?");
+    MsgDisp("主人公","...Really?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

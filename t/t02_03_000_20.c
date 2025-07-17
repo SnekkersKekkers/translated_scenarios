@@ -7,7 +7,7 @@ ChMouth(3,4);
 ChMotion(3,4);
 ChCheek(3,5);
 VoicePlay("T020300020_03_000");
-MsgDisp("Honda","I-Is that so......thank you.");
+MsgDisp("Honda","I-Is that so...thank you.");
 MsgDisp("主人公","Thank you for always having fun
 conversations with me and spending time
 with me.");
@@ -25,7 +25,7 @@ ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 ChCheek(3,10);
 VoicePlay("T020300020_03_020");
-MsgDisp("Honda","Haa......
+MsgDisp("Honda","Haa...
 It's getting hot around here.");
 BGMStop(2.8);
 MsgClear();
@@ -41,7 +41,7 @@ MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);
 VoicePlay("T020300020_03_040");
-MsgDisp("Honda","Huu......
+MsgDisp("Honda","Huu...
 I want it to stay like this forever.");
 Wait(120,0);
 MsgClose();

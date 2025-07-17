@@ -1,4 +1,4 @@
-MsgSel("Yes, I'm in!","I've got to run an errand ...... ");
+MsgSel("Yes, I'm in!","I've got to run an errand ... ");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J060701001_07_000");
@@ -9,7 +9,7 @@ Thank God.");
 See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(This Sunday huh ......
+    MsgDisp("主人公","(This Sunday huh ...
 I'll have to try not to oversleep.)");
     break ;
     case 1:

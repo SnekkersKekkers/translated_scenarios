@@ -23,7 +23,7 @@ That dress.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("R040600001_06_020");
-    MsgDisp("Himuro","In any case...... this is a rare sight to
+    MsgDisp("Himuro","In any case... this is a rare sight to
 see.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
@@ -79,7 +79,7 @@ stayed next to you.");
     VoicePlay("R040600001_06_090");
     MsgDisp("Himuro","I don't want to look like I'm out of your
 league.");
-    MsgDisp("主人公","(｛氷室＊＊｝......)");
+    MsgDisp("主人公","(｛氷室＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

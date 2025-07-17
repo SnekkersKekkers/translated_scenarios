@@ -30,7 +30,7 @@ VoicePlay ( "D150002301_03_010" ) ;
 MsgDisp ( "Honda","True, true.
 Sometimes you order a large or super large
 portion." ) ;
-MsgDisp ( "主人公","Uhm......
+MsgDisp ( "主人公","Uhm...
 I guess I do?" ) ;
 ChEye ( 2,3 ) ;
 ChMouth ( 2,3 ) ;
@@ -52,7 +52,7 @@ VoicePlay ( "D150002301_02_030" ) ;
 MsgDisp ( "Sassa","Alright.
 Next time you eat a super large meal I'll
 go no limits and join you." ) ;
-MsgDisp ( "主人公","(Uhm......
+MsgDisp ( "主人公","(Uhm...
 Is that supposed to be a compliment?)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

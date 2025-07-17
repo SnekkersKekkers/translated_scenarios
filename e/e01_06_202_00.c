@@ -2,13 +2,13 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I think I'll go home now.
-...... Huh?)");
+... Huh?)");
 VoicePlay("E010620200_04_000");
 MsgDisp("Nanatsumori?","That guy is crazy.");
 VoicePlay("E010620200_06_000");
 MsgDisp("Himuro?","Yeah.
-He rubbed on me quite a bit......");
-MsgDisp("主人公","(Those voices......)");
+He rubbed on me quite a bit...");
+MsgDisp("主人公","(Those voices...)");
 MsgDisp("主人公","｛七ツ森＊｝, ｛氷室＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -27,14 +27,14 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("E010620200_04_020");
-MsgDisp("Nanatsumori","Ah...... it's more like we happened to
+MsgDisp("Nanatsumori","Ah... it's more like we happened to
 meet, or maybe we were drawn to each
-other...... or something?");
+other... or something?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620200_06_020");
-MsgDisp("Himuro","That's true......
+MsgDisp("Himuro","That's true...
 It wasn't exactly mere chance.");
 MsgDisp("主人公","? What does that mean?");
 ChEye(4,0);
@@ -52,13 +52,13 @@ ChMotion(6,4);
 VoicePlay("E010620200_06_040");
 MsgDisp("Himuro","He was in an odd position, so I was
 curious about what he was trying to
-photograph......");
+photograph...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2);
 ChCheek(4,7);
 VoicePlay("E010620200_04_030");
-MsgDisp("Nanatsumori","It was...... an angel.");
+MsgDisp("Nanatsumori","It was... an angel.");
 MsgDisp("主人公","???");
 ChEye(6,0);
 ChMouth(6,4);
@@ -79,14 +79,14 @@ ChMotion(4,1);
 VoicePlay("E010620200_04_050");
 MsgDisp("Nanatsumori","He was also sneaking around Himuro-kun's
 feet.
-...... Right?");
+... Right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("E010620200_06_060");
-MsgDisp("Himuro","Ugh...... it's the first time something
-like that has happened to me......");
+MsgDisp("Himuro","Ugh... it's the first time something
+like that has happened to me...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
@@ -100,7 +100,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("E010620200_06_070");
-MsgDisp("Himuro","Haa......
+MsgDisp("Himuro","Haa...
 I have to admit it.");
 MsgDisp("主人公","(Hehe, they both like cats.
 It's a bit of a surprise.)");

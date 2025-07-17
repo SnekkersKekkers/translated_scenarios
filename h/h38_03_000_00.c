@@ -23,7 +23,7 @@ ChMotion(3,0);
 VoicePlay("H380300000_03_020");
 MsgDisp("Honda","I was worried if you'd get nervous because
 I came to watch, and couldn't perform at
-your best......");
+your best...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

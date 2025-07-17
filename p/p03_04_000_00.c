@@ -10,15 +10,15 @@ switch (ChPrmGet(4,6)){
     case 3:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango～!");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
     ChOpen(4,254,0,4,0,#1,#1,0,0,0,60);
     VoicePlay("P030400000_04_000");
-    MsgDisp("Nanatsumori","......A yukata.");
+    MsgDisp("Nanatsumori","...A yukata.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 Welcome～!");
     ChEye(4,0);
@@ -46,15 +46,15 @@ One dango set, coming right up～!");
     case 5:
     MsgDisp("主人公","Thank you for waiting.
 Here is your matcha and mitarashi dango～!");
-    MsgDisp("主人公","(Phew......
+    MsgDisp("主人公","(Phew...
 I didn't think this many customers would
-come......)");
+come...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
     ChOpen(4,254,0,4,4,#1,#1,0,0,0,60);
     VoicePlay("P030400000_04_040");
-    MsgDisp("Nanatsumori","Ah......");
+    MsgDisp("Nanatsumori","Ah...");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 Welcome!");
     ChEye(4,0);
@@ -74,7 +74,7 @@ Would you like the recommended dango set?");
     ChMouth(4,4);
     ChCheek(4,7);
     VoicePlay("P030400000_04_070");
-    MsgDisp("Nanatsumori","......Please.");
+    MsgDisp("Nanatsumori","...Please.");
     MsgDisp("主人公","One dango set, coming right up～!");
     break ;
     default :

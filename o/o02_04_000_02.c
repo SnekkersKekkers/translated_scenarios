@@ -12,9 +12,9 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("O020400002_04_000");
     MsgDisp("Nanatsumori","A draw in tug of war?
-How skillful......");
-    MsgDisp("主人公","(A draw, huh......
-And we were so close......)");
+How skillful...");
+    MsgDisp("主人公","(A draw, huh...
+And we were so close...)");
     break ;
     case 3:
     MsgClose();
@@ -24,8 +24,8 @@ And we were so close......)");
     VoicePlay("O020400002_04_010");
     MsgDisp("Nanatsumori","A draw is actually pretty amazing.
 You all have the same power level, huh?");
-    MsgDisp("主人公","(A draw, huh......
-And we were so close......)");
+    MsgDisp("主人公","(A draw, huh...
+And we were so close...)");
     break ;
     case 4:
     case 5:
@@ -36,7 +36,7 @@ And we were so close......)");
     VoicePlay("O020400002_04_020");
     MsgDisp("Nanatsumori","Close.
 It looked like you were almost there.");
-    MsgDisp("主人公","It's a real shame......");
+    MsgDisp("主人公","It's a real shame...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

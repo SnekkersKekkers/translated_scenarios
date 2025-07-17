@@ -19,7 +19,7 @@ Ah, ｛柊＊＊＊｝.");
     VoicePlay("I550500000_05_010");
     MsgDisp("Hiiragi","Hello.
 I had received some delicious karinto
-manju from this store as a gift......");
+manju from this store as a gift...");
     VoicePlay("I550500000_05_020");
     MsgDisp("Hiiragi","Would it happen to still be in stock?");
     MsgDisp("主人公","Yes, so you'll be taking it home.
@@ -61,7 +61,7 @@ Excuse me.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝, so you're going to be eating
-it all by yourself......)");
+it all by yourself...)");
     break ;
     case 3:
     MsgClose();
@@ -78,10 +78,10 @@ today.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I550500000_05_090");
-    MsgDisp("Hiiragi","Your famous karinto manju, and......
+    MsgDisp("Hiiragi","Your famous karinto manju, and...
 Do you have any other interesting
 recommendations?");
-    MsgDisp("主人公","Interesting...... ah, how about chocolate
+    MsgDisp("主人公","Interesting... ah, how about chocolate
 fugashi?");
     ChEye(5,3);
     ChMouth(5,3);
@@ -104,7 +104,7 @@ a little.");
     ChCheek(5,7);
     ScrFadeIn(0);
     VoicePlay("I550500000_05_110");
-    MsgDisp("Hiiragi","Haa......
+    MsgDisp("Hiiragi","Haa...
 The karinto manju has been surpassed.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, how was it?");
     ChMouth(5,4);
@@ -148,13 +148,13 @@ minutes ago.");
     MsgDisp("Hiiragi","Perhaps, you simply think that I frequent
 here simply due to a love for Japanese
 confections?");
-    MsgDisp("主人公","Um...... don't you?");
+    MsgDisp("主人公","Um... don't you?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("I550500000_05_170");
-    MsgDisp("Hiiragi","Haa...... this is bad.
+    MsgDisp("Hiiragi","Haa... this is bad.
 Let us talk at length about this on our
 way back.");
     MsgClose();
@@ -162,7 +162,7 @@ way back.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(Bad?
-I wonder if I said something wrong......)");
+I wonder if I said something wrong...)");
     break ;
     default :
     DbgAssert(1);

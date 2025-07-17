@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoicePlay("O020200002_02_000");
     MsgDisp("Sassa","So the tug of war ended in a draw.");
-    MsgDisp("主人公","(Hm, I wanted to settle it......)");
+    MsgDisp("主人公","(Hm, I wanted to settle it...)");
     break ;
     case 3:
     MsgClose();
@@ -20,7 +20,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","That was intense.
 You looked serious, too.");
     MsgDisp("主人公","(A draw, huh.
-And we were so close......)");
+And we were so close...)");
     break ;
     case 4:
     case 5:
@@ -31,14 +31,14 @@ And we were so close......)");
     VoicePlay("O020200002_02_020");
     MsgDisp("Sassa","｛主人公｝, you got
 excited, huh.");
-    MsgDisp("主人公","Yeah, but we didn't win......");
+    MsgDisp("主人公","Yeah, but we didn't win...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("O020200002_02_030");
     MsgDisp("Sassa","You just needed a bit more.
 I did my best to shout your name.");
-    MsgDisp("主人公","(Ugh, that was a little embarrassing......
+    MsgDisp("主人公","(Ugh, that was a little embarrassing...
 But, instead of a tie, I wanted to win.)");
     break ;
     default :

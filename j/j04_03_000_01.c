@@ -19,7 +19,7 @@ It's a call from ｛本多＊＊｝ )");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040300001_03_010");
     MsgDisp("Honda","It's this Sunday, are you free?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand......");
+    MsgSel("Yeah, I'm free.", "I have to run an errand...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -35,7 +35,7 @@ I asked you out of the blue.");
         MsgDisp("Honda","Well, I'll see you next time!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I think I did something wrong......)");
+        MsgDisp("主人公","(I think I did something wrong...)");
         MsgClose();
         break ;
         default :
@@ -57,13 +57,13 @@ It's Honda.");
 What's wrong?");
     VoicePlay("J040300001_03_060");
     MsgDisp("Honda","It's this coming Sunday, are you free?");
-    MsgSel("Yeah, I'm free.", "Sorry, I have to run an errand......");
+    MsgSel("Yeah, I'm free.", "Sorry, I have to run an errand...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
         case 1:
         VoicePlay("J040300001_03_070");
-        MsgDisp("Honda","...... Oh, I see!
+        MsgDisp("Honda","... Oh, I see!
 That's right.");
         MsgDisp("主人公","Well, it was an invitation of some sort?");
         VoicePlay("J040300001_03_080");
@@ -75,7 +75,7 @@ our schedules might not match.");
         MsgDisp("Honda","Well, see you next time.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Sorry, I'm sorry I turned you down......)");
+        MsgDisp("主人公","(Sorry, I'm sorry I turned you down...)");
         MsgClose();
         break ;
         default :

@@ -10,7 +10,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020120201_01_010");
 MsgDisp("Kazama","Like, how should I put it? It's as if I'm
-looking at myself objectively...... This's
+looking at myself objectively... This's
 a strange place.");
 ChEye(1,4);
 ChMouth(1,2);
@@ -19,7 +19,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020120201_01_020");
 MsgDisp("Kazama","I thought it was only natural that I would
 always be the person closest to you.
-...... But I was wrong.");
+... But I was wrong.");
 MsgDisp("主人公","｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -54,7 +54,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120201_01_070");
 MsgDisp("Kazama","But he vaulted over it in one year.");
-MsgDisp("主人公","｛風真＊＊｝......");
+MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -84,7 +84,7 @@ MsgDisp("Kazama","Like I'm gonna lose to the underclassman
 who popped out of nowhere.
 You know?");
 MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝
-is talking about ｛氷室＊＊｝......)");
+is talking about ｛氷室＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

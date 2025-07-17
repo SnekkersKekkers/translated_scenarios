@@ -70,7 +70,7 @@ Thank goodness.)");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("L040200004_02_060");
-    MsgDisp("Sassa","Wow......
+    MsgDisp("Sassa","Wow...
 Is this handmade?
 For me?");
     MsgDisp("主人公","Yeah, of course!");

@@ -38,8 +38,8 @@ Need somethin' with me?");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("L040800000_08_020");
-    MsgDisp("Shirahane","Huh......
-Did we have somethin' planned......?");
+    MsgDisp("Shirahane","Huh...
+Did we have somethin' planned...?");
     MsgDisp("主人公","No, nothing like that.
 Here.
 I brought you Valentine's chocolates.");
@@ -49,7 +49,7 @@ I brought you Valentine's chocolates.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("L040800000_08_030");
-    MsgDisp("Shirahane","Huh...... for me?
+    MsgDisp("Shirahane","Huh... for me?
 Yayー!");
     break ;
     case 4:
@@ -62,14 +62,14 @@ Yayー!");
     ChOpen(8,35,0,4,4,#1,#1,6,0);
     VoicePlay("L040800000_08_040");
     VoiceEVSPlay(8);
-    MsgDisp("Shirahane","Ah......
+    MsgDisp("Shirahane","Ah...
 ｛主人公｝.");
     MsgDisp("主人公","Thank goodness, you're here.
 I came because I wanted to give you
 something, ｛大地＊＊｝.");
     ChMotion(8,2,1);
     VoicePlay("L040800000_08_050");
-    MsgDisp("Shirahane","Could I get my hopes up......?");
+    MsgDisp("Shirahane","Could I get my hopes up...?");
     MsgDisp("主人公","Hehe.
 Here you go.
 Valentine's chocolate!");

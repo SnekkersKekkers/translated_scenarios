@@ -6,7 +6,7 @@ ChMouth(22,3);
 ChMotion(22,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Sorry to disturb.
-...... Wow, nice room!");
+... Wow, nice room!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -61,7 +61,7 @@ StlMouth(22,0);
 StlCheek(22,0);
 BGMPlay("BGM_C23_HIKARU_MICHIRU",0.01,0.9);
 ScrFadeIn(0);
-MsgDisp("主人公","......Hmm, that's a bit surprising.");
+MsgDisp("主人公","...Hmm, that's a bit surprising.");
 VoicePlay("U110D00002_21_020");
 MsgDisp("Michiru","You mean Hikaru, right?
 She's a different person at home compared

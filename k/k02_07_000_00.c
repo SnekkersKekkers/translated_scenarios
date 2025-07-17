@@ -16,14 +16,14 @@ MsgDisp("Mikage","Good evening, this is Mikage Delivery.
 I have a package for you.");
 SEPlay("EV_SE_665");
 SEWait();
-MsgDisp("主人公","Huh!? Mikage Delivery? Um......
+MsgDisp("主人公","Huh!? Mikage Delivery? Um...
 ｛御影＊＊｝, what is it?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("K020700000_07_010");
 MsgDisp("Mikage","What else but your birthday?");
-MsgDisp("主人公","Ah......
+MsgDisp("主人公","Ah...
 It is, you remembered?");
 ChEye(7,0);
 ChMouth(7,3);

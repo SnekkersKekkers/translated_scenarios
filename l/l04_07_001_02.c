@@ -5,7 +5,7 @@ VoicePlay("L040700102_07_000");
 MsgDisp("Mikage","It's just how I like, and handmade, too.
 Thanks.
 But is this for me?");
-MsgDisp("主人公","(He seemed happy, but......
+MsgDisp("主人公","(He seemed happy, but...
 Why didn't he think it was for him?)");
 BGMStop();
 MsgClose();

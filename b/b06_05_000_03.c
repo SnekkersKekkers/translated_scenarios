@@ -32,7 +32,7 @@ I will too.");
     ChMotion(5,2,1);
     ScrFadeIn(0);
     VoicePlay("B060500003_05_020");
-    MsgDisp("Hiiragi","Even though you invited me......
+    MsgDisp("Hiiragi","Even though you invited me...
 I feel kind of bad.");
     MsgDispSksp(0);
     break ;

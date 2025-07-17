@@ -13,7 +13,7 @@ I did my best.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100005_01_010");
-    MsgDisp("Kazama","I see......
+    MsgDisp("Kazama","I see...
 Well, having a lot of different things is
 good too, right?");
     MsgDisp("主人公","Yeah.
@@ -25,7 +25,7 @@ I hope it suits your taste.");
     MsgDisp("Kazama","Thanks.
 I'll eat it later.");
     MsgDisp("主人公","(Did I add too much on it?
-Ah...... maybe, did I add something he
+Ah... maybe, did I add something he
 doesn't like?)");
     MsgClose();
     BGMStop();
@@ -75,10 +75,10 @@ like??)");
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("L040100005_01_070");
-    MsgDisp("Kazama","Let's see......
+    MsgDisp("Kazama","Let's see...
 Hm?
 Well, I can see how serious you were.");
-    MsgDisp("主人公","......Was it too much?");
+    MsgDisp("主人公","...Was it too much?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -95,7 +95,7 @@ Thanks.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(......
+    MsgDisp("主人公","(...
 Ah, could it be that I put something he
 didn't like in?)");
     MsgClose();

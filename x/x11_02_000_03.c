@@ -44,7 +44,7 @@ it's a joint practice.");
     VoicePlay("X110200003_02_030");
     MsgDisp("Sassa","I'd like to go and support you to see your
 new technique, but it's not safe if
-someone like me is peeking in ......");
+someone like me is peeking in ...");
     MsgDisp("主人公","Huh, that's not true, though,
 ｛颯砂＊＊｝ must be busy with
 track and field practice, right?");
@@ -52,7 +52,7 @@ track and field practice, right?");
     ChMouth(2,4);
     ChMotion(2,1);
     VoicePlay("X110200003_02_040");
-    MsgDisp("Sassa","Well, you're right ......
+    MsgDisp("Sassa","Well, you're right ...
 But I always support you in heart!");
     MsgDisp("主人公","(Yay! t's nice to be cheered on by
 ｛颯砂＊＊｝ )");

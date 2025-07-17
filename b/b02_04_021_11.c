@@ -7,7 +7,7 @@ ChMotion(4,0);
 ChMouthOpenLevel(4,10);
 ChCheek(4,8);
 VoicePlay("B020402111_04_000");
-MsgDisp("Nanatsumori","......");
+MsgDisp("Nanatsumori","...");
 MsgDisp("主人公","｛七ツ森＊｝, what's
 wrong?
 You haven't said a word...");

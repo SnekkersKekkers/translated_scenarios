@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040623100_06_010");
-    MsgDisp("Himuro","Heeh, did you like it that much?");
+    MsgDisp("Himuro","Ehhh, did you like it that much?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

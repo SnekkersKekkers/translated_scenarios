@@ -1,4 +1,4 @@
-MsgSel("Yes, I would love to!" , "I'll be a bit busy that day ......");
+MsgSel("Yes, I would love to!" , "I'll be a bit busy that day ...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J140301001_03_000");

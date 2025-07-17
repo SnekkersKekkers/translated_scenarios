@@ -46,7 +46,7 @@ VoicePlay("D130C00101_05_020");
 MsgDisp("Hiiragi","For you and I, this will be our final
 Christmas Party.");
 MsgDisp("主人公","That's true.
-Next year is already graduation......");
+Next year is already graduation...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -96,14 +96,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("D130C00101_06_030");
-MsgDisp("Himuro","For me, it's not......");
+MsgDisp("Himuro","For me, it's not...");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);
-MsgDisp("主人公","｛氷室＊＊｝......");
+MsgDisp("主人公","｛氷室＊＊｝...");
 ChMouth(5,4);
 VoicePlay("D130C00101_05_050");
-MsgDisp("Hiiragi","Inori-kun......");
+MsgDisp("Hiiragi","Inori-kun...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -127,7 +127,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D130C00101_05_060");
-MsgDisp("Hiiragi","......My grades might make that a reality.");
+MsgDisp("Hiiragi","...My grades might make that a reality.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -153,8 +153,8 @@ VoicePlay("D130C00101_06_050");
 MsgDisp("Himuro","It's a promise.");
 MsgDisp("主人公","Hehe, yes!");
 MsgDisp("主人公","(Everyone seems to be having fun at the
-Christmas Party...... I wonder what will
-happen next year......?)");
+Christmas Party... I wonder what will
+happen next year...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

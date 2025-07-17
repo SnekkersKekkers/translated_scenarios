@@ -2,8 +2,8 @@ BGOpen("sc000",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛氷室＊＊｝ wasn't there.
 I wanted to apologize for the three-legged
-race......)");
-MsgDisp("主人公","(Ah, maybe......)");
+race...)");
+MsgDisp("主人公","(Ah, maybe...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -16,9 +16,9 @@ BGMPlay("BGM_C06_INORI_B");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600100_06_000");
-MsgDisp("Himuro","...... So, what?
+MsgDisp("Himuro","... So, what?
 Why did you come all the way here?");
-MsgDisp("主人公","Ah......I wanted to apologize for
+MsgDisp("主人公","Ah...I wanted to apologize for
 something that happened at the sports
 festival. I'm sorry. That we came last in
 the three legged race.");
@@ -39,13 +39,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600100_06_030");
-MsgDisp("Himuro","I'm not that childish. ......but.");
+MsgDisp("Himuro","I'm not that childish. ...but.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600100_06_040");
 MsgDisp("Himuro","I did doubt my physical ability for a bit.
-Maybe I wasn't that good at exercise......
+Maybe I wasn't that good at exercise...
 that's what I thought.");
 ChEye(6,2);
 ChMouth(6,0);
@@ -64,7 +64,7 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("G110600100_06_070");
-MsgDisp("Himuro","Next time......
+MsgDisp("Himuro","Next time...
 Well, do as you like?");
 MsgDisp("主人公","Yes!");
 MsgClose();

@@ -79,7 +79,7 @@ Everyone wants to be like Mari.");
     VoicePlay("H4A2200000_22_060");
     MsgDisp("Hikaru","Mari is the rhythmic gymnastics club's
 etoile▼");
-    MsgDisp("主人公","(｛ひかる＊｝...... I'm so happy! I'm
+    MsgDisp("主人公","(｛ひかる＊｝... I'm so happy! I'm
 really glad I stayed in the rhythmic
 gymnastics club!)");
     BGMStop();

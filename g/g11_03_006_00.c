@@ -3,17 +3,17 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The introduction text that
 ｛本多＊＊｝ came up with was
-well-received......)");
+well-received...)");
 MsgDisp("主人公","'A book for adults to meet their high
 school selves, and for high school
 students to meet themselves tomorrow'
-huh......");
+huh...");
 VoicePlay("G110300600_42_000");
 MsgDisp("Manager","Honda-kun's ＰＯＰ is great, huh?
 One day I'll ask you to do one too.");
 MsgDisp("主人公","Ah, yes! I don't think I can do it like
 ｛本多＊＊｝, but it looks
-fun......");
+fun...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -54,7 +54,7 @@ MsgDisp("Honda","Ah, me?
 Somehow I met you.
 It's odd, huh?");
 MsgDisp("主人公","Eh-?");
-MsgDisp("主人公","(What does he mean by that......?)");
+MsgDisp("主人公","(What does he mean by that...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

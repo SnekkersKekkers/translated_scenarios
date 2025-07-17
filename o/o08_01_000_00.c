@@ -5,7 +5,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛風真＊＊｝.)");
     MsgClose();
     ChOpen(1,30,0,0,2,#1,#1,0,0);
@@ -16,7 +16,7 @@ Ah, it's ｛風真＊＊｝.)");
     MsgDisp("主人公","Hehe, let's dance.");
     break ;
     case 3:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛風真＊＊｝.)");
     MsgClose();
     ChOpen(1,30,0,0,3,#1,#1,0,0);
@@ -34,7 +34,7 @@ and doing this weird dance.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Next is......
+    MsgDisp("主人公","(Next is...
 Ah, it's ｛風真＊＊｝.)");
     MsgClose();
     ChOpen(1,30,0,2,3,#1,#1,0,0);
@@ -47,7 +47,7 @@ I was tired of waiting.");
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("O080100000_01_040");
-    MsgDisp("Kazama","......Geez, don't let it go to your head.");
+    MsgDisp("Kazama","...Geez, don't let it go to your head.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);

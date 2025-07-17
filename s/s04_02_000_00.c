@@ -15,8 +15,8 @@ Happy New Year!");
     VoicePlay("S040200000_02_010");
     MsgDisp("Sassa","Let's get along again this year!");
     VoicePlay("S040200000_02_020");
-    MsgDisp("Sassa","......So, want to go to the shrine?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
+    MsgDisp("Sassa","...So, want to go to the shrine?");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040200000_02_030");
@@ -29,7 +29,7 @@ See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(I have to quickly get ready!
-What to wear......)");
+What to wear...)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -68,9 +68,9 @@ Same to you.");
     VoicePlay("S040200000_02_080");
     MsgDisp("Sassa","Yeah, New Year's greetings.");
     VoicePlay("S040200000_02_020");
-    MsgDisp("Sassa","......so, want to visit the shrine
+    MsgDisp("Sassa","...so, want to visit the shrine
 together?");
-    MsgSel("Yeah, let's go!","Sorry, I'm a bit......");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040200000_02_090");
@@ -82,7 +82,7 @@ How should we meet up?");
         MsgDisp("Sassa","No, don't worry about it.
 I'll come pick you up.");
         MsgDisp("主人公","Thanks.
-I'll get dressed now......");
+I'll get dressed now...");
         VoicePlay("S040200000_02_110");
         MsgDisp("Sassa","Yeah, you should.
 I'll head there slowly.");
@@ -95,7 +95,7 @@ See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(｛颯砂＊＊｝ sounds like he's expecting
-something......?
+something...?
 Now then, what to wear?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -108,12 +108,12 @@ Now then, what to wear?)");
         MsgDisp("Sassa","No, it's fine. I feel blessed just hearing
 your voice first thing this year. Bye.");
         VoicePlay("S040200000_02_150");
-        MsgDisp("Sassa","......Sigh.");
+        MsgDisp("Sassa","...Sigh.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through the trouble
 of inviting me, Did I do something
-wrong......)");
+wrong...)");
         break ;
         default :
         DbgAssert(0);

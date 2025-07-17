@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","Wait a second.
 Thanks alot.
 Sounds fun, but it's a no from me.");
-    MsgDisp("主人公","I see......");
+    MsgDisp("主人公","I see...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -23,7 +23,7 @@ sure to make memories with friends, kay?");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(Aah, it really is a shame, but I guess it
-can't be helped......)");
+can't be helped...)");
     break ;
     case 3:
     break ;

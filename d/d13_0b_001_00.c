@@ -50,12 +50,12 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D130B00100_01_020");
-MsgDisp("Kazama","............");
+MsgDisp("Kazama","......");
 VoicePlay("D130B00100_03_010");
-MsgDisp("Honda","............");
+MsgDisp("Honda","......");
 ChMouthOpenLevel(4,0);
 VoicePlay("D130B00100_04_010");
-MsgDisp("Nanatsumori","............");
+MsgDisp("Nanatsumori","......");
 MsgDisp("主人公","...Hey, it's a bit embarrassing if you
 stare at me like that.");
 ChEye(1,2);

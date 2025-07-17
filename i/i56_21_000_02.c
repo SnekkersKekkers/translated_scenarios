@@ -2,11 +2,11 @@ BGOpen("ar500",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("I562100002_40_000");
-MsgDisp("Male Customer","Um......
+MsgDisp("Male Customer","Um...
 What would you suggest I bring to meet my
-girlfriend's parents......?");
+girlfriend's parents...?");
 MsgDisp("主人公","If you're looking for Japanese
-sweets...... how about this assortment of
+sweets... how about this assortment of
 seasonal sweets?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

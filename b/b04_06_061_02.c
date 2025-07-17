@@ -90,7 +90,7 @@ that——");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040606102_06_090");
-        MsgDisp("Himuro","......Haa.");
+        MsgDisp("Himuro","...Haa.");
         MsgDisp("主人公","｛氷室＊＊｝?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -106,7 +106,7 @@ It's because you said something weird.");
         VoicePlay("B040606102_06_110");
         MsgDisp("Himuro","Right, it's your fault.
 Reflect on it.");
-        MsgDisp("主人公","Mmm......
+        MsgDisp("主人公","Mmm...
 Sorry.");
         ChEye(6,0);
         ChMouth(6,0);

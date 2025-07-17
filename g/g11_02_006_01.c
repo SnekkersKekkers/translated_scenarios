@@ -7,11 +7,10 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200601_02_000");
-MsgDisp("Sassa","｛主人公｝, how's the
-time?");
+MsgDisp("Sassa","｛主人公｝, how was my time?");
 MsgDisp("主人公","Same as always.
-How is it that you always run at exactly
-the same time?");
+How is it that you always get the same
+time when you run?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -53,7 +52,7 @@ VoiceEVSPlay(2);
 VoicePlay("G110200601_02_040");
 MsgDisp("Sassa","｛主人公｝.
 Has there been any change in my form?");
-MsgDisp("主人公","Umm......
+MsgDisp("主人公","Umm...
 No, I don't think anything's changed.");
 ChEye(2,0);
 ChMouth(2,1);

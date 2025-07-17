@@ -32,7 +32,7 @@ the by the Gardening Club!");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400002_04_020");
-    MsgDisp("Nanatsumori","Heeh.
+    MsgDisp("Nanatsumori","Ehhh.
 The Gardening Club evolve each year,
 huh...");
     MsgDisp("主人公","If you'd like, how about I recommend
@@ -69,7 +69,7 @@ cafe!");
     ChEye(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400002_04_060");
-    MsgDisp("Nanatsumori","Heeh.
+    MsgDisp("Nanatsumori","Ehhh.
 Then the herbs and vegetables are from the
 gardening club?");
     MsgDisp("主人公","That's right.

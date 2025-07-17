@@ -19,13 +19,13 @@ MsgDisp("Shirahane","About some \"Young Master\" at Haba Academy,
 a charismatic salesmen with great style?");
 MsgDisp("主人公","(Is he maybe talking about
 ｛風真＊＊｝ and his part-time
-job at General Store Simon......?)");
+job at General Store Simon...?)");
 ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800000_08_030");
-MsgDisp("Shirahane","That look on your face......!
-You're making me curious......");
+MsgDisp("Shirahane","That look on your face...!
+You're making me curious...");
 MsgDisp("主人公","Why?");
 ChEye(8,3);
 ChMouth(8,3);
@@ -55,7 +55,7 @@ High's Young Master\"～?");
 MsgDisp("主人公","(Hehe! ｛風真＊＊｝ and
 ｛大地＊＊｝ are completely
 different, but I think I can see
-it......!)");
+it...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

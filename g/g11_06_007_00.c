@@ -16,7 +16,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("G110600700_06_010");
-MsgDisp("Himuro","No...... yes, I'm going to the beach.
+MsgDisp("Himuro","No... yes, I'm going to the beach.
 I guess you're coming?");
 MsgDisp("主人公","Ah, yes!");
 SEStop("EV_SE_SCHOOL_002",2);
@@ -37,7 +37,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600700_06_020");
-MsgDisp("Himuro","You heard that huh......");
+MsgDisp("Himuro","You heard that huh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -52,7 +52,7 @@ ChMotion(6,0);
 VoicePlay("G110600700_06_040");
 MsgDisp("Himuro","Practice to be able to get the crane game
 prizes out in one shot.");
-MsgDisp("主人公","Eh......");
+MsgDisp("主人公","Eh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -60,7 +60,7 @@ VoicePlay("G110600700_06_050");
 MsgDisp("Himuro","Because I was frustrated the last time we
 went together.");
 MsgDisp("主人公","(｛氷室＊＊｝, was disappointed over
-that......)");
+that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

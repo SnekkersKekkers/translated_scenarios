@@ -8,7 +8,7 @@ switch (ChPrmGet(8,6)){
     VoicePlay("L040800001_08_000");
     MsgDisp("Shirahane","Ah, this is the fifth I got.
 Thanks for the obligatory chocolate.");
-    MsgDisp("主人公","(Hm, well, that's how it is......)");
+    MsgDisp("主人公","(Hm, well, that's how it is...)");
     break ;
     case 3:
     ChEye(8,0);
@@ -31,7 +31,7 @@ Thanks.");
     ChEyeOpenLevel(8,10);
     ChCheek(8,4);
     VoicePlay("L040800001_08_030");
-    MsgDisp("Shirahane","......Hm?");
+    MsgDisp("Shirahane","...Hm?");
     MsgDisp("主人公","Hm?");
     ChEye(8,2);
     ChMouth(8,1);
@@ -42,10 +42,10 @@ Thanks.");
     ChMotion(8,4,1);
     VoicePlay("L040800001_08_050");
     MsgDisp("Shirahane","Nah, what am I sayin'.
-It's good that I even got some......");
+It's good that I even got some...");
     MsgDisp("主人公","(He seems sad.
 Maybe I should have given him a better
-chocolate......?)");
+chocolate...?)");
     break ;
     default :
     DbgAssert(1);

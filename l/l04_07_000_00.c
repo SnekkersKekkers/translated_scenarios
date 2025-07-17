@@ -39,7 +39,7 @@ take this Valentine's chocolate?");
     VoicePlay("L040700000_07_030");
     MsgDisp("Mikage","The rule that says teacher's can't accept,
 huh?");
-    MsgDisp("主人公","Ah, is it really not allowed......?");
+    MsgDisp("主人公","Ah, is it really not allowed...?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -70,7 +70,7 @@ right?");
     MsgDisp("Mikage","It's not about how many. Everyone's
 feelings make me happy, and it makes all
 the difference if yours are there, too.");
-    MsgDisp("主人公","｛御影＊＊｝......");
+    MsgDisp("主人公","｛御影＊＊｝...");
     break ;
     default :
     DbgAssert(1);

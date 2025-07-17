@@ -85,7 +85,7 @@ VoicePlay("D130A00101_07_010");
 MsgDisp("Mikage","What are you guys doing.
 Sassa, Inori, hurry up!");
 VoicePlay("D130A00101_01_060");
-MsgDisp("Kazama","Eh......");
+MsgDisp("Kazama","Eh...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -107,7 +107,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D130A00101_01_070");
-MsgDisp("Kazama","You guys......");
+MsgDisp("Kazama","You guys...");
 MsgDisp("主人公","Hehe!
 Come on, ｛風真＊＊｝, smile.");
 ChEye(7,0);

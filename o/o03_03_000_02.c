@@ -14,11 +14,11 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,0);
     ChMotion(3,2);
     VoicePlay("O030300002_03_000");
-    MsgDisp("Honda","Ahaha......
+    MsgDisp("Honda","Ahaha...
 Well, I guess that's what happens when the
 teams are made last-minute.");
-    MsgDisp("主人公","(Last, huh......
-We weren't in sync at all......)");
+    MsgDisp("主人公","(Last, huh...
+We weren't in sync at all...)");
     break ;
     case 3:
     ChEye(3,0);
@@ -27,7 +27,7 @@ We weren't in sync at all......)");
     ChEyeOpenLevel(3,0);
     VoicePlay("O030300002_03_010");
     MsgDisp("Honda","Yeah, I had fun.");
-    MsgDisp("主人公","Y-Yeah......
+    MsgDisp("主人公","Y-Yeah...
 But it's still frustrating.");
     ChEye(3,2);
     ChMouth(3,3);
@@ -41,8 +41,8 @@ I'm super frustrated.");
     ChMotion(3,5);
     VoicePlay("O030300002_03_030");
     MsgDisp("Honda","Aah, I wanted to win with you!");
-    MsgDisp("主人公","(Last place......
-I wish we had been more in sync......)");
+    MsgDisp("主人公","(Last place...
+I wish we had been more in sync...)");
     break ;
     case 4:
     case 5:
@@ -51,7 +51,7 @@ I wish we had been more in sync......)");
     ChMotion(3,2);
     VoicePlay("O030300002_03_040");
     MsgDisp("Honda","Aah, utter defeat.");
-    MsgDisp("主人公","Sorry......");
+    MsgDisp("主人公","Sorry...");
     ChEye(3,5);
     ChMouth(3,4);
     ChMotion(3,5);
@@ -71,7 +71,7 @@ running alone, right?");
     MsgDisp("Honda","It's not like just one of us would be at
 fault, so don't feel responsible for it.
 Okay?");
-    MsgDisp("主人公","Okay......");
+    MsgDisp("主人公","Okay...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -79,9 +79,9 @@ Okay?");
     MsgDisp("Honda","Good.
 Even if the results say differently, I
 think you're the best partner for me!");
-    MsgDisp("主人公","(｛本多＊＊｝......
+    MsgDisp("主人公","(｛本多＊＊｝...
 That's why last place is so
-frustrating......)");
+frustrating...)");
     break ;
     default :
     DbgAssert(1);

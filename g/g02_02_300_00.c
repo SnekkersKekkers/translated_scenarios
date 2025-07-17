@@ -5,7 +5,7 @@ ChMotion(2,0,1);
 VoicePlay("G020230000_02_000");
 MsgDisp("Sassa","If they find out we came here today,
 they'll make a huge fuss.");
-MsgDisp("主人公","Those guys......");
+MsgDisp("主人公","Those guys...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -40,8 +40,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230000_02_050");
 MsgDisp("Sassa","In front of them, you'd just go with an
-'Umm......' right?");
-MsgDisp("主人公","Umm......");
+'Umm...' right?");
+MsgDisp("主人公","Umm...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,5);
@@ -58,7 +58,7 @@ said exactly the same thing again.");
 MsgDisp("主人公","Hehe, yeah!");
 MsgDisp("主人公","(｛颯砂＊＊｝ really understands
 ｛風真＊＊｝ and
-｛氷室＊＊｝ huh...... ......and me
+｛氷室＊＊｝ huh... ...and me
 too.)");
 BGMStop();
 MsgClose();

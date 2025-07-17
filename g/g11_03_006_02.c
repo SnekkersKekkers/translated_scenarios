@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(There are a lot of magazines with
 impressive gifts these days.
-Hmm, it's hard to display them......)");
+Hmm, it's hard to display them...)");
 VoicePlay("G110300602_03_000");
 MsgDisp("Honda?","Is it a magazine with a luxurious gift?
 Does the item come with a booklet?");
@@ -54,7 +54,7 @@ MsgClose();
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","...... Ah, ｛本多＊＊｝.
+MsgDisp("主人公","... Ah, ｛本多＊＊｝.
 Isn't it time to head back up already?");
 ChMotion(3,1);
 VoicePlay("G110300602_03_050");
@@ -66,16 +66,16 @@ ChMotion(3,2);
 VoicePlay("G110300602_03_060");
 MsgDisp("Honda","You see, it takes a long time for books to
 be distributed and circulated, so they may
-hatch during the return period......");
+hatch during the return period...");
 MsgDisp("主人公","Uh, hatch?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300602_03_070");
 MsgDisp("Honda","Right right, I can't resolve this problem
-well......");
+well...");
 MsgDisp("主人公","(｛本多＊＊｝, you're thinking of something
-outrageous aren't you......)");
+outrageous aren't you...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

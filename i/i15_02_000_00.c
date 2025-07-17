@@ -34,7 +34,7 @@ Ah, ｛風真＊＊｝'s in the back.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("I150200000_02_030");
-    MsgDisp("Sassa","So, Ryota's here too......");
+    MsgDisp("Sassa","So, Ryota's here too...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -60,7 +60,7 @@ Say hi to Ryota for me, too.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Boys' relationships are interesting......
+    MsgDisp("主人公","(Boys' relationships are interesting...
 I hope ｛颯砂＊＊｝ will come
 back.)");
     break ;
@@ -98,7 +98,7 @@ The new product that came out.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I150200000_02_090");
-    MsgDisp("Sassa","......See, I'm out of place.");
+    MsgDisp("Sassa","...See, I'm out of place.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -110,7 +110,7 @@ See you, work hard at your job.");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(｛颯砂＊＊｝, he said the hurdle was high,
-but he still came to support me......)");
+but he still came to support me...)");
     break ;
     case 4:
     case 5:
@@ -167,7 +167,7 @@ See you.");
     BGMStop();
     ChClose(2);
     SEWait();
-    MsgDisp("主人公","(The store's most valuable thing...... is
+    MsgDisp("主人公","(The store's most valuable thing... is
 me!?)");
     break ;
     default :

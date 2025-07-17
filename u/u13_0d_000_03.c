@@ -1,5 +1,5 @@
 MsgDisp("主人公","｛七ツ森＊｝, I
-guess......");
+guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -26,7 +26,7 @@ with, isn't he? Mari, don't give up!");
     VoicePlay("U130D00003_21_010");
     MsgDisp("Michiru","He may seem to be unfriendly but deep
 down, he's a really kind person.");
-    MsgDisp("主人公","(Yeah, I guess I need to be patient......)");
+    MsgDisp("主人公","(Yeah, I guess I need to be patient...)");
     break ;
     case 3:
     StlEye(22,0);
@@ -53,7 +53,7 @@ he lets on. Fight for it, Mari!");
     StlEye(22,0);
     MsgDisp("主人公","(Did I influence
 ｛七ツ森＊｝? I hope it
-was a change in the right direction......)");
+was a change in the right direction...)");
     break ;
     case 4:
     case 5:
@@ -87,7 +87,7 @@ has become more friendly with the staff.");
 about his girlfriend, he starts blushing!
 Super cute～♪");
     MsgDisp("主人公","｛七ツ森＊｝ is?
-That's hard to believe......");
+That's hard to believe...");
     StlEye(22,0);
     StlCheek(22,0);
     StlEye(21,0,0);

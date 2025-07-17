@@ -11,13 +11,13 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","(Seems like our attraction 'Find Molly in
 the giant maze' is attracting a lot of
 attention more and more people are
-gathering......)");
+gathering...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P130400000_04_000");
-    MsgDisp("Nanatsumori","Cow......");
+    MsgDisp("Nanatsumori","Cow...");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝. It's a
 maze with Mikage-sensei's family cow,
 Molly! Won't you try it?");
@@ -43,7 +43,7 @@ to drink freshly squeezed milk～");
     ChNanaType(0);
     ChOpen(4,254,0,3,3,#1,#1,0,0,0,60);
     VoicePlay("P130400000_04_030");
-    MsgDisp("Nanatsumori","That sort of flair...... is super
+    MsgDisp("Nanatsumori","That sort of flair... is super
 interesting.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 This is a maze for the cow, Molly.
@@ -60,12 +60,12 @@ the freshly squeezed milk?");
     ChMotion(4,0,1);
     VoicePlay("P130400000_04_050");
     MsgDisp("Nanatsumori","Hearing you say that makes me
-curious......");
+curious...");
     MsgDisp("主人公","The maze is also fun?");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("P130400000_04_060");
-    MsgDisp("Nanatsumori","......I'll enter.");
+    MsgDisp("Nanatsumori","...I'll enter.");
     MsgDisp("主人公","Then, admission for one!");
     break ;
     default :

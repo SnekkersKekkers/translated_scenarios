@@ -101,10 +101,10 @@ they're laughing from their heart.");
         VoicePlay("B040403202_04_090");
         MsgDisp("Nanatsumori","Just now, you were sparkling a lot.
 So much so that I wanted to hug you.");
-        MsgDisp("主人公","｛七ツ森＊｝......");
+        MsgDisp("主人公","｛七ツ森＊｝...");
         VoiceEVSPlay(4);
         VoicePlay("B040403202_04_100");
-        MsgDisp("Nanatsumori","｛主人公｝......");
+        MsgDisp("Nanatsumori","｛主人公｝...");
         MsgDisp("主人公","Didn't it look like it was sparkling
 because of the reflection of the penguins
 in the water tank?");

@@ -24,12 +24,12 @@ ChMotion(6,0);
 VoicePlay("G020630101_06_030");
 MsgDisp("Himuro","Well it's not really your intention, but
 rather that people want to be around you.");
-MsgDisp("主人公","I'm happy about that but......");
+MsgDisp("主人公","I'm happy about that but...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630101_06_040");
-MsgDisp("Himuro","......If I think about it, you're more
+MsgDisp("Himuro","...If I think about it, you're more
 like a flower. Like when butterflies and
 bees flock around the smell of nectar.");
 ChEye(6,0);
@@ -43,7 +43,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630101_06_060");
-MsgDisp("Himuro","Then maybe...... you're not a flower, but
+MsgDisp("Himuro","Then maybe... you're not a flower, but
 a water well?");
 MsgDisp("主人公","Eh, well?");
 ChEye(6,0);
@@ -66,9 +66,9 @@ ChMotion(6,0);
 VoicePlay("G020630101_06_090");
 MsgDisp("Himuro","Please continue to provide a place for us.
 Thank you.");
-MsgDisp("主人公","(A queen, flowers and a well...... huh?
+MsgDisp("主人公","(A queen, flowers and a well... huh?
 ｛氷室＊＊｝ thought about me that
-way......)");
+way...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

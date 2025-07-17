@@ -19,7 +19,7 @@ VoicePlay("T020621000_06_300");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","What are you......");
+MsgDisp("Himuro","What are you...");
 VoicePlay("T020621000_06_310");
 ChEye(6,3);
 ChMouth(6,0);

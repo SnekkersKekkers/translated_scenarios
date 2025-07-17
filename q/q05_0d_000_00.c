@@ -20,9 +20,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q050D00000_22_010");
-MsgDisp("Hikaru","So hey, for today's free period, wanna
+MsgDisp("Hikaru","Hey, for today's free period, wanna
 come with us?");
-MsgSel("Yeah, sure!","Eeh...... sorry");
+MsgSel("Yeah, sure!","Eh...sorry.");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);
@@ -52,15 +52,15 @@ How come, why?");
     ChMouth(21,4);
     ChMotion(21,4);
     VoicePlay("Q050D00000_21_020");
-    MsgDisp("Michiru","...... Hikaru.
-Maria surely has her own plans.
+    MsgDisp("Michiru","... Hikaru.
+Mari probably has her own plans.
 Let's go.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     ChClose(21,0,30);
     ChClose(22,0,30);
-    MsgDisp("主人公","(Mm......
-Now I feel bad, maybe I should'nt have
+    MsgDisp("主人公","(Mm...
+Now I feel bad, maybe I shouldn't have
 refused?)");
     break ;
     default :

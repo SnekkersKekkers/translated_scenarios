@@ -80,7 +80,7 @@ Let's try our luck this year.");
         VoicePlay("S090100002_01_020");
         MsgDisp("Kazama","Heh, that's a mature thing to say.
 It's that kind of feeling this year, huh?");
-        MsgDisp("主人公","(Maybe I should have given it a try......)");
+        MsgDisp("主人公","(Maybe I should have given it a try...)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -97,7 +97,7 @@ It's that kind of feeling this year, huh?");
     MsgDisp("Kazama","Look, the fortunes are really popular.
 What should we do?
 Feeling lucky?");
-    MsgDisp("主人公","Drawing fortunes......
+    MsgDisp("主人公","Drawing fortunes...
 Should I give it a try?");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){

@@ -11,8 +11,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChCheek(4,7);
 VoicePlay("T020400000_04_320");
-MsgDisp("Nanatsumori","Ah...... yeah.
-I also like you but......");
+MsgDisp("Nanatsumori","Ah... yeah.
+I also like you but...");
 ChMouth(4,3);
 ChMotion(4,0,1);
 ChCheek(4,0);
@@ -23,7 +23,7 @@ ChMotion(4,1,1);
 VoicePlay("T020400000_04_340");
 MsgDisp("Nanatsumori","This is no laughing matter.
 This is a memory that'll remain forever.");
-MsgDisp("主人公","Ah......");
+MsgDisp("主人公","Ah...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
@@ -42,7 +42,7 @@ VoicePlay("T020400000_04_360");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","I swear here and now that I'll cherish you
 for the rest of my life.
-I love you ｛主人公｝......");
+I love you ｛主人公｝...");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

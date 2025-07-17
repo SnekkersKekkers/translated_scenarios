@@ -28,7 +28,7 @@ I'm glad I did my best!)");
     ScrFadeIn(0);
     VoicePlay("O030400000_04_010");
     MsgDisp("Nanatsumori","Ooh, winning first at the sports
-festival......");
+festival...");
     MsgDisp("主人公","Yeah.
 We were perfectly in sync!");
     ChEye(4,0);
@@ -61,7 +61,7 @@ Yay!");
     ChMouth(4,4);
     VoicePlay("O030400000_04_050");
     MsgDisp("Nanatsumori","Sync, perfect.
-Our bodies too, perfect......");
+Our bodies too, perfect...");
     MsgDisp("主人公","?");
     ChEye(4,2);
     ChMouth(4,5);
@@ -69,7 +69,7 @@ Our bodies too, perfect......");
     ChCheek(4,10);
     VoicePlay("O030400000_04_060");
     MsgDisp("Nanatsumori","Nothing!!
-What am I saying......");
+What am I saying...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,2,1);
@@ -77,8 +77,8 @@ What am I saying......");
     VoicePlay("O030400000_04_070");
     MsgDisp("Nanatsumori","I get kinda happy and kinda nervous when
 we get along like this. My heart won't
-stop pounding...... I'm in trouble.");
-    MsgDisp("主人公","(｛七ツ森＊｝......?
+stop pounding... I'm in trouble.");
+    MsgDisp("主人公","(｛七ツ森＊｝...?
 I'm so happy we won first place!)");
     break ;
     default :
