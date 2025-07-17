@@ -1,2 +1,2 @@
 ScrFadeIn(0);
-MsgDisp("主人公","(Oh, it's ｛御影＊＊｝.)");
+MsgDisp("主人公","(Oh, it's ｛御影＊＊｝. )");

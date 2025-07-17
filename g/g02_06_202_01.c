@@ -66,8 +66,8 @@ ChMotion(6,0);
 VoicePlay("G020620200_06_090");
 MsgDisp("Himuro","In a way, he might be my complete
 opposite. His manners are good, he's
-sociable, good with people, honest...
-and cool.");
+sociable, good with people, honest... and
+cool.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

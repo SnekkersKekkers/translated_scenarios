@@ -5,8 +5,7 @@ ChOpen(1,254,0,4,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("F110110000_01_000");
-MsgDisp("Kazama","｛主人公｝, are you having
-fun?");
+MsgDisp("Kazama","｛主人公｝, are you having fun?");
 MsgDisp("主人公","Yep!
 What about you, ｛風真＊＊｝?");
 ChEye(1,2);

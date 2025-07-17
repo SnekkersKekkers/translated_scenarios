@@ -66,8 +66,8 @@ MsgDisp("Sassa","Yeah, just go all out.
 I want to see it too.
 Go ahead.");
 MsgDisp("主人公","(Go ahead, he says. ｛颯砂＊＊｝
-sure is acting weird... Maybe it's
-because of this place?)");
+sure is acting weird... Maybe it's because
+of this place?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

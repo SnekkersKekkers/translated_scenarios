@@ -30,8 +30,7 @@ Welcome back!");
     ChMotion(5,4);
     VoiceEVSPlay(5);
     VoicePlay("P830500002_05_010");
-    MsgDisp("Hiiragi","｛主人公｝, your face
-looks stern?");
+    MsgDisp("Hiiragi","｛主人公｝, your face looks stern?");
     MsgDisp("主人公","EH?");
     ChEye(5,4);
     ChMotion(5,0);

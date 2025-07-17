@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020320100_03_000");
-MsgDisp("Honda","...Hey, this might not be the right
-place to ask this, but");
+MsgDisp("Honda","...Hey, this might not be the right place
+to ask this, but");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,4);

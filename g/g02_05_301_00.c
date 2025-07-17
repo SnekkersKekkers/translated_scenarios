@@ -57,8 +57,8 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("G020530100_05_080");
 MsgDisp("Hiiragi","It's regrettable, although I cannot
 support you.");
-MsgDisp("主人公","(...Hm? When did it become a given that
-I was even running for student council
+MsgDisp("主人公","(...Hm? When did it become a given that I
+was even running for student council
 president?)");
 BGMStop();
 MsgClose();

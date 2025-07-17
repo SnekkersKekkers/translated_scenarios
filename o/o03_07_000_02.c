@@ -45,8 +45,8 @@ It's frustrating.)");
     VoicePlay("O030700002_07_030");
     MsgDisp("Mikage","Hey, everyone's super excited, aren't
 they?");
-    MsgDisp("主人公","Um... since we're last, I guess
-everyone's applause is just loud?");
+    MsgDisp("主人公","Um... since we're last, I guess everyone's
+applause is just loud?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

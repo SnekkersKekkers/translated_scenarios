@@ -20,8 +20,9 @@ to see your smile up close.");
 MsgDisp("主人公","O-Okay?");
 ChMotion(5,2);
 VoicePlay("G020520100_05_030");
-MsgDisp("Hiiragi","Huu... In order to see your smile up
-once more... What should I do?");
+MsgDisp("Hiiragi","Huu...
+In order to see your smile up once more...
+What should I do?");
 ChEye(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
@@ -35,8 +36,7 @@ VoicePlay("G020520100_05_050");
 MsgDisp("Hiiragi","The next time I come here, I hope the
 fireflies' light will look like a
 different color.");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems different to
-usual...
+MsgDisp("主人公","(｛柊＊＊＊｝ seems different to usual...
 Perhaps this is his inner voice?)");
 BGMStop();
 MsgClose();

@@ -127,8 +127,8 @@ Welcome.");
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I550200000_02_130");
-    MsgDisp("Sassa","｛主人公｝, you're working
-hard again today, huh.");
+    MsgDisp("Sassa","｛主人公｝, you're working hard
+again today, huh.");
     MsgDisp("主人公","Yes, what are you looking for today?");
     ChEye(2,0);
     ChMouth(2,4);

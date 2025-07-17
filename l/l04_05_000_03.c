@@ -80,8 +80,9 @@ I put some effort in.");
     ChMotion(5,2);
     ChCheek(5,0);
     VoicePlay("L040500003_05_080");
-    MsgDisp("Hiiragi","Some? Then, if you were to get more
-serious... How frightening.");
+    MsgDisp("Hiiragi","Some?
+Then, if you were to get more serious...
+How frightening.");
     MsgDisp("主人公","Hehe, if I got serious, it wouldn't lose
 even to the best chocolate!");
     ChEye(5,4);

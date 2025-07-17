@@ -7,8 +7,7 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","Ah, I need to tend to the plants
-soon...");
+    MsgDisp("主人公","Ah, I need to tend to the plants soon...");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -50,8 +49,7 @@ I'm happy to be complimented!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, I need to tend to the plants
-soon...");
+    MsgDisp("主人公","Ah, I need to tend to the plants soon...");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

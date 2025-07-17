@@ -35,6 +35,6 @@ MsgDisp("Hiiragi","And from what I have heard, there are an
 astounding amount of rumors among the
 girls. If you come across any interesting
 ones, please tell them to me.");
-MsgDisp("主人公","(...Well, I can only hope one of them
-will be interesting enough to make for a
-decent play.)");
+MsgDisp("主人公","(...Well, I can only hope one of them will
+be interesting enough to make for a decent
+play.)");

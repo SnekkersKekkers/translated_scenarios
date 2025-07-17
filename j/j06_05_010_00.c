@@ -17,8 +17,8 @@ Can you suggest a meeting place?");
 sounds good?");
         VoicePlay("J060501000_05_010");
         MsgDisp("Hiiragi","Yes, ma'am.
-It is my pleasure to be to accept
-your invitation.");
+It is my pleasure to be to accept your
+invitation.");
         VoicePlay("J060501000_05_020");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

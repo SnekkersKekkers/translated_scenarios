@@ -30,8 +30,7 @@ ChMotion(5,2);
 ChCheek(5,3);
 VoiceEVSPlay(5);
 VoicePlay("D130C00000_05_000");
-MsgDisp("Hiiragi","｛主人公｝, good
-afternoon...");
+MsgDisp("Hiiragi","｛主人公｝, good afternoon...");
 MsgDisp("主人公","Yeah, good afternoon.");
 ChEye(6,0);
 ChMouth(6,0);

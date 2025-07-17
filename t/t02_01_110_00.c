@@ -2,8 +2,8 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_000");
-MsgDisp("Kazama?","｛主人公｝, did I make it
-in time...");
+MsgDisp("Kazama?","｛主人公｝, did I make it in
+time...");
 MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_872",0.5);
 Wait(49,0);
@@ -153,6 +153,5 @@ ChOpen(1,254,7,4,2,#1,#1,0,0);
 ChMouth(1,2);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_150");
-MsgDisp("Kazama","｛主人公｝, you are my
-everything.
+MsgDisp("Kazama","｛主人公｝, you are my everything.
 Always was, and always will be.");

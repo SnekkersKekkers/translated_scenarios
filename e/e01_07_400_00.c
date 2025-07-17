@@ -49,8 +49,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("E010740000_07_020");
-MsgDisp("Mikage","Hmm... the only downside to Haba High
-is that it doesn't have it on the menu.");
+MsgDisp("Mikage","Hmm... the only downside to Haba High is
+that it doesn't have it on the menu.");
 ChEye(21,2);
 ChMouth(21,0);
 ChMotion(21,0);

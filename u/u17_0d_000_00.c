@@ -43,8 +43,8 @@ VoicePlay("U170D00000_22_020");
 MsgDisp("Hikaru","......");
 MsgDisp("主人公","...?");
 VoicePlay("U170D00000_21_030");
-MsgDisp("Michiru","...Doesn't it feel like we're already
-in a dream?");
+MsgDisp("Michiru","...Doesn't it feel like we're already in a
+dream?");
 MsgDisp("主人公","(Hehe!
 The three of us had a lot of fun talking
 about all sorts of things...)");

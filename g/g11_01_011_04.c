@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛風真＊＊｝ said he
-wanted to talk to me on his way home.
-...I wonder if something happened?)");
+MsgDisp("主人公","(That's right...｛風真＊＊｝ said he wanted
+to talk to me on his way home. ...I wonder
+if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -74,9 +74,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101104_01_050");
-MsgDisp("Kazama","When that time comes... I'll have to
-open shop far away from Simon's. I can't
-repay kindness with evil.");
+MsgDisp("Kazama","When that time comes... I'll have to open
+shop far away from Simon's. I can't repay
+kindness with evil.");
 MsgDisp("主人公","(Hehe, it seems like
 ｛風真＊＊｝ has already
 decided to open up his own shop.)");

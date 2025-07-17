@@ -13,9 +13,9 @@ ChOpen(5,254,4,0,4,#1,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
 VoiceEVSPlay(5);
 VoicePlay("F100540000_05_010");
-MsgDisp("Hiiragi","｛主人公｝, good
-afternoon. I was asking Mikage-sensei
-about Hiyashi Chuuka.");
+MsgDisp("Hiiragi","｛主人公｝, good afternoon.
+I was asking Mikage-sensei about Hiyashi
+Chuuka.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

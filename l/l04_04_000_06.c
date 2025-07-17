@@ -32,8 +32,7 @@ I wish I tried a little harder...)");
     ChMouth(4,0);
     VoicePlay("L040400006_04_030");
     MsgDisp("Nanatsumori","I see a bit of a crazy aura...");
-    MsgDisp("主人公","Sorry, I might have messed up a
-little...");
+    MsgDisp("主人公","Sorry, I might have messed up a little...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1);

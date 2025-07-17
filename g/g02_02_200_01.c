@@ -1,8 +1,7 @@
 MsgClose();
 ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("G020220001_02_000");
-MsgDisp("Sassa","You know, there's a good thing going
-on...");
+MsgDisp("Sassa","You know, there's a good thing going on...");
 MsgDisp("主人公","You're right.
 It's overflowing with firefly lights.");
 ChEye(2,0);

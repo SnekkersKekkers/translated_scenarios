@@ -34,8 +34,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoiceEVSPlay(3);
 VoicePlay("F100620000_03_010");
-MsgDisp("Honda","｛主人公｝, you're here
-too!");
+MsgDisp("Honda","｛主人公｝, you're here too!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

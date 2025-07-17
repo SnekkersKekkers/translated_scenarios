@@ -25,8 +25,7 @@ There's a track and field meet in August
 and I wanted to participate.");
 MsgDisp("主人公","｛大地＊＊｝, are you in the
 track and field club? It's seems like that
-would be difficult to balance with
-work...");
+would be difficult to balance with work...");
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("D020800100_08_030");

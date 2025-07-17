@@ -64,7 +64,8 @@ I'm sorry.");
     ChMouth(3,0);
     ChMotion(3,5,1);
     VoicePlay("P630300002_03_060");
-    MsgDisp("Honda","I see～I'm disappointed.");
+    MsgDisp("Honda","I see～
+I'm disappointed.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

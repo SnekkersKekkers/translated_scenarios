@@ -26,8 +26,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoiceEVSPlay(6);
 VoicePlay("B330C30800_06_010");
-MsgDisp("Himuro","｛主人公｝, what do you
-think?");
+MsgDisp("Himuro","｛主人公｝, what do you think?");
 MsgDisp("主人公","Hmm...
 Maybe not fluffy, but soft?");
 ChEye(7,0);

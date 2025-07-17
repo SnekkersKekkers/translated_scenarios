@@ -46,5 +46,5 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400011_04_040");
 MsgDisp("Nanatsumori","Haah～...");
-MsgDisp("主人公","(I will root for you! ...from a nice
-warm room!)");
+MsgDisp("主人公","(I will root for you! ...from a nice warm
+room!)");

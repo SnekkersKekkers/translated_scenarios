@@ -44,8 +44,8 @@ It was brilliant.");
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("H3A0600000_06_040");
-    MsgDisp("Himuro","...Maybe I should work out a little
-more too.");
+    MsgDisp("Himuro","...Maybe I should work out a little more
+too.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);

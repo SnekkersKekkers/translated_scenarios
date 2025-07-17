@@ -24,8 +24,7 @@ something like this, right?");
 MsgDisp("主人公","Hm, probably?");
 ChMotion(3,0);
 VoicePlay("K010300101_03_030");
-MsgDisp("Honda","To know my taste this much anyways
-is...");
+MsgDisp("Honda","To know my taste this much anyways is...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

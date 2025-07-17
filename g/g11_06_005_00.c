@@ -55,8 +55,8 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600500_06_050");
-MsgDisp("Himuro","...The next time you get first place,
-I'll give you a reward.");
+MsgDisp("Himuro","...The next time you get first place, I'll
+give you a reward.");
 MsgDisp("主人公","Eh, reward?");
 ChEye(6,0);
 ChMouth(6,1);

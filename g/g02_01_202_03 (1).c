@@ -18,8 +18,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120203_01_020");
-MsgDisp("Kazama","...Come on, give me something more
-than, 'You're right.'");
+MsgDisp("Kazama","...Come on, give me something more than,
+'You're right.'");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

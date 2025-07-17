@@ -67,8 +67,7 @@ ChMotion(2,4);
 VoicePlay("G020240003_02_080");
 MsgDisp("Sassa","Spending time with you like this, keeps my
 mind and body in top form, I'll be able to
-win the interhigh without fail...I
-guess?");
+win the interhigh without fail...I guess?");
 MsgDisp("主人公","Is that right?");
 ChEye(2,3);
 ChMouth(2,3);

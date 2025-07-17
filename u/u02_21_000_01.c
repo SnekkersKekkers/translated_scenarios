@@ -19,8 +19,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("U022100001_21_020");
-MsgDisp("Michiru","...If only it were a date with a boy
-maybe it would have been more fun...?");
+MsgDisp("Michiru","...If only it were a date with a boy maybe
+it would have been more fun...?");
 MsgDisp("主人公","Huh, ｛みちる＊｝?");
 ChEye(21,4);
 ChMouth(21,4);

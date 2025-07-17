@@ -2,8 +2,8 @@ BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, it's finally break time.)");
-MsgDisp("主人公","(...Huh? That person over there with
-their head down on the desk...)");
+MsgDisp("主人公","(...Huh? That person over there with their
+head down on the desk...)");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_22_01");

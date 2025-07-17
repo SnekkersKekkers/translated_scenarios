@@ -9,8 +9,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020120201_01_010");
 MsgDisp("Kazama","Yeah, I don't know.
-It's like I can see myself
-objectively... it's a strange place.");
+It's like I can see myself objectively...
+it's a strange place.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);

@@ -111,8 +111,8 @@ ChMouth(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D020100300_01_110");
 MsgDisp("Kazama","Because I'm a coward, I'm stuck trying to
-have it both ways...It's inconsiderate
-to dad's business, and to my grandpa.");
+have it both ways...It's inconsiderate to
+dad's business, and to my grandpa.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.3,0.6);
 ChClose(1,0,30);

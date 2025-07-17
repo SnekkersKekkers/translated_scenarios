@@ -203,8 +203,7 @@ Leave this side to me!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(21);
-MsgDisp("主人公","(It turned into a search for the
-heart...
+MsgDisp("主人公","(It turned into a search for the heart...
 That's fun too, though!)");
 BGMStop();
 MsgClose();

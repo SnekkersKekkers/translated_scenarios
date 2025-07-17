@@ -15,8 +15,8 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("S120200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, it's been a
-great start to the New Year.
+    MsgDisp("Sassa","｛主人公｝, it's been a great
+start to the New Year.
 Thank you.");
     MsgDisp("主人公","I feel the same way.");
     ChEye(2,0);

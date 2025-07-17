@@ -11,8 +11,7 @@ ChEye(8,3);
 ChMouth(8,4);
 VoicePlay("G020810301_08_010");
 MsgDisp("Shirahane","Just by shining brightly without doing
-anything, it captivates people's
-eyes...");
+anything, it captivates people's eyes...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

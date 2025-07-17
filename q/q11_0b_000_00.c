@@ -76,9 +76,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","There were lot's of stuff, like pottery
-and tortoiseshell accessories, huh?
-...but all expensive for a
-high-schooler.");
+and tortoiseshell accessories, huh? ...but
+all expensive for a high-schooler.");
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("Q110B00000_01_030");

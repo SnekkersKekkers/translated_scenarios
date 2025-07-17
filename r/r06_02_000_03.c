@@ -55,8 +55,7 @@ it.");
     ChOpen(2,34,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("R060200003_02_070");
-    MsgDisp("Sassa","｛主人公｝, that's my
-gift!");
+    MsgDisp("Sassa","｛主人公｝, that's my gift!");
     MsgDisp("主人公","Huh, ｛颯砂＊＊｝, this is yours?
 Ah!");
     ChEye(2,0);

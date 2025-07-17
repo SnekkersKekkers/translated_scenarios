@@ -36,8 +36,7 @@ Wait(120,0);
 StlOpen("ev_05_17");
 ScrFadeIn(0);
 VoicePlay("T020500021_05_030");
-MsgDisp("Hiiragi","I'll be with you... for all of
-eternity.");
+MsgDisp("Hiiragi","I'll be with you... for all of eternity.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

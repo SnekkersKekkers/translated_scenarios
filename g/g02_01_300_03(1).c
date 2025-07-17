@@ -55,8 +55,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130003_01_060");
-MsgDisp("Kazama","... No, next time let's come just the
-two of us.
+MsgDisp("Kazama","... No, next time let's come just the two
+of us.
 Without anyone finding out, okay?");
 MsgDisp("主人公","It seems they'll find out sooner or
 later....");
@@ -67,8 +67,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("G020130003_01_070");
 MsgDisp("Kazama","Well, if they do, they'll drag the topic
-on for a week... so keep quite about
-it, okay?");
+on for a week... so keep quite about it,
+okay?");
 MsgDisp("主人公","(Hehe ｛風真＊＊｝, It seems you
 really like ｛本多＊＊｝ and
 ｛七ツ森＊｝, huh?)");

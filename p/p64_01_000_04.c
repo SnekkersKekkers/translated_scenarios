@@ -4,8 +4,8 @@ ChMotion(1,0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("P640100004_01_000");
-MsgDisp("Kazama","｛主人公｝, thank you for
-the meal.");
+MsgDisp("Kazama","｛主人公｝, thank you for the
+meal.");
 MsgDisp("主人公","Was it delicious?");
 ChEye(1,3);
 ChMouth(1,3);

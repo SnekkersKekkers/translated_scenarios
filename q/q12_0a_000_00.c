@@ -8,8 +8,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChPosition(2,2);
 ScrFadeIn(0);
-MsgDisp("主人公","Tomorrow is the end of the school
-trip...
+MsgDisp("主人公","Tomorrow is the end of the school trip...
 It went by so fast.");
 ChEye(1,0);
 ChMouth(1,3);

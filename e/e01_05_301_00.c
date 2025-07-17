@@ -82,8 +82,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010530100_05_050");
-MsgDisp("Hiiragi","...But I once saw a gift a patron gave
-me, and it didn't have any bones on it.");
+MsgDisp("Hiiragi","...But I once saw a gift a patron gave me,
+and it didn't have any bones on it.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

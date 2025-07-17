@@ -51,7 +51,6 @@ Well then, good night.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(5);
-MsgDisp("主人公","(Hehe, today was a wonderful
-birthday...)");
+MsgDisp("主人公","(Hehe, today was a wonderful birthday...)");
 MsgClose();
 ScrFadeOut(0,0);

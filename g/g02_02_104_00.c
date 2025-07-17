@@ -70,9 +70,8 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("G020210400_02_090");
 MsgDisp("Sassa","But you know, in the end, I was treated
-like the enemy of the whole school
-...And so a fast but unpopular guy was
-born.");
+like the enemy of the whole school ...
+And so a fast but unpopular guy was born.");
 MsgDisp("主人公","(Maybe it's because he's a genius that he
 was envied. There must be some complex
 memories that only ｛颯砂＊＊｝

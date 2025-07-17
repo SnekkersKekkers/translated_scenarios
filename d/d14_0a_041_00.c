@@ -130,9 +130,9 @@ ChMotion(2,4,1);
 VoicePlay("D140A04100_02_090");
 MsgDisp("Sassa","Information is key when it comes to
 keeping Inori in check.");
-MsgDisp("主人公","(Uhm... ｛氷室＊＊｝ is staring
-at me. I wonder what they're talking
-about...?)");
+MsgDisp("主人公","(Uhm...
+｛氷室＊＊｝ is staring at me.
+I wonder what they're talking about...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

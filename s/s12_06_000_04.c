@@ -72,9 +72,9 @@ You'll be graduating soon.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S120600002_06_100");
-    MsgDisp("Himuro","...If we were in the same grade, we
-could have prayed for success and
-graduation together.");
+    MsgDisp("Himuro","...If we were in the same grade, we could
+have prayed for success and graduation
+together.");
     MsgDisp("主人公","Eh?");
     ChEye(6,0);
     ChMouth(6,0);

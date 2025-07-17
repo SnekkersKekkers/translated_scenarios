@@ -16,9 +16,9 @@ It's just a school trip, but for us it's
 an exciting group trip.");
 ChMotion(4,0,1);
 VoicePlay("F020400013_04_010");
-MsgDisp("Nanatsumori","It'll be my first time in Nagasaki. Trying
-the food, seeing the buildings... I'm
-interested.");
+MsgDisp("Nanatsumori","It'll be my first time in Nagasaki.
+Trying the food, seeing the buildings...
+I'm interested.");
 MsgDisp("主人公","Yeah, same!");
 ChEye(4,0);
 ChMouth(4,4);

@@ -30,9 +30,9 @@ MsgDisp("Hiiragi","I'm happy if you think so.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q100500000_05_040");
-MsgDisp("Hiiragi","... It would be wonderful if I could
-make use of what I saw and experienced
-here in Nagasaki on stage.");
+MsgDisp("Hiiragi","... It would be wonderful if I could make
+use of what I saw and experienced here in
+Nagasaki on stage.");
 MsgDisp("主人公","Yeah, I'm looking forward.");
 ChEye(5,0);
 ChMotion(5,0);

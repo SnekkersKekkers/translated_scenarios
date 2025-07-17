@@ -60,9 +60,8 @@ carried away.");
 I'm now totally a fan of Nagasaki and
 school trips.");
     MsgDisp("主人公","(I think this is my first time seeing
-｛柊＊＊＊｝ being so
-happy...? I'm glad we could spend it
-together!)");
+｛柊＊＊＊｝ being so happy...?
+I'm glad we could spend it together!)");
     break ;
     case 4:
     case 5:

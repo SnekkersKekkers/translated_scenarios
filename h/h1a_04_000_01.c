@@ -49,9 +49,9 @@ Ugh, we lost...");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("H1A0400001_04_060");
-    MsgDisp("Nanatsumori","Haa～... Being frustrated, or sad.
-Being happy, or tickled, it makes you want
-to cry. Humans are complicated, huh?");
+    MsgDisp("Nanatsumori","Haa～... Being frustrated, or sad. Being
+happy, or tickled, it makes you want to
+cry. Humans are complicated, huh?");
     MsgDisp("主人公","... Hehe.
 I guess so?");
     ChEye(4,2);

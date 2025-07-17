@@ -5,13 +5,12 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Ah, a phone call from
-｛颯砂＊＊｝.)");
+｛颯砂＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
     MsgDisp("主人公","Hello.
-｛主人公苗字｝
-speaking.");
+｛主人公苗字｝ speaking.");
     VoicePlay("J030201001_02_000");
     MsgDisp("Sassa","Ah, it's me.
 I just got your message.");
@@ -26,12 +25,11 @@ Call me again.
 Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(At least he called to say he can't
-go...)");
+    MsgDisp("主人公","(At least he called to say he can't go...)");
     break ;
     case 3:
     MsgDisp("主人公","(Ah, a phone call from
-｛颯砂＊＊｝.)");    
+｛颯砂＊＊｝. )");    
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

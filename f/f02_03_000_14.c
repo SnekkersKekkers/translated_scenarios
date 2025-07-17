@@ -49,5 +49,4 @@ ChMotion(3,4);
 VoicePlay("F020300014_03_060");
 MsgDisp("Honda","If I'm crying so hard I can't speak, don't
 laugh at me, okay?");
-MsgDisp("主人公","(I want to know what that looks
-like...)");
+MsgDisp("主人公","(I want to know what that looks like...)");

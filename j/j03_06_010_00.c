@@ -8,8 +8,7 @@ switch (ChPrmGet(6,6)){
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030601000_06_000");
     MsgDisp("Himuro","Hey, it's me.
 About the voicemail thing, okay.");
@@ -31,8 +30,7 @@ I can't wait for
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030601000_06_020");
     MsgDisp("Himuro","Hey, it's me.");
     MsgDisp("主人公","Oh, ｛氷室＊＊｝, did you get my
@@ -57,8 +55,7 @@ I can't wait for
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030601000_06_050");
     MsgDisp("Himuro","Hey, it's me.
 I'm sorry I didn't answer the phone.");

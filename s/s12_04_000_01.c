@@ -57,8 +57,8 @@ It's not enough somehow...");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400001_04_050");
-    MsgDisp("Nanatsumori","... Negativity isn't good first thing
-in the New Year.");
+    MsgDisp("Nanatsumori","... Negativity isn't good first thing in
+the New Year.");
     MsgDisp("主人公","Hehe!
 We'll see each other again soon, right?");
     ChEye(4,0);
@@ -72,8 +72,7 @@ Bye then.");
     MsgClose();
     ChClose(4,0,30);
     Wait(30);
-    MsgDisp("主人公","(I hope this year will be good as
-well...)");
+    MsgDisp("主人公","(I hope this year will be good as well...)");
     break ;
     default :
     DbgAssert(1);

@@ -39,8 +39,8 @@ three-legged race...)");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("O030701000_07_030");
-    MsgDisp("Mikage","｛主人公｝, have you found
-a partner yet?");
+    MsgDisp("Mikage","｛主人公｝, have you found a
+partner yet?");
     MsgDisp("主人公","No, not yet.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -80,8 +80,8 @@ three-legged race...)");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("O030701000_07_080");
-    MsgDisp("Mikage","｛主人公｝, have you found
-a partner yet?");
+    MsgDisp("Mikage","｛主人公｝, have you found a
+partner yet?");
     MsgDisp("主人公","No, not yet.");
     ChEye(7,0);
     ChMouth(7,0);

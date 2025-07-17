@@ -18,10 +18,10 @@ ScrFadeIn(0);
 VoicePlay("G110600100_06_000");
 MsgDisp("Himuro","... So, what?
 Why did you come all the way here?");
-MsgDisp("主人公","Ah...I wanted to apologize for
-something that happened at the sports
-festival. I'm sorry. That we came last in
-the three legged race.");
+MsgDisp("主人公","Ah...I wanted to apologize for something
+that happened at the sports festival. I'm
+sorry. That we came last in the three
+legged race.");
 ChEye(6,3);
 ChMouth(6,3);
 ChMotion(6,2);

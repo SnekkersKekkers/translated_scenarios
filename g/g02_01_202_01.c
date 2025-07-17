@@ -10,8 +10,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020120201_01_010");
 MsgDisp("Kazama","Like, how should I put it? It's as if I'm
-looking at myself objectively... This's
-a strange place.");
+looking at myself objectively... This's a
+strange place.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -84,7 +84,7 @@ MsgDisp("Kazama","Like I'm gonna lose to the underclassman
 who popped out of nowhere.
 You know?");
 MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝
-is talking about ｛氷室＊＊｝...)");
+is talking about ｛氷室＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

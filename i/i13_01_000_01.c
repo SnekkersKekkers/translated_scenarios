@@ -2,9 +2,8 @@ BGOpen("fp720",0);
 ChLayout(1);
 SEPlay("EV_SE_652");
 ScrFadeIn(0);
-MsgDisp("主人公","I will be working here starting today. My
-name is
-｛主人公苗字｝.
+MsgDisp("主人公","I will be working here starting today.
+My name is ｛主人公苗字｝.
 It's my pleasure.");
 VoicePlay("I130100001_45_000");
 MsgDisp("Manager","Your shifts are Tuesdays and Thursdays.
@@ -82,8 +81,7 @@ But, let's do our best!)");
     ChOpen(1,35,0,0,2,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("I130100001_01_060");
-    MsgDisp("Kazama","｛主人公｝, you, that
-apron...");
+    MsgDisp("Kazama","｛主人公｝, you, that apron...");
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Does it suit me?");
     ChEye(1,3);

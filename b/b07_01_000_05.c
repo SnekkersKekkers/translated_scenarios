@@ -34,7 +34,7 @@ MsgDisp("Kazama","That's right, it's deep.
 You start by making your own fly, I don't
 mind that kind of thing.");
 MsgDisp("主人公","(That's typical of skillful
-｛風真＊＊｝.)");
+｛風真＊＊｝. )");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

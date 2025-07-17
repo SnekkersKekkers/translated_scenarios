@@ -59,7 +59,7 @@ this chocolate.");
     ChEyeOpenLevel(5,#1);
     MsgDisp("主人公","(Ugh...
 I wish I had tried a little harder.
-I bothered ｛柊＊＊＊｝.)");
+I bothered ｛柊＊＊＊｝. )");
     break ;
     case 4:
     case 5:
@@ -101,8 +101,7 @@ quite a good mood.");
     VoicePlay("L040500006_05_110");
     MsgDisp("Hiiragi","This chocolate as a whole may resemble
 you.");
-    MsgDisp("主人公","｛柊＊＊＊｝, that's a
-little...");
+    MsgDisp("主人公","｛柊＊＊＊｝, that's a little...");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);

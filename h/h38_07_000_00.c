@@ -4,8 +4,8 @@ ScrFadeIn(0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("H380700000_07_000");
-MsgDisp("Mikage","｛主人公｝, making it to
-the Interhigh tournament is amazing.");
+MsgDisp("Mikage","｛主人公｝, making it to the
+Interhigh tournament is amazing.");
 MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Did you come to support me?");
 ChEye(7,2);

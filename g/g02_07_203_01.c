@@ -36,8 +36,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020720301_07_040");
 MsgDisp("Mikage","What about you?");
-MsgDisp("主人公","(｛御影＊＊｝, Is he joking or
-serious... or is this his inner voice?)");
+MsgDisp("主人公","(｛御影＊＊｝, Is he joking or serious...
+or is this his inner voice?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

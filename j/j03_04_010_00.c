@@ -5,12 +5,11 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Oh, it's a phone call from
-｛七ツ森＊｝.)");
+｛七ツ森＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030401000_04_000");
     MsgDisp("Nanatsumori","Ah...
 Hey.
@@ -29,12 +28,11 @@ comes soon!)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, It's a phone call from
-｛七ツ森＊｝.)");
+｛七ツ森＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Hello, it's ｛主人公苗字｝.");
     VoicePlay("J030401000_04_020");
     MsgDisp("Nanatsumori","Oh, hi.
 It's Nanatsumori.
@@ -59,12 +57,11 @@ comes soon!)");
     case 4:
     case 5:
     MsgDisp("主人公","(Oh, it's a phone call from
-｛七ツ森＊｝.)");
+｛七ツ森＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Hello, it's ｛主人公苗字｝.");
     VoicePlay("J030401000_04_050");
     MsgDisp("Nanatsumori","Hi.
 Sorry, I missed your call.");

@@ -30,9 +30,9 @@ My part-time visits.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("I550700000_07_030");
-    MsgDisp("Mikage","Princess Tsubaki, Habataki Books,
-Simon... Everyone works part-time in so
-many different places.");
+    MsgDisp("Mikage","Princess Tsubaki, Habataki Books, Simon...
+Everyone works part-time in so many
+different places.");
     MsgDisp("主人公","So you're going around visiting everyone?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -90,8 +90,8 @@ a gift, please.");
     MsgDisp("Mikage","I was thinking of handing them out during
 tea time in the staff room.
 You know, to keep everyone in a good mood.");
-    MsgDisp("主人公","(｛御影＊＊｝... did you do something
-wrong again?)");
+    MsgDisp("主人公","(｛御影＊＊｝... did you do something wrong
+again?)");
     MsgClose();
     BGMStop();
     MsgClose();

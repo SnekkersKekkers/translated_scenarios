@@ -1,8 +1,7 @@
 ChEye(8,3);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
-MsgDisp("主人公","I also... like
-｛大地＊＊｝.");
+MsgDisp("主人公","I also... like ｛大地＊＊｝.");
 VoicePlay("T020801000_08_170");
 ChEye(8,0);
 ChMouth(8,4);

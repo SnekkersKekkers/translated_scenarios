@@ -62,8 +62,7 @@ ChMotion(3,0);
 VoicePlay("G020330200_03_080");
 MsgDisp("Honda","That's when I got that line from him.");
 MsgDisp("主人公","(I think I might understand what
-｛風真＊＊｝ wanted to
-say...)");
+｛風真＊＊｝ wanted to say...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

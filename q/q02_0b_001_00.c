@@ -45,7 +45,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("Q020B00100_03_010");
-    MsgDisp("Honda","Yay! This will be fun.");
+    MsgDisp("Honda","Yay!
+This will be fun.");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -55,9 +56,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("Q020B00100_01_030");
-    MsgDisp("Kazama","Let's get going, then
-There are a lot of people here, so we need
-to plan ahead.");
+    MsgDisp("Kazama","Let's get going, then There are a lot of
+people here, so we need to plan ahead.");
     MsgDisp("主人公","Yeah!");
     break ;
     case 1:
@@ -103,7 +103,8 @@ I guess it can't be helped.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("Q020B00100_03_030");
-    MsgDisp("Honda","Off we go, then! I hope you enjoy the free period!");
+    MsgDisp("Honda","Off we go, then!
+I hope you enjoy the free period!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
     ChClose(3,0,30);

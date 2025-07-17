@@ -25,8 +25,7 @@ fortune to each other～!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(I hope this year is another good
-year...)");
+    MsgDisp("主人公","(I hope this year is another good year...)");
     break ;
     case 3:
     ChEye(8,3);

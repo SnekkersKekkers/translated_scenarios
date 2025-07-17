@@ -19,14 +19,12 @@ MsgDisp("Mikage","Yeah, if it were me...Vice Principal
 Himuro? If we got along well, he might
 even raise my evaluation.");
 MsgDisp("主人公","I heard there's a rumor here that you can
-hear the other person's inner
-thoughts....");
+hear the other person's inner thoughts....");
 ChEye(7,0);
 ChMouth(7,1);
 ChMotion(7,1);
 VoicePlay("G020710001_07_030");
-MsgDisp("Mikage","Vice Principal Himuro's inner
-thoughts...");
+MsgDisp("Mikage","Vice Principal Himuro's inner thoughts...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

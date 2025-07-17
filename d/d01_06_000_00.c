@@ -60,8 +60,8 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600000_06_040");
-MsgDisp("Himuro","...There are a lot of other people you
-can watch surf.");
+MsgDisp("Himuro","...There are a lot of other people you can
+watch surf.");
 SEPlay("EV_SE_621");
 SEWait();
 Wait(10,0);

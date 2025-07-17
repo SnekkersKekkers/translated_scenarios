@@ -75,8 +75,8 @@ ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020720000_07_090");
-MsgDisp("Mikage","...But then I realized I no longer had
-any space to store my feelings for you.");
+MsgDisp("Mikage","...But then I realized I no longer had any
+space to store my feelings for you.");
 MsgDisp("主人公","Feelings...for me?");
 MsgClear();
 ChClose(7);
@@ -98,8 +98,7 @@ ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020720000_07_120");
-MsgDisp("Mikage","But I was still trying to stow it
-away...");
+MsgDisp("Mikage","But I was still trying to stow it away...");
 MsgDisp("主人公","｛御影＊＊｝...");
 ChEye(7,2);
 ChMouth(7,0);

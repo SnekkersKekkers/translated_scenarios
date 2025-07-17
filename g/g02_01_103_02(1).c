@@ -15,8 +15,7 @@ VoicePlay("G020110302_01_010");
 MsgDisp("Kazama","Yeah, I can't believe we both wore the
 same brand and design.
 I wonder what it looks like to others.");
-MsgDisp("主人公","...Like a couple with a good
-relationship?");
+MsgDisp("主人公","...Like a couple with a good relationship?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -69,8 +68,7 @@ ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("G020110302_01_080");
-MsgDisp("Kazama","No, matching swimsuits would be
-crazy...");
+MsgDisp("Kazama","No, matching swimsuits would be crazy...");
 MsgDisp("主人公","(I could hear everything you said,
 ｛風真＊＊｝...
 Maybe this is your inner voice?)");

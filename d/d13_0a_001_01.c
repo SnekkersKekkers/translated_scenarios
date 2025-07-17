@@ -155,7 +155,7 @@ MsgDisp("Kazama","Huh?
 I didn't do anything wrong.");
 MsgDisp("主人公","(Hehe, we got a nice photo!
 Thank you so much,
-｛御影＊＊｝.)");
+｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

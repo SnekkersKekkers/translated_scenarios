@@ -27,7 +27,8 @@ sounds good?");
         ChMotion(5,0);
         VoicePlay("J060500000_05_010");
         MsgDisp("Hiiragi","Yes ma'am.
-It is my pleasure to accept your invitation.");
+It is my pleasure to accept your
+invitation.");
         ChMouth(5,3);
         VoicePlay("J060500000_05_020");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");

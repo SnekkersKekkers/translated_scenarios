@@ -7,8 +7,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("S030500000_05_000");
     MsgDisp("Hiiragi","Hiiragi here.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
-It's
-｛主人公苗字｝.");
+It's ｛主人公苗字｝.");
     VoicePlay("S030500000_05_010");
     MsgDisp("Hiiragi","Oh.
 Happy New Year to you.");
@@ -19,8 +18,8 @@ Hey, are you going to visit the shrine?");
     VoicePlay("S030500000_05_020");
     MsgDisp("Hiiragi","Hiiragi here.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
-｛主人公苗字｝
-here. Happy New Year!");
+｛主人公苗字｝ here.
+Happy New Year!");
     VoicePlay("S030500000_05_030");
     MsgDisp("Hiiragi","Happy New Year. Holiday Greeting Cards are
 good but talking directly like this is

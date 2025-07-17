@@ -16,8 +16,7 @@ SEPlay("EV_SE_508");
 SEWait();
 VoiceEVSPlay(1);
 VoicePlay("B050100100_01_000");
-MsgDisp("Kazama","｛主人公｝, here, this is
-yours.");
+MsgDisp("Kazama","｛主人公｝, here, this is yours.");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_03");

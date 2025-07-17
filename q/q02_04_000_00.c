@@ -98,7 +98,8 @@ blast!)");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("Q020400000_04_100");
-        MsgDisp("Nanatsumori","For real...? Got it.");
+        MsgDisp("Nanatsumori","For real...?
+Got it.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);

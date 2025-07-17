@@ -15,8 +15,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     VoiceEVSPlay(3);
     VoicePlay("S120300000_03_000");
-    MsgDisp("Honda","｛主人公｝, aren't you
-tired from all the walking?");
+    MsgDisp("Honda","｛主人公｝, aren't you tired from
+all the walking?");
     MsgDisp("主人公","It's okay, I'm fine.
 Is ｛本多＊＊｝ okay?");
     ChEye(3,0);
@@ -32,8 +32,7 @@ So, cya later!");
     ChClose(3);
     Wait(30);
     MsgDisp("主人公","(It was fun visiting the shrine.
-I hope this year is another good
-year...)");
+I hope this year is another good year...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

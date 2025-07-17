@@ -17,8 +17,7 @@ But, as expected I'm nervous still.)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500001_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, I came to
-listen.
+    MsgDisp("Hiiragi","｛主人公｝, I came to listen.
 To gaming music.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
 Thank you.

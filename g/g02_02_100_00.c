@@ -46,8 +46,7 @@ the running. No matter the rival that
 shows up, I'm not giving him my place
 beside you.");
 MsgDisp("主人公","(? 'The fight for me'?? What is
-｛颯砂＊＊｝ talking
-about...?)");
+｛颯砂＊＊｝ talking about...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

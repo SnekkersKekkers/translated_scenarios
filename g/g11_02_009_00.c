@@ -23,9 +23,8 @@ ChOpen(2,100,0,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200900_02_000");
-MsgDisp("Sassa","｛主人公｝, thanks for
-always accompanying me on my last run like
-this.");
+MsgDisp("Sassa","｛主人公｝, thanks for always
+accompanying me on my last run like this.");
 MsgDisp("主人公","Yeah, it was tough to begin with, but I
 wonder if it's better now that I trained.");
 ChEye(2,1);

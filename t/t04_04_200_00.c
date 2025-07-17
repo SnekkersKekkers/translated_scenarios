@@ -30,9 +30,9 @@ next time? I think that'll make me look
 the cutest. Oh come on!");
 VoicePlay("T040420000_04_020");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori","Ah, come on. Just give the hairpin back!
-This...is my fault,
-｛主人公｝.");
+MsgDisp("Nanatsumori","Ah, come on.
+Just give the hairpin back!
+This... is my fault, ｛主人公｝.");
 MsgClose();
 BGMStop(5);
 ScrFadeOut(0,0,300);

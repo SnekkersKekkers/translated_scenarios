@@ -90,7 +90,7 @@ MsgDisp("Kazama","Tell him to spend his allowance more
 wisely.
 ... Geez.");
 MsgDisp("主人公","(I see, both of them are worried about me
-and ｛颯砂＊＊｝...)");
+and ｛颯砂＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

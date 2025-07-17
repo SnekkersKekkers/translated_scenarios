@@ -31,8 +31,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("B330B20800_01_000");
-MsgDisp("Kazama","｛主人公｝, I'm expecting
-a good reason for this.");
+MsgDisp("Kazama","｛主人公｝, I'm expecting a good
+reason for this.");
 MsgDisp("主人公","Hey, everyone's already having fun right?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -46,8 +46,7 @@ ChEye(1,3);
 ChMouth(1,1);
 VoiceEVSPlay(3);
 VoicePlay("B330B20800_03_010");
-MsgDisp("Honda","｛主人公｝, don't be
-scared.
+MsgDisp("Honda","｛主人公｝, don't be scared.
 You can hold my hand.");
 ChEye(4,2);
 ChMouth(4,0);

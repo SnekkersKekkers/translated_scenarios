@@ -39,8 +39,7 @@ VoicePlay("B070300001_03_210");
 MsgDisp("Honda","Isn't that exciting?
 I think so!");
 MsgDisp("主人公","(｛本多＊＊｝ seems to be enjoying himself!
-He's really living life to the
-fullest...)");
+He's really living life to the fullest...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

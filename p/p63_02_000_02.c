@@ -61,8 +61,8 @@ Gardening Club...)");
     ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200002_02_040");
-    MsgDisp("Sassa","｛主人公｝, I heard that
-the Horticulture club was impressive this
+    MsgDisp("Sassa","｛主人公｝, I heard that the
+Horticulture club was impressive this
 year, but it's more than the rumours say.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝, thank you.
 Everyone gav eit their best.

@@ -25,8 +25,7 @@ MsgDisp("主人公","(Woah...
 beautiful!)");
 VoicePlay("D012200100_47_000");
 MsgDisp("School Girl A","Amazing...
-Just like you'd expect from
-Hikaru-san...");
+Just like you'd expect from Hikaru-san...");
 SEStop("EV_SE_GAYA_025",1);
 VoicePlay("D012200100_46_000");
 MsgDisp("School Girl B","The performance and visuals are both

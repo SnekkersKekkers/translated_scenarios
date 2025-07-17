@@ -14,8 +14,7 @@ MsgDisp("Mikage","Ohh, it's you this time.
 Today's the day I run into all the funny
 ones.");
 MsgDisp("主人公","Ah, ｛御影＊＊｝, hello.
-Hum, what do you mean by \"funny
-ones\"...?");
+Hum, what do you mean by \"funny ones\"...?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -90,15 +89,15 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_060");
 MsgDisp("Mikage","If I had to give you one piece of
-advice... \"It's not what you eat, but
-who you eat it with.\". That's my advice.");
+advice... \"It's not what you eat, but who
+you eat it with.\". That's my advice.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("E010230200_07_070");
-MsgDisp("Mikage","｛主人公｝, don't you
-think so too?");
+MsgDisp("Mikage","｛主人公｝, don't you think so
+too?");
 ChMotion(2,0);
 MsgDisp("主人公","Eh, me?");
 ChEye(7,0);

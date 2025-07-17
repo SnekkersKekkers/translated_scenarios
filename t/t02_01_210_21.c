@@ -4,8 +4,8 @@ ChCheek(1,8);
 Wait(60,0);
 VoiceEVSPlay(1);
 VoicePlay("T020121000_01_370");
-MsgDisp("Kazama","｛主人公｝, was that a
-promise kiss?");
+MsgDisp("Kazama","｛主人公｝, was that a promise
+kiss?");
 ChEye(1,3);
 MsgDisp("主人公","Yes, I also like ｛風真＊＊｝.
 Thank you for always thinking of me.");
@@ -88,8 +88,8 @@ There will be no attendees.");
 MsgDisp("主人公","...｛風真＊＊｝.");
 VoiceEVSPlay(1);
 VoicePlay("T020121000_01_500");
-MsgDisp("Kazama","｛主人公｝, I won't let
-you go again.");
+MsgDisp("Kazama","｛主人公｝, I won't let you go
+again.");
 BGMStop();
 MsgClear();
 StlEffect(1,1,60);

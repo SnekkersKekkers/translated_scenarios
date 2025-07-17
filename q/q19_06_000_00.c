@@ -7,8 +7,8 @@ SEPlay("EV_SE_670");
 SEWait();
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Eh∋
-Who could it be at this hour... ...
-wait, from ｛氷室＊＊｝? )");
+Who could it be at this hour... ... wait,
+from ｛氷室＊＊｝? )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();

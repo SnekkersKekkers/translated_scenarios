@@ -105,8 +105,8 @@ it, you know?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("L040200006_02_110");
-    MsgDisp("Sassa","...Just checking, but there's nothing
-but chocolate in it, right?");
+    MsgDisp("Sassa","...Just checking, but there's nothing but
+chocolate in it, right?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

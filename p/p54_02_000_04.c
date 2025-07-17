@@ -11,8 +11,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P540200004_02_000");
-MsgDisp("Sassa","｛主人公｝, that was
-amazing.");
+MsgDisp("Sassa","｛主人公｝, that was amazing.");
 MsgDisp("主人公","｛颯砂＊＊｝, thank you.");
 ChEye(2,0);
 ChMouth(2,0);

@@ -29,8 +29,7 @@ And we were so close...)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("O020200002_02_020");
-    MsgDisp("Sassa","｛主人公｝, you got
-excited, huh.");
+    MsgDisp("Sassa","｛主人公｝, you got excited, huh.");
     MsgDisp("主人公","Yeah, but we didn't win...");
     ChEye(2,0);
     ChMouth(2,4);

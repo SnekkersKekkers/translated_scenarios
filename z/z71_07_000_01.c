@@ -72,8 +72,8 @@ ChMotion(7,0);
 SEStop("EV_SE_743",1);
 VoiceEVSPlay(7);
 VoicePlay("Z710700001_07_060");
-MsgDisp("Mikage","｛主人公｝, the usual
-question, please.");
+MsgDisp("Mikage","｛主人公｝, the usual question,
+please.");
 MsgDisp("主人公","Huh!?
 Um... is Molly doing well?");
 SEStop("EV_SE_863",1);
@@ -109,7 +109,7 @@ Wait(60);
 BGOpen("sc300",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Finally, I've asked a question for all
-three years. It's going to be another
-great year...!)");
+three years.
+It's going to be another great year...!)");
 MsgClose();
 ScrFadeOut(0,0);

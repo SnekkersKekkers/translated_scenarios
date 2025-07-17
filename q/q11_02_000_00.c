@@ -1,6 +1,6 @@
 ScrFadeIn(0);
-MsgDisp("主人公","(Hmmm... I ended up buying both matcha
-and black tea castella. I wonder what
+MsgDisp("主人公","(Hmmm... I ended up buying both matcha and
+black tea castella. I wonder what
 ｛颯砂＊＊｝ bought...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);

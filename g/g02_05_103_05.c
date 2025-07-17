@@ -33,8 +33,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510305_05_040");
-MsgDisp("Hiiragi","Remember before, at the haunted
-house...");
+MsgDisp("Hiiragi","Remember before, at the haunted house...");
 MsgDisp("主人公","Ahh!
 ｛柊＊＊＊｝, you were teaching
 the ghost actor all sorts of things.");
@@ -61,8 +60,7 @@ VoicePlay("G020510305_05_060");
 MsgDisp("Hiiragi","If that were true, I'd be happy.
 Shall we go check it out again sometime?");
 MsgDisp("主人公","(If ｛柊＊＊＊｝ were the one
-producing it, it would be super
-scary...)");
+producing it, it would be super scary...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

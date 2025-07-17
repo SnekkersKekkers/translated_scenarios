@@ -12,16 +12,14 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("S060700000_07_000");
-    MsgDisp("Mikage","｛主人公｝, Happy New
-Year.");
+    MsgDisp("Mikage","｛主人公｝, Happy New Year.");
     MsgDisp("主人公","Happy New Year to you too.");
     break ;
     case 3:
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("S060700000_07_010");
-    MsgDisp("Mikage","｛主人公｝, Happy
-Holidays!
+    MsgDisp("Mikage","｛主人公｝, Happy Holidays!
 Have a great year.");
     MsgDisp("主人公","｛御影＊＊｝, Happy New
 Year.");
@@ -31,8 +29,7 @@ Year.");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("S060700000_07_020");
-    MsgDisp("Mikage","｛主人公｝, Happy New
-Year!
+    MsgDisp("Mikage","｛主人公｝, Happy New Year!
 Good luck this year too.");
     MsgDisp("主人公","｛御影＊＊｝, Happy New
 Year.

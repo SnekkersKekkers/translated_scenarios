@@ -43,8 +43,7 @@ ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("K020801000_08_040");
 VoiceEVSPlay(8);
-MsgDisp("Shirahane","Happy birthday,
-｛主人公｝.");
+MsgDisp("Shirahane","Happy birthday, ｛主人公｝.");
 MsgDisp("主人公","Thanks!");
 ChEye(8,3);
 ChMouth(8,0);

@@ -27,9 +27,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("E010620200_04_020");
-MsgDisp("Nanatsumori","Ah... it's more like we happened to
-meet, or maybe we were drawn to each
-other... or something?");
+MsgDisp("Nanatsumori","Ah... it's more like we happened to meet,
+or maybe we were drawn to each other... or
+something?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -85,8 +85,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("E010620200_06_060");
-MsgDisp("Himuro","Ugh... it's the first time something
-like that has happened to me...");
+MsgDisp("Himuro","Ugh... it's the first time something like
+that has happened to me...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);

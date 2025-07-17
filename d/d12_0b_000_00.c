@@ -67,8 +67,8 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("D120B00000_04_020");
-MsgDisp("Nanatsumori","The two of you...your attentiveness
-level is ZERO!");
+MsgDisp("Nanatsumori","The two of you...your attentiveness level
+is ZERO!");
 MsgDisp("主人公","(Attentiveness level...)");
 ChEye(4,5);
 ChMouth(4,0);
@@ -209,8 +209,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("D120B00000_04_100");
-MsgDisp("Nanatsumori","And Dahon is sort of a celebrity too
-...
+MsgDisp("Nanatsumori","And Dahon is sort of a celebrity too ...
 It's unfair.");
 ChEye(3,0);
 ChMouth(3,4);

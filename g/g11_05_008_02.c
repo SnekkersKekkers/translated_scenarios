@@ -99,8 +99,7 @@ ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("G110500802_05_080");
 MsgDisp("Hiiragi","No, that's no good at all.
-I couldn't even do this job by
-myself...");
+I couldn't even do this job by myself...");
 MsgDisp("主人公","That's not true at all.
 After all, your calculations were right,
 right?");

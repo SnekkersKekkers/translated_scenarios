@@ -72,8 +72,8 @@ VoicePlay("G020630004_06_100");
 MsgDisp("Himuro","Like how Mr. Kojiro and the others
 wouldn't understand what you and I are
 talking about right now.");
-MsgDisp("主人公","(That's true, but... something about
-that doesn't sit right...)");
+MsgDisp("主人公","(That's true, but... something about that
+doesn't sit right...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -63,7 +63,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q070400000_04_070");
-MsgDisp("Nanatsumori","Maybe for a Graduation Trip or a Honeymoon...");
+MsgDisp("Nanatsumori","Maybe for a Graduation Trip or a
+Honeymoon...");
 MsgDisp("主人公","Eh?");
 ChEye(4,3);
 ChMouth(4,3);

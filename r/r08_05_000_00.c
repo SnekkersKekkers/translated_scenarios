@@ -8,8 +8,8 @@ ChOpen(5,34,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("R080500000_05_000");
-MsgDisp("Hiiragi","｛主人公｝, this is the
-last party here, huh.");
+MsgDisp("Hiiragi","｛主人公｝, this is the last party
+here, huh.");
 MsgDisp("主人公","｛柊＊＊＊｝, were you able to
 enjoy it?");
 ChEye(5,4);

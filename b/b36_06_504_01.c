@@ -60,8 +60,7 @@ ChMotion(6,0);
 VoicePlay("B360650401_06_070");
 MsgDisp("Himuro","Yeah.
 We should enjoy our time together.");
-MsgDisp("主人公","(For some reason, my heart is
-pounding...)");
+MsgDisp("主人公","(For some reason, my heart is pounding...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

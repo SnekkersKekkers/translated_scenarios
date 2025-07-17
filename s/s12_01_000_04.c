@@ -48,7 +48,7 @@ See you later.");
     ChClose(1);
     MsgDisp("主人公","(My last New Year shrine visit as a
 Habataki student. I'm glad it was with
-｛風真＊＊｝.)");
+｛風真＊＊｝. )");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -113,8 +113,8 @@ every year.");
     ChMotion(1,0);
     VoiceEVSPlay(1);
     VoicePlay("S120100004_01_090");
-    MsgDisp("Kazama","｛主人公｝, the weather's
-changed a bit somehow...
+    MsgDisp("Kazama","｛主人公｝, the weather's changed
+a bit somehow...
 Is it going to snow?");
     MsgDisp("主人公","Perhaps rain?");
     ChEye(1,0);

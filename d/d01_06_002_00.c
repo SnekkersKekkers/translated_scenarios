@@ -119,8 +119,7 @@ VoicePlay("D010600200_38_000");
 MsgDisp("Students","HEAVE-HO!
 HEAVE-HO!");
 MsgDisp("主人公","(It's so intense!
-｛氷室＊＊｝ vs
-Himuro-sensei...)");
+｛氷室＊＊｝ vs Himuro-sensei...)");
 BGMPlay("BGM_C06_INORI_C",0.01);
 MsgClose();
 ScrFadeOut(0);
@@ -200,8 +199,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600200_06_070");
-MsgDisp("Himuro","It wasn't supposed to turn out this
-way...
+MsgDisp("Himuro","It wasn't supposed to turn out this way...
 It's frustrating when you can't win.");
 ChEye(6,1);
 ChMouth(6,0);

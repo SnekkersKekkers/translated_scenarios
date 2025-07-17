@@ -85,8 +85,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q100100000_01_080");
 MsgDisp("Kazama","But before that.
-... Do you smell something freshly
-baked?");
+... Do you smell something freshly baked?");
 MsgDisp("主人公","I do...!
 Castella comes first, right?");
 ChEye(1,0);

@@ -31,8 +31,8 @@ really sure where to look...");
     ChMotion(4,0,1);
     VoicePlay("H480400000_04_030");
     MsgDisp("Nanatsumori","Your visual score is already perfect.
-All that's left is... good luck with
-your performance.");
+All that's left is... good luck with your
+performance.");
     MsgDisp("主人公","(Alright, let's do our best!)");
     break ;
     case 4:

@@ -181,8 +181,7 @@ ChMotion(5,3);
 Wait(22,1);
 VoiceEVSPlay(5);
 VoicePlay("P240500000_05_160");
-MsgDisp("Hiiragi","｛主人公｝, everyone,
-thank you.");
+MsgDisp("Hiiragi","｛主人公｝, everyone, thank you.");
 SEPlay("EV_SE_752");
 Wait(50,0);
 MsgDisp("主人公","(｛柊＊＊＊｝...

@@ -19,9 +19,9 @@ MsgDisp("主人公","Yeah, it's beautiful.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B360522100_05_010");
-MsgDisp("Hiiragi","Yeah. The sky and castle are dyed
-red... It's like \"The Flapping Castle
-is on Fire\".");
+MsgDisp("Hiiragi","Yeah. The sky and castle are dyed red...
+It's like \"The Flapping Castle is on
+Fire\".");
 MsgDisp("主人公","Eh?
 Is that a performance by the Habataki
 Theater Company?");

@@ -1,8 +1,8 @@
 BGOpen("sc510",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(There's still time before my afternoon
-classes... Maybe I'll try going out to
-the courtyard.)");
+classes... Maybe I'll try going out to the
+courtyard.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

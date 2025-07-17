@@ -10,8 +10,8 @@ MsgDisp("主人公","(Oh, a text message. ...Ah, it's from
 ｛七ツ森＊｝. Is it an
 invitation for lunch?)");
 MsgDisp("主人公","(\"Where? Music now. In the room.
-Really...Really, the room. The
-corner...\" Is this code...∋)");
+Really...Really, the room. The corner...\"
+Is this code...∋)");
 MsgDisp("主人公","Music in the room.
 He probably means the music room?
 Let's go!");
@@ -87,8 +87,8 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("D010400200_04_090");
-MsgDisp("Nanatsumori","Eh... I just woke up and it's so bright
-up there...I'll burn...");
+MsgDisp("Nanatsumori","Eh... I just woke up and it's so bright up
+there...I'll burn...");
 MsgDisp("主人公","Geez.
 You're not a vampire.");
 ChEye(4,5);

@@ -104,8 +104,7 @@ ScrFadeIn(0);
 ChMouth(1,1);
 VoiceEVSPlay(1);
 VoicePlay("F100110002_01_070");
-MsgDisp("Kazama","｛主人公｝, that was
-quick.");
+MsgDisp("Kazama","｛主人公｝, that was quick.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
 ChMouth(1,3);

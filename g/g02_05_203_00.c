@@ -35,8 +35,8 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("G020520300_05_050");
-MsgDisp("Hiiragi","Wild... specifically, what kind of
-fashion would that be?");
+MsgDisp("Hiiragi","Wild... specifically, what kind of fashion
+would that be?");
 MsgDisp("主人公","Hmmm, kind of like
 ｛御影＊＊｝?");
 ChEye(5,3);

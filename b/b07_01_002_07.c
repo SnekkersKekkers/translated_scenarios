@@ -6,8 +6,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("B070100002_01_390");
-MsgDisp("Kazama","｛主人公｝, your face is
-kinda red?");
+MsgDisp("Kazama","｛主人公｝, your face is kinda
+red?");
 MsgDisp("主人公","Y-Yeah.
 I was dazed out for a bit.");
 ChEye(1,0);

@@ -78,8 +78,8 @@ Please sit wherever you'd like.");
     VoicePlay("I350700000_07_060");
     MsgDisp("Mikage","｛主人公｝.
 A refill, please.");
-    MsgDisp("主人公","Ah, yes. ...｛御影＊＊｝, you're taking
-it quite slow today.");
+    MsgDisp("主人公","Ah, yes. ...｛御影＊＊｝, you're taking it
+quite slow today.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,4);

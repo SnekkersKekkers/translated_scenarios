@@ -72,8 +72,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G020110400_01_090");
-MsgDisp("Kazama","...Could it be, my true
-feelings...∋");
+MsgDisp("Kazama","...Could it be, my true feelings...∋");
 MsgDisp("主人公","(｛風真＊＊｝ fashion preferences are quite
 unique...)");
 BGMStop();

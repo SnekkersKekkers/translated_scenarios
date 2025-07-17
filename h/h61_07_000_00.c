@@ -47,8 +47,8 @@ You naturally become relaxed.");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("H610700000_07_030");
-    MsgDisp("Mikage","｛主人公｝, so you joined
-the gardening club.");
+    MsgDisp("Mikage","｛主人公｝, so you joined the
+gardening club.");
     MsgDisp("主人公","Yes.
 ｛御影＊＊｝, I'm looking
 forward to working with you.");

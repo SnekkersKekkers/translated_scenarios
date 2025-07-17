@@ -10,8 +10,7 @@ switch (ChPrmGet(21,6)){
     ScrFadeIn(0);
     VoicePlay("H1A2100001_21_000");
     MsgDisp("Michiru","Good work.");
-    MsgDisp("主人公","｛みちる＊｝, we
-lost...");
+    MsgDisp("主人公","｛みちる＊｝, we lost...");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,3);
@@ -29,8 +28,7 @@ stayed as the baseball club manager...)");
     ScrFadeIn(0);
     VoicePlay("H1A2100001_21_020");
     MsgDisp("Michiru","Mari... good work out there.");
-    MsgDisp("主人公","｛みちる＊｝, we
-lost...");
+    MsgDisp("主人公","｛みちる＊｝, we lost...");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,3);

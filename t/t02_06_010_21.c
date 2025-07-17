@@ -32,8 +32,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
-MsgDisp("Himuro","Haa... you'll betray me even at the
-very end.");
+MsgDisp("Himuro","Haa... you'll betray me even at the very
+end.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020601000_06_230");
 ChEye(6,4);
@@ -50,8 +50,7 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoiceEVSPlay(6);
 VoicePlay("T020601000_06_240");
-MsgDisp("Himuro","｛主人公｝, always be by
-my side.");
+MsgDisp("Himuro","｛主人公｝, always be by my side.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

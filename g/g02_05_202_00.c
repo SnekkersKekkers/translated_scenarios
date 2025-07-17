@@ -28,9 +28,9 @@ ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520200_05_040");
-MsgDisp("Hiiragi","I feel like if it's Inori by your
-side... it can't be helped, and for
-that, I want to scold myself.");
+MsgDisp("Hiiragi","I feel like if it's Inori by your side...
+it can't be helped, and for that, I want
+to scold myself.");
 ChEye(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520200_05_050");

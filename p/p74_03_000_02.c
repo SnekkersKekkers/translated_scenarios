@@ -11,8 +11,7 @@ SEWait();
 ChOpen(3,254,5,0,3,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P740300002_03_000");
-MsgDisp("Honda","｛主人公｝,
-congratulations!");
+MsgDisp("Honda","｛主人公｝, congratulations!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

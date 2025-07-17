@@ -17,8 +17,8 @@ all these last three years?)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, this is your
-last stage, I look forward to it.");
+    MsgDisp("Hiiragi","｛主人公｝, this is your last
+stage, I look forward to it.");
     MsgDisp("主人公","｛柊＊＊＊｝, thank you!
 I'll do my best so I can show the results
 of my three years of hard work.");
@@ -76,8 +76,8 @@ all these last three years?)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_050");
-    MsgDisp("Hiiragi","｛主人公｝, this is your
-last performance, correct?");
+    MsgDisp("Hiiragi","｛主人公｝, this is your last
+performance, correct?");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Thank you for coming.");
     ChEye(5,2);

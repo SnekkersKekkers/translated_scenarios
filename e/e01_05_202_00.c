@@ -80,8 +80,7 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("E010520200_03_060");
 MsgDisp("Honda","It's not funny.
-That makes it seem like I'm the bad
-guy...");
+That makes it seem like I'm the bad guy...");
 ChEye(5,0);
 ChEye(3,0);
 ChMouth(3,0);

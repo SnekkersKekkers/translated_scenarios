@@ -88,8 +88,8 @@ this.");
 MsgDisp("主人公","...Yes.");
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_380");
-MsgDisp("Kazama","｛主人公｝, I'll never let
-you go again.");
+MsgDisp("Kazama","｛主人公｝, I'll never let you go
+again.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

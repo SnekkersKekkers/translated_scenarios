@@ -96,8 +96,8 @@ MsgDisp("Kazama","Sorry to those guys, but...
 There will be no attendees.");
 VoiceEVSPlay(1);
 VoicePlay("T020120000_01_670");
-MsgDisp("Kazama","｛主人公｝, I won't let
-you go again.");
+MsgDisp("Kazama","｛主人公｝, I won't let you go
+again.");
 BGMStop();
 MsgClear();
 StlEffect(1,1,60);

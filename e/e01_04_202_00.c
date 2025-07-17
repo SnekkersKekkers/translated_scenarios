@@ -62,8 +62,8 @@ ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("E010420200_04_030");
-MsgDisp("Nanatsumori","Wow-... You're the leader, an actor,
-and a handyman. Yano-san, you're seriously
+MsgDisp("Nanatsumori","Wow-... You're the leader, an actor, and a
+handyman. Yano-san, you're seriously
 amazing.");
 ChEye(5,2);
 ChMouth(5,4);

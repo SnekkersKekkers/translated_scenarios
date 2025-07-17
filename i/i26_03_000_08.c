@@ -56,8 +56,7 @@ comfortable leaving.");
     VoicePlay("I260300000_03_940");
     MsgDisp("Honda","...Well, it still would be a problem if
 the manager left too much.");
-    MsgDisp("主人公","(I didn't think they trusted me so
-much...
+    MsgDisp("主人公","(I didn't think they trusted me so much...
 I'm glad I worked hard!)");
     break ;
     case 4:

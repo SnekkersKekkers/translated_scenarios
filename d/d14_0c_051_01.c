@@ -27,8 +27,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoiceEVSPlay(6);
 VoicePlay("D140C05101_06_000");
-MsgDisp("Himuro","｛主人公｝, you like
-Habataki mixed juice right?
+MsgDisp("Himuro","｛主人公｝, you like Habataki
+mixed juice right?
 ... Do you want it?");
 ChMouth(5,4);
 MsgDisp("主人公","Is that okay?");

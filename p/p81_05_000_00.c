@@ -25,8 +25,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("P810500000_05_020");
-MsgDisp("Hiiragi","｛主人公｝, let's do our
-best.");
+MsgDisp("Hiiragi","｛主人公｝, let's do our best.");
 MsgDisp("主人公","Yes!");
 ChEye(5,4);
 ChMouth(5,4);

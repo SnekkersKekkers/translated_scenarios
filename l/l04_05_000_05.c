@@ -50,8 +50,7 @@ I will accept gratefully.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(A challenge?
-Did I add something he doesn't
-like...?)");
+Did I add something he doesn't like...?)");
     break ;
     case 4:
     case 5:

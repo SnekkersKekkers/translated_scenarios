@@ -30,9 +30,9 @@ notice us.");
     ChMouth(1,4);
     ChMotion(1,0);
     VoicePlay("S120100005_01_020");
-    MsgDisp("Kazama","...I see. The reason you're so
-oblivious when you're with me is because
-you enjoy being with me.");
+    MsgDisp("Kazama","...I see. The reason you're so oblivious
+when you're with me is because you enjoy
+being with me.");
     MsgDisp("主人公","That's true, I guess?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -117,8 +117,8 @@ Yeah, that's it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Distance? What does he mean... This
-year, ｛風真＊＊｝ and I, will
+    MsgDisp("主人公","(Distance? What does he mean... This year,
+｛風真＊＊｝ and I, will
 graduate together...)");
     break ;
     default :

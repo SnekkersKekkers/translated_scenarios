@@ -62,8 +62,8 @@ regardless of what the result is.");
         ChMouth(8,0);
         ChMotion(8,2,1);
         VoicePlay("S090800000_08_050");
-        MsgDisp("Shirahane","I see...Well we'd be wasting time
-waiting in the line, I guess. Let's go.");
+        MsgDisp("Shirahane","I see...Well we'd be wasting time waiting
+in the line, I guess. Let's go.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

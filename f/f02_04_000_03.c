@@ -56,8 +56,8 @@ ChMouth(4,3);
 VoicePlay("F020400003_04_060");
 MsgDisp("Nanatsumori","That——");
 ScrQuake(1);
-MsgDisp("主人公","...Eh∋ Ha...Hahaha! Oh my god,
-stop! That tickles!");
+MsgDisp("主人公","...Eh∋ Ha...Hahaha! Oh my god, stop! That
+tickles!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(4,0,30);

@@ -29,8 +29,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
-MsgDisp("主人公","(Hmm... 
-Were ｛柊＊＊＊｝'s eyes always such a pretty colour...?)");
+MsgDisp("主人公","(Hmm...
+Were ｛柊＊＊＊｝'s eyes always
+such a pretty colour...?)");
 while (1){
     RunEverydaySksp(5,0,1,1,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -121,9 +122,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","(｛柊＊＊＊｝ has had lots of difficult
-experiences since he was little... Even
-if it's just a little, I would like to
-help him...)");
+experiences since he was little... Even if
+it's just a little, I would like to help
+him...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

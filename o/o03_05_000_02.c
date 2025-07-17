@@ -43,8 +43,7 @@ I wish I had tried a little harder...)");
     ScrFadeIn(0);
     VoiceEVSPlay(5);
     VoicePlay("O030500002_05_030");
-    MsgDisp("Hiiragi","｛主人公｝, are you not
-hurt?");
+    MsgDisp("Hiiragi","｛主人公｝, are you not hurt?");
     MsgDisp("主人公","I'm fine, but sorry.
 We're last...");
     ChEye(5,2);

@@ -21,8 +21,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("Q080C00100_07_000");
-MsgDisp("Mikage","｛主人公｝, our role is
-important.");
+MsgDisp("Mikage","｛主人公｝, our role is important.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,4);

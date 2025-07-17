@@ -48,8 +48,7 @@ SEPlay("EV_SE_544");
 ChOpen(6,254,7,0,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020620000_06_050");
-MsgDisp("Himuro","｛主人公｝, I've always
-loved you.");
+MsgDisp("Himuro","｛主人公｝, I've always loved you.");
 MsgDisp("主人公","!");
 ChEye(6,4);
 ChMouth(6,3);
@@ -68,6 +67,5 @@ ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020620000_06_080");
-MsgDisp("Himuro","...So even after you graduate, I want
-you to stay by my side like you always
-have.");
+MsgDisp("Himuro","...So even after you graduate, I want you
+to stay by my side like you always have.");

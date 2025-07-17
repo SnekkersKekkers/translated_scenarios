@@ -53,10 +53,9 @@ ChEye(5,4);
 ChMouth(5,0);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_040");
-MsgDisp("Hiiragi","...I was able to enter the school
-thanks to Habataki City, my father, the
-chairman of the board, and many other
-people");
+MsgDisp("Hiiragi","...I was able to enter the school thanks
+to Habataki City, my father, the chairman
+of the board, and many other people");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

@@ -84,8 +84,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("B330B30500_04_040");
-MsgDisp("Nanatsumori","｛主人公｝, you get it
-right?");
+MsgDisp("Nanatsumori","｛主人公｝, you get it right?");
 MsgDisp("主人公","(That's just like
 ｛七ツ森＊｝.
 I feel a bit bad for those two though...)");

@@ -23,8 +23,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B360750300_07_020");
-MsgDisp("Mikage","...Hm? Inori-kun too? He doesn't seem
-to like talking about this sort of thing,
+MsgDisp("Mikage","...Hm? Inori-kun too? He doesn't seem to
+like talking about this sort of thing,
 though.");
 MsgDisp("主人公","That might be true.");
 ChEye(7,0);

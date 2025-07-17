@@ -21,8 +21,7 @@ Welcome!");
     ChMotion(4,4,1);
     VoicePlay("I150400000_04_010");
     MsgDisp("Nanatsumori","Wait, your voice is loud...");
-    MsgDisp("主人公","Hm, but, I am working at this store,
-so...");
+    MsgDisp("主人公","Hm, but, I am working at this store, so...");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);
@@ -35,8 +34,9 @@ I see, sorry.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I150400000_04_030");
-    MsgDisp("Nanatsumori","Nah, you don't need to apologize,
-but... Good luck with work. See you.");
+    MsgDisp("Nanatsumori","Nah, you don't need to apologize, but...
+Good luck with work.
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -117,9 +117,9 @@ Thanks.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I150400000_04_100");
-    MsgDisp("Nanatsumori","...Ah, that product over there is
-pretty hot on the market right now. Nice.
-The display's good, too.");
+    MsgDisp("Nanatsumori","...Ah, that product over there is pretty
+hot on the market right now. Nice. The
+display's good, too.");
     MsgDisp("主人公","Really?
 I set that display.
 I'm glad!");

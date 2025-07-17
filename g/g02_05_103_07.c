@@ -55,8 +55,7 @@ ChEyeOpenLevel(5,9);
 ChCheek(5,5);
 VoicePlay("G020510307_05_070");
 MsgDisp("Hiiragi","T-Thank you.
-I hope you'll see it on stage next
-time...");
+I hope you'll see it on stage next time...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

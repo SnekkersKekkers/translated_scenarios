@@ -17,8 +17,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220300_02_020");
 MsgDisp("Sassa","Yeah, a girl firefly.");
-MsgDisp("主人公","Mm...in that case, then I guess one
-that's slow and floaty?");
+MsgDisp("主人公","Mm...in that case, then I guess one that's
+slow and floaty?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

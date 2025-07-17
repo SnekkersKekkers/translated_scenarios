@@ -23,8 +23,7 @@ It was a nice fight.");
     ChMotion(1,0);
     VoiceEVSPlay(1);
     VoicePlay("O020100001_01_010");
-    MsgDisp("Kazama","｛主人公｝, did you get
-hurt?");
+    MsgDisp("Kazama","｛主人公｝, did you get hurt?");
     MsgDisp("主人公","I'm fine, but we lost...");
     ChEye(1,4);
     ChMouth(1,3);

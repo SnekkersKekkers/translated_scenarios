@@ -6,8 +6,8 @@ ChOpen(7,37,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("D100710000_07_000");
-MsgDisp("Mikage","｛主人公｝, what's next
-period's class?");
+MsgDisp("Mikage","｛主人公｝, what's next period's
+class?");
 MsgDisp("主人公","Eh?
 Isn't it Biology?");
 ChEye(7,5);
@@ -46,7 +46,7 @@ BGMStop();
 ChClose(7);
 MsgDisp("主人公","(Lately I've been chatting with
 ｛御影＊＊｝ a lot
-but...Does that really make me look
-like a wife...)");
+but...Does that really make me look like a
+wife...)");
 MsgClose();
 ScrFadeOut(0,0);

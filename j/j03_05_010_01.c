@@ -5,13 +5,12 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Oh, it's a call from
-｛柊＊＊＊｝.)");
+｛柊＊＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
     MsgDisp("主人公","Hello.
-It's
-｛主人公苗字｝.");
+It's ｛主人公苗字｝.");
     VoicePlay("J030501001_05_000");
     MsgDisp("Hiiragi","It's Hiiragi.
 I heard your message.
@@ -28,7 +27,7 @@ Now, if you'll excuse me.");
     case 3:
     SEPlay("EV_SE_577");
     MsgDisp("主人公","(Oh, it's a call from
-｛柊＊＊＊｝.)");
+｛柊＊＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -56,7 +55,7 @@ Well, I'll see you around?");
     case 4:
     case 5:
     MsgDisp("主人公","(Oh, it's a call from
-｛柊＊＊＊｝.)");
+｛柊＊＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -74,8 +73,7 @@ I'm afraid I can't even coordinate.");
     MsgDisp("主人公","I'm sorry I pushed you.");
     VoicePlay("J030501001_05_080");
     MsgDisp("Hiiragi","It's your invitation. I want to take it
-easy. But I'm sorry. I'll see you
-later...");
+easy. But I'm sorry. I'll see you later...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Well, that's a real shame!)");

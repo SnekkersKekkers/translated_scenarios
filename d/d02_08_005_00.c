@@ -48,8 +48,8 @@ VoicePlay("D020800500_08_050");
 MsgDisp("Shirahane","Right! Want to aim for a first-rate
 university together? I think we can do
 it～!");
-MsgDisp("主人公","(My career plans huh...University, hmm.
-I think ｛大地＊＊｝ could
+MsgDisp("主人公","(My career plans huh...University, hmm. I
+think ｛大地＊＊｝ could
 definitely get into a first-rate
 university!)");
 BGMStop();

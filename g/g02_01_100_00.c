@@ -10,8 +10,8 @@ Wait(16,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("G020110000_01_010");
-MsgDisp("Kazama","...Actually, I dream about you a lot,
-have for a while now.");
+MsgDisp("Kazama","...Actually, I dream about you a lot, have
+for a while now.");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,0);
@@ -59,8 +59,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110000_01_070");
-MsgDisp("Kazama","...But for some reason, we're both
-still tiny primary schoolers.");
+MsgDisp("Kazama","...But for some reason, we're both still
+tiny primary schoolers.");
 MsgDisp("主人公","Hahah.");
 MsgDisp("主人公","(So ｛風真＊＊｝ dreams about
 me...)");

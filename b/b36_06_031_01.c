@@ -71,8 +71,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360603101_06_090");
 MsgDisp("Himuro","You were there. And all things considered,
-it wasn't so bad. ...But it was so
-noisy.");
+it wasn't so bad. ...But it was so noisy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

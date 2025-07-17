@@ -168,8 +168,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_170");
-MsgDisp("Kuya","Ah...Is it okay to say that? But you
-know, I'm hopeful. Haha!");
+MsgDisp("Kuya","Ah...Is it okay to say that? But you know,
+I'm hopeful. Haha!");
 MsgDisp("主人公","(Hehe!
 Kuya-san seems to be \"studying\" hard!
 I need to work hard too!)");

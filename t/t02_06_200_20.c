@@ -38,8 +38,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 MsgDisp("Himuro","But if I don't tell them about this in
-detail they'll just come and tease
-me... that would be be a real nuisance.");
+detail they'll just come and tease me...
+that would be be a real nuisance.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("T020620000_06_150");
 ChEye(6,4);

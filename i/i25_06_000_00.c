@@ -111,8 +111,8 @@ Looking good.");
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("I250600000_06_120");
-    MsgDisp("Himuro","...By the way, how far are you planning
-to carry all those books?");
+    MsgDisp("Himuro","...By the way, how far are you planning to
+carry all those books?");
     MsgDisp("主人公","Ah, um, to the comic section.");
     ChEye(6,0);
     ChMouth(6,0);

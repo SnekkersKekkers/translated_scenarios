@@ -2,8 +2,7 @@ BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Huh?
-Over there... is that who I think it
-is?)");
+Over there... is that who I think it is?)");
 BGMPlay("BGM_C09_KUYA_A",0.01);
 MsgClose();
 ChOpen(9,254,0,0,0,#1,#1,0,0);
@@ -69,9 +68,9 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900900_09_070");
-MsgDisp("Kuya","...Haha. You're really an interesting
-kid, you know? Everytime we meet, I'm
-dazzled by your energy.");
+MsgDisp("Kuya","...Haha. You're really an interesting kid,
+you know? Everytime we meet, I'm dazzled
+by your energy.");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,2,1);
@@ -189,10 +188,10 @@ this, I just want to say ...Thank you.");
     ChMotion(9,2,1);
     ChEyeOpenLevel(9,0);
     VoicePlay("D030900900_09_210");
-    MsgDisp("Kuya","Haha...I guess the being the \"Jack of
-All Trades\" will stop for a while. Maybe
-we'll become the \"Jack of Studying\"
-together instead?");
+    MsgDisp("Kuya","Haha...I guess the being the \"Jack of All
+Trades\" will stop for a while. Maybe we'll
+become the \"Jack of Studying\" together
+instead?");
     MsgDisp("主人公","(This is a surprise but...I want to
 support Kuya-san in his goals! I need to
 prioritize my \"studies\" over interviews.)");

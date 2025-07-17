@@ -12,8 +12,7 @@ I have something on that day...");
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(I asked him to go out at a bad
-timing...)");
+    MsgDisp("主人公","(I asked him to go out at a bad timing...)");
     break ;
     case 3:
     VoicePlay("J030100001_01_020");

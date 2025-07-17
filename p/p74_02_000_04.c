@@ -10,8 +10,7 @@ SEWait();
 ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200004_02_000");
-MsgDisp("Sassa","｛主人公｝,
-congratulations.
+MsgDisp("Sassa","｛主人公｝, congratulations.
 It was a huge success, huh!");
 MsgDisp("主人公","｛颯砂＊＊｝, thank you!");
 ChEye(2,0);

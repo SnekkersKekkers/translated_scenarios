@@ -79,9 +79,9 @@ ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
-MsgDisp("主人公","Ah...Come to think of it. Kuya-san,
-you're in senior year so it's almost time
-for entrance exams."); 
+MsgDisp("主人公","Ah...Come to think of it. Kuya-san, you're
+in senior year so it's almost time for
+entrance exams."); 
 MsgDisp("主人公","Have you decided on a career path?");
 ChEye(9,0);
 ChMouth(9,4);

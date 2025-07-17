@@ -57,9 +57,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610300_06_080");
-MsgDisp("Himuro","...Still, if my feelings were too much
-and I ended up making things harder for
-you or even hurting you...");
+MsgDisp("Himuro","...Still, if my feelings were too much and
+I ended up making things harder for you or
+even hurting you...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

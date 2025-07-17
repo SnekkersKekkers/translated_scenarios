@@ -18,8 +18,8 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D010200700_02_010");
-MsgDisp("Sassa","...But you know, I guess it would be
-bad if I couldn't move anymore——");
+MsgDisp("Sassa","...But you know, I guess it would be bad
+if I couldn't move anymore——");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(2,0,30);
 ChLayout(0);
@@ -131,8 +131,8 @@ StlMouth(2,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("D010200700_02_070");
-MsgDisp("Sassa","｛主人公｝, you've always
-been at my side, lending me your strength.
+MsgDisp("Sassa","｛主人公｝, you've always been at
+my side, lending me your strength.
 Thank you.");
 StlEye(2,0);
 StlMouth(2,0);
@@ -151,9 +151,9 @@ StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200700_02_100");
 MsgDisp("Sassa","Is that a bad thing to say?");
-MsgDisp("主人公","Ah...Gold medals are kind of heavy,
-aren't they? ｛颯砂＊＊｝, thank
-you. You worked hard these past 3 years.");
+MsgDisp("主人公","Ah...Gold medals are kind of heavy, aren't
+they? ｛颯砂＊＊｝, thank you. You
+worked hard these past 3 years.");
 SEPlay("EV_SE_CLAP_005",0.5);
 Wait(30,0);
 VoicePlay("D010200700_44_010");

@@ -10,8 +10,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("fp200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Huh? I wonder how I ended up at
-\"The Home of the Fireflies\".)");
+MsgDisp("主人公","(...Huh? I wonder how I ended up at \"The
+Home of the Fireflies\".)");
 MsgDisp("主人公","(It's almost like something was calling me
 here...?)");
 VoicePlay("D200000200_31_000");
@@ -96,7 +96,7 @@ BGMStop();
 ChClose(31);
 MsgDisp("主人公","(He's gone...)");
 MsgDisp("主人公","(It's didn't know the fireflies had such a
-power. But hmm, jealousy... Right.
-Maybe I can write a story about this too?)");
+power. But hmm, jealousy... Right. Maybe I
+can write a story about this too?)");
 MsgClose();
 ScrFadeOut(0,0);

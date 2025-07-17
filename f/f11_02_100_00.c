@@ -5,8 +5,7 @@ ChOpen(2,254,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("F110210000_02_000");
-MsgDisp("Sassa","｛主人公｝, are you having
-fun?");
+MsgDisp("Sassa","｛主人公｝, are you having fun?");
 MsgDisp("主人公","Yep!
 What about you, ｛颯砂＊＊｝?");
 ChEye(2,0);
@@ -48,8 +47,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoiceEVSPlay(2);
 VoicePlay("F110210000_02_050");
-MsgDisp("Sassa","｛主人公｝, I'll go talk
-to them over there.
+MsgDisp("Sassa","｛主人公｝, I'll go talk to them
+over there.
 Afterwards, should we go try the food?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

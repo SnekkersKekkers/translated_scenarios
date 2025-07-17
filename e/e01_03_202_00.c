@@ -17,8 +17,8 @@ ChOpen(3,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(6);
 VoicePlay("E010320200_06_010");
-MsgDisp("Himuro","｛主人公｝, eavesdropping
-is impolite.");
+MsgDisp("Himuro","｛主人公｝, eavesdropping is
+impolite.");
 MsgDisp("主人公","I just happened to be passing by.");
 ChEye(3,0);
 ChMouth(3,3);

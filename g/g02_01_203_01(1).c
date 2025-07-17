@@ -64,9 +64,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020120301_01_080");
-MsgDisp("Kazama","...But, it's completely different for
-you. Everyone likes you unconditionally.
-Your family background is irrelevant.");
+MsgDisp("Kazama","...But, it's completely different for you.
+Everyone likes you unconditionally. Your
+family background is irrelevant.");
 MsgDisp("主人公","That's not true...
 But, thank you.");
 ChEye(1,2);

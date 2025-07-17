@@ -63,9 +63,9 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100300_01_050");
 MsgDisp("Kazama","So you ARE following me.");
-MsgDisp("主人公","Geez. ｛風真＊＊｝, are you
-okay? That seemed like a serious phone
-call...?");
+MsgDisp("主人公","Geez.
+｛風真＊＊｝, are you okay?
+That seemed like a serious phone call...?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

@@ -90,8 +90,8 @@ tease me with this, though.");
     MsgDisp("Mikage","Like adding salt to a watermelon to make
 it sweeter?
 Or maybe you're just having fun with me.");
-    MsgDisp("主人公","(Salt? Having fun? ...Ah! Could it be
-that I added something he doesn't like?)");
+    MsgDisp("主人公","(Salt? Having fun? ...Ah! Could it be that
+I added something he doesn't like?)");
     MsgClose();
     BGMStop();
     MsgClose();

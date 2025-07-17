@@ -124,8 +124,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChCheek(9,7);
 VoicePlay("D030901100_09_120");
-MsgDisp("Kuya","...But can I give you a call when I
-start to get lonely?");
+MsgDisp("Kuya","...But can I give you a call when I start
+to get lonely?");
 MsgDisp("主人公","Eh?
 Of course.
 I'll be waiting.");
@@ -138,8 +138,8 @@ MsgDisp("Kuya","Thank you.
 Let's continue to support each other from
 now on.");
 MsgDisp("主人公","(I will also take entrance exams in
-April...Kuya-san is also working hard,
-so let's do our best!)");
+April...Kuya-san is also working hard, so
+let's do our best!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -99,7 +99,7 @@ If you're happy, then that's good enough
 for me.");
 MsgDisp("主人公","(｛風真＊＊｝ really understands
 ｛本多＊＊｝ and
-｛七ツ森＊｝...)");
+｛七ツ森＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

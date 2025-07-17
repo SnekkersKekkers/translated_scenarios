@@ -10,8 +10,7 @@ SEWait();
 ChOpen(2,254,4,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200003_02_000");
-MsgDisp("Sassa","｛主人公｝, are you
-alright?
+MsgDisp("Sassa","｛主人公｝, are you alright?
 Are you injured?");
 MsgDisp("主人公","Yes, I'm fine.
 But, I failed...");

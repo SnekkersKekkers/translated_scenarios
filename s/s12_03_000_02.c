@@ -35,8 +35,7 @@ Cya later then!");
     MsgClose();
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(I hope this year is another good
-year...)");
+    MsgDisp("主人公","(I hope this year is another good year...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

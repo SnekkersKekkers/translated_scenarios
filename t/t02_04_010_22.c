@@ -51,8 +51,7 @@ Wait(60,0);
 SEPlay("EV_SE_695");
 Wait(120,0);
 VoicePlay("T020401000_04_310");
-MsgDisp("Nanatsumori","I like you more ...so, do you
-understand?");
+MsgDisp("Nanatsumori","I like you more ...so, do you understand?");
 Wait(120,0);
 MsgClose();
 ScrFadeOut(0,1,120);

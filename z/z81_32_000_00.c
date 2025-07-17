@@ -18,8 +18,8 @@ I'm sorry!");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200000_32_010");
-MsgDisp("VP Himuro","... It'll be too late for apologies if
-you get hurt.
+MsgDisp("VP Himuro","... It'll be too late for apologies if you
+get hurt.
 Take care from this point on.");
 MsgDisp("主人公","Yes, sir.");
 MsgDisp("主人公","(...Ah. There's dust on Himuro-sensei's
@@ -35,8 +35,7 @@ ChEye(32,2);
 ChMouth(32,1);
 VoicePlay("Z813200000_32_020");
 MsgDisp("VP Himuro","W-What are youー");
-MsgDisp("主人公","Um, there was dust on your necktie,
-so...");
+MsgDisp("主人公","Um, there was dust on your necktie, so...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200000_32_030");

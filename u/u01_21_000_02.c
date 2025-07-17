@@ -38,8 +38,8 @@ See you there in a bit!");
         break ;
         case 1:
         VoicePlay("U012100002_21_030");
-        MsgDisp("Michiru","I see... That's unfortunate but I guess
-it can't be helped... Well, later then.");
+        MsgDisp("Michiru","I see... That's unfortunate but I guess it
+can't be helped... Well, later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though she took the time to invite

@@ -44,8 +44,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710200_07_060");
-MsgDisp("Mikage","Oh damn... Hey, let's, um, maybe it's
-time to head back. Come on, I'll walk you.");
+MsgDisp("Mikage","Oh damn... Hey, let's, um, maybe it's time
+to head back. Come on, I'll walk you.");
 MsgDisp("主人公","Ah, okay.");
 MsgDisp("主人公","(Why is ｛御影＊＊｝
 suddenly in a rush?)");

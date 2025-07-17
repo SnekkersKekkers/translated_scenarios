@@ -49,8 +49,8 @@ I, I wouldn't do something like that.");
     MsgDisp("Nanatsumori","I was joking.
 I don't mind you being powerful.
 It was cool, you know?");
-    MsgDisp("主人公","(Geez... but, I'm really glad I stayed
-in the judo club!
+    MsgDisp("主人公","(Geez... but, I'm really glad I stayed in
+the judo club!
 Today's the best day ever!)");
     BGMStop();
     break ;

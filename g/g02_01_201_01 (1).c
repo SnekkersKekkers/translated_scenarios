@@ -62,8 +62,7 @@ ChMouth(1,4);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120101_01_080");
-MsgDisp("Kazama","Even if your feelings end up
-changing...");
+MsgDisp("Kazama","Even if your feelings end up changing...");
 MsgDisp("主人公","(｛風真＊＊｝ seems a bit hurt...?)");
 BGMStop();
 MsgClose();

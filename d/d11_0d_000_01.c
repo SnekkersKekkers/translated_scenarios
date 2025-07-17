@@ -80,8 +80,8 @@ MsgDisp("Hikaru","If you're concerned about the state of the
 flower bed, call Hikaru♪ Hikaru can tell
 you about \"Mari's Garden\"▼");
 MsgDisp("主人公","(A flower bed of 3 differently colored
-roses is inside me...? If I want to
-know more I can call
+roses is inside me...? If I want to know
+more I can call
 ｛ひかる＊｝! )");
 BGMStop();
 MsgClose();

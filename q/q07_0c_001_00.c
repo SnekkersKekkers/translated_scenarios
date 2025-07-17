@@ -42,8 +42,8 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_020");
 MsgDisp("Hiiragi","Um...
-Yes, it's from Inori. 
-\"Show me all the places\"?");
+Yes, it's from Inori. \"
+Show me all the places\"?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

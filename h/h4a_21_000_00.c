@@ -25,8 +25,7 @@ switch (ChPrmGet(21,6)){
 Hehe, today's victory party is going to be
 complicated.");
     MsgDisp("主人公","(Ah... I see. But I'm glad I worked so
-hard at the rhythmic gymnastics
-club...!)");
+hard at the rhythmic gymnastics club...!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

@@ -2,9 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to head home.)");
-MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is
-over there, huh. Let's have a chat then
-head home.)");
+MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over
+there, huh. Let's have a chat then head
+home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -34,8 +34,8 @@ ChMotion(1,0);
 VoicePlay("G110100500_01_010");
 MsgDisp("Kazama","And then after that?");
 MsgDisp("主人公","Nothing in particular.
-Some of my seniors took them home, ...
-or recycled them.");
+Some of my seniors took them home, ... or
+recycled them.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,2);

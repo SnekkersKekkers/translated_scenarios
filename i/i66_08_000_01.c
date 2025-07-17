@@ -9,8 +9,8 @@ switch (ChPrmGet(8,6)){
     MsgDisp("主人公","Would you like your windows to be wiped
 down?
 Then, please allow me.");
-    MsgDisp("主人公","Ah... is there anything you don't need
-in your car? If you'd like, I can throw it
+    MsgDisp("主人公","Ah... is there anything you don't need in
+your car? If you'd like, I can throw it
 away for you.");
     VoicePlay("I660800001_39_000");
     MsgDisp("Male Customer","Then, could you throw this away?
@@ -39,8 +39,8 @@ I'm gettin' fired up!");
     MsgDisp("主人公","Would you like your windows to be wiped
 down?
 Then, please allow me.");
-    MsgDisp("主人公","Ah... is there anything you don't need
-in your car? If you'd like, I can throw it
+    MsgDisp("主人公","Ah... is there anything you don't need in
+your car? If you'd like, I can throw it
 away for you.");
     VoicePlay("I660800001_39_010");
     MsgDisp("Male Customer","Nothing today.

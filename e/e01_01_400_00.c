@@ -117,6 +117,6 @@ BGMStop();
 ChClose(1);
 MsgDisp("主人公","(｛風真＊＊｝... He is definitely gonna be
 pressured into doing it by
-｛みちる＊｝...)");
+｛みちる＊｝... )");
 MsgClose();
 ScrFadeOut(0,0);

@@ -92,8 +92,7 @@ I'll tell him what I'm thinking, and see
 if he still lets me does it.");
 MsgDisp("主人公","I hope he understands.");
 MsgDisp("主人公","(I hope we get to see
-｛風真＊＊｝ hosting
-again...)");
+｛風真＊＊｝ hosting again...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -51,8 +51,8 @@ MsgDisp("主人公","Ah...
 Okay, good night...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(Hmm...I wanted to invite Kuya-san to
-the school festival but it would interfere
+MsgDisp("主人公","(Hmm...I wanted to invite Kuya-san to the
+school festival but it would interfere
 with his studies...)");
 MsgClose();
 ScrFadeOut(0,0);

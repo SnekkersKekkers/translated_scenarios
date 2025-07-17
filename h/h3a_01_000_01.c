@@ -12,8 +12,8 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(1);
     VoicePlay("H3A0100001_01_000");
-    MsgDisp("Kazama","｛主人公｝, I thought it
-was a good match.");
+    MsgDisp("Kazama","｛主人公｝, I thought it was a
+good match.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝...
 But I lost...");
     ChEye(1,0);

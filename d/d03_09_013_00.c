@@ -56,8 +56,7 @@ By the way, what's so important?");
     VoicePlay("D030901300_09_060");
     MsgDisp("Kuya","I wanted to hear your voice again.");
     VoicePlay("D030901300_08_010");
-    MsgDisp("Daichi?","Bro, ya got yourself a girlfriend
-huh...");
+    MsgDisp("Daichi?","Bro, ya got yourself a girlfriend huh...");
     VoicePlay("D030901300_09_070");
     MsgDisp("Kuya","......");
     VoicePlay("D030901300_09_080");

@@ -58,8 +58,8 @@ ChEye(1,4);
 ChMouth(1,3);
 VoiceEVSPlay(1);
 VoicePlay("G020140001_01_070");
-MsgDisp("Kazama","｛主人公｝, I entrust you
-with the wonderful memories part.");
+MsgDisp("Kazama","｛主人公｝, I entrust you with the
+wonderful memories part.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -69,7 +69,7 @@ MsgDisp("Kazama","Well, I guess ridiculous ones are okay
 too?
 As long as they're with you.");
 MsgDisp("主人公","(I hope I can make lots of memories with
-｛風真＊＊｝...)");
+｛風真＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

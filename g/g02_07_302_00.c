@@ -38,8 +38,7 @@ ChMotion(7,3);
 VoicePlay("G020730200_07_040");
 MsgDisp("Mikage","Thanks. To Vice Principal Himuro, I
 probably just look like I'm enjoying
-school life～ ...well, that is the
-truth.");
+school life～ ...well, that is the truth.");
 ChEye(7,1);
 ChMouth(7,4);
 ChMotion(7,4);

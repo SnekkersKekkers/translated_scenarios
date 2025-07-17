@@ -79,8 +79,8 @@ ChMotion(9,2,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901400_09_060");
 MsgDisp("Kuya","Haha, isn't this nostalgic? On our first
-date...No, didn't we eat this during
-the interview?");
+date...No, didn't we eat this during the
+interview?");
 MsgDisp("主人公","Yeah...");
 ChEye(9,3);
 ChMouth(9,4);

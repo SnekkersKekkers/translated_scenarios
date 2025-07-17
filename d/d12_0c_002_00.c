@@ -34,8 +34,7 @@ VoicePlay("D120C00200_06_010");
 MsgDisp("Himuro","I know what you're trying to say, but it's
 not a good slogan.");
 MsgDisp("主人公","(｛氷室＊＊｝ is so blunt with his
-opinions, it makes me kind of
-nervous...)");
+opinions, it makes me kind of nervous...)");
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_020");
 MsgDisp("Himuro","It would be better to try to convey the
@@ -75,8 +74,7 @@ ScrFadeIn(0);
 SEStop("EV_SE_SCHOOL_002",3);
 VoiceEVSPlay(5);
 VoicePlay("D120C00200_05_030");
-MsgDisp("Hiiragi","｛主人公｝, that's the
-bell.
+MsgDisp("Hiiragi","｛主人公｝, that's the bell.
 It's time to go back to class.");
 MsgDisp("主人公","Yeah. I have a few more things to do, so
 why don't you go ahead? I'll lock the door

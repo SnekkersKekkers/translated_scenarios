@@ -58,8 +58,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("Q070A00100_01_040");
-MsgDisp("Kazama","...It's orange like under the
-sunset...");
+MsgDisp("Kazama","...It's orange like under the sunset...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -187,7 +186,7 @@ VoicePlay("Q070A00100_01_130");
 MsgDisp("Kazama","... Just one is fine.");
 MsgDisp("主人公","(Huis ten Bosch was so much fun...
 Now onto something else.
-I should answer ｛氷室＊＊｝.)");
+I should answer ｛氷室＊＊｝. )");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

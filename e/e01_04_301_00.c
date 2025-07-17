@@ -20,8 +20,7 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoiceEVSPlay(4);
 VoicePlay("E010430100_04_010");
-MsgDisp("Nanatsumori","｛主人公｝, thank
-goodness...");
+MsgDisp("Nanatsumori","｛主人公｝, thank goodness...");
 ChSet(3,3,1);
 VoicePlay("E010430100_03_010");
 MsgDisp("Honda","Oh yeah!
@@ -67,8 +66,8 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("E010430100_04_050");
-MsgDisp("Nanatsumori","Sorry, ｛主人公｝ I'm
-leaving the rest to you!");
+MsgDisp("Nanatsumori","Sorry, ｛主人公｝ I'm leaving the
+rest to you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);

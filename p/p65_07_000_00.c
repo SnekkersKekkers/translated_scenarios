@@ -5,10 +5,10 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("P650700000_07_000");
-MsgDisp("Mikage","｛主人公｝, you really did
-your best. You put your efforts into
-growing plants, came up with how to serve
-tea. Even the staffroom had high praise.");
+MsgDisp("Mikage","｛主人公｝, you really did your
+best. You put your efforts into growing
+plants, came up with how to serve tea.
+Even the staffroom had high praise.");
 MsgDisp("主人公","Genuinely?");
 ChEye(7,0);
 ChMouth(7,3);

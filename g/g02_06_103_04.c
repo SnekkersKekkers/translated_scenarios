@@ -22,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610304_06_030");
-MsgDisp("Himuro","...I'm still worrying if that was
-really the right choice.");
+MsgDisp("Himuro","...I'm still worrying if that was really
+the right choice.");
 MsgDisp("主人公","That?");
 ChEye(6,0);
 ChMouth(6,0);

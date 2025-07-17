@@ -96,8 +96,8 @@ than everyone else.");
     ChMotion(5,0);
     VoicePlay("Q020500000_05_090");
     MsgDisp("Hiiragi","While I'm riding this high, I'd like to
-ask you something. Would you like to join me for
-today's free period?");
+ask you something. Would you like to join
+me for today's free period?");
     MsgSel("Yes, let's go!","Sorry, I...");
     switch (MsgSelRsltGet()){
         case 0:

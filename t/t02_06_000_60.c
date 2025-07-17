@@ -50,8 +50,7 @@ VoicePlay("T020600000_06_590");
 ChEye(6,2);
 ChMouth(6,3);
 ChMotion(6,2);
-MsgDisp("Himuro","...No, there is no way I could forget
-it.");
+MsgDisp("Himuro","...No, there is no way I could forget it.");
 VoicePlay("T020600000_06_600");
 ChEye(6,2);
 ChMouth(6,1);

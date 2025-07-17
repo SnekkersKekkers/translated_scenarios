@@ -64,9 +64,9 @@ It makes me almost lose my rationality.");
     VoicePlay("H4A0400000_04_070");
     MsgDisp("Nanatsumori","Ugh...!
 If you look at me like that, I'll...");
-    MsgDisp("主人公","(｛七ツ森＊｝... I'm glad I stayed in
-the rhythmic gymnastics club... Today's
-the best day ever!)");
+    MsgDisp("主人公","(｛七ツ森＊｝... I'm glad I stayed in the
+rhythmic gymnastics club... Today's the
+best day ever!)");
     break ;
     default :
     DbgAssert(1);

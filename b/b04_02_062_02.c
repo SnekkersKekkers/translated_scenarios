@@ -70,9 +70,9 @@ And you would cook.");
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040206202_02_070");
-        MsgDisp("Sassa","Having your home-cooked meals
-everyday...Yeah, survival like that
-wouldn't be half bad.");
+        MsgDisp("Sassa","Having your home-cooked meals everyday...
+Yeah, survival like that wouldn't be half
+bad.");
         MsgDisp("主人公","｛颯砂＊＊｝?
 What's wrong?");
         ChEye(2,0);

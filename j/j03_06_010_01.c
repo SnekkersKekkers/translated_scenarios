@@ -9,8 +9,7 @@ switch (ChPrmGet(6,6)){
     SEStop("EV_SE_577",0);
     SEWait();
     MsgDisp("主人公","Hello.
-It's
-｛主人公苗字｝.");
+It's ｛主人公苗字｝.");
     VoicePlay("J030601001_06_000");
     MsgDisp("Himuro","Hey.
 You called me, right?");

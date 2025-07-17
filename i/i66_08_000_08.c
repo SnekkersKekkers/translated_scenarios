@@ -106,8 +106,7 @@ My heart's poundin'-");
     VoicePlay("I660800008_40_010");
     MsgDisp("Manager","You two over there, save that for after
 work!");
-    MsgDisp("主人公","...Looks like the manager got mad at
-us?");
+    MsgDisp("主人公","...Looks like the manager got mad at us?");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,4,1);
@@ -133,8 +132,8 @@ So, don't worry 'bout it.");
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("I660800008_08_130");
-    MsgDisp("Shirahane","... But I don't really wanna take over
-the store, do you?
+    MsgDisp("Shirahane","... But I don't really wanna take over the
+store, do you?
 Right?");
     MsgDisp("主人公","(Hehe!
 I've been working here a while, and it

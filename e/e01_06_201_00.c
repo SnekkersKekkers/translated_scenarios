@@ -76,8 +76,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010620100_02_050");
-MsgDisp("Sassa","...Ah sorry. I should go soon. I had
-fun thanks to you. See you!");
+MsgDisp("Sassa","...Ah sorry. I should go soon. I had fun
+thanks to you. See you!");
 MsgDisp("主人公","Okay, take care!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

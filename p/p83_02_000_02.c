@@ -28,9 +28,8 @@ Management will talk to them.");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200002_02_000");
-    MsgDisp("Sassa","｛主人公｝, it must be
-difficult to be in the student council,
-huh?");
+    MsgDisp("Sassa","｛主人公｝, it must be difficult
+to be in the student council, huh?");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 That is also an important part of
 management work, so it's alright.");

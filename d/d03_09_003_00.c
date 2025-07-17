@@ -99,8 +99,8 @@ VoicePlay("D030900300_09_100");
 MsgDisp("Kuya","I am Kuya Shirahane.
 A second year student at Hanegasaki
 Academy.");
-MsgDisp("主人公","I'm ｛主人公姓名｝. A first
-year student at Habataki High School.
+MsgDisp("主人公","I'm ｛主人公姓名｝. A first year
+student at Habataki High School.
 Uhm...Shirahane-san?");
 ChEye(9,0);
 ChMouth(9,0);
@@ -108,8 +108,8 @@ ChMotion(9,4,1);
 VoicePlay("D030900300_09_110");
 MsgDisp("Kuya","Just Kuya is fine.
 That's what everyone calls me.");
-MsgDisp("主人公","Then...Kuya-san. I want to thank you
-again for helping me. I'm really grateful!");
+MsgDisp("主人公","Then...Kuya-san. I want to thank you again
+for helping me. I'm really grateful!");
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_120");
 MsgDisp("Kuya","You're welcome.
@@ -134,8 +134,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900300_09_150");
-MsgDisp("Kuya","But...I guess today I have a situation
-of my own to deal with? It's a strange
+MsgDisp("Kuya","But...I guess today I have a situation of
+my own to deal with? It's a strange
 feeling.");
 MsgDisp("主人公","Hehe.");
 ChEye(9,3);

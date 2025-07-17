@@ -31,8 +31,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("Q070701000_21_010");
-MsgDisp("Michiru","...? It's kind of noisy in the men's
-bath.");
+MsgDisp("Michiru","...? It's kind of noisy in the men's bath.");
 MsgDisp("主人公","Yes...
 I wonder what's going on.");
 ChEye(22,3);

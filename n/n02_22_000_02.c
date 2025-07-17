@@ -3,7 +3,8 @@ ChOpen(22,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("N022200002_22_000");
-MsgDisp("Hikaru","Yoohoo～Mari♪");
+MsgDisp("Hikaru","Yoohoo～
+Mari♪");
 MsgDisp("主人公","Ah, ｛ひかる＊｝.");
 ChEye(22,3);
 ChMouth(22,3);

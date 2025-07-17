@@ -91,8 +91,8 @@ worries for a bit.)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I650500000_05_080");
-    MsgDisp("Hiiragi","｛主人公｝, you're working
-hard again today.");
+    MsgDisp("Hiiragi","｛主人公｝, you're working hard
+again today.");
     MsgDisp("主人公","Oh, ｛柊＊＊＊｝, did you walk
 here?");
     ChEye(5,3);

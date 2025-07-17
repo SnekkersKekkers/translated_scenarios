@@ -25,8 +25,7 @@ Valentine's chocolate.");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("L040200000_02_010");
-    MsgDisp("Sassa","｛主人公｝, I've been
-waiting!");
+    MsgDisp("Sassa","｛主人公｝, I've been waiting!");
     MsgDisp("主人公","Yes, here.
 Valentine's chocolate.");
     SEPlay("EV_SE_665");

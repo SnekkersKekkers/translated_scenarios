@@ -37,9 +37,9 @@ Well, I'll see you later?");
     MsgDisp("主人公","It's fine!
 I'll ask you out again.");
     VoicePlay("J030500001_05_070");
-    MsgDisp("Hiiragi","Yes, next time I'll be sure to say ...
-I prefer not to make promises I can't
-keep. Well then.");
+    MsgDisp("Hiiragi","Yes, next time I'll be sure to say ... I
+prefer not to make promises I can't keep.
+Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Ugh... too bad!)");

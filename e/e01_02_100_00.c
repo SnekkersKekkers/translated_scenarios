@@ -9,8 +9,7 @@ BGMPlay("BGM_C02_SASSA_A",0.01);
 ChOpen(2,255,4,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("E010210000_02_000");
-MsgDisp("Sassa","｛主人公｝, doing some
-shopping?");
+MsgDisp("Sassa","｛主人公｝, doing some shopping?");
 MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 Yeah, I was about to go home.");
 ChEye(2,0);
@@ -59,9 +58,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010210000_02_070");
-MsgDisp("Sassa","Hmmmh... You don't need it, do you?
-Then, I'll give it to my mother as a gift.
-You hurry home too!");
+MsgDisp("Sassa","Hmmmh... You don't need it, do you? Then,
+I'll give it to my mother as a gift. You
+hurry home too!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

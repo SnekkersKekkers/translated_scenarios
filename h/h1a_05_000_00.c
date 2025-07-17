@@ -14,8 +14,7 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,3);
     VoiceEVSPlay(5);
     VoicePlay("H1A0500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝,
-congratulations.");
+    MsgDisp("Hiiragi","｛主人公｝, congratulations.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, we did it!
 We won.");
     ChEye(5,3);

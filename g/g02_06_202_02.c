@@ -33,8 +33,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620202_06_040");
 MsgDisp("Himuro","It can't be helped that you're drawn to
-him. That's...why you let him be by
-your side, huh?");
+him. That's...why you let him be by your
+side, huh?");
 MsgDisp("主人公","Eh?");
 ChEye(6,2);
 ChMouth(6,0);

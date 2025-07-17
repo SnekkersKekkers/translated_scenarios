@@ -10,9 +10,8 @@ ChMotion(4,1);
 ChEyeOpenLevel(4,9);
 ScrFadeIn(0);
 VoicePlay("B040403302_04_000");
-MsgDisp("Nanatsumori","Hmmー... as I get used to looking at
-them, these guys start to seem kinda
-cute...");
+MsgDisp("Nanatsumori","Hmmー... as I get used to looking at them,
+these guys start to seem kinda cute...");
 ChEyeOpenLevel(4,#1);
 MsgSel("Yeah, they're creepy cute▼","Hmmm....","They're not cute at all");
 switch (MsgSelRsltGet()){

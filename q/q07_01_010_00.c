@@ -4,10 +4,10 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message.
-It's from ｛風真＊＊｝...)");
+It's from ｛風真＊＊｝... )");
 MsgDisp("主人公","(\"After the lights go off, meet me in the
-lobby.\"...Just that? I wonder what he's
-up to...)");
+lobby.\"...Just that? I wonder what he's up
+to...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,30,0,0,0,#1,#1,0,1,0,30);
@@ -175,8 +175,7 @@ StlMouth(1,0);
 VoicePlay("Q070101000_01_070");
 MsgDisp("Kazama","Yeah, we should thank Mikage-sensei.");
 MsgDisp("主人公","Eh?
-Wait, you mean like, for the 12th
-floor...");
+Wait, you mean like, for the 12th floor...");
 StlEye(1,0);
 VoicePlay("Q070101000_01_080");
 MsgDisp("Kazama","Yeah.

@@ -19,7 +19,7 @@ VoicePlay("B050300101_03_000");
 MsgDisp("Honda","Yeppers, where are they?");
 SEStop("EV_SE_855",3);
 MsgDisp("主人公","(Hehe, the kids captured
-｛本多＊＊｝.)");
+｛本多＊＊｝. )");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

@@ -93,9 +93,9 @@ What is it today?");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("I150300000_03_110");
-    MsgDisp("Honda","...Ah, that product! It was in a
-magazine my younger sis was reading. So
-it's already in stock.");
+    MsgDisp("Honda","...Ah, that product! It was in a magazine
+my younger sis was reading. So it's
+already in stock.");
     MsgDisp("主人公","Hehe, thanks!");
     ChEye(3,0);
     ChMouth(3,4);

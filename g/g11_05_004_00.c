@@ -3,14 +3,14 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yay, it's lunch time!
 What shall I do?
-... Ah, it's ｛柊＊＊＊｝.)");
+... Ah, it's ｛柊＊＊＊｝. )");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("G110500400_05_000");
-MsgDisp("Hiiragi","｛主人公｝, are you by
-yourself today?");
+MsgDisp("Hiiragi","｛主人公｝, are you by yourself
+today?");
 MsgDisp("主人公","Yes?
 What about ｛柊＊＊＊｝?");
 ChEye(5,4);
@@ -62,8 +62,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500400_05_040");
-MsgDisp("Hiiragi","You too. ...Or, so I'd like to say. But
-I don't think there's any need to worry.");
+MsgDisp("Hiiragi","You too. ...Or, so I'd like to say. But I
+don't think there's any need to worry.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,1);

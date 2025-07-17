@@ -9,8 +9,7 @@ switch (ChPrmGet(5,6)){
     case 2:
     VoicePlay("J010500000_05_000");
     MsgDisp("Hiiragi","Hiiragi speaking.");
-    MsgDisp("主人公","Ah, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Ah, it's ｛主人公苗字｝.");
     VoicePlay("J010500000_05_010");
     MsgDisp("Hiiragi","Yes.
 Is there anything you need?");
@@ -19,8 +18,7 @@ Is there anything you need?");
     case 3:
     VoicePlay("J010500000_05_020");
     MsgDisp("Hiiragi","Hello, Hiiragi speaking.");
-    MsgDisp("主人公","Ah, hello, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Ah, hello, it's ｛主人公苗字｝.");
     VoicePlay("J010500000_05_010");
     MsgDisp("Hiiragi","Yes.
 Is something the matter?");
@@ -30,8 +28,7 @@ Is something the matter?");
     case 5:
     VoicePlay("J010500000_05_040");
     MsgDisp("Hiiragi","Hello, Hiiragi speaking.");
-    MsgDisp("主人公","Hello, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Hello, it's ｛主人公苗字｝.");
     VoicePlay("J010500000_05_050");
     MsgDisp("Hiiragi","Oh, what a pleasant coincidence.");
     MsgDisp("主人公","Huh?");

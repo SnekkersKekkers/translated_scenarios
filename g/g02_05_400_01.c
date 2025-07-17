@@ -42,8 +42,7 @@ starting to acknowledge me, even if it's
 just a little, I'd be happy.");
 MsgDisp("主人公","Yeah, that must be it.");
 MsgDisp("主人公","(I'm happy that ｛柊＊＊＊｝'s
-best efforts got through to
-everyone...)");
+best efforts got through to everyone...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -32,8 +32,8 @@ VoicePlay("G110300604_03_020");
 MsgDisp("Honda","Did you know I made a few changes to the
 book in this section?");
 MsgDisp("主人公","I'm a staff member here too?");
-MsgDisp("主人公","(...Wait, what? ｛本多＊＊｝,
-did you get a haircut?)");
+MsgDisp("主人公","(...Wait, what? ｛本多＊＊｝, did
+you get a haircut?)");
 while (1){
     RunEverydaySksp(3,1,1,1,0,0);
     if (RunEverydaySkspRsltGet()){

@@ -19,8 +19,8 @@ SEPlay("EV_SE_544");
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("D010700000_07_010");
-MsgDisp("Mikage","｛主人公｝, please come to
-the science lab prep room after lunch～");
+MsgDisp("Mikage","｛主人公｝, please come to the
+science lab prep room after lunch～");
 MsgDisp("主人公","Ah, yes sir.");
 SEStop("EV_SE_SCHOOL_002",1.5);
 MsgClose();

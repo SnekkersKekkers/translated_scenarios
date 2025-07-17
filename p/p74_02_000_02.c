@@ -10,8 +10,7 @@ SEWait();
 ChOpen(2,254,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200002_02_000");
-MsgDisp("Sassa","｛主人公｝,
-congratulations.");
+MsgDisp("Sassa","｛主人公｝, congratulations.");
 MsgDisp("主人公","｛颯砂＊＊｝, were you watching?");
 ChEye(2,0);
 ChMouth(2,4);

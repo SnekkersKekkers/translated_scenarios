@@ -20,8 +20,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("B330B10800_01_000");
-MsgDisp("Kazama","｛主人公｝, are you
-scared?");
+MsgDisp("Kazama","｛主人公｝, are you scared?");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("B330B10800_04_000");

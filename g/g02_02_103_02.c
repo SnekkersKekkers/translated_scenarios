@@ -33,8 +33,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210302_02_040");
-MsgDisp("Sassa","Ah... the Haba High uniforms are kind
-of like matching outfits too.
+MsgDisp("Sassa","Ah... the Haba High uniforms are kind of
+like matching outfits too.
 Now I'm looking forward to school.");
 MsgDisp("主人公","School isn't just a pair, everyone's the
 same, you know?");

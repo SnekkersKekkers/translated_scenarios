@@ -51,7 +51,8 @@ You look excited today.");
     MsgDisp("Mikage","Yeah, thanks to the cheerful greeting, I'm
 fully awake.
 So, what's up?");
-    MsgDisp("主人公","Do you want to hang out together during today's free period?");
+    MsgDisp("主人公","Do you want to hang out together during
+today's free period?");
     break ;
     default :
     DbgAssert(1);

@@ -85,15 +85,17 @@ Let's go together.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("Q020200000_02_070");
-        MsgDisp("Sassa","Awesome! Did it sound natural when I asked you? I was practicing that in my head.");
+        MsgDisp("Sassa","Awesome!
+Did it sound natural when I asked you?
+I was practicing that in my head.");
         MsgDisp("主人公","Hehe, you did.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("Q020200000_02_080");
         MsgDisp("Sassa","It worked, then.
-Whether or not I get to go with you or is the
-turning point of fate.");
+Whether or not I get to go with you or is
+the turning point of fate.");
         MsgDisp("主人公","(T-That much...?
 Still, I'm glad you asked me!)");
         break ;
@@ -116,7 +118,8 @@ too.
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(Even though he invited me...I feel bad.)");
+        MsgDisp("主人公","(Even though he invited me...
+I feel bad.)");
         break ;
         default :
         DbgAssert(0);

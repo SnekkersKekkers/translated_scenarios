@@ -62,8 +62,7 @@ rank...)");
     MsgDisp("Nanatsumori","So, if we get to work together again,
 let's both try harder.");
     MsgDisp("主人公","(｛七ツ森＊｝ looks serious...
-But, getting last is still
-frustrating...)");
+But, getting last is still frustrating...)");
     break ;
     default :
     DbgAssert(1);

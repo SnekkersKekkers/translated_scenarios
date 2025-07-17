@@ -53,11 +53,9 @@ VoicePlay("D012100000_21_050");
 MsgDisp("Michiru","∈");
 StlEye(21,0);
 VoicePlay("D012100000_21_060");
-MsgDisp("Michiru","Even if you say something like that,
-I...");
+MsgDisp("Michiru","Even if you say something like that, I...");
 VoicePlay("D012100000_40_040");
-MsgDisp("Male Student","...Do you maybe already like another
-guy?");
+MsgDisp("Male Student","...Do you maybe already like another guy?");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("D012100000_21_070");
 MsgDisp("Michiru","That's not it.

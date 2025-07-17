@@ -92,8 +92,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoiceEVSPlay(1);
 VoicePlay("B330B20200_01_020");
-MsgDisp("Kazama","｛主人公｝, did you hear
-that?");
+MsgDisp("Kazama","｛主人公｝, did you hear that?");
 MsgDisp("主人公","Eh?");
 ChEye(4,0);
 ChMouth(4,2);

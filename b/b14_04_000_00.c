@@ -58,9 +58,9 @@ ChMotion(4,3,1);
 ChCheek(4,8);
 VoiceEVSPlay(4);
 VoicePlay("B140400000_04_080");
-MsgDisp("Nanatsumori","｛主人公｝, Merry
-Christmas. I hope I can say this to you
-again next year.");
+MsgDisp("Nanatsumori","｛主人公｝, Merry Christmas.
+I hope I can say this to you again next
+year.");
 MsgDisp("主人公","｛七ツ森＊｝, Merry
 Christmas.");
 MsgDisp("主人公","(I see, I've spent both today and

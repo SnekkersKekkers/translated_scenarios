@@ -34,8 +34,7 @@ It's too cold.");
     VoicePlay("B040406300_04_030");
     MsgDisp("Nanatsumori","Seafood Nabe, crab, grilled seafood,
 Chinese buns, sweet potatoes, hot sweets,
-ah, hey it seems like anything warm is
-OK!");
+ah, hey it seems like anything warm is OK!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

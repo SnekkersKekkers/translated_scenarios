@@ -23,8 +23,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130100_01_030");
 MsgDisp("Kazama","It feels like there are more of them
-lately. ...Well, one more. That's how
-it seems to me anyways.");
+lately. ...Well, one more. That's how it
+seems to me anyways.");
 MsgDisp("主人公","Umm, aren't we talking about fireflies?");
 ChEye(1,2);
 ChMouth(1,2);

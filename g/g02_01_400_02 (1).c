@@ -64,9 +64,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020140002_01_070");
-MsgDisp("Kazama","...My name and yours were on my desk,
-my notebooks, the brim of my hat in
-terrible handwriting.");
+MsgDisp("Kazama","...My name and yours were on my desk, my
+notebooks, the brim of my hat in terrible
+handwriting.");
 MsgDisp("主人公","Hahah, how cute.");
 ChEye(1,0);
 ChMouth(1,3);

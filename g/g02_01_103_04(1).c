@@ -15,8 +15,8 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
 VoicePlay("G020110304_01_020");
-MsgDisp("Kazama","A quiet night parade... yeah, that
-would be nice, huh.");
+MsgDisp("Kazama","A quiet night parade... yeah, that would
+be nice, huh.");
 MsgDisp("主人公","That's right, huh.");
 ChEye(1,4);
 ChMouth(1,0);

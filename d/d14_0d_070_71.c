@@ -17,8 +17,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07071_21_000");
-MsgDisp("Michiru","That scent is probably from the
-plants...");
+MsgDisp("Michiru","That scent is probably from the plants...");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

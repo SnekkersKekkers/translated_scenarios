@@ -70,8 +70,8 @@ Let's work well together,
     ChEyeOpenLevel(5,0);
     VoiceEVSPlay(5);
     VoicePlay("P810500000_05_020");
-    MsgDisp("Hiiragi","｛主人公｝, let us both do
-our best.");
+    MsgDisp("Hiiragi","｛主人公｝, let us both do our
+best.");
     MsgDisp("主人公","(Yes, for the sake of Haba High's morals,
 let's work hard with
 ｛柊＊＊＊｝! )");

@@ -10,8 +10,8 @@ Wait(16,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("G020110000_01_010");
-MsgDisp("Kazama","...You know I often had dreams about
-you, since a long time ago.");
+MsgDisp("Kazama","...You know I often had dreams about you,
+since a long time ago.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,0);
@@ -58,9 +58,9 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110000_01_070");
-MsgDisp("Kazama","...But somehow, we were still the same
-as when we were both small elementary
-school students.");
+MsgDisp("Kazama","...But somehow, we were still the same as
+when we were both small elementary school
+students.");
 MsgDisp("主人公","Hehe");
 MsgDisp("主人公","(｛風真＊＊｝, has dreams about me...)");
 BGMStop();

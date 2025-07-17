@@ -103,9 +103,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500803_05_070");
-MsgDisp("Hiiragi","Phew... Yes, this is what they would
-call 'grasping at straws' It doesn't have
-to be a full-score anpan though.");
+MsgDisp("Hiiragi","Phew... Yes, this is what they would call
+'grasping at straws' It doesn't have to be
+a full-score anpan though.");
 MsgDisp("主人公","Hehe.
 This makes me want to eat a full-score
 anpan too.");

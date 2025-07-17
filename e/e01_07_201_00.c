@@ -90,8 +90,7 @@ MsgDisp("Mikage","For a cute girl.
 Her name is Molly.");
 VoicePlay("E010720100_01_060");
 MsgDisp("Kazama","Hm?
-I feel like I've heard that name
-before...");
+I feel like I've heard that name before...");
 MsgDisp("主人公","(Eh ∋ \"Molly\" is the cow from
 ｛御影＊＊｝'s family home,
 isn't it...?)");

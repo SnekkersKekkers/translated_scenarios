@@ -9,8 +9,7 @@ ChMotion(8,5,1);
 ChEyeOpenLevel(8,10);
 ChCheek(8,10);
 MsgDisp("Shirahane","Wa-∋");
-MsgDisp("主人公","This, is my answer. ...did you receive
-it?");
+MsgDisp("主人公","This, is my answer. ...did you receive it?");
 VoicePlay("T020801000_08_310");
 ChEye(8,0);
 ChMouth(8,4);

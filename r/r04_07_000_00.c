@@ -25,8 +25,7 @@ Make sure to have loads of fun.");
     ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("R040700000_07_020");
-    MsgDisp("Mikage","｛主人公｝, Merry
-Christmas.");
+    MsgDisp("Mikage","｛主人公｝, Merry Christmas.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝!
 Merry Christmas!");
     ChEye(7,0);

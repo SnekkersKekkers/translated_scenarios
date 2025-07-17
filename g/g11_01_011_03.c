@@ -54,9 +54,9 @@ ChEyeOpenLevel(1,#1);
 VoicePlay("G110101103_01_040");
 MsgDisp("Kazama","As for me, I think it's bette r to
 prioritize our current customers.");
-MsgDisp("主人公","｛風真＊＊｝ is amazing
-huh... you think about the customers in
-so many different ways.");
+MsgDisp("主人公","｛風真＊＊｝ is amazing huh...
+you think about the customers in so many
+different ways.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChMouth(1,0);

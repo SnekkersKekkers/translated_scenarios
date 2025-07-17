@@ -67,8 +67,7 @@ Please treat me well again this year.");
     MsgDisp("主人公","Happy New Year.
 And the same to you.");
     VoicePlay("S040800000_08_070");
-    MsgDisp("Shirahane","Hey, do ya wanna to go to the
-shrine...?");
+    MsgDisp("Shirahane","Hey, do ya wanna to go to the shrine...?");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -85,8 +84,8 @@ I'll come getcha from your house.
 So get ready and wait.");
         VoicePlay("S040800000_08_110");
         MsgDisp("Shirahane","Ah, I guess if ya want to dress up it'll
-take a while... I'll come slowly. See
-you later.");
+take a while... I'll come slowly. See you
+later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(I feel like he's expecting something from

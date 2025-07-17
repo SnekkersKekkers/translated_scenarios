@@ -172,8 +172,8 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(2);
 MsgDisp("主人公","(The expression on ｛颯砂＊＊｝'s
-face just now, it surprised me a
-little... Maybe I understand
-｛風真＊＊｝'s feelings a bit!')");
+face just now, it surprised me a little...
+Maybe I understand ｛風真＊＊｝'s
+feelings a bit!')");
 MsgClose();
 ScrFadeOut(0,0);

@@ -24,8 +24,7 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600600_06_000");
-MsgDisp("Himuro","... So, you really came all the way
-here?
+MsgDisp("Himuro","... So, you really came all the way here?
 You have a lot of free time, don't you.");
 MsgDisp("主人公","Ugh...");
 ChEye(6,0);
@@ -83,8 +82,7 @@ VoicePlay("G110600600_06_070");
 MsgDisp("Himuro","It seems that I was an idiot for worrying
 so much.");
 MsgDisp("主人公","(｛氷室＊＊｝...
-That question really worried you,
-huh...)");
+That question really worried you, huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

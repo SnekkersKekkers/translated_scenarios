@@ -1,7 +1,6 @@
 BGOpen("ar700",0);
 ScrFadeIn(0);
-MsgDisp("主人公","My name is
-｛主人公苗字｝.
+MsgDisp("主人公","My name is ｛主人公苗字｝.
 It's my pleasure to work here starting
 today.");
 VoicePlay("I730000000_36_000");

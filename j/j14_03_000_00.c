@@ -13,6 +13,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("J140300000_03_010");
-MsgDisp("Honda","Hey, next Sunday. Are you free then?");
+MsgDisp("Honda","Hey, next Sunday.
+Are you free then?");
 ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

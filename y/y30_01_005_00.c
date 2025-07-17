@@ -83,8 +83,7 @@ my feelings.");
 MsgClear();
 MsgDisp("","I want the me from back then to know
 that I'm with
-｛主人公名前｝ like
-this.");
+｛主人公名前｝ like this.");
 MsgDisp("","I think it's fine to leave it like
 this... until we move to our new
 home.");

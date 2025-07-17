@@ -96,8 +96,8 @@ It might be nice.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I460600008_06_100");
-    MsgDisp("Himuro","...Just so you know, I'll have you pay
-me a high salary.");
+    MsgDisp("Himuro","...Just so you know, I'll have you pay me
+a high salary.");
     MsgDisp("主人公","Hehe.
 Then work hard for it, 'kay?");
     ChEye(6,0);

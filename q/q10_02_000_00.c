@@ -107,7 +107,6 @@ See you in a bit.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I'll be troubled if you count on
-me...!)");
+MsgDisp("主人公","(I'll be troubled if you count on me...!)");
 MsgClose();
 ScrFadeOut(0,0);

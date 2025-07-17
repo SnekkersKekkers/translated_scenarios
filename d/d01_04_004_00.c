@@ -122,8 +122,8 @@ ChMotion(4,1,1);
 VoicePlay("D010400400_04_130");
 MsgDisp("Nanatsumori","That's right.
 Just happened to.");
-MsgDisp("主人公","(｛七ツ森＊｝...just happens to be
-carrying around womens' wigs∋)");
+MsgDisp("主人公","(｛七ツ森＊｝...just happens to be carrying
+around womens' wigs∋)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

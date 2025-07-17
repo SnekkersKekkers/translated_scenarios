@@ -58,8 +58,8 @@ come...)");
     ChOpen(5,254,4,3,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P030500000_05_040");
-    MsgDisp("Hiiragi","｛主人公｝, quite
-successful, aren't we?");
+    MsgDisp("Hiiragi","｛主人公｝, quite successful,
+aren't we?");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
 Welcome.");
     ChEye(5,4);

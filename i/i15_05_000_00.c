@@ -38,8 +38,7 @@ We don't carry household goods.");
     ChMotion(5,4);
     VoicePlay("I150500000_05_040");
     MsgDisp("Hiiragi","Ah, I see.
-I had just heard of General Store
-Simon...");
+I had just heard of General Store Simon...");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -50,8 +49,7 @@ Simon...");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ looks busy.
-... But it looks like he likes
-shopping?)");
+... But it looks like he likes shopping?)");
     break ;
     case 3:
     MsgClose();

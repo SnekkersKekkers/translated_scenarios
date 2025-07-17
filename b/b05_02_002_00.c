@@ -139,7 +139,6 @@ MsgDisp("Sassa","Ahh.
 Instead of going to a hot spring, next
 time we can just come to the pool.");
 MsgDisp("主人公","(｛颯砂＊＊｝'s face is still red.
-Is that from the heat of the
-jacuzzi...?)");
+Is that from the heat of the jacuzzi...?)");
 BGMStop();
 ChPrmTblAdd(2,0);

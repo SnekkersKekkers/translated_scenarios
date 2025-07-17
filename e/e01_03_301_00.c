@@ -9,8 +9,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010330100_03_000");
-MsgDisp("Honda","｛主人公｝, were you
-shopping?");
+MsgDisp("Honda","｛主人公｝, were you shopping?");
 MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Yeah, but I'm already on my way home now.
 What about you?");

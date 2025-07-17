@@ -10,8 +10,8 @@ ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(5);
 VoicePlay("D120C00000_05_000");
-MsgDisp("Hiiragi","｛主人公｝, how about we
-get some lunch on the way home?");
+MsgDisp("Hiiragi","｛主人公｝, how about we get some
+lunch on the way home?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

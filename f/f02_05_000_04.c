@@ -39,6 +39,6 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("F020500004_05_040");
 MsgDisp("Hiiragi","Although, that would be rude to my
-patrons... How can I say this without
-any misunderstandings?");
+patrons... How can I say this without any
+misunderstandings?");
 MsgDisp("主人公","(He really is popular...)");

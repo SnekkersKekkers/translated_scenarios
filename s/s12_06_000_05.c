@@ -76,8 +76,8 @@ graduation ceremony.");
     ChMotion(6,0);
     VoicePlay("S120600002_06_130");
     MsgDisp("Himuro","Your graduation. I've been avoiding it for
-a while... But now I feel like I'm
-ready to let you go.");
+a while... But now I feel like I'm ready
+to let you go.");
     MsgDisp("主人公","｛氷室＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);

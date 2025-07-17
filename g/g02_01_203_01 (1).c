@@ -68,10 +68,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020120301_01_080");
-MsgDisp("Kazama","...But what you have is something
-totally different. Everyone like you, no
-strings attached. Your family doesn't
-matter.");
+MsgDisp("Kazama","...But what you have is something totally
+different. Everyone like you, no strings
+attached. Your family doesn't matter.");
 MsgDisp("主人公","That's not true...
 But thanks.");
 ChEye(1,2);

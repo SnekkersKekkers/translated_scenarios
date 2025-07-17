@@ -69,12 +69,12 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("G020130003_01_070");
 MsgDisp("Kazama","Most likely. And if they find out, they'll
-probably keep bringing it up for a
-week... So don't say anything.");
+probably keep bringing it up for a week...
+So don't say anything.");
 MsgDisp("主人公","(Hahah, it sounds like
 ｛風真＊＊｝ loves
 ｛本多＊＊｝ and
-｛七ツ森＊｝.)");
+｛七ツ森＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

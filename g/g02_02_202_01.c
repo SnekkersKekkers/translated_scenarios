@@ -47,8 +47,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220201_02_060");
-MsgDisp("Sassa","Haven't even noticed it yourself,
-huh...
+MsgDisp("Sassa","Haven't even noticed it yourself, huh...
 Yeah, Inori's amazing.");
 ChEye(2,5);
 ChMouth(2,2);

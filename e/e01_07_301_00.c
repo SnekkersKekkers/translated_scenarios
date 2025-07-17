@@ -28,8 +28,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoiceEVSPlay(3);
 VoicePlay("E010730100_03_010");
-MsgDisp("Honda","｛主人公｝, I'll let you
-take a peek too.");
+MsgDisp("Honda","｛主人公｝, I'll let you take a
+peek too.");
 MsgDisp("主人公","Huh... a peek?");
 ChEye(7,0);
 ChMouth(7,0);

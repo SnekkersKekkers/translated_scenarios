@@ -35,8 +35,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020110001_01_040");
-MsgDisp("Kazama","That's why...even in England I would
-ask for cookies to be baked for me...");
+MsgDisp("Kazama","That's why...even in England I would ask
+for cookies to be baked for me...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);

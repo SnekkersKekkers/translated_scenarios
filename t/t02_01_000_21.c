@@ -90,8 +90,7 @@ VoicePlay("T020100000_01_550");
 MsgDisp("Kazama","This kiss is our promise.");
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_560");
-MsgDisp("Kazama","｛主人公｝, I won't let
-you go.");
+MsgDisp("Kazama","｛主人公｝, I won't let you go.");
 BGMStop();
 MsgClear();
 StlEffect(1,1,60);

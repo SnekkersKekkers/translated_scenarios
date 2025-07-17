@@ -89,8 +89,7 @@ VoicePlay("D010500300_05_060");
 MsgDisp("Hiiragi","!");
 StlEyeOpenLevel(5,#1);
 VoicePlay("D010500300_05_070");
-MsgDisp("Hiiragi","...I didn't want you to see me like
-this.");
+MsgDisp("Hiiragi","...I didn't want you to see me like this.");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_080");
 MsgDisp("Hiiragi","...Just a year ago those two smiled and

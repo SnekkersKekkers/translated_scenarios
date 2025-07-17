@@ -67,8 +67,8 @@ MsgDisp("Woman Customer A","Ah, there's Kazama-kun!
 We need your advice for a gift～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(｛風真＊＊｝ seems to be getting more and
-more popular. He seems tired though...
-I wonder if he's alright.)");
+more popular. He seems tired though... I
+wonder if he's alright.)");
 SEWait();
 MsgClose();
 ScrFadeOut(0,0);

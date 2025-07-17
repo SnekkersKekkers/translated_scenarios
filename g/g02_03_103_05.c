@@ -29,8 +29,7 @@ ChMotion(3,0,1);
 VoicePlay("G020310305_03_030");
 MsgDisp("Honda","Guso-kun the giant isopod.
 He's also one of them.");
-MsgDisp("主人公","Guso-kun...that was unfortunate,
-huh...");
+MsgDisp("主人公","Guso-kun...that was unfortunate, huh...");
 ChFace(3,4);
 ChMotion(3,2,1);
 VoicePlay("G020310305_03_040");

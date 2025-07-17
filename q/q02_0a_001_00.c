@@ -11,8 +11,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("Q020A00100_01_000");
-MsgDisp("Kazama","｛主人公｝, did you sleep
-well?");
+MsgDisp("Kazama","｛主人公｝, did you sleep well?");
 MsgDisp("主人公","Yeah, absolutely. ｛風真＊＊｝,
 ｛颯砂＊＊｝, are you two hanging
 out together for the free period?");
@@ -109,8 +108,8 @@ let's go.");
     SEPlay("EV_SE_856");
     ChClose(2,0,30);
     ChClose(1,0,30);
-    MsgDisp("主人公","(Even though they invited me, I feel kind of
-bad...)");
+    MsgDisp("主人公","(Even though they invited me, I feel kind
+of bad...)");
     MsgClose();
     ScrFadeOut(0);
     break ;

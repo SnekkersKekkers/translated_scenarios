@@ -2,8 +2,8 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("T020311000_03_000");
-MsgDisp("Honda?","｛主人公｝, I don't want
-you to go that far.");
+MsgDisp("Honda?","｛主人公｝, I don't want you to go
+that far.");
 SEPlay("EV_SE_872",0.5);
 Wait(50,0);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
@@ -88,8 +88,7 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,2,1);
 VoicePlay("T020311000_03_100");
-MsgDisp("Honda","Haa...but, but I couldn't deceive
-myself.");
+MsgDisp("Honda","Haa...but, but I couldn't deceive myself.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);

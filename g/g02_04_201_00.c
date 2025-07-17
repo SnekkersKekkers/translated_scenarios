@@ -47,8 +47,8 @@ I'm experiencing my heart being torn open
 for the first time.");
 ChEyeOpenLevel(4,0);
 VoicePlay("G020420100_04_070");
-MsgDisp("Nanatsumori","...If you were to dislike me, it would
-be the same as the world ending.");
+MsgDisp("Nanatsumori","...If you were to dislike me, it would be
+the same as the world ending.");
 MsgDisp("主人公","｛七ツ森＊｝...");
 ChEye(4,2);
 ChMouth(4,4);

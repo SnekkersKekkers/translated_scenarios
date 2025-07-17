@@ -131,8 +131,8 @@ MsgDisp("Himuro","Anyway, let's go home quickly.
 I've been waiting for a while and it's
 cold.");
 MsgDisp("主人公","Ah, sorry!
-... Wait, when did we make plans to
-walk home together?");
+... Wait, when did we make plans to walk
+home together?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);

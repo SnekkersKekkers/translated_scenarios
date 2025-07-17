@@ -28,8 +28,7 @@ I did it!)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700000_07_020");
-    MsgDisp("Mikage","｛主人公｝, you're in
-first place.");
+    MsgDisp("Mikage","｛主人公｝, you're in first place.");
     MsgDisp("主人公","Yes, I did my best!");
     ChEye(7,0);
     ChMouth(7,3);
@@ -58,8 +57,8 @@ I'll do my best next time too.)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700000_07_050");
-    MsgDisp("Mikage","｛主人公｝, look where
-you're on the list.
+    MsgDisp("Mikage","｛主人公｝, look where you're on
+the list.
 Very cool of you.");
     MsgDisp("主人公","Yes, I did my best!");
     ChEye(7,0);

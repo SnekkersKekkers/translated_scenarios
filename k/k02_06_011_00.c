@@ -48,8 +48,7 @@ ChCheek(6,0);
 VoicePlay("K020601100_06_050");
 VoiceEVSPlay(6);
 MsgDisp("Himuro","Well, I'm going home.
-... Happy birthday,
-｛主人公｝.");
+... Happy birthday, ｛主人公｝.");
 MsgDisp("主人公","Thanks, ｛氷室＊＊｝.
 See you soon?");
 ChEye(6,0);

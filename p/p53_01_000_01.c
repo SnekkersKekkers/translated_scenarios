@@ -8,9 +8,9 @@ switch (ChPrmGet(1,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Wow...There are a lot of customers
-this year. It seems like there are more
-than last year. Ah, I'm nervous...)");
+    MsgDisp("主人公","(Wow...There are a lot of customers this
+year. It seems like there are more than
+last year. Ah, I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

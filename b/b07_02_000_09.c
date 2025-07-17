@@ -21,8 +21,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B070200000_02_450");
 MsgDisp("Sassa","Are you serious right now?");
-MsgDisp("主人公","Sorry, maybe I didn't word it
-properly...");
+MsgDisp("主人公","Sorry, maybe I didn't word it properly...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -54,8 +53,7 @@ Next time I'll ask you something, then.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","(...Huh? But I wanted to hear how
-｛颯砂＊＊｝ feel about
-love...)");
+｛颯砂＊＊｝ feel about love...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

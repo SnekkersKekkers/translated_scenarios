@@ -99,9 +99,9 @@ I'm glad you came, ｛風真＊＊｝.");
     MsgDisp("Kazama","That's the face I wanted to see.
 Come on, let's go.");
     MsgDisp("主人公","...Yeah!");
-    MsgDisp("主人公","(I'm frustrated that I didn't win,
-but... I worked hard. Thank you,
-｛風真＊＊｝...)");
+    MsgDisp("主人公","(I'm frustrated that I didn't win, but...
+I worked hard.
+Thank you, ｛風真＊＊｝... )");
     break ;
     default :
     DbgAssert(1);

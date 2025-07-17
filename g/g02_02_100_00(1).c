@@ -25,8 +25,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210000_02_030");
 VoiceEVSPlay(2);
-MsgDisp("Sassa","I'm talking about you,
-｛主人公｝.");
+MsgDisp("Sassa","I'm talking about you, ｛主人公｝.");
 MsgDisp("主人公","?");
 ChEye(2,0);
 ChMouth(2,4);

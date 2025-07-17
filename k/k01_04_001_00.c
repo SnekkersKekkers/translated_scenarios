@@ -52,11 +52,9 @@ Hey, try opening it.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("K010400100_04_040");
-    MsgDisp("Nanatsumori","... Come here a little quieter next
-time.");
-    MsgDisp("主人公","Ah, sorry...
-｛七ツ森＊｝, happy
-birthday. Here's a birthday present.");
+    MsgDisp("Nanatsumori","... Come here a little quieter next time.");
+    MsgDisp("主人公","Ah, sorry... ｛七ツ森＊｝,
+happy birthday. Here's a birthday present.");
     SEPlay("EV_SE_664");
     SEWait();
     ChEye(4,4);

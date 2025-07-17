@@ -22,8 +22,7 @@ MsgDisp("Honda","Right, right, if the manager didn't trust
 you, they wouldn't let you give monthly
 recommendations to the customer, would
 they?");
-MsgDisp("主人公","｛本多＊＊｝, what should I
-do...");
+MsgDisp("主人公","｛本多＊＊｝, what should I do...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);

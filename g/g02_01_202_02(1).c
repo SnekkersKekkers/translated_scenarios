@@ -87,7 +87,7 @@ MsgDisp("Kazama","I might be at a disadvantage now, but I'll
 manage.
 I have a reason I can't back down.");
 MsgDisp("主人公","(｛風真＊＊｝, So that's how you think of
-｛本多＊＊｝...)");
+｛本多＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -147,9 +147,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(3,0,30);
-MsgDisp("主人公","(｛本多＊＊｝ said something very
-bold... Sigh...Now my heart is
-racing.)");
+MsgDisp("主人公","(｛本多＊＊｝ said something very bold...
+Sigh...
+Now my heart is racing.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

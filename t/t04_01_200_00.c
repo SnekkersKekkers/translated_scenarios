@@ -22,8 +22,8 @@ VoicePlay("T040120000_01_010");
 MsgDisp("Kazama","The 'young master's meal'?
 What's that?");
 VoicePlay("T040120000_02_000");
-MsgDisp("Sassa","...Huh? Is Inori the only one who
-didn't get any extras? Don't be sulky.");
+MsgDisp("Sassa","...Huh? Is Inori the only one who didn't
+get any extras? Don't be sulky.");
 VoicePlay("T040120000_06_010");
 MsgDisp("Himuro","Huh?
 Why me?

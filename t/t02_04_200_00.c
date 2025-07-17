@@ -28,8 +28,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_030");
-MsgDisp("Nanatsumori","...I mean, it's only thanks to those
-guys that I can say this.");
+MsgDisp("Nanatsumori","...I mean, it's only thanks to those guys
+that I can say this.");
 MsgDisp("主人公","...Those guys?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -55,14 +55,14 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_070");
-MsgDisp("Nanatsumori","Well...your feelings aside, is this
-what they call male camaraderie?");
+MsgDisp("Nanatsumori","Well...your feelings aside, is this what
+they call male camaraderie?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_080");
-MsgDisp("Nanatsumori","... They gave me the push I needed when
-I was feeling shy.
+MsgDisp("Nanatsumori","... They gave me the push I needed when I
+was feeling shy.
 And now I'm here.");
 MsgClear();
 ChClose(4);

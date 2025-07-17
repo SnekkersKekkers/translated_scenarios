@@ -63,8 +63,8 @@ I have to study harder...)");
     ChOpen(7,254,0,2,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700003_07_060");
-    MsgDisp("Mikage","｛主人公｝, this isn't
-funny at all.");
+    MsgDisp("Mikage","｛主人公｝, this isn't funny at
+all.");
     MsgDisp("主人公","Ah, ｛御影＊＊｝...");
     ChEye(7,2);
     ChMouth(7,0);

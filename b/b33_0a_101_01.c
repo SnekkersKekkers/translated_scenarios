@@ -16,8 +16,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("B330A10101_01_000");
-MsgDisp("Kazama","｛主人公｝, where do you
-want to go?");
+MsgDisp("Kazama","｛主人公｝, where do you want to
+go?");
 MsgDisp("主人公","Eh, me?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -13,8 +13,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H280200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, it's finally
-time.");
+    MsgDisp("Sassa","｛主人公｝, it's finally time.");
     MsgDisp("主人公","｛颯砂＊＊｝, we've finally made
 it this far.");
     ChEye(2,0);

@@ -5,8 +5,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Only a little bit more until
-graduation...");
+MsgDisp("主人公","Only a little bit more until graduation...");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);

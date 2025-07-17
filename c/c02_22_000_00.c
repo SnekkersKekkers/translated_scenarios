@@ -29,8 +29,8 @@ their heart hurt.");
 VoicePlay("C022200000_22_040");
 MsgDisp("Hikaru","And those wounds? They can turn into a
 ticking time bomb. And one of the boys
-near Mari is like that right now.
-...Did you notice?");
+near Mari is like that right now. ...Did
+you notice?");
 MsgDisp("主人公","Eh?");
 VoicePlay("C022200000_22_050");
 MsgDisp("Hikaru","Hikaru thinks Mari knows, but if annoyance

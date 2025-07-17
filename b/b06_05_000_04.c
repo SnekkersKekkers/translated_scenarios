@@ -36,8 +36,8 @@ Go home and get some rest.");
     ScrFadeIn(0);
     VoicePlay("B060500004_05_020");
     MsgDisp("Hiiragi","I can't believe our day together ends like
-this...Sorry. Truthfully, I wish we
-could start over.");
+this...Sorry. Truthfully, I wish we could
+start over.");
     MsgDispSksp(0);
     break ;
     default :

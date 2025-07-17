@@ -10,8 +10,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_000");
-    MsgDisp("Honda","｛主人公｝, thanks for
-going with me for the free period.");
+    MsgDisp("Honda","｛主人公｝, thanks for going with
+me for the free period.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -64,8 +64,7 @@ There's still hope∈");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_070");
-    MsgDisp("Honda","｛主人公｝, you're
-amazing.
+    MsgDisp("Honda","｛主人公｝, you're amazing.
 I'm gonna peek into the kitchen!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");

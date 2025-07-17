@@ -89,7 +89,7 @@ but I'll figure something out.
 I have a reason why I can't back down.");
 MsgDisp("主人公","(I didn't realize that's how
 ｛風真＊＊｝ thought of
-｛本多＊＊｝...)");
+｛本多＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

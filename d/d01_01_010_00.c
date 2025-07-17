@@ -18,7 +18,7 @@ MsgDisp("主人公","O-Okay, sure.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(What's going on?
-｛風真＊＊｝...)");
+｛風真＊＊｝... )");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -157,8 +157,8 @@ MsgDisp("Kazama","Haa?
 That's what you mean...
 That's somewhat disappointing.");
 MsgDisp("主人公","(｛風真＊＊｝, maybe you thought I forgot
-about you? I guess I should have told you
-sooner...)");
+about you?
+I guess I should have told you sooner...)");
 BGMStop();
 EnvAutoSet(1);
 MsgClose();

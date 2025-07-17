@@ -57,8 +57,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310400_03_080");
-MsgDisp("Honda","...No, let's stop. This is a bad habit
-of mine. Overthinking things and going in
+MsgDisp("Honda","...No, let's stop. This is a bad habit of
+mine. Overthinking things and going in
 strange directions.");
 ChMouth(3,3);
 ChMotion(3,1);

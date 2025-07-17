@@ -135,9 +135,9 @@ SEPlay("EV_SE_DOOR_022");
 Wait(45,0);
 SEPlay("EV_SE_DOOR_023");
 ChClose(3);
-MsgDisp("主人公","(I'm glad he didn't shout my name on
-TV...It would be troublesome when we go
-back to school after break...)");
+MsgDisp("主人公","(I'm glad he didn't shout my name on TV...
+It would be troublesome when we go back to
+school after break...)");
 MsgDisp("主人公","(Ah! Didn't I want to interview
 ｛本多＊＊｝? Quick, let's go
 after him while he's still nearby!)");

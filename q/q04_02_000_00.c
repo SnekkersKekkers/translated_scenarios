@@ -14,7 +14,9 @@ Good morning!");
     MsgDisp("Sassa","Morning.
 You look like you're in tip-top condition,
 huh?");
-    MsgDisp("主人公","Yeah. Hey, why don't we go together for today's free period?");
+    MsgDisp("主人公","Yeah.
+Hey, why don't we go together for today's
+free period?");
     break ;
     case 3:
     MsgDisp("主人公","｛颯砂＊＊｝.

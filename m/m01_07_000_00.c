@@ -57,6 +57,5 @@ ChClose(7);
 Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
-MsgDisp("主人公","(｛御影＊＊｝ came for a get well
-visit...
+MsgDisp("主人公","(｛御影＊＊｝ came for a get well visit...
 Okay, I have to get better fast!)");

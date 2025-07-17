@@ -12,8 +12,7 @@ switch (ChPrmGet(5,6)){
 Welcome.");
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, so you work
-here.");
+    MsgDisp("Hiiragi","｛主人公｝, so you work here.");
     MsgDisp("主人公","Yes, and you, ｛柊＊＊＊｝?");
     ChMotion(5,4);
     VoicePlay("I250500000_05_010");
@@ -29,8 +28,8 @@ I shall go look.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(I see, ｛柊＊＊＊｝ is the
-chairman of a theater company... I
-can't believe I know such a great person.)");
+chairman of a theater company... I can't
+believe I know such a great person.)");
     break ;
     case 3:
     MsgDisp("主人公","Welcome.");
@@ -39,8 +38,8 @@ can't believe I know such a great person.)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_030");
-    MsgDisp("Hiiragi","｛主人公｝, so you were
-working today.");
+    MsgDisp("Hiiragi","｛主人公｝, so you were working
+today.");
     MsgDisp("主人公","Yes, and you, ｛柊＊＊＊｝?");
     ChEye(5,0);
     ChMotion(5,4);
@@ -69,9 +68,9 @@ easier to understand, I will return.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(...Hm? What did
-｛柊＊＊＊｝ come for? Could it
-be that he came to check on me?)");
+    MsgDisp("主人公","(...Hm? What did ｛柊＊＊＊｝
+come for? Could it be that he came to
+check on me?)");
     break ;
     case 4:
     case 5:

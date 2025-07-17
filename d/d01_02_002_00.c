@@ -97,7 +97,7 @@ ScrFadeOut(0);
 SEPlay("EV_SE_610");
 SEWait();
 MsgDisp("主人公","(\"Exercise Theory 1st Edition, Hyper
-Recovery for Efficient Muscle
-Growth\"...Is ｛颯砂＊＊｝
-actually a scientific person?)");
+Recovery for Efficient Muscle Growth\"...Is
+｛颯砂＊＊｝ actually a
+scientific person?)");
 ChPrmTblAdd(2,0);

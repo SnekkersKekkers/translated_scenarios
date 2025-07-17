@@ -37,9 +37,9 @@ ChEyeOpenLevel(5,0);
 Wait(16,0);
 ChMouth(5,4);
 VoicePlay("T020500030_05_040");
-MsgDisp("Hiiragi","...That's good. You were able to smile
-a little in the end... I'm not wrong
-about this direction.");
+MsgDisp("Hiiragi","...That's good. You were able to smile a
+little in the end... I'm not wrong about
+this direction.");
 Wait(40,0);
 ChEye(5,0);
 ChMouth(5,4);

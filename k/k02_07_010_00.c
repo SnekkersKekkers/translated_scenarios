@@ -28,8 +28,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("K020701000_07_020");
 VoiceEVSPlay(7);
-MsgDisp("Mikage","Happy birthday,
-｛主人公｝.");
+MsgDisp("Mikage","Happy birthday, ｛主人公｝.");
 MsgDisp("主人公","You remembered?");
 ChEye(7,0);
 ChMouth(7,3);

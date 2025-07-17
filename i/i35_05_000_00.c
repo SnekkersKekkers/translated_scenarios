@@ -13,8 +13,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, are you
-working part-time?");
+    MsgDisp("Hiiragi","｛主人公｝, are you working
+part-time?");
     MsgDisp("主人公","Yes, that's right.
 ｛柊＊＊＊｝, are you alone?");
     ChMotion(5,4);
@@ -33,8 +33,8 @@ Go ahead.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ feels different from how he
-is at school... He is the chairman of
-the theater troupe, huh.)");
+is at school... He is the chairman of the
+theater troupe, huh.)");
     break ;
     case 3:
     MsgDisp("主人公","Alright, let's do our best today, too.");
@@ -43,8 +43,8 @@ the theater troupe, huh.)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_030");
-    MsgDisp("Hiiragi","｛主人公｝, if I may have
-a moment of your time.");
+    MsgDisp("Hiiragi","｛主人公｝, if I may have a moment
+of your time.");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝, you came.");
     VoicePlay("I350500000_05_040");
     MsgDisp("Hiiragi","Yes, we come here for meetings.");

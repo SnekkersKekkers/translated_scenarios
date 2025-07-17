@@ -70,9 +70,9 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("F102220001_22_040");
-MsgDisp("Hikaru","No～... I can see why Uncle is the best
-in the world. No one else would have
-thought of that.");
+MsgDisp("Hikaru","No～... I can see why Uncle is the best in
+the world. No one else would have thought
+of that.");
 MsgDisp("主人公","(Maybe I would've liked to see the designs
 by Goro-sensei...?)");
 BGMStop();

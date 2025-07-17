@@ -10,8 +10,7 @@ ChEye(5,2);
 ChEyeOpenLevel(5,9);
 VoiceEVSPlay(5);
 VoicePlay("P850500003_05_000");
-MsgDisp("Hiiragi","｛主人公｝, please look
-up.
+MsgDisp("Hiiragi","｛主人公｝, please look up.
 It wasn't only your responsibility.");
 MsgDisp("主人公","But.");
 ChEye(5,2);

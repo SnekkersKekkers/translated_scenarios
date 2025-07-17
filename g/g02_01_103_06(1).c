@@ -68,8 +68,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110306_01_080");
 MsgDisp("Kazama","That's right.
-The biggest surprise I can think of
-is...");
+The biggest surprise I can think of is...");
 MsgDisp("主人公","Eh, what is it, what is it?");
 ChEye(1,0);
 ChMouth(1,3);

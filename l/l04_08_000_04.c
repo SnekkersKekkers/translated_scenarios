@@ -68,14 +68,12 @@ You really can do anything.");
     VoicePlay("L040800004_08_070");
     VoiceEVSPlay(8);
     MsgDisp("Shirahane","I should be thankin' you.
-Really, thanks,
-｛主人公｝.");
+Really, thanks, ｛主人公｝.");
     ChEye(8,4);
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("L040800004_08_080");
-    MsgDisp("Shirahane","Looks so good, I wanna eat it right
-now...");
+    MsgDisp("Shirahane","Looks so good, I wanna eat it right now...");
     ChEye(8,4);
     ChMouth(8,0);
     ChMotion(8,4,1);

@@ -6,8 +6,8 @@ BGOpen("sc801",0);
 ScrFadeIn(0);
 VoicePlay("Q070201000_48_000");
 MsgDisp("Tour Guide","Here is a toilet break. We will leave in
-15 minutes. Oh... just in time, the
-sunset over the bay is beautiful!");
+15 minutes. Oh... just in time, the sunset
+over the bay is beautiful!");
 VoicePlay("Q070201000_38_000");
 MsgDisp("Students","Yeeess.");
 VoicePlay("Q070201000_44_000");
@@ -116,7 +116,8 @@ Look, it's time for the bus to leave!!");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_110");
-MsgDisp("Sassa","Okay! Let's go then!");
+MsgDisp("Sassa","Okay!
+Let's go then!");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0);

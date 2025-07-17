@@ -53,8 +53,7 @@ Me and exercise are...");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("O030401000_04_050");
-    MsgDisp("Nanatsumori","Ugh... don't look at me with those
-eyes.");
+    MsgDisp("Nanatsumori","Ugh... don't look at me with those eyes.");
     break ;
     case 4:
     case 5:

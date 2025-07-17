@@ -127,8 +127,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("tr410",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew...She was a bit secretive, but I
-was able to get some information about
+MsgDisp("主人公","Phew...She was a bit secretive, but I was
+able to get some information about
 Nana▼ｃо-san!");
 MsgDisp("主人公","She may have had a lot of secrets, but she
 was still a kind and wonderful person.");

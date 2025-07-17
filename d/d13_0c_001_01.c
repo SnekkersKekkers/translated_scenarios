@@ -11,8 +11,7 @@ ChOpen(5,34,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D130C00101_05_000");
-MsgDisp("Hiiragi","｛主人公｝, I finally
-found you.");
+MsgDisp("Hiiragi","｛主人公｝, I finally found you.");
 MsgDisp("主人公","｛柊＊＊＊｝, what's up?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -153,8 +152,8 @@ VoicePlay("D130C00101_06_050");
 MsgDisp("Himuro","It's a promise.");
 MsgDisp("主人公","Hehe, yes!");
 MsgDisp("主人公","(Everyone seems to be having fun at the
-Christmas Party... I wonder what will
-happen next year...?)");
+Christmas Party...
+I wonder what will happen next year...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

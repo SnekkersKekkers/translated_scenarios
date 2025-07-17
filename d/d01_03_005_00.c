@@ -64,9 +64,9 @@ StlEyeOpenLevel(3,0,1);
 VoicePlay("D010300500_03_060");
 MsgDisp("Honda","She said she wasn't interested in the
 botanical gardens either though...");
-MsgDisp("主人公","I see...But you know, it's not good to
-lie down in a place like this. Come on,
-let me help you up.");
+MsgDisp("主人公","I see...But you know, it's not good to lie
+down in a place like this. Come on, let me
+help you up.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300500_03_070");

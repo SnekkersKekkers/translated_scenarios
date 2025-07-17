@@ -72,8 +72,8 @@ What about ｛柊＊＊＊｝?");
     ChEye(5,4);
     ChMotion(5,2);
     VoicePlay("S120500001_05_080");
-    MsgDisp("Hiiragi","Me as well. Although...I may have
-gotten a bit distracted while doing so.");
+    MsgDisp("Hiiragi","Me as well. Although...I may have gotten a
+bit distracted while doing so.");
     MsgDisp("主人公","Eh?
 Distracted?");
     ChMotion(5,4);

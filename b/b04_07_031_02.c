@@ -33,8 +33,7 @@ switch (MsgSelRsltGet()){
         ChMotion(7,5);
         VoiceEVSPlay(7);
         VoicePlay("B040703102_07_020");
-        MsgDisp("Mikage","｛主人公｝, stay here for
-a bit.");
+        MsgDisp("Mikage","｛主人公｝, stay here for a bit.");
         MsgDisp("主人公","Y-Yes.
 I'm sorry.");
         ChEye(7,0);

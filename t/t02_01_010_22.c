@@ -94,8 +94,8 @@ MsgDisp("Kazama","Keep your eyes open.");
 MsgDisp("主人公","...Eh.");
 VoiceEVSPlay(1);
 VoicePlay("T020101000_01_640");
-MsgDisp("Kazama","｛主人公｝, you won't
-forget this, right?");
+MsgDisp("Kazama","｛主人公｝, you won't forget this,
+right?");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

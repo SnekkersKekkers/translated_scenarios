@@ -110,10 +110,9 @@ ChEye(1,2);
 ChMotion(1,3);
 VoicePlay("D010100700_01_060");
 MsgDisp("Kazama","Thank you.
-... Wait, is this a Habatcher
-interview?");
-MsgDisp("主人公","Ah...Right! A small interview, then.
-Can you tell us about fly fishing?");
+... Wait, is this a Habatcher interview?");
+MsgDisp("主人公","Ah...Right! A small interview, then. Can
+you tell us about fly fishing?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

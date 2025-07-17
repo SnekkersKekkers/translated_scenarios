@@ -20,8 +20,7 @@ Yep, I'm ready.");
     ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("S060200000_02_010");
-    MsgDisp("Sassa","｛主人公｝, Happy New
-Year.");
+    MsgDisp("Sassa","｛主人公｝, Happy New Year.");
     MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year.");
     break ;
     case 4:
@@ -29,8 +28,7 @@ Year.");
     ChOpen(2,255,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("S060200000_02_020");
-    MsgDisp("Sassa","｛主人公｝, Happy New
-Year.");
+    MsgDisp("Sassa","｛主人公｝, Happy New Year.");
     MsgDisp("主人公","Yep, Happy New Year.");
     ChEye(2,0);
     ChMouth(2,4);

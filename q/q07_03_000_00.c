@@ -60,8 +60,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q070300000_03_050");
-MsgDisp("Honda","｛主人公｝, here, look
-over there?");
+MsgDisp("Honda","｛主人公｝, here, look over there?");
 MsgDisp("主人公","Eh?
 Wow, such a big tower.");
 ChEye(3,0);
@@ -120,8 +119,9 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q070300000_03_110");
-MsgDisp("Honda","I wonder what dreams the merchants had
-as they came to such a distant and foreign land...");
+MsgDisp("Honda","I wonder what dreams the merchants had as
+they came to such a distant and foreign
+land...");
 MsgDisp("主人公","I wonder too...
 ｛本多＊＊｝, what's your dream?");
 ChEye(3,5);
@@ -129,7 +129,8 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("Q070300000_03_120");
 MsgDisp("Honda","Eeh, what∋
-Don't give me such a difficult question all of a sudden!");
+Don't give me such a difficult question
+all of a sudden!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -142,24 +143,27 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_140");
-MsgDisp("Honda","Yeah. It's someone who focuses on field research
-and studies everything that exists in nature.");
+MsgDisp("Honda","Yeah. It's someone who focuses on field
+research and studies everything that
+exists in nature.");
 MsgDisp("主人公","Wow!
-That sounds very ｛本多＊＊｝-like.");
+That sounds very ｛本多＊＊｝
+-like.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q070300000_03_150");
 MsgDisp("Honda","Really? I'm glad to hear that, but it
-doesn't quite appeal to me. I always
-ask myself, am I really ok with that?");
+doesn't quite appeal to me. I always ask
+myself, am I really ok with that?");
 MsgDisp("主人公","Eeh?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("Q070300000_03_160");
-MsgDisp("Honda","Like those merchants who came here, I think I should be
-more focused. I'm ready to risk it all.");
+MsgDisp("Honda","Like those merchants who came here, I
+think I should be more focused.
+I'm ready to risk it all.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -167,7 +171,8 @@ VoicePlay("Q070300000_03_170");
 MsgDisp("Honda","Something like that.
 See, your question is too difficult.
 Change it to another one!");
-MsgDisp("主人公","...｛本多＊＊｝ today feels a bit different than usual.");
+MsgDisp("主人公","...｛本多＊＊｝ today feels a bit different
+than usual.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

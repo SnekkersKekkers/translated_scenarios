@@ -116,8 +116,7 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Ha...
-I wish I gave him a better
-chocolate...)");
+I wish I gave him a better chocolate...)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

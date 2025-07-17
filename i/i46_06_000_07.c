@@ -78,9 +78,9 @@ sun, too.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600007_06_080");
-    MsgDisp("Himuro","Nothing... Just thinking that even
-though I've been here longer than you, I'm
-the one being taught.");
+    MsgDisp("Himuro","Nothing... Just thinking that even though
+I've been here longer than you, I'm the
+one being taught.");
     MsgDisp("主人公","Hehe.");
     ChEye(6,1);
     ChMouth(6,0);

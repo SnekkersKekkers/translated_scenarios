@@ -7,8 +7,7 @@ SEWait();
 VoicePlay("C010500000_05_000");
 MsgDisp("Hiiragi","Yes, this is Hiiragi.");
 MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
-It's
-｛主人公苗字｝...");
+It's ｛主人公苗字｝...");
 VoicePlay("C010500000_05_010");
 MsgDisp("Hiiragi","... Yes.
 What business is this regarding?");
@@ -19,8 +18,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010500000_05_020");
-MsgDisp("Hiiragi","...I should have properly spoken with
-you sooner.");
+MsgDisp("Hiiragi","...I should have properly spoken with you
+sooner.");
 VoicePlay("C010500000_05_030");
 MsgDisp("Hiiragi","Because I misunderstood, you were made to
 suffer such unpleasantry.

@@ -3,8 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yeah, I think I'll head home soon.)");
 VoicePlay("E010330200_03_000");
-MsgDisp("Honda?","Kojiro-sensei, I was no good after
-all...");
+MsgDisp("Honda?","Kojiro-sensei, I was no good after all...");
 VoicePlay("E010330200_07_000");
 MsgDisp("Mikage?","Did you borrow a lot of books again?");
 MsgDisp("主人公","Ah, whose voice was that just now?");
@@ -54,8 +53,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("E010330200_03_040");
-MsgDisp("Honda","Haa... you two are laughing, but are
-you serious?");
+MsgDisp("Honda","Haa... you two are laughing, but are you
+serious?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

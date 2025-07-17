@@ -9,8 +9,7 @@ ChMouth(22,0);
 ChMotion(22,0);
 ScrFadeIn(0);
 MsgDisp("主人公","We arrived.
-It's finally the end of the school
-trip...");
+It's finally the end of the school trip...");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);

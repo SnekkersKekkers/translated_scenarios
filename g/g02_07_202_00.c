@@ -34,8 +34,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020720200_07_050");
-MsgDisp("Mikage","...Oh, uh, take good care of
-Yanosuke...");
+MsgDisp("Mikage","...Oh, uh, take good care of Yanosuke...");
 MsgDisp("主人公","(I'm happy ｛御影＊＊｝
 thinks of me that way.)");
 BGMStop();

@@ -32,8 +32,8 @@ Everyone wants to see your professional
 acting.");
 StlEye(5,0,1);
 VoicePlay("D010500400_05_010");
-MsgDisp("Hiiragi","...No, I have been put in charge of
-making the stage props.");
+MsgDisp("Hiiragi","...No, I have been put in charge of making
+the stage props.");
 VoicePlay("D010500400_42_030");
 MsgDisp("Male Student A","I can do that!");
 StlEyeOpenLevel(5,5,1);

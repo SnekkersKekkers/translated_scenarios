@@ -20,9 +20,8 @@ discreet about our relationship. Michiru
 and Hikaru tease me a lot.");
     MsgDisp("主人公","(Is this about the sleepover? Geez,
 ｛みちる＊｝ and
-｛ひかる＊｝ are
-so... ｛七ツ森＊｝,
-sorry.)");
+｛ひかる＊｝ are so...
+｛七ツ森＊｝, sorry.)");
     break ;
     default :
     DbgAssert(1);

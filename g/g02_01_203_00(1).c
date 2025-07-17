@@ -21,8 +21,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("G020120300_01_020");
-MsgDisp("Kazama","Of course not. Don't you have one?
-Like... A preferred fashion?");
+MsgDisp("Kazama","Of course not. Don't you have one? Like...
+A preferred fashion?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

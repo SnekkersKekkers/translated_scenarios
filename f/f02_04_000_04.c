@@ -16,8 +16,8 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("F020400004_04_010");
-MsgDisp("Nanatsumori","Not really... it just means that
-another year has passed.");
+MsgDisp("Nanatsumori","Not really... it just means that another
+year has passed.");
 MsgDisp("主人公","How cool...");
 ChEye(4,0);
 ChMouth(4,0);
@@ -26,8 +26,7 @@ VoicePlay("F020400004_04_020");
 MsgDisp("Nanatsumori","What about you?
 Are you happy on your birthday?");
 MsgDisp("主人公","Getting congratulations, eating cake, and
-opening presents... it's a fun day for
-me.");
+opening presents... it's a fun day for me.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);

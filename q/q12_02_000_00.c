@@ -9,8 +9,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0);
     VoiceEVSPlay(2);
     VoicePlay("Q120200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, thanks for
-wandering around with me.");
+    MsgDisp("Sassa","｛主人公｝, thanks for wandering
+around with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -110,8 +110,8 @@ Me too?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("Q120200000_02_110");
-    MsgDisp("Sassa","Bike renting is also an option.
-...would be a good idea, right?");
+    MsgDisp("Sassa","Bike renting is also an option. ...would
+be a good idea, right?");
     MsgDisp("主人公","Hehe, yeah!");
     MsgDisp("主人公","( ｛颯砂＊＊｝...
 I hope I can come back sometime.)");

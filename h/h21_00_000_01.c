@@ -26,8 +26,7 @@ Let's do our best to help everyone!)");
     ChOpen(2,41,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H210000001_02_020");
-    MsgDisp("Sassa","｛主人公｝, you're the
-manager?");
+    MsgDisp("Sassa","｛主人公｝, you're the manager?");
     MsgDisp("主人公","Yes, I'm looking forward to working with
 you starting today.");
     ChEye(2,0);
@@ -54,8 +53,7 @@ can be of help to everyone!)");
     ChOpen(2,41,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("H210000001_02_040");
-    MsgDisp("Sassa","｛主人公｝, you're the
-manager?");
+    MsgDisp("Sassa","｛主人公｝, you're the manager?");
     MsgDisp("主人公","Yes, I'm looking forward to working with
 you.");
     ChEye(2,0);

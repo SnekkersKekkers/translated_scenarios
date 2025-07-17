@@ -6,8 +6,7 @@ ChMouth(7,4);
 ChMotion(7,5);
 VoiceEVSPlay(7);
 VoicePlay("B070700001_07_530");
-MsgDisp("Mikage","｛主人公｝, are you
-alright?");
+MsgDisp("Mikage","｛主人公｝, are you alright?");
 MsgDisp("主人公","Suddenly, my heart is racing...");
 ChEye(7,2);
 ChMouth(7,4);

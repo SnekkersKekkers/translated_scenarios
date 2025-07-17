@@ -16,8 +16,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130101_01_020");
-MsgDisp("Kazama","...It's been like that around you
-recently too.");
+MsgDisp("Kazama","...It's been like that around you recently
+too.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
 ChMouth(1,0);

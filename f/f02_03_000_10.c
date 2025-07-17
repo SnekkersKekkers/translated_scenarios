@@ -24,9 +24,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("F020300010_03_020");
-MsgDisp("Honda","...Well, to be honest, I was told to
-keep it a secret, but you're special,
-right?");
+MsgDisp("Honda","...Well, to be honest, I was told to keep
+it a secret, but you're special, right?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);

@@ -20,8 +20,8 @@ VoicePlay("G020710303_07_020");
 MsgDisp("Mikage","But today's guy didn't have much sense,
 did he? If it were me, I'd do it a bit
 more elegantly.");
-MsgDisp("主人公","Eh... ehh∈
-｛御影＊＊｝ too?
+MsgDisp("主人公","Eh... ehh∈ ｛御影＊＊｝
+too?
 Are you saying you do that kind of thing∋");
 ChEye(7,4);
 ChMouth(7,0);

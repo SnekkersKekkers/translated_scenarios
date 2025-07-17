@@ -34,9 +34,9 @@ I should've tried harder.)");
     ChMouth(3,4);
     ChMotion(3,2);
     VoicePlay("O040300001_03_020");
-    MsgDisp("Honda","Strange... I'm more frustrated than I
-thought I'd be. Maybe because we were on
-the same team...");
+    MsgDisp("Honda","Strange...
+I'm more frustrated than I thought I'd be.
+Maybe because we were on the same team...");
     MsgDisp("主人公","(Haa... we lost.
 I should've tried harder.)");
     break ;

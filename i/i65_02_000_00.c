@@ -15,8 +15,7 @@ Thank you very much～!");
     ChOpen(2,255,3,0,3,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I650200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, you're
-energetic.");
+    MsgDisp("Sassa","｛主人公｝, you're energetic.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝, what's up?");
     ChEye(2,3);
     ChMouth(2,3);

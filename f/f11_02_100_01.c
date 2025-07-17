@@ -5,8 +5,8 @@ ChOpen(2,254,3,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("F110210001_02_000");
-MsgDisp("Sassa","｛主人公｝, are you
-enjoying the festival?");
+MsgDisp("Sassa","｛主人公｝, are you enjoying the
+festival?");
 MsgDisp("主人公","Yes, ｛颯砂＊＊｝ —");
 ChEye(2,0);
 ChMouth(2,2);

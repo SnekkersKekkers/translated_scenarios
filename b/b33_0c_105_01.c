@@ -140,8 +140,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C10501_07_050");
-MsgDisp("Mikage","｛主人公｝, come on let's
-go!
+MsgDisp("Mikage","｛主人公｝, come on let's go!
 That demonstration is super interesting.");
 MsgDisp("主人公","Hehe, yes!");
 MsgDisp("主人公","(It's not just ｛氷室＊＊｝ and

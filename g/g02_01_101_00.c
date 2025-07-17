@@ -57,8 +57,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_070");
-MsgDisp("Kazama","... But, well, the fact that I'm the
-one here together with you... you know?
+MsgDisp("Kazama","... But, well, the fact that I'm the one
+here together with you... you know?
 Means I'm in the lead, right?");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);

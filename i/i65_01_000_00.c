@@ -85,8 +85,8 @@ But, are you refuelling something?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_080");
-    MsgDisp("Kazama","...Haa, thanks for the full tank of
-high octane.");
+    MsgDisp("Kazama","...Haa, thanks for the full tank of high
+octane.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,3);

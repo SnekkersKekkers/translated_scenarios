@@ -45,8 +45,7 @@ ChMouth(9,4);
 ChMotion(9,0,1);
 VoicePlay("T020940030_09_060");
 MsgDisp("Kuya","If we get accepted to the same university,
-we might cross paths a few times
-there...");
+we might cross paths a few times there...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);

@@ -64,15 +64,14 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110400_01_080");
-MsgDisp("Kazama","That made me break out in a cold
-sweat... I swear I end up saying weird
-stuff when we're here.");
+MsgDisp("Kazama","That made me break out in a cold sweat...
+I swear I end up saying weird stuff when
+we're here.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G020110400_01_090");
-MsgDisp("Kazama","...Wait, is this how I really
-feel...∋");
+MsgDisp("Kazama","...Wait, is this how I really feel...∋");
 MsgDisp("主人公","(I think ｛風真＊＊｝'s fashion
 preferences might be a bit difficult for
 me...)");

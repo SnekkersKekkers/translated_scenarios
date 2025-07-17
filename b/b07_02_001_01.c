@@ -31,8 +31,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_040");
 MsgDisp("Sassa","Stories about playing tag, attending
-sports days, field trips...Maybe they
-are made-up but the field trip thing was
+sports days, field trips...Maybe they are
+made-up but the field trip thing was
 interesting.");
 ChEye(2,0);
 ChMouth(2,3);
@@ -62,9 +62,9 @@ ChMotion(2,3);
 VoicePlay("B070200001_02_080");
 MsgDisp("Sassa","He's definitely making that up, right?
 Kindergartners don't do that.");
-MsgDisp("主人公","(Hehe! ...But somehow that doesn't seem
-too far off from ｛颯砂＊＊｝
-right now.)");
+MsgDisp("主人公","(Hehe!
+... But somehow that doesn't seem too far
+off from ｛颯砂＊＊｝ right now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

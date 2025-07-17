@@ -4,8 +4,8 @@ ScrFadeIn(0);
 ChOpen(7,254,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("X210700000_07_000");
-MsgDisp("Mikage","｛主人公｝,
-congratulations on Rose Queen!");
+MsgDisp("Mikage","｛主人公｝, congratulations on
+Rose Queen!");
 MsgDisp("主人公","Thank you very much.
 I wonder if I'm really the right choice...");
 ChEye(7,0);
@@ -66,7 +66,7 @@ VoicePlay("X210700000_07_080");
 MsgDisp("Mikage","Congratulations.
 It somewhat makes me want to cry too.");
 MsgDisp("主人公","(Thank you very much,
-｛御影＊＊｝...)");
+｛御影＊＊｝... )");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

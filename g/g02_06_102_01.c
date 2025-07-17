@@ -46,9 +46,9 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610201_06_060");
-MsgDisp("Himuro","...Never mind. Anyway, that's
-impossible. If I show any weakness, I'll
-be taken advantage of.");
+MsgDisp("Himuro","...Never mind. Anyway, that's impossible.
+If I show any weakness, I'll be taken
+advantage of.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -9,8 +9,8 @@ MsgClose();
 ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200500_02_000");
-MsgDisp("Sassa","｛主人公｝, can I help out
-with something?");
+MsgDisp("Sassa","｛主人公｝, can I help out with
+something?");
 MsgDisp("主人公","No, I'm fine.
 ｛颯砂＊＊｝, good luck.");
 ChEye(2,0);
@@ -97,9 +97,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200500_02_060");
-MsgDisp("Sassa","Sigh...Alright. From now on the
-strategy is to keep a steady pace and aim
-for a high score!");
+MsgDisp("Sassa","Sigh...Alright. From now on the strategy
+is to keep a steady pace and aim for a
+high score!");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);

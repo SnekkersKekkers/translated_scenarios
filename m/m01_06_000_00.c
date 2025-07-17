@@ -75,8 +75,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("M010600000_06_100");
-MsgDisp("Himuro","Haa... No matter how much of a rush I
-was in, it's no excuse. I'll go get it.");
+MsgDisp("Himuro","Haa... No matter how much of a rush I was
+in, it's no excuse. I'll go get it.");
 MsgDisp("主人公","Eh, right now?
 No, you don't have to!");
 ChEye(6,0);

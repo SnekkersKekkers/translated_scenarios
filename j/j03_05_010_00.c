@@ -5,12 +5,11 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Oh, it's a call from
-｛柊＊＊＊｝.)");
+｛柊＊＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030501000_05_000");
     MsgDisp("Hiiragi","Hi it's Hiiragi.
 Thank you for your message.
@@ -34,8 +33,7 @@ I can't wait for
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030501000_05_020");
     MsgDisp("Hiiragi","Hello, this is Hiiragi.");
     MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
@@ -58,12 +56,11 @@ I can't wait for
     case 4:
     case 5:
     MsgDisp("主人公","(Oh, it's a call from
-｛柊＊＊＊｝.)");
+｛柊＊＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, it's
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030501000_05_050");
     MsgDisp("Hiiragi","I'm Hiiragi.
 Sorry I couldn't get to the phone.");

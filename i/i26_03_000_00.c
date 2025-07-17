@@ -109,7 +109,7 @@ cry. The customers are waiting for your
 smile, so smile!");
     MsgDisp("主人公","(Haa...
 I made a lot of extra work for
-｛本多＊＊｝.)");
+｛本多＊＊｝. )");
     break ;
     default :
     DbgAssert(1);

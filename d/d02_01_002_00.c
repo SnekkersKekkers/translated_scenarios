@@ -108,7 +108,7 @@ ChEye(36,0);
 MsgDisp("主人公","Hehe, right.");
 BGMStop();
 MsgDisp("主人公","(｛風真＊＊｝ seems to have a good
-relationship with his Grandpa? He said
-he's different from his father...)");
+relationship with his Grandpa?
+He said he's different from his father...)");
 MsgClose();
 ScrFadeOut(0,0);

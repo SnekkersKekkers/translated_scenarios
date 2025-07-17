@@ -14,8 +14,8 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(5);
     VoicePlay("H4A0500000_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, my
-congratulations for winning.");
+    MsgDisp("Hiiragi","｛主人公｝, my congratulations for
+winning.");
     MsgDisp("主人公","｛柊＊＊＊｝, thank you!");
     ChEye(5,3);
     VoicePlay("H4A0500000_05_010");

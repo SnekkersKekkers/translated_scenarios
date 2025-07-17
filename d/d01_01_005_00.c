@@ -1,13 +1,13 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Come to think of it, the other day
-on the rooftop ｛風真＊＊｝ was
-on the phone with his parents...)");
+MsgDisp("主人公","(...Come to think of it, the other day on
+the rooftop ｛風真＊＊｝ was on
+the phone with his parents...)");
 MsgDisp("主人公","(It sounded like they were talking about
 something serious...)");
 SEPlay("EV_SE_577");
 Wait(50,0);
-MsgDisp("主人公","(Eh∋ it's from ｛風真＊＊｝.)");
+MsgDisp("主人公","(Eh∋ it's from ｛風真＊＊｝. )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 Wait(30,0);
@@ -132,9 +132,9 @@ ChMotion(1,0);
 VoicePlay("D010100500_01_120");
 MsgDisp("Kazama","Yep.
 That flavor is better for me, after all.");
-MsgDisp("主人公","(｛風真＊＊｝...Like I thought, maybe
-his parents are still asking him to come
-back to England...?)");
+MsgDisp("主人公","(｛風真＊＊｝...Like I thought, maybe his
+parents are still asking him to come back
+to England...?)");
 BGMStop();
 SEVol(0.7,0);
 MsgClose();

@@ -40,8 +40,7 @@ I'll be cheering you on, okay?");
 MsgDisp("主人公","Yes...!
 Thank you very much.");
 MsgDisp("主人公","(I'm happy that my efforts and
-achievements are being recognized...
-I'm glad I worked hard in handicrafts
-club!)");
+achievements are being recognized... I'm
+glad I worked hard in handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

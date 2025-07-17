@@ -14,8 +14,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,8);
 VoicePlay("E010310000_03_010");
-MsgDisp("Honda","Huhu, is it possible that you
-also～...?");
+MsgDisp("Honda","Huhu, is it possible that you also～...?");
 MsgDisp("主人公","Eh?
 What?");
 ChEye(3,0);

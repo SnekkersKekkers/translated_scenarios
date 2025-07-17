@@ -2,9 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's tie to go home now.)");
-MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is
-over there, huh. Let's go for a chat
-before heading home.)");
+MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over
+there, huh. Let's go for a chat before
+heading home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -45,8 +45,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100400_48_000");
-MsgDisp("School Girl","Kyaa... next to her is the
-young-master, Kazama Ryota!
+MsgDisp("School Girl","Kyaa... next to her is the young-master,
+Kazama Ryota!
 I wonder if they're going out?");
 ChEye(1,1);
 ChMouth(1,0);

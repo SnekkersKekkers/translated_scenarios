@@ -9,8 +9,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010320100_03_000");
-MsgDisp("Honda","｛主人公｝, you went to
-the flea market too?");
+MsgDisp("Honda","｛主人公｝, you went to the flea
+market too?");
 MsgDisp("主人公","Ah, ｛本多＊＊｝ too?");
 ChEye(3,0);
 ChMouth(3,3);

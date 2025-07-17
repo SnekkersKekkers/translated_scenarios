@@ -26,8 +26,7 @@ It's finished.");
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("S060300000_03_010");
-    MsgDisp("Honda","｛主人公｝, sorry for the
-wait.
+    MsgDisp("Honda","｛主人公｝, sorry for the wait.
 Happy New Year!");
     MsgDisp("主人公","Happy New Year.
 I'm ready to go.");

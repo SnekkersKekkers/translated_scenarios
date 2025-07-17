@@ -10,8 +10,8 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200602_02_000");
-MsgDisp("Sassa","｛主人公｝, I just jumped
-all the hurdles as I imagined them.");
+MsgDisp("Sassa","｛主人公｝, I just jumped all the
+hurdles as I imagined them.");
 MsgDisp("主人公","Yeah, it's a better time than the last
 track meet.");
 ChEye(2,0);
@@ -34,9 +34,9 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200602_02_020");
-MsgDisp("Sassa","｛主人公｝, thanks to you,
-I've been able to practice to my fullest
-these days.");
+MsgDisp("Sassa","｛主人公｝, thanks to you, I've
+been able to practice to my fullest these
+days.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

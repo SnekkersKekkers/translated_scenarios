@@ -47,8 +47,7 @@ SEStop("EV_SE_511",2);
 StlEyeOpenLevel(1,5);
 StlMouth(1,1);
 VoicePlay("D010100400_01_020");
-MsgDisp("Kazama","...It feels like time froze, doesn't
-it?");
+MsgDisp("Kazama","...It feels like time froze, doesn't it?");
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D010100400_01_030");
 MsgDisp("Kazama","Okay, just three more seconds like this.");

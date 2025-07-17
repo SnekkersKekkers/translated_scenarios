@@ -20,8 +20,7 @@ MsgClose();
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("F110710002_07_000");
-MsgDisp("Mikage","｛主人公｝, are you having
-fun?");
+MsgDisp("Mikage","｛主人公｝, are you having fun?");
 MsgDisp("主人公","Oh, ｛御影＊＊｝.
 Um, that outfit...");
 ChEye(7,0);

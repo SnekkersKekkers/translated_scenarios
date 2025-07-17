@@ -23,8 +23,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630000_06_030");
-MsgDisp("Himuro","But...from my perspective, those two
-are very similar.");
+MsgDisp("Himuro","But...from my perspective, those two are
+very similar.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -55,8 +55,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630000_06_080");
-MsgDisp("Himuro","...But if I say things like that, I'll
-be left behind in no time.");
+MsgDisp("Himuro","...But if I say things like that, I'll be
+left behind in no time.");
 MsgDisp("主人公","Left behind...?");
 ChEye(6,0);
 ChMouth(6,0);

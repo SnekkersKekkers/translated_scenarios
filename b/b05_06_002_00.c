@@ -19,9 +19,9 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B050600200_06_020");
-MsgDisp("Himuro","Lonely...? So what? Are you going to
-stay here for the rest of your life and
-play with him?");
+MsgDisp("Himuro","Lonely...? So what? Are you going to stay
+here for the rest of your life and play
+with him?");
 MsgDisp("主人公","Eh?");
 ChEye(6,1);
 ChMouth(6,0);
@@ -81,8 +81,8 @@ Being alone is easy.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600200_06_090");
-MsgDisp("Himuro","... But you know, deep down don't you
-want friends too?
+MsgDisp("Himuro","... But you know, deep down don't you want
+friends too?
 That's why I can't leave you alone there.");
 SEPlay("EV_SE_839");
 SEWait();

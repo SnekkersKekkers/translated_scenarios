@@ -72,9 +72,9 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("F100540002_07_050");
-MsgDisp("Mikage","｛主人公｝, that's why you
-should rest assured. Dinner will be even
-more delicious than usual.");
+MsgDisp("Mikage","｛主人公｝, that's why you should
+rest assured. Dinner will be even more
+delicious than usual.");
 MsgDisp("主人公","Ummm...?");
 ChEye(7,0);
 ChMouth(7,3);

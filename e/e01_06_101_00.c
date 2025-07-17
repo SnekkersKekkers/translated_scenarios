@@ -23,8 +23,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_020");
-MsgDisp("Himuro","...I got separated from my little
-brother.");
+MsgDisp("Himuro","...I got separated from my little brother.");
 MsgDisp("主人公","Eh... brother∋
 ｛氷室＊＊｝, you have a little
 brother?");
@@ -120,8 +119,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(I'm glad he's safe... I also got to
-see what the relationship between
+MsgDisp("主人公","(I'm glad he's safe... I also got to see
+what the relationship between
 ｛氷室＊＊｝ and his brother is
 like.)");
 MsgClose();

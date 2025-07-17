@@ -4,8 +4,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110401_01_000");
 MsgDisp("Kazama","When you see a view like this, you start
-to wonder where to go next for a
-date...");
+to wonder where to go next for a date...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

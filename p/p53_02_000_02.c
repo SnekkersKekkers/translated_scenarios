@@ -62,9 +62,9 @@ last three years?)");
     ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200002_02_040");
-    MsgDisp("Sassa","｛主人公｝. I guess this
-is the last time I'll hear you play...
-It's somewhat lonely.");
+    MsgDisp("Sassa","｛主人公｝. I guess this is the
+last time I'll hear you play... It's
+somewhat lonely.");
     MsgDisp("主人公","Yeah, that's right huh.");
     ChEye(2,0);
     ChMouth(2,0);

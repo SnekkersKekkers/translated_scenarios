@@ -11,9 +11,9 @@ huh...");
 VoicePlay("G110300600_42_000");
 MsgDisp("Manager","Honda-kun's ＰＯＰ is great, huh?
 One day I'll ask you to do one too.");
-MsgDisp("主人公","Ah, yes! I don't think I can do it like
-｛本多＊＊｝, but it looks
-fun...");
+MsgDisp("主人公","Ah, yes!
+I don't think I can do it like
+｛本多＊＊｝, but it looks fun...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

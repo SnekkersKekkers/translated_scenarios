@@ -114,7 +114,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q070100000_01_100");
-MsgDisp("Kazama","But in my situation, I was just following my parents.");
+MsgDisp("Kazama","But in my situation, I was just following
+my parents.");
 MsgDisp("主人公","The challenges are the same though.");
 ChEye(1,4);
 ChMouth(1,4);

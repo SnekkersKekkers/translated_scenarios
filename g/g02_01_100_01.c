@@ -3,8 +3,7 @@ ChOpen(1,255,1,4,2,0,#1,0,0);
 Wait(12,0);
 ChEye(1,0);
 VoicePlay("G020110001_01_000");
-MsgDisp("Kazama","... This is the Home of Fireflies,
-right?
+MsgDisp("Kazama","... This is the Home of Fireflies, right?
 Doesn't it kinda smell like roses?");
 MsgDisp("主人公","Huh...?");
 ChEye(1,0);
@@ -33,8 +32,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020110001_01_040");
-MsgDisp("Kazama","It's why...even in the UK, I'd ask my
-mom to make cookies all the time...");
+MsgDisp("Kazama","It's why...even in the UK, I'd ask my mom
+to make cookies all the time...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);

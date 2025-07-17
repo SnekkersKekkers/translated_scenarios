@@ -1,5 +1,4 @@
-MsgDisp("主人公","｛御影＊＊｝, I
-guess...");
+MsgDisp("主人公","｛御影＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);

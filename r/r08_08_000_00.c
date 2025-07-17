@@ -92,8 +92,7 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 VoiceEVSPlay(8);
 VoicePlay("R080800000_08_090");
-MsgDisp("Shirahane","｛主人公｝, give me your
-hand.");
+MsgDisp("Shirahane","｛主人公｝, give me your hand.");
 MsgDisp("主人公","Ah... okay.");
 MsgClose();
 ScrFadeOut(0);
@@ -216,8 +215,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoiceEVSPlay(8);
 VoicePlay("R080800000_08_220");
-MsgDisp("Shirahane","｛主人公｝, Merry
-Christmas.");
+MsgDisp("Shirahane","｛主人公｝, Merry Christmas.");
 MsgDisp("主人公","Merry Christmas, ｛大地＊＊｝.");
 VoicePlay("R080800000_08_230");
 MsgDisp("Shirahane","Thank you... for being here.");

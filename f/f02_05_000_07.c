@@ -47,7 +47,6 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F020500007_05_050");
 MsgDisp("Hiiragi","You could say that. And the scent of burnt
-soy sauce... ...huh? Can you smell
-that?");
+soy sauce... ...huh? Can you smell that?");
 MsgDisp("主人公","Haha.
 Now I'm hungry, too.");

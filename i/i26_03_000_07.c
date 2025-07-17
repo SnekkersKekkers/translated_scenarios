@@ -26,8 +26,8 @@ the new books. I'll do that.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_770");
-    MsgDisp("Honda","...You know, I feel like my work
-routine has been getting faster lately.");
+    MsgDisp("Honda","...You know, I feel like my work routine
+has been getting faster lately.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -92,8 +92,7 @@ I'll go get changed quickly!");
     ChMotion(3,2,1);
     VoicePlay("I260300000_03_850");
     MsgDisp("Honda","Da-...
-We somehow got through the peak
-hours...");
+We somehow got through the peak hours...");
     MsgDisp("主人公","Good work.
 It's the first time I've seen you this
 tired, ｛本多＊＊｝.");

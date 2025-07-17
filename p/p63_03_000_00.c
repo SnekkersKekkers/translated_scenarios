@@ -22,8 +22,8 @@ Welcome!");
     ChMotion(3,4,1);
     VoiceEVSPlay(3);
     VoicePlay("P630300000_03_010");
-    MsgDisp("Honda","｛主人公｝, is it the
-aroma of fresh herbs I wonder?
+    MsgDisp("Honda","｛主人公｝, is it the aroma of
+fresh herbs I wonder?
 It's drawing me in.");
     MsgDisp("主人公","Then, in the meantime, how about some tea
 and cookies?");

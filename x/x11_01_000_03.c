@@ -12,8 +12,7 @@ switch (ChPrmGet(1,6)){
 I heard you did a really difficult move.
 Just don't do anything too dangerous.");
     MsgDisp("主人公","Yeah, thanks!");
-    MsgDisp("主人公","(Receiving a compliment makes me
-happy...
+    MsgDisp("主人公","(Receiving a compliment makes me happy...
 I'll try not to worry him too much!)");
     break ;
     case 4:

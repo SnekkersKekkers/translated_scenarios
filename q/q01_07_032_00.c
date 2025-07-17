@@ -39,8 +39,8 @@ ChMouth(7,0);
 VoicePlay("Q010703200_07_030");
 MsgDisp("Mikage","Ah...");
 VoicePlay("Q010703200_42_030");
-MsgDisp("Male Student","Yikes, it's the Vice Principal∈
-Everyone, hide!");
+MsgDisp("Male Student","Yikes, it's the Vice Principal∈ Everyone,
+hide!");
 SEPlay("EV_SE_739",0,0.6);
 MsgClose();
 ScrFadeOut(0);
@@ -104,8 +104,8 @@ They feel so close...)");
 	MsgDisp("主人公","(Ooh, I can't move!
 Teachers, please leave already～ ∈)");
 	VoicePlay("Q010703200_32_050");
-	MsgDisp("VP Himuro","Jeez...If they have this much energy,
-they should use it to write a report. And
+	MsgDisp("VP Himuro","Jeez...If they have this much energy, they
+should use it to write a report. And
 then—");
 	VoicePlay("Q010703200_32_060");
 	MsgDisp("VP Himuro","Mikage, I want you to come with me.");

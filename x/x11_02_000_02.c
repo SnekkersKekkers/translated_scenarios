@@ -30,9 +30,9 @@ Let's practice harder!)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("X110200002_02_020");
-    MsgDisp("Sassa","｛主人公｝, I heard you
-won all of your practice matches by one
-point? That's amazing.");
+    MsgDisp("Sassa","｛主人公｝, I heard you won all of
+your practice matches by one point?
+That's amazing.");
     MsgDisp("主人公","Yeah, thank you ｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,4);

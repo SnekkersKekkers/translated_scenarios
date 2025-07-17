@@ -10,8 +10,7 @@ switch (ChPrmGet(3,6)){
     SEStop("EV_SE_577",0);
     SEWait();
     MsgDisp("主人公","Hello.
-｛主人公苗字｝
-speaking");
+｛主人公苗字｝ speaking");
     VoicePlay("J030301001_03_000");
     MsgDisp("Honda","Hey, it's me.
 Is this a good time?

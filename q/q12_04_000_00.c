@@ -9,8 +9,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("Q120400000_04_000");
     MsgDisp("Nanatsumori","Here we are.");
-    MsgDisp("主人公","So this is the end of the school
-trip...");
+    MsgDisp("主人公","So this is the end of the school trip...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);

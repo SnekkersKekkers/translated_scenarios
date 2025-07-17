@@ -59,7 +59,7 @@ Oh, I need to cool my head!");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChClose(2);
 MsgDisp("主人公","(Eh, what's wrong?
-｛颯砂＊＊｝...)");
+｛颯砂＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

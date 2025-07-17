@@ -9,8 +9,7 @@ ChOpen(2,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("D120A00000_01_000");
-MsgDisp("Kazama","｛主人公｝, let's eat
-together.");
+MsgDisp("Kazama","｛主人公｝, let's eat together.");
 MsgDisp("主人公","Ah, lunch with everyone?
 Hehe, we're really close, huh?");
 ChEye(6,0);

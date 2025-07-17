@@ -4,8 +4,7 @@ SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("I640000000_08_000");
 MsgDisp("Shirahane","Yes, it's Stallion Gasoline!");
-MsgDisp("主人公","I'm
-｛主人公苗字｝.
+MsgDisp("主人公","I'm ｛主人公苗字｝.
 Oh, is that you, ｛大地＊＊｝?");
 VoicePlay("I640000000_08_010");
 MsgDisp("Shirahane","Oh, it's you!
@@ -47,15 +46,13 @@ Sorry...");
     MsgDisp("Shirahane","Got it.
 I'll tell the manager.");
     VoicePlay("I640000000_08_090");
-    MsgDisp("Shirahane","We won't be seeing each other, I
-guess...
+    MsgDisp("Shirahane","We won't be seeing each other, I guess...
 See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","It's not like we can't-
 ｛大地＊＊｝ seemed really
-sad... I wonder if I did the right
-thing.");
+sad... I wonder if I did the right thing.");
     MsgDisp("","(I quit my job at Stallion Gasoline.)");
     break ;
     default :

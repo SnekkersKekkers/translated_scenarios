@@ -90,8 +90,8 @@ VoicePlay("G020130200_01_110");
 MsgDisp("Kazama","I'm excited to go to the cafeteria
 together.");
 MsgDisp("主人公","(Right, ｛風真＊＊｝ lives
-alone. Of course he'd want to have fun
-meals...)");
+alone.
+Of course he'd want to have fun meals...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

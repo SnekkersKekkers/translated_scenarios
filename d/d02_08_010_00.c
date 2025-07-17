@@ -47,8 +47,7 @@ ChMotion(8,5,1);
 ChCheek(8,8);
 VoicePlay("D020801000_08_060");
 MsgDisp("Shirahane","Ah, my bad.
-It's like I'm confessing or
-something...");
+It's like I'm confessing or something...");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);

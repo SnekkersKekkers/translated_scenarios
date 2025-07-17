@@ -63,8 +63,7 @@ him and get rid all the thorns!");
     StlEyeOpenLevel(21,5,1);
     StlEye(22,0);
     MsgDisp("主人公","(Eehh∋
-That's how the people around me
-feel...?)");
+That's how the people around me feel...?)");
     break ;
     case 4:
     case 5:

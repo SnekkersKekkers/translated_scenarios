@@ -72,7 +72,7 @@ MsgDisp("主人公","Hehe.
 Yeah, thank you.");
 MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are
 worried about me and
-｛御影＊＊｝.)");
+｛御影＊＊｝. )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

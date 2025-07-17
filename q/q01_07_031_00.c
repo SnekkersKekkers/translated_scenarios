@@ -20,15 +20,18 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Q010703100_07_020");
-MsgDisp("Mikage","Going to bed and whispering with you friends, having girl talk.
+MsgDisp("Mikage","Going to bed and whispering with you
+friends, having girl talk.
 Even I know about that stuff.");
-MsgDisp("主人公","｛御影＊＊｝ has experience with that sort of thing?");
+MsgDisp("主人公","｛御影＊＊｝ has
+experience with that sort of thing?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q010703100_07_030");
 MsgDisp("Mikage","None at all.
-Honestly, I wish I could experience it too.");
+Honestly, I wish I could experience it
+too.");
 SEPlay("EV_SE_863",0,0.1);
 SEPlay("EV_SE_868",0,0.2);
 SEPlay("EV_SE_867",0,0.2);
@@ -43,7 +46,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q010703100_07_050");
-MsgDisp("Mikage","You should go have fun in your room too! Or better yet, get some sleep!");
+MsgDisp("Mikage","You should go have fun in your room too!
+Or better yet, get some sleep!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","Okay!");

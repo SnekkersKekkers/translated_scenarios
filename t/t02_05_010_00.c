@@ -56,8 +56,7 @@ ChMotion(5,2);
 Wait(12,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("T020501000_05_050");
-MsgDisp("Hiiragi","Thank you ...but the reality is
-different.");
+MsgDisp("Hiiragi","Thank you ...but the reality is different.");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
 ChMouth(5,4);

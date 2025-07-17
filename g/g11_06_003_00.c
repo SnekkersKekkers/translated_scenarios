@@ -63,8 +63,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600300_06_070");
-MsgDisp("Himuro","...And, if you feel like it, contact
-me.");
+MsgDisp("Himuro","...And, if you feel like it, contact me.");
 MsgDisp("主人公","Eh?
 Contact you...");
 ChEye(6,2);

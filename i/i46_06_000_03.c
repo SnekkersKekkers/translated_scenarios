@@ -75,8 +75,8 @@ because it was too big...");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_060");
-    MsgDisp("Himuro","Honestly... haven't you done this with
-the ribbons a million times now?");
+    MsgDisp("Himuro","Honestly... haven't you done this with the
+ribbons a million times now?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

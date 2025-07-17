@@ -5,8 +5,7 @@ MsgDisp("Hiiragi","Speaking of which, I was asked about you
 in the student council a bit ago.");
 ChMotion(5,4);
 VoicePlay("G020510001_05_010");
-MsgDisp("Hiiragi","They asked, 'Is she your
-girlfriend?'...");
+MsgDisp("Hiiragi","They asked, 'Is she your girlfriend?'...");
 MsgDisp("主人公","Ehhh∋");
 ChEye(5,2);
 ChEyeOpenLevel(5,9);

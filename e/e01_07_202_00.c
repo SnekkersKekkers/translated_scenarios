@@ -51,9 +51,9 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("E010720200_07_020");
-MsgDisp("Mikage","Thats right. We both like animals and the
-outdoors... We have quite a lot in
-common.");
+MsgDisp("Mikage","Thats right.
+We both like animals and the outdoors...
+We have quite a lot in common.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -93,8 +93,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,8);
 VoicePlay("E010720200_02_050");
-MsgDisp("Sassa","I think there's another thing in
-common...");
+MsgDisp("Sassa","I think there's another thing in common...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

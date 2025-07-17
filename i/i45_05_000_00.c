@@ -13,8 +13,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,2,2,8,#1,0,0);
     VoicePlay("I450500000_05_010");
     MsgDisp("Hiiragi","... Oh my?
-Why are you... are we back at the
-school?");
+Why are you... are we back at the school?");
     MsgDisp("主人公","Huh?
 This is flower shop Annallee.
 ｛柊＊＊＊｝, what is it?");

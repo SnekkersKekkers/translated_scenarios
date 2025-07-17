@@ -9,8 +9,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020120200_01_010");
-MsgDisp("Kazama","...Geez, you're so carefree, aren't
-you?");
+MsgDisp("Kazama","...Geez, you're so carefree, aren't you?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

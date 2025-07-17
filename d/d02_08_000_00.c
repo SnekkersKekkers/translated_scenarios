@@ -54,8 +54,7 @@ you'll see that I'm just as good as \"Haba
 High's Young Master\"～?");
 MsgDisp("主人公","(Hehe! ｛風真＊＊｝ and
 ｛大地＊＊｝ are completely
-different, but I think I can see
-it...!)");
+different, but I think I can see it...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

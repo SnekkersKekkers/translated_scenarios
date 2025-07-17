@@ -64,9 +64,8 @@ again.");
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040203302_02_060");
-        MsgDisp("Sassa","...Now that I think about it, this
-place has the same vibe as a Haunted
-House.");
+        MsgDisp("Sassa","...Now that I think about it, this place
+has the same vibe as a Haunted House.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,4);

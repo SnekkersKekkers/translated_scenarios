@@ -22,8 +22,7 @@ MsgDisp("Mikage","Don't make that face. I'll help out, make
 some adjustments during the break and
 increase the difficulty.");
 MsgDisp("主人公","(Ugh...
-I should have prepared more
-properly...)");
+I should have prepared more properly...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

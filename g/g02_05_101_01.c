@@ -20,8 +20,7 @@ I like that expression of yours.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020510101_05_030");
-MsgDisp("Hiiragi","Speaking of having something to
-oneself...
+MsgDisp("Hiiragi","Speaking of having something to oneself...
 You're not just mine either?");
 MsgDisp("主人公","｛柊＊＊＊｝...?");
 ChEye(5,4);

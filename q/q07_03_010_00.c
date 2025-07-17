@@ -48,8 +48,8 @@ StlMouth(3,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q070301000_03_010");
-MsgDisp("Honda","｛主人公｝, sorry for
-keeping you waiting.");
+MsgDisp("Honda","｛主人公｝, sorry for keeping you
+waiting.");
 MsgDisp("主人公","No, I'm fine.
 But it really is impressive that so many
 know about you, ｛本多＊＊｝.");
@@ -67,7 +67,8 @@ MsgDisp("Honda","Earlier, I felt a little sad.");
 StlEye(3,0,0);
 StlEyeOpenLevel(3,0,1);
 VoicePlay("Q070301000_03_040");
-MsgDisp("Honda","I've never felt like that before. Our time together got interrupted...
+MsgDisp("Honda","I've never felt like that before.
+Our time together got interrupted...
 I didn't like it at all.");
 MsgDisp("主人公","｛本多＊＊｝...?");
 StlEye(3,0);
@@ -86,7 +87,8 @@ StlEye(3,3);
 StlMouth(3,2);
 VoicePlay("Q070301000_03_050");
 MsgDisp("Honda","Shhh.
-If you don't turn around, they won't notice us, okay?");
+If you don't turn around, they won't
+notice us, okay?");
 MsgDisp("主人公","Eh?");
 StlEye(3,2);
 StlMouth(3,1);
@@ -105,14 +107,15 @@ BGMVol(0.5,2);
 ChOpen(3,254,4,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070301000_03_070");
-MsgDisp("Honda","Even though I had no choice, I felt a bit guilty.");
+MsgDisp("Honda","Even though I had no choice, I felt a bit
+guilty.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q070301000_03_080");
-MsgDisp("Honda","For me, the most important thing is spending the
-free period with you.
+MsgDisp("Honda","For me, the most important thing is
+spending the free period with you.
 Come on, let's go!");
 MsgDisp("主人公","Yeah!
 Thanks, ｛本多＊＊｝.");

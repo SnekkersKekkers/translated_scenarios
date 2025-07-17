@@ -69,8 +69,8 @@ again, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(I'm already a third year since
-spring...I hope I can go with
+    MsgDisp("主人公","(I'm already a third year since spring...I
+hope I can go with
 ｛御影＊＊｝ again next
 year...)");
     break ;

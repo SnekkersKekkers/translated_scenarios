@@ -46,8 +46,8 @@ I will be successful in this event.");
     ChOpen(5,30,0,4,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("O040501000_05_040");
-    MsgDisp("Hiiragi","｛主人公｝, we seem to be
-on the same team.");
+    MsgDisp("Hiiragi","｛主人公｝, we seem to be on the
+same team.");
     MsgDisp("主人公","｛柊＊＊＊｝, let's do our best!");
     ChEye(5,0);
     ChMouth(5,3);

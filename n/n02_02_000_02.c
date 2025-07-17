@@ -31,8 +31,7 @@ Well that's good.");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200002_02_020");
-    MsgDisp("Sassa","｛主人公｝, how did your
-exams go?");
+    MsgDisp("Sassa","｛主人公｝, how did your exams go?");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 Hmm, average I guess...");
     ChEye(2,0);

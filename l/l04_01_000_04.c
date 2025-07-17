@@ -89,8 +89,8 @@ power must be amazing.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100004_01_100");
-    MsgDisp("Kazama","...Hey, this chocolate is a combination
-of my taste and your sense, right?");
+    MsgDisp("Kazama","...Hey, this chocolate is a combination of
+my taste and your sense, right?");
     MsgDisp("主人公","Hehe, kind of like our child?");
     ChEye(1,0);
     ChMouth(1,3);

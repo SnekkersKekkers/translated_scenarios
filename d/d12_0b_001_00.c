@@ -27,8 +27,8 @@ MsgDisp("Kazama","No way.
 That timing right now, it was definitely
 me.");
 VoicePlay("D120B00100_04_000");
-MsgDisp("Nanatsumori","...You know, how would you even go
-about proving this experiment?");
+MsgDisp("Nanatsumori","...You know, how would you even go about
+proving this experiment?");
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00100_03_010");
 MsgDisp("Honda","I can tell by the way she looked at me.
@@ -75,9 +75,9 @@ StlClose();
 BGOpen("sc130",1);
 Wait(15,1);
 ScrFadeIn(0);
-MsgDisp("主人公","(They're all waving together...Hehe!
-It's probably who ｛本多＊＊｝
-comes up with such weird games for them to
+MsgDisp("主人公","(They're all waving together...Hehe! It's
+probably who ｛本多＊＊｝ comes
+up with such weird games for them to
 play?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -29,9 +29,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630101_06_040");
-MsgDisp("Himuro","...If I think about it, you're more
-like a flower. Like when butterflies and
-bees flock around the smell of nectar.");
+MsgDisp("Himuro","...If I think about it, you're more like a
+flower. Like when butterflies and bees
+flock around the smell of nectar.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -43,8 +43,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630101_06_060");
-MsgDisp("Himuro","Then maybe... you're not a flower, but
-a water well?");
+MsgDisp("Himuro","Then maybe... you're not a flower, but a
+water well?");
 MsgDisp("主人公","Eh, well?");
 ChEye(6,0);
 ChMouth(6,0);

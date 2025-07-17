@@ -30,9 +30,9 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020740002_07_030");
 MsgDisp("Mikage","'It seems like you've left some of your
-assignments unattended. Settle
-them.'... is what it told me. I still
-have those dreams..");
+assignments unattended. Settle them.'...
+is what it told me. I still have those
+dreams..");
 MsgDisp("主人公","Hehe, is that so?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -46,8 +46,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020740002_07_050");
 MsgDisp("Mikage","It wasn't wrong. I have some assignments
-I've been putting off... I know they
-need to be finished.");
+I've been putting off... I know they need
+to be finished.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);

@@ -1,7 +1,7 @@
 BGOpen("sc500",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Oh yeah. It's been a while since
-I've visited the Track and Field club.)");
+MsgDisp("主人公","(...Oh yeah. It's been a while since I've
+visited the Track and Field club.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);

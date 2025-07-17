@@ -44,8 +44,7 @@ Let's live without any regrets!)");
     ChEyeOpenLevel(8,10);
     VoicePlay("S120800004_08_030");
     MsgDisp("Shirahane","It's our last New Year's visit while we're
-in high school, but somehow I want
-more...");
+in high school, but somehow I want more...");
     MsgDisp("主人公","Eh?");
     ChEye(8,2);
     ChMouth(8,0);

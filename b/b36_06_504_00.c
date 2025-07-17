@@ -32,9 +32,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650400_06_030");
-MsgDisp("Himuro","...Well, before, I used to think
-couples walking around places like this
-was nonsense.");
+MsgDisp("Himuro","...Well, before, I used to think couples
+walking around places like this was
+nonsense.");
 MsgDisp("主人公","Huh, is that so?");
 ChEye(6,0);
 ChMouth(6,0);

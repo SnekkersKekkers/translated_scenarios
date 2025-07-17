@@ -15,8 +15,8 @@ ChOpen(1,255,0,0,3,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("B330A20700_01_000");
-MsgDisp("Kazama","｛主人公｝, you're the
-type animals are drawn to.");
+MsgDisp("Kazama","｛主人公｝, you're the type
+animals are drawn to.");
 MsgDisp("主人公","Is that so?
 They're cute, so I'm happy.");
 ChEye(6,0);

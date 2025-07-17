@@ -42,9 +42,9 @@ ChMotion(2,4);
 VoicePlay("G020210401_02_050");
 MsgDisp("Sassa","Looking at the long run, the time I get to
 spend with you now might be special.");
-MsgDisp("主人公","(I see... maybe these three years at
-Haba High School are a special period
-after all.)");
+MsgDisp("主人公","(I see... maybe these three years at Haba
+High School are a special period after
+all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

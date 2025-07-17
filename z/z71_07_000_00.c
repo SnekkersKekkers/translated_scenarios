@@ -78,17 +78,17 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("Z710700000_07_060");
-MsgDisp("Mikage","｛主人公｝, it looks like
-we have extra time again this year, so
-let's have an interesting question.");
+MsgDisp("Mikage","｛主人公｝, it looks like we have
+extra time again this year, so let's have
+an interesting question.");
 MsgDisp("主人公","What?
 Interesting...");
 SEStop("EV_SE_743",2);
 VoicePlay("Z710700000_42_040");
 MsgDisp("Male Student A","Mikagecchi, how awful!
 You're too much!");
-MsgDisp("主人公","Um... Ah! Please tell us about the cow
-on the blackboard.");
+MsgDisp("主人公","Um... Ah! Please tell us about the cow on
+the blackboard.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

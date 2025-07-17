@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("K020101100_01_000");
-MsgDisp("Kazama","｛主人公｝, do you have
-some more time?
+MsgDisp("Kazama","｛主人公｝, do you have some more
+time?
 I didn't mean for this to take so long.");
 MsgDisp("主人公","Hm?");
 ChEye(1,4);

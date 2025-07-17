@@ -87,7 +87,7 @@ ChMouth(1,2);
 VoicePlay("G020120200_01_110");
 MsgDisp("Kazama","Listen, I'm getting to the goal first.");
 MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝
-is talking about ｛颯砂＊＊｝...)");
+is talking about ｛颯砂＊＊｝... )");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

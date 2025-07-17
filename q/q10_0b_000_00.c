@@ -111,8 +111,7 @@ VoicePlay("Q100B00000_01_040");
 MsgDisp("Kazama","How about a light udon for lunch, and the
 chanpon ramen at night?");
 MsgDisp("主人公","(Hmmm?
-Dinner is served at the hotel,
-right...?)");
+Dinner is served at the hotel, right...?)");
 ChMouth(1,2);
 ChEye(3,1);
 ChMouth(3,3);

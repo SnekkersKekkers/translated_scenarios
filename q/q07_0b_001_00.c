@@ -35,7 +35,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q070B00100_03_010");
-MsgDisp("Honda","Heyhey, since we have the opportunity, why don't we take one together?");
+MsgDisp("Honda","Heyhey, since we have the opportunity, why
+don't we take one together?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
@@ -45,7 +46,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q070B00100_01_010");
-MsgDisp("Kazama","You. Next to me.");
+MsgDisp("Kazama","You.
+Next to me.");
 ChMouth(1,0);
 MsgDisp("主人公","Eh?");
 ChEye(3,3);

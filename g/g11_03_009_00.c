@@ -9,8 +9,8 @@ BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300900_03_000");
-MsgDisp("Honda","｛主人公｝, today is going
-to be busy.
+MsgDisp("Honda","｛主人公｝, today is going to be
+busy.
 Let's do our best!");
 MsgClose();
 ScrFadeOut(0);
@@ -71,8 +71,7 @@ VoicePlay("G110300900_03_060");
 MsgDisp("Honda","Right?");
 MsgDisp("主人公","(I have a feeling he's saying something
 amazing... But, if we could open that
-store, I think it would be really
-fun...)");
+store, I think it would be really fun...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

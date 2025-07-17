@@ -10,8 +10,7 @@ It looks like the boys are playing
 soccer.)");
 VoiceEVSPlay(5);
 VoicePlay("G110500700_05_000");
-MsgDisp("Hiiragi?","｛主人公｝, don't look
-away, okay?");
+MsgDisp("Hiiragi?","｛主人公｝, don't look away, okay?");
 SEStop("EV_SE_834",2);
 MsgClose();
 ScrFadeOut(0,0,30);

@@ -125,8 +125,8 @@ VoicePlay("D030900100_09_100");
 MsgDisp("Kuya?","You should \"exercise\" frequently too so
 you can be prepared for anything.
 That way you won't have any worries.");
-MsgDisp("主人公","Ah...Right. I usually work on my
-\"fitness\" in various ways.");
+MsgDisp("主人公","Ah...Right. I usually work on my \"fitness\"
+in various ways.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

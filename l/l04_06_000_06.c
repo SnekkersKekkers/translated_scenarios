@@ -33,8 +33,8 @@ chocolate...)");
     ChMotion(6,2,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600006_06_020");
-    MsgDisp("Himuro","...How do I say this, do you want an
-award for doing your best?");
+    MsgDisp("Himuro","...How do I say this, do you want an award
+for doing your best?");
     MsgDisp("主人公","Ugh, sorry...");
     ChEye(6,0);
     ChMouth(6,4);

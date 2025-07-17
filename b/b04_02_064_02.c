@@ -5,9 +5,9 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040206402_02_000");
-MsgDisp("Sassa","Woah...That guy in the Yakisoba stall
-was cracking eggs one after another with
-just one hand.");
+MsgDisp("Sassa","Woah...That guy in the Yakisoba stall was
+cracking eggs one after another with just
+one hand.");
 MsgDisp("主人公","It was really amazing!");
 ChEye(2,0);
 ChMouth(2,4);

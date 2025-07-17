@@ -74,8 +74,8 @@ There's a huge audience...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_070");
-    MsgDisp("Sassa","｛主人公｝, I came to
-listen to some gaming music.");
+    MsgDisp("Sassa","｛主人公｝, I came to listen to
+some gaming music.");
     MsgDisp("主人公","｛颯砂＊＊｝.
 Thank you.");
     ChEye(2,0);

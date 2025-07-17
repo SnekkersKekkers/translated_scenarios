@@ -47,8 +47,8 @@ MsgDisp("Mikage","That's right.
 Even if I haven't done anything I'll get
 in trouble just for dressing like this.");
 MsgDisp("主人公","Hehe.
-... Ah, I came to collect the handouts
-for our extracurricular activities.");
+... Ah, I came to collect the handouts for
+our extracurricular activities.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

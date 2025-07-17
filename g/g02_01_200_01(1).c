@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(1,255,0,4,2,#1,#1,0,0);
 VoicePlay("G020120001_01_000");
-MsgDisp("Kazama","It's beautiful but... they're
-desperately shining to find a partner.");
+MsgDisp("Kazama","It's beautiful but... they're desperately
+shining to find a partner.");
 MsgDisp("主人公","I see.");
 ChEye(1,4);
 ChMouth(1,2);

@@ -116,8 +116,7 @@ have only scared me..");
         ChMotion(4,1,1);
         VoiceEVSPlay(4);
         VoicePlay("B040408202_04_130");
-        MsgDisp("Nanatsumori","｛主人公｝, you
-understand, right?
+        MsgDisp("Nanatsumori","｛主人公｝, you understand, right?
 How I feel.");
         MsgDisp("主人公","(I understand how he feels, but...
 The ｛七ツ森＊｝ who's

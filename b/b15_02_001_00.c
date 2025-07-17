@@ -64,6 +64,6 @@ attack on my way home. See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(I wonder if I've troubled
-｛颯砂＊＊｝...)");
+｛颯砂＊＊｝... )");
 MsgClose();
 ScrFadeOut(0,0);

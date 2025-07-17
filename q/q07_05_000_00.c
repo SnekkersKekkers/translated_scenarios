@@ -47,8 +47,8 @@ MsgDisp("Hiiragi","It's amazing.
 It looks taller than the keep of Habataki
 Castle.");
 MsgDisp("主人公","Hehe, yes.
-Ah... but the castle, it's on top of
-Mount Habataki.");
+Ah... but the castle, it's on top of Mount
+Habataki.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -103,7 +103,8 @@ MsgDisp("主人公","Yes...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_090");
-MsgDisp("Hiiragi","Nagasaki is lovely, but, do you miss Habataki City?");
+MsgDisp("Hiiragi","Nagasaki is lovely, but, do you miss
+Habataki City?");
 MsgDisp("主人公","No, since it's only been three days.
 What about you, ｛柊＊＊＊｝?");
 ChEye(5,2);
@@ -122,7 +123,8 @@ MsgDisp("主人公","Hehe, I see.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("Q070500000_05_120");
-MsgDisp("Hiiragi","The chairperson is off-duty for a bit longer.");
+MsgDisp("Hiiragi","The chairperson is off-duty for a bit
+longer.");
 MsgDisp("主人公","( ｛柊＊＊＊｝... I hope you at
 least have some fun during the school
 trip, free from responsibilities.)");

@@ -43,8 +43,7 @@ Hearing that so early in the New Year, it
 made me laugh.");
     VoicePlay("S030600000_06_070");
     MsgDisp("Himuro","So, what can I do for you?
-... Perhaps this is a shrine
-invitation?");
+... Perhaps this is a shrine invitation?");
     MsgDisp("主人公","Oh, yeah.
 Would you like to go?");
     break ;

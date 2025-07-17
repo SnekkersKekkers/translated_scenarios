@@ -54,9 +54,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_070");
-MsgDisp("Kazama","...Well, being here alone with
-you... means we're in a dominant
-position, right?");
+MsgDisp("Kazama","...Well, being here alone with you...
+means we're in a dominant position, right?");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
 ChMouth(1,2);

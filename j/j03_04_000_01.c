@@ -37,8 +37,8 @@ Well then.");
 Ah-.");
     MsgDisp("主人公","Perhaps you have a prior engagement?");
     VoicePlay("J030400001_04_060");
-    MsgDisp("Nanatsumori","Yeah. I can't leave this one
-out...Nope, nope. Sorry.");
+    MsgDisp("Nanatsumori","Yeah. I can't leave this one out...Nope,
+nope. Sorry.");
     MsgDisp("主人公","Ahh.
 I'll ask you out again?");
     VoicePlay("J030400001_04_070");

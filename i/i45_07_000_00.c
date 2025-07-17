@@ -86,8 +86,7 @@ Thanks.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("I450700000_07_080");
-    MsgDisp("Mikage","...Are you curious who I'm giving it
-to?");
+    MsgDisp("Mikage","...Are you curious who I'm giving it to?");
     MsgDisp("主人公","Will you tell me?");
     ChEye(7,0);
     ChMouth(7,0);

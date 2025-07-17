@@ -27,8 +27,7 @@ Nothing more than that.");
 this deserves some credit.
 So... head up.");
     MsgDisp("主人公","Yeah, thanks.");
-    MsgDisp("主人公","(We lost, but I'm glad we made it
-here...)");
+    MsgDisp("主人公","(We lost, but I'm glad we made it here...)");
     break ;
     case 4:
     case 5:

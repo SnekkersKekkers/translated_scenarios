@@ -76,8 +76,8 @@ You've got me all figured out, huh?");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("L040400004_04_070");
-    MsgDisp("Nanatsumori","What? That smile. My heart is
-pounding... Thanks.");
+    MsgDisp("Nanatsumori","What? That smile. My heart is pounding...
+Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

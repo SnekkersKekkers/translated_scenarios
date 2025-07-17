@@ -62,8 +62,7 @@ well received though...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P630200000_02_050");
-    MsgDisp("Sassa","｛主人公｝, I came to
-visit.");
+    MsgDisp("Sassa","｛主人公｝, I came to visit.");
     MsgDisp("主人公","Nice to see you, welcome～!");
     ChEye(2,0);
     ChMouth(2,4);

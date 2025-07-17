@@ -23,9 +23,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020200000_02_020");
-MsgDisp("Sassa","...I've been running ever since I
-started track and field in elementary
-school.");
+MsgDisp("Sassa","...I've been running ever since I started
+track and field in elementary school.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -65,8 +64,7 @@ ChMotion(2,0);
 VoicePlay("T020200000_02_080");
 MsgDisp("Sassa","Because if I do that, my dreams will never
 come true.");
-MsgDisp("主人公","｛颯砂＊＊｝ is not a bad
-guy...");
+MsgDisp("主人公","｛颯砂＊＊｝ is not a bad guy...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

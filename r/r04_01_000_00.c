@@ -19,8 +19,7 @@ Merry Christmas.");
     ChMouth(1,3);
     VoiceEVSPlay(1);
     VoicePlay("R040100000_01_010");
-    MsgDisp("Kazama","｛主人公｝, Merry
-Christmas.");
+    MsgDisp("Kazama","｛主人公｝, Merry Christmas.");
     MsgDisp("主人公","Ah, ｛風真＊＊｝!
 Merry Christmas.");
     ChEye(1,3);

@@ -26,8 +26,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoiceEVSPlay(2);
 VoicePlay("G020210001_02_030");
-MsgDisp("Sassa","｛主人公｝, thanks for
-today...");
+MsgDisp("Sassa","｛主人公｝, thanks for today...");
 MsgDisp("主人公","Umm...
 ｛颯砂＊＊｝, I also had fun...");
 ChEye(2,0);
@@ -40,8 +39,8 @@ ChMouth(2,4);
 ChMotion(2,1);
 VoiceEVSPlay(2);
 VoicePlay("G020210001_02_050");
-MsgDisp("Sassa","｛主人公｝, I like being
-number one.");
+MsgDisp("Sassa","｛主人公｝, I like being number
+one.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);

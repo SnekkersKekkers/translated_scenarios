@@ -53,8 +53,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210101_02_070");
-MsgDisp("Sassa","Ryota's inner thoughts...usually show
-on his face?");
+MsgDisp("Sassa","Ryota's inner thoughts...usually show on
+his face?");
 MsgDisp("主人公","Then what about ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,2);

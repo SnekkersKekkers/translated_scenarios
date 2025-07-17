@@ -117,9 +117,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D010200400_02_130");
-MsgDisp("Sassa","Sigh...I can't believe my heart rate
-rose like that. It's like when you train
-at a high altitude with less oxygen.");
+MsgDisp("Sassa","Sigh...I can't believe my heart rate rose
+like that. It's like when you train at a
+high altitude with less oxygen.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

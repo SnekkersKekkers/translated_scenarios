@@ -71,8 +71,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 MsgDisp("主人公","(｛柊＊＊＊｝, Looks like he's pushing
-himself too hard after all... Even if
-it's just a little, I want to help him.)");
+himself too hard after all... Even if it's
+just a little, I want to help him.)");
 BGMStop();
 SEStop("EV_SE_712",1);
 MsgClose();

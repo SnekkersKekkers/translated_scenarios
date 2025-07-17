@@ -8,8 +8,7 @@ switch (ChPrmGet(3,6)){
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, this is
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, this is ｛主人公苗字｝.");
     VoicePlay("J030301000_03_000");
     MsgDisp("Honda","Hello.
 This is about the voicemail!");
@@ -31,12 +30,11 @@ On ｛日付｝, I can't
 wait for that to come!)");
     break ;
     case 3:
-    MsgDisp("主人公","(Oh, it's from ｛本多＊＊｝.)");
+    MsgDisp("主人公","(Oh, it's from ｛本多＊＊｝. )");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, this is
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, this is ｛主人公苗字｝.");
     VoicePlay("J030301000_03_030");
     MsgDisp("Honda","Hey hey.
 Listen, about the voicemail.");
@@ -62,8 +60,7 @@ I can't wait for
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Yes, this is
-｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, this is ｛主人公苗字｝.");
     VoicePlay("J030301000_03_060");
     MsgDisp("Honda","Oh, it's me.
 Sorry, I couldn't answer your call.");

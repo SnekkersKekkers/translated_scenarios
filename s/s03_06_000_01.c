@@ -15,8 +15,8 @@ See you soon then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay! ｛氷室＊＊｝ and I are going
-to the shrine together! ...What should
-I wear?)");
+to the shrine together! ...What should I
+wear?)");
     break ;
     case 3:
     VoicePlay("S030600001_06_020");

@@ -35,8 +35,7 @@ prestigious Haba High, you know?");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020501030_05_040");
-MsgDisp("Hiiragi","...I barely passed with my grades
-though.");
+MsgDisp("Hiiragi","...I barely passed with my grades though.");
 MsgDisp("主人公","Hehe, yes...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);

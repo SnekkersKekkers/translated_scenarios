@@ -59,8 +59,7 @@ the freshly squeezed milk?");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P130400000_04_050");
-    MsgDisp("Nanatsumori","Hearing you say that makes me
-curious...");
+    MsgDisp("Nanatsumori","Hearing you say that makes me curious...");
     MsgDisp("主人公","The maze is also fun?");
     ChEye(4,4);
     ChMouth(4,4);

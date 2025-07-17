@@ -8,8 +8,8 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, ｛柊＊＊＊｝ sent me a
 message.)");
-MsgDisp("主人公","(It says...\"I want you to come and see
-the Habataki Theater Company's new play\"
+MsgDisp("主人公","(It says...\"I want you to come and see the
+Habataki Theater Company's new play\"
 Eh...Right now∋)");
 MsgClose();
 ScrFadeOut(0,0);

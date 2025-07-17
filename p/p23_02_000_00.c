@@ -18,8 +18,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,38,3,3,3,0,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P230200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, that outfit is
-nice.");
+    MsgDisp("Sassa","｛主人公｝, that outfit is nice.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","｛颯砂＊＊｝ also looks like the

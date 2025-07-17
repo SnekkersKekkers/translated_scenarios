@@ -52,8 +52,8 @@ her. You should settle this on your
 own.");
 MsgClear();
 BGOpen("ad131",0);
-MsgDisp("","｛主人公名前｝... I've
-known. From the day of the entrance
+MsgDisp("","｛主人公名前｝... I've known.
+From the day of the entrance
 ceremony.");
 MsgDisp("","The reason why I'm here, isn't to
 keep the promise I made with Dad.");

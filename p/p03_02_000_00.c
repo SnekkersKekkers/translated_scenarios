@@ -53,8 +53,8 @@ come...)");
     ChOpen(2,254,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P030200000_02_030");
-    MsgDisp("Sassa","｛主人公｝, I was lured
-here by the smell of those dango.");
+    MsgDisp("Sassa","｛主人公｝, I was lured here by
+the smell of those dango.");
     MsgDisp("主人公","It's ｛颯砂＊＊｝!
 Welcome!");
     ChEye(2,0);

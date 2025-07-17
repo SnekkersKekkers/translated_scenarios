@@ -129,8 +129,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D130B00101_04_030");
-MsgDisp("Nanatsumori","...Should we all shed a few tears of
-joy together?");
+MsgDisp("Nanatsumori","...Should we all shed a few tears of joy
+together?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0,1);

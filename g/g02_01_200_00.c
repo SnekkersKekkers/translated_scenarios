@@ -9,8 +9,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120000_01_010");
-MsgDisp("Kazama","I tried not to think about it... but
-that didn't work out.
+MsgDisp("Kazama","I tried not to think about it... but that
+didn't work out.
 That guy just gets on my nerves.");
 ChEye(1,1);
 ChMouth(1,2);

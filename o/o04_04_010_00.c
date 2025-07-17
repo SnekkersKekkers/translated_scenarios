@@ -34,8 +34,7 @@ Looking forward to it!");
     ChMotion(4,1,1);
     VoicePlay("O040401000_04_020");
     MsgDisp("Nanatsumori","Ah, aah.
-... You, aren't serious about this,
-right?");
+... You, aren't serious about this, right?");
     break ;
     case 4:
     case 5:

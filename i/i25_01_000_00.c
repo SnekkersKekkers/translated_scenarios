@@ -39,8 +39,8 @@ Do you have any magazines on fly fishing?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I250100000_01_030");
-    MsgDisp("Kazama","...You don't have what I was looking
-for. But, you did your job properly.
+    MsgDisp("Kazama","... You don't have what I was looking for.
+But, you did your job properly.
 Thanks.");
     MsgDisp("主人公","Hehe, you're welcome.");
     ChEye(1,0);

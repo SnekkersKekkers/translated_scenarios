@@ -122,8 +122,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("D010500200_05_030");
-MsgDisp("Hiiragi","｛主人公｝, were you
-watching?
+MsgDisp("Hiiragi","｛主人公｝, were you watching?
 It's my first ever goal.");
 MsgDisp("主人公","Nice, congratulations!");
 ChEye(5,0);

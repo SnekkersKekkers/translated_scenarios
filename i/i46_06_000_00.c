@@ -78,7 +78,7 @@ Thanks!");
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600000_06_070");
     MsgDisp("Himuro","......");
-    MsgDisp("主人公","(I troubled ｛氷室＊＊｝...)");
+    MsgDisp("主人公","(I troubled ｛氷室＊＊｝... )");
     break ;
     default :
     DbgAssert(1);

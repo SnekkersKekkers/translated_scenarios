@@ -11,8 +11,8 @@ SEWait();
 ChOpen(3,254,1,0,4,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P740300003_03_000");
-MsgDisp("Honda","｛主人公｝, you're not
-injured right?");
+MsgDisp("Honda","｛主人公｝, you're not injured
+right?");
 MsgDisp("主人公","Ah, ｛本多＊＊｝.
 I'm alright, but I failed.");
 ChEye(3,4);

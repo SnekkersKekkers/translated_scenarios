@@ -16,8 +16,7 @@ ChMouth(8,3);
 ChMotion(8,1,1);
 VoicePlay("D010800000_08_010");
 VoiceEVSPlay(8);
-MsgDisp("Daichi","We came to visit,
-｛主人公｝.");
+MsgDisp("Daichi","We came to visit, ｛主人公｝.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -89,8 +88,8 @@ StlMouth(9,0);
 ScrFadeIn(0);
 VoicePlay("D010800000_08_050");
 MsgDisp("Daichi","Over there is my class!
-This year we made a disco... but it
-looks like it's already over.");
+This year we made a disco... but it looks
+like it's already over.");
 MsgDisp("主人公","Disco...?
 I would have wanted to see that.");
 StlEyeOpenLevel(9,5,1);
@@ -193,8 +192,8 @@ ChMouth(9,4);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D010800000_09_070");
-MsgDisp("Kuya","Ah...Dai-chan, the time! If we don't
-help clean up, we'll ruin all those good
+MsgDisp("Kuya","Ah...Dai-chan, the time! If we don't help
+clean up, we'll ruin all those good
 memories.");
 ChEye(8,2);
 ChMouth(8,1);

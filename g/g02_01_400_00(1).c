@@ -64,8 +64,8 @@ VoicePlay("G020140000_01_080");
 MsgDisp("Kazama","If we could teach them the rules or
 criteria, maybe these fireflies could have
 it a little easier too...");
-MsgDisp("主人公","(｛風真＊＊｝...it doesn't seem like
-you're talking about fireflies...)");
+MsgDisp("主人公","(｛風真＊＊｝...it doesn't seem like you're
+talking about fireflies...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

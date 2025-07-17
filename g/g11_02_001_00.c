@@ -85,6 +85,6 @@ MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Phew...
 I'm a bit tired but It was fun running
-with ｛颯砂＊＊｝.)");
+with ｛颯砂＊＊｝. )");
 MsgClose();
 ScrFadeOut(0,0);

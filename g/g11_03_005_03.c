@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, I'm finally done with the cash
 register. Huh? Where's
-｛本多＊＊｝...)");
+｛本多＊＊｝... )");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

@@ -1,8 +1,8 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Phew, I had a big lunch. I think
-I'll spend the rest of my break on the
+MsgDisp("主人公","(...Phew, I had a big lunch. I think I'll
+spend the rest of my break on the
 rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

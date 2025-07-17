@@ -16,7 +16,8 @@ switch (ChPrmGet(2,6)){
     StlMouth(21,0);
     VoicePlay("U130D00001_21_000");
     MsgDisp("Michiru","Hmm.
-While he's seems to be interested in romance...");
+While he's seems to be interested in
+romance...");
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
     VoicePlay("U130D00001_22_000");

@@ -81,8 +81,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("D130C00001_07_030");
-MsgDisp("Mikage","｛主人公｝, don't make
-Inori so worked up, okay?");
+MsgDisp("Mikage","｛主人公｝, don't make Inori so
+worked up, okay?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

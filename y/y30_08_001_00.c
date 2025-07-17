@@ -3,9 +3,8 @@ BGMPlay("BGM_C08_DAICHI_I",0.01);
 BGOpen("ad810",0);
 ScrFadeIn(0);
 MsgDisp("主人公","\"Starting from today, I'll be working
-here. I'm
-｛主人公苗字｝.
-I look forward to working with you!\"");
+here. I'm ｛主人公苗字｝. I look
+forward to working with you!\"");
 MsgDisp("","A cheerful and lively voice echoes
 through our workplace.");
 MsgClear();

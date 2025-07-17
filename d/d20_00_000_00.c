@@ -95,8 +95,8 @@ ChMouth(31,2);
 ChMotion(31,0);
 VoicePlay("D200000000_31_090");
 MsgDisp("Goro","That's right. Young people with shimmering
-talent hidden within... Beautiful
-Diamonds in the Rough!");
+talent hidden within... Beautiful Diamonds
+in the Rough!");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);

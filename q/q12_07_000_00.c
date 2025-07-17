@@ -58,7 +58,7 @@ report.");
     ChClose(7);
     MsgDisp("主人公","(Hehe! That was so much fun. I want to
 write about it. Thank you,
-｛御影＊＊｝.)");
+｛御影＊＊｝. )");
     break ;
     case 4:
     case 5:
@@ -105,8 +105,8 @@ Will you also remember,
 Good memories last forever.
 So, enjoy your school trip to the end!");
     ChClose(7);
-    MsgDisp("主人公","(Good memories last forever... I hope
-the school trip with
+    MsgDisp("主人公","(Good memories last forever... I hope the
+school trip with
 ｛御影＊＊｝ will be a
 memory of a lifetime.)");
     break ;

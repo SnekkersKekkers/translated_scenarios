@@ -59,8 +59,7 @@ VoicePlay("E010340000_22_040");
 MsgDisp("Hikaru","Even if Dahon sympathizes with me, it's a
 bit weird...
 What do you think, Mari?");
-MsgDisp("主人公","Well... both are unique I like them
-both.");
+MsgDisp("主人公","Well... both are unique I like them both.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -92,7 +91,6 @@ BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Chiru-chan... He's talking about
 ｛みちる＊｝, right? That
-seems like it could be a problem
-too...)");
+seems like it could be a problem too...)");
 MsgClose();
 ScrFadeOut(0,0);

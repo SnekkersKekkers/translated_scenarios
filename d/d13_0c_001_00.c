@@ -13,8 +13,7 @@ ChOpen(7,34,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("D130C00100_07_000");
-MsgDisp("Mikage","｛主人公｝, are you having
-fun?");
+MsgDisp("Mikage","｛主人公｝, are you having fun?");
 MsgDisp("主人公","Yes, because I'm together with everyone.");
 ChEye(5,4);
 ChMouth(5,4);

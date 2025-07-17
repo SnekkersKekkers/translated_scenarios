@@ -10,8 +10,8 @@ VoicePlay("G020530201_05_010");
 MsgDisp("Hiiragi","When girls hang out together, what kind of
 things do they do?");
 MsgDisp("主人公","I see, well... They do things like go
-shopping, sing karaoke and eat
-sweets... Many things?");
+shopping, sing karaoke and eat sweets...
+Many things?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

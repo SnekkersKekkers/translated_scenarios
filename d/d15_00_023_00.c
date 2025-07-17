@@ -56,8 +56,8 @@ VoicePlay ( "D150002300_02_030" ) ;
 MsgDisp ( "Sassa","Nah, she's like me.
 The type that likes to eat the best things
 first." ) ;
-MsgDisp ( "主人公","(Uhm...That's hard to answer. I guess
-I'll just leave that up in the air.)" ) ;
+MsgDisp ( "主人公","(Uhm...That's hard to answer. I guess I'll
+just leave that up in the air.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

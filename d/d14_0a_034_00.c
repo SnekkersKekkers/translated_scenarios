@@ -6,8 +6,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("D140A03400_01_000");
-MsgDisp("Kazama","｛主人公｝, what class do
-we have in the afternoon?");
+MsgDisp("Kazama","｛主人公｝, what class do we have
+in the afternoon?");
 MsgDisp("主人公","Biology.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -114,8 +114,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoiceEVSPlay(1);
 VoicePlay("D140A03400_01_050");
-MsgDisp("Kazama","｛主人公｝, that's kind of
-forced.");
+MsgDisp("Kazama","｛主人公｝, that's kind of forced.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

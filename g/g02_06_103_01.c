@@ -57,9 +57,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610301_06_080");
-MsgDisp("Himuro","...I'll probably be sleep-deprived
-again today. Because I'll remember your
-scent from now when I'm in my room.");
+MsgDisp("Himuro","...I'll probably be sleep-deprived again
+today. Because I'll remember your scent
+from now when I'm in my room.");
 MsgDisp("主人公","(I feel like I'm being told something
 great...)");
 BGMStop();

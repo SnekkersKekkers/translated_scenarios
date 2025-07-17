@@ -38,8 +38,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,2);
     ChMotion(2,5);
     VoicePlay("B040203201_02_030");
-    MsgDisp("Sassa","Eh, don't say such scary things... I
-guess it's true that water does conduct
+    MsgDisp("Sassa","Eh, don't say such scary things... I guess
+it's true that water does conduct
 electricity. It's dangerous, let's go
 inside.");
     MsgDateResultDisp();

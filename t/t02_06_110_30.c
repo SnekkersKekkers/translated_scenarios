@@ -50,8 +50,8 @@ VoicePlay("T020611000_06_220");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","｛主人公｝,
-congratulations on your graduation.");
+MsgDisp("Himuro","｛主人公｝, congratulations on
+your graduation.");
 VoicePlay("T020611000_06_230");
 ChEye(6,2);
 ChMouth(6,3);

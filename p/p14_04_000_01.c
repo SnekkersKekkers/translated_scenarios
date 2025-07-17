@@ -24,9 +24,9 @@ VoicePlay("P140400001_04_020");
 MsgDisp("Nanatsumori","Even though it's a maze, there's no way to
 get lost. You should be moderate with the
 user-friendly design.");
-MsgDisp("主人公","(Ugh... I should have been more
-diligent to make it more enjoyable...
-What a massive failure...)");
+MsgDisp("主人公","(Ugh... I should have been more diligent
+to make it more enjoyable... What a
+massive failure...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

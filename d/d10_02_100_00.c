@@ -34,8 +34,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(A white podium, huh... Huh? I feel
-like I've seen something like that
-before...)");
+MsgDisp("主人公","(A white podium, huh... Huh? I feel like
+I've seen something like that before...)");
 MsgClose();
 ScrFadeOut(0);

@@ -111,9 +111,9 @@ was doing well in both studies and sports.");
 VoicePlay("T020801000_08_090");
 ChEye(8,4);
 ChMouth(8,4);
-MsgDisp("Shirahane","But...the excitement I felt due to you
-and to Haba High, made me begin to feel
-like something was missing...");
+MsgDisp("Shirahane","But...the excitement I felt due to you and
+to Haba High, made me begin to feel like
+something was missing...");
 VoicePlay("T020801000_08_100");
 ChEye(8,2);
 ChMouth(8,4);

@@ -3,8 +3,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620201_06_000");
-MsgDisp("Himuro","...You're falling for it just as he
-wants.");
+MsgDisp("Himuro","...You're falling for it just as he wants.");
 MsgDisp("主人公","Eh, what do you mean?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -33,8 +32,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620201_06_040");
 MsgDisp("Himuro","That's right.
-Well... it just shows how badly he
-wants to have you.");
+Well... it just shows how badly he wants
+to have you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

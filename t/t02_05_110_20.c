@@ -19,8 +19,8 @@ ChEyeOpenLevel(5,9);
 ChCheek(5,0);
 VoiceEVSPlay(5);
 VoicePlay("T020511020_05_010");
-MsgDisp("Hiiragi","｛主人公｝, I could do all
-that because of you.");
+MsgDisp("Hiiragi","｛主人公｝, I could do all that
+because of you.");
 MsgDisp("主人公","Eh, me...");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);

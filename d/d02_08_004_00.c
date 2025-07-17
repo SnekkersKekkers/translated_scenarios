@@ -6,9 +6,9 @@ ChOpen(8,35,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(8);
 VoicePlay("D020800400_08_000");
-MsgDisp("Shirahane","｛主人公｝, it's already
-break time, yeah? I'll finish up here so
-you can go back to the office first.");
+MsgDisp("Shirahane","｛主人公｝, it's already break
+time, yeah? I'll finish up here so you can
+go back to the office first.");
 MsgDisp("主人公","Okay.
 I'll make some tea then.
 Do you want the same as usual?");

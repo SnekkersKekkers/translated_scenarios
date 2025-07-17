@@ -5,8 +5,8 @@ MsgDisp("主人公","(Phew, I bought a lot of souvenirs!
 But where did ｛柊＊＊＊｝ go?)");
 SEPlay("EV_SE_771");
 SEWait();
-MsgDisp("主人公","(Ah... A cute sound! It's from that
-shop. I should take a peek!)");
+MsgDisp("主人公","(Ah... A cute sound! It's from that shop.
+I should take a peek!)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0,0);

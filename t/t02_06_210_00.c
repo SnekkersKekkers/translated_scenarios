@@ -30,9 +30,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,10);
 VoicePlay("T020621000_06_030");
-MsgDisp("Himuro","... But since entering high school,
-it's just been a series of unbelievable
-events for me.");
+MsgDisp("Himuro","... But since entering high school, it's
+just been a series of unbelievable events
+for me.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -27,8 +27,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("K020400000_04_020");
-MsgDisp("Nanatsumori","｛主人公｝, happy
-birthday.");
+MsgDisp("Nanatsumori","｛主人公｝, happy birthday.");
 MsgDisp("主人公","Thank you, ｛七ツ森＊｝.");
 ChMotion(4,1,1);
 VoicePlay("K020400000_04_030");

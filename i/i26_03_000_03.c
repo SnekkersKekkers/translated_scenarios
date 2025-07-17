@@ -40,8 +40,7 @@ Sorry.");
 back into the box?");
     MsgDisp("主人公","Y, yes.");
     MsgDisp("主人公","(Even though I've done returns so many
-times, I still made a rookie
-mistake...)");
+times, I still made a rookie mistake...)");
     break ;
     case 4:
     case 5:

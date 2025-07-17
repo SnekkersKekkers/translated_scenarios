@@ -14,8 +14,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("L010D00107_21_000");
-MsgDisp("Michiru","This is... something you might not want
-to give.");
+MsgDisp("Michiru","This is... something you might not want to
+give.");
 MsgDisp("主人公","Ugh...
 I messed up a bit...");
 MsgClose();

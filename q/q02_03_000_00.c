@@ -121,7 +121,8 @@ going around together");
         ChMouth(3,3);
         ChMotion(3,0,1);
         VoicePlay("Q020300000_03_110");
-        MsgDisp("Honda","I guess I'll switch to Plan B. Have fun on your end, too.");
+        MsgDisp("Honda","I guess I'll switch to Plan B.
+Have fun on your end, too.");
         MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :

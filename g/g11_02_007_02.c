@@ -43,8 +43,8 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200702_02_020");
-MsgDisp("Sassa","｛主人公｝, let's run
-together to cool down.");
+MsgDisp("Sassa","｛主人公｝, let's run together to
+cool down.");
 MsgDisp("主人公","Yes.
 How was it?
 Did you have a good practice?");
@@ -99,8 +99,8 @@ SEStop("EV_SE_FOOT_037",2);
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I'm glad... it looks like they were
-able to train more carefree than usual.
+MsgDisp("主人公","(I'm glad... it looks like they were able
+to train more carefree than usual.
 I'm grateful to Mikage-sensei!)");
 MsgClose();
 ScrFadeOut(0,0);

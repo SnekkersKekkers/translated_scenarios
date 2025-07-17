@@ -22,8 +22,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220100_02_030");
 MsgDisp("Sassa","Yeah. I thought I was leading next to you,
-but I got surpassed... Now it feels
-like I'm looking at their back.");
+but I got surpassed... Now it feels like
+I'm looking at their back.");
 MsgDisp("主人公","Um...");
 ChEye(2,2);
 ChMouth(2,4);

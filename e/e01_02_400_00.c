@@ -102,8 +102,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("E010240000_21_050");
 MsgDisp("Michiru","I'm so sorry to have involved you.
-It's just that, alone with a boy,
-I'm...");
+It's just that, alone with a boy, I'm...");
 MsgDisp("主人公","(Is ｛みちる＊｝
 embarrassed to be alone with a boy?
 Maybe she's not used to it.)");

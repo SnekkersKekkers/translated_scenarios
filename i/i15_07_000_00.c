@@ -81,8 +81,8 @@ purchase.");
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("I150700000_07_070");
-    MsgDisp("Mikage","You... when was it that you became so
-good at business...");
+    MsgDisp("Mikage","You... when was it that you became so good
+at business...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -140,8 +140,7 @@ Alright, show me something you recommend.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I150700000_07_130");
-    MsgDisp("Mikage","I definitely bought too much with
-this...");
+    MsgDisp("Mikage","I definitely bought too much with this...");
     MsgDisp("主人公","｛御影＊＊｝, are you
 okay?");
     ChEye(7,0);

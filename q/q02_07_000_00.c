@@ -147,7 +147,8 @@ spend this free period together with him!)");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("Q020700000_07_150");
-        MsgDisp("Mikage","I knew it...Coming all this way just to attend a lesson? I'd say no too, I guess.");
+        MsgDisp("Mikage","I knew it...Coming all this way just to
+attend a lesson? I'd say no too, I guess.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
         MsgDisp("主人公","(Hmmm...

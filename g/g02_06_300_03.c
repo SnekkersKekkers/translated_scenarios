@@ -50,8 +50,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630003_06_070");
-MsgDisp("Himuro","...Though, there are parts I don't want
-to imitate and parts I can't imitate.");
+MsgDisp("Himuro","...Though, there are parts I don't want to
+imitate and parts I can't imitate.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

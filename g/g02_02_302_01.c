@@ -40,8 +40,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230201_02_050");
-MsgDisp("Sassa","Haa... they look prettier than I
-thought.
+MsgDisp("Sassa","Haa... they look prettier than I thought.
 I really think it's because of you.");
 ChEye(2,0);
 ChMouth(2,0);

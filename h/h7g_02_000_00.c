@@ -42,8 +42,8 @@ you've accomplished something amazing.
 Congrats");
 MsgDisp("主人公","Thank you, ｛颯砂＊＊｝.");
 MsgDisp("主人公","(I don't want to get lifted, but I'm happy
-to be congratulated...I'm glad I worked
-so hard for the handicrafts club!)");
+to be congratulated...I'm glad I worked so
+hard for the handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

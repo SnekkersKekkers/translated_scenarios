@@ -17,9 +17,8 @@ ChEye(3,2);
 ChMotion(3,4);
 VoiceEVSPlay(3);
 VoicePlay("G020310100_03_020");
-MsgDisp("Honda","｛主人公｝. Do you think
-I've been acting weird lately? Have I been
-mean?");
+MsgDisp("Honda","｛主人公｝. Do you think I've been
+acting weird lately? Have I been mean?");
 MsgDisp("主人公","...Why is that?");
 ChEye(3,4);
 ChMouth(3,4);

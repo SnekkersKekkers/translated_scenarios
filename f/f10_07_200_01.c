@@ -18,8 +18,8 @@ ChOpen(7,37,0,0,0,#1,#1,0,1,0,30);
 ChOpen(5,254,0,0,4,#1,#1,0,2,0,30);
 VoiceEVSPlay(7);
 VoicePlay("F100720001_07_000");
-MsgDisp("Mikage","｛主人公｝, you sure are
-early aren't you?");
+MsgDisp("Mikage","｛主人公｝, you sure are early
+aren't you?");
 MsgDisp("主人公","Are ｛御影＊＊｝ and
 ｛柊＊＊＊｝ talking about
 blackboards?");

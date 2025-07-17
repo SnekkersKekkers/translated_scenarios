@@ -61,8 +61,7 @@ MsgDisp("Honda","I think I've been influenced by them more
 than by just what we've said to each
 other.");
 MsgDisp("主人公","(Is this what friendship between guys
-looks like ...it seems kind of
-wonderful?)");
+looks like ...it seems kind of wonderful?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

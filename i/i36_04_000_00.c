@@ -44,8 +44,7 @@ hit, too...)");
 orders are...");
     VoicePlay("I360400000_04_030");
     MsgDisp("Nanatsumori?","......");
-    MsgDisp("主人公","(I've felt this gaze for a while
-now...)");
+    MsgDisp("主人公","(I've felt this gaze for a while now...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

@@ -77,8 +77,8 @@ Let's go.");
     ChMotion(6,1);
     VoicePlay("S120600001_06_070");
     MsgDisp("Himuro","I'll take you home.
-I want to be with you... for just a
-little while longer.");
+I want to be with you... for just a little
+while longer.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();

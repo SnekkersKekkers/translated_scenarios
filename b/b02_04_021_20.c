@@ -14,8 +14,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402120_04_010");
-MsgDisp("Nanatsumori","... Well, next time you can sneak in
-while I'm working.
+MsgDisp("Nanatsumori","... Well, next time you can sneak in while
+I'm working.
 Want to do a shoot together?");
 MsgDisp("主人公","(Does that mean that it suits me?
 ｛七ツ森＊｝ seems to

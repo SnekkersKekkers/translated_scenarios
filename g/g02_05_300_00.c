@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020530000_05_000");
-MsgDisp("Hiiragi","...Watching the fireflies reminded me
-of the two of them.");
+MsgDisp("Hiiragi","...Watching the fireflies reminded me of
+the two of them.");
 MsgDisp("主人公","The two of them, you mean
 ｛氷室＊＊｝ and
 ｛御影＊＊｝?");

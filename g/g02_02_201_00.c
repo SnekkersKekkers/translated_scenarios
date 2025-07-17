@@ -23,8 +23,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220100_02_030");
 MsgDisp("Sassa","Yeah. I thought I was running in first
-next to you, but I got passed... So now
-I guess it feels like I'm looking at
+next to you, but I got passed... So now I
+guess it feels like I'm looking at
 someone's back.");
 MsgDisp("主人公","Um...");
 ChEye(2,2);

@@ -93,8 +93,7 @@ Well, see ya.");
 What's this piece of paper?");
     MsgDisp("主人公","Something ｛七ツ森＊｝
 left? But, if it's still here, I guess
-it's trash. Well, into the garbage
-bag...");
+it's trash. Well, into the garbage bag...");
     MsgClose();
     BGMVol(0.5,2.5);
     SEPlay("EV_SE_DOOR_014",0,0.6);

@@ -64,8 +64,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C30500_07_010");
-MsgDisp("Mikage","｛主人公｝, you're in
-demand.");
+MsgDisp("Mikage","｛主人公｝, you're in demand.");
 ChEye(5,4);
 ChMouth(5,4);
 MsgDisp("主人公","Umm...

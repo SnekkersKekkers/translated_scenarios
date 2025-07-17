@@ -19,7 +19,8 @@ today's free time?");
 Because it's the free period, we're also
 free to decide who we go with.");
     MsgDisp("主人公","Mhm.
-If it's fine with you, want to go together?");
+If it's fine with you, want to go
+together?");
     break ;
     case 3:
     MsgDisp("主人公","｛本多＊＊｝, so you're here.");
@@ -58,9 +59,8 @@ together with me?");
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("Q040300000_03_050");
-    MsgDisp("Honda","Getting a 'good morning' from
-you outside of school is pretty
-refreshing!");
+    MsgDisp("Honda","Getting a 'good morning' from you outside
+of school is pretty refreshing!");
     MsgDisp("主人公","Really?
 I guess it's because we're in a hotel?");
     ChEye(3,0);
@@ -68,17 +68,18 @@ I guess it's because we're in a hotel?");
     ChMotion(3,0,1);
     VoicePlay("Q040300000_03_060");
     MsgDisp("Honda","Exactly.
-Doesn't it feel like the two of us are
-on a trip together?");
+Doesn't it feel like the two of us are on
+a trip together?");
     MsgDisp("主人公","Hehe, it's a strange feeling, isn't it?
-...Oh, right! If it's fine with you, want to hang out
-during the free period?");
+...Oh, right! If it's fine with you, want
+to hang out during the free period?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("Q040300000_03_070");
     MsgDisp("Honda","Aww, that's what I was going to say!");
-    MsgDisp("主人公","Eh? So that means...");
+    MsgDisp("主人公","Eh?
+So that means...");
     break ;
     default :
     DbgAssert(1);
