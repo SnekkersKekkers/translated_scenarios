@@ -40,7 +40,7 @@ certain death.");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(1);
 Wait(10,0);
 CGSDAnimDisp(61,0,1);

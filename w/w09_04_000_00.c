@@ -40,7 +40,7 @@ Okay, I'm not gonna scream...");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(4);
 Wait(10,0);
 CGSDAnimDisp(60,0,4);

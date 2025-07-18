@@ -34,7 +34,7 @@ switch (ChPrmGet(6,6)){
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(6);
 Wait(10,0);
 CGSDAnimDisp(61,0,6);

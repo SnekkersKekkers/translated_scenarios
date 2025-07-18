@@ -35,7 +35,7 @@ I enjoyed this from beginning to end!");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(5);
 Wait(10,0);
 CGSDAnimDisp(60,0,5);

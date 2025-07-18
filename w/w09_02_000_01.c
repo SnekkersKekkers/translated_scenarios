@@ -34,7 +34,7 @@ Maybe I just like copying you.");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(2);
 Wait(10,0);
 CGSDAnimDisp(62,0,2);

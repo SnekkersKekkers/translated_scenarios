@@ -32,7 +32,7 @@ awkward.");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(5);
 Wait(10,0);
 CGSDAnimDisp(61,0,5);

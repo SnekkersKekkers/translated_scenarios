@@ -37,7 +37,7 @@ Cute things match well with cute people.");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(4);
 Wait(10,0);
 CGSDAnimDisp(62,0,4);

@@ -34,7 +34,7 @@ For sure.");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(2);
 Wait(10,0);
 CGSDAnimDisp(60,0,2);

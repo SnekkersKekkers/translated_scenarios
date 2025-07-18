@@ -38,7 +38,7 @@ have.");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(4);
 Wait(10,0);
 CGSDAnimDisp(61,0,4);

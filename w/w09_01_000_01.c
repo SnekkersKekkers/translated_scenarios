@@ -43,7 +43,7 @@ I wouldn't want anyone but you.");
     }
 MsgClose();
 BGMStop(1);
-EnvPause(1);
+EnvPause(1.0);
 ChClose(1);
 Wait(10,0);
 CGSDAnimDisp(62,0,1);
