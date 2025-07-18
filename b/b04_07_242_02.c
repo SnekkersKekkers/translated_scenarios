@@ -52,7 +52,7 @@ regular?'");
         ChMotion(7,0);
         ChEyeOpenLevel(7,7);
         VoicePlay("B040724202_07_040");
-        MsgDisp("Mikage","Well, I'm not the] type to hold back.");
+        MsgDisp("Mikage","Well, I'm not the type to hold back.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,5);
